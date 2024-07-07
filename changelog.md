@@ -8,6 +8,14 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.08.61
+
+### Vehicles:
+
+- #### Changes:
+
+    - **MiG-23ML** changed from **Izdeliye 23-12** to **Izdeliye 23-12A**. This was supposed to be done in 1.08.60, but there was a typo and I only wrote "12" instead of "12A".
+
 ## 1.08.60 - 06-07-2024
 
 Note: I wanted to push this update in a later and more complete state, but I'm about to disappear for 2 weeks so I have to push it now.

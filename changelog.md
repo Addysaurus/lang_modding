@@ -8,7 +8,49 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.08.59 - [DATE]
+## 1.08.60 - [DATE]
+
+Note: I wanted to push this update in a later and more complete state, but I'm about to disappear for 2 weeks so I have to push it now.
+
+### General:
+
+- #### Changes:
+
+    - The format for all countries ingame has been reworked to now display the full English name of the country and, when possible, the name of that country in its native language transliterated to Latin characters. These 2 names are seperated by a slash. The names in the bar in the hangar where you select what country you are playing have remained unchanged, except for **Great Britain** which has been renamed to the **UK** in its short name.
+    - The **War Tinder's Lang Mod** text has been changed to **War Tinder's Historical Localization Mod**.
+
+### Vehicles:
+
+- #### Changes:
+
+    - **MiG-23ML** changed from **Izdeliye 23-16** to **Izdeliye 23-12A**.
+    - The **Stormer HVM** has been renamed to the **F.V.4333 (HVM)** because **Stormer** is the name of the missile system, not the vehicle.
+
+### Weaponry
+
+- #### Changes:
+
+    - **High explosive obstracle reduction shell** changed to **High explosive obstacle reduction shell**.
+
+### Modifcations:
+
+- #### Changes:
+
+    - Renamed **BLU-1** modification to **BLU-1/B**.
+    - **GBU-8/15** modification renamed to **GBU-8/B / 15(V)1/B**.
+    - **GBU-38 JDAM** modification renamed to **GBU-38**.
+    - **GBU-12** modification renamed to **GBU-12/B**.
+    - **GBU-16** modification renamed to **GBU-16/B**.
+    - **GBU-24** modification renamed to **GBU-24/B**.
+    - **GBU-10** modification renamed to **GBU-10/B**.
+    - **GBU-10 / 24** modification renamed to **GBU-10/B / 24/B**.
+    - **AGM-123 Skipper** renamed to **AGM-123A**.
+    - **Mk. 77 Mod 4** renamed to **Mk 77 Mod 4**.
+    - **Mk78** renamed to **Mk 78 Mod 0**.
+    - **Mk77 mod 4** renamed to **Mk 77 Mod 4**.
+    - **Mk79** renamed to **Mk 79 Mod 1**.
+
+## 1.08.59 - 01-07-2024
 
 ### General:
 

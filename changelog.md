@@ -8,6 +8,91 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.08.62 - [DATE]
+
+### Vehicles
+
+- #### Changes:
+
+    - Belgian **F-16A-15OCU-CF** renamed to **F-16A-15-CF**.
+    - **Messerschmitt-Bölkow-Blohm BO 105 CB-3, Helikopter 9A** renamed to **Messerschmitt-Bölkow-Blohm | Helikopter 9A**.
+    - **BO 105 CB-2 | försökspansarvärnshelikopter med pansarvärnrobotsystemet HeliTOW** renamed to **Messerschmitt-Bölkow-Blohm / Försökscentralen | Helikopter 9A (HeliTOW)**. The short name has been changed to **hkp 9A (HeliTOW)** and its roundel has been removed. This vehicle is a mutant but this is the closest I could get.
+    - **Sud-Aviation SE 3130 Alouette II, Helikopter 2** renamed to **Sud-Aviation | Helikopter 2**.
+    - The "Fully Modernized Cobra" text has been moved to after the word "Tzefa" in the long name of the Israeli **AH-1S (FMC)**.
+    - **Agusta 204B, Helikopter 3C** renamed to **Agusta | Agusta 204B | Helikopter 3C**.
+    - The following vehicles have had their manufacturers added:
+        - **hkp 3C**
+        - **hkp 9A**
+        - **hkp 9A (HeliTOW)**
+        - **SE 313 B**
+        - **SA 316 B**
+        - **AH-64A** (Sweden)
+    - "A.H. Mk. 1" has been removed from the furthest distance name of the **Lynx A.H. Mk. 1** to match standard formatting for this mod.
+    - "A.H. Mk. 1" has been removed from the furthest distance name of the **Scout A.H. Mk. 1** to match standard formatting for this mod.
+    - The Argentinian **SK105-A2** has gotten a new roundel.
+
+### Weapons:
+
+- #### Additions:
+
+    - Added missing short text for the **HOT** missile.
+    - Added missing text for the **HOT-K3S**.
+    - Added missing text for the **UH Tiger**'s and all of the French **Tigre**s' **AIM-92A**.
+    - Added missing text for the **Swingfire**'s launcher.
+    - Added missing text for the **L37A2** machine gun.
+    - Added missing split countermeasure text (this whole split countermeasures thing is a text nightmare lol).
+    - Added missing text for the **60 APC (ATM-1)**'s launcher.
+    - Added missing text for the **JSW L/52** cannon.
+    - Added missing text for the **Type 56** cannon.
+    - Added missing text for the **GIAT М693/mod F2** autocannon.
+    - Added missing text for the **MIT 12.7 CRC F1** machine gun.
+    - Added missing text for the **kan m/41** cannon.
+    - Added missing short text for the **BGM-71A3**.
+    - Added missing text for the **BTM1** shell.
+    - Added text for the new **RVV-AE**. The modification has been added too.
+    - The following bombs have had weight and type tags added:
+        - **BAFG-230**
+        - **BFA-230/2**
+        - **BAFG-460**
+        - **BFA-460/2**
+        - **BAFG-920**
+        - **BINC-300**
+        - **BAFG-230 (Lizard 2)**
+        - **RVV-AE**
+    - Added the new default weapon texts for the following missiles:
+        - **RVV-AE**
+        - **AIM-54A**
+        - **AIM-54C**
+        - **AIM-7M**
+        - **AIM-120B**
+        - **R-27R**
+        - **R-77**
+        - **Skyflash**
+        - **AIM-9L**
+        - **V4**
+        - **AIM-7F**
+        - **PL8**
+        - **R-27R1**
+        - **Matra Super 530D**
+        - **MICA-EM**
+        - **Rb 71**
+        - **Rb 99**
+        - **AIM-9M-4**
+        - **Python 3**
+        - **Derby**
+
+- #### Changes:
+
+    - **BGM-71A3** renamed to **BGM-71A-3**.
+    - **DTB-1** renamed to **DTB1**.
+    - **230 kg BAFG-230 bomb** renamed to **Bombas Aéreas de Fins Gerais 230**.
+    - **230 kg BAF-230 ballute-type retarted bomb** renamed to **Bomba com Freio Aerodinâmico 230/2**.
+    - **460 kg BAFG-460 bomb** renamed to **Bombas Aéreas de Fins Gerais 460**.
+    - **460 kg BAF-460 ballute-type retarted bomb** renamed to **Bomba com Freio Aerodinâmico 460/2**.
+    - **920 kg BAFG-460 bomb** renamed to **Bombas Aéreas de Fins Gerais 920**.
+    - **BINC-300 incendiary bomb** renamed to **Bombas Incendiárias 300**.
+    - **BA-FG-230-Lizard-2 guided bomb** renamed to **Bombas Aéreas de Fins Gerais 230 (Lizard 2)**
+
 ## 1.08.61 - 07-07-2024
 
 ### Vehicles:

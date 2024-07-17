@@ -86,9 +86,9 @@ All dates are listed in DD-MM-YYYY format.
     - **BGM-71A3** renamed to **BGM-71A-3**.
     - **DTB-1** renamed to **DTB1**.
     - **230 kg BAFG-230 bomb** renamed to **Bombas Aéreas de Fins Gerais 230**.
-    - **230 kg BAF-230 ballute-type retarted bomb** renamed to **Bomba com Freio Aerodinâmico 230/2**.
+    - **230 kg BAF-230/2 ballute-type retarted bomb** renamed to **Bomba com Freio Aerodinâmico 230/2**.
     - **460 kg BAFG-460 bomb** renamed to **Bombas Aéreas de Fins Gerais 460**.
-    - **460 kg BAF-460 ballute-type retarted bomb** renamed to **Bomba com Freio Aerodinâmico 460/2**.
+    - **460 kg BAF-460/2 ballute-type retarted bomb** renamed to **Bomba com Freio Aerodinâmico 460/2**.
     - **920 kg BAFG-460 bomb** renamed to **Bombas Aéreas de Fins Gerais 920**.
     - **BINC-300 incendiary bomb** renamed to **Bombas Incendiárias 300**.
     - **BA-FG-230-Lizard-2 guided bomb** renamed to **Bombas Aéreas de Fins Gerais 230 (Lizard 2)**

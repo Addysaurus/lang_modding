@@ -8,7 +8,7 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.08.62 - [DATE]
+## 1.08.62 - 17-07-2024
 
 ### Vehicles
 

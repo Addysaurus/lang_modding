@@ -8,6 +8,18 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.08.63 - 17-07-2024
+
+### Vehicles
+
+- #### Changes:
+
+    - **Albatross F543** renamed to **Albatross (F 543)**.
+    - **HMS Valhalla** year changed from 1924 to 1922.
+    - **Saetta P-494** renamed to **Saetta (P 494)**.
+    - **Freccia P-493** renamed to **Freccia (P 493)**.
+    - Short name for the **Sparviero** boat has been changed to **Sparviero (P 420)**. The long name has stayed the same.
+
 ## 1.08.62 - 17-07-2024
 
 ### Vehicles

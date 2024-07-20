@@ -8,9 +8,89 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.08.63 - 17-07-2024
+## 1.08.64 - 20-07-2024
 
 ### Vehicles
+
+- #### Changes:
+
+    - "Kai" removed from the distance name of the **Ki-108 Kai** to match other vehicles.
+    - **Artilleriefährprahm Typ D1, AF 99** changed to **Artilleriefährprahm Typ D 1 | AF 99**.
+    - **Artilleriefährprahm Typ D3, AF 128** changed to **Artilleriefährprahm Typ D 3 | AF 128**.
+    - **A-4E (AFC 418)** (USA and Israel) changed to **A-4E (AFC 418-II)**. The folder containing the Israeli **A-4E (AFC 418-II)** has been adjusted accordingly.
+    - The "AFC" modification has been moved to after the vehicle's name in the long name for the **A-4E (AFC 418-II)** (USA and Israel) and the **A-4E (AFC 482)**.
+    - "otsu" changed to "Otsu" in the long name of the **Ki 43-III Otsu**.
+    - **Ki-84** changed to **Ki 84-I**.
+    - **Ki 10-II (№77 Sentai)** changed to **Ki 10-II (No. 77 Sentai)**.
+    - "-I" added to the closer of the 2 distance names for the **Ki 10-I** and **Ki 10-I (No. 1 Sentai)** to match the format of other vehicles.
+    - "-II" added to the closer of the 2 distance names for the **Ki 10-II** and **Ki 10-II (No. 77 Sentai)** to match the format of other vehicles.
+    - "-II" added to the closer of the 2 distance names for the **Ki 100-II** to match the format of other vehicles.
+    - "Otsu" added to the closer of the 2 distance names for the **Ki 102 Otsu** and **Ki 102 Otsu** to match the format of other vehicles.
+    - Every Japanese "Ki-" plane (including ones captured by other countries) has been changed from "Ki-" to "Ki " because Japanese writing does not use the "-" character and that appears to be to be a postwar addition in English. This means that, for example, the **Ki-44-I** becomes the **Ki 44-I**. This change has happened to the following vehicles and all folders associated with them:
+        - **Ki 43-II** (USA)
+        - **Ki 61-Ib** (USA)
+        - **Ki 43-III Otsu**
+        - **Ki 43-II**
+        - **Ki 61-I Hei**
+        - **Tada's Ki 61-I Hei**
+        - **Ki 61-I Kō**
+        - **Ki 61-I Otsu**
+        - **Ki 84-I**
+        - **Ki 200**
+        - **Ki 49-I**
+        - **Ki 49-II Kō**
+        - **Ki 49-II Otsu**
+        - **Ki 49-II Otsu (late)**
+        - **Ki 67-I Otsu**
+        - **Ki 67-I Kō**
+        - **Ki 10-II (No. 77 Sentai)**
+        - **Ki 10-I**
+        - **Ki 10-I (No. 1 Sentai)**
+        - **Ki 10-II**
+        - **Ki 45 Kai Kō**
+        - **Ki 45 Kai Kō (Tei)**
+        - **Ki 45 Otsu**
+        - **Ki 45 Hei**
+        - **Ki 45 Kai Hei (Tei)**
+        - **Ki 45 (Tei)**
+        - **Ki 48-II Otsu**
+        - **Ki 32**
+        - **Ki 96**
+        - **Ki 102 Otsu**
+        - **Ki 84-I Kō**
+        - **Ki 84-I Kō** (China)
+        - **Ki 84-I Otsu**
+        - **Ki 84-I Hei**
+        - **Ki 27 Otsu**
+        - **Ki 27 Otsu (No. 4 Sentai)**
+        - **Ki 43-I**
+        - **Ki 21-Ia**
+        - **Ki 44-I**
+        - **Ki 44-I (Hikō No. 47 Chūtai)**
+        - **Ki 61-I Tei**
+        - **Ki 44-II Otsu**
+        - **Ki 44-II Hei**
+        - **Ki 44-II Hei** (China)
+        - **Ki 27 Otsu** (China)
+        - **Ki 43-III Kō**
+        - **Ki 45 Kai Hei (Tei)** (China)
+        - **Ki 61-I Otsu** (China)
+        - **Ki 83**
+        - **Ki 61-II Kai Kō**
+        - **Ki 100-I**
+        - **Ki 87**
+        - **Ki 94-II**
+        - **Ki 21-I Hei**
+        - **Ki 100-II**
+        - **Ki 109**
+        - **Ki 108 Kai**
+    - **IS-4M** corrected to have **Ob"yekt 701-6** in its long name. This was done to the tutorial **IS-4M**, but I forgot to do it to the standard tech tree one.
+    - **T-2(K)** renamed to **T-2 (late)**
+    - **T-2(K) (conversion)** renamed to **T-2 (late) (ADTW)**. It's an annoying story and I don't want to talk about it.
+
+## 1.08.63 - 17-07-2024
+
+### Vehicles:
 
 - #### Changes:
 
@@ -22,7 +102,7 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.08.62 - 17-07-2024
 
-### Vehicles
+### Vehicles:
 
 - #### Changes:
 

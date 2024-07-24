@@ -8,9 +8,106 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.08.65 - [DATE]
+
+### General:
+
+- #### Changes:
+
+    - All loading screens with vehicle names in their name have been adjusted to use the vehicles' proper names and to ensure consistent formatting across all of them. I know this seems like a small change, but the game has 177 loading screens and I went insane doing this.
+
+### Vehicles:
+
+- #### Additions:
+
+    - Updated for the Skilled Marksman Battle Pass season and the Flight of the Albatross event.
+    - **Sikorsky Aircraft Corperation / Elbit Systems / Israeli Air Force** added as the manufacturer for the **AH-60**.
+    - **Vultee Aircraft** added as the manufacturer for the **A-35B**. **Vultee V-88** has been added as the manufacturer's designation.
+
+- #### Changes:
+
+    - Long name of the **Ki 200** changed from **Ki 200 Shusui** to **J8M1 | Ki 200 Shūsui**
+    - **AH-60** renamed to **Yanshuf Hamush**. Its long long story, but the short version is that the Sikorsky Armed Black Hawk Demonstrator, while similar, is not the same vehicle. The Yanshuf Hamush was developed from the ABH Demonstrator by a combination of teams from the Sikorsky Aircraft Corperation, Elbit Systems, and the Israeli Air Force. I nor anyone I know has been able to find an actual name for it so **Yanshuf Hamush**, its nickname, is the best we have. If you can find an actual name, please report it.
+    - **AH-1G** long name changed from **AH-1G Tzefa** to **AH-1G Tzefa Alef**.
+    - **AH-1Q** long name changed from **AH-1Q Tzefa** to **AH-1Q Tzefa Bet**.
+    - **AH-1S (FMC)** long name changed from **AH-1S Tzefa (Fully Modernized Cobra)** to **AH-1S Tzefa Dalet (Fully Modernized Cobra)**.
+    - **MD 500/Orev** long name changed from **MD 500/Orev Defender ""Lahatut""** to **MD 500/Orev Lahatut**
+    - **Peten** (USA and Israel) short name changed to **AH-64A**. The long name has been changed from **McDonnell Douglas Helicopter Systems | Peten** to **McDonnell Douglas Helicopter Systems | AH-64A Peten**.
+    - **Peten (PV264)** short name changed to **AH-64A (PV264)**. The long name has been changed from **McDonnell Douglas Helicopter Systems | Peten (PV264)** to **McDonnell Douglas Helicopter Systems | AH-64A Peten (PV264)**.
+    - **Saraph** short name changed to **AH-64D-I**. The long name has been changed from **Boeing Rotorcraft Systems | Saraph** to **Boeing Rotorcraft Systems | AH-64D-I Saraph**.
+    - **MD 500/Orev** long name changed from **MD 500/Orev Defender "Lahatut"** to **MD 500/Orev Lahatut**.
+    - **Rooivalk Mk1F** renamed to **Rooivalk Mk. 1F**.
+    - "Alcione" added to the long name of the **Z.1007bis III** and **Z.1007bis V**.
+    - **Alcione** (the ship, not the **Z.1007bis**) renamed to **Alcione (F 544)**. The long name has been changed from **Albatross-class, Alcione F544** to **Albatross-class, Alcione (F 544)**.
+    - The short name of the **Sholef** has been changed to the **Sholef V1**.
+    - **PBM-5A "Mariner"** renamed to **PBM-5A Mariner**. The short name has been changed to the **PBM-5A**.
+    - The **PBM-3** has been moved in the files to match the reorganization of the US air tree. I had forgotten to do this earlier. This has no affect ingame, but does make `units.csv` more organized.
+    - "Cobra" added to the long names of the **AH-1F** and **AH-1G**.
+    - **Schützenpanzer lang Typ 12-3 mit 105mm Leichtgeschütz M40A1** renamed to **Schützenpanzer lang Typ 12-3 mit 106mm Leichtgeschütz M 40 A1**. The short name has been changed to **SPz 12-3 (LGs M 40 A1).
+    - Roundel removed from the **VBCI 2 (MCT-30)**.
+    - **M247** given the name "Sergeant York" in its long name.
+    - "Cicogna" added to the long names of the **BR.20 BR** and **BR.20M M1**.
+    - **Challenger 1** folder changed from **Challenger Mk. 2 / 3** to **Challenger 1, Mk. 2 / 3** to match the names of the vehicles in it.
+    - "Moderna" removed from the short name of the **T-72M2 Moderna**.
+    - **A-35B** changed to **A-35B-VU**.
+    - **TK №106** renamned to **TK No. 106**.
+
+### Weaponry:
+
+- #### Additions:
+
+    - Added the **M401** shell.
+    - Added the **M401 (PF)** shell.
+    - Added the **Soltam M839** howitzer used by the **Sholef V1**.
+    - Added the **305 mm Mk.4 depth charge**.
+
+- #### Changes:
+
+    - Corrected updated file name for the **BGM-71A-3**. Both file name entries are now in `units_weaponry.csv` because I'm not sure if the other one is still being used.
+    - The **155 mm Soltam M839 cannon** has been renamed to the **Model 839P**.
+    - The caliber and type tag has been added to the **Model 839P** howitzer.
+    - Renamed the **305 mm Mk.4 depth charge** to the **305 mm Mk. 4 depth charge**. It'll get a proper rename later but right now it's just to fit with the rest of the mod's formatting.
+    - the **HWZ** tag has been changed to **CNN-HWZ**.
+    - **Rb 05 A** renamed to **Rb 05A**.
+
+### Modifications:
+
+- #### Additions:
+
+    - Added missing text for the **T-90S**' **Dozer Blade** modification.
+
+- #### Changes:
+
+    - "Hexachloroethane" changed to not be capitalized in the description of the naval **Exhaust smokescrean** modification.
+    - Tank modifications rework (all descriptions have been accordingly reworked):
+        - **Parts improvement** renamed to **Repair equipment**.
+        - **Improved FSE** renamed to **Fire extinguishers**.
+        - **Tracks** renamed to **Track maintenance**.
+        - **Tires** renamed to **Tire maintainance**.
+        - **Suspension** renamed to **Suspension maintainance**.
+        - **Filters** renamed to **Filter maintainance**.
+        - **Brake System** renamed to **Brake maintainance**.
+        - **Transmission** renamed to **Transmission maintainance**.
+        - **Engine** renamed to **Engine maintainance**.
+        - **Crew Replenishment** renamed to **Crew replenishment**.
+        - **Horizontal Drive** renamed to **Horizontal traverse lubrication**.
+        - **Adjustment of Fire** renamed to **Gun maintainance**.
+        - **Elevation Mechanism** renamed to **Vertical traverse lubrication**.
+        - **Rangefinder**: only description reworked
+        - **Laser rangefinder**: only description reworked
+        - **Laser warning system**: only description reworked
+        - **LWS / LR** renamed to **LRF / LWS**.
+        - **LWS / LR** renamed to **1V528-1 + 1G46 / TShU-1 + 1-11** (this is specifically the **T-90A**'s laser rangefinder and laser warning recievers).
+        - **Artillery Support** renamed to **Artillery support**.
+        - **Smoke grenade** renamed to **Smoke grenades**.
+        - **TVD** renamed to **Thermal imager**.
+        - **NVD** renamed to **Image intensifier**.
+        - **ESS** renamed to **Exhaust smokescreen**.
+        - **Dozer Blade** renamed to **Entrenching bade**.
+
 ## 1.08.64 - 20-07-2024
 
-### Vehicles
+### Vehicles:
 
 - #### Changes:
 

@@ -8,6 +8,227 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.08.66 - 30-07-2024
+
+### General:
+
+- #### Changes:
+
+    - The mod format has changed. You now just add the new files, which are all named `WTHLM_[something].csv`, and the only file you need to replace is `localization.blk`, which will get the game to read all of those files. I did absolutely just yoink this system from IFN1's lang mod because the second I found out you could do this, I was like, "Holy shit this makes my life so much easier! I don't need to stuff all my extra stuff into `_common_languages.csv` and I can keep the original files in the game while getting the game to read my new ones."
+        - The new file `WTHLM_userlang.csv` can be used to add your own edits. It is last in the load order so any changes you make in it will override all the other files. This allows you to add any of your own edits to any text ingame.
+
+### Vehicles:
+
+- #### Additions:
+
+    - Added **21 kaigun kōkūshō** as the manufacturer for the **J2M4 Kai**.
+    - Added **Soltam Systems** as the manufacturer for the **Sholef V1**.
+
+- #### Changes:
+
+    - All Japanese vessels have had "IJN" removed from their names. These names are commonly written with "IJN", but no historical documentation supports this nomenclature.
+    - All Italian vessels have had "RN" removed from their names. No historical documentation supports this nomenclature and it's not even commonly written. Gaijin just made this one up.
+    - The **JAS 39 A** has been changed to the **JAS 39 A (Cobra)** due to having the Cobra HMDS.
+    - The **JAS 39 C** has been changed to the **JAS 39 C (Cobra)** due to having the Cobra HMDS.
+    - The South African **Gripen C** has been changed to the **Gripen C (Cobra)** due to having the Cobra HMDS.
+    - **B-17E (early)** long name changed to **B-17E Flying Fortress (Sperry No. 645705-D)**.
+    - **B-17E (late)** long name changed to **B-17E Flying Fortress (Sperry No. 645849-J)**.
+    - Japanese air rework (all folders have been adjusted accordingly) (I thank Wiggly_Armed_Man so much for helping with this, I would have died without him helping me on this and answering my questions, especially on whatever the hell that shi kō/otsu/hatsu/whatever system):
+        - "kō", "otsu", "hei", and "tei" are no longer capitalized. "kai" is no longer capitalized, but only when it is not part of a vehicle's proper name (e.g. the **Ki 45 Kai** is now the **Ki 45 kai**, but the **Kikka Kai** stays as is (well, the **Kikka Kai** was also changed but in a different way)).
+        - The **F-86F-30 / 40** folder has recieved its missing roundel.
+        - **Ki 32** long name changed to **98 shiki kei bakugekiki | Ki 32**.
+        - **E7K2** long name changed to **94 shiki suijō teisatsuki 2 gata | E7K2** (the **E7K2** is the Japanese ship-launched floatplane).
+        - **Ki 48-II Otsu** long name changed to **99 shiki sōhatsu kei bakugekiki 2 gata otsu | Ki 48-II otsu**.
+        - **B5N2** long name changed to **97 shiki kanjō kōgekiki 12 gata | B5N2**.
+        - **Ki 43-I** long name changed to **1 shiki sentōki 1 gata hei | Ki 43-I hei "Hayabusa"**. The short name has been changed to **Ki 43-I hei**.
+        - **Ki 43-II** (USA and Japan) long name changed to **1 shiki sentōki 2 gata kō | Ki 43-II kō "Hayabusa"**. The short name has been changed to **Ki 43-II kō**.
+        - **Ki 43-III Otsu** long name changed to **1 shiki sentōki 3 gata otsu | Ki 43-III otsu "Hayabusa"**.
+        - **Ki 43-III Kō** long name changed to **1 shiki sentōki 3 gata kō | Ki 43-III kō "Hayabusa"** (this is the **Ki 43-III kō** in the Chinese tree).
+        - **Ki 49-I** long name changed to **100 shiki jū bakugekiki 1 gata | Ki 49-I "Donryu"**.
+        - **Ki 49-II Kō** long name changed to **100 shiki jū bakugekiki 2 gata kō | Ki 49-II kō "Donryu"**.
+        - **Ki 49-II Otsu** long name changed to **100 shiki jū bakugekiki 2 gata otsu | Ki 49-II Otsu "Donryu"**.
+        - **Ki 49-II Otsu (late)** long name changed to **100 shiki jū bakugekiki 2 gata otsu | Ki 49-II otsu "Donryu" (late)**.
+        - **Ki 67-I Kō** long name changed to **4 shiki jū bakugekiki 1 gata kō | Ki 67-I kō "Hiryū"**.
+        - **Ki 67-I Otsu** long name changed to **4 shiki jū bakugekiki 1 gata otsu | Ki 67-I otsu "Hiryū"**.
+        - **R2Y2-J** long name changed to **shisei Keiun Kai rikujō kōgekiki 11 gata | R2Y2-G**. The short name has changed to **R2Y2-G (11 gata)**.
+        - **R2Y2-Ja** long name changed to **shisei Keiun Kai rikujō kōgekiki 22 gata | R2Y2-G**. The short name has changed to **R2Y2-G (22 gata)**.
+        - **R2Y2-Jb** long name changed to **shisei Keiun Kai rikujō kōgekiki 32 gata | R2Y2-G**. The short name has changed to **R2Y2-G (32 gata)**. The short version of this story is that none of the R2Y2s were real. The 11 gata was basically a napkin drawing, and the 22 gata and 32 gata are entirely fictional, so none of them ever had any form of official name beyond "Keiun Kai" for the general R2Y2 program. However, going by the how the 1943 Japanese designation scheme works, this is most likely what it would have gotten called during its prototype phase (calling it anything resembling a production phase would be even more ridiculous than this already is).
+        - **Kikka Kai** renamed to **shisei Kikka Kai rikujō sentōki 21 gata kō | M7N1-J kō**. It's a long story (but you're getting used to that by now). Basically, the version of the **Kikka** we have ingame is a planned fighter variant with **Ne-20 kai** engines and 2 **Type 5** cannons. The **Kikka** also falls under the post-1943 naval aviation designation scheme, meaning that for the model, the first digit represents an engine change and the second digit represents an airframe change. Armament changes are denoted with "kō", "otsu", "hei", and "tei". The ingame **Kikka** was buffed years ago so its engines have the performance of the **Ne-20 kai**, even though they weren't renamed (the **Ne-20** has been renamed to the **Ne-20 kai** in this update though), and it has the **Type 5** cannon. So it is this planned fighter version. The names **M7N** and **M8N** are the options for what the **Kikka**'s shortform name could have been. J9N and J9Y are both incorrect. What the name was has been lost, but these are the options. One of them was the **Kikka**, and the other was the Fujihana, but we aren't sure which was which. However, the **Kikka** was likely ordered earlier and was definitely built earlier because multiple **Kikka** airframes were in varying stages of construction, including 1 full prototype, while the Fujihana never left the drawing board. These naval shortform designations (e.g. **B6N**, **G8N**, **J5N**, etc.) were usually assigned upon the vehicle being built. Given that the **Kikka** was built and the Fujihana never left the drawing board, the name **M7N** would likely have been the name for the Kikka, rather than the later **M8N**.
+        - **J8M1** removed from the long name of the **Ki 200**. I know I literally just added this last patch, but the **J8M1** and the **Ki 200** had slightly different dimensions and guns. Couldn't get concrete stuff on the ingame one's dimensions, but the guns are that of the **Ki 200**. The long name of the **Ki 200** has been changed to **shisei Shūsui | Ki 200**.
+        - **B7A2 Ryusei** renamed to **shisei Ryūsei kanjō kōgekiki | B7A1**.
+        - **B7A2 (Homare 23) Ryusei** renamed to **shisei Ryūsei Kai kanjō kōgekiki | B7A2**. It's a long story but basically, what is translated as **B7A2** in English is actually the **B7A1**, and the **B7A2 (Homare 23)**, of which only 1 was built, is actually the **B7A2**, with only 1 **B7A2** prototype ever being built.
+        - **A6M2b** (the American one) long name changed to **0 shiki kanjō sentōki 21 gata | A6M2 "Rei-Sen" "Akutan Zero"**. The short name has been changed the **A6M2 (21 gata)**.
+        - **A6M2b** long name changed to **0 shiki kanjō sentōki 21 gata | A6M2 "Rei-Sen"**. The short name has been changed the **A6M2 (21 gata)**.
+        - **A6M2b** (the Chinese one) long name changed to **0 shiki kanjō sentōki 21 gata | A6M2 "Rei-Sen"**. The short name has been changed the **A6M2 (21 gata)**.
+        - **A6M2-N** long name changed to **2 shiki suijō sentōki | A6M2-N**.
+        - **A6M3** long name changed to **0 shiki kanjō sentōki 32 gata | A6M3 "Rei-Sen"**. The short name has been changed to **A6M3 (32 gata)**.
+        - **A6M5** long name changed to **0 shiki kanjō sentōki 52 gata | A6M5 "Rei-Sen"**.
+        - **A6M5** (the Chinese one) long name changed to **0 shiki kanjō sentōki 52 gata | A6M5 "Rei-Sen"**.
+        - **A6M3a** long name changed to **0 shiki kanjō sentōki 22 gata | A6M3 "Rei-Sen"**. The short name has been changed to **A6M3 (22 gata)**.
+        - **A6M3b** long name changed to **0 shiki kanjō sentōki 22 gata kō | A6M3 kō "Rei-Sen"**. The short name has been changed to **A6M3 kō**.
+        - **A6M5a** long name changed to **0 shiki kanjō sentōki 52 gata kō | A6M5 kō "Rei-Sen"**. The short name has been changed to **A6M5 kō**.
+        - **A6M5c** long name changed to **0 shiki kanjō sentōki 52 gata hei | A6M5 hei "Rei-Sen"**. The short name has been changed to **A6M5 hei**.
+        - **A6M6** long name changed to **0 shiki kanjō sentōki 53 gata | A6M6 "Rei-Sen"**. The short name has been changed to **A6M6**.
+        - **A6M5b** long name changed to **0 shiki kanjō sentōki 52 gata otsu | A6M5 otsu "Rei-Sen"**. The short name has been changed to **A6M5 otsu**.
+        - **A6M2a** long name changed to **0 shiki kanjō sentōki 11 gata | A6M2 "Rei-Sen"**. The short name has been changed to **A6M2 (11 gata)**.
+        - **B6N1** long name changed to **Tenzan kanjō kōgekiki 11 gata | B6N1**.
+        - **B6N2** long name changed to **Tenzan kanjō kōgekiki 12 gata | B6N2**.
+        - **B6N2 Kō** long name changed to **Tenzan kanjō kōgekiki 12 gata kō | B6N2 kō**.
+        - **A5M4** long name changed to **96 shiki 4 gō kanjō sentōki 4 gata | A5M4**.
+        - **Hagiri's A5M4** long name changed to **Matsuo Hagiri's 96 shiki 4 gō kanjō sentōki 4 gata | A5M4**.
+        - **N1K1-Ja** long name changed to **Shiden rikujō sentōki 11 gata | N1K1-J**. The short name has been changed to **N1K1-J**.
+        - **N1K2-J** long name changed to **Shiden Kai rikujō sentōki 12 gata | N1K2-J**.
+        - **N1K2-Ja** long name changed to **Shiden Kai rikujō sentōki 12 gata kō | N1K2-J kō**. The short name has been changed to **N1K2-J kō**.
+        - **N1K1** long name changed to **Kyōfū suijō sentōki | N1K1**.
+        - **F1M2** long name changed to **0 shiki kansokuki | F1M2**.
+        - **E8N2** (the ship-launchged floatplane) long name changed to **95 shiki suijō teisatsuki 2 gata | E8N2**.
+        - **E13A1** (the ship-launchged floatplane) long name changed to **0 shiki suijō teisatsuki 11 gata | E13A1**.
+        - **D4Y1** long name changed to **Suisei kanjō bakugekiki 11 gata | D4Y1**.
+        - **D4Y2** long name changed to **Suisei kanjō bakugekiki 12 gata | D4Y2**.
+        - **D4Y3a** long name changed to **Suisei kanjō bakugekiki 33 gata kō | D4Y3 kō**. The short name has been changed to **D4Y3 kō**.
+        - **Ki 10-I** long name changed to **95 shiki sentōki 1 gata | Ki 10-I**.
+        - **Ki 10-II** long name changed to **95 shiki sentōki 2 gata | Ki 10-II**.
+        - **Ki 10-I (No. 1 Sentai)** long name changed to **95 shiki sentōki 1 gata | Ki 10-I (Hikō No. 1 Sentai)**.
+        - **Ki 10-II (No. 77 Sentai)** long name changed to **95 shiki sentōki 2 gata | Ki 10-II (Hikō No. 77 Sentai)**.
+        - **J7W1** long name changed to **18 shi otsu rikujō sentōki | shisei Shinden | J7W1**.
+        - **A7M1 (NK9H)** long name changed to **17 shi kō kanjō sentōki | shisei Reppū | A7M1**. The short name has been changed to **A7M1**.
+        - **A7M2** long name changed to **Reppū kanjō sentōki 11 gata**.
+        - **Ki 27 Otsu** (Japan and China) long name changed to **97 shiki sentōki otsu | Ki 27 otsu**.
+        - **Ki 27 Otsu (No. 4 Sentai)** (Japan and China) long name changed to **97 shiki sentōki otsu | Ki 27 otsu (Hikō No. 4 Sentai)**.
+        - **Ki 44-I** long name changed to **2 shiki sentōki 1 gata | Ki 44-I "Shōki"**.
+        - **Ki 44-I (Hikō No. 47 Chūtai)** long name changed to **2 shiki sentōki 1 gata | Ki 44-I ""Shōki"" (Dokuritsu Hikō No. 47 Chūtai)**. The short name has changed to **Ki 44-I (No. 47 Chūtai)**.
+        - **Ki 44-II Otsu** (Japan and China) long name changed to **2 shiki sentōki 2 gata otsu | Ki 44-II otsu "Shōki"**.
+        - **Ki 44-II Hei** (Japan and China) long name changed to **2 shiki sentōki 2 gata hei | Ki 44-II hei "Shōki"**.
+        - **Ki 61-I Tei** long name changed to **3 shiki sentōki 1 gata tei | Ki 61-I tei "Hien"**.
+        - **Ki 61-I Otsu** (Japan and China) long name changed to **3 shiki sentōki 1 gata otsu | Ki 61-I otsu "Hien"**.
+        - **Ki 61-I Kō** long name changed to **3 shiki sentōki 1 gata kō | Ki 61-I kō ""Hien""**.
+        - **Ki 61-I Hei** long name changed to **3 shiki sentōki 1 gata hei | Ki 61-I hei "Hien"**.
+        - **Tada's Ki 61-I Hei** long name changed to **Tada Takeichi's 3 shiki sentōki 1 gata hei | Ki 61-I hei "Hien"**.
+        - **Ki 61-I Kai Ko** long name changed to **3 shiki sentōki 1 gata kai kō | Ki 61-I kai kō "Hien"**.
+        - **Ki 61-Ib** (the American one) long name changed to **3 shiki sentōki 1 gata otsu | Ki 61-I otsu "Hien"**. The short name has been changed to **Ki 61-I otsu**.
+        - **Ki 100-I** long name changed to **5 shiki sentōki 1 gata kō | Ki 100-I kō**. The short name has been changed to **Ki 100-I kō**.
+        - **Ki 100-II** long name changed to **5 shiki sentōki 2 gata | Ki 100-II**.
+        - **Ki-84-I Kō** (Japan and China) long name changed to **4 shiki sentōki 1 gata kō | Ki 84-I kō "Hayate"**.
+        - **Ki-84-I Otsu** (Japan and China) long name changed to **4 shiki sentōki 1 gata otsu | Ki 84-I otsu "Hayate"**.
+        - **Ki-84-I Hei** (Japan and China) long name changed to **4 shiki sentōki 1 gata hei | Ki 84-I hei "Hayate"**.
+        - **Ki 45 Kai Kō** renamed to **2 shiki fukuza sentōki kō | Ki 45 kai kō "Toryu"**.
+        - **Ki 45 Kai Kō (Tei)** renamed to **2 shiki fukuza sentōki kō | Ki 45 kai kō "Toryu" (tei equipment)**.
+        - **Ki 45 Otsu** renamed to **2 shiki fukuza sentōki otsu | Ki 45 kai otsu "Toryu"**. The short name has been changed to **Ki 45 kai otsu**.
+        - **Ki 45 Hei** renamed to **2 shiki fukuza sentōki hei | Ki 45 kai hei "Toryu"**. The short name has been changed to **Ki 45 kai hei**.
+        - **Ki 45 Hei/Tei** (Japan and China, but the Japanese one is unused) renamed to **2 shiki fukuza sentōki hei | Ki 45 kai hei "Toryu" (tei equipment)**. The short name has been changed to **Ki 45 kai hei (tei)**.
+        - **Ki 45 Tei** renamed to **2 shiki fukuza sentōki tei | Ki 45 kai tei "Toryu"**. The short name has been changed to **Ki 45 kai tei**.
+        - **D3A1** long name changed to **99 shiki kanjō bakugekiki 11 gata | D3A1**.
+        - **J1N1** long name changed to **13 shi hatsu rikujō sentōki | J1N1**.
+        - **J2M3** long name changed to **Raiden rikujō sentōki 21 gata | J2M3**.
+        - **J2M4 Kai** long name changed to **21 kaigun kōkūshō | Raiden rikujō sentōki 32 gata | J2M4**. The short name has been changed to **J2M4 (21 kaigun kōkūshō)**.
+        - **J2M2** long name changed to **Raiden rikujō sentōki 11 gata | J2M2**.
+        - **J2M5** long name changed to **Raiden rikujō sentōki 33 gata | J2M5**.
+        - **J2M5 (Type 5)** long name changed to **Raiden 33 gata kō rikujō sentōki | J2M5 kō**. The short name has been changed to **J2M5 kō**.
+        - **J5N1** long name changed to **18 shi otsu rikujō sentōki | shisei Tenrai | J5N1**.
+        - **P1Y1** long name changed to **Ginga rikujō bakugekiki 11 gata | P1Y1**.
+        - **Ki 21-Ia** long name changed to **97 shiki jū bakugekiki 1 gata kō | Ki 21-I kō**. The short name has been changed to **Ki 21-I kō**.
+        - **Ki 21-I Hei** long name changed to **97 shiki jū bakugekiki 1 gata hei | Ki 21-I hei**.
+        - **H6K4** long name changed to **97 shiki hikōtei 22 gata | H6K4**.
+        - **H8K2** long name changed to **2 shiki hikōtei 12 gata | H8K2**.
+        - **H8K3** long name changed to **2 shiki hikōtei 22 gata | H8K3**.
+        - **G4M1** long name changed to **1 shiki rikujō kōgekiki 11 gata | G4M1**.
+        - **G5N1** long name changed to **13 shi rikujō kōgekiki | shisei Shinzan | G5N1**.
+        - **G5N2** long name changed to **shisei Shinzan | G5N2**.
+        - **G8N1** long name changed to **shisei Renzan | G8N1**.
+        - **G8N2** long name changed to **shisei Renzan Kai | G8N2**.
+        - **P-51C-11-NT** long name changd to **P-51C-11-NT "Evalina"**.
+        - **B-17E (early)** (the Japanese one) long name changed to **B-17E Flying Fortress (Sperry No. 645705-D)**.
+        - **A7He1** long name changed to **Heinkel 112 gata rikujō sentōki | A7He1**.
+        - **J6K1** long name changed to **18 shi kō rikujō sentōki | shisei Jinpū | J6K1**.
+    - `units.csv` reorganization has been done for rank 2 of the German ground tree (because I'm working by vehicle families and where they start, that is literally 4 vehicles, but whatever).
+    - **I-153 (M-62)** renamed to **I-153 (ASh-62)**.
+    - **Zhukovsky's I-153 (M-62)** renamed to **Zhukovsky's I-153 (ASh-62)**.
+    - **Spitfire Mk. IXc** mid distance name changed to **Spitfire Mk. IX**. The Spitfires are all awaiting a review, but this is just to keep consistency until then.
+    - **Type 4 Chi-To (prototype №2)** renamed to **Type 4 Chi-To (prototype No. 2)** The folder has been adjusted accordingly.
+    - **Stefano Turr** long name changed from **Mototorpediniera, Stefano Turr** to **Motoscafo Armato Silurante, Stefano Turr**. There is literally a peer-reviewed paper on this that is one of the first search results for "Stefano Turr" on Google, so it baffles me how Gaijin messed this one up.
+    - **MS-472** renamed to **MS 472**.
+    - **MV-611** renamed to **MV 611**.
+    - **MS-473** renamed to **MS 473**.
+    - **MC-490** renamed to **MC 490**.
+    - **MS-15** renamed to **MS 15**.
+    - **MS-53** renamed to **MS 53**.
+    - **MS-74** renamed to **MS 74**.
+    - **S.M.79 I (1936) / VIII (1939)** folder renamed to **S.M.79 I / VIII**. The vehicles in it have remained the same.
+    - **UH-1C** long name changed to **UH-1C Iroquois**.
+    - **UH-1C (XM30)** long name changed to **UH-1C Iroquois (XM30)**.
+    - **Type K-3 №1** renamed to **Type K-3 No. 1**.
+    - **Type K-7 №4** renamed to **Type K-7 No. 4**.
+    - **Type K-8 №13** renamed to **No. 14 (1942)**. The long name has changed to **No. 13-class (K-8), No. 14 (1942)**. All of the Japanese naval stuff will be reworked more in the future, but I cannot bring myself to read any more Kanji right now, so this is just a consistency change.
+    - **Dark Aggressor (FPB 1102) «TD»** renamed to **Dark Aggressor (FPB1102)**.
+    - **Dark Aggressor (P1102)** renamed to **Dark Aggressor (FPB1102)**.
+    - **Dark Adventurer (P1101)** renamed to **Dark Adventurer (FPB1101)**. A full British naval rework will happen later.
+    - **Baku** (the AI aircraft carrier) long name changed from **Baku, project 11434** to **Proyekt 11434, Baku**.
+    - **Bravy** long name changed from **Pr.56-K, Bravy, 1967** to **Pr. 56-K, Bravy, 1967**. A full Soviet naval tree rework will happen later.
+    - German captured **P-47D-RE** renamed to **P-47D-27-RE**.
+    - **TKA №12/5 (ShVAK-20)** renamed to **TKA No. 12/5 (ShVAK-20)**.
+    - **Su-25 (558-y ARZ)** long name changed from **Su-25 (558-y ARZ modification)** to **JSC Sukhoi Company / 558-y ARZ | Su-25**, with 558-y ARZ now being a manufacturer.
+    - **LeFlaSys Ozelot** long name changed from **Leichtes Flugabwehrsystem mit Waffenträger Ozelot** to **leichtes Flugabwehrsystem mit Waffenträger Ozelot**. The short name has changed to **leFlaSys Ozelot**.
+    - **Wiesel 1 A4 MK20** renamed to **Wiesel 1 A4 MK**. The mid distance name has been changed from **Wiesel 1 A4 MK20** to **Wiesel 1 A4**.
+
+### Weaponry:
+
+- #### Changes:
+
+    - **76 mm HE OF-62** renamed to **OF-62**.
+    - **76 mm HE ZS-62** renamed to **ZS-62**.
+
+### Modifications:
+
+- #### Changes:
+
+    - The "APU" pylon names have been removed from the modification names of Soviet and Russian missiles and the modifications have been renamed. This has happened to the following modifications:
+        - **APU-60 (R-60)** → **R-60**
+        - **APU-60-2 (R-60)** → **R-60 x4**
+        - **APU-60-2 (R-60M)** → **R-60M**
+        - **APU-60-2 (R-60MK)** → **R-60MK**
+        - **APU-3S (R-3S)** → **R-3S**
+        - **APU-3S (R-3R)** → **R-3R**
+        - **APU-23 (R-23R / T)** → **R-23R / T**
+        - **APU-23M (R-23R)** → **R-23R**
+        - **APU-23M (R-23T)** → **R-23T**
+        - **APU-23M (R-24R)** → **R-24R**
+        - **APU-23M (R-24T)** → **R-24T**
+        - **APU-23M (R-24R / T)** → **R-24R / T**
+        - **APU-13MTE (R-13M1)** → **R-13M1**
+        - **APU-470 (R-27R / T)** → **R-27R / T**
+        - **APU-470 (R-27R)** → **R-27R**
+        - **APU-470 (R-27T)** → **R-27T**
+        - **APU-470 (R-27T / ET)** → **R-27T / ET**
+        - **APU-470 (R-27R / ER)** → **R-27R / ER**
+        - **APU-470 (R-27R1 / ER1)** → **R-27R1 / ER1**
+        - **APU-470 (R-27T1 / ET1)** → **R-27T1 / ET1**
+        - **APU-470 (R-27ER)** → **R-27ER**
+        - **APU-470 (R-27ET)** → **R-27ET**
+        - **APU-470 (R-27ER1)** → **R-27ER1**
+        - **APU-470 (R-27ET1)** → **R-27ET1**
+        - **APU-470 (R-27R1)** → **R-27R1**
+        - **APU-470 (R-27T1)** → **R-27T1**
+        - **APU-73-1D (R-73)** → **R-73**
+        - **APU-73-1D (R-73E)** → **R-73E**
+        - **AKU-170 (R-77)** → **R-77**
+    - **Gun maintainance** modification renamed to **Gun calibration**
+    - **Add-on Armor** modification renamed to **Additional armor**.
+    - The **Offensive [caliber] mm** and **Turret [caliber] mm** modification have been renamed to **[caliber] mm ammunition belts**.
+    - The **New [caliber] mm cannons/MGs/MGs (turret)/cannons (turret)** modifications have been renamed to **[caliber] mm cannons/MG/turret MG/turret cannons maintainance**.
+    - The **M7N1-J kō**'s **Otsu mod.** modification has been renamed to **Type 5 x2** because it just gives you an extra **Type 5** cannon, bringing the total to 2. **M7N1-J kō** is already a very shakey name (not that we have a better one), but it at least fits with what it would have been called to the best of our knowledge/guesstimation. The name "otsu" for any piece of this thing is even more fake though.
+
+### Engines:
+
+- #### Additions:
+
+    - Adding missing text for the **Sholef V1**'s **AVDS-1790-5A** engine.
+
+- #### Changes:
+
+    - The **Ne-20** engine has been renamed to the **Ne-20 kai** because it has the performance of that variant.
+    - **M-62** engine renamed to **ASh-62**.
+    - **Pegasus Mk. III-M3** renamed to **Pegasus Mk. IIIM3**.
+
 ## 1.08.65 - 24-07-2024
 
 ### General:

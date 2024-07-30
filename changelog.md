@@ -33,7 +33,7 @@ All dates are listed in DD-MM-YYYY format.
     - The South African **Gripen C** has been changed to the **Gripen C (Cobra)** due to having the Cobra HMDS.
     - **B-17E (early)** long name changed to **B-17E Flying Fortress (Sperry No. 645705-D)**.
     - **B-17E (late)** long name changed to **B-17E Flying Fortress (Sperry No. 645849-J)**.
-    - Japanese air rework (all folders have been adjusted accordingly) (I thank Wiggly_Armed_Man so much for helping with this, I would have died without him helping me on this and answering my questions, especially on whatever the hell that shi kō/otsu/hatsu/whatever system):
+    - Japanese air rework (all folders have been adjusted accordingly) (I thank Wiggly_Armed_Man so much for helping with this, I would have died without him helping me on this and answering my questions, especially on whatever the hell that shi kō/otsu/hatsu/whatever system is):
         - "kō", "otsu", "hei", and "tei" are no longer capitalized. "kai" is no longer capitalized, but only when it is not part of a vehicle's proper name (e.g. the **Ki 45 Kai** is now the **Ki 45 kai**, but the **Kikka Kai** stays as is (well, the **Kikka Kai** was also changed but in a different way)).
         - The **F-86F-30 / 40** folder has recieved its missing roundel.
         - **Ki 32** long name changed to **98 shiki kei bakugekiki | Ki 32**.
@@ -166,7 +166,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Bravy** long name changed from **Pr.56-K, Bravy, 1967** to **Pr. 56-K, Bravy, 1967**. A full Soviet naval tree rework will happen later.
     - German captured **P-47D-RE** renamed to **P-47D-27-RE**.
     - **TKA №12/5 (ShVAK-20)** renamed to **TKA No. 12/5 (ShVAK-20)**.
-    - **Su-25 (558-y ARZ)** long name changed from **Su-25 (558-y ARZ modification)** to **JSC Sukhoi Company / 558-y ARZ | Su-25**, with 558-y ARZ now being a manufacturer.
+    - **Su-25 (558-y ARZ)** long name changed from **Su-25 (558-y ARZ modification)** to **558-y ARZ | Su-25**, with 558-y ARZ now being a manufacturer.
     - **LeFlaSys Ozelot** long name changed from **Leichtes Flugabwehrsystem mit Waffenträger Ozelot** to **leichtes Flugabwehrsystem mit Waffenträger Ozelot**. The short name has changed to **leFlaSys Ozelot**.
     - **Wiesel 1 A4 MK20** renamed to **Wiesel 1 A4 MK**. The mid distance name has been changed from **Wiesel 1 A4 MK20** to **Wiesel 1 A4**.
 

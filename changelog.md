@@ -8,6 +8,117 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.08.67 - 07-08-2024
+
+### Vehicles:
+
+- #### Additions:
+
+    - Added the **F-14A IRIAF**.
+
+- #### Changes:
+
+    - Egyptian roundel removed from the **TK-20 (A-215)**.
+    - **Sholef V1** long name changed from **Soltam Systems | Sholef V1** to **Soltam Systems | Soltam Sholef V1** because Sholef V1 was the name Soltam gave it.
+    - **A7M2** long name changed to **Reppū kanjō sentōki 11 gata | A7M2**.
+    - Chinese **Ki 44-II Hei** long name changed to **2 shiki sentōki 2 gata hei | Ki 44-II hei ""Shōki""**. The short name has been changed to **Ki 44-II hei**. I forgot to do this in 1.08.66.
+    - **M-51 Degem C** renamed to **M-51 Degem G**.
+    - **Sho't Cal C** renamed to **Sho't Cal G**.
+    - **Magach 6C** renamed to **Magach 6G**. The folder has adjusted accordingly.
+    - **Magach 7C** renamed to **Magach 7G**. The folder has adjusted accordingly.
+    - Japanese ground tree rework (folders have been adjusted accordingly) (thanks to Wiggly_Armed_Man for helping understand how some of the naming systems work):
+        - **Chi-To** long name changed to **4 shiki chū sensha Chi-To**.
+        - **Chi-To (prototype No. 2)** long name changed to **4 shiki chū sensha Chi-To (prototype No. 2)**.
+        - **Chi-Nu** long name changed to **3 shiki chū sensha Chi-Nu**.
+        - **Chi-Nu II** long name changed to **3 shiki chū sensha Chi-Nu (5 shiki II gata)**. The short name has been changed to **Chi-Nu (5 shiki II gata)**.
+        - **Chi-Ri II** long name changed to **5 shiki chū sensha Chi-Ri**. The short name has changed to **Chi-Ri**.
+        - **Ka-Mi** long name changed to **toku 2 shiki naikatei Ka-Mi**.
+        - **Ka-Chi** long name changed to **toku 3 shiki naikatei Ka-Chi**.
+        - **Chi-Ha** (Japan and China) long name changed to **97 shiki chū sensha Chi-Ha**.
+        - **Chi-Ha Kai** (Japan, China, and Twitch drop) long name changed to **97 shiki chū sensha Chi-Ha Kai**.
+        - **Ho-I** long name changed to **2 shiki hō sensha Ho-I**.
+        - **Ho-Ni III** long name changed to **3 shiki hō sensha Ho-Ni III**.
+        - **Ho-Ni I** long name changed to **1 shiki 7.5 senchi han ji hashihō Ho-Ni I**.
+        - **Chi-He** long name changed to **1 shiki chū sensha Chi-He**.
+        - **Chi-He (5th Sensha Rentai)** long name changed to **1 shiki chū sensha Chi-He (5th Sensha Rentai)**.
+        - **Ke-Ni** long name changed to **98 shiki kei sensha Ke-Ni**.
+        - **Ha-Gō (early)** (Japan and China (the Chinese one isn't ingame but is in the files)) long name changed to **95 shiki kei sensha Ha-Gō (late) (94 shiki)**. The short name has been changed to **Ha-Gō (late) (94 shiki)**. This was done because Gaijin made a mutant where they modeled the late model **Ha-Gō**, but gave it the Type 94 gun of the early model instead of the Type 98. The Chinese one has also had a roundel added to it.
+        - **Ha-Gō (commander)** long name changed to **95 shiki kei sensha Ha-Gō (commander) (94 shiki)**. The short name has been changed to **Ha-Gō (commander) (94 shiki)**. This was done because Gaijin made a mutant where they modeled the late model **Ha-Gō**, but gave it the Type 94 gun of the early model instead of the Type 98.
+        - **I-Gō Kō (late)** long name changed to **89 shiki chū sensha I-Gō kō (late)**. The short name has changed to **I-Gō kō (late)**.
+        - **Ho-Ro** long name changed to **4 shiki 15 senchi ji hashihō Ho-Ro**.
+        - **Experimental 12cm SPG** long name changed to **shisei 12 senchi ji hashihō**. The short name has been changed to **shisei 12 senchi ji hashihō** (I don't like it but I don't exactly have a better short name).
+        - **Long 12cm SPG** long name changed to **naga 12 sanchi ji hashihō**. The short name has been changed to **naga 12 sanchi ji hashihō**.
+        - **Short 12cm SPG** lone name changed to **tan 12 sanchi ji hashihō**. The short name has been changed to **tan 12 sanchi ji hashihō**.
+        - **Ro-Gō** long name changed to **95 shiki jū sensha Ro-Gō**.
+        - **Na-To** long name changed to **shisei 7.5 senchi tai sensha ji hashihō Na-To**.
+        - **Ta-Se** long name changed to **shisei taikū sensha Ta-Se**.
+        - **So-Ki** long name changed to **shisei taikū sensha So-Ki**.
+        - **Type 94 (Type 98)** long name changed to **94 shiki 6 rin jidō kasha (98 shiki 20 miri kōsha kikanju)**. The short name has been changed to **94 shiki (98 shiki)**.
+    - **F-14A IRIAF** renamed to **F-14A** with a roundel in front of it.
+
+### Weaponry:
+
+- #### Additions:
+
+    - Added:
+        - **Yasser**
+        - **Sedjil**
+        - **Fakour-90**
+    - The following guns have had their caliber and type tags added:
+        - **shisei 5 shiki 7.5 senchi sensha hō (naga) I gata**
+        - **shisei 5 shiki 7.5 senchi sensha hō (naga) II gata**
+        - **3 shiki 7.5 senchi sensha hō II gata**
+        - **94 shiki 37 miri sensha hō**
+        - **12 shiki 12 senchi sokusha kanōhō**
+        - **98 shiki 20 miri kōsha kikanju**
+    - The following missiles have recieved their type tags:
+        - **Yasser**
+        - **Sedjil**
+        - **Fakour-90**
+
+- #### Changes:
+
+    - **75 mm Type II Model I cannon** renamed to **shisei 5 shiki 7.5 senchi sensha hō (naga) I gata** (I don't know why Japan used Roman numerals here and nowhere else, but I also don't care).
+    - **75 mm Type II Model II cannon** renamed to **shisei 5 shiki 7.5 senchi sensha hō (naga) II gata**.
+    - **75 mm Type 3 cannon** renamed to **3 shiki 7.5 senchi sensha hō II gata**.
+    - **37 mm Type 94 cannon** (the Ha-Gō's one, not the naval cannon) renamed to **94 shiki 37 miri sensha hō**.
+    - **Model 839P** renamed to **M839**.
+    - **120 mm Schneider-Canet 1898 cannon** renamed to **12 shiki 12 senchi sokusha kanōhō**.
+    - **20 mm Typo 98 cannon** renamed to **98 shiki 20 miri kōsha kikanju**.
+    - **Sedjil** renamed to **AIM-23C Sedjil**. The short name has been changed to **AIM-23C**.
+
+### Engines:
+
+- #### Additions:
+
+    - **Continental Motors Company** added as the manufacturer for the **Sholef V1**'s **AVDS-1790-5A** engine. I had to do this in an mildly irritating way because this is the only engine in the game that does have a model name but not a manufacturer, but it'll work the same regardless.
+
+### Nations:
+
+- #### Changes:
+
+    - The color tags for the slash in between a nation's 2 names have been removed. This means that, when hovering over a vehicle's flag in the hanger to see the operator nation and research nation, the slash will now just be white, not gray. I would have liked it to stay gray, but the service record filter showed the color tags instead of the color, so I removed it.
+
+### Maps:
+
+- #### Changes:
+
+    - **[Operation] Mysterious Valley. Spaceport** renamed to **[Operation] Three Gorges — Spaceport**.
+    - **[Operation] Mysterious Valley (air spawns)** renamed to **[Operation] Three Gorges (air spawns)**.
+    - **[Operation] Kamchatka. East** renamed to **[Operation] East Kamchatka**.
+    - **[Air Battle] Hürtgen. Second Battle** renamed to **[Air Battle] Second Battle of Hürtgen**.
+    - **[Alternate History] Krymsk. Summer 1945** renamed to **[Alternate History] Krymsk — Summer, 1945**.
+    - **[Alternate History] Berlin. Summer 1945** renamed to **[Alternate History] Berlin — Summer, 1945**.
+    - **[Operation] Ladoga. Winter 1941** renamed to **[Operation] Ladoga — Winter, 1941**.
+    - **[Operation] Smolensk. 1941** renamed to **[Operation] Smolensk — 1941**.
+    - **[Operation] Smolensk. 1943** renamed to **[Operation] Smolensk — 1943**.
+    - **[Air Battle] France 1944** renamed to **[Air Battle] France — 1944**.
+    - **[Air Battle] Moscow 1941** renamed to **[Air Battle] Moscow — 1941**.
+    - **[Operation] Mozdok. Winter 1943** renamed to **[Operation] Mozdok — Winter, 1943**.
+    - **[Operation] Moscow. Serpukhov** renamed to **Serpukhov**.
+    - **[Operation] Moscow. 42nd kilometer** renamed to **[Operation] Moscow — 42nd kilometer**.
+    - **[Operation] Moscow. Naro-Fominsk** renamed to **Naro-Formisnk**.
+
 ## 1.08.66 - 30-07-2024
 
 ### General:

@@ -51,3 +51,49 @@ Also be aware that if the game updates to add a new piece of text or a new vehic
 The final thing to know is that sometimes, usually when the game updates, the first time you load into the game after that update, several texts will be broken. Achievements, events, and stuff like that will show the names of the files instead of the text they are supposed to show. I have no idea why War Thunder does this. But don't worry, the fix is simple! Just close the game and reload it. That's it. I don't know why War Thunder does this, but reloading the game fixes it.
 
 Thank you for downloading this mod and I hope you enjoy it (and aren't caught offguard by the level of changes lol).
+
+## Transliteration
+
+All languages are transliterated; none are translated.
+
+### Russian
+
+Russian is transliterated with a modified version of GOST 7.79-2000 A (ISO 9). Below you can find the transliteration chart used for Russian.
+
+#### Russian transliteration chart:
+
+- А а &nbsp; &nbsp;→ &nbsp; &nbsp;A a
+- Б б &nbsp; &nbsp;→ &nbsp; &nbsp;B b
+- В в &nbsp; &nbsp;→ &nbsp; &nbsp;V v
+- Г г &nbsp; &nbsp;→ &nbsp; &nbsp;G g
+- Д д &nbsp; &nbsp;→ &nbsp; &nbsp;D d
+- Е е &nbsp; &nbsp;→ &nbsp; &nbsp;Ye ye
+- Ё ё &nbsp; &nbsp;→ &nbsp; &nbsp;Ë ë
+- Ж ж &nbsp; &nbsp;→ &nbsp; &nbsp;Ž ž
+- З з &nbsp; &nbsp;→ &nbsp; &nbsp;Z z
+- И и &nbsp; &nbsp;→ &nbsp; &nbsp;I i
+- Й й &nbsp; &nbsp;→ &nbsp; &nbsp;J j
+- І і &nbsp; &nbsp;→ &nbsp; &nbsp;Ì ì (this is not a standard Russian alphabet character and is only used in this mod in Pavyel Âkaŭlyevìč Galavačoŭ's name)
+- К к &nbsp; &nbsp;→ &nbsp; &nbsp;K k
+- Л л &nbsp; &nbsp;→ &nbsp; &nbsp;L l
+- М м &nbsp; &nbsp;→ &nbsp; &nbsp;M m
+- Н н &nbsp; &nbsp;→ &nbsp; &nbsp;N n
+- О о &nbsp; &nbsp;→ &nbsp; &nbsp;O o
+- П п &nbsp; &nbsp;→ &nbsp; &nbsp;P p
+- Р р &nbsp; &nbsp;→ &nbsp; &nbsp;R r
+- С с &nbsp; &nbsp;→ &nbsp; &nbsp;S s
+- Т т &nbsp; &nbsp;→ &nbsp; &nbsp;T t
+- У у &nbsp; &nbsp;→ &nbsp; &nbsp;U u
+- Ў ў &nbsp; &nbsp;→ &nbsp; &nbsp;Ŭ ŭ (this is not a standard Russian alphabet character and is only used in this mod in Pavyel Âkaŭlyevìč Galavačoŭ's name)
+- Ф	ф &nbsp; &nbsp;→ &nbsp; &nbsp;F f
+- Х	х &nbsp; &nbsp;→ &nbsp; &nbsp;Kh kh
+- Ц	ц &nbsp; &nbsp;→ &nbsp; &nbsp;Cz cz (C before I, E, Y, and J)
+- Ч	ч &nbsp; &nbsp;→ &nbsp; &nbsp;Č č
+- Ш	ш &nbsp; &nbsp;→ &nbsp; &nbsp;Š š
+- Щ	щ &nbsp; &nbsp;→ &nbsp; &nbsp;Ŝ ŝ
+- Ъ	ъ &nbsp; &nbsp;→ &nbsp; &nbsp;"
+- Ы	ы &nbsp; &nbsp;→ &nbsp; &nbsp;Y y
+- Ь	ь &nbsp; &nbsp;→ &nbsp; &nbsp;'
+- Э	э &nbsp; &nbsp;→ &nbsp; &nbsp;È è
+- Ю	ю &nbsp; &nbsp;→ &nbsp; &nbsp;Û û
+- Я	я &nbsp; &nbsp;→ &nbsp; &nbsp;Â â

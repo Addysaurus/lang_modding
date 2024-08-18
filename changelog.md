@@ -8,6 +8,209 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.08.68 - 17-08-2024
+
+A new transliteration standard has been introduced for Russian. This standard is a modified version of GOST 7.79-2000 A (ISO 9). Not all Russian vehicles, engines, and weapons have been updated in this patch. Doing so would be a monumental task to take on soon before a new game update comes out, so Russian vehicles will be switched over to this new system over time.
+
+### Vehicles:
+
+- #### Changes:
+
+    - The **S.M.79 B (1936)** (Italy and Germany) has had the Romanian roundel added to it.
+    - "-BH" removed from the mid distance name of the **XA-38** for formatting consistency.
+    - **M10 GMC** (USA, China, and France) long name changed from **3-inch Gun Motor Carriage M10** to **Carriage, Motor, 3-inch Gun, M10**.
+    - **M18 GMC** (USA and China) long name changed from **M18 Gun Motor Carriage** to **Carriage, Motor, 76mm Gun, M18**.
+    - **M18 GMC (805th TD.Bat.)** long name changed from **M18 Gun Motor Carriage (805th Tank Destroyer Battalion) "Black Cat"** to **Carriage, Motor, 76mm Gun, M18 (805th Tank Destroyer Battalion) "Black Cat"**.
+    - **M18 GMC (M3)** long name changed from **90 mm Gun Motor Carriage, M18 "Super Hellcat"** to **Carriage, Motor, 90mm Gun, M18 "Super Hellcat"**.
+    - **M8 HMC** (USA and China) long name changed from **75 mm Howitzer Motor Carriage M8** to **Carriage, Motor, 75mm Howitzer, M8 "Scott"**.
+    - **M8A1 GMC** long name changed from **75 mm Gun Motor Carriage M8A1** to **Carriage, Motor, 75mm Gun, M8A1 "Scott"**.
+    - **M8 LAC** (USA and China) long name changed from **Light Armored Car M8** to **Car, Armored, Light, M8**.
+    - **M3 GMC** long name changed from **75 mm Gun Motor Carriage M3** to **Carriage, Motor, 75mm Gun, M3**. The distance name has been changed from **75 mm M3** to **M3 GMC**.
+    - **M22** long name changed from **Light Tank M22 Locust** to **Tank, Light, M22 Locust**.
+    - **M24** (China) long name changed from **Light Tank M24 Chaffee** to **Tank, Light, M24 Chaffee**. This change had been made to the American **M24** long ago but I had forgotten to change the Chinese one.
+    - **M36 GMC** (USA and China) long name changed from **90 mm Gun Motor Carriage M36** to **Carriage, Motor, 90mm Gun, M36 "Jackson"**.
+    - **M36B2** (USA, Japan, and France) long name changed from **90 mm Gun Motor Carriage M36B2** to **Carriage, Motor, 90mm Gun, M36B2 "Jackson"**. The short name has been changed to **M36B2 GMC**. The Japanese one will definitely be changed again later when I do a rework of the non-WWII Japanese ground tree.
+    - The roundel for the Iranian **F-14A** has been changed to the emblem seen on Iran's flag (I didn't realize this emblem was in the game which is why it hadn't been changed initially). The name has also been changed from **F-14A** to **F-14A-GR**.
+    - **M103** long name changed from **120 mm Gun Tank M103** to **Tank, Combat, Full Tracked: 120mm Gun, M103**.
+    - **T32** long name changed from **Heavy Tank T32** to **Tank, Heavy, T32**.
+    - **T32E1** long name changed from **Heavy Tank T32E1** to **Tank, Heavy, T32E1**.
+    - **M47** long name changed from **90 mm Gun Tank M47 Patton II** to **Tank, Combat, Full Tracked: 90mm Gun, M47 Patton II**.
+    - Russian transliteration changes (all folders have been adjusted accordingly):
+        - **Il-28Sh** renamed to **Il-28Š**.
+        - **Scherbakov** renamed to **Ŝyerbakov**.
+        - **Mi-8AMTSh** renamed to **Mi-8AMTŠ**.
+        - **Sh-Tandem** renamed to **Š-Tandyem**.
+        - **I-153 (ASh-62)** renamed to **I-153 (AŠ-62)**.
+        - **Zhukovsky's I-153 (ASh-62)** renamed to **Žukovskij's I-153 (AŠ-62)**. The long name has been changed to **Syergyej Âkovlyevič Žukovskij's I-153 (AŠ-62)**.
+        - **MiG-15bis (ISh)** renamed to **MiG-15bis (IŠ)**.
+        - **ZSU-23-4 Shilka** renamed to **ZSU-23-4 Šilka**. The long name has stayed the same.
+        - **ZSU-23-4M4 Shilka-M4** renamed to **ZSU-23-4M4 Šilka-M4**. The short name has stayed the same.
+        - **Ob"yekt 49 | 9P149M "Shturm-S"** renamed to **Ob"yekt 49 | 9P149M "Šturm-S"**.
+        - **Il-8 (AM-42) (VYa-23)** renamed to **Il-8 (AM-42) (VÂ-23)**.
+        - **T-80UE-1** renamed to **T-80UYe-1**.
+        - **Pe-3-1** renamed to **Pye-3-1**.
+        - **Pe-3-2** renamed to **Pye-3-2**.
+        - **Pe-3bis** renamed to **Pye-3bis**.
+        - **Pe-2-31** renamed to **Pye-2-31**. The long name has changed to **Pye-2 syeriâ 31 Pyeška**.
+        - **Pe-2-1** renamed to **Pye-2-1**. The long name has changed to **Pye-2 syeriâ 1 Pyeška**.
+        - **Pe-2-83** renamed to **Pye-2-83**. The long name has changed to **Pye-2 syeriâ 83 Pyeška**.
+        - **Pe-2-205** renamed to **Pye-2-205**. The long name has changed to **Pye-2 syeriâ 205 Pyeška**.
+        - **Pe-2-110** renamed to **Pye-2-110**. The long name has changed to **Pye-2 syeriâ 110 Pyeška**.
+        - **Pe-2-359** renamed to **Pye-2-359**. The long name has changed to **Pye-2 syeriâ 359 Pyeška**.
+        - **Pe-8** renamed to **Pye-8**.
+        - **Besposhchadny** renamed to **Byespoŝadnyj**. The long name has changed from **Pr. 7 Besposhchadny, 1942** to **Pr. 7, Byespoŝadnyj, 1942**.
+        - **Frunze** renamed to **Frunzye**.
+        - **Letuchiy** renamed to **Lyetučij**.
+        - **Opytny** renamed to **Opytnyj**.
+        - **Ognevoy** renamed to **Ognyevoj**.
+        - **Kerch' (1917)** renamed to **Kyerč' (1917)**.
+        - **Ryany** renamed to **R'ânyj**.
+        - **Moskva** renamed to **Moskvá**
+        - **Soobrazitelny** renamed to **Soobrazityel'nyj**.
+        - **Bezuprechny** renamed to **Byezupryečnyj**. The distance name has been changed from **Pr. 30bis** to **Byezupryečnyj**.
+        - **Tashkent** renamed to **Taškyent**.
+        - **Smelyi** renamd to **Smyelyj**.
+        - **Krasny Kavkaz** renamed to **Krasnyj Kavkaz**.
+        - **Krasny Krym** renamed to **Krasnyj Krym**.
+        - **Spokoinyy** renamed to **Spokojnyj**.
+        - **Leningrad** renamed to **Lyeningrád**.
+        - **Blagorodnyy** renamed to **Blagorodnyj**.
+        - **Voroshilov** renamed to **Vorošilov**.
+        - **Maxim Gorky** renamed to **Maksim Gor'kij**.
+        - **Kerch' (1950)** renamed to **Kyerč' (1950)**.
+        - **Chapayev** renamed to **Čapayev**.
+        - **Bravy** renamed to **Bravyj**.
+        - **Zheleznyakov** renamed to **Žyelyeznâkov**.
+        - **Sverdlov** renamed to **Svyerdlov**.
+        - **Poltava** long name changed to **Syevastopol'-class, Poltava, 1914**.
+        - **Imperatritsa Mariya** renamed to **Impyeratricza Mariâ**.
+        - **Marat** lomg name changed to **Syevastopol'-class, Marat, 1941**.
+        - **Parizhskaya kommuna** renamed to **Parižskaâ kommuna**. The long name has been changed to **Syevastopol'-class, Parižskaâ kommuna, 1941**.
+        - **Kronshtadt** renamed to **Kronštadt**.
+        - **Novorossiysk** renamed to **Novorossijsk**.
+        - **Su-25 (558-y ARZ)** renamed to **Su-25 (558-j ARZ)**. The long name has been changed to **558-j Aviaczionnyj Ryemontnyj Zavod | Su-25**.
+        - All instances of the word "seriya" in aircraft names have been changed to "syeriâ".
+        - All Yak aircraft have had their prefix changed from "Yak" to "Âk".
+        - **Be-6** renamed to **Bye-6**.
+        - **Eremin's Yak-3** renamed to **Yerëmin's Âk-3**. The long name has been changed to **Boris Nikolayevič Yerëmin's Âk-3**.
+        - **Krasnolutsky's I-15bis** renamed to **Krasnoluczkij's I-15bis**. The long name has been changed to **Mitrofan Pyetrovič Krasnoluczkij's I-15bis**.
+        - **Dolgushin's La-7** renamed to **Dolgušin's La-7**. The long name has been changed to **Syergyej Fëdorovič Dolgušin's La-7**.
+        - All instances of the word "Izdeliye" (as well as the **Su-7BMK** which had it spelled as "Izdelite" because I made a typo) have been changed to **izd.**.
+        - **Pokryshkin's P-39N-0-BE** renamed to **Pokrýškin's P-39N-0-BE**. The long name has been changed to **Alyeksándr Ivánovič Pokrýškin's P-39N-0-BE Aèrokobra**.
+        - **Il-2M (1944) (567-y Sh.A.P.)** renamed to **Il-2M (1944) (567-j Š.A.P.)**. The long name has been changed to **Il-2M (1944) (567-j Šturmovoj Aviaczionnyj Polk)**.
+        - **Golovachev's Yak-9M** renamed to **Galavačoŭ's Âk-9M**. The long name has been changed to **Pavyel Âkaŭlyevìč Galavačoŭ's Âk-9M**.
+        - **U-2LSh** renamed to **U-2LŠ**. The long name has been changed to **U-2LŠ "Kukuruznik"**.
+        - The long name of the **U-2M** has been changed to **U-2M "Kukuruznik"**. The short name has stayed the same.
+        - **T-34 (Ekran.) (Feb 1943)** renamed to **T-34 (Èkranirovannyj) (Feb 1943)**.
+        - **KV-1 (Ekran.)** renamed to **KV-1 (Èkranirovannyj)**.
+        - **T-26-1 (Ekran.)** renamed to **T-26-1 (Èkranirovannyj)**.
+        - **T-28 (Ekran.)** renamed to **T-28 (Èkranirovannyj)**.
+        - **T-34-85 (Ekran.) (36-ya T.Br.)** renamed to **T-34-85 (Èkranirovannyj) (36-â T.Br.)**. The long name has been changed to **Ob"yekt 35 | T-34-85 (Èkranirovannyj) (36-â Tankovaâ Brigada)**.
+        - **T-34 (Ekran.) (Feb 1942)** renamed to **T-34 (Èkranirovannyj) (Feb 1942)**.
+        - **SU-76M (5-y Gv.Kav.Korp)** renamed to **SU-76M (5-j Gv.Kav.Korp)**. The long name has been changed to **SU-76M obr. 1943 g. (5-j Gvardyejskij Kavalyerijskij Korpus)**.
+        - **T-26-1 (1-ya Gv.T.Br.)** renamed to **T-26-1 (1-â Gv.T.Br.)**. The long name has been changed to **T-26-1 | T-26 obr. 1940 g. (1-â Gvardyejskaâ Tankovaâ Brigada)**.
+        - **T-34 (Jul 1941) (1-ya Gv.T.Br.)** renamed to **T-34 (Jul 1941) (1-â Gv.T.Br.)**. The long name has been changed to **Ob"yekt 34 | T-34 (July 1941) (1-â Gvardyejskaâ Tankovaâ Brigada)**.
+        - **IS-2 (2-y) (No. 321)** renamed to **IS-2 (2-j) (No. 321)**.
+        - **IS-2 (2-y) (48-y Ot.Gv.T.T.P.)** renamed to **IS-2 (2-j) (48-j Ot.Gv.T.T.P.)**. The long name has been changed to **Ob"yekt 240 | IS-2 obr. 1944 g. (2-j obr.) (48-j Otdyel'nyj Gvardyejskij Tâžyelyj Tankovyj Polk)**.
+        - **IS-2 (2-y)** (USSR and China) renamed to **IS-2 (2-j)**.
+        - **IS-2 (1-y)** (USSR and China) renamed to **IS-2 (1-j)**.
+        - **IS-2 (1-y) (3rd T.Div.)** renamed to **IS-2 (1-j) (3rd T.Div.)**.
+
+### Weaponry:
+
+- #### Changes:
+
+    - **AIM-9P-1** renamed to **AIM-9P-3**.
+    - **Fakour-90** renamed to **AIM-23B Fakour-90**. The AIM-23B came after the AIM-23C and is also a different missile (kind of, but not fully). It's confusing.
+    - Russian transliteration changes:
+        - **23 mm VYa-23 cannon** renamed to **23 mm VÂ-23 cannon**. This weapon has not recieved type and caliber tags because this isn't a proper rename of the weapon, just a change to match thr transliteration changes.
+        - **RVV-AE** renamed to **RVV-AYe**.
+        - **53-USh-354T (53-Sh-354T)** shell renamed to **53-UŠ-354T (53-Š-354T)**.
+
+### Modifications:
+
+- #### Additions:
+
+    - Added the **Yasser**.
+    - Added the **Fakour-90**.
+    - Added the **Sedjil**.
+
+- #### Changes:
+
+    - Renamed the **Sedjil** modification to the **AIM-23C** to match the missile's name.
+    - Renamed the **Fakour-90** modification to the **AIM-23B** to match the missile's new name.
+    - The **[caliber] mm ammunition belts** modification has been renamed to **[caliber] %s mm ammo belts**.
+    - The **[caliber] mm turret ammunition belts** modification has been renamed to **[caliber] mm ammo belts (turret)**.
+
+### Engines:
+
+- #### Changes:
+
+    - Russian transliteration changes:
+        - **ASh-62** engine renamed to **AŠ-62**.
+
+### Materials:
+
+- #### Additions:
+
+    - Type tags have been added for materials/armors and ERAs. For ERAs, the tag is just **ERA** and for composite armor, the tag is **CMP**. For alloys, the tag is **AL-** followed by the chemical symbol of the primary element in the alloy (e.g. the titanium alloy **BT-6** gets the tag **AL-Ti** and the aluminum alloy **AA 7039** gets the tag **AL-Al**).
+    - The following armors and materials have had their type tags added:
+
+        - **AA 7039**
+        - **AA 7020**
+        - **AA 5083**
+        - **AA 7017**
+        - **ABT-101**
+        - **ABT-102**
+        - **BT-6**
+        - **M19 Abrams Reactive Armor Tile**
+        - **M32 Abrams Reactive Armor Tile 2**
+        - **ROMOR-A**
+        - **Baltan**
+        - **AZUR**
+        - **Kontakt-5**
+        - **Kontakt-1**
+        - **FY-1**
+        - **FY-1D1**
+        - **FY-2**
+        - **FY-4**
+        - **FY-5**
+        - **DYNA**
+
+- #### Changes:
+
+    - **Aluminium alloy 7039** renamed to **AA 7039**.
+    - **Aluminium alloy 7020** renamed to **AA 7020**.
+    - **Aluminium alloy 5083** renamed to **AA 5083**.
+    - **Aluminium alloy AA7017** renamed to **AA 7017**.
+    - **Alloy ABT-101** renamed to **ABT-101**.
+    - **Alloy ABT-102** renamed to **ABT-102**.
+    - **Alloy BT-6** renamed to **BT-6**.
+    - **ARAT ERA** renamed to **M19 Abrams Reactive Armor Tile**.
+    - **ARAT 2 ERA** renamed to **M32 Abrams Reactive Armor Tile 2**.
+    - **"ROMOR-A" ERA** renamed to **ROMOR-A**.
+    - **"Blazer" ERA** renamed to **Baltan**.
+    - **AZUR ERA** renamed to **AZUR**.
+    - **"CONTACT-5" INTEGRATED ERA** renamed to **Kontakt-5**.
+    - **"CONTACT-1" ERA** renamed to **Kontakt-1**.
+    - **FY-1D1 ERA** renamed to **FY-1D1**.
+    - **FY-2 ERA** renamed to **FY-2**.
+    - **FY-4 ERA** renamed to **FY-4**.
+    - **FY-5 ERA** renamed to **FY-5**.
+    - **"DYNAS" ERA** renamed to **DYNA**.
+    - **ERA** (the ERA on the turret of the **ZTZ59D1**) renamed to **FY-2**.
+    - **ERA** (the ERA on the hull of the **ZTZ59D1**) renamed to **FY-1**.
+
+### Nations:
+
+- #### Additions:
+
+    - Added **Iran**.
+
+- #### Changes:
+
+    - **Iran** renamed to **Islamic Republic of Iran / Jomhuri-ye Eslâmi-ye Irân**.
+
 ## 1.08.67 - 07-08-2024
 
 ### Vehicles:

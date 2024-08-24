@@ -52,13 +52,17 @@ The final thing to know is that sometimes, usually when the game updates, the fi
 
 Thank you for downloading this mod and I hope you enjoy it (and aren't caught offguard by the level of changes lol).
 
+## A note about version numbering
+
+Version numbering is generally standard. 1.08.66, 1.08.67, 1.08.68, etc. That is how incremental versions work. Every time there is a major update, the second level version number changes (e.g. when Seek and Destroy came out, the version number rolled over from 1.07.XX to 1.08.XX). If you check the commit history, you will also see variants with "d" in their names (e.g. 1.08.69d9). The "d" stands for "dev" and is the marker of a dev build. These are not the official releases of the mod, those can be found in the releases tab, but you still can download and install them if you want. Just be aware that they are unfinished and may be inconsistent with themselves due to being work-in-progress. The version numbering of dev builds are also more inconsistent. You won't see commits for, for example, 1.08.69d9, 1.08.69d10, 1.08.69d11, etc. You may see, for example, a commit for 1.08.69d9, and then the next commit may be 1.08.69d12 because not all dev builds get pushed to GitHub. You can run dev builds if you want, but you will have the download the files manually because they are not part of the releases and, given the frequency at which dev builds update, I recommmend you just wait for the next release because you will be updating the mod way more times than you need to if you download every dev build.
+
 ## Transliteration
 
 All languages are transliterated; none are translated.
 
 ### Russian
 
-Russian is transliterated with a modified version of GOST 7.79-2000 A (ISO 9). Below you can find the transliteration chart used for Russian.
+Russian is transliterated with a modified version of GOST 7.79-2000 A (ISO 9:1995). Below you can find the transliteration chart used for Russian.
 
 #### Russian transliteration chart:
 

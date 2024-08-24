@@ -8,6 +8,202 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.08.69 - UNRELEASED
+
+### General:
+
+- #### Changes:
+
+    - The streak called "The last man standing!" has been renamed to "The Last One Standing!" in order to use gender-neutral language. A full review of the game's texts to bring them all over to gender-neutral language is planned for a later date (Russian stuff has been driving me far too insane for me to go on another large rework project).
+
+### Vehicles:
+
+- #### Additions:
+
+    - **Stalingradskij Traktornyj Zavod im. F.È. Dzyeržinskogo** added as the manufacturer for the following vehicles:
+        - **T-34 (Èkranirovannyj) (STZ)**
+        - **T-34 (1941) (ZiS-4)**
+    - **Zavod №112** added as the manufacturer for the **T-34 (Èkranirovannyj) (№112)**.
+    - **Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183** added as the manufacturer for the following vehicles:
+        - **T-34 (Jul, 1941) (1-â Gv.T.Br.)**
+        - **T-34 (Dec, 1940)**
+        - **T-34 (pilot)**
+    - **Ural'skij Tankovyj Zavod, Zavod №183** added as the manufacturer for the following vehicles:
+        - **T-34 (Sep, 1942) (ZiS-4M)**
+        - **T-34 (May, 1941)**
+        - **T-34 (Sep, 1942)**
+        - **T-34-100 (LB-1)**
+        - **T-34-85 (Mar, 1944)**
+    - **Omskij Zavod im. Lyenina, Zavod №174** added as the manufacturer for the **T-34-85 (Èkranirovannyj) (36-â T.Br.)**.
+
+- #### Changes:
+
+    - Russian rework:
+        - **Neustrashimy** renamed to **Nyeustrašimyj**.
+        - **Stroyny** renamed to **Strojnyj**.
+        - **Kharrikeyna F.B. MK-IIb (ShVAK)** renamed to **Kharrikeyna F.B. MK-IIb (ŠVAK)**.
+        - **TKA No. 12/5 (ShVAK-20)** renamed to **TKA No. 12/5 (ŠVAK-20)**.
+        - **GAZ-AAA (DShK)** renamed to **GAZ-AAA (DŠKT)**.
+        - **T-60** renamed to **T-60 (1942)**. The long name has remaine the same. This is because we have the later production **T-60** with increased armor from 1942.
+        - **T-34 (1942) / E STZ** folder renamed to **T-34 (Sep 1942) / (Èkranirovannyj)**.
+        - **T-34 (1940) / (1941)** folder renamed to **T-34 (Dec 1940) / (May 1941)**.
+        - **KV-1 (1940) / 2 (1939)** folder renamed to **KV-1 (Feb 1940) / 2 (Jan 1940)**
+        - **KV-1 (1941) / 85** folder renamed to **KV-1 (Jul 1941) / 85**.
+        - **SU-152 / 85 / ISU-152** folder renamed to **SU-152 (Mar 1943) / 85 / ISU-152**.
+        - **2S1 / 3** folder renamed to **2S1 / 3M**.
+        - **ZiS-12 / 43** folder renamed to **ZiS-12 (94-KM) / ZSU-37**
+        - **ZSU-37-2** long name changed from **ZSU-37-2 Yenisei** to **ZSU-37-2 "Yenisyej"**.
+        - **ASU-57** renamed to **ASU-57 (1954)** to distinguish it from the earlier model using the **Č-51** cannon. The long name has been changed to **Ob"yekt 572 | ASU-57 obr. 1954 g.**.
+        - **2S38** long name changed from **2S38 "Derivatsiya-PVO** to **2S38 "Dyerivacziâ-PVO"**.
+        - All the T-34s, KV-1s, and KV-2s have been reworked. Beyond making their long names more accurate, their dating system has been standardized. Their long names have the standard obr. dates, but they also have, in parentheses, the month and year they were made. This is because T-34, KV-1, and KV-2 variants saw several minor modifications within a single year and those need to be differentiated. In the short names, that month and date is included in paretheses instead of the obr. date. For variants such as the T-34s with the 57 mm ZiS-4 cannon, the long name includes the month and date of the base vehicle that is being modifided, followed by the modification, and then followed by the month and year of the modification. This is to make it clear what variant is being modified and when this modification happened. The short names include the date of the base variant because that is more useful to see in a short name. This is not a standardized system across the entire mod. It was needed specifically for the T-34s, KV-1s, and KV-2s. The list of changes is as follows (this drove me so insane that I never want to see the characters "T", "-", "3", and "4" in that order ever again) (all folders have been adjusted accordingly):
+            - **T-34 (Sep 1942) (ZiS-4)** renamed to **T-34 (Sep, 1942) (ZiS-4M)**. The long name has been changed to **Ural'skij Tankovyj Zavod, Zavod №183 | Ob"yekt 34 | T-34 obr. 1942 g. (September, 1942) (ZiS-4M) (July, 1943)**.
+            - **T-34 (May 1941) (ZiS-4)** renamed to **T-34 (May, 1941) (ZiS-4)**. The long name has been changed to **Stalingradskij Traktornyj Zavod im. F.È. Dzyeržinskogo | Ob"yekt 34 | T-34 obr. 1941 g. (May, 1941) (ZiS-4)**. I cannot find date of ZiS-4 modification. It is in late 1941, but I cannot find the date.
+            - **T-34 (Èkranirovannyj) (Feb 1942)** renamed to **T-34 (Èkranirovannyj) (STZ)**. The long name has been changed to **Stalingradskij Traktornyj Zavod im. F.È. Dzyeržinskogo | Ob"yekt 34 | T-34 obr. 1941 g. (Èkranirovannyj) (February, 1942)**. This "Èkranirovannyj" model is from February of 1942, but it is a modification of a 1941 model T-34 manufactured by STZ.
+            - **T-34 (Èkranirovannyj) (Feb 1943)** renamed to **T-34 (Èkranirovannyj) (№112)**. The long name has been changed to **Zavod №112 | Ob"yekt 34 | T-34 obr. 1941 g. (Èkranirovannyj) (February, 1943)**. This "Èkranirovannyj" model is from February of 1943, but it is a modification of a 1941 model T-34 manufactured by Zavod №112.
+            - **T-34 (Jul 1941) (1-â Gv.T.Br.)** renamed to **T-34 (Jul, 1941) (1-â Gv.T.Br.)**. The long name has been changed to **Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob"yekt 34 | T-34 obr. 1941 g. (July, 1941) (1-â Gvardyejskaâ Tankovaâ Brigada)**.
+            - **T-34 (May 1941)** renamed to **T-34 (May, 1941)**. The long name has been changed to **Ural'skij Tankovyj Zavod, Zavod №183 | Ob"yekt 34 | T-34 obr. 1941 g. (May, 1941)**.
+            - **T-34 (Sep 1942)** renamed to **T-34 (Sep, 1942)**. The long name has been changed to **Ural'skij Tankovyj Zavod, Zavod №183 | Ob"yekt 34 | T-34 obr. 1942 g. (September, 1942)**.
+            - **T-34 (Dec 1940)** renamed to **T-34 (Dec, 1940)**. The long name has been changed to **Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob"yekt 34 | T-34 obr. 1940 g. (December, 1940)**.
+            - The **T-34 (pilot)**'s long name has been changed to **Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob"yekt 34 | T-34 (pilot model) (March, 1940)**.
+            - The **T-34-100 (LB-1)**'s long name has been changed to **Ural'skij Tankovyj Zavod, Zavod №183 | Ob"yekt 35 | T-34-100 (LB-1)**.
+            - **T-34-85 (Mar 1944)** renamed to **T-34-85 (Mar, 1944)**. The long name has been changed to **Ural'skij Tankovyj Zavod, Zavod №183 | Ob"yekt 35 | T-34-85 obr. 1944 g. (March, 1944)**.
+            - The **T-34-85 (Èkranirovannyj) (36-â T.Br.)**'s long name has been changed to **Omskij Zavod im. Lyenina, Zavod №174 | Ob"yekt 35 | T-34-85 obr. 1944 g. (Èkranirovannyj) (September, 1944) (36-â Tankovaâ Brigada)**.
+            - **T-34-85 (Sep 1944)** renamed to **T-34-85 (Sep, 1944)**. The long name has been changed to **Ural'skij Tankovyj Zavod, Zavod №183 | Ob"yekt 35 | T-34-85 obr. 1944 g. (September, 1944)**.
+            - **KV-1 (Feb 1940)** renamed to **KV-1 (Feb, 1940)**. The long name has been changed to **KV-1 obr. 1940 g. (February, 1940)**.
+            - **KV-1 (Jul 1941)** renamed to **KV-1 (Jul, 1941)**. The long name has been changed to **KV-1 obr. 1941 g. (July, 1941)**.
+            - **KV-2 (Jan 1940)** renamed to **KV-2 (Jan, 1940)**. The long name has been changed to **KV-2 obr. 1940 g. (January, 1940)**.
+            - **KV-2 (Late 1940)** renamed to **KV-2 (late 1940)**. The long name has been changed to **KV-2 obr. 1940 g. (late 1940)**.
+            - The **KV-1 (Èkranirovannyj)**'s long name has been changed to **KV-1 obr. 1941 g. (Èkranirovannyj)**.
+            - The **KV-2 (ZiS-6)**'s long name has been changed to **KV-2 obr. 1941 g. (ZiS-6) (May, 1941)**.
+        - **2S1** long name changed to **2S1 "Gvozdika"**.
+        - **2S3M** long name changed to **2S3M "Akacziâ-M"**.
+        - **KV-220 (Jan 1940)** renamed to **KV-220**.
+    - **F-14A-GR** (Iran) renamed to **F14**. This is based off 3 different posters that call it the **F14**, at least 2 of which are from different events, and the *supposedly* official IRIAF website which calls it the **F14** in the title of articles, but the **F-14** in the text of the articles. If y'all have better sources, please send them.
+    - **Ki 44-II Hei** renamed to **Ki 44-II hei**. This had been done in the short name but I forgot to do it in the long name.
+
+### Weaponry:
+
+- #### Changes:
+
+    - **R-3R** type tag changed to **AAM-SARH**. Previously, it was erroneously listed as **AAM-IR**.
+    - Russian weapon rework (all modifications have been adjusted accordingly):
+        - **23 mm VÂ-23 cannon** renamed to **VÂ-23**.
+        - **23 mm GSh-23L cannon** renamed to **9-A-472-01 | GŠ-23L**
+        - **23 mm GSh-30-2K cannon** renamed to **9-A-623K | GŠ-2-30K**.
+        - **23 mm GSh-30-2 cannon** renamed to **9-A-623 | GŠ-2-30**.
+        - **30 mm GSh-6-30 cannon** renamed to **9-A-621 | GŠ-6-30A**.
+        - **30 mm GSh-30-1 cannon** renamed to **9-A-4071K | GŠ-301**.
+        - **7.62 mm ShKAS machine gun** renamed to **56-P-426 | ŠKAS**.
+        - **7.62 mm ShKAS machine gun** (the rear turret one) renamed to **56-P-426T | ŠKAS**.
+        - **20 mm ShVAK cannon** renamed to **56-P-113 | ŠVAK-20**.
+        - **20 mm ShVAK cannon** (the turret one) renamed to **56-P-113T | ŠVAK-20**.
+        - **12.7 mm DShK machine gun** renamed to **56-P-542T | DŠKT**.
+        - **R-73E** renamed to **R-73È**.
+        - **R-27ET** renamed to **R-27ÈT**.
+        - **R-27ET1** renamed to **R-27ÈT1**.
+        - **R-27ER** renamed to **R-27ÈR**.
+        - **R-27ER1** renamed to **R-27ÈR1**.
+        - **20 mm TNSh cannon** renamed to **TNŠ**.
+        - **23 mm AZP-23 cannon** renamed to **2A7 | AÂ-23**.
+        - **23 mm ZU-23 cannon** renamed to **2A14 | AÂ-23**
+        - **57 mm Ch-51M cannon**  renamed to **52-PS-273M | Č-51M**.
+        - **85 mm ZIS-S-53 cannon** renamed to **52-PT-365 | ZiS-S-53 obr. 1944 g.**.
+        - **85 mm/54.6 ZIS-C-53 cannon** renamed to **52-PT-365 | ZiS-S-53 obr. 1944 g.**.
+        - **85 mm D-70 cannon** renamed to **52-PS-372 | 2A15 | D-70**.
+        - **85 mm D-5T cannon** renamed to **52-PT-365A | D-5T**.
+        - **85 mm D-5S cannon** renamed to **52-PS-365 | D-5S obr. 1943 g.**.
+        - **57 mm S-68 cannon** renamed to **52-PS-282 | S-68**.
+        - **76 mm D-56TS cannon** renamed to **52-PT-347S | 2A16 | D-56TS**.
+        - **76 mm D-56T cannon** renamed to **52-PT-347 | D-56T**.
+        - **76 mm KT-28 cannon** renamed to **52-PT-353 | KT-28 obr. 1927/32 gg.**.
+        - **76 mm F-32 cannon** renamed to **52-PT-354A1 | F-32 obr. 1939 g.**.
+        - **76 mm F-34 cannon** renamed to **52-PT-354B | F-34 obr. 1940 g.**.
+        - **76 mm L-10 cannon** renamed to **52-PT-354 | L-10 obr. 1938 g.**.
+        - **76 mm L-11 cannon** renamed to **52-PT-354A | L-11 obr. 1938/39 gg.**.
+        - **76 mm ZIS-3 cannon** renamed to **52-P-354U | ZiS-3 obr. 1942 g.**
+        - **76 mm ZIS-5 cannon** renamed to **52-PT-354V | ZiS-5 obr. 1941 g.**.
+        - **76 mm F-96 cannon** renamed to **F-96**. I cannot find it's GAU index. If you know, please submit a report about it.
+        - **85 mm F-30 cannon** renamed to **F-30**. I cannot find it's GAU index. If you know, please submit a report about it.
+        - **12.7 mm DK machine gun** renamed to **56-P-541 | DK obr. 1930 g.**.
+        - **DŠKT** renamed to **DŠKT obr. 1938 g.**.
+        - **14.5 mm KPVT machine gun** renamed to **56-P-562T | KPVT**.
+        - **7.62 mm SGMT machine gun** renamed to **56-P-428MT | SGMT**.
+        - **7.62 mm DT machine gun** renamed to **56-P-322 | DT**.
+        - **7.62 mm Maxim`s machine gun** renamed to **56-P-421 | Pulyemët Maksima obr. 1910/30 gg.**.
+        - **45 mm 20-K cannon** renamed to **52-PT-243A | 20-K obr. 1932/38 gg.**.
+        - **37 mm Sh-37 cannon** renamed to **Š-37**. I cannot find it's GAU index. If you know, please submit a report about it.
+        - **37 mm SH-37 cannon** renamed to **Š-37**. I cannot find it's GAU index. If you know, please submit a report about it.
+        - **57 mm ZIS-2 cannon** renamed to **52-P-271 | F-31 | ZiS-2 obr. 1941 g.**.
+        - **57 mm AU-220 cannon** renamed to **BM-57**. The **AU-220** is the turret, not the gun.
+        - **57 mm 2A90 cannon** renamed to **2A90**.
+        - **2A73** renamed to **2A73 | LP-83 "Zarajsk"**.
+        - **57 mm ZIS-4 cannon** renamed to **52-PT-271 | ZiS-4**.
+        - **57 mm ZIS-4M cannon** renamed to **52-PT-271 | ZiS-4M**.
+        - **ZiS-6** renamed to **F-42 | ZiS-6**.
+    - The following weapons have recieved their caliber and type tags:
+        - **VÂ-23**
+        - **GŠ-23L**
+        - **GŠ-2-30K**
+        - **GŠ-2-30**
+        - **GŠ-6-30**
+        - **GŠ-301**
+        - **ŠKAS**
+        - **ŠVAK-20**
+        - **DŠKT**
+        - **TNŠ**
+        - **2A7 | AÂ-23**
+        - **2A14 | AÂ-23**
+        - **Č-51M**
+        - **ZiS-S-53**
+        - **D-70**
+        - **D-5T**
+        - **D-56TS**
+        - **D-56T**
+        - **KT-28**
+        - **F-32**
+        - **F-34**
+        - **L-10**
+        - **L-11**
+        - **ZiS-3**
+        - **ZiS-5**
+        - **F-96**
+        - **F-30**
+        - **DK**
+        - **KPVT**
+        - **SGMT**
+        - **DT**
+        - **Pulyemët Maksima obr. 1910/30 gg.**
+        - **20-K**
+        - **Š-37**
+        - **ZiS-2**
+        - **BM-57**
+    - **PL-8** renamed to **PL8**. This had already been done in 1 of the short name entries, but I forgot to change the other.
+    - **M7** cannon caliber tag changed from 76 mm to 76.2 mm.
+
+### Modifications:
+
+- #### Changes:
+
+    - **1V528-1 + 1G46 / TShU-1 + 1-11** modification renamed to **1V528-1 + 1G46 / TŠU-1 + 1-11**.
+    - **OTShU-1-7** electro-optical active protection system renamed to **OTŠU-1-7**.
+    - **AIM-9P-1** modification renamed to **AIM-9P-3** to match the weapon rename in 1.08.68.
+
+### Engines:
+
+- #### Changes:
+
+    - Russian transliteration changes:
+        - **ASh-62** engine renamed to **AŠ-62**. This was supposed to have been done in 1.08.68 and was listed in the changelog for it, but it somehow did not get changed.
+        - **ASh-73TK** engine renamed to **AŠ-73TK**.
+        - **ASH-73** engine renamed to **AŠ-73**.
+        - **ASH-82V** engine renamed to **AŠ-82V**.
+
+### Nations:
+
+- #### Changes:
+
+    - The transliterated long form of the **USSR**'s name has been changed to match the new transliteration standard. It has been changed from **Soyuz Sovyetskikh Sotsialisticheskikh Respublik** to **Soûz Sovyetskikh Soczialističyeskikh Ryespublik**.
+
 ## 1.08.68 - 17-08-2024
 
 A new transliteration standard has been introduced for Russian. This standard is a modified version of GOST 7.79-2000 A (ISO 9). Not all Russian vehicles, engines, and weapons have been updated in this patch. Doing so would be a monumental task to take on soon before a new game update comes out, so Russian vehicles will be switched over to this new system over time.

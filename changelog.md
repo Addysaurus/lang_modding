@@ -75,6 +75,7 @@ All dates are listed in DD-MM-YYYY format.
             - **KV-2 (Late 1940)** renamed to **KV-2 (late 1940)**. The long name has been changed to **KV-2 obr. 1940 g. (late 1940)**.
             - The **KV-1 (Èkranirovannyj)**'s long name has been changed to **KV-1 obr. 1941 g. (Èkranirovannyj)**.
             - The **KV-2 (ZiS-6)**'s long name has been changed to **KV-2 obr. 1941 g. (ZiS-6) (May, 1941)**.
+        - **SU-152 (Mar 1943)** renamed to **SU-152 (Mar, 1943)**. The long name has been changed to **Ob"yekt 236 | SU-152 (March, 1943)**.
         - **2S1** long name changed to **2S1 "Gvozdika"**.
         - **2S3M** long name changed to **2S3M "Akacziâ-M"**.
         - **KV-220 (Jan 1940)** renamed to **KV-220**.
@@ -87,6 +88,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - **R-3R** type tag changed to **AAM-SARH**. Previously, it was erroneously listed as **AAM-IR**.
     - Russian weapon rework (all modifications have been adjusted accordingly):
+        - Note: I am sure there are GAU and GRAU index numbers I am missing here. Please report them if you have them.
         - **23 mm VÂ-23 cannon** renamed to **VÂ-23**.
         - **23 mm GSh-23L cannon** renamed to **9-A-472-01 | GŠ-23L**
         - **23 mm GSh-30-2K cannon** renamed to **9-A-623K | GŠ-2-30K**.
@@ -140,6 +142,42 @@ All dates are listed in DD-MM-YYYY format.
         - **57 mm ZIS-4 cannon** renamed to **52-PT-271 | ZiS-4**.
         - **57 mm ZIS-4M cannon** renamed to **52-PT-271 | ZiS-4M**.
         - **ZiS-6** renamed to **F-42 | ZiS-6**.
+        - **12.7 mm Berezin UB machine gun** renamed to **UB**
+        - **12.7 mm Berezin UBK machine gun** renamed to **UBK**
+        - **12.7 mm Berezin UBK machine gun** (the turret one) renamed to **UBT**
+        - **12.7 mm Berezin UB machine gun** (the turret one) renamed to **UBT**
+        - **12.7 mm Berezin UB machine gun** (the one that's called UBS in the files but UB in its text entry for some reason) renamed to **UBS**
+        - **100 mm S-34 cannon** renamed to **S-34**.
+        - **100 mm D-10S cannon** renamed to **52-PS-412 | D-10S**.
+        - **100 mm D-10T cannon** renamed to **52-PT-412 | D-10T**.
+        - **100 mm LB-1 cannon** renamed to **LB-1**.
+        - **23 mm NS-23 cannon** renamed to **NS-23**
+        - **23 mm NS-23K cannon** renamed to **NS-23K**
+        - **37 mm NS-37 cannon** renamed to **11P-37 | NS-37**.
+        - **45 mm NS-45 cannon** renamed to **111-P-45 | NS-45**.
+        - **23 mm NR-23 cannon** renamed to **NR-23**.
+        - **37 mm N-37D cannon** renamed to **N-37D**.
+        - **37 mm N-37 cannon** renamed to **N-37**.
+        - **20 mm B-20 cannon** renamed to **B-20**.
+        - **20 mm B-20S cannon** renamed to **B-20S**.
+        - **20 mm B-20M cannon** renamed to **B-20M**.
+        - **20 mm B-20E cannon** renamed to **B-20E**.
+        - **30 mm NR-30 cannon** renamed to **NR-30**.
+        - **30 mm NR-30(e) cannon** renamed to **NR-30**.
+        - **122 mm M-62-T2S cannon** renamed to **52-PT-472 | 2A17 | M-62T2S**.
+        - **122 mm M-30 howitzer** renamed to **52-GS-463 | M-30S**.
+        - **122 mm A-19 cannon** renamed to **52-PS-471 | A-19S**.
+        - **122 mm D-25S cannon** renamed to **52-PS-471S | D-25S**.
+        - **122 mm D-25T cannon** renamed to **52-PT-471 | D-25T obr. 1943 g.**.
+        - **122 mm D-25-44T cannon** renamed to **52-PT-471 | D-25T obr. 1943 g.**.
+        - **122 mm D-25TS cannon** renamed to **52-PT-471S | D-25TS**.
+        - **122 mm D-30T cannon** renamed to **D-30T**. It probably has a GRAU index but I cannot find it.
+        - **152 mm 2A33 cannon** renamed to **2A33 | D-22**.
+        - **122 mm D-49 howitzer** renamed to **52-PS-471D | D-49**.
+        - **130 mm B-13 cannon** renamed to **130-mm/50 B-13 obr. 1936 g.**.
+        - **130 mm B-13 mounting** renamed to **130-mm/50 B-13 obr. 1936 g.**
+        - **152 mm M-10T howitzer** renamed to **52-GT-463 | M-10T obr. 1938/40 gg.**.
+        - **152 mm ML-20S cannon** renamed to **52-PS-544S | ML-20S**.
     - The following weapons have recieved their caliber and type tags:
         - **VÂ-23**
         - **GŠ-23L**
@@ -177,6 +215,37 @@ All dates are listed in DD-MM-YYYY format.
         - **Š-37**
         - **ZiS-2**
         - **BM-57**
+        - **UB**
+        - **UBK**
+        - **UBT**
+        - **UBS**
+        - **S-34**
+        - **D-10S**
+        - **D-10T**
+        - **LB-1**
+        - **NS-23**
+        - **NS-23K**
+        - **NS-37**
+        - **NS-45**
+        - **NR-23**
+        - **N-37D**
+        - **N-37**
+        - **B-20**
+        - **B-20S**
+        - **B-20M**
+        - **B-20E**
+        - **NR-30**
+        - **M-62T2S**
+        - **A-19S**
+        - **D-25S**
+        - **D-25T**
+        - **D-25TS**
+        - **D-30T**
+        - **D-22**
+        - **D-49**
+        - **B-13**
+        - **M-10T**
+        - **ML-20S**
     - **PL-8** renamed to **PL8**. This had already been done in 1 of the short name entries, but I forgot to change the other.
     - **M7** cannon caliber tag changed from 76 mm to 76.2 mm.
 

@@ -79,8 +79,12 @@ All dates are listed in DD-MM-YYYY format.
         - **2S1** long name changed to **2S1 "Gvozdika"**.
         - **2S3M** long name changed to **2S3M "Akacziâ-M"**.
         - **KV-220 (Jan 1940)** renamed to **KV-220**.
+        - The **ISU-152**'s (USSR and China) long name has been changed to **Ob"yekt 241 | 52-GPS-545 | ISU-152 obr. 1945 g.**. Apparently the **ISU-152** has a GAU index.
+        - The **T-90M**'s long name has been changed to **Ob"yekt 188M | T-90M obr. 2017 g. "Proryv-3"**.
+        - The **IS-7**'s long name has been changed to **Ob"yekt 260 sb.2 | IS-7 obr. 1948 g.**.
     - **F-14A-GR** (Iran) renamed to **F14**. This is based off 3 different posters that call it the **F14**, at least 2 of which are from different events, and the *supposedly* official IRIAF website which calls it the **F14** in the title of articles, but the **F-14** in the text of the articles. If y'all have better sources, please send them.
     - **Ki 44-II Hei** renamed to **Ki 44-II hei**. This had been done in the short name but I forgot to do it in the long name.
+    - **F-15C-39-MC** (USA and Israel) renamed to **F-15C-40-MC**.
 
 ### Weaponry:
 
@@ -124,8 +128,8 @@ All dates are listed in DD-MM-YYYY format.
         - **76 mm L-11 cannon** renamed to **52-PT-354A | L-11 obr. 1938/39 gg.**.
         - **76 mm ZIS-3 cannon** renamed to **52-P-354U | ZiS-3 obr. 1942 g.**
         - **76 mm ZIS-5 cannon** renamed to **52-PT-354V | ZiS-5 obr. 1941 g.**.
-        - **76 mm F-96 cannon** renamed to **F-96**. I cannot find it's GAU index. If you know, please submit a report about it.
-        - **85 mm F-30 cannon** renamed to **F-30**. I cannot find it's GAU index. If you know, please submit a report about it.
+        - **76 mm F-96 cannon** renamed to **F-96**. I cannot find its GAU index. If you know, please submit a report about it.
+        - **85 mm F-30 cannon** renamed to **F-30**. I cannot find its GAU index. If you know, please submit a report about it.
         - **12.7 mm DK machine gun** renamed to **56-P-541 | DK obr. 1930 g.**.
         - **DŠKT** renamed to **DŠKT obr. 1938 g.**.
         - **14.5 mm KPVT machine gun** renamed to **56-P-562T | KPVT**.
@@ -133,8 +137,8 @@ All dates are listed in DD-MM-YYYY format.
         - **7.62 mm DT machine gun** renamed to **56-P-322 | DT**.
         - **7.62 mm Maxim`s machine gun** renamed to **56-P-421 | Pulyemët Maksima obr. 1910/30 gg.**.
         - **45 mm 20-K cannon** renamed to **52-PT-243A | 20-K obr. 1932/38 gg.**.
-        - **37 mm Sh-37 cannon** renamed to **Š-37**. I cannot find it's GAU index. If you know, please submit a report about it.
-        - **37 mm SH-37 cannon** renamed to **Š-37**. I cannot find it's GAU index. If you know, please submit a report about it.
+        - **37 mm Sh-37 cannon** renamed to **Š-37**. I cannot find its GAU index. If you know, please submit a report about it.
+        - **37 mm SH-37 cannon** renamed to **Š-37**. I cannot find its GAU index. If you know, please submit a report about it.
         - **57 mm ZIS-2 cannon** renamed to **52-P-271 | F-31 | ZiS-2 obr. 1941 g.**.
         - **57 mm AU-220 cannon** renamed to **BM-57**. The **AU-220** is the turret, not the gun.
         - **57 mm 2A90 cannon** renamed to **2A90**.
@@ -171,13 +175,60 @@ All dates are listed in DD-MM-YYYY format.
         - **122 mm D-25T cannon** renamed to **52-PT-471 | D-25T obr. 1943 g.**.
         - **122 mm D-25-44T cannon** renamed to **52-PT-471 | D-25T obr. 1943 g.**.
         - **122 mm D-25TS cannon** renamed to **52-PT-471S | D-25TS**.
-        - **122 mm D-30T cannon** renamed to **D-30T**. It probably has a GRAU index but I cannot find it.
+        - **122 mm D-30T cannon** renamed to **D-30T**. I cannot find its GRAU index. If you know, please submit a report about it.
         - **152 mm 2A33 cannon** renamed to **2A33 | D-22**.
         - **122 mm D-49 howitzer** renamed to **52-PS-471D | D-49**.
         - **130 mm B-13 cannon** renamed to **130-mm/50 B-13 obr. 1936 g.**.
         - **130 mm B-13 mounting** renamed to **130-mm/50 B-13 obr. 1936 g.**
         - **152 mm M-10T howitzer** renamed to **52-GT-463 | M-10T obr. 1938/40 gg.**.
         - **152 mm ML-20S cannon** renamed to **52-PS-544S | ML-20S**.
+        - **100 mm D-10T2S cannon** renamed to **52-PT-412D | D-10T2S**.
+        - **100 mm D-50 cannon** renamed to **D-50**. I cannot find its GAU index. If you know, please submit a report about it.
+        - **122 mm 2A31 cannon** renamed to **2A31**.
+        - **7.62 mm PKT machine gun** renamed to **6P7 | PKT**.
+        - **7.62 mm PKTM machine gun** renamed to **6P7K | PKTM**.
+        - **7.62 mm PKMB machine gun** renamed to **6P10M | PKMB**.
+        - **125 mm 2A26 cannon** renamed to **2A26 | D-81**.
+        - **125 mm 2A46M-1 cannon** (the one used by the **T-64BV** and **T-80B (AGAVA)**) renamed to **2A46-2 | D-81K**.
+        - **125 mm 2A46M-5 cannon** (the **T-90A**'s gun) renamed to **2A46M-5**.
+        - **125 mm 2A46M cannon** renamed to **2A46M**.
+        - **125 mm 2A46M-5 cannon** (the one used by the **T-72B3M (2016)** and **T-90M**) renamed to **2A46M-5-01**.
+        - **125 mm 2A46M-1 cannon** renamed to **2A46M-1 | D-81-3 Rapira-3**.
+        - **125 mm 2A46M-4 cannon** renamed to **2A46M-4**.
+        - **125 mm 2A46M-1 cannon** (the **T-80BVM**'s gun) renamed to **2A46M-4**.
+        - **125 mm 2A46MS cannon** renamed to **2A46MS**.
+        - **115 mm U-5TS cannon** renamed to **2A20 | U-5TS Molot**.
+        - **100 mm 2А48 cannon** renamed to **2A48-1**.
+        - **37 mm 2А11 cannon** renamed to **2A11 | 500PA**.
+        - **125 mm 2A75 cannon** renamed to **2A75**.
+        - **125 mm 2A75 cannon** (the **2S25M**'s gun) renamed to **2A75-1**.
+        - **100 mm 2A70 cannon** renamed to **2A70**.
+        - **30 mm 2A72 cannon** renamed to **2A72**.
+        - **30 mm 2A42 automatic cannon** renamed to **2A42**.
+        - **30 mm 2A38 automatic cannon** renamed to **2A38M**.
+        - **30 mm 2A38M automatic cannon** renamed to **2A38M**.
+        - **30 mm 2A38M1 automatic cannon** renamed to **2A38M**.
+        - **125 mm 2A46M cannon** renamed to **2A46M**.
+        - **125 mm D-126 gun-launcher** renamed to **D-126**.
+        - **BUR** HE shell renamed to **Bur**.
+        - **73 mm 2A28 cannon** renamed to **2A28 Grom**.
+        - **12.7 mm NSVT machine gun** renamed to **6P17 | NSVT**.
+        - **12.7 mm 6P49 machine gun** renamed to **6P49 | Kort-T**.
+        - **12.7 mm 6P49MT machine gun** renamed to **6P49 | Kort-MT**.
+        - **76 mm 3-K cannon** renamed to **52-P-361 | ZP-3 obr. 1931 g. | 3-K**.
+        - **37 mm 61-K cannon** renamed to **52-P-167 | AZP-39 obr. 1939 g. | 3-K | ZiK-37**.
+        - **25 mm 72-K cannon** renamed to **52-P-132 | 72-K | ZiK-25 obr. 1940 g.**.
+        - **76 mm 1902/30 cannon** renamed to **obr. 1902/30 gg.**.
+        - **152 mm М-64 cannon** renamed to **M-64**. I cannot find its GAU index. If you know, please submit a report about it.
+        - **152 mm М-69 cannon** renamed to **M-69**. I cannot find its GAU index. If you know, please submit a report about it.
+        - **130 mm M-65 cannon** renamed to **M-65**. I cannot find its GAU or GRAU index. If you know, please submit a report about it.
+        - **130 mm C-70 cannon** renamed to **S-70**. I cannot find its GAU or GRAU index. If you know, please submit a report about it.
+        - **7.62 mm RP-46 machine gun** renamed to **56-R-326 | RP obr. 1946 g.**.
+        - **7.62 mm DA machine gun** renamed to **56-P-323 | DA**.
+        - **12.7 mm TKB-481 machine gun** renamed to **9-A-016P | A-12.7**.
+        - **12.7 mm A-12.7 machine gun** renamed to **9-A-016P | A-12.7**.
+        - **12.7 mm YaK-B machine gun** renamed to **ÂkB-12.7**.
+        - **7.62 mm GShG-7.62 machine gun** renamed to **9-A-622 | GŠG-7.62**.
     - The following weapons have recieved their caliber and type tags:
         - **VÂ-23**
         - **GŠ-23L**
@@ -246,6 +297,43 @@ All dates are listed in DD-MM-YYYY format.
         - **B-13**
         - **M-10T**
         - **ML-20S**
+        - **D-10T2S**
+        - **D-50**
+        - **2A31**
+        - **PKT**
+        - **PKTM**
+        - **PKMB**
+        - **D-81**
+        - **D-81K**
+        - **2A46M-5**
+        - **2A46M**
+        - **2A46M-5-01**
+        - **D-81-3**
+        - **2A46M-4**
+        - **2A46MS**
+        - **U-5TS**
+        - **2A48-1**
+        - **500PA**
+        - **2A75**
+        - **2A75-1**
+        - **2A70**
+        - **2A72**
+        - **2A38M**
+        - **2A46M**
+        - **D-126**
+        - **2A28**
+        - **NSVT**
+        - **Kord-T**
+        - **Kord-MT**
+        - **3-K**
+        - **ZiK-37**
+        - **ZiK-25**
+        - **obr. 1902/30 gg.**
+        - **M-64**
+        - **M-69**
+        - **M-65**
+        - **S-70**
+        - **A-12.7**
     - **PL-8** renamed to **PL8**. This had already been done in 1 of the short name entries, but I forgot to change the other.
     - **M7** cannon caliber tag changed from 76 mm to 76.2 mm.
 

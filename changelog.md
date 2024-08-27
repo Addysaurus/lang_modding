@@ -8,6 +8,44 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.08.70 - UNRELEASED
+
+### General:
+
+- #### Changes:
+
+    - A full review of the game's texts has been conducted. All game texts have been moved over to use gender-neutral language. This means that, unless a specific historical figure is being referenced, all gendered language will be changed to use the they/them/their/theirs/themself pronoun set. Other pieces of text that do not contain gendered pronouns but could reasonably be interpreted as gendered language will be reworked to be gender-neutral. If you have a problem with gender-neutral/inclusive language, please delete this mod from your computer and kindly piss off because you are not welcome here.
+
+### Vehicles:
+
+- #### Changes:
+
+    - **Su-22M3** (Hungary) renamed to **Szu-22M3**.
+    - **2S1** (Hungary) renamed to **2SZ1**. The long name has been changed to **2SZ1 "Gvozgyika"**.
+    - **ZSU-23-4** (Hungary) renamed to **ZSZU-23-4**. The long name has been changed to **2A6 | ZSZU-23-4 Silka**.
+    - **ZSU-57-2** (Hungary) renamed to **ZSZU-57-2**. The long name has been changed to **ZSZU-57-2**.
+    - **T-34-85 / 85 (1960)** folder renamed to **T-34-85 / 85 (1960s)**.
+
+### Sensors:
+
+A new sensors file has been added. This file contains game sensors and radars.
+
+- #### Additions:
+
+    - All renamed radars have recieved their type tags.
+
+- #### Changes:
+
+    - **Mk.3** renamed to **Fire Control Radar, Mk 3 Mod 2**.
+    - **Mk.8** renamed to **Fire Control Radar, Mk 8**.
+    - **Mk.12** renamed to **Fire Control Radar, Mk 12**.
+    - **Mk.25** renamed to **Fire Control Radar, Mk 25**.
+    - **AN-SPS-4** renamed to **Surface Search Radar, AN/SPS-4**.
+    - **AN-SPS-6** renamed to **Air Search Radar, AN/SPS-6**.
+    - **AN-SPS-8A** renamed to **Air Search Radar, AN/SPS-8A**.
+    - **AN-SPS-10** renamed to **Surface Search Radar, AN/SPS-10**.
+    - **AN-SPS-12** renamed to **Air Search Radar, AN/SPS-12**.
+
 ## 1.08.69 - 25-08-2024
 
 ### General:
@@ -334,6 +372,8 @@ All dates are listed in DD-MM-YYYY format.
         - **M-65**
         - **S-70**
         - **A-12.7**
+        - **ÂkB-12.7**
+        - **GŠG-7.62**
     - **PL-8** renamed to **PL8**. This had already been done in 1 of the short name entries, but I forgot to change the other.
     - **M7** cannon caliber tag changed from 76 mm to 76.2 mm.
 

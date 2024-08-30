@@ -103,12 +103,98 @@ All dates are listed in DD-MM-YYYY format.
         - **VTB-13** renamed to **VTB 13**. The long name has been changed to **Vedette Torpilleur VTB 13**.
         - **VTB-14** renamed to **VTB 14**. The long name has been changed to **Vedette Torpilleur VTB 14**.
         - **La Combattante** (the motor gun boat, not the destroyer) renamed to **La Combattante (P 730)**.
+        - **Antelope** renamed to **Jiélíng ADM**. The long name has been changed to **Jiélíng fángkōng fēidàn xìtǒng**. There is one thing to note: "xìtong" should actually be spelled as "xìtǒng", but the "ǒ" character literally is not rendered in the game for some reason, it appears as a space, so I have to spell it as "xìtong".
 
 ### Weaponry:
+
+- #### Additions:
+
+    - Update "Dance of Dragons" additions:
+        - **PL-5EII**
+        - **SD-10(A)**
+        - **PL-12** (one text entry was already added for it a while ago but there was a missing text entry)
+        - **KAB-1500L**
+        - **A.S. 500 lb Mk.IV bomb**
+        - **ASELPOD targeting pod**
+        - **Pave Tack targeting pod**
+        - **Drop tank (600 gal.)**
+        - **Drop tank (2000 liters.)**
+        - **Drop tank (800 liters.)**
+        - **Drop tank (1100 liters.)**
+        - **90 mm T7 cannon**
+        - **Large caliber countermeasures belt**
+        - **Trialen 106**
+        - **100-2 bomb**
+        - **250-1 bomb**
+        - **250-2 bomb**
+        - **500-2 bomb**
+        - **1500-2 bomb**
+        - **3000-2 bomb**
+        - **250-1 incendiary bomb**
+        - **250-2 incendiary bomb**
+        - **Flz Lwf 63**
+        - **AAM TC-1L**
+        - **GSh-23M**
+        - **AGM-65E**
+        - **AGM-65E2**
+        - **AGM-65F**
+        - **GAU-12U** (new text entry, another one already existed)
+        - **FIM-92 Stinger** (the launcher for the **Stormer AD**)
+        - **OE 105-60**
+        - **G7 torpedo**
+        - **Darne M1922**
+        - **14-inch/52 pattern 1913 cannon**
+        - **14-inch AP patt.1911**
+        - **14-inch HE patt.1913**
+        - **63 mm/38  pattern 1916 cannon**
+        - **63 mm HE-TF**
+        - **381 mm Mk.Ia APC**
+        - **1926V torpedo**
+        - **87,6 mm Ordnance QF 25pdr gun**
+        - **87,6 mm Mk.ID HE**
+        - **87,6 mm Shot It APC**
+    - The following missiles have recieved their type tags:
+        - **PL5EII**
+        - **SD-10A**
+        - **PL12** (for the missing text entry)
+        - **Flz.Lwf. LL 63**
+        - **Flz.Lwf. LB 82**
+        - **TC-1L**
+        - **AGM-65E**
+        - **AGM-65E-2**
+        - **AGM-65F**
+        - **AGM-65L**
+    - The following bombs have recieved their weight and type tags added:
+        - **KAB-1500L**
+    - The following guns have had their caliber and type tags added:
+        - **T7**
+        - **GŠ-23M**
+    - The **Launcher, Standard Vehicle Mounted** (the new one for the **Stormer AD**) has recieved its type tag.
 
 - #### Changes:
 
     - Type tag added to the **Mk 82 Mod 1 (BSU-49/B). It was missing before by accident.
+    - Update "Dance of Dragons" changes:
+        - **PL-5EII air-to-air missiles** renamed to **PL5EII**.
+        - **SD-10(A) air-to-air missiles** renamed to **SD-10A**.
+        - **Drop tank (600 gal.)** renamed to **Drop tank (600 gal)**. I could not find an actual name for it, this is just a consistency change to match the rest of the mod.
+        - **Drop tank (2000 liters.)** renamed to **Drop tank (2000 L)**. I could not find an actual name for it, this is just a consistency change to match the rest of the mod.
+        - **Drop tank (800 liters.)** renamed to **Drop tank (800 L)**. I could not find an actual name for it, this is just a consistency change to match the rest of the mod.
+        - **Drop tank (1100 liters.)** renamed to **Drop tank (1100 L)**. I could not find an actual name for it, this is just a consistency change to match the rest of the mod.
+        - **90 mm T7 cannon** renamed to **Gun, 90mm, T7**.
+        - **Large caliber countermeasures belt** renamed to **50 mm countermeasures**. I have to do a full review of CMs later because split CMs made everything weird.
+        - **Flz Lwf 63 air-to-air missiles** renamed to **Flz.Lwf. LL 63**.
+        - **Flz.Lwf. LB 82 air-to-air missiles** renamed to **Flz.Lwf. LB 82**.
+        - **AAM TC-1L** renamed to **TC-1L Tián Jiàn I**.
+        - **23 mm GSh-23M cannon** renamed to **GŠ-23M**
+        - **AGM-65E air-to-ground missiles** renamed to **Guided Missile, Air to Surface, AGM-65E**.
+        - **AGM-65E-2 air-to-ground missiles** renamed to **Guided Missile, Air to Surface, AGM-65E-2**.
+        - **AGM-65F air-to-ground missiles** renamed to **Guided Missile, Air to Surface, AGM-65F**.
+        - **AGM-65L air-to-ground missiles** renamed to **Guided Missile, Air to Surface, AGM-65L**.
+        - **25 mm GAU-12U cannon** renamed to **Cannon, 25mm, GAU-12/U Equalizer** (for the next text entry).
+        - **FIM-92 Stinger** renamed to **Launcher, Standard Vehicle Mounted**. This is not the actual missile, this is the launcher for the **Stormer AD**.
+    - **7.7 mm Type 92 machinegun** renamed to **7.7 mm Type 92 machine gun**. This is not an actual rename, it is just a spelling correction.
+    - **7.7 mm Type 89 machinegun** renamed to **7.7 mm Type 89 machine gun**. This is not an actual rename, it is just a spelling correction.
 
 ### Sensors:
 

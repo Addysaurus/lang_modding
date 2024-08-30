@@ -8,7 +8,7 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.08.70 - UNRELEASED
+## 1.09.00 - UNRELEASED
 
 ### General:
 
@@ -18,6 +18,46 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+    - Update "Dance of Dragons" vehicle additions:
+        - **A-10C**
+        - **F-111F**
+        - **AV-8B (NA)**
+        - **T1E1 (90)**
+        - **USS Tennessee**
+        - **FFA P-16**
+        - **Puma VJTF**
+        - **SMS Derfflinger**
+        - **Su-24M**
+        - **ZSU-23-4M2**
+        - **Izmail**
+        - **F-111C**
+        - **Stormer AD**
+        - **HMS Barham**
+        - **RCV (P)**
+        - **PT-802**
+        - **JF-17**
+        - **J-10A**
+        - **Antelope**
+        - **Al-Khalid 1**
+        - **Tornado IDS** (Italy)
+        - **CV 9035NL**
+        - **VLT-1**
+        - **MTB-96**
+        - **L9059**
+        - **VTB-8**
+        - **VTB-9**
+        - **VTB-19**
+        - **VTB-11**
+        - **VTB-13**
+        - **VTB-14**
+        - **La Combattante**
+        - **KV-1 m1942**
+        - **F-16C Barak II**
+        - **Tiran 6**
+    - **Flug- und Fahrzeugwerke Altenrhein** added as the manufacturer for the **P-16 Mk. 3**.
+    - **China North Industries Corporation / Heavy Industries Taxila** added as the manufacturer for the **Al-Khalid 1**.
+
 - #### Changes:
 
     - **Su-22M3** (Hungary) renamed to **Szu-22M3**.
@@ -25,21 +65,77 @@ All dates are listed in DD-MM-YYYY format.
     - **ZSU-23-4** (Hungary) renamed to **ZSZU-23-4**. The long name has been changed to **2A6 | ZSZU-23-4 Silka**.
     - **ZSU-57-2** (Hungary) renamed to **ZSZU-57-2**. The long name has been changed to **ZSZU-57-2**.
     - **T-34-85 / 85 (1960)** folder renamed to **T-34-85 / 85 (1960s)**.
+    - **Khempdyenov T.B. MK-I (UTK-1)** renamed to **Khyempdyenov T.B. MK-I (UTK-1)**. The mid distance name has been renamed to **Khyempdyenov T.B. MK-I**.
+    - **Kharrikeyna F.B. MK-IIb (ŠVAK)** renamed to **Kharrikyejna F.B. MK-IIb (ŠVAK)**.
+    - The **A-20G-25-DO**'s (USSR) long name changed to **A-20G-25-DO Khyevok**.
+    - The **B-25J-30-NC**'s (USSR) long name changed to **B-25J-30-NC Mitčyell**.
+    - The **P-39K-1-BE**'s (USSR) long name changed to **P-39K-1-BE Aèrokobra**.
+    - The **P-51C-11-NT**'s (Japan and China) long name has been changed to **P-51C-11-NT Mustang "Evalina"**.
+    - The **Ratel ZT3 Mk. 3** has had an accidental space removed from the beginning of its short name.
+    - **TK No. 106** renamed to **TK-412**. The long name has been changed to **Torpyednyye katyera Tip G-5, syeriâ XI, TK-412**.
+    - **SPz Puma** renamed to **SPz Puma S0**.
+    - Update "Dance of Dragons" changes:
+        - **T1E1 (90)** renamed to **T1E1 (T7)**. The long name has been changed to **Tank, Heavy, T1E1 (T7)**.
+        - The **ZSU-23-4M2**'s long name has been changed to **2A6M2 | ZSU-23-4M2 Šilka-M2**.
+        - **CV 9035NL** renamed to **CV9035NL**.
+        - The **Su-24M**'s long name has been changed to **izd. T-6M-8 | Su-24M**.
+        - **JF-17** renamed to **JF-17A Block 1**. The long name has been changed to **JF-17A Block 1 Garaj**.
+        - **J-10A** renamed to **J10A**. The long name has been changed to **J10A "Měng Lóng"**.
+        - The **F-111F**'s long name has been changed to **F-111F "Aardvark"**.
+        - The **F-111C**'s long name has been changed to **F-111C "Aardvark"**.
+        - **FFA P-16** renamed to **P-16 Mk. 3**. The long name has been changed to **Flug- und Fahrzeugwerke Altenrhein | P-16 Mk. 3**.
+        - **Stormer AD** renamed to **F.V.4333 (AD)**. The long name has been changed to **F.V.4333 | Combat Vehicle, Carrier, Full Tracked, Air Defense**.
+        - **RCV (P)** renamed to **RCV**. The long name has been changed to **teisatsu sentō gata**.
+        - **F-16C Barak II** Renamed to **F-16C-40-CF**. The long name has been changed to **F-16C-40-CF Barak II**.
+        - **Tornado IDS** (Italy) renamed to **A-200**.
+        - **AV-8B (NA)** renamed to **AV-8B NA**. The long name has been changed to **AV-8B Harrier II Night Attack**.
+        - **KV-1 m1942** (even by Gaijin standards that name is *bad*) renamed to **44 Psv KW 1 A**. The long name has been changed to **44-tonnin panssarivaunu KW 1 A | Ps. 271 "Klimi"**.
+        - **USS Tennessee** renamed to **USS Tennessee (BB-43)**.
+        - **HMS Barham** renamed to **HMS Barham (04)**.
+        - **VLT-1** renamed to **VLT 1**. The long name has been changed to **Vedette Lance Torpille 1**.
+        - **MTB-96** renamed to **MTB 96**.
+        - **L9059** renamed to **L 9059**.
+        - **Puma VJTF** renamed to **SPz Puma S1**. The long name has been changed to **Schützenpanzer Puma S1**.
+        - **VTB-8** renamed to **VTB 8**. The long name has been changed to **Vedette Torpilleur VTB 8**.
+        - **VTB-9** renamed to **VTB 9**. The long name has been changed to **Vedette Torpilleur VTB 9**.
+        - **VTB-19** renamed to **VTB 19**. The long name has been changed to **Vedette Torpilleur VTB 19**.
+        - **VTB-11** renamed to **VTB 11**. The long name has been changed to **Vedette Torpilleur VTB 11**.
+        - **VTB-13** renamed to **VTB 13**. The long name has been changed to **Vedette Torpilleur VTB 13**.
+        - **VTB-14** renamed to **VTB 14**. The long name has been changed to **Vedette Torpilleur VTB 14**.
+        - **La Combattante** (the motor gun boat, not the destroyer) renamed to **La Combattante (P 730)**.
+
+### Weaponry:
+
+- #### Changes:
+
+    - Type tag added to the **Mk 82 Mod 1 (BSU-49/B). It was missing before by accident.
 
 ### Sensors:
 
-A new sensors file has been added. This file contains game sensors and radars.
+A new sensors file has been added. This file contains game sensors and radars. Radar names will be reworked over time. Not all radar names will be reworked in this update (the Soviet weapon rework drained me too much for another rework).
 
 - #### Additions:
 
-    - All renamed radars have recieved their type tags.
+    - The following radars have recieved their type tags:
+        - **Mk 3 Mod 2**
+        - **Mk 8 Mod 3**
+        - **Mk 12**
+        - **Mk 19 Mod 59**
+        - **Mk 25**
+        - **AN/SPS-4**
+        - **AN/SPS-6**
+        - **AN/SPS-8A**
+        - **AN/SPS-10**
+        - **AN/SPS-12**
+        - **FC**
 
 - #### Changes:
 
     - **Mk.3** renamed to **Fire Control Radar, Mk 3 Mod 2**.
-    - **Mk.8** renamed to **Fire Control Radar, Mk 8**.
-    - **Mk.12** renamed to **Fire Control Radar, Mk 12**.
-    - **Mk.25** renamed to **Fire Control Radar, Mk 25**.
+    - **Mk.8** renamed to **Fire Control Radar, Mk 8 Mod 3**.
+    - **Mk.12** renamed to **Fire Control Radar, Mk 12 Mod 1**.
+    - **Mk.19** renamed to **Mk 19 Mod 59**. I have absolutely no clue what the **Mk 19** is used on ingame and I cannot find its full name. If you know, please tell me.
+    - **Mk.25** renamed to **Fire Control Radar, Mk 25 Mod 2**.
     - **AN-SPS-4** renamed to **Surface Search Radar, AN/SPS-4**.
     - **AN-SPS-6** renamed to **Air Search Radar, AN/SPS-6**.
     - **AN-SPS-8A** renamed to **Air Search Radar, AN/SPS-8A**.
@@ -125,6 +221,116 @@ A new sensors file has been added. This file contains game sensors and radars.
     - **F-15C-39-MC** (USA and Israel) renamed to **F-15C-40-MC**.
 
 ### Weaponry:
+
+- #### Additions:
+
+- The following weapons have recieved their caliber and type tags:
+    - **VÂ-23**
+    - **GŠ-23L**
+    - **GŠ-2-30K**
+    - **GŠ-2-30**
+    - **GŠ-6-30**
+    - **GŠ-301**
+    - **ŠKAS**
+    - **ŠVAK-20**
+    - **DŠKT**
+    - **TNŠ**
+    - **2A7 | AÂ-23**
+    - **2A14 | AÂ-23**
+    - **Č-51M**
+    - **ZiS-S-53**
+    - **D-70**
+    - **D-5T**
+    - **D-56TS**
+    - **D-56T**
+    - **KT-28**
+    - **F-32**
+    - **F-34**
+    - **L-10**
+    - **L-11**
+    - **ZiS-3**
+    - **ZiS-5**
+    - **F-96**
+    - **F-30**
+    - **DK**
+    - **KPVT**
+    - **SGMT**
+    - **DT**
+    - **Pulyemët Maksima obr. 1910/30 gg.**
+    - **20-K**
+    - **Š-37**
+    - **ZiS-2**
+    - **BM-57**
+    - **UB**
+    - **UBK**
+    - **UBT**
+    - **UBS**
+    - **S-34**
+    - **D-10S**
+    - **D-10T**
+    - **LB-1**
+    - **NS-23**
+    - **NS-23K**
+    - **NS-37**
+    - **NS-45**
+    - **NR-23**
+    - **N-37D**
+    - **N-37**
+    - **B-20**
+    - **B-20S**
+    - **B-20M**
+    - **B-20E**
+    - **NR-30**
+    - **M-62T2S**
+    - **A-19S**
+    - **D-25S**
+    - **D-25T**
+    - **D-25TS**
+    - **D-30T**
+    - **D-22**
+    - **D-49**
+    - **B-13**
+    - **M-10T**
+    - **ML-20S**
+    - **D-10T2S**
+    - **D-50**
+    - **2A31**
+    - **PKT**
+    - **PKTM**
+    - **PKMB**
+    - **D-81**
+    - **D-81K**
+    - **2A46M-5**
+    - **2A46M**
+    - **2A46M-5-01**
+    - **D-81-3**
+    - **2A46M-4**
+    - **2A46MS**
+    - **U-5TS**
+    - **2A48-1**
+    - **500PA**
+    - **2A75**
+    - **2A75-1**
+    - **2A70**
+    - **2A72**
+    - **2A38M**
+    - **2A46M**
+    - **D-126**
+    - **2A28**
+    - **NSVT**
+    - **Kord-T**
+    - **Kord-MT**
+    - **3-K**
+    - **ZiK-37**
+    - **ZiK-25**
+    - **obr. 1902/30 gg.**
+    - **M-64**
+    - **M-69**
+    - **M-65**
+    - **S-70**
+    - **A-12.7**
+    - **ÂkB-12.7**
+    - **GŠG-7.62**
 
 - #### Changes:
 
@@ -267,113 +473,6 @@ A new sensors file has been added. This file contains game sensors and radars.
         - **12.7 mm A-12.7 machine gun** renamed to **9-A-016P | A-12.7**.
         - **12.7 mm YaK-B machine gun** renamed to **ÂkB-12.7**.
         - **7.62 mm GShG-7.62 machine gun** renamed to **9-A-622 | GŠG-7.62**.
-    - The following weapons have recieved their caliber and type tags:
-        - **VÂ-23**
-        - **GŠ-23L**
-        - **GŠ-2-30K**
-        - **GŠ-2-30**
-        - **GŠ-6-30**
-        - **GŠ-301**
-        - **ŠKAS**
-        - **ŠVAK-20**
-        - **DŠKT**
-        - **TNŠ**
-        - **2A7 | AÂ-23**
-        - **2A14 | AÂ-23**
-        - **Č-51M**
-        - **ZiS-S-53**
-        - **D-70**
-        - **D-5T**
-        - **D-56TS**
-        - **D-56T**
-        - **KT-28**
-        - **F-32**
-        - **F-34**
-        - **L-10**
-        - **L-11**
-        - **ZiS-3**
-        - **ZiS-5**
-        - **F-96**
-        - **F-30**
-        - **DK**
-        - **KPVT**
-        - **SGMT**
-        - **DT**
-        - **Pulyemët Maksima obr. 1910/30 gg.**
-        - **20-K**
-        - **Š-37**
-        - **ZiS-2**
-        - **BM-57**
-        - **UB**
-        - **UBK**
-        - **UBT**
-        - **UBS**
-        - **S-34**
-        - **D-10S**
-        - **D-10T**
-        - **LB-1**
-        - **NS-23**
-        - **NS-23K**
-        - **NS-37**
-        - **NS-45**
-        - **NR-23**
-        - **N-37D**
-        - **N-37**
-        - **B-20**
-        - **B-20S**
-        - **B-20M**
-        - **B-20E**
-        - **NR-30**
-        - **M-62T2S**
-        - **A-19S**
-        - **D-25S**
-        - **D-25T**
-        - **D-25TS**
-        - **D-30T**
-        - **D-22**
-        - **D-49**
-        - **B-13**
-        - **M-10T**
-        - **ML-20S**
-        - **D-10T2S**
-        - **D-50**
-        - **2A31**
-        - **PKT**
-        - **PKTM**
-        - **PKMB**
-        - **D-81**
-        - **D-81K**
-        - **2A46M-5**
-        - **2A46M**
-        - **2A46M-5-01**
-        - **D-81-3**
-        - **2A46M-4**
-        - **2A46MS**
-        - **U-5TS**
-        - **2A48-1**
-        - **500PA**
-        - **2A75**
-        - **2A75-1**
-        - **2A70**
-        - **2A72**
-        - **2A38M**
-        - **2A46M**
-        - **D-126**
-        - **2A28**
-        - **NSVT**
-        - **Kord-T**
-        - **Kord-MT**
-        - **3-K**
-        - **ZiK-37**
-        - **ZiK-25**
-        - **obr. 1902/30 gg.**
-        - **M-64**
-        - **M-69**
-        - **M-65**
-        - **S-70**
-        - **A-12.7**
-        - **ÂkB-12.7**
-        - **GŠG-7.62**
     - **PL-8** renamed to **PL8**. This had already been done in 1 of the short name entries, but I forgot to change the other.
     - **M7** cannon caliber tag changed from 76 mm to 76.2 mm.
 

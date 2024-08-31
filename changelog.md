@@ -153,6 +153,7 @@ All dates are listed in DD-MM-YYYY format.
         - **87,6 mm Ordnance QF 25pdr gun**
         - **87,6 mm Mk.ID HE**
         - **87,6 mm Shot It APC**
+        - **SS.11 ATGM** (this is the launcher for the **La Combattante (P 730)**)
     - The following missiles have recieved their type tags:
         - **PL5EII**
         - **SD-10A**
@@ -186,7 +187,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Lwf 63 air-to-air missiles** renamed to **Flz.Lwf. LL 63**.
         - **Flz.Lwf. LB 82 air-to-air missiles** renamed to **Flz.Lwf. LB 82**.
         - **AAM TC-1L** renamed to **TC-1L Tián Jiàn I**.
-        - **23 mm GSh-23M cannon** renamed to **GŠ-23M**
+        - **23 mm GSh-6-23M cannon** renamed to **9-A-768 | GŠ-6-23M**
         - **AGM-65E air-to-ground missiles** renamed to **Guided Missile, Air to Surface, AGM-65E**.
         - **AGM-65E-2 air-to-ground missiles** renamed to **Guided Missile, Air to Surface, AGM-65E-2**.
         - **AGM-65F air-to-ground missiles** renamed to **Guided Missile, Air to Surface, AGM-65F**.

@@ -196,12 +196,74 @@ All dates are listed in DD-MM-YYYY format.
     - **7.7 mm Type 92 machinegun** renamed to **7.7 mm Type 92 machine gun**. This is not an actual rename, it is just a spelling correction.
     - **7.7 mm Type 89 machinegun** renamed to **7.7 mm Type 89 machine gun**. This is not an actual rename, it is just a spelling correction.
 
-### Sensors:
-
-A new sensors file has been added. This file contains game sensors and radars. Radar names will be reworked over time. Not all radar names will be reworked in this update (the Soviet weapon rework drained me too much for another rework).
+### Modifications:
 
 - #### Additions:
 
+    - Update "Dance of Dragons" additions:
+        - **AN-M66**
+        - **KAB-1500L**
+        - **GBU-38 JDAM**
+        - **ASELPOD**
+        - **Pave Tack**
+        - **LAU-51**
+        - **Matra Type 1000**
+        - **Gun pod SPPU-6**
+        - **Type 100-2**
+        - **FAB-1500**
+        - **PL-5EII**
+        - **SD-10**
+        - **AGM-65E**
+        - **AGM-65F**
+        - **Flz Lwf 63**
+        - **RVV-AE** (the **J11A (MLU)**'s modification that they finally added to it)
+        - **87,6 mm APC**
+        - **381 mm Mk.Ia APC**
+
+- #### Changes:
+
+    - Update "Dance of Dragons" changes:
+        - **AN-M66** renamed to **AN/M66**.
+        - **GBU-38 JDAM** renamed to **GBU-38**.
+        - **PL-5EII** renamed to **PL5EII**.
+        - **SD-10** renamed to **SD-10A**.
+        - **Flz Lwf 63** renamed to **Flz.Lwf. LL 63**.
+        - **RVV-AE** (the new one for the **J11A (MLU)**) renamed to **RVV-AYe**.
+    - **AN-M34** renamed to **AN/M34**.
+
+### Engines:
+
+- #### Additions:
+
+    - Update "Dance of Dragons" additions:
+        - **Mitsubishi 10ZF 22WT**
+        - **8VA 34WTK**
+        - **Sapphire ASSa.7**
+        - **RD-93**
+        - **TF30-P-103**
+        - **TF30-P-100**
+    - **Mitsubishi Automotive Industry Company** added as the manufacturer for the following engines (annoyingly, I did have to do it in the same weird way as with the **AVDS-1790-5A**, but the result is the same):
+        - **10ZF 22WT**
+        - **8VA 34WTK**
+
+- #### Changes:
+
+    - Update "Dance of Dragons" changes:
+
+        - **Mitsubishi 10ZF 22WT** renamed to **10ZF 22WT**.
+
+### Sensors:
+
+A new sensors file has been added. This file contains game sensors and radars. Radar names will be reworked over time. Not all radar names will be reworked in this update (the Soviet weapon rework drained me too much for another rework). More of the names would've been updated in this patch because originally this was meant to be 1.08.70 and was supposed to come out before Dance of Dragons, but I felt burnt out and didn't work much on it, and then Dance of Dragons happened and I got preoccupied with that.
+
+- #### Additions:
+
+    - Update "Dance of Dragons" additions:
+        - **1RL33**
+        - **AN/APG-63**
+        - **AN/APG-63 PSP**
+        - **L082**
+        - **SC-2**
     - The following radars have recieved their type tags:
         - **Mk 3 Mod 2**
         - **Mk 8 Mod 3**
@@ -214,9 +276,18 @@ A new sensors file has been added. This file contains game sensors and radars. R
         - **AN/SPS-10**
         - **AN/SPS-12**
         - **FC**
+        - **AN/APG-63**
+        - **AN/APG-63 (Programmable Signal Processor)**
+        - **AN/APG-66**
+        - **AN/APG-66(V)1**
+        - **AN/APG-66(V)3**
 
 - #### Changes:
 
+    - Update "Dance of Dragons" changes:
+        - **1RL33** (the new one added in Dance of Dragons, not the other **1RL33**) renamed to **1RL33RT**.
+        - **AN/APG-63 PSP** renamed to **AN/APG-63 (Programmable Signal Processor)**.
+        - **L082** renamed to **L-082**.
     - **Mk.3** renamed to **Fire Control Radar, Mk 3 Mod 2**.
     - **Mk.8** renamed to **Fire Control Radar, Mk 8 Mod 3**.
     - **Mk.12** renamed to **Fire Control Radar, Mk 12 Mod 1**.

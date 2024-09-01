@@ -103,9 +103,9 @@ All dates are listed in DD-MM-YYYY format.
     - The **P-39K-1-BE**'s (USSR) long name changed to **P-39K-1-BE Aèrokobra**.
     - The **P-51C-11-NT**'s (Japan and China) long name has been changed to **P-51C-11-NT Mustang "Evalina"**.
     - The **Ratel ZT3 Mk. 3** has had an accidental space removed from the beginning of its short name.
-    - **TK No. 106** renamed to **TK-412**. The long name has been changed to **Torpyednyye katyera Tip G-5, syeriâ XI, TK-412**.
     - **SPz Puma** renamed to **SPz Puma S0**.
     - **MCV (prototype №3)** renamed to **MCV (prototype No. 3)**.
+    - **TK No. 106** renamed to **TK-412**. The long name has been changed to **Torpyednyye katyera Tip G-5, syeriâ XI, TK-412**.
     - Abbreviations for Japanese and Chinese ground vehicles have been reworked. The long names have remained the same, but vehicles like the **shisei 12 senchi ji hashihō** have become **shisei 12 senchi JH** in their short names. This does not apply to vehicles like the **87 RCV** because Japan has designated them in the format of **87 RCV** for their abbreviated names. Right now the only vehicle in the Chinese tree is the new Taiwanese **Antelope** which has been renamed to the **Jiélíng FFX** in this mod. The list of changes are as follows:
         - **shisei 12 senchi ji hashihō** short name changed to **shisei 12 senchi JH**.
         - **naga 12 sanchi ji hashihō** short name changed to **naga 12 sanchi JH**.
@@ -114,6 +114,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **Ho-Ri**'s long name has been changed to **5 shiki Ho-Ri**.
     - **A-10A (1979)** long name changed to **A-10A Thunderbolt II "Warthog" (1979)**.
     - **A-10A (1983)** long name changed to **A-10A Thunderbolt II "Warthog" (1983)**.
+    - The Chinese **SU-76M** has had its long name changed to **SU-76M obr. 1943 g.**. The space before the "g" was added on the Soviet one but I forgot to do it for the Chinese one.
 
 ### Weaponry:
 
@@ -268,7 +269,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **Eastern Europe** renamed to **Ukrainian Town** because it is listed on the wiki as being in Ukraine.
+    - *Three Gorges** renamed back to the original name of **Mysterious Valley**. I have decided against changing map names (e.g. in one dev built of 1.09.00, **Eastern Europe** was renamed to **Ukrainian Town** because it is in Ukraine) beyond redoing their formatting. You can always change this if you want in the `WTHLM_userlang.csv` file.
 
 ### Sensors:
 

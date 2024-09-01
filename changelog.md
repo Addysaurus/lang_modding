@@ -60,20 +60,6 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **Su-22M3** (Hungary) renamed to **Szu-22M3**.
-    - **2S1** (Hungary) renamed to **2SZ1**. The long name has been changed to **2SZ1 "Gvozgyika"**.
-    - **ZSU-23-4** (Hungary) renamed to **ZSZU-23-4**. The long name has been changed to **2A6 | ZSZU-23-4 Silka**.
-    - **ZSU-57-2** (Hungary) renamed to **ZSZU-57-2**. The long name has been changed to **ZSZU-57-2**.
-    - **T-34-85 / 85 (1960)** folder renamed to **T-34-85 / 85 (1960s)**.
-    - **Khempdyenov T.B. MK-I (UTK-1)** renamed to **Khyempdyenov T.B. MK-I (UTK-1)**. The mid distance name has been renamed to **Khyempdyenov T.B. MK-I**.
-    - **Kharrikeyna F.B. MK-IIb (ŠVAK)** renamed to **Kharrikyejna F.B. MK-IIb (ŠVAK)**.
-    - The **A-20G-25-DO**'s (USSR) long name changed to **A-20G-25-DO Khyevok**.
-    - The **B-25J-30-NC**'s (USSR) long name changed to **B-25J-30-NC Mitčyell**.
-    - The **P-39K-1-BE**'s (USSR) long name changed to **P-39K-1-BE Aèrokobra**.
-    - The **P-51C-11-NT**'s (Japan and China) long name has been changed to **P-51C-11-NT Mustang "Evalina"**.
-    - The **Ratel ZT3 Mk. 3** has had an accidental space removed from the beginning of its short name.
-    - **TK No. 106** renamed to **TK-412**. The long name has been changed to **Torpyednyye katyera Tip G-5, syeriâ XI, TK-412**.
-    - **SPz Puma** renamed to **SPz Puma S0**.
     - Update "Dance of Dragons" changes:
         - **T1E1 (90)** renamed to **T1E1 (T7)**. The long name has been changed to **Tank, Heavy, T1E1 (T7)**.
         - The **ZSU-23-4M2**'s long name has been changed to **2A6M2 | ZSU-23-4M2 Šilka-M2**.
@@ -103,7 +89,31 @@ All dates are listed in DD-MM-YYYY format.
         - **VTB-13** renamed to **VTB 13**. The long name has been changed to **Vedette Torpilleur VTB 13**.
         - **VTB-14** renamed to **VTB 14**. The long name has been changed to **Vedette Torpilleur VTB 14**.
         - **La Combattante** (the motor gun boat, not the destroyer) renamed to **La Combattante (P 730)**.
-        - **Antelope** renamed to **Jiélíng ADM**. The long name has been changed to **Jiélíng fángkōng fēidàn xìtǒng**. There is one thing to note: "xìtong" should actually be spelled as "xìtǒng", but the "ǒ" character literally is not rendered in the game for some reason, it appears as a space, so I have to spell it as "xìtong".
+        - **Antelope** renamed to **Jiélíng FFX**. The long name has been changed to **Jiélíng fángkōng fēidàn xìtǒng**. There is one thing to note: "xìtong" should actually be spelled as "xìtǒng", but the "ǒ" character literally is not rendered in the game for some reason, it appears as a space, so I have to spell it as "xìtong".
+        - **A-10C** long name changed to **A-10C Thunderbolt II "Warthog"**.
+    - **Su-22M3** (Hungary) renamed to **Szu-22M3**.
+    - **2S1** (Hungary) renamed to **2SZ1**. The long name has been changed to **2SZ1 "Gvozgyika"**.
+    - **ZSU-23-4** (Hungary) renamed to **ZSZU-23-4**. The long name has been changed to **2A6 | ZSZU-23-4 Silka**.
+    - **ZSU-57-2** (Hungary) renamed to **ZSZU-57-2**. The long name has been changed to **ZSZU-57-2**.
+    - **T-34-85 / 85 (1960)** folder renamed to **T-34-85 / 85 (1960s)**.
+    - **Khempdyenov T.B. MK-I (UTK-1)** renamed to **Khyempdyenov T.B. MK-I (UTK-1)**. The mid distance name has been renamed to **Khyempdyenov T.B. MK-I**.
+    - **Kharrikeyna F.B. MK-IIb (ŠVAK)** renamed to **Kharrikyejna F.B. MK-IIb (ŠVAK)**.
+    - The **A-20G-25-DO**'s (USSR) long name changed to **A-20G-25-DO Khyevok**.
+    - The **B-25J-30-NC**'s (USSR) long name changed to **B-25J-30-NC Mitčyell**.
+    - The **P-39K-1-BE**'s (USSR) long name changed to **P-39K-1-BE Aèrokobra**.
+    - The **P-51C-11-NT**'s (Japan and China) long name has been changed to **P-51C-11-NT Mustang "Evalina"**.
+    - The **Ratel ZT3 Mk. 3** has had an accidental space removed from the beginning of its short name.
+    - **TK No. 106** renamed to **TK-412**. The long name has been changed to **Torpyednyye katyera Tip G-5, syeriâ XI, TK-412**.
+    - **SPz Puma** renamed to **SPz Puma S0**.
+    - **MCV (prototype №3)** renamed to **MCV (prototype No. 3)**.
+    - Abbreviations for Japanese and Chinese ground vehicles have been reworked. The long names have remained the same, but vehicles like the **shisei 12 senchi ji hashihō** have become **shisei 12 senchi JH** in their short names. This does not apply to vehicles like the **87 RCV** because Japan has designated them in the format of **87 RCV** for their abbreviated names. Right now the only vehicle in the Chinese tree is the new Taiwanese **Antelope** which has been renamed to the **Jiélíng FFX** in this mod. The list of changes are as follows:
+        - **shisei 12 senchi ji hashihō** short name changed to **shisei 12 senchi JH**.
+        - **naga 12 sanchi ji hashihō** short name changed to **naga 12 sanchi JH**.
+        - **tan 12 sanchi ji hashihō** short name changed to **tan 12 sanchi JH**.
+    - The **Ho-Ri (prototype)**'s long name has been changed to **5 shiki Ho-Ri (prototype)**.
+    - The **Ho-Ri**'s long name has been changed to **5 shiki Ho-Ri**.
+    - **A-10A (1979)** long name changed to **A-10A Thunderbolt II "Warthog" (1979)**.
+    - **A-10A (1983)** long name changed to **A-10A Thunderbolt II "Warthog" (1983)**.
 
 ### Weaponry:
 
@@ -154,6 +164,7 @@ All dates are listed in DD-MM-YYYY format.
         - **87,6 mm Mk.ID HE**
         - **87,6 mm Shot It APC**
         - **SS.11 ATGM** (this is the launcher for the **La Combattante (P 730)**)
+        - **XM884**
     - The following missiles have recieved their type tags:
         - **PL5EII**
         - **SD-10A**
@@ -252,6 +263,12 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Dance of Dragons" changes:
 
         - **Mitsubishi 10ZF 22WT** renamed to **10ZF 22WT**.
+
+### Maps:
+
+- #### Changes:
+
+    - **Eastern Europe** renamed to **Ukrainian Town** because it is listed on the wiki as being in Ukraine.
 
 ### Sensors:
 

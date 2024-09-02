@@ -107,6 +107,8 @@ All dates are listed in DD-MM-YYYY format.
     - **MCV (prototype №3)** renamed to **MCV (prototype No. 3)**. The long name has been changed to **kidō sentō sha (prototype No. 3)**.
     - The **16 MCV**'s long name has been changed to **16 shiki kidō sentō sha**.
     - **16 MCV (15th RDR)** renamed to **16 MCV (15th STR)**. The long name has been changed to **16 shiki kidō sentō sha (15th Sokuō Tenkai Rentai)**.
+    - The **87 RCV**'s long name has been changed to **87 shiki teisatsu kanshisha "Burakkuai"**.
+    - The **RCV (prototype No. 1)**'s long name has been changed to **teisatsu kanshisha (prototype No. 1)**.
     - **TK No. 106** renamed to **TK-412**. The long name has been changed to **Torpyednyye katyera Tip G-5, syeriâ XI, TK-412**.
     - Abbreviations for Japanese and Chinese ground vehicles have been reworked. The long names have remained the same, but vehicles like the **shisei 12 senchi ji hashihō** have become **shisei 12 senchi JH** in their short names. This does not apply to vehicles like the **87 RCV** because Japan has designated them in the format of **87 RCV** for their abbreviated names. Right now the only vehicle in the Chinese tree is the new Taiwanese **Antelope** which has been renamed to the **Jiélíng FFX** in this mod. The list of changes are as follows:
         - **shisei 12 senchi ji hashihō** short name changed to **shisei 12 senchi JH**.

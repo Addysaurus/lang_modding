@@ -128,9 +128,10 @@ All dates are listed in DD-MM-YYYY format.
     - **90 TK (B) (Fuji School)** renamed to **90 TK (B) (FKD)**. The long name has been changed to **90 shiki sensha B gata "Kyū-maru" (Fuji Kyōdō Dan, Kikō Kyōdō Rentai, 3rd Sensha Chūtai)**.
     - The **90 TK (B)**'s long name has been changed to **90 shiki sensha B gata "Kyū-maru"**.
     - The **90 TK**'s long name has been changed to **90 shiki sensha "Kyū-maru"**.
-    - The **10 TK**'s long name has been changed to **10 shiki sensha**.
+    - The **10 TK**'s long name has been changed to **10 shiki sensha "Hitomaru"**.
     - **New TK (prototype No. 3) (2006)** renamed to **shin TK (prototype No. 3) (2006)**. The long name has been changed to **shin sensha (prototype No. 3) (2006)**.
     - **New TK (prototype No. 3) (2009)** renamed to **shin TK (prototype No. 3) (2009)**. The long name has been changed to **shin sensha (prototype No. 3) (2009)**. The folder has been adjusted accordingly.
+    - **3½t Truck (Type 81)** renamed to **3½ t torakku (81 shiki)**. The long name has been changed to **3½ t torakku "Ōgata" (81 shiki tankyorichi taikū yūdōdan Tan-SAM ranchā "Shōtoarō")**.
     - **TK No. 106** renamed to **TK-412**. The long name has been changed to **Torpyednyye katyera Tip G-5, syeriâ XI, TK-412**.
     - Abbreviations for Japanese and Chinese ground vehicles have been reworked. The long names have remained the same, but vehicles like the **shisei 12 senchi ji hashihō** have become **shisei 12 senchi JH** in their short names. This does not apply to vehicles like the **87 RCV** because Japan has designated them in the format of **87 RCV** for their abbreviated names. Right now the only vehicle in the Chinese tree is the new Taiwanese **Antelope** which has been renamed to the **Jiélíng FFX** in this mod. The list of changes are as follows:
         - **shisei 12 senchi ji hashihō** short name changed to **shisei 12 senchi JH**.
@@ -142,6 +143,7 @@ All dates are listed in DD-MM-YYYY format.
     - **A-10A (1983)** long name changed to **A-10A Thunderbolt II "Warthog" (1983)**.
     - The Chinese **SU-76M** has had its long name changed to **SU-76M obr. 1943 g.**. The space before the "g" was added on the Soviet one but I forgot to do it for the Chinese one.
     - The **60 SPRG / APC (ATM-1)** has been renamed to **60 SP / APC (ATM-1)**
+    - **AMX 30 DCA** renamed to **AMX 30 S DCA**
 
 ### Weaponry:
 
@@ -210,12 +212,16 @@ All dates are listed in DD-MM-YYYY format.
         - **AGM-65E-2**
         - **AGM-65F**
         - **AGM-65L**
+        - **SAM-1C**
     - The following bombs have recieved their weight and type tags added:
         - **KAB-1500L**
     - The following guns have had their caliber and type tags added:
         - **T7**
         - **GŠ-23M**
-    - The **Launcher, Standard Vehicle Mounted** (the new one for the **Stormer AD**) has recieved its type tag.
+    - The following launchers have recieved their type tags:
+        - **Launcher, Standard Vehicle Mounted** (the new one for the **Stormer AD**)
+        - **81 shiki tankyorichi taikū yūdōdan Tan-SAM ranchā "Shōtoarō"**
+    - Added missing short name text for the **SAM-1C**
 
 - #### Changes:
 
@@ -241,6 +247,7 @@ All dates are listed in DD-MM-YYYY format.
         - **FIM-92 Stinger** renamed to **Launcher, Standard Vehicle Mounted**. This is not the actual missile, this is the launcher for the **Stormer AD**.
     - **7.7 mm Type 92 machinegun** renamed to **7.7 mm Type 92 machine gun**. This is not an actual rename, it is just a spelling correction.
     - **7.7 mm Type 89 machinegun** renamed to **7.7 mm Type 89 machine gun**. This is not an actual rename, it is just a spelling correction.
+    - **Type 81 Tan-SAM Launcher** renamed to **81 shiki tankyorichi taikū yūdōdan Tan-SAM ranchā "Shōtoarō"**.
 
 ### Modifications:
 

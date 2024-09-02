@@ -109,6 +109,25 @@ All dates are listed in DD-MM-YYYY format.
     - **16 MCV (15th RDR)** renamed to **16 MCV (15th STR)**. The long name has been changed to **16 shiki kidō sentō sha (15th Sokuō Tenkai Rentai)**.
     - The **87 RCV**'s long name has been changed to **87 shiki teisatsu kanshisha "Burakkuai"**.
     - The **RCV (prototype No. 1)**'s long name has been changed to **teisatsu kanshisha (prototype No. 1)**.
+    - The **74 TK (G)**'s long name has been changed to **74 shiki sensha kai G gata "Nana-yon"**.
+    - The **74 TK (F)**'s long name has been changed to **74 shiki sensha F gata "Nana-yon"**.
+    - The **74 TK (C)**'s long name has been changed to **74 shiki sensha C gata "Nana-yon"**.
+    - The **74 TK (E)**'s long name has been changed to **74 shiki sensha E gata "Nana-yon"**.
+    - The **61 TK (B)**'s long name has been changed to **61 shiki sensha B gata**.
+    - The **M47**'s (Japan) long name has been changed to **M47 sensha**.
+    - The **75 HSP**'s long name has been changed to **75 shiki ji hashi 155 mm ryūdanhō**.
+    - The **75 MSSR**'s long name has been changed to **75 shiki ji hashi 130 mm tarensō rokettodan hasshaki**.
+    - The **99 HSP**'s long name has been changed to **99 shiki ji hashi 155 mm ryūdanhō "Rongunōzu"**.
+    - The **89 FV**'s long name has been changed to **89 shiki sōkō sentō sha "Raito Taigā"**.
+    - The **87 AW**'s long name has been changed to **87 shiki ji hashi kōsha kikanhō "Sukaishūtā"**.
+    - The **60 SP (C)**'s long name has been changed to **60 shiki ji hashi 106 mm mu handōhō C gata "Mametan"**.
+    - The **60 APC (ATM-1)**'s long name has been changed to **60 shiki sōkō sha (ATM-1)**
+    - **90 TK (B) (Fuji School)** renamed to **90 TK (B) (FKD)**. The long name has been changed to **90 shiki sensha B gata (Fuji Kyōdō Dan, Kikō Kyōdō Rentai, 3rd Sensha Chūtai)**.
+    - The **90 TK (B)**'s long name has been changed to **90 shiki sensha B gata**.
+    - The **90 TK**'s long name has been changed to **90 shiki sensha**.
+    - The **10 TK**'s long name has been changed to **10 shiki sensha**.
+    - The **New TK (prototype No. 3) (2006)**'s long name has been changed to **shin sensha (prototype No. 3) (2006)**.
+    - The **New TK (prototype No. 3) (2009)**'s long name has been changed to **shin sensha (prototype No. 3) (2009)**.
     - **TK No. 106** renamed to **TK-412**. The long name has been changed to **Torpyednyye katyera Tip G-5, syeriâ XI, TK-412**.
     - Abbreviations for Japanese and Chinese ground vehicles have been reworked. The long names have remained the same, but vehicles like the **shisei 12 senchi ji hashihō** have become **shisei 12 senchi JH** in their short names. This does not apply to vehicles like the **87 RCV** because Japan has designated them in the format of **87 RCV** for their abbreviated names. Right now the only vehicle in the Chinese tree is the new Taiwanese **Antelope** which has been renamed to the **Jiélíng FFX** in this mod. The list of changes are as follows:
         - **shisei 12 senchi ji hashihō** short name changed to **shisei 12 senchi JH**.
@@ -119,6 +138,7 @@ All dates are listed in DD-MM-YYYY format.
     - **A-10A (1979)** long name changed to **A-10A Thunderbolt II "Warthog" (1979)**.
     - **A-10A (1983)** long name changed to **A-10A Thunderbolt II "Warthog" (1983)**.
     - The Chinese **SU-76M** has had its long name changed to **SU-76M obr. 1943 g.**. The space before the "g" was added on the Soviet one but I forgot to do it for the Chinese one.
+    - The **60 SPRG / APC (ATM-1)** has been renamed to **60 SP / APC (ATM-1)**
 
 ### Weaponry:
 
@@ -321,6 +341,24 @@ A new sensors file has been added. This file contains game sensors and radars. R
     - **AN-SPS-8A** renamed to **Air Search Radar, AN/SPS-8A**.
     - **AN-SPS-10** renamed to **Surface Search Radar, AN/SPS-10**.
     - **AN-SPS-12** renamed to **Air Search Radar, AN/SPS-12**.
+
+### Materials:
+
+- #### Additions:
+
+    - Update "Dance of Dragons" material additions:
+        - **RoofPRO composite armor**
+        - **SidePRO composite armor**
+    - Type tags have been added for the following armors:
+        - **RoofPRO-P**
+        - **SidePRO-KE/IED**
+
+- #### Changes:
+
+    - Update "Dance of Dragons" changes:
+        - **RoofPRO composite armor** renamed to **RoofPRO-P**.
+        - **sidePRO composite armor** renamed to **SidePRO-KE/IED**.
+    - The **M19 Abrams Reactive Armor Tile**'s type tag has been corrected to **ERA**. Previously it was mistakenly written as **CMERAP**.
 
 ## 1.08.69 - 25-08-2024
 

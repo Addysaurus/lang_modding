@@ -42,6 +42,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Al-Khalid 1**
         - **Tornado IDS** (Italy)
         - **CV 9035NL**
+        - **Mogador**
         - **VLT-1**
         - **MTB-96**
         - **L9059**
@@ -51,6 +52,7 @@ All dates are listed in DD-MM-YYYY format.
         - **VTB-11**
         - **VTB-13**
         - **VTB-14**
+        - **Arras**
         - **La Combattante**
         - **KV-1 m1942**
         - **F-16C Barak II**
@@ -88,6 +90,7 @@ All dates are listed in DD-MM-YYYY format.
         - **VTB-11** renamed to **VTB 11**. The long name has been changed to **Vedette Torpilleur VTB 11**.
         - **VTB-13** renamed to **VTB 13**. The long name has been changed to **Vedette Torpilleur VTB 13**.
         - **VTB-14** renamed to **VTB 14**. The long name has been changed to **Vedette Torpilleur VTB 14**.
+        - **Mogador** renamed to **Mogador (X 61)**.
         - **La Combattante** (the motor gun boat, not the destroyer) renamed to **La Combattante (P 730)**.
         - **Antelope** renamed to **Jiélíng FFX**. The long name has been changed to **Jiélíng fángkōng fēidàn xìtǒng**. There is one thing to note: "xìtong" should actually be spelled as "xìtǒng", but the "ǒ" character literally is not rendered in the game for some reason, it appears as a space, so I have to spell it as "xìtong".
         - **A-10C** long name changed to **A-10C Thunderbolt II "Warthog"**.
@@ -122,12 +125,12 @@ All dates are listed in DD-MM-YYYY format.
     - The **87 AW**'s long name has been changed to **87 shiki ji hashi kōsha kikanhō "Sukaishūtā"**.
     - The **60 SP (C)**'s long name has been changed to **60 shiki ji hashi 106 mm mu handōhō C gata "Mametan"**.
     - The **60 APC (ATM-1)**'s long name has been changed to **60 shiki sōkō sha (ATM-1)**
-    - **90 TK (B) (Fuji School)** renamed to **90 TK (B) (FKD)**. The long name has been changed to **90 shiki sensha B gata (Fuji Kyōdō Dan, Kikō Kyōdō Rentai, 3rd Sensha Chūtai)**.
-    - The **90 TK (B)**'s long name has been changed to **90 shiki sensha B gata**.
-    - The **90 TK**'s long name has been changed to **90 shiki sensha**.
+    - **90 TK (B) (Fuji School)** renamed to **90 TK (B) (FKD)**. The long name has been changed to **90 shiki sensha B gata "Kyū-maru" (Fuji Kyōdō Dan, Kikō Kyōdō Rentai, 3rd Sensha Chūtai)**.
+    - The **90 TK (B)**'s long name has been changed to **90 shiki sensha B gata "Kyū-maru"**.
+    - The **90 TK**'s long name has been changed to **90 shiki sensha "Kyū-maru"**.
     - The **10 TK**'s long name has been changed to **10 shiki sensha**.
-    - The **New TK (prototype No. 3) (2006)**'s long name has been changed to **shin sensha (prototype No. 3) (2006)**.
-    - The **New TK (prototype No. 3) (2009)**'s long name has been changed to **shin sensha (prototype No. 3) (2009)**.
+    - **New TK (prototype No. 3) (2006)** renamed to **shin TK (prototype No. 3) (2006)**. The long name has been changed to **shin sensha (prototype No. 3) (2006)**.
+    - **New TK (prototype No. 3) (2009)** renamed to **shin TK (prototype No. 3) (2009)**. The long name has been changed to **shin sensha (prototype No. 3) (2009)**. The folder has been adjusted accordingly.
     - **TK No. 106** renamed to **TK-412**. The long name has been changed to **Torpyednyye katyera Tip G-5, syeriâ XI, TK-412**.
     - Abbreviations for Japanese and Chinese ground vehicles have been reworked. The long names have remained the same, but vehicles like the **shisei 12 senchi ji hashihō** have become **shisei 12 senchi JH** in their short names. This does not apply to vehicles like the **87 RCV** because Japan has designated them in the format of **87 RCV** for their abbreviated names. Right now the only vehicle in the Chinese tree is the new Taiwanese **Antelope** which has been renamed to the **Jiélíng FFX** in this mod. The list of changes are as follows:
         - **shisei 12 senchi ji hashihō** short name changed to **shisei 12 senchi JH**.
@@ -188,8 +191,14 @@ All dates are listed in DD-MM-YYYY format.
         - **87,6 mm Ordnance QF 25pdr gun**
         - **87,6 mm Mk.ID HE**
         - **87,6 mm Shot It APC**
-        - **SS.11 ATGM** (this is the launcher for the **La Combattante (P 730)**)
         - **XM884**
+        - **Mk.52**
+        - **BRM1**
+        - **Hotchkiss pattern 1914**
+        - **75 mm/35 mod. 1897**
+        - **138.6 mm/50 model 1934**
+        - **138,6 mm OEA Mle 1932 HE**
+        - **SS.11 missile launcher**
     - The following missiles have recieved their type tags:
         - **PL5EII**
         - **SD-10A**
@@ -256,6 +265,7 @@ All dates are listed in DD-MM-YYYY format.
         - **RVV-AE** (the **J11A (MLU)**'s modification that they finally added to it)
         - **87,6 mm APC**
         - **381 mm Mk.Ia APC**
+        - **Fire Snake 90A**
 
 - #### Changes:
 
@@ -279,6 +289,7 @@ All dates are listed in DD-MM-YYYY format.
         - **RD-93**
         - **TF30-P-103**
         - **TF30-P-100**
+        - **F402-RR-406**
     - **Mitsubishi Automotive Industry Company** added as the manufacturer for the following engines (annoyingly, I did have to do it in the same weird way as with the **AVDS-1790-5A**, but the result is the same):
         - **10ZF 22WT**
         - **8VA 34WTK**

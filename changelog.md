@@ -54,6 +54,7 @@ All dates are listed in DD-MM-YYYY format.
         - **VTB-14**
         - **Arras**
         - **La Combattante**
+        - **La Surprise**
         - **KV-1 m1942**
         - **F-16C Barak II**
         - **Tiran 6**
@@ -94,6 +95,7 @@ All dates are listed in DD-MM-YYYY format.
         - **La Combattante** (the motor gun boat, not the destroyer) renamed to **La Combattante (P 730)**.
         - **Antelope** renamed to **Jiélíng FFX**. The long name has been changed to **Jiélíng fángkōng fēidàn xìtǒng**. There is one thing to note: "xìtong" should actually be spelled as "xìtǒng", but the "ǒ" character literally is not rendered in the game for some reason, it appears as a space, so I have to spell it as "xìtong".
         - **A-10C** long name changed to **A-10C Thunderbolt II "Warthog"**.
+        - **La Surprise** renamed to **La Surprise (F 08)**.
     - **Su-22M3** (Hungary) renamed to **Szu-22M3**.
     - **2S1** (Hungary) renamed to **2SZ1**. The long name has been changed to **2SZ1 "Gvozgyika"**.
     - **ZSU-23-4** (Hungary) renamed to **ZSZU-23-4**. The long name has been changed to **2A6 | ZSZU-23-4 Silka**.

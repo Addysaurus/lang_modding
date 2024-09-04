@@ -243,7 +243,7 @@ All dates are listed in DD-MM-YYYY format.
     - Type tag added to the **Mk 82 Mod 1 (BSU-49/B). It was missing before by accident.
     - Update "Dance of Dragons" changes:
         - **PL-5EII air-to-air missiles** renamed to **PL5EII**.
-        - **SD-10(A) air-to-air missiles** renamed to **SD-10A**.
+        - **SD-10(A) air-to-air missiles** renamed to **SD10A**.
         - **Drop tank (600 gal.)** renamed to **Drop tank (600 gal)**. I could not find an actual name for it, this is just a consistency change to match the rest of the mod.
         - **Drop tank (2000 liters.)** renamed to **Drop tank (2000 L)**. I could not find an actual name for it, this is just a consistency change to match the rest of the mod.
         - **Drop tank (800 liters.)** renamed to **Drop tank (800 L)**. I could not find an actual name for it, this is just a consistency change to match the rest of the mod.
@@ -265,6 +265,7 @@ All dates are listed in DD-MM-YYYY format.
     - **7.7 mm Type 92 machinegun** renamed to **7.7 mm Type 92 machine gun**. This is not an actual rename, it is just a spelling correction.
     - **7.7 mm Type 89 machinegun** renamed to **7.7 mm Type 89 machine gun**. This is not an actual rename, it is just a spelling correction.
     - **Type 81 Tan-SAM Launcher** renamed to **81 shiki tankyorichi taikū yūdōdan Tan-SAM ranchā "Shōtoarō"**.
+    - **BMB-GPS** type tag renamed to **BMB-GNSS**.
 
 ### Modifications:
 

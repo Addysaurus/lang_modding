@@ -33,14 +33,18 @@ All dates are listed in DD-MM-YYYY format.
         - **Izmail**
         - **F-111C**
         - **Stormer AD**
+        - **HMAS Fremantle**
         - **HMS Barham**
-        - **RCV (P)**
+        - **CTWV RCV**
         - **PT-802**
         - **JF-17**
         - **J-10A**
         - **Antelope**
         - **Al-Khalid 1**
         - **Tornado IDS** (Italy)
+        - **MAS 441**
+        - **Sea Fury FB 51** (France / Netherlands)
+        - **Sea Hawk Mk.50** (France / Netherlands)
         - **CV 9035NL**
         - **Mogador**
         - **VLT-1**
@@ -59,7 +63,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F-16C Barak II**
         - **Tiran 6**
     - **Flug- und Fahrzeugwerke Altenrhein** added as the manufacturer for the **P-16 Mk. 3**.
-    - **China North Industries Corporation / Heavy Industries Taxila** added as the manufacturer for the **Al-Khalid 1**.
+    - **China North Industries Corporation / Heavy Industries Taxila** added as the manufacturers for the **Al-Khalid 1**.
 
 - #### Changes:
 
@@ -97,6 +101,9 @@ All dates are listed in DD-MM-YYYY format.
         - **A-10C** long name changed to **A-10C Thunderbolt II "Warthog"**.
         - **La Surprise** renamed to **La Surprise (F 08)**. Gaijin called it the **La Surprise (F10)**, but everything I can find indicates that F 10 was the **Croix de Lorraine**, while F 08 was the **La Surprise**.
         - **Arras** renamed to **Arras (AS)**.
+        - **Sea Fury FB 51** renamed to **Sea Fury Mk 51**.
+        - **Sea Hawk Mk.50** renamed to **Sea Hawk Mk. 50**.
+        - **HMAS Fremantle** renamed to **HMAS Fremantle (FCPB 203)**.
     - **Su-22M3** (Hungary) renamed to **Szu-22M3**.
     - **2S1** (Hungary) renamed to **2SZ1**. The long name has been changed to **2SZ1 "Gvozgyika"**.
     - **ZSU-23-4** (Hungary) renamed to **ZSZU-23-4**. The long name has been changed to **2A6 | ZSZU-23-4 Silka**.

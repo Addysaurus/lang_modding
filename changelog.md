@@ -211,6 +211,10 @@ All dates are listed in DD-MM-YYYY format.
         - **138.6 mm/50 model 1934**
         - **138,6 mm OEA Mle 1932 HE**
         - **SS.11 missile launcher**
+        - **PL-6 250**
+        - **PL-6 500**
+        - **SNEB type 23** (another one, there already was one ingame)
+        - **Breda mod.37**
     - The following missiles have recieved their type tags:
         - **PL5EII**
         - **SD-10A**
@@ -225,6 +229,7 @@ All dates are listed in DD-MM-YYYY format.
         - **SAM-1C**
     - The following bombs have recieved their weight and type tags added:
         - **KAB-1500L**
+        - **LS6** (the 250 kg and 500 kg ones)
     - The following guns have had their caliber and type tags added:
         - **T7**
         - **GŠ-23M**
@@ -255,6 +260,8 @@ All dates are listed in DD-MM-YYYY format.
         - **AGM-65L air-to-ground missiles** renamed to **Guided Missile, Air to Surface, AGM-65L**.
         - **25 mm GAU-12U cannon** renamed to **Cannon, 25mm, GAU-12/U Equalizer** (for the next text entry).
         - **FIM-92 Stinger** renamed to **Launcher, Standard Vehicle Mounted**. This is not the actual missile, this is the launcher for the **Stormer AD**.
+        - **PL-6 250** renamed to **LS6**.
+        - **PL-6 500** renamed to **LS6** (this and the 250 kg one have different weight tags).
     - **7.7 mm Type 92 machinegun** renamed to **7.7 mm Type 92 machine gun**. This is not an actual rename, it is just a spelling correction.
     - **7.7 mm Type 89 machinegun** renamed to **7.7 mm Type 89 machine gun**. This is not an actual rename, it is just a spelling correction.
     - **Type 81 Tan-SAM Launcher** renamed to **81 shiki tankyorichi taikū yūdōdan Tan-SAM ranchā "Shōtoarō"**.
@@ -283,6 +290,10 @@ All dates are listed in DD-MM-YYYY format.
         - **87,6 mm APC**
         - **381 mm Mk.Ia APC**
         - **Fire Snake 90A**
+        - **FAB-500/KAB-500**
+        - **Mk82/GBU-38**
+        - **Mk82/LS-6 250**
+        - **Mk84/GBU-31**
 
 - #### Changes:
 
@@ -307,6 +318,8 @@ All dates are listed in DD-MM-YYYY format.
         - **TF30-P-103**
         - **TF30-P-100**
         - **F402-RR-406**
+        - **M-100A**
+        - **AL-31FN**
     - **Mitsubishi Automotive Industry Company** added as the manufacturer for the following engines (annoyingly, I did have to do it in the same weird way as with the **AVDS-1790-5A**, but the result is the same):
         - **10ZF 22WT**
         - **8VA 34WTK**

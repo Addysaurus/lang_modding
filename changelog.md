@@ -266,6 +266,7 @@ All dates are listed in DD-MM-YYYY format.
     - **7.7 mm Type 89 machinegun** renamed to **7.7 mm Type 89 machine gun**. This is not an actual rename, it is just a spelling correction.
     - **Type 81 Tan-SAM Launcher** renamed to **81 shiki tankyorichi taikū yūdōdan Tan-SAM ranchā "Shōtoarō"**.
     - **BMB-GPS** type tag renamed to **BMB-GNSS**.
+    - The **76 mm** caliber tag has been changed to **76.2 mm**. Pretty much all of these guns are 76.2 mm in caliber because that is 3 inches converted to metric. If any of them are not 76.2 mm, please inform me.
 
 ### Modifications:
 

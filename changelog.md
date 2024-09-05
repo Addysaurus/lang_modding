@@ -143,7 +143,7 @@ All dates are listed in DD-MM-YYYY format.
     - **New TK (prototype No. 3) (2009)** renamed to **shin TK (prototype No. 3) (2009)**. The long name has been changed to **shin sensha (prototype No. 3) (2009)**. The folder has been adjusted accordingly.
     - **3½t Truck (Type 81)** renamed to **3½ t torakku (81 shiki)**. The long name has been changed to **3½ t torakku "Ōgata" (81 shiki tankyorichi taikū yūdōdan Tan-SAM ranchā "Shōtoarō")**.
     - **TK No. 106** renamed to **TK-412**. The long name has been changed to **Torpyednyye katyera Tip G-5, syeriâ XI, TK-412**.
-    - Abbreviations for Japanese and Chinese ground vehicles have been reworked. The long names have remained the same, but vehicles like the **shisei 12 senchi ji hashihō** have become **shisei 12 senchi JH** in their short names. This does not apply to vehicles like the **87 RCV** because Japan has designated them in the format of **87 RCV** for their abbreviated names. Right now the only vehicle in the Chinese tree is the new Taiwanese **Antelope** which has been renamed to the **Jiélíng FFX** in this mod. The list of changes are as follows:
+    - Abbreviations for Japanese and Chinese ground vehicles have been reworked. The long names have remained the same, but vehicles like the **shisei 12 senchi ji hashihō** have become **shisei 12 senchi JH** in their short names. This does not apply to vehicles like the **87 RCV** because Japan has designated them in the format of **87 RCV** for their abbreviated names. Right now the only vehicle in the Chinese tree to follow this abbreviation format is the new Taiwanese **Antelope** which has been renamed to the **Jiélíng FFX** in this mod, with "FFX" being short for "fángkōng fēidàn xìtǒng". The list of changes are as follows:
         - **shisei 12 senchi ji hashihō** short name changed to **shisei 12 senchi JH**.
         - **naga 12 sanchi ji hashihō** short name changed to **naga 12 sanchi JH**.
         - **tan 12 sanchi ji hashihō** short name changed to **tan 12 sanchi JH**.
@@ -154,6 +154,8 @@ All dates are listed in DD-MM-YYYY format.
     - The Chinese **SU-76M** has had its long name changed to **SU-76M obr. 1943 g.**. The space before the "g" was added on the Soviet one but I forgot to do it for the Chinese one.
     - The **60 SPRG / APC (ATM-1)** has been renamed to **60 SP / APC (ATM-1)**
     - **AMX 30 DCA** renamed to **AMX 30 S DCA**
+    - The **KS 5**'s long name has been changed to **kleines Schnellboot Typ KS, KS 5**.
+    - **Fairmile H LCS(L)257** renamed to **LCS(L)(2) 257**.
 
 ### Weaponry:
 

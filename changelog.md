@@ -62,7 +62,7 @@ All dates are listed in DD-MM-YYYY format.
         - **KV-1 m1942**
         - **F-16C Barak II**
         - **Tiran 6**
-    - **Flug- und Fahrzeugwerke Altenrhein** added as the manufacturer for the **P-16 Mk. 3**.
+    - **Flug- und Fahrzeugwerke Altenrhein** added as the manufacturer for the **P-16 Mk III**.
     - **China North Industries Corporation / Heavy Industries Taxila** added as the manufacturers for the **Al-Khalid 1**.
 
 - #### Changes:
@@ -76,7 +76,7 @@ All dates are listed in DD-MM-YYYY format.
         - **J-10A** renamed to **J10A**. The long name has been changed to **J10A "Měng Lóng"**.
         - The **F-111F**'s long name has been changed to **F-111F "Aardvark"**.
         - The **F-111C**'s long name has been changed to **F-111C "Aardvark"**.
-        - **FFA P-16** renamed to **P-16 Mk. 3**. The long name has been changed to **Flug- und Fahrzeugwerke Altenrhein | P-16 Mk. 3**.
+        - **FFA P-16** renamed to **P-16 Mk III**. The long name has been changed to **Flug- und Fahrzeugwerke Altenrhein | P-16 Mk III**.
         - **Stormer AD** renamed to **F.V.4333 (AD)**. The long name has been changed to **F.V.4333 | Combat Vehicle, Carrier, Full Tracked, Air Defense**.
         - **RCV (P)** renamed to **RCV**. The long name has been changed to **teisatsu sentō gata**.
         - **F-16C Barak II** Renamed to **F-16C-40-CF**. The long name has been changed to **F-16C-40-CF Barak II**.
@@ -156,6 +156,10 @@ All dates are listed in DD-MM-YYYY format.
     - **AMX 30 DCA** renamed to **AMX 30 S DCA**
     - The **KS 5**'s long name has been changed to **kleines Schnellboot Typ KS, KS 5**.
     - **Fairmile H LCS(L)257** renamed to **LCS(L)(2) 257**.
+    - **F-4F Peace Rhine** renamed to **F-4F-63-MC (Peace Rhine)**. The long name has been changed to **McDonnell Douglas | McDonnell Douglas Model 98NQ | (GY)F-4F | F-4F-63-MC Phantom II (Peace Rhine (stage 2))**.
+    - **Valentine-IX** (USSR) renamed to **Valyentajn-IX**.
+    - **Matilda-II (F-96)** (USSR) renamed to **Matil'da-III (F-96)**.
+    - The **Matilda, Mk. IV (Hedgehog)**'s long name has been changed to **Tank, Infantry, Mk. II, A.12, Matilda, Mk. IV (Projector, Hedgehog, No. 1, Mk. 1)**.
 
 ### Weaponry:
 
@@ -213,8 +217,8 @@ All dates are listed in DD-MM-YYYY format.
         - **138.6 mm/50 model 1934**
         - **138,6 mm OEA Mle 1932 HE**
         - **SS.11 missile launcher**
-        - **PL-6 250**
-        - **PL-6 500**
+        - **LS-6 250**
+        - **LS-6 500**
         - **SNEB type 23** (another one, there already was one ingame)
         - **Breda mod.37**
     - The following missiles have recieved their type tags:
@@ -239,6 +243,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Launcher, Standard Vehicle Mounted** (the new one for the **Stormer AD**)
         - **81 shiki tankyorichi taikū yūdōdan Tan-SAM ranchā "Shōtoarō"**
     - Added missing short name text for the **SAM-1C**
+    - The **Projector, Hedgehog, No. 1, Mk. 1** has recieved its caliber and type tags.
 
 - #### Changes:
 
@@ -262,13 +267,14 @@ All dates are listed in DD-MM-YYYY format.
         - **AGM-65L air-to-ground missiles** renamed to **Guided Missile, Air to Surface, AGM-65L**.
         - **25 mm GAU-12U cannon** renamed to **Cannon, 25mm, GAU-12/U Equalizer** (for the next text entry).
         - **FIM-92 Stinger** renamed to **Launcher, Standard Vehicle Mounted**. This is not the actual missile, this is the launcher for the **Stormer AD**.
-        - **PL-6 250** renamed to **LS6**.
-        - **PL-6 500** renamed to **LS6** (this and the 250 kg one have different weight tags).
+        - **LS-6 250** renamed to **LS6**.
+        - **LS-6 500** renamed to **LS6** (this and the 250 kg one have different mass tags).
     - **7.7 mm Type 92 machinegun** renamed to **7.7 mm Type 92 machine gun**. This is not an actual rename, it is just a spelling correction.
     - **7.7 mm Type 89 machinegun** renamed to **7.7 mm Type 89 machine gun**. This is not an actual rename, it is just a spelling correction.
     - **Type 81 Tan-SAM Launcher** renamed to **81 shiki tankyorichi taikū yūdōdan Tan-SAM ranchā "Shōtoarō"**.
     - **BMB-GPS** type tag renamed to **BMB-GNSS**.
     - The **76 mm** caliber tag has been changed to **76.2 mm**. Pretty much all of these guns are 76.2 mm in caliber because that is 3 inches converted to metric. If any of them are not 76.2 mm, please inform me.
+    - **Hedgehog** renamed to **Projector, Hedgehog, No. 1, Mk. 1**.
 
 ### Modifications:
 

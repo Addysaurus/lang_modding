@@ -71,7 +71,7 @@ All dates are listed in DD-MM-YYYY format.
         - **T1E1 (90)** renamed to **T1E1 (T7)**. The long name has been changed to **Tank, Heavy, T1E1 (T7)**.
         - The **ZSU-23-4M2**'s long name has been changed to **2A6M2 | ZSU-23-4M2 Šilka-M2**.
         - **CV 9035NL** renamed to **CV9035NL**.
-        - The **Su-24M**'s long name has been changed to **izd. T-6M-8 | Su-24M**.
+        - **Su-24M** renamed to **Su-24M2**. The long name has been changed to **izd. T-6M2 | Su-24M2**.
         - **JF-17** renamed to **JF-17A Block 1**. The long name has been changed to **JF-17A Block 1 Garaj**.
         - **J-10A** renamed to **J10A**. The long name has been changed to **J10A "Měng Lóng"**.
         - The **F-111F**'s long name has been changed to **F-111F "Aardvark"**.
@@ -294,7 +294,7 @@ All dates are listed in DD-MM-YYYY format.
         - **87,6 mm APC**
         - **381 mm Mk.Ia APC**
         - **Fire Snake 90A**
-        - **FAB-500/KAB-500**
+        - **Su-24M2**
         - **Mk82/GBU-38**
         - **Mk82/LS-6 250**
         - **Mk84/GBU-31**

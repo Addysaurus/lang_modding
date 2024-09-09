@@ -160,6 +160,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Valentine-IX** (USSR) renamed to **Valyentajn-IX**.
     - **Matilda-II (F-96)** (USSR) renamed to **Matil'da-III (F-96)**.
     - The **Matilda, Mk. IV (Hedgehog)**'s long name has been changed to **Tank, Infantry, Mk. II, A.12, Matilda, Mk. IV (Projector, Hedgehog, No. 1, Mk. 1)**.
+    - The **HMS Marlborough (79)**'s long name has been changed to **Iron Duke-class, HMS Marlborough, 1927 (79)**.
+    - **Parižskaâ kommuna** renamed to **Parižskaâ Kommuna**.
 
 ### Weaponry:
 
@@ -315,6 +317,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Lwf 63** renamed to **Flz.Lwf. LL 63**.
         - **RVV-AE** (the new one for the **J11A (MLU)**) renamed to **RVV-AYe**.
     - **AN-M34** renamed to **AN/M34**.
+    - **Exhaust smomescreen** renamed to **Exhaust smokescreen**. "Smomescreen" was a typo.
 
 ### Engines:
 

@@ -25,27 +25,27 @@ All dates are listed in DD-MM-YYYY format.
         - **AV-8B (NA)**
         - **T1E1 (90)**
         - **USS Tennessee**
-        - **FFA P-16**
+        - **FFA P-16** (Germany / Switzerland)
         - **Puma VJTF**
         - **SMS Derfflinger**
         - **Su-24M**
         - **ZSU-23-4M2**
         - **Izmail**
-        - **F-111C**
+        - **F-111C** (UK / Australia)
         - **Stormer AD**
-        - **HMAS Fremantle**
+        - **HMAS Fremantle** (UK / Australia)
         - **HMS Barham**
         - **CTWV RCV**
         - **PT-802**
-        - **JF-17**
+        - **JF-17** (China / Pakistan)
         - **J-10A**
-        - **Antelope**
-        - **Al-Khalid 1**
+        - **Antelope** (China / Taiwan)
+        - **Al-Khalid 1** (China / Pakistan)
         - **Tornado IDS** (Italy)
         - **MAS 441**
         - **Sea Fury FB 51** (France / Netherlands)
         - **Sea Hawk Mk.50** (France / Netherlands)
-        - **CV 9035NL**
+        - **CV 9035NL** (France / Netherlands)
         - **Mogador**
         - **VLT-1**
         - **MTB-96**
@@ -59,7 +59,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Arras**
         - **La Combattante**
         - **La Surprise**
-        - **KV-1 m1942**
+        - **KV-1 m1942** (Sweden / Finland)
         - **F-16C Barak II**
         - **Tiran 6**
     - **Flug- und Fahrzeugwerke Altenrhein** added as the manufacturer for the **P-16 Mk III**.
@@ -68,7 +68,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Update "Dance of Dragons" changes:
-        - **T1E1 (90)** renamed to **T1E1 (T7)**. The long name has been changed to **Tank, Heavy, T1E1 (T7)**.
+        - **T1E1 (90)** renamed to **T1E1 (T7)**. The long name has been changed to **Tank, Heavy, T1E1 (Gun, 90mm, T7)**.
         - The **ZSU-23-4M2**'s long name has been changed to **2A6M2 | ZSU-23-4M2 Šilka-M2**.
         - **CV 9035NL** renamed to **CV9035NL**.
         - **Su-24M** renamed to **Su-24M2**. The long name has been changed to **izd. T-6M2 | Su-24M2**.
@@ -79,7 +79,7 @@ All dates are listed in DD-MM-YYYY format.
         - **FFA P-16** renamed to **P-16 Mk III**. The long name has been changed to **Flug- und Fahrzeugwerke Altenrhein | P-16 Mk III**.
         - **Stormer AD** renamed to **F.V.4333 (AD)**. The long name has been changed to **F.V.4333 | Combat Vehicle, Carrier, Full Tracked, Air Defense**.
         - **RCV (P)** renamed to **RCV**. The long name has been changed to **teisatsu sentō gata**.
-        - **F-16C Barak II** Renamed to **F-16C-40-CF**. The long name has been changed to **F-16C-40-CF Barak II**.
+        - **F-16C Barak II** Renamed to **F-16C-40L-CF**. The long name has been changed to **F-16C-40-CF Barak II**.
         - **Tornado IDS** (Italy) renamed to **A-200**.
         - **AV-8B (NA)** renamed to **AV-8B NA**. The long name has been changed to **AV-8B Harrier II Night Attack**.
         - **KV-1 m1942** (even by Gaijin standards that name is *bad*) renamed to **44 Psv KW 1 A**. The long name has been changed to **44-tonnin panssarivaunu KW 1 A | Ps. 271 "Klimi"**.
@@ -98,10 +98,10 @@ All dates are listed in DD-MM-YYYY format.
         - **Mogador** renamed to **Mogador (X 61)**.
         - **La Combattante** (the motor gun boat, not the destroyer) renamed to **La Combattante (P 730)**.
         - **Antelope** renamed to **Jiélíng FFX**. The long name has been changed to **Jiélíng fángkōng fēidàn xìtǒng**. There is one thing to note: "xìtong" should actually be spelled as "xìtǒng", but the "ǒ" character literally is not rendered in the game for some reason, it appears as a space, so I have to spell it as "xìtong".
-        - **A-10C** long name changed to **A-10C Thunderbolt II "Warthog"**.
+        - The **A-10C**'s long has been name changed to **A-10C Thunderbolt II "Warthog"**.
         - **La Surprise** renamed to **La Surprise (F 08)**. Gaijin called it the **La Surprise (F10)**, but everything I can find indicates that F 10 was the **Croix de Lorraine**, while F 08 was the **La Surprise**.
         - **Arras** renamed to **Arras (AS)**.
-        - **Sea Fury FB 51** renamed to **Sea Fury Mk 51**.
+        - **Sea Fury FB 51** renamed to **Sea Fury Mk. 51**.
         - **Sea Hawk Mk.50** renamed to **Sea Hawk Mk. 50**.
         - **HMAS Fremantle** renamed to **HMAS Fremantle (FCPB 203)**.
     - **Su-22M3** (Hungary) renamed to **Szu-22M3**.
@@ -162,6 +162,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **Matilda, Mk. IV (Hedgehog)**'s long name has been changed to **Tank, Infantry, Mk. II, A.12, Matilda, Mk. IV (Projector, Hedgehog, No. 1, Mk. 1)**.
     - The **HMS Marlborough (79)**'s long name has been changed to **Iron Duke-class, HMS Marlborough, 1927 (79)**.
     - **Parižskaâ kommuna** renamed to **Parižskaâ Kommuna**.
+    - The **IT-1**'s long name has been changed to **Ob""yekt 150 | IT-1 "Yaguar"**.
 
 ### Weaponry:
 

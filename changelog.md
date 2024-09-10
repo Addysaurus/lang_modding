@@ -8,6 +8,30 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.09.01 - 10-09-2024
+
+### Weaponry:
+
+    - Fixed the issue with missing quotes making the mod's weapon text weird and broken.
+
+- #### Additions:
+    - Update "Dance of Dragons" additions (forgot to add these in 1.09.00):
+        - **GBU-31**
+
+### Modifications:
+
+- #### Additions:
+
+    - Update "Dance of Dragons" additions (forgot to add these in 1.09.00):
+
+        - **Mk83/GBU-31**
+
+- #### Changes:
+
+    - Update "Dance of Dragons" additions (forgot to change these in 1.09.00):
+
+        - **Mk82/LS-6** renamed to **Mk83/LS-6**.
+
 ## 1.09.00 - 10-09-2024
 
 ### General:

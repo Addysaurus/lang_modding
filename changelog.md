@@ -21,6 +21,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Dance of Dragons" changes (forgot to change these in 1.09.00 and 1.09.01):
         - **IJN Amagi** renamed to **Amagi**.
+    - The **SU-76D**'s long name has been changed to **GAZ-74 | SU-76D**.
 
 ### Weaponry:
 

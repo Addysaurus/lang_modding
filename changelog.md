@@ -281,6 +281,7 @@ All dates are listed in DD-MM-YYYY format.
     - **BMB-GPS** type tag renamed to **BMB-GNSS**.
     - The **76 mm** caliber tag has been changed to **76.2 mm**. Pretty much all of these guns are 76.2 mm in caliber because that is 3 inches converted to metric. If any of them are not 76.2 mm, please inform me.
     - **Hedgehog** renamed to **Projector, Hedgehog, No. 1, Mk. 1**.
+    - **DKY-1** renamed to **DKY1**. This is not a full rename, just a consistency change.
 
 ### Modifications:
 

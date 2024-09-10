@@ -8,6 +8,40 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.09.02 - UNRELEASED
+
+### Vehicles:
+
+- #### Additions:
+
+    - Update "Dance of Dragons" additions (forgot to add these in 1.09.00 and 1.09.01):
+        - **IJN Amagi**
+
+- #### Changes:
+
+    - Update "Dance of Dragons" changes (forgot to change these in 1.09.00 and 1.09.01):
+        - **IJN Amagi** renamed to **Amagi**.
+
+### Weaponry:
+
+- #### Additions:
+
+    - The following bombs have recieved their mass and type tags:
+        - **GBU-31(V)1/B**
+
+- #### Changes:
+
+    - **GBU-31 JDAM** (USAF variant) renamed to **GBU-31(V)1/B**. The long name has been changed to **Bomb, Guided, GBU-31(V)1/B JDAM**.
+    - **GBU-31 JDAM** (USN variant) renamed to **GBU-31(V)2/B**. The long name has been changed to **Bomb, Guided, GBU-31(V)2/B JDAM**.
+
+### Modifications:
+
+- #### Changes:
+
+    - **Mk83/GBU-31** modification renamed to **Mk 83 Mod 0 / GBU-31(V)1/B**.
+    - **Mk84/GBU-31** modification renamed to **Mk 84 Mod 0 / GBU-31(V)1/B**.
+    - **Mk82/GBU-38** modification renamed to **Mk 82 Mod 0 / GBU-38**.
+
 ## 1.09.01 - 10-09-2024
 
 ### Weaponry:
@@ -15,6 +49,7 @@ All dates are listed in DD-MM-YYYY format.
 - Fixed the issue with missing quotes making the mod's weapon text weird and broken.
 
 - #### Additions:
+
     - Update "Dance of Dragons" additions (forgot to add these in 1.09.00):
         - **GBU-31**
 
@@ -23,13 +58,11 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - Update "Dance of Dragons" additions (forgot to add these in 1.09.00):
-
         - **Mk83/GBU-31**
 
 - #### Changes:
 
-    - Update "Dance of Dragons" additions (forgot to change these in 1.09.00):
-
+    - Update "Dance of Dragons" changes (forgot to change these in 1.09.00):
         - **Mk82/LS-6** renamed to **Mk83/LS-6**.
 
 ## 1.09.00 - 10-09-2024

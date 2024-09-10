@@ -165,6 +165,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Parižskaâ kommuna** renamed to **Parižskaâ Kommuna**.
     - The **IT-1**'s long name has been changed to **Ob""yekt 150 | IT-1 "Yaguar"**.
     - **F-4S-MC** renamed to **F-4S-33-MC** to fit with US conversion naming schemes for new letter variants where the block number is retained from the variant it was converted from.
+    - **Lancaster Mk. VII** renamed to **Lancaster Mk. VII WU**. The long name has been changed to **Lancaster Mk. VII Western Union**.
 
 ### Weaponry:
 

@@ -16,11 +16,13 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Dance of Dragons" additions (forgot to add these in 1.09.00 and 1.09.01):
         - **IJN Amagi**
+        - **Puma/Puma VJTF** folder
 
 - #### Changes:
 
     - Update "Dance of Dragons" changes (forgot to change these in 1.09.00 and 1.09.01):
         - **IJN Amagi** renamed to **Amagi**.
+        - **Puma/Puma VJTF** folder renamed to **SPz Puma S0 / 1**.
     - The **SU-76D**'s long name has been changed to **GAZ-74 | SU-76D**.
 
 ### Weaponry:
@@ -42,6 +44,21 @@ All dates are listed in DD-MM-YYYY format.
     - **Mk83/GBU-31** modification renamed to **Mk 83 Mod 0 / GBU-31(V)1/B**.
     - **Mk84/GBU-31** modification renamed to **Mk 84 Mod 0 / GBU-31(V)1/B**.
     - **Mk82/GBU-38** modification renamed to **Mk 82 Mod 0 / GBU-38**.
+
+### Loading screens:
+
+- #### Additions:
+
+    - Update "Dance of Dragons" additions (forgot to add these in 1.09.00 and 1.09.01):
+        - **Izmail**
+        - **CTWV RCV**
+        - **Dance of dragons** (this one doesn't actually seem to be ingame for some reason, it's the **J10A** loading screen)
+        
+- #### Changes:
+
+    - Update "Dance of Dragons" changes (forgot to change these in 1.09.00 and 1.09.01):
+        - **CTWV RCV** renamed to **RCV and SPz Puma S1**
+        - **Dance of dragons** renamed to **Dance of Dragons**.
 
 ## 1.09.01 - 10-09-2024
 

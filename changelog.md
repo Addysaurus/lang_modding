@@ -80,7 +80,7 @@ All dates are listed in DD-MM-YYYY format.
         - **FFA P-16** renamed to **P-16 Mk III**. The long name has been changed to **Flug- und Fahrzeugwerke Altenrhein | P-16 Mk III**.
         - **Stormer AD** renamed to **F.V.4333 (AD)**. The long name has been changed to **F.V.4333 | Combat Vehicle, Carrier, Full Tracked, Air Defense**.
         - **RCV (P)** renamed to **RCV**. The long name has been changed to **teisatsu sentō gata**.
-        - **F-16C Barak II** Renamed to **F-16C-40L-CF**. The long name has been changed to **F-16C-40-CF Barak II**.
+        - **F-16C Barak II** Renamed to **F-16C-40L-CF**. The long name has been changed to **F-16C-40L-CF Barak II**.
         - **Tornado IDS** (Italy) renamed to **A-200**.
         - **AV-8B (NA)** renamed to **AV-8B NA**. The long name has been changed to **AV-8B Harrier II Night Attack**.
         - **KV-1 m1942** (even by Gaijin standards that name is *bad*) renamed to **44 Psv KW 1 A**. The long name has been changed to **44-tonnin panssarivaunu KW 1 A | Ps. 271 "Klimi"**.

@@ -12,7 +12,7 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
-    - Fixed the issue with missing quotes making the mod's weapon text weird and broken.
+- Fixed the issue with missing quotes making the mod's weapon text weird and broken.
 
 - #### Additions:
     - Update "Dance of Dragons" additions (forgot to add these in 1.09.00):

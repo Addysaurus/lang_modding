@@ -1,83 +1,83 @@
-"<ID|readonly|noverify>";"<English>";"<French>";"<Italian>";"<German>";"<Spanish>";"<Russian>";"<Polish>";"<Czech>";"<Turkish>";"<Chinese>";"<Japanese>";"<Portuguese>";"<Ukrainian>";"<Serbian>";"<Hungarian>";"<Korean>";"<Belarusian>";"<Romanian>";"<TChinese>";"<HChinese>";"<Comments>";"<max_chars>"
-"country_britain";"United Kingdom of Great Britain and Northern Ireland";"Grande-Bretagne";"Gran Bretagna";"Großbritannien";"Gran Bretaña";"Британия";"Wielka Brytania";"Velká Británie";"Britanya";"英\t国";"イギリス";"Grã-Bretanha";"Британія";"Velika Britanija";"Nagy-Britannia";"영국";"В. Брытанія";"Marea Britanie";"英\t國";"E\t系";"Anh Quốc";;
-"country_britain/short";"UK";"GB";"GB";"GB";"GB";"GB";"GB";"GB";"GB";"英";"イギリス";"GB";"GB";"GB";"GB";"영";"GB";"MB";"英";"E\t系";"GB";;
-"country_china";"People's Republic of China / Zhōnghuá Rénmín Gònghéguó";"Chine";"Cina";"China";"China";"Китай";"Chiny";"Čína";"Çin";"中\t国";"中国";"China";"Китай";"Kina";"Kína";"중국";"Кітай";"China";"中\t國";"C\t系";"Trung Quốc";;
-"country_china/short";"China";"CN";"CN";"CN";"CN";"CN";"CN";"CN";"CN";"中";"中国";"CN";"CN";"CN";"CN";"중";"CN";"CN";"中";"C\t系";"CN";;
-"country_germany_weimar_republic";"German Reich / Deutsches Reich";"République de Weimar";"Repubblica di Weimar";"Weimarer Republik";"República de Weimar";"Веймарская республика";"Republika Weimarska";"Výmarská republika";"Weimar Cumhuriyeti";"魏\t玛\t共\t和\t国";"ヴァイマル\t共和政";"República de Weimar";"Веймарська республіка";"Weimar Republic";"Weimar Republic";"이마르 공화국";"Веймарская Рэспубліка";"Weimar Republic";"威\t瑪\t共\t和\t國";"Weimar Republic";"Cộng hòa Weimar";;
-"country_germany";"Greater German Reich / Großdeutsches Reich";"Allemagne";"Germania";"Deutschland";"Alemania";"Германия";"Niemcy";"Německo";"Almanya";"德\t国";"ドイツ";"Alemanha";"Німеччина";"Nemačka";"Németország";"독일";"Нямеччына";"Germania";"德\t國";"D\t系";"Đức";;
-"country_germany_empire_navy";"German Empire / Deutsches Reich";"Empire allemand";"Impero Tedesco";"Deutsches Kaiserreich";"Imperio Alemán";"Германская империя";"Cesarstwo Niemieckie";"Německé impérium";"Alman İmparatorluğu";"德\t意\t志\t帝\t国";"ドイツ\t帝国";"Império Alemão";"Німецька імперія";"German Empire";"Német Birodalom";"독일 제국";"Нямецкая імперыя ";"German Empire";"德\t意\t志\t帝\t國";"German Empire";"Đế chế Đức";;
-"country_germany_modern";"Federal Republic of Germany / Bundesrepublik Deutschland";"Allemagne";"Germania";"Deutschland";"Alemania";"Германия";"Niemcy";"Německo";"Almanya";"德\t国";"ドイツ";"Alemanha";"Німеччина";"Germany";"Németország";"독일";"Нямеччына";"Germany";"德\t國";"D 系";"Đức";;
-"country_germany/short";"Germany";"DE";"GER";"DE";"DE";"DE";"DE";"DE";"DE";"德";"ドイツ";"AL";"DE";"DE";"DE";"독";"DE";"GE";"德";"D\t系";"DE";;
-"country_japan";"Empire of Japan / Dai Nihon Teikoku";"Japon";"Giappone";"Japan";"Japón";"Япония";"Japonia";"Japonsko";"Japonya";"日\t本";"日本";"Japão";"Японія";"Japan";"Japán";"일본";"Японія";"Japonia";"日\t本";"R\t系";"Nhật Bản";;
-"country_japan/short";"Japan";"JP";"JP";"JP";"JP";"JP";"JP";"JP";"JP";"日";"日本";"JP";"JP";"JP";"JP";"일";"JP";"JP";"日";"R\t系";"JP";;
-"country_usa";"United States of America";"USA";"USA";"USA";"EE.UU";"США";"USA";"USA";"ABD";"美\t国";"アメリカ";"EUA";"США";"SAD";"USA";"미국";"ЗША";"SUA";"美\t國";"A\t系";"Hoa Kỳ";;
-"country_usa_modern";"United States of America";"USA";"USA";"USA";"EE.UU";"США";"Stany Zjednoczone";"USA";"ABD";"美\t国";"アメリカ";"EUA";"США";"USA";"USA";"미국";"ЗША";"USA";"美\t國";"A\t系";"Hoa Kỳ";;
-"country_usa/short";"USA";"US";"US";"US";"US";"US";"US";"US";"US";"美";"アメリカ";"EUA";"US";"US";"US";"미";"US";"SU";"美";"A\t系";"US";;
-"country_ussr";"United Soviet Socialist Republics / Soûz Sovyetskikh Soczialističyeskikh Ryespublik";"URSS";"URSS";"Sowjetunion";"URSS";"СССР";"ZSRR";"SSSR";"SSCB";"苏\t联";"ソビエト\t連邦";"URSS";"СРСР";"SSSR";"Szovjetunió";"소련";"СССР";"URSS";"蘇\t聯";"S\t系";"Liên Xô";;
-"country_russia";"Russian Federation / Rossiyskaya Federatsiya";"Russie";"Russia";"Russland";"Rusia";"Россия";"Rosja";"Rusko";"Rusya";"俄\t罗\t斯";"ロシア";"Rússia";"РФ";"Russia";"Oroszország";"러시아";"Расея";"Russia";"俄\t羅\t斯";"S 系";"Nga";;
-"country_russia_empire_navy";"Russian Empire / Rossiyskaya Imperiya";"Empire russe";"Impero Russo";"Russisches Kaiserreich";"Imperio Ruso";"Российская империя";"Imperium Rosyjskie";"Ruské impérium";"Rus İmparatorluğu";"俄\t罗\t斯\t帝\t国";"ロシア\t帝国";"Império Russo";"Російська імперія";"Russian Empire";"Orosz Birodalom";"러시아 제국";"Расійская імперыя";"Russian Empire";"俄\t羅\t斯\t帝\t國";"Russian Empire";"Đế chế Nga";;
-"country_ussr/short";"USSR";"SU";"URSS";"SU";"SU";"SU";"SU";"SU";"SU";"苏";"ソ\t連";"RU";"SU";"SU";"SU";"소";"SU";"US";"蘇";"S\t系";"SU";;
-"country_sweden";"Kingdom of Sweden / Konungariket Sverige";"Suède";"Svezia";"Schweden";"Suecia";"Швеция";"Szwecja";"Švédsko";"İsveç";"瑞\t典";"スウェーデン";"Suécia";"Швеція";"Švedska";"Svédország";"스웨덴";"Швецыя";"Sweden";"瑞\t典";"SW\t系";"Thụy Điển";;
-"country_sweden/short";"Sweden";"SE";"SE";"SE";"SE";"SE";"SE";"SE";"SE";"瑞";"スウェーデン";"SE";"SE";"SE";"SE";"스";"SE";"SE";"瑞";"T\t系";"SE";;
-"shop/unitCountry/operator";"Operator country<color=#ffffff>";"Pays opérateur";"Nazione dell'operatore";"Einsatzland";"País operador";"Страна оператор";"Użytkownik";"Země provozovatele";"Kullanan ülke";"服\t役\t国";"運用国家";"País de operação";"Країна оператор";"Operator country";"Üzemeltető ország";"운용국";"Краіна аператар";"Operator country";"服\t役\t國";"载\t具\t所\t属\t阵\t营";"Quốc gia sử dụng";;
-"shop/unitCountry/research";"</color>Research country<color=#ffffff>";"Pays de recherche";"Nazione in ricerca";"Herkunftsland";"País de investigación";"Страна исследования";"Drzewko technologiczne";"Výzkum země";"Araştırma ülkesi";"研\t发\t科\t技\t树";"研究国家";"País de pesquisa";"Країна дослідження";"Research country";"Fejlesztés szerinti ország";"연구 국가";"Краіна даследавання";"Research country";"研\t發\t國";"研\t究";"Quốc gia nghiên cứu";;
-"country_australia";"Commonwealth of Australia";"Australie";"Australia";"Australien";"Australia";"Австралия";"Australia";"Austrálie";"Avustralya";"澳\t大\t利\t亚";"オーストラリア";"Austrália";"Австралія";"Australija";"Ausztrália";"호주";"Аўстралія";"Australia";"澳\t大\t利\t亞";"澳";"Úc";;
-"country_austria";"Republic of Austria / Republik Österreich";"Autriche";"Austria";"Österreich";"Austria";"Австрия";"Austria";"Rakousko";"Avusturya";"奥\t地\t利";"オーストリア";"Áustria";"Австрія";"Austria";"Ausztria";"오스트리아";"Аўстрыя";"Austria";"奧\t地\t利";"Austria";"Áo";;
-"country_italy_kingdom";"Kingdom of Italy / Regno d'Italia";"Royaume d'Italie";"Regno d'Italia";"Königreich Italien";"Reino de Italia";"Королевство Италия";"Królestwo Włoch";"Království Itálie";"İtalya Kralllığı";"意\t大\t利\t王\t国";"イタリア\t王国";"Reino da Itália";"Королівство Італія";"Kingdom of Italy";"Olasz Királyság";"이탈리아 왕국";"Каралеўства Італія";"Kingdom of Italy";"義\t大\t利\t王\t國";"Kingdom of Italy";"Vương quốc Ý";;
-"country_italy";"Italian Republic / Repubblica Italiana";"Italie";"Italia";"Italien";"Italia";"Италия";"Włochy";"Itálie";"İtalya";"意\t大\t利";"イタリア";"Itália";"Італія";"Italija";"Olaszország";"이탈리아";"Італія";"Italia";"義\t大\t利";"I\t系";"Ý";;
-"country_italy/short";"Italy";"IT";"IT";"IT";"IT";"IT";"IT";"IT";"IT";"意";"イタリア";"IT";"IT";"IT";"IT";"이태리";"IT";"IT";"義";"I\t系";"IT";;
-"country_belgium";"Kingdom of Belgium / Koninkrijk België";"Belgique";"Belgio";"Belgien";"Bélgica";"Бельгия";"Belgia";"Belgie";"Belçika";"比\t利\t时";"ベルギー";"Bélgica";"Бельгія";"Belgija";"Belgium";"벨기에";"Бельгія";"Belgia";"比\t利\t時";"比\t利\t时";"Bỉ";;
-"country_bulgaria";"Republic of Bulgaria / Republika Bŭlgariya";"Bulgarie";"Bulgaria";"Bulgarien";"Bulgaria";"Болгария";"Bułgaria";"Bulharsko";"Bulgaristan";"保\t加\t利\t亚";"ブルガリア";"Bulgária";"Болгарія";"Bugarska";"Bulgária";"불가리아";"Балгарыя";"Bulgaria";"保\t加\t利\t亞";"保";"Bulgaria";;
-"country_brazil";"Federative Republic of Brazil / República Federativa do Brasil";"Brésil";"Brasile";"Brasilien";"Brasil";"Бразилия";"Brazylia";"Brazílie";"Brezilya";"巴\t西";"ブラジル";"Brasil";"Бразилія";"Brazil";"Brazil";"브라질";"Бразилия";"Brazil";"巴\t西";"Brazil";"Brazil";;
-"country_canada";"Canada";"Canada";"Canada";"Kanada";"Canadá";"Канада";"Kanada";"Kanada";"Kanada";"加\t拿\t大";"カナダ";"Canadá";"Канада";"Kanada";"Kanada";"캐나다";"Канада";"Canada";"加\t拿\t大";"加\t拿\t大";"Canada";;
-"country_finland";"Republic of Finland / Suomen tasavalta";"Finlande";"Finlandia";"Finnland";"Finlandia";"Финляндия";"Finlandia";"Finsko";"Finlandiya";"芬\t兰";"フィンランド";"Finlândia";"Фінляндія";"Finska";"Finnország";"핀란드";"Фінляндыя";"Finlanda";"芬\t蘭";"芬\t兰";"Phần Lan";;
-"country_france";"French Republic / République française";"France";"Francia";"Frankreich";"Francia";"Франция";"Francja";"Francie";"Fransa";"法\t国";"フランス";"França";"Франція";"Francuska";"Franciaország";"프랑스";"Францыя";"Franța";"法\t國";"F\t系";"Pháp";;
-"country_france/short";"France";"FR";"FR";"FR";"FR";"FR";"FR";"FR";"FR";"法";"フランス";"FR";"FR";"FR";"FR";"프";"FR";"FR";"法";"F\t系";"FR";;
-"country_greece";"Hellenic Republic / Ellinikí Dimokratía";"Grèce";"Grecia";"Griechenland";"Grecia";"Греция";"Grecja";"Řecko";"Yunanistan";"希\t腊";"ギリシャ";"Grécia";"Греція";"Grčka";"Görögország";"그리스";"Грэцыя";"Grecia";"希\t臘";"希";"Hy Lạp";;
-"country_greece_modern";"Hellenic Republic / Ellinikí Dimokratía";"Grèce";"Grecia";"Griechenland";"Grecia";"Греция";"Grecja";"Řecko";"Yunanistan";"希\t腊";"ギリシャ";"Grécia";"Греція";"Greece";"Görögország";"그리스";"Грэцыя";"Greece";"希\t臘";"Greece";"Hy Lạp";;
-"country_hungary";"Kingdom of Hungary / Magyar Királyság";"Hongrie";"Ungheria";"Ungarn";"Hungría";"Венгрия";"Węgry";"Maďarsko";"Macaristan";"匈\t牙\t利";"ハンガリー";"Hungria";"Угорщина";"Mađarska";"Magyarország";"헝가리";"Вугоршчына";"Ungaria";"匈\t牙\t利";"匈\t牙\t利";"Hungary";;
-"country_hungary_modern";"Hungary / Magyarország";"Hongrie";"Ungheria";"Ungarn";"Hungría";"Венгрия";"Węgry";"Maďarsko";"Macaristan";"匈\t牙\t利";"ハンガリー";"Hungria";"Угорщина";"Hungary";"Magyarország";"헝가리";"Вугоршчына";"Hungary";"匈\t牙\t利";"Hungary";"Hungary";;
-"country_iraq";"Republic of Iraq / Jumhūriyyat al-ʿIrāq";"Irak";"Iraq";"Irak";"Irak";"Ирак";"Irak";"Irák";"Irak";"伊\t拉\t克";"イラク";"Iraque";"Ірак";"Irak";"Irak";"이라크";"Ірак";"Irak";"伊\t拉\t克";"伊\t拉\t克";"Iraq";;
-"country_netherlands";"Netherlands / Nederland";"Pays-Bas";"Paesi Bassi";"Niederlande";"Países Bajos";"Нидерланды";"Holandia";"Nizozemsko";"Hollanda";"荷\t兰";"オランダ";"Holanda";"Нідерланди";"Holandija";"Hollandia";"네덜란드";"Нідэрланды";"Olanda";"荷\t蘭";"荷\t兰";"Hà Lan";;
-"country_new_zealand";"New Zealand / Aotearoa";"Nouvelle Zélande";"Nuova Zelanda";"Neuseeland";"Nueva Zelanda";"Новая Зеландия";"Nowa Zelandia";"Nový Zéland";"Yeni Zelanda";"新\t西\t兰";"ニュージーランド";"Nova Zelândia";"Нова Зеландія";"Novi Zeland";"Új-Zéland";"뉴질랜드";"Новая Зеландыя";"Noua Zeelandă";"紐\t西\t蘭";"新\t西\t兰";"New Zealand";;
-"country_norway";"Norway / Kongeriket Norge";"Norvège";"Norvegia";"Norwegen";"Noruega";"Норвегия";"Norwegia";"Norsko";"Norveç";"挪\t威";"ノルウェー";"Noruega";"Норвегія";"Norveška";"Norvégia";"노르웨이";"Нарвегія";"Norvegia";"挪\t威";"挪\t威";"Na Uy";;
-"country_poland";"Poland / Rzeczpospolita Polska";"Pologne";"Polonia";"Polen";"Polonia";"Польша";"Polska";"Polsko";"Polonya";"波\t兰";"ポーランド";"Polónia";"Польща";"Poljska";"Lengyelország";"폴란드";"Польшча";"Polonia";"波\t蘭";"波";"Ba Lan";;
-"country_romania";"Romania / România";"Roumanie";"Romania";"Rumänien";"Rumania";"Румыния";"Rumunia";"Rumunsko";"Romanya";"罗\t马\t尼\t亚";"ルーマニア";"Roménia";"Румунія";"Rumunija";"Románia";"루마니아";"Румынія";"România";"羅\t馬\t尼\t亞";"罗\t马\t尼\t亚";"Romania";;
-"country_south_africa";"Republic of South Africa / iRiphabhuliki yaseNingizimu Afrika";"Afrique du Sud";"Sud Africa";"Südafrika";"Sudáfrica";"Южная Африка";"Południowa Afryka";"Jižní Afrika";"Güney Afrika";"南\t非";"南\tアフリカ";"África do Sul";"ПАР";"Južna Afrika";"Dél-Afrika";"남아프리카 공화국";"Паўднёвая Афрыка";"Africa de Sud";"南\t非";"南\t非";"Nam Phi";;
-"country_thailand";"Kingdom of Thailand / Ratcha-anachak Thai";"Thaïlande";"Tailandia";"Thailand";"Tailandia";"Тайланд";"Tajlandia";"Thajsko";"Tayland";"泰\t国";"タイ";"Tailândia";"Таїланд";"Tajland";"Thaiföld";"태국";"Тайланд";"Tailanda";"泰\t國";"泰\t国";"Thái Lan";;
-"country_yugoslavia";"Yugoslavia / Jugoslavija";"Yougoslavie";"Jugoslavia";"Jugoslawien";"Yugoslavia";"Югославия";"Jugosławia";"Jugoslávie";"Yugoslavya";"南\t斯\t拉\t夫";"ユーゴスラビア";"Jugoslávia";"Югославія";"Jugoslavija";"Jugoszlávia";"유고슬라비아";"Югаславія";"Iugoslavia";"南\t斯\t拉\t夫";"南\t斯\t拉\t夫";"Nam Tư";;
-"country_korea";"Democratic People's Republic of Korea / Chosŏn Minjujuŭi Inmin Konghwaguk";"Corée du nord";"Corea del Nord";"Nordkorea";"Norte de Corea";"КНДР";"Korea Północna";"Severní Korea";"Kuzey Kore";"朝\t鲜";"北朝鮮";"Coreia do Norte";"КНДР";"Severna Koreja";"Észak-Korea";"북한";"КНДР";"Coreea de Nord";"北\t韓";"北\tCX";"Triều Tiên";;
-"country_japan_modern";"Japan / Nihon-koku";"Japon";"Giappone";"Japan";"Japón";"Япония";"Japonia";"Japonsko";"Japonya";"日\t本";"日本";"Japão";"Японія";"Japan";"Japán";"일본";"Японія";"Japan";"日\t本";"R 系";"Nhật Bản";;
-"country_portugal";"Portuguese Republic / República Portuguesa";"Portugal";"Portogallo";"Portugal";"Portugal";"Португалия";"Portugalia";"Portugalsko";"Portekiz";"葡\t萄\t牙";"ポルトガル";"Portugal";"Португалія";"Portugal";"Portugália";"포르투갈";"Партугалія";"Portugal";"葡\t萄\t牙";"Portugal";"Bồ Đào Nha";;
-"country_syria";"Syrian Arab Republic / al-Jumhūriyya al-'Arabiyya al-Sūriya";"Syrie";"Siria";"Syrien";"Siria";"Сирия";"Syria";"Sýrie";"Suriye";"叙\t利\t亚";"シリア";"Síria";"Сирія";"Syria";"Szíria";"시리아";"Сірыя";"Syria";"敘\t利\t亞";"Syria";"Syria";;
-"country_canada_modern";"Canada";"Canada";"Canada";"Kanada";"Canadá";"Канада";"Kanada";"Kanada";"Kanada";"加\t拿\t大";"カナダ";"Canadá";"Канада";"Canada";"Kanada";"캐나다";"Канада";"Canada";"加\t拿\t大";"Canada";"Canada";;
-"country_argentina";"Argentine Republic / República Argentina";"Argentine";"Argentina";"Argentinien";"Argentina";"Аргентина";"Argentyna";"Argentina";"Arjantin";"阿\t根\t廷";"アルゼンチン";"Argentina";"Аргентина";"Argentina";"Argentína";"아르헨티나";"Аргентына";"Argentina";"阿\t根\t廷";"Argentina";"Argentina";;
-"country_south_africa_modern";"Republic of South Africa / iRiphabhuliki yaseNingizimu Afrika";"Afrique du Sud";"Sud Africa";"Südafrika";"Sudáfrica";"ЮАР";"Republika Południowej Afryki";"Jižní Afrika";"Güney Afrika";"南\t非";"南\tアフリカ";"África do Sul";"Південна Африка";"South Africa";"Dél-Afrika";"남아프리카 공화국";"Паўднёвая Афрыка";"South Africa";"南\t非";"South Africa";"Nam Phi";;
-"country_vietnam";"Socialist Republic of Vietnam / Cộng hòa Xã hội chủ nghĩa Việt Nam";"Viêtnam";"Vietnam";"Vietnam";"Vietnam";"Вьетнам";"Wietnam";"Vietnam";"Vietnam";"越\t南";"ベトナム";"Vietname";"В'єтнам";"Vietnam";"Vietnám";"베트남";"В'етнам";"Vietnam";"越\t南";"Vietnam";"Việt Nam";;
-"country_turkey";"Republic of Türkiye / Türkiye Cumhuriyeti";"Turquie";"Turchia";"Türkei";"Turquía";"Турция";"Turcja";"Turecko";"Türkiye";"土\t耳\t其";"トルコ";"Turquia";"Туреччина";"Turkey";"Törökország";"튀르키예";"Турэччына";"Turkey";"土\t耳\t其";"Turkey";"Thổ Nhĩ Kỳ";;
-"country_cuba";"Republic of Cuba / República de Cuba";"Cuba";"Cuba";"Kuba";"Cuba";"Куба";"Kuba";"Kuba";"Küba";"古\t巴";"キューバ";"Cuba";"Куба";"Cuba";"Kuba";"쿠바";"Куба";"Cuba";"古\t巴";"Cuba";"Cuba";;
-"country_philippines";"Republic of the Philippines / Republika ng Pilipinas";"Philippines";"Filippine";"Philippinen";"Filipinas";"Филиппины";"Filipiny";"Filipíny";"Filipinler";"菲\t律\t宾";"フィリピン";"Filipinas";"Філіппіни";"Philippines";"Fülöp-szigetek";"필리핀";"Філіпіны";"Philippines";"菲\t律\t賓";"Philippines";"Philippines";;
-"country_czech";"Czech Republic / Česká republika";"République tchèque";"Repubblica Ceca";"Tschechische Republik";"República Checa";"Чехия";"Republika Czeska";"Česko";"Çek Cumhuriyeti";"捷\t克\t共\t和\t国";"チェコ\t共和国";"República Checa";"Чехія";"Czech";"Cseh Köztársaság";"체코";"Чэхія";"Czech";"捷\t克\t共\t和\t國";"Czech";"Cộng hoà Séc";;
-"country_gdr";"German Democratic Republic / Deutsche Demokratische Republik";"RDA";"GDR";"DDR";"RDA";"ГДР";"NRD";"DDR";"Doğu Almanya";"德\t意\t志\t民\t主\t共\t和\t国";"ドイツ\t民主共和国";"República Democrática Alemã";"НДР";"GDR";"Kelet-Németország";"동독";"НДР";"GDR";"東\t德";"GDR";"GDR";;
-"country_north_korea";"Democratic People's Republic of Korea / Chosŏn Minjujuŭi Inmin Konghwaguk";"Corée du nord";"Corea del Nord";"Nordkorea";"Corea del Norte";"КНДР";"Korea Północna";"Severní Korea";"Kuzey Kore";"朝\t鲜";"朝鮮民主主義人民共和国";"Coreia do Norte";"Північна Корея";"North Korea";"Észak-Korea";"북한";"Паўночная Карэя";"North Korea";"北\t韓";"North Korea";"Bắc Triều tiên";;
-"country_bangladesh";"People's Republic of Bangladesh / Gôṇoprojātôntrī Bāṅglādesh";"Bangladesh";"Bangladesh";"Bangladesch";"Bangladés";"Бангладеш";"Bangladesz";"Bangladéš";"Bangladeş";"孟\t加\t拉\t国";"バングラデシュ";"Bangladesh";"Бангладеш";"Bangladesh";"Banglades";"방글라데시";"Бангладэш";"Bangladesh";"孟\t加\t拉";"Bangladesh";"Bangladesh";;
-"country_republic_china";"Republic of China / Zhōnghuá Mínguó";"République de Chine";"Repubblica Cinese";"Republik China";"República de China";"Китайская Республика";"Republika Chińska";"Republika Čína";"Çin Cumhuriyeti";"中\t国";"中華民国";"República da China";"Китайська Республіка";"Republic China";"Kínai Köztársaság";"중화민국";"Кітайская Рэспубліка";"Republic China";"中\t華\t民\t國";"Republic China";"Trung Hoa Dân Quốc";;
-"country_pakistan";"Islamic Republic of Pakistan / Islāmī Jumhūriyah Pākistān";"Pakistan";"Pakistan";"Pakistan";"Pakistán";"Пакистан";"Pakistan";"Pákistán";"Pakistan";"巴\t基\t斯\t坦";"パキスタン";"Paquistão";"Пакистан";"Pakistan";"Pakisztán";"파키스탄";"Пакістан";"Pakistan";"巴\t基\t斯\t坦";"Pakistan";"Pakistan";;
-"country_ireland";"Ireland / Éire";"Irlande";"Irlanda";"Irland";"Irlanda";"Ирландия";"Irlandia";"Irsko";"İrlanda";"爱\t尔\t兰";"アイルランド";"Irlanda";"Ірландія";"Ireland";"Írország";"아일랜드";"Ірландыя";"Ireland";"愛\t爾\t蘭";"Ireland";"Ireland";;
-"country_slovakia";"Slovak Republic / Slovenská republika";"Slovaquie";"Slovacchia";"Slowakei";"Eslovaquia";"Словакия";"Słowacja";"Slovensko";"Slovakya";"斯\t洛\t伐\t克";"スロバキア";"Eslováquia";"Словаччина";"Slovakia";"Szlovákia";"슬로바키아";"Славакія";"Slovakia";"斯\t洛\t伐\t克";"Slovakia";"Slovakia";;
-"country_saudi_arabia";"Kingdom of Saudi Arabia / al-Mamlaka al-'Arabiyya as-Su'ūdiyya";"Arabie saoudite";"Arabia Saudita";"Saudi-Arabien";"Arabia Saudí";"Саудовская Аравия";"Arabia Saudyjska";"Saúdská Arábie";"Suudi Arabistan";"沙\t特\t阿\t拉\t伯";"サウジアラビア";"Arábia Saudita";"Саудівська Аравія";"Saudi Arabia";"Szaúd-Arábia";"사우디아라비아";"Саудаўская Аравія";"Saudi Arabia";"沙\t烏\t地\t阿\t拉\t伯";"Saudi Arabia";"Ả Rập Saudi";;
-"country_spain";"Kingdom of Spain / Reino de España";"Espagne";"Spagna";"Spanien";"España";"Испания";"Hiszpania";"Španělsko";"İspanya";"西\t班\t牙";"スペイン";"Espanha";"Іспанія";"Spain";"Spanyolország";"스페인";"Іспанія";"Spain";"西\t班\t牙";"Spain";"Tây Ban Nha";;
-"country_jordan";"Hashmentie Kingdom of Jordan / Al-Mamlaka al-Urduniyya al-Hāshimiyya";"Jordanie";"Giordania";"Jordanien";"Jordania";"Иордания";"Jordania";"Jordán";"Ürdün";"约\t旦";"ヨルダン";"Jordânia";"Йорданія";"Jordan";"Jordánia";"요르단";"Іарданія";"Jordan";"約\t旦";"Jordan";"Jordan";;
-"country_britain_empire_navy";"United Kingdom of Great Britain and Northern Ireland";"Empire britannique";"Impero Britannico";"British Empire";"Imperio Británico";"Британская империя";"Imperium Brytyjskie";"Britské impérium";"Britanya İmparatorluğu";"大\t不\t列\t颠\t帝\t国";"大英帝国";"Império Britânico";"Британська імперія";"British Empire";"Brit Birodalom";"대영제국";"Брытанская імперыя";"British Empire";"大\t英\t帝\t國";"British Empire";"Đế chế Anh Quốc";;
-"country_pkg6";"Ponyland";"Ponyland";"Ponilandia";"Ponyland";"Ponilandia";"Пониланд";"Kucykolandia";"Říše poníků";"Ponyland";"小\t马\t国";"ポニーランド";"Ponyland";"Поніленд";"Zemlja Ponija";"Póniország";"포니랜드";"Поніландыя";"Țara poneilor";"小\t馬\t國";"小\t马\t国";"Ponyland";;
-"country_switzerland";"Swiss Confederation / Schweizerische Eidgenossenschaft";"Suisse";"Svizzera";"Schweiz";"Suiza";"Швейцария";"Szwajcaria";"Švýcarsko";"İsviçre";"瑞\t士";"スイス";"Suíça";"Швейцарія";"Switzerland";"Svájc";"스위스";"Швейцарыя";"Switzerland";"瑞\t士";"Switzerland";"Thuỵ Sỹ";;
-"country_india";"Republic of India / Bhārat Gaṇarājya";"Inde";"India";"Indien";"India";"Индия";"Indie";"Indie";"Hindistan";"印\t度";"インド";"Índia";"Індія";"India";"India";"인도";"Індыя";"India";"印\t度";"India";"Ấn Độ";;
-"country_kazakhstan";"Republic of Kazakhstan / Qazaqstan Respublikasy";"Kazakhstan";"Kazakhstan";"Kasachstan";"Kazajistán";"Казахстан";"Kazachstan";"Kazachstán";"Kazakistan";"哈\t萨\t克\t斯\t坦";"カザフスタン";"Cazaquistão";"Казахстан";"Kazakhstan";"Kazahsztán";"카자흐스탄";"Казахстан";"Kazakhstan";"哈\t薩\t克\t斯\t坦";"Kazakhstan";"Kazakhstan";;
-"country_lithuania";"Republic of Lithuania / Lietuvos Respublika";"Lituanie";"Lituania";"Litauen";"Lituania";"Литва";"Litwa";"Litva";"Litvanya";"立\t陶\t宛";"リトアニア";"Lituânia";"Литва";"Lithuania";"Lithuania";"리투아니아";"Літва";"Lithuania";"立\t陶\t宛";"Lithuania";"Lithuania";;
-"country_oman";"Sultanate of Oman";"Oman";"Oman";"Oman";"Omán";"Оман";"Oman";"Omán";"Umman";"阿\t曼";"オマーン";"Omã";"Оман";"Oman";"Oman";"오만";"Оман";"Oman";"阿\t曼";"Oman";"Oman";;
-"country_denmark";"Kingdom of Denmark / Kongeriget Danmark";"Danemark";"Danimarca";"Dänemark";"Dinamarca";"Дания";"Dania";"Dánsko";"Danimarka";"丹\t麦";"デンマーク";"Dinamarca";"Данія";"Denmark";"Denmark";"덴마크";"Дания";"Denmark";"丹\t麥";"Denmark";"Denmark";;
-"country_kuwait";"State of Kuwait / Dawlat al-Kuwayt";"Koweït";"Kuwait";"Kuwait";"Kuwait";"Кувейт";"Kuwejt";"Kuvajt";"Kuveyt";"科\t威\t特";"クウェート";"Kuwait";"Кувейт";"Kuwait";"Kuwait";"쿠웨이트";"Кувейт";"Kuwait";"科\t威\t特";"Kuwait";"Kuwait";;
-"country_egypt";"Arab Republic of Egypt / Jumhūrīyat Miṣr al-'Arabīyah";"Égypte";"Egitto";"Ägypten";"Egipto";"Египет";"Egipt";"Egypt";"Mısır";"埃\t及";"エジプト";"Egipto";"Єгипет";"Egipat";"Egyiptom";"이집트";"Егіпет";"Egypt";"埃\t及";"  ";"Ai Cập";;
-"country_israel";"State of Israel";"Israël";"Israele";"Israel";"Israel";"Израиль";"Izrael";"Izrael";"İsrail";"以\t色\t列";"イスラエル";"Israel";"Ізраїль";"Izrael";"Izrael";"이스라엘";"Ізраіль";"Israel";"以\t色\t列";"  ";"Israel";;
-"country_israel/short";"Israel";"IL";"IL";"IL";"IL";"IL";"ISR";"IL";"IL";"以";"イスラエル";"IS";"IL";"IL";"IL";"이스라엘";"IL";"IL";"以";"Y\t系";"IL";;
-"country_iran";"Islamic Republic of Iran / Jomhuri-ye Eslâmi-ye Irân";"Iran";"Iran";"Iran";"Iran";"Иран";"Iran";"Iran";"Iran";"Iran";"Iran";"Iran";"Иран";"Iran";"Iran";"Iran";"Иран";"Iran";"Iran";"Iran";"Iran";;
+<ID|readonly|noverify>;<English>
+country_britain;United Kingdom of Great Britain and Northern Ireland
+country_britain/short;UK
+country_china;People's Republic of China / Zhōnghuá Rénmín Gònghéguó
+country_china/short;China
+country_germany_weimar_republic;German Reich / Deutsches Reich
+country_germany;Greater German Reich / Großdeutsches Reich
+country_germany_empire_navy;German Empire / Deutsches Reich
+country_germany_modern;Federal Republic of Germany / Bundesrepublik Deutschland
+country_germany/short;Germany
+country_japan;Empire of Japan / Dai Nihon Teikoku
+country_japan/short;Japan
+country_usa;United States of America
+country_usa_modern;United States of America
+country_usa/short;USA
+country_ussr;United Soviet Socialist Republics / Soûz Sovyetskikh Soczialističyeskikh Ryespublik
+country_russia;Russian Federation / Rossiyskaya Federatsiya
+country_russia_empire_navy;Russian Empire / Rossiyskaya Imperiya
+country_ussr/short;USSR
+country_sweden;Kingdom of Sweden / Konungariket Sverige
+country_sweden/short;Sweden
+shop/unitCountry/operator;Operator country<color=#ffffff>
+shop/unitCountry/research;</color>Research country<color=#ffffff>
+country_australia;Commonwealth of Australia
+country_austria;Republic of Austria / Republik Österreich
+country_italy_kingdom;Kingdom of Italy / Regno d'Italia
+country_italy;Italian Republic / Repubblica Italiana
+country_italy/short;Italy
+country_belgium;Kingdom of Belgium / Koninkrijk België
+country_bulgaria;Republic of Bulgaria / Republika Bŭlgariya
+country_brazil;Federative Republic of Brazil / República Federativa do Brasil
+country_canada;Canada
+country_finland;Republic of Finland / Suomen tasavalta
+country_france;French Republic / République française
+country_france/short;France
+country_greece;Hellenic Republic / Ellinikí Dimokratía
+country_greece_modern;Hellenic Republic / Ellinikí Dimokratía
+country_hungary;Kingdom of Hungary / Magyar Királyság
+country_hungary_modern;Hungary / Magyarország
+country_iraq;Republic of Iraq / Jumhūriyyat al-ʿIrāq
+country_netherlands;Netherlands / Nederland
+country_new_zealand;New Zealand / Aotearoa
+country_norway;Norway / Kongeriket Norge
+country_poland;Poland / Rzeczpospolita Polska
+country_romania;Romania / România
+country_south_africa;Republic of South Africa / iRiphabhuliki yaseNingizimu Afrika
+country_thailand;Kingdom of Thailand / Ratcha-anachak Thai
+country_yugoslavia;Yugoslavia / Jugoslavija
+country_korea;Democratic People's Republic of Korea / Chosŏn Minjujuŭi Inmin Konghwaguk
+country_japan_modern;Japan / Nihon-koku
+country_portugal;Portuguese Republic / República Portuguesa
+country_syria;Syrian Arab Republic / al-Jumhūriyya al-'Arabiyya al-Sūriya
+country_canada_modern;Canada
+country_argentina;Argentine Republic / República Argentina
+country_south_africa_modern;Republic of South Africa / iRiphabhuliki yaseNingizimu Afrika
+country_vietnam;Socialist Republic of Vietnam / Cộng hòa Xã hội chủ nghĩa Việt Nam
+country_turkey;Republic of Türkiye / Türkiye Cumhuriyeti
+country_cuba;Republic of Cuba / República de Cuba
+country_philippines;Republic of the Philippines / Republika ng Pilipinas
+country_czech;Czech Republic / Česká republika
+country_gdr;German Democratic Republic / Deutsche Demokratische Republik
+country_north_korea;Democratic People's Republic of Korea / Chosŏn Minjujuŭi Inmin Konghwaguk
+country_bangladesh;People's Republic of Bangladesh / Gôṇoprojātôntrī Bāṅglādesh
+country_republic_china;Republic of China / Zhōnghuá Mínguó
+country_pakistan;Islamic Republic of Pakistan / Islāmī Jumhūriyah Pākistān
+country_ireland;Ireland / Éire
+country_slovakia;Slovak Republic / Slovenská republika
+country_saudi_arabia;Kingdom of Saudi Arabia / al-Mamlaka al-'Arabiyya as-Su'ūdiyya
+country_spain;Kingdom of Spain / Reino de España
+country_jordan;Hashmentie Kingdom of Jordan / Al-Mamlaka al-Urduniyya al-Hāshimiyya
+country_britain_empire_navy;United Kingdom of Great Britain and Northern Ireland
+country_pkg6;Ponyland
+country_switzerland;Swiss Confederation / Schweizerische Eidgenossenschaft
+country_india;Republic of India / Bhārat Gaṇarājya
+country_kazakhstan;Republic of Kazakhstan / Qazaqstan Respublikasy
+country_lithuania;Republic of Lithuania / Lietuvos Respublika
+country_oman;Sultanate of Oman
+country_denmark;Kingdom of Denmark / Kongeriget Danmark
+country_kuwait;State of Kuwait / Dawlat al-Kuwayt
+country_egypt;Arab Republic of Egypt / Jumhūrīyat Miṣr al-'Arabīyah
+country_israel;State of Israel
+country_israel/short;Israel
+country_iran;Islamic Republic of Iran / Jomhuri-ye Eslâmi-ye Irân

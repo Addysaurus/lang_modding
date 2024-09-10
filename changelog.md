@@ -8,12 +8,13 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.09.00 - UNRELEASED
+## 1.09.00 - 10-09-2024
 
 ### General:
 
 - #### Changes:
 
+    - The mod's format has changed. Each file now only has the English entry, making the mod's files much more readable and reducing its file size. This was also done because it is an English mod. The exception to this is `userlang.csv` because that file is meant for all of your custom edits and so all the language headers have been kept in it, as well as the missing Vietnamese header being added to it (this was, in fact, a last minute decision I made the night before this update's release).
     - A full review of the game's texts has been conducted. All game texts have been moved over to use gender-neutral language. This means that, unless a specific historical figure is being referenced, all gendered language will be changed to use the they/them/their/theirs/themself pronoun set. Other pieces of text that do not contain gendered pronouns but could reasonably be interpreted as gendered language will be reworked to be gender-neutral. If you have a problem with gender-neutral/inclusive language, please delete this mod from your computer and kindly piss off because you are not welcome here.
 
 ### Vehicles:
@@ -163,6 +164,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **HMS Marlborough (79)**'s long name has been changed to **Iron Duke-class, HMS Marlborough, 1927 (79)**.
     - **Parižskaâ kommuna** renamed to **Parižskaâ Kommuna**.
     - The **IT-1**'s long name has been changed to **Ob""yekt 150 | IT-1 "Yaguar"**.
+    - **F-4S-MC** renamed to **F-4S-33-MC** to fit with US conversion naming schemes for new letter variants where the block number is retained from the variant it was converted from.
 
 ### Weaponry:
 

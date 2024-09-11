@@ -20,7 +20,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - Cleaned up the quotation marks in `units.csv` following the reformating of the files.
+    - Cleaned up the quotation marks in `WTHLM_units.csv` following the reformating of the files.
     - Update "Dance of Dragons" changes (forgot to change these in 1.09.00 and 1.09.01):
         - **IJN Amagi** renamed to **Amagi**.
         - **Puma/Puma VJTF** folder renamed to **SPz Puma S0 / 1**.
@@ -38,6 +38,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - Cleaned up the quotation marks in `WTHLM_units_weaponry.csv` following the reformating of the files.
     - **GBU-31 JDAM** (USAF variant) renamed to **GBU-31(V)1/B**. The long name has been changed to **Bomb, Guided, GBU-31(V)1/B JDAM**.
     - **GBU-31 JDAM** (USN variant) renamed to **GBU-31(V)2/B**. The long name has been changed to **Bomb, Guided, GBU-31(V)2/B JDAM**.
 
@@ -45,6 +46,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - Cleaned up the quotation marks in `WTHLM_units_modifications.csv` following the reformating of the files.
     - **Mk83/GBU-31** modification renamed to **Mk 83 Mod 0 / GBU-31(V)1/B**.
     - **Mk84/GBU-31** modification renamed to **Mk 84 Mod 0 / GBU-31(V)1/B**.
     - **Mk82/GBU-38** modification renamed to **Mk 82 Mod 0 / GBU-38**.

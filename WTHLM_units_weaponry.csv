@@ -612,9 +612,9 @@ weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p/short;2.75-inch FFAR Mk 4
 weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p_cwp;Rocket Motor, 2.75-inch FFAR Mk 4 <color=#ff6f00>RKT</color>
 weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p_cwp/short;2.75-inch FFAR Mk 4
 weapons/us_2_75_in_ffar_mighty_mouse_m429;Rocket Motor, 2.75-inch FFAR Mk 4, M429 <color=#ff6f00>RKT</color>
-weapons/us_2_75_in_ffar_mighty_mouse_m429/short;2.75-inch FFAR Mk 4, M429"
-weapons/us_2_75_in_ffar_mighty_mouse_m439;Rocket Motor, 2.75-inch FFAR Mk 4, M439"
-weapons/us_2_75_in_ffar_mighty_mouse_m439/short;2.75-inch FFAR Mk 4, M439"
+weapons/us_2_75_in_ffar_mighty_mouse_m429/short;2.75-inch FFAR Mk 4, M429
+weapons/us_2_75_in_ffar_mighty_mouse_m439;Rocket Motor, 2.75-inch FFAR Mk 4, M439
+weapons/us_2_75_in_ffar_mighty_mouse_m439/short;2.75-inch FFAR Mk 4, M439
 weapons/us_2_75_in_ffar_mighty_mouse_default;Rocket Motor, 2.75-inch FFAR Mk 4 <color=#ff6f00>RKT</color>
 weapons/us_2_75_in_ffar_mighty_mouse_default/short;2.75-inch FFAR Mk 4
 weapons/fr_fz49;FZ49 HEAT rocket
@@ -1693,7 +1693,7 @@ he_i_mine/name;High-explosive incendiary shell (minengeschoß)
 he_i_mine/name/short;HEI
 he_i_t_mine/name;High-explosive incendiary tracer shell (minengeschoß)
 he_i_t_mine/name/short;HEI-T
-he_i_t_n_mine/name;High-explosive incendiary tracer shell (minengeschoß, night tracer)"
+he_i_t_n_mine/name;High-explosive incendiary tracer shell (minengeschoß, night tracer)
 he_i_t_n_mine/name/short;HEI-T
 he_frag/name;High-explosive fragmentation shell
 he_frag/name/short;HEF
@@ -4671,7 +4671,7 @@ weapons/152mm_M69_user_cannon;<color=@userlogColoredText>152.4 mm</color> M-69 <
 152mm_m69_he_fs;152 mm HE
 152mm_m69_apds_fs;152 mm APDS-FS
 152mm_m69_heat;152 mm HEAT-FS
-weapons/152mm_LP83_user_cannon;<color=@userlogColoredText>152 mm</color> 2A73 | LP-83 ""Zarajsk"" <color=#ff6f00>CNN</color>
+weapons/152mm_LP83_user_cannon;"<color=@userlogColoredText>152 mm</color> 2A73 | LP-83 ""Zarajsk"" <color=#ff6f00>CNN</color>"
 152mm_lp_83_apfsds;VBM
 152mm_lp_83_he_fs;VOF
 weapons/132mm_M13_rocket_launcher;132 mm M13 rocket

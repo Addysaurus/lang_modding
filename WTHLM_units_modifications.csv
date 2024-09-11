@@ -12,7 +12,7 @@ modification/category/expendables;Supplies
 modification/category/seakeeping;Seakeeping
 modification/category/unsinkability;Unsinkability
 modification/category/bonus;Tier bonus
-modification/category/bonus/tooltip;"When researching all modifications at each tier, you will receive bonus RP for the vehicle being researched in the amount of {bonus}% of the sum of RP earned to research all modifications of this tier."
+modification/category/bonus/tooltip;When researching all modifications at each tier, you will receive bonus RP for the vehicle being researched in the amount of {bonus}% of the sum of RP earned to research all modifications of this tier.
 modification/tierBonus;Bonus:
 modification/bonusReceived;Bonus received
 modification/progressModsText;Research of all modifications: {earnedExp} / {reqExp}
@@ -288,7 +288,7 @@ modification/pe-2_ro-132/desc;Allows installation of 10 unguided RS-132 rockets.
 modification/sb-2_der-19;Der-19
 modification/sb-2_der-19/desc;Allows installation of 250 and 500 kg bombs.
 modification/ar-2_np-1;NP-1
-modification/ar-2_np-1/desc;"Allows installation of 100, 250, and 500 kg bombs."
+modification/ar-2_np-1/desc;Allows installation of 100, 250, and 500 kg bombs.
 modification/yak9p_ns23_mod;NS-23
 modification/yak9p_ns23_mod/desc;Allows installation of 23 mm NS-23 cannon.
 modification/us_m39_cannon;M39
@@ -296,7 +296,7 @@ modification/us_m39_cannon/desc;Allows the installation of 20 mm M39 cannons.
 modification/yak9p_n37_mod;N-37
 modification/yak9p_n37_mod/desc;Allows installation of 37 mm N-37 cannon.
 modification/yak3p_mod;Yak-3P
-modification/yak3p_mod/desc;"Armament by Yak-3P standard, 3x 20 mm cannons."
+modification/yak3p_mod/desc;Armament by Yak-3P standard, 3x 20 mm cannons.
 modification/yak9p_ns45_mod;NS-45
 modification/yak9p_ns45_mod/desc;Allows installation of 45 mm NS-23 cannon.
 modification/lancaster_mk3_avro_mark_3;AUBC No.1 Mark II
@@ -374,8 +374,7 @@ modification/lancaster_m1_flyers_vest/desc;Allows partial protection of the crew
 modification/wellington_m1_flyers_vest;Protective vest
 modification/wellington_m1_flyers_vest/desc;Allows partial protection of the crew from fragmentation effect of flak and aerial shells.
 spare/spare;Backup vehicle
-spare/spare/desc;"Allows you to control a vehicle in a mission twice (but no more per mission). You can only use a backup vehicle in battle modes allowing several respawns.
-The specified price is the cost of one backup vehicle. You can have several backup vehicles, which are spent as far as they're used."
+spare/spare/desc;Allows you to control a vehicle in a mission twice (but no more per mission). You can only use a backup vehicle in battle modes allowing several respawns. The specified price is the cost of one backup vehicle. You can have several backup vehicles, which are spent as far as they're used.
 spare/spare/short;Backup
 modification/b5n2_17-34in_mod45;17 3/4 in (mod45)
 modification/b5n2_17-34in_mod45/desc;Allows installation of 1 torpedo.
@@ -748,15 +747,15 @@ modification/roll_change;%s to roll rate
 modification/armored_glass;Thickness of armored glass increased by %s mm.
 modification/back_armor;Thickness of rear armor plate increased by %s mm.
 modification/hp_105;Engine
-modification/hp_105/desc;"Rebuilding and tuning of the engine, replacement of worn engine with a new one."
+modification/hp_105/desc;Rebuilding and tuning of the engine, replacement of worn engine with a new one.
 modification/hp_105_jet;Engine
 modification/hp_105_jet/desc;Replacement of worn engine with a new one.
 modification/cd_98;Wings repair
-modification/cd_98/desc;"Replacement of damaged elements of wing skin, removal of openings, and surface finish to reduce air drag."
+modification/cd_98/desc;Replacement of damaged elements of wing skin, removal of openings, and surface finish to reduce air drag.
 modification/CdMin_Fuse;Fuselage repair
-modification/CdMin_Fuse/desc;"Replacement of damaged elements of fuselage skinning, removal of openings, and surface finish to reduce air drag."
+modification/CdMin_Fuse/desc;Replacement of damaged elements of fuselage skinning, removal of openings, and surface finish to reduce air drag.
 modification/f_4c_CdMin_Fuse;Fuselage repair
-modification/f_4c_CdMin_Fuse/desc;"Replacement of damaged elements of fuselage skinning, removal of openings, and surface finish to reduce air drag."
+modification/f_4c_CdMin_Fuse/desc;Replacement of damaged elements of fuselage skinning, removal of openings, and surface finish to reduce air drag.
 modification/Cd_Varnish;Varnish
 modification/Cd_Varnish/desc;Varnish of wooden surface to reduce air drag.
 modification/new_radiator;Radiator
@@ -766,9 +765,9 @@ modification/new_compressor/desc;Checking and tweaking of compressor provides ma
 modification/new_compressor_mi_4;Compressor
 modification/new_compressor_mi_4/desc;Checking and tweaking of compressor provides maximum engine power.
 modification/new_compressor_jet;Compressor
-modification/new_compressor_jet/desc;"Checking, tweaking and regular maintaining of compressor provides maximum engine power."
+modification/new_compressor_jet/desc;Checking, tweaking and regular maintaining of compressor provides maximum engine power.
 modification/new_compressor_heli;Compressor
-modification/new_compressor_heli/desc;"Checking, tweaking and regular maintaining of compressor provides maximum engine power."
+modification/new_compressor_heli/desc;Checking, tweaking and regular maintaining of compressor provides maximum engine power.
 modification/heli_counterMeasures;IRCM
 modification/heli_counterMeasures/desc;Optoelectronic station for protection against missiles with infrared seeker of various types.
 modification/a_129_cbt_counterMeasures;IRCM
@@ -780,11 +779,11 @@ modification/new_engine_injection/desc;Tweaking of engine injection elements mak
 modification/new_engine_throttle;Engine throttle
 modification/new_engine_throttle/desc;Tuning of throttle. Regular maintenance and replacement of engine throttle elements increases engine's afterburning performance.
 modification/new_cover;Cover
-modification/new_cover/desc;"Regular maintaining of cover and replacement of damaged cover parts increases overall plane's durability and flight performance, due to weight reduction."
+modification/new_cover/desc;Regular maintaining of cover and replacement of damaged cover parts increases overall plane's durability and flight performance, due to weight reduction.
 modification/tis_ma_new_cover;Cover
-modification/tis_ma_new_cover/desc;"Regular maintaining of cover and replacement of damaged cover parts increases overall plane's durability and flight performance, due to weight reduction."
+modification/tis_ma_new_cover/desc;Regular maintaining of cover and replacement of damaged cover parts increases overall plane's durability and flight performance, due to weight reduction.
 modification/new_heli_cover;Cover
-modification/new_heli_cover/desc;"Regular maintaining of cover and replacement of damaged cover parts increases overall durability and flight performance, due to weight reduction."
+modification/new_heli_cover/desc;Regular maintaining of cover and replacement of damaged cover parts increases overall durability and flight performance, due to weight reduction.
 modification/structure_str;Airframe
 modification/structure_str/desc;Replacement of damaged airframe elements increases overall plane's durability and flight performance due to weight reduction. For some planes it means that you get a new plane with undamaged airframe.
 modification/f_4c_structure_str;Airframe
@@ -792,7 +791,7 @@ modification/f_4c_structure_str/desc;Replacement of damaged airframe elements in
 modification/tis_ma_structure_str;Airframe
 modification/tis_ma_structure_str/desc;Replacement of damaged airframe elements increases overall plane's durability and flight performance due to weight reduction. For some planes it means that you get a new plane with undamaged airframe.
 modification/hispano_mk_2_narrow_chamber_new_gun;Hispano Mk. II (1942)
-modification/hispano_mk_2_narrow_chamber_new_gun/desc;"There were some technological issues when the Hispano cannon was converted to belt feed. Among them was the fact that the chamber width was 1/16 inch too large, which allowed backflow gases to enter the barrel and jam the breechlock. Reducing the size of the chamber width helped solve the problem and lessened the amount of weapon failures."
+modification/hispano_mk_2_narrow_chamber_new_gun/desc;There were some technological issues when the Hispano cannon was converted to belt feed. Among them was the fact that the chamber width was 1/16 inch too large, which allowed backflow gases to enter the barrel and jam the breechlock. Reducing the size of the chamber width helped solve the problem and lessened the amount of weapon failures.
 modification/hispano_mk_2_1943_new_gun;Hispano Mk. II (1943)
 modification/hispano_mk_2_1943_new_gun/desc;The 1943 modification of the Hispano Mk. II saw the replacement of graphite lubricant with fluid lubrication. This increased the gun's reliability beyond that of the 1942 modification of the Hispano Mk. II.
 modification/_new_gun;%s mm MG maintainance
@@ -1040,8 +1039,8 @@ modification/fr_damocles_pod/desc;Allows the installation of a DAMOCLES laser/el
 modification/fr_damocles_pod;DAMOCLES
 elite/elite;Elite aircraft rank I
 elite/sub_elite;Elite aircraft rank II
-elite/elite/desc;"To unlock Elite rank I, you have to purchase all modifications for this aircraft."
-elite/sub_elite/desc;"To unlock Elite rank II, you have to purchase %s modifications of the highest tier for this aircraft."
+elite/elite/desc;To unlock Elite rank I, you have to purchase all modifications for this aircraft.
+elite/sub_elite/desc;To unlock Elite rank II, you have to purchase %s modifications of the highest tier for this aircraft.
 modification/hydravlic_power;New boosters
 modification/hydravlic_power/desc;New hydraulic boosters improve plane's controllability
 modification/150_octan_fuel;150 octane fuel
@@ -1089,19 +1088,19 @@ modification/winterketten_tank_tracks/desc;Winterketten tracks pack. Additionall
 modification/ostketten_tank_tracks;Ostketten
 modification/ostketten_tank_tracks/desc;Ostketten tracks pack. Additionally improves passing ability.
 modification/new_tank_tracks;Track maintenance
-modification/new_tank_tracks/desc;"Maintenance of the tracks increases traction, track performance, and the tank's manueverability."
+modification/new_tank_tracks/desc;Maintenance of the tracks increases traction, track performance, and the tank's manueverability.
 modification/new_wheels;Tire maintainance
-modification/new_wheels/desc;"Maintainance of the tires reduces ware on them, increasing traction and overall maneuverability."
+modification/new_wheels/desc;Maintainance of the tires reduces ware on them, increasing traction and overall maneuverability.
 modification/new_tank_suspension;Suspension maintainence
-modification/new_tank_suspension/desc;"Maintainance of the suspension improves the suspension dampening, drive smoothness, and overall handling quality."
+modification/new_tank_suspension/desc;Maintainance of the suspension improves the suspension dampening, drive smoothness, and overall handling quality.
 modification/new_car_suspension;Suspension maintainence
-modification/new_car_suspension/desc;"Maintainance of the suspension improves the suspension dampening, drive smoothness, and overall handling quality."
+modification/new_car_suspension/desc;Maintainance of the suspension improves the suspension dampening, drive smoothness, and overall handling quality.
 modification/new_tank_filter;Filter maintainance
-modification/new_tank_filter/desc;"Maintainance of the air, fuel, and oil filters improves their filtering capabilities, increasing engine performance and air quality for the crew."
+modification/new_tank_filter/desc;Maintainance of the air, fuel, and oil filters improves their filtering capabilities, increasing engine performance and air quality for the crew.
 modification/new_tank_brakes;Brake maintainance
 modification/new_tank_brakes/desc;Maintenance and cleaning of the brakes improve the power they can exert and decrease stopping distance.
 modification/new_tank_transmission;Transmission maintainance
-modification/new_tank_transmission/desc;"Maintenance, cleaning, and lubrication of the transmission decrease friction and increase performance, bettering tank handling and gear ratios."
+modification/new_tank_transmission/desc;Maintenance, cleaning, and lubrication of the transmission decrease friction and increase performance, bettering tank handling and gear ratios.
 modification/new_tank_engine;Engine maintainance
 modification/new_tank_engine/desc;Maintainance and cleaning of the engine decreases friction and improves overall performance.
 modification/tank_tool_kit_expendable;Repair equipment
@@ -1127,9 +1126,9 @@ modification/tank_camouflage/desc;Tank camouflage improves stealth in a field an
 modification/tank_additional_armor;Additional armor
 modification/tank_additional_armor/desc;Use of spare tracks or other alternate materials as an additional armor. It slightly increases tank protection but also - its weight.
 modification/new_tank_horizontal_aiming;Horizontal traverse lubrication
-modification/new_tank_horizontal_aiming/desc;"Lubrication of the horizontal turret traverse drive allows for smoothing running with lower friction, increasing horizontal traverse speed."
+modification/new_tank_horizontal_aiming/desc;Lubrication of the horizontal turret traverse drive allows for smoothing running with lower friction, increasing horizontal traverse speed.
 modification/new_tank_vertical_aiming;Vertical traverse lubrication
-modification/new_tank_vertical_aiming/desc;"Lubrication of the vertical turret traverse drive allows for smoothing running with lower friction, increasing vertical traverse speed."
+modification/new_tank_vertical_aiming/desc;Lubrication of the vertical turret traverse drive allows for smoothing running with lower friction, increasing vertical traverse speed.
 modification/modern_tank_stereo_rangefinder;Rangefinder
 modification/modern_tank_stereo_rangefinder/desc;Installation of a rangefinder allows for the more accurate determination of the range to a target.
 modification/laser_rangefinder_lws;LRF / LWS
@@ -1145,9 +1144,9 @@ modification/tank_rangefinder/desc;Installation of a rangefinder allows for the 
 modification/art_support;Artillery support
 modification/art_support/desc;Calling artillery support targets an artillery strike at the selected point
 modification/tank_new_gun;Gun calibration
-modification/tank_new_gun/desc;"Maintainance and calibration of the gun realigns it with the target sight and improves its performance, decreasing fire spread and increasing accuracy."
+modification/tank_new_gun/desc;Maintainance and calibration of the gun realigns it with the target sight and improves its performance, decreasing fire spread and increasing accuracy.
 modification/tank_smoke_screen_system_mod;Smoke grenades
-modification/tank_smoke_screen_system_mod/desc;"The mounting of smoke grenades allows for the launching of these grenades that, upon detonation, release smoke."
+modification/tank_smoke_screen_system_mod/desc;The mounting of smoke grenades allows for the launching of these grenades that, upon detonation, release smoke.
 modification/thermal_vision_system;Thermal imager
 modification/night_vision_system;Image intensifier
 modification/night_vision_system/desc;The installation of an image intensifier allows for the brightening of recieved light in low-light conditions.
@@ -1156,7 +1155,7 @@ modification/night_vision_system_upgrade_nv_to_thermal/desc;Installation of a th
 modification/heli_night_vision_system;Image intensifier
 modification/heli_night_vision_system/desc;The installation of an image intensifier allows for the brightening of recieved light in low-light conditions.
 modification/aa_new_gun;Gun calibration
-modification/aa_new_gun/desc;"Maintainance and calibration of the gun realigns it with the target sight and improves its performance, decreasing fire spread and increasing accuracy."
+modification/aa_new_gun/desc;Maintainance and calibration of the gun realigns it with the target sight and improves its performance, decreasing fire spread and increasing accuracy.
 modification/ka_chi_hull_improvement;Installation of pontoons
 modification/ka_chi_hull_improvement/desc;Installation of pontoons
 modification/bmp_1p_turret_improvement;BMP-1P
@@ -1166,8 +1165,7 @@ modification/type_86_turret_improvement/desc;Upgrading ZBD86 by installing a new
 modification/tog_project_upgrade;1941 hull proposal
 modification/tog_project_upgrade/desc;"Allows installation of the 1941 proposed hull for the T.O.G. 2 featuring a 3"" gun in the hull and machine gun sponsons on the sides fitted with BESA machine guns."
 modification/bmp_2d_improvement;BMP-2D
-modification/bmp_2d_improvement/desc;"Upgrading BMP-2 by increasing side armor.
-BMP-2D lost the ability to force crossings by swimming, due to the increased mass."
+modification/bmp_2d_improvement/desc;Upgrading BMP-2 by increasing side armor. BMP-2D lost the ability to force crossings by swimming, due to the increased mass.
 modification/abrams_protection_improvement;TUSK
 modification/abrams_protection_improvement/desc;TUSK upgrade kit
 modification/c1_protection_improvement;War kit
@@ -1231,8 +1229,7 @@ modification/roland_3_improvement/desc;Added Roland 3 AAM
 modification/fv510_MILAN_2;MILAN 2
 modification/fv510_MILAN_2/desc;Added MILAN 2 ATGM
 modification/airstrike;Airstrike
-modification/airstrike/desc;"Allows you to join an air battle activated by an ally on bomber or attacker (for example, in Tank Arcade Battles).
-In modes with respawn points, you can additionally reduce the aircraft spawn cost for each scouted player killed by an ally (for example, in Tank Realistic Battles)."
+modification/airstrike/desc;Allows you to join an air battle activated by an ally on bomber or attacker (for example, in Tank Arcade Battles). In modes with respawn points, you can additionally reduce the aircraft spawn cost for each scouted player killed by an ally (for example, in Tank Realistic Battles).
 modification/improved_optics;Improved optics
 modification/improved_optics/desc;Increases the opponents detection radius.
 modification/yak9ut_n37_mod;N-37 cannon
@@ -1248,7 +1245,7 @@ modification/su_2_am42_vya23/desc;Allows installation of 23 mm VYa cannon.
 modification/a6m_9in_mod30;9 in (mod30)
 modification/a6m_9in_mod30/desc;Allows installation of 2 x 60 kg bombs.
 modification/tank_engine_smoke_screen_system;Exhaust smokescreen
-modification/tank_engine_smoke_screen_system/desc;"Injecting diesel into the engine manifold superheats it, evaporating it instantly and producing a while smoke that is released through the exhaust to form a smokescreen."
+modification/tank_engine_smoke_screen_system/desc;Injecting diesel into the engine manifold superheats it, evaporating it instantly and producing a while smoke that is released through the exhaust to form a smokescreen.
 modification/14in_mod35;9 in (mod35)
 modification/14in_mod35/desc;Allows installation of additional 60 kg bombs.
 modification/15in_mod35;9 in (mod35)
@@ -1273,10 +1270,10 @@ modification/ki84_12in_mod27;12 in (mod27)
 modification/ki84_12in_mod27/desc;Allows installation of 2 x 250 kg bombs.
 modification/pvc_1006b_pylon;PVC 1006B
 modification/pvc_1006b_pylon/desc;Allows installation of 2 torpedoes.
-modification/hs129_bk37;"BK 3,7 cannon"
-modification/hs129_bk37/desc;"Allows installation of 37 mm BK 3,7 cannon."
-modification/hs129_bk37_bf110;"BK 3,7 cannon"
-modification/hs129_bk37_bf110/desc;"Allows installation of 37 mm BK 3,7 cannon."
+modification/hs129_bk37;BK 3,7 cannon
+modification/hs129_bk37/desc;Allows installation of 37 mm BK 3,7 cannon.
+modification/hs129_bk37_bf110;BK 3,7 cannon
+modification/hs129_bk37_bf110/desc;Allows installation of 37 mm BK 3,7 cannon.
 modification/i-185_der-25;Der-25
 modification/i-185_der-25/desc;Allows installation of 250 kg bombs
 modification/i-185_ro-82;RO-82
@@ -1347,7 +1344,7 @@ modification/tbf_itc/desc;Allows installation of 1 torpedo.
 modification/improved_torpedo_mod;Improved torpedo
 modification/improved_torpedo_mod/desc;Allows installation of torpedoes with improved discharge characteristics.
 modification/allowPremDecals;Mark of distinction
-modification/allowPremDecals/desc;"Allows to use all four slots for decals, even without Premium Account."
+modification/allowPremDecals/desc;Allows to use all four slots for decals, even without Premium Account.
 modification/ki45_12in_mod30;12 in (mod30)
 modification/ki45_12in_mod30/desc;Allows installation of bombs of up to 250 kg
 modification/spitfire_sbc;SMBC Mk. 2
@@ -1487,15 +1484,15 @@ modification/new_compressor_r/desc;Checking and tweaking of compressor provides 
 modification/new_radiator_r;Radiator
 modification/new_radiator_r/desc;Cleaning of radiator and cooling system makes engine cooling more effective.
 modification/hp_105_r;Engine
-modification/hp_105_r/desc;"Rebuilding and tuning of the engine, replacement of worn engine with a new one."
+modification/hp_105_r/desc;Rebuilding and tuning of the engine, replacement of worn engine with a new one.
 modification/structure_str_r;Airframe
 modification/structure_str_r/desc;Replacement of damaged airframe elements increases overall plane's durability and flight performance due to weight reduction. For some planes it means that you get a new plane with undamaged airframe.
 modification/new_cover_r;Cover
-modification/new_cover_r/desc;"Regular maintaining of cover and replacement of damaged cover parts increases overall plane's durability and flight performance, due to weight reduction."
+modification/new_cover_r/desc;Regular maintaining of cover and replacement of damaged cover parts increases overall plane's durability and flight performance, due to weight reduction.
 modification/CdMin_Fuse_r;Fuselage repair
-modification/CdMin_Fuse_r/desc;"Replacement of damaged elements of fuselage skinning, removal of openings, and surface finish to reduce air drag."
+modification/CdMin_Fuse_r/desc;Replacement of damaged elements of fuselage skinning, removal of openings, and surface finish to reduce air drag.
 modification/cd_98_r;Wings repair
-modification/cd_98_r/desc;"Replacement of damaged elements of wing skin, removal of openings, and surface finish to reduce air drag."
+modification/cd_98_r/desc;Replacement of damaged elements of wing skin, removal of openings, and surface finish to reduce air drag.
 modification/ub_universal_r;Omni-purpose ammunition belt for 12.7 mm machine gun
 modification/ub_universal_r/short;Universal
 modification/ub_air_targets_r;12.7 mm machine gun ammunition belt for air targets
@@ -1764,21 +1761,21 @@ CCRP;CCRP
 fuelTank/neutralGasSystem;with neutral gas pressurization system
 fuelTank/fillingPolyurethane;Filling - Polyurethane
 modification/new_ship_engine;Engine maintenance
-modification/new_ship_engine/desc;"Proper maintencance and, if necessary, replacement of the engines improves their performance."
+modification/new_ship_engine/desc;Proper maintencance and, if necessary, replacement of the engines improves their performance.
 modification/new_ship_screw;Propeller replacement
 modification/new_ship_screw/desc;Replacement of the propellers with new ones increases the vessel's performance
 modification/new_ship_hull;Hull cleaning
-modification/new_ship_hull/desc;"Cleaning the vessel's hull of marine life decreases drag and improves hydrodynamics, increasing the vessel's maximum speed."
+modification/new_ship_hull/desc;Cleaning the vessel's hull of marine life decreases drag and improves hydrodynamics, increasing the vessel's maximum speed.
 modification/new_ship_rudder;Rudder maintenance
-modification/new_ship_rudder/desc;"Proper maintenance and, if necessary, replacement of the vessel's rudder improves its agility."
+modification/new_ship_rudder/desc;Proper maintenance and, if necessary, replacement of the vessel's rudder improves its agility.
 modification/ship_tool_kit;Repair equipment
 modification/ship_tool_kit/desc;Improved and replenished repair equiment allows for the more rapid and effective repair of damage while at sea.
 modification/manual_ship_extinguisher;Fire extinguishers
 modification/manual_ship_extinguisher/desc;Improved and replenished fire extinguishers allows for the more rapid and effective extinguishing of fires.
 modification/ship_smoke_screen_system_mod;Exhaust smokescreen
-modification/ship_smoke_screen_system_mod/desc;"Injecting titanium tetrachloride, silicon tetrachloride, chlorosulfuric acid, or hexachloroethane into the engine manifold or boilers produces a white smoke that lies low on the water's surface."
+modification/ship_smoke_screen_system_mod/desc;Injecting titanium tetrachloride, silicon tetrachloride, chlorosulfuric acid, or hexachloroethane into the engine manifold or boilers produces a white smoke that lies low on the water's surface.
 modification/new_ship_pumps;Bilge pump maintenance
-modification/new_ship_pumps/desc;"Proper maintencance and, if necessary, replacement of the bilge pumps allows for increased capacity, allowing for more rapid pumping of water."
+modification/new_ship_pumps/desc;Proper maintencance and, if necessary, replacement of the bilge pumps allows for increased capacity, allowing for more rapid pumping of water.
 modification/ship_rangefinder;Rangefinder alignment
 modification/ship_rangefinder/desc;Consistent rangefinder alignment allows for increased accuracy in the measurement of distance to a target.
 modification/new_main_caliber_turrets;Primary traverse lubrication
@@ -1792,7 +1789,7 @@ modification/ship_additional_armor/desc;Added sandbags and gun shields create ad
 modification/ship_anti_fragmentation_protection;Anti-shrapnel lining
 modification/ship_anti_fragmentation_protection/desc;The addition of an anti-shrapnel lining provides extra protection for the crew and modules against shrapnel.
 modification/new_main_caliber_cannons;Gun liner maintenance
-modification/new_main_caliber_cannons/desc;"Proper maintencance and, if necessary, replacement of the gun liner increases the gun's accuracy and reduces its fire spread."
+modification/new_main_caliber_cannons/desc;Proper maintencance and, if necessary, replacement of the gun liner increases the gun's accuracy and reduces its fire spread.
 modification/ship_main_caliber_support;Artillery support
 modification/ship_main_caliber_support/desc;Calling in artillery support launches a spread of artillery shells at the targeted point.
 modification/torpedoes_movement_mode;Torpedo tuning
@@ -1800,7 +1797,7 @@ modification/torpedoes_movement_mode/desc;A decrease in the maximum speed of the
 modification/ship_depth_charge;Depth charges
 modification/ship_depth_charge/desc;Equipping depth charges allows for their deployment to damage nearby small vessels and submarines.
 modification/ship_venting;Ventilation maintenance
-modification/ship_venting/desc;"Proper maintencance and, if necessary, replacement of the ventination system ensures consistent, clean air-flow, reducing the risk of the crew inhaling smoke during a fire."
+modification/ship_venting/desc;Proper maintencance and, if necessary, replacement of the ventination system ensures consistent, clean air-flow, reducing the risk of the crew inhaling smoke during a fire.
 modification/ship_ammo_wetting;Wet racks
 modification/ship_ammo_wetting/desc;The storage of ammunition in wet racks reduces the risk of fire and ammunition detonation in the event of a hit to the ammunition racks.
 modification/ship_rocket_launcher;Rocket launcher
@@ -2376,9 +2373,9 @@ modification/q_5b_ltc/desc;Allows shoots off countermeasures.
 modification/q_5b_ltc;RWR/Flares
 modification/MAW_system_heli_false_thermal_targets/desc;Missile approach warning system and allows shoots off false heat targets.
 modification/MAW_system_heli_false_thermal_targets;MAW
-modification/MAW_system_heli_false_thermal_targets_large/desc;"Missile approach warning system, allowing false heat target shoot off."
+modification/MAW_system_heli_false_thermal_targets_large/desc;Missile approach warning system, allowing false heat target shoot off.
 modification/MAW_system_heli_false_thermal_targets_large;MAW
-modification/PIDS_false_thermal_targets/desc;"Missile approach warning system, allowing false heat target shoot off."
+modification/PIDS_false_thermal_targets/desc;Missile approach warning system, allowing false heat target shoot off.
 modification/PIDS_false_thermal_targets;MAW
 modification/Radar_warning_receiver_system/desc;Radar warning receiver.
 modification/Radar_warning_receiver_system;RWR
@@ -2492,9 +2489,9 @@ modification/automatic_air_extinguisher;EFS (automatic)
 20mm_jm61_rfs_naval_hei/name;20 mm HEI belts
 20mm_jm61_rfs_naval_apit/name;20 mm APIT belts
 20mm_jm61_rfs_naval_apds/name;20 mm APDS belts
-12mm_breda_safat_he/name;"12,7 mm HE belts"
-12mm_breda_safat_incendiary/name;"12,7 mm Incendiary belts"
-12mm_breda_safat_ap/name;"12,7 mm AP belts"
+12mm_breda_safat_he/name;12,7 mm HE belts
+12mm_breda_safat_incendiary/name;12,7 mm Incendiary belts
+12mm_breda_safat_ap/name;12,7 mm AP belts
 modification/40mm_vickers_terni_mod_1915_17_he_df;40 mm HE-TF
 20mm_rh202_naval_heit/name;20 mm HEIT belts
 modification/20mm_rh202_naval_heit_ammo_pack;20 mm HEIT belts
@@ -2542,14 +2539,14 @@ modification/343mm_uk_mark3a_navy_apc_ammo_pack;13.5 inch APC Mk. IIIa
 modification/ship_supportPlane;Hydroplane
 modification/ship_supportPlane/desc;An ability to carry and launch a scout hydroplane
 modification/280mm_ger_skc34_sprgr_kz_navy_he;283-mm Spgr. L/4.4 Kz HE
-modification/280mm_ger_skc34_pzgr_navy_apc;"283-mm Psgr. L/4,4 APCBC"
-modification/280mm_ger_skc34_pzgr_navy_apc_ammo_pack;"283-mm Psgr. L/4,4 APCBC"
-modification/280mm_ger_skc34_spgr_bdz_navy_sap;"283-mm Spgr. L/4,4 Bdz SAP"
-modification/280mm_ger_skc34_spgr_bdz_navy_sap_ammo_pack;"283-mm Spgr. L/4,4 Bdz SAP"
-modification/280mm_ger_skc34_aa_distant_fuse_navy_he;"283-mm Spgr. L/4,4 Zt.Z HE-DF"
-modification/280mm_ger_skc34_aa_distant_fuse_navy_he_ammo_pack;"283-mm Spgr. L/4,4 Zt.Z HE-DF"
-modification/380mm_ger_skc34_aa_distant_fuse_navy_he;"380-mm Spgr. L/4,6 Zt.Z HE-DF"
-modification/380mm_ger_skc34_aa_distant_fuse_navy_he_ammo_pack;"380-mm Spgr. L/4,6 Zt.Z HE-DF"
+modification/280mm_ger_skc34_pzgr_navy_apc;283-mm Psgr. L/4,4 APCBC
+modification/280mm_ger_skc34_pzgr_navy_apc_ammo_pack;283-mm Psgr. L/4,4 APCBC
+modification/280mm_ger_skc34_spgr_bdz_navy_sap;283-mm Spgr. L/4,4 Bdz SAP
+modification/280mm_ger_skc34_spgr_bdz_navy_sap_ammo_pack;283-mm Spgr. L/4,4 Bdz SAP
+modification/280mm_ger_skc34_aa_distant_fuse_navy_he;283-mm Spgr. L/4,4 Zt.Z HE-DF
+modification/280mm_ger_skc34_aa_distant_fuse_navy_he_ammo_pack;283-mm Spgr. L/4,4 Zt.Z HE-DF
+modification/380mm_ger_skc34_aa_distant_fuse_navy_he;380-mm Spgr. L/4,6 Zt.Z HE-DF
+modification/380mm_ger_skc34_aa_distant_fuse_navy_he_ammo_pack;380-mm Spgr. L/4,6 Zt.Z HE-DF
 modification/76mm_us_mk34_navy_he;76 mm Mk. 34 HE
 modification/76mm_us_mk34_navy_he_radio_fuse;76 mm Mk. 34 HE-VT
 modification/76mm_us_mk34_navy_he_radio_fuse_ammo_pack;76 mm HE-VT
@@ -2561,9 +2558,9 @@ modification/76mm_it_om2_he_radio_fuse_ammo_pack;76 mm OM-2 HE-VT
 modification/381mm_uk_bl_mk1_4crh_navy_cpc;15-inch 4crh CPC
 modification/381mm_uk_bl_mk1_4crh_navy_apc;15-inch 4crh Mark IIa APC
 modification/381mm_uk_bl_mk1_4crh_navy_apc_ammo_pack;15-inch 4crh Mark IIa APC
-modification/380mm_germ_skl_45_base_fuse_navy_he;"380-mm Spr.gr. L/4,1 Bdz."
-modification/380mm_germ_skl_45_navy_apcbc;"380-mm Psgr. L/3,5 APCBC"
-modification/380mm_germ_skl_45_navy_apcbc_ammo_pack;"380-mm Psgr. L/3,5 APCBC"
+modification/380mm_germ_skl_45_base_fuse_navy_he;380-mm Spr.gr. L/4,1 Bdz.
+modification/380mm_germ_skl_45_navy_apcbc;380-mm Psgr. L/3,5 APCBC
+modification/380mm_germ_skl_45_navy_apcbc_ammo_pack;380-mm Psgr. L/3,5 APCBC
 modification/305mm_ussr_54_b_50_navy_ap;305-mm APCBC
 modification/305mm_ussr_54_b_50_navy_ap_ammo_pack;305-mm APCBC
 modification/tank_support_ucav;Scout UAV
@@ -2615,11 +2612,11 @@ modification/j_11a_rvv_ae/desc;Allows the installation of RVV-AYe air-to-air mis
 modification/j_11a_rvv_ae;RVV-AYe
 modification/mig_21_bison_r_77e/desc;Allows installation of AKU-170 pylons mounting R-77 air-to-air missiles.
 modification/mig_21_bison_r_77e;R-77
-modification/128mm_ger_c41_naval_HE;"12.8 cm Spgr. L/4,5 Kz (mHb)"
-modification/128mm_ger_c41_naval_HE_base_fuze;"12.8 cm Spgr. L/4,5 Bd.Z (mHb)"
-modification/128mm_ger_c41_naval_HE_base_fuze_ammo_pack;"12.8 cm Spgr. L/4,5 Bd.Z (mHb)"
-modification/128mm_ger_c41_naval_HE_dist_fuze_ap;"12.8 cm Spgr. L/4,5 Zt.Z (mHb)"
-modification/128mm_ger_c41_naval_HE_dist_fuze_ap_ammo_pack;"12.8 cm Spgr. L/4,5 Zt.Z (mHb)"
+modification/128mm_ger_c41_naval_HE;12.8 cm Spgr. L/4,5 Kz (mHb)
+modification/128mm_ger_c41_naval_HE_base_fuze;12.8 cm Spgr. L/4,5 Bd.Z (mHb)
+modification/128mm_ger_c41_naval_HE_base_fuze_ammo_pack;12.8 cm Spgr. L/4,5 Bd.Z (mHb)
+modification/128mm_ger_c41_naval_HE_dist_fuze_ap;12.8 cm Spgr. L/4,5 Zt.Z (mHb)
+modification/128mm_ger_c41_naval_HE_dist_fuze_ap_ammo_pack;12.8 cm Spgr. L/4,5 Zt.Z (mHb)
 modification/120mm_ussr_50cal_Bofors_he;120-мм HE Bofors
 modification/37mm_fr_50_he;37 mm HE
 modification/138mm_fr_40_1927_he;138.6 mm HE
@@ -2668,8 +2665,8 @@ modification/410mm_jp_no5_navy_apc_ammo_pack;410 mm No5 APC
 modification/410mm_jp_no3_navy_apc;410 mm No3 APC
 modification/410mm_jp_no3_navy_apc_ammo_pack;410 mm No3 APC
 sensors/ship_optical_sight;Optical director
-modification/87_6mm_uk_navy_apc_ammo_pack;"87,6 mm APC"
-87_6mm_uk_navy_apc/name;"87,6 mm APC"
+modification/87_6mm_uk_navy_apc_ammo_pack;87,6 mm APC
+87_6mm_uk_navy_apc/name;87,6 mm APC
 modification/381mm_uk_bl_mk1_4crh_mk1a_navy_apc;381 mm Mk.Ia APC
 modification/381mm_uk_bl_mk1_4crh_mk1a_navy_apc_ammo_pack;381 mm Mk.Ia APC
 CLIPPED_LANG_KEEP_IT_ALWAYS_FIRST;

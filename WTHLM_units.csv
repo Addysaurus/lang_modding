@@ -89,7 +89,7 @@ unic_akagi_0;IJN Akagi
 unic_akagi_1;IJN Akagi
 unic_akagi_2;Carrier
 unic_shokaku;IJN Shōkaku
-unic_shokaku_0;"Shōkaku-class, IJN Shōkaku"
+unic_shokaku_0;Shōkaku-class, IJN Shōkaku
 unic_shokaku_1;IJN Shōkaku
 unic_shokaku_2;Carrier
 unic_zuikaku;IJN Zuikaku
@@ -922,10 +922,10 @@ ussr_locomotive_e_1298_0;Locomotive
 ussr_locomotive_e_1298_1;Locomotive
 ussr_locomotive_e_1298_2;Locomotive
 uk_cruiser_enterprise_d52_shop;HMS Enterprise (D52)
-uk_cruiser_enterprise_d52_0;"Emerald-class, HMS Enterprise (D52), 1944"
+uk_cruiser_enterprise_d52_0;Emerald-class, HMS Enterprise (D52), 1944
 uk_cruiser_enterprise_d52_1;HMS Enterprise (D52)
 uk_cruiser_enterprise_d52_2;Light cruiser
-uk_cruiser_enterprise_d52_EC_0;"Emerald-class, HMS Enterprise (D52), 1944"
+uk_cruiser_enterprise_d52_EC_0;Emerald-class, HMS Enterprise (D52), 1944
 uk_cruiser_enterprise_d52_EC_1;HMS Enterprise (D52)
 uk_cruiser_enterprise_d52_EC_2;Light cruiser
 structures/germ_380mm_skc34_0;Battleship artillery
@@ -1145,15 +1145,15 @@ us_152mm_for_land_battles_0;Pillbox
 us_152mm_for_land_battles_1;Pillbox
 us_152mm_for_land_battles_2;Pillbox
 us_aircraftcarrier_lexington_shop;USS Lexington (CV-2)
-us_aircraftcarrier_lexington_0;"Lexington-class, USS Lexington (CV-2), 1942"
+us_aircraftcarrier_lexington_0;Lexington-class, USS Lexington (CV-2), 1942
 us_aircraftcarrier_lexington_1;USS Lexington
 us_aircraftcarrier_lexington_2;Carrier
 us_aircraftcarrier_enterprise_shop;USS Enterprise (CV-6)
-us_aircraftcarrier_enterprise_0;"Yorktown-class, USS Enterprise (CV-6), 1942"
+us_aircraftcarrier_enterprise_0;Yorktown-class, USS Enterprise (CV-6), 1942
 us_aircraftcarrier_enterprise_1;USS Enterprise
 us_aircraftcarrier_enterprise_2;Carrier
 us_aircraftcarrier_saratoga_shop;USS Saratoga (CV-3)
-us_aircraftcarrier_saratoga_0;"Lexington-class, USS Saratoga (CV-3), 1942"
+us_aircraftcarrier_saratoga_0;Lexington-class, USS Saratoga (CV-3), 1942
 us_aircraftcarrier_saratoga_1;USS Saratoga
 us_aircraftcarrier_saratoga_2;Carrier
 us_aircraftcarrier_forrestal_shop;USS Forrestal (CVA-59)
@@ -1161,7 +1161,7 @@ us_aircraftcarrier_forrestal_0;USS Forrestal (CVA-59)
 us_aircraftcarrier_forrestal_1;USS Forrestal (CVA-59)
 us_aircraftcarrier_forrestal_2;Carrier
 uk_aircraftcarrier_illustrious_shop;HMS Illustrious (87)
-uk_aircraftcarrier_illustrious_0;"Illustrious-class, HMS Illustrious (87)"
+uk_aircraftcarrier_illustrious_0;Illustrious-class, HMS Illustrious (87)
 uk_aircraftcarrier_illustrious_1;HMS Illustrious
 uk_aircraftcarrier_illustrious_2;Carrier
 uk_aircraftcarrier_ark_royal_shop;HMS Ark Royal (R09)
@@ -1250,7 +1250,7 @@ shop/group/germ_leopard_2_group;KPz Leopard 2 A5 / A6
 shop/group/germ_flakpanzer_1_group;Pz.Kpfw. I A (2cm Fla.K. 38) / Flak.Pz. 38
 shop/group/germ_wiesel_gepard_group;Ozelot / Gepard 1 A2
 shop/group/germ_sturmpanzer_221_group;15cm s.I.G. 33 (Sfl) / Sd.Kfz. 221
-shop/group/germ_panzerjager_251_group;"Pz.Jgr. I / m.S.P.W. D (7,5cm K.)"
+shop/group/germ_panzerjager_251_group;Pz.Jgr. I / m.S.P.W. D (7,5cm K.)
 shop/group/germ_marder_stug_a_group;Marder III / StuG III A
 shop/group/germ_marder_stuh_group;Marder III H / StuH 42 / StuG III F
 shop/group/germ_jagdpanzer_group;Jagdpanzer IV / 38 (t)
@@ -1294,8 +1294,8 @@ shop/group/me-163_group;Me 163 B-1 / 0
 shop/group/f-86_german_group;◄ Sabre Mk. 5 / 6
 shop/group/mig_21_germany_group;MiG-21MF / bis (SAU)
 shop/group/mig-21_hungary_group;◔ MiG-21MF / bisz
-shop/group/ussr_t_34_40_41_group;"T-34 (Dec, 1940) / (May, 1941)"
-shop/group/ussr_t_34_42_group;"T-34 (Sep, 1942) / (Èkranirovannyj) (STZ)"
+shop/group/ussr_t_34_40_41_group;T-34 (Dec, 1940) / (May, 1941)
+shop/group/ussr_t_34_42_group;T-34 (Sep, 1942) / (Èkranirovannyj) (STZ)
 shop/group/ussr_btr_zis_group;BTR-152A / ZiS-43
 ussr_su_85_group;SU-85 / 85M
 shop/group/ussr_is_2_1944_group;IS-2 (2-j) / (2-j) (No. 321)
@@ -1303,8 +1303,8 @@ shop/group/ussr_t_54_group;T-54
 shop/group/ussr_t_55_group;T-55A / AMD-1
 shop/group/ussr_t_62_group;T-62 / 62М-1
 shop/group/ussr_t_72b_group;T-72B (Kontakt-1) / (5)
-shop/group/ussr_kv_1_2_group;"KV-1 (Feb, 1940) / 2 (Jan, 1940)"
-shop/group/ussr_kv_1_85_group;"KV-1 (Jul, 1941) / 85"
+shop/group/ussr_kv_1_2_group;KV-1 (Feb, 1940) / 2 (Jan, 1940)
+shop/group/ussr_kv_1_85_group;KV-1 (Jul, 1941) / 85
 shop/group/ussr_t_64_group;T-64A / BV
 shop/group/ussr_bmp_1_group;BMP-1P / PT-85
 shop/group/ussr_bmp_2_group;BMP-2D / Ob. 685
@@ -1351,19 +1351,19 @@ shop/group/su-7_group;Su-7B / BKL
 shop/group/mig-21_group;MiG-21SMT / bis
 shop/group/mig-23m_group;MiG-23M / MLD
 shop/group/mig_27_group;MiG-27M / K
-shop/group/uk_crusader_group;"Crusader, Mk. II / III"
-shop/group/uk_cromwell_group;"Cromwell, Mk. V / I"
-shop/group/uk_valentine_group;"Valentine, Mk. I / XI / IX"
-shop/group/uk_chieftain_mk_3_5_group;"Chieftain, Mk. 3 / 5"
-shop/group/uk_challenger_comet_group;"Challenger, Mk. I / Comet"
+shop/group/uk_crusader_group;Crusader, Mk. II / III
+shop/group/uk_cromwell_group;Cromwell, Mk. V / I
+shop/group/uk_valentine_group;Valentine, Mk. I / XI / IX
+shop/group/uk_chieftain_mk_3_5_group;Chieftain, Mk. 3 / 5
+shop/group/uk_challenger_comet_group;Challenger, Mk. I / Comet
 shop/group/uk_caernarvon_conqueror_group;Caernarvon / Conqueror
-shop/group/uk_challenger_group;"Challenger 1, Mk. 2 / 3"
+shop/group/uk_challenger_group;Challenger 1, Mk. 2 / 3
 shop/group/uk_challenger_2_group;Challenger 2 (2E) / (2F) / TES
 shop/group/uk_challenger_bn_e_group;"Challenger 2, Mk. 2 ""BN"" / 2E"
-shop/group/uk_churchill_group;"Churchill, Mk. III / IV, N.A.75"
+shop/group/uk_churchill_group;Churchill, Mk. III / IV, N.A.75
 shop/group/uk_tortoise_conway_group;Tortoise / Conway
 shop/group/uk_fv510_zt3_group;Warrior / Ratel ZT3
-shop/group/uk_ystervark_crusader_group;"Ystervark / Crusader, Mk. III, A.A., Mk. II"
+shop/group/uk_ystervark_crusader_group;Ystervark / Crusader, Mk. III, A.A., Mk. II
 shop/group/uk_marksman_za_group;Chieftain Mk. 10 Marksman / ZA-35
 shop/group/uk_ratel_group;Ratel 90 / 20
 shop/group/uk_g6_eland_group;G6-45 / Eland 90
@@ -2003,8 +2003,8 @@ pbm_3_shop;PBM-3
 pbm_3_0;PBM-3 Mariner
 pbm_3_1;PBM-3
 pbm_3_2;PBM
-pbm_5a_shop;"PBM-5A ""Mariner"""
-pbm_5a_0;"PBM-5A ""Mariner"""
+pbm_5a_shop;PBM-5A
+pbm_5a_0;PBM-5A Mariner
 pbm_5a_1;PBM-5A
 pbm_5a_2;PBM
 b_10b_shop;B-10B
@@ -2681,15 +2681,15 @@ ah_6m_0;AH-6M
 ah_6m_1;AH-6M
 ah_6m_2;AH-6
 oh_58d_shop;OH-58D
-oh_58d_0;"Helicopter, Observation, OH-58D Kiowa Warrior"
+oh_58d_0;Helicopter, Observation, OH-58D Kiowa Warrior
 oh_58d_1;OH-58D
 oh_58d_2;OH-58
 ah_64a_shop;AH-64A
-ah_64a_0;"McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache"
+ah_64a_0;McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache
 ah_64a_1;AH-64A
 ah_64a_2;AH-64
 ah_64d_shop;AH-64D
-ah_64d_0;"Boeing Rotorcraft Systems | Helicopter, Attack, AH-64D Longbow Apache"
+ah_64d_0;Boeing Rotorcraft Systems | Helicopter, Attack, AH-64D Longbow Apache
 ah_64d_1;AH-64D
 ah_64d_2;AH-64
 yah_64_shop;YAH-64A
@@ -2697,7 +2697,7 @@ yah_64_0;Hughes Helicopters | Hughes Model 77 | YAH-64A
 yah_64_1;YAH-64A
 yah_64_2;YAH-64
 ah_64a_greece_usa_shop;⚕ AH-64A
-ah_64a_greece_usa_0;"⚕ McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache"
+ah_64a_greece_usa_0;⚕ McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache
 ah_64a_greece_usa_1;⚕ AH-64A
 ah_64a_greece_usa_2;⚕ AH-64
 ah_64a_peten_shop;▃ AH-64A
@@ -2711,63 +2711,63 @@ mh_60l_dap_1;MH-60L
 mh_60l_dap_2;MH-60
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1;
 us_m2a4_shop;M2A4
-us_m2a4_0;"Tank, Light, M2A4"
+us_m2a4_0;Tank, Light, M2A4
 us_m2a4_1;M2A4
 us_m2a4_2;Light tank
 us_m2_medium_shop;M2
-us_m2_medium_0;"Tank, Medium, M2"
+us_m2_medium_0;Tank, Medium, M2
 us_m2_medium_1;M2
 us_m2_medium_2;Medium tank
 us_m2a2_shop;M2A2
-us_m2a2_0;"Tank, Light, M2A2"
+us_m2a2_0;Tank, Light, M2A2
 us_m2a2_1;M2A2
 us_m2a2_2;Light tank
 us_m2a4_1st_armor_div_shop;M2A4 (1st Arm.Div.)
-us_m2a4_1st_armor_div_0;"Tank, Light, M2A4 (1st Arm.Div.)"
+us_m2a4_1st_armor_div_0;Tank, Light, M2A4 (1st Arm.Div.)
 us_m2a4_1st_armor_div_1;M2A4
 us_m2a4_1st_armor_div_2;Light tank
 us_m3_stuart_shop;M3
-us_m3_stuart_0;"Tank, Light, M3 Stuart"
+us_m3_stuart_0;Tank, Light, M3 Stuart
 us_m3_stuart_1;M3
 us_m3_stuart_2;Light tank
 us_m3a1_stuart_shop;M3A1
-us_m3a1_stuart_0;"Tank, Light, M3A1 Stuart"
+us_m3a1_stuart_0;Tank, Light, M3A1 Stuart
 us_m3a1_stuart_1;M3A1
 us_m3a1_stuart_2;Light tank
 us_m3a1_stuart_usmc_shop;M3A1 (USMC)
-us_m3a1_stuart_usmc_0;"Tank, Light, M3A1 Stuart (United States Marine Corps)"
+us_m3a1_stuart_usmc_0;Tank, Light, M3A1 Stuart (United States Marine Corps)
 us_m3a1_stuart_usmc_1;M3A1
 us_m3a1_stuart_usmc_2;Light tank
 us_lvt_a_1_shop;LVT(A)(1)
-us_lvt_a_1_0;"Landing Vehicle, Tracked (Armored) (Mk. 1)"
+us_lvt_a_1_0;Landing Vehicle, Tracked (Armored) (Mk. 1)
 us_lvt_a_1_1;LVT(A)(1)
 us_lvt_a_1_2;Light tank
 us_lvt_a_4_shop;LVT(A)(4)
-us_lvt_a_4_0;"Landing Vehicle, Tracked (Armored) (Mk. 4)"
+us_lvt_a_4_0;Landing Vehicle, Tracked (Armored) (Mk. 4)
 us_lvt_a_4_1;LVT(A)(4)
 us_lvt_a_4_2;Light tank
 us_lvt_a_1_trb_shop;○ LVT(A)(1)
-us_lvt_a_1_trb_0;"○ Landing Vehicle, Tracked (Armored) (Mk. 1)"
+us_lvt_a_1_trb_0;○ Landing Vehicle, Tracked (Armored) (Mk. 1)
 us_lvt_a_1_trb_1;○ LVT(A)(1)
 us_lvt_a_1_trb_2;Light tank
 us_lvt_4_zis_2_shop;▃ LVT(A)(4) (ZiS-2)
-us_lvt_4_zis_2_0;"▃ Landing Vehicle, Tracked (Armored) (Mk. 4) (ZiS-2)"
+us_lvt_4_zis_2_0;▃ Landing Vehicle, Tracked (Armored) (Mk. 4) (ZiS-2)
 us_lvt_4_zis_2_1;▃ LVT(A)(4)
 us_lvt_4_zis_2_2;Light tank
 us_m22_locust_shop;M22
-us_m22_locust_0;"Tank, Light, M22 Locust"
+us_m22_locust_0;Tank, Light, M22 Locust
 us_m22_locust_1;M22
 us_m22_locust_2;Light tank
 us_m22_locust_race_shop;M22
-us_m22_locust_race_0;"Tank, Light, M22 Locust"
+us_m22_locust_race_0;Tank, Light, M22 Locust
 us_m22_locust_race_1;M22
 us_m22_locust_race_2;Light tank
 us_halftrack_m13_shop;M13 MGMC
-us_halftrack_m13_0;"Carriage, Motor, Multiple Gun, M13"
+us_halftrack_m13_0;Carriage, Motor, Multiple Gun, M13
 us_halftrack_m13_1;M13
 us_halftrack_m13_2;SPAA
 us_halftrack_m15_shop;M15 CGMC
-us_halftrack_m15_0;"Carriage, Motor, Combination Gun, M15"
+us_halftrack_m15_0;Carriage, Motor, Combination Gun, M15
 us_halftrack_m15_1;M15
 us_halftrack_m15_2;SPAA
 us_m8_scott_shop;M8 HMC
@@ -2775,7 +2775,7 @@ us_m8_scott_0;"Carriage, Motor, 75mm Howitzer, M8 ""Scott"""
 us_m8_scott_1;M8 HMC
 us_m8_scott_2;SPG
 us_m8_greyhound_shop;M8 LAC
-us_m8_greyhound_0;"Car, Armored, Light, M8"
+us_m8_greyhound_0;Car, Armored, Light, M8
 us_m8_greyhound_1;M8
 us_m8_greyhound_2;Light tank
 us_m8a1_shop;M8A1 GMC
@@ -2783,7 +2783,7 @@ us_m8a1_0;"Carriage, Motor, 75mm Gun, M8A1 ""Scott"""
 us_m8a1_1;M8A1
 us_m8a1_2;Light tank
 us_halftrack_m3_75mm_gmc_shop;M3 GMC
-us_halftrack_m3_75mm_gmc_0;"Carriage, Motor, 75mm Gun, M3"
+us_halftrack_m3_75mm_gmc_0;Carriage, Motor, 75mm Gun, M3
 us_halftrack_m3_75mm_gmc_1;M3 GMC
 us_halftrack_m3_75mm_gmc_2;SPG
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2;
@@ -2791,84 +2791,84 @@ us_m5a1_stuart_shop;M5A1
 us_m5a1_stuart_0;"Tank, Light, M5A1 Stuart"
 us_m5a1_stuart_1;M5A1
 us_m5a1_stuart_2;Light tank
-us_m5a1_stuart_canadian_5st_arm_shop;"▃ Stuart, Mk. VI (5th Can.Arm.Div.)"
-us_m5a1_stuart_canadian_5st_arm_0;"▃ Tank, Light, Stuart, Mk. VI (5th Canadian Armoured Division)"
-us_m5a1_stuart_canadian_5st_arm_1;"▃ Stuart, Mk. VI"
+us_m5a1_stuart_canadian_5st_arm_shop;▃ Stuart, Mk. VI (5th Can.Arm.Div.)
+us_m5a1_stuart_canadian_5st_arm_0;▃ Tank, Light, Stuart, Mk. VI (5th Canadian Armoured Division)
+us_m5a1_stuart_canadian_5st_arm_1;▃ Stuart, Mk. VI
 us_m5a1_stuart_canadian_5st_arm_2;Light tank
 us_m5a1_stuart_td_shop;⋦ M5A1 (3rd T.Bat.)
-us_m5a1_stuart_td_0;"⋦ Tank, Light, M5A1 Stuart (3rd Tank Battalion)"
+us_m5a1_stuart_td_0;⋦ Tank, Light, M5A1 Stuart (3rd Tank Battalion)
 us_m5a1_stuart_td_1;⋦ M5A1
 us_m5a1_stuart_td_2;Light tank
 us_m24_chaffee_shop;M24
-us_m24_chaffee_0;"Tank, Light, M24 Chaffee"
+us_m24_chaffee_0;Tank, Light, M24 Chaffee
 us_m24_chaffee_1;M24
 us_m24_chaffee_2;Light tank
 us_m24_chaffee_tl_shop;╎ M24
-us_m24_chaffee_tl_0;"╎ Tank, Light, M24 Chaffee"
+us_m24_chaffee_tl_0;╎ Tank, Light, M24 Chaffee
 us_m24_chaffee_tl_1;╎ M24
 us_m24_chaffee_tl_2;Light tank
 us_m24_chaffee_tutorial_shop;M24
-us_m24_chaffee_tutorial_0;"Tank, Light, M24 Chaffee"
+us_m24_chaffee_tutorial_0;Tank, Light, M24 Chaffee
 us_m24_chaffee_tutorial_1;M24
 us_m24_chaffee_tutorial_2;Light tank
 us_m3_lee_shop;M3 MT
-us_m3_lee_0;"Tank, Medium, M3 Lee"
+us_m3_lee_0;Tank, Medium, M3 Lee
 us_m3_lee_1;M3
 us_m3_lee_2;Medium tank
-us_mk1_grant_shop;"▃ Grant, Mk. I"
-us_mk1_grant_0;"▃ Tank, Medium, Grant, Mk. I"
-us_mk1_grant_1;"▃ Grant, Mk. I"
+us_mk1_grant_shop;▃ Grant, Mk. I
+us_mk1_grant_0;▃ Tank, Medium, Grant, Mk. I
+us_mk1_grant_1;▃ Grant, Mk. I
 us_mk1_grant_2;▃ Cruiser tank
 us_m4a1_1942_sherman_shop;M4A1
-us_m4a1_1942_sherman_0;"Tank, Medium, M4A1 Sherman"
+us_m4a1_1942_sherman_0;Tank, Medium, M4A1 Sherman
 us_m4a1_1942_sherman_1;M4A1
 us_m4a1_1942_sherman_2;Medium tank
 us_m4_sherman_shop;M4
-us_m4_sherman_0;"Tank, Medium, M4 Sherman"
+us_m4_sherman_0;Tank, Medium, M4 Sherman
 us_m4_sherman_1;M4
 us_m4_sherman_2;Medium tank
 us_m4a2_sherman_shop;M4A2
-us_m4a2_sherman_0;"Tank, Medium, M4A2 Sherman"
+us_m4a2_sherman_0;Tank, Medium, M4A2 Sherman
 us_m4a2_sherman_1;M4A2
 us_m4a2_sherman_2;Medium tank
 us_m4a3_105_sherman_shop;M4A3 (105) HVSS
-us_m4a3_105_sherman_0;"Tank, Medium, M4A3 (105) HVSS Sherman"
+us_m4a3_105_sherman_0;Tank, Medium, M4A3 (105) HVSS Sherman
 us_m4a3_105_sherman_1;M4A3 (105)
 us_m4a3_105_sherman_2;Medium tank
 us_m4a1_76w_sherman_shop;M4A1 (76) W
-us_m4a1_76w_sherman_0;"Tank, Medium, M4A1 (76) W Sherman"
+us_m4a1_76w_sherman_0;Tank, Medium, M4A1 (76) W Sherman
 us_m4a1_76w_sherman_1;M4A1
 us_m4a1_76w_sherman_2;Medium tank
 us_m4a2_76w_sherman_shop;M4A2 (76) W
-us_m4a2_76w_sherman_0;"Tank, Medium, M4A2 (76) W Sherman"
+us_m4a2_76w_sherman_0;Tank, Medium, M4A2 (76) W Sherman
 us_m4a2_76w_sherman_1;M4A2
 us_m4a2_76w_sherman_2;Medium tank
 us_m4a3e8_76w_sherman_shop;M4A3E8 (76) W HVSS
-us_m4a3e8_76w_sherman_0;"Tank, Medium, M4A3E8 (76) W HVSS Sherman"
+us_m4a3e8_76w_sherman_0;Tank, Medium, M4A3E8 (76) W HVSS Sherman
 us_m4a3e8_76w_sherman_1;M4A3E8
 us_m4a3e8_76w_sherman_2;Medium tank
 us_m4a3e2_sherman_jumbo_shop;M4A3E2 (75) W
-us_m4a3e2_sherman_jumbo_0;"Tank, Medium, M4A3E2 (75) W"
+us_m4a3e2_sherman_jumbo_0;Tank, Medium, M4A3E2 (75) W
 us_m4a3e2_sherman_jumbo_1;M4A3E2
 us_m4a3e2_sherman_jumbo_2;Assault tank
 us_m4_t26_shop;M4 (M3)
-us_m4_t26_0;"Tank, Medium, M4 (M3)"
+us_m4_t26_0;Tank, Medium, M4 (M3)
 us_m4_t26_1;M4 (M3)
 us_m4_t26_2;Medium tank
 us_m4a3e2_76w_sherman_jumbo_shop;M4A3E2 (76) W
-us_m4a3e2_76w_sherman_jumbo_0;"Tank, Medium, M4A3E2 (76) W"
+us_m4a3e2_76w_sherman_jumbo_0;Tank, Medium, M4A3E2 (76) W
 us_m4a3e2_76w_sherman_jumbo_1;M4A3E2 (76) W
 us_m4a3e2_76w_sherman_jumbo_2;Assault tank
-us_m4a5_ram_2_shop;"▃ Ram, Mk. II (early)"
-us_m4a5_ram_2_0;"▃ Tank, Cruiser, Ram, Mk. II (early)"
-us_m4a5_ram_2_1;"▃ Ram, Mk. II"
+us_m4a5_ram_2_shop;▃ Ram, Mk. II (early)
+us_m4a5_ram_2_0;▃ Tank, Cruiser, Ram, Mk. II (early)
+us_m4a5_ram_2_1;▃ Ram, Mk. II
 us_m4a5_ram_2_2;Medium tank
 us_m4_sherman_promo_shop;◓ M4
-us_m4_sherman_promo_0;"◓ Tank, Medium, M4 Sherman"
+us_m4_sherman_promo_0;◓ Tank, Medium, M4 Sherman
 us_m4_sherman_promo_1;◓ M4
 us_m4_sherman_promo_2;Medium tank
 us_m4_sherman_calliope_shop;M4 (T34E1)
-us_m4_sherman_calliope_0;"Tank, Medium, M4 Sherman (T34E1)"
+us_m4_sherman_calliope_0;Tank, Medium, M4 Sherman (T34E1)
 us_m4_sherman_calliope_1;M4 (T34E1)
 us_m4_sherman_calliope_2;Medium tank
 us_m4a3e2_sherman_jumbo_cobra_king_shop;M4A3E2 (75) W (37th T.Bat.)
@@ -2876,19 +2876,19 @@ us_m4a3e2_sherman_jumbo_cobra_king_0;"Tank, Medium, M4A3E2 (75) W (37th Tank Bat
 us_m4a3e2_sherman_jumbo_cobra_king_1;M4A3E2
 us_m4a3e2_sherman_jumbo_cobra_king_2;Assault tank
 us_m4a2_76w_sherman_tutorial_shop;M4A2 (76) W
-us_m4a2_76w_sherman_tutorial_0;"Tank, Medium, M4A2 (76) W Sherman"
+us_m4a2_76w_sherman_tutorial_0;Tank, Medium, M4A2 (76) W Sherman
 us_m4a2_76w_sherman_tutorial_1;M4A2
 us_m4a2_76w_sherman_tutorial_2;Medium tank
 us_m4a2_1944_shop;M4A2 (1944)
-us_m4a2_1944_0;"Tank, Medium, M4A2 Sherman (1944)"
+us_m4a2_1944_0;Tank, Medium, M4A2 Sherman (1944)
 us_m4a2_1944_1;M4
 us_m4a2_1944_2;Medium tank
 us_halftrack_m16_shop;M16 MGMC
-us_halftrack_m16_0;"Carriage, Motor, Multiple Gun, M16"
+us_halftrack_m16_0;Carriage, Motor, Multiple Gun, M16
 us_halftrack_m16_1;M16
 us_halftrack_m16_2;SPAA
 us_m10_shop;M10 GMC
-us_m10_0;"Carriage, Motor, 3-inch Gun, M10"
+us_m10_0;Carriage, Motor, 3-inch Gun, M10
 us_m10_1;M10
 us_m10_2;TD
 us_t18_e2_shop;T18E2 HAC
@@ -2897,7 +2897,7 @@ us_t18_e2_1;T18E2
 us_t18_e2_2;Armored Car
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3;
 us_m18_hellcat_shop;M18 GMC
-us_m18_hellcat_0;"Carriage, Motor, 76mm Gun, M18"
+us_m18_hellcat_0;Carriage, Motor, 76mm Gun, M18
 us_m18_hellcat_1;M18
 us_m18_hellcat_2;Light tank
 us_m18_hellcat_black_cat_shop;M18 GMC (805th TD.Bat.)
@@ -2913,23 +2913,23 @@ us_m18_hellcat_black_cat_race_0;"""Racing"" M18"
 us_m18_hellcat_black_cat_race_1;"""Racing"" M18"
 us_m18_hellcat_black_cat_race_2;Light tank
 us_m6a1_shop;M6A1
-us_m6a1_0;"Tank, Heavy, M6A1"
+us_m6a1_0;Tank, Heavy, M6A1
 us_m6a1_1;M6A1
 us_m6a1_2;Heavy tank
 us_m6a2e1_shop;M6A2E1-1
-us_m6a2e1_0;"Tank, Heavy, M6A2E1-1"
+us_m6a2e1_0;Tank, Heavy, M6A2E1-1
 us_m6a2e1_1;M6A2E1
 us_m6a2e1_2;Heavy tank
 us_t1e1_shop;T1E1
-us_t1e1_0;"Tank, Heavy, T1E1"
+us_t1e1_0;Tank, Heavy, T1E1
 us_t1e1_1;T1E1
 us_t1e1_2;Heavy tank
 us_t1e1_90_shop;T1E1 (T7)
-us_t1e1_90_0;"Tank, Heavy, T1E1 (Gun, 90mm, T7)"
+us_t1e1_90_0;Tank, Heavy, T1E1 (Gun, 90mm, T7)
 us_t1e1_90_1;T1E1
 us_t1e1_90_2;Heavy tank
 us_m19_shop;M19A1
-us_m19_0;"Carriage, Motor, Twin 40mm Gun, M19A1"
+us_m19_0;Carriage, Motor, Twin 40mm Gun, M19A1
 us_m19_1;M19A1
 us_m19_2;SPAA
 us_m42_duster_shop;M42
@@ -2954,11 +2954,11 @@ us_t55e1_1;T55E1 GMC
 us_t55e1_2;SPG
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4;
 us_m41_walker_bulldog_shop;M41A1
-us_m41_walker_bulldog_0;"Tank, Combat, Full Tracked: 76mm Gun, M41A1 Walker Bulldog"
+us_m41_walker_bulldog_0;Tank, Combat, Full Tracked: 76mm Gun, M41A1 Walker Bulldog
 us_m41_walker_bulldog_1;M41A1
 us_m41_walker_bulldog_2;Light tank
 us_t92_shop;T92
-us_t92_0;"Tank, Combat, Full Tracked: 76mm Gun, T92"
+us_t92_0;Tank, Combat, Full Tracked: 76mm Gun, T92
 us_t92_1;T92
 us_t92_2;Light tank
 us_t25_shop;T25
@@ -2986,7 +2986,7 @@ us_m46_patton_0;Medium Tank M46 Patton
 us_m46_patton_1;M46
 us_m46_patton_2;Medium tank
 us_m46_patton_73_armor_bat_shop;M46 (73rd T.Bat.)
-us_m46_patton_73_armor_bat_0;"Tank, Medium, M46 Patton (73rd Tank Batalion)"
+us_m46_patton_73_armor_bat_0;Tank, Medium, M46 Patton (73rd Tank Batalion)
 us_m46_patton_73_armor_bat_1;M46
 us_m46_patton_73_armor_bat_2;Medium tank
 us_t26e5_shop;T26E5
@@ -3002,7 +3002,7 @@ us_t34_0;Heavy Tank T34
 us_t34_1;T34
 us_t34_2;Heavy tank
 us_m109a1_shop;M109A1
-us_m109a1_0;"Howitzer, Medium, Self-Propelled, 155mm, M109A1"
+us_m109a1_0;Howitzer, Medium, Self-Propelled, 155mm, M109A1
 us_m109a1_1;M109A1
 us_m109a1_2;SPG
 us_m56_scorpion_shop;M56
@@ -3010,7 +3010,7 @@ us_m56_scorpion_0;"Gun, Self-Propelled, Full Tracked: 90mm Gun, M56 ""Scorpion""
 us_m56_scorpion_1;M56
 us_m56_scorpion_2;SPG
 us_m50_ontos_shop;M50
-us_m50_ontos_0;"Rifle, Multiple, 106 mm, Self-Propelled, M50"
+us_m50_ontos_0;Rifle, Multiple, 106 mm, Self-Propelled, M50
 us_m50_ontos_1;M50
 us_m50_ontos_2;SPG
 us_t20_shop;T20
@@ -3030,11 +3030,11 @@ us_t29_0;Heavy Tank T29
 us_t29_1;T29
 us_t29_2;Heavy tank
 us_m551_76_shop;M551 (M32A1)
-us_m551_76_0;"Cadillac Motor Car Division | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 76mm Gun, M551 Sheridan"
+us_m551_76_0;Cadillac Motor Car Division | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 76mm Gun, M551 Sheridan
 us_m551_76_1;M551 (M32A1)
 us_m551_76_2;Light tank
 us_m551_shop;M551
-us_m551_0;"Cadillac Motor Car Division | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 152mm Gun-Launcher, M551 Sheridan"
+us_m551_0;Cadillac Motor Car Division | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 152mm Gun-Launcher, M551 Sheridan
 us_m551_1;M551
 us_m551_2;Light tank
 us_t30_shop;T30
@@ -3055,31 +3055,31 @@ us_xm_800t_0;Armored Reconnaissance Scout Vehicle XM800T
 us_xm_800t_1;XM800T
 us_xm_800t_2;Light tank
 us_m47_patton_II_shop;M47
-us_m47_patton_II_0;"Tank, Combat, Full Tracked: 90mm Gun, M47 Patton II"
+us_m47_patton_II_0;Tank, Combat, Full Tracked: 90mm Gun, M47 Patton II
 us_m47_patton_II_1;M47
 us_m47_patton_II_2;Medium tank
 us_m48a1_patton_III_shop;M48A1
-us_m48a1_patton_III_0;"Tank, Combat, Full Tracked: 90mm Gun, M48A1"
+us_m48a1_patton_III_0;Tank, Combat, Full Tracked: 90mm Gun, M48A1
 us_m48a1_patton_III_1;M48
 us_m48a1_patton_III_2;Medium tank
 us_m60_shop;M60
-us_m60_0;"Tank, Combat, Full Tracked: 105mm Gun, M60"
+us_m60_0;Tank, Combat, Full Tracked: 105mm Gun, M60
 us_m60_1;M60
 us_m60_2;MBT
 us_m60a1_shop;M60A1 AOS
-us_m60a1_0;"Tank, Combat, Full Tracked: 105mm Gun, M60A1 Add-On Stabilizer"
+us_m60a1_0;Tank, Combat, Full Tracked: 105mm Gun, M60A1 Add-On Stabilizer
 us_m60a1_1;M60A1
 us_m60a1_2;MBT
 us_m60a1_rise_passive_era_shop;M60A1 R/PE
-us_m60a1_rise_passive_era_0;"Tank, Combat, Full Tracked: 105mm Gun, M60A1 Reliability Improvement of Selected Equipment / Passive"
+us_m60a1_rise_passive_era_0;Tank, Combat, Full Tracked: 105mm Gun, M60A1 Reliability Improvement of Selected Equipment / Passive
 us_m60a1_rise_passive_era_1;M60A1
 us_m60a1_rise_passive_era_2;MBT
 us_m60a3_tts_shop;M60A3 TTS
-us_m60a3_tts_0;"Tank, Combat, Full Tracked: 105mm Gun, M60A3 Tank Thermal Sight"
+us_m60a3_tts_0;Tank, Combat, Full Tracked: 105mm Gun, M60A3 Tank Thermal Sight
 us_m60a3_tts_1;M60A3
 us_m60a3_tts_2;MBT
 us_m60a2_shop;M60A2
-us_m60a2_0;"Tank, Combat, Full Tracked: 152mm Gun-Launcher"
+us_m60a2_0;Tank, Combat, Full Tracked: 152mm Gun-Launcher, M60A2
 us_m60a2_1;M60A2
 us_m60a2_2;Medium tank
 us_m60a3_slep_shop;☪ M60 AMBT
@@ -3087,35 +3087,35 @@ us_m60a3_slep_0;☪ StandartBio / L3 Combat Propulsion Systems | M60 Affordable 
 us_m60a3_slep_1;☪ M60 AMBT
 us_m60a3_slep_2;MBT
 us_t32_shop;T32
-us_t32_0;"Tank, Heavy, T32"
+us_t32_0;Tank, Heavy, T32
 us_t32_1;T32
 us_t32_2;Heavy tank
 us_t32e1_shop;T32E1
-us_t32e1_0;"Tank, Heavy, T32E1"
+us_t32e1_0;Tank, Heavy, T32E1
 us_t32e1_1;T32E1
 us_t32e1_2;Heavy tank
 us_t32_tutorial_shop;T32
-us_t32_tutorial_0;"Tank, Heavy, T32"
+us_t32_tutorial_0;Tank, Heavy, T32
 us_t32_tutorial_1;T32
 us_t32_tutorial_2;Heavy tank
 us_m103_shop;M103
-us_m103_0;"Tank, Combat, Full Tracked: 120mm Gun, M103"
+us_m103_0;Tank, Combat, Full Tracked: 120mm Gun, M103
 us_m103_1;M103
 us_m103_2;Heavy tank
 us_m163_vulcan_shop;M163
-us_m163_vulcan_0;"Gun, Air Defence Artillery, Self-Propelled: 20 mm, M163"
+us_m163_vulcan_0;Gun, Air Defence Artillery, Self-Propelled: 20 mm, M163
 us_m163_vulcan_1;M163
 us_m163_vulcan_2;SPAA
 us_m728_shop;M728 CEV
-us_m728_0;"Vehicle, Combat Engineer, Full Tracked: 165mm Gun, M728"
+us_m728_0;Vehicle, Combat Engineer, Full Tracked: 165mm Gun, M728
 us_m728_1;M728
 us_m728_2;MBT
 us_t54e2_shop;T54E2
-us_t54e2_0;"Tank, Combat, Full Tracked: 105mm Gun, T54E2"
+us_t54e2_0;Tank, Combat, Full Tracked: 105mm Gun, T54E2
 us_t54e2_1;T54E2
 us_t54e2_2;Medium tank
 us_t54e1_shop;T54E1
-us_t54e1_0;"Tank, Combat, Full Tracked: 105mm Gun, T54E1"
+us_t54e1_0;Tank, Combat, Full Tracked: 105mm Gun, T54E1
 us_t54e1_1;T54E1
 us_t54e1_2;Medium tank
 us_t114_shop;T114
@@ -3128,43 +3128,43 @@ us_magach_3_1;▃ Magach 3
 us_magach_3_2;MBT
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6;
 us_m3_bradley_shop;M3 CFV
-us_m3_bradley_0;"Fighting Vehicle, Cavalry, Full Tracked, M3 Bradley"
+us_m3_bradley_0;Fighting Vehicle, Cavalry, Full Tracked, M3 Bradley
 us_m3_bradley_1;M3 CFV
 us_m3_bradley_2;Light tank
 us_m3a3_bradley_shop;M3A3 CFV
-us_m3a3_bradley_0;"Fighting Vehicle, Cavalry, Full Tracked, M3A3 Bradley"
+us_m3a3_bradley_0;Fighting Vehicle, Cavalry, Full Tracked, M3A3 Bradley
 us_m3a3_bradley_1;M3A3 CFV
 us_m3a3_bradley_2;Light tank
 us_t95e1_shop;T95E1
-us_t95e1_0;"Tank, Combat, Full Tracked: 90mm Gun, T95E1"
+us_t95e1_0;Tank, Combat, Full Tracked: 90mm Gun, T95E1
 us_t95e1_1;T95E1
 us_t95e1_2;Medium tank
 us_xm_803_shop;XM803
-us_xm_803_0;"Tank, Combat, Full Tracked: 152mm Gun-Launcher, XM803"
+us_xm_803_0;Tank, Combat, Full Tracked: 152mm Gun-Launcher, XM803
 us_xm_803_1;XM803
 us_xm_803_2;MBT
 us_mbt_70_shop;MBT70
-us_mbt_70_0;"Main Battle Tank, Armored, Full Tracked, 152mm, MBT70"
+us_mbt_70_0;Main Battle Tank, Armored, Full Tracked, 152mm, MBT70
 us_mbt_70_1;MBT70
 us_mbt_70_2;MBT
 us_m247_shop;M247
-us_m247_0;"Gun, Air Defence Artillery, Self-Propelled, 40 mm, M247 Sergeant York"
+us_m247_0;Gun, Air Defence Artillery, Self-Propelled, 40 mm, M247 Sergeant York
 us_m247_1;M247
 us_m247_2;SPAA
 us_mim_72_chaparral_shop;M48A2 GMS
-us_mim_72_chaparral_0;"Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2"
+us_mim_72_chaparral_0;Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2
 us_mim_72_chaparral_1;M48 GMS
 us_mim_72_chaparral_2;SPAA
 us_m901_itv_shop;M901
-us_m901_itv_0;"Combat Vehicle, Anti-tank, Improved TOW Vehicle, M901"
+us_m901_itv_0;Combat Vehicle, Anti-tank, Improved TOW Vehicle, M901
 us_m901_itv_1;M901
 us_m901_itv_2;SPG
 us_xm1_chrysler_shop;XM1 (C)
-us_xm1_chrysler_0;"Chrysler Defense | Tank, Combat, Full Tracked: 105mm Gun, XM1"
+us_xm1_chrysler_0;Chrysler Defense | Tank, Combat, Full Tracked: 105mm Gun, XM1
 us_xm1_chrysler_1;XM1
 us_xm1_chrysler_2;MBT
 us_xm1_gm_shop;XM1 (GM)
-us_xm1_gm_0;"General Motors Defense | Tank, Combat, Full Tracked: 105mm Gun, XM1"
+us_xm1_gm_0;General Motors Defense | Tank, Combat, Full Tracked: 105mm Gun, XM1
 us_xm1_gm_1;XM1
 us_xm1_gm_2;MBT
 us_merkava_mk_1_shop;▃ Merkava Mk. 1
@@ -3180,7 +3180,7 @@ us_merkava_mk_3d_0;▃ Merkava Siman 3 Dor Dalet Baz Kasag
 us_merkava_mk_3d_1;▃ Merkava Mk. 3
 us_merkava_mk_3d_2;MBT
 us_xm_8_shop;XM8 AGS
-us_xm_8_0;"105mm Armored Gun System, XM8"
+us_xm_8_0;105mm Armored Gun System, XM8
 us_xm_8_1;XM8
 us_xm_8_2;Light tank
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7;
@@ -3193,43 +3193,43 @@ us_m60_120s_0;General Dynamics Land Systems 120S Main Battle Tank
 us_m60_120s_1;120S
 us_m60_120s_2;MBT
 us_m1a1_hc_abrams_shop;M1A1HC
-us_m1a1_hc_abrams_0;"General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun M1A1HC"
+us_m1a1_hc_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun M1A1HC
 us_m1a1_hc_abrams_1;M1A1
 us_m1a1_hc_abrams_2;MBT
 us_m1_abrams_shop;M1
-us_m1_abrams_0;"General Dynamics Land Systems | Tank, Combat, Full Tracked: 105mm Gun, M1 Abrams"
+us_m1_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 105mm Gun, M1 Abrams
 us_m1_abrams_1;M1
 us_m1_abrams_2;MBT
 us_m1a1_abrams_shop;M1A1
-us_m1a1_abrams_0;"General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams"
+us_m1a1_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams
 us_m1a1_abrams_1;M1A1
 us_m1a1_abrams_2;MBT
 us_m1_ip_abrams_shop;M1IP
-us_m1_ip_abrams_0;"General Dynamics Land Systems | Tank, Combat, Full Tracked: 105mm Gun, M1 Abrams, Improved Performance"
+us_m1_ip_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 105mm Gun, M1 Abrams, Improved Performance
 us_m1_ip_abrams_1;M1IP
 us_m1_ip_abrams_2;MBT
 us_m1a2_abrams_shop;M1A2
-us_m1a2_abrams_0;"General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams"
+us_m1a2_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams
 us_m1a2_abrams_1;M1A2
 us_m1a2_abrams_2;MBT
 us_m1a2_sep_abrams_shop;M1A2 SEP (TUSK 1)
-us_m1a2_sep_abrams_0;"General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package, Tank Urban Survival Kit 1"
+us_m1a2_sep_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package, Tank Urban Survival Kit 1
 us_m1a2_sep_abrams_1;M1A2
 us_m1a2_sep_abrams_2;MBT
 us_m1a2_sep2_abrams_shop;M1A2 SEPv2 (TUSK 2)
-us_m1a2_sep2_abrams_0;"General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package Version 2, Tank Urban Survival Kit 2"
+us_m1a2_sep2_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package Version 2, Tank Urban Survival Kit 2
 us_m1a2_sep2_abrams_1;M1A2
 us_m1a2_sep2_abrams_2;MBT
 us_m1_abrams_kvt_shop;M1 (KVT)
-us_m1_abrams_kvt_0;"General Dynamics Land Systems | Tank, Combat, Full Tracked: 105mm Gun, M1 Abrams (Krasnovian Variant Tank)"
+us_m1_abrams_kvt_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 105mm Gun, M1 Abrams (Krasnovian Variant Tank)
 us_m1_abrams_kvt_1;M1
 us_m1_abrams_kvt_2;MBT
 us_m1a1_abrams_yt_cup_2019_shop;␙ M1A1
-us_m1a1_abrams_yt_cup_2019_0;"␙ General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams"
+us_m1a1_abrams_yt_cup_2019_0;␙ General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams
 us_m1a1_abrams_yt_cup_2019_1;␙ M1A1
 us_m1a1_abrams_yt_cup_2019_2;MBT
 us_m1a1_aim_abrams_shop;M1A1AIM SA
-us_m1a1_aim_abrams_0;"General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams Integrated Management, Situational Awareness"
+us_m1a1_aim_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams Integrated Management, Situational Awareness
 us_m1a1_aim_abrams_1;M1A1AIM SA
 us_m1a1_aim_abrams_2;MBT
 us_m1a1_hc_usmc_shop;"M1A1HC ""Click-Bait"""
@@ -3241,15 +3241,15 @@ us_lav_ad_0;Light Armored Vehicle - Air Defense
 us_lav_ad_1;LAV-AD
 us_lav_ad_2;SPAA
 us_xm_975_roland_shop;M975 ADMS
-us_xm_975_roland_0;"Carrier, Air Defense Missile System, M975"
+us_xm_975_roland_0;Carrier, Air Defense Missile System, M975
 us_xm_975_roland_1;M975
 us_xm_975_roland_2;SPAA
 us_m1128_mgs_shop;M1128 MGS
-us_m1128_mgs_0;"Mobile Gun System, M1128 Stryker"
+us_m1128_mgs_0;Mobile Gun System, M1128 Stryker
 us_m1128_mgs_1;M1128
 us_m1128_mgs_2;Light tank
 us_m1128_wolfpack_shop;M1128 MGS (3rd Sqd. 2nd Cav.Reg.)
-us_m1128_wolfpack_0;"Mobile Gun System, M1128 Stryker (3rd Squadron 2nd Cavalry Regiment)"
+us_m1128_wolfpack_0;Mobile Gun System, M1128 Stryker (3rd Squadron 2nd Cavalry Regiment)
 us_m1128_wolfpack_1;M1128
 us_m1128_wolfpack_2;Light tank
 us_ccvl_shop;CCVL
@@ -3271,44 +3271,44 @@ us_adats_bradley_1;XM1069
 us_adats_bradley_2;SPAA
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1;
 us_pt6_shop;PT-6
-us_pt6_0;"Higgins 81 ft motor torpedo boat, USS PT-6"
+us_pt6_0;Higgins 81 ft motor torpedo boat, USS PT-6
 us_pt6_1;PT-6
 us_pt6_2;Motor Torpedo Boat
 us_nasty_ptf_shop;PTF-7
-us_nasty_ptf_0;"80 ft Nasty-class fast torpedo boat, USS PTF-7"
+us_nasty_ptf_0;80 ft Nasty-class fast torpedo boat, USS PTF-7
 us_nasty_ptf_1;PTF-7
 us_nasty_ptf_2;Motor Gun Boat
 us_elco_77ft_pt20_shop;PT-20
-us_elco_77ft_pt20_0;"Elco 77 ft motor morpedo boat, USS PT-20"
+us_elco_77ft_pt20_0;Elco 77 ft motor morpedo boat, USS PT-20
 us_elco_77ft_pt20_1;PT-20
 us_elco_77ft_pt20_2;Motor Torpedo Boat
 us_pt3_shop;PT-3
-us_pt3_0;"58 ft Experimental motor torpedo boat, USS PT-3"
+us_pt3_0;58 ft Experimental motor torpedo boat, USS PT-3
 us_pt3_1;PT-3
 us_pt3_2;Motor Torpedo Boat
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 2;
 us_elco_80ft_pt_boat_shop;PT-103
-us_elco_80ft_pt_boat_0;"Elco 80 ft motor torpedo boat, USS PT-103"
+us_elco_80ft_pt_boat_0;Elco 80 ft motor torpedo boat, USS PT-103
 us_elco_80ft_pt_boat_1;PT-103
 us_elco_80ft_pt_boat_2;Motor Torpedo Boat
 us_higgins_78ft_pt71_shop;PT-71
-us_higgins_78ft_pt71_0;"Higgins 78 ft motor torpedo boat, USS PT-71"
+us_higgins_78ft_pt71_0;Higgins 78 ft motor torpedo boat, USS PT-71
 us_higgins_78ft_pt71_1;PT-71
 us_higgins_78ft_pt71_2;Motor Torpedo Boat
 us_pc_451_shop;PC-497
-us_pc_451_0;"Experimental PC-451-class submarine chaser, USS PC-497"
+us_pc_451_0;Experimental PC-451-class submarine chaser, USS PC-497
 us_pc_451_1;PC-497
 us_pc_451_2;Gunboat
 us_sc_497_shop;SC-497
-us_sc_497_0;"110 ft SC-497-class submarine chaser, USS SC-497 (1945)"
+us_sc_497_0;110 ft SC-497-class submarine chaser, USS SC-497 (1945)
 us_sc_497_1;SC-497
 us_sc_497_2;Gunboat
 us_pc_466_carmi_shop;PC-466
-us_pc_466_carmi_0;"173 ft PC-461-class submarine chaser, USS PC-466"
+us_pc_466_carmi_0;173 ft PC-461-class submarine chaser, USS PC-466
 us_pc_466_carmi_1;PC-466
 us_pc_466_carmi_2;Gunboat
 us_elco_80ft_pt174_shop;PT-174
-us_elco_80ft_pt174_0;"Elco 80 ft motor torpedo boat, USS PT-174"
+us_elco_80ft_pt174_0;Elco 80 ft motor torpedo boat, USS PT-174
 us_elco_80ft_pt174_1;PT-174
 us_elco_80ft_pt174_2;Motor Torpedo Boat
 us_elco_80ft_pt109_boat_shop;PT-109
@@ -3317,23 +3317,23 @@ us_elco_80ft_pt109_boat_1;PT-109
 us_elco_80ft_pt109_boat_2;Motor Torpedo Boat
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 3;
 us_elco_80ft_pt_boat_mod01_shop;PT-314
-us_elco_80ft_pt_boat_mod01_0;"Elco 80 ft motor torpedo boat, USS PT-314"
+us_elco_80ft_pt_boat_mod01_0;Elco 80 ft motor torpedo boat, USS PT-314
 us_elco_80ft_pt_boat_mod01_1;PT-314
 us_elco_80ft_pt_boat_mod01_2;Motor Torpedo Boat
 us_elco_80ft_pt_boat_mod02_shop;PT-565
-us_elco_80ft_pt_boat_mod02_0;"Elco 80 ft motor torpedo boat, USS PT-565"
+us_elco_80ft_pt_boat_mod02_0;Elco 80 ft motor torpedo boat, USS PT-565
 us_elco_80ft_pt_boat_mod02_1;PT-565
 us_elco_80ft_pt_boat_mod02_2;Motor Torpedo Boat
 us_higgins_78ft_pt625_shop;PT-625
-us_higgins_78ft_pt625_0;"Higgins 78 ft motor torpedo boat, USS PT-625"
+us_higgins_78ft_pt625_0;Higgins 78 ft motor torpedo boat, USS PT-625
 us_higgins_78ft_pt625_1;PT-625
 us_higgins_78ft_pt625_2;Motor Torpedo Boat
 us_elco_77ft_pt59_shop;PT-59
-us_elco_77ft_pt59_0;"Elco 77 ft motor torpedo boat, USS PT-59"
+us_elco_77ft_pt59_0;Elco 77 ft motor torpedo boat, USS PT-59
 us_elco_77ft_pt59_1;PT-59
 us_elco_77ft_pt59_2;Motor Gun Boat
 us_pgm_59_class_shop;Kim Qui (HQ 605)
-us_pgm_59_class_0;"PGM-59-class motor gun boat, Kim Qui (HQ 605)"
+us_pgm_59_class_0;PGM-59-class motor gun boat, Kim Qui (HQ 605)
 us_pgm_59_class_1;Kim Qui (HQ 605)
 us_pgm_59_class_2;Gunboat
 us_lcm_zippo_shop;LCM(6)(F)
@@ -3341,11 +3341,11 @@ us_lcm_zippo_0;"Landing Craft, Mechanized, (Mk. 6) (Flamethrower) ""Zippo"""
 us_lcm_zippo_1;LCM(6)(F)
 us_lcm_zippo_2;Gunboat
 us_elco_80ft_pt_boat_thunderbolt_shop;PT-556
-us_elco_80ft_pt_boat_thunderbolt_0;"Elco 80 ft motor torpedo boat, USS PT-556"
-us_elco_80ft_pt_boat_thunderbolt_1;"PT-556 ""Thunderbolt"""
+us_elco_80ft_pt_boat_thunderbolt_0;Elco 80 ft motor torpedo boat, USS PT-556
+us_elco_80ft_pt_boat_thunderbolt_1;PT-556
 us_elco_80ft_pt_boat_thunderbolt_2;Motor Torpedo Boat
 us_higgins_78ft_pt658_shop;PT-658
-us_higgins_78ft_pt658_0;"Higgins 78 ft motor torpedo boat, USS PT-658"
+us_higgins_78ft_pt658_0;Higgins 78 ft motor torpedo boat, USS PT-658
 us_higgins_78ft_pt658_1;PT-658
 us_higgins_78ft_pt658_2;Motor Torpedo Boat
 us_flagstaff_pgh1_shop;USS Flagstaff (PGH-1)
@@ -3354,226 +3354,226 @@ us_flagstaff_pgh1_1;USS Flagstaff
 us_flagstaff_pgh1_2;Motor gun boat
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 4;
 us_tucumcari_pgh2_shop;USS Tucumcari (PGH-2)
-us_tucumcari_pgh2_0;"Experimental Tucumcari-class patrol gunboat, USS Tucumcari (PGH-2)"
+us_tucumcari_pgh2_0;Experimental Tucumcari-class patrol gunboat, USS Tucumcari (PGH-2)
 us_tucumcari_pgh2_1;USS Tucumcari (PGH-2)
 us_tucumcari_pgh2_2;Gunboat
 us_pt812_shop;PT-812
-us_pt812_0;"105 ft aluminum motor torpedo boat, USS PT-812"
+us_pt812_0;105 ft aluminum motor torpedo boat, USS PT-812
 us_pt812_1;PT-812
 us_pt812_2;Motor Gun Boat
 us_admirable_class_shop;USS Candid (AM-154)
-us_admirable_class_0;"Admirable-class minesweeper, USS Candid (AM-154)"
+us_admirable_class_0;Admirable-class minesweeper, USS Candid (AM-154)
 us_admirable_class_1;USS Candid
 us_admirable_class_2;Gunboat
 us_ashville_class_shop;USS Asheville (PGM-84)
-us_ashville_class_0;"Asheville-class gunboat, USS Asheville (PGM-84)"
+us_ashville_class_0;Asheville-class gunboat, USS Asheville (PGM-84)
 us_ashville_class_1;USS Asheville
 us_ashville_class_2;Gunboat
 us_pt811_shop;PT-811
-us_pt811_0;"94 ft aluminum motor torpedo boat, USS PT-811"
+us_pt811_0;94 ft aluminum motor torpedo boat, USS PT-811
 us_pt811_1;PT-811
 us_pt811_2;Motor Torpedo Boat
 us_ashville_class_douglas_shop;USS Douglas (PGM-100)
-us_ashville_class_douglas_0;"Asheville-class gunboat, USS Douglas (PGM-100)"
+us_ashville_class_douglas_0;Asheville-class gunboat, USS Douglas (PGM-100)
 us_ashville_class_douglas_1;USS Douglas
 us_ashville_class_douglas_2;Gunboat
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 5;
 us_pt810_shop;PT-810
-us_pt810_0;"94 ft aluminum motor torpedo boat, USS PT-810"
+us_pt810_0;94 ft aluminum motor torpedo boat, USS PT-810
 us_pt810_1;PT-810
 us_pt810_2;Motor Torpedo Boat
 us_frigate_tacoma_shop;USS Hoquiam (PF-5)
-us_frigate_tacoma_0;"Tacoma-class frigate, USS Hoquiam (PF-5)"
+us_frigate_tacoma_0;Tacoma-class frigate, USS Hoquiam (PF-5)
 us_frigate_tacoma_1;USS Hoquiam
 us_frigate_tacoma_2;Frigate
 us_frigate_tacoma_sub_event_shop;USS Hoquiam (PF-5)
-us_frigate_tacoma_sub_event_0;"Tacoma-class frigate, USS Hoquiam (PF-5)"
+us_frigate_tacoma_sub_event_0;Tacoma-class frigate, USS Hoquiam (PF-5)
 us_frigate_tacoma_sub_event_1;USS Hoquiam
 us_frigate_tacoma_sub_event_2;Frigate
 us_frigate_dealey_shop;USS Dealey (DE-1006)
-us_frigate_dealey_0;"Dealey-class, USS Dealey (DE-1006)"
+us_frigate_dealey_0;Dealey-class, USS Dealey (DE-1006)
 us_frigate_dealey_1;USS Dealey
 us_frigate_dealey_2;Frigate
 us_lcs_l_3_shop;LCS(L)(3)-1
-us_lcs_l_3_0;"Landing Craft Support (Large) (Mk. 3), USS LCS(L)(3)-1"
+us_lcs_l_3_0;Landing Craft Support (Large) (Mk. 3), USS LCS(L)(3)-1
 us_lcs_l_3_1;LCS(L)(3)-1
 us_lcs_l_3_2;Gunboat
 us_cyclone_class_cyclone_shop;USS Cyclone (PC-1)
-us_cyclone_class_cyclone_0;"Cyclone-class patrol boat, USS Cyclone (PC-1)"
+us_cyclone_class_cyclone_0;Cyclone-class patrol boat, USS Cyclone (PC-1)
 us_cyclone_class_cyclone_1;USS Cyclone (PC-1)
 us_cyclone_class_cyclone_2;Gunboat
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1;
 us_destroyer_clemson_litchfield_shop;USS Litchfield (DD-336)
-us_destroyer_clemson_litchfield_0;"Clemson-class, USS Litchfield (DD-336), 1936"
+us_destroyer_clemson_litchfield_0;Clemson-class, USS Litchfield (DD-336), 1936
 us_destroyer_clemson_litchfield_1;USS Litchfield
 us_destroyer_clemson_litchfield_2;Destroyer
 us_destroyer_clemson_barker_shop;USS Barker (DD-213)
-us_destroyer_clemson_barker_0;"Clemson-class, USS Barker (DD-213), 1942"
+us_destroyer_clemson_barker_0;Clemson-class, USS Barker (DD-213), 1942
 us_destroyer_clemson_barker_1;USS Barker (DD-213)
 us_destroyer_clemson_barker_2;Destroyer
 us_destroyer_clemson_welborn_c_wood_shop;USS Welborn C. Wood (DD-195)
-us_destroyer_clemson_welborn_c_wood_0;"Clemson-class, USS Welborn C. Wood (DD-195), 1936"
+us_destroyer_clemson_welborn_c_wood_0;Clemson-class, USS Welborn C. Wood (DD-195), 1936
 us_destroyer_clemson_welborn_c_wood_1;USS Welborn C. Wood (DD-195)
 us_destroyer_clemson_welborn_c_wood_2;Destroyer
 us_destroyer_farragut_1942_shop;USS Aylwin (DD-355)
-us_destroyer_farragut_1942_0;"Farragut-class, USS Aylwin (DD-355), 1942"
+us_destroyer_farragut_1942_0;Farragut-class, USS Aylwin (DD-355), 1942
 us_destroyer_farragut_1942_1;USS Aylwin (DD-355)
 us_destroyer_farragut_1942_2;Destroyer
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2;
 us_destroyer_sumner_shop;USS Allan M. Sumner (DD-692)
-us_destroyer_sumner_0;"Allan M. Sumner-class, USS Allan M. Sumner (DD-692), 1944"
+us_destroyer_sumner_0;Allan M. Sumner-class, USS Allan M. Sumner (DD-692), 1944
 us_destroyer_sumner_1;USS Allan M. Sumner (DD-692)
 us_destroyer_sumner_2;Destroyer
 us_destroyer_gearing_shop;USS Gearing (DD-710)
-us_destroyer_gearing_0;"Gearing-class, USS Gearing (DD-710), 1945"
+us_destroyer_gearing_0;Gearing-class, USS Gearing (DD-710), 1945
 us_destroyer_gearing_1;USS Gearing (DD-710)
 us_destroyer_gearing_2;Destroyer
 us_destroyer_gearing_frank_knox_shop;USS Frank Knox (DD-742)
-us_destroyer_gearing_frank_knox_0;"Gearing-class, Frank Knox (DD-742), 1944"
+us_destroyer_gearing_frank_knox_0;Gearing-class, Frank Knox (DD-742), 1944
 us_destroyer_gearing_frank_knox_1;USS Frank Knox
 us_destroyer_gearing_frank_knox_2;Destroyer
 us_destroyer_fletcher_shop;USS Fletcher (DD-445)
-us_destroyer_fletcher_0;"Fletcher-class, USS Fletcher (DD-445), 1942"
+us_destroyer_fletcher_0;Fletcher-class, USS Fletcher (DD-445), 1942
 us_destroyer_fletcher_1;USS Fletcher (DD-445)
 us_destroyer_fletcher_2;Destroyer
 us_destroyer_fletcher_cowell_shop;USS Cowell (DD-547)
-us_destroyer_fletcher_cowell_0;"Fletcher-class, USS Cowell (DD-547), 1943"
+us_destroyer_fletcher_cowell_0;Fletcher-class, USS Cowell (DD-547), 1943
 us_destroyer_fletcher_cowell_1;USS Cowell (DD-547)
 us_destroyer_fletcher_cowell_2;Destroyer
 us_destroyer_fletcher_bennion_shop;USS Bennion (DD-662)
-us_destroyer_fletcher_bennion_0;"Fletcher-class, USS Bennion (DD-662), 1944"
+us_destroyer_fletcher_bennion_0;Fletcher-class, USS Bennion (DD-662), 1944
 us_destroyer_fletcher_bennion_1;USS Bennion (DD-662)
 us_destroyer_fletcher_bennion_2;Destroyer
 us_destroyer_mitscher_shop;USS Mitscher (DL-2)
-us_destroyer_mitscher_0;"Mitscher-class, USS Mitscher (DL-2), 1954"
+us_destroyer_mitscher_0;Mitscher-class, USS Mitscher (DL-2), 1954
 us_destroyer_mitscher_1;USS Mitscher (DL-2)
 us_destroyer_mitscher_2;Destroyer
 us_destroyer_mitscher_wilkinson_shop;USS Wilkinson (DL-5)
-us_destroyer_mitscher_wilkinson_0;"Mitscher-class, USS Wilkinson (DL-5), 1958"
+us_destroyer_mitscher_wilkinson_0;Mitscher-class, USS Wilkinson (DL-5), 1958
 us_destroyer_mitscher_wilkinson_1;USS Wilkinson (DL-5)
 us_destroyer_mitscher_wilkinson_2;Destroyer
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3;
 us_destroyer_porter_1941_shop;USS Porter (DD-356)
-us_destroyer_porter_1941_0;"Porter-class, USS Porter (DD-356), 1941"
+us_destroyer_porter_1941_0;Porter-class, USS Porter (DD-356), 1941
 us_destroyer_porter_1941_1;USS Porter (DD-356)
 us_destroyer_porter_1941_2;Destroyer
 us_destroyer_porter_1942_shop;USS Moffett (DD-362)
-us_destroyer_porter_1942_0;"Porter-class, USS Moffett (DD-362), 1942"
+us_destroyer_porter_1942_0;Porter-class, USS Moffett (DD-362), 1942
 us_destroyer_porter_1942_1;USS Moffett (DD-362)
 us_destroyer_porter_1942_2;Destroyer
 us_destroyer_porter_1944_shop;USS Phelps (DD-360)
-us_destroyer_porter_1944_0;"Porter-class, USS Phelps (DD-360), 1944"
+us_destroyer_porter_1944_0;Porter-class, USS Phelps (DD-360), 1944
 us_destroyer_porter_1944_1;USS Phelps (DD-360)
 us_destroyer_porter_1944_2;Destroyer
 us_destroyer_somers_shop;USS Somers (DD-381)
-us_destroyer_somers_0;"Somers-class, USS Somers (DD-381), 1938"
+us_destroyer_somers_0;Somers-class, USS Somers (DD-381), 1938
 us_destroyer_somers_1;USS Somers (DD-381)
 us_destroyer_somers_2;Destroyer
 us_destroyer_somers_davis_shop;USS Davis (DD-395)
-us_destroyer_somers_davis_0;"Somers-class, USS Davis (DD-395), 1942"
+us_destroyer_somers_davis_0;Somers-class, USS Davis (DD-395), 1942
 us_destroyer_somers_davis_1;USS Davis (DD-395)
 us_destroyer_somers_davis_2;Destroyer
 us_cruiser_omaha_class_trenton_shop;USS Raleigh (CL-7)
-us_cruiser_omaha_class_trenton_0;"Omaha-class, USS Raleigh (CL-7), 1941"
+us_cruiser_omaha_class_trenton_0;Omaha-class, USS Raleigh (CL-7), 1941
 us_cruiser_omaha_class_trenton_1;USS Raleigh
 us_cruiser_omaha_class_trenton_2;Light Cruiser
 us_cruiser_omaha_class_raleigh_shop;USS Memphis (CL-13)
-us_cruiser_omaha_class_raleigh_0;"Omaha-class, USS Memphis (CL-13), 1943"
+us_cruiser_omaha_class_raleigh_0;Omaha-class, USS Memphis (CL-13), 1943
 us_cruiser_omaha_class_raleigh_1;USS Memphis
 us_cruiser_omaha_class_raleigh_2;Light Cruiser
 us_cruiser_omaha_class_detroit_shop;USS Detroit (CL-8)
-us_cruiser_omaha_class_detroit_0;"Omaha-class, USS Detroit (CL-8), 1942"
+us_cruiser_omaha_class_detroit_0;Omaha-class, USS Detroit (CL-8), 1942
 us_cruiser_omaha_class_detroit_1;USS Detroit (CL-8)
 us_cruiser_omaha_class_detroit_2;Light Cruiser
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4;
 us_cruiser_atlanta_class_atlanta_shop;USS Atlanta (CL-51)
-us_cruiser_atlanta_class_atlanta_0;"Atlanta-class, USS Atlanta (CL-51), 1941"
+us_cruiser_atlanta_class_atlanta_0;Atlanta-class, USS Atlanta (CL-51), 1941
 us_cruiser_atlanta_class_atlanta_1;USS Atlanta (CL-51)
 us_cruiser_atlanta_class_atlanta_2;Light Cruiser
 us_cruiser_portland_class_shop;USS Portland (CA-33)
-us_cruiser_portland_class_0;"Portland-class, USS Portland (CA-33), 1942"
+us_cruiser_portland_class_0;Portland-class, USS Portland (CA-33), 1942
 us_cruiser_portland_class_1;USS Portland (CA-33)
 us_cruiser_portland_class_2;Heavy cruiser
 us_cruiser_pensacola_class_shop;USS Pensacola (CA-24)
-us_cruiser_pensacola_class_0;"Pensacola-class, USS Pensacola (CA-24), 1941"
+us_cruiser_pensacola_class_0;Pensacola-class, USS Pensacola (CA-24), 1941
 us_cruiser_pensacola_class_1;USS Pensacola (CA-24)
 us_cruiser_pensacola_class_2;Heavy cruiser
 us_cruiser_northampton_class_shop;USS Northampton (CA-26)
-us_cruiser_northampton_class_0;"Northampton-class, USS Northampton (CA-26), 1941"
+us_cruiser_northampton_class_0;Northampton-class, USS Northampton (CA-26), 1941
 us_cruiser_northampton_class_1;USS Northampton (CA-26)
 us_cruiser_northampton_class_2;Heavy cruiser
 us_cruiser_new_orleans_class_shop;USS New Orleans (CA-32)
-us_cruiser_new_orleans_class_0;"New Orleans-class, USS New Orleans (CA-32), 1945"
+us_cruiser_new_orleans_class_0;New Orleans-class, USS New Orleans (CA-32), 1945
 us_cruiser_new_orleans_class_1;USS New Orleans (CA-32)
 us_cruiser_new_orleans_class_2;Heavy cruiser
 us_cruiser_brooklyn_class_helena_shop;USS Helena (CL-50)
-us_cruiser_brooklyn_class_helena_0;"Brooklyn-class, USS Helena (CL-50), 1943"
+us_cruiser_brooklyn_class_helena_0;Brooklyn-class, USS Helena (CL-50), 1943
 us_cruiser_brooklyn_class_helena_1;USS Helena (CL-50)
 us_cruiser_brooklyn_class_helena_2;Light cruiser
 us_cruiser_brooklyn_class_brooklyn_shop;USS Brooklyn (CL-40)
-us_cruiser_brooklyn_class_brooklyn_0;"Brooklyn-class, USS Brooklyn (CL-40), 1941"
+us_cruiser_brooklyn_class_brooklyn_0;Brooklyn-class, USS Brooklyn (CL-40), 1941
 us_cruiser_brooklyn_class_brooklyn_1;USS Brooklyn (CL-40)
 us_cruiser_brooklyn_class_brooklyn_2;Light Cruiser
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5;
 us_cruiser_fargo_class_shop;USS Fargo (CL-106)
-us_cruiser_fargo_class_0;"Fargo-class, USS Fargo (CL-106), 1946"
+us_cruiser_fargo_class_0;Fargo-class, USS Fargo (CL-106), 1946
 us_cruiser_fargo_class_1;USS Fargo
 us_cruiser_fargo_class_2;Light Cruiser
 us_cruiser_worcester_class_roanoke_shop;USS Roanoke (CL-145)
-us_cruiser_worcester_class_roanoke_0;"Worcester-class, USS Roanoke (CL-145), 1949"
+us_cruiser_worcester_class_roanoke_0;Worcester-class, USS Roanoke (CL-145), 1949
 us_cruiser_worcester_class_roanoke_1;USS Roanoke
 us_cruiser_worcester_class_roanoke_2;Light cruiser
 us_cruiser_cleveland_class_cleveland_shop;USS Cleveland (CL-55)
-us_cruiser_cleveland_class_cleveland_0;"Cleveland-class, USS Cleveland (CL-55), 1942"
+us_cruiser_cleveland_class_cleveland_0;Cleveland-class, USS Cleveland (CL-55), 1942
 us_cruiser_cleveland_class_cleveland_1;USS Cleveland (CL-55)
 us_cruiser_cleveland_class_cleveland_2;Light Cruiser
 us_battleship_north_dakota_shop;USS North Dakota (BB-29)
-us_battleship_north_dakota_0;"Delaware-class, USS North Dakota (BB-29), 1919"
+us_battleship_north_dakota_0;Delaware-class, USS North Dakota (BB-29), 1919
 us_battleship_north_dakota_1;USS North Dakota (BB-29)
 us_battleship_north_dakota_2;Battleship
 us_battleship_wyoming_class_shop;USS Wyoming (BB-32)
-us_battleship_wyoming_class_0;"Wyoming-class, USS Wyoming (BB-32), 1927"
+us_battleship_wyoming_class_0;Wyoming-class, USS Wyoming (BB-32), 1927
 us_battleship_wyoming_class_1;USS Wyoming (BB-32)
 us_battleship_wyoming_class_2;Battleship
 us_battleship_arkansas_shop;USS Arkansas (BB-33)
-us_battleship_arkansas_0;"Wyoming-class, USS Arkansas (BB-33), 1942"
+us_battleship_arkansas_0;Wyoming-class, USS Arkansas (BB-33), 1942
 us_battleship_arkansas_1;USS Arkansas
 us_battleship_arkansas_2;Battleship
 us_cruiser_baltimore_class_pittsburgh_shop;USS Pittsburgh (CA-72)
-us_cruiser_baltimore_class_pittsburgh_0;"Baltimore-class, USS Pittsburgh (CA-72), 1953"
+us_cruiser_baltimore_class_pittsburgh_0;Baltimore-class, USS Pittsburgh (CA-72), 1953
 us_cruiser_baltimore_class_pittsburgh_1;USS Pittsburgh (CA-72)
 us_cruiser_baltimore_class_pittsburgh_2;Heavy cruiser
 us_cruiser_baltimore_class_shop;USS Baltimore (CA-68)
-us_cruiser_baltimore_class_0;"Baltimore-class, USS Baltimore (CA-68), 1943"
+us_cruiser_baltimore_class_0;Baltimore-class, USS Baltimore (CA-68), 1943
 us_cruiser_baltimore_class_1;USS Baltimore (CA-68)
 us_cruiser_baltimore_class_2;Heavy cruiser
 us_cruiser_des_moines_class_newport_news_shop;USS Newport News (CA-148)
-us_cruiser_des_moines_class_newport_news_0;"Des Moines-class, USS Newport News (CA-148), 1972"
+us_cruiser_des_moines_class_newport_news_0;Des Moines-class, USS Newport News (CA-148), 1972
 us_cruiser_des_moines_class_newport_news_1;USS Newport News
 us_cruiser_des_moines_class_newport_news_2;Heavy cruiser
 us_cruiser_des_moines_class_shop;USS Des Moines (CA-134)
-us_cruiser_des_moines_class_0;"Des Moines-class, USS Des Moines (CA-134), 1948"
+us_cruiser_des_moines_class_0;Des Moines-class, USS Des Moines (CA-134), 1948
 us_cruiser_des_moines_class_1;USS Des Moines
 us_cruiser_des_moines_class_2;Heavy cruiser
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6;
 us_battleship_texas_shop;USS Texas (BB-35)
-us_battleship_texas_0;"New York-class, USS Texas (BB-35), 1945"
+us_battleship_texas_0;New York-class, USS Texas (BB-35), 1945
 us_battleship_texas_1;USS Texas
 us_battleship_texas_2;Battleship
 us_battleship_arizona_1931_shop;USS Arizona (BB-39)
-us_battleship_arizona_1931_0;"Pennsylvania-class, USS Arizona (BB-39), 1938"
+us_battleship_arizona_1931_0;Pennsylvania-class, USS Arizona (BB-39), 1938
 us_battleship_arizona_1931_1;USS Arizona (BB-39)
 us_battleship_arizona_1931_2;Battleship
 us_battleship_nevada_shop;USS Nevada (BB-36)
-us_battleship_nevada_0;"Nevada-class, USS Nevada (BB-36), 1944"
+us_battleship_nevada_0;Nevada-class, USS Nevada (BB-36), 1944
 us_battleship_nevada_1;USS Nevada
 us_battleship_nevada_2;Battleship
 us_battlecruiser_alaska_class_shop;USS Alaska (CB-1)
-us_battlecruiser_alaska_class_0;"Alaska-class, USS Alaska (CB-1), 1944"
+us_battlecruiser_alaska_class_0;Alaska-class, USS Alaska (CB-1), 1944
 us_battlecruiser_alaska_class_1;USS Alaska (CB-1)
 us_battlecruiser_alaska_class_2;Battlecruiser
 us_battleship_mississippi_shop;USS Mississippi (BB-41)
-us_battleship_mississippi_0;"New Mexico-class, USS Mississippi (BB-41), 1945"
+us_battleship_mississippi_0;New Mexico-class, USS Mississippi (BB-41), 1945
 us_battleship_mississippi_1;USS Mississippi
 us_battleship_mississippi_2;Battleship
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 1;
@@ -12725,35 +12725,35 @@ jp_cruiser_isuzu_0;"Nagara-class (C-33), Isuzu, 1944"
 jp_cruiser_isuzu_1;Isuzu
 jp_cruiser_isuzu_2;Light Cruiser
 germ_battleship_kaiser_shop;SMS Kaiser
-germ_battleship_kaiser_0;"Kaiser-class, SMS Kaiser, 1911"
+germ_battleship_kaiser_0;Kaiser-class, SMS Kaiser, 1911
 germ_battleship_kaiser_1;SMS Kaiser
 germ_battleship_kaiser_2;Battleship
 ussr_skr_pr50plo_rosomacha_shop;Rosomakha
-ussr_skr_pr50plo_rosomacha_0;"Storozhyevyye Korabl' Proyekt 50, Tip Gornostaj, Rosomakha"
+ussr_skr_pr50plo_rosomacha_0;Storozhyevyye Korabl' Proyekt 50, Tip Gornostaj, Rosomakha
 ussr_skr_pr50plo_rosomacha_1;Rosomakha
 ussr_skr_pr50plo_rosomacha_2;Patrol ship
 uk_frigate_whitby_blackpool_shop;HMS Blackpool (F77)
-uk_frigate_whitby_blackpool_0;"Whitby-class, HMS Blackpool (F77)"
+uk_frigate_whitby_blackpool_0;Whitby-class, HMS Blackpool (F77)
 uk_frigate_whitby_blackpool_1;HMS Blackpool (F77)
 uk_frigate_whitby_blackpool_2;Frigate
 it_cruiser_etna_class_shop;Etna
-it_cruiser_etna_class_0;"Etna-class, Etna, project"
+it_cruiser_etna_class_0;Etna-class, Etna, project
 it_cruiser_etna_class_1;Etna
 it_cruiser_etna_class_2;Light cruiser
 jp_destroyer_yugure_shop;JDS Yūgure (DD-184)
-jp_destroyer_yugure_0;"Ariake-class, JDS Yūgure (DD-184), 1960"
+jp_destroyer_yugure_0;Ariake-class, JDS Yūgure (DD-184), 1960
 jp_destroyer_yugure_1;JDS Yūgure (DD-184)
 jp_destroyer_yugure_2;Destroyer
 ussr_su_76d_shop;SU-76D
-ussr_su_76d_0;"GAZ-74 | SU-76D"
+ussr_su_76d_0;GAZ-74 | SU-76D
 ussr_su_76d_1;SU-76D
 ussr_su_76d_2;SPG
 ussr_cruiser_voroshilov_shop;Vorošilov
-ussr_cruiser_voroshilov_0;"Pr. 26, Vorošilov, 1943"
+ussr_cruiser_voroshilov_0;Pr. 26, Vorošilov, 1943
 ussr_cruiser_voroshilov_1;Vorošilov
 ussr_cruiser_voroshilov_2;Light Cruiser
 it_battleship_dante_alighieri_shop;Dante Alighieri
-it_battleship_dante_alighieri_0;"Dante Alighieri, 1923"
+it_battleship_dante_alighieri_0;Dante Alighieri, 1923
 it_battleship_dante_alighieri_1;Dante Alighieri
 it_battleship_dante_alighieri_2;Battleship
 dh_110_sea_vixen_shop;Sea Vixen F.A.W. Mk. 2
@@ -12761,27 +12761,27 @@ dh_110_sea_vixen_0;DH.110 Sea Vixen F.A.W. Mk. 2
 dh_110_sea_vixen_1;Sea Vixen F.A.W. Mk. 2
 dh_110_sea_vixen_2;Sea Vixen
 uk_cruiser_liverpool_shop;HMS Liverpool (C11)
-uk_cruiser_liverpool_0;"Town-class, HMS Liverpool (C11), 1952"
+uk_cruiser_liverpool_0;Town-class, HMS Liverpool (C11), 1952
 uk_cruiser_liverpool_1;HMS Liverpool (C11)
 uk_cruiser_liverpool_2;Light Cruiser
 ussr_destroyer_pr30bis_bezuprechnyi_shop;Byezupryečnyj
-ussr_destroyer_pr30bis_bezuprechnyi_0;"Pr. 30bis, Byezupryečnyj, 1950"
+ussr_destroyer_pr30bis_bezuprechnyi_0;Pr. 30bis, Byezupryečnyj, 1950
 ussr_destroyer_pr30bis_bezuprechnyi_1;Byezupryečnyj
 ussr_destroyer_pr30bis_bezuprechnyi_2;Destroyer
 uk_frigate_leopard_shop;HMS Leopard (F14)
-uk_frigate_leopard_0;"Leopard-class, HMS Leopard (F14)"
+uk_frigate_leopard_0;Leopard-class, HMS Leopard (F14)
 uk_frigate_leopard_1;HMS Leopard (F14)
 uk_frigate_leopard_2;Frigate
 germ_type143_bussard_shop;Bussard (S 64)
-germ_type143_bussard_0;"Flugkörper-Schnellboot Albatros-Klasse (Typ 143), Bussard (S 64)"
+germ_type143_bussard_0;Flugkörper-Schnellboot Albatros-Klasse (Typ 143), Bussard (S 64)
 germ_type143_bussard_1;Bussard
 germ_type143_bussard_2;Fast Attack Craft
 uk_destroyer_v_class_vega_shop;HMS Vega (L41)
-uk_destroyer_v_class_vega_0;"V-class, HMS Vega (L41), 1944"
+uk_destroyer_v_class_vega_0;V-class, HMS Vega (L41), 1944
 uk_destroyer_v_class_vega_1;HMS Vega (L41)
 uk_destroyer_v_class_vega_2;Destroyer
 germ_cruiser_karlsruhe_shop;Karlsruhe
-germ_cruiser_karlsruhe_0;"К-class, Karlsruhe, 1940"
+germ_cruiser_karlsruhe_0;К-class, Karlsruhe, 1940
 germ_cruiser_karlsruhe_1;Karlsruhe
 germ_cruiser_karlsruhe_2;Light Cruiser
 jp_cruiser_aoba_shop;Aoba
@@ -12805,23 +12805,23 @@ ussr_battleship_parizhskaya_kommuna_0;"Syevastopol'-class, Parižskaâ Kommuna, 
 ussr_battleship_parizhskaya_kommuna_1;Parižskaâ Kommuna
 ussr_battleship_parizhskaya_kommuna_2;Battleship
 uk_cruiser_norfolk_shop;HMS Norfolk (78)
-uk_cruiser_norfolk_0;"County-class, HMS Norfolk (78), 1943"
+uk_cruiser_norfolk_0;County-class, HMS Norfolk (78), 1943
 uk_cruiser_norfolk_1;HMS Norfolk (78)
 uk_cruiser_norfolk_2;Heavy cruiser
 jp_cruiser_yubari_shop;Yūbari
-jp_cruiser_yubari_0;"Yūbari-class (F-42), Yubari, 1944"
+jp_cruiser_yubari_0;Yūbari-class (F-42), Yubari, 1944
 jp_cruiser_yubari_1;Yūbari
 jp_cruiser_yubari_2;Light Cruiser
 ussr_destroyer_pr30bis_smelyi_shop;Smyelyj
-ussr_destroyer_pr30bis_smelyi_0;"Pr. 30bis, Smyelyj, 1955"
+ussr_destroyer_pr30bis_smelyi_0;Pr. 30bis, Smyelyj, 1955
 ussr_destroyer_pr30bis_smelyi_1;Smyelyj
 ussr_destroyer_pr30bis_smelyi_2;Destroyer
 it_gabbiano_class_shop;Gabbiano (GB)
-it_gabbiano_class_0;"Gabbiano-class, Gabbiano (GB), 1942"
+it_gabbiano_class_0;Gabbiano-class, Gabbiano (GB), 1942
 it_gabbiano_class_1;Gabbiano
 it_gabbiano_class_2;Corvette
 germ_escort_typem1935_shop;M 17
-germ_escort_typem1935_0;"Minensuchboot Typ 1935, M 17"
+germ_escort_typem1935_0;Minensuchboot Typ 1935, M 17
 germ_escort_typem1935_1;M 17
 germ_escort_typem1935_2;Minesweeper
 it_c13_t90_shop;C-13 (90/38)
@@ -12861,51 +12861,51 @@ germ_marder_1a3_0;Schützenpanzer Marder 1 A3
 germ_marder_1a3_1;SPz Marder 1 A3
 germ_marder_1a3_2;Light tank
 uk_destroyer_v_class_verdun_shop;HMS Verdun (L93)
-uk_destroyer_v_class_verdun_0;"V-class, HMS Verdun (L93), 1941"
+uk_destroyer_v_class_verdun_0;V-class, HMS Verdun (L93), 1941
 uk_destroyer_v_class_verdun_1;HMS Verdun (L93)
 uk_destroyer_v_class_verdun_2;Destroyer
 uk_destroyer_tribal_mohawk_shop;HMS Mohawk (L31)
-uk_destroyer_tribal_mohawk_0;"Tribal-class, HMS Mohawk (L31), 1941"
+uk_destroyer_tribal_mohawk_0;Tribal-class, HMS Mohawk (L31), 1941
 uk_destroyer_tribal_mohawk_1;HMS Mohawk (L31)
 uk_destroyer_tribal_mohawk_2;Destroyer
 it_destroyer_leone_class_tigre_shop;Tigre (TI)
-it_destroyer_leone_class_tigre_0;"Leone-class, Tigre (TI), 1934"
+it_destroyer_leone_class_tigre_0;Leone-class, Tigre (TI), 1934
 it_destroyer_leone_class_tigre_1;Tigre
 it_destroyer_leone_class_tigre_2;Destroyer
 ussr_mpk_201m_shop;PSKR-203
-ussr_mpk_201m_0;"Malen'kiy Protivolodochnyy Korabl' Proyekt 201M, PSKR-203"
+ussr_mpk_201m_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 201M, PSKR-203
 ussr_mpk_201m_1;PSKR-203
 ussr_mpk_201m_2;Subchaser
 uk_battleship_marlborough_shop;HMS Marlborough (79)
-uk_battleship_marlborough_0;"Iron Duke-class, HMS Marlborough, 1927 (79)"
+uk_battleship_marlborough_0;Iron Duke-class, HMS Marlborough, 1927 (79)
 uk_battleship_marlborough_1;HMS Marlborough (79)
 uk_battleship_marlborough_2;Battleship
 jp_destroyer_hayanami_shop;Hayanami
-jp_destroyer_hayanami_0;"Yūgumo-class (F-50), Hayanami, 1943"
+jp_destroyer_hayanami_0;Yūgumo-class (F-50), Hayanami, 1943
 jp_destroyer_hayanami_1;Hayanami
 jp_destroyer_hayanami_2;Destroyer
 germ_battleship_scharnhorst_shop;Scharnhorst
-germ_battleship_scharnhorst_0;"Scharnhorst-class, Scharnhorst, 1943"
+germ_battleship_scharnhorst_0;Scharnhorst-class, Scharnhorst, 1943
 germ_battleship_scharnhorst_1;Scharnhorst
 germ_battleship_scharnhorst_2;Battlecruiser
 germ_rdm242_shop;Krischan der Große
-germ_rdm242_0;"Flakträger Krischan der Große, 1943"
+germ_rdm242_0;Flakträger Krischan der Große, 1943
 germ_rdm242_1;Krischan der Große
 germ_rdm242_2;Motor Gun Boat
 jp_destroyer_harukaze_shop;JDS Harukaze (DD-101)
-jp_destroyer_harukaze_0;"Harukaze-class (F-101), JDS Harukaze (DD-101), 1956"
+jp_destroyer_harukaze_0;Harukaze-class (F-101), JDS Harukaze (DD-101), 1956
 jp_destroyer_harukaze_1;JDS Harukaze (DD-101)
 jp_destroyer_harukaze_2;Destroyer
 ussr_cruiser_kerch_shop;Kyerč' (1950)
-ussr_cruiser_kerch_0;"Legkiy kreyser Tip Emmanuil Filibert Gertsog Aostskiy, Kyerč' (1950)"
+ussr_cruiser_kerch_0;Legkiy kreyser Tip Emmanuil Filibert Gertsog Aostskiy, Kyerč' (1950)
 ussr_cruiser_kerch_1;Kyerč' (1950)
 ussr_cruiser_kerch_2;Light Cruiser
 ussr_mpk_201k_shop;P-190
-ussr_mpk_201k_0;"Malen'kiy Protivolodochnyy Korabl' Proyekt 201, P-190"
+ussr_mpk_201k_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 201, P-190
 ussr_mpk_201k_1;P-190
 ussr_mpk_201k_2;Subchaser
 it_cruiser_eugenio_di_savoia_shop;Eugenio di Savoia
-it_cruiser_eugenio_di_savoia_0;"Duca d’Aosta-class, Eugenio di Savoia, 1943"
+it_cruiser_eugenio_di_savoia_0;Duca d’Aosta-class, Eugenio di Savoia, 1943
 it_cruiser_eugenio_di_savoia_1;Eugenio di Savoia
 it_cruiser_eugenio_di_savoia_2;Light Cruiser
 uk_higgins_78ft_mtb422_shop;MTB-422
@@ -12913,51 +12913,51 @@ uk_higgins_78ft_mtb422_0;Higgins 78ft MTB-422
 uk_higgins_78ft_mtb422_1;MTB-422
 uk_higgins_78ft_mtb422_2;Motor Torpedo Boat
 uk_destroyer_v_class_valhalla_shop;HMS Valhalla (G45)
-uk_destroyer_v_class_valhalla_0;"V-class, HMS Valhalla (G45), 1922"
+uk_destroyer_v_class_valhalla_0;V-class, HMS Valhalla (G45), 1922
 uk_destroyer_v_class_valhalla_1;HMS Valhalla (G45)
 uk_destroyer_v_class_valhalla_2;Destroyer
 it_albatros_class_f543_shop;Albatros (F 543)
-it_albatros_class_f543_0;"Albatros-class, Albatros (F 543)"
+it_albatros_class_f543_0;Albatros-class, Albatros (F 543)
 it_albatros_class_f543_1;Albatros
 it_albatros_class_f543_2;Corvette
 jp_battlecruiser_kongo_shop;Kongō
-jp_battlecruiser_kongo_0;"Kongō-class (B-46), Kongō, 1944"
+jp_battlecruiser_kongo_0;Kongō-class (B-46), Kongō, 1944
 jp_battlecruiser_kongo_1;Kongō
 jp_battlecruiser_kongo_2;Battleship
 germ_skr_pr50_karl_marx_shop;Karl Marx (122)
-germ_skr_pr50_karl_marx_0;"Fregatte, Projekt 50, Karl Marx (122) (1962)"
+germ_skr_pr50_karl_marx_0;Fregatte, Projekt 50, Karl Marx (122) (1962)
 germ_skr_pr50_karl_marx_1;Pr. 50
 germ_skr_pr50_karl_marx_2;Patrol ship
 ussr_mpk_pr12412p_shop;MPK-211
-ussr_mpk_pr12412p_0;"Malen'kiy Protivolodochnyy Korabl' Proyekt 12412P, MPK-211"
+ussr_mpk_pr12412p_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 12412P, MPK-211
 ussr_mpk_pr12412p_1;MPK-211
 ussr_mpk_pr12412p_2;Patrol ship
 uk_destroyer_battle_cadiz_shop;HMS Cadiz (D79)
-uk_destroyer_battle_cadiz_0;"Battle-class, HMS Cadiz (D79), 1951"
+uk_destroyer_battle_cadiz_0;Battle-class, HMS Cadiz (D79), 1951
 uk_destroyer_battle_cadiz_1;HMS Cadiz (D79)
 uk_destroyer_battle_cadiz_2;Destroyer
 uk_battlecruiser_hood_shop;HMS Hood (51)
-uk_battlecruiser_hood_0;"Admiral-class, HMS Hood (51), 1941"
+uk_battlecruiser_hood_0;Admiral-class, HMS Hood (51), 1941
 uk_battlecruiser_hood_1;HMS Hood (51)
 uk_battlecruiser_hood_2;Battlecruiser
 germ_battleship_bayern_shop;SMS Bayern
-germ_battleship_bayern_0;"Bayern-class, SMS Bayern, 1916"
+germ_battleship_bayern_0;Bayern-class, SMS Bayern, 1916
 germ_battleship_bayern_1;SMS Bayern
 germ_battleship_bayern_2;Battleship
 uk_hdml_ml1383_shop;HMS ML 1383
-uk_hdml_ml1383_0;"Harbour Defence Motor Launch, HMS ML 1383"
+uk_hdml_ml1383_0;Harbour Defence Motor Launch, HMS ML 1383
 uk_hdml_ml1383_1;ML 1383
 uk_hdml_ml1383_2;Motor Gun Boat
 ussr_battlecruiser_kronshtadt_shop;Kronštadt
-ussr_battlecruiser_kronshtadt_0;"Project 69, Kronštadt, project"
+ussr_battlecruiser_kronshtadt_0;Project 69, Kronštadt, project
 ussr_battlecruiser_kronshtadt_1;Kronštadt
 ussr_battlecruiser_kronshtadt_2;Battlecruiser
 it_destroyer_fletcher_geniere_shop;Geniere (D 555)
-it_destroyer_fletcher_geniere_0;"Fante-class, Geniere (D 555), 1972"
+it_destroyer_fletcher_geniere_0;Fante-class, Geniere (D 555), 1972
 it_destroyer_fletcher_geniere_1;Geniere
 it_destroyer_fletcher_geniere_2;Destroyer
 jp_destroyer_ayanami_shop;JDS Ayanami (DD-103)
-jp_destroyer_ayanami_0;"Ayanami-class, JDS Ayanami (DD-103)"
+jp_destroyer_ayanami_0;Ayanami-class, JDS Ayanami (DD-103)
 jp_destroyer_ayanami_1;JDS Ayanami
 jp_destroyer_ayanami_2;Destroyer
 jp_t51a_shop;Type T-51a
@@ -12965,11 +12965,11 @@ jp_t51a_0;Type T-51a
 jp_t51a_1;Type T-51a
 jp_t51a_2;Motor Torpedo Boat
 jp_battlecruiser_haruna_shop;Haruna
-jp_battlecruiser_haruna_0;"Kongō-class (B-46), Haruna, 1945"
+jp_battlecruiser_haruna_0;Kongō-class (B-46), Haruna, 1945
 jp_battlecruiser_haruna_1;Haruna
 jp_battlecruiser_haruna_2;Battleship
 germ_leopard_2av_shop;KPz Leopard 2 AV (PT 19/T 19)
-germ_leopard_2av_0;"Krauss-Maffei Wegmann | KPz Leopard 2 AV, PT 19 mit T 19"
+germ_leopard_2av_0;Krauss-Maffei Wegmann | KPz Leopard 2 AV, PT 19 mit T 19
 germ_leopard_2av_1;KPz Leopard 2 AV
 germ_leopard_2av_2;MBT
 it_44m_zrinyi_1_shop;Zrínyi I
@@ -12977,79 +12977,79 @@ it_44m_zrinyi_1_0;44.M Zrínyi I
 it_44m_zrinyi_1_1;Zrínyi I
 it_44m_zrinyi_1_2;SPG
 germ_km5_shop;KS 5
-germ_km5_0;"kleines Schnellboot Typ KS, KS 5"
+germ_km5_0;kleines Schnellboot Typ KS, KS 5
 germ_km5_1;Type KS
 germ_km5_2;Motor Torpedo Boat
 ussr_cruiser_mikhail_kutuzov_shop;Mikhail Kutuzov
-ussr_cruiser_mikhail_kutuzov_0;"Pr. 68-A, Mikhail Kutuzov, 1986"
+ussr_cruiser_mikhail_kutuzov_0;Pr. 68-A, Mikhail Kutuzov, 1986
 ussr_cruiser_mikhail_kutuzov_1;Mikhail Kutuzov
 ussr_cruiser_mikhail_kutuzov_2;Light Cruiser
 germ_cruiser_elbing_shop;SMS Elbing
-germ_cruiser_elbing_0;"Pillau-class, SMS Elbing, 1915"
+germ_cruiser_elbing_0;Pillau-class, SMS Elbing, 1915
 germ_cruiser_elbing_1;SMS Elbing
 germ_cruiser_elbing_2;Light Cruiser
 jp_destroyer_hatsuharu_shop;Hatsuharu
-jp_destroyer_hatsuharu_0;"Hatsuharu-class (F-45), Hatsuharu, 1933"
+jp_destroyer_hatsuharu_0;Hatsuharu-class (F-45), Hatsuharu, 1933
 jp_destroyer_hatsuharu_1;Hatsuharu
 jp_destroyer_hatsuharu_2;Destroyer
 ussr_destroyer_pr56_blagorodny_shop;Blagorodnyj
-ussr_destroyer_pr56_blagorodny_0;"Pr. 56-PLO, Blagorodnyj, 1978"
+ussr_destroyer_pr56_blagorodny_0;Pr. 56-PLO, Blagorodnyj, 1978
 ussr_destroyer_pr56_blagorodny_1;Blagorodnyj
 ussr_destroyer_pr56_blagorodny_2;Destroyer
 it_destroyer_navigatori_class_verazzano_shop;Giovanni da Verazzano (DV)
-it_destroyer_navigatori_class_verazzano_0;"Navigatori-class, Giovanni da Verazzano (DV), 1940"
+it_destroyer_navigatori_class_verazzano_0;Navigatori-class, Giovanni da Verazzano (DV), 1940
 it_destroyer_navigatori_class_verazzano_1;Giovanni da Verazzano
 it_destroyer_navigatori_class_verazzano_2;Destroyer
 uk_attack_class_arrow_shop;HMAS Arrow (P88)
-uk_attack_class_arrow_0;"Attack-class, HMAS Arrow (P88)"
+uk_attack_class_arrow_0;Attack-class, HMAS Arrow (P88)
 uk_attack_class_arrow_1;HMAS Arrow (P88)
 uk_attack_class_arrow_2;Gunboat
 it_battleship_andrea_doria_shop;Andrea Doria
-it_battleship_andrea_doria_0;"Duilio-class, Andrea Doria, 1925"
+it_battleship_andrea_doria_0;Duilio-class, Andrea Doria, 1925
 it_battleship_andrea_doria_1;Andrea Doria
 it_battleship_andrea_doria_2;Battleship
 jp_battleship_fuso_shop;Fusō
-jp_battleship_fuso_0;"Fusō-class (A-64), Fusō, 1944"
+jp_battleship_fuso_0;Fusō-class (A-64), Fusō, 1944
 jp_battleship_fuso_1;Fusō
 jp_battleship_fuso_2;Battleship
 uk_battlecruiser_glorious_shop;HMS Glorious (77)
-uk_battlecruiser_glorious_0;"Courageous-class, HMS Glorious (77), 1919"
+uk_battlecruiser_glorious_0;Courageous-class, HMS Glorious (77), 1919
 uk_battlecruiser_glorious_1;HMS Glorious (77)
 uk_battlecruiser_glorious_2;Battlecruiser
 germ_type152_hugin_shop;Hugin (P 6191)
-germ_type152_hugin_0;"Schnellboot Typ 152, Hugin (P 6191)"
+germ_type152_hugin_0;Schnellboot Typ 152, Hugin (P 6191)
 germ_type152_hugin_1;Hugin
 germ_type152_hugin_2;Motor Torpedo Boat
 it_gabbiano_class_c16_shop;Folaga (FG)
-it_gabbiano_class_c16_0;"Gabbiano-class, Folaga (FG), 1953"
+it_gabbiano_class_c16_0;Gabbiano-class, Folaga (FG), 1953
 it_gabbiano_class_c16_1;Folaga
 it_gabbiano_class_c16_2;Corvette
 ussr_destroyer_7_besposhchadny_shop;Byespoŝadnyj
-ussr_destroyer_7_besposhchadny_0;"Pr. 7, Byespoŝadnyj, 1942"
+ussr_destroyer_7_besposhchadny_0;Pr. 7, Byespoŝadnyj, 1942
 ussr_destroyer_7_besposhchadny_1;Byespoŝadnyj
 ussr_destroyer_7_besposhchadny_2;Destroyer
 uk_destroyer_daring_class_diana_shop;HMS Diana (D126)
-uk_destroyer_daring_class_diana_0;"Daring-class, HMS Diana (D126), 1958"
+uk_destroyer_daring_class_diana_0;Daring-class, HMS Diana (D126), 1958
 uk_destroyer_daring_class_diana_1;HMS Diana (D126)
 uk_destroyer_daring_class_diana_2;Destroyer
 it_destroyer_vifor_class_aquila_shop;Aquila (AQ)
-it_destroyer_vifor_class_aquila_0;"Aquila-class, Aquila (AQ), 1917"
+it_destroyer_vifor_class_aquila_0;Aquila-class, Aquila (AQ), 1917
 it_destroyer_vifor_class_aquila_1;Aquila
 it_destroyer_vifor_class_aquila_2;Destroyer
 ussr_mpk_pr1331m_shop;MPK-192
-ussr_mpk_pr1331m_0;"Malen'kiy Protivolodochnyy Korabl' Proyekt 1331M, MPK-192"
+ussr_mpk_pr1331m_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 1331M, MPK-192
 ussr_mpk_pr1331m_1;MPK-192
 ussr_mpk_pr1331m_2;Patrol ship
 it_cruiser_garibaldi_class_abruzzi_shop;Duca degli Abruzzi
-it_cruiser_garibaldi_class_abruzzi_0;"Duca degli Abruzzi-class, Duca degli Abruzzi, 1944"
+it_cruiser_garibaldi_class_abruzzi_0;Duca degli Abruzzi-class, Duca degli Abruzzi, 1944
 it_cruiser_garibaldi_class_abruzzi_1;Duca degli Abruzzi
 it_cruiser_garibaldi_class_abruzzi_2;Light Cruiser
 germ_destroyer_class1936c_z47_shop;Z 47
-germ_destroyer_class1936c_z47_0;"Zerstörer Typ 1936 C, Z 47, 1945"
+germ_destroyer_class1936c_z47_0;Zerstörer Typ 1936 C, Z 47, 1945
 germ_destroyer_class1936c_z47_1;Z 47
 germ_destroyer_class1936c_z47_2;Destroyer
 ussr_destroyer_7_ryany_shop;R'ânyj
-ussr_destroyer_7_ryany_0;"Pr. 7, R'ânyj, 1945"
+ussr_destroyer_7_ryany_0;Pr. 7, R'ânyj, 1945
 ussr_destroyer_7_ryany_1;R'ânyj
 ussr_destroyer_7_ryany_2;Destroyer
 germ_pr_131_shop;Nr. 401
@@ -13057,11 +13057,11 @@ germ_pr_131_0;"kleines Torpedoschnellboot Projekt 131 ""Libelle"" | Nr. 401"
 germ_pr_131_1;Nr. 401
 germ_pr_131_2;Motor Torpedo Boat
 ussr_destroyer_regele_ferdinand_class_letuchiy_shop;Lyetučij
-ussr_destroyer_regele_ferdinand_class_letuchiy_0;"Regele Ferdinand-class, Lyetučij, 1945"
+ussr_destroyer_regele_ferdinand_class_letuchiy_0;Regele Ferdinand-class, Lyetučij, 1945
 ussr_destroyer_regele_ferdinand_class_letuchiy_1;Lyetučij
 ussr_destroyer_regele_ferdinand_class_letuchiy_2;Destroyer
 uk_minelayer_abdiel_class_abdiel_shop;HMS Abdiel (M39)
-uk_minelayer_abdiel_class_abdiel_0;"Abdiel-class, HMS Abdiel (M39), 1941"
+uk_minelayer_abdiel_class_abdiel_0;Abdiel-class, HMS Abdiel (M39), 1941
 uk_minelayer_abdiel_class_abdiel_1;HMS Abdiel
 uk_minelayer_abdiel_class_abdiel_2;Light Cruiser
 dragonfly_a_shop;TOPTER
@@ -13081,43 +13081,43 @@ dragonfly_99_rda_0;Dragonfly AB-99 (R)
 dragonfly_99_rda_1;Dragonfly (R)
 dragonfly_99_rda_2;Dragonfly (R)
 jp_cruiser_myoko_shop;Myōkō
-jp_cruiser_myoko_0;"Myōkō-class, Myōkō, 1944"
+jp_cruiser_myoko_0;Myōkō-class, Myōkō, 1944
 jp_cruiser_myoko_1;Myōkō
 jp_cruiser_myoko_2;Heavy cruiser
 ussr_pr_183_egypt_bm_21_shop;TK-20 (A-215)
-ussr_pr_183_egypt_bm_21_0;"Bol'shiye Torpyednyj Katyer Proyekt 183 Bolishyevik, TK-20 (A-215 Grad-M)"
+ussr_pr_183_egypt_bm_21_0;Bol'shiye Torpyednyj Katyer Proyekt 183 Bolishyevik, TK-20 (A-215 Grad-M)
 ussr_pr_183_egypt_bm_21_1;TK-20
 ussr_pr_183_egypt_bm_21_2;Motor Gun boat
 fr_destroyer_aigle_class_aigle_shop;Aigle (X 13)
-fr_destroyer_aigle_class_aigle_0;"Aigle-class, Aigle (X 13), 1942"
+fr_destroyer_aigle_class_aigle_0;Aigle-class, Aigle (X 13), 1942
 fr_destroyer_aigle_class_aigle_1;Aigle
 fr_destroyer_aigle_class_aigle_2;Destroyer
 jp_destroyer_nenohi_shop;Nenohi
-jp_destroyer_nenohi_0;"Hatsuharu-class (F-45), Nenohi, 1942"
+jp_destroyer_nenohi_0;Hatsuharu-class (F-45), Nenohi, 1942
 jp_destroyer_nenohi_1;Nenohi
 jp_destroyer_nenohi_2;Destroyer
 uk_frigate_whitby_shop;HMS Whitby (F36)
-uk_frigate_whitby_0;"Whitby-class, HMS Whitby (F36)"
+uk_frigate_whitby_0;Whitby-class, HMS Whitby (F36)
 uk_frigate_whitby_1;HMS Whitby
 uk_frigate_whitby_2;Frigate
 uk_destroyer_restigouche_class_terranova_shop;HMCS Terra Nova (DDE 259)
-uk_destroyer_restigouche_class_terranova_0;"Restigouche-class, HMCS Terra Nova (DDE 259)"
+uk_destroyer_restigouche_class_terranova_0;Restigouche-class, HMCS Terra Nova (DDE 259)
 uk_destroyer_restigouche_class_terranova_1;HMCS Terra Nova
 uk_destroyer_restigouche_class_terranova_2;Frigate
 ussr_mpk_204_shop;MPK-88
-ussr_mpk_204_0;"Malen'kiy Protivolodochnyy Korabl' Proyekt 204, MPK-88"
+ussr_mpk_204_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 204, MPK-88
 ussr_mpk_204_1;MPK-88
 ussr_mpk_204_2;Subchaser
 germ_type153_pfeil_shop;Pfeil (P 6193)
-germ_type153_pfeil_0;"Flugkörper-Schnellboot, Ferocity-Klasse, Pfeil (P 6193)"
+germ_type153_pfeil_0;Flugkörper-Schnellboot, Ferocity-Klasse, Pfeil (P 6193)
 germ_type153_pfeil_1;Pfeil
 germ_type153_pfeil;Motor Torpedo Boat
 fr_cruiser_dugauy_class_dugauy_trouin_shop;Duguay-Trouin
-fr_cruiser_dugauy_class_dugauy_trouin_0;"Duguay-Trouin-class, Duguay-Trouin, 1944"
+fr_cruiser_dugauy_class_dugauy_trouin_0;Duguay-Trouin-class, Duguay-Trouin, 1944
 fr_cruiser_dugauy_class_dugauy_trouin_1;Duguay-Trouin
 fr_cruiser_dugauy_class_dugauy_trouin_2;Light cruiser
 it_battleship_caio_duilio_shop;Duilio
-it_battleship_caio_duilio_0;"Duilio-class, Duilio, 1942"
+it_battleship_caio_duilio_0;Duilio-class, Duilio, 1942
 it_battleship_caio_duilio_1;Duilio
 it_battleship_caio_duilio_2;Battleship
 fr_amd_35_sa35_shop;AMD 35 (SA 35)
@@ -13129,105 +13129,105 @@ cn_qn506_0;QN506
 cn_qn506_1;QN506
 cn_qn506_2;Light tank
 ussr_cruiser_shcherbakov_shop;Ŝyerbakov
-ussr_cruiser_shcherbakov_0;"Pr. 68bis-ZiF, Ŝyerbakov, project"
+ussr_cruiser_shcherbakov_0;Pr. 68bis-ZiF, Ŝyerbakov, project
 ussr_cruiser_shcherbakov_1;Ŝyerbakov
 ussr_cruiser_shcherbakov_2;Light cruiser
 germ_s_700_s_701_shop;S 701
-germ_s_700_s_701_0;"Schnellboot Typ 1944, S 701"
+germ_s_700_s_701_0;Schnellboot Typ 1944, S 701
 germ_s_700_s_701_1;S 701
 germ_s_700_s_701_2;Motor Torpedo Boat
-uk_centurion_mk_2_shop;"Centurion, Mk. II"
-uk_centurion_mk_2_0;"Tank, Cruiser, A.41A, Centurion, Mk. II"
-uk_centurion_mk_2_1;"Centurion, Mk. II"
+uk_centurion_mk_2_shop;Centurion, Mk. II
+uk_centurion_mk_2_0;Tank, Cruiser, A.41A, Centurion, Mk. II
+uk_centurion_mk_2_1;Centurion, Mk. II
 uk_centurion_mk_2_2;Medium tank
 fr_destroyer_jaguar_class_chacal_shop;Chacal (X 23)
-fr_destroyer_jaguar_class_chacal_0;"Jaguar-class, Chacal (X 23), 1938"
+fr_destroyer_jaguar_class_chacal_0;Jaguar-class, Chacal (X 23), 1938
 fr_destroyer_jaguar_class_chacal_1;Chacal
 fr_destroyer_jaguar_class_chacal_2;Destroyer
 germ_destroyer_class1936c_z46_shop;Z 46
-germ_destroyer_class1936c_z46_0;"Zerstörer Typ 1936 C, Z46, 1945"
+germ_destroyer_class1936c_z46_0;Zerstörer Typ 1936 C, Z46, 1945
 germ_destroyer_class1936c_z46_1;Z 46
 germ_destroyer_class1936c_z46_2;Destroyer
 ussr_destroyer_pr56_bravy_shop;Bravyj
-ussr_destroyer_pr56_bravy_0;"Pr.56-K, Bravyj, 1967"
+ussr_destroyer_pr56_bravy_0;Pr.56-K, Bravyj, 1967
 ussr_destroyer_pr56_bravy_1;Bravyj
 ussr_destroyer_pr56_bravy_2;Destroyer
 jp_battleship_ise_shop;Ise
-jp_battleship_ise_0;"Ise-class (A-92), Ise, 1937"
+jp_battleship_ise_0;Ise-class (A-92), Ise, 1937
 jp_battleship_ise_1;Ise
 jp_battleship_ise_2;Battleship
 uk_destroyer_daring_class_daring_shop;HMS Daring (D05)
-uk_destroyer_daring_class_daring_0;"Daring-class, HMS Daring (D05), 1956"
+uk_destroyer_daring_class_daring_0;Daring-class, HMS Daring (D05), 1956
 uk_destroyer_daring_class_daring_1;HMS Daring
 uk_destroyer_daring_class_daring_2;Destroyer
 fr_cruiser_dugauy_class_primaguet_shop;Primaguet
-fr_cruiser_dugauy_class_primaguet_0;"Duguay-Trouin-class, Primaguet, 1940"
+fr_cruiser_dugauy_class_primaguet_0;Duguay-Trouin-class, Primaguet, 1940
 fr_cruiser_dugauy_class_primaguet_1;Primaguet
 fr_cruiser_dugauy_class_primaguet_2;Light cruiser
 fr_cruiser_jeanne_darc_shop;Jeanne d'Arc
-fr_cruiser_jeanne_darc_0;"Jeanne d'Arc-class, Jeanne d'Arc, 1944"
+fr_cruiser_jeanne_darc_0;Jeanne d'Arc-class, Jeanne d'Arc, 1944
 fr_cruiser_jeanne_darc_1;Jeanne d'Arc
 fr_cruiser_jeanne_darc_2;Light cruiser
 fr_cruiser_suffren_class_colbert_shop;Colbert
-fr_cruiser_suffren_class_colbert_0;"Suffren-class, Colbert, 1942"
+fr_cruiser_suffren_class_colbert_0;Suffren-class, Colbert, 1942
 fr_cruiser_suffren_class_colbert_1;Colbert
 fr_cruiser_suffren_class_colbert_2;Heavy cruiser
 fr_destroyer_le_fantasque_class_le_malin_shop;Le Malin (X 82)
-fr_destroyer_le_fantasque_class_le_malin_0;"Fantasque-class, Le Malin (X 82), 1943"
+fr_destroyer_le_fantasque_class_le_malin_0;Fantasque-class, Le Malin (X 82), 1943
 fr_destroyer_le_fantasque_class_le_malin_1;Le Malin
 fr_destroyer_le_fantasque_class_le_malin_2;Destroyer
 fr_destroyer_jaguar_class_panthere_shop;Panthère (X 43)
-fr_destroyer_jaguar_class_panthere_0;"Jaguar-class, Panthère (X 43), 1940"
+fr_destroyer_jaguar_class_panthere_0;Jaguar-class, Panthère (X 43), 1940
 fr_destroyer_jaguar_class_panthere_1;Panthere
 fr_destroyer_jaguar_class_panthere_2;Destroyer
 fr_destroyer_aigle_class_vautour_shop;Vautour (X 71)
-fr_destroyer_aigle_class_vautour_0;"Aigle-class, Vautour (X 71), 1931"
+fr_destroyer_aigle_class_vautour_0;Aigle-class, Vautour (X 71), 1931
 fr_destroyer_aigle_class_vautour_1;Vautour
 fr_destroyer_aigle_class_vautour_2;Destroyer
 fr_destroyer_bourrasque_class_bourrasque_shop;Bourrasque (T 41)
-fr_destroyer_bourrasque_class_bourrasque_0;"Bourrasque-class, Bourrasque (T 41), 1939"
+fr_destroyer_bourrasque_class_bourrasque_0;Bourrasque-class, Bourrasque (T 41), 1939
 fr_destroyer_bourrasque_class_bourrasque_1;Bourrasque
 fr_destroyer_bourrasque_class_bourrasque_2;Destroyer
 fr_destroyer_aigle_class_milan_shop;Milan (X 111)
-fr_destroyer_aigle_class_milan_0;"Aigle-class, Milan (X 111), 1942"
+fr_destroyer_aigle_class_milan_0;Aigle-class, Milan (X 111), 1942
 fr_destroyer_aigle_class_milan_1;Milan
 fr_destroyer_aigle_class_milan_2;Destroyer
 fr_battleship_courbet_class_paris_shop;Paris
-fr_battleship_courbet_class_paris_0;"Courbet-class, Paris, 1939"
+fr_battleship_courbet_class_paris_0;Courbet-class, Paris, 1939
 fr_battleship_courbet_class_paris_1;Paris
 fr_battleship_courbet_class_paris_2;Battleship
 fr_battleship_bretagne_class_lorraine_shop;Lorraine
-fr_battleship_bretagne_class_lorraine_0;"Bretagne-class, Lorraine, 1944"
+fr_battleship_bretagne_class_lorraine_0;Bretagne-class, Lorraine, 1944
 fr_battleship_bretagne_class_lorraine_1;Lorraine
 fr_battleship_bretagne_class_lorraine_2;Battleship
 fr_destroyer_jaguar_class_leopard_shop;Léopard (X 22)
-fr_destroyer_jaguar_class_leopard_0;"Jaguar-class, Léopard (X 22), 1942"
+fr_destroyer_jaguar_class_leopard_0;Jaguar-class, Léopard (X 22), 1942
 fr_destroyer_jaguar_class_leopard_1;Leopard
 fr_destroyer_jaguar_class_leopard_2;Destroyer
 fr_cruiser_emile_bertin_shop;Emile Bertin
-fr_cruiser_emile_bertin_0;"Emile Bertin-class, Emile Bertin, 1942"
+fr_cruiser_emile_bertin_0;Emile Bertin-class, Emile Bertin, 1942
 fr_cruiser_emile_bertin_1;Emile Bertin
 fr_cruiser_emile_bertin_2;Light cruiser
 fr_destroyer_marceau_class_marceau_shop;Marceau (D 601)
-fr_destroyer_marceau_class_marceau_0;"Marceau (D 601), 1950"
+fr_destroyer_marceau_class_marceau_0;Marceau (D 601), 1950
 fr_destroyer_marceau_class_marceau_1;Marceau
 fr_destroyer_marceau_class_marceau_2;Destroyer
 it_mc_485_shop;MC 485
-it_mc_485_0;"S 26-class, MC 485"
+it_mc_485_0;S 26-class, MC 485
 it_mc_485_1;MC 485
 it_mc_485_2;Motor torpedo boat
 uk_battlecruiser_renown_shop;HMS Renown (72)
-uk_battlecruiser_renown_0;"Renown-class, HMS Renown (72), 1944"
+uk_battlecruiser_renown_0;Renown-class, HMS Renown (72), 1944
 uk_battlecruiser_renown_1;HMS Renown
 uk_battlecruiser_renown_2;Battlecruiser
 fr_cruiser_suffren_class_dupleix_shop;Dupleix
-fr_cruiser_suffren_class_dupleix_0;"Suffren-class, Dupleix, 1942"
+fr_cruiser_suffren_class_dupleix_0;Suffren-class, Dupleix, 1942
 fr_cruiser_suffren_class_dupleix_1;Dupleix
 fr_cruiser_suffren_class_dupleix_2;Heavy cruiser
 cargo_ship_norbris;Cargo ship
 tanker_nicolaos;Tanker
 jp_destroyer_hatsuzuki_shop;◓ Hatsuzuki
-jp_destroyer_hatsuzuki_0;"◓ Akizuki-class (F-51A), Hatsuzuki, 1942"
+jp_destroyer_hatsuzuki_0;◓ Akizuki-class (F-51A), Hatsuzuki, 1942
 jp_destroyer_hatsuzuki_1;◓ Hatsuzuki
 jp_destroyer_hatsuzuki_2;Destroyer
 jp_type7_pt808_shop;PT No. 8
@@ -13235,139 +13235,139 @@ jp_type7_pt808_0;PT No. 8 (PT-808)
 jp_type7_pt808_1;PT No. 8
 jp_type7_pt808_2;Motor torpedo boat
 germ_battleship_nassau_shop;SMS Nassau
-germ_battleship_nassau_0;"Nassau-class, SMS Nassau, 1910"
+germ_battleship_nassau_0;Nassau-class, SMS Nassau, 1910
 germ_battleship_nassau_1;SMS Nassau
 germ_battleship_nassau_2;Battleship
 ussr_battleship_marat_shop;Marat
-ussr_battleship_marat_0;"Syevastopol'-class, Marat, 1941"
+ussr_battleship_marat_0;Syevastopol'-class, Marat, 1941
 ussr_battleship_marat_1;Marat
 ussr_battleship_marat_2;Battleship
 germ_minelayer_drache_shop;Drache
-germ_minelayer_drache_0;"R-1-class, Drache"
+germ_minelayer_drache_0;R-1-class, Drache
 germ_minelayer_drache_1;Drache
 germ_minelayer_drache_2;Minesweeper
 jp_destroyer_momi_shop;Momi
-jp_destroyer_momi_0;"Momi-class (F-37), Momi, 1930"
+jp_destroyer_momi_0;Momi-class (F-37), Momi, 1930
 jp_destroyer_momi_1;Momi
 jp_destroyer_momi_2;Destroyer
 it_destroyer_impetuoso_class_impetuoso_shop;Impetuoso (D 558)
-it_destroyer_impetuoso_class_impetuoso_0;"Indomito class, Impetuoso (D 558), 1958"
+it_destroyer_impetuoso_class_impetuoso_0;Indomito class, Impetuoso (D 558), 1958
 it_destroyer_impetuoso_class_impetuoso_1;Impetuoso
 it_destroyer_impetuoso_class_impetuoso_2;Destroyer
 jp_armoredcruiser_kurama_shop;Kurama
-jp_armoredcruiser_kurama_0;"Kurama-class, Kurama, 1920"
+jp_armoredcruiser_kurama_0;Kurama-class, Kurama, 1920
 jp_armoredcruiser_kurama_1;Kurama
 jp_armoredcruiser_kurama_2;Battlecruiser
 jp_battleship_yamashiro_shop;Yamashiro
-jp_battleship_yamashiro_0;"Fusō-class (A-64), Yamashiro, 1920"
+jp_battleship_yamashiro_0;Fusō-class (A-64), Yamashiro, 1920
 jp_battleship_yamashiro_1;Yamashiro
 jp_battleship_yamashiro_2;Battleship
 uk_battleship_iron_duke_shop;HMS Iron Duke (18)
-uk_battleship_iron_duke_0;"Iron Duke-class, HMS Iron Duke (18), 1928"
+uk_battleship_iron_duke_0;Iron Duke-class, HMS Iron Duke (18), 1928
 uk_battleship_iron_duke_1;HMS Iron Duke
 uk_battleship_iron_duke_2;Battleship
 uk_gay_class_archer_shop;HMS Gay Archer (P1041)
-uk_gay_class_archer_0;"Gay-class, HMS Gay Archer (P1041)"
+uk_gay_class_archer_0;Gay-class, HMS Gay Archer (P1041)
 uk_gay_class_archer_1;HMS Gay Archer
 uk_gay_class_archer_2;Motor torpedo boat
 it_battleship_conte_di_cavour_shop;Conte di Cavour
-it_battleship_conte_di_cavour_0;"Conte di Cavour-class, Conte di Cavour, 1944"
+it_battleship_conte_di_cavour_0;Conte di Cavour-class, Conte di Cavour, 1944
 it_battleship_conte_di_cavour_1;Conte di Cavour
 it_battleship_conte_di_cavour_2;Battleship
 germ_battleship_sachsen_shop;SMS Sachsen
-germ_battleship_sachsen_0;"Bayern-class, SMS Sachsen"
+germ_battleship_sachsen_0;Bayern-class, SMS Sachsen
 germ_battleship_sachsen_1;SMS Sachsen
 germ_battleship_sachsen_2;Battleship
 fr_destroyer_hunt_3series_shop;La Combattante (L 19)
-fr_destroyer_hunt_3series_0;"Hunt-class, La Combattante (L 19), 1944"
+fr_destroyer_hunt_3series_0;Hunt-class, La Combattante (L 19), 1944
 fr_destroyer_hunt_3series_1;La Combattante
 fr_destroyer_hunt_3series_2;Destroyer
 ussr_destroyer_pr45_shop;Opytnyj
-ussr_destroyer_pr45_0;"Pr. 45, Opytnyj, 1942"
+ussr_destroyer_pr45_0;Pr. 45, Opytnyj, 1942
 ussr_destroyer_pr45_1;Opytnyj
 ussr_destroyer_pr45_2;Destroyer
 jp_yuri_class_asagao_shop;Asagao (YTE-01)
-jp_yuri_class_asagao_0;"Yuri-class, Asagao (YTE-01)"
+jp_yuri_class_asagao_0;Yuri-class, Asagao (YTE-01)
 jp_yuri_class_asagao_1;Asagao
 jp_yuri_class_asagao_2;Gunboat
 uk_battleship_orion_shop;HMS Orion (52)
-uk_battleship_orion_0;"Orion-class, HMS Orion (52), 1914"
+uk_battleship_orion_0;Orion-class, HMS Orion (52), 1914
 uk_battleship_orion_1;HMS Orion
 uk_battleship_orion_2;Battleship
 fr_battleship_courbet_class_courbet_shop;Courbet
-fr_battleship_courbet_class_courbet_0;"Courbet-class, Courbet, 1920"
+fr_battleship_courbet_class_courbet_0;Courbet-class, Courbet, 1920
 fr_battleship_courbet_class_courbet_1;Courbet
 fr_battleship_courbet_class_courbet_2;Battleship
 it_battleship_leonardo_da_vinci_shop;Leonardo da Vinci
-it_battleship_leonardo_da_vinci_0;"Conte di Cavour-class, Leonardo da Vinci, 1915"
+it_battleship_leonardo_da_vinci_0;Conte di Cavour-class, Leonardo da Vinci, 1915
 it_battleship_leonardo_da_vinci_1;Leonardo da Vinci
 it_battleship_leonardo_da_vinci_2;Battleship
 fr_destroyer_vauquelin_class_vauquelin_shop;Vauquelin (X 53)
-fr_destroyer_vauquelin_class_vauquelin_0;"Vauquelin-class, Vauqueli (X 53), 1941"
+fr_destroyer_vauquelin_class_vauquelin_0;Vauquelin-class, Vauqueli (X 53), 1941
 fr_destroyer_vauquelin_class_vauquelin_1;Vauquelin
 fr_destroyer_vauquelin_class_vauquelin_2;Destroyer
 ussr_battleship_novorossiysk_shop;Novorossijsk
-ussr_battleship_novorossiysk_0;"Conte di Cavour-class, Novorossiysk, 1955"
+ussr_battleship_novorossiysk_0;Conte di Cavour-class, Novorossiysk, 1955
 ussr_battleship_novorossiysk_1;Novorossijsk
 ussr_battleship_novorossiysk_2;Battleship
 fr_destroyer_le_fantasque_class_le_triomphant_shop;Le Triomphant (X 83)
-fr_destroyer_le_fantasque_class_le_triomphant_0;"Le Fantasque-class, Le Triomphant (X 83), 1942"
+fr_destroyer_le_fantasque_class_le_triomphant_0;Le Fantasque-class, Le Triomphant (X 83), 1942
 fr_destroyer_le_fantasque_class_le_triomphant_1;Le Triomphant
 fr_destroyer_le_fantasque_class_le_triomphant_2;Destroyer
 it_cruiser_bolzano_shop;Bolzano
-it_cruiser_bolzano_0;"Trento-class, Bolzano, 1937"
+it_cruiser_bolzano_0;Trento-class, Bolzano, 1937
 it_cruiser_bolzano_1;Bolzano
 it_cruiser_bolzano_2;Heavy cruiser
 jp_battleship_mutsu_shop;Mutsu
-jp_battleship_mutsu_0;"Nagato-class (A-114), Mutsu, 1922"
+jp_battleship_mutsu_0;Nagato-class (A-114), Mutsu, 1922
 jp_battleship_mutsu_1;Mutsu
 jp_battleship_mutsu_2;Battleship
 uk_destroyer_daring_class_diamond_shop;HMS Diamond (D35)
-uk_destroyer_daring_class_diamond_0;"Daring-class, HMS Diamond (D35), 1958"
+uk_destroyer_daring_class_diamond_0;Daring-class, HMS Diamond (D35), 1958
 uk_destroyer_daring_class_diamond_1;HMS Diamond
 uk_destroyer_daring_class_diamond_2;Destroyer
 fr_destroyer_desaix_class_kleber_shop;Kléber (D 603)
-fr_destroyer_desaix_class_kleber_0;"Desaix-class, Kléber (D 603), 1951"
+fr_destroyer_desaix_class_kleber_0;Desaix-class, Kléber (D 603), 1951
 fr_destroyer_desaix_class_kleber_1;Kléber
 fr_destroyer_desaix_class_kleber_2;Destroyer
 fr_battleship_bretagne_class_bretagne_shop;Bretagne
-fr_battleship_bretagne_class_bretagne_0;"Bretagne-class, Bretagne, 1925"
+fr_battleship_bretagne_class_bretagne_0;Bretagne-class, Bretagne, 1925
 fr_battleship_bretagne_class_bretagne_1;Bretagne
 fr_battleship_bretagne_class_bretagne_2;Battleship
 germ_battleship_baden_shop;SMS Baden
-germ_battleship_baden_0;"Bayern-class, SMS Baden, 1918"
+germ_battleship_baden_0;Bayern-class, SMS Baden, 1918
 germ_battleship_baden_1;SMS Baden
 germ_battleship_baden_2;Battleship
 germ_kondor2_class_shop;Bernau (343)
-germ_kondor2_class_0;"Projekt 89.2 UR, Bernau (343), 1985"
+germ_kondor2_class_0;Projekt 89.2 UR, Bernau (343), 1985
 germ_kondor2_class_1;Bernau
 germ_kondor2_class_2;Minesweeper
 it_alano_9851_shop;Alano (L 9851)
-it_alano_9851_0;"Alano-class, Alano (L 9851)"
+it_alano_9851_0;Alano-class, Alano (L 9851)
 it_alano_9851_1;Alano
 it_alano_9851_2;Motor gun boat
 jp_cruiser_haguro_shop;Haguro
-jp_cruiser_haguro_0;"Myōkō-class, Haguro, 1944"
+jp_cruiser_haguro_0;Myōkō-class, Haguro, 1944
 jp_cruiser_haguro_1;Haguro
 jp_cruiser_haguro_2;Heavy cruiser
 ussr_mpk_pr11451_shop;MPK-215
-ussr_mpk_pr11451_0;"Malen'kiy Protivolodochnyy Korabl' Proyekt 11451 Sokol-2, MPK-215"
+ussr_mpk_pr11451_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 11451 Sokol-2, MPK-215
 ussr_mpk_pr11451_1;MPK-215
 ussr_mpk_pr11451_2;Subchaser
 fr_destroyer_bourrasque_class_tornade_shop;Tornade (T 73)
-fr_destroyer_bourrasque_class_tornade_0;"Bourrasque-class, Tornade (T 73), 1939"
+fr_destroyer_bourrasque_class_tornade_0;Bourrasque-class, Tornade (T 73), 1939
 fr_destroyer_bourrasque_class_tornade_1;Tornade
 fr_destroyer_bourrasque_class_tornade_2;Destroyer
 fr_cruiser_chateaurenault_class_guichen_shop;Guichen (D 607)
-fr_cruiser_chateaurenault_class_guichen_0;"Chateaurenault-class, Guichen (D 607), 1957"
+fr_cruiser_chateaurenault_class_guichen_0;Chateaurenault-class, Guichen (D 607), 1957
 fr_cruiser_chateaurenault_class_guichen_1;Guichen
 fr_cruiser_chateaurenault_class_guichen_2;Destroyer
 uk_battlecruiser_queen_mary_shop;HMS Queen Mary (14)
-uk_battlecruiser_queen_mary_0;"Queen Mary-class, HMS Queen Mary (14), 1915"
+uk_battlecruiser_queen_mary_0;Queen Mary-class, HMS Queen Mary (14), 1915
 uk_battlecruiser_queen_mary_1;HMS Queen Mary
 uk_battlecruiser_queen_mary_2;Battlecruiser
 us_frigate_buckley_class_coolbaugh_shop;USS Coolbaugh (DE-217)
-us_frigate_buckley_class_coolbaugh_0;"Buckley-class, USS Coolbaugh (DE-217)"
+us_frigate_buckley_class_coolbaugh_0;Buckley-class, USS Coolbaugh (DE-217)
 us_frigate_buckley_class_coolbaugh_1;USS Coolbaugh
 us_frigate_buckley_class_coolbaugh_2;Frigate
 fr_vlt2_shop;VLT 2
@@ -13379,11 +13379,11 @@ fr_vlt1_0;Vedette Lance Torpille 1
 fr_vlt1_1;VLT 1
 fr_vlt1_2;MTB
 fr_mtb96_vosper_shop;MTB 96
-fr_mtb96_vosper_0;"MTB Vosper 3 series, MTB 96"
+fr_mtb96_vosper_0;MTB Vosper 3 series, MTB 96
 fr_mtb96_vosper_1;MTB 96
 fr_mtb96_vosper_2;Motor torpedo boat
 fr_lcg_m_l9059_shop;L 9059
-fr_lcg_m_l9059_0;" Landing Craft, Gun (Medium), L 9059"
+fr_lcg_m_l9059_0; Landing Craft, Gun (Medium), L 9059
 fr_lcg_m_l9059_1;L 9059
 fr_lcg_m_l9059_2;Motor gun boat
 fr_vtb8_shop;VTB 8
@@ -13399,7 +13399,7 @@ fr_type40k_vedette_0;Vedette Torpilleur VTB 19
 fr_type40k_vedette_1;VTB 19
 fr_type40k_vedette_2;MTB
 germ_battlecruiser_derfflinger_shop;SMS Derfflinger
-germ_battlecruiser_derfflinger_0;"Derfflinger-class, SMS Derfflinger, 1916"
+germ_battlecruiser_derfflinger_0;Derfflinger-class, SMS Derfflinger, 1916
 germ_battlecruiser_derfflinger_1;SMS Derfflinger
 germ_battlecruiser_derfflinger_2;Battlecruiser
 fr_vtb11_shop;VTB 11
@@ -13415,19 +13415,19 @@ fr_vtb14_0;Vedette Torpilleur VTB 14
 fr_vtb14_1;VTB 14
 fr_vtb14_2;MTB
 uk_battleship_q_elizabet_class_barham_shop;HMS Barham (04)
-uk_battleship_q_elizabet_class_barham_0;"Queen Elizabeth-class, HMS Barham (04), 1916"
+uk_battleship_q_elizabet_class_barham_0;Queen Elizabeth-class, HMS Barham (04), 1916
 uk_battleship_q_elizabet_class_barham_1;HMS Barham
 uk_battleship_q_elizabet_class_barham_2;Battleship
 us_battleship_tennessee_shop;USS Tennessee (BB-43)
-us_battleship_tennessee_0;"Tennessee-class, USS Tennessee (BB-43), 1943"
+us_battleship_tennessee_0;Tennessee-class, USS Tennessee (BB-43), 1943
 us_battleship_tennessee_1;USS Tennessee
 us_battleship_tennessee_2;Battleship
 jp_type1_pt2_shop;PT-802
-jp_type1_pt2_0;"Type 1, PT-802"
+jp_type1_pt2_0;Type 1, PT-802
 jp_type1_pt2_1;PT-802
 jp_type1_pt2_2;Motor torpedo boat
 ussr_battlecruiser_izmail_shop;Izmail
-ussr_battlecruiser_izmail_0;"Izmail-class, Izmail, project"
+ussr_battlecruiser_izmail_0;Izmail-class, Izmail, project
 ussr_battlecruiser_izmail_1;Izmail
 ussr_battlecruiser_izmail_2;Battlecruiser
 fr_p730_combattante_shop;La Combattante (P 730)
@@ -13435,19 +13435,19 @@ fr_p730_combattante_0;La Combattante (P 730)
 fr_p730_combattante_1;La Combattante
 fr_p730_combattante_2;Missile boat
 fr_arras_class_arras_shop;Arras (AS)
-fr_arras_class_arras_0;"Arras-class, Arras (AS)"
+fr_arras_class_arras_0;Arras-class, Arras (AS)
 fr_arras_class_arras_1;Arras
 fr_arras_class_arras_2;Corvette
 fr_destroyer_mogador_class_mogador_shop;Mogador (X 61)
-fr_destroyer_mogador_class_mogador_0;"Mogador-class, Mogador (X 61), 1940"
+fr_destroyer_mogador_class_mogador_0;Mogador-class, Mogador (X 61), 1940
 fr_destroyer_mogador_class_mogador_1;Mogador
 fr_destroyer_mogador_class_mogador_2;Destroyer
 fr_frigate_croix_de_lorraine_class_la_surprise_shop;La Suprise (F 08)
-fr_frigate_croix_de_lorraine_class_la_surprise_0;"Croix de Lorraine-class, La Suprise (F 08)"
+fr_frigate_croix_de_lorraine_class_la_surprise_0;Croix de Lorraine-class, La Suprise (F 08)
 fr_frigate_croix_de_lorraine_class_la_surprise_1;La Suprise
 fr_frigate_croix_de_lorraine_class_la_surprise_2;Frigate
 uk_fremantle_class_shop;HMAS Fremantle (FCPB 203)
-uk_fremantle_class_0;"Fremantle-class, HMAS Fremantle (FCPB 203)"
+uk_fremantle_class_0;Fremantle-class, HMAS Fremantle (FCPB 203)
 uk_fremantle_class_1;HMAS Fremantle
 uk_fremantle_class_2;MGB
 it_mas441_shop;MAS 441
@@ -13470,7 +13470,7 @@ it_leopard_2a7_hungary_0;◔ Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A7 HU
 it_leopard_2a7_hungary_1;◔ Leopard 2 A7 HU
 it_leopard_2a7_hungary_2;MBT
 it_albatros_class_f544_shop;Alcione (F 544)
-it_albatros_class_f544_0;"Albatros-class, Alcione (F 544)"
+it_albatros_class_f544_0;Albatros-class, Alcione (F 544)
 it_albatros_class_f544_1;Albatros
 it_albatros_class_f544_2;Corvette
 il_sholef_shop;Sholef V1

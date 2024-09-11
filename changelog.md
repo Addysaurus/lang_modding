@@ -22,12 +22,13 @@ All dates are listed in DD-MM-YYYY format.
 
     - Cleaned up the quotation marks in `WTHLM_units.csv` following the reformating of the files.
     - Update "Dance of Dragons" changes (forgot to change these in 1.09.00 and 1.09.01):
-        - **IJN Amagi** renamed to **Amagi**.
+        - **IJN Amagi** renamed to **Amagi**. The long name has been changed to **Amagi-class (B-64), Amagi, project**.
         - **Puma/Puma VJTF** folder renamed to **SPz Puma S0 / 1**.
     - The **SU-76D**'s long name has been changed to **GAZ-74 | SU-76D**.
     - **PBM-5A "Mariner"** renamed to **PBM-5A**. The long name has been changed to **PBM-5A Mariner**. I thought I had done this in a previous version, but apparently I forgot to.
     - The **M60A2**'s long name has been changed to **Tank, Combat, Full Tracked: 152mm Gun-Launcher, M60A2**.
     - The **PT-556**'s mid distance name has been changed to **PT-556**.
+    - The manufacturer **Landsverk** has been renamed to **Aktiebolaget Landsverk**.
 
 ### Weaponry:
 

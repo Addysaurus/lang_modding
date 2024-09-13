@@ -12,11 +12,18 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles
 
-- #### Changes:
+- #### Changes:]
 
+    - **La Suprise (F 08)** renamed to **La Surprise (F 08)**. The long name has been changed to **Chamois-class, La Surprise (F 08)**
     - The format for the dates of naval vehicles have changed. Instead of the previous format of "[class], [name], [date]," the date will now be formatted in parentheses and will only be present for vessels that have been refitted. For example, the **Admiral-class, HMS Hood (51), 1941** becomes the **Admiral-class, HMS Hood (51) (1941)** because it is in its 1941 refit, and the **Worcester-class, USS Roanoke (CL-145), 1949** becomes the **Worcester-class, USS Roanoke (CL-145)** because its 1949 fit was its fit when it was originally constructed, before any refits. Because this change applies to almost every vessel in the game, I will not list every vessel it applies to. That would just be a 150 vessel list of every bluewater fleet ship in the game. Instead, I will list all vessels that have lost their years due to being in their original configuration and all vessels that have had their year changed. The list is as follows:
         - Vessels that have lost their dates:
             - **USS Roanoke (CL-145)**
+            - **USS Allan M. Sumner (DD-692)**
+            - **USS Gearing (DD-710)**
+            - **USS Frank Knox (DD-742)**
+            - **USS Fletcher (DD-445)**
+            - **USS Cowell (DD-547)**
+            - **USS Bennion (DD-662)**
 
 ## 1.09.02 - 11-09-2024
 

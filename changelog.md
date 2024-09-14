@@ -12,7 +12,7 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles
 
-- #### Changes:]
+- #### Changes:
 
     - **La Suprise (F 08)** renamed to **La Surprise (F 08)** (not sure how I made this typo 3 times lol). The long name has been changed to **Chamois-class, La Surprise (F 08)**
     - The **Arthur Becker (841)**'s distance name has been changed to **Arthur Becker**.
@@ -26,6 +26,14 @@ All dates are listed in DD-MM-YYYY format.
             - **USS Cowell (DD-547)**
             - **USS Bennion (DD-662)**
             - **USS Mitscher (DL-2)**
+
+### Weaponry:
+
+- #### Changes:
+
+    - The following bombs have had their mass tags corrected to 546.5 kg:
+        - **AN/M65A1**
+        - **AN/M65A1 (M129)**
 
 ## 1.09.02 - 11-09-2024
 

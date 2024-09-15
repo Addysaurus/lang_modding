@@ -12,11 +12,18 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles
 
+- #### Additions:
+
+    - **Alvis** added as the manufacturer for the **Fox**.
+    - **Alvis Vickers** added as the manufacturer for the following vehicles:
+        - **F.V.4333 (AD)**
+        - **F.V.4333 (HVM)**
+
 - #### Changes:
 
     - **La Suprise (F 08)** renamed to **La Surprise (F 08)** (not sure how I made this typo 3 times lol). The long name has been changed to **Chamois-class, La Surprise (F 08)**
     - The **Arthur Becker (841)**'s distance name has been changed to **Arthur Becker**.
-    - The format for the dates of naval vehicles have changed. Instead of the previous format of "[class], [name], [date]," the date will now be formatted in parentheses and will only be present for vessels that have been refitted. For example, the **Admiral-class, HMS Hood (51), 1941** becomes the **Admiral-class, HMS Hood (51) (1941)** because it is in its 1941 refit, and the **Worcester-class, USS Roanoke (CL-145), 1949** becomes the **Worcester-class, USS Roanoke (CL-145)** because its 1949 fit was its fit when it was originally constructed, before any refits. Because this change applies to almost every vessel in the game, I will not list every vessel it applies to. That would just be a 150 vessel list of every bluewater fleet ship in the game. Instead, I will list all vessels that have lost their years due to being in their original configuration and all vessels that have had their year changed. The list is as follows:
+    - The format for the dates of naval vehicles have changed. Instead of the previous format of "[class], [name], [date]," the date will now be formatted in parentheses and will only be present for vessels that have been refitted. For example, the **Admiral-class, HMS Hood (51), 1941** becomes the **Admiral-class, HMS Hood (51) (1941)** because it is in its 1941 refit, and the **Worcester-class, USS Roanoke (CL-145), 1949** becomes the **Worcester-class, USS Roanoke (CL-145)** because its 1949 fit was its fit when it was originally constructed, before any refits. Because this change applies to all vessels, I will not list every vessel it applies to. Instead, I will list all vessels that have lost their years due to being in their original configuration and all vessels that have had their year changed. Only US bluewater fleet vessels and the **HMS Hood (51)** have been moved over to this system (I tried to do every naval vehicle and I quickly realized how bad of an idea that was). The list is as follows:
         - Vessels that have lost their dates:
             - **USS Roanoke (CL-145)**
             - **USS Allan M. Sumner (DD-692)**
@@ -26,6 +33,17 @@ All dates are listed in DD-MM-YYYY format.
             - **USS Cowell (DD-547)**
             - **USS Bennion (DD-662)**
             - **USS Mitscher (DL-2)**
+            - **USS Somers (DD-381)**
+        - Vessels that have had their dates changed:
+            - **USS Porter (DD-356)**: 1941 → 1939
+    - **F.V.4333 (AD)** renamed to **Stormer Air Defense**. The long name has been changed to **Alvis Vickers | Alvis Stormer Air Defense**.
+    - The **Fox**'s long name has been changed to **Alvis | F.V.721 | Combat Vehicle, Reconnaissance, Wheeled, 30mm Gun, Fox**.
+    - The **Su-25**'s long name has been changed to **Su-25 "Grač"**.
+    - The **Su-25K**'s long name has been changed to **Su-25K "Grač"**.
+    - The **Su-25T**'s long name has been changed to **Su-25T "Grač"**.
+    - The **Su-25TM (MAKS-2003)**'s long name has been changed to **Su-25TM ""Grač"" (MAKS-2003)**.
+    - The **Su-25 (558-j ARZ)**'s long name has been changed to **558-j Aviaczionnyj Ryemontnyj Zavod | Su-25 "Grač"**.
+    - The **Su-25SM3**'s long name has been changed to **Su-25SM3 "Grač"**.
 
 ### Weaponry:
 
@@ -34,6 +52,7 @@ All dates are listed in DD-MM-YYYY format.
     - The following bombs have had their mass tags corrected to 546.5 kg:
         - **AN/M65A1**
         - **AN/M65A1 (M129)**
+    - **AIM-120B** renamed to **AIM-120A** (Gaijin changed the model to the **AIM-120A**). The modifications have been adjusted accordingly.
 
 ## 1.09.02 - 11-09-2024
 

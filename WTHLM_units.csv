@@ -3454,31 +3454,31 @@ us_destroyer_mitscher_wilkinson_1;USS Wilkinson (DL-5)
 us_destroyer_mitscher_wilkinson_2;Destroyer
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3;
 us_destroyer_porter_1941_shop;USS Porter (DD-356)
-us_destroyer_porter_1941_0;Porter-class, USS Porter (DD-356), 1941
+us_destroyer_porter_1941_0;Porter-class, USS Porter (DD-356) (1939)
 us_destroyer_porter_1941_1;USS Porter (DD-356)
 us_destroyer_porter_1941_2;Destroyer
 us_destroyer_porter_1942_shop;USS Moffett (DD-362)
-us_destroyer_porter_1942_0;Porter-class, USS Moffett (DD-362), 1942
+us_destroyer_porter_1942_0;Porter-class, USS Moffett (DD-362) (1942)
 us_destroyer_porter_1942_1;USS Moffett (DD-362)
 us_destroyer_porter_1942_2;Destroyer
 us_destroyer_porter_1944_shop;USS Phelps (DD-360)
-us_destroyer_porter_1944_0;Porter-class, USS Phelps (DD-360), 1944
+us_destroyer_porter_1944_0;Porter-class, USS Phelps (DD-360) (1944)
 us_destroyer_porter_1944_1;USS Phelps (DD-360)
 us_destroyer_porter_1944_2;Destroyer
 us_destroyer_somers_shop;USS Somers (DD-381)
-us_destroyer_somers_0;Somers-class, USS Somers (DD-381), 1938
+us_destroyer_somers_0;Somers-class, USS Somers (DD-381)
 us_destroyer_somers_1;USS Somers (DD-381)
 us_destroyer_somers_2;Destroyer
 us_destroyer_somers_davis_shop;USS Davis (DD-395)
-us_destroyer_somers_davis_0;Somers-class, USS Davis (DD-395), 1942
+us_destroyer_somers_davis_0;Somers-class, USS Davis (DD-395) (1942)
 us_destroyer_somers_davis_1;USS Davis (DD-395)
 us_destroyer_somers_davis_2;Destroyer
 us_cruiser_omaha_class_trenton_shop;USS Raleigh (CL-7)
-us_cruiser_omaha_class_trenton_0;Omaha-class, USS Raleigh (CL-7), 1941
+us_cruiser_omaha_class_trenton_0;Omaha-class, USS Raleigh (CL-7) (1941)
 us_cruiser_omaha_class_trenton_1;USS Raleigh
 us_cruiser_omaha_class_trenton_2;Light Cruiser
 us_cruiser_omaha_class_raleigh_shop;USS Memphis (CL-13)
-us_cruiser_omaha_class_raleigh_0;Omaha-class, USS Memphis (CL-13), 1943
+us_cruiser_omaha_class_raleigh_0;Omaha-class, USS Memphis (CL-13) (1943)
 us_cruiser_omaha_class_raleigh_1;USS Memphis
 us_cruiser_omaha_class_raleigh_2;Light Cruiser
 us_cruiser_omaha_class_detroit_shop;USS Detroit (CL-8)
@@ -5399,7 +5399,7 @@ uk_fv4004_conway_0;Tank, Heavy Gun, Conway
 uk_fv4004_conway_1;Conway
 uk_fv4004_conway_2;SPG
 uk_fv721_fox_shop;Fox
-uk_fv721_fox_0;Combat Vehicle, Reconnaissance, Wheeled, 30mm Gun, Fox
+uk_fv721_fox_0;Alvis | F.V.721 | Combat Vehicle, Reconnaissance, Wheeled, 30mm Gun, Fox
 uk_fv721_fox_1;Fox
 uk_fv721_fox_2;Light tank
 uk_fv438_swingfire_shop;Swingfire
@@ -6755,27 +6755,27 @@ su_22m3_hungary_0;◔ izd. S-52M3 | Szu-22M3
 su_22m3_hungary_1;◔ Szu-22M3
 su_22m3_hungary_2;◔ Szu-22
 su_25_shop;Su-25
-su_25_0;Su-25
+su_25_0;"Su-25 ""Grač"""
 su_25_1;Su-25
 su_25_2;Su-25
 su_25k_shop;▂ Su-25K
-su_25k_0;▂ Su-25K
+su_25k_0;"▂ Su-25K ""Grač"""
 su_25k_1;▂ Su-25K
 su_25k_2;▂ Su-25
 su_25t_shop;Su-25T
-su_25t_0;Su-25T
+su_25t_0;"Su-25T ""Grač"""
 su_25t_1;Su-25T
 su_25t_2;Su-25
 su_25tm_shop;Su-25TM (MAKS-2003)
-su_25tm_0;Su-25TM (MAKS-2003)
+su_25tm_0;"Su-25TM ""Grač"" (MAKS-2003)"
 su_25tm_1;Su-25TM
 su_25tm_2;Su-25
 su_25_558arz_shop;▂ Su-25 (558-j ARZ)
-su_25_558arz_0;▂ 558-j Aviaczionnyj Ryemontnyj Zavod | Su-25
+su_25_558arz_0;"▂ 558-j Aviaczionnyj Ryemontnyj Zavod | Su-25 ""Grač"""
 su_25_558arz_1;▂ Su-25
 su_25_558arz_2;▂ Su-25
 su_25sm3_shop;Su-25SM3
-su_25sm3_0;Su-25SM3
+su_25sm3_0;"Su-25SM3 ""Grač"""
 su_25sm3_1;Su-25SM3
 su_25sm3_2;Su-25
 su-9_shop;Su-9
@@ -10126,12 +10126,12 @@ uk_adats_m113a3_shop;▄ M113A3 (ADATS)
 uk_adats_m113a3_0;▄ M113A3 (Air Defense Anti-Tank System)
 uk_adats_m113a3_1;▄ M113 (ADATS)
 uk_adats_m113a3_2;SPAA
-uk_stormer_air_defence_shop;F.V.4333 (AD)
-uk_stormer_air_defence_0;F.V.4333 | Combat Vehicle, Carrier, Full Tracked, Air Defense
-uk_stormer_air_defence_1;F.V.4333 (AD)
+uk_stormer_air_defence_shop;Stormer Air Defense
+uk_stormer_air_defence_0;Alvis Vickers | Alvis Stormer Air Defense
+uk_stormer_air_defence_1;Stormer Air Defense
 uk_stormer_air_defence_2;SPAA
 uk_stormer_hvm_shop;F.V.4333 (HVM)
-uk_stormer_hvm_0;F.V.4333 | Combat Vehicle, Carrier, Full Tracked, High Velocity Missile System
+uk_stormer_hvm_0;Alvis Vickers | F.V.4333 | Combat Vehicle, Carrier, Full Tracked, High Velocity Missile System
 uk_stormer_hvm_1;F.V.4333 (HVM)
 uk_stormer_hvm_2;SPAA
 ussr_9p157_shop;9P157-2

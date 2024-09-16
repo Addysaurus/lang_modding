@@ -5,7 +5,6 @@ def translit_russian(text):
     final_list = []
     for i in text_list:
         if i.isupper():
-
             final_list.append(en_translit[ru_alphabet.index(i)])
         elif i.islower():
             final_list.append(en_translit[ru_alphabet.index(i.upper())].lower())
@@ -22,13 +21,69 @@ def translit_russian(text):
     print(final_list)
     final_name = ''.join(final_list)
     print(final_name)
+    
+def translit_hebrew(text):
+    transliteration_dict = {
+        'א' : "'",
+        'ב' : 'b',
+        'בּ' : 'b',
+        'ג' : 'g',
+        'ד' : 'd',
+        'ה' : 'h',
+        'הּ' : 'ḣ',
+        'ו' : 'w',
+        'ז' : 'z',
+        'ח' : 'ḥ',
+        'ט' : 'ṭ',
+        'י' : 'y',
+        'כ' : 'k',
+        'ך' : 'k',
+        'כּ' : 'k̇',
+        'ךּ' : 'k̇',
+        'ל' : 'l',
+        'מ' : 'm',
+        'ם' : 'm',
+        'נ' : 'n',
+        'ן' : 'n',
+        'ס' : 's',
+        'ע' : "'",
+        'פ' : 'p',
+        'ף' : 'p',
+        'פּ' : 'ṗ',
+        'ףּ' : 'ṗ',
+        'צ' : 'ṣ',
+        'ץ' : 'ṣ',
+        'ק' : 'q',
+        'ר' : 'r',
+        'ש' : 's̀',
+        'שׂ' : 'ś',
+        'שׁ' : 'š',
+        'ת' : 't',
+        '׳' : "'",
+        'ַ' : 'a',
+        'ָ' : 'a',
+        'ֵ' : 'e',
+        'ֶ' : 'e',
+        'ִ' : 'i',
+        'ֹ' : 'o',
+        'ַ' : 'a',
+    }
+    
+    text_list = list(text)
+    final_list = []
+    for i in text_list:
+        if i in transliteration_dict.keys():
+            final_list.append(transliteration_dict[i])
+        elif i == '.' or i == ' ' or i in ['1', '2', '3', '4', '5', '6', '7', '0', '9', '0']:
+            final_list.append(i)
+    print(final_list)
+    print(''.join(final_list))
 
-repeat = True
-
-while repeat:
+while True:
     choice = input('''Select what operation you would like to perform:
                 
     1. Russian transliteration
+    2. Hebrew transliteration
                    
     E. Exit
 
@@ -37,5 +92,8 @@ while repeat:
     if choice == '1':
         text = input('Enter the Russian text you would like to transliterate: ')
         translit_russian(text)
+    elif choice == '2':
+        text = input('Enter the Hebrew text you would like to transliterate: ')
+        translit_hebrew(text)
     elif choice.upper() == 'E':
-        repeat = False
+        break

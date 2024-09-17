@@ -44,6 +44,26 @@ All dates are listed in DD-MM-YYYY format.
     - The **Su-25TM (MAKS-2003)**'s long name has been changed to **Su-25TM ""Grač"" (MAKS-2003)**.
     - The **Su-25 (558-j ARZ)**'s long name has been changed to **558-j Aviaczionnyj Ryemontnyj Zavod | Su-25 "Grač"**.
     - The **Su-25SM3**'s long name has been changed to **Su-25SM3 "Grač"**.
+    - Israeli transliteration rework (why do I do this to myself) (all folders have been adjusted accordingly):
+        - **Merkava Mk. 1** (USA) renamed to **Merkavah Mk. 1**. The long name has been changed to **Merkavah Siman 1**.
+        - **Merkava Mk. 1M** renamed to **Merkavah Mk. 1M**. The long name has been changed to **Merkavah Siman 1 Mshupar**.
+        - **Merkava Mk. 2B (early)** renamed to **Merkavah Mk. 2B (early)**. The long name has been changed to **Merkavah Siman 2 Bet (early)**.
+        - **Merkava Mk. 2B (late)** (USA) renamed to **Merkavah Mk. 2B (late)**. The long name has been changed to **Merkavah Siman 2 Bet (late)**.
+        - **Merkava Mk. 2D** (USA) renamed to **Merkavah Mk. 2D**. The long name has been changed to **Merkavah Siman 2 Dor Dalet Kasag**.
+        - **Merkava Mk. 3 Ramaqh** (USA) renamed to **Merkavah Mk. 3 Ramaḥ**. The long name has been changed to **Merkavah Siman 3 Ramaḥ**.
+        - **Merkava Mk. 3B** (USA) renamed to **Merkavah Mk. 3B**. The long name has been changed to **Merkavah Siman 3 Bet Baz**.
+        - **Merkava Mk. 3D** (USA) renamed to **Merkavah Mk. 3D**. The long name has been changed to **Merkavah Siman 3 Dor Dalet Baz Kasag**.
+        - **Merkava Mk. 3D (Ra'am Segol)** renamed to **Merkavah Mk. 3D (Ra'am Segol)**. The long name has been changed to **Merkavah Siman 3 Dor Dalet Baz Kasag (Ra'am Segol)**.
+        - **Merkava Mk. 4B** renamed to **Merkavah Mk. 4B**. The long name has been changed to **Merkavah Siman 4 Bet**.
+        - **Merkava Mk. 4B "LIC"** renamed to **Merkavah Mk. 4B "LIC"**. The long name has been changed to **Merkavah Siman 4 Bet "Low Intensity Conflict"**.
+        - **Merkava Mk. 4M** renamed to **Merkavah Mk. 4M**. The long name has been changed to **Merkavah Siman 4 M'il Ruaḥ**.
+        - The long name of the **Namer (RCWS-30)** has been changed to **Nagmaš Merkavah (RCWS-30)**.
+        - **Giraf** renamed to **Gi'raf**.
+        - **Sho't Kal G** renamed to **Shoṭ Ḳal G**.
+        - **Sho't Kal A** renamed to **Shoṭ Ḳal A**.
+        - **Sho't Kal D** renamed to **Shoṭ Ḳal D**.
+        - **Sho't Kal D** (UK) renamed to **Shoṭ Ḳal D**.
+        - The **Centurion, Mk. 5**'s (Israel) long name has been changed to **Tank, Medium Gun, Centurion, Mk. 5 "Shoṭ"**
 
 ### Weaponry:
 

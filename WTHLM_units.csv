@@ -1519,10 +1519,10 @@ shop/group/il_magach_3_6_group;Magach 3 / 6
 shop/group/il_magach_6a_5_group;Magach 6A / 5
 shop/group/il_magach_6m_c_group;Magach 6M / G
 shop/group/il_magach_batash_7_group;Magach 6B Gal Batash / 7G
-shop/group/il_tiran_4_group;Tiran 4 / 4Sh
-shop/group/il_merkava_1_2_group;Merkava Mk. 1M / 2B
-shop/group/il_merkava_3_group;Merkava Mk. 3 Ramaqh / B Baz
-shop/group/il_merkava_4_group;"Merkava Mk. 4B / 4B ""LIC"""
+shop/group/il_tiran_4_group;Ṭiran 4 / 4Sh
+shop/group/il_merkava_1_2_group;Merkavah Mk. 1M / 2B
+shop/group/il_merkava_3_group;Merkavah Mk. 3 Ramaḥ / B Baz
+shop/group/il_merkava_4_group;"Merkavah Mk. 4B / B ""LIC"""
 shop/group/il_magach_6_6a_group;Magach 6 / 6A
 shop/group/il_magach_6_group;Magach 6B / R / R (M261)
 shop/group/a_4_iaf_group; A-4H / E (AFC 418-II)
@@ -3167,17 +3167,17 @@ us_xm1_gm_shop;XM1 (GM)
 us_xm1_gm_0;General Motors Defense | Tank, Combat, Full Tracked: 105mm Gun, XM1
 us_xm1_gm_1;XM1
 us_xm1_gm_2;MBT
-us_merkava_mk_1_shop;▃ Merkava Mk. 1
-us_merkava_mk_1_0;▃ Merkava Siman 1
-us_merkava_mk_1_1;▃ Merkava Mk. 1
+us_merkava_mk_1_shop;▃ Merkavah Mk. 1
+us_merkava_mk_1_0;▃ Merkavah Siman 1
+us_merkava_mk_1_1;▃ Merkavah Mk. 1
 us_merkava_mk_1_2;MBT
-us_merkava_mk_2b_late_shop;▃ Merkava Mk. 2B (late)
-us_merkava_mk_2b_late_0;▃ Merkava Siman 2 Bet (late)
-us_merkava_mk_2b_late_1;▃ Merkava Mk. 2
+us_merkava_mk_2b_late_shop;▃ Merkavah Mk. 2B (late)
+us_merkava_mk_2b_late_0;▃ Merkavah Siman 2 Bet (late)
+us_merkava_mk_2b_late_1;▃ Merkavah Mk. 2
 us_merkava_mk_2b_late_2;MBT
-us_merkava_mk_3d_shop;▃ Merkava Mk. 3D
-us_merkava_mk_3d_0;▃ Merkava Siman 3 Dor Dalet Baz Kasag
-us_merkava_mk_3d_1;▃ Merkava Mk. 3
+us_merkava_mk_3d_shop;▃ Merkavah Mk. 3D
+us_merkava_mk_3d_0;▃ Merkavah Siman 3 Dor Dalet Baz Kasag
+us_merkava_mk_3d_1;▃ Merkavah Mk. 3
 us_merkava_mk_3d_2;MBT
 us_xm_8_shop;XM8 AGS
 us_xm_8_0;105mm Armored Gun System, XM8
@@ -9362,9 +9362,9 @@ germ_leopard_2_pt14_shop;KPz Leopard 2 (PT 16/T 14)
 germ_leopard_2_pt14_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2, PT 16 mit T 14
 germ_leopard_2_pt14_1;Leopard 2
 germ_leopard_2_pt14_2;MBT
-il_m113a1_tow_shop;Giraf
-il_m113a1_tow_0;Giraf
-il_m113a1_tow_1;Giraf
+il_m113a1_tow_shop;Gi'raf
+il_m113a1_tow_0;Gi'raf
+il_m113a1_tow_1;Gi'raf
 il_m113a1_tow_2;SPG
 il_m109a1_shop;Rochev A
 il_m109a1_0;Rochev Alef
@@ -9382,29 +9382,29 @@ il_aml_90_shop; AML 90
 il_aml_90_0; AML 90
 il_aml_90_1; AML 90
 il_aml_90_2;Light tank
-il_centurion_shot_kal_gimel_shop;Sho't Cal G
-il_centurion_shot_kal_gimel_0;Sho't Cal Gimel
-il_centurion_shot_kal_gimel_1;Sho't Cal G
+il_centurion_shot_kal_gimel_shop;Shoṭ Ḳal G
+il_centurion_shot_kal_gimel_0;Shoṭ Ḳal Gimel
+il_centurion_shot_kal_gimel_1;Shoṭ Ḳal G
 il_centurion_shot_kal_gimel_2;Medium tank
-il_centurion_shot_kal_alef_shop;Sho't Cal A
-il_centurion_shot_kal_alef_0;Sho't Cal Alef
-il_centurion_shot_kal_alef_1;Sho't Cal A
+il_centurion_shot_kal_alef_shop;Shoṭ Ḳal A
+il_centurion_shot_kal_alef_0;Shoṭ Ḳal Alef
+il_centurion_shot_kal_alef_1;Shoṭ Ḳal A
 il_centurion_shot_kal_alef_2;Medium tank
 il_centurion_mk_5_shot_shop; Centurion, Mk. 5
-il_centurion_mk_5_shot_0;" Tank, Medium Gun, Centurion, Mk. 5 ""Sho't"""
+il_centurion_mk_5_shot_0;" Tank, Medium Gun, Centurion, Mk. 5 ""Shoṭ"""
 il_centurion_mk_5_shot_1; Centurion, Mk. 5
 il_centurion_mk_5_shot_2;Medium tank
-il_tiran_4_shop;Tiran 4
-il_tiran_4_0;Tiran 4
-il_tiran_4_1;Tiran 4
+il_tiran_4_shop;Ṭiran 4
+il_tiran_4_0;Ṭiran 4
+il_tiran_4_1;Ṭiran 4
 il_tiran_4_2;Medium tank
-il_tiran_4_sh_shop;Tiran 4Sh (early)
-il_tiran_4_sh_0;Tiran 4Sh (early)
-il_tiran_4_sh_1;Tiran 4
+il_tiran_4_sh_shop;Ṭiran 4Sh (early)
+il_tiran_4_sh_0;Ṭiran 4Sh (early)
+il_tiran_4_sh_1;Ṭiran 4
 il_tiran_4_sh_2;Medium tank
-il_tiran_6_shop;Tiran 6
-il_tiran_6_0;Tiran 6
-il_tiran_6_1;Tiran 6
+il_tiran_6_shop;Ṭiran 6
+il_tiran_6_0;Ṭiran 6
+il_tiran_6_1;Ṭiran 6
 il_tiran_6_2;Medium tank
 il_tcm_20_shop;Zachlad TCM-20
 il_tcm_20_0;Zachli Lemechetza Diesel TCM-20
@@ -9426,45 +9426,45 @@ il_ss_11_halftrack_shop;Zachlam Tager
 il_ss_11_halftrack_0;Zachli Lemechetza Tager
 il_ss_11_halftrack_1;Zachlam Tager
 il_ss_11_halftrack_2;SPG
-il_merkava_mk_1b_shop;Merkava Mk. 1M
-il_merkava_mk_1b_0;Merkava Siman 1 Meshupar
-il_merkava_mk_1b_1;Merkava Mk. 1
+il_merkava_mk_1b_shop;Merkavah Mk. 1M
+il_merkava_mk_1b_0;Merkavah Siman 1 Mshupar
+il_merkava_mk_1b_1;Merkavah Mk. 1
 il_merkava_mk_1b_2;MBT
 il_merkava_mk_3_raam_segol_shop;Merkavah Mk. 3D (Ra'am Segol)
-il_merkava_mk_3_raam_segol_0;Merkavah Siyman 3 Dor Dalet Baz Kasag (Ra'am Segol)
+il_merkava_mk_3_raam_segol_0;Merkavah Siman 3 Dor Dalet Baz Kasag (Ra'am Segol)
 il_merkava_mk_3_raam_segol_1;Merkavah Mk. 3
 il_merkava_mk_3_raam_segol_2;MBT
-il_merkava_mk_4_lic_shop;"Merkava Mk. 4B ""LIC"""
-il_merkava_mk_4_lic_0;"Merkava Siman 4 Bet ""Low Intensity Conflict"""
-il_merkava_mk_4_lic_1;Merkava Mk. 4
+il_merkava_mk_4_lic_shop;"Merkavah Mk. 4B ""LIC"""
+il_merkava_mk_4_lic_0;"Merkavah Siman 4 Bet ""Low Intensity Conflict"""
+il_merkava_mk_4_lic_1;Merkavah Mk. 4
 il_merkava_mk_4_lic_2;MBT
-il_merkava_mk_4m_shop;Merkava Mk. 4M
-il_merkava_mk_4m_0;Merkava Siman 4 Me'il Ru'ach
-il_merkava_mk_4m_1;Merkava Mk. 4
+il_merkava_mk_4m_shop;Merkavah Mk. 4M
+il_merkava_mk_4m_0;Merkavah Siman 4 M'il Ruaḥ
+il_merkava_mk_4m_1;Merkavah Mk. 4
 il_merkava_mk_4m_2;MBT
-il_merkava_mk_3c_shop;Merkava Mk. 3B Baz
-il_merkava_mk_3c_0;Merkava Siman 3 Bet Baz
-il_merkava_mk_3c_1;Merkava Mk. 3
+il_merkava_mk_3c_shop;Merkavah Mk. 3B Baz
+il_merkava_mk_3c_0;Merkavah Siman 3 Bet Baz
+il_merkava_mk_3c_1;Merkavah Mk. 3
 il_merkava_mk_3c_2;MBT
-il_merkava_mk_3b_shop;Merkava Mk. 3 Ramaqh
-il_merkava_mk_3b_0;Merkava Siman 3 Ramaqh
-il_merkava_mk_3b_1;Merkava Mk. 3
+il_merkava_mk_3b_shop;Merkavah Mk. 3 Ramaḥ
+il_merkava_mk_3b_0;Merkavah Siman 3 Ramaḥ
+il_merkava_mk_3b_1;Merkavah Mk. 3
 il_merkava_mk_3b_2;MBT
-il_merkava_mk_4b_shop;Merkava Mk. 4B
-il_merkava_mk_4b_0;Merkava Siman 4 Baz
-il_merkava_mk_4b_1;Merkava Mk. 4
+il_merkava_mk_4b_shop;Merkavah Mk. 4B
+il_merkava_mk_4b_0;Merkavah Siman 4 Bet
+il_merkava_mk_4b_1;Merkavah Mk. 4
 il_merkava_mk_4b_2;MBT
-il_merkava_mk_2b_early_shop;Merkava Mk. 2B (early)
-il_merkava_mk_2b_early_0;Merkava Siman 2 Bet (early)
-il_merkava_mk_2b_early_1;Merkava Mk. 2
+il_merkava_mk_2b_early_shop;Merkavah Mk. 2B (early)
+il_merkava_mk_2b_early_0;Merkavah Siman 2 Bet (early)
+il_merkava_mk_2b_early_1;Merkavah Mk. 2
 il_merkava_mk_2b_early_2;MBT
 il_namer_rcws_30_shop;Namer (RCWS-30)
-il_namer_rcws_30_0;Nagmash Merkava (RCWS-30)
+il_namer_rcws_30_0;Nagmaš Merkavah (RCWS-30)
 il_namer_rcws_30_1;Namer (RCWS-30)
 il_namer_rcws_30_2;Light tank
-il_centurion_shot_kal_d_shop;Sho't Cal D
-il_centurion_shot_kal_d_0;Sho't Cal Dalet
-il_centurion_shot_kal_d_1;Sho't Cal D
+il_centurion_shot_kal_d_shop;Shoṭ Ḳal D
+il_centurion_shot_kal_d_0;Shoṭ Ḳal Dalet
+il_centurion_shot_kal_d_1;Shoṭ Ḳal D
 il_centurion_shot_kal_d_2;MBT
 il_magach_3_shop;Magach 3 (Baltan)
 il_magach_3_0;Magach 3 (Baltan)
@@ -9538,13 +9538,13 @@ il_m_51_w_shop;M-51 (Tsadeh-814794)
 il_m_51_w_0;M-51 (Tsadeh-814794)
 il_m_51_w_1;M-51
 il_m_51_w_2;Medium tank
-il_merkava_mk_2d_shop;Merkava Mk. 2D
-il_merkava_mk_2d_0;Merkava Siman 2 Dor Dalet Kasag
-il_merkava_mk_2d_1;Merkava Mk. 2
+il_merkava_mk_2d_shop;Merkavah Mk. 2D
+il_merkava_mk_2d_0;Merkavah Siman 2 Dor Dalet Kasag
+il_merkava_mk_2d_1;Merkavah Mk. 2
 il_merkava_mk_2d_2;MBT
-uk_centurion_shot_kal_d_shop;▄ Sho't Cal D
-uk_centurion_shot_kal_d_0;▄ Sho't Cal Dalet
-uk_centurion_shot_kal_d_1;▄ Sho't Cal D
+uk_centurion_shot_kal_d_shop;▄ Shoṭ Ḳal D
+uk_centurion_shot_kal_d_0;▄ Shoṭ Ḳal Dalet
+uk_centurion_shot_kal_d_1;▄ Shoṭ Ḳal D
 uk_centurion_shot_kal_d_2;Medium tank
 it_vcc_80_hitfist_60_shop;VCC-80 Dardo (60/70)
 it_vcc_80_hitfist_60_0;Veicolo Cingolato da Combattimento 80 Dardo da 60/70

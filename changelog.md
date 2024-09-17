@@ -82,6 +82,18 @@ All dates are listed in DD-MM-YYYY format.
         - **Zachlam Tager** renamed to **Zaḥalam Tager**. The long name has been changed to **Zaḥeli Lemeḥeṣah Tager**.
         - **Zachlad TCM-20** renamed to **Zaḥalad TCM-20**. The long name has been changed to **Zaḥeli Lemeḥeṣah Diesel TCM-20**.
         - **Rochev A** renamed to **Rokhev A**.
+        - The **A-4E (AFC 482)**'s (Israel) long name has been changed to **A-4E Skyhawk "'Ayiṭ" (AFC 482)**.
+        - The **A-4E (AFC 418-II)**'s (Israel) long name has been changed to **A-4E Skyhawk "'Ayiṭ" (AFC 418-II)**.
+        - The **A-4H**'s (Israel) long name has been changed to **A-4H Skyhawk "'Ayiṭ"**.
+        - The **A-4N**'s (Israel) long name has been changed to **A-4N Skyhawk "'Ayiṭ"**.
+        - The **Mirage III CJ**'s (Israel) long name has been changed to **Mirage III CJ "Šaḥaḳ"**.
+        - The **F-4E-48-MC**'s (Israel) long name has been changed to **F-4E-48-MC Ḳurnas**.
+        - **Kurnass 2000** renamed to **Ḳurnas 2000**.
+        - **Nesher S** renamed to **Nešer S**.
+        - The **F-16D-40-CF**'s (Israel) long name has been changed to **F-16D-40-CF Baraḳ II**.
+        - The **F-16C-40L-CF**'s (Israel) long name has been changed to **F-16C-40L-CF Baraḳ II**.
+        - The **F-16A-15OCU-CF**'s (Israel) long name has been changed to **F-16A-15OCU-CF Neṣ**.
+        - The **F-15C-40-MC (MSIP II)**'s (Israel) long name has been changed to **F-15C-40-MC Baz Mshupar (Multistage Improvement Program II)**.
 
 ### Weaponry:
 

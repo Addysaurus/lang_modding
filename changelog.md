@@ -79,6 +79,9 @@ All dates are listed in DD-MM-YYYY format.
         - **Magach 2** renamed to **Magaḥ 2**.
         - **Magach 1** renamed to **Magaḥ 1**.
         - **M-51 (Tsadeh-814794)** renamed to **M-51 (Ṣ-814794)**.
+        - **Zachlam Tager** renamed to **Zaḥalam Tager**. The long name has been changed to **Zaḥeli Lemeḥeṣah Tager**.
+        - **Zachlad TCM-20** renamed to **Zaḥalad TCM-20**. The long name has been changed to **Zaḥeli Lemeḥeṣah Diesel TCM-20**.
+        - **Rochev A** renamed to **Rokhev A**.
 
 ### Weaponry:
 

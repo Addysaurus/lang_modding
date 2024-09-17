@@ -64,6 +64,21 @@ All dates are listed in DD-MM-YYYY format.
         - **Sho't Kal D** renamed to **Shoṭ Ḳal D**.
         - **Sho't Kal D** (UK) renamed to **Shoṭ Ḳal D**.
         - The **Centurion, Mk. 5**'s (Israel) long name has been changed to **Tank, Medium Gun, Centurion, Mk. 5 "Shoṭ"**
+        - **Magach 3 (Baltan)** (USA and Israel) renamed to **Magaḥ 3 (Baltan)**.
+        - **Magach 3** renamed to **Magaḥ 3**.
+        - **Magach 5** renamed to **Magaḥ 5**.
+        - **Magach 6B Gal Batash** renamed to **Magaḥ 6B Gal Baṭaš**.
+        - **Magach 6A** renamed to **Magaḥ 6A**.
+        - **Magach 6R (M261)** renamed to **Magaḥ 6R (M261)**.
+        - **Magach 6R** renamed to **Magaḥ 6R**.
+        - **Magach 6G** renamed to **Magaḥ 6G**.
+        - **Magach 6M Tadach** renamed to **Magaḥ 6M Tadaḥ**.
+        - **Magach 6B Gal** renamed to **Magaḥ 6B Gal**.
+        - **Magach 6** renamed to **Magaḥ 6**.
+        - **Magach 7G** renamed to **Magaḥ 7G**.
+        - **Magach 2** renamed to **Magaḥ 2**.
+        - **Magach 1** renamed to **Magaḥ 1**.
+        - **M-51 (Tsadeh-814794)** renamed to **M-51 (Ṣ-814794)**.
 
 ### Weaponry:
 

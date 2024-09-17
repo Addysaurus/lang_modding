@@ -94,6 +94,11 @@ All dates are listed in DD-MM-YYYY format.
         - The **F-16C-40L-CF**'s (Israel) long name has been changed to **F-16C-40L-CF Baraḳ II**.
         - The **F-16A-15OCU-CF**'s (Israel) long name has been changed to **F-16A-15OCU-CF Neṣ**.
         - The **F-15C-40-MC (MSIP II)**'s (Israel) long name has been changed to **F-15C-40-MC Baz Mshupar (Multistage Improvement Program II)**.
+        - The **AH-64D-I**'s (Israel) long name has been changed to **Boeing Rotorcraft Systems | AH-64D-I Saraf**.
+        - **MD 500/Orev** renamed to **MD 500/'Orev**. The long name has been changed to **MD 500/'Orev Lahaṭuṭ**.
+        - The **AH-1G**'s (Israel) long name has been changed to **AH-1G Ṣefa Alef**.
+        - The **AH-1Q**'s (Israel) long name has been changed to **AH-1Q Ṣefa Bet**.
+        - The **AH-1S (FMC)**'s (Israel) long name has been changed to **AH-1S Ṣefa Dalet (Fully Modernized Cobra)**.
 
 ### Weaponry:
 

@@ -23,6 +23,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - **La Suprise (F 08)** renamed to **La Surprise (F 08)** (not sure how I made this typo 3 times lol). The long name has been changed to **Chamois-class, La Surprise (F 08)**
     - The **Arthur Becker (841)**'s distance name has been changed to **Arthur Becker**.
+    - **USS Tennessee (BB-43)** moved to the correct place in `units.csv`. This does not affect ingame naming.
     - The format for the dates of naval vehicles have changed. Instead of the previous format of "[class], [name], [date]," the date will now be formatted in parentheses and will only be present for vessels that have been refitted. For example, the **Admiral-class, HMS Hood (51), 1941** becomes the **Admiral-class, HMS Hood (51) (1941)** because it is in its 1941 refit, and the **Worcester-class, USS Roanoke (CL-145), 1949** becomes the **Worcester-class, USS Roanoke (CL-145)** because its 1949 fit was its fit when it was originally constructed, before any refits. Because this change applies to all vessels, I will not list every vessel it applies to. Instead, I will list all vessels that have lost their years due to being in their original configuration and all vessels that have had their year changed. Only US bluewater fleet vessels and the **HMS Hood (51)** have been moved over to this system (I tried to do every naval vehicle and I quickly realized how bad of an idea that was). The list is as follows:
         - Vessels that have lost their dates:
             - **USS Roanoke (CL-145)**
@@ -34,8 +35,21 @@ All dates are listed in DD-MM-YYYY format.
             - **USS Bennion (DD-662)**
             - **USS Mitscher (DL-2)**
             - **USS Somers (DD-381)**
+            - **USS Atlanta (CL-51)**
+            - **USS Fargo (CL-106)**
+            - **USS Cleveland (CL-55)**
+            - **USS Baltimore (CA-68)**
+            - **USS Des Moines (CA-134)**
+            - **USS Alaska (CB-1)**
         - Vessels that have had their dates changed:
             - **USS Porter (DD-356)**: 1941 → 1939
+            - **USS Portland (CA-33)**: 1942 → 1943
+            - **USS Pensacola (CA-24)**: 1941 → 1931
+            - **USS Northampton (CA-26)**: 1941 → 1940
+            - **USS Helena (CL-50)**: 1943 → 1942
+            - **USS Brooklyn (CL-40)**: 1941 → 1937
+            - **USS North Dakota (BB-29)**: 1919 → 1917
+            - **USS Newport News (CA-148)**: 1972 → 1968
     - **F.V.4333 (AD)** renamed to **Stormer Air Defense**. The long name has been changed to **Alvis Vickers | Alvis Stormer Air Defense**.
     - The **Fox**'s long name has been changed to **Alvis | F.V.721 | Combat Vehicle, Reconnaissance, Wheeled, 30mm Gun, Fox**.
     - The **Su-25**'s long name has been changed to **Su-25 "Grač"**.
@@ -101,7 +115,7 @@ All dates are listed in DD-MM-YYYY format.
         - The **AH-1S (FMC)**'s (Israel) long name has been changed to **AH-1S Ṣefa Dalet (Fully Modernized Cobra)**.
         - **Sholef V1** renamed to **Šolef V1**.
         - **P-26A-33 / B** folder renamed to **P-26A (1933) / B**.
-        - **P-26A-34-BO (M2)** renamed to **P-26C (M2)**. The **P-26A-34**s ingame have the **R-1340-33** engine which makes them the **P-26C**, rather than the **P-26A**.
+        - **P-26A-34-BO (M2)** renamed to **P-26C (M2)**. The **P-26A-34**s ingame have the carbureted **R-1340-33** engine with the new fuel system which makes them the **P-26C**, rather than the **P-26A**.
         - **P-26A-34-BO** renamed to **P-26C**.
         - **P-26A-33-BO** renamed to **P-26A (1933)**. The long name has been changed to **P-26A Peashooter (1933)**.
         - **P-26B-35-BO** renamed to **P-26B**.

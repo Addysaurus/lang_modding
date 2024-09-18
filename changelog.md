@@ -99,6 +99,13 @@ All dates are listed in DD-MM-YYYY format.
         - The **AH-1G**'s (Israel) long name has been changed to **AH-1G Ṣefa Alef**.
         - The **AH-1Q**'s (Israel) long name has been changed to **AH-1Q Ṣefa Bet**.
         - The **AH-1S (FMC)**'s (Israel) long name has been changed to **AH-1S Ṣefa Dalet (Fully Modernized Cobra)**.
+        - **Sholef V1** renamed to **Šolef V1**.
+        - **P-26A-33 / B** folder renamed to **P-26A (1933) / B**.
+        - **P-26A-34-BO (M2)** renamed to **P-26C (M2)**. The **P-26A-34**s ingame have the **R-1340-33** engine which makes them the **P-26C**, rather than the **P-26A**.
+        - **P-26A-34-BO** renamed to **P-26C**.
+        - **P-26A-33-BO** renamed to **P-26A (1933)**. The long name has been changed to **P-26A Peashooter (1933)**.
+        - **P-26B-35-BO** renamed to **P-26B**.
+        - **P-26A-35-BO** renamed to **P-26A (1935)**. The long name has been changed to **P-26A Peashooter (1935)**. This vehicle is not actually ingame yet, it's just a text entry.
 
 ### Weaponry:
 
@@ -108,6 +115,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/M65A1**
         - **AN/M65A1 (M129)**
     - **AIM-120B** renamed to **AIM-120A** (Gaijin changed the model to the **AIM-120A**). The modifications have been adjusted accordingly.
+    - **M839** renamed to **M-845** (Gaijin fixed the gun's stats so it is the **M-845** now).
 
 ## 1.09.02 - 11-09-2024
 

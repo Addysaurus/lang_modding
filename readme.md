@@ -101,3 +101,11 @@ Russian is transliterated with a modified version of GOST 7.79-2000 A (ISO 9:199
 - Э	э &nbsp; &nbsp;→ &nbsp; &nbsp;È è
 - Ю	ю &nbsp; &nbsp;→ &nbsp; &nbsp;Û û
 - Я	я &nbsp; &nbsp;→ &nbsp; &nbsp;Â â
+
+### Japanese
+
+Japanese is transliterated using the online translator/transliterator Romajidesu, with some help from Wiggly_Armed_Man, who is more experienced on this, to make sure that my transliterations are also accurate to exactly what Japan used (this is why tank destroyers are written with "ji hashihō" instead of Romajidesu's transliteration which is "jisōhō.")
+
+### Hebrew
+
+Hebrew transliteration is done using a heavily modified version of ISO 259-2:1994. The reason this transliteration table is not listed here is because due to Hebrew being an abjad instead of an alphabet and my code for transliteration having a habit of not recognizing letters that change their pronunciation based on Hebrew niqqud, any transliteration table I list here will inevitably have discrepancies with what you find in the game. To remedy this, every name undergoes a heavy manual review following their transliteration through my code to make sure it is actually accurate (vowels usually end up getting switched around a lot from the code to the version seen ingame). If you really want to see the exact transliteration code, you can find it in in `translit.py`.

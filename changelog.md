@@ -114,12 +114,19 @@ All dates are listed in DD-MM-YYYY format.
         - The **AH-1Q**'s (Israel) long name has been changed to **AH-1Q Ṣefa Bet**.
         - The **AH-1S (FMC)**'s (Israel) long name has been changed to **AH-1S Ṣefa Dalet (Fully Modernized Cobra)**.
         - **Sholef V1** renamed to **Šolef V1**.
-        - **P-26A-33 / B** folder renamed to **P-26A (1933) / B**.
-        - **P-26A-34-BO (M2)** renamed to **P-26C (M2)**. The **P-26A-34**s ingame have the carbureted **R-1340-33** engine with the new fuel system which makes them the **P-26C**, rather than the **P-26A**.
-        - **P-26A-34-BO** renamed to **P-26C**.
-        - **P-26A-33-BO** renamed to **P-26A (1933)**. The long name has been changed to **P-26A Peashooter (1933)**.
-        - **P-26B-35-BO** renamed to **P-26B**.
-        - **P-26A-35-BO** renamed to **P-26A (1935)**. The long name has been changed to **P-26A Peashooter (1935)**. This vehicle is not actually ingame yet, it's just a text entry.
+    - **P-26A-33 / B** folder renamed to **P-26A (1933) / B**.
+    - **P-26A-34-BO (M2)** renamed to **P-26C (M2)**. The **P-26A-34**s ingame have the carbureted **R-1340-33** engine with the new fuel system which makes them the **P-26C**, rather than the **P-26A**.
+    - **P-26A-34-BO** renamed to **P-26C**.
+    - **P-26A-33-BO** renamed to **P-26A (1933)**. The long name has been changed to **P-26A Peashooter (1933)**.
+    - **P-26B-35-BO** renamed to **P-26B**.
+    - **P-26A-35-BO** renamed to **P-26A (1935)**. The long name has been changed to **P-26A Peashooter (1935)**. This vehicle is not actually ingame yet, it's just a text entry.
+    - The name "project" has been removed from the following vessels long names to fit with the new naval date scheme:
+        - **Comandante Margottini (MA)**
+        - **Etna**
+        - **Kronštadt**
+        - **Ŝyerbakov**
+        - **Izmail**
+        - **Amagi**
 
 ### Weaponry:
 
@@ -145,7 +152,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - Cleaned up the quotation marks in `WTHLM_units.csv` following the reformating of the files.
     - Update "Dance of Dragons" changes (forgot to change these in 1.09.00 and 1.09.01):
-        - **IJN Amagi** renamed to **Amagi**. The long name has been changed to **Amagi-class (B-64), Amagi, project**.
+        - **IJN Amagi** renamed to **Amagi**. The long name has been changed to **Amagi-class (B-64), Amagi**.
         - **Puma/Puma VJTF** folder renamed to **SPz Puma S0 / 1**.
     - The **SU-76D**'s long name has been changed to **GAZ-74 | SU-76D**.
     - **PBM-5A "Mariner"** renamed to **PBM-5A**. The long name has been changed to **PBM-5A Mariner**. I thought I had done this in a previous version, but apparently I forgot to.

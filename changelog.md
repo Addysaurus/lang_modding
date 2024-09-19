@@ -31,17 +31,19 @@ All dates are listed in DD-MM-YYYY format.
         - The **M3**'s long name has been changed to **G-103 | Tank, Light, M3 Stuart**.
         - The **M3A1**'s long name has been changed to **G-103 | Tank, Light, M3A1 Stuart**.
         - The **M3A1 (USMC)**'s long name has been changed to **G-103 | Tank, Light, M3A1 Stuart (United States Marine Corps)**.
+        - The **M3A3**'s (China) long name has been changed to **G-103 | Tank, Light, M3A3 Stuart**.
+        - The **M3A3 (1st PTG)**'s (China) long name has been changed to **G-103 | Tank, Light, M3A3 Stuart (1st PTG)**.
         - The **M22**'s long name has been changed to **G-148 | Tank, Light, M22 Locust**.
         - The **M22**'s (racing variant) long name has been changed to **G-148 | Tank, Light, M22 Locust**.
         - The **M13 MGMC**'s long name has been changed to **G-102 | Carriage, Motor, Multiple Gun, M13**.
         - The **M15 CGMC**'s long name has been changed to **G-102 | Carriage, Motor, Combination Gun, M15**.
-        - The **M8 HMC**'s long name has been changed to **G-127 | Carriage, Motor, 75mm Howitzer, M8 "Scott"**.
+        - The **M8 HMC**' (USA and China) long name has been changed to **G-127 | Carriage, Motor, 75mm Howitzer, M8 "Scott"**.
         - The **M8 LAC**'s long name has been changed to **G-136 | Car, Armored, Light, M8**.
         - The **M8A1 GMC**'s long name has been changed to **G-127 | Carriage, Motor, 75mm Gun, M8A1 "Scott"**.
         - The **M3 GMC**'s long name has been changed to **G-102 | Carriage, Motor, 75mm Gun, M3**.
-        - The **M5A1**'s long name has been changed to **G-103 | Tank, Light, M5A1 Stuart**.
+        - The **M5A1**'s (USA and China) long name has been changed to **G-103 | Tank, Light, M5A1 Stuart**.
         - The **M5A1 (3rd T.Bat.)**'s (the Twitch drop **M5A1**) long name has been changed to **G-103 | Tank, Light, M5A1 Stuart (3rd Tank Battalion)**.
-        - The **M24**'s long name has been changed to **G-200 | Tank, Light, M24 Chaffee**.
+        - The **M24**'s (USA and China) long name has been changed to **G-200 | Tank, Light, M24 Chaffee**.
         - The **M24**'s (the Thunder League one) long name has been changed to **G-200 | Tank, Light, M24 Chaffee**.
         - The **M24**'s (the tutorial one) long name has been changed to **G-200 | Tank, Light, M24 Chaffee**.
         - The **M3 MT**'s long name has been changed to **G-104 | Tank, Medium, M3 Lee**.
@@ -60,6 +62,8 @@ All dates are listed in DD-MM-YYYY format.
         - The **M4 (T34E1)**'s long name has been changed to **G-104 | Tank, Medium, M4 Sherman (T34E1)**.
         - The **M4A3E2 (75) W (37th T.Bat.)**'s long name has been changed to **G-104 | Tank, Medium, M4A3E2 (75) W Sherman (37th Tank Battalion) "Jumbo" "Cobra King"**.
         - The **M4A2 (1944)**'s long name has been changed to **G-104 | Tank, Medium, M4A2 Sherman (1944)**.
+        - The **M4A4**'s (China) long name has been changed to **G-104 | Tank, Medium, M4A4 Sherman**.
+        - The **M4A4 (1st PTG)**'s (China) long name has been changed to **G-104 | Tank, Medium, M4A4 Sherman (1st PTG)**.
         - The **M16 MGMC**'s long name has been changed to **G-102 | Carriage, Motor, Multiple Gun, M16**.
         - The **M10 GMC**'s (USA, China, and France) long name has been changed to **G-130 | Carriage, Motor, 3-inch Gun, M10**.
         - The **T18E2 HAC**'s long name has been changed to **G-133 | Car, Armored, Heavy, T18E2 "Boarhound"**.

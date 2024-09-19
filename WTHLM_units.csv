@@ -2711,31 +2711,31 @@ mh_60l_dap_1;MH-60L
 mh_60l_dap_2;MH-60
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1;
 us_m2a4_shop;M2A4
-us_m2a4_0;Tank, Light, M2A4
+us_m2a4_0;G-86 | Tank, Light, M2A4
 us_m2a4_1;M2A4
 us_m2a4_2;Light tank
 us_m2_medium_shop;M2
-us_m2_medium_0;Tank, Medium, M2
+us_m2_medium_0;G-81 | Tank, Medium, M2
 us_m2_medium_1;M2
 us_m2_medium_2;Medium tank
 us_m2a2_shop;M2A2
-us_m2a2_0;Tank, Light, M2A2
+us_m2a2_0;G-39 | Tank, Light, M2A2
 us_m2a2_1;M2A2
 us_m2a2_2;Light tank
 us_m2a4_1st_armor_div_shop;M2A4 (1st Arm.Div.)
-us_m2a4_1st_armor_div_0;Tank, Light, M2A4 (1st Arm.Div.)
+us_m2a4_1st_armor_div_0;G-86 | Tank, Light, M2A4 (1st Armored Division)
 us_m2a4_1st_armor_div_1;M2A4
 us_m2a4_1st_armor_div_2;Light tank
 us_m3_stuart_shop;M3
-us_m3_stuart_0;Tank, Light, M3 Stuart
+us_m3_stuart_0;G-103 | Tank, Light, M3 Stuart
 us_m3_stuart_1;M3
 us_m3_stuart_2;Light tank
 us_m3a1_stuart_shop;M3A1
-us_m3a1_stuart_0;Tank, Light, M3A1 Stuart
+us_m3a1_stuart_0;G-103 | Tank, Light, M3A1 Stuart
 us_m3a1_stuart_1;M3A1
 us_m3a1_stuart_2;Light tank
 us_m3a1_stuart_usmc_shop;M3A1 (USMC)
-us_m3a1_stuart_usmc_0;Tank, Light, M3A1 Stuart (United States Marine Corps)
+us_m3a1_stuart_usmc_0;G-103 | Tank, Light, M3A1 Stuart (United States Marine Corps)
 us_m3a1_stuart_usmc_1;M3A1
 us_m3a1_stuart_usmc_2;Light tank
 us_lvt_a_1_shop;LVT(A)(1)
@@ -2755,35 +2755,35 @@ us_lvt_4_zis_2_0;▃ Landing Vehicle, Tracked (Armored) (Mk. 4) (ZiS-2)
 us_lvt_4_zis_2_1;▃ LVT(A)(4)
 us_lvt_4_zis_2_2;Light tank
 us_m22_locust_shop;M22
-us_m22_locust_0;Tank, Light, M22 Locust
+us_m22_locust_0;G-148 | Tank, Light, M22 Locust
 us_m22_locust_1;M22
 us_m22_locust_2;Light tank
 us_m22_locust_race_shop;M22
-us_m22_locust_race_0;Tank, Light, M22 Locust
+us_m22_locust_race_0;G-148 | Tank, Light, M22 Locust
 us_m22_locust_race_1;M22
 us_m22_locust_race_2;Light tank
 us_halftrack_m13_shop;M13 MGMC
-us_halftrack_m13_0;Carriage, Motor, Multiple Gun, M13
+us_halftrack_m13_0;G-102 | Carriage, Motor, Multiple Gun, M13
 us_halftrack_m13_1;M13
 us_halftrack_m13_2;SPAA
 us_halftrack_m15_shop;M15 CGMC
-us_halftrack_m15_0;Carriage, Motor, Combination Gun, M15
+us_halftrack_m15_0;G-102 | Carriage, Motor, Combination Gun, M15
 us_halftrack_m15_1;M15
 us_halftrack_m15_2;SPAA
 us_m8_scott_shop;M8 HMC
-us_m8_scott_0;"Carriage, Motor, 75mm Howitzer, M8 ""Scott"""
+us_m8_scott_0;"G-127 | Carriage, Motor, 75mm Howitzer, M8 ""Scott"""
 us_m8_scott_1;M8 HMC
 us_m8_scott_2;SPG
 us_m8_greyhound_shop;M8 LAC
-us_m8_greyhound_0;Car, Armored, Light, M8
+us_m8_greyhound_0;G-136 | Car, Armored, Light, M8
 us_m8_greyhound_1;M8
 us_m8_greyhound_2;Light tank
 us_m8a1_shop;M8A1 GMC
-us_m8a1_0;"Carriage, Motor, 75mm Gun, M8A1 ""Scott"""
+us_m8a1_0;"G-127 | Carriage, Motor, 75mm Gun, M8A1 ""Scott"""
 us_m8a1_1;M8A1
 us_m8a1_2;Light tank
 us_halftrack_m3_75mm_gmc_shop;M3 GMC
-us_halftrack_m3_75mm_gmc_0;Carriage, Motor, 75mm Gun, M3
+us_halftrack_m3_75mm_gmc_0;G-102 | Carriage, Motor, 75mm Gun, M3
 us_halftrack_m3_75mm_gmc_1;M3 GMC
 us_halftrack_m3_75mm_gmc_2;SPG
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2;
@@ -2913,7 +2913,7 @@ us_m18_hellcat_black_cat_race_0;"""Racing"" M18"
 us_m18_hellcat_black_cat_race_1;"""Racing"" M18"
 us_m18_hellcat_black_cat_race_2;Light tank
 us_m6a1_shop;M6A1
-us_m6a1_0;Tank, Heavy, M6A1
+us_m6a1_0;G-118 | Tank, Heavy, M6A1
 us_m6a1_1;M6A1
 us_m6a1_2;Heavy tank
 us_m6a2e1_shop;M6A2E1-1
@@ -3189,7 +3189,7 @@ us_hstv_l_0;High Survivability Test Vehicle (Lightweight)
 us_hstv_l_1;HSTV(L)
 us_hstv_l_2;Light tank
 us_m60_120s_shop;120S
-us_m60_120s_0;General Dynamics Land Systems 120S Main Battle Tank
+us_m60_120s_0;General Dynamics Land Systems | General Dynamics Land Systems 120S Main Battle Tank
 us_m60_120s_1;120S
 us_m60_120s_2;MBT
 us_m1a1_hc_abrams_shop;M1A1HC

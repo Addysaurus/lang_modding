@@ -8,9 +8,37 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.09.04 - UNRELEASED
+
+### Vehicles:
+
 ## 1.09.03 - 18-09-2024
 
-### Vehicles
+### Vehicles:
+
+- #### Additions:
+
+    - **General Dynamics Land Systems** added as the manufacturer for the **120S**.
+    - US ground vehicles that had a supply catalog have had their supply catalog added to their name. It has been added after the manufacturer name and in front of the standard name (e.g. **Tank, Heavy, M6A1** becomes **G-118 | Tank, Heavy, M6A1**). The list of changes is in the **Changes** section of this changelog.
+
+- #### Changes:
+
+    - US ground vehicle supply catalogue rework (and some other US ground changes):
+        - The **M2A4**'s long name has been changed to **G-86 | Tank, Light, M2A4**.
+        - The **M2A4 (1st Arm.Div.)**'s long name has been changed to **G-86 | Tank, Light, M2A4 (1st Armored Division)**.
+        - The **M2**'s long name has been changed to **G-81 | Tank, Medium, M2**.
+        - The **M2A2**'s long name has been changed to **G-39 | Tank, Light, M2A2**.
+        - The **M3**'s long name has been changed to **G-103 | Tank, Light, M3 Stuart**.
+        - The **M3A1**'s long name has been changed to **G-103 | Tank, Light, M3A1 Stuart**.
+        - The **M3A1 (USMC)**'s long name has been changed to **G-103 | Tank, Light, M3A1 Stuart (United States Marine Corps)**.
+        - The **M22**'s long name has been changed to **G-148 | Tank, Light, M22 Locust**.
+        - The **M22**'s (racing variant) long name has been changed to **G-148 | Tank, Light, M22 Locust**.
+        - The **M13 MGMC**'s long name has been changed to **G-102 | Carriage, Motor, Multiple Gun, M13**.
+        - The **M15 CGMC**'s long name has been changed to **G-102 | Carriage, Motor, Combination Gun, M15**.
+        - The **M8 HMC**'s long name has been changed to **G-127 | Carriage, Motor, 75mm Howitzer, M8 "Scott"**.
+        - The **M8 LAC**'s long name has been changed to **G-136 | Car, Armored, Light, M8**.
+        - The **M8A1 GMC**'s long name has been changed to **G-127 | Carriage, Motor, 75mm Gun, M8A1 "Scott"**.
+        - The **M3 GMC**'s long name has been changed to **G-102 | Carriage, Motor, 75mm Gun, M3**.
 
 - #### Additions:
 

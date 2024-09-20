@@ -2897,15 +2897,15 @@ us_t18_e2_1;T18E2
 us_t18_e2_2;Armored Car
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3;
 us_m18_hellcat_shop;M18 GMC
-us_m18_hellcat_0;Carriage, Motor, 76mm Gun, M18
+us_m18_hellcat_0;"G-163 | Carriage, Motor, 76mm Gun, M18 ""Hellcat"""
 us_m18_hellcat_1;M18
 us_m18_hellcat_2;Light tank
 us_m18_hellcat_black_cat_shop;M18 GMC (805th TD.Bat.)
-us_m18_hellcat_black_cat_0;"Carriage, Motor, 76mm Gun, M18 (805th Tank Destroyer Battalion) ""Black Cat"""
+us_m18_hellcat_black_cat_0;"G-163 | Carriage, Motor, 76mm Gun, M18 ""Hellcat"" (805th Tank Destroyer Battalion) ""Black Cat"""
 us_m18_hellcat_black_cat_1;M18
 us_m18_hellcat_black_cat_2;Light tank
 us_m18_super_hellcat_shop;M18 GMC (M3)
-us_m18_super_hellcat_0;"Carriage, Motor, 90mm Gun, M18 ""Super Hellcat"""
+us_m18_super_hellcat_0;"G-163 | Carriage, Motor, 90mm Gun, M18 ""Super Hellcat"""
 us_m18_super_hellcat_1;M18 GMC (M3)
 us_m18_super_hellcat_2;Light tank
 us_m18_hellcat_black_cat_race_shop;"""Racing"" M18"
@@ -2917,7 +2917,7 @@ us_m6a1_0;G-118 | Tank, Heavy, M6A1
 us_m6a1_1;M6A1
 us_m6a1_2;Heavy tank
 us_m6a2e1_shop;M6A2E1-1
-us_m6a2e1_0;Tank, Heavy, M6A2E1-1
+us_m6a2e1_0;G-118 | Tank, Heavy, M6A2E1-1
 us_m6a2e1_1;M6A2E1
 us_m6a2e1_2;Heavy tank
 us_t1e1_shop;T1E1
@@ -2929,11 +2929,11 @@ us_t1e1_90_0;Tank, Heavy, T1E1 (Gun, 90mm, T7)
 us_t1e1_90_1;T1E1
 us_t1e1_90_2;Heavy tank
 us_m19_shop;M19A1
-us_m19_0;Carriage, Motor, Twin 40mm Gun, M19A1
+us_m19_0;G-248 | Carriage, Motor, Twin 40mm Gun, M19A1
 us_m19_1;M19A1
 us_m19_2;SPAA
 us_m42_duster_shop;M42
-us_m42_duster_0;"Gun, Self-Propelled, Full Tracked: Twin 40mm, M42 ""Duster"""
+us_m42_duster_0;"G-253 | Gun, Self-Propelled, Full Tracked: Twin 40mm, M42 ""Duster"""
 us_m42_duster_1;M42
 us_m42_duster_2;SPAA
 us_m36_shop;M36 GMC
@@ -10951,11 +10951,11 @@ cn_m10_0;☀ G-130 | Carriage, Motor, 3-inch Gun, M10
 cn_m10_1;☀ M10
 cn_m10_2;TD
 cn_m18_hellcat_shop;☀ M18 GMC
-cn_m18_hellcat_0;☀ Carriage, Motor, 76mm Gun, M18
+cn_m18_hellcat_0;☀ "G-163 | Carriage, Motor, 76mm Gun, M18 ""Hellcat"""
 cn_m18_hellcat_1;☀ M18
 cn_m18_hellcat_2;Light tank
 cn_m8_greyhound_shop;☀ M8 LAC
-cn_m8_greyhound_0;☀ Car, Armored, Light, M8
+cn_m8_greyhound_0;☀ G-136 | Car, Armored, Light, M8
 cn_m8_greyhound_1;☀ M8
 cn_m8_greyhound_2;Light tank
 cn_m4a1_76w_sherman_shop;☀ M4A1 (75) W
@@ -11071,7 +11071,7 @@ cn_type_59_0;WZ120 | ZTZ1959
 cn_type_59_1;ZTZ59
 cn_type_59_2;Medium tank
 cn_m42_duster_shop;☀ M42
-cn_m42_duster_0;☀ M42 Duster
+cn_m42_duster_0;"☀ G-253 | Gun, Self-Propelled, Full Tracked: Twin 40mm, M42 ""Duster"""
 cn_m42_duster_1;☀ M42
 cn_m42_duster_2;SPAA
 cn_wma_301_shop;WMA301

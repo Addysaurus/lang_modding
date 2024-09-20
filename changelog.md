@@ -37,8 +37,8 @@ All dates are listed in DD-MM-YYYY format.
         - The **M22**'s (racing variant) long name has been changed to **G-148 | Tank, Light, M22 Locust**.
         - The **M13 MGMC**'s long name has been changed to **G-102 | Carriage, Motor, Multiple Gun, M13**.
         - The **M15 CGMC**'s long name has been changed to **G-102 | Carriage, Motor, Combination Gun, M15**.
-        - The **M8 HMC**' (USA and China) long name has been changed to **G-127 | Carriage, Motor, 75mm Howitzer, M8 "Scott"**.
-        - The **M8 LAC**'s long name has been changed to **G-136 | Car, Armored, Light, M8**.
+        - The **M8 HMC**'s (USA and China) long name has been changed to **G-127 | Carriage, Motor, 75mm Howitzer, M8 "Scott"**.
+        - The **M8 LAC**'s (USA and China) long name has been changed to **G-136 | Car, Armored, Light, M8**.
         - The **M8A1 GMC**'s long name has been changed to **G-127 | Carriage, Motor, 75mm Gun, M8A1 "Scott"**.
         - The **M3 GMC**'s long name has been changed to **G-102 | Carriage, Motor, 75mm Gun, M3**.
         - The **M5A1**'s (USA and China) long name has been changed to **G-103 | Tank, Light, M5A1 Stuart**.
@@ -67,6 +67,13 @@ All dates are listed in DD-MM-YYYY format.
         - The **M16 MGMC**'s long name has been changed to **G-102 | Carriage, Motor, Multiple Gun, M16**.
         - The **M10 GMC**'s (USA, China, and France) long name has been changed to **G-130 | Carriage, Motor, 3-inch Gun, M10**.
         - The **T18E2 HAC**'s long name has been changed to **G-133 | Car, Armored, Heavy, T18E2 "Boarhound"**.
+        - The **M18 GMC**'s (USA and China) long name has been changed to **G-163 | Carriage, Motor, 76mm Gun, M18 "Hellcat"**.
+        - The **M18 GMC (805th TD.Bat.)**'s long name has been changed to **G-163 | Carriage, Motor, 76mm Gun, M18 "Hellcat" (805th Tank Destroyer Battalion) "Black Cat"**.
+        - The **M18 GMC (M3)**'s long name has been changed to **G-163 | Carriage, Motor, 90mm Gun, M18 "Super Hellcat"**.
+        - The **M6A1**'s long name has been changed to **G-118 | Tank, Heavy, M6A1**.
+        - The **M6A2E1-1**'s long name has been changed to **G-118 | Tank, Heavy, M6A2E1-1**.
+        - The **M19A1**'s long name has been changed to **G-248 | Carriage, Motor, Twin 40mm Gun, M19A1**.
+        - The **M42**'s long name has been changed to **G-253 | Gun, Self-Propelled, Full Tracked: Twin 40mm, M42 "Duster"**.
 
 - #### Additions:
 

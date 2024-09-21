@@ -23,7 +23,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - US ground vehicle supply catalogue rework (and some other US ground changes):
+    - US ground vehicle rework (with supply catalogues added):
         - The **M2A4**'s long name has been changed to **G-86 | Tank, Light, M2A4**.
         - The **M2A4 (1st Arm.Div.)**'s long name has been changed to **G-86 | Tank, Light, M2A4 (1st Armored Division)**.
         - The **M2**'s long name has been changed to **G-81 | Tank, Medium, M2**.
@@ -74,6 +74,36 @@ All dates are listed in DD-MM-YYYY format.
         - The **M6A2E1-1**'s long name has been changed to **G-118 | Tank, Heavy, M6A2E1-1**.
         - The **M19A1**'s long name has been changed to **G-248 | Carriage, Motor, Twin 40mm Gun, M19A1**.
         - The **M42**'s long name has been changed to **G-253 | Gun, Self-Propelled, Full Tracked: Twin 40mm, M42 "Duster"**.
+        - The **M36**'s (USA and China) long name has been changed to **G-210 | Carriage, Motor, 90mm Gun, M36 "Jackson"**.
+        - The **M36B2**'s (USA, Japan, and France) long name has been changed to **G-237 | Carriage, Motor, 90mm Gun, M36B2 "Jackson"**.
+        - The **T14**'s long name has been changed to **Tank, Assault, T14**.
+        - The **T55E1**'s long name has been changed to **Carriage, Motor, 3-inch Gun, T55E1**.
+        - The **M41A1**'s (USA and Japan) long name has been changed to **G-251 | Tank, Combat, Full Tracked: 76mm Gun, M41A1 Walker Bulldog**. The rename for the Japanese one is temporary. Finding sources on designations for the imported Japanese stuff is hell.
+        - The **M41A3**'s (China) long name has been changed to **G-251 | Tank, Combat, Full Tracked: 76mm Gun, M41A3 Walker Bulldog**.
+        - The **T25**'s long name has been changed to **Tank, Medium, T25**.
+        - The **M26**'s long name has been changed to **G-226 | Tank, Medium, M26**.
+        - The **M26 (T99)**'s long name has been changed to **G-226 | Tank, Medium, M26 (T99)**.
+        - The **M26E1**'s long name has been changed to **G-226 | Tank, Medium, M26E1**.
+        - The **M26**'s (tutorial version) long name has been changed to **G-226 | Tank, Medium, M26**.
+        - The **M46**'s long name has been changed to **G-244 | Tank, Medium, M46 Patton**.
+        - The **M46 (73rd T.Bat.)**'s long name has been changed to **G-244 | Tank, Medium, M46 Patton (73rd Tank Batalion)**.
+        - The **T26E5**'s long name has been changed to **G-198 | Tank, Heavy, T26E5**.
+        - The **T34**'s long name has been changed to **Tank, Heavy, T34**.
+        - The **M109A1**'s (USA and UK) long name has been changed to **G-296 | Howitzer, Medium, Self-Propelled, 155mm, M109A1**.
+        - The **M109**'s (Israel) long name has been changed to **G-296 | Howitzer, Medium, Self-Propelled, 155mm, M109**.
+        - The **M56**'s long name has been changed to **G-289 | Gun, Self-Propelled, Full Tracked: 90mm Gun, M56 "Scorpion"**.
+        - The **M50**'s long name has been changed to **G-288 | Rifle, Multiple, 106 mm, Self-Propelled, M50 "Ontos"**.
+        - The **T20**'s long name has been changed to **G-183 | Tank, Medium, T20**.
+        - The **T28 (transport)**'s long name has been changed to **Tank, Super Heavy, T28 (transport)**.
+        - The **T28**'s long name has been changed to **Tank, Super Heavy, T28**.
+        - The **T29**'s long name has been changed to **Tank, Heavy, T29**.
+        - The **M551 (M32A1)**'s long name has been changed to **G-310 | Cadillac Motor Car Division | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 76mm Gun, M551 Sheridan**.
+        - The **M551**'s long name has been changed to **G-310 | Cadillac Motor Car Division | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 152mm Gun-Launcher, M551 Sheridan**.
+        - The **T30**'s long name has been changed to **Tank, Heavy, T30**.
+        - The **M47**'s long name has been changed to **G-262 | Tank, Combat, Full Tracked: 90mm Gun, M47 Patton**.
+        - The **M48**'s (USA and China) long name has been changed to **G-254 | Tank, Combat, Full Tracked: 90mm Gun, M48A1**.
+        - The **M60**'s (USA and China) long name has been changed to **G-292 | Tank, Combat, Full Tracked: 105mm Gun, M60**.
+        - The **M728 CEV**'s (USA and China) long name has been changed to **G-303 | Vehicle, Combat Engineer, Full Tracked: 165mm Gun, M728**.
 
 - #### Additions:
 

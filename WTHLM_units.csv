@@ -2937,24 +2937,24 @@ us_m42_duster_0;"G-253 | Gun, Self-Propelled, Full Tracked: Twin 40mm, M42 ""Dus
 us_m42_duster_1;M42
 us_m42_duster_2;SPAA
 us_m36_shop;M36 GMC
-us_m36_0;"Carriage, Motor, 90mm Gun, M36 ""Jackson"""
+us_m36_0;"G-210 | Carriage, Motor, 90mm Gun, M36 ""Jackson"""
 us_m36_1;M36
 us_m36_2;TD
 us_m36b2_shop;M36B2 GMC
-us_m36b2_0;"Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
+us_m36b2_0;"G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
 us_m36b2_1;M36B2
 us_m36b2_2;TD
 us_t14_shop;T14
-us_t14_0;Assault Tank T14
+us_t14_0;Tank, Assault, T14
 us_t14_1;T14
 us_t14_2;Assault tank
 us_t55e1_shop;T55E1 GMC
-us_t55e1_0;3 inch Gun Motor Carriage T55E1
+us_t55e1_0;Carriage, Motor, 3-inch Gun, T55E1
 us_t55e1_1;T55E1 GMC
 us_t55e1_2;SPG
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4;
 us_m41_walker_bulldog_shop;M41A1
-us_m41_walker_bulldog_0;Tank, Combat, Full Tracked: 76mm Gun, M41A1 Walker Bulldog
+us_m41_walker_bulldog_0;G-251 | Tank, Combat, Full Tracked: 76mm Gun, M41A1 Walker Bulldog
 us_m41_walker_bulldog_1;M41A1
 us_m41_walker_bulldog_2;Light tank
 us_t92_shop;T92
@@ -2962,35 +2962,35 @@ us_t92_0;Tank, Combat, Full Tracked: 76mm Gun, T92
 us_t92_1;T92
 us_t92_2;Light tank
 us_t25_shop;T25
-us_t25_0;Medium Tank T25
+us_t25_0;Tank, Medium, T25
 us_t25_1;T25
 us_t25_2;Medium tank
 us_m26_pershing_shop;M26
-us_m26_pershing_0;Medium Tank M26 Pershing
+us_m26_pershing_0;G-226 | Tank, Medium, M26
 us_m26_pershing_1;M26
 us_m26_pershing_2;Medium tank
 us_m26_t99_shop;M26 (T99)
-us_m26_t99_0;Medium Tank M26 (T99)
+us_m26_t99_0;G-226 | Tank, Medium, M26 (T99)
 us_m26_t99_1;M26
 us_m26_t99_2;Medium tank
 us_m26e1_pershing_shop;M26E1
-us_m26e1_pershing_0;Medium Tank M26E1
+us_m26e1_pershing_0;G-226 | Tank, Medium, M26E1
 us_m26e1_pershing_1;M26E1
 us_m26e1_pershing_2;Medium tank
 us_m26_pershing_tutorial_shop;M26
-us_m26_pershing_tutorial_0;Medium Tank M26 Pershing
+us_m26_pershing_tutorial_0;G-226 | Tank, Medium, M26
 us_m26_pershing_tutorial_1;M26
 us_m26_pershing_tutorial_2;Medium tank
 us_m46_patton_shop;M46
-us_m46_patton_0;Medium Tank M46 Patton
+us_m46_patton_0;G-244 | Tank, Medium, M46 Patton
 us_m46_patton_1;M46
 us_m46_patton_2;Medium tank
 us_m46_patton_73_armor_bat_shop;M46 (73rd T.Bat.)
-us_m46_patton_73_armor_bat_0;Tank, Medium, M46 Patton (73rd Tank Batalion)
+us_m46_patton_73_armor_bat_0;G-244 | Tank, Medium, M46 Patton (73rd Tank Batalion)
 us_m46_patton_73_armor_bat_1;M46
 us_m46_patton_73_armor_bat_2;Medium tank
 us_t26e5_shop;T26E5
-us_t26e5_0;Assault tank T26E5
+us_t26e5_0;G-198 | Tank, Heavy, T26E5
 us_t26e5_1;T26E5
 us_t26e5_2;Assault tank
 us_t26e4_superpershing_shop;T26E4-1
@@ -2998,47 +2998,47 @@ us_t26e4_superpershing_0;"Heavy Tank T26E4-1 ""Super Pershing"""
 us_t26e4_superpershing_1;T26E4
 us_t26e4_superpershing_2;Heavy tank
 us_t34_shop;T34
-us_t34_0;Heavy Tank T34
+us_t34_0;Tank, Heavy, T34
 us_t34_1;T34
 us_t34_2;Heavy tank
 us_m109a1_shop;M109A1
-us_m109a1_0;Howitzer, Medium, Self-Propelled, 155mm, M109A1
+us_m109a1_0;G-296 | Howitzer, Medium, Self-Propelled, 155mm, M109A1
 us_m109a1_1;M109A1
 us_m109a1_2;SPG
 us_m56_scorpion_shop;M56
-us_m56_scorpion_0;"Gun, Self-Propelled, Full Tracked: 90mm Gun, M56 ""Scorpion"""
+us_m56_scorpion_0;"G-289 | Gun, Self-Propelled, Full Tracked: 90mm Gun, M56 ""Scorpion"""
 us_m56_scorpion_1;M56
 us_m56_scorpion_2;SPG
 us_m50_ontos_shop;M50
-us_m50_ontos_0;Rifle, Multiple, 106 mm, Self-Propelled, M50
+us_m50_ontos_0;"G-288 | Rifle, Multiple, 106 mm, Self-Propelled, M50 ""Ontos"""
 us_m50_ontos_1;M50
 us_m50_ontos_2;SPG
 us_t20_shop;T20
-us_t20_0;Medium Tank T20
+us_t20_0;G-183 | Tank, Medium, T20
 us_t20_1;T20
 us_t20_2;Medium tank
 us_t28_shop;T28 (transport)
-us_t28_0;Super Heavy Tank T28 (transport configuration)
+us_t28_0;Tank, Super Heavy, T28 (transport)
 us_t28_1;T28 (transport)
 us_t28_2;SPG
 us_t95_shop;T28
-us_t95_0;105 mm Gun Motor Carriage T28
+us_t95_0;Tank, Super Heavy, T28
 us_t95_1;T28
 us_t95_2;SPG
 us_t29_shop;T29
-us_t29_0;Heavy Tank T29
+us_t29_0;Tank, Heavy, T29
 us_t29_1;T29
 us_t29_2;Heavy tank
 us_m551_76_shop;M551 (M32A1)
-us_m551_76_0;Cadillac Motor Car Division | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 76mm Gun, M551 Sheridan
+us_m551_76_0;G-310 | Cadillac Motor Car Division | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 76mm Gun, M551 Sheridan
 us_m551_76_1;M551 (M32A1)
 us_m551_76_2;Light tank
 us_m551_shop;M551
-us_m551_0;Cadillac Motor Car Division | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 152mm Gun-Launcher, M551 Sheridan
+us_m551_0;G-310 | Cadillac Motor Car Division | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 152mm Gun-Launcher, M551 Sheridan
 us_m551_1;M551
 us_m551_2;Light tank
 us_t30_shop;T30
-us_t30_0;Heavy Tank T30
+us_t30_0;Tank, Heavy, T30
 us_t30_1;T30
 us_t30_2;Heavy tank
 us_amx_13_75_shop;AMX 13
@@ -3055,15 +3055,15 @@ us_xm_800t_0;Armored Reconnaissance Scout Vehicle XM800T
 us_xm_800t_1;XM800T
 us_xm_800t_2;Light tank
 us_m47_patton_II_shop;M47
-us_m47_patton_II_0;Tank, Combat, Full Tracked: 90mm Gun, M47 Patton II
+us_m47_patton_II_0;G-262 | Tank, Combat, Full Tracked: 90mm Gun, M47 Patton
 us_m47_patton_II_1;M47
 us_m47_patton_II_2;Medium tank
 us_m48a1_patton_III_shop;M48A1
-us_m48a1_patton_III_0;Tank, Combat, Full Tracked: 90mm Gun, M48A1
+us_m48a1_patton_III_0;G-254 | Tank, Combat, Full Tracked: 90mm Gun, M48A1
 us_m48a1_patton_III_1;M48
 us_m48a1_patton_III_2;Medium tank
 us_m60_shop;M60
-us_m60_0;Tank, Combat, Full Tracked: 105mm Gun, M60
+us_m60_0;G-292 | Tank, Combat, Full Tracked: 105mm Gun, M60
 us_m60_1;M60
 us_m60_2;MBT
 us_m60a1_shop;M60A1 AOS
@@ -3107,7 +3107,7 @@ us_m163_vulcan_0;Gun, Air Defence Artillery, Self-Propelled: 20 mm, M163
 us_m163_vulcan_1;M163
 us_m163_vulcan_2;SPAA
 us_m728_shop;M728 CEV
-us_m728_0;Vehicle, Combat Engineer, Full Tracked: 165mm Gun, M728
+us_m728_0;G-303 | Vehicle, Combat Engineer, Full Tracked: 165mm Gun, M728
 us_m728_1;M728
 us_m728_2;MBT
 us_t54e2_shop;T54E2
@@ -4615,7 +4615,7 @@ uk_centurion_mk_1_0;Tank, Cruiser, A.41, Centurion, Mk. I*
 uk_centurion_mk_1_1;Centurion, Mk. I
 uk_centurion_mk_1_2;Medium tank
 uk_m109a1_shop;▄ M109A1
-uk_m109a1_0;▄ Howitzer, Medium, Self-Propelled, 155mm, M109A1
+uk_m109a1_0;▄ G-296 | Howitzer, Medium, Self-Propelled, 155mm, M109A1
 uk_m109a1_1;▄ M109A1
 uk_m109a1_2;SPG
 uk_a_43_black_prince_shop;Black Prince
@@ -5923,7 +5923,7 @@ fr_somua_sau40_0;Canon automoteur de 75 mm SAu 40
 fr_somua_sau40_1;SAu 40
 fr_somua_sau40_2;Tank Destroyer
 fr_m36b2_cefeo_shop;☨ M36B2 GMC
-fr_m36b2_cefeo_0;"☨ Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
+fr_m36b2_cefeo_0;"☨ G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
 fr_m36b2_cefeo_1;☨ M36B2
 fr_m36b2_cefeo_2;TD
 fr_m10_shop;☨ M10 GMC
@@ -9375,7 +9375,7 @@ il_m109a1_0;Rokhev Alef
 il_m109a1_1;Rokhev A
 il_m109a1_2;SPG
 il_m109_shop; M109
-il_m109_0; Howitzer, Medium, Self-Propelled, 155mm, M109
+il_m109_0; G-296 | Howitzer, Medium, Self-Propelled, 155mm, M109
 il_m109_1; M109
 il_m109_2;SPG
 il_amx_13_75_shop; AMX 13
@@ -10943,7 +10943,7 @@ cn_m24_chaffee_0;☀ G-200 | Tank, Light, M24 Chaffee
 cn_m24_chaffee_1;☀ M24
 cn_m24_chaffee_2;Light tank
 cn_m36_shop;☀ M36 GMC
-cn_m36_0;"☀ Carriage, Motor, 90mm Gun, M36 ""Jackson"""
+cn_m36_0;"☀ G-210 | Carriage, Motor, 90mm Gun, M36 ""Jackson"""
 cn_m36_1;☀ M36
 cn_m36_2;TD
 cn_m10_shop;☀ M10 GMC
@@ -10999,7 +10999,7 @@ cn_m_41d_0;☀ M41D
 cn_m_41d_1;☀ M41D
 cn_m_41d_2;Light tank
 cn_m48a1_patton_III_shop;☀ M48A1
-cn_m48a1_patton_III_0;☀ Tank, Combat, Full Tracked: 90mm Gun, M48A1
+cn_m48a1_patton_III_0;☀ G-254 | Tank, Combat, Full Tracked: 90mm Gun, M48A1
 cn_m48a1_patton_III_1;☀ M48
 cn_m48a1_patton_III_2;Medium tank
 cn_t_62_shop;␗ Т-62 (57-go Po.)
@@ -11159,7 +11159,7 @@ cn_ztz_96_0;China North Industries Corporation | WZ122H | ZTZ1996
 cn_ztz_96_1;ZTZ96
 cn_ztz_96_2;MBT
 cn_m41_a3_walker_bulldog_shop;☀ M41A3
-cn_m41_a3_walker_bulldog_0;☀ M41A3 Walker Bulldog
+cn_m41_a3_walker_bulldog_0;☀ G-251 | Tank, Combat, Full Tracked: 76mm Gun, M41A3 Walker Bulldog
 cn_m41_a3_walker_bulldog_1;☀ M41
 cn_m41_a3_walker_bulldog_2;Light tank
 cn_mbt2000_shop;MBT-2000
@@ -11215,11 +11215,11 @@ jp_m4a3e8_76w_sherman_0;▅ Tank, Medium, M4A3E8 (76) W HVSS Sherman
 jp_m4a3e8_76w_sherman_1;▅ M4A3E8
 jp_m4a3e8_76w_sherman_2;Medium tank
 jp_m41_walker_bulldog_shop;▅ M41A1
-jp_m41_walker_bulldog_0;▅ M41A1
+jp_m41_walker_bulldog_0;▅ G-251 | Tank, Combat, Full Tracked: 76mm Gun, M41A1 Walker Bulldog
 jp_m41_walker_bulldog_1;▅ M41
 jp_m41_walker_bulldog_2;Light tank
 jp_m36b2_jgsdf_shop;▅ M36B2 GMC
-jp_m36b2_jgsdf_0;"▅ Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
+jp_m36b2_jgsdf_0;"▅ G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
 jp_m36b2_jgsdf_1;▅ M36B2
 jp_m36b2_jgsdf_2;SPG
 jp_m24_chaffee_shop;▅ M24

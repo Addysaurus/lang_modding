@@ -111,6 +111,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Seafire L.F. Mk. III*** (France) renamed to **Seafire Mk. III**.
     - Japanese naval rework (I hate myself so I did 2 reworks in 1 update):
         - The **Momi**'s long name has been changed to **Yokosuka Kaigun Kōshō | Momi gata (F-37) | Momi (1930)**.
+        - The **Mutsuki**'s (standard and EC version) long name has been changed to **Sasebo Kaigun Kōshō | Mutsuki gata (F-41E3) | Mutsuki (1941)**.
+        - The **Ayanami**'s (standard and EC version) long name has been changed to **Fujinagata Zōsenjo | Fubuki gata (F-43) | Ayanami (1936)**.
 
 - #### Additions:
 

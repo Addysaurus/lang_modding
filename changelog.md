@@ -20,9 +20,11 @@ All dates are listed in DD-MM-YYYY format.
 
     - **General Dynamics Land Systems** added as the manufacturer for the **120S**.
     - US ground vehicles that had a supply catalog have had their supply catalog added to their name. It has been added after the manufacturer name and in front of the standard name (e.g. **Tank, Heavy, M6A1** becomes **G-118 | Tank, Heavy, M6A1**). The list of changes is in the **Changes** section of this changelog.
+    - All Japanese vessels have had their manufacturers added as part of the Japanese naval rework.
 
 - #### Changes:
 
+    - A new naval naming format has been established. The class will now be separated by the "|" separator character instead of a comma. This system will not be implemented to all vessels at once. Instead, it will be implemented as reworks are implemented. The first set of vessels to recieve this new system is the Japanese navy as part of this update's Japanese navy rework.
     - US ground vehicle rework (with supply catalogues added):
         - The **M2A4**'s long name has been changed to **G-86 | Tank, Light, M2A4**.
         - The **M2A4 (1st Arm.Div.)**'s long name has been changed to **G-86 | Tank, Light, M2A4 (1st Armored Division)**.
@@ -104,6 +106,11 @@ All dates are listed in DD-MM-YYYY format.
         - The **M48**'s (USA and China) long name has been changed to **G-254 | Tank, Combat, Full Tracked: 90mm Gun, M48A1**.
         - The **M60**'s (USA and China) long name has been changed to **G-292 | Tank, Combat, Full Tracked: 105mm Gun, M60**.
         - The **M728 CEV**'s (USA and China) long name has been changed to **G-303 | Vehicle, Combat Engineer, Full Tracked: 165mm Gun, M728**.
+        - **T114** renamed to **T114 BAT**. The long name has been changed to **Vehicle, Armored, Full Tracked: Batalion Anti-Tank, T114**.
+    - **HMS Barham (04)** renamed to **HMS Barham (97)**. Her pennant number was initially 97, being changed to 10 in January, 1918; 34 in April, 1918; and finally 04 in November, 1919.
+    - **Seafire L.F. Mk. III*** (France) renamed to **Seafire Mk. III**.
+    - Japanese naval rework (I hate myself so I did 2 reworks in 1 update):
+        - The **Momi**'s long name has been changed to **Yokosuka Kaigun Kōshō | Momi gata (F-37) | Momi (1930)**.
 
 - #### Additions:
 

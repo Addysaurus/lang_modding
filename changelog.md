@@ -124,7 +124,8 @@ All dates are listed in DD-MM-YYYY format.
         - The **Aoba**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Aoba gata | Aoba (1944)**.
         - The **Haguro**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha / Kure Kaigun Kōshō | Myōkō gata | Haguro (1944)**.
         - The **Myōkō**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha / Kure Kaigun Kōshō | Myōkō gata | Myōkō (1944)**.
-        - The **Isuzu**'s long name has been changed to **Uraga Senkyo Kabushiki Kaisha | Nagara gata (C-33) | Isuzu (1944)**.
+        - The **Isuzu**'s long name has been changed to **Uraga Senkyo Kabushiki Kaisha / Kure Kaigun Kōshō | Nagara gata (C-33) | Isuzu (1944)**.
+        - The **Tama**'s (standard and EC version) long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Kuma gata (C-33) | Tama (1937)**.
 
 - #### Additions:
 

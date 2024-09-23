@@ -122,6 +122,9 @@ All dates are listed in DD-MM-YYYY format.
         - The **Kako**'s (standard and EC version) long name has been changed to **Kawasaki Zōsen Kabushiki Kaisha / Kure Kaigun Kōshō | Furutaka gata | Kako (1932)**.
         - The **Furutaka**'s (standard and EC version) long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Furutaka gata | Furutaka (1942)**.
         - The **Aoba**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Aoba gata | Aoba (1944)**.
+        - The **Haguro**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha / Kure Kaigun Kōshō | Myōkō gata | Haguro (1944)**.
+        - The **Myōkō**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha / Kure Kaigun Kōshō | Myōkō gata | Myōkō (1944)**.
+        - The **Isuzu**'s long name has been changed to **Uraga Senkyo Kabushiki Kaisha | Nagara gata (C-33) | Isuzu (1944)**.
 
 - #### Additions:
 

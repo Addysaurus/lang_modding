@@ -113,8 +113,15 @@ All dates are listed in DD-MM-YYYY format.
         - The **Momi**'s long name has been changed to **Yokosuka Kaigun Kōshō | Momi gata (F-37) | Momi (1930)**.
         - The **Mutsuki**'s (standard and EC version) long name has been changed to **Sasebo Kaigun Kōshō | Mutsuki gata (F-41E3) | Mutsuki (1941)**.
         - The **Ayanami**'s (standard and EC version) long name has been changed to **Fujinagata Zōsenjo | Fubuki gata (F-43) | Ayanami (1936)**.
-        - The **Yūgumo**'s (standard and EC version) long name has been changed to **Maizuru Kaigun Kōshō | Yūgumo gata (F-50) | Yūgumo (1942)**.
+        - The **Yūgumo**'s (standard and EC version) long name has been changed to **Maizuru Kaigun Kōshō | Yūgumo gata (F-50) | Yūgumo**.
         - The **Hatsuharu**'s long name has been changed to **Sasebo Kaigun Kōshō | Hatsuharu gata (F-45) | Hatsuharu**.
+        - The **Nenohi**'s long name has been changed to **Uraga Senkyo Kabushiki Kaisha | Hatsuharu gata (F-45) | Nenohi (1942)**.
+        - The **Hayanami**'s long name has been changed to **Maizuru Kaigun Kōshō | Yūgumo gata (F-50) | Hayanami**.
+        - The **Akizuki**'s (standard and EC version) long name has been changed to **Maizuru Kaigun Kōshō | Akizuki gata (F-51A) | Akizuki (1944)**.
+        - The **Hatsuzuki**'s long name has been changed to **Maizuru Kaigun Kōshō | Akizuki gata (F-51A) | Hatsuzuki**.
+        - The **Kako**'s (standard and EC version) long name has been changed to **Kawasaki Zōsen Kabushiki Kaisha / Kure Kaigun Kōshō | Furutaka gata | Kako (1932)**.
+        - The **Furutaka**'s (standard and EC version) long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Furutaka gata | Furutaka (1942)**.
+        - The **Aoba**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Aoba gata | Aoba (1944)**.
 
 - #### Additions:
 

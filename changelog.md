@@ -12,10 +12,6 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
-## 1.09.03 - 18-09-2024
-
-### Vehicles:
-
 - #### Additions:
 
     - **General Dynamics Land Systems** added as the manufacturer for the **120S**.
@@ -126,6 +122,23 @@ All dates are listed in DD-MM-YYYY format.
         - The **Myōkō**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha / Kure Kaigun Kōshō | Myōkō gata | Myōkō (1944)**.
         - The **Isuzu**'s long name has been changed to **Uraga Senkyo Kabushiki Kaisha / Kure Kaigun Kōshō | Nagara gata (C-33) | Isuzu (1944)**.
         - The **Tama**'s (standard and EC version) long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Kuma gata (C-33) | Tama (1937)**.
+        - The **Sendai**'s long name has been changed to **Kure Kaigun Kōshō | Sendai gata (C-33) | Sendai (1942)**.
+        - The **Yūbari**'s long name has been changed to **Sasebo Kaigun Kōshō / Yokosuka Kaigun Kōshō | Yūbari gata (F-42) | Yūbari (1944)**.
+        - The **Kiyoshimo**'s long name has been changed to **Uraga Senkyo Kabushiki Kaisha | Yūgumo gata (F-50) | Kiyoshimo**.
+        - The **Yūdachi**'s long name has been changed to **Sasebo Kaigun Kōshō | Shiratsuyu gata (F-45D) | Yūdachi**.
+        - The **Agano**'s (standard and EC version) long name has been changed to **Sasebo Kaigun Kōshō | Agano gata (C-41-II) | Agano (1943)**. Gaijin modeled **Agano** as a hybrid, but the 1943 fit is the closest I could get.
+        - The **Ikoma**'s long name has been changed to **Kure Kaigun Kōshō | Tsukuba gata (B-12) | Ikoma (1912)**.
+        - The **Tone**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Tone gata (C-38) | Tone (1945)**.
+        - The **Settsu**'s long name has been changed to **Kure Kaigun Kōshō | Kawachi gata (A-30) | Settsu**.
+        - The **Suzuya**'s long name has been changed to **Yokosuka Kaigun Kōshō | Mogami gata (C-37) | Suzuya**.
+        - The **Mogami**'s long name has been changed to **Kure Kaigun Kōshō | Mogami gata (C-37) | Mogami (1940)**.
+        - The **Mikuma**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Mogami gata (C-37) | Mikuma**.
+        - The **Yamashiro**'s long name has been changed to **Yokosuka Kaigun Kōshō | Fusō gata (A-64) | Yamashiro**.
+        - The **Kurama**'s long name has been changed to **Yokosuka Kaigun Kōshō | Kurama gata | Kurama (1919)**.
+
+## 1.09.03 - 18-09-2024
+
+### Vehicles:
 
 - #### Additions:
 

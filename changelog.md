@@ -138,6 +138,10 @@ All dates are listed in DD-MM-YYYY format.
         - The **Haruna**'s long name has been changed to **Kawasaki Zōsen Kabushiki Kaisha | Kongō gata (B-46) | Haruna (1945)**.
         - The **Kongō**'s long name has been changed to **Vickers-Armstrongs / Sasebo Kaigun Kōshō | Kongō gata (B-46) | Kongō (1944)**.
         - The **Fusō**'s long name has been changed to **Kure Kaigun Kōshō | Fusō gata (A-64) | Fusō (1944)**.
+        - The **Hyūga**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Ise gata (A-92) | Hyūga**.
+        - The **Ise**'s long name has been changed to **Kawasaki Zōsen Kabushiki Kaisha | Ise gata (A-92) | Ise (1937)**.
+        - The **Amagi**'s long name has been changed to **Amagi gata (B-64) | Amagi**. **Amagi** was never built, so it doesn't get a manufacturer.
+        - The **Mutsu**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nagato gata (A-114) | Mutsu (1922)**.
 
 ## 1.09.03 - 18-09-2024
 

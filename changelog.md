@@ -106,42 +106,60 @@ All dates are listed in DD-MM-YYYY format.
     - **HMS Barham (04)** renamed to **HMS Barham (97)**. Her pennant number was initially 97, being changed to 10 in January, 1918; 34 in April, 1918; and finally 04 in November, 1919.
     - **Seafire L.F. Mk. III*** (France) renamed to **Seafire Mk. III**.
     - Japanese naval rework (I hate myself so I did 2 reworks in 1 update):
-        - The **Momi**'s long name has been changed to **Yokosuka Kaigun Kōshō | Momi gata (F-37) | Momi (1930)**.
-        - The **Mutsuki**'s (standard and EC version) long name has been changed to **Sasebo Kaigun Kōshō | Mutsuki gata (F-41E3) | Mutsuki (1941)**.
-        - The **Ayanami**'s (standard and EC version) long name has been changed to **Fujinagata Zōsenjo | Fubuki gata (F-43) | Ayanami (1936)**.
-        - The **Yūgumo**'s (standard and EC version) long name has been changed to **Maizuru Kaigun Kōshō | Yūgumo gata (F-50) | Yūgumo**.
-        - The **Hatsuharu**'s long name has been changed to **Sasebo Kaigun Kōshō | Hatsuharu gata (F-45) | Hatsuharu**.
-        - The **Nenohi**'s long name has been changed to **Uraga Senkyo Kabushiki Kaisha | Hatsuharu gata (F-45) | Nenohi (1942)**.
-        - The **Hayanami**'s long name has been changed to **Maizuru Kaigun Kōshō | Yūgumo gata (F-50) | Hayanami**.
-        - The **Akizuki**'s (standard and EC version) long name has been changed to **Maizuru Kaigun Kōshō | Akizuki gata (F-51A) | Akizuki (1944)**.
-        - The **Hatsuzuki**'s long name has been changed to **Maizuru Kaigun Kōshō | Akizuki gata (F-51A) | Hatsuzuki**.
-        - The **Kako**'s (standard and EC version) long name has been changed to **Kawasaki Zōsen Kabushiki Kaisha / Kure Kaigun Kōshō | Furutaka gata | Kako (1932)**.
-        - The **Furutaka**'s (standard and EC version) long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Furutaka gata | Furutaka (1942)**.
-        - The **Aoba**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Aoba gata | Aoba (1944)**.
-        - The **Haguro**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha / Kure Kaigun Kōshō | Myōkō gata | Haguro (1944)**.
-        - The **Myōkō**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha / Kure Kaigun Kōshō | Myōkō gata | Myōkō (1944)**.
-        - The **Isuzu**'s long name has been changed to **Uraga Senkyo Kabushiki Kaisha / Kure Kaigun Kōshō | Nagara gata (C-33) | Isuzu (1944)**.
-        - The **Tama**'s (standard and EC version) long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Kuma gata (C-33) | Tama (1937)**.
-        - The **Sendai**'s long name has been changed to **Kure Kaigun Kōshō | Sendai gata (C-33) | Sendai (1942)**.
-        - The **Yūbari**'s long name has been changed to **Sasebo Kaigun Kōshō / Yokosuka Kaigun Kōshō | Yūbari gata (F-42) | Yūbari (1944)**.
-        - The **Kiyoshimo**'s long name has been changed to **Uraga Senkyo Kabushiki Kaisha | Yūgumo gata (F-50) | Kiyoshimo**.
-        - The **Yūdachi**'s long name has been changed to **Sasebo Kaigun Kōshō | Shiratsuyu gata (F-45D) | Yūdachi**.
-        - The **Agano**'s (standard and EC version) long name has been changed to **Sasebo Kaigun Kōshō | Agano gata (C-41-II) | Agano (1943)**. Gaijin modeled **Agano** as a hybrid, but the 1943 fit is the closest I could get.
-        - The **Ikoma**'s long name has been changed to **Kure Kaigun Kōshō | Tsukuba gata (B-12) | Ikoma (1912)**.
-        - The **Tone**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Tone gata (C-38) | Tone (1945)**.
-        - The **Settsu**'s long name has been changed to **Kure Kaigun Kōshō | Kawachi gata (A-30) | Settsu**.
-        - The **Suzuya**'s long name has been changed to **Yokosuka Kaigun Kōshō | Mogami gata (C-37) | Suzuya**.
-        - The **Mogami**'s long name has been changed to **Kure Kaigun Kōshō | Mogami gata (C-37) | Mogami (1940)**.
-        - The **Mikuma**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Mogami gata (C-37) | Mikuma**.
-        - The **Yamashiro**'s long name has been changed to **Yokosuka Kaigun Kōshō | Fusō gata (A-64) | Yamashiro**.
-        - The **Kurama**'s long name has been changed to **Yokosuka Kaigun Kōshō | Kurama gata | Kurama (1919)**.
-        - The **Haruna**'s long name has been changed to **Kawasaki Zōsen Kabushiki Kaisha | Kongō gata (B-46) | Haruna (1945)**.
-        - The **Kongō**'s long name has been changed to **Vickers-Armstrongs / Sasebo Kaigun Kōshō | Kongō gata (B-46) | Kongō (1944)**.
-        - The **Fusō**'s long name has been changed to **Kure Kaigun Kōshō | Fusō gata (A-64) | Fusō (1944)**.
-        - The **Hyūga**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Ise gata (A-92) | Hyūga**.
-        - The **Ise**'s long name has been changed to **Kawasaki Zōsen Kabushiki Kaisha | Ise gata (A-92) | Ise (1937)**.
-        - The **Amagi**'s long name has been changed to **Amagi gata (B-64) | Amagi**. **Amagi** was never built, so it doesn't get a manufacturer.
-        - The **Mutsu**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nagato gata (A-114) | Mutsu (1922)**.
+        - Bluewtaer fleet:
+            - The **Momi**'s long name has been changed to **Yokosuka Kaigun Kōshō | Momi gata (F-37) | Momi (1930)**.
+            - The **Mutsuki**'s (standard and EC version) long name has been changed to **Sasebo Kaigun Kōshō | Mutsuki gata (F-41E3) | Mutsuki (1941)**.
+            - The **Ayanami**'s (standard and EC version) long name has been changed to **Fujinagata Zōsenjo | Fubuki gata (F-43) | Ayanami (1936)**.
+            - The **Yūgumo**'s (standard and EC version) long name has been changed to **Maizuru Kaigun Kōshō | Yūgumo gata (F-50) | Yūgumo**.
+            - The **Hatsuharu**'s long name has been changed to **Sasebo Kaigun Kōshō | Hatsuharu gata (F-45) | Hatsuharu**.
+            - The **Nenohi**'s long name has been changed to **Uraga Senkyo Kabushiki Kaisha | Hatsuharu gata (F-45) | Nenohi (1942)**.
+            - The **Hayanami**'s long name has been changed to **Maizuru Kaigun Kōshō | Yūgumo gata (F-50) | Hayanami**.
+            - The **Akizuki**'s (standard and EC version) long name has been changed to **Maizuru Kaigun Kōshō | Akizuki gata (F-51A) | Akizuki (1944)**.
+            - The **Hatsuzuki**'s long name has been changed to **Maizuru Kaigun Kōshō | Akizuki gata (F-51A) | Hatsuzuki**.
+            - The **Kako**'s (standard and EC version) long name has been changed to **Kawasaki Zōsen Kabushiki Kaisha / Kure Kaigun Kōshō | Furutaka gata | Kako (1932)**.
+            - The **Furutaka**'s (standard and EC version) long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Furutaka gata | Furutaka (1942)**.
+            - The **Aoba**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Aoba gata | Aoba (1944)**.
+            - The **Haguro**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha / Kure Kaigun Kōshō | Myōkō gata | Haguro (1944)**.
+            - The **Myōkō**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha / Kure Kaigun Kōshō | Myōkō gata | Myōkō (1944)**.
+            - The **Isuzu**'s long name has been changed to **Uraga Senkyo Kabushiki Kaisha / Kure Kaigun Kōshō | Nagara gata (C-33) | Isuzu (1944)**.
+            - The **Tama**'s (standard and EC version) long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Kuma gata (C-33) | Tama (1937)**.
+            - The **Sendai**'s long name has been changed to **Kure Kaigun Kōshō | Sendai gata (C-33) | Sendai (1942)**.
+            - The **Yūbari**'s long name has been changed to **Sasebo Kaigun Kōshō / Yokosuka Kaigun Kōshō | Yūbari gata (F-42) | Yūbari (1944)**.
+            - The **Kiyoshimo**'s long name has been changed to **Uraga Senkyo Kabushiki Kaisha | Yūgumo gata (F-50) | Kiyoshimo**.
+            - The **Yūdachi**'s long name has been changed to **Sasebo Kaigun Kōshō | Shiratsuyu gata (F-45D) | Yūdachi**.
+            - The **Agano**'s (standard and EC version) long name has been changed to **Sasebo Kaigun Kōshō | Agano gata (C-41-II) | Agano (1943)**. Gaijin modeled **Agano** as a hybrid, but the 1943 fit is the closest I could get.
+            - The **Ikoma**'s long name has been changed to **Kure Kaigun Kōshō | Tsukuba gata (B-12) | Ikoma (1912)**.
+            - The **Tone**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Tone gata (C-38) | Tone (1945)**.
+            - The **Settsu**'s long name has been changed to **Kure Kaigun Kōshō | Kawachi gata (A-30) | Settsu**.
+            - The **Suzuya**'s long name has been changed to **Yokosuka Kaigun Kōshō | Mogami gata (C-37) | Suzuya**.
+            - The **Mogami**'s long name has been changed to **Kure Kaigun Kōshō | Mogami gata (C-37) | Mogami (1940)**.
+            - The **Mikuma**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Mogami gata (C-37) | Mikuma**.
+            - The **Yamashiro**'s long name has been changed to **Yokosuka Kaigun Kōshō | Fusō gata (A-64) | Yamashiro**.
+            - The **Kurama**'s long name has been changed to **Yokosuka Kaigun Kōshō | Kurama gata | Kurama (1919)**.
+            - The **Haruna**'s long name has been changed to **Kawasaki Zōsen Kabushiki Kaisha | Kongō gata (B-46) | Haruna (1945)**.
+            - The **Kongō**'s long name has been changed to **Vickers-Armstrongs / Sasebo Kaigun Kōshō | Kongō gata (B-46) | Kongō (1944)**.
+            - The **Fusō**'s long name has been changed to **Kure Kaigun Kōshō | Fusō gata (A-64) | Fusō (1944)**.
+            - The **Hyūga**'s long name has been changed to **Mitsubishi Zōsen Kabushiki Kaisha | Ise gata (A-92) | Hyūga**.
+            - The **Ise**'s long name has been changed to **Kawasaki Zōsen Kabushiki Kaisha | Ise gata (A-92) | Ise (1937)**.
+            - The **Amagi**'s long name has been changed to **Amagi gata (B-64) | Amagi**. **Amagi** was never built, so it doesn't get a manufacturer.
+            - The **Mutsu**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nagato gata (A-114) | Mutsu (1922)**.
+        - Coastal fleet:
+            - The **Hatsukari**'s long name has been changed to **Fujinagata Zōsenjo | Chidori gata | Hatsukari (1944)**.
+    - The **Novorossijsk**'s long name has been changed to **Conte di Cavour-class, Novorossijsk, 1955**. Previously, the long name still had Gaijin's original spelling of "Novorossiysk".
+
+### Weaponry:
+
+- #### Changes:
+
+    - **KAB-500S** renamed to **KAB-500S-È**.
+
+### Modifications:
+
+- #### Changes:
+
+    - **Su-24M2** modification renamed to **FAB-500 / KAB-500S-È**.
+    - **Mk82/LS-6 250** modification renamed to **Mk 82 Mod 0 / LS6**.
+    - **Mk83/LS-6 500** modification renamed to **Mk 83 Mod 0 / LS6**.
 
 ## 1.09.03 - 18-09-2024
 

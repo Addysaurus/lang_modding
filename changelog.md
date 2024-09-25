@@ -144,11 +144,16 @@ All dates are listed in DD-MM-YYYY format.
             - The **Amagi**'s long name has been changed to **Amagi gata (B-64) | Amagi**. **Amagi** was never built, so it doesn't get a manufacturer.
             - The **Mutsu**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nagato gata (A-114) | Mutsu (1922)**.
             - The **Shimakaze**'s long name has been changed to **Maizuru Kaigun Kōshō | Shimakaze gata (F-52) | Shimakaze (1944)**.
-        - Coastal fleet (thank you to Wiggly_Armed_Man for helping me understand how the IJN's absolutely rancid naming system for small boats works):
+        - Coastal fleet (why do I do this to myself ahhhhhh) (thank you to Wiggly_Armed_Man for helping me understand how the IJN's absolutely rancid naming system for small boats works):
             - The **Hatsukari**'s long name has been changed to **Fujinagata Zōsenjo | Chidori gata | Hatsukari (1944)**.
             - **Type T-1** renamed to **Dai 1 Gō**. The long name has been changed to **Yokohama Yotto Kabushiki Kaisha | Dai 1 Gō gata gyoraitei (T-1) | Dai 1 Gō**.
             - **Type T-51b** renamed to **Dai 11 Gō**. The long name has been changed to **Yokohama Yotto Kabushiki Kaisha | Kō gata gyoraitei | Dai 11 Gō gata gyoraitei (T-51B) | Dai 11 Gō**.
             - **Type T-51a** renamed to **Dai 10 Gō**. The long name has been changed to **Choshi | Kō gata gyoraitei | Dai 10 Gō gata gyoraitei (T-51A) | Dai 10 Gō**.
+            - **Type T-14** renamed to **Dai 538 Gō**. The long name has been changed to **Maizuru Kaigun Kōshō | Otsu gata gyoraitei | Dai 538 Gō gata gyoraitei (T-14) | Dai 538 Gō**.
+            - **Type T-14 (mod. 1)** renamed to **Dai 540 Gō**. The long name has been changed to **Maizuru Kaigun Kōshō | Otsu gata gyoraitei | Dai 538 Gō gata gyoraitei (T-14) | Dai 540 Gō**.
+            - **Type T-38** renamed to **Dai 241 Gō**. The long name has been changed to **Yokosuka Kaigun Kōshō | Otsu gata gyoraitei | Dai 241 Gō gata gyoraitei (T-38) | Dai 241 Gō**.
+            - **Type K-3 No. 1** renamed to **Dai 2 Gō**. The long name has been chanhed to **Ishikawajima Kaigun Kōshō | Dai 1 Gō gata kusentei (K-3) | Dai 2 Gō (1944)**.
+            - **Type K-7 No. 4** renamed to **Dai 8 Gō**. The long name has been chanhed to **Tama Kaigun Kōshō | Dai 4 Gō gata kusentei (K-7) | Dai 8 Gō (1944)**.
     - The **Novorossijsk**'s long name has been changed to **Conte di Cavour-class, Novorossijsk, 1955**. Previously, the long name still had Gaijin's original spelling of "Novorossiysk".
 
 ### Weaponry:

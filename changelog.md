@@ -143,8 +143,12 @@ All dates are listed in DD-MM-YYYY format.
             - The **Ise**'s long name has been changed to **Kawasaki Zōsen Kabushiki Kaisha | Ise gata (A-92) | Ise (1937)**.
             - The **Amagi**'s long name has been changed to **Amagi gata (B-64) | Amagi**. **Amagi** was never built, so it doesn't get a manufacturer.
             - The **Mutsu**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nagato gata (A-114) | Mutsu (1922)**.
-        - Coastal fleet:
+            - The **Shimakaze**'s long name has been changed to **Maizuru Kaigun Kōshō | Shimakaze gata (F-52) | Shimakaze (1944)**.
+        - Coastal fleet (thank you to Wiggly_Armed_Man for helping me understand how the IJN's absolutely rancid naming system for small boats works):
             - The **Hatsukari**'s long name has been changed to **Fujinagata Zōsenjo | Chidori gata | Hatsukari (1944)**.
+            - **Type T-1** renamed to **Dai 1 Gō**. The long name has been changed to **Yokohama Yotto Kabushiki Kaisha | Dai 1 Gō gata gyoraitei (T-1) | Dai 1 Gō**.
+            - **Type T-51b** renamed to **Dai 11 Gō**. The long name has been changed to **Yokohama Yotto Kabushiki Kaisha | Kō gata gyoraitei | Dai 11 Gō gata gyoraitei (T-51B) | Dai 11 Gō**.
+            - **Type T-51a** renamed to **Dai 10 Gō**. The long name has been changed to **Choshi | Kō gata gyoraitei | Dai 10 Gō gata gyoraitei (T-51A) | Dai 10 Gō**.
     - The **Novorossijsk**'s long name has been changed to **Conte di Cavour-class, Novorossijsk, 1955**. Previously, the long name still had Gaijin's original spelling of "Novorossiysk".
 
 ### Weaponry:

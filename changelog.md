@@ -145,7 +145,6 @@ All dates are listed in DD-MM-YYYY format.
             - The **Mutsu**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nagato gata (A-114) | Mutsu (1922)**.
             - The **Shimakaze**'s long name has been changed to **Maizuru Kaigun Kōshō | Shimakaze gata (F-52) | Shimakaze (1944)**.
         - Coastal fleet (why do I do this to myself ahhhhhh) (thank you to Wiggly_Armed_Man for helping me understand how the IJN's absolutely rancid naming system for small boats works):
-            - The **Hatsukari**'s long name has been changed to **Fujinagata Zōsenjo | Chidori gata | Hatsukari (1944)**.
             - **Type T-1** renamed to **Dai 1 Gō**. The long name has been changed to **Yokohama Yotto Kabushiki Kaisha | Dai 1 Gō gata gyoraitei (T-1) | Dai 1 Gō**.
             - **Type T-51b** renamed to **Dai 11 Gō**. The long name has been changed to **Yokohama Yotto Kabushiki Kaisha | Kō gata gyoraitei | Dai 11 Gō gata gyoraitei (T-51B) | Dai 11 Gō**.
             - **Type T-51a** renamed to **Dai 10 Gō**. The long name has been changed to **Choshi | Kō gata gyoraitei | Dai 10 Gō gata gyoraitei (T-51A) | Dai 10 Gō**.
@@ -161,6 +160,12 @@ All dates are listed in DD-MM-YYYY format.
             - **Soukou-Tei №4** renamed to **Sōkōtei Dai 4 Gō**. The long name has been changed to **Sōkōtei Dai 3 Gō gata | Sōkōtei Dai 4 Gō**.
             - **Type 4 (mod. 2)** renamed to **Ka-Ro 2 gata**. The long name has been changed to **4 shiki 2 gata Kuchiku-Tei | Ka-Ro 2 gata**.
             - **Type 4 (Mod 4)** renamed to **Ka-Ro 4 gata**. The long name has been changed to **4 shiki 4 gata Kuchiku-Tei | Ka-Ro 4 gata**.
+            - **Ha-Go (mod. 1)** renamed to **Ha-Go 1 gata**. The long name has been changed to **Ha-Go sentōtei 1 gata "Se-Ha"**.
+            - The **JDS Tokachi (DE-218)**'s long name has ben changed to **Mitsui Zōsen Kabushiki Gaisha | Chikugo gata goeikan (E-106) | JDS Tokachi (DE-218)**.
+            - The **JDS Ikazuchi (DE-202)**'s long name has ben changed to **Kawasaki Jūkōgyō Kabushiki Gaisha | Ikazuchi gata goeikan (E-102) | JDS Ikazuchi (DE-202)**.
+            - The **Shōnan**'s long name has ben changed to **Hitachi Zōsen Kabushiki Gaisha | Hiburi gata kaibōkan (E-20B) | Shōnan**.
+            - The **JDS Ikazuchi (DE-211)**'s long name has ben changed to **Mitsui Zōsen Kabushiki Gaisha | Isuzu gata goeikan (E-103) | JDS Isuzu (DE-211)**.
+            - The **Hatsukari**'s long name has been changed to **Fujinagata Zōsenjo | Chidori gata goeikan | Hatsukari (1944)**.
     - The **Novorossijsk**'s long name has been changed to **Conte di Cavour-class, Novorossijsk, 1955**. Previously, the long name still had Gaijin's original spelling of "Novorossiysk".
 
 ### Weaponry:

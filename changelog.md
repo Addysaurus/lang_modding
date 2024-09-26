@@ -159,6 +159,8 @@ All dates are listed in DD-MM-YYYY format.
             - **Type 5** renamed to **Ke-I kō**. The long name has been changed to **haganesei dai goeikan | Ke-I kō**. This vehicle is an unholy hybrid, one of the worst in the game, but the **Ke-I kō** was the best I could get.
             - **Soukou-Tei** renamed to **Sōkōtei Dai 1 Gō**. The long name has been changed to **Sōkōtei Dai 1 Gō "Sakigake"**.
             - **Soukou-Tei №4** renamed to **Sōkōtei Dai 4 Gō**. The long name has been changed to **Sōkōtei Dai 3 Gō gata | Sōkōtei Dai 4 Gō**.
+            - **Type 4 (mod. 2)** renamed to **Ka-Ro 2 gata**. The long name has been changed to **4 shiki 2 gata Kuchiku-Tei | Ka-Ro 2 gata**.
+            - **Type 4 (Mod 4)** renamed to **Ka-Ro 4 gata**. The long name has been changed to **4 shiki 4 gata Kuchiku-Tei | Ka-Ro 4 gata**.
     - The **Novorossijsk**'s long name has been changed to **Conte di Cavour-class, Novorossijsk, 1955**. Previously, the long name still had Gaijin's original spelling of "Novorossiysk".
 
 ### Weaponry:

@@ -165,6 +165,11 @@ All dates are listed in DD-MM-YYYY format.
             - The **JDS Ikazuchi (DE-202)**'s long name has ben changed to **Kawasaki Jūkōgyō Kabushiki Gaisha | Ikazuchi gata goeikan (E-102) | JDS Ikazuchi (DE-202)**.
             - The **Shōnan**'s long name has ben changed to **Hitachi Zōsen Kabushiki Gaisha | Hiburi gata kaibōkan (E-20B) | Shōnan**.
             - The **JDS Ikazuchi (DE-211)**'s long name has ben changed to **Mitsui Zōsen Kabushiki Gaisha | Isuzu gata goeikan (E-103) | JDS Isuzu (DE-211)**.
+            - The **JDS Akebono (DE-201)**'s long name has ben changed to **Ishikawajima Harima Jūkōgyō Kabushiki Gaisha | Akebono gata goeikan (E-102) | JDS Akebono (DE-201)**.
+            - **PT-802** renamed to **Gyoraitei 2 Gō**. The long name has been changed to **1 Gō gata gyoraitei | Gyoraitei 2 Gō**.
+            - **PT No. 8** renamed to **Gyoraitei 8 Gō**. The long name has been changed to **7 Gō gata gyoraitei | Gyoraitei 8 Gō**.
+            - **PT-15** renamed to **Gyoraitei 15 Gō**. The long name has been changed to **11 Gō gata gyoraitei | Gyoraitei 15 Gō**.
+            - **PG-02** renamed to **Misairutei 2 Gō (PG-822)**. The long name has been changed to **1 Gō gata misairutei | Misairutei 2 Gō (PG-822)**.
             - The **Hatsukari**'s long name has been changed to **Fujinagata Zōsenjo | Chidori gata goeikan | Hatsukari (1944)**.
     - The **Novorossijsk**'s long name has been changed to **Conte di Cavour-class, Novorossijsk, 1955**. Previously, the long name still had Gaijin's original spelling of "Novorossiysk".
 

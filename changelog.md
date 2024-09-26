@@ -150,12 +150,15 @@ All dates are listed in DD-MM-YYYY format.
             - **Type T-51b** renamed to **Dai 11 Gō**. The long name has been changed to **Yokohama Yotto Kabushiki Kaisha | Kō gata gyoraitei | Dai 11 Gō gata gyoraitei (T-51B) | Dai 11 Gō**.
             - **Type T-51a** renamed to **Dai 10 Gō**. The long name has been changed to **Choshi | Kō gata gyoraitei | Dai 10 Gō gata gyoraitei (T-51A) | Dai 10 Gō**.
             - **Type T-14** renamed to **Dai 538 Gō**. The long name has been changed to **Maizuru Kaigun Kōshō | Otsu gata gyoraitei | Dai 538 Gō gata gyoraitei (T-14) | Dai 538 Gō**.
-            - **Type T-14 (mod. 1)** renamed to **Dai 540 Gō**. The long name has been changed to **Maizuru Kaigun Kōshō | Otsu gata gyoraitei | Dai 538 Gō gata gyoraitei (T-14) | Dai 540 Gō**.
+            - **Type T-14 (mod. 1)** renamed to **Dai 838 Gō**. The long name has been changed to **Maizuru Kaigun Kōshō | Otsu gata gyoraitei | Dai 838 Gō gata gyoraitei (T-14) | Dai 838 Gō**.
             - **Type T-38** renamed to **Dai 241 Gō**. The long name has been changed to **Yokosuka Kaigun Kōshō | Otsu gata gyoraitei | Dai 241 Gō gata gyoraitei (T-38) | Dai 241 Gō**.
             - **Type K-3 No. 1** renamed to **Dai 2 Gō**. The long name has been changed to **Ishikawajima Kaigun Kōshō | Dai 1 Gō gata kusentei (K-3) | Dai 2 Gō (1944)**.
             - **Type K-7 No. 4** renamed to **Dai 8 Gō**. The long name has been changed to **Tama Kaigun Kōshō | Dai 4 Gō gata kusentei (K-7) | Dai 8 Gō (1944)**.
             - **No. 14 (1942)** renamed to **Dai 14 Gō**. The long name has been changed to **Tama Kaigun Kōshō | Dai 13 Gō gata kusentei (K-8) | Dai 14 Gō**.
             - **No. 14 (1944)** renamed to **Dai 14 Gō (1944)**. The long name has been changed to **Tama Kaigun Kōshō | Dai 13 Gō gata kusentei (K-8) | Dai 14 Gō (1944)**.
+            - **Type 5** renamed to **Ke-I kō**. The long name has been changed to **haganesei dai goeikan | Ke-I kō**. This vehicle is an unholy hybrid, one of the worst in the game, but the **Ke-I kō** was the best I could get.
+            - **Soukou-Tei** renamed to **Sōkōtei Dai 1 Gō**. The long name has been changed to **Sōkōtei Dai 1 Gō "Sakigake"**.
+            - **Soukou-Tei №4** renamed to **Sōkōtei Dai 4 Gō**. The long name has been changed to **Sōkōtei Dai 3 Gō gata | Sōkōtei Dai 4 Gō**.
     - The **Novorossijsk**'s long name has been changed to **Conte di Cavour-class, Novorossijsk, 1955**. Previously, the long name still had Gaijin's original spelling of "Novorossiysk".
 
 ### Weaponry:

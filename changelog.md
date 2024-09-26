@@ -171,6 +171,7 @@ All dates are listed in DD-MM-YYYY format.
             - **PT-15** renamed to **Gyoraitei 15 Gō**. The long name has been changed to **11 Gō gata gyoraitei | Gyoraitei 15 Gō**.
             - **PG-02** renamed to **Misairutei 2 Gō (PG-822)**. The long name has been changed to **1 Gō gata misairutei | Misairutei 2 Gō (PG-822)**.
             - The **Hatsukari**'s long name has been changed to **Fujinagata Zōsenjo | Chidori gata goeikan | Hatsukari (1944)**.
+            - The **JDS Ayanami (DD-103)**'s long name has ben changed to **Mitsubishi Jūkōgyō Kabushiki Gaisha Nagasaki Zōsenjo | Ayanami gata goeikan (F-102) | JDS Ayanami (DD-103)**.
     - The **Novorossijsk**'s long name has been changed to **Conte di Cavour-class, Novorossijsk, 1955**. Previously, the long name still had Gaijin's original spelling of "Novorossiysk".
 
 ### Weaponry:

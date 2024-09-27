@@ -15,6 +15,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - **General Dynamics Land Systems** added as the manufacturer for the **120S**.
+    - **GIAT Industries** added as the manufacturer for the **Vextra 105**.
     - US ground vehicles that had a supply catalog have had their supply catalog added to their name. It has been added after the manufacturer name and in front of the standard name (e.g. **Tank, Heavy, M6A1** becomes **G-118 | Tank, Heavy, M6A1**). The list of changes is in the **Changes** section of this changelog.
     - All Japanese vessels have had their manufacturers added as part of the Japanese naval rework.
 
@@ -187,6 +188,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **Sea Gladiator Mk. I**'s mid distance name has been changed to **Sea Gladiator Mk. I**. The long distance name has been changed to **Sea Gladiator**.
     - The **Sea Hurricane F. Mk. Ib** and **Sea Hurricane F. Mk. Ic** have both had their long distance names changed to **Sea Hurricane**.
     - The **MGB (late)**'s long name has been changed to **MGB "Konelan putki" (late)**.
+    - The **Striker**'s long name has been changed to **F.V.102 | Striker**.
 
 ### Weaponry:
 

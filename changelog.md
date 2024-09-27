@@ -186,6 +186,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **Scimitar F. Mk. 1**'s long distance name has been changed to **Scimitar**.
     - The **Sea Gladiator Mk. I**'s mid distance name has been changed to **Sea Gladiator Mk. I**. The long distance name has been changed to **Sea Gladiator**.
     - The **Sea Hurricane F. Mk. Ib** and **Sea Hurricane F. Mk. Ic** have both had their long distance names changed to **Sea Hurricane**.
+    - The **MGB (late)**'s long name has been changed to **MGB "Konelan putki" (late)**.
 
 ### Weaponry:
 

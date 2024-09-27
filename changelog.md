@@ -144,6 +144,8 @@ All dates are listed in DD-MM-YYYY format.
             - The **Amagi**'s long name has been changed to **Amagi gata (B-64) | Amagi**. **Amagi** was never built, so it doesn't get a manufacturer.
             - The **Mutsu**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nagato gata (A-114) | Mutsu (1922)**.
             - The **Shimakaze**'s long name has been changed to **Maizuru Kaigun Kōshō | Shimakaze gata (F-52) | Shimakaze (1944)**.
+            - The **JDS Harukaze (DD-101)**'s long name has been changed to **Mitsubishi Jūkōgyō Kabushiki Gaisha Nagasaki Zōsenjo | Harukaze gata goeikan (F-101) | JDS Harukaze (DD-101)**.
+            - The **JDS Yūgure (DD-184)**'s long name has been changed to **Boston Navy Yard / Ishikawajima Jūkōgyō Tōkyō Dai 2 Kōjō | Ariake gata goeikan | JDS Yūgure (DD-184)**.
         - Coastal fleet (why do I do this to myself ahhhhhh) (thank you to Wiggly_Armed_Man for helping me understand how the IJN's absolutely rancid naming system for small boats works):
             - **Type T-1** renamed to **Dai 1 Gō**. The long name has been changed to **Yokohama Yotto Kabushiki Kaisha | Dai 1 Gō gata gyoraitei (T-1) | Dai 1 Gō**.
             - **Type T-51b** renamed to **Dai 11 Gō**. The long name has been changed to **Yokohama Yotto Kabushiki Kaisha | Kō gata gyoraitei | Dai 11 Gō gata gyoraitei (T-51B) | Dai 11 Gō**.
@@ -172,13 +174,20 @@ All dates are listed in DD-MM-YYYY format.
             - **PG-02** renamed to **Misairutei 2 Gō (PG-822)**. The long name has been changed to **1 Gō gata misairutei | Misairutei 2 Gō (PG-822)**.
             - The **Hatsukari**'s long name has been changed to **Fujinagata Zōsenjo | Chidori gata goeikan | Hatsukari (1944)**.
             - The **JDS Ayanami (DD-103)**'s long name has ben changed to **Mitsubishi Jūkōgyō Kabushiki Gaisha Nagasaki Zōsenjo | Ayanami gata goeikan (F-102) | JDS Ayanami (DD-103)**.
+            - The **Asagao (YTE-01)**'s long name has ben changed to **George Lawley & Son | Yuri gata renshū zatsusen | Asagao (YTE-01)**.
     - The **Novorossijsk**'s long name has been changed to **Conte di Cavour-class, Novorossijsk, 1955**. Previously, the long name still had Gaijin's original spelling of "Novorossiysk".
+    - **AH-64DJP** (Japan) renamed to **AH-64D**. The long name has been changed to **Fuji Jūkōgyō | AH-64D kōgeki herikoputā ""Apatchi Rongubō"**.
+    - **AH-1S (FMC)** (Japan) renamed to **AH-1S (FMC) (C-NITE)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment)**.
+    - **AH-1S (FMC) (4th ATHU)** (Japan) renamed to **AH-1S (FMC) (C-NITE) (4th TSH)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (4th Tai Sensha Herikoputātai)**.
+    - The **AH-1E**'s (Japan) long name has been changed to **Fuji Jūkōgyō | AH-1E kōgeki herikoputā**.
+    - The **UH-1B**'s (Japan) long name has been changed to **Fuji Jūkōgyō | UH-1B ""Hiyodori"**.
 
 ### Weaponry:
 
 - #### Changes:
 
     - **KAB-500S** renamed to **KAB-500S-È**.
+    - The **Cannon, 20mm, M197** has recieved its caliber and type tags.
 
 ### Modifications:
 

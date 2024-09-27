@@ -9975,7 +9975,7 @@ ah_1w_china_0;☀ AH-1W Cobra
 ah_1w_china_1;☀ AH-1W
 ah_1w_china_2;☀ AH-1
 uh_1b_japan_shop;▅ UH-1B
-uh_1b_japan_0;▅ UH-1B Hiyodori
+uh_1b_japan_0;"▅ Fuji Jūkōgyō | UH-1B ""Hiyodori"""
 uh_1b_japan_1;▅ UH-1B
 uh_1b_japan_2;▅ UH-1
 ah_1g_iaf_shop; AH-1G
@@ -10294,16 +10294,16 @@ j5n1_shop;J5N1
 j5n1_0;18 shi otsu rikujō sentōki | shisei Tenrai | J5N1
 j5n1_1;J5N1
 j5n1_2;J5N
-ah_1s_shop;▅ AH-1S (FMC) (4th ATHU)
-ah_1s_0;▅ AH-1S (Fully Modernized Cobra) (4th Anti-Tank Helicopter Unit)
+ah_1s_shop;▅ AH-1S (FMC) (C-NITE) (4th TSH)
+ah_1s_0;▅ Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (4th Tai Sensha Herikoputātai)
 ah_1s_1;▅ AH-1S
 ah_1s_2;▅ AH-1
 ah_1s_early_shop;▅ AH-1E
-ah_1s_early_0;▅ AH-1E
+ah_1s_early_0;▅ Fuji Jūkōgyō | AH-1E kōgeki herikoputā
 ah_1s_early_1;▅ AH-1E
 ah_1s_early_2;▅ AH-1
-ah_1s_late_shop;▅ AH-1S (FMC)
-ah_1s_late_0;▅ AH-1S (Fully Modernized Cobra)
+ah_1s_late_shop;▅ AH-1S (FMC) (C-NITE)
+ah_1s_late_0;▅ Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment)
 ah_1s_late_1;▅ AH-1S
 ah_1s_late_2;▅ AH-1
 mig-21_f13_shop;MiG-21F-13
@@ -10778,9 +10778,9 @@ ah_64d_i_saraph_shop; AH-64D-I
 ah_64d_i_saraph_0; Boeing Rotorcraft Systems | AH-64D-I Saraf
 ah_64d_i_saraph_1; AH-64D
 ah_64d_i_saraph_2; AH-64
-ah_64d_japan_shop;▅ AH-64DJP
-ah_64d_japan_0;"▅ Fuji | AH-64DJP Attack Helicopter ""Apatchi Rongubō"""
-ah_64d_japan_1;▅ AH-64DJP
+ah_64d_japan_shop;▅ AH-64D
+ah_64d_japan_0;"▅ Fuji Jūkōgyō | AH-64D kōgeki herikoputā ""Apatchi Rongubō"""
+ah_64d_japan_1;▅ AH-64D
 ah_64d_japan_2;▅ AH-64
 ah_64a_iaf_shop; AH-64A
 ah_64a_iaf_0; McDonnell Douglas Helicopter Systems | AH-64A Peten
@@ -12745,7 +12745,7 @@ it_cruiser_etna_class_0;Etna-class, Etna
 it_cruiser_etna_class_1;Etna
 it_cruiser_etna_class_2;Light cruiser
 jp_destroyer_yugure_shop;JDS Yūgure (DD-184)
-jp_destroyer_yugure_0;Ariake-class, JDS Yūgure (DD-184), 1960
+jp_destroyer_yugure_0;Boston Navy Yard / Ishikawajima Jūkōgyō Tōkyō Dai 2 Kōjō | Ariake gata goeikan | JDS Yūgure (DD-184)
 jp_destroyer_yugure_1;JDS Yūgure (DD-184)
 jp_destroyer_yugure_2;Destroyer
 ussr_su_76d_shop;SU-76D
@@ -12897,7 +12897,7 @@ germ_rdm242_0;Flakträger Krischan der Große, 1943
 germ_rdm242_1;Krischan der Große
 germ_rdm242_2;Motor Gun Boat
 jp_destroyer_harukaze_shop;JDS Harukaze (DD-101)
-jp_destroyer_harukaze_0;Harukaze-class (F-101), JDS Harukaze (DD-101), 1956
+jp_destroyer_harukaze_0;Mitsubishi Jūkōgyō Kabushiki Gaisha Nagasaki Zōsenjo | Harukaze gata goeikan (F-101) | JDS Harukaze (DD-101)
 jp_destroyer_harukaze_1;JDS Harukaze (DD-101)
 jp_destroyer_harukaze_2;Destroyer
 ussr_cruiser_kerch_shop;Kyerč' (1950)
@@ -13291,7 +13291,7 @@ ussr_destroyer_pr45_0;Pr. 45, Opytnyj, 1942
 ussr_destroyer_pr45_1;Opytnyj
 ussr_destroyer_pr45_2;Destroyer
 jp_yuri_class_asagao_shop;Asagao (YTE-01)
-jp_yuri_class_asagao_0;Yuri gata renshū zatsusen | Asagao (YTE-01)
+jp_yuri_class_asagao_0;George Lawley & Son | Yuri gata renshū zatsusen | Asagao (YTE-01)
 jp_yuri_class_asagao_1;Asagao
 jp_yuri_class_asagao_2;Gunboat
 uk_battleship_orion_shop;HMS Orion (52)

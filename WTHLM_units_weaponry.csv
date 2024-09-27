@@ -3108,9 +3108,9 @@ weapons/30mm_2A72_BTR_user_cannon;<color=@userlogColoredText>30 mm</color> 2A72 
 30mm_3UBR8;30 mm APDS
 30mm_3ubr_11;30 mm APDS-FS
 weapons/cannonGI_2;20 mm GI2 cannon
-weapons/cannonM197;Cannon, 20mm, M197
-weapons/cannonM197_external;Cannon, 20mm, M197
-weapons/cannonTM197B;Cannon, 20mm, M197
+weapons/cannonM197;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M197 <color=#ff6f00>ACNN</color>
+weapons/cannonM197_external;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M197 <color=#ff6f00>ACNN</color>
+weapons/cannonTM197B;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M197 <color=#ff6f00>ACNN</color>
 weapons/gunA_12_7;<color=@userlogColoredText>12.7 mm</color> 9-A-016P | A-12.7 <color=#ff6f00>MG</color>
 weapons/gunYaK_B;<color=@userlogColoredText>12.7 mm</color> ÂkB-12.7 <color=#ff6f00>MG</color>
 weapons/gunYaK_B/short;ÂkB-12.7

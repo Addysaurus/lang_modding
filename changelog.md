@@ -103,8 +103,6 @@ All dates are listed in DD-MM-YYYY format.
         - The **M60**'s (USA and China) long name has been changed to **G-292 | Tank, Combat, Full Tracked: 105mm Gun, M60**.
         - The **M728 CEV**'s (USA and China) long name has been changed to **G-303 | Vehicle, Combat Engineer, Full Tracked: 165mm Gun, M728**.
         - **T114** renamed to **T114 BAT**. The long name has been changed to **Vehicle, Armored, Full Tracked: Batalion Anti-Tank, T114**.
-    - **HMS Barham (04)** renamed to **HMS Barham (97)**. Her pennant number was initially 97, being changed to 10 in January, 1918; 34 in April, 1918; and finally 04 in November, 1919.
-    - **Seafire L.F. Mk. III*** (France) renamed to **Seafire Mk. III**.
     - Japanese naval rework (I hate myself so I did 2 reworks in 1 update):
         - Bluewtaer fleet:
             - The **Momi**'s long name has been changed to **Yokosuka Kaigun Kōshō | Momi gata (F-37) | Momi (1930)**.
@@ -175,12 +173,19 @@ All dates are listed in DD-MM-YYYY format.
             - The **Hatsukari**'s long name has been changed to **Fujinagata Zōsenjo | Chidori gata goeikan | Hatsukari (1944)**.
             - The **JDS Ayanami (DD-103)**'s long name has ben changed to **Mitsubishi Jūkōgyō Kabushiki Gaisha Nagasaki Zōsenjo | Ayanami gata goeikan (F-102) | JDS Ayanami (DD-103)**.
             - The **Asagao (YTE-01)**'s long name has ben changed to **George Lawley & Son | Yuri gata renshū zatsusen | Asagao (YTE-01)**.
+    - Japanese helicopter rework:
+        - **AH-64DJP** (Japan) renamed to **AH-64D**. The long name has been changed to **Fuji Jūkōgyō | AH-64D kōgeki herikoputā ""Apatchi Rongubō"**.
+        - **AH-1S (FMC)** (Japan) renamed to **AH-1S (FMC) (C-NITE)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment)**.
+        - **AH-1S (FMC) (4th ATHU)** (Japan) renamed to **AH-1S (FMC) (C-NITE) (4th TSH)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (4th Tai Sensha Herikoputātai)**.
+        - The **AH-1E**'s (Japan) long name has been changed to **Fuji Jūkōgyō | AH-1E kōgeki herikoputā**.
+        - The **UH-1B**'s (Japan) long name has been changed to **Fuji Jūkōgyō | UH-1B ""Hiyodori"**.
+    - **HMS Barham (04)** renamed to **HMS Barham (97)**. Her pennant number was initially 97, being changed to 10 in January, 1918; 34 in April, 1918; and finally 04 in November, 1919.
+    - **Seafire L.F. Mk. III*** (France) renamed to **Seafire Mk. III**.
     - The **Novorossijsk**'s long name has been changed to **Conte di Cavour-class, Novorossijsk, 1955**. Previously, the long name still had Gaijin's original spelling of "Novorossiysk".
-    - **AH-64DJP** (Japan) renamed to **AH-64D**. The long name has been changed to **Fuji Jūkōgyō | AH-64D kōgeki herikoputā ""Apatchi Rongubō"**.
-    - **AH-1S (FMC)** (Japan) renamed to **AH-1S (FMC) (C-NITE)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment)**.
-    - **AH-1S (FMC) (4th ATHU)** (Japan) renamed to **AH-1S (FMC) (C-NITE) (4th TSH)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (4th Tai Sensha Herikoputātai)**.
-    - The **AH-1E**'s (Japan) long name has been changed to **Fuji Jūkōgyō | AH-1E kōgeki herikoputā**.
-    - The **UH-1B**'s (Japan) long name has been changed to **Fuji Jūkōgyō | UH-1B ""Hiyodori"**.
+    - The **Hampden T.B. Mk. I**'s mid distance name has been changed to **Hampden T.B. Mk. I**.
+    - The **Scimitar F. Mk. 1**'s long distance name has been changed to **Scimitar**.
+    - The **Sea Gladiator Mk. I**'s mid distance name has been changed to **Sea Gladiator Mk. I**. The long distance name has been changed to **Sea Gladiator**.
+    - The **Sea Hurricane F. Mk. Ib** and **Sea Hurricane F. Mk. Ic** have both had their long distance names changed to **Sea Hurricane**.
 
 ### Weaponry:
 

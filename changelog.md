@@ -189,6 +189,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **Sea Hurricane F. Mk. Ib** and **Sea Hurricane F. Mk. Ic** have both had their long distance names changed to **Sea Hurricane**.
     - The **MGB (late)**'s long name has been changed to **MGB "Konelan putki" (late)**.
     - The **Striker**'s long name has been changed to **F.V.102 | Striker**.
+    - The **Magaḥ 6R (M261)**'s long name has been changed to **Magaḥ 6 Resh (M261 LWL)**.
 
 ### Weaponry:
 

@@ -190,6 +190,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **MGB (late)**'s long name has been changed to **MGB "Konelan putki" (late)**.
     - The **Striker**'s long name has been changed to **F.V.102 | Striker**.
     - The **Magaḥ 6R (M261)**'s long name has been changed to **Magaḥ 6 Resh (M261 LWL)**.
+    - **Su-27S** renamed back to **Su-27**. The long name has been changed to **izd. T-10S | Su-27**.
 
 ### Weaponry:
 
@@ -197,6 +198,12 @@ All dates are listed in DD-MM-YYYY format.
 
     - **KAB-500S** renamed to **KAB-500S-È**.
     - The **Cannon, 20mm, M197** has recieved its caliber and type tags.
+    - Israeli weapon transliteration changes (all modifications have been adjusted accordingly):
+        - **Python 3** renamed to **Piton 3**.
+        - **Python 4** renamed to **Piton 4**.
+        - **Sharir** renamed to **Šarir**.
+        - **Shafrir** renamed to **Šafrir**.
+        - **Shafrir 2** renamed to **Šafrir 2**.
 
 ### Modifications:
 

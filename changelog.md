@@ -194,6 +194,11 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
+- #### Additions:
+
+    - Added **105 mm Cockerill HP cannon**.
+    - Caliber and type tags have been added for the **105 mm Cockerill HP cannon**.
+
 - #### Changes:
 
     - **KAB-500S** renamed to **KAB-500S-È**.
@@ -204,12 +209,18 @@ All dates are listed in DD-MM-YYYY format.
         - **Sharir** renamed to **Šarir**.
         - **Shafrir** renamed to **Šafrir**.
         - **Shafrir 2** renamed to **Šafrir 2**.
+    - **105 mm Cockerill HP cannon** renamed to **Cockerill 105 mm HP Gun**.
 
 ### Modifications:
+
+- #### Additions:
+
+    - Added missing **FAB-500/KAB-500S** modification.
 
 - #### Changes:
 
     - **Su-24M2** modification renamed to **FAB-500 / KAB-500S-È**.
+    - **FAB-500/KAB-500S** modification renamed to **FAB-500 / KAB-500S-È**.
     - **Mk82/LS-6 250** modification renamed to **Mk 82 Mod 0 / LS6**.
     - **Mk83/LS-6 500** modification renamed to **Mk 83 Mod 0 / LS6**.
 

@@ -191,6 +191,29 @@ All dates are listed in DD-MM-YYYY format.
     - The **Striker**'s long name has been changed to **F.V.102 | Striker**.
     - The **Magaḥ 6R (M261)**'s long name has been changed to **Magaḥ 6 Resh (M261 LWL)**.
     - **Su-27S** renamed back to **Su-27**. The long name has been changed to **izd. T-10S | Su-27**.
+    - Finnish vehicles with the "Ps." designation scheme have had the "Ps." moved before the longer name in the vehicle's long name to match the formatting of other nations. This change has affected the following vehicles:
+        - **44 Psv KW 1 B**
+        - **ItO 90M ohjusvaunu** (France and Sweden)
+        - **15 Ryn.tyk.psv./BT42**
+        - **9 Psv T 26 E**
+        - **RPsv CV9030**
+        - **Psv Comet**
+        - **TstPsv Charioteer**
+        - **25 Psv PZ IV**
+        - **26 Psv T 34 B**
+        - **44 Psv KW 1 A**
+        - **31 Psv T 34/85**
+        - **TstPsv Leopard 2A6**
+        - **TstPsv Leopard 2A4**
+        - **TstPsv T 72M1**
+        - **ItPsv SU-57-2**
+        - **ItPsv 90**
+        - **TstPsv T 54**
+        - **TstPsv T 55M**
+        - **PT-76**
+        - **10 It.psv./Anti**
+    - The long name of the **44 Psv KW 1 B** has been changed to **Ps. 272 | 44 tonnin panssarivaunu KW 1 B "Klimi"**. This may be changed back in the future, but for right now, I have not been able to properly source any differences between this and other **Ps. 272**s or if there even were other **Ps. 272**.
+    - The **28 psv T 28 (1938)**'s long name has been changed to **Ps. 241 | 28 tonnin panssarivaunu T 28 (1938)**.
 
 ### Weaponry:
 

@@ -223,6 +223,7 @@ All dates are listed in DD-MM-YYYY format.
     - **F-86F-40-NA (No. 6 Hikōtai)** renamed to **F-86F-40-NA (Dai 6 Hikōtai)**.
     - **Ki 44-I (No. 47 Chūtai)** renamed to **Ki 44-I (Dai 47 Chūtai)**.
     - **AMX 13 (M24)** renamed to to **AMX 13 (M6)**. The long name has been changed to **AMX 13 (Gun, 75mm, M6)**.
+    - The **F-6C-10-NT**'s long name has been changed to **F-6C-10-NT Mustang**.
 
 ### Weaponry:
 

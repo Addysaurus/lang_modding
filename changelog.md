@@ -215,6 +215,13 @@ All dates are listed in DD-MM-YYYY format.
     - The **44 Psv KW 1 B**'s long name has been changed to **Ps. 272 | 44 tonnin panssarivaunu KW 1 B "Klimi"**.
     - The **28 psv T 28 (1938)**'s long name has been changed to **Ps. 241 | 28 tonnin panssarivaunu T 28 (1938)**.
     - **B 3 C** renamed to **B 3 C-2**.
+    - **Ki 10-I (No. 1 Sentai)** renamed to **Ki 10-I (Dai 1 Sentai)**.
+    - **Ki 10-II (No. 77 Sentai)** renamed to **Ki 10-II (Dai 77 Sentai)**.
+    - **Ki 10-I / II / I (No. 1 Sentai) / II (No. 77 Sentai)** folder renamed to **Ki 10-I / II / I (Dai 1 Sentai) / II (Dai 77 Sentai)**.
+    - **Ki 27 otsu (No. 4 Sentai)** renamed to **Ki 27 otsu (Dai 4 Sentai)**.
+    - **Chi-He (5th Sensha Rentai)** renamed to **Chi-He (Dai 5 Sensha Rentai)**. The mid distance name has been changed to **Chi-He**.
+    - **F-86F-40-NA (No. 6 Hikōtai)** renamed to **F-86F-40-NA (Dai 6 Hikōtai)**.
+    - **Ki 44-I (No. 47 Chūtai)** renamed to **Ki 44-I (Dai 47 Chūtai)**.
 
 ### Weaponry:
 

@@ -212,8 +212,9 @@ All dates are listed in DD-MM-YYYY format.
         - **TstPsv T 55M**
         - **PT-76**
         - **10 It.psv./Anti**
-    - The long name of the **44 Psv KW 1 B** has been changed to **Ps. 272 | 44 tonnin panssarivaunu KW 1 B "Klimi"**. This may be changed back in the future, but for right now, I have not been able to properly source any differences between this and other **Ps. 272**s or if there even were other **Ps. 272**.
+    - The **44 Psv KW 1 B**'s long name has been changed to **Ps. 272 | 44 tonnin panssarivaunu KW 1 B "Klimi"**.
     - The **28 psv T 28 (1938)**'s long name has been changed to **Ps. 241 | 28 tonnin panssarivaunu T 28 (1938)**.
+    - **B 3 C** renamed to **B 3 C-2**.
 
 ### Weaponry:
 

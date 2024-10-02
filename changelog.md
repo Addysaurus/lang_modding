@@ -222,6 +222,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Chi-He (5th Sensha Rentai)** renamed to **Chi-He (Dai 5 Sensha Rentai)**. The mid distance name has been changed to **Chi-He**.
     - **F-86F-40-NA (No. 6 Hikōtai)** renamed to **F-86F-40-NA (Dai 6 Hikōtai)**.
     - **Ki 44-I (No. 47 Chūtai)** renamed to **Ki 44-I (Dai 47 Chūtai)**.
+    - **AMX 13 (M24)** renamed to to **AMX 13 (M6)**. The long name has been changed to **AMX 13 (Gun, 75mm, M6)**.
 
 ### Weaponry:
 
@@ -241,6 +242,11 @@ All dates are listed in DD-MM-YYYY format.
         - **Shafrir** renamed to **Šafrir**.
         - **Shafrir 2** renamed to **Šafrir 2**.
     - **105 mm Cockerill HP cannon** renamed to **Cockerill 105 mm HP Gun**.
+    - **Gun, 57mm, M1897A4** renamed to **Gun, 75mm, M1897A4**. "57mm" was a typo.
+    - **Gun, 57mm, M32** renamed to **Gun, 75mm, M32**. "57mm" was a typo.
+    - **Gun, 57mm, M2** renamed to **Gun, 75mm, M2**. "57mm" was a typo.
+    - **Gun, 57mm, M6** renamed to **Gun, 75mm, M6**. "57mm" was a typo.
+    - **Gun, 57mm, M3** renamed to **Gun, 75mm, M3**. "57mm" was a typo.
 
 ### Modifications:
 

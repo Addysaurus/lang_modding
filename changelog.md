@@ -14,6 +14,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
+    - Added the **Boxer MGS**.
     - **General Dynamics Land Systems** added as the manufacturer for the **120S**.
     - **GIAT Industries** added as the manufacturer for the **Vextra 105**.
     - US ground vehicles that had a supply catalog have had their supply catalog added to their name. It has been added after the manufacturer name and in front of the standard name (e.g. **Tank, Heavy, M6A1** becomes **G-118 | Tank, Heavy, M6A1**). The list of changes is in the **Changes** section of this changelog.

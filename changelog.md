@@ -8,6 +8,16 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.09.05 - UNRELEASED
+
+### Vehicles:
+
+- #### Additions:
+
+    - The **Stirling B. Mk. I**'s mid distance name has been changed to **Stirling B. Mk. I**.
+    - The **Stirling B. Mk. III**'s mid distance name has been changed to **Stirling B. Mk. III**.
+    - The **T114 BAT**'s long name has been changed from **Vehicle, Armored, Full Tracked: Batalion Anti-Tank, T114** to **Vehicle, Armored, Full Tracked: Battalion Anti-Tank, T114**. The word "Battalion" was missing a T.
+
 ## 1.09.04 - 02-10-2024
 
 ### Vehicles:

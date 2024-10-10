@@ -24,6 +24,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - Chinese weapon rework:
 
+        - Note: Some transliterations do not have the proper pinyin diacritics because the game cannot render them. For example, the **QJT86 7.62 háomi chēzai jīqiāng** should be the **QJT86 7.62 háomǐ chēzǎi jīqiāng**, but the game does not render the characters "ǐ" and "ǎ".
         - **QJT86 7.62mm Vehicle Machine Gun** renamed to **QJT86 7.62 háomǐ chēzǎi jīqiāng**.
 
 ## 1.09.04 - 02-10-2024

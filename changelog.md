@@ -18,6 +18,14 @@ All dates are listed in DD-MM-YYYY format.
     - The **Stirling B. Mk. III**'s mid distance name has been changed to **Stirling B. Mk. III**.
     - The **T114 BAT**'s long name has been changed from **Vehicle, Armored, Full Tracked: Batalion Anti-Tank, T114** to **Vehicle, Armored, Full Tracked: Battalion Anti-Tank, T114**. The word "Battalion" was missing a T.
 
+### Weaponry:
+
+- #### Changes:
+
+    - Chinese weapon rework:
+
+        - **QJT86 7.62mm Vehicle Machine Gun** renamed to **QJT86 7.62 háomǐ chēzǎi jīqiāng**.
+
 ## 1.09.04 - 02-10-2024
 
 ### Vehicles:

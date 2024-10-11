@@ -20,6 +20,12 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
+- #### Additions:
+
+    - Type and caliber tags have been added to the following guns:
+
+        - **ZPL94**
+
 - #### Changes:
 
     - Chinese weapon rework:
@@ -28,6 +34,7 @@ All dates are listed in DD-MM-YYYY format.
         - **QJT86 7.62mm Vehicle Machine Gun** renamed to **QJT86 7.62 háomi chēzai jīqiāng**.
         - **QJC88A 12.7mm Vehicle Anti-Aircraft Machine Gun** renamed to **QJC88A 12.7mm háomi chēzai gāoshè jīqiāng**.
         - **ZPL63 85mm Tank Gun** renamed to ** **ZPL63 85 háomi tankè pào**.
+        - **105 mm ZPL94 cannon** renamed to **ZPL94 105 háomi tankè pào**.
 
 ## 1.09.04 - 02-10-2024
 

@@ -1398,15 +1398,15 @@ weapons/75mm_M2_user_cannon;<color=@userlogColoredText>75 mm</color> Gun, 75mm, 
 weapons/75mm_M6_user_cannon;<color=@userlogColoredText>75 mm</color> Gun, 75mm, M6 <color=#ff6f00>CNN</color>
 weapons/75mm_m3_user_cannon;<color=@userlogColoredText>75 mm</color> Gun, 75mm, M3 <color=#ff6f00>CNN</color>
 weapons/75mm_m3_open_turret_user_cannon;<color=@userlogColoredText>75 mm</color> Gun, 75mm, M3 <color=#ff6f00>CNN</color>
-weapons/30mm_ZPZ02_user_cannon;30 mm ZPZ02 cannon
-weapons/30mm_zpt_99_user_cannon;30 mm ZPZ02 cannon
+weapons/30mm_ZPZ02_user_cannon;<color=@userlogColoredText>30 mm</color> ZPZ2004 30 háomi zìdòng jiānóng pào <color=#ff6f00>ACNN</color>
+weapons/30mm_zpt_99_user_cannon;<color=@userlogColoredText>30 mm</color> ZPZ2004 30 háomi zìdòng jiānóng pào <color=#ff6f00>ACNN</color>
 30mm_zpz02_hei;30 mm HE
 30mm_zpz02_apds;30 mm APDS
-weapons/25mm_PG87_PGZ_user_cannon;25 mm PG87 cannon
-weapons/25mm_PG87_user_cannon;25 mm PG87 cannon
+weapons/25mm_PG87_PGZ_user_cannon;<color=@userlogColoredText>25 mm</color> PG1987 25 háomi gāoshè pào <color=#ff6f00>ACNN</color>
+weapons/25mm_PG87_user_cannon;<color=@userlogColoredText>25 mm</color> PG1987 25 háomi gāoshè pào <color=#ff6f00>ACNN</color>
 25mm_type_87_api;Type 87 AP
 25mm_type_87_he;Type 87 HE
-weapons/57mm_WA_318_user_cannon;57 mm WA318 cannon
+weapons/57mm_WA_318_user_cannon;<color=@userlogColoredText>57 mm</color> PG1959 57 háomi gāoshè pào <color=#ff6f00>ACNN</color>
 57mm_dky_1;DKY1
 type_59_he;Type 59 HE
 type_59_ap;Type 59 APCBC
@@ -2868,8 +2868,8 @@ weapons/100mm_2A48_user_cannon;<color=@userlogColoredText>100 mm</color> 2A48-1 
 weapons/37mm_2A11_user_cannon;<color=@userlogColoredText>37 mm</color> 2A11 | 500PA <color=#ff6f00>ACNN</color>
 weapons/125mm_2A75_user_cannon;<color=@userlogColoredText>125 mm</color> 2A75 <color=#ff6f00>CNN</color>
 weapons/125mm_2A75_M_user_cannon;<color=@userlogColoredText>125 mm</color> 2A75-1 <color=#ff6f00>CNN</color>
-weapons/5_8mm_QJT_user_machinegun;5.8 mm QJT machine gun
-weapons/14_5mm_QJG02_user_machinegun;14.5 mm QJG02 machine gun
+weapons/5_8mm_QJT_user_machinegun;<color=@userlogColoredText>5.8 mm</color> QJT2001 5.8 háomi chēzai jīqiāng <color=#ff6f00>MG</color>
+weapons/14_5mm_QJG02_user_machinegun;<color=@userlogColoredText>14.5 mm</color> QJG2002 shì gāoshè jīqiāng <color=#ff6f00>MG</color>
 weapons/125mm_ZPT_98_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998 125 háomi tankè pào <color=#ff6f00>CNN</color>
 weapons/125mm_Type_99A_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998A 125 háomi tankè pào <color=#ff6f00>CNN</color>
 weapons/125mm_l54_cn_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT 125 háomi shíyàn tankè pào <color=#ff6f00>CNN</color>
@@ -3799,7 +3799,7 @@ weapons/90mm_DEFA_D921_user_cannon;90 mm DEFA F1 cannon
 weapons/90mm_90_F2_user_cannon;90 mm 90 F2 cannon
 weapons/cannonM230E1;30 mm M230E-1 cannon
 weapons/cannonM230E1/short;M230E-1
-weapons/120mm_IMI_MG251_user_cannon;<color=@userlogColoredText>120 mm</color> IMI MG251 <color=#ff6f00>CNN</color>
+weapons/120mm_IMI_MG251_user_cannon;<color=@userlogColoredText>120 mm</color> MG251 <color=#ff6f00>CNN</color>
 30mm_pmc287;PMC287
 30mm_pmc308;PMC308
 35mm_pmd062;PMD062
@@ -3994,11 +3994,11 @@ weapons/75mm_APX_user_cannon;75 mm APX cannon
 105mm_TYPE83_HEAT;Type-83 HEAT
 105mm_TYPE83_HESH;Type-83 HESH
 weapons/105mm_AT_WMA_user_cannon;105 mm WMA301 cannon
-weapons/105mm_88B_105T_user_cannon;105 mm 88B-105T cannon
+weapons/105mm_88B_105T_user_cannon;<color=@userlogColoredText>105 mm</color> ZPT1983A háomi tankè pào <color=#ff6f00>CNN</color>
 weapons/105mm_ZPL94_user_cannon;<color=@userlogColoredText>105 mm</color> ZPL1994 105 háomi tankè pào <color=#ff6f00>CNN</color>
 105mm_dtb_1_he;DTB1
 105mm_btm_1;BTM1
-weapons/105mm_Type_83_user_cannon;105 mm Type 83 cannon
+weapons/105mm_Type_83_user_cannon;<color=@userlogColoredText>105 mm</color> ZPT1983 háomi tankè pào <color=#ff6f00>CNN</color>
 28_20mm_pzgr41;2.8/2cm Pzgr.41
 weapons/28_20mm_s_Pz_B_41_user_cannon;28/20 mm s.Pz.B.41 cannon
 weapons/105mm_XM_35_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, XM35 <color=#ff6f00>CNN</color>
@@ -4026,7 +4026,7 @@ weapons/100mm_PTP86_user_cannon;100 mm PTP86 cannon
 weapons/120mm_PTZ89_user_cannon;120 mm PTZ89 cannon
 120mm_dyw_1;DYW1
 120mm_dys_120;DYS120
-weapons/125mm_Type_88C_user_cannon;125 mm Type 88C cannon
+weapons/125mm_Type_88C_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1988C háomi tankè pào <color=#ff6f00>CNN</color>
 weapons/120mm_OTO_Breda_120_44_user_cannon;120 mm OTO Breda 120/44 cannon
 weapons/120mm_OTO_Breda_120_44_Ariete_user_cannon;120 mm OTO Breda 120/44 cannon
 weapons/120mm_OTO_Breda_120_44_Ariete_AMV_user_cannon;120 mm OTO Breda 120/44 cannon
@@ -4347,11 +4347,11 @@ weapons/73mm_Type_85_user_cannon;73 mm Type 85 cannon
 73mm_og_9;7P5, OG-15V (7G8, OG-9)
 73mm_pg_9;7P3, PG-15V (7G7, PG-9)
 weapons/106mm_M40A1C_user_cannon;<color=@userlogColoredText>105 mm</color> Rifle, 106mm, M40A1C <color=#ff6f00>CNN</color>
-weapons/100mm_Type69_user_cannon;100 mm Type 69 cannon
+weapons/100mm_Type69_user_cannon;<color=@userlogColoredText>100 mm</color> ZPT1969 háomi tankè pào <color=#ff6f00>CNN</color>
 100mm_1_72_13;1-72-13 HEAT-FS
 100mm_1_72_85;1-72-85 APDS-FS
 100mm_1_71_74;1-71-74 HE
-weapons/100mm_Type69_II_user_cannon;100 mm Type 69-II cannon
+weapons/100mm_Type69_II_user_cannon;<color=@userlogColoredText>100 mm</color> ZPT1969-II háomi tankè pào <color=#ff6f00>CNN</color>
 100mm_type1973;Type 1973 HEAT-FS
 type_44_he;Type 44 HE
 type_44_ap;Type 44 AP
@@ -4685,7 +4685,7 @@ weapons/300mm_M31_rocket_launcher/short;M-31
 weapons/100mm_D10T2S_user_cannon;<color=@userlogColoredText>100 mm</color> 52-PT-412D | D-10T2S <color=#ff6f00>CNN</color>
 weapons/100mm_D10T2S_fin_user_cannon;<color=@userlogColoredText>100 mm</color> 52-PT-412D | D-10T2S <color=#ff6f00>CNN</color>
 weapons/100mm_2A70_user_cannon;<color=@userlogColoredText>100 mm</color> 2A70 <color=#ff6f00>CNN</color>
-weapons/100mm_2a70_zbd_user_cannon;100 mm ZPL04 cannon
+weapons/100mm_2a70_zbd_user_cannon;<color=@userlogColoredText>100 mm</color> ZPL2004 háomi tankè pào <color=#ff6f00>CNN</color>
 100mm_aps_03;APS03
 weapons/100mm_2A70_BMD_user_cannon;<color=@userlogColoredText>100 mm</color> 2A70 <color=#ff6f00>CNN</color>
 weapons/30mm_2A72_BMD_user_cannon;<color=@userlogColoredText>30 mm</color> 2A72 <color=#ff6f00>ACNN</color>
@@ -4697,7 +4697,7 @@ weapons/30mm_2A72_BMD_user_cannon;<color=@userlogColoredText>30 mm</color> 2A72 
 weapons/20mm_MG151_20_user_cannon;20 mm MG151/20 cannon
 20mm_brgr;2cm Brgr.L'Spur 151
 20mm_pzbrgr_ph;2cm Pzbrgr.(Ph) 151
-weapons/105mm_ZPL98A_user_cannon;105 mm ZPL98A cannon
+weapons/105mm_ZPL98A_user_cannon;<color=@userlogColoredText>105 mm</color> ZPL1998A háomi tankè pào <color=#ff6f00>CNN</color>
 weapons/20mm_GAI_CO1_user_cannon;20 mm GAI C01 cannon
 weapons/20mm_Rh_202_Wiesel_user_cannon;20 mm Rh202 cannon
 weapons/20mm_Rh_202_Marder_user_cannon;20 mm Rh202 cannon
@@ -4801,7 +4801,7 @@ weapons/depth_charge_ussr_bb1_mortar/short;BB-1
 47mm_pdr_he;3 pdr Mk. 2 HE
 85mm_type1956;Type 1956 HEAT-FS
 100mm_type1959;Type 1959 APDS
-weapons/100mm_Type59_user_cannon;100 mm Type 59 cannon
+weapons/100mm_Type59_user_cannon;<color=@userlogColoredText>100 mm</color> ZPL1959 háomi tankè pào <color=#ff6f00>CNN</color>
 weapons/8mm_Breda_Mod38_user_machinegun;8 mm Breda Mod. 38 machine gun
 weapons/47mm_qf3pdr_hotchkiss_naval_user_cannon;3 pdr QF Hotchkiss cannon
 weapons/102mm_45_4in_qf_mark5_naval_user_cannon;4 in QF Mark V cannon

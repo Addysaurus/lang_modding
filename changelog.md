@@ -12,31 +12,44 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
-- #### Additions:
+- #### Changes:
 
     - The **Stirling B. Mk. I**'s mid distance name has been changed to **Stirling B. Mk. I**.
     - The **Stirling B. Mk. III**'s mid distance name has been changed to **Stirling B. Mk. III**.
     - The **T114 BAT**'s long name has been changed from **Vehicle, Armored, Full Tracked: Batalion Anti-Tank, T114** to **Vehicle, Armored, Full Tracked: Battalion Anti-Tank, T114**. The word "Battalion" was missing a T.
+    - **He 177 A-5** renamed to **He 177 A-5/R3**. The long name has been changed to **He 177 A-5/R3 Grief**.
 
 ### Weaponry:
 
 - #### Additions:
 
     - Type and caliber tags have been added to the following guns:
-
-        - **ZPL94**
-        - **QJC54**
-        - **QJT55**
-        - **QJT59**
-        - **ZPT98**
-        - **ZPT98A**
-        - **ZPT 125 háomi shíyàn tankè pào**
-        - **ZPT90**
+        - Chinese weapon rework:
+            - **ZPL94**
+            - **QJC54**
+            - **QJT55**
+            - **QJT59**
+            - **ZPT98**
+            - **ZPT98A**
+            - **ZPT 125 háomi shíyàn tankè pào**
+            - **ZPT90**
+            - **QJT01**
+            - **QJG02**
+            - **ZPT88C**
+            - **ZPT83A**
+            - **ZPT83**
+            - **ZPL59**
+            - **ZPT69**
+            - **ZPT69-II**
+            - **PG59**
+            - **PG87**
+            - **ZPL98A**
+            - **ZPL04**
+            - **ZPZ02**
 
 - #### Changes:
 
     - Chinese weapon rework:
-
         - Note: Some transliterations do not have the proper pinyin diacritics because the game cannot render them. For example, the **QJT86 7.62 háomi chēzai jīqiāng** should be the **QJT86 7.62 háomǐ chēzǎi jīqiāng**, but the game does not render the characters "ǐ" and "ǎ".
         - **QJT86 7.62mm Vehicle Machine Gun** renamed to **QJT1986 7.62 háomi chēzai jīqiāng**.
         - **QJC88A 12.7mm Vehicle Anti-Aircraft Machine Gun** renamed to **QJC1988A 12.7 háomi chēzai gāoshè jīqiāng**.
@@ -49,6 +62,20 @@ All dates are listed in DD-MM-YYYY format.
         - **ZPT98A 125mm Tank Gun** renamed to **ZPT1998A 125 háomi tankè pào**.
         - **ZPT 125mm Experimental Tank Gun** renamed to **ZPT 125 háomi shíyàn tankè pào**.
         - **ZPT90 Vehicle-Mounted 25mm Automatic Gun** renamed to **ZPT1990 25 háomi chēzai zìdòng pào**.
+        - **5.8 mm QJT machine gun** renamed to **QJT2001 5.8 háomi chēzai jīqiāng**.
+        - **14.5 mm QJG02 machine gun** renamed to **QJG2002 shì gāoshè jīqiāng**.
+        - **125 mm Type 88C cannon** renamed to **ZPT1988C háomi tankè pào**.
+        - **105 mm 88B-105T cannon** renamed to **ZPT1983A háomi tankè pào**.
+        - **105 mm Type 83 cannon** renamed to **ZPT1983 háomi tankè pào**.
+        - **100 mm Type 59 cannon** renamed to **ZPL1959 háomi tankè pào**.
+        - **100 mm Type 69 cannon** renamed to **ZPT1969 háomi tankè pào**.
+        - **100 mm Type 69-II cannon** renamed to **ZPT1969-II háomi tankè pào**.
+        - **57 mm WA318 cannon** renamed to **PG1959 57 háomi gāoshè pào**
+        - **25 mm PG87 cannon** renamed to **PG1987 25 háomi gāoshè pào**.
+        - **105 mm ZPL98A cannon** renamed to **ZPL1998A háomi tankè pào**.
+        - **100 mm ZPL04 cannon** renamed to **ZPL2004 háomi tankè pào**.
+        - **30 mm ZPZ02 cannon** renamed to **ZPZ2004 30 háomi zìdòng jiānóng pào**.
+    **IMI MG251** renamed to **MG251**.
 
 ## 1.09.04 - 02-10-2024
 

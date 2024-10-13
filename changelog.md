@@ -27,6 +27,11 @@ All dates are listed in DD-MM-YYYY format.
         - **ZPL94**
         - **QJC54**
         - **QJT55**
+        - **QJT59**
+        - **ZPT98**
+        - **ZPT98A**
+        - **ZPT 125 háomi shíyàn tankè pào**
+        - **ZPT90**
 
 - #### Changes:
 
@@ -43,7 +48,7 @@ All dates are listed in DD-MM-YYYY format.
         - **ZPT98 125mm Tank Gun** renamed to **ZPT1998 125 háomi tankè pào**.
         - **ZPT98A 125mm Tank Gun** renamed to **ZPT1998A 125 háomi tankè pào**.
         - **ZPT 125mm Experimental Tank Gun** renamed to **ZPT 125 háomi shíyàn tankè pào**.
-        - **ZPT90 Vehicle-Mounted 25mm Automatic Gun** renamed to **ZPT1990 25 háomi chēzai zìdòng pào ZPT90**.
+        - **ZPT90 Vehicle-Mounted 25mm Automatic Gun** renamed to **ZPT1990 25 háomi chēzai zìdòng pào**.
 
 ## 1.09.04 - 02-10-2024
 

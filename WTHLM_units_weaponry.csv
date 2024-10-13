@@ -1468,9 +1468,9 @@ weapons/14_5mm_KPVT_BTR_152_user_machinegun;<color=@userlogColoredText>14.5 mm</
 weapons/14_5mm_KPVT_user_machinegun;<color=@userlogColoredText>14.5 mm</color> 56-P-562T | KPVT <color=#ff6f00>MG</color>
 weapons/12_7mm_DK_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 56-P-541 | DK obr. 1930 g. <color=#ff6f00>MG</color>
 weapons/12_7mm_DShK_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 56-P-542T | DŠKT obr. 1938 g. <color=#ff6f00>MG</color>
-weapons/12_7mm_Type_54_user_machinegun;12.7 mm Type 54 machine gun
-weapons/7_62mm_Type_55_user_machinegun;7.62 mm Type 55 machine gun
-weapons/7_62mm_Type_59_user_machinegun;7.62 mm Type 59 machine gun
+weapons/12_7mm_Type_54_user_machinegun;<color=@userlogColoredText>12.7 mm</color> QJC1954 12.7 háomi chēzai gāoshè jīqiāng <color=#ff6f00>MG</color>
+weapons/7_62mm_Type_55_user_machinegun;<color=@userlogColoredText>7.62 mm</color> QJT1955 7.62 háomi chēzai jīqiāng <color=#ff6f00>MG</color>
+weapons/7_62mm_Type_59_user_machinegun;<color=@userlogColoredText>7.62 mm</color> QJT1959 7.62 háomi chēzai jīqiāng <color=#ff6f00>MG</color>
 weapons/8mm_Gebauer_34_40M_user_machinegun;8 mm 34/40.M machine gun
 weapons/8mm_Hotchkiss_Mle1914_user_machinegun;8 mm Hotchkiss Mle 1914 machine gun
 weapons/7_92mm_ZB_VZ37_user_machinegun;7.92 mm MG37(t) machine gun
@@ -2870,9 +2870,9 @@ weapons/125mm_2A75_user_cannon;<color=@userlogColoredText>125 mm</color> 2A75 <c
 weapons/125mm_2A75_M_user_cannon;<color=@userlogColoredText>125 mm</color> 2A75-1 <color=#ff6f00>CNN</color>
 weapons/5_8mm_QJT_user_machinegun;5.8 mm QJT machine gun
 weapons/14_5mm_QJG02_user_machinegun;14.5 mm QJG02 machine gun
-weapons/125mm_ZPT_98_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT98 125mm Tank Gun <color=#ff6f00>CNN</color>
-weapons/125mm_Type_99A_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT98A 125mm Tank Gun <color=#ff6f00>CNN</color>
-weapons/125mm_l54_cn_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT 125mm Experimental Tank Gun <color=#ff6f00>CNN</color>
+weapons/125mm_ZPT_98_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998 125 háomi tankè pào <color=#ff6f00>CNN</color>
+weapons/125mm_Type_99A_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998A 125 háomi tankè pào <color=#ff6f00>CNN</color>
+weapons/125mm_l54_cn_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT 125 háomi shíyàn tankè pào <color=#ff6f00>CNN</color>
 115mm_3bk_4;3UBK3 (3BK4)
 115mm_3bm4;3UBM4 (3BM4)
 115mm_3of_11;3UOF1 (3OF11)
@@ -3995,7 +3995,7 @@ weapons/75mm_APX_user_cannon;75 mm APX cannon
 105mm_TYPE83_HESH;Type-83 HESH
 weapons/105mm_AT_WMA_user_cannon;105 mm WMA301 cannon
 weapons/105mm_88B_105T_user_cannon;105 mm 88B-105T cannon
-weapons/105mm_ZPL94_user_cannon;<color=@userlogColoredText>105 mm</color> ZPL94 105 háomi tankè pào <color=#ff6f00>CNN</color>
+weapons/105mm_ZPL94_user_cannon;<color=@userlogColoredText>105 mm</color> ZPL1994 105 háomi tankè pào <color=#ff6f00>CNN</color>
 105mm_dtb_1_he;DTB1
 105mm_btm_1;BTM1
 weapons/105mm_Type_83_user_cannon;105 mm Type 83 cannon
@@ -4115,8 +4115,8 @@ weapons/105mm_CN_105_F1_user_cannon;105 mm CN-105-F1 cannon
 105mm_oe_f1_mle60;OE 105 F1 Mle.60
 105mm_oe_60;OE 105-60
 105mm_ofph_f1;OFPH 105 F1
-weapons/12_7mm_QJC_88A_user_machinegun;<color=@userlogColoredText>12.7 mm</color> QJC88A 12.7mm háomi chēzai gāoshè jīqiāng <color=#ff6f00>MG</color>
-weapons/7_62mm_Type86_user_machinegun;<color=@userlogColoredText>7.62 mm</color> QJT86 7.62 háomi chēzai jīqiāng <color=#ff6f00>MG</color>
+weapons/12_7mm_QJC_88A_user_machinegun;<color=@userlogColoredText>12.7 mm</color> QJC1988A 12.7 háomi chēzai gāoshè jīqiāng <color=#ff6f00>MG</color>
+weapons/7_62mm_Type86_user_machinegun;<color=@userlogColoredText>7.62 mm</color> QJT1986 7.62 háomi chēzai jīqiāng <color=#ff6f00>MG</color>
 weapons/7_5mm_AAT_52_user_machinegun;7.5 mm AAT-52 machine gun
 weapons/90mm_SA45_ARL_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90mm SA 45 <color=#ff6f00>CNN</color>
 weapons/90mm_SA45_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90mm SA 45 <color=#ff6f00>CNN</color>
@@ -5816,6 +5816,6 @@ weapons/72mm_9s846_4_rocket_launcher;SAM 9M39
 72mm_9m39;9М39
 weapons/125mm_2A46_M1_T_80UD_user_cannon;<color=@userlogColoredText>125 mm</color> 2A46M-1 | D-81-3 Rapira-3 <color=#ff6f00>CNN</color>
 weapons/20mm_Oerlikon_204gk_user_cannon;<color=@userlogColoredText>20 mm</color> Oerlikon 204GK <color=#ff6f00>ACNN</color>
-weapons/25mm_zpt90_user_cannon;<color=@userlogColoredText>25 mm</color> ZPT90 Vehicle-Mounted 25mm Automatic Gun <color=#ff6f00>ACNN</color>
+weapons/25mm_zpt90_user_cannon;<color=@userlogColoredText>25 mm</color> ZPT1990 25 háomi chēzai zìdòng pào ZPT90 <color=#ff6f00>ACNN</color>
 weapons/105mm_cockerill_hp_user_cannon;<color=@userlogColoredText>105 mm</color> Cockerill 105 mm HP Gun <color=#ff6f00>CNN</color>
 CLIPPED_LANG_KEEP_IT_ALWAYS_FIRST;

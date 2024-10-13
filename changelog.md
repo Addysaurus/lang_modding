@@ -25,16 +25,25 @@ All dates are listed in DD-MM-YYYY format.
     - Type and caliber tags have been added to the following guns:
 
         - **ZPL94**
+        - **QJC54**
+        - **QJT55**
 
 - #### Changes:
 
     - Chinese weapon rework:
 
         - Note: Some transliterations do not have the proper pinyin diacritics because the game cannot render them. For example, the **QJT86 7.62 háomi chēzai jīqiāng** should be the **QJT86 7.62 háomǐ chēzǎi jīqiāng**, but the game does not render the characters "ǐ" and "ǎ".
-        - **QJT86 7.62mm Vehicle Machine Gun** renamed to **QJT86 7.62 háomi chēzai jīqiāng**.
-        - **QJC88A 12.7mm Vehicle Anti-Aircraft Machine Gun** renamed to **QJC88A 12.7mm háomi chēzai gāoshè jīqiāng**.
+        - **QJT86 7.62mm Vehicle Machine Gun** renamed to **QJT1986 7.62 háomi chēzai jīqiāng**.
+        - **QJC88A 12.7mm Vehicle Anti-Aircraft Machine Gun** renamed to **QJC1988A 12.7 háomi chēzai gāoshè jīqiāng**.
         - **ZPL63 85mm Tank Gun** renamed to ** **ZPL63 85 háomi tankè pào**.
-        - **105 mm ZPL94 cannon** renamed to **ZPL94 105 háomi tankè pào**.
+        - **105 mm ZPL94 cannon** renamed to **ZPL1994 105 háomi tankè pào**.
+        - **12.7 mm Type 54 machine gun** renamed to **QJC1954 12.7 háomi chēzai gāoshè jīqiāng**.
+        - **7.62 mm Type 55 machine gun** renamed to **QJT1955 7.62 háomi chēzai jīqiāng**.
+        - **7.62 mm Type 59 machine gun** renamed to **QJT1959 7.62 háomi chēzai jīqiāng**.
+        - **ZPT98 125mm Tank Gun** renamed to **ZPT1998 125 háomi tankè pào**.
+        - **ZPT98A 125mm Tank Gun** renamed to **ZPT1998A 125 háomi tankè pào**.
+        - **ZPT 125mm Experimental Tank Gun** renamed to **ZPT 125 háomi shíyàn tankè pào**.
+        - **ZPT90 Vehicle-Mounted 25mm Automatic Gun** renamed to **ZPT1990 25 háomi chēzai zìdòng pào ZPT90**.
 
 ## 1.09.04 - 02-10-2024
 

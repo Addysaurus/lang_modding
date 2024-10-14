@@ -18,6 +18,9 @@ All dates are listed in DD-MM-YYYY format.
     - The **Stirling B. Mk. III**'s mid distance name has been changed to **Stirling B. Mk. III**.
     - The **T114 BAT**'s long name has been changed from **Vehicle, Armored, Full Tracked: Batalion Anti-Tank, T114** to **Vehicle, Armored, Full Tracked: Battalion Anti-Tank, T114**. The word "Battalion" was missing a T.
     - **He 177 A-5** renamed to **He 177 A-5/R3**. The long name has been changed to **He 177 A-5/R3 Grief**.
+    - **Machbet** renamed to **Maḥbeṭ** (somehow missed this in the Israeli translit rework).
+    - The **Magaḥ 6B Gal Baṭaš**'s long name has been changed to **Magaḥ 6 Bet Gal Baṭaš**.
+    - **Merkavah Mk. 2D** renamed to **Merkavah Mk. 2B Baṭaš**. The long name has been changed to **Merkavah Siman 2 Bet Baṭaš**.
 
 ### Weaponry:
 
@@ -46,6 +49,11 @@ All dates are listed in DD-MM-YYYY format.
             - **ZPL98A**
             - **ZPL04**
             - **ZPZ02**
+            - **PL66**
+            - **PL59A**
+            - **PG99**
+            - **PTP86**
+            - **PTP89**
 
 - #### Changes:
 
@@ -63,18 +71,24 @@ All dates are listed in DD-MM-YYYY format.
         - **ZPT 125mm Experimental Tank Gun** renamed to **ZPT 125 háomi shíyàn tankè pào**.
         - **ZPT90 Vehicle-Mounted 25mm Automatic Gun** renamed to **ZPT1990 25 háomi chēzai zìdòng pào**.
         - **5.8 mm QJT machine gun** renamed to **QJT2001 5.8 háomi chēzai jīqiāng**.
-        - **14.5 mm QJG02 machine gun** renamed to **QJG2002 shì gāoshè jīqiāng**.
-        - **125 mm Type 88C cannon** renamed to **ZPT1988C háomi tankè pào**.
-        - **105 mm 88B-105T cannon** renamed to **ZPT1983A háomi tankè pào**.
-        - **105 mm Type 83 cannon** renamed to **ZPT1983 háomi tankè pào**.
-        - **100 mm Type 59 cannon** renamed to **ZPL1959 háomi tankè pào**.
-        - **100 mm Type 69 cannon** renamed to **ZPT1969 háomi tankè pào**.
-        - **100 mm Type 69-II cannon** renamed to **ZPT1969-II háomi tankè pào**.
+        - **14.5 mm QJG02 machine gun** renamed to **QJG2002 14.5 háomi gāoshè jīqiāng**.
+        - **125 mm Type 88C cannon** renamed to **ZPT1988C 125 háomi tankè pào**.
+        - **105 mm 88B-105T cannon** renamed to **ZPT1983A 105 háomi tankè pào**.
+        - **105 mm Type 83 cannon** renamed to **ZPT1983 105 háomi tankè pào**.
+        - **100 mm Type 59 cannon** renamed to **ZPL1959 100 háomi tankè pào**.
+        - **100 mm Type 69 cannon** renamed to **ZPT1969 100 háomi tankè pào**.
+        - **100 mm Type 69-II cannon** renamed to **ZPT1969-II 100 háomi tankè pào**.
         - **57 mm WA318 cannon** renamed to **PG1959 57 háomi gāoshè pào**
         - **25 mm PG87 cannon** renamed to **PG1987 25 háomi gāoshè pào**.
-        - **105 mm ZPL98A cannon** renamed to **ZPL1998A háomi tankè pào**.
-        - **100 mm ZPL04 cannon** renamed to **ZPL2004 háomi tankè pào**.
-        - **30 mm ZPZ02 cannon** renamed to **ZPZ2004 30 háomi zìdòng jiānóng pào**.
+        - **105 mm ZPL98A cannon** renamed to **ZPL1998A 105 háomi tankè pào**.
+        - **100 mm ZPL04 cannon** renamed to **ZPL2004 100 háomi tankè pào**.
+        - **30 mm ZPZ02 cannon** renamed to **ZPZ2002 30 háomi zìdòng pào**.
+        - **PL66 152mm Gun-Howitzer** renamed to **PL1966 152 háomi jiānóng liúdànpào**.
+        - **PL59A 130mm Field Gun** renamed to **PL1959A 130 háomi yězhàn pào**.
+        - **35 mm PG99-35-2 cannon** renamed to **PG1999 30 háomi gāoshè pào**.
+        - **100 mm PTP86 cannon** renamed to **PTP86 100 háomi huátáng fǎn tankè pào**.
+        - **120 mm PTZ89 cannon** renamed to **PTP86 120 háomi huátáng fǎn tankè pào**.
+        - **105 mm WMA301 cannon** renamed to **ZPL1998A 105 háomi tankè pào**. I can't actually identify what the **WMA301**'s gun is, but it's supposedly a low recoil development of the **ZPL94** and considering that this is definitely not the **ZPL98**, the **ZPL98A** was all that was left.
     **IMI MG251** renamed to **MG251**.
 
 ## 1.09.04 - 02-10-2024

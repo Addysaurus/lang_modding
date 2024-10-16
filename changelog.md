@@ -87,7 +87,7 @@ All dates are listed in DD-MM-YYYY format.
         - **PL59A 130mm Field Gun** renamed to **PL1959A 130 háomi yězhàn pào**.
         - **35 mm PG99-35-2 cannon** renamed to **PG1999 30 háomi gāoshè pào**.
         - **100 mm PTP86 cannon** renamed to **PTP86 100 háomi huátáng fǎn tankè pào**.
-        - **120 mm PTZ89 cannon** renamed to **PTP86 120 háomi huátáng fǎn tankè pào**.
+        - **120 mm PTZ89 cannon** renamed to **PTP89 120 háomi huátáng fǎn tankè pào**.
         - **105 mm WMA301 cannon** renamed to **ZPL1998A 105 háomi tankè pào**. I can't actually identify what the **WMA301**'s gun is, but it's supposedly a low recoil development of the **ZPL94** and considering that this is definitely not the **ZPL98**, the **ZPL98A** was all that was left. It appears to be a **ZPL98A** with a new sleeve.
     **IMI MG251** renamed to **MG251**.
 

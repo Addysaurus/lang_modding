@@ -54,6 +54,7 @@ All dates are listed in DD-MM-YYYY format.
             - **PG99**
             - **PTP86**
             - **PTP89**
+        - **PV-1**
 
 - #### Changes:
 
@@ -90,6 +91,8 @@ All dates are listed in DD-MM-YYYY format.
         - **120 mm PTZ89 cannon** renamed to **PTP89 120 háomi huátáng fǎn tankè pào**.
         - **105 mm WMA301 cannon** renamed to **ZPL1998A 105 háomi tankè pào**. I can't actually identify what the **WMA301**'s gun is, but it's supposedly a low recoil development of the **ZPL94** and considering that this is definitely not the **ZPL98**, the **ZPL98A** was all that was left. It appears to be a **ZPL98A** with a new sleeve.
     **IMI MG251** renamed to **MG251**.
+    - **56-P-421 | Pulyemët Maksima obr. 1910/30 gg.** renamed to **56-P-421 | PM-10 obr. 1910/30 gg.**.
+    - **7.62 mm PV-1 machine gun** renamed to **56-P-422 | PV-1 obr. 1928 g.**.
 
 ## 1.09.04 - 02-10-2024
 

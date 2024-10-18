@@ -165,7 +165,7 @@ weapons/cannonM10;<color=@userlogColoredText>37 mm</color> Gun, 37mm, Automatic,
 weapons/cannonmk103;30 mm Mk. 103 cannon
 weapons/cannonmk108;30 mm Mk. 108 cannon
 weapons/cannonBK5;50 mm BK 5 cannon
-weapons/gunPV1;7.62 mm PV-1 machine gun
+weapons/gunPV1;<color=@userlogColoredText>7.62 mm</color> 56-P-422 | PV-1 obr. 1928 g. <color=#ff6f00>MG</color>
 weapons/gunBrowningFN_french;7.5 mm FN Browning machine gun
 weapons/gunFNBrowning_romania;7.92 mm FN Browning machine gun
 weapons/gunFNBrowning303;7.92 mm FN Browning machine gun
@@ -5389,7 +5389,7 @@ chff/name;Chaff
 chff/name/short;Chaff
 flr/name;Flare
 flr/name/short;Flare
-weapons/7_62mm_maxim_naval_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 56-P-421 | Pulyemët Maksima obr. 1910/30 gg. <color=#ff6f00>MG</color>
+weapons/7_62mm_maxim_naval_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 56-P-421 | PM-10 obr. 1910/30 gg. <color=#ff6f00>MG</color>
 105mm_incendiary_md;Chickfire
 90mm_ap_md;90 mm AP-T
 23mm_ap_md;23 mm AP-T

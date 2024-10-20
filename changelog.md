@@ -21,11 +21,15 @@ All dates are listed in DD-MM-YYYY format.
     - **Machbet** renamed to **Maḥbeṭ** (somehow missed this in the Israeli translit rework).
     - The **Magaḥ 6B Gal Baṭaš**'s long name has been changed to **Magaḥ 6 Bet Gal Baṭaš**.
     - **Merkavah Mk. 2D** renamed to **Merkavah Mk. 2B Baṭaš**. The long name has been changed to **Merkavah Siman 2 Bet Baṭaš**.
+    - The **Merkavah Mk. 3D**'s long name has been changed to **Merkavah Siman 3 Dor Dalet**.
+    - The **Merkavah Mk. 3D (Ra'am Segol)**'s long name has been changed to **Merkavah Siman 3 Dor Dalet (Ra'am Segol)**.
+    - The **M8 LAC**'s mid distance name has been changed to **M8 LAC**.
 
 ### Weaponry:
 
 - #### Additions:
 
+    - Added missing **Drop tank (1600 L)**.
     - Type and caliber tags have been added to the following guns:
         - Chinese weapon rework:
             - **ZPL94**

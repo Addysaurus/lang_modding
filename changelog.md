@@ -100,8 +100,12 @@ All dates are listed in DD-MM-YYYY format.
         - **100 mm PTP86 cannon** renamed to **PTP86 100 háomi huátáng fǎn tankè pào**.
         - **120 mm PTZ89 cannon** renamed to **PTP89 120 háomi huátáng fǎn tankè pào**.
         - **105 mm WMA301 cannon** renamed to **ZPL1998A 105 háomi tankè pào**. I can't actually identify what the **WMA301**'s gun is, but it's supposedly a low recoil development of the **ZPL94** and considering that this is definitely not the **ZPL98**, the **ZPL98A** was all that was left. It appears to be a **ZPL98A** with a new sleeve.
-        - **23 mm Type 23-3 cannon** renamed to **23-3 xíng 23 háomi hángkōng jī pào**.
-        - **23 mm Type 23-2K cannon** renamed to **23-2K xíng 23 háomi hángkōng jī pào**.
+        - **23 mm Type 23-3 cannon** renamed to **23-3 xíng 23 háomi hángkōng jīpào**.
+        - **23 mm Type 23-2K cannon** renamed to **23-2K xíng 23 háomi hángkōng jīpào**.
+        - **30 mm Type 30-1 cannon** renamed to **30-1 xíng 30 háomi hángkōng jīpào**.
+        - **37 mm Type 37-1 cannon** renamed to **37-1 xíng 37 háomi hángkōng jīpào**.
+        - **23 mm Type 23-1 cannon** renamed to **23-1 xíng 23 háomi hángkōng jīpào**.
+        - **23 mm Type 23L cannon** renamed to **23L xíng 23 háomi hángkōng jīpào**.
     **IMI MG251** renamed to **MG251**.
     - **56-P-421 | Pulyemët Maksima obr. 1910/30 gg.** renamed to **56-P-421 | PM-10 obr. 1910/30 gg.**.
     - **7.62 mm PV-1 machine gun** renamed to **56-P-422 | PV-1 obr. 1928 g.**.

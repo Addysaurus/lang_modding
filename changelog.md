@@ -60,6 +60,10 @@ All dates are listed in DD-MM-YYYY format.
             - **PTP89**
             - **23-3 xíng**
             - **23-2K xíng**
+            - **30-1 xíng**
+            - **23-1 xíng**
+            - **37-1 xíng**
+            - **23L xíng**
         - **PV-1**
 
 - #### Changes:

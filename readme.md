@@ -12,6 +12,10 @@ You can find the changelog for the mod here: https://github.com/Addysaurus/lang_
 
 Below, you can learn how to install the mod. Please note that this mod is meant for English. These localizations do not work in other languages.
 
+## The mod team
+
+In addition to me (WarTinder), the mod team also has 2 other members: Theren and Odican. Both have been extremely helpful and I would like to thank them greatly.
+
 ## Installation instructions
 
 1. Go to your War Thunder folder and open the file called `config.blk`.

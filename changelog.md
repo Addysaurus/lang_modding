@@ -24,6 +24,10 @@ All dates are listed in DD-MM-YYYY format.
     - The **Merkavah Mk. 3D**'s long name has been changed to **Merkavah Siman 3 Dor Dalet**.
     - The **Merkavah Mk. 3D (Ra'am Segol)**'s long name has been changed to **Merkavah Siman 3 Dor Dalet (Ra'am Segol)**.
     - The **M8 LAC**'s mid distance name has been changed to **M8 LAC**.
+    - **AH-1E** (Japan) renamed to **AH-1S (ECAS)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Enhanced Cobra Armament System)**.
+    - **AH-1S (FMC) (C-NITE)** (Japan) renamed to **AH-1S FMC**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra)**.
+    - **AH-1S (FMC) (C-NITE) (4th TSH)** renamed to **AH-1S (FMC) (Dai 4 TSH)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Dai 4 Tai Sensha Herikoputātai)**.
+    - **KOR-1** renamed to **Bye-2**.
 
 ### Weaponry:
 
@@ -111,7 +115,7 @@ All dates are listed in DD-MM-YYYY format.
         - **37 mm Type 37-1 cannon** renamed to **37-1 xíng 37 háomi hángkōng jīpào**.
         - **23 mm Type 23-1 cannon** renamed to **23-1 xíng 23 háomi hángkōng jīpào**.
         - **23 mm Type 23L cannon** renamed to **23L xíng 23 háomi hángkōng jīpào**.
-    **IMI MG251** renamed to **MG251**.
+    - **IMI MG251** renamed to **MG251**.
     - **56-P-421 | Pulyemët Maksima obr. 1910/30 gg.** renamed to **56-P-421 | PM-10 obr. 1910/30 gg.**.
     - **7.62 mm PV-1 machine gun** renamed to **56-P-422 | PV-1 obr. 1928 g.**.
 

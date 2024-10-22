@@ -17,7 +17,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **Stirling B. Mk. I**'s mid distance name has been changed to **Stirling B. Mk. I**.
     - The **Stirling B. Mk. III**'s mid distance name has been changed to **Stirling B. Mk. III**.
     - The **T114 BAT**'s long name has been changed from **Vehicle, Armored, Full Tracked: Batalion Anti-Tank, T114** to **Vehicle, Armored, Full Tracked: Battalion Anti-Tank, T114**. The word "Battalion" was missing a T.
-    - **He 177 A-5** renamed to **He 177 A-5/R3**. The long name has been changed to **He 177 A-5/R3 Grief**.
+    - **He 177 A-5** renamed to **He 177 A-5/R3**. The long name has been changed to **He 177 A-5/R3 Greif**.
     - **Machbet** renamed to **Maḥbeṭ** (somehow missed this in the Israeli translit rework).
     - The **Magaḥ 6B Gal Baṭaš**'s long name has been changed to **Magaḥ 6 Bet Gal Baṭaš**.
     - **Merkavah Mk. 2D** renamed to **Merkavah Mk. 2B Baṭaš**. The long name has been changed to **Merkavah Siman 2 Bet Baṭaš**.
@@ -30,6 +30,9 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - Added missing **Drop tank (1600 L)**.
+    - Battle Pass "Guided Fury":
+        - Added **HS 293 A-1**.
+        - Added type tag for the **Hs 293 A-1**.
     - Type and caliber tags have been added to the following guns:
         - Chinese weapon rework:
             - **ZPL94**
@@ -68,6 +71,8 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - **HS 293 A-1** renamed to **Hs 293 A-1**.
+    - **PC 1400 X (Fritz X)** renamed to **PC 1400 X "Fritz X".
     - Chinese weapon rework:
         - Note: Some transliterations do not have the proper pinyin diacritics because the game cannot render them. For example, the **QJT86 7.62 háomi chēzai jīqiāng** should be the **QJT86 7.62 háomǐ chēzǎi jīqiāng**, but the game does not render the characters "ǐ" and "ǎ".
         - **QJT86 7.62mm Vehicle Machine Gun** renamed to **QJT1986 7.62 háomi chēzai jīqiāng**.
@@ -109,6 +114,16 @@ All dates are listed in DD-MM-YYYY format.
     **IMI MG251** renamed to **MG251**.
     - **56-P-421 | Pulyemët Maksima obr. 1910/30 gg.** renamed to **56-P-421 | PM-10 obr. 1910/30 gg.**.
     - **7.62 mm PV-1 machine gun** renamed to **56-P-422 | PV-1 obr. 1928 g.**.
+
+### Loading screens:
+
+- #### Additions:
+
+    - Added **He 177 A-3/R3 Greif** loading screen.
+
+- #### Changes:
+
+    - **He 177 A-3/R3 Greif** loading screen renamed to **He 177 A-3/R3**.
 
 ## 1.09.04 - 02-10-2024
 

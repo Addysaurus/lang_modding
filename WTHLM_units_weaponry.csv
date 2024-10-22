@@ -179,7 +179,10 @@ weapons/de_sc50_default/short;SC50
 weapons/de_sc250;250 kg SC250JA bomb
 weapons/de_sc500;500 kg SC500K bomb
 weapons/de_sc250_87;250 kg SC250JA bomb
-weapons/de_fx1400;PC 1400 X (Fritz X)
+weapons/de_fx1400;"PC 1400 X ""Fritz X"" <color=#ff6f00>BMB-RG</color>"
+weapons/de_fx1400/short;PC 1400 X
+weapons/de_hs_293a1;Hs 293 A-1 <color=#ff6f00>AShM-RG</color>
+weapons/de_hs_293a1/short;Hs 293 A-1
 weapons/de_sc500_87;500 kg SC500K bomb
 weapons/de_sc1800b;1800 kg SC1800B bomb
 weapons/de_sc1000;1000 kg SC1000L2 bomb
@@ -2629,7 +2632,6 @@ weapons/it_50kg_t_vert/short;GP 50T
 weapons/it_500kg_gp/short;GP 500
 weapons/de_sc1000/short;SC1000
 weapons/de_sc1800b/short;SC1800
-weapons/de_fx1400/short;PC 1400 X
 weapons/de_sd10a/short;SD10C
 weapons/de_sd_10a/short;SD10C
 weapons/107mm_ZIS6_user_cannon;<color=@userlogColoredText>107 mm</color> F-42 | ZiS-6 <color=#ff6f00>CNN</color>

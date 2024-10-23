@@ -72,6 +72,7 @@ All dates are listed in DD-MM-YYYY format.
             - **37-1 xíng**
             - **23L xíng**
         - **PV-1**
+    - Added mass and type tags for the **PC 1400 X**.
 
 - #### Changes:
 

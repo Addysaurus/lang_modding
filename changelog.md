@@ -77,7 +77,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - **HS 293 A-1** renamed to **Hs 293 A-1**.
     - **PC 1400 X (Fritz X)** renamed to **PC 1400 X "Fritz X".
-    - Chinese weapon rework:
+    - Chinese gun rework:
         - Note: Some transliterations do not have the proper pinyin diacritics because the game cannot render them. For example, the **QJT86 7.62 háomi chēzai jīqiāng** should be the **QJT86 7.62 háomǐ chēzǎi jīqiāng**, but the game does not render the characters "ǐ" and "ǎ".
         - **QJT86 7.62mm Vehicle Machine Gun** renamed to **QJT1986 7.62 háomi chēzai jīqiāng**.
         - **QJC88A 12.7mm Vehicle Anti-Aircraft Machine Gun** renamed to **QJC1988A 12.7 háomi chēzai gāoshè jīqiāng**.
@@ -128,6 +128,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **He 177 A-3/R3 Greif** loading screen renamed to **He 177 A-3/R3**.
+    - **Sholef V1** loading screen renamed to **Šolef V1**.
 
 ## 1.09.04 - 02-10-2024
 

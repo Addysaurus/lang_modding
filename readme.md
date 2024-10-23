@@ -36,7 +36,7 @@ debug{
 
 4. Launch the game. Once you have launched the game, a folder called `lang` will appear in your War Thunder folder.
 
-5. Drop every file ending in `.csv` from this mod's folder that you dowloaded into that `lang` folder. Also drop in the file `localization.blk`. It will tell you that this is replacing an existing file. THIS IS OKAY. This modified `localization.blk` file does not remove any of the things already in the base file. It simply adds this mod's files to the end of the load order so they will be read after the base game files, allowing the mod to work.
+5. Drop every file ending in `.csv` and the file `localization.blk` from this mod's `Mod files` folder that you dowloaded into that `lang` folder. It will tell you that this is replacing an existing file. THIS IS OKAY. This modified `localization.blk` file does not remove any of the things already in the base file. It simply adds this mod's files to the end of the load order so they will be read after the base game files, allowing the mod to work.
 
 6. Launch the game. The mod should now be installed and working.
 

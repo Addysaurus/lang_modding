@@ -75,6 +75,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - "☨", the Cross of Lorraine and the symbol used as France's foreign vehicle identifier in front of vehicles like the French **SB2C-5**, has been changed to the "⚜", the fleur-de-lis.
     - **HS 293 A-1** renamed to **Hs 293 A-1**.
     - **PC 1400 X (Fritz X)** renamed to **PC 1400 X "Fritz X".
     - Chinese gun rework:

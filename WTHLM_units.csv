@@ -1457,14 +1457,14 @@ shop/group/it_fiat_group;Fiat 6616 / 6614
 shop/group/it_centauro_105_group;Centauro (preserie) / ROMOR
 shop/group/it_m15_pz_3_group;M. 42 / Pz.Kpfw. III
 shop/group/it_ariete_group;Ariete (PSO) / (WAR)
-shop/group/it_semovente_stug_group;90/53 M. 41. M / ▄ StuG III
+shop/group/it_semovente_stug_group;90/53 M. 41. M / ⛨ StuG III
 shop/group/it_semovente_m41_group;75/18 M. 41 / 75/32 M. 41 / 75/34 M. 42
 shop/group/it_semovente_m43_105_75_group;105/25 M. 43 / 75/34 M. 43
 shop/group/it_m13_40_group;M. 40 I / III
 shop/group/it_dardo_group;VCC-80 Dardo / Dardo (HITFIST 30)
 shop/group/sm_79_1941_group;S.M.79 AS / bis/T.M. / ╏ B
 shop/group/cr_32_group;CR.32 / 32quarter
-shop/group/ba_65_group;Ba.65 / ▄ Ju 87 R
+shop/group/ba_65_group;Ba.65 / ⛨ Ju 87 R
 shop/group/breda_group;Ba.88 / P.108A
 shop/group/br_20_dr_group;BR.20 DR / 20M M1
 shop/group/fiat_g50_italy_group;G.50 II / AS VII
@@ -1726,10 +1726,10 @@ b-29_uk_killstreak_shop;☢▄ B-29A-45-BN
 b-29_uk_killstreak_0;☢▄ B-29A-45-BN Superfortress
 b-29_uk_killstreak_1;☢▄ B-29A
 b-29_uk_killstreak_2;☢▄ B-29
-b-29_italy_killstreak_shop;☢▄ B-29A-45-BN
-b-29_italy_killstreak_0;☢▄ B-29A-45-BN Superfortress
-b-29_italy_killstreak_1;☢▄ B-29A
-b-29_italy_killstreak_2;☢▄ B-29
+b-29_italy_killstreak_shop;☢⛨ B-29A-45-BN
+b-29_italy_killstreak_0;☢⛨ B-29A-45-BN Superfortress
+b-29_italy_killstreak_1;☢⛨ B-29A
+b-29_italy_killstreak_2;☢⛨ B-29
 b-29_germany_killstreak_shop;☢◄ B-29A-45-BN
 b-29_germany_killstreak_0;☢◄ B-29A-45-BN Superfortress
 b-29_germany_killstreak_1;☢◄ B-29A
@@ -1770,10 +1770,10 @@ canberra_bimk6_germany_killstreak_shop;☢◄ Canberra B.(I.) Mk. 6
 canberra_bimk6_germany_killstreak_0;☢◄ The English Electric Company | Canberra B.(I.) Mk. 6
 canberra_bimk6_germany_killstreak_1;☢◄ Canberra B.(I.) Mk. 6
 canberra_bimk6_germany_killstreak_2;☢◄ Canberra
-canberra_bimk6_italy_killstreak_shop;☢▄ Canberra B.(I.) Mk. 6
-canberra_bimk6_italy_killstreak_0;☢▄ The English Electric Company | Canberra B.(I.) Mk. 6
-canberra_bimk6_italy_killstreak_1;☢▄ Canberra B.(I.) Mk. 6
-canberra_bimk6_italy_killstreak_2;☢▄ Canberra
+canberra_bimk6_italy_killstreak_shop;☢⛨ Canberra B.(I.) Mk. 6
+canberra_bimk6_italy_killstreak_0;☢⛨ The English Electric Company | Canberra B.(I.) Mk. 6
+canberra_bimk6_italy_killstreak_1;☢⛨ Canberra B.(I.) Mk. 6
+canberra_bimk6_italy_killstreak_2;☢⛨ Canberra
 canberra_bimk6_japan_killstreak_shop;☢▅ Canberra B.(I.) Mk. 6
 canberra_bimk6_japan_killstreak_0;☢▅ The English Electric Company | Canberra B.(I.) Mk. 6
 canberra_bimk6_japan_killstreak_1;☢▅ Canberra B.(I.) Mk. 6
@@ -1846,10 +1846,10 @@ ucav_mq_1_predator_iaf_killstreak_shop; MQ-1A
 ucav_mq_1_predator_iaf_killstreak_0; MQ-1A
 ucav_mq_1_predator_iaf_killstreak_1; MQ-1A
 ucav_mq_1_predator_iaf_killstreak_2; MQ-1
-ucav_mq_1_predator_italy_killstreak_shop;▄ MQ-1A
-ucav_mq_1_predator_italy_killstreak_0;▄ MQ-1A
-ucav_mq_1_predator_italy_killstreak_1;▄ MQ-1A
-ucav_mq_1_predator_italy_killstreak_2;▄ MQ-1
+ucav_mq_1_predator_italy_killstreak_shop;⛨ MQ-1A
+ucav_mq_1_predator_italy_killstreak_0;⛨ MQ-1A
+ucav_mq_1_predator_italy_killstreak_1;⛨ MQ-1A
+ucav_mq_1_predator_italy_killstreak_2;⛨ MQ-1
 ucav_mq_1_predator_japan_killstreak_shop;▅ MQ-1A
 ucav_mq_1_predator_japan_killstreak_0;▅ MQ-1A
 ucav_mq_1_predator_japan_killstreak_1;▅ MQ-1A
@@ -5214,9 +5214,9 @@ germ_leopard_c2_mexas_shop;Leopard C2 (MEXAS)
 germ_leopard_c2_mexas_0;Leopard C2 (Modular Expandable Armour System)
 germ_leopard_c2_mexas_1;Leopard C2
 germ_leopard_c2_mexas_2;MBT
-it_leopard_1a5_shop;▄ Leopard 1 A5
-it_leopard_1a5_0;▄ Carro Armato da Combattimento Leopard 1 Versione A5
-it_leopard_1a5_1;▄ Leopard 1 A5
+it_leopard_1a5_shop;⛨ Leopard 1 A5
+it_leopard_1a5_0;⛨ Carro Armato da Combattimento Leopard 1 Versione A5
+it_leopard_1a5_1;⛨ Leopard 1 A5
 it_leopard_1a5_2;MBT
 germ_leopard_1a5_shop;KPz Leopard 1 A5
 germ_leopard_1a5_0;Kampfpanzer Leopard 1 A5
@@ -6150,14 +6150,14 @@ ju-52_shop;Ju 52
 ju-52_0;Ju 52
 ju-52_1;Ju 52
 ju-52_2;Ju 52
-ju-87d-3_italy_shop;▄ Ju 87 D-3
-ju-87d-3_italy_0;▄ Ju 87 D-3
-ju-87d-3_italy_1;▄ Ju 87 D
-ju-87d-3_italy_2;▄ Ju 87
-ju-87r-2_italy_shop;▄ Ju 87 R-2
-ju-87r-2_italy_0;▄ Ju 87 R-2
-ju-87r-2_italy_1;▄ Ju 87 R
-ju-87r-2_italy_2;▄ Ju 87
+ju-87d-3_italy_shop;⛨ Ju 87 D-3
+ju-87d-3_italy_0;⛨ Ju 87 D-3
+ju-87d-3_italy_1;⛨ Ju 87 D
+ju-87d-3_italy_2;⛨ Ju 87
+ju-87r-2_italy_shop;⛨ Ju 87 R-2
+ju-87r-2_italy_0;⛨ Ju 87 R-2
+ju-87r-2_italy_1;⛨ Ju 87 R
+ju-87r-2_italy_2;⛨ Ju 87
 la-5fn_shop;La-5-41
 la-5fn_0;La-5 Tip 41, syeriâ 34
 la-5fn_1;La-5
@@ -6170,10 +6170,10 @@ li-2_shop;Li-2
 li-2_0;Li-2
 li-2_1;Li-2
 li-2_2;Li-2
-p-47d_30_italy_shop;▄ F-47D-30-RA
-p-47d_30_italy_0;▄ F-47D-30-RA Thunderbolt
-p-47d_30_italy_1;▄ F-47D
-p-47d_30_italy_2;▄ F-47
+p-47d_30_italy_shop;⛨ F-47D-30-RA
+p-47d_30_italy_0;⛨ F-47D-30-RA Thunderbolt
+p-47d_30_italy_1;⛨ F-47D
+p-47d_30_italy_2;⛨ F-47
 thunderbolt_mk1_shop;Thunderbolt Mk. 1
 thunderbolt_mk1_0;Thunderbolt Mk. 1
 thunderbolt_mk1_1;Thunderbolt Mk. 1
@@ -6518,10 +6518,10 @@ spitfire_mk5c_notrop_shop;Spitfire Mk. Vc
 spitfire_mk5c_notrop_0;Spitfire Mk. Vc
 spitfire_mk5c_notrop_1;Spitfire Mk. V
 spitfire_mk5c_notrop_2;Spitfire
-spitfire_mk5b_italy_shop;▄ Spitfire F. Mk. Vb (trop.)
-spitfire_mk5b_italy_0;▄ Spitfire F. Mk. Vb (tropicalised)
-spitfire_mk5b_italy_1;▄ Spitfire F. Mk. V
-spitfire_mk5b_italy_2;▄ Spitfire
+spitfire_mk5b_italy_shop;⛨ Spitfire F. Mk. Vb (trop.)
+spitfire_mk5b_italy_0;⛨ Spitfire F. Mk. Vb (tropicalised)
+spitfire_mk5b_italy_1;⛨ Spitfire F. Mk. V
+spitfire_mk5b_italy_2;⛨ Spitfire
 spitfire_mk5c_shop;Spitfire F. Mk. Vc (trop.)
 spitfire_mk5c_0;Spitfire F. Mk. Vc (tropicalised)
 spitfire_mk5c_1;Spitfire F. Mk. V
@@ -6818,10 +6818,10 @@ a_5c_shop;☪ A5C
 a_5c_0;☪ A5C
 a_5c_1;☪ A5C
 a_5c_2;☪ A5
-f-104g_italy_shop;▄ F-104G
-f-104g_italy_0;▄ F-104G Starfighter
-f-104g_italy_1;▄ F-104G
-f-104g_italy_2;▄ F-104
+f-104g_italy_shop;⛨ F-104G
+f-104g_italy_0;⛨ F-104G Starfighter
+f-104g_italy_1;⛨ F-104G
+f-104g_italy_2;⛨ F-104
 f-104g_belgium_shop;▄ F-104G
 f-104g_belgium_0;▄ F-104G Starfighter
 f-104g_belgium_1;▄ F-104G
@@ -6850,8 +6850,8 @@ saab_jas39c_south_africa_shop;▄ Gripen C (Cobra)
 saab_jas39c_south_africa_0;▄ Saab | Saab 39 Gripen C (Cobra)
 saab_jas39c_south_africa_1;▄ Gripen C
 saab_jas39c_south_africa_2;▄ Gripen
-saab_jas39c_south_africa_missile_test_shop;▄ Gripen C (2011)
-saab_jas39c_south_africa_missile_test_0;▄ Saab | Saab 39 Gripen C (2011)
+saab_jas39c_south_africa_missile_test_shop;▄ Gripen C (Cobra)
+saab_jas39c_south_africa_missile_test_0;▄ Saab | Saab 39 Gripen C (Cobra)
 saab_jas39c_south_africa_missile_test_1;▄ Gripen C
 saab_jas39c_south_africa__missile_test2;▄ Gripen
 saab_jas39c_hungary_shop;◔ JAS 39 C EBS HU
@@ -7546,10 +7546,10 @@ vampire_fb5_shop;Vampire F.B. Mk. 5
 vampire_fb5_0;Vampire F.B. Mk. 5
 vampire_fb5_1;Vampire F.B. Mk. 5
 vampire_fb5_2;Vampire
-vampire_fb52a_italy_shop;▄ Vampire F.B. Mk. 52A
-vampire_fb52a_italy_0;▄ Vampire F.B. Mk. 52A
-vampire_fb52a_italy_1;▄ Vampire F.B. Mk. 52A
-vampire_fb52a_italy_2;▄ Vampire
+vampire_fb52a_italy_shop;⛨ Vampire F.B. Mk. 52A
+vampire_fb52a_italy_0;⛨ Vampire F.B. Mk. 52A
+vampire_fb52a_italy_1;⛨ Vampire F.B. Mk. 52A
+vampire_fb52a_italy_2;⛨ Vampire
 yak-17_shop;Âk-17
 yak-17_0;Âk-17
 yak-17_1;Âk-17
@@ -7622,10 +7622,10 @@ a7he1_shop;A7He1
 a7he1_0;Heinkel 112 gata rikujō sentōki | A7He1
 a7he1_1;A7He1
 a7he1_2;A7He
-f-86_cl_13_mk4_italy_shop;▄ Sabre Mk. 4
-f-86_cl_13_mk4_italy_0;▄ CL-13A Sabre Mk. 4
-f-86_cl_13_mk4_italy_1;▄ Sabre Mk. 4
-f-86_cl_13_mk4_italy_2;▄ Sabre
+f-86_cl_13_mk4_italy_shop;⛨ Sabre Mk. 4
+f-86_cl_13_mk4_italy_0;⛨ CL-13A Sabre Mk. 4
+f-86_cl_13_mk4_italy_1;⛨ Sabre Mk. 4
+f-86_cl_13_mk4_italy_2;⛨ Sabre
 la_174_shop;La-174
 la_174_0;La-174
 la_174_1;La-174
@@ -8526,14 +8526,14 @@ p_108b_serie2_shop;P.108B II
 p_108b_serie2_0;P.108B serie II
 p_108b_serie2_1;P.108B
 p_108b_serie2_2;P.108
-f-84g_italy_shop;▄ F-84G-21-RE
-f-84g_italy_0;▄ F-84G-21-RE Thunderjet
-f-84g_italy_1;▄ F-84G
-f-84g_italy_2;▄ F-84
-f-84f_italy_shop;▄ F-84F-66-RE
-f-84f_italy_0;▄ F-84F-66-RE Thunderstreak
-f-84f_italy_1;▄ F-84F
-f-84f_italy_2;▄ F-84
+f-84g_italy_shop;⛨ F-84G-21-RE
+f-84g_italy_0;⛨ F-84G-21-RE Thunderjet
+f-84g_italy_1;⛨ F-84G
+f-84g_italy_2;⛨ F-84
+f-84f_italy_shop;⛨ F-84F-66-RE
+f-84f_italy_0;⛨ F-84F-66-RE Thunderstreak
+f-84f_italy_1;⛨ F-84F
+f-84f_italy_2;⛨ F-84
 f-84g_china_shop;☀ F-84G-21-RE
 f-84g_china_0;☀ F-84G-21-RE Thunderjet
 f-84g_china_1;☀ F-84G
@@ -8562,10 +8562,10 @@ mc-205_n2_shop;C. 205N2
 mc-205_n2_0;C. 205N2 Orione
 mc-205_n2_1;C. 205N2
 mc-205_n2_2;C. 205
-bf-109g-14as_shop;▄ Bf 109 G-14/AS
-bf-109g-14as_0;▄ Bf 109 G-14/AS
-bf-109g-14as_1;▄ Bf 109 G
-bf-109g-14as_2;▄ Bf 109
+bf-109g-14as_shop;⛨ Bf 109 G-14/AS
+bf-109g-14as_0;⛨ Bf 109 G-14/AS
+bf-109g-14as_1;⛨ Bf 109 G
+bf-109g-14as_2;⛨ Bf 109
 ki_109_shop;Ki 109
 ki_109_0;Ki 109
 ki_109_1;Ki 109
@@ -8866,14 +8866,14 @@ f-104s_cb_shop;☪ F-104S/CB
 f-104s_cb_0;☪ F-104S/CB Starfighter
 f-104s_cb_1;☪ F-104S
 f-104s_cb_2;☪ F-104
-f-104s_shop;▄ F-104S/CI
-f-104s_0;▄ F-104S/CI Starfighter
-f-104s_1;▄ F-104S
-f-104s_2;▄ F-104
-f-104s_asa_shop;▄ F-104S/ASA
-f-104s_asa_0;▄ F-104S/ASA Starfighter
-f-104s_asa_1;▄ F-104S
-f-104s_asa_2;▄ F-104
+f-104s_shop;⛨ F-104S/CI
+f-104s_0;⛨ F-104S/CI Starfighter
+f-104s_1;⛨ F-104S
+f-104s_2;⛨ F-104
+f-104s_asa_shop;⛨ F-104S/ASA
+f-104s_asa_0;⛨ F-104S/ASA Starfighter
+f-104s_asa_1;⛨ F-104S
+f-104s_asa_2;⛨ F-104
 f-104a_china_shop;☀ F-104A-25-LO
 f-104a_china_0;☀ F-104A-25-LO Starfighter
 f-104a_china_1;☀ F-104A
@@ -9610,45 +9610,45 @@ it_otomatic_shop;OTOMATIC
 it_otomatic_0;OTO Main Anti-aircraft Tank for Intercept and Combat
 it_otomatic_1;OTOMATIC
 it_otomatic_2;SPAA
-it_sherman_75_37_shop;▄ Sherman I Ibrido
-it_sherman_75_37_0;▄ Carro Armato Medio Sherman Tipo I Ibrido
-it_sherman_75_37_1;▄ Sherman I
+it_sherman_75_37_shop;⛨ Sherman I Ibrido
+it_sherman_75_37_0;⛨ Carro Armato Medio Sherman Tipo I Ibrido
+it_sherman_75_37_1;⛨ Sherman I
 it_sherman_75_37_2;Medium tank
-it_sherman_vc_firefly_shop;▄ Sherman V C
-it_sherman_vc_firefly_0;▄ Carro Armato Medio Sherman Tipo V Tipo C
-it_sherman_vc_firefly_1;▄ Sherman V
+it_sherman_vc_firefly_shop;⛨ Sherman V C
+it_sherman_vc_firefly_0;⛨ Carro Armato Medio Sherman Tipo V Tipo C
+it_sherman_vc_firefly_1;⛨ Sherman V
 it_sherman_vc_firefly_2;Medium tank
-it_m18_hellcat_shop;▄ 76/52 M18
-it_m18_hellcat_0;▄ Semovente da 76/52 M18
-it_m18_hellcat_1;▄ M18
+it_m18_hellcat_shop;⛨ 76/52 M18
+it_m18_hellcat_0;⛨ Semovente da 76/52 M18
+it_m18_hellcat_1;⛨ M18
 it_m18_hellcat_2;Light tank
-it_m24_chaffee_shop;▄ M24
-it_m24_chaffee_0;▄ Carro Armato Leggero M24
-it_m24_chaffee_1;▄ M24
+it_m24_chaffee_shop;⛨ M24
+it_m24_chaffee_0;⛨ Carro Armato Leggero M24
+it_m24_chaffee_1;⛨ M24
 it_m24_chaffee_2;Light tank
-it_m3a3_stuart_shop;▄ M3A3
-it_m3a3_stuart_0;▄ Carro Armato Leggero M3A3
-it_m3a3_stuart_1;▄ M3A3
+it_m3a3_stuart_shop;⛨ M3A3
+it_m3a3_stuart_0;⛨ Carro Armato Leggero M3A3
+it_m3a3_stuart_1;⛨ M3A3
 it_m3a3_stuart_2;Light tank
-it_m4a4_sherman_shop;▄ Sherman V
-it_m4a4_sherman_0;▄ Carro Armato Medio Sherman Tipo V
-it_m4a4_sherman_1;▄ Sherman V
+it_m4a4_sherman_shop;⛨ Sherman V
+it_m4a4_sherman_0;⛨ Carro Armato Medio Sherman Tipo V
+it_m4a4_sherman_1;⛨ Sherman V
 it_m4a4_sherman_2;Medium tank
-it_m26a1_pershing_shop;▄ M26A1
-it_m26a1_pershing_0;▄ Carro Armato Medio M26A1
-it_m26a1_pershing_1;▄ M26A1
+it_m26a1_pershing_shop;⛨ M26A1
+it_m26a1_pershing_0;⛨ Carro Armato Medio M26A1
+it_m26a1_pershing_1;⛨ M26A1
 it_m26a1_pershing_2;Medium tank
-it_m60a1_ariete_shop;▄ M60A1 (132ª Div.Cor.)
-it_m60a1_ariete_0;"▄ M60A1 (132ª Divisione Corazzata ""Ariete"")"
-it_m60a1_ariete_1;▄ M60A1
+it_m60a1_ariete_shop;⛨ M60A1 (132ª Div.Cor.)
+it_m60a1_ariete_0;"⛨ M60A1 (132ª Divisione Corazzata ""Ariete"")"
+it_m60a1_ariete_1;⛨ M60A1
 it_m60a1_ariete_2;Medium tank
 it_m47_105_shop;▄ M47E2
 it_m47_105_0;▄ Tanque M47E2
 it_m47_105_1;▄ M47
 it_m47_105_2;Medium tank
-it_m109g_shop;▄ 155/23 M109
-it_m109g_0;▄ Obice semovente da 155/23 M109
-it_m109g_1;▄ 155/23 M109
+it_m109g_shop;⛨ 155/23 M109
+it_m109g_0;⛨ Obice semovente da 155/23 M109
+it_m109g_1;⛨ 155/23 M109
 it_m109g_2;SPG
 it_semovente_m43_75_46_shop;75/46 M. 43
 it_semovente_m43_75_46_0;Semovente da 75/46 su Scafo M. 43
@@ -9674,9 +9674,9 @@ it_semovente_m43_75_34_shop;75/34 M. 43
 it_semovente_m43_75_34_0;Semovente da 75/34 su Scafo M. 43
 it_semovente_m43_75_34_1;75/34 M. 43
 it_semovente_m43_75_34_2;SPG
-it_m36b1_shop;▄ 90/50 M36B1
-it_m36b1_0;▄ Semovente da 90/50 M36B1
-it_m36b1_1;▄ M36B1
+it_m36b1_shop;⛨ 90/50 M36B1
+it_m36b1_0;⛨ Semovente da 90/50 M36B1
+it_m36b1_1;⛨ M36B1
 it_m36b1_2;SPG
 it_of_40_mtca_shop;OF 40 Mk. 2 (MTCA)
 it_of_40_mtca_0;Carro Armato OTO-Melara OF 40 Mk. 2 (MTCA)
@@ -9718,9 +9718,9 @@ it_oto_r3_t20_fa_shop;R3 T 20 FA-HS
 it_oto_r3_t20_fa_0;OTO R3 Capraia T 20 FA-HS
 it_oto_r3_t20_fa_1;R3 T 20 FA-HS
 it_oto_r3_t20_fa_2;SPAA
-it_m113a1_tow_shop;▄ M113A1 (TOW)
-it_m113a1_tow_0;▄ VTC M113A1 con sistema d'arma TOW (modifica M233)
-it_m113a1_tow_1;▄ M113A1 (TOW)
+it_m113a1_tow_shop;⛨ M113A1 (TOW)
+it_m113a1_tow_0;⛨ VTC M113A1 con sistema d'arma TOW (modifica M233)
+it_m113a1_tow_1;⛨ M113A1 (TOW)
 it_m113a1_tow_2;SPG
 it_otobreda_sidam_25_shop;SIDAM 25
 it_otobreda_sidam_25_0;Sistema Italiano Difesa Aerea Mobile, 25mm
@@ -9782,29 +9782,29 @@ it_m14_41_47_40_shop;M. 41 (47/40)
 it_m14_41_47_40_0;Carro Armato Medio Mod. 41 (47/40)
 it_m14_41_47_40_1;M. 41
 it_m14_41_47_40_2;Medium Tank
-it_pzkpfw_III_ausf_N_shop;▄ Pz.Kpfw. III N
-it_pzkpfw_III_ausf_N_0;▄ Carro Armato Medio Panzerkampfwagen III Ausf. N
-it_pzkpfw_III_ausf_N_1;▄ Pz.Kpfw. III N
+it_pzkpfw_III_ausf_N_shop;⛨ Pz.Kpfw. III N
+it_pzkpfw_III_ausf_N_0;⛨ Carro Armato Medio Panzerkampfwagen III Ausf. N
+it_pzkpfw_III_ausf_N_1;⛨ Pz.Kpfw. III N
 it_pzkpfw_III_ausf_N_2;Medium Tank
-it_pzkpfw_IV_ausf_G_shop;▄ Pz.Kpfw. IV G
-it_pzkpfw_IV_ausf_G_0;▄ Carro Armato Medio Panzerkampfwagen IV Ausf. G (Settembre 1942)
-it_pzkpfw_IV_ausf_G_1;▄ Pz.Kpfw. IV G
+it_pzkpfw_IV_ausf_G_shop;⛨ Pz.Kpfw. IV G
+it_pzkpfw_IV_ausf_G_0;⛨ Carro Armato Medio Panzerkampfwagen IV Ausf. G (Settembre 1942)
+it_pzkpfw_IV_ausf_G_1;⛨ Pz.Kpfw. IV G
 it_pzkpfw_IV_ausf_G_2;Medium Tank
 it_pzkpfw_VI_ausf_e_tiger_shop;◐ Tiger E (spät)
 it_pzkpfw_VI_ausf_e_tiger_0;◐ Panzerkampfwagen Tiger Ausf. E (spät)
 it_pzkpfw_VI_ausf_e_tiger_1;◐ Tiger E
 it_pzkpfw_VI_ausf_e_tiger_2;Heavy tank
-it_stug_III_ausf_G_shop;▄ 75/48 StuG III G
-it_stug_III_ausf_G_0;▄ Semovente da 75/48 Sturmgeschütz III Ausf. G
-it_stug_III_ausf_G_1;▄ 75/48 StuG III G
+it_stug_III_ausf_G_shop;⛨ 75/48 StuG III G
+it_stug_III_ausf_G_0;⛨ Semovente da 75/48 Sturmgeschütz III Ausf. G
+it_stug_III_ausf_G_1;⛨ 75/48 StuG III G
 it_stug_III_ausf_G_2;SPG
 it_m14_41_shop;M. 41
 it_m14_41_0;Carro Armato Medio Mod. 41
 it_m14_41_1;M. 41
 it_m14_41_2;Medium Tank
-it_leopard_bofors_shop;▄ Leopard 1 A2 (40/70)
-it_leopard_bofors_0;▄ Semovente contraereo da 40/70 Bofors su scafo Leopard 1 A2
-it_leopard_bofors_1;▄ Leopard 1 (40/70)
+it_leopard_bofors_shop;⛨ Leopard 1 A2 (40/70)
+it_leopard_bofors_0;⛨ Semovente contraereo da 40/70 Bofors su scafo Leopard 1 A2
+it_leopard_bofors_1;⛨ Leopard 1 (40/70)
 it_leopard_bofors_2;SPAA
 it_m15_42_contraereo_shop;M. 42/Ca
 it_m15_42_contraereo_0;Carro Armato Medio Mod. 42 Controaereo
@@ -9850,9 +9850,9 @@ it_fiat_6616_cockerill_shop;Fiat 6616 (90/38)
 it_fiat_6616_cockerill_0;Fiat-OTO-Melara 6616 con torretta OTO T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38
 it_fiat_6616_cockerill_1;Fiat 6616
 it_fiat_6616_cockerill_2;Light tank
-it_sherman_VII_shop;▄ Sherman I C Ibrido
-it_sherman_VII_0;▄ Carro Armato Medio Sherman Tipo I Tipo C Ibrido
-it_sherman_VII_1;▄ Sherman I
+it_sherman_VII_shop;⛨ Sherman I C Ibrido
+it_sherman_VII_0;⛨ Carro Armato Medio Sherman Tipo I Tipo C Ibrido
+it_sherman_VII_1;⛨ Sherman I
 it_sherman_VII_2;Medium tank
 it_semovente_l40_shop;47/32 L. 40
 it_semovente_l40_0;Semovente da 47/32 su Scafo L. 40
@@ -10290,10 +10290,10 @@ f-86k_late_shop;⚜ F-86K
 f-86k_late_0;⚜ F-86K Sabre
 f-86k_late_1;⚜ F-86K
 f-86k_late_2;⚜ F-86
-f-86k_late_italy_shop;▄ F-86K
-f-86k_late_italy_0;▄ F-86K Sabre
-f-86k_late_italy_1;▄ F-86K
-f-86k_late_italy_2;▄ F-86
+f-86k_late_italy_shop;⛨ F-86K
+f-86k_late_italy_0;⛨ F-86K Sabre
+f-86k_late_italy_1;⛨ F-86K
+f-86k_late_italy_2;⛨ F-86
 j5n1_shop;J5N1
 j5n1_0;18 shi otsu rikujō sentōki | shisei Tenrai | J5N1
 j5n1_1;J5N1
@@ -10422,10 +10422,10 @@ f_15c_baz_msip_shop; F-15C-40-MC (MSIP II)
 f_15c_baz_msip_0; F-15C-40-MC Baz Mshupar (Multistage Improvement Program II)
 f_15c_baz_msip_1; F-15C
 f_15c_baz_msip_2; F-15
-f_16a_block_15_adf_italy_shop;▄ F-16A-15ADF-CF
-f_16a_block_15_adf_italy_0;▄ F-16A-15ADF-CF Fighting Falcon
-f_16a_block_15_adf_italy_1;▄ F-16A
-f_16a_block_15_adf_italy_2;▄ F-16
+f_16a_block_15_adf_italy_shop;⛨ F-16A-15ADF-CF
+f_16a_block_15_adf_italy_0;⛨ F-16A-15ADF-CF Fighting Falcon
+f_16a_block_15_adf_italy_1;⛨ F-16A
+f_16a_block_15_adf_italy_2;⛨ F-16
 f_16a_block_10_iaf_shop; F-16A-15OCU-CF
 f_16a_block_10_iaf_0; F-16A-15OCU-CF Neṣ
 f_16a_block_10_iaf_1; F-16A
@@ -10514,10 +10514,10 @@ tornado_f3_late_shop;▄ Tornado F. Mk. 3 (AOP)
 tornado_f3_late_0;▄ Tornado F. Mk. 3 (AMRAAM Optimisation Programme)
 tornado_f3_late_1;▄ Tornado F. Mk. 3
 tornado_f3_late_2;▄ Tornado
-tornado_adv_shop;▄ Tornado F. Mk. 3
-tornado_adv_0;▄ Tornado F. Mk. 3
-tornado_adv_1;▄ Tornado F. Mk. 3
-tornado_adv_2;▄ Tornado
+tornado_adv_shop;⛨ Tornado F. Mk. 3
+tornado_adv_0;⛨ Tornado F. Mk. 3 (Batch 2)
+tornado_adv_1;⛨ Tornado F. Mk. 3
+tornado_adv_2;⛨ Tornado
 harrier_gr1_shop;Harrier G.R. Mk. 1
 harrier_gr1_0;Harrier G.R. Mk. 1
 harrier_gr1_1;Harrier G.R. Mk. 1
@@ -10542,10 +10542,10 @@ sea_harrier_fa2_shop;Sea Harrier F.A. Mk. 2
 sea_harrier_fa2_0;Sea Harrier F.A. Mk. 2
 sea_harrier_fa2_1;Sea Harrier F.A. Mk. 2
 sea_harrier_fa2_2;Harrier
-av_8b_plus_italy_shop;▄ AV-8B Plus
-av_8b_plus_italy_0;▄ AV-8B Harrier II Plus
-av_8b_plus_italy_1;▄ AV-8B
-av_8b_plus_italy_2;▄ AV-8
+av_8b_plus_italy_shop;⛨ AV-8B Plus
+av_8b_plus_italy_0;⛨ AV-8B Harrier II Plus
+av_8b_plus_italy_1;⛨ AV-8B
+av_8b_plus_italy_2;⛨ AV-8
 amx_shop;A-11B
 amx_0;A-11B Ghibli
 amx_1;A-11B
@@ -11453,9 +11453,9 @@ it_p_40_shop;P. 40
 it_p_40_0;Carro Armato Pesante Mod. 40
 it_p_40_1;P. 40
 it_p_40_2;Medium tank
-it_m26_ariete_shop;▄ M26 (132ª Div.Cor.)
-it_m26_ariete_0;"▄ Carro Armato Medio M26 (132ª Divisione Corazzata ""Ariete"")"
-it_m26_ariete_1;▄ M26
+it_m26_ariete_shop;⛨ M26 (132ª Div.Cor.)
+it_m26_ariete_0;"⛨ Carro Armato Medio M26 (132ª Divisione Corazzata ""Ariete"")"
+it_m26_ariete_1;⛨ M26
 it_m26_ariete_2;Medium tank
 germ_m109g_shop;◄ PzH M 109 G
 germ_m109g_0;◄ Panzerhaubitze M 109 G

@@ -10,6 +10,14 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.09.06 - UNRELEASED
 
+### Vehicles:
+
+- #### Changes:
+
+    - "▄", the roundel used for the UK and Italy, has been changed to "⛨" for the symbol on the WWII Italian flag. The UK still uses the original symbol. It only has been changed for Italy.
+    - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me. It has not changed for the Spanish **M47E2** because that tank is using it as a Spanish roundel.
+    - The **Tornado F. Mk. 3**'s (Italy) long name has been changed to **Tornado F. Mk. 3 (Batch 2)**.
+
 ### Version:
 
 - #### Additions:
@@ -36,6 +44,7 @@ All dates are listed in DD-MM-YYYY format.
     - **AH-1S (FMC) (C-NITE)** (Japan) renamed to **AH-1S FMC**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra)**.
     - **AH-1S (FMC) (C-NITE) (4th TSH)** renamed to **AH-1S (FMC) (Dai 4 TSH)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Dai 4 Tai Sensha Herikoputātai)**.
     - **KOR-1** renamed to **Bye-2**.
+    - "☨", the Cross of Lorraine and the symbol used as France's foreign vehicle identifier in front of vehicles like the French **SB2C-5**, has been changed to the "⚜", the fleur-de-lis.
 
 ### Weaponry:
 
@@ -84,7 +93,6 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - "☨", the Cross of Lorraine and the symbol used as France's foreign vehicle identifier in front of vehicles like the French **SB2C-5**, has been changed to the "⚜", the fleur-de-lis.
     - **HS 293 A-1** renamed to **Hs 293 A-1**.
     - **PC 1400 X (Fritz X)** renamed to **PC 1400 X "Fritz X".
     - Chinese gun rework:

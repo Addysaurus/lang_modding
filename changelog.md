@@ -8,12 +8,84 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.09.06 - UNRELEASED
+## 1.10.00 - UNRELEASED
 
 ### Vehicles:
 
+- #### Additions:
+
+    - Update "Firebirds" additions:
+        - **T77E1**
+        - **Ram II** (UK / Canada)
+        - **KV-7 (U-13)**
+        - **Osa-AKM**
+        - **Osa-AKM** (Germany)
+        - **Osa-AKM** (Italy / Romania)
+        - **Scimitar**
+        - **Skink** (USA / Canada)
+        - **Bf 109 C-1** (WTM)
+        - **Su-34**
+        - **F-117**
+        - **Leopard 2A4NL** (France / Netherlands)
+        - **Leopard 2A5NL** (France / Netherlands)
+        - **Leopard 2A6NL** (France / Netherlands)
+        - **Sabra Mk.I**
+        - **Super Hind** (UK / South Africa)
+        - **Mi-8AMTSh-VN**
+        - **F-15E**
+        - **F-15I Ra'am**
+        - **Tornado GR.4**
+        - **AV-8S** (Japan / Thailand)
+        - **PLZ05**
+        - **Luchs A2**
+        - **Pr.253L**
+        - **MS 444**
+        - **Dunkerque**
+        - **HMS Repulse**
+        - **Object 140**
+    - **Israeli Military Industries** added as the manufacturer for the **Sabra Mk. 1**.
+    - **McDonnell Douglas Corporation** added as the manufacturer for the following vehicles:
+        - **F-15A-18-MC (MSIP)**
+        - **F-15C-40-MC (MSIP II)**
+        - **F-15E-43-MC**
+    - **Panavia** added as the manufacturer for the following vehicles:
+        - **Tornado G.R. Mk. 1**
+        - **A-200**
+        - **A-200A**
+        - **Tornado F. Mk. 3**
+        - **Tornado F. Mk. 3 (AOP)**
+        - **Tornado F. Mk. 3** (Italy)
+    - **Panavia / BAE Systems** added as the manufacturer for the **Tornado G.R. Mk. 4**.
+
 - #### Changes:
 
+    - Update "Firebirds" changes:
+        - **T77E1** renamed to **T77E1 MGMC**. The long name has been changed to **Carriage, Motor, Multiple Gun, T77E1**.
+        - **Ram II** (UK) renamed to **Ram, Mk. II (early)**. The long name has been changed to **Tank, Cruiser, Ram, Mk. II (early)**.
+        - **Ram, Mk. II (early)** (US) has recieved a US roundel because the new **Ram, Mk. II (early)** in the British tree matches where other Canadian vehicles go.
+        - The **KV-7 (U-13)**'s long name has been changed to **Ob"yekt 227 | KV-7 (U-13)**.
+        - **Osa-AKM** renamed to **9A33BM3**. The long name has been changed to **BM 9A33BM3 "Osa-AKM"**.
+        - **Osa-AKM** (Germany) renamed to **9A33BM3**. The long name has been changed to **BM 9A33BM3 "Osa-AKM"**.
+        - **Osa-AKM** (Italy / Romania) renamed to **9A33BM3**. The long name has been changed to **BM 9A33BM3 "Osa-AKM"**.
+        - The **Scimitar**'s long name has been changed to **F.V.107 | Combat Vehicle, Reconnaissance, Tracked, 30mm Gun, Scimitar**.
+        - The **Skink** (USA / Canada)
+        - The **Bf 109 C-1** (WTM) has had the War Thuder Mobile roundel added.
+        - The **Su-34**'s long name has been changed to **izd. T-10V | Su-34**.
+        - **F-117** renamed to **F-117A-1-LO (OCIP II)**. The long name has been changed to **F-117A-1-LO Nighthawk (Offensive Capability Improvement Program II)**.
+        - The **Leopard 2A4NL**'s long name has been changed to **Leopard 2A4NL-gevechtstank**
+        - The **Leopard 2A5NL**'s long name has been changed to **Leopard 2A5NL-gevechtstank**
+        - The **Leopard 2A6NL**'s long name has been changed to **Leopard 2A6NL-gevechtstank**
+        - **Sabra Mk.I** renamed to **Sabra Mk. 1**. The long name has been changed to **Israeli Military Industries | Sabra Siman 1**.
+        - **Super Hind** renamed to **SuperHind Mk. IV**. The long name has been changed to **Advanced Technology and Engineering | SuperHind Mk. IV**.
+        - **Mi-8AMTSh-VN** renamed to **Mi-8AMTŠ-VN**.
+        - **F-15E** renamed to **F-15E-43-MC**. The long name has been changed to **McDonnell Douglas Corporation | F-15E-43-MC**.
+        - **F-15I Ra'am** renamed to **F-15I**.
+        - **Tornado GR.4** renamed to **Tornado G.R. Mk. 4**. The long name has been changed to **Panavia / BAE Systems | Tornado G.R. Mk. 4**.
+        - **AV-8S** (Japan / Thailand) renamed to **B.KhJ.1k**.
+        - **Luchs A2** renamed to **SpPz Luchs A2**.
+        - **Pr.253L** renamed to **Pr. 253L**. The long name has been changed to **Proyekt 253L**.
+        - **HMS Repulse** renamed to **HMS Repulse (34)**.
+        - **Object 140** renamed to **Ob. 140**. The long name has been changed to **Ob"yekt 140**.
     - "▄", the roundel used for the UK and Italy, has been changed to "⛨" for the symbol on the WWII Italian flag. The UK still uses the original symbol. It only has been changed for Italy.
     - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me. It has not changed for the Spanish **M47E2** because that tank is using it as a Spanish roundel.
     - The **Tornado F. Mk. 3**'s (Italy) long name has been changed to **Tornado F. Mk. 3 (Batch 2)**.

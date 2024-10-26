@@ -2532,6 +2532,10 @@ av_8b_na_shop;AV-8B NA
 av_8b_na_0;AV-8B Harrier II Night Attack
 av_8b_na_1;AV-8B
 av_8b_na_2;AV-8
+f_117_shop;F-117A-1-LO (OCIP II)
+f_117_0;F-117A-1-LO Nighthawk (Offensive Capability Improvement Program II)
+f_117_1;F-117A
+f_117_2;F-117
 a_10a_early_shop;A-10A (1979)
 a_10a_early_0;"A-10A Thunderbolt II ""Warthog"" (1979)"
 a_10a_early_1;A-10A
@@ -2630,6 +2634,10 @@ f_15c_msip2_shop;F-15C-40-MC (MSIP II)
 f_15c_msip2_0;F-15C-40-MC Eagle (Multistage Improvement Program II)
 f_15c_msip2_1;F-15C
 f_15c_msip2_2;F-15
+f_15e_shop;F-15E-43-MC
+f_15e_0;McDonnell Douglas Corporation | F-15E-43-MC Strike Eagle
+f_15e_1;F-15E
+f_15e_2;F-15
 f_14a_early_shop;F-14A-65-GR
 f_14a_early_0;F-14A-65-GR Tomcat
 f_14a_early_1;F-14A
@@ -2887,6 +2895,10 @@ us_halftrack_m16_shop;M16 MGMC
 us_halftrack_m16_0;G-102 | Carriage, Motor, Multiple Gun, M16
 us_halftrack_m16_1;M16
 us_halftrack_m16_2;SPAA
+us_t77e1_shop;T77E1 MGMC
+us_t77e1_0;Carriage, Motor, Multiple Gun, T77E1
+us_t77e1_1;T77E1
+us_t77e1_2;SPAA
 us_m10_shop;M10 GMC
 us_m10_0;G-130 | Carriage, Motor, 3-inch Gun, M10
 us_m10_1;M10
@@ -3001,6 +3013,10 @@ us_t34_shop;T34
 us_t34_0;Tank, Heavy, T34
 us_t34_1;T34
 us_t34_2;Heavy tank
+us_skink_aa_shop;▃ Skink
+us_skink_aa_0;▃ Tank, Anti-Aircraft, 20mm, Quad, Skink
+us_skink_aa_1;▃ Skink
+us_skink_aa_2;SPAA
 us_m109a1_shop;M109A1
 us_m109a1_0;G-296 | Howitzer, Medium, Self-Propelled, 155mm, M109A1
 us_m109a1_1;M109A1
@@ -3593,6 +3609,10 @@ bf-109a_1_shop;Flegel's Bf 109 A-2
 bf-109a_1_0;Norbert Flegel's Bf 109 A-2
 bf-109a_1_1;Bf 109 A
 bf-109a_1_2;Bf 109
+bf-109c_1_promo_shop;◓ Bf 109 C-1
+bf-109c_1_promo_0;◓ Bf 109 C-1
+bf-109c_1_promo_1;◓ Bf 109 C
+bf-109c_1_promo_2;◓ Bf 109
 bf-109e-1_shop;Bf 109 E-1
 bf-109e-1_0;Bf 109 E-1
 bf-109e-1_1;Bf 109 E
@@ -4626,6 +4646,10 @@ uk_a_43_black_prince_shop;Black Prince
 uk_a_43_black_prince_0;Tank, Infantry, A.43E1, Black Prince
 uk_a_43_black_prince_1;Black Prince
 uk_a_43_black_prince_2;Heavy tank
+uk_m4a5_ram_2_shop;Ram, Mk. II (early)
+uk_m4a5_ram_2_0;Tank, Cruiser, Ram, Mk. II (early)
+uk_m4a5_ram_2_1;Ram, Mk. II
+uk_m4a5_ram_2_2;Medium tank
 uk_mk1_grant_shop;Grant, Mk. I
 uk_mk1_grant_0;Tank, Medium, Grant, Mk. I
 uk_mk1_grant_1;Grant, Mk. I
@@ -4894,6 +4918,10 @@ ussr_kv_1e_shop;KV-1 (Èkranirovannyj)
 ussr_kv_1e_0;KV-1 obr. 1941 g. (Èkranirovannyj)
 ussr_kv_1e_1;KV-1
 ussr_kv_1e_2;Heavy tank
+ussr_kv_7_u13_shop;KV-7 (U-13)
+ussr_kv_7_u13_0;"Ob""yekt 227 | KV-7 (U-13)"
+ussr_kv_7_u13_1;KV-7 (U-13)
+ussr_kv_7_u13_2;SPG
 ussr_kv_220_shop;KV-220
 ussr_kv_220_0;"Ob""yekt 220 | KV-220"
 ussr_kv_220_1;KV-220
@@ -5022,6 +5050,18 @@ ussr_9a35_m2_shop;9A35M2
 ussr_9a35_m2_0;"BM 9A35M2 ""Strela-10M2"""
 ussr_9a35_m2_1;9A35
 ussr_9a35_m2_2;SPAA
+ussr_9a33bm3_shop;9A33BM3
+ussr_9a33bm3_0;"BM 9A33BM3 ""Osa-AKM"""
+ussr_9a33bm3_1;9A33BM3
+ussr_9a33bm3_2;SPAA
+germ_9a33bm3_shop;◊ 9A33BM3
+germ_9a33bm3_0;"◊ BM 9A33BM3 ""Osa-AKM"""
+germ_9a33bm3_1;◊ 9A33BM3
+germ_9a33bm3_2;SPAA
+it_9a33bm3_shop;╏ 9A33BM3
+it_9a33bm3_0;"╏ BM 9A33BM3 ""Osa-AKM"""
+it_9a33bm3_1;╏ 9A33BM3
+it_9a33bm3_2;SPAA
 ussr_pantsyr_s1_shop;72V6
 ussr_pantsyr_s1_0;"BM 72V6 ""Pantsir-S1"""
 ussr_pantsyr_s1_1;72V6
@@ -5410,6 +5450,10 @@ uk_fv721_fox_shop;Fox
 uk_fv721_fox_0;Alvis | F.V.721 | Combat Vehicle, Reconnaissance, Wheeled, 30mm Gun, Fox
 uk_fv721_fox_1;Fox
 uk_fv721_fox_2;Light tank
+uk_fv107_scimitar_shop;Scimitar
+uk_fv107_scimitar_0;F.V.107 | Combat Vehicle, Reconnaissance, Tracked, 30mm Gun, Scimitar
+uk_fv107_scimitar_1;Scimitar
+uk_fv107_scimitar_2;IFV
 uk_fv438_swingfire_shop;Swingfire
 uk_fv438_swingfire_0;Launcher, Guided Missile, Carrier Mounted, Full Tracked, Swingfire
 uk_fv438_swingfire_1;Swingfire
@@ -6882,6 +6926,10 @@ su_24m_shop;Su-24M2
 su_24m_0;izd. T-6M2 | Su-24M2
 su_24m_1;Su-24M2
 su_24m_2;Su-24
+su_34_shop;Su-34
+su_34_0;izd. T-10V | Su-34
+su_34_1;Su-34
+su_34_2;Su-34
 saab_j35a_shop;J 35 A-1
 saab_j35a_0;"Saab | Saab 35 | J 35 A-1 Draken ""Adam kort"""
 saab_j35a_1;J 35 A-1
@@ -9306,6 +9354,18 @@ fr_amx_32_105_shop;AMX 32 P1
 fr_amx_32_105_0;AMX 32 P1
 fr_amx_32_105_1;AMX 32
 fr_amx_32_105_2;MBT
+fr_leopard_2a4nl_shop;◘ Leopard 2A4NL
+fr_leopard_2a4nl_0;◘ Leopard 2A4NL-gevechtstank
+fr_leopard_2a4nl_1;◘ Leopard 2A4NL
+fr_leopard_2a4nl_2;MBT
+fr_leopard_2a5nl_shop;◘ Leopard 2A5NL
+fr_leopard_2a5nl_0;◘ Leopard 2A5NL-gevechtstank
+fr_leopard_2a5nl_1;◘ Leopard 2A5NL
+fr_leopard_2a5nl_2;MBT
+fr_leopard_2a6nl_shop;◘ Leopard 2A6NL
+fr_leopard_2a6nl_0;◘ Leopard 2A6NL-gevechtstank
+fr_leopard_2a6nl_1;◘ Leopard 2A6NL
+fr_leopard_2a6nl_2;MBT
 fr_amx_40_shop;AMX 40
 fr_amx_40_0;AMX 40
 fr_amx_40_1;AMX 40
@@ -9550,6 +9610,10 @@ il_merkava_mk_2d_shop;Merkavah Mk. 2B Baṭaš
 il_merkava_mk_2d_0;Merkavah Siman 2 Bet Baṭaš
 il_merkava_mk_2d_1;Merkavah Mk. 2
 il_merkava_mk_2d_2;MBT
+il_sabra_mk1_shop;Sabra Mk. 1
+il_sabra_mk1_0;Israeli Military Industries | Sabra Siman 1
+il_sabra_mk1_1;Sabra Mk. 1
+il_sabra_mk1_2;MBT
 uk_centurion_shot_kal_d_shop;▄ Shoṭ Ḳal D
 uk_centurion_shot_kal_d_0;▄ Shoṭ Ḳal Dalet
 uk_centurion_shot_kal_d_1;▄ Shoṭ Ḳal D
@@ -9930,6 +9994,10 @@ mi_24v_hungary_shop;◔ Mi-24V
 mi_24v_hungary_0;◔ izd. 242 | Mi-24V
 mi_24v_hungary_1;◔ Mi-24V
 mi_24v_hungary_2;◔ Mi-24
+super_hind_mk3_shop;SuperHind Mk. IV
+super_hind_mk3_0;Advanced Technology and Engineering | SuperHind Mk. IV
+super_hind_mk3_1;SuperHind Mk. IV
+super_hind_mk3_2;SuperHind
 mi_8tv_shop;Mi-8TB
 mi_8tv_0;Mi-8TB
 mi_8tv_1;Mi-8TB
@@ -9938,6 +10006,10 @@ mi_8amtsh_shop;Mi-8AMTŠ
 mi_8amtsh_0;Mi-8AMTŠ
 mi_8amtsh_1;Mi-8AMTŠ
 mi_8amtsh_2;Mi-8
+mi_8amtsh_vn_shop;Mi-8AMTŠ-VN
+mi_8amtsh_vn_0;Mi-8AMTŠ-VN
+mi_8amtsh_vn_1;Mi-8AMTŠ
+mi_8amtsh_vn_2;Mi-8
 mi_24a_shop;Mi-24A
 mi_24a_0;Mi-24A
 mi_24a_1;Mi-24A
@@ -10422,6 +10494,10 @@ f_15c_baz_msip_shop; F-15C-40-MC (MSIP II)
 f_15c_baz_msip_0; F-15C-40-MC Baz Mshupar (Multistage Improvement Program II)
 f_15c_baz_msip_1; F-15C
 f_15c_baz_msip_2; F-15
+f_15i_raam_shop; F-15I
+f_15i_raam_0; F-15I Ra'am
+f_15i_raam_1; F-15I
+f_15i_raam_2; F-15
 f_16a_block_15_adf_italy_shop;⛨ F-16A-15ADF-CF
 f_16a_block_15_adf_italy_0;⛨ F-16A-15ADF-CF Fighting Falcon
 f_16a_block_15_adf_italy_1;⛨ F-16A
@@ -10495,27 +10571,31 @@ swift_f7_0;Swift F. Mk. 7
 swift_f7_1;Swift F. Mk. 7
 swift_f7_2;Swift
 tornado_gr1_shop;▄ Tornado G.R. Mk. 1
-tornado_gr1_0;▄ Tornado G.R. Mk. 1 (Batch 1) (February 1991)
+tornado_gr1_0;▄ Panavia | Tornado G.R. Mk. 1 (Batch 1) (February 1991)
 tornado_gr1_1;▄ Tornado G.R. Mk. 1
 tornado_gr1_2;▄ Tornado
+tornado_gr4_shop;▄ Tornado G.R. Mk. 4
+tornado_gr4_0;▄ Panavia / BAE Systems | Tornado G.R. Mk. 4
+tornado_gr4_1;▄ Tornado G.R. Mk. 4
+tornado_gr4_2;▄ Tornado
 tornado_ids_it_shop;A-200
-tornado_ids_it_0;A-200 Tornado
+tornado_ids_it_0;Panavia | A-200 Tornado
 tornado_ids_it_1;A-200
 tornado_ids_it_2;A-200
 tornado_ids_it_mod95_shop;A-200A
-tornado_ids_it_mod95_0;A-200A Tornado (Batch 2) (1995)
+tornado_ids_it_mod95_0;Panavia | A-200A Tornado (Batch 2) (1995)
 tornado_ids_it_mod95_1;A-200A
 tornado_ids_it_mod95_2;A-200
 tornado_f3_shop;▄ Tornado F. Mk. 3
-tornado_f3_0;▄ Tornado F. Mk. 3 (Batch 2)
+tornado_f3_0;▄ Panavia | Tornado F. Mk. 3 (Batch 2)
 tornado_f3_1;▄ Tornado F. Mk. 3
 tornado_f3_2;▄ Tornado
 tornado_f3_late_shop;▄ Tornado F. Mk. 3 (AOP)
-tornado_f3_late_0;▄ Tornado F. Mk. 3 (AMRAAM Optimisation Programme)
+tornado_f3_late_0;▄ Panavia | Tornado F. Mk. 3 (AMRAAM Optimisation Programme)
 tornado_f3_late_1;▄ Tornado F. Mk. 3
 tornado_f3_late_2;▄ Tornado
 tornado_adv_shop;⛨ Tornado F. Mk. 3
-tornado_adv_0;⛨ Tornado F. Mk. 3 (Batch 2)
+tornado_adv_0;⛨ Panavia | Tornado F. Mk. 3 (Batch 2)
 tornado_adv_1;⛨ Tornado F. Mk. 3
 tornado_adv_2;⛨ Tornado
 harrier_gr1_shop;Harrier G.R. Mk. 1
@@ -10546,6 +10626,10 @@ av_8b_plus_italy_shop;⛨ AV-8B Plus
 av_8b_plus_italy_0;⛨ AV-8B Harrier II Plus
 av_8b_plus_italy_1;⛨ AV-8B
 av_8b_plus_italy_2;⛨ AV-8
+av_8s_thailand_shop;B.KhJ.1k
+av_8s_thailand_0;B.KhJ.1k
+av_8s_thailand_1;B.KhJ.1k
+av_8s_thailand_2;B.KhJ.1
 amx_shop;A-11B
 amx_0;A-11B Ghibli
 amx_1;A-11B
@@ -10982,6 +11066,10 @@ cn_plz_83_shop;PLZ83
 cn_plz_83_0;China North Industries Corporation | WZ321 | PLZ1983
 cn_plz_83_1;PLZ83
 cn_plz_83_2;SPG
+cn_plz_05_shop;PLZ05
+cn_plz_05_0;PLZ05 zìxíngjiā liúpào
+cn_plz_05_1;PLZ05
+cn_plz_05_2;SPH
 cn_ptz_89_shop;PTZ89
 cn_ptz_89_0;China North Industries Corporation | WZ371 | PTZ1989
 cn_ptz_89_1;PTZ89
@@ -13462,6 +13550,26 @@ jp_battlecruiser_amagi_shop;Amagi
 jp_battlecruiser_amagi_0;Amagi gata (B-64) | Amagi
 jp_battlecruiser_amagi_1;Amagi
 jp_battlecruiser_amagi_2;Battlecruiser
+ussr_cruiser_omaha_class_murmansk_shop;Murmansk
+ussr_cruiser_omaha_class_murmansk_0;Todd Dry Dock and Construction Company | Omakha-klass | Murmansk
+ussr_cruiser_omaha_class_murmansk_1;Murmansk
+ussr_cruiser_omaha_class_murmansk_2;Light Cruiser
+ussr_pr253l_shop;Pr. 253L
+ussr_pr253l_0;Proyekt 253L
+ussr_pr253l_1;Pr. 253L
+ussr_pr253l_2;Minesweeper
+it_ms444_shop;MS 444
+it_ms444_0;MS 444
+it_ms444_1;MS 444
+it_ms444_2;MTB
+fr_battleship_dunkerque_shop;Dunkerque
+fr_battleship_dunkerque_0;Dunkerque-class, Dunkerque, 1939
+fr_battleship_dunkerque_1;Dunkerque
+fr_battleship_dunkerque_2;Battleship
+uk_battlecruiser_repulse_shop;HMS Repulse (34)
+uk_battlecruiser_repulse_0;Renown-class, HMS Repulse (34), 1941
+uk_battlecruiser_repulse_1;HMS Repulse
+uk_battlecruiser_repulse_2;Battlecruiser
 sw_landsverk_ush_204_gk_shop;U SH 405 (204GK)
 sw_landsverk_ush_204_gk_0;Aktiebolaget Landsverk / Unimog | Landsverk Unimog SH Typ 405.110 (Oerlikon 204GK)
 sw_landsverk_ush_204_gk_2;SPAA
@@ -13485,8 +13593,12 @@ germ_boxer_3105_shop;Boxer (Cockerill 3105)
 germ_boxer_3105_0;ARTEC | ARTEC Boxer (Cockerill 3105)
 germ_boxer_3105_1;Boxer (Cockerill 3105)
 germ_boxer_3105_2;Light tank
-ussr_cruiser_omaha_class_murmansk_shop;Murmansk
-ussr_cruiser_omaha_class_murmansk_0;Todd Dry Dock and Construction Company | Omakha-klass | Murmansk
-ussr_cruiser_omaha_class_murmansk_1;Murmansk
-ussr_cruiser_omaha_class_murmansk_2;Light Cruiser
+germ_sppz2_luchs_a2_shop;SpPz Luchs A2
+germ_sppz2_luchs_a2_0;Spähpanzer Luchs A2
+germ_sppz2_luchs_a2_1;Luchs A2
+germ_sppz2_luchs_a2_2;IFV
+ussr_object_140_shop;Ob. 140
+ussr_object_140_0;"Ob""yekt 140"
+ussr_object_140_1;Ob. 140
+ussr_object_140_2;Medium tank
 SHIPS_LANG_KEEP_IT_ALWAYS_FIRST;

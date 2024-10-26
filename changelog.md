@@ -43,6 +43,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Dunkerque**
         - **HMS Repulse**
         - **Object 140**
+        - **BMP-2MD**
     - **Israeli Military Industries** added as the manufacturer for the **Sabra Mk. 1**.
     - **McDonnell Douglas Corporation** added as the manufacturer for the following vehicles:
         - **F-15A-18-MC (MSIP)**
@@ -72,9 +73,9 @@ All dates are listed in DD-MM-YYYY format.
         - The **Bf 109 C-1** (WTM) has had the War Thuder Mobile roundel added.
         - The **Su-34**'s long name has been changed to **izd. T-10V | Su-34**.
         - **F-117** renamed to **F-117A-1-LO (OCIP II)**. The long name has been changed to **F-117A-1-LO Nighthawk (Offensive Capability Improvement Program II)**.
-        - The **Leopard 2A4NL**'s long name has been changed to **Leopard 2A4NL-gevechtstank**
-        - The **Leopard 2A5NL**'s long name has been changed to **Leopard 2A5NL-gevechtstank**
-        - The **Leopard 2A6NL**'s long name has been changed to **Leopard 2A6NL-gevechtstank**
+        - The **Leopard 2A4NL**'s long name has been changed to **Krauss-Maffei Wegmann | Leopard 2A4NL-gevechtstank**
+        - The **Leopard 2A5NL**'s long name has been changed to **Krauss-Maffei Wegmann | Leopard 2A5NL-gevechtstank**
+        - The **Leopard 2A6NL**'s long name has been changed to **Krauss-Maffei Wegmann | Leopard 2A6NL-gevechtstank**
         - **Sabra Mk.I** renamed to **Sabra Mk. 1**. The long name has been changed to **Israeli Military Industries | Sabra Siman 1**.
         - **Super Hind** renamed to **SuperHind Mk. IV**. The long name has been changed to **Advanced Technology and Engineering | SuperHind Mk. IV**.
         - **Mi-8AMTSh-VN** renamed to **Mi-8AMTŠ-VN**.
@@ -86,6 +87,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Pr.253L** renamed to **Pr. 253L**. The long name has been changed to **Proyekt 253L**.
         - **HMS Repulse** renamed to **HMS Repulse (34)**.
         - **Object 140** renamed to **Ob. 140**. The long name has been changed to **Ob"yekt 140**.
+        - **BMP-2MD** renamed to **RPsv BMP-2MD**. The lone name has been changed to **Ps. 153 | Rynnäkköpanssarivaunu BMP-2MD**.
     - "▄", the roundel used for the UK and Italy, has been changed to "⛨" for the symbol on the WWII Italian flag. The UK still uses the original symbol. It only has been changed for Italy.
     - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me. It has not changed for the Spanish **M47E2** because that tank is using it as a Spanish roundel.
     - The **Tornado F. Mk. 3**'s (Italy) long name has been changed to **Tornado F. Mk. 3 (Batch 2)**.

@@ -92,6 +92,116 @@ All dates are listed in DD-MM-YYYY format.
     - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me. It has not changed for the Spanish **M47E2** because that tank is using it as a Spanish roundel.
     - The **Tornado F. Mk. 3**'s (Italy) long name has been changed to **Tornado F. Mk. 3 (Batch 2)**.
 
+### Weaponry:
+
+- #### Additions:
+
+    - Update "Firebirds" additions:
+        - **BT-20**
+        - **SB2500**
+        - **KAB-500Kr-M**
+        - **UPAB-1500B**
+        - **KAB-1500LG**
+        - **GBU-39**
+        - **EGBU-24B Paveway III**
+        - **Paveway IV**
+        - **GBU-32 JDAM**
+        - **AM-M66 2000 lb**
+        - **Drop tank (800 liters.)** (new entries and an old one that was missing)
+        - **Drop tank (3000 liters.)** (new one for the **Su-34**)
+        - **Grom-1**
+        - **Grom-2**
+        - **37 mm Type 98 cannon**
+        - **12.7 mm M2HB machine gun** (yet another one, this time for the **T77E1 MGMC**)
+        - **M.C. 250 lb**
+        - **PBXN-109**
+        - **AFX-757**
+        - **9M33A3**
+        - **7.62 mm Beretta MG42/59 machine gun** (another one)
+        - **Kord**
+        - **Hydra-70 M247** (another one)
+        - **ZT3A2 Ingwe**
+        - **9M33A3 SAM** (launcher for the **9M33M3**)
+        - **D-54TS**
+        - **D-54 APDS**
+        - **D-54 HE**
+        - **D-54 AP**
+        - **D-54 HEAT**
+        - **Rh202** (a new one for the **Luchs A2**)
+        - **330 mm/52 model 1931**
+        - **330 mm OEA Mle 1935 HE**
+        - **330 mm OPF Mle 1935 SAPCBC**
+        - **130 mm/45 model 1932**
+        - **130 mm OEA Mle 1934 HE** (2 seperate ones)
+        - **130 mm OPF Mle 1933 SAP**
+        - **PL05**
+        - **DDB03-155**
+        - **BES7-155 (VT)**
+        - **BEA1-155**
+        - **2A42** (the **RPsv BMP-2MD**'s cannon)
+    - Caliber and type tags have been added to the following guns:
+        - **BT-20**
+        - **Browning Machine Gun, Caliber .50, HB, M2**
+        - **Kord**
+        - **XM150E6**
+        - **D-54TS**
+        - **2A42**
+    - Type tags have been added to the following missiles:
+        - **Kh-36 (A)**
+        - **9M33M3**
+    - Mass and type tags have been added to the following bombs:
+        - **SB 2500**
+        - **KAB-500Kr-M**
+        - **UPAB-1500B**
+        - **KAB-1500LG**
+        - **GBU-39/B**
+        - **GBU-24E/B**
+        - **Paveway Mk. IV**
+        - **GBU-32(V)1/B**
+        - **AN/M66A2**
+        - **Kh-36 (A1)**
+    - Volume and type tags have been added to the following fuel tanks:
+        - **FYX800B**
+        - **FYX1400E**
+        - **FYX1700**
+        - **PTB-3000**
+    - Type tags have been added to the following launchers:
+        - **9K33M3**
+    - Added the **XM150E6** (this isn't actually a "Firebirds" change, this happened ages ago and I forgot to add it; there's a whole thing with the **XM803**'s gun but I'll deal with that later).
+
+- #### Changes:
+
+    - Update "Firebirds" changes:
+        - **20 mm BT-20 cannon** renamed to **BT-20**.
+        - **2500 kg SB2500 bomb** renamed to **SB 2500**.
+        - **500 kg KAB-500Kr-M bomb** renamed to **KAB-1500Kr-M**.
+        - **1500 kg UPAB-1500B bomb** renamed to **UPAB-1500B**.
+        - **1500 kg KAB-1500LG bomb** renamed to **KAB-1500LG**.
+        - **GBU-39/B (SDB I) guided bomb** renamed to **Bomb, Guided, GBU-39/B Small Diameter Bomb I**.
+        - **EGBU-24B Paveway III guided bomb** renamed to **Bomb, Guided, GBU-24E/B Paveway III**.
+        - **Paveway IV guided bomb** renamed to **Paveway Mk. IV**.
+        - **GBU-32 JDAM guided bomb** renamed to **Bomb, Guided, GBU-32(V)1/B Joint Direct Attack Munition**.
+        - **2000 lb AN-M66A2 bomb** renameed to **Bomb, 2000lb, GP, AN/M66A2**.
+        - **Drop tank (800 liters.)** (Chinese one) renamed to **FYX800B**. The long name has been changed to **FYX800B fùyóuxiāng**.
+        - **Drop tank (3000 liters.)** (new one for the **Su-34**) renamed to **PTB-3000**.
+        - **Grom-1** renamed to **Kh-36 (A)**. The long name has been changed to **9-A-7759 | Kh-36 "Grom-E1"**.
+        - **Grom-2** renamed to **Kh-36 (A1)**. The long name has been changed to **9-A1-7759 | Kh-36 "Grom-E2"**.
+        - **12.7 mm M2HB machine gun** (the new one for the **T77E1 MGMC**) renamed to **Browning Machine Gun, Caliber .50, HB, M2**.
+        - **9M33A3** renamed to **9M33M3**.
+        - **Kord** renamed to **Kord-T**. The long name has been changed to **6P49 | Kord-T**.
+        - **9M33A3 SAM** renamed to **9K33M3**.
+        - **100 mm D-54TS cannon** renamed to **2A24 | U-8TS | D-54TS**.
+        - **155 mm PL05 cannon** renamed to **PL2005 155 háomi jiānóng liúdànpào**.
+        - **30 mm 2A42 cannon** renamed to **2A42**.
+    - **GBU-38** (USAF variant) renamed to **GBU-38(V)1/B**. The long name has been changed to **Bomb, Guided, GBU-38(V)1/B Joint Direct Attack Munition**. Its mass tag has been corrected to 253.1 kg.
+    - **GBU-38** (USN variant) renamed to **GBU-38(V)2/B**. The long name has been changed to **Bomb, Guided, GBU-38(V)2/B Joint Direct Attack Munition**. Its mass tag has been corrected to 253.1 kg.
+    - The **GBU-31(V)1/B**'s long name has been changed to **Bomb, Guided, GBU-31(V)1/B Joint Direct Attack Munition**.
+    - The **GBU-31(V)2/B**'s long name has been changed to **Bomb, Guided, GBU-31(V)2/B Joint Direct Attack Munition**.
+    - The **Bomb, 2000lb, GP, AN/M66A1** has had its short name corrected to **AN/M66A1**. Its mass tag has been corrected to 996.3 kg.
+    - **Drop tank (1600 L)** (Chinese one) renamed to **FYX1700**. The long name has been changed to **FYX1700 fùyóuxiāng**. It's called the **FYX1700** instead of the **FYX1600** because Gaijin modeled it incorrectly and it should be 1700 L.
+    - **Drop tank (1400 L)** (Chinese one) renamed to **FYX1400E**. The long name has been changed to **FYX1400E fùyóuxiāng**.
+    - **152 mm XM150E6 gun/launcher** renamed to **Gun-Launcher, 152mm, XM150E6**.
+
 ### Version:
 
 - #### Additions:

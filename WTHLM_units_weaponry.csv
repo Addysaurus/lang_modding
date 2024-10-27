@@ -137,6 +137,7 @@ weapons/cannonB20;<color=@userlogColoredText>20 mm</color> B-20 <color=#ff6f00>A
 weapons/cannonB20S;<color=@userlogColoredText>20 mm</color> B-20S <color=#ff6f00>ACNN</color>
 weapons/cannonB20M;<color=@userlogColoredText>20 mm</color> B-20M <color=#ff6f00>ACNN</color>
 weapons/cannonB20_turret;<color=@userlogColoredText>20 mm</color> B-20E <color=#ff6f00>ACNN</color>
+weapons/cannonBT20_turret;<color=@userlogColoredText>20 mm</color> BT-20 <color=#ff6f00>ACNN</color>
 weapons/gunShKAS;<color=@userlogColoredText>7.62 mm</color> 56-P-426 | ŠKAS <color=#ff6f00>MG</color>
 weapons/gunShKAS_turret;<color=@userlogColoredText>7.62 mm</color> 56-P-426T | ŠKAS <color=#ff6f00>MG</color>
 weapons/cannonShVAK;<color=@userlogColoredText>20 mm</color> 56-P-113 | ŠVAK-20 <color=#ff6f00>ACNN</color>
@@ -209,6 +210,8 @@ weapons/de_250_matra_25e;250 kg Matra 25E bomb
 weapons/de_250_matra_25e/short;250 kg Matra 25E
 weapons/de_sc2500;2500 kg SC2500 bomb
 weapons/de_sc2500/short;SC2500
+weapons/de_sb2500;<color=@userlogColoredText>2500 kg</color> SB 2500 <color=#ff6f00>BMB</color>
+weapons/de_sb2500/short;SB 2500
 weapons/fr_50kg_type_61c;50 kg Type 61C
 weapons/fr_50kg_type_61c/short;Type 61C
 weapons/fr_750lb_m117_cone_90;<color=@userlogColoredText>362.42 kg</color> Bomb, 750lb, GP, M117 <color=#ff6f00>BMB</color>
@@ -430,6 +433,8 @@ weapons/su_kab_50l;<color=@userlogColoredText>50 kg</color> KAB-50L <color=#ff6f
 weapons/su_kab_50l/short;KAB-50L
 weapons/su_kab_500kr;<color=@userlogColoredText>520 kg</color> KAB-500Kr Dyegustator <color=#ff6f00>BMB-TV</color>
 weapons/su_kab_500kr/short;KAB-500Kr
+weapons/su_kab_500kr_m;<color=@userlogColoredText>520 kg</color> KAB-500Kr-M <color=#ff6f00>BMB-TV</color>
+weapons/su_kab_500kr_m/short;KAB-500Kr-M
 weapons/su_kab_500kr_e;<color=@userlogColoredText>520 kg</color> KAB-500Kr-E <color=#ff6f00>BMB-TV</color>
 weapons/su_kab_500kr_e/short;KAB-500Kr-E
 weapons/su_kab_500s;<color=@userlogColoredText>500 kg</color> KAB-500S-È <color=#ff6f00>BMB-GNSS</color>
@@ -438,8 +443,12 @@ weapons/su_kab_500l;<color=@userlogColoredText>560 kg</color> KAB-500L-F-E <colo
 weapons/su_kab_500l/short;KAB-500L-F-E
 weapons/su_kab_1500kr;<color=@userlogColoredText>1525 kg</color> KAB-1500Kr <color=#ff6f00>BMB-EO</color>
 weapons/su_kab_1500kr/short;KAB-1500Kr
+weapons/su_upab_1500b;<color=@userlogColoredText>1525 kg</color> UPAB-1500B <color=#ff6f00>BMB-GNSS</color>
+weapons/su_upab_1500b/short;UPAB-1500B
 weapons/su_kab_1500l;<color=@userlogColoredText>1525 kg</color> KAB-1500L <color=#ff6f00>BMB-LG</color>
 weapons/su_kab_1500l/short;KAB-1500L
+weapons/su_kab_1500lg;<color=@userlogColoredText>1525 kg</color> KAB-1500LG <color=#ff6f00>BMB-LG</color>
+weapons/su_kab_1500lg/short;KAB-1500LG
 weapons/fr_bgl_400;<color=@userlogColoredText>400 kg</color> BGL-400 <color=#ff6f00>BMB-LG</color>
 weapons/fr_bgl_400/short;BGL-400
 weapons/fr_bgl_1000;<color=@userlogColoredText>970 kg</color> BGL-1000 <color=#ff6f00>BMB-LG</color>
@@ -468,8 +477,14 @@ weapons/us_gbu_10_paveway_2;<color=@userlogColoredText>957 kg</color> Bomb, Guid
 weapons/us_gbu_10_paveway_2/short;GBU-10/B
 weapons/us_2000lb_gbu_24;<color=@userlogColoredText>907 kg</color> Bomb, Guided, GBU-24/B Paveway III <color=#ff6f00>BMB-LG</color>
 weapons/us_2000lb_gbu_24/short;GBU-24/B
+weapons/us_gbu_39;<color=@userlogColoredText>121.56 kg</color> Bomb, Guided, GBU-39/B Small Diameter Bomb I <color=#ff6f00>BMB-GNSS</color>
+weapons/us_gbu_39/short;GBU-39/B
 weapons/us_agm_123;Guided Missile, Air to Surface, AGM-123A Skipper II <color=#ff6f00>AGM-LG</color>
 weapons/us_agm_123/short;AGM-123A
+weapons/us_2000lb_egbu_24_paveway_3;<color=@userlogColoredText>1050 kg</color> Bomb, Guided, GBU-24E/B Paveway III <color=#ff6f00>BMB-LG</color>
+weapons/us_2000lb_egbu_24_paveway_3/short;GBU-24E/B
+weapons/uk_paveway_iv;<color=@userlogColoredText>277.14 kg</color> Paveway Mk. IV <color=#ff6f00>BMB-LG</color>
+weapons/uk_paveway_iv/short;Paveway Mk. IV
 weapons/fr_mk18;Mk. 18 guided bomb
 weapons/fr_mk18/short;Mk. 18
 weapons/fr_mk13;Mk. 13 guided bomb
@@ -482,14 +497,16 @@ weapons/us_2000lb_gbu_15v2;<color=@userlogColoredText>907 kg</color> Bomb, Guide
 weapons/us_2000lb_gbu_15v2/short;GBU-15(V)2/B
 weapons/us_2000lb_gbu_8_hobos;<color=@userlogColoredText>907 kg</color> Bomb, Guided, GBU-8/B <color=#ff6f00>BMB-TV</color>
 weapons/us_2000lb_gbu_8_hobos/short;GBU-8/B
-weapons/us_500lb_gbu38_usaf;<color=@userlogColoredText>254 kg</color> Bomb, Guided, GBU-38 JDAM <color=#ff6f00>BMB-GNSS</color>
-weapons/us_500lb_gbu38_usaf/short;GBU-38
-weapons/us_500lb_gbu38_usnavy;<color=@userlogColoredText>254 kg</color> Bomb, Guided, GBU-38 JDAM <color=#ff6f00>BMB-GNSS</color>
-weapons/us_500lb_gbu38_usnavy/short;GBU-38
-weapons/us_2000lb_gbu31_usaf;<color=@userlogColoredText>893.6 kg</color> Bomb, Guided, GBU-31(V)1/B JDAM <color=#ff6f00>BMB-GNSS</color>
+weapons/us_500lb_gbu38_usaf;<color=@userlogColoredText>253.1 kg</color> Bomb, Guided, GBU-38(V)1/B Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS</color>
+weapons/us_500lb_gbu38_usaf/short;GBU-38(V)1/B
+weapons/us_500lb_gbu38_usnavy;<color=@userlogColoredText>253.1 kg</color> Bomb, Guided, GBU-38(V)2/B Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS</color>
+weapons/us_500lb_gbu38_usnavy/short;GBU-38(V)2/B
+weapons/us_2000lb_gbu31_usaf;<color=@userlogColoredText>893.6 kg</color> Bomb, Guided, GBU-31(V)1/B Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS</color>
 weapons/us_2000lb_gbu31_usaf/short;GBU-31(V)1/B
-weapons/us_2000lb_gbu31_usnavy;<color=@userlogColoredText>893.6 kg</color> Bomb, Guided, GBU-31(V)2/B JDAM <color=#ff6f00>BMB-GNSS</color>
+weapons/us_2000lb_gbu31_usnavy;<color=@userlogColoredText>893.6 kg</color> Bomb, Guided, GBU-31(V)2/B Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS</color>
 weapons/us_2000lb_gbu31_usnavy/short;GBU-31(V)2/B
+weapons/us_1000lb_gbu32_usaf;<color=@userlogColoredText>446.8 kg</color> Bomb, Guided, GBU-32(V)1/B Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS</color>
+weapons/us_1000lb_gbu32_usaf/short;GBU-32(V)1/B
 weapons/us_agm_62a_er;<color=@userlogColoredText>510.3 kg</color> AGM-62A Walleye I ER <color=#ff6f00>BMB-TV</color>
 weapons/us_agm_62a_er/short;AGM-62A ER
 weapons/us_agm_62a;<color=@userlogColoredText>505.53 kg</color> AGM-62A Walleye I <color=#ff6f00>BMB-TV</color>
@@ -519,7 +536,10 @@ weapons/uk_2000lb_ap_mkI;2000 LB A.P. Mk.I bomb
 weapons/uk_2000lb_ap_mkI/short;2000 lb
 weapons/uk_mk2_cookie;H.C. 4000 lb Mk. II bomb
 weapons/us_1000lb_anm65_cone;<color=@userlogColoredText>546.5 kg</color> Bomb, 1000lb, GP, AN/M65A1 (M129) <color=#ff6f00>BMB</color>
-weapons/us_2000lbs_anm66;<color=@userlogColoredText>996.27 kg</color> Bomb, 2000lb, GP, AN/M66A1 <color=#ff6f00>BMB</color>
+weapons/us_2000lbs_anm66;<color=@userlogColoredText>996.3 kg</color> Bomb, 2000lb, GP, AN/M66A1 <color=#ff6f00>BMB</color>
+weapons/us_2000lbs_anm66/short;AN/M66A1
+weapons/us_2000lbs_anm66_cone;<color=@userlogColoredText>996.3 kg</color> Bomb, 2000lb, GP, AN/M66A2 <color=#ff6f00>BMB</color>
+weapons/us_2000lbs_anm66_cone/short;AN/M66A2
 weapons/us_1600lb_ap_an_mk1;<color=@userlogColoredText>721.21 kg</color> Bomb, 1600lb, AP, AN/Mk 1 <color=#ff6f00>BMB-AP</color>
 weapons/us_1600lb_ap_an_mk1/short;AN/Mk 1
 weapons/us_1600lb_ap_an_mk1_45;<color=@userlogColoredText>721.21 kg</color> Bomb, 1600lb, AP, AN/Mk 1 <color=#ff6f00>BMB-AP</color>
@@ -756,6 +776,14 @@ weapons/gr_1500l_tornado_assta1_1;Drop tank (1500 L)
 weapons/gr_1500l_tornado_assta1_1/short;Drop tank
 weapons/cn_800l_fyx800_drop_tank_1;Drop tank (800 L)
 weapons/cn_800l_fyx800_drop_tank_1/short;Drop tank
+weapons/cn_800l_central_fyx800_drop_tank;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_800l_central_fyx800_drop_tank/short;FYX800B
+weapons/cn_800l_fyx800_drop_tank_2;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_800l_fyx800_drop_tank_2/short;FYX800B
+weapons/cn_800l_fyx800_j_10_drop_tank_1;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_800l_fyx800_j_10_drop_tank_1/short;FYX800B
+weapons/cn_800l_fyx800_j_10_drop_tank_2;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_800l_fyx800_j_10_drop_tank_2/short;FYX800B
 weapons/gr_1500l_tornado_assta1_2;Drop tank (1500 L)
 weapons/gr_1500l_tornado_assta1_2/short;Drop tank
 weapons/gr_1500l_tornado_ids_mfg_1;Drop tank (1500 L)
@@ -918,20 +946,20 @@ weapons/cn_1140l_drop_tank_1;Drop tank (1140 L)
 weapons/cn_1140l_drop_tank_1/short;Drop tank
 weapons/cn_1140l_drop_tank_2;Drop tank (1140 L)
 weapons/cn_1140l_drop_tank_2/short;Drop tank
-weapons/cn_1400l_fyx1400_drop_tank_1;Drop tank (1400 L)
-weapons/cn_1400l_fyx1400_drop_tank_1/short;Drop tank
-weapons/cn_1400l_fyx1400_drop_tank_2;Drop tank (1400 L)
-weapons/cn_1400l_fyx1400_drop_tank_2/short;Drop tank
-weapons/cn_1400l_fyx1400_drop_tank_3;Drop tank (1400 L)
-weapons/cn_1400l_fyx1400_drop_tank_3/short;Drop tank
-weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank;Drop tank (1400 L)
-weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank/short;Drop tank
-weapons/cn_1600l_drop_tank;Drop tank (1600 L)
-weapons/cn_1600l_drop_tank/short;Drop tank
-weapons/cn_1600l_drop_tank_1;Drop tank (1600 L)
-weapons/cn_1600l_drop_tank_1/short;Drop tank
-weapons/cn_1600l_drop_tank_2;Drop tank (1600 L)
-weapons/cn_1600l_drop_tank_2/short;Drop tank
+weapons/cn_1400l_fyx1400_drop_tank_1;<color=@userlogColoredText>1400 L</color> FYX1400E fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1400l_fyx1400_drop_tank_1/short;FYX1400E
+weapons/cn_1400l_fyx1400_drop_tank_2;<color=@userlogColoredText>1400 L</color> FYX1400E fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1400l_fyx1400_drop_tank_2/short;FYX1400E
+weapons/cn_1400l_fyx1400_drop_tank_3;<color=@userlogColoredText>1400 L</color> FYX1400E fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1400l_fyx1400_drop_tank_3/short;FYX1400E
+weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank;<color=@userlogColoredText>1400 L</color> FYX1400E fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank/short;FYX1400E
+weapons/cn_1600l_drop_tank;<color=@userlogColoredText>1600 L</color> FYX1700 fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1600l_drop_tank/short;FYX1700
+weapons/cn_1600l_drop_tank_1;<color=@userlogColoredText>1600 L</color> FYX1700 fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1600l_drop_tank_1/short;FYX1700
+weapons/cn_1600l_drop_tank_2;<color=@userlogColoredText>1600 L</color> FYX1700 fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1600l_drop_tank_2/short;FYX1700
 weapons/fr_1200l_rp35_drop_tank_1;Drop tank (1200 L)
 weapons/fr_1200l_rp35_drop_tank_1/short;Drop tank
 weapons/fr_1200l_rp35_drop_tank_2;Drop tank (1200 L)
@@ -1030,6 +1058,12 @@ weapons/su_su24m_3000l_drop_tank_left;Drop tank (3000 L)
 weapons/su_su24m_3000l_drop_tank_left/short;Drop tank
 weapons/su_su24m_3000l_drop_tank_right;Drop tank (3000 L)
 weapons/su_su24m_3000l_drop_tank_right/short;Drop tank
+weapons/su_su34_3000l_drop_tank;<color=@userlogColoredText>3000 L</color> PTB-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank/short;PTB-3000
+weapons/su_su34_3000l_drop_tank_left;<color=@userlogColoredText>3000 L</color> PTB-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank_left/short;PTB-3000
+weapons/su_su34_3000l_drop_tank_right;<color=@userlogColoredText>3000 L</color> PTB-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank_right/short;PTB-3000
 weapons/cn_800l_rx3_drop_tank;Drop tank (800 L)
 weapons/cn_800l_rx3_drop_tank/short;Drop tank
 weapons/cn_1100l_rx3_drop_tank_1;Drop tank (1100 L)
@@ -1045,6 +1079,10 @@ weapons/su_kh_25_haslaserchannel;Kh-25 <color=#ff6f00>AGM-LG</color>
 weapons/su_kh_25_haslaserchannel/short;Kh-25
 weapons/su_kh_29l;Kh-29L <color=#ff6f00>AGM-LG</color>
 weapons/su_kh_29l/short;Kh-29L
+weapons/su_grom_1;"9-A-7759 | Kh-36 ""Grom-E1"" <color=#ff6f00>AGM-GNSS</color>"
+weapons/su_grom_1/short;Kh-36 (A)
+weapons/su_grom_2;<color=@userlogColoredText>598 kg</color> "9-A1-7759 | Kh-36 ""Grom-E2"" <color=#ff6f00>BMB-GNSS</color>"
+weapons/su_grom_2/short;Kh-36 (A1)
 weapons/su_kh_25mr;Kh-25MR <color=#ff6f00>AGM-RG</color>
 weapons/su_kh_25mr/short;Kh-25MR
 weapons/su_kh_29l_notlaserchannel;Kh-29L <color=#ff6f00>AGM-LG</color>
@@ -1219,6 +1257,7 @@ weapons/cannonHo155;30 mm Ho-155 cannon
 weapons/cannonHo203;37 mm Ho-203 cannon
 weapons/cannonHo204;37 mm Ho-204 cannon
 weapons/cannonType94;37 mm Type 94 cannon
+weapons/cannonType98;37 mm Type 98 cannon
 weapons/cannonHo5;20 mm Ho-5 cannon
 weapons/cannonHo5_turret;20 mm Ho-5 cannon
 weapons/cannonHo401;57 mm Ho-401 cannon
@@ -1510,6 +1549,7 @@ weapons/12_7mm_M2_HB_user_machinegun_for_leclerc;MIT 12.7 CRC F1
 weapons/12_7mm_sMG_50_user_machinegun;12.7 mm s.MG.50 machine gun
 weapons/12_7mm_Ksp_m88_user_machinegun;12.7 mm ksp 88 machine gun
 weapons/7_62mm_ksp_m94_user_machinegun;7.62 mm ksp 94 machine gun
+weapons/12_7mm_m2_hb_t77e1_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Browning Machine Gun, Caliber .50, HB, M2 <color=#ff6f00>MG</color>
 weapons/12_7mm_M2_HB_user_machinegun_for_M15;<color=@userlogColoredText>12.7 mm</color> Browning Machine Gun, Caliber .50, HB, M2 <color=#ff6f00>MG</color>
 weapons/7_7mm_Vikkers_user_machinegun;7.7 mm Vickers machine gun
 weapons/7_7mm_vickers_go_no5_naval_user_machinegun;7.7 mm Vickers GO No.5 machine gun
@@ -2307,9 +2347,11 @@ weapons/cannonPTB23;23 mm PTB-23 cannon
 weapons/uk_250lbs_late;G.P. 250 lb Mk. IV bomb
 weapons/uk_500lbs_43;G.P. 500 lb Mk. IV bomb
 weapons/uk_250lbs_mc_mk1_mk2_bomb;M.C. 250 lb Mk. I bomb
-weapons/uk_250lbs_mc_mk1_mk2_bomb/short;250 lb
+weapons/uk_250lbs_mc_mk1_mk2_bomb/short;M.C. 250 lb
+weapons/uk_250lbs_mc_mk1_mk2_bomb_default;M.C. 250 lb Mk.I bomb
+weapons/uk_250lbs_mc_mk1_mk2_bomb_default/short;M.C. 250 lb
 weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb;M.C. 500 lb Mk. I bomb
-weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb/short;500 lb
+weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb/short;M.C. 500 lb
 weapons/uk_1000lbs_mc_mk1_mk2_bomb;M.C. 1000 lb Mk. I bomb
 weapons/uk_1000lbs_mc_mk1_mk2_bomb/short;1000 lb
 weapons/cannonADEN;<color=@userlogColoredText>30 mm</color> ADEN <color=#ff6f00>ACNN</color>
@@ -2388,6 +2430,7 @@ explosiveType/tnt;TNT
 explosiveType/tetryl;Tetryl
 explosiveType/tritonal;Tritonal
 explosiveType/pbxn_110;PBXN-110
+explosiveType/pbxn_109;PBXN-109
 explosiveType/pbxn_102;PBXN-102
 explosiveType/pbxn_5;PBXN-5
 explosiveType/pbxn_4;PBXN-4
@@ -2420,6 +2463,7 @@ explosiveType/minol;Minol
 explosiveType/okfol_20;OKFOL-20
 explosiveType/melinite;Melinite
 explosiveType/mn_f_dn;Melinite 80/20
+explosiveType/afx_757;AFX-757
 weapons/su_fab5000;5000 kg bomb FAB-5000
 20mm_oerlikon_he_t;HET
 20mm_oerlikon_he_i;HEI
@@ -2584,7 +2628,6 @@ weapons/us_1000lb_anm65_cone/short;AN/M65A1 (M129)
 weapons/us_1000lb_anm65a1/short;AN/M65A1
 weapons/us_1000lbs/short;AN/M65A1
 weapons/us_2000lbs/short;AN/M66A1
-weapons/us_2000lbs_anm66/short;AN/M66A2
 weapons/jp_mod25mark2/short;250 kg
 weapons/jp_mod50mark2/short;500 kg
 weapons/jp_mod80mark1/short;800 kg
@@ -2836,6 +2879,8 @@ weapons/110mm_Spike_kf_41_rocket_launchr_user_cannon/short;Spike-LR2
 120mm_9m37m;9M37M
 152mm_zur_9m311;9M311
 152mm_zur_9m311_1m;9M311-1M
+209mm_9m33m3;9M33M3 <color=#ff6f00>SAM-RG</color>
+209mm_9m33m3/short;9M33M3
 164mm_robot_52;Rb 52 A
 164mm_lfk_ss_11;LFK SS.11
 250kg_tt;TT-250
@@ -2903,6 +2948,7 @@ weapons/20mm_Breda_20_65_M35_user_cannon;20 mm Breda Mod.35 cannon
 weapons/20mm_Scotti_Isotta_20_70_M41_user_cannon;20 mm Scotti-IF 20/70 mod.41 cannon
 weapons/20mm_Breda_M35_L6_user_cannon;20 mm Breda Mod.35 cannon
 weapons/7_62mm_Beretta_MG42_59_user_machinegun;7.62 mm Beretta MG42/59 machine gun
+weapons/7_62mm_Beretta_MG42_59_600_user_machinegun;7.62 mm Beretta MG42/59 machine gun
 20mm_granata_m35;Granata mod.35
 20mm_perforante_m35;Perforante mod.35
 weapons/8mm_Breda_Mod37_user_machinegun;8 mm Breda mod.37 machine gun
@@ -3108,6 +3154,7 @@ weapons/30mm_2A38_user_cannon;<color=@userlogColoredText>30 mm</color> 2A38M <co
 weapons/30mm_2A38M_user_cannon;<color=@userlogColoredText>30 mm</color> 2A38M <color=#ff6f00>ACNN</color>
 weapons/30mm_2A38M1_user_cannon;<color=@userlogColoredText>30 mm</color> 2A38M <color=#ff6f00>ACNN</color>
 weapons/30mm_2A42_user_cannon;<color=@userlogColoredText>30 mm</color> 2A42 <color=#ff6f00>ACNN</color>
+weapons/30mm_2a42_md_user_cannon;<color=@userlogColoredText>30 mm</color> 2A42 <color=#ff6f00>ACNN</color>
 weapons/30mm_2A72_user_cannon;<color=@userlogColoredText>30 mm</color> 2A72 <color=#ff6f00>ACNN</color>
 weapons/30mm_2A72_BTR_user_cannon;<color=@userlogColoredText>30 mm</color> 2A72 <color=#ff6f00>ACNN</color>
 30mm_UBR6;30 mm APT
@@ -3124,6 +3171,8 @@ weapons/gunYaK_B;<color=@userlogColoredText>12.7 mm</color> ÂkB-12.7 <color=#ff
 weapons/gunYaK_B/short;ÂkB-12.7
 weapons/gunYaK_B_guv;<color=@userlogColoredText>12.7 mm</color> ÂkB-12.7 <color=#ff6f00>MG</color>
 weapons/gunYaK_B_guv/short;ÂkB-12.7
+weapons/gunKord;<color=@userlogColoredText>12.7 mm</color> 6P49V | Kord-V <color=#ff6f00>MG</color>
+weapons/gunKord/short;Kord-V
 weapons/gun_pkt;<color=@userlogColoredText>7.62 mm</color> 6P7 | PKT <color=#ff6f00>MG</color>
 weapons/gun_pkt/short;PKT
 weapons/gunTkb_481;<color=@userlogColoredText>12.7 mm</color> 9-A-016P | A-12.7 <color=#ff6f00>MG</color>
@@ -3177,6 +3226,8 @@ weapons/us_2_75_in_wafar_hydra;70 mm Hydra-70 rocket
 weapons/us_2_75_in_wafar_hydra/short;Hydra-70
 weapons/us_hydra_70_m247;70 mm Hydra-70 M247 rocket
 weapons/us_hydra_70_m247/short;Hydra-70 M247
+weapons/us_hydra_70_m247_default;70 mm Hydra-70 M247 rocket
+weapons/us_hydra_70_m247_default/short;Hydra-70 M247
 weapons/br_skyfire_70_he_m2;70 mm Skyfire-70 AC/AP rocket
 weapons/br_skyfire_70_he_m2/short;Skyfire-70 AC/AP
 weapons/uk_CRV7_m247;70 mm CRV7 M247 rocket
@@ -3278,6 +3329,8 @@ weapons/su_9M120M;9M120 Ataka missile
 weapons/su_9M120M/short;9M120 Ataka
 weapons/su_9M120M_laser_guided;9M120-1 Ataka missile
 weapons/su_9M120M_laser_guided/short;9M120-1 Ataka
+weapons/su_9M120M_laser_guided_default;9M120-1 Ataka missiles
+weapons/su_9M120M_laser_guided_default/short;9M120-1 Ataka
 weapons/us_AGM_22;AGM-22 <color=#ff6f00>AGM-WG</color>
 weapons/us_AGM_22/short;AGM-22
 130mm_of_482m;OF-482M
@@ -3666,6 +3719,8 @@ weapons/us_aim92_stinger_right;AIM-92A ATAS <color=#ff6f00>AAM-IR</color>
 weapons/us_aim92_stinger_right/short;AIM-92A
 weapons/zt_6_mokopa;ZT6 Mokopa <color=#ff6f00>AGM-LG</color>
 weapons/zt_6_mokopa/short;ZT6
+weapons/sa_zt_35_ingwe;ZT3A2 Ingwe air-to-ground missiles
+weapons/sa_zt_35_ingwe/short;ZT3A2 Ingwe
 weapons/euro_hot3;HOT-3 air-to-ground missile
 weapons/euro_hot3/short;HOT-3
 weapons/euro_atgw3;PARS 3 LR air-to-ground missile
@@ -3688,6 +3743,8 @@ weapons/us_agm_65h;Guided Missile, Air to Surface, AGM-65H <color=#ff6f00>AGM-CC
 weapons/us_agm_65h/short;AGM-65H
 weapons/us_agm_65l;Guided Missile, Air to Surface, AGM-65L <color=#ff6f00>AGM-LG</color>
 weapons/us_agm_65l/short;AGM-65L
+weapons/uk_brimstone_dm;Brimstone <color=#ff6f00>AGM-LG</color>
+weapons/uk_brimstone_dm/short;Brimstone
 weapons/su_9m133_kornet;9M133M-2 ATGM
 weapons/su_9m133_kornet/short;9M133M-2
 weapons/su_9m133fm3_kornet;9M133FM3 ATGM
@@ -3808,6 +3865,7 @@ weapons/90mm_90_F2_user_cannon;90 mm 90 F2 cannon
 weapons/cannonM230E1;30 mm M230E-1 cannon
 weapons/cannonM230E1/short;M230E-1
 weapons/120mm_IMI_MG251_user_cannon;<color=@userlogColoredText>120 mm</color> MG251 <color=#ff6f00>CNN</color>
+weapons/120mm_IMI_MG253_user_cannon;<color=@userlogColoredText>120 mm</color> MG253 <color=#ff6f00>CNN</color>
 30mm_pmc287;PMC287
 30mm_pmc308;PMC308
 35mm_pmd062;PMD062
@@ -4257,6 +4315,7 @@ weapons/130mm_Starstreak_hvm_launcher_user_cannon;Starstreak HVM SAM
 weapons/163mm_roland_2_launcher_user_cannon;Roland SAM <color=#ff6f00>LCH</color>
 weapons/163mm_roland_launcher_user_cannon;Roland SAM <color=#ff6f00>LCH</color>
 weapons/239mm_9M331_user_cannon;9M331 SAM
+weapons/209mm_9M33A3_launcher_user_cannon;9K33M3 <color=#ff6f00>LCH</color>
 weapons/163mm_vt_1_launcher_user_cannon;VT1 SAM
 weapons/163mm_roland_vt_1_launcher_user_cannon;Roland SAM <color=#ff6f00>LCH</color>
 165mm_vt_1;VT1
@@ -4343,6 +4402,7 @@ weapons/125mm_9M113/short;9M113
 weapons/100mm_D50_user_cannon;<color=@userlogColoredText>100 mm</color> D-50 <color=#ff6f00>CNN</color>
 weapons/152mm_XM150E5_KPz_user_cannon;<color=@userlogColoredText>152 mm</color> Gun-Launcher, 152mm, XM150E5 <color=#ff6f00>CNN-LCH</color>
 weapons/152mm_XM150E5_user_cannon;<color=@userlogColoredText>152 mm</color> Gun-Launcher, 152mm, XM150E5 <color=#ff6f00>CNN-LCH</color>
+weapons/152mm_XM150E6_user_cannon;<color=@userlogColoredText>152 mm</color> Gun-Launcher, 152mm, XM150E6 <color=#ff6f00>CNN-LCH</color>
 152mm_xm410e1;XM410E1
 152mm_mgm_61c;MGM-51C
 152mm_xm578e1;XM578E1
@@ -4690,6 +4750,11 @@ weapons/300mm_M31_rocket_launcher;300 mm M-31 rocket
 weapons/300mm_M31_rocket_launcher/short;M-31
 132mm_m_13;M-13
 300mm_m_31_uk;M-31-UK
+weapons/100mm_D54TS_user_cannon;<color=@userlogColoredText>100 mm</color> 2A24 | U-8TS | D-54TS <color=#ff6f00>CNN</color>
+100mm_d54ts_apds;D-54 APDS
+100mm_d54ts_he;D-54 HE
+100mm_d54ts_apcbc;D-54 AP
+100mm_d54ts_heat;D-54 HEAT
 weapons/100mm_D10T2S_user_cannon;<color=@userlogColoredText>100 mm</color> 52-PT-412D | D-10T2S <color=#ff6f00>CNN</color>
 weapons/100mm_D10T2S_fin_user_cannon;<color=@userlogColoredText>100 mm</color> 52-PT-412D | D-10T2S <color=#ff6f00>CNN</color>
 weapons/100mm_2A70_user_cannon;<color=@userlogColoredText>100 mm</color> 2A70 <color=#ff6f00>CNN</color>
@@ -4710,6 +4775,7 @@ weapons/20mm_GAI_CO1_user_cannon;20 mm GAI C01 cannon
 weapons/20mm_Rh_202_Wiesel_user_cannon;20 mm Rh202 cannon
 weapons/20mm_Rh_202_Marder_user_cannon;20 mm Rh202 cannon
 weapons/20mm_Rh_202_user_cannon;20 mm Rh202 cannon
+weapons/20mm_luchs_a2_user_cannon;20 mm Rh202 cannon
 20mm_dm63;DM 63
 20mm_dm43;DM 43
 20mm_dm51a1;DM 51 A1
@@ -5737,6 +5803,8 @@ weapons/75mm_50_model_1922_naval_user_cannon/short;75 mm/50 model 1922
 138mm_opfa1921_sap;138.6 mm OPF Mle 1921 SAPBC
 305mm_oea_mle1927_he;305 mm OEA Mle 1927 HE
 305mm_opf_mle1910_apc;305 mm OPF Mle 1910 APC
+weapons/330mm_52_model_1931_naval_user_cannon;330 mm/52 model 1931 gun
+weapons/330mm_52_model_1931_naval_user_cannon/short;330 mm/52 model 1931
 weapons/340mm_45_model_1912_naval_user_cannon;340 mm/45 model 1912 gun
 weapons/340mm_45_model_1912_naval_user_cannon/short;340 mm/45 model 1912
 340mm_oea_mle1926_he;340 mm OEA Mle 1926 HE
@@ -5776,6 +5844,10 @@ weapons/122mm_2A31_user_cannon;<color=@userlogColoredText>122 mm</color> 2A31 <c
 weapons/162mm_losat/short;MGM-166A
 weapons/162mm_MGM166_launcher_user_cannon;MGM-166A LOSAT Launch System <color=#ff6f00>LCH</color>
 weapons/155mm_CN98_user_cannon;155 mm CN98 cannon
+weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PL2005 155 háomi jiānóng liúdànpào <color=#ff6f00>CNN-HWZ</color>
+155mm_plz_05_he;DDB03-155
+155mm_plz_05_he_vt;BES7-155 (VT)
+155mm_bea_1;BEA1-155
 weapons/40mm_41M_user_cannon;40 mm MAVAG 41.M 40/51
 weapons/105mm_Mavag_40_43M_user_cannon;105 mm Mavag 40/43.M
 105mm_38_33m;105mm 38/33.M

@@ -271,6 +271,10 @@ modification/er-2_ach-30b_der-19-20;Der-19-20
 modification/er-2_ach-30b_der-19-20/desc;Allows instalation up to 1000 kg of bombs on external suspension.
 modification/tu-2_pkd-2;PKD-2
 modification/tu-2_pkd-2/desc;Allows installation up to 1000 kg of bombs.
+modification/der_19pk;DER-19PK
+modification/der_19pk/desc;Allows the installation of up to 1000 kg of bombs.
+modification/der_19u;DER-19U
+modification/der_19u/desc;Allows the installation of up to 1000 kg of bombs.
 modification/tu-2_td-44;TD-44
 modification/tu-2_td-44/desc;Allows installation of 2 torpedoes.
 modification/il2_mdz_42;MDZ-42
@@ -279,6 +283,8 @@ modification/su_fab_250m_43;FAB 250M-43
 modification/su_fab_250m_43/desc;Allows installation 250 kg of bombs.
 modification/su_fab_500m_43;FAB 500M-43
 modification/su_fab_500m_43/desc;Allows installation 500 kg of bombs.
+modification/su_fab_250_500;OFAB-250 / 250Š / FAB-250M-62 / 500M-62 / 500Š / ZB-500
+modification/su_fab_250_500/desc;Allows the installation of OFAB-250, OFAB-250Š, FAB-250M-62, FAB-500M-62, FAB-500Š, and ZB-500 bombs.
 modification/su_fab_1000m_43;FAB 1000M-43
 modification/su_fab_1000m_43/desc;Allows installation 1000 kg of bombs.
 modification/pe-2_dz-40;DZ-40
@@ -950,6 +956,8 @@ modification/mig_27_x29t/desc;Allows the installation of Kh-29T guided missiles.
 modification/mig_27_x29t;Kh-29T
 modification/su_fab_500_kab_500s/desc;Allows for the installation of FAB-500 bombs and KAB-500S-È GNSS-guided bombs.
 modification/su_fab_500_kab_500s;FAB-500 / KAB-500S-È
+modification/su_fab_1500_upab_1500/desc;Allows the installation of FAB-1500M-46 bombs and UPAB-1500B guided bombs.
+modification/su_fab_1500_upab_1500;FAB-1500M-46 / UPAB-1500B
 modification/su_24m2_fab_500_kab_500s/desc;Allows for the installation of FAB-500 bombs and KAB-500S-È GNSS-guided bombs.
 modification/su_24m2_fab_500_kab_500s;FAB-500 / KAB-500S-È
 modification/cn_ts_250/desc;Allows the installation of TS250 guided bombs.
@@ -1003,6 +1011,8 @@ modification/us_gbu_16/desc;Allows the installation of GBU-16/B guided bombs.
 modification/us_gbu_16;GBU-16/B
 modification/us_gbu_24/desc;Allows the installation of GBU-24/B guided bombs.
 modification/us_gbu_24;GBU-24/B
+modification/us_egbu_24/desc;Allows the installation of GBU-24E/B guided bombs.
+modification/us_egbu_24;GBU-24E/B
 modification/us_gbu_10/desc;Allows the installation of GBU-10/B guided bombs.
 modification/us_gbu_10;GBU-10/B
 modification/us_gbu_10_gbu_24/desc;Allows the installation of GBU-10/B and GBU-24/B guided bombs.
@@ -1013,6 +1023,10 @@ modification/us_agm_123/desc;Allows the installation of AGM-123A Skipper II lase
 modification/us_agm_123;AGM-123A
 modification/us_gbu_38/desc;Allows the installation of GBU-38 JDAM guided bombs.
 modification/us_gbu_38;GBU-38
+modification/us_gbu39/desc;Allows the installation of GBU-39/B guided bombs.
+modification/us_gbu39;GBU-39/B
+modification/uk_paveway_iv/desc;Allows the installation of Paveway Mk. IV guided bombs.
+modification/uk_paveway_iv;Paveway Mk. IV
 modification/br_lizard/desc;Allows the installation of Lizard guided bombs.
 modification/br_lizard;Lizard
 modification/fr_atlis2/desc;Allows the installation of an ATLIS II laser/electro-optical targeting pod.
@@ -1401,6 +1415,10 @@ modification/su_17_x25;Kh-25
 modification/su_17_x25/desc;Allows installation of Kh-25 guided missiles.
 modification/su_17_x29l;Kh-29L
 modification/su_17_x29l/desc;Allows installation of Kh-29L guided missiles.
+modification/su_x25l_29l;Kh-25ML / 29L
+modification/su_x25l_29l/desc;Allows the installation of Kh-25ML and Kh-29L guided missiles.
+modification/su_grom;Kh-36 (A) / (A1)
+modification/su_grom/desc;"Allows the installation of 9-A-7759 | Kh-36 ""Grom-E1"" guided missiles and 9-A1-7759 | Kh-36 ""Grom-E2"" guided bombs."
 modification/mig_21_x66;Kh-66
 modification/mig_21_x66/desc;Allows installation of Kh-66 guided missiles.
 modification/fr_as_30l;AS.30L
@@ -1604,6 +1622,8 @@ modification/il_28sh_s24;S-24
 modification/il_28sh_s24/desc;Allows installation of unguided S-24 rockets.
 modification/su_17_s25;S-25
 modification/su_17_s25/desc;Allows installation of unguided S-25 rockets.
+modification/su_s25_s13;S-13OF / 25O / LD
+modification/su_s25_s13/desc;Allows the installation of S-13OF and S-25O unguided rockets, and S-25LD guided rockets.
 modification/il_28sh_ub_16_57;UB-16-57
 modification/il_28sh_ub_16_57/desc;Allows installation of unguided S-5 rockets.
 modification/itc_500;ITC PVC/II
@@ -1985,6 +2005,10 @@ modification/cn_q5_type_250/desc;Allows installation of Type 250-2 250 kg bombs.
 modification/cn_q5_type_250;Type 250-2
 modification/cn_q5_type_500/desc;Allows installation of Type 500-3 500 kg bombs.
 modification/cn_q5_type_500;Type 500-3
+modification/cn_type_250_ls_6/desc;Allows the installation of Type 250 bombs and LS6 250 kg guided bombs.
+modification/cn_type_250_ls_6;Type 250 / LS6
+modification/cn_type_500_ls_6/desc;Allows the installation of Type 500 bombs and LS6 500 kg guided bombs.
+modification/cn_type_500_ls_6;Type 500 / LS6
 modification/su_17_ofab_100/desc;Allows installation of 100 kg bombs.
 modification/su_17_ofab_100;OFAB-100
 modification/mi_24_fab_250/desc;Allows installation of 250 kg bombs.
@@ -2379,6 +2403,8 @@ modification/MAW_system_heli_false_thermal_targets_large/desc;Missile approach w
 modification/MAW_system_heli_false_thermal_targets_large;MAW
 modification/PIDS_false_thermal_targets/desc;Missile approach warning system, allowing false heat target shoot off.
 modification/PIDS_false_thermal_targets;MAW
+modification/uk_terma_mcp_false_thermal_targets/desc;Missile approach warning system, allowing false heat target shoot off.
+modification/uk_terma_mcp_false_thermal_targets;MAW
 modification/Radar_warning_receiver_system/desc;Radar warning receiver.
 modification/Radar_warning_receiver_system;RWR
 modification/q_5b/desc;Radar warning receiver.
@@ -2439,8 +2465,12 @@ modification/us_agm_65e/desc;Allows the installation of AGM-65E missiles.
 modification/us_agm_65e;AGM-65E
 modification/us_agm_65l/desc;Allows the installation of AGM-65L missiles.
 modification/us_agm_65l;AGM-65L
+modification/uk_brimstone_dm/desc;Allows the installation of Brimstone guided missiles.
+modification/uk_brimstone_dm;Brimstone
 modification/atgm_mokopa/desc;Allows installation of ZT-6 Mokopa missiles.
 modification/atgm_mokopa;ZT-6 Mokopa
+modification/sa_zt_35_ingwe/desc;Allows the installation of ZT3A2 Ingwe missiles.
+modification/sa_zt_35_ingwe;ZT3A2 Ingwe
 modification/tiger_hot3/desc;Allows installation of HOT-3 missiles.
 modification/tiger_hot3;HOT-3
 modification/tiger_atgw3/desc;Allows installation of PARS 3 LR missiles.
@@ -2642,6 +2672,10 @@ modification/90mm_50_fr_oea_mle1925_navy_he_df;90 mm 1925 HE-TF
 modification/90mm_50_fr_oea_mle1925_navy_he_df_ammo_pack;90 mm 1925 HE-TF
 modification/305mm_fr_45_opf_mle1910_navy_apc;305 mm 1910 APC
 modification/305mm_fr_45_opf_mle1910_navy_apc_ammo_pack;305 mm 1910 APC
+modification/130mm_fr_45_1933_navy_sap;130 mm 1933 SAP
+modification/130mm_fr_45_1933_navy_sap_ammo_pack;130 mm 1933 SAP
+modification/130mm_fr_45_1934_navy_he_df;130 mm 1934 HE-TF
+modification/130mm_fr_45_1934_navy_he_df_ammo_pack;130 mm 1934 HE-TF
 modification/138mm_fr_55_1910_sap;138.6 mm 1910 SAP
 modification/138mm_fr_55_1910_sap_ammo_pack;138.6 mm 1910 SAP
 modification/138mm_fr_55_1921_sap;138.6 mm 1921 common SAP
@@ -2650,6 +2684,8 @@ modification/340mm_fr_mle_1912_navy_apc;340 mm 1912 APC
 modification/340mm_fr_mle_1912_navy_apc_ammo_pack;340 mm 1912 APC
 modification/340mm_fr_mle_1921_navy_apc;340 mm 1921 APCBC
 modification/340mm_fr_mle_1921_navy_apc_ammo_pack;340 mm 1921 APCBC
+modification/330mm_fr_mle_1935_navy_sapcbc;330 mm 1935 SAPCBC
+modification/330mm_fr_mle_1935_navy_sapcbc_ammo_pack;330 mm 1935 SAPCBC
 modification/130mm_fr_40_1932_navy_he;130 mm M1932 HE
 modification/130mm_fr_40_1923_navy_sap;130 mm M1923 SAP
 modification/130mm_fr_40_1923_navy_sap_ammo_pack;130 mm M1923 SAP

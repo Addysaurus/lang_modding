@@ -36,11 +36,14 @@ sensors/us_an_apg_63_psp;AN/APG-63 (Programmable Signal Processor) <color=#ff6f0
 sensors/us_an_apg_66;AN/APG-66 <color=#ff6f00>RDR</color>
 sensors/us_an_apg_66_v_1;AN/APG-66(V)1 <color=#ff6f00>RDR</color>
 sensors/us_an_apg_66_v_3;AN/APG-66(V)3 <color=#ff6f00>RDR</color>
+sensors/us_an_apg_70;AN/APG-70 <color=#ff6f00>RDR</color>
+sensors/us_an_apg_70i;AN/APG-70I <color=#ff6f00>RDR</color>
 sensors/su_sapphire_21;Sapphire-21
 sensors/su_sapphire_23;Sapphire-23D/TP-23
 sensors/su_sapphire_23mla_2;Sapphire-23MLA-2/TP-23M
 sensors/su_sapphire_23mla;Sapphire-23MLA/TP-23M
 sensors/su_sapphire_23ml;Sapphire-23ML/TP-23M
+sensors/su_v_004;V004 <color=#ff6f00>RDR-PESA</color>
 sensors/jp_awg_11;J/AWG-11
 sensors/jp_awg_12;J/AWG-12
 //RWRs;
@@ -49,7 +52,8 @@ sensors/su_spo-10;SPO-10
 sensors/su_spo-15;SPO-15
 sensors/su_spo-15l;SPO-15L
 sensors/su_spo-15lm;SPO-15LM
-sensors/su_spo-150;SPO-150
+sensors/su_spo-15s;SPO-15S
+sensors/su_spo-150;SPO-32 Pastyel' | L-150 <color=#ff6f00>RWR</color>
 //UNCATEGORIZED;
 sensors/su_yakor_m;Yakor-M
 sensors/su_mr_102_baklan;MR-102 Baklan
@@ -158,6 +162,7 @@ sensors/de_gepard_fr;SAZ pulse doppler monopulse
 sensors/tv_tracker;Auto tracker
 sensors/tv_tracker_tgp;Auto tracker
 sensors/tv_tracker_tgp_mercury;Mercury low-light TV pod
+sensors/tv_tracker_tgp_platan;Platan low-light TV pod
 sensors/ir_tracker;Auto tracker
 sensors/ir_tracker_tgp;Auto tracker
 sensors/sw_triad_search;Thomson CSF Harfang TRS 2620 H
@@ -167,3 +172,4 @@ sensors/cn_helicopter_z_mlws;MLWS
 sensors/sw_app_f9_5;APP F9/5
 sensors/su_n_019e;N019E/OEPS-29E
 sensors/cn_type_1473;Type 1473
+counterMeasures/lsz_8vn;LSZ-8VN

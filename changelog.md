@@ -201,6 +201,89 @@ All dates are listed in DD-MM-YYYY format.
     - **Drop tank (1600 L)** (Chinese one) renamed to **FYX1700**. The long name has been changed to **FYX1700 fùyóuxiāng**. It's called the **FYX1700** instead of the **FYX1600** because Gaijin modeled it incorrectly and it should be 1700 L.
     - **Drop tank (1400 L)** (Chinese one) renamed to **FYX1400E**. The long name has been changed to **FYX1400E fùyóuxiāng**.
     - **152 mm XM150E6 gun/launcher** renamed to **Gun-Launcher, 152mm, XM150E6**.
+    - **PTP86 100 háomi huátáng fǎn tankè pào** renamed to **PTP86 100 háomi huátáng fan tankè pào**. The original was correct, but the game does not render "ǎ" with that diacritic.
+    - **PTP89 120 háomi huátáng fǎn tankè pào** renamed to **PTP89 120 háomi huátáng fan tankè pào**. The original was correct, but the game does not render "ǎ" with that diacritic.
+
+### Modifications:
+
+- #### Additions:
+
+    - Update "Firebirds" additions:
+        - **DER-19PK**
+        - **DER-19U**
+        - **FAB-1500/UPAB-1500**
+        - **EGBU-24**
+        - **GBU-39**
+        - **Paveway IV**
+        - **Kh-25/29L**
+        - **Grom**
+        - **S-25/S-13**
+        - **Type 250/LS-6 250**
+        - **Type 500/LS-6 500**
+        - **MAW** (new one for the **Tornado G.R. Mk. 4**)
+        - **Brimstone (SAL)**
+        - **ZT3A2 Ingwe**
+        - **130 mm 1933 SAP** (2 of them)
+        - **130 mm 1934 HE-TF** (2 of them)
+        - **330 mm 1935 SAPCBC** (2 of them)
+    - **FAB 250/500** (this was from "Dance of Dragons" but I forgot to add it)
+
+- #### Changes
+
+    - Update "Firebirds" changes:
+        - **FAB-1500/UPAB-1500** renamed to **FAB-1500M-46 / UPAB-1500B**.
+        - **EGBU-24** renamed to **GBU-24E/B**.
+        - **GBU-39** renamed to **GBU-39/B**.
+        - **Paveway IV** renamed to **Paveway Mk. IV**.
+        - **Kh-25/29L** renamed to **Kh-25ML / 29L**.
+        - **Grom** renamed to **Kh-36 (A) / (A1)**.
+        - **S-25/S-13** renamed to **S-13OF / 25O / LD**.
+        - **Type 250/LS-6 250** renamed to **Type 250 / LS6**
+        - **Type 500/LS-6 500** renamed to **Type 500 / LS6**
+        - **Brimstone (SAL)** renamed to **Brimstone**.
+    - **FAB 250/500** renamed to **OFAB-250 / 250Š / FAB-250M-62 / 500M-62 / 500Š / ZB-500** (yes I know it's an insanely long name)
+
+### Sensors:
+
+- #### Additions:
+
+    - Update "Firebirds" additions:
+        - **SPO-15S**
+        - **V004**
+        - **AN/APG-70**
+        - **AN/APG-70I**
+        - **Platan low-light TV pod**
+        - **LSZ-8VN**
+    - Type tags have been added to the following sensors:
+        - **SPO-32**
+        - **V004**
+        - **AN/APG-70**
+        - **AN/APG-70I**
+
+- #### Changes:
+
+    - **SPO-150** renamed to **SPO-32 Pastyel' | L-150**.
+
+### Engines:
+
+- #### Additions:
+
+    - Update "Firebirds" additions:
+        - **IVECO** (manufacturer)
+        - **8V150**
+        - **Jaguar J.60 No1 Mk100B**
+        - **8262 6V**
+        - **AL-31F-M1**
+        - **F404-F1D2**
+    - Engines I forgot to add a while ago:
+        - **TF30-P-109**
+        - **F100-IHI-200E**
+        - **F100-IHI-220E**
+
+- #### Changes:
+
+    - Uodate "Firebirds" changes:
+        - **AL-31FM1**
 
 ### Version:
 

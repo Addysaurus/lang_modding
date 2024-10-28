@@ -165,6 +165,10 @@ All dates are listed in DD-MM-YYYY format.
         - **FYX1400E**
         - **FYX1700**
         - **PTB-3000**
+        - **RPL 522**
+        - **RP 35**
+        - **RP 36**
+        - **RP 62**
     - Type tags have been added to the following launchers:
         - **9K33M3**
     - Added the **XM150E6** (this isn't actually a "Firebirds" change, this happened ages ago and I forgot to add it; there's a whole thing with the **XM803**'s gun but I'll deal with that later).
@@ -203,6 +207,11 @@ All dates are listed in DD-MM-YYYY format.
     - **152 mm XM150E6 gun/launcher** renamed to **Gun-Launcher, 152mm, XM150E6**.
     - **PTP86 100 háomi huátáng fǎn tankè pào** renamed to **PTP86 100 háomi huátáng fan tankè pào**. The original was correct, but the game does not render "ǎ" with that diacritic.
     - **PTP89 120 háomi huátáng fǎn tankè pào** renamed to **PTP89 120 háomi huátáng fan tankè pào**. The original was correct, but the game does not render "ǎ" with that diacritic.
+    - **Drop tank (1300 L)** (French one for the **Mirage 2000 D R1**) renamed to **RPL 522**.
+    - **Drop tank (1200 L)** (French one) renamed to **RP 35**.
+    - **Drop tank (1200 L)** (a different French one) renamed to **RP 36**.
+    - **Drop tank (1300 L)** (French and Israeli ones) renamed to **RP 62**.
+    - **Drop tank (1700 L)** (French and Belgian ones) renamed to **RP 30**.
 
 ### Modifications:
 

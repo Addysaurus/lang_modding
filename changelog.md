@@ -79,8 +79,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Sabra Mk.I** renamed to **Sabra Mk. 1**. The long name has been changed to **Israeli Military Industries | Sabra Siman 1**.
         - **Super Hind** renamed to **SuperHind Mk. IV**. The long name has been changed to **Advanced Technology and Engineering | SuperHind Mk. IV**.
         - **Mi-8AMTSh-VN** renamed to **Mi-8AMTŠ-VN**.
-        - **F-15E** renamed to **F-15E-43-MC**. The long name has been changed to **McDonnell Douglas Corporation | F-15E-43-MC**.
-        - **F-15I Ra'am** renamed to **F-15I**.
+        - **F-15E** renamed to **F-15E-43-MC**. The long name has been changed to **McDonnell Douglas Corporation | F-15E-43-MC Strike Eagle**.
+        - **F-15I Ra'am** renamed to **F-15I**. The long name has remained the same.
         - **Tornado GR.4** renamed to **Tornado G.R. Mk. 4**. The long name has been changed to **Panavia / BAE Systems | Tornado G.R. Mk. 4**.
         - **AV-8S** (Japan / Thailand) renamed to **B.KhJ.1k**.
         - **Luchs A2** renamed to **SpPz Luchs A2**.

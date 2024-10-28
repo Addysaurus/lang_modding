@@ -44,6 +44,7 @@ All dates are listed in DD-MM-YYYY format.
         - **HMS Repulse**
         - **Object 140**
         - **BMP-2MD**
+        - **CTWV ICV**
     - **Israeli Military Industries** added as the manufacturer for the **Sabra Mk. 1**.
     - **McDonnell Douglas Corporation** added as the manufacturer for the following vehicles:
         - **F-15A-18-MC (MSIP)**
@@ -88,9 +89,11 @@ All dates are listed in DD-MM-YYYY format.
         - **HMS Repulse** renamed to **HMS Repulse (34)**.
         - **Object 140** renamed to **Ob. 140**. The long name has been changed to **Ob"yekt 140**.
         - **BMP-2MD** renamed to **RPsv BMP-2MD**. The lone name has been changed to **Ps. 153 | Rynnäkköpanssarivaunu BMP-2MD**.
+        - **CTWV ICV** renamed to **ICV**. The long name has been changed to **hohei sentō gata**.
     - "▄", the roundel used for the UK and Italy, has been changed to "⛨" for the symbol on the WWII Italian flag. The UK still uses the original symbol. It only has been changed for Italy.
     - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me. It has not changed for the Spanish **M47E2** because that tank is using it as a Spanish roundel.
     - The **Tornado F. Mk. 3**'s (Italy) long name has been changed to **Tornado F. Mk. 3 (Batch 2)**.
+    - The **RCV**'s long distance name has been changed from **Light tank** to **IFV**.
 
 ### Weaponry:
 

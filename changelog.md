@@ -94,6 +94,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me. It has not changed for the Spanish **M47E2** because that tank is using it as a Spanish roundel.
     - The **Tornado F. Mk. 3**'s (Italy) long name has been changed to **Tornado F. Mk. 3 (Batch 2)**.
     - The **RCV**'s long distance name has been changed from **Light tank** to **IFV**.
+    - The manufacturer **Mitsubishi Jūkōgyō Kabushiki Gaisha Nagasaki Zōsenjo** has been renamed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo**.
 
 ### Weaponry:
 
@@ -296,6 +297,12 @@ All dates are listed in DD-MM-YYYY format.
 
     - Uodate "Firebirds" changes:
         - **AL-31FM1**
+
+### Nations:
+
+- #### Changes:
+
+    - Removed the long nation names for the main nations. This means that if you hover over a nation like the USA, it will simply say "USA", rather than "United States of America". This does not apply to nations that don't have their own trees. For example, this would not happen to Finland, but it would to Sweden because Sweden is the name of the tree. This has been done to avoid a really annoying bug Gaijin introduced where if you enter a battle or test drive while in the research window, when you exit it, the nation names in the bottom bar become the length of the full ones and so a bunch of them are just cut off and inaccessible.
 
 ### Version:
 

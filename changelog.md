@@ -45,6 +45,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Object 140**
         - **BMP-2MD**
         - **CTWV ICV**
+        - **JDS Murasame (DD-107)**
+        - **RN Francesco Caracciolo**
     - **Israeli Military Industries** added as the manufacturer for the **Sabra Mk. 1**.
     - **McDonnell Douglas Corporation** added as the manufacturer for the following vehicles:
         - **F-15A-18-MC (MSIP)**
@@ -79,22 +81,25 @@ All dates are listed in DD-MM-YYYY format.
         - The **Leopard 2A6NL**'s long name has been changed to **Krauss-Maffei Wegmann | Leopard 2A6NL-gevechtstank**
         - **Sabra Mk.I** renamed to **Sabra Mk. 1**. The long name has been changed to **Israeli Military Industries | Sabra Siman 1**.
         - **Super Hind** renamed to **SuperHind Mk. IV**. The long name has been changed to **Advanced Technology and Engineering | SuperHind Mk. IV**.
-        - **Mi-8AMTSh-VN** renamed to **Mi-8AMTŠ-VN**.
+        - **Mi-8AMTSh-VN** renamed to **Mi-8AMTŠ-VN**. The long name has been changed to **Mi-8AMTŠ-VN "Sapsan"**.
         - **F-15E** renamed to **F-15E-43-MC**. The long name has been changed to **McDonnell Douglas Corporation | F-15E-43-MC Strike Eagle**.
         - **F-15I Ra'am** renamed to **F-15I**. The long name has remained the same.
         - **Tornado GR.4** renamed to **Tornado G.R. Mk. 4**. The long name has been changed to **Panavia / BAE Systems | Tornado G.R. Mk. 4**.
-        - **AV-8S** (Japan / Thailand) renamed to **B.KhJ.1k**.
+        - **AV-8S** (Japan / Thailand) renamed to **B.KhJ.1**.
         - **Luchs A2** renamed to **SpPz Luchs A2**.
         - **Pr.253L** renamed to **Pr. 253L**. The long name has been changed to **Proyekt 253L**.
         - **HMS Repulse** renamed to **HMS Repulse (34)**.
         - **Object 140** renamed to **Ob. 140**. The long name has been changed to **Ob"yekt 140**.
         - **BMP-2MD** renamed to **RPsv BMP-2MD**. The lone name has been changed to **Ps. 153 | Rynnäkköpanssarivaunu BMP-2MD**.
-        - **CTWV ICV** renamed to **ICV**. The long name has been changed to **hohei sentō gata**.
+        - **ICV (P)** renamed to **24 ICV**. The long name has been changed to **24 shiki hohei sentō gata**.
+        - The **JDS Murasame (DD-107)**'s long name has been changed to **Murasame gata goeikan (F-103) | JDS Murasame (DD-107) (1975)**.
+        - **RN Francesco Caracciolo** renamed to **Francesco Caracciolo**. The long name has been changed to **Classe Francesco Caracciolo | Francesco Caracciolo**.
     - "▄", the roundel used for the UK and Italy, has been changed to "⛨" for the symbol on the WWII Italian flag. The UK still uses the original symbol. It only has been changed for Italy.
     - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me. It has not changed for the Spanish **M47E2** because that tank is using it as a Spanish roundel.
     - The **Tornado F. Mk. 3**'s (Italy) long name has been changed to **Tornado F. Mk. 3 (Batch 2)**.
     - The **RCV**'s long distance name has been changed from **Light tank** to **IFV**.
     - The manufacturer **Mitsubishi Jūkōgyō Kabushiki Gaisha Nagasaki Zōsenjo** has been renamed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo**.
+    - **AMX 40** renamed to **AMX 40 P4**.
 
 ### Weaponry:
 
@@ -120,7 +125,7 @@ All dates are listed in DD-MM-YYYY format.
         - **M.C. 250 lb**
         - **PBXN-109**
         - **AFX-757**
-        - **9M33A3**
+        - **9M33M3**
         - **7.62 mm Beretta MG42/59 machine gun** (another one)
         - **Kord**
         - **Hydra-70 M247** (another one)
@@ -195,7 +200,6 @@ All dates are listed in DD-MM-YYYY format.
         - **Grom-1** renamed to **Kh-36 (A)**. The long name has been changed to **9-A-7759 | Kh-36 "Grom-E1"**.
         - **Grom-2** renamed to **Kh-36 (A1)**. The long name has been changed to **9-A1-7759 | Kh-36 "Grom-E2"**.
         - **12.7 mm M2HB machine gun** (the new one for the **T77E1 MGMC**) renamed to **Browning Machine Gun, Caliber .50, HB, M2**.
-        - **9M33A3** renamed to **9M33M3**.
         - **Kord** renamed to **Kord-T**. The long name has been changed to **6P49 | Kord-T**.
         - **9M33A3 SAM** renamed to **9K33M3**.
         - **100 mm D-54TS cannon** renamed to **2A24 | U-8TS | D-54TS**.

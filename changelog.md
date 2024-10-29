@@ -130,7 +130,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Kord**
         - **Hydra-70 M247** (another one)
         - **ZT3A2 Ingwe**
-        - **9M33A3 SAM** (launcher for the **9M33M3**)
+        - **9M33M3 SAM** (launcher for the **9M33M3**)
         - **D-54TS**
         - **D-54 APDS**
         - **D-54 HE**
@@ -144,10 +144,16 @@ All dates are listed in DD-MM-YYYY format.
         - **130 mm OEA Mle 1934 HE** (2 seperate ones)
         - **130 mm OPF Mle 1933 SAP**
         - **PL05**
-        - **DDB03-155**
-        - **BES7-155 (VT)**
+        - **DDB02-155**
+        - **DDB02 (VT)**
         - **BEA1-155**
         - **2A42** (the **RPsv BMP-2MD**'s cannon)
+        - **JHL-2**
+        - **5 inch/54 Mk.16 cannon**
+        - **102 mm/35 S.A.V. cannon, mod.1915**
+        - **102 mm HE-TF**
+        - **381 mm/40 Ansaldo cannon, mod.1914**
+        - **381 mm SAPCBC**
     - Caliber and type tags have been added to the following guns:
         - **BT-20**
         - **Browning Machine Gun, Caliber .50, HB, M2**
@@ -158,6 +164,7 @@ All dates are listed in DD-MM-YYYY format.
     - Type tags have been added to the following missiles:
         - **Kh-36 (A)**
         - **9M33M3**
+        - **9M336**
     - Mass and type tags have been added to the following bombs:
         - **SB 2500**
         - **KAB-500Kr-M**
@@ -201,10 +208,12 @@ All dates are listed in DD-MM-YYYY format.
         - **Grom-2** renamed to **Kh-36 (A1)**. The long name has been changed to **9-A1-7759 | Kh-36 "Grom-E2"**.
         - **12.7 mm M2HB machine gun** (the new one for the **T77E1 MGMC**) renamed to **Browning Machine Gun, Caliber .50, HB, M2**.
         - **Kord** renamed to **Kord-T**. The long name has been changed to **6P49 | Kord-T**.
-        - **9M33A3 SAM** renamed to **9K33M3**.
+        - **9M33M3 SAM** renamed to **9K33M3**.
         - **100 mm D-54TS cannon** renamed to **2A24 | U-8TS | D-54TS**.
         - **155 mm PL05 cannon** renamed to **PL2005 155 háomi jiānóng liúdànpào**.
         - **30 mm 2A42 cannon** renamed to **2A42**.
+        - The **9M336**'s long name has been changed to **9M336 Vyerba**.
+        - **5 inch/54 Mk.16 cannon** renamed to **5 inch/54 Mk. 16 cannon**. This is not an official rename, just a formatting change for standardization.
     - **GBU-38** (USAF variant) renamed to **GBU-38(V)1/B**. The long name has been changed to **Bomb, Guided, GBU-38(V)1/B Joint Direct Attack Munition**. Its mass tag has been corrected to 253.1 kg.
     - **GBU-38** (USN variant) renamed to **GBU-38(V)2/B**. The long name has been changed to **Bomb, Guided, GBU-38(V)2/B Joint Direct Attack Munition**. Its mass tag has been corrected to 253.1 kg.
     - The **GBU-31(V)1/B**'s long name has been changed to **Bomb, Guided, GBU-31(V)1/B Joint Direct Attack Munition**.
@@ -220,6 +229,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Drop tank (1200 L)** (a different French one) renamed to **RP 36**.
     - **Drop tank (1300 L)** (French and Israeli ones) renamed to **RP 62**.
     - **Drop tank (1700 L)** (French and Belgian ones) renamed to **RP 30**.
+    - **Ahead** renamed to **AHEAD**.
 
 ### Modifications:
 
@@ -243,6 +253,7 @@ All dates are listed in DD-MM-YYYY format.
         - **130 mm 1933 SAP** (2 of them)
         - **130 mm 1934 HE-TF** (2 of them)
         - **330 mm 1935 SAPCBC** (2 of them)
+        - **9M336**
     - **FAB 250/500** (this was from "Dance of Dragons" but I forgot to add it)
 
 - #### Changes
@@ -259,6 +270,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Type 500/LS-6 500** renamed to **Type 500 / LS6**
         - **Brimstone (SAL)** renamed to **Brimstone**.
     - **FAB 250/500** renamed to **OFAB-250 / 250Š / FAB-250M-62 / 500M-62 / 500Š / ZB-500** (yes I know it's an insanely long name)
+    - **HF5 (Type 57-2)** renamed to **HF5 (Type 57-1)**. This isn't part of a rework, it's just to match a change Gaijin made.
 
 ### Sensors:
 

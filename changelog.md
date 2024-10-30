@@ -19,8 +19,9 @@ All dates are listed in DD-MM-YYYY format.
         - **Ram II** (UK / Canada)
         - **KV-7 (U-13)**
         - **Osa-AKM**
-        - **Osa-AKM** (Germany)
+        - **Osa-AK** (Germany)
         - **Osa-AKM** (Italy / Romania)
+        - **Osa-AK** (UK / India)
         - **Scimitar**
         - **Skink** (USA / Canada)
         - **Bf 109 C-1** (WTM)
@@ -69,8 +70,9 @@ All dates are listed in DD-MM-YYYY format.
         - **Ram, Mk. II (early)** (US) has recieved a US roundel because the new **Ram, Mk. II (early)** in the British tree matches where other Canadian vehicles go.
         - The **KV-7 (U-13)**'s long name has been changed to **Ob"yekt 227 | KV-7 (U-13)**.
         - **Osa-AKM** renamed to **9A33BM3**. The long name has been changed to **BM 9A33BM3 "Osa-AKM"**.
-        - **Osa-AKM** (Germany) renamed to **9A33BM3**. The long name has been changed to **BM 9A33BM3 "Osa-AKM"**.
+        - **Osa-AK** (Germany) renamed to **9A33BM2**. The long name has been changed to **BM 9A33BM2 "Osa-AK"**.
         - **Osa-AKM** (Italy / Romania) renamed to **9A33BM3**. The long name has been changed to **BM 9A33BM3 "Osa-AKM"**.
+        - **Osa-AK** (UK / India) renamed to **9A33BM2**. The long name has been changed to **BM 9A33BM2 "Osa-AK"**.
         - The **Scimitar**'s long name has been changed to **F.V.107 | Combat Vehicle, Reconnaissance, Tracked, 30mm Gun, Scimitar**.
         - The **Skink** (USA / Canada)
         - The **Bf 109 C-1** (WTM) has had the War Thuder Mobile roundel added.

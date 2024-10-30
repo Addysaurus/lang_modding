@@ -79,7 +79,7 @@ All dates are listed in DD-MM-YYYY format.
         - The **Leopard 2A4NL**'s long name has been changed to **Krauss-Maffei Wegmann | Leopard 2A4NL-gevechtstank**
         - The **Leopard 2A5NL**'s long name has been changed to **Krauss-Maffei Wegmann | Leopard 2A5NL-gevechtstank**
         - The **Leopard 2A6NL**'s long name has been changed to **Krauss-Maffei Wegmann | Leopard 2A6NL-gevechtstank**
-        - **Sabra Mk.I** renamed to **Sabra Mk. 1**. The long name has been changed to **Israeli Military Industries | Sabra Siman 1**.
+        - **Sabra Mk.I** renamed to **Sabra Mk. 1**. The long name has been changed to **Israel Military Industries | Sabra Siman 1**.
         - **Super Hind** renamed to **SuperHind Mk. IV**. The long name has been changed to **Advanced Technology and Engineering | SuperHind Mk. IV**.
         - **Mi-8AMTSh-VN** renamed to **Mi-8AMTŠ-VN**. The long name has been changed to **Mi-8AMTŠ-VN "Sapsan"**.
         - **F-15E** renamed to **F-15E-43-MC**. The long name has been changed to **McDonnell Douglas Corporation | F-15E-43-MC Strike Eagle**.

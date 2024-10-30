@@ -87,7 +87,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Tornado GR.4** renamed to **Tornado G.R. Mk. 4**. The long name has been changed to **Panavia / BAE Systems | Tornado G.R. Mk. 4**.
         - **AV-8S** (Japan / Thailand) renamed to **B.KhJ.1**.
         - **Luchs A2** renamed to **SpPz Luchs A2**.
-        - **Pr.253L** renamed to **Pr. 253L**. The long name has been changed to **Proyekt 253L**.
+        - **Pr.253L** renamed to **T-239**. The long name has been changed to **Proyekt 253LP | T-239**. The ingame vessel does have the mass of the earlier MT-1-type **Pr. 253L**s, but its visual model closest matches the **T-239**.
         - **HMS Repulse** renamed to **HMS Repulse (34)**.
         - **Object 140** renamed to **Ob. 140**. The long name has been changed to **Ob"yekt 140**.
         - **BMP-2MD** renamed to **RPsv BMP-2MD**. The lone name has been changed to **Ps. 153 | Rynnäkköpanssarivaunu BMP-2MD**.
@@ -100,6 +100,18 @@ All dates are listed in DD-MM-YYYY format.
     - The **RCV**'s long distance name has been changed from **Light tank** to **IFV**.
     - The manufacturer **Mitsubishi Jūkōgyō Kabushiki Gaisha Nagasaki Zōsenjo** has been renamed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo**.
     - **AMX 40** renamed to **AMX 40 P4**.
+    - South African "Mk" changes (The **SuperHind Mk. IV** does not follow this system because that was a venture by ATE, not a South African military project, and so ATE's designation applies):
+        - **Rooivalk Mk. 1F** renamed to **Rooivalk Mk1**.
+        - **SARC Mk. IVA** renamed to **SARC MkIVA**.
+        - **SARC Mk. VI (2-pdr)** renamed to **SARC MkVI (2-pdr)**.
+        - **SARC Mk. VI (6-pdr)** renamed to **SARC MkVI (6-pdr)**.
+        - **Ratel 20 Mk. 3 (MILAN)** renamed to **Ratel 20 Mk3 (MILAN)**.
+        - **Ratel ZT3 Mk. 3** renamed to **Ratel ZT3 Mk3**.
+        - **Ratel 90 Mk. 3** renamed to **Ratel 90 Mk3**.
+        - **Eland 90 Mk. 7** renamed to **Eland 90 Mk7**.
+        - **Rooikat Mk. 1D** renamed to **Rooikat Mk1D**.
+        - **Olifant Mk. 2** renamed to **Olifant Mk2**.
+        - **Olifant Mk. 1A** renamed to **Olifant Mk1A**. Its mid distance name has been changed to **Olifant Mk1**.
 
 ### Weaponry:
 
@@ -118,7 +130,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AM-M66 2000 lb**
         - **Drop tank (800 liters.)** (new entries and an old one that was missing)
         - **Drop tank (3000 liters.)** (new one for the **Su-34**)
-        - **Grom-1**
+        - **Grom-1** (I know the **Grom-1** was removed, but it was on the dev server and its text and file entries still exist so I still added it)
         - **Grom-2**
         - **37 mm Type 98 cannon**
         - **12.7 mm M2HB machine gun** (yet another one, this time for the **T77E1 MGMC**)
@@ -230,6 +242,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Drop tank (1300 L)** (French and Israeli ones) renamed to **RP 62**.
     - **Drop tank (1700 L)** (French and Belgian ones) renamed to **RP 30**.
     - **Ahead** renamed to **AHEAD**.
+    - **AIM-120A** renamed to **AIM-120B** (not all the **AIM-120A**s, just the file entry for the **AIM-120B** that this mod previously had named as the **AIM-120A**)
 
 ### Modifications:
 

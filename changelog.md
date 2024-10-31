@@ -114,6 +114,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Rooikat Mk. 1D** renamed to **Rooikat Mk1D**.
         - **Olifant Mk. 2** renamed to **Olifant Mk2**.
         - **Olifant Mk. 1A** renamed to **Olifant Mk1A**. Its mid distance name has been changed to **Olifant Mk1**.
+    - The Chinese **LVT(A)(4) (ZiS-2)** in the American tree has recieved a Chinese roundel in addition to its American one to reflect that it is a Chinese modification of an American vehicle that appears in the American tree as well as the Chinese tree, mich in the same was as was done for the old French premium Israeli planes (I know it's complicated).
+    - The **Centaur**'s long name has been changed to **F.V.4005 | Tank, Heavy Gun, Stage II, Centaur**.
 
 ### Weaponry:
 
@@ -168,6 +170,9 @@ All dates are listed in DD-MM-YYYY format.
         - **102 mm HE-TF**
         - **381 mm/40 Ansaldo cannon, mod.1914**
         - **381 mm SAPCBC**
+        - **KAB-500LG**
+        - **UPAB-500B**
+        - **Mk.15 ''Hedgehog'' mortar**
     - Caliber and type tags have been added to the following guns:
         - **BT-20**
         - **Browning Machine Gun, Caliber .50, HB, M2**
@@ -190,6 +195,8 @@ All dates are listed in DD-MM-YYYY format.
         - **GBU-32(V)1/B**
         - **AN/M66A2**
         - **Kh-36 (A1)**
+        - **KAB-500LG**
+        - **UPAB-500B**
     - Volume and type tags have been added to the following fuel tanks:
         - **FYX800B**
         - **FYX1400E**
@@ -228,6 +235,8 @@ All dates are listed in DD-MM-YYYY format.
         - **30 mm 2A42 cannon** renamed to **2A42**.
         - The **9M336**'s long name has been changed to **9M336 Vyerba**.
         - **5 inch/54 Mk.16 cannon** renamed to **5 inch/54 Mk. 16 cannon**. This is not an official rename, just a formatting change for standardization.
+        - The **KAB-500LG**'s long name has been changed to **KAB-500LG**.
+        - The **UPAB-500B**'s long name has been changed to **UPAB-500B**.
     - **GBU-38** (USAF variant) renamed to **GBU-38(V)1/B**. The long name has been changed to **Bomb, Guided, GBU-38(V)1/B Joint Direct Attack Munition**. Its mass tag has been corrected to 253.1 kg.
     - **GBU-38** (USN variant) renamed to **GBU-38(V)2/B**. The long name has been changed to **Bomb, Guided, GBU-38(V)2/B Joint Direct Attack Munition**. Its mass tag has been corrected to 253.1 kg.
     - The **GBU-31(V)1/B**'s long name has been changed to **Bomb, Guided, GBU-31(V)1/B Joint Direct Attack Munition**.
@@ -269,6 +278,8 @@ All dates are listed in DD-MM-YYYY format.
         - **130 mm 1934 HE-TF** (2 of them)
         - **330 mm 1935 SAPCBC** (2 of them)
         - **9M336**
+        - **FAB-500/UPAB-500B**
+        - **KAB-500LG**
     - **FAB 250/500** (this was from "Dance of Dragons" but I forgot to add it)
 
 - #### Changes
@@ -284,6 +295,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Type 250/LS-6 250** renamed to **Type 250 / LS6**
         - **Type 500/LS-6 500** renamed to **Type 500 / LS6**
         - **Brimstone (SAL)** renamed to **Brimstone**.
+        - **FAB-500/UPAB-500B** renamed to **FAB-500M / Sh / UPAB-500B**.
     - **FAB 250/500** renamed to **OFAB-250 / 250Š / FAB-250M-62 / 500M-62 / 500Š / ZB-500** (yes I know it's an insanely long name)
     - **HF5 (Type 57-2)** renamed to **HF5 (Type 57-1)**. This isn't part of a rework, it's just to match a change Gaijin made.
 
@@ -298,6 +310,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/APG-70I**
         - **Platan low-light TV pod**
         - **LSZ-8VN**
+        - **L-150-28M**
     - Type tags have been added to the following sensors:
         - **SPO-32**
         - **V004**
@@ -319,6 +332,7 @@ All dates are listed in DD-MM-YYYY format.
         - **8262 6V**
         - **AL-31F-M1**
         - **F404-F1D2**
+        - **Salut** (manufacturer)
     - Engines I forgot to add a while ago:
         - **TF30-P-109**
         - **F100-IHI-200E**
@@ -328,6 +342,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - Uodate "Firebirds" changes:
         - **AL-31FM1**
+        - **Salut** renamed to **Naučno-Proizvodstvyennyj Czyentr Gazoturbostroyeniâ "Salût"**.
 
 ### Nations:
 

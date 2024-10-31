@@ -441,8 +441,12 @@ weapons/su_kab_500s;<color=@userlogColoredText>500 kg</color> KAB-500S-È <color
 weapons/su_kab_500s/short;KAB-500S-È
 weapons/su_kab_500l;<color=@userlogColoredText>560 kg</color> KAB-500L-F-E <color=#ff6f00>BMB-LG</color>
 weapons/su_kab_500l/short;KAB-500L-F-E
+weapons/su_kab_500lg;<color=@userlogColoredText>560 kg</color> KAB-500LG <color=#ff6f00>BMB-LG</color>
+weapons/su_kab_500lg/short;KAB-500LG
 weapons/su_kab_1500kr;<color=@userlogColoredText>1525 kg</color> KAB-1500Kr <color=#ff6f00>BMB-EO</color>
 weapons/su_kab_1500kr/short;KAB-1500Kr
+weapons/su_upab_500b;<color=@userlogColoredText>560 kg</color> UPAB-500B <color=#ff6f00>BMB-LG</color>
+weapons/su_upab_500b/short;UPAB-500B
 weapons/su_upab_1500b;<color=@userlogColoredText>1525 kg</color> UPAB-1500B <color=#ff6f00>BMB-GNSS</color>
 weapons/su_upab_1500b/short;UPAB-1500B
 weapons/su_kab_1500l;<color=@userlogColoredText>1525 kg</color> KAB-1500L <color=#ff6f00>BMB-LG</color>
@@ -5057,6 +5061,8 @@ weapons/20mm_mg151_20_1938_naval_user_cannon;20 mm MG151/20 cannon
 weapons/20mm_shvak_naval_user_cannon;<color=@userlogColoredText>20 mm</color> 56-P-113 | ŠVAK-20 <color=#ff6f00>ACNN</color>
 weapons/bomb_uk_hedgehog;Mk. 10 ''Hedgehog'' mortar
 weapons/bomb_uk_hedgehog/short;Mk. 10
+weapons/bomb_uk_mk15_hedgehog;Mk.15 ''Hedgehog'' mortar
+weapons/bomb_uk_mk15_hedgehog/short;Mk.15
 weapons/bomb_ussr_mbu600;MBU-600 mortar
 weapons/bomb_ussr_mbu600/short;MBU-600 mortar
 weapons/rocket_m14_launcher;140 mm BM-14-17 rocket launcher
@@ -5379,7 +5385,7 @@ weapons/76mm_50_3inch_12pdr_18cwt_qf_mk1_naval_user_cannon;76 mm/50 12pdr 18cwt 
 weapons/uk_450mm_18in_rgf_mark6_hbh_torpedo;450 mm R.G.F. Mark VI** torpedo
 weapons/uk_450mm_18in_rgf_mark6_hbh_torpedo/short;450 mm Mark VI**
 weapons/127mm_54_mk42_naval_user_cannon;5 inch/54 Mk. 42 cannon
-weapons/127mm_54_mk16_naval_user_cannon;5 inch/54 Mk. 16 cannon
+weapons/127mm_54_mk16_single_naval_user_cannon;5 inch/54 Mk. 16 cannon
 127mm_54_vt_hc_mk41;5 inch Mark 41 HC-VT
 weapons/283mm_45_skl_45_naval_user_cannon;283 mm/45 SK L/45 cannon
 283mm_spgr_l_3_6_he_bdz;283 mm Sprgr. L/3.6 Bdz

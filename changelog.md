@@ -48,6 +48,9 @@ All dates are listed in DD-MM-YYYY format.
         - **CTWV ICV**
         - **JDS Murasame (DD-107)**
         - **RN Francesco Caracciolo**
+        - **Su-22M4 WTD61** (Germany)
+        - **Mirage 2000-5Ei** (China / Taiwan)
+        - **Mirage 2000D-RRMV**
     - **Israeli Military Industries** added as the manufacturer for the **Sabra Mk. 1**.
     - **McDonnell Douglas Corporation** added as the manufacturer for the following vehicles:
         - **F-15A-18-MC (MSIP)**
@@ -96,6 +99,10 @@ All dates are listed in DD-MM-YYYY format.
         - **ICV (P)** renamed to **24 ICV**. The long name has been changed to **24 shiki hohei sentō gata**.
         - The **JDS Murasame (DD-107)**'s long name has been changed to **Murasame gata goeikan (F-103) | JDS Murasame (DD-107) (1975)**.
         - **RN Francesco Caracciolo** renamed to **Francesco Caracciolo**. The long name has been changed to **Classe Francesco Caracciolo | Francesco Caracciolo**.
+        - **Su-22M4 WTD61** renamed to **Su-22M4 (WTD61)**. The long name has been changed to **izd. S-54K | Su-22M4 (Wehrtechnische Dienststelle 61)**.
+        - **Mirage 2000-5Ei** renamed to **Mirage 2000 5EI**.
+        - **Mirage 2000D-RRMV** renamed to **Mirage 2000 D RMV**. The long name has been changed to **Mirage 2000 D Rénovation Mi-Vie**.
+        - **USS Bagley** renamed to **USS Bagley (DD-386)**. The long name has been changed to **Bagley-class, USS Bagley (DD-386)**.
     - "▄", the roundel used for the UK and Italy, has been changed to "⛨" for the symbol on the WWII Italian flag. The UK still uses the original symbol. It only has been changed for Italy.
     - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me. It has not changed for the Spanish **M47E2** because that tank is using it as a Spanish roundel.
     - The **Tornado F. Mk. 3**'s (Italy) long name has been changed to **Tornado F. Mk. 3 (Batch 2)**.
@@ -116,6 +123,11 @@ All dates are listed in DD-MM-YYYY format.
         - **Olifant Mk. 1A** renamed to **Olifant Mk1A**. Its mid distance name has been changed to **Olifant Mk1**.
     - The Chinese **LVT(A)(4) (ZiS-2)** in the American tree has recieved a Chinese roundel in addition to its American one to reflect that it is a Chinese modification of an American vehicle that appears in the American tree as well as the Chinese tree, mich in the same was as was done for the old French premium Israeli planes (I know it's complicated).
     - The **Centaur**'s long name has been changed to **F.V.4005 | Tank, Heavy Gun, Stage II, Centaur**.
+    - The **Mirage 2000 C S4**'s mid distance name has been changed to **Mirage 2000 C**. The long distance name has been changed to **Mirage 2000**.
+    - The **Mirage 2000 C S5**'s mid distance name has been changed to **Mirage 2000 C**. The long distance name has been changed to **Mirage 2000**.
+    - The **Mirage 2000 5F**'s mid distance name has been changed to **Mirage 2000 5**. The long distance name has been changed to **Mirage 2000**.
+    - The **Mirage 2000 D R1 (ECLAIR-M)**'s mid distance name has been changed to **Mirage 2000 D**. The long distance name has been changed to **Mirage 2000**.
+    - The **Mirage 4000**'s long distance name has been changed to **Mirage 4000**.
 
 ### Weaponry:
 

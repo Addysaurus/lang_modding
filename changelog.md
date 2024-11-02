@@ -50,7 +50,9 @@ All dates are listed in DD-MM-YYYY format.
         - **RN Francesco Caracciolo**
         - **Su-22M4 WTD61** (Germany)
         - **Mirage 2000-5Ei** (China / Taiwan)
-        - **Mirage 2000D-RRMV**
+        - **Mirage 2000D-RMV**
+        - **Roland/Osa** (folder)
+        - **JA37DI**
     - **Israeli Military Industries** added as the manufacturer for the **Sabra Mk. 1**.
     - **McDonnell Douglas Corporation** added as the manufacturer for the following vehicles:
         - **F-15A-18-MC (MSIP)**
@@ -101,8 +103,10 @@ All dates are listed in DD-MM-YYYY format.
         - **RN Francesco Caracciolo** renamed to **Francesco Caracciolo**. The long name has been changed to **Classe Francesco Caracciolo | Francesco Caracciolo**.
         - **Su-22M4 WTD61** renamed to **Su-22M4 (WTD61)**. The long name has been changed to **izd. S-54K | Su-22M4 (Wehrtechnische Dienststelle 61)**.
         - **Mirage 2000-5Ei** renamed to **Mirage 2000 5EI**.
-        - **Mirage 2000D-RRMV** renamed to **Mirage 2000 D RMV**. The long name has been changed to **Mirage 2000 D Rénovation Mi-Vie**.
+        - **Mirage 2000D-RMV** renamed to **Mirage 2000 D RMV**. The long name has been changed to **Mirage 2000 D Rénovation Mi-Vie**.
         - **USS Bagley** renamed to **USS Bagley (DD-386)**. The long name has been changed to **Bagley-class, USS Bagley (DD-386)**.
+        - **Roland/Osa** folder renamed to **FlaRakPz 1 / ◊ 9A33BM2** ("◊" is the East German roundel).
+        - **JA37DI** renamed to **JA 37 DI**. The long name has been changed to **Saab | Saab 37 | JA 37 DI Viggen**.
     - "▄", the roundel used for the UK and Italy, has been changed to "⛨" for the symbol on the WWII Italian flag. The UK still uses the original symbol. It only has been changed for Italy.
     - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me. It has not changed for the Spanish **M47E2** because that tank is using it as a Spanish roundel.
     - The **Tornado F. Mk. 3**'s (Italy) long name has been changed to **Tornado F. Mk. 3 (Batch 2)**.
@@ -172,19 +176,25 @@ All dates are listed in DD-MM-YYYY format.
         - **130 mm OEA Mle 1934 HE** (2 seperate ones)
         - **130 mm OPF Mle 1933 SAP**
         - **PL05**
-        - **DDB02-155**
-        - **DDB02 (VT)**
+        - **Type 05 HE**
+        - **Type 05 HE(VT)**
         - **BEA1-155**
         - **2A42** (the **RPsv BMP-2MD**'s cannon)
         - **JHL-2**
         - **5 inch/54 Mk.16 cannon**
         - **102 mm/35 S.A.V. cannon, mod.1915**
         - **102 mm HE-TF**
-        - **381 mm/40 Ansaldo cannon, mod.1914**
+        - **381 mm/40 Armstrong cannon, mod.1914**
         - **381 mm SAPCBC**
         - **KAB-500LG**
         - **UPAB-500B**
         - **Mk.15 ''Hedgehog'' mortar**
+        - **GBU-49 Paveway II**
+        - **LITENING III**
+        - **JM61A1** (a new one because of the new rounds for the cannons for the **F-15**s)
+        - **M61A1** (a new one because of the new rounds for the cannons for the **F-15**s)
+        - **KAB-250LG**
+        - **GBU-54B LJDAM**
     - Caliber and type tags have been added to the following guns:
         - **BT-20**
         - **Browning Machine Gun, Caliber .50, HB, M2**
@@ -192,6 +202,8 @@ All dates are listed in DD-MM-YYYY format.
         - **XM150E6**
         - **D-54TS**
         - **2A42**
+        - **JM61A1** (the new one)
+        - **M61A1** (the new one)
     - Type tags have been added to the following missiles:
         - **Kh-36 (A)**
         - **9M33M3**
@@ -209,6 +221,9 @@ All dates are listed in DD-MM-YYYY format.
         - **Kh-36 (A1)**
         - **KAB-500LG**
         - **UPAB-500B**
+        - **GBU-49(V)1/B**
+        - **KAB-250LG**
+        - **GBU-54(V)1/B**
     - Volume and type tags have been added to the following fuel tanks:
         - **FYX800B**
         - **FYX1400E**
@@ -249,6 +264,11 @@ All dates are listed in DD-MM-YYYY format.
         - **5 inch/54 Mk.16 cannon** renamed to **5 inch/54 Mk. 16 cannon**. This is not an official rename, just a formatting change for standardization.
         - The **KAB-500LG**'s long name has been changed to **KAB-500LG**.
         - The **UPAB-500B**'s long name has been changed to **UPAB-500B**.
+        - **GBU-49 Paveway II** renamed to **GBU-49(V)1/B**. The long name has been changed to **Bomb, Guided, GBU-49(V)1/B Paveway II**.
+        - **20 mm JM61A1 cannon** (the new one) renamed to **JM61A1**.
+        - **20 mm M61A1 cannon** (the new one) renamed to **Cannon, 20mm, M61A1**.
+        - The **KAB-250LG**'s long name has been changed to **KAB-250LG**.
+        - **GBU-54B** renamed to **GBU-54(V)1/B**. The long name has been changed to **Bomb, Guided, GBU-54(V)1/B Laser Joint Direct Attack Munition**.
     - **GBU-38** (USAF variant) renamed to **GBU-38(V)1/B**. The long name has been changed to **Bomb, Guided, GBU-38(V)1/B Joint Direct Attack Munition**. Its mass tag has been corrected to 253.1 kg.
     - **GBU-38** (USN variant) renamed to **GBU-38(V)2/B**. The long name has been changed to **Bomb, Guided, GBU-38(V)2/B Joint Direct Attack Munition**. Its mass tag has been corrected to 253.1 kg.
     - The **GBU-31(V)1/B**'s long name has been changed to **Bomb, Guided, GBU-31(V)1/B Joint Direct Attack Munition**.
@@ -266,6 +286,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Drop tank (1700 L)** (French and Belgian ones) renamed to **RP 30**.
     - **Ahead** renamed to **AHEAD**.
     - **AIM-120A** renamed to **AIM-120B** (not all the **AIM-120A**s, just the file entry for the **AIM-120B** that this mod previously had named as the **AIM-120A**)
+    - Corrected the **S-25LD**'s file entry so it actually renders the text.
 
 ### Modifications:
 
@@ -292,6 +313,11 @@ All dates are listed in DD-MM-YYYY format.
         - **9M336**
         - **FAB-500/UPAB-500B**
         - **KAB-500LG**
+        - **GBU-12/49**
+        - **Mk82/GBU-38/GBU-39**
+        - **GBU-39/BLU-27/B**
+        - **Gun pod CC-422**
+        - **GBU-54B**
     - **FAB 250/500** (this was from "Dance of Dragons" but I forgot to add it)
 
 - #### Changes
@@ -308,8 +334,16 @@ All dates are listed in DD-MM-YYYY format.
         - **Type 500/LS-6 500** renamed to **Type 500 / LS6**
         - **Brimstone (SAL)** renamed to **Brimstone**.
         - **FAB-500/UPAB-500B** renamed to **FAB-500M / Sh / UPAB-500B**.
+        - **GBU-12/49** renamed to **GBU-12/B / 49(V)1/B**.
+        - **Mk82/GBU-38/GBU-39** renamed to **Mk 82 Mod 0 / 38(V)1/B / GBU-39/B**.
+        - **GBU-39/BLU-27/B** renamed to **GBU-39/B / BLU-27/B**.
+        - **Gun pod CC-422** renamed to **CC422**.
+        - **GBU-54B** renamed to **GBU-54(V)1/B**.
     - **FAB 250/500** renamed to **OFAB-250 / 250Š / FAB-250M-62 / 500M-62 / 500Š / ZB-500** (yes I know it's an insanely long name)
     - **HF5 (Type 57-2)** renamed to **HF5 (Type 57-1)**. This isn't part of a rework, it's just to match a change Gaijin made.
+    - **GBU-38** modification renamed to **GBU-38(V)1/B**.
+    - **Gun pod CC-630** renamed to **CC630**.
+    - **Gun pod CC-420** renamed to **CC420**.
 
 ### Sensors:
 
@@ -345,6 +379,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AL-31F-M1**
         - **F404-F1D2**
         - **Salut** (manufacturer)
+        - **TD-12**
     - Engines I forgot to add a while ago:
         - **TF30-P-109**
         - **F100-IHI-200E**
@@ -352,7 +387,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - Uodate "Firebirds" changes:
+    - Update "Firebirds" changes:
         - **AL-31FM1**
         - **Salut** renamed to **Naučno-Proizvodstvyennyj Czyentr Gazoturbostroyeniâ "Salût"**.
 

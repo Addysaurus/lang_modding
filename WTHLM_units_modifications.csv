@@ -989,6 +989,8 @@ modification/jp_gbu38_jdam/desc;Allows the installation of GBU-38 JDAM guided bo
 modification/jp_gbu38_jdam;GBU-38
 modification/us_500lb_mk82_gbu38_jdam/desc;Allows the installation of 500 lb Mk 82 Mod 0 and GBU-38 JDAM GNSS-guided bombs.
 modification/us_500lb_mk82_gbu38_jdam;Mk 82 Mod 0 / GBU-38
+modification/us_500lb_mk82_gbu54b/desc;Allows the installation of GBU-54(V)1/B guided bombs.
+modification/us_500lb_mk82_gbu54b;GBU-54(V)1/B
 modification/us_500lb_mk82_ls_6_250/desc;Allows for the installation of Mk 82 Mod 0 bombs and 250 kg LS6 GNSS-guided bombs.
 modification/us_500lb_mk82_ls_6_250;Mk 82 Mod 0 / LS6
 modification/us_1000lb_mk83_ls_6_500/desc;Allows for the installation of Mk 83 Mod 0 bombs and 500 kg LS6 GNSS-guided bombs.
@@ -1011,6 +1013,8 @@ modification/uk_mk_13_18/desc;Allows the installation of Mk. 13/18 guided bombs.
 modification/uk_mk_13_18;Mk. 13/18
 modification/us_gbu_12/desc;Allows the installation of GBU-12/B guided bombs.
 modification/us_gbu_12;GBU-12/B
+modification/us_gbu_12_49/desc;Allows the installation of guided bombs GBU-12/b and GBU-49(V)1/B guided bombs.
+modification/us_gbu_12_49;GBU-12/B / 49(V)1/B
 modification/us_gbu_16/desc;Allows the installation of GBU-16/B guided bombs.
 modification/us_gbu_16;GBU-16/B
 modification/us_gbu_24/desc;Allows the installation of GBU-24/B guided bombs.
@@ -1025,10 +1029,14 @@ modification/us_gbu_8/desc;Allows the installation of GBU-8/B guided bombs.
 modification/us_gbu_8;GBU-8/B
 modification/us_agm_123/desc;Allows the installation of AGM-123A Skipper II laser-guided air-to-ground missiles.
 modification/us_agm_123;AGM-123A
-modification/us_gbu_38/desc;Allows the installation of GBU-38 JDAM guided bombs.
-modification/us_gbu_38;GBU-38
+modification/us_gbu_38/desc;Allows the installation of GBU-38(V)1/B guided bombs.
+modification/us_gbu_38;GBU-38(V)1/B
 modification/us_gbu39/desc;Allows the installation of GBU-39/B guided bombs.
 modification/us_gbu39;GBU-39/B
+modification/us_mk82_gbu38_gbu39/desc;Allows the installation of Mk 82 Mod 0 bombs and GBU-39/B and GBU-38(V)1/B guided bombs.
+modification/us_mk82_gbu38_gbu39;Mk 82 Mod 0 / 38(V)1/B / GBU-39/B
+modification/us_blu27_gbu39/desc;Allows the installation of GBU-39/B guided bombs and BLU-27/B fire bombs.
+modification/us_blu27_gbu39;GBU-39/B / BLU-27/B
 modification/uk_paveway_iv/desc;Allows the installation of Paveway Mk. IV guided bombs.
 modification/uk_paveway_iv;Paveway Mk. IV
 modification/br_lizard/desc;Allows the installation of Lizard guided bombs.
@@ -1421,8 +1429,8 @@ modification/su_17_x29l;Kh-29L
 modification/su_17_x29l/desc;Allows installation of Kh-29L guided missiles.
 modification/su_x25l_29l;Kh-25ML / 29L
 modification/su_x25l_29l/desc;Allows the installation of Kh-25ML and Kh-29L guided missiles.
-modification/su_grom;Kh-36 (A) / (A1)
-modification/su_grom/desc;"Allows the installation of 9-A-7759 | Kh-36 ""Grom-E1"" guided missiles and 9-A1-7759 | Kh-36 ""Grom-E2"" guided bombs."
+modification/su_grom;Kh-36 (A1)
+modification/su_grom/desc;"Allows the installation of 9-A1-7759 | Kh-36 ""Grom-E2"" guided bombs."
 modification/mig_21_x66;Kh-66
 modification/mig_21_x66/desc;Allows installation of Kh-66 guided missiles.
 modification/fr_as_30l;AS.30L
@@ -1587,10 +1595,12 @@ modification/su_17_sppu_22_gunpod;Gun pod SPPU-22-01
 modification/su_17_sppu_22_gunpod/desc;Allows installation of gun pods SPPU-22-01.
 modification/su_sppu_6_gunpod;Gun pod SPPU-6
 modification/su_sppu_6_gunpod/desc;Allows the installation of gun pods SPPU-6.
-modification/fr_mirage_f1c_cc_420_gunpod;Gun pod CC-420
-modification/fr_mirage_f1c_cc_420_gunpod/desc;Allows installation of gun pods CC-420.
-modification/fr_cc630_gun_pod;Gun pod CC-630
-modification/fr_cc630_gun_pod/desc;Allows installation of gun pods CC-630.
+modification/fr_mirage_f1c_cc_420_gunpod;CC420
+modification/fr_mirage_f1c_cc_420_gunpod/desc;Allows the installation of the CC420 gunpod.
+modification/fr_cc630_gun_pod;CC630
+modification/fr_cc630_gun_pod/desc;Allows the installation of the CC630 gunpod.
+modification/fr_cc422_gun_pod;CC422
+modification/fr_cc422_gun_pod/desc;Allows the installation of the CC422 gunpod.
 modification/mk4_mod0_gunpod;Gun pod Mk. 4 Mod 0
 modification/mk4_mod0_gunpod/desc;Allows installation of gun pods Mk. 4 Mod 0.
 modification/ka_29_2a42;2A42

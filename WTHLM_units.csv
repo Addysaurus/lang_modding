@@ -1257,6 +1257,7 @@ shop/group/germ_jagdpanzer_group;Jagdpanzer IV / 38 (t)
 shop/group/germ_jagdpanther_group;Pz.Jgr. Panther G1 / JPz 4-5
 shop/group/germ_panzerjager_tiger_group;Ferdinand / Pz.Jgr. Tiger B
 shop/group/germ_puma_group;SPz Puma S0 / 1
+shop/group/germ_roland_osa_group;FlaRakPz 1 / ◊ 9A33BM2
 shop/group/he51_group;He 51 A / B / C-1 / C-1 (spät)
 shop/group/he_112_group;He 112 V-5 / A-0
 shop/group/do_17_group;Do 17 E-1 / Z-2
@@ -1369,6 +1370,7 @@ shop/group/uk_ratel_group;Ratel 90 / 20
 shop/group/uk_g6_eland_group;G6-45 / Eland 90
 shop/group/uk_rooikat_olifant_group;Rooikat / Olifant Mk1
 shop/group/uk_mttd_olifant_group;MTTD / Olifant Mk2
+shop/group/uk_stormer_group;Stormer / F.V.4333 (HVM)
 shop/group/fury_group;Fury Mk. I / II
 shop/group/gladiator_mk2_group;Gladiator Mk. II / II (Silver) / II (BEF)
 shop/group/hampden_group;Hampden Mk. I / T.B. Mk. I
@@ -4275,10 +4277,10 @@ su_22m4_shop;◊ Su-22M4
 su_22m4_0;◊ izd. S-54K | Su-22M4
 su_22m4_1;◊ Su-22M4
 su_22m4_2;◊ Su-22
-su_22m4_de_wtd61_shop;◊ Su-22M4 (WTD61)
-su_22m4_de_wtd61_0;◊ izd. S-54K | Su-22M4 (Wehrtechnische Dienststelle 61)
-su_22m4_de_wtd61_1;◊ Su-22M4
-su_22m4_de_wtd61_2;◊ Su-22
+su_22m4_de_wtd61_shop;◄ Su-22M4 (WTD61)
+su_22m4_de_wtd61_0;◄ izd. S-54K | Su-22M4 (Wehrtechnische Dienststelle 61)
+su_22m4_de_wtd61_1;◄ Su-22M4
+su_22m4_de_wtd61_2;◄ Su-22
 tornado_ids_de_wtd61_shop;◄ IDS-Tornado (WTD61)
 tornado_ids_de_wtd61_0;◄ IDS-Tornado (Batch 2) (Wehrtechnische Dienststelle 61)
 tornado_ids_de_wtd61_1;◄ IDS-Tornado
@@ -5058,9 +5060,9 @@ ussr_9a33bm3_shop;9A33BM3
 ussr_9a33bm3_0;"BM 9A33BM3 ""Osa-AKM"""
 ussr_9a33bm3_1;9A33BM3
 ussr_9a33bm3_2;SPAA
-germ_9a33bm3_shop;◊ 9A33BM3
-germ_9a33bm3_0;"◊ BM 9A33BM3 ""Osa-AKM"""
-germ_9a33bm3_1;◊ 9A33BM3
+germ_9a33bm3_shop;◊ 9A33BM2
+germ_9a33bm3_0;"◊ BM 9A33BM2 ""Osa-AK"""
+germ_9a33bm3_1;◊ 9A33BM2
 germ_9a33bm3_2;SPAA
 it_9a33bm3_shop;╏ 9A33BM3
 it_9a33bm3_0;"╏ BM 9A33BM3 ""Osa-AKM"""
@@ -6890,6 +6892,10 @@ saab_ja37d_shop;JA 37 D
 saab_ja37d_0;Saab | Saab 37 | JA 37 D Viggen
 saab_ja37d_1;JA 37 D
 saab_ja37d_2;JA 37
+saab_ja37di_shop;JA 37 DI
+saab_ja37di_0;Saab | Saab 37 | JA 37 DI Viggen
+saab_ja37di_1;JA 37 DI
+saab_ja37di_2;JA 37
 saab_jas39a_shop;JAS 39 A (Cobra)
 saab_jas39a_0;Saab | Saab 39 Gripen A | JAS 39 A Gripen (Cobra)
 saab_jas39a_1;JAS 39 A

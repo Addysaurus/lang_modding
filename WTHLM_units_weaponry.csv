@@ -443,6 +443,8 @@ weapons/su_kab_500l;<color=@userlogColoredText>560 kg</color> KAB-500L-F-E <colo
 weapons/su_kab_500l/short;KAB-500L-F-E
 weapons/su_kab_500lg;<color=@userlogColoredText>560 kg</color> KAB-500LG <color=#ff6f00>BMB-LG</color>
 weapons/su_kab_500lg/short;KAB-500LG
+weapons/su_kab_250lg;<color=@userlogColoredText>256 kg</color> KAB-250LG <color=#ff6f00>BMB-LG</color>
+weapons/su_kab_250lg/short;KAB-250LG
 weapons/su_kab_1500kr;<color=@userlogColoredText>1525 kg</color> KAB-1500Kr <color=#ff6f00>BMB-EO</color>
 weapons/su_kab_1500kr/short;KAB-1500Kr
 weapons/su_upab_500b;<color=@userlogColoredText>560 kg</color> UPAB-500B <color=#ff6f00>BMB-LG</color>
@@ -475,6 +477,8 @@ weapons/cn_ls_6_500;<color=@userlogColoredText>508.3 kg</color> LS6 <color=#ff6f
 weapons/cn_ls_6_500/short;LS6
 weapons/us_gbu_12_paveway_2;<color=@userlogColoredText>277 kg</color> Bomb, Guided, GBU-12/B Paveway II <color=#ff6f00>BMB-LG</color>
 weapons/us_gbu_12_paveway_2/short;GBU-12/B
+weapons/us_gbu_49_paveway_2;<color=@userlogColoredText>277.14 kg</color> Bomb, Guided, GBU-49(V)1/B Paveway II <color=#ff6f00>BMB-LG</color>
+weapons/us_gbu_49_paveway_2/short;GBU-49(V)1/B
 weapons/us_gbu_16_paveway_2;<color=@userlogColoredText>495 kg</color> Bomb, Guided, GBU-16/B Paveway II <color=#ff6f00>BMB-LG</color>
 weapons/us_gbu_16_paveway_2/short;GBU-16/B
 weapons/us_gbu_10_paveway_2;<color=@userlogColoredText>957 kg</color> Bomb, Guided, GBU-10/B Paveway II <color=#ff6f00>BMB-LG</color>
@@ -505,6 +509,8 @@ weapons/us_500lb_gbu38_usaf;<color=@userlogColoredText>253.1 kg</color> Bomb, Gu
 weapons/us_500lb_gbu38_usaf/short;GBU-38(V)1/B
 weapons/us_500lb_gbu38_usnavy;<color=@userlogColoredText>253.1 kg</color> Bomb, Guided, GBU-38(V)2/B Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS</color>
 weapons/us_500lb_gbu38_usnavy/short;GBU-38(V)2/B
+weapons/us_500lb_gbu_54b;Bomb, Guided, GBU-54(V)1/B Laser Joint Direct Attack Munition
+weapons/us_500lb_gbu_54b/short;GBU-54(V)1/B
 weapons/us_2000lb_gbu31_usaf;<color=@userlogColoredText>893.6 kg</color> Bomb, Guided, GBU-31(V)1/B Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS</color>
 weapons/us_2000lb_gbu31_usaf/short;GBU-31(V)1/B
 weapons/us_2000lb_gbu31_usnavy;<color=@userlogColoredText>893.6 kg</color> Bomb, Guided, GBU-31(V)2/B Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS</color>
@@ -686,6 +692,8 @@ weapons/it_pdlct_s_pod_targeting_pod;Targeting CLDP pod
 weapons/it_pdlct_s_pod_targeting_pod/short;CLDP
 weapons/gr_litening_pod_targeting_pod;Targeting LITENING II pod
 weapons/gr_litening_pod_targeting_pod/short;LITENING II
+weapons/gr_litening_iii_targeting_pod;LITENING III targeting pod
+weapons/gr_litening_iii_targeting_pod/short;LITENING III
 weapons/tr_aselpod;ASELPOD targeting pod
 weapons/tr_aselpod/short;ASELPOD
 weapons/us_pave_spike_targeting_pod;Pave Spike targeting pod
@@ -1151,8 +1159,8 @@ weapons/su_s_24b_rocket;S-24B rocket
 weapons/su_s_24b_rocket/short;S-24B
 weapons/su_s_25l_rocket;S-25L rocket
 weapons/su_s_25l_rocket/short;S-25L
-weapons/su_s_25ld_rocket;S-25LD rockets
-weapons/su_s_25ld_rocket/short;S-25LD
+weapons/su_s_25ld;S-25LD rockets
+weapons/su_s_25ld/short;S-25LD
 weapons/su_s_25ofm_rocket;S-25OFM rocket
 weapons/su_s_25ofm_rocket/short;S-25OFM
 weapons/su_s_25of_rocket;S-25OF rocket
@@ -3268,6 +3276,7 @@ weapons/cannonM195;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M195 <
 weapons/cannonOerliconKAD_B;20 mm Oerlikon KAD-B cannon
 weapons/cannonOerliconKAD_B/short;Oerlikon KAD-B
 weapons/cannonJM61A1;<color=@userlogColoredText>20 mm</color> JM61A1 <color=#ff6f00>RCNN</color>
+weapons/cannonJM61A1_pgu_28;<color=@userlogColoredText>20 mm</color> JM61A1 <color=#ff6f00>RCNN</color>
 weapons/cannonM61;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61 <color=#ff6f00>RCNN</color>
 weapons/cannonM61/short;M61
 weapons/cannonM61A1;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 <color=#ff6f00>RCNN</color>
@@ -3276,6 +3285,8 @@ weapons/cannonM61A1_default;<color=@userlogColoredText>20 mm</color> Cannon, 20m
 weapons/cannonM61A1_default/short;M61A1
 weapons/cannonM61A1_pgu_28;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 <color=#ff6f00>RCNN</color>
 weapons/cannonM61A1_pgu_28/short;M61A1
+weapons/cannonM61A1_pgu_28_f15;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 <color=#ff6f00>RCNN</color>
+weapons/cannonM61A1_pgu_28_f15/short;M61A1
 weapons/cannonGAU4;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, GAU-4/A <color=#ff6f00>RCNN</color>
 weapons/cannonGAU4/short;GAU-4/A
 weapons/cannonJGAU4;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, GAU-4/A <color=#ff6f00>RCNN</color>
@@ -5568,7 +5579,7 @@ weapons/76mm_40_ansaldo_mod_1917_naval_user_cannon;76 mm/40 Ansaldo cannon, mod.
 76mm_it_ansaldo_navy_he;76 mm HE
 weapons/102mm_35_sav_mod_1915_aa_naval_user_cannon;102 mm/35 S.A.V. cannon, mod.1915
 102mm_35_contro_aerea_he;102 mm HE-TF
-weapons/381mm_40_armstrong_mod_1914_naval_user_cannon;381 mm/40 Ansaldo cannon, mod.1914
+weapons/381mm_40_armstrong_mod_1914_naval_user_cannon;381 mm/40 Armstrong cannon, mod.1914
 381mm_40_sapcbc;381 mm SAPCBC
 weapons/uk_533mm_21in_mk4_torpedo;533 mm Mk. IV torpedo
 weapons/uk_533mm_21in_mk4_torpedo/short;533 mm Mk. IV
@@ -5866,8 +5877,8 @@ weapons/162mm_losat/short;MGM-166A
 weapons/162mm_MGM166_launcher_user_cannon;MGM-166A LOSAT Launch System <color=#ff6f00>LCH</color>
 weapons/155mm_CN98_user_cannon;155 mm CN98 cannon
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PL2005 155 háomi jiānóng liúdànpào <color=#ff6f00>CNN-HWZ</color>
-155mm_plz_05_he;DDB02-155
-155mm_plz_05_he_vt;DDB02 (VT)
+155mm_plz_05_he;Type 05 HE
+155mm_plz_05_he_vt;Type 05 HE(VT)
 155mm_bea_1;BEA1-155
 weapons/40mm_41M_user_cannon;40 mm MAVAG 41.M 40/51
 weapons/105mm_Mavag_40_43M_user_cannon;105 mm Mavag 40/43.M

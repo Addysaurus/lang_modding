@@ -132,6 +132,9 @@ All dates are listed in DD-MM-YYYY format.
     - The **Mirage 2000 5F**'s mid distance name has been changed to **Mirage 2000 5**. The long distance name has been changed to **Mirage 2000**.
     - The **Mirage 2000 D R1 (ECLAIR-M)**'s mid distance name has been changed to **Mirage 2000 D**. The long distance name has been changed to **Mirage 2000**.
     - The **Mirage 4000**'s long distance name has been changed to **Mirage 4000**.
+    - French roundel removed from the **SK105-A2** in the French tree because the one in the French tree is the Austrian variant and Austria made the **SK105** in the first place.
+    - Farsi transliteration rework according to ISO 233-3:
+        - The **F14**'s (USA / Iran) long name has been changed to **F14 Tāmkat**.
 
 ### Weaponry:
 
@@ -287,7 +290,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Ahead** renamed to **AHEAD**.
     - **AIM-120A** renamed to **AIM-120B** (not all the **AIM-120A**s, just the file entry for the **AIM-120B** that this mod previously had named as the **AIM-120A**)
     - Corrected the **S-25LD**'s file entry so it actually renders the text.
-    - Farsi transliteration rework (all modifications have been adjusted accordingly):
+    - Farsi transliteration rework according to ISO 233-3 (all modifications have been adjusted accordingly):
         - **Yasser** renamed to **Yāsir**.
         - The **AIM-23B**'s long name has been changed to **AIM-23B Fakūr-90**.
         - The **AIM-23C**'s long name has been changed to **AIM-23C Sajīl**.

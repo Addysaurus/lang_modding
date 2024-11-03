@@ -287,6 +287,10 @@ All dates are listed in DD-MM-YYYY format.
     - **Ahead** renamed to **AHEAD**.
     - **AIM-120A** renamed to **AIM-120B** (not all the **AIM-120A**s, just the file entry for the **AIM-120B** that this mod previously had named as the **AIM-120A**)
     - Corrected the **S-25LD**'s file entry so it actually renders the text.
+    - Farsi transliteration rework (all modifications have been adjusted accordingly):
+        - **Yasser** renamed to **Yāsir**.
+        - The **AIM-23B**'s long name has been changed to **AIM-23B Fakūr-90**.
+        - The **AIM-23C**'s long name has been changed to **AIM-23C Sajīl**.
 
 ### Modifications:
 

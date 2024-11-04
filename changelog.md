@@ -92,7 +92,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F-15E** renamed to **F-15E-43-MC**. The long name has been changed to **McDonnell Douglas Corporation | F-15E-43-MC Strike Eagle**.
         - **F-15I Ra'am** renamed to **F-15I**. The long name has remained the same.
         - **Tornado GR.4** renamed to **Tornado G.R. Mk. 4**. The long name has been changed to **Panavia / BAE Systems | Tornado G.R. Mk. 4**.
-        - **AV-8S** (Japan / Thailand) renamed to **B.KhJ.1**.
+        - **AV-8S** (Japan / Thailand) renamed to **B.KhJ.1**. The long name has been changed to **Hawker Siddeley Aviation | B.KhJ.1**.
         - **Luchs A2** renamed to **SpPz Luchs A2**.
         - **Pr.253L** renamed to **T-239**. The long name has been changed to **Proyekt 253LP | T-239**. The ingame vessel does have the mass of the earlier MT-1-type **Pr. 253L**s, but its visual model closest matches the **T-239**.
         - **HMS Repulse** renamed to **HMS Repulse (34)**.
@@ -135,6 +135,7 @@ All dates are listed in DD-MM-YYYY format.
     - French roundel removed from the **SK105-A2** in the French tree because the one in the French tree is the Austrian variant and Austria made the **SK105** in the first place.
     - Farsi transliteration rework according to ISO 233-3:
         - The **F14**'s (USA / Iran) long name has been changed to **F14 Tāmkat**.
+    - **B.Kh.11** (only in the files) renamed to **Thịp 16**. The long name has been changed to **Curtiss-Wright Corperation | Curtiss Hawk Model 75N | B.Kh.11 | Thịp 16**.
 
 ### Weaponry:
 

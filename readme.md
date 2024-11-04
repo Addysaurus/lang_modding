@@ -120,4 +120,4 @@ Farsi is transliterated with ISO 233-3:1999.
 
 ### Thai
 
-Thai is transliterated with ISO 11940-1:1998, with modifications made only when needed to accompany the game being unable to render certain diacritics
+Thai is transliterated with ISO 11940-1:1998, with modifications made only when needed to accompany the game being unable to render certain diacritics.

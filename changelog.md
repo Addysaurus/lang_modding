@@ -331,6 +331,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Gun pod CC-422**
         - **GBU-54B**
         - **Mk82/GBU-39**
+        - **LITENING III**
     - **FAB 250/500** (this was from "Dance of Dragons" but I forgot to add it)
 
 - #### Changes

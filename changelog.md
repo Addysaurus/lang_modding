@@ -326,6 +326,7 @@ All dates are listed in DD-MM-YYYY format.
         - **GBU-39/BLU-27/B**
         - **Gun pod CC-422**
         - **GBU-54B**
+        - **Mk82/GBU-39**
     - **FAB 250/500** (this was from "Dance of Dragons" but I forgot to add it)
 
 - #### Changes
@@ -347,6 +348,7 @@ All dates are listed in DD-MM-YYYY format.
         - **GBU-39/BLU-27/B** renamed to **GBU-39/B / BLU-27/B**.
         - **Gun pod CC-422** renamed to **CC422**.
         - **GBU-54B** renamed to **GBU-54(V)1/B**.
+        - **Mk82/GBU-39** renamed to **Mk 82 Mod 0 / GBU-39/B**.
     - **FAB 250/500** renamed to **OFAB-250 / 250Š / FAB-250M-62 / 500M-62 / 500Š / ZB-500** (yes I know it's an insanely long name)
     - **HF5 (Type 57-2)** renamed to **HF5 (Type 57-1)**. This isn't part of a rework, it's just to match a change Gaijin made.
     - **GBU-38** modification renamed to **GBU-38(V)1/B**.
@@ -365,14 +367,40 @@ All dates are listed in DD-MM-YYYY format.
         - **Platan low-light TV pod**
         - **LSZ-8VN**
         - **L-150-28M**
+        - **AN/APG-76**
+        - **AN/APQ-100**
+        - **AN/APG-59**
+        - **AN/APG-59U**
+        - **AN/APG-68(V)5**
+        - **AN/APG-68(V)7**
+        - **AN/APG-68(V)9**
+        - **AN/APG-63(V)1**
+        - **AN/APG-65GY**
+        - **AN/APG-65Q**
+        - **AN/APG-67**
+        - **GEC-Marconi Avionics AI.24 Foxhunter Stage 3G**
+        - **Thomson-CSF RDM**
     - Type tags have been added to the following sensors:
         - **SPO-32**
         - **V004**
         - **AN/APG-70**
         - **AN/APG-70I**
+        - **AN/APG-76**
+        - **AN/APQ-100**
+        - **AN/APG-59**
+        - **AN/APG-59U**
+        - **AN/APG-68(V)5**
+        - **AN/APG-68(V)7**
+        - **AN/APG-68(V)9**
+        - **AN/APG-63(V)1**
+        - **AN/APG-65(GY)**
+        - **AN/APG-65Q**
+        - **AN/APG-67**
 
 - #### Changes:
 
+    - Update "Firebirds" changes:
+        - **AN/APG-65GY** renamed to **AN/APG-65(GY)**.
     - **SPO-150** renamed to **SPO-32 Pastyel' | L-150**.
 
 ### Engines:

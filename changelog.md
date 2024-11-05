@@ -55,6 +55,7 @@ All dates are listed in DD-MM-YYYY format.
         - **JA37DI**
         - **JA37DI F21**
         - **Mi-35M** (China / Pakistan)
+        - **JA37D** (folder)
     - **Israeli Military Industries** added as the manufacturer for the **Sabra Mk. 1**.
     - **McDonnell Douglas Corporation** added as the manufacturer for the following vehicles:
         - **F-15A-18-MC (MSIP)**
@@ -111,6 +112,7 @@ All dates are listed in DD-MM-YYYY format.
         - **JA37DI** renamed to **JA 37 DI**. The long name has been changed to **Saab | Saab 37 | JA 37 DI Viggen**.
         - **JA37DI F21** renamed to **JA 37 DI (F 21)**. The long name has been changed to **Saab | Saab 37 | JA 37 DI Viggen (Norrbottens flygflottilj (F 21))**.
         - **Mi-35M** (China / Pakistan) renamed to **Mi-35M3**.
+        - **JA37D** (folder) renamed to **JA 37 D / DI**.
     - "▄", the roundel used for the UK and Italy, has been changed to "⛨" for the symbol on the WWII Italian flag. The UK still uses the original symbol. It only has been changed for Italy.
     - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me. It has not changed for the Spanish **M47E2** because that tank is using it as a Spanish roundel.
     - The **Tornado F. Mk. 3**'s (Italy) long name has been changed to **Tornado F. Mk. 3 (Batch 2)**.

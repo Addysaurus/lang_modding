@@ -89,7 +89,7 @@ All dates are listed in DD-MM-YYYY format.
         - The **Leopard 2A5NL**'s long name has been changed to **Krauss-Maffei Wegmann | Leopard 2A5NL-gevechtstank**
         - The **Leopard 2A6NL**'s long name has been changed to **Krauss-Maffei Wegmann | Leopard 2A6NL-gevechtstank**
         - **Sabra Mk.I** renamed to **Sabra Mk. 1**. The long name has been changed to **Israel Military Industries | Sabra Siman 1**.
-        - **Super Hind** renamed to **SuperHind Mk. IV**. The long name has been changed to **Advanced Technology and Engineering | SuperHind Mk. IV**.
+        - **Super Hind** renamed to **Night Hawk**. The long name has been changed to **Paramount Group | Paramount Night Hawk**.
         - **Mi-8AMTSh-VN** renamed to **Mi-8AMTŠ-VN**. The long name has been changed to **Mi-8AMTŠ-VN "Sapsan"**.
         - **F-15E** renamed to **F-15E-43-MC**. The long name has been changed to **McDonnell Douglas Corporation | F-15E-43-MC Strike Eagle**.
         - **F-15I Ra'am** renamed to **F-15I**. The long name has remained the same.
@@ -109,7 +109,7 @@ All dates are listed in DD-MM-YYYY format.
         - **USS Bagley** renamed to **USS Bagley (DD-386)**. The long name has been changed to **Bagley-class, USS Bagley (DD-386)**.
         - **Roland/Osa** folder renamed to **FlaRakPz 1 / ◊ 9A33BM2** ("◊" is the East German roundel).
         - **JA37DI** renamed to **JA 37 DI**. The long name has been changed to **Saab | Saab 37 | JA 37 DI Viggen**.
-        - **JA37DI F1** renamed to **JA 37 DI (F 21)**. The long name has been changed to **Saab | Saab 37 | JA 37 DI Viggen (Norrbottens flygflottilj (F 21))**.
+        - **JA37DI F21** renamed to **JA 37 DI (F 21)**. The long name has been changed to **Saab | Saab 37 | JA 37 DI Viggen (Norrbottens flygflottilj (F 21))**.
         - **Mi-35M** (China / Pakistan) renamed to **Mi-35M3**.
     - "▄", the roundel used for the UK and Italy, has been changed to "⛨" for the symbol on the WWII Italian flag. The UK still uses the original symbol. It only has been changed for Italy.
     - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me. It has not changed for the Spanish **M47E2** because that tank is using it as a Spanish roundel.

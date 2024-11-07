@@ -61,14 +61,40 @@ All dates are listed in DD-MM-YYYY format.
         - **F-15A-18-MC (MSIP)**
         - **F-15C-40-MC (MSIP II)**
         - **F-15E-43-MC**
-    - **Panavia** added as the manufacturer for the following vehicles:
+    - **Panavia Aircraft** added as the manufacturer for the following vehicles:
         - **Tornado G.R. Mk. 1**
         - **A-200**
         - **A-200A**
         - **Tornado F. Mk. 3**
         - **Tornado F. Mk. 3 (AOP)**
         - **Tornado F. Mk. 3** (Italy)
-    - **Panavia / BAE Systems** added as the manufacturer for the **Tornado G.R. Mk. 4**.
+    - **Panavia Aircraft / BAE Systems** added as the manufacturer for the **Tornado G.R. Mk. 4**.
+    - **Bayerische Flugzeugwerke** added as the manufacturer for the following aircraft:
+        - **Bf 109 B-1 (spät)**
+        - **Bf 109 C-1**
+        - **Bf 109 C-1** (WTM)
+        - **Flegel's Bf 109 A-2**
+    - **Messerschmitt** added as the manufacturer for the following aircraft:
+        - **Bf 109 E-1**
+        - **Bf 109 E-3**
+        - **Bf 109 E-4**
+        - **Bf 109 E-7/U2**
+        - **Bf 109 F-1**
+        - **Bf 109 F-2**
+        - **Bf 109 F-4**
+        - **Bf 109 F-4/trop**
+        - **Bf 109 G-2** (Germany / Romania)
+        - **Bf 109 G-2/trop**
+        - **Bf 109 G-6**
+        - **Bf 109 G-14/AM**
+        - **Bf 109 G-10**
+        - **Bf 109 K-4**
+        - **Bf 109 Z-1**
+        - **Bf 109 E-7** (Japan)
+        - **Bf 109 F-4** (Italy / Hungary)
+        - **MT (G-6/R6) (Tp)**
+        - **MT (G-6/R6 Erla)**
+        - **MT (G-2)**
 
 - #### Changes:
 
@@ -104,7 +130,7 @@ All dates are listed in DD-MM-YYYY format.
         - **ICV (P)** renamed to **24 ICV**. The long name has been changed to **24 shiki hohei sentō gata**.
         - The **JDS Murasame (DD-107)**'s long name has been changed to **Murasame gata goeikan (F-103) | JDS Murasame (DD-107) (1975)**.
         - **RN Francesco Caracciolo** renamed to **Francesco Caracciolo**. The long name has been changed to **Classe Francesco Caracciolo | Francesco Caracciolo**.
-        - **Su-22M4 WTD61** renamed to **Su-22M4 (WTD61)**. The long name has been changed to **izd. S-54K | Su-22M4 (Wehrtechnische Dienststelle 61)**.
+        - **Su-22M4 WTD61** renamed to **Su-22M4 (WTD61)**. The long name has been changed to **izd. S-54K | Su-22M4 Fitter-K (Wehrtechnische Dienststelle 61)**.
         - **Mirage 2000-5Ei** renamed to **Mirage 2000 5EI**.
         - **Mirage 2000D-RMV** renamed to **Mirage 2000 D RMV**. The long name has been changed to **Mirage 2000 D Rénovation Mi-Vie**.
         - **USS Bagley** renamed to **USS Bagley (DD-386)**. The long name has been changed to **Bagley-class, USS Bagley (DD-386)**.
@@ -142,6 +168,18 @@ All dates are listed in DD-MM-YYYY format.
     - Farsi transliteration rework according to ISO 233-3:
         - The **F14**'s (USA / Iran) long name has been changed to **F14 Tāmkat**.
     - **B.Kh.11** (only in the files) renamed to **Thịp 16**. The long name has been changed to **Curtiss-Wright Corperation | Curtiss Hawk Model 75N | B.Kh.11 | Thịp 16**.
+    - **T-34 (Sep, 1942) / (Èkranirovannyj) (STZ)** (folder) renamed to **T-34 (Sep, 1942) / (Èkran.) (STZ)**.
+    - **T-34 (Èkranirovannyj) (№112)** renamed to **T-34 (Èkran.) (№112)**. The long name has remained the same.
+    - **T-26-1 (Èkranirovannyj)** renamed to **T-26-1 (Èkran.)**. The long name has remained the same.
+    - **T-28 (Èkranirovannyj)** renamed to **T-28 (Èkran.)**. The long name has remained the same.
+    - **T-34-85 (Èkranirovannyj) (36-â T.Br.)** renamed to **T-34-85 (Èkran.) (36-â T.Br.)**. The long name has remained the same.
+    - **T-34 (Èkranirovannyj) (STZ)** renamed to **T-34 (Èkran.) (STZ)**. The long name has remained the same.
+    - **KV-1 (Èkranirovannyj)** renamed to **KV-1 (Èkran.)**. The long name has remained the same.
+    - **Bf 109 F-4/trop** renamed to **Bf 109 F-4 (Trop.)**. The long name has been changed to **Bf 109 F-4 (Tropenausrüstung)**.
+    - **Bf 109 G-2/trop** renamed to **Bf 109 G-2 (Trop.)**. The long name has been changed to **Bf 109 G-2 (Tropenausrüstung)**.
+    - **MT (G-6/R6) (Tp)** renamed to **MT (G-6/R6) (Trop.)**. The long name has been changed to **Messerschmitt | MT (G-6/R6) (Tropenausrüstung) "Mersu"**.
+    - **Bf 109 F-4 / 4/trop** (folder) renamed to **Bf 109 F-4 / 4 (Trop.)**.
+    - **Bf 109 G-2/trop / G-6** (folder) renamed to **Bf 109 G-2 (Trop.) / G-6**.
 
 ### Weaponry:
 

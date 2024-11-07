@@ -1274,8 +1274,8 @@ shop/group/me-410a-1_group;Me 410 A-1/U4 / B-2/U4
 shop/group/me-410a_u2_group;Me 410 A-1/U2 / B-1/U2
 shop/group/bf-109e_group;Bf 109 E-3 / 4
 shop/group/bf-109f_early_group;Bf 109 F-1 / 2
-shop/group/bf-109f_group;Bf 109 F-4 / 4/trop
-shop/group/bf-109g_2_group;Bf 109 G-2/trop / G-6
+shop/group/bf-109f_group;Bf 109 F-4 / 4 (Trop.)
+shop/group/bf-109g_2_group;Bf 109 G-2 (Trop.) / G-6
 shop/group/bf-109g_group;Bf 109 G-14 / 10
 shop/group/fw-190d_group;Fw 190 A-5/U12 / D-12
 shop/group/me-410a_group;Me 410 A-1 / B-1
@@ -1296,7 +1296,7 @@ shop/group/f-86_german_group;◄ Sabre Mk. 5 / 6
 shop/group/mig_21_germany_group;MiG-21MF / bis (SAU)
 shop/group/mig-21_hungary_group;◔ MiG-21MF / bisz
 shop/group/ussr_t_34_40_41_group;T-34 (Dec, 1940) / (May, 1941)
-shop/group/ussr_t_34_42_group;T-34 (Sep, 1942) / (Èkranirovannyj) (STZ)
+shop/group/ussr_t_34_42_group;T-34 (Sep, 1942) / (Èkran.) (STZ)
 shop/group/ussr_btr_zis_group;BTR-152A / ZiS-43
 ussr_su_85_group;SU-85 / 85M
 shop/group/ussr_is_2_1944_group;IS-2 (2-j) / (2-j) (No. 321)
@@ -3601,83 +3601,83 @@ us_battleship_mississippi_1;USS Mississippi
 us_battleship_mississippi_2;Battleship
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 1;
 bf-109b_2_shop;Bf 109 B-1 (spät)
-bf-109b_2_0;Bf 109 B-1 (spät)
+bf-109b_2_0;Bayerische Flugzeugwerke | Bf 109 B-1 (spät)
 bf-109b_2_1;Bf 109 B
 bf-109b_2_2;Bf 109 
 bf-109c_1_shop;Bf 109 C-1
-bf-109c_1_0;Bf 109 C-1
+bf-109c_1_0;Bayerische Flugzeugwerke | Bf 109 C-1
 bf-109c_1_1;Bf 109 C
 bf-109c_1_2;Bf 109
 bf-109a_1_shop;Flegel's Bf 109 A-2
-bf-109a_1_0;Norbert Flegel's Bf 109 A-2
+bf-109a_1_0;Bayerische Flugzeugwerke | Norbert Flegel's Bf 109 A-2
 bf-109a_1_1;Bf 109 A
 bf-109a_1_2;Bf 109
 bf-109c_1_promo_shop;◓ Bf 109 C-1
-bf-109c_1_promo_0;◓ Bf 109 C-1
+bf-109c_1_promo_0;Bayerische Flugzeugwerke | ◓ Bf 109 C-1
 bf-109c_1_promo_1;◓ Bf 109 C
 bf-109c_1_promo_2;◓ Bf 109
 bf-109e-1_shop;Bf 109 E-1
-bf-109e-1_0;Bf 109 E-1
+bf-109e-1_0;Messerschmitt | Bf 109 E-1
 bf-109e-1_1;Bf 109 E
 bf-109e-1_2;Bf 109
 bf-109e-3_shop;Bf 109 E-3
-bf-109e-3_0;Bf 109 E-3
+bf-109e-3_0;Messerschmitt | Bf 109 E-3
 bf-109e-3_1;Bf 109 E
 bf-109e-3_2;Bf 109
 bf-109e-4_shop;Bf 109 E-4
-bf-109e-4_0;Bf 109 E-4
+bf-109e-4_0;Messerschmitt | Bf 109 E-4
 bf-109e-4_1;Bf 109 E
 bf-109e-4_2;Bf 109
 bf-109e-7_shop;Bf 109 E-7/U2
-bf-109e-7_0;Bf 109 E-7/U2
+bf-109e-7_0;Messerschmitt | Bf 109 E-7/U2
 bf-109e-7_1;Bf 109 E
 bf-109e-7_2;Bf 109
 bf-109e-3-ace_shop;Bf 109 E-3
-bf-109e-3-ace_0;Bf 109 E-3
+bf-109e-3-ace_0;Messerschmitt | Bf 109 E-3
 bf-109e-3-ace_1;Bf 109 E
 bf-109e-3-ace_2;Bf 109
 bf-109f-1_shop;Bf 109 F-1
-bf-109f-1_0;Bf 109 F-1
+bf-109f-1_0;Messerschmitt | Bf 109 F-1
 bf-109f-1_1;Bf 109 F
 bf-109f-1_2;Bf 109
 bf-109f-2_shop;Bf 109 F-2
-bf-109f-2_0;Bf 109 F-2
+bf-109f-2_0;Messerschmitt | Bf 109 F-2
 bf-109f-2_1;Bf 109 F
 bf-109f-2_2;Bf 109 
 bf-109f-4_shop;Bf 109 F-4
-bf-109f-4_0;Bf 109 F-4
+bf-109f-4_0;Messerschmitt | Bf 109 F-4
 bf-109f-4_1;Bf 109 F
 bf-109f-4_2;Bf 109
-bf-109f-4_trop_shop;Bf 109 F-4/trop
-bf-109f-4_trop_0;Bf 109 F-4/trop
+bf-109f-4_trop_shop;Bf 109 F-4 (Trop.)
+bf-109f-4_trop_0;Messerschmitt | Bf 109 F-4 (Tropenausrüstung)
 bf-109f-4_trop_1;Bf 109 F
 bf-109f-4_trop_2;Bf 109
 bf-109g-2_romania_shop;╏ Bf 109 G-2
-bf-109g-2_romania_0;╏ Bf 109 G-2
+bf-109g-2_romania_0;╏ Messerschmitt | Bf 109 G-2
 bf-109g-2_romania_1;╏ Bf 109 G
 bf-109g-2_romania_2;╏ Bf 109
-bf-109g-2_shop;Bf 109 G-2/trop
-bf-109g-2_0;Bf 109 G-2/trop
+bf-109g-2_shop;Bf 109 G-2 (Trop.)
+bf-109g-2_0;Messerschmitt | Bf 109 G-2 (Tropenausrüstung)
 bf-109g-2_1;Bf 109 G
 bf-109g-2_2;Bf 109
 bf-109g-6_shop;Bf 109 G-6
-bf-109g-6_0;Bf 109 G-6
+bf-109g-6_0;Messerschmitt | Bf 109 G-6
 bf-109g-6_1;Bf 109 G
 bf-109g-6_2;Bf 109
 bf-109g-14_shop;Bf 109 G-14/AM
-bf-109g-14_0;Bf 109 G-14/AM
+bf-109g-14_0;Messerschmitt | Bf 109 G-14/AM
 bf-109g-14_1;Bf 109 G
 bf-109g-14_2;Bf 109
 bf-109g-10_shop;Bf 109 G-10
-bf-109g-10_0;Bf 109 G-10
+bf-109g-10_0;Messerschmitt | Bf 109 G-10
 bf-109g-10_1;Bf 109 G
 bf-109g-10_2;Bf 109
 bf-109k-4_shop;Bf 109 K-4
-bf-109k-4_0;Bf 109 K-4
+bf-109k-4_0;Messerschmitt | Bf 109 K-4
 bf-109k-4_1;Bf 109 K
 bf-109k-4_2;Bf 109
 bf-109z_shop;Bf 109 Z-1
-bf-109z_0;Bf 109 Z-1
+bf-109z_0;Messerschmitt | Bf 109 Z-1
 bf-109z_1;Bf 109 Z
 bf-109z_2;Bf 109
 he51a1_shop;He 51 A-1
@@ -4279,7 +4279,7 @@ su_22m4_0;◊ izd. S-54K | Su-22M4
 su_22m4_1;◊ Su-22M4
 su_22m4_2;◊ Su-22
 su_22m4_de_wtd61_shop;◄ Su-22M4 (WTD61)
-su_22m4_de_wtd61_0;◄ izd. S-54K | Su-22M4 (Wehrtechnische Dienststelle 61)
+su_22m4_de_wtd61_0;◄ izd. S-54K | Su-22M4 Fitter-K (Wehrtechnische Dienststelle 61)
 su_22m4_de_wtd61_1;◄ Su-22M4
 su_22m4_de_wtd61_2;◄ Su-22
 tornado_ids_de_wtd61_shop;◄ IDS-Tornado (WTD61)
@@ -4581,7 +4581,7 @@ germ_pzkpfw_VI_ausf_h1_tiger_tutorial_shop;Tiger E (früh)
 germ_pzkpfw_VI_ausf_h1_tiger_tutorial_0;Panzerkampfwagen Tiger Ausf. E (früh)
 germ_pzkpfw_VI_ausf_h1_tiger_tutorial_1;Tiger E
 germ_pzkpfw_VI_ausf_h1_tiger_tutorial_2;Heavy tank
-ussr_t_34E_shop;T-34 (Èkranirovannyj) (№112)
+ussr_t_34E_shop;T-34 (Èkran.) (№112)
 ussr_t_34E_0;"Zavod №112 | Ob""yekt 34 | T-34 obr. 1941 g. (Èkranirovannyj) (February, 1943)"
 ussr_t_34E_1;T-34
 ussr_t_34E_2;Medium tank
@@ -4753,7 +4753,7 @@ ussr_t_26_4_shop;T-26-4
 ussr_t_26_4_0;T-26-4
 ussr_t_26_4_1;T-26-4
 ussr_t_26_4_2;Light tank
-ussr_t_26E_shop;T-26-1 (Èkranirovannyj)
+ussr_t_26E_shop;T-26-1 (Èkran.)
 ussr_t_26E_0;T-26-1 | T-26 obr. 1940 g. (Èkranirovannyj)
 ussr_t_26E_1;T-26 
 ussr_t_26E_2;Light tank
@@ -4765,7 +4765,7 @@ ussr_t_26_1940_shop;T-26-1
 ussr_t_26_1940_0;T-26-1 | T-26 obr. 1940 g.
 ussr_t_26_1940_1;T-26
 ussr_t_26_1940_2;Light tank
-ussr_t_28E_shop;T-28 (Èkranirovannyj)
+ussr_t_28E_shop;T-28 (Èkran.)
 ussr_t_28E_0;T-28 obr. 1938/39 gg. (Èkranirovannyj)
 ussr_t_28E_1;T-28
 ussr_t_28E_2;Medium tank
@@ -4813,7 +4813,7 @@ ussr_t_34_85_d_5t_shop;T-34-85 (Mar, 1944)
 ussr_t_34_85_d_5t_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 35 | T-34-85 obr. 1944 g. (March, 1944)"
 ussr_t_34_85_d_5t_1;T-34-85
 ussr_t_34_85_d_5t_2;Medium tank
-ussr_t_34_85E_shop;T-34-85 (Èkranirovannyj) (36-â T.Br.)
+ussr_t_34_85E_shop;T-34-85 (Èkran.) (36-â T.Br.)
 ussr_t_34_85E_0;"Omskij Zavod im. Lyenina, Zavod №174 | Ob""yekt 35 | T-34-85 obr. 1944 g. (Èkranirovannyj) (September, 1944) (36-â Tankovaâ Brigada)"
 ussr_t_34_85E_1;T-34-85
 ussr_t_34_85E_2;Medium tank
@@ -4825,7 +4825,7 @@ ussr_t_34_57_1943_shop;T-34 (Sep, 1942) (ZiS-4M)
 ussr_t_34_57_1943_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1942 g. (September, 1942) (ZiS-4M) (July, 1943)"
 ussr_t_34_57_1943_1;T-34
 ussr_t_34_57_1943_2;Medium tank
-ussr_t_34E_STZ_shop;T-34 (Èkranirovannyj) (STZ)
+ussr_t_34E_STZ_shop;T-34 (Èkran.) (STZ)
 ussr_t_34E_STZ_0;"Stalingradskij Traktornyj Zavod im. F.È. Dzyeržinskogo | Ob""yekt 34 | T-34 obr. 1941 g. (Èkranirovannyj) (February, 1942)"
 ussr_t_34E_STZ_1;T-34
 ussr_t_34E_STZ_2;Medium tank
@@ -4921,7 +4921,7 @@ ussr_smk_shop;SMK
 ussr_smk_0;SMK
 ussr_smk_1;SMK
 ussr_smk_2;Heavy tank
-ussr_kv_1e_shop;KV-1 (Èkranirovannyj)
+ussr_kv_1e_shop;KV-1 (Èkran.)
 ussr_kv_1e_0;KV-1 obr. 1941 g. (Èkranirovannyj)
 ussr_kv_1e_1;KV-1
 ussr_kv_1e_2;Heavy tank
@@ -6102,15 +6102,15 @@ su_6_single_0;Su-6
 su_6_single_1;Su-6
 su_6_single_2;Su-6
 bf-109e-3_japan_shop;▅ Bf 109 E-7
-bf-109e-3_japan_0;▅ Bf 109 E-7
+bf-109e-3_japan_0;▅ Messerschmitt | Bf 109 E-7
 bf-109e-3_japan_1;▅ Bf 109 E
 bf-109e-3_japan_2;▅ Bf 109
 bf-109f-4_hungary_shop;◐ Bf 109 F-4
-bf-109f-4_hungary_0;◐ Bf 109 F-4
+bf-109f-4_hungary_0;◐ Messerschmitt | Bf 109 F-4
 bf-109f-4_hungary_1;◐ Bf 109 F
 bf-109f-4_hungary_2;◐ Bf 109
 bf-109g-6_finland_shop;MT (G-6/R6) (Tp)
-bf-109g-6_finland_0;"MT (G-6/R6) (Tropenausführung) ""Mersu"""
+bf-109g-6_finland_0;"Messerschmitt | MT (G-6/R6) (Tropenausrüstung) ""Mersu"""
 bf-109g-6_finland_1;MT (G-6)
 bf-109g-6_finland_2;MT
 s_199_shop; S.199 (batch 2)
@@ -9126,11 +9126,11 @@ hurricane_mk1_late_finland_0;"HC ""Hurricane"""
 hurricane_mk1_late_finland_1;HC
 hurricane_mk1_late_finland_2;HC
 bf-109g-2_finland_shop;MT (G-2)
-bf-109g-2_finland_0;"MT (G-2) ""Mersu"""
+bf-109g-2_finland_0;"Messerschmitt | MT (G-2) ""Mersu"""
 bf-109g-2_finland_1;MT
 bf-109g-2_finland_2;MT
 bf-109g-6_erla_finland_shop;MT (G-6/R6 Erla)
-bf-109g-6_erla_finland_0;"MT (G-6/R6 Erla) ""Mersu"""
+bf-109g-6_erla_finland_0;"Messerschmitt | MT (G-6/R6 Erla) ""Mersu"""
 bf-109g-6_erla_finland_1;MT (G-6)
 bf-109g-6_erla_finland_2;MT
 vampire_fb52_finland_shop;VA
@@ -10610,31 +10610,31 @@ swift_f7_0;Swift F. Mk. 7
 swift_f7_1;Swift F. Mk. 7
 swift_f7_2;Swift
 tornado_gr1_shop;▄ Tornado G.R. Mk. 1
-tornado_gr1_0;▄ Panavia | Tornado G.R. Mk. 1 (Batch 1) (February 1991)
+tornado_gr1_0;▄ Panavia Aircraft | Tornado G.R. Mk. 1 (Batch 1) (February 1991)
 tornado_gr1_1;▄ Tornado G.R. Mk. 1
 tornado_gr1_2;▄ Tornado
 tornado_gr4_shop;▄ Tornado G.R. Mk. 4
-tornado_gr4_0;▄ Panavia / BAE Systems | Tornado G.R. Mk. 4
+tornado_gr4_0;▄ Panavia Aircraft / BAE Systems | Tornado G.R. Mk. 4
 tornado_gr4_1;▄ Tornado G.R. Mk. 4
 tornado_gr4_2;▄ Tornado
 tornado_ids_it_shop;A-200
-tornado_ids_it_0;Panavia | A-200 Tornado
+tornado_ids_it_0;Panavia Aircraft | A-200 Tornado
 tornado_ids_it_1;A-200
 tornado_ids_it_2;A-200
 tornado_ids_it_mod95_shop;A-200A
-tornado_ids_it_mod95_0;Panavia | A-200A Tornado (Batch 2) (1995)
+tornado_ids_it_mod95_0;Panavia Aircraft | A-200A Tornado (Batch 2) (1995)
 tornado_ids_it_mod95_1;A-200A
 tornado_ids_it_mod95_2;A-200
 tornado_f3_shop;▄ Tornado F. Mk. 3
-tornado_f3_0;▄ Panavia | Tornado F. Mk. 3 (Batch 2)
+tornado_f3_0;▄ Panavia Aircraft | Tornado F. Mk. 3 (Batch 2)
 tornado_f3_1;▄ Tornado F. Mk. 3
 tornado_f3_2;▄ Tornado
 tornado_f3_late_shop;▄ Tornado F. Mk. 3 (AOP)
-tornado_f3_late_0;▄ Panavia | Tornado F. Mk. 3 (AMRAAM Optimisation Programme)
+tornado_f3_late_0;▄ Panavia Aircraft | Tornado F. Mk. 3 (AMRAAM Optimisation Programme)
 tornado_f3_late_1;▄ Tornado F. Mk. 3
 tornado_f3_late_2;▄ Tornado
 tornado_adv_shop;⛨ Tornado F. Mk. 3
-tornado_adv_0;⛨ Panavia | Tornado F. Mk. 3 (Batch 2)
+tornado_adv_0;⛨ Panavia Aircraft | Tornado F. Mk. 3 (Batch 2)
 tornado_adv_1;⛨ Tornado F. Mk. 3
 tornado_adv_2;⛨ Tornado
 harrier_gr1_shop;Harrier G.R. Mk. 1

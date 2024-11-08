@@ -180,6 +180,7 @@ All dates are listed in DD-MM-YYYY format.
     - **MT (G-6/R6) (Tp)** renamed to **MT (G-6/R6) (Trop.)**. The long name has been changed to **Messerschmitt | MT (G-6/R6) (Tropenausrüstung) "Mersu"**.
     - **Bf 109 F-4 / 4/trop** (folder) renamed to **Bf 109 F-4 / 4 (Trop.)**.
     - **Bf 109 G-2/trop / G-6** (folder) renamed to **Bf 109 G-2 (Trop.) / G-6**.
+    - The **strv 122B+**'s long name has been changed to **Åkers Krutbruk Protection | ÅKP MBT 122B Evolution | stridsvagn 122B+**.
 
 ### Weaponry:
 
@@ -399,6 +400,7 @@ All dates are listed in DD-MM-YYYY format.
     - **GBU-38** modification renamed to **GBU-38(V)1/B**.
     - **Gun pod CC-630** renamed to **CC630**.
     - **Gun pod CC-420** renamed to **CC420**.
+    - **Airstrike** renamed to **Aerial support**.
 
 ### Sensors:
 

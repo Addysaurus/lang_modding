@@ -282,6 +282,7 @@ All dates are listed in DD-MM-YYYY format.
         - **RP 35**
         - **RP 36**
         - **RP 62**
+        - **RP 825**
     - Type tags have been added to the following launchers:
         - **9K33M3**
     - Added the **XM150E6** (this isn't actually a "Firebirds" change, this happened ages ago and I forgot to add it; there's a whole thing with the **XM803**'s gun but I'll deal with that later).
@@ -336,6 +337,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Drop tank (1200 L)** (a different French one) renamed to **RP 36**.
     - **Drop tank (1300 L)** (French and Israeli ones) renamed to **RP 62**.
     - **Drop tank (1700 L)** (French and Belgian ones) renamed to **RP 30**.
+    - **Drop tank (880 L)** (Israeli one) renamed to **RP 825**.
     - **Ahead** renamed to **AHEAD**.
     - **AIM-120A** renamed to **AIM-120B** (not all the **AIM-120A**s, just the file entry for the **AIM-120B** that this mod previously had named as the **AIM-120A**).
     - Corrected the **S-25LD**'s file entry so it actually renders the text.

@@ -483,13 +483,13 @@ weapons/us_gbu_16_paveway_2;<color=@userlogColoredText>495 kg</color> Bomb, Guid
 weapons/us_gbu_16_paveway_2/short;GBU-16/B
 weapons/us_gbu_10_paveway_2;<color=@userlogColoredText>957 kg</color> Bomb, Guided, GBU-10/B Paveway II <color=#ff6f00>BMB-LG</color>
 weapons/us_gbu_10_paveway_2/short;GBU-10/B
-weapons/us_2000lb_gbu_24;<color=@userlogColoredText>907 kg</color> Bomb, Guided, GBU-24/B Paveway III <color=#ff6f00>BMB-LG</color>
+weapons/us_2000lb_gbu_24;<color=@userlogColoredText>1079.55 kg</color> Bomb, Guided, GBU-24/B Paveway III <color=#ff6f00>BMB-LG</color>
 weapons/us_2000lb_gbu_24/short;GBU-24/B
 weapons/us_gbu_39;<color=@userlogColoredText>121.56 kg</color> Bomb, Guided, GBU-39/B Small Diameter Bomb I <color=#ff6f00>BMB-GNSS</color>
 weapons/us_gbu_39/short;GBU-39/B
 weapons/us_agm_123;Guided Missile, Air to Surface, AGM-123A Skipper II <color=#ff6f00>AGM-LG</color>
 weapons/us_agm_123/short;AGM-123A
-weapons/us_2000lb_egbu_24_paveway_3;<color=@userlogColoredText>1050 kg</color> Bomb, Guided, GBU-24E/B Paveway III <color=#ff6f00>BMB-LG</color>
+weapons/us_2000lb_egbu_24_paveway_3;<color=@userlogColoredText>1079.55 kg</color> Bomb, Guided, GBU-24E/B Paveway III <color=#ff6f00>BMB-LG</color>
 weapons/us_2000lb_egbu_24_paveway_3/short;GBU-24E/B
 weapons/uk_paveway_iv;<color=@userlogColoredText>277.14 kg</color> Paveway Mk. IV <color=#ff6f00>BMB-LG</color>
 weapons/uk_paveway_iv/short;Paveway Mk. IV
@@ -499,11 +499,11 @@ weapons/fr_mk13;Mk. 13 guided bomb
 weapons/fr_mk13/short;Mk. 13
 weapons/br_lizard_2;<color=@userlogColoredText>277.14 kg</color> Bombas Aéreas de Fins Gerais 230 (Lizard 2) <color=#ff6f00>BMB-LG</color>
 weapons/br_lizard_2/short;BAFG-230 (Lizard 2)
-weapons/us_2000lb_gbu_15v1;<color=@userlogColoredText>907 kg</color> Bomb, Guided, GBU-15(V)1/B <color=#ff6f00>BMB-TV</color>
+weapons/us_2000lb_gbu_15v1;<color=@userlogColoredText>1140.8 kg</color> Bomb, Guided, GBU-15(V)1/B <color=#ff6f00>BMB-TV</color>
 weapons/us_2000lb_gbu_15v1/short;GBU-15(V)1/B
-weapons/us_2000lb_gbu_15v2;<color=@userlogColoredText>907 kg</color> Bomb, Guided, GBU-15(V)2/B <color=#ff6f00>BMB-IR</color>
+weapons/us_2000lb_gbu_15v2;<color=@userlogColoredText>1140.8 kg</color> Bomb, Guided, GBU-15(V)2/B <color=#ff6f00>BMB-IR</color>
 weapons/us_2000lb_gbu_15v2/short;GBU-15(V)2/B
-weapons/us_2000lb_gbu_8_hobos;<color=@userlogColoredText>907 kg</color> Bomb, Guided, GBU-8/B <color=#ff6f00>BMB-TV</color>
+weapons/us_2000lb_gbu_8_hobos;<color=@userlogColoredText>1027 kg</color> Bomb, Guided, GBU-8/B Homing Bomb System <color=#ff6f00>BMB-TV</color>
 weapons/us_2000lb_gbu_8_hobos/short;GBU-8/B
 weapons/us_500lb_gbu38_usaf;<color=@userlogColoredText>253.1 kg</color> Bomb, Guided, GBU-38(V)1/B Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS</color>
 weapons/us_500lb_gbu38_usaf/short;GBU-38(V)1/B
@@ -670,10 +670,10 @@ weapons/uk_data_lin_pod;Data link pod
 weapons/uk_data_lin_pod/short;Data link pod
 weapons/rls_kopio_25;Kopyo-25 radar pod
 weapons/rls_kopio_25/short;Kopyo-25
-weapons/cn_k_pzs_01_targeting_pod;Targeting K/PSZ-01 pod
-weapons/cn_k_pzs_01_targeting_pod/short;K/PSZ-01
-weapons/cn_k_adc03a_targeting_pod;K/ADC03A targeting pod
-weapons/cn_k_adc03a_targeting_pod/short;K/ADC03A
+weapons/cn_k_pzs_01_targeting_pod;K/PSZ01 <color=#ff6f00>TGP</color>
+weapons/cn_k_pzs_01_targeting_pod/short;K/PSZ01
+weapons/cn_k_adc03a_targeting_pod;K/JDC03A <color=#ff6f00>TGP</color>
+weapons/cn_k_adc03a_targeting_pod/short;K/JDC03A
 weapons/it_aspide_control_station;Aspide aim block
 weapons/it_aspide_control_station/short;Aspide aim block
 weapons/uk_tiald_targeting_pod;Targeting TIALD pod
@@ -694,8 +694,8 @@ weapons/gr_litening_pod_targeting_pod;Targeting LITENING II pod
 weapons/gr_litening_pod_targeting_pod/short;LITENING II
 weapons/gr_litening_iii_targeting_pod;LITENING III targeting pod
 weapons/gr_litening_iii_targeting_pod/short;LITENING III
-weapons/tr_aselpod;ASELPOD targeting pod
-weapons/tr_aselpod/short;ASELPOD
+weapons/tr_aselpod;K/PZS01 <color=#ff6f00>TGP</color>
+weapons/tr_aselpod/short;K/PZS01
 weapons/us_pave_spike_targeting_pod;Pave Spike targeting pod
 weapons/us_pave_spike_targeting_pod/short;Pave Spike
 weapons/fr_damocles_pod_targeting_pod;DAMOCLES targeting pod

@@ -123,7 +123,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Tornado GR.4** renamed to **Tornado G.R. Mk. 4**. The long name has been changed to **Panavia / BAE Systems | Tornado G.R. Mk. 4**.
         - **AV-8S** (Japan / Thailand) renamed to **B.KhJ.1**. The long name has been changed to **Hawker Siddeley Aviation | B.KhJ.1**.
         - **Luchs A2** renamed to **SpPz Luchs A2**.
-        - **Pr.253L** renamed to **T-239**. The long name has been changed to **Proyekt 253LP | T-239**. The ingame vessel does have the mass of the earlier MT-1-type **Pr. 253L**s, but its visual model closest matches the **T-239**.
+        - **Pr.253L** renamed to **T-351**. The long name has been changed to **Proyekt 253L | T-351**. This is a placeholder name because it is the first vessel in the class and sources list the class as having the armament ingame. This name will likely be changed later.
         - **HMS Repulse** renamed to **HMS Repulse (34)**.
         - **Object 140** renamed to **Ob. 140**. The long name has been changed to **Ob"yekt 140**.
         - **BMP-2MD** renamed to **RPsv BMP-2MD**. The lone name has been changed to **Ps. 153 | Rynnäkköpanssarivaunu BMP-2MD**.
@@ -285,6 +285,9 @@ All dates are listed in DD-MM-YYYY format.
     - Type tags have been added to the following launchers:
         - **9K33M3**
     - Added the **XM150E6** (this isn't actually a "Firebirds" change, this happened ages ago and I forgot to add it; there's a whole thing with the **XM803**'s gun but I'll deal with that later).
+    - Type tags have been added to the following targeting pods:
+        - **K/PZS01**
+        - **K/JDC03A**
 
 - #### Changes:
 
@@ -334,12 +337,19 @@ All dates are listed in DD-MM-YYYY format.
     - **Drop tank (1300 L)** (French and Israeli ones) renamed to **RP 62**.
     - **Drop tank (1700 L)** (French and Belgian ones) renamed to **RP 30**.
     - **Ahead** renamed to **AHEAD**.
-    - **AIM-120A** renamed to **AIM-120B** (not all the **AIM-120A**s, just the file entry for the **AIM-120B** that this mod previously had named as the **AIM-120A**)
+    - **AIM-120A** renamed to **AIM-120B** (not all the **AIM-120A**s, just the file entry for the **AIM-120B** that this mod previously had named as the **AIM-120A**).
     - Corrected the **S-25LD**'s file entry so it actually renders the text.
     - Farsi transliteration rework according to ISO 233-3 (all modifications have been adjusted accordingly):
         - **Yasser** renamed to **Yāsir**.
         - The **AIM-23B**'s long name has been changed to **AIM-23B Fakūr-90**.
         - The **AIM-23C**'s long name has been changed to **AIM-23C Sajīl**.
+    - **K/PZS-01** renamed to **K/PZS01**.
+    - **K/ADC03A** renamed to **K/JDC03A**. There is an issue where the **JH7A**'s pod now has the wrong name because it uses the **K/ADC03A**'s text entry but has the model of the **K/PZS01**, but the **JH7A** is supposed to have the real **K/JDC03A** so I went with this.
+    - **ASELPOD** renamed to **K/PZS01**. **ASELPOD** is a real thing, but ingame it has the model of the **K/PZS01**.
+    - The **GBU-24/B**'s mass tag has been corrected to 1079.55 kg.
+    - The **GBU-15(V)1/B**'s mass tag has been corrected to 1140.8 kg.
+    - The **GBU-15(V)2/B**'s mass tag has been corrected to 1140.8 kg.
+    - The **GBU-8/B**'s long name has been changed to **Bomb, Guided, GBU-8/B Homing Bomb System**. Its mass tag has been corrected to 1027 kg.
 
 ### Modifications:
 

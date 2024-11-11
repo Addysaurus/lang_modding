@@ -181,6 +181,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Bf 109 F-4 / 4/trop** (folder) renamed to **Bf 109 F-4 / 4 (Trop.)**.
     - **Bf 109 G-2/trop / G-6** (folder) renamed to **Bf 109 G-2 (Trop.) / G-6**.
     - The **strv 122B+**'s long name has been changed to **Åkers Krutbruk Protection | ÅKP MBT 122B Evolution | stridsvagn 122B+**.
+    - The **M551 (M32A1)**'s long name has been changed to **Cadillac Motor Car Division | G-310 | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 76mm Gun, M551 Sheridan**.
+    - The **M551**'s long name has been changed to **Cadillac Motor Car Division | G-310 | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 152mm Gun-Launcher, M551 Sheridan**.
 
 ### Weaponry:
 

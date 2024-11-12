@@ -183,7 +183,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **strv 122B+**'s long name has been changed to **Åkers Krutbruk Protection | ÅKP MBT 122B Evolution | stridsvagn 122B+**.
     - The **M551 (M32A1)**'s long name has been changed to **Cadillac Motor Car Division | G-310 | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 76mm Gun, M551 Sheridan**.
     - The **M551**'s long name has been changed to **Cadillac Motor Car Division | G-310 | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 152mm Gun-Launcher, M551 Sheridan**.
-    - The **Yanšuf Ḥamuš**'s long name has been changed to **Sikorsky Aircraft Corperation / Elbit Systems / Israeli Air Force | Yanšuf Ḥamuš** (previously the Hebrew transliteration rework with diacritics has been forgotten in the long name)
+    - The **Yanšuf Ḥamuš**'s long name has been changed to **Sikorsky Aircraft Corperation / Elbit Systems / Israeli Air Force | Yanšuf Ḥamuš**. The mid disance name has been changed to **Yanšuf Ḥamuš** and the long distance name has been changed to **Yanšuf**. Previously the Hebrew transliteration rework with diacritics has been forgotten in the long, mid distance, and long distance names.
 
 ### Weaponry:
 

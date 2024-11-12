@@ -183,6 +183,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **strv 122B+**'s long name has been changed to **Åkers Krutbruk Protection | ÅKP MBT 122B Evolution | stridsvagn 122B+**.
     - The **M551 (M32A1)**'s long name has been changed to **Cadillac Motor Car Division | G-310 | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 76mm Gun, M551 Sheridan**.
     - The **M551**'s long name has been changed to **Cadillac Motor Car Division | G-310 | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 152mm Gun-Launcher, M551 Sheridan**.
+    - The **Yanšuf Ḥamuš**'s long name has been changed to **Sikorsky Aircraft Corperation / Elbit Systems / Israeli Air Force | Yanšuf Ḥamuš** (previously the Hebrew transliteration rework with diacritics has been forgotten in the long name)
 
 ### Weaponry:
 
@@ -348,7 +349,7 @@ All dates are listed in DD-MM-YYYY format.
         - The **AIM-23B**'s long name has been changed to **AIM-23B Fakūr-90**.
         - The **AIM-23C**'s long name has been changed to **AIM-23C Sajīl**.
     - **K/PZS-01** renamed to **K/PZS01**.
-    - **K/ADC03A** renamed to **K/JDC03A**. There is an issue where the **JH7A**'s pod now has the wrong name because it uses the **K/ADC03A**'s text entry but has the model of the **K/PZS01**, but the **JH7A** is supposed to have the real **K/JDC03A** so I went with this.
+    - **K/ADC03A** renamed to **K/JDC03A**. This does create an issue where the **JH7A**'s pod now has the wrong name because it uses the **K/ADC03A**'s text entry but has the model of the **K/PZS01**, but the **JH7A** is supposed to have the real **K/JDC03A** so I went with this.
     - **ASELPOD** renamed to **K/PZS01**. **ASELPOD** is a real thing, but ingame it has the model of the **K/PZS01**.
     - The **GBU-24/B**'s mass tag has been corrected to 1079.55 kg.
     - The **GBU-15(V)1/B**'s mass tag has been corrected to 1140.8 kg.

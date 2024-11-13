@@ -55,7 +55,7 @@ All dates are listed in DD-MM-YYYY format.
         - **JA37DI**
         - **JA37DI F21**
         - **Mi-35M** (China / Pakistan)
-        - **JA37D** (folder)
+        - **JA37D/DI** (folder)
     - **Israeli Military Industries** added as the manufacturer for the **Sabra Mk. 1**.
     - **McDonnell Douglas Corporation** added as the manufacturer for the following vehicles:
         - **F-15A-18-MC (MSIP)**
@@ -138,7 +138,7 @@ All dates are listed in DD-MM-YYYY format.
         - **JA37DI** renamed to **JA 37 DI**. The long name has been changed to **Saab | Saab 37 | JA 37 DI Viggen**.
         - **JA37DI F21** renamed to **JA 37 DI (F 21)**. The long name has been changed to **Saab | Saab 37 | JA 37 DI Viggen (Norrbottens flygflottilj (F 21))**.
         - **Mi-35M** (China / Pakistan) renamed to **Mi-35M3**.
-        - **JA37D** (folder) renamed to **JA 37 D / DI**.
+        - **JA37D/DI** (folder) renamed to **JA 37 D / DI**.
     - "▄", the roundel used for the UK and Italy, has been changed to "⛨" for the symbol on the WWII Italian flag. The UK still uses the original symbol. It only has been changed for Italy. It has not changed for the Spanish **M47E2** because that tank is using it as a Spanish roundel.
     - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me.
     - The **Tornado F. Mk. 3**'s (Italy) long name has been changed to **Tornado F. Mk. 3 (Batch 2)**.
@@ -247,6 +247,9 @@ All dates are listed in DD-MM-YYYY format.
         - **M61A1** (a new one because of the new rounds for the cannons for the **F-15**s)
         - **KAB-250LG**
         - **GBU-54B LJDAM**
+        - **GBU-48 Paveway II**
+        - **GBU-50 Paveway II**
+        - **GBU-27 Paveway III**
     - Caliber and type tags have been added to the following guns:
         - **BT-20**
         - **Browning Machine Gun, Caliber .50, HB, M2**
@@ -276,6 +279,9 @@ All dates are listed in DD-MM-YYYY format.
         - **GBU-49(V)1/B**
         - **KAB-250LG**
         - **GBU-54(V)1/B**
+        - **GBU-48(V)1/B**
+        - **GBU-50/B**
+        - **GBU-27/B**
     - Volume and type tags have been added to the following fuel tanks:
         - **FYX800B**
         - **FYX1400E**
@@ -325,6 +331,9 @@ All dates are listed in DD-MM-YYYY format.
         - **20 mm M61A1 cannon** (the new one) renamed to **Cannon, 20mm, M61A1**.
         - The **KAB-250LG**'s long name has been changed to **KAB-250LG**.
         - **GBU-54B** renamed to **GBU-54(V)1/B**. The long name has been changed to **Bomb, Guided, GBU-54(V)1/B Laser Joint Direct Attack Munition**.
+        - **GBU-48 Paveway II** renamed to **GBU-48(V)1/B**. The long name has been changed to **Bomb, Guided, GBU-48(V)1/B Paveway II**.
+        - **GBU-50 Paveway II** renamed to **GBU-50/B**. The long name has been changed to **Bomb, Guided, GBU-50/B Paveway II**.
+        - **GBU-27 Paveway III** renamed to **GBU-27/B**. The long name has been changed to **Bomb, Guided, GBU-27/B Paveway III**.
     - **GBU-38** (USAF variant) renamed to **GBU-38(V)1/B**. The long name has been changed to **Bomb, Guided, GBU-38(V)1/B Joint Direct Attack Munition**. Its mass tag has been corrected to 253.1 kg.
     - **GBU-38** (USN variant) renamed to **GBU-38(V)2/B**. The long name has been changed to **Bomb, Guided, GBU-38(V)2/B Joint Direct Attack Munition**. Its mass tag has been corrected to 253.1 kg.
     - The **GBU-31(V)1/B**'s long name has been changed to **Bomb, Guided, GBU-31(V)1/B Joint Direct Attack Munition**.

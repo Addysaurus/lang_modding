@@ -130,7 +130,7 @@ All dates are listed in DD-MM-YYYY format.
         - **ICV (P)** renamed to **24 ICV**. The long name has been changed to **24 shiki hohei sentō gata**.
         - The **JDS Murasame (DD-107)**'s long name has been changed to **Murasame gata goeikan (F-103) | JDS Murasame (DD-107) (1975)**.
         - **RN Francesco Caracciolo** renamed to **Francesco Caracciolo**. The long name has been changed to **Classe Francesco Caracciolo | Francesco Caracciolo**.
-        - **Su-22M4 WTD61** renamed to **Su-22M4 (WTD61)**. The long name has been changed to **izd. S-54K | Su-22M4 Fitter-K (Wehrtechnische Dienststelle 61)**.
+        - **Su-22M4 WTD61** renamed to **Su-22M4 (WTD 61)**. The long name has been changed to **izd. S-54K | Su-22M4 Fitter-K (Wehrtechnische Dienststelle 61)**.
         - **Mirage 2000-5Ei** renamed to **Mirage 2000 5EI**.
         - **Mirage 2000D-RMV** renamed to **Mirage 2000 D RMV**. The long name has been changed to **Mirage 2000 D Rénovation Mi-Vie**.
         - **USS Bagley** renamed to **USS Bagley (DD-386)**. The long name has been changed to **Bagley-class, USS Bagley (DD-386)**.
@@ -139,6 +139,7 @@ All dates are listed in DD-MM-YYYY format.
         - **JA37DI F21** renamed to **JA 37 DI (F 21)**. The long name has been changed to **Saab | Saab 37 | JA 37 DI Viggen (Norrbottens flygflottilj (F 21))**.
         - **Mi-35M** (China / Pakistan) renamed to **Mi-35M3**.
         - **JA37D/DI** (folder) renamed to **JA 37 D / DI**.
+        - **IDS-Tornado** (Germany) renamed to **IDS-Tornado (ASSTA 3)**. The long name has been changed to **IDS-Tornado (Avionics System Software Tornado in ADA 3)**. This is listed as a change for Firebirds because it was made due to Gaijin giving it the **GBU-54/B** in Firebirds.
     - "▄", the roundel used for the UK and Italy, has been changed to "⛨" for the symbol on the WWII Italian flag. The UK still uses the original symbol. It only has been changed for Italy. It has not changed for the Spanish **M47E2** because that tank is using it as a Spanish roundel.
     - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me.
     - The **Tornado F. Mk. 3**'s (Italy) long name has been changed to **Tornado F. Mk. 3 (Batch 2)**.
@@ -184,6 +185,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **M551 (M32A1)**'s long name has been changed to **Cadillac Motor Car Division | G-310 | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 76mm Gun, M551 Sheridan**.
     - The **M551**'s long name has been changed to **Cadillac Motor Car Division | G-310 | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 152mm Gun-Launcher, M551 Sheridan**.
     - The **Yanšuf Ḥamuš**'s long name has been changed to **Sikorsky Aircraft Corperation / Elbit Systems / Israeli Air Force | Yanšuf Ḥamuš**. The mid disance name has been changed to **Yanšuf Ḥamuš** and the long distance name has been changed to **Yanšuf**. Previously the Hebrew transliteration rework with diacritics has been forgotten in the long, mid distance, and long distance names.
+    - **IDS-Tornado (WTD61)** renamed to **IDS-Tornado (WTD 61)**.
 
 ### Weaponry:
 
@@ -397,6 +399,8 @@ All dates are listed in DD-MM-YYYY format.
         - **GBU-54B**
         - **Mk82/GBU-39**
         - **LITENING III**
+        - **ASSTA 3.0 LJDAM**
+        - **BGL-400/GBU-48**
     - **FAB 250/500** (this was from "Dance of Dragons" but I forgot to add it)
 
 - #### Changes
@@ -419,6 +423,10 @@ All dates are listed in DD-MM-YYYY format.
         - **Gun pod CC-422** renamed to **CC422**.
         - **GBU-54B** renamed to **GBU-54(V)1/B**.
         - **Mk82/GBU-39** renamed to **Mk 82 Mod 0 / GBU-39/B**.
+        - **ASSTA 3.0 LJDAM** renamed to **GBU-54(V)1/B**.
+        - **BGL-400/GBU-48** renamed to **BGL-400 / GBU-48(V)1/B**.
+        - **GBU-24/50** renamed to **GBU-24/B / 50/B**.
+        - **GBU-27** renamed to **GBU-27/B**.
     - **FAB 250/500** renamed to **OFAB-250 / 250Š / FAB-250M-62 / 500M-62 / 500Š / ZB-500** (yes I know it's an insanely long name)
     - **HF5 (Type 57-2)** renamed to **HF5 (Type 57-1)**. This isn't part of a rework, it's just to match a change Gaijin made.
     - **GBU-38** modification renamed to **GBU-38(V)1/B**.
@@ -451,6 +459,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/APG-67**
         - **GEC-Marconi Avionics AI.24 Foxhunter Stage 3G**
         - **Thomson-CSF RDM**
+        - **VN001**
     - Type tags have been added to the following sensors:
         - **SPO-32**
         - **V004**
@@ -467,6 +476,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/APG-65(GY)**
         - **AN/APG-65Q**
         - **AN/APG-67**
+        - **VN001**
 
 - #### Changes:
 

@@ -186,6 +186,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **M551**'s long name has been changed to **Cadillac Motor Car Division | G-310 | Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 152mm Gun-Launcher, M551 Sheridan**.
     - The **Yanšuf Ḥamuš**'s long name has been changed to **Sikorsky Aircraft Corperation / Elbit Systems / Israeli Air Force | Yanšuf Ḥamuš**. The mid disance name has been changed to **Yanšuf Ḥamuš** and the long distance name has been changed to **Yanšuf**. Previously the Hebrew transliteration rework with diacritics has been forgotten in the long, mid distance, and long distance names.
     - **IDS-Tornado (WTD61)** renamed to **IDS-Tornado (WTD 61)**.
+    - **Duca degli Abruzzi** renamed to **Luigi di Savoia Duca degli Abruzzi**. The long name has been changed to **Classe Condottieri Tipo Luigi di Savoia Duca degli Abruzzi | Luigi di Savoia Duca degli Abruzzi (1944)**. A full italian naval rework will come later, I just realized that **Duca degli Abruzzi** was not the full name and the full name is **Luigi di Savoia Duca degli Abruzzi**, and I wanted to fix it so I fixed the whole vessel.
 
 ### Weaponry:
 
@@ -242,7 +243,7 @@ All dates are listed in DD-MM-YYYY format.
         - **381 mm SAPCBC**
         - **KAB-500LG**
         - **UPAB-500B**
-        - **Mk.15 ''Hedgehog'' mortar**
+        - **Mk.15 "Hedgehog" mortar**
         - **GBU-49 Paveway II**
         - **LITENING III**
         - **JM61A1** (a new one because of the new rounds for the cannons for the **F-15**s)

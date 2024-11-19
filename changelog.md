@@ -101,14 +101,14 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Firebirds" changes:
         - **T77E1** renamed to **T77E1 MGMC**. The long name has been changed to **Carriage, Motor, Multiple Gun, T77E1**.
         - **Ram II** (UK) renamed to **Ram, Mk. II (early)**. The long name has been changed to **Tank, Cruiser, Ram, Mk. II (early)**.
-        - **Ram, Mk. II (early)** (US) has recieved a US roundel because the new **Ram, Mk. II (early)** in the British tree matches where other Canadian vehicles go.
+        - **Ram, Mk. II (early)** (USA / Canada) has recieved a US roundel because the new **Ram, Mk. II (early)** in the British tree matches where other Canadian vehicles go.
         - The **KV-7 (U-13)**'s long name has been changed to **Ob"yekt 227 | KV-7 (U-13)**.
         - **Osa-AKM** renamed to **9A33BM3**. The long name has been changed to **BM 9A33BM3 "Osa-AKM"**.
         - **Osa-AK** (Germany) renamed to **9A33BM2**. The long name has been changed to **BM 9A33BM2 "Osa-AK"**.
         - **Osa-AKM** (Italy / Romania) renamed to **9A33BM3**. The long name has been changed to **BM 9A33BM3 "Osa-AKM"**.
         - **Osa-AK** (UK / India) renamed to **9A33BM2**. The long name has been changed to **BM 9A33BM2 "Osa-AK"**.
         - The **Scimitar**'s long name has been changed to **F.V.107 | Combat Vehicle, Reconnaissance, Tracked, 30mm Gun, Scimitar**.
-        - The **Skink** (USA / Canada)
+        - The **Skink** (USA / Canada) has recieved a US roundel because the new **Skink** in the British tree matches where other Canadian vehicles go.
         - The **Bf 109 C-1** (WTM) has had the War Thuder Mobile roundel added.
         - The **Su-34**'s long name has been changed to **izd. T-10V | Su-34**.
         - **F-117** renamed to **F-117A-1-LO (OCIP II)**. The long name has been changed to **F-117A-1-LO Nighthawk (Offensive Capability Improvement Program II)**.
@@ -814,7 +814,7 @@ All dates are listed in DD-MM-YYYY format.
     - Japanese helicopter rework:
         - **AH-64DJP** (Japan) renamed to **AH-64D**. The long name has been changed to **Fuji Jūkōgyō | AH-64D kōgeki herikoputā ""Apatchi Rongubō"**.
         - **AH-1S (FMC)** (Japan) renamed to **AH-1S (FMC) (C-NITE)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment)**.
-        - **AH-1S (FMC) (4th ATHU)** (Japan) renamed to **AH-1S (FMC) (C-NITE) (4th TSH)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (4th Tai Sensha Herikoputātai)**.
+        - **AH-1S (FMC) (4th ATHU)** (Japan) renamed to **AH-1S (FMC) (C-NITE) (Dai 4 TSH)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (Dai 4 Tai Sensha Herikoputātai)**.
         - The **AH-1E**'s (Japan) long name has been changed to **Fuji Jūkōgyō | AH-1E kōgeki herikoputā**.
         - The **UH-1B**'s (Japan) long name has been changed to **Fuji Jūkōgyō | UH-1B ""Hiyodori"**.
     - **HMS Barham (04)** renamed to **HMS Barham (97)**. Her pennant number was initially 97, being changed to 10 in January, 1918; 34 in April, 1918; and finally 04 in November, 1919.

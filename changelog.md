@@ -8,6 +8,16 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.10.01 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - The **PLZ05**'s long name has been changed to **PLZ05 155 háomi zìxíngjiā liúpào**.
+    - The **TstPsv Leopard 2A4**'s long name has been changed to **Krauss-Maffei Wegmann | Ps. 273 | Taistelupanssarivaunu Leopard 2A4**.
+    - The **TstPsv Leopard 2A6**'s long name has been changed to **Krauss-Maffei Wegmann | Ps. 274 | Taistelupanssarivaunu Leopard 2A6**.
+
 ## 1.10.00 - 19-11-2024
 
 ### Vehicles:

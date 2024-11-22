@@ -17,6 +17,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **PLZ05**'s long name has been changed to **PLZ05 155 háomi zìxíngjiā liúpào**.
     - The **TstPsv Leopard 2A4**'s long name has been changed to **Krauss-Maffei Wegmann | Ps. 273 | Taistelupanssarivaunu Leopard 2A4**.
     - The **TstPsv Leopard 2A6**'s long name has been changed to **Krauss-Maffei Wegmann | Ps. 274 | Taistelupanssarivaunu Leopard 2A6**.
+    - The **Luigi di Savoia Duca degli Abruzzi**'s long name has been changed to **Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli Abruzzi | Luigi di Savoia Duca degli Abruzzi (1944)**. This is part of the Italian Navy rework and I was testing stuff so I thought I might as well leave this fix in.
 
 ## 1.10.00 - 19-11-2024
 

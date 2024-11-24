@@ -18,6 +18,53 @@ All dates are listed in DD-MM-YYYY format.
     - The **TstPsv Leopard 2A4**'s long name has been changed to **Krauss-Maffei Wegmann | Ps. 273 | Taistelupanssarivaunu Leopard 2A4**.
     - The **TstPsv Leopard 2A6**'s long name has been changed to **Krauss-Maffei Wegmann | Ps. 274 | Taistelupanssarivaunu Leopard 2A6**.
     - The **Luigi di Savoia Duca degli Abruzzi**'s long name has been changed to **Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli Abruzzi | Luigi di Savoia Duca degli Abruzzi (1944)**. This is part of the Italian Navy rework and I was testing stuff so I thought I might as well leave this fix in.
+    - **IAR-81C** renamed to **I.A.R.81-C**.
+    - The **Su-24M2**'s mid distance name has been changed to **Su-24M**.
+    - The **Su-34** has been renamed to the **Su-34NVO**.
+
+### Weaponry:
+
+- #### Additions:
+
+    - Update "Firebirds" additions (forgot to add these before):
+        - **Laser+IOG+GNSS** guidance type
+        - **TV+IOG** guidance type
+        - **PGM 500/3**
+        - **PGM 2000/3**
+    - The following bombs have recieved their mass and type tags:
+        - **PGM 500**
+        - **PGM 500/3**
+        - **PGM 2000**
+        - **PGM 2000/3**
+
+- #### Changes:
+
+    - Update "Firebirds" changes (forgot to change these before):
+        - **Laser+IOG+GNSS** renamed to **Laser + IOG + GNSS**.
+        - **TV+IOG** renamed to **TV + IOG***.
+        - The **PGM 500/3**'s long name has been changed to **PGM 500/3**.
+        - The **PGM 2000/3**'s long name has been changed to **PGM 2000/3**.
+    - The **PGM 500**'s long name has been changed to **PGM 500**.
+    - The **PGM 2000**'s long name has been changed to **PGM 2000**.
+
+### Loading screens
+
+- #### Additions:
+
+    - Update "Firebirds" additions (forgot to add these in 1.10.00):
+        - **Superhind MK IV**
+        - **F-117**
+        - **Su-34**
+        - **Luchs A2 and Scimitar**
+        - **12th Anniversary of War Thunder**
+
+- #### Changes:
+
+    - Update "Firebirds" changes:
+        - **Superhind MK IV** renamed to **Night Hawk**.
+        - **F-117** renamed to **F-117A-1-LO (OCIP II)**.
+        - **Luchs A2 and Scimitar renamed to **SpPz Luchs A2 and Scimitar**.
+    - **RN Duca degli Abruzzi** renamed to **Luigi di Savoia Duca degli Abruzzi**.
 
 ## 1.10.00 - 19-11-2024
 

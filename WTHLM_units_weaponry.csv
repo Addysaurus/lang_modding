@@ -461,10 +461,14 @@ weapons/fr_bgl_1000;<color=@userlogColoredText>970 kg</color> BGL-1000 <color=#f
 weapons/fr_bgl_1000/short;BGL-1000
 weapons/fr_aj_168;AJ.168 Martel <color=#ff6f00>ASM-RG</color>
 weapons/fr_aj_168/short;AJ.168
-weapons/uk_pgm_500;PGM 500 guided bomb
+weapons/uk_pgm_500;<color=@userlogColoredText>404 kg</color> PGM 500 <color=#ff6f00>BMB-TV</color>
 weapons/uk_pgm_500/short;PGM 500
-weapons/uk_pgm_2000;PGM 2000 guided bomb
+weapons/uk_pgm_500_iir;<color=@userlogColoredText>404 kg</color> PGM 500/3 <color=#ff6f00>BMB-IR</color>
+weapons/uk_pgm_500_iir/short;PGM 500/3
+weapons/uk_pgm_2000;<color=@userlogColoredText>1060 kg</color> PGM 2000 <color=#ff6f00>BMB-TV</color>
 weapons/uk_pgm_2000/short;PGM 2000
+weapons/uk_pgm_2000_iir;<color=@userlogColoredText>1060 kg</color> PGM 2000/3 <color=#ff6f00>BMB-IR</color>
+weapons/uk_pgm_2000_iir/short;PGM 2000/3
 weapons/cn_ls_500j;<color=@userlogColoredText>570 kg</color> LS500J <color=#ff6f00>BMB-LG</color>
 weapons/cn_ls_500j/short;LS500J
 weapons/cn_ls_1000j;<color=@userlogColoredText>1090 kg</color> LS1000J <color=#ff6f00>BMB-LG</color>
@@ -1602,6 +1606,7 @@ missile/loadFactorLimit;Maximum overload during launch
 missile/guidance;Guidance
 missile/guidance/ir;IR
 missile/guidance/tv;TV
+missile/guidance/tv+IOG;TV + IOG
 missile/guidance/SARH;SARH
 missile/guidance/SARH+IOG;SARH + IOG
 missile/guidance/SARH+IOG+DL;SARH + IOG + DL
@@ -1610,6 +1615,7 @@ missile/guidance/ARH+IOG;ARH + IOG
 missile/guidance/ARH+IOG+DL;ARH + IOG + DL
 missile/guidance/laser;Laser
 missile/guidance/laser+IOG;Laser + IOG
+missile/guidance/laser+IOG+GNSS;Laser + IOG + GNSS
 missile/guidance/ir+IOG;IR + IOG
 missile/guidance/sns;GNSS
 missile/guidance/mclos;Manual (MCLOS)

@@ -12,13 +12,17 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **IAR-93B**
+
 - #### Changes:
 
     - The **PLZ05**'s long name has been changed to **PLZ05 155 háomi zìxíngjiā liúpào**.
     - The **TstPsv Leopard 2A4**'s long name has been changed to **Krauss-Maffei Wegmann | Ps. 273 | Taistelupanssarivaunu Leopard 2A4**.
     - The **TstPsv Leopard 2A6**'s long name has been changed to **Krauss-Maffei Wegmann | Ps. 274 | Taistelupanssarivaunu Leopard 2A6**.
-    - The **Luigi di Savoia Duca degli Abruzzi**'s long name has been changed to **Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli Abruzzi | Luigi di Savoia Duca degli Abruzzi (1944)**. This is part of the Italian Navy rework and I was testing stuff so I thought I might as well leave this fix in.
-    - **IAR-81C** renamed to **I.A.R.81-C**.
+    - **IAR-81C** renamed to **I.A.R.81-C**. The long name has been changed to **Industria Aeronautică Română | I.A.R.81-C**.
+    - **IAR-93B** renamed to **I.A.R.93-B**. The long name has been changed to **Avioane Craiova | I.A.R.93-B**.
     - The **Su-24M2**'s mid distance name has been changed to **Su-24M**.
     - The **Su-34** has been renamed to the **Su-34NVO**.
 
@@ -31,11 +35,19 @@ All dates are listed in DD-MM-YYYY format.
         - **TV+IOG** guidance type
         - **PGM 500/3**
         - **PGM 2000/3**
+        - **Drop tank (330 gal.)** (for the **Tornado G.R. Mk. 4**)
     - The following bombs have recieved their mass and type tags:
         - **PGM 500**
         - **PGM 500/3**
         - **PGM 2000**
         - **PGM 2000/3**
+    - **BA-100**
+    - **BA-250**
+    - **BA-500**
+    - **BA-50**
+    - **Drop tank (540 liters.)** (for the **I.A.R.93-B**)
+    - **PRN-122**
+    - **A-91**
 
 - #### Changes:
 
@@ -44,8 +56,10 @@ All dates are listed in DD-MM-YYYY format.
         - **TV+IOG** renamed to **TV + IOG***.
         - The **PGM 500/3**'s long name has been changed to **PGM 500/3**.
         - The **PGM 2000/3**'s long name has been changed to **PGM 2000/3**.
+        - **Drop tank (330 gal.)** renamed to **Drop tank (330 gal)** (this is not a proper rename, just a formatting change).
     - The **PGM 500**'s long name has been changed to **PGM 500**.
     - The **PGM 2000**'s long name has been changed to **PGM 2000**.
+    - **Drop tank (540 liters.)** renamed to **Drop tank (540 L)** (this is not a proper rename, just a formatting change).
 
 ### Loading screens
 

@@ -61,6 +61,25 @@ All dates are listed in DD-MM-YYYY format.
     - The **PGM 2000**'s long name has been changed to **PGM 2000**.
     - **Drop tank (540 liters.)** renamed to **Drop tank (540 L)** (this is not a proper rename, just a formatting change).
 
+### Modifications:
+
+- #### Additions:
+
+    - **BA-250**
+    - **BA-500**
+    - **PRN-122**
+    - **A-91**
+
+### Engines:
+
+- #### Additions:
+
+    - **viper Mk 633-41**
+
+- #### Changes:
+
+    - **viper Mk 633-41** renamed to **Viper Mk 633-41** (this is not a proper rename, just a formatting change).
+
 ### Loading screens
 
 - #### Additions:

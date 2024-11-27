@@ -41,6 +41,13 @@ All dates are listed in DD-MM-YYYY format.
         - **PGM 500/3**
         - **PGM 2000**
         - **PGM 2000/3**
+        - **BA-100**
+        - **BA-250**
+        - **BA-500**
+        - **BA-50**
+    - The following rockets and missiles have recieved their type tags:
+        - **PRN-122**
+        - **A-91**
     - **BA-100**
     - **BA-250**
     - **BA-500**

@@ -1,3 +1,5 @@
+from pythainlp.transliterate import transliterate
+
 def translit_russian(text):
     ru_alphabet = ['А', 'Б', 'В', 'Г', 'Д', 'Е', 'Ё', 'Ж', 'З', 'И', 'Й', 'І', 'К', 'Л', 'М', 'Н', 'О', 'П', 'Р', 'С', 'Т', 'У', 'Ў', 'Ф', 'Х', 'Ц', 'Ч', 'Ш', 'Щ', 'Ъ', 'Ы', 'Ь', 'Э', 'Ю', 'Я']
     en_translit = ['A', 'B', 'V', 'G', 'D', 'Ye', 'Ë', 'Ž', 'Z', 'I', 'J', 'Ì', 'K', 'L', 'M', 'N', 'O', 'P', 'R', 'S', 'T', 'U', 'Ŭ', 'F', 'Kh', 'Cz', 'Č', 'Š', 'Ŝ', '"', 'Y', "'", 'È', 'Û', 'Â']
@@ -85,12 +87,17 @@ def translit_hebrew(text):
             final_list.append(i)
     print(final_list)
     print(''.join(final_list))
+    
+def translit_thai(text):
+    engine = 'iso_11940'
+    print(transliterate(text, engine))
 
 while True:
     choice = input('''Select what operation you would like to perform:
                 
     1. Russian transliteration
     2. Hebrew transliteration
+    3. Thai transliteration
                    
     E. Exit
 
@@ -102,5 +109,8 @@ while True:
     elif choice == '2':
         text = input('Enter the Hebrew text you would like to transliterate: ')
         translit_hebrew(text)
+    elif choice == '3':
+        text = input('Enter the Thai text you would like to transliterate: ')
+        translit_thai(text)
     elif choice.upper() == 'E':
         break

@@ -8,6 +8,25 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.10.02 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - Italian naval rework:
+        - Bluewater fleet:
+            - The **Aquila (AQ)**'s long name has been changed to **Cantieri Navali Pattison | Cacciatorpediniere Classe Aquila | Aquila (AQ)**.
+            - The **Comandante Margottini (MA)**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno | Cacciatorpediniere Classe Comandanti Medaglie d'Oro, 1ª Serie | Comandante Margottini (MA)**.
+            - The **Impetuoso (D 558)**'s long name has been changed to **Cantiere Navale di Riva Trigoso | Cacciatorpediniere Classe Indomito | Impetuoso (D 558)**.
+            - The **Geniere (D 555)**'s long name has been changed to **Seattle-Tacoma Shipbuilding Corporation | Cacciatorpediniere Classe Fante | Geniere (D 555)**.
+            - The **Dardo (DR)**'s long name has been changed to **Cantiere Navale di Sestri Ponente | Cacciatorpediniere Classe Freccia | Dardo (DR)**.
+            - The **Giovanni da Verazzano (DV)**'s long name has been changed to **Cantieri Navali del Quarnaro SA | Cacciatorpediniere Classe Navigatori | Giovanni da Verazzano (DV) (1940)**.
+    - The **99 HSP**'s long name has been changed to **99 shiki ji hashi 155mm ryūdanhō "Rongunōzu"**.
+    - The **75 HSP**'s long name has been changed to **75 shiki ji hashi 155mm ryūdanhō**.
+    - The **75 MSSR**'s long name has been changed to **75 shiki ji hashi 130mm tarensō rokettodan hasshaki**.
+    - **Sabra Mk. 1** renamed to **Sabrah Mk. 1**.
+
 ## 1.10.01 - 27-11-2024
 
 ### Vehicles:

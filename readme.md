@@ -52,6 +52,8 @@ Another thing to know is that every time this mod updates, you will have to rein
 
 Also be aware that if the game updates to add a new piece of text or a new vehicle or anything like that, you will need to delete the `lang` folder. This does not do anything bad. All you need to do is delete the `lang` folder and then when you run the game, a new one will be generated. Then, just drop the mod files in that new `lang` folder. You do not need to change anything about `config.blk`.
 
+As for bug reports, making a bug report is not just for when there is a misspelling or a missing piece of text. Bug reports are also for historical inaccuracies. If you see a historical inaccuracy, report it! Every report makes the mod better.
+
 The final thing to know is that sometimes, usually when the game updates, the first time you load into the game after that update, several texts will be broken. Achievements, events, and stuff like that will show the names of the files instead of the text they are supposed to show. I have no idea why War Thunder does this. But don't worry, the fix is simple! Just close the game and reload it. That's it. I don't know why War Thunder does this, but reloading the game fixes it.
 
 Thank you for downloading this mod and I hope you enjoy it (and aren't caught offguard by the level of changes lol).

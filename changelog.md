@@ -47,6 +47,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **75 HSP**'s long name has been changed to **75 shiki ji hashi 155mm ryūdanhō**.
     - The **75 MSSR**'s long name has been changed to **75 shiki ji hashi 130mm tarensō rokettodan hasshaki**.
     - **Sabra Mk. 1** renamed to **Sabrah Mk. 1**.
+    - **S.199 (batch 2)** renamed to **S.199**. The long name has been changed to **Avia Motors | Avia C.210 | S.199 ""Sakin"" (batch 2)**.
 
 ## 1.10.01 - 27-11-2024
 
@@ -116,6 +117,10 @@ All dates are listed in DD-MM-YYYY format.
     - **BA-500**
     - **PRN-122**
     - **A-91**
+
+- #### Changes:
+
+    - **AIM-120A** modification renamed to **AIM-120B**. This is not all modifications for the **AIM-120**. A while ago, both the **AIM-120A** and **AIM-120B** were modeled as the **AIM-120A** and when they were finally actually differentiated, we forgot to change this modification over. The modification for the actual **AIM-120A** is still called the **AIM-120A**.
 
 ### Engines:
 

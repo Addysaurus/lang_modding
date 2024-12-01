@@ -12,6 +12,12 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **Société Nouvelle des Forges et Chantiers de la Méditerranée** has been added as the manufacturer for the following vehicles:
+        - **2C**
+        - **2C bis**
+
 - #### Changes:
 
     - Italian naval rework:
@@ -48,6 +54,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **75 MSSR**'s long name has been changed to **75 shiki ji hashi 130mm tarensō rokettodan hasshaki**.
     - **Sabra Mk. 1** renamed to **Sabrah Mk. 1**.
     - **S.199 (batch 2)** renamed to **S.199**. The long name has been changed to **Avia Motors | Avia C.210 | S.199 ""Sakin"" (batch 2)**.
+    - **B.KhJ.1** renamed to **B.KhL.1**.
 
 ## 1.10.01 - 27-11-2024
 

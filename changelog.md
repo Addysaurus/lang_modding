@@ -55,6 +55,9 @@ All dates are listed in DD-MM-YYYY format.
     - **Sabra Mk. 1** renamed to **Sabrah Mk. 1**.
     - **S.199 (batch 2)** renamed to **S.199**. The long name has been changed to **Avia Motors | Avia C.210 | S.199 ""Sakin"" (batch 2)**.
     - **B.KhJ.1** renamed to **B.KhL.1**.
+    - **FCM 2C** renamed to **2C**.
+    - **FCM 2C bis** renamed to **2C bis**.
+    - **B1 bis / FCM 2C** folder renamed to **B1 bis / 2C**.
 
 ## 1.10.01 - 27-11-2024
 

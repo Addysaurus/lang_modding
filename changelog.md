@@ -49,6 +49,16 @@ All dates are listed in DD-MM-YYYY format.
             - The **Trento**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno | Incrociatore Pesante Trento | Trento (1937)**.
             - The **Pola**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno | Incrociatore Pesante Zara | Pola (1937)**.
             - The **Zara**'s long name has been changed to **Cantiere navale del Muggiano | Incrociatore Pesante Zara | Zara (1937)**.
+        - Coastal fleet:
+            - The **Sparviero (P 420)**'s long name has been changed to **Cantiere navale del Muggiano | Aliscafo Missilistico Sparviero (P 420)**.
+            - The **Albatros (F 543)**'s long name has been changed to **Corvetta Classe Albatros | Albatros (F 543)**.
+            - The **Alcione (F 544)**'s long name has been changed to **Corvetta Classe Albatros | Alcione (F 544)**.
+            - **Folaga (FG)** renamed to **Folaga (F 576)**. The long name has been changed to **Corvetta Classe Gabbiano, 1ª Serie | Folaga (F 576) (1953)**.
+            - The **Gabbiano (GB)**'s long name has been changed to **Corvetta Classe Gabbiano, 1ª Serie | Gabbiano (GB)**.
+            - The **MAS 441**'s long name has been changed to **Motoscafo Antisommergibili Tipo Baglietto 1934 | MAS 441**.
+            - The **Stefano Turr**'s long name has been changed to **Motoscafo Armato Silurante Tipo Sperimentale Diesel | Stefano Turr**.
+            - The **MAS 555**'s long name has been changed to **Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie | MAS 555**.
+            - The **MAS 561**'s long name has been changed to **Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie | MAS 561**.
     - The **99 HSP**'s long name has been changed to **99 shiki ji hashi 155mm ryūdanhō "Rongunōzu"**.
     - The **75 HSP**'s long name has been changed to **75 shiki ji hashi 155mm ryūdanhō**.
     - The **75 MSSR**'s long name has been changed to **75 shiki ji hashi 130mm tarensō rokettodan hasshaki**.

@@ -1,0 +1,182 @@
+Metadata-Version: 2.1
+Name: pythainlp
+Version: 5.0.4
+Summary: Thai Natural Language Processing library
+Home-page: https://github.com/PyThaiNLP/pythainlp
+Author: PyThaiNLP
+Author-email: email@wannaphong.com
+License: Apache Software License 2.0
+Project-URL: Documentation, https://pythainlp.github.io/docs/5.0/
+Project-URL: Tutorials, https://pythainlp.github.io/tutorials/
+Project-URL: Source Code, https://github.com/PyThaiNLP/pythainlp
+Project-URL: Bug Tracker, https://github.com/PyThaiNLP/pythainlp/issues
+Keywords: pythainlp,NLP,natural language processing,text analytics,text processing,localization,computational linguistics,ThaiNLP,Thai NLP,Thai language
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python :: 3
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: Thai
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Text Processing
+Classifier: Topic :: Text Processing :: General
+Classifier: Topic :: Text Processing :: Linguistic
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: requests >=2.22.0
+Requires-Dist: backports.zoneinfo ; python_version < "3.9"
+Requires-Dist: tzdata ; sys_platform == "win32"
+Provides-Extra: abbreviation
+Requires-Dist: khamyo >=0.2.0 ; extra == 'abbreviation'
+Provides-Extra: attacut
+Requires-Dist: attacut >=1.0.6 ; extra == 'attacut'
+Provides-Extra: benchmarks
+Requires-Dist: PyYAML >=5.3.1 ; extra == 'benchmarks'
+Requires-Dist: numpy >=1.22 ; extra == 'benchmarks'
+Requires-Dist: pandas >=0.24 ; extra == 'benchmarks'
+Provides-Extra: coreference_resolution
+Requires-Dist: fastcoref >=2.1.5 ; extra == 'coreference_resolution'
+Requires-Dist: spacy >=3.0 ; extra == 'coreference_resolution'
+Provides-Extra: dependency_parsing
+Requires-Dist: spacy-thai >=0.7.1 ; extra == 'dependency_parsing'
+Requires-Dist: ufal.chu-liu-edmonds >=1.0.2 ; extra == 'dependency_parsing'
+Requires-Dist: transformers >=4.22.1 ; extra == 'dependency_parsing'
+Provides-Extra: el
+Requires-Dist: multiel >=0.5 ; extra == 'el'
+Provides-Extra: esupar
+Requires-Dist: esupar >=1.3.8 ; extra == 'esupar'
+Requires-Dist: numpy ; extra == 'esupar'
+Requires-Dist: transformers >=4.22.1 ; extra == 'esupar'
+Provides-Extra: full
+Requires-Dist: PyYAML >=5.3.1 ; extra == 'full'
+Requires-Dist: attacut >=1.0.4 ; extra == 'full'
+Requires-Dist: emoji >=0.5.1 ; extra == 'full'
+Requires-Dist: epitran >=1.1 ; extra == 'full'
+Requires-Dist: fairseq >=0.10.0 ; extra == 'full'
+Requires-Dist: gensim >=4.0.0 ; extra == 'full'
+Requires-Dist: nltk >=3.3 ; extra == 'full'
+Requires-Dist: numpy >=1.22 ; extra == 'full'
+Requires-Dist: pandas >=0.24 ; extra == 'full'
+Requires-Dist: pyicu >=2.3 ; extra == 'full'
+Requires-Dist: sacremoses >=0.0.41 ; extra == 'full'
+Requires-Dist: sentencepiece >=0.1.91 ; extra == 'full'
+Requires-Dist: ssg >=0.0.8 ; extra == 'full'
+Requires-Dist: torch >=1.0.0 ; extra == 'full'
+Requires-Dist: fastai <2.0 ; extra == 'full'
+Requires-Dist: bpemb >=0.3.2 ; extra == 'full'
+Requires-Dist: transformers >=4.22.1 ; extra == 'full'
+Requires-Dist: sefr-cut >=1.1 ; extra == 'full'
+Requires-Dist: phunspell >=0.1.6 ; extra == 'full'
+Requires-Dist: spylls >=0.1.5 ; extra == 'full'
+Requires-Dist: symspellpy >=6.7.6 ; extra == 'full'
+Requires-Dist: oskut >=1.3 ; extra == 'full'
+Requires-Dist: nlpo3 >=1.2.2 ; extra == 'full'
+Requires-Dist: onnxruntime >=1.10.0 ; extra == 'full'
+Requires-Dist: thai-nner ; extra == 'full'
+Requires-Dist: wunsen >=0.0.3 ; extra == 'full'
+Requires-Dist: wtpsplit >=1.0.1 ; extra == 'full'
+Requires-Dist: spacy-thai >=0.7.1 ; extra == 'full'
+Requires-Dist: spacy >=3.0 ; extra == 'full'
+Requires-Dist: fastcoref >=2.1.5 ; extra == 'full'
+Requires-Dist: ufal.chu-liu-edmonds >=1.0.2 ; extra == 'full'
+Requires-Dist: panphon >=0.20.0 ; extra == 'full'
+Requires-Dist: sentence-transformers >=2.2.2 ; extra == 'full'
+Requires-Dist: khamyo >=0.2.0 ; extra == 'full'
+Provides-Extra: generate
+Requires-Dist: fastai <2.0 ; extra == 'generate'
+Provides-Extra: icu
+Requires-Dist: pyicu >=2.3 ; extra == 'icu'
+Provides-Extra: ipa
+Requires-Dist: epitran >=1.1 ; extra == 'ipa'
+Provides-Extra: ml
+Requires-Dist: numpy >=1.22 ; extra == 'ml'
+Requires-Dist: torch >=1.0.0 ; extra == 'ml'
+Provides-Extra: mt5
+Requires-Dist: transformers >=4.6.0 ; extra == 'mt5'
+Requires-Dist: sentencepiece >=0.1.91 ; extra == 'mt5'
+Provides-Extra: nlpo3
+Requires-Dist: nlpo3 >=1.2.2 ; extra == 'nlpo3'
+Provides-Extra: onnx
+Requires-Dist: sentencepiece >=0.1.91 ; extra == 'onnx'
+Requires-Dist: numpy >=1.22 ; extra == 'onnx'
+Requires-Dist: onnxruntime >=1.10.0 ; extra == 'onnx'
+Provides-Extra: oskut
+Requires-Dist: oskut >=1.3 ; extra == 'oskut'
+Provides-Extra: sefr_cut
+Requires-Dist: sefr-cut >=1.1 ; extra == 'sefr_cut'
+Provides-Extra: spacy_thai
+Requires-Dist: spacy-thai >=0.7.1 ; extra == 'spacy_thai'
+Provides-Extra: spell
+Requires-Dist: phunspell >=0.1.6 ; extra == 'spell'
+Requires-Dist: spylls >=0.1.5 ; extra == 'spell'
+Requires-Dist: symspellpy >=6.7.6 ; extra == 'spell'
+Provides-Extra: ssg
+Requires-Dist: ssg >=0.0.8 ; extra == 'ssg'
+Provides-Extra: textaugment
+Requires-Dist: bpemb ; extra == 'textaugment'
+Requires-Dist: gensim >=4.0.0 ; extra == 'textaugment'
+Provides-Extra: thai2fit
+Requires-Dist: emoji >=0.5.1 ; extra == 'thai2fit'
+Requires-Dist: gensim >=4.0.0 ; extra == 'thai2fit'
+Requires-Dist: numpy >=1.22 ; extra == 'thai2fit'
+Provides-Extra: thai2rom
+Requires-Dist: numpy >=1.22 ; extra == 'thai2rom'
+Requires-Dist: torch >=1.0.0 ; extra == 'thai2rom'
+Provides-Extra: thai_nner
+Requires-Dist: thai-nner ; extra == 'thai_nner'
+Provides-Extra: transformers_ud
+Requires-Dist: ufal.chu-liu-edmonds >=1.0.2 ; extra == 'transformers_ud'
+Requires-Dist: transformers >=4.22.1 ; extra == 'transformers_ud'
+Provides-Extra: translate
+Requires-Dist: fairseq >=0.10.0 ; extra == 'translate'
+Requires-Dist: sacremoses >=0.0.41 ; extra == 'translate'
+Requires-Dist: sentencepiece >=0.1.91 ; extra == 'translate'
+Requires-Dist: torch >=1.0.0 ; extra == 'translate'
+Requires-Dist: transformers >=4.6.0 ; extra == 'translate'
+Provides-Extra: wangchanberta
+Requires-Dist: transformers >=4.6.0 ; extra == 'wangchanberta'
+Requires-Dist: sentencepiece >=0.1.91 ; extra == 'wangchanberta'
+Provides-Extra: wangchanglm
+Requires-Dist: transformers >=4.6.0 ; extra == 'wangchanglm'
+Requires-Dist: sentencepiece >=0.1.91 ; extra == 'wangchanglm'
+Requires-Dist: pandas >=0.24 ; extra == 'wangchanglm'
+Provides-Extra: word_approximation
+Requires-Dist: panphon >=0.20.0 ; extra == 'word_approximation'
+Provides-Extra: wordnet
+Requires-Dist: nltk >=3.3 ; extra == 'wordnet'
+Provides-Extra: wsd
+Requires-Dist: sentence-transformers >=2.2.2 ; extra == 'wsd'
+Provides-Extra: wtp
+Requires-Dist: transformers >=4.6.0 ; extra == 'wtp'
+Requires-Dist: wtpsplit >=1.0.1 ; extra == 'wtp'
+Provides-Extra: wunsen
+Requires-Dist: wunsen >=0.0.1 ; extra == 'wunsen'
+
+
+![PyThaiNLP Logo](https://avatars0.githubusercontent.com/u/32934255?s=200&v=4)
+
+PyThaiNLP is a Python library for Thai natural language processing.
+The library provides functions like word tokenization, part-of-speech tagging,
+transliteration, soundex generation, spell checking, and
+date and time parsing/formatting.
+
+Website: [pythainlp.github.io](https://pythainlp.github.io/)
+
+# Install
+
+For stable version:
+
+```sh
+pip install pythainlp
+```
+
+For development version:
+
+```sh
+pip install --upgrade --pre pythainlp
+```
+
+Some functionalities, like named-entity recognition, require extra packages.
+See https://github.com/PyThaiNLP/pythainlp for installation options.
+
+

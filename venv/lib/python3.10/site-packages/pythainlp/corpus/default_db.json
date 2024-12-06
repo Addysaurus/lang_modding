@@ -1,0 +1,76 @@
+{
+    "thainer": {
+        "name": "thainer",
+        "latest_version": "1.5.1",
+        "description": "Thai Named Entity Recognition",
+        "long_description": "Thai Named Entity Recognition",
+        "url": "https://github.com/wannaphong/thai-ner/",
+        "authors": [
+            "Wannaphong Phatthiyaphaibun"
+        ],
+        "author_email": "wannaphong@kkumail.com",
+        "license": "cc-by-4.0",
+        "versions": {
+            "1.5.1": {
+                "filename": "thainer_crf_1_5_1.model",
+                "download_url": "https://github.com/wannaphong/thai-ner/releases/download/1.5/thai-ner-1-5-newmm-lst20.crfsuite",
+                "md5": "-",
+                "pythainlp_version": ">=2.2.7"
+            }
+        }
+    },
+    "thai2rom_encoder_onnx": {
+        "name": "thai2rom_encoder_onnx",
+        "latest_version": "1.0.0",
+        "description": "Thai2Rom Encoder ONNX",
+        "long_description": "Thai to Romanian in ONNX model - Encoder",
+        "url": "https://github.com/artificiala/thai-romanization/",
+        "authors": [
+            "Chakri Lowphansirikul"
+        ],
+        "license": "Apache-2.0 license",
+        "versions": {
+            "1.0.0": {
+                "filename": "thai2rom_encoder.onnx",
+                "md5": "-",
+                "pythainlp_version": ">=3.2.0"
+            }
+        }
+    },
+    "thai2rom_decoder_onnx": {
+        "name": "thai2rom_decoder_onnx",
+        "latest_version": "1.0.0",
+        "description": "Thai2Rom Decoder ONNX - Decoder",
+        "long_description": "Thai to Romanian in ONNX model",
+        "url": "https://github.com/artificiala/thai-romanization/",
+        "authors": [
+            "Chakri Lowphansirikul"
+        ],
+        "license": "Apache-2.0 license",
+        "versions": {
+            "1.0.0": {
+                "filename": "thai2rom_decoder.onnx",
+                "md5": "-",
+                "pythainlp_version": ">=3.2.0"
+            }
+        }
+    },
+    "thai2rom_config_onnx": {
+        "name": "thai2rom_config_onnx",
+        "latest_version": "1.0.0",
+        "description": "Thai2Rom ONNX Config",
+        "long_description": "Thai to Romanian in ONNX model -- Config",
+        "url": "https://github.com/artificiala/thai-romanization/",
+        "authors": [
+            "Chakri Lowphansirikul"
+        ],
+        "license": "Apache-2.0 license",
+        "versions": {
+            "1.0.0": {
+                "filename": "thai2rom_loader_onnx.json",
+                "md5": "-",
+                "pythainlp_version": ">=3.2.0"
+            }
+        }
+    }
+}

@@ -42,14 +42,14 @@ All dates are listed in DD-MM-YYYY format.
             - The **Leone (LE)**'s long name has been changed to **Cantiere navale di Sestri Ponente | Esploratore Classe Leone | Leone (LE) (1936)**.
             - The **Attilio Regolo**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno | Incrociatore Leggero Classe Capitani Romani | Attilio Regolo**.
             - The **Bartolomeo Colleoni**'s long name has been changed to **Cantiere navale di Sestri Ponente | Incrociatore Leggero Classe Condottieri Tipo Alberto di Giussano | Bartolomeo Colleoni**.
-            - The **Eugenio di Savoia**'s long name has been changed to **Cantiere navale di Sestri Ponente | Incrociatore Leggero Classe Condottieri Tipo Emanuele Filiberto Duca d'Aosta | Eugenio di Savoia (1943)**.
-            - The **Luigi di Savoia Duca degli Abruzzi**'s long name has been changed to **Cantiere navale del Muggiano | Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli Abruzzi | Luigi di Savoia Duca degli Abruzzi (1944)**.
-            - The **Raimondo Montecuccoli**'s long name has been changed to **Cantiere navale di Sestri Ponente | Incrociatore Leggero Classe Condottieri Tipo Raimondo Montecuccoli | Raimondo Montecuccoli (1943)**.
-            - The **Etna**'s long name has  been changed to **Cantieri Riuniti dell'Adriatico | Incrociatore Leggero Classe Etna | Etna**.
+            - The **Eugenio di Savoia**'s long name has been changed to **Cantiere navale di Sestri Ponente / Cantiere navale di Castellammare di Stabia | Incrociatore Leggero Classe Condottieri Tipo Emanuele Filiberto Duca d'Aosta | Eugenio di Savoia (1943)**.
+            - The **Luigi di Savoia Duca degli Abruzzi**'s long name has been changed to **Cantiere navale del Muggiano / Port of Freetown | Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli Abruzzi | Luigi di Savoia Duca degli Abruzzi (1944)**.
+            - The **Raimondo Montecuccoli**'s long name has been changed to **Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Incrociatore Leggero Classe Condottieri Tipo Raimondo Montecuccoli | Raimondo Montecuccoli (1943)**.
+            - The **Etna**'s long name has  been changed to **Cantiere navale Triestino | Incrociatore Leggero Classe Etna | Etna**.
             - The **Bolzano**'s long name has been changed to **Cantiere navale di Sestri Ponente | Incrociatore Pesante Bolzano | Bolzano (1937)**.
-            - The **Trento**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno | Incrociatore Pesante Trento | Trento (1937)**.
-            - The **Pola**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno | Incrociatore Pesante Zara | Pola (1937)**.
-            - The **Zara**'s long name has been changed to **Cantiere navale del Muggiano | Incrociatore Pesante Zara | Zara (1937)**.
+            - The **Trento**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno / Arsenale militare marittimo della Spezia | Incrociatore Pesante Trento | Trento (1937)**.
+            - The **Pola**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno / Cantiere navale Triestino | Incrociatore Pesante Zara | Pola (1937)**.
+            - The **Zara**'s long name has been changed to **Cantiere navale del Muggiano / Cantiere navale Triestino | Incrociatore Pesante Zara | Zara (1937)**.
         - Coastal fleet:
             - The **Sparviero (P 420)**'s long name has been changed to **Cantiere navale del Muggiano | Aliscafo Missilistico Sparviero (P 420)**.
             - The **Albatros (F 543)**'s long name has been changed to **Corvetta Classe Albatros | Albatros (F 543)**.

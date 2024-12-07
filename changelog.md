@@ -22,32 +22,33 @@ All dates are listed in DD-MM-YYYY format.
 
     - Italian naval rework:
         - Bluewater fleet:
-            - The **Aquila (AQ)**'s long name has been changed to **Cantiere navali Pattison | Cacciatorpediniere Classe Aquila | Aquila (AQ)**.
-            - The **Comandante Margottini (MA)**'s long name has been changed to **Odero-Terni-Orlando Cantiere di Livorno | Cacciatorpediniere Classe Comandanti Medaglie d'Oro, 1ª Serie | Comandante Margottini (MA)**.
+            - The **Aquila (AQ)**'s long name has been changed to **Cantieri navali Pattison | Cacciatorpediniere Classe Aquila | Aquila (AQ)**.
+            - The **Comandante Margottini (MA)**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno | Cacciatorpediniere Classe Comandanti Medaglie d'Oro, 1ª Serie | Comandante Margottini (MA)**.
             - The **Impetuoso (D 558)**'s long name has been changed to **Cantiere navale di Riva Trigoso | Cacciatorpediniere Classe Indomito | Impetuoso (D 558)**.
             - The **Geniere (D 555)**'s long name has been changed to **Seattle-Tacoma Shipbuilding Corporation | Cacciatorpediniere Classe Fante | Geniere (D 555)**.
             - The **Dardo (DR)**'s long name has been changed to **Cantiere navale di Sestri Ponente | Cacciatorpediniere Classe Freccia | Dardo (DR)**.
-            - The **Giovanni da Verazzano (DV)**'s long name has been changed to **Cantiere navali del Quarnaro | Cacciatorpediniere Classe Navigatori | Giovanni da Verazzano (DV) (1940)**.
-            - The **Aviere (AV)**'s long name has been changed to **Odero-Terni-Orlando Cantiere di Livorno | Cacciatorpediniere Classe Soldati, 1ª Serie | Aviere (AV)**.
-            - The **Camicia Nera (CN)**'s long name has been changed to **Odero-Terni-Orlando Cantiere di Livorno | Cacciatorpediniere Classe Soldati, 1ª Serie | Camicia Nera (CN)**.
-            - The **Geniere (GE)**'s long name has been changed to **Odero-Terni-Orlando Cantiere di Livorno | Cacciatorpediniere Classe Soldati, 1ª Serie | Geniere (GE) (1942)**.
-            - The **Aquilone (AL)**'s long name has been changed to **Cantiere navale di Sestri Ponente | Cacciatorpediniere Classe Turbine | Aquilone (AL) (1939)**.
+            - The **Giovanni da Verazzano (DV)**'s long name has been changed to **Cantieri navali del Quarnaro | Cacciatorpediniere Classe Navigatori | Giovanni da Verazzano (DV) (1940)**.
+            - The **Aviere (AV)**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno | Cacciatorpediniere Classe Soldati, 1ª Serie | Aviere (AV)**.
+            - The **Camicia Nera (CN)**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno | Cacciatorpediniere Classe Soldati, 1ª Serie | Camicia Nera (CN)**.
+            - The **Geniere (GE)**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno | Cacciatorpediniere Classe Soldati, 1ª Serie | Geniere (GE) (1942)**.
+            - The **Aquilone (AL)**'s long name has been changed to **Cantiere navale di Sestri Ponente / Cantieri navali del Quarnaro | Cacciatorpediniere Classe Turbine | Aquilone (AL) (1939)**.
             - The **Turbine (TB)**'s long name has been changed to **Cantiere navale di Sestri Ponente | Cacciatorpediniere Classe Turbine | Turbine (TB)**.
-            - The **Conte di Cavour**'s long name has been changed to **Arsenale militare marittimo della Spezia | Corazzata Classe Conte di Cavour | Conte di Cavour (1944)**.
+            - The **Conte di Cavour**'s long name has been changed to **Arsenale militare marittimo della Spezia / Cantiere navale Triestino | Corazzata Classe Conte di Cavour | Conte di Cavour (1944)**.
             - The **Leonardo da Vinci**'s long name has been changed to **Cantiere della Foce | Corazzata Classe Conte di Cavour | Leonardo da Vinci**.
-            - The **Duilio**'s long name has been changed to **Cantiere navale di Castellammare di Stabia | Corazzata Classe Duilio | Duilio (1942)**.
+            - The **Andrea Doria**'s long name has been changed to **Arsenale militare marittimo della Spezia / Cantiere navale Triestino | Corazzata Classe Duilio | Andrea Doria (1925)**.
+            - The **Duilio**'s long name has been changed to **Cantiere navale di Castellammare di Stabia / Cantieri navali del Tirreno e Riuniti | Corazzata Classe Duilio | Duilio (1942)**.
             - The **Francesco Caracciolo**'s long name has been changed to **Cantiere navale di Castellammare di Stabia | Corazzata Classe Francesco Caracciolo | Francesco Caracciolo**.
-            - The **Dante Alighieri**'s long name has been changed to **Regio arsenale | Corazzata Dante Alighieri | Dante Alighieri (1923)**.
+            - The **Dante Alighieri**'s long name has been changed to **Regio arsenale / Cantiere navale Triestino | Corazzata Dante Alighieri | Dante Alighieri (1923)**.
             - The **Leone (LE)**'s long name has been changed to **Cantiere navale di Sestri Ponente | Esploratore Classe Leone | Leone (LE) (1936)**.
-            - The **Attilio Regolo**'s long name has been changed to **Odero-Terni-Orlando Cantiere di Livorno | Incrociatore Leggero Classe Capitani Romani | Attilio Regolo**.
+            - The **Attilio Regolo**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno | Incrociatore Leggero Classe Capitani Romani | Attilio Regolo**.
             - The **Bartolomeo Colleoni**'s long name has been changed to **Cantiere navale di Sestri Ponente | Incrociatore Leggero Classe Condottieri Tipo Alberto di Giussano | Bartolomeo Colleoni**.
             - The **Eugenio di Savoia**'s long name has been changed to **Cantiere navale di Sestri Ponente | Incrociatore Leggero Classe Condottieri Tipo Emanuele Filiberto Duca d'Aosta | Eugenio di Savoia (1943)**.
             - The **Luigi di Savoia Duca degli Abruzzi**'s long name has been changed to **Cantiere navale del Muggiano | Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli Abruzzi | Luigi di Savoia Duca degli Abruzzi (1944)**.
             - The **Raimondo Montecuccoli**'s long name has been changed to **Cantiere navale di Sestri Ponente | Incrociatore Leggero Classe Condottieri Tipo Raimondo Montecuccoli | Raimondo Montecuccoli (1943)**.
-            - The **Etna**'s long name has  been changed to **Cantiere Riuniti dell'Adriatico | Incrociatore Leggero Classe Etna | Etna**.
+            - The **Etna**'s long name has  been changed to **Cantieri Riuniti dell'Adriatico | Incrociatore Leggero Classe Etna | Etna**.
             - The **Bolzano**'s long name has been changed to **Cantiere navale di Sestri Ponente | Incrociatore Pesante Bolzano | Bolzano (1937)**.
-            - The **Trento**'s long name has been changed to **Odero-Terni-Orlando Cantiere di Livorno | Incrociatore Pesante Trento | Trento (1937)**.
-            - The **Pola**'s long name has been changed to **Odero-Terni-Orlando Cantiere di Livorno | Incrociatore Pesante Zara | Pola (1937)**.
+            - The **Trento**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno | Incrociatore Pesante Trento | Trento (1937)**.
+            - The **Pola**'s long name has been changed to **Odero-Terni-Orlando Cantieri di Livorno | Incrociatore Pesante Zara | Pola (1937)**.
             - The **Zara**'s long name has been changed to **Cantiere navale del Muggiano | Incrociatore Pesante Zara | Zara (1937)**.
         - Coastal fleet:
             - The **Sparviero (P 420)**'s long name has been changed to **Cantiere navale del Muggiano | Aliscafo Missilistico Sparviero (P 420)**.

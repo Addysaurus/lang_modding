@@ -52,14 +52,29 @@ All dates are listed in DD-MM-YYYY format.
             - The **Zara**'s long name has been changed to **Cantiere navale del Muggiano / Cantiere navale Triestino | Incrociatore Pesante Zara | Zara (1937)**.
         - Coastal fleet:
             - The **Sparviero (P 420)**'s long name has been changed to **Cantiere navale del Muggiano | Aliscafo Missilistico Sparviero (P 420)**.
-            - The **Albatros (F 543)**'s long name has been changed to **Corvetta Classe Albatros | Albatros (F 543)**.
-            - The **Alcione (F 544)**'s long name has been changed to **Corvetta Classe Albatros | Alcione (F 544)**.
-            - **Folaga (FG)** renamed to **Folaga (F 576)**. The long name has been changed to **Corvetta Classe Gabbiano, 1ª Serie | Folaga (F 576) (1953)**.
-            - The **Gabbiano (GB)**'s long name has been changed to **Corvetta Classe Gabbiano, 1ª Serie | Gabbiano (GB)**.
-            - The **MAS 441**'s long name has been changed to **Motoscafo Antisommergibili Tipo Baglietto 1934 | MAS 441**.
-            - The **Stefano Turr**'s long name has been changed to **Motoscafo Armato Silurante Tipo Sperimentale Diesel | Stefano Turr**.
-            - The **MAS 555**'s long name has been changed to **Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie | MAS 555**.
-            - The **MAS 561**'s long name has been changed to **Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie | MAS 561**.
+            - The **Albatros (F 543)**'s long name has been changed to **Cantiere navale di Castellammare di Stabia | Corvetta Classe Albatros | Albatros (F 543)**.
+            - The **Alcione (F 544)**'s long name has been changed to **Cantiere navale di Castellammare di Stabia | Corvetta Classe Albatros | Alcione (F 544)**.
+            - **Folaga (FG)** renamed to **Folaga (F 576)**. The long name has been changed to **Cantiere navale di Sestri Ponente | Corvetta Classe Gabbiano, 1ª Serie | Folaga (F 576) (1953)**.
+            - The **Gabbiano (GB)**'s long name has been changed to **Cantiere navale di Voltri | Corvetta Classe Gabbiano, 1ª Serie | Gabbiano (GB)**.
+            - The **MAS 441**'s long name has been changed to **Cantieri Baglietto | Motoscafo Antisommergibili Tipo Baglietto 1934 | MAS 441**.
+            - The **Stefano Turr**'s long name has been changed to **Cantieri Baglietto | Motoscafo Armato Silurante Tipo Sperimentale Diesel | Stefano Turr**.
+            - The **MAS 555**'s long name has been changed to **Cantiere navale Picchiotti | Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie | MAS 555**.
+            - The **MAS 561**'s long name has been changed to **Cantieri Baglietto | Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie | MAS 561**.
+            - The **MAS 569**'s long name has been changed to **Cantieri Baglietto | Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 4ª Serie | MAS 569**.
+            - The **Alano (L 9851)**'s long name has been changed to **Commercial Iron Works | Motocannoniera Classe Alano | Alano (L 9851)**.
+            - The **MC 490**'s long name has been changed to **Cantiere navale Triestino | Motocannoniera Convertibile Tipo Sperimentale CRDA | MC 490**.
+            - The **Freccia (P 493)**'s long name has been changed to **Cantieri navali del Tirreno e Riuniti | Motocannoniera Convertibile Classe 590 | Freccia (P 493)**.
+            - The **Saetta (P 494)**'s long name has been changed to **Cantiere navale Triestino | Motocannoniera Convertibile Classe 590 | Saetta (P 494)**.
+            - The **MS 15**'s long name has been changed to **Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 1ª Serie | MS 15**.
+            - The **MS 53**'s long name has been changed to **Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 2ª Serie | MS 53**.
+            - The **MS 74**'s long name has been changed to **Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 2ª Serie | MS 74**. The **MS 74** is only in the files, but it is still there so I added it.
+            - The **MS 472**'s long name has been changed to **Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 2ª Serie | MS 472**.
+            - The **MS 473**'s long name has been changed to **Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 2ª Serie | MS 473**.
+            - The **MS 444**'s long name has been changed to **Cantiere navale di Monfalcone | Motosiluranti Tipo Higgins da 78 Piedi | MS 444**.
+            - The **MC 485**'s long name has been changed to **Lürssen Werft | Motosiluranti Tipo Lürssen S 26 | MC 485**.
+            - **GIS 811** renamed to **MS 461**. The long name has been changed to **Robert Jacob Shipyard | Motosiluranti Tipo Vospoer da 72 Piedi e 6 Pollici | MS 461**.
+            - The **VAS 201**'s long name has been changed to **Cantieri Baglietto | Motovedette Antisommergibili Tipo Baglietto 68 t, 1ª Serie | VAS 201**.
+            - The **MV 611**'s long name has been changed to **Cantiere navale di Monfalcone | Motovedette Tipo CRDA 60 t, 1ª Serie | MV 611**.
     - The **99 HSP**'s long name has been changed to **99 shiki ji hashi 155mm ryūdanhō "Rongunōzu"**.
     - The **75 HSP**'s long name has been changed to **75 shiki ji hashi 155mm ryūdanhō**.
     - The **75 MSSR**'s long name has been changed to **75 shiki ji hashi 130mm tarensō rokettodan hasshaki**.

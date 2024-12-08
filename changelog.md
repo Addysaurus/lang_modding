@@ -84,6 +84,20 @@ All dates are listed in DD-MM-YYYY format.
     - **FCM 2C** renamed to **2C**.
     - **FCM 2C bis** renamed to **2C bis**.
     - **B1 bis / FCM 2C** folder renamed to **B1 bis / 2C**.
+    - **T-34-85 (S-53)** (China) renamed to **T-34-85 (Sep, 1944)**. The long name has been changed to **Ural'skij Tankovyj Zavod, Zavod №183 | Ob"yekt 35 | Т-34-85 obr. 1944 g. (September, 1944)**.
+    - **T-34-85 (2nd T.Div.)** (China) renamed to **T-34-85 (Sep, 1944) (Zhàn Chē Dì 2 Shī)**. The long name has beeb changed to **Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 35 | Т-34-85 obr. 1944 g. (September, 1944) (Zhàn Chē Dì 2 Shī)**.
+    - The **T-34-85 (1960s)**'s (China) long name has been changed to **Ural'skij Tankovyj Zavod, Zavod №183 / 674 Gōngchǎng | Ob"yekt 35 | Т-34-85 obr. 1944 g. (1960s) "58 Xíng"**.
+    - **IS-2 (1-j) (3rd T.Div.)** (China) renamed to **IS-2 (1-j) (Zhàn Chē Dì 3 Shī)**.
+
+### Loading screens:
+
+- #### Additions:
+
+    - **IAR-93B** (forgot to add this in the last update)
+
+- #### Changes:
+
+    - **IAR-93B** renamed to **I.A.R.93-B**.
 
 ## 1.10.01 - 27-11-2024
 

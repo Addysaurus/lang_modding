@@ -72,7 +72,7 @@ All dates are listed in DD-MM-YYYY format.
             - The **MS 473**'s long name has been changed to **Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 2ª Serie | MS 473**.
             - The **MS 444**'s long name has been changed to **Cantiere navale di Monfalcone | Motosiluranti Tipo Higgins da 78 Piedi | MS 444**.
             - The **MC 485**'s long name has been changed to **Lürssen Werft | Motosiluranti Tipo Lürssen S 26 | MC 485**.
-            - **GIS 811** renamed to **MS 461**. The long name has been changed to **Robert Jacob Shipyard | Motosiluranti Tipo Vospoer da 72 Piedi e 6 Pollici | MS 461**.
+            - **GIS 811** renamed to **MS 461**. The long name has been changed to **Robert Jacob Shipyard | Motosiluranti Tipo Vosper da 72 Piedi e 6 Pollici | MS 461**.
             - The **VAS 201**'s long name has been changed to **Cantieri Baglietto | Motovedette Antisommergibili Tipo Baglietto 68 t, 1ª Serie | VAS 201**.
             - The **MV 611**'s long name has been changed to **Cantiere navale di Monfalcone | Motovedette Tipo CRDA 60 t, 1ª Serie | MV 611**.
     - The **99 HSP**'s long name has been changed to **99 shiki ji hashi 155mm ryūdanhō "Rongunōzu"**.

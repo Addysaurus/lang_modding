@@ -81,7 +81,7 @@ All dates are listed in DD-MM-YYYY format.
     - **24 ICV** renamed to **24 WAFV**. The long name has been changed to **24 Shiki Sōwa Sōkō Sentō Sha**.
     - **Sabra Mk. 1** renamed to **Sabrah Mk. 1**.
     - **S.199 (batch 2)** renamed to **S.199**. The long name has been changed to **Avia Motors | Avia C.210 | S.199 ""Sakin"" (batch 2)**.
-    - **B.KhJ.1** renamed to **B.KhL.1 (AIM-9P-3)**. The "**AIM-9P-3**" part is deeply upsetting, but they're adding a "late" variant of it and since this "early" variant is entirely invented by Gaijin, the only thing to distinguish it is the fact that Gaijin gave it **AIM-9P-3**s that Thailand never had, so this is the best there is.
+    - **B.KhJ.1** renamed to **B.KhL.1 (early)**. There is no real "early" variant, but Gaijin made it up and is now adding a "late" version, so I guess this is the "early" variant now.
     - **FCM 2C** renamed to **2C**.
     - **FCM 2C bis** renamed to **2C bis**.
     - **B1 bis / FCM 2C** folder renamed to **B1 bis / 2C**.

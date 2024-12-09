@@ -479,7 +479,7 @@ weapons/cn_ls_6_250;<color=@userlogColoredText>240 kg</color> LS6 <color=#ff6f00
 weapons/cn_ls_6_250/short;LS6
 weapons/cn_ls_6_500;<color=@userlogColoredText>508.3 kg</color> LS6 <color=#ff6f00>BMB-GNSS</color>
 weapons/cn_ls_6_500/short;LS6
-weapons/us_gbu_12_paveway_2;<color=@userlogColoredText>277 kg</color> Bomb, Guided, GBU-12/B Paveway II <color=#ff6f00>BMB-LG</color>
+weapons/us_gbu_12_paveway_2;<color=@userlogColoredText>277.14 kg</color> Bomb, Guided, GBU-12/B Paveway II <color=#ff6f00>BMB-LG</color>
 weapons/us_gbu_12_paveway_2/short;GBU-12/B
 weapons/us_gbu_48_paveway_2;<color=@userlogColoredText>495.3 kg</color> Bomb, Guided, GBU-48(V)1/B Paveway II <color=#ff6f00>BMB-LG</color>
 weapons/us_gbu_48_paveway_2/short;GBU-48(V)1/B
@@ -489,9 +489,9 @@ weapons/us_gbu_50_paveway_2;<color=@userlogColoredText>943.926 kg</color> Bomb, 
 weapons/us_gbu_50_paveway_2/short;GBU-50/B
 weapons/us_2000lb_gbu_27;<color=@userlogColoredText>991 kg</color> Bomb, Guided, GBU-27/B Paveway III <color=#ff6f00>BMB-LG</color>
 weapons/us_2000lb_gbu_27/short;GBU-27/B
-weapons/us_gbu_16_paveway_2;<color=@userlogColoredText>495 kg</color> Bomb, Guided, GBU-16/B Paveway II <color=#ff6f00>BMB-LG</color>
+weapons/us_gbu_16_paveway_2;<color=@userlogColoredText>495.3 kg</color> Bomb, Guided, GBU-16/B Paveway II <color=#ff6f00>BMB-LG</color>
 weapons/us_gbu_16_paveway_2/short;GBU-16/B
-weapons/us_gbu_10_paveway_2;<color=@userlogColoredText>957 kg</color> Bomb, Guided, GBU-10/B Paveway II <color=#ff6f00>BMB-LG</color>
+weapons/us_gbu_10_paveway_2;<color=@userlogColoredText>943.93 kg</color> Bomb, Guided, GBU-10/B Paveway II <color=#ff6f00>BMB-LG</color>
 weapons/us_gbu_10_paveway_2/short;GBU-10/B
 weapons/us_2000lb_gbu_24;<color=@userlogColoredText>1079.55 kg</color> Bomb, Guided, GBU-24/B Paveway III <color=#ff6f00>BMB-LG</color>
 weapons/us_2000lb_gbu_24/short;GBU-24/B
@@ -579,17 +579,17 @@ weapons/us_1000lbs;<color=@userlogColoredText>546.5 kg</color> Bomb, 1000lb, GP,
 weapons/us_100lbs;<color=@userlogColoredText>49.9 kg</color> Bomb, 100lb, GP, AN/M30A1 <color=#ff6f00>BMB</color>
 weapons/us_2000lbs;<color=@userlogColoredText>996.27 kg</color> Bomb, 2000lb, GP, AN/M66A1 <color=#ff6f00>BMB</color>
 weapons/us_500lbs;<color=@userlogColoredText>242.67 kg</color> Bomb, 500lb, GP, AN/M64A1 <color=#ff6f00>BMB</color>
-weapons/us_500lb_mk_82_ldgp_air;<color=@userlogColoredText>138.3 kg</color> Bomb, 500lb, GP, Mk 82 Mod 1 (BSU-49/B) <color=#ff6f00>BMB-HD</color>
+weapons/us_500lb_mk_82_ldgp_air;<color=@userlogColoredText>240.9 kg</color> Bomb, 500lb, GP, Mk 82 Mod 1 (BSU-49/B) <color=#ff6f00>BMB-HD</color>
 weapons/us_500lb_mk_82_ldgp_air/short;Mk 82 Mod 1 (BSU-49/B)
 weapons/us_250lb_mk_81_ldgp_snakeye;<color=@userlogColoredText>138.3 kg</color> Bomb, 250lb, GP, Mk 81 Mod 1 Snakeye <color=#ff6f00>BMB-HD</color>
 weapons/us_250lb_mk_81_ldgp_snakeye/short;Mk 81 Mod 1
-weapons/us_500lb_mk_82_ldgp_snakeye;<color=@userlogColoredText>240.86 kg</color> Bomb, 500lb, GP, Mk 82 Mod 1 Snakeye <color=#ff6f00>BMB-HD</color>
+weapons/us_500lb_mk_82_ldgp_snakeye;<color=@userlogColoredText>254 kg</color> Bomb, 500lb, GP, Mk 82 Mod 1 Snakeye <color=#ff6f00>BMB-HD</color>
 weapons/us_500lb_mk_82_ldgp_snakeye/short;Mk 82 Mod 1
-weapons/us_500lb_mk_82_ldgp_snakeye_default;<color=@userlogColoredText>240.86 kg</color> Bomb, 500lb, GP, Mk 82 Mod 1 Snakeye <color=#ff6f00>BMB-HD</color>
+weapons/us_500lb_mk_82_ldgp_snakeye_default;<color=@userlogColoredText>254 kg</color> Bomb, 500lb, GP, Mk 82 Mod 1 Snakeye <color=#ff6f00>BMB-HD</color>
 weapons/us_500lb_mk_82_ldgp_snakeye_default/short;Mk 82 Mod 1
 weapons/fr_samp_mk_82_250_ldgp_snakeye;500 lb SAMP Mk 82 250 Snakeye high-drag tail fin retarded bomb
 weapons/fr_samp_mk_82_250_ldgp_snakeye/short;SAMP Mk 82 250 Snakeye
-weapons/us_1000lb_mk_83_ldgp_air;<color=@userlogColoredText>446.79 kg</color> Bomb, 1000lb, GP, Mk 83 Mod 1 Snakeye <color=#ff6f00>BMB-HD</color>
+weapons/us_1000lb_mk_83_ldgp_air;<color=@userlogColoredText>446.8 kg</color> Bomb, 1000lb, GP, Mk 83 Mod 1 Snakeye <color=#ff6f00>BMB-HD</color>
 weapons/us_1000lb_mk_83_ldgp_air/short;Mk 83 Mod 1
 weapons/ijnaf_60kg;no. 27 rocket (60 kg)
 weapons/de_br20;Wfr.Gr.21 rocket
@@ -1259,12 +1259,12 @@ weapons/us_250lb_anm57;<color=@userlogColoredText>117.93 kg</color> Bomb, 250lb,
 weapons/us_500lb_anm64a1;<color=@userlogColoredText>242.67 kg</color> Bomb, 500lb, GP, AN/M64A1 <color=#ff6f00>BMB</color>
 weapons/us_1000lb_anm65a1_rod;<color=@userlogColoredText>546.5 kg</color> Bomb, 1000lb, GP, AN/M65A1 <color=#ff6f00>BMB</color>
 weapons/us_500lb_anm64a1_rod;<color=@userlogColoredText>242.67 kg</color> Bomb, 500lb, GP, AN/M64A1 <color=#ff6f00>BMB</color>
-weapons/us_250lb_mk_81_ldgp;<color=@userlogColoredText>117.93 kg</color> Bomb, 250lb, GP, Mk 81 Mod 0 <color=#ff6f00>BMB</color>
-weapons/us_500lb_mk_82_ldgp;<color=@userlogColoredText>240.86 kg</color> Bomb, 500lb, GP, Mk 82 Mod 0 <color=#ff6f00>BMB</color>
+weapons/us_250lb_mk_81_ldgp;<color=@userlogColoredText>117.9 kg</color> Bomb, 250lb, GP, Mk 81 Mod 0 <color=#ff6f00>BMB</color>
+weapons/us_500lb_mk_82_ldgp;<color=@userlogColoredText>240.9 kg</color> Bomb, 500lb, GP, Mk 82 Mod 0 <color=#ff6f00>BMB</color>
 weapons/us_500lb_mk_82_ldgp_default;<color=@userlogColoredText>240.86 kg</color> Bomb, 500lb, GP, Mk 82 Mod 0 <color=#ff6f00>BMB</color>
-weapons/us_1000lb_mk_83_ldgp;<color=@userlogColoredText>446.79 kg</color> Bomb, 1000lb, GP, Mk 83 Mod 0 <color=#ff6f00>BMB</color>
-weapons/us_1000lb_mk_83_ldgp_default;<color=@userlogColoredText>446.79 kg</color> Bomb, 1000lb, GP, Mk 83 Mod 0 <color=#ff6f00>BMB</color>
-weapons/us_2000lb_mk_84_ldgp;<color=@userlogColoredText>893.58 kg</color> Bomb, 2000lb, GP, Mk 84 Mod 0 <color=#ff6f00>BMB</color>
+weapons/us_1000lb_mk_83_ldgp;<color=@userlogColoredText>446.8 kg</color> Bomb, 1000lb, GP, Mk 83 Mod 0 <color=#ff6f00>BMB</color>
+weapons/us_1000lb_mk_83_ldgp_default;<color=@userlogColoredText>446.8 kg</color> Bomb, 1000lb, GP, Mk 83 Mod 0 <color=#ff6f00>BMB</color>
+weapons/us_2000lb_mk_84_ldgp;<color=@userlogColoredText>893.6 kg</color> Bomb, 2000lb, GP, Mk 84 Mod 0 <color=#ff6f00>BMB</color>
 weapons/us_3000lb_m118;<color=@userlogColoredText>1360.78 kg</color> Bomb, 3000lb, GP, M118 <color=#ff6f00>BMB</color>
 weapons/us_3000lb_m118/short;M118
 weapons/us_4000lb_anm56_box;<color=@userlogColoredText>1981.56 kg</color> Bomb, 4000lb, LC, AN/M56 <color=#ff6f00>BMB</color>
@@ -1275,7 +1275,7 @@ weapons/us_500lb_mk_82_ldgp_default/short;Mk 82 Mod 0
 weapons/us_1000lb_mk_83_ldgp/short;Mk 83 Mod 0
 weapons/us_1000lb_mk_83_ldgp_default/short;Mk 83 Mod 0
 weapons/us_2000lb_mk_84_ldgp/short;Mk 84 Mod 0
-weapons/us_2000lb_mk_84_ldgp_air;<color=@userlogColoredText>893.58 kg</color> Bomb, 2000lb, GP, Mk 84 Mod 1 (BSU-50/B) <color=#ff6f00>BMB-HD</color>
+weapons/us_2000lb_mk_84_ldgp_air;<color=@userlogColoredText>893.6 kg</color> Bomb, 2000lb, GP, Mk 84 Mod 1 (BSU-50/B) <color=#ff6f00>BMB-HD</color>
 weapons/us_2000lb_mk_84_ldgp_air/short;Mk 84 Mod 1 (BSU-50/B)
 weapons/cannonBK37;37 mm BK 3.7 cannon
 weapons/cannonBK37_underwing;37 mm BK 3.7 cannon (secondary)

@@ -90,6 +90,22 @@ All dates are listed in DD-MM-YYYY format.
     - The **T-34-85 (1960s)**'s (China) long name has been changed to **Ural'skij Tankovyj Zavod, Zavod №183 / 674 Gōngchǎng | Ob"yekt 35 | Т-34-85 obr. 1944 g. (1960s) "58 Xíng"**.
     - **IS-2 (1-j) (3rd T.Div.)** (China) renamed to **IS-2 (1-j) (Zhàn Chē Dì 3 Shī)**.
 
+### Weaponry:
+
+- #### Changes:
+
+    - The **Mk 83 Mod 0**'s mass tag has been corrected from 446.79 kg to 446.8 kg.
+    - The **Mk 83 Mod 1**'s mass tag has been corrected from 446.79 kg to 446.8 kg.
+    - The **GBU-16/B**'s mass tag has been corrected from 495 kg to 495.3 kg.
+    - The **Mk 84 Mod 0**'s mass tag has been corrected from 893.58 kg to 893.6 kg.
+    - The **Mk 84 Mod 1 (BSU-50/B)**'s mass tag has been corrected from 893.58 kg to 893.6 kg.
+    - The **GBU-19/B**'s mass tag has been corrected from 957 kg to 943.93 kg.
+    - The **GBU-12/B**'s mass tag has been corrected from 277 kg to 277.14 kg.
+    - The **Mk 82 Mod 0**'s mass tag has been corrected from 240.86 kg to 240.9 kg.
+    - The **Mk 82 Mod 1**'s mass tag has been corrected from 240.86 kg to 254 kg.
+    - The **Mk 82 Mod 1 (BSU-49/B)**'s mass tag has been corrected from 138.3 kg to 240.9 kg.
+    - The **Mk 81 Mod 1**'s mass tag has been corrected from 117.93 kg to 117.9 kg.
+
 ### Loading screens:
 
 - #### Additions:

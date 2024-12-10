@@ -8,6 +8,14 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.10.03 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - The **I.A.R.93-B**'s long name has been changed to **Avioane Craiova | I.A.R.93-B Vultur**.
+
 ## 1.10.02 - 09-12-2024
 
 ### Vehicles:

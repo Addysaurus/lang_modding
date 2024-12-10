@@ -1232,6 +1232,8 @@ shop/group/us_cruiser_fargo_brooklyn_group;USS Fargo / Brooklyn
 shop/group/germ_pzkpfw_38t_group;Pz.Kpfw. 38 (t) F / n.A.
 shop/group/germ_pzkpfw_II_early_group;Pz.Kpfw. II C / F
 shop/group/germ_sturer_flak_group;Sturer Emil / Flak 37 Sfl.
+shop/group/germ_dicker_sturer_group;Sturer Emil / Pz.Sfl. IVa
+shop/group/germ_flak_m44_group;Flak 37 Sfl. / ◄ PzH M 44
 shop/group/germ_waffentrager_group;Nashorn / Waffenträger
 shop/group/germ_marder_bmp_group;Marder 1 A1 (-) / BMP-1P
 shop/group/germ_marder_group;Marder 1 A3 / DF 105
@@ -1248,6 +1250,7 @@ shop/group/germ_pz_4_late_group;Pz.Kpfw. IV H / J
 shop/group/germ_pzkpfw_V_a_f_group;Panther A / G / F
 shop/group/germ_leopard_2_group;KPz Leopard 2 A5 / A6
 shop/group/germ_flakpanzer_1_group;Pz.Kpfw. I A (2cm Fla.K. 38) / Flak.Pz. 38
+shop/group/germ_flakpanzer_4_group;Ostwind / Wirbelwind
 shop/group/germ_wiesel_gepard_group;Ozelot / Gepard 1 A2
 shop/group/germ_sturmpanzer_221_group;15cm s.I.G. 33 (Sfl) / Sd.Kfz. 221
 shop/group/germ_panzerjager_251_group;Pz.Jgr. I / m.S.P.W. D (7,5cm K.)
@@ -1371,6 +1374,7 @@ shop/group/uk_g6_eland_group;G6-45 / Eland 90
 shop/group/uk_rooikat_olifant_group;Rooikat / Olifant Mk1
 shop/group/uk_mttd_olifant_group;MTTD / Olifant Mk2
 shop/group/uk_stormer_group;Stormer / F.V.4333 (HVM)
+shop/group/uk_9a33_35_group;☸ 9A33BM2 / 35M
 shop/group/fury_group;Fury Mk. I / II
 shop/group/gladiator_mk2_group;Gladiator Mk. II / II (Silver) / II (BEF)
 shop/group/hampden_group;Hampden Mk. I / T.B. Mk. I
@@ -1464,6 +1468,7 @@ shop/group/it_semovente_m41_group;75/18 M. 41 / 75/32 M. 41 / 75/34 M. 42
 shop/group/it_semovente_m43_105_75_group;105/25 M. 43 / 75/34 M. 43
 shop/group/it_m13_40_group;M. 40 I / III
 shop/group/it_dardo_group;VCC-80 Dardo / Dardo (HITFIST 30)
+shop/group/it_9a33_35_group;╏ 9A33BM3 / ◔ 35M
 shop/group/sm_79_1941_group;S.M.79 AS / bis/T.M. / ╏ B
 shop/group/cr_32_group;CR.32 / 32quarter
 shop/group/ba_65_group;Ba.65 / ⛨ Ju 87 R
@@ -1486,6 +1491,8 @@ shop/group/fr_lorraine_bat_group;Lorraine 40t / Char 25t
 shop/group/fr_amx_30_group;AMX 30B2 / B2 BRENUS
 shop/group/fr_leclerc_group;Leclerc S1 / S2
 shop/group/fr_b1_2c_group;B1 bis / 2C
+shop/group/fr_arl_jumbo_group;ARL 44 / ☨ M4A3E2
+shop/group/fr_auf_acra_group;AMX 30 Au F1 / (T 142)
 shop/group/fr_amx_32_group;AMX 32 P1 / 2
 shop/group/fr_lorraine_elc_group;CA Lorraine / ELC bis
 shop/group/d_371_group;D.371 / 373
@@ -1518,6 +1525,7 @@ shop/group/saab_ja37d_group;JA 37 D / DI
 shop/group/bf_109g_sweden_group;MT (G-2) / (G-6/R6 Erla)
 shop/group/vampire_fb_group;VA / J 28
 shop/group/il_magach_1_2_group;Magaḥ 1 / 2
+shop/group/il_rochev_tager_group;Rokhev A / Zaḥalam Tager
 shop/group/il_magach_3_6_group;Magaḥ 3 / 6
 shop/group/il_magach_6a_5_group;Magaḥ 6A / 5
 shop/group/il_magach_6m_c_group;Magaḥ 6M / G

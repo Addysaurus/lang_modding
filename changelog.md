@@ -12,8 +12,28 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - Update "Storm Warning" additions:
+        - **Max/Emil** folder
+        - **Flak Sfl/M44** folder
+        - **Ostwind/Wirbelwind** folder
+        - **Osa/Strela** (UK) folder
+        - **ARL/M4A3E2** folder
+        - **AuF/ACRA** folder
+        - **Osa/Strela** (Italy) folder
+        - **Rochev/Tager** folder
+
 - #### Changes:
 
+    - Update "Storm Warning" changes:
+        - **Max/Emil** folder renamed to **Pz.Sfl. IVa**.
+        - **Flak Sfl/M44** folder renamed to **Flak 37 Sfl. / PzH M 44**.
+        - **Ostwind/Wirbelwind** folder renamed to **Ostwind / Wirbelwind**.
+        - **Osa/Strela** folder renamed to **9A33BM3 / 35M**.
+        - **ARL/M4A3E2** folder renamed to **ARL 44 / M4A3E2**.
+        - **AuF/ACRA** folder renamed to **AMX 30 Au F1 / (T 142)**.
+        - **Rochev/Tager** folder renamed to **Rokhev A / Zaḥalam Tager**.
     - The **I.A.R.93-B**'s long name has been changed to **Avioane Craiova | I.A.R.93-B Vultur**. This was supposed to be done in 1.10.02 and "Vultur" was in the spreadsheet for this mod, but I forgot to add it.
     - **IAR-316B** renamed to **I.A.R.316-B**. The long name has been changed to **Industria Aeronautică Română | I.A.R.316-B**.
 

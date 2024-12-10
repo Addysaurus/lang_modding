@@ -14,7 +14,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - The **I.A.R.93-B**'s long name has been changed to **Avioane Craiova | I.A.R.93-B Vultur**.
+    - The **I.A.R.93-B**'s long name has been changed to **Avioane Craiova | I.A.R.93-B Vultur**. This was supposed to be done in 1.10.02 and "Vultur" was in the spreadsheet for this mod, but I forgot to add it.
 
 ## 1.10.02 - 09-12-2024
 

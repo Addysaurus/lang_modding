@@ -104,7 +104,7 @@ All dates are listed in DD-MM-YYYY format.
         - **RDF/LT** renamed to **14.8 Ton RDF/LT**. The long name has been changed to **AAI Corperation | AAI 14.8 Ton Rapid Deployment Force Light Tank**.
         - The **Su-33**'s long name has been changed to **PAO Kompaniâ Sukhoj | izd. T-10K | Su-33**.
         - The **BMD-4M**'s long name has been changed to **Ob"yekt 960M | BMD-4M**.
-        - **Archangelsk** renamed to **Arkhangyel'sk**. The long name has been changed to **Portsmouth Dockyard / Philadelphia Navy Yard | Linkor Tip Rojâl Sovyeryen | Arkhangyel'sk**.
+        - **Archangelsk** renamed to **Arkhangyel'sk**. The long name has been changed to **Portsmouth Royal Dockyard / Philadelphia Navy Yard | Linkor Tip Rojâl Sovyeryen | Arkhangyel'sk**.
         - **RN Ghibli** renamed to **Ghibli (GH)**. The long name has been changed to **Cantiere navale di Castellammare di Stabia | Torpediniera Classe Ciclone | Ghibli (GH)**.
         - **La Galissoniere** renamed to **La Galissonnière**. The long name has been changed to **Arsenal de Brest | Classe La Galissonnière | La Galissonnière**.
     - The **I.A.R.93-B**'s long name has been changed to **Avioane Craiova | I.A.R.93-B Vultur**. This was supposed to be done in 1.10.02 and "Vultur" was in the spreadsheet for this mod, but I forgot to add it.

@@ -113,6 +113,27 @@ All dates are listed in DD-MM-YYYY format.
     - The **CV9035NL**'s long distance name has been changed from **Light tank** to **IFV**.
     - The **B.Kh.18Kh**'s long name has been changed to **Northrop Corporation | Northrop F-5-21 | B.Kh.18Kh (1988)**.
 
+### Weaponry:
+
+- #### Additions:
+
+    - Update "Storm Warning" additions:
+        - **30 mm NEXTER 30M791 cannon**
+        - **FAB-1500M-54**
+        - **FAB-3000M-54**
+    - The following guns have had their caliber and type tags added:
+        - **30M791**
+    - The following bombs have had their mass and type tags added:
+        - **FAB-1500M-54**
+        - **FAB-3000M-54**
+
+- #### Changes:
+
+    - Update "Storm Warning" changes:
+        - **30 mm NEXTER 30M791 cannon** renamed to **30M791**.
+        - **1500 kg FAB-1500M-54 bomb** renamed to **FAB-1500M-54**.
+        - **3000 kg FAB-3000M-54 bomb** renamed to **FAB-3000M-54**.
+
 ## 1.10.02 - 09-12-2024
 
 ### Vehicles:

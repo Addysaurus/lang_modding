@@ -87,6 +87,7 @@ weapons/cannonT_160;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automati
 weapons/cannonM39;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, M39 <color=#ff6f00>ACNN</color>
 weapons/cannonM24A1;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, M24A1 <color=#ff6f00>ACNN</color>
 weapons/cannonGLAT_M621;20 mm GIAT M.621 cannon
+weapons/cannonGLAT_M791;<color=@userlogColoredText>30 mm</color> 30M791 <color=#ff6f00>ACNN</color>
 weapons/gunHo103;12.7 mm Ho-103 machine gun
 weapons/gunHo104_turret;12.7 mm Ho-104 machine gun
 weapons/gunHo103_turret;12.7 mm Ho-104 machine gun
@@ -321,6 +322,10 @@ weapons/su_fab_500m_44;500 kg FAB-500M-44 bomb
 weapons/su_fab_500m_44/short;FAB-500M-44
 weapons/su_fab_500m_43;500 kg FAB-500M-43 bomb
 weapons/su_fab_500m_43/short;FAB-500M-43
+weapons/su_fab_1500m_54;<color=@userlogColoredText>1550 kg</color> FAB-1500M-54 <color=#ff6f00>BMB</color>
+weapons/su_fab_1500m_54/short;FAB-1500M-54
+weapons/su_fab_3000m_54;<color=@userlogColoredText>3067 kg</color> FAB-3000M-54 <color=#ff6f00>BMB</color>
+weapons/su_fab_3000m_54/short;FAB-3000M-54
 weapons/us_special_weapon;<color=@userlogColoredText>24.95 kg</color> Sani-Flush <color=#ff6f00>BMB</color>
 weapons/us_special_weapon/short;Sani-Flush
 weapons/su_zb_500;ZB-500 incendiary bomb

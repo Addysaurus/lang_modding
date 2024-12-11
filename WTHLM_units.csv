@@ -2959,6 +2959,10 @@ us_m42_duster_shop;M42
 us_m42_duster_0;"G-253 | Gun, Self-Propelled, Full Tracked: Twin 40mm, M42 ""Duster"""
 us_m42_duster_1;M42
 us_m42_duster_2;SPAA
+us_m44_shop;M44
+us_m44_0;G-279 | Howitzer, Self-Propelled, Full Tracked: 155mm, M44
+us_m44_1;M44
+us_m44_2;SPH
 us_m36_shop;M36 GMC
 us_m36_0;"G-210 | Carriage, Motor, 90mm Gun, M36 ""Jackson"""
 us_m36_1;M36
@@ -3178,6 +3182,10 @@ us_m247_shop;M247
 us_m247_0;Gun, Air Defence Artillery, Self-Propelled, 40 mm, M247 Sergeant York
 us_m247_1;M247
 us_m247_2;SPAA
+us_rdf_lt_shop;14.8 Ton RDF/LT
+us_rdf_lt_0;AAI Corperation | AAI 14.8 Ton Rapid Deployment Force Light Tank
+us_rdf_lt_1;14.8 Ton RDF/LT
+us_rdf_lt_2;Light tank
 us_mim_72_chaparral_shop;M48A2 GMS
 us_mim_72_chaparral_0;Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2
 us_mim_72_chaparral_1;M48 GMS
@@ -4629,6 +4637,10 @@ jp_type_99_shop;99 HSP
 jp_type_99_0;"99 Shiki Ji Hashi 155mm Ryūdanhō ""Rongunōzu"""
 jp_type_99_1;99 HSP
 jp_type_99_2;SPG
+jp_m44_shop;▅ M44A1
+jp_m44_0;▅ M44A1 155mm Ji Hashi Ryūdanhō
+jp_m44_1;▅ M44A1
+jp_m44_2;SPH
 jp_type_75_shop;75 HSP
 jp_type_75_0;75 Shiki Ji Hashi 155mm Ryūdanhō
 jp_type_75_1;75 HSP
@@ -4653,6 +4665,10 @@ uk_centurion_mk_1_shop;Centurion, Mk. I*
 uk_centurion_mk_1_0;Tank, Cruiser, A.41, Centurion, Mk. I*
 uk_centurion_mk_1_1;Centurion, Mk. I
 uk_centurion_mk_1_2;Medium tank
+uk_m44_shop;▄ M44
+uk_m44_0;▄ G-279 | Howitzer, Self-Propelled, Full Tracked: 155mm, M44
+uk_m44_1;▄ M44
+uk_m44_2;SPH
 uk_m109a1_shop;▄ M109A1
 uk_m109a1_0;▄ G-296 | Howitzer, Medium, Self-Propelled, 155mm, M109A1
 uk_m109a1_1;▄ M109A1
@@ -5065,6 +5081,18 @@ ussr_9a35_m2_shop;9A35M2
 ussr_9a35_m2_0;"BM 9A35M2 ""Strela-10M2"""
 ussr_9a35_m2_1;9A35
 ussr_9a35_m2_2;SPAA
+germ_9a35_m_shop;◊ 9A35M
+germ_9a35_m_0;"◊ BM 9A35M "Strela-10M""
+germ_9a35_m_1;◊ 9A35
+germ_9a35_m_2;◊ SPAAM
+uk_9a35_m_shop;☸ 9A35M
+uk_9a35_m_0;"☸ BM 9A35M "Strela-10M""
+uk_9a35_m_1;☸ 9A35M
+uk_9a35_m_2;SPAAM
+it_9a35_m_shop;◔ 9A35M
+it_9a35_m_0;"◔ BM 9A35M "Strela-10M""
+it_9a35_m_1;◔ 9A35M
+it_9a35_m_2;SPAAM
 ussr_9a33bm3_shop;9A33BM3
 ussr_9a33bm3_0;"BM 9A33BM3 ""Osa-AKM"""
 ussr_9a33bm3_1;9A33BM3
@@ -5800,11 +5828,15 @@ fr_fcm_36_2;Light tank
 fr_vbci2_mct30_shop;VBCI 2 (MCT-30)
 fr_vbci2_mct30_0;"Véhicule Blindé de Combat d'Infanterie 2 (MCT-30) ""Al-Wajbah"""
 fr_vbci2_mct30_1;VBCI 2
-fr_vbci2_mct30_2;Light tank
+fr_vbci2_mct30_2;IFV
+fr_vbci_shop;VBCI VCI
+fr_vbci_0;Véhicule Blindé de Combat d'Infanterie, Véhicule de Combat d'Infanterie
+fr_vbci_1;VBCI VCI
+fr_vbci_2;IFV
 fr_cv_9035_nl_shop;◘ CV9035NL
 fr_cv_9035_nl_0;◘ Infanteriegevechtsvoertuig CV9035NL
 fr_cv_9035_nl_1;◘ CV9035NL
-fr_cv_9035_nl_2;Light tank
+fr_cv_9035_nl_2;IFV
 fr_lvt_bofors_shop;☨ LVT(A)(4) (Bofors)
 fr_lvt_bofors_0;☨ Landing Vehicle, Tracked (Armored) (Mk. 4) (Bofors)
 fr_lvt_bofors_1;☨ LVT(A)(4) (Bofors)
@@ -5989,6 +6021,10 @@ fr_somua_sau40_shop;SAu 40
 fr_somua_sau40_0;Canon automoteur de 75 mm SAu 40
 fr_somua_sau40_1;SAu 40
 fr_somua_sau40_2;Tank Destroyer
+fr_m44_shop;▄ M44
+fr_m44_0;▄ G-279 | Howitzer, Self-Propelled, Full Tracked: 155mm, M44
+fr_m44_1;▄ M44
+fr_m44_2;SPH
 fr_m36b2_cefeo_shop;☨ M36B2 GMC
 fr_m36b2_cefeo_0;"☨ G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
 fr_m36b2_cefeo_1;☨ M36B2
@@ -6929,6 +6965,10 @@ saab_jas39c_hungary_shop;◔ JAS 39 C EBS HU
 saab_jas39c_hungary_0;◔ Saab | Saab 39 Gripen C | JAS 39 C EBS HU Gripen
 saab_jas39c_hungary_1;◔ JAS 39 C
 saab_jas39c_hungary_2;◔ JAS 39
+saab_jas39c_thailand_shop;B.Kh.20
+saab_jas39c_thailand_0;Saab | Saab 39 C | B.Kh.20
+saab_jas39c_thailand_1;B.Kh.20
+saab_jas39c_thailand_2;B.Kh.20
 saab_aj37_shop;AJ 37
 saab_aj37_0;Saab | Saab 37 | AJ 37 Viggen
 saab_aj37_1;AJ 37
@@ -7449,6 +7489,10 @@ a_4e_early_iaf_shop; A-4E (AFC 418-II)
 a_4e_early_iaf_0;" A-4E Skyhawk ""'Ayiṭ"" (AFC 418-II)"
 a_4e_early_iaf_1; A-4E
 a_4e_early_iaf_2; A-4
+a_7e_thailand_shop;B.JT.1K
+a_7e_thailand_0;LTV Corperation | B.JT.1K
+a_7e_thailand_1;B.JT.1K
+a_7e_thailand_2;B.JT.1
 a_4h_shop; A-4H
 a_4h_0;" A-4H Skyhawk ""'Ayiṭ"""
 a_4h_1; A-4H
@@ -8621,6 +8665,10 @@ f-84g-31-re_china_shop;☀ F-84G-31-RE
 f-84g-31-re_china_0;☀ F-84G-31-RE Thunderjet
 f-84g-31-re_china_1;☀ F-84G
 f-84g-31-re_china_2;☀ F-84
+f-84g_thailand_shop;B.Kh.16
+f-84g_thailand_0;North American Rockwell | B.Kh.16
+f-84g_thailand_1;B.Kh.16
+f-84g_thailand_2;B.Kh.16
 g_56_shop;G.56
 g_56_0;G.56
 g_56_1;G.56
@@ -8974,9 +9022,21 @@ f-5e_aidc_0;"☀ Northrop | F-5E ""Chung Cheng"""
 f-5e_aidc_1;☀ F-5E
 f-5e_aidc_2;☀ F-5
 f-5e_fcu_thailand_shop;B.Kh.18Kh (1988)
-f-5e_fcu_thailand_0;B.Kh.18Kh (1988)
+f-5e_fcu_thailand_0;Northrop Corporation | Northrop F-5-21 | B.Kh.18Kh (1988)
 f-5e_fcu_thailand_1;B.Kh.18Kh
 f-5e_fcu_thailand_2;B.Kh.18
+f-5a_thailand_shop;B.Kh.18
+f-5a_thailand_0;Northrop Corporation | Northrop N-156F | B.Kh.18
+f-5a_thailand_1;B.Kh.18
+f-5a_thailand_2;B.Kh.18
+f-5t_thailand_shop;B.Kh.18Kh (2003)
+f-5t_thailand_0;Northrop Corporation / Elbit Systems | Northrop F-5-21 / Elbit F-5T Tigris | B.Kh.18Kh (2003)
+f-5t_thailand_1;B.Kh.18Kh
+f-5t_thailand_2;B.Kh.18
+f_16a_block_15_ocu_thailand_shop;B.Kh.19
+f_16a_block_15_ocu_thailand_0;General Dynamics Corporation | B.Kh.19
+f_16a_block_15_ocu_thailand_1;B.Kh.19
+f_16a_block_15_ocu_thailand_2;B.Kh.19
 mirage_milan_shop;Milan S 01
 mirage_milan_0;Milan S 01
 mirage_milan_1;Milan
@@ -9053,6 +9113,10 @@ mirage_4000_shop;Mirage 4000 (1986)
 mirage_4000_0;Mirage 4000 (1986)
 mirage_4000_1;Mirage 4000
 mirage_4000_2;Mirage 4000
+rafale_c_f3_shop;Rafale C (F.3R)
+rafale_c_f3_0;Dassault Aviation | Rafale C (F.3R)
+rafale_c_f3_1;Rafale C
+rafale_c_f3_2;Rafale
 caudron_cr714_shop;CR.174-C1
 caudron_cr714_0;"CR.174-C1 ""Cyclone"""
 caudron_cr714_1;CR.174-C1
@@ -9437,6 +9501,10 @@ ussr_bmd_4_shop;BMD-4
 ussr_bmd_4_0;"Ob""yekt 960 | BMD-4 obr. 2004 g."
 ussr_bmd_4_1;BMD-4
 ussr_bmd_4_2;Light tank
+ussr_bmd_4m_shop;BMD-4M
+ussr_bmd_4m_0;"Ob""yekt 960M | BMD-4M"
+ussr_bmd_4m_1;BMD-4M
+ussr_bmd_4m_2;IFV
 ussr_bmp_3_shop;BMP-3
 ussr_bmp_3_0;"Ob""yekt 688A | BMP-3 obr. 2017 g."
 ussr_bmp_3_1;BMP-3
@@ -9573,6 +9641,10 @@ il_namer_rcws_30_shop;Namer (RCWS-30)
 il_namer_rcws_30_0;Nagmaš Merkavah (RCWS-30)
 il_namer_rcws_30_1;Namer (RCWS-30)
 il_namer_rcws_30_2;Light tank
+il_namer_tsrikhon_shop;Namer Ṣariaḥ
+il_namer_tsrikhon_0;Namer Ṣariaḥ
+il_namer_tsrikhon_1;Namer
+il_namer_tsrikhon_2;IFV
 il_centurion_shot_kal_d_shop;Shoṭ Ḳal D
 il_centurion_shot_kal_d_0;Shoṭ Ḳal Dalet
 il_centurion_shot_kal_d_1;Shoṭ Ḳal D
@@ -9781,6 +9853,10 @@ it_semovente_m43_75_34_shop;75/34 M. 43
 it_semovente_m43_75_34_0;Semovente da 75/34 su Scafo M. 43
 it_semovente_m43_75_34_1;75/34 M. 43
 it_semovente_m43_75_34_2;SPG
+it_m44_shop;⛨ 155/23 M44
+it_m44_0;⛨ Semovente da 155/23 M44
+it_m44_1;⛨ 155/23 M44
+it_m44_2;SPH
 it_m36b1_shop;⛨ 90/50 M36B1
 it_m36b1_0;⛨ Semovente da 90/50 M36B1
 it_m36b1_1;⛨ M36B1
@@ -10193,6 +10269,14 @@ jaguar_a_shop;☨ Jaguar A
 jaguar_a_0;☨ SEPECAT | SEPECAT Jaguar A | Jaguar Type A
 jaguar_a_1;☨ Jaguar A
 jaguar_a_2;☨ Jaguar
+alpha_jet_a_thailand_shop;B.J.7
+alpha_jet_a_thailand_0;Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | B.J.7
+alpha_jet_a_thailand_1;B.J.7
+alpha_jet_a_thailand_2;B.J.7
+alpha_jet_th_phase_1_shop;B.J.7 (2004)
+alpha_jet_th_phase_1_0;Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | B.J.7 (2004)
+alpha_jet_th_phase_1_1;B.J.7
+alpha_jet_th_phase_1_2;B.J.7
 alpha_jet_e_shop;☨ Alpha Jet E
 alpha_jet_e_0;☨ Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | Alpha Jet E
 alpha_jet_e_1;☨ Alpha Jet E
@@ -10497,6 +10581,10 @@ su_27sm_shop;Su-27SM
 su_27sm_0;Su-27SM
 su_27sm_1;Su-27SM
 su_27sm_2;Su-27
+su_33_shop;Su-33
+su_33_0;PAO Kompaniâ Sukhoj | izd. T-10K | Su-33
+su_33_1;Su-33
+su_33_2;Su-33
 f-4e_iaf_shop; F-4E-48-MC
 f-4e_iaf_0; F-4E-48-MC Ḳurnas
 f-4e_iaf_1; F-4E
@@ -10649,6 +10737,18 @@ tornado_adv_shop;⛨ Tornado F. Mk. 3
 tornado_adv_0;⛨ Panavia Aircraft | Tornado F. Mk. 3 (Batch 2)
 tornado_adv_1;⛨ Tornado F. Mk. 3
 tornado_adv_2;⛨ Tornado
+ef_2000_block_10_shop;Eurofighter (T2 B10)
+ef_2000_block_10_0;Eurofighter Jagdflugzeug | Kampfflugzeug Eurofighter (Tranche 2 Block 10)
+ef_2000_block_10_1;Eurofighter
+ef_2000_block_10_2;Eurofighter
+ef_2000a_shop;F-2000A (T2 B15)
+ef_2000a_0;Eurofighter Jagdflugzeug | F-2000A Typhoon (Tranche 2 Block 15)
+ef_2000a_1;F-2000A
+ef_2000a_2;F-2000
+ef_2000_fgr4_shop;Typhoon F.G.R. Mk. 4
+ef_2000_fgr4_0;Eurofighter Jagdflugzeug | Typhoon F.G.R. Mk. 4
+ef_2000_fgr4_1;Typhoon F.G.R. Mk. 4
+ef_2000_fgr4_2;Typhoon
 harrier_gr1_shop;Harrier G.R. Mk. 1
 harrier_gr1_0;Harrier G.R. Mk. 1
 harrier_gr1_1;Harrier G.R. Mk. 1
@@ -10681,6 +10781,10 @@ av_8s_thailand_shop;B.KhL.1 (early)
 av_8s_thailand_0;Hawker Siddeley Aviation | B.KhL.1 (early)
 av_8s_thailand_1;B.KhL.1
 av_8s_thailand_2;B.KhL.1
+av_8s_late_thailand_shop;B.KhL.1 (late)
+av_8s_late_thailand_0;Hawker Siddeley Aviation | B.KhL.1 (late)
+av_8s_late_thailand_1;B.KhL.1
+av_8s_late_thailand_2;B.KhL.1
 amx_shop;A-11B
 amx_0;A-11B Ghibli
 amx_1;A-11B
@@ -10921,6 +11025,10 @@ ah_64d_japan_shop;▅ AH-64D
 ah_64d_japan_0;"▅ Fuji Jūkōgyō | AH-64D kōgeki herikoputā ""Apatchi Rongubō"""
 ah_64d_japan_1;▅ AH-64D
 ah_64d_japan_2;▅ AH-64
+ah_64d_netherlands_shop;◘ AH-64D
+ah_64d_netherlands_0;◘ Helicopter, Attack, AH-64D Longbow Apache
+ah_64d_netherlands_1;◘ AH-64D
+ah_64d_netherlands_2;◘ AH-64
 ah_64a_iaf_shop; AH-64A
 ah_64a_iaf_0; McDonnell Douglas Helicopter Systems | AH-64A Peten
 ah_64a_iaf_1; AH-64A
@@ -11233,6 +11341,10 @@ cn_tor_m1_shop;␗ 9A331-1
 cn_tor_m1_0;␗ BM 9A331-1
 cn_tor_m1_1;␗ 9A331
 cn_tor_m1_2;SPAA
+cn_hq_17_shop;HQ17
+cn_hq_17_0;HQ17 Dìduìkōng Fēidàn Xìtong
+cn_hq_17_1;HQ17
+cn_hq_17_2;SPAAM
 cn_pgz_04a_shop;PGZ04A
 cn_pgz_04a_0;China North Industries Corporation | WZ717A | PGZ2004A
 cn_pgz_04a_1;PGZ04A
@@ -11596,10 +11708,22 @@ it_m26_ariete_shop;⛨ M26 (132ª Div.Cor.)
 it_m26_ariete_0;"⛨ Carro Armato Medio M26 (132ª Divisione Corazzata ""Ariete"")"
 it_m26_ariete_1;⛨ M26
 it_m26_ariete_2;Medium tank
+germ_m44_shop;PzH M 44
+germ_m44_0;Panzerhaubitze M 44
+germ_m44_1;PzH M 44
+germ_m44_2;SPH
 germ_m109g_shop;◄ PzH M 109 G
 germ_m109g_0;◄ Panzerhaubitze M 109 G
 germ_m109g_1;◄ M 109
 germ_m109g_2;SPG
+germ_pzh_2000_shop;PzH 2000 A1
+germ_pzh_2000_0;Panzerhaubitze 2000 A1
+germ_pzh_2000_1;PzH 2000 A1
+germ_pzh_2000_2;SPH
+it_pzh_2000_hu_shop;PzH 2000 HU
+it_pzh_2000_hu_0;Panzerhaubitze 2000 HU
+it_pzh_2000_hu_1;PzH 2000 HU
+it_pzh_2000_hu_2;SPH
 germ_le_kpz_m41_shop;◄ KPz M 41 G
 germ_le_kpz_m41_0;◄ leichter Kampfpanzer M 41 G
 germ_le_kpz_m41_1;◄ M 41
@@ -11732,6 +11856,10 @@ sw_cv_9030_fin_shop;RPsv CV9030
 sw_cv_9030_fin_0;Ps. 171 | Rynnäkköpanssarivaunu CV9030
 sw_cv_9030_fin_1;RPsv CV9030
 sw_cv_9030_fin_2;Light tank
+sw_cv_90_mk4_shop;CV90 MkIV
+sw_cv_90_mk4_0;BAe Systems | BAe CV90 MkIV
+sw_cv_90_mk4_1;CV90 MkIV
+sw_cv_90_mk4_2;IFV
 sw_cv_90120_shop;CV90120
 sw_cv_90120_0;Combat Vehicle 90120
 sw_cv_90120_1;CV90120
@@ -12823,6 +12951,10 @@ uk_battleship_colossus_shop;HMS Colossus
 uk_battleship_colossus_0;Colossus-class, HMS Colossus, 1918
 uk_battleship_colossus_1;HMS Colossus
 uk_battleship_colossus_2;Battleship
+uk_battleship_rodney_shop;HMS Rodney (29)
+uk_battleship_rodney_0;Cammell Laird & Co. / Rosyth Dockyard | Nelson-class | HMS Rodney (29) (1940)
+uk_battleship_rodney_1;HMS Rodney
+uk_battleship_rodney_2;Battleship
 jp_armoredcruiser_ikoma_shop;Ikoma
 jp_armoredcruiser_ikoma_0;Kure Kaigun Kōshō | Tsukuba gata (B-12) | Ikoma (1912)
 jp_armoredcruiser_ikoma_1;Ikoma
@@ -13652,6 +13784,10 @@ us_destroyer_bagley_class_bagley_shop;USS Bagley (DD-386)
 us_destroyer_bagley_class_bagley_0;Bagley-class, USS Bagley (DD-386)
 us_destroyer_bagley_class_bagley_1;USS Bagley
 us_destroyer_bagley_class_bagley_2;Destroyer
+germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
+germ_destroyer_fletcher_zerstorer4_0;Klasse 119 | Z 4 (D 178) (1960)
+germ_destroyer_fletcher_zerstorer4_1;Z 4
+germ_destroyer_fletcher_zerstorer4_2;Destroyer
 germ_boxer_3105_shop;Boxer (Cockerill 3105)
 germ_boxer_3105_0;ARTEC | ARTEC Boxer (Cockerill 3105)
 germ_boxer_3105_1;Boxer (Cockerill 3105)

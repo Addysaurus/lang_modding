@@ -23,6 +23,40 @@ All dates are listed in DD-MM-YYYY format.
         - **AuF/ACRA** folder
         - **Osa/Strela** (Italy) folder
         - **Rochev/Tager** folder
+        - **M44** (France / Belgium)
+        - **HQ17**
+        - **Rafale C F3**
+        - **VBCI**
+        - **EF-2000** (Germany)
+        - **F-2000A**
+        - **Typhoon FGR.4**
+        - **Strela-10M** (Germany)
+        - **Strela-10M** (UK / India)
+        - **Strela-10M** (Italy / Hungary)
+        - **PzH 2000**
+        - **PzH 2000HU**
+        - **M44** (USA)
+        - **M44** (UK)
+        - **M44** (Germany)
+        - **M44** (Japan)
+        - **M44** (Italy)
+        - **Z4 Zerstörer**
+        - **Namer Tsrikhon**
+        - **AH-64D** (France / Netherlands)
+        - **CV 90 Mk.IV**
+        - **Alpha Jet A** (Japan / Thailand)
+        - **Alpha Jet TH** (Japan / Thailand)
+        - **A-7E** (Japan / Thailand)
+        - **F-84G-21-RE** (Japan / Thailand)
+        - **F-5A** (Japan / Thailand)
+        - **F-5T SCU** (Japan / Thailand)
+        - **F-16A OCU** (Japan / Thailand)
+        - **AV-8S Late** (Japan / Thailand)
+        - **HMS Rodney**
+        - **RDF/LT**
+        - **Su-33**
+        - **BMD-4M**
+        - **Archangelsk**
 
 - #### Changes:
 
@@ -34,8 +68,46 @@ All dates are listed in DD-MM-YYYY format.
         - **ARL/M4A3E2** folder renamed to **ARL 44 / M4A3E2**.
         - **AuF/ACRA** folder renamed to **AMX 30 Au F1 / (T 142)**.
         - **Rochev/Tager** folder renamed to **Rokhev A / Zaḥalam Tager**.
+        - The **M44**'s (France / Belgium) long name has been changed to **G-279 | Howitzer, Self-Propelled, Full Tracked: 155mm, M44**.
+        - The **HQ17**'s long name has been changed to **HQ17 Dìduìkōng Fēidàn Xìtong**.
+        - **Rafale C F3** renamed to **Rafale C (F.3R)**. The long name has been changed to **Dassault Aviation | Rafale C (F.3R)**.
+        - **VBCI** renamed to **VBCI VCI**. The long name has been changed to **Véhicule Blindé de Combat d'Infanterie, Véhicule de Combat d'Infanterie**.
+        - **EF-2000** (Germany) renamed to **Eurofighter (T2 B10)**. The long name has been changed to **Eurofighter Jagdflugzeug | Kampfflugzeug Eurofighter (Tranche 2 Block 10)**.
+        - **F-2000A** renamed to **F-200A (T2 B15)**. The long name has been changed to **Eurofighter Jagdflugzeug | F-2000A Typhoon (Tranche 2 Block 15)**.
+        - **Typhoon FGR.4** renamed to **Typhoon F.G.R. Mk. 4**. The long name has been changed to **Eurofighter Jagdflugzeug | Typhoon F.G.R. Mk. 4**.
+        - **Strela-10M** (Germany) renamed to **9A35M**. The long name has been changed to **BM 9A35M "Strela-10M"**.
+        - **Strela-10M** (UK / India) renamed to **9A35M**. The long name has been changed to **BM 9A35M "Strela-10M"**.
+        - **Strela-10M** (Italy / Hungary) renamed to **9A35M**. The long name has been changed to **BM 9A35M "Strela-10M"**.
+        - **PzH 2000** renamed to **PzH 2000 A1**. The long name has been changed to **Panzerhaubitze 2000 A1**.
+        - **PzH 2000HU** renamed to **PzH 2000 HU**. The long name has been changed to **Panzerhaubitze 2000 HU**.
+        - The **M44**'s (USA) long name has been changed to **G-279 | Howitzer, Self-Propelled, Full Tracked: 155mm, M44**.
+        - The **M44**'s (UK) long name has been changed to **G-279 | Howitzer, Self-Propelled, Full Tracked: 155mm, M44**.
+        - **M44** (Germany) renamed to **PzH M 44**. The long name has been changed to **Panzerhaubitze M 44**.
+        - **M44** (Japan) renamed to **M44A1**. The long name has been changed to **M44A1 155mm Ji Hashi Ryūdanhō**.
+        - **M44** (Italy) renamed to **155/23 M44**. The long name has been changed to **Semovente da 155/23 M44**.
+        - **Z4 Zerstörer** renamed to **Z 4 (D 178)**. The long name has been changed to **Klasse 119 | Z 4 (D 178) (1960)**.
+        - **Namer Tsrikhon** renamed to **Namer Ṣariaḥ**.
+        - The **AH-64D**'s (France / Netherlands) long name has been changed to **Helicopter, Attack, AH-64D Longbow Apache**.
+        - **CV 90 Mk.IV** renamed to **CV90 MkIV**. The long name has been changed to **BAe Systems | BAe CV90 MkIV**.
+        - **Alpha Jet A** (Japan / Thailand) renamed to **B.J.7**. The long name has been changed to **Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | B.J.7**.
+        - **Alpha Jet TH** (Japan / Thailand) renamed to **B.J.7 (2004)**. The long name has been changed to **Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | B.J.7 (2004)**.
+        - **A-7E** (Japan / Thailand) renamed to **B.JT.1K**. The long name has been changed to **LTV Corperation | B.JT.1K**.
+        - **F-84G-21-RE** (Japan / Thailand) renamed to **B.Kh.16**. The long name has been changed to **North American Rockwell | B.Kh.16**.
+        - **F-5A** (Japan / Thailand) renamed to **B.Kh.18**. The long name has been changed to **Northrop Corporation | Northrop N-156F | B.Kh.18**.
+        - **F-5T SCU** (Japan / Thailand) renamed to **B.Kh.18Kh (2003)**. The long name has been changed to **Northrop Corporation / Elbit Systems | Northrop F-5-21 / Elbit F-5T Tigris | B.Kh.18Kh (2003)**.
+        - **F-16A OCU** (Japan / Thailand) renamed to **B.Kh.19**. The long name has been changed to **General Dynamics Corporation | B.Kh.19**.
+        - **JAS39C** (Japan / Thailand) renamed to **B.Kh.20**. The long name has been changed to **Saab | Saab 39 C | B.Kh.20**.
+        - **AV-8S Late** (Japan / Thailand) renamed to **B.KhL.1 (late)**. The long name has been changed to **Hawker Siddeley Aviation | B.KhL.1 (late)**.
+        - **HMS Rodney** renamed to **HMS Rodney (29)**. The long name has been changed to **Cammell Laird & Co. / Rosyth Dockyard | Nelson-class | HMS Rodney (29) (1940)**.
+        - **RDF/LT** renamed to **14.8 Ton RDF/LT**. The long name has been changed to **AAI Corperation | AAI 14.8 Ton Rapid Deployment Force Light Tank**.
+        - The **Su-33**'s long name has been changed to **PAO Kompaniâ Sukhoj | izd. T-10K | Su-33**.
+        - The **BMD-4M**'s long name has been changed to **Ob"yekt 960M | BMD-4M**.
+        - **Archangelsk** renamed to **Arkhangyel'sk**. The long name has been changed to **Linkor Tip Rojâl Sovyeryen | Arkhangyel'sk**.
     - The **I.A.R.93-B**'s long name has been changed to **Avioane Craiova | I.A.R.93-B Vultur**. This was supposed to be done in 1.10.02 and "Vultur" was in the spreadsheet for this mod, but I forgot to add it.
     - **IAR-316B** renamed to **I.A.R.316-B**. The long name has been changed to **Industria Aeronautică Română | I.A.R.316-B**.
+    - The **VBCI 2 (MCT-30)**'s long distance name has been changed from **Light tank** to **IFV**.
+    - The **CV9035NL**'s long distance name has been changed from **Light tank** to **IFV**.
+    - The **B.Kh.18Kh**'s long name has been changed to **Northrop Corporation | Northrop F-5-21 | B.Kh.18Kh (1988)**.
 
 ## 1.10.02 - 09-12-2024
 

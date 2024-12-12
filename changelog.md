@@ -121,11 +121,13 @@ All dates are listed in DD-MM-YYYY format.
         - **30 mm NEXTER 30M791 cannon**
         - **FAB-1500M-54**
         - **FAB-3000M-54**
+        - **GBU-22 Paveway III**
     - The following guns have had their caliber and type tags added:
         - **30M791**
     - The following bombs have had their mass and type tags added:
         - **FAB-1500M-54**
         - **FAB-3000M-54**
+        - **GBU-22/B**
 
 - #### Changes:
 
@@ -133,6 +135,7 @@ All dates are listed in DD-MM-YYYY format.
         - **30 mm NEXTER 30M791 cannon** renamed to **30M791**.
         - **1500 kg FAB-1500M-54 bomb** renamed to **FAB-1500M-54**.
         - **3000 kg FAB-3000M-54 bomb** renamed to **FAB-3000M-54**.
+        - **GBU-22 Paveway III** renamed to **GBU-22/B**. The long name has been changed to **Bomb, Guided, GBU-22/B Paveway III**.
 
 ## 1.10.02 - 09-12-2024
 

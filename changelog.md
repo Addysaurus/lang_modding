@@ -122,12 +122,15 @@ All dates are listed in DD-MM-YYYY format.
         - **FAB-1500M-54**
         - **FAB-3000M-54**
         - **GBU-22 Paveway III**
+        - **AGM-130A**
     - The following guns have had their caliber and type tags added:
         - **30M791**
     - The following bombs have had their mass and type tags added:
         - **FAB-1500M-54**
         - **FAB-3000M-54**
         - **GBU-22/B**
+    - The following missiles have had their type tags added:
+        - **AGM-130A-2**
 
 - #### Changes:
 
@@ -136,6 +139,7 @@ All dates are listed in DD-MM-YYYY format.
         - **1500 kg FAB-1500M-54 bomb** renamed to **FAB-1500M-54**.
         - **3000 kg FAB-3000M-54 bomb** renamed to **FAB-3000M-54**.
         - **GBU-22 Paveway III** renamed to **GBU-22/B**. The long name has been changed to **Bomb, Guided, GBU-22/B Paveway III**.
+        - **AGM-130A** renamed to **AGM-130A-2**. The long name has been changed to **Guided Missile, Air to Surface, AGM-130A-2**.
 
 ## 1.10.02 - 09-12-2024
 

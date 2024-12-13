@@ -123,14 +123,28 @@ All dates are listed in DD-MM-YYYY format.
         - **FAB-3000M-54**
         - **GBU-22 Paveway III**
         - **AGM-130A**
+        - **AASM 250 (SBU 38)**
+        - **AASM 250 (SBU 64)**
+        - **AASM 250 (SBU 54)**
+        - **AASM 500** (IR-guided)
+        - **AASM 500** (laser-guided)
+        - **Drop tank (2000 liters.)** (for the **Rafale C (F.3R)**)
+        - **Flares (countermeasure)** (just new flare text)
+        - **TGAG-5**
     - The following guns have had their caliber and type tags added:
         - **30M791**
-    - The following bombs have had their mass and type tags added:
+    - The following bombs and fuel tanks have had their mass and type tags added:
         - **FAB-1500M-54**
         - **FAB-3000M-54**
         - **GBU-22/B**
+        - **RPL 741**
     - The following missiles have had their type tags added:
         - **AGM-130A-2**
+        - **AASM 250 (SBU 38)**
+        - **AASM 250 (SBU 64)**
+        - **AASM 250 (SBU 54)**
+        - **AASM 500 (SBU 64)**
+        - **AASM 500 (SBU 54)**
 
 - #### Changes:
 
@@ -140,6 +154,12 @@ All dates are listed in DD-MM-YYYY format.
         - **3000 kg FAB-3000M-54 bomb** renamed to **FAB-3000M-54**.
         - **GBU-22 Paveway III** renamed to **GBU-22/B**. The long name has been changed to **Bomb, Guided, GBU-22/B Paveway III**.
         - **AGM-130A** renamed to **AGM-130A-2**. The long name has been changed to **Guided Missile, Air to Surface, AGM-130A-2**.
+        - The **AASM 250 (SBU 38)**'s long name has been changed to **AASM HAMMER | AASM 250 (SBU 38)**.
+        - The **AASM 250 (SBU 64)**'s long name has been changed to **AASM HAMMER | AASM 250 (SBU 64)**.
+        - The **AASM 250 (SBU 54)**'s long name has been changed to **AASM HAMMER | AASM 250 (SBU 54)**.
+        - **AASM 500** (IR-guided) renamed to **AASM 500 (SBU 64)**. The long name has been changed to **AASM HAMMER | AASM 500 (SBU 64)**.
+        - **AASM 500** (laser-guided) renamed to **AASM 500 (SBU 54)**. The long name has been changed to **AASM HAMMER | AASM 500 (SBU 54)**.
+        - **Drop tank (2000 liters.)** renamed to **RPL 741**.
 
 ## 1.10.02 - 09-12-2024
 

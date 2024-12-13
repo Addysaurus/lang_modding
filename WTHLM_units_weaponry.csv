@@ -510,6 +510,16 @@ weapons/us_agm_123;Guided Missile, Air to Surface, AGM-123A Skipper II <color=#f
 weapons/us_agm_123/short;AGM-123A
 weapons/us_2000lb_egbu_24_paveway_3;<color=@userlogColoredText>1079.55 kg</color> Bomb, Guided, GBU-24E/B Paveway III <color=#ff6f00>BMB-LG</color>
 weapons/us_2000lb_egbu_24_paveway_3/short;GBU-24E/B
+weapons/fr_250kg_aasm_250_hammer_gps;AASM HAMMER | AASM 250 (SBU 38) <color=#ff6f00>AGM-GNSS</color>
+weapons/fr_250kg_aasm_250_hammer_gps/short;AASM 250 (SBU 38)
+weapons/fr_250kg_aasm_250_hammer_ir;AASM HAMMER | AASM 250 (SBU 64) <color=#ff6f00>AGM-IR</color>
+weapons/fr_250kg_aasm_250_hammer_ir/short;AASM 250 (SBU 64)
+weapons/fr_250kg_aasm_250_hammer_laser;AASM HAMMER | AASM 250 (SBU 54) <color=#ff6f00>AGM-LG</color>
+weapons/fr_250kg_aasm_250_hammer_laser/short;AASM 250 (SBU 54)
+weapons/fr_500kg_aasm_500_hammer_ir;AASM HAMMER | AASM 500 (SBU 64) <color=#ff6f00>AGM-IR</color>
+weapons/fr_500kg_aasm_500_hammer_ir/short;AASM 500 (SBU 64)
+weapons/fr_500kg_aasm_500_hammer_laser;AASM HAMMER | AASM 500 (SBU 54) <color=#ff6f00>AGM-LG</color>
+weapons/fr_500kg_aasm_500_hammer_laser/short;AASM 500 (SBU 54)
 weapons/uk_paveway_iv;<color=@userlogColoredText>277.14 kg</color> Paveway Mk. IV <color=#ff6f00>BMB-LG</color>
 weapons/uk_paveway_iv/short;Paveway Mk. IV
 weapons/fr_mk18;Mk. 18 guided bomb
@@ -857,6 +867,12 @@ weapons/fr_2500l_m4000_drop_tank_1;Drop tank (2500 L)
 weapons/fr_2500l_m4000_drop_tank_1/short;Drop tank
 weapons/fr_2500l_m4000_drop_tank_2;Drop tank (2500 L)
 weapons/fr_2500l_m4000_drop_tank_2/short;Drop tank
+weapons/fr_2000l_rpl_741_rafale_drop_tank_left;<color=@userlogColoredText>2000 L</color> RPL 741 <color=#ff6f00>DPTK</color>
+weapons/fr_2000l_rpl_741_rafale_drop_tank_left/short;RPL 741
+weapons/fr_2000l_rpl_741_rafale_drop_tank_fuse;<color=@userlogColoredText>2000 L</color> RPL 741 <color=#ff6f00>DPTK</color>
+weapons/fr_2000l_rpl_741_rafale_drop_tank_fuse/short;RPL 741
+weapons/fr_2000l_rpl_741_rafale_drop_tank_right;<color=@userlogColoredText>2000 L</color> RPL 741 <color=#ff6f00>DPTK</color>
+weapons/fr_2000l_rpl_741_rafale_drop_tank_right/short;RPL 741
 weapons/fr_500l_m4000_drop_tank_1;Drop tank (500 L)
 weapons/fr_500l_m4000_drop_tank_1/short;Drop tank
 weapons/fr_500l_m4000_drop_tank_2;Drop tank (500 L)
@@ -2143,6 +2159,8 @@ flare/name;Flares (countermeasure)
 flare/name/short;Flares
 flare_bullet_jet/name;Flares (countermeasure)
 flare_bullet_jet/name/short;Flares
+flare_bullet_maw/name;Flares (countermeasure)
+flare_bullet_maw/name/short;Flares
 chaff_bullet_jet/name;Chaff (countermeasure)
 chaff_bullet_jet/name/short;Chaff
 128mm_sprgr;Sprgr. L/5
@@ -2428,6 +2446,7 @@ explosiveType/h761;H 761
 explosiveType/ha_41;HA 41
 explosiveType/tga_16;TGA-16
 explosiveType/tgaf_5;TGAF-5
+explosiveType/tgag_5;TGAG-5
 explosiveType/tgaf_5m;TGAF-5M
 explosiveType/smoke_composition;Smoke composition
 explosiveType/rdx_pwx;RDX/PWX
@@ -2851,6 +2870,8 @@ weapons/163mm_roland_rocket_launcher/short;Roland 1
 weapons/163mm_roland_3_rocket_launcher;Roland 3 SAM
 weapons/163mm_roland_3_rocket_launcher/short;Roland 3
 239mm_9m331;9M331
+239mm_hq17;HQ17
+weapons/239mm_hq17/short;HQ17
 163mm_roland_3;Roland 3
 163mm_roland_2;Roland 2
 163mm_roland_1;Roland 1

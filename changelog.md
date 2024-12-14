@@ -72,7 +72,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Rochev/Tager** folder renamed to **Rokhev A / Zaḥalam Tager**.
         - The **M44**'s (France / Belgium) long name has been changed to **G-279 | Howitzer, Self-Propelled, Full Tracked: 155mm, M44**.
         - The **HQ17**'s long name has been changed to **HQ17 Dìduìkōng Fēidàn Xìtong**.
-        - **Rafale C F3** renamed to **Rafale C (F.3R)**. The long name has been changed to **Dassault Aviation | Rafale C (F.3R)**.
+        - **Rafale C F3** renamed to **Rafale C (F3R)**. The long name has been changed to **Dassault Aviation | Rafale C (F3R)**.
         - **VBCI** renamed to **VBCI VCI**. The long name has been changed to **Véhicule Blindé de Combat d'Infanterie, Véhicule de Combat d'Infanterie**.
         - **EF-2000** (Germany) renamed to **Eurofighter (T2 B10)**. The long name has been changed to **Eurofighter Jagdflugzeug | Kampfflugzeug Eurofighter (Tranche 2 Block 10)**.
         - **F-2000A** renamed to **F-200A (T2 B15)**. The long name has been changed to **Eurofighter Jagdflugzeug | F-2000A Typhoon (Tranche 2 Block 15)**.
@@ -128,11 +128,19 @@ All dates are listed in DD-MM-YYYY format.
         - **AASM 250 (SBU 54)**
         - **AASM 500** (IR-guided)
         - **AASM 500** (laser-guided)
-        - **Drop tank (2000 liters.)** (for the **Rafale C (F.3R)**)
+        - **Drop tank (2000 liters.)** (for the **Rafale C (F3R)**)
         - **Flares (countermeasure)** (just new flare text)
         - **TGAG-5**
+        - **IR+IOG+GNSS** (guidance type)
+        - **Countermeasures** (a new BOL pod MAW or something)
+        - **Flares (countermeasure)** (some new flare MAW thing idk)
+        - **AIM-9P-4** (new one for Thai stuff)
+        - **R-27ER** (new one for the **Su-33**)
+        - **155 mm M45 cannon**
+        - **155 mm Rheinmetall L/52 howitzer**
     - The following guns have had their caliber and type tags added:
         - **30M791**
+        - **M45**
     - The following bombs and fuel tanks have had their mass and type tags added:
         - **FAB-1500M-54**
         - **FAB-3000M-54**
@@ -145,6 +153,9 @@ All dates are listed in DD-MM-YYYY format.
         - **AASM 250 (SBU 54)**
         - **AASM 500 (SBU 64)**
         - **AASM 500 (SBU 54)**
+        - **AIM-9P-4** (new one for Thai stuff)
+        - **R-27ER** (new one for the **Su-33**)
+    - The caliber tag has been added to the new countermeasure BOL whatever thingy.
 
 - #### Changes:
 
@@ -160,6 +171,10 @@ All dates are listed in DD-MM-YYYY format.
         - **AASM 500** (IR-guided) renamed to **AASM 500 (SBU 64)**. The long name has been changed to **AASM HAMMER | AASM 500 (SBU 64)**.
         - **AASM 500** (laser-guided) renamed to **AASM 500 (SBU 54)**. The long name has been changed to **AASM HAMMER | AASM 500 (SBU 54)**.
         - **Drop tank (2000 liters.)** renamed to **RPL 741**.
+        - **IR+IOG+GNSS** renamed to **IR + IOG + GNSS**.
+        - The **AIM-9P-4**'s (new one for Thai stuff) long name has been changed to **Guided Missile, Air to Air, AIM-9P-4 Sidewinder**.
+        - **R-27ER** (new one for the **Su-33**) renamed to **R-27ÈR**.
+        - **155 mm M45 cannon** renamed to **Howitzer, 155mm, M45**.
 
 ## 1.10.02 - 09-12-2024
 

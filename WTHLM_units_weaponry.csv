@@ -1634,6 +1634,8 @@ missile/loadFactorMax;Maximum overload
 missile/loadFactorLimit;Maximum overload during launch
 missile/guidance;Guidance
 missile/guidance/ir;IR
+missile/guidance/ir+IOG;IR + IOG
+missile/guidance/ir+IOG+GNSS;IR + IOG + GNSS
 missile/guidance/tv;TV
 missile/guidance/tv+IOG;TV + IOG
 missile/guidance/SARH;SARH
@@ -1645,7 +1647,6 @@ missile/guidance/ARH+IOG+DL;ARH + IOG + DL
 missile/guidance/laser;Laser
 missile/guidance/laser+IOG;Laser + IOG
 missile/guidance/laser+IOG+GNSS;Laser + IOG + GNSS
-missile/guidance/ir+IOG;IR + IOG
 missile/guidance/sns;GNSS
 missile/guidance/mclos;Manual (MCLOS)
 missile/guidance/saclos;Semi-Automatic (SACLOS)
@@ -1989,6 +1990,8 @@ weapons/countermeasure_large_split_launcher_jet;<color=@userlogColoredText>50 mm
 weapons/countermeasure_large_split_launcher_jet/short;<color=@userlogColoredText>50 mm</color> countermeasures
 weapons/countermeasure_large_split_launcher_jet_maw;<color=@userlogColoredText>50 mm</color> countermeasures
 weapons/countermeasure_large_split_launcher_jet_maw/short;<color=@userlogColoredText>50 mm</color> countermeasures
+weapons/countermeasure_split_launcher_jet_maw_bol_pod;<color=@userlogColoredText>26 mm</color> countermeasures
+weapons/countermeasure_split_launcher_jet_maw_bol_pod/short;<color=@userlogColoredText>26 mm</color> countermeasures
 weapons/countermeasure_split_large_launcher_jet_add_pod;<color=@userlogColoredText>50 mm</color> countermeasures
 weapons/countermeasure_split_large_launcher_jet_add_pod/short;<color=@userlogColoredText>50 mm</color> countermeasures
 weapons/countermeasure_split_launcher_jet;<color=@userlogColoredText>26 mm</color> countermeasures
@@ -2159,6 +2162,8 @@ flare/name;Flares (countermeasure)
 flare/name/short;Flares
 flare_bullet_jet/name;Flares (countermeasure)
 flare_bullet_jet/name/short;Flares
+flare_bullet_maw/name;Flares (countermeasure)
+flare_bullet_maw/name/short;Flares
 flare_bullet_maw/name;Flares (countermeasure)
 flare_bullet_maw/name/short;Flares
 chaff_bullet_jet/name;Chaff (countermeasure)
@@ -3494,6 +3499,8 @@ weapons/us_aim9b_fgw_2_sidewinder;Guided Missile, Air to Air, AIM-9B FGW. 2 Side
 weapons/us_aim9b_fgw_2_sidewinder/short;AIM-9B FGW. 2
 weapons/us_aim9p4_sidewinder;Guided Missile, Air to Air, AIM-9P-4 Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9p4_sidewinder/short;AIM-9P-4
+weapons/us_aim9p4_sidewinder_default;Guided Missile, Air to Air, AIM-9P-4 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9p4_sidewinder_default/short;AIM-9P-4
 weapons/us_aim9p_sidewinder;Guided Missile, Air to Air, AIM-9P-3 Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9p_sidewinder/short;AIM-9P-3
 weapons/us_aim9p_sidewinder_default;Guided Missile, Air to Air, AIM-9P-3 Sidewinder <color=#ff6f00>AAM-IR</color>
@@ -3618,6 +3625,8 @@ weapons/su_rvv_ae_default;RVV-AYe <color=#ff6f00>AAM-ARH</color>
 weapons/su_rvv_ae_default/short;RVV-AYe
 weapons/su_r_27er;R-27ÈR <color=#ff6f00>AAM-SARH</color>
 weapons/su_r_27er/short;R-27ÈR
+weapons/su_r_27er_default;R-27ÈR <color=#ff6f00>AAM-SARH</color>
+weapons/su_r_27er_default/short;R-27ÈR
 weapons/su_r_27et;R-27ÈT <color=#ff6f00>AAM-IR</color>
 weapons/su_r_27et/short;R-27ÈT
 weapons/su_r_27et1;R-27ÈT1 <color=#ff6f00>AAM-IR</color>
@@ -4776,6 +4785,7 @@ weapons/75mm_M2_howitzer_user_cannon;<color=@userlogColoredText>75 mm</color> Ho
 120mm_t17e1;T17E1
 weapons/155mm_M185_user_cannon;<color=@userlogColoredText>155 mm</color> Howitzer, 155mm, M185 <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_soltam_user_cannon;<color=@userlogColoredText>155 mm</color> M-845 <color=#ff6f00>CNN-HWZ</color>
+weapons/155mm_m45_user_cannon;<color=@userlogColoredText>155 mm</color> Howitzer, 155mm, M45 <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_m126_user_cannon;<color=@userlogColoredText>155 mm</color> Howitzer, 155mm, M126 <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_m126e1_user_cannon;<color=@userlogColoredText>155 mm</color> Howitzer, 155mm, M126E1 <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_T7_user_cannon;<color=@userlogColoredText>155 mm</color> Gun, 155mm, T7 <color=#ff6f00>CNN</color>
@@ -5941,6 +5951,7 @@ weapons/162mm_losat/short;MGM-166A
 weapons/162mm_MGM166_launcher_user_cannon;MGM-166A LOSAT Launch System <color=#ff6f00>LCH</color>
 weapons/155mm_CN98_user_cannon;155 mm CN98 cannon
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PL2005 155 háomi jiānóng liúdànpào <color=#ff6f00>CNN-HWZ</color>
+weapons/155mm_l52_user_cannon;155 mm Rheinmetall L/52 howitzer
 155mm_plz_05_he;Type 05 HE
 155mm_plz_05_he_vt;Type 05 HE(VT)
 155mm_bea_1;BEA1-155

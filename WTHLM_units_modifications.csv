@@ -968,6 +968,8 @@ modification/su_fab_500_upab_500b/desc;Allows the installation of FAB-500M-62 an
 modification/su_fab_500_upab_500b;FAB-500M / Š / UPAB-500B
 modification/su_fab_1500_upab_1500/desc;Allows the installation of FAB-1500M-46 bombs and UPAB-1500B guided bombs.
 modification/su_fab_1500_upab_1500;FAB-1500M-46 / UPAB-1500B
+modification/su_fab_3000_umpk_3000/desc;Allows the installation of FAB-3000 bombs or FAB-3000M-54 (Unificzirovannyj Modul' Planirovaniâ i Korryekczii) guided bombs.
+modification/su_fab_3000_umpk_3000;FAB-3000M-54 (UMPK)
 modification/su_24m2_fab_500_kab_500s/desc;Allows for the installation of FAB-500 bombs and KAB-500S-È GNSS-guided bombs.
 modification/su_24m2_fab_500_kab_500s;FAB-500 / KAB-500S-È
 modification/cn_ts_250/desc;Allows the installation of TS250 guided bombs.
@@ -1993,20 +1995,6 @@ modification/ship_pg02_new_autocannon/desc;The replacement of the JM61-RFS rotar
 modification/ship_p493_freccia_torpedoes;Torpedo tubes
 modification/ship_p493_freccia_torpedoes/desc;An ability to install two torpedo tubes instead of the second 40 mm/70 Breda-Bofors type 107 auto cannon
 modification/37mm_ussr_61K_naval_AP_HE_ammo_pack;37mm APIT clips
-transmission_type/auto;Automatic
-transmission_type/mech;Mechanical
-transmission_manufacturer/allison;Allison
-transmission_model/x_1100_3b;X-1100-3B
-transmission_manufacturer/perkins;Perkins
-transmission_model/x_300;X-300
-transmission_manufacturer/david_brown;David Brown
-transmission_model/tn54e;TN54E
-transmission_manufacturer/renk;Renk
-transmission_model/hswl_295;
-transmission_model/lsg_3000;LSG 3000
-transmission_model/mt1500;MT1500
-transmission_manufacturer/sesm;SESM
-transmission_model/esm_500;ESM 500
 modification/cd_98_main_rotor;Replacing helicopter blades
 modification/cd_98_main_rotor/desc;Replacement of worn helicopter blades with a new one.
 modification/cd_98_main_rotor_type2;Replacing helicopter blades

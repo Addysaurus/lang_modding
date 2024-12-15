@@ -1251,6 +1251,7 @@ shop/group/germ_pzkpfw_V_a_f_group;Panther A / G / F
 shop/group/germ_leopard_2_group;KPz Leopard 2 A5 / A6
 shop/group/germ_flakpanzer_1_group;Pz.Kpfw. I A (2cm Fla.K. 38) / Flak.Pz. 38
 shop/group/germ_flakpanzer_4_group;Ostwind / Wirbelwind
+shop/group/germ_tiger_east_west_group;"Tiger E (früh) ""Ostfront"" / ""Westfront"" / Ostwind II ""Ostfront"""
 shop/group/germ_wiesel_gepard_group;Ozelot / Gepard 1 A2
 shop/group/germ_sturmpanzer_221_group;15cm s.I.G. 33 (Sfl) / Sd.Kfz. 221
 shop/group/germ_panzerjager_251_group;Pz.Jgr. I / m.S.P.W. D (7,5cm K.)
@@ -1443,6 +1444,7 @@ shop/group/cn_t_34_85_group;␗ T-34-85 / 85 (1960s)
 shop/group/cn_is_2_group;␗ IS-2 (1-j) / (2-j)
 shop/group/cn_76_211_group;211 / ␗ PT-76
 shop/group/cn_type_59_69_group;ZTZ59 / 69
+shop/group/cn_tor_hq_group;␗ 9A331 / HQ17
 shop/group/cn_ztz_88_group;ZTZ88B / A
 shop/group/cn_ztz_99_group;ZTZ99 (Phase 1) / (Phase 2)
 shop/group/cn_m36_isu_group;☀ M36 / ␗ ISU-122
@@ -4597,6 +4599,14 @@ germ_pzkpfw_VI_ausf_h1_tiger_tutorial_shop;Tiger E (früh)
 germ_pzkpfw_VI_ausf_h1_tiger_tutorial_0;Panzerkampfwagen Tiger Ausf. E (früh)
 germ_pzkpfw_VI_ausf_h1_tiger_tutorial_1;Tiger E
 germ_pzkpfw_VI_ausf_h1_tiger_tutorial_2;Heavy tank
+germ_pzkpfw_VI_ausf_h1_tiger_east_shop;"Tiger E (früh) ""Ostfront"""
+germ_pzkpfw_VI_ausf_h1_tiger_east_0;"Panzerkampfwagen Tiger Ausf. E (früh) ""Ostfront"""
+germ_pzkpfw_VI_ausf_h1_tiger_east_1;Tiger E
+germ_pzkpfw_VI_ausf_h1_tiger_east_2;Heavy tank
+germ_pzkpfw_VI_ausf_h1_tiger_west_shop;"Tiger E (früh) ""Westfront"""
+germ_pzkpfw_VI_ausf_h1_tiger_west_0;"Panzerkampfwagen Tiger Ausf. E (früh) ""Westfront"""
+germ_pzkpfw_VI_ausf_h1_tiger_west_1;Tiger E
+germ_pzkpfw_VI_ausf_h1_tiger_west_2;Heavy tank
 ussr_t_34E_shop;T-34 (Èkran.) (№112)
 ussr_t_34E_0;"Zavod №112 | Ob""yekt 34 | T-34 obr. 1941 g. (Èkranirovannyj) (February, 1943)"
 ussr_t_34E_1;T-34
@@ -11078,9 +11088,13 @@ it_otobreda_sidam_25_mistral_0;Sistema Italiano Difesa Aerea Mobile, 25mm (Mistr
 it_otobreda_sidam_25_mistral_1;SIDAM 25
 it_otobreda_sidam_25_mistral_2;SPAA
 germ_flakpanzer_IV_Ostwind_2_shop;Ostwind II
-germ_flakpanzer_IV_Ostwind_2_0;Flakpanzer IV Ostwind II
+germ_flakpanzer_IV_Ostwind_2_0;Flakpanzerkampfwagen IV (3,7cm Fla.K.-Zwilling) | Ostwind II
 germ_flakpanzer_IV_Ostwind_2_1;Ostwind II
 germ_flakpanzer_IV_Ostwind_2_2;SPAA
+germ_flakpanzer_IV_Ostwind_2_net_shop;"Ostwind II ""Ostfront"""
+germ_flakpanzer_IV_Ostwind_2_net_0;"Flakpanzerkampfwagen IV (3,7cm Fla.K.-Zwilling) | Ostwind II ""Ostfront"""
+germ_flakpanzer_IV_Ostwind_2_net_1;Ostwind II
+germ_flakpanzer_IV_Ostwind_2_net_2;SPAAG
 germ_radpanzer_90_shop;EFz-Rad 8x8
 germ_radpanzer_90_0;Experimentalfahrzeug-Rad 8x8
 germ_radpanzer_90_1;EFz-Rad 8x8
@@ -13812,4 +13826,8 @@ ussr_battleship_arhangelsk_shop;Arkhangyel'sk
 ussr_battleship_arhangelsk_0;Portsmouth Royal Dockyard / Philadelphia Navy Yard | Linkor Tip Rojâl Sovyeryen | Arkhangyel'sk
 ussr_battleship_arhangelsk_1;Arkhangyel'sk
 ussr_battleship_arhangelsk_2;Battleship
+germ_battlecruiser_ersatz_yorck_shop;Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_0;Stettiner Maschinenbau Actien-Gesellschaft Vulcan | Klasse Ersatz Yorck | Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_1;Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_2;Battlecruiser
 SHIPS_LANG_KEEP_IT_ALWAYS_FIRST;

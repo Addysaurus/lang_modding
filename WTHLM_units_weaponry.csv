@@ -460,6 +460,8 @@ weapons/su_kab_1500l;<color=@userlogColoredText>1525 kg</color> KAB-1500L <color
 weapons/su_kab_1500l/short;KAB-1500L
 weapons/su_kab_1500lg;<color=@userlogColoredText>1525 kg</color> KAB-1500LG <color=#ff6f00>BMB-LG</color>
 weapons/su_kab_1500lg/short;KAB-1500LG
+weapons/su_umpk_3000;<color=@userlogColoredText>3067 kg</color> FAB-3000M-54 (Unificzirovannyj Modul' Planirovaniâ i Korryekczii) <color=#ff6f00>BMB-GNSS</color>
+weapons/su_umpk_3000/short;FAB-3000M-54 (UMPK)
 weapons/fr_bgl_400;<color=@userlogColoredText>400 kg</color> BGL-400 <color=#ff6f00>BMB-LG</color>
 weapons/fr_bgl_400/short;BGL-400
 weapons/fr_bgl_1000;<color=@userlogColoredText>970 kg</color> BGL-1000 <color=#ff6f00>BMB-LG</color>
@@ -3040,6 +3042,7 @@ weapons/20mm_Oerlikon_KAD_B17_user_cannon;20 mm Oerlikon KAD cannon
 weapons/25mm_Oerlikon_KBA_Dardo_user_cannon;25 mm Oerlikon KBA B02 cannon
 weapons/25mm_Oerlikon_KBA_Freccia_user_cannon;25 mm Oerlikon KBA B02 cannon
 weapons/25mm_Oerlikon_KBA_user_cannon;25 mm Oerlikon KBA cannon
+weapons/25mm_cn25_m811_user_cannon;<color=@userlogColoredText>25 mm</color> M811 <color=#ff6f00>ACNN</color>
 weapons/25mm_LW25_user_cannon;<color=@userlogColoredText>25 mm</color> Gun, Automatic, 25mm, LW25 <color=#ff6f00>ACNN</color>
 weapons/20mm_m139_user_cannon;<color=@userlogColoredText>20 mm</color> Gun, Automatic, 20mm, M139 <color=#ff6f00>ACNN</color>
 weapons/25mm_M242_user_cannon;<color=@userlogColoredText>25 mm</color> Gun, Automatic, 25mm, M242 <color=#ff6f00>ACNN</color>
@@ -4758,6 +4761,7 @@ weapons/depth_charge_jp_type3/short;Type 3
 weapons/depth_charge_jp_type2;Type 2 depth charge
 weapons/depth_charge_jp_type2/short;Type 2
 weapons/25mm_60_type96_naval_user_cannon;25 mm/60 Type 96 automatic cannon
+weapons/25mm_60_hotchkiss_naval_user_cannon;25 mm/60 Hotchkiss automatic cannon
 weapons/76mm_40_f34_naval_user_cannon;<color=@userlogColoredText>76.2 mm</color> 52-PT-354B | F-34 obr. 1940 g. <color=#ff6f00>CNN</color>
 weapons/su_ttka_53_183_torpedo_tube;533 mm 53-38 torpedo
 weapons/su_ttka_53_183_torpedo_tube/short;53-38
@@ -4997,10 +5001,12 @@ weapons/40mm_39_vickers_terni_mod15_17_naval_user_cannon;40 mm/39 Vickers-Terni 
 40mm_vickers_terni_mod15_17_he;40 mm HE-TF
 weapons/100mm_47_1928_naval_user_cannon;100 mm/47 O.T.O. Mod. 1928 cannon
 weapons/152mm_6inch_45_bl_mk12_naval_user_cannon;6 inch/45 BL Mark XII cannon
+weapons/152mm_6inch_50_bl_mk22_naval_user_cannon;6 inch/50 BL Mark XXII cannon
 weapons/152mm_6inch_50_bl_mk23_naval_user_cannon;6 inch/50 BL Mark XXIII cannon
 152mm_45_he;6 inch HE
 152mm_45_cpbc;6 inch CPBC
 152mm_45_cpc;6 inch CPC
+152mm_50_mk25b_cpbc;6 inch Mark XXVb CPC
 weapons/152mm_53_mod_45_1926_naval_user_cannon;152/53 mm Ansaldo mod.1926 cannon
 weapons/152mm_53_mod_45_1929_naval_user_cannon;152/53 mm O.T.O. Mod.1929 cannon
 152mm_53_granata_dirompente_he;152 mm HE Dirompente
@@ -5016,6 +5022,8 @@ weapons/152mm_53_mod_45_1929_naval_user_cannon;152/53 mm O.T.O. Mod.1929 cannon
 102mm_mark_va;4 inch SAP
 weapons/uk_533mm_21in_mk5_torpedo;533 mm steam turbined Mk. V torpedo
 weapons/uk_533mm_21in_mk5_torpedo/short;Mk. V
+weapons/uk_622mm_24_5in_mk1_torpedo;622 mm Mk.I torpedo
+weapons/uk_622mm_24_5in_mk1_torpedo/short;Mk.I
 weapons/120mm_l_45_mark_8_naval_user_cannon;120 mm L45 cannon
 120mm_l_45_he;120 mm HE
 weapons/depth_charge_de_wbg_mortar;WBG depth charge
@@ -5736,6 +5744,10 @@ weapons/381mm_42_bl_mk1_naval_user_cannon;15 inch/42 BL Mark I cannon
 381mm_4crh_cpc;15 inch 4crh CPC
 381mm_mark_12a_4crh_apc;15 inch 4crh Mark XIIa APC
 381mm_mark_1a_4crh_apc;381 mm Mk.Ia APC
+weapons/406mm_45_bl_mk1_r1_naval_user_cannon;16 inch/45 BL Mark I cannon
+weapons/406mm_45_bl_mk1_r2_naval_user_cannon;16 inch/45 BL Mark I mod.2 cannon
+406mm_uk_he;16 inch HE
+406mm_mark_1a_apcbc;16 inch Mark Ia APCBC
 weapons/178mm_up_mk1_naval_rocket_launcher;178 mm UP Mk. 1
 weapons/178mm_up_mk1_naval_rocket_launcher/short;UP Mk. 1
 up_mk1;178 mm UP Mk. 1

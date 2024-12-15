@@ -59,6 +59,11 @@ All dates are listed in DD-MM-YYYY format.
         - **Archangelsk**
         - **RN Ghibli**
         - **La Galissoniere**
+        - **Tiger Ost**
+        - **Tiger West**
+        - **Two Fronts** (folder)
+        - **Tor/HQ** (folder)
+        - **Ersatz Yorck**
 
 - #### Changes:
 
@@ -107,11 +112,18 @@ All dates are listed in DD-MM-YYYY format.
         - **Archangelsk** renamed to **Arkhangyel'sk**. The long name has been changed to **Portsmouth Royal Dockyard / Philadelphia Navy Yard | Linkor Tip Rojâl Sovyeryen | Arkhangyel'sk**.
         - **RN Ghibli** renamed to **Ghibli (GH)**. The long name has been changed to **Cantiere navale di Castellammare di Stabia | Torpediniera Classe Ciclone | Ghibli (GH)**.
         - **La Galissoniere** renamed to **La Galissonnière**. The long name has been changed to **Arsenal de Brest | Classe La Galissonnière | La Galissonnière**.
+        - **Tiger Ost** renamed to **Tiger E (früh) "Ostfront"**. The long name has been changed to **Panzerkampfwagen Tiger Ausf. E (früh) "Ostfront"**.
+        - **Tiger West** renamed to **Tiger E (früh) "Westfront"**. The long name has been changed to **Panzerkampfwagen Tiger Ausf. E (früh) "Westfront"**.
+        - **Ostwind Ost** renamed to **Ostwind II "Ostfront"**. The long name has been changed to **Flakpanzerkampfwagen IV (3,7cm Fla.K.-Zwilling) | Ostwind II "Ostfront"**.
+        - **Two Fronts** (folder) renamed to **Tiger E (früh) "Ostfront" / "Westfront" / Ostwind II "Ostfront"**.
+        - **Tor/HQ** (folder) renamed to **9A331 / HQ17**.
+        - The **Ersatz Yorck**'s long name has been changed to **Stettiner Maschinenbau Actien-Gesellschaft Vulcan | Klasse Ersatz Yorck | Ersatz Yorck**.
     - The **I.A.R.93-B**'s long name has been changed to **Avioane Craiova | I.A.R.93-B Vultur**. This was supposed to be done in 1.10.02 and "Vultur" was in the spreadsheet for this mod, but I forgot to add it.
     - **IAR-316B** renamed to **I.A.R.316-B**. The long name has been changed to **Industria Aeronautică Română | I.A.R.316-B**.
     - The **VBCI 2 (MCT-30)**'s long distance name has been changed from **Light tank** to **IFV**.
     - The **CV9035NL**'s long distance name has been changed from **Light tank** to **IFV**.
     - The **B.Kh.18Kh**'s long name has been changed to **Northrop Corporation | Northrop F-5-21 | B.Kh.18Kh (1988)**.
+    - The **Ostwind II**'s long name has been changed to **Flakpanzerkampfwagen IV (3,7cm Fla.K.-Zwilling) | Ostwind II**.
 
 ### Weaponry:
 
@@ -119,8 +131,10 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Storm Warning" additions:
         - **30 mm NEXTER 30M791 cannon**
+        - **25 mm CN25 M811 cannon**
         - **FAB-1500M-54**
         - **FAB-3000M-54**
+        - **FAB-3000 UMPK**
         - **GBU-22 Paveway III**
         - **AGM-130A**
         - **AASM 250 (SBU 38)**
@@ -138,12 +152,21 @@ All dates are listed in DD-MM-YYYY format.
         - **R-27ER** (new one for the **Su-33**)
         - **155 mm M45 cannon**
         - **155 mm Rheinmetall L/52 howitzer**
+        - **25 mm/60 Hotchkiss automatic cannon**
+        - **6 inch/50 BL Mark XXII cannon**
+        - **622 mm Mk.I torpedo**
+        - **16 inch/45 BL Mark I cannon**
+        - **16 inch/45 BL Mark I mod. 2 cannon**
+        - **16 inch HE**
+        - **16 inch Mark Ia APCBC**
     - The following guns have had their caliber and type tags added:
         - **30M791**
+        - **M811**
         - **M45**
     - The following bombs and fuel tanks have had their mass and type tags added:
         - **FAB-1500M-54**
         - **FAB-3000M-54**
+        - **FAB-3000M-54 (UMPK)**
         - **GBU-22/B**
         - **RPL 741**
     - The following missiles have had their type tags added:
@@ -161,8 +184,10 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Storm Warning" changes:
         - **30 mm NEXTER 30M791 cannon** renamed to **30M791**.
+        - **25 mm CN25 M811 cannon** renamed to **M811**.
         - **1500 kg FAB-1500M-54 bomb** renamed to **FAB-1500M-54**.
         - **3000 kg FAB-3000M-54 bomb** renamed to **FAB-3000M-54**.
+        - **FAB-3000 UMPK** renamed to **FAB-3000M-54 (UMPK)**. The long name has been changed to **FAB-3000M-54 (Unificzirovannyj Modul' Planirovaniâ i Korryekczii)**.
         - **GBU-22 Paveway III** renamed to **GBU-22/B**. The long name has been changed to **Bomb, Guided, GBU-22/B Paveway III**.
         - **AGM-130A** renamed to **AGM-130A-2**. The long name has been changed to **Guided Missile, Air to Surface, AGM-130A-2**.
         - The **AASM 250 (SBU 38)**'s long name has been changed to **AASM HAMMER | AASM 250 (SBU 38)**.
@@ -190,6 +215,7 @@ All dates are listed in DD-MM-YYYY format.
         - **GBU-48**
         - **Additional ERA Kit** (for the **BMD-4M**)
         - **AIM-9P-4**
+        - **FAB-3000 UMPK**
 
 - #### Changes:
 
@@ -199,24 +225,34 @@ All dates are listed in DD-MM-YYYY format.
         - **GBU-12/22** renamed to **GBU-12/B / 22/B**.
         - **GBU-48** renamed to **GBU-48(V)1/B**
         - **Additional ERA Kit** renamed to **Additional armor**
+        - **FAB-3000 UMPK** renamed **FAB-3000M-54 (UMPK)**
 
 ### Engines:
+
+- #### General:
+
+    - All transmissions have been moved over to the engines file.
 
 - #### Additions:
 
     - Update "Storm Warning" additions:
         - **General Motors** (manufacturer)
         - **EuroJet** (manufacturer)
+        - **Volvo** (manufacturer)
+        - **ZF** (manufacturer)
         - **MTU 881 Ka-500**
         - **6V53T**
         - **Viper Mk 633-47**
         - **M88-2**
         - **AL-31F series 3**
+        - **D12**
+        - **7HP902** (transmission)
 
 - #### Changes:
 
     - Update "Storm Warning" changes:
         - **EuroJet** renamed to **EuroJet Turbo**.
+        - **ZF** renamed to **ZF Friedrichshafen**.
         - **AL-31F series 3** renamed to **AL-31F3**.
 
 ## 1.10.02 - 09-12-2024

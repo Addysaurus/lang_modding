@@ -176,6 +176,49 @@ All dates are listed in DD-MM-YYYY format.
         - **R-27ER** (new one for the **Su-33**) renamed to **R-27ÈR**.
         - **155 mm M45 cannon** renamed to **Howitzer, 155mm, M45**.
 
+### Modifications:
+
+- #### Additions:
+
+    - Update "Storm Warning" additions:
+        - **GBU-54** (a new one)
+        - **GBU-55**
+        - **AASM 250 (SBU 38)**
+        - **AASM 250 (SBU 64)**
+        - **AASM 250 (SBU 54)**
+        - **GBU-12/22**
+        - **GBU-48**
+        - **Additional ERA Kit** (for the **BMD-4M**)
+        - **AIM-9P-4**
+
+- #### Changes:
+
+    - Update "Storm Warning" changes:
+        - **GBU-54** renamed to **GBU-54(V)1/B**
+        - **GBU-55** renamed to **GBU-55(V)1/B**
+        - **GBU-12/22** renamed to **GBU-12/B / 22/B**.
+        - **GBU-48** renamed to **GBU-48(V)1/B**
+        - **Additional ERA Kit** renamed to **Additional armor**
+
+### Engines:
+
+- #### Additions:
+
+    - Update "Storm Warning" additions:
+        - **General Motors** (manufacturer)
+        - **EuroJet** (manufacturer)
+        - **MTU 881 Ka-500**
+        - **6V53T**
+        - **Viper Mk 633-47**
+        - **M88-2**
+        - **AL-31F series 3**
+
+- #### Changes:
+
+    - Update "Storm Warning" changes:
+        - **EuroJet** renamed to **EuroJet Turbo**.
+        - **AL-31F series 3** renamed to **AL-31F3**.
+
 ## 1.10.02 - 09-12-2024
 
 ### Vehicles:

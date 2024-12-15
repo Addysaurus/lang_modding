@@ -1001,6 +1001,10 @@ modification/us_500lb_mk82_gbu38_jdam/desc;Allows the installation of 500 lb Mk 
 modification/us_500lb_mk82_gbu38_jdam;Mk 82 Mod 0 / GBU-38
 modification/us_500lb_mk82_gbu54b/desc;Allows the installation of GBU-54(V)1/B guided bombs.
 modification/us_500lb_mk82_gbu54b;GBU-54(V)1/B
+modification/us_gbu54b/desc;Allows the installation of GBU-54(V)1/B LJDAM guided bombs.
+modification/us_gbu54b;GBU-54(V)1/B
+modification/us_gbu55b/desc;Allows the installation of GBU-55(V)1/B LJDAM guided bombs.
+modification/us_gbu55b;GBU-55(V)1/B
 modification/gr_assta_3_0_gbu54b/desc;Allows the installation of GBU-54(V)1/B guided bombs.
 modification/gr_assta_3_0_gbu54b;GBU-54(V)1/B
 modification/us_500lb_mk82_ls_6_250/desc;Allows for the installation of Mk 82 Mod 0 bombs and 250 kg LS6 GNSS-guided bombs.
@@ -1023,14 +1027,24 @@ modification/fr_pgm_500/desc;Allows the installation of PGM 500 guided bombs.
 modification/fr_pgm_500;PGM 500
 modification/fr_pgm_2000/desc;Allows the installation of PGM 2000 guided bombs.
 modification/fr_pgm_2000;PGM 2000
+modification/fr_aasm_250_sbu_38/desc;Allows the installation of AASM 250 (SBU 38) guided bombs.
+modification/fr_aasm_250_sbu_38;AASM 250 (SBU 38)
+modification/fr_aasm_250_sbu_64/desc;Allows the installation of AASM 250 (SBU 64) guided bombs.
+modification/fr_aasm_250_sbu_64;AASM 250 (SBU 64)
+modification/fr_aasm_250_sbu_54/desc;Allows the installation of AASM 250 (SBU 54) guided bombs.
+modification/fr_aasm_250_sbu_54;AASM 250 (SBU 54)
 modification/uk_mk_13_18/desc;Allows the installation of Mk. 13/18 guided bombs.
 modification/uk_mk_13_18;Mk. 13/18
 modification/us_gbu_12/desc;Allows the installation of GBU-12/B guided bombs.
 modification/us_gbu_12;GBU-12/B
+modification/us_gbu_12_22/desc;Allows the installation of GBU-12/B and GBU-22/B guided bombs.
+modification/us_gbu_12_22;GBU-12/B / 22/B
 modification/us_gbu_12_49/desc;Allows the installation of guided bombs GBU-12/b and GBU-49(V)1/B guided bombs.
 modification/us_gbu_12_49;GBU-12/B / 49(V)1/B
 modification/us_gbu_16/desc;Allows the installation of GBU-16/B guided bombs.
 modification/us_gbu_16;GBU-16/B
+modification/us_gbu_48/desc;Allows the installation of GBU-48(V)1/B guided bombs.
+modification/us_gbu_48;GBU-48(V)1/B
 modification/us_gbu_24/desc;Allows the installation of GBU-24/B guided bombs.
 modification/us_gbu_24;GBU-24/B
 modification/us_gbu_24_gbu_50/desc;Allows the installation of GBU-24/B and GBU-50/B guided bombs.
@@ -1213,7 +1227,9 @@ modification/type_86_turret_improvement/desc;Upgrading ZBD86 by installing a new
 modification/tog_project_upgrade;1941 hull proposal
 modification/tog_project_upgrade/desc;"Allows installation of the 1941 proposed hull for the T.O.G. 2 featuring a 3"" gun in the hull and machine gun sponsons on the sides fitted with BESA machine guns."
 modification/bmp_2d_improvement;BMP-2D
-modification/bmp_2d_improvement/desc;Upgrading BMP-2 by increasing side armor. BMP-2D lost the ability to force crossings by swimming, due to the increased mass.
+modification/bmp_2d_improvement/desc;Upgrading BMP-2 by increasing side armor. BMP-2D loses the ability to cross rivers by swimming due to the increased mass.
+modification/bmd_4m_improvement;Additional armor
+modification/bmd_4m_improvement/desc;Upgrading BMD-4M by enhancing its side and frontal armor. The BMD-4M loses its ability to cross rivers by swimming due to the increased mass.
 modification/abrams_protection_improvement;TUSK
 modification/abrams_protection_improvement/desc;TUSK upgrade kit
 modification/c1_protection_improvement;War kit
@@ -2229,6 +2245,8 @@ modification/swd_rb74m/desc;Allows the installation of AIM-9M-4 Sidewinder air-t
 modification/swd_rb74m;AIM-9M-4
 modification/us_aim_9p/desc;Allows installation of AIM-9P-3 air-to-air missiles.
 modification/us_aim_9p;AIM-9P-3
+modification/us_aim_9p4/desc;Allows installation of AIM-9P-4 air-to-air missiles.
+modification/us_aim_9p4;AIM-9P-4
 modification/f5_us_aim_9b/desc;Allows installation of AIM-9B air-to-air missiles and Flares/Chaff.
 modification/f5_us_aim_9b;AIM-9B Flares/Chaff
 modification/f5_us_aim_9e/desc;Allows installation of AIM-9E air-to-air missiles and Flares/Chaff.

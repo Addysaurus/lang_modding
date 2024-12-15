@@ -79,6 +79,8 @@ engine_manufacturer/zhuzhou_aero-engine_factory;Manufacturer: Zhuzhou Aero-Engin
 engine_manufacturer/umpo;Manufacturer: UMPO
 engine_manufacturer/xaec;Manufacturer: XAEC
 engine_manufacturer/iveco;Manufacturer: IVECO
+engine_manufacturer/general_motors;Manufacturer: General Motors
+engine_manufacturer/eurojet;Manufacturer: EuroJet Turbo
 //ENGINES;
 engine_model/jumo004d;"
 Engine model: Jumo 004D"
@@ -1353,4 +1355,14 @@ Engine model: F402-RR-406"
 engine_model/vk-2500_03;"
 Engine model: VK-2500-03"
 engine_model/viper_633_41;"
-Engine mode: Viper Mk 633-41"
+Engine model: Viper Mk 633-41"
+engine_model/viper_633_41;"
+Engine model: Viper Mk 633-47"
+engine_model/mt_881_ka_500;"
+Engine model: MTU 881 Ka-500"
+engine_model/6v_53t;"
+Engine model: 6V53T"
+engine_model/ej200;"
+Engine model: EJ200"
+engine_model/al_31f_series_3;"
+Engine model: AL-31F3"

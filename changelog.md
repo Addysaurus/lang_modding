@@ -105,7 +105,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F-16A OCU** (Japan / Thailand) renamed to **B.Kh.19**. The long name has been changed to **General Dynamics Corporation | B.Kh.19**.
         - **JAS39C** (Japan / Thailand) renamed to **B.Kh.20**. The long name has been changed to **Saab | Saab 39 C | B.Kh.20**.
         - **AV-8S Late** (Japan / Thailand) renamed to **B.KhL.1 (late)**. The long name has been changed to **Hawker Siddeley Aviation | B.KhL.1 (late)**.
-        - **HMS Rodney** renamed to **HMS Rodney (29)**. The long name has been changed to **Cammell Laird & Co. / Rosyth Dockyard | Nelson-class | HMS Rodney (29) (1940)**.
+        - **HMS Rodney** renamed to **HMS Rodney (29)**. The long name has been changed to **Cammell Laird & Co. / Rosyth Dockyard | Nelson-class | HMS Rodney (29) (1940)** (also part of the British naval rework).
         - **RDF/LT** renamed to **14.8 Ton RDF/LT**. The long name has been changed to **AAI Corperation | AAI 14.8 Ton Rapid Deployment Force Light Tank**.
         - The **Su-33**'s long name has been changed to **PAO Kompaniâ Sukhoj | izd. T-10K | Su-33**.
         - The **BMD-4M**'s long name has been changed to **Ob"yekt 960M | BMD-4M**.
@@ -118,6 +118,50 @@ All dates are listed in DD-MM-YYYY format.
         - **Two Fronts** (folder) renamed to **Tiger E (früh) "Ostfront" / "Westfront" / Ostwind II "Ostfront"**.
         - **Tor/HQ** (folder) renamed to **9A331 / HQ17**.
         - The **Ersatz Yorck**'s long name has been changed to **Stettiner Maschinenbau Actien-Gesellschaft Vulcan | Klasse Ersatz Yorck | Ersatz Yorck**.
+    - British bluewater fleet rework:
+        - **HMS Abdiel (M39)** renamed to **HMS Abdiel (M 39)**. The long name has been changed to **J. Samuel White & Co. / Palmers Shipyard | Abdiel-class | HMS Abdiel (M 39) (1942)**. Its long distance tag has been changed to **Minelayer**.
+        - The **HMS Arethusa (26)**'s long name has been changed to **Chatham Royal Dockyard / Charleston Naval Shipyard | Arethusa-class | HMS Arethusa (26) (1943)**.
+        - **HMS Armada (D14)** renamed to **HMS Armada (R 14)**. The long name has been changed to **R. & W. Hawthorn, Leslie & Co. | Battle-class | HMS Armada (R 14)**.
+        - The **HMS Barham (97)**'s long name has been changed to **John Brown & Co. / Cromarty Harbour | Queen Elizabeth-class | HMS Barham (97) (1917)**. Its long distance tag has been changed to **Dreadnought**.
+        - **HMS Belfast (C35)** renamed to **HMS Belfast (C 35)**. The long name has been changed to **Harland & Wolff Group Holdings / Devonport Royal Dockyard | Town-class | HMS Belfast (C 35) (1959)**.
+        - **HMS Brissenden (L79)** renamed to **HMS Brissenden (L 79)**. The long name has been changed to **John I. Thornycroft & Co. / Pembroke Dockyard | Type IV Hunt-class | HMS Brissenden (L 79) (1945)**.
+        - **HMS Cadiz (D79)** renamed to **HMS Cadiz (D 79)**. The long name has been changed to **Fairfield Shipbuilding & Engineering Co. | Battle-class | HMS Cadiz (D 79)**.
+        - **HMS Calpe (L71)** renamed to **HMS Calpe (L 71)**. The long name has been changed to **Swan Hunter & Wigham Richardson / Malta Dockyard | Type II Hunt-class | HMS Calpe (L 71) (1945)**.
+        - **HMS Churchill (I45)** renamed to **HMS Churchill (I 45)**. The long name has been changed to **Newport News Shipbuilding and Dry Dock Co. / Charleston Naval Shipyard | Town-class | HMS Churchill (I 45) (1943)**.
+        - **HMS Daring (D05)** renamed to **HMS Daring (D 05)**. The long name has been changed to **Swan Hunter & Wigham Richardson | Daring-class | HMS Daring (D 05)**.
+        - **HMS Diamond (D35)** renamed to **HMS Diamond (D 35)**. The long name has been changed to **John Brown & Co. | Daring-class | HMS Diamond (D 35)**.
+        - The **HMS Dido (37)**'s long name has been changed to **Cammell Laird & Co. / Brooklyn Navy Yard | Dido-class | HMS Dido (37) (1941)**.
+        - **HMS Enterprise (D52)** renamed to **HMS Enterprise (D 52)**. The long name has been changed to **John Brown & Co. / Devonport Royal Dockyard | Emerald-class | HMS Enterprise (D 52) (1944)**.
+        - **HMS Eskimo (F75)** renamed to **HMS Eskimo (G 75)**. The long name has been changed to **Vickers-Armstrongs / Barrow-in-Furness | Tribal-class | HMS Eskimo (G 75) (1940)**. Also, just a little reminder for y'all that "Eskimo" is a slur and you should not call Inuit people that.
+        - **HMS Grafton (H89)** renamed to **HMS Grafton (H 89)**. The long name has been changed to **John I. Thornycroft & Co. | G-class | HMS Grafton (H 89)**.
+        - **HMCS Haida (G63)** renamed to **HMCS Haida (G 63)**. The long name has been changed to **Vickers-Armstrongs | Tribal-class | HMCS Haida (G 63)**.
+        - **HMS Hawkins (D86)** renamed to **HMS Hawkins (D 86)**. The long name has been changed to **Chatham Royal Dockyard / Portsmouth Royal Dockyard | Hawkins-class | HMS Hawkins (D 86) (1942)**.
+        - The **HMS Hood (51)**'s long name has been changed to **John Brown & Co. / Rosyth Dockyard | Admiral-class | HMS Hood (51) (1941)**.
+        - The **HMS Invincible (85)**'s long name has been changed to **Sir W G Armstrong Whitworth & Co. / Devonport Royal Dockyard | Invincible-class | HMS Invincible (85) (1914)**.
+        - The **HMS Iron Duke (18)**'s long name has been changed to **Portsmouth Royal Dockyard | Iron Duke-class | HMS Iron Duke (18) (1929)**. Its long distance tag has been changed to **Dreadnought**.
+        - **HMS Jervis (F00)** renamed to **HMS Jervis (G 00)**. The long name has been changed to **R. & W. Hawthorn, Leslie & Co. / Belfast Dry Dock | J-class | HMS Jervis (G 00) (1945)**.
+        - **HMS Kelvin (F37)** renamed to **HMS Kelvin (F 37)**. The long name has been changed to **Fairfield Shipbuilding & Engineering Co. | K-class | HMS Kelvin (F 37)**.
+        - The **HMS Kent (54)**'s long name has been changed to **Chatham Royal Dockyard | County-class | HMS Kent (54) (1934)**.
+        - The **HMNZS Leander (75)**'s long name has been changed to **Vickers-Armstrongs / Auckland Dockyard | Leander-class | HMNZS Leander (75) (1941)**.
+        - **HMS Liverpool (C11)** renamed to **HMS Liverpool (C 11)**. The long name has been changed to **Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | Town-class | HMS Liverpool (C 11) (1944)**.
+        - The **HMS London (69)**'s long name has been changed to **Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | County-class | HMS London (69) (1944)**.
+        - **HMS Marlborough (79)** renamed to **HMS Marlborough (66)**. The long name has been changed to **Devonport Royal Dockyard | Iron Duke-class | HMS Marlborough (66) (1929)**.
+        - **HMS Mohawk (L31)** renamed to **HMS Mohawk (L 31)**. The long name has been changed to **John I. Thornycroft & Co. | Tribal-class | HMS Mohawk (L 31)**.
+        - **HMS Montgomery (G95)**. The long name has been changed to **HMS Montgomery (G 95)**. The long name has been changed to **Bath Iron Works / Barrow-in-Furness | Town-class | HMS Montgomery (G 95) (1941)**.
+        - **HMAS Nepal (G25)** renamed to **HMS Nepal (G 25)**. The long name has been changed to **John I. Thornycroft & Co. / HMAS Kuttabul | N-class | HMAS Nepal (G 25) (1943)**.
+        - The **HMS Norfolk (78)**'s long name has been renamed to **Fairfield Shipbuilding & Engineering Co. / Portsmouth Royal Dockyard | County-class | HMS Norfolk (78) (1943)**.
+        - The **HMS Orion (52)**'s long name has been changed to **Portsmouth Royal Dockyard | Orion-class | HMS Orion (52)**. Its long distance tag has been changed to **Dreadnought**.
+        - The **HMS Queen Mary (14)**'s long name has been changed to **Palmers Shipbuilding and Iron Co. | Queen Mary-class | HMS Queen Mary (14)**.
+        - The **HMS Renown (72)**'s long name has been changed to **Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | Renown-class | HMS Renown (72) (1943)**.
+        - The **HMS Repulse (34)**'s long name has been changed to **John Brown & Co. / Rosyth Dockyard | Renown-class | HMS Repulse (34) (1941)**.
+        - **HMS Southamptom (C83)** renamed to **HMS Southampton (C 83)**. The long name has been changed to **John Brown & Co. / Tyne Shipyard | Town-class | HMS Southampton (C 83) (1940)**.
+        - **HMS Tiger (C20)** renamed to **HMS Tiger (C 20)**. The long name has been changed to **John Brown & Co. | Tiger-class | HMS Tiger (C 20)**.
+        - **HMAS Tobruk (D37)** renamed to **HMAS Tobruk (D 37)**. The long name has been changed to **Cockatoo Docks and Engineering Co. | Battle-class | HMAS Tobruk (D 37)**.
+        - **HMS Valhalla (G45)** renamed to **HMS Valhalla (D 44)**. The long name has been changed to **Cammell Laird & Co. / Port Edgar | Admiralty V-class | HMS Valhalla (D 44) (1923)**.
+        - **HMS Vega (L41)** renamed to **HMS Vega (L 41)**. The long name has been changed to **William Doxford & Sons / Chatham Royal Dockyard | Admiralty V-class | HMS Vega (L 41) (1939)**.
+        - **HMS Verdun (L93)** renamed to **HMS Verdun (L 93)**. The long name has been changed to **R. & W. Hawthorn, Leslie & Co. / Chatham Royal Dockyard | Admiralty V-class | HMS Verdun (L 93) (1940)**.
+        - The **HMS York (90)**'s long name has been changed to **Palmers Shipbuilding and Iron Co. / Royal Albery Dockyard | York-class | HMS York (90) (1940)**.
+        - The **ORP Garland (H 37)**'s long name has been changed to **Fairfield Shipbuilding & Engineering Co. / Smiths Dockyard | G-class | ORP Garland (H 37) (1942)**.
     - The **I.A.R.93-B**'s long name has been changed to **Avioane Craiova | I.A.R.93-B Vultur**. This was supposed to be done in 1.10.02 and "Vultur" was in the spreadsheet for this mod, but I forgot to add it.
     - **IAR-316B** renamed to **I.A.R.316-B**. The long name has been changed to **Industria Aeronautică Română | I.A.R.316-B**.
     - The **VBCI 2 (MCT-30)**'s long distance name has been changed from **Light tank** to **IFV**.

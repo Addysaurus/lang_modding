@@ -118,6 +118,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Two Fronts** (folder) renamed to **Tiger E (früh) "Ostfront" / "Westfront" / Ostwind II "Ostfront"**.
         - **Tor/HQ** (folder) renamed to **9A331 / HQ17**.
         - The **Ersatz Yorck**'s long name has been changed to **Stettiner Maschinenbau Actien-Gesellschaft Vulcan | Klasse Ersatz Yorck | Ersatz Yorck**.
+        - **T-26-1** (China) renamed to **T-26 (1933)**. The long name has been changed to **T-26 obr. 1933 g.**. This is counted as a change for Storm Warning because the Chinese **T-26**s got a new model in this update.
+        - **T-26-1 (200th Div.)** (China) renamed to **T-26 (1933) (Dì 200 Shī)**. The long name has been changed to **T-26 obr. 1933 g. (Dì 200 Shī)**. This is counted as a change for Storm Warning because the Chinese **T-26**s got a new model in this update.
     - British bluewater fleet rework:
         - **HMS Abdiel (M39)** renamed to **HMS Abdiel (M 39)**. The long name has been changed to **J. Samuel White & Co. / Palmers Shipyard | Abdiel-class | HMS Abdiel (M 39) (1942)**. Its long distance tag has been changed to **Minelayer**.
         - The **HMS Arethusa (26)**'s long name has been changed to **Chatham Royal Dockyard / Charleston Naval Shipyard | Arethusa-class | HMS Arethusa (26) (1943)**.

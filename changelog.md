@@ -319,6 +319,20 @@ All dates are listed in DD-MM-YYYY format.
         - **ZF** renamed to **ZF Friedrichshafen**.
         - **AL-31F series 3** renamed to **AL-31F3**.
 
+### Loading screens:
+
+- #### Additions:
+
+    - Update "Storm Warning" additions:
+        - **Typhoon and Rafale**
+        - **PzH 2000***
+
+- #### Changes:
+
+    - Update "Storm Warning" changesL:
+        - **Typhoon and Rafale** renamed to **Eurofighter (T2 B10) and Rafale C (F3R)**.
+        - **PzH 2000** renamed to **PzH 2000 A1**.
+
 ## 1.10.02 - 09-12-2024
 
 ### Vehicles:

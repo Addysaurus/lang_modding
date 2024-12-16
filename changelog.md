@@ -166,7 +166,7 @@ All dates are listed in DD-MM-YYYY format.
         - The **ORP Garland (H 37)**'s long name has been changed to **Fairfield Shipbuilding & Engineering Co. / Smiths Dockyard | G-class | ORP Garland (H 37) (1942)**.
     - The **I.A.R.93-B**'s long name has been changed to **Avioane Craiova | I.A.R.93-B Vultur**. This was supposed to be done in 1.10.02 and "Vultur" was in the spreadsheet for this mod, but I forgot to add it.
     - **IAR-316B** renamed to **I.A.R.316-B**. The long name has been changed to **Industria Aeronautică Română | I.A.R.316-B**.
-    - The **VBCI 2 (MCT-30)**'s long distance name has been changed from **Light tank** to **IFV**.
+    - **VBCI 2 (MCT-30)** renamed to **VBCI MK2 (MCT-30)**. The long name has been changed to **Véhicule Blindé de Combat d'Infanterie MK2 (MCT-30)**. The long distance tag has been changed to **IFV**.
     - The **CV9035NL**'s long distance name has been changed from **Light tank** to **IFV**.
     - The **B.Kh.18Kh**'s long name has been changed to **Northrop Corporation | Northrop F-5-21 | B.Kh.18Kh (1988)**.
     - The **Ostwind II**'s long name has been changed to **Flakpanzerkampfwagen IV (3,7cm Fla.K.-Zwilling) | Ostwind II**.

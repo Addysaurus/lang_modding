@@ -64,6 +64,10 @@ All dates are listed in DD-MM-YYYY format.
         - **Two Fronts** (folder)
         - **Tor/HQ** (folder)
         - **Ersatz Yorck**
+        - **Kfir C.10**
+        - **M.B.151C.1**
+        - **T-80UD/BE**
+        - **IJN Kirishima**
 
 - #### Changes:
 
@@ -120,6 +124,10 @@ All dates are listed in DD-MM-YYYY format.
         - The **Ersatz Yorck**'s long name has been changed to **Stettiner Maschinenbau Actien-Gesellschaft Vulcan | Klasse Ersatz Yorck | Ersatz Yorck**.
         - **T-26-1** (China) renamed to **T-26 (1933)**. The long name has been changed to **T-26 obr. 1933 g.**. This is counted as a change for Storm Warning because the Chinese **T-26**s got a new model in this update.
         - **T-26-1 (200th Div.)** (China) renamed to **T-26 (1933) (Dì 200 Shī)**. The long name has been changed to **T-26 obr. 1933 g. (Dì 200 Shī)**. This is counted as a change for Storm Warning because the Chinese **T-26**s got a new model in this update.
+        - **Kfir C.10** renamed to **Kfir Block 60**.
+        - **M.B.151C.1** renamed to **M.B.151-C1**. The long name has been changed to **Société des Avions Marcel Bloch | M.B.151-C1**.
+        - **T-80UD/BE** renamed to **T-80UD**. The long name has been changed to **Ob"yekt 478BE | T-80UD Byeryeza**.
+        - **IJN Kirishima** renamed to **Kirishima**. The long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kirishima (1942)**.
     - British bluewater fleet rework:
         - **HMS Abdiel (M39)** renamed to **HMS Abdiel (M 39)**. The long name has been changed to **J. Samuel White & Co. / Palmers Shipyard | Abdiel-class | HMS Abdiel (M 39) (1942)**. Its long distance tag has been changed to **Minelayer**.
         - The **HMS Arethusa (26)**'s long name has been changed to **Chatham Royal Dockyard / Charleston Naval Shipyard | Arethusa-class | HMS Arethusa (26) (1943)**.
@@ -130,11 +138,15 @@ All dates are listed in DD-MM-YYYY format.
         - **HMS Cadiz (D79)** renamed to **HMS Cadiz (D 79)**. The long name has been changed to **Fairfield Shipbuilding & Engineering Co. | Battle-class | HMS Cadiz (D 79)**.
         - **HMS Calpe (L71)** renamed to **HMS Calpe (L 71)**. The long name has been changed to **Swan Hunter & Wigham Richardson / Malta Dockyard | Type II Hunt-class | HMS Calpe (L 71) (1945)**.
         - **HMS Churchill (I45)** renamed to **HMS Churchill (I 45)**. The long name has been changed to **Newport News Shipbuilding and Dry Dock Co. / Charleston Naval Shipyard | Town-class | HMS Churchill (I 45) (1943)**.
+        - **HMS Colossus** renamed to **HMS Colossus (93)**. The long name has been changed to **Scotts Shipbuilding & Engineering Co. | Colossus-class | HMS Colossus (93) (1917)**. Its long distance tag has been changed to **Dreadnought**.
         - **HMS Daring (D05)** renamed to **HMS Daring (D 05)**. The long name has been changed to **Swan Hunter & Wigham Richardson | Daring-class | HMS Daring (D 05)**.
         - **HMS Diamond (D35)** renamed to **HMS Diamond (D 35)**. The long name has been changed to **John Brown & Co. | Daring-class | HMS Diamond (D 35)**.
+        - **HMS Diana (D126)** renamed to **HMS Diana (D 126)**. The long name has been changed to **Yarrow & Co. | Daring-class | HMS Diana (D 126) (1959)**.
         - The **HMS Dido (37)**'s long name has been changed to **Cammell Laird & Co. / Brooklyn Navy Yard | Dido-class | HMS Dido (37) (1941)**.
+        - **HMS Dreadnought** renamed to **HMS Dreadnought (00)**. The long name has been changed to **Portsmouth Royal Dockyard | Dreadnought-class | HMS Dreadnought (00) (1917)**. Its long distance tag has been changed to **Dreadnought**.
         - **HMS Enterprise (D52)** renamed to **HMS Enterprise (D 52)**. The long name has been changed to **John Brown & Co. / Devonport Royal Dockyard | Emerald-class | HMS Enterprise (D 52) (1944)**.
         - **HMS Eskimo (F75)** renamed to **HMS Eskimo (G 75)**. The long name has been changed to **Vickers-Armstrongs / Barrow-in-Furness | Tribal-class | HMS Eskimo (G 75) (1940)**. Also, just a little reminder for y'all that "Eskimo" is a slur and you should not call Inuit people that.
+        - The **HMS Glorious (77)**'s long name has been changed to **Harland & Wolff Group Holdings | Courageous-Class | HMS Glorious (77) (1917)**.
         - **HMS Grafton (H89)** renamed to **HMS Grafton (H 89)**. The long name has been changed to **John I. Thornycroft & Co. | G-class | HMS Grafton (H 89)**.
         - **HMCS Haida (G63)** renamed to **HMCS Haida (G 63)**. The long name has been changed to **Vickers-Armstrongs | Tribal-class | HMCS Haida (G 63)**.
         - **HMS Hawkins (D86)** renamed to **HMS Hawkins (D 86)**. The long name has been changed to **Chatham Royal Dockyard / Portsmouth Royal Dockyard | Hawkins-class | HMS Hawkins (D 86) (1942)**.
@@ -170,6 +182,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **CV9035NL**'s long distance name has been changed from **Light tank** to **IFV**.
     - The **B.Kh.18Kh**'s long name has been changed to **Northrop Corporation | Northrop F-5-21 | B.Kh.18Kh (1988)**.
     - The **Ostwind II**'s long name has been changed to **Flakpanzerkampfwagen IV (3,7cm Fla.K.-Zwilling) | Ostwind II**.
+    - **Inf.-Pz.Kpfw. 750 (e)** renamed to **I.Pz.Kpfw. 750 (e)**.
 
 ### Weaponry:
 
@@ -205,6 +218,9 @@ All dates are listed in DD-MM-YYYY format.
         - **16 inch/45 BL Mark I mod. 2 cannon**
         - **16 inch HE**
         - **16 inch Mark Ia APCBC**
+        - **Drop tank (1000 liters.)** (for the **Typhoon F.G.R. Mk. 4**)
+        - **AIM-9L/I-1**
+        - **4.7 inch/40 Mk.XII cannon**
     - The following guns have had their caliber and type tags added:
         - **30M791**
         - **M811**
@@ -224,6 +240,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AASM 500 (SBU 54)**
         - **AIM-9P-4** (new one for Thai stuff)
         - **R-27ER** (new one for the **Su-33**)
+        - **AIM-9L/I-1**
     - The caliber tag has been added to the new countermeasure BOL whatever thingy.
 
 - #### Changes:
@@ -246,6 +263,7 @@ All dates are listed in DD-MM-YYYY format.
         - The **AIM-9P-4**'s (new one for Thai stuff) long name has been changed to **Guided Missile, Air to Air, AIM-9P-4 Sidewinder**.
         - **R-27ER** (new one for the **Su-33**) renamed to **R-27ÈR**.
         - **155 mm M45 cannon** renamed to **Howitzer, 155mm, M45**.
+        - **Drop tank (1000 liters.)** (for the **Typhoon F.G.R. Mk. 4**) renamed to **Drop tank (1000 L)**.
 
 ### Modifications:
 

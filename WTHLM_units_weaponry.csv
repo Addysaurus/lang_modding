@@ -1123,6 +1123,12 @@ weapons/cn_1100l_rx3_drop_tank_1;Drop tank (1100 L)
 weapons/cn_1100l_rx3_drop_tank_1/short;Drop tank
 weapons/cn_1100l_rx3_drop_tank_2;Drop tank (1100 L)
 weapons/cn_1100l_rx3_drop_tank_2/short;Drop tank
+weapons/uk_1000l_ef_2000_1;Drop tank (1000 L)
+weapons/uk_1000l_ef_2000_1/short;Drop tank
+weapons/uk_1000l_ef_2000_2;Drop tank (1000 L)
+weapons/uk_1000l_ef_2000_2/short;Drop tank
+weapons/uk_1000l_ef_2000_3;Drop tank (1000 L)
+weapons/uk_1000l_ef_2000_3/short;Drop tank
 weapons/su_kh_66;Kh-66 missiles
 weapons/su_kh_66;Kh-66 <color=#ff6f00>AGM-RG</color>
 weapons/su_kh_66/short;Kh-66
@@ -3660,6 +3666,10 @@ weapons/us_aim9m_sidewinder_default;Guided Missile, Air to Air, AIM-9M-4 Sidewin
 weapons/us_aim9m_sidewinder_default/short;AIM-9M-4
 weapons/us_aim9m_sidewinder_bol_pod;Guided Missile, Air to Air, AIM-9M-4 Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9m_sidewinder_bol_pod/short;AIM-9M-4
+weapons/us_aim9l_i_1_sidewinder;AIM-9L/I-1 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9l_i_1_sidewinder/short;AIM-9L/I-1
+weapons/us_aim9l_i_1_sidewinder_default;AIM-9L/I-1 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9l_i_1_sidewinder_default/short;AIM-9L/I-1
 weapons/it_aspide_1a;Aspide-1A <color=#ff6f00>AAM-SARH</color>
 weapons/it_aspide_1a/short;Aspide-1A
 weapons/ir_yasser;Yāsir <color=#ff6f00>RKT</color>
@@ -4527,6 +4537,7 @@ weapons/76mm_55_34k_naval_user_cannon;76 mm 34-K mounting
 weapons/102mm_45_4in_qf_mark16_21_naval_user_cannon;4 inch/45 Mark XVI cannon
 weapons/120mm_45_4_7in_mark12_cp19_mount_naval_user_cannon;4.7 inch/45 Mk. XII cannon, CPXIX mounting
 weapons/120mm_45_qf_mk12_mount_cp17_single_naval_user_cannon;4.7 inch/45 Mk. XII cannon, СPXVII mounting
+weapons/120mm_40_qf_mk12_mount_ha_single_naval_user_cannon;4.7 inch/40 Mk.XII cannon
 weapons/us_533mm_21in_mark16_torpedo;533 mm Mk. 16 torpedo
 weapons/us_533mm_21in_mark16_torpedo/short;Mk. 16
 76mm_naval_he;76 mm HE

@@ -5719,9 +5719,9 @@ germ_leopard_2k_shop;KPz Leopard 2 K (PT 14/T 11)
 germ_leopard_2k_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 K, PT 14 mit T 11
 germ_leopard_2k_1;Leopard 2
 germ_leopard_2k_2;MBT
-germ_infanterie_kampfpanzer_churchill_shop;▀ Inf.-Pz.Kpfw. 750 (e)
+germ_infanterie_kampfpanzer_churchill_shop;▀ I.Pz.Kpfw. 750 (e)
 germ_infanterie_kampfpanzer_churchill_0;▀ Infanterie-Panzerkampfwagen 750 (e) | Mk IV
-germ_infanterie_kampfpanzer_churchill_1;▀ Inf.-Pz.Kpfw. 750 (e)
+germ_infanterie_kampfpanzer_churchill_1;▀ I.Pz.Kpfw. 750
 germ_infanterie_kampfpanzer_churchill_2;Infantry tank
 uk_a_22b_mk_3_churchill_1942_shop;Churchill, Mk. III
 uk_a_22b_mk_3_churchill_1942_0;Tank, Infantry, Mk. IV, A.22B, Churchill, Mk. III
@@ -9079,6 +9079,10 @@ kfir_c7_shop;Kfir C.7
 kfir_c7_0;Kfir C.7
 kfir_c7_1;Kfir C.7
 kfir_c7_2;Kfir
+kfir_c10_colombia_shop;Kfir Block 60
+kfir_c10_colombia_0;Kfir Block 60
+kfir_c10_colombia_1;Kfir Block 60
+kfir_c10_colombia_2;Kfir
 mirage_5f_shop;Mirage 5 F
 mirage_5f_0;Mirage 5 F
 mirage_5f_1;Mirage 5 F
@@ -10243,6 +10247,10 @@ mb_152c1_shop;M.B.152-C1
 mb_152c1_0;M.B.152-C1
 mb_152c1_1;M.B.152-C1
 mb_152c1_2;M.B.152
+mb_151c1_shop;M.B.151-C1
+mb_151c1_0;Société des Avions Marcel Bloch | M.B.151-C1
+mb_151c1_1;M.B.151-C1
+mb_151c1_2;M.B.151
 late_298d_shop;Latécoère 298D
 late_298d_1;Latécoère 298D
 late_298d_0;Latécoère 298D
@@ -12921,10 +12929,10 @@ ussr_battleship_poltava_shop;Poltava
 ussr_battleship_poltava_0;Syevastopol'-class, Poltava, 1914
 ussr_battleship_poltava_1;Poltava
 ussr_battleship_poltava_2;Battleship
-uk_battleship_dreadnought_shop;HMS Dreadnought
-uk_battleship_dreadnought_0;HMS Dreadnought, 1917
+uk_battleship_dreadnought_shop;HMS Dreadnought (00)
+uk_battleship_dreadnought_0;Portsmouth Royal Dockyard | Dreadnought-class | HMS Dreadnought (00) (1917)
 uk_battleship_dreadnought_1;HMS Dreadnought
-uk_battleship_dreadnought_2;Battleship
+uk_battleship_dreadnought_2;Dreadnought
 germ_battleship_westfalen_shop;SMS Westfalen
 germ_battleship_westfalen_0;Nassau-class, SMS Westfalen, 1916
 germ_battleship_westfalen_1;SMS Westfalen
@@ -12961,14 +12969,18 @@ germ_destroyer_class1924_iltis_shop;Luchs
 germ_destroyer_class1924_iltis_0;Raubtier-class, Luchs, 1932
 germ_destroyer_class1924_iltis_1;Luchs
 germ_destroyer_class1924_iltis_2;Destroyer
-uk_battleship_colossus_shop;HMS Colossus
-uk_battleship_colossus_0;Colossus-class, HMS Colossus, 1918
+uk_battleship_colossus_shop;HMS Colossus (93)
+uk_battleship_colossus_0;Scotts Shipbuilding & Engineering Co. | Colossus-class | HMS Colossus (93) (1917)
 uk_battleship_colossus_1;HMS Colossus
-uk_battleship_colossus_2;Battleship
+uk_battleship_colossus_2;Dreadnought
 uk_battleship_rodney_shop;HMS Rodney (29)
 uk_battleship_rodney_0;Cammell Laird & Co. / Rosyth Dockyard | Nelson-class | HMS Rodney (29) (1940)
 uk_battleship_rodney_1;HMS Rodney
 uk_battleship_rodney_2;Battleship
+jp_battlecruiser_kirishima_shop;Kirishima
+jp_battlecruiser_kirishima_0;Mitsubishi Jūkōgyō Nagasaki Zōsenjo / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kirishima (1942)
+jp_battlecruiser_kirishima_1;Kirishima
+jp_battlecruiser_kirishima_2;Battleship
 jp_armoredcruiser_ikoma_shop;Ikoma
 jp_armoredcruiser_ikoma_0;Kure Kaigun Kōshō | Tsukuba gata (B-12) | Ikoma (1912)
 jp_armoredcruiser_ikoma_1;Ikoma
@@ -13306,8 +13318,8 @@ jp_battleship_fuso_0;Kure Kaigun Kōshō | Fusō gata (A-64) | Fusō (1944)
 jp_battleship_fuso_1;Fusō
 jp_battleship_fuso_2;Battleship
 uk_battlecruiser_glorious_shop;HMS Glorious (77)
-uk_battlecruiser_glorious_0;Courageous-class, HMS Glorious (77), 1919
-uk_battlecruiser_glorious_1;HMS Glorious (77)
+uk_battlecruiser_glorious_0;Harland & Wolff Group Holdings | Courageous-Class | HMS Glorious (77) (1917)
+uk_battlecruiser_glorious_1;HMS Glorious
 uk_battlecruiser_glorious_2;Battlecruiser
 germ_type152_hugin_shop;Hugin (P 6191)
 germ_type152_hugin_0;Schnellboot Typ 152, Hugin (P 6191)
@@ -13321,9 +13333,9 @@ ussr_destroyer_7_besposhchadny_shop;Byespoŝadnyj
 ussr_destroyer_7_besposhchadny_0;Pr. 7, Byespoŝadnyj, 1942
 ussr_destroyer_7_besposhchadny_1;Byespoŝadnyj
 ussr_destroyer_7_besposhchadny_2;Destroyer
-uk_destroyer_daring_class_diana_shop;HMS Diana (D126)
-uk_destroyer_daring_class_diana_0;Daring-class, HMS Diana (D126), 1958
-uk_destroyer_daring_class_diana_1;HMS Diana (D126)
+uk_destroyer_daring_class_diana_shop;HMS Diana (D 126)
+uk_destroyer_daring_class_diana_0;Yarrow & Co. | Daring-class | HMS Diana (D 126) (1959)
+uk_destroyer_daring_class_diana_1;HMS Diana
 uk_destroyer_daring_class_diana_2;Destroyer
 it_destroyer_vifor_class_aquila_shop;Aquila (AQ)
 it_destroyer_vifor_class_aquila_0;Cantieri navali Pattison | Cacciatorpediniere Classe Aquila | Aquila (AQ)
@@ -13830,4 +13842,8 @@ germ_battlecruiser_ersatz_yorck_shop;Ersatz Yorck
 germ_battlecruiser_ersatz_yorck_0;Stettiner Maschinenbau Actien-Gesellschaft Vulcan | Klasse Ersatz Yorck | Ersatz Yorck
 germ_battlecruiser_ersatz_yorck_1;Ersatz Yorck
 germ_battlecruiser_ersatz_yorck_2;Battlecruiser
+cn_t_80ud_478be_shop;☪ T-80UD
+cn_t_80ud_478be_0;"☪ Ob""yekt 478BE | T-80UD Byeryeza"
+cn_t_80ud_478be_1;☪ T-80UD
+cn_t_80ud_478be_2;MBT
 SHIPS_LANG_KEEP_IT_ALWAYS_FIRST;

@@ -121,7 +121,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Ostwind Ost** renamed to **Ostwind II "Ostfront"**. The long name has been changed to **Flakpanzerkampfwagen IV (3,7cm Fla.K.-Zwilling) | Ostwind II "Ostfront"**.
         - **Two Fronts** (folder) renamed to **Tiger E (früh) "Ostfront" / "Westfront" / Ostwind II "Ostfront"**.
         - **Tor/HQ** (folder) renamed to **9A331 / HQ17**.
-        - The **Ersatz Yorck**'s long name has been changed to **Stettiner Maschinenbau Actien-Gesellschaft Vulcan | Klasse Ersatz Yorck | Ersatz Yorck**.
+        - The **Ersatz Yorck**'s long name has been changed to **Stettiner Maschinenbau Actien-Gesellschaft Vulcan | großer Kreuzer Klasse Ersatz Yorck | Ersatz Yorck**.
         - **T-26-1** (China) renamed to **T-26 (1933)**. The long name has been changed to **T-26 obr. 1933 g.**. This is counted as a change for Storm Warning because the Chinese **T-26**s got a new model in this update.
         - **T-26-1 (200th Div.)** (China) renamed to **T-26 (1933) (Dì 200 Shī)**. The long name has been changed to **T-26 obr. 1933 g. (Dì 200 Shī)**. This is counted as a change for Storm Warning because the Chinese **T-26**s got a new model in this update.
         - **Kfir C.10** renamed to **Kfir Block 60**.
@@ -221,6 +221,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Drop tank (1000 liters.)** (for the **Typhoon F.G.R. Mk. 4**)
         - **AIM-9L/I-1**
         - **4.7 inch/40 Mk.XII cannon**
+        - **HQ17 SAM**
     - The following guns have had their caliber and type tags added:
         - **30M791**
         - **M811**

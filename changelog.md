@@ -8,7 +8,7 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.10.03 - UNRELEASED
+## 1.10.03 - 16-12-2024
 
 ### Vehicles:
 
@@ -318,6 +318,19 @@ All dates are listed in DD-MM-YYYY format.
         - **EuroJet** renamed to **EuroJet Turbo**.
         - **ZF** renamed to **ZF Friedrichshafen**.
         - **AL-31F series 3** renamed to **AL-31F3**.
+
+### Sensors:
+
+- #### Additions:
+
+    - Update "Storm Warning" additions:
+        - **RBE2 AESA**
+    - The **RBE2-AA** radar has had its type tag added.
+
+- #### Changes:
+
+    - Update "Storm Warning" changes:
+        - **RBE2 AESA** renamed to **RBE2-AA**.
 
 ### Loading screens:
 

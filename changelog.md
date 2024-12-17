@@ -8,7 +8,7 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.10.03 - 16-12-2024
+## 1.10.03 - 17-12-2024
 
 ### Vehicles:
 
@@ -126,7 +126,7 @@ All dates are listed in DD-MM-YYYY format.
         - **T-26-1 (200th Div.)** (China) renamed to **T-26 (1933) (Dì 200 Shī)**. The long name has been changed to **T-26 obr. 1933 g. (Dì 200 Shī)**. This is counted as a change for Storm Warning because the Chinese **T-26**s got a new model in this update.
         - **Kfir C.10** renamed to **Kfir Block 60**.
         - **M.B.151C.1** renamed to **M.B.151-C1**. The long name has been changed to **Société des Avions Marcel Bloch | M.B.151-C1**.
-        - **T-80UD/BE** renamed to **T-80UD**. The long name has been changed to **Ob"yekt 478BE | T-80UD Byeryeza**.
+        - **T-80UD/BE** renamed to **T-80UD**. The long name has been changed to **Ob'êkt 478BYe | T-80UD Byeryeza**.
         - **IJN Kirishima** renamed to **Kirishima**. The long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kirishima (1942)**.
     - British bluewater fleet rework:
         - **HMS Abdiel (M39)** renamed to **HMS Abdiel (M 39)**. The long name has been changed to **J. Samuel White & Co. / Palmers Shipyard | Abdiel-class | HMS Abdiel (M 39) (1942)**. Its long distance tag has been changed to **Minelayer**.

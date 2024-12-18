@@ -8,6 +8,15 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.11.00 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - **A-200** renamed to **A-200A**.
+    - **A-200A** renamed to **A-200A (1995)**.
+
 ## 1.10.03 - 17-12-2024
 
 ### Vehicles:

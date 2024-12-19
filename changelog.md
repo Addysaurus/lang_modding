@@ -16,6 +16,12 @@ All dates are listed in DD-MM-YYYY format.
 
     - **A-200** renamed to **A-200A**.
     - **A-200A** renamed to **A-200A (1995)**.
+    - **T-26 (1933)** (China) renamed to **T-26 (1937)**. Thanks to Gszabi99 for informing me of this.
+    - **T-26 (1933) (Dì 200 Shī)** (China) renamed to **T-26 (1937) (Dì 200 Shī)**. Thanks to Gszabi99 for informing me of this.
+
+### HUDs / MFDs:
+
+- A new file has been added for HUD and MFD texts when in the cockpit. This does not change texts in the MFDs and HUD to the exact names of the weapons. Rather, it changes the HUD and MFD texts to what would be shown in those planes' HUDs and MFDs in real life, with proper transliteration (e.g. "27Р" becomes "27R" because Gaijin did not transliterate this.)
 
 ## 1.10.03 - 17-12-2024
 

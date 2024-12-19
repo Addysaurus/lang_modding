@@ -21,7 +21,7 @@ All dates are listed in DD-MM-YYYY format.
 
 ### HUDs / MFDs:
 
-- A new file has been added for HUD and MFD texts when in the cockpit. This does not change texts in the MFDs and HUD to the exact names of the weapons. Rather, it changes the HUD and MFD texts to what would be shown in those planes' HUDs and MFDs in real life, with proper transliteration (e.g. "27Р" becomes "27R" because Gaijin did not transliterate this.)
+- A new file has been added for HUD and MFD texts when in the cockpit. This does not change texts in the MFDs and HUD to the exact names of the weapons. Rather, it changes the HUD and MFD texts to what would be shown in those planes' HUDs and MFDs in real life. This is done in its original language because the game's HUDs are all in their original languages.
 
 ## 1.10.03 - 17-12-2024
 

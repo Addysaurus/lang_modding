@@ -18,13 +18,13 @@ All dates are listed in DD-MM-YYYY format.
     - **A-200A** renamed to **A-200A (1995)**.
     - **T-26 (1933)** (China) renamed to **T-26 (1937)**. Thanks to Gszabi99 for informing me of this.
     - **T-26 (1933) (Dì 200 Shī)** (China) renamed to **T-26 (1937) (Dì 200 Shī)**. Thanks to Gszabi99 for informing me of this.
-    - **Rafale C (F3R)** renamed to **Rafale C (F4.1)**.
+    - **Rafale C (F3R)** renamed to **Rafale C (F4.1)**. This was done because with the new addition of the 2 extra missile pylons for the Rafale, it sufficiently resembles the F4.1 standard. Rafales have been able to carry 8 MICAs in testing since 2009, images exist from at least 2004 of French ones carrying 8 MICAs, and Indian F3R Rafales carry 8 MICAs operationally. That, combined with the Scorpion HMCS present on the ingame Rafale, makes it sufficiently resemble an F4.1 standard Rafale, albeit a neutered one.
 
 ### Weaponry:
 
 - #### Changes:
 
-    - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server. The modification has been corrected.
+    - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.
 
 ### HUDs / MFDs:
 

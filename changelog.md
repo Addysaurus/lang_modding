@@ -18,6 +18,7 @@ All dates are listed in DD-MM-YYYY format.
     - **A-200A** renamed to **A-200A (1995)**.
     - **T-26 (1933)** (China) renamed to **T-26 (1937)**. Thanks to Gszabi99 for informing me of this.
     - **T-26 (1933) (Dì 200 Shī)** (China) renamed to **T-26 (1937) (Dì 200 Shī)**. Thanks to Gszabi99 for informing me of this.
+    - **Rafale C (F3R)** renamed to **Rafale C (F4.1)**.
 
 ### Weaponry:
 

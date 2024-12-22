@@ -181,10 +181,10 @@ modification/swd_j29_180mm_m49;m/49
 modification/swd_j29_180mm_m49/desc;Allows installation of m/49 unguided rockets.
 modification/swd_aj37_120kg_m71;m/71
 modification/swd_aj37_120kg_m71/desc;Allows installation of 120 kg bombs.
-modification/swd_rb75;Rb 75
-modification/rswd_rb75/desc;Allows installation of Rb 75 guided missiles.
-modification/swd_rb75t;Rb 75T
-modification/swd_rb75t/desc;Allows the installation of Rb 75T guided missiles.
+modification/swd_rb75;rb 75
+modification/rswd_rb75/desc;Allows installation of robot 75 guided missiles.
+modification/swd_rb75t;rb 75T
+modification/swd_rb75t/desc;Allows the installation of robot 75T guided missiles.
 modification/swe_minb_m37a/desc;Allows installation of 50 kg bombs.
 modification/swe_minb_m37a;m/37a
 modification/swe_minb_m61/desc;Allows installation of 120 kg bombs.
@@ -1283,9 +1283,9 @@ modification/magach_protection_improvement/desc;ERA installed
 modification/conqeror_armor_improvement;Additional Ballistic Protection Package
 modification/conqeror_armor_improvement/desc;Additional Ballistic Protection armor pack
 modification/lvrbv_Rbs_70B_upgrade;Rb 70B
-modification/lvrbv_Rbs_70B_upgrade/desc;Added Rb 70B surface-to-air missile
-modification/pvrbv_TOW_2_upgrade;Rb 55C
-modification/pvrbv_TOW_2_upgrade/desc;Added Rb 55C anti-tank guided missile
+modification/lvrbv_Rbs_70B_upgrade/desc;Added Rb 70B surface-to-air missile.
+modification/pvrbv_TOW_2_upgrade;rb 55C
+modification/pvrbv_TOW_2_upgrade/desc;Added robot 55C anti-tank guided missile.
 modification/begleitpanzer_57_improvement_TOW;BGM-71C
 modification/begleitpanzer_57_improvement_TOW/desc;Allows installation of BGM-71C ITOW wire-guided anti-tank guided missiles.
 modification/9m120_improvement;9M120
@@ -1457,8 +1457,8 @@ modification/us_2_75_in_ffar;FFAR Mighty Mouse
 modification/us_2_75_in_ffar/desc;Allows installation of FFAR Mighty Mouse unguided rockets.
 modification/us_f8u_ffar;FFAR Mighty Mouse
 modification/us_f8u_ffar/desc;Allows installation of FFAR Mighty Mouse unguided rockets.
-modification/rb_05a;Rb 05A
-modification/rb_05a/desc;Allows installation of Rb 05A air-to-ground missiles.
+modification/rb_05a;rb 05A
+modification/rb_05a/desc;Allows installation of robot 05A air-to-ground missiles.
 modification/yak_38_x23m;Kh-23M
 modification/yak_38_x23m/desc;Allows installation of Kh-23M guided missiles.
 modification/su_17_x25;Kh-25
@@ -2111,8 +2111,8 @@ modification/us_hydra_70/desc;Allows installation of Hydra-70 unguided rockets.
 modification/us_hydra_70;Hydra 70
 modification/sa_ss11/desc;Allows installation of SS.11 missiles.
 modification/sa_ss11;SS.11
-modification/rb_52/desc;Allows installation of Rb 52 anti-tank guided missile.
-modification/rb_52;Rb 52
+modification/rb_52/desc;Allows installation of robot 52 anti-tank guided missile.
+modification/rb_52;rb 52
 modification/br_skyfire_70/desc;Allows the installation of Skyfire-70 unguided rockets.
 modification/br_skyfire_70;Skyfire-70
 40mm_qf_mkxv_he/name;40 mm HE
@@ -2165,16 +2165,16 @@ modification/swe_m57b;m/57
 modification/swe_m57b/desc;Allows installation of m/57 unguided rockets.
 modification/swe_m56d;m/56d
 modification/swe_m56d/desc;Allows installation of m/56d unguided rockets.
-modification/swe_rb24/desc;Allows installation of Rb 24 air-to-air missiles.
-modification/swe_rb24;Rb 24
-modification/swe_rb24j/desc;Allows installation of Rb 24J air-to-air missiles.
-modification/swe_rb24j;Rb 24J
+modification/swe_rb24/desc;Allows installation of robot 24 air-to-air missiles.
+modification/swe_rb24;rb 24
+modification/swe_rb24j/desc;Allows installation of robot 24J air-to-air missiles.
+modification/swe_rb24j;rb 24J
 modification/swe_135mm_m70b;m/70
 modification/swe_135mm_m70b/desc;Allows installation of m/70 unguided rockets.
-modification/swe_rb71/desc;Allows installation of Rb 71 air-to-air missiles.
-modification/swe_rb71;Rb 71
-modification/swd_rb99/desc;Allows the installation of Rb 99 air-to-air missiles.
-modification/swd_rb99;Rb 99
+modification/swe_rb71/desc;Allows installation of robot 71 air-to-air missiles.
+modification/swe_rb71;rb 71
+modification/swd_rb99/desc;Allows the installation of robot 99 air-to-air missiles.
+modification/swd_rb99;rb 99
 modification/us_aim_7d/desc;Allows installation of AIM-7D air-to-air missiles.
 modification/us_aim_7d;AIM-7D
 modification/us_aim_7c/desc;Allows installation of AIM-7С air-to-air missiles.
@@ -2227,10 +2227,10 @@ modification/us_aim_9l_i/desc;Allows the installation of AIM-9L/I air-to-air mis
 modification/us_aim_9l_i;AIM-9L/I
 modification/us_aim_9m/desc;Allows installation of AIM-9M-4 air-to-air missiles.
 modification/us_aim_9m;AIM-9M-4
-modification/swd_rb74/desc;Allows installation of Rb 74 air-to-air missiles.
-modification/swd_rb74;Rb 74
-modification/swd_rb74m/desc;Allows the installation of AIM-9M-4 Sidewinder air-to-air missiles.
-modification/swd_rb74m;AIM-9M-4
+modification/swd_rb74/desc;Allows installation of robot 74 air-to-air missiles.
+modification/swd_rb74;rb 74
+modification/swd_rb74m/desc;Allows the installation of robot 74 (Renovation, Modifikation) Sidewinder air-to-air missiles.
+modification/swd_rb74m;rb 74 (REMO)
 modification/us_aim_9p/desc;Allows installation of AIM-9P-3 air-to-air missiles.
 modification/us_aim_9p;AIM-9P-3
 modification/us_aim_9p4/desc;Allows installation of AIM-9P-4 air-to-air missiles.

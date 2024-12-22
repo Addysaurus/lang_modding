@@ -26,7 +26,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Swedish weapon rework:
-        - Every single weapon listed here has had its proper tags added (mass, type, volume, caliber, etc.).
+        - Every single weapon listed here has had its proper tags added (mass, type, volume, caliber, etc.). All modifications have been adjusted accordingly.
         - Missiles:
             - **Rb 05A** renamed to **rb 05A**. The long name has been changed to **robot 05A**.
             - **Rb 24** renamed to **rb 24**. The long name has been changed to **robot 24**.

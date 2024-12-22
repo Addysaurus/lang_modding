@@ -649,8 +649,8 @@ weapons/su_s_13of_rocket;S-13OF rocket
 weapons/su_s_13of_rocket/short;S-13OF
 weapons/it_snia_bpd_50mm_type_arf8m_at_ap;ARF/8M3(AP-AT) rockets
 weapons/it_snia_bpd_50mm_type_arf8m_at_ap/short;ARF/8M3(AP-AT)
-weapons/swd_rb_05a;Rb 05A <color=#ff6f00>AGM-RG</color>
-weapons/swd_rb_05a/short;Rb 05A
+weapons/swd_rb_05a;robot 05A <color=#ff6f00>AGM-RG</color>
+weapons/swd_rb_05a/short;rb 05A
 weapons/swd_75mm_m57b;7,5 cm srak m/57B rocket
 weapons/swd_75mm_m57b/short;m/57B
 weapons/swd_75mm_frida;7,5 cm srak m/55 Frida rocket
@@ -3287,14 +3287,14 @@ weapons/fr_ss_11;AS.11 air-to-ground missile
 weapons/fr_ss_11/short;AS.11
 weapons/fr_ss_12;AS.12 air-to-ground missile
 weapons/fr_ss_12/short;AS.12
-weapons/swd_rb55c;Rb 55 C <color=#ff6f00>AGM-WG</color>
-weapons/swd_rb55c/short;Rb 55 C
-weapons/swd_rb55b;Rb 55B <color=#ff6f00>AGM-WG</color>
-weapons/swd_rb55b/short;RB 55 B
-weapons/swd_rb53;Rb 53 Bantam <color=#ff6f00>AGM-WG</color>
-weapons/swd_rb53/short;Rb 53
-weapons/swd_rb52;Rb 52 <color=#ff6f00>AGM-WG</color>
-weapons/swd_rb52/short;Rb 52
+weapons/swd_rb55c;HeliTOW | robot 55C <color=#ff6f00>AGM-WG</color>
+weapons/swd_rb55c/short;rb 55C
+weapons/swd_rb55b;HeliTOW | robot 55B <color=#ff6f00>AGM-WG</color>
+weapons/swd_rb55b/short;rb 55B
+weapons/swd_rb53;robot 53 Bantam <color=#ff6f00>AGM-WG</color>
+weapons/swd_rb53/short;rb 53
+weapons/swd_rb52;robot 52A <color=#ff6f00>AGM-WG</color>
+weapons/swd_rb52/short;rb 52A
 weapons/ro_ba_100kg_bomb_45;<color=@userlogColoredText>114 kg</color> BA-100 <color=#ff6f00>BMB</color>
 weapons/ro_ba_100kg_bomb_45/short;BA-100
 weapons/ro_ba_250kg_bomb_45;<color=@userlogColoredText>250 kg</color> BA-250 <color=#ff6f00>BMB</color>
@@ -3488,14 +3488,14 @@ weapons/uk_skyflash_aim_7_dogfight_tornado_default;Skyflash <color=#ff6f00>AAM-S
 weapons/uk_skyflash_aim_7_dogfight_tornado_default/short;Skyflash
 weapons/uk_skyflash_temp;Skyflash SuperTEMP <color=#ff6f00>AAM-SARH</color>
 weapons/uk_skyflash_temp/short;Skyflash SuperTEMP
-weapons/swd_rb71;Rb 71 <color=#ff6f00>AAM-SARH</color>
-weapons/swd_rb71/short;Rb 71
-weapons/swd_rb71_default;Rb 71 <color=#ff6f00>AAM-SARH</color>
-weapons/swd_rb71_default/short;Rb 71
-weapons/swd_rb99;Rb 99 <color=#ff6f00>AAM-ARH</color>
-weapons/swd_rb99/short;Rb 99
-weapons/swd_rb99_default;Rb 99 <color=#ff6f00>AAM-ARH</color>
-weapons/swd_rb99_default/short;Rb 99
+weapons/swd_rb71;robot 71 <color=#ff6f00>AAM-SARH</color>
+weapons/swd_rb71/short;rb 71
+weapons/swd_rb71_default;robot 71 <color=#ff6f00>AAM-SARH</color>
+weapons/swd_rb71_default/short;rb 71
+weapons/swd_rb99;robot 99 <color=#ff6f00>AAM-ARH</color>
+weapons/swd_rb99/short;rb 99
+weapons/swd_rb99_default;robot 99 <color=#ff6f00>AAM-ARH</color>
+weapons/swd_rb99_default/short;rb 99
 weapons/us_aim9b_sidewinder;Guided Missile, Air to Air, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9b_sidewinder/short;AIM-9B
 weapons/us_aim9b_sidewinder_default;Guided Missile, Air to Air, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
@@ -3865,10 +3865,10 @@ weapons/cn_akd_10;AKD10 | BA7 air-to-ground missile
 weapons/cn_akd_10/short;AKD10
 weapons/cn_ba_9;AKD09 | BA9 air-to-ground missile
 weapons/cn_ba_9/short;AKD09
-weapons/swd_rb75;Rb 75 <color=#ff6f00>AGM-EO</color>
-weapons/swd_rb75/short;Rb 75
-weapons/swd_rb75t;Rb 75T <color=#ff6f00>AGM-EO</color>
-weapons/swd_rb75t/short;Rb 75T
+weapons/swd_rb75;robot 75 <color=#ff6f00>AGM-EO</color>
+weapons/swd_rb75/short;rb 75
+weapons/swd_rb75t;robot 75T <color=#ff6f00>AGM-EO</color>
+weapons/swd_rb75t/short;rb 75T
 weapons/ucav_aam;Fowler air-to-air missile
 weapons/ucav_aam/short;AAM Fowler
 weapons/ucav_agm;Parisarrow anti-tank guided missile
@@ -3885,14 +3885,14 @@ weapons/cannonAkan_m85;27 mm Akan m/85 cannon
 weapons/cannonAkan_m85/short;Akan m/85
 weapons/gunKsp_m22;8 mm Ksp m/22 machine gun
 weapons/gunKsp_m22/short;Ksp m/22
-weapons/swd_rb24;Rb 24 <color=#ff6f00>AAM-IR</color>
-weapons/swd_rb24/short;Rb 24
-weapons/swd_rb24_default;Rb 24 <color=#ff6f00>AAM-IR</color>
-weapons/swd_rb24_default/short;Rb 24
-weapons/swd_rb24j;Rb 24J <color=#ff6f00>AAM-IR</color>
-weapons/swd_rb24j/short;Rb 24J
-weapons/swd_rb24j_default;Rb 24J <color=#ff6f00>AAM-IR</color>
-weapons/swd_rb24j_default/short;Rb 24J
+weapons/swd_rb24;robot 24 <color=#ff6f00>AAM-IR</color>
+weapons/swd_rb24/short;rb 24
+weapons/swd_rb24_default;robot 24 <color=#ff6f00>AAM-IR</color>
+weapons/swd_rb24_default/short;rb 24
+weapons/swd_rb24j;robot 24J <color=#ff6f00>AAM-IR</color>
+weapons/swd_rb24j/short;rb 24J
+weapons/swd_rb24j_default;robot 24J <color=#ff6f00>AAM-IR</color>
+weapons/swd_rb24j_default/short;rb 24J
 weapons/swd_120kg_sb_m71;120 kg m/71 bomb
 weapons/swd_120kg_sb_m71/short;m/71
 weapons/swd_120kg_sb_m71_retarded;120 kg m/71 bomb

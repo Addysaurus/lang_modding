@@ -25,6 +25,13 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - Swedish weapon rework:
+        - Every single weapon listed here has had its proper tags added (mass, type, volume, caliber, etc.).
+        - Missiles:
+            - **Rb 74** renamed to **rb 74**. The long name has been changed to **robot 74**.
+            - **AIM-9M-4** ("RB 74(M)") renamed to **rb 74 (REMO)**. The long name has been changed to **robot 74 (Renovation, Modifikation)**.
+        - Fuel tanks:
+            - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.
 
 ### HUDs / MFDs:

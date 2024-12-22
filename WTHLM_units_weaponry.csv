@@ -813,8 +813,8 @@ weapons/sw_1100_gal_fuse_saab_jas39_left_wing_puma;Drop tank (1100 L)
 weapons/sw_1100_gal_fuse_saab_jas39_left_wing_puma/short;Drop tank
 weapons/sw_1100_gal_fuse_saab_jas39_right_wing_puma;Drop tank (1100 L)
 weapons/sw_1100_gal_fuse_saab_jas39_right_wing_puma/short;Drop tank
-weapons/sw_1250l_late_saab_ja37d;Drop tank (1250 L)
-weapons/sw_1250l_late_saab_ja37d/short;Drop tank
+weapons/sw_1250l_late_saab_ja37d;<color=@userlogColoredText>1250 L</color> X-tank <color=#ff6f00>DPTK</color>
+weapons/sw_1250l_late_saab_ja37d/short;X-tank
 weapons/gr_1500l_tornado_assta1_1;Drop tank (1500 L)
 weapons/gr_1500l_tornado_assta1_1/short;Drop tank
 weapons/cn_800l_fyx800_drop_tank_1;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
@@ -3678,18 +3678,18 @@ weapons/ir_sedjil;AIM-23C Sajīl <color=#ff6f00>AAM-SARH</color>
 weapons/ir_sedjil/short;AIM-23C
 weapons/ir_fakour_90;AIM-23B Fakūr-90 <color=#ff6f00>AAM-ARH</color>
 weapons/ir_fakour_90/short;AIM-23B
-weapons/swd_rb74;Rb 74 <color=#ff6f00>AAM-IR</color>
-weapons/swd_rb74/short;Rb 74
-weapons/swd_rb74_default;Rb 74 <color=#ff6f00>AAM-IR</color>
-weapons/swd_rb74_default/short;Rb 74
-weapons/swd_rb74_bol_pod;Rb 74 <color=#ff6f00>AAM-IR</color>
-weapons/swd_rb74_bol_pod/short;Rb 74
-weapons/swd_rb74m;Guided Missile, Air to Air, AIM-9M-4 Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/swd_rb74m/short;AIM-9M-4
-weapons/swd_rb74m_default;Guided Missile, Air to Air, AIM-9M-4 Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/swd_rb74m_default/short;AIM-9M-4
-weapons/swd_rb74m_bol_pod;Guided Missile, Air to Air, AIM-9M-4 Sidewinder <color=#ff6f00>AAM-IR</color>
-weapons/swd_rb74m_bol_pod/short;AIM-9M-4
+weapons/swd_rb74;robot 74 <color=#ff6f00>AAM-IR</color>
+weapons/swd_rb74/short;rb 74
+weapons/swd_rb74_default;robot 74 <color=#ff6f00>AAM-IR</color>
+weapons/swd_rb74_default/short;rb 74
+weapons/swd_rb74_bol_pod;robot 74 <color=#ff6f00>AAM-IR</color>
+weapons/swd_rb74_bol_pod/short;rb 74
+weapons/swd_rb74m;robot 74 (Renovation, Modifikation) <color=#ff6f00>AAM-IR</color>
+weapons/swd_rb74m/short;rb 74 (REMO)
+weapons/swd_rb74m_default;robot 74 (Renovation, Modifikation) <color=#ff6f00>AAM-IR</color>
+weapons/swd_rb74m_default/short;rb 74 (REMO)
+weapons/swd_rb74m_bol_pod;robot 74 (Renovation, Modifikation) <color=#ff6f00>AAM-IR</color>
+weapons/swd_rb74m_bol_pod/short;rb 74 (REMO)
 weapons/us_aim9e_sidewinder;Guided Missile, Air to Air, AIM-9E Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9e_sidewinder/short;AIM-9E
 weapons/us_aim9e_sidewinder_default;Guided Missile, Air to Air, AIM-9E Sidewinder <color=#ff6f00>AAM-IR</color>

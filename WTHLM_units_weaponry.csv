@@ -4070,8 +4070,8 @@ weapons/81mm_Oerlikon_Typ_3Z_8Dla_Raketenautomat_user_cannon;81 mm Oerlikon Typ 
 81mm_pl03;Pl-3
 weapons/81mm_pl03/short;Pl-3
 81mm_ssk032;SSK 032
-weapons/105mm_Rbs_70_launcher_user_cannon;Rbs 70 SAM
-weapons/105mm_Rbs_70_ASRAD_launcher_user_cannon;Rbs 70 SAM
+weapons/105mm_Rbs_70_launcher_user_cannon;robotsystem 70 <color=#ff6f00>LCH</color>
+weapons/105mm_Rbs_70_ASRAD_launcher_user_cannon;robotsystem 70 <color=#ff6f00>LCH</color>
 105mm_bolide;BOLIDE
 weapons/72mm_HN_6_launcher_user_cannon;HN6
 72mm_hn_6;HN6
@@ -4087,20 +4087,23 @@ weapons/20mm_Polsten_user_cannon;20 mm Polsten cannon
 weapons/105mm_XC8_L50_user_cannon;105 mm L/50 cannon
 105mm_m1061;M1061
 weapons/152mm_hj_9_launcher_user_cannon;AFT09 anti-tank missile system
-weapons/150mm_Rbs_56_BILL_launcher_user_cannon;Rbs 56 ATGM
-weapons/150mm_Rbs_56_BILL_Pbv_launcher_user_cannon;Rbs 56 ATGM
-150mm_bill_2;Rb 56 B
-150mm_bill;Rb 56
-105mm_rb_70;Rb 70 Mk. 1
-105mm_rb_70_2;Rb 70 Mk. 2
-weapons/127mm_Rbs_55_tow_UDES_launcher_user_cannon;Rbs 55 ATGM
-weapons/127mm_Rbs_55_tow_launcher_user_cannon;Rbs 55 ATGM
-127mm_rb_55;Rb 55 A
-152mm_rb_55_c;Rb 55 C
-127mm_rb_55_b;Rb 55 B
-weapons/127mm_Rbs_55_tow_rocket_launcher;Rbs 55 ATGM
-weapons/127mm_Rbs_55_tow_rocket_launcher/short;Rbs 55
-rbs_55;Rb 55 A
+weapons/150mm_Rbs_56_BILL_launcher_user_cannon;robotsystem 56 <color=#ff6f00>LCH</color>
+weapons/150mm_Rbs_56_BILL_Pbv_launcher_user_cannon;robotsystem 56 <color=#ff6f00>LCH</color>
+150mm_bill_2;robot 56B BILL II
+weapons/150mm_bill_2/short;rb 56B
+150mm_bill;robot 56A BILL I
+105mm_rb_70;rb 70 Mk I
+weapons/105mm_rb_70/short;robot 70 Mk I <color=#ff6f00>SAM-LG</color>
+105mm_rb_70_2;rb 70 Mk II
+weapons/105mm_rb_70_2/short;robot 70 Mk II <color=#ff6f00>SAM-LG</color>
+weapons/127mm_Rbs_55_tow_UDES_launcher_user_cannon;robotsystem 55 <color=#ff6f00>LCH</color>
+weapons/127mm_Rbs_55_tow_launcher_user_cannon;robotsystem 55 <color=#ff6f00>LCH</color>
+127mm_rb_55;robot 55A
+152mm_rb_55_c;robot 55C
+127mm_rb_55_b;robot 55B
+weapons/127mm_Rbs_55_tow_rocket_launcher;robotsystem 55 <color=#ff6f00>LCH</color>
+weapons/127mm_Rbs_55_tow_rocket_launcher/short;rbs 55
+rbs_55;robotsystem 55 <color=#ff6f00>LCH</color>
 weapons/25mm_GAU_12U_Equalizer_user_cannon;<color=@userlogColoredText>25 mm</color> Cannon, 25mm, GAU-12/U Equalizer <color=#ff6f00>RCNN</color>
 weapons/25mm_GAU_12U_user_cannon;<color=@userlogColoredText>25 mm</color> Cannon, 25mm, GAU-12/U Equalizer <color=#ff6f00>RCNN</color>
 25mm_pgu_25_u;PGU-25/U

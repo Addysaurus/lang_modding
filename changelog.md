@@ -35,14 +35,22 @@ All dates are listed in DD-MM-YYYY format.
             - **Rb 24J** renamed to **rb 24J**. The long name has been changed to **robot 24J**.
             - **Rb 52** renamed to **rb 52A**. The long name has been changed to **robot 52A**.
             - **Rb 53** renamed to **rb 53**. The long name has been changed to **robot 53 Bantam**.
+            - **Rb 55 A** renamed to **robot 55A**. This missile is not used ingame but is in the files.
             - **Rb 55 B** renamed to **rb 55B**. The long name has been changed to **HeliTOW | robot 55B**.
+            - **Rb 55 B** (the ATGM) renamed to **robot 55B**.
             - **Rb 55 C** renamed to **rb 55C**. The long name has been changed to **HeliTOW | robot 55C**.
+            - **Rb 55 C** (the ATGM) renamed to **robot 55C**.
+            - **Rb 56** renamed to **robot 56A BILL I**. This missile is not used ingame but is in the files.
+            - **Rb 56 B** renamed to **rb 56B**. The long name has been changed to **robot 56B BILL II**.
             - **Rb 71** renamed to **rb 71**. The long name has been changed to **robot 71**.
             - **Rb 74** renamed to **rb 74**. The long name has been changed to **robot 74**.
             - **AIM-9M-4** ("RB 74(M)") renamed to **rb 74 (REMO)**. The long name has been changed to **robot 74 (Renovation, Modifikation)**.
             - **Rb 75** renamed to **rb 75**. The long name has been changed to **robot 75**.
             - **Rb 75T** renamed to **rb 75T**. The long name has been changed to **robot 75T**.
             - **Rb 99** renamed to **rb 99**. The long name has been changed to **robot 99**.
+            - **Rbs 55** renamed to **rbs 55**. The long name has been changed to **robotsystem 55**.
+            - **Rbs 56 ATGM** renamed to **robotsystem 56**.
+            - **Rbs 70 SAM** renamed to **robotsystem 70**.
         - Fuel tanks:
             - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.

@@ -22,7 +22,28 @@ All dates are listed in DD-MM-YYYY format.
     - **Su-33** renamed to **Su-33 (2016)**. This was done because it has CCRP meaning it has the SVP-24-33 navigation and strike package which was only introduced in 2016.
     - **strv 81 (C III) (Rb 52)** renamed to **strv 81 (C III) (rb 52A)**. The long name has been changed to **stridsvagn 81 (C III) (robot 52A)**.
     - **strv 81 (C III) (Rb 52)** (UK) renamed to **strv 81 (C III) (rb 52A)**. The long name has been changed to **stridsvagn 81 (C III) (robot 52A)**.
-
+    - Finnish ground capitalization corrections (all folders have been adjusted accordingly):
+        - **9 Psv T 26 E** renamed to **9 psv T 26 E**.
+        - **10 It.psv./Anti** renamed to **10 it.psv./Anti**. Its long distance tag has been changed to **SPAAG**.
+        - **15 Ryn.tyk.psv./BT42** renamed to **15 ryn.tyk.psv./BT42**.
+        - **25 Psv PZ IV** renamed to **25 psv PZ IV**.
+        - **26 Psv T 34 B** renamed to **26 psv T 34 B**.
+        = **31 Psv T 34/85** renamed to **31 psv T 34/85**.
+        - **44 Psv KW 1 A** renamed to **44 psv KW 1 A**. The long name has been changed to **Ps. 271 | 44 tonnin panssarivaunu KW 1 A "Klimi"**.
+        - **44 Psv KW 1 B** renamed to **44 psv KW 1 B**.
+        - **ItO 90M ohjusvaunu** renamed to **ito 90M ohjusvaunu**. The long name has been changed to **Ps. 477 | ilmatorjuntaohjus 90M ohjusvaunu XA-181**. Its long distance tag has been changed to **SPAAM**.
+        - **ItO 90M ohjusvaunu** (France) renamed to **ito 90M ohjusvaunu**. The long name has been changed to **Ps. 477 | ilmatorjuntaohjus 90M ohjusvaunu XA-181**. Its long distance tag has been changed to **SPAAM**.
+        - **ItPsv SU-57-2** renamed to **itpsv SU-57-2**. The long name has been changed to **Ps. 461 | ilmatorjuntapanssarivaunu SU-57-2**. Its long distance tag has been changed to **SPAAG**.
+        - **ItPsv 90** renamed to **itpsv 90**. The long name has been changed to **Ps. 473 | ilmatorjuntapanssarivaunu 90**. Its long distance tag has been changed to **SPAAG**.
+        - **Psv Comet** renamed to **psv Comet**. The long name has been changed to **Ps. 252 | panssarivaunu Comet**.
+        - **RPSv BMP-2MD** renamed to **rpsv BMP-2MD**. The long name has been changed to **Ps. 153 | rynnäkköpanssarivaunu BMP-2MD**.
+        - **RPsv CV9030** renamed to **rpsv CV9030**. The long name has been changed to **Ps. 171 | rynnäkköpanssarivaunu CV9030**. Its long distance tag has been changed to **IFV**.
+        - **TstPsv Charioteer** renamed to **tstpsv Charioteer**. The long name has been changed to **Ps. 251 | taistelupanssarivaunu Charioteer**.
+        - **TstPsv T 54** renamed to **tstpsv T 54**. The long name has been changed to **Ps. 261 | taistelupanssarivaunu T 54**.
+        - **TstPsv T 55M** renamed to **tstpsv T 55M**. The long name has been changed to **Ps. 262 | taistelupanssarivaunu T 55M**.
+        - **TstPsv T 72M1** renamed to **tstpsv T 72M1**. The long name has been changed to **Ps. 264 | taistelupanssarivaunu T 72M1**.
+        - **TstPsv Leopard 2A4** renamed to **tstpsv Leopard 2A4**. The long name has been changed to **Ps. 273 | taistelupanssarivaunu Leopard 2A4**.
+        - **TstPsv Leopard 2A6** renamed to **tstpsv Leopard 2A6**. The long name has been changed to **Ps. 274 | taistelupanssarivaunu Leopard 2A6**.
 ### Weaponry:
 
 - #### Changes:

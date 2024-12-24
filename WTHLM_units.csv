@@ -1512,9 +1512,9 @@ shop/group/so_4050_vautour_group;Vautour II A / B
 shop/group/mirage_3_group;Mirage III C / E
 shop/group/sw_pvkv_ikv_group;pvkv m/43 / ikv 103
 shop/group/sw_udes_pbv_group;UDES 33 / pbv 302
-shop/group/sw_t_34_pz_4_group;26 Psv T 34 / 25 Psv PZ IV
-shop/group/sw_pt_76_comet_group;▄ PT-76 / Psv Comet
-shop/group/sw_cv_90_ifv_group;RPsv CV9030 / strf 9040B
+shop/group/sw_t_34_pz_4_group;26 psv T 34 / 25 psv PZ IV
+shop/group/sw_pt_76_comet_group;▄ PT-76 / psv Comet
+shop/group/sw_cv_90_ifv_group;rpsv CV9030 / strf 9040B
 shop/group/sw_strv_101_103a_group;strv 101 / 103A
 shop/group/sw_strv_104_103c_group;strv 104 / 103C
 shop/group/sw_strv_122_group;strv 122A / B (PLSS)
@@ -5331,9 +5331,9 @@ germ_kv_2_754r_shop;▀ s.Pz.Kpfw. 754 (r)
 germ_kv_2_754r_0;▀ schwerer Panzerkampfwagen 754 (r) | 15cm KW
 germ_kv_2_754r_1;▀ s.Pz.Kpfw. 754 (r)
 germ_kv_2_754r_2;▀ Heavy tank
-germ_kv_1B_finland_shop;▀ 44 Psv KW 1 B
+germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
 germ_kv_1B_finland_0;"▀ Ps. 272 | 44 tonnin panssarivaunu KW 1 B ""Klimi"""
-germ_kv_1B_finland_1;▀ 44 Psv KW 1 B
+germ_kv_1B_finland_1;▀ 44 psv KW 1 B
 germ_kv_1B_finland_2;▀ Heavy tank
 us_m4a2_1944_germ_shop;▀ Pz.Kpfw. 748 (a) C
 us_m4a2_1944_germ_0;▀ Panzerkampfwagen 748 (a) Ausf. C | M 4 (k.)
@@ -5907,9 +5907,9 @@ germ_flarakpz_1_shop;FlaRakPz 1 Roland
 germ_flarakpz_1_0;Flugabwehrraketenpanzer 1 Roland
 germ_flarakpz_1_1;FlaRakPz 1 Roland
 germ_flarakpz_1_2;SPAA
-fr_crotale_ng_shop;☨ ItO 90M ohjusvaunu
-fr_crotale_ng_0;☨ Ps. 477 | Ilmatorjuntaohjus 90M ohjusvaunu XA-181
-fr_crotale_ng_1;☨ ItO 90M ohjusvaunu
+fr_crotale_ng_shop;☨ ito 90M ohjusvaunu
+fr_crotale_ng_0;☨ Ps. 477 | ilmatorjuntaohjus 90M ohjusvaunu XA-181
+fr_crotale_ng_1;☨ ito 90M ohjusvaunu
 fr_crotale_ng_2;SPAA
 fr_amx_30_roland_shop;AMX 30R
 fr_amx_30_roland_0;Engin principal de antiaérien AMX 30R
@@ -9522,10 +9522,10 @@ ussr_bmd_4m_2;IFV
 ussr_bmp_3_shop;BMP-3
 ussr_bmp_3_0;"Ob""yekt 688A | BMP-3 obr. 2017 g."
 ussr_bmp_3_1;BMP-3
-ussr_bmp_3_2;Light tank\
-sw_bmp_2md_shop;RPSv BMP-2MD
-sw_bmp_2md_0;Ps. 153 | Rynnäkköpanssarivaunu BMP-2MD
-sw_bmp_2md_1;RPsv BMP-2MD
+ussr_bmp_3_2;Light tank
+sw_bmp_2md_shop;rpsv BMP-2MD
+sw_bmp_2md_0;Ps. 153 | rynnäkköpanssarivaunu BMP-2MD
+sw_bmp_2md_1;rpsv BMP-2MD
 sw_bmp_2md_2;IFV
 ussr_2s38_shop;2S38
 ussr_2s38_0;"2S38 ""Dyerivacziâ-PVO"""
@@ -11790,13 +11790,13 @@ germ_begleitpanzer_57_shop;Begleitpanzer 57
 germ_begleitpanzer_57_0;Begleitpanzer 57
 germ_begleitpanzer_57_1;Begleitpanzer 57
 germ_begleitpanzer_57_2;Light tank
-sw_bt_42_shop;15 Ryn.tyk.psv./BT42
+sw_bt_42_shop;15 ryn.tyk.psv./BT42
 sw_bt_42_0;Ps. 511 | 15 tonnin rynnäkkötykkipanssarivaunu mallia BT42
-sw_bt_42_1;15 Ryn.tyk.psv./BT42
+sw_bt_42_1;15 ryn.tyk.psv./BT42
 sw_bt_42_2;SPG
-sw_vickers_mk_e_45_shop;9 Psv T 26 E
+sw_vickers_mk_e_45_shop;9 psv T 26 E
 sw_vickers_mk_e_45_0;Ps. 161 | 9 tonnin panssarivaunu T 26 Englantilainen
-sw_vickers_mk_e_45_1;9 Psv T 26 E
+sw_vickers_mk_e_45_1;9 psv T 26 E
 sw_vickers_mk_e_45_2;Light tank
 sw_vickers_mk_e_37_shop;Vickers Mk. E (37 psv.k/36)
 sw_vickers_mk_e_37_0;Vickers Mk. E, Type B (37 psv.k/36)
@@ -11874,10 +11874,10 @@ sw_cv_9035_dk_shop;IKK 9035
 sw_cv_9035_dk_0;infanterikampkøretøj 9035 | IKK 9035
 sw_cv_9035_dk_1;IKK 9035
 sw_cv_9035_dk_2;Light tank
-sw_cv_9030_fin_shop;RPsv CV9030
-sw_cv_9030_fin_0;Ps. 171 | Rynnäkköpanssarivaunu CV9030
-sw_cv_9030_fin_1;RPsv CV9030
-sw_cv_9030_fin_2;Light tank
+sw_cv_9030_fin_shop;rpsv CV9030
+sw_cv_9030_fin_0;Ps. 171 | rynnäkköpanssarivaunu CV9030
+sw_cv_9030_fin_1;rpsv CV9030
+sw_cv_9030_fin_2;IFV
 sw_cv_90_mk4_shop;CV90 MkIV (E30)
 sw_cv_90_mk4_0;BAE Systems Hägglunds | BAE Combat Vehicle 90 MkIV (E30)
 sw_cv_90_mk4_1;CV90 MkIV
@@ -11898,65 +11898,65 @@ sw_strv_122_shop;strv 122A
 sw_strv_122_0;stridsvagn 122A
 sw_strv_122_1;strv 122A
 sw_strv_122_2;MBT
-sw_a_34_comet_shop;Psv Comet
-sw_a_34_comet_0;Ps. 252 | Panssarivaunu Comet
-sw_a_34_comet_1;Psv Comet
+sw_a_34_comet_shop;psv Comet
+sw_a_34_comet_0;Ps. 252 | panssarivaunu Comet
+sw_a_34_comet_1;psv Comet
 sw_a_34_comet_2;Medium tank
 sw_charioteer_mk_7_shop;TstPsv Charioteer
-sw_charioteer_mk_7_0;Ps. 251 | Taistelupanssarivaunu Charioteer
+sw_charioteer_mk_7_0;Ps. 251 | taistelupanssarivaunu Charioteer
 sw_charioteer_mk_7_1;TstPsv Charioteer
 sw_charioteer_mk_7_2;Medium tank
-sw_pzkpfw_IV_ausf_J_shop;25 Psv PZ IV
+sw_pzkpfw_IV_ausf_J_shop;25 psv PZ IV
 sw_pzkpfw_IV_ausf_J_0;"Ps. 221 | 25 tonnin panssarivaunu PZ IV ""Nelonen"""
-sw_pzkpfw_IV_ausf_J_1;25 Psv PZ IV
+sw_pzkpfw_IV_ausf_J_1;25 psv PZ IV
 sw_pzkpfw_IV_ausf_J_2;Medium tank
 sw_t_28_shop;28 psv T 28 (1938)
 sw_t_28_0;Ps. 241 | 28 tonnin panssarivaunu T 28 (1938)
 sw_t_28_1;28 psv T 28
 sw_t_28_2;Medium tank
-sw_t_34_1941_shop;26 Psv T 34 B
+sw_t_34_1941_shop;26 psv T 34 B
 sw_t_34_1941_0;"Ps. 231 | 26 tonnin panssarivaunu T 34 B ""Sotka"""
-sw_t_34_1941_1;26 Psv T 34 B
+sw_t_34_1941_1;26 psv T 34 B
 sw_t_34_1941_2;Medium tank
-sw_kv_1_1942_fin_shop;44 Psv KW 1 A
-sw_kv_1_1942_fin_0;"Ps. 271 | 44-tonnin panssarivaunu KW 1 A ""Klimi"""
-sw_kv_1_1942_fin_1;44 Psv KW 1 A
+sw_kv_1_1942_fin_shop;44 psv KW 1 A
+sw_kv_1_1942_fin_0;"Ps. 271 | 44 tonnin panssarivaunu KW 1 A ""Klimi"""
+sw_kv_1_1942_fin_1;44 psv KW 1 A
 sw_kv_1_1942_fin_2;Heavy tank
-sw_t_34_85_zis_53_shop;31 Psv T 34/85
+sw_t_34_85_zis_53_shop;31 psv T 34/85
 sw_t_34_85_zis_53_0;"Ps. 245 | 31 tonnin panssarivaunu T 34/85 | ""Pitkäputkinen Sotka"""
-sw_t_34_85_zis_53_1;31 Psv T 34/85
+sw_t_34_85_zis_53_1;31 psv T 34/85
 sw_t_34_85_zis_53_2;Medium tank
-sw_leopard_2a6nl_shop;TstPsv Leopard 2A6
-sw_leopard_2a6nl_0;Krauss-Maffei Wegmann | Ps. 274 | Taistelupanssarivaunu Leopard 2A6
-sw_leopard_2a6nl_1;TstPsv Leopard 2A6
+sw_leopard_2a6nl_shop;tstpsv Leopard 2A6
+sw_leopard_2a6nl_0;Krauss-Maffei Wegmann | Ps. 274 | taistelupanssarivaunu Leopard 2A6
+sw_leopard_2a6nl_1;tstpsv Leopard 2A6
 sw_leopard_2a6nl_2;MBT
-sw_leopard_2a4_fin_shop;TstPsv Leopard 2A4
-sw_leopard_2a4_fin_0;Krauss-Maffei Wegmann | Ps. 273 | Taistelupanssarivaunu Leopard 2A4
-sw_leopard_2a4_fin_1;TstPsv Leopard 2A4
+sw_leopard_2a4_fin_shop;tstpsv Leopard 2A4
+sw_leopard_2a4_fin_0;Krauss-Maffei Wegmann | Ps. 273 | taistelupanssarivaunu Leopard 2A4
+sw_leopard_2a4_fin_1;tstpsv Leopard 2A4
 sw_leopard_2a4_fin_2;MBT
 sw_t_80u_shop;♛ T 80 U
 sw_t_80u_0;♛ T 80 U
 sw_t_80u_1;♛ T 80 U
 sw_t_80u_2;MBT
-sw_t_72m1_shop;TstPsv T 72M1
-sw_t_72m1_0;Ps. 264 | Taistelupanssarivaunu T 72M1
-sw_t_72m1_1;TstPsv T 72M1
+sw_t_72m1_shop;tstpsv T 72M1
+sw_t_72m1_0;Ps. 264 | taistelupanssarivaunu T 72M1
+sw_t_72m1_1;tstpsv T 72M1
 sw_t_72m1_2;MBT
-sw_zsu_57_2_shop;ItPsv SU-57-2
-sw_zsu_57_2_0;Ps. 461 | Ilmatorjuntapanssarivaunu SU-57-2
-sw_zsu_57_2_1;ItPsv SU-57-2
-sw_zsu_57_2_2;SPAA
-sw_itpsv_90_shop;ItPsv 90
-sw_itpsv_90_0;Ps. 473 | Ilmatorjuntapanssarivaunu 90
-sw_itpsv_90_1;ItPsv 90
-sw_itpsv_90_2;SPAA
-sw_t_54_1951_shop;TstPsv T 54
-sw_t_54_1951_0;Ps. 261 | Taistelupanssarivaunu T 54
-sw_t_54_1951_1;TstPsv T 54
+sw_zsu_57_2_shop;itpsv SU-57-2
+sw_zsu_57_2_0;Ps. 461 | ilmatorjuntapanssarivaunu SU-57-2
+sw_zsu_57_2_1;itpsv SU-57-2
+sw_zsu_57_2_2;SPAAG
+sw_itpsv_90_shop;itpsv 90
+sw_itpsv_90_0;Ps. 473 | ilmatorjuntapanssarivaunu 90
+sw_itpsv_90_1;itpsv 90
+sw_itpsv_90_2;SPAAG
+sw_t_54_1951_shop;tstpsv T 54
+sw_t_54_1951_0;Ps. 261 | taistelupanssarivaunu T 54
+sw_t_54_1951_1;tstpsv T 54
 sw_t_54_1951_2;Medium tank
-sw_t_55m_shop;TstPsv T 55M
-sw_t_55m_0;Ps. 262 | Taistelupanssarivaunu T 55M
-sw_t_55m_1;TstPsv T 55M
+sw_t_55m_shop;tstpsv T 55M
+sw_t_55m_0;Ps. 262 | taistelupanssarivaunu T 55M
+sw_t_55m_1;tstpsv T 55M
 sw_t_55m_2;Medium tank
 sw_pt_76b_shop;▄ PT-76
 sw_pt_76b_0;▄ Ps. 141 | PT-76
@@ -12030,10 +12030,10 @@ sw_pvrbv_551_shop;pvrbv 551
 sw_pvrbv_551_0;pansarvärnsrobotbandvagn 551
 sw_pvrbv_551_1;pvrbv 551
 sw_pvrbv_551_2;SPG
-sw_crotale_ng_shop;ItO 90M ohjusvaunu
-sw_crotale_ng_0;Ps. 477 | Ilmatorjuntaohjus 90M ohjusvaunu XA-181
-sw_crotale_ng_1;ItO 90M ohjusvaunu
-sw_crotale_ng_2;SPAA
+sw_crotale_ng_shop;ito 90M ohjusvaunu
+sw_crotale_ng_0;Ps. 477 | ilmatorjuntaohjus 90M ohjusvaunu XA-181
+sw_crotale_ng_1;ito 90M ohjusvaunu
+sw_crotale_ng_2;SPAAM
 sw_asrad_r_shop;♛ M113A2 (ASRAD-R)
 sw_asrad_r_0;♛ M113A2 (Advanced Short Range Air Defence System - RBS)
 sw_asrad_r_1;♛ M113 (ASRAD-R)
@@ -12050,10 +12050,10 @@ sw_ikv_72_shop;ikv 72
 sw_ikv_72_0;infanterikanonvagn 72
 sw_ikv_72_1;ikv 72
 sw_ikv_72_2;SPG
-sw_l_62_anti_II_shop;10 It.psv./Anti
+sw_l_62_anti_II_shop;10 it.psv./Anti
 sw_l_62_anti_II_0;Ps. 455 | 10 tonnin ilmatorjuntapanssarivaunu mallia Anti
-sw_l_62_anti_II_1;10 It.psv./Anti
-sw_l_62_anti_II_2;SPAA
+sw_l_62_anti_II_1;10 it.psv./Anti
+sw_l_62_anti_II_2;SPAAG
 sw_lvkv_42_shop;lvkv 42
 sw_lvkv_42_0;luftvärnskanonvagn 42
 sw_lvkv_42_1;lvkv 42

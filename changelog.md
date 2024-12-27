@@ -72,6 +72,8 @@ All dates are listed in DD-MM-YYYY format.
             - **Rbs 55** renamed to **rbs 55**. The long name has been changed to **robotsystem 55**.
             - **Rbs 56 ATGM** renamed to **robotsystem 56**.
             - **Rbs 70 SAM** renamed to **robotsystem 70**.
+        - Guns:
+            - **Akan m/55** renamed to **akan m/55**. The long name has been changed to **akan m/55**.
         - Fuel tanks:
             - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.

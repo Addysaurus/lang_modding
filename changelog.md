@@ -45,6 +45,7 @@ All dates are listed in DD-MM-YYYY format.
         - **TstPsv Leopard 2A4** renamed to **tstpsv Leopard 2A4**. The long name has been changed to **Ps. 273 | taistelupanssarivaunu Leopard 2A4**.
         - **TstPsv Leopard 2A6** renamed to **tstpsv Leopard 2A6**. The long name has been changed to **Ps. 274 | taistelupanssarivaunu Leopard 2A6**.
     - The **ASP (late) (EX 35)**'s long name has been changed to **Teledyne Continental Motors | TCM Armored Support Platform (late) (Gun, 105mm, EX 35 MOD 0)**.
+    - **T-80UD** (China / Pakistan) renamed to **T-80UD (1993)**. The long name has been changed to **Ob'êkt 478DU1 | T-80UD Byeryeza**.
 ### Weaponry:
 
 - #### Changes:

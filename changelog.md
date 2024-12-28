@@ -44,6 +44,7 @@ All dates are listed in DD-MM-YYYY format.
         - **TstPsv T 72M1** renamed to **tstpsv T 72M1**. The long name has been changed to **Ps. 264 | taistelupanssarivaunu T 72M1**.
         - **TstPsv Leopard 2A4** renamed to **tstpsv Leopard 2A4**. The long name has been changed to **Ps. 273 | taistelupanssarivaunu Leopard 2A4**.
         - **TstPsv Leopard 2A6** renamed to **tstpsv Leopard 2A6**. The long name has been changed to **Ps. 274 | taistelupanssarivaunu Leopard 2A6**.
+    - The **ASP (late) (EX 35)**'s long name has been changed to **Teledyne Continental Motors | TCM Armored Support Platform (late) (Gun, 105mm, EX 35 MOD 0)**.
 ### Weaponry:
 
 - #### Changes:

@@ -20,6 +20,7 @@ All dates are listed in DD-MM-YYYY format.
     - **T-26 (1933) (Dì 200 Shī)** (China) renamed to **T-26 (1937) (Dì 200 Shī)**. Thanks to Gszabi99 for informing me of this.
     - **Rafale C (F3R)** renamed to **Rafale C (F4.1)**. This was done because with the new addition of the 2 extra missile pylons for the Rafale, it sufficiently resembles the F4.1 standard. Rafales have been able to carry 8 MICAs in testing since 2009, images exist from at least 2004 of French ones carrying 8 MICAs, and Indian F3R Rafales carry 8 MICAs operationally. That, combined with the Scorpion HMCS present on the ingame Rafale, makes it sufficiently resemble an F4.1 standard Rafale, albeit a neutered one.
     - **Su-33** renamed to **Su-33 (2016)**. This was done because it has CCRP meaning it has the SVP-24-33 navigation and strike package which was only introduced in 2016.
+    - **Su-25TM (MAKS-2003)** renamed to **Su-25TM**.
     - **strv 81 (C III) (Rb 52)** renamed to **strv 81 (C III) (rb 52A)**. The long name has been changed to **stridsvagn 81 (C III) (robot 52A)**.
     - **strv 81 (C III) (Rb 52)** (UK) renamed to **strv 81 (C III) (rb 52A)**. The long name has been changed to **stridsvagn 81 (C III) (robot 52A)**.
     - Finnish ground capitalization corrections (all folders have been adjusted accordingly):

@@ -47,6 +47,7 @@ All dates are listed in DD-MM-YYYY format.
         - **TstPsv Leopard 2A6** renamed to **tstpsv Leopard 2A6**. The long name has been changed to **Ps. 274 | taistelupanssarivaunu Leopard 2A6**.
     - The **ASP (late) (EX 35)**'s long name has been changed to **Teledyne Continental Motors | TCM Armored Support Platform (late) (Gun, 105mm, EX 35 MOD 0)**.
     - **T-80UD** (China / Pakistan) renamed to **T-80UD (478DU1)**. The long name has been changed to **Ob'êkt 478DU1 | T-80UD Byeryeza**.
+    - **Yanšuf Ḥamuš** renamed to **ABH Demonstrator**. The long name has been changed to **Sikorsky Aircraft Corperation + Elbit Systems Armed Blackhawk Demonstrator "Yanšuf Ḥamuš"**.
 ### Weaponry:
 
 - #### Changes:
@@ -80,6 +81,9 @@ All dates are listed in DD-MM-YYYY format.
         - Fuel tanks:
             - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.
+    - The **M-10T obr. 1938/40 gg.** has had its caliber tag corrected from 130 mm to 152 mm.
+    - The **ML-20S** has had its caliber tag corrected from 130 mm to 152 mm.
+    - **Gun, 75mm, XM274** renamed to **75mm Advanced Design Mobility and Agility Gun System**.
 
 ### HUDs / MFDs:
 

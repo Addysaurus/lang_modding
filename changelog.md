@@ -94,6 +94,12 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Storm Warning" additions (things Gaijin forgot to add):
         -  **MAG** (for the **R550 Magic 2** on the **Rafale C (F4.1)**)
 
+### Engines:
+
+- #### Changes:
+
+    - Fixed a missing quotation mark after the **D12** engine that caused all other text in the file to be shown afterwards (the **VBCI VCI** had this issue).
+
 ## 1.10.03 - 17-12-2024
 
 ### Vehicles:

@@ -3875,16 +3875,49 @@ weapons/ucav_agm;Parisarrow anti-tank guided missile
 weapons/ucav_agm/short;ATGM Parisarrow
 weapons/ucav_heavy_missile;TM Smasher tactical missile
 weapons/ucav_heavy_missile/short;TM Smasher
-weapons/cannonAkan_m55;<color=@userlogColoredText>30 mm</color> akan m/55 <color=#ff6f00>ACNN</color>
+weapons/gunAkan_12_7_m39a;12.7 mm Akan m/39A machine gun
+weapons/gunAkan_12_7_m39a/short;Akan m/39A
+weapons/gunAkan_m39;13.2 mm Akan m/39 machine gun
+weapons/gunAkan_m39/short;Akan m/39
+weapons/gunAkan_m39_turret;13.2 mm Akan m/39 machine gun
+weapons/gunAkan_m39_turret/short;Akan m/39
+weapons/gunAkan_m39a;13.2 mm Akan m/39A machine gun
+weapons/gunAkan_m39a/short;Akan m/39A
+weapons/gunAkan_m40;12.7 mm Akan m/40 machine gun
+weapons/gunAkan_m40/short;Akan m/40
+weapons/cannonAkan_m41a;20 mm Akan m/41A cannon
+weapons/cannonAkan_m41a/short;Akan m/41A
+weapons/gunAkan_12_7_m45;12.7 mm Akan m/45 machine gun
+weapons/gunAkan_12_7_m45/short;Akan m/45
+weapons/cannonAkan_m45;20 mm Akan m/45 cannon
+weapons/cannonAkan_m45/short;Akan m/45
+weapons/20mm_akan_m45_B_user_cannon;20 mm Akan m/45B cannon
+weapons/cannonAkan_m47;57 mm Akan m/47 cannon
+weapons/cannonAkan_m47/short;Akan m/47
+weapons/cannonAkan_m47b;20 mm Akan m/47B cannon
+weapons/cannonAkan_m47b/short;Akan m/47B
+weapons/cannonAkan_m47c;20 mm Akan m/47C cannon
+weapons/cannonAkan_m47c/short;Akan m/47C
+weapons/20mm_akan_m47_D_user_cannon;20 mm Akan m/47D cannon
+weapons/cannonAkan_m49;20 mm Akan m/49 cannon
+weapons/cannonAkan_m49/short;Akan m/49
+weapons/cannonAkan_m55;<color=@userlogColoredText>30 mm</color> 30 mm automatkanon m/55 <color=#ff6f00>ACNN</color>
 weapons/cannonAkan_m55/short;akan m/55
-weapons/cannonAkan_m55_underwing;<color=@userlogColoredText>30 mm</color> akan m/55 <color=#ff6f00>ACNN</color>
+weapons/cannonAkan_m55_underwing;<color=@userlogColoredText>30 mm</color> 30 mm automatkanon m/55 <color=#ff6f00>ACNN</color>
 weapons/cannonAkan_m55_underwing/short;akan m/55
-weapons/cannonAkan_m75;30 mm Akan m/75 cannon
-weapons/cannonAkan_m75/short;Akan m/75
-weapons/cannonAkan_m85;27 mm Akan m/85 cannon
-weapons/cannonAkan_m85/short;Akan m/85
-weapons/gunKsp_m22;8 mm Ksp m/22 machine gun
-weapons/gunKsp_m22/short;Ksp m/22
+weapons/40mm_Kan_Strf_user_cannon;40 mm Akan m/70B cannon
+weapons/cannonAkan_m75;<color=@userlogColoredText>30 mm</color> 30 mm automatkanon m/75 <color=#ff6f00>ACNN</color>
+weapons/cannonAkan_m75/short;akan m/75
+weapons/cannonAkan_m85;<color=@userlogColoredText>27 mm</color> 27 mm automatkanon m/85 <color=#ff6f00>ACNN</color>
+weapons/cannonAkan_m85/short;akan m/85
+weapons/gunKsp_m22;<color=@userlogColoredText>8 mm</color> 8 mm flygplanskulspruta m/22 <color=#ff6f00>MG</color>
+weapons/gunKsp_m22/short;fplksp m/22
+weapons/gunKsp_m22_fv;<color=@userlogColoredText>8 mm</color> 8 mm flygplanskulspruta m/22Fv <color=#ff6f00>MG</color>
+weapons/gunKsp_m22_fv/short;fplksp m/22Fv
+weapons/gunKsp_m22_fh;<color=@userlogColoredText>8 mm</color> 8 mm flygplanskulspruta m/22Fh <color=#ff6f00>MG</color>
+weapons/gunKsp_m22_fh/short;fplksp m/22Fh
+weapons/gunKsp_m22_37r_turret;<color=@userlogColoredText>8 mm</color> 8 mm flygplanskulspruta m/22-37R <color=#ff6f00>MG</color>
+weapons/gunKsp_m22_37r_turret/short;fplksp m/22-37R
 weapons/swd_rb24;robot 24 <color=#ff6f00>AAM-IR</color>
 weapons/swd_rb24/short;rb 24
 weapons/swd_rb24_default;robot 24 <color=#ff6f00>AAM-IR</color>
@@ -3933,36 +3966,6 @@ weapons/cn_hj_8h;AKD08H | HJ8H air-to-ground missile
 weapons/cn_hj_8h/short;AKD08H
 weapons/cn_hj_8l;AKD08L | HJ8L air-to-ground missile
 weapons/cn_hj_8l/short;AKD08L
-weapons/gunAkan_12_7_m45;12.7 mm Akan m/45 machine gun
-weapons/gunAkan_12_7_m45/short;Akan m/45
-weapons/cannonAkan_m41a;20 mm Akan m/41A cannon
-weapons/cannonAkan_m41a/short;Akan m/41A
-weapons/cannonAkan_m45;20 mm Akan m/45 cannon
-weapons/cannonAkan_m45/short;Akan m/45
-weapons/cannonAkan_m49;20 mm Akan m/49 cannon
-weapons/cannonAkan_m49/short;Akan m/49
-weapons/cannonAkan_m47b;20 mm Akan m/47B cannon
-weapons/cannonAkan_m47b/short;Akan m/47B
-weapons/cannonAkan_m47c;20 mm Akan m/47C cannon
-weapons/cannonAkan_m47c/short;Akan m/47C
-weapons/cannonAkan_m47;57 mm Akan m/47 cannon
-weapons/cannonAkan_m47/short;Akan m/47
-weapons/gunAkan_m39;13.2 mm Akan m/39 machine gun
-weapons/gunAkan_m39/short;Akan m/39
-weapons/gunAkan_m39a;13.2 mm Akan m/39A machine gun
-weapons/gunAkan_m39a/short;Akan m/39A
-weapons/gunAkan_12_7_m39a;12.7 mm Akan m/39A machine gun
-weapons/gunAkan_12_7_m39a/short;Akan m/39A
-weapons/gunAkan_m39_turret;13.2 mm Akan m/39 machine gun
-weapons/gunAkan_m39_turret/short;Akan m/39
-weapons/gunAkan_m40;12.7 mm Akan m/40 machine gun
-weapons/gunAkan_m40/short;Akan m/40
-weapons/gunKsp_m22_fv;8 mm Ksp m/22 Fv machine gun
-weapons/gunKsp_m22_fv/short;Ksp m/22 Fv
-weapons/gunKsp_m22_fh;8 mm Ksp m/22 Fh machine gun
-weapons/gunKsp_m22_fh/short;Ksp m/22 Fh
-weapons/gunKsp_m22_37r_turret;8 mm Ksp m/22-37 R machine gun
-weapons/gunKsp_m22_37r_turret/short;Ksp m/22-37 R
 weapons/90mm_D915_user_cannon;90 mm D915 cannon
 weapons/90mm_DEFA_D921_user_cannon;90 mm DEFA F1 cannon
 weapons/90mm_90_F2_user_cannon;90 mm 90 F2 cannon
@@ -3992,8 +3995,6 @@ weapons/rocket_tomahawk_bgm109_launcher/short;TLAM Tomahawk
 weapons/rocket_ugm133_trident2_launcher;Trident submarine-launched ballistic missile
 weapons/rocket_ugm133_trident2_launcher/short;SLBM Trident
 weapons/150mm_kan_fm43_44_user_cannon;150 mm fsthaub m/02 recoiless rifle
-weapons/20mm_akan_m45_B_user_cannon;20 mm Akan m/45B cannon
-weapons/20mm_akan_m47_D_user_cannon;20 mm Akan m/47D cannon
 20mm_slpprj_m68;slpprj m/68
 20mm_slsgr_71;slsgr m/71
 weapons/105mm_L7_Mk_3_user_cannon;105 mm Royal Ordnance L7A1 cannon
@@ -4007,7 +4008,6 @@ weapons/90mm_Bofors_ikv_user_cannon;90 mm kan Ikv 91
 weapons/105mm_Bofors_ikv_user_cannon;105 mm kan Bofors
 90mm_slpsgr_m72;slpsgr m/72
 90mm_slsgr_m72;slsgr m/72
-weapons/40mm_Kan_Strf_user_cannon;40 mm Akan m/70B cannon
 weapons/6_5mm_Ksp_m14_29_user_machinegun;6.5 mm ksp m/14-29 machine gun
 weapons/8mm_Ksp_m36_user_machinegun;8 mm ksp m/36 machine gun
 weapons/8mm_Ksp_m39_B_user_machinegun;7.62 mm ksp m/39B machine gun

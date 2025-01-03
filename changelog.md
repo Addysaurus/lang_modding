@@ -76,8 +76,14 @@ All dates are listed in DD-MM-YYYY format.
             - **Rbs 55** renamed to **rbs 55**. The long name has been changed to **robotsystem 55**.
             - **Rbs 56 ATGM** renamed to **robotsystem 56**.
             - **Rbs 70 SAM** renamed to **robotsystem 70**.
-        - Guns:
-            - **Akan m/55** renamed to **akan m/55**. The long name has been changed to **akan m/55**.
+        - Guns (yes, the caliber in milimeters is part of the designation in Swedish, that is not the mod's colored caliber tag):
+            - **Ksp m/22** renamed to **fplksp m/22**. The long name has been changed to **8 mm flygplanskulspruta m/22**.
+            - **Ksp m/22-37 R** renamed to **fplksp m/22-37R**. The long name has been changed to **8 mm flygplanskulspruta m/22-37R**.
+            - **Ksp m/22 Fh** renamed to **fplksp m/22Fh**. The long name has been changed to **8 mm flygplanskulspruta m/22Fh**.
+            - **Ksp m/22 Fv** renamed to **fplksp m/22Fv**. The long name has been changed to **8 mm flygplanskulspruta m/22Fv**.
+            - **Akan m/55** renamed to **akan m/55**. The long name has been changed to **30 mm automatkanon m/55**.
+            - **Akan m/75** renamed to **akan m/75**. The long name has been changed to **30 mm automatkanon m/75**.
+            - **Akan m/85** renamed to **akan m/85**. The long name has been changed to **27 mm automatkanon m/85**.
         - Fuel tanks:
             - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.

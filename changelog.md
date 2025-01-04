@@ -48,6 +48,9 @@ All dates are listed in DD-MM-YYYY format.
     - The **ASP (late) (EX 35)**'s long name has been changed to **Teledyne Continental Motors | TCM Armored Support Platform (late) (Gun, 105mm, EX 35 MOD 0)**.
     - **T-80UD** (China / Pakistan) renamed to **T-80UD (478DU1)**. The long name has been changed to **Ob'êkt 478DU1 | T-80UD Byeryeza**.
     - **Yanšuf Ḥamuš** renamed to **ABH Demonstrator**. The long name has been changed to **Sikorsky Aircraft Corperation + Elbit Systems Armed Blackhawk Demonstrator "Yanšuf Ḥamuš"**.
+    - **IDS-Tornado (Marineflieger)** renamed to **IDS-Tornado (MFG)**.
+    - **B.KhL.1 (early)** renamed to **B.KhL.1K (early)**.
+    - **B.KhL.1 (late)** renamed to **B.KhL.1K (late)**.
 ### Weaponry:
 
 - #### Changes:
@@ -81,6 +84,9 @@ All dates are listed in DD-MM-YYYY format.
             - **Ksp m/22-37 R** renamed to **fplksp m/22-37R**. The long name has been changed to **8 mm flygplanskulspruta m/22-37R**.
             - **Ksp m/22 Fh** renamed to **fplksp m/22Fh**. The long name has been changed to **8 mm flygplanskulspruta m/22Fh**.
             - **Ksp m/22 Fv** renamed to **fplksp m/22Fv**. The long name has been changed to **8 mm flygplanskulspruta m/22Fv**.
+            - **Akan m/39A** (the 12.7 mm machine gun) renamed to **akan m/39A**. The long name has been changed to **12,7 mm automatkanon m/39A**.
+            - **Akan m/39** (the 13.2 mm machine gun) renamed to **akan m/39**. The long name has been changed to **13,2 mm automatkanon m/39**.
+            - **Akan m/39A** (the 13.2 mm machine gun) renamed to **akan m/39A**. The long name has been changed to **13,2 mm automatkanon m/39A**.
             - **Akan m/55** renamed to **akan m/55**. The long name has been changed to **30 mm automatkanon m/55**.
             - **Akan m/75** renamed to **akan m/75**. The long name has been changed to **30 mm automatkanon m/75**.
             - **Akan m/85** renamed to **akan m/85**. The long name has been changed to **27 mm automatkanon m/85**.
@@ -90,6 +96,8 @@ All dates are listed in DD-MM-YYYY format.
     - The **M-10T obr. 1938/40 gg.** has had its caliber tag corrected from 130 mm to 152 mm.
     - The **ML-20S** has had its caliber tag corrected from 130 mm to 152 mm.
     - **Gun, 75mm, XM274** renamed to **75mm Advanced Design Mobility and Agility Gun System**.
+    - **7,70 LKk/36** renamed to **7,70 lkk/36**. The long name has been changed to **7,70 mm lentokonekivääri mallia 1936**.
+    - **12,70 LKk/42** renamed to **12,70 lkk/42**. The long name has been changed to **12,70 mm lentokonekivääri mallia 1942**.
 
 ### HUDs / MFDs:
 

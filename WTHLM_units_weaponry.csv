@@ -46,8 +46,8 @@ weapons/gunBrowning50_M3_underwing;<color=@userlogColoredText>12.7 mm</color> Ma
 weapons/gunBrowning50_early;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
 weapons/gunBrowning50_early_1935;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
 weapons/gunBrowning50_M2;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunLKk_42;<color=@userlogColoredText>12.7 mm</color> 12,70 mm LentoKonekivääri m/42 <color=#ff6f00>MG</color>
-weapons/gunLKk_42/short;12,70 LKk/42
+weapons/gunLKk_42;<color=@userlogColoredText>12.7 mm</color> 12,70 mm lentokonekivääri mallia 1942 <color=#ff6f00>MG</color>
+weapons/gunLKk_42/short;12,70 lkk/42
 weapons/gunBrowning50_M2_late;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
 weapons/gunBrowning50_M2_underwing;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
 weapons/gunBrowning50;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
@@ -61,8 +61,8 @@ weapons/gunBrowning50_turret_late;<color=@userlogColoredText>12.7 mm</color> Mac
 weapons/gunDA762;<color=@userlogColoredText>7.62 mm</color> 56-P-323 | DA <color=#ff6f00>MG</color>
 weapons/cannonHispanoMkI;<color=@userlogColoredText>20 mm</color> Hispano Mk. I <color=#ff6f00>ACNN</color>
 weapons/cannonHispano404;20 mm Hispano 404 cannon
-weapons/gunBrowningM36No3;<color=@userlogColoredText>7.7 mm</color> 7,70 mm LentoKonekivääri m/36 <color=#ff6f00>MG</color>
-weapons/gunBrowningM36No3/short;7,70 LKk/36
+weapons/gunBrowningM36No3;<color=@userlogColoredText>7.7 mm</color> 7,70 mm lentokonekivääri mallia 1936 <color=#ff6f00>MG</color>
+weapons/gunBrowningM36No3/short;7,70 lkk/36
 weapons/gunBrowningM36No3Holand;<color=@userlogColoredText>7.92 mm</color> FN-Browning M.36 No.3 <color=#ff6f00>MG</color>
 weapons/gunBrowningM36No3Holand/short;FN-Browning M.36 No.3
 weapons/gunBrowningM36No4Holand_turret;<color=@userlogColoredText>7.92 mm</color> FN-Browning M.36 No.4 <color=#ff6f00>MG</color>
@@ -3875,14 +3875,14 @@ weapons/ucav_agm;Parisarrow anti-tank guided missile
 weapons/ucav_agm/short;ATGM Parisarrow
 weapons/ucav_heavy_missile;TM Smasher tactical missile
 weapons/ucav_heavy_missile/short;TM Smasher
-weapons/gunAkan_12_7_m39a;12.7 mm Akan m/39A machine gun
-weapons/gunAkan_12_7_m39a/short;Akan m/39A
-weapons/gunAkan_m39;13.2 mm Akan m/39 machine gun
-weapons/gunAkan_m39/short;Akan m/39
-weapons/gunAkan_m39_turret;13.2 mm Akan m/39 machine gun
-weapons/gunAkan_m39_turret/short;Akan m/39
-weapons/gunAkan_m39a;13.2 mm Akan m/39A machine gun
-weapons/gunAkan_m39a/short;Akan m/39A
+weapons/gunAkan_12_7_m39a;<color=@userlogColoredText>12.7 mm</color> 12,7 mm automatkanon m/39A <color=#ff6f00>MG</color>
+weapons/gunAkan_12_7_m39a/short;akan m/39A
+weapons/gunAkan_m39;<color=@userlogColoredText>13.2 mm</color> 13,2 mm automatkanon m/39 <color=#ff6f00>MG</color>
+weapons/gunAkan_m39/short;akan m/39
+weapons/gunAkan_m39_turret;<color=@userlogColoredText>13.2 mm</color> 13,2 mm automatkanon m/39 <color=#ff6f00>MG</color>
+weapons/gunAkan_m39_turret/short;akan m/39
+weapons/gunAkan_m39a;<color=@userlogColoredText>13.2 mm</color> 13,2 mm automatkanon m/39A <color=#ff6f00>MG</color>
+weapons/gunAkan_m39a/short;akan m/39A
 weapons/gunAkan_m40;12.7 mm Akan m/40 machine gun
 weapons/gunAkan_m40/short;Akan m/40
 weapons/cannonAkan_m41a;20 mm Akan m/41A cannon

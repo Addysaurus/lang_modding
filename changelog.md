@@ -8,7 +8,7 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.11.00 - UNRELEASED
+## 1.11.01 - UNRELEASED
 
 ### Vehicles:
 
@@ -51,6 +51,7 @@ All dates are listed in DD-MM-YYYY format.
     - **IDS-Tornado (Marineflieger)** renamed to **IDS-Tornado (MFG)**.
     - **B.KhL.1 (early)** renamed to **B.KhL.1K (early)**.
     - **B.KhL.1 (late)** renamed to **B.KhL.1K (late)**.
+    - **AMX 30 Au F1** renamed to **AMX 30 Au F1 TM**. Its long name has been changed to **Canon de 155mm Automoteur Modèle F1 TM sur châssis AMX 30**.
 ### Weaponry:
 
 - #### Changes:
@@ -114,7 +115,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - Fixed a missing quotation mark after the **D12** engine that caused all other text in the file to be shown afterwards (the **VBCI VCI** had this issue).
 
-## 1.10.03 - 17-12-2024
+## 1.11.00 - 17-12-2024
 
 ### Vehicles:
 

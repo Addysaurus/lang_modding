@@ -168,6 +168,7 @@ All dates are listed in DD-MM-YYYY format.
         - **La Galissoniere**
         - **Tiger Ost**
         - **Tiger West**
+        - **Ostwind Ost**
         - **Two Fronts** (folder)
         - **Tor/HQ** (folder)
         - **Ersatz Yorck**

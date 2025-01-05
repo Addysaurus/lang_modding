@@ -52,6 +52,7 @@ All dates are listed in DD-MM-YYYY format.
     - **B.KhL.1 (early)** renamed to **B.KhL.1K (early)**.
     - **B.KhL.1 (late)** renamed to **B.KhL.1K (late)**.
     - **AMX 30 Au F1** renamed to **AMX 30 Au F1 TM**. Its long name has been changed to **Canon de 155mm Automoteur Modèle F1 TM sur châssis AMX 30**.
+    - **VA / J 28** folder renamed to **J 28 B / VA**.
 ### Weaponry:
 
 - #### Changes:
@@ -85,9 +86,19 @@ All dates are listed in DD-MM-YYYY format.
             - **Ksp m/22-37 R** renamed to **fplksp m/22-37R**. The long name has been changed to **8 mm flygplanskulspruta m/22-37R**.
             - **Ksp m/22 Fh** renamed to **fplksp m/22Fh**. The long name has been changed to **8 mm flygplanskulspruta m/22Fh**.
             - **Ksp m/22 Fv** renamed to **fplksp m/22Fv**. The long name has been changed to **8 mm flygplanskulspruta m/22Fv**.
-            - **Akan m/39A** (the 12.7 mm machine gun) renamed to **akan m/39A**. The long name has been changed to **12,7 mm automatkanon m/39A**.
-            - **Akan m/39** (the 13.2 mm machine gun) renamed to **akan m/39**. The long name has been changed to **13,2 mm automatkanon m/39**.
-            - **Akan m/39A** (the 13.2 mm machine gun) renamed to **akan m/39A**. The long name has been changed to **13,2 mm automatkanon m/39A**.
+            - **Akan m/39A** (the 12.7 mm one) renamed to **akan m/39A**. The long name has been changed to **12,7 mm automatkanon m/39A**.
+            - **Akan m/39** (the 13.2 mm one) renamed to **akan m/39**. The long name has been changed to **13,2 mm automatkanon m/39**.
+            - **Akan m/39A** (the 13.2 mm one) renamed to **akan m/39A**. The long name has been changed to **13,2 mm automatkanon m/39A**.
+            - **Akan m/40** renamed to **akan m/40**. The long name has been changed to **12,7 mm automatkanon m/40**.
+            - **Akan m/41A** renamed to **akan m/41A**. The long name has been changed to **20 mm automatkanon m/41A**.
+            - **Akan m/45** (the 12.7 mm one) renamed to **akan m/45**. The long name has been changed to **12,7 mm automatkanon m/45**.
+            - **Akan m/45** (the 20 mm one) renamed to **akan m/45**. The long name has been changed to **20 mm automatkanon m/45**.
+            - **20 mm Akan m/45B cannon** renamed to **20 mm automatkanon m/45B**.
+            - **Akan m/47** renamed to **akan m/47**. The long name has been changed to **57 mm automatkanon m/47**.
+            - **Akan m/47B** renamed to **akan m/47B**. The long name has been changed to **20 mm automatkanon m/47B**.
+            - **Akan m/47C** renamed to **akan m/47C**. The long name has been changed to **20 mm automatkanon m/47C**.
+            - **20 mm Akan m/47D cannon** renamed to **20 mm automatkanon m/47D**.
+            - **Akan m/49** renamed to **akan m/49**. The long name has been changed to **20 mm automatkanon m/49**.
             - **Akan m/55** renamed to **akan m/55**. The long name has been changed to **30 mm automatkanon m/55**.
             - **Akan m/75** renamed to **akan m/75**. The long name has been changed to **30 mm automatkanon m/75**.
             - **Akan m/85** renamed to **akan m/85**. The long name has been changed to **27 mm automatkanon m/85**.

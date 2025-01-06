@@ -46,7 +46,7 @@ All dates are listed in DD-MM-YYYY format.
         - **TstPsv Leopard 2A4** renamed to **tstpsv Leopard 2A4**. The long name has been changed to **Ps. 273 | taistelupanssarivaunu Leopard 2A4**.
         - **TstPsv Leopard 2A6** renamed to **tstpsv Leopard 2A6**. The long name has been changed to **Ps. 274 | taistelupanssarivaunu Leopard 2A6**.
     - The **ASP (late) (EX 35)**'s long name has been changed to **Teledyne Continental Motors | TCM Armored Support Platform (late) (Gun, 105mm, EX 35 MOD 0)**.
-    - **T-80UD** (China / Pakistan) renamed to **T-80UD (478DU1)**. The long name has been changed to **Ob'êkt 478DU1 | T-80UD Byeryeza**.
+    - **T-80UD** (China / Pakistan) renamed to **T-80UD (DU1)**. The long name has been changed to **Ob'êkt 478DU1 | T-80UD Byeryeza**.
     - **Yanšuf Ḥamuš** renamed to **ABH Demonstrator**. The long name has been changed to **Sikorsky Aircraft Corperation + Elbit Systems Armed Blackhawk Demonstrator "Yanšuf Ḥamuš"**.
     - **IDS-Tornado (Marineflieger)** renamed to **IDS-Tornado (MFG)**.
     - **B.KhL.1 (early)** renamed to **B.KhL.1K (early)**.
@@ -65,6 +65,7 @@ All dates are listed in DD-MM-YYYY format.
         - The **B.JT.1K**'s long name has been changed to **Ekhrụxngbinojmtīæbbthī 1K**.
         - The **B.KhL.1K (early)**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 1K (early)**.
         - The **B.KhL.1K (late)**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 1K (late)**.
+    - **bkan 1C** renamed to **15,5 cm bkan 1C**.
 ### Weaponry:
 
 - #### Changes:
@@ -114,6 +115,10 @@ All dates are listed in DD-MM-YYYY format.
             - **Akan m/55** renamed to **akan m/55**. The long name has been changed to **30 mm automatkanon m/55**.
             - **Akan m/75** renamed to **akan m/75**. The long name has been changed to **30 mm automatkanon m/75**.
             - **Akan m/85** renamed to **akan m/85**. The long name has been changed to **27 mm automatkanon m/85**.
+            - **6.5 mm ksp m/14-29 machine gun** renamed to **6,5 mm kulspruta m/14-29**.
+            - **7.62 mm ksp 39 C machine gun** renamed to **7,62 mm kulspruta m/39C**.
+            - **7.62 mm ksp 58 machine gun** renamed to **7,62 mm kulspruta m/58**.
+            - **12.7 mm ksp 88 machine gun** renamed to **12,7 mm kulspruta m/88**.
         - Fuel tanks:
             - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.
@@ -123,15 +128,6 @@ All dates are listed in DD-MM-YYYY format.
     - **7,70 LKk/36** renamed to **7,70 lkk/36**. The long name has been changed to **7,70 mm lentokonekivääri mallia 1936**.
     - **12,70 LKk/42** renamed to **12,70 lkk/42**. The long name has been changed to **12,70 mm lentokonekivääri mallia 1942**.
     - The **3-K** has had its type tag corrected from MG to CNN.
-
-### HUDs / MFDs:
-
-- A new file has been added for HUD and MFD texts when in the cockpit. This does not change texts in the MFDs and HUD to the exact names of the weapons. Rather, it changes the HUD and MFD texts to what would be shown in those planes' HUDs and MFDs in real life. This is done in its original language because the game's HUDs are all in their original languages.
-
-- #### Additions:
-
-    - Update "Storm Warning" additions (things Gaijin forgot to add):
-        -  **MAG** (for the **R550 Magic 2** on the **Rafale C (F4.1)**)
 
 ### Engines:
 

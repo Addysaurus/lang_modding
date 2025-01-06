@@ -53,7 +53,7 @@ All dates are listed in DD-MM-YYYY format.
     - **B.KhL.1 (late)** renamed to **B.KhL.1K (late)**.
     - **AMX 30 Au F1** renamed to **AMX 30 Au F1 TM**. Its long name has been changed to **Canon de 155mm Automoteur Modèle F1 TM sur châssis AMX 30**.
     - **VA / J 28** folder renamed to **J 28 B / VA**.
-    - Thai aircraft rework (I went down a big rabbit hole for a bug report and I ended up here, ok? fml):
+    - Thai aircraft rework (I went down a big rabbit hole for a bug report and I ended up here, ok? fml) (and yes, I am completely aware that the new long names are incomprehensible nightmares, but welcome to Thai naming):
         - The **B.Kh.16**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 16**.
         - The **B.Kh.18**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 18**.
         - The **B.Kh.18Kh (1988)**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 18Kh (1988)**.

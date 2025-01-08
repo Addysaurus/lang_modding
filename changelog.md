@@ -95,10 +95,17 @@ All dates are listed in DD-MM-YYYY format.
             - **Rbs 56 ATGM** renamed to **robotsystem 56**.
             - **Rbs 70 SAM** renamed to **robotsystem 70**.
         - Guns (yes, the caliber in milimeters is part of the designation in Swedish, that is not the mod's colored caliber tag):
+            - **6.5 mm ksp m/14-29 machine gun** renamed to **6,5 mm kulspruta m/14-29**.
             - **Ksp m/22** renamed to **fplksp m/22**. The long name has been changed to **8 mm flygplanskulspruta m/22**.
             - **Ksp m/22-37 R** renamed to **fplksp m/22-37R**. The long name has been changed to **8 mm flygplanskulspruta m/22-37R**.
             - **Ksp m/22 Fh** renamed to **fplksp m/22Fh**. The long name has been changed to **8 mm flygplanskulspruta m/22Fh**.
             - **Ksp m/22 Fv** renamed to **fplksp m/22Fv**. The long name has been changed to **8 mm flygplanskulspruta m/22Fv**.
+            - **8 mm ksp m/36 machine gun** renamed to **8 mm kulspruta m/36**.
+            - **7.62 mm ksp m/39B machine gun** renamed to **7,62 mm kulspruta m/39B**.
+            - **7.62 mm ksp 39 C machine gun** renamed to **7,62 mm kulspruta m/39C**.
+            - **7.62 mm ksp 58 machine gun** renamed to **7,62 mm kulspruta m/58**.
+            - **12.7 mm ksp 88 machine gun** renamed to **12,7 mm kulspruta m/88**.
+            - **7.62 mm ksp 94 machine gun** renamed to **7,62 mm kulspruta m/94**.
             - **Akan m/39A** (the 12.7 mm one) renamed to **akan m/39A**. The long name has been changed to **12,7 mm automatkanon m/39A**.
             - **Akan m/39** (the 13.2 mm one) renamed to **akan m/39**. The long name has been changed to **13,2 mm automatkanon m/39**.
             - **Akan m/39A** (the 13.2 mm one) renamed to **akan m/39A**. The long name has been changed to **13,2 mm automatkanon m/39A**.
@@ -115,10 +122,7 @@ All dates are listed in DD-MM-YYYY format.
             - **Akan m/55** renamed to **akan m/55**. The long name has been changed to **30 mm automatkanon m/55**.
             - **Akan m/75** renamed to **akan m/75**. The long name has been changed to **30 mm automatkanon m/75**.
             - **Akan m/85** renamed to **akan m/85**. The long name has been changed to **27 mm automatkanon m/85**.
-            - **6.5 mm ksp m/14-29 machine gun** renamed to **6,5 mm kulspruta m/14-29**.
-            - **7.62 mm ksp 39 C machine gun** renamed to **7,62 mm kulspruta m/39C**.
-            - **7.62 mm ksp 58 machine gun** renamed to **7,62 mm kulspruta m/58**.
-            - **12.7 mm ksp 88 machine gun** renamed to **12,7 mm kulspruta m/88**.
+            - **75 mm lvkan m/37 A cannon** renamed to **7,5 cm luftvärnskanon m/37A**.
         - Fuel tanks:
             - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.

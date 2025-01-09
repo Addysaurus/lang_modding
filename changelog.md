@@ -131,7 +131,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Gun, 75mm, XM274** renamed to **75mm Advanced Design Mobility and Agility Gun System**.
     - **7,70 LKk/36** renamed to **7,70 lkk/36**. The long name has been changed to **7,70 mm lentokonekivääri mallia 1936**.
     - **12,70 LKk/42** renamed to **12,70 lkk/42**. The long name has been changed to **12,70 mm lentokonekivääri mallia 1942**.
-    - The **3-K** has had its type tag corrected from MG to CNN.
+    - The **3-K** has had its type tag corrected from **MG** to **CNN**.
 
 ### Engines:
 

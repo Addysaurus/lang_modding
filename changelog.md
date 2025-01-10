@@ -66,6 +66,7 @@ All dates are listed in DD-MM-YYYY format.
         - The **B.KhL.1K (early)**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 1K (early)**.
         - The **B.KhL.1K (late)**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 1K (late)**.
     - **bkan 1C** renamed to **15,5 cm bkan 1C**.
+    - **pvlvv fm/42** renamed to **20 mm pvlvblav**. The long name has been changed to **20 mm pansarvärnsluftvärnsbandlavettage**.
 ### Weaponry:
 
 - #### Changes:

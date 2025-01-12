@@ -54,19 +54,20 @@ All dates are listed in DD-MM-YYYY format.
     - **AMX 30 Au F1** renamed to **AMX 30 Au F1 TM**. Its long name has been changed to **Canon de 155mm Automoteur Modèle F1 TM sur châssis AMX 30**.
     - **VA / J 28** folder renamed to **J 28 B / VA**.
     - Thai aircraft rework (I went down a big rabbit hole for a bug report and I ended up here, ok? fml) (and yes, I am completely aware that the new long names are incomprehensible nightmares, but welcome to Thai naming):
-        - The **B.Kh.16**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 16**.
-        - The **B.Kh.18**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 18**.
-        - The **B.Kh.18Kh (1988)**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 18Kh (1988)**.
-        - The **B.Kh.18Kh (2003)**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 18Kh (2003)**.
-        - The **B.Kh.19**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 19**.
-        - The **B.Kh.20**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 20**.
-        - The **B.J.7**'s long name has been changed to **Ekhrụxngbinojmtīæbbthī 7**.
-        - The **B.J.7 (2004)**'s long name has been changed to **Ekhrụxngbinojmtīæbbthī 7 (2004)**.
-        - The **B.JT.1K**'s long name has been changed to **Ekhrụxngbinojmtīæbbthī 1K**.
-        - The **B.KhL.1K (early)**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 1K (early)**.
-        - The **B.KhL.1K (late)**'s long name has been changed to **Ekhrụxngbinkhạbịlæbbthī 1K (late)**.
+        - The **B.Kh.16**'s long name has been changed to **Ekhrụxng Bin Khạb Lị Bæb Thī 16**.
+        - The **B.Kh.18**'s long name has been changed to **Ekhrụxng Bin Khạb Lị Bæb Thī 18**.
+        - The **B.Kh.18Kh (1988)**'s long name has been changed to **Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (1988)**.
+        - The **B.Kh.18Kh (2003)**'s long name has been changed to **Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (2003)**.
+        - The **B.Kh.19**'s long name has been changed to **Ekhrụxng Bin Khạb Lị Bæb Thī 19**.
+        - The **B.Kh.20**'s long name has been changed to **Ekhrụxng Bin Khạb Lị Bæb Thī 20**.
+        - The **B.J.7**'s long name has been changed to **Ekhrụxng Bin Jomtī Bæb Thī 7**.
+        - The **B.J.7 (2004)**'s long name has been changed to **Ekhrụxng Bin Jomtī Bæb Thī 7 (2004)**.
+        - The **B.JT.1K**'s long name has been changed to **Ekhrụxng Bin Jomtī Bæb Thī 1K**.
+        - The **B.KhL.1K (early)**'s long name has been changed to **Ekhrụxng Bin Khạb Lị Bæb Thī 1K (early)**.
+        - The **B.KhL.1K (late)**'s long name has been changed to **Ekhrụxng Bin Khạb Lị Bæb Thī 1K (late)**.
     - **bkan 1C** renamed to **15,5 cm bkan 1C**.
     - **pvlvv fm/42** renamed to **20 mm pvlvblav**. The long name has been changed to **20 mm pansarvärnsluftvärnsbandlavettage**.
+    - **F-4F-63-MC (Peace Rhine)** renamed to **F-4F-63-MC (PR)**.
 ### Weaponry:
 
 - #### Changes:
@@ -111,6 +112,8 @@ All dates are listed in DD-MM-YYYY format.
             - **Akan m/39** (the 13.2 mm one) renamed to **akan m/39**. The long name has been changed to **13,2 mm automatkanon m/39**.
             - **Akan m/39A** (the 13.2 mm one) renamed to **akan m/39A**. The long name has been changed to **13,2 mm automatkanon m/39A**.
             - **Akan m/40** renamed to **akan m/40**. The long name has been changed to **12,7 mm automatkanon m/40**.
+            - **20 mm Pvlvkan m/40 cannon** renamed to **20 mm automatkanon m/40**.
+            - **20 mm lvakan m/40B cannon** renamed to **20 mm automatkanon m/40**.
             - **Akan m/41A** renamed to **akan m/41A**. The long name has been changed to **20 mm automatkanon m/41A**.
             - **Akan m/45** (the 12.7 mm one) renamed to **akan m/45**. The long name has been changed to **12,7 mm automatkanon m/45**.
             - **Akan m/45** (the 20 mm one) renamed to **akan m/45**. The long name has been changed to **20 mm automatkanon m/45**.
@@ -123,7 +126,9 @@ All dates are listed in DD-MM-YYYY format.
             - **Akan m/55** renamed to **akan m/55**. The long name has been changed to **30 mm automatkanon m/55**.
             - **Akan m/75** renamed to **akan m/75**. The long name has been changed to **30 mm automatkanon m/75**.
             - **Akan m/85** renamed to **akan m/85**. The long name has been changed to **27 mm automatkanon m/85**.
+            - **37 mm kan m/38 cannon** renamed to **37 mm kanon m/38**.
             - **75 mm lvkan m/37 A cannon** renamed to **7,5 cm luftvärnskanon m/37A**.
+            - **75 mm kan m/41 cannon** renamed to **7,5 cm kanon m/41**.
         - Fuel tanks:
             - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.

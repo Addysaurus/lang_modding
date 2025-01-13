@@ -68,6 +68,7 @@ All dates are listed in DD-MM-YYYY format.
     - **bkan 1C** renamed to **15,5 cm bkan 1C**.
     - **pvlvv fm/42** renamed to **20 mm pvlvblav**. The long name has been changed to **20 mm pansarvärnsluftvärnsbandlavettage**.
     - **F-4F-63-MC (Peace Rhine)** renamed to **F-4F-63-MC (PR)**.
+    - The **DKS (1993)**'s long name has been changed to **Saab / Valmet | Saab 35 XS | DKS "Silitysrauta" (1993)** (the date was moved to after the nickname).
 ### Weaponry:
 
 - #### Changes:
@@ -129,6 +130,12 @@ All dates are listed in DD-MM-YYYY format.
             - **37 mm kan m/38 cannon** renamed to **37 mm kanon m/38**.
             - **75 mm lvkan m/37 A cannon** renamed to **7,5 cm luftvärnskanon m/37A**.
             - **75 mm kan m/41 cannon** renamed to **7,5 cm kanon m/41**.
+            - **57 mm Pvkan m/43 cannon** renamed to **57 mm pansarvärnskanon m/43**.
+            - **75 mm Pvkan m/43 cannon** renamed to **7,5 cm pansarvärnskanon m/43**.
+            - **40 mm lvakan m/36 cannon** renamed to **40 mm luftvärnsautomatkanon m/36**
+            - **40 mm lvakan m/48 cannon** renamed to **40 mm luftvärnsautomatkanon m/48**
+            - **150 mm fsthaub m/02 recoiless rifle** renamed to **15 cm fästningshaubits m/02**.
+            - **105 mm kan m/44 cannon** renamed to **10,5 cm kanon m/44**.
         - Fuel tanks:
             - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.
@@ -138,6 +145,7 @@ All dates are listed in DD-MM-YYYY format.
     - **7,70 LKk/36** renamed to **7,70 lkk/36**. The long name has been changed to **7,70 mm lentokonekivääri mallia 1936**.
     - **12,70 LKk/42** renamed to **12,70 lkk/42**. The long name has been changed to **12,70 mm lentokonekivääri mallia 1942**.
     - The **3-K** has had its type tag corrected from **MG** to **CNN**.
+    - The **M40A1** and **M40A1C** have had their type tags changed from **CNN** to **CNN-RCL** ("RCL" stands for "recoiless").
 
 ### Engines:
 

@@ -3098,8 +3098,8 @@ weapons/90mm_90_53_mod41_user_cannon;90 mm 90/53 mod.41 cannon
 90mm_gr_90;Granata da 90
 90mm_gr_perforante;Granata Perforante da 90
 90mm_gr_perforante_m43;Granata Perforante mod.43
-weapons/106mm_106_SR_user_cannon;<color=@userlogColoredText>105 mm</color> Rifle, 106mm, M40A1 <color=#ff6f00>CNN</color>
-weapons/106mm_M40A1_LGS_user_cannon;<color=@userlogColoredText>105 mm</color> 106mm Leichtgeschütz M 40 A1 <color=#ff6f00>CNN</color>
+weapons/106mm_106_SR_user_cannon;<color=@userlogColoredText>105 mm</color> Rifle, 106mm, M40A1 <color=#ff6f00>CNN-RCL</color>
+weapons/106mm_M40A1_LGS_user_cannon;<color=@userlogColoredText>105 mm</color> 106mm Leichtgeschütz M 40 A1 <color=#ff6f00>CNN-RCL</color>
 weapons/20mm_MK_20_1_user_cannon;20 mm MK20-1 cannon
 weapons/90mm_Cockerill_Mk_3_user_cannon;90 mm Cockerill Mk. 3 cannon
 90mm_m625a1;M625A1
@@ -3994,7 +3994,7 @@ weapons/rocket_tomahawk_bgm109_launcher;Tomahawk land attack missile
 weapons/rocket_tomahawk_bgm109_launcher/short;TLAM Tomahawk
 weapons/rocket_ugm133_trident2_launcher;Trident submarine-launched ballistic missile
 weapons/rocket_ugm133_trident2_launcher/short;SLBM Trident
-weapons/150mm_kan_fm43_44_user_cannon;150 mm fsthaub m/02 recoiless rifle
+weapons/150mm_kan_fm43_44_user_cannon;<color=@userlogColoredText>150 mm</color> 15 cm fästningshaubits m/02 <color=#ff6f00>CNN-HWZ-RCL</color>
 20mm_slpprj_m68;slpprj m/68
 20mm_slsgr_71;slsgr m/71
 weapons/105mm_L7_Mk_3_user_cannon;105 mm Royal Ordnance L7A1 cannon
@@ -4011,7 +4011,7 @@ weapons/105mm_Bofors_ikv_user_cannon;105 mm kan Bofors
 weapons/6_5mm_Ksp_m14_29_user_machinegun;<color=@userlogColoredText>6.5 mm</color> 6,5 mm kulspruta m/14-29 <color=#ff6f00>MG</color>
 weapons/8mm_Ksp_m36_user_machinegun;<color=@userlogColoredText>8 mm</color> 8 mm kulspruta m/36 <color=#ff6f00>MG</color>
 weapons/8mm_Ksp_m39_B_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 7,62 mm kulspruta m/39B <color=#ff6f00>MG</color>
-weapons/57mm_Pv_Kan_m43_user_cannon;57 mm Pvkan m/43 cannon
+weapons/57mm_Pv_Kan_m43_user_cannon;<color=@userlogColoredText>57 mm</color> 57 mm pansarvärnskanon m/43 <color=#ff6f00>CNN</color>
 57mm_sgr_m43;sgr m/43
 57mm_slpgr_m43;slpgr m/43
 57mm_slpprj_m43;slpprj m/43
@@ -4022,9 +4022,9 @@ weapons/114mm_Psv_H_18_user_cannon;114 mm Psv.H/18 howitzer
 weapons/37mm_Psv_K36_user_cannon;37 mm Psv.K/36 cannon
 37mm_psav;psav Vj4
 37mm_pstkr;pstkr 27-34
-weapons/75mm_Pv_Kan_m43_user_cannon;75 mm Pvkan m/43 cannon
+weapons/75mm_Pv_Kan_m43_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm pansarvärnskanon m/43 <color=#ff6f00>CNN</color>
 weapons/75mm_Lv_Kan_m37_A_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm luftvärnskanon m/37A <color=#ff6f00>CNN</color>
-weapons/75mm_Pv_Kan_m43_1963_user_cannon;75 mm Pvkan m/43 cannon
+weapons/75mm_Pv_Kan_m43_1963_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm pansarvärnskanon m/43 <color=#ff6f00>CNN</color>
 75mm_slpprj_m41;slpprj m/41
 75mm_sgr_m38;sgr m/38
 75mm_slpgr_m43;slpgr m/43
@@ -4044,7 +4044,7 @@ weapons/120mm_kan_Strv_121_user_cannon;120 mm kan Strv 121
 weapons/120mm_kan_Strv_122_user_cannon;120 mm kan Strv 122
 weapons/75mm_kan_m02_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm kanon m/02 <color=#ff6f00>CNN</color>
 75mm_sgr_m22_38;sgr m/22-38
-weapons/105mm_kan_m44_user_cannon;105 mm kan m/44 cannon
+weapons/105mm_kan_m44_user_cannon;<color=@userlogColoredText>105 mm</color> 10,5 cm kanon m/44 <color=#ff6f00>CNN</color>
 105mm_slpprj_m44;slpprj m/44
 105mm_slpsgr_m65;slpsgr m/65
 120mm_slpprj_m95;slpprj m/95
@@ -4053,7 +4053,7 @@ weapons/20mm_Lva_kan_m40_B_user_cannon;<color=@userlogColoredText>20 mm</color> 
 20mm_slpgr_m42;slpgr m/42
 20mm_slpprj_m40;slpprj m/40
 20mm_slsgr_m42;slsgr m/42
-weapons/40mm_Lva_kan_m36_user_cannon;40 mm lvakan m/36 cannon
+weapons/40mm_Lva_kan_m36_user_cannon;<color=@userlogColoredText>40 mm</color> 40 mm luftvärnsautomatkanon m/36 <color=#ff6f00>ACNN</color>
 40mm_kulsgr_m90;kulsgr m/90
 40mm_slhpgr_m43;slhpgr m/43
 40mm_slpprj_m01;slpprj m/01
@@ -4063,8 +4063,8 @@ weapons/40mm_Lva_kan_m36_user_cannon;40 mm lvakan m/36 cannon
 40mm_slsgr_m36c;slsgr m/36C
 40mm_slsgr_m90;slsgr m/90
 40mm_slsgr_m484;slsgr m/484
-weapons/40mm_Lva_kan_m48_user_cannon;40 mm lvakan m/48 cannon
-weapons/40mm_Lva_kan_m48_VEAK_user_cannon;40 mm lvakan m/48 cannon
+weapons/40mm_Lva_kan_m48_user_cannon;<color=@userlogColoredText>40 mm</color> 40 mm luftvärnsautomatkanon m/48 <color=#ff6f00>ACNN</color>
+weapons/40mm_Lva_kan_m48_VEAK_user_cannon;<color=@userlogColoredText>40 mm</color> 40 mm luftvärnsautomatkanon m/48 <color=#ff6f00>ACNN</color>
 weapons/81mm_Oerlikon_Typ_3Z_8Dla_user_cannon;81 mm Oerlikon Typ 3Z 8Dla launcher
 weapons/81mm_Oerlikon_Typ_3Z_8Dla_Raketenautomat_user_cannon;81 mm Oerlikon Typ 3Z 8Dla launcher
 81mm_pl03;Pl-3
@@ -4515,14 +4515,14 @@ weapons/152mm_XM150E6_user_cannon;<color=@userlogColoredText>152 mm</color> Gun-
 152mm_mgm_61c;MGM-51C
 152mm_xm578e1;XM578E1
 weapons/106mm_Type_60B_user_cannon;106 mm Recoilless Rifle Type 60 (B)
-weapons/106mm_M40A1C_T114_user_cannon;<color=@userlogColoredText>105 mm</color> Rifle, 106mm, M40A1C <color=#ff6f00>CNN</color>
+weapons/106mm_M40A1C_T114_user_cannon;<color=@userlogColoredText>105 mm</color> Rifle, 106mm, M40A1C <color=#ff6f00>CNN-RCL</color>
 weapons/73mm_2A28_user_cannon;<color=@userlogColoredText>73 mm</color> 2A28 Grom <color=#ff6f00>CNN</color>
 weapons/73mm_Type_85_user_cannon;73 mm Type 85 cannon
 73mm_type_85_heat;Type 85 HEAT
 73mm_type_85_he;Type 85 HE
 73mm_og_9;7P5, OG-15V (7G8, OG-9)
 73mm_pg_9;7P3, PG-15V (7G7, PG-9)
-weapons/106mm_M40A1C_user_cannon;<color=@userlogColoredText>105 mm</color> Rifle, 106mm, M40A1C <color=#ff6f00>CNN</color>
+weapons/106mm_M40A1C_user_cannon;<color=@userlogColoredText>105 mm</color> Rifle, 106mm, M40A1C <color=#ff6f00>CNN-RCL</color>
 weapons/100mm_Type69_user_cannon;<color=@userlogColoredText>100 mm</color> ZPT1969 100 háomi tankè pào <color=#ff6f00>CNN</color>
 100mm_1_72_13;1-72-13 HEAT-FS
 100mm_1_72_85;1-72-85 APDS-FS

@@ -150,6 +150,7 @@ All dates are listed in DD-MM-YYYY format.
             - **105 mm kan Ikv 103 cannon** renamed to **10,5 cm kanon infanterikanonvagn 103**.
             - **75 mm kan Strv 74** renamed to **7,5 cm kanon stridsvagn 74**.
             - **155 mm kan m/60 cannon** renamed to **15,5 cm bandkanon 1**.
+            - **90 mm kan Ikv 91** renamed to **9 cm kanon infanterikanonvagn 91**.
         - Fuel tanks:
             - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.

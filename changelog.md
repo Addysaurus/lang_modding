@@ -12,8 +12,17 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **FV4030/3**
+    - **Aktiebolaget Landsverk** added as the manufacturer for the following vehicles:
+        - **Lago I**
+        - **strv m/42 EH**
+        - **strv m/42 TM (DT)**
+
 - #### Changes:
 
+    - **FV4030/3** renamed to **Shir 2**. The long name has been changed to **F.V.4030/3 | Shir 2**. "Shir 2" is written with the English spelling rather than a a transliterated form of شیر 2 with diacritics because the vehicle never actually made it to Iran and so only the British name, Shir 2, applies.
     - **A-200** renamed to **A-200A**.
     - **A-200A** renamed to **A-200A (1995)**.
     - **T-26 (1933)** (China) renamed to **T-26 (1937)**. Thanks to Gszabi99 for informing me of this.
@@ -69,6 +78,8 @@ All dates are listed in DD-MM-YYYY format.
     - **pvlvv fm/42** renamed to **20 mm pvlvblav**. The long name has been changed to **20 mm pansarvärnsluftvärnsbandlavettage**.
     - **F-4F-63-MC (Peace Rhine)** renamed to **F-4F-63-MC (PR)**.
     - The **DKS (1993)**'s long name has been changed to **Saab / Valmet | Saab 35 XS | DKS "Silitysrauta" (1993)** (the date was moved to after the nickname).
+    - The **strv m/42 EH**'s long name has been changed to **Aktiebolaget Landsverk Lago IV | stridsvagn m/42 EH**.
+    - The **strv m/42 TM (DT)**'s long name has been changed to **Aktiebolaget Landsverk Lago II | stridsvagn m/42 TM (Delat Torn)**.
 ### Weaponry:
 
 - #### Changes:
@@ -136,6 +147,9 @@ All dates are listed in DD-MM-YYYY format.
             - **40 mm lvakan m/48 cannon** renamed to **40 mm luftvärnsautomatkanon m/48**
             - **150 mm fsthaub m/02 recoiless rifle** renamed to **15 cm fästningshaubits m/02**.
             - **105 mm kan m/44 cannon** renamed to **10,5 cm kanon m/44**.
+            - **105 mm kan Ikv 103 cannon** renamed to **10,5 cm kanon infanterikanonvagn 103**.
+            - **75 mm kan Strv 74** renamed to **7,5 cm kanon stridsvagn 74**.
+            - **155 mm kan m/60 cannon** renamed to **15,5 cm bandkanon 1**.
         - Fuel tanks:
             - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.

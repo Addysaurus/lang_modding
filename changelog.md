@@ -80,6 +80,8 @@ All dates are listed in DD-MM-YYYY format.
     - The **DKS (1993)**'s long name has been changed to **Saab / Valmet | Saab 35 XS | DKS "Silitysrauta" (1993)** (the date was moved to after the nickname).
     - The **strv m/42 EH**'s long name has been changed to **Aktiebolaget Landsverk Lago IV | stridsvagn m/42 EH**.
     - The **strv m/42 TM (DT)**'s long name has been changed to **Aktiebolaget Landsverk Lago II | stridsvagn m/42 TM (Delat Torn)**.
+    - The **M1A1AIM SA**'s mid distance name has been changed to **M1A1**.
+
 ### Weaponry:
 
 - #### Changes:

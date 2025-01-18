@@ -86,6 +86,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **strv m/42 TM (DT)**'s long name has been changed to **Aktiebolaget Landsverk Lago II | stridsvagn m/42 TM (Delat Torn)**.
     - The **M1A1AIM SA**'s mid distance name has been changed to **M1A1**.
     - The **J11A (MLU)**'s long name has been changed to **J11 "Yìnglóng" (Mid-Life Update)**.
+    - **JF-17A Block 1** renamed to **JF-17 Blāk I**. The long name has been changed to **Chéngdū Phējī Udyoga Samūha + Pākistān Aironāṭikal Kampḷiks | JF-17 Blāk I Thaṇḍar**.
 
 ### Weaponry:
 

@@ -2565,12 +2565,12 @@ weapons/su_fab5000;5000 kg bomb FAB-5000
 83mm_pvlng_m54;slpprj m/54
 105mm_slspgr_m61;slspgr m/61
 weapons/75mm_kan_strv_74_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm kanon stridsvagn 74 <color=#ff6f00>CNN</color>
-weapons/84mm_kan_strv81_user_cannon;84 mm kan Strv 81
-weapons/105mm_kan_strv_101_user_cannon;105 mm kan Strv 101
-weapons/105mm_kan_strv_104_user_cannon;105 mm kan Strv 101
-weapons/105mm_kan_strv_105_user_cannon;105 mm kan Strv 101
+weapons/84mm_kan_strv81_user_cannon;<color=@userlogColoredText>84 mm</color> 8,4 cm kanon stridsvagn 81 <color=#ff6f00>CNN</color>
+weapons/105mm_kan_strv_101_user_cannon;<color=@userlogColoredText>84 mm</color> 10,5 cm kanon stridsvagn 101 <color=#ff6f00>CNN</color>
+weapons/105mm_kan_strv_104_user_cannon;<color=@userlogColoredText>84 mm</color> 10,5 cm kanon stridsvagn 104 <color=#ff6f00>CNN</color>
+weapons/105mm_kan_strv_105_user_cannon;<color=@userlogColoredText>84 mm</color> 10,5 cm kanon stridsvagn 105 <color=#ff6f00>CNN</color>
 105mm_slpprj_m90c;slpprj m/90c
-weapons/120mm_ctg_l50_user_cannon;120 mm CTG cannon
+weapons/120mm_ctg_l50_user_cannon;<color=@userlogColoredText>120 mm</color> 120 mm Compact Tank Gun <color=#ff6f00>CNN</color>
 120mm_slsgr_m95;slsgr m/95
 94mm_shell_mk1;Shell Mk. 1
 94mm_shot_mk1;Shot Mk. 1
@@ -3905,7 +3905,7 @@ weapons/cannonAkan_m55;<color=@userlogColoredText>30 mm</color> 30 mm automatkan
 weapons/cannonAkan_m55/short;akan m/55
 weapons/cannonAkan_m55_underwing;<color=@userlogColoredText>30 mm</color> 30 mm automatkanon m/55 <color=#ff6f00>ACNN</color>
 weapons/cannonAkan_m55_underwing/short;akan m/55
-weapons/40mm_Kan_Strf_user_cannon;40 mm Akan m/70B cannon
+weapons/40mm_Kan_Strf_user_cannon;<color=@userlogColoredText>40 mm</color> 40 mm automatkanon m/70B <color=#ff6f00>ACNN</color>
 weapons/cannonAkan_m75;<color=@userlogColoredText>30 mm</color> 30 mm automatkanon m/75 <color=#ff6f00>ACNN</color>
 weapons/cannonAkan_m75/short;akan m/75
 weapons/cannonAkan_m85;<color=@userlogColoredText>27 mm</color> 27 mm automatkanon m/85 <color=#ff6f00>ACNN</color>
@@ -4040,8 +4040,8 @@ weapons/75mm_kan_m41_open_turret_user_cannon;<color=@userlogColoredText>75 mm</c
 75mm_rokgr_m22;rökgr m/22
 75mm_slpprj_m40b;slpprj m/40B
 75mm_slpgr_m39;slpgr m/39
-weapons/120mm_kan_Strv_121_user_cannon;120 mm kan Strv 121
-weapons/120mm_kan_Strv_122_user_cannon;120 mm kan Strv 122
+weapons/120mm_kan_Strv_121_user_cannon;<color=@userlogColoredText>120 mm</color> 12 cm kanon stridsvagn 121 <color=#ff6f00>CNN</color>
+weapons/120mm_kan_Strv_122_user_cannon;<color=@userlogColoredText>120 mm</color> 12 cm kanon stridsvagn 122 <color=#ff6f00>CNN</color>
 weapons/75mm_kan_m02_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm kanon m/02 <color=#ff6f00>CNN</color>
 75mm_sgr_m22_38;sgr m/22-38
 weapons/105mm_kan_m44_user_cannon;<color=@userlogColoredText>105 mm</color> 10,5 cm kanon m/44 <color=#ff6f00>CNN</color>
@@ -4128,8 +4128,8 @@ weapons/95mm_QF_Mk1_user_cannon;95 mm Howitzer, Tank №1, Mk. I
 95mm_shell_heat;Shell H.E./A.T.
 95mm_shell_mk1a_he;Shell Mk. Ia
 95mm_shell_se_mk1;Shell SE Mk,I
-weapons/105mm_L74_103C_user_cannon;105 mm L74 cannon
-weapons/105mm_L74_user_cannon;105 mm L74 cannon
+weapons/105mm_L74_103C_user_cannon;<color=@userlogColoredText>105 mm</color> 10,5 cm kanon stridsvagn 103 <color=#ff6f00>CNN</color>
+weapons/105mm_L74_user_cannon;<color=@userlogColoredText>105 mm</color> 10,5 cm kanon stridsvagn 103 <color=#ff6f00>CNN</color>
 weapons/120mm_L11A5_Mk3_user_cannon;120 mm L11A5 cannon
 weapons/120mm_L11A5_Mk3_Vickers_user_cannon;120 mm L11A5 cannon
 weapons/120mm_L11A5_user_cannon;120 mm L11A5 cannon

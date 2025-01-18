@@ -15,6 +15,8 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - **FV4030/3**
+    - **SB2C-5** (Japan / Thailand)
+    - **M46** (France)
     - **Aktiebolaget Landsverk** added as the manufacturer for the following vehicles:
         - **Lago I**
         - **strv m/42 EH**
@@ -23,6 +25,8 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **FV4030/3** renamed to **Shir 2**. The long name has been changed to **F.V.4030/3 | Shir 2**. "Shir 2" is written with the English spelling rather than a a transliterated form of شیر 2 with diacritics because the vehicle never actually made it to Iran and so only the British name, Shir 2, applies.
+    - **SB2C-5** (Japan / Thailand) renamed to **B.J.3**. The long name has been changed to **Curtiss-Wright Corporation | Ekhrụxng Bin Jomtī Bæb Thī 3**.
+    - The **M46**'s (France) long name has been changed to **Char moyen M46**.
     - **A-200** renamed to **A-200A**.
     - **A-200A** renamed to **A-200A (1995)**.
     - **T-26 (1933)** (China) renamed to **T-26 (1937)**. Thanks to Gszabi99 for informing me of this.
@@ -140,6 +144,7 @@ All dates are listed in DD-MM-YYYY format.
             - **Akan m/55** renamed to **akan m/55**. The long name has been changed to **30 mm automatkanon m/55**.
             - **Akan m/75** renamed to **akan m/75**. The long name has been changed to **30 mm automatkanon m/75**.
             - **Akan m/85** renamed to **akan m/85**. The long name has been changed to **27 mm automatkanon m/85**.
+            - **40 mm Akan m/70B cannon** renamed to **40 mm automatkanon m/70B**.
             - **37 mm kan m/38 cannon** renamed to **37 mm kanon m/38**.
             - **75 mm lvkan m/37 A cannon** renamed to **7,5 cm luftvärnskanon m/37A**.
             - **75 mm kan m/41 cannon** renamed to **7,5 cm kanon m/41**.
@@ -153,6 +158,14 @@ All dates are listed in DD-MM-YYYY format.
             - **75 mm kan Strv 74** renamed to **7,5 cm kanon stridsvagn 74**.
             - **155 mm kan m/60 cannon** renamed to **15,5 cm bandkanon 1**.
             - **90 mm kan Ikv 91** renamed to **9 cm kanon infanterikanonvagn 91**.
+            - **84 mm kan Strv 81** renamed to **8,4 cm kanon stridsvagn 81**.
+            - **105 mm kan Strv 101** renamed to **10,5 cm kanon stridsvagn 101**.
+            - **105 mm kan Strv 101** (the **strv 104**'s one) renamed to **10,5 cm kanon stridsvagn 104**.
+            - **105 mm kan Strv 101** (the **strv 105**'s one) renamed to **10,5 cm kanon stridsvagn 105**.
+            - **105 mm L74 cannon** renamed to **10,5 cm kanon stridsvagn 103**.
+            - **120 mm CTG cannon** renamed to **120 mm Compact Tank Gun**.
+            - **120 mm kan Strv 121** renamed to **12 cm kanon stridsvagn 121**.
+            - **120 mm kan Strv 122** renamed to **12 cm kanon stridsvagn 122**.
         - Fuel tanks:
             - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.

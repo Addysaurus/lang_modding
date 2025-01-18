@@ -85,6 +85,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **strv m/42 EH**'s long name has been changed to **Aktiebolaget Landsverk Lago IV | stridsvagn m/42 EH**.
     - The **strv m/42 TM (DT)**'s long name has been changed to **Aktiebolaget Landsverk Lago II | stridsvagn m/42 TM (Delat Torn)**.
     - The **M1A1AIM SA**'s mid distance name has been changed to **M1A1**.
+    - The **J11A (MLU)**'s long name has been changed to **J11 "Yìnglóng" (Mid-Life Update)**.
 
 ### Weaponry:
 

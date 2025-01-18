@@ -163,7 +163,7 @@ All dates are listed in DD-MM-YYYY format.
             - **105 mm kan Strv 101** (the **strv 104**'s one) renamed to **10,5 cm kanon stridsvagn 104**.
             - **105 mm kan Strv 101** (the **strv 105**'s one) renamed to **10,5 cm kanon stridsvagn 105**.
             - **105 mm L74 cannon** renamed to **10,5 cm kanon stridsvagn 103**.
-            - **120 mm CTG cannon** renamed to **120 mm Compact Tank Gun**.
+            - **120 mm CTG cannon** renamed to **RUAG Defence 120 mm Compact Tank Gun**.
             - **120 mm kan Strv 121** renamed to **12 cm kanon stridsvagn 121**.
             - **120 mm kan Strv 122** renamed to **12 cm kanon stridsvagn 122**.
         - Fuel tanks:
@@ -176,6 +176,7 @@ All dates are listed in DD-MM-YYYY format.
     - **12,70 LKk/42** renamed to **12,70 lkk/42**. The long name has been changed to **12,70 mm lentokonekivääri mallia 1942**.
     - The **3-K** has had its type tag corrected from **MG** to **CNN**.
     - The **M40A1** and **M40A1C** have had their type tags changed from **CNN** to **CNN-RCL** ("RCL" stands for "recoiless").
+    - **M-845** renamed to **Soltam Systems M-845**.
 
 ### Engines:
 

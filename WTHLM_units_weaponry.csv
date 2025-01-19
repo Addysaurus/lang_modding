@@ -354,11 +354,11 @@ weapons/il_380l_mk2_fire_bomb;Mk. 2 incendiary bomb
 weapons/il_380l_mk2_fire_bomb/short;Mk. 2
 weapons/it_250kg_napalm_aerea_559g1;Aerea 559G1 incendiary bomb
 weapons/it_250kg_napalm_aerea_559g1/short;Aerea 559G1
-weapons/sw_500kg_brandbomb_m58;500 kg Brandbomb m/58 incendiary bomb
-weapons/sw_500kg_brandbomb_m58/short;m/58
-weapons/us_250_lb_blu_10b;Bomb, 250lb, Fire, BLU-10/B <color=#ff6f00>BMB-NPM</color>
+weapons/sw_500kg_brandbomb_m58;"<color=@userlogColoredText>510 kg</color> 500 kg brandbomb m/58 ""Norma"" <color=#ff6f00>BMB-NPM</color>"
+weapons/sw_500kg_brandbomb_m58/short;brandb m/58
+weapons/us_250_lb_blu_10b;<color=@userlogColoredText>113.4 kg</color> Bomb, 250lb, Fire, BLU-10/B <color=#ff6f00>BMB-NPM</color>
 weapons/us_250_lb_blu_10b/short;BLU-10/B
-weapons/us_500_lb_blu_23b;Bomb, 500lb, Fire, BLU-10/B <color=#ff6f00>BMB-NPM</color>
+weapons/us_500_lb_blu_23b;<color=@userlogColoredText>222.26 kg</color> Bomb, 500lb, Fire, BLU-10/B <color=#ff6f00>BMB-NPM</color>
 weapons/us_500_lb_blu_23b/short;BLU-23/B
 weapons/us_750_lb_m116a2;<color=@userlogColoredText>310.7 kg</color> Bomb, 750lb, Fire, M116A2 <color=#ff6f00>BMB-NPM</color>
 weapons/us_750_lb_m116a2/short;M116A2
@@ -3926,30 +3926,30 @@ weapons/swd_rb24j;robot 24J <color=#ff6f00>AAM-IR</color>
 weapons/swd_rb24j/short;rb 24J
 weapons/swd_rb24j_default;robot 24J <color=#ff6f00>AAM-IR</color>
 weapons/swd_rb24j_default/short;rb 24J
-weapons/swd_120kg_sb_m71;120 kg m/71 bomb
-weapons/swd_120kg_sb_m71/short;m/71
-weapons/swd_120kg_sb_m71_retarded;120 kg m/71 bomb
-weapons/swd_120kg_sb_m71_retarded/short;m/71
-weapons/swd_120kg_sb_m61;120 kg sb m/61 bomb
-weapons/swd_120kg_sb_m61/short;m/61
-weapons/swd_50kg_sb_m37a;50 kg mb m/37AT bomb
-weapons/swd_50kg_sb_m37a/short;m/37a
-weapons/swd_50kg_sb_m42;50 kg sb m/42 bomb
-weapons/swd_50kg_sb_m42/short;m/42
-weapons/swd_50kg_sb_m47;50 kg sb m/47 bomb
-weapons/swd_50kg_sb_m47/short;m/47
-weapons/swd_250kg_minb_m37b;250 kg mb m/37b bomb
-weapons/swd_250kg_minb_m37b/short;m/37b
-weapons/swd_250kg_minb_m40;250 kg mb m/40 bomb
-weapons/swd_250kg_minb_m40/short;m/40
-weapons/swd_250kg_minb_m50;250 kg mb m/50 bomb
-weapons/swd_250kg_minb_m50/short;m/50
-weapons/swd_500kg_minb_m41;500 kg mb m/41 bomb
-weapons/swd_500kg_minb_m41/short;m/41
-weapons/swd_500kg_minb_m56;500 kg mb m/56 bomb
-weapons/swd_500kg_minb_m56/short;m/56
-weapons/swd_600kg_minb_m50;600 kg mb m/50 bomb
-weapons/swd_600kg_minb_m50/short;m/50
+weapons/swd_120kg_sb_m71;"<color=@userlogColoredText>120 kg</color> 120 kg sprängbomb m/71 ""Virgo"" <color=#ff6f00>BMB</color>"
+weapons/swd_120kg_sb_m71/short;sb m/71
+weapons/swd_120kg_sb_m71_retarded;<color=@userlogColoredText>120 kg</color> 120 kg sprängbomb m/71 (bombfallskärm m/61) <color=#ff6f00>BMB</color>
+weapons/swd_120kg_sb_m71_retarded/short;sb m/71 (bfask m/61)
+weapons/swd_120kg_sb_m61;<color=@userlogColoredText>120 kg</color> 120 kg sprängbomb m/61 <color=#ff6f00>BMB</color>
+weapons/swd_120kg_sb_m61/short;sb m/61
+weapons/swd_50kg_sb_m37a;<color=@userlogColoredText>59 kg</color> 50 kg minbomb m/37AT <color=#ff6f00>BMB</color>
+weapons/swd_50kg_sb_m37a/short;mb m/37AT
+weapons/swd_50kg_sb_m42;<color=@userlogColoredText>50 kg</color> 50 kg sprängbomb m/42 <color=#ff6f00>BMB</color>
+weapons/swd_50kg_sb_m42/short;sb m/42
+weapons/swd_50kg_sb_m47;<color=@userlogColoredText>50 kg</color> 50 kg sprängbomb m/47 <color=#ff6f00>BMB</color>
+weapons/swd_50kg_sb_m47/short;sb m/47
+weapons/swd_250kg_minb_m37b;<color=@userlogColoredText>252 kg</color> 250 kg minbomb m/37BT <color=#ff6f00>BMB</color>
+weapons/swd_250kg_minb_m37b/short;mb m/37BT
+weapons/swd_250kg_minb_m40;<color=@userlogColoredText>230 kg</color> 250 kg minbomb m/40 <color=#ff6f00>BMB</color>
+weapons/swd_250kg_minb_m40/short;mb m/40
+weapons/swd_250kg_minb_m50;<color=@userlogColoredText>272.4 kg</color> 250 kg minbomb m/50 <color=#ff6f00>BMB</color>
+weapons/swd_250kg_minb_m50/short;mb m/50
+weapons/swd_500kg_minb_m41;<color=@userlogColoredText>513 kg</color> 500 kg minbomb m/41 <color=#ff6f00>BMB</color>
+weapons/swd_500kg_minb_m41/short;mb m/41
+weapons/swd_500kg_minb_m56;"<color=@userlogColoredText>500 kg</color> 500 kg minbomb m/56 ""Lyra"" <color=#ff6f00>BMB</color>"
+weapons/swd_500kg_minb_m56/short;mb m/56
+weapons/swd_600kg_minb_m50;"<color=@userlogColoredText>614.4 kg</color> 600 kg minbomb m/50 ""Hercules"" <color=#ff6f00>BMB</color>"
+weapons/swd_600kg_minb_m50/short;mb m/50
 weapons/fi_50kg_1938;50 Kg Model 1938 bomb
 weapons/fi_50kg_1938/short;50 Kg Model 1938
 weapons/fi_100kg_1938;100 Kg Model 1938 bomb

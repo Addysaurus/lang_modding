@@ -90,8 +90,13 @@ All dates are listed in DD-MM-YYYY format.
     - **JF-17A Block 1** renamed to **JF-17 Blāk I**. The long name has been changed to **Chéngdū Phējī Udyoga Samūha + Pākistān Aironāṭikal Kampḷiks | JF-17 Blāk I Thaṇḍar**.
     - **Al-Khalid 1** renamed to **al-Khālid I**. The long name has been changed to **Zhōngguó Běifāng Gōngyè Gōngsī / Hēvī Inḍasṭrīz Ṭaksalā | al-Khālid I Ṭaink**.
     - **strf 9040A (Rb 56)** renamed to **strf 9040A (rbs 56)**. The long name has been changed to **stridsfordon 9040A (robotsystem 56)**.
+    - The **Namer Ṣariaḥ**'s long name has been changed to **Nagmaš Merkavah Ṣariaḥ**.
 
 ### Weaponry:
+
+- #### Additions:
+
+    - The **BLU-10/B** and **BLU-23/B** have had their missing mass tags added.
 
 - #### Changes:
 
@@ -171,6 +176,20 @@ All dates are listed in DD-MM-YYYY format.
             - **120 mm CTG cannon** renamed to **RUAG Defence 120 mm Compact Tank Gun**.
             - **120 mm kan Strv 121** renamed to **12 cm kanon stridsvagn 121**.
             - **120 mm kan Strv 122** renamed to **12 cm kanon stridsvagn 122**.
+        - Bombs:
+            - **m/37a** renamed to **mb m/37AT**. The long name has been changed to **50 kg minbomb m/37AT**.
+            - **m/42** renamed to **sb m/42**. The long name has been changed to **50 kg sprängbomb m/42**.
+            - **m/47** renamed to **sb m/47**. The long name has been changed to **50 kg sprängbomb m/47**.
+            - **m/61** renamed to **sb m/61**. The long name has been changed to **120 kg sprängbomb m/61**.
+            - **m/71** renamed to **sb m/71**. The long name has been changed to **120 kg sprängbomb m/71 "Virgo"**.
+            - **m/71** (the high drag one) renamed to **sb m/71 (bfask m/61)**. The long name has been changed to **120 kg sprängbomb m/71 (bombfallskärm m/61)**.
+            - **m/37b** renamed to **mb m/37BT**. The long name has been changed to **250 kg minbomb m/37BT**. This bomb is not used on anything ingame and is just in the files.
+            - **m/40** renamed to **mb m/40**. The long name has been changed to **250 kg minbomb m/40**.
+            - **m/50** renamed to **mb m/50**. The long name has been changed to **250 kg minbomb m/50**.
+            - **m/41** renamed to **mb m/41**. The long name has been changed to **500 kg minbomb m/41**.
+            - **m/56** renamed to **mb m/56**. The long name has been changed to **500 kg minbomb m/56 "Lyra"**.
+            - **m/50** renamed to **mb m/50**. The long name has been changed to **600 kg minbomb m/50 "Hercules"**.
+            - **m/58** renamed to **brandb m/50**. The long name has been changed to **500 kg brandbomb m/58 "Norma"**.
         - Fuel tanks:
             - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.

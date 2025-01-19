@@ -27,6 +27,7 @@ All dates are listed in DD-MM-YYYY format.
     - **FV4030/3** renamed to **Shir 2**. The long name has been changed to **F.V.4030/3 | Shir 2**. "Shir 2" is written with the English spelling rather than a a transliterated form of شیر 2 with diacritics because the vehicle never actually made it to Iran and so only the British name, Shir 2, applies.
     - **SB2C-5** (Japan / Thailand) renamed to **B.J.3**. The long name has been changed to **Curtiss-Wright Corporation | Ekhrụxng Bin Jomtī Bæb Thī 3**.
     - The **M46**'s (France) long name has been changed to **Char moyen M46**.
+    = Manufacturer **China North Industries Corperation** transliterated to **Zhōngguó Běifāng Gōngyè Gōngsī**
     - **A-200** renamed to **A-200A**.
     - **A-200A** renamed to **A-200A (1995)**.
     - **T-26 (1933)** (China) renamed to **T-26 (1937)**. Thanks to Gszabi99 for informing me of this.
@@ -85,8 +86,10 @@ All dates are listed in DD-MM-YYYY format.
     - The **strv m/42 EH**'s long name has been changed to **Aktiebolaget Landsverk Lago IV | stridsvagn m/42 EH**.
     - The **strv m/42 TM (DT)**'s long name has been changed to **Aktiebolaget Landsverk Lago II | stridsvagn m/42 TM (Delat Torn)**.
     - The **M1A1AIM SA**'s mid distance name has been changed to **M1A1**.
-    - The **J11A (MLU)**'s long name has been changed to **J11 "Yìnglóng" (Mid-Life Update)**.
+    - The **J11A (MLU)**'s long name has been changed to **J11 "Yìng Lóng" (Mid-Life Update)**.
     - **JF-17A Block 1** renamed to **JF-17 Blāk I**. The long name has been changed to **Chéngdū Phējī Udyoga Samūha + Pākistān Aironāṭikal Kampḷiks | JF-17 Blāk I Thaṇḍar**.
+    - **Al-Khalid 1** renamed to **al-Khālid I**. The long name has been changed to **Zhōngguó Běifāng Gōngyè Gōngsī / Hēvī Inḍasṭrīz Ṭaksalā | al-Khālid I Ṭaink**.
+    - **strf 9040A (Rb 56)** renamed to **strf 9040A (rbs 56)**. The long name has been changed to **stridsfordon 9040A (robotsystem 56)**.
 
 ### Weaponry:
 

@@ -43,7 +43,7 @@ All dates are listed in DD-MM-YYYY format.
         - **15 Ryn.tyk.psv./BT42** renamed to **15 ryn.tyk.psv./BT42**.
         - **25 Psv PZ IV** renamed to **25 psv PZ IV**.
         - **26 Psv T 34 B** renamed to **26 psv T 34 B**.
-        = **31 Psv T 34/85** renamed to **31 psv T 34/85**.
+        - **31 Psv T 34/85** renamed to **31 psv T 34/85**.
         - **44 Psv KW 1 A** renamed to **44 psv KW 1 A**. The long name has been changed to **Ps. 271 | 44 tonnin panssarivaunu KW 1 A "Klimi"**.
         - **44 Psv KW 1 B** renamed to **44 psv KW 1 B**.
         - **ItO 90M ohjusvaunu** renamed to **ito 90M ohjusvaunu**. The long name has been changed to **Ps. 477 | ilmatorjuntaohjus 90M ohjusvaunu XA-181**. Its long distance tag has been changed to **SPAAM**.

@@ -14,7 +14,7 @@ Below, you can learn how to install the mod. Please note that this mod is meant 
 
 ## The mod team
 
-In addition to me (WarTinder), the mod team also has 2 other members: Theren and Odican. Both have been extremely helpful and I would like to thank them greatly.
+In addition to me (WarTinder), the mod team also has 3 other members: Theren, Odicanm, and Romacotta. All have been extremely helpful and I would like to thank them greatly.
 
 ## Installation instructions
 

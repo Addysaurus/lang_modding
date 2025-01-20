@@ -171,34 +171,34 @@ modification/LaGG_dz-40;DZ-40
 modification/LaGG_dz-40/desc;Allows installation of 50 kg or heavier bombs.
 modification/C5;S-5K
 modification/C5/desc;Allows installation of S-5K unguided rockets.
-modification/swd_j29_75mm_m55;m/55
-modification/swd_j29_75mm_m55/desc;Allows installation of m/55 unguided rockets.
-modification/swd_j29_145mm_m49a;m/49B
-modification/swd_j29_145mm_m49a/desc;Allows installation of m/49B unguided rockets.
-modification/swd_j29_150mm_m51;m/51
-modification/swd_j29_150mm_m51/desc;Allows installation of m/51 unguided rockets.
-modification/swd_j29_180mm_m49;m/49
-modification/swd_j29_180mm_m49/desc;Allows installation of m/49 unguided rockets.
-modification/swd_aj37_120kg_m71;m/71
-modification/swd_aj37_120kg_m71/desc;Allows installation of 120 kg bombs.
+modification/swd_j29_75mm_m55;srak m/55
+modification/swd_j29_75mm_m55/desc;"Allows installation of 7,5 cm sprängraket m/55 ""Frida"" unguided rockets."
+modification/swd_j29_145mm_m49a;psrak m/49B
+modification/swd_j29_145mm_m49a/desc;Allows installation of 14,5 cm pansarsprängraket m/49B unguided rockets.
+modification/swd_j29_150mm_m51;srak m/51
+modification/swd_j29_150mm_m51/desc;Allows installation of 15 cm sprängraket m/51 unguided rockets.
+modification/swd_j29_180mm_m49;hprak m/49
+modification/swd_j29_180mm_m49/desc;Allows installation of 18 cm halvpansarraket m/49B unguided rockets.
+modification/swd_aj37_120kg_m71;sb m/71 / 71 (bfask m/61)
+modification/swd_aj37_120kg_m71/desc;"Allows installation of 120 kg sprängbomb m/71 ""Virgo"" and 120 kg sprängbomb m/71 ""Virgo"" (bombfallskärm m/61) bombs."
 modification/swd_rb75;rb 75
 modification/rswd_rb75/desc;Allows installation of robot 75 guided missiles.
 modification/swd_rb75t;rb 75T
 modification/swd_rb75t/desc;Allows the installation of robot 75T guided missiles.
-modification/swe_minb_m37a/desc;Allows installation of 50 kg bombs.
-modification/swe_minb_m37a;m/37a
-modification/swe_minb_m61/desc;Allows installation of 120 kg bombs.
-modification/swe_minb_m61;m/61
-modification/swe_minb_m40/desc;Allows installation of 250 kg bombs.
-modification/swe_minb_m40;m/50(250)
-modification/swe_minb_m41/desc;Allows installation of 500 kg bombs.
-modification/swe_minb_m41;m/56
+modification/swe_minb_m37a/desc;Allows installation of 50 kg minbomb m/37AT bombs.
+modification/swe_minb_m37a;mb m/37AT
+modification/swe_minb_m61/desc;Allows installation of 120 kg sprängbomb m/61 bombs.
+modification/swe_minb_m61;sb m/61
+modification/swe_minb_m40/desc;Allows installation of 250 kg minbomb m/40 bombs or 250 kg minbomb m/50 bombs.
+modification/swe_minb_m40;mb m/40 / 50
+modification/swe_minb_m41/desc;"Allows installation of 500 kg minbomb m/41 bombs or 500 kg minbomb m/56 ""Lyra"" bombs."
+modification/swe_minb_m41;mb m/41 / 56
 modification/swe_minb_m50/desc;Allows installation of 600 kg bombs.
-modification/swe_minb_m50;m/50(600)
-modification/swe_torp_m41;m/41
-modification/swe_torp_m41/desc;Allows installation of torpedo.
-modification/swe_torp_t18b_1;m/38
-modification/swe_torp_t18b_1/desc;Allows installation of torpedo.
+modification/swe_minb_m50;mb m/50
+modification/swe_torp_m41;torp m/41
+modification/swe_torp_m41/desc;Allows installation of a 45 cm torped m/41 torpedo.
+modification/swe_torp_t18b_1;torp m/38
+modification/swe_torp_t18b_1/desc;Allows installation of a 45 cm torped m/38 torpedo.
 modification/fin_50kg/desc;Allows installation of 50 kg bombs.
 modification/fin_50kg;50 kg
 modification/fin_100kg/desc;Allows installation of 100 kg bombs.
@@ -2159,18 +2159,18 @@ modification/jp_jlau_3a/desc;Allows installation JLAU-3/A rocket pods mounting o
 modification/jp_jlau_3a;JLAU-3/A
 modification/mig_15bis_ish_c1of/desc;Allows installation of TRS-212 unguided rockets.
 modification/mig_15bis_ish_c1of;ORO-212
-modification/swe_m49_56;M/49/56
-modification/swe_m49_56/desc;Allows installation of m/49/56 unguided rockets.
-modification/swe_m57b;m/57
-modification/swe_m57b/desc;Allows installation of m/57 unguided rockets.
-modification/swe_m56d;m/56d
-modification/swe_m56d/desc;Allows installation of m/56d unguided rockets.
+modification/swe_m49_56;psrak m/49/56
+modification/swe_m49_56/desc;Allows installation of 14,5 cm pansarsprängraket m/49/56 unguided rockets.
+modification/swe_m57b;srak m/57B
+modification/swe_m57b/desc;"Allows installation of 7,5 cm sprängraket m/57B ""Gerda"" unguided rockets."
+modification/swe_m56d;srak m/56D
+modification/swe_m56d/desc;Allows installation of 13,5 cm sprängraket m/56D unguided rockets.
 modification/swe_rb24/desc;Allows installation of robot 24 air-to-air missiles.
 modification/swe_rb24;rb 24
 modification/swe_rb24j/desc;Allows installation of robot 24J air-to-air missiles.
 modification/swe_rb24j;rb 24J
-modification/swe_135mm_m70b;m/70
-modification/swe_135mm_m70b/desc;Allows installation of m/70 unguided rockets.
+modification/swe_135mm_m70b;psrak m/70 (ö hk sar m/70)
+modification/swe_135mm_m70b/desc;"Allows installation of 13,5 cm pansarsprängraket m/70 ""Moses"" (ögonblickligt högkänsligt spetsanslagsrör m/70) unguided rockets."
 modification/swe_rb71/desc;Allows installation of robot 71 air-to-air missiles.
 modification/swe_rb71;rb 71
 modification/swd_rb99/desc;Allows the installation of robot 99 air-to-air missiles.
@@ -2409,8 +2409,8 @@ modification/flamm_250/desc;Allows installation of Flamm C 250 fire bombs.
 modification/flamm_250;Flamm C 250
 modification/flamm_500/desc;Allows installation of Flamm C 500 fire bombs.
 modification/flamm_500;Flamm C 500
-modification/brandbomb_m58/desc;Allows installation of m/58 fire bombs.
-modification/brandbomb_m58;m/58
+modification/brandbomb_m58/desc;"Allows installation of 500 kg brandbomb m/58 ""Norma"" incendiary bombs."
+modification/brandbomb_m58;brandb m/58
 modification/aerea_559g/desc;Allows installation of Aerea 559G1 fire bombs.
 modification/aerea_559g;559G1
 modification/us_mk78_mod0/desc;Allows installation of 750 lb Mk 78 Mod 0 napalm bombs.

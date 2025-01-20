@@ -102,6 +102,15 @@ All dates are listed in DD-MM-YYYY format.
 
     - Swedish weapon rework:
         - Every single weapon listed here has had its proper tags added (mass, type, volume, caliber, etc.). All modifications have been adjusted accordingly.
+        - Rockets:
+            - **m/55** renamed to **srak m/55**. The long name has been changed to **7,5 cm sprängraket m/55 "Frida"**.
+            - **m/57B** renamed to **srak m/57B**. The long name has been changed to **7,5 cm sprängraket m/57B "Gerda"**.
+            - **m/56D** renamed to **srak m/56D**. The long name has been changed to **13,5 cm sprängraket m/56D**.
+            - **m/70** renamed to **psrak m/70 (ö hk sar m/70)**. The long name has been changed to **13,5 cm pansarsprängraket m/70 "Moses" (ögonblickligt högkänsligt spetsanslagsrör m/70)**.
+            - **m/49B** renamed to **psrak m/49B**. The long name has been changed to **14,5 cm pansarsprängraket m/49B**.
+            - **m/49/56** renamed to **psrak m/49/56**. The long name has been changed to **14,5 cm pansarsprängraket m/49/56**.
+            - **m/51** renamed to **srak m/51**. The long name has been changed to **15 cm sprängraket m/51**.
+            - **m/49** renamed to **hprak m/49**. The long name has been changed to **18 cm halvpansarraket m/49B**.
         - Missiles:
             - **Rb 05A** renamed to **rb 05A**. The long name has been changed to **robot 05A**.
             - **Rb 24** renamed to **rb 24**. The long name has been changed to **robot 24**.
@@ -109,9 +118,9 @@ All dates are listed in DD-MM-YYYY format.
             - **Rb 52** renamed to **rb 52A**. The long name has been changed to **robot 52A**.
             - **Rb 53** renamed to **rb 53**. The long name has been changed to **robot 53 Bantam**.
             - **Rb 55 A** renamed to **robot 55A**. This missile is not used ingame but is in the files.
-            - **Rb 55 B** renamed to **rb 55B**. The long name has been changed to **HeliTOW | robot 55B**.
+            - **Rb 55 B** renamed to **rb 55B**. The long name has been changed to **Saab HeliTOW | robot 55B**.
             - **Rb 55 B** (the ATGM) renamed to **robot 55B**.
-            - **Rb 55 C** renamed to **rb 55C**. The long name has been changed to **HeliTOW | robot 55C**.
+            - **Rb 55 C** renamed to **rb 55C**. The long name has been changed to **Saab HeliTOW | robot 55C**.
             - **Rb 55 C** (the ATGM) renamed to **robot 55C**.
             - **Rb 56** renamed to **robot 56A BILL I**. This missile is not used ingame but is in the files.
             - **Rb 56 B** renamed to **rb 56B**. The long name has been changed to **robot 56B BILL II**.
@@ -182,7 +191,7 @@ All dates are listed in DD-MM-YYYY format.
             - **m/47** renamed to **sb m/47**. The long name has been changed to **50 kg sprängbomb m/47**.
             - **m/61** renamed to **sb m/61**. The long name has been changed to **120 kg sprängbomb m/61**.
             - **m/71** renamed to **sb m/71**. The long name has been changed to **120 kg sprängbomb m/71 "Virgo"**.
-            - **m/71** (the high drag one) renamed to **sb m/71 (bfask m/61)**. The long name has been changed to **120 kg sprängbomb m/71 (bombfallskärm m/61)**.
+            - **m/71** (the high drag one) renamed to **sb m/71 (bfask m/61)**. The long name has been changed to **120 kg sprängbomb m/71 "Virgo" (bombfallskärm m/61)**.
             - **m/37b** renamed to **mb m/37BT**. The long name has been changed to **250 kg minbomb m/37BT**. This bomb is not used on anything ingame and is just in the files.
             - **m/40** renamed to **mb m/40**. The long name has been changed to **250 kg minbomb m/40**.
             - **m/50** renamed to **mb m/50**. The long name has been changed to **250 kg minbomb m/50**.
@@ -190,6 +199,10 @@ All dates are listed in DD-MM-YYYY format.
             - **m/56** renamed to **mb m/56**. The long name has been changed to **500 kg minbomb m/56 "Lyra"**.
             - **m/50** renamed to **mb m/50**. The long name has been changed to **600 kg minbomb m/50 "Hercules"**.
             - **m/58** renamed to **brandb m/50**. The long name has been changed to **500 kg brandbomb m/58 "Norma"**.
+        - Torpedoes:
+            - **m/36** renamed to **torp m/36**. The long name has been changed to **45 cm torped m/36**. This torpedo is not used on anything ingame and is just in the files.
+            - **m/38** renamed to **torp m/38**. The long name has been changed to **45 cm torped m/38**.
+            - **m/41** renamed to **torp m/41**. The long name has been changed to **45 cm torped m/41**.
         - Fuel tanks:
             - **Drop tank (1250 L)** renamed to **X-tank**.
     - **AGM-130A-2** renamed to **AGM-130A-12**. Also the name actually displays now. Previously it didn't because Gaijin just changed the file name from the dev server to the live server because they replaced it with a new variant. The modification has been corrected.

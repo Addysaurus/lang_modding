@@ -29,7 +29,7 @@ All dates are listed in DD-MM-YYYY format.
     - **FV4030/3** renamed to **Shir 2**. The long name has been changed to **F.V.4030/3 | Shir 2**. "Shir 2" is written with the English spelling rather than a a transliterated form of شیر 2 with diacritics because the vehicle never actually made it to Iran and so only the British name, Shir 2, applies.
     - **SB2C-5** (Japan / Thailand) renamed to **B.J.3**. The long name has been changed to **Curtiss-Wright Corporation | Ekhrụxng Bin Jomtī Bæb Thī 3**.
     - The **M46**'s (France) long name has been changed to **Char moyen M46**.
-    = Manufacturer **China North Industries Corperation** transliterated to **Zhōngguó Běifāng Gōngyè Gōngsī**
+    - Manufacturer **China North Industries Corperation** transliterated to **Zhōngguó Běifāng Gōngyè Gōngsī**
     - **A-200** renamed to **A-200A**.
     - **A-200A** renamed to **A-200A (1995)**.
     - **T-26 (1933)** (China) renamed to **T-26 (1937)**. Thanks to Gszabi99 for informing me of this.

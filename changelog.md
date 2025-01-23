@@ -10,6 +10,12 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.11.02 - UNRELEASED
 
+### Vehicles:
+
+- #### Changes:
+
+    - All manufacturers have been reworked. Vehicles with a manufacturer designation no longer have the manufacturer repeated and instead have the manufacturer's name directly attached to the manufacturer designation. The "/" character is now only used to separate upgrades and kit builds, while joint ventures are now denoted by the "+" character being used to separate the manufacturers. The full list of vehicles affected is not listed here because it would be hundreds of lines long.
+
 ## 1.11.01 - 20-01-2025
 
 ### Vehicles:

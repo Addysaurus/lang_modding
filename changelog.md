@@ -16,6 +16,11 @@ All dates are listed in DD-MM-YYYY format.
 
     - All manufacturers have been reworked. Vehicles with a manufacturer designation no longer have the manufacturer repeated and instead have the manufacturer's name directly attached to the manufacturer designation. The "/" character is now only used to separate upgrades and kit builds, while joint ventures are now denoted by the "+" character being used to separate the manufacturers. The full list of vehicles affected is not listed here because it would be hundreds of lines long.
     - The **T-80UD (478DU1)**'s (China / Pakistan) long name has been changed to **Ob'êkt 478DU1 | T-80UD Ṭaink**.
+    - **T-55AMD-1** renamed to **T-55AD-1**. The long name has been changed to **Ob"yekt 155AD-1 | T-55AD-1**.
+    - The **hkp 2**'s long name has been changed to **Sud-Aviation | helikopter 2**.
+    - The **hkp 3C**'s long name has been changed to **Agusta 204B | helikopter 3C**.
+    - The **hkp 9A**'s long name has been changed to **Messerschmitt-Bölkow-Blohm | helikopter 9A**.
+    - The **hkp 9A (HeliTOW)**'s long name has been changed to **Messerschmitt-Bölkow-Blohm / Försökscentralen | helikopter 9A (HeliTOW)**.
 
 ## 1.11.01 - 20-01-2025
 

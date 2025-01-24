@@ -1,6 +1,7 @@
 <ID|readonly|noverify>;<English>
 //FOLDERS
 shop/group/ki-10_group;キ10-I / II / I (第1戦隊) / II (第77戦隊)
+shop/group/ki-43_group;キ43-I丙 / II甲
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
 f1m2_0;三菱重工業 | 0式観測機 | F1M2
@@ -31,18 +32,22 @@ ki_10_2_commander_0;川崎航空機工業 | 95式戦闘機2型 | キ10-II (飛�
 ki_10_2_commander_1;キ10-II
 ki_10_2_commander_2;キ10
 ki-27_otsu_shop;キ27乙
-ki-27_otsu_0;中島飛行機株式会社 | 97式戦闘機乙 | キ27乙
+ki-27_otsu_0;中島飛行機 | 97式戦闘機乙 | キ27乙
 ki-27_otsu_1;キ27乙
 ki-27_otsu_2;キ27
 ki-27_otsu_ep_shop;キ27乙 (第4戦隊)
-ki-27_otsu_ep_0;中島飛行機株式会社 | 97式戦闘機乙 | キ27乙 (飛行第4戦隊)
+ki-27_otsu_ep_0;中島飛行機 | 97式戦闘機乙 | キ27乙 (飛行第4戦隊)
 ki-27_otsu_ep_1;キ27乙
 ki-27_otsu_ep_2;キ27
 ki_43_1_shop;キ43-I丙
-ki_43_1_0;中島飛行機株式会社 | 1式戦闘機1型丙 | キ43-I丙「隼」
+ki_43_1_0;中島飛行機 | 1式戦闘機1型丙 | キ43-I丙「隼」
 ki_43_1_1;キ43-I
 ki_43_1_2;キ43
 ki_43_2_shop;キ43-II甲
-ki_43_2_0;中島飛行機株式会社 | 1式戦闘機2型甲 | キ43-II甲「隼」
-ki_43_2_1;キ43-II甲
+ki_43_2_0;中島飛行機 | 1式戦闘機2型甲 | キ43-II甲「隼」
+ki_43_2_1;キ43-II
 ki_43_2_2;キ43
+ki_43_3_otsu_shop;キ43-III乙
+ki_43_3_otsu_0;立川飛行機 | 1式戦闘機3型乙 | キ43-III乙「隼」
+ki_43_3_otsu_1;キ43-III
+ki_43_3_otsu_2;キ43

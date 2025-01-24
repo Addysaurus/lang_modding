@@ -4016,7 +4016,7 @@ Note: I wanted to push this update in a later and more complete state, but I'm a
         - **M4A4 (China)**
         - **M4A4 (1st PTG)**
         - **M4A1 (75) W**
-        - **M4A3E8 (76) W HVSS (Japan)**
+        - **M4A3E8 (76) W HVSS** (Japan)
     - The following vehicles have been changed to use the **Tank, Heavy** nomenclature in their long name:
         - **M6A1**
         - **M6A2E1-1**

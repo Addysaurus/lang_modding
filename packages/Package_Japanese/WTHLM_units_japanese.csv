@@ -1,13 +1,48 @@
 <ID|readonly|noverify>;<English>
+//FOLDERS
+shop/group/ki-10_group;キ10-I / II / I (第1戦隊) / II (第77戦隊)
+//AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
-f1m2_0;0式観測機 | F1M2
+f1m2_0;三菱重工業 | 0式観測機 | F1M2
 f1m2_1;F1M2
 f1m2_2;F1M
 a5m4_shop;A5M4
-a5m4_0;96式4号艦上戦闘機4型 | A5M4
+a5m4_0;三菱重工業 | 96式4号艦上戦闘機4型 | A5M4
 a5m4_1;A5M4
 a5m4_2;A5M4
 a5m4_hagiri_shop;羽切のA5M4
-a5m4_hagiri_0;羽切松雄の96式4号艦上戦闘機4型 | A5M4
+a5m4_hagiri_0;三菱重工業 | 羽切松雄の96式4号艦上戦闘機4型 | A5M4
 a5m4_hagiri_1;A5M4
 a5m4_hagiri_2;A5M
+ki_10_1_shop;キ10-I
+ki_10_1_0;川崎航空機工業 | 95式戦闘機1型 | キ10-I
+ki_10_1_1;キ10-I
+ki_10_1_2;キ10
+ki_10_1_commander_shop;キ10-I (第1戦隊)
+ki_10_1_commander_0;川崎航空機工業 | 95式戦闘機1型 | キ10-I (飛行第1戦隊)
+ki_10_1_commander_1;キ10-I
+ki_10_1_commander_2;キ10
+ki_10_2_shop;キ10-II
+ki_10_2_0;川崎航空機工業 | 95式戦闘機2型 | キ10-II
+ki_10_2_1;キ10-II
+ki_10_2_2;キ10
+ki_10_2_commander_shop;キ10-II (第77戦隊)
+ki_10_2_commander_0;川崎航空機工業 | 95式戦闘機2型 | キ10-II (飛行第77戦隊)
+ki_10_2_commander_1;キ10-II
+ki_10_2_commander_2;キ10
+ki-27_otsu_shop;キ27乙
+ki-27_otsu_0;中島飛行機株式会社 | 97式戦闘機乙 | キ27乙
+ki-27_otsu_1;キ27乙
+ki-27_otsu_2;キ27
+ki-27_otsu_ep_shop;キ27乙 (第4戦隊)
+ki-27_otsu_ep_0;中島飛行機株式会社 | 97式戦闘機乙 | キ27乙 (飛行第4戦隊)
+ki-27_otsu_ep_1;キ27乙
+ki-27_otsu_ep_2;キ27
+ki_43_1_shop;キ43-I丙
+ki_43_1_0;中島飛行機株式会社 | 1式戦闘機1型丙 | キ43-I丙「隼」
+ki_43_1_1;キ43-I
+ki_43_1_2;キ43
+ki_43_2_shop;キ43-II甲
+ki_43_2_0;中島飛行機株式会社 | 1式戦闘機2型甲 | キ43-II甲「隼」
+ki_43_2_1;キ43-II甲
+ki_43_2_2;キ43

@@ -4,6 +4,12 @@ shop/group/ki-10_group;キ10-I / II / I (第1戦隊) / II (第77戦隊)
 shop/group/ki-43_group;キ43-I丙 / II甲
 shop/group/ki-45_eraly_group;キ45改丙 (丁) / 乙
 shop/group/ki-45_group;キ45改甲 / 丙
+shop/group/b6n_group;B6N2 / 2甲
+shop/group/a6m2_n1k1_group;A6M2-N / N1K1
+shop/group/a6m2_group;A6M2 (11型) / (21型)
+shop/group/a6m3_mod22_group;A6M3 (32型) / (22型) / 甲
+shop/group/a6m5_group;A6M5乙 / 丙
+shop/group/n1k2_group;N1K1-J / 2-J / 2-J甲
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
 f1m2_0;三菱重工業 | 0式観測機 | F1M2
@@ -113,3 +119,84 @@ ki_21_1hei_shop;キ21-I丙
 ki_21_1hei_0;三菱重工業 | 97式重爆撃機1型丙 | キ21-I丙
 ki_21_1hei_1;キ21-I
 ki_21_1hei_2;キ21
+h6k4_shop;H6K4
+h6k4_0;川西航空機 | 97式飛行艇22型 | H6K4
+h6k4_1;H6K4
+h6k4_2;H6K
+//AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+a6m2_n_zero_shop;A6M2-N
+a6m2_n_zero_0;中島飛行機 | 2式水上戦闘機 | A6M2-N
+a6m2_n_zero_1;A6M2-N
+a6m2_n_zero_2;A6M
+a6m2_mod11_shop;A6M2 (11型)
+a6m2_mod11_0;三菱重工業 | 0式艦上戦闘機11型 | A6M2「零戦」
+a6m2_mod11_1;A6M2
+a6m2_mod11_2;A6M
+a6m2_zero_shop;A6M2 (21型)
+a6m2_zero_0;三菱重工業 | 0式艦上戦闘機21型 | A6M2「零戦」
+a6m2_zero_1;A6M2
+a6m2_zero_2;A6M
+a6m3_zero_shop;A6M3 (32型)
+a6m3_zero_0;三菱重工業 | 0式艦上戦闘機32型 | A6M3「零戦」
+a6m3_zero_1;A6M3
+a6m3_zero_2;A6M
+a6m3_mod22_shop;A6M3 (22型)
+a6m3_mod22_0;三菱重工業 | 0式艦上戦闘機22型 | A6M3「零戦」
+a6m3_mod22_1;A6M3
+a6m3_mod22_2;A6M
+a6m3_mod22ko_shop;A6M3甲
+a6m3_mod22ko_0;三菱重工業 | 0式艦上戦闘機22型甲 | A6M3甲「零戦」
+a6m3_mod22ko_1;A6M3
+a6m3_mod22ko_2;A6M
+a6m5_zero_shop;A6M5
+a6m5_zero_0;三菱重工業 | 0式艦上戦闘機52型 | A6M5「零戦」
+a6m5_zero_1;A6M5
+a6m5_zero_2;A6M
+a6m5ko_shop;A6M5甲
+a6m5ko_0;三菱重工業 | 0式艦上戦闘機52型甲 | A6M5甲「零戦」
+a6m5ko_1;A6M5
+a6m5ko_2;A6M
+a6m5otsu_shop;A6M5乙
+a6m5otsu_0;三菱重工業 | 0式艦上戦闘機52型乙 | A6M5乙「零戦」
+a6m5otsu_1;A6M5
+a6m5otsu_2;A6M
+a6m5hei_shop;A6M5丙
+a6m5hei_0;三菱重工業 | 0式艦上戦闘機52型丙 | A6M5丙「零戦」
+a6m5hei_1;A6M5
+a6m5hei_2;A6M
+a6m6c_shop;A6M6
+a6m6c_0;三菱重工業 | 0式艦上戦闘機53型 | A6M6「零戦」
+a6m6c_1;A6M6
+a6m6c_2;A6M
+n1k1_kyuofu_shop;N1K1
+n1k1_kyuofu_0;川西航空機 | 強風 | N1K1
+n1k1_kyuofu_1;N1K1
+n1k1_kyuofu_2;N1K
+n1k1_ja_shop;N1K1-J
+n1k1_ja_0;川西航空機 | 紫電11型 | N1K1-J
+n1k1_ja_1;N1K1
+n1k1_ja_2;N1K
+n1k2_j_shop;N1K2-J
+n1k2_j_0;川西航空機 | 紫電12型 | N1K2-J
+n1k2_j_1;N1K2
+n1k2_j_2;N1K
+n1k2_jko_shop;N1K2-J甲
+n1k2_jko_0;川西航空機 | 紫電12型甲 | N1K2-J甲
+n1k2_jko_1;N1K2
+n1k2_jko_2;N1K
+ki_44_1_shop;キ44-I
+ki_44_1_0;中島飛行機 | 2式戦闘機1型 | キ44-I「鍾馗」
+ki_44_1_1;キ44-I
+ki_44_1_2;キ44
+ki_44_1_ep_shop;キ44-I (第47中隊)
+ki_44_1_ep_0;中島飛行機 | 2式戦闘機1型 | キ44-I「鍾馗」(独立飛行第47中隊)
+ki_44_1_ep_1;キ44-I
+ki_44_1_ep_2;キ44
+ki_44_2_otsu_shop;キ44-II乙
+ki_44_2_otsu_0;中島飛行機 | 2式戦闘機2型乙 | キ44-II乙「鍾馗」
+ki_44_2_otsu_1;キ44-II
+ki_44_2_otsu_2;キ44
+ki_44_2_hei_shop;キ44-II丙
+ki_44_2_hei_0;中島飛行機 | 2式戦闘機2型丙 | キ44-II丙「鍾馗」
+ki_44_2_hei_1;キ44-II
+ki_44_2_hei_2;キ44

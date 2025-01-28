@@ -21,6 +21,8 @@ All dates are listed in DD-MM-YYYY format.
     - The **hkp 3C**'s long name has been changed to **Agusta 204B | helikopter 3C**.
     - The **hkp 9A**'s long name has been changed to **Messerschmitt-Bölkow-Blohm | helikopter 9A**.
     - The **hkp 9A (HeliTOW)**'s long name has been changed to **Messerschmitt-Bölkow-Blohm / Försökscentralen | helikopter 9A (HeliTOW)**.
+    - The **Merkavah Mk. 3D**'s (USA / Israel) long name has been changed to **Merkavah Siman 3 Dalet Baz**.
+    - The **Merkavah Mk. 3D (Ra'am Segol)**'s (USA / Israel) long name has been changed to **Merkavah Siman 3 Dalet Baz (Ra'am Segol)**.
 
 ## 1.11.01 - 20-01-2025
 

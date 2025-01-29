@@ -18,6 +18,7 @@ shop/group/ki_67_group;キ67-I甲 / 乙
 shop/group/n1k2_group;N1K1-J / 2-J / 2-J甲
 shop/group/ki_84_group;キ84-I甲 / 乙
 shop/group/j2m_group;J2M3 / 5
+shop/group/r2y2_group;R2Y2-G (11型) / (22型) / (32型)
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
 f1m2_0;三菱重工業 | 0式観測機 | F1M2
@@ -431,3 +432,32 @@ j8m1_shop;キ200
 j8m1_0;三菱重工業 | キ200
 j8m1_1;キ200
 j8m1_2;キ200
+r2y2_v1_shop;R2Y2-G (11型)
+r2y2_v1_0;試製景雲改11型 | R2Y2-G
+r2y2_v1_1;R2Y2-G
+r2y2_v1_2;R2Y
+r2y2_v2_shop;R2Y2-G (22型)
+r2y2_v2_0;試製景雲改22型 | R2Y2-G
+r2y2_v2_1;R2Y2-G
+r2y2_v2_2;R2Y
+r2y2_kai_shop;R2Y2-G (32型)
+r2y2_kai_0;試製景雲改32型 | R2Y2-G
+r2y2_kai_1;R2Y2-G
+r2y2_kai_2;R2Y
+//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1;
+jp_type_95_ha_go_shop;ハ号 (late) (94式)
+jp_type_95_ha_go_0;三菱重工業 | 95式軽戦車 | ハ号 (late) (94式37粍戦車砲)
+jp_type_95_ha_go_1;ハ号
+jp_type_95_ha_go_2;Light tank
+jp_type_95_ha_go_commander_shop;ハ号 (指揮) (94式)
+jp_type_95_ha_go_commander_0;三菱重工業 | 95式軽戦車 | ハ号 (指揮) (94式37粍戦車砲)
+jp_type_95_ha_go_commander_1;ハ号
+jp_type_95_ha_go_commander_2;Light tank
+jp_type_98_ke_ni_shop;ケニ
+jp_type_98_ke_ni_0;東京自動車工業 | 98式軽戦車 | ケニ
+jp_type_98_ke_ni_1;ケニ
+jp_type_98_ke_ni_2;Light tank
+jp_type_2_ka_mi_shop;カミ
+jp_type_2_ka_mi_0;呉海軍工廠 | 特2式内火艇 | カミ
+jp_type_2_ka_mi_1;カミ
+jp_type_2_ka_mi_2;Light tank

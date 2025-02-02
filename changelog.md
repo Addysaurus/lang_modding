@@ -23,6 +23,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **hkp 9A (HeliTOW)**'s long name has been changed to **Messerschmitt-Bölkow-Blohm / Försökscentralen | helikopter 9A (HeliTOW)**.
     - The **Merkavah Mk. 3D**'s (USA / Israel) long name has been changed to **Merkavah Siman 3 Dalet Baz**.
     - The **Merkavah Mk. 3D (Ra'am Segol)**'s (USA / Israel) long name has been changed to **Merkavah Siman 3 Dalet Baz (Ra'am Segol)**.
+    - **Challenger 2 ATD** renamed to **ATD Challenger 2**. The long name has been changed to **Rheinmetall BAE Systems Land | Advanced Technology Demonstrator Challenger 2 Platform**.
 
 ## 1.11.01 - 20-01-2025
 

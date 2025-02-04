@@ -22,6 +22,7 @@ shop/group/r2y2_group;R2Y2-G (11型) / (22型) / (32型)
 shop/group/jp_ho_ni_group;ホニI / III
 shop/group/jp_chi_to_group;チト (2号車) / チト
 shop/group/jp_type_60_group;60SP / APC (ATM-1)
+shop/group/jp_type_61_sta_group;61TK / STA-3
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
 f1m2_0;三菱重工業 | 0式観測機 | F1M2
@@ -575,6 +576,26 @@ jp_type_60_atm_shop;60APC (ATM-1)
 jp_type_60_atm_0;三菱重工業 | 60式装甲車 (64式対戦車誘導弾)
 jp_type_60_atm_1;60APC (ATM-1)
 jp_type_60_atm_2;SPG
+jp_st_a1_shop;STA-1
+jp_st_a1_0;三菱重工業 | STA-1
+jp_st_a1_1;STA-1
+jp_st_a1_2;Medium tank
+jp_st_a2_shop;STA-2
+jp_st_a2_0;三菱重工業 | STA-2
+jp_st_a2_1;STA-2
+jp_st_a2_2;Medium tank
+jp_st_a3_shop;STA-3
+jp_st_a3_0;三菱重工業 | STA-3
+jp_st_a3_1;STA-3
+jp_st_a3_2;Medium tank
+jp_type_61_shop;61TK (B)
+jp_type_61_0;三菱重工業 | 61式戦車B型
+jp_type_61_1;61TK (B)
+jp_type_61_2;Medium tank
+jp_type_75_shop;75HSP
+jp_type_75_0;三菱重工業 + 日本製鋼所 | 75式自走155mmりゅう弾砲
+jp_type_75_1;75HSP
+jp_type_75_2;Medium tank
 jp_type_5_ho_ri_prototype_shop;ホリ
 jp_type_5_ho_ri_prototype_0;三菱重工業 | 試製新砲戦車甲 | ホリ
 jp_type_5_ho_ri_prototype_1;ナト

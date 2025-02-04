@@ -12,8 +12,13 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **F-5A(G)**
+
 - #### Changes:
 
+    - **F-5A(G)** renamed to **F-5A(G) (Eot)**. The long name has been changed to **Northrop Corperation N-156F | F-5A(G) Freedom Fighter (Eye of the Tiger)**.
     - All manufacturers have been reworked. Vehicles with a manufacturer designation no longer have the manufacturer repeated and instead have the manufacturer's name directly attached to the manufacturer designation. The "/" character is now only used to separate upgrades and kit builds, while joint ventures are now denoted by the "+" character being used to separate the manufacturers. The full list of vehicles affected is not listed here because it would be hundreds of lines long.
     - The **T-80UD (478DU1)**'s (China / Pakistan) long name has been changed to **Ob'êkt 478DU1 | T-80UD Ṭaink**.
     - **T-55AMD-1** renamed to **T-55AD-1**. The long name has been changed to **Ob"yekt 155AD-1 | T-55AD-1**.
@@ -24,6 +29,16 @@ All dates are listed in DD-MM-YYYY format.
     - The **Merkavah Mk. 3D**'s (USA / Israel) long name has been changed to **Merkavah Siman 3 Dalet Baz**.
     - The **Merkavah Mk. 3D (Ra'am Segol)**'s (USA / Israel) long name has been changed to **Merkavah Siman 3 Dalet Baz (Ra'am Segol)**.
     - **Challenger 2 ATD** renamed to **ATD Challenger 2**. The long name has been changed to **Rheinmetall BAE Systems Land | Advanced Technology Demonstrator Challenger 2 Platform**.
+
+### Weaponry:
+
+- #### Additions:
+
+    - **AGM-119A**
+
+- #### Changes:
+
+    - **AGM-119A** renamed to **Penguin MK2 MOD 7**.
 
 ## 1.11.01 - 20-01-2025
 

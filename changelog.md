@@ -29,6 +29,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **Merkavah Mk. 3D**'s (USA / Israel) long name has been changed to **Merkavah Siman 3 Dalet Baz**.
     - The **Merkavah Mk. 3D (Ra'am Segol)**'s (USA / Israel) long name has been changed to **Merkavah Siman 3 Dalet Baz (Ra'am Segol)**.
     - **Challenger 2 ATD** renamed to **ATD Challenger 2**. The long name has been changed to **Rheinmetall BAE Systems Land | Advanced Technology Demonstrator Challenger 2 Platform**.
+    - The **K9 (VIDAR)** and the **KPz Leopard 1 A5 NO2** have had their roundel changed to the new Norwegian roundel added for the **F-5A(G) (Eot)**.
 
 ### Weaponry:
 

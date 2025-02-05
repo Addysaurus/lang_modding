@@ -611,9 +611,9 @@ jp_type_5_ho_ri_production_shop;ホリ (10糎半)
 jp_type_5_ho_ri_production_0;試製10糎半砲戦車 | ホリ
 jp_type_5_ho_ri_production_1;ホリ
 jp_type_5_ho_ri_production_2;SPG
-//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
-jp_type_87_rcv_prot_shop;RCV (prototype No. 1)
-jp_type_87_rcv_prot_0;小松製作 | 偵察警戒車 (prototype No. 1)
+//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+jp_type_87_rcv_prot_shop;RCV (試作1号車)
+jp_type_87_rcv_prot_0;小松製作 | 偵察警戒車 (試作1号車)
 jp_type_87_rcv_prot_1;RCV
 jp_type_87_rcv_prot_2;WIFV
 jp_m47_patton_II_shop;▅ M47
@@ -653,6 +653,14 @@ jp_type_87_rcv_shop;87RCV
 jp_type_87_rcv_0;小松製作 | 87式偵察警戒車「ブラックアイ」
 jp_type_87_rcv_1;87RCV
 jp_type_87_rcv_2;WIFV
+jp_type_89_shop;89FV
+jp_type_89_0;三菱重工業 | 89式装甲戦闘車「ライトタイガー」
+jp_type_89_1;89FV
+jp_type_89_2;IFV
+jp_type_16_mcv_prot_shop;MCV (試作3号車)
+jp_type_16_mcv_prot_0;三菱重工業 | 機動戦闘車 (試作3号車)
+jp_type_16_mcv_prot_1;MCV
+jp_type_16_mcv_prot_2;Light tank
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 jp_icv_ifv_prototype_shop;24WAFV
 jp_icv_ifv_prototype_0;三菱重工業 | 24式装輪装甲戦闘車

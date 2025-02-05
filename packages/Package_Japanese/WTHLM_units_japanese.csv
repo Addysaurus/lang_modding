@@ -23,6 +23,8 @@ shop/group/jp_ho_ni_group;ホニI / III
 shop/group/jp_chi_to_group;チト (2号車) / チト
 shop/group/jp_type_60_group;60SP / APC (ATM-1)
 shop/group/jp_type_61_sta_group;61TK / STA-3
+shop/group/jp_type_74_stb_group;STB-0002 / 74TK (C)
+shop/group/jp_type_87_89_group;87RCV / 89FV
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
 f1m2_0;三菱重工業 | 0式観測機 | F1M2
@@ -547,8 +549,8 @@ jp_type_3_chi_nu_75cm_type_5_shop;チヌ (5式II型)
 jp_type_3_chi_nu_75cm_type_5_0;三菱重工業 | 3式中戦車 | チヌ (試製5式7糎半戦車砲 (長) II型)
 jp_type_3_chi_nu_75cm_type_5_1;チヌ
 jp_type_3_chi_nu_75cm_type_5_2;Medium tank
-jp_type_4_chi_to_shop;チト (2号車)
-jp_type_4_chi_to_0;三菱重工業 | 4式中戦車 | チト (2号車)
+jp_type_4_chi_to_shop;チト (試製2号)
+jp_type_4_chi_to_0;三菱重工業 | 試製4式中戦車 | チト (試製2号)
 jp_type_4_chi_to_1;チト
 jp_type_4_chi_to_2;Medium tank
 jp_type_4_chi_to_late_shop;チト
@@ -595,7 +597,7 @@ jp_type_61_2;Medium tank
 jp_type_75_shop;75HSP
 jp_type_75_0;三菱重工業 + 日本製鋼所 | 75式自走155mmりゅう弾砲
 jp_type_75_1;75HSP
-jp_type_75_2;Medium tank
+jp_type_75_2;SPH
 jp_sub_i_ii_20mm_shop;SUB-II-2
 jp_sub_i_ii_20mm_0;小松製作 | SUB-II-2
 jp_sub_i_ii_20mm_1;SUB-II-2
@@ -608,12 +610,42 @@ jp_type_5_ho_ri_production_shop;ホリ (10糎半)
 jp_type_5_ho_ri_production_0;試製10糎半砲戦車 | ホリ
 jp_type_5_ho_ri_production_1;ホリ
 jp_type_5_ho_ri_production_2;SPG
+//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+jp_type_87_rcv_prot_shop;RCV (prototype No. 1)
+jp_type_87_rcv_prot_0;小松製作 | 偵察警戒車 (prototype No. 1)
+jp_type_87_rcv_prot_1;RCV
+jp_type_87_rcv_prot_2;WIFV
+jp_m47_patton_II_shop;▅ M47
+jp_m47_patton_II_0;▅ American Locomotive Company | G-262 | Tank, Combat, Full Tracked: 90mm Gun, M47 Patton
+jp_m47_patton_II_1;▅ M47
+jp_m47_patton_II_2;Medium tank
+jp_st_b1_shop;STB-0002
+jp_st_b1_0;三菱重工業 | STB-0002
+jp_st_b1_1;STB-0002
+jp_st_b1_2;Medium tank
+jp_type_74_c_shop;74TK (C)
+jp_type_74_c_0;三菱重工業 | 74式戦車C型「ナナヨン」
+jp_type_74_c_1;74TK (C)
+jp_type_74_c_2;MBT
+jp_type_99_shop;99HSP
+jp_type_99_0;三菱重工業 + 日本製鋼所 | 99式自走155mmりゅう弾砲「ロングノーズ」
+jp_type_99_1;99HSP
+jp_type_99_2;SPH
+jp_type_75_mlrs_shop;75MSSR
+jp_type_75_mlrs_0;小松製作 | 75式自走130mm多連装ロケット弾発射機
+jp_type_75_mlrs_1;75MSSR
+jp_type_75_mlrs_2;MLRS
+//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+jp_type_87_rcv_shop;87RCV
+jp_type_87_rcv_0;小松製作 | 87式偵察警戒車「ブラックアイ」
+jp_type_87_rcv_1;87RCV
+jp_type_87_rcv_2;WIFV
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
-jp_icv_ifv_prototype_shop;24 WAFV
+jp_icv_ifv_prototype_shop;24WAFV
 jp_icv_ifv_prototype_0;三菱重工業 | 24式装輪装甲戦闘車
-jp_icv_ifv_prototype_1;24 WAFV
-jp_icv_ifv_prototype_2;IFV
+jp_icv_ifv_prototype_1;24WAFV
+jp_icv_ifv_prototype_2;WIFV
 jp_icv_prototype_shop;CTWV (RCV)
 jp_icv_prototype_0;三菱重工業 | 共通戦術装輪車 (偵察戦闘型)
 jp_icv_prototype_1;CTWV
-jp_icv_prototype_2;IFV
+jp_icv_prototype_2;WIFV

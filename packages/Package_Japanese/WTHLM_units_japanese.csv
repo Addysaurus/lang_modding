@@ -24,6 +24,7 @@ shop/group/jp_chi_to_group;チト (試製2号) / チト
 shop/group/jp_type_60_group;60SP / APC (ATM-1)
 shop/group/jp_type_61_sta_group;61TK / STA-3
 shop/group/jp_type_74_stb_group;STB-0002 / 74TK (C)
+shop/group/jp_type_74_group;74TK (E) / (F)
 shop/group/jp_type_87_89_group;87RCV / 89FV
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
@@ -549,8 +550,8 @@ jp_type_3_chi_nu_75cm_type_5_shop;チヌ (5式II型)
 jp_type_3_chi_nu_75cm_type_5_0;三菱重工業 | 3式中戦車 | チヌ (試製5式7糎半戦車砲 (長) II型)
 jp_type_3_chi_nu_75cm_type_5_1;チヌ
 jp_type_3_chi_nu_75cm_type_5_2;Medium tank
-jp_type_4_chi_to_shop;チト (試製2号)
-jp_type_4_chi_to_0;三菱重工業 | 試製4式中戦車 | チト (試製2号)
+jp_type_4_chi_to_shop;チト (試製2号車)
+jp_type_4_chi_to_0;三菱重工業 | 試製4式中戦車 | チト (試製2号車)
 jp_type_4_chi_to_1;チト
 jp_type_4_chi_to_2;Medium tank
 jp_type_4_chi_to_late_shop;チト
@@ -627,6 +628,18 @@ jp_type_74_c_shop;74TK (C)
 jp_type_74_c_0;三菱重工業 | 74式戦車C型「ナナヨン」
 jp_type_74_c_1;74TK (C)
 jp_type_74_c_2;MBT
+jp_type_74_shop;74TK (E)
+jp_type_74_0;三菱重工業 | 74式戦車E型「ナナヨン」
+jp_type_74_1;74TK (E)
+jp_type_74_2;MBT
+jp_type_74_f_shop;74TK (F)
+jp_type_74_f_0;三菱重工業 | 74式戦車G型「ナナヨン」
+jp_type_74_f_1;74TK (F)
+jp_type_74_f_2;MBT
+jp_type_74_mod_g_kai_shop;74TK (G)
+jp_type_74_mod_g_kai_0;三菱重工業 | 74式戦車G型「ナナヨン」
+jp_type_74_mod_g_kai_1;74TK (G)
+jp_type_74_mod_g_kai_2;MBT
 jp_type_99_shop;99HSP
 jp_type_99_0;三菱重工業 + 日本製鋼所 | 99式自走155mmりゅう弾砲「ロングノーズ」
 jp_type_99_1;99HSP

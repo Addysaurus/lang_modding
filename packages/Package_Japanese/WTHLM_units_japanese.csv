@@ -26,6 +26,8 @@ shop/group/jp_type_61_sta_group;61TK / STA-3
 shop/group/jp_type_74_stb_group;STB-0002 / 74TK (C)
 shop/group/jp_type_74_group;74TK (E) / (F)
 shop/group/jp_type_87_89_group;87RCV / 89FV
+shop/group/jp_type_90_group;90TK / TK (B)
+shop/group/jp_type_10_group;10TK / 新TK3号 (2009)
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
 f1m2_0;三菱重工業 | 0式観測機 | F1M2
@@ -59,7 +61,7 @@ ki-27_otsu_shop;キ27乙
 ki-27_otsu_0;中島飛行機 | 97式戦闘機乙 | キ27乙
 ki-27_otsu_1;キ27乙
 ki-27_otsu_2;キ27
-ki-27_otsu_ep_shop;キ27乙 (第4戦隊)
+ki-27_otsu_ep_shop;キ27乙 (4戦隊)
 ki-27_otsu_ep_0;中島飛行機 | 97式戦闘機乙 | キ27乙 (飛行第4戦隊)
 ki-27_otsu_ep_1;キ27乙
 ki-27_otsu_ep_2;キ27
@@ -204,7 +206,7 @@ ki_44_1_shop;キ44-I
 ki_44_1_0;中島飛行機 | 2式戦闘機1型 | キ44-I「鍾馗」
 ki_44_1_1;キ44-I
 ki_44_1_2;キ44
-ki_44_1_ep_shop;キ44-I (第47中隊)
+ki_44_1_ep_shop;キ44-I (47中隊)
 ki_44_1_ep_0;中島飛行機 | 2式戦闘機1型 | キ44-I「鍾馗」(独立飛行第47中隊)
 ki_44_1_ep_1;キ44-I
 ki_44_1_ep_2;キ44
@@ -678,7 +680,32 @@ jp_icv_ifv_prototype_shop;24WAFV
 jp_icv_ifv_prototype_0;三菱重工業 | 24式装輪装甲戦闘車
 jp_icv_ifv_prototype_1;24WAFV
 jp_icv_ifv_prototype_2;WIFV
+jp_type_10_prototype_shop;新TK3号 (2006)
+jp_type_10_prototype_0;技術研究本部 + 三菱重工業 | 新戦車3号車 (2006)
+jp_type_10_prototype_1;新TK3号
+jp_type_10_prototype_2;MBT
+jp_tkx_prot_shop;新TK3号 (2009)
+jp_tkx_prot_0;技術研究本部 + 三菱重工業 | 新戦車3号車 (2009)
+jp_tkx_prot_1;新TK3号
+jp_tkx_prot_2;MBT
+jp_type_90_shop;90TK
+jp_type_90_0;三菱重工業 | 90式戦車
+jp_type_90_1;90TK
+jp_type_90_2;MBT
+jp_type_90b_shop;90TK (B)
+jp_type_90b_0;三菱重工業 | 90式戦車B型
+jp_type_90b_1;90TK (B)
+jp_type_90b_2;MBT
+jp_type_90b_camo_shop;90TK (B) (富士学校)
+jp_type_90b_camo_0;三菱重工業 | 90式戦車B型 (陸上自衛隊富士学校、機甲教導連隊、第3戦車中隊)
+jp_type_90b_camo_1;90TK (B)
+jp_type_90b_camo_2;MBT
 jp_icv_prototype_shop;CTWV (RCV)
 jp_icv_prototype_0;三菱重工業 | 共通戦術装輪車 (偵察戦闘型)
 jp_icv_prototype_1;CTWV
 jp_icv_prototype_2;WIFV
+//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+jp_type_10_shop;10TK
+jp_type_10_0;技術研究本部 + 三菱重工業 | 10式戦車
+jp_type_10_1;10TK
+jp_type_10_2;MBT

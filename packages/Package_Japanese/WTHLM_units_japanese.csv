@@ -20,7 +20,7 @@ shop/group/ki_84_group;キ84-I甲 / 乙
 shop/group/j2m_group;J2M3 / 5
 shop/group/r2y2_group;R2Y2-G (11型) / (22型) / (32型)
 shop/group/jp_ho_ni_group;ホニI / III
-shop/group/jp_chi_to_group;チト (試製2号) / チト
+shop/group/jp_chi_to_group;チト (試2号) / チト
 shop/group/jp_type_60_group;60SP / APC (ATM-1)
 shop/group/jp_type_61_sta_group;61TK / STA-3
 shop/group/jp_type_74_stb_group;STB-0002 / 74TK (C)
@@ -492,9 +492,9 @@ jp_type_4_ho_ro_shop;ホロ
 jp_type_4_ho_ro_0;三菱重工業 | 4式15糎自走砲 | ホロ
 jp_type_4_ho_ro_1;ホロ
 jp_type_4_ho_ro_2;SPG
-jp_hiro_sha_shop;試製12糎自走砲
+jp_hiro_sha_shop;試12糎自走
 jp_hiro_sha_0;三菱重工業 | 試製12糎自走砲
-jp_hiro_sha_1;試製12糎自走砲
+jp_hiro_sha_1;試12糎自走
 jp_hiro_sha_2;SPG
 jp_type_94_shop;94式 (98式)
 jp_type_94_0;自動車工業 | 94式6輪自動貨車 (98式20粍高射機関砲)
@@ -517,7 +517,7 @@ jp_type_1_chi_he_shop;チヘ
 jp_type_1_chi_he_0;三菱重工業 | 1式中戦車 | チヘ
 jp_type_1_chi_he_1;チヘ
 jp_type_1_chi_he_2;Medium tank
-jp_type_1_chi_he_5th_regiment_shop;チヘ (第5戦車連隊)
+jp_type_1_chi_he_5th_regiment_shop;チヘ (5戦連)
 jp_type_1_chi_he_5th_regiment_0;三菱重工業 | 1式中戦車 | チヘ (第5戦車連隊)
 jp_type_1_chi_he_5th_regiment_1;チヘ
 jp_type_1_chi_he_5th_regiment_2;Medium tank
@@ -529,13 +529,13 @@ jp_type_3_ho_ni_III_shop;ホニIII
 jp_type_3_ho_ni_III_0;陸軍野戦砲兵学校 | 3式砲戦車 | ホニIII
 jp_type_3_ho_ni_III_1;ホニIII
 jp_type_3_ho_ni_III_2;SPG
-jp_navy_120mm_spg_shop;12糎自走砲
+jp_navy_120mm_spg_shop;12糎自走
 jp_navy_120mm_spg_0;艦政本部第1部 | 12糎自走砲
-jp_navy_120mm_spg_1;12糎自走砲
+jp_navy_120mm_spg_1;12糎自走
 jp_navy_120mm_spg_2;SPG
-jp_type_97_chi_ha_12cm_shop;12糎砲戦車
+jp_type_97_chi_ha_12cm_shop;12糎砲戦
 jp_type_97_chi_ha_12cm_0;艦政本部第1部 | 12糎砲戦車
-jp_type_97_chi_ha_12cm_1;12糎砲戦車
+jp_type_97_chi_ha_12cm_1;12糎砲戦
 jp_type_97_chi_ha_12cm_2;Medium tank
 jp_type_95_so_ki_shop;ソキ
 jp_type_95_so_ki_0;自動車工業 | 試製対空戦車 | ソキ
@@ -550,7 +550,7 @@ jp_type_3_chi_nu_75cm_type_5_shop;チヌ (5式II型)
 jp_type_3_chi_nu_75cm_type_5_0;三菱重工業 | 3式中戦車 | チヌ (試製5式7糎半戦車砲 (長) II型)
 jp_type_3_chi_nu_75cm_type_5_1;チヌ
 jp_type_3_chi_nu_75cm_type_5_2;Medium tank
-jp_type_4_chi_to_shop;チト (試製2号車)
+jp_type_4_chi_to_shop;チト (試2号)
 jp_type_4_chi_to_0;三菱重工業 | 試製4式中戦車 | チト (試製2号車)
 jp_type_4_chi_to_1;チト
 jp_type_4_chi_to_2;Medium tank
@@ -612,7 +612,7 @@ jp_type_5_ho_ri_production_0;試製10糎半砲戦車 | ホリ
 jp_type_5_ho_ri_production_1;ホリ
 jp_type_5_ho_ri_production_2;SPG
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
-jp_type_87_rcv_prot_shop;RCV (試作1号車)
+jp_type_87_rcv_prot_shop;RCV (試1号)
 jp_type_87_rcv_prot_0;小松製作 | 偵察警戒車 (試作1号車)
 jp_type_87_rcv_prot_1;RCV
 jp_type_87_rcv_prot_2;WIFV
@@ -657,10 +657,22 @@ jp_type_89_shop;89FV
 jp_type_89_0;三菱重工業 | 89式装甲戦闘車「ライトタイガー」
 jp_type_89_1;89FV
 jp_type_89_2;IFV
-jp_type_16_mcv_prot_shop;MCV (試作3号車)
+jp_type_16_mcv_prot_shop;MCV (試3号)
 jp_type_16_mcv_prot_0;三菱重工業 | 機動戦闘車 (試作3号車)
 jp_type_16_mcv_prot_1;MCV
 jp_type_16_mcv_prot_2;Light tank
+jp_type_87_shop;87AW
+jp_type_87_0;三菱重工業 + 日本製鋼所 | 87式自走高射機関砲「スカイシューター」
+jp_type_87_1;87AW
+jp_type_87_2;SPAAG
+jp_type_16_mod_shop;16MCV (15即機)
+jp_type_16_mod_0;三菱重工業 | 16式機動戦闘車 (第15即応機動連隊)
+jp_type_16_mod_1;16MCV
+jp_type_16_mod_2;Light tank
+jp_type_16_shop;16MCV
+jp_type_16_0;三菱重工業 | 16式機動戦闘車
+jp_type_16_1;16MCV
+jp_type_16_2;Light tank
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 jp_icv_ifv_prototype_shop;24WAFV
 jp_icv_ifv_prototype_0;三菱重工業 | 24式装輪装甲戦闘車

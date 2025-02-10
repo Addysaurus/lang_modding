@@ -1,6 +1,6 @@
 <ID|readonly|noverify>;<English>
 //FOLDERS
-shop/group/ki-10_group;キ10-I / II / I (第1戦隊) / II (第77戦隊)
+shop/group/ki-10_group;キ10-I / II / I (1戦隊) / II (77戦隊)
 shop/group/ki-43_group;キ43-I丙 / II甲
 shop/group/ki-45_eraly_group;キ45改丙 (丁) / 乙
 shop/group/ki-45_group;キ45改甲 / 丙
@@ -45,7 +45,7 @@ ki_10_1_shop;キ10-I
 ki_10_1_0;川崎航空機工業 | 95式戦闘機1型 | キ10-I
 ki_10_1_1;キ10-I
 ki_10_1_2;キ10
-ki_10_1_commander_shop;キ10-I (第1戦隊)
+ki_10_1_commander_shop;キ10-I (1戦隊)
 ki_10_1_commander_0;川崎航空機工業 | 95式戦闘機1型 | キ10-I (飛行第1戦隊)
 ki_10_1_commander_1;キ10-I
 ki_10_1_commander_2;キ10
@@ -53,7 +53,7 @@ ki_10_2_shop;キ10-II
 ki_10_2_0;川崎航空機工業 | 95式戦闘機2型 | キ10-II
 ki_10_2_1;キ10-II
 ki_10_2_2;キ10
-ki_10_2_commander_shop;キ10-II (第77戦隊)
+ki_10_2_commander_shop;キ10-II (77戦隊)
 ki_10_2_commander_0;川崎航空機工業 | 95式戦闘機2型 | キ10-II (飛行第77戦隊)
 ki_10_2_commander_1;キ10-II
 ki_10_2_commander_2;キ10
@@ -453,6 +453,22 @@ r2y2_kai_shop;R2Y2-G (32型)
 r2y2_kai_0;試製景雲改32型 | R2Y2-G
 r2y2_kai_1;R2Y2-G
 r2y2_kai_2;R2Y
+f-86f-30_japan_shop;▅ F-86F-30-NA
+f-86f-30_japan_0;▅ North American Aviation / 三菱重工業 | F-86F-30-NA「旭光」
+f-86f-30_japan_1;▅ F-86F
+f-86f-30_japan_2;▅ F-86
+f-86f-40_japan_shop;▅ F-86F-40-NA
+f-86f-40_japan_0;▅ North American Aviation / 三菱重工業 | F-86F-40-NA「旭光」
+f-86f-40_japan_1;▅ F-86F
+f-86f-40_japan_2;▅ F-86
+f-86f-40_japan_blue_impulse_shop;▅ F-86F-40-NA (6飛隊)
+f-86f-40_japan_blue_impulse_0;▅ North American Aviation / 三菱重工業 | F-86F-40-NA「旭光」(第6飛行隊)
+f-86f-40_japan_blue_impulse_1;▅ F-86F
+f-86f-40_japan_blue_impulse_2;▅ F-86
+f-104j_shop;▅ F-104J (late)
+f-104j_0;▅ Lockheed Corporation / 三菱重工業 | F-104J「栄光」(late)
+f-104j_1;▅ F-104J
+f-104j_2;▅ F-104
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 jp_type_95_ha_go_shop;ハ号 (late) (94式)
 jp_type_95_ha_go_0;三菱重工業 | 95式軽戦車 | ハ号 (late) (94式37粍戦車砲)
@@ -700,6 +716,14 @@ jp_type_90b_camo_shop;90TK (B) (富士学校)
 jp_type_90b_camo_0;三菱重工業 | 90式戦車B型 (陸上自衛隊富士学校、機甲教導連隊、第3戦車中隊)
 jp_type_90b_camo_1;90TK (B)
 jp_type_90b_camo_2;MBT
+jp_type_93_shop;93式
+jp_type_93_0;東芝 | 93式近距離地対空誘導弾
+jp_type_93_1;93式
+jp_type_93_2;SPAAM
+jp_type_81_tansam_shop;81式 (C)
+jp_type_81_tansam_0;技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型「ショートアロー」
+jp_type_81_tansam_1;81式 (C)
+jp_type_81_tansam_2;SPAAM
 jp_icv_prototype_shop;CTWV (RCV)
 jp_icv_prototype_0;三菱重工業 | 共通戦術装輪車 (偵察戦闘型)
 jp_icv_prototype_1;CTWV

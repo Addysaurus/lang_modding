@@ -43,6 +43,12 @@ All dates are listed in DD-MM-YYYY format.
 
     - **AGM-119A** renamed to **Penguin MK2 MOD 7**.
 
+### Modifications:
+
+- #### Changes:
+
+    - The **Exhaust smokescreen** modification has had chemical formulas added in parentheses to the chemicals listed in its description.
+
 ## 1.11.01 - 20-01-2025
 
 ### Vehicles:

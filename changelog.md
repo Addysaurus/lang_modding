@@ -31,7 +31,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Challenger 2 ATD** renamed to **ATD Challenger 2**. The long name has been changed to **Rheinmetall BAE Systems Land | Advanced Technology Demonstrator Challenger 2 Platform**.
     - The **K9 (VIDAR)** and the **KPz Leopard 1 A5 NO2** have had their roundel changed to the new Norwegian roundel added for the **F-5A(G) (Eot)**.
     - The **Vauquelin (X 53)**'s long name has been corrected to **Vauquelin-class, Vauquelin (X 53), 1941**. Basically, a typo was fixed.
-    - The **M 48 A2 G A2**'s long name has been changed to **mittlerer Kampfpanzer M 48 A2 G A2**.
+    - The **M 48 A2 G A2**'s long name has been changed to **mittlerer Kampfpanzer M 48 A2 G A2**.\
+    - The **strv 103C**'s long name has been changed to **stridsvagn 103C**.
 
 ### Weaponry:
 

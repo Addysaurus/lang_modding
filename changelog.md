@@ -15,6 +15,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - **F-5A(G)**
+    - New native language packages have been added that allow you to put different nations' vehicles and weapons into their original languages with non-Latin scripts. In this update, packages for Japan and Thailand have been added. More are in development.
 
 - #### Changes:
 

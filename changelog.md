@@ -18,6 +18,26 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - Japan rework:
+        - Coastal fleet:
+            - The **Dai 538 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 538 Gō**.
+            - The **Dai 838 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 838 Gō Gata Gyorai Tei (T-14) | Dai 838 Gō**.
+            - **Ke-I kō** renamed to **Ke I Kō**. The long name has been changed to **Haganesei Dai Goeikan | Ke I Kō**.
+            - The **Dai 1 Gō**'s long name has been chanegd to **Yokohama Yotto | Otsu Gata Gyorai Tei | Dai 1 Gō Gata Gyorai Tei (T-1) | Dai 1 Gō**.
+            - **Sōkōtei Dai 1 Gō** renamed to **Sōkō Tei Dai 1 Gō**. The long name has been changed to **Sōkō Tei Dai 1 Gō "Sakigake"**.
+            - **Sōkōtei Dai 4 Gō** renamed to **Sōkō Tei Dai 4 Gō**. The long name has been changed to **Sōkō Tei Dai 3 Gō Gata | Sōkō Tei Dai 4 Gō**.
+            - **Ka-Ro 2 gata** renamed to **Ka Ro 2 Gata**. The long name has been changed to **Yokohama Yotto | 4 Shiki 2 Gata Kuchiku Tei | Ka Ro 2 Gata**.
+            - **Ka-Ro 4 gata** renamed to **Ka Ro 4 Gata**. The long name has been changed to **Yokohama Yotto | 4 Shiki 4 Gata Kuchiku Tei | Ka Ro 4 Gata**.
+            - **Ha-Go 1 gata** renamed to **Se Ha 1 Gata**. The long name has been changed to **Shisei Ha Gō Sentō Tei 1 Gata | Se Ha 1 Gata**.
+            - The **Dai 241 Gō**'s long name has been chanegd to **Yokosuka Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 241 Gō Gata Gyorai Tei (T-38) | Dai 241 Gō**.
+            - **Gyoraitei 2 Gō** renamed to **Gyorai Tei 2 Gō**. The long name has been changed to **Hitachi Zōsen | 1 Gō Gata Gyorai Tei | Gyorai Tei 2 Gō**.
+            - The **Dai 18 Gō**'s long name has been changed to **Tsurumi Zōsensho | Dai 13 Gō Gata Kusen Tei (K-8) | Dai 18 Gō**.
+            - The **Dai 18 Gō (1944)**'s long name has been changed to **Tsurumi Zōsensho | Dai 13 Gō Gata Kusen Tei (K-8) | Dai 18 Gō (1944)**.
+            - The **Dai 10 Gō**'s long name has been changed to **Yokohama Yotto | Kō Gata Gyorai Tei | Dai 10 Gō Gata Gyorai Tei (T-51A) | Dai 10 Gō**.
+            - The **Dai 11 Gō**'s long name has been changed to **Yokohama Yotto | Kō Gata Gyorai Tei | Dai 11 Gō Gata Gyorai Tei (T-51B) | Dai 11 Gō**.
+            - The **Dai 2 Gō**'s long name has been changed to **Ishikawajima Zōsensho | Dai 2 Gō Gata Kusen Tei (K-3) | Dai 2 Gō**.
+            - The **Dai 8 Gō**'s long name has been changed to **Tama Zōsensho | Dai 4 Gō Gata Kusen Tei | Dai 8 Gō**.
+            - **Gyoraitei 8 Gō** renamed to **Gyorai Tei 8 Gō**. The long name has been changed to **Mitsubishi Jūkōgyō Shimonoseki Zōsensho | 7 Gō Gata Gyorai Tei | Gyorai Tei 8 Gō**.
     - **F-5A(G)** renamed to **F-5A(G) (Eot)**. The long name has been changed to **Northrop Corperation N-156F | F-5A(G) Freedom Fighter (Eye of the Tiger)**.
     - All manufacturers have been reworked. Vehicles with a manufacturer designation no longer have the manufacturer repeated and instead have the manufacturer's name directly attached to the manufacturer designation. The "/" character is now only used to separate upgrades and kit builds, while joint ventures are now denoted by the "+" character being used to separate the manufacturers. The full list of vehicles affected is not listed here because it would be hundreds of lines long.
     - The **T-80UD (478DU1)**'s (China / Pakistan) long name has been changed to **Ob'êkt 478DU1 | T-80UD Ṭaink**.

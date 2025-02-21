@@ -15,7 +15,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - **F-5A(G)**
-    - New native language packages have been added that allow you to put different nations' vehicles and weapons into their original languages with non-Latin scripts. In this update, packages for Japan and Thailand have been added. More are in development.
+    - New original language packages have been added that allow you to put different nations' vehicles and weapons into their original languages for languages with non-Latin scripts. In this update, packages for Japan and Thailand have been added. More are in development.
 
 - #### Changes:
 
@@ -39,6 +39,16 @@ All dates are listed in DD-MM-YYYY format.
             - The **Dai 2 Gō**'s long name has been changed to **Ishikawajima Zōsensho | Dai 2 Gō Gata Kusen Tei (K-3) | Dai 2 Gō**.
             - The **Dai 8 Gō**'s long name has been changed to **Tama Zōsensho | Dai 4 Gō Gata Kusen Tei | Dai 8 Gō**.
             - **Gyoraitei 8 Gō** renamed to **Gyorai Tei 8 Gō**. The long name has been changed to **Mitsubishi Jūkōgyō Shimonoseki Zōsensho | 7 Gō Gata Gyorai Tei | Gyorai Tei 8 Gō**.
+            - **Gyoraitei 15 Gō** renamed to **Gyorai Tei 15 Gō**. The long name has been changed to **Mitsubishi Jūkōgyō Shimonoseki Zōsensho | 11 Gō Gata Gyorai Tei | Gyorai Tei 15 Gō**.
+            - **JDS Ikazuchi (DE-202)** renamed to **Ikazuchi (DE-202)**. The long name has been changed to **Kawasaki Zōsensho | Otsu Gata Goeikan | Ikazuchi Gata Goeikan (E-102) | Ikazuchi (DE-202)**.
+            - **JDS Tokachi (DE-218)** renamed to **Tokachi (DE-218)**. The long name has been changed to **Mitsui Zōsen Enjiniaringu | Otsu Gata Goeikan | Chikugo Gata Goeikan (E-106) | Tokachi (DE-218)**.
+            - **JDS Akebono (DE-201)** renamed to **Akebono (DE-201)**. The long name has been changed to **Ishikawajima Jūkōgyō | Otsu Gata Goeikan | Akebono Gata Goeikan (E-102) | Akebono (DE-201)**.
+            - **Misairutei 2 Gō (PG-822)** renamed to **Misairutei 2 Gō**. The long name has been changed to **1 Gō Gata Misairutei | Misairutei 2 Gō**.
+            - The **Shōnan**'s long name has been changed to **Hitachi Zōsen | Kō Gata Kaibōkan | Hiburi Gata Kaibōkan (E-20B) | Shōnan**.
+            - **Asagao (YTE-01)** renamed to **Asagao**. The long name has been changed to **George Lawley & Son | Yuri Gata Keibitei | Asagao**.
+            - **Hatsukari** renamed to **Tomotsuru**. The long name has been changed to **Maizuru Kaigun Kōshō | Chidori Gata Suiraitei (F-46) | Tomotsuru**.
+            - **JDS Isuzu (DE-211)** renamed to **Isuzu (DE-211)**. The long name has been changed to **Mitsui Zōsen Enjiniaringu | Otsu Gata Goeikan | Isuzu Gata Goeikan (E-103) | Isuzu (DE-211)**.
+            - **JDS Ayanami (DD-103)** renamed to **Ayanami (DD-103)**. The long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Kō Gata Goeikan 1 Gata | Ayanami Gata Goeikan (F-102) | Ayanami (DD-103)**.
     - **F-5A(G)** renamed to **F-5A(G) (Eot)**. The long name has been changed to **Northrop Corperation N-156F | F-5A(G) Freedom Fighter (Eye of the Tiger)**.
     - All manufacturers have been reworked. Vehicles with a manufacturer designation no longer have the manufacturer repeated and instead have the manufacturer's name directly attached to the manufacturer designation. The "/" character is now only used to separate upgrades and kit builds, while joint ventures are now denoted by the "+" character being used to separate the manufacturers. The full list of vehicles affected is not listed here because it would be hundreds of lines long.
     - The **T-80UD (478DU1)**'s (China / Pakistan) long name has been changed to **Ob'êkt 478DU1 | T-80UD Ṭaink**.

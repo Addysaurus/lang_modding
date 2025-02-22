@@ -19,7 +19,125 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - Japan rework:
+    - Japan rework (all folders have been adjusted accordingly):
+        - Aircraft:
+            - The **F1M2**'s long name has been changed to **Mitsubishi Jū Kōgyō | 0 Shiki Kansokuki | F1M2**.
+            - The **A5M4**'s long name has been changed to **Mitsubishi Jū Kōgyō | 96 Shiki 4 Gō Kanjō Sentōki 4 Gata | A5M4**.
+            - The **Hagiri's**'s long name has been changed to **Mitsubishi Jū Kōgyō | Matsuo Hagiri's 96 Shiki 4 Gō Kanjō Sentōki 4 Gata | A5M4**.
+            - The **Ki 10-I**'s long name has been changed to **Kawasaki Kōkūki Kōgyō | 95 Shiki Sentōki 1 Gata | Ki 10-I**.
+            - The **Ki 10-II**'s long name has been changed to **Kawasaki Kōkūki Kōgyō | 95 Shiki Sentōki 2 Gata | Ki 10-II**.
+            - **Ki 10-I (Dai 1 Sentai)** renamed to **Ki 10-I (1 Sentai)**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 95 Shiki Sentōki 1 Gata | Ki 10-I (Hikō Dai 1 Sentai)**.
+            - **Ki 10-II (Dai 77 Sentai)** renamed to **Ki 10-II (77 Sentai)**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 95 Shiki Sentōki 2 Gata | Ki 10-II (Hikō Dai 77 Sentai)**.
+            - **Ki 27 otsu** renamed to **Ki 27 Otsu**. The long name has been chanegd to **Nakajima Hikōki | 97 Shiki Sentōki Otsu | Ki 27 Otsu**.
+            - **Ki 27 otsu (Dai 4 Sentai)** renamed to **Ki 27 Otsu (4 Sentai)**. The long name has been chanegd to **Nakajima Hikōki | 97 Shiki Sentōki Otsu | Ki 27 Otsu (Hikō Dai 4 Sentai)**.
+            - **Ki 43-I hei** renamed to **Ki 43-I Hei**. The long name has been changed to **Nakajima Hikōki | 1 Shiki Sentōki 1 Gata Hei | Ki 43-I Hei "Hayabusa"**.
+            - **Ki 43-II kō** renamed to **Ki 43-II Kō**. The long name has been changed to **Nakajima Hikōki | 1 Shiki Sentōki 2 Gata Kō | Ki 43-II Kō "Hayabusa"**.
+            - **Ki 43-III otsu** renamed to **Ki 43-III Otsu**. The long name has been changed to **Nakajima Hikōki / Tachikawa Hikōki | 1 Shiki Sentōki 3 Gata Otsu | Ki 43-III Otsu "Hayabusa"**.
+            - **Ki 45 kai tei** renamed to **Ki 45 Kai Hei (Tei)**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 2 Shiki Fukuza Sentōki Hei | Ki 45 Kai Hei "Toryu" (Tei Sōbi)**.
+            - **Ki 45 kai otsu** renamed to **Ki 45 Kai Otsu**. The long name has been chanegd to **Kawasaki Kōkūki Kōgyō | 2 Shiki Fukuza Sentōki Otsu | Ki 45 Kai Otsu "Toryu"**.
+            - **Ki 45 kai kō** renamed to **Ki 45 Kai Kō**. The long name has been chanegd to **Kawasaki Kōkūki Kōgyō | 2 Shiki Fukuza Sentōki Kō | Ki 45 Kai Kō "Toryu"**.
+            - **Ki 45 kai kō (tei)** renamed to **Ki 45 Kai Kō (Tei)**. The long name has been chanegd to **Kawasaki Kōkūki Kōgyō | 2 Shiki Fukuza Sentōki Kō | Ki 45 Kai Kō "Toryu" (Tei Sōbi)**. This vehicle only exists in the files and is unused ingame.
+            - **Ki 45 kai hei** renamed to **Ki 45 Kai Hei**. The long name has been chanegd to **Kawasaki Kōkūki Kōgyō | 2 Shiki Fukuza Sentōki Hei | Ki 45 Kai Hei "Toryu"**.
+            - **Ki 45 kai hei (tei)** renamed to **Ki 45 Kai Hei (Tei)**. The long name has been chanegd to **Kawasaki Kōkūki Kōgyō | 2 Shiki Fukuza Sentōki Hei | Ki 45 Kai Hei "Toryu" (Tei Sōbi)**.This vehicle only exists in the files and is unused ingame. It is different from the **Ki 45 Kai Hei (Tei)** actually ingame.
+            - The **Ki 109**'s long name has been changed **Mitsubishi Jū Kōgyō | Ki 109**.
+            - The **B5N2**'s long name has been changed **Nakajima Hikōki | 97 Shiki Kanjō Kōgekiki 12 Gata | B5N2**.
+            - The **D3A1**'s long name has been changed **Aichi Kōkūki | 99 Shiki Kanjō Bakugekiki 11 Gata | D3A1**.
+            - The **B6N1**'s long name has been changed **Nakajima Hikōki | Tenzan 11 Gata | B6N1**.
+            - The **B6N2**'s long name has been changed **Nakajima Hikōki | Tenzan 12 Gata | B6N2**.
+            - **B6N2 kō** renamed to **B6N2 Kō**. The long name has been changed to **Nakajima Hikōki | Tenzan 12 Gata Kō | B6N2 Kō**.
+            - The **Ki 32**'s long name has been changed **Kawasaki Kōkūki Kōgyō | 98 Shiki Kei Bakugekiki | Ki 32**.
+            - **Ki 21-I kō** renamed to **Ki 21-I Kō**. The long name has been changed to **Mitsubishi Jū Kōgyō | 97 Shiki Jū Bakugekiki 1 Gata Kō | Ki 21-I Kō**.
+            - **Ki 21-I hei** renamed to **Ki 21-I Hei**. The long name has been changed to **Mitsubishi Jū Kōgyō | 97 Shiki Jū Bakugekiki 1 Gata Hei | Ki 21-I Hei**.
+            - The **H6K4**'s long name has been changed to **Kawanishi Kōkūki | 97 Shiki Hikōtei 22 Gata | H6K4**.
+            - The **E7K2**'s long name has been changed to **Kawanishi Kōkūki | 94 Shiki 2 Gō Suijō Teisatsuki | E7K2**.
+            - The **E8N2**'s long name has been changed to **Nakajima Hikōki | 95 Shiki 2 Gō Suijō Teisatsuki | E8N2**.
+            - The **E13A1**'s long name has been changed to **Aichi Kōkūki | 95 Shiki Suijō Teisatsuki 11 Gata | E13A1**.
+            - The **A6M2-N**'s long name has been changed to **Nakajima Hikōki | 2 Shiki Suijō Sentōki | A6M2-N**.
+            - **A6M2 (11 gata)** renamed to **A6M2 (11 Gata)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 11 Gata | A6M2 "Reisen"**.
+            - **A6M2 (12 gata)** renamed to **A6M2 (12 Gata)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 12 Gata | A6M2 "Reisen"**.
+            - **A6M3 (32 gata)** renamed to **A6M3 (32 Gata)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 32 Gata | A6M3 "Reisen"**.
+            - **A6M3 (22 gata)** renamed to **A6M3 (22 Gata)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 22 Gata | A6M3 "Reisen"**.
+            - **A6M3 kō** renamed to **A6M3 Kō**. The long name has been changed to **Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 22 Gata Kō | A6M3 Kō "Reisen"**.
+            - The **A6M5**'s long name has been chanegd to **Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata | A6M5**.
+            - **A6M5 kō** renamed to **A6M5 Kō**. The long name has been changed to **Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata Kō | A6M5 Kō "Reisen"**.
+            - **A6M5 otsu** renamed to **A6M5 Otsu**. The long name has been changed to **Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata Otsu | A6M5 Otsu "Reisen"**.
+            - **A6M5 hei** renamed to **A6M5 Hei**. The long name has been changed to **Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata Hei | A6M5 Hei "Reisen"**.
+            - The **A6M6**'s long name has been chanegd to **Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 53 Gata | A6M6**.
+            - The **N1K1**'s long name has been chanegd to **Kawanishi Kōkūki | Kyōfū | N1K1**.
+            - The **N1K1-J**'s long name has been chanegd to **Kawanishi Kōkūki | Shiden 11 Gata | N1K1-J**.
+            - The **N1K2-J**'s long name has been chanegd to **Kawanishi Kōkūki | Shiden 12 Gata | N1K2-J**.
+            - **N1K2-J kō** renamed to **N1K2-J Kō**. The long name has been changed to **Kawanishi Kōkūki | Shiden 12 Gata Kō | N1K2-J Kō**.
+            - The **Ki 44-I**'s long name has been chanegd to **Nakajima Hikōki | 2 Shiki Sentōki 1 Gata | Ki 44-I "Shōki"**.
+            - The **Ki 44-I (Dai 47 Chūtai)**'s long name has been chanegd to **Nakajima Hikōki | 2 Shiki Sentōki 1 Gata | Ki 44-I "Shōki" (Dokuritsu Hikō Dai 47 Chūtai)**.
+            - **Ki 44-II otsu** renamed to **Ki 44-II Otsu**. The long name has been changed to **Nakajima Hikōki | 2 Shiki Sentōki 1 Gata Otsu | Ki 44-II Otsu "Shōki"**.
+            - **Ki 44-II hei** renamed to **Ki 44-II Hei**. The long name has been changed to **Nakajima Hikōki | 2 Shiki Sentōki 1 Gata Hei | Ki 44-II Hei "Shōki"**.
+            - **Ki 61-I kō** renamed to **Ki 61-I Kō**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Kō | Ki 61-I Kō "Hien"**.
+            - **Ki 61-I otsu** renamed to **Ki 61-I Otsu**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Otsu | Ki 61-I Otsu "Hien"**.
+            - **Ki 61-I hei** renamed to **Ki 61-I Hei**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Hei | Ki 61-I Hei "Hien"**.
+            - **Tada's Ki 61-I hei** renamed to **Tada's Ki 61-I Hei**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | Takeichi Tada's 3 Shiki Sentōki 1 Gata Hei | Ki 61-I Hei "Hien"**.
+            - **Ki 61-I tei** renamed to **Ki 61-I Tei**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Tei | Ki 61-I Tei "Hien"**.
+            - **Ki 61-II kai kō** renamed to **Ki 61-II Kai Kō**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 2 Gata Kai Kō | Ki 61-II Kai Kō "Hien"**.
+            - The **J1N1**'s long name has been chanegd to **Nakajima Hikōki | 13 Shi Sōhatsu Rikujō Sentōki | J1N1**.
+            - **Ki 102 otsu** renamed to **Ki 102 Otsu**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 5 Shiki Sō | Ki 102 Otsu**.
+            - The **D4Y1**'s long name has been chanegd to **Aichi Kōkūki | Suisei 11 Gata | D4Y1**.
+            - The **D4Y2**'s long name has been chanegd to **Aichi Kōkūki | Suisei 12 Gata | D4Y2**.
+            - **D4Y3 kō** renamed to **D4Y3 Kō**. The long name has been changed to **Aichi Kōkūki | Suisei 12 Gata Kō | D4Y3 Kō**.
+            - The **G4M1**'s long name has been chanegd to **Mitsubishi Jū Kōgyō | 1 Shiki Rikujō Kōgekiki 11 Gata | G4M1**.
+            - The **H8K2**'s long name has been chanegd to **Kawanishi Kōkūki | 2 Shiki Hikōtei 12 Gata | H8K2**.
+            - The **H8K3**'s long name has been chanegd to **Kawanishi Kōkūki | 2 Shiki Hikōtei 22 Gata | H8K3**.
+            - The **Ki 49-I**'s long name has been chanegd to **Nakajima Hikōki | 100 Shiki Jū Bakugekiki 1 Gata | Ki 49-I "Donryu"**.
+            - **Ki 49-II kō** renamed to **Ki 49-II Kō**. The long name has been changed to **Nakajima Hikōki | 100 Shiki Jū Bakugekiki 2 Gata Kō | Ki 49-II Kō "Donryu"**.
+            - **Ki 49-II otsu** renamed to **Ki 49-II Otsu**. The long name has been changed to **Nakajima Hikōki | 100 Shiki Jū Bakugekiki 2 Gata Otsu | Ki 49-II Otsu "Donryu"**.
+            - **Ki 49-II otsu (late)** renamed to **Ki 49-II Otsu (late)**. The long name has been changed to **Nakajima Hikōki | 100 Shiki Jū Bakugekiki 2 Gata Otsu | Ki 49-II Otsu "Donryu" (late)**.
+            - The **A7He1**'s long name has been chanegd to **Heinkel Flugzeugwerke | Inkeru 112 Gata Rikujō Sentōki | A7He1**.
+            - **Ki 48-II otsu** renamed to **Ki 48-II Otsu**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 99 Shiki Sōhatsu Kei Bakugekiki 2 Gata Otsu | Ki 48-II Otsu**.
+            - The **F4U-1A**'s (Japan) long name has been changed to **Vought-Sikorsky Aircraft V-166B | F4U-1A Korusea "Shikorusukī"**.
+            - **Ki 100-I kō** renamed to **Ki 100-I (early)**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | Ki 100-I (early)**.
+            - The **Ki 100-II**'s long name has been changed to **Kawasaki Kōkūki Kōgyō | Ki-100-II**.
+            - **Ki 108 kai** renamed to **Ki 108 Kai**. The long name has been chanegd to **Kawasaki Kōkūki Kōgyō | Ki 108 Kai**.
+            - The **J2M2**'s long name has been changed to **Mitsubishi Jū Kōgyō | Raiden 11 Gata | J2M2**.
+            - The **J2M3**'s long name has been changed to **Mitsubishi Jū Kōgyō | Raiden 21 Gata | J2M3**.
+            - **J2M4 (21 kaigun kōkūshō)** renamed to **J2M4 (21 Kai Kō)**. The long name has been changed to **Mitsubishi Jū Kōgyō / Dai 21 Kaigun Kōkūshō | Raiden 32 Gata | J2M4**.
+            - The **J2M5**'s long name has been changed to **Mitsubishi Jū Kōgyō | Raiden 33 Gata | J2M5**.
+            - **J2M5 kō** renamed to **J2M5 (5 Shiki)**. The long name has been changed to **Mitsubishi Jū Kōgyō | Raiden 33 Gata | J2M5 (5 Shiki 30 Mirimētoru Kotei Kijū)**.
+            - The **J5N1**'s long name has been changed to **Nakajima Hikōki | 18 Shi Sōhatsu Rikujō Sentōki | Shisei Tenrai | J5N1**.
+            - The **P1Y1**'s long name has been changed to **Nakajima Hikōki | Ginga 11 Gata | P1Y1**.
+            - **B7A1** renamed to **B7A1 (Homare 12 Gata)**. The long name has been changed to **Aichi Kōkūki | Shisei Ryusei | B7A1 (Homare 12 Gata)**.
+            - The **B7A2**'s long name has been changed to **Aichi Kōkūki | Shisei Ryusei Kai | B7A2**.
+            - The **G5N1**'s long name has been changed to **Nakajima Hikōki | 13 Shi Rikujō Kōgekiki | Shisei Shinzan | G5N1**.
+            - The **G5N2**'s long name has been changed to **Nakajima Hikōki | 13 Shi Rikujō Kōgekiki | Shisei Shinzan | G5N2**.
+            - **Ki 67-I kō** renamed to **Ki 67-I Kō**. The long name has been changed to **Mitsubishi Jū Kōgyō | 4 Shiki Jū Bakugekiki 1 Gata Kō | Ki 67-I Kō "Hiryū"**.
+            - **Ki 67-I otsu** renamed to **Ki 67-I Otsu**. The long name has been changed to **Mitsubishi Jū Kōgyō | 4 Shiki Jū Bakugekiki 1 Gata Otsu | Ki 67-I Otsu "Hiryū"**.
+            - The **A7M1**'s long name has been changed to **Mitsubishi Jū Kōgyō | 17 Shi Kō Kanjō Sentōki | Shisei Reppū | A7M1**.
+            - The **A7M2**'s long name has been changed to **Mitsubishi Jū Kōgyō | Reppū 11 Gata | A7M1**.
+            - The **Ki 84-I**'s long name has been changed to **Nakajima Hikōki | 4 Shiki Sentōki 1 Gata | Ki 84-I "Hayate"**.
+            - **Ki 84-I kō** renamed to **Ki 84-I Kō**. The long name has been changed to **Nakajima Hikōki | 4 Shiki Sentōki 1 Gata Kō | Ki 84-I Kō "Hayate"**.
+            - **Ki 84-I otsu** renamed to **Ki 84-I Otsu**. The long name has been changed to **Nakajima Hikōki | 4 Shiki Sentōki 1 Gata Otsu | Ki 84-I Otsu "Hayate"**.
+            - **Ki 84-I hei** renamed to **Ki 84-I Hei**. The long name has been changed to **Nakajima Hikōki | 4 Shiki Sentōki 1 Gata Hei | Ki 84-I Hei "Hayate"**.
+            - The **J7W1**'s long name has been changed to **Kaigun Kōkū Gijutsushō + Kyūshū Hikōki | 18 Shi Otsu Rikujō Sentōki | Shisei Shinden | J7W1**.
+            - **Ki 83** renamed to **Ki 83 Kō**. The long name has been changed to **Mitsubishi Jū Kōgyō | Ki 83 Kō**.
+            - The **G8N1**'s long name has been changed to **Nakajima Hikōki | 18 Shi Rikujō Kōgekiki | Shisei Renzan | G8N1**.
+            - The **G8N2**'s long name has been changed to **Nakajima Hikōki | 18 Shi Rikujō Kōgekiki | Shisei Renzan Kai | G8N2**.
+            - The **Ki 87**'s long name has been changed to **Nakajima Hikōki | Ki 87**.
+            - The **J6K1**'s long name has been changed to **Kawanishi Kōkūki | 18 Shi Kō Rikujō Sentōki | Shisei Jinpū | J6K1**.
+            - **M7N1-J kō** renamed to **M7N1-J Kō**. The long name has been changed to **Shisei Kikka Kai 21 Gata Kō | M7N1-J Kō**.
+            - The **Ki 200**'s long name has been changed to **Mitsubishi Jū Kōgyō | Ki 200**.
+            - **R2Y2-G (11 gata)** renamed to **R2Y2-G (11 Gata)**. The long name has been changed to **Shisei Keiun Kai 11 Gata | R2Y2-G**.
+            - **R2Y2-G (22 gata)** renamed to **R2Y2-G (22 Gata)**. The long name has been changed to **Shisei Keiun Kai 22 Gata | R2Y2-G**.
+            - **R2Y2-G (32 gata)** renamed to **R2Y2-G (32 Gata)**. The long name has been changed to **Shisei Keiun Kai 32 Gata | R2Y2-G**.
+            - The **F-86F-30-NA**'s (Japan) long name has been changed to **North American Aviation / Mitsubishi Jū Kōgyō | F-86F-30-NA "Kyokkō"**.
+            - The **F-86F-40-NA**'s (Japan) long name has been changed to **North American Aviation / Mitsubishi Jū Kōgyō | F-86F-40-NA "Kyokkō"**.
+            - **F-86F-40-NA (Dai 6 Hikōtai)** (Japan) renamed to **F-86F-40-NA (6 Hitai)**. The long name has been changed to **North American Aviation / Mitsubishi Jū Kōgyō | F-86F-40-NA "Kyokkō" (Dai 6 Hikōtai)**.
+            - **F-104J** (Japan) renamed to **F-104J (late)**. The long name has been changed to **Lockheed Corporation / Mitsubishi Jū Kōgyō | F-104J "Eikō" (late)**.
+            - **T-2 (late)** renamed to **T-2 (1979)**. The long name has been changed to **Mitsubishi Jū Kōgyō | T-2 (1979)**.
+            - **T-2 (late) (ADTW)** renamed to **T-2 (1979) (Hi Kai Ji Dan)**. The long name has been changed to **Mitsubishi Jū Kōgyō | T-2 (1979) (Hikō Kaihatsu Jikken Dan)**.
+            - The **F-1**'s long name has been changed to **Mitsubishi Jū Kōgyō | F-1**.
+            - The **F-4EJ**'s (Japan) long name has been changed to **McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-4EJ "Fantomu"**.
+            - **F-4EJ (ADTW)** (Japan) renamed to **F-4EJ (Hi Kai Ji Dan)**. The long name has been changed to **McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-4EJ "Fantomu" (Hikō Kaihatsu Jikken Dan)**.
+            - The **F-4EJ Kai**'s (Japan) long name has been changed to **McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-4EJ Kai "Fantomu"**.
+            - **F-15J (1983)** (Japan) renamed to **F-15J (C4)**. The long name has been changed to **McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-15J "Īguru" (C4 Rotto)**.
+            - **F-15J (2003)** (Japan) renamed to **F-15J(M)**. The long name has been changed to **McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-15J(M) "Īguru"**.
+            - The **F-16AJ**'s (Japan) long name has been changed to **General Dynamics Corporation F-16AJ Fighting Falcon** (the lack of separator between the company and vehicle name is intentional).
         - Coastal fleet:
             - The **Dai 538 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 538 Gō**.
             - The **Dai 838 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 838 Gō Gata Gyorai Tei (T-14) | Dai 838 Gō**.
@@ -38,8 +156,8 @@ All dates are listed in DD-MM-YYYY format.
             - The **Dai 11 Gō**'s long name has been changed to **Yokohama Yotto | Kō Gata Gyorai Tei | Dai 11 Gō Gata Gyorai Tei (T-51B) | Dai 11 Gō**.
             - The **Dai 2 Gō**'s long name has been changed to **Ishikawajima Zōsensho | Dai 2 Gō Gata Kusen Tei (K-3) | Dai 2 Gō**.
             - The **Dai 8 Gō**'s long name has been changed to **Tama Zōsensho | Dai 4 Gō Gata Kusen Tei | Dai 8 Gō**.
-            - **Gyoraitei 8 Gō** renamed to **Gyorai Tei 8 Gō**. The long name has been changed to **Mitsubishi Jūkōgyō Shimonoseki Zōsensho | 7 Gō Gata Gyorai Tei | Gyorai Tei 8 Gō**.
-            - **Gyoraitei 15 Gō** renamed to **Gyorai Tei 15 Gō**. The long name has been changed to **Mitsubishi Jūkōgyō Shimonoseki Zōsensho | 11 Gō Gata Gyorai Tei | Gyorai Tei 15 Gō**.
+            - **Gyoraitei 8 Gō** renamed to **Gyorai Tei 8 Gō**. The long name has been changed to **Mitsubishi Jū Kōgyō Shimonoseki Zōsensho | 7 Gō Gata Gyorai Tei | Gyorai Tei 8 Gō**.
+            - **Gyoraitei 15 Gō** renamed to **Gyorai Tei 15 Gō**. The long name has been changed to **Mitsubishi Jū Kōgyō Shimonoseki Zōsensho | 11 Gō Gata Gyorai Tei | Gyorai Tei 15 Gō**.
             - **JDS Ikazuchi (DE-202)** renamed to **Ikazuchi (DE-202)**. The long name has been changed to **Kawasaki Zōsensho | Otsu Gata Goeikan | Ikazuchi Gata Goeikan (E-102) | Ikazuchi (DE-202)**.
             - **JDS Tokachi (DE-218)** renamed to **Tokachi (DE-218)**. The long name has been changed to **Mitsui Zōsen Enjiniaringu | Otsu Gata Goeikan | Chikugo Gata Goeikan (E-106) | Tokachi (DE-218)**.
             - **JDS Akebono (DE-201)** renamed to **Akebono (DE-201)**. The long name has been changed to **Ishikawajima Jūkōgyō | Otsu Gata Goeikan | Akebono Gata Goeikan (E-102) | Akebono (DE-201)**.
@@ -48,14 +166,14 @@ All dates are listed in DD-MM-YYYY format.
             - **Asagao (YTE-01)** renamed to **Asagao**. The long name has been changed to **George Lawley & Son | Yuri Gata Keibitei | Asagao**.
             - **Hatsukari** renamed to **Tomozuru**. The long name has been changed to **Maizuru Kaigun Kōshō | Chidori Gata Suiraitei (F-46) | Tomozuru**.
             - **JDS Isuzu (DE-211)** renamed to **Isuzu (DE-211)**. The long name has been changed to **Mitsui Zōsen Enjiniaringu | Otsu Gata Goeikan | Isuzu Gata Goeikan (E-103) | Isuzu (DE-211)**.
-            - **JDS Ayanami (DD-103)** renamed to **Ayanami (DD-103)**. The long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Kō Gata Goeikan 1 Gata | Ayanami Gata Goeikan (F-102) | Ayanami (DD-103)**.
+            - **JDS Ayanami (DD-103)** renamed to **Ayanami (DD-103)**. The long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Kō Gata Goeikan 1 Gata | Ayanami Gata Goeikan (F-102) | Ayanami (DD-103)**.
         - Bluewater fleet:
             - **Momi**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nitō Kuchikukan | Momi Gata Kuchikukan (F-37) | Momi (1930)**. 
             - **Mutsuki**'s long name has been changed to **Sasebo Kaigun Kōshō | Ittō Kuchikukan | Mutsuki Gata Kuchikukan (F-41E1) | Mutsuki (1941)**.
             - **Satsuki**'s long name has been changed to **Fujinagata Zōsensho | Ittō Kuchikukan | Mutsuki Gata Kuchikukan (F-41E1) | Satsuki (1935)**.
             - **Ayanami**'s long name has been changed to **Fujinagata Zōsensho | Toku Gata Kuchikukan | Ayanami Gata Kuchikukan 2 Gata (F-43) | Ayanami (1936)**.
-            - **JDS Harukaze (DD-101)** renamed to **Harukaze (DD-101)**. The long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Kō Gata Goeikan | Harukaze Gata Goeikan (F-101) | Harukazec (DD-101)**.
-            - **JDS Murasame (DD-107)** renamed to **Murasame (DD-107)**. The long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Kō Gata Goeikan 2 Gata | Murasame Gata Goeikan (F-103) | Murasame (DD-107) (1975)**.
+            - **JDS Harukaze (DD-101)** renamed to **Harukaze (DD-101)**. The long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Kō Gata Goeikan | Harukaze Gata Goeikan (F-101) | Harukazec (DD-101)**.
+            - **JDS Murasame (DD-107)** renamed to **Murasame (DD-107)**. The long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Kō Gata Goeikan 2 Gata | Murasame Gata Goeikan (F-103) | Murasame (DD-107) (1975)**.
             - **Yūgumo**'s long name has been changed to **Maizuru Kaigun Kōshō | Ittō Kuchikukan | Yūgumo Gata Kuchikukan (F-50) | Yūgumo**.
             - **Hayanami**'s long name has been changed to **Maizuru Kaigun Kōshō | Ittō Kuchikukan | Yūgumo Gata Kuchikukan (F-50) | Hayanami**.
             - **Kiyoshimo**'s long name has been changed to **Uraga Senkyo | Ittō Kuchikukan | Yūgumo Gata Kuchikukan (F-50) | Kiyoshimo**.
@@ -64,30 +182,30 @@ All dates are listed in DD-MM-YYYY format.
             - **JDS Yūgure (DD-184)** renamed to **Yūgure (DD-184)**. The long name has been changed to **Boston Navy Yard / Ishikawajima Jūkōgyō | Kō Gata Goeikan | Airake Gata Goeikan | Yūgure (DD-184)**.
             - **Akizuki**'s long name has been changed to **Maizuru Kaigun Kōshō | Ittō Kuchikukan | Akizuki Gata Kuchikukan (F-51) | Akizuki**.
             - **Kako**'s long name has been changed to **Kawasaki Zōsensho | Ittō Junyōkan | Furutaka Gata Junyōkan | Kako (1932)**.
-            - **Furutaka**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Furutaka Gata Junyōkan | Furutaka (1942)**.
+            - **Furutaka**'s long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Furutaka Gata Junyōkan | Furutaka (1942)**.
             - **Isuzu**'s long name has been changed to **Uraga Senkyo / Kure Kaigun Kōshō | Nitō Junyōkan | Nagara Gata Junyōkan | Isuzu (1944)**.
-            - **Tama**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Nitō Junyōkan | Kuma Gata Junyōkan | Tama (1939)**.
-            - **Sendai**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Nitō Junyōkan | Sendai Gata Junyōkan | Sendai (1942)**.
+            - **Tama**'s long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Nitō Junyōkan | Kuma Gata Junyōkan | Tama (1939)**.
+            - **Sendai**'s long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Nitō Junyōkan | Sendai Gata Junyōkan | Sendai (1942)**.
             - **Yūbari**'s long name has been changed to **Sasebo Kaigun Kōshō / Yokosuka Kaigun Kōshō | Nitō Junyōkan | Yūbari Gata Junyōkan | Yūbari (1944)**.
             - **Shimakaze**'s long name has been changed to **Maizuru Kaigun Kōshō | Ittō Kuchikukan | Shimakaze Gata Kuchikukan | Shimakaze (1944)**.
             - **Yūdachi**'s long name has been changed to **Sasebo Kaigun Kōshō | Ittō Kuchikukan | Shiratsuyu Gata Kuchikukan | Yūdachi**.
-            - **Aoba**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Aoba Gata Junyōkan | Aoba (1944)**.
-            - **Haguro**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Ittō Junyōkan | Myōkō Gata Junyōkan | Haguro (1944)**.
-            - **Myōkō**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Ittō Junyōkan | Myōkō Gata Junyōkan | Myōkō (1944)**.
+            - **Aoba**'s long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Aoba Gata Junyōkan | Aoba (1944)**.
+            - **Haguro**'s long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Ittō Junyōkan | Myōkō Gata Junyōkan | Haguro (1944)**.
+            - **Myōkō**'s long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Ittō Junyōkan | Myōkō Gata Junyōkan | Myōkō (1944)**.
             - **Agano**'s long name has been changed to **Sasebo Kaigun Kōshō | Nitō Junyōkan | Agano Gata Junyōkan (C-41-II) | Agano (1943)**.
             - **Ikoma**'s long name has been changed to **Kure Kaigun Kōshō | Ittō Junyōkan | Tsukuba Gata Junyōkan | Ikoma (1912)**.
-            - **Tone**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Tone Gata Junyōkan | Tone (1945)**.
+            - **Tone**'s long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Tone Gata Junyōkan | Tone (1945)**.
             - **Settsu**'s long name has been changed to **Kure Kaigun Kōshō | Kawachi Gata Senkan (A-30) | Settsu**.
             - **Suzuya**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nitō Junyōkan | Mogami Gata Junyōkan | Suzuya**.
             - **Mogami**'s long name has been changed to **Kure Kaigun Kōshō | Nitō Junyōkan | Mogami Gata Junyōkan | Mogami**.
-            - **Mikuma**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Nitō Junyōkan | Mogami Gata Junyōkan | Mikuma**.
+            - **Mikuma**'s long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Nitō Junyōkan | Mogami Gata Junyōkan | Mikuma**.
             - **Yamashiro**'s long name has been changed to **Yokosuka Kaigun Kōshō | Fusō Gata Senkan (A-64) | Yamashiro**.
             - **Fusō**'s long name has been changed to **Kure Kaigun Kōshō | Fusō Gata Senkan (A-64) | Fusō**.
             - **Kurama**'s long name has been changed to **Yokosuka Kaigun Kōshō | Ittō Junyōkan | Kurama Gata Junyōkan | Kurama (1919)**.
             - **Haruna**'s long name has been changed to **Kawasaki Zōsensho | Kongō Gata Senkan (B-46) | Haruna (1945)**.
-            - **Kirishima**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kirishima (1942)**.
+            - **Kirishima**'s long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kirishima (1942)**.
             - **Kongō**'s long name has been changed to **Vickers-Armstrongs / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kongō (1944)**.
-            - **Hyūga**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Ise Gata Senkan (A-92) | Hyūga**.
+            - **Hyūga**'s long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Ise Gata Senkan (A-92) | Hyūga**.
             - **Ise**'s long name has been changed to **Kawasaki Zōsensho | Ise Gata Senkan (A-92) | Ise (1937)**.
             - **Amagi**'s long name has been changed to **Yokosuka Kaigun Kōshō | Amagi Gata Junyōsenkan (B-64) | Amagi**.
             - **Mutsu**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nagato Gata Senkan (A-114) | Mutsu (1922)**.
@@ -104,8 +222,10 @@ All dates are listed in DD-MM-YYYY format.
     - **Challenger 2 ATD** renamed to **ATD Challenger 2**. The long name has been changed to **Rheinmetall BAE Systems Land | Advanced Technology Demonstrator Challenger 2 Platform**.
     - The **K9 (VIDAR)** and the **KPz Leopard 1 A5 NO2** have had their roundel changed to the new Norwegian roundel added for the **F-5A(G) (Eot)**.
     - The **Vauquelin (X 53)**'s long name has been corrected to **Vauquelin-class, Vauquelin (X 53), 1941**. Basically, a typo was fixed.
-    - The **M 48 A2 G A2**'s long name has been changed to **mittlerer Kampfpanzer M 48 A2 G A2**.\
+    - The **M 48 A2 G A2**'s long name has been changed to **mittlerer Kampfpanzer M 48 A2 G A2**.
     - The **strv 103C**'s long name has been changed to **stridsvagn 103C**.
+    - **HMS Orion (52)**, **HMS Marlborough (66)**, and **HMS Barham (97)** have been reclassified as "super dradnoughts" based on their Royal Navy classification.
+    - Manufacturer **Mitsubishi Jūkōgyō** renamed to **Mitsubishi Jū Kōgyō**.
 
 ### Weaponry:
 
@@ -456,7 +576,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Kfir C.10** renamed to **Kfir Block 60**.
         - **M.B.151C.1** renamed to **M.B.151-C1**. The long name has been changed to **Société des Avions Marcel Bloch | M.B.151-C1**.
         - **T-80UD/BE** renamed to **T-80UD**. The long name has been changed to **Ob'êkt 478BYe | T-80UD Byeryeza**.
-        - **IJN Kirishima** renamed to **Kirishima**. The long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kirishima (1942)**.
+        - **IJN Kirishima** renamed to **Kirishima**. The long name has been changed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kirishima (1942)**.
     - British bluewater fleet rework:
         - **HMS Abdiel (M39)** renamed to **HMS Abdiel (M 39)**. The long name has been changed to **J. Samuel White & Co. / Palmers Shipyard | Abdiel-class | HMS Abdiel (M 39) (1942)**. Its long distance tag has been changed to **Minelayer**.
         - The **HMS Arethusa (26)**'s long name has been changed to **Chatham Royal Dockyard / Charleston Naval Shipyard | Arethusa-class | HMS Arethusa (26) (1943)**.
@@ -748,13 +868,13 @@ All dates are listed in DD-MM-YYYY format.
     - The **75 MSSR**'s long name has been changed to **75 Shiki Ji Hashi 130mm Tarensō Rokettodan Hasshaki**.
     - **24 ICV** renamed to **24 WAFV**. The long name has been changed to **24 Shiki Sōwa Sōkō Sentō Sha**.
     - **Sabra Mk. 1** renamed to **Sabrah Mk. 1**.
-    - **S.199 (batch 2)** renamed to **S.199**. The long name has been changed to **Avia Motors | Avia C.210 | S.199 ""Sakin"" (batch 2)**.
+    - **S.199 (batch 2)** renamed to **S.199**. The long name has been changed to **Avia Motors | Avia C.210 | S.199 "Sakin" (batch 2)**.
     - **B.KhJ.1** renamed to **B.KhL.1 (early)**. There is no real "early" variant, but Gaijin made it up and is now adding a "late" version, so I guess this is the "early" variant now.
     - **FCM 2C** renamed to **2C**.
     - **FCM 2C bis** renamed to **2C bis**.
     - **B1 bis / FCM 2C** folder renamed to **B1 bis / 2C**.
     - **T-34-85 (S-53)** (China) renamed to **T-34-85 (Sep, 1944)**. The long name has been changed to **Ural'skij Tankovyj Zavod, Zavod №183 | Ob"yekt 35 | Т-34-85 obr. 1944 g. (September, 1944)**.
-    - **T-34-85 (2nd T.Div.)** (China) renamed to **T-34-85 (Sep, 1944) (Zhàn Chē Dì 2 Shī)**. The long name has beeb changed to **Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 35 | Т-34-85 obr. 1944 g. (September, 1944) (Zhàn Chē Dì 2 Shī)**.
+    - **T-34-85 (2nd T.Div.)** (China) renamed to **T-34-85 (Sep, 1944) (Zhàn Chē Dì 2 Shī)**. The long name has beeb changed to **Ural'skij Tankovyj Zavod, Zavod №183 | Ob"yekt 35 | Т-34-85 obr. 1944 g. (September, 1944) (Zhàn Chē Dì 2 Shī)**.
     - The **T-34-85 (1960s)**'s (China) long name has been changed to **Ural'skij Tankovyj Zavod, Zavod №183 / 674 Gōngchǎng | Ob"yekt 35 | Т-34-85 obr. 1944 g. (1960s) "58 Xíng"**.
     - **IS-2 (1-j) (3rd T.Div.)** (China) renamed to **IS-2 (1-j) (Zhàn Chē Dì 3 Shī)**.
 
@@ -1022,7 +1142,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Gripen C (2011)** renamed to **Gripen C (Cobra)**. This is the missile test version from the testing of ARH missiles and will never actually be used ingame, it was only changed because it was annoying me.
     - The **Tornado F. Mk. 3**'s (Italy) long name has been changed to **Tornado F. Mk. 3 (Batch 2)**.
     - The **RCV**'s long distance name has been changed from **Light tank** to **IFV**.
-    - The manufacturer **Mitsubishi Jūkōgyō Kabushiki Gaisha Nagasaki Zōsenjo** has been renamed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo**.
+    - The manufacturer **Mitsubishi Jū Kōgyō Kabushiki Gaisha Nagasaki Zōsenjo** has been renamed to **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo**.
     - **AMX 40** renamed to **AMX 40 P4**.
     - South African "Mk" changes (The **SuperHind Mk. IV** does not follow this system because that was a venture by ATE, not a South African military project, and so ATE's designation applies):
         - **Rooivalk Mk. 1F** renamed to **Rooivalk Mk1**.
@@ -1659,7 +1779,7 @@ All dates are listed in DD-MM-YYYY format.
             - The **Amagi**'s long name has been changed to **Amagi gata (B-64) | Amagi**. **Amagi** was never built, so it doesn't get a manufacturer.
             - The **Mutsu**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nagato gata (A-114) | Mutsu (1922)**.
             - The **Shimakaze**'s long name has been changed to **Maizuru Kaigun Kōshō | Shimakaze gata (F-52) | Shimakaze (1944)**.
-            - The **JDS Harukaze (DD-101)**'s long name has been changed to **Mitsubishi Jūkōgyō Kabushiki Gaisha Nagasaki Zōsenjo | Harukaze gata goeikan (F-101) | JDS Harukaze (DD-101)**.
+            - The **JDS Harukaze (DD-101)**'s long name has been changed to **Mitsubishi Jū Kōgyō Kabushiki Gaisha Nagasaki Zōsenjo | Harukaze gata goeikan (F-101) | JDS Harukaze (DD-101)**.
             - The **JDS Yūgure (DD-184)**'s long name has been changed to **Boston Navy Yard / Ishikawajima Jūkōgyō Tōkyō Dai 2 Kōjō | Ariake gata goeikan | JDS Yūgure (DD-184)**.
         - Coastal fleet (why do I do this to myself ahhhhhh) (thank you to Wiggly_Armed_Man for helping me understand how the IJN's absolutely rancid naming system for small boats works):
             - **Type T-1** renamed to **Dai 1 Gō**. The long name has been changed to **Yokohama Yotto Kabushiki Kaisha | Dai 1 Gō gata gyoraitei (T-1) | Dai 1 Gō**.
@@ -1688,14 +1808,14 @@ All dates are listed in DD-MM-YYYY format.
             - **PT-15** renamed to **Gyoraitei 15 Gō**. The long name has been changed to **11 Gō gata gyoraitei | Gyoraitei 15 Gō**.
             - **PG-02** renamed to **Misairutei 2 Gō (PG-822)**. The long name has been changed to **1 Gō gata misairutei | Misairutei 2 Gō (PG-822)**.
             - The **Hatsukari**'s long name has been changed to **Fujinagata Zōsenjo | Chidori gata goeikan | Hatsukari (1944)**.
-            - The **JDS Ayanami (DD-103)**'s long name has ben changed to **Mitsubishi Jūkōgyō Kabushiki Gaisha Nagasaki Zōsenjo | Ayanami gata goeikan (F-102) | JDS Ayanami (DD-103)**.
+            - The **JDS Ayanami (DD-103)**'s long name has ben changed to **Mitsubishi Jū Kōgyō Kabushiki Gaisha Nagasaki Zōsenjo | Ayanami gata goeikan (F-102) | JDS Ayanami (DD-103)**.
             - The **Asagao (YTE-01)**'s long name has ben changed to **George Lawley & Son | Yuri gata renshū zatsusen | Asagao (YTE-01)**.
     - Japanese helicopter rework:
-        - **AH-64DJP** (Japan) renamed to **AH-64D**. The long name has been changed to **Fuji Jūkōgyō | AH-64D kōgeki herikoputā ""Apatchi Rongubō"**.
+        - **AH-64DJP** (Japan) renamed to **AH-64D**. The long name has been changed to **Fuji Jūkōgyō | AH-64D kōgeki herikoputā "Apatchi Rongubō"**.
         - **AH-1S (FMC)** (Japan) renamed to **AH-1S (FMC) (C-NITE)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment)**.
         - **AH-1S (FMC) (4th ATHU)** (Japan) renamed to **AH-1S (FMC) (C-NITE) (Dai 4 TSH)**. The long name has been changed to **Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (Dai 4 Tai Sensha Herikoputātai)**.
         - The **AH-1E**'s (Japan) long name has been changed to **Fuji Jūkōgyō | AH-1E kōgeki herikoputā**.
-        - The **UH-1B**'s (Japan) long name has been changed to **Fuji Jūkōgyō | UH-1B ""Hiyodori"**.
+        - The **UH-1B**'s (Japan) long name has been changed to **Fuji Jūkōgyō | UH-1B "Hiyodori"**.
     - **HMS Barham (04)** renamed to **HMS Barham (97)**. Her pennant number was initially 97, being changed to 10 in January, 1918; 34 in April, 1918; and finally 04 in November, 1919.
     - **Seafire L.F. Mk. III*** (France) renamed to **Seafire Mk. III**.
     - The **Novorossijsk**'s long name has been changed to **Conte di Cavour-class, Novorossijsk, 1955**. Previously, the long name still had Gaijin's original spelling of "Novorossiysk".
@@ -1825,7 +1945,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **Su-25**'s long name has been changed to **Su-25 "Grač"**.
     - The **Su-25K**'s long name has been changed to **Su-25K "Grač"**.
     - The **Su-25T**'s long name has been changed to **Su-25T "Grač"**.
-    - The **Su-25TM (MAKS-2003)**'s long name has been changed to **Su-25TM ""Grač"" (MAKS-2003)**.
+    - The **Su-25TM (MAKS-2003)**'s long name has been changed to **Su-25TM "Grač" (MAKS-2003)**.
     - The **Su-25 (558-j ARZ)**'s long name has been changed to **558-j Aviaczionnyj Ryemontnyj Zavod | Su-25 "Grač"**.
     - The **Su-25SM3**'s long name has been changed to **Su-25SM3 "Grač"**.
     - Israeli transliteration rework (why do I do this to myself) (all folders have been adjusted accordingly):
@@ -2145,7 +2265,7 @@ All dates are listed in DD-MM-YYYY format.
     - The **Matilda, Mk. IV (Hedgehog)**'s long name has been changed to **Tank, Infantry, Mk. II, A.12, Matilda, Mk. IV (Projector, Hedgehog, No. 1, Mk. 1)**.
     - The **HMS Marlborough (79)**'s long name has been changed to **Iron Duke-class, HMS Marlborough, 1927 (79)**.
     - **Parižskaâ kommuna** renamed to **Parižskaâ Kommuna**.
-    - The **IT-1**'s long name has been changed to **Ob""yekt 150 | IT-1 "Yaguar"**.
+    - The **IT-1**'s long name has been changed to **Ob"yekt 150 | IT-1 "Yaguar"**.
     - **F-4S-MC** renamed to **F-4S-33-MC** to fit with US conversion naming schemes for new letter variants where the block number is retained from the variant it was converted from.
     - **Lancaster Mk. VII** renamed to **Lancaster Mk. VII WU**. The long name has been changed to **Lancaster Mk. VII Western Union**.
 
@@ -2975,7 +3095,7 @@ A new transliteration standard has been introduced for Russian. This standard is
     - Egyptian roundel removed from the **TK-20 (A-215)**.
     - **Sholef V1** long name changed from **Soltam Systems | Sholef V1** to **Soltam Systems | Soltam Sholef V1** because Sholef V1 was the name Soltam gave it.
     - **A7M2** long name changed to **Reppū kanjō sentōki 11 gata | A7M2**.
-    - Chinese **Ki 44-II Hei** long name changed to **2 shiki sentōki 2 gata hei | Ki 44-II hei ""Shōki""**. The short name has been changed to **Ki 44-II hei**. I forgot to do this in 1.08.66.
+    - Chinese **Ki 44-II Hei** long name changed to **2 shiki sentōki 2 gata hei | Ki 44-II hei "Shōki"**. The short name has been changed to **Ki 44-II hei**. I forgot to do this in 1.08.66.
     - **M-51 Degem C** renamed to **M-51 Degem G**.
     - **Sho't Cal C** renamed to **Sho't Cal G**.
     - **Magach 6C** renamed to **Magach 6G**. The folder has adjusted accordingly.
@@ -3161,12 +3281,12 @@ A new transliteration standard has been introduced for Russian. This standard is
         - **Ki 27 Otsu** (Japan and China) long name changed to **97 shiki sentōki otsu | Ki 27 otsu**.
         - **Ki 27 Otsu (No. 4 Sentai)** (Japan and China) long name changed to **97 shiki sentōki otsu | Ki 27 otsu (Hikō No. 4 Sentai)**.
         - **Ki 44-I** long name changed to **2 shiki sentōki 1 gata | Ki 44-I "Shōki"**.
-        - **Ki 44-I (Hikō No. 47 Chūtai)** long name changed to **2 shiki sentōki 1 gata | Ki 44-I ""Shōki"" (Dokuritsu Hikō No. 47 Chūtai)**. The short name has changed to **Ki 44-I (No. 47 Chūtai)**.
+        - **Ki 44-I (Hikō No. 47 Chūtai)** long name changed to **2 shiki sentōki 1 gata | Ki 44-I "Shōki" (Dokuritsu Hikō No. 47 Chūtai)**. The short name has changed to **Ki 44-I (No. 47 Chūtai)**.
         - **Ki 44-II Otsu** (Japan and China) long name changed to **2 shiki sentōki 2 gata otsu | Ki 44-II otsu "Shōki"**.
         - **Ki 44-II Hei** (Japan and China) long name changed to **2 shiki sentōki 2 gata hei | Ki 44-II hei "Shōki"**.
         - **Ki 61-I Tei** long name changed to **3 shiki sentōki 1 gata tei | Ki 61-I tei "Hien"**.
         - **Ki 61-I Otsu** (Japan and China) long name changed to **3 shiki sentōki 1 gata otsu | Ki 61-I otsu "Hien"**.
-        - **Ki 61-I Kō** long name changed to **3 shiki sentōki 1 gata kō | Ki 61-I kō ""Hien""**.
+        - **Ki 61-I Kō** long name changed to **3 shiki sentōki 1 gata kō | Ki 61-I kō "Hien"**.
         - **Ki 61-I Hei** long name changed to **3 shiki sentōki 1 gata hei | Ki 61-I hei "Hien"**.
         - **Tada's Ki 61-I Hei** long name changed to **Tada Takeichi's 3 shiki sentōki 1 gata hei | Ki 61-I hei "Hien"**.
         - **Ki 61-I Kai Ko** long name changed to **3 shiki sentōki 1 gata kai kō | Ki 61-I kai kō "Hien"**.
@@ -3317,7 +3437,7 @@ A new transliteration standard has been introduced for Russian. This standard is
     - **AH-1G** long name changed from **AH-1G Tzefa** to **AH-1G Tzefa Alef**.
     - **AH-1Q** long name changed from **AH-1Q Tzefa** to **AH-1Q Tzefa Bet**.
     - **AH-1S (FMC)** long name changed from **AH-1S Tzefa (Fully Modernized Cobra)** to **AH-1S Tzefa Dalet (Fully Modernized Cobra)**.
-    - **MD 500/Orev** long name changed from **MD 500/Orev Defender ""Lahatut""** to **MD 500/Orev Lahatut**
+    - **MD 500/Orev** long name changed from **MD 500/Orev Defender "Lahatut"** to **MD 500/Orev Lahatut**
     - **Peten** (USA and Israel) short name changed to **AH-64A**. The long name has been changed from **McDonnell Douglas Helicopter Systems | Peten** to **McDonnell Douglas Helicopter Systems | AH-64A Peten**.
     - **Peten (PV264)** short name changed to **AH-64A (PV264)**. The long name has been changed from **McDonnell Douglas Helicopter Systems | Peten (PV264)** to **McDonnell Douglas Helicopter Systems | AH-64A Peten (PV264)**.
     - **Saraph** short name changed to **AH-64D-I**. The long name has been changed from **Boeing Rotorcraft Systems | Saraph** to **Boeing Rotorcraft Systems | AH-64D-I Saraph**.
@@ -3634,7 +3754,7 @@ Note: I wanted to push this update in a later and more complete state, but I'm a
 
 - #### Changes:
 
-    - The **Torpedo-Schnellboot, Libelle-Klasse, Projekt 131.400** has been renamed to **kleines Torpedoschnellboot Projekt 131 ""Libelle"" | Nr. 401**. The short name has been adjusted to **Nr. 401** accordingly.
+    - The **Torpedo-Schnellboot, Libelle-Klasse, Projekt 131.400** has been renamed to **kleines Torpedoschnellboot Projekt 131 "Libelle" | Nr. 401**. The short name has been adjusted to **Nr. 401** accordingly.
     - Missing **KPz** added to the short name of the **Leopard 2 A7 HU**.
     - The **M4** from the War Thunder Mobile promotion has been changed over to use the **Tank, Medium** nomenclature. This was missed in 1.08.56 when the rest of the M4s were switched over to use this nomenclature.
     - **leichter Kampfpanzer M 41** changed to **leichter Kampfpanzer M 41 G**. The short name was already **M 41 G**, but the "G" was missing in the long name.

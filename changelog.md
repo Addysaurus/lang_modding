@@ -46,9 +46,51 @@ All dates are listed in DD-MM-YYYY format.
             - **Misairutei 2 Gō (PG-822)** renamed to **Misairutei 2 Gō**. The long name has been changed to **1 Gō Gata Misairutei | Misairutei 2 Gō**.
             - The **Shōnan**'s long name has been changed to **Hitachi Zōsen | Kō Gata Kaibōkan | Hiburi Gata Kaibōkan (E-20B) | Shōnan**.
             - **Asagao (YTE-01)** renamed to **Asagao**. The long name has been changed to **George Lawley & Son | Yuri Gata Keibitei | Asagao**.
-            - **Hatsukari** renamed to **Tomotsuru**. The long name has been changed to **Maizuru Kaigun Kōshō | Chidori Gata Suiraitei (F-46) | Tomotsuru**.
+            - **Hatsukari** renamed to **Tomozuru**. The long name has been changed to **Maizuru Kaigun Kōshō | Chidori Gata Suiraitei (F-46) | Tomozuru**.
             - **JDS Isuzu (DE-211)** renamed to **Isuzu (DE-211)**. The long name has been changed to **Mitsui Zōsen Enjiniaringu | Otsu Gata Goeikan | Isuzu Gata Goeikan (E-103) | Isuzu (DE-211)**.
             - **JDS Ayanami (DD-103)** renamed to **Ayanami (DD-103)**. The long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Kō Gata Goeikan 1 Gata | Ayanami Gata Goeikan (F-102) | Ayanami (DD-103)**.
+        - Bluewater fleet:
+            - **Momi**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nitō Kuchikukan | Momi Gata Kuchikukan (F-37) | Momi (1930)**. 
+            - **Mutsuki**'s long name has been changed to **Sasebo Kaigun Kōshō | Ittō Kuchikukan | Mutsuki Gata Kuchikukan (F-41E1) | Mutsuki (1941)**.
+            - **Satsuki**'s long name has been changed to **Fujinagata Zōsensho | Ittō Kuchikukan | Mutsuki Gata Kuchikukan (F-41E1) | Satsuki (1935)**.
+            - **Ayanami**'s long name has been changed to **Fujinagata Zōsensho | Toku Gata Kuchikukan | Ayanami Gata Kuchikukan 2 Gata (F-43) | Ayanami (1936)**.
+            - **JDS Harukaze (DD-101)** renamed to **Harukaze (DD-101)**. The long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Kō Gata Goeikan | Harukaze Gata Goeikan (F-101) | Harukazec (DD-101)**.
+            - **JDS Murasame (DD-107)** renamed to **Murasame (DD-107)**. The long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Kō Gata Goeikan 2 Gata | Murasame Gata Goeikan (F-103) | Murasame (DD-107) (1975)**.
+            - **Yūgumo**'s long name has been changed to **Maizuru Kaigun Kōshō | Ittō Kuchikukan | Yūgumo Gata Kuchikukan (F-50) | Yūgumo**.
+            - **Hayanami**'s long name has been changed to **Maizuru Kaigun Kōshō | Ittō Kuchikukan | Yūgumo Gata Kuchikukan (F-50) | Hayanami**.
+            - **Kiyoshimo**'s long name has been changed to **Uraga Senkyo | Ittō Kuchikukan | Yūgumo Gata Kuchikukan (F-50) | Kiyoshimo**.
+            - **Hatsuharu**'s long name has been changed to **Sasebo Kaigun Kōshō | Ittō Kuchikukan | Hatsuharu Gata Kuchikukan (F-50) | Hatsuharu**.
+            - **Nenohi**'s long name has been changed to **Uraga Senkyo | Ittō Kuchikukan | Hatsuharu Gata Kuchikukan (F-50) | Nenohi**.
+            - **JDS Yūgure (DD-184)** renamed to **Yūgure (DD-184)**. The long name has been changed to **Boston Navy Yard / Ishikawajima Jūkōgyō | Kō Gata Goeikan | Airake Gata Goeikan | Yūgure (DD-184)**.
+            - **Akizuki**'s long name has been changed to **Maizuru Kaigun Kōshō | Ittō Kuchikukan | Akizuki Gata Kuchikukan (F-51) | Akizuki**.
+            - **Kako**'s long name has been changed to **Kawasaki Zōsensho | Ittō Junyōkan | Furutaka Gata Junyōkan | Kako (1932)**.
+            - **Furutaka**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Furutaka Gata Junyōkan | Furutaka (1942)**.
+            - **Isuzu**'s long name has been changed to **Uraga Senkyo / Kure Kaigun Kōshō | Nitō Junyōkan | Nagara Gata Junyōkan | Isuzu (1944)**.
+            - **Tama**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Nitō Junyōkan | Kuma Gata Junyōkan | Tama (1939)**.
+            - **Sendai**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Nitō Junyōkan | Sendai Gata Junyōkan | Sendai (1942)**.
+            - **Yūbari**'s long name has been changed to **Sasebo Kaigun Kōshō / Yokosuka Kaigun Kōshō | Nitō Junyōkan | Yūbari Gata Junyōkan | Yūbari (1944)**.
+            - **Shimakaze**'s long name has been changed to **Maizuru Kaigun Kōshō | Ittō Kuchikukan | Shimakaze Gata Kuchikukan | Shimakaze (1944)**.
+            - **Yūdachi**'s long name has been changed to **Sasebo Kaigun Kōshō | Ittō Kuchikukan | Shiratsuyu Gata Kuchikukan | Yūdachi**.
+            - **Aoba**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Aoba Gata Junyōkan | Aoba (1944)**.
+            - **Haguro**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Ittō Junyōkan | Myōkō Gata Junyōkan | Haguro (1944)**.
+            - **Myōkō**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Ittō Junyōkan | Myōkō Gata Junyōkan | Myōkō (1944)**.
+            - **Agano**'s long name has been changed to **Sasebo Kaigun Kōshō | Nitō Junyōkan | Agano Gata Junyōkan (C-41-II) | Agano (1943)**.
+            - **Ikoma**'s long name has been changed to **Kure Kaigun Kōshō | Ittō Junyōkan | Tsukuba Gata Junyōkan | Ikoma (1912)**.
+            - **Tone**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Tone Gata Junyōkan | Tone (1945)**.
+            - **Settsu**'s long name has been changed to **Kure Kaigun Kōshō | Kawachi Gata Senkan (A-30) | Settsu**.
+            - **Suzuya**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nitō Junyōkan | Mogami Gata Junyōkan | Suzuya**.
+            - **Mogami**'s long name has been changed to **Kure Kaigun Kōshō | Nitō Junyōkan | Mogami Gata Junyōkan | Mogami**.
+            - **Mikuma**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Nitō Junyōkan | Mogami Gata Junyōkan | Mikuma**.
+            - **Yamashiro**'s long name has been changed to **Yokosuka Kaigun Kōshō | Fusō Gata Senkan (A-64) | Yamashiro**.
+            - **Fusō**'s long name has been changed to **Kure Kaigun Kōshō | Fusō Gata Senkan (A-64) | Fusō**.
+            - **Kurama**'s long name has been changed to **Yokosuka Kaigun Kōshō | Ittō Junyōkan | Kurama Gata Junyōkan | Kurama (1919)**.
+            - **Haruna**'s long name has been changed to **Kawasaki Zōsensho | Kongō Gata Senkan (B-46) | Haruna (1945)**.
+            - **Kirishima**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kirishima (1942)**.
+            - **Kongō**'s long name has been changed to **Vickers-Armstrongs / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kongō (1944)**.
+            - **Hyūga**'s long name has been changed to **Mitsubishi Jūkōgyō Nagasaki Zōsenjo | Ise Gata Senkan (A-92) | Hyūga**.
+            - **Ise**'s long name has been changed to **Kawasaki Zōsensho | Ise Gata Senkan (A-92) | Ise (1937)**.
+            - **Amagi**'s long name has been changed to **Yokosuka Kaigun Kōshō | Amagi Gata Junyōsenkan (B-64) | Amagi**.
+            - **Mutsu**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nagato Gata Senkan (A-114) | Mutsu (1922)**.
     - **F-5A(G)** renamed to **F-5A(G) (Eot)**. The long name has been changed to **Northrop Corperation N-156F | F-5A(G) Freedom Fighter (Eye of the Tiger)**.
     - All manufacturers have been reworked. Vehicles with a manufacturer designation no longer have the manufacturer repeated and instead have the manufacturer's name directly attached to the manufacturer designation. The "/" character is now only used to separate upgrades and kit builds, while joint ventures are now denoted by the "+" character being used to separate the manufacturers. The full list of vehicles affected is not listed here because it would be hundreds of lines long.
     - The **T-80UD (478DU1)**'s (China / Pakistan) long name has been changed to **Ob'êkt 478DU1 | T-80UD Ṭaink**.

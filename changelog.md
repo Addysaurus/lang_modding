@@ -138,6 +138,15 @@ All dates are listed in DD-MM-YYYY format.
             - **F-15J (1983)** (Japan) renamed to **F-15J (C4)**. The long name has been changed to **McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-15J "Īguru" (C4 Rotto)**.
             - **F-15J (2003)** (Japan) renamed to **F-15J(M)**. The long name has been changed to **McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-15J(M) "Īguru"**.
             - The **F-16AJ**'s (Japan) long name has been changed to **General Dynamics Corporation F-16AJ Fighting Falcon** (the lack of separator between the company and vehicle name is intentional).
+        - Helicopters:
+            - The **UH-1B**'s (Japan) long name has been changed to **Bell Helicopter Company / Fuji Jū Kōgyō | UH-1B Ta Yōto Herikoputā "Hiyodori"**.
+            - The **AH-1S (ECAS)**'s (Japan) long name has been changed to **Bell Helicopter Textron / Fuji Jū Kōgyō | AH-1S Kōgeki Herikoputā (Enhanced Cobra Armament System)**.
+            - **AH-1S (FMC)** (Japan) renamed to **AH-1S (MC) (CN)**. The long name has been changed to **Bell Helicopter Textron / Fuji Jū Kōgyō | AH-1S Kōgeki Herikoputā (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)**.
+            - **AH-1S (FMC) (Dai 4 TSH)** (Japan) renamed to **AH-1S (MC) (CN) (4 Tai Sen Heri)**. The long name has been changed to **Bell Helicopter Textron / Fuji Jū Kōgyō | AH-1S Kōgeki Herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (Dai 4 Tai Sensha Herikoputātai)**.
+            - The **AH-64D**'s (Japan) long name has been changed to **Boeing Rotorcraft Systems AH-64DJP / Fuji Jū Kōgyō + Sojitz Kabushiki Gaisha | AH-64D Sentō Herikoputā "Apatchi Rongubou"**.
+        - Ground vehicles:
+            - **Ha Gō (late) (94 shiki)** renamed to **Ha Gō (late) (94 Shiki)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 95 Shiki Kei Sensha | Ha Gō (late) (94 Shiki 37 Mirimētoru Sensha Hō)**.
+            - **Ha Gō (commander) (94 shiki)** renamed to **Ha-Gō (Shiki) (94 Shiki)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 95 Shiki Kei Sensha | Ha Gō (Shiki) (94 Shiki 37 Mirimētoru Sensha Hō)**.
         - Coastal fleet:
             - The **Dai 538 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 538 Gō**.
             - The **Dai 838 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 838 Gō Gata Gyorai Tei (T-14) | Dai 838 Gō**.
@@ -226,6 +235,8 @@ All dates are listed in DD-MM-YYYY format.
     - The **strv 103C**'s long name has been changed to **stridsvagn 103C**.
     - **HMS Orion (52)**, **HMS Marlborough (66)**, and **HMS Barham (97)** have been reclassified as "super dradnoughts" based on their Royal Navy classification.
     - Manufacturer **Mitsubishi Jūkōgyō** renamed to **Mitsubishi Jū Kōgyō**.
+    - **AH-1S (FMC)** (Israel) renamed to **AH-1S (MC) (CN)**. The long name has been changed to **AH-1S Ṣefa Dalet (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)**.
+    - The **25 psv PZ IV**'s long name has been changed to **Ps. 221 | 25 tonnin panssarivaunu PZ IV**.
 
 ### Weaponry:
 

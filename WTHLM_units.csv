@@ -5069,7 +5069,39 @@ f_16aj_shop;▅ F-16AJ
 f_16aj_0;▅ General Dynamics Corporation F-16AJ Fighting Falcon
 f_16aj_1;▅ F-16AJ
 f_16aj_2;▅ F-16
-//JAPAN COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 1
+//JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+uh_1b_japan_shop;▅ UH-1B
+uh_1b_japan_0;"▅ Bell Helicopter Company / Fuji Jū Kōgyō | UH-1B Ta Yōto Herikoputā ""Hiyodori"""
+uh_1b_japan_1;▅ UH-1B
+uh_1b_japan_2;▅ UH-1
+//JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+ah_1s_early_shop;▅ AH-1S (ECAS)
+ah_1s_early_0;▅ Bell Helicopter Textron / Fuji Jū Kōgyō | AH-1S Kōgeki Herikoputā (Enhanced Cobra Armament System)
+ah_1s_early_1;▅ AH-1S
+ah_1s_early_2;▅ AH-1
+ah_1s_late_shop;▅ AH-1S (MC) (CN)
+ah_1s_late_0;▅ Bell Helicopter Textron / Fuji Jū Kōgyō | AH-1S Kōgeki Herikoputā (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)
+ah_1s_late_1;▅ AH-1S
+ah_1s_late_2;▅ AH-1
+ah_1s_shop;▅ AH-1S (MC) (CN) (4 Tai Sen Heri)
+ah_1s_0;▅ Bell Helicopter Textron / Fuji Jū Kōgyō | AH-1S Kōgeki Herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (Dai 4 Tai Sensha Herikoputātai)
+ah_1s_1;▅ AH-1S
+ah_1s_2;▅ AH-1
+//JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+ah_64d_japan_shop;▅ AH-64D
+ah_64d_japan_0;"▅ Boeing Rotorcraft Systems AH-64DJP / Fuji Jū Kōgyō + Sojitz Kabushiki Gaisha | AH-64D Sentō Herikoputā ""Apatchi Rongubou"""
+ah_64d_japan_1;▅ AH-64D
+ah_64d_japan_2;▅ AH-64
+//JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+jp_type_95_ha_go_shop;Ha Gō (late) (94 Shiki)
+jp_type_95_ha_go_0;Mitsubishi Jū Kōgyō | 95 Shiki Kei Sensha | Ha Gō (late) (94 Shiki 37 Mirimētoru Sensha Hō)
+jp_type_95_ha_go_1;Ha Gō
+jp_type_95_ha_go_2;Light tank
+jp_type_95_ha_go_commander_shop;Ha Gō (Shiki) (94 Shiki)
+jp_type_95_ha_go_commander_0;Mitsubishi Jū Kōgyō | 95 Shiki Kei Sensha | Ha Gō (Shiki) (94 Shiki 37 Mirimētoru Sensha Hō)
+jp_type_95_ha_go_commander_1;Ha Gō
+jp_type_95_ha_go_commander_2;Light tank
+//JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 jp_t14_class_shop;Dai 538 Gō
 jp_t14_class_0;Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 538 Gō
 jp_t14_class_1;Dai 538 Gō
@@ -5094,7 +5126,7 @@ jp_abtei_pr4_shop;Sōkō Tei Dai 4 Gō
 jp_abtei_pr4_0;Sōkō Tei Dai 3 Gō Gata | Sōkō Tei Dai 4 Gō
 jp_abtei_pr4_1;Sōkō Tei
 jp_abtei_pr4_2;Armored boat
-//JAPAN COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 2
+//JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 jp_karotei_type2_shop;Ka Ro 2 Gata
 jp_karotei_type2_0;Yokohama Yotto | 4 Shiki 2 Gata Kuchiku Tei | Ka Ro 2 Gata
 jp_karotei_type2_1;Ka Ro
@@ -5131,7 +5163,7 @@ jp_t51b_shop;Dai 11 Gō
 jp_t51b_0;Yokohama Yotto | Kō Gata Gyorai Tei | Dai 11 Gō Gata Gyorai Tei (T-51B) | Dai 11 Gō
 jp_t51b_1;Dai 11 Gō
 jp_t51b_2;Motor torpedo boat
-//JAPAN COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 3
+//JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 jp_no1_ch2_shop;Dai 2 Gō
 jp_no1_ch2_0;Ishikawajima Zōsensho | Dai 2 Gō Gata Kusen Tei (K-3) | Dai 2 Gō
 jp_no1_ch2_1;Dai 2 Gō
@@ -5144,7 +5176,7 @@ jp_type7_pt808_shop;Gyorai Tei 8 Gō
 jp_type7_pt808_0;Mitsubishi Jū Kōgyō Shimonoseki Zōsensho | 7 Gō Gata Gyorai Tei | Gyorai Tei 8 Gō
 jp_type7_pt808_1;Gyorai Tei 8 Gō
 jp_type7_pt808_2;Motor torpedo boat
-//JAPAN COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 4
+//JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 jp_type_11_pt_15_shop;Gyorai Tei 15 Gō
 jp_type_11_pt_15_0;Mitsubishi Jū Kōgyō Shimonoseki Zōsensho | 11 Gō Gata Gyorai Tei | Gyorai Tei 15 Gō
 jp_type_11_pt_15_1;Gyorai Tei 15 Gō
@@ -5165,7 +5197,7 @@ jp_pg02_shop;Misairutei 2 Gō
 jp_pg02_0;1 Gō Gata Misairutei | Misairutei 2 Gō
 jp_pg02_1;Misairutei 2 Gō
 jp_pg02_2;Missile boat
-//JAPAN COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 5
+//JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 jp_escort_hiburi_class_syonan_shop;Shōnan
 jp_escort_hiburi_class_syonan_0;Hitachi Zōsen | Kō Gata Kaibōkan | Hiburi Gata Kaibōkan (E-20B) | Shōnan
 jp_escort_hiburi_class_syonan_1;Shōnan
@@ -10553,10 +10585,6 @@ ah_1w_china_shop;☀ AH-1W
 ah_1w_china_0;☀ AH-1W Cobra
 ah_1w_china_1;☀ AH-1W
 ah_1w_china_2;☀ AH-1
-uh_1b_japan_shop;▅ UH-1B
-uh_1b_japan_0;"▅ Fuji Jūkōgyō | UH-1B ""Hiyodori"""
-uh_1b_japan_1;▅ UH-1B
-uh_1b_japan_2;▅ UH-1
 ah_1g_iaf_shop; AH-1G
 ah_1g_iaf_0; AH-1G Ṣefa Alef
 ah_1g_iaf_1; AH-1G
@@ -10569,8 +10597,8 @@ ah_1q_iaf_shop; AH-1Q
 ah_1q_iaf_0; AH-1Q Ṣefa Bet
 ah_1q_iaf_1; AH-1Q
 ah_1q_iaf_2; AH-1
-ah_1f_iaf_shop; AH-1S (FMC)
-ah_1f_iaf_0; AH-1S Ṣefa Dalet (Fully Modernized Cobra)
+ah_1f_iaf_shop; AH-1S (MC) (CN)
+ah_1f_iaf_0; AH-1S Ṣefa Dalet (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)
 ah_1f_iaf_1; AH-1S
 ah_1f_iaf_2; AH-1
 hkp2_shop;hkp 2
@@ -10885,22 +10913,6 @@ f-86k_late_italy_shop;⛨ F-86K
 f-86k_late_italy_0;⛨ F-86K Sabre
 f-86k_late_italy_1;⛨ F-86K
 f-86k_late_italy_2;⛨ F-86
-j5n1_shop;J5N1
-j5n1_0;18 shi otsu rikujō sentōki | shisei Tenrai | J5N1
-j5n1_1;J5N1
-j5n1_2;J5N
-ah_1s_shop;▅ AH-1S (FMC) (Dai 4 TSH)
-ah_1s_0;▅ Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra) (Dai 4 Tai Sensha Herikoputātai)
-ah_1s_1;▅ AH-1S
-ah_1s_2;▅ AH-1
-ah_1s_early_shop;▅ AH-1S (ECAS)
-ah_1s_early_0;▅ Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Enhanced Cobra Armament System)
-ah_1s_early_1;▅ AH-1S
-ah_1s_early_2;▅ AH-1
-ah_1s_late_shop;▅ AH-1S (FMC)
-ah_1s_late_0;▅ Fuji Jūkōgyō | AH-1S kōgeki herikoputā (Fully Modernized Cobra)
-ah_1s_late_1;▅ AH-1S
-ah_1s_late_2;▅ AH-1
 mig-21_f13_shop;MiG-21F-13
 mig-21_f13_0;izd. 74 | MiG-21F-13
 mig-21_f13_1;MiG-21F
@@ -11377,10 +11389,6 @@ ah_64d_i_saraph_shop; AH-64D-I
 ah_64d_i_saraph_0; Boeing Rotorcraft Systems | AH-64D-I Saraf
 ah_64d_i_saraph_1; AH-64D
 ah_64d_i_saraph_2; AH-64
-ah_64d_japan_shop;▅ AH-64D
-ah_64d_japan_0;"▅ Fuji Jūkōgyō | AH-64D kōgeki herikoputā ""Apatchi Rongubō"""
-ah_64d_japan_1;▅ AH-64D
-ah_64d_japan_2;▅ AH-64
 ah_64d_netherlands_shop;◘ AH-64D
 ah_64d_netherlands_0;◘ Helicopter, Attack, AH-64D Longbow Apache
 ah_64d_netherlands_1;◘ AH-64D
@@ -11845,18 +11853,10 @@ jp_type_89b_i_go_otsu_shop;I-Gō kō (late)
 jp_type_89b_i_go_otsu_0;89 shiki chū sensha I-Gō kō (late)
 jp_type_89b_i_go_otsu_1;I-Gō Kō
 jp_type_89b_i_go_otsu_2;Light tank
-jp_type_95_ha_go_shop;Ha-Gō (late) (94 shiki)
-jp_type_95_ha_go_0;95 shiki kei sensha Ha-Gō (late) (94 shiki)
-jp_type_95_ha_go_1;Ha-Gō
-jp_type_95_ha_go_2;Light tank
 jp_type_98_ke_ni_shop;Ke-Ni
 jp_type_98_ke_ni_0;98 shiki kei sensha Ke-Ni
 jp_type_98_ke_ni_1;Ke-Ni
 jp_type_98_ke_ni_2;Light tank
-jp_type_95_ha_go_commander_shop;Ha-Gō (commander) (94 shiki)
-jp_type_95_ha_go_commander_0;95 shiki kei sensha Ha-Gō (commander) (94 shiki)
-jp_type_95_ha_go_commander_1;Ha-Gō
-jp_type_95_ha_go_commander_2;Light tank
 jp_type_3_ka_chi_shop;Ka-Chi
 jp_type_3_ka_chi_0;toku 3 shiki naikatei Ka-Chi
 jp_type_3_ka_chi_1;Ka-Chi
@@ -12245,7 +12245,7 @@ sw_charioteer_mk_7_0;Ps. 251 | taistelupanssarivaunu Charioteer
 sw_charioteer_mk_7_1;tstpsv Charioteer
 sw_charioteer_mk_7_2;Medium tank
 sw_pzkpfw_IV_ausf_J_shop;25 psv PZ IV
-sw_pzkpfw_IV_ausf_J_0;"Ps. 221 | 25 tonnin panssarivaunu PZ IV ""Nelonen"""
+sw_pzkpfw_IV_ausf_J_0;Ps. 221 | 25 tonnin panssarivaunu PZ IV
 sw_pzkpfw_IV_ausf_J_1;25 psv PZ IV
 sw_pzkpfw_IV_ausf_J_2;Medium tank
 sw_t_28_shop;28 psv T 28 (1938)

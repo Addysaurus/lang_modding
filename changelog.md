@@ -147,6 +147,18 @@ All dates are listed in DD-MM-YYYY format.
         - Ground vehicles:
             - **Ha Gō (late) (94 shiki)** renamed to **Ha Gō (late) (94 Shiki)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 95 Shiki Kei Sensha | Ha Gō (late) (94 Shiki 37 Mirimētoru Sensha Hō)**.
             - **Ha Gō (commander) (94 shiki)** renamed to **Ha-Gō (Shiki) (94 Shiki)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 95 Shiki Kei Sensha | Ha Gō (Shiki) (94 Shiki 37 Mirimētoru Sensha Hō)**.
+            - **Ke-Ni** renamed to **Ke Ni**. The long name has been changed to **Tōkyō Jidōsha Kōgyō | 98 Shiki Kei Sensha | Ke Ni**.
+            - **Ka-Mi** renamed to **Ka Mi**. The long name has been changed to **Kure Kaigun Kōshō + Rikugun Gijutsu Honbu | Toku 2 Shiki Naikatei | Ka Mi**.
+            - **I-Gō Kō (late)** renamed to **I Gō Kō (late)**. The long name has been changed to **Mitsubishi Kōkūki | 89 Shiki Chū Sensha Kō | I Gō Kō (late)**.
+            - **Chi-Ha** renamed to **Chi Ha**. The long name has been changed to **Mitsubishi Jū Kōgyō | 97 Shiki Chū Sensha | Chi Ha**.
+            - **Chi-Ha Kai** renamed to **Chi Ha Kai**. The long name has been changed to **Mitsubishi Jū Kōgyō | 97 Shiki Chū Sensha Kai | Chi Ha Kai**.
+            - **Chi-Ha Kai** (Twitch drop) renamed to **Chi Ha Kai** (Twitch drop). The long name has been changed to **Mitsubishi Jū Kōgyō | 97 Shiki Chū Sensha Kai | Chi Ha Kai** (Twitch drop).\
+            - **Ho-I** renamed to **Ho I**. The long name has been changed to **Mitsubishi Jū Kōgyō | 2 Shiki Hō Sensha | Ho I**.
+            - **M16 AAG** (Japan) renamed to **M16**. The long name has been changed to **M16 Ji Hashi Kōsha Kikan Hō**.
+            - The **M24**'s (Japan) long name has been chanegd to **G-200 | Tank, Light, M24 Chaffee**.
+            - **M19 40AAG** (Japan) renamed to **M19A1**. The long name has been changed to **M16 Ji Hashi Kōsha Kikan Hō**.
+            - The **M42**'s (Japan) long name has been changed to **M42 Self-Propelled Anti-Aircraft Gun "Dasutā"**.
+            - The **M4A3E8 (76) W HVSS**'s (Japan) long name has been chanegd to **G-104 Tank, Medium, M4A3E8 (76) W HVSS Sherman**.
         - Coastal fleet:
             - The **Dai 538 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 538 Gō**.
             - The **Dai 838 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 838 Gō Gata Gyorai Tei (T-14) | Dai 838 Gō**.

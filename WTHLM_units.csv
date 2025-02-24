@@ -5101,6 +5101,73 @@ jp_type_95_ha_go_commander_shop;Ha Gō (Shiki) (94 Shiki)
 jp_type_95_ha_go_commander_0;Mitsubishi Jū Kōgyō | 95 Shiki Kei Sensha | Ha Gō (Shiki) (94 Shiki 37 Mirimētoru Sensha Hō)
 jp_type_95_ha_go_commander_1;Ha Gō
 jp_type_95_ha_go_commander_2;Light tank
+jp_type_98_ke_ni_shop;Ke Ni
+jp_type_98_ke_ni_0;Tōkyō Jidōsha Kōgyō | 98 Shiki Kei Sensha | Ke Ni
+jp_type_98_ke_ni_1;Ke Ni
+jp_type_98_ke_ni_2;Light tank
+jp_type_2_ka_mi_shop;Ka Mi
+jp_type_2_ka_mi_0;Kure Kaigun Kōshō + Rikugun Gijutsu Honbu | Toku 2 Shiki Naikatei | Ka Mi
+jp_type_2_ka_mi_1;Ka Mi
+jp_type_2_ka_mi_2;Light tank
+jp_type_89b_i_go_otsu_shop;I Gō Kō (late)
+jp_type_89b_i_go_otsu_0;Mitsubishi Kōkūki | 89 Shiki Chū Sensha Kō | I Gō Kō (late)
+jp_type_89b_i_go_otsu_1;I Gō Kō
+jp_type_89b_i_go_otsu_2;Light tank
+jp_type_97_chi_ha_shop;Chi Ha
+jp_type_97_chi_ha_0;Mitsubishi Jū Kōgyō | 97 Shiki Chū Sensha | Chi Ha
+jp_type_97_chi_ha_1;Chi Ha
+jp_type_97_chi_ha_2;Medium tank
+jp_type_97_kai_shop;Chi Ha Kai
+jp_type_97_kai_0;Mitsubishi Jū Kōgyō | 97 Shiki Chū Sensha Kai | Chi Ha Kai
+jp_type_97_kai_1;Chi Ha
+jp_type_97_kai_2;Medium tank
+jp_type_97_kai_td_shop;⋦ Chi Ha Kai
+jp_type_97_kai_td_0;⋦ Mitsubishi Jū Kōgyō | 97 Shiki Chū Sensha Kai | Chi Ha Kai
+jp_type_97_kai_td_1;⋦ Chi Ha
+jp_type_97_kai_td_2;Medium tank
+jp_type_2_ho_i_shop;Ho I
+jp_type_2_ho_i_0;Mitsubishi Jū Kōgyō | 2 Shiki Hō Sensha | Ho I
+jp_type_2_ho_i_1;Ho I
+jp_type_2_ho_i_2;Medium tank
+//JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+jp_halftrack_m16_shop;▅ M16
+jp_halftrack_m16_0;▅ M16 Ji Hashi Kōsha Kikan Hō
+jp_halftrack_m16_1;▅ M16
+jp_halftrack_m16_2;SPAA
+//JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+jp_m24_chaffee_shop;▅ M24
+jp_m24_chaffee_0;▅ G-200 | Tank, Light, M24 Chaffee
+jp_m24_chaffee_1;▅ M24
+jp_m24_chaffee_2;Light tank
+jp_m19_shop;▅ M19A1
+jp_m19_0;▅ M19A1 Ji Hashi Kōsha Kikan Hō
+jp_m19_1;▅ M19A1
+jp_m19_2;SPAA
+jp_m42_duster_shop;▅ M42
+jp_m42_duster_0;"▅ M42 Self-Propelled Anti-Aircraft Gun ""Dasutā"""
+jp_m42_duster_1;▅ M42
+jp_m42_duster_2;SPAA
+//JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+jp_m4a3e8_76w_sherman_shop;▅ M4A3E8 (76) W HVSS
+jp_m4a3e8_76w_sherman_0;▅ G-104 Tank, Medium, M4A3E8 (76) W HVSS Sherman
+jp_m4a3e8_76w_sherman_1;▅ M4A3E8
+jp_m4a3e8_76w_sherman_2;Medium tank
+jp_m41_walker_bulldog_shop;▅ M41A1
+jp_m41_walker_bulldog_0;▅ G-251 | Tank, Combat, Full Tracked: 76mm Gun, M41A1 Walker Bulldog
+jp_m41_walker_bulldog_1;▅ M41
+jp_m41_walker_bulldog_2;Light tank
+jp_m36b2_jgsdf_shop;▅ M36B2 GMC
+jp_m36b2_jgsdf_0;"▅ G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
+jp_m36b2_jgsdf_1;▅ M36B2
+jp_m36b2_jgsdf_2;SPG
+jp_pzkpfw_VI_ausf_e_tiger_shop;▅ Tiger E (mitte)
+jp_pzkpfw_VI_ausf_e_tiger_0;▅ Panzerkampfwagen Tiger Ausf. E (mitte)
+jp_pzkpfw_VI_ausf_e_tiger_1;▅ Tiger E
+jp_pzkpfw_VI_ausf_e_tiger_2;Heavy tank
+//JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+//JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+//JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+//JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 jp_t14_class_shop;Dai 538 Gō
 jp_t14_class_0;Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 538 Gō
@@ -5469,14 +5536,6 @@ ussr_t_34_1940_l_11_shop;T-34 (pilot)
 ussr_t_34_1940_l_11_0;"Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 (pilot model) (March, 1940)"
 ussr_t_34_1940_l_11_1;T-34
 ussr_t_34_1940_l_11_2;Medium tank
-jp_halftrack_m16_shop;▅ M16 AAG
-jp_halftrack_m16_0;▅ M16 Self-Propelled Anti-Aircraft Gun
-jp_halftrack_m16_1;▅ M16
-jp_halftrack_m16_2;SPAA
-jp_m19_shop;▅ M19A1 40AAG
-jp_m19_0;▅ M19A1 Self-Propelled Anti-Aircraft Gun
-jp_m19_1;▅ M19A1
-jp_m19_2;SPAA
 uk_fv4005_shop;Centaur
 uk_fv4005_0;F.V.4005 | Tank, Heavy Gun, Stage II, Centaur
 uk_fv4005_1;Centaur
@@ -11833,190 +11892,6 @@ germ_pzkpfw_VI_ausf_h1_tiger_animal_version_shop;␠ Tiger E (früh)
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_0;␠ Panzerkampfwagen Tiger Ausf. E (früh)
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_1;␠ Tiger E
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_2;Heavy tank
-jp_m4a3e8_76w_sherman_shop;▅ M4A3E8 (76) W HVSS
-jp_m4a3e8_76w_sherman_0;▅ Tank, Medium, M4A3E8 (76) W HVSS Sherman
-jp_m4a3e8_76w_sherman_1;▅ M4A3E8
-jp_m4a3e8_76w_sherman_2;Medium tank
-jp_m41_walker_bulldog_shop;▅ M41A1
-jp_m41_walker_bulldog_0;▅ G-251 | Tank, Combat, Full Tracked: 76mm Gun, M41A1 Walker Bulldog
-jp_m41_walker_bulldog_1;▅ M41
-jp_m41_walker_bulldog_2;Light tank
-jp_m36b2_jgsdf_shop;▅ M36B2 GMC
-jp_m36b2_jgsdf_0;"▅ G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
-jp_m36b2_jgsdf_1;▅ M36B2
-jp_m36b2_jgsdf_2;SPG
-jp_m24_chaffee_shop;▅ M24
-jp_m24_chaffee_0;▅ M24
-jp_m24_chaffee_1;▅ M24
-jp_m24_chaffee_2;Light tank
-jp_type_89b_i_go_otsu_shop;I-Gō kō (late)
-jp_type_89b_i_go_otsu_0;89 shiki chū sensha I-Gō kō (late)
-jp_type_89b_i_go_otsu_1;I-Gō Kō
-jp_type_89b_i_go_otsu_2;Light tank
-jp_type_98_ke_ni_shop;Ke-Ni
-jp_type_98_ke_ni_0;98 shiki kei sensha Ke-Ni
-jp_type_98_ke_ni_1;Ke-Ni
-jp_type_98_ke_ni_2;Light tank
-jp_type_3_ka_chi_shop;Ka-Chi
-jp_type_3_ka_chi_0;toku 3 shiki naikatei Ka-Chi
-jp_type_3_ka_chi_1;Ka-Chi
-jp_type_3_ka_chi_2;Medium tank
-jp_type_2_ka_mi_shop;Ka-Mi
-jp_type_2_ka_mi_0;toku 2 shiki naikatei Ka-Mi
-jp_type_2_ka_mi_1;Ka-Mi
-jp_type_2_ka_mi_2;Light tank
-jp_type_3_chi_nu_shop;Chi-Nu
-jp_type_3_chi_nu_0;3 shiki chū sensha Chi-Nu
-jp_type_3_chi_nu_1;Chi-Nu
-jp_type_3_chi_nu_2;Medium tank
-jp_type_4_chi_to_late_shop;Chi-To
-jp_type_4_chi_to_late_0;4 shiki chū sensha Chi-To
-jp_type_4_chi_to_late_1;Chi-To
-jp_type_4_chi_to_late_2;Medium tank
-jp_type_3_chi_nu_75cm_type_5_shop;Chi-Nu (5 shiki II gata)
-jp_type_3_chi_nu_75cm_type_5_0;3 shiki chū sensha Chi-Nu (5 shiki II gata)
-jp_type_3_chi_nu_75cm_type_5_1;Chi-Nu
-jp_type_3_chi_nu_75cm_type_5_2;Medium tank
-jp_type_3_ho_ni_I_shop;Ho-Ni I
-jp_type_3_ho_ni_I_0;1 shiki 7.5 senchi han ji hashihō Ho-Ni I
-jp_type_3_ho_ni_I_1;Ho-Ni I
-jp_type_3_ho_ni_I_2;SPG
-jp_type_3_ho_ni_III_shop;Ho-Ni III
-jp_type_3_ho_ni_III_0;3 shiki hō sensha Ho-Ni III
-jp_type_3_ho_ni_III_1;Ho-Ni III
-jp_type_3_ho_ni_III_2;SPG
-jp_type_95_heavy_shop;Ro-Gō
-jp_type_95_heavy_0;95 shiki jū sensha Ro-Gō
-jp_type_95_heavy_1;Ro-Gō
-jp_type_95_heavy_2;Heavy tank
-jp_type_97_chi_ha_shop;Chi-Ha
-jp_type_97_chi_ha_0;97 shiki chū sensha Chi-Ha
-jp_type_97_chi_ha_1;Chi-Ha
-jp_type_97_chi_ha_2;Medium tank
-jp_type_2_ho_i_shop;Ho-I
-jp_type_2_ho_i_0;2 shiki hō sensha Ho-I
-jp_type_2_ho_i_1;Ho-I
-jp_type_2_ho_i_2;Medium tank
-jp_type_97_kai_shop;Chi-Ha Kai
-jp_type_97_kai_0;97 shiki chū sensha Chi-Ha Kai
-jp_type_97_kai_1;Chi-Ha Kai
-jp_type_97_kai_2;Medium tank
-jp_type_97_kai_td_shop;⋦ Chi-Ha Kai
-jp_type_97_kai_td_0;⋦ 97 shiki chū sensha Chi-Ha Kai
-jp_type_97_kai_td_1;⋦ Chi-Ha Kai
-jp_type_97_kai_td_2;Medium tank
-jp_type_1_chi_he_5th_regiment_shop;Chi-He (Dai 5 Sensha Rentai)
-jp_type_1_chi_he_5th_regiment_0;1 shiki chū sensha Chi-He (Dai 5 Sensha Rentai)
-jp_type_1_chi_he_5th_regiment_1;Chi-He
-jp_type_1_chi_he_5th_regiment_2;Medium tank
-jp_type_1_chi_he_shop;Chi-He
-jp_type_1_chi_he_0;1 shiki chū sensha Chi-He
-jp_type_1_chi_he_1;Chi-He
-jp_type_1_chi_he_2;Medium tank
-jp_type_97_chi_ha_12cm_shop;tan 12 sanchi JH
-jp_type_97_chi_ha_12cm_0;tan 12 sanchi ji hashihō
-jp_type_97_chi_ha_12cm_1;tan 12 sanchi JH
-jp_type_97_chi_ha_12cm_2;Medium tank
-jp_st_b1_shop;STB-0002
-jp_st_b1_0;STB-0002
-jp_st_b1_1;STB-0002
-jp_st_b1_2;Medium tank
-jp_m47_patton_II_shop;▅ M47
-jp_m47_patton_II_0;▅ M47 sensha
-jp_m47_patton_II_1;▅ M47
-jp_m47_patton_II_2;Medium tank
-jp_type_61_shop;61 TK (B)
-jp_type_61_0;61 shiki sensha B gata
-jp_type_61_1;61 TK
-jp_type_61_2;Medium tank
-jp_type_60_atm_shop;60 APC (ATM-1)
-jp_type_60_atm_0;60 shiki sōkō sha (ATM-1)
-jp_type_60_atm_1;60 APC (ATM-1)
-jp_type_60_atm_2;SPG
-jp_type_75_mlrs_shop;75 MSSR
-jp_type_75_mlrs_0;75 Shiki Ji Hashi 130mm Tarensō Rokettodan Hasshaki
-jp_type_75_mlrs_1;75 MSSR
-jp_type_75_mlrs_2;MLRS
-jp_type_74_f_shop;74 TK (F)
-jp_type_74_f_0;"74 shiki sensha F gata ""Nana-yon"""
-jp_type_74_f_1;74 TK
-jp_type_74_f_2;MBT
-jp_type_74_c_shop;74 TK (C)
-jp_type_74_c_0;"74 shiki sensha C gata ""Nana-yon"""
-jp_type_74_c_1;74 TK
-jp_type_74_c_2;MBT
-jp_type_74_shop;74 TK (E)
-jp_type_74_0;"74 shiki sensha E gata ""Nana-yon"""
-jp_type_74_1;74 TK
-jp_type_74_2;MBT
-jp_type_94_shop;94 shiki (98 shiki)
-jp_type_94_0;94 shiki 6 rin jidō kasha (98 shiki 20 miri kōsha kikanju)
-jp_type_94_1;94 shiki (98 shiki)
-jp_type_94_2;SPAA
-jp_st_a3_shop;STA-3
-jp_st_a3_0;STA-3
-jp_st_a3_1;STA-3
-jp_st_a3_2;Medium tank
-jp_st_a1_shop;STA-1
-jp_st_a1_0;STA-1
-jp_st_a1_1;STA-1
-jp_st_a1_2;Medium tank
-jp_st_a2_shop;STA-2
-jp_st_a2_0;STA-2
-jp_st_a2_1;STA-2
-jp_st_a2_2;Medium tank
-jp_pzkpfw_VI_ausf_e_tiger_shop;▅ Tiger E (mitte)
-jp_pzkpfw_VI_ausf_e_tiger_0;▅ Panzerkampfwagen Tiger Ausf. E (mitte)
-jp_pzkpfw_VI_ausf_e_tiger_1;▅ Tiger E
-jp_pzkpfw_VI_ausf_e_tiger_2;Heavy tank
-jp_type_98_ta_se_shop;Ta-Se
-jp_type_98_ta_se_0;shisei taikū sensha Ta-Se
-jp_type_98_ta_se_1;Ta-Se
-jp_type_98_ta_se_2;SPAA
-jp_type_95_so_ki_shop;So-Ki
-jp_type_95_so_ki_0;shisei taikū sensha So-Ki
-jp_type_95_so_ki_1;So-Ki
-jp_type_95_so_ki_2;SPAA
-jp_m42_duster_shop;▅ M42
-jp_m42_duster_0;▅ M42 Self-Propelled Anti-Aircraft Gun
-jp_m42_duster_1;▅ M42
-jp_m42_duster_2;SPAA
-jp_sub_i_ii_20mm_shop;SUB-II-2
-jp_sub_i_ii_20mm_0;Mitsubishi SUB-II-2
-jp_sub_i_ii_20mm_1;SUB-II-2
-jp_sub_i_ii_20mm_2;SPAA
-jp_type_60_sprg_shop;60 SP (C)
-jp_type_60_sprg_0;"60 shiki ji hashi 106 mm mu handōhō C gata ""Mametan"""
-jp_type_60_sprg_1;60 SP
-jp_type_60_sprg_2;SPG
-jp_hiro_sha_shop;shisei 12 senchi JH
-jp_hiro_sha_0;shisei 12 senchi ji hashihō
-jp_hiro_sha_1;shisei 12 senchi JH
-jp_hiro_sha_2;SPG
-jp_navy_120mm_spg_shop;naga 12 sanchi JH
-jp_navy_120mm_spg_0;naga 12 sanchi ji hashihō
-jp_navy_120mm_spg_1;naga 12 sanchi JH
-jp_navy_120mm_spg_2;SPG
-jp_type_4_ho_ro_shop;Ho-Ro
-jp_type_4_ho_ro_0;4 shiki 15 senchi ji hashihō Ho-Ro
-jp_type_4_ho_ro_1;Ho-Ro
-jp_type_4_ho_ro_2;SPG
-jp_type_5_na_to_shop;Na-To
-jp_type_5_na_to_0;shisei 7.5 senchi tai sensha ji hashihō Na-To
-jp_type_5_na_to_1;Na-To
-jp_type_5_na_to_2;SPG
-jp_type_4_chi_to_shop;Chi-To (prototype No. 2)
-jp_type_4_chi_to_0;4 shiki chū sensha Chi-To (prototype No. 2)
-jp_type_4_chi_to_1;Chi-To
-jp_type_4_chi_to_2;Medium tank
-jp_type_5_chi_ri_shop;Chi-Ri
-jp_type_5_chi_ri_0;5 shiki chū sensha Chi-Ri
-jp_type_5_chi_ri_1;Chi-Ri
-jp_type_5_chi_ri_2;Medium tank
-jp_type_5_ho_ri_prototype_shop;Ho-Ri (prototype)
-jp_type_5_ho_ri_prototype_0;5 shiki Ho-Ri (prototype)
-jp_type_5_ho_ri_prototype_1;Ho-Ri (prototype)
-jp_type_5_ho_ri_prototype_2;SPG
 ussr_cargo_ship_liberty_shop;Cargo ship
 ussr_cargo_ship_liberty_0;Cargo ship
 ussr_cargo_ship_liberty_1;Cargo ship

@@ -546,13 +546,13 @@ jp_type_95_ha_go_shop;ハ号 (late) (94式)
 jp_type_95_ha_go_0;三菱重工業 | 95式軽戦車 | ハ号 (late) (94式37粍戦車砲)
 jp_type_95_ha_go_1;ハ号
 jp_type_95_ha_go_2;Light tank
-jp_type_95_ha_go_commander_shop;ハ号 (指揮) (94式)
-jp_type_95_ha_go_commander_0;三菱重工業 | 95式軽戦車 | ハ号 (指揮) (94式37粍戦車砲)
+jp_type_95_ha_go_commander_shop;ハ号 (late) (94式) (1戦連)
+jp_type_95_ha_go_commander_0;三菱重工業 | 95式軽戦車 | ハ号 (指揮) (94式37粍戦車砲) (第1戦車連隊)
 jp_type_95_ha_go_commander_1;ハ号
 jp_type_95_ha_go_commander_2;Light tank
-jp_type_98_ke_ni_shop;ケニ
-jp_type_98_ke_ni_0;東京自動車工業 | 98式軽戦車 | ケニ
-jp_type_98_ke_ni_1;ケニ
+jp_type_98_ke_ni_shop;ケニ甲
+jp_type_98_ke_ni_0;東京自動車工業 | 試製軽戦車甲 | ケニ甲
+jp_type_98_ke_ni_1;ケニ甲
 jp_type_98_ke_ni_2;Light tank
 jp_type_2_ka_mi_shop;カミ
 jp_type_2_ka_mi_0;呉海軍工廠 + 陸軍技術本部 | 特2式内火艇 | カミ
@@ -627,6 +627,10 @@ jp_type_97_chi_ha_12cm_shop;12糎砲戦
 jp_type_97_chi_ha_12cm_0;艦政本部第1部 | 12糎砲戦車
 jp_type_97_chi_ha_12cm_1;12糎砲戦
 jp_type_97_chi_ha_12cm_2;Medium tank
+jp_halftrack_m16_shop;▅ M16
+jp_halftrack_m16_0;▅ White Motor Company | M16自走高射機関砲
+jp_halftrack_m16_1;▅ M16
+jp_halftrack_m16_2;SPAAG
 jp_type_95_so_ki_shop;ソキ
 jp_type_95_so_ki_0;自動車工業 | 試製対空戦車 | ソキ
 jp_type_95_so_ki_1;ソキ
@@ -641,7 +645,7 @@ jp_type_3_chi_nu_75cm_type_5_0;三菱重工業 | 3式中戦車 | チヌ (試製5
 jp_type_3_chi_nu_75cm_type_5_1;チヌ
 jp_type_3_chi_nu_75cm_type_5_2;Medium tank
 jp_type_4_chi_to_shop;チト (試2号)
-jp_type_4_chi_to_0;三菱重工業 | 試製4式中戦車 | チト (試製2号車)
+jp_type_4_chi_to_0;三菱重工業 | 試製中戦車甲 | チト (試製2号車)
 jp_type_4_chi_to_1;チト
 jp_type_4_chi_to_2;Medium tank
 jp_type_4_chi_to_late_shop;チト
@@ -649,7 +653,7 @@ jp_type_4_chi_to_late_0;三菱重工業 | 4式中戦車 | チト
 jp_type_4_chi_to_late_1;チト
 jp_type_4_chi_to_late_2;Medium tank
 jp_type_5_chi_ri_shop;チリ
-jp_type_5_chi_ri_0;三菱重工業 | 5式中戦車 | チリ
+jp_type_5_chi_ri_0;三菱重工業 | 試製中戦車乙 | チリ
 jp_type_5_chi_ri_1;チリ
 jp_type_5_chi_ri_2;Medium tank
 jp_type_5_na_to_shop;ナト
@@ -660,6 +664,14 @@ jp_m44_shop;▅ M44A1
 jp_m44_0;▅ Massey-Harris | M44A1 155mm自走榴弾砲
 jp_m44_1;▅ M44A1
 jp_m44_2;SPH
+jp_m19_shop;▅ M19A1
+jp_m19_0;▅ Cadillac Motor Company | M19A1自走高射機関砲
+jp_m19_1;▅ M19A1
+jp_m19_2;SPAAG
+jp_m42_duster_shop;▅ M42
+jp_m42_duster_0;▅ GM Defense | M42自走高射機関砲「ダスター」
+jp_m42_duster_1;▅ M42
+jp_m42_duster_2;SPAAG
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 jp_type_60_sprg_shop;60SP (C)
 jp_type_60_sprg_0;小松製作所 | 60式自走106mm無反動砲C型 | 60SP (C)「マメタン」
@@ -689,9 +701,9 @@ jp_type_75_shop;75HSP
 jp_type_75_0;三菱重工業 + 日本製鋼所 | 75式自走155mmりゅう弾砲 | 75HSP
 jp_type_75_1;75HSP
 jp_type_75_2;SPH
-jp_sub_i_ii_20mm_shop;SUB-II-2
-jp_sub_i_ii_20mm_0;小松製作 | SUB-II-2
-jp_sub_i_ii_20mm_1;SUB-II-2
+jp_sub_i_ii_20mm_shop;SUB-I-2 (MK20)
+jp_sub_i_ii_20mm_0;三菱重工業 | SUB-I-2 (MK20 Rh202)
+jp_sub_i_ii_20mm_1;SUB-I-2
 jp_sub_i_ii_20mm_2;SPAAG
 jp_type_5_ho_ri_prototype_shop;ホリ
 jp_type_5_ho_ri_prototype_0;三菱重工業 | 試製新砲戦車甲 | ホリ
@@ -847,8 +859,8 @@ jp_type38_1944_shop;第241号
 jp_type38_1944_0;横須賀海軍工廠 | 乙型魚雷艇 | 第241号型魚雷艇 (T-38) | 第241号
 jp_type38_1944_1;第241号
 jp_type38_1944_2;Motor torpedo boat
-jp_type1_pt2_shop;魚雷艇2号
-jp_type1_pt2_0;日立造船 | 1号型魚雷艇 | 魚雷艇2号
+jp_type1_pt2_shop;魚雷艇2号 (PT-802)
+jp_type1_pt2_0;日立造船 | 1号型魚雷艇 | 魚雷艇2号 (PT-802)
 jp_type1_pt2_1;魚雷艇2号
 jp_type1_pt2_2;Motor torpedo boat
 jp_kusen_tei_13_1942_shop;第18号
@@ -876,13 +888,13 @@ jp_no4_ch8_shop;第8号
 jp_no4_ch8_0;玉造船所 | 第4号型駆潜艇 | 第8号
 jp_no4_ch8_1;第8号
 jp_no4_ch8_2;Submarine chaser
-jp_type7_pt808_shop;魚雷艇8号
-jp_type7_pt808_0;三菱重工業下関造船所 | 7号型魚雷艇 | 魚雷艇8号
+jp_type7_pt808_shop;魚雷艇8号 (PT-808)
+jp_type7_pt808_0;三菱重工業下関造船所 | 7号型魚雷艇 | 魚雷艇8号 (PT-808)
 jp_type7_pt808_1;魚雷艇8号
 jp_type7_pt808_2;Motor torpedo boat
 //COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 4
-jp_type_11_pt_15_shop;魚雷艇15号
-jp_type_11_pt_15_0;三菱重工業下関造船所 | 11号型魚雷艇 | 魚雷艇15号
+jp_type_11_pt_15_shop;魚雷艇15号 (PT-815)
+jp_type_11_pt_15_0;三菱重工業下関造船所 | 11号型魚雷艇 | 魚雷艇15号 (PT-815)
 jp_type_11_pt_15_1;魚雷艇15号
 jp_type_11_pt_15_2;Motor torpedo boat
 jp_escort_ikazuchi_class_shop;いかづち (DE-202)
@@ -897,8 +909,8 @@ jp_escort_akebono_class_shop;あけぼの (DE-201)
 jp_escort_akebono_class_0;石川島重工業 | 乙型護衛艦 | あけぼの型護衛艦 (E-102) | あけぼの (DE-201)
 jp_escort_akebono_class_1;あけぼの
 jp_escort_akebono_class_2;Destroyer escort
-jp_pg02_shop;ミサイル艇2号
-jp_pg02_0;住友重機械工業 | 1号型ミサイル艇 | ミサイル艇2号
+jp_pg02_shop;ミサイル艇2号 (PG-822)
+jp_pg02_0;住友重機械工業 | 1号型ミサイル艇 | ミサイル艇2号 (PG-822)
 jp_pg02_1;ミサイル艇2号
 jp_pg02_2;Missile boat
 //COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 5
@@ -1030,15 +1042,15 @@ jp_destroyer_yuudachi_1;夕立
 jp_destroyer_yuudachi_2;Destroyer
 //BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 4
 jp_cruiser_aoba_shop;青葉
-jp_cruiser_aoba_0;三菱重工業長崎造船所 | 一等巡洋艦 | 青葉型巡洋艦 | 青葉 (1944)
+jp_cruiser_aoba_0;三菱重工業長崎造船所 | 一等巡洋艦 | 青葉型巡洋艦 (C-41) | 青葉 (1944)
 jp_cruiser_aoba_1;青葉
 jp_cruiser_aoba_2;Heavy cruiser
 jp_cruiser_haguro_shop;羽黒
-jp_cruiser_haguro_0;三菱重工業長崎造船所 / 呉海軍工廠 | 一等巡洋艦 | 妙高型巡洋艦 | 羽黒 (1944)
+jp_cruiser_haguro_0;三菱重工業長崎造船所 / 呉海軍工廠 | 一等巡洋艦 | 妙高型巡洋艦 (C-42) | 羽黒 (1944)
 jp_cruiser_haguro_1;羽黒
 jp_cruiser_haguro_2;Heavy cruiser
 jp_cruiser_myoko_shop;妙高
-jp_cruiser_myoko_0;三菱重工業長崎造船所 / 呉海軍工廠 | 一等巡洋艦 | 妙高型巡洋艦 | 妙高 (1944)
+jp_cruiser_myoko_0;三菱重工業長崎造船所 / 呉海軍工廠 | 一等巡洋艦 | 妙高型巡洋艦 (C-42) | 妙高 (1944)
 jp_cruiser_myoko_1;妙高
 jp_cruiser_myoko_2;Heavy cruiser
 jp_cruiser_agano_shop;阿賀野
@@ -1049,7 +1061,7 @@ jp_cruiser_agano_EC_0;佐世保海軍工廠 | 二等巡洋艦 | 阿賀野型巡�
 jp_cruiser_agano_EC_1;阿賀野
 jp_cruiser_agano_EC_2;Light cruiser
 jp_armoredcruiser_ikoma_shop;生駒
-jp_armoredcruiser_ikoma_0;呉海軍工廠 | 一等巡洋艦 | 筑波型巡洋艦 | 生駒 (1912)
+jp_armoredcruiser_ikoma_0;呉海軍工廠 | 一等巡洋艦 | 筑波型巡洋艦 (B-12) | 生駒 (1912)
 jp_armoredcruiser_ikoma_1;生駒
 jp_armoredcruiser_ikoma_2;Battlecruiser
 //BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 5
@@ -1082,7 +1094,7 @@ jp_battleship_fuso_0;呉海軍工廠 | 扶桑型戦艦 (A-64) | 扶桑
 jp_battleship_fuso_1;扶桑
 jp_battleship_fuso_2;Battleship
 jp_armoredcruiser_kurama_shop;鞍馬
-jp_armoredcruiser_kurama_0;横須賀海軍工廠 | 一等巡洋艦 | 鞍馬型巡洋艦 | 鞍馬 (1919)
+jp_armoredcruiser_kurama_0;横須賀海軍工廠 | 一等巡洋艦 | 鞍馬型巡洋艦 (B-17) | 鞍馬 (1919)
 jp_armoredcruiser_kurama_1;鞍馬
 jp_armoredcruiser_kurama_2;Battlecruiser
 jp_battlecruiser_haruna_shop;榛名

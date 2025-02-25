@@ -686,11 +686,11 @@ jp_m41_walker_bulldog_0;▅ Cadillac Motor Company | M41A1戦車「ウォーカ�
 jp_m41_walker_bulldog_1;▅ M41A1
 jp_m41_walker_bulldog_2;Light tank
 jp_type_60_sprg_shop;60SP (C)
-jp_type_60_sprg_0;小松製作 | 60式自走106mm無反動砲C型 | 60SP (C)「マメタン」
+jp_type_60_sprg_0;小松製作 | 60式自走106mm無反動砲C型「マメタン」
 jp_type_60_sprg_1;60SP (C)
 jp_type_60_sprg_2;SPG
 jp_type_60_atm_shop;60APC (ATM-1)
-jp_type_60_atm_0;三菱重工業 | 60式装甲車 | 60APC (ATM-1)
+jp_type_60_atm_0;三菱重工業 | 60式装甲車 (ATM-1)
 jp_type_60_atm_1;60APC (ATM-1)
 jp_type_60_atm_2;SPG
 jp_st_a1_shop;ST-A1
@@ -706,7 +706,7 @@ jp_st_a3_0;三菱重工業 | ST-A3
 jp_st_a3_1;ST-A3
 jp_st_a3_2;Medium tank
 jp_type_61_shop;61TK (B)
-jp_type_61_0;三菱重工業 | 61式戦車B型 | 61TK (B)
+jp_type_61_0;三菱重工業 | 61式戦車B型
 jp_type_61_1;61TK (B)
 jp_type_61_2;Medium tank
 jp_m36b2_jgsdf_shop;▅ M36B2 GMC
@@ -714,7 +714,7 @@ jp_m36b2_jgsdf_0;"▅ GM Defense | G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Ja
 jp_m36b2_jgsdf_1;▅ M36B2
 jp_m36b2_jgsdf_2;SPG
 jp_type_75_shop;75HSP
-jp_type_75_0;三菱重工業 + 日本製鋼所 | 75式自走155mmりゅう弾砲 | 75HSP
+jp_type_75_0;三菱重工業 + 日本製鋼所 | 75式自走155mmりゅう弾砲
 jp_type_75_1;75HSP
 jp_type_75_2;SPH
 jp_sub_i_ii_20mm_shop;SUB-I-2 (MK20)
@@ -731,7 +731,7 @@ jp_type_5_ho_ri_production_1;ホリ
 jp_type_5_ho_ri_production_2;SPG
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 jp_type_87_rcv_prot_shop;RCV (試1号)
-jp_type_87_rcv_prot_0;小松製作 | 偵察警戒車 | RCV (試作1号車)
+jp_type_87_rcv_prot_0;小松製作 | 偵察警戒車 (試作1号車)
 jp_type_87_rcv_prot_1;RCV
 jp_type_87_rcv_prot_2;WIFV
 jp_m47_patton_II_shop;▅ M47
@@ -743,57 +743,57 @@ jp_st_b1_0;三菱重工業 | STB-0002
 jp_st_b1_1;STB-0002
 jp_st_b1_2;Medium tank
 jp_type_74_c_shop;74TK (C)
-jp_type_74_c_0;三菱重工業 | 74式戦車C型 | 74TK (C)「ナナヨン」
+jp_type_74_c_0;三菱重工業 | 74式戦車C型「ナナヨン」
 jp_type_74_c_1;74TK (C)
 jp_type_74_c_2;MBT
 jp_type_74_shop;74TK (E)
-jp_type_74_0;三菱重工業 | 74式戦車E型 | 74TK (E)「ナナヨン」
+jp_type_74_0;三菱重工業 | 74式戦車E型「ナナヨン」
 jp_type_74_1;74TK (E)
 jp_type_74_2;MBT
 jp_type_74_f_shop;74TK (F)
-jp_type_74_f_0;三菱重工業 | 74式戦車G型 | 74TK (F)「ナナヨン」
+jp_type_74_f_0;三菱重工業 | 74式戦車G型「ナナヨン」
 jp_type_74_f_1;74TK (F)
 jp_type_74_f_2;MBT
 jp_type_74_mod_g_kai_shop;74TK (G)
-jp_type_74_mod_g_kai_0;三菱重工業 | 74式戦車G型 | 74TK (G)「ナナヨン」
+jp_type_74_mod_g_kai_0;三菱重工業 | 74式戦車G型「ナナヨン」
 jp_type_74_mod_g_kai_1;74TK (G)
 jp_type_74_mod_g_kai_2;MBT
 jp_type_99_shop;99HSP
-jp_type_99_0;三菱重工業 + 日本製鋼所 | 99式自走155mmりゅう弾砲 | 99HSP「ロングノーズ」
+jp_type_99_0;三菱重工業 + 日本製鋼所 | 99式自走155mmりゅう弾砲「ロングノーズ」
 jp_type_99_1;99HSP
 jp_type_99_2;SPH
 jp_type_75_mlrs_shop;75MSSR
-jp_type_75_mlrs_0;小松製作 | 75式自走130mm多連装ロケット弾発射機 | 75MSSR
+jp_type_75_mlrs_0;小松製作 | 75式自走130mm多連装ロケット弾発射機
 jp_type_75_mlrs_1;75MSSR
 jp_type_75_mlrs_2;MLRS
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 jp_type_87_rcv_shop;87RCV
-jp_type_87_rcv_0;小松製作 | 87式偵察警戒車 | 87RCV「ブラックアイ」
+jp_type_87_rcv_0;小松製作 | 87式偵察警戒車「ブラックアイ」
 jp_type_87_rcv_1;87RCV
 jp_type_87_rcv_2;WIFV
 jp_type_89_shop;89FV
-jp_type_89_0;三菱重工業 | 89式装甲戦闘車 | 89FV「ライトタイガー」
+jp_type_89_0;三菱重工業 | 89式装甲戦闘車「ライトタイガー」
 jp_type_89_1;89FV
 jp_type_89_2;IFV
 jp_type_16_mcv_prot_shop;MCV (試3号)
-jp_type_16_mcv_prot_0;三菱重工業 | 機動戦闘車 | MCV (試作3号車)
+jp_type_16_mcv_prot_0;三菱重工業 | 機動戦闘車 (試作3号車)
 jp_type_16_mcv_prot_1;MCV
 jp_type_16_mcv_prot_2;Light tank
 jp_type_87_shop;87AW
-jp_type_87_0;三菱重工業 + 日本製鋼所 | 87式自走高射機関砲 | 87AW「スカイシューター」
+jp_type_87_0;三菱重工業 + 日本製鋼所 | 87式自走高射機関砲「スカイシューター」
 jp_type_87_1;87AW
 jp_type_87_2;SPAAG
 jp_type_16_mod_shop;16MCV (15即機)
-jp_type_16_mod_0;三菱重工業 | 16式機動戦闘車 | 16MCV (第15即応機動連隊)
+jp_type_16_mod_0;三菱重工業 | 16式機動戦闘車 (第15即応機動連隊)
 jp_type_16_mod_1;16MCV
 jp_type_16_mod_2;Light tank
 jp_type_16_shop;16MCV
-jp_type_16_0;三菱重工業 | 16式機動戦闘車 | 16MCV
+jp_type_16_0;三菱重工業 | 16式機動戦闘車
 jp_type_16_1;16MCV
 jp_type_16_2;Light tank
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 jp_icv_ifv_prototype_shop;24WAFV
-jp_icv_ifv_prototype_0;三菱重工業 | 24式装輪装甲戦闘車 | 24WAFV
+jp_icv_ifv_prototype_0;三菱重工業 | 24式装輪装甲戦闘車
 jp_icv_ifv_prototype_1;24WAFV
 jp_icv_ifv_prototype_2;WIFV
 jp_type_10_prototype_shop;新TK3号 (2006)
@@ -805,15 +805,15 @@ jp_tkx_prot_0;技術研究本部 + 三菱重工業 | 新戦車3号車 (2009)
 jp_tkx_prot_1;新TK3号
 jp_tkx_prot_2;MBT
 jp_type_90_shop;90TK
-jp_type_90_0;三菱重工業 | 90式戦車 | 90TK
+jp_type_90_0;三菱重工業 | 90式戦車
 jp_type_90_1;90TK
 jp_type_90_2;MBT
 jp_type_90b_shop;90TK (B)
-jp_type_90b_0;三菱重工業 | 90式戦車B型 | 90TK (B)
+jp_type_90b_0;三菱重工業 | 90式戦車B型
 jp_type_90b_1;90TK (B)
 jp_type_90b_2;MBT
 jp_type_90b_camo_shop;90TK (B) (富士学校)
-jp_type_90b_camo_0;三菱重工業 | 90式戦車B型 | 90TK (B) (陸上自衛隊富士学校、機甲教導連隊、第3戦車中隊)
+jp_type_90b_camo_0;三菱重工業 | 90式戦車B型 (陸上自衛隊富士学校、機甲教導連隊、第3戦車中隊)
 jp_type_90b_camo_1;90TK (B)
 jp_type_90b_camo_2;MBT
 jp_type_93_shop;93式
@@ -825,12 +825,12 @@ jp_type_81_tansam_0;技術研究本部 + 東芝 | 81式短距離地対空誘導�
 jp_type_81_tansam_1;81式 (C)
 jp_type_81_tansam_2;SPAAM
 jp_icv_prototype_shop;CTWV (RCV)
-jp_icv_prototype_0;三菱重工業 | 共通戦術装輪車 (偵察戦闘型) | CTWV (RCV)
+jp_icv_prototype_0;三菱重工業 | 共通戦術装輪車 (偵察戦闘型)
 jp_icv_prototype_1;CTWV
 jp_icv_prototype_2;WIFV
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 jp_type_10_shop;10TK
-jp_type_10_0;技術研究本部 + 三菱重工業 | 10式戦車 | 10TK
+jp_type_10_0;技術研究本部 + 三菱重工業 | 10式戦車
 jp_type_10_1;10TK
 jp_type_10_2;MBT
 //COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 1

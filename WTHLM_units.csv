@@ -5237,11 +5237,11 @@ jp_m41_walker_bulldog_0;"▅ Cadillac Motor Company | M41A1 Sensha ""Wōkā Buru
 jp_m41_walker_bulldog_1;▅ M41A1
 jp_m41_walker_bulldog_2;Light tank
 jp_type_60_sprg_shop;60SP (C)
-jp_type_60_sprg_0;Komatsu Seisaku | 60 Shiki Ji Hashi 106mm Muhandō Hō C Gata "Mametan" | 60SP (C)
+jp_type_60_sprg_0;"Komatsu Seisaku | 60 Shiki Ji Hashi 106mm Muhandō Hō C Gata ""Mametan"""
 jp_type_60_sprg_1;60SP (C)
 jp_type_60_sprg_2;SPG
 jp_type_60_atm_shop;60APC (ATM-1)
-jp_type_60_atm_0;60 Shiki Sōkō Sha | 60APC (ATM-1)
+jp_type_60_atm_0;60 Shiki Sōkō Sha (ATM-1)
 jp_type_60_atm_1;60APC (ATM-1)
 jp_type_60_atm_2;SPG
 jp_st_a1_shop;ST-A1
@@ -5257,7 +5257,7 @@ jp_st_a3_0;Mitsubishi Jū Kōgyō | ST-A3
 jp_st_a3_1;ST-A3
 jp_st_a3_2;Medium tank
 jp_type_61_shop;61TK (B)
-jp_type_61_0;Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata | 61TK (B)
+jp_type_61_0;Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata
 jp_type_61_1;61TK (B)
 jp_type_61_2;Medium tank
 jp_m36b2_jgsdf_shop;▅ M36B2 GMC
@@ -5265,7 +5265,7 @@ jp_m36b2_jgsdf_0;"▅ GM Defense | G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Ja
 jp_m36b2_jgsdf_1;▅ M36B2
 jp_m36b2_jgsdf_2;SPG
 jp_type_75_shop;75HSP
-jp_type_75_0;Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 75 Shiki Ji Hashi 155mm Ryūdanhō | 75HSP
+jp_type_75_0;Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 75 Shiki Ji Hashi 155mm Ryūdanhō
 jp_type_75_1;75HSP
 jp_type_75_2;SPH
 jp_sub_i_ii_20mm_shop;SUB-I-2 (MK20)
@@ -5286,7 +5286,7 @@ jp_type_5_ho_ri_production_1;Ho Ri
 jp_type_5_ho_ri_production_2;SPG
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 jp_type_87_rcv_prot_shop;RCV (Shi 1 Gō)
-jp_type_87_rcv_prot_0;Komatsu Seisaku | Teisatsu Keikaisha | RCV (Shisaku 1 Gōsha)
+jp_type_87_rcv_prot_0;Komatsu Seisaku | Teisatsu Keikaisha (Shisaku 1 Gōsha)
 jp_type_87_rcv_prot_1;RCV
 jp_type_87_rcv_prot_2;WIFV
 jp_m47_patton_II_shop;▅ M47
@@ -5298,24 +5298,96 @@ jp_st_b1_0;Mitsubishi Jū Kōgyō | STB-0002
 jp_st_b1_1;STB-0002
 jp_st_b1_2;Medium tank
 jp_type_74_c_shop;74TK (C)
-jp_type_74_c_0;"Mitsubishi Jū Kōgyō | 74 Shiki Sensha C Gata ""Nana Yon"" | 74TK (C)"
+jp_type_74_c_0;"Mitsubishi Jū Kōgyō | 74 Shiki Sensha C Gata ""Nana Yon"""
 jp_type_74_c_1;74TK (C)
 jp_type_74_c_2;MBT
 jp_type_74_shop;74TK (E)
-jp_type_74_0;"Mitsubishi Jū Kōgyō | 74 Shiki Sensha E Gata ""Nana Yon"" | 74TK (E)"
+jp_type_74_0;"Mitsubishi Jū Kōgyō | 74 Shiki Sensha E Gata ""Nana Yon"""
 jp_type_74_1;74TK (E)
 jp_type_74_2;MBT
 jp_type_74_f_shop;74TK (F)
-jp_type_74_f_0;"Mitsubishi Jū Kōgyō | 74 Shiki Sensha F Gata ""Nana Yon"" | 74TK (F)"
+jp_type_74_f_0;"Mitsubishi Jū Kōgyō | 74 Shiki Sensha F Gata ""Nana Yon"""
 jp_type_74_f_1;74TK (F)
 jp_type_74_f_2;MBT
 jp_type_74_mod_g_kai_shop;74TK (G)
-jp_type_74_mod_g_kai_0;"Mitsubishi Jū Kōgyō | 74 Shiki Sensha G Gata ""Nana Yon"" | 74TK (G)"
+jp_type_74_mod_g_kai_0;"Mitsubishi Jū Kōgyō | 74 Shiki Sensha G Gata ""Nana Yon"""
 jp_type_74_mod_g_kai_1;74TK (G)
 jp_type_74_mod_g_kai_2;MBT
+jp_type_99_shop;99HSP
+jp_type_99_0;"Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 99 Shiki Ji Hashi 155mm Ryūdanhō ""Rongunōzu"""
+jp_type_99_1;99HSP
+jp_type_99_2;SPH
+jp_type_75_mlrs_shop;75MSSR
+jp_type_75_mlrs_0;Komatsu Seisaku | 75 Shiki Ji Hashi 130mm Tarensō Rokettodan Hasshaki
+jp_type_75_mlrs_1;75MSSR
+jp_type_75_mlrs_2;MLRS
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+jp_type_87_rcv_shop;87RCV
+jp_type_87_rcv_0;"Komatsu Seisaku | 87 Shiki Teisatsu Keikaisha ""Burakkuai"""
+jp_type_87_rcv_1;87RCV
+jp_type_87_rcv_2;WIFV
+jp_type_89_shop;89FV
+jp_type_89_0;"Mitsubishi Jū Kōgyō | 89 Shiki Sōkō Sentō Sha ""Raito Taigā"""
+jp_type_89_1;89FV
+jp_type_89_2;IFV
+jp_type_16_mcv_prot_shop;MCV (Shi 3 Gō)
+jp_type_16_mcv_prot_0;Mitsubishi Jū Kōgyō | Kidō Sentō Sha (Shisaku 3 Gōsha)
+jp_type_16_mcv_prot_1;MCV
+jp_type_16_mcv_prot_2;Light tank
+jp_type_87_shop;87AW
+jp_type_87_0;"Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 87 Shiki Ji Hashi Kōsha Kikanhō ""Sukaishūtā"""
+jp_type_87_1;87AW
+jp_type_87_2;SPAAG
+jp_type_16_mod_shop;16MCV (15 Soku Ki)
+jp_type_16_mod_0;Mitsubishi Jū Kōgyō | 16 Shiki Kidō Sentō Sha (Dai 15 Sokuō Kidō Rentai)
+jp_type_16_mod_1;16MCV
+jp_type_16_mod_2;Light tank
+jp_type_16_shop;16MCV
+jp_type_16_0;Mitsubishi Jū Kōgyō | 16 Shiki Kidō Sentō Sha
+jp_type_16_1;16MCV
+jp_type_16_2;Light tank
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+jp_icv_ifv_prototype_shop;24WAFV
+jp_icv_ifv_prototype_0;Mitsubishi Jū Kōgyō | 24 Shiki Sōwa Sōkō Sentō Sha
+jp_icv_ifv_prototype_1;24WAFV
+jp_icv_ifv_prototype_2;WIFV
+jp_type_10_prototype_shop;Shin TK 3 Gō (2006)
+jp_type_10_prototype_0;Gijutsu Kenkyū Honbu + Mitsubishi Jū Kōgyō | Shin Sensha 3 Gōsha (2006)
+jp_type_10_prototype_1;Shin TK 3 Gō
+jp_type_10_prototype_2;MBT
+jp_tkx_prot_shop;Shin TK 3 Gō (2009)
+jp_tkx_prot_0;Gijutsu Kenkyū Honbu + Mitsubishi Jū Kōgyō | Shin Sensha 3 Gōsha (2009)
+jp_tkx_prot_1;Shin TK 3 Gō
+jp_tkx_prot_2;MBT
+jp_type_90_shop;90TK
+jp_type_90_0;Mitsubishi Jū Kōgyō | 90 Shiki Sensha
+jp_type_90_1;90TK
+jp_type_90_2;MBT
+jp_type_90b_shop;90TK (B)
+jp_type_90b_0;Mitsubishi Jū Kōgyō | 90 Shiki Sensha B Gata
+jp_type_90b_1;90TK (B)
+jp_type_90b_2;MBT
+jp_type_90b_camo_shop;90TK (B) (Fuji Gakkō)
+jp_type_90b_camo_0;Mitsubishi Jū Kōgyō | 90 Shiki Sensha B Gata (Rikujō Jieitai Fuji Gakkō, Kikō Kyōdō Rentai, Dai 3 Sensha Chūtai)
+jp_type_90b_camo_1;90TK (B)
+jp_type_90b_camo_2;MBT
+jp_type_93_shop;93 Shiki
+jp_type_93_0;"Tōshiba | 93 Shiki Kinkyorichi Taikū Yūdōdan ""Kurōzudo Arō"""
+jp_type_93_1;93 Shiki
+jp_type_93_2;SPAAM
+jp_type_81_tansam_shop;81 Shiki (C)
+jp_type_81_tansam_0;"Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata ""Shōto Arō"""
+jp_type_81_tansam_1;81 Shiki (C)
+jp_type_81_tansam_2;SPAAM
+jp_icv_prototype_shop;CTWV (RCV)
+jp_icv_prototype_0;Mitsubishi Jū Kōgyō | Kyōtsū Senjutsu Sō Washa (Teisatsu Sentō Gata)
+jp_icv_prototype_1;CTWV
+jp_icv_prototype_2;WIFV
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+jp_type_10_shop;10TK
+jp_type_10_0;Gijutsu Kenkyū Honbu + Mitsubishi Jū Kōgyō | 10 Shiki Sensha
+jp_type_10_1;10TK
+jp_type_10_2;MBT
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 jp_t14_class_shop;Dai 538 Gō
 jp_t14_class_0;Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 538 Gō

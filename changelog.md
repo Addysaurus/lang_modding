@@ -179,24 +179,41 @@ All dates are listed in DD-MM-YYYY format.
             - The **M42**'s (Japan) long name has been changed to **GM Defense | M42 Ji Hashi Kōsha Kikan Hō "Dasutā"**.
             - The **M4A3E8 (76) W HVSS** (Japan) renamed to **M4A3E8**. The long name has been chanegd to **United States Army Ordnance Department / Detroit Tank Arsenal | M4A3E8 Sensha "Shāman"**.
             - The **M41A1**'s (Japan) long name has been changed to **Cadillac Motor Company | M41A1 Sensha "Wōkā Burudoggu"**.
-            - **60 SP (C)** renmamed to **60SP (C)**. The long name has been changed to **Komatsu Seisaku | 60 Shiki Ji Hashi 106mm Muhandō Hō C Gata "Mametan" | 60SP (C)**.
-            - **60 APC (ATM-1)** renamed to **60APC (ATM-1)**. The long name has been changed to **60 Shiki Sōkō Sha | 60APC (ATM-1)**.
+            - **60 SP (C)** renmamed to **60SP (C)**. The long name has been changed to **Komatsu Seisaku | 60 Shiki Ji Hashi 106mm Muhandō Hō C Gata "Mametan"**.
+            - **60 APC (ATM-1)** renamed to **60APC (ATM-1)**. The long name has been changed to **60 Shiki Sōkō Sha (ATM-1)**.
             - **STA-1** renamed to **ST-A1**. The long name has been changed to **Mitsubishi Jū Kōgyō | ST-A1**.
             - **STA-2** renamed to **ST-A2**. The long name has been changed to **Mitsubishi Jū Kōgyō | ST-A2**.
             - **STA-3** renamed to **ST-A3**. The long name has been changed to **Mitsubishi Jū Kōgyō | ST-A3**.
-            - **61 TK (B)** renmamed to **61TK (B)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata | 61TK (B)**.
+            - **61 TK (B)** renmamed to **61TK (B)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata**.
             - The **M36B2**'s (Japan) long name has been changed to **GM Defense | G-237 | Carriage, Motor, 90mm Gun, M36B2 "Jackson"**.
-            - **75 HSP** renamed to **75HSP**. The long name has been changed to **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 75 Shiki Ji Hashi 155mm Ryūdanhō | 75HSP**.
+            - **75 HSP** renamed to **75HSP**. The long name has been changed to **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 75 Shiki Ji Hashi 155mm RyūdanhōP**.
             - **SUB-II-2** renamed to **SUB-I-2 (MK20)**. The long name has been changed to **Mitsubishi Jū Kōgyō | SUB-I-2 (MK20 Rh202)**.
             - **Ho-Ri (prototype)** renamed to **Ho Ri**. The long name has been changed to **Mitsubishi Jū Kōgyō | Shisei Shin Hō Sensha Kō | Ho Ri**.
             - **Ho-Ri** renamed to **Ho Ri (10 Senchi Han)**. The long name has been changed to **Shisei 10 Senchi Han Hō Sensha | Ho Ri**.
-            - **RCV (prototype No. 1)** renamed to **RCV (Shi 1 Gō)**. The long name has been changed to **Komatsu Seisaku | Teisatsu Keikaisha | RCV (Shisaku 1 Gōsha)**.
+            - **RCV (prototype No. 1)** renamed to **RCV (Shi 1 Gō)**. The long name has been changed to **Komatsu Seisaku | Teisatsu Keikaisha (Shisaku 1 Gōsha)**.
             - The **M47**'s (Japan) long name has been changed to **American Locomotive Company | G-262 | Tank, Combat, Full Tracked: 90mm Gun, M47 Patton**.
             - The **STB-0002**'s long name has been changed to **Mitsubishi Jū Kōgyō | STB-0002**.
-            - **74 TK (C)** renamed to **74TK (C)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 74 Shiki Sensha C Gata "Nana Yon" | 74TK (C)**.
-            - **74 TK (E)** renamed to **74TK (E)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 74 Shiki Sensha E Gata "Nana Yon" | 74TK (E)**.
-            - **74 TK (F)** renamed to **74TK (F)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 74 Shiki Sensha F Gata "Nana Yon" | 74TK (F)**.
-            - **74 TK (G)** renamed to **74TK (G)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 74 Shiki Sensha G Gata "Nana Yon" | 74TK (G)**.
+            - **74 TK (C)** renamed to **74TK (C)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 74 Shiki Sensha C Gata "Nana Yon"**.
+            - **74 TK (E)** renamed to **74TK (E)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 74 Shiki Sensha E Gata "Nana Yon"**.
+            - **74 TK (F)** renamed to **74TK (F)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 74 Shiki Sensha F Gata "Nana Yon"**.
+            - **74 TK (G)** renamed to **74TK (G)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 74 Shiki Sensha G Gata "Nana Yon"**.
+            - **99 HSP** renamed to **99HSP**. The long name has been changed to **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 99 Shiki Ji Hashi 155mm Ryūdanhō "Rongunōzu"**.
+            - **75 MSSR** renamed to **75MSSR**. The long name has been changed to **Komatsu Seisaku | 75 Shiki Ji Hashi 130mm Tarensō Rokettodan Hasshaki**.
+            - **87 RCV** renamed to **87RCV**. The long name has been changed to **Komatsu Seisaku | 87 Shiki Teisatsu Keikaisha "Burakkuai"**.
+            - **89 FV** renamed to **89FV**. The long name has been changed to **Mitsubishi Jū Kōgyō | 89 Shiki Sōkō Sentō Sha "Raito Taigā"**.
+            - **MCV (prototype No. 3)** renamed to **MCV (Shi 3 Gō)**. The long name has been changed to **Mitsubishi Jū Kōgyō | Kidō Sentō Sha (Shisaku 3 Gōsha)**.
+            - **16 MCV (15th STR)** renamed to **16MCV (15 Soku Ki)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 16 Shiki Kidō Sentō Sha (Dai 15 Sokuō Kidō Rentai)**.
+            - **16 MCV** renamed to **16MCV**. The long name has been changed to **Mitsubishi Jū Kōgyō | 16 Shiki Kidō Sentō Sha**.
+            - **24 WAFV** renamed to **24WAFV**. The long name has been changed to **Mitsubishi Jū Kōgyō | 24 Shiki Sōwa Sōkō Sentō Sha**.
+            - **shin TK (prototype No. 3) (2006)** renamed to **Shin TK 3 Gō (2006)**. The long name has been changed to **Gijutsu Kenkyū Honbu + Mitsubishi Jū Kōgyō | Shin Sensha 3 Gōsha (2006)**.
+            - **shin TK (prototype No. 3) (2009)** renamed to **Shin TK 3 Gō (2009)**. The long name has been changed to **Gijutsu Kenkyū Honbu + Mitsubishi Jū Kōgyō | Shin Sensha 3 Gōsha (2009)**.
+            - **90 TK** renamed to **90TK**. The long name has been changed to **Mitsubishi Jū Kōgyō | 90 Shiki Sensha**.
+            - **90 TK (B)** renamed to **90TK (B)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 90 Shiki Sensha B Gata**.
+            - **90 TK (B) (Fuji School)** renamed to **90TK (B) (Fuji Gakkō)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 90 Shiki Sensha B Gata (Rikujō Jieitai Fuji Gakkō, Kikō Kyōdō Rentai, Dai 3 Sensha Chūtai)**.
+            - **HMV (SAM-3)** renamed to **93 Shiki**. The long name has been changed to **Tōshiba | 93 Shiki Kinkyorichi Taikū Yūdōdan "Kurōzudo Arō"**.
+            - **3½ t torakku (81 shiki)** renamed to **81 Shiki (C)**. The long name has been changed to **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata "Shōto Arō"**.
+            - **RCV** renamed to **CTWV (RCV)**. The long name has been changed to **Mitsubishi Jū Kōgyō | Kyōtsū Senjutsu Sō Washa (Teisatsu Sentō Gata)**.
+            - **10 TK** renamed to **10TK**. The long name has been changed to **Gijutsu Kenkyū Honbu + Mitsubishi Jū Kōgyō | 10 Shiki Sensha**.
         - Coastal fleet:
             - The **Dai 538 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 538 Gō**.
             - The **Dai 838 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 838 Gō Gata Gyorai Tei (T-14) | Dai 838 Gō**.

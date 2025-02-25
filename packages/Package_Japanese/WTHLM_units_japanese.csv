@@ -22,7 +22,7 @@ shop/group/r2y2_group;R2Y2-G (11型) / (22型) / (32型)
 shop/group/jp_ho_ni_group;ホニI / III
 shop/group/jp_chi_to_group;チト (試2号) / チト
 shop/group/jp_type_60_group;60SP / APC (ATM-1)
-shop/group/jp_type_61_sta_group;61TK / STA-3
+shop/group/jp_type_61_sta_group;61TK / ST-A3
 shop/group/jp_type_74_stb_group;STB-0002 / 74TK (C)
 shop/group/jp_type_74_group;74TK (E) / (F)
 shop/group/jp_type_87_89_group;87RCV / 89FV
@@ -636,6 +636,10 @@ jp_type_95_so_ki_0;自動車工業 | 試製対空戦車 | ソキ
 jp_type_95_so_ki_1;ソキ
 jp_type_95_so_ki_2;SPAAG
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+jp_m24_chaffee_shop;▅ M24
+jp_m24_chaffee_0;▅ Cadillac Motor Company | M24戦車「チャーフィー」
+jp_m24_chaffee_1;▅ M24
+jp_m24_chaffee_2;Light tank
 jp_type_3_chi_nu_shop;チヌ
 jp_type_3_chi_nu_0;三菱重工業 | 3式中戦車 | チヌ
 jp_type_3_chi_nu_1;チヌ
@@ -673,30 +677,42 @@ jp_m42_duster_0;▅ GM Defense | M42自走高射機関砲「ダスター」
 jp_m42_duster_1;▅ M42
 jp_m42_duster_2;SPAAG
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+jp_m4a3e8_76w_sherman_shop;▅ M4A3E8
+jp_m4a3e8_76w_sherman_0;▅ United States Army Ordnance Department / Detroit Tank Arsenal | M4A3E8戦車「シャーマン」
+jp_m4a3e8_76w_sherman_1;▅ M4A3
+jp_m4a3e8_76w_sherman_2;Medium tank
+jp_m41_walker_bulldog_shop;▅ M41A1
+jp_m41_walker_bulldog_0;▅ Cadillac Motor Company | M41A1戦車「ウォーカー・ブルドッグ」
+jp_m41_walker_bulldog_1;▅ M41A1
+jp_m41_walker_bulldog_2;Light tank
 jp_type_60_sprg_shop;60SP (C)
-jp_type_60_sprg_0;小松製作所 | 60式自走106mm無反動砲C型 | 60SP (C)「マメタン」
+jp_type_60_sprg_0;小松製作 | 60式自走106mm無反動砲C型 | 60SP (C)「マメタン」
 jp_type_60_sprg_1;60SP (C)
 jp_type_60_sprg_2;SPG
 jp_type_60_atm_shop;60APC (ATM-1)
-jp_type_60_atm_0;三菱重工業 | 60式装甲車 | 60APC (64式対戦車誘導弾 | ATM-1)
+jp_type_60_atm_0;三菱重工業 | 60式装甲車 | 60APC (ATM-1)
 jp_type_60_atm_1;60APC (ATM-1)
 jp_type_60_atm_2;SPG
-jp_st_a1_shop;STA-1
-jp_st_a1_0;三菱重工業 | STA-1
-jp_st_a1_1;STA-1
+jp_st_a1_shop;ST-A1
+jp_st_a1_0;三菱重工業 | ST-A1
+jp_st_a1_1;ST-A1
 jp_st_a1_2;Medium tank
-jp_st_a2_shop;STA-2
-jp_st_a2_0;三菱重工業 | STA-2
-jp_st_a2_1;STA-2
+jp_st_a2_shop;ST-A2
+jp_st_a2_0;三菱重工業 | ST-A2
+jp_st_a2_1;ST-A2
 jp_st_a2_2;Medium tank
-jp_st_a3_shop;STA-3
-jp_st_a3_0;三菱重工業 | STA-3
-jp_st_a3_1;STA-3
+jp_st_a3_shop;ST-A3
+jp_st_a3_0;三菱重工業 | ST-A3
+jp_st_a3_1;ST-A3
 jp_st_a3_2;Medium tank
 jp_type_61_shop;61TK (B)
 jp_type_61_0;三菱重工業 | 61式戦車B型 | 61TK (B)
 jp_type_61_1;61TK (B)
 jp_type_61_2;Medium tank
+jp_m36b2_jgsdf_shop;▅ M36B2 GMC
+jp_m36b2_jgsdf_0;"▅ GM Defense | G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
+jp_m36b2_jgsdf_1;▅ M36B2
+jp_m36b2_jgsdf_2;SPG
 jp_type_75_shop;75HSP
 jp_type_75_0;三菱重工業 + 日本製鋼所 | 75式自走155mmりゅう弾砲 | 75HSP
 jp_type_75_1;75HSP

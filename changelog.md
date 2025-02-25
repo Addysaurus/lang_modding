@@ -16,7 +16,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - **F-5A(G)**
     - **Strasbourg**
-    - New original language packages have been added that allow you to put different nations' vehicles and weapons into their original languages for languages with non-Latin scripts. In this update, packages for Japan and Thailand have been added. More are in development.
+    - New original language packages have been added that allow you to put different nations' vehicles and weapons into their original languages for languages with non-Latin scripts. In this update, packages for Japanese, Thai, and Farsi have been added. More are in development.
 
 - #### Changes:
 
@@ -155,11 +155,6 @@ All dates are listed in DD-MM-YYYY format.
             - **Chi-Ha Kai** renamed to **Chi Ha Kai**. The long name has been changed to **Mitsubishi Jū Kōgyō | 97 Shiki Chū Sensha Kai | Chi Ha Kai**.
             - **Chi-Ha Kai** (Twitch drop) renamed to **Chi Ha Kai** (Twitch drop). The long name has been changed to **Mitsubishi Jū Kōgyō | 97 Shiki Chū Sensha Kai | Chi Ha Kai** (Twitch drop).\
             - **Ho-I** renamed to **Ho I**. The long name has been changed to **Mitsubishi Jū Kōgyō | 2 Shiki Hō Sensha | Ho I**.
-            - **M16 AAG** (Japan) renamed to **M16**. The long name has been changed to **M16 Ji Hashi Kōsha Kikan Hō**.
-            - The **M24**'s (Japan) long name has been chanegd to **G-200 | Tank, Light, M24 Chaffee**.
-            - **M19 40AAG** (Japan) renamed to **M19A1**. The long name has been changed to **M16 Ji Hashi Kōsha Kikan Hō**.
-            - The **M42**'s (Japan) long name has been changed to **M42 Self-Propelled Anti-Aircraft Gun "Dasutā"**.
-            - The **M4A3E8 (76) W HVSS**'s (Japan) long name has been chanegd to **G-104 Tank, Medium, M4A3E8 (76) W HVSS Sherman**.
             - **Ho-Ro** renamed to **Mitsubishi Jū Kōgyō | 4 Shiki 15 Senchimētoru Ji Hashihō | Ho Ro**.
             - **shisei 12 senchi JH** renamed to **Shi 12 Senchi Ji Hashi**. The long name has been changed to **Mitsubishi Jū Kōgyō | Shisei 12 Senchimētoru Ji Hashihō**.
             - **94 shiki (98 shiki)** renamed to **94 Shiki (98 Shiki)**. The long name has been changed to **Tōkyō Jidōsha Kōgyō | 94 Shiki 6 Rin Jidō Kasha (98 Shiki 20 Mirimētoru Kōsha Kikanhō)**.
@@ -167,6 +162,34 @@ All dates are listed in DD-MM-YYYY format.
             - **Ro-Gō** renamed to **Ro Gō**. The long name has been changed to **Ōsaka Hōhei Kōshō | 95 Shiki Jū Sensha | Ro Gō**.
             - **Ka-Chi** renamed to **Ka Chi**. The long name has been changed to **Kure Kaigun Kōshō + Rikugun Gijutsu Honbu | Toku 3 Shiki Naikatei | Ka Chi**.
             - **Chi-He** renamed to **Chi He**. The long name has been changed to **Mitsubishi Jū Kōgyō | 1 Shiki Chū Sensha | Chi He**.
+            - **Chi-He (Dai 5 Sensha Rentai)** renamed to **Chi He (5 Sen Ren)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 1 Shiki Chū Sensha | Chi He (Dai 5 Sensha Rentai)**.
+            - **Ho-Ni I** renamed to **Ho Ni I**. The long name has been changed to **Rikugun Yasen Hōhei Gakkō | 1 Shiki 7 Senchi Han Ji Hashihō | Ho Ni I**.
+            - **Ho-Ni III** renamed to **Ho Ni III**. The long name has been changed to **Rikugun Yasen Hōhei Gakkō | 3 Shiki Hō Sensha | Ho Ni III**.
+            - **naga 12 sanchi JH** renamed to **12 Senchi Ji Hashi**. The long name has been changed to **Kaigun Kansei Honbu Dai 1 Bu | 12 Senchimētoru Ji Hashihō**.
+            - **tan 12 sanchi JH** renamed to **12 Senchi Hō Sen**. The long name has been changed to **Kaigun Kansei Honbu Dai 1 Bu | 12 Senchimētoru Hō Sensha**.
+            - **M16 AAG** (Japan) renamed to **M16**. The long name has been changed to **White Motor Company | M16 Ji Hashi Kōsha Kikan Hō**.
+            - **So-Ki** renamed to **So Ki**. The long name has been changed to **Tōkyō Jidōsha Kōgyō | Shisei Taikū Sensha | So Ki**.
+            - The **M24**'s (Japan) long name has been chanegd to **Cadillac Motor Company | M24 Sensha "Chāfī"**.
+            - **Chi-Nu** renamed to **Chu Nu**. The long name has been changed to **Mitsubishi Jū Kōgyō | 3 Shiki Chū Sensha | Chi Nu**.
+            - **Chi-Nu (5 shiki II gata)** renamed to **Chi Nu (5 Shiki II Gata)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 3 Shiki Chū Sensha | Chi Nu (Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) II Gata)**.
+            - **Chi-To (prototype No. 2)** renamed to **Chi To (Shi 2 Gō)**.
+            - **Na-To** renamed to **Na To**. The long name has been changed to **Dai 4 Rikugun Gijutsu Kenkyūjo | Shisei 7 Senchi Han Tai Sensha Ji Hashihō | Na To**.
+            - The **M44A1**'s (Japan) long name has been changed to **Massey-Harris | M44A1 155mm Ji Hashi Ryūdanhō**.
+            - **M19A1 40AAG** (Japan) renamed to **M19A1**. The long name has been changed to **Cadillac Motor Company | M19A1 Ji Hashi Kōsha Kikan Hō**.
+            - The **M42**'s (Japan) long name has been changed to **GM Defense | M42 Ji Hashi Kōsha Kikan Hō "Dasutā"**.
+            - The **M4A3E8 (76) W HVSS** (Japan) renamed to **M4A3E8**. The long name has been chanegd to **United States Army Ordnance Department / Detroit Tank Arsenal | M4A3E8 Sensha "Shāman"**.
+            - The **M41A1**'s (Japan) long name has been changed to **Cadillac Motor Company | M41A1 Sensha "Wōkā Burudoggu"**.
+            - **60 SP (C)** renmamed to **60SP (C)**. The long name has been changed to **Komatsu Seisaku | 60 Shiki Ji Hashi 106mm Muhandō Hō C Gata "Mametan" | 60SP (C)**.
+            - **60 APC (ATM-1)** renamed to **60APC (ATM-1)**. The long name has been changed to **60 Shiki Sōkō Sha | 60APC (ATM-1)**.
+            - **STA-1** renamed to **ST-A1**. The long name has been changed to **Mitsubishi Jū Kōgyō | ST-A1**.
+            - **STA-2** renamed to **ST-A2**. The long name has been changed to **Mitsubishi Jū Kōgyō | ST-A2**.
+            - **STA-3** renamed to **ST-A3**. The long name has been changed to **Mitsubishi Jū Kōgyō | ST-A3**.
+            - **61 TK (B)** renmamed to **61TK (B)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata | 61TK (B)**.
+            - The **M36B2**'s (Japan) long name has been changed to **GM Defense | G-237 | Carriage, Motor, 90mm Gun, M36B2 "Jackson"**.
+            - **75 HSP** renamed to **75HSP**. The long name has been changed to **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 75 Shiki Ji Hashi 155mm Ryūdanhō | 75HSP**.
+            - **SUB-II-2** renamed to **SUB-I-2 (MK20)**. The long name has been changed to **Mitsubishi Jū Kōgyō | SUB-I-2 (MK20 Rh202)**.
+            - **Ho-Ri (prototype)** renamed to **Ho Ri**. The long name has been changed to **Mitsubishi Jū Kōgyō | Shisei Shin Hō Sensha Kō | Ho Ri**.
+            - **Ho-Ri** renamed to **Ho Ri (10 Senchi Han)**. The long name has been changed to **Shisei 10 Senchi Han Hō Sensha | Ho Ri**.
         - Coastal fleet:
             - The **Dai 538 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 538 Gō**.
             - The **Dai 838 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 838 Gō Gata Gyorai Tei (T-14) | Dai 838 Gō**.
@@ -238,7 +261,7 @@ All dates are listed in DD-MM-YYYY format.
             - **Ise**'s long name has been changed to **Kawasaki Zōsensho | Ise Gata Senkan (A-92) | Ise (1937)**.
             - **Amagi**'s long name has been changed to **Yokosuka Kaigun Kōshō | Amagi Gata Junyōsenkan (B-64) | Amagi**.
             - **Mutsu**'s long name has been changed to **Yokosuka Kaigun Kōshō | Nagato Gata Senkan (A-114) | Mutsu (1922)**.
-    - **F-5A(G)** renamed to **F-5A(G)-40-NO**. The long name has been changed to **Northrop Corperation N-156F | F-5A(G)-40-NO Freedom Fighter**.
+    - **F-5A(G)** renamed to **F-5A(G)-45-NO**. The long name has been changed to **Northrop Corperation N-156F | F-5A(G)-45-NO Freedom Fighter**.
     - The **Strasbourg**'s long name has been changed to **Ateliers et Chantiers de la Loire | Classe Dunkerque | Strasbourg (1942)**.
     - The **Dunkerque**'s long name has been changed to **Arsenal de Brest | Classe Dunkerque | Dunkerque (1939)**.
     - All manufacturers have been reworked. Vehicles with a manufacturer designation no longer have the manufacturer repeated and instead have the manufacturer's name directly attached to the manufacturer designation. The "/" character is now only used to separate upgrades and kit builds, while joint ventures are now denoted by the "+" character being used to separate the manufacturers. The full list of vehicles affected is not listed here because it would be hundreds of lines long.
@@ -260,6 +283,8 @@ All dates are listed in DD-MM-YYYY format.
     - **AH-1S (FMC)** (Israel) renamed to **AH-1S (MC) (CN)**. The long name has been changed to **AH-1S Ṣefa Dalet (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)**.
     - The **25 psv PZ IV**'s long name has been changed to **Ps. 221 | 25 tonnin panssarivaunu PZ IV**.
     - **M44** (UK) renamed to **Cardinal**. The long name has been changed to **155mm, Self-Propelled, Cardinal**.
+    - **F-117A-1-LO (OCIP II)** renamed to **F-117A-1-LO (MIPS)**. The long name has been changed to **F-117A-1-LO Nighthawk (Midlife Improvement Study)**.
+    - **Su-33 (2016)** renamed to **Su-33 (SVP-24-33)**.
 
 ### Weaponry:
 

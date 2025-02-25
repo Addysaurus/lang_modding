@@ -1,18 +1,18 @@
 <ID|readonly|noverify>;<English>
 //GUNS & CANNONS
-weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 海軍航空技術廠 | 5式30粍固定機銃 <color=#ff6f00>ACNN</color>
-weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 海軍航空技術廠 | 5式30粍固定機銃 <color=#ff6f00>ACNN</color>
+weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5式30粍固定機銃 <color=#ff6f00>ACNN</color>
+weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5式30粍固定機銃 <color=#ff6f00>ACNN</color>
 weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 陸軍技術本部 | 94式37粍戦車砲 <color=#ff6f00>CNN</color>
-weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 小倉陸軍造兵廠 | 98式20粍高射機関砲 <color=#ff6f00>ACNN</color>
-weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 小倉陸軍造兵廠 | 98式20粍高射機関砲 <color=#ff6f00>ACNN</color>
-weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> 大阪砲兵工廠 | 試製5式7糎半戦車砲 (長) I型 <color=#ff6f00>CNN</color>
-weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> 大阪砲兵工廠 | 試製5式7糎半戦車砲 (長) II型 <color=#ff6f00>CNN</color>
+weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98式20粍高射機関砲 <color=#ff6f00>ACNN</color>
+weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98式20粍高射機関砲 <color=#ff6f00>ACNN</color>
+weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> 試製5式7糎半戦車砲 (長) I型 <color=#ff6f00>CNN</color>
+weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> 試製5式7糎半戦車砲 (長) II型 <color=#ff6f00>CNN</color>
 //MISSILES
-weapons/120mm_type_64_mat_launcher_user_cannon;川崎重工業 | 64式対戦車誘導弾 <color=#ff6f00>AGM-WG</color>
+weapons/120mm_type_64_mat_launcher_user_cannon;64式対戦車誘導弾 <color=#ff6f00>AGM-WG</color>
 weapons/120mm_type_64_mat_launcher_user_cannon/short;ATM-1
-weapons/120mm_Type_64_MAT_rocket_launcher;川崎重工業 | 64式対戦車誘導弾 <color=#ff6f00>AGM-WG</color>
+weapons/120mm_Type_64_MAT_rocket_launcher;64式対戦車誘導弾 <color=#ff6f00>AGM-WG</color>
 weapons/120mm_Type_64_MAT_rocket_launcher/short;ATM-1
-weapons/160mm_sam_1c_launcher_user_cannon;技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型「ショートアロー」 <color=#ff6f00>LCH</color>
+weapons/160mm_sam_1c_launcher_user_cannon;81式短距離地対空誘導弾C型「ショートアロー」 <color=#ff6f00>LCH</color>
 160mm_sam_1c;SAM-1C
-weapons/80mm_Type_91_launcher_user_cannon;東芝 | 93式近距離地対空誘導弾「クローズドアロー」 <color=#ff6f00>LCH</color>
+weapons/80mm_Type_91_launcher_user_cannon;93式近距離地対空誘導弾「クローズドアロー」 <color=#ff6f00>LCH</color>
 80mm_type_91;SAM-3

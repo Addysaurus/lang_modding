@@ -319,12 +319,31 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **AGM-119A** renamed to **Penguin MK2 MOD 7**.
+    - The following Japanese weapons have been renamed and recieved their correct caliber and type tags:
+        - **30 mm Type 5 cannon** renamed to **5 Shiki 30 Mirimētoru Kotei Kijū**.
+        - **94 shiki 37 miri sensha hō** renamed to **94 Shiki 37 Mirimētoru Sensha Hō**.
+        - **98 shiki 20 miri kōsha kikanju** renamed to **98 Shiki 20 Mirimētoru Kōsha Kikanhō**.
+        - **shisei 5 shiki 7.5 senchi sensha hō (naga) I gata** renamed to **Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) I Gata**.
+        - **shisei 5 shiki 7.5 senchi sensha hō (naga) II gata** renamed to **Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) II Gata**.
+        - **Type 64 MAT** renamed to **ATM-1**. The long name has been changed to **64 Shiki Tai Sensha Yūdōdan**.
+        - **81 shiki tankyorichi taikū yūdōdan Tan-SAM ranchā "Shōtoarō"** renamed to **81 Shiki Tankyorichi Taikū Yūdōdan C Gata "Shōto Arō"**.
+        - **Type 91 Kin-SAM Launcher** renamed to **93 Shiki Kinkyorichi Taikū Yūdōdan "Kurōzudo Arō"**.
+        - The **SAM-3** has recieved its type tag.
 
 ### Modifications:
 
 - #### Changes:
 
     - The **Exhaust smokescreen** modification has had chemical formulas added in parentheses to the chemicals listed in its description.
+
+### Engines:
+
+- #### Changes:
+
+    - **Homare 12** renamed to **Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 || Homare 12 Gata**. The double "||" is intentional, it is used to separate the army and navy names.
+    - **Homare 21** renamed to **Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-21 || Homare 21 Gata | NK9H**. The double || is intentional, it is used to separate the army and navy names.
+    - **Homare 23** renamed to **Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-23 || Homare 23 Gata | NK9H-S**. The double || is intentional, it is used to separate the army and navy names.
+    - **Homare 42** renamed to **Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-42 || Homare 42 Gata | NK9A-O**. The double || is intentional, it is used to separate the army and navy names.
 
 ## 1.11.01 - 20-01-2025
 

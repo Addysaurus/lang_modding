@@ -1409,11 +1409,11 @@ shop/group/jp_type_60_group;60SP / APC (ATM-1)
 shop/group/jp_type_87_89_group;87RCV / 89FV
 shop/group/jp_chi_to_group;Chi To (Shi 2 Gō) / Chi To
 shop/group/jp_type_61_sta_group;61TK / ST-A3
-shop/group/jp_type_74_stb_group;STB-0002 / 74 TK (C)
+shop/group/jp_type_74_stb_group;STB-0002 / 74TK (C)
 shop/group/jp_type_74_group;74TK (E) / (F)
 shop/group/jp_type_90_group;90TK / TK (B)
 shop/group/jp_type_10_group;10TK / Shin TK 3 Gō (2009)
-shop/group/jp_ho_ni_group;Ho-Ni I / III
+shop/group/jp_ho_ni_group;Ho Ni I / III
 shop/group/jp_st_group;ST-A1 / 2
 shop/group/ki-10_group;Ki 10-I / II / I (1 Sentai) / II (77 Sentai)
 shop/group/b6n_group;B6N2 / 2 Kō
@@ -10088,30 +10088,6 @@ uk_vickers_mk_6_aa_mk_1_shop;A.5, Mk. I, A.A., Mk. I
 uk_vickers_mk_6_aa_mk_1_0;Tank, Light, Mk. VIa, A.5, Mk. I, A.A., Mk. I
 uk_vickers_mk_6_aa_mk_1_1;A.5, Mk. I, A.A., Mk. I
 uk_vickers_mk_6_aa_mk_1_2;SPAA
-jp_type_10_shop;10 TK
-jp_type_10_0;"10 shiki sensha ""Hitomaru"""
-jp_type_10_1;10 TK
-jp_type_10_2;MBT
-jp_type_10_prototype_shop;shin TK (prototype No. 3) (2006)
-jp_type_10_prototype_0;shin sensha (prototype No. 3) (2006)
-jp_type_10_prototype_1;shin TK
-jp_type_10_prototype_2;MBT
-jp_tkx_prot_shop;shin TK (prototype No. 3) (2009)
-jp_tkx_prot_0;shin sensha (prototype No. 3) (2009)
-jp_tkx_prot_1;shin TK
-jp_tkx_prot_2;MBT
-jp_type_90b_camo_shop;90 TK (B) (FKD)
-jp_type_90b_camo_0;"90 shiki sensha B gata ""Kyū-maru"" (Fuji Kyōdō Dan, Kikō Kyōdō Rentai, 3rd Sensha Chūtai)"
-jp_type_90b_camo_1;90 TK
-jp_type_90b_camo_2;MBT
-jp_type_90b_shop;90 TK (B)
-jp_type_90b_0;"90 shiki sensha B gata ""Kyū-maru"""
-jp_type_90b_1;90 TK
-jp_type_90b_2;MBT
-jp_type_90_shop;90 TK
-jp_type_90_0;"90 shiki sensha ""Kyū-maru"""
-jp_type_90_1;90 TK
-jp_type_90_2;MBT
 fr_amx_32_shop;AMX 32 P2
 fr_amx_32_0;AMX 32 P2
 fr_amx_32_1;AMX 32
@@ -11092,38 +11068,6 @@ ussr_t_80u_yt_cup_2019_shop;␙ T-80U
 ussr_t_80u_yt_cup_2019_0;"␙ Ob""yekt 219AS | T-80U obr. 1993 g. isp. Shvedskiy"
 ussr_t_80u_yt_cup_2019_1;␙ T-80U
 ussr_t_80u_yt_cup_2019_2;MBT
-jp_type_74_mod_g_kai_shop;74 TK (G)
-jp_type_74_mod_g_kai_0;"74 shiki sensha kai G gata ""Nana-yon"""
-jp_type_74_mod_g_kai_1;74 TK
-jp_type_74_mod_g_kai_2;MBT
-jp_type_87_rcv_prot_shop;RCV (prototype No. 1)
-jp_type_87_rcv_prot_0;teisatsu kanshisha (prototype No. 1)
-jp_type_87_rcv_prot_1;RCV (prototype No. 1)
-jp_type_87_rcv_prot_2;Light tank
-jp_type_87_rcv_shop;87 RCV
-jp_type_87_rcv_0;"87 shiki teisatsu kanshisha ""Burakkuai"""
-jp_type_87_rcv_1;87 RCV
-jp_type_87_rcv_2;Light tank
-jp_icv_prototype_shop;RCV
-jp_icv_prototype_0;teisatsu sentō gata
-jp_icv_prototype_1;RCV
-jp_icv_prototype_2;IFV
-jp_icv_ifv_prototype_shop;24 WAFV
-jp_icv_ifv_prototype_0;24 Shiki Sōwa Sōkō Sentō Sha
-jp_icv_ifv_prototype_1;24 WAFV
-jp_icv_ifv_prototype_2;IFV
-jp_type_16_mod_shop;16 MCV (15th STR)
-jp_type_16_mod_0;16 shiki kidō sentō sha (15th Sokuō Tenkai Rentai)
-jp_type_16_mod_1;16 MCV
-jp_type_16_mod_2;Light tank
-jp_type_16_mcv_prot_shop;MCV (prototype No. 3)
-jp_type_16_mcv_prot_0;kidō sentō sha (prototype No. 3)
-jp_type_16_mcv_prot_1;MCV
-jp_type_16_mcv_prot_2;Light tank
-jp_type_16_shop;16 MCV
-jp_type_16_0;16 shiki kidō sentō sha
-jp_type_16_1;16 MCV
-jp_type_16_2;Light tank
 ussr_bt_7_m_shop;BT-7M
 ussr_bt_7_m_0;A-8 | BT-7M
 ussr_bt_7_m_1;BT-7M
@@ -12163,8 +12107,8 @@ germ_wiesel_1_tow_shop;Wiesel 1 A2 TOW
 germ_wiesel_1_tow_0;Waffenträger Wiesel 1 A2 TOW
 germ_wiesel_1_tow_1;Wiesel 1 A2 TOW
 germ_wiesel_1_tow_2;SPG
-germ_wiesel_1_mk20_shop;Wiesel 1 A4 MK
-germ_wiesel_1_mk20_0;Waffenträger Wiesel 1 A4 MK
+germ_wiesel_1_mk20_shop;Wiesel 1 A4 (MK20)
+germ_wiesel_1_mk20_0;Waffenträger Wiesel 1 A4 (MK20 Rh202)
 germ_wiesel_1_mk20_1;Wiesel 1 A4
 germ_wiesel_1_mk20_2;SPAA
 germ_vilkas_shop;Vilkas

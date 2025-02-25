@@ -309,6 +309,7 @@ All dates are listed in DD-MM-YYYY format.
     - **M44** (UK) renamed to **Cardinal**. The long name has been changed to **155mm, Self-Propelled, Cardinal**.
     - **F-117A-1-LO (OCIP II)** renamed to **F-117A-1-LO (MIPS)**. The long name has been changed to **Lockheed Corporation | F-117A-1-LO Nighthawk (Midlife Improvement Study)**.
     - **Su-33 (2016)** renamed to **Su-33 (SVP-24-33)**.
+    - **Wiesel 1 A4 MK** renamed to **Wiesel 1 A4 (MK20)**. The long name has been changed to **Waffenträger Wiesel 1 A4 (MK20 Rh202)**.
 
 ### Weaponry:
 

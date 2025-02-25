@@ -190,6 +190,13 @@ All dates are listed in DD-MM-YYYY format.
             - **SUB-II-2** renamed to **SUB-I-2 (MK20)**. The long name has been changed to **Mitsubishi Jū Kōgyō | SUB-I-2 (MK20 Rh202)**.
             - **Ho-Ri (prototype)** renamed to **Ho Ri**. The long name has been changed to **Mitsubishi Jū Kōgyō | Shisei Shin Hō Sensha Kō | Ho Ri**.
             - **Ho-Ri** renamed to **Ho Ri (10 Senchi Han)**. The long name has been changed to **Shisei 10 Senchi Han Hō Sensha | Ho Ri**.
+            - **RCV (prototype No. 1)** renamed to **RCV (Shi 1 Gō)**. The long name has been changed to **Komatsu Seisaku | Teisatsu Keikaisha | RCV (Shisaku 1 Gōsha)**.
+            - The **M47**'s (Japan) long name has been changed to **American Locomotive Company | G-262 | Tank, Combat, Full Tracked: 90mm Gun, M47 Patton**.
+            - The **STB-0002**'s long name has been changed to **Mitsubishi Jū Kōgyō | STB-0002**.
+            - **74 TK (C)** renamed to **74TK (C)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 74 Shiki Sensha C Gata "Nana Yon" | 74TK (C)**.
+            - **74 TK (E)** renamed to **74TK (E)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 74 Shiki Sensha E Gata "Nana Yon" | 74TK (E)**.
+            - **74 TK (F)** renamed to **74TK (F)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 74 Shiki Sensha F Gata "Nana Yon" | 74TK (F)**.
+            - **74 TK (G)** renamed to **74TK (G)**. The long name has been changed to **Mitsubishi Jū Kōgyō | 74 Shiki Sensha G Gata "Nana Yon" | 74TK (G)**.
         - Coastal fleet:
             - The **Dai 538 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 538 Gō**.
             - The **Dai 838 Gō**'s long name has been chanegd to **Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 838 Gō Gata Gyorai Tei (T-14) | Dai 838 Gō**.
@@ -283,7 +290,7 @@ All dates are listed in DD-MM-YYYY format.
     - **AH-1S (FMC)** (Israel) renamed to **AH-1S (MC) (CN)**. The long name has been changed to **AH-1S Ṣefa Dalet (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)**.
     - The **25 psv PZ IV**'s long name has been changed to **Ps. 221 | 25 tonnin panssarivaunu PZ IV**.
     - **M44** (UK) renamed to **Cardinal**. The long name has been changed to **155mm, Self-Propelled, Cardinal**.
-    - **F-117A-1-LO (OCIP II)** renamed to **F-117A-1-LO (MIPS)**. The long name has been changed to **F-117A-1-LO Nighthawk (Midlife Improvement Study)**.
+    - **F-117A-1-LO (OCIP II)** renamed to **F-117A-1-LO (MIPS)**. The long name has been changed to **Lockheed Corporation | F-117A-1-LO Nighthawk (Midlife Improvement Study)**.
     - **Su-33 (2016)** renamed to **Su-33 (SVP-24-33)**.
 
 ### Weaponry:

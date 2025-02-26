@@ -15,7 +15,7 @@ shop/group/ki_61_late_group;キ61-I丁 / II改甲
 shop/group/ki_49_1_group;キ49-I / II甲
 shop/group/ki_49_2_group;キ49-II乙 / 乙 (late)
 shop/group/ki_67_group;キ67-I甲 / 乙
-shop/group/n1k2_group;N1K1-J / 2-J / 2-J甲
+shop/group/n1k2_group;N1K1-J甲 / 2-J / 2-J甲
 shop/group/ki_84_group;キ84-I甲 / 乙
 shop/group/j2m_group;J2M3 / 5
 shop/group/r2y2_group;R2Y2-G (11型) / (22型) / (32型)
@@ -69,8 +69,8 @@ ki_43_1_shop;キ43-I丙
 ki_43_1_0;中島飛行機 | 1式戦闘機1型丙 | キ43-I丙「隼」
 ki_43_1_1;キ43-I
 ki_43_1_2;キ43
-ki_43_2_shop;キ43-II甲
-ki_43_2_0;中島飛行機 | 1式戦闘機2型甲 | キ43-II甲「隼」
+ki_43_2_shop;キ43-II (late)
+ki_43_2_0;中島飛行機 | 1式戦闘機2型 | キ43-II「隼」(late)
 ki_43_2_1;キ43-II
 ki_43_2_2;キ43
 ki_43_3_otsu_shop;キ43-III乙
@@ -202,8 +202,8 @@ n1k1_kyuofu_shop;N1K1
 n1k1_kyuofu_0;川西航空機 | 強風 | N1K1
 n1k1_kyuofu_1;N1K1
 n1k1_kyuofu_2;N1K
-n1k1_ja_shop;N1K1-J
-n1k1_ja_0;川西航空機 | 紫電11型 | N1K1-J
+n1k1_ja_shop;N1K1-J甲
+n1k1_ja_0;川西航空機 | 紫電11型甲 | N1K1-J甲
 n1k1_ja_1;N1K1
 n1k1_ja_2;N1K
 n1k2_j_shop;N1K2-J
@@ -465,53 +465,53 @@ r2y2_kai_shop;R2Y2-G (32型)
 r2y2_kai_0;試製景雲改32型 | R2Y2-G
 r2y2_kai_1;R2Y2-G
 r2y2_kai_2;R2Y
-f-86f-30_japan_shop;▅ F-86F-30-NA
-f-86f-30_japan_0;▅ North American Aviation / 三菱重工業 | F-86F-30-NA「旭光」
+f-86f-30_japan_shop;▅ F-86F-30-MIT
+f-86f-30_japan_0;▅ North American Aviation / 三菱重工業 | F-86F-30-MIT「旭光」
 f-86f-30_japan_1;▅ F-86F
 f-86f-30_japan_2;▅ F-86
-f-86f-40_japan_shop;▅ F-86F-40-NA
-f-86f-40_japan_0;▅ North American Aviation / 三菱重工業 | F-86F-40-NA「旭光」
+f-86f-40_japan_shop;▅ F-86F-40-MIT
+f-86f-40_japan_0;▅ North American Aviation / 三菱重工業 | F-86F-40-MIT「旭光」
 f-86f-40_japan_1;▅ F-86F
 f-86f-40_japan_2;▅ F-86
-f-86f-40_japan_blue_impulse_shop;▅ F-86F-40-NA (6飛隊)
-f-86f-40_japan_blue_impulse_0;▅ North American Aviation / 三菱重工業 | F-86F-40-NA「旭光」(第6飛行隊)
+f-86f-40_japan_blue_impulse_shop;▅ F-86F-40-MIT (6飛隊)
+f-86f-40_japan_blue_impulse_0;▅ North American Aviation / 三菱重工業 | F-86F-40-MIT「旭光」(第6飛行隊)
 f-86f-40_japan_blue_impulse_1;▅ F-86F
 f-86f-40_japan_blue_impulse_2;▅ F-86
-f-104j_shop;▅ F-104J (late)
-f-104j_0;▅ Lockheed Corporation / 三菱重工業 | F-104J「栄光」(late)
+f-104j_shop;▅ F-104J-MIT (C2)
+f-104j_0;▅ Lockheed Corporation / 三菱重工業 | F-104J-MIT「栄光」(C2ロット)
 f-104j_1;▅ F-104J
 f-104j_2;▅ F-104
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 6
-t2_shop;T-2 (late)
-t2_0;三菱重工業 | T-2 (late)
+t2_shop;T-2 (1979)
+t2_0;三菱重工業 | T-2 (1979)
 t2_1;T-2
 t2_2;T-2
-t2_early_shop;T-2 (late) (飛開実団)
-t2_early_0;三菱重工業 | T-2 (late) (飛行開発実験団)
+t2_early_shop;T-2 (1979) (飛開実団)
+t2_early_0;三菱重工業 | T-2 (1979) (飛行開発実験団)
 t2_early_1;T-2
 t2_early_2;T-2
 f1_shop;F-1
 f1_0;三菱重工業 | F-1
 f1_1;F-1
 f1_2;F-1
-f-4ej_shop;F-4EJ
-f-4ej_0;McDonnell Douglas Corporation / 三菱重工業 | F-4EJ「ファントム」
+f-4ej_shop;F-4EJ-MIT
+f-4ej_0;McDonnell Douglas Corporation / 三菱重工業 | F-4EJ-MIT「ファントム」
 f-4ej_1;F-4EJ
 f-4ej_2;F-4
-f-4ej_adtw_shop;F-4EJ (飛開実団)
-f-4ej_adtw_0;McDonnell Douglas Corporation / 三菱重工業 | F-4EJ「ファントム」(飛行開発実験団)
+f-4ej_adtw_shop;F-4EJ-MIT (飛開実団)
+f-4ej_adtw_0;McDonnell Douglas Corporation / 三菱重工業 | F-4EJ-MIT「ファントム」(飛行開発実験団)
 f-4ej_adtw_1;F-4EJ
 f-4ej_adtw_2;F-4
 f-4ej_kai_shop;F-4EJ改
 f-4ej_kai_0;McDonnell Douglas Corporation / 三菱重工業 | F-4EJ改「ファントム」
 f-4ej_kai_1;F-4EJ
 f-4ej_kai_2;F-4
-f_15j_shop;F-15J (C4)
-f_15j_0;McDonnell Douglas Corporation / 三菱重工業 | F-15J「イーグル」(C4ロット)
+f_15j_shop;F-15J-MIT (C4)
+f_15j_0;McDonnell Douglas Corporation / 三菱重工業 | F-15J-MIT「イーグル」(C4ロット)
 f_15j_1;F-15J
 f_15j_2;F-15
-f_15j_kai_shop;F-15J(M)
-f_15j_kai_0;McDonnell Douglas Corporation / 三菱重工業 | F-15J(M)「イーグル」
+f_15j_kai_shop;F-15J(M)-MIT
+f_15j_kai_0;McDonnell Douglas Corporation / 三菱重工業 | F-15J(M)-MIT「イーグル」
 f_15j_kai_1;F-15J
 f_15j_kai_2;F-15
 f_16aj_shop;F-16AJ
@@ -783,12 +783,12 @@ jp_type_87_shop;87AW
 jp_type_87_0;三菱重工業 + 日本製鋼所 | 87式自走高射機関砲「スカイシューター」
 jp_type_87_1;87AW
 jp_type_87_2;SPAAG
-jp_type_16_mod_shop;16MCV (15即機)
-jp_type_16_mod_0;三菱重工業 | 16式機動戦闘車 (第15即応機動連隊)
+jp_type_16_mod_shop;16MCV (C1) (15即機)
+jp_type_16_mod_0;三菱重工業 | 16式機動戦闘車 (C1ロット) (第15即応機動連隊)
 jp_type_16_mod_1;16MCV
 jp_type_16_mod_2;Light tank
-jp_type_16_shop;16MCV
-jp_type_16_0;三菱重工業 | 16式機動戦闘車
+jp_type_16_shop;16MCV (C1)
+jp_type_16_0;三菱重工業 | 16式機動戦闘車 (C1ロット)
 jp_type_16_1;16MCV
 jp_type_16_2;Light tank
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7

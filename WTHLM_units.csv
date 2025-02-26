@@ -1426,7 +1426,7 @@ shop/group/a6m3_mod22_group;A6M3 (32 Gata) / (22 Gata) / 3 Kō
 shop/group/a6m5_group;A6M5 Otsu / Hei
 shop/group/ki_44_group;Ki 44-I / 61-I Kō
 shop/group/ki_61_late_group;Ki 61-I Tei / II Kai Kō
-shop/group/n1k2_group;N1K1-J / 2-J / 2-J Kō
+shop/group/n1k2_group;N1K1-J Kō / 2-J / 2-J Kō
 shop/group/ki-43_group;Ki 43-I / II
 shop/group/ki_49_1_group;Ki 49-I / II Kō
 shop/group/ki_49_2_group;Ki 49-II Otsu / Otsu (late)
@@ -2197,12 +2197,12 @@ b_25_shop;B-25-NA
 b_25_0;B-25-NA Mitchell
 b_25_1;B-25
 b_25_2;B-25
-ki_43_2_late_shop;▃ Ki 43-II kō
-ki_43_2_late_0;"▃ 1 shiki sentōki 2 gata kō | Ki 43-II kō ""Hayabusa"""
+ki_43_2_late_shop;▃ Ki 43-II (early)
+ki_43_2_late_0;"▃ Nakajima Hikōki | 1 Shiki Sentōki 2 Gata | Ki 43-II ""Hayabusa"" (early)"""
 ki_43_2_late_1;▃ Ki 43-II
 ki_43_2_late_2;▃ Ki 43
-ki_61_1a_otsu_usa_shop;▃ Ki 61-I otsu
-ki_61_1a_otsu_usa_0;"▃ 3 shiki sentōki 1 gata otsu | Ki 61-I otsu ""Hien"""
+ki_61_1a_otsu_usa_shop;▃ Ki 61-I Otsu
+ki_61_1a_otsu_usa_0;"▃ Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Otsu | Ki 61-I Otsu ""Hien"""
 ki_61_1a_otsu_usa_1;▃ Ki 61-I
 ki_61_1a_otsu_usa_2;▃ Ki 61
 p-43a-1_shop;P-43A-1-RE
@@ -2306,8 +2306,8 @@ xp-55_shop;XP-55-CS
 xp-55_0;XP-55-CS Ascender
 xp-55_1;XP-55
 xp-55_2;XP-55
-a6m2_zero_usa_shop;▃ A6M2 (21 gata)
-a6m2_zero_usa_0;"▃ 0 shiki kanjō sentōki 21 gata | A6M2 ""Rei-Sen"" ""Akutan Zero"""
+a6m2_zero_usa_shop;▃ A6M2 (21 Gata)
+a6m2_zero_usa_0;"▃ Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 21 Gata | A6M2 ""Rei Sen"" ""Akutan Zero"""
 a6m2_zero_usa_1;▃ A6M2
 a6m2_zero_usa_2;▃ A6M
 bf-109f-4_usa_shop;▃ Bf 109 F-4
@@ -4619,8 +4619,8 @@ ki_43_1_shop;Ki 43-I Hei
 ki_43_1_0;"Nakajima Hikōki | 1 Shiki Sentōki 1 Gata Hei | Ki 43-I Hei ""Hayabusa"""
 ki_43_1_1;Ki 43-I
 ki_43_1_2;Ki 43
-ki_43_2_shop;Ki 43-II Kō
-ki_43_2_0;"Nakajima Hikōki | 1 Shiki Sentōki 2 Gata Kō | Ki 43-II Kō ""Hayabusa"""
+ki_43_2_shop;Ki 43-II (late)
+ki_43_2_0;"Nakajima Hikōki | 1 Shiki Sentōki 2 Gata | Ki 43-II ""Hayabusa"" (late)"
 ki_43_2_1;Ki 43-II
 ki_43_2_2;Ki 43
 ki_43_3_otsu_shop;Ki 43-III Otsu
@@ -4709,51 +4709,51 @@ a6m2_n_zero_0;Nakajima Hikōki | 2 Shiki Suijō Sentōki | A6M2-N
 a6m2_n_zero_1;A6M2-N
 a6m2_n_zero_2;A6M
 a6m2_mod11_shop;A6M2 (11 Gata)
-a6m2_mod11_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 11 Gata | A6M2 ""Reisen"""
+a6m2_mod11_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 11 Gata | A6M2 ""Rei Sen"""
 a6m2_mod11_1;A6M2
 a6m2_mod11_2;A6M
-a6m2_zero_shop;A6M2 (12 Gata)
-a6m2_zero_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 12 Gata | A6M2 ""Reisen"""
+a6m2_zero_shop;A6M2 (21 Gata)
+a6m2_zero_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 21 Gata | A6M2 ""Rei Sen"""
 a6m2_zero_1;A6M2
 a6m2_zero_2;A6M
 a6m3_zero_shop;A6M3 (32 Gata)
-a6m3_zero_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 32 Gata | A6M3 ""Reisen"""
+a6m3_zero_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 32 Gata | A6M3 ""Rei Sen"""
 a6m3_zero_1;A6M3
 a6m3_zero_2;A6M
 a6m3_mod22_shop;A6M3 (22 Gata)
-a6m3_mod22_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 22 Gata | A6M3 ""Reisen"""
+a6m3_mod22_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 22 Gata | A6M3 ""Rei Sen"""
 a6m3_mod22_1;A6M3
 a6m3_mod22_2;A6M
 a6m3_mod22ko_shop;A6M3 Kō
-a6m3_mod22ko_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 22 Gata Kō | A6M3 Kō ""Reisen"""
+a6m3_mod22ko_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 22 Gata Kō | A6M3 Kō ""Rei Sen"""
 a6m3_mod22ko_1;A6M3
 a6m3_mod22ko_2;A6M
 a6m5_zero_shop;A6M5
-a6m5_zero_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata | A6M5 ""Reisen"""
+a6m5_zero_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata | A6M5 ""Rei Sen"""
 a6m5_zero_1;A6M5
 a6m5_zero_2;A6M
 a6m5ko_shop;A6M5 Kō
-a6m5ko_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata Kō | A6M5 Kō ""Reisen"""
+a6m5ko_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata Kō | A6M5 Kō ""Rei Sen"""
 a6m5ko_1;A6M5
 a6m5ko_2;A6M
 a6m5otsu_shop;A6M5 Otsu
-a6m5otsu_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata Otsu | A6M5 Otsu ""Reisen"""
+a6m5otsu_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata Otsu | A6M5 Otsu ""Rei Sen"""
 a6m5otsu_1;A6M5
 a6m5otsu_2;A6M
 a6m5hei_shop;A6M5 Hei
-a6m5hei_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata Hei | A6M5 Hei ""Reisen"""
+a6m5hei_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata Hei | A6M5 Hei ""Rei Sen"""
 a6m5hei_1;A6M5
 a6m5hei_2;A6M
 a6m6c_shop;A6M6
-a6m6c_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 53 Gata | A6M6 ""Reisen"""
+a6m6c_0;"Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 53 Gata | A6M6 ""Rei Sen"""
 a6m6c_1;A6M6
 a6m6c_2;A6M
 n1k1_kyuofu_shop;N1K1
 n1k1_kyuofu_0;Kawanishi Kōkūki | Kyōfū | N1K1
 n1k1_kyuofu_1;N1K1
 n1k1_kyuofu_2;N1K
-n1k1_ja_shop;N1K1-J
-n1k1_ja_0;Kawanishi Kōkūki | Shiden 11 Gata | N1K1-J
+n1k1_ja_shop;N1K1-J Kō
+n1k1_ja_0;Kawanishi Kōkūki | Shiden 11 Gata Kō | N1K1-J Kō
 n1k1_ja_1;N1K1
 n1k1_ja_2;N1K
 n1k2_j_shop;N1K2-J
@@ -5014,21 +5014,21 @@ r2y2_kai_shop;R2Y2-G (32 Gata)
 r2y2_kai_0;Shisei Keiun Kai 32 Gata | R2Y2-G
 r2y2_kai_1;R2Y2-G
 r2y2_kai_2;R2Y
-f-86f-30_japan_shop;▅ F-86F-30-NA
-f-86f-30_japan_0;"▅ North American Aviation / Mitsubishi Jū Kōgyō | F-86F-30-NA ""Kyokkō"""
+f-86f-30_japan_shop;▅ F-86F-30-MIT
+f-86f-30_japan_0;"▅ North American Aviation / Mitsubishi Jū Kōgyō | F-86F-30-MIT ""Kyokkō"""
 f-86f-30_japan_1;▅ F-86F
 f-86f-30_japan_2;▅ F-86
-f-86f-40_japan_shop;▅ F-86F-40-NA
-f-86f-40_japan_0;"▅ North American Aviation / Mitsubishi Jū Kōgyō | F-86F-40-NA ""Kyokkō"""
+f-86f-40_japan_shop;▅ F-86F-40-MIT
+f-86f-40_japan_0;"▅ North American Aviation / Mitsubishi Jū Kōgyō | F-86F-40-MIT ""Kyokkō"""
 f-86f-40_japan_1;▅ F-86F
 f-86f-40_japan_2;▅ F-86
-f-86f-40_japan_blue_impulse_shop;▅ F-86F-40-NA (6 Hitai)
-f-86f-40_japan_blue_impulse_0;"▅ North American Aviation / Mitsubishi Jū Kōgyō | F-86F-40-NA ""Kyokkō"" (Dai 6 Hikōtai)"
+f-86f-40_japan_blue_impulse_shop;▅ F-86F-40-MIT (6 Hitai)
+f-86f-40_japan_blue_impulse_0;"▅ North American Aviation / Mitsubishi Jū Kōgyō | F-86F-40-MIT ""Kyokkō"" (Dai 6 Hikōtai)"
 f-86f-40_japan_blue_impulse_1;▅ F-86F
 f-86f-40_japan_blue_impulse_2;▅ F-86
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 6
-f-104j_shop;▅ F-104J (late)
-f-104j_0;"▅ Lockheed Corporation / Mitsubishi Jū Kōgyō | F-104J ""Eikō"" (late)"
+f-104j_shop;▅ F-104J-MIT (C2)
+f-104j_0;"▅ Lockheed Corporation / Mitsubishi Jū Kōgyō | F-104J-MIT ""Eikō"" (C2 Rotto)"
 f-104j_1;▅ F-104J
 f-104j_2;▅ F-104
 t2_shop;T-2 (1979)
@@ -5044,12 +5044,12 @@ f1_0;Mitsubishi Jū Kōgyō | F-1
 f1_1;F-1
 f1_2;F-1
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 7
-f-4ej_shop;▅ F-4EJ
-f-4ej_0;"▅ McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-4EJ ""Fantomu"""
+f-4ej_shop;▅ F-4EJ-MIT
+f-4ej_0;"▅ McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-4EJ-MIT ""Fantomu"""
 f-4ej_1;▅ F-4EJ
 f-4ej_2;▅ F-4
-f-4ej_adtw_shop;▅ F-4EJ (Hi Kai Ji Dan)
-f-4ej_adtw_0;"▅ McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-4EJ ""Fantomu"" (Hikō Kaihatsu Jikken Dan)"
+f-4ej_adtw_shop;▅ F-4EJ-MIT (Hi Kai Ji Dan)
+f-4ej_adtw_0;"▅ McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-4EJ-MIT ""Fantomu"" (Hikō Kaihatsu Jikken Dan)"
 f-4ej_adtw_1;▅ F-4EJ
 f-4ej_adtw_2;▅ F-4
 f-4ej_kai_shop;▅ F-4EJ Kai
@@ -5057,14 +5057,14 @@ f-4ej_kai_0;"▅ McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-4EJ 
 f-4ej_kai_1;▅ F-4EJ
 f-4ej_kai_2;▅ F-4
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-f_15j_shop;▅ F-15J (C4)
-f_15j_0;"▅ McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-15J ""Īguru"" (C4 Rotto)"
+f_15j_shop;▅ F-15J-MIT (C4)
+f_15j_0;"▅ McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-15J-MIT ""Īguru"" (C4 Rotto)"
 f_15j_1;▅ F-15J
 f_15j_2;▅ F-15
-f_15j_kai_shop;▅ F-15J(M)
-f_15j_kai_0;"▅ McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-15J(M) ""Īguru"""
+f_15j_kai_shop;▅ F-15J(M)-MIT
+f_15j_kai_0;"▅ McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-15J(M)-MIT ""Īguru"""
 f_15j_kai_1;▅ F-15J
-f_15j_kai_2;▅ -15
+f_15j_kai_2;▅ F-15
 f_16aj_shop;▅ F-16AJ
 f_16aj_0;▅ General Dynamics Corporation F-16AJ Fighting Falcon
 f_16aj_1;▅ F-16AJ
@@ -5338,12 +5338,12 @@ jp_type_87_shop;87AW
 jp_type_87_0;"Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 87 Shiki Ji Hashi Kōsha Kikanhō ""Sukaishūtā"""
 jp_type_87_1;87AW
 jp_type_87_2;SPAAG
-jp_type_16_mod_shop;16MCV (15 Soku Ki)
-jp_type_16_mod_0;Mitsubishi Jū Kōgyō | 16 Shiki Kidō Sentō Sha (Dai 15 Sokuō Kidō Rentai)
+jp_type_16_mod_shop;16MCV (C1) (15 Soku Ki)
+jp_type_16_mod_0;Mitsubishi Jū Kōgyō | 16 Shiki Kidō Sentō Sha (C1 Rotto) (Dai 15 Sokuō Kidō Rentai)
 jp_type_16_mod_1;16MCV
 jp_type_16_mod_2;Light tank
-jp_type_16_shop;16MCV
-jp_type_16_0;Mitsubishi Jū Kōgyō | 16 Shiki Kidō Sentō Sha
+jp_type_16_shop;16MCV (C1)
+jp_type_16_0;Mitsubishi Jū Kōgyō | 16 Shiki Kidō Sentō Sha (C1 Rotto)
 jp_type_16_1;16MCV
 jp_type_16_2;Light tank
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
@@ -8904,8 +8904,8 @@ stirling_mk3_shop;Stirling B. Mk. III
 stirling_mk3_0;Stirling B. Mk. III
 stirling_mk3_1;Stirling B. Mk. III
 stirling_mk3_2;Stirling
-ki_44_2_hei_china_shop;☀ Ki 44-II hei
-ki_44_2_hei_china_0;"☀ 2 shiki sentōki 2 gata hei | Ki 44-II hei ""Shōki"""
+ki_44_2_hei_china_shop;☀ Ki 44-II Hei
+ki_44_2_hei_china_0;"☀ Nakajima Hikōki | 2 Shiki Sentōki 1 Gata Hei | Ki 44-II Hei ""Shōki"""
 ki_44_2_hei_china_1;☀ Ki 44-II
 ki_44_2_hei_china_2;☀ Ki 44
 gladiator_mk1_china_shop;☀ Gladiator Mk. I
@@ -8936,9 +8936,9 @@ p-40e_china_shop;☀ P-40E-1-CU
 p-40e_china_0;☀ P-40E-1-CU Kittyhawk
 p-40e_china_1;☀ P-40E
 p-40e_china_2;☀ P-40
-ki-27_otsu_china_shop;☀ Ki 27 otsu
-ki-27_otsu_china_0;☀ 97 shiki sentōki otsu | Ki 27 otsu
-ki-27_otsu_china_1;☀ Ki 27 otsu
+ki-27_otsu_china_shop;☀ Ki 27 Otsu
+ki-27_otsu_china_0;☀ Nakajima Hikōki | 97 Shiki Sentōki Otsu | Ki 27 Otsu
+ki-27_otsu_china_1;☀ Ki 27 Otsu
 ki-27_otsu_china_2;☀ Ki 27
 hawk_iii_shop;☀ C-68C
 hawk_iii_0;☀ C-68C Hawk III
@@ -8948,20 +8948,20 @@ p-43a-1_china_shop;☀ P-43A-1-RE
 p-43a-1_china_0;☀ P-43A-1-RE
 p-43a-1_china_1;☀ P-43A
 p-43a-1_china_2;☀ P-43
-ki_43_3_ko_shop;☀ Ki 43-III kō
-ki_43_3_ko_0;"☀ 1 shiki sentōki 3 gata kō | Ki 43-III kō ""Hayabusa"""
+ki_43_3_ko_shop;☀ Ki 43-III Kō
+ki_43_3_ko_0;"☀ Nakajima Hikōki / Tachikawa Hikōki | 1 Shiki Sentōki 3 Gata Kō| Ki 43-III Kō ""Hayabusa"""
 ki_43_3_ko_1;☀ Ki 43-III
 ki_43_3_ko_2;☀ Ki 43
-ki-45_hei_tei_china_shop;␗ Ki 45 kai hei (tei)
-ki-45_hei_tei_china_0;"␗ 2 shiki fukuza sentōki hei | Ki 45 kai hei ""Toryu"" (tei equipment)"
-ki-45_hei_tei_china_1;␗ Ki 45 kai
+ki-45_hei_tei_china_shop;␗ Ki 45 Kai Hei (Tei)
+ki-45_hei_tei_china_0;"␗ Kawasaki Kōkūki Kōgyō | 2 Shiki Fukuza Sentōki Hei | Ki 45 Kai Hei ""Toryu"" (Tei Sōbi)"
+ki-45_hei_tei_china_1;␗ Ki 45 Kai
 ki-45_hei_tei_china_2;␗ Ki 45
-a6m2_zero_china_shop;☀ A6M2 (21 gata)
-a6m2_zero_china_0;"☀ 0 shiki kanjō sentōki 21 gata | A6M2 ""Rei-Sen"""
+a6m2_zero_china_shop;☀ A6M2 (21 Gata)
+a6m2_zero_china_0;"☀ Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 21 Gata | A6M2 ""Rei Sen"""
 a6m2_zero_china_1;☀ A6M2
 a6m2_zero_china_2;☀ A6M
 a6m5_zero_china_shop;☀ A6M5
-a6m5_zero_china_0;"☀ 0 shiki kanjō sentōki 52 gata | A6M5 ""Rei-Sen"""
+a6m5_zero_china_0;"☀ Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata | A6M5 ""Rei Sen"""
 a6m5_zero_china_1;☀ A6M5
 a6m5_zero_china_2;☀ A6M
 p-47d_23_ra_china_rocaf_shop;☀ P-47D-23-RA

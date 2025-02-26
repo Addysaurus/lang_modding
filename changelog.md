@@ -346,6 +346,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Homare 21** renamed to **Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-21 || Homare 21 Gata | NK9H**. The double || is intentional, it is used to separate the army and navy names.
     - **Homare 23** renamed to **Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-23 || Homare 23 Gata | NK9H-S**. The double || is intentional, it is used to separate the army and navy names.
     - **Homare 42** renamed to **Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-42 || Homare 42 Gata | NK9A-O**. The double || is intentional, it is used to separate the army and navy names.
+    - **Ne-20 kai** renamed to **Ne 20 Kai**.
 
 ## 1.11.01 - 20-01-2025
 

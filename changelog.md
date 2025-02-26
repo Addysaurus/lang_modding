@@ -8,7 +8,7 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.11.02 - UNRELEASED
+## 1.11.02 - 26-02-2025
 
 ### Vehicles:
 
@@ -76,7 +76,7 @@ All dates are listed in DD-MM-YYYY format.
             - **Ki 44-II otsu** renamed to **Ki 44-II Otsu**. The long name has been changed to **Nakajima Hikōki | 2 Shiki Sentōki 1 Gata Otsu | Ki 44-II Otsu "Shōki"**.
             - **Ki 44-II hei** (Japan and China) renamed to **Ki 44-II Hei**. The long name has been changed to **Nakajima Hikōki | 2 Shiki Sentōki 1 Gata Hei | Ki 44-II Hei "Shōki"**.
             - **Ki 61-I kō** renamed to **Ki 61-I Kō**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Kō | Ki 61-I Kō "Hien"**.
-            - **Ki 61-I otsu** (Japan and USA) renamed to **Ki 61-I Otsu**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Otsu | Ki 61-I Otsu "Hien"**.
+            - **Ki 61-I otsu** (Japan, USA, and China) renamed to **Ki 61-I Otsu**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Otsu | Ki 61-I Otsu "Hien"**.
             - **Ki 61-I hei** renamed to **Ki 61-I Hei**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Hei | Ki 61-I Hei "Hien"**.
             - **Tada's Ki 61-I hei** renamed to **Tada's Ki 61-I Hei**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | Takeichi Tada's 3 Shiki Sentōki 1 Gata Hei | Ki 61-I Hei "Hien"**.
             - **Ki 61-I tei** renamed to **Ki 61-I Tei**. The long name has been changed to **Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Tei | Ki 61-I Tei "Hien"**.
@@ -115,7 +115,7 @@ All dates are listed in DD-MM-YYYY format.
             - The **A7M1**'s long name has been changed to **Mitsubishi Jū Kōgyō | 17 Shi Kō Kanjō Sentōki | Shisei Reppū | A7M1**.
             - The **A7M2**'s long name has been changed to **Mitsubishi Jū Kōgyō | Reppū 11 Gata | A7M1**.
             - The **Ki 84-I**'s long name has been changed to **Nakajima Hikōki | 4 Shiki Sentōki 1 Gata | Ki 84-I "Hayate"**.
-            - **Ki 84-I kō** renamed to **Ki 84-I Kō**. The long name has been changed to **Nakajima Hikōki | 4 Shiki Sentōki 1 Gata Kō | Ki 84-I Kō "Hayate"**.
+            - **Ki 84-I kō** (Japan and China) renamed to **Ki 84-I Kō**. The long name has been changed to **Nakajima Hikōki | 4 Shiki Sentōki 1 Gata Kō | Ki 84-I Kō "Hayate"**.
             - **Ki 84-I otsu** renamed to **Ki 84-I Otsu**. The long name has been changed to **Nakajima Hikōki | 4 Shiki Sentōki 1 Gata Otsu | Ki 84-I Otsu "Hayate"**.
             - **Ki 84-I hei** renamed to **Ki 84-I Hei**. The long name has been changed to **Nakajima Hikōki | 4 Shiki Sentōki 1 Gata Hei | Ki 84-I Hei "Hayate"**.
             - The **J7W1**'s long name has been changed to **Kaigun Kōkū Gijutsushō + Kyūshū Hikōki | 18 Shi Otsu Rikujō Sentōki | Shisei Shinden | J7W1**.
@@ -314,6 +314,18 @@ All dates are listed in DD-MM-YYYY format.
     - **Su-33 (2016)** renamed to **Su-33 (SVP-24-33)**.
     - **Wiesel 1 A4 MK** renamed to **Wiesel 1 A4 (MK20)**. The long name has been changed to **Waffenträger Wiesel 1 A4 (MK20 Rh202)**.
     - The **IKK 9035**'s long name has been changed to **infanterikampkøretøj 9035**.
+    - **F-104A / C** folder renamed to **F-104A-10 / C-5**.
+    - **A-7D / E** folder renamed to **A-7D-8 / E-4**.
+    - **F-86A / F-25** folder renamed to **F-86A-5 / F-25**.
+    - **B-57A / B** folder renamed to **B-57A / B-0**.
+    - **F-84B / G** folder renamed to **F-84B-26 / G-21**.
+    - **B-17G / B-24D** folder renamed to **B-17G-60 / B-24D-25**.
+    - **P-38J / L-5** folder renamed to **P-38J-15 / L-5**.
+    - **P-38E / G** folder renamed to **P-38E / G-1**.
+    - **P-63A-10 / C** folder renamed to **P-63A-10 / C-5**.
+    - **P-40E / F** folder renamed to **P-40E-1 / F-10**.
+    - **P-39N / Q** folder renamed to **P-39N-0 / Q-5**.
+    - **F-5A / E** (China) folder renamed to **F-5A-25 / E**.
 
 ### Weaponry:
 

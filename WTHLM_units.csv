@@ -1201,32 +1201,32 @@ shop/group/tbf_group;TBF-1 / SBD-3
 shop/group/os2u_group;OS2U-1 / 3
 shop/group/sb2u_group;SB2U-2 / 3
 shop/group/pby_group;PBY-5 / 5A
-shop/group/p-39_group;P-39N / Q
+shop/group/p-39_group;P-39N-0 / Q-5
 shop/group/f4f_group;F4F-3 / 4 / F6F-5
-shop/group/p-40_group;P-40E / F
+shop/group/p-40_group;P-40E-1 / F-10
 shop/group/f6f_group;F6F-5N / F4U-4B
 shop/group/f4u_group;F4U-1A / 1A (USMC) / 1D
 shop/group/sb2c_group;SB2C-1C / 4
 shop/group/pbj_group;PBJ-1J / H
-shop/group/p-63_group;P-63A-10 / C
-shop/group/p-38_group;P-38E / G
-shop/group/p-38_late_group;P-38J / L-5
+shop/group/p-63_group;P-63A-10 / C-5
+shop/group/p-38_group;P-38E / G-1
+shop/group/p-38_late_group;P-38J-15 / L-5
 shop/group/p-51_early_group;P-51 / 51D-5
 shop/group/p-47_ealy_group;P-47D-22 / 25
 shop/group/p-47_group;P-47D-28 / N
 shop/group/a-26b_group;A-26B-15 / 50
 shop/group/b-17_group;B-17E (early) / (late)
-shop/group/b-17_late_group;B-17G / B-24D
+shop/group/b-17_late_group;B-17G-60 / B-24D-25
 shop/group/f4u_late_group;F4U-1C / 4B
 shop/group/f8f1_group;F8F-1B / F7F-1
 shop/group/douglas_ad_group;AD-2 / 4 / AM-1
-shop/group/f-84_group;F-84B / G
-shop/group/b_57_group;B-57A / B
+shop/group/f-84_group;F-84B-26 / G-21
+shop/group/b_57_group;B-57A / B-0
 shop/group/f9f_group;F9F-2 / 5 / F-9J
 shop/group/a_4b_group;A-4B / AF-1
-shop/group/f_86_group;F-86A / F-25
-shop/group/f-104_group;F-104A / C
-shop/group/a_7_group;A-7D / E
+shop/group/f_86_group;F-86A-5 / F-25
+shop/group/f-104_group;F-104A-10 / C-5
+shop/group/a_7_group;A-7D-8 / E-4
 shop/group/f_16_group;F-16A-15OCU / ADF
 shop/group/us_cruiser_fargo_brooklyn_group;USS Fargo / Brooklyn
 shop/group/germ_pzkpfw_38t_group;Pz.Kpfw. 38 (t) F / n.A.
@@ -1432,7 +1432,7 @@ shop/group/ki_49_1_group;Ki 49-I / II Kō
 shop/group/ki_49_2_group;Ki 49-II Otsu / Otsu (late)
 shop/group/ki_61_group;Ki 44-II / 61-I
 shop/group/ki_67_group;Ki 67-I Kō / Otsu
-shop/group/ki_84_group;Ki 84-I Jō / Otsu
+shop/group/ki_84_group;Ki 84-I Kō / Otsu
 shop/group/j2m_group;J2M3 / 5
 shop/group/r2y2_group;R2Y2-G (11 Gata) / (22 Gata) / (32 Gata)
 shop/group/f-86_japan_group;▅ F-86F-30 / 40
@@ -1460,7 +1460,7 @@ shop/group/mig-9_china_group;␗ MiG-9 / I-307
 shop/group/f_86_china_group;☀ F-86F-30 / 40
 shop/group/mig-15_china_group;␗ MiG-15bis / 17
 shop/group/mig-19_china_group;J6A / 7B
-shop/group/f_5a_china_group;☀ F-5A / E
+shop/group/f_5a_china_group;☀ F-5A-25 / E
 shop/group/it_fiat_group;Fiat 6616 / 6614
 shop/group/it_centauro_105_group;Centauro (preserie) / ROMOR
 shop/group/it_m15_pz_3_group;M. 42 / Pz.Kpfw. III
@@ -8572,8 +8572,8 @@ yak-9ut_shop;Âk-9UT
 yak-9ut_0;Âk-9UT
 yak-9ut_1;Âk-9UT
 yak-9ut_2;Âk-9
-ki_84_ko_china_shop;☀ Ki 84-I kō
-ki_84_ko_china_0;"☀ 4 shiki sentōki 1 gata kō | Ki 84-I kō ""Hayate"""
+ki_84_ko_china_shop;☀ Ki 84-I Kō
+ki_84_ko_china_0;"☀ Nakajima Hikōki | 4 Shiki Sentōki 1 Gata Kō | Ki 84-I Kō ""Hayate"""
 ki_84_ko_china_1;☀ Ki 84-I
 ki_84_ko_china_2;☀ Ki 84
 fw-190d-9_ussr_shop;▂ Fw 190 D-9
@@ -8972,6 +8972,10 @@ p-47d_30_china_shop;☀ F-47D-30-RE
 p-47d_30_china_0;☀ F-47D-30-RE Thunderbolt
 p-47d_30_china_1;☀ F-47D
 p-47d_30_china_2;☀ F-47
+ki_61_1a_otsu_china_shop;☀ Ki 61-I Otsu
+ki_61_1a_otsu_china_0;"☀ Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Otsu | Ki 61-I Otsu ""Hien"""
+ki_61_1a_otsu_china_1;☀ Ki 61-I
+ki_61_1a_otsu_china_2;☀ Ki 61
 p-51d-20_china_shop;☀ F-51D-20-NA
 p-51d-20_china_0;☀ F-51D-20-NA Mustang
 p-51d-20_china_1;☀ F-51D

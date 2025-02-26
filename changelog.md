@@ -231,7 +231,7 @@ All dates are listed in DD-MM-YYYY format.
             - The **Dai 10 Gō**'s long name has been changed to **Yokohama Yotto | Kō Gata Gyorai Tei | Dai 10 Gō Gata Gyorai Tei (T-51A) | Dai 10 Gō**.
             - The **Dai 11 Gō**'s long name has been changed to **Yokohama Yotto | Kō Gata Gyorai Tei | Dai 11 Gō Gata Gyorai Tei (T-51B) | Dai 11 Gō**.
             - The **Dai 2 Gō**'s long name has been changed to **Ishikawajima Zōsensho | Dai 2 Gō Gata Kusen Tei (K-3) | Dai 2 Gō**.
-            - The **Dai 8 Gō**'s long name has been changed to **Tama Zōsensho | Dai 4 Gō Gata Kusen Tei | Dai 8 Gō**.
+            - The **Dai 8 Gō**'s long name has been changed to **Tama Zōsensho | Dai 4 Gō Gata Kusen Tei (K-7) | Dai 8 Gō**.
             - **Gyoraitei 8 Gō** renamed to **Gyorai Tei 8 Gō (PT-808)**. The long name has been changed to **Mitsubishi Jū Kōgyō Shimonoseki Zōsensho | 7 Gō Gata Gyorai Tei | Gyorai Tei 8 Gō (PT-808)**.
             - **Gyoraitei 15 Gō** renamed to **Gyorai Tei 15 Gō (PT-815)**. The long name has been changed to **Mitsubishi Jū Kōgyō Shimonoseki Zōsensho | 11 Gō Gata Gyorai Tei | Gyorai Tei 15 Gō (PT-815)**.
             - **JDS Ikazuchi (DE-202)** renamed to **Ikazuchi (DE-202)**. The long name has been changed to **Kawasaki Zōsensho | Otsu Gata Goeikan | Ikazuchi Gata Goeikan (E-102) | Ikazuchi (DE-202)**.
@@ -306,10 +306,11 @@ All dates are listed in DD-MM-YYYY format.
     - Manufacturer **Mitsubishi Jūkōgyō** renamed to **Mitsubishi Jū Kōgyō**.
     - **AH-1S (FMC)** (Israel) renamed to **AH-1S (MC) (CN)**. The long name has been changed to **AH-1S Ṣefa Dalet (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)**.
     - The **25 psv PZ IV**'s long name has been changed to **Ps. 221 | 25 tonnin panssarivaunu PZ IV**.
-    - **M44** (UK) renamed to **Cardinal**. The long name has been changed to **155mm, Self-Propelled, Cardinal**.
+    - **M44** (UK) renamed to **Cardinal**. The long name has been changed to **Massey-Harris | 155mm, Self-Propelled, Cardinal**.
     - **F-117A-1-LO (OCIP II)** renamed to **F-117A-1-LO (MIPS)**. The long name has been changed to **Lockheed Corporation | F-117A-1-LO Nighthawk (Midlife Improvement Study)**.
     - **Su-33 (2016)** renamed to **Su-33 (SVP-24-33)**.
     - **Wiesel 1 A4 MK** renamed to **Wiesel 1 A4 (MK20)**. The long name has been changed to **Waffenträger Wiesel 1 A4 (MK20 Rh202)**.
+    - The **IKK 9035**'s long name has been changed to **infanterikampkøretøj 9035**.
 
 ### Weaponry:
 

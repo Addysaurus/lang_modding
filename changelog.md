@@ -8,6 +8,17 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.12.00 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - **Leopard 2A4NL** → **Leopard 2A4 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm**.
+    - **Leopard 2A5NL** → **Leopard 2A5 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm**.
+    - **Leopard 2A6NL** → **Leopard 2A6 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm**.
+    - **Wiesel 1 A4 (MK20)** → **Wiesel 1 A4 MK** (yes, this is undoing a change from just 1 patch earlier).
+
 ## 1.11.02 - 26-02-2025
 
 ### Vehicles:

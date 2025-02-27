@@ -10,6 +10,12 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.12.00 - UNRELEASED
 
+### General:
+
+- #### Changes:
+
+    - The "Sound modification enabled" text has had its color changed to match the color of the lang mod's version text.
+
 ### Vehicles:
 
 - #### Changes:

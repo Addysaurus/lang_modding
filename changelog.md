@@ -24,6 +24,8 @@ All dates are listed in DD-MM-YYYY format.
         - **AMD.35 (PaK)**
         - **Pz.Sp.Wg.P204(f) PaK**
         - **Harry Hopkins I**
+        - **J-11B**
+        - **XM246**
 
 - #### Changes:
 
@@ -31,6 +33,8 @@ All dates are listed in DD-MM-YYYY format.
         - **AMD.35 (PaK)** → **le.Pz.Spw. 204 (f) (Pa.K.)**. Long name → **Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Pa.K. 38 L/60**.
         - **Pz.Sp.Wg.P204(f) PaK** → **le.Pz.Spw. 204 (f) (Pa.K.)**. Long name → **Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Pa.K. 38 L/60**.
         - **Harry Hopkins I** → **Harry Hopkins, Mk I**. Long name → **Vickers-Armstrongs | Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I**.
+        - **J-11B** → **J11B**. Long name → **Shěnyáng Fēijī Gōngyè (Jítuán) | J11B ""Yìng Lóng"**.
+        - **XM246**: Long name → **General Dynamics Land Systems | Gun, Air Defence Artillery, Self-Propelled: 35 mm, XM246**.
     - **Leopard 2A4NL** → **Leopard 2A4 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm**.
     - **Leopard 2A5NL** → **Leopard 2A5 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm**.
     - **Leopard 2A6NL** → **Leopard 2A6 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm**.

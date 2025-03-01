@@ -2651,6 +2651,18 @@ f_15e_shop;F-15E-43-MC
 f_15e_0;McDonnell Douglas Corporation | F-15E-43-MC Strike Eagle
 f_15e_1;F-15E
 f_15e_2;F-15
+fa_18a_shop;F/A-18A-18-MC
+fa_18a_0;McDonnell Douglas Corporation Model 267 | F/A-18A-18-MC Hornet
+fa_18a_1;F/A-18A
+fa_18a_2;F/A-18
+fa_18c_early_shop;F/A-18C-29-MC
+fa_18c_early_0;McDonnell Douglas Corporation Model 267 | F/A-18C-29-MC Hornet
+fa_18c_early_1;F/A-18C
+fa_18c_early_2;F/A-18
+fa_18c_late_shop;F/A-18C-52-MC
+fa_18c_late_0;McDonnell Douglas Corporation Model 267 | F/A-18C-52-MC Hornet
+fa_18c_late_1;F/A-18C
+fa_18c_late_2;F/A-18
 f_14a_early_shop;F-14A-65-GR
 f_14a_early_0;F-14A-65-GR Tomcat
 f_14a_early_1;F-14A
@@ -4566,6 +4578,10 @@ germ_amd_35_kwk_0;leichter Panzerspähwagen 204 (f) m. 5cm K.w.K. 38 L/42
 germ_amd_35_kwk_1;le.Pz.Spw. 204 (f) (5cm)
 germ_amd_35_kwk_2;Light tank
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+germ_amd_35_kwk39_shop;le.Pz.Spw. 204 (f) (Pa.K.)
+germ_amd_35_kwk39_0;Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Pa.K. 38 L/60
+germ_amd_35_kwk39_1;le.Pz.Spw. 204 (f)
+germ_amd_35_kwk39_2;Light tank
 germ_pzsfl_IVa_dickermax_shop;Pz.Sfl. IVa
 germ_pzsfl_IVa_dickermax_0;10,5cm K. 18 auf Panzerselbstfahrlafette IVa
 germ_pzsfl_IVa_dickermax_1;Pz.Sfl. IV
@@ -4582,10 +4598,6 @@ germ_pzkpfw_II_ausf_H_shop;Pz.Sfl. Ic
 germ_pzkpfw_II_ausf_H_0;5cm Pa.K. 38 auf Pz.Kpfw. II Sonderfahrgestell 901, Panzerselbstfahrlafette Ic
 germ_pzkpfw_II_ausf_H_1;Pz.Sfl. Ic
 germ_pzkpfw_II_ausf_H_2;Light tank
-germ_amd_35_kwk39_shop;le.Pz.Spw. 204 (f) (Pa.K.)
-germ_amd_35_kwk39_0;Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Pa.K. 38 L/60
-germ_amd_35_kwk39_1;le.Pz.Spw. 204 (f)
-germ_amd_35_kwk39_2;Light tank
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
@@ -4611,6 +4623,10 @@ germ_amd_35_kwk39_2;Light tank
 //RUSSIA AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 //RUSSIA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 //RUSSIA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+su_30sm_shop;Su-30SM
+su_30sm_0;PAO Kompaniâ Sukhoj | izd. T-10PU | Su-30SM
+su_30sm_1;Su-30SM
+su_30sm_2;Su-30
 //RUSSIA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 //RUSSIA HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 //RUSSIA HELICOPTERS - VEHICLE/FAMILY START: RANK 7
@@ -4655,6 +4671,10 @@ uk_a25_mk_8_2;Light tank
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+uk_tracked_rapier_shop;RCM 748 (Rapier)
+uk_tracked_rapier_0;British Aircraft Corporation | Tracked Rapier Launch Vehicle, RCM 748 (Rapier)
+uk_tracked_rapier_1;RCM 748 (Rapier)
+uk_tracked_rapier_2;SPAAM
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
@@ -5844,6 +5864,10 @@ j_11b_2;J11
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+it_c1_ariete_certezza_shop;Ariete (WAR) (20° Corso)
+it_c1_ariete_certezza_0;"Consorzio Iveco Oto Melara | C1 Ariete (Kit WAR) (20° Corso ""Certezza"")"
+it_c1_ariete_certezza_1;Ariete
+it_c1_ariete_certezza_2;MBT
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
@@ -5898,6 +5922,10 @@ fr_amd_35_kwk39_2;Light tank
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+fa_18c_finland_shop;HN (MLU 1)
+fa_18c_finland_0;"McDonnell Douglas Corporation Model 267 | HN (Mid-Life Upgrade 1) ""Hornet"""
+fa_18c_finland_1;HN
+fa_18c_finland_2;HN
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 7

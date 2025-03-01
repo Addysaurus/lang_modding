@@ -26,6 +26,12 @@ All dates are listed in DD-MM-YYYY format.
         - **Harry Hopkins I**
         - **J-11B**
         - **XM246**
+        - **Rapier**
+        - **Ariete Сertezza**
+        - **Su-30SM**
+        - **F/A-18A**
+        - **F/A-18C Early**
+        - **F/A-18C Late**
 
 - #### Changes:
 
@@ -35,6 +41,13 @@ All dates are listed in DD-MM-YYYY format.
         - **Harry Hopkins I** → **Harry Hopkins, Mk I**. Long name → **Vickers-Armstrongs | Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I**.
         - **J-11B** → **J11B**. Long name → **Shěnyáng Fēijī Gōngyè (Jítuán) | J11B ""Yìng Lóng"**.
         - **XM246**: Long name → **General Dynamics Land Systems | Gun, Air Defence Artillery, Self-Propelled: 35 mm, XM246**.
+        - **Rapier** → **RCM 748 (Rapier)**. Long name → **British Aircraft Corporation | Tracked Rapier Launch Vehicle, RCM 748 (Rapier)**.
+        - **Ariete Сertezza** → **Ariete (WAR) (20° Corso)**. Long name → **Consorzio Iveco Oto Melara | C1 Ariete (Kit WAR) (20° Corso "Certezza")**.
+        - **Su-30SM**: Long name → **PAO Kompaniâ Sukhoj | izd. T-10PU | Su-30SM**.
+        - **F-18C** (Finland) → **HN (MLU 1)**. Long name → **McDonnell Douglas Corporation Model 267 | HN (Mid-Life Upgrade 1) "Hornet"**.
+        - **F/A-18A** → **F/A-18A-18-MC**. Long name → **McDonnell Douglas Corporation Model 267 | F/A-18A-18-MC Hornet**.
+        - **F/A-18C Early** → **F/A-18C-29-MC**. Long name → **McDonnell Douglas Corporation Model 267 | F/A-18C-29-MC Hornet**.
+        - **F/A-18C Late** → **F/A-18C-52-MC**. Long name → **McDonnell Douglas Corporation Model 267 | F/A-18C-52-MC Hornet**.
     - **Leopard 2A4NL** → **Leopard 2A4 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm**.
     - **Leopard 2A5NL** → **Leopard 2A5 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm**.
     - **Leopard 2A6NL** → **Leopard 2A6 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm**.

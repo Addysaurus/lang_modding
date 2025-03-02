@@ -51,9 +51,9 @@ Available packages:
   - Japanese:
     - This package puts Japanese vehicles and weapons into Japanese.
   - Farsi:
-    - This package puts Japanese vehicles and weapons into Farsi.
+    - This package puts Iranian vehicles and weapons into Farsi.
   - Thai:
-    - This package puts Japanese vehicles and weapons into Thai.
+    - This package puts Thai vehicles and weapons into Thai.
 - Other packages:
   - Finnish Ps. designators
     - This packages makes the short names of Finnish ground vehicles their Ps. designations.

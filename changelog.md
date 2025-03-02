@@ -32,10 +32,27 @@ All dates are listed in DD-MM-YYYY format.
         - **F/A-18A**
         - **F/A-18C Early**
         - **F/A-18C Late**
+        - **Netz** (premium)
+        - **EC-665 Tiger HAC** (France)
+        - **Tiger HAD** (Germany / Spain)
+        - **DF105** (France)
+        - **CLOVIS** (Germany & France)
+        - **Marne**
+        - **Aconit**
+        - **IJN Matsu**
+        - **HMS Warspite**
+        - **Grecale**
+        - **MTB-35**
+        - **VTB-12**
+        - **VTB-18**
+        - **Type T-14 (mod. 2)**
+        - **SM-4**
+        - **2S19M1**
+        - **2S19M2**
 
 - #### Changes:
 
-    - Update "Hornet's Sting" changes:
+    - Update "Hornet's Sting" changes (all folders have been adjusted accordingly):
         - **AMD.35 (PaK)** → **le.Pz.Spw. 204 (f) (Pa.K.)**. Long name → **Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Pa.K. 38 L/60**.
         - **Pz.Sp.Wg.P204(f) PaK** → **le.Pz.Spw. 204 (f) (Pa.K.)**. Long name → **Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Pa.K. 38 L/60**.
         - **Harry Hopkins I** → **Harry Hopkins, Mk I**. Long name → **Vickers-Armstrongs | Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I**.
@@ -48,10 +65,31 @@ All dates are listed in DD-MM-YYYY format.
         - **F/A-18A** → **F/A-18A-18-MC**. Long name → **McDonnell Douglas Corporation Model 267 | F/A-18A-18-MC Hornet**.
         - **F/A-18C Early** → **F/A-18C-29-MC**. Long name → **McDonnell Douglas Corporation Model 267 | F/A-18C-29-MC Hornet**.
         - **F/A-18C Late** → **F/A-18C-52-MC**. Long name → **McDonnell Douglas Corporation Model 267 | F/A-18C-52-MC Hornet**.
+        - **Netz** (premium) → **F-16A-15OCU-CF (1987)**. Long name → **General Dynamics Corporation | F-16A-15OCU-CF Neṣ (1987)**.
+        - **EC-665 Tiger HAC** (France) → **Tigre HAC**. Long name → **Eurocopter EC-665 | Tigre, Hélicoptère Anti Char**.
+        - **Tiger HAD** (Germany / Spain) → **Tigre HAD/E (Bloque 1)**. Long name → **Eurocopter EC-665 | HA-28 Tigre, Helicóptero de Ataque y Destrucción (Bloque 1)**.
+        - **Tornado IDS MLU (RET.8)** (Italy) → **A-200C (RET8)**. Long name → **Panavia Aircraft PA-200 | A-200C Tornado (Retro Enabling Task 8)**.
+        - **DF105** (France) → **DF 105**. Long name → **Thyssen Henschel DF 105**.
+        - **CLOVIS** (Germany & France): Long name → **Thyssen Henschel CLOVIS, FL 20, 105 mm**.
+        - **Marne**: Long name → **Arsenal de Lorient | Aviso de 1re Classe | Aviso Classe Marne | Marne (1925)**.
+        - **Aconit** → **Aconit (K 58)**. Long name → **Ailsa Shipbuilding Company | Corvette Classe Flower | Aconit (K 58)**.
+        - **IJN Matsu** → **Matsu**. Long name → **Maizuru Kaigun Kōshō | Ittō Kuchikukan | Matsu Gata Kuchikukan (F-55) | Matsu**.
+        - **HMS Warspite** → **HMS Warspite (03)**. Long name → **Devonport Royal Dockyard / Naval Station Durban | Queen Elizabeth-class | HMS Warspite (03) (1943)**.
+        - **Grecale** → **Grecale (GR)**. Long name → **Cantieri Navali del Tirreno e Riuniti / Arsenale militare marittimo della Spezia | Cacciatorpediniere Classe Maestrale | Gercale (GR)**.
+        - **MTB-35** → **HMS MTB 35**. Long name → **Vosper & Co. | Vosper 70 feet-type-class | HMS MTB 35**.
+        - **VTB-12** → **VTB 12**. Long name → **Ateliers et Chantiers de la Loire | Vedette Torpilleur VTB 12**.
+        - **VTB-18** → **VTB 18**. Long name → **Chantiers Jouët | Vedette Torpilleur VTB 18**.
+        - **Type T-14 (mod. 2)** → **Dai 1101 Gō**. Long name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 1101 Gō**.
+        - **SM-4** → **TKA №164**. Long name → **Sudostroityel'nyj zavod № 194 imyeni Marti | Torpyednyj Katyer Proyekt 103, Tip SM-4 | TKA №164**.
+        - **2S19M1**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Object 316 | 2S19M1 "Msta-S"**.
+        - **2S19M2**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Object 316 | 2S19M2 "Msta-S"**.
     - **Leopard 2A4NL** → **Leopard 2A4 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm**.
     - **Leopard 2A5NL** → **Leopard 2A5 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm**.
     - **Leopard 2A6NL** → **Leopard 2A6 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm**.
     - **Wiesel 1 A4 (MK20)** → **Wiesel 1 A4 MK** (yes, this is undoing a change from just 1 patch earlier).
+    - **F-84F-51-GK (200 Tayeset)** → **F-84F-51-GK (Ṭayeset 200)**.
+    - **Dai 838 Gō** → **Dai 871 Gō**: Long name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 871 Gō**.
+    - **DF 105** (Germany): Long name → **Thyssen Henschel DF 105**. It has also recieved a roundel to differentiate it from the new French one.
 
 ## 1.11.02 - 26-02-2025
 

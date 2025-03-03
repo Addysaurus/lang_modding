@@ -90,6 +90,7 @@ All dates are listed in DD-MM-YYYY format.
     - **F-84F-51-GK (200 Tayeset)** → **F-84F-51-GK (Ṭayeset 200)**.
     - **Dai 838 Gō** → **Dai 871 Gō**: Long name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 871 Gō**.
     - **DF 105** (Germany): Long name → **Thyssen Henschel DF 105**. It has also recieved a roundel to differentiate it from the new French one.
+    - The **A6M3 (22 Gata)** and the **A6M3 Kō** now display properly. Previously, their file names were written incorrectly which caused the corrected names for them to not show.
 
 ### Weaponry:
 

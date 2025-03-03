@@ -91,6 +91,73 @@ All dates are listed in DD-MM-YYYY format.
     - **Dai 838 Gō** → **Dai 871 Gō**: Long name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 871 Gō**.
     - **DF 105** (Germany): Long name → **Thyssen Henschel DF 105**. It has also recieved a roundel to differentiate it from the new French one.
 
+### Weaponry:
+
+- #### Additions:
+
+    - Update "Hornet's Sting" additions:
+        - **Te-4**
+        - **SC250JA** (a new one, not the one already ingame)
+        - **FAB-500 UMPK**
+        - **GBU-32 JDAM** (Navy one)
+        - **AGM-62 ER/DL**
+        - **Drop tank (330 gal.)** (for the **F/A-18**s)
+        - **250 lb AN-M57 bomb**
+        - **3OF45**
+        - **3OF45 (PF)**
+        - **Cyclonite** (explosive type)
+        - **Trianilite** (explosive type)
+        - **Rapier** (launcher)
+        - **Rapier Mk.1E**
+        - **Rapier Mk.2**
+        - **7.62 mm FN MAG 60-40 machine gun** (another one)
+        - **Type 30-4**
+        - **AIM-7P**
+        - **R-77-1**
+        - **PL-8B**
+        - **120 mm IMI MG251-LR cannon**
+        - **FIROS 6**
+        - **105 mm CN105 G1 cannon**
+        - **ARF/8M3**
+
+- #### Changes:
+
+    - Update "Hornet's Sting" changes (all modifications have been adjusted accordingly; all caliber and type tags have been added accordingly):
+        - **FAB-500 UMPK** → **FAB-500M-62 (UMPK)**. Long name → **FAB-500M-62 (Unificzirovannyj Modul' Planirovaniâ i Korryekczii)**.
+        - **GBU-32 JDAM** (new Navy one) → **GBU-32(V)2/B**. Long name → **Bomb, Guided, GBU-32(V)2/B Joint Direct Attack Munition**.
+        - **AGM-62 ER/DL** → **Guided Weapon, MK 23 MOD 0**. Long name → **Guided Weapon, MK 23 MOD 0 Walleye II ERDL**.
+        - **Drop tank (330 gal.)** → **FPU-8/A**.
+        - **250 lb AN-M57 bomb** → **Bomb, 250lb, GP, AN/M57**.
+        - **Rapier** (launcher) → **Tracked Rapier Launcher**.
+        - **Rapier Mk.1E** → **Rapier Mk. 1E**.
+        - **Rapier Mk.2** → **Rapier Mk. 2**.
+        - **7.62 mm FN MAG 60-40 machine gun** (the new one) → **FN MAG 60-40**.
+        - **Type 30-4** → **30-4 Xíng**. Long name → **30-4 Xíng 30 Háomi Hángkōng Jīpào**.
+        - **AIM-7P**: Long name → **Guided Missile, Air to Air, AIM-7P Sparrow**.
+        - **R-77-1**: Long name → **R-77-1**.
+        - **PL-8B** → **PL8B**. Long name → **PL8B**.
+        - **120 mm IMI MG251-LR cannon** → **MG251-LR**.
+    - **AGM-62A** → **Guided Weapon, MK 1 MOD 0**. Long name → **Guided Weapon, MK 1 MOD 0 Walleye I**.
+    - **AGM-62A ER** → **Guided Weapon, MK 3 MOD 0**. Long name → **Guided Weapon, MK 3 MOD 0 Walleye I ER**.
+
+### Sensors:
+
+- #### Additions:
+
+    - Update "Hornet's Sting" additions:
+        - **AN/AAS-38**
+        - **AN/AAS-38A**
+        - **ATFLIR**
+        - **T220**
+
+- #### Changes:
+
+    - Update "Hornet's Sting" changes (all modifications have been adjusted accordingly; all type tags have been added accordingly):
+        - **AN/AAS-38**: Long name → **AN/AAS-38 NITE Hawk**.
+        - **AN/AAS-38A**: Long name → **AN/AAS-38A NITE Hawk**.
+        - **ATFLIR** → **AN/ASQ-228**. Long name → **AN/ASQ-228 Advanced Targeting Forward-Looking Infrared**.
+        - **T220** → **T-220**.
+
 ## 1.11.02 - 26-02-2025
 
 ### Vehicles:

@@ -49,6 +49,7 @@ All dates are listed in DD-MM-YYYY format.
         - **SM-4**
         - **2S19M1**
         - **2S19M2**
+        - **VT-5**
 
 - #### Changes:
 
@@ -83,6 +84,7 @@ All dates are listed in DD-MM-YYYY format.
         - **SM-4** → **TKA №164**. Long name → **Sudostroityel'nyj zavod № 194 imyeni Marti | Torpyednyj Katyer Proyekt 103, Tip SM-4 | TKA №164**.
         - **2S19M1**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Object 316 | 2S19M1 "Msta-S"**.
         - **2S19M2**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Object 316 | 2S19M2 "Msta-S"**.
+        - **VT-5** → **VT5**. Long name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT5 Qīngxíng Tankè**.
     - **Leopard 2A4NL** → **Leopard 2A4 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm**.
     - **Leopard 2A5NL** → **Leopard 2A5 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm**.
     - **Leopard 2A6NL** → **Leopard 2A6 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm**.
@@ -91,6 +93,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Dai 838 Gō** → **Dai 871 Gō**: Long name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 871 Gō**.
     - **DF 105** (Germany): Long name → **Thyssen Henschel DF 105**. It has also recieved a roundel to differentiate it from the new French one.
     - The **A6M3 (22 Gata)** and the **A6M3 Kō** now display properly. Previously, their file names were written incorrectly which caused the corrected names for them to not show.
+    - Manufacturer **Zhōngguó Běifāng Gōngyè Gōngsī** → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī**.
 
 ### Weaponry:
 

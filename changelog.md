@@ -137,6 +137,8 @@ All dates are listed in DD-MM-YYYY format.
         - **65 mm/50 model 1902**
         - **65 mm M1892 common**
         - **65 mm M1902 AP**
+        - **152 mm 2A64 cannon**
+        - **152 mm 2A65M2 cannon**
 
 - #### Changes:
 
@@ -155,6 +157,8 @@ All dates are listed in DD-MM-YYYY format.
         - **R-77-1**: Long name → **R-77-1**.
         - **PL-8B** → **PL8B**. Long name → **PL8B**.
         - **120 mm IMI MG251-LR cannon** → **MG251-LR**.
+        - **152 mm 2A64 cannon** → **2A64**
+        - **152 mm 2A65M2 cannon** → **2A64M2 | Dil'yemma-2A64**
     - **AGM-62A** → **Guided Weapon, MK 1 MOD 0**. Long name → **Guided Weapon, MK 1 MOD 0 Walleye I**.
     - **AGM-62A ER** → **Guided Weapon, MK 3 MOD 0**. Long name → **Guided Weapon, MK 3 MOD 0 Walleye I ER**.
 

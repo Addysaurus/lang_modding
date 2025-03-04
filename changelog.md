@@ -51,6 +51,8 @@ All dates are listed in DD-MM-YYYY format.
         - **2S19M2**
         - **VT-5**
         - **Schütze**
+        - **Type 74 Red Star**
+        - **Harrier T.10**
 
 - #### Changes:
 
@@ -60,7 +62,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Harry Hopkins I** → **Harry Hopkins, Mk I**. Long name → **Vickers-Armstrongs | Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I**.
         - **J-11B** → **J11B**. Long name → **Shěnyáng Fēijī Gōngyè (Jítuán) | J11B ""Yìng Lóng"**.
         - **XM246**: Long name → **General Dynamics Land Systems | Gun, Air Defence Artillery, Self-Propelled: 35 mm, XM246**.
-        - **Rapier** → **RCM 748 (Rapier)**. Long name → **British Aircraft Corporation | Tracked Rapier Launch Vehicle, RCM 748 (Rapier)**.
+        - **Rapier** → **RCM 748, Mk. 1B (Rapier)**. Long name → **British Aircraft Corporation | Tracked Rapier Launch Vehicle, RCM 748, Mk. 1B (Rapier)**.
         - **Ariete Сertezza** → **Ariete (WAR) (20° Corso)**. Long name → **Consorzio Iveco Oto Melara | C1 Ariete (Kit WAR) (20° Corso "Certezza")**.
         - **Su-30SM**: Long name → **PAO Kompaniâ Sukhoj | izd. T-10PU | Su-30SM**.
         - **F-18C** (Finland) → **HN (MLU 1)**. Long name → **McDonnell Douglas Corporation Model 267 | HN (Mid-Life Upgrade 1) "Hornet"**.
@@ -86,7 +88,9 @@ All dates are listed in DD-MM-YYYY format.
         - **2S19M1**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Object 316 | 2S19M1 "Msta-S"**.
         - **2S19M2**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Object 316 | 2S19M2 "Msta-S"**.
         - **VT-5** → **VT5**. Long name → **Abeking & Rasmussen | schnelles Minensuchboot Schütze-Klasse (Typ 340) | Schütze (M 1062)**.
-        - **Schütze (M1062)** → **Schütze (M 1062)**. Long name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT5 Qīngxíng Tankè**.
+        - **Schütze** → **Schütze (M 1062)**. Long name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT5 Qīngxíng Tankè**.
+        - **Type 74 Red Star** → **74TK (C) (304 Sen Chū)**. Long name → **Mitsubishi Jū Kōgyō | 74 Shiki Sensha C Gata "Nana Yon" (Dai 304 Sensha Chūtai)**.
+        - **Harrier T.10** → **Harrier T. Mk. 10**. Long name → **Hawker Siddeley Aviation | Harrier T. Mk. 10**.
     - **Leopard 2A4NL** → **Leopard 2A4 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm**.
     - **Leopard 2A5NL** → **Leopard 2A5 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm**.
     - **Leopard 2A6NL** → **Leopard 2A6 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm**.
@@ -96,6 +100,7 @@ All dates are listed in DD-MM-YYYY format.
     - **DF 105** (Germany): Long name → **Thyssen Henschel DF 105**. It has also recieved a roundel to differentiate it from the new French one.
     - The **A6M3 (22 Gata)** and the **A6M3 Kō** now display properly. Previously, their file names were written incorrectly which caused the corrected names for them to not show.
     - Manufacturer **Zhōngguó Běifāng Gōngyè Gōngsī** → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī**.
+    - **ZSU-23-4** (USSR & Israel) → **ZSU-23-4V**.
 
 ### Weaponry:
 
@@ -125,6 +130,13 @@ All dates are listed in DD-MM-YYYY format.
         - **FIROS 6**
         - **105 mm CN105 G1 cannon**
         - **ARF/8M3**
+        - **381 mm Mk.XVIIb APC**
+        - **100 mm/45 model 1917**
+        - **100 mm M1902 common**
+        - **100 mm M1913 AP**
+        - **65 mm/50 model 1902**
+        - **65 mm M1892 common**
+        - **65 mm M1902 AP**
 
 - #### Changes:
 

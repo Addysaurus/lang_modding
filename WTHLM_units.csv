@@ -4585,11 +4585,11 @@ germ_amd_35_kwk_shop;le.Pz.Spw. 204 (f) (5cm)
 germ_amd_35_kwk_0;leichter Panzerspähwagen 204 (f) m. 5cm K.w.K. 38 L/42
 germ_amd_35_kwk_1;le.Pz.Spw. 204 (f) (5cm)
 germ_amd_35_kwk_2;Light tank
-//GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 germ_amd_35_kwk39_shop;le.Pz.Spw. 204 (f) (Pa.K.)
 germ_amd_35_kwk39_0;Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Pa.K. 38 L/60
 germ_amd_35_kwk39_1;le.Pz.Spw. 204 (f)
 germ_amd_35_kwk39_2;Light tank
+//GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 germ_pzsfl_IVa_dickermax_shop;Pz.Sfl. IVa
 germ_pzsfl_IVa_dickermax_0;10,5cm K. 18 auf Panzerselbstfahrlafette IVa
 germ_pzsfl_IVa_dickermax_1;Pz.Sfl. IV
@@ -4685,6 +4685,10 @@ ussr_pr_103_sm4_2;Motor torpedo boat
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+harrier_t10_shop;Harrier T. Mk. 10
+harrier_t10_0;Hawker Siddeley Aviation | Harrier T. Mk. 10
+harrier_t10_1;Harrier T. Mk. 10
+harrier_t10_2;Harrier
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 7
@@ -4699,9 +4703,9 @@ uk_a25_mk_8_2;Light tank
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
-uk_tracked_rapier_shop;RCM 748 (Rapier)
-uk_tracked_rapier_0;British Aircraft Corporation | Tracked Rapier Launch Vehicle, RCM 748 (Rapier)
-uk_tracked_rapier_1;RCM 748 (Rapier)
+uk_tracked_rapier_shop;RCM 748, Mk. 1B (Rapier)
+uk_tracked_rapier_0;British Aircraft Corporation | Tracked Rapier Launch Vehicle, RCM 748, Mk. 1B (Rapier)
+uk_tracked_rapier_1;RCM 748, Mk. 1 (Rapier)
 uk_tracked_rapier_2;SPAAM
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
@@ -5458,6 +5462,10 @@ jp_type_74_mod_g_kai_shop;74TK (G)
 jp_type_74_mod_g_kai_0;"Mitsubishi Jū Kōgyō | 74 Shiki Sensha G Gata ""Nana Yon"""
 jp_type_74_mod_g_kai_1;74TK (G)
 jp_type_74_mod_g_kai_2;MBT
+jp_type_74_red_star_shop;74TK (C) (304 Sen Chū)
+jp_type_74_red_star_0;"Mitsubishi Jū Kōgyō | 74 Shiki Sensha C Gata ""Nana Yon"" (Dai 304 Sensha Chūtai)"
+jp_type_74_red_star_1;74TK (C)
+jp_type_74_red_star_2;MBT
 jp_type_99_shop;99HSP
 jp_type_99_0;"Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 99 Shiki Ji Hashi 155mm Ryūdanhō ""Rongunōzu"""
 jp_type_99_1;99HSP
@@ -5878,9 +5886,9 @@ j_11b_2;J11
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
-cn_vt_5_shop;VT5
-cn_vt_5_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT5 Qīngxíng Tankè
-cn_vt_5_1;VT5
+cn_vt_5_shop;VT5BD
+cn_vt_5_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | Lā'iṭa Ṭyānka VT5BD
+cn_vt_5_1;VT5BD
 cn_vt_5_2;Light tank
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 //CHINA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
@@ -6531,9 +6539,9 @@ ussr_zsu_23_4m4_shop;ZSU-23-4M4
 ussr_zsu_23_4m4_0;2A6M4 | ZSU-23-4M4 Šilka-M4
 ussr_zsu_23_4m4_1;ZSU-23-4M4
 ussr_zsu_23_4m4_2;SPAA
-ussr_zsu_23_4_shop;ZSU-23-4
-ussr_zsu_23_4_0;2A6 | ZSU-23-4 Šilka
-ussr_zsu_23_4_1;ZSU-23-4
+ussr_zsu_23_4_shop;ZSU-23-4V
+ussr_zsu_23_4_0;2A6 | ZSU-23-4V Šilka
+ussr_zsu_23_4_1;ZSU-23-4V
 ussr_zsu_23_4_2;SPAA
 ussr_zprk_2s6_shop;2S6M1
 ussr_zprk_2s6_0;ZPRK 2S6M1 Tunguska
@@ -10599,9 +10607,9 @@ il_zsu_57_2_shop; ZSU-57-2
 il_zsu_57_2_0; ZSU-57-2
 il_zsu_57_2_1; ZSU-57-2
 il_zsu_57_2_2;SPAA
-il_zsu_23_4_shop; ZSU-23-4
-il_zsu_23_4_0;" ZSU-23-4 ""Gundish"""
-il_zsu_23_4_1; ZSU-23-4
+il_zsu_23_4_shop; ZSU-23-4V
+il_zsu_23_4_0;" ZSU-23-4V ""Gundish"""
+il_zsu_23_4_1; ZSU-23-4V
 il_zsu_23_4_2;SPAA
 il_machbet_shop;Maḥbeṭ
 il_machbet_0;Maḥbeṭ

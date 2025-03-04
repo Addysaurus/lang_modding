@@ -5802,6 +5802,7 @@ weapons/381mm_42_bl_mk1_naval_user_cannon;15 inch/42 BL Mark I cannon
 381mm_4crh_cpc;15 inch 4crh CPC
 381mm_mark_12a_4crh_apc;15 inch 4crh Mark XIIa APC
 381mm_mark_1a_4crh_apc;381 mm Mk.Ia APC
+381mm_mark_17b_6crh_apc;381 mm Mk.XVIIb APC
 weapons/406mm_45_bl_mk1_r1_naval_user_cannon;16 inch/45 BL Mark I cannon
 weapons/406mm_45_bl_mk1_r2_naval_user_cannon;16 inch/45 BL Mark I mod.2 cannon
 406mm_uk_he;16 inch HE
@@ -6064,6 +6065,14 @@ weapons/8mm_breda_mod37_naval_user_machinegun;8 mm Breda mod.37 machinegun
 weapons/138mm_50_model_1934_naval_user_cannon;138.6 mm/50 model 1934 gun
 weapons/138mm_50_model_1934_naval_user_cannon/short;138.6 mm/50 model 1934
 138mm_oea1932_he;138,6 mm OEA Mle 1932 HE
+weapons/100mm_45_m1917_naval_user_cannon;100 mm/45 model 1917 gun
+weapons/100mm_45_m1917_naval_user_cannon/short;100 mm/45 model 1917
+100mm_45_common;100 mm M1902 common
+100mm_45_ap;100 mm M1913 AP
+weapons/65mm_50_m1902_naval_user_cannon;65 mm/50 model 1902 gun
+weapons/65mm_50_m1902_naval_user_cannon/short;65 mm/50 model 1902
+65mm_50_fr_common;65 mm M1892 common
+65mm_50_fr_ap;65 mm M1902 AP
 weapons/rocket_ss11_naval_rocket_launcher;SS.11 missile launcher
 weapons/rocket_9k32m_strela2m_naval_rocket_launcher;Strela-2M launcher
 weapons/rocket_9k34_strela3_naval_rocket_launcher;Strela-3 launcher
@@ -6075,4 +6084,5 @@ weapons/125mm_2A46_M1_T_80UD_user_cannon;<color=@userlogColoredText>125 mm</colo
 weapons/20mm_Oerlikon_204gk_user_cannon;<color=@userlogColoredText>20 mm</color> Oerlikon 204GK <color=#ff6f00>ACNN</color>
 weapons/25mm_zpt90_user_cannon;<color=@userlogColoredText>25 mm</color> ZPT1990 25 háomi chēzai zìdòng pào <color=#ff6f00>ACNN</color>
 weapons/105mm_cockerill_hp_user_cannon;<color=@userlogColoredText>105 mm</color> Cockerill 105 mm HP Gun <color=#ff6f00>CNN</color>
+weapons/152mm_2A64_user_cannon;color=@userlogColoredText>152.4 mm</color> 2A64 <color=#ff6f00>CNN-HWZ</color>
 CLIPPED_LANG_KEEP_IT_ALWAYS_FIRST;

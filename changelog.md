@@ -50,7 +50,7 @@ All dates are listed in DD-MM-YYYY format.
         - **2S19M1**
         - **2S19M2**
         - **VT-5**
-        - **Schütze (M1062)**
+        - **Schütze**
 
 - #### Changes:
 

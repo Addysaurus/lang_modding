@@ -50,6 +50,7 @@ All dates are listed in DD-MM-YYYY format.
         - **2S19M1**
         - **2S19M2**
         - **VT-5**
+        - **Schütze (M1062)**
 
 - #### Changes:
 
@@ -84,7 +85,8 @@ All dates are listed in DD-MM-YYYY format.
         - **SM-4** → **TKA №164**. Long name → **Sudostroityel'nyj zavod № 194 imyeni Marti | Torpyednyj Katyer Proyekt 103, Tip SM-4 | TKA №164**.
         - **2S19M1**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Object 316 | 2S19M1 "Msta-S"**.
         - **2S19M2**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Object 316 | 2S19M2 "Msta-S"**.
-        - **VT-5** → **VT5**. Long name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT5 Qīngxíng Tankè**.
+        - **VT-5** → **VT5**. Long name → **Abeking & Rasmussen | schnelles Minensuchboot Schütze-Klasse (Typ 340) | Schütze (M 1062)**.
+        - **Schütze (M1062)** → **Schütze (M 1062)**. Long name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT5 Qīngxíng Tankè**.
     - **Leopard 2A4NL** → **Leopard 2A4 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm**.
     - **Leopard 2A5NL** → **Leopard 2A5 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm**.
     - **Leopard 2A6NL** → **Leopard 2A6 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm**.
@@ -137,7 +139,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Rapier Mk.2** → **Rapier Mk. 2**.
         - **7.62 mm FN MAG 60-40 machine gun** (the new one) → **FN MAG 60-40**.
         - **Type 30-4** → **30-4 Xíng**. Long name → **30-4 Xíng 30 Háomi Hángkōng Jīpào**.
-        - **AIM-7P**: Long name → **Guided Missile, Air to Air, AIM-7P Sparrow**.
+        - **AIM-7P** → **AIM-7P-2**. Long name → **Guided Missile, Air to Air, AIM-7P-2 Sparrow**.
         - **R-77-1**: Long name → **R-77-1**.
         - **PL-8B** → **PL8B**. Long name → **PL8B**.
         - **120 mm IMI MG251-LR cannon** → **MG251-LR**.

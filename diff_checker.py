@@ -6,13 +6,11 @@ def check_diff(old_file, new_file, output_file):
     with open(old_file, 'r', newline='', encoding='utf-8') as file:
         reader = csv.reader(file, delimiter=';')
         header = next(reader)
-        for row in reader:
-            old_entries.append(row[0:2])
+        [old_entries.append(row[0:2]) for row in reader]
     with open(new_file, 'r', newline='', encoding='utf-8') as file:
         reader = csv.reader(file, delimiter=';')
         header = next(reader)
-        for row in reader:
-            new_entries.append(row[0:2])
+        [new_entries.append(row[0:2]) for row in reader]
     with open(output_file, 'w', newline='', encoding='utf-8') as file:
         header = ['<ID|readonly|noverify>','<English>']
         writer = csv.writer(file, delimiter=';')

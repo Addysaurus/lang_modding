@@ -174,6 +174,7 @@ All dates are listed in DD-MM-YYYY format.
         - **UPAB-500B**
         - **UPAB-1500**
         - **KAB-L**
+        - **KAB-L** (a different one for China)
         - **KAB-TV**
         - **AGM-62 ER/DL**
         - **LGBU**
@@ -192,6 +193,9 @@ All dates are listed in DD-MM-YYYY format.
         - **65 mm M1902 SAP**
         - **NVD** (new one for the **Panther II (8,8cm)**)
         - **TRIGAT-LR**
+        - **Camouflage net** (new one for the **Ariete (WAR) (20° Corso)**)
+        - **Net+War kit** (for the **Ariete (WAR) (20° Corso)**)
+        - **Tires** (new one for the **74TK (C) (304 Sen Chū)**)
     - **AGM-119A Penguin** (somehow forgot to add this last update)
 
 - #### Changes:
@@ -199,6 +203,7 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Hornet's Sting" changes (all modifications have been adjusted accordingly; all type tags have been added accordingly):
         - **UPAB-1500** → **UPAB-1500B**.
         - **KAB-L** → **KAB-250LG / 500LG / 1500LG**.
+        - **KAB-L** (the different one for China) → **TS250**.
         - **KAB-TV** → **KAB-500Kr / 1500Kr**.
         - **AGM-62 ER/DL** → **Guided Weapon, MK 23 MOD 0**.
         - **LGBU** → **GBU-10/B / 16/B / 24E/B**.
@@ -208,6 +213,7 @@ All dates are listed in DD-MM-YYYY format.
         - **ATFLIR** → **AN/ASQ-228**.
         - **T220** → **T-220**.
         - **AIM-7P** → **AIM-7P-2**.
+        - **Net+War kit** → **Camouflage net + Kit WAR** (for the **Ariete (WAR) (20° Corso)**)
     - **AGM-62A** → **Guided Weapon, MK 1 MOD 0 / 3 MOD 0**.
     - Description of the **rb 75T**'s modification has been corrected.
     - **AGM-119A Penguin** → **Penguin MK3**.
@@ -229,6 +235,7 @@ All dates are listed in DD-MM-YYYY format.
         - **L-150-30SM**
         - **Sapphire-23E/TP-23-1**
         - **AN/ALR-45F(V)**
+        - **AN/APG-73**
 
 - #### Changes:
 

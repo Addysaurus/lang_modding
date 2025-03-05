@@ -978,6 +978,8 @@ modification/su_24m2_fab_500_kab_500s/desc;Allows for the installation of FAB-50
 modification/su_24m2_fab_500_kab_500s;FAB-500 / KAB-500S-È
 modification/cn_ts_250/desc;Allows the installation of TS250 guided bombs.
 modification/cn_ts_250;TS250
+modification/cn_kab_laser/desc;Allows the installation of TS250 laser-guided bombs.
+modification/cn_kab_laser;TS250
 modification/cn_ls_500j/desc;Allows the installation of LS500J guided bombs.
 modification/cn_ls_500j;LS500J
 modification/cn_ls_1000j/desc;Allows the installation of LS1000J guided bombs.
@@ -1213,6 +1215,10 @@ modification/manual_extinguisher;Fire extinguishers
 modification/manual_extinguisher/desc;Additional fire extinguishers allows to crew to more consistently extinguish fires.
 modification/camouflage_net;Camouflage net
 modification/camouflage_net/desc;Camouflage net
+modification/camouflage_net_certezza;Camouflage net
+modification/camouflage_net_certezza/desc;Camouflage net
+modification/certezza_protection_improvement;Camouflage net + Kit WAR
+modification/certezza_protection_improvement/desc;Camouflage net and Kit WAR additional armor packacge.
 modification/tank_camouflage;Camouflage
 modification/tank_camouflage/desc;Tank camouflage improves stealth in a field and decreases detection range by enemy tanks and aviation.
 modification/tank_additional_armor;Additional armor
@@ -1276,6 +1282,8 @@ modification/9p149m_upgrade_modification;9P149M
 modification/9p149m_upgrade_modification/desc;9P149M upgrade kit
 modification/2s6_upgrade_modification;2S6M1
 modification/2s6_upgrade_modification/desc;2S6M1 upgrade kit
+modification/type_74_tire;Tires
+modification/type_74_tire/desc;Mounting/dismounting tires from the stern of the hull
 modification/m_1_fuel_tanks;Vismod
 modification/m_1_fuel_tanks/desc;Mounting Vismod elements
 modification/slat_armor_improvement;Slat armor

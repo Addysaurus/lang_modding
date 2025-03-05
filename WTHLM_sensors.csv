@@ -7,6 +7,7 @@ sensors/ir_tracker_tgp;Auto tracker
 sensors/cn_helicopter_z_lws;LWS
 sensors/cn_helicopter_z_rwr;RWR
 sensors/cn_helicopter_z_mlws;MLWS
+radar_tws_plus;TWS+
 //RADARS
 sensors/us_sa_radar;SA
 sensors/su_rif;Rif
@@ -198,3 +199,6 @@ sensors/sw_app_f9_5;APP F9/5
 sensors/su_n_019e;N019E/OEPS-29E
 sensors/cn_type_1473;Type 1473
 counterMeasures/lsz_8vn;LSZ-8VN
+sensors/su_spo-150-30sm;L-150-30SM
+sensors/su_sapphire_23e;Sapphire-23E/TP-23-1
+sensors/us_an_alr_45f_v;AN/ALR-45F(V)

@@ -62,7 +62,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Harry Hopkins I** → **Harry Hopkins, Mk I**. Long name → **Vickers-Armstrongs | Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I**.
         - **J-11B** → **J11B**. Long name → **Shěnyáng Fēijī Gōngyè (Jítuán) | J11B ""Yìng Lóng"**.
         - **XM246**: Long name → **General Dynamics Land Systems | Gun, Air Defence Artillery, Self-Propelled: 35 mm, XM246**.
-        - **Rapier** → **RCM 748, Mk. 1B (Rapier)**. Long name → **British Aircraft Corporation | Tracked Rapier Launch Vehicle, RCM 748, Mk. 1B (Rapier)**.
+        - **Rapier** → **RCM 748, Mk. 1B (Rapier)**. Long name → **British Aircraft Corporation | Tracked Rapier Launcher Vehicle, RCM 748, Mk. 1B (Rapier)**.
         - **Ariete Сertezza** → **Ariete (WAR) (20° Corso)**. Long name → **Consorzio Iveco Oto Melara | C1 Ariete (Kit WAR) (20° Corso "Certezza")**.
         - **Su-30SM**: Long name → **PAO Kompaniâ Sukhoj | izd. T-10PU | Su-30SM**.
         - **F-18C** (Finland) → **HN (MLU 1)**. Long name → **McDonnell Douglas Corporation Model 267 | HN (Mid-Life Upgrade 1) "Hornet"**.
@@ -150,17 +150,62 @@ All dates are listed in DD-MM-YYYY format.
         - **250 lb AN-M57 bomb** → **Bomb, 250lb, GP, AN/M57**.
         - **Rapier** (launcher) → **Tracked Rapier Launcher**.
         - **Rapier Mk.1E** → **Rapier Mk. 1E**.
-        - **Rapier Mk.2** → **Rapier Mk. 2**.
+        - **Rapier Mk.2** → **Rapier Mk. 2A**.
         - **7.62 mm FN MAG 60-40 machine gun** (the new one) → **FN MAG 60-40**.
         - **Type 30-4** → **30-4 Xíng**. Long name → **30-4 Xíng 30 Háomi Hángkōng Jīpào**.
         - **AIM-7P** → **AIM-7P-2**. Long name → **Guided Missile, Air to Air, AIM-7P-2 Sparrow**.
         - **R-77-1**: Long name → **R-77-1**.
         - **PL-8B** → **PL8B**. Long name → **PL8B**.
         - **120 mm IMI MG251-LR cannon** → **MG251-LR**.
-        - **152 mm 2A64 cannon** → **2A64**
-        - **152 mm 2A65M2 cannon** → **2A64M2 | Dil'yemma-2A64**
+        - **152 mm 2A64 cannon** → **2A64**.
+        - **152 mm 2A65M2 cannon** → **2A64M2 | Dil'yemma-2A64**.
     - **AGM-62A** → **Guided Weapon, MK 1 MOD 0**. Long name → **Guided Weapon, MK 1 MOD 0 Walleye I**.
     - **AGM-62A ER** → **Guided Weapon, MK 3 MOD 0**. Long name → **Guided Weapon, MK 3 MOD 0 Walleye I ER**.
+
+### Modifications:
+
+- #### Additions:
+
+    - Update "Hornet's Sting" additions:
+        - **UPAB-500B**
+        - **UPAB-1500**
+        - **KAB-L**
+        - **KAB-TV**
+        - **AGM-62 ER/DL**
+        - **LGBU**
+        - **GBU-32/31 JDAM**
+        - **GBU-31 JDAM**
+        - **GBU-32 JDAM**
+        - **AN/AAS-38**
+        - **AN/AAS-38A**
+        - **ATFLIR**
+        - **T220**
+        - **AIM-7P**
+        - **AGM-65F**
+        - **15-inch 6crh Mark XVIIb APC**
+        - **R-77-1**
+        - **100 mm M1913 AP**
+        - **65 mm M1902 SAP**
+    - **AGM-119A Penguin** (somehow forgot to add this last update)
+
+- #### Changes:
+
+    - Update "Hornet's Sting" changes (all modifications have been adjusted accordingly; all type tags have been added accordingly):
+        - **UPAB-1500** → **UPAB-1500B**.
+        - **KAB-L** → **KAB-250LG / 500LG / 1500LG**.
+        - **KAB-TV** → **KAB-500Kr / 1500Kr**.
+        - **AGM-62 ER/DL** → **Guided Weapon, MK 23 MOD 0**.
+        - **LGBU** → **GBU-10/B / 16/B / 24E/B**.
+        - **GBU-32/31 JDAM** → **GBU-31(V)2/B / 32(V)2/B**.
+        - **GBU-31 JDAM** → **GBU-31(V)1/B**.
+        - **GBU-32 JDAM** → **GBU-32(V)1/B**.
+        - **ATFLIR** → **AN/ASQ-228**.
+        - **T220** → **T-220**.
+        - **AIM-7P** → **AIM-7P-2**.
+    - **AGM-62A** → **Guided Weapon, MK 1 MOD 0 / 3 MOD 0**.
+    - Description of the **rb 75T**'s modification has been corrected.
+    - **AGM-119A Penguin** → **Penguin MK3**.
+    - **AGR-20** → **AGR-20A**.
 
 ### Sensors:
 
@@ -171,6 +216,12 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/AAS-38A**
         - **ATFLIR**
         - **T220**
+        - **Rapier TA**
+        - **Rapier TT**
+        - **TWS+** (tracking mode)
+        - **L-150-30SM**
+        - **Sapphire-23E/TP-23-1**
+        - **AN/ALR-45F(V)**
 
 - #### Changes:
 
@@ -179,6 +230,26 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/AAS-38A**: Long name → **AN/AAS-38A NITE Hawk**.
         - **ATFLIR** → **AN/ASQ-228**. Long name → **AN/ASQ-228 Advanced Targeting Forward-Looking Infrared**.
         - **T220** → **T-220**.
+    - Description of the **rb 75T**'s modification has been corrected.
+
+### Engines:
+
+- #### Additions:
+
+    - Update "Hornet's Sting" additions:
+        - **D13**
+        - **V-84АМС**
+        - **04-C20**
+        - **14N-35**
+        - **AL-31FP**
+        - **F404-GE-400**
+        - **F404-GE-402**
+        - **WS-10A**
+
+- #### Changes:
+
+    - Update "Hornet's Sting" changes (all modifications have been adjusted accordingly; all type tags have been added accordingly):
+        - **F404-GE-402** → **F404-GE-402 Enhanced Performance Engine**.
 
 ## 1.11.02 - 26-02-2025
 

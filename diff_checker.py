@@ -19,4 +19,4 @@ def check_diff(old_file, new_file, output_file):
             if i[0] not in [j[0] for j in old_entries]:
                 writer.writerow(i)
             
-check_diff('D_units_weaponry.csv', 'DEV_units_weaponry.csv', 'DIFF_units_weaponry.csv')
+check_diff('D_units_modifications.csv', 'DEV_units_modifications.csv', 'DIFF_units_modifications.csv')

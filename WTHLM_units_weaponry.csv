@@ -3233,6 +3233,7 @@ weapons/7_62mm_FN_MAG60_40_user_machinegun;<color=@userlogColoredText>7.92 mm</c
 weapons/7_62mm_FN_MAG60_40_namer_user_machinegun;<color=@userlogColoredText>7.92 mm</color> FN MAG 60-40 <color=#ff6f00>MG</color>
 weapons/40mm_L70_Bofors_mk3_user_cannon;<color=@userlogColoredText>40 mm</color> Gun, Automatic, 40mm, M266 <color=#ff6f00>ACNN</color>
 weapons/20mm_m693_amx_10_user_cannon;20 mm GIAT М693/mod F2 automatic cannon
+weapons/20mm_M_693_marder_clovis_user_cannon;20 mm CN20 F2 automatic cannon
 100mm_9m_117;9M117
 100mm_9m_117m1;9M117M1
 105mm_falaric;Falaric 105
@@ -3867,6 +3868,8 @@ weapons/euro_hot3;HOT-3 air-to-ground missile
 weapons/euro_hot3/short;HOT-3
 weapons/euro_atgw3;PARS 3 LR air-to-ground missile
 weapons/euro_atgw3/short;PARS 3 LR
+weapons/euro_trigat_lr;TRIGAT-LR air-to-ground missiles
+weapons/euro_trigat_lr/short;TRIGAT-LR
 weapons/us_agm_65a;Guided Missile, Air to Surface, AGM-65A <color=#ff6f00>AGM-EO</color>
 weapons/us_agm_65a/short;AGM-65A
 weapons/us_agm_65b;Guided Missile, Air to Surface, AGM-65B <color=#ff6f00>AGM-EO</color>
@@ -4925,6 +4928,7 @@ weapons/20mm_MG151_20_user_cannon;20 mm MG151/20 cannon
 20mm_brgr;2cm Brgr.L'Spur 151
 20mm_pzbrgr_ph;2cm Pzbrgr.(Ph) 151
 weapons/105mm_ZPL98A_user_cannon;<color=@userlogColoredText>105 mm</color> ZPL1998A 105 háomi tankè pào <color=#ff6f00>CNN</color>
+weapons/105mm_ZPL151A_user_cannon;<color=@userlogColoredText>105 mm</color> ZPL151A 105 Háomi Tankè Pào <color=#ff6f00>CNN</color>
 weapons/20mm_GAI_CO1_user_cannon;20 mm GAI C01 cannon
 weapons/20mm_Rh_202_Wiesel_user_cannon;20 mm Rh202 cannon
 weapons/20mm_Rh_202_Marder_user_cannon;20 mm Rh202 cannon

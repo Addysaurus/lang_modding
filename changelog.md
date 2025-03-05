@@ -139,6 +139,9 @@ All dates are listed in DD-MM-YYYY format.
         - **65 mm M1902 AP**
         - **152 mm 2A64 cannon**
         - **152 mm 2A65M2 cannon**
+        - **20 mm CN20 F2 automatic cannon**
+        - **TRIGAT-LR**
+        - **105 mm ZPL151A cannon**
 
 - #### Changes:
 
@@ -159,6 +162,7 @@ All dates are listed in DD-MM-YYYY format.
         - **120 mm IMI MG251-LR cannon** → **MG251-LR**.
         - **152 mm 2A64 cannon** → **2A64**.
         - **152 mm 2A65M2 cannon** → **2A64M2 | Dil'yemma-2A64**.
+        - **105 mm ZPL151A cannon** → **ZPL151A 105 Háomi Tankè Pào**.
     - **AGM-62A** → **Guided Weapon, MK 1 MOD 0**. Long name → **Guided Weapon, MK 1 MOD 0 Walleye I**.
     - **AGM-62A ER** → **Guided Weapon, MK 3 MOD 0**. Long name → **Guided Weapon, MK 3 MOD 0 Walleye I ER**.
 
@@ -186,6 +190,8 @@ All dates are listed in DD-MM-YYYY format.
         - **R-77-1**
         - **100 mm M1913 AP**
         - **65 mm M1902 SAP**
+        - **NVD** (new one for the **Panther II (8,8cm)**)
+        - **TRIGAT-LR**
     - **AGM-119A Penguin** (somehow forgot to add this last update)
 
 - #### Changes:
@@ -219,6 +225,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Rapier TA**
         - **Rapier TT**
         - **TWS+** (tracking mode)
+        - **TWS ESA** (tracking mode)
         - **L-150-30SM**
         - **Sapphire-23E/TP-23-1**
         - **AN/ALR-45F(V)**

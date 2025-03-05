@@ -53,6 +53,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Schütze**
         - **Type 74 Red Star**
         - **Harrier T.10**
+        - **USS Colorado**
 
 - #### Changes:
 
@@ -65,10 +66,10 @@ All dates are listed in DD-MM-YYYY format.
         - **Rapier** → **RCM 748, Mk. 1B (Rapier)**. Long name → **British Aircraft Corporation | Tracked Rapier Launcher Vehicle, RCM 748, Mk. 1B (Rapier)**.
         - **Ariete Сertezza** → **Ariete (WAR) (20° Corso)**. Long name → **Consorzio Iveco Oto Melara | C1 Ariete (Kit WAR) (20° Corso "Certezza")**.
         - **Su-30SM**: Long name → **PAO Kompaniâ Sukhoj | izd. T-10PU | Su-30SM**.
-        - **F-18C** (Finland) → **HN (MLU 1)**. Long name → **McDonnell Douglas Corporation Model 267 | HN (Mid-Life Upgrade 1) "Hornet"**.
+        - **F-18C** (Finland) → **HN**. Long name → **McDonnell Douglas Corporation Model 267 | HN "Hornet"**.
         - **F/A-18A** → **F/A-18A-18-MC**. Long name → **McDonnell Douglas Corporation Model 267 | F/A-18A-18-MC Hornet**.
-        - **F/A-18C Early** → **F/A-18C-29-MC**. Long name → **McDonnell Douglas Corporation Model 267 | F/A-18C-29-MC Hornet**.
-        - **F/A-18C Late** → **F/A-18C-52-MC**. Long name → **McDonnell Douglas Corporation Model 267 | F/A-18C-52-MC Hornet**.
+        - **F/A-18C Early** → **F/A-18C-25-MC**. Long name → **McDonnell Douglas Corporation Model 267 | F/A-18C-25-MC Hornet**.
+        - **F/A-18C Late** → **F/A-18C-51-MC**. Long name → **McDonnell Douglas Corporation Model 267 | F/A-18C-51-MC Hornet**.
         - **Netz** (premium) → **F-16A-15OCU-CF (1987)**. Long name → **General Dynamics Corporation | F-16A-15OCU-CF Neṣ (1987)**.
         - **EC-665 Tiger HAC** (France) → **Tigre HAC**. Long name → **Eurocopter EC-665 | Tigre, Hélicoptère Anti Char**.
         - **Tiger HAD** (Germany / Spain) → **Tigre HAD/E (Bloque 1)**. Long name → **Eurocopter EC-665 | HA-28 Tigre, Helicóptero de Ataque y Destrucción (Bloque 1)**.
@@ -91,16 +92,18 @@ All dates are listed in DD-MM-YYYY format.
         - **Schütze** → **Schütze (M 1062)**. Long name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT5 Qīngxíng Tankè**.
         - **Type 74 Red Star** → **74TK (C) (304 Sen Chū)**. Long name → **Mitsubishi Jū Kōgyō | 74 Shiki Sensha C Gata "Nana Yon" (Dai 304 Sensha Chūtai)**.
         - **Harrier T.10** → **Harrier T. Mk. 10**. Long name → **Hawker Siddeley Aviation | Harrier T. Mk. 10**.
+        - **USS Colorado** → **USS Colorado (BB-45)**. Long name → **New York Shipbuilding Corporation | Colorado-class | USS Colorado (BB-45) (1932)**.
     - **Leopard 2A4NL** → **Leopard 2A4 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm**.
     - **Leopard 2A5NL** → **Leopard 2A5 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm**.
     - **Leopard 2A6NL** → **Leopard 2A6 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm**.
     - **Wiesel 1 A4 (MK20)** → **Wiesel 1 A4 MK** (yes, this is undoing a change from just 1 patch earlier).
     - **F-84F-51-GK (200 Tayeset)** → **F-84F-51-GK (Ṭayeset 200)**.
-    - **Dai 838 Gō** → **Dai 871 Gō**: Long name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 871 Gō**.
+    - **Dai 838 Gō** → **Dai 871 Gō**. Long name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 871 Gō**.
     - **DF 105** (Germany): Long name → **Thyssen Henschel DF 105**. It has also recieved a roundel to differentiate it from the new French one.
     - The **A6M3 (22 Gata)** and the **A6M3 Kō** now display properly. Previously, their file names were written incorrectly which caused the corrected names for them to not show.
     - Manufacturer **Zhōngguó Běifāng Gōngyè Gōngsī** → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī**.
     - **ZSU-23-4** (USSR & Israel) → **ZSU-23-4V**.
+    - **Ke Ni Kō** → **Ke Ni A**. Long name → **Tōkyō Jidōsha Kōgyō | Ke Ni A**.
 
 ### Weaponry:
 

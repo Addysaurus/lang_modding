@@ -2659,12 +2659,12 @@ fa_18a_shop;F/A-18A-18-MC
 fa_18a_0;McDonnell Douglas Corporation Model 267 | F/A-18A-18-MC Hornet
 fa_18a_1;F/A-18A
 fa_18a_2;F/A-18
-fa_18c_early_shop;F/A-18C-29-MC
-fa_18c_early_0;McDonnell Douglas Corporation Model 267 | F/A-18C-29-MC Hornet
+fa_18c_early_shop;F/A-18C-25-MC
+fa_18c_early_0;McDonnell Douglas Corporation Model 267 | F/A-18C-25-MC Hornet
 fa_18c_early_1;F/A-18C
 fa_18c_early_2;F/A-18
-fa_18c_late_shop;F/A-18C-52-MC
-fa_18c_late_0;McDonnell Douglas Corporation Model 267 | F/A-18C-52-MC Hornet
+fa_18c_late_shop;F/A-18C-51-MC
+fa_18c_late_0;McDonnell Douglas Corporation Model 267 | F/A-18C-51-MC Hornet
 fa_18c_late_1;F/A-18C
 fa_18c_late_2;F/A-18
 f_14a_early_shop;F-14A-65-GR
@@ -3629,6 +3629,10 @@ us_battleship_tennessee_shop;USS Tennessee (BB-43)
 us_battleship_tennessee_0;Tennessee-class, USS Tennessee (BB-43) (1943)
 us_battleship_tennessee_1;USS Tennessee
 us_battleship_tennessee_2;Battleship
+us_battleship_colorado_class_colorado_shop;USS Colorado (BB-45)
+us_battleship_colorado_class_colorado_0;New York Shipbuilding Corporation | Colorado-class | USS Colorado (BB-45) (1932)
+us_battleship_colorado_class_colorado_1;USS Colorado
+us_battleship_colorado_class_colorado_2;Battleship
 us_battlecruiser_alaska_class_shop;USS Alaska (CB-1)
 us_battlecruiser_alaska_class_0;Alaska-class, USS Alaska (CB-1)
 us_battlecruiser_alaska_class_1;USS Alaska (CB-1)
@@ -5250,9 +5254,9 @@ jp_type_95_ha_go_commander_shop;Ha Gō (late) (94 Shiki) (1 Sen Ren)
 jp_type_95_ha_go_commander_0;Mitsubishi Jū Kōgyō | 95 Shiki Kei Sensha | Ha Gō (Shiki) (94 Shiki 37 Mirimētoru Sensha Hō) (Dai 1 Sensha Rentai)
 jp_type_95_ha_go_commander_1;Ha Gō
 jp_type_95_ha_go_commander_2;Light tank
-jp_type_98_ke_ni_shop;Ke Ni Kō
-jp_type_98_ke_ni_0;Tōkyō Jidōsha Kōgyō | Shisei Kei Sensha Kō | Ke Ni Kō
-jp_type_98_ke_ni_1;Ke Ni Kō
+jp_type_98_ke_ni_shop;Ke Ni A
+jp_type_98_ke_ni_0;Tōkyō Jidōsha Kōgyō | Ke Ni A
+jp_type_98_ke_ni_1;Ke Ni A
 jp_type_98_ke_ni_2;Light tank
 jp_type_2_ka_mi_shop;Ka Mi
 jp_type_2_ka_mi_0;Kure Kaigun Kōshō + Rikugun Gijutsu Honbu | Toku 2 Shiki Naikatei | Ka Mi
@@ -6014,8 +6018,8 @@ fr_marne_class_marne_2;Aviso
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-fa_18c_finland_shop;HN (MLU 1)
-fa_18c_finland_0;"McDonnell Douglas Corporation Model 267 | HN (Mid-Life Upgrade 1) ""Hornet"""
+fa_18c_finland_shop;HN
+fa_18c_finland_0;"McDonnell Douglas Corporation Model 267 | HN ""Hornet"""
 fa_18c_finland_1;HN
 fa_18c_finland_2;HN
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 5

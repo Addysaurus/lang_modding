@@ -92,7 +92,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Schütze** → **Schütze (M 1062)**. Long name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT5 Qīngxíng Tankè**.
         - **Type 74 Red Star** → **74TK (C) (304 Sen Chū)**. Long name → **Mitsubishi Jū Kōgyō | 74 Shiki Sensha C Gata "Nana Yon" (Dai 304 Sensha Chūtai)**.
         - **Harrier T.10** → **Harrier T. Mk. 10**. Long name → **Hawker Siddeley Aviation | Harrier T. Mk. 10**.
-        - **USS Colorado** → **USS Colorado (BB-45)**. Long name → **New York Shipbuilding Corporation | Colorado-class | USS Colorado (BB-45) (1932)**.
+        - **USS Colorado** → **USS Colorado (BB-45)**. Long name → **New York Shipbuilding Corporation | Colorado-class | USS Colorado (BB-45) (1942)**.
     - **Leopard 2A4NL** → **Leopard 2A4 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm**.
     - **Leopard 2A5NL** → **Leopard 2A5 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm**.
     - **Leopard 2A6NL** → **Leopard 2A6 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm**.

@@ -80,7 +80,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Aconit** → **Aconit (K 58)**. Long name → **Ailsa Shipbuilding Company | Corvette Classe Flower | Aconit (K 58)**.
         - **IJN Matsu** → **Matsu**. Long name → **Maizuru Kaigun Kōshō | Ittō Kuchikukan | Matsu Gata Kuchikukan (F-55) | Matsu**.
         - **HMS Warspite** → **HMS Warspite (03)**. Long name → **Devonport Royal Dockyard / Naval Station Durban | Queen Elizabeth-class | HMS Warspite (03) (1943)**.
-        - **Grecale** → **Grecale (GR)**. Long name → **Cantieri Navali del Tirreno e Riuniti / Arsenale militare marittimo della Spezia | Cacciatorpediniere Classe Maestrale | Gercale (GR)**.
+        - **Grecale** → **Grecale (GR)**. Long name → **Cantieri Navali del Tirreno e Riuniti / Arsenale militare marittimo della Spezia | Cacciatorpediniere Classe Maestrale | Gercale (GR) (1949)**.
         - **MTB-35** → **HMS MTB 35**. Long name → **Vosper & Co. | Vosper 70 feet-type-class | HMS MTB 35**.
         - **VTB-12** → **VTB 12**. Long name → **Ateliers et Chantiers de la Loire | Vedette Torpilleur VTB 12**.
         - **VTB-18** → **VTB 18**. Long name → **Chantiers Jouët | Vedette Torpilleur VTB 18**.
@@ -145,6 +145,11 @@ All dates are listed in DD-MM-YYYY format.
         - **20 mm CN20 F2 automatic cannon**
         - **TRIGAT-LR**
         - **105 mm ZPL151A cannon**
+        - **SPICE 250**
+        - **SPICE 1000**
+        - **SPICE 2000**
+        - **GBU-54B LJDAM** (another one)
+        - **35 mm Oerlikon KDA cannon** (new one for the **XM246**)
 
 - #### Changes:
 
@@ -166,8 +171,13 @@ All dates are listed in DD-MM-YYYY format.
         - **152 mm 2A64 cannon** → **2A64**.
         - **152 mm 2A65M2 cannon** → **2A64M2 | Dil'yemma-2A64**.
         - **105 mm ZPL151A cannon** → **ZPL151A 105 Háomi Tankè Pào**.
+        - **SPICE 250**: Long name → **SPICE 250**.
+        - **SPICE 1000**: Long name → **SPICE 1000**.
+        - **SPICE 2000**: Long name → **SPICE 2000**.
+        - **GBU-54B LJDAM** (the new one) → **GBU-54(V)2/B**. Long name → **Bomb, Guided, GBU-54(V)2/B Laser Joint Direct Attack Munition**.
     - **AGM-62A** → **Guided Weapon, MK 1 MOD 0**. Long name → **Guided Weapon, MK 1 MOD 0 Walleye I**.
     - **AGM-62A ER** → **Guided Weapon, MK 3 MOD 0**. Long name → **Guided Weapon, MK 3 MOD 0 Walleye I ER**.
+    - The **GBU-54(V)1/B** has had its missing type and mass tags added.
 
 ### Modifications:
 

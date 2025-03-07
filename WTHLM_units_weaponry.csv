@@ -478,6 +478,12 @@ weapons/uk_pgm_2000;<color=@userlogColoredText>1060 kg</color> PGM 2000 <color=#
 weapons/uk_pgm_2000/short;PGM 2000
 weapons/uk_pgm_2000_iir;<color=@userlogColoredText>1060 kg</color> PGM 2000/3 <color=#ff6f00>BMB-IR</color>
 weapons/uk_pgm_2000_iir/short;PGM 2000/3
+weapons/il_spice_250;<color=@userlogColoredText>130 kg</color> SPICE 250 <color=#ff6f00>BMB-EO/GNSS</color>
+weapons/il_spice_250/short;SPICE 250
+weapons/il_spice_1000;<color=@userlogColoredText>446.8 kg</color> SPICE 1000 <color=#ff6f00>BMB-EO/GNSS</color>
+weapons/il_spice_1000/short;SPICE 1000
+weapons/il_spice_2000;<color=@userlogColoredText>893.6 kg</color> SPICE 2000 <color=#ff6f00>BMB-EO/GNSS</color>
+weapons/il_spice_2000/short;SPICE 2000
 weapons/cn_ls_500j;<color=@userlogColoredText>570 kg</color> LS500J <color=#ff6f00>BMB-LG</color>
 weapons/cn_ls_500j/short;LS500J
 weapons/cn_ls_1000j;<color=@userlogColoredText>1090 kg</color> LS1000J <color=#ff6f00>BMB-LG</color>
@@ -544,8 +550,10 @@ weapons/us_500lb_gbu38_usaf;<color=@userlogColoredText>253.1 kg</color> Bomb, Gu
 weapons/us_500lb_gbu38_usaf/short;GBU-38(V)1/B
 weapons/us_500lb_gbu38_usnavy;<color=@userlogColoredText>253.1 kg</color> Bomb, Guided, GBU-38(V)2/B Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS</color>
 weapons/us_500lb_gbu38_usnavy/short;GBU-38(V)2/B
-weapons/us_500lb_gbu_54b;Bomb, Guided, GBU-54(V)1/B Laser Joint Direct Attack Munition
+weapons/us_500lb_gbu_54b;<color=@userlogColoredText>260.816 kg</color> Bomb, Guided, GBU-54(V)1/B Laser Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS/LG</color>
 weapons/us_500lb_gbu_54b/short;GBU-54(V)1/B
+weapons/us_500lb_gbu_54b_navy;<color=@userlogColoredText>260.816 kg</color> Bomb, Guided, GBU-54(V)2/B Laser Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS/LG</color>
+weapons/us_500lb_gbu_54b_navy/short;GBU-54(V)2/B
 weapons/us_2000lb_gbu31_usaf;<color=@userlogColoredText>893.6 kg</color> Bomb, Guided, GBU-31(V)1/B Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS</color>
 weapons/us_2000lb_gbu31_usaf/short;GBU-31(V)1/B
 weapons/us_2000lb_gbu31_usnavy;<color=@userlogColoredText>893.6 kg</color> Bomb, Guided, GBU-31(V)2/B Joint Direct Attack Munition <color=#ff6f00>BMB-GNSS</color>
@@ -3033,6 +3041,7 @@ weapons/150mm_StuH_43_user_cannon;150 mm Stu.H 43 L/12 howitzer
 weapons/105mm_M68_M60A1_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, M68 <color=#ff6f00>CNN</color>
 105mm_m728;M728
 weapons/35mm_Oerlikon_KDE_user_cannon;35 mm Oerlikon KDE cannon
+weapons/35mm_Oerlikon_us_xm246_user_cannon;35 mm Oerlikon KDA cannon
 weapons/35mm_Oerlikon_KDA_marksman_user_cannon;35 mm Oerlikon KDA cannon
 weapons/35mm_Oerlikon_KDA_user_cannon;35 mm Oerlikon KDA cannon
 35_228mm_he_i_t;DM 11 A1

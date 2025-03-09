@@ -54,6 +54,18 @@ All dates are listed in DD-MM-YYYY format.
         - **Type 74 Red Star**
         - **Harrier T.10**
         - **USS Colorado**
+    - **Avions Marcel Dassault-Breguet Aviation** added as the manufacturer to the following vehicles:
+        - **Mirage F1 C**
+        - **Mirage F1 CT**
+        - **Mirage F1 C-200**
+        - **Mirage 2000 C S4**
+        - **Mirage 2000 C S5**
+    - **Dassault Aviation** added as the manufacturer for the following vehicles:
+        - **Mirage 2000 5F**
+        - **Mirage 2000 5EI**
+        - **Mirage 2000 D R1**
+        - **Mirage 2000 D RMV**
+        - **Mirage 4000 (1986)**
 
 - #### Changes:
 

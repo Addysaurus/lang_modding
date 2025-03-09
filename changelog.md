@@ -150,6 +150,10 @@ All dates are listed in DD-MM-YYYY format.
         - **SPICE 2000**
         - **GBU-54B LJDAM** (another one)
         - **35 mm Oerlikon KDA cannon** (new one for the **XM246**)
+        - **406 mm/45 Mk.5**
+        - **406 mm Mk.13 HC**
+        - **406 mm Mk.3 APCBC**
+        - **406 mm Mk.5 APCBC**
 
 - #### Changes:
 
@@ -209,6 +213,9 @@ All dates are listed in DD-MM-YYYY format.
         - **Camouflage net** (new one for the **Ariete (WAR) (20° Corso)**)
         - **Net+War kit** (for the **Ariete (WAR) (20° Corso)**)
         - **Tires** (new one for the **74TK (C) (304 Sen Chū)**)
+        - **406 mm Mk.13 HC**
+        - **406 mm Mk.3 APCBC**
+        - **406 mm Mk.5 APCBC**
     - **AGM-119A Penguin** (somehow forgot to add this last update)
 
 - #### Changes:

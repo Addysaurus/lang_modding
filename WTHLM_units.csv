@@ -1515,6 +1515,7 @@ shop/group/md_454_group;Mystère IV / Super Mystère B2
 shop/group/so_4050_vautour_group;Vautour II A / B
 shop/group/mirage_3_group;Mirage III C / E
 shop/group/tiger_group;☨ Tigre HAD/F / HAC
+shop/group/fr_vtb_group;VTB 8 / 11 / 14
 shop/group/sw_pvkv_ikv_group;pvkv m/43 / ikv 103
 shop/group/sw_udes_pbv_group;UDES 33 / pbv 302
 shop/group/sw_t_34_pz_4_group;26 psv T 34 / 25 psv PZ IV
@@ -5397,7 +5398,7 @@ jp_type_60_sprg_2;SPG
 jp_type_60_atm_shop;60APC (ATM-1)
 jp_type_60_atm_0;60 Shiki Sōkō Sha (ATM-1)
 jp_type_60_atm_1;60APC (ATM-1)
-jp_type_60_atm_2;SPG
+jp_type_60_atm_2;ATGMC
 jp_st_a1_shop;ST-A1
 jp_st_a1_0;Mitsubishi Jū Kōgyō | ST-A1
 jp_st_a1_1;ST-A1
@@ -5927,6 +5928,10 @@ tornado_ids_it_ret8_2;A-200
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+it_fiat_6614_firos_shop;Fiat 6614 (FIROS 6)
+it_fiat_6614_firos_0;Fiat OTO Melara Tipo 6614 (FIROS 6)
+it_fiat_6614_firos_1;Fiat 6614
+it_fiat_6614_firos_2;MLRS
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 it_c1_ariete_certezza_shop;Ariete (WAR) (20° Corso)
@@ -11045,11 +11050,11 @@ it_ab_43_0;Autoblinda Mod. 43
 it_ab_43_1;AB. 43
 it_ab_43_2;Light tank
 it_fiat_6614_106sr_shop;Fiat 6614 (M40A1)
-it_fiat_6614_106sr_0;Fiat-OTO-Melara 6614 (M40A1)
-it_fiat_6614_106sr_1;Fiat 6614 (M40A1)
+it_fiat_6614_106sr_0;Fiat OTO Melara Tipo 6614 (M40A1)
+it_fiat_6614_106sr_1;Fiat 6614
 it_fiat_6614_106sr_2;Light tank
 it_fiat_6616_cockerill_shop;Fiat 6616 (90/38)
-it_fiat_6616_cockerill_0;Fiat-OTO-Melara 6616 con torretta OTO T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38
+it_fiat_6616_cockerill_0;Fiat OTO Melara Tipo 6616 con torretta OTO T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38
 it_fiat_6616_cockerill_1;Fiat 6616
 it_fiat_6616_cockerill_2;Light tank
 it_sherman_VII_shop;⛨ Sherman I C Ibrido

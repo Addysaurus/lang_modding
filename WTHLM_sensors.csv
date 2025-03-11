@@ -9,6 +9,17 @@ sensors/cn_helicopter_z_rwr;RWR
 sensors/cn_helicopter_z_mlws;MLWS
 radar_tws_plus;TWS+
 radar_tws_esa;TWS ESA
+radar_nctr;NCTR, types
+mlws_type;Type
+mlws_type_radar;Radar
+mlws_type_ir;Optic
+mlws_range_max;Range
+mlws_range_finder;Range-finder
+avionics_auto_cm;Auto C/M
+avionics_auto_cm_by_rwr;RWR
+avionics_auto_cm_by_mlws;MLWS
+avionics_auto_cm_sensors;Sensors
+avionics_auto_cm_programs;Programs
 //RADARS
 sensors/us_sa_radar;SA
 sensors/su_rif;Rif
@@ -205,3 +216,4 @@ counterMeasures/lsz_8vn;LSZ-8VN
 sensors/su_spo-150-30sm;L-150-30SM
 sensors/su_sapphire_23e;Sapphire-23E/TP-23-1
 sensors/us_an_alr_45f_v;AN/ALR-45F(V)
+sensors/us_an_alr_67_v_3;AN/ALR-67(V)3

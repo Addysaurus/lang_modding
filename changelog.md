@@ -105,6 +105,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Type 74 Red Star** → **74TK (C) (304 Sen Chū)**. Long name → **Mitsubishi Jū Kōgyō | 74 Shiki Sensha C Gata "Nana Yon" (Dai 304 Sensha Chūtai)**.
         - **Harrier T.10** → **Harrier T. Mk. 10**. Long name → **Hawker Siddeley Aviation | Harrier T. Mk. 10**.
         - **USS Colorado** → **USS Colorado (BB-45)**. Long name → **New York Shipbuilding Corporation | Colorado-class | USS Colorado (BB-45) (1942)**.
+        - **FIROS 6** → **Fiat 6614 (FIROS 6)**. Long name → **Fiat OTO Melara Tipo 6614 (FIROS 6)**.
     - **Leopard 2A4NL** → **Leopard 2A4 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm**.
     - **Leopard 2A5NL** → **Leopard 2A5 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm**.
     - **Leopard 2A6NL** → **Leopard 2A6 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm**.
@@ -116,6 +117,9 @@ All dates are listed in DD-MM-YYYY format.
     - Manufacturer **Zhōngguó Běifāng Gōngyè Gōngsī** → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī**.
     - **ZSU-23-4** (USSR & Israel) → **ZSU-23-4V**.
     - **Ke Ni Kō** → **Ke Ni A**. Long name → **Tōkyō Jidōsha Kōgyō | Ke Ni A**.
+    - The **60APC (ATM-1)**'s long distance tag has been corrected from SPG to ATMC (anti-tank missile carrier).
+    - The **Fiat 6614 (M40A1)**'s long name has been changed to **Fiat OTO Melara Tipo 6614 (M40A1)**.
+    - The **Fiat 6616 (90/38)**'s long name has been changed to **Fiat OTO Melara Tipo 6616 con torretta OTO T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38**.
 
 ### Weaponry:
 
@@ -267,7 +271,19 @@ All dates are listed in DD-MM-YYYY format.
         - **L-150-30SM**
         - **Sapphire-23E/TP-23-1**
         - **AN/ALR-45F(V)**
+        - **AN/ALR-67(V)3**
         - **AN/APG-73**
+        - **NCTR, types** (general sensor text)
+        - **Type** (MLWS text)
+        - **Radar** (MLWS text)
+        - **Optic** (MLWS text)
+        - **Range** (MLWS text)
+        - **Range-finder** (MLWS text)
+        - **Auto C/M** (CM text)
+        - **RWR** (CM text)
+        - **MLWS** (CM text)
+        - **Sensors** (CM text)
+        - **Prorams** (CM text) (definitely a typo because the file name says "programs")
 
 - #### Changes:
 
@@ -276,6 +292,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/AAS-38A**: Long name → **AN/AAS-38A NITE Hawk**.
         - **ATFLIR** → **AN/ASQ-228**. Long name → **AN/ASQ-228 Advanced Targeting Forward-Looking Infrared**.
         - **T220** → **T-220**.
+        - **Prorams** (CM text with a typo) → **Programs** (typo corrected).
     - Description of the **rb 75T**'s modification has been corrected.
 
 ### Engines:

@@ -136,6 +136,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Nešer S**: Long name → **Avions Marcel Dassault-Breguet Aviation / ha-Ta'asiyah ha-'Avirit le-Yisra'el | Nešer S**.
     - **Mirage 5 BA**: Long name → **Avions Marcel Dassault-Breguet Aviation / Sociétés Anonyme Belge de Constructions Aéronautiques | Mirage 5 BA**.
     - **Super Étendard** → **Super Étendard M (S4)**.
+    - **Rafale C (F4.1)** → **Rafale C (F3R)**.
+    - **F-4EJ Kai** → **F-4EJ-MIT Kai**.
 
 ### Weaponry:
 

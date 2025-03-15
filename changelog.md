@@ -138,7 +138,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Super Étendard** → **Super Étendard M (S4)**.
     - **Rafale C (F4.1)** → **Rafale C (F3R)**.
     - **F-4EJ Kai** → **F-4EJ-MIT Kai**.
-    - **T 18 B (akan m/47)** → **T 18 B (57 mm akan m/47)**. Long name → **Saab 18 | T 18 B (57 mm automatkanon m/47)**.
+    - **T 18 B (akan m/47)** → **T 18 B (57 mm akan m/47)**. Long name → **Saab 18 | T 18 B (57 mm automatkanon m/47)**. The folder has been adjusted accordingly.
 
 ### Weaponry:
 

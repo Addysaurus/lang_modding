@@ -55,17 +55,28 @@ All dates are listed in DD-MM-YYYY format.
         - **Harrier T.10**
         - **USS Colorado**
     - **Avions Marcel Dassault-Breguet Aviation** added as the manufacturer to the following vehicles:
+        - **Mirage III C**
+        - **Mirage III CJ** (Israel)
+        - **Mirage III E**
+        - **Mirage 5 F**
+        - **Milan S 01**
         - **Mirage F1 C**
         - **Mirage F1 CT**
         - **Mirage F1 C-200**
         - **Mirage 2000 C S4**
         - **Mirage 2000 C S5**
+        - **Super Étendard M (S4)**
     - **Dassault Aviation** added as the manufacturer for the following vehicles:
         - **Mirage 2000 5F**
         - **Mirage 2000 5EI**
         - **Mirage 2000 D R1**
         - **Mirage 2000 D RMV**
         - **Mirage 4000 (1986)**
+    - **ha-Ta'asiyah ha-'Avirit le-Yisra'el** added as the manufacturer for the following vehicles:
+        - **Kfir Gderot**
+        - **Kfir C.2**
+        - **Kfir C.7**
+        - **Kfir Block 60**
 
 - #### Changes:
 
@@ -104,7 +115,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Schütze** → **Schütze (M 1062)**. Long name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT5 Qīngxíng Tankè**.
         - **Type 74 Red Star** → **74TK (C) (304 Sen Chū)**. Long name → **Mitsubishi Jū Kōgyō | 74 Shiki Sensha C Gata "Nana Yon" (Dai 304 Sensha Chūtai)**.
         - **Harrier T.10** → **Harrier T. Mk. 10**. Long name → **Hawker Siddeley Aviation | Harrier T. Mk. 10**.
-        - **USS Colorado** → **USS Colorado (BB-45)**. Long name → **New York Shipbuilding Corporation | Colorado-class | USS Colorado (BB-45) (1942)**.
+        - **USS Colorado** → **USS Colorado (BB-45)**. Long name → **New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Colorado-class | USS Colorado (BB-45) (1942)**.
         - **FIROS 6** → **Fiat 6614 (FIROS 6)**. Long name → **Fiat OTO Melara Tipo 6614 (FIROS 6)**.
     - **Leopard 2A4NL** → **Leopard 2A4 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm**.
     - **Leopard 2A5NL** → **Leopard 2A5 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm**.
@@ -122,6 +133,9 @@ All dates are listed in DD-MM-YYYY format.
     - **Fiat 6616 (90/38)**: Long name → **Fiat OTO Melara Tipo 6616 con torretta OTO T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38**.
     - **Dunkerque**: Long name → **Arsenal de Brest | Cuirassé Classe Dunkerque | Dunkerque (1939)**.
     - **Strasbourg**: Long name → **Ateliers et Chantiers de la Loire | Cuirassé Classe Dunkerque | Strasbourg (1942)**.
+    - **Nešer S**: Long name → **Avions Marcel Dassault-Breguet Aviation / ha-Ta'asiyah ha-'Avirit le-Yisra'el | Nešer S**.
+    - **Mirage 5 BA**: Long name → **Avions Marcel Dassault-Breguet Aviation / Sociétés Anonyme Belge de Constructions Aéronautiques | Mirage 5 BA**.
+    - **Super Étendard** → **Super Étendard M (S4)**.
 
 ### Weaponry:
 

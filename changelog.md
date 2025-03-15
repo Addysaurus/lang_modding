@@ -117,9 +117,11 @@ All dates are listed in DD-MM-YYYY format.
     - Manufacturer **Zhōngguó Běifāng Gōngyè Gōngsī** → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī**.
     - **ZSU-23-4** (USSR & Israel) → **ZSU-23-4V**.
     - **Ke Ni Kō** → **Ke Ni A**. Long name → **Tōkyō Jidōsha Kōgyō | Ke Ni A**.
-    - The **60APC (ATM-1)**'s long distance tag has been corrected from SPG to ATMC (anti-tank missile carrier).
-    - The **Fiat 6614 (M40A1)**'s long name has been changed to **Fiat OTO Melara Tipo 6614 (M40A1)**.
-    - The **Fiat 6616 (90/38)**'s long name has been changed to **Fiat OTO Melara Tipo 6616 con torretta OTO T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38**.
+    - **60APC (ATM-1)**: long distance tag corrected from SPG to ATMC (anti-tank missile carrier).
+    - **Fiat 6614 (M40A1)**: Long name → **Fiat OTO Melara Tipo 6614 (M40A1)**.
+    - **Fiat 6616 (90/38)**: Long name → **Fiat OTO Melara Tipo 6616 con torretta OTO T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38**.
+    - **Dunkerque**: Long name → **Arsenal de Brest | Cuirassé Classe Dunkerque | Dunkerque (1939)**.
+    - **Strasbourg**: Long name → **Ateliers et Chantiers de la Loire | Cuirassé Classe Dunkerque | Strasbourg (1942)**.
 
 ### Weaponry:
 

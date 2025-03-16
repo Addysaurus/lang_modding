@@ -12,10 +12,14 @@ All dates are listed in DD-MM-YYYY format.
 
 ### General:
 
+- #### Additions:
+
+    - Added Colombia (forgot to add this during the Winter Tales event for the **Kfir Block 60**).
+
 - #### Changes:
 
     - The "Sound modification enabled" text has had its color changed to match the color of the lang mod's version text.
-
+    - The Colombia renamed to **Republic of Colombia / República de Colombia**.
 ### Vehicles:
 
 - #### Additions:
@@ -54,19 +58,20 @@ All dates are listed in DD-MM-YYYY format.
         - **Type 74 Red Star**
         - **Harrier T.10**
         - **USS Colorado**
-    - **Avions Marcel Dassault-Breguet Aviation** added as the manufacturer to the following vehicles:
+    - **Avions Marcel Dassault** added as the manufacturer to the following vehicles:
         - **Mirage III C**
         - **Mirage III CJ** (Israel)
         - **Mirage III E**
+    - **Avions Marcel Dassault-Breguet Aviation** added as the manufacturer to the following vehicles:
         - **Mirage 5 F**
         - **Milan S 01**
         - **Mirage F1 C**
-        - **Mirage F1 CT**
         - **Mirage F1 C-200**
         - **Mirage 2000 C S4**
         - **Mirage 2000 C S5**
         - **Super Étendard M (S4)**
     - **Dassault Aviation** added as the manufacturer for the following vehicles:
+        - **Mirage F1 CT**
         - **Mirage 2000 5F**
         - **Mirage 2000 5EI**
         - **Mirage 2000 D R1**

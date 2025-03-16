@@ -4656,6 +4656,10 @@ su_30sm_2;Su-30
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+ussr_type_65_aa_shop;▂ A24
+ussr_type_65_aa_0;▂ Nhà Máy Q153 | Xe Phòng Không Too Hành 2 Nòng 37mm, A24
+ussr_type_65_aa_1;▂ A24
+ussr_type_65_aa_2;SPAAG
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 ussr_2s19_m1_shop;2S19M1
 ussr_2s19_m1_0;"Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Object 316 | 2S19M1 ""Msta-S"""
@@ -5889,6 +5893,10 @@ j_11b_2;J11
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+cn_type_65_aa_shop;A24
+cn_type_65_aa_0;Nhà Máy Q153 | Xe Phòng Không Too Hành 2 Nòng 37mm, A24
+cn_type_65_aa_1;A24
+cn_type_65_aa_2;SPAAG
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
@@ -5988,6 +5996,22 @@ fr_marder_clovis_1;☨ CLOVIS
 fr_marder_clovis_2;Light tank
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+fr_leopard_2a4nl_shop;◘ Leopard 2A4 NL
+fr_leopard_2a4nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm
+fr_leopard_2a4nl_1;◘ Leopard 2A4 NL
+fr_leopard_2a4nl_2;MBT
+fr_leopard_2a5nl_shop;◘ Leopard 2A5 NL
+fr_leopard_2a5nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm
+fr_leopard_2a5nl_1;◘ Leopard 2A5 NL
+fr_leopard_2a5nl_2;MBT
+fr_leopard_2a6nl_shop;◘ Leopard 2A6 NL
+fr_leopard_2a6nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm
+fr_leopard_2a6nl_1;◘ Leopard 2A6 NL
+fr_leopard_2a6nl_2;MBT
+fr_cv_9035_nl_shop;◘ CV9035NL
+fr_cv_9035_nl_0;◘ BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, CV9035NL met kanon 35 mm
+fr_cv_9035_nl_1;◘ CV9035NL
+fr_cv_9035_nl_2;IFV
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 fr_vtb12_mod_shop;VTB 12
@@ -6537,10 +6561,6 @@ ussr_zis_43_shop;ZiS-43
 ussr_zis_43_0;ZiS-43
 ussr_zis_43_1;ZiS-43
 ussr_zis_43_2;SPAA
-ussr_type_65_aa_shop;▂ T-34 (K-65)
-ussr_type_65_aa_0;▂ Xe tăng T-34 phòng không (Kiêu 65)
-ussr_type_65_aa_1;▂ T-34 (K-65)
-ussr_type_65_aa_2;SPAA
 ussr_zsu_23_4m2_shop;ZSU-23-4M2
 ussr_zsu_23_4m2_0;2A6M2 | ZSU-23-4M2 Šilka-M2
 ussr_zsu_23_4m2_1;ZSU-23-4M2
@@ -7321,10 +7341,6 @@ fr_vbci_shop;VBCI VCI
 fr_vbci_0;Véhicule Blindé de Combat d'Infanterie, Véhicule de Combat d'Infanterie
 fr_vbci_1;VBCI VCI
 fr_vbci_2;IFV
-fr_cv_9035_nl_shop;◘ CV9035NL
-fr_cv_9035_nl_0;◘ Infanteriegevechtsvoertuig CV9035NL
-fr_cv_9035_nl_1;◘ CV9035NL
-fr_cv_9035_nl_2;IFV
 fr_lvt_bofors_shop;☨ LVT(A)(4) (Bofors)
 fr_lvt_bofors_0;☨ Landing Vehicle, Tracked (Armored) (Mk. 4) (Bofors)
 fr_lvt_bofors_1;☨ LVT(A)(4) (Bofors)
@@ -10481,18 +10497,6 @@ fr_amx_32_105_shop;AMX 32 P1
 fr_amx_32_105_0;AMX 32 P1
 fr_amx_32_105_1;AMX 32
 fr_amx_32_105_2;MBT
-fr_leopard_2a4nl_shop;◘ Leopard 2A4 NL
-fr_leopard_2a4nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm
-fr_leopard_2a4nl_1;◘ Leopard 2A4 NL
-fr_leopard_2a4nl_2;MBT
-fr_leopard_2a5nl_shop;◘ Leopard 2A5 NL
-fr_leopard_2a5nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm
-fr_leopard_2a5nl_1;◘ Leopard 2A5 NL
-fr_leopard_2a5nl_2;MBT
-fr_leopard_2a6nl_shop;◘ Leopard 2A6 NL
-fr_leopard_2a6nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm
-fr_leopard_2a6nl_1;◘ Leopard 2A6 NL
-fr_leopard_2a6nl_2;MBT
 fr_amx_40_shop;AMX 40 P4
 fr_amx_40_0;AMX 40 P4
 fr_amx_40_1;AMX 40
@@ -11010,7 +11014,7 @@ it_m14_41_0;Carro Armato Medio Mod. 41
 it_m14_41_1;M. 41
 it_m14_41_2;Medium Tank
 it_leopard_bofors_shop;⛨ Leopard 1 A2 (40/70)
-it_leopard_bofors_0;⛨ Semovente contraereo da 40/70 Bofors su scafo Leopard 1 A2
+it_leopard_bofors_0;⛨ Semovente contraereo da 40/70 Bofors su scafo Leopard 1 Versione A2
 it_leopard_bofors_1;⛨ Leopard 1 (40/70)
 it_leopard_bofors_2;SPAA
 it_m15_42_contraereo_shop;M. 42/Ca
@@ -11462,7 +11466,7 @@ ussr_bt_7a_f32_0;A-7 | BT-7A (F-32)
 ussr_bt_7a_f32_1;BT-7A (F-32)
 ussr_bt_7a_f32_2;Light tank
 it_aubl_74_60_70m_shop;Fiat 6616 (60/70)
-it_aubl_74_60_70m_0;Fiat-OTO-Melara 6616 con torretta OTO-Breda T 60M da 60/70
+it_aubl_74_60_70m_0;Fiat OTO Melara Tipo 6616 con torretta OTO Breda T 60M da 60/70
 it_aubl_74_60_70m_1;Fiat 6616
 it_aubl_74_60_70m_2;Light tank
 i_180_shop;I-180S
@@ -12393,10 +12397,6 @@ cn_type_59d_shop;ZTZ59D1
 cn_type_59d_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ120C | ZTZ1959D1
 cn_type_59d_1;ZTZ59
 cn_type_59d_2;Medium tank
-cn_type_65_aa_shop;T-34 (K-65)
-cn_type_65_aa_0;Xe tăng T-34 phòng không (Kiêu 65)
-cn_type_65_aa_1;T-34 (K-65)
-cn_type_65_aa_2;SPAA
 ussr_destroyer_7y_shop;Soobrazityel'nyj
 ussr_destroyer_7y_0;Pr. 7U, Soobrazityel'nyj, 1943
 ussr_destroyer_7y_1;Soobrazityel'nyj

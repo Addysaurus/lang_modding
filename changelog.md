@@ -120,6 +120,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Leopard 2A4NL** → **Leopard 2A4 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm**.
     - **Leopard 2A5NL** → **Leopard 2A5 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm**.
     - **Leopard 2A6NL** → **Leopard 2A6 NL**. Long name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm**.
+    - **CV9035NL**: Long name → **BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, CV9035NL met kanon 35 mm**.
     - **Wiesel 1 A4 (MK20)** → **Wiesel 1 A4 MK** (yes, this is undoing a change from just 1 patch earlier).
     - **F-84F-51-GK (200 Tayeset)** → **F-84F-51-GK (Ṭayeset 200)**.
     - **Dai 838 Gō** → **Dai 871 Gō**. Long name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 871 Gō**.
@@ -131,6 +132,8 @@ All dates are listed in DD-MM-YYYY format.
     - **60APC (ATM-1)**: long distance tag corrected from SPG to ATMC (anti-tank missile carrier).
     - **Fiat 6614 (M40A1)**: Long name → **Fiat OTO Melara Tipo 6614 (M40A1)**.
     - **Fiat 6616 (90/38)**: Long name → **Fiat OTO Melara Tipo 6616 con torretta OTO T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38**.
+    - **Fiat 6616 (60/70)**: Long name → **Fiat OTO Melara Tipo 6616 con torretta OTO Breda T 60M da 60/70**.
+    - **Leopard 1 A2 (40/70)**: Long name → **Semovente contraereo da 40/70 Bofors su scafo Leopard 1 Versione A2**.
     - **Dunkerque**: Long name → **Arsenal de Brest | Cuirassé Classe Dunkerque | Dunkerque (1939)**.
     - **Strasbourg**: Long name → **Ateliers et Chantiers de la Loire | Cuirassé Classe Dunkerque | Strasbourg (1942)**.
     - **Nešer S**: Long name → **Avions Marcel Dassault-Breguet Aviation / ha-Ta'asiyah ha-'Avirit le-Yisra'el | Nešer S**.
@@ -139,6 +142,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Rafale C (F4.1)** → **Rafale C (F3R)**.
     - **F-4EJ Kai** → **F-4EJ-MIT Kai**.
     - **T 18 B (akan m/47)** → **T 18 B (57 mm akan m/47)**. Long name → **Saab 18 | T 18 B (57 mm automatkanon m/47)**. The folder has been adjusted accordingly.
+    - **T-34 (K-65)** (China & USSR) → **A24**. Long name → **Nhà Máy Q153 | Xe Phòng Không Too Hành 2 Nòng 37mm, A24**.
 
 ### Weaponry:
 

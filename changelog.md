@@ -145,6 +145,7 @@ All dates are listed in DD-MM-YYYY format.
     - **T-34 (K-65)** (China & USSR) → **A24**. Long name → **Nhà Máy Q153 | Xe Phòng Không Too Hành 2 Nòng 37mm, A24**.
     - **Mirage 2000 5EI** (China / Taiwan) → **Huànxiàng 2000‑5**. Long name → **Dassault Aviation | Huànxiàng 2000-5 Xíng Zhànjī**.
     - **Chung 28 Chia** → **Zhōng 28 Jia**. Long name → **CzKB-39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye imyeni Myenžinskogo / Zhōngyāng Nánchāng Fēijī Zhìzào Chang | Zhōng 28 Jia**.
+    - **Jiélíng FFX** → **Jiélíng**. Long name → **Guójiā Zhōngshān Kēxué Yán Jiù Yuàn | Jiélíng Fángkōng Fēidàn Xìtong**.
 
 ### Weaponry:
 
@@ -223,6 +224,9 @@ All dates are listed in DD-MM-YYYY format.
     - **AGM-62A** → **Guided Weapon, MK 1 MOD 0**. Long name → **Guided Weapon, MK 1 MOD 0 Walleye I**.
     - **AGM-62A ER** → **Guided Weapon, MK 3 MOD 0**. Long name → **Guided Weapon, MK 3 MOD 0 Walleye I ER**.
     - The **GBU-54(V)1/B** has had its missing type and mass tags added.
+    - All missiles of the **AIM-7**, **AIM-9**, **AIM-54**, and **AIM-120** series have had their names corrected from **Guided Missile, Air to Air, [missile name]** to **Air-Launched, Intercept-Aerial, Guided Missile, [missile name]**.
+    - All missiles of the **AGM-65**, **AGM-114**, **AGM-123**, and **AGM-130** series have had their names corrected from **Guided Missile, Air to Surface, [missile name]** to **Air-Launched, Surface-Attack, Guided Missile, [missile name]**.
+    - All missiles of the **BGM-71** series have had their names corrected from **Guided Missile, Surface Attack, [missile name]** to **Ground-Launched, Surface-Attack, Guided Missile, [missile name]**.
 
 ### Modifications:
 

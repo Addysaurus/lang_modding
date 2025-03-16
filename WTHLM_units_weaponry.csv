@@ -494,7 +494,7 @@ weapons/cn_ls_6_250;<color=@userlogColoredText>240 kg</color> LS6 <color=#ff6f00
 weapons/cn_ls_6_250/short;LS6
 weapons/cn_ls_6_500;<color=@userlogColoredText>508.3 kg</color> LS6 <color=#ff6f00>BMB-GNSS</color>
 weapons/cn_ls_6_500/short;LS6
-weapons/us_2000lb_agm_130a_12;Guided Missile, Air to Surface, AGM-130A-12 <color=#ff6f00>AGM-IR</color>
+weapons/us_2000lb_agm_130a_12;Air-Launched, Surface-Attack, Guided Missile, AGM-130A-12 <color=#ff6f00>AGM-IR</color>
 weapons/us_2000lb_agm_130a_12/short;AGM-130A-12
 weapons/us_gbu_12_paveway_2;<color=@userlogColoredText>277.14 kg</color> Bomb, Guided, GBU-12/B Paveway II <color=#ff6f00>BMB-LG</color>
 weapons/us_gbu_12_paveway_2/short;GBU-12/B
@@ -516,7 +516,7 @@ weapons/us_2000lb_gbu_24;<color=@userlogColoredText>1079.55 kg</color> Bomb, Gui
 weapons/us_2000lb_gbu_24/short;GBU-24/B
 weapons/us_gbu_39;<color=@userlogColoredText>121.56 kg</color> Bomb, Guided, GBU-39/B Small Diameter Bomb I <color=#ff6f00>BMB-GNSS</color>
 weapons/us_gbu_39/short;GBU-39/B
-weapons/us_agm_123;Guided Missile, Air to Surface, AGM-123A Skipper II <color=#ff6f00>AGM-LG</color>
+weapons/us_agm_123;Air-Launched, Surface-Attack, Guided Missile, AGM-123A Skipper II <color=#ff6f00>AGM-LG</color>
 weapons/us_agm_123/short;AGM-123A
 weapons/us_agm_119a_penguin;Kongsberg Defence & Aerospace | Penguin MK3
 weapons/us_agm_119a_penguin/short;Penguin MK3
@@ -1375,9 +1375,9 @@ weapons/lau_131a_x3;lau 131A
 weapons/lau_131a_x3/short;lau 131A
 weapons/us_500lb_mk_82_x3_ter9a_1;500 lb Mk. 82 bomb
 weapons/us_500lb_mk_82_x3_ter9a_1/short;500 lb
-weapons/dra_lau_105a_aim_9l_lm;Guided Missile, Air to Air, AIM-9L Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/dra_lau_105a_aim_9l_lm;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9L Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/dra_lau_105a_aim_9l_lm/short;AIM-9L
-weapons/dra_lau_105a_aim_9l_rm;Guided Missile, Air to Air, AIM-9L Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/dra_lau_105a_aim_9l_rm;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9L Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/dra_lau_105a_aim_9l_rm/short;AIM-9L
 weapons_types/short/guns;M
 weapons_types/short/cannons;C
@@ -3295,17 +3295,17 @@ weapons/fr_sneb_37;37 mm SNEB rocket
 weapons/fr_sneb_37/short;SNEB 37
 weapons/fr_sneb_type23_4fin;SNEB type 23 rockets
 weapons/fr_sneb_type23_4fin/short;SNEB type 23
-weapons/us_127mm_TOW2;Guided Missile, Surface Attack, BGM-71D-5 TOW-2 <color=#ff6f00>ATGM-WG</color>
+weapons/us_127mm_TOW2;Ground-Launched, Surface-Attack, Guided Missile, BGM-71D-5 TOW-2 <color=#ff6f00>ATGM-WG</color>
 weapons/us_127mm_TOW2/short;BGM-71D-5
-weapons/us_127mm_TOW;Guided Missile, Surface Attack, BGM-71С ITOW <color=#ff6f00>ATGM-WG</color>
+weapons/us_127mm_TOW;Ground-Launched, Surface-Attack, Guided Missile, BGM-71С ITOW <color=#ff6f00>ATGM-WG</color>
 weapons/us_127mm_TOW/short;BGM-71C
-weapons/us_bgm_71_tow_heli;Guided Missile, Surface Attack, BGM-71С ITOW <color=#ff6f00>AGM-WG</color>
+weapons/us_bgm_71_tow_heli;Ground-Launched, Surface-Attack, Guided Missile, BGM-71С ITOW <color=#ff6f00>AGM-WG</color>
 weapons/us_bgm_71_tow_heli/short;BGM-71C
-weapons/us_bgm_71_tow_heli_default;Guided Missile, Surface Attack, BGM-71С ITOW <color=#ff6f00>AGM-WG</color>
+weapons/us_bgm_71_tow_heli_default;Ground-Launched, Surface-Attack, Guided Missile, BGM-71С ITOW <color=#ff6f00>AGM-WG</color>
 weapons/us_bgm_71_tow_heli_default/short;BGM-71C
-weapons/us_bgm_71_tow2_heli;Guided Missile, Surface Attack, BGM-71D-5 TOW-2 <color=#ff6f00>AGM-WG</color>
+weapons/us_bgm_71_tow2_heli;Ground-Launched, Surface-Attack, Guided Missile, BGM-71D-5 TOW-2 <color=#ff6f00>AGM-WG</color>
 weapons/us_bgm_71_tow2_heli/short;BGM-71D-5
-weapons/us_bgm_71_tow2_heli_default;Guided Missile, Surface Attack, BGM-71D-5 TOW-2 <color=#ff6f00>AGM-WG</color>
+weapons/us_bgm_71_tow2_heli_default;Ground-Launched, Surface-Attack, Guided Missile, BGM-71D-5 TOW-2 <color=#ff6f00>AGM-WG</color>
 weapons/us_bgm_71_tow2_heli_default/short;BGM-71D-5
 weapons/euro_hot;HOT-1 missile
 weapons/euro_hot/short;HOT-1
@@ -3474,49 +3474,49 @@ weapons/flare_launcher_jet/short;Flares
 flare_launcher;Flares
 weapons/fr_sneb_type23_TDA;68 mm TDA rocket
 weapons/fr_sneb_type23_TDA/short;TDA 68 mm
-weapons/us_hellfire_agm_114_b;Guided Missile, Air to Surface, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
+weapons/us_hellfire_agm_114_b;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
 weapons/us_hellfire_agm_114_b/short;AGM-114B
-weapons/us_hellfire_agm_114_b_default;Guided Missile, Air to Surface, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
+weapons/us_hellfire_agm_114_b_default;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
 weapons/us_hellfire_agm_114_b_default/short;AGM-114B
-weapons/us_hellfire_agm_114_k;Guided Missile, Air to Surface, AGM-114K Hellfire II <color=#ff6f00>AGM-LG</color>
+weapons/us_hellfire_agm_114_k;Air-Launched, Surface-Attack, Guided Missile, AGM-114K Hellfire II <color=#ff6f00>AGM-LG</color>
 weapons/us_hellfire_agm_114_k/short;AGM-114K
-weapons/us_hellfire_agm_114_k_default;Guided Missile, Air to Surface, AGM-114K Hellfire II <color=#ff6f00>AGM-LG</color>
+weapons/us_hellfire_agm_114_k_default;Air-Launched, Surface-Attack, Guided Missile, AGM-114K Hellfire II <color=#ff6f00>AGM-LG</color>
 weapons/us_hellfire_agm_114_k_default/short;AGM-114K
-weapons/us_hellfire_agm_114_k_ucav_default;Guided Missile, Air to Surface, AGM-114K Hellfire II <color=#ff6f00>AGM-LG</color>
+weapons/us_hellfire_agm_114_k_ucav_default;Air-Launched, Surface-Attack, Guided Missile, AGM-114K Hellfire II <color=#ff6f00>AGM-LG</color>
 weapons/us_hellfire_agm_114_k_ucav_default/short;AGM-114K
-weapons/us_hellfire_agm_114_c;Guided Missile, Air to Surface, AGM-114C Hellfire <color=#ff6f00>AGM-LG</color>
+weapons/us_hellfire_agm_114_c;Air-Launched, Surface-Attack, Guided Missile, AGM-114C Hellfire <color=#ff6f00>AGM-LG</color>
 weapons/us_hellfire_agm_114_c/short;AGM-114C
-weapons/us_aim7c_sparrow;Guided Missile, Air to Air, AIM-7C Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7c_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7C Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7c_sparrow/short;AIM-7C
-weapons/us_aim7d_sparrow;Guided Missile, Air to Air, AIM-7D Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7d_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7D Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7d_sparrow/short;AIM-7D
-weapons/us_aim7e_sparrow;Guided Missile, Air to Air, AIM-7E Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7e_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7E Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7e_sparrow/short;AIM-7E
-weapons/us_aim7e2_sparrow;Guided Missile, Air to Air, AIM-7E-2 Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7e2_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7E-2 Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7e2_sparrow/short;AIM-7E-2
-weapons/us_aim7f_sparrow;Guided Missile, Air to Air, AIM-7F Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7f_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7F Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7f_sparrow/short;AIM-7F
-weapons/us_aim7f_sparrow_default;Guided Missile, Air to Air, AIM-7F Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7f_sparrow_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7F Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7f_sparrow_default/short;AIM-7F
-weapons/us_aim7m_sparrow;Guided Missile, Air to Air, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7m_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7m_sparrow/short;AIM-7M
-weapons/us_aim7e2_dogfight_sparrow;Guided Missile, Air to Air, AIM-7E-2 Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7e2_dogfight_sparrow;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7E-2 Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7e2_dogfight_sparrow/short;AIM-7E-2
-weapons/us_aim7f_sparrow_f_14;Guided Missile, Air to Air, AIM-7F Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7f_sparrow_f_14;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7F Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7f_sparrow_f_14/short;AIM-7F
-weapons/us_aim7m_sparrow_f_14;Guided Missile, Air to Air, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7m_sparrow_f_14;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7m_sparrow_f_14/short;AIM-7M
-weapons/us_aim7m_sparrow_f_15;Guided Missile, Air to Air, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7m_sparrow_f_15;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7m_sparrow_f_15/short;AIM-7M
-weapons/us_aim7m_sparrow_f_15_default;Guided Missile, Air to Air, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7m_sparrow_f_15_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7m_sparrow_f_15_default/short;AIM-7M
-weapons/us_aim7m_sparrow_f_16;Guided Missile, Air to Air, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7m_sparrow_f_16;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7m_sparrow_f_16/short;AIM-7M
-weapons/us_aim7m_sparrow_f_16_default;Guided Missile, Air to Air, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7m_sparrow_f_16_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7m_sparrow_f_16_default/short;AIM-7M
-weapons/us_aim7p_sparrow_fa_18;Guided Missile, Air to Air, AIM-7P-2 Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7p_sparrow_fa_18;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7P-2 Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7p_sparrow_fa_18/short;AIM-7P-2
-weapons/us_aim7p_sparrow_fa_18_default;Guided Missile, Air to Air, AIM-7P-2 Sparrow <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim7p_sparrow_fa_18_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-7P-2 Sparrow <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim7p_sparrow_fa_18_default/short;AIM-7P-2
 weapons/uk_skyflash_aim_7;Skyflash <color=#ff6f00>AAM-SARH</color>
 weapons/uk_skyflash_aim_7/short;Skyflash
@@ -3536,65 +3536,65 @@ weapons/swd_rb99;robot 99 <color=#ff6f00>AAM-ARH</color>
 weapons/swd_rb99/short;rb 99
 weapons/swd_rb99_default;robot 99 <color=#ff6f00>AAM-ARH</color>
 weapons/swd_rb99_default/short;rb 99
-weapons/us_aim9b_sidewinder;Guided Missile, Air to Air, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9b_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9b_sidewinder/short;AIM-9B
-weapons/us_aim9b_sidewinder_default;Guided Missile, Air to Air, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9b_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9b_sidewinder_default/short;AIM-9B
-weapons/us_aim9b_sidewinder_default_group;Guided Missile, Air to Air, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9b_sidewinder_default_group;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9b_sidewinder_default_group/short;AIM-9B
-weapons/us_aim9b_sidewinder_cwp;Guided Missile, Air to Air, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9b_sidewinder_cwp;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9b_sidewinder_cwp/short;AIM-9B
-weapons/us_aim9b_fgw_2_sidewinder;Guided Missile, Air to Air, AIM-9B FGW. 2 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9b_fgw_2_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9B FGW. 2 Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9b_fgw_2_sidewinder/short;AIM-9B FGW. 2
-weapons/us_aim9p4_sidewinder;Guided Missile, Air to Air, AIM-9P-4 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9p4_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9P-4 Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9p4_sidewinder/short;AIM-9P-4
-weapons/us_aim9p4_sidewinder_default;Guided Missile, Air to Air, AIM-9P-4 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9p4_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9P-4 Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9p4_sidewinder_default/short;AIM-9P-4
-weapons/us_aim9p_sidewinder;Guided Missile, Air to Air, AIM-9P-3 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9p_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9P-3 Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9p_sidewinder/short;AIM-9P-3
-weapons/us_aim9p_sidewinder_default;Guided Missile, Air to Air, AIM-9P-3 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9p_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9P-3 Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9p_sidewinder_default/short;AIM-9P-3
-weapons/us_aim9c_sidewinder;Guided Missile, Air to Air, AIM-9C Sidewinder <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim9c_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9C Sidewinder <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim9c_sidewinder/short;AIM-9C
-weapons/us_aim9c_sidewinder_default;Guided Missile, Air to Air, AIM-9C Sidewinder <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim9c_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9C Sidewinder <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim9c_sidewinder_default/short;AIM-9C
-weapons/us_aim9c_sidewinder_default_group;Guided Missile, Air to Air, AIM-9C Sidewinder <color=#ff6f00>AAM-SARH</color>
+weapons/us_aim9c_sidewinder_default_group;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9C Sidewinder <color=#ff6f00>AAM-SARH</color>
 weapons/us_aim9c_sidewinder_default_group/short;AIM-9C
-weapons/us_aim9d_sidewinder;Guided Missile, Air to Air, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9d_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9d_sidewinder/short;AIM-9D
-weapons/us_aim9d_sidewinder_default;Guided Missile, Air to Air, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9d_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9d_sidewinder_default/short;AIM-9D
-weapons/us_aim9d_sidewinder_default_group;Guided Missile, Air to Air, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9d_sidewinder_default_group;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9d_sidewinder_default_group/short;AIM-9D
-weapons/us_aim9d_sidewinder_cwp;Guided Missile, Air to Air, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9d_sidewinder_cwp;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9D Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9d_sidewinder_cwp/short;AIM-9D
-weapons/us_aim9g_sidewinder;Guided Missile, Air to Air, AIM-9G Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9g_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9G Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9g_sidewinder/short;AIM-9G
-weapons/us_aim9g_sidewinder_default;Guided Missile, Air to Air, AIM-9G Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9g_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9G Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9g_sidewinder_default/short;AIM-9G
-weapons/us_aim9h_sidewinder;Guided Missile, Air to Air, AIM-9H Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9h_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9H Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9h_sidewinder/short;AIM-9H
-weapons/us_aim9j_sidewinder;Guided Missile, Air to Air, AIM-9J Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9j_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9J Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9j_sidewinder/short;AIM-9J
-weapons/us_aim9j_sidewinder_default;Guided Missile, Air to Air, AIM-9J Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9j_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9J Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9j_sidewinder_default/short;AIM-9J
-weapons/us_aim_54a;Guided Missile, Air to Air, AIM-54A Phoenix <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_54a;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54A Phoenix <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_54a/short;AIM-54A
-weapons/us_aim_54a_default;Guided Missile, Air to Air, AIM-54A Phoenix <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_54a_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54A Phoenix <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_54a_default/short;AIM-54A
-weapons/us_aim_54c;Guided Missile, Air to Air, AIM-54C Phoenix <color=#ff6f00>AAM-ARH</color>
-weapons/us_aim_54c_default;Guided Missile, Air to Air, AIM-54C Phoenix <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_54c;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_54c_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_54c_default/short;AIM-54C
 weapons/us_aim_54c/short;AIM-54C
-weapons/us_aim_120a;Guided Missile, Air to Air, AIM-120A AMRAAM <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_120a;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120A AMRAAM <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120a/short;AIM-120A
-weapons/us_aim_120a_default;Guided Missile, Air to Air, AIM-120A AMRAAM <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_120a_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120A AMRAAM <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120a_default/short;AIM-120A
-weapons/us_aim_120b_default;Guided Missile, Air to Air, AIM-120B AMRAAM <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_120b_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120B AMRAAM <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120b_default/short;AIM-120B
-weapons/us_aim_120b;Guided Missile, Air to Air, AIM-120B AMRAAM <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_120b;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120B AMRAAM <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120b/short;AIM-120B
-weapons/us_aim_120b_bol_pod;Guided Missile, Air to Air, AIM-120B AMRAAM <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_120b_bol_pod;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120B AMRAAM <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120b_bol_pod/short;AIM-120B
 weapons/uk_fireflash;Fireflash <color=#ff6f00>AAM-RG</color>
 weapons/uk_fireflash/short;Fireflash
@@ -3692,23 +3692,23 @@ weapons/su_r_27t1;R-27T1 <color=#ff6f00>AAM-IR</color>
 weapons/su_r_27t1/short;R-27T1
 weapons/su_r_27er1;R-27ÈR1 <color=#ff6f00>AAM-SARH</color>
 weapons/su_r_27er1/short;R-27ÈR1
-weapons/us_aim9l_sidewinder;Guided Missile, Air to Air, AIM-9L Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9l_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9L Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9l_sidewinder/short;AIM-9L
 weapons/us_aim9l_i_sidewinder;AIM-9L/I Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9l_i_sidewinder/short;AIM-9L/I
 weapons/us_aim9l_i_sidewinder_default;AIM-9L/I Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9l_i_sidewinder_default/short;AIM-9L/I
-weapons/us_aim9l_sidewinder_default;Guided Missile, Air to Air, AIM-9L Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9l_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9L Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9l_sidewinder_default/short;AIM-9L
-weapons/us_aim9l_sidewinder_bol_pod;Guided Missile, Air to Air, AIM-9L Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9l_sidewinder_bol_pod;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9L Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9l_sidewinder_bol_pod/short;AIM-9L
-weapons/us_aim9l_sidewinder_default_bol_pod;Guided Missile, Air to Air, AIM-9L Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9l_sidewinder_default_bol_pod;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9L Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9l_sidewinder_default_bol_pod/short;AIM-9L
-weapons/us_aim9m_sidewinder;Guided Missile, Air to Air, AIM-9M-4 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9m_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9M-4 Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9m_sidewinder/short;AIM-9M-4
-weapons/us_aim9m_sidewinder_default;Guided Missile, Air to Air, AIM-9M-4 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9m_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9M-4 Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9m_sidewinder_default/short;AIM-9M-4
-weapons/us_aim9m_sidewinder_bol_pod;Guided Missile, Air to Air, AIM-9M-4 Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9m_sidewinder_bol_pod;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9M-4 Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9m_sidewinder_bol_pod/short;AIM-9M-4
 weapons/us_aim9l_i_1_sidewinder;AIM-9L/I-1 Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9l_i_1_sidewinder/short;AIM-9L/I-1
@@ -3734,9 +3734,9 @@ weapons/swd_rb74m_default;robot 74 (Renovation, Modifikation) <color=#ff6f00>AAM
 weapons/swd_rb74m_default/short;rb 74 (REMO)
 weapons/swd_rb74m_bol_pod;robot 74 (Renovation, Modifikation) <color=#ff6f00>AAM-IR</color>
 weapons/swd_rb74m_bol_pod/short;rb 74 (REMO)
-weapons/us_aim9e_sidewinder;Guided Missile, Air to Air, AIM-9E Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9e_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9E Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9e_sidewinder/short;AIM-9E
-weapons/us_aim9e_sidewinder_default;Guided Missile, Air to Air, AIM-9E Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9e_sidewinder_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9E Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9e_sidewinder_default/short;AIM-9E
 weapons/su_9M39;9M39V Igla-V <color=#ff6f00>AAM-IR</color>
 weapons/su_9M39/short;9M39V
@@ -3879,23 +3879,23 @@ weapons/euro_atgw3;PARS 3 LR air-to-ground missile
 weapons/euro_atgw3/short;PARS 3 LR
 weapons/euro_trigat_lr;TRIGAT-LR air-to-ground missiles
 weapons/euro_trigat_lr/short;TRIGAT-LR
-weapons/us_agm_65a;Guided Missile, Air to Surface, AGM-65A <color=#ff6f00>AGM-EO</color>
+weapons/us_agm_65a;Air-Launched, Surface-Attack, Guided Missile, AGM-65A <color=#ff6f00>AGM-EO</color>
 weapons/us_agm_65a/short;AGM-65A
-weapons/us_agm_65b;Guided Missile, Air to Surface, AGM-65B <color=#ff6f00>AGM-EO</color>
+weapons/us_agm_65b;Air-Launched, Surface-Attack, Guided Missile, AGM-65B <color=#ff6f00>AGM-EO</color>
 weapons/us_agm_65b/short;AGM-65B
-weapons/us_agm_65d;Guided Missile, Air to Surface, AGM-65D <color=#ff6f00>AGM-IR</color>
+weapons/us_agm_65d;Air-Launched, Surface-Attack, Guided Missile, AGM-65D <color=#ff6f00>AGM-IR</color>
 weapons/us_agm_65d/short;AGM-65D
-weapons/us_agm_65e;Guided Missile, Air to Surface, AGM-65E <color=#ff6f00>AGM-LG</color>
+weapons/us_agm_65e;Air-Launched, Surface-Attack, Guided Missile, AGM-65E <color=#ff6f00>AGM-LG</color>
 weapons/us_agm_65e/short;AGM-65E
-weapons/us_agm_65e2;Guided Missile, Air to Surface, AGM-65E-2 <color=#ff6f00>AGM-LG</color>
+weapons/us_agm_65e2;Air-Launched, Surface-Attack, Guided Missile, AGM-65E-2 <color=#ff6f00>AGM-LG</color>
 weapons/us_agm_65e2/short;AGM-65E-2
-weapons/us_agm_65f;Guided Missile, Air to Surface, AGM-65F <color=#ff6f00>AGM-IR</color>
+weapons/us_agm_65f;Air-Launched, Surface-Attack, Guided Missile, AGM-65F <color=#ff6f00>AGM-IR</color>
 weapons/us_agm_65f/short;AGM-65F
-weapons/us_agm_65g;Guided Missile, Air to Surface, AGM-65G <color=#ff6f00>AGM-IR</color>
+weapons/us_agm_65g;Air-Launched, Surface-Attack, Guided Missile, AGM-65G <color=#ff6f00>AGM-IR</color>
 weapons/us_agm_65g/short;AGM-65G
-weapons/us_agm_65h;Guided Missile, Air to Surface, AGM-65H <color=#ff6f00>AGM-CCD</color>
+weapons/us_agm_65h;Air-Launched, Surface-Attack, Guided Missile, AGM-65H <color=#ff6f00>AGM-CCD</color>
 weapons/us_agm_65h/short;AGM-65H
-weapons/us_agm_65l;Guided Missile, Air to Surface, AGM-65L <color=#ff6f00>AGM-LG</color>
+weapons/us_agm_65l;Air-Launched, Surface-Attack, Guided Missile, AGM-65L <color=#ff6f00>AGM-LG</color>
 weapons/us_agm_65l/short;AGM-65L
 weapons/uk_brimstone_dm;Brimstone <color=#ff6f00>AGM-LG</color>
 weapons/uk_brimstone_dm/short;Brimstone

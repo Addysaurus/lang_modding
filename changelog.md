@@ -146,6 +146,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Mirage 2000 5EI** (China / Taiwan) → **Huànxiàng 2000‑5**. Long name → **Dassault Aviation | Huànxiàng 2000-5 Xíng Zhànjī**.
     - **Chung 28 Chia** → **Zhōng 28 Jia**. Long name → **CzKB-39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye imyeni Myenžinskogo / Zhōngyāng Nánchāng Fēijī Zhìzào Chang | Zhōng 28 Jia**.
     - **Jiélíng FFX** → **Jiélíng**. Long name → **Guójiā Zhōngshān Kēxué Yán Jiù Yuàn | Jiélíng Fángkōng Fēidàn Xìtong**.
+    - **A-35B-VU** → **A-35B-1-VN**.
 
 ### Weaponry:
 

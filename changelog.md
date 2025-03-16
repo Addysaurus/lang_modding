@@ -143,6 +143,8 @@ All dates are listed in DD-MM-YYYY format.
     - **F-4EJ Kai** → **F-4EJ-MIT Kai**.
     - **T 18 B (akan m/47)** → **T 18 B (57 mm akan m/47)**. Long name → **Saab 18 | T 18 B (57 mm automatkanon m/47)**. The folder has been adjusted accordingly.
     - **T-34 (K-65)** (China & USSR) → **A24**. Long name → **Nhà Máy Q153 | Xe Phòng Không Too Hành 2 Nòng 37mm, A24**.
+    - **Mirage 2000 5EI** (China / Taiwan) → **Huànxiàng 2000‑5**. Long name → **Dassault Aviation | Huànxiàng 2000-5 Xíng Zhànjī**.
+    - **Chung 28 Chia** → **Zhōng 28 Jia**. Long name → **CzKB-39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye imyeni Myenžinskogo / Zhōngyāng Nánchāng Fēijī Zhìzào Chang | Zhōng 28 Jia**.
 
 ### Weaponry:
 

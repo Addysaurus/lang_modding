@@ -109,7 +109,7 @@ All dates are listed in DD-MM-YYYY format.
         - **IJN Matsu** → **Matsu**. Long name → **Maizuru Kaigun Kōshō | Ittō Kuchikukan | Matsu Gata Kuchikukan (F-55) | Matsu**.
         - **HMS Warspite** → **HMS Warspite (03)**. Long name → **Devonport Royal Dockyard / Naval Station Durban | Queen Elizabeth-class | HMS Warspite (03) (1943)**.
         - **Grecale** → **Grecale (GR)**. Long name → **Cantieri Navali del Tirreno e Riuniti / Arsenale militare marittimo della Spezia | Cacciatorpediniere Classe Maestrale | Gercale (GR) (1949)**.
-        - **MTB-35** → **HMS MTB 35**. Long name → **Vosper & Co. | Vosper 70 feet-type-class | HMS MTB 35**.
+        - **MTB-35** → **HMS MTB 35**. Long name → **Vosper & Co. | Vosper 70 ft-class | HMS MTB 35**.
         - **VTB-12** → **VTB 12**. Long name → **Ateliers et Chantiers de la Loire | Vedette Torpilleur VTB 12**.
         - **VTB-18** → **VTB 18**. Long name → **Chantiers Jouët | Vedette Torpilleur VTB 18**.
         - **Type T-14 (mod. 2)** → **Dai 1101 Gō**. Long name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 1101 Gō**.

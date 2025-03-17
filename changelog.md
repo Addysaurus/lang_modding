@@ -152,6 +152,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Chung 28 Chia** → **Zhōng 28 Jia**. Long name → **CzKB-39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye imyeni Myenžinskogo / Zhōngyāng Nánchāng Fēijī Zhìzào Chang | Zhōng 28 Jia**.
     - **Jiélíng FFX** → **Jiélíng**. Long name → **Guójiā Zhōngshān Kēxué Yán Jiù Yuàn | Jiélíng Fángkōng Fēidàn Xìtong**.
     - **A-35B-VU** → **A-35B-1-VN**.
+    - **Heinkel | He 112 A-0** → **He 112 A-0**. Long name → **Heinkel | He 112 A-0**. Basically, the short and long names were reversed.
 
 ### Weaponry:
 

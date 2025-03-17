@@ -153,6 +153,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Jiélíng FFX** → **Jiélíng**. Long name → **Guójiā Zhōngshān Kēxué Yán Jiù Yuàn | Jiélíng Fángkōng Fēidàn Xìtong**.
     - **A-35B-VU** → **A-35B-1-VN**.
     - **Heinkel | He 112 A-0** → **He 112 A-0**. Long name → **Heinkel | He 112 A-0**. Basically, the short and long names were reversed.
+    - **P1Y1** (China / Taiwan): Long name → **Nakajima Hikōki | Ginga 11 Gata | P1Y1**.
 
 ### Weaponry:
 

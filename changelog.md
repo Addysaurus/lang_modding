@@ -8,6 +8,15 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.12.01 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - British coastal fleet rework:
+        - **LÉ Orla (P 41)** → **L.É. Orla (P 41)**. Long name → **Hall, Russell & Co. | Peacock-class | L.É. Orla (P 41)**.
+
 ## 1.12.00 - 18-3-2025
 
 ### General:
@@ -20,6 +29,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - The "Sound modification enabled" text has had its color changed to match the color of the lang mod's version text.
     - The Colombia renamed to **Republic of Colombia / República de Colombia**.
+
 ### Vehicles:
 
 - #### Additions:

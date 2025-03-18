@@ -8,7 +8,7 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.12.00 - UNRELEASED
+## 1.12.00 - 18-3-2025
 
 ### General:
 

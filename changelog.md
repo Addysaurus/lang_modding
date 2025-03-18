@@ -91,7 +91,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Harry Hopkins I** → **Harry Hopkins, Mk I**. Long name → **Vickers-Armstrongs | Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I**.
         - **J-11B** → **J11B**. Long name → **Shěnyáng Fēijī Gōngyè (Jítuán) | J11B ""Yìng Lóng"**.
         - **XM246**: Long name → **General Dynamics Land Systems | Gun, Air Defence Artillery, Self-Propelled: 35 mm, XM246**.
-        - **Rapier** → **RCM 748, Mk. 1B (Rapier)**. Long name → **British Aircraft Corporation | Tracked Rapier Launcher Vehicle, RCM 748, Mk. 1B (Rapier)**.
+        - **Rapier** → **RCM 748, Mk. 1B**. Long name → **British Aircraft Corporation | Tracked Rapier Launcher Vehicle, RCM 748, Mk. 1B**.
         - **Ariete Сertezza** → **Ariete (WAR) (20° Corso)**. Long name → **Consorzio Iveco Oto Melara | C1 Ariete (Kit WAR) (20° Corso "Certezza")**.
         - **Su-30SM**: Long name → **PAO Kompaniâ Sukhoj | izd. T-10PU | Su-30SM**.
         - **F-18C** (Finland) → **HN**. Long name → **McDonnell Douglas Corporation Model 267 | HN "Hornet"**.

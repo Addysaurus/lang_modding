@@ -18,6 +18,8 @@ All dates are listed in DD-MM-YYYY format.
         - **LÉ Orla (P 41)** → **L.É. Orla (P 41)**. Long name → **Hall, Russell & Co. | Peacock-class | L.É. Orla (P 41)**.
     - **Mirage 4000 (1986)**: Long name → **Avions Marcel Dassault-Breguet Aviation | Mirage 4000 (1986)**.
     - **Harrier T. Mk. 10**: Long name → **British Aerospace / McDonnell Douglas Corporation | Harrier T. Mk. 10**.
+    - **2S19M1**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Ob"yekt 316 | 2S19M1 "Msta-S"**.
+    - **2S19M2**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Ob"yekt 316 | 2S19M2 "Msta-S"**.
 
 ## 1.12.00 - 18-3-2025
 

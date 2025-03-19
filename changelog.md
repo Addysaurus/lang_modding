@@ -17,6 +17,7 @@ All dates are listed in DD-MM-YYYY format.
     - British coastal fleet rework:
         - **LÉ Orla (P 41)** → **L.É. Orla (P 41)**. Long name → **Hall, Russell & Co. | Peacock-class | L.É. Orla (P 41)**.
     - **Mirage 4000 (1986)**: Long name → **Avions Marcel Dassault-Breguet Aviation | Mirage 4000 (1986)**.
+    - **Harrier T. Mk. 10**: Long name → **British Aerospace / McDonnell Douglas Corperation | Harrier T. Mk. 10**.
 
 ## 1.12.00 - 18-3-2025
 

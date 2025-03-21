@@ -22,6 +22,12 @@ All dates are listed in DD-MM-YYYY format.
     - **2S19M2**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Ob"yekt 316 | 2S19M2 "Msta-S"**.
     - **Ayanami**: Long name → **Fujinagata Zōsensho | Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)**.
 
+### Weaponry:
+
+- #### Changes:
+
+    - **7.72 mm Lewis machinegun 1916** → **Lewis Gun Mk. II**. It has recieved its caliber and type tags.
+
 ## 1.12.00 - 18-3-2025
 
 ### General:

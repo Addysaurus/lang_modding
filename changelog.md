@@ -15,7 +15,40 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - British coastal fleet rework:
+        - **MTB-1 (1)** → **HMS MTB 7 (Lewis Gun Mk. II)**. Long name → **British Power Boat Co. | BPB 60 ft-class | HMS MTB 7 (Lewis Gun Mk. II)**.
+        - **MTB-1 (2)** → **HMS MTB 16**. Long name → **British Power Boat Co. | BPB 60 ft-class | HMS MTB 16**.
+        - **Fairmile A (ML100)** → **HMS ML 100**. Long name → **Woodnutt & Co. / Bembridge Harbour | Fairmile Type A-class | HMS ML 100 (1940)**.
+        - **Fairmile B (ML345)** → **HMS ML 345**. Long name → **Diesel Constructors | Fairmile Type B-class | HMS ML 345**.
+        - **Fairmile C (312)** → **HMS MGB 312**. Long name → **Woodnutt & Co. | Fairmile Type C-class | HMS MGB 312**.
+        - **Fairmile C (332)** → **HMS MGB 332**. Long name → **James A. Silver | Fairmile Type C-class | HMS MGB 332**.
+        - **Fairmile D (697)** → **HMS MTB 697**. Long name → **Woodnutt & Co. | Fairmile Type D-class | HMS MTB 697**.
+        - **Fairmile D (601)** → **HMS MGB 601**. Long name → **Tough Bros | Fairmile Type D-class | HMS MGB 601**.
+        - **Fairmile D (617)** → **HMS MGB 617**. Long name → **William Osbourne | Fairmile Type D-class | HMS MGB 617**.
+        - **Fairmile D (5001)** → **HMS MTB 5001**. Long name → **Woodnutt & Co. | Fairmile Type D-class | HMS MTB 5001**.
+        - **LCS(L)(2) 257** → **HMS LCS(L)(2) 257**. Long name → **Austins of East Ham | Fairmile Type H-class | HMS LCS(L)(2) 257**.
+        - **MGB-61** → **HMS MGB 61**. Long name → **British Power Boat Co. | BPB 70 ft-class | HMS MGB 61**.
+        - **MTB Vosper (1)** → **HMS MTB 23**. Long name → **Vosper & Co. | Vosper 70 ft-class | HMS MTB 23**.
+        - **MTB Vosper (2)** → **HMS MTB 234**. Long name → **Vosper & Co. | Vosper 72 ft-class | HMS MTB 234**.
+        - **HMS ML 1383** → **HMS HDML 1383**. Long name → **Anderson Rigden & Perkins | HDML-class | HMS HDML 1383**.
+        - **Dark Adventurer (FPB1101)** → **HMS Dark Adventurer (P 1101)**. Long name → **Saunders-Roe | Dark-class | HMS Dark Adventurer (P 1101)**.
+        - **Dark Aggressor (FPB1102)** (Standard & Twitch drop) → **HMS Dark Aggressor (P 1102)**. Long name → **Saunders-Roe | Dark-class | HMS Dark Aggressor (P 1102)**.
+        - **HMS Liscomb (T285)** → **HMS Liscomb (T 285)**. Long name → **Kingston Shipbuilding Co. | Isles-class | HMS Liscomb (T 285)**.
+        - **HMCS Brantford (K218)** → **HMCS Brantford (K 218)**. Long name → **Midland Shipyards / Cockatoo Island Dockyard | Flower-class | HMCS Brantford (K 218) (1944)**.
+        - **MGB-75** → **MGB 75**. Long name → **British Power Boat Co. | BPB 72 ft-class | HMS MGB 75**.
+        - **HMS Gay Archer (P1041)** → **HMS Gay Archer (P 1041)**. Long name → **Vosper & Co. | Gay-class | HMS Gay Archer (P 1041)**.
+        - **SGB Grey Goose (S309)** → **HMS Grey Goose (S 309)**. Long name → **J. Samuel White & Co. | SGB-class | HMS Grey Goose (S 309)**.
+        - **SGB Grey Fox (S304)** → **HMS Grey Fox (S 304)**. Long name → **Yarrow & Co. | SGB-class | HMS Grey Fox (S 304)**.
+        - **MTB-422** → **HMS MTB 422**. Long name → **Higgins Industies | Higgins 78'-class | HMS MTB 422**.
+        - **HMAS Arrow (P88)** → **HMAS Arrow (P 88)**. Long name → **John Walker & Co. | Attack-class | HMAS Arrow (P 88)**.
+        - **HMAS Fremantle (FCPB 203)**: Long name → **Brooke Marine | Fremantle-class | HMAS Fremantle (FCPB 203)**.
         - **LÉ Orla (P 41)** → **L.É. Orla (P 41)**. Long name → **Hall, Russell & Co. | Peacock-class | L.É. Orla (P 41)**.
+        - **HMS Peacock (P239)** → **HMS Peacock (P 239)**. Long name → **Hall, Russell & Co. | Peacock-class | HMS Peacock (P 239)**.
+        - **HMS Whitby (F36)** → **HMS Whitby (F 36)**. Long name → **Cammell Laird & Co. | Whitby-class | HMS Whitby (F 36)**.
+        - **HMS Blackpool (F77)** → **HMS Blackpool (F 77)**. Long name → **Harland & Wolff Group Holdings | Whitby-class | HMS Blackpool (F 77)**.
+        - **HMS Spey (K246)** → **HMS Spey (K 246)**. Long name → **Smiths Dock Co. / Sir Lanka Navy Dockyard | River-class | HMS Spey (K 246) (1944)**.
+        - **Brave Borderer (P1011)** → **HMS Brave Borderer (P 1011)**. Long name → **Vosper & Co. | Brave-class | HMS Brave Borderer (P 1011)**.
+        - **HMCS Terra Nova (DDE 259)**: Long name → **Brooke Marine | Fremantle-class | HMAS Fremantle (FCPB 203)**.
+        - **HMS Leopard (F14)** → **HMS Leopard (F 14)**. Long name → **Portsmouth Royal Dockyard | Leopard-class | HMS Leopard (F 14)**.
     - **Mirage 4000 (1986)**: Long name → **Avions Marcel Dassault-Breguet Aviation | Mirage 4000 (1986)**.
     - **Harrier T. Mk. 10**: Long name → **British Aerospace / McDonnell Douglas Corporation | Harrier T. Mk. 10**.
     - **2S19M1**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Ob"yekt 316 | 2S19M1 "Msta-S"**.

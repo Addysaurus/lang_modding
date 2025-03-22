@@ -4719,18 +4719,154 @@ uk_tracked_rapier_1;RCM 748, Mk. 1
 uk_tracked_rapier_2;SPAAM
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+uk_mtb_1series_shop;HMS MTB 7
+uk_mtb_1series_0;British Power Boat Co. | BPB 60 ft-class | HMS MTB 7
+uk_mtb_1series_1;HMS MTB 7
+uk_mtb_1series_2;Motor Torpedo Boat
+uk_mtb_2series_shop;HMS MTB 16
+uk_mtb_2series_0;British Power Boat Co. | BPB 60 ft-class | HMS MTB 16
+uk_mtb_2series_1;HMS MTB 16
+uk_mtb_2series_2;Motor Torpedo Boat
 uk_mtb35_vosper_shop;HMS MTB 35
 uk_mtb35_vosper_0;Vosper & Co. | Vosper 70 ft-class | HMS MTB 35
 uk_mtb35_vosper_1;HMS MTB 35
 uk_mtb35_vosper_2;Motor gun boat
+uk_mtb_vosper_1series_shop;HMS MTB 23
+uk_mtb_vosper_1series_0;Vosper & Co. | Vosper 70 ft-class | HMS MTB 23
+uk_mtb_vosper_1series_1;HMS MTB 23
+uk_mtb_vosper_1series_2;Motor Torpedo Boat
+uk_mtb_vosper_2series_shop;HMS MTB 234
+uk_mtb_vosper_2series_0;Vosper & Co. | Vosper 72 ft-class | HMS MTB 234
+uk_mtb_vosper_2series_1;HMS MTB 234
+uk_mtb_vosper_2series_2;Motor Torpedo Boat
+uk_fairmile_a_ml100_shop;HMS ML 100
+uk_fairmile_a_ml100_0;Woodnutt & Co. / Bembridge Harbour | Fairmile Type A-class | HMS ML 100 (1940)
+uk_fairmile_a_ml100_1;HMS ML 100
+uk_fairmile_a_ml100_2;Motor Launch
+uk_fairmile_b_ml345_shop;HMS ML 345
+uk_fairmile_b_ml345_0;Diesel Constructors | Fairmile Type B-class | HMS ML 345
+uk_fairmile_b_ml345_1;HMS ML 345
+uk_fairmile_b_ml345_2;Motor Launch
+uk_fairmile_c_shop;HMS MGB 312
+uk_fairmile_c_0;Woodnutt & Co. | Fairmile Type C-class | HMS MGB 312
+uk_fairmile_c_1;HMS MGB 312
+uk_fairmile_c_2;Motor Gun Boat
+uk_fairmile_c_332_shop;HMS MGB 332
+uk_fairmile_c_332_0;James A. Silver | Fairmile Type C-class | HMS MGB 332
+uk_fairmile_c_332_1;HMS MGB 332
+uk_fairmile_c_332_2;Motor Gun Boat
+uk_fairmile_d_697_800_shop;HMS MTB 697
+uk_fairmile_d_697_800_0;Woodnutt & Co. | Fairmile Type D-class | HMS MTB 697
+uk_fairmile_d_697_800_1;HMS MTB 697
+uk_fairmile_d_697_800_2;Motor Torpedo Boat
+uk_fairmile_d_601_616_shop;HMS MGB 601
+uk_fairmile_d_601_616_0;Tough Bros | Fairmile Type D-class | HMS MGB 601
+uk_fairmile_d_601_616_1;HMS MGB 601
+uk_fairmile_d_601_616_2;Motor Gun Boat
+uk_fairmile_d_617_632_shop;HMS MGB 617
+uk_fairmile_d_617_632_0;William Osbourne | Fairmile Type D-class | HMS MGB 617
+uk_fairmile_d_617_632_1;HMS MGB 617
+uk_fairmile_d_617_632_2;Motor Torpedo Boat
+uk_fairmile_d_5001_5029_shop;HMS MTB 5001
+uk_fairmile_d_5001_5029_0;Woodnutt & Co. | Fairmile Type D-class | HMS MTB 5001
+uk_fairmile_d_5001_5029_1;HMS MTB 5001
+uk_fairmile_d_5001_5029_2;Motor Torpedo Boat
+uk_fairmile_lcs_l_h_mk2_shop;HMS LCS(L)(2) 257
+uk_fairmile_lcs_l_h_mk2_0;Austins of East Ham | Fairmile Type H-class | HMS LCS(L)(2) 257
+uk_fairmile_lcs_l_h_mk2_1;HMS LCS(L)(2) 257
+uk_fairmile_lcs_l_h_mk2_2;Motor Gun Boat
+uk_70ft_mgb_shop;HMS MGB 61
+uk_70ft_mgb_0;British Power Boat Co. | BPB 70 ft-class | HMS MGB 61
+uk_70ft_mgb_1;HMS MGB 61
+uk_70ft_mgb_2;Motor Gun Boat
+uk_hdml_ml1383_shop;HMS HDML 1383
+uk_hdml_ml1383_0;Anderson Rigden & Perkins | HDML-class | HMS HDML 1383
+uk_hdml_ml1383_1;HMS HDML 1383
+uk_hdml_ml1383_2;Harbour Defence Motor Launch
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+uk_dark_class_shop;HMS Dark Adventurer (P 1101)
+uk_dark_class_0;Saunders-Roe | Dark-class | HMS Dark Adventurer (P 1101)
+uk_dark_class_1;HMS Dark Adventurer
+uk_dark_class_2;Motor Gun Boat
+uk_dark_class_mtb_shop;HMS Dark Aggressor (P 1102)
+uk_dark_class_mtb_0;Saunders-Roe | Dark-class | HMS Dark Aggressor (P 1102)
+uk_dark_class_mtb_1;HMS Dark Aggressor
+uk_dark_class_mtb_2;Motor Gun Boat
+uk_dark_class_mtb_td_shop;⋦ HMS Dark Aggressor (P 1102)
+uk_dark_class_mtb_td_0;⋦ Saunders-Roe | Dark-class | HMS Dark Aggressor (P 1102)
+uk_dark_class_mtb_td_1;⋦ HMS Dark Aggressor
+uk_dark_class_mtb_td_2;Motor Torpedo Boat
+uk_isles_class_trawler_shop;HMS Liscomb (T 285)
+uk_isles_class_trawler_0;Kingston Shipbuilding Co. | Isles-class | HMS Liscomb (T 285)
+uk_isles_class_trawler_1;HMS Liscomb
+uk_isles_class_trawler_2;Anti-Submarine Trawler
+uk_flower_class_shop;HMCS Brantford (K 218)
+uk_flower_class_0;Midland Shipyards / Cockatoo Island Dockyard | Flower-class | HMCS Brantford (K 218) (1944)
+uk_flower_class_1;HMCS Brantford
+uk_flower_class_2;Corvette
+uk_71ft_mgb_shop;HMS MGB 75
+uk_71ft_mgb_0;British Power Boat Co. | BPB 72 ft-class | HMS MGB 75
+uk_71ft_mgb_1;HMS MGB 75
+uk_71ft_mgb_2;Motor Gun Boat
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+uk_gay_class_archer_shop;HMS Gay Archer (P 1041)
+uk_gay_class_archer_0;Vosper & Co. | Gay-class | HMS Gay Archer (P 1041)
+uk_gay_class_archer_1;HMS Gay Archer
+uk_gay_class_archer_2;Motor Torpedo Boat
+uk_sgb_309_shop;HMS Grey Goose (S 309)
+uk_sgb_309_0;J. Samuel White & Co. | SGB-class | HMS Grey Goose (S 309)
+uk_sgb_309_1;HMS Grey Goose
+uk_sgb_309_2;Steam Gun Boat
+uk_sgb_304_shop;HMS Grey Fox (S 304)
+uk_sgb_304_0;Yarrow & Co. | SGB-class | HMS Grey Fox (S 304)
+uk_sgb_304_1;HMS Grey Fox
+uk_sgb_304_2;Steam Gun Boat
+uk_higgins_78ft_mtb422_shop;HMS MTB 422
+uk_higgins_78ft_mtb422_0;Higgins Industies | Higgins 78'-class | HMS MTB 422
+uk_higgins_78ft_mtb422_1;HMS MTB 422
+uk_higgins_78ft_mtb422_2;Motor Torpedo Boat
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+uk_attack_class_arrow_shop;HMAS Arrow (P 88)
+uk_attack_class_arrow_0;John Walker & Co. | Attack-class | HMAS Arrow (P 88)
+uk_attack_class_arrow_1;HMAS Arrow
+uk_attack_class_arrow_2;Patrol Boat
+uk_fremantle_class_shop;HMAS Fremantle (FCPB 203)
+uk_fremantle_class_0;Brooke Marine | Fremantle-class | HMAS Fremantle (FCPB 203)
+uk_fremantle_class_1;HMAS Fremantle
+uk_fremantle_class_2;Patrol Boat
 uk_corvette_orla_shop;L.É. Orla (P 41)
 uk_corvette_orla_0;Hall, Russell & Co. | Peacock-class | L.É. Orla (P 41)
 uk_corvette_orla_1;L.É. Orla
 uk_corvette_orla_2;Corvette
+uk_corvette_peacock_shop;HMS Peacock (P 239)
+uk_corvette_peacock_0;Hall, Russell & Co. | Peacock-class | HMS Peacock (P 239)
+uk_corvette_peacock_1;HMS Peacock
+uk_corvette_peacock_2;Corvette
+uk_frigate_whitby_shop;HMS Whitby (F 36)
+uk_frigate_whitby_0;Cammell Laird & Co. | Whitby-class | HMS Whitby (F 36)
+uk_frigate_whitby_1;HMS Whitby
+uk_frigate_whitby_2;Anti-Submarine Frigate
+uk_frigate_whitby_blackpool_shop;HMS Blackpool (F 77)
+uk_frigate_whitby_blackpool_0;Harland & Wolff Group Holdings | Whitby-class | HMS Blackpool (F 77)
+uk_frigate_whitby_blackpool_1;HMS Blackpool
+uk_frigate_whitby_blackpool_2;Anti-Submarine Frigate
+uk_frigate_river_shop;HMS Spey (K 246)
+uk_frigate_river_0;Smiths Dock Co. / Sir Lanka Navy Dockyard | River-class | HMS Spey (K 246) (1944)
+uk_frigate_river_1;HMS Spey
+uk_frigate_river_2;Frigate
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+uk_brave_borderer_shop;HMS Brave Borderer (P 1011)
+uk_brave_borderer_0;Vosper & Co. | Brave-class | HMS Brave Borderer (P 1011)
+uk_brave_borderer_1;HMS Brave Borderer
+uk_brave_borderer_2;Motor Torpedo Boat
+uk_destroyer_restigouche_class_terranova_shop;HMCS Terra Nova (DDE 259)
+uk_destroyer_restigouche_class_terranova_0;Victoria Machinery Depot | Restigouche-class | HMCS Terra Nova (DDE 259)
+uk_destroyer_restigouche_class_terranova_1;HMCS Terra Nova
+uk_destroyer_restigouche_class_terranova_2;Destroyer Escort
+uk_frigate_leopard_shop;HMS Leopard (F 14)
+uk_frigate_leopard_0;Portsmouth Royal Dockyard | Leopard-class | HMS Leopard (F 14)
+uk_frigate_leopard_1;HMS Leopard
+uk_frigate_leopard_2;Anti-Aircraft Frigate
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
@@ -12973,58 +13109,14 @@ ussr_destroyer_frunze_shop;Frunzye
 ussr_destroyer_frunze_0;Novik-class, Frunzye, 1940
 ussr_destroyer_frunze_1;Frunzye
 ussr_destroyer_frunze_2;Destroyer
-uk_70ft_mgb_shop;MGB-61
-uk_70ft_mgb_0;70 ft MGB-61
-uk_70ft_mgb_1;MGB-61
-uk_70ft_mgb_2;Motor Gun Boat
-uk_mtb_1series_shop;MTB-1 (1)
-uk_mtb_1series_0;MTB-1 1 series
-uk_mtb_1series_1;MTB-1 (1)
-uk_mtb_1series_2;Motor Torpedo Boat
-uk_mtb_vosper_1series_shop;MTB Vosper (1)
-uk_mtb_vosper_1series_0;MTB Vosper 1 series
-uk_mtb_vosper_1series_1;MTB Vosper (1)
-uk_mtb_vosper_1series_2;Motor Torpedo Boat
-uk_mtb_vosper_2series_shop;MTB Vosper (2)
-uk_mtb_vosper_2series_0;MTB Vosper 2 series
-uk_mtb_vosper_2series_1;MTB Vosper (2)
-uk_mtb_vosper_2series_2;Motor Torpedo Boat
-uk_sgb_304_shop;SGB Grey Fox (S304)
-uk_sgb_304_0;SGB Grey Fox (S304)
-uk_sgb_304_1;SGB Grey Fox
-uk_sgb_304_2;Steam Gun Boat
-uk_sgb_309_shop;SGB Grey Goose (S309)
-uk_sgb_309_0;SGB Grey Goose (S309)
-uk_sgb_309_1;SGB Grey Goose
-uk_sgb_309_2;Steam Gun Boat
 uk_brave_borderer_shop;Brave Borderer (P1011)
 uk_brave_borderer_0;Brave-class, Brave Borderer (P1011)
 uk_brave_borderer_1;Brave Borderer
 uk_brave_borderer_2;Motor Torpedo Boat
-uk_dark_class_shop;Dark Adventurer (FPB1101)
-uk_dark_class_0;Dark-class, Dark Adventurer (FPB1101)
-uk_dark_class_1;Dark Adventurer
-uk_dark_class_2;Motor Gun Boat
-uk_dark_class_mtb_shop;Dark Aggressor (FPB1102)
-uk_dark_class_mtb_0;Dark-class, Dark Aggressor (FPB1102)
-uk_dark_class_mtb_1;Dark Aggressor
-uk_dark_class_mtb_2;Motor Torpedo Boat
-uk_isles_class_trawler_shop;HMS Liscomb (T285)
-uk_isles_class_trawler_0;Isles-class, HMS Liscomb (T285)
-uk_isles_class_trawler_1;HMS Liscomb (T285)
-uk_isles_class_trawler_2;Gunboat
 uk_destroyer_haida_shop;HMCS Haida (G 63)
 uk_destroyer_haida_0;Vickers-Armstrongs | Tribal-class | HMCS Haida (G 63)
 uk_destroyer_haida_1;HMCS Haida
 uk_destroyer_haida_2;Destroyer
-uk_fairmile_a_ml100_shop;Fairmile A (ML100)
-uk_fairmile_a_ml100_0;Fairmile A (ML100)
-uk_fairmile_a_ml100_1;Fairmile A (ML100)
-uk_fairmile_a_ml100_2;Motor Gun Boat
-uk_fairmile_b_ml345_shop;Fairmile B (ML345)
-uk_fairmile_b_ml345_0;Fairmile B (ML345)
-uk_fairmile_b_ml345_1;Fairmile B (ML345)
-uk_fairmile_b_ml345_2;Motor Gun Boat
 uk_destroyer_g_grafton_shop;HMS Grafton (H 89)
 uk_destroyer_g_grafton_0;John I. Thornycroft & Co. | G-class | HMS Grafton (H 89)
 uk_destroyer_g_grafton_1;HMS Grafton
@@ -13039,26 +13131,6 @@ uk_destroyer_tribal_2;Destroyer
 uk_destroyer_tribal_EC_0;Vickers-Armstrongs / Barrow-in-Furness | Tribal-class | HMS Eskimo (G 75) (1940)
 uk_destroyer_tribal_EC_1;HMS Eskimo
 uk_destroyer_tribal_EC_2;Destroyer
-uk_fairmile_c_332_shop;Fairmile C (332)
-uk_fairmile_c_332_0;Fairmile C (332)
-uk_fairmile_c_332_1;Fairmile C (332)
-uk_fairmile_c_332_2;Motor Gun Boat
-uk_fairmile_d_697_800_shop;Fairmile D (697)
-uk_fairmile_d_697_800_0;Fairmile D (697)
-uk_fairmile_d_697_800_1;Fairmile D (697)
-uk_fairmile_d_697_800_2;Motor Torpedo Boat
-uk_fairmile_c_shop;Fairmile C (312)
-uk_fairmile_c_0;Fairmile C (312)
-uk_fairmile_c_1;Fairmile C (312)
-uk_fairmile_c_2;Motor Gun Boat
-uk_fairmile_d_617_632_shop;Fairmile D (617)
-uk_fairmile_d_617_632_0;Fairmile D (617)
-uk_fairmile_d_617_632_1;Fairmile D (617)
-uk_fairmile_d_617_632_2;Motor Torpedo Boat
-uk_fairmile_d_601_616_shop;Fairmile D (601)
-uk_fairmile_d_601_616_0;Fairmile D (601)
-uk_fairmile_d_601_616_1;Fairmile D (601)
-uk_fairmile_d_601_616_2;Motor Gun Boat
 uk_destroyer_clemson_churchill_shop;HMS Churchill (I 45)
 uk_destroyer_clemson_churchill_0;Newport News Shipbuilding and Dry Dock Co. / Charleston Naval Shipyard | Town-class | HMS Churchill (I 45) (1943)
 uk_destroyer_clemson_churchill_1;HMS Churchill
@@ -13097,14 +13169,6 @@ uk_destroyer_hunt_4series_shop;HMS Brissenden (L 79)
 uk_destroyer_hunt_4series_0;John I. Thornycroft & Co. / Pembroke Dockyard | Type IV Hunt-class | HMS Brissenden (L 79) (1945)
 uk_destroyer_hunt_4series_1;HMS Brissenden
 uk_destroyer_hunt_4series_2;Destroyer
-uk_flower_class_shop;HMCS Brantford (K218)
-uk_flower_class_0;Flower-class, HMCS Brantford (K218)
-uk_flower_class_1;HMCS Brantford (K218)
-uk_flower_class_2;Corvette
-uk_frigate_river_shop;HMS Spey (K246)
-uk_frigate_river_0;River-class, HMS Spey (K246)
-uk_frigate_river_1;HMS Spey (K246)
-uk_frigate_river_2;Frigate
 germ_escort_typem1943_shop;M 601
 germ_escort_typem1943_0;Minensuchboot Typ 1943, M 601
 germ_escort_typem1943_1;M 601
@@ -13140,10 +13204,6 @@ ussr_pr_123k_hydrofoils_shop;TK-996 (A-10bis)
 ussr_pr_123k_hydrofoils_0;Malyj Torpediyj Katyer Proyekt 123K, TK-996 (A-10bis)
 ussr_pr_123k_hydrofoils_1;TK-996 (A-10bis)
 ussr_pr_123k_hydrofoils_2;Motor Torpedo Boat
-uk_fairmile_d_5001_5029_shop;Fairmile D (5001)
-uk_fairmile_d_5001_5029_0;Fairmile D (5001)
-uk_fairmile_d_5001_5029_1;Fairmile D (5001)
-uk_fairmile_d_5001_5029_2;Motor Torpedo Boat
 germ_destroyer_class1936_z20_tutorial_shop;Destroyer
 germ_destroyer_class1936_z20_tutorial_0;Destroyer
 germ_destroyer_class1936_z20_tutorial_1;Destroyer
@@ -13151,10 +13211,6 @@ germ_destroyer_class1936_z20_tutorial_2;Destroyer
 germ_destroyer_class1936_z20_tutorial_EC_0;Destroyer
 germ_destroyer_class1936_z20_tutorial_EC_1;Destroyer
 germ_destroyer_class1936_z20_tutorial_EC_2;Destroyer
-uk_mtb_2series_shop;MTB-1 (2)
-uk_mtb_2series_0;MTB-1 2 series
-uk_mtb_2series_1;MTB-1 (2)
-uk_mtb_2series_2;Motor Torpedo Boat
 ussr_destroyer_moskva_shop;Moskvá
 ussr_destroyer_moskva_0;Lyeningrád-class, Moskvá, 1941
 ussr_destroyer_moskva_1;Moskvá
@@ -13254,10 +13310,6 @@ ussr_pr_1204_shop;AK-222
 ussr_pr_1204_0;Artillyerijskiye Katyer Proyekt 1204 Shmel', AK-222
 ussr_pr_1204_1;AK-222
 ussr_pr_1204_2;Armored boat
-uk_71ft_mgb_shop;MGB-75
-uk_71ft_mgb_0;71 ft MGB-75
-uk_71ft_mgb_1;MGB-75
-uk_71ft_mgb_2;Motor Gun Boat
 ussr_mbk_161_1943_shop;BK-501
 ussr_mbk_161_1943_0;Bronyekatyer Proyekt 161, BK-501 (1943)
 ussr_mbk_161_1943_1;BK-501
@@ -13460,10 +13512,6 @@ ussr_skr_pr50_jenot_shop;Yenot
 ussr_skr_pr50_jenot_0;Storozhyevyye Korabl' Proyekt 50, Tip Gornostaj, Yenot
 ussr_skr_pr50_jenot_1;Yenot
 ussr_skr_pr50_jenot_2;Patrol ship
-uk_corvette_peacock_shop;HMS Peacock (P239)
-uk_corvette_peacock_0;Peacock-class, HMS Peacock (P239)
-uk_corvette_peacock_1;HMS Peacock (P239)
-uk_corvette_peacock_2;Corvette
 it_mas_classe500_3_1944_shop;MAS 561
 it_mas_classe500_3_1944_0;Cantieri Baglietto | Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie | MAS 561
 it_mas_classe500_3_1944_1;MAS 561
@@ -13535,10 +13583,6 @@ uk_destroyer_g_garland_shop;ORP Garland (H 37)
 uk_destroyer_g_garland_0;Fairfield Shipbuilding & Engineering Co. / Smiths Dockyard | G-class | ORP Garland (H 37) (1942)
 uk_destroyer_g_garland_1;ORP Garland
 uk_destroyer_g_garland_2;Destroyer
-uk_dark_class_mtb_td_shop;⋦ Dark Aggressor (FPB1102)
-uk_dark_class_mtb_td_0;⋦ Dark-сlass, Dark Aggressor (FPB1102)
-uk_dark_class_mtb_td_1;⋦ Dark Aggressor
-uk_dark_class_mtb_td_2;Motor Torpedo Boat
 germ_battlecruiser_von_der_tann_shop;SMS Von der Tann
 germ_battlecruiser_von_der_tann_0;SMS Von der Tann, 1914
 germ_battlecruiser_von_der_tann_1;SMS Von der Tann
@@ -13567,10 +13611,6 @@ ussr_skr_pr50plo_rosomacha_shop;Rosomakha
 ussr_skr_pr50plo_rosomacha_0;Storozhyevyye Korabl' Proyekt 50, Tip Gornostaj, Rosomakha
 ussr_skr_pr50plo_rosomacha_1;Rosomakha
 ussr_skr_pr50plo_rosomacha_2;Patrol ship
-uk_frigate_whitby_blackpool_shop;HMS Blackpool (F77)
-uk_frigate_whitby_blackpool_0;Whitby-class, HMS Blackpool (F77)
-uk_frigate_whitby_blackpool_1;HMS Blackpool (F77)
-uk_frigate_whitby_blackpool_2;Frigate
 it_cruiser_etna_class_shop;Etna
 it_cruiser_etna_class_0;Cantiere navale Triestino | Incrociatore Leggero Classe Etna | Etna
 it_cruiser_etna_class_1;Etna
@@ -13599,10 +13639,6 @@ ussr_destroyer_pr30bis_bezuprechnyi_shop;Byezupryečnyj
 ussr_destroyer_pr30bis_bezuprechnyi_0;Pr. 30bis, Byezupryečnyj, 1950
 ussr_destroyer_pr30bis_bezuprechnyi_1;Byezupryečnyj
 ussr_destroyer_pr30bis_bezuprechnyi_2;Destroyer
-uk_frigate_leopard_shop;HMS Leopard (F14)
-uk_frigate_leopard_0;Leopard-class, HMS Leopard (F14)
-uk_frigate_leopard_1;HMS Leopard (F14)
-uk_frigate_leopard_2;Frigate
 germ_type143_bussard_shop;Bussard (S 64)
 germ_type143_bussard_0;Flugkörper-Schnellboot Albatros-Klasse (Typ 143), Bussard (S 64)
 germ_type143_bussard_1;Bussard
@@ -13619,10 +13655,6 @@ it_destroyer_leone_class_shop;Leone (LE)
 it_destroyer_leone_class_0;Cantiere navale di Sestri Ponente | Esploratore Classe Leone | Leone (LE) (1936)
 it_destroyer_leone_class_1;Leone
 it_destroyer_leone_class_2;Destroyer
-uk_fairmile_lcs_l_h_mk2_shop;LCS(L)(2) 257
-uk_fairmile_lcs_l_h_mk2_0;Fairmile H LCS(L)257
-uk_fairmile_lcs_l_h_mk2_1;LCS(L)(2) 257
-uk_fairmile_lcs_l_h_mk2_2;Motor Gun Boat
 ussr_battleship_parizhskaya_kommuna_shop;Parižskaâ Kommuna
 ussr_battleship_parizhskaya_kommuna_0;Syevastopol'-class, Parižskaâ Kommuna, 1941
 ussr_battleship_parizhskaya_kommuna_1;Parižskaâ Kommuna
@@ -13719,10 +13751,6 @@ it_cruiser_eugenio_di_savoia_shop;Eugenio di Savoia
 it_cruiser_eugenio_di_savoia_0;Cantiere navale di Sestri Ponente / Cantiere navale di Castellammare di Stabia | Incrociatore Leggero Classe Condottieri Tipo Emanuele Filiberto Duca d'Aosta | Eugenio di Savoia (1943)
 it_cruiser_eugenio_di_savoia_1;Eugenio di Savoia
 it_cruiser_eugenio_di_savoia_2;Light Cruiser
-uk_higgins_78ft_mtb422_shop;MTB-422
-uk_higgins_78ft_mtb422_0;Higgins 78ft MTB-422
-uk_higgins_78ft_mtb422_1;MTB-422
-uk_higgins_78ft_mtb422_2;Motor Torpedo Boat
 uk_destroyer_v_class_valhalla_shop;HMS Valhalla (D 44)
 uk_destroyer_v_class_valhalla_0;Cammell Laird & Co. / Port Edgar | Admiralty V-class | HMS Valhalla (D 44) (1923)
 uk_destroyer_v_class_valhalla_1;HMS Valhalla
@@ -13751,10 +13779,6 @@ germ_battleship_bayern_shop;SMS Bayern
 germ_battleship_bayern_0;Bayern-class, SMS Bayern, 1916
 germ_battleship_bayern_1;SMS Bayern
 germ_battleship_bayern_2;Battleship
-uk_hdml_ml1383_shop;HMS ML 1383
-uk_hdml_ml1383_0;Harbour Defence Motor Launch, HMS ML 1383
-uk_hdml_ml1383_1;ML 1383
-uk_hdml_ml1383_2;Motor Gun Boat
 ussr_battlecruiser_kronshtadt_shop;Kronštadt
 ussr_battlecruiser_kronshtadt_0;Project 69, Kronštadt
 ussr_battlecruiser_kronshtadt_1;Kronštadt
@@ -13791,10 +13815,6 @@ it_destroyer_navigatori_class_verazzano_shop;Giovanni da Verazzano (DV)
 it_destroyer_navigatori_class_verazzano_0;Cantieri navali del Quarnaro | Cacciatorpediniere Classe Navigatori | Giovanni da Verazzano (DV) (1940)
 it_destroyer_navigatori_class_verazzano_1;Giovanni da Verazzano
 it_destroyer_navigatori_class_verazzano_2;Destroyer
-uk_attack_class_arrow_shop;HMAS Arrow (P88)
-uk_attack_class_arrow_0;Attack-class, HMAS Arrow (P88)
-uk_attack_class_arrow_1;HMAS Arrow (P88)
-uk_attack_class_arrow_2;Gunboat
 it_battleship_andrea_doria_shop;Andrea Doria
 it_battleship_andrea_doria_0;Arsenale militare marittimo della Spezia | Corazzata Classe Duilio | Andrea Doria (1925)
 it_battleship_andrea_doria_1;Andrea Doria
@@ -13875,14 +13895,6 @@ fr_destroyer_aigle_class_aigle_shop;Aigle (X 13)
 fr_destroyer_aigle_class_aigle_0;Aigle-class, Aigle (X 13), 1942
 fr_destroyer_aigle_class_aigle_1;Aigle
 fr_destroyer_aigle_class_aigle_2;Destroyer
-uk_frigate_whitby_shop;HMS Whitby (F36)
-uk_frigate_whitby_0;Whitby-class, HMS Whitby (F36)
-uk_frigate_whitby_1;HMS Whitby
-uk_frigate_whitby_2;Frigate
-uk_destroyer_restigouche_class_terranova_shop;HMCS Terra Nova (DDE 259)
-uk_destroyer_restigouche_class_terranova_0;Restigouche-class, HMCS Terra Nova (DDE 259)
-uk_destroyer_restigouche_class_terranova_1;HMCS Terra Nova
-uk_destroyer_restigouche_class_terranova_2;Frigate
 ussr_mpk_204_shop;MPK-88
 ussr_mpk_204_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 204, MPK-88
 ussr_mpk_204_1;MPK-88
@@ -14021,10 +14033,6 @@ uk_battleship_iron_duke_shop;HMS Iron Duke (18)
 uk_battleship_iron_duke_0;Portsmouth Royal Dockyard | Iron Duke-class | HMS Iron Duke (18) (1929)
 uk_battleship_iron_duke_1;HMS Iron Duke
 uk_battleship_iron_duke_2;Dreadnought
-uk_gay_class_archer_shop;HMS Gay Archer (P1041)
-uk_gay_class_archer_0;Gay-class, HMS Gay Archer (P1041)
-uk_gay_class_archer_1;HMS Gay Archer
-uk_gay_class_archer_2;Motor torpedo boat
 it_battleship_conte_di_cavour_shop;Conte di Cavour
 it_battleship_conte_di_cavour_0;Arsenale militare marittimo della Spezia / Cantiere navale Triestino | Corazzata Classe Conte di Cavour | Conte di Cavour (1944)
 it_battleship_conte_di_cavour_1;Conte di Cavour
@@ -14181,10 +14189,6 @@ fr_frigate_croix_de_lorraine_class_la_surprise_shop;La Surprise (F 08)
 fr_frigate_croix_de_lorraine_class_la_surprise_0;Chamois-class, La Surprise (F 08)
 fr_frigate_croix_de_lorraine_class_la_surprise_1;La Surprise
 fr_frigate_croix_de_lorraine_class_la_surprise_2;Frigate
-uk_fremantle_class_shop;HMAS Fremantle (FCPB 203)
-uk_fremantle_class_0;Fremantle-class, HMAS Fremantle (FCPB 203)
-uk_fremantle_class_1;HMAS Fremantle
-uk_fremantle_class_2;MGB
 it_mas441_shop;MAS 441
 it_mas441_0;Cantieri Baglietto | Motoscafo Antisommergibili Tipo Baglietto 1934 | MAS 441
 it_mas441_1;MAS 441

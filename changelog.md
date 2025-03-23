@@ -54,12 +54,16 @@ All dates are listed in DD-MM-YYYY format.
     - **2S19M1**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Ob"yekt 316 | 2S19M1 "Msta-S"**.
     - **2S19M2**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Ob"yekt 316 | 2S19M2 "Msta-S"**.
     - **Ayanami**: Long name → **Fujinagata Zōsensho | Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)**.
+    - **le.Pz.Spw. 204 (f) (Pa.K.)** (Germany & France) → **le.Pz.Spw. 204 (f) (Kw.K. 39/1)**. Long name → **Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Kw.K. 39/1 L/60**.
+    - **T-80UM2** → **T-80U (Drozd)**. Long name → **Kirovskij zavod | Ob"yekt 219AS | T-80U obr. 1995 g. (KAZ Drozd)**.
 
 ### Weaponry:
 
 - #### Changes:
 
     - **7.72 mm Lewis machinegun 1916** → **Lewis Gun Mk. II**. It has recieved its caliber and type tags.
+    - **50 mm KwK.39/1 cannon** → **5cm Kampfwagenkanone 39/1 L/60**. It has recieved its caliber and type tags.
+    - The **2A64** and **2A64M2** have had their caliber tags corrected to not accidentally display the color formatting tags instead of the colored text.
 
 ## 1.12.00 - 18-3-2025
 

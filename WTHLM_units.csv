@@ -4591,8 +4591,8 @@ germ_amd_35_kwk_shop;le.Pz.Spw. 204 (f) (5cm)
 germ_amd_35_kwk_0;leichter Panzerspähwagen 204 (f) m. 5cm K.w.K. 38 L/42
 germ_amd_35_kwk_1;le.Pz.Spw. 204 (f) (5cm)
 germ_amd_35_kwk_2;Light tank
-germ_amd_35_kwk39_shop;le.Pz.Spw. 204 (f) (Pa.K.)
-germ_amd_35_kwk39_0;Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Pa.K. 38 L/60
+germ_amd_35_kwk39_shop;le.Pz.Spw. 204 (f) (Kw.K. 39/1)
+germ_amd_35_kwk39_0;Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Kw.K. 39/1 L/60
 germ_amd_35_kwk39_1;le.Pz.Spw. 204 (f)
 germ_amd_35_kwk39_2;Light tank
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
@@ -4671,6 +4671,10 @@ ussr_2s19_m2_1;2S19M2
 ussr_2s19_m2_2;SPH
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+ussr_t_80um2_shop;T-80U (Drozd)
+ussr_t_80um2_0;"Kirovskij zavod | Ob""yekt 219AS | T-80U obr. 1995 g. (KAZ Drozd)"
+ussr_t_80um2_1;T-80U
+ussr_t_80um2_2;MBT
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 ussr_pr_103_sm4_shop;TKA №164
@@ -6135,8 +6139,8 @@ tiger_hac_france_1;☨ Tigre HAC
 tiger_hac_france_2;☨ Tigre
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
-fr_amd_35_kwk39_shop;☨ le.Pz.Spw. 204 (f) (Pa.K.)
-fr_amd_35_kwk39_0;☨ Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Pa.K. 38 L/60
+fr_amd_35_kwk39_shop;☨ le.Pz.Spw. 204 (f) (Kw.K. 39/1)
+fr_amd_35_kwk39_0;☨ Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Kw.K. 39/1 L/60
 fr_amd_35_kwk39_1;☨ le.Pz.Spw. 204 (f)
 fr_amd_35_kwk39_2;Light tank
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
@@ -11581,10 +11585,6 @@ ussr_t_80uk_shop;T-80UK
 ussr_t_80uk_0;"Ob""yekt 630A | T-80UK obr. 1992 g."
 ussr_t_80uk_1;T-80UK
 ussr_t_80uk_2;MBT
-ussr_t_80um2_shop;T-80UM2
-ussr_t_80um2_0;"Ob""yekt 219AS | T-80UM2 obr. 1995 g."
-ussr_t_80um2_1;T-80UM2
-ussr_t_80um2_2;MBT
 ussr_t_80u_shop;T-80U
 ussr_t_80u_0;"Ob""yekt 219AS | T-80U obr. 1993 g. isp. Shvedskiy"
 ussr_t_80u_1;T-80U

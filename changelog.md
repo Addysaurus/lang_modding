@@ -12,6 +12,19 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **PA-200** added as the **Panavia Aircraft** manufacturer designation for the following vehicles:
+        - **Tornado G.R. Mk. 1**
+        - **Tornado G.R. Mk. 4**
+        - **Tornado F. Mk. 3** (UK & Italy)
+        - **Tornado F. Mk. 3 (AOP)**
+        - **A-200A**
+        - **A-200A (1995)**
+        - **IDS-Tornado (MFG)**
+        - **IDS-Tornado (WTD 61)**
+        - **IDS-Tornado (ASSTA 3)**
+
 - #### Changes:
 
     - British coastal fleet rework:

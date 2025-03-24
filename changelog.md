@@ -56,6 +56,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Ayanami**: Long name → **Fujinagata Zōsensho | Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)**.
     - **le.Pz.Spw. 204 (f) (Pa.K.)** (Germany & France) → **le.Pz.Spw. 204 (f) (Kw.K. 39/1)**. Long name → **Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Kw.K. 39/1 L/60**.
     - **T-80UM2** → **T-80U (Drozd)**. Long name → **Kirovskij zavod | Ob"yekt 219AS | T-80U obr. 1995 g. (KAZ Drozd)**.
+    - **SPz Puma S0**: Long name → **KNDS Deutschland | Schützenpanzer Puma S0**.
+    - **SPz Puma S1** → **SPz Puma VJTF**. Long name → **KNDS Deutschland | Schützenpanzer Puma Very High Readiness Joint Task Force**. The folder has been adjusted accordingly.
 
 ### Weaponry:
 

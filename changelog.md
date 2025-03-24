@@ -60,6 +60,12 @@ All dates are listed in DD-MM-YYYY format.
     - **SPz Puma S0**: Long name → **KNDS Deutschland | Schützenpanzer Puma S0**.
     - **SPz Puma S1** → **SPz Puma VJTF**. Long name → **KNDS Deutschland | Schützenpanzer Puma Very High Readiness Joint Task Force**. The folder has been adjusted accordingly.
     - **Eurofighter (T2 B10)** (Germany): Long name → **Eurofighter Jagdflugzeug | Eurofighter (Tranche 2 Block 10)**.
+    - **UH Tiger** → **KH Tiger**. Long name → **Eurocopter EC-665 | Kampfhubschrauber Tiger**.
+    - **Jiélíng** → **Jiàn-1 FFX**. Long name → **Guójiā Zhōngshān Kēxué Yán Jiù Yuàn | Chēzai Jiàn-1 Fángkōng Fēidàn Xìtong**.
+    - **Wirraway Mk. I** → **CA-1**. Long name → **Commonwealth Aircraft Corporation | CA-1 Wirriway Mk. I**.
+    - **Boomerang Mk. I** → **CA-12**. Long name → **Commonwealth Aircraft Corporation | CA-12 Boomerang Mk. I**.
+    - **Boomerang Mk. II** → **CA-13**. Long name → **Commonwealth Aircraft Corporation | CA-13 Boomerang Mk. II**.
+    - **A-11B** → **A-11A**. Long name → **AMX International AMX | A-11A Ghibli**.
 
 ### Weaponry:
 

@@ -4382,9 +4382,9 @@ mi_24p_german_hfs80_0;◄ Mi-24P (Heeresfliegerstaffel 80)
 mi_24p_german_hfs80_1;◄ Mi-24P
 mi_24p_german_hfs80_2;◄ Mi-24P
 //GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 7
-tiger_uht_shop;◄ UH Tiger
-tiger_uht_0;◄ Unterstützungshubschrauber Tiger
-tiger_uht_1;◄ UH Tiger
+tiger_uht_shop;◄ KH Tiger
+tiger_uht_0;◄ Eurocopter EC-665 | Kampfhubschrauber Tiger
+tiger_uht_1;◄ KH Tiger
 tiger_uht_2;◄ Tiger
 tiger_had_spain_shop;▄ Tigre HAD/E (Bloque 1)
 tiger_had_spain_0;▄ Eurocopter EC-665 | HA-28 Tigre, Helicóptero de Ataque y Destrucción (Bloque 1)
@@ -4700,7 +4700,19 @@ ussr_pr_103_sm4_2;Motor torpedo boat
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+wirraway_shop;CA-1
+wirraway_0;Commonwealth Aircraft Corporation | CA-1 Wirraway Mk. I
+wirraway_1;CA-1
+wirraway_2;CA-1
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+boomerang_mki_shop;CA-12
+boomerang_mki_0;Commonwealth Aircraft Corporation | CA-12 Boomerang Mk. I
+boomerang_mki_1;CA-12
+boomerang_mki_2;CA-12
+boomerang_mkii_shop;CA-13
+boomerang_mkii_0;Commonwealth Aircraft Corporation | CA-13 Boomerang Mk. II
+boomerang_mkii_1;CA-13
+boomerang_mkii_2;CA-13
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 5
@@ -6064,9 +6076,9 @@ cn_type_65_aa_2;SPAAG
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
-cn_antelope_tc_1l_ads_shop;Jiélíng
-cn_antelope_tc_1l_ads_0;Guójiā Zhōngshān Kēxué Yán Jiù Yuàn | Jiélíng Fángkōng Fēidàn Xìtong
-cn_antelope_tc_1l_ads_1;Jiélíng
+cn_antelope_tc_1l_ads_shop;Jiàn-1 FFX
+cn_antelope_tc_1l_ads_0;Guójiā Zhōngshān Kēxué Yán Jiù Yuàn | Chēzai Jiàn-1 Fángkōng Fēidàn Xìtong
+cn_antelope_tc_1l_ads_1;Jiàn-1 FFX
 cn_antelope_tc_1l_ads_2;SPAAM
 cn_vt_5_shop;╷ VT5BD
 cn_vt_5_0;╷ Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | Lā'iṭa Ṭyānka VT5BD
@@ -6091,6 +6103,10 @@ cn_vt_5_2;Light tank
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+amx_shop;A-11A
+amx_0;AMX International AMX | A-11A Ghibli
+amx_1;A-11A
+amx_2;A-11
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 tornado_ids_it_ret8_shop;A-200C (RET8)
 tornado_ids_it_ret8_0;Panavia Aircraft PA-200 | A-200C Tornado (Retro Enabling Task 8)
@@ -8113,14 +8129,6 @@ beaufort_mkviii_shop;Beaufort Mk. VIII
 beaufort_mkviii_0;Beaufort Mk. VIII
 beaufort_mkviii_1;Beaufort Mk. VIII
 beaufort_mkviii_2;Beaufort
-boomerang_mki_shop;Boomerang Mk. I
-boomerang_mki_0;Boomerang Mk. I
-boomerang_mki_1;Boomerang Mk. I
-boomerang_mki_2;Boomerang
-boomerang_mkii_shop;Boomerang Mk. II
-boomerang_mkii_0;Boomerang Mk. II
-boomerang_mkii_1;Boomerang Mk. II
-boomerang_mkii_2;Boomerang
 f4f-4_martlet_mk4_shop;Martlet Mk. IV
 f4f-4_martlet_mk4_0;Martlet Mk. IV
 f4f-4_martlet_mk4_1;Martlet Mk. IV
@@ -8209,10 +8217,6 @@ tempest_mkv_vikkers_shop;Tempest F.B. Mk. V (SN354)
 tempest_mkv_vikkers_0;Tempest F.B. Mk. V (SN354)
 tempest_mkv_vikkers_1;Tempest F.B. Mk. V
 tempest_mkv_vikkers_2;Tempest
-wirraway_shop;Wirraway Mk. I
-wirraway_0;Wirraway Mk. I
-wirraway_1;Wirraway Mk. I
-wirraway_2;Wirraway
 spitfire_mk5b_shop;Spitfire F. Mk. Vb (trop.)
 spitfire_mk5b_0;Spitfire F. Mk. Vb (tropicalised)
 spitfire_mk5b_1;Spitfire F. Mk. V
@@ -11893,10 +11897,6 @@ av_8s_late_thailand_shop;B.KhL.1K (late)
 av_8s_late_thailand_0;Hawker Siddeley Aviation | Ekhrụxng Bin Khạb Lị Bæb Thī 1K (late)
 av_8s_late_thailand_1;B.KhL.1K
 av_8s_late_thailand_2;B.KhL.1
-amx_shop;A-11B
-amx_0;A-11B Ghibli
-amx_1;A-11B
-amx_2;A-11
 amx_a_1a_brazil_shop;A-1A
 amx_a_1a_brazil_0;A-1A
 amx_a_1a_brazil_1;A-1A

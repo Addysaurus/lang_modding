@@ -51,6 +51,7 @@ All dates are listed in DD-MM-YYYY format.
         - **HMS Leopard (F14)** → **HMS Leopard (F 14)**. Long name → **Portsmouth Royal Dockyard | Leopard-class | HMS Leopard (F 14)**.
     - **Mirage 4000 (1986)**: Long name → **Avions Marcel Dassault-Breguet Aviation | Mirage 4000 (1986)**.
     - **Harrier T. Mk. 10**: Long name → **British Aerospace / McDonnell Douglas Corporation | Harrier T. Mk. 10**.
+    - **Harrier G.R. Mk. 7**: Long name → **British Aerospace / McDonnell Douglas Corporation | Harrier G.R. Mk. 7**.
     - **2S19M1**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Ob"yekt 316 | 2S19M1 "Msta-S"**.
     - **2S19M2**: Long name → **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Ob"yekt 316 | 2S19M2 "Msta-S"**.
     - **Ayanami**: Long name → **Fujinagata Zōsensho | Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)**.
@@ -58,6 +59,7 @@ All dates are listed in DD-MM-YYYY format.
     - **T-80UM2** → **T-80U (Drozd)**. Long name → **Kirovskij zavod | Ob"yekt 219AS | T-80U obr. 1995 g. (KAZ Drozd)**.
     - **SPz Puma S0**: Long name → **KNDS Deutschland | Schützenpanzer Puma S0**.
     - **SPz Puma S1** → **SPz Puma VJTF**. Long name → **KNDS Deutschland | Schützenpanzer Puma Very High Readiness Joint Task Force**. The folder has been adjusted accordingly.
+    - **Eurofighter (T2 B10)** (Germany): Long name → **Eurofighter Jagdflugzeug | Eurofighter (Tranche 2 Block 10)**.
 
 ### Weaponry:
 

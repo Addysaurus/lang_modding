@@ -1268,7 +1268,7 @@ shop/group/he_112_group;He 112 V-5 / A-0
 shop/group/do_17_group;Do 17 E-1 / Z-2
 shop/group/ju-87br_group;Ju 87 B / R
 shop/group/fiat_group;▀ CR.42 / G.50 II / AS VII / C.200 III / VII / C. 202
-shop/group/sm_79_group;▀ S.M.79 I / VIII / AS / bis/T.M. / ╏ B / IV / bis/N
+shop/group/sm_79_group;▀ S.M.79 I / VIII / AS / bis/T.M. / S.79-B / IV / bis/N
 shop/group/he-111h_group;He 111 H-6 / 16
 shop/group/he_111_bv_138_group;He 115 / BV 138
 shop/group/bf_110cf_group;Bf 110 C / F
@@ -1473,7 +1473,7 @@ shop/group/it_semovente_m43_105_75_group;105/25 M. 43 / 75/34 M. 43
 shop/group/it_m13_40_group;M. 40 I / III
 shop/group/it_dardo_group;VCC-80 Dardo / Dardo (HITFIST 30)
 shop/group/it_9a33_35_group;╏ 9A33BM3 / ◔ 35M
-shop/group/sm_79_1941_group;S.M.79 AS / bis/T.M. / ╏ B
+shop/group/sm_79_1941_group;S.M.79 AS / bis/T.M. / S.79-B
 shop/group/cr_32_group;CR.32 / 32quarter
 shop/group/ba_65_group;Ba.65 / ⛨ Ju 87 R
 shop/group/breda_group;Ba.88 / P.108A
@@ -4069,10 +4069,10 @@ sm_79_1943_shop;▀ S.M.79bis/T.M (1943)
 sm_79_1943_0;▀ S.M.79bis/T.M Sparviero (1943)
 sm_79_1943_1;▀ S.M.79bis/T.M
 sm_79_1943_2;▀ S.M.79
-sm_79_iar_shop;▀╏ S.M.79 B (1936)
-sm_79_iar_0;▀╏ S.M.79 B Sparviero (1936)
-sm_79_iar_1;▀╏ S.M.79 B
-sm_79_iar_2;▀╏ S.M.79
+sm_79_iar_shop;▀ S.79-B
+sm_79_iar_0;▀ Industria Aeronautică Română | S.79-B
+sm_79_iar_1;▀ S.79-B
+sm_79_iar_2;▀ S.79
 sm_79_1937_shop;▀ S.M.79 IV
 sm_79_1937_0;▀ S.M.79 serie IV Sparviero (1937)
 sm_79_1937_1;▀ S.M.79 IV
@@ -4339,6 +4339,10 @@ tornado_ids_de_mfg_0;◄ Panavia Aircraft PA-200 | IDS-Tornado (Batch 2) (Marine
 tornado_ids_de_mfg_1;◄ IDS-Tornado
 tornado_ids_de_mfg_2;◄ IDS-Tornado
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+ef_2000_block_10_shop;Eurofighter (T2 B10)
+ef_2000_block_10_0;Eurofighter Jagdflugzeug EF-2000 | Eurofighter (Tranche 2 Block 10)
+ef_2000_block_10_1;Eurofighter
+ef_2000_block_10_2;Eurofighter
 mig_29_9_12_germany_shop;◊ MiG-29 (9-12A)
 mig_29_9_12_germany_0;◊ izd. 9-12A | MiG-29
 mig_29_9_12_germany_1;◊ MiG-29
@@ -4727,6 +4731,10 @@ harrier_gr7_0;British Aerospace / McDonnell Douglas Corporation | Harrier G.R. M
 harrier_gr7_1;Harrier G.R. Mk. 7
 harrier_gr7_2;Harrier
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+ef_2000_fgr4_shop;Typhoon F.G.R. Mk. 4
+ef_2000_fgr4_0;Eurofighter Jagdflugzeug EF-2000 | Typhoon F.G.R. Mk. 4
+ef_2000_fgr4_1;Typhoon F.G.R. Mk. 4
+ef_2000_fgr4_2;Typhoon
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 7
@@ -6108,6 +6116,10 @@ amx_0;AMX International AMX | A-11A Ghibli
 amx_1;A-11A
 amx_2;A-11
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+ef_2000a_shop;F-2000A (T2 B15)
+ef_2000a_0;Eurofighter Jagdflugzeug EF-2000 | F-2000A Typhoon (Tranche 2 Block 15)
+ef_2000a_1;F-2000A
+ef_2000a_2;F-2000
 tornado_ids_it_ret8_shop;A-200C (RET8)
 tornado_ids_it_ret8_0;Panavia Aircraft PA-200 | A-200C Tornado (Retro Enabling Task 8)
 tornado_ids_it_ret8_1;A-200C
@@ -9725,10 +9737,10 @@ sm_79_1943_italy_shop;S.M.79bis/T.M (1943)
 sm_79_1943_italy_0;S.M.79bis/T.M Sparviero (1943)
 sm_79_1943_italy_1;S.M.79
 sm_79_1943_italy_2;S.M.79
-sm_79_iar_italy_shop;╏ S.M.79 B (1936)
-sm_79_iar_italy_0;╏ S.M.79 B Sparviero (1936)
-sm_79_iar_italy_1;╏ S.M.79
-sm_79_iar_italy_2;╏ S.M.79
+sm_79_iar_italy_shop;S.79-B
+sm_79_iar_italy_0;Industria Aeronautică Română | S.79-B
+sm_79_iar_italy_1;S.79-B
+sm_79_iar_italy_2;S.79
 mc-202_italy_shop;C. 202 VII
 mc-202_italy_0;C. 202 serie VII Folgore
 mc-202_italy_1;C. 202
@@ -11853,18 +11865,6 @@ tornado_adv_shop;⛨ Tornado F. Mk. 3
 tornado_adv_0;⛨ Panavia Aircraft PA-200 | Tornado F. Mk. 3 (Batch 2)
 tornado_adv_1;⛨ Tornado F. Mk. 3
 tornado_adv_2;⛨ Tornado
-ef_2000_block_10_shop;Eurofighter (T2 B10)
-ef_2000_block_10_0;Eurofighter Jagdflugzeug | Eurofighter (Tranche 2 Block 10)
-ef_2000_block_10_1;Eurofighter
-ef_2000_block_10_2;Eurofighter
-ef_2000a_shop;F-2000A (T2 B15)
-ef_2000a_0;Eurofighter Jagdflugzeug | F-2000A Typhoon (Tranche 2 Block 15)
-ef_2000a_1;F-2000A
-ef_2000a_2;F-2000
-ef_2000_fgr4_shop;Typhoon F.G.R. Mk. 4
-ef_2000_fgr4_0;Eurofighter Jagdflugzeug | Typhoon F.G.R. Mk. 4
-ef_2000_fgr4_1;Typhoon F.G.R. Mk. 4
-ef_2000_fgr4_2;Typhoon
 harrier_gr1_shop;Harrier G.R. Mk. 1
 harrier_gr1_0;Harrier G.R. Mk. 1
 harrier_gr1_1;Harrier G.R. Mk. 1

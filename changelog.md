@@ -24,6 +24,10 @@ All dates are listed in DD-MM-YYYY format.
         - **IDS-Tornado (MFG)**
         - **IDS-Tornado (WTD 61)**
         - **IDS-Tornado (ASSTA 3)**
+    - **EF-2000** added as the **Eurofighter Jagdflugzeug** manufacturer name for the following vehicles:
+        - **Eurofighter (T2 B10)**
+        - **F-2000A (T2 B15)**
+        - **Typhoon F.G.R. Mk. 4**
 
 - #### Changes:
 
@@ -80,6 +84,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Boomerang Mk. II**: Long name → **Commonwealth Aircraft Corporation CA-13 | Boomerang Mk. II**.
     - **A-11B** → **A-11A**. Long name → **AMX International AMX | A-11A Ghibli**.
     - **Tigre HAD/E (Bloque 1)** (Germany / Spain) → **HA.28 HAD/E (Bloque 1)**. Long name → **HA.28 Tigre, Helicóptero de Ataque y Destrucción (Bloque 1)**.
+    - **S.M.79 B (1936)** (Italy / Romania & Germany / Romania) → **S.79-B**. Long name → **Industria Aeronautică Română | S.79-B**. The folders have been adjusted accordingly.
 
 ### Weaponry:
 

@@ -85,6 +85,7 @@ All dates are listed in DD-MM-YYYY format.
     - **A-11B** → **A-11A**. Long name → **AMX International AMX | A-11A Ghibli**.
     - **Tigre HAD/E (Bloque 1)** (Germany / Spain) → **HA.28 HAD/E (Bloque 1)**. Long name → **HA.28 Tigre, Helicóptero de Ataque y Destrucción (Bloque 1)**.
     - **S.M.79 B (1936)** (Italy / Romania & Germany / Romania) → **S.79-B**. Long name → **Industria Aeronautică Română | S.79-B**. The folders have been adjusted accordingly.
+    - **B-29A-45-BN** (Swedish nuclear killstreak vehicle): Long name → **B-29A-45BN Superfortress**. Basically, an extra dash that was there as a typo was removed.
 
 ### Weaponry:
 

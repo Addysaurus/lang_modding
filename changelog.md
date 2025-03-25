@@ -28,7 +28,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - British coastal fleet rework:
-        - **MTB-1 (1)** → **HMS MTB 7 (Lewis Gun Mk. II)**. Long name → **British Power Boat Co. | BPB 60 ft-class | HMS MTB 7 (Lewis Gun Mk. II)**.
+        - **MTB-1 (1)** → **HMS MTB 7**. Long name → **British Power Boat Co. | BPB 60 ft-class | HMS MTB 7**.
         - **MTB-1 (2)** → **HMS MTB 16**. Long name → **British Power Boat Co. | BPB 60 ft-class | HMS MTB 16**.
         - **Fairmile A (ML100)** → **HMS ML 100**. Long name → **Woodnutt & Co. / Bembridge Harbour | Fairmile Type A-class | HMS ML 100 (1940)**.
         - **Fairmile B (ML345)** → **HMS ML 345**. Long name → **Diesel Constructors | Fairmile Type B-class | HMS ML 345**.

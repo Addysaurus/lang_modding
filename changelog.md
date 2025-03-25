@@ -79,6 +79,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Boomerang Mk. I**: Long name → **Commonwealth Aircraft Corporation CA-12 | Boomerang Mk. I**.
     - **Boomerang Mk. II**: Long name → **Commonwealth Aircraft Corporation CA-13 | Boomerang Mk. II**.
     - **A-11B** → **A-11A**. Long name → **AMX International AMX | A-11A Ghibli**.
+    - **Tigre HAD/E (Bloque 1)** (Germany / Spain) → **HA.28 HAD/E (Bloque 1)**. Long name → **HA.28 Tigre, Helicóptero de Ataque y Destrucción (Bloque 1)**.
 
 ### Weaponry:
 

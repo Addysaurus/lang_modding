@@ -86,7 +86,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Tigre HAD/E (Bloque 1)** (Germany / Spain) → **HA.28 HAD/E (Bloque 1)**. Long name → **HA.28 Tigre, Helicóptero de Ataque y Destrucción (Bloque 1)**.
     - **S.M.79 B (1936)** (Italy / Romania & Germany / Romania) → **S.79-B**. Long name → **Savoia-Marchetti / Industria Aeronautică Română | S.79-B**. The folders have been adjusted accordingly.
     - **B-29A-45-BN** (Swedish nuclear killstreak vehicle): Long name → **B-29A-45BN Superfortress**. Basically, an extra dash that was there as a typo was removed.
-    - **F/A-18C-51-MC** → **F/A-18C-52-MC**. It has JHMCS, datalink, and the LITENING II pod which make it a Block 52.xx
+    - **F/A-18C-51-MC** → **F/A-18C-52-MC**. It has JHMCS, datalink, and the LITENING II pod which make it a Block 52.
 
 ### Weaponry:
 

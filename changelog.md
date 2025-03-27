@@ -76,7 +76,7 @@ All dates are listed in DD-MM-YYYY format.
     - **T-80UM2** → **T-80U (Drozd)**. Long name → **Kirovskij zavod | Ob"yekt 219AS | T-80U obr. 1995 g. (KAZ Drozd)**.
     - **SPz Puma S0**: Long name → **KNDS Deutschland | Schützenpanzer Puma S0**.
     - **SPz Puma S1** → **SPz Puma VJTF**. Long name → **KNDS Deutschland | Schützenpanzer Puma Very High Readiness Joint Task Force**. The folder has been adjusted accordingly.
-    - **Eurofighter (T2 B10)** (Germany): Long name → **Eurofighter Jagdflugzeug | Eurofighter (Tranche 2 Block 10)**.
+    - **Eurofighter (T2 B10)** (Germany): Long name → **Eurofighter Jagdflugzeug EF-2000 | Eurofighter (Tranche 2 Block 10)**.
     - **UH Tiger** → **KH Tiger**. Long name → **Eurocopter EC-665 | Kampfhubschrauber Tiger**.
     - **Jiélíng** → **Jiàn-1 FFX**. Long name → **Guójiā Zhōngshān Kēxué Yán Jiù Yuàn | Chēzai Jiàn-1 Fángkōng Fēidàn Xìtong**.
     - **Wirraway Mk. I**: Long name → **North American Aviation NA-16-2K / Commonwealth Aircraft Corporation CA-1 | Wirriway Mk. I**.

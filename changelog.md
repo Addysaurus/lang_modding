@@ -104,6 +104,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Meteor / Sea Meteor F. Mk. 3** folder renamed to **Meteor F. Mk. 3 / 3 (EE337)**.
     - **Meteor F. Mk. 4 G.41F / G / K** folder renamed to **Meteor F. Mk. 3/4 / 4 / 8**.
     - **Venom F.B. Mk. 4**: Long name → **Venom F.B. Mk. 4**.
+    - **LCM(6)(F)** → **Z-2**. Long name → **Fincantieri Marinette Marine | Landing Craft, Mechanized, (Mk. 6) (Flamethrower) "Zippo" | Z-2**.
 
 ### Weaponry:
 

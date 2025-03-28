@@ -49,7 +49,7 @@ All dates are listed in DD-MM-YYYY format.
         - **HMS ML 1383** → **HMS HDML 1383**. Long name → **Anderson Rigden & Perkins | HDML-class | HMS HDML 1383**.
         - **Dark Adventurer (FPB1101)** → **HMS Dark Adventurer (P 1101)**. Long name → **Saunders-Roe | Dark-class | HMS Dark Adventurer (P 1101)**.
         - **Dark Aggressor (FPB1102)** (Standard & Twitch drop) → **HMS Dark Aggressor (P 1102)**. Long name → **Saunders-Roe | Dark-class | HMS Dark Aggressor (P 1102)**.
-        - **HMS Liscomb (T285)** → **HMS Liscomb (T 285)**. Long name → **Kingston Shipbuilding Co. | Isles-class | HMS Liscomb (T 285)**.
+        - **HMS Liscomb (T285)** → **HMS Orsay (J 450) (Q.F., Mk. V)**. Long name → **Cochrane & Sons | Isles-class | HMS Orsay (J 450) (4-Inch Q.F. Gun, Mk. V)**. Gaijin bade an awful hybrid of one of the danlayer-fit Isles-classes, most likely HMS Orsay, with an unshielded version of the armament from a Dance-class, a subclass of the Isles-class, grafted onto it.
         - **HMCS Brantford (K218)** → **HMCS Brantford (K 218)**. Long name → **Midland Shipyards / Cockatoo Island Dockyard | Flower-class | HMCS Brantford (K 218) (1944)**.
         - **MGB-75** → **MGB 75**. Long name → **British Power Boat Co. | BPB 72 ft-class | HMS MGB 75**.
         - **HMS Gay Archer (P1041)** → **HMS Gay Archer (P 1041)**. Long name → **Vosper & Co. | Gay-class | HMS Gay Archer (P 1041)**.
@@ -58,7 +58,7 @@ All dates are listed in DD-MM-YYYY format.
         - **MTB-422** → **HMS MTB 422**. Long name → **Higgins Industies | Higgins 78'-class | HMS MTB 422**.
         - **HMAS Arrow (P88)** → **HMAS Arrow (P 88)**. Long name → **John Walker & Co. | Attack-class | HMAS Arrow (P 88)**.
         - **HMAS Fremantle (FCPB 203)**: Long name → **Brooke Marine | Fremantle-class | HMAS Fremantle (FCPB 203)**.
-        - **LÉ Orla (P 41)** → **L.É. Orla (P 41)**. Long name → **Hall, Russell & Co. | Peacock-class | L.É. Orla (P 41)**.
+        - **LÉ Orla (P 41)** → **L.É. Orla (P 41)**. Long name → **Hall, Russell & Co. / Cork Dockyard | Peacock-class | L.É. Orla (P 41) (2008)**.
         - **HMS Peacock (P239)** → **HMS Peacock (P 239)**. Long name → **Hall, Russell & Co. | Peacock-class | HMS Peacock (P 239)**.
         - **HMS Whitby (F36)** → **HMS Whitby (F 36)**. Long name → **Cammell Laird & Co. | Whitby-class | HMS Whitby (F 36)**.
         - **HMS Blackpool (F77)** → **HMS Blackpool (F 77)**. Long name → **Harland & Wolff Group Holdings | Whitby-class | HMS Blackpool (F 77)**.
@@ -66,6 +66,20 @@ All dates are listed in DD-MM-YYYY format.
         - **Brave Borderer (P1011)** → **HMS Brave Borderer (P 1011)**. Long name → **Vosper & Co. | Brave-class | HMS Brave Borderer (P 1011)**.
         - **HMCS Terra Nova (DDE 259)**: Long name → **Brooke Marine | Fremantle-class | HMAS Fremantle (FCPB 203)**.
         - **HMS Leopard (F14)** → **HMS Leopard (F 14)**. Long name → **Portsmouth Royal Dockyard | Leopard-class | HMS Leopard (F 14)**.
+    - Some vehicle types (the ones on the stat cards that appear in colors right underneath the vehicle name) have been reworked to be actually sensible:
+        - **Attacker (fighter with anti-tank weapons)** (whatever this even is) → **Strike Fighter**
+        - **Attacker** → **Strike Fighter**
+        - **Twin-engine Fighter** → **Twin-Engine Fighter**
+        - **Strike Aircraft** → **Strike Fighter**
+        - **Torpedo-Bomber** → **Torpedo Bomber**
+        - **Anti-tank missile carrier** → **Anti-Tank Missile Carrier**
+        - **Bluewater ship** → **Bluewater Vessel**
+        - **Coastal vessel** → **Coastal Vessel**
+        - **Motor Gun Boat** → **Motor Gunboat**
+        - **Motor Torpedo Gun Boat** → **Motor Torpedo Gunboat**
+        - **Sub-chaser** → **Submarine Chaser**
+        - **Armored Sub-chaser** → **Armored Submarine Chaser**
+        - **Anti-air Ferry** → **Anti-Air Ferry**
     - **Mirage 4000 (1986)**: Long name → **Avions Marcel Dassault-Breguet Aviation | Mirage 4000 (1986)**.
     - **Harrier T. Mk. 10**: Long name → **British Aerospace / McDonnell Douglas Corporation | Harrier T. Mk. 10**.
     - **Harrier G.R. Mk. 7**: Long name → **British Aerospace / McDonnell Douglas Corporation | Harrier G.R. Mk. 7**.
@@ -87,12 +101,16 @@ All dates are listed in DD-MM-YYYY format.
     - **S.M.79 B (1936)** (Italy / Romania & Germany / Romania) → **S.79-B**. Long name → **Savoia-Marchetti / Industria Aeronautică Română | S.79-B**. The folders have been adjusted accordingly.
     - **B-29A-45-BN** (Swedish nuclear killstreak vehicle): Long name → **B-29A-45BN Superfortress**. Basically, an extra dash that was there as a typo was removed.
     - **F/A-18C-51-MC** → **F/A-18C-52-MC**. It has JHMCS, datalink, and the LITENING II pod which make it a Block 52.
+    - **Meteor / Sea Meteor F. Mk. 3** folder renamed to **Meteor F. Mk. 3 / 3 (EE337)**.
+    - **Meteor F. Mk. 4 G.41F / G / K** folder renamed to **Meteor F. Mk. 3/4 / 4 / 8**.
+    - **Venom F.B. Mk. 4**: Long name → **Venom F.B. Mk. 4**.
 
 ### Weaponry:
 
 - #### Changes:
 
     - **7.72 mm Lewis machinegun 1916** → **Lewis Gun Mk. II**. It has recieved its caliber and type tags.
+    - **4 in QF Mark V cannon** → **4-Inch Q.F. Gun, Mk. V**. It has recieved its caliber and type tags.
     - **50 mm KwK.39/1 cannon** → **5cm Kampfwagenkanone 39/1 L/60**. It has recieved its caliber and type tags.
     - The **2A64** and **2A64M2** have had their caliber tags corrected to not accidentally display the color formatting tags instead of the colored text.
 

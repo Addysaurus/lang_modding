@@ -5,6 +5,84 @@ mainmenu/fleet;Fleet
 mainmenu/helicopters;Helicopters
 mainmenu/boats;Coastal fleet
 mainmenu/ships;Bluewater fleet
+mainmenu/type_exoskeleton;Mobile Infantry
+mainmenu/type_aircraft;Aircraft
+mainmenu/type_aircraft_only;Aircraft
+mainmenu/type_tank;Tank
+mainmenu/type_fighter;Fighter
+mainmenu/type_assault_fighter;Strike Fighter
+mainmenu/type_bomber;Bomber
+mainmenu/type_assault;Strike Fighter
+mainmenu/type_interceptor;Interceptor
+mainmenu/unit_type_separator; / 
+mainmenu/type_attack_helicopter;Attack Helicopter
+mainmenu/type_utility_helicopter;Utility Helicopter
+mainmenu/type_light_fighter;Light Fighter
+mainmenu/type_medium_fighter;Fighter
+mainmenu/type_heavy_fighter;Twin-Engine Fighter
+mainmenu/type_naval_aircraft;Naval Aircraft
+mainmenu/type_naval_fighter;Naval Fighter
+mainmenu/type_jet_fighter;Jet Fighter
+mainmenu/type_strike_fighter;Strike Fighter
+mainmenu/type_strike_aircraft;Strike Fighter
+mainmenu/type_aa_fighter;Air Defence Fighter
+mainmenu/type_light_bomber;Light Bomber
+mainmenu/type_medium_bomber;Medium Bomber
+mainmenu/type_heavy_bomber;Heavy Bomber
+mainmenu/type_naval_bomber;Naval Bomber
+mainmenu/type_jet_bomber;Jet Bomber
+mainmenu/type_dive_bomber;Dive Bomber
+mainmenu/type_frontline_bomber;Frontline Bomber
+mainmenu/type_longrange_bomber;Long Range Bomber
+mainmenu/type_common_bomber;Bomber
+mainmenu/type_common_assault;Strike Fighter
+mainmenu/type_hydroplane;Hydroplane
+mainmenu/type_strike_ucav;Strike UCAV
+mainmenu/type_flying_boat;Flying Boat
+mainmenu/type_torpedo;Torpedo Bomber
+mainmenu/type_biplane;Biplane
+mainmenu/type_transport;Cargo Aircraft
+mainmenu/type_helicopter;Helicopter
+mainmenu/type_light_tank;Light Tank
+mainmenu/type_missile_tank;Anti-Tank Missile Carrier
+mainmenu/type_medium_tank;Medium Tank
+mainmenu/type_light_medium_tank;Light Tank
+mainmenu/type_heavy_tank;Heavy Tank
+mainmenu/type_tank_destroyer;Tank Destroyer
+mainmenu/type_spaa;SPAA
+mainmenu/type_SPAA;SPAA
+mainmenu/type_football_tank;Football Tank
+mainmenu/type_robot;Robot
+mainmenu/type_md_interceptor;Interceptor
+mainmenu/type_md_loot_carrier;Loot Carrier
+mainmenu/type_md_combat_loot_carrier;Combat Loot Carrier
+mainmenu/type_cv_ship;Aircraft Carrier
+mainmenu/type_ship_and_boat;Vessel
+mainmenu/type_ship_only;Bluewater Vessel
+mainmenu/type_boat_only;Coastal Vessel
+mainmenu/type_heavy_boat;Armored Gun Boat
+mainmenu/type_barge;Barge
+mainmenu/type_torpedo_boat;Motor Torpedo Boat
+mainmenu/type_gun_boat;Motor Gunboat
+mainmenu/type_heavy_gun_boat;Gunboat
+mainmenu/type_torpedo_gun_boat;Motor Torpedo Gunboat
+mainmenu/type_submarine_chaser;Submarine Chaser
+mainmenu/type_frigate;Frigate
+mainmenu/type_destroyer;Destroyer
+mainmenu/type_naval_ferry_barge;Naval Ferry Barge
+mainmenu/type_minesweeper;Minesweeper
+mainmenu/type_minelayer;Minelayer
+mainmenu/type_naval_aa_ferry;Anti-Air Ferry
+mainmenu/type_hydrofoil_torpedo_boat;Hydrofoil Torpedo Boat
+mainmenu/type_missile_boat;Fast Attack Craft
+mainmenu/type_small_submarine_chaser;Submarine Chaser
+mainmenu/type_armored_boat;Armored Gun Boat
+mainmenu/type_armored_submarine_chaser;Armored Submarine Chaser
+mainmenu/type_light_cruiser;Light Cruiser
+mainmenu/type_heavy_cruiser;Heavy Cruiser
+mainmenu/type_submarine;Submarine
+mainmenu/type_battlecruiser;Battlecruiser
+mainmenu/type_battleship;Battleship
 airLimits/gear_destruction_ind_speed;Landing gear speed limit (IAS):
 airLimits/gear_destruction_ind_speed/tooltip;The indicated air speed (IAS) at which the landing gear can no longer withstand the speed and breaks off.
 airLimits/flaps_destruction_ind_speed;Flap speed limit (IAS):
@@ -14,6 +92,6 @@ crew/pilot/eyesight/tooltip;"This skill affects the pilot's visual range in the 
 The skill allows to increase the range of detection up to two times (upon identical weather conditions, position of the Sun and altitude difference between the two aircraft)."
 crew/tank_gunner/tracking/tooltip;"The skill of gun targeting affects targeting speed and accuracy. An experienced gunner targets the gun both vertically and horizontally at once; an inexperienced one does it in turns — at first they rotate the turret and then fix the angle of fire."
 help/protectionAnalysisSelectUnit;"To check your vehicle, select the attacking enemy and their weapons from the list."
-//STREAKS;
+//STREAKS
 streaks/last_man_standing;The Last One Standing!
 mainmenu/customSoundMods;<color=@commonTextColor>Sound modification enabled</color>

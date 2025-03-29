@@ -103,8 +103,11 @@ All dates are listed in DD-MM-YYYY format.
     - **F/A-18C-51-MC** → **F/A-18C-52-MC**. It has JHMCS, datalink, and the LITENING II pod which make it a Block 52.
     - **Meteor / Sea Meteor F. Mk. 3** folder renamed to **Meteor F. Mk. 3 / 3 (EE337)**.
     - **Meteor F. Mk. 4 G.41F / G / K** folder renamed to **Meteor F. Mk. 3/4 / 4 / 8**.
+    - **J11 / 11A (MLU)** folder renamed to **Su-27SK / J11A**.
+    - **F4F-3 / 4 / F6F-5** folder renamed to **F4F-3 / 4 / 6F-5**.
     - **Venom F.B. Mk. 4**: Long name → **Venom F.B. Mk. 4**.
     - **LCM(6)(F)** → **Z-2**. Long name → **Fincantieri Marinette Marine | Landing Craft, Mechanized, (Mk. 6) (Flamethrower) "Zippo" | Z-2**.
+    - **Bf 109 Z-1** → **Bf 109 Z**.
 
 ### Weaponry:
 

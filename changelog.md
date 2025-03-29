@@ -41,7 +41,7 @@ All dates are listed in DD-MM-YYYY format.
         - **MTB-1 (1)** → **HMS MTB 7**. Long name → **British Power Boat Co. | BPB 60 ft-class | HMS MTB 7**.
         - **MTB-1 (2)** → **HMS MTB 16**. Long name → **British Power Boat Co. | BPB 60 ft-class | HMS MTB 16**.
         - **Fairmile A (ML100)** → **HMS ML 100**. Long name → **Woodnutt & Co. / Bembridge Harbour | Fairmile Type A-class | HMS ML 100 (1940)**.
-        - **Fairmile B (ML345)** → **HMS ML 345**. Long name → **Diesel Constructors | Fairmile Type B-class | HMS ML 345**.
+        - **Fairmile B (ML345)** → **HMS ML 345**. Long name → **Diesel Constructors | Fairmile Type B-class | HMS ML 345 (1943)**.
         - **Fairmile C (312)** → **HMS MGB 312**. Long name → **Woodnutt & Co. | Fairmile Type C-class | HMS MGB 312**.
         - **Fairmile C (332)** → **HMS MGB 332**. Long name → **James A. Silver | Fairmile Type C-class | HMS MGB 332**.
         - **Fairmile D (697)** → **HMS MTB 697**. Long name → **Woodnutt & Co. | Fairmile Type D-class | HMS MTB 697**.

@@ -10,6 +10,12 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.12.01 - UNRELEASED
 
+### General:
+
+- #### Additions:
+
+    - Added new loading tips (4 total: 1 general, 1 air, 1 ground, 1 naval)
+
 ### Vehicles:
 
 - #### Additions:
@@ -108,6 +114,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Venom F.B. Mk. 4**: Long name → **Venom F.B. Mk. 4**.
     - **LCM(6)(F)** → **Z-2**. Long name → **Fincantieri Marinette Marine | Landing Craft, Mechanized, (Mk. 6) (Flamethrower) "Zippo" | Z-2**.
     - **Bf 109 Z-1** → **Bf 109 Z**.
+    - **S 9 C**: Long name → **Republic Aviation Corporation EP-106 | S 9 C**.
 
 ### Weaponry:
 

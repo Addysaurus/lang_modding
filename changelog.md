@@ -14,7 +14,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
-    - Added new loading tips (4 total: 1 general, 1 air, 1 ground, 1 naval)
+    - Added new loading tips (6 total: 2 general, 2 air, 1 ground, 1 naval)
 
 ### Vehicles:
 

@@ -22,12 +22,18 @@ All dates are listed in DD-MM-YYYY format.
 
     - "The Great War" additions:
         - **Artillery** (AI)
+        - **MG08** (AI)
+        - **Hotchkiss Mle 1909** (AI)
         - **Garford** (USSR & UK (only for the event gamemode for the UK))
         - **Garford-Beute** (Germany)
         - **Beutepanzer IV**
         - **A7V**
         - **Mark V**
         - **St-Chamond** (France & UK (only for the event gamemode for the UK))
+        - **Zeppelin**
+        - **Fokker D.VII**
+        - **SPAD S.XIII**
+        - **H.P.12**
     - **AMC/H.35/FCM** group
     - **PA-200** added as the **Panavia Aircraft** manufacturer designation for the following vehicles:
         - **Tornado G.R. Mk. 1**
@@ -47,10 +53,17 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - "The Great War" changes:
+        - **MG08** → **MG 08**. Long name → **Maschinengewehr 08**.
+        - **Garford** (USSR & UK) → **Gárford-Putílov**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Gárford-Putílov**.
+        - **Garford-Beute** (Germany) → **Gárford-Putílov**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Gárford-Putílov**.
         - **Beutepanzer IV** → **Beutepanzer Mk. IV**. Long name → **William Foster & Co. | Beutepanzer Mark IV**.
         - **A7V**: Long name → **Daimler Motoren Gesellschaft | Sturmpanzerwagen A7V**.
         - **Mark V** → **Mk. V (Male)**. Long name → **Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank Mark V (Male)**.
         - **St-Chamond** → **St.-Chamond Mle. 1918**. Long name → **Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assult Saint-Chamond modèle 1918**.
+        - **Zeppelin** → **L 30**. Long name → **Luftschiffbau Zeppelin LZ 62 | Militärluftschiff Typ R | L 30**.
+        - **Fokker D.VII** → **D.VII**. Long name → **Fokker-Flugzeugwerke | D.VII**.
+        - **SPAD S.XIII** → **S.XIII**. Long name → **Société pour l'aviation et ses dérivés | S.XIII**.
+        - **H.P.12** → **O/400**. Long name → **Handley Page Aircraft Company H.P.12 | O/400**.
     - British coastal fleet rework:
         - **MTB-1 (1)** → **HMS MTB 7**. Long name → **British Power Boat Co. | BPB 60 ft-class | HMS MTB 7**.
         - **MTB-1 (2)** → **HMS MTB 16**. Long name → **British Power Boat Co. | BPB 60 ft-class | HMS MTB 16**.

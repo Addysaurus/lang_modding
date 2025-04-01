@@ -79,6 +79,8 @@ weapons/cannonSAA;102 mm 102/35 mod 14 cannon
 weapons/cannonVickers_S;40 mm Vickers S cannon
 weapons/cannonVickers_S_underwing;40 mm Vickers S cannon (secondary)
 weapons/cannonVickers_P;47 mm Vickers P cannon
+weapons/gunVikkersMkI;<color=@userlogColoredText>7.7 mm</color> Gun, Machine, Vickers, .303-inch, Mk. I <color=#ff6f00>MG</color>
+weapons/gunLMG0815;<color=@userlogColoredText>7.92 mm</color> leichter Maschinengewehr 08/15 <color=#ff6f00>MG</color>
 weapons/cannonAN_M2;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, AN/M2 <color=#ff6f00>ACNN</color>
 weapons/cannonRollsRoyceBH;40 mm Rolls-Royce Type BH cannon
 weapons/cannonT31;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, T31 <color=#ff6f00>ACNN</color>
@@ -102,6 +104,8 @@ weapons/cannonMG15120_underwing;20 mm MG 151 cannon (secondary)
 weapons/gunMG15;7.92 mm MG 15 machine gun
 weapons/gunMG17_turret;7.92 mm MG 17 machine gun
 weapons/gunMG15_turret;7.92 mm MG 15 machine gun
+weapons/gunMG14_turret;<color=@userlogColoredText>7.92 mm</color> Maschinengewehr 14 <color=#ff6f00>MG</color>
+weapons/gunMG14_turret/short;MG 14
 weapons/gunType98_turret;7.92 mm Type 98 machine gun
 weapons/gunType98;7.92 mm Type 98 machine gun
 weapons/gunMG17;7.92 mm MG 17 machine gun
@@ -3180,8 +3184,8 @@ weapons/cannonMG15120_turret;20 mm MG 151 cannon
 weapons/57mm_43_6pdr_7cwt_qf_mk2a_naval_user_cannon;57 mm 6pdr 7cwt QF Mk. IIA mounting
 weapons/37mm_83_skc30_naval_user_cannon;3.7 cm SK C/30 mounting
 weapons/85mm_55_zis_s53_naval_user_cannon;<color=@userlogColoredText>85 mm</color> 52-PT-365 | ZiS-S-53 obr. 1944 g. <color=#ff6f00>CNN</color>
-weapons/7_7mm_lewis_amg_1916_naval_user_machinegun;<color=@userlogColoredText>7.7 mm</color> Lewis Gun Mk. II <color=#ff6f00>MG</color>
-weapons/7_7mm_mg_lewis_naval_user_machinegun;<color=@userlogColoredText>7.7 mm</color> Lewis Gun Mk. II <color=#ff6f00>MG</color>
+weapons/7_7mm_lewis_amg_1916_naval_user_machinegun;<color=@userlogColoredText>7.7 mm</color> Gun, Machine, Lewis, .303-inch, Mk. II <color=#ff6f00>MG</color>
+weapons/7_7mm_mg_lewis_naval_user_machinegun;<color=@userlogColoredText>7.7 mm</color> Gun, Machine, Lewis, .303-inch, Mk. II <color=#ff6f00>MG</color>
 45mm_br_240_ap;BR-240
 weapons/127mm_5in_mk50_naval_rocket_launcher;127 mm Mk. 7 rocket
 weapons/127mm_5in_mk50_naval_rocket_launcher/short;Мk.7

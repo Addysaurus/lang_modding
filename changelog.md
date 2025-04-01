@@ -55,7 +55,7 @@ All dates are listed in DD-MM-YYYY format.
     - "The Great War" changes:
         - **MG08** → **MG 08**. Long name → **Maschinengewehr 08**.
         - **Garford** (USSR & UK) → **Gárford-Putílov**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Gárford-Putílov**.
-        - **Garford-Beute** (Germany) → **Gárford-Putílov**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Gárford-Putílov**.
+        - **Garford-Beute** (Germany) → **Gárford-Putílov (MG 08)**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Gárford-Putílov (Maschinengewehr 08)**.
         - **Beutepanzer IV** → **Beutepanzer Mk. IV**. Long name → **William Foster & Co. | Beutepanzer Mark IV**.
         - **A7V**: Long name → **Daimler Motoren Gesellschaft | Sturmpanzerwagen A7V**.
         - **Mark V** → **Mk. V (Male)**. Long name → **Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank Mark V (Male)**.
@@ -146,9 +146,19 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
+- #### Additions:
+    - "The Great War" additions:
+        - **7.7 mm Vickers Mk.I machine gun**
+        - **7.92 mm LMG 08/15 machine gun**
+        - **7.92 mm MG 14 machine gun**
+
 - #### Changes:
 
-    - **7.72 mm Lewis machinegun 1916** → **Lewis Gun Mk. II**. It has recieved its caliber and type tags.
+    - "The Great War" changes:
+        - **7.7 mm Vickers Mk.I machine gun** → **Gun, Machine, Vickers, .303-inch, Mk. I**.
+        - **7.92 mm LMG 08/15 machine gun** → **leichter Maschinengewehr 08/15**.
+        - **7.92 mm MG 14 machine gun** → **Maschinengewehr 14**.
+    - **7.72 mm Lewis machinegun 1916** → **Gun, Machine, Lewis, .303-inch, Mk. II**. It has recieved its caliber and type tags.
     - **4 in QF Mark V cannon** → **4-Inch Q.F. Gun, Mk. V**. It has recieved its caliber and type tags.
     - **50 mm KwK.39/1 cannon** → **5cm Kampfwagenkanone 39/1 L/60**. It has recieved its caliber and type tags.
     - The **2A64** and **2A64M2** have had their caliber tags corrected to not accidentally display the color formatting tags instead of the colored text.

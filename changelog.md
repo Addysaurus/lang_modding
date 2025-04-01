@@ -20,6 +20,15 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
+    - "The Great War" additions:
+        - **Artillery** (AI)
+        - **Garford** (USSR & UK (only for the event gamemode for the UK))
+        - **Garford-Beute** (Germany)
+        - **Beutepanzer IV**
+        - **A7V**
+        - **Mark V**
+        - **St-Chamond** (France & UK (only for the event gamemode for the UK))
+    - **AMC/H.35/FCM** group
     - **PA-200** added as the **Panavia Aircraft** manufacturer designation for the following vehicles:
         - **Tornado G.R. Mk. 1**
         - **Tornado G.R. Mk. 4**
@@ -37,6 +46,11 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - "The Great War" changes:
+        - **Beutepanzer IV** → **Beutepanzer Mk. IV**. Long name → **William Foster & Co. | Beutepanzer Mark IV**.
+        - **A7V**: Long name → **Daimler Motoren Gesellschaft | Sturmpanzerwagen A7V**.
+        - **Mark V** → **Mk. V (Male)**. Long name → **Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank Mark V (Male)**.
+        - **St-Chamond** → **St.-Chamond Mle. 1918**. Long name → **Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assult Saint-Chamond modèle 1918**.
     - British coastal fleet rework:
         - **MTB-1 (1)** → **HMS MTB 7**. Long name → **British Power Boat Co. | BPB 60 ft-class | HMS MTB 7**.
         - **MTB-1 (2)** → **HMS MTB 16**. Long name → **British Power Boat Co. | BPB 60 ft-class | HMS MTB 16**.
@@ -115,6 +129,7 @@ All dates are listed in DD-MM-YYYY format.
     - **LCM(6)(F)** → **Z-2**. Long name → **Fincantieri Marinette Marine | Landing Craft, Mechanized, (Mk. 6) (Flamethrower) "Zippo" | Z-2**.
     - **Bf 109 Z-1** → **Bf 109 Z**.
     - **S 9 C**: Long name → **Republic Aviation Corporation EP-106 | S 9 C**.
+    - **AMC/H.35/FCM** group → **AMC 34 / H 35 / FCM 36**.
 
 ### Weaponry:
 

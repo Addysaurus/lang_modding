@@ -699,6 +699,7 @@ structures/ussr_122mm_m30_noground_2;Artillery
 structures/ussr_152mm_d1_0;Artillery
 structures/ussr_152mm_d1_1;Artillery
 structures/ussr_152mm_d1_2;Artillery
+structures/203mm_artillery_event_0;Artillery
 structures/swe_120mm_coastal_0;Coastal artillery
 structures/swe_120mm_coastal_1;Coastal artillery
 structures/swe_120mm_coastal_2;Coastal artillery
@@ -1490,6 +1491,7 @@ shop/group/g_55_serie_group;G.55 I / Re.2005
 shop/group/fiat_g91_group;G.91 pre-serie / R/1
 shop/group/fiat_g91y_group;G.91 Y / YS
 shop/group/tornado_ids_it_group;A-200A (1995) / C (RET8)
+shop/group/fr_hotchkiss_fcm_group;AMC 34 / H 35 / FCM 36
 shop/group/fr_mars_hot_group;MARS 15 / AMX 13 (HOT)
 shop/group/fr_amx_sk_group;AMX 10RC / SK105-A2
 shop/group/fr_lorraine_bat_group;Lorraine 40t / Char 25t
@@ -1724,6 +1726,42 @@ md_vickers_mk_11_uparmor_rearmed_shop;Powerful Rhino
 md_vickers_mk_11_uparmor_rearmed_0;Powerful Rhino
 md_vickers_mk_11_uparmor_rearmed_1;Powerful Rhino
 md_vickers_mk_11_uparmor_rearmed_2;Powerful Rhino
+germ_garford_putilov_event_shop;Garford-Beute
+germ_garford_putilov_event_0;"Schwerer Panzerwagen ""Garford"""
+germ_garford_putilov_event_1;Garford-Beute
+germ_garford_putilov_event_2;Light tank
+uk_garford_putilov_shop;Garford
+uk_garford_putilov_0;"Armoured Car ""Garford"""
+uk_garford_putilov_1;Garford
+uk_garford_putilov_2;Light tank
+uk_garford_putilov_event_shop;Garford
+uk_garford_putilov_event_0;"Armoured Car ""Garford"""
+uk_garford_putilov_event_1;Garford
+uk_garford_putilov_event_2;Light tank
+germ_garford_putilov_event_shop;Garford-Beute
+germ_garford_putilov_event_0;"Schwerer Panzerwagen ""Garford"""
+germ_garford_putilov_event_1;Garford-Beute
+germ_garford_putilov_event_2;Light tank
+germ_beutepanzer_mk_iv_event_shop;Beutepanzer Mk. IV
+germ_beutepanzer_mk_iv_event_0;William Foster & Co. | Beutepanzer Mark IV
+germ_beutepanzer_mk_iv_event_1;Beutepanzer Mk. IV
+germ_beutepanzer_mk_iv_event_2;Medium Tank
+germ_a7v_event_shop;A7V
+germ_a7v_event_0;Daimler Motoren Gesellschaft | Sturmpanzerwagen A7V
+germ_a7v_event_1;A7V
+germ_a7v_event_2;Medium Tank
+uk_mark_v_event_shop;Mk. V (Male)
+uk_mark_v_event_0;Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank Mark V (Male)
+uk_mark_v_event_1;Mk. V (Male)
+uk_mark_v_event_2;Medium Tank
+uk_saint_chamond_shop;▄ St.-Chamond Mle. 1918
+uk_saint_chamond_0;▄ Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assult Saint-Chamond modèle 1918
+uk_saint_chamond_1;▄ St.-Chamond Mle. 1918
+uk_saint_chamond_2;Medium Tank
+uk_saint_chamond_event_shop;▄ St.-Chamond Mle. 1918
+uk_saint_chamond_event_0;▄ Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assult Saint-Chamond modèle 1918
+uk_saint_chamond_event_1;▄ St.-Chamond Mle. 1918
+uk_saint_chamond_event_2;Medium Tank
 //KILLSTREAK VEHICLES;
 b-29_killstreak_shop;☢ B-29A-45-BN
 b-29_killstreak_0;☢ B-29A-45-BN Superfortress
@@ -4395,6 +4433,10 @@ tiger_had_spain_0;Eurocopter EC-665 | HA.28 Tigre, Helicóptero de Ataque y Dest
 tiger_had_spain_1;HA.28 HAD
 tiger_had_spain_2;HA.28
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+germ_garford_putilov_shop;Garford-Beute
+germ_garford_putilov_0;"Schwerer Panzerwagen ""Garford"""
+germ_garford_putilov_1;Garford-Beute
+germ_garford_putilov_2;Light tank
 germ_pzkpfw_35t_shop;Pz.Kpfw. 35 (t)
 germ_pzkpfw_35t_0;Panzerkampfwagen 35 (t)
 germ_pzkpfw_35t_1;Pz.Kpfw. 35
@@ -4415,6 +4457,14 @@ germ_pzkpfw_38t_na_shop;Pz.Kpfw. 38 (t) n.A.
 germ_pzkpfw_38t_na_0;Panzerkampfwagen 38 (t) neuer Art
 germ_pzkpfw_38t_na_1;Pz.Kpfw. 38 (t)
 germ_pzkpfw_38t_na_2;Light tank
+germ_beutepanzer_mk_iv_shop;Beutepanzer Mk. IV
+germ_beutepanzer_mk_iv_0;William Foster & Co. | Beutepanzer Mark IV
+germ_beutepanzer_mk_iv_1;Beutepanzer Mk. IV
+germ_beutepanzer_mk_iv_2;Medium tank
+germ_a7v_shop;A7V
+germ_a7v_0;Daimler Motoren Gesellschaft | Sturmpanzerwagen A7V
+germ_a7v_1;A7V
+germ_a7v_2;SPG
 germ_pzkpfw_III_ausf_E_shop;Pz.Kpfw. III E
 germ_pzkpfw_III_ausf_E_0;Panzerkampfwagen III Ausf. E
 germ_pzkpfw_III_ausf_E_1;Pz.Kpfw. III E
@@ -4739,6 +4789,10 @@ ef_2000_fgr4_2;Typhoon
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+uk_mark_v_shop;Mk. V (Male)
+uk_mark_v_0;Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank Mark V (Male)
+uk_mark_v_1;Mk. V (Male)
+uk_mark_v_2;Medium Tank
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 uk_a25_mk_8_shop;Harry Hopkins, Mk. I
 uk_a25_mk_8_0;Vickers-Armstrongs | Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I
@@ -6178,6 +6232,10 @@ tiger_hac_france_0;☨ Eurocopter EC-665 | Tigre, Hélicoptère Anti Char
 tiger_hac_france_1;☨ Tigre HAC
 tiger_hac_france_2;☨ Tigre
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+fr_saint_chamond_shop;St.-Chamond Mle. 1918
+fr_saint_chamond_0;Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assult Saint-Chamond modèle 1918
+fr_saint_chamond_1;St.-Chamond Mle. 1918
+fr_saint_chamond_2;Medium Tank
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 fr_amd_35_kwk39_shop;☨ le.Pz.Spw. 204 (f) (Kw.K. 39/1)
 fr_amd_35_kwk39_0;☨ Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Kw.K. 39/1 L/60

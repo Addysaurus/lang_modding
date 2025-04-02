@@ -80,6 +80,7 @@ weapons/cannonVickers_S;40 mm Vickers S cannon
 weapons/cannonVickers_S_underwing;40 mm Vickers S cannon (secondary)
 weapons/cannonVickers_P;47 mm Vickers P cannon
 weapons/gunVikkersMkI;<color=@userlogColoredText>7.7 mm</color> Gun, Machine, Vickers, .303-inch, Mk. I <color=#ff6f00>MG</color>
+weapons/7_92mm_mg08_user_machinegun;<color=@userlogColoredText>7.92 mm</color> Maschinengewehr 08 <color=#ff6f00>MG</color>
 weapons/gunLMG0815;<color=@userlogColoredText>7.92 mm</color> leichter Maschinengewehr 08/15 <color=#ff6f00>MG</color>
 weapons/cannonAN_M2;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, AN/M2 <color=#ff6f00>ACNN</color>
 weapons/cannonRollsRoyceBH;40 mm Rolls-Royce Type BH cannon
@@ -184,6 +185,8 @@ weapons/de_sc50_default;50 kg SC50JA bomb
 weapons/de_sc50_default/short;SC50
 weapons/de_sc250;250 kg SC250JA bomb
 weapons/de_sc500;500 kg SC500K bomb
+weapons/de_sc_ag300;300 kg SC AG bomb
+weapons/de_sc_ag300/short;300 kg SC AG
 weapons/de_sc250_87;250 kg SC250JA bomb
 weapons/de_fx1400;"<color=@userlogColoredText>1570 kg</color> PC 1400 X ""Fritz X"" <color=#ff6f00>BMB-RG</color>"
 weapons/de_fx1400/short;PC 1400 X
@@ -576,6 +579,8 @@ weapons/jp_500lb_mk82_gcs_1;Mk. 82 GCS-1 guided bomb
 weapons/jp_500lb_mk82_gcs_1/short;Mk. 82 GCS-1
 weapons/jp_750lb_m117_gcs_1;JM117 GCS-1 guided bomb
 weapons/jp_750lb_m117_gcs_1/short;JM117 GCS-1
+weapons/uk_230lbs;H.E. R.F.C. 230 lb Mk.III bomb
+weapons/uk_230lbs/short;H.E. R.F.C. 230 lb
 weapons/uk_250lbs;G.P. 250 lb Mk. IV bomb
 weapons/uk_250lbs_43;G.P. 250 lb Mk. IV bomb
 weapons/uk_250lbs_default;G.P. 250 lb Mk.IV bomb
@@ -1316,6 +1321,7 @@ weapons/us_1000lb_anm65a1_default/short;AN/M65A1
 weapons/us_100lb_anm30;<color=@userlogColoredText>49.9 kg</color> Bomb, 100lb, GP, AN/M30A1 <color=#ff6f00>BMB</color>
 weapons/us_250lb_anm57;<color=@userlogColoredText>117.93 kg</color> Bomb, 250lb, GP, AN/M57 <color=#ff6f00>BMB</color>
 weapons/us_250lb_anm57_default;<color=@userlogColoredText>117.93 kg</color> Bomb, 250lb, GP, AN/M57 <color=#ff6f00>BMB</color>
+weapons/us_250lb_anm57_default/short;AN/M57
 weapons/us_500lb_anm64a1;<color=@userlogColoredText>242.67 kg</color> Bomb, 500lb, GP, AN/M64A1 <color=#ff6f00>BMB</color>
 weapons/us_1000lb_anm65a1_rod;<color=@userlogColoredText>546.5 kg</color> Bomb, 1000lb, GP, AN/M65A1 <color=#ff6f00>BMB</color>
 weapons/us_500lb_anm64a1_rod;<color=@userlogColoredText>242.67 kg</color> Bomb, 500lb, GP, AN/M64A1 <color=#ff6f00>BMB</color>
@@ -1404,6 +1410,8 @@ weapons/counter/left/short;<color=@userlogColoredText>%dx</color>
 weapons/counter/right/short;<color=@userlogColoredText>x%d</color>
 weapons/drop_speed_range;Drop speed range: %s
 weapons/drop_height_range;Drop altitude range: %s
+weapons/drop_speed_range_text;Drop speed range
+weapons/drop_height_range_text;Drop altitude range
 weapons/88mm_Flak41_user_cannon;88 mm Flak 41 cannon
 weapons/128mm_KwK44_user_cannon;128 mm KwK44 cannon
 128mm_pzgr_ts;12,8/8,8 Pzgr.TS
@@ -1599,7 +1607,9 @@ weapons/90mm_M36_user_cannon;<color=@userlogColoredText>90 mm</color> Gun, 90mm,
 weapons/7_62mm_Browning_MG4_user_machinegun;7.62 mm Browning MG4 machine gun
 weapons/7_62mm_M1919A4_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Browning Machine Gun, Caliber .30, HB, M1919A4 <color=#ff6f00>MG</color>
 weapons/7_62mm_SGMT_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 56-P-428MT | SGMT <color=#ff6f00>MG</color>
+weapons/7_62mm_maxim_garford_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 56-P-421 | PM-10 obr. 1910 g. <color=#ff6f00>MG</color>
 weapons/7_62mm_Maxim_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 56-P-421 | PM-10 obr. 1910/30 gg. <color=#ff6f00>MG</color>
+weapons/7_62mm_maxim_naval_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 56-P-421 | PM-10 obr. 1910/30 gg. <color=#ff6f00>MG</color>
 weapons/14_5mm_KPVT_BTR_152_user_machinegun;<color=@userlogColoredText>14.5 mm</color> 56-P-562T | KPVT <color=#ff6f00>MG</color>
 weapons/14_5mm_KPVT_user_machinegun;<color=@userlogColoredText>14.5 mm</color> 56-P-562T | KPVT <color=#ff6f00>MG</color>
 weapons/12_7mm_DK_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 56-P-541 | DK obr. 1930 g. <color=#ff6f00>MG</color>
@@ -3186,6 +3196,7 @@ weapons/37mm_83_skc30_naval_user_cannon;3.7 cm SK C/30 mounting
 weapons/85mm_55_zis_s53_naval_user_cannon;<color=@userlogColoredText>85 mm</color> 52-PT-365 | ZiS-S-53 obr. 1944 g. <color=#ff6f00>CNN</color>
 weapons/7_7mm_lewis_amg_1916_naval_user_machinegun;<color=@userlogColoredText>7.7 mm</color> Gun, Machine, Lewis, .303-inch, Mk. II <color=#ff6f00>MG</color>
 weapons/7_7mm_mg_lewis_naval_user_machinegun;<color=@userlogColoredText>7.7 mm</color> Gun, Machine, Lewis, .303-inch, Mk. II <color=#ff6f00>MG</color>
+weapons/7_7mm_mg_lewis_user_machinegun;<color=@userlogColoredText>7.7 mm</color> Gun, Machine, Lewis, .303-inch, Mk. II <color=#ff6f00>MG</color>
 45mm_br_240_ap;BR-240
 weapons/127mm_5in_mk50_naval_rocket_launcher;127 mm Mk. 7 rocket
 weapons/127mm_5in_mk50_naval_rocket_launcher/short;Мk.7
@@ -4542,6 +4553,9 @@ weapons/125mm_2A46MS_user_cannon;<color=@userlogColoredText>125 mm</color> 2A46M
 120_aft_07;AFT07E | HJ73E
 125mm_hj_73;AFT07E | HJ73
 125mm_hj_73e;AFT07E | HJ73E
+weapons/57mm_qf_6pdr_user_cannon;<color=@userlogColoredText>57 mm</color> Gun, Q.F., Hotchkiss, 6-pr. 6-cwt., Mk. I <color=#ff6f00>CNN</color>
+weapons/57mm_maxim_nordenfelt_user_cannon;<color=@userlogColoredText>57 mm</color> Maxim-Nordenfelt Kasematt-Schnellfeuerkanone 5,7cm <color=#ff6f00>CNN</color>
+weapons/75mm_1897_user_cannon;<color=@userlogColoredText>75 mm</color> Matériel de 75 mm Mle 1897 <color=#ff6f00>CNN</color>
 125mm_9m_119m1;3UBK20M (9M119M1)
 125mm_3bm42;3VBM17 (3BM42 + 3BM44)
 125mm_practice;3VP5 (3P11)
@@ -5641,7 +5655,6 @@ chff/name;Chaff
 chff/name/short;Chaff
 flr/name;Flare
 flr/name/short;Flare
-weapons/7_62mm_maxim_naval_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 56-P-421 | PM-10 obr. 1910/30 gg. <color=#ff6f00>MG</color>
 105mm_incendiary_md;Chickfire
 90mm_ap_md;90 mm AP-T
 23mm_ap_md;23 mm AP-T

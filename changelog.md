@@ -56,9 +56,9 @@ All dates are listed in DD-MM-YYYY format.
         - **MG08** → **MG 08**. Long name → **Maschinengewehr 08**.
         - **Garford** (USSR & UK) → **Gárford-Putílov**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Gárford-Putílov**.
         - **Garford-Beute** (Germany) → **Gárford-Putílov (MG 08)**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Gárford-Putílov (Maschinengewehr 08)**.
-        - **Beutepanzer IV** → **Beutepanzer Mk. IV**. Long name → **William Foster & Co. | Beutepanzer Mark IV**.
+        - **Beutepanzer IV** → **Beutepanzer Mk IV**. Long name → **William Foster & Co. | Beutepanzer Mark IV**.
         - **A7V**: Long name → **Daimler Motoren Gesellschaft | Sturmpanzerwagen A7V**.
-        - **Mark V** → **Mk. V (Male)**. Long name → **Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank Mark V (Male)**.
+        - **Mark V** → **Mk V (Male)**. Long name → **Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank Mark V (Male)**.
         - **St-Chamond** → **St.-Chamond Mle. 1918**. Long name → **Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assult Saint-Chamond modèle 1918**.
         - **Zeppelin** → **L 30**. Long name → **Luftschiffbau Zeppelin LZ 62 | Militärluftschiff Typ R | L 30**.
         - **Fokker D.VII** → **D.VII**. Long name → **Fokker-Flugzeugwerke | D.VII**.
@@ -149,19 +149,34 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
     - "The Great War" additions:
         - **7.7 mm Vickers Mk.I machine gun**
+        - **7.92 mm MG08 machine gun**
         - **7.92 mm LMG 08/15 machine gun**
         - **7.92 mm MG 14 machine gun**
+        - **300 kg SC AG**
+        - **H.E. R.F.C. 230 lb**
+        - **7.72 mm Lewis machinegun 1916** (another one)
+        - **7.62 mm Maxim`s machine gun** (a new one for the **Gárford-Putílov**)
+        - **57 mm 6pdr OQF Hotchkiss Mk.I cannon**
+        - **57 mm Maxim-Nordenfelt cannon**
+    - Missing texts:
+        - **AN-M57 250 lb**
+        - **Drop speed range**
 
 - #### Changes:
 
     - "The Great War" changes:
         - **7.7 mm Vickers Mk.I machine gun** → **Gun, Machine, Vickers, .303-inch, Mk. I**.
+        - **7.92 mm MG08 machine gun** → **Maschinengewehr 08**.
         - **7.92 mm LMG 08/15 machine gun** → **leichter Maschinengewehr 08/15**.
         - **7.92 mm MG 14 machine gun** → **Maschinengewehr 14**.
+        - **7.62 mm Maxim`s machine gun** → **56-P-421 | PM-10 obr. 1910 g.**.
+        - **57 mm 6pdr OQF Hotchkiss Mk.I cannon** → **Maschinengewehr 08**.
+        - **57 mm Maxim-Nordenfelt cannon** → **Maxim-Nordenfelt Kasematt-Schnellfeuerkanone 5,7cm**.
     - **7.72 mm Lewis machinegun 1916** → **Gun, Machine, Lewis, .303-inch, Mk. II**. It has recieved its caliber and type tags.
     - **4 in QF Mark V cannon** → **4-Inch Q.F. Gun, Mk. V**. It has recieved its caliber and type tags.
     - **50 mm KwK.39/1 cannon** → **5cm Kampfwagenkanone 39/1 L/60**. It has recieved its caliber and type tags.
     - The **2A64** and **2A64M2** have had their caliber tags corrected to not accidentally display the color formatting tags instead of the colored text.
+    - The **Bomb, 250lb, GP, AN/M57** has recieved its short name of **AN/M57**.
 
 ## 1.12.00 - 18-3-2025
 

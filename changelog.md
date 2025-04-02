@@ -55,9 +55,9 @@ All dates are listed in DD-MM-YYYY format.
     - "The Great War" changes:
         - **MG08** → **MG 08**. Long name → **Maschinengewehr 08**.
         - **Garford** (USSR & UK) → **Gárford-Putílov**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Gárford-Putílov**.
-        - **Garford-Beute** (Germany) → **Gárford-Putílov (MG 08)**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Gárford-Putílov (Maschinengewehr 08)**.
-        - **Beutepanzer IV** → **Beutepanzer Mk IV**. Long name → **William Foster & Co. | Beutepanzer Mark IV**.
-        - **A7V**: Long name → **Daimler Motoren Gesellschaft | Sturmpanzerwagen A7V**.
+        - **Garford-Beute** (Germany) → **Gárford-Putílov**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Gárford-Putílov**.
+        - **Beutepanzer IV** → **s.Kw. (Beute)**. Long name → **William Foster & Co. | schwerer Kampfwagen (Beute)**.
+        - **A7V** → **St.Pz.Kr.W. A7V**. Long name → **Daimler Motoren Gesellschaft | Sturmpanzerkraftwagen A7V**.
         - **Mark V** → **Mk V (Male)**. Long name → **Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank Mark V (Male)**.
         - **St-Chamond** → **St.-Chamond Mle. 1918**. Long name → **Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918**.
         - **Zeppelin** → **L 30**. Long name → **Luftschiffbau Zeppelin LZ 62 | Militärluftschiff Typ R | L 30**.
@@ -143,6 +143,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Bf 109 Z-1** → **Bf 109 Z**.
     - **S 9 C**: Long name → **Republic Aviation Corporation EP-106 | S 9 C**.
     - **AMC/H.35/FCM** group → **AMC 34 / H 35 / FCM 36**.
+    - **KPz M 41 G** → **KPz M 41 (1964)**. Long name → **Cadillac Motor Car Division | leichter Kampfpanzer M 41 (1964)**.
 
 ### Weaponry:
 
@@ -174,7 +175,7 @@ All dates are listed in DD-MM-YYYY format.
         - **7.62 mm Maxim`s machine gun** → **56-P-421 | PM-10 obr. 1910 g.**.
         - **57 mm 6pdr OQF Hotchkiss Mk.I cannon** → **Maschinengewehr 08**.
         - **57 mm Maxim-Nordenfelt cannon** → **Maxim-Nordenfelt Kasematt-Schnellfeuerkanone 5,7cm**.
-        - **76,2 mm Model 1910 cannon** → **76,2-mm protivošturmovaâ puška obr. 1910 g.**.
+        - **76,2 mm Model 1910 cannon** → **76,2-mm obr. 1910 g.**.
         - **76 mm Shrapnel** → **53-UŠ-352 (53-Š-352)**.
     - **7.72 mm Lewis machinegun 1916** → **Gun, Machine, Lewis, .303-inch, Mk. II**. It has recieved its caliber and type tags.
     - **4 in QF Mark V cannon** → **4-Inch Q.F. Gun, Mk. V**. It has recieved its caliber and type tags.

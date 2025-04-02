@@ -158,6 +158,8 @@ All dates are listed in DD-MM-YYYY format.
         - **7.62 mm Maxim`s machine gun** (a new one for the **Gárford-Putílov**)
         - **57 mm 6pdr OQF Hotchkiss Mk.I cannon**
         - **57 mm Maxim-Nordenfelt cannon**
+        - **76,2 mm Model 1910 cannon**
+        - **76 mm Shrapnel**
     - Missing texts:
         - **AN-M57 250 lb**
         - **Drop speed range**
@@ -172,6 +174,8 @@ All dates are listed in DD-MM-YYYY format.
         - **7.62 mm Maxim`s machine gun** → **56-P-421 | PM-10 obr. 1910 g.**.
         - **57 mm 6pdr OQF Hotchkiss Mk.I cannon** → **Maschinengewehr 08**.
         - **57 mm Maxim-Nordenfelt cannon** → **Maxim-Nordenfelt Kasematt-Schnellfeuerkanone 5,7cm**.
+        - **76,2 mm Model 1910 cannon** → **76,2-mm protivošturmovaâ puška obr. 1910 g.**.
+        - **76 mm Shrapnel** → **53-UŠ-352 (53-Š-352)**.
     - **7.72 mm Lewis machinegun 1916** → **Gun, Machine, Lewis, .303-inch, Mk. II**. It has recieved its caliber and type tags.
     - **4 in QF Mark V cannon** → **4-Inch Q.F. Gun, Mk. V**. It has recieved its caliber and type tags.
     - **50 mm KwK.39/1 cannon** → **5cm Kampfwagenkanone 39/1 L/60**. It has recieved its caliber and type tags.

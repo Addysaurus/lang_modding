@@ -59,7 +59,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Beutepanzer IV** → **Beutepanzer Mk IV**. Long name → **William Foster & Co. | Beutepanzer Mark IV**.
         - **A7V**: Long name → **Daimler Motoren Gesellschaft | Sturmpanzerwagen A7V**.
         - **Mark V** → **Mk V (Male)**. Long name → **Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank Mark V (Male)**.
-        - **St-Chamond** → **St.-Chamond Mle. 1918**. Long name → **Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assult Saint-Chamond modèle 1918**.
+        - **St-Chamond** → **St.-Chamond Mle. 1918**. Long name → **Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918**.
         - **Zeppelin** → **L 30**. Long name → **Luftschiffbau Zeppelin LZ 62 | Militärluftschiff Typ R | L 30**.
         - **Fokker D.VII** → **D.VII**. Long name → **Fokker-Flugzeugwerke | D.VII**.
         - **SPAD S.XIII** → **S.XIII**. Long name → **Société pour l'aviation et ses dérivés | S.XIII**.

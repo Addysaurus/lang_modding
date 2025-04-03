@@ -183,7 +183,7 @@ All dates are listed in DD-MM-YYYY format.
         - **76,2 mm Model 1910 cannon** → **76,2-mm obr. 1910 g.**.
         - **76 mm Shrapnel** → **Šrapnyeli 76-mm**.
         - **76 mm Granata** → **Granaty 76-mm**.
-        - **QF AP** → **Steel Shell, Mk. XIII**.
+        - **QF AP** → **6-pr., Steel Shell, Mk. XIII**.
         - **Gr.m.P.** → **5,7cm Gr.m.P. (P.)**.
         - **Gr.** → **5,7cm Gr. (P.)**.
     - **7.72 mm Lewis machinegun 1916** → **Gun, Machine, Lewis, .303-inch, Mk. II**. It has recieved its caliber and type tags.

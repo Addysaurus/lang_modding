@@ -55,10 +55,10 @@ All dates are listed in DD-MM-YYYY format.
     - "The Great War" changes:
         - **MG08** → **MG 08**. Long name → **Maschinengewehr 08**.
         - **Garford** (USSR & UK) → **Gárford-Putílov**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Gárford-Putílov**.
-        - **Garford-Beute** (Germany) → **Gárford-Putílov**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Gárford-Putílov**.
+        - **Garford-Beute** (Germany) → **Pzw. Garford-Putilov (Beute)**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Panzerwagen Garford-Putilov (Beute)**.
         - **Beutepanzer IV** → **s.Kw. (Beute)**. Long name → **William Foster & Co. | schwerer Kampfwagen (Beute)**.
         - **A7V** → **St.Pz.Kr.W. A7V**. Long name → **Daimler Motoren Gesellschaft | Sturmpanzerkraftwagen A7V**.
-        - **Mark V** → **Mk V (Male)**. Long name → **Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank Mark V (Male)**.
+        - **Mark V** → **Mk. V (Male)**. Long name → **Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank Mark V (Male)**.
         - **St-Chamond** → **St.-Chamond Mle. 1918**. Long name → **Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918**.
         - **Zeppelin** → **L 30**. Long name → **Luftschiffbau Zeppelin LZ 62 | Militärluftschiff Typ R | L 30**.
         - **Fokker D.VII** → **D.VII**. Long name → **Fokker-Flugzeugwerke | D.VII**.
@@ -161,6 +161,11 @@ All dates are listed in DD-MM-YYYY format.
         - **57 mm Maxim-Nordenfelt cannon**
         - **76,2 mm Model 1910 cannon**
         - **76 mm Shrapnel**
+        - **76 mm Granata**
+        - **QF AP**
+        - **QF HE**
+        - **Gr.m.P.**
+        - **Gr.**
     - Missing texts:
         - **AN-M57 250 lb**
         - **Drop speed range**
@@ -174,14 +179,43 @@ All dates are listed in DD-MM-YYYY format.
         - **7.92 mm MG 14 machine gun** → **Maschinengewehr 14**.
         - **7.62 mm Maxim`s machine gun** → **56-P-421 | PM-10 obr. 1910 g.**.
         - **57 mm 6pdr OQF Hotchkiss Mk.I cannon** → **Maschinengewehr 08**.
-        - **57 mm Maxim-Nordenfelt cannon** → **Maxim-Nordenfelt Kasematt-Schnellfeuerkanone 5,7cm**.
+        - **57 mm Maxim-Nordenfelt cannon** → **5,7cm Maxim-Nordenfelt L/26**.
         - **76,2 mm Model 1910 cannon** → **76,2-mm obr. 1910 g.**.
         - **76 mm Shrapnel** → **53-UŠ-352 (53-Š-352)**.
+        - **Gr.m.P.** → **5,7cm Gr.m.P. (P.)**.
+        - **Gr.** → **5,7cm Gr. (P.)**.
     - **7.72 mm Lewis machinegun 1916** → **Gun, Machine, Lewis, .303-inch, Mk. II**. It has recieved its caliber and type tags.
     - **4 in QF Mark V cannon** → **4-Inch Q.F. Gun, Mk. V**. It has recieved its caliber and type tags.
     - **50 mm KwK.39/1 cannon** → **5cm Kampfwagenkanone 39/1 L/60**. It has recieved its caliber and type tags.
     - The **2A64** and **2A64M2** have had their caliber tags corrected to not accidentally display the color formatting tags instead of the colored text.
     - The **Bomb, 250lb, GP, AN/M57** has recieved its short name of **AN/M57**.
+
+### Modifications:
+
+- #### Additions:
+
+    - **PL-8B** (forgot to add this in Hornet's Sting)
+
+- #### Changes:
+
+    - **PL8B**
+
+### Engines:
+
+- #### Additions:
+
+    - "The Great War" additions:
+        - **Eagle VIII**
+        - **IIIa**
+        - **Bd**
+    - **Pegasus Mk.107** (forgot to add this in Hornet's Sting)
+
+- #### Changes:
+
+    - "The Great War" changes:
+        - **Eagle VIII** → **Eagle Mk. VIII**.
+        - **Bd** → **8Bd**.
+    - **Pegasus Mk.107** → **Pegasus Mk. 107**.
 
 ## 1.12.00 - 18-3-2025
 

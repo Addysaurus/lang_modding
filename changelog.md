@@ -179,7 +179,7 @@ All dates are listed in DD-MM-YYYY format.
         - **7.92 mm MG 14 machine gun** → **Maschinengewehr 14**.
         - **7.62 mm Maxim`s machine gun** → **PM-10 obr. 1910 g.**.
         - **57 mm 6pdr OQF Hotchkiss Mk.I cannon** → **Maschinengewehr 08**.
-        - **57 mm Maxim-Nordenfelt cannon** → **Belg. 5,7cm K.**.
+        - **57 mm Maxim-Nordenfelt cannon** → **Belgische 5.7cm Kanone**.
         - **76,2 mm Model 1910 cannon** → **76,2-mm obr. 1910 g.**.
         - **76 mm Shrapnel** → **Šrapnyeli 76-mm**.
         - **76 mm Granata** → **Granaty 76-mm**.

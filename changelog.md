@@ -180,6 +180,7 @@ All dates are listed in DD-MM-YYYY format.
         - **7.92 mm LMG 08/15 machine gun** → **leichter Maschinengewehr 08/15**.
         - **7.92 mm MG 14 machine gun** → **Maschinengewehr 14**.
         - **300 kg SC AG** → **300 kg P.u.W.**. Long name → **300 kg Prufanstalt und Werft der Fliergertruppe**.
+        - **H.E. R.F.C. 230 lb** → **Bomb, 230-lb, Mk. III**. Long name → **Bomb, H.E., R.F.C., 230-lb, Mk. III**.
         - **7.62 mm Maxim`s machine gun** → **PM-10 obr. 1910 g.**.
         - **57 mm 6pdr OQF Hotchkiss Mk.I cannon** → **Maschinengewehr 08**.
         - **57 mm Maxim-Nordenfelt cannon** → **Belgische 5.7cm Kanone**.

@@ -149,6 +149,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
     - "The Great War" additions:
+        - **Artillery** (the 203 mm artillery piece in the event gamemode)
         - **7.7 mm Vickers Mk.I machine gun**
         - **7.92 mm MG08 machine gun**
         - **7.92 mm LMG 08/15 machine gun**
@@ -173,6 +174,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - "The Great War" changes:
+        - **Artillery** (the 203 mm artillery piece in the event gamemode) → **B.L., 8-inch, Mk. VI**. Long name → **Carriage, Traveling, Howitzer, B.L., 8-inch, Mk. VI**.
         - **7.7 mm Vickers Mk.I machine gun** → **Gun, Machine, Vickers, .303-inch, Mk. I**.
         - **7.92 mm MG08 machine gun** → **Maschinengewehr 08**.
         - **7.92 mm LMG 08/15 machine gun** → **leichter Maschinengewehr 08/15**.
@@ -187,7 +189,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Gr.m.P.** → **5,7cm Gr.m.P. (P.)**.
         - **Gr.** → **5,7cm Gr. (P.)**.
     - **7.72 mm Lewis machinegun 1916** → **Gun, Machine, Lewis, .303-inch, Mk. II**. It has recieved its caliber and type tags.
-    - **4 in QF Mark V cannon** → **4-Inch Q.F. Gun, Mk. V**. It has recieved its caliber and type tags.
+    - **4 in QF Mark V cannon** → **Gun, Q.F., 4-inch, Mk. V**. It has recieved its caliber and type tags.
     - **50 mm KwK.39/1 cannon** → **5cm Kampfwagenkanone 39/1 L/60**. It has recieved its caliber and type tags.
     - The **2A64** and **2A64M2** have had their caliber tags corrected to not accidentally display the color formatting tags instead of the colored text.
     - The **Bomb, 250lb, GP, AN/M57** has recieved its short name of **AN/M57**.

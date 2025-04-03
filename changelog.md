@@ -177,11 +177,13 @@ All dates are listed in DD-MM-YYYY format.
         - **7.92 mm MG08 machine gun** → **Maschinengewehr 08**.
         - **7.92 mm LMG 08/15 machine gun** → **leichter Maschinengewehr 08/15**.
         - **7.92 mm MG 14 machine gun** → **Maschinengewehr 14**.
-        - **7.62 mm Maxim`s machine gun** → **56-P-421 | PM-10 obr. 1910 g.**.
+        - **7.62 mm Maxim`s machine gun** → **PM-10 obr. 1910 g.**.
         - **57 mm 6pdr OQF Hotchkiss Mk.I cannon** → **Maschinengewehr 08**.
         - **57 mm Maxim-Nordenfelt cannon** → **5,7cm Maxim-Nordenfelt L/26**.
         - **76,2 mm Model 1910 cannon** → **76,2-mm obr. 1910 g.**.
-        - **76 mm Shrapnel** → **53-UŠ-352 (53-Š-352)**.
+        - **76 mm Shrapnel** → **Šrapnyeli 76-mm**.
+        - **76 mm Granata** → **Granaty 76-mm**.
+        - **QF AP** → **Steel Shell, Mk. XIII**.
         - **Gr.m.P.** → **5,7cm Gr.m.P. (P.)**.
         - **Gr.** → **5,7cm Gr. (P.)**.
     - **7.72 mm Lewis machinegun 1916** → **Gun, Machine, Lewis, .303-inch, Mk. II**. It has recieved its caliber and type tags.

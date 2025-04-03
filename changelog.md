@@ -57,7 +57,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Garford** (USSR & UK (UK one is event gamemode only)): Long name → **Garford Motor Truck Company / Putilovskij zavod | Bronirovannyj 4-tonnyj avtomobil' "Garford"**.
         - **Garford-Beute** (Germany) → **Pzw. Garford (Beute)**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Panzerwagen Garford (Beute)**.
         - **Beutepanzer IV** → **s.Kpfw. (Beute)**. Long name → **William Foster & Co. | schwerer Kampfwagen (Beute)**.
-        - **A7V** → **St.Pz.Kr.W. A7V**. Long name → **Daimler Motoren Gesellschaft | Sturmpanzerkraftwagen A7V**.
+        - **A7V** → **s.Kpfw. A7V**. Long name → **Daimler Motoren Gesellschaft | schwerer Kampfwagen A7V**.
         - **Mark V** → **Mk. V (Male)**. Long name → **Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank, Mk. V (Male)**.
         - **St-Chamond** → **St.-Chamond Mle. 1918**. Long name → **Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918**.
         - **Zeppelin** → **L 30**. Long name → **Luftschiffbau Zeppelin LZ 62 | Militärluftschiff Typ R | L 30**.

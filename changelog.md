@@ -56,9 +56,9 @@ All dates are listed in DD-MM-YYYY format.
         - **MG08** → **MG 08**. Long name → **Maschinengewehr 08**.
         - **Garford** (USSR & UK) → **Gárford-Putílov**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Gárford-Putílov**.
         - **Garford-Beute** (Germany) → **Pzw. Garford-Putilov (Beute)**. Long name → **Garford Motor Truck Company / Putilovskij zavod | Panzerwagen Garford-Putilov (Beute)**.
-        - **Beutepanzer IV** → **s.Kw. (Beute)**. Long name → **William Foster & Co. | schwerer Kampfwagen (Beute)**.
+        - **Beutepanzer IV** → **s.Kpfw. (Beute)**. Long name → **William Foster & Co. | schwerer Kampfwagen (Beute)**.
         - **A7V** → **St.Pz.Kr.W. A7V**. Long name → **Daimler Motoren Gesellschaft | Sturmpanzerkraftwagen A7V**.
-        - **Mark V** → **Mk. V (Male)**. Long name → **Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank Mark V (Male)**.
+        - **Mark V** → **Mk. V (Male)**. Long name → **Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank, Mk. V (Male)**.
         - **St-Chamond** → **St.-Chamond Mle. 1918**. Long name → **Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918**.
         - **Zeppelin** → **L 30**. Long name → **Luftschiffbau Zeppelin LZ 62 | Militärluftschiff Typ R | L 30**.
         - **Fokker D.VII** → **D.VII**. Long name → **Fokker-Flugzeugwerke | D.VII**.
@@ -218,6 +218,24 @@ All dates are listed in DD-MM-YYYY format.
         - **Eagle VIII** → **Eagle Mk. VIII**.
         - **Bd** → **8Bd**.
     - **Pegasus Mk.107** → **Pegasus Mk. 107**.
+
+### Loading screens
+
+- #### Additions:
+
+    - **The Great War**
+    - A bunch of loading screens I forgot to add:
+        - **F/A-18C**
+        - **2S19M1**
+        - **Su-30SM**
+        - **Char Moyen Type "Patton" M46**
+        - **Tank Football — What a kick!**
+        - **Strasbourg**
+
+- #### Changes:
+
+    - **F/A-18C** loading screen → **F/A-18C-52-MC**.
+    - **Char Moyen Type "Patton" M46** loading screen → **M46**.
 
 ## 1.12.00 - 18-3-2025
 

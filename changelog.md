@@ -10,6 +10,12 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1 12.02 - UNRELEASED
 
+### Vehicles:
+
+- #### Changes:
+
+    - **ML 345**: Long name → **Diesel Constructors / U.S. Naval Base No. 18 | Fairmile Type B-class | HMS ML 345 (1943)** (the refit location was added).
+
 ### Weaponry:
 
 - #### Changes:

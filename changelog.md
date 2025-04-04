@@ -196,7 +196,7 @@ All dates are listed in DD-MM-YYYY format.
         - **300 kg SC AG** → **300 kg P.u.W.**. Long name → **300 kg Prufanstalt und Werft der Fliergertruppe**.
         - **H.E. R.F.C. 230 lb** → **H.E., R.F.C., 230-lb, Mk. III**. Long name → **Bomb, H.E., R.F.C., 230-lb, Mk. III**.
         - **7.62 mm Maxim`s machine gun** → **PM-10 obr. 1910 g.**.
-        - **57 mm 6pdr OQF Hotchkiss Mk.I cannon** → **Maschinengewehr 08**.
+        - **57 mm 6pdr OQF Hotchkiss Mk.I cannon** → **Gun, Q.F., Hotchkiss, 6-pr. 6-cwt., Mk. I**.
         - **57 mm Maxim-Nordenfelt cannon** → **Belgische 5.7cm Kanone**.
         - **76,2 mm Model 1910 cannon** → **76,2-mm protivošturmovaâ puška obr. 1910 g.**.
         - **76 mm Shrapnel** → **Šrapnyeli 76-mm**.

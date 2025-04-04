@@ -8,7 +8,7 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.12.01 - UNRELEASED
+## 1.12.01 - 03-04-2025
 
 ### General:
 
@@ -82,7 +82,7 @@ All dates are listed in DD-MM-YYYY format.
         - **HMS ML 1383** → **HMS HDML 1383**. Long name → **Anderson Rigden & Perkins | HDML-class | HMS HDML 1383**.
         - **Dark Adventurer (FPB1101)** → **HMS Dark Adventurer (P 1101)**. Long name → **Saunders-Roe | Dark-class | HMS Dark Adventurer (P 1101)**.
         - **Dark Aggressor (FPB1102)** (Standard & Twitch drop) → **HMS Dark Aggressor (P 1102)**. Long name → **Saunders-Roe | Dark-class | HMS Dark Aggressor (P 1102)**.
-        - **HMS Liscomb (T285)** → **HMS Orsay (J 450) (Q.F., Mk. V)**. Long name → **Cochrane & Sons | Isles-class | HMS Orsay (J 450) (4-Inch Q.F. Gun, Mk. V)**. Gaijin bade an awful hybrid of one of the danlayer-fit Isles-classes, most likely HMS Orsay, with an unshielded version of the armament from a Dance-class, a subclass of the Isles-class, grafted onto it.
+        - **HMS Liscomb (T285)** → **HMS Orsay (J 450) (Q.F., 4-inch, Mk. V)**. Long name → **Cochrane & Sons | Isles-class | HMS Orsay (J 450) (Gun, Q.F., 4-inch, Mk. V)**. Gaijin bade an awful hybrid of one of the danlayer-fit Isles-classes, most likely HMS Orsay, with an unshielded version of the armament from a Dance-class, a subclass of the Isles-class, grafted onto it.
         - **HMCS Brantford (K218)** → **HMCS Brantford (K 218)**. Long name → **Midland Shipyards / Cockatoo Island Dockyard | Flower-class | HMCS Brantford (K 218) (1944)**.
         - **MGB-75** → **MGB 75**. Long name → **British Power Boat Co. | BPB 72 ft-class | HMS MGB 75**.
         - **HMS Gay Archer (P1041)** → **HMS Gay Archer (P 1041)**. Long name → **Vosper & Co. | Gay-class | HMS Gay Archer (P 1041)**.
@@ -132,8 +132,8 @@ All dates are listed in DD-MM-YYYY format.
     - **A-11B** → **A-11A**. Long name → **AMX International AMX | A-11A Ghibli**.
     - **Tigre HAD/E (Bloque 1)** (Germany / Spain) → **HA.28 HAD/E (Bloque 1)**. Long name → **HA.28 Tigre, Helicóptero de Ataque y Destrucción (Bloque 1)**.
     - **S.M.79 B (1936)** (Italy / Romania & Germany / Romania) → **S.79-B**. Long name → **Savoia-Marchetti / Industria Aeronautică Română | S.79-B**. The folders have been adjusted accordingly.
-    - **B-29A-45-BN** (Swedish nuclear killstreak vehicle): Long name → **B-29A-45BN Superfortress**. Basically, an extra dash that was there as a typo was removed.
-    - **F/A-18C-51-MC** → **F/A-18C-52-MC**. It has JHMCS, datalink, and the LITENING II pod which make it a Block 52.
+    - **B-29A-45-BN** (Swedish nuclear killstreak vehicle): Long name → **B-29A-45BN Superfortress**. An extra dash that was there as a typo was removed.
+    - **F/A-18C-51-MC** → **F/A-18C-52-MC**. It has JHMCS, datalink, and the LITENING II pod which makes it a Block 52.
     - **Meteor / Sea Meteor F. Mk. 3** folder renamed to **Meteor F. Mk. 3 / 3 (EE337)**.
     - **Meteor F. Mk. 4 G.41F / G / K** folder renamed to **Meteor F. Mk. 3/4 / 4 / 8**.
     - **J11 / 11A (MLU)** folder renamed to **Su-27SK / J11A**.
@@ -180,7 +180,7 @@ All dates are listed in DD-MM-YYYY format.
         - **7.92 mm LMG 08/15 machine gun** → **leichter Maschinengewehr 08/15**.
         - **7.92 mm MG 14 machine gun** → **Maschinengewehr 14**.
         - **300 kg SC AG** → **300 kg P.u.W.**. Long name → **300 kg Prufanstalt und Werft der Fliergertruppe**.
-        - **H.E. R.F.C. 230 lb** → **Bomb, 230-lb, Mk. III**. Long name → **Bomb, H.E., R.F.C., 230-lb, Mk. III**.
+        - **H.E. R.F.C. 230 lb** → **H.E., R.F.C., 230-lb, Mk. III**. Long name → **Bomb, H.E., R.F.C., 230-lb, Mk. III**.
         - **7.62 mm Maxim`s machine gun** → **PM-10 obr. 1910 g.**.
         - **57 mm 6pdr OQF Hotchkiss Mk.I cannon** → **Maschinengewehr 08**.
         - **57 mm Maxim-Nordenfelt cannon** → **Belgische 5.7cm Kanone**.

@@ -8,6 +8,14 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1 12.02 - UNRELEASED
+
+### Weaponry:
+
+- #### Changes:
+
+    - **Belgische 5.7cm Kanone** → **Belgische 5,7cm Kanone**.
+
 ## 1.12.01 - 03-04-2025
 
 ### General:

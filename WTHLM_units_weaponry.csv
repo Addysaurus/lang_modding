@@ -4559,8 +4559,12 @@ weapons/75mm_1897_user_cannon;<color=@userlogColoredText>75 mm</color> Matériel
 weapons/76mm_1910_16_user_cannon;<color=@userlogColoredText>76.2 mm</color> 76,2-mm protivošturmovaâ puška obr. 1910 g. <color=#ff6f00>CNN</color>
 76mm_1910_shrapnel;Šrapnyeli 76-mm
 76mm_1910_he;Granaty 76-mm
-57mm_qf_ap;6-pr., Steel Shell, Mk. XIII
-57mm_qf_he;6-pr., Common Shell, Mk. III
+57mm_qf_ap;"Shell, A.P., Mk. V
+<color=@commonTextColor>Full designation:</color> Cartridge, Q.F., 6-pr., Cordite M.D., Steel Shell,
+Mk. XIV (Shell, Q.F., A.P., 6-pr. 6-cwt., Mk. V)"
+57mm_qf_he;"Shell, H.E.T., Mk. V
+<color=@commonTextColor>Full designation:</color> Cartridge, Q.F., 6-pr., Cordite M.D., Common Shell,
+Mk. III (Shell, Q.F., H.E.T., 6-pr. 6-cwt., Mk. I)"
 57mm_gr_p;5,7cm Gr.m.P. (P.)
 57mm_gr;5,7cm Gr. (P.)
 125mm_9m_119m1;3UBK20M (9M119M1)

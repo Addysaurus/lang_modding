@@ -18,13 +18,15 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
-- A new system for ammunition has been introduced that will allow ammunition to have pseudo-long names. The format is **Short name, [newline], Full designation: Long name**. What this does is it shows the standard short name, with the long name being cut off. However, if you hover over it, it will show the ammunition's stat card with its full name. The first pieces of ammunition to have this new format introduced will be the shells on the **Mk. V (Male)**. The first full set of ammunition to have this system introduced will be the ammunition in the upcoming rework of British weapons that is currently in its source-gathering phase.
+- A new system for ammunition has been introduced that will allow ammunition to have pseudo-long names. The format is **Short name, [newline], Full designation: Long name**. What this does is it shows the standard short name, with the long name being cut off. However, if you hover over it, it will show the ammunition's stat card with its full name. The first pieces of ammunition to have this new format introduced will be the shells on the **Mk. V (Male)**, **s.Kpfw. (Beute)**, and **s.Kpfw. A7V**. The first full set of ammunition to have this system introduced will be the ammunition in the upcoming rework of British weapons that is currently in its source-gathering phase.
 
 - #### Changes:
 
     - **Belgische 5.7cm Kanone** → **Belgische 5,7cm Kanone**.
     - **6-pr., Steel Shell, Mk. XIII** → **Shell, A.P., Mk. V**. Long name → **Cartridge, Q.F., 6-pr., Cordite M.D., Steel Shell, Mk. XIV (Shell, Q.F., A.P., 6-pr. 6-cwt., Mk. V)**.
-    - **6-pr., Common Shell, Mk. III** → **Shell, H.E.T., Mk. I** Long name → **Cartridge, Q.F., 6-pr., Cordite M.D., Common Shell, Mk. III (Shell, Q.F., H.E.T., 6-pr. 6-cwt., Mk. I)**.
+    - **6-pr., Common Shell, Mk. III** → **Shell, H.E.T., Mk. I**. Long name → **Cartridge, Q.F., 6-pr., Cordite M.D., Common Shell, Mk. III (Shell, Q.F., H.E.T., 6-pr. 6-cwt., Mk. I)**.
+    - **5,7cm Gr.m.P. (P.)** → **5,7cm Gr.m.P.**. Long name → **5,7cm Granate mit Panzerkopf**.
+    - **5,7cm Gr. (P.)** → **5,7cm Gr.**. Long name → **5,7cm Granate**.
 
 ## 1.12.01 - 03-04-2025
 

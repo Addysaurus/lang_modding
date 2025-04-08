@@ -24,6 +24,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **Belgische 5.7cm Kanone** → **Belgische 5,7cm Kanone**.
+    - **Matériel de 75 mm Mle 1897** → **Matériel de 75 mm modèle 1897**.
     - **6-pr., Steel Shell, Mk. XIII** → **Shell, A.P., Mk. V**
         - Full Ammunition Names package: → **Cartridge, Q.F., 6-pr., Cordite M.D., Steel Shell, Mk. XIV (Shell, Q.F., A.P., 6-pr. 6-cwt., Mk. V)**.
     - **6-pr., Common Shell, Mk. III** → **Shell, H.E.T., Mk. I**.

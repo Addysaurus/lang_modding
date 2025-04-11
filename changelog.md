@@ -15,7 +15,6 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **ML 345**: Long name → **Diesel Constructors / U.S. Naval Base No. 18 | Fairmile Type B-class | HMS ML 345 (1943)** (the refit location was added).
-    - **F-4E-48-MC** (USA & Israel) → **F-4E-42-MC (1973)**.
 
 ### Weaponry:
 

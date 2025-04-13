@@ -12,8 +12,16 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **Meteor FR.9** (Israel)
+
 - #### Changes:
 
+    - **Meteor FR.9** (Israel) → **Meteor F.R. Mk. 9**. Long name → **Gloster Aircraft Company G.41L | Meteor F.R. Mk. 9**.
+    - **Meteor F. Mk. 8** (UK & Israel): Long name → **Gloster Aircraft Company G.41K | Meteor F. Mk. 8**.
+    - **Meteor F. Mk. 8** (France / Belgium): Long name → **Gloster Aircraft Company G.41K / Avions Fairey | Meteor F. Mk. 8**.
+    - **Meteor N.F. Mk. 13** (Israel): Long name → **Gloster Aircraft Company G.47 / Armstrong Whitworth | Meteor N.F. Mk. 13**.
     - **ML 345**: Long name → **Diesel Constructors / U.S. Naval Base No. 18 | Fairmile Type B-class | HMS ML 345 (1943)** (the refit location was added).
 
 ### Weaponry:
@@ -32,6 +40,12 @@ All dates are listed in DD-MM-YYYY format.
         - Full Ammunition Names package: → **5,7cm Granate mit Panzerkopf**.
     - **5,7cm Gr. (P.)** → **5,7cm Gr.**.
         - Full Ammunition Names package: → **5,7cm Granate**.
+    - **20 mm Rh202 cannon** → **Rheinmetall Rh202 | MK 20 DM 6 A1**.
+    - **Gun-Launcher, 152mm, M81** → **Gun-Launcher, 152mm, M81E1**.
+    - **7.92 mm BESA machine gun** → **Gun, Machine, Besa, 7.92-mm, Mk. III\***.
+    - **Hispano Mk. I** → **Gun, Automatic, Hispano, 20-mm, Mk. I**.
+    - **Hispano Mk. II** → **Gun, 20mm, Hispano, Mk. II**. Short name (only on the tutorial one) → **Hispano, Mk. II**.
+    - **Hispano Mk. V** → **Gun, 20mm, Hispano, Mk. V**.
 
 ## 1.12.01 - 03-04-2025
 

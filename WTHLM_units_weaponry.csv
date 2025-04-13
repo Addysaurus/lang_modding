@@ -59,7 +59,7 @@ weapons/gunBrowning50_usaaf;<color=@userlogColoredText>12.7 mm</color> Machine G
 weapons/gunBrowning50_turret;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
 weapons/gunBrowning50_turret_late;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
 weapons/gunDA762;<color=@userlogColoredText>7.62 mm</color> 56-P-323 | DA <color=#ff6f00>MG</color>
-weapons/cannonHispanoMkI;<color=@userlogColoredText>20 mm</color> Hispano Mk. I <color=#ff6f00>ACNN</color>
+weapons/cannonHispanoMkI;<color=@userlogColoredText>20 mm</color> Gun, Automatic, Hispano, 20-mm, Mk. I <color=#ff6f00>ACNN</color>
 weapons/cannonHispano404;20 mm Hispano 404 cannon
 weapons/gunBrowningM36No3;<color=@userlogColoredText>7.7 mm</color> 7,70 mm lentokonekivääri mallia 1936 <color=#ff6f00>MG</color>
 weapons/gunBrowningM36No3/short;7,70 lkk/36
@@ -70,11 +70,11 @@ weapons/gunBrowningM36No4Holand_turret/short;FN-Browning M.36 No.4
 weapons/cannonOerliconFF;20 mm Oerlikon FF cannon
 weapons/cannonOerliconFF/short;Oerlikon FF
 weapons/cannonHispano404_turret;20 mm Hispano 404 cannon
-weapons/cannonHispanoMkII;<color=@userlogColoredText>20 mm</color> Hispano Mk. II <color=#ff6f00>ACNN</color>
-weapons/cannonHispanoMkII_tutorial;<color=@userlogColoredText>20 mm</color> Hispano Mk. II <color=#ff6f00>ACNN</color>
-weapons/cannonHispanoMkII_tutorial/short;Hispano Mk. II
-weapons/cannonHispanoMkV;<color=@userlogColoredText>20 mm</color> Hispano Mk. V <color=#ff6f00>ACNN</color>
-weapons/cannonHispanoMkV_turret;<color=@userlogColoredText>20 mm</color> Hispano Mk. V <color=#ff6f00>ACNN</color>
+weapons/cannonHispanoMkII;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Hispano, Mk. II <color=#ff6f00>ACNN</color>
+weapons/cannonHispanoMkII_tutorial;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Hispano, Mk. II <color=#ff6f00>ACNN</color>
+weapons/cannonHispanoMkII_tutorial/short;Hispano, Mk. II
+weapons/cannonHispanoMkV;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Hispano, Mk. V <color=#ff6f00>ACNN</color>
+weapons/cannonHispanoMkV_turret;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Hispano, Mk. V <color=#ff6f00>ACNN</color>
 weapons/cannonSAA;102 mm 102/35 mod 14 cannon
 weapons/cannonVickers_S;40 mm Vickers S cannon
 weapons/cannonVickers_S_underwing;40 mm Vickers S cannon (secondary)
@@ -1623,8 +1623,8 @@ weapons/7_92mm_ZB_VZ37_user_machinegun;7.92 mm MG37(t) machine gun
 weapons/7_92mm_MG42_user_machinegun;7.92 mm MG42 machine gun
 weapons/7_92mm_MG34_user_machinegun;7.92 mm MG34 machine gun
 weapons/7_92mm_mg15_1936_naval_user_machinegun;7.92 mm MG15 machine gun
-weapons/7_92mm_BESA_user_machinegun;7.92 mm BESA machine gun
-weapons/7_92mm_BESA_AA_user_machinegun;7.92 mm BESA machine gun
+weapons/7_92mm_BESA_user_machinegun;<color=@userlogColoredText>7.92 mm</color> Gun, Machine, Besa, 7.92-mm, Mk. III* <color=#ff6f00>MG</color>
+weapons/7_92mm_BESA_AA_user_machinegun;<color=@userlogColoredText>7.92 mm</color> Gun, Machine, Besa, 7.92-mm, Mk. III* <color=#ff6f00>MG</color>
 weapons/7_92mm_MG13_Dreyse_user_machinegun;7.92 mm MG13 Dreyse machine gun
 weapons/7_62mm_M73_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, M73 <color=#ff6f00>MG</color>
 weapons/7_62mm_M60D_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M60D <color=#ff6f00>MG</color>
@@ -4965,10 +4965,10 @@ weapons/20mm_MG151_20_user_cannon;20 mm MG151/20 cannon
 weapons/105mm_ZPL98A_user_cannon;<color=@userlogColoredText>105 mm</color> ZPL1998A 105 háomi tankè pào <color=#ff6f00>CNN</color>
 weapons/105mm_ZPL151A_user_cannon;<color=@userlogColoredText>105 mm</color> ZPL151A 105 Háomi Tankè Pào <color=#ff6f00>CNN</color>
 weapons/20mm_GAI_CO1_user_cannon;20 mm GAI C01 cannon
-weapons/20mm_Rh_202_Wiesel_user_cannon;20 mm Rh202 cannon
-weapons/20mm_Rh_202_Marder_user_cannon;20 mm Rh202 cannon
-weapons/20mm_Rh_202_user_cannon;20 mm Rh202 cannon
-weapons/20mm_luchs_a2_user_cannon;20 mm Rh202 cannon
+weapons/20mm_Rh_202_Wiesel_user_cannon;<color=@userlogColoredText>20 mm</color> Rheinmetall Rh202 | MK 20 DM 6 A1 <color=#ff6f00>ACNN</color>
+weapons/20mm_Rh_202_Marder_user_cannon;<color=@userlogColoredText>20 mm</color> Rheinmetall Rh202 | MK 20 DM 6 A1 <color=#ff6f00>ACNN</color>
+weapons/20mm_Rh_202_user_cannon;<color=@userlogColoredText>20 mm</color> Rheinmetall Rh202 | MK 20 DM 6 A1 <color=#ff6f00>ACNN</color>
+weapons/20mm_luchs_a2_user_cannon;<color=@userlogColoredText>20 mm</color> Rheinmetall Rh202 | MK 20 DM 6 A1 <color=#ff6f00>ACNN</color>
 20mm_dm63;DM 63
 20mm_dm43;DM 43
 20mm_dm51a1;DM 51 A1
@@ -6100,7 +6100,7 @@ weapons/87_6mm_31_ordnance_qf_naval_user_cannon;87,6 mm Ordnance QF 25pdr gun
 87_6mm_ap_shot;87,6 mm Shot It APC
 weapons/76mm_50_canet_mod1891_naval_user_cannon;75 mm/50 Canet model 1891 cannon
 75mm_oea_mle1907;75 mm Mle 1907 HE-TF
-weapons/152mm_m81_naval_user_cannon;<color=@userlogColoredText>152 mm</color> Gun-Launcher, 152mm, M81 <color=#ff6f00>CNN-LCH</color>
+weapons/152mm_m81_naval_user_cannon;<color=@userlogColoredText>152 mm</color> Gun-Launcher, 152mm, M81E1 <color=#ff6f00>CNN-LCH</color>
 weapons/57mm_60_mle1951_naval_user_cannon;57 mm/60 ACAD Mle 1951
 57mm_model1951;57 mm Mle 1951 HE
 weapons/8mm_breda_mod37_naval_user_machinegun;8 mm Breda mod.37 machinegun

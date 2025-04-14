@@ -39,6 +39,12 @@ All dates are listed in DD-MM-YYYY format.
 
 - The new Full Ammunition Names package has been released. It currently only applies to 4 rounds, but will apply to more types of ammunition going forward, including the upcoming British weaponry rework that is currently in its sourcing phase. Certain ammunition names, especially those that list the cartridge seperately, either have shortened forms that do not fully describe the ammunition, or in the case of British ammuniton, do not have shortened forms at all. The base mod will have names shortened to be as accurate as they can while still short, but in the case of British ammuniton, the shortened forms will have to be ahistorical. The new Full Ammunition Names package will contain the complete names for ammunition. This is because, unlike with missiles and bombs, the game does not have long and short names for ammunition for guns.
 
+- #### Additions:
+
+    - **Zuni Mk34 (Smoke)** (for the upcoming SEAD test event)
+    - **SM-90 SAM S-75 launcher** (for the upcoming SEAD test event)
+    - **V-759** (for the upcoming SEAD test event)
+
 - #### Changes:
 
     - **Belgische 5.7cm Kanone** → **Belgische 5,7cm Kanone**.
@@ -57,6 +63,10 @@ All dates are listed in DD-MM-YYYY format.
     - **Hispano Mk. I** → **Gun, Automatic, Hispano, 20-mm, Mk. I**.
     - **Hispano Mk. II** → **Gun, 20mm, Hispano, Mk. II**. Short name (only on the tutorial one) → **Hispano, Mk. II**.
     - **Hispano Mk. V** → **Gun, 20mm, Hispano, Mk. V**.
+    - **Zuni Mk34 (Smoke)** → **5-inch FFAR, Mk 16 Mod 0 (Mk 34 Mod 0)**. Long name → **Rocket Motor, 5-inch FFAR, Mk 16 Mod 0 (Rocket Head, 5-inch, Mk 34 Mod 0 (Smoke WP))**.
+    - **SM-90 SAM S-75 launcher** → **ZRK SM-90**.
+    - **V-759**: Long name → **ZUR 5Ya23 | V-759**.
+    - **5-inch FFAR Mk 32 Mod 0** → **5-inch FFAR, Mk 16 Mod 0 (Mk 32 Mod 0)**. Long name → **Rocket Motor, 5-inch FFAR, Mk 16 Mod 0 (Rocket Head, 5-inch, Mk 32 Mod 0 (ATAP))**.
 
 ## 1.12.01 - 03-04-2025
 

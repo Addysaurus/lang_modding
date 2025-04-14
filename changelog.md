@@ -15,6 +15,11 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - **Meteor FR.9** (Israel)
+    - **F-4E Phantom II** (new one for the upcoming SEAD test event)
+    - **AH-1F** (new one for the upcoming SEAD test event)
+    - **MiG-21bis** (new one for the upcoming SEAD test event)
+    - **SM-90 SAM S-75 launcher** (for the upcoming SEAD test event)
+    - **P-12 SAM S-75 acquisition radar** (for the upcoming SEAD test event)
 
 - #### Changes:
 
@@ -23,6 +28,12 @@ All dates are listed in DD-MM-YYYY format.
     - **Meteor F. Mk. 8** (France / Belgium): Long name → **Gloster Aircraft Company G.41K / Avions Fairey | Meteor F. Mk. 8**.
     - **Meteor N.F. Mk. 13** (Israel): Long name → **Gloster Aircraft Company G.47 / Armstrong Whitworth | Meteor N.F. Mk. 13**.
     - **ML 345**: Long name → **Diesel Constructors / U.S. Naval Base No. 18 | Fairmile Type B-class | HMS ML 345 (1943)** (the refit location was added).
+    - **F-4E Phantom II** (new one for the upcoming SEAD test event) → **F-4E-48-MC**.
+    - **AH-1F**: Long name → **Bell Helicopter Textron Model 209 | Helicopter, Attack, AH-1F Cobra**.
+    - **MiG-21bis**: Long name → **OKB Mikoâna i Guryeviča | izd. 75 | MiG-21bis**.
+    - **SM-90 SAM S-75 launcher** → **Konstruktorskoye bûro №1 | ZRK SM-90**.
+    - **P-12 SAM S-75 acquisition radar** → **Spyeczial'noye konstruktorskoye bûro №197 | P-12 "Yenisyej"**.
+    - **SNR-75 SAM S-75 target tracking radar** → **SNR-75** (unable to find manufacturer).
 
 ### Weaponry:
 

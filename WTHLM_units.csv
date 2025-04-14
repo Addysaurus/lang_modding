@@ -1180,6 +1180,15 @@ uk_aircraftcarrier_ark_royal_2;Carrier
 air_defence/us_ground_12mm_m2_noground_0;Machine Gun
 air_defence/us_ground_12mm_m2_noground_1;Machine Gun
 air_defence/us_ground_12mm_m2_noground_2;Machine Gun
+ussr_ai_sam_launcher_s_75_shop;Konstruktorskoye bûro №1 | ZRK SM-90
+ussr_ai_sam_launcher_s_75_0;SM-90
+ussr_ai_sam_launcher_s_75_2;SAM
+ussr_ai_sam_radar_p_12_shop;"Spyeczial'noye konstruktorskoye bûro №197 | P-12 ""Yenisyej"""
+ussr_ai_sam_radar_p_12_0;P-12
+ussr_ai_sam_radar_p_12_2;Radar
+ussr_ai_sam_radar_snr_75_shop;SNR-75
+ussr_ai_sam_radar_snr_75_0;SNR-75
+ussr_ai_sam_radar_snr_75_2;Radar
 //NON-NATIONAL GROUPS
 shop/group/md_btr_80_group;Armadillo
 shop/group/md_bosvark_group;Boar
@@ -2650,6 +2659,10 @@ f-4e_shop;F-4E-48-MC
 f-4e_0;F-4E-48-MC Phantom II
 f-4e_1;F-4E
 f-4e_2;F-4
+f_4e_event_shop;F-4E-48-MC
+f_4e_event_0;F-4E-48-MC Phantom II
+f_4e_event_1;F-4E
+f_4e_event_2;F-4
 f-4j_shop;F-4J-34-MC
 f-4j_0;F-4J-34-MC Phantom II
 f-4j_1;F-4J
@@ -2745,9 +2758,13 @@ ah_1g_0;AH-1G Cobra
 ah_1g_1;AH-1G
 ah_1g_2;AH-1
 ah_1f_shop;AH-1F
-ah_1f_0;AH-1F Cobra
+ah_1f_0;Bell Helicopter Textron Model 209 | Helicopter, Attack, AH-1F Cobra
 ah_1f_1;AH-1F
 ah_1f_2;AH-1
+ah_1f_event_shop;AH-1F
+ah_1f_event_0;Bell Helicopter Textron Model 209 | Helicopter, Attack, AH-1F Cobra
+ah_1f_event_1;AH-1F
+ah_1f_event_2;AH-1
 ah_1w_shop;AH-1W
 ah_1w_0;AH-1W Cobra
 ah_1w_1;AH-1W
@@ -11772,9 +11789,13 @@ mig-21_s_0;izd. 95 | MiG-21S (R-13-300)
 mig-21_s_1;MiG-21S
 mig-21_s_2;MiG-21
 mig-21_bis_shop;MiG-21bis
-mig-21_bis_0;izd. 75 | MiG-21bis
+mig-21_bis_0;OKB Mikoâna i Guryeviča | izd. 75 | MiG-21bis
 mig-21_bis_1;MiG-21bis
 mig-21_bis_2;MiG-21
+mig-21_bis_event_shop;MiG-21bis
+mig-21_bis_event_0;OKB Mikoâna i Guryeviča | izd. 75 | MiG-21bis
+mig-21_bis_event_1;MiG-21bis
+mig-21_bis_event_2;MiG-21
 mig-21_pfm_shop;MiG-21PFM (94)
 mig-21_pfm_0;izd. 94 | MiG-21PFM
 mig-21_pfm_1;MiG-21PFM

@@ -10,6 +10,10 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.12.02 - UNRELEASED
 
+### General:
+
+- I would like to welcome czartraktheprotogen to the mod team! czartraktheprotogen has been working on the F-4 Phantom IIs and has been a massive help on figuring out the confusing nightmare hellspawn of satan that is this thing's production history.
+
 ### Vehicles:
 
 - #### Additions:

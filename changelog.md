@@ -28,6 +28,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Meteor F. Mk. 8** (France / Belgium): Long name → **Gloster Aircraft Company G.41K / Avions Fairey | Meteor F. Mk. 8**.
     - **Meteor N.F. Mk. 13** (Israel): Long name → **Gloster Aircraft Company G.47 / Armstrong Whitworth | Meteor N.F. Mk. 13**.
     - **ML 345**: Long name → **Diesel Constructors / U.S. Naval Base No. 18 | Fairmile Type B-class | HMS ML 345 (1943)** (the refit location was added).
+    - **F-4C-25-MC** → **F-4C-24-MC**. Long name → **McDonnell Aircraft Corporation Model 98DJ | F-4C-24-MC Phantom II**.
     - **F-4E Phantom II** (new one for the upcoming SEAD test event) → **F-4E-48-MC**.
     - **AH-1F**: Long name → **Bell Helicopter Textron Model 209 | Helicopter, Attack, AH-1F Cobra**.
     - **MiG-21bis**: Long name → **OKB Mikoâna i Guryeviča | izd. 75 | MiG-21bis**.

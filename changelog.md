@@ -30,15 +30,19 @@ All dates are listed in DD-MM-YYYY format.
     - **Meteor FR.9** (Israel) → **Meteor F.R. Mk. 9**. Long name → **Gloster Aircraft Company G.41L | Meteor F.R. Mk. 9**.
     - **Meteor F. Mk. 8** (UK & Israel): Long name → **Gloster Aircraft Company G.41K | Meteor F. Mk. 8**.
     - **Meteor F. Mk. 8** (France / Belgium): Long name → **Gloster Aircraft Company G.41K / Avions Fairey | Meteor F. Mk. 8**.
+    - **Meteor F. Mk. 3**: Long name → **Gloster Aircraft Company G.41D | Meteor F. Mk. 3**.
+    - **Meteor F. Mk. 3 (EE337)**: Long name → **Gloster Aircraft Company G.41D | Meteor F. Mk. 3 (EE337) (Derwent Mk. 5)**.
+    - **Meteor F. Mk. 3/4 (EE360)**: Long name → **Gloster Aircraft Company G.41E | Meteor F. Mk. 3/4 (EE360) (Derwent Mk. 5)**.
+    - **Meteor F. Mk. 4**: Long name → **Gloster Aircraft Company G.41G | Meteor F. Mk. 4**.
     - **Meteor N.F. Mk. 13** (Israel): Long name → **Gloster Aircraft Company G.47 / Armstrong Whitworth | Meteor N.F. Mk. 13**.
     - **ML 345**: Long name → **Diesel Constructors / U.S. Naval Base No. 18 | Fairmile Type B-class | HMS ML 345 (1943)** (the refit location was added).
     - F-4 Phantom rework:
         - **F-4C-25-MC** → **F-4C-24-MC**. Long name → **McDonnell Aircraft Corporation Model 98DJ | F-4C-24-MC Phantom II**.
         - **F-4E Phantom II** (new one for the upcoming SEAD test event) → **F-4E-48-MC**.
-        - **F-4E-48-MC** (tech tree and SEAD event): Long name → **McDonnell Aircraft Corporation Model 98HO | F-4E-48-MC Phantom II**.
-        - **F-4E-48-MC** (Israel): Long name → **McDonnell Aircraft Corporation Model 98HO | F-4E-48-MC Ḳurnas**.
-        - **F-4F KWS-LV** (Germany): Long name → **McDonnell Douglas Model 98NQ | F-4F Kampfwertsteigerung Luftverteidigung**.
-        - **F-4J-34-MC** → **F-4J-46-MC**. Long name → **McDonnell Aircraft Corporation Model 98NC | F-4J-46-MC Phantom II**.
+        - **F-4E-48-MC** (tech tree and SEAD event): Long name → **McDonnell Douglas Corporation Model 98HO | F-4E-48-MC Phantom II**.
+        - **F-4E-48-MC** (Israel): Long name → **McDonnell Douglas Corporation Model 98HO | F-4E-48-MC Ḳurnas**.
+        - **F-4F KWS-LV** (Germany): Long name → **McDonnell Douglas Corporation Model 98NQ | F-4F Kampfwertsteigerung Luftverteidigung**.
+        - **F-4J-34-MC** → **F-4J-46-MC**. Long name → **McDonnell Douglas Corporation Model 98NC | F-4J-46-MC Phantom II**.
         - **Phantom F.G. Mk. 1**: Long name → **McDonnell Douglas Corporation Model 98FB / British Aerospace Corporation | Phantom F.G. Mk. 1**.
         - **Phantom F.G.R. Mk. 2**: Long name → **McDonnell Douglas Corporation Model 98KD / British Aerospace Corporation | Phantom F.G.R. Mk. 2**.
         - **F-4EJ-MIT** → **F-4EJ-MIT (C3)**: Long name → **McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT "Fantomu" (C3 Rotto)**.

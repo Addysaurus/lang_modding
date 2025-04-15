@@ -39,6 +39,8 @@ All dates are listed in DD-MM-YYYY format.
     - **SM-90 SAM S-75 launcher** → **Konstruktorskoye bûro №1 | ZRK SM-90**.
     - **P-12 SAM S-75 acquisition radar** → **Spyeczial'noye konstruktorskoye bûro №197 | P-12 "Yenisyej"**.
     - **SNR-75 SAM S-75 target tracking radar** → **SNR-75** (unable to find manufacturer).
+    - **Phantom F.G. Mk. 1**: Long name → **McDonnell Douglas Corporation Model 98FB / British Aerospace Corporation | Phantom F.G. Mk. 1**.
+    - **Phantom F.G.R. Mk. 2**: Long name → **McDonnell Douglas Corporation Model 98KD / British Aerospace Corporation | Phantom F.G.R. Mk. 2**.
 
 ### Weaponry:
 

@@ -32,15 +32,22 @@ All dates are listed in DD-MM-YYYY format.
     - **Meteor F. Mk. 8** (France / Belgium): Long name → **Gloster Aircraft Company G.41K / Avions Fairey | Meteor F. Mk. 8**.
     - **Meteor N.F. Mk. 13** (Israel): Long name → **Gloster Aircraft Company G.47 / Armstrong Whitworth | Meteor N.F. Mk. 13**.
     - **ML 345**: Long name → **Diesel Constructors / U.S. Naval Base No. 18 | Fairmile Type B-class | HMS ML 345 (1943)** (the refit location was added).
-    - **F-4C-25-MC** → **F-4C-24-MC**. Long name → **McDonnell Aircraft Corporation Model 98DJ | F-4C-24-MC Phantom II**.
-    - **F-4E Phantom II** (new one for the upcoming SEAD test event) → **F-4E-48-MC**.
+    - F-4 Phantom rework:
+        - **F-4C-25-MC** → **F-4C-24-MC**. Long name → **McDonnell Aircraft Corporation Model 98DJ | F-4C-24-MC Phantom II**.
+        - **F-4E Phantom II** (new one for the upcoming SEAD test event) → **F-4E-48-MC**.
+        - **Phantom F.G. Mk. 1**: Long name → **McDonnell Douglas Corporation Model 98FB / British Aerospace Corporation | Phantom F.G. Mk. 1**.
+        - **Phantom F.G.R. Mk. 2**: Long name → **McDonnell Douglas Corporation Model 98KD / British Aerospace Corporation | Phantom F.G.R. Mk. 2**.
+        - **F-4EJ-MIT** → **F-4EJ-MIT (C3)**: Long name → **McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT "Fantomu" (C3 Rotto)**.
+            - Japanese package: Long name → **McDonnell Douglas Corporation Model 98MB / 三菱重工業 | F-4EJ-MIT「ファントム」(C3ロット)**.
+        - **F-4EJ-MIT (Hi Kai Ji Dan)** → **F-4EJ-MIT (Hi Kai Ji Dan) (C3)**: Long name → **McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT "Fantomu" (C3 Rotto) (Hikō Kaihatsu Jikken Dan)**.
+            - Japanese package: **F-4EJ-MIT (飛開実団)** → **F-4EJ-MIT (C3) (飛開実団)**. Long name → **McDonnell Douglas Corporation Model 98MB / 三菱重工業 | F-4EJ-MIT「ファントム」(C3ロット) (飛行開発実験団)**.
+        - **F-4EJ-MIT Kai**: Long name → **McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT Kai "Fantomu"**.
+            - **- Japanese package: Long name → **McDonnell Douglas Corporation Model 98MB / 三菱重工業 | F-4EJ-MIT改「ファントム**.
     - **AH-1F**: Long name → **Bell Helicopter Textron Model 209 | Helicopter, Attack, AH-1F Cobra**.
     - **MiG-21bis**: Long name → **OKB Mikoâna i Guryeviča | izd. 75 | MiG-21bis**.
     - **SM-90 SAM S-75 launcher** → **Konstruktorskoye bûro №1 | ZRK SM-90**.
     - **P-12 SAM S-75 acquisition radar** → **Spyeczial'noye konstruktorskoye bûro №197 | P-12 "Yenisyej"**.
     - **SNR-75 SAM S-75 target tracking radar** → **SNR-75** (unable to find manufacturer).
-    - **Phantom F.G. Mk. 1**: Long name → **McDonnell Douglas Corporation Model 98FB / British Aerospace Corporation | Phantom F.G. Mk. 1**.
-    - **Phantom F.G.R. Mk. 2**: Long name → **McDonnell Douglas Corporation Model 98KD / British Aerospace Corporation | Phantom F.G.R. Mk. 2**.
 
 ### Weaponry:
 

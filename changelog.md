@@ -41,10 +41,14 @@ All dates are listed in DD-MM-YYYY format.
         - **F-4E Phantom II** (new one for the upcoming SEAD test event) → **F-4E-48-MC**.
         - **F-4E-48-MC** (tech tree and SEAD event): Long name → **McDonnell Douglas Corporation Model 98HO | F-4E-48-MC Phantom II**.
         - **F-4E-48-MC** (Israel): Long name → **McDonnell Douglas Corporation Model 98HO | F-4E-48-MC Ḳurnas**.
+        - **F-4F-59-MC** (Germany): Long name → **McDonnell Douglas Corporation Model 98NQ | F-4F-59-MC**.
+        - **F-4F-63-MC (PR)** (Germany) → **F-4F-59-MC (PR)**. Long name → **McDonnell Douglas Corporation Model 98NQ | F-4F-59-MC (Peace Rhine (Stage 2))**.
         - **F-4F KWS-LV** (Germany): Long name → **McDonnell Douglas Corporation Model 98NQ | F-4F Kampfwertsteigerung Luftverteidigung**.
         - **F-4J-34-MC** → **F-4J-46-MC**. Long name → **McDonnell Douglas Corporation Model 98NC | F-4J-46-MC Phantom II**.
+        - **F-4S-33-MC**: Long name → **McDonnell Douglas Corporation Model 98 | F-4S-33-MC Phantom II**.
         - **Phantom F.G. Mk. 1**: Long name → **McDonnell Douglas Corporation Model 98FB / British Aerospace Corporation | Phantom F.G. Mk. 1**.
         - **Phantom F.G.R. Mk. 2**: Long name → **McDonnell Douglas Corporation Model 98KD / British Aerospace Corporation | Phantom F.G.R. Mk. 2**.
+        - **Phantom F. Mk. 3**: Long name → **McDonnell Douglas Corporation Model 98 / British Aerospace Corporation | Phantom F. Mk. 3**.
         - **F-4EJ-MIT** → **F-4EJ-MIT (C3)**: Long name → **McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT "Fantomu" (C3 Rotto)**.
             - Japanese package: Long name → **McDonnell Douglas Corporation Model 98MB / 三菱重工業 | F-4EJ-MIT「ファントム」(C3ロット)**.
         - **F-4EJ-MIT (Hi Kai Ji Dan)** → **F-4EJ-MIT (Hi Kai Ji Dan) (C3)**: Long name → **McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT "Fantomu" (C3 Rotto) (Hikō Kaihatsu Jikken Dan)**.
@@ -89,6 +93,30 @@ All dates are listed in DD-MM-YYYY format.
     - **SM-90 SAM S-75 launcher** → **ZRK SM-90**.
     - **V-759**: Long name → **ZUR 5Ya23 | V-759**.
     - **5-inch FFAR Mk 32 Mod 0** → **5-inch FFAR, Mk 16 Mod 0 (Mk 32 Mod 0)**. Long name → **Rocket Motor, 5-inch FFAR, Mk 16 Mod 0 (Rocket Head, 5-inch, Mk 32 Mod 0 (ATAP))**.
+
+### Sensors:
+
+- #### Changes:
+ 
+    - All pulse doppler radars that are not also PESA or AESA and currently have type tags have had their type tags changed from **RDR** to **RDR-PD**. This changed applies to the following radars:
+        - **AN/APG-59**
+        - **AN/APG-59U**
+        - **AN/APG-63**
+        - **AN/APG-63 (Programmable Signal Processor)**
+        - **AN/APG-63(V)1**
+        - **AN/APG-65(GY)**
+        - **AN/APG-65Q**
+        - **AN/APG-66**
+        - **AN/APG-66(V)1**
+        - **AN/APG-66(V)3**
+        - **AN/APG-66(V)5**
+        - **AN/APG-66(V)7**
+        - **AN/APG-66(V)9**
+        - **AN/APG-67**
+        - **AN/APG-70**
+        - **AN/APG-70I**
+        - **AN/APG-76**
+    - **AN/APQ-120** → **AN/APQ-120(V)5**.
 
 ## 1.12.01 - 03-04-2025
 

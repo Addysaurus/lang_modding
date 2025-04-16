@@ -51,7 +51,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Phantom F. Mk. 3**: Long name → **McDonnell Douglas Corporation Model 98 / British Aerospace Corporation | Phantom F. Mk. 3**.
         - **F-4EJ-MIT** → **F-4EJ-MIT (C3)**: Long name → **McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT "Fantomu" (C3 Rotto)**.
             - Japanese package: Long name → **McDonnell Douglas Corporation Model 98MB / 三菱重工業 | F-4EJ-MIT「ファントム」(C3ロット)**.
-        - **F-4EJ-MIT (Hi Kai Ji Dan)** → **F-4EJ-MIT (Hi Kai Ji Dan) (C3)**: Long name → **McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT "Fantomu" (C3 Rotto) (Hikō Kaihatsu Jikken Dan)**.
+        - **F-4EJ-MIT (Hi Kai Ji Dan)** → **F-4EJ-MIT (C3) (Hi Kai Ji Dan)**: Long name → **McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT "Fantomu" (C3 Rotto) (Hikō Kaihatsu Jikken Dan)**.
             - Japanese package: **F-4EJ-MIT (飛開実団)** → **F-4EJ-MIT (C3) (飛開実団)**. Long name → **McDonnell Douglas Corporation Model 98MB / 三菱重工業 | F-4EJ-MIT「ファントム」(C3ロット) (飛行開発実験団)**.
         - **F-4EJ-MIT Kai**: Long name → **McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT Kai "Fantomu"**.
             - **- Japanese package: Long name → **McDonnell Douglas Corporation Model 98MB / 三菱重工業 | F-4EJ-MIT改「ファントム**.
@@ -60,6 +60,7 @@ All dates are listed in DD-MM-YYYY format.
     - **SM-90 SAM S-75 launcher** → **Konstruktorskoye bûro №1 | ZRK SM-90**.
     - **P-12 SAM S-75 acquisition radar** → **Spyeczial'noye konstruktorskoye bûro №197 | P-12 "Yenisyej"**.
     - **SNR-75 SAM S-75 target tracking radar** → **SNR-75** (unable to find manufacturer).
+    - **F-16C-50-CF CCIP (2007)** → **F-16C-50-CF (CCIP) (2007)**: Long name → **F-16C-50-CF Fighting Falcon (Common Configuration Implementation Program) (2007)**.
 
 ### Weaponry:
 

@@ -48,7 +48,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F-4S-33-MC**: Long name → **McDonnell Douglas Corporation Model 98 | F-4S-33-MC Phantom II**.
         - **Phantom F.G. Mk. 1**: Long name → **McDonnell Douglas Corporation Model 98FB / British Aerospace Corporation | Phantom F.G. Mk. 1**.
         - **Phantom F.G.R. Mk. 2**: Long name → **McDonnell Douglas Corporation Model 98KD / British Aerospace Corporation | Phantom F.G.R. Mk. 2**.
-        - **Phantom F. Mk. 3**: Long name → **McDonnell Douglas Corporation Model 98NC | Phantom F. Mk. 3**.
+        - **Phantom F. Mk. 3**: Long name → **McDonnell Douglas Corporation Model 98NC / Naval Air Rework Facility | Phantom F. Mk. 3**.
         - **F-4EJ-MIT** → **F-4EJ-MIT (C3)**: Long name → **McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT "Fantomu" (C3 Rotto)**.
             - Japanese package: Long name → **McDonnell Douglas Corporation Model 98MB / 三菱重工業 | F-4EJ-MIT「ファントム」(C3ロット)**.
         - **F-4EJ-MIT (Hi Kai Ji Dan)** → **F-4EJ-MIT (C3) (Hi Kai Ji Dan)**: Long name → **McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT "Fantomu" (C3 Rotto) (Hikō Kaihatsu Jikken Dan)**.

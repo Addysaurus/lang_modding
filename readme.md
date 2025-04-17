@@ -55,6 +55,8 @@ Available packages:
   - Thai:
     - This package puts Thai vehicles and weapons into Thai.
 - Other packages:
+  - Full ammunition names
+    - This packages introduces the full names of ammunition rounnds that may be too long to be convenient for use.
   - Finnish Ps. designators
     - This packages makes the short names of Finnish ground vehicles their Ps. designations.
 

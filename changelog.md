@@ -8,6 +8,18 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.12.03 - UNRELEASED
+
+### Weaponry:
+
+- #### Changes:
+
+    - **Mk. 101** (originally **MK 101** but it was mistakenly renamed **Mk. 101** by a find and replace) → **M.K. 101**. Long name → **Maschinenkanone 101**.
+    - **30 mm Mk. 103 cannon** (originally **MK 103** but it was mistakenly renamed **Mk. 103** by a find and replace) → **Maschinenkanone 103**.
+    - **30 mm Mk. 103 cannon (secondary)** (originally **MK 103** but it was mistakenly renamed **Mk. 103** by a find and replace) → **Maschinenkanone 103**.
+    - **30 mm Mk. 108 cannon** (originally **MK 108** but it was mistakenly renamed **Mk. 108** by a find and replace) → **Maschinenkanone 108**.
+    - **30 mm Mk. 108 cannon (secondary)** (originally **MK 108** but it was mistakenly renamed **Mk. 108** by a find and replace) → **Maschinenkanone 108**.
+
 ## 1.12.02 - 17-04-2025
 
 ### General:

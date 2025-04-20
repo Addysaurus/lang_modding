@@ -10,6 +10,12 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.12.03 - UNRELEASED
 
+### Vehicles:
+
+- #### Changes:
+
+    - **F3D-1**: Long name → **Douglas Aircraft Company D-561 | F3D-1 Skyknight**.
+
 ### Weaponry:
 
 - #### Changes:

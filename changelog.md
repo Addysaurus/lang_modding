@@ -15,6 +15,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **F3D-1**: Long name → **Douglas Aircraft Company D-561 | F3D-1 Skyknight**.
+    - **Ram, Mk. II (early)** (UK / Canada & USA / Canada): Long name → **Ram, Mk.II "B"**. It's actually the second of 4 configurations, none of which had official names, but Mk. IIA, B, C, and D were what railway workers called it.
 
 ### Weaponry:
 

@@ -15,7 +15,8 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **F3D-1**: Long name → **Douglas Aircraft Company D-561 | F3D-1 Skyknight**.
-    - **Ram, Mk. II (early)** (UK / Canada & USA / Canada): Long name → **Ram, Mk.II "B"**. It's actually the second of 4 configurations, none of which had official names, but Mk. IIA, B, C, and D were what railway workers called it.
+    - **Ram, Mk. II (early)** (UK / Canada & USA / Canada) → **Ram, Mk. II "B"**. Long name → **Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. II "B"**. It's actually the second of 4 configurations, none of which had official names, but Mk. IIA, B, C, and D were what railway workers called it.
+    - **Ram, Mk. II (3.7-inch)** (UK / Canada) → **Ram, Mk. II (O.Q.F., 3.7-inch, Mk. II)**. Long name → **Montreal Locomotive Work | Tank, Cruiser, Ram, Mk. II (Gun, O.Q.F., 3.7-inch, Mk. II)**.
 
 ### Weaponry:
 

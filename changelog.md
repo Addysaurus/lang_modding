@@ -44,6 +44,18 @@ All dates are listed in DD-MM-YYYY format.
     - **30 mm Mk. 108 cannon** (originally **MK 108** but it was mistakenly renamed **Mk. 108** by a find and replace) → **Maschinenkanone 108**.
     - **30 mm Mk. 108 cannon (secondary)** (originally **MK 108** but it was mistakenly renamed **Mk. 108** by a find and replace) → **Maschinenkanone 108**.
 
+### Loading screens & profile backgrounds:
+
+- #### Additions:
+
+    - **T-44 First Modification** (loading screen)
+    - **T-44(FM)** (profile background)
+
+- #### Changes:
+
+    - **T-44 First Modification** (loading screen) → **T-44 №1**.
+    - **T-44(FM)** (profile background) → **T-44 №1**.
+
 ## 1.12.02 - 17-04-2025
 
 ### General:

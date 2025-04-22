@@ -14,12 +14,12 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
-    - **T-44 (FM)**
+    - **T-44(FM)**
     - **Amiens**
 
 - #### Changes:
 
-    - **T-44 (FM)** → **T-44 №1**. Long name → **Ural'skij tankovyj zavod №183 im. Komintyerna | Ob"yekt 136 | T-44 №1**.
+    - **T-44(FM)** → **T-44 №1**. Long name → **Ural'skij tankovyj zavod №183 im. Komintyerna | Ob"yekt 136 | T-44 №1**.
     - **Amiens** → **Amiens (7)**. Long name → **Société Nouvelle des Forges et Chantiers de la Méditerranée | Aviso de 1re Classe | Aviso Classe Arras | Amiens (7) (1940)**.
     - **Arras (AS)**: Long name → **Arsenal de Brest | Aviso de 1re Classe | Aviso Classe Arras | Arras (AS)**.
     - **F3D-1**: Long name → **Douglas Aircraft Company D-561 | F3D-1 Skyknight**.
@@ -28,8 +28,16 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
+- #### Additions:
+
+    - **37 mm/70 model 1935**
+    - **37 mm OEA Mle 1935**
+
 - #### Changes:
 
+    - **37 mm/70 model 1935** → **Canon antiaérien de 37 mm/70 Mle. 1935**. Long name → **Canon antiaérien de 37 mm/70 modèle 1935**.
+    - **37 mm OEA Mle 1935** → **37 mm OEA Mle. 1935**.
+        - Full Ammunition Names package: → **37 mm Obus Explosif en Acier modèle 1935**
     - **Mk. 101** (originally **MK 101** but it was mistakenly renamed **Mk. 101** by a find and replace) → **M.K. 101**. Long name → **Maschinenkanone 101**.
     - **30 mm Mk. 103 cannon** (originally **MK 103** but it was mistakenly renamed **Mk. 103** by a find and replace) → **Maschinenkanone 103**.
     - **30 mm Mk. 103 cannon (secondary)** (originally **MK 103** but it was mistakenly renamed **Mk. 103** by a find and replace) → **Maschinenkanone 103**.

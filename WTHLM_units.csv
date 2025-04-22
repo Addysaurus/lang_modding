@@ -1189,6 +1189,7 @@ ussr_ai_sam_radar_p_12_2;Radar
 ussr_ai_sam_radar_snr_75_shop;SNR-75
 ussr_ai_sam_radar_snr_75_0;SNR-75
 ussr_ai_sam_radar_snr_75_2;Radar
+
 //NON-NATIONAL GROUPS
 shop/group/md_btr_80_group;Armadillo
 shop/group/md_bosvark_group;Boar
@@ -1197,6 +1198,7 @@ shop/group/md_m53_59_group;Reptile
 shop/group/md_flarakrad_group;Mule
 shop/group/md_ystervark_group;Porcupine
 shop/group/md_tgdgb_group;Echidna
+
 //GROUPS
 shop/group/us_sherman_group;M4A1 / 4 / 4A2
 shop/group/us_m19_m42_group;M19 / 42
@@ -1566,6 +1568,7 @@ shop/group/il_magach_6_group;Magaḥ 6B / R / R (M261)
 shop/group/a_4_iaf_group; A-4H / E (AFC 418-II)
 shop/group/so_4050_vautour_iaf_group; Vautour II A / N (C)
 shop/group/md_460_iaf_group; Super Mystère B2 / Sa'ar
+
 //NON-NATIONAL VEHICLES
 ucav_recon_micro_shop;ZALA 421-16EM
 ucav_recon_micro_0;ZALA 421-16EM
@@ -1787,6 +1790,7 @@ spad_13_shop;S.XIII-C1
 spad_13_0;Société pour l'aviation et ses dérivés | S.XIII-C1
 spad_13_1;S.XIII-C1
 spad_13_2;S.XIII
+
 //KILLSTREAK VEHICLES;
 b-29_killstreak_shop;☢ B-29A-45-BN
 b-29_killstreak_0;☢ B-29A-45-BN Superfortress
@@ -1964,6 +1968,7 @@ ucav_wing_loong_i_shop;YL1
 ucav_wing_loong_i_0;Yi Lóng 1
 ucav_wing_loong_i_1;YL1
 ucav_wing_loong_i_2;YL1
+
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 p-26a_34_m2_shop;P-26C (M2)
 p-26a_34_m2_0;P-26C Peashooter (M2)
@@ -2093,6 +2098,7 @@ b_10b_shop;B-10B
 b_10b_0;B-10B
 b_10b_1;B-10B
 b_10b_2;B-10
+
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 p-400_shop;P-400-BE
 p-400_0;P-400-BE
@@ -2278,6 +2284,7 @@ p-43a-1_shop;P-43A-1-RE
 p-43a-1_0;P-43A-1-RE
 p-43a-1_1;P-43A
 p-43a-1_2;P-43
+
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 p-63a-5_shop;P-63A-5-BE
 p-63a-5_0;P-63A-5-BE Kingcobra
@@ -2399,6 +2406,7 @@ xf5f_shop;XF5F-1
 xf5f_0;XF5F-1 Skyrocket
 xf5f_1;XF5F-1
 xf5f_2;XF5F
+
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 f-82e_shop;F-82E-NA
 f-82e_0;F-82E-NA Twin Mustang
@@ -2480,6 +2488,7 @@ f2g-1_shop;F2G-1
 f2g-1_0;F2G-1 Corsair
 f2g-1_1;F2G-1
 f2g-1_2;F2G
+
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 f-80a_shop;F-80A-5-LO
 f-80a_0;F-80A-5-LO Shooting Star
@@ -2557,6 +2566,7 @@ a2d_shop;A2D-1
 a2d_0;A2D-1 Skyshark
 a2d_1;A2D-1
 a2d_2;A2D-1
+
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 f-104a_shop;F-104A-20-LO
 f-104a_0;F-104A-20-LO Starfighter
@@ -2638,6 +2648,7 @@ f11f_1_late_shop;F11F-1
 f11f_1_late_0;F11F-1 Tiger
 f11f_1_late_1;F11F-1
 f11f_1_late_2;F11F
+
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 f-5e_shop;F-5E-3-NO
 f-5e_0;Northrop | F-5E-3-NO Tiger II
@@ -2699,6 +2710,7 @@ a_6e_tram_shop;A-6E (TRAM)
 a_6e_tram_0;A-6E Intruder (Target Recognition and Attack Multi-Sensor)
 a_6e_tram_1;A-6E
 a_6e_tram_2;A-6
+
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_16a_block_10_shop;F-16A-15OCU-CF
 f_16a_block_10_0;F-16A-15OCU-CF Fighting Falcon
@@ -2752,6 +2764,7 @@ f_20a_shop;F-20A-NO
 f_20a_0;F-20A-NO Tigershark
 f_20a_1;F-20A
 f_20a_2;F-20
+
 //USA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 ah_1g_shop;AH-1G
 ah_1g_0;AH-1G Cobra
@@ -2785,6 +2798,7 @@ uh_1c_xm_30_shop;UH-1C (XM30)
 uh_1c_xm_30_0;UH-1C Iroquois (XM30)
 uh_1c_xm_30_1;UH-1C
 uh_1c_xm_30_2;UH-1
+
 //USA HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 ah_6m_shop;AH-6M
 ah_6m_0;AH-6M
@@ -2814,11 +2828,13 @@ ah_64a_peten_shop;▃ AH-64A
 ah_64a_peten_0;▃ McDonnell Douglas Helicopter Systems | AH-64A Peten
 ah_64a_peten_1;▃ AH-64A
 ah_64a_peten_2;▃ AH-64
+
 //USA HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 mh_60l_dap_shop;MH-60L DAP
 mh_60l_dap_0;MH-60L Direct Action Penetrator
 mh_60l_dap_1;MH-60L
 mh_60l_dap_2;MH-60
+
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 us_m2a4_shop;M2A4
 us_m2a4_0;G-86 | Tank, Light, M2A4
@@ -2896,6 +2912,7 @@ us_halftrack_m3_75mm_gmc_shop;M3 GMC
 us_halftrack_m3_75mm_gmc_0;G-102 | Carriage, Motor, 75mm Gun, M3
 us_halftrack_m3_75mm_gmc_1;M3 GMC
 us_halftrack_m3_75mm_gmc_2;SPG
+
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 us_m5a1_stuart_shop;M5A1
 us_m5a1_stuart_0;G-103 | Tank, Light, M5A1 Stuart
@@ -3009,6 +3026,7 @@ us_t18_e2_shop;T18E2 HAC
 us_t18_e2_0;"G-133 | Car, Armored, Heavy, T18E2 ""Boarhound"""
 us_t18_e2_1;T18E2
 us_t18_e2_2;Armored Car
+
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 us_m18_hellcat_shop;M18 GMC
 us_m18_hellcat_0;"G-163 | Carriage, Motor, 76mm Gun, M18 ""Hellcat"""
@@ -3070,6 +3088,7 @@ us_t55e1_shop;T55E1 GMC
 us_t55e1_0;Carriage, Motor, 3-inch Gun, T55E1
 us_t55e1_1;T55E1 GMC
 us_t55e1_2;SPG
+
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 us_m41_walker_bulldog_shop;M41A1
 us_m41_walker_bulldog_0;G-251 | Tank, Combat, Full Tracked: 76mm Gun, M41A1 Walker Bulldog
@@ -3171,6 +3190,7 @@ us_amx_13_90_shop;AMX 13-90
 us_amx_13_90_0;AMX 13-90
 us_amx_13_90_1;AMX 13-90
 us_amx_13_90_2;Light tank
+
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 us_xm_800t_shop;XM800T
 us_xm_800t_0;Armored Reconnaissance Scout Vehicle XM800T
@@ -3248,6 +3268,7 @@ us_magach_3_shop;▃ Magaḥ 3 (Baltan)
 us_magach_3_0;▃ Magaḥ 3 (Baltan)
 us_magach_3_1;▃ Magaḥ 3
 us_magach_3_2;MBT
+
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 us_m3_bradley_shop;M3 CFV
 us_m3_bradley_0;Fighting Vehicle, Cavalry, Full Tracked, M3 Bradley
@@ -3313,6 +3334,7 @@ us_xm_8_shop;XM8 AGS
 us_xm_8_0;105mm Armored Gun System, XM8
 us_xm_8_1;XM8
 us_xm_8_2;Light tank
+
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 us_hstv_l_shop;HSTV(L)
 us_hstv_l_0;High Survivability Test Vehicle (Lightweight)
@@ -3394,11 +3416,13 @@ us_ags_teledyne_shop;ASP (late) (EX 35)
 us_ags_teledyne_0;Teledyne Continental Motors Armored Support Platform (late) (Gun, 105mm, EX 35 MOD 0)
 us_ags_teledyne_1;ASP
 us_ags_teledyne_2;Light tank
+
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 us_adats_bradley_shop;XM1069 (ADATS)
 us_adats_bradley_0;XM1069 (Air Defense Anti-Tank System)
 us_adats_bradley_1;XM1069
 us_adats_bradley_2;SPAA
+
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 us_pt6_shop;PT-6
 us_pt6_0;Higgins 81 ft motor torpedo boat, USS PT-6
@@ -3416,6 +3440,7 @@ us_pt3_shop;PT-3
 us_pt3_0;58 ft Experimental motor torpedo boat, USS PT-3
 us_pt3_1;PT-3
 us_pt3_2;Motor Torpedo Boat
+
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 us_elco_80ft_pt_boat_shop;PT-103
 us_elco_80ft_pt_boat_0;Elco 80 ft motor torpedo boat, USS PT-103
@@ -3445,6 +3470,7 @@ us_elco_80ft_pt109_boat_shop;PT-109
 us_elco_80ft_pt109_boat_0;Elco 80 ft PT-109
 us_elco_80ft_pt109_boat_1;PT-109
 us_elco_80ft_pt109_boat_2;Motor Torpedo Boat
+
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 us_elco_80ft_pt_boat_mod01_shop;PT-314
 us_elco_80ft_pt_boat_mod01_0;Elco 80 ft motor torpedo boat, USS PT-314
@@ -3482,6 +3508,7 @@ us_flagstaff_pgh1_shop;USS Flagstaff (PGH-1)
 us_flagstaff_pgh1_0;USS Flagstaff (PGH-1)
 us_flagstaff_pgh1_1;USS Flagstaff
 us_flagstaff_pgh1_2;Motor gun boat
+
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 us_tucumcari_pgh2_shop;USS Tucumcari (PGH-2)
 us_tucumcari_pgh2_0;Experimental Tucumcari-class patrol gunboat, USS Tucumcari (PGH-2)
@@ -3507,6 +3534,7 @@ us_ashville_class_douglas_shop;USS Douglas (PGM-100)
 us_ashville_class_douglas_0;Asheville-class gunboat, USS Douglas (PGM-100)
 us_ashville_class_douglas_1;USS Douglas
 us_ashville_class_douglas_2;Gunboat
+
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 us_pt810_shop;PT-810
 us_pt810_0;94 ft aluminum motor torpedo boat, USS PT-810
@@ -3532,6 +3560,7 @@ us_cyclone_class_cyclone_shop;USS Cyclone (PC-1)
 us_cyclone_class_cyclone_0;Cyclone-class patrol boat, USS Cyclone (PC-1)
 us_cyclone_class_cyclone_1;USS Cyclone (PC-1)
 us_cyclone_class_cyclone_2;Gunboat
+
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 us_destroyer_clemson_litchfield_shop;USS Litchfield (DD-336)
 us_destroyer_clemson_litchfield_0;Clemson-class, USS Litchfield (DD-336) (1936)
@@ -3549,6 +3578,7 @@ us_destroyer_farragut_1942_shop;USS Aylwin (DD-355)
 us_destroyer_farragut_1942_0;Farragut-class, USS Aylwin (DD-355) (1942)
 us_destroyer_farragut_1942_1;USS Aylwin (DD-355)
 us_destroyer_farragut_1942_2;Destroyer
+
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 us_destroyer_sumner_shop;USS Allan M. Sumner (DD-692)
 us_destroyer_sumner_0;Allan M. Sumner-class, USS Allan M. Sumner (DD-692)
@@ -3582,6 +3612,7 @@ us_destroyer_mitscher_wilkinson_shop;USS Wilkinson (DL-5)
 us_destroyer_mitscher_wilkinson_0;Mitscher-class, USS Wilkinson (DL-5) (1958)
 us_destroyer_mitscher_wilkinson_1;USS Wilkinson (DL-5)
 us_destroyer_mitscher_wilkinson_2;Destroyer
+
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 us_destroyer_porter_1941_shop;USS Porter (DD-356)
 us_destroyer_porter_1941_0;Porter-class, USS Porter (DD-356) (1939)
@@ -3615,6 +3646,7 @@ us_cruiser_omaha_class_detroit_shop;USS Detroit (CL-8)
 us_cruiser_omaha_class_detroit_0;Omaha-class, USS Detroit (CL-8) (1942)
 us_cruiser_omaha_class_detroit_1;USS Detroit (CL-8)
 us_cruiser_omaha_class_detroit_2;Light Cruiser
+
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 us_cruiser_atlanta_class_atlanta_shop;USS Atlanta (CL-51)
 us_cruiser_atlanta_class_atlanta_0;Atlanta-class, USS Atlanta (CL-51)
@@ -3644,6 +3676,7 @@ us_cruiser_brooklyn_class_brooklyn_shop;USS Brooklyn (CL-40)
 us_cruiser_brooklyn_class_brooklyn_0;Brooklyn-class, USS Brooklyn (CL-40) (1937)
 us_cruiser_brooklyn_class_brooklyn_1;USS Brooklyn (CL-40)
 us_cruiser_brooklyn_class_brooklyn_2;Light Cruiser
+
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 us_cruiser_fargo_class_shop;USS Fargo (CL-106)
 us_cruiser_fargo_class_0;Fargo-class, USS Fargo (CL-106)
@@ -3685,6 +3718,7 @@ us_cruiser_des_moines_class_shop;USS Des Moines (CA-134)
 us_cruiser_des_moines_class_0;Des Moines-class, USS Des Moines (CA-134)
 us_cruiser_des_moines_class_1;USS Des Moines
 us_cruiser_des_moines_class_2;Heavy cruiser
+
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 us_battleship_texas_shop;USS Texas (BB-35)
 us_battleship_texas_0;New York-class, USS Texas (BB-35) (1945)
@@ -3714,6 +3748,7 @@ us_battleship_mississippi_shop;USS Mississippi (BB-41)
 us_battleship_mississippi_0;New Mexico-class, USS Mississippi (BB-41) (1945)
 us_battleship_mississippi_1;USS Mississippi
 us_battleship_mississippi_2;Battleship
+
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 bf-109b_2_shop;Bf 109 B-1 (spät)
 bf-109b_2_0;Bayerische Flugzeugwerke | Bf 109 B-1 (spät)
@@ -3967,6 +4002,7 @@ fw-189a-1_shop;Fw 189 A-1
 fw-189a-1_0;Fw 189 A-1 Uhu
 fw-189a-1_1;Fw 189 A
 fw-189a-1_2;Fw 189
+
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 fw-190a-1_shop;Fw 190 A-1
 fw-190a-1_0;Fw 190 A-1
@@ -4152,6 +4188,7 @@ sm_79_1942_shop;▀ S.M.79bis/N (1942)
 sm_79_1942_0;▀ S.M.79bis/N Sparviero (1942)
 sm_79_1942_1;▀ S.M.79bis/N
 sm_79_1942_2;▀ S.M.79
+
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 do_335a_1_shop;Do 335 A-1
 do_335a_1_0;Do 335 A-1
@@ -4189,6 +4226,7 @@ bv-155b-1_shop;BV 155 B-1
 bv-155b-1_0;BV 155 B-1
 bv-155b-1_1;BV 155 B-1
 bv-155b-1_2;BV 155
+
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 ta-152h-1_shop;Ta 152 H-1
 ta-152h-1_0;Ta 152 H-1
@@ -4254,6 +4292,7 @@ ju-388j_shop;Ju 388 J
 ju-388j_0;Ju 388 J
 ju-388j_1;Ju 388 J
 ju-388j_2;Ju 388
+
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 me-163b_shop;Me 163 B-1
 me-163b_0;Me 163 B-1 Komet
@@ -4299,6 +4338,7 @@ fiat_g91_r4_german_shop;◄ G.91 R/4
 fiat_g91_r4_german_0;◄ G.91 R/4
 fiat_g91_r4_german_1;◄ G.91 R
 fiat_g91_r4_german_2;◄ G.91
+
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 f-86_canadair_german_shop;◄ Sabre Mk. 5
 f-86_canadair_german_0;◄ CL-13A Sabre Mk. 5
@@ -4348,6 +4388,7 @@ ffa_p16_shop;P-16 Mk III
 ffa_p16_0;Flug- und Fahrzeugwerke Altenrhein | P-16 Mk III
 ffa_p16_1;P-16 Mk III
 ffa_p16_2;P-16
+
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 f-104g_shop;◄ F-104G
 f-104g_0;◄ F-104G Starfighter
@@ -4409,6 +4450,7 @@ tornado_ids_de_mfg_shop;◄ IDS-Tornado (MFG)
 tornado_ids_de_mfg_0;◄ Panavia Aircraft PA-200 | IDS-Tornado (Batch 2) (Marinefliegerkommando)
 tornado_ids_de_mfg_1;◄ IDS-Tornado
 tornado_ids_de_mfg_2;◄ IDS-Tornado
+
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 ef_2000_block_10_shop;Eurofighter (T2 B10)
 ef_2000_block_10_0;Eurofighter Jagdflugzeug EF-2000 | Eurofighter (Tranche 2 Block 10)
@@ -4422,6 +4464,7 @@ mig_29_9_12g_shop;◄ MiG-29G
 mig_29_9_12g_0;◄ MiG-29G Fulcrum
 mig_29_9_12g_1;◄ MiG-29G
 mig_29_9_12g_2;◄ MiG-29
+
 //GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 sa_313b_shop;◄ SE 313 B
 sa_313b_0;◄ SE 313 B Alouette II
@@ -4439,6 +4482,7 @@ bo_105cb2_shop;BO 105 CB-2 (HeliTOW)
 bo_105cb2_0;BO 105 CB-2 | försökspansarvärnshelikopter med pansarvärnrobotsystemet HeliTOW
 bo_105cb2_1;BO 105 CB
 bo_105cb2_2;BO 105
+
 //GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 bo_105pah1_shop;PAH 1
 bo_105pah1_0;Panzerabwehrhubschrauber 1
@@ -4456,6 +4500,7 @@ mi_24p_german_hfs80_shop;◄ Mi-24P (HFS 80)
 mi_24p_german_hfs80_0;◄ Mi-24P (Heeresfliegerstaffel 80)
 mi_24p_german_hfs80_1;◄ Mi-24P
 mi_24p_german_hfs80_2;◄ Mi-24P
+
 //GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 tiger_uht_shop;◄ KH Tiger
 tiger_uht_0;◄ Eurocopter EC-665 | Kampfhubschrauber Tiger
@@ -4465,6 +4510,7 @@ tiger_had_spain_shop;HA.28 HAD/E (Bloque 1)
 tiger_had_spain_0;Eurocopter EC-665 | HA.28 Tigre, Helicóptero de Ataque y Destrucción (Bloque 1)
 tiger_had_spain_1;HA.28 HAD
 tiger_had_spain_2;HA.28
+
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 germ_garford_putilov_shop;◄ Pzw. Garford (Beute)
 germ_garford_putilov_0;◄ Garford Motor Truck Company / Putilovskij zavod | Panzerwagen Garford (Beute)
@@ -4682,6 +4728,7 @@ germ_amd_35_kwk39_shop;le.Pz.Spw. 204 (f) (Kw.K. 39/1)
 germ_amd_35_kwk39_0;Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Kw.K. 39/1 L/60
 germ_amd_35_kwk39_1;le.Pz.Spw. 204 (f)
 germ_amd_35_kwk39_2;Light tank
+
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 germ_pzsfl_IVa_dickermax_shop;Pz.Sfl. IVa
 germ_pzsfl_IVa_dickermax_0;10,5cm K. 18 auf Panzerselbstfahrlafette IVa
@@ -4699,14 +4746,19 @@ germ_pzkpfw_II_ausf_H_shop;Pz.Sfl. Ic
 germ_pzkpfw_II_ausf_H_0;5cm Pa.K. 38 auf Pz.Kpfw. II Sonderfahrgestell 901, Panzerselbstfahrlafette Ic
 germ_pzkpfw_II_ausf_H_1;Pz.Sfl. Ic
 germ_pzkpfw_II_ausf_H_2;Light tank
+
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 germ_marder_clovis_shop;◄ CLOVIS
 germ_marder_clovis_0;◄ Thyssen Henschel CLOVIS, FL 20, 105 mm
 germ_marder_clovis_1;◄ CLOVIS
 germ_marder_clovis_2;Light tank
+
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 germ_schutzenpanzer_puma_shop;SPz Puma S0
 germ_schutzenpanzer_puma_0;KNDS Deutschland | Schützenpanzer Puma S0
@@ -4716,44 +4768,71 @@ germ_schutzenpanzer_puma_vjtf_shop;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_0;KNDS Deutschland | Schützenpanzer Puma Very High Readiness Joint Task Force
 germ_schutzenpanzer_puma_vjtf_1;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_2;Light tank
+
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 germ_schutze_class_shop;Schütze (M 1062)
 germ_schutze_class_0;Abeking & Rasmussen | schnelles Minensuchboot Schütze-Klasse (Typ 340) | Schütze (M 1062)
 germ_schutze_class_1;Schütze (M 1062)
 germ_schutze_class_2;Minesweeper
+
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 su_30sm_shop;Su-30SM
 su_30sm_0;PAO Kompaniâ Sukhoj | izd. T-10PU | Su-30SM
 su_30sm_1;Su-30SM
 su_30sm_2;Su-30
+
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 ussr_garford_putilov_shop;Garford
 ussr_garford_putilov_0;"Garford Motor Truck Company / Putilovskij zavod | Bronirovannyj 4-tonnyj avtomobil' ""Garford"""
 ussr_garford_putilov_1;Garford
 ussr_garford_putilov_2;Armored Car
+
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 ussr_t_44_po_shop;T-44 №1
 ussr_t_44_po_0;"Ural'skij tankovyj zavod №183 im. Komintyerna | Ob""yekt 136 | T-44 №1"
@@ -4763,6 +4842,7 @@ ussr_type_65_aa_shop;▂ A24
 ussr_type_65_aa_0;▂ Nhà Máy Q153 | Xe Phòng Không Too Hành 2 Nòng 37mm, A24
 ussr_type_65_aa_1;▂ A24
 ussr_type_65_aa_2;SPAAG
+
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 ussr_2s19_m1_shop;2S19M1
 ussr_2s19_m1_0;"Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Ob""yekt 316 | 2S19M1 ""Msta-S"""
@@ -4772,28 +4852,43 @@ ussr_2s19_m2_shop;2S19M2
 ussr_2s19_m2_0;"Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova | Ob""yekt 316 | 2S19M2 ""Msta-S"""
 ussr_2s19_m2_1;2S19M2
 ussr_2s19_m2_2;SPH
+
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 ussr_t_80um2_shop;T-80U (Drozd)
 ussr_t_80um2_0;"Kirovskij zavod | Ob""yekt 219AS | T-80U obr. 1995 g. (KAZ Drozd)"
 ussr_t_80um2_1;T-80U
 ussr_t_80um2_2;MBT
+
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 ussr_pr_103_sm4_shop;TKA №164
 ussr_pr_103_sm4_0;Sudostroityel'nyj zavod № 194 imyeni Marti | Torpyednyj Katyer Proyekt 103, Tip SM-4 | TKA №164
 ussr_pr_103_sm4_1;TKA №164
 ussr_pr_103_sm4_2;Motor torpedo boat
+
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 hp_12_shop;O/400
 hp_12_0;Handley Page Aircraft Company H.P.12 | O/400
@@ -4803,6 +4898,7 @@ wirraway_shop;Wirraway Mk. I
 wirraway_0;North American Aviation NA-16-2K / Commonwealth Aircraft Corporation CA-1 | Wirraway Mk. I
 wirraway_1;Wirraway Mk. I
 wirraway_2;Wirraway
+
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 boomerang_mki_shop;Boomerang Mk. I
 boomerang_mki_0;Commonwealth Aircraft Corporation CA-12 | Boomerang Mk. I
@@ -4812,10 +4908,15 @@ boomerang_mkii_shop;Boomerang Mk. II
 boomerang_mkii_0;Commonwealth Aircraft Corporation CA-13 | Boomerang Mk. II
 boomerang_mkii_1;Boomerang Mk. II
 boomerang_mkii_2;Boomerang
+
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 harrier_t10_shop;Harrier T. Mk. 10
 harrier_t10_0;British Aerospace / McDonnell Douglas Corporation | Harrier T. Mk. 10
@@ -4825,34 +4926,47 @@ harrier_gr7_shop;Harrier G.R. Mk. 7
 harrier_gr7_0;British Aerospace / McDonnell Douglas Corporation | Harrier G.R. Mk. 7
 harrier_gr7_1;Harrier G.R. Mk. 7
 harrier_gr7_2;Harrier
+
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 ef_2000_fgr4_shop;Typhoon F.G.R. Mk. 4
 ef_2000_fgr4_0;Eurofighter Jagdflugzeug EF-2000 | Typhoon F.G.R. Mk. 4
 ef_2000_fgr4_1;Typhoon F.G.R. Mk. 4
 ef_2000_fgr4_2;Typhoon
+
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 uk_mark_v_shop;Mk. V (Male)
 uk_mark_v_0;Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank, Mk. V (Male)
 uk_mark_v_1;Mk. V (Male)
 uk_mark_v_2;Medium Tank
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 uk_a25_mk_8_shop;Harry Hopkins, Mk. I
 uk_a25_mk_8_0;Vickers-Armstrongs | Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I
 uk_a25_mk_8_1;Harry Hopkins, Mk. I
 uk_a25_mk_8_2;Light tank
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 uk_tracked_rapier_shop;RCM 748, Mk. 1B
 uk_tracked_rapier_0;British Aircraft Corporation | Tracked Rapier Launcher Vehicle, RCM 748, Mk. 1B
 uk_tracked_rapier_1;RCM 748, Mk. 1
 uk_tracked_rapier_2;SPAAM
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 uk_mtb_1series_shop;HMS MTB 7
 uk_mtb_1series_0;British Power Boat Co. | BPB 60 ft-class | HMS MTB 7
@@ -4918,6 +5032,7 @@ uk_hdml_ml1383_shop;HMS HDML 1383
 uk_hdml_ml1383_0;Anderson Rigden & Perkins | HDML-class | HMS HDML 1383
 uk_hdml_ml1383_1;HMS HDML 1383
 uk_hdml_ml1383_2;Harbour Defence Motor Launch
+
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 uk_dark_class_shop;HMS Dark Adventurer (P 1101)
 uk_dark_class_0;Saunders-Roe | Dark-class | HMS Dark Adventurer (P 1101)
@@ -4943,6 +5058,7 @@ uk_71ft_mgb_shop;HMS MGB 75
 uk_71ft_mgb_0;British Power Boat Co. | BPB 72 ft-class | HMS MGB 75
 uk_71ft_mgb_1;HMS MGB 75
 uk_71ft_mgb_2;Motor Gun Boat
+
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 uk_gay_class_archer_shop;HMS Gay Archer (P 1041)
 uk_gay_class_archer_0;Vosper & Co. | Gay-class | HMS Gay Archer (P 1041)
@@ -4960,6 +5076,7 @@ uk_higgins_78ft_mtb422_shop;HMS MTB 422
 uk_higgins_78ft_mtb422_0;Higgins Industies | Higgins 78'-class | HMS MTB 422
 uk_higgins_78ft_mtb422_1;HMS MTB 422
 uk_higgins_78ft_mtb422_2;Motor Torpedo Boat
+
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 uk_attack_class_arrow_shop;HMAS Arrow (P 88)
 uk_attack_class_arrow_0;John Walker & Co. | Attack-class | HMAS Arrow (P 88)
@@ -4989,6 +5106,7 @@ uk_frigate_river_shop;HMS Spey (K 246)
 uk_frigate_river_0;Smiths Dock Co. / Sir Lanka Navy Dockyard | River-class | HMS Spey (K 246) (1944)
 uk_frigate_river_1;HMS Spey
 uk_frigate_river_2;Frigate
+
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 uk_brave_borderer_shop;HMS Brave Borderer (P 1011)
 uk_brave_borderer_0;Vosper & Co. | Brave-class | HMS Brave Borderer (P 1011)
@@ -5002,16 +5120,23 @@ uk_frigate_leopard_shop;HMS Leopard (F 14)
 uk_frigate_leopard_0;Portsmouth Royal Dockyard | Leopard-class | HMS Leopard (F 14)
 uk_frigate_leopard_1;HMS Leopard
 uk_frigate_leopard_2;Anti-Aircraft Frigate
+
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 uk_battleship_q_elizabet_class_warspite_shop;HMS Warspite (03)
 uk_battleship_q_elizabet_class_warspite_0;Devonport Royal Dockyard / Naval Station Durban | Queen Elizabeth-class | HMS Warspite (03) (1943)
 uk_battleship_q_elizabet_class_warspite_1;HMS Warspite
 uk_battleship_q_elizabet_class_warspite_2;Super dreadnought
+
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
 f1m2_0;Mitsubishi Jū Kōgyō | 0 Shiki Kansokuki | F1M2
@@ -5137,6 +5262,7 @@ aichi_e13a_shop;E13A1
 aichi_e13a_0;Aichi Kōkūki | 95 Shiki Suijō Teisatsuki 11 Gata | E13A1
 aichi_e13a_1;E13A1
 aichi_e13a_2;E13A
+
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 a6m2_n_zero_shop;A6M2-N
 a6m2_n_zero_0;Nakajima Hikōki | 2 Shiki Suijō Sentōki | A6M2-N
@@ -5306,6 +5432,7 @@ f4u-1a_japan_shop;▅ F4U-1A
 f4u-1a_japan_0;"▅ Vought-Sikorsky Aircraft V-166B | F4U-1A Korusea ""Shikorusukī"""
 f4u-1a_japan_1;▅ F4U-1
 f4u-1a_japan_2;▅ F4U
+
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 ki_100_early_shop;Ki 100-I (early)
 ki_100_early_0;Kawasaki Kōkūki Kōgyō | Ki 100-I (early)
@@ -5375,6 +5502,7 @@ ki-96_otsu_shop;Ki 96
 ki-96_otsu_0;Ki 96
 ki-96_otsu_1;Ki 96
 ki-96_otsu_2;Ki 96
+
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 a7m1_shop;A7M1
 a7m1_0;Mitsubishi Jū Kōgyō | 17 Shi Kō Kanjō Sentōki | Shisei Reppū | A7M1
@@ -5427,6 +5555,7 @@ j6k1_shop;J6K1
 j6k1_0;Kawanishi Kōkūki | 18 Shi Kō Rikujō Sentōki | Shisei Jinpū | J6K1
 j6k1_1;J6K1
 j6k1_2;J6K
+
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 kitsuka_shop;M7N1-J Kō
 kitsuka_0;Shisei Kikka Kai 21 Gata Kō | M7N1-J Kō
@@ -5460,6 +5589,7 @@ f-86f-40_japan_blue_impulse_shop;▅ F-86F-40-MIT (6 Hitai)
 f-86f-40_japan_blue_impulse_0;"▅ North American Aviation / Mitsubishi Jū Kōgyō | F-86F-40-MIT ""Kyokkō"" (Dai 6 Hikōtai)"
 f-86f-40_japan_blue_impulse_1;▅ F-86F
 f-86f-40_japan_blue_impulse_2;▅ F-86
+
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 f-104j_shop;▅ F-104J-MIT (C2)
 f-104j_0;"▅ Lockheed Corporation / Mitsubishi Jū Kōgyō | F-104J-MIT ""Eikō"" (C2 Rotto)"
@@ -5477,6 +5607,7 @@ f1_shop;F-1
 f1_0;Mitsubishi Jū Kōgyō | F-1
 f1_1;F-1
 f1_2;F-1
+
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 f-4ej_shop;▅ F-4EJ-MIT (C3)
 f-4ej_0;"▅ McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT ""Fantomu"" (C3 Rotto)"
@@ -5490,6 +5621,7 @@ f-4ej_kai_shop;▅ F-4EJ-MIT Kai
 f-4ej_kai_0;"▅ McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT Kai ""Fantomu"""
 f-4ej_kai_1;▅ F-4EJ
 f-4ej_kai_2;▅ F-4
+
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_15j_shop;▅ F-15J-MIT (C4)
 f_15j_0;"▅ McDonnell Douglas Corporation / Mitsubishi Jū Kōgyō | F-15J-MIT ""Īguru"" (C4 Rotto)"
@@ -5503,11 +5635,13 @@ f_16aj_shop;▅ F-16AJ
 f_16aj_0;▅ General Dynamics Corporation F-16AJ Fighting Falcon
 f_16aj_1;▅ F-16AJ
 f_16aj_2;▅ F-16
+
 //JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 uh_1b_japan_shop;▅ UH-1B
 uh_1b_japan_0;"▅ Bell Helicopter Company / Fuji Jū Kōgyō | UH-1B Ta Yōto Herikoputā ""Hiyodori"""
 uh_1b_japan_1;▅ UH-1B
 uh_1b_japan_2;▅ UH-1
+
 //JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 ah_1s_early_shop;▅ AH-1S (ECAS)
 ah_1s_early_0;▅ Bell Helicopter Textron / Fuji Jū Kōgyō | AH-1S Kōgeki Herikoputā (Enhanced Cobra Armament System)
@@ -5521,11 +5655,13 @@ ah_1s_shop;▅ AH-1S (MC) (CN) (4 Tai Sen Heri)
 ah_1s_0;▅ Bell Helicopter Textron / Fuji Jū Kōgyō | AH-1S Kōgeki Herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (Dai 4 Tai Sensha Herikoputātai)
 ah_1s_1;▅ AH-1S
 ah_1s_2;▅ AH-1
+
 //JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 ah_64d_japan_shop;▅ AH-64D
 ah_64d_japan_0;"▅ Boeing Rotorcraft Systems AH-64DJP / Fuji Jū Kōgyō + Sojitz Kabushiki Gaisha | AH-64D Sentō Herikoputā ""Apatchi Rongubou"""
 ah_64d_japan_1;▅ AH-64D
 ah_64d_japan_2;▅ AH-64
+
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 jp_type_95_ha_go_shop;Ha Gō (late) (94 Shiki)
 jp_type_95_ha_go_0;Mitsubishi Jū Kōgyō | 95 Shiki Kei Sensha | Ha Gō (late) (94 Shiki 37 Mirimētoru Sensha Hō)
@@ -5587,6 +5723,7 @@ jp_type_3_ka_chi_shop;Ka Chi
 jp_type_3_ka_chi_0;Kure Kaigun Kōshō + Rikugun Gijutsu Honbu | Toku 3 Shiki Naikatei | Ka Chi
 jp_type_3_ka_chi_1;Ka Chi
 jp_type_3_ka_chi_2;Light tank
+
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 jp_type_1_chi_he_shop;Chi He
 jp_type_1_chi_he_0;Mitsubishi Jū Kōgyō | 1 Shiki Chū Sensha | Chi He
@@ -5620,6 +5757,7 @@ jp_type_95_so_ki_shop;So Ki
 jp_type_95_so_ki_0;Tōkyō Jidōsha Kōgyō | Shisei Taikū Sensha | So Ki
 jp_type_95_so_ki_1;So Ki
 jp_type_95_so_ki_2;SPAAG
+
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 jp_m24_chaffee_shop;▅ M24
 jp_m24_chaffee_0;"▅ Cadillac Motor Company | M24 Sensha ""Chāfī"""
@@ -5661,6 +5799,7 @@ jp_m42_duster_shop;▅ M42
 jp_m42_duster_0;"▅ GM Defense | M42 Ji Hashi Kōsha Kikan Hō ""Dasutā"""
 jp_m42_duster_1;▅ M42
 jp_m42_duster_2;SPAA
+
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 jp_m4a3e8_76w_sherman_shop;▅ M4A3E8
 jp_m4a3e8_76w_sherman_0;"▅ United States Army Ordnance Department / Detroit Tank Arsenal | M4A3E8 Sensha ""Shāman"""
@@ -5718,6 +5857,7 @@ jp_type_5_ho_ri_production_shop;Ho Ri (10 Senchi Han)
 jp_type_5_ho_ri_production_0;Shisei 10 Senchi Han Hō Sensha | Ho Ri
 jp_type_5_ho_ri_production_1;Ho Ri
 jp_type_5_ho_ri_production_2;SPG
+
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 jp_type_87_rcv_prot_shop;RCV (Shi 1 Gō)
 jp_type_87_rcv_prot_0;Komatsu Seisaku | Teisatsu Keikaisha (Shisaku 1 Gōsha)
@@ -5759,6 +5899,7 @@ jp_type_75_mlrs_shop;75MSSR
 jp_type_75_mlrs_0;Komatsu Seisaku | 75 Shiki Ji Hashi 130mm Tarensō Rokettodan Hasshaki
 jp_type_75_mlrs_1;75MSSR
 jp_type_75_mlrs_2;MLRS
+
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 jp_type_87_rcv_shop;87RCV
 jp_type_87_rcv_0;"Komatsu Seisaku | 87 Shiki Teisatsu Keikaisha ""Burakkuai"""
@@ -5784,6 +5925,7 @@ jp_type_16_shop;16MCV (C1)
 jp_type_16_0;Mitsubishi Jū Kōgyō | 16 Shiki Kidō Sentō Sha (C1 Rotto)
 jp_type_16_1;16MCV
 jp_type_16_2;Light tank
+
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 jp_icv_ifv_prototype_shop;24WAFV
 jp_icv_ifv_prototype_0;Mitsubishi Jū Kōgyō | 24 Shiki Sōwa Sōkō Sentō Sha
@@ -5821,11 +5963,13 @@ jp_icv_prototype_shop;CTWV (RCV)
 jp_icv_prototype_0;Mitsubishi Jū Kōgyō | Kyōtsū Senjutsu Sō Washa (Teisatsu Sentō Gata)
 jp_icv_prototype_1;CTWV
 jp_icv_prototype_2;WIFV
+
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 jp_type_10_shop;10TK
 jp_type_10_0;Gijutsu Kenkyū Honbu + Mitsubishi Jū Kōgyō | 10 Shiki Sensha
 jp_type_10_1;10TK
 jp_type_10_2;MBT
+
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 jp_t14_class_shop;Dai 538 Gō
 jp_t14_class_0;Maizuru Kaigun Kōshō | Otsu Gata Gyorai Tei | Dai 538 Gō Gata Gyorai Tei (T-14) | Dai 538 Gō
@@ -5855,6 +5999,7 @@ jp_abtei_pr4_shop;Sōkō Tei Dai 4 Gō
 jp_abtei_pr4_0;Sōkō Tei Dai 3 Gō Gata | Sōkō Tei Dai 4 Gō
 jp_abtei_pr4_1;Sōkō Tei
 jp_abtei_pr4_2;Armored boat
+
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 jp_karotei_type2_shop;Ka Ro 2 Gata
 jp_karotei_type2_0;Yokohama Yotto | 4 Shiki 2 Gata Kuchiku Tei | Ka Ro 2 Gata
@@ -5892,6 +6037,7 @@ jp_t51b_shop;Dai 11 Gō
 jp_t51b_0;Yokohama Yotto | Kō Gata Gyorai Tei | Dai 11 Gō Gata Gyorai Tei (T-51B) | Dai 11 Gō
 jp_t51b_1;Dai 11 Gō
 jp_t51b_2;Motor torpedo boat
+
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 jp_no1_ch2_shop;Dai 2 Gō
 jp_no1_ch2_0;Ishikawajima Zōsensho | Dai 2 Gō Gata Kusen Tei (K-3) | Dai 2 Gō
@@ -5905,6 +6051,7 @@ jp_type7_pt808_shop;Gyorai Tei 8 Gō (PT-808)
 jp_type7_pt808_0;Mitsubishi Jū Kōgyō Shimonoseki Zōsensho | 7 Gō Gata Gyorai Tei | Gyorai Tei 8 Gō (PT-808)
 jp_type7_pt808_1;Gyorai Tei 8 Gō
 jp_type7_pt808_2;Motor torpedo boat
+
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 jp_type_11_pt_15_shop;Gyorai Tei 15 Gō (PT-815)
 jp_type_11_pt_15_0;Mitsubishi Jū Kōgyō Shimonoseki Zōsensho | 11 Gō Gata Gyorai Tei | Gyorai Tei 15 Gō (PT-815)
@@ -5926,6 +6073,7 @@ jp_pg02_shop;Misairu Tei 2 Gō (PG-822)
 jp_pg02_0;1 Gō Gata Misairu Tei | Misairu Tei 2 Gō (PG-822)
 jp_pg02_1;Misairutei 2 Gō
 jp_pg02_2;Missile boat
+
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 jp_escort_hiburi_class_syonan_shop;Shōnan
 jp_escort_hiburi_class_syonan_0;Hitachi Zōsen | Kō Gata Kaibōkan | Hiburi Gata Kaibōkan (E-20B) | Shōnan
@@ -5947,6 +6095,7 @@ jp_destroyer_ayanami_shop;Ayanami (DD-103)
 jp_destroyer_ayanami_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Kō Gata Goeikan 1 Gata | Ayanami Gata Goeikan (F-102) | Ayanami (DD-103)
 jp_destroyer_ayanami_1;Ayanami
 jp_destroyer_ayanami_2;Destroyer
+
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 1
 jp_destroyer_momi_shop;Momi
 jp_destroyer_momi_0;Yokosuka Kaigun Kōshō | Nitō Kuchikukan | Momi Gata Kuchikukan (F-37) | Momi (1930)
@@ -5974,6 +6123,7 @@ jp_destroyer_fubuki_2;Destroyer
 jp_destroyer_fubuki_EC_0;Fujinagata Zōsensho | Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)
 jp_destroyer_fubuki_EC_1;Ayanami
 jp_destroyer_fubuki_EC_2;Destroyer
+
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 2
 jp_destroyer_harukaze_shop;Harukaze (DD-101)
 jp_destroyer_harukaze_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Kō Gata Goeikan | Harukaze Gata Goeikan (F-101) | Harukazec (DD-101)
@@ -6010,6 +6160,7 @@ jp_destroyer_yugure_shop;Yūgure (DD-184)
 jp_destroyer_yugure_0;Boston Navy Yard / Ishikawajima Jūkōgyō | Kō Gata Goeikan | Airake Gata Goeikan | Yūgure (DD-184)
 jp_destroyer_yugure_1;Yūgure
 jp_destroyer_yugure_2;Destroyer
+
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 3
 jp_destroyer_akizuki_shop;Akizuki
 jp_destroyer_akizuki_0;Maizuru Kaigun Kōshō | Ittō Kuchikukan | Akizuki Gata Kuchikukan (F-51) | Akizuki
@@ -6063,6 +6214,7 @@ jp_destroyer_yuudachi_shop;Yūdachi
 jp_destroyer_yuudachi_0;Sasebo Kaigun Kōshō | Ittō Kuchikukan | Shiratsuyu Gata Kuchikukan (F-45D) | Yūdachi
 jp_destroyer_yuudachi_1;Yūdachi
 jp_destroyer_yuudachi_2;Destroyer
+
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 4
 jp_cruiser_aoba_shop;Aoba
 jp_cruiser_aoba_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Aoba Gata Junyōkan (C-41) | Aoba (1944)
@@ -6087,6 +6239,7 @@ jp_armoredcruiser_ikoma_shop;Ikoma
 jp_armoredcruiser_ikoma_0;Kure Kaigun Kōshō | Ittō Junyōkan | Tsukuba Gata Junyōkan (B-12) | Ikoma (1912)
 jp_armoredcruiser_ikoma_1;Ikoma
 jp_armoredcruiser_ikoma_2;Battlecruiser
+
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 5
 jp_cruiser_tone_shop;Tone
 jp_cruiser_tone_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Tone Gata Junyōkan (C-38) | Tone (1945)
@@ -6132,6 +6285,7 @@ jp_battlecruiser_kongo_shop;Kongō
 jp_battlecruiser_kongo_0;Vickers-Armstrongs / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kongō (1944)
 jp_battlecruiser_kongo_1;Kongō
 jp_battlecruiser_kongo_2;Battleship
+
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 6
 jp_battleship_hyuga_shop;Hyūga
 jp_battleship_hyuga_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Ise Gata Senkan (A-92) | Hyūga
@@ -6149,17 +6303,25 @@ jp_battleship_mutsu_shop;Mutsu
 jp_battleship_mutsu_0;Yokosuka Kaigun Kōshō | Nagato Gata Senkan (A-114) | Mutsu (1922)
 jp_battleship_mutsu_1;Mutsu
 jp_battleship_mutsu_2;Battleship
+
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 i-16_chung_28_shop;Zhōng 28 Jia
 i-16_chung_28_0;"CzKB-39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye imyeni Myenžinskogo / Zhōngyāng Nánchāng Fēijī Zhìzào Chang | Zhōng 28 Jia"
 i-16_chung_28_1;Zhōng 28 Jia
 i-16_chung_28_2;Zhōng 28
+
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 mirage_2000_5ei_shop;Huànxiàng 2000-5
 mirage_2000_5ei_0;Dassault Aviation | Huànxiàng 2000-5 Xíng Zhànjī
@@ -6169,19 +6331,29 @@ j_11b_shop;J11B
 j_11b_0;"Shěnyáng Fēijī Gōngyè (Jítuán) | J11B ""Yìng Lóng"""
 j_11b_1;J11B
 j_11b_2;J11
+
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 cn_type_65_aa_shop;A24
 cn_type_65_aa_0;Nhà Máy Q153 | Xe Phòng Không Too Hành 2 Nòng 37mm, A24
 cn_type_65_aa_1;A24
 cn_type_65_aa_2;SPAAG
+
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 cn_antelope_tc_1l_ads_shop;Jiàn-1 FFX
 cn_antelope_tc_1l_ads_0;Guójiā Zhōngshān Kēxué Yán Jiù Yuàn | Chēzai Jiàn-1 Fángkōng Fēidàn Xìtong
@@ -6191,29 +6363,49 @@ cn_vt_5_shop;╷ VT5BD
 cn_vt_5_0;╷ Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | Lā'iṭa Ṭyānka VT5BD
 cn_vt_5_1;╷ VT5BD
 cn_vt_5_2;Light tank
+
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+
 //CHINA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+
 //CHINA COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+
 //CHINA COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+
 //CHINA COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+
 //CHINA COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+
 //CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+
 //CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+
 //CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+
 //CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+
 //CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+
 //CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 amx_shop;A-11A
 amx_0;AMX International AMX | A-11A Ghibli
 amx_1;A-11A
 amx_2;A-11
+
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 ef_2000a_shop;F-2000A (T2 B15)
 ef_2000a_0;Eurofighter Jagdflugzeug EF-2000 | F-2000A Typhoon (Tranche 2 Block 15)
@@ -6223,71 +6415,109 @@ tornado_ids_it_ret8_shop;A-200C (RET8)
 tornado_ids_it_ret8_0;Panavia Aircraft PA-200 | A-200C Tornado (Retro Enabling Task 8)
 tornado_ids_it_ret8_1;A-200C
 tornado_ids_it_ret8_2;A-200
+
 //ITALY HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+
 //ITALY HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+
 //ITALY HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 it_fiat_6614_firos_shop;Fiat 6614 (FIROS 6)
 it_fiat_6614_firos_0;Fiat OTO Melara Tipo 6614 (FIROS 6)
 it_fiat_6614_firos_1;Fiat 6614
 it_fiat_6614_firos_2;MLRS
+
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 it_c1_ariete_certezza_shop;Ariete (WAR) (20° Corso)
 it_c1_ariete_certezza_0;"Consorzio Iveco Oto Melara | C1 Ariete (Kit WAR) (20° Corso ""Certezza"")"
 it_c1_ariete_certezza_1;Ariete
 it_c1_ariete_certezza_2;MBT
+
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 it_destroyer_maestrale_class_grecale_shop;Grecale (GR)
 it_destroyer_maestrale_class_grecale_0;Cantieri Navali del Tirreno e Riuniti / Arsenale militare marittimo della Spezia | Cacciatorpediniere Classe Maestrale | Gercale (GR) (1949)
 it_destroyer_maestrale_class_grecale_1;Grecale
 it_destroyer_maestrale_class_grecale_2;Destroyer
+
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 a-35b_shop;☨ A-35B-1-VN
 a-35b_0;☨ Vultee Aircraft V-88 | A-35B-1-VN Vengeance
 a-35b_1;☨ A-35B
 a-35b_2;☨ A-35
+
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 tiger_hac_france_shop;☨ Tigre HAC
 tiger_hac_france_0;☨ Eurocopter EC-665 | Tigre, Hélicoptère Anti Char
 tiger_hac_france_1;☨ Tigre HAC
 tiger_hac_france_2;☨ Tigre
+
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 fr_saint_chamond_shop;St.-Chamond Mle. 1918
 fr_saint_chamond_0;Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918
 fr_saint_chamond_1;St.-Chamond Mle. 1918
 fr_saint_chamond_2;Medium Tank
+
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 fr_amd_35_kwk39_shop;☨ le.Pz.Spw. 204 (f) (Kw.K. 39/1)
 fr_amd_35_kwk39_0;☨ Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Kw.K. 39/1 L/60
 fr_amd_35_kwk39_1;☨ le.Pz.Spw. 204 (f)
 fr_amd_35_kwk39_2;Light tank
+
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 fr_marder_df_105_shop;☨ DF 105
 fr_marder_df_105_0;☨ Thyssen Henschel DF 105
@@ -6297,7 +6527,9 @@ fr_marder_clovis_shop;☨ CLOVIS
 fr_marder_clovis_0;☨ Thyssen Henschel CLOVIS, FL 20, 105 mm
 fr_marder_clovis_1;☨ CLOVIS
 fr_marder_clovis_2;Light tank
+
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 fr_leopard_2a4nl_shop;◘ Leopard 2A4 NL
 fr_leopard_2a4nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm
@@ -6315,7 +6547,9 @@ fr_cv_9035_nl_shop;◘ CV9035NL
 fr_cv_9035_nl_0;◘ BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, CV9035NL met kanon 35 mm
 fr_cv_9035_nl_1;◘ CV9035NL
 fr_cv_9035_nl_2;IFV
+
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 fr_vtb12_mod_shop;VTB 12
 fr_vtb12_mod_0;Ateliers et Chantiers de la Loire | Vedette Torpilleur VTB 12
@@ -6325,11 +6559,13 @@ fr_vtb18_shop;VTB 18
 fr_vtb18_0;Chantiers Jouët | Vedette Torpilleur VTB 18
 fr_vtb18_1;VTB 18
 fr_vtb18_2;Motor torpedo boat
+
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 fr_flower_class_aconit_shop;Aconit (K 58)
 fr_flower_class_aconit_0;Ailsa Shipbuilding Company | Corvette Classe Flower | Aconit (K 58)
 fr_flower_class_aconit_1;Aconit
 fr_flower_class_aconit_2;Corvette
+
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 fr_arras_class_arras_shop;Arras (AS)
 fr_arras_class_arras_0;Arsenal de Brest | Aviso de 1re Classe | Aviso Classe Arras | Arras (AS)
@@ -6343,82 +6579,151 @@ fr_marne_class_marne_shop;Marne
 fr_marne_class_marne_0;Arsenal de Lorient | Aviso de 1re Classe | Aviso Classe Marne | Marne (1925)
 fr_marne_class_marne_1;Marne
 fr_marne_class_marne_2;Aviso
+
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 fa_18c_finland_shop;HN
 fa_18c_finland_0;"McDonnell Douglas Corporation Model 267 | HN ""Hornet"""
 fa_18c_finland_1;HN
 fa_18c_finland_2;HN
+
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+
 //SWEDEN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+
 //SWEDEN COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+
 //SWEDEN COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+
 //SWEDEN COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+
 //SWEDEN COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+
 //SWEDEN BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+
 //SWEDEN BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+
 //SWEDEN BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+
 //SWEDEN BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+
 //SWEDEN BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+
 //SWEDEN BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_16a_block_10_netz_mod_shop; F-16A-15OCU-CF (1987)
 f_16a_block_10_netz_mod_0; General Dynamics Corporation | F-16A-15OCU-CF Neṣ (1987)
 f_16a_block_10_netz_mod_1; F-16A
 f_16a_block_10_netz_mod_2; F-16
+
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+
 //ISRAEL COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+
 //ISRAEL COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+
 //ISRAEL COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+
 //ISRAEL COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+
 //ISRAEL COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+
 //ISRAEL BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+
 //ISRAEL BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+
 //ISRAEL BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+
 //ISRAEL BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+
 //ISRAEL BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+
 //ISRAEL BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+
 //TO BE CATEGORIZED;
 germ_t_34_747_shop;▀ Pz.Kpfw. 747 (r) D
 germ_t_34_747_0;▀ Panzerkampfwagen 747 (r) Ausf. D | T 34 D

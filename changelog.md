@@ -28,6 +28,7 @@ All dates are listed in DD-MM-YYYY format.
     - Changes to SEAD event launchers so the short names aren't overly long in the killfeed:
         - **Konstruktorskoye bûro №1 | ZRK SM-90** → **SM-90**
         - **Spyeczial'noye konstruktorskoye bûro №197 | P-12 "Yenisyej"** → **P-12**
+    - **Typhoon F.B. Mk. Ib (Mar 1943)** → **Typhoon F.B. Mk. Ib (Mar, 1943)**.
 
 ### Weaponry:
 
@@ -56,8 +57,25 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **T-44 First Modification** (loading screen) → **T-44 №1**.
-    - **T-44(FM)** (profile background) → **T-44 №1**.
+    - **T-44 First Modification** loading screen → **T-44 №1**.
+    - **T-44(FM)** profile background → **T-44 №1**.
+    - **Wiesel 1 A4 MK20, Wiesel 1 A2 TOW, and LeFlaSys Ozelot** loading screen → **Wiesel 1 A4 MK, Wiesel 1 A2 TOW, and leFlaSys Ozelot**.
+    - **VBCI 2 (MCT-30), VBM Freccia C/C, and BTR-80A** loading screen → **VBCI MK2 (MCT-30), VBM Freccia C/C, and BTR-80A**.
+    - **Su-34** loading screen → **Su-34NVO**.
+    - **F-4F KWS LV** loading screen → **F-4F KWS-LV**.
+    - **IJN Yamashiro** loading screen → **Yamashiro**.
+    - **10 TK** loading screen → **10TK**.
+    - **Rooikat Mk. 1D** loading screen → **Rooikat Mk1D**.
+    - **F-4C-25-MC Phantom** loading screen → **F-4C-24-MC Phantom II**.
+    - **AH-1S Cobra (FMC)** loading screen → **AH-1S Cobra (MC) (CN)**.
+    - **IJN Furutaka and IJN Yugumo** loading screen → **Furutaka and Yūgumo**.
+    - **T-2 (late)** loading screen → **T-2 (1979)**.
+    - **USSR Ground Forces** loading screen → **Soviet Ground Forces**.
+    - **Tiger E (früh) and Fw 190 D-9 vs T-34-85** loading screen → **Tiger E (früh) and Fw 190 D-9 vs T-34-85 (Sep, 1944)**.
+    - **T-34-85 vs Panther D** loading screen → **T-34-85 (Sep, 1944) vs Panther D**.
+    - **T-34-85 and La-5-41** loading screen → **T-34-85 (Sep, 1944) and La-5-41**.
+    - **T-34-85 and Il-2M (NS-37) vs Pz.Kpfw. IV F2** loading screen → **T-34-85 (Sep, 1944) and Il-2M (NS-37) vs Pz.Kpfw. IV F2**.
+    - **Centurion, Mk. I* and Typhoon Mk. Ib (Mar 1943) vs Panther F** loading screen → **Centurion, Mk. I* and Typhoon Mk. Ib (Mar, 1943) vs Panther F**.
 
 ## 1.12.02 - 17-04-2025
 

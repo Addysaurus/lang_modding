@@ -19,7 +19,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **T-44(FM)** → **T-44 №1**. Long name → **Ural'skij tankovyj zavod №183 im. Komintyerna | Ob"yekt 136 | T-44 №1**.
+    - **T-44(FM)** → **T-44 №1**. Long name → **Ural'skij tankovyj zavod №183 imyeni Komintyerna | Ob"yekt 136 | T-44 №1**.
     - **Amiens** → **Amiens (7)**. Long name → **Société Nouvelle des Forges et Chantiers de la Méditerranée / Arsenal de Cherbourg | Aviso de 1re Classe | Aviso Classe Arras | Amiens (7) (1940)**.
     - **Arras (AS)**: Long name → **Arsenal de Brest | Aviso de 1re Classe | Aviso Classe Arras | Arras (AS)**.
     - **F3D-1**: Long name → **Douglas Aircraft Company D-561 | F3D-1 Skyknight**.
@@ -29,6 +29,11 @@ All dates are listed in DD-MM-YYYY format.
         - **Konstruktorskoye bûro №1 | ZRK SM-90** → **SM-90**
         - **Spyeczial'noye konstruktorskoye bûro №197 | P-12 "Yenisyej"** → **P-12**
     - **Typhoon F.B. Mk. Ib (Mar 1943)** → **Typhoon F.B. Mk. Ib (Mar, 1943)**.
+    - **Sudostroityel'nyj zavod № 194 imyeni Marti** manufacturer → **Sudostroityel'nyj zavod №194 imyeni Marti**.
+    - **Ural'skij zavod transportnogo mašinostroyeniâ im. Â.M. Svyerdlova** manufacturer → **Ural'skij zavod transportnogo mašinostroyeniâ imyeni Â.M. Svyerdlova**.
+    - **Omskij Zavod im. Lyenina, Zavod №174** manufacturer → **Omskij zavod №174 imyeni Lyenina**.
+    - **Stalingradskij Traktornyj Zavod im. F.È. Dzyeržinskogo** manufacturer → **Stalingradskij traktornyj zavod imyeni F.È. Dzyeržinskogo**.
+    - **TKA №164**: Long name → **Sudostroityel'nyj zavod №194 imyeni Marti | Torpyednyj katyer proyekt 103, Tip SM-4 | TKA №164**.
 
 ### Weaponry:
 

@@ -34,8 +34,6 @@ All dates are listed in DD-MM-YYYY format.
     - **Omskij Zavod im. Lyenina, Zavod №174** manufacturer → **Omskij zavod №174 imyeni Lyenina**.
     - **Stalingradskij Traktornyj Zavod im. F.È. Dzyeržinskogo** manufacturer → **Stalingradskij traktornyj zavod imyeni F.È. Dzyeržinskogo**.
     - **TKA №164**: Long name → **Sudostroityel'nyj zavod №194 imyeni Marti | Torpyednyj katyer proyekt 103, Tip SM-4 | TKA №164**.
-    - **VLT 1**: Long name → **Société des Constructions navales de Meulan | Vedette Lance Torpille VLT 1**.
-    - **VLT 2**: Long name → **Société des Constructions navales de Meulan | Vedette Lance Torpille VLT 2**.
 
 ### Weaponry:
 

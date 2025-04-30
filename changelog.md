@@ -19,7 +19,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Wasp H.A.S. Mk. 1**: Long name → **Westland Helicopters Sprite | Wasp H.A.S. Mk. 1**.
         - **Wessex H.U. Mk. 5**: Long name → **Sikorsky Aircraft Corporation S-58 / Westland Helicopters | Wessex H.U. Mk. 5**.
         - **Lynx A.H. Mk. 1**: Long name → **Westland Helicopters WG.13 | Lynx A.H. Mk. 1**.
-        - **G-LYNX** → **G-Lynx**. Long name → **Westland Helicopters G-Lynx**.
+        - **G-LYNX** → **G-Lynx**. Long name → **Westland Helicopters WG.13 G-Lynx**.
         - **Apache A.H. Mk. 1**: Long name → **Boeing Rotorcraft Systems / AugustaWestland | Apache A.H. Mk. 1**.
 
 ## 1.12.03 - 26-04-2025

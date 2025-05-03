@@ -10,6 +10,16 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.12.04 - UNRELEASED
 
+### General:
+
+- #### Additions:
+
+    - Added new 1 loading tip:
+        - General: 1
+        - Air: 0
+        - Ground: 0
+        - Naval: 0
+
 ### Vehicles:
 
 - #### Changes:

@@ -1,0 +1,175 @@
+<ID|readonly|noverify>;<English>
+//GAMEPLAY TIPS
+loading/tip0;You can use zoom to see the target better.
+loading/tip1;Make sure to visit the Encyclopedia regularly. It contains lots of useful information.
+loading/tip2;You can use the mouse look button {{ID_CAMERA_NEUTRAL}} to look around.
+loading/tip3;You can send short messages to your team using the special menu {{ID_SHOW_VOICE_MESSAGE_LIST}}, every player will see them in their own language.
+loading/aircraft/newbie/tip0;Don't know what to do in a stall or a spin? We have a special tutorial for this.
+loading/aircraft/tip1;The Immelmann is an effective way to change direction in combat.
+loading/aircraft/tip2;A loop can help you get onto your opponent's tail.
+loading/aircraft/newbie/tip3;Watch out for enemy waist gunners.
+loading/aircraft/newbie/tip4;Use the Target Camera {{ID_TARGET_CAMERA}}.
+loading/aircraft/newbie/tip5;You can control the gunners on some aircraft. Switch between available positions with the Switch Camera button {{ID_TOGGLE_VIEW}}.
+loading/aircraft/newbie/tip6;Always try to have an altitude advantage over your opponent.
+loading/aircraft/newbie/tip7;You are a more difficult target to hit when flying at tree-top level.
+loading/aircraft/newbie/tip8;You can decorate your aircraft in the Hangar.
+loading/aircraft/newbie/tip9;When landing, lower your landing gear but don't forget to reduce airspeed first.
+loading/aircraft/tip10;Don't forget to raise your landing gear after take-off.
+loading/aircraft/newbie/tip11;You can repair your aircraft and restock your ammunition on friendly airfields and aircraft carriers.
+loading/aircraft/newbie/tip12;Don't forget to lead your target when firing. The lead angle is displayed along the target's flight path in arcade.
+loading/aircraft/newbie/tip13;Rockets have poor accuracy. It is best to fire off a few at a time.
+loading/aircraft/newbie/tip14;Try to aim for a bomber's engines. It won't get far without them.
+loading/aircraft/newbie/tip15;You can check out all available aircraft in the Research window.
+loading/aircraft/tip16;An aircraft can fly with critical damage, even with only half a wing. You can read more about this in the Encyclopedia.
+loading/aircraft/newbie/tip17;Watch your altitude carefully, especially when performing maneuvers!
+loading/aircraft/tip18;The farther from your target you drop your torpedo, the more likely the target will be able to dodge it.
+loading/aircraft/newbie/tip19;The optimal distance for launching torpedoes is about one kilometer from the target.
+loading/aircraft/tip22;Crashed... for good luck!
+loading/aircraft/tip23;A big ship needs a big torpedo.
+loading/aircraft/tip24;Want to rewrite history? Try the Dynamic Campaign!
+loading/aircraft/tip25;Want more? You can try different scenarios in the Mission Editor.
+loading/aircraft/tip26;Try to come back alive - your country needs you.
+loading/aircraft/tip27;Too many missions? This is what you signed up for, pilot!
+loading/aircraft/tip28;"You should have no problem landing; what goes up must come down... eventually."
+loading/aircraft/tip29;For a good pilot, any weather is acceptable.
+loading/aircraft/tip30;The aircraft is on the ground, and the pilot's alive. A successful landing!
+loading/aircraft/tip31;Don't wait to love until you're too old, and don't wait to brake until you're out of landing strip!
+loading/aircraft/tip32;It's better to fly badly than to fall well.
+loading/aircraft/tip33;Fly timidly and you won't get very far.
+loading/aircraft/tip34;The effectiveness of enemy aircraft attacks is about 50%, ground-based anti-aircraft attacks, 70%, and a cold, hard slam into the earth - 100%.
+loading/aircraft/tip35;One wing is good, but two are better.
+loading/aircraft/tip36;Have a pleasant flight!
+loading/aircraft/tip37;A bad pilot can't even handle a steering column.
+loading/help_tip01;While in battle, press F1 to view help on the controls.
+loading/help_consoleTip;
+loading/tank/tip1;"You can illuminate the aiming reticle light {{ID_TOGGLE_GM_CROSSHAIR_LIGHTING}} in ""sniper mode""."
+loading/tank/newbie/tip2;For heavily armoured targets APCR and APDS shells are recommended.
+loading/tank/tip3;HEAT shells are good for long-range operations.
+loading/tank/newbie/tip4;Tanks and SPG's are usually hard to penetrate when shooting into the front of the hull or turret, side and rear armor are easier to penetrate.
+loading/tank/tip5;Large-calibre HE shells may be effective against medium and large tanks.
+loading/tank/newbie/tip6;"To allow repairs on the battlefield you have to research the ""Parts"" modification."
+loading/tank/newbie/tip7;"To be able to extinguish a fire in a vehicle, you have to research the modification ""FPE"" (Fire Prevention Equipment)."
+loading/tank/tip8;For softer targets it would be best to use HE or HEAT shells.
+loading/tank/tip9;Full calibre AP shells have less penetrating power than APCR or APDS shells, but they do more damage in case of successful penetration.
+loading/tank/newbie/tip10;If the gunner is knocked out, the vehicle will not be able to fire for a while. It takes some time to replace them with another crew member.
+loading/tank/newbie/tip11;If the driver is knocked out, the vehicle will not be able to move for a while. Some time is required for replacing them with another crew member.
+loading/tank/newbie/tip12;Field repair time increases when one or more crew members are unconscious.
+loading/tank/newbie/tip13;Vehicle fire rate reduces when the Loader is wounded or unconscious.
+loading/tank/newbie/tip14;To determine a vehicle's weak points, use the armour penetration indicator.
+loading/tank/newbie/tip15;"If you have the ""Artillery Support"" modification installed on your current vehicle, you can call for an artillery strike {{ID_ACTION_BAR_ITEM_5}} in the area indicated on the map."
+loading/tank/tip16;"You can set the firing distance in ""sniper mode"". {{gm_sight_distance}}."
+loading/tank/tip17;Use your binoculars {{ID_CAMERA_BINOCULARS}}, it costs nothing.
+loading/tank/tip18;Do not stand near a bomb!
+loading/tank/newbie/tip19;You can repair your damaged tank at the captured point even without the researched ""Parts"" modification.
+loading/tank/tip20;HEAT shells and rockets explode in contact with any obstacles, such as trees or fences. Consider this when shooting at the enemy.
+loading/tank/newbie/tip21;You can use your favorite vehicle twice in the same battle if you have a ""Backup vehicle"". A ""Backup vehicle"" can be purchased in the modifications window or received as a result of a battle.
+loading/tank/newbie/tip22;Before using an aircraft in arcade tank battles, make sure that your tank is under cover and will not be destroyed while you are in the sky.
+loading/tank/newbie/tip23;"The ""Tracks"" modification significantly improves the maneuverability of the tank, especially when turning on the spot."
+loading/tank/newbie/tip24;The Battle Rating (BR) determines which opponents you can meet while driving this vehicle. The BR is displayed in the stat card and depends on the selected game mode.
+loading/tank/tip25;The armor penetration indicator shows the probability of damaging the target without taking into account the movement of the player's and the opponent's vehicles as well as the network delay. During the projectile flight to the target, the point and angle of attack can change significantly.
+loading/ship/newbie/tip1;Any naval vessel can be stopped by pressing {{ID_SHIP_FULL_STOP}}.
+loading/ship/newbie/tip2;During combat, switch between groups of primary {{ID_SHIP_WEAPON_PRIMARY}}, secondary {{ID_SHIP_WEAPON_SECONDARY}}, and anti-aircraft {{ID_SHIP_WEAPON_MACHINEGUN}} weapons.
+loading/ship/newbie/tip3;Use the torpedo sight {{ID_SHIP_TORPEDO_SIGHT}}.
+loading/ship/tip4;Select target groups for your gunners {{ID_SHIP_TOGGLE_GUNNERS}}.
+loading/ship/tip5;You can select targets for primary weapons {{ID_SHIP_SELECT_TARGET_AI_PRIM}}.
+loading/ship/tip6;You can select targets for secondary weapons {{ID_SHIP_SELECT_TARGET_AI_SEC}}.
+loading/ship/tip7;You can select targets for anti-aircraft weapons {{ID_SHIP_SELECT_TARGET_AI_MGUN}}.
+loading/ship/tip8;In the menu, you can turn the tracking system on or off for falling shells with a calibre equal to or greater than 100 mm.
+loading/ship/newbie/tip9;You can turn on automatic repair for breaches and flood prevention {{ID_REPAIR_BREACHES}}.
+loading/ship/newbie/tip10;You can turn on automatic damage repair {{ID_SHIP_ACTION_BAR_ITEM_11}}.
+loading/ship/newbie/tip11;You can turn on automatic fire extinguishing {{ID_SHIP_ACTION_BAR_ITEM_6}}.
+loading/ship/newbie/tip12;If repairs, extinguishing fires, and bailing water are done simultaneously, they take far more time than each of them does alone.
+loading/ship/tip13;In the control menu, you can assign keys to manually control direction and range of fire.
+loading/ship/tip14;In the control menu, you can assign a key to fire a ranging shot from a main calibre gun or turret.
+loading/ship/tip15;On large ships, you will lose all the shells in your ammo magazine if they catch fire.
+loading/ship/tip16;If the ammo magazine becomes flooded, all of the shells in it will be inaccessible until the water is pumped out.
+loading/ship/newbie/tip17;If the engine room is flooded, the engines and transmission will be knocked out.
+loading/ship/newbie/tip18;If the funnel is damaged, the maximum forward speed of the vessel is reduced.
+loading/ship/newbie/tip19;If the bridge of the vessel is damaged and your helmsman and commander are gone, you lose the ability to control the warship until you replace them with other members of the crew.
+loading/ship/newbie/tip20;If the roll is not stopped in time, the vessel may capsize.
+loading/ship/newbie/tip21;Breaches and flooding reduce the vessel's maximum speed.
+loading/ship/tip22;A rudder damaged during a turn can get jammed and the vessel will continue turning until the rudder is fixed.
+loading/ship/tip23;If the rudder is damaged, you can still control the vessel with the help of the engines, but it will be much slower.
+loading/ship/tip24;Breaches take on water faster while the vessel is moving.
+loading/ship/newbie/tip25;Aim below the waterline if you want to penetrate your enemy's hull and cause flooding.
+loading/ship/newbie/tip26;You can cancel a repair process, water bailing, or fire extinguishing by repeatedly pressing and holding the corresponding key for that action.
+loading/ship/tip27;Bomb throwers shoot in the same direction as the player's view {{ID_SHIP_WEAPON_MORTAR}}.
+loading/ship/tip28;To use the surveillance aircraft, press {{ID_START_SUPPORT_PLANE_SHIP}}, rotate the catapult and press {{ID_START_SUPPORT_PLANE_SHIP}} again
+loading/ship/tip29;To activate the tracking camera, press {{ID_FIRE_GM}} after the shot
+loading/ship/tip30;To show the control help list, press {{ID_HELP}}
+loading/ship/tip31;In the menu, you can enable a single button fire with the main and auxiliary calibres: the main calibre fires first, then the auxiliary calibre fires on the next press.
+loading/ship/tip32;To switch between the ship and the surveillance aircraft, press {{ID_START_SUPPORT_PLANE_SHIP}}"
+loading/ship/tip33;To enable the surveillance aircraft flying in orbit, press {{ID_SUPPORT_PLANE_ORBITING_SHIP}}"
+//HISTORICAL TIPS
+//GENERAL HISTORICAL TIPS
+loading/tip4;"During the lead-up to the 1973 Yom Kippur War, Avigdor ""Yanush"" Ben-Gal was the only Israeli general to see the writing on the wall and began preparing the 7th Armored Brigade two weeks before the war began. It was the only armored brigade fully prepared when the war began."
+loading/tip5;Despite Italy's more advanced military technology and having colonies in neighboring Somalia and Eretria, Italy's attempt to colonize Ethiopia failed spectacularly, draining Italian resources and resulting in the single worst defeat of any European colonial power in Africa.
+loading/tip6;The United States dropped roughly 7.5 million tons of bombs on Vietnam, Cambodia, and Laos during the Vietnam War. That is over double the amount dropped by all allied powers in all theaters of World War II.
+loading/tip7;The Philippine-American War from 1899 to 1902 and the subsequent American occupation of the Philippines which lasted until 1946 killed over 200,000 Filipino civilians in addition to the 20,000 Filipino soldiers and 4,200 American soldiers. Some estimates put the number of Filipinos killed as high as 300,000.
+loading/tip8;The Allied Bombing of Nijmegen that took place on February 22, 1944 during the Battle of Nijmegen as part of Operation Market Garden was designed to target a railway station used by the Nazis to transport weapons. However, the bombing was poorly and carelessly planned executed, resulting in most of the bombs hitting the city center and killing roughly 800 civilians.
+//AIRCRAFT HISTORICAL TIPS
+loading/aircraft/tip38;One of the most famous pilots of the La-5FN, Aleksei Maresyev, remained an aviator despite the loss of his legs.
+loading/aircraft/tip39;The design of the Ki-43's retractable landing gear was copied from the V-143 (designed by the American company Chance Vought).
+loading/aircraft/tip40;"The three Gladiators repelling an Italian aerial assault on Malta were known as ""Faith"", ""Hope"" and ""Charity""."
+loading/aircraft/tip41;A good pilot can fly anything that flies - and, with some difficulty, even things never meant to fly.
+loading/aircraft/tip42;The famous Antoine de Saint-Exupéry flew a P-38G.
+loading/aircraft/tip43;The Me 163 was originally named the Li 163, after chief designer Alexander Lippisch.
+loading/aircraft/tip44;The Arado Ar 234 was designed to be a scout plane. Its initial plans did not hold any bombs, just a non-retractable 3-wheeled landing gear.
+loading/aircraft/tip45;"The Swordfish was nicknamed the ""Stringbag"" because of its construction, a couple of decades out of date when it began to serve in combat."
+loading/aircraft/tip46;"Because of the shape of its fuselage, the P-47 earned the nickname ""Jug""."
+loading/aircraft/tip47;The Lancaster had an impressive bomb load of 6356 kgs.
+loading/aircraft/tip48;General Bennett once remarked that the Mosquito F.B. Mk. VI had only one drawback: the Air Force never had enough of them.
+loading/aircraft/tip49;The first series of Spitfires used twin-bladed wooden propellers, but from the 74th aircraft on, three-bladed metal propellers were used instead.
+loading/aircraft/tip50;The test MC. 200 (Prototype MM. 336) made its first flight on December 24, 1937.
+loading/aircraft/tip51;The most well-known operation involving a P-38G was the interception and destruction of a G4M1 bomber with Admiral Isoroku Yamamoto on board.
+loading/aircraft/tip52;The A6M2-N was created to cover troop landing operations and conduct combat operations near atolls, where building coastal airfields was impossible.
+loading/aircraft/tip53;The Zero had no equal in the skies over the Pacific until the end of 1942.
+loading/aircraft/tip54;In 1944, Henry Ford's plant in Willow Run released one B-24 every hour (up to 650 planes per month).
+loading/aircraft/tip55;When the B5N prototype was developed, it included a hydraulic wing-folding system which would not be included in the production model.
+loading/aircraft/tip56;The Beaufighter was the first aircraft designed to allow the installation of radar systems.
+loading/aircraft/tip57;The Beaufort was based on the Blenheim and inherited its wing structure, tail, and landing gear.
+loading/aircraft/tip58;The CAC Boomerang was a redesigned Wirraway training plane.
+loading/aircraft/tip59;At the time of its creation, the D3A1 was one of the best divers in the world.
+loading/aircraft/tip60;To extend or retract the landing gear, Wildcat pilots had to turn a mechanical crank handle 29 times.
+loading/aircraft/tip61;According to official figures, the F6F Hellcat shot down 5156 enemy aircraft.
+loading/aircraft/tip62;The CR.42 Falco fighter can rightly be considered one of the best biplanes of World War II.
+loading/aircraft/tip63;The G.50 Freccia was the first Italian all-metal monoplane fighter.
+loading/aircraft/tip64;The range of the Mitsubishi G4M1 was colossal at about 6000 km.
+loading/aircraft/tip65;The Gladiator Mk. II differed from the earlier production models by including a more reliable engine—the Bristol Mercury VIIIA/AS (830 hp).
+loading/aircraft/tip66;The Hs 129 B included the Gnome-Rhône 14M 700 hp engine, which had been obtained during the occupation of France.
+loading/aircraft/tip67;The Ju 87's automatic air brakes allowed it to pull out of a dive even if the pilot lost consciousness from excessive g-forces.
+loading/aircraft/tip68;The Ki-61's engine, the 12-cylinder liquid-cooled Ha-40, was a licensed copy of the DB 601A.
+loading/aircraft/tip69;Many wanted to decommission the SBD before the war even began, but it still took part in the hostilities and in 1942 sunk more enemy ships than any other naval aircraft.
+loading/aircraft/tip70;Thanks to its hydraulic wings, the TBF could be packed or unpacked by the pilot in just a few seconds.
+loading/aircraft/tip71;The Tempest saw its first mass use by the RAF during the Allied landings at Normandy.
+loading/aircraft/tip72;The Brewster F2A Buffalo was the first carrier-based monoplane used by the U.S. Navy.
+loading/aircraft/tip73;The OS2U played numerous roles, including artillery spotter and even providing cover for amphibious operations.
+loading/aircraft/tip74;The tropical variant, the Bf 109 F-4, protected the pilot from overheating on the ground with a mounted umbrella covering the cockpit.
+loading/aircraft/tip75;The absence of armor on the H6K4 was due to the plane's long range (up to 6000 km).
+loading/aircraft/tip76;"The PBY Catalina was the most popular seaplane; some are still in civilian use."
+loading/aircraft/tip77;The A5M was the world's first monoplane carrier-based fighter.
+loading/aircraft/tip78;Only 60 of the P-35s that Sweden ordered, which Sweden called the J 9 in its fighter variant and S 9 C in its reconnaissance variant, ever made it to Sweden. The rest went into service with the USAF as the P-35A.
+loading/aircraft/tip79;The G.91 was concieved as a fighter to be used by all of NATO. However, only Italy, Germany, and Portugal ended up operating it.
+loading/aircraft/tip80;Greece ordered the G.91 R/4 and evaluated four of them, but later canceled the order. The 4 G.91 R/4s they evaluated went to the Luftwaffe.
+loading/aircraft/tip81;The U.S.A., Norway, and Switzerland evaluated the G.91, but none procured it.
+loading/aircraft/tip82;The only air-to-air kill scored by the Kfir was scored by a Kfir C.2 with a Shafrir 2 air-to-air missile against a Syrian MiG-21 over Lebanon on June 27, 1979.
+loading/aircraft/tip83;The F-15's first air-to-air kill was scored by Moshe Melnik against a Syrian MiG-21 using a Python 3 air-to-air missile on June 27, 1979.
+loading/aircraft/tip84;The F-16AJ was offered to Japan, but never built or procured.
+loading/aircraft/tip85;The J11 was the name given to the Chinese variants of the Su-27 that were produced in China. Those imported from Russia were still known in Chinese service as the Su-27SK.
+loading/aircraft/tip86;The Defiant was developed by Boulton Paul was designed as a turret fighter so planes would intercept it from behind and be fired upon.
+loading/aircraft/tip87;After the United States Navy retired the F-14 Tomcat in 2006, it ordered all F-14 airframes destroyed to avoid its components falling into the hands of the Islamic Republic of Iran Air Force for their F-14s.
+loading/aircraft/tip88;"The Chinese 6th generation aircraft prototypes unveiled in 2024 are commonly known as the ""J36""/""JH36"" and the ""J50"" respectively, but these names are only hypothesized. The name ""J36""/""JH36"" is based on the serial number 36011 and, if following PLAAF naming conventions, the ""36"" would make the aircraft the ""J36"" or ""JH36"". Meanwhile, the name ""J50"" is entirely analyst speculation."
+loading/aircraft/tip89;The Me 163, despite being a rocket plane, had a tight enough turn circle to be able to outturn a Mosquito.
+//GROUND HISTORICAL TIPS
+loading/tank/tip26;The T-55S Samovar was an Israeli prototype upgrade of the Tiran 5Sh featuring a new 8V71T engine, XTG-411-4 transmission, the Matador fire control system, a 2-plane stabilizer, and several more upgrades.
+loading/tank/tip27;It is not known how many M-51s were built on the M4A3 hull. M-51 number 814794 is known and there is possibly a second one that is either number 814781 or 814787.
+loading/tank/tip28;Only 2 images are known of the Magach 6R (M261). The images are of it being tested in Suez in 1981.
+loading/tank/tip29;An early, mid, and late pilot were built of the Teledyne Continental Motors Armored Support Platform.
+loading/tank/tip30;Despite being reversed in alphabetical order, the ZTZ88B was developed before the ZTZ88A.
+loading/tank/tip31;The Maus was never assembled by the Germans. Its hull and turret were built by the Germans, but assembled by the Soviets when they captured them.
+loading/tank/tip32;The L/55 on the Leopard 2 A6 had to be switched out for the L/55A1 on the Leopard 2 A7 to accomodate the new DM 73 APFSDS round.
+loading/tank/tip33;The Chinese SH16A 155 mm self-propelled howitzer developed by Norinco acts as an export market competitor to the German RCH 155 developed by KNDS.
+//NAVAL HISTORICAL TIPS
+loading/ship/tip34;USS Laffey (DD-724) survived 9 kamikaze strikes and 4 bomb hits in one battle!
+loading/ship/tip35;"The Alaska-class cruisers were designated as ""large cruisers"" due to them possessing the size and armament of a battlecruiser, but the armor scheme of a heavy cruiser. They were designed as a response to the German pocket battleships and supposed Japanese ""super cruisers."""
+loading/ship/tip36;"Eight LCM(6) monitors were converted to LCM(6)(F) ""Zippo"" monitors with flamethrowers, but many had different configurations. The first two were actually APCs with flamethrowers with M132A1 flamethrowers fit into carved out LCM(6) hulls, while the remaining six each had two M10-8 flamethrowers mounted in small turrets amidships."

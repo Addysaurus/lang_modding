@@ -1,0 +1,2813 @@
+<ID|readonly|noverify>;<English>
+modification/category/lth;Flight performance
+modification/category/armor;Survivability
+modification/category/weapon;Weaponry
+modification/category/mobility;Mobility
+modification/category/protection;Protection
+modification/category/firepower;Firepower
+modification/category/primaryWeapon;Offensive armament
+modification/category/secondaryWeapon;Secondary weapon
+modification/category/premiumMods;Special
+modification/category/expendables;Supplies
+modification/category/seakeeping;Seakeeping
+modification/category/unsinkability;Unsinkability
+modification/category/bonus;Tier bonus
+modification/category/bonus/tooltip;When researching all modifications at each tier, you will receive bonus RP for the vehicle being researched in the amount of {bonus}% of the sum of RP earned to research all modifications of this tier.
+modification/tierBonus;Bonus:
+modification/bonusReceived;Bonus received
+modification/progressModsText;Research of all modifications: {earnedExp} / {reqExp}
+modification/progressModsAllResearchedText;◕ All mods researched
+modification/f2a3_2x100lb;Mk. 41
+modification/f2a3_2x100lb/desc;Allows installation of 2 x 100 lb bombs.
+modification/g50_2xSC50;SC 50
+modification/g50_2xSC50/desc;Allows installation of 2 x 50 kg bombs.
+modification/it50_mod;GP50
+modification/it50_mod/desc;Allows installation of 50 kg bombs.
+modification/it100_mod;GP100
+modification/it100_mod/desc;Allows installation of 100 kg bombs.
+modification/it150_mod;GP150
+modification/it150_mod/desc;Allows installation of 150 kg bombs.
+modification/it160_mod;A.P 160
+modification/it160_mod/desc;Allows installation of 160 kg bombs.
+modification/it250_mod;GP250
+modification/it250_mod/desc;Allows installation of 250 kg bombs.
+modification/it500_mod;GP500
+modification/it500_mod/desc;Allows installation of 500 kg bombs.
+modification/it800_mod;GP800
+modification/it800_mod/desc;Allows installation of 800 kg bombs.
+modification/he51_6xsd10;SD 10
+modification/he51_6xsd10/desc;Allows installation of 6 x 10 kg bombs.
+modification/Hs-123_4xSC50;SC 50
+modification/Hs-123_4xSC50/desc;Allows installation of 4 x 50 kg bombs.
+modification/Hs-123_SC250;SC 250
+modification/Hs-123_SC250/desc;Allows installation of 1 x 250 kg bomb.
+modification/Bf-109E-3_4xSC50;SC 50
+modification/Bf-109E-3_4xSC50/desc;Allows installation of 4 x 50 kg bombs.
+modification/Bf-109E-3_SC250;SC 250
+modification/Bf-109E-3_SC250/desc;Allows installation of 1 x 250 kg bomb.
+modification/Bf-109F-4_4xSC50;SC 50
+modification/Bf-109F-4_4xSC50/desc;Allows installation of 4 x 50 kg bombs.
+modification/Bf-109F-4_SC250;SC 250
+modification/Bf-109F-4_SC250/desc;Allows installation of 1 x 250 kg bomb.
+modification/Bf-109F-4_SC500;SC 500
+modification/Bf-109F-4_SC500/desc;Allows installation of 1 x 500 kg bomb.
+modification/Bf-109F-4_R1;R1 modification
+modification/Bf-109F-4_R1/desc;Allows installation of 2 x 15 mm MG151/15 cannons under the wings.
+modification/Bf-109G-10_R5;R5 modification
+modification/Bf-109G-10_R5/desc;Allows installation of 2 x 30 mm Mk. 108 cannons under the wings.
+modification/Bf-109G-10_SC250;SC 250
+modification/Bf-109G-10_SC250/desc;Allows installation of 1 x 250 kg bomb.
+modification/Bf-109G-10_SC500;SC 500
+modification/Bf-109G-10_SC500/desc;Allows installation of 1 x 500 kg bomb.
+modification/Bf-109G-10_MK108_mod;Mk. 108 cannon
+modification/Bf-109G-10_MK108_mod/desc;Allows installation of 30 mm Mk. 108 cannon.
+modification/Bf-109G-10_R6;R6 modification
+modification/Bf-109G-10_R6/desc;Allows installation of 2 x 20 mm MG151/20 cannons under the wings.
+modification/hs129_r2;R2 modification
+modification/hs129_r2/desc;Allows installation of 30 mm Mk. 103 cannon.
+modification/Bf-109G-2_4xSC50;SC 50
+modification/Bf-109G-2_4xSC50/desc;Allows installation of 4 x 50 kg bombs.
+modification/Bf-109G-2_SC250;SC 250
+modification/Bf-109G-2_SC250/desc;Allows installation of 1 x 250 kg bomb.
+modification/Bf-109G-2_SC500;SC 50
+modification/Bf-109G-2_SC500/desc;Allows installation of 1 x 500 kg bomb.
+modification/Bf-109G-2_R6;R6 modification
+modification/Bf-109G-2_R6/desc;Allows installation of 2 x 20 mm MG151/20 cannons under the wings.
+modification/Bf-109G-6_R6;R6 modification
+modification/Bf-109G-6_R6/desc;Allows installation of 2 x 20 mm MG151/20 cannons under the wings.
+modification/Bf-109G-6_R5;R5 modification
+modification/Bf-109G-6_R5/desc;Allows installation of 2 x 30 mm Mk. 108 cannons under the wings.
+modification/Bf-109G-6_4xSC50;SC 50
+modification/Bf-109G-6_4xSC50/desc;Allows installation of 4 x 50 kg bombs.
+modification/Bf-109G-6_SC250;SC 250
+modification/Bf-109G-6_SC250/desc;Allows installation of 1 x 250 kg bomb.
+modification/Bf-109G-6_SC500;SC 500
+modification/Bf-109G-6_SC500/desc;Allows installation of 1 x 500 kg bomb.
+modification/Bf-109G-6_W;W.Gr.21
+modification/Bf-109G-6_W/desc;Allows installation of 2 x 210 mm rockets BR.21.
+modification/bf-109g6_u4_mod;U4 modification
+modification/bf-109g6_u4_mod/desc;Allows installation of 30 mm Mk. 108 motor-cannon.
+modification/Bf-109K-4_R5;R5 modification
+modification/Bf-109K-4_R5/desc;Allows installation of 2 x 20 mm MG151/20 cannons under the wings.
+modification/Bf-110C-4_8xSC50;SC 50
+modification/Bf-110C-4_8xSC50/desc;Allows installation of 50 kg bombs.
+modification/Bf-110C-4_2xSC250;SC 250
+modification/Bf-110C-4_2xSC250/desc;Allows installation of 2 x 250 kg bombs.
+modification/Bf-110C-4_SC50_SC250;SC 250
+modification/Bf-110C-4_SC50_SC250/desc;Allows installation of two up to 250 kg bombs.
+modification/Bf-110C-4_SC500;SC 500
+modification/Bf-110C-4_SC500/desc;Allows installation of 500 kg bomb.
+modification/Bf-110C-7_SC1000;ESC 1000
+modification/Bf-110C-7_SC1000/desc;Allows installation of 1000 kg bomb.
+modification/Bf-110C-7_SC1000_SC250;SC 250
+modification/Bf-110C-7_SC1000_SC250/desc;Allows installation of up to 1000 kg bombs.
+modification/he-111h-2_8xSC250;SC 250
+modification/he-111h-2_8xSC250/desc;Allows installation of 8 x 250 kg bombs.
+modification/he-111_2x1000kg_250kg_pylon;C 1000/SC 250
+modification/he-111_2x1000kg_250kg_pylon/desc;Allows installation of 2 x 1000 kg bombs and 1 x 250 kg bomb.
+modification/he-111_2x1000kg_pylon;SC 1000
+modification/he-111_2x1000kg_pylon/desc;Allows installation of 2 x 1000 kg bombs.
+modification/Fw-190A-5_4xSC50;SC 50
+modification/Fw-190A-5_4xSC50/desc;Allows installation of 4 x 50 kg bombs.
+modification/Fw-190A-5_SC250;SC 250
+modification/Fw-190A-5_SC250/desc;Allows installation of 1 x 250 kg bomb.
+modification/Fw-190A-5_SC500;SC 500
+modification/Fw-190A-5_SC500/desc;Allows installation of 1 x 500 kg bomb.
+modification/Fw-190A-5_R1;R1 modification
+modification/Fw-190A-5_R1/desc;Allows to install 4 x 20 mm MG151/20 cannons under the wings.
+modification/Fw-190A-5_R6;R6 modification
+modification/Fw-190A-5_R6/desc;Allows installation of 210 mm rockets Wfr.Gr.21
+modification/bf_110f-2_rz65;EG RZ.65 modification
+modification/bf_110f-2_rz65/desc;Allows installation of rockets EG RZ.65
+modification/Fw-190D-12_4xSC50;SC 50
+modification/Fw-190D-12_4xSC50/desc;Allows installation of 4 x 50 kg bombs.
+modification/Fw-190D-12_8xSC50;SC 50
+modification/Fw-190D-12_8xSC50/desc;Allows installation of 8 x 50 kg bombs.
+modification/Fw-190D-12_SC250;SC 250
+modification/Fw-190D-12_SC250/desc;Allows installation of 250 kg bomb.
+modification/Fw-190D-12_SC250_4xSC50;SC 250/SC 50
+modification/Fw-190D-12_SC250_4xSC50/desc;Allows installation of 1 x 250 kg and 4 x 50 kg bombs.
+modification/Fw-190D-12_SC500;SC 500
+modification/Fw-190D-12_SC500/desc;Allows installation of 500 kg bomb.
+modification/Fw-190D-12_SC500_4xSC50;SC 50
+modification/Fw-190D-12_SC500_4xSC50/desc;Allows installation of 1 x 500 kg and 4 x 50 kg bombs.
+modification/Fw-190F-8_SC500;SC 500
+modification/Fw-190F-8_SC500/desc;Allows installation of 1 x 500 kg bomb.
+modification/Fw-190F-8_SC500_4xSC50;SC 500 / SC 50
+modification/Fw-190F-8_SC500_4xSC50/desc;Allows installation of 1 x 500 kg and 4 x 50 kg bombs.
+modification/Fw-190F-8_SC1000;C 500/SC 50
+modification/Fw-190F-8_SC1000/desc;Allows installation of 1 x 1000 kg bomb.
+modification/Fw-190F-8_SC1000_4xSC50;SC 1000/SC 50
+modification/Fw-190F-8_SC1000_4xSC50/desc;Allows installation of 1 x 1000 kg and 4 x 50 kg bombs.
+modification/Fw-190F-8_R3;R3 modification
+modification/Fw-190F-8_R3/desc;Allows installation of 2 x 30 mm MK103 cannons under the wings.
+modification/ar234_SC1000;SC 1000
+modification/ar234_SC1000/desc;Allows installation of 1 x 1000 kg bomb.
+modification/p_40_fuel_100;100 octane fuel
+modification/p_40_fuel_100/desc;Allows usage of 100 octane fuel. Engine performance will be improved.
+modification/la-5fn_armorplate_10/short;Rear armor plate
+modification/la-5fn_armorplate_10;Rear armor plate
+modification/la-5fn_armorplate_10/desc;8.5 mm rear armor plate will be replaced with 10 mm armor plate.
+modification/la-5fn_rear_armorglass_75/short;Armored glass
+modification/la-5fn_rear_armorglass_75;Armored glass
+modification/la-5fn_rear_armorglass_75/desc;66 mm rear armored glass will be replaced with 75 mm armored glass.
+modification/la-5fn_dz-40;DZ-40
+modification/la-5fn_dz-40/desc;Allows installation of 2 x 50 kg bombs.
+modification/la-7_armorplate_10/short;Rear armor plate
+modification/la-7_armorplate_10;Rear armor plate
+modification/la-7_armorplate_10/desc;8.5 mm rear armor plate will be replaced with 10 mm armor plate.
+modification/la-7_rear_armorglass_75/short;Armored glass
+modification/la-7_rear_armorglass_75;Armored glass
+modification/la-7_rear_armorglass_75/desc;66 mm rear armored glass will be replaced with 75 mm armored glass.
+modification/la-7_dz-40;DZ-40
+modification/la-7_dz-40/desc;Allows installation of 50 or 100 kg bombs.
+modification/bd-2-48;BD-2-48
+modification/bd-2-48/desc;Allows installation up to 250 kg bombs.
+modification/d-4-50;D-4-50
+modification/d-4-50/desc;Allows installation up to 250 kg bombs.
+modification/LaGG_ro-82;RO-82
+modification/LaGG_ro-82/desc;Allows installation of unguided RS-82 rockets.
+modification/LaGG_dz-40;DZ-40
+modification/LaGG_dz-40/desc;Allows installation of 50 kg or heavier bombs.
+modification/C5;S-5K
+modification/C5/desc;Allows installation of S-5K unguided rockets.
+modification/swd_j29_75mm_m55;srak m/55
+modification/swd_j29_75mm_m55/desc;"Allows installation of 7,5 cm sprängraket m/55 ""Frida"" unguided rockets."
+modification/swd_j29_145mm_m49a;psrak m/49B
+modification/swd_j29_145mm_m49a/desc;Allows installation of 14,5 cm pansarsprängraket m/49B unguided rockets.
+modification/swd_j29_150mm_m51;srak m/51
+modification/swd_j29_150mm_m51/desc;Allows installation of 15 cm sprängraket m/51 unguided rockets.
+modification/swd_j29_180mm_m49;hprak m/49
+modification/swd_j29_180mm_m49/desc;Allows installation of 18 cm halvpansarraket m/49B unguided rockets.
+modification/swd_aj37_120kg_m71;sb m/71 / 71 (bfask m/61)
+modification/swd_aj37_120kg_m71/desc;"Allows installation of 120 kg sprängbomb m/71 ""Virgo"" and 120 kg sprängbomb m/71 ""Virgo"" (bombfallskärm m/61) bombs."
+modification/swd_rb75;rb 75
+modification/swd_rb75/desc;Allows installation of robot 75 guided missiles.
+modification/swd_rb75t;rb 75T
+modification/swd_rb75t/desc;Allows the installation of robot 75T guided missiles.
+modification/swe_minb_m37a/desc;Allows installation of 50 kg minbomb m/37AT bombs.
+modification/swe_minb_m37a;mb m/37AT
+modification/swe_minb_m61/desc;Allows installation of 120 kg sprängbomb m/61 bombs.
+modification/swe_minb_m61;sb m/61
+modification/swe_minb_m40/desc;Allows installation of 250 kg minbomb m/40 bombs or 250 kg minbomb m/50 bombs.
+modification/swe_minb_m40;mb m/40 / 50
+modification/swe_minb_m41/desc;"Allows installation of 500 kg minbomb m/41 bombs or 500 kg minbomb m/56 ""Lyra"" bombs."
+modification/swe_minb_m41;mb m/41 / 56
+modification/swe_minb_m50/desc;Allows installation of 600 kg bombs.
+modification/swe_minb_m50;mb m/50
+modification/swe_torp_m41;torp m/41
+modification/swe_torp_m41/desc;Allows installation of a 45 cm torped m/41 torpedo.
+modification/swe_torp_t18b_1;torp m/38
+modification/swe_torp_t18b_1/desc;Allows installation of a 45 cm torped m/38 torpedo.
+modification/fin_50kg/desc;Allows installation of 50 kg bombs.
+modification/fin_50kg;50 kg
+modification/fin_100kg/desc;Allows installation of 100 kg bombs.
+modification/fin_100kg;100 kg
+modification/fr_75kg/desc;Allows installation of 75 kg bombs.
+modification/fr_75kg;75 kg
+modification/fr_150kg/desc;Allows installation of 150 kg bombs.
+modification/fr_150kg;150 kg
+modification/fr_40cm_1926;1926DA
+modification/fr_40cm_1926/desc;Allows installation of torpedo.
+modification/j_7_hf5;HF5 (Type 57-1)
+modification/j_7_hf5/desc;Allows installation of HF5 rocket pods loaded with Type 57-1 unguided rockets.
+modification/cn_hf25b;HF25B (Type 70)
+modification/cn_hf25b/desc;Allows installation of HF25B rocket pods loaded with Type 70 unguided rockets.
+modification/cn_hf27;HF27 (Type 57-1)
+modification/cn_hf27/desc;Allows installation of HF27 rocket pods loaded with Type 57-1 unguided rockets.
+modification/cn_q5_hf6;HF6 (Type 90-1 (HEAT))
+modification/cn_q5_hf6/desc;Allows installation of HF6 rocket pods loaded with Type 90-1 (HEAT) unguided rockets.
+modification/q_5b_type130;HF14 (Type 130)
+modification/q_5b_type130/desc;Allows installation of HF14 rocket pods loaded with Type 130 unguided rockets.
+modification/cn_hf18;HF18 (Type 57-2)
+modification/cn_hf18/desc;Allows installation of HF18 rocket pods loaded with Type 57-2 unguided rockets.
+modification/cn_hf7a;HF7A (Type 90-1 (HE))
+modification/cn_hf7a/desc;Allows installation of HF7A rocket pods loaded with Type 90-1 (HE) unguided rockets.
+modification/cn_hf7d;HF7D (Type 70)
+modification/cn_hf7d/desc;Allows installation of HF7D rocket pods loaded with Type 70 unguided rockets.
+modification/C5M;S-5M
+modification/C5M/desc;Allows installation of S-5M unguided rockets.
+modification/mig_21_ub16;UB-16
+modification/mig_21_ub16/desc;Allows installation of additional S-5 unguided rockets.
+modification/mig_21_ub32;UB-32
+modification/mig_21_ub32/desc;Allows installation of additional S5 unguided rockets.
+modification/C21;S-21
+modification/C21/desc;Allows installation of S-21 unguided rockets.
+modification/su_7b_s3;S-3K
+modification/su_7b_s3/desc;Allows installation of S-3K unguided rockets.
+modification/a_26b_10_2x37_mod;M9
+modification/a_26b_10_2x37_mod/desc;Installation of offensive armament consisting of two 37 mm cannons.
+modification/a_26b_10_1x37_2_50_mod;M9/2-50
+modification/tis_ns_45_mod/desc;Allows replacement of NS-37 by NS-45.
+modification/tis_ns_45_mod;NS-45 cannon
+modification/a_26b_10_1x37_2_50_mod/desc;Installation of offensive armament consisting of a 37 mm cannon and two large-caliber machine guns.
+modification/a_26b_10_1x37_4_50_mod;M9/4-50
+modification/a_26b_10_1x37_4_50_mod/desc;Installation of offensive armament consisting of a 37 mm cannon and four large-caliber machine guns.
+modification/der_21;Der-21
+modification/der_21/desc;Allows installation of 50 kg or heavier bombs.
+modification/der-13;Der-13
+modification/der-13/desc;Allows installation up to 250 kg of bombs on external suspension.
+modification/der-15;Der-15
+modification/der-15/desc;Allows installation up to 500 kg of bombs on external suspension.
+modification/der-19;Der-19
+modification/der-19/desc;Allows installation up to 500 kg of bombs on external suspension.
+modification/der-21_fab100;Der-21
+modification/der-21_fab100/desc;Allows installation up to 100 kg of bombs on internal suspension.
+modification/der-19_fab250;Der-19 250
+modification/der-19_fab250/desc;Allows installation up to 250 kg of bombs on external suspension.
+modification/der-19_fab500;Der-19 500
+modification/der-19_fab500/desc;Allows installation up to 500 kg of bombs on external suspension.
+modification/der-19_fab1000;Der-19 1000
+modification/der-19_fab1000/desc;Allows installation up to 1000 kg of bombs on external suspension.
+modification/der-20;Der-20
+modification/der-20/desc;Allows installation up to 1000 kg of bombs on external suspension.
+modification/der-21;Der-21
+modification/der-21/desc;Allows installation up to 100 kg of bombs on internal suspension.
+modification/er-2_kd-3-240;KD-3-240
+modification/er-2_kd-3-240/desc;Allows installation of 250 and 500 kg bombs.
+modification/er-2_m-105_der-19-20;Der-19-20
+modification/er-2_m-105_der-19-20/desc;Allows installation up to 1000 kg of bombs on external suspension.
+modification/er-2_ach-30b_der-19-20;Der-19-20
+modification/er-2_ach-30b_der-19-20/desc;Allows instalation up to 1000 kg of bombs on external suspension.
+modification/tu-2_pkd-2;PKD-2
+modification/tu-2_pkd-2/desc;Allows installation up to 1000 kg of bombs.
+modification/der_19pk;DER-19PK
+modification/der_19pk/desc;Allows the installation of up to 1000 kg of bombs.
+modification/der_19u;DER-19U
+modification/der_19u/desc;Allows the installation of up to 1000 kg of bombs.
+modification/tu-2_td-44;TD-44
+modification/tu-2_td-44/desc;Allows installation of 2 torpedoes.
+modification/il2_mdz_42;MDZ-42
+modification/il2_mdz_42/desc;Allows instalation of 250 kg of bombs on external suspension.
+modification/su_fab_250m_43;FAB 250M-43
+modification/su_fab_250m_43/desc;Allows installation 250 kg of bombs.
+modification/su_fab_500m_43;FAB 500M-43
+modification/su_fab_500m_43/desc;Allows installation 500 kg of bombs.
+modification/su_fab_250_500;OFAB-250 / 250Š / FAB-250M-62 / 500M-62 / 500Š / ZB-500
+modification/su_fab_250_500/desc;Allows the installation of OFAB-250, OFAB-250Š, FAB-250M-62, FAB-500M-62, FAB-500Š, and ZB-500 bombs.
+modification/su_fab_1000m_43;FAB 1000M-43
+modification/su_fab_1000m_43/desc;Allows installation 1000 kg of bombs.
+modification/pe-2_dz-40;DZ-40
+modification/pe-2_dz-40/desc;Allows installation of 250 and 500 kg bombs.
+modification/pe-2_ro-132;RO-132
+modification/pe-2_ro-132/desc;Allows installation of 10 unguided RS-132 rockets.
+modification/ro_250kg_bomb_45;BA-250
+modification/ro_250kg_bomb_45/desc;Allows the installation of 250 kg BA-250 of bombs.
+modification/ro_500kg_bomb_45;BA-500
+modification/ro_500kg_bomb_45/desc;Allows the installation of 500 kg BA-500 of bombs.
+modification/ro_aam_a91;A-91
+modification/ro_aam_a91/desc;Allows the installation of A-91 air-to-air missiles.
+modification/ro_prn_122;PRN-122
+modification/ro_prn_122/desc;Allows the installation of unguided PRN-122 rockets.
+modification/sb-2_der-19;Der-19
+modification/sb-2_der-19/desc;Allows installation of 250 and 500 kg bombs.
+modification/ar-2_np-1;NP-1
+modification/ar-2_np-1/desc;Allows installation of 100, 250, and 500 kg bombs.
+modification/yak9p_ns23_mod;NS-23
+modification/yak9p_ns23_mod/desc;Allows installation of 23 mm NS-23 cannon.
+modification/us_m39_cannon;M39
+modification/us_m39_cannon/desc;Allows the installation of 20 mm M39 cannons.
+modification/yak9p_n37_mod;N-37
+modification/yak9p_n37_mod/desc;Allows installation of 37 mm N-37 cannon.
+modification/yak3p_mod;Yak-3P
+modification/yak3p_mod/desc;Armament by Yak-3P standard, 3x 20 mm cannons.
+modification/yak9p_ns45_mod;NS-45
+modification/yak9p_ns45_mod/desc;Allows installation of 45 mm NS-23 cannon.
+modification/lancaster_mk3_avro_mark_3;AUBC No.1 Mark II
+modification/lancaster_mk3_avro_mark_3/desc;Allows installation of 1000 lb bombs.
+modification/lancaster_mk3_avro_mark_1;AUBC No.1 Mark I
+modification/lancaster_mk3_avro_mark_1/desc;Allows installation of bombs in excess of 1000 lbs.
+modification/uk_12000lb_hc_mkI_n52_bomb;AUBC No.1 Mark IV
+modification/uk_12000lb_hc_mkI_n52_bomb/desc;Allows installation of bombs in excess of 4000 lbs.
+modification/wellington_sbc;SBC Mk. I
+modification/wellington_sbc/desc;Allows installation of additional 250 lb bombs.
+modification/wellington_mbc;MBC Mk. I
+modification/wellington_mbc/desc;Allows installation of 500 lb bombs.
+modification/wellington_lbc;LBC Mk. I
+modification/wellington_lbc/desc;Allows installation of 4000 lb bombs.
+modification/wellington_tc;TC Mk. I
+modification/wellington_tc/desc;Allows installation of 2 torpedoes.
+modification/wellington_2000/desc;Allows the installation of 2000 lb bombs.
+modification/wellington_2000;2000 lb
+modification/wirraway_sbc;Mk. 21
+modification/wirraway_sbc/desc;Allows installation of 250 and 500 kg bombs.
+modification/uc_type_mk_1;UC Mk. 1
+modification/uc_type_mk_1/desc;Allows installation of additional 250 lb bombs.
+modification/uc_type_mk_2;UC Mk. 2
+modification/uc_type_mk_2/desc;Allows installation of 500 lb bombs.
+modification/sbc_mark25;SBC mark 25
+modification/sbc_mark25/desc;Allows installation of additional 250 lb bombs.
+modification/hampden_2x500lb;SBC Mk. II
+modification/hampden_2x500lb/desc;Allows installation of additional 500 lb bombs.
+modification/yak-1-7b_bi-42;BI-42
+modification/yak-1-7b_bi-42/desc;Allows installation of 50 kg bombs.
+modification/yak-1_bi-42;BI-42
+modification/yak-1_bi-42/desc;Allows installation of 50 kg or 100 kg bombs.
+modification/yak-7b_ro-82;RO-82
+modification/yak-7b_ro-82/desc;Allows installation of 6 unguided RS-82 rockets.
+modification/b-17_sbc;SBC-17
+modification/b-17_sbc/desc;Allows installation of additional 500 lb bombs.
+modification/b-17_mbc;MBC-17
+modification/b-17_mbc/desc;Allows installation of 1000 lb bombs.
+modification/b-17_lbc;LBC-17
+modification/b-17_lbc/desc;Allows installation of 2000 lb bombs.
+modification/b-24_sbc;SBC-24
+modification/b-24_sbc/desc;Allows installation of 100 lb bombs.
+modification/fr_750lb_m117;M117
+modification/fr_750lb_m117/desc;Allows installation of 750 lb bombs.
+modification/jp_750lb_jm117;JM117
+modification/jp_750lb_jm117/desc;Allows installation of 750 lb bombs.
+modification/b-24_mbc;MBC-24
+modification/b-24_mbc/desc;Allows installation of additional 500 lb bombs.
+modification/b-24_lbc;LBC-24
+modification/b-24_lbc/desc;Allows installation of 1000 lb bombs.
+modification/is_100_50_gp;100/50 G.P.
+modification/is_100_50_gp/desc;Allows installation of 100 kg bombs.
+modification/is_250_50_gp;250/50 G.P.
+modification/is_250_50_gp/desc;Allows installation of 250 kg bombs.
+modification/is_360_50_gp;360/50 G.P.
+modification/is_360_50_gp/desc;Allows installation of 360 kg bombs.
+modification/is_500_50_gp;500/50 G.P.
+modification/is_500_50_gp/desc;Allows installation of 500 kg bombs.
+modification/premExpMul;Talisman
+modification/premExpMul/desc;Talisman vehicle allows you to gain +{value}% RP when controlling this vehicle in battles against other players.
+modification/ussr_fuel_b-95;95 octane fuel usage
+modification/ussr_fuel_b-95/desc;Allows usage of 95 octane lend-lease fuel. Engine performance will be improved.
+modification/ussr_fuel_b-100;100 octane fuel usage
+modification/ussr_fuel_b-100/desc;Allows usage of 100 octane lend-lease fuel. Engine performance will be improved.
+modification/b17e_flak_vest;Protective vest
+modification/b17e_flak_vest/desc;Allows partial protection of the crew from fragmentation effect of flak and aerial shells.
+modification/b17g_flak_vest;Protective vest
+modification/b17g_flak_vest/desc;Allows partial protection of the crew from fragmentation effect of flak and aerial shells.
+modification/b-24_flak_vest;Protective vest
+modification/b-24_flak_vest/desc;Allows partial protection of the crew from fragmentation effect of flak and aerial shells.
+modification/b-25_flak_vest;Protective vest
+modification/b-25_flak_vest/desc;Allows partial protection of the crew from fragmentation effect of flak and aerial shells.
+modification/lancaster_m1_flyers_vest;Protective vest
+modification/lancaster_m1_flyers_vest/desc;Allows partial protection of the crew from fragmentation effect of flak and aerial shells.
+modification/wellington_m1_flyers_vest;Protective vest
+modification/wellington_m1_flyers_vest/desc;Allows partial protection of the crew from fragmentation effect of flak and aerial shells.
+spare/spare;Backup vehicle
+spare/spare/desc;Allows you to control a vehicle in a mission twice (but no more per mission). You can only use a backup vehicle in battle modes allowing several respawns. The specified price is the cost of one backup vehicle. You can have several backup vehicles, which are spent as far as they're used.
+spare/spare/short;Backup
+modification/b5n2_17-34in_mod45;17 3/4 in (mod45)
+modification/b5n2_17-34in_mod45/desc;Allows installation of 1 torpedo.
+modification/b5n2_14in_mod35;14 in (mod35)
+modification/b5n2_14in_mod35/desc;Allows installation of 1 x 800 kg bomb.
+modification/b5n2_12in_mod30;12 in (mod30)
+modification/b5n2_12in_mod30/desc;Allows installation of 2 x 250 kg bombs.
+modification/12in_mod30;12 in (mod30)
+modification/12in_mod30/desc;Allows installation of 250 kg bombs.
+modification/14in_mod30;14 in (mod30)
+modification/14in_mod30/desc;Allows installation of 500 kg bombs.
+modification/mosquitofb_sbc;SBC Mk. II
+modification/mosquitofb_sbc/desc;Allows installation of additional 250 lb bombs.
+modification/mosquitofb_mbc;MBC Mk. II
+modification/mosquitofb_mbc/desc;Allows installation of 500 lb bombs.
+modification/mosquitofb_rsc;RSC Mk. II
+modification/mosquitofb_rsc/desc;Allows the installation of 8 unguided RP-3 rockets.
+modification/uk_rp3_mk12;Mk. 12
+modification/uk_rp3_mk12/desc;Allows the installation of unguided RP-3 rockets.
+modification/uk_matra_7;Matra №7 Mk. 1
+modification/uk_matra_7/desc;Allows the installation of unguided RN rockets.
+modification/pby5_ltc;LTC-5
+modification/pby5_ltc/desc;Allows installation of 2 torpedoes.
+modification/type_r80_sura;Type R80 SURA
+modification/type_r80_sura/desc;Allows the installation of unguided Type R80 SURA rockets.
+modification/pby5_mbc;MBC-5
+modification/pby5_mbc/desc;Allows installation of 500 lb bombs.
+modification/pby5_lbc;LBC-5
+modification/pby5_lbc/desc;Allows installation of a 1000 lb bomb.
+modification/beaufighter_tsc;TSC Mk. II
+modification/beaufighter_tsc/desc;Allows installation of 1 torpedo.
+modification/beaufighter_rsc;RSC Mk. II
+modification/beaufighter_rsc/desc;Allows installation of 8 unguided RP-3 rockets.
+modification/s79a_mbc;MBC-79
+modification/s79a_mbc/desc;Allows installation of 250 kg bombs.
+modification/s79a_lbc;LBC-79
+modification/s79a_lbc/desc;Allows installation of 500 kg bombs.
+modification/s79a_tbc;TBC-79
+modification/s79a_tbc/desc;Allows installation of 1 torpedo.
+modification/pe-3_dz-40;DZ-40
+modification/pe-3_dz-40/desc;Allows installation of 100 and 250 kg bombs.
+modification/pe-3_ro-132;RO-132
+modification/pe-3_ro-132/desc;Allows installation of 6 unguided RS-132 rockets.
+modification/beaufort_mbc;MBC-A
+modification/beaufort_mbc/desc;Allows installation of 500 lb bombs.
+modification/beaufort_tbc;TBC-A
+modification/beaufort_tbc/desc;Allows installation of 1 torpedo.
+modification/blenheim_mbc;MBC-B
+modification/blenheim_mbc/desc;Allows installation of 500 lb bombs.
+modification/blenheim_tbc;TBC-B
+modification/blenheim_tbc/desc;Allows installation of 1 torpedo.
+modification/bb_su-2_der-19;Der-19
+modification/bb_su-2_der-19/desc;Allows installation of 100 and 250 kg bombs on external suspension.
+modification/bb_su-2_kd-2;KD-2
+modification/bb_su-2_kd-2/desc;Allows installation of 50 kg bombs on external suspension.
+modification/h6k_17-34in_mod45;17 3/4 in (mod45)
+modification/h6k_17-34in_mod45/desc;Allows installation of 2 torpedoes.
+modification/h6k_14in_mod35;14 in (mod35)
+modification/h6k_14in_mod35/desc;Allows installation of bombs of up to 800 kg
+modification/h6k_12in_mod30;12 in (mod30)
+modification/h6k_12in_mod30/desc;Allows installation of bombs of up to 250 kg
+modification/g4m_17-34in_mod45;17 3/4 in (mod45)
+modification/g4m_17-34in_mod45/desc;Allows installation of 1 torpedo.
+modification/g4m_14in_mod35;14 in (mod35)
+modification/g4m_14in_mod35/desc;Allows installation of bombs of up to 800 kg
+modification/g4m_12in_mod35_500;14 in (mod35)
+modification/g4m_12in_mod35_500/desc;Allows installation of bombs of up to 500 kg
+modification/ki49_14in_mod35_500;14 in (mod35)
+modification/ki49_14in_mod35_500/desc;Allows installation of bombs of up to 500 kg
+modification/g4m_12in_mod30;12 in (mod30)
+modification/g4m_12in_mod30/desc;Allows installation of bombs of up to 250 kg
+modification/ki49_14in_mod35;14 in (mod35)
+modification/ki49_14in_mod35/desc;Allows installation of bombs of up to 800 kg
+modification/ki49_12in_mod30;12 in (mod30)
+modification/ki49_12in_mod30/desc;Allows installation of 250 kg bombs.
+modification/pv1_universal;Omni-purpose ammunition belt for 7.62 mm machine gun
+modification/pv1_universal/short;Universal
+modification/pv1_all_tracers;7.62 mm machine gun ammunition belt with APIT bullets
+modification/pv1_all_tracers/short;APIT
+modification/pv1_stealth;7.62 mm machine gun ammunition belt for stealth attack
+modification/pv1_stealth/short;Stealth
+modification/shkas_universal;Omni-purpose ammunition belt for 7.62 mm machine gun
+modification/shkas_universal/short;Universal
+modification/shkas_all_tracers;7.62 mm machine gun ammunition belt with APIT bullets
+modification/shkas_all_tracers/short;APIT
+modification/shkas_stealth;7.62 mm machine gun ammunition belt for stealth attack
+modification/shkas_stealth/short;Stealth
+modification/ub_universal;Omni-purpose ammunition belt for 12.7 mm machine gun
+modification/ub_universal/short;Universal
+modification/ub_air_targets;12.7 mm machine gun ammunition belt for air targets
+modification/ub_air_targets/short;Air targets
+modification/ub_all_tracers;12.7 mm machine gun ammunition belt with APIT bullets
+modification/ub_all_tracers/short;Tracers
+modification/ub_stealth;12.7 mm machine gun ammunition belt for stealth attack
+modification/ub_stealth/short;Stealth
+modification/ub_ground_targets;12.7 mm machine gun ammunition belt for ground targets
+modification/ub_ground_targets/short;Ground targets
+modification/shvak_universal;Omni-purpose ammunition belt for 20 mm cannon
+modification/shvak_universal/short;Universal
+modification/shvak_ground_targets;20 mm cannon ammunition belt for ground targets
+modification/shvak_ground_targets/short;Ground targets
+modification/shvak_armor_targets;20 mm cannon ammunition belt for armored targets
+modification/shvak_armor_targets/short;AP
+modification/shvak_tracers;20 mm cannon ammunition belt with increased amount of tracer shells
+modification/shvak_tracers/short;Tracers
+modification/shvak_stealth;20 mm cannon ammunition belt for stealth attack
+modification/shvak_stealth/short;Stealth
+modification/vya_universal;Omni-purpose ammunition belt for 23 mm cannon
+modification/vya_universal/short;Universal
+modification/vya_armor_targets;23 mm cannon ammunition belt for armored targets
+modification/vya_armor_targets/short;AP
+modification/ns23_armor_targets;23 mm cannon ammunition belt for armored targets
+modification/ns23_armor_targets/short;AP
+modification/ns23_air_targets;23 mm cannon ammunition belt for air targets
+modification/ns23_air_targets/short;Air targets
+modification/ns23_stealth;23 mm cannon ammunition belt for stealth attack
+modification/ns23_stealth/short;Stealth
+modification/ns37_armor_target;37 mm cannon ammunition belt for armored targets
+modification/ns37_armor_target/short;AP
+modification/ns37_air_target;37 mm cannon ammunition belt for air targets
+modification/ns37_air_target/short;Air targets
+modification/mg_universal;Omni-purpose ammunition belt for 7.92 mm machine gun
+modification/mg_universal/short;Universal
+modification/mg_all_tracers;7.92 mm machine gun ammunition belt with tracer bullets
+modification/mg_all_tracers/short;Tracers
+modification/mg_stealth;7.92 mm machine gun ammunition belt for stealth attack
+modification/mg_stealth/short;Stealth
+modification/breda_universal;Omni-purpose ammunition belt for 7.7 mm machine gun
+modification/breda_universal/short;Universal
+modification/breda_all_tracer;7.7 mm machine gun ammunition belt with tracer shells
+modification/breda_all_tracer/short;Tracers
+modification/breda_stealth;7.7 mm machine gun ammunition belt for stealth attack
+modification/breda_stealth/short;Stealth
+modification/breda12_7_universal;Omni-purpose ammunition belt for 12.7 mm machine gun
+modification/breda12_7_universal/short;Universal
+modification/breda12_7_air_targets;12.7 mm machine gun ammunition belt for air targets
+modification/breda12_7_air_targets/short;Air targets
+modification/breda12_7_all_tracer;12.7 mm machine gun ammunition belt with tracer shells
+modification/breda12_7_all_tracer/short;Tracers
+modification/breda12_7_stealth;12.7 mm machine gun ammunition belt for stealth attack
+modification/breda12_7_stealth/short;Stealth
+modification/mgff_universal;Omni-purpose ammunition belt for 20 mm cannon
+modification/mgff_universal/short;Universal
+modification/mgff_air_targets;20 mm cannon ammunition belt for air targets
+modification/mgff_air_targets/short;Air targets
+modification/mgff_all_tracer;20 mm cannon ammunition belt with tracer shells
+modification/mgff_all_tracer/short;Tracers
+modification/mgff_stealth;20 mm cannon ammunition belt for stealth attack
+modification/mgff_stealth/short;Stealth
+modification/mg151_universal;Omni-purpose ammunition belt for 20 mm cannon
+modification/mg151_universal/short;Universal
+modification/mg151_air_targets;20 mm cannon ammunition belt for air targets
+modification/mg151_air_targets/short;Air targets
+modification/mg151_armor_targets;20 mm cannon ammunition belt for armored targets
+modification/mg151_armor_targets/short;AP
+modification/mg151_all_tracer;20 mm cannon ammunition belt with tracer shells
+modification/mg151_all_tracer/short;Tracers
+modification/mg151_stealth;20 mm cannon ammunition belt for stealth attack
+modification/mg151_stealth/short;Stealth
+modification/mk_103_antitank;30 mm cannon anti-tank ammunition belt
+modification/mk_103_antitank/short;AP
+modification/mk_103_antibomber;30 mm cannon ammunition belt for air targets
+modification/mk_103_antibomber/short;Air targets
+modification/mk_103_stealth;30 mm cannon ammunition belt for stealth attack
+modification/mk_103_stealth/short;Stealth
+modification/mk_108_fighter_night;30 mm cannon ammunition belt for night fighters
+modification/mk_108_fighter_night/short;Night
+modification/mk_108_fighter_stealth;30 mm cannon ammunition belt for stealth attack
+modification/mk_108_fighter_stealth/short;Stealth
+modification/bk37_antitank;37 mm cannon anti-tank magazine version
+modification/bk37_antitank/short;AP
+modification/bk37_antibomber;37 mm cannon magazine for air targets
+modification/bk37_antibomber/short;Air targets
+modification/bk5_antitank;50 mm cannon anti-tank magazine version
+modification/bk5_antitank/short;AP
+modification/bk5_antibomber;50 mm cannon magazine for air targets
+modification/bk5_antibomber/short;Air targets
+modification/30cal_universal;Omni-purpose ammunition belt for 7.62 mm machine gun
+modification/30cal_universal/short;Universal
+modification/30cal_tracer;7.62 mm machine gun ammunition belt with tracer bullets
+modification/30cal_tracer/short;Tracers
+modification/30cal_stealth;7.62 mm machine gun ammunition belt for stealth attack
+modification/30cal_stealth/short;Stealth
+modification/50cal_universal;Omni-purpose ammunition belt for 12.7 mm machine gun
+modification/50cal_universal/short;Universal
+modification/50cal_ground_targets;12.7 mm machine gun ammunition belt for ground targets
+modification/50cal_ground_targets/short;Ground targets
+modification/50cal_tracers;12.7 mm machine gun ammunition belt with tracer bullets
+modification/50cal_tracers/short;Tracers
+modification/50cal_stealth;12.7 mm machine gun ammunition belt for stealth attack
+modification/50cal_stealth/short;Stealth
+modification/hispano_universal;Omni-purpose ammunition belt for 20 mm cannon
+modification/hispano_universal/short;Universal
+modification/hispano_ground_targets;20 mm cannon ammunition belt for ground targets
+modification/hispano_ground_targets/short;Ground targets
+modification/hispano_tracers;20 mm cannon ammunition belt with increased amount of tracer shells
+modification/hispano_tracers/short;Tracers
+modification/hispano_stealth;20 mm cannon ammunition belt for stealth attack
+modification/hispano_stealth/short;Stealth
+modification/an_m2_universal;Omni-purpose ammunition belt for 20 mm cannon
+modification/an_m2_universal/short;Universal
+modification/an_m2_ground_targets;20 mm cannon ammunition belt for ground targets
+modification/an_m2_ground_targets/short;Ground targets
+modification/an_m2_air_targets;20 mm cannon ammunition belt for air targets
+modification/an_m2_air_targets/short;Air targets
+modification/an_m2_stealth;20 mm cannon ammunition belt for stealth attack
+modification/an_m2_stealth/short;Stealth
+modification/m4_universal;Omni-purpose ammunition belt for 37 mm cannon
+modification/m4_universal/short;Universal
+modification/m4_ground_targets;37 mm cannon ammunition belt for ground targets
+modification/m4_ground_targets/short;Ground targets
+modification/7_7mm_universal;Omni-purpose ammunition belt for 7.7 mm machine gun
+modification/7_7mm_universal/short;Universal
+modification/7_7_all_tracers;7.7 mm machine gun ammunition belt with tracer bullets
+modification/7_7_all_tracers/short;Tracers
+modification/7_7_stealth;7.7 mm machine gun ammunition belt for stealth attack
+modification/7_7_stealth/short;Stealth
+modification/type99mk2_universal;Omni-purpose ammunition belt for 20 mm cannon
+modification/type99mk2_universal/short;Universal
+modification/type99mk2_ground_targets;20 mm cannon ammunition belt for ground targets
+modification/type99mk2_ground_targets/short;Ground targets
+modification/type99mk2_all_tracers;20 mm cannon ammunition belt with tracer shells
+modification/type99mk2_all_tracers/short;Tracers
+modification/type99mk2_stealth;20 mm cannon ammunition belt for stealth attack
+modification/type99mk2_stealth/short;Stealth
+modification/type99mk1_universal;Omni-purpose ammunition belt for 20 mm cannon
+modification/type99mk1_universal/short;Universal
+modification/type99mk1_ground_targets;20 mm cannon ammunition belt for ground targets
+modification/type99mk1_ground_targets/short;Ground targets
+modification/type99mk1_all_tracers;20 mm cannon ammunition belt with tracer shells
+modification/type99mk1_all_tracers/short;Tracers
+modification/type99mk1_stealth;20 mm cannon ammunition belt for stealth attack
+modification/type99mk1_stealth/short;Stealth
+modification/ho1_universal;Omni-purpose ammunition belt for 20 mm cannon
+modification/ho1_universal/short;Universal
+modification/ho1_ground_targets;20 mm cannon ammunition belt for ground targets
+modification/ho1_ground_targets/short;Ground targets
+modification/ho1_all_tracers;20 mm cannon ammunition belt with tracer shells
+modification/ho1_all_tracers/short;Tracers
+modification/ho1_stealth;20 mm cannon ammunition belt for stealth attack
+modification/ho1_stealth/short;Stealth
+modification/303_universal;Omni-purpose ammunition belt for 7.7 mm machine gun
+modification/303_universal/short;Universal
+modification/303_all_tracers;7.7 mm machine gun ammunition belt with incendiary tracer bullets
+modification/303_all_tracers/short;Tracers
+modification/303_stealth;7.7 mm machine gun ammunition belt for stealth attack
+modification/303_stealth/short;Stealth
+modification/ho5_universal;Omni-purpose ammunition belt for 20 mm cannon
+modification/ho5_universal/short;Universal
+modification/ho5_ground_targets;20 mm cannon ammunition belt for ground targets
+modification/ho5_ground_targets/short;Ground targets
+modification/ho5_all_tracers;20 mm cannon ammunition belt with APT shells
+modification/ho5_all_tracers/short;Tracers
+modification/ho5_stealth;20 mm cannon ammunition belt for stealth attack
+modification/ho5_stealth/short;Stealth
+modification/7_5mm_universal;Omni-purpose ammunition belt for 7.5 mm machine gun
+modification/7_5mm_universal/short;Universal
+modification/7_5mm_all_tracers;7.5 mm machine gun ammunition belt with incendiary tracer bullets
+modification/7_5mm_all_tracers/short;Tracers
+modification/7_5mm_stealth;7.5 mm machine gun ammunition belt for stealth attack
+modification/7_5mm_stealth/short;Stealth
+modification/type5_universal;Omni-purpose ammunition belt for 30 mm cannon
+modification/type5_universal/short;Universal
+modification/type5_ground_targets;30 mm cannon ammunition belt for ground targets
+modification/type5_ground_targets/short;Ground targets
+modification/type5_all_tracers;30 mm cannon ammunition belt with tracer shells
+modification/type5_all_tracers/short;Tracers
+modification/type5_stealth;30 mm cannon ammunition belt for stealth attack
+modification/type5_stealth/short;Stealth
+modification/303_turret_ap;7.7 mm turret machine gun ammunition belt with AP bullets
+modification/303_turret_ap/short;AP
+modification/303_turret_api;7.7 mm turret machine gun ammunition belt with API bullets
+modification/303_turret_api/short;Universal
+modification/shvak_turret_apit;20 mm cannon ammunition belt with APT shells
+modification/shvak_turret_apit/short;AP
+modification/shvak_turret_het;20 mm cannon ammunition belt for air targets
+modification/shvak_turret_het/short;Air targets
+modification/mgff_turret_ap;20 mm cannon ammunition belt with AP shells
+modification/mgff_turret_ap/short;AP
+modification/mgff_turret_ap_he;20 mm cannon ammunition belt for air targets
+modification/mgff_turret_ap_het/short;Air targets
+modification/ho1_turret_apt;20 mm cannon ammunition belt with AP shells
+modification/ho1_turret_apt/short;AP
+modification/ho1_turret_he;20 mm cannon ammunition belt for air targets
+modification/ho1_turret_he/short;Air targets
+modification/type99mk1_turret_he;20 mm cannon ammunition belt for air targets
+modification/type99mk1_turret_he/short;Air targets
+modification/type99mk1_turret_ap;20 mm cannon ammunition belt with AP shells
+modification/type99mk1_turret_ap/short;AP
+modification/breda12_7_turret_ap;12.7 mm machine gun ammunition belt with AP bullets
+modification/breda12_7_turret_ap/short;AP
+modification/breda12_7_turret_apit;Omni-purpose 12.7 mm machine gun ammunition belt
+modification/breda12_7_turret_apit/short;Universal
+modification/breda_turret_ap;12.7 mm machine gun ammunition belt with AP bullets
+modification/breda_turret_ap/short;AP
+modification/breda_turret_apit;Omni-purpose 7.7 mm machine gun ammunition belt
+modification/breda_turret_apit/short;Universal
+modification/30cal_turret_ap;7.62 mm machine gun ammunition belt with AP bullets
+modification/30cal_turret_ap/short;AP
+modification/303cal_turret_ap;7.7 mm machine gun ammunition belt with AP bullets
+modification/303cal_turret_ap/short;AP
+modification/303cal_turret_api;Omni-purpose 7.7 mm machine gun ammunition belt
+modification/303cal_turret_api/short;Universal
+modification/50cal_turret_ap;12.7 mm machine gun ammunition belt with AP bullets
+modification/50cal_turret_ap/short;AP
+modification/50cal_turret_api;Omni-purpose 12.7 mm machine gun ammunition belt
+modification/50cal_turret_api/short;Universal
+modification/7_5mm_turret_ap;7.5 mm machine gun ammunition belt with AP bullets
+modification/7_5mm_turret_ap/short;AP
+modification/7_5mm_turret_ap_t;7.5 mm machine gun ammunition belt with APT bullets
+modification/7_5mm_turret_ap_t/short;Tracers
+modification/mg131_turret_apt;13 mm machine gun ammunition belt with APIT bullets
+modification/mg131_turret_apt/short;Tracers
+modification/mg_turret_ap;7.92 mm machine gun ammunition belt with AP bullets
+modification/mg_turret_ap/short;AP
+modification/mle33_ap_turret;7.5 mm machine gun ammunition belt with AP bullets
+modification/mle33_ap_turret/short;AP
+modification/mle33_api_turret;7.5 mm machine gun ammunition belt with APT bullets
+modification/mle33_api_turret/short;Tracers
+modification/mg_turret_api_apt;7.92 mm machine gun ammunition belt with AP and APIT bullets
+modification/mg_turret_api_apt/short;Universal
+modification/shkas_turret_ap;7.62 mm machine gun ammunition belt with AP bullets
+modification/shkas_turret_ap/short;AP
+modification/shkas_turret_apit;7.92 mm machine gun ammunition belt with APIT bullets
+modification/shkas_turret_apit/short;Tracers
+modification/type92_turret_ap;7.7 mm machine gun ammunition belt with AP bullets
+modification/type92_turret_ap/short;AP
+modification/type92_turret_ap_t;7.7 mm machine gun ammunition belt with APT bullets
+modification/type92_turret_ap_t/short;Tracers
+modification/7_7mm_ap;7.7 mm machine gun ammunition belt with AP bullets
+modification/7_7mm_ap/short;AP
+modification/7_7mm_ap_t;7.7 mm machine gun ammunition belt with APT bullets
+modification/7_7mm_ap_t/short;Tracers
+modification/ub_turret_ap;12.7 mm machine gun ammunition belt with AP bullets
+modification/ub_turret_ap/short;AP
+modification/ub_turret_api;12.7 mm machine gun ammunition belt with API bullets
+modification/ub_turret_api/short;Universal
+modification/g5n_14in_mod35;14 in (mod35)
+modification/g5n_14in_mod35/desc;Allows installation of bombs up to 800 kg.
+modification/g8n_14in_mod35;14 in (mod35)
+modification/g8n_14in_mod35/desc;Allows installation of bombs up to 800 kg.
+modification/g8n_1500;1500 kg
+modification/g8n_1500/desc;Allows the installation of armor-piercing bombs up to 1500 kg.
+modification/do217_250-500kg_pylon;ITC PVC I
+modification/do217_250-500kg_pylon/desc;Allows installation up to 500 kg bombs.
+modification/do217_2x1000kg_pylon;ITC PVC II
+modification/do217_2x1000kg_pylon/desc;Allows installation of 2 x 1000 kg bombs.
+modification/b-25_sbc;SBC-25
+modification/b-25_sbc/desc;Allows installation of additional bombs up to 250 lbs.
+modification/b-25_mbc;MBC-25
+modification/b-25_mbc/desc;Allows installation of 500 lb bombs.
+modification/b-25_lbc;LBC-25
+modification/b-25_lbc/desc;Allows installation of 1000 lb bombs.
+modification/us_300lb_m_31;M31
+modification/us_300lb_m_31/desc;Allows installation of 300 lb bombs.
+modification/us_600lb_m_32;M32
+modification/us_600lb_m_32/desc;Allows installation of 600 lb bombs.
+modification/us_1000lb_anm_44;AN-M44
+modification/us_1000lb_anm_44/desc;Allows installation of 1000 lb bombs.
+modification/us_2000lbs_anm34;AN/M34
+modification/us_2000lbs_anm34/desc;Allows installation of 2000 lb bombs.
+modification/us_2000lbs_anm66;AN/M66
+modification/us_2000lbs_anm66/desc;Allows the installation of 2000 lb bombs.
+modification/speed_change;%s to max speed
+modification/climb_change;%s to climb rate
+modification/virage_change;%s to turn time
+modification/climbArcade_change;%s to climb rate in Arcade Battles
+modification/virageArcade_change;%s to turn time in Arcade Battles
+modification/roll_change;%s to roll rate
+modification/armored_glass;Thickness of armored glass increased by %s mm.
+modification/back_armor;Thickness of rear armor plate increased by %s mm.
+modification/hp_105;Engine
+modification/hp_105/desc;Rebuilding and tuning of the engine, replacement of worn engine with a new one.
+modification/hp_105_jet;Engine
+modification/hp_105_jet/desc;Replacement of worn engine with a new one.
+modification/cd_98;Wings repair
+modification/cd_98/desc;Replacement of damaged elements of wing skin, removal of openings, and surface finish to reduce air drag.
+modification/CdMin_Fuse;Fuselage repair
+modification/CdMin_Fuse/desc;Replacement of damaged elements of fuselage skinning, removal of openings, and surface finish to reduce air drag.
+modification/f_4c_CdMin_Fuse;Fuselage repair
+modification/f_4c_CdMin_Fuse/desc;Replacement of damaged elements of fuselage skinning, removal of openings, and surface finish to reduce air drag.
+modification/Cd_Varnish;Varnish
+modification/Cd_Varnish/desc;Varnish of wooden surface to reduce air drag.
+modification/new_radiator;Radiator
+modification/new_radiator/desc;Cleaning of radiator and cooling system makes engine cooling more effective.
+modification/new_compressor;Compressor
+modification/new_compressor/desc;Checking and tweaking of compressor provides maximum engine power.
+modification/new_compressor_mi_4;Compressor
+modification/new_compressor_mi_4/desc;Checking and tweaking of compressor provides maximum engine power.
+modification/new_compressor_jet;Compressor
+modification/new_compressor_jet/desc;Checking, tweaking and regular maintaining of compressor provides maximum engine power.
+modification/new_compressor_heli;Compressor
+modification/new_compressor_heli/desc;Checking, tweaking and regular maintaining of compressor provides maximum engine power.
+modification/heli_counterMeasures;IRCM
+modification/heli_counterMeasures/desc;Optoelectronic station for protection against missiles with infrared seeker of various types.
+modification/a_129_cbt_counterMeasures;IRCM
+modification/a_129_cbt_counterMeasures/desc;Optoelectronic station for protection against missiles with infrared seeker of various types.
+modification/ah_1z_heli_counterMeasures;IRCM
+modification/ah_1z_heli_counterMeasures/desc;Optoelectronic station for protection against missiles with infrared seeker of various types.
+modification/new_engine_injection;Engine injection
+modification/new_engine_injection/desc;Tweaking of engine injection elements makes engine throttle more efficient.
+modification/new_engine_throttle;Engine throttle
+modification/new_engine_throttle/desc;Tuning of throttle. Regular maintenance and replacement of engine throttle elements increases engine's afterburning performance.
+modification/new_cover;Cover
+modification/new_cover/desc;Regular maintaining of cover and replacement of damaged cover parts increases overall plane's durability and flight performance, due to weight reduction.
+modification/tis_ma_new_cover;Cover
+modification/tis_ma_new_cover/desc;Regular maintaining of cover and replacement of damaged cover parts increases overall plane's durability and flight performance, due to weight reduction.
+modification/new_heli_cover;Cover
+modification/new_heli_cover/desc;Regular maintaining of cover and replacement of damaged cover parts increases overall durability and flight performance, due to weight reduction.
+modification/structure_str;Airframe
+modification/structure_str/desc;Replacement of damaged airframe elements increases overall plane's durability and flight performance due to weight reduction. For some planes it means that you get a new plane with undamaged airframe.
+modification/f_4c_structure_str;Airframe
+modification/f_4c_structure_str/desc;Replacement of damaged airframe elements increases overall plane's durability and flight performance due to weight reduction. For some planes it means that you get a new plane with undamaged airframe.
+modification/tis_ma_structure_str;Airframe
+modification/tis_ma_structure_str/desc;Replacement of damaged airframe elements increases overall plane's durability and flight performance due to weight reduction. For some planes it means that you get a new plane with undamaged airframe.
+modification/hispano_mk_2_narrow_chamber_new_gun;Hispano Mk. II (1942)
+modification/hispano_mk_2_narrow_chamber_new_gun/desc;There were some technological issues when the Hispano cannon was converted to belt feed. Among them was the fact that the chamber width was 1/16 inch too large, which allowed backflow gases to enter the barrel and jam the breechlock. Reducing the size of the chamber width helped solve the problem and lessened the amount of weapon failures.
+modification/hispano_mk_2_1943_new_gun;Hispano Mk. II (1943)
+modification/hispano_mk_2_1943_new_gun/desc;The 1943 modification of the Hispano Mk. II saw the replacement of graphite lubricant with fluid lubrication. This increased the gun's reliability beyond that of the 1942 modification of the Hispano Mk. II.
+modification/_new_gun;%s mm MG maintainance
+modification/_new_gun/desc;Replacing the %s mm machine guns' worn barrels and striking mechanism increases the fire density and decreases the chance of the gun jamming from overheating.
+modification/_new_gun/cannon;%s mm cannon maintainance
+modification/_new_gun/cannon/desc;Replacing the %s mm cannons' worn barrels and striking mechanism increases the fire density and decreases the chance of the gun jamming from overheating.
+modification/_turret_new_gun;%s mm turret MG maintainance
+modification/_turret_new_gun/desc;Replacing the turrets' %s mm machine guns' worn barrels and striking mechanism increases the fire density and decreases the chance of the gun jamming from overheating.
+modification/_turret_new_gun/cannon;%s mm turret cannon maintainance
+modification/_turret_new_gun/cannon/desc;Replacing the turrets' %s mm cannons' worn barrels and striking mechanism increases the fire density and decreases the chance of the gun jamming from overheating.
+modification/_belt_pack;%s mm ammo belts
+modification/_belt_pack/desc;New %s mm ammunition belts for the aircraft's %s guns.
+modification/_belt_pack/short;%s mm ammo belts
+modification/_turret_belt_pack;%s mm ammo belts (turret)
+modification/_turret_belt_pack/desc;New %s mm ammunition belts for the aircraft's %s turrets.
+modification/_turret_belt_pack/short;%s mm ammo belts (turret)
+modification/_tank_gun_pack;%s mm gun
+modification/_tank_minigun_pack;%s mm machine gun
+modification/_rockets;Rockets
+modification/_missiles;Missiles
+modification/_smoke_screen;Smoke screen
+modification/_flares;Flares
+modification/countermeasures_belt_pack_unchecked;Flares/Chaff
+modification/countermeasures_belt_pack_unchecked/desc;Set of сountermeasures
+modification/countermeasures_launcher_chaff_priority_unchecked;Flares
+modification/countermeasures_launcher_flare_priority_unchecked;Flares
+modification/countermeasures_launcher_flare_only_unchecked;Flares
+modification/countermeasures_launcher_chaff_only_unchecked;Flares
+modification/_countermeasures;Сountermeasures
+modification/countermeasures_launcher_chaff_priority;Flares
+modification/countermeasures_launcher_flare_priority;Flares
+modification/countermeasures_launcher_flare_only;Flares
+modification/ountermeasures_launcher_chaff_only;Flares
+modification/countermeasures_belt_pack;Flares/Chaff
+modification/countermeasures_belt_pack/desc;Set of сountermeasures
+modification/uk_ltc_bol;Flares/Chaff BOL
+modification/uk_ltc_bol/desc;Allows the installation of a Flares/Chaff BOL pod
+modification/swd_ltc_bol;Flares/Chaff
+modification/swd_ltc_bol/desc;Allows the installation of a Flares/Chaff BOL pod
+modification/chaff_pods;Chaff
+modification/chaff_pods/desc;Chaff countermeasures
+modification/fsbc_mk1;FSBC Mk. 1
+modification/fsbc_mk1/desc;Allows installation of 100 lb bombs.
+modification/fsbc_mk5;FSBC Mk. 5
+modification/fsbc_mk5/desc;Allows installation of 250 lb bombs.
+modification/fmbc_mk1;FMBC Mk. 1
+modification/fmbc_mk1/desc;Allows installation of 500 lb bombs.
+modification/flbc_mk1;FLBC Mk. 1
+modification/flbc_mk1/desc;Allows installation of additional 1000 lb bombs.
+modification/flbc_mk3;FLBC Mk. 3
+modification/an_mk1/desc;Allows installation of 1600 lb bombs.
+modification/an_mk1;AN-Mk. 1
+modification/flbc_mk3/desc;Allows installation of additional 2000 lb bombs.
+modification/frc_mk5;FRC Mk. 5
+modification/frc_mk5/desc;Allows installation of HVAR unguided rockets.
+modification/frc_mk2;FRC Mk. 2
+modification/frc_mk2/desc;Allows installation of HVAR unguided rockets.
+modification/ar_rocket;AR
+modification/ar_rocket/desc;Allows installation of AR unguided rockets.
+modification/mk41_mod;Mk. 41
+modification/mk41_mod/desc;Allows installation of 100 lb bombs.
+modification/ju-88_4xSC250;SC 250
+modification/ju-88_4xSC250/desc;Allows installation of 250 kg bombs
+modification/ju-88_2xSC500;SC 500
+modification/ju-88_2xSC500/desc;Allows installation of 500 kg bombs
+modification/ju-88_etc1000;SC 1000
+modification/ju-88_etc1000/desc;Allows installation of 1000 kg bomb
+modification/ju-88_itc50;SC 50
+modification/ju-88_itc50/desc;Allows installation of additional 50 kg bombs
+modification/etc1800;SC 1800
+modification/etc1800/desc;Allows installation of 1800 kg bombs
+modification/etc2500;SC 2500
+modification/etc2500/desc;Allows installation of 2500 kg bomb
+modification/ju_88_SC250;SC 250
+modification/ju_88_SC250/desc;Allows installation of 250 kg bombs
+modification/ju_88_SC500;SC 500
+modification/ju_88_SC500/desc;Allows installation of 500 kg bombs
+modification/ju_88_SC1000;SC 1000
+modification/ju_88_SC1000/desc;Allows installation of 1000 kg bomb
+modification/ju_88_SC1800;SC 1800
+modification/ju_88_SC1800/desc;Allows installation of 1800 kg bombs
+modification/fx1400;FX 1400
+modification/fx1400/desc;Allows installation of radio-guided glide bombs PC 1400 X.
+modification/sb-2_der-25;Der-33
+modification/sb-2_der-25/desc;Allows installation of 250 kg bombs
+modification/ro_82_mod;RO-82
+modification/ro_82_mod/desc;Allows installation of RS-82 unguided rockets.
+modification/ros_132_mod;ROS-132
+modification/ros_132_mod/desc;Allows installation of ROS-132 unguided rockets.
+modification/ro_132_mod;RO-132
+modification/ro_132_mod/desc;Allows installation of RS-132 unguided rockets.
+modification/jp_rocket_type3_9kg;Type 3 No.1 Mod.28 Mk. 1 rockets
+modification/jp_rocket_type3_9kg/desc;Allows installation of Type 3 No.1 Mod.28 Mk. 1 unguided rockets.
+modification/jp_rocket_type3_13kg;Type 5 No.1 Mod.9 rockets
+modification/jp_rocket_type3_13kg/desc;Allows installation of Type 5 No.1 Mod.9 unguided rockets.
+modification/jp_rocket_type3_66kg;Type 3 No.6 Mod.27 Mk. 1 rockets
+modification/jp_rocket_type3_66kg/desc;Allows installation of Type 3 No.6 Mod.27 Mk. 1 unguided rockets.
+modification/jp_rocket_type3_84kg;Type 5 No.6 Mod.9 rockets
+modification/jp_rocket_type3_84kg/desc;Allows installation of Type 5 No.6 Mod.9 unguided rockets.
+modification/n1k_5in_mod15;Type 3 No.1 Mod.28 Mk. 1 rockets
+modification/n1k_5in_mod15/desc;Allows installation of Type 3 No.1 Mod.28 Mk. 1 unguided rockets.
+modification/n1k_7in_mod20;7 in (mod20)
+modification/n1k_7in_mod20/desc;Allows installation of 60 kg bombs
+modification/n1k_12in_mod30;12 in (mod30)
+modification/n1k_12in_mod30/desc;Allows installation of 250 kg bombs
+modification/n1k_14in_mod35;14 in (mod35)
+modification/n1k_14in_mod35/desc;Allows installation of 500 kg bombs
+modification/spread_change;%s to weapon spread at 500 m distance
+modification/overheat_change;%s to mean time between failures
+modification/overheadCooldown_change;%s to cooling time for arcade afterburning
+modification/armor_change;%s to overall structural strength
+modification/cutProbability_change;%s to overall construction strength
+modification/fmbc_mk2/desc;Allows installation of 500 lb bombs.
+modification/fmbc_mk2;FMBC Mk. 1
+modification/flbc_mk2/desc;Allows installation of additional 1000 lb bombs.
+modification/flbc_mk2;FLBC Mk. 1
+modification/halker_sbc;HSBC Mk. 2
+modification/halker_sbc/desc;Allows installation of 250 lb bombs.
+modification/halker_mbc;HMBC Mk. 2
+modification/halker_mbc/desc;Allows installation of 500 lb bombs.
+modification/halker_lbc;HLBC Mk. 2
+modification/halker_lbc/desc;Allows installation of 1000 lb bombs.
+modification/halker_rc;HRC Mk. 8
+modification/halker_rc/desc;Allows installation of RP-3 / AP unguided rockets.
+modification/halker_rc_mk2;HRC Mk. 9
+modification/halker_rc_mk2/desc;Allows installation of RP-3 / AP Mk. II unguided rockets.
+modification/gloster_src;GRC Mk. 7
+modification/gloster_src/desc;Allows installation of HVAR unguided rockets.
+modification/triplex_rp;Triplex R.P.
+modification/triplex_rp/desc;Allows installation of Triplex R.P. unguided rockets.
+modification/uncle_tom;Uncle Tom
+modification/uncle_tom/desc;Allows installation of Uncle Tom unguided rockets.
+modification/red_angel;Red Angel
+modification/red_angel/desc;Allows installation of Red Angel unguided rockets.
+modification/gloster_rc;GRC Mk. 8
+modification/gloster_rc/desc;Allows installation of RP-3 / AP Mk. I unguided rockets.
+modification/gloster_rc_mk2;HRC Mk. 9
+modification/gloster_rc_mk2/desc;Allows installation of RP-3 / AP Mk. II unguided rockets.
+modification/gloster_rc_add;GRC Mk. 9
+modification/gloster_rc_add/desc;Allows installation of additional RP-3 / AP unguided rockets.
+modification/gloster_lbc;GLBC Mk. 3
+modification/gloster_lbc/desc;Allows installation of 1000 lb bombs.
+modification/etc50_4_mod;SC 50
+modification/etc50_4_mod/desc;Allows installation of 50 kg bombs.
+modification/etc250_2_mod;SC 250
+modification/etc250_2_mod/desc;Allows installation of 250 kg bombs.
+modification/su_25_x38ml;Kh-38ML
+modification/su_25_x38ml/desc;Allows the installation of Kh-38ML guided missiles.
+modification/su_25_x38mt;Kh-38MT
+modification/su_25_x38mt/desc;Allows the installation of Kh-38MT guided missiles.
+modification/su_25_x29te/desc;Allows the installation of Kh-29TE guided missiles.
+modification/su_25_x29te;Kh-29TE
+modification/su_27sm_x29td/desc;Allows the installation of Kh-29TD guided missiles.
+modification/su_27sm_x29td;Kh-29TD
+modification/mig_27_x29t/desc;Allows the installation of Kh-29T guided missiles.
+modification/mig_27_x29t;Kh-29T
+modification/su_fab_500_kab_500s/desc;Allows for the installation of FAB-500 bombs and KAB-500S-È GNSS-guided bombs.
+modification/su_fab_500_kab_500s;FAB-500 / KAB-500S-È
+modification/su_fab_500_upab_500b/desc;Allows the installation of FAB-500M-62 and FAB-500Š bombs or UPAB-500B guided bombs.
+modification/su_fab_500_upab_500b;FAB-500M / Š / UPAB-500B
+modification/su_fab_1500_upab_1500/desc;Allows the installation of FAB-1500M-46 bombs and UPAB-1500B guided bombs.
+modification/su_fab_1500_upab_1500;FAB-1500M-46 / UPAB-1500B
+modification/upab_500b/desc;Allows the installation of UPAB-500B guided bombs.
+modification/upab_500b;UPAB-500B
+modification/upab_1500/desc;Allows the installation of UPAB-1500 guided bombs.
+modification/upab_1500;UPAB-1500B
+modification/su_fab_3000_umpk_3000/desc;Allows the installation of FAB-3000 bombs or FAB-3000M-54 (Unificzirovannyj Modul' Planirovaniâ i Korryekczii) guided bombs.
+modification/su_fab_3000_umpk_3000;FAB-3000M-54 (UMPK)
+modification/su_24m2_fab_500_kab_500s/desc;Allows for the installation of FAB-500 bombs and KAB-500S-È GNSS-guided bombs.
+modification/su_24m2_fab_500_kab_500s;FAB-500 / KAB-500S-È
+modification/cn_ts_250/desc;Allows the installation of TS250 guided bombs.
+modification/cn_ts_250;TS250
+modification/cn_kab_laser/desc;Allows the installation of TS250 laser-guided bombs.
+modification/cn_kab_laser;TS250
+modification/cn_ls_500j/desc;Allows the installation of LS500J guided bombs.
+modification/cn_ls_500j;LS500J
+modification/cn_ls_1000j/desc;Allows the installation of LS1000J guided bombs.
+modification/cn_ls_1000j;LS1000J
+modification/mig_27_x29t/desc;Allows installation of Kh-29T guided missiles.
+modification/mig_27_kab_500/desc;Allows the installation of guided KAB-500Kr bombs.
+modification/mig_27_kab_500;KAB-500Kr
+modification/mig_27_kab_500l/desc;Allows the installation of laser guided KAB-500L bombs.
+modification/mig_27_kab_500l;KAB-500L
+modification/su_kab_500lg/desc;Allows the installation of laser guided KAB-500LG bombs.
+modification/su_kab_500lg;KAB-500LG
+modification/su_kab_laser/desc;Allows the installation of laser guided KAB-250LG, KAB-500LG, and KAB-1500LG guided bombs.
+modification/su_kab_laser;KAB-250LG / 500LG / 1500LG
+modification/su_kab_tv/desc;Allows the installation of guided KAB-500Kr and KAB-1500Kr guided bombs.
+modification/su_kab_tv;KAB-500Kr / 1500Kr
+modification/su_27_kab_1500/desc;Allows the installation of guided KAB-1500Kr bombs.
+modification/su_27_kab_1500;KAB-1500Kr
+modification/su_kab_1500l/desc;Allows the installation of guided KAB-1500L bombs.
+modification/su_kab_1500l;KAB-1500L
+modification/us_agm_62/desc;Allows the installation of Guided Weapon, MK 1 MOD 0 Walleye I or Guided Weapon, MK 3 MOD 0 Walleye I ER guided bombs.
+modification/us_agm_62;Guided Weapon, MK 1 MOD 0 / 3 MOD 0
+modification/us_agm_62_2_erdl/desc;Allows the installation of Guided Weapon, MK 23 MOD 0 Walleye II ERDL guided bombs.
+modification/us_agm_62_2_erdl;Guided Weapon, MK 23 MOD 0
+modification/us_gbu_15v1/desc;Allows the installation of GBU-15(V)1/B guided bombs.
+modification/us_gbu_15v1;GBU-15(V)1/B
+modification/us_gbu_8_15/desc;Allows the installation of GBU-8/B and GBU-15(V)1/B guided bombs.
+modification/us_gbu_8_15;GBU-8/B / 15(V)1/B
+modification/jp_gbu38_jdam/desc;Allows the installation of GBU-38 JDAM guided bombs.
+modification/jp_gbu38_jdam;GBU-38
+modification/us_mk82_gbu39/desc;Allows the installation of Mk 82 Mod 0 bombs and GBU-39/B guided bombs.
+modification/us_mk82_gbu39;Mk 82 Mod 0 / GBU-39/B
+modification/us_500lb_mk82_gbu38_jdam/desc;Allows the installation of 500 lb Mk 82 Mod 0 and GBU-38 JDAM GNSS-guided bombs.
+modification/us_500lb_mk82_gbu38_jdam;Mk 82 Mod 0 / GBU-38
+modification/us_500lb_mk82_gbu54b/desc;Allows the installation of GBU-54(V)1/B guided bombs.
+modification/us_500lb_mk82_gbu54b;GBU-54(V)1/B
+modification/us_gbu54b/desc;Allows the installation of GBU-54(V)1/B LJDAM guided bombs.
+modification/us_gbu54b;GBU-54(V)1/B
+modification/us_gbu55b/desc;Allows the installation of GBU-55(V)1/B LJDAM guided bombs.
+modification/us_gbu55b;GBU-55(V)1/B
+modification/gr_assta_3_0_gbu54b/desc;Allows the installation of GBU-54(V)1/B guided bombs.
+modification/gr_assta_3_0_gbu54b;GBU-54(V)1/B
+modification/us_500lb_mk82_ls_6_250/desc;Allows for the installation of Mk 82 Mod 0 bombs and 250 kg LS6 GNSS-guided bombs.
+modification/us_500lb_mk82_ls_6_250;Mk 82 Mod 0 / LS6
+modification/us_1000lb_mk83_ls_6_500/desc;Allows for the installation of Mk 83 Mod 0 bombs and 500 kg LS6 GNSS-guided bombs.
+modification/us_1000lb_mk83_ls_6_500;Mk 83 Mod 0 / LS6
+modification/us_1000lb_mk83_gbu31_jdam/desc;Allows the installation of 1000 lb Mk 83 Mod 0 and GBU-31(V)1/B JDAM guided bombs.
+modification/us_1000lb_mk83_gbu31_jdam;Mk 83 Mod 0 / GBU-31(V)1/B
+modification/us_2000lb_mk84_gbu31_jdam/desc;Allows the installation of 2000 lb Mk 84 Mod 0 and GBU-31(V)1/B JDAM guided bombs.
+modification/us_2000lb_mk84_gbu31_jdam;Mk 84 Mod 0 / GBU-31(V)1/B
+modification/us_gbu_31/desc;Allows the installation of GBU-31(V)1/B guided bombs.
+modification/us_gbu_31;GBU-31(V)1/B
+modification/us_gbu_32/desc;Allows the installation of GBU-32(V)1/B guided bombs.
+modification/us_gbu_32;GBU-32(V)1/B
+modification/us_gbu_32_31/desc;Allows the installation of GBU-31(V)2/B and GBU-32(V)2/B guided bombs.
+modification/us_gbu_32_31;GBU-31(V)2/B / 32(V)2/B
+modification/fr_bgl400/desc;Allows the installation of BGL-400 guided bombs.
+modification/fr_bgl400;BGL-400
+modification/fr_bgl400_gbu_48/desc;Allows the installation of BGL-400 and GBU-48(V)1/B guided bombs.
+modification/fr_bgl400_gbu_48;BGL-400 / GBU-48(V)1/B
+modification/fr_bgl1000/desc;Allows the installation of BGL-1000 guided bombs.
+modification/fr_bgl1000;BGL-1000
+modification/fr_aj_168/desc;Allows the installation of AJ.168 guided missiles..
+modification/fr_aj_168;AJ.168
+modification/fr_pgm_500/desc;Allows the installation of PGM 500 guided bombs.
+modification/fr_pgm_500;PGM 500
+modification/fr_pgm_2000/desc;Allows the installation of PGM 2000 guided bombs.
+modification/fr_pgm_2000;PGM 2000
+modification/fr_aasm_250_sbu_38/desc;Allows the installation of AASM 250 (SBU 38) guided bombs.
+modification/fr_aasm_250_sbu_38;AASM 250 (SBU 38)
+modification/fr_aasm_250_sbu_64/desc;Allows the installation of AASM 250 (SBU 64) guided bombs.
+modification/fr_aasm_250_sbu_64;AASM 250 (SBU 64)
+modification/fr_aasm_250_sbu_54/desc;Allows the installation of AASM 250 (SBU 54) guided bombs.
+modification/fr_aasm_250_sbu_54;AASM 250 (SBU 54)
+modification/uk_mk_13_18/desc;Allows the installation of Mk. 13/18 guided bombs.
+modification/uk_mk_13_18;Mk. 13/18
+modification/us_gbu_12/desc;Allows the installation of GBU-12/B guided bombs.
+modification/us_gbu_12;GBU-12/B
+modification/us_gbu_12_22/desc;Allows the installation of GBU-12/B and GBU-22/B guided bombs.
+modification/us_gbu_12_22;GBU-12/B / 22/B
+modification/us_gbu_laser/desc;Allows the installation of GBU-10/B, GBU-16/B, and GBU-24E/B laser-guided bombs.
+modification/us_gbu_laser;GBU-10/B / 16/B / 24E/B
+modification/us_gbu_12_49/desc;Allows the installation of guided bombs GBU-12/b and GBU-49(V)1/B guided bombs.
+modification/us_gbu_12_49;GBU-12/B / 49(V)1/B
+modification/us_gbu_16/desc;Allows the installation of GBU-16/B guided bombs.
+modification/us_gbu_16;GBU-16/B
+modification/us_gbu_48/desc;Allows the installation of GBU-48(V)1/B guided bombs.
+modification/us_gbu_48;GBU-48(V)1/B
+modification/us_gbu_24/desc;Allows the installation of GBU-24/B guided bombs.
+modification/us_gbu_24;GBU-24/B
+modification/us_gbu_24_gbu_50/desc;Allows the installation of GBU-24/B and GBU-50/B guided bombs.
+modification/us_gbu_24_gbu_50;GBU-24/B / 50/B
+modification/us_egbu_24/desc;Allows the installation of GBU-24E/B guided bombs.
+modification/us_egbu_24;GBU-24E/B
+modification/us_gbu_10/desc;Allows the installation of GBU-10/B guided bombs.
+modification/us_gbu_10;GBU-10/B
+modification/us_gbu_27/desc;Allows the installation of GBU-27/B guided bombs.
+modification/us_gbu_27;GBU-27/B
+modification/us_gbu_10_gbu_24/desc;Allows the installation of GBU-10/B and GBU-24/B guided bombs.
+modification/us_gbu_10_gbu_24;GBU-10/B / 24/B
+modification/us_gbu_8/desc;Allows the installation of GBU-8/B guided bombs.
+modification/us_gbu_8;GBU-8/B
+modification/us_agm_123/desc;Allows the installation of AGM-123A Skipper II laser-guided air-to-ground missiles.
+modification/us_agm_123;AGM-123A
+modification/us_agm_119a/desc;Allows the installation of Penguin MK3 guided missiles.
+modification/us_agm_119a;Penguin MK3
+modification/us_gbu_38/desc;Allows the installation of GBU-38(V)1/B guided bombs.
+modification/us_gbu_38;GBU-38(V)1/B
+modification/us_gbu39/desc;Allows the installation of GBU-39/B guided bombs.
+modification/us_gbu39;GBU-39/B
+modification/us_mk82_gbu38_gbu39/desc;Allows the installation of Mk 82 Mod 0 bombs and GBU-39/B and GBU-38(V)1/B guided bombs.
+modification/us_mk82_gbu38_gbu39;Mk 82 Mod 0 / 38(V)1/B / GBU-39/B
+modification/us_blu27_gbu39/desc;Allows the installation of GBU-39/B guided bombs and BLU-27/B fire bombs.
+modification/us_blu27_gbu39;GBU-39/B / BLU-27/B
+modification/uk_paveway_iv/desc;Allows the installation of Paveway Mk. IV guided bombs.
+modification/uk_paveway_iv;Paveway Mk. IV
+modification/br_lizard/desc;Allows the installation of Lizard guided bombs.
+modification/br_lizard;Lizard
+modification/fr_atlis2/desc;Allows the installation of an ATLIS II laser/electro-optical targeting pod.
+modification/fr_atlis2;ATLIS II
+modification/it_pdlct_s_pod/desc;Allows the installation of a CLDP laser/electro-optical targeting pod.
+modification/it_pdlct_s_pod;CLDP
+modification/gr_litening_pod/desc;Allows the installation of a LITENING II laser/electro-optical targeting pod.
+modification/gr_litening_pod;LITENING II
+modification/gr_litening_iii_pod/desc;Allows the installation of a LITENING III laser/electro-optical targeting pod.
+modification/gr_litening_iii_pod;LITENING III
+modification/us_an_aas_38_pod/desc;Allows the installation of an AN/AAS-38 electro-optical targeting pod.
+modification/us_an_aas_38_pod;AN/AAS-38
+modification/us_an_aas_38a_pod/desc;Allows the installation of an AN/AAS-38A laser/electro-optical targeting pod.
+modification/us_an_aas_38a_pod;AN/AAS-38A
+modification/us_an_asq_228_pod/desc;Allows the installation of an AN/ASQ-228 Advanced Targeting Forward-Looking Infrared laser/electro-optical targeting pod.
+modification/us_an_asq_228_pod;AN/ASQ-228
+modification/uk_tiald/desc;Modification of the aircraft to the GR.1B version with the possibility of installation of a TIALD laser/electro-optical targeting pod.
+modification/uk_tiald;GR.1B TIALD
+modification/uk_tiald_pod/desc;Allows the installation of a TIALD laser/electro-optical targeting pod.
+modification/uk_tiald_pod;TIALD
+modification/cn_k_pzs_01/desc;Allows the installation of a K/PZS-01 laser/electro-optical targeting pod.
+modification/cn_k_pzs_01;K/PZS-01
+modification/cn_k_adc03a/desc;Allows the installation of a K/ADC03A laser/electro-optical targeting pod.
+modification/cn_k_adc03a;K/ADC03A
+modification/tr_aselpod/desc;Allows the installation of a ASELPOD laser/electro-optical targeting pod.
+modification/tr_aselpod;ASELPOD
+modification/us_lantirn_pod/desc;Allows the installation of a LANTIRN laser/electro-optical targeting pod.
+modification/us_lantirn_pod;LANTIRN
+modification/us_pave_tack_pod/desc;Allows the installation of a Pave Tack laser/electro-optical targeting pod.
+modification/us_pave_tack_pod;Pave Tack
+modification/su_mercury_pod/desc;Allows the installation of a Mercury optical targeting pod.
+modification/su_mercury_pod;Mercury
+modification/fr_damocles_pod/desc;Allows the installation of a DAMOCLES laser/electro-optical targeting pod.
+modification/fr_damocles_pod;DAMOCLES
+modification/t_220/desc;Allows the installation of a T-220 laser/electro-optical targeting pod.
+modification/t_220;T-220
+elite/elite;Elite aircraft rank I
+elite/sub_elite;Elite aircraft rank II
+elite/elite/desc;To unlock Elite rank I, you have to purchase all modifications for this aircraft.
+elite/sub_elite/desc;To unlock Elite rank II, you have to purchase %s modifications of the highest tier for this aircraft.
+modification/hydravlic_power;New boosters
+modification/hydravlic_power/desc;New hydraulic boosters improve plane's controllability
+modification/150_octan_fuel;150 octane fuel
+modification/150_octan_fuel/desc;Allows usage of 150 octane fuel. Engine performance will be improved
+modification/100_octan_spitfire;100 octane fuel
+modification/100_octan_spitfire/desc;Allows usage of 100 octane fuel. Engine performance will be improved
+modification/mass_change;%s to empty mass
+modification/oswalds_change;%s to wing spanwise lift efficiency coefficient
+modification/cdMinFusel_change;%s to fuselage drag coefficient
+modification/cdMinTail_change;%s to zero lift stabilizer drag coefficient
+modification/cdMinWing_change;%s to zero lift wing drag coefficient
+modification/ailThrSpd_change;%s to speed at which a pilot is able to deflect ailerons completely
+modification/elevThrSpd_change;%s to speed at which a pilot is able to deflect elevators completely
+modification/ruddThrSpd_change;%s to speed at which a pilot is able to deflect rudder completely
+modification/horsePowers_change;%s to engine power
+modification/horsePowersTransmission_change;%s to drive wheels
+modification/thrust_change;%s to engine thrust
+modification/reloadTime_change;%s to reload time of primary weapon
+modifications/params;Change of aircraft parameters:
+modifications/tank_params;Change of tank parameters:
+modifications/specs;Calculation of changes to aircraft specs:
+modifications/tank_specs;Calculation of changes to tank specs:
+modifications/specs_change;Changes to specs
+modification/cdParasite_change;%s to parasite drag
+modification/frc_mk3;LFRC Mk. 12
+modification/frc_mk3/desc;Allows installation of Tiny Tim rockets.
+modification/btd_sbc;SBC Mk. I
+modification/btd_sbc/desc;Allows installation of 500 lb bombs.
+modification/btd_mbc;MBC Mk. I
+modification/btd_mbc/desc;Allows installation of 1000 lb bombs.
+modification/btd_lbc;LBC Mk. I
+modification/btd_lbc/desc;Allows installation of a 2000 lb bomb.
+modification/btd_tc;TC Mk. I
+modification/btd_tc/desc;Allows installation of torpedo weaponry.
+modification/us_mk13;Mk. 13
+modification/us_mk13/desc;Allows installation of torpedo weaponry.
+modification/t-18;T-18
+modification/t-18/desc;Allows installation of 1 torpedo.
+modification/der4_47bmt;Der4-47BMT
+modification/der4_47bmt/desc;Allows installation of 1 torpedo.
+modification/hampden_2x500lb_torpedo;SBC/TSC
+modification/hampden_2x500lb_torpedo/desc;Allows installation of torpedo and bombs weaponry.
+modification/winterketten_tank_tracks;Winterketten
+modification/winterketten_tank_tracks/desc;Winterketten tracks pack. Additionally improves passing ability.
+modification/ostketten_tank_tracks;Ostketten
+modification/ostketten_tank_tracks/desc;Ostketten tracks pack. Additionally improves passing ability.
+modification/new_tank_tracks;Track maintenance
+modification/new_tank_tracks/desc;Maintenance of the tracks increases traction, track performance, and the tank's manueverability.
+modification/new_wheels;Tire maintainance
+modification/new_wheels/desc;Maintainance of the tires reduces ware on them, increasing traction and overall maneuverability.
+modification/new_tank_suspension;Suspension maintainence
+modification/new_tank_suspension/desc;Maintainance of the suspension improves the suspension dampening, drive smoothness, and overall handling quality.
+modification/new_car_suspension;Suspension maintainence
+modification/new_car_suspension/desc;Maintainance of the suspension improves the suspension dampening, drive smoothness, and overall handling quality.
+modification/new_tank_filter;Filter maintainance
+modification/new_tank_filter/desc;Maintainance of the air, fuel, and oil filters improves their filtering capabilities, increasing engine performance and air quality for the crew.
+modification/new_tank_brakes;Brake maintainance
+modification/new_tank_brakes/desc;Maintenance and cleaning of the brakes improve the power they can exert and decrease stopping distance.
+modification/new_tank_transmission;Transmission maintainance
+modification/new_tank_transmission/desc;Maintenance, cleaning, and lubrication of the transmission decrease friction and increase performance, bettering tank handling and gear ratios.
+modification/new_tank_engine;Engine maintainance
+modification/new_tank_engine/desc;Maintainance and cleaning of the engine decreases friction and improves overall performance.
+modification/tank_tool_kit_expendable;Repair equipment
+modification/tank_tool_kit_expendable/desc;Improved repair equipment allows the crew to more rapidly and effectively repair damage.
+modification/manual_extinguisher_expendable;Fire extinguishers
+modification/manual_extinguisher_expendable/desc;Additional fire extinguishers allows to crew to more consistently extinguish fires.
+modification/tank_medical_kit_expendable;Crew replenishment
+modification/tank_medical_kit_expendable/desc;Backup crews allow for the replacement of a crew member during battle in the event of a casualty.
+modification/tank_tool_kit_test;Repair equipment
+modification/tank_tool_kit_test/desc;Improved repair equipment allows the crew to more rapidly and effectively repair damage.
+modification/manual_extinguisher_test;Fire extinguishers
+modification/manual_extinguisher_test/desc;Additional fire extinguishers allows to crew to more consistently extinguish fires.
+modification/tank_medical_kit;Crew replenishment
+modification/tank_medical_kit/desc;It allows you to replenish your crew in combat conditions.
+modification/tank_tool_kit;Repair equipment
+modification/tank_tool_kit/desc;Improved repair equipment allows the crew to more rapidly and effectively repair damage.
+modification/manual_extinguisher;Fire extinguishers
+modification/manual_extinguisher/desc;Additional fire extinguishers allows to crew to more consistently extinguish fires.
+modification/camouflage_net;Camouflage net
+modification/camouflage_net/desc;Camouflage net
+modification/camouflage_net_certezza;Camouflage net
+modification/camouflage_net_certezza/desc;Camouflage net
+modification/certezza_protection_improvement;Camouflage net + Kit WAR
+modification/certezza_protection_improvement/desc;Camouflage net and Kit WAR additional armor packacge.
+modification/tank_camouflage;Camouflage
+modification/tank_camouflage/desc;Tank camouflage improves stealth in a field and decreases detection range by enemy tanks and aviation.
+modification/tank_additional_armor;Additional armor
+modification/tank_additional_armor/desc;Use of spare tracks or other alternate materials as an additional armor. It slightly increases tank protection but also - its weight.
+modification/new_tank_horizontal_aiming;Horizontal traverse lubrication
+modification/new_tank_horizontal_aiming/desc;Lubrication of the horizontal turret traverse drive allows for smoothing running with lower friction, increasing horizontal traverse speed.
+modification/new_tank_vertical_aiming;Vertical traverse lubrication
+modification/new_tank_vertical_aiming/desc;Lubrication of the vertical turret traverse drive allows for smoothing running with lower friction, increasing vertical traverse speed.
+modification/modern_tank_stereo_rangefinder;Rangefinder
+modification/modern_tank_stereo_rangefinder/desc;Installation of a rangefinder allows for the more accurate determination of the range to a target.
+modification/laser_rangefinder_lws;LRF / LWS
+modification/laser_rangefinder_lws/desc;Installation of a laser rangefinder allows for the more accurate determination of the range to and required ballistics for a target. Installation of a laser warning system allows for the detection of laser-guided munitions and laser rangefinders being targeted at the vehicle.
+modification/laser_rangefinder_ircm_lws_t_90a;1V528-1 + 1G46 / TŠU-1 + 1-11
+modification/laser_rangefinder_ircm_lws_t_90a/desc;Installation of the 1G46 laser rangefinder in conjunction with the 1V528-1 ballistic calculator allows for the calculating of the range to and required ballistics for a target. Installation of the TShU-1 rough laser sensors and TShU-1-11 precision laser sensors allows for the detection of laser-guided munitions and laser rangefinders targeted at the tank.
+modification/laser_warning_system;Laser warning system
+modification/laser_warning_system/desc;Installation of a laser warning system allows for the detection of laser-guided munitions and laser rangefinders targeted at the vehicle.
+modification/modern_tank_laser_rangefinder;Laser rangefinder
+modification/modern_tank_laser_rangefinder/desc;Installation of a laser rangefinder allows for the more accurate determination of the range to and required ballistics for a target.
+modification/tank_rangefinder;Rangefinder
+modification/tank_rangefinder/desc;Installation of a rangefinder allows for the more accurate determination of the range to a target.
+modification/art_support;Artillery support
+modification/art_support/desc;Calling artillery support targets an artillery strike at the selected point
+modification/tank_new_gun;Gun calibration
+modification/tank_new_gun/desc;Maintainance and calibration of the gun realigns it with the target sight and improves its performance, decreasing fire spread and increasing accuracy.
+modification/tank_smoke_screen_system_mod;Smoke grenades
+modification/tank_smoke_screen_system_mod/desc;The mounting of smoke grenades allows for the launching of these grenades that, upon detonation, release smoke.
+modification/thermal_vision_system;Thermal imager
+modification/night_vision_system_panther_2;NVD
+modification/night_vision_system_panther_2/desc;Allows the use of night vision devices.
+modification/night_vision_system;Image intensifier
+modification/night_vision_system/desc;The installation of an image intensifier allows for the brightening of recieved light in low-light conditions.
+modification/night_vision_system_upgrade_nv_to_thermal;Thermal imager
+modification/night_vision_system_upgrade_nv_to_thermal/desc;Installation of a thermal imager allows for the viewing of the landscape through thermal signitures emitted and reflected by all objects.
+modification/heli_night_vision_system;Image intensifier
+modification/heli_night_vision_system/desc;The installation of an image intensifier allows for the brightening of recieved light in low-light conditions.
+modification/aa_new_gun;Gun calibration
+modification/aa_new_gun/desc;Maintainance and calibration of the gun realigns it with the target sight and improves its performance, decreasing fire spread and increasing accuracy.
+modification/ka_chi_hull_improvement;Installation of pontoons
+modification/ka_chi_hull_improvement/desc;Installation of pontoons
+modification/bmp_1p_turret_improvement;BMP-1P
+modification/bmp_1p_turret_improvement/desc;Upgrading BMP-1 by installing a new generation ATGM.
+modification/type_86_turret_improvement;ZBD86 (2020)
+modification/type_86_turret_improvement/desc;Upgrading ZBD86 by installing a new generation ATGM.
+modification/tog_project_upgrade;1941 hull proposal
+modification/tog_project_upgrade/desc;"Allows installation of the 1941 proposed hull for the T.O.G. 2 featuring a 3"" gun in the hull and machine gun sponsons on the sides fitted with BESA machine guns."
+modification/bmp_2d_improvement;BMP-2D
+modification/bmp_2d_improvement/desc;Upgrading BMP-2 by increasing side armor. BMP-2D loses the ability to cross rivers by swimming due to the increased mass.
+modification/bmd_4m_improvement;Additional armor
+modification/bmd_4m_improvement/desc;Upgrading BMD-4M by enhancing its side and frontal armor. The BMD-4M loses its ability to cross rivers by swimming due to the increased mass.
+modification/abrams_protection_improvement;TUSK
+modification/abrams_protection_improvement/desc;TUSK upgrade kit
+modification/c1_protection_improvement;War kit
+modification/c1_protection_improvement/desc;War kit additional armor pack
+modification/c1_pso_protection_improvement;PSO Tipo 2
+modification/c1_pso_protection_improvement/desc;PSO Tipo 2 additional armor pack
+modification/t_62m_1_protection_improvement;Side skirts
+modification/t_62m_1_protection_improvement/desc;Additional side skirts
+modification/lav_ad_hydra_70;Hydra 70
+modification/lav_ad_hydra_70/desc;Add-on Hydra 70 launcher
+modification/9p149m_upgrade_modification;9P149M
+modification/9p149m_upgrade_modification/desc;9P149M upgrade kit
+modification/2s6_upgrade_modification;2S6M1
+modification/2s6_upgrade_modification/desc;2S6M1 upgrade kit
+modification/type_74_tire;Tires
+modification/type_74_tire/desc;Mounting/dismounting tires from the stern of the hull
+modification/m_1_fuel_tanks;Vismod
+modification/m_1_fuel_tanks/desc;Mounting Vismod elements
+modification/slat_armor_improvement;Slat armor
+modification/slat_armor_improvement/desc;Slat armor kit
+modification/m1128_protection_improvement;Slat armor
+modification/m1128_protection_improvement/desc;Slat armor kit
+modification/xm_8_protection_improvement;Level 3
+modification/xm_8_protection_improvement/desc;Level 3 armor kit
+modification/challenger_2_protection_improvement;Dorchester 2E
+modification/challenger_2_protection_improvement/desc;Dorchester 2E armor kit
+modification/challenger_dorchester_protection_improvement;Dorchester 2F
+modification/challenger_dorchester_protection_improvement/desc;Dorchester Level 2F armor kit
+modification/bmp_3_upgrade_modification;"Thermal sight ""Sodema"""
+modification/bmp_3_upgrade_modification/desc;"Thermal sight ""Sodema"" upgrade kit"
+modification/t_72b3_2017_improvement;T-72B3 UBH
+modification/t_72b3_2017_improvement/desc;T-72B3 UBH — increased protection and change engine.
+modification/t_72a_1983_protection_improvement;T-72A (1983)
+modification/t_72a_1983_protection_improvement/desc;Add-on 16 mm plate on the UFP
+modification/mine_protection_improvement;Mine protection
+modification/mine_protection_improvement/desc;Additional mine protection
+modification/vsw_flak_41_skirts_up;Side skirts up
+modification/vsw_flak_41_skirts_up/desc;Side skirts up
+modification/zerstorer_skirts_up;Side skirts up
+modification/zerstorer_skirts_up/desc;Side skirts up
+modification/t_64b_protection_improvement;T-64BV
+modification/t_64b_protection_improvement/desc;ERA installed
+modification/t_80b_protection_improvement;Kontakt-I
+modification/t_80b_protection_improvement/desc;ERA installed
+modification/t_80bvm_protection_improvement;Additional ERA Package
+modification/t_80bvm_protection_improvement/desc;Additional ERA installed
+modification/fv510_protection_improvement;Additional Protection Package
+modification/fv510_protection_improvement/desc;Additional Protection armor pack
+modification/magach_protection_improvement;"Magach-3 ""Blazer"""
+modification/magach_protection_improvement/desc;ERA installed
+modification/conqeror_armor_improvement;Additional Ballistic Protection Package
+modification/conqeror_armor_improvement/desc;Additional Ballistic Protection armor pack
+modification/lvrbv_Rbs_70B_upgrade;Rb 70B
+modification/lvrbv_Rbs_70B_upgrade/desc;Added Rb 70B surface-to-air missile.
+modification/pvrbv_TOW_2_upgrade;rb 55C
+modification/pvrbv_TOW_2_upgrade/desc;Added robot 55C anti-tank guided missile.
+modification/begleitpanzer_57_improvement_TOW;BGM-71C
+modification/begleitpanzer_57_improvement_TOW/desc;Allows installation of BGM-71C ITOW wire-guided anti-tank guided missiles.
+modification/9m120_improvement;9M120
+modification/9m120_improvement/desc;Added 9M120 ATGM
+modification/roland_3_improvement;Roland 3
+modification/roland_3_improvement/desc;Added Roland 3 AAM
+modification/fv510_MILAN_2;MILAN 2
+modification/fv510_MILAN_2/desc;Added MILAN 2 ATGM
+modification/airstrike;Aerial support
+modification/airstrike/desc;Allows you to join an air battle activated by an ally on bomber or attacker (for example, in Tank Arcade Battles). In modes with respawn points, you can additionally reduce the aircraft spawn cost for each scouted player killed by an ally (for example, in Tank Realistic Battles).
+modification/improved_optics;Improved optics
+modification/improved_optics/desc;Increases the opponents detection radius.
+modification/yak9ut_n37_mod;N-37 cannon
+modification/yak9ut_n37_mod/desc;Allows installation of 37 mm N-37 cannon.
+modification/yak9ut_ns45_mod;NS-45 cannon
+modification/yak9ut_ns45_mod/desc;Allows installation of 45 mm NS-45 cannon.
+modification/bf-109k-4_MG15120_mod;MG.151/20 cannon
+modification/bf-109k-4_MG15120_mod/desc;Allows installation of 20 mm MG 151 cannon.
+modification/morko_morane_mg151;MG.151/20 cannon
+modification/morko_morane_mg151/desc;Allows installation of 20 mm MG 151 cannon.
+modification/su_2_am42_vya23;VYa-23 cannon
+modification/su_2_am42_vya23/desc;Allows installation of 23 mm VYa cannon.
+modification/a6m_9in_mod30;9 in (mod30)
+modification/a6m_9in_mod30/desc;Allows installation of 2 x 60 kg bombs.
+modification/tank_engine_smoke_screen_system;Exhaust smokescreen
+modification/tank_engine_smoke_screen_system/desc;Injecting diesel into the engine manifold superheats it, evaporating it instantly and producing a while smoke that is released through the exhaust to form a smokescreen.
+modification/14in_mod35;9 in (mod35)
+modification/14in_mod35/desc;Allows installation of additional 60 kg bombs.
+modification/15in_mod35;9 in (mod35)
+modification/15in_mod35/desc;Allows installation of additional 250 kg bombs.
+modification/13in_mod35;13 in (mod35)
+modification/13in_mod35/desc;Allows installation of up to 500 kg bombs.
+modification/kd-3_bc;KD-3
+modification/kd-3_bc/desc;Allows installation of up to 500 kg bombs.
+modification/kd3_281;KD3-281
+modification/kd3_281/desc;Allows installation of up to 500 kg bombs.
+modification/kdz_250;KDZ-226 250
+modification/kdz_250/desc;Allows installation of up to 250 kg bombs.
+modification/kdz_500;KDZ-226 500
+modification/kdz_500/desc;Allows installation of up to 500 kg bombs.
+modification/kd-2_bc;KD-2
+modification/kd-2_bc/desc;Allows installation of up to 100 kg bombs.
+modification/kd-4_bc;KD-4
+modification/kd-4_bc/desc;Allows installation of 1000 kg bombs.
+modification/ki84_9in_mod23;9 in (mod23)
+modification/ki84_9in_mod23/desc;Allows installation of 2 x 50 kg bombs.
+modification/ki84_12in_mod27;12 in (mod27)
+modification/ki84_12in_mod27/desc;Allows installation of 2 x 250 kg bombs.
+modification/pvc_1006b_pylon;PVC 1006B
+modification/pvc_1006b_pylon/desc;Allows installation of 2 torpedoes.
+modification/hs129_bk37;BK 3,7 cannon
+modification/hs129_bk37/desc;Allows installation of 37 mm BK 3,7 cannon.
+modification/hs129_bk37_bf110;BK 3,7 cannon
+modification/hs129_bk37_bf110/desc;Allows installation of 37 mm BK 3,7 cannon.
+modification/i-185_der-25;Der-25
+modification/i-185_der-25/desc;Allows installation of 250 kg bombs
+modification/i-185_ro-82;RO-82
+modification/i-185_ro-82/desc;Allows installation of 8 unguided RS-82 rockets.
+modification/ki_7in_mod20;7 in (mod20)
+modification/ki_7in_mod20/desc;Allows installation of 50 kg bombs.
+modification/ki_12in_mod30;12 in (mod30)
+modification/ki_12in_mod30/desc;Allows installation of 250 kg bombs.
+modification/ki_10in_mod24;10 in (mod24)
+modification/ki_10in_mod24/desc;Allows installation of 100 kg bombs.
+modification/fr_50_dt/desc;Allows installation of additional 50 kg bombs.
+modification/fr_50_dt;50 DT
+modification/fr_100_gp_standart/desc;Allows installation of 100 kg bombs.
+modification/fr_100_gp_standart;100 GPs
+modification/fr_200_gp_standart/desc;Allows installation of 200 kg bombs.
+modification/fr_200_gp_standart;200 GPs
+modification/fr_f222_s/desc;Allows installation of 200 kg bombs.
+modification/fr_f222_s;200 GPs
+modification/fr_f222_s5/desc;Allows installation of additional 200 kg bombs.
+modification/fr_f222_s5;200 GPs S5
+modification/fr_f222_tgpu/desc;Allows installation of 500 kg bombs.
+modification/fr_f222_tgpu;500 GPs
+modification/fr_250kg_type_25c/desc;Allows installation of 250 kg bombs.
+modification/fr_250kg_type_25c;Type 25C
+modification/fr_400kg_type_21b/desc;Allows installation of 400 kg bombs.
+modification/fr_400kg_type_21b;Type 21B
+modification/uk_mk_n1_540lb/desc;Allows installation of 540 lb bombs.
+modification/uk_mk_n1_540lb;Mk. N1 540lb
+modification/uk_mk_10_1000lb/desc;Allows installation of 1000 lb bombs.
+modification/uk_mk_10_1000lb;Mk. 10 1000lb
+modification/bazooka_pylon;Rocket Launcher M10
+modification/bazooka_pylon/desc;Allows installation of M8 rockets.
+modification/ammo_pack/desc;Allows use of shell %s.
+modification/ammo_pack_belt/desc;Allows use of belts %s.
+modification/me-410_u4_mod;U4 modification
+modification/me-410_u4_mod/desc;Allows installation of 50 mm BK 5 cannon.
+modification/me-410_u2_mod;U2 modification
+modification/me-410_u2_mod/desc;Allows installation of 2 x 20 mm MG151/20 cannons
+modification/me-410_pylon_mod;ITC 500/VIIId
+modification/me-410_pylon_mod/desc;Allows installation of up to 500 kg bombs.
+20mm_ger_kwk30_HE/name;Sprgr.
+20mm_ger_kwk30_AP/name;PzGr.
+20mm_ger_kwk30_APCR/name;PzGr.40
+20mm_ussr_TNSh_HE/name;OZT
+20mm_ussr_TNSh_AP/name;API
+20mm_ussr_TNSh_APCR/name;API HV
+37mm_ger_flak36_HE/name;Sprgr.
+37mm_ger_flak36_AP/name;PzGr.
+40mm_usa_M2_HE/name;Mk. II
+40mm_usa_M2_AP/name;M81A1
+37mm_usa_universal/name;APT-HEIT
+37mm_usa_m54_HE/name;M54
+37mm_usa_m59a1_AP/name;M59A1
+25mm_ussr_72K_HE/name;OZT
+25mm_ussr_72K_AP/name;BZT
+7_62mm_DT_API/name;API
+7_62mm_DT_APIT/name;APIT
+12mm_vickers_mk5_API/name;API
+12mm_usa_M2HB_API_navy/name;.50 API belt
+12mm_usa_M2HB_API/name;API
+12mm_usa_M2HB_AP/name;AP
+12mm_usa_M2HB_APIT/name;APIT
+12mm_ussr_dshk_AP/name;AP
+12mm_ussr_dshk_APIT/name;API-T
+12mm_ussr_dshk_API/name;API
+modification/tbf_itc;ITC Mk. III
+modification/tbf_itc/desc;Allows installation of 1 torpedo.
+modification/improved_torpedo_mod;Improved torpedo
+modification/improved_torpedo_mod/desc;Allows installation of torpedoes with improved discharge characteristics.
+modification/allowPremDecals;Mark of distinction
+modification/allowPremDecals/desc;Allows to use all four slots for decals, even without Premium Account.
+modification/ki45_12in_mod30;12 in (mod30)
+modification/ki45_12in_mod30/desc;Allows installation of bombs of up to 250 kg
+modification/spitfire_sbc;SMBC Mk. 2
+modification/spitfire_sbc/desc;Allows installation of 250 lb bombs.
+modification/spitfire_sbc_additional;SMBC Mk. 3
+modification/spitfire_sbc_additional/desc;Allows installation of additional 250 lb bomb.
+modification/spitfire_mbc;SMBC Mk. 2
+modification/spitfire_mbc/desc;Allows installation of 500 lb bombs.
+modification/spitfire_mbc_additional;MBC Mk. 3
+modification/spitfire_mbc_additional/desc;Allows installation of additional 500 lb bombs.
+modification/spitfire_rc;HRC Mk. 8
+modification/spitfire_rc/desc;Allows installation of RP-3 unguided rockets.
+modification/fr_matra_t_10;Matra T10 140
+modification/fr_matra_t_10/desc;Allows installation of T10 140 unguided rockets.
+modification/fr_matra_t_10_150;Matra T10 151
+modification/fr_matra_t_10_150/desc;Allows installation of T10 151 unguided rockets.
+modification/fr_matra_sneb;Matra SNEB
+modification/fr_matra_sneb/desc;Allows installation of SNEB unguided rockets.
+modification/fr_jl_100r;Matra JL-100R
+modification/fr_jl_100r/desc;Allows installation of SNEB unguided rockets.
+modification/fr_jl_100r_36;Matra JL-100 36
+modification/fr_jl_100r_36/desc;Allows installation of SNEB unguided rockets.
+modification/fr_lr_f1;Matra LR F1
+modification/fr_lr_f1/desc;Allows installation of SNEB unguided rockets.
+modification/fr_lr_100_4;LR 100-4
+modification/fr_lr_100_4/desc;Allows installation of TBA-100 unguided rockets.
+modification/uk_lau_5003b_a;LAU-5003 B/A
+modification/uk_lau_5003b_a/desc;Allows installation of CVR7 unguided rockets.
+modification/uk_lau_51;LAU-5003 B/A
+modification/uk_lau_51/desc;Allows the installation of CRV7 unguided rockets.
+modification/uk_lau_51_ffar_2_75;LAU-51
+modification/uk_lau_51_ffar_2_75/desc;Allows the installation of FFAR Mighty Mouse unguided rockets.
+modification/fr_matra_type61;Matra Type 61
+modification/fr_matra_type61/desc;Allows installation of T10 151 unguided rockets.
+modification/fr_matra_type116;Matra Type 116
+modification/fr_matra_type116/desc;Allows installation of SNEB unguided rockets.
+modification/fr_matra_type104a;Matra Type 104A
+modification/fr_matra_type104a/desc;Allows installation of SNEB unguided rockets.
+modification/fr_matra_type105;Matra Type 105
+modification/fr_matra_type105/desc;Allows installation of additional SNEB unguided rockets.
+modification/sws_matra_type1000;Matra Type 1000
+modification/sws_matra_type1000/desc;Allows the installation of additional SNEB unguided rockets.
+modification/us_2_75_in_ffar;FFAR Mighty Mouse
+modification/us_2_75_in_ffar/desc;Allows installation of FFAR Mighty Mouse unguided rockets.
+modification/us_f8u_ffar;FFAR Mighty Mouse
+modification/us_f8u_ffar/desc;Allows installation of FFAR Mighty Mouse unguided rockets.
+modification/rb_05a;rb 05A
+modification/rb_05a/desc;Allows installation of robot 05A air-to-ground missiles.
+modification/yak_38_x23m;Kh-23M
+modification/yak_38_x23m/desc;Allows installation of Kh-23M guided missiles.
+modification/su_17_x25;Kh-25
+modification/su_17_x25/desc;Allows installation of Kh-25 guided missiles.
+modification/su_17_x29l;Kh-29L
+modification/su_17_x29l/desc;Allows installation of Kh-29L guided missiles.
+modification/su_x25l_29l;Kh-25ML / 29L
+modification/su_x25l_29l/desc;Allows the installation of Kh-25ML and Kh-29L guided missiles.
+modification/su_grom;Kh-36 (A1)
+modification/su_grom/desc;"Allows the installation of 9-A1-7759 | Kh-36 ""Grom-E2"" guided bombs."
+modification/mig_21_x66;Kh-66
+modification/mig_21_x66/desc;Allows installation of Kh-66 guided missiles.
+modification/fr_as_30l;AS.30L
+modification/fr_as_30l/desc;Allows installation of AS.30L guided missiles.
+modification/fr_as_30;AS.30
+modification/fr_as_30/desc;Allows installation of AS.30 guided missiles.
+modification/gr_as_34;AS.34
+modification/gr_as_34/desc;Allows installation of AS.34 Kormoran guided anti-ship missiles.
+modification/fj_4b_agm_12b;AGM-12B Bullpup
+modification/fj_4b_agm_12b/desc;Allows installation of AGM-12B Bullpup guided missiles.
+modification/fj_4b_agm_12c;AGM-12C Bullpup
+modification/fj_4b_agm_12c/desc;Allows installation of AGM-12C Bullpup guided missiles.
+modification/nord_as_20;AS.20
+modification/nord_as_20/desc;Allows installation of AS.20 Nord guided missiles.
+modification/nord_as_30;Nord AS.30
+modification/nord_as_30/desc;Allows installation of Nord AS.30 guided missiles.
+modification/us_2_75_in_ffar_aero_7d;AERO-7
+modification/us_2_75_in_ffar_aero_7d/desc;Allows installation of AERO-7 FFAR Mighty Mouse unguided rockets.
+modification/us_2_75_in_ffar_aero_6a;AERO-6
+modification/us_2_75_in_ffar_aero_6a/desc;Allows installation of AERO-6 FFAR Mighty Mouse unguided rockets.
+modification/do217_etc2000;SC 2000
+modification/do217_etc2000/desc;Allows installation of two additional 1000 kg bombs under the wings
+modification/me262_r1;R1 modification
+modification/me262_r1/desc;Allows installation of 24 rockets R4M
+modification/Fw-190F-8_Pb2;R4/M HL modification
+modification/Fw-190F-8_Pb2/desc;Allows installation of rockets R4/M HL Panzerblitz Pb2
+modification/me262_r1_2;R1/II modification
+modification/me262_r1_2/desc;Allows installation of 48 rockets R4M
+modification/me262_wgr21;W.Gr.21
+modification/me262_wgr21/desc;Allows installation of rockets W.Gr.21
+modification/Bf-109F_rz_65;RZ 65
+modification/Bf-109F_rz_65/desc;Allows installation of 8 rockets EG RZ.65
+modification/m10_pylon;M10 bomb rack
+modification/m10_pylon/desc;Allows installation of additional bombs on external bomb racks
+modification/g_suit;G-suit
+modification/g_suit/desc;G-suit makes it easier to carry overload
+modification/f_4c_g_suit;G-suit
+modification/f_4c_g_suit/desc;G-suit makes it easier to carry overload
+modification/m4_75mm_ground_targets;75 mm cannon ammunition for ground targets
+modification/m4_75mm_ground_targets/short;Ground targets
+modification/m4_75mm_armor_targets;75 mm cannon ammunition for armored targets
+modification/m4_75mm_armor_targets/short;AP
+modification/SAA_ground_targets;102 mm cannon ammunition for ground targets
+modification/SAA_ground_targets/short;Ground targets
+modification/SAA_armor_targets;102 mm cannon ammunition for armored targets
+modification/SAA_armor_targets/short;AP
+modification/fairey_tc;FTC Mk. II
+modification/fairey_tc/desc;Allows installation of 1 torpedo.
+modification/bmbc_mk1/desc;Allows installation of 500 lb bombs.
+modification/bmbc_mk1;BMBC Mk. 1
+modification/blbc_mk1/desc;Allows installation of 1000 lb bombs.
+modification/blbc_mk1;BLBC Mk. 1
+modification/ki_43_1_otsu;Otsu mod.
+modification/ki_43_1_otsu/desc;Allows change of small caliber machine gun to large caliber machine gun
+modification/ki_43_1_hei;Hei mod.
+modification/ki_43_1_hei/desc;Allows change of small caliber machine guns to large caliber machine guns
+modification/kitsuka_14in_mod41;14 in (mod. 41)
+modification/kitsuka_14in_mod41/desc;Allows installation of bombs up to 800 kg.
+modification/kitsuka_fighter;Type 5 x2
+modification/kitsuka_fighter/desc;Allows installation of an additional cannon
+modification/frc_mk7;FRC Mk. 7
+modification/frc_mk7/desc;Allows installation of HVAR unguided rockets.
+modification/frc_mk7_additional;FRC Mk. 7a
+modification/frc_mk7_additional/desc;Allows installation of additional HVAR unguided rockets.
+modification/bd-4_bc;BD-4
+modification/bd-4_bc/desc;Allows installation of 1500 kg bombs or 3000 kg bomb.
+modification/kd4_181;KD4-181
+modification/kd4_181/desc;Allows installation of 1500 kg bombs or 3000 kg bomb.
+modification/bd-4_1500;BD-4 1500
+modification/bd-4_1500/desc;Allows installation of 1500 kg bombs.
+modification/bd-4_3000;BD-4 3000
+modification/bd-4_3000/desc;Allows installation of 3000 kg bomb.
+modification/EEMBC_mark_1;EEMBC No.2 Mark 1
+modification/EEMBC_mark_1/desc;Allows installation of 1000 lb bombs.
+modification/EELBC_mark_4;EELBC No.2 Mark 4
+modification/EELBC_mark_4/desc;Allows installation of bombs in excess of 1000 lbs.
+modification/nr23_turret_apit;23 mm cannon ammunition belt for armored targets
+modification/nr23_turret_apit/short;AP
+modification/nr23_turret_heit;23 mm cannon ammunition belt for air targets
+modification/nr23_turret_heit/short;Air Targets
+modification/new_compressor_r;Compressor
+modification/new_compressor_r/desc;Checking and tweaking of compressor provides maximum engine power.
+modification/new_radiator_r;Radiator
+modification/new_radiator_r/desc;Cleaning of radiator and cooling system makes engine cooling more effective.
+modification/hp_105_r;Engine
+modification/hp_105_r/desc;Rebuilding and tuning of the engine, replacement of worn engine with a new one.
+modification/structure_str_r;Airframe
+modification/structure_str_r/desc;Replacement of damaged airframe elements increases overall plane's durability and flight performance due to weight reduction. For some planes it means that you get a new plane with undamaged airframe.
+modification/new_cover_r;Cover
+modification/new_cover_r/desc;Regular maintaining of cover and replacement of damaged cover parts increases overall plane's durability and flight performance, due to weight reduction.
+modification/CdMin_Fuse_r;Fuselage repair
+modification/CdMin_Fuse_r/desc;Replacement of damaged elements of fuselage skinning, removal of openings, and surface finish to reduce air drag.
+modification/cd_98_r;Wings repair
+modification/cd_98_r/desc;Replacement of damaged elements of wing skin, removal of openings, and surface finish to reduce air drag.
+modification/ub_universal_r;Omni-purpose ammunition belt for 12.7 mm machine gun
+modification/ub_universal_r/short;Universal
+modification/ub_air_targets_r;12.7 mm machine gun ammunition belt for air targets
+modification/ub_air_targets_r/short;Air targets
+modification/ub_all_tracers_r;12.7 mm machine gun ammunition belt with APIT bullets
+modification/ub_all_tracers_r/short;Tracers
+modification/ub_stealth_r;12.7 mm machine gun ammunition belt for stealth attack
+modification/ub_stealth_r/short;Stealth
+modification/ub_ground_targets_r;12.7 mm machine gun ammunition belt for ground targets
+modification/ub_ground_targets_r/short;Ground targets
+modification/shvak_universal_r;Omni-purpose ammunition belt for 20 mm cannon
+modification/shvak_universal_r/short;Universal
+modification/shvak_ground_targets_r;20 mm cannon ammunition belt for ground targets
+modification/shvak_ground_targets_r/short;Ground targets
+modification/shvak_armor_targets_r;20 mm cannon ammunition belt for armored targets
+modification/shvak_armor_targets_r/short;AP
+modification/shvak_tracers_r;20 mm cannon ammunition belt with increased amount of tracer shells
+modification/shvak_tracers_r/short;Tracers
+modification/shvak_stealth_r;20 mm cannon ammunition belt for stealth attack
+modification/shvak_stealth_r/short;Stealth
+modification/mg_universal_r;Omni-purpose ammunition belt for 7.92 mm machine gun
+modification/mg_universal_r/short;Universal
+modification/mg_all_tracers_r;7.92 mm machine gun ammunition belt with tracer bullets
+modification/mg_all_tracers_r/short;Tracers
+modification/mg_stealth_r;7.92 mm machine gun ammunition belt for stealth attack
+modification/mg_stealth_r/short;Stealth
+modification/LaGG_ro-82_r;RO-82
+modification/LaGG_ro-82_r/desc;Allows installation of unguided RS-82 rockets.
+modification/LaGG_dz-40_r;DZ-40
+modification/LaGG_dz-40_r/desc;Allows installation of 50 or 100 kg bombs.
+modification/i_180_der_31;Der-31
+modification/i_180_der_31/desc;Allows installation of 50 or 100 kg bombs.
+modification/f-82_gunpod;NAGP Mk. I
+modification/f-82_gunpod/desc;Allows installation of gun pod.
+modification/dgp-1_gunpod;DGP-1
+modification/dgp-1_gunpod/desc;Allows installation of gun pod.
+modification/b-29_sbc;SBC-40
+modification/b-29_sbc/desc;Allows installation of additional 500 lb bombs.
+modification/b-29_mbc;MBC-12
+modification/b-29_mbc/desc;Allows installation of 1000 lb bombs.
+modification/b-29_lbc;LBC-8
+modification/b-29_lbc/desc;Allows installation of 2000 lb bombs.
+modification/EEMBC_mark_2;EESBC No.2 Mark 2
+modification/EEMBC_mark_2/desc;Allows installation of 500 lb bombs.
+modification/EELBC_mark_3;EELBC No.1 Mark 3
+modification/EELBC_mark_3/desc;Allows installation of 1000 lb bombs.
+modification/EERC_mark_1;EERC No.3 Mark 1
+modification/EERC_mark_1/desc;Allows installation of HVAR unguided rockets.
+modification/EERC_mark_2;EERC No.3 Mark 2
+modification/EERC_mark_2/desc;Allows installation of additional HVAR unguided rockets.
+modification/Bf-109G-14_R5;R5 modification
+modification/Bf-109G-14_R5/desc;Allows installation of 2 x 30 mm Mk. 108 cannons under the wings.
+modification/Bf-109G-14_SC250;SC 250
+modification/Bf-109G-14_SC250/desc;Allows installation of 1 x 250 kg bomb.
+modification/Bf-109G-14_MK108_mod;Mk. 108 cannon
+modification/Bf-109G-14_MK108_mod/desc;Allows installation of 30 mm Mk. 108 cannon.
+modification/Bf-109G-14_R6;R6 modification
+modification/Bf-109G-14_R6/desc;Allows installation of 2 x 20 mm MG151/20 cannons under the wings.
+modification/Bf-109_R4;R4 modification
+modification/Bf-109_R4/desc;Allows installation of 2 x 20 mm MG151/20 cannons under the wings.
+modification/il_28sh_upk23_gunpod;Gun pod UPK-23-250
+modification/il_28sh_upk23_gunpod/desc;Allows installation of gun pods UPK-23-250.
+modification/yak_38_upk23_gunpod;Gun pod UPK-23-250
+modification/yak_38_upk23_gunpod/desc;Allows installation of additional gun pods UPK-23-250.
+modification/yak_38_vspu_36_gunpod;Gun pod VSPU-36
+modification/yak_38_vspu_36_gunpod/desc;Allows installation of gun pods VSPU-36.
+modification/su_17_sppu_22_gunpod;Gun pod SPPU-22-01
+modification/su_17_sppu_22_gunpod/desc;Allows installation of gun pods SPPU-22-01.
+modification/su_sppu_6_gunpod;Gun pod SPPU-6
+modification/su_sppu_6_gunpod/desc;Allows the installation of gun pods SPPU-6.
+modification/fr_mirage_f1c_cc_420_gunpod;CC420
+modification/fr_mirage_f1c_cc_420_gunpod/desc;Allows the installation of the CC420 gunpod.
+modification/fr_cc630_gun_pod;CC630
+modification/fr_cc630_gun_pod/desc;Allows the installation of the CC630 gunpod.
+modification/fr_cc422_gun_pod;CC422
+modification/fr_cc422_gun_pod/desc;Allows the installation of the CC422 gunpod.
+modification/mk4_mod0_gunpod;Gun pod Mk. 4 Mod 0
+modification/mk4_mod0_gunpod/desc;Allows installation of gun pods Mk. 4 Mod 0.
+modification/ka_29_2a42;2A42
+modification/ka_29_2a42/desc;Add-on cannon 2A42.
+modification/uh_1c_xm18;Gun pod M18A1
+modification/uh_1c_xm18/desc;Allows installation of gun pods M18A1.
+modification/uh_1c_xm21;Gun pod XM-21
+modification/uh_1c_xm21/desc;Allows installation of gun pods XM-21.
+modification/ah_1g_xm35;Gun pod XM-35
+modification/ah_1g_xm35/desc;Allows installation of gun pods XM-35.
+modification/f4c_suu_23a;Gun pod SUU-23/A
+modification/f4c_suu_23a/desc;Allows installation of additional gun pods SUU-23/A.
+modification/us_suu_16a;Gun pod SUU-16/A
+modification/us_suu_16a/desc;Allows installation of additional gun pods SUU-16/A.
+modification/a_7d_gpu_5a;Gun pod GPU-5/A.
+modification/a_7d_gpu_5a/desc;Allows installation of additional gun pods GPU-5/A.
+modification/us_gau_19;Gun pod GP-19
+modification/us_gau_19/desc;Allows installation of gun pods GP-19.
+modification/us_cannon_lr30;LR30 cannon
+modification/us_cannon_lr30/desc;Allows installation of 30 mm LR30 cannon.
+modification/fn_hmp400_lcc;FN HMP400 LCC / LTC.
+modification/fn_hmp400_lcc;FN HMP400 LCC / LTC.
+modification/fn_hmp400_lcc/desc;Allows installation of gun pods FN HMP400 LCC and LTC.
+modification/fn_hmp400;FN HMP400 LCC
+modification/fn_hmp400/desc;Allows installation of gun pods FN HMP400 LCC
+modification/fn_rmp_lc;FN RMP LC / LTC
+modification/fn_rmp_lc/desc;Allows installation of gun pods FN RMP LC and LTC.
+modification/fn_rmp;FN RMP LC
+modification/fn_rmp/desc;Allows installation of gun pods FN RMP LC
+modification/ffv_uni_pod;FFV UNI-pod
+modification/ffv_uni_pod/desc;Allows installation of gun pods FFV UNI-pod 0127.
+modification/il_28sh_s24;S-24
+modification/il_28sh_s24/desc;Allows installation of unguided S-24 rockets.
+modification/su_17_s25;S-25
+modification/su_17_s25/desc;Allows installation of unguided S-25 rockets.
+modification/su_s25_s13;S-13OF / 25O / LD
+modification/su_s25_s13/desc;Allows the installation of S-13OF and S-25O unguided rockets, and S-25LD guided rockets.
+modification/il_28sh_ub_16_57;UB-16-57
+modification/il_28sh_ub_16_57/desc;Allows installation of unguided S-5 rockets.
+modification/itc_500;ITC PVC/II
+modification/itc_500/desc;Allows installation of 500 kg bombs.
+modification/itc_1000;ITC PVC/III
+modification/itc_1000/desc;Allows installation of 1000 kg bombs.
+modification/mg81gunpod_mod;WB 81B
+modification/mg81gunpod_mod/desc;Allows installation of WB 81B gun pod.
+modification/mg15120gunpod_mod;WB 151
+modification/mg15120gunpod_mod/desc;Allows installation of WB 151 gun pod.
+modification/mg15120gunpod_mod_bf110;WB 151
+modification/mg15120gunpod_mod_bf110/desc;Allows installation of WB 151 gun pod.
+modification/do-335a-0_mg15115_mod;MG151 15
+modification/do-335a-0_mg15115_mod/desc;Allows replacement of MG151 20 by MG151 15.
+modification/turnTurretSpeedK_change;%s to turret slewing rate
+modification/gunPitchSpeedK_change;%s to guns lifting speed
+modification/maxInclination_change;%s to maximum inclination
+modification/maxDeltaAngleK_change;%s to the horizontal weapon spread
+modification/maxDeltaAngleVerticalK_change;%s to the vertical weapon spread
+modification/maxBrakeForceK_change;%s to brake force
+modification/suspensionDampeningForceK_change;%s to suspension damping
+modification/timeToBrake_change;%s to full stop
+modification/distToBrake_change;%s to braking distance
+modification/trackFricFrontalK_change;%s to traction characteristics
+modification/accelTime_change;%s to acceleration time
+modification/viewDist_change;%s to crew's visual range
+modification/respawnCost_change;%s reducing the aircraft respawn cost (in SP)
+modification/itc250;EHVC 500
+modification/itc250/desc;Allows installation of 250 kg bombs.
+modification/itc250_add;EHVC 500/II
+modification/itc250_add/desc;Allows installation of additional 250 kg bombs.
+modification/blackburn_tc;FTC Mk. IV
+modification/blackburn_tc/desc;Allows installation of 1 torpedo.
+modification/mb_175_lbt_130;LBT 130
+modification/mb_175_lbt_130/desc;Allows installation of 1 torpedo LTF-5b.
+modification/partHpMult_change;%s to overall module strength
+modification/etc502_pylon;ETC 502
+modification/etc502_pylon/desc;Allows installation of torpedo.
+modification/etc500_3_mod;SC 500
+modification/etc500_3_mod/desc;Allows installation of 500 kg bombs.
+modification/etc1000_1_mod;SC 1000
+modification/etc1000_1_mod/desc;Allows installation of 1000 kg bombs.
+modification/subc_mk1;SUBC Mk. I
+modification/subc_mk1/desc;Allows installation of 500 lb bombs.
+modification/subc_mk3;MBC Mk. III
+modification/subc_mk3/desc;Allows installation of 1000 lb bombs.
+modification/subc_mk3_2;MBC Mk. III/II
+modification/subc_mk3_2/desc;Allows installation of additional 1000 lb bombs.
+modification/blackoutG_change;%s to max positive G-force
+modification/redoutG_change;%s to max negative G-force
+plane_engine_type;Type
+plane_engine_type/inline;Inline
+plane_engine_type/radial;Radial
+plane_engine_type/jet;Jet
+plane_engine_type/rocket;Rocket
+plane_engine_type/pvrd;Ramjet
+plane_engine_type/turboprop;Turboprop
+plane_engine_type/turboshaft;Turboshaft
+plane_engine_type/unknown;Unknown
+plane_engine_cooling_type;Cooling type
+plane_engine_cooling_type_air;Air
+plane_engine_cooling_type_water;Water
+engine_power;Power
+engine_thrust;Thrust
+measureUnits/kgf;kgf
+engine_configuration/v12;V12
+engine_type/petrol;Petrol
+engine_type/diesel;Diesel
+engine_type/gasturbine;Gas turbine
+engine_cylinders_postfix;-cylinder
+engine_displacement;Displacement
+measureUnits/displacement;{num} {num=liter/liters}
+fuelTank/selfsealing;Self-sealing
+fuelTank/not_selfsealing;Not self-sealing
+engine_power_takeoff;Takeoff power
+engine_thrust_takeoff;Takeoff thrust
+engine_thrust_afterburner;Afterburner thrust
+engine_power_max;Max power
+engine_thrust_max;Max thrust
+radar;Radar
+radar_irst;Radar/IRST
+irst;IRST
+radar_tv;Radar/TV tracker
+tv;TV tracker
+radar_type;Type
+search_radar;Search Radar
+search_radar_irst;Search Radar/IRST
+search_irst;Search IRST
+search_radar_tv;Search Radar/TV
+search_tv;Search TV
+track_radar;Track Radar
+track_radar_irst;Track Radar/IRST
+track_irst;Track IRST
+track_radar_tv;Track Radar/TV
+track_tv;TV Tracker
+radar_range_finder;Radar Range-Finder
+radar_freq_band;Band
+radar_freq_band_0;A (0 - 0.25 GHz)
+radar_freq_band_1;B (0.25 - 0.5 GHz)
+radar_freq_band_2;C (0.5 - 1 GHz)
+radar_freq_band_3;D (1 - 2 GHz)
+radar_freq_band_4;E (2 - 3 GHz)
+radar_freq_band_5;F (3 - 4 GHz)
+radar_freq_band_6;G (4 - 6 GHz)
+radar_freq_band_7;H (6 - 8 GHz)
+radar_freq_band_8;I (8 - 10 GHz)
+radar_freq_band_9;J (10 - 20 GHz)
+radar_freq_band_10;K (20 - 40 GHz)
+radar_freq_band_11;L (40 - 60 GHz)
+radar_freq_band_12;M (60 - 100 GHz)
+radar_range_max;Range
+radar_search_zone_max;Search zone
+radar_ld;Look-down
+radar_ld_head_on;Look-down: Head-on
+radar_ld_all_aspects;Look-down: All aspects
+radar_lu;Look-up
+radar_tws;TWS
+radar_iff;IFF
+radar_bvr_mode;BVR
+radar_acm_mode;ACM
+radar_hms_mode;HMS
+radar_sarh;SARH
+radar_mg;Missile guidance
+radar_dl_channels;Datalink channels
+rwr_threats_types;Threats types
+rwr_tracked_threats_max;Tracked threats
+rwr_tracking_detection;Tracking detection
+rwr_launch_detection;Launch detection
+rwr_tracking_threats_types;Tracking threats types
+rwr_launching_threats_types;Launching threats types
+rwr_scope_id_threats_types;Threat types on scope
+rwr_present_id_threats_types;Threat types
+rwr_threats_unlimited;Unlimited
+rwr_signal_strength;Signal strength
+rwr_iff;IFF
+avionics_sight_turret;Turret
+avionics_sight_cannon;Cannons
+avionics_sight_rocket;Rockets
+avionics_sight_bomb;Bombs
+avionics_sight_vision/tv;TV
+avionics_sight_vision/lltv;LLTV
+avionics_sight_vision/flir;FLIR
+avionics_sensor_radar;Radar
+avionics_sensor_irst;IRST
+avionics_sensor_tv;TV
+avionics_sensor_radar_irst;Radar / IRST
+avionics_sensor_rwr;RWR
+avionics_sensor_lws;LWR
+avionics_sensor_mlws;MAW
+avionics_aim_spi;SPI
+avionics_hmd;HMS
+avionics_aim_laser_designator;Laser designator
+avionics_countermeasure_ircm;IRCM
+CCIP;CCIP
+sight_AUTO;EEGS
+CCRP;CCRP
+fuelTank/neutralGasSystem;with neutral gas pressurization system
+fuelTank/fillingPolyurethane;Filling - Polyurethane
+modification/new_ship_engine;Engine maintenance
+modification/new_ship_engine/desc;Proper maintencance and, if necessary, replacement of the engines improves their performance.
+modification/new_ship_screw;Propeller replacement
+modification/new_ship_screw/desc;Replacement of the propellers with new ones increases the vessel's performance
+modification/new_ship_hull;Hull cleaning
+modification/new_ship_hull/desc;Cleaning the vessel's hull of marine life decreases drag and improves hydrodynamics, increasing the vessel's maximum speed.
+modification/new_ship_rudder;Rudder maintenance
+modification/new_ship_rudder/desc;Proper maintenance and, if necessary, replacement of the vessel's rudder improves its agility.
+modification/ship_tool_kit;Repair equipment
+modification/ship_tool_kit/desc;Improved and replenished repair equiment allows for the more rapid and effective repair of damage while at sea.
+modification/manual_ship_extinguisher;Fire extinguishers
+modification/manual_ship_extinguisher/desc;Improved and replenished fire extinguishers allows for the more rapid and effective extinguishing of fires.
+modification/ship_smoke_screen_system_mod;Exhaust smokescreen
+modification/ship_smoke_screen_system_mod/desc;Injecting titanium tetrachloride (TiCl₄), silicon tetrachloride (SiCl₄), chlorosulfuric acid (HSO₃Cl), or hexachloroethane ((CCl₃)₂) into the engine manifold or boilers produces a white smoke that lies low on the water's surface.
+modification/new_ship_pumps;Bilge pump maintenance
+modification/new_ship_pumps/desc;Proper maintencance and, if necessary, replacement of the bilge pumps allows for increased capacity, allowing for more rapid pumping of water.
+modification/ship_rangefinder;Rangefinder alignment
+modification/ship_rangefinder/desc;Consistent rangefinder alignment allows for increased accuracy in the measurement of distance to a target.
+modification/new_main_caliber_turrets;Primary traverse lubrication
+modification/new_main_caliber_turrets/desc;Consistent lubrication of the traverse mechanism for the vessel's primary armament increases its rotation speed.
+modification/new_aux_caliber_turrets;Auxiliary traverse lubrication
+modification/new_aux_caliber_turrets/desc;Consistent lubrication of the traverse mechanism for the vessel's auxiliary armament increases its rotation speed.
+modification/new_aa_caliber_turrets;Anti-air traverse lubrication
+modification/new_aa_caliber_turrets/desc;Consistent lubrication of the traverse mechanism for the vessel's anti-aircraft armament increases its rotation speed.
+modification/ship_additional_armor;Additional armor
+modification/ship_additional_armor/desc;Added sandbags and gun shields create additional protection against fire and shrapnel damage.
+modification/ship_anti_fragmentation_protection;Anti-shrapnel lining
+modification/ship_anti_fragmentation_protection/desc;The addition of an anti-shrapnel lining provides extra protection for the crew and modules against shrapnel.
+modification/new_main_caliber_cannons;Gun liner maintenance
+modification/new_main_caliber_cannons/desc;Proper maintencance and, if necessary, replacement of the gun liner increases the gun's accuracy and reduces its fire spread.
+modification/ship_main_caliber_support;Artillery support
+modification/ship_main_caliber_support/desc;Calling in artillery support launches a spread of artillery shells at the targeted point.
+modification/torpedoes_movement_mode;Torpedo tuning
+modification/torpedoes_movement_mode/desc;A decrease in the maximum speed of the torpedo increases its range.
+modification/ship_depth_charge;Depth charges
+modification/ship_depth_charge/desc;Equipping depth charges allows for their deployment to damage nearby small vessels and submarines.
+modification/ship_venting;Ventilation maintenance
+modification/ship_venting/desc;Proper maintencance and, if necessary, replacement of the ventination system ensures consistent, clean air-flow, reducing the risk of the crew inhaling smoke during a fire.
+modification/ship_ammo_wetting;Wet racks
+modification/ship_ammo_wetting/desc;The storage of ammunition in wet racks reduces the risk of fire and ammunition detonation in the event of a hit to the ammunition racks.
+modification/ship_rocket_launcher;Rocket launcher
+modification/ship_rocket_launcher/desc;The installation of a rocket launcher allows the vessel to fire rockets or rocket-propelled bombs while at sea.
+modification/ship_mines;Naval mines
+modification/ship_mines/desc;The carrying of naval mines allows for their deployment while at sea.
+modification/waterMassVelTime_change;%s to unwatering time
+modification/speedYawK_change;%s to main caliber gun pitch speed
+modification/speedPitchK_change;%s to main caliber turret yaw speed
+modification/mainSpeedYawK_change;%s to main caliber gun pitch speed
+modification/mainSpeedPitchK_change;%s to main caliber turret yaw speed
+modification/auxSpeedYawK_change;%s to auxiliary caliber gun pitch speed
+modification/auxSpeedPitchK_change;%s to auxiliary caliber turret yaw speed
+modification/aaSpeedYawK_change;%s to anti-air gun pitch speed
+modification/aaSpeedPitchK_change;%s to anti-air turret yaw speed
+modification/shipDistancePrecision_change;%s to rangefinder accuracy
+modification/extinguisherMinTime_change;%s to minimum fire extinguishing time
+modification/extinguisherMaxTime_change;%s to maximum fire extinguishing time
+modification/turnRadius_change;%s to turning radius
+modification/turnTime_change;%s to turning time
+modification/speedShip_change;%s to maximum forward speed
+modification/reverseSpeed_change;%s to maximum reverse speed
+modification/timeToMaxSpeed_change;%s to time to reach the maximum forward speed
+modification/timeToMaxReverseSpeed_change;%s to time to reach the maximum reverse speed
+modification/distToLiveTorpedo_change;%s to torpedo max distance
+modification/maxSpeedInWaterTorpedo_change;%s to torpedo max speed
+modification/diveDepthTorpedo_change;%s to torpedo movement depth
+modification/respawnCost_killScore_exp_fighter_change;{valueWithMod} SP for all fighters when a scouted target is destroyed by an ally (default value {valueWithoutMod})
+modification/respawnCost_killScore_exp_assault_change;{valueWithMod} SP for all attackers when a scouted target is destroyed by an ally (default value {valueWithoutMod})
+modification/respawnCost_killScore_exp_bomber_change;{valueWithMod} SP for all bombers when a scouted target is destroyed by an ally (default value {valueWithoutMod})
+modification/respawnCost_hitScore_exp_fighter_change;{valueWithMod} SP for all fighters when a scouted target is critically damaged by an ally (default value {valueWithoutMod})
+modification/respawnCost_hitScore_exp_assault_change;{valueWithMod} SP for all attackers when a scouted target is critically damaged by an ally (default value {valueWithoutMod})
+modification/respawnCost_hitScore_exp_bomber_change;{valueWithMod} SP for all bombers when a scouted target is critically damaged by an ally (default value {valueWithoutMod})
+modification/respawnCost_scoutScore_exp_fighter_change;{valueWithMod} SP for all fighters when a target is scouted by a player (default value {valueWithoutMod})
+modification/respawnCost_scoutScore_exp_assault_change;{valueWithMod} SP for all attackers when a target is scouted by a player (default value {valueWithoutMod})
+modification/respawnCost_scoutScore_exp_bomber_change;{valueWithMod} SP for all bombers when a target is scouted by a player (default value {valueWithoutMod})
+modification/respawnCost_killScore_aircrafts_change;{valueWithMod} SP for all aircraft when a scouted target is destroyed by an ally (default value {valueWithoutMod})
+modification/respawnCost_hitScore_aircrafts_change;{valueWithMod} SP for all aircraft when a scouted target is critically damaged by an ally (default value {valueWithoutMod})
+modification/respawnCost_scoutScore_aircrafts_change;{valueWithMod} SP for all aircraft when a target is scouted by a player (default value {valueWithoutMod})
+modification/healingTimeMultiplier_change;%s to crew replenishment rate
+modification/repairSpeedMultiplier_change;%s to repair rate
+modification/extinguisherReductionTime_change;%s to fire extinguishing time
+modification/extinguisherActivationAdditionalCount_change;{valueColored} {value=additional use in battle/additional uses in battle}
+modification/medicalkitAdditionalCount_change;{valueColored} {value=additional use in battle/additional uses in battle}
+modification/ship_acoustic_countermeasure_system_mod;Countermeasure
+modification/12mm_usa_M2HB_APIT_navy_ammo_pack;.50 APIT belt
+modification/15mm_ger_ap_navy_ammo_pack;15 mm APIT belts
+modification/15mm_ger_he_navy_ammo_pack;15 mm HEIT belts
+15mm_ger_ap_navy/name;15 mm APIT belts
+15mm_ger_he_navy/name;15 mm HEIT belts
+12mm_usa_M2HB_APIT_navy/name;.50 APIT belt
+12mm_usa_M2HB_AP_navy/name;.50 AP belt
+modification/12mm_usa_M2HB_API_navy_ammo_pack;.50 API belt
+modification/12mm_usa_M2HB_AP_navy_ammo_pack;.50 AP belt
+modification/7_7mm_lewis_navy_ap_ammo_pack;7.7 mm AP belt
+modification/7_7mm_lewis_navy_incendiary_pack;7.7 mm API belt
+7_7mm_lewis_navy_ap/name;7.7 mm AP belt
+7_7mm_lewis_navy_incendiary/name;7.7 mm API belt
+13mm_type93_naval_heit/name;13 mm HEIT belt
+13mm_type93_naval_heit_ammo_pack/name;13 mm HEIT belt
+13mm_type93_naval_apt_ammo_pack/name;13 mm APT belt
+13mm_type93_naval_apt/name;13 mm APT belt
+20mm_ger_c38_navy_ap/name;20 mm APT magazines
+20mm_ger_c38_navy_he/name;20 mm HET magazines
+modification/20mm_ger_c38_navy_ap_ammo_pack;20 mm APT magazines
+modification/20mm_ger_c38_navy_he_ammo_pack;20 mm HET magazines
+modification/20mm_oerlikon_navy_he_ammo_pack;20 mm HE magazines
+modification/20mm_oerlikon_navy_ap_ammo_pack;20 mm AP magazines
+25mm_type96_naval_ap/name;25 mm APT belt
+25mm_type96_naval_incendiary/name;25 mm HEIT belts
+20mm_jp_type98_naval_he/name;20 mm HET magazines
+20mm_jp_type98_naval_ap/name;20 mm APT magazines
+40mm_type91_naval_he/name;40 mm HE clips
+40mm_type91_naval_sap/name;40 mm AP clips
+40mm_type91_naval_dist_fuse/name;40 mm HE-TF clips
+20mm_oerlikon_navy_he/name;20 mm HE
+20mm_oerlikon_navy_ap/name;20 mm AP
+modification/76mm_usa_AA_radio_fuze_ammo_pack;76 mm HE-RF
+modification/76mm_usa_navy_AP_ammo_pack;76 mm AP
+76mm_usa_navy_AP/name;76 mm AP
+88mm_ger_flak36_navy_disnant_fuse_HE/name;88 mm HE (distant fuse)
+modification/88mm_ger_flak36_navy_disnant_fuse_HE_ammo_pack;88 mm HE (distant fuse)
+modification/20mm_ger_flak38_HE_ammo_pack;20 mm HE magazines
+modification/20mm_ger_flak38_AP_ammo_pack;20 mm AP magazines
+20mm_ger_flak38_HE/name;20 mm HE magazines
+20mm_ger_flak38_AP/name;20 mm AP magazines
+37mm_ger_skc30_HE/name;37 mm Pzgr Zerl
+37mm_ger_skc30_APHE/name;37 mm Spgr Lh 37
+modification/37mm_ger_skc30_HE_ammo_pack;37 mm Pzgr Zerl
+modification/37mm_ger_skc30_APHE_ammo_pack;37 mm Spgr Lh 37
+37mm_ger_flak_navy_he/name;37 mm HE clips
+37mm_ger_flak_navy_ap/name;37 mm APT clips
+modification/37mm_ger_flak_navy_he_ammo_pack;37 mm HE clips
+modification/37mm_ger_flak_navy_ap_ammo_pack;37 mm APT clips
+modification/ship_mortar;Mortar
+modification/ship_mortar/desc;Mortar
+40mm_bofors_l60_navy_ap/name;40 mm AP clips
+40mm_bofors_l60_navy_he/name;40 mm HE clips
+modification/40mm_bofors_l60_navy_ap_ammo_pack;40 mm AP clips
+modification/40mm_bofors_l60_navy_he_ammo_pack;40 mm HE clips
+modification/152mm_it_naval_APHE_delayed_fuse_ammo_pack;152 mm AP (delayed fuse)
+modification/152mm_it_naval_HE_delayed_fuse_ammo_pack;152 mm HE (delayed fuse)
+modification/76mm_ger_dm261_HE_radio_fuse_ammo_pack;76 mm HE-RF
+25mm_2m3_he_navy/name;25 mm HE magazines
+25mm_2m3_ap_navy/name;25 mm AP magazines
+modification/12mm_vickers_mk5_navy_API_ammo_pack;12.7 mm API
+modification/12mm_vickers_mk5_navy_HEI_ammo_pack;12.7 mm I
+12mm_vickers_mk5_navy_HEI/name;12.7 mm I
+12mm_vickers_mk5_navy_API/name;12.7 mm API
+12mm_dshk_navy_he/name;12.7 mm HE belts
+12mm_dshk_navy_ap/name;12.7 mm APIT belts
+modification/new_gun;New MGs and cannons
+modification/30mm_mk_103_38_AP_navy_ammo_pack;30 mm API magazines
+modification/30mm_mk_103_38_APCR_navy_ammo_pack;30 mm HEIT magazines
+30mm_mk_103_38_AP_navy/name;30 mm API magazines
+30mm_mk_103_38_APCR_navy/name;30 mm HEIT magazines
+modification/ship_bomb_mortar;Depth charge projector
+modification/ship_bomb_mortar/desc;Installation of a depth charge projector allows for the firing of depth charges across a larger radius.
+modification/ship_pg02_new_autocannon;JM61-M
+modification/ship_pg02_new_autocannon/desc;The replacement of the JM61-RFS rotary cannon with a JM61-M rotary cannon allows for a longer firing time at the expense of a reduced fire rate.
+modification/ship_p493_freccia_torpedoes;Torpedo tubes
+modification/ship_p493_freccia_torpedoes/desc;An ability to install two torpedo tubes instead of the second 40 mm/70 Breda-Bofors type 107 auto cannon
+modification/37mm_ussr_61K_naval_AP_HE_ammo_pack;37mm APIT clips
+modification/cd_98_main_rotor;Replacing helicopter blades
+modification/cd_98_main_rotor/desc;Replacement of worn helicopter blades with a new one.
+modification/cd_98_main_rotor_type2;Replacing helicopter blades
+modification/cd_98_main_rotor_type2/desc;Replacement of worn helicopter blades with a new one.
+modification/cd_98_main_rotor_type3;Replacing helicopter blades
+modification/cd_98_main_rotor_type3/desc;Replacement of worn helicopter blades with a new one.
+modification/heli_structure;Helicopter frame
+modification/heli_structure/desc;Replacement of damaged airframe elements increases overall durability and flight performance due to weight reduction.
+modification/heli_flak_jacket;Flak jacket
+modification/heli_flak_jacket/desc;Allows partial protection of the crew from fragmentation effect of flak and aerial shells.
+modification/heli_flak_jacket_and_armor;Flak jacket
+modification/heli_flak_jacket_and_armor/desc;Allows partial protection of the crew from fragmentation effect of flak and aerial shells.
+modification/mi_24_s5_2/desc;Allows installation of additional unguided S-5 rockets.
+modification/mi_24_s5_2;UB-16-57
+modification/mi_24_s8/desc;Allows installation of additional unguided S-8 rockets.
+modification/mi_24_s8;B-8V20
+modification/mi_24_s8_block/desc;Allows installation of unguided S-8KO rockets.
+modification/mi_24_s8_block;S-8KO
+modification/yak_38_b8m1/desc;Allows installation of additional unguided S-8 rockets.
+modification/yak_38_b8m1;B-8M1
+modification/su_s5_s8/desc;Allows installation of additional unguided S-8 / S-8 rockets.
+modification/su_s5_s8;S-5/S-8
+modification/it_al_25/desc;Allows the installation of unguided ARF/8M3 rockets.
+modification/it_al_25;ARF/8M3
+modification/mi_24_su_9M17M/desc;Allows installation of 2P32 / K-4V pylons mounting 9M17 radio-guided air-to-ground missilees.
+modification/mi_24_su_9M17M;2P32 / K-4V (9M17)
+modification/mi_8_su_9M14/desc;Allows installation of 9M14 wire-guided air-to-ground missiles.
+modification/mi_8_su_9M14;9М14
+modification/mi_35_9M114_4/desc;Allows installation of 9M114 missiles.
+modification/mi_35_9M114_4;APU-8/4-U 4 Shturm
+modification/mi_35_9M114_8/desc;Allows installation of additional 9M114 missiles.
+modification/mi_35_9M114_8;APU-8/4-U 8 Shturm
+modification/mi_35_9M120_4/desc;Allows installation of 9M120 missiles.
+modification/mi_35_9M120_4;APU-8/4-U 4 Ataka
+modification/ka_52_9m120_6/desc;Allows installation of 9M120 missiles.
+modification/ka_52_9m120_6;APU-6
+modification/mi_35_9M120_8/desc;Allows installation of additional 9M120 missiles.
+modification/mi_35_9M120_8;APU-8/4-U 8 Ataka
+modification/mi_24_su_9M114/desc;Allows installation of 9M114 missiles.
+modification/mi_24_su_9M114;RP-2-149TK
+modification/mi_24_su_9M114_2/desc;Allows installation of additional 9M114 missiles.
+modification/mi_24_su_9M114_2;RP-2-149TK/2
+modification/cn_q5_type_100/desc;Allows the installation of 100 kg bombs.
+modification/cn_q5_type_100;Type 100-2
+modification/cn_q5_type_250/desc;Allows installation of Type 250-2 250 kg bombs.
+modification/cn_q5_type_250;Type 250-2
+modification/cn_q5_type_500/desc;Allows installation of Type 500-3 500 kg bombs.
+modification/cn_q5_type_500;Type 500-3
+modification/cn_type_250_ls_6/desc;Allows the installation of Type 250 bombs and LS6 250 kg guided bombs.
+modification/cn_type_250_ls_6;Type 250 / LS6
+modification/cn_type_500_ls_6/desc;Allows the installation of Type 500 bombs and LS6 500 kg guided bombs.
+modification/cn_type_500_ls_6;Type 500 / LS6
+modification/su_17_ofab_100/desc;Allows installation of 100 kg bombs.
+modification/su_17_ofab_100;OFAB-100
+modification/mi_24_fab_250/desc;Allows installation of 250 kg bombs.
+modification/mi_24_fab_250;FAB-250
+modification/mi_24_fab_500/desc;Allows installation of 500 kg bombs.
+modification/mi_24_fab_500;FAB-500
+modification/mi_4_fab_100/desc;Allows installation of 100 kg bombs.
+modification/mi_4_fab_100;FAB-100
+modification/su_45_36_an_torpedo/desc;Allows installation of torpedo.
+modification/su_45_36_an_torpedo;45-36АН
+modification/su_fab_100/desc;Allows installation of 50 kg bombs.
+modification/su_fab_100;FAB-100
+modification/su_fab_250/desc;Allows installation of 100 kg bombs.
+modification/su_fab_250;FAB-250
+modification/su_fab_500/desc;Allows installation of 250 kg bombs.
+modification/su_fab_500;FAB-500
+modification/su_fab_1000/desc;Allows installation of 1000 kg bombs.
+modification/su_fab_1000;FAB-1000
+modification/su_fab_1500/desc;Allows the installation of 1500 kg bombs.
+modification/su_fab_1500;FAB-1500
+modification/fr_50kg_type_61c/desc;Allows installation of 50 kg bombs.
+modification/fr_50kg_type_61c;Type 61C
+modification/ah_1g_M129/desc;Allows installation of 40 mm M129 automatic grenade launchers.
+modification/ah_1g_M129;M129
+modification/ah_1g_M75/desc;Allows installation of 40 mm M75 automatic grenade launchers.
+modification/ah_1g_M75;M75
+modification/ah_1_TOW/desc;Allows installation of BGM-71C ITOW wire-guided anti-tank guided missiles.
+modification/ah_1_TOW;BGM-71C
+modification/ah_1_TOW_2/desc;Allows installation of additional BGM-71C ITOW wire-guided anti-tank guided missiles.
+modification/ah_1_TOW_2;BGM-71C (x8)
+modification/ah_1_TOW2/desc;Allows installation of BGM-71D-5 TOW-2 wire-guided anti-tank guided missiles.
+modification/ah_1_TOW2;BGM-71D-5
+modification/tr_umtas_x4/desc;Allows installation of UMTAS missiles.
+modification/tr_umtas_x4;UMTAS
+modification/ah_1_TOW2_2/desc;Allows installation of additional BGM-71D-5 TOW-2 wire-guided anti-tank guided missiles.
+modification/ah_1_TOW2_2;BGM-71D-5 (x8)
+modification/ah_1_TOW_16/desc;Allows installation of BGM-71C ITOW wire-guided anti-tank guided missiles.
+modification/ah_1_TOW_16;BGM-71C (x16)
+modification/ah_1_TOW_2_16/desc;Allows installation of BGM-71D-5 TOW-2 wire-guided anti-tank guided missiles.
+modification/ah_1_TOW_2_16;BGM-71D-5 (x16)
+modification/cn_ba_9/desc;Allows installation of AKD09 missiles.
+modification/cn_ba_9;AKD09
+modification/cn_akd_9/desc;Allows installation of AKD09 missiles.
+modification/cn_akd_9;AKD09
+modification/cn_akd_10/desc;Allows installation of AKD10 missiles.
+modification/cn_akd_10;AKD10
+modification/ah_1_m200_2/desc;Allows installation of FFAR Mighty Mouse unguided rockets.
+modification/ah_1_m200_2;M200A1
+modification/ah_1_m261_hydra_70/desc;Allows installation of Hydra-70 unguided rockets.
+modification/ah_1_m261_hydra_70;M261 LWL
+modification/uh_1_xm159/desc;Allows installation of additional FFAR Mighty Mouse unguided rockets.
+modification/uh_1_xm159;XM159
+modification/ah_AGM_22/desc;Allows installation of AGM-22 missiles.
+modification/ah_AGM_22;M156 AGM
+modification/mi_35_su_9M120/desc;Allows installation of 9M120 missiles.
+modification/mi_35_su_9M120;9M120
+modification/mi_28_C13/desc;Allows installation of S-13 unguided rockets.
+modification/mi_28_C13;B-13L
+modification/mi_28nm_9M123/desc;Allows installation of 9M123 missiles.
+modification/mi_28nm_9M123;9M123
+modification/us_hydra_70/desc;Allows installation of Hydra-70 unguided rockets.
+modification/us_hydra_70;Hydra 70
+modification/sa_ss11/desc;Allows installation of SS.11 missiles.
+modification/sa_ss11;SS.11
+modification/rb_52/desc;Allows installation of robot 52 anti-tank guided missile.
+modification/rb_52;rb 52
+modification/br_skyfire_70/desc;Allows the installation of Skyfire-70 unguided rockets.
+modification/br_skyfire_70;Skyfire-70
+40mm_qf_mkxv_he/name;40 mm HE
+40mm_qf_mkxv_ap/name;40 mm AP
+20mm_shvak_navy_he/name;20 mm HE belts
+20mm_shvak_navy_ap/name;20 mm AP belts
+20mm_ger_mg151_20_navy_ap/name;20 mm AP belts
+20mm_ger_mg151_20_navy_he/name;20 mm HE belts
+37mm_ussr_70K_naval_HE/name;37 mm HE clips
+37mm_ussr_70K_naval_AP/name;37 mm AP clips
+modification/37mm_ussr_70K_naval_HE_ammo_pack;37 mm HE clips
+modification/37mm_ussr_70K_naval_AP_ammo_pack;37 mm AP clips
+20mm_it_breda_he/name;20 mm HE belts
+20mm_it_breda_ap/name;20 mm AP belts
+30mm_ussr_naval_he/name;30 mm HE belts
+30mm_ussr_naval_he_frag/name;30 mm HE-I belts
+modification/mig_15_ish_fab_250/desc;Allows installation of 250 kg bombs.
+modification/mig_15_ish_fab_250;FAB-250
+modification/mig_15_ish_fab_500/desc;Allows installation of 500 kg bombs.
+modification/mig_15_ish_fab_500;FAB-500
+modification/mig_15_ish_fab_100/desc;Allows installation of 100 kg bombs.
+modification/mig_15_ish_fab_100;FAB-100
+modification/uh_1d_lr68/desc;Allows installation of TDA unguided rockets.
+modification/uh_1d_lr68;IL.68.22.I
+modification/us_2_75_in_ffar_lau_3a/desc;Allows installation LAU-3/A rocket pods mounting of 2.75-inch FFAR Mk 4 rockets.
+modification/us_2_75_in_ffar_lau_3a;LAU-3/A
+modification/us_2_75_in_ffar_lau_x6a/desc;Allows installation of FFAR unguided rockets.
+modification/us_2_75_in_ffar_lau_x6a;Aero X-6A
+modification/us_2_75_in_ffar_lau_32/desc;Allows installation of FFAR / FZ unguided rockets.
+modification/us_2_75_in_ffar_lau_32;LAU-32
+modification/us_2_75_in_ffar_lau_51/desc;Allows installation of FFAR unguided rockets.
+modification/us_2_75_in_ffar_lau_51;LAU-51
+modification/us_hydra_70_lau_68/desc;Allows installation of HYDRA-70 unguided rockets.
+modification/us_hydra_70_lau_68;LAU-68
+modification/us_2_75_in_ffar_rl_7/desc;Allows installation of Hydra unguided rockets.
+modification/us_2_75_in_ffar_rl_7;RL-7
+modification/f4c_zuni/desc;Allows installation of Zuni unguided rockets.
+modification/f4c_zuni;LAU-10/A
+modification/f8u_zuni/desc;Allows installation of additional Zuni unguided rockets for LAU-35A.
+modification/f8u_zuni;LAU-35A
+modification/t2_rl4_zuni/desc;Allows installation of Zuni unguided rockets.
+modification/t2_rl4_zuni;RL-4
+modification/jp_jlau_3a/desc;Allows installation JLAU-3/A rocket pods mounting of 2.75-inch FFAR Mk 4 rockets.
+modification/jp_jlau_3a;JLAU-3/A
+modification/mig_15bis_ish_c1of/desc;Allows installation of TRS-212 unguided rockets.
+modification/mig_15bis_ish_c1of;ORO-212
+modification/swe_m49_56;psrak m/49/56
+modification/swe_m49_56/desc;Allows installation of 14,5 cm pansarsprängraket m/49/56 unguided rockets.
+modification/swe_m57b;srak m/57B
+modification/swe_m57b/desc;"Allows installation of 7,5 cm sprängraket m/57B ""Gerda"" unguided rockets."
+modification/swe_m56d;srak m/56D
+modification/swe_m56d/desc;Allows installation of 13,5 cm sprängraket m/56D unguided rockets.
+modification/swe_rb24/desc;Allows installation of robot 24 air-to-air missiles.
+modification/swe_rb24;rb 24
+modification/swe_rb24j/desc;Allows installation of robot 24J air-to-air missiles.
+modification/swe_rb24j;rb 24J
+modification/swe_135mm_m70b;psrak m/70 (ö hk sar m/70)
+modification/swe_135mm_m70b/desc;"Allows installation of 13,5 cm pansarsprängraket m/70 ""Moses"" (ögonblickligt högkänsligt spetsanslagsrör m/70) unguided rockets."
+modification/swe_rb71/desc;Allows installation of robot 71 air-to-air missiles.
+modification/swe_rb71;rb 71
+modification/swd_rb99/desc;Allows the installation of robot 99 air-to-air missiles.
+modification/swd_rb99;rb 99
+modification/us_aim_7d/desc;Allows installation of AIM-7D air-to-air missiles.
+modification/us_aim_7d;AIM-7D
+modification/us_aim_7c/desc;Allows installation of AIM-7С air-to-air missiles.
+modification/us_aim_7c;AIM-7С
+modification/us_aim_7e/desc;Allows installation of AIM-7E air-to-air missiles.
+modification/us_aim_7e;AIM-7E
+modification/us_aim_7e2/desc;Allows installation of AIM-7E-2 air-to-air missiles.
+modification/us_aim_7e2;AIM-7E-2
+modification/us_aim_7f/desc;Allows installation of AIM-7F air-to-air missiles.
+modification/us_aim_7f;AIM-7F
+modification/us_aim_7m/desc;Allows installation of AIM-7M air-to-air missiles.
+modification/us_aim_7m;AIM-7M
+modification/us_aim_7p/desc;Allows the installation of AIM-7P-2 air-to-air missiles.
+modification/us_aim_7p;AIM-7P-2
+modification/us_aim_54a/desc;Allows installation of AIM-54A air-to-air missiles.
+modification/us_aim_54a;AIM-54A
+modification/us_aim_54c/desc;Allows installation of AIM-54C air-to-air missiles.
+modification/us_aim_54c;AIM-54C
+modification/us_aim_120a/desc;Allows installation of AIM-120A air-to-air missiles.
+modification/us_aim_120a;AIM-120A
+modification/us_aim_120b/desc;Allows installation of AIM-120B air-to-air missiles.
+modification/us_aim_120b;AIM-120B
+modification/sa_r_darter/desc;Allows installation of V4 Radar Darter air-to-air missiles.
+modification/sa_r_darter;V4
+modification/il_derby/desc;Allows installation of Derby air-to-air missiles.
+modification/il_derby;Derby
+modification/it_aspide/desc;Allows installation of Aspide air-to-air missiles.
+modification/it_aspide;Aspide
+modification/ir_sedjil/desc;Allows the installation of AIM-23C Sajīl air-to-air missiles.
+modification/ir_sedjil;AIM-23C
+modification/ir_fakour_90/desc;Allows the installation of AIM-23B Fakūr-90 air-to-air missiles.
+modification/ir_fakour_90;AIM-23B
+modification/ir_yasser/desc;Allows the installation of Yāsir guided missiles.
+modification/ir_yasser;Yāsir
+modification/uk_skyflash/desc;Allows installation of Skyflash air-to-air missiles.
+modification/uk_skyflash;Skyflash
+modification/uk_skyflash_temp/desc;Allows installation of Skyflash SuperTEMP air-to-air missiles.
+modification/uk_skyflash_temp;Skyflash SuperTEMP
+modification/us_aim_9b/desc;Allows installation of AIM-9B air-to-air missiles.
+modification/us_aim_9b;AIM-9B
+modification/us_aim_9b_fgw_2/desc;Allows installation of AIM-9B FGW.2 air-to-air missiles.
+modification/us_aim_9b_fgw_2;AIM-9B FGW.2
+modification/us_aim_9d/desc;Allows installation of AIM-9D air-to-air missiles.
+modification/us_aim_9d;AIM-9D
+modification/us_aim_9g/desc;Allows installation of AIM-9G air-to-air missiles.
+modification/us_aim_9g;AIM-9G
+modification/us_aim_9h/desc;Allows installation of AIM-9H air-to-air missiles.
+modification/us_aim_9h;AIM-9H
+modification/us_aim_9l/desc;Allows installation of AIM-9L air-to-air missiles.
+modification/us_aim_9l;AIM-9L
+modification/us_aim_9l_i/desc;Allows the installation of AIM-9L/I air-to-air missiles.
+modification/us_aim_9l_i;AIM-9L/I
+modification/us_aim_9m/desc;Allows installation of AIM-9M-4 air-to-air missiles.
+modification/us_aim_9m;AIM-9M-4
+modification/swd_rb74/desc;Allows installation of robot 74 air-to-air missiles.
+modification/swd_rb74;rb 74
+modification/swd_rb74m/desc;Allows the installation of robot 74 (Renovation, Modifikation) Sidewinder air-to-air missiles.
+modification/swd_rb74m;rb 74 (REMO)
+modification/us_aim_9p/desc;Allows installation of AIM-9P-3 air-to-air missiles.
+modification/us_aim_9p;AIM-9P-3
+modification/us_aim_9p4/desc;Allows installation of AIM-9P-4 air-to-air missiles.
+modification/us_aim_9p4;AIM-9P-4
+modification/f5_us_aim_9b/desc;Allows installation of AIM-9B air-to-air missiles and Flares/Chaff.
+modification/f5_us_aim_9b;AIM-9B Flares/Chaff
+modification/f5_us_aim_9e/desc;Allows installation of AIM-9E air-to-air missiles and Flares/Chaff.
+modification/f5_us_aim_9e;AIM-9E Flares/Chaff
+modification/fr_matra_r_530e/desc;Allows installation of Matra R530E air-to-air missiles.
+modification/fr_matra_r_530e;Matra R530E
+modification/fr_matra_r_530/desc;Allows installation of Matra R530 air-to-air missiles.
+modification/fr_matra_r_530;Matra R530
+modification/fr_matra_r_530_f/desc;Allows installation of Matra Super 530F air-to-air missiles.
+modification/fr_matra_r_530_f;Matra 530F
+modification/fr_matra_r_530_d/desc;Allows installation of Matra Super 530D air-to-air missiles.
+modification/fr_matra_r_530_d;Matra 530D
+modification/fr_matra_r_511/desc;Allows installation of Matra R511 air-to-air missiles.
+modification/fr_matra_r_511;Matra R511
+modification/fr_matra_r_550_magic_1/desc;Allows installation of Matra R550 Magic 1 air-to-air missiles.
+modification/fr_matra_r_550_magic_1;Matra R550 Magic 1
+modification/fr_matra_r_550_magic_2/desc;Allows installation of Matra R550 Magic 2 air-to-air missiles.
+modification/fr_matra_r_550_magic_2;Matra R550 Magic 2
+modification/fr_mica_em/desc;Allows the installation of MICA EM air-to-air missiles.
+modification/fr_mica_em;MICA EM
+modification/uk_fireflash/desc;Allows installation of Fireflash air-to-air missiles.
+modification/uk_fireflash;Fireflash
+modification/uk_aim_sraam/desc;Allows installation of SRAAM air-to-air missiles.
+modification/uk_aim_sraam;SRAAM
+modification/ah_1_AIM_9_LTC/desc;Allows installation of AIM-9 air-to-air missiles and MAW.
+modification/ah_1_AIM_9_LTC;AIM-9/MAW
+modification/ah_mk1_starstreak/desc;Allows installation of Starstreak air-to-air missiles.
+modification/ah_mk1_starstreak;ATASK
+modification/stinger_heli_false_thermal_targets/desc;Allows installation of AIM-92 air-to-air missiles and ICM.
+modification/stinger_heli_false_thermal_targets;AIM-92/ICM
+modification/AMASE_heli_false_thermal_targets/desc;Allows installation MAV and additional block ICM.
+modification/AMASE_heli_false_thermal_targets;AMASE
+modification/us_aim_9e/desc;Allows installation of AIM-9E air-to-air missiles.
+modification/us_aim_9e;AIM-9E
+modification/us_aim_9j/desc;Allows installation of AIM-9J air-to-air missiles.
+modification/us_aim_9j;AIM-9J
+modification/nord_aa_20/desc;Allows installation of Nord AA.20 air-to-air missiles.
+modification/nord_aa_20;Nord AA.20
+modification/sea_hawk_mk101/desc;Allows installation of AIM-9B air-to-air missiles.
+modification/sea_hawk_mk101;Mk. 101
+modification/us_aim_9c/desc;Allows installation of AIM-9C air-to-air missiles.
+modification/us_aim_9c;AIM-9C
+modification/aam_firestreak/desc;Allows installation of Firestreak air-to-air missiles.
+modification/aam_firestreak;Firestreak
+modification/aam_redtop/desc;Allows installation of Red Top air-to-air missiles.
+modification/aam_redtop;Red Top
+modification/fr_aam_shafrir/desc;Allows installation of Šafrir air-to-air missiles.
+modification/fr_aam_shafrir;Šafrir
+modification/fr_aam_shafrir_2/desc;Allows installation of Šafrir 2 air-to-air missiles.
+modification/fr_aam_shafrir_2;Šafrir 2
+modification/il_python_3/desc;Allows installation of Piton 3 air-to-air missiles.
+modification/il_python_3;Piton 3
+modification/mi_24_r_60/desc;Allows installation of APU-60 pylons mounting R-60 air-to-air missiles.
+modification/mi_24_r_60;R-60
+modification/mi_24_r_60_2/desc;Allows installation of APU-60-2 pylons mounting R-60 air-to-air missiles.
+modification/mi_24_r_60_2;R-60 x4
+modification/mi_24_r_60m/desc;Allows installation of APU-60-2 pylons mounting R-60M air-to-air missiles.
+modification/mi_24_r_60m;R-60M
+modification/mig_23mf_r_60mk/desc;Allows installation of APU-60-2 pylons mounting R-60MK air-to-air missiles.
+modification/mig_23mf_r_60mk;R-60MK
+modification/mig_19_r3s/desc;Allows installation of APU-3S pylons mounting R-3S air-to-air missiles.
+modification/mig_19_r3s;R-3S
+modification/mig_21_r3r/desc;Allows installation of APU-3S pylons mounting R-3R air-to-air missiles.
+modification/mig_21_r3r;R-3R
+modification/mig_23_r_23/desc;Allows installation of APU-23 pylons mounting R-23R amd R-23T air-to-air missiles.
+modification/mig_23_r_23;R-23R / T
+modification/mig_23_r_23r/desc;Allows installation of APU-23M pylons mounting R-23R air-to-air missiles.
+modification/mig_23_r_23r;R-23R
+modification/mig_23_r_23t/desc;Allows installation of APU-23M pylons mounting R-23T air-to-air missiles.
+modification/mig_23_r_23t;R-23T
+modification/mig_23_r_24r/desc;Allows installation of APU-23M pylons mounting R-24R air-to-air missiles.
+modification/mig_23_r_24r;R-24R
+modification/mig_23_r_24t/desc;Allows installation of APU-23M pylons mounting R-24T air-to-air missiles.
+modification/mig_23_r_24t;R-24T
+modification/mig_23_r_24/desc;Allows installation of APU-23M pylons mounting R-24R / R-24T air-to-air missiles.
+modification/mig_23_r_24;R-24R / T
+modification/mig_19_pl2/desc;Allows installation of PL2 air-to-air missiles.
+modification/mig_19_pl2;PL2
+modification/j_7_pl5b/desc;Allows installation of PL5B air-to-air missiles.
+modification/j_7_pl5b;PL5B
+modification/cn_pl5c/desc;Allows the installation of PL5C air-to-air missiles.
+modification/cn_pl5c;PL5C
+modification/cn_pl5e2/desc;Allows the installation of PL5EII air-to-air missiles.
+modification/cn_pl5e2;PL5EII
+modification/j_7_pl7/desc;Allows installation of PL7 air-to-air missiles.
+modification/j_7_pl7;PL7
+modification/jp_aam3/desc;Allows the installation of AAM-3 air-to-air missiles.
+modification/jp_aam3;AAM-3
+modification/jp_aam4/desc;Allows the installation of AAM-4 air-to-air missiles.
+modification/jp_aam4;AAM-4
+modification/cn_pl8/desc;Allows installation of PL8 air-to-air missiles.
+modification/cn_pl8;PL8
+modification/cn_pl8b/desc;Allows installation of PL8B air-to-air missiles.
+modification/cn_pl8b;PL8B
+modification/cn_pl11/desc;Allows installation of PL11 air-to-air missiles.
+modification/cn_pl11;PL11
+modification/cn_pl12/desc;Allows the installation of PL12 air-to-air missiles.
+modification/cn_pl12;PL12
+modification/cn_sd10/desc;Allows the installation of SD10A air-to-air missiles.
+modification/cn_sd10;SD10A
+modification/cn_pf10/desc;Allows installation of PF10 air-to-air missile pylons.
+modification/cn_pf10;PF10
+modification/mig_19_r13m/desc;Allows installation of APU-13MTE pylons mounting R-13M1 air-to-air missiles.
+modification/mig_19_r13m;R-13M1
+modification/us_500lb_m64/desc;Allows installation of 500 lb AN/M64A1 bombs.
+modification/us_500lb_m64;AN/M64A1
+modification/us_500lb_m82/desc;Allows installation of 500 lb Mk 82 Mod 0 bombs.
+modification/us_500lb_m82;Mk 82 Mod 0
+modification/us_500lb_m82_2/desc;Allows installation of additional 500 lb Mk 82 Mod 0 bombs.
+modification/us_500lb_m82_2;Mk 82 Mod 0 (x4)
+modification/us_mine_mk13_mod0/desc;Allows installation of 1000 lb Mk 13 Mod 0 mines.
+modification/us_mine_mk13_mod0;Mk 13 Mod 0
+modification/us_1000lb_m83/desc;Allows installation of 1000 lb Mk 83 Mod 0 bombs.
+modification/us_1000lb_m83;Mk 83 Mod 0
+modification/us_1000lb_m83_2/desc;Allows installation of additional 1000 lb Mk 83 Mod 0 bombs.
+modification/us_1000lb_m83_2;Mk 83 Mod 0 (x4)
+modification/us_250lb_anm57/desc;Allows installation of 250 lb AN/M57 bombs.
+modification/us_250lb_anm57;AN/M57
+modification/us_500lb_anm64a1/desc;Allows installation of 500 lb AN/M64A1 bombs.
+modification/us_500lb_anm64a1;AN/M64A1
+modification/us_250lb_mk81/desc;Allows installation of 250 lb Mk 81 Mod 0 bombs.
+modification/us_250lb_mk81;Mk 81 Mod 0
+modification/us_500lb_mk82/desc;Allows installation of 500 lb Mk 82 Mod 0 bombs.
+modification/us_500lb_mk82;Mk 82 Mod 0
+modification/us_750lb_m117a1/desc;Allows installation of 750 lb M117 bombs.
+modification/us_750lb_m117a1;M117
+modification/us_1000lb_mk83/desc;Allows installation of 1000 lb Mk 83 Mod 0 bombs.
+modification/us_1000lb_mk83;Mk 83 Mod 0
+modification/us_2000lb_mk84/desc;Allows installation of 2000 lb Mk 84 Mod 0 bombs.
+modification/us_2000lb_mk84;Mk 84 Mod 0
+modification/us_3000lb_mk118/desc;Allows installation of 3000 lb M118 bombs.
+modification/us_3000lb_mk118;M118
+modification/us_4000lb_anm56_box/desc;Allows installation of 4000 lb AN/M56 bombs.
+modification/us_4000lb_anm56_box;AN/M56
+modification/br_bafg_230/desc;Allows the installation of 230 kg bombs.
+modification/br_bafg_230;BAFG-230
+modification/br_bafg_460/desc;Allows the installation of 460 kg bombs.
+modification/br_bafg_460;BAFG-460
+modification/br_bafg_920/desc;Allows the installation of 920 kg bombs.
+modification/br_bafg_920;BAFG-920
+modification/vliegtuigbom_100kg/desc;Allows the installation of 100 kg bombs.
+modification/vliegtuigbom_100kg;Vliegtuigbom 100kg
+modification/vliegtuigbom_300kg/desc;Allows the installation of 300 kg bombs.
+modification/vliegtuigbom_300kg;Vliegtuigbom 300kg
+modification/vliegtuigbom_400kg/desc;Allows the installation of 400 kg bombs.
+modification/vliegtuigbom_400kg;Vliegtuigbom 400kg
+modification/alkan_502_500lb/desc;Allows installation of 500 lb bombs.
+modification/alkan_502_500lb;ALCAN 502 500
+modification/alkan_502_1000lb/desc;Allows installation of 1000 lb bombs.
+modification/alkan_502_1000lb;ALCAN 502 1000
+modification/us_500lb_m64_2/desc;Allows installation of additional 500 lb bombs.
+modification/us_500lb_m64_2;M64/2
+modification/us_750lb_m117/desc;Allows installation of 750 lb bombs.
+modification/us_750lb_m117;M117
+modification/us_1000lb_m65/desc;Allows installation of 1000 lb bombs.
+modification/us_1000lb_m65;M65
+modification/us_2000lb_m66/desc;Allows installation of 2000 lb bombs.
+modification/us_2000lb_m66;M66
+modification/us_mk_77/desc;Allows installation of Mk 77 Mod 4 napalm bombs.
+modification/us_mk_77;Mk 77 Mod 4
+modification/us_blu27_b/desc;Allows installation of BLU-27/B fire bombs.
+modification/us_blu27_b;BLU-27/B
+modification/us_blu_1/desc;Allows installation of BLU-1/B fire bombs.
+modification/us_blu_1;BLU-1/B
+modification/br_binc_300/desc;Allows the installation of BINC-300 fire bombs.
+modification/br_binc_300;BINC-300
+modification/sws_400kg_febb_napalmbombe/desc;Allows installation of 400 kg FeBb Napalmbombe fire bombs.
+modification/sws_400kg_febb_napalmbombe;400 kg FeBb Napalmbombe
+modification/zb_500/desc;Allows installation of ZB-500 fire bombs.
+modification/zb_500;ZB-500
+modification/zb_360/desc;Allows installation of ZB-360 fire bombs.
+modification/zb_360;ZB-360
+modification/flamm_250/desc;Allows installation of Flamm C 250 fire bombs.
+modification/flamm_250;Flamm C 250
+modification/flamm_500/desc;Allows installation of Flamm C 500 fire bombs.
+modification/flamm_500;Flamm C 500
+modification/brandbomb_m58/desc;"Allows installation of 500 kg brandbomb m/58 ""Norma"" incendiary bombs."
+modification/brandbomb_m58;brandb m/58
+modification/aerea_559g/desc;Allows installation of Aerea 559G1 fire bombs.
+modification/aerea_559g;559G1
+modification/us_mk78_mod0/desc;Allows installation of 750 lb Mk 78 Mod 0 napalm bombs.
+modification/us_mk78_mod0;Mk 78 Mod 0
+modification/us_500lb_mk77_mod4/desc;Allows installation of Mk 77 Mod 4 napalm bombs.
+modification/us_500lb_mk77_mod4;Mk 77 Mod 4
+modification/us_750_lb_m116a2/desc;Allows installation of 750 lb M116A2 fire bombs.
+modification/us_750_lb_m116a2;M116A2
+modification/us_1000_lb_mk_79_mod_0/desc;Allows installation of 1000 lb Mk 79 Mod 1 napalm bombs.
+modification/us_1000_lb_mk_79_mod_0;Mk 79 Mod 1
+modification/il_m380l_mk2/desc;Allows installation of 380 liter Mk2 fire bombs.
+modification/il_m380l_mk2;Mk2
+modification/fr_460l_secan_63/desc;Allows installation of 460 liter Mk2 fire bombs.
+modification/fr_460l_secan_63;Mk2
+modification/ah_1_AGM_114_8/desc;Allows installation of AGM-114 Hellfire missiles.
+modification/ah_1_AGM_114_8;AGM-114
+modification/ah_1_AGM_114_16/desc;Allows installation of additional AGM-114 Hellfire missiles.
+modification/ah_1_AGM_114_16;AGM-114 2
+modification/ah_1_AIM_9/desc;Allows installation of AIM-9 missiles.
+modification/ah_1_AIM_9;AIM-9
+modification/heli_false_thermal_targets/desc;Allows shoots off countermeasures.
+modification/heli_false_thermal_targets;Flares/Shaff
+modification/aircrafts_false_thermal_targets/desc;Allows shoots off countermeasures.
+modification/aircrafts_false_thermal_targets;Flares/Shaff
+modification/q_5b_ltc/desc;Allows shoots off countermeasures.
+modification/q_5b_ltc;RWR/Flares
+modification/MAW_system_heli_false_thermal_targets/desc;Missile approach warning system and allows shoots off false heat targets.
+modification/MAW_system_heli_false_thermal_targets;MAW
+modification/MAW_system_heli_false_thermal_targets_large/desc;Missile approach warning system, allowing false heat target shoot off.
+modification/MAW_system_heli_false_thermal_targets_large;MAW
+modification/PIDS_false_thermal_targets/desc;Missile approach warning system, allowing false heat target shoot off.
+modification/PIDS_false_thermal_targets;MAW
+modification/uk_terma_mcp_false_thermal_targets/desc;Missile approach warning system, allowing false heat target shoot off.
+modification/uk_terma_mcp_false_thermal_targets;MAW
+modification/Radar_warning_receiver_system/desc;Radar warning receiver.
+modification/Radar_warning_receiver_system;RWR
+modification/q_5b/desc;Radar warning receiver.
+modification/q_5b;RWR
+modification/heli_screen_exhaust_device/desc;Allows installation devices that shield the exhaust.
+modification/heli_screen_exhaust_device;HIRSS
+modification/heli_atam_mistral/desc;Allows installation of Mistral missiles.
+modification/heli_atam_mistral;ATAM
+modification/cn_ty_90/desc;Allows installation of AKK90 missiles.
+modification/cn_ty_90;AKK90
+modification/mi_35_9M39/desc;Allows installation of 9M39 Igla missiles.
+modification/mi_35_9M39;9M39
+modification/mi_8_9M336/desc;Allows the installation of 9M336 Verba missiles.
+modification/mi_8_9M336;9M336
+modification/sa_heli_hot/desc;Allows installation of HOT missiles.
+modification/sa_heli_hot;HOT
+modification/sa_heli_hot_2/desc;Allows installation of HOT-2 missiles.
+modification/sa_heli_hot_2;HOT-2
+modification/cn_hj8/desc;Allows installation of AKD08A missiles.
+modification/cn_hj8;AKD08A
+modification/cn_hj8_c/desc;Allows installation of AKD08C missiles.
+modification/cn_hj8_c;AKD08C
+modification/cn_hj8_e/desc;Allows installation of AKD08E missiles.
+modification/cn_hj8_e;AKD08E
+modification/cn_hj8_h/desc;Allows installation of AKD08H missiles.
+modification/cn_hj8_h;AKD08H
+modification/sea_hawk_25lb_rocket_ap_mk1;25 lb A.P. Mark I
+modification/sea_hawk_25lb_rocket_ap_mk1/desc;Allows installation of 25 lb A.P. Mark I unguided rockets.
+modification/sea_hawk_25lb_rocket_ap_mk2;25 lb A.P. Mark II
+modification/sea_hawk_25lb_rocket_ap_mk2/desc;Allows installation of 25 lb A.P. Mark II unguided rockets.
+modification/sea_hawk_60lb_rocket_mk1;60 lb S.A.P. Mark I
+modification/sea_hawk_60lb_rocket_mk1/desc;Allows installation of 60 lb S.A.P. Mark I unguided rockets.
+modification/sea_hawk_2x250lb/desc;Allows installation of 250 lb bombs.
+modification/sea_hawk_2x250lb;250 LB
+modification/60lb_rocket_hvar_rp_3;HVAR/RP-3
+modification/60lb_rocket_hvar_rp_3/desc;Allows installation of HVAR/RP-3 unguided rockets.
+modification/sea_hawk_2x500lb/desc;Allows installation of 500 lb bombs.
+modification/sea_hawk_2x500lb;500 LB
+modification/buccaneer_540lb/desc;Allows installation of 540 lb bombs.
+modification/buccaneer_540lb;540 LB
+modification/sea_hawk_4x500lb/desc;Allows installation of additional 500 lb bombs.
+modification/sea_hawk_4x500lb;4 500 LB
+modification/sea_hawk_2x1000lb/desc;Allows installation of 1000 lb bombs.
+modification/sea_hawk_2x1000lb;1000 LB
+modification/swift_2x1000lb_mc/desc;Allows installation of 1000 lb bombs.
+modification/swift_2x1000lb_mc;1000 LB
+modification/stinger_aam/desc;Allows installation of AIM-92 Stinger missiles.
+modification/stinger_aam;AIM-92
+modification/us_agm_65a/desc;Allows installation of AGM-65A missiles.
+modification/us_agm_65a;AGM-65A
+modification/us_agm_65b/desc;Allows installation of AGM-65B missiles.
+modification/us_agm_65b;AGM-65B
+modification/us_agm_65d/desc;Allows installation of AGM-65D missiles.
+modification/us_agm_65d;AGM-65D
+modification/us_agm_65g/desc;Allows the installation of AGM-65G missiles.
+modification/us_agm_65f;AGM-65F
+modification/us_agm_65f/desc;Allows the installation of AGM-65F missiles.
+modification/us_agm_65g;AGM-65G
+modification/us_agm_65h/desc;Allows the installation of AGM-65H missiles.
+modification/us_agm_65h;AGM-65H
+modification/us_agm_65e/desc;Allows the installation of AGM-65E missiles.
+modification/us_agm_65e;AGM-65E
+modification/us_agm_65l/desc;Allows the installation of AGM-65L missiles.
+modification/us_agm_65l;AGM-65L
+modification/us_agm_130/desc;Allows the installation of AGM-130A-12 air-to-ground guided missiles.
+modification/us_agm_130;AGM-130A-12
+modification/uk_brimstone_dm/desc;Allows the installation of Brimstone guided missiles.
+modification/uk_brimstone_dm;Brimstone
+modification/atgm_mokopa/desc;Allows installation of ZT-6 Mokopa missiles.
+modification/atgm_mokopa;ZT-6 Mokopa
+modification/sa_zt_35_ingwe/desc;Allows the installation of ZT3A2 Ingwe missiles.
+modification/sa_zt_35_ingwe;ZT3A2 Ingwe
+modification/tiger_hot3/desc;Allows installation of HOT-3 missiles.
+modification/tiger_hot3;HOT-3
+modification/tiger_atgw3/desc;Allows installation of PARS 3 LR missiles.
+modification/tiger_atgw3;PARS 3 LR
+modification/tiger_trigat_lr/desc;Allows the installation of TRIGAT-LR missiles.
+modification/tiger_trigat_lr;TRIGAT-LR
+modification/tr_cirit_x4/desc;Allows installation of CIRIT missiles.
+modification/tr_cirit_x4;CIRIT
+modification/il_gatr;GATR
+modification/il_gatr/desc;Allows the installation of GATR laser-guided missiles.
+modification/us_apkws/desc;Allows installation of AGR-20A Advanced Precision Kill Weapon System missiles.
+modification/us_apkws;AGR-20A
+modification/cn_fire_snake_90a/desc;Allows the installation of Fire Snake 90a missiles.
+modification/cn_fire_snake_90a;Fire Snake 90A
+modification/atgm_spike_x2/desc;Allows installation of Spike-ER missiles.
+modification/atgm_spike_x2;Spike-ER
+modification/atgm_spike_x4/desc;Allows installation of additional Spike-ER missiles.
+modification/atgm_spike_x4;Spike-ER
+modification/tiger_tel12/desc;Allows installation additional of TDA unguided rockets.
+modification/tiger_tel12;TELSON 12
+modification/tiger_hmp400_lcc;FN HMP400 LCC
+modification/tiger_hmp400_lcc/desc;Allows installation of gun pods FN HMP400 LCC.
+modification/tiger_rmp_lc;FN RMP LC
+modification/tiger_rmp_lc/desc;Allows installation of gun pods FN RMP LC.
+modification/ka_9K121/desc;Allows installation of 9K121 Vikhr missiles.
+modification/ka_9K121;9K121 Vikhr
+modification/a_129_hl_19_70/desc;Allows installation of FZ49 unguided rockets
+modification/a_129_hl_19_70;HL-19-70
+modification/tr_fz207/desc;Allows installation of Hydra-70 unguided rockets.
+modification/tr_fz207;HL-19-70
+modification/8_cm_flz_rakete;Flz.Rak. Oerlikon
+modification/8_cm_flz_rakete/desc;Allows installation of 80 mm Flugzeugrakaten Oerlikon rockets.
+modification/sws_flz_lwf_63_80/desc;Allows installation of Flz.Lwf. LL 63/80 air-to-air missiles.
+modification/sws_flz_lwf_63_80;Flz.Lwf. LL 63/80
+modification/sws_flz_lwf_63/desc;Allows the installation of Flz.Lwf. LL 63 air-to-air missiles.
+modification/sws_flz_lwf_63;Flz.Lwf. LL 63
+modification/sws_200_kg_sprengbombe;200 kg Sprengbombe
+modification/sws_200_kg_sprengbombe/desc;Allows installation of 200 kg bombs.
+modification/sws_400_kg_sprengbombe;400 kg Sprengbombe
+modification/sws_400_kg_sprengbombe/desc;Allows installation of 400 kg bombs.
+modification/sws_450_kg_sprengbombe_68_70;450 kg Sprengbombe 68/70
+modification/sws_450_kg_sprengbombe_68_70/desc;Allows installation of 450 kg bombs.
+modification/sws_flz_lwf_lb_82/desc;Allows installation of Flz.Lwf. LB 82 missiles.
+modification/sws_flz_lwf_lb_82;Flz.Lwf. LB 82
+modification/ship_race_speed_boost;Event action: speed boost
+modification/air_extinguisher/desc;Engine fire-extinguishing system.
+modification/air_extinguisher;EFS
+modification/automatic_air_extinguisher/desc;Automatic engine fire-extinguishing system.
+modification/automatic_air_extinguisher;EFS (automatic)
+20mm_jm61_rfs_naval_hei/name;20 mm HEI belts
+20mm_jm61_rfs_naval_apit/name;20 mm APIT belts
+20mm_jm61_rfs_naval_apds/name;20 mm APDS belts
+12mm_breda_safat_he/name;12,7 mm HE belts
+12mm_breda_safat_incendiary/name;12,7 mm Incendiary belts
+12mm_breda_safat_ap/name;12,7 mm AP belts
+modification/40mm_vickers_terni_mod_1915_17_he_df;40 mm HE-TF
+20mm_rh202_naval_heit/name;20 mm HEIT belts
+modification/20mm_rh202_naval_heit_ammo_pack;20 mm HEIT belts
+20mm_rh202_naval_apit/name;20 mm APIT belts
+modification/20mm_rh202_naval_apit_ammo_pack;20 mm APIT belts
+20mm_rh202_naval_apds/name;20 mm APDS belts
+modification/20mm_rh202_naval_apds_ammo_pack;20 mm APDS belts
+modification/57mm_britain_6pdr_apc_navy_ammo_pack;Shot Mk. 8
+57mm_britain_6pdr_apc_navy/name;Shot Mk. 8
+aps/drozd;Drozd
+aps/iron_fist;Iron Fist
+aps/trophy_hv;Trophy HV
+aps/muss;MUSS
+aps/raam_segol;Ra'am Segol
+counterMeasures/muss;MUSS
+counterMeasures/jd_3;JD3
+counterMeasures/shtora1;OTŠU-1-7
+counterMeasures/an_vlq_8a;AN/VLQ-8A
+counterMeasures/eirel;EIREL
+counterMeasures/l_166;L-166
+counterMeasures/l_166_c1;L-166S1 Sukhogruz
+counterMeasures/an_alq_144;AN/ALQ-144(V)
+counterMeasures/l_370;L-370V28-5LE
+modification/305mm_ussr_52_obr1907_1941_navy_he;12-inch HE patt.1928
+modification/305mm_ussr_52_obr1907_1941_navy_he_ammo_pack;12-inch HE patt.1928
+modification/127mm_usa_mk42_mod0_common_sap;5-inch Common SP Mk. 42
+modification/127mm_usa_mk42_mod0_common_sap_ammo_pack;5-inch Common SP Mk. 42
+modification/127mm_usa_mk41_mod0_he_vt;5-inch HC-VT Mk. 41
+modification/127mm_usa_mk41_mod0_he_vt_ammo_pack;5-inch HC-VT Mk. 41
+modification/343mm_uk_navy_cpc_h;13.5 inch CPC
+modification/343mm_uk_navy_cpc_h_ammo_pack;13.5 inch CPC
+modification/343mm_uk_mark1a_navy_apc;13.5 inch APC Mk. Ia
+modification/343mm_uk_mark1a_navy_apc_ammo_pack;13.5 inch APC Mk. Ia
+modification/76mm_it_armstrong_navy_aphe;76-mm APHE
+modification/76mm_it_ansaldo_navy_he_df;76-mm HE-TF
+modification/76mm_it_ansaldo_navy_he_df_ammo_pack;76-mm HE-TF
+modification/76mm_it_ansaldo_navy_he;76-mm HE
+modification/76mm_it_ansaldo_navy_he_ammo_pack;76-mm HE
+modification/tank_bulldozer_blade;Entrenching blade
+modification/tank_bulldozer_blade/desc;An entrenching blade allows the vehicle to dig up the ground in front of it to create cover.
+modification/tank_bulldozer_blade_bhishma;Entrenching blade
+modification/tank_bulldozer_blade_bhishma/desc;An entrenching blade allows the vehicle to dig up the ground in front of it to create cover.
+modification/343mm_uk_mark3a_navy_apc;13.5 inch APC Mk. IIIa
+modification/343mm_uk_mark3a_navy_apc_ammo_pack;13.5 inch APC Mk. IIIa
+modification/ship_supportPlane;Hydroplane
+modification/ship_supportPlane/desc;An ability to carry and launch a scout hydroplane
+modification/280mm_ger_skc34_sprgr_kz_navy_he;283-mm Spgr. L/4.4 Kz HE
+modification/280mm_ger_skc34_pzgr_navy_apc;283-mm Psgr. L/4,4 APCBC
+modification/280mm_ger_skc34_pzgr_navy_apc_ammo_pack;283-mm Psgr. L/4,4 APCBC
+modification/280mm_ger_skc34_spgr_bdz_navy_sap;283-mm Spgr. L/4,4 Bdz SAP
+modification/280mm_ger_skc34_spgr_bdz_navy_sap_ammo_pack;283-mm Spgr. L/4,4 Bdz SAP
+modification/280mm_ger_skc34_aa_distant_fuse_navy_he;283-mm Spgr. L/4,4 Zt.Z HE-DF
+modification/280mm_ger_skc34_aa_distant_fuse_navy_he_ammo_pack;283-mm Spgr. L/4,4 Zt.Z HE-DF
+modification/380mm_ger_skc34_aa_distant_fuse_navy_he;380-mm Spgr. L/4,6 Zt.Z HE-DF
+modification/380mm_ger_skc34_aa_distant_fuse_navy_he_ammo_pack;380-mm Spgr. L/4,6 Zt.Z HE-DF
+modification/76mm_us_mk34_navy_he;76 mm Mk. 34 HE
+modification/76mm_us_mk34_navy_he_radio_fuse;76 mm Mk. 34 HE-VT
+modification/76mm_us_mk34_navy_he_radio_fuse_ammo_pack;76 mm HE-VT
+modification/76mm_it_om1_he;76 mm OM-1 HE
+modification/76mm_it_om2_he;76 mm OM-2 HE
+modification/76mm_it_om2_he_ammo_pack;76 mm OM-2 HE
+modification/76mm_it_om2_he_radio_fuse;76 mm OM-2 HE-VT
+modification/76mm_it_om2_he_radio_fuse_ammo_pack;76 mm OM-2 HE-VT
+modification/381mm_uk_bl_mk1_4crh_navy_cpc;15-inch 4crh CPC
+modification/381mm_uk_bl_mk1_4crh_navy_apc;15-inch 4crh Mark IIa APC
+modification/381mm_uk_bl_mk1_4crh_navy_apc_ammo_pack;15-inch 4crh Mark IIa APC
+modification/381mm_uk_bl_mk1_6crh_navy_apc;15-inch 6crh Mark XVIIb APC
+modification/381mm_uk_bl_mk1_6crh_navy_apc_ammo_pack;15-inch 6crh Mark XVIIb APC
+modification/380mm_germ_skl_45_base_fuse_navy_he;380-mm Spr.gr. L/4,1 Bdz.
+modification/380mm_germ_skl_45_navy_apcbc;380-mm Psgr. L/3,5 APCBC
+modification/380mm_germ_skl_45_navy_apcbc_ammo_pack;380-mm Psgr. L/3,5 APCBC
+modification/305mm_ussr_54_b_50_navy_ap;305-mm APCBC
+modification/305mm_ussr_54_b_50_navy_ap_ammo_pack;305-mm APCBC
+modification/tank_support_ucav;Scout UAV
+modification/tank_support_ucav/desc;An ability to carry and launch a scout UAV
+modification/152mm_it_45cal_schneider_naval_he;152 mm HE Dirompente
+modification/152mm_it_45cal_schneider_naval_ap;152 mm APHE Perforante
+modification/152mm_it_45cal_schneider_naval_ap_ammo_pack;152 mm APHE Perforante
+modification/152mm_it_45cal_schneider_mod1916_naval_ap;152 mm APHE Perforante da 152/45-50
+modification/152mm_it_45cal_schneider_mod1916_naval_ap_ammo_pack;152 mm APHE Perforante da 152/45-50
+modification/25mm_mk38_naval_he;25 mm HEIT belts
+modification/25mm_mk38_naval_he_ammo_pack;25 mm HEIT belts
+modification/25mm_mk38_naval_apds;25 mm APDS belts
+modification/25mm_mk38_naval_apds_ammo_pack;25 mm APDS belts
+25mm_mk38_naval_he/name;25 mm HEIT belts
+25mm_mk38_naval_apds/name;25 mm APDS belts
+modification/mig_29_r_27/desc;Allows installation of APU-470 pylons mounting R-27R / R-27T air-to-air missiles.
+modification/mig_29_r_27;R-27R / T
+modification/mig_29_r_73/desc;Allows installation of APU-73-1D pylons mounting R-73 air-to-air missiles.
+modification/mig_29_r_73;R-73
+modification/mig_29_r_73e/desc;Allows installation of APU-73-1D pylons mounting R-73È air-to-air missiles.
+modification/mig_29_r_73e;R-73È
+modification/mig_29_r_27r/desc;Allows installation of APU-470 pylons mounting R-27R air-to-air missiles.
+modification/mig_29_r_27r;R-27R
+modification/mig_29_r_27t/desc;Allows installation of APU-470 pylons mounting R-27T air-to-air missiles.
+modification/mig_29_r_27t;R-27T
+modification/su_27sm_r_27t_r_27et/desc;Allows installation of APU-470 pylons mounting R-27T / R-27ÈT air-to-air missiles.
+modification/su_27sm_r_27t_r_27et;R-27T / ÈT
+modification/su_27sm_r_27r_r_27er/desc;Allows installation of APU-470 pylons mounting R-27R / R-27ÈR air-to-air missiles.
+modification/su_27sm_r_27r_r_27er;R-27R / ÈR
+modification/su_r_27t1_r_27et1/desc;Allows installation of APU-470 pylons mounting R-27T / R-27ÈT air-to-air missiles.
+modification/su_r_27t1_r_27et1;R-27T1 / ÈT1
+modification/su_r_27r1_r_27er1/desc;Allows installation of APU-470 pylons mounting R-27R1 / R-27ÈR1 air-to-air missiles.
+modification/su_r_27r1_r_27er1;R-27R1 / ÈR1
+modification/mig_29_r_27er/desc;Allows installation of APU-470 pylons mounting R-27ÈR air-to-air missiles.
+modification/mig_29_r_27er;R-27ÈR
+modification/mig_29_r_27et/desc;Allows installation of APU-470 pylons mounting R-27ÈT air-to-air missiles.
+modification/mig_29_r_27et;R-27ÈT
+modification/mig_29_r_27et1/desc;Allows installation of APU-470 pylons mounting R-27ÈT1 air-to-air missiles.
+modification/mig_29_r_27et1;R-27ÈT1
+modification/mig_29_r_27r1/desc;Allows installation of APU-470 pylons mounting R-27R1 air-to-air missiles.
+modification/mig_29_r_27r1;R-27R1
+modification/mig_29_r_27t1/desc;Allows installation of APU-470 pylons mounting R-27T1 air-to-air missiles.
+modification/mig_29_r_27t1;R-27T1
+modification/mig_29_r_27er1/desc;Allows installation of APU-470 pylons mounting R-27ÈR1 air-to-air missiles.
+modification/mig_29_r_27er1;R-27ÈR1
+modification/yak_141_r_77/desc;Allows installation of AKU-170 pylons mounting R-77 air-to-air missiles.
+modification/yak_141_r_77;R-77
+modification/j_11a_rvv_ae/desc;Allows the installation of RVV-AYe air-to-air missiles.
+modification/j_11a_rvv_ae;RVV-AYe
+modification/mig_21_bison_r_77e/desc;Allows installation of AKU-170 pylons mounting R-77 air-to-air missiles.
+modification/mig_21_bison_r_77e;R-77
+modification/su_r_77_1/desc;Allows the installation of AKU-170 pylons mounting R-77-1 air-to-air missiles.
+modification/su_r_77_1;R-77-1
+modification/128mm_ger_c41_naval_HE;12.8 cm Spgr. L/4,5 Kz (mHb)
+modification/128mm_ger_c41_naval_HE_base_fuze;12.8 cm Spgr. L/4,5 Bd.Z (mHb)
+modification/128mm_ger_c41_naval_HE_base_fuze_ammo_pack;12.8 cm Spgr. L/4,5 Bd.Z (mHb)
+modification/128mm_ger_c41_naval_HE_dist_fuze_ap;12.8 cm Spgr. L/4,5 Zt.Z (mHb)
+modification/128mm_ger_c41_naval_HE_dist_fuze_ap_ammo_pack;12.8 cm Spgr. L/4,5 Zt.Z (mHb)
+modification/120mm_ussr_50cal_Bofors_he;120-мм HE Bofors
+modification/37mm_fr_50_he;37 mm HE
+modification/138mm_fr_40_1927_he;138.6 mm HE
+modification/138mm_fr_40_1927_sap;138.6 mm SAP
+modification/138mm_fr_40_1927_sap_ammo_pack;138.6 mm SAP
+modification/155mm_fr_m1924_navy_he;155 mm M1924 HE
+modification/155mm_fr_m1924_naval_he_base_fuse;155 mm M1924 HE-TF
+modification/155mm_fr_m1924_naval_he_base_fuse_ammo_pack;155 mm M1924 HE-TF
+modification/155mm_fr_m1924_navy_sap;155 mm M1924 SAP
+modification/155mm_fr_m1924_navy_sap_ammo_pack;155 mm M1924 SAP
+modification/75mm_oea_mle1925_navy_he_nose_fuse;75-мм OEA Mle 1925
+modification/320mm_it_40_navy_sap;320 mm Granata Perforante
+modification/320mm_it_40_palla_navy_apcbc;320 mm APHEBC Palla
+modification/320mm_it_40_palla_navy_apcbc_ammo_pack;320 mm APHEBC Palla
+modification/90mm_50_it_navy_he_df;90 mm HE-TF
+modification/203mm_fr_oea_mle1927_navy_he;203 mm 1927 HE
+modification/203mm_opf_mle1927_navy_sapc;203 mm 1927 SAP
+modification/203mm_opf_mle1927_navy_sapc_ammo_pack;203 mm 1927 SAP
+modification/90mm_50_fr_oea_mle1925_navy_he;90 mm 1925 HE
+modification/90mm_50_fr_oea_mle1925_navy_he_df;90 mm 1925 HE-TF
+modification/90mm_50_fr_oea_mle1925_navy_he_df_ammo_pack;90 mm 1925 HE-TF
+modification/305mm_fr_45_opf_mle1910_navy_apc;305 mm 1910 APC
+modification/305mm_fr_45_opf_mle1910_navy_apc_ammo_pack;305 mm 1910 APC
+modification/130mm_fr_45_1933_navy_sap;130 mm 1933 SAP
+modification/130mm_fr_45_1933_navy_sap_ammo_pack;130 mm 1933 SAP
+modification/130mm_fr_45_1934_navy_he_df;130 mm 1934 HE-TF
+modification/130mm_fr_45_1934_navy_he_df_ammo_pack;130 mm 1934 HE-TF
+modification/138mm_fr_55_1910_sap;138.6 mm 1910 SAP
+modification/138mm_fr_55_1910_sap_ammo_pack;138.6 mm 1910 SAP
+modification/138mm_fr_55_1921_sap;138.6 mm 1921 common SAP
+modification/138mm_fr_55_1921_sap_ammo_pack;138.6 mm 1921 common SAP
+modification/340mm_fr_mle_1912_navy_apc;340 mm 1912 APC
+modification/340mm_fr_mle_1912_navy_apc_ammo_pack;340 mm 1912 APC
+modification/340mm_fr_mle_1921_navy_apc;340 mm 1921 APCBC
+modification/340mm_fr_mle_1921_navy_apc_ammo_pack;340 mm 1921 APCBC
+modification/330mm_fr_mle_1935_navy_sapcbc;330 mm 1935 SAPCBC
+modification/330mm_fr_mle_1935_navy_sapcbc_ammo_pack;330 mm 1935 SAPCBC
+modification/130mm_fr_40_1932_navy_he;130 mm M1932 HE
+modification/130mm_fr_40_1923_navy_sap;130 mm M1923 SAP
+modification/130mm_fr_40_1923_navy_sap_ammo_pack;130 mm M1923 SAP
+modification/100mm_45_fr_navy_ap;100 mm M1913 AP
+modification/100mm_45_fr_navy_ap_ammo_pack;100 mm M1913 AP
+modification/65mm_50_navy_ap;65 mm M1902 SAP
+modification/65mm_50_navy_ap_ammo_pack;65 mm M1902 SAP
+modification/152mm_fr_m1937_navy_he;152 mm M1937 HE
+modification/152mm_fr_m1937_naval_sap;152 mm M1937 SAP
+modification/152mm_fr_m1937_naval_sap_ammo_pack;152 mm M1937 SAP
+modification/152mm_fr_us_navy_apcbc;152 mm M1923 SAP
+modification/152mm_fr_us_navy_apcbc_ammo_pack;152 mm M1923 SAP
+modification/200mm_jp_type3_navy_common;203 mm Type 3 HE
+modification/200mm_jp_type3_navy_apc;203 mm Type 3 AP
+modification/200mm_jp_type3_navy_apc_ammo_pack;203 mm Type 3 AP
+modification/410mm_jp_common_type0_navy_he;410 mm Type 0 Common HE
+modification/410mm_jp_no5_navy_apc;410 mm No5 APC
+modification/410mm_jp_no5_navy_apc_ammo_pack;410 mm No5 APC
+modification/410mm_jp_no3_navy_apc;410 mm No3 APC
+modification/410mm_jp_no3_navy_apc_ammo_pack;410 mm No3 APC
+modification/406mm_us_mk13_navy_he;406 mm Mk.13 HС
+modification/406mm_us_mk3_navy_apcbc;406 mm Mk.3 APCBC
+modification/406mm_us_mk3_navy_apcbc_ammo_pack;406 mm Mk.3 APCBC
+modification/406mm_us_mk5_navy_apcbc;406 mm Mk.5 APCBC
+modification/406mm_us_mk5_navy_apcbc_ammo_pack;406 mm Mk.5 APCBC
+sensors/ship_optical_sight;Optical director
+modification/87_6mm_uk_navy_apc_ammo_pack;87,6 mm APC
+87_6mm_uk_navy_apc/name;87,6 mm APC
+modification/381mm_uk_bl_mk1_4crh_mk1a_navy_apc;381 mm Mk.Ia APC
+modification/381mm_uk_bl_mk1_4crh_mk1a_navy_apc_ammo_pack;381 mm Mk.Ia APC
+CLIPPED_LANG_KEEP_IT_ALWAYS_FIRST;

@@ -26,8 +26,13 @@ You do not need to actually know how this works. I am including this in here in 
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **T-34-85 "Partisan"**
+
 - #### Changes:
 
+    - **T-34-85 "Partisan"** → **T-34-85 (Sep, 1944) (64-â Gv.T.Br.)**. Long name → **Ural'skij tankovyj zavod №183 | Ob"yekt 35 | T-34-85 obr. 1944 g. (September, 1944) (64-â gvardyejskaâ tankovaâ brigada)**.
     - British helicopter rework:
         - **Scout A.H. Mk. 1**: Long name → **Westland Helicopters Sprite | Scout A.H. Mk. 1**.
         - **Wasp H.A.S. Mk. 1**: Long name → **Westland Helicopters Sprite | Wasp H.A.S. Mk. 1**.

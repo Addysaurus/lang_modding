@@ -40,6 +40,7 @@ You do not need to actually know how this works. I am including this in here in 
         - **Lynx A.H. Mk. 1**: Long name → **Westland Helicopters WG.13 | Lynx A.H. Mk. 1**.
         - **G-LYNX** → **G-Lynx**. Long name → **Westland Helicopters WG.13 G-Lynx**.
         - **Apache A.H. Mk. 1**: Long name → **Boeing Rotorcraft Systems / AugustaWestland | Apache A.H. Mk. 1**.
+    - **Ram, Mk.II "B"** → **Ram, Mk. II "B"** (this was a typo).
 
 ### Engines:
 

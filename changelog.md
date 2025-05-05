@@ -36,6 +36,26 @@ You do not need to actually know how this works. I am including this in here in 
         - **G-LYNX** → **G-Lynx**. Long name → **Westland Helicopters WG.13 G-Lynx**.
         - **Apache A.H. Mk. 1**: Long name → **Boeing Rotorcraft Systems / AugustaWestland | Apache A.H. Mk. 1**.
 
+### Engines:
+
+- #### Changes:
+
+    - **Ishikawa-Harima** manufacturer → **Ishikawajima Harima Jū Kōgyō**.
+        - Japanese package: Name → **石川島播磨重工業株式会社**.
+    - **Mitsubishi** manufacturer → **Mitsubishi Jū Kōgyō**.
+        - Japanese package: Name → **三菱重工業**.
+    - **Mitsubishi Automotive Industry Company** manufacturer → **Mitsubishi Jidōsha Kōgyō**.
+        - Japanese package: Name → **三菱自動車工業株式会社**.
+    - **TF40-801A** → **TF40-IHI-801A**.
+    - **10ZG32WT** → **10ZG 32WT**.
+    - **J79-IHI-11** → **J79-IHI-11A**.
+
+### Decals & decorations:
+
+- #### Changes:
+
+    - **"Winged Tiger" emblem** decal → **Emblem of Ṭayeset 107 (1971-2005)**.
+
 ## 1.12.03 - 26-04-2025
 
 ### Vehicles:

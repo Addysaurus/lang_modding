@@ -1,6 +1,8 @@
 <ID|readonly|noverify>;<English>
 //MANUFACTURERS
 engine_manufacturer/nakajima;Manufacturer: 中島飛行機
+engine_manufacturer/ishikawa-harima;Manufacturer: 石川島播磨重工業株式会社
+engine_manufacturer/mitsubishi;Manufacturer: 三菱重工業
 //ENGINES
 engine_model/homare_12;"
 Engine model: 中島飛行機BA | 4式1850馬力発動機 | ハ45-12 || 誉12型"
@@ -12,3 +14,7 @@ engine_model/homare_42;"
 Engine model: 中島飛行機BA | 4式1850馬力発動機 | ハ45-42 || 誉42型 | NK9A-O"
 engine_model/ne_20;"
 Engine model: ネ20改"
+engine_model/mitsubishi_10zf_22wt;"Maufacturer: 三菱自動車工業株式会社
+Engine model: 10ZF 22WT"
+engine_model/8va_34twk;"Manufacturer: 三菱自動車工業株式会社
+Engine model: 8VA 34TWK"

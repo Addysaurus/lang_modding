@@ -12,6 +12,10 @@ All dates are listed in DD-MM-YYYY format.
 
 ### General:
 
+The basic infrastructure has been added for modifying the names and descriptions of decals and skins, and in the future, potentially more content in the regional files. Other mods, notably [leroyonly's](https://github.com/leroyonly/warthunder-lang), have previously figured out how to edit the regional files using the adding files method that this mod, as well as [InFerNos1's mod](https://www.nexusmods.com/warthunder/mods/2162), [leroyonly's mod](https://github.com/leroyonly/warthunder-lang), and the [Localization Overhaul Project](https://live.warthunder.com/post/1135601/en/) use. That method involves breaking the base reference to the regional file and then re-referencing it to a custom file. Leroyonly taught me how to do this. However, this comes with an issue: it means things need to be added to the mod's regional file every time a new decal is added or event starts or anything. This would mean a mod update every few days, something this mod cannot sustain. However, this mod is now the first to figure out how to modify the regional files with the adding files method while avoiding that issue. It is done by still breaking the original regional reference by setting it a fake file, but then you re-reference the original regional file in `locTable` with `file:t` instead of `regional:t`. Then you add your own file on top of it as normal.
+
+You do not need to actually know how this works. I am including this in here in case you are curious. The point is that it is now possible to edit decal and skin names.
+
 - #### Additions:
 
     - Added new 1 loading tip:

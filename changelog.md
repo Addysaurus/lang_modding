@@ -67,6 +67,24 @@ You do not need to actually know how this works. I am including this in here in 
         - **USS Pensacola (CA-24)**: Long name → **Brooklyn Navy Yard | Pensacola-class Heavy Cruiser | USS Pensacola (CA-24)**.
         - **USS Northampton (CA-26)**: Long name → **Fore River Shipyard / Pearl Harbor Naval Shipyard and Intermediate Maintenance Facility | Northampton-class Heavy Cruiser | USS Northampton (CA-26) (1940)**.
         - **USS New Orleans (CA-32)**: Long name → **Brooklyn Navy Yard / Mare Island Naval Shipyard | New Orleans-class Heavy Cruiser | USS New Orleans (CA-32) (1945)**.
+        - **USS Helena (CL-50)**: Long name → **Brooklyn Navy Yard / Mare Island Naval Shipyard | Brooklyn-class Light Cruiser | USS Helena (CL-50) (1942)**.
+        - **USS Brooklyn (CL-40)**: Long name → **Brooklyn Navy Yard | Brooklyn-class Light Cruiser | USS Brooklyn (CL-40)**.
+        - **USS Fargo (CL-106)**: Long name → **New York Shipbuilding Corporation | Fargo-class Light Cruiser | USS Fargo (CL-106)**.
+        - **USS Roanoke (CL-145)**: Long name → **New York Shipbuilding Corporation | Worcester-class Light Cruiser | USS Roanoke (CL-145)**.
+        - **USS Cleveland (CL-55)**: Long name → **New York Shipbuilding Corporation | Cleveland-class Light Cruiser | USS Cleveland (CL-55)**.
+        - **USS North Dakota (BB-29)**: Long name → **Fore River Shipyard | Delaware-class Battleship | USS North Dakota (BB-29) (1917)**.
+        - **USS Wyoming (BB-32)**: Long name → **William Cramp & Sons Ship & Engine Building Company / Philadelphia Naval Shipyard | Wyoming-class Battleship | USS Wyoming (BB-32) (1927)**.
+        - **USS Arkansas (BB-33)**: Long name → **New York Shipbuilding Corporation / Norfolk Naval Shipyard | Wyoming-class Battleship | USS Arkansas (BB-33) (1942)**.
+        - **USS Pittsburgh (CA-72)**: Long name → **Fore River Shipyard / Norfolk Naval Shipyard | Baltimore-class Heavy Cruiser | USS Pittsburgh (CA-72) (1953)**.
+        - **USS Baltimore (CA-68)**: Long name → **Fore River Shipyard | Baltimore-class Heavy Cruiser | USS Baltimore (CA-68)**.
+        - **USS Newport News (CA-148)**: Long name → **Newport News Shipbuilding and Dry Dock Company / Norfolk Naval Shipyard | Des Moines-class Heavy Cruiser | USS Newport News (CA-148) (1968)**.
+        - **USS Des Moines (CA-134)**: Long name → **Fore River Shipyard | Des Moines-class Heavy Cruiser | USS Des Moines (CA-134)**.
+        - **USS Texas (BB-35)**: Long name → **Newport News Shipbuilding and Dry Dock Company / Brooklyn Navy Yard | New York-class Battleship | USS Texas (BB-35) (1945)**.
+        - **USS Arizona (BB-39)**: Long name → **Brooklyn Navy Yard / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Pennsylvania-class Battleship | USS Arizona (BB-39) (1938)**.
+        - **USS Nevada (BB-36)**: Long name → **New York Shipbuilding Corporation / Fore River Shipyard | Nevada-class Battleship | USS Nevada (BB-36) (1944)**.
+        - **USS Tennessee (BB-43)**: Long name → **Brooklyn Navy Yard / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Tennessee-class Battleship | USS Tennessee (BB-43) (1943)**.
+        - **USS Alaska (CB-1)**: Long name → **New York Shipbuilding Corporation | Alaska-class Large Cruiser | USS Alaska (CB-1)**.
+        - **USS Mississippi (BB-41)**: Long name → **Newport News Shipbuilding and Dry Dock Company / Pearl Harbor Naval Shipyard and Intermediate Maintenance Facility | New Mexico-class Battleship | USS Mississippi (BB-41) (1945)**.
     - **Ram, Mk.II "B"** → **Ram, Mk. II "B"** (this was a typo).
 
 ### Engines:

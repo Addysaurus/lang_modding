@@ -18,11 +18,11 @@ You do not need to actually know how this works. I am including this in here in 
 
 - #### Additions:
 
-    - Added new 1 loading tip:
+    - Added new 2 loading tip:
         - General: 1
         - Air: 0
         - Ground: 0
-        - Naval: 0
+        - Naval: 1
 
 ### Vehicles:
 
@@ -40,6 +40,33 @@ You do not need to actually know how this works. I am including this in here in 
         - **Lynx A.H. Mk. 1**: Long name → **Westland Helicopters WG.13 | Lynx A.H. Mk. 1**.
         - **G-LYNX** → **G-Lynx**. Long name → **Westland Helicopters WG.13 G-Lynx**.
         - **Apache A.H. Mk. 1**: Long name → **Boeing Rotorcraft Systems / AugustaWestland | Apache A.H. Mk. 1**.
+    - US bluewater fleet rework:
+        - **USS Litchfield (DD-336)**: Long name → **Mare Island Naval Shipyard | Clemson-class Destroyer | USS Litchfield (DD-336) (1922)**.
+        - **USS Barker (DD-213)**: Long name → **Cramp Shipbuilding / Mare Island Naval Shipyard | Clemson-class Destroyer | USS Barker (DD-213) (1942)**.
+        - **USS Welborn C. Wood (DD-195)**: Long name → **Newport News Shipbuilding and Dry Dock Company / Mare Island Naval Shipyard | Clemson-class Destroyer | USS Welborn C. Wood (DD-195) (1922)**.
+        - **USS Aylwin (DD-355)**: Long name → **Philadelphia Naval Shipyard / Mare Island Naval Shipyard | Farragut-class Destroyer | USS Aylwin (DD-355) (1942)**.
+        - **USS Allan M. Sumner (DD-692)**: Long name → **Federal Shipbuilding and Drydock Company | Allen M. Sumner-class Destroyer | USS Allen M. Sumner (DD-692)**.
+        - **USS Gearing (DD-710)**: Long name → **Federal Shipbuilding and Drydock Company | Gearing-class Destroyer | USS Gearing (DD-710)**.
+        - **USS Frank Knox (DD-742)**: Long name → **Bath Iron Works | Gearing-class Destroyer | USS Frank Knox (DD-742)**.
+        - **USS Bagley (DD-386)**: Long name → **Norfolk Naval Shipyard | Bagley-class Destroyer | USS Bagley (DD-386)**.
+        - **USS Fletcher (DD-445)**: Long name → **Federal Shipbuilding and Drydock Company | Fletcher-class Destroyer | USS Fletcher (DD-445)**.
+        - **USS Cowell (DD-547)**: Long name → **Bethlehem Shipbuilding Corporation, Terminal Island, California | Fletcher-class Destroyer | USS Cowell (DD-547)**.
+        - **USS Bennion (DD-662)**: Long name → **Boston Naval Shipyard | Fletcher-class Destroyer | USS Bennion (DD-662)**.
+        - **USS Mitscher (DL-2)**: Long name → **Bath Iron Works | Mitcher-class Destroyer Leader | USS Mitscher (DL-2)**.
+        - **USS Wilkinson (DL-5)**: Long name → **Fore River Shipyard / Long Beach Naval Shipyard | Mitcher-class Destroyer Leader | USS Wilkinson (DL-5) (1958)**.
+        - **USS Porter (DD-356)**: Long name → **New York Shipbuilding Corporation / Long Beach Naval Shipyard | Porter-class Destroyer | USS Porter (DD-356) (1939)**.
+        - **USS Moffett (DD-362)**: Long name → **Fore River Shipyard / Charleston Naval Shipyard | Porter-class Destroyer | USS Moffett (DD-362) (1942)**.
+        - **USS Phelps (DD-360)**: Long name → **Fore River Shipyard / Charleston Naval Shipyard | Porter-class Destroyer | USS Phelps (DD-360) (1944)**.
+        - **USS Somers (DD-381)**: Long name → **Federal Shipbuilding and Drydock Company | Somers-class Destroyer | USS Somers (DD-381)**.
+        - **USS Davis (DD-395)**: Long name → **Bath Iron Works | Somers-class Destroyer | USS Davis (DD-395)**.
+        - **USS Raleigh (CL-7)** → **USS Raleigh (CL-7) (1932)**. Long name → **Fore River Shipyard | Omaha-class Light Cruiser | USS Raleigh (CL-7) (1932)**.
+        - **USS Memphis (CL-13)** → **USS Raleigh (CL-7) (1942)**. Long name → **Fore River Shipyard / Mare Island Naval Shipyard | Omaha-class Light Cruiser | USS Raleigh (CL-7) (1942)**.
+        - **USS Detroit (CL-8)**: Long name → **Fore River Shipyard / Mare Island Naval Shipyard | Omaha-class Light Cruiser | USS Detroit (CL-8) (1942)**.
+        - **USS Atlanta (CL-51)**: Long name → **Federal Shipbuilding and Drydock Company | Atlanta-class Light Cruiser | USS Atlanta (CL-51)**.
+        - **USS Portland (CA-33)**: Long name → **Fore River Shipyard / Mare Island Naval Shipyard | Portland-class Heavy Cruiser | USS Portland (CA-33) (1943)**.
+        - **USS Pensacola (CA-24)**: Long name → **Brooklyn Navy Yard | Pensacola-class Heavy Cruiser | USS Pensacola (CA-24)**.
+        - **USS Northampton (CA-26)**: Long name → **Fore River Shipyard / Pearl Harbor Naval Shipyard and Intermediate Maintenance Facility | Northampton-class Heavy Cruiser | USS Northampton (CA-26) (1940)**.
+        - **USS New Orleans (CA-32)**: Long name → **Brooklyn Navy Yard / Mare Island Naval Shipyard | New Orleans-class Heavy Cruiser | USS New Orleans (CA-32) (1945)**.
     - **Ram, Mk.II "B"** → **Ram, Mk. II "B"** (this was a typo).
 
 ### Engines:

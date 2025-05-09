@@ -18,7 +18,7 @@ You do not need to actually know how this works. I am including this in here in 
 
 - #### Additions:
 
-    - Added new 2 loading tip:
+    - Added new 2 loading tips:
         - General: 1
         - Air: 0
         - Ground: 0
@@ -105,7 +105,11 @@ You do not need to actually know how this works. I am including this in here in 
 
 - #### Changes:
 
+    - Note: All decals with transliterated names have descriptions with the English meanings.
     - **"Winged Tiger" emblem** decal → **Emblem of Ṭayeset 107 (1971-2005)**.
+    - **"We won!" decal** → **"My pobyedili! Victory is ours!" poster**.
+    - **"Victory is ours" text** → **"Pobyeda za nami." text**.
+    - **"Victory over Berlin" text** → **"Pobyeda nad Byerlinom" decal**.
 
 ## 1.12.03 - 26-04-2025
 

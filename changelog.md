@@ -107,7 +107,8 @@ You do not need to actually know how this works. I am including this in here in 
 - #### Changes:
 
     - **SPO-32 Pastyel' | L-150** RWR → **L-150 Pastyel'**. **SPO-32** is a fictional name.
-    - **N001VEP** radar → **RLPK-27VEŠ**.
+    - **N001** radar → **RLPK-27 Myeč**.
+    - **N001VEP** radar → **RLPK-27VEŠ Myeč-M**.
 
 ### Decals & decorations:
 

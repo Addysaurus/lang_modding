@@ -10,6 +10,18 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.12.05 - UNRELEASED
 
+### Vehicles:
+
+- #### Changes:
+
+    - **PAO Kompaniâ Sukhoj** added as the manufacturer to the **Su-27**.
+
+### Sensors:
+
+- #### Changes:
+
+    - **N001K** radar → **RLPK-27K Myeč**.
+
 ### Decals & decorations:
 
 - #### Changes:

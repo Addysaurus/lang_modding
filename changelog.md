@@ -15,6 +15,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **PAO Kompaniâ Sukhoj** added as the manufacturer to the **Su-27**.
+    - **Chéngdū Fēijī Gōngyè (Jítuán)** added as the manufacturer to the **J10A**.
 
 ### Sensors:
 

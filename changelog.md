@@ -52,8 +52,8 @@ You do not need to actually know how this works. I am including this in here in 
         - **USS Fletcher (DD-445)**: Long name → **Federal Shipbuilding and Drydock Company | Fletcher-class Destroyer | USS Fletcher (DD-445)**.
         - **USS Cowell (DD-547)**: Long name → **Bethlehem Shipbuilding Corporation, Terminal Island, California | Fletcher-class Destroyer | USS Cowell (DD-547)**.
         - **USS Bennion (DD-662)**: Long name → **Boston Naval Shipyard | Fletcher-class Destroyer | USS Bennion (DD-662)**.
-        - **USS Mitscher (DL-2)**: Long name → **Bath Iron Works | Mitcher-class Destroyer Leader | USS Mitscher (DL-2)**.
-        - **USS Wilkinson (DL-5)**: Long name → **Fore River Shipyard / Long Beach Naval Shipyard | Mitcher-class Destroyer Leader | USS Wilkinson (DL-5) (1958)**.
+        - **USS Mitscher (DL-2)**: Long name → **Bath Iron Works | Mitscher-class Destroyer Leader | USS Mitscher (DL-2)**.
+        - **USS Wilkinson (DL-5)**: Long name → **Fore River Shipyard / Long Beach Naval Shipyard | Mitscher-class Destroyer Leader | USS Wilkinson (DL-5) (1958)**.
         - **USS Porter (DD-356)**: Long name → **New York Shipbuilding Corporation / Long Beach Naval Shipyard | Porter-class Destroyer | USS Porter (DD-356) (1939)**.
         - **USS Moffett (DD-362)**: Long name → **Fore River Shipyard / Charleston Naval Shipyard | Porter-class Destroyer | USS Moffett (DD-362) (1942)**.
         - **USS Phelps (DD-360)**: Long name → **Fore River Shipyard / Charleston Naval Shipyard | Porter-class Destroyer | USS Phelps (DD-360) (1944)**.

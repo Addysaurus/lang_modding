@@ -86,6 +86,7 @@ You do not need to actually know how this works. I am including this in here in 
         - **USS Alaska (CB-1)**: Long name → **New York Shipbuilding Corporation | Alaska-class Large Cruiser | USS Alaska (CB-1)**.
         - **USS Mississippi (BB-41)**: Long name → **Newport News Shipbuilding and Dry Dock Company / Pearl Harbor Naval Shipyard and Intermediate Maintenance Facility | New Mexico-class Battleship | USS Mississippi (BB-41) (1945)**.
     - **Ram, Mk.II "B"** → **Ram, Mk. II "B"** (this was a typo).
+    - **Su-27SM** → **Su-27SM3**. Long name → **PAO Kompaniâ Sukhoj | izd. T-10SM3 | Su-27SM3**. It has **AL-31FM1** engines, the **L-150 Pastyel'** RWR, 12 hardpoints instead of 10, and the **RPLK-27VEŠ** radar, making it the SM3.
 
 ### Engines:
 
@@ -100,6 +101,13 @@ You do not need to actually know how this works. I am including this in here in 
     - **TF40-801A** → **TF40-IHI-801A**.
     - **10ZG32WT** → **10ZG 32WT**.
     - **J79-IHI-11** → **J79-IHI-11A**.
+
+### Sensors:
+
+- #### Changes:
+
+    - **SPO-32 Pastyel' | L-150** RWR → **L-150 Pastyel'**. **SPO-32** is a fictional name.
+    - **N001VEP** radar → **RLPK-27VEŠ**.
 
 ### Decals & decorations:
 

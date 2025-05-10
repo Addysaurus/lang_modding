@@ -8,7 +8,15 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.12.04 - UNRELEASED
+## 1.12.05 - UNRELEASED
+
+### Decals & decorations:
+
+- #### Changes:
+
+    - Corrected the description of the **Emblem of Ṭayeset 107 (1971-2005)** decal to include the squadron's name in Hebrew.
+
+## 1.12.04 - 10-05-2025
 
 ### General:
 

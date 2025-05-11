@@ -1,6 +1,7 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
 shop/group/i-16_china_group;忠28 / ☀ I-16-1
+shop/group/cn_t_34_85_group;␗ T-34-85 / 85 (1958)
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 i-16_chung_28_shop;忠28甲
@@ -47,8 +48,24 @@ j_11b_2;歼11
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+cn_t_34_85_d_5t_shop;␗ Т-34-85 (Sep, 1944)
+cn_t_34_85_d_5t_0;␗ Уральский танковый завод №183 | Обьект 35 | Т-34-85 обр. 1944 г. (September, 1944)
+cn_t_34_85_d_5t_1;␗ Т-34-85
+cn_t_34_85_d_5t_2;Medium tank
+cn_type_58_shop;␗ Т-34-85 (1958)
+cn_type_58_0;␗ Уральский танковый завод №183 / 674工厂 | Обьект 35 | Т-34-85 обр. 1944 г. (1958)
+cn_type_58_1;␗ Т-34-85
+cn_type_58_2;Medium tank
+cn_t_34_85_zis_53_no215_shop;␗ Т-34-85 (Sep, 1944) (战车第2师)
+cn_t_34_85_zis_53_no215_0;␗ Уральский танковый завод №183 | Обьект 35 | Т-34-85 обр. 1944 г. (September, 1944) (战车第2师)
+cn_t_34_85_zis_53_no215_1;␗ Т-34-85
+cn_t_34_85_zis_53_no215_2;Medium tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+cn_plz_05_shop;PLZ05
+cn_plz_05_0;中国兵器工业集团有限公司 | PLZ05 155毫米自行加榴炮
+cn_plz_05_1;PLZ05
+cn_plz_05_2;SPH
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 
@@ -63,6 +80,10 @@ cn_vt_5_1;╷ VT5BD
 cn_vt_5_2;Light tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+cn_hq_17_shop;HQ17
+cn_hq_17_0;中国精密机械进出口总公司 | HQ17地對空飛彈系統
+cn_hq_17_1;HQ17
+cn_hq_17_2;SPAAM
 
 //CHINA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 

@@ -57,27 +57,43 @@ cn_zsd63_pg87_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 cn_type_63_I_shop;ZTS63
-cn_type_63_I_0;重庆256厂 | WZ211 | ZTS1963式水陆坦克
+cn_type_63_I_0;西南车辆制造厂 | WZ211 | ZTS1963式水陆坦克
 cn_type_63_I_1;ZTS63
 cn_type_63_I_2;Light Tank
 cn_zts_63_1980_shop;ZTS63 (1980)
-cn_zts_63_1980_0;重庆256厂 | WZ211 | ZTS1963式水陆坦克 (1980)
+cn_zts_63_1980_0;西南车辆制造厂 | WZ211 | ZTS1963式水陆坦克 (1980)
 cn_zts_63_1980_1;ZTS63
 cn_zts_63_1980_2;Light Tank
+cn_type_62_shop;ZTQ62
+cn_type_62_0;哈尔滨第一机械集团 | WZ131 | ZTQ1962式轻型坦克
+cn_type_62_1;ZTQ62
+cn_type_62_2;Light Tank
 cn_t_34_85_d_5t_shop;␗ Т-34-85 (Sep, 1944)
 cn_t_34_85_d_5t_0;␗ Уральский танковый завод №183 | Обьект 35 | Т-34-85 обр. 1944 г. (September, 1944)
 cn_t_34_85_d_5t_1;␗ Т-34-85
 cn_t_34_85_d_5t_2;Medium tank
 cn_type_58_shop;␗ Т-34-85 (1958)
-cn_type_58_0;␗ Уральский танковый завод №183 / 674工厂 | Обьект 35 | Т-34-85 обр. 1944 г. (1958)
+cn_type_58_0;␗ Уральский танковый завод №183 / 哈尔滨第一机械集团 | Обьект 35 | Т-34-85 обр. 1944 г. (1958)
 cn_type_58_1;␗ Т-34-85
 cn_type_58_2;Medium tank
 cn_t_34_85_zis_53_no215_shop;␗ Т-34-85 (Sep, 1944) (战车第2师)
 cn_t_34_85_zis_53_no215_0;␗ Уральский танковый завод №183 | Обьект 35 | Т-34-85 обр. 1944 г. (September, 1944) (战车第2师)
 cn_t_34_85_zis_53_no215_1;␗ Т-34-85
 cn_t_34_85_zis_53_no215_2;Medium tank
+cn_zsl_92_shop;ZSL92
+cn_zsl_92_0;中国兵器工业集团有限公司 | WZ551A | ZSL1992式装甲输送车
+cn_zsl_92_1;ZSL92
+cn_zsl_92_2;SPAAG
+cn_plz_83_shop;PLZ83
+cn_plz_83_0;中国兵器工业集团有限公司 | PLZ1983式152毫米自行加榴炮
+cn_plz_83_1;PLZ83
+cn_plz_83_2;SPH
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+cn_type_86_shop;ZBD86 (2020)
+cn_type_86_0;Челябинский тракторный завод + Курганмашзавод / 中国兵器工业集团有限公司 | WZ501 | ZDB1986式履带步兵战车 (2020)
+cn_type_86_1;ZBD86
+cn_type_86_2;IFV
 cn_plz_05_shop;PLZ05
 cn_plz_05_0;中国兵器工业集团有限公司 | PLZ2005式155毫米自行加榴炮
 cn_plz_05_1;PLZ05

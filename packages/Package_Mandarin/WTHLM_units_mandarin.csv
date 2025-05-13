@@ -22,22 +22,22 @@ i-16_chung_28_2;忠28
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-j_10a_shop;歼10A
-j_10a_0;"成都飞机工业 (集团) | 歼10A ""猛龙"""
-j_10a_1;歼10A
-j_10a_2;歼10
+j_10a_shop;J10A
+j_10a_0;"成都飞机工业 (集团) | J10A ""猛龙"""
+j_10a_1;J10A
+j_10a_2;J10
 mirage_2000_5ei_shop;幻象2000-5
 mirage_2000_5ei_0;Dassault Aviation | 幻象2000-5型戰機
 mirage_2000_5ei_1;幻象2000-5
 mirage_2000_5ei_2;幻象2000
-j_11b_shop;歼11A (MLU)
-j_11b_0;"沈阳飞机工业 (集团) | 歼11A ""应龙"" (Mid-Life Update)"
-j_11b_1;歼11A
-j_11b_2;歼11
-j_11b_shop;歼11B
-j_11b_0;"沈阳飞机工业 (集团) | 歼11B ""应龙"""
-j_11b_1;歼11B
-j_11b_2;歼11
+j_11b_shop;J11A (MLU)
+j_11b_0;"沈阳飞机工业 (集团) | J11A ""应龙"" (Mid-Life Update)"
+j_11b_1;J11A
+j_11b_2;J11
+j_11b_shop;J11B
+j_11b_0;"沈阳飞机工业 (集团) | J11B ""应龙"""
+j_11b_1;J11B
+j_11b_2;J11
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
@@ -57,11 +57,11 @@ cn_zsd63_pg87_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 cn_type_63_I_shop;ZTS63
-cn_type_63_I_0;重庆256厂 | WZ211 | ZTS63水陆坦克
+cn_type_63_I_0;重庆256厂 | WZ211 | ZTS1963式水陆坦克
 cn_type_63_I_1;ZTS63
 cn_type_63_I_2;Light Tank
 cn_zts_63_1980_shop;ZTS63 (1980)
-cn_zts_63_1980_0;重庆256厂 | WZ211 | ZTS63水陆坦克 (1980)
+cn_zts_63_1980_0;重庆256厂 | WZ211 | ZTS1963式水陆坦克 (1980)
 cn_zts_63_1980_1;ZTS63
 cn_zts_63_1980_2;Light Tank
 cn_t_34_85_d_5t_shop;␗ Т-34-85 (Sep, 1944)
@@ -79,21 +79,33 @@ cn_t_34_85_zis_53_no215_2;Medium tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 cn_plz_05_shop;PLZ05
-cn_plz_05_0;中国兵器工业集团有限公司 | PLZ05 155毫米自行加榴炮
+cn_plz_05_0;中国兵器工业集团有限公司 | PLZ2005式155毫米自行加榴炮
 cn_plz_05_1;PLZ05
 cn_plz_05_2;SPH
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+cn_ptl_02_shop;PTL02
+cn_ptl_02_0;中国兵器工业集团有限公司 | WZ301 | PTL2002式100毫米轮式自行突击炮
+cn_ptl_02_1;PTL02
+cn_ptl_02_2;Light Tank
+cn_hj_9_shop;AFT09
+cn_hj_9_0;中国兵器工业集团有限公司 | WZ550 | AFT2009式重型反坦克导弹发射车
+cn_hj_9_1;AFT09
+cn_hj_9_2;ATGMC
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 cn_pgz_04a_shop;PGZ04A
-cn_pgz_04a_0;中国兵器工业集团有限公司 | WZ717A | PGZ04A式四管25毫米履带自行高炮
+cn_pgz_04a_0;中国兵器工业集团有限公司 | WZ717A | PGZ2004A式四管25毫米履带自行高炮
 cn_pgz_04a_1;PGZ04A
 cn_pgz_04a_2;SPAAG/M
 cn_antelope_tc_1l_ads_shop;劍1防飛系
 cn_antelope_tc_1l_ads_0;國家中山科學研究院 | 車載劍1防空飛彈系統
 cn_antelope_tc_1l_ads_1;劍1防飛系
 cn_antelope_tc_1l_ads_2;SPAAM
+cn_ztl_11_shop;ZLT11
+cn_ztl_11_0;中国兵器工业集团有限公司 | ZLT2011式轮式装甲突击车
+cn_ztl_11_1;ZLT11
+cn_ztl_11_2;Light Tank
 cn_vt_5_shop;╷ VT5BD
 cn_vt_5_0;╷ 中国兵器工业集团有限公司 | Lā'iṭa Ṭyānka VT5BD
 cn_vt_5_1;╷ VT5BD
@@ -101,7 +113,7 @@ cn_vt_5_2;Light tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 cn_hq_17_shop;HQ17
-cn_hq_17_0;中国精密机械进出口总公司 | HQ17地對空飛彈系統
+cn_hq_17_0;中国精密机械进出口总公司 | HQ2017式地對空飛彈系統
 cn_hq_17_1;HQ17
 cn_hq_17_2;SPAAM
 

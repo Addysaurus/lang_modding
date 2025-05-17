@@ -2,6 +2,7 @@
 //GROUPS
 shop/group/i-16_china_group;忠28 / ☀ I-16-1
 shop/group/cn_t_34_85_group;␗ T-34-85 / 85 (1958)
+shop/group/cn_ztz_99_group;ZTZ99 (一期) / (二期)
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 i-16_chung_28_shop;忠28甲
@@ -91,7 +92,7 @@ cn_plz_83_2;SPH
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 cn_type_86_shop;ZBD86 (2020)
-cn_type_86_0;Челябинский тракторный завод + Курганмашзавод / 中国兵器工业集团有限公司 | WZ501 | ZDB1986式履带步兵战车 (2020)
+cn_type_86_0;Челябинский тракторный завод + Курганмашзавод / 中国兵器工业集团有限公司 | WZ501 | ZBD1986式履带步兵战车 (2020)
 cn_type_86_1;ZBD86
 cn_type_86_2;IFV
 cn_type_59_shop;ZTZ59
@@ -131,23 +132,23 @@ cn_plz_83_130_2;SPH
 cn_ztz_88b_shop;ZTZ88B
 cn_ztz_88b_0;中国兵器工业集团有限公司 | WZ122E | ZTZ1988B式主战坦克
 cn_ztz_88b_1;ZTZ88B
-cn_ztz_88b_2;Medium Tank
+cn_ztz_88b_2;MBT
 cn_ztz_88a_shop;ZTZ88A
 cn_ztz_88a_0;中国兵器工业集团有限公司 | WZ122G | ZTZ1988A式主战坦克
 cn_ztz_88a_1;ZTZ88A
-cn_ztz_88a_2;Medium Tank
+cn_ztz_88a_2;MBT
 cn_ztz_96_shop;ZTZ96
 cn_ztz_96_0;中国兵器工业集团有限公司 | WZ122H | ZTZ1996式主战坦克
 cn_ztz_96_1;ZTZ96
-cn_ztz_96_2;Medium Tank
+cn_ztz_96_2;MBT
 cn_ztz_96a_shop;ZTZ96A
 cn_ztz_96a_0;中国兵器工业集团有限公司 | WZ122R | ZTZ1996A式主战坦克
 cn_ztz_96a_1;ZTZ96A
-cn_ztz_96a_2;Medium Tank
-cn_ztz_96a_prot_shop;ZTZ96A (prototype)
-cn_ztz_96a_prot_0;中国兵器工业集团有限公司 | WZ122 | ZTZ1996A式主战坦克 (prototype)
-cn_ztz_96a_prot_1;ZTZ96A
-cn_ztz_96a_prot_2;Medium Tank
+cn_ztz_96a_2;MBT
+cn_ztz_96a_prot_shop;WZ122R (prototype No. 2)
+cn_ztz_96a_prot_0;中国兵器工业集团有限公司 | WZ122R (prototype No. 2)
+cn_ztz_96a_prot_1;WZ122R
+cn_ztz_96a_prot_2;MBT
 cn_pgz_09_shop;PGZ09
 cn_pgz_09_0;中国兵器工业集团有限公司 | PGZ2009式双35毫米自行高炮
 cn_pgz_09_1;PGZ09
@@ -167,17 +168,29 @@ cn_hj_9_2;ATGMC
 cn_object_122tm_shop;1221 (302)
 cn_object_122tm_0;内蒙古第一机械厂 | 1221中型坦克 (302反坦克导弹)
 cn_object_122tm_1;1221
-cn_object_122tm_2;Medium Tank
+cn_object_122tm_2;MBT
 cn_wma_301_shop;WMA301
 cn_wma_301_0;中国兵器工业集团有限公司 | WMA301型105毫米轮式自行突击炮
 cn_wma_301_1;WMA301
 cn_wma_301_2;Light Tank
+
+//CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 cn_mbt2000_shop;MBT-2000
 cn_mbt2000_0;中国兵器工业集团有限公司 | BW123A | MBT-2000
 cn_mbt2000_1;MBT-2000
-cn_mbt2000_2;Medium Tank
-
-//CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+cn_mbt2000_2;MBT
+cn_ztz_99_shop;ZTZ99 (一期)
+cn_ztz_99_0;中国兵器工业集团有限公司 | WZ123 | ZTZ1999式主战坦克 (一期)
+cn_ztz_99_1;ZTZ99
+cn_ztz_99_2;MBT
+cn_ztz_99_w_shop;ZTZ99 (二期)
+cn_ztz_99_w_0;中国兵器工业集团有限公司 | WZ123 | ZTZ1999式主战坦克 (二期)
+cn_ztz_99_w_1;ZTZ99
+cn_ztz_99_w_2;MBT
+cn_ztz_99a_shop;ZTZ99A
+cn_ztz_99a_0;中国兵器工业集团有限公司 | WZ1001 | ZTZ1999A式主战坦克
+cn_ztz_99a_1;ZTZ99A
+cn_ztz_99a_2;MBT
 cn_pgz_04a_shop;PGZ04A
 cn_pgz_04a_0;中国兵器工业集团有限公司 | WA717A | PGZ2004A式四管25毫米履带自行高炮
 cn_pgz_04a_1;PGZ04A
@@ -186,16 +199,36 @@ cn_antelope_tc_1l_ads_shop;劍1防飛系
 cn_antelope_tc_1l_ads_0;國家中山科學研究院 | 車載劍1防空飛彈系統
 cn_antelope_tc_1l_ads_1;劍1防飛系
 cn_antelope_tc_1l_ads_2;SPAAM
+cn_zbd_04a_shop;ZBD04A
+cn_zbd_04a_0;中国兵器工业集团有限公司 | WZ502G | ZBD2004A式履带步兵战车
+cn_zbd_04a_1;ZBD04A
+cn_zbd_04a_2;IFV
 cn_ztl_11_shop;ZLT11
 cn_ztl_11_0;中国兵器工业集团有限公司 | ZLT2011式轮式装甲突击车
 cn_ztl_11_1;ZLT11
 cn_ztl_11_2;Light Tank
+cn_qn506_shop;QN506
+cn_qn506_0;武汉高德红外 | QN506多武器战斗车辆
+cn_qn506_1;QN506
+cn_qn506_2;IFV
 cn_vt_5_shop;╷ VT5BD
 cn_vt_5_0;╷ 中国兵器工业集团有限公司 | Lā'iṭa Ṭyānka VT5BD
 cn_vt_5_1;╷ VT5BD
 cn_vt_5_2;Light tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+cn_wz_1001_shop;WZ123A(Y)
+cn_wz_1001_0;中国兵器工业集团有限公司 | WZ123A(Y)
+cn_wz_1001_1;WZ123A(Y)
+cn_wz_1001_2;MBT
+cn_vt_4b_shop;CS/VT4A1
+cn_vt_4b_0;中国兵器工业集团有限公司 | CS/VT4A1型主战坦克
+cn_vt_4b_1;CS/VT4A1
+cn_vt_4b_2;MBT
+cn_tor_m1_shop;␗ 9А331-1
+cn_tor_m1_0;␗ Научно-производственное объединение Антей | БМ 9А331-1
+cn_tor_m1_1;␗ 9А331-1
+cn_tor_m1_2;SPAAM
 cn_hq_17_shop;ADK17
 cn_hq_17_0;中国精密机械进出口总公司 | HQ17 | ADK17地對空飛彈系統
 cn_hq_17_1;ADK17

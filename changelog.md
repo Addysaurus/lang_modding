@@ -16,7 +16,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - **PAO Kompaniâ Sukhoj** added as the manufacturer to the **Su-27**.
     - **Chéngdū Fēijī Gōngyè (Jítuán)** added as the manufacturer to the **J10A**.
-    - **Nakajima Hikōki** added as the manufacturer to the **M7N1-J Kō**.
+    - **Nakajima Hikōki** added as the manufacturer to the **M7N1-J Kō**. It existed in the Japanese package but was left out of the standard mod by mistake.
 
 ### Sensors:
 

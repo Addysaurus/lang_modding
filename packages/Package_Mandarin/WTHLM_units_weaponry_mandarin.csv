@@ -1,4 +1,36 @@
 <ID|readonly|noverify>;<English>
 //GUNS
-weapons/25mm_PG87_PGZ_user_cannon;<color=@userlogColoredText>25 mm</color> WA709 | PG1987式双管25毫米高射机关炮 <color=#ff6f00>ACNN</color>
-weapons/25mm_PG87_user_cannon;<color=@userlogColoredText>25 mm</color> WA709 | PG1987式双管25毫米高射机关炮 <color=#ff6f00>ACNN</color>
+weapons/25mm_PG87_PGZ_user_cannon;<color=@userlogColoredText>25 mm</color> WA709 | L/PG1987式双管25毫米高射机关炮 <color=#ff6f00>ACNN</color>
+weapons/25mm_PG87_user_cannon;<color=@userlogColoredText>25 mm</color> WA709 | L/PG1987式双管25毫米高射机关炮 <color=#ff6f00>ACNN</color>
+
+//MISSILES
+weapons/cn_pl8b;PL8B | K/AKK8B空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/cn_pl8b/short;K/AKK8B
+weapons/cn_pl8b_default;PL8B | K/AKK8B空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/cn_pl8b_default/short;K/AKK8B
+
+//FUEL TANKS
+weapons/cn_800l_fyx800_drop_tank_1;<color=@userlogColoredText>800 L</color> K/FYX800B副油箱 <color=#ff6f00>DPTK</color>
+weapons/cn_800l_fyx800_drop_tank_1/short;K/FYX800B
+weapons/cn_800l_central_fyx800_drop_tank;<color=@userlogColoredText>800 L</color> K/FYX800B副油箱 <color=#ff6f00>DPTK</color>
+weapons/cn_800l_central_fyx800_drop_tank/short;K/FYX800B
+weapons/cn_800l_fyx800_drop_tank_2;<color=@userlogColoredText>800 L</color> K/FYX800B副油箱 <color=#ff6f00>DPTK</color>
+weapons/cn_800l_fyx800_drop_tank_2/short;K/FYX800B
+weapons/cn_800l_fyx800_j_10_drop_tank_1;<color=@userlogColoredText>800 L</color> K/FYX800B副油箱 <color=#ff6f00>DPTK</color>
+weapons/cn_800l_fyx800_j_10_drop_tank_1/short;K/FYX800B
+weapons/cn_800l_fyx800_j_10_drop_tank_2;<color=@userlogColoredText>800 L</color> K/FYX800B副油箱 <color=#ff6f00>DPTK</color>
+weapons/cn_800l_fyx800_j_10_drop_tank_2/short;K/FYX800B
+weapons/cn_1400l_fyx1400_drop_tank_1;<color=@userlogColoredText>1400 L</color> K/FYX1400E副油箱 <color=#ff6f00>DPTK</color>
+weapons/cn_1400l_fyx1400_drop_tank_1/short;K/FYX1400E
+weapons/cn_1400l_fyx1400_drop_tank_2;<color=@userlogColoredText>1400 L</color> K/FYX1400E副油箱 <color=#ff6f00>DPTK</color>
+weapons/cn_1400l_fyx1400_drop_tank_2/short;K/FYX1400E
+weapons/cn_1400l_fyx1400_drop_tank_3;<color=@userlogColoredText>1400 L</color> K/FYX1400E副油箱 <color=#ff6f00>DPTK</color>
+weapons/cn_1400l_fyx1400_drop_tank_3/short;K/FYX1400E
+weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank;<color=@userlogColoredText>1400 L</color> K/FYX1400E副油箱 <color=#ff6f00>DPTK</color>
+weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank/short;K/FYX1400E
+weapons/cn_1600l_drop_tank;<color=@userlogColoredText>1600 L</color> K/FYX1700副油箱 <color=#ff6f00>DPTK</color>
+weapons/cn_1600l_drop_tank/short;K/FYX1700
+weapons/cn_1600l_drop_tank_1;<color=@userlogColoredText>1600 L</color> K/FYX1700副油箱 <color=#ff6f00>DPTK</color>
+weapons/cn_1600l_drop_tank_1/short;K/FYX1700
+weapons/cn_1600l_drop_tank_2;<color=@userlogColoredText>1600 L</color> K/FYX1700副油箱 <color=#ff6f00>DPTK</color>
+weapons/cn_1600l_drop_tank_2/short;K/FYX1700

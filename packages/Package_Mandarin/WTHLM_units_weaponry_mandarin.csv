@@ -16,10 +16,40 @@ weapons/cannonType37_1;<color=@userlogColoredText>37 mm</color> 37-1型37毫米�
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> L/PL2005式155毫米加农榴弹炮 <color=#ff6f00>CNN-HWZ</color>
 
 //MISSILES
+weapons/su_pl2;PL2 | K/AKK2空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl2/short;K/AKK2
+weapons/su_pl2_default;PL2 | K/AKK2空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl2_default/short;K/AKK2
+weapons/su_pl5b;PL5B | K/AKK5B空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl5b/short;K/AKK5B
+weapons/su_pl5b_default;PL5B | K/AKK5B空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl5b_default/short;K/AKK5B
+weapons/su_pl5c;PL5C | K/AKK5C空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl5c/short;K/AKK5C
+weapons/su_pl5c_default;PL5C | K/AKK5C空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl5c_default/short;K/AKK5C
+weapons/su_pl5e2;PL5EII | K/AKK5EII空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl5e2/short;K/AKK5EII
+weapons/su_pl5e2_default;PL5EII | K/AKK5EII空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl5e2_default/short;K/AKK5EII
+weapons/su_pl7;PL7 | K/AKK7空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl7/short;K/AKK7
+weapons/cn_pl8;PL8 | K/AKK8空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/cn_pl8/short;K/AKK8
+weapons/cn_pl8_default;PL8 | K/AKK8空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/cn_pl8_default/short;K/AKK8
 weapons/cn_pl8b;PL8B | K/AKK8B空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/cn_pl8b/short;K/AKK8B
 weapons/cn_pl8b_default;PL8B | K/AKK8B空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/cn_pl8b_default/short;K/AKK8B
+weapons/cn_pl11;PL11 | K/AKK11空空导弹 <color=#ff6f00>AAM-SARH</color>
+weapons/cn_pl11/short;K/AKK11
+weapons/cn_pl12;PL12 | K/AKK12空空导弹 <color=#ff6f00>AAM-ARH</color>
+weapons/cn_pl12/short;K/AKK12
+weapons/cn_pl12_default;PL12 | K/AKK12空空导弹 <color=#ff6f00>AAM-ARH</color>
+weapons/cn_pl12_default/short;K/AKK12
+weapons/cn_ty_90;TY1990 | K/AKK1990空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/cn_ty_90/short;K/AKK90
 
 //FUEL TANKS
 weapons/cn_800l_fyx800_drop_tank_1;<color=@userlogColoredText>800 L</color> K/FYX800B副油箱 <color=#ff6f00>DPTK</color>

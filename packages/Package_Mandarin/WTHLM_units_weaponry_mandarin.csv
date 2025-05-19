@@ -1,7 +1,19 @@
 <ID|readonly|noverify>;<English>
 //GUNS
+weapons/cannonType_23_1;<color=@userlogColoredText>23 mm</color> 23-1型23毫米航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType_23_1_plane;<color=@userlogColoredText>23 mm</color> 23-1型23毫米航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType_23_1_plane_turret;<color=@userlogColoredText>23 mm</color> 23-1型23毫米航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType_23L;<color=@userlogColoredText>23 mm</color> 23L型23毫米航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannon_type23_2k;<color=@userlogColoredText>23 mm</color> 23-2K型23毫米航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType_23_3;<color=@userlogColoredText>23 mm</color> 23-3型23毫米航空机炮 <color=#ff6f00>ACNN</color>
 weapons/25mm_PG87_PGZ_user_cannon;<color=@userlogColoredText>25 mm</color> WA709 | L/PG1987式双管25毫米高射机关炮 <color=#ff6f00>ACNN</color>
 weapons/25mm_PG87_user_cannon;<color=@userlogColoredText>25 mm</color> WA709 | L/PG1987式双管25毫米高射机关炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType30_1;<color=@userlogColoredText>30 mm</color> 30-1型30毫米航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType30_1/short;30-1型
+weapons/cannonType_30_4;<color=@userlogColoredText>30 mm</color> 30-4型30毫米航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType_30_4/short;30-4型
+weapons/cannonType37_1;<color=@userlogColoredText>37 mm</color> 37-1型37毫米航空机炮 <color=#ff6f00>ACNN</color>
+weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> L/PL2005式155毫米加农榴弹炮 <color=#ff6f00>CNN-HWZ</color>
 
 //MISSILES
 weapons/cn_pl8b;PL8B | K/AKK8B空空导弹 <color=#ff6f00>AAM-IR</color>

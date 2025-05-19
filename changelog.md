@@ -17,6 +17,12 @@ All dates are listed in DD-MM-YYYY format.
     - **PAO Kompaniâ Sukhoj** added as the manufacturer to the **Su-27**.
     - **Chéngdū Fēijī Gōngyè (Jítuán)** added as the manufacturer to the **J10A**.
     - **Nakajima Hikōki** added as the manufacturer to the **M7N1-J Kō**. It existed in the Japanese package but was left out of the standard mod by mistake.
+    - **Aconit (K 58)**: Long name → **Ailsa Shipbuilding Company | Corvette de Classe Flower | Aconit (K 58)**.
+    - **Arras (AS)**: Long name → **Arsenal de Brest | Aviso de 1re Classe | Aviso de Classe Arras | Arras (AS)**.
+    - **Amiens (7)**: Long name → **Société Nouvelle des Forges et Chantiers de la Méditerranée / Arsenal de Cherbourg | Aviso de 1re Classe | Aviso de Classe Arras | Amiens (7) (1940)**.
+    - **Marne**: Long name → **Arsenal de Lorient | Aviso de 1re Classe | Aviso de Classe Marne | Marne (1925)**.
+    - **Dunkerque**: Long name → **Arsenal de Brest | Cuirassé de Classe Dunkerque | Dunkerque (1939)**.
+    - **Strasbourg**: Long name → **Ateliers et Chantiers de la Loire | Cuirassé de Classe Dunkerque | Strasbourg (1942)**.
 
 ### Sensors:
 

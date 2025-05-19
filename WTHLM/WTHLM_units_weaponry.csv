@@ -1,4 +1,31 @@
 <ID|readonly|noverify>;<English>
+//GUNS
+
+//BOMBS
+
+//MINES
+
+//ROCKETS
+weapons/fr_sneb_type23s;SNEB F1 Type 23
+weapons/fr_sneb_type23s/short;SNEB F1 Type 23
+weapons/fr_sneb_type23;SNEB F1 Type 23
+weapons/fr_sneb_type23/short;SNEB F1 Type 23
+weapons/fr_sneb_type23_expo;SNEB F1 Type 23
+weapons/fr_sneb_type23_expo/short;SNEB F1 Type 23
+weapons/fr_sneb_type23_late;SNEB F1 Type 23
+weapons/fr_sneb_type23_late/short;SNEB F1 Type 23
+weapons/fr_sneb_type23_md_460;SNEB F1 Type 23
+weapons/fr_sneb_type23_md_460/short;SNEB F1 Type 23
+weapons/fr_sneb_type23_4fin;SNEB F1 Type 23
+weapons/fr_sneb_type23_4fin/short;SNEB F1 Type 23
+weapons/in_nasser_240;Naṣr 240
+weapons/in_nasser_240/short;Naṣr 240
+
+//MISSILES
+
+//FUEL TANKS
+
+//UNCATEGORIZED
 weapons/cannonMGC30L;20 mm MG C/30L cannon
 weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
 weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
@@ -236,12 +263,6 @@ weapons/fr_matra_t_10_140b;T10 140 rocket
 weapons/fr_matra_t_10_140a;T10 140 rocket
 weapons/fr_matra_t_10_151b;T10 151 rocket
 weapons/fr_matra_t_10_151a;T10 151 rocket
-weapons/fr_sneb_type23;SNEB type 23 rocket
-weapons/fr_sneb_type23_expo;SNEB type 23 rocket
-weapons/fr_sneb_type23_late;SNEB type 23 rocket
-weapons/fr_sneb_type23_late/short;SNEB type 23
-weapons/fr_sneb_type23_md_460;SNEB type 23 rocket
-weapons/fr_sneb_type23_md_460/short;SNEB type 23
 weapons/fr_sneb_type26;SNEB type 26 rocket
 weapons/fr_sneb_type26/short;SNEB type 26
 weapons/fr_50kg_gammn;50 kg G.A. MMN. 50
@@ -2812,8 +2833,6 @@ weapons/jp_type91mod3_torpedo/short;Type 91 Mod.3
 weapons/jp_type91mod2_torpedo/short;Type 91 Mod.2
 weapons/ijnaf_60kg/short;No.27
 weapons/de_br20/short;Wfr.Gr.21
-weapons/fr_sneb_type23/short;SNEB type 23 rocket
-weapons/fr_sneb_type23_expo/short;SNEB type 23 rocket
 weapons/su_rs132/short;RS-132
 weapons/su_rs82/short;RS-82
 weapons/su_rbs132/short;RBS-132
@@ -3311,8 +3330,6 @@ weapons/su_9M17P/short;9М17P Falanga
 weapons/su_s_8kom_rocket;80 mm S-8KOM rocket
 weapons/fr_sneb_37;37 mm SNEB rocket
 weapons/fr_sneb_37/short;SNEB 37
-weapons/fr_sneb_type23_4fin;SNEB type 23 rockets
-weapons/fr_sneb_type23_4fin/short;SNEB type 23
 weapons/us_127mm_TOW2;Ground-Launched, Surface-Attack, Guided Missile, BGM-71D-5 TOW-2 <color=#ff6f00>ATGM-WG</color>
 weapons/us_127mm_TOW2/short;BGM-71D-5
 weapons/us_127mm_TOW;Ground-Launched, Surface-Attack, Guided Missile, BGM-71С ITOW <color=#ff6f00>ATGM-WG</color>
@@ -4278,6 +4295,7 @@ weapons/120mm_GIAT_CN120_26_F1_user_cannon;120 mm GIAT CN120-26 F1 cannon
 weapons/120mm_GIAT_CN120_25_G1_user_cannon;120 mm GIAT CN120-25 G1 cannon
 120mm_occ_120_g1;OCC 120 G1
 120mm_ofl_120_g1;OFL 120 G1
+105mm_ofl_g2;OFL 105 G2
 weapons/115mm_U5TS_T-62M1_user_cannon;115 mm U-5TS cannon
 115mm_3bk_15m;3UBK7M (3BK15M)
 115mm_3bm21;3UBM9 (3BM21)

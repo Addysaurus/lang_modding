@@ -10,10 +10,22 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.12.05 - UNRELEASED
 
+### General
+
+- #### Additions:
+
+    - **HF-24**
+    - Added 1 new loading tip:
+        - General: 0
+        - Air: 0
+        - Ground: 1
+        - Naval: 0
+
 ### Vehicles:
 
 - #### Changes:
 
+    - **HF-24** **Māruta Mk. 1**. Long name → **Hindusthān Ēyaronāṭiksa Limiṭeḍ HF-24 | Māruta Mk. 1**.
     - **PAO Kompaniâ Sukhoj** added as the manufacturer to the **Su-27**.
     - **Chéngdū Fēijī Gōngyè (Jítuán)** added as the manufacturer to the **J10A**.
     - **Nakajima Hikōki** added as the manufacturer to the **M7N1-J Kō**. It existed in the Japanese package but was left out of the standard mod by mistake.
@@ -23,6 +35,18 @@ All dates are listed in DD-MM-YYYY format.
     - **Marne**: Long name → **Arsenal de Lorient | Aviso de 1re Classe | Aviso de Classe Marne | Marne (1925)**.
     - **Dunkerque**: Long name → **Arsenal de Brest | Cuirassé de Classe Dunkerque | Dunkerque (1939)**.
     - **Strasbourg**: Long name → **Ateliers et Chantiers de la Loire | Cuirassé de Classe Dunkerque | Strasbourg (1942)**.
+
+### Weaponry:
+
+- #### Additions:
+
+    - **SNEB type 23** (a new one for the **Māruta Mk. 1**)
+    - **Nasser 240**
+
+- #### Changes:
+
+    - **SNEB type 23** → **SNEB F1 Type 23**.
+    - **Nasser 240** → **Naṣr 240**.
 
 ### Sensors:
 

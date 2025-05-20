@@ -50,14 +50,36 @@ weapons/cn_pl12_default;PL12 | K/AKK12空空导弹 <color=#ff6f00>AAM-ARH</color
 weapons/cn_pl12_default/short;K/AKK12
 weapons/cn_ty_90;TY1990 | L/AKK1990空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/cn_ty_90/short;L/AKK90
-weapons/cn_akd_9;BA9 | L/AKD09空地导弹 <color=#ff6f00>AAM-LG</color>
+weapons/cn_akd_9;BA9 | L/AKD09空地导弹 <color=#ff6f00>AGM-LG</color>
 weapons/cn_akd_9/short;L/AKD09
-weapons/cn_akd_9_default;BA9 | L/AKD09空地导弹 <color=#ff6f00>AAM-LG</color>
+weapons/cn_akd_9_default;BA9 | L/AKD09空地导弹 <color=#ff6f00>AGM-LG</color>
 weapons/cn_akd_9_default/short;L/AKD09
-weapons/cn_ba_9;BA9 | L/AKD09空地导弹 <color=#ff6f00>AAM-LG</color>
+weapons/cn_ba_9;BA9 | L/AKD09空地导弹 <color=#ff6f00>AGM-LG</color>
 weapons/cn_ba_9/short;L/AKD09
-weapons/cn_akd_10;BA7 | L/AKD10空地导弹 <color=#ff6f00>AAM-LG</color>
+weapons/cn_akd_10;BA7 | L/AKD10空地导弹 <color=#ff6f00>AGM-LG</color>
 weapons/cn_akd_10/short;L/AKD10
+weapons/cn_hj_8a;HJ8A | L/AFT08A反坦克导弹 <color=#ff6f00>AGM-WG</color>
+weapons/cn_hj_8a/short;L/AFT08A
+weapons/cn_hj_8c;HJ8C | L/AFT08C反坦克导弹 <color=#ff6f00>AGM-WG</color>
+weapons/cn_hj_8c/short;L/AFT08C
+weapons/cn_hj_8e;HJ8E | L/AFT08E反坦克导弹 <color=#ff6f00>AGM-WG</color>
+weapons/cn_hj_8e/short;L/AFT08E
+weapons/cn_hj_8e_default;HJ8E | L/AFT08E反坦克导弹 <color=#ff6f00>AGM-WG</color>
+weapons/cn_hj_8e_default/short;L/AFT08E
+weapons/cn_hj_8h;HJ8H | L/AFT08H反坦克导弹 <color=#ff6f00>AGM-WG</color>
+weapons/cn_hj_8h/short;L/AFT08H
+weapons/cn_hj_8l;HJ8L | L/AFT08L反坦克导弹 <color=#ff6f00>AGM-WG</color>
+weapons/cn_hj_8l/short;L/AFT08L
+weapons/125mm_hj_73_rocket_launcher;HJ73 | L/AFT07反坦克导弹 <color=#ff6f00>LCH</color>
+weapons/125mm_hj_73_rocket_launcher/short;L/AFT07
+weapons/125mm_AFT_07_rocket_launcher;HJ73E | L/AFT07E反坦克导弹 <color=#ff6f00>LCH</color>
+weapons/125mm_AFT_07_rocket_launcher/short;L/AFT07E
+125mm_hj_73;L/AFT07
+weapons/125mm_hj_73/short;L/AFT07
+125mm_hj_73e;L/AFT07E
+weapons/125mm_hj_73e/short;L/AFT07E
+120_aft_07;L/AFT07E
+weapons/120_aft_07/short;L/AFT07E
 
 //FUEL TANKS
 weapons/cn_800l_fyx800_drop_tank_1;<color=@userlogColoredText>800 L</color> K/FYX800B副油箱 <color=#ff6f00>DPTK</color>

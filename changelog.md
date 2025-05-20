@@ -25,7 +25,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **HF-24** **Māruta Mk. 1**. Long name → **Hindusthān Ēyaronāṭiksa Limiṭeḍ HF-24 | Māruta Mk. 1**.
+    - **HF-24** → **Māruta Mk. 1**. Long name → **Hindusthān Ēyaronāṭiksa Limiṭeḍ HF-24 | Māruta Mk. 1**.
     - **PAO Kompaniâ Sukhoj** added as the manufacturer to the **Su-27**.
     - **Chéngdū Fēijī Gōngyè (Jítuán)** added as the manufacturer to the **J10A**.
     - **Nakajima Hikōki** added as the manufacturer to the **M7N1-J Kō**. It existed in the Japanese package but was left out of the standard mod by mistake.
@@ -42,17 +42,38 @@ All dates are listed in DD-MM-YYYY format.
 
     - **SNEB type 23** (a new one for the **Māruta Mk. 1**)
     - **Nasser 240**
+    - **OFL 105 G2**
+    - **L52A1**
+    - **Drop tank (100 gal.)** (for the **Māruta Mk. 1**)
 
 - #### Changes:
 
     - **SNEB type 23** → **SNEB F1 Type 23**.
+    - **SNEB type 26** (in files but unused) → **SNEB F1 Type 26P**.
     - **Nasser 240** → **Naṣr 240**.
+    - **Drop tank (100 gal.)** → **Drop tank (100 gal)**.
+
+### Modifications:
+
+- #### Additions:
+
+    - **Matra T10 121**
 
 ### Sensors:
 
 - #### Changes:
 
     - **N001K** radar → **RLPK-27K Myeč**.
+
+### Engines:
+
+- #### Additions:
+
+    - **Orpheus MK.703**
+
+- #### Changes:
+
+    - **Orpheus MK.703** → **Orpheus Mk. 703**.
 
 ### Decals & decorations:
 

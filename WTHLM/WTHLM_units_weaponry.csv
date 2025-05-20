@@ -1,29 +1,42 @@
 <ID|readonly|noverify>;<English>
 //GUNS
 
+//GUN AMMUNITION
+105mm_ofl_g2;OFL 105 G2
+
 //BOMBS
 
 //MINES
 
 //ROCKETS
-weapons/fr_sneb_type23s;SNEB F1 Type 23
+weapons/fr_sneb_type23s;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type23s/short;SNEB F1 Type 23
-weapons/fr_sneb_type23;SNEB F1 Type 23
+weapons/fr_sneb_type23;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type23/short;SNEB F1 Type 23
-weapons/fr_sneb_type23_expo;SNEB F1 Type 23
+weapons/fr_sneb_type23_expo;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type23_expo/short;SNEB F1 Type 23
-weapons/fr_sneb_type23_late;SNEB F1 Type 23
+weapons/fr_sneb_type23_late;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type23_late/short;SNEB F1 Type 23
-weapons/fr_sneb_type23_md_460;SNEB F1 Type 23
+weapons/fr_sneb_type23_md_460;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type23_md_460/short;SNEB F1 Type 23
-weapons/fr_sneb_type23_4fin;SNEB F1 Type 23
+weapons/fr_sneb_type23_4fin;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type23_4fin/short;SNEB F1 Type 23
-weapons/in_nasser_240;Naṣr 240
+weapons/fr_sneb_type26_TDA;SNEB F1 Type 26P
+weapons/fr_sneb_type26_TDA/short;SNEB F1 Type 26P
+weapons/in_nasser_240;Naṣr 240 <color=#ff6f00>RKT</color>
 weapons/in_nasser_240/short;Naṣr 240
 
 //MISSILES
 
 //FUEL TANKS
+weapons/in_100gal_marut_drop_tank_l;Drop tank (100 gal)
+weapons/in_100gal_marut_drop_tank_l/short;Drop tank (100 gal)
+weapons/in_100gal_marut_drop_tank_l_2;Drop tank (100 gal)
+weapons/in_100gal_marut_drop_tank_l_2/short;Drop tank (100 gal)
+weapons/in_100gal_marut_drop_tank_r;Drop tank (100 gal)
+weapons/in_100gal_marut_drop_tank_r/short;Drop tank (100 gal)
+weapons/in_100gal_marut_drop_tank_r_2;Drop tank (100 gal)
+weapons/in_100gal_marut_drop_tank_r_2/short;Drop tank (100 gal)
 
 //UNCATEGORIZED
 weapons/cannonMGC30L;20 mm MG C/30L cannon
@@ -2639,6 +2652,7 @@ weapons/120mm_ctg_l50_user_cannon;<color=@userlogColoredText>120 mm</color> RUAG
 94mm_shell_mk1;Shell Mk. 1
 94mm_shot_mk1;Shot Mk. 1
 105mm_l28a1;Shot L28A1
+105mm_l52a1;L52A1
 105mm_l35;Shell L35
 120mm_l1tk;Shell L1TK
 120mm_l37a7;Shell L31A7

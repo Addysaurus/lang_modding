@@ -27,7 +27,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - **HF-24** → **Māruta Mk. 1**. Long name → **Hindusthān Ēyaronāṭiksa Limiṭeḍ HF-24 | Māruta Mk. 1**.
     - **PAO Kompaniâ Sukhoj** added as the manufacturer to the **Su-27**.
-    - **Chéngdū Fēijī Gōngyè (Jítuán)** added as the manufacturer to the **J10A**.
+    - **Chéngdū Fēijī Gōngyè Jítuán** added as the manufacturer to the **J10A**.
     - **Nakajima Hikōki** added as the manufacturer to the **M7N1-J Kō**. It existed in the Japanese package but was left out of the standard mod by mistake.
     - **Aconit (K 58)**: Long name → **Ailsa Shipbuilding Company | Corvette de Classe Flower | Aconit (K 58)**.
     - **Arras (AS)**: Long name → **Arsenal de Brest | Aviso de 1re Classe | Aviso de Classe Arras | Arras (AS)**.

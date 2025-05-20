@@ -48,8 +48,16 @@ weapons/cn_pl12;PL12 | K/AKK12空空导弹 <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl12/short;K/AKK12
 weapons/cn_pl12_default;PL12 | K/AKK12空空导弹 <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl12_default/short;K/AKK12
-weapons/cn_ty_90;TY1990 | K/AKK1990空空导弹 <color=#ff6f00>AAM-IR</color>
-weapons/cn_ty_90/short;K/AKK90
+weapons/cn_ty_90;TY1990 | L/AKK1990空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/cn_ty_90/short;L/AKK90
+weapons/cn_akd_9;BA9 | L/AKD09空地导弹 <color=#ff6f00>AAM-LG</color>
+weapons/cn_akd_9/short;L/AKD09
+weapons/cn_akd_9_default;BA9 | L/AKD09空地导弹 <color=#ff6f00>AAM-LG</color>
+weapons/cn_akd_9_default/short;L/AKD09
+weapons/cn_ba_9;BA9 | L/AKD09空地导弹 <color=#ff6f00>AAM-LG</color>
+weapons/cn_ba_9/short;L/AKD09
+weapons/cn_akd_10;BA7 | L/AKD10空地导弹 <color=#ff6f00>AAM-LG</color>
+weapons/cn_akd_10/short;L/AKD10
 
 //FUEL TANKS
 weapons/cn_800l_fyx800_drop_tank_1;<color=@userlogColoredText>800 L</color> K/FYX800B副油箱 <color=#ff6f00>DPTK</color>

@@ -36,6 +36,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Dunkerque**: Long name → **Arsenal de Brest | Cuirassé de Classe Dunkerque | Dunkerque (1939)**.
     - **Strasbourg**: Long name → **Ateliers et Chantiers de la Loire | Cuirassé de Classe Dunkerque | Strasbourg (1942)**.
     - **Scharnhorst**: Long name → **Kriegsmarinewerft Wilhelmshaven | Schlachtschiff Klasse Scharnhorst | Scharnhorst (1943)**.
+    - **Hunter Mk. 58A (80/2)**: Long name → **Hawker Siddeley Aviation | Hunter Mk. 58A (Hunter 80/2)**.
 
 ### Weaponry:
 

@@ -8,6 +8,14 @@ In the case of a weapon being renamed in the same patch that its weight or calib
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.12.06 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - **Kronštadt**: Long name → **Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt**
+
 ## 1.12.05 - 22-05-2025
 
 ### General

@@ -17,6 +17,12 @@ All dates are listed in DD-MM-YYYY format.
     - **Kronštadt**: Long name → **Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt**
     - **FlaRakRad 1 Roland** → **FlaRakRad 1 Roland**: Long name → **Rheinmetall MAN Military Vehicles | Flugabwehrraketenradwagen 1 Roland auf Lkw 15t mil gl Kat 1 A1**
 
+### Weaponry:
+
+- #### Changes:
+
+    - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
+
 ## 1.12.05 - 22-05-2025
 
 ### General

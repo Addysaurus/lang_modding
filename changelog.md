@@ -16,12 +16,18 @@ All dates are listed in DD-MM-YYYY format.
 
     - **Kronštadt**: Long name → **Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt**
     - **FlaRakRad 1 Roland** → **FlaRakRad 1 Roland**: Long name → **Rheinmetall MAN Military Vehicles | Flugabwehrraketenradwagen 1 Roland auf Lkw 15t mil gl Kat 1 A1**
+    - **CCKW 353 (M1)** → **FlaRakRad 1 Roland**: Mid distance name → **CCKW 353 (M1)**. The mid distance name was previously **CCKW 353 (N1)** due to a typo.
 
 ### Weaponry:
 
 - #### Changes:
 
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
+    - **10,5 cm kanon stridsvagn 101**: Caliber tag corrected from 84 mm to 105 mm.
+    - **10,5 cm kanon stridsvagn 104**: Caliber tag corrected from 84 mm to 105 mm.
+    - **10,5 cm kanon stridsvagn 105**: Caliber tag corrected from 84 mm to 105 mm.
+    - **20 mm automatkanon m/45B**: Caliber tag corrected from 12.7 mm to 20 mm.
+    - **FN MAG 60-40**: Caliber tag corrected from 7.92 mm to 7.62 mm. One of them that was mistakenly called just the **FN MAG** has also been corrected to the **FN MAG 60-40**.
 
 ## 1.12.05 - 22-05-2025
 

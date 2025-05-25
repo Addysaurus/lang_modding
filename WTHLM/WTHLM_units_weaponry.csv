@@ -2643,9 +2643,9 @@ weapons/su_fab5000;5000 kg bomb FAB-5000
 105mm_slspgr_m61;slspgr m/61
 weapons/75mm_kan_strv_74_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm kanon stridsvagn 74 <color=#ff6f00>CNN</color>
 weapons/84mm_kan_strv81_user_cannon;<color=@userlogColoredText>84 mm</color> 8,4 cm kanon stridsvagn 81 <color=#ff6f00>CNN</color>
-weapons/105mm_kan_strv_101_user_cannon;<color=@userlogColoredText>84 mm</color> 10,5 cm kanon stridsvagn 101 <color=#ff6f00>CNN</color>
-weapons/105mm_kan_strv_104_user_cannon;<color=@userlogColoredText>84 mm</color> 10,5 cm kanon stridsvagn 104 <color=#ff6f00>CNN</color>
-weapons/105mm_kan_strv_105_user_cannon;<color=@userlogColoredText>84 mm</color> 10,5 cm kanon stridsvagn 105 <color=#ff6f00>CNN</color>
+weapons/105mm_kan_strv_101_user_cannon;<color=@userlogColoredText>105 mm</color> 10,5 cm kanon stridsvagn 101 <color=#ff6f00>CNN</color>
+weapons/105mm_kan_strv_104_user_cannon;<color=@userlogColoredText>105 mm</color> 10,5 cm kanon stridsvagn 104 <color=#ff6f00>CNN</color>
+weapons/105mm_kan_strv_105_user_cannon;<color=@userlogColoredText>105 mm</color> 10,5 cm kanon stridsvagn 105 <color=#ff6f00>CNN</color>
 105mm_slpprj_m90c;slpprj m/90c
 weapons/120mm_ctg_l50_user_cannon;<color=@userlogColoredText>120 mm</color> RUAG Defence 120 mm Compact Tank Gun <color=#ff6f00>CNN</color>
 120mm_slsgr_m95;slsgr m/95
@@ -3289,8 +3289,8 @@ weapons/105mm_FMK4_Modelo_1L_2IP_user_cannon;105 mm FMk. 4 Modelo 1L cannon
 weapons/105mm_FMK4_Modelo_1L_2C_user_cannon;105 mm FMk. 4 Modelo 1L cannon
 weapons/105mm_FMK4_Modelo_1L_user_cannon;105 mm FMk. 4 Modelo 1L cannon
 weapons/7_62mm_C6_user_machinegun;7.62 mm C6 machine gun
-weapons/7_62mm_FN_MAG60_40_user_machinegun;<color=@userlogColoredText>7.92 mm</color> FN MAG 60-40 <color=#ff6f00>MG</color>
-weapons/7_62mm_FN_MAG60_40_namer_user_machinegun;<color=@userlogColoredText>7.92 mm</color> FN MAG 60-40 <color=#ff6f00>MG</color>
+weapons/7_62mm_FN_MAG60_40_user_machinegun;<color=@userlogColoredText>7.62 mm</color> FN MAG 60-40 <color=#ff6f00>MG</color>
+weapons/7_62mm_FN_MAG60_40_namer_user_machinegun;<color=@userlogColoredText>7.62 mm</color> FN MAG 60-40 <color=#ff6f00>MG</color>
 weapons/40mm_L70_Bofors_mk3_user_cannon;<color=@userlogColoredText>40 mm</color> Gun, Automatic, 40mm, M266 <color=#ff6f00>ACNN</color>
 weapons/20mm_m693_amx_10_user_cannon;20 mm GIAT М693/mod F2 automatic cannon
 weapons/20mm_M_693_marder_clovis_user_cannon;20 mm CN20 F2 automatic cannon
@@ -3990,7 +3990,7 @@ weapons/gunAkan_12_7_m45;<color=@userlogColoredText>12.7 mm</color> 12,7 mm auto
 weapons/gunAkan_12_7_m45/short;akan m/45
 weapons/cannonAkan_m45;<color=@userlogColoredText>20 mm</color> 20 mm automatkanon m/45 <color=#ff6f00>ACNN</color>
 weapons/cannonAkan_m45/short;akan m/45
-weapons/20mm_akan_m45_B_user_cannon;<color=@userlogColoredText>12.7 mm</color> 20 mm automatkanon m/45B <color=#ff6f00>ACNN</color>
+weapons/20mm_akan_m45_B_user_cannon;<color=@userlogColoredText>20 mm</color> 20 mm automatkanon m/45B <color=#ff6f00>ACNN</color>
 weapons/cannonAkan_m47;<color=@userlogColoredText>57 mm</color> 57 mm automatkanon m/47 <color=#ff6f00>ACNN</color>
 weapons/cannonAkan_m47/short;akan m/47
 weapons/cannonAkan_m47b;<color=@userlogColoredText>20 mm</color> 20 mm automatkanon m/47B <color=#ff6f00>ACNN</color>
@@ -5747,7 +5747,7 @@ weapons/76mm_40_armstrong_mod_1897_1912_naval_user_cannon;76 mm/40 Armstrong can
 76mm_40_contro_aerea;76 mm HE-TF
 weapons/127mm_51_mk7_naval_user_cannon;5 inch/51 Mk. 7 cannon
 127mm_51_apc;5 inch APC
-weapons/7_62mm_fn_mag_naval_user_machinegun;<color=@userlogColoredText>7.92 mm</color> FN MAG <color=#ff6f00>MG</color>
+weapons/7_62mm_fn_mag_naval_user_machinegun;<color=@userlogColoredText>7.62 mm</color> FN MAG 60-40 <color=#ff6f00>MG</color>
 weapons/305mm_52_obr1907_1941_naval_user_cannon;12-inch/52 pattern 1907 cannon
 weapons/20mm_65_rh_202_naval_user_cannon;20 mm/65 Rh 202
 weapons/7_62mm_mg3_naval_user_machinegun;MG-3 machinegun

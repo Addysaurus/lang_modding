@@ -18,6 +18,9 @@ weapons/85mm_Type_63_user_cannon;<color=@userlogColoredText>85 mm</color> L/ZPL1
 weapons/105mm_ZPL151A_user_cannon;<color=@userlogColoredText>105 mm</color> L/ZPL151型105毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> L/PL2005式155毫米加农榴弹炮 <color=#ff6f00>CNN-HWZ</color>
 
+//AMMUNITION
+105mm_dtw2_105;L/DTW2-105
+
 //MISSILES
 weapons/su_pl2;PL2 | K/AKK2空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/su_pl2/short;K/AKK2

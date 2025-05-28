@@ -16,7 +16,8 @@ All dates are listed in DD-MM-YYYY format.
 
     - **Kronštadt**: Long name → **Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt**
     - **FlaRakRad 1 Roland** → **FlaRakRad 1 Roland**: Long name → **Rheinmetall MAN Military Vehicles | Flugabwehrraketenradwagen 1 Roland auf Lkw 15t mil gl Kat 1 A1**
-    - **CCKW 353 (M1)** → **FlaRakRad 1 Roland**: Mid distance name → **CCKW 353 (M1)**. The mid distance name was previously **CCKW 353 (N1)** due to a typo.
+    - **CCKW 353 (M1)**: Mid distance name → **CCKW 353 (M1)**. The mid distance name was previously **CCKW 353 (N1)** due to a typo.
+    - **Mirage 2000 5F** → **Mirage 2000-5 F**.
 
 ### Weaponry:
 

@@ -6,6 +6,14 @@ In the case of a weapon name changing, that change will not be listed in the mod
 
 In the case of a weapon being renamed in the same patch that its weight or caliber and weapon type tags are added, the list of tag changes will use the renamed version of the weapon.
 
+Some terminology for this changelog:
+- Short name: The name that appears for the vehicle card in the tech tree and lineup.
+- Statcad name/long name: The name that appears on the statcard or as the longer version of a weapon's name.
+- Mid distance name: The name that appears at medium distances from a vehicle.
+- Long distance name: The name that appears at long distances from a vehicle.
+- Caliber/mass tag: Yellow colored text in front of a weapon's long name denoting its caliber or mass, depending on what is appropriate for the weapon type.
+- Type tag: Orange colored text at the end of a weapon's long name denoting the type of weapon in abbreviations.
+
 All dates are listed in DD-MM-YYYY format.
 
 ## 1.12.06 - UNRELEASED
@@ -14,8 +22,8 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **Kronštadt**: Long name → **Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt**
-    - **FlaRakRad 1 Roland** → **FlaRakRad 1 Roland**: Long name → **Rheinmetall MAN Military Vehicles | Flugabwehrraketenradwagen 1 Roland auf Lkw 15t mil gl Kat 1 A1**
+    - **Kronštadt**: Statcard name → **Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt**
+    - **FlaRakRad 1 Roland** → **FlaRakRad 1 Roland**: Statcard name → **Rheinmetall MAN Military Vehicles | Flugabwehrraketenradwagen 1 Roland auf Lkw 15t mil gl Kat 1 A1**
     - **CCKW 353 (M1)**: Mid distance name → **CCKW 353 (M1)**. The mid distance name was previously **CCKW 353 (N1)** due to a typo.
     - **Mirage 2000 5F** → **Mirage 2000-5 F**.
 

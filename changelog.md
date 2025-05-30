@@ -29,6 +29,9 @@ All dates are listed in DD-MM-YYYY format.
     - **10,5 cm kanon stridsvagn 105**: Caliber tag corrected from 84 mm to 105 mm.
     - **20 mm automatkanon m/45B**: Caliber tag corrected from 12.7 mm to 20 mm.
     - **FN MAG 60-40**: Caliber tag corrected from 7.92 mm to 7.62 mm. One of them that was mistakenly called just the **FN MAG** has also been corrected to the **FN MAG 60-40**.
+    - **Flz.Lwf. LL 63** → **Flz Lwf LL 63**. Long name → **Flugzeug Lenkwaffe Luft-Luft 63 "SIWA"**
+    - **Flz.Lwf. LL 63/80** → **Flz Lwf LL 63/80**. Long name → **Flugzeug Lenkwaffe Luft-Luft 63/80 "SIWA"**
+    - **Flz.Lwf. LB 82** → **Flz Lwf LB 82**. Long name → **Flugzeug Lenkwaffe Luft-Boden 82 "MAVERICK"**
 
 ## 1.12.05 - 22-05-2025
 

@@ -27,6 +27,12 @@ weapons/in_nasser_240;Naṣr 240 <color=#ff6f00>RKT</color>
 weapons/in_nasser_240/short;Naṣr 240
 
 //MISSILES
+weapons/sws_flz_lwf_63;"Flugzeug Lenkwaffe Luft-Luft 63 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
+weapons/sws_flz_lwf_63/short;Flz Lwf LL 63
+weapons/sws_flz_lwf_63_80;"Flugzeug Lenkwaffe Luft-Luft 63/80 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
+weapons/sws_flz_lwf_63_80/short;Flz Lwf LL 63/80
+weapons/sws_flz_lwf_lb_82;"Flugzeug Lenkwaffe Luft-Boden 82 ""MAVERICK"" <color=#ff6f00>AGM-EO</color>"
+weapons/sws_flz_lwf_lb_82/short;Flz Lwf LB 82
 
 //FUEL TANKS
 weapons/in_100gal_marut_drop_tank_l;Drop tank (100 gal)
@@ -2863,18 +2869,12 @@ weapons/us_5_in_hvar_2/short;5-inch HVAR
 weapons/us_5_in_hvar_b/short;5-inch HVAR
 weapons/sws_oerlikon_oe82;<color=@userlogColoredText>80 mm</color> Flz.Rak. Oerlikon <color=#ff6f00>RKT</color>
 weapons/sws_oerlikon_oe82/short;Flz.Rak. Oerlikon
-weapons/sws_flz_lwf_63_80;Flz.Lwf. LL 63/80 <color=#ff6f00>AAM-IR</color>
-weapons/sws_flz_lwf_63_80/short;Flz.Lwf. LL 63/80
-weapons/sws_flz_lwf_63;Flz.Lwf. LL 63 <color=#ff6f00>AAM-IR</color>
-weapons/sws_flz_lwf_63/short;Flz.Lwf. LL 63
 weapons/sws_200_kg_sprengbombe;200 kg Sprengbombe bomb
 weapons/sws_200_kg_sprengbombe/short;200 kg Sprengbombe
 weapons/sws_400_kg_sprengbombe;400 kg Sprengbombe bomb
 weapons/sws_400_kg_sprengbombe/short;400 kg Sprengbombe
 weapons/sws_450_kg_sprengbombe_68_70;450 kg Sprengbombe 68/70 bomb
 weapons/sws_450_kg_sprengbombe_68_70/short;450 kg Sprengbombe 68/70
-weapons/sws_flz_lwf_lb_82;Flz.Lwf. LB 82 <color=#ff6f00>AGM-EO</color>
-weapons/sws_flz_lwf_lb_82/short;Flz.Lwf. LB 82
 weapons/su_s_5k_rocket/short;S-5K
 weapons/su_s_5k_rocket_ub16/short;S-5K
 weapons/cn_hf5_rocket/short;Type 57-1

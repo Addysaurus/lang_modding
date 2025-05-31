@@ -44,6 +44,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F-2A**
         - **F-2A ADTW**
         - **Yamato**
+        - **CS/SA5**
 
 - #### Changes:
 
@@ -72,6 +73,7 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Statcard name → **General Dynamics Corporation F-16 Agile Falcon / 三菱重工業 | XF-2A-MIT (飛行開発実験団)**.
         - **Yamato**: Statcard name → **Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Yamato (1945)**.
             - Japanese package: Name → **大和**. Statcard name → **呉海軍工廠 | 大和型戦艦 (A-140F6) | 大和 (1945)**.
+        - **CS/SA5** → **CS/SA5 (2022)**. Statcard name → **Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Yǒuxiàn Gōngsī | CS/SA5 Xíng 30 Háomǐ Lún Shì Zì Háng Gāo Pào (2022)**.
     - **Kronštadt**: Statcard name → **Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt**
     - **FlaRakRad 1 Roland** → **FlaRakRad 1 Roland**: Statcard name → **Rheinmetall MAN Military Vehicles | Flugabwehrraketenradwagen 1 Roland auf Lkw 15t mil gl Kat 1 A1**
     - **CCKW 353 (M1)**: Mid distance name → **CCKW 353 (M1)**. The mid distance name was previously **CCKW 353 (N1)** due to a typo.

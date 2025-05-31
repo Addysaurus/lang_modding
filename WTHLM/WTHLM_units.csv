@@ -6744,10 +6744,18 @@ fr_marder_clovis_2;Light tank
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+fr_msc_shop;MSC
+fr_msc_0;GIAT Industries | Mulet Système Complet
+fr_msc_1;MSC
+fr_msc_2;MBT
 fr_leopard_2a4nl_shop;◘ Leopard 2A4 NL
 fr_leopard_2a4nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm
 fr_leopard_2a4nl_1;◘ Leopard 2A4 NL
 fr_leopard_2a4nl_2;MBT
+fr_leopard_2a4nl_les_shop;◘ Leopard 2A4 NL (OTCo)
+fr_leopard_2a4nl_les_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm (Nederlandse Opleidingscommando)
+fr_leopard_2a4nl_les_1;◘ Leopard 2A4 NL
+fr_leopard_2a4nl_les_2;MBT
 fr_leopard_2a5nl_shop;◘ Leopard 2A5 NL
 fr_leopard_2a5nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm
 fr_leopard_2a5nl_1;◘ Leopard 2A5 NL
@@ -6825,6 +6833,12 @@ fr_battleship_strasbourg_0;Ateliers et Chantiers de la Loire | Cuirassé de Clas
 fr_battleship_strasbourg_1;Strasbourg
 fr_battleship_strasbourg_2;Battleship
 
+//FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+fr_battleship_richelieu_class_richelieu_shop;Richelieu
+fr_battleship_richelieu_class_richelieu_0;Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de Classe Richelieu | Richelieu (1943)
+fr_battleship_richelieu_class_richelieu_1;Richelieu
+fr_battleship_richelieu_class_richelieu_2;Battleship
+
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 2
@@ -6841,9 +6855,13 @@ fr_battleship_strasbourg_2;Battleship
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 fa_18c_finland_shop;HN
-fa_18c_finland_0;"McDonnell Douglas Corporation Model 267 | HN ""Hornet"""
+fa_18c_finland_0;"McDonnell Douglas Corporation Model 267 / Patria | HN ""Hornet"""
 fa_18c_finland_1;HN
 fa_18c_finland_2;HN
+fa_18c_mlu_2_finland_shop;HN (MLU 2)
+fa_18c_mlu_2_finland_0;"McDonnell Douglas Corporation Model 267 / Patria | HN ""Hornet"" (Mid-Life Upgrade 2)"
+fa_18c_mlu_2_finland_1;HN
+fa_18c_mlu_2_finland_2;HN
 
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
@@ -6866,6 +6884,10 @@ fa_18c_finland_2;HN
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+sw_eldenhet_98_shop;elde 98 (Giraffe 1X)
+sw_eldenhet_98_0;BAE Systems Hägglunds | eldenhet 98 (Giraffe 1X)
+sw_eldenhet_98_1;elde 98
+sw_eldenhet_98_2;SPAAM
 
 //SWEDEN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 
@@ -6930,6 +6952,10 @@ f_16a_block_10_netz_mod_2; F-16
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+il_spyder_aio_shop;SPYDER MFU AiO SR
+il_spyder_aio_0;Rafa'el Me'rkhot Leḥimah Mitḳadmot | SPYDER Missile Firing Unit All-in-One Short Range
+il_spyder_aio_1;SPYDER MFU AiO SR
+il_spyder_aio_2;SPAAM
 
 //ISRAEL COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 

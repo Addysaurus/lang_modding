@@ -53,6 +53,12 @@ All dates are listed in DD-MM-YYYY format.
         - **CS/SA5**
         - **Leopard 1A2**
         - **RN Roma**
+        - **MSC**
+        - **Leopard 2 LES** (France / Netherlands)
+        - **Richelieu**
+        - **F/A-18C MLU 2** (Sweden / Finland)
+        - **EldE 98**
+        - **SPYDER AIO**
 
 - #### Changes:
 
@@ -84,11 +90,18 @@ All dates are listed in DD-MM-YYYY format.
         - **CS/SA5** → **CS/SA5 (2022)**. Statcard name → **Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Háng Gāo Pào (2022)**.
         - **Leopard 1A2** (Italy) → **Leopard 1 A2**. Statcard name → **Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A2**.
         - **RN Roma** → **Roma**. Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma (1943)**.
+        - **MSC**: Statcard name → **GIAT Industries | Mulet Système Complet**.
+        - **Leopard 2 LES** (France / Netherlands) → **Leopard 2A4 NL (OTCo)**. Statcard name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm (Nederlandse Opleidingscommando)**.
+        - **Richelieu**: Statcard name → **Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de Classe Richelieu | Richelieu (1943)**.
+        - **F/A-18C MLU 2** (Sweden / Finland) → **HN (MLU 2)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Patria | HN "Hornet" (Mid-Life Upgrade 2)**.
+        - **EldE 98** → **elde 98 (Giraffe 1X)**. Statcard name → **BAE Systems Hägglunds | eldenhet 98 (Giraffe 1X)**.
+        - **SPYDER AIO** → **SPYDER MFU AiO SR**. Statcard name → **Rafa'el Me'rkhot Leḥimah Mitḳadmot | SPYDER Missile Firing Unit All-in-One Short Range**.
     - **Kronštadt**: Statcard name → **Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt**
     - **FlaRakRad 1 Roland** → **FlaRakRad 1 Roland**: Statcard name → **Rheinmetall MAN Military Vehicles | Flugabwehrraketenradwagen 1 Roland auf Lkw 15t mil gl Kat 1 A1**
     - **CCKW 353 (M1)**: Mid distance name → **CCKW 353 (M1)**. The mid distance name was previously **CCKW 353 (N1)** due to a typo.
     - **Mirage 2000 5F** → **Mirage 2000-5 F**.
     - **Leopard 1 A5** (Italy): Statcard name → **Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A5**
+    - **HN**: Statcard name → **McDonnell Douglas Corporation Model 267 / Patria | HN "Hornet"**
 
 ### Weaponry:
 

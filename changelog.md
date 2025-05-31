@@ -24,25 +24,45 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Leviathans" additions:
         - **RAH-66**
+        - **SLAMRAAM/TADS**
+        - **SLAMRAAM/TEL**
+        - **PT-95**
         - **USS Iowa**
         - **Hunter F.58A (1971)** (Germany / Switzerland)
         - **Mirage *IIIS C.70** (Germany / Switzerland)
         - **F-5E** (Germany / Switzerland)
         - **F/A-18C** (Germany / Switzerland)
         - **F/A-18C Late** (Germany / Switzerland)
-        - **T-72B3M** (Germany / Switzerland)
+        - **Gneisenau**
+        - **Bismarck**
+        - **L-39ZA Albatros**
+        - **T-72B3M**
+        - **Sevastopol**
+        - **Sovetsky Soyuz**
+        - **Badger**
+        - **HMS Vanguard**
 
 - #### Changes:
 
     - Update "Leviathans" changes:
         - **RAH-66** → **YRAH-66A (94-0327)**. Statcard name → **Boeing Rotorcraft Systems + Sikorsky Aircraft | Helicopter, Reconnaissance/Attack, YRAH-66A Comanche (94-0327)**.
+        - **SLAMRAAM/TADS** → **M1097A2 (AN/MPQ-64)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (AN/MPQ-64 Sentinel)**.
+        - **SLAMRAAM/TEL** → **M1097A2 (SLAMRAAM)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**.
+        - **PT-95** → **USS PT-95**. Statcard name → **Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-95**.
         - **USS Iowa** → **USS Iowa (BB-61)**. Statcard name → **Brooklyn Navy Yard / Hunters Point Naval Shipyard | Iowa-class Battleship | USS Iowa (BB-61) (1945)**.
         - **Hunter F.58A (1971)** (Germany / Switzerland) → **Hunter Mk. 58A**. Statcard name → **Hawker Siddeley Aviation | Hunter Mk. 58A**.
         - **Mirage *IIIS C.70** (Germany / Switzerland) → **Mirage III S C.70**. Statcard name → **Avions Marcel Dassault / Eidgenössisches Flugzeugwerk | Mirage III S C.70 "MIRO"**.
         - **F-5E** (Germany / Switzerland): Statcard name → **Northrop Corporation F-5-21 | F-5E Tiger II**.
         - **F/A-18C** (Germany / Switzerland): Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System | F/A-18C Hornet**.
         - **F/A-18C Late** (Germany / Switzerland) → **F/A-18C (Upgrade 25)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A-18C Hornet (Upgrade 25)**.
+        - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Klasse Scharnhorst | Gneisenau (1943)**.
+        - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Klasse Bismarck | Bismarck**.
+        - **L-39ZA Albatros** → **L-39ZA**. Statcard name → **Aero Vodochody | L-39ZA Albatros**.
         - **T-72B3M** → **T-72B3A**. Statcard name → **Ural'skij vagonostroityel'nym zavodom imyeni F. È. Dzyeržinskogo | Ob"yekt 184-5 | T-72B3A obr. 2024 g.**. There are a lot of T-72B3M variants, and Gaijin added exactly none of them. What Gaijin calls the T-72B3 is actually the T-72B3M obr. 2016 g., and what they are calling the T-72B3M is actually the T-72B3A obr. 2024 g. *sigh*...
+        - **Sevastopol** → **Syevastopol'**. Statcard name → **Sudostroityel'nyj zavod № 200 imyeni 61 kommunara | Proyekt 69I | Tâžyelyye kryejsyer tipa Kronštadt | Syevastopol'**.
+        - **Sovetsky Soyuz** → **Sovyetskij Soûz**. Statcard name → **Zavod № 189 imyeni Ordžonikidzye | Proyekt 23 | Linyéjnyj korábl' tip Sovyetskij Soûz | Sovyetskij Soûz**.
+        - **Badger** → **Badger SV**. Statcard name → **Denel Land Systems | Badger Section Variant**.
+        - **HMS Vanguard** → **HMS Vanguard (23)**. Statcard name → **John Brown & Co. | Vanguard-class | HMS Vanguard (23)**.
     - **Kronštadt**: Statcard name → **Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt**
     - **FlaRakRad 1 Roland** → **FlaRakRad 1 Roland**: Statcard name → **Rheinmetall MAN Military Vehicles | Flugabwehrraketenradwagen 1 Roland auf Lkw 15t mil gl Kat 1 A1**
     - **CCKW 353 (M1)**: Mid distance name → **CCKW 353 (M1)**. The mid distance name was previously **CCKW 353 (N1)** due to a typo.

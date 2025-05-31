@@ -3426,6 +3426,14 @@ us_adats_bradley_shop;XM1069 (ADATS)
 us_adats_bradley_0;XM1069 (Air Defense Anti-Tank System)
 us_adats_bradley_1;XM1069
 us_adats_bradley_2;SPAA
+us_sl_amraam_fcs_shop;M1097A2 (AN/MPQ-64)
+us_sl_amraam_fcs_0;Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (AN/MPQ-64 Sentinel)
+us_sl_amraam_fcs_1;M1097A2 (AN/MPQ-64)
+us_sl_amraam_fcs_2;Radar
+us_sl_amraam_launcher_shop;M1097A2 (SLAMRAAM)
+us_sl_amraam_launcher_0;Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (Surface-Launched Advanced Medium-Range Air-to-Air Missile)
+us_sl_amraam_launcher_1;M1097A2 (SLAMRAAM)
+us_sl_amraam_launcher_2;SPAAM
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 us_pt6_shop;PT-6
@@ -3440,6 +3448,10 @@ us_elco_77ft_pt20_shop;PT-20
 us_elco_77ft_pt20_0;Elco 77 ft motor morpedo boat, USS PT-20
 us_elco_77ft_pt20_1;PT-20
 us_elco_77ft_pt20_2;Motor Torpedo Boat
+us_huckins_78ft_pt95_shop;USS PT-95
+us_huckins_78ft_pt95_0;Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-95
+us_huckins_78ft_pt95_1;USS PT-95
+us_huckins_78ft_pt95_2;Motor Torpedo Boat
 us_pt3_shop;PT-3
 us_pt3_0;58 ft Experimental motor torpedo boat, USS PT-3
 us_pt3_1;PT-3
@@ -4842,6 +4854,16 @@ germ_battleship_scharnhorst_shop;Scharnhorst
 germ_battleship_scharnhorst_0;Kriegsmarinewerft Wilhelmshaven | Schlachtschiff Klasse Scharnhorst | Scharnhorst (1943)
 germ_battleship_scharnhorst_1;Scharnhorst
 germ_battleship_scharnhorst_2;Battlecruiser
+germ_battleship_gneisenau_380mm_shop;Gneisenau
+germ_battleship_gneisenau_380mm_0;Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Klasse Scharnhorst | Gneisenau (1943)
+germ_battleship_gneisenau_380mm_1;Gneisenau
+germ_battleship_gneisenau_380mm_2;Battlecruiser
+
+//GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+germ_battleship_bismarck_shop;Bismarck
+germ_battleship_bismarck_0;Blohm & Voss | Schlachtschiff Klasse Bismarck | Bismarck
+germ_battleship_bismarck_1;Bismarck
+germ_battleship_bismarck_2;Battleship
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 
@@ -4852,6 +4874,10 @@ germ_battleship_scharnhorst_2;Battlecruiser
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+l_39za_shop;L-39ZA
+l_39za_0;Aero Vodochody | L-39ZA Albatros
+l_39za_1;L-39ZA
+l_39za_2;L-39
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
@@ -4946,6 +4972,16 @@ ussr_battlecruiser_kronshtadt_shop;Kronštadt
 ussr_battlecruiser_kronshtadt_0;Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt
 ussr_battlecruiser_kronshtadt_1;Kronštadt
 ussr_battlecruiser_kronshtadt_2;Battlecruiser
+ussr_battlecruiser_sevastopol_shop;Syevastopol'
+ussr_battlecruiser_sevastopol_0;Sudostroityel'nyj zavod № 200 imyeni 61 kommunara | Proyekt 69I | Tâžyelyye kryejsyer tipa Kronštadt | Syevastopol'
+ussr_battlecruiser_sevastopol_1;Syevastopol'
+ussr_battlecruiser_sevastopol_2;Battlecruiser
+
+//USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+ussr_battleship_pr23_sovetskij_soyuz_shop;Sovyetskij Soûz
+ussr_battleship_pr23_sovetskij_soyuz_0;Zavod № 189 imyeni Ordžonikidzye | Proyekt 23 | Linyéjnyj korábl' tip Sovyetskij Soûz | Sovyetskij Soûz
+ussr_battleship_pr23_sovetskij_soyuz_1;Sovyetskij Soûz
+ussr_battleship_pr23_sovetskij_soyuz_2;Battleship
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 hp_12_shop;O/400
@@ -5044,6 +5080,10 @@ uk_a25_mk_8_2;Light tank
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+uk_badger_shop;Badger SV
+uk_badger_0;Denel Land Systems | Badger Section Variant
+uk_badger_1;Badger SV
+uk_badger_2;IFV
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 uk_tracked_rapier_shop;RCM 748, Mk. 1B
@@ -5222,6 +5262,12 @@ uk_battleship_q_elizabet_class_warspite_shop;HMS Warspite (03)
 uk_battleship_q_elizabet_class_warspite_0;Devonport Royal Dockyard / Naval Station Durban | Queen Elizabeth-class | HMS Warspite (03) (1943)
 uk_battleship_q_elizabet_class_warspite_1;HMS Warspite
 uk_battleship_q_elizabet_class_warspite_2;Super dreadnought
+
+//UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+uk_battleship_vanguard_shop;HMS Vanguard (23)
+uk_battleship_vanguard_0;John Brown & Co. | Vanguard-class | HMS Vanguard (23)
+uk_battleship_vanguard_1;HMS Vanguard
+uk_battleship_vanguard_2;Battleship
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2

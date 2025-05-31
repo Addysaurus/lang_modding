@@ -28,6 +28,7 @@ shop/group/jp_type_74_group;74TK (E) / (F)
 shop/group/jp_type_87_89_group;87RCV / 89FV
 shop/group/jp_type_90_group;90TK / TK (B)
 shop/group/jp_type_10_group;10TK / 新TK3号 (2009)
+
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
 f1m2_0;三菱重工業 | 0式観測機 | F1M2
@@ -153,6 +154,7 @@ aichi_e13a_shop;E13A1
 aichi_e13a_0;中島飛行機 | 0式水上偵察機11型 | E13A1
 aichi_e13a_1;E13A1
 aichi_e13a_2;E13A
+
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 a6m2_n_zero_shop;A6M2-N
 a6m2_n_zero_0;中島飛行機 | 2式水上戦闘機 | A6M2-N
@@ -322,6 +324,7 @@ f4u-1a_japan_shop;▅ F4U-1A
 f4u-1a_japan_0;▅ Vought-Sikorsky Aircraft V-166B | F4U-1A コルセア「シコルスキー」
 f4u-1a_japan_1;▅ F4U-1
 f4u-1a_japan_2;▅ F4U
+
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 ki_100_early_shop;キ100-I (early)
 ki_100_early_0;川崎航空機工業 | キ100-I (early)
@@ -391,6 +394,7 @@ ki-96_otsu_shop;キ96
 ki-96_otsu_0;川崎航空機工業 | キ96
 ki-96_otsu_1;キ96
 ki-96_otsu_2;キ96
+
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 a7m1_shop;A7M1
 a7m1_0;三菱重工業 | 17試甲艦上戦闘機 | 試製烈風 | A7M1
@@ -444,6 +448,7 @@ j6k1_shop;J6K1
 j6k1_0;川西航空機 | 18試甲陸上戦闘機 | 試製陣風 | J6K1
 j6k1_1;J6K1
 j6k1_2;J6K
+
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 kitsuka_shop;M7N1-J甲
 kitsuka_0;中島飛行機 | 試製橘花改21型甲 | M7N1-J甲
@@ -481,6 +486,7 @@ f-104j_shop;▅ F-104J-MIT (C2)
 f-104j_0;▅ Lockheed Corporation / 三菱重工業 | F-104J-MIT「栄光」(C2ロット)
 f-104j_1;▅ F-104J
 f-104j_2;▅ F-104
+
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 t2_shop;T-2 (1979)
 t2_0;三菱重工業 | T-2 (1979)
@@ -494,6 +500,8 @@ f1_shop;F-1
 f1_0;三菱重工業 | F-1
 f1_1;F-1
 f1_2;F-1
+
+//AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 f-4ej_shop;F-4EJ-MIT (C3)
 f-4ej_0;McDonnell Douglas Corporation Model 98MB / 三菱重工業 | F-4EJ-MIT「ファントム」(C3ロット)
 f-4ej_1;F-4EJ
@@ -506,6 +514,8 @@ f-4ej_kai_shop;F-4EJ-MIT改
 f-4ej_kai_0;McDonnell Douglas Corporation Model 98MB / 三菱重工業 | F-4EJ-MIT改「ファントム」
 f-4ej_kai_1;F-4EJ
 f-4ej_kai_2;F-4
+
+//AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_15j_shop;F-15J-MIT (C4)
 f_15j_0;McDonnell Douglas Corporation / 三菱重工業 | F-15J-MIT「イーグル」(C4ロット)
 f_15j_1;F-15J
@@ -518,11 +528,21 @@ f_16aj_shop;F-16AJ
 f_16aj_0;General Dynamics Corporation F-16AJ Fighting Falcon
 f_16aj_1;F-16AJ
 f_16aj_2;F-16
+f_2a_shop;F-2A-MIT (C10)
+f_2a_0;General Dynamics Corporation F-16 Agile Falcon / 三菱重工業 | F-2A-MIT (C10ロット)
+f_2a_1;F-2A
+f_2a_2;F-2
+f_2a_adtw_shop;XF-2A-MIT (飛開実団)
+f_2a_adtw_0;General Dynamics Corporation F-16 Agile Falcon / 三菱重工業 | XF-2A-MIT (飛行開発実験団)
+f_2a_adtw_1;XF-2A
+f_2a_adtw_2;XF-2
+
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 uh_1b_japan_shop;▅ UH-1B
 uh_1b_japan_0;▅ UH-1B多用途ヘリコプター「ひよどり」
 uh_1b_japan_1;▅ UH-1B
 uh_1b_japan_2;▅ UH-1
+
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 ah_1s_early_shop;▅ AH-1S (ECAS)
 ah_1s_early_0;▅ Bell Helicopter Textron / 富士重工業 | AH-1S 攻撃ヘリコプター (Enhanced Cobra Armament System)
@@ -536,11 +556,13 @@ ah_1s_shop;▅ AH-1S (MC) (CN) (4対戦ヘリ)
 ah_1s_0;▅ Bell Helicopter Textron / 富士重工業 | AH-1S攻撃ヘリコプター (Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (第4対戦車ヘリコプター隊)
 ah_1s_1;▅ AH-1S
 ah_1s_2;▅ AH-1
+
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 ah_64d_japan_shop;▅ AH-64D
 ah_64d_japan_0;▅ Boeing Rotorcraft Systems AH-64DJP / 富士重工業 + 双日株式会社 | AH-64D戦闘ヘリコプター「アパッチロングボウ」
 ah_64d_japan_1;▅ AH-64D
 ah_64d_japan_2;▅ AH-64
+
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 jp_type_95_ha_go_shop;ハ号 (late) (94式)
 jp_type_95_ha_go_0;三菱重工業 | 95式軽戦車 | ハ号 (late) (94式37粍戦車砲)
@@ -602,6 +624,7 @@ jp_type_3_ka_chi_shop;カチ
 jp_type_3_ka_chi_0;呉海軍工廠 + 陸軍技術本部 | 特3式内火艇 | カチ
 jp_type_3_ka_chi_1;カチ
 jp_type_3_ka_chi_2;Light tank
+
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 jp_type_1_chi_he_shop;チヘ
 jp_type_1_chi_he_0;三菱重工業 | 1式中戦車 | チヘ
@@ -635,6 +658,7 @@ jp_type_95_so_ki_shop;ソキ
 jp_type_95_so_ki_0;自動車工業 | 試製対空戦車 | ソキ
 jp_type_95_so_ki_1;ソキ
 jp_type_95_so_ki_2;SPAAG
+
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 jp_m24_chaffee_shop;▅ M24
 jp_m24_chaffee_0;▅ Cadillac Motor Company | M24戦車「チャーフィー」
@@ -676,6 +700,7 @@ jp_m42_duster_shop;▅ M42
 jp_m42_duster_0;▅ GM Defense | M42自走高射機関砲「ダスター」
 jp_m42_duster_1;▅ M42
 jp_m42_duster_2;SPAAG
+
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 jp_m4a3e8_76w_sherman_shop;▅ M4A3E8
 jp_m4a3e8_76w_sherman_0;▅ United States Army Ordnance Department / Detroit Tank Arsenal | M4A3E8戦車「シャーマン」
@@ -729,6 +754,7 @@ jp_type_5_ho_ri_production_shop;ホリ (10糎半)
 jp_type_5_ho_ri_production_0;試製10糎半砲戦車 | ホリ
 jp_type_5_ho_ri_production_1;ホリ
 jp_type_5_ho_ri_production_2;SPG
+
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 jp_type_87_rcv_prot_shop;RCV (試1号)
 jp_type_87_rcv_prot_0;小松製作 | 偵察警戒車 (試作1号車)
@@ -770,6 +796,7 @@ jp_type_75_mlrs_shop;75MSSR
 jp_type_75_mlrs_0;小松製作 | 75式自走130mm多連装ロケット弾発射機
 jp_type_75_mlrs_1;75MSSR
 jp_type_75_mlrs_2;MLRS
+
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 jp_type_87_rcv_shop;87RCV
 jp_type_87_rcv_0;小松製作 | 87式偵察警戒車「ブラックアイ」
@@ -795,6 +822,7 @@ jp_type_16_shop;16MCV (C1)
 jp_type_16_0;三菱重工業 | 16式機動戦闘車 (C1ロット)
 jp_type_16_1;16MCV
 jp_type_16_2;Light tank
+
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 jp_icv_ifv_prototype_shop;24WAFV
 jp_icv_ifv_prototype_0;三菱重工業 | 24式装輪装甲戦闘車
@@ -832,11 +860,13 @@ jp_icv_prototype_shop;CTWV (RCV)
 jp_icv_prototype_0;三菱重工業 | 共通戦術装輪車 (偵察戦闘型)
 jp_icv_prototype_1;CTWV
 jp_icv_prototype_2;WIFV
+
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 jp_type_10_shop;10TK
 jp_type_10_0;技術研究本部 + 三菱重工業 | 10式戦車
 jp_type_10_1;10TK
 jp_type_10_2;MBT
+
 //COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 1
 jp_t14_class_shop;第538号
 jp_t14_class_0;舞鶴海軍工廠 | 乙型魚雷艇 | 第538号型魚雷艇 (T-14) | 第538号
@@ -866,6 +896,7 @@ jp_abtei_pr4_shop;装甲艇第4号
 jp_abtei_pr4_0;装甲艇第3号型 | 装甲艇第4号
 jp_abtei_pr4_1;装甲艇
 jp_abtei_pr4_2;Armored boat
+
 //COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 2
 jp_karotei_type2_shop;カロ2型
 jp_karotei_type2_0;横浜ヨット | 4式2型駆逐艇 | カロ2型
@@ -903,6 +934,7 @@ jp_t51b_shop;第11号
 jp_t51b_0;横浜ヨット | 甲型魚雷艇 | 第11号型魚雷艇 (T-51B) | 第11号
 jp_t51b_1;第11号
 jp_t51b_2;Motor torpedo boat
+
 //COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 3
 jp_no1_ch2_shop;第2号
 jp_no1_ch2_0;石川島造船所 | 第2号型駆潜艇 (K-3) | 第2号
@@ -916,6 +948,7 @@ jp_type7_pt808_shop;魚雷艇8号 (PT-808)
 jp_type7_pt808_0;三菱重工業下関造船所 | 7号型魚雷艇 | 魚雷艇8号 (PT-808)
 jp_type7_pt808_1;魚雷艇8号
 jp_type7_pt808_2;Motor torpedo boat
+
 //COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 4
 jp_type_11_pt_15_shop;魚雷艇15号 (PT-815)
 jp_type_11_pt_15_0;三菱重工業下関造船所 | 11号型魚雷艇 | 魚雷艇15号 (PT-815)
@@ -937,6 +970,7 @@ jp_pg02_shop;ミサイル艇2号 (PG-822)
 jp_pg02_0;住友重機械工業 | 1号型ミサイル艇 | ミサイル艇2号 (PG-822)
 jp_pg02_1;ミサイル艇2号
 jp_pg02_2;Missile boat
+
 //COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 5
 jp_escort_hiburi_class_syonan_shop;昭南
 jp_escort_hiburi_class_syonan_0;日立造船 | 甲型海防艦 | 日振型海防艦 (E-20B) | 昭南
@@ -958,6 +992,7 @@ jp_destroyer_ayanami_shop;あやなみ (DD-103)
 jp_destroyer_ayanami_0;三菱重工業長崎造船所 | 甲型護衛艦1型 | あやなみ型護衛艦 (F-102) | あやなみ (DD-103)
 jp_destroyer_ayanami_1;あやなみ
 jp_destroyer_ayanami_2;Destroyer
+
 //BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 1
 jp_destroyer_momi_shop;樅
 jp_destroyer_momi_0;横須賀海軍工廠 | 二等駆逐艦 | 樅型駆逐艦 (F-37) | 樅 (1930)
@@ -985,6 +1020,7 @@ jp_destroyer_fubuki_2;Destroyer
 jp_destroyer_fubuki_EC_0;藤永田造船所 | 特型駆逐艦 | 綾波型駆逐艦 | 綾波 (1936)
 jp_destroyer_fubuki_EC_1;綾波
 jp_destroyer_fubuki_EC_2;Destroyer
+
 //BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 2
 jp_destroyer_harukaze_shop;はるかぜ (DD-101)
 jp_destroyer_harukaze_0;三菱重工業長崎造船所 | 甲型護衛艦 | はるかぜ型護衛艦 (F-101) | はるかぜ (DD-101)
@@ -1018,6 +1054,7 @@ jp_destroyer_yugure_shop;ゆうぐれ (DD-184)
 jp_destroyer_yugure_0;Boston Navy Yard / 石川島重工業 | 甲型護衛艦 | ありあけ型護衛艦 | ゆうぐれ (DD-184)
 jp_destroyer_yugure_1;ゆうぐれ
 jp_destroyer_yugure_2;Destroyer
+
 //BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 3
 jp_destroyer_akizuki_shop;秋月
 jp_destroyer_akizuki_0;舞鶴海軍工廠 | 一等駆逐艦 | 秋月型駆逐艦 (F-51) | 秋月 (1944)
@@ -1068,6 +1105,7 @@ jp_destroyer_yuudachi_shop;夕立
 jp_destroyer_yuudachi_0;佐世保海軍工廠 | 一等駆逐艦 | 白露型駆逐艦 (F-45D) | 夕立
 jp_destroyer_yuudachi_1;夕立
 jp_destroyer_yuudachi_2;Destroyer
+
 //BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 4
 jp_cruiser_aoba_shop;青葉
 jp_cruiser_aoba_0;三菱重工業長崎造船所 | 一等巡洋艦 | 青葉型巡洋艦 (C-41) | 青葉 (1944)
@@ -1092,6 +1130,7 @@ jp_armoredcruiser_ikoma_shop;生駒
 jp_armoredcruiser_ikoma_0;呉海軍工廠 | 一等巡洋艦 | 筑波型巡洋艦 (B-12) | 生駒 (1912)
 jp_armoredcruiser_ikoma_1;生駒
 jp_armoredcruiser_ikoma_2;Battlecruiser
+
 //BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 5
 jp_cruiser_tone_shop;利根
 jp_cruiser_tone_0;三菱重工業長崎造船所 | 一等巡洋艦 | 利根型巡洋艦 (C-38) | 利根 (1945)
@@ -1137,6 +1176,7 @@ jp_battlecruiser_kongo_shop;金剛
 jp_battlecruiser_kongo_0;Vickers-Armstrongs / 佐世保海軍工廠 | 金剛型戦艦 (B-46) | 金剛 (1944)
 jp_battlecruiser_kongo_1;金剛
 jp_battlecruiser_kongo_2;Battleship
+
 //BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 6
 jp_battleship_hyuga_shop;日向
 jp_battleship_hyuga_0;三菱重工業長崎造船所 | 伊勢型戦艦 (A-92) | 日向

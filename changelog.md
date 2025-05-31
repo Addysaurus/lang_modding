@@ -41,6 +41,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Sovetsky Soyuz**
         - **Badger**
         - **HMS Vanguard**
+        - **F-2A**
+        - **F-2A ADTW**
 
 - #### Changes:
 
@@ -63,6 +65,10 @@ All dates are listed in DD-MM-YYYY format.
         - **Sovetsky Soyuz** → **Sovyetskij Soûz**. Statcard name → **Zavod № 189 imyeni Ordžonikidzye | Proyekt 23 | Linyéjnyj korábl' tip Sovyetskij Soûz | Sovyetskij Soûz**.
         - **Badger** → **Badger SV**. Statcard name → **Denel Land Systems | Badger Section Variant**.
         - **HMS Vanguard** → **HMS Vanguard (23)**. Statcard name → **John Brown & Co. | Vanguard-class | HMS Vanguard (23)**.
+        - **F-2A** → **F-2A-MIT (C10)**. Statcard name → **General Dynamics Corporation F-16 Agile Falcon / Mitsubishi Jū Kōgyō | F-2A-MIT (C10 Rotto)**.
+            - Japanese package: Statcard name → **General Dynamics Corporation F-16 Agile Falcon / 三菱重工業 | F-2A-MIT (C10ロット)**.
+        - **F-2A ADTW** → **XF-2A-MIT (Hi Kai Ji Dan)**. Statcard name → **General Dynamics Corporation F-16 Agile Falcon / Mitsubishi Jū Kōgyō | XF-2A-MIT (Hikō Kaihatsu Jikken Dan)**.
+            - Japanese package: Statcard name → **General Dynamics Corporation F-16 Agile Falcon / 三菱重工業 | XF-2A-MIT (飛行開発実験団)**.
     - **Kronštadt**: Statcard name → **Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt**
     - **FlaRakRad 1 Roland** → **FlaRakRad 1 Roland**: Statcard name → **Rheinmetall MAN Military Vehicles | Flugabwehrraketenradwagen 1 Roland auf Lkw 15t mil gl Kat 1 A1**
     - **CCKW 353 (M1)**: Mid distance name → **CCKW 353 (M1)**. The mid distance name was previously **CCKW 353 (N1)** due to a typo.

@@ -29,6 +29,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - Update "Leviathans" additions:
+        - **SC-1**
         - **RAH-66**
         - **SLAMRAAM/TADS**
         - **SLAMRAAM/TEL**
@@ -53,6 +54,8 @@ All dates are listed in DD-MM-YYYY format.
         - **CS/SA5**
         - **Leopard 1A2**
         - **RN Roma**
+        - **Fokker D.XXI** (France / Netherlands)
+        - **NF-5A** (France / Netherlands)
         - **MSC**
         - **Leopard 2 LES** (France / Netherlands)
         - **Richelieu**
@@ -63,6 +66,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Update "Leviathans" changes (all folders have been adjusted accordingly):
+        - **SC-1**: Statcard name → **Curtiss-Wright Corporation | SC-1 Seahawk**.
         - **RAH-66** → **YRAH-66A (94-0327)**. Statcard name → **Boeing Rotorcraft Systems + Sikorsky Aircraft | Helicopter, Reconnaissance/Attack, YRAH-66A Comanche (94-0327)**.
         - **SLAMRAAM/TADS** → **M1097A2 (AN/MPQ-64)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (AN/MPQ-64 Sentinel)**.
         - **SLAMRAAM/TEL** → **M1097A2 (SLAMRAAM)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**.
@@ -90,6 +94,8 @@ All dates are listed in DD-MM-YYYY format.
         - **CS/SA5** → **CS/SA5 (2022)**. Statcard name → **Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Háng Gāo Pào (2022)**.
         - **Leopard 1A2** (Italy) → **Leopard 1 A2**. Statcard name → **Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A2**.
         - **RN Roma** → **Roma**. Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma (1943)**.
+        - **Fokker D.XXI** (France / Netherlands) → **D.XXI-1**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXI-1**.
+        - **NF-5A** (France / Netherlands): Statcard name → **Canadair CL-226-1A10 | NF-5A Freedom Fighter**.
         - **MSC**: Statcard name → **GIAT Industries | Mulet Système Complet**.
         - **Leopard 2 LES** (France / Netherlands) → **Leopard 2A4 NL (OTCo)**. Statcard name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm (Nederlandse Opleidingscommando)**.
         - **Richelieu**: Statcard name → **Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de Classe Richelieu | Richelieu (1943)**.

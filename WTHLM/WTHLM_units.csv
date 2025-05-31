@@ -2828,6 +2828,10 @@ ah_64a_peten_shop;▃ AH-64A
 ah_64a_peten_0;▃ McDonnell Douglas Helicopter Systems | AH-64A Peten
 ah_64a_peten_1;▃ AH-64A
 ah_64a_peten_2;▃ AH-64
+rah_66_shop;YRAH-66A (94-0327)
+rah_66_0;Boeing Rotorcraft Systems + Sikorsky Aircraft | Helicopter, Reconnaissance/Attack, YRAH-66A Comanche (94-0327)
+rah_66_1;YRAH-66A
+rah_66_2;YRAH-66
 
 //USA HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 mh_60l_dap_shop;MH-60L DAP
@@ -3757,6 +3761,12 @@ us_battleship_mississippi_0;Newport News Shipbuilding and Dry Dock Company / Pea
 us_battleship_mississippi_1;USS Mississippi
 us_battleship_mississippi_2;Battleship
 
+//USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+us_battleship_iowa_class_iowa_shop;USS Iowa (BB-61)
+us_battleship_iowa_class_iowa_0;Brooklyn Navy Yard / Hunters Point Naval Shipyard | Iowa-class Battleship | USS Iowa (BB-61) (1945)
+us_battleship_iowa_class_iowa_1;USS Iowa
+us_battleship_iowa_class_iowa_2;Battleship
+
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 bf-109b_2_shop;Bf 109 B-1 (spät)
 bf-109b_2_0;Bayerische Flugzeugwerke | Bf 109 B-1 (spät)
@@ -4463,7 +4473,7 @@ tornado_ids_de_mfg_0;◄ Panavia Aircraft PA-200 | IDS-Tornado (Batch 2) (Marine
 tornado_ids_de_mfg_1;◄ IDS-Tornado
 tornado_ids_de_mfg_2;◄ IDS-Tornado
 mirage_3s_c70_switzerland_shop;◌ Mirage III S C.70
-mirage_3s_c70_switzerland_0;◌ Avions Marcel Dassault / Eidgenössisches Flugzeugwerk | Mirage III S C.70 "MIRO"
+mirage_3s_c70_switzerland_0;"◌ Avions Marcel Dassault / Eidgenössisches Flugzeugwerk | Mirage III S C.70 ""MIRO"""
 mirage_3s_c70_switzerland_1;◌ Mirage III S
 mirage_3s_c70_switzerland_2;◌ Mirage III
 f-5e_switzerland_shop;◌ F-5E
@@ -4902,8 +4912,8 @@ ussr_t_80um2_1;T-80U
 ussr_t_80um2_2;MBT
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
-ussr_t_72b3_arena_m_shop;T-72B3M (Aryena-M)
-ussr_t_72b3_arena_m_0;Ural'skij vagonostroityel'nym zavodom imyeni F. È. Dzyeržinskogo | Ob"yekt 184-5 | T-72B3M obr. 2022 g. (KAZ Aryena-M)
+ussr_t_72b3_arena_m_shop;T-72B3A
+ussr_t_72b3_arena_m_0;"Ural'skij vagonostroityel'nym zavodom imyeni F. È. Dzyeržinskogo | Ob""yekt 184-5 | T-72B3A obr. 2024 g."
 ussr_t_72b3_arena_m_1;T-72B3
 ussr_t_72b3_arena_m_2;MBT
 

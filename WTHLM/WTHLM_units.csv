@@ -1491,6 +1491,7 @@ shop/group/it_semovente_stug_group;90/53 M. 41. M / ⛨ StuG III
 shop/group/it_semovente_m41_group;75/18 M. 41 / 75/32 M. 41 / 75/34 M. 42
 shop/group/it_semovente_m43_105_75_group;105/25 M. 43 / 75/34 M. 43
 shop/group/it_m13_40_group;M. 40 I / III
+shop/group/it_of_leo_group;OF 40 Mk. 1 / ⛨ Leopard 1 A2
 shop/group/it_dardo_group;VCC-80 Dardo / Dardo (HITFIST 30)
 shop/group/it_9a33_35_group;╏ 9A33BM3 / ◔ 35M
 shop/group/sm_79_1941_group;S.M.79 AS / bis/T.M. / S.79-B
@@ -6585,6 +6586,14 @@ tornado_ids_it_ret8_2;A-200
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+it_leopard_1a2_shop;⛨ Leopard 1 A2
+it_leopard_1a2_0;⛨ Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A2
+it_leopard_1a2_1;⛨ Leopard 1 A2
+it_leopard_1a2_2;MBT
+it_leopard_1a5_shop;⛨ Leopard 1 A5
+it_leopard_1a5_0;⛨ Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A5
+it_leopard_1a5_1;⛨ Leopard 1 A5
+it_leopard_1a5_2;MBT
 it_fiat_6614_firos_shop;Fiat 6614 (FIROS 6)
 it_fiat_6614_firos_0;Fiat OTO Melara Tipo 6614 (FIROS 6)
 it_fiat_6614_firos_1;Fiat 6614
@@ -6625,6 +6634,12 @@ it_destroyer_maestrale_class_grecale_2;Destroyer
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+
+//ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+it_battleship_littorio_class_roma_shop;Roma
+it_battleship_littorio_class_roma_0;Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma (1943)
+it_battleship_littorio_class_roma_1;Roma
+it_battleship_littorio_class_roma_2;Battleship
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 
@@ -7631,10 +7646,6 @@ germ_leopard_c2_mexas_shop;Leopard C2 (MEXAS)
 germ_leopard_c2_mexas_0;Leopard C2 (Modular Expandable Armour System)
 germ_leopard_c2_mexas_1;Leopard C2
 germ_leopard_c2_mexas_2;MBT
-it_leopard_1a5_shop;⛨ Leopard 1 A5
-it_leopard_1a5_0;⛨ Carro Armato da Combattimento Leopard 1 Versione A5
-it_leopard_1a5_1;⛨ Leopard 1 A5
-it_leopard_1a5_2;MBT
 germ_leopard_1a5_shop;KPz Leopard 1 A5
 germ_leopard_1a5_0;Kampfpanzer Leopard 1 A5
 germ_leopard_1a5_1;Leopard 1 A5

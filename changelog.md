@@ -18,6 +18,12 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.12.06 - UNRELEASED
 
+### General:
+
+- #### Changes:
+
+    - Corrected typo in the loading tip for the Battle of Nijmegen.
+
 ### Vehicles:
 
 - #### Additions:
@@ -45,10 +51,12 @@ All dates are listed in DD-MM-YYYY format.
         - **F-2A ADTW**
         - **Yamato**
         - **CS/SA5**
+        - **Leopard 1A2**
+        - **RN Roma**
 
 - #### Changes:
 
-    - Update "Leviathans" changes:
+    - Update "Leviathans" changes (all folders have been adjusted accordingly):
         - **RAH-66** → **YRAH-66A (94-0327)**. Statcard name → **Boeing Rotorcraft Systems + Sikorsky Aircraft | Helicopter, Reconnaissance/Attack, YRAH-66A Comanche (94-0327)**.
         - **SLAMRAAM/TADS** → **M1097A2 (AN/MPQ-64)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (AN/MPQ-64 Sentinel)**.
         - **SLAMRAAM/TEL** → **M1097A2 (SLAMRAAM)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**.
@@ -74,10 +82,13 @@ All dates are listed in DD-MM-YYYY format.
         - **Yamato**: Statcard name → **Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Yamato (1945)**.
             - Japanese package: Name → **大和**. Statcard name → **呉海軍工廠 | 大和型戦艦 (A-140F6) | 大和 (1945)**.
         - **CS/SA5** → **CS/SA5 (2022)**. Statcard name → **Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Háng Gāo Pào (2022)**.
+        - **Leopard 1A2** (Italy) → **Leopard 1 A2**. Statcard name → **Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A2**.
+        - **RN Roma** → **Roma**. Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma (1943)**.
     - **Kronštadt**: Statcard name → **Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt**
     - **FlaRakRad 1 Roland** → **FlaRakRad 1 Roland**: Statcard name → **Rheinmetall MAN Military Vehicles | Flugabwehrraketenradwagen 1 Roland auf Lkw 15t mil gl Kat 1 A1**
     - **CCKW 353 (M1)**: Mid distance name → **CCKW 353 (M1)**. The mid distance name was previously **CCKW 353 (N1)** due to a typo.
     - **Mirage 2000 5F** → **Mirage 2000-5 F**.
+    - **Leopard 1 A5** (Italy): Statcard name → **Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A5**
 
 ### Weaponry:
 

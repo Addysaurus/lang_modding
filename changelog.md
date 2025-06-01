@@ -31,6 +31,7 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Leviathans" additions:
         - **SC-1**
         - **RAH-66**
+        - **Sherman (Hell)**
         - **SLAMRAAM/TADS**
         - **SLAMRAAM/TEL**
         - **PT-95**
@@ -50,6 +51,8 @@ All dates are listed in DD-MM-YYYY format.
         - **HMS Vanguard**
         - **F-2A**
         - **F-2A ADTW**
+        - **Tan-SAM kai/TADS**
+        - **Tan-SAM kai/TEL**
         - **Yamato**
         - **CS/SA5**
         - **Leopard 1A2**
@@ -69,6 +72,7 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Leviathans" changes (all folders have been adjusted accordingly):
         - **SC-1**: Statcard name → **Curtiss-Wright Corporation | SC-1 Seahawk**.
         - **RAH-66** → **YRAH-66A (94-0327)**. Statcard name → **Boeing Rotorcraft Systems + Sikorsky Aircraft | Helicopter, Reconnaissance/Attack, YRAH-66A Comanche (94-0327)**.
+        - **Sherman (Hell)** → **M4A3E8(76)W "Hell"**. Statcard name → **United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman "Hell"**.
         - **SLAMRAAM/TADS** → **M1097A2 (AN/MPQ-64)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (AN/MPQ-64 Sentinel)**.
         - **SLAMRAAM/TEL** → **M1097A2 (SLAMRAAM)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**.
         - **PT-95** → **USS PT-95**. Statcard name → **Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-95**.
@@ -90,6 +94,10 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Statcard name → **General Dynamics Corporation F-16 Agile Falcon / 三菱重工業 | F-2A-MIT (C10ロット)**.
         - **F-2A ADTW** → **XF-2A-MIT (Hi Kai Ji Dan)**. Statcard name → **General Dynamics Corporation F-16 Agile Falcon / Mitsubishi Jū Kōgyō | XF-2A-MIT (Hikō Kaihatsu Jikken Dan)**.
             - Japanese package: Statcard name → **General Dynamics Corporation F-16 Agile Falcon / 三菱重工業 | XF-2A-MIT (飛行開発実験団)**.
+        - **Tan-SAM kai/TADS** → **81 Shiki (C) Sha Tō Sō**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Shageki Tōsei Sōchi "Shōto Arō"**
+            - Japanese package: Name → **81式 (C) 射統装**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型射撃統制装置「ショートアロー」**.
+        - **Tan-SAM kai/TEL** → **81 Shiki (C) Kadaibu**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Kadaibu "Shōto Arō"**
+            - Japanese package: Name → **81式 (C) 架台部**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型架台部「ショートアロー」**.
         - **Yamato**: Statcard name → **Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Yamato (1945)**.
             - Japanese package: Name → **大和**. Statcard name → **呉海軍工廠 | 大和型戦艦 (A-140F6) | 大和 (1945)**.
         - **CS/SA5** → **CS/SA5 (2022)**. Statcard name → **Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Háng Gāo Pào (2022)**.
@@ -110,6 +118,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Mirage 2000 5F** → **Mirage 2000-5 F**.
     - **Leopard 1 A5** (Italy): Statcard name → **Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A5**
     - **HN**: Statcard name → **McDonnell Douglas Corporation Model 267 / Patria | HN "Hornet"**
+    - **81 Shiki (C)** → **81 Shiki (C) Kadaibu**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Kadaibu "Shōto Arō"**
+        - Japanese package: Name → **81式 (C) 架台部**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型架台部「ショートアロー」**.
 
 ### Weaponry:
 

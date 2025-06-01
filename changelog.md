@@ -60,6 +60,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Leopard 2 LES** (France / Netherlands)
         - **Richelieu**
         - **F/A-18C MLU 2** (Sweden / Finland)
+        - **M24DK** (Sweden / Denmark)
         - **EldE 98**
         - **SPYDER AIO**
 
@@ -94,12 +95,13 @@ All dates are listed in DD-MM-YYYY format.
         - **CS/SA5** → **CS/SA5 (2022)**. Statcard name → **Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Háng Gāo Pào (2022)**.
         - **Leopard 1A2** (Italy) → **Leopard 1 A2**. Statcard name → **Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A2**.
         - **RN Roma** → **Roma**. Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma (1943)**.
-        - **Fokker D.XXI** (France / Netherlands) → **D.XXI-1**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXI-1**.
+        - **Fokker D.XXI** (France / Netherlands) → **D.XXI-2**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXI-2**.
         - **NF-5A** (France / Netherlands): Statcard name → **Canadair CL-226-1A10 | NF-5A Freedom Fighter**.
         - **MSC**: Statcard name → **GIAT Industries | Mulet Système Complet**.
         - **Leopard 2 LES** (France / Netherlands) → **Leopard 2A4 NL (OTCo)**. Statcard name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm (Nederlandse Opleidingscommando)**.
         - **Richelieu**: Statcard name → **Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de Classe Richelieu | Richelieu (1943)**.
         - **F/A-18C MLU 2** (Sweden / Finland) → **HN (MLU 2)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Patria | HN "Hornet" (Mid-Life Upgrade 2)**.
+        - **M24DK** (Sweden / Denmark) → **M24**. Statcard name → **Cadillac Motor Car Division | G-200 | Tank, Light, M24 Chaffee**.
         - **EldE 98** → **elde 98 (Giraffe 1X)**. Statcard name → **BAE Systems Hägglunds | eldenhet 98 (Giraffe 1X)**.
         - **SPYDER AIO** → **SPYDER MFU AiO SR**. Statcard name → **Rafa'el Me'rkhot Leḥimah Mitḳadmot | SPYDER Missile Firing Unit All-in-One Short Range**.
     - **Kronštadt**: Statcard name → **Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt**
@@ -118,6 +120,11 @@ All dates are listed in DD-MM-YYYY format.
     - **10,5 cm kanon stridsvagn 104**: Caliber tag corrected from 84 mm to 105 mm.
     - **10,5 cm kanon stridsvagn 105**: Caliber tag corrected from 84 mm to 105 mm.
     - **20 mm automatkanon m/45B**: Caliber tag corrected from 12.7 mm to 20 mm.
+    - **UB**: Type tag corrected from ACNN to MG.
+    - **UBK**: Type tag corrected from ACNN to MG.
+    - **UBT**: Type tag corrected from ACNN to MG.
+    - **UBS**: Type tag corrected from ACNN to MG.
+    - **GAU-19/A**: Type tag corrected from RCNN to MG.
     - **FN MAG 60-40**: Caliber tag corrected from 7.92 mm to 7.62 mm. One of them that was mistakenly called just the **FN MAG** has also been corrected to the **FN MAG 60-40**.
     - **Flz.Lwf. LL 63** → **Flz Lwf LL 63**. Long name → **Flugzeug Lenkwaffe Luft-Luft 63 "SIWA"**
     - **Flz.Lwf. LL 63/80** → **Flz Lwf LL 63/80**. Long name → **Flugzeug Lenkwaffe Luft-Luft 63/80 "SIWA"**

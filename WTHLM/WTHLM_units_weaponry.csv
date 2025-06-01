@@ -196,16 +196,16 @@ weapons/cannonShVAK;<color=@userlogColoredText>20 mm</color> 56-P-113 | ŠVAK-20
 weapons/cannonShVAKS;<color=@userlogColoredText>20 mm</color> 56-P-113 | ŠVAK-20 <color=#ff6f00>ACNN</color>
 weapons/cannonShVAK_turret;<color=@userlogColoredText>20 mm</color> 56-P-113T | ŠVAK-20 <color=#ff6f00>ACNN</color>
 weapons/cannonShVAK_early;<color=@userlogColoredText>20 mm</color> 56-P-113 | ŠVAK-20 <color=#ff6f00>ACNN</color>
-weapons/gunUB;<color=@userlogColoredText>12.7 mm</color> UB <color=#ff6f00>ACNN</color>
-weapons/gunUBK;<color=@userlogColoredText>12.7 mm</color> UBK <color=#ff6f00>ACNN</color>
-weapons/gunUBK_turret;<color=@userlogColoredText>12.7 mm</color> UBT <color=#ff6f00>ACNN</color>
-weapons/gunUB_turret;<color=@userlogColoredText>12.7 mm</color> UBT <color=#ff6f00>ACNN</color>
+weapons/gunUB;<color=@userlogColoredText>12.7 mm</color> UB <color=#ff6f00>MG</color>
+weapons/gunUBK;<color=@userlogColoredText>12.7 mm</color> UBK <color=#ff6f00>MG</color>
+weapons/gunUBK_turret;<color=@userlogColoredText>12.7 mm</color> UBT <color=#ff6f00>MG</color>
+weapons/gunUB_turret;<color=@userlogColoredText>12.7 mm</color> UBT <color=#ff6f00>MG</color>
 weapons/gunTe-1_turret;7.7 mm Te-1 machine gun
 weapons/gunVikkersK;7.7 mm Vickers K machine gun
 weapons/gunVikkersK_turret;7.7 mm Vickers K machine gun
 weapons/gunVikkersE;7.7 mm Vickers E machine gun
 weapons/cannonVYa;<color=@userlogColoredText>23 mm</color> VÂ-23 <color=#ff6f00>ACNN</color>
-weapons/gunUBS;<color=@userlogColoredText>12.7 mm</color> UBS <color=#ff6f00>ACNN</color>
+weapons/gunUBS;<color=@userlogColoredText>12.7 mm</color> UBS <color=#ff6f00>MG</color>
 weapons/gunType89;7.7 mm Type 89 machine gun
 weapons/gunType89_turret;7.7 mm Type 89 machine gun
 weapons/gunType89s_turret;7.7 mm Type 89 machine gun 'special'
@@ -3458,7 +3458,7 @@ weapons/cannonLR30;<color=@userlogColoredText>30 mm</color> LR30 <color=#ff6f00>
 weapons/cannonLR30/short;LR30
 weapons/cannonGAU_13A;<color=@userlogColoredText>30 mm</color> Cannon, 30mm, GAU-13/A <color=#ff6f00>RCNN</color>
 weapons/cannonGAU_13A/short;GAU-13/A
-weapons/gunGAU_19;<color=@userlogColoredText>12.7 mm</color> Gun, Automatic, 12.7mm, GAU-19/A <color=#ff6f00>RCNN</color>
+weapons/gunGAU_19;<color=@userlogColoredText>12.7 mm</color> Gun, Automatic, 12.7mm, GAU-19/A <color=#ff6f00>MG</color>
 weapons/gunGAU_19/short;GAU-19/A
 weapons/cannonGAU_12U;<color=@userlogColoredText>25 mm</color> Cannon, 25mm, GAU-12/U Equalizer <color=#ff6f00>RCNN</color>
 weapons/cannonGAU_12U/short;GAU-12/U

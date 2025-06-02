@@ -1202,7 +1202,7 @@ shop/group/md_tgdgb_group;Echidna
 //GROUPS
 shop/group/us_sherman_group;M4A1 / 4 / 4A2
 shop/group/us_m19_m42_group;M19 / 42
-shop/group/us_sherman_76w_group;M4A2 / A3E8
+shop/group/us_sherman_76w_group;M4A2 / 3E8
 shop/group/us_t26_t25_group;M4 (M3) / T25
 shop/group/us_m47_48_group;M47 / 48A1
 shop/group/us_m60_group;M60A1 AOS / R/PE
@@ -1212,6 +1212,7 @@ shop/group/us_t32_group;T32 / 32E1
 shop/group/us_abrams_group;M1A1 / 1IP
 shop/group/us_abrams_a2_group;M1A2 / A2 SEP
 shop/group/us_m36_group;M36 / 36B2
+shop/group/us_kit_3rank_group;""Hell on Wheels""
 shop/group/us_m46_m47_group;M46 / 47
 shop/group/us_mbt_xm_group;XM803 / MBT70
 shop/group/us_m48_m60_group;M48 / 60
@@ -1272,7 +1273,7 @@ shop/group/germ_pzkpfw_V_a_f_group;Panther A / G / F
 shop/group/germ_leopard_2_group;KPz Leopard 2 A5 / A6
 shop/group/germ_flakpanzer_1_group;Pz.Kpfw. I A (2cm Fla.K. 38) / Flak.Pz. 38
 shop/group/germ_flakpanzer_4_group;Ostwind / Wirbelwind
-shop/group/germ_tiger_east_west_group;"Tiger E (früh) ""Ostfront"" / ""Westfront"" / Ostwind II ""Ostfront"""
+shop/group/germ_tiger_east_west_group;""Two Fronts""
 shop/group/germ_wiesel_gepard_group;Ozelot / Gepard 1 A2
 shop/group/germ_sturmpanzer_221_group;15cm s.I.G. 33 (Sfl) / Sd.Kfz. 221
 shop/group/germ_panzerjager_251_group;Pz.Jgr. I / m.S.P.W. D (7,5cm K.)
@@ -1338,6 +1339,7 @@ shop/group/ussr_bmp_3_group;BMP-3 / 2S25
 shop/group/ussr_zis_su_group;ZiS-30 / SU-57B
 shop/group/ussr_su_isu_152_group;SU-152 (Mar 1943) / 85 / ISU-152
 shop/group/ussr_su_isu_122_group;SU-85M / ISU-122
+shop/group/ussr_kit_3rank_group;""In May 1945""
 shop/group/ussr_isu_su_group;ISU-122S / SU-100
 shop/group/ussr_2s_group;2S1 / 3M
 shop/group/ussr_zis_group;ZiS-12 (94-KM) / ZSU-37
@@ -1390,6 +1392,7 @@ shop/group/uk_churchill_group;Churchill, Mk. III / IV, N.A.75
 shop/group/uk_tortoise_conway_group;Tortoise / Conway
 shop/group/uk_fv510_zt3_group;Warrior / Ratel ZT3
 shop/group/uk_ystervark_crusader_group;Ystervark / Crusader, Mk. III, A.A., Mk. II
+shop/group/uk_kit_3rank_group;""Echoes of Overlord""
 shop/group/uk_marksman_za_group;Chieftain Mk. 10 Marksman / ZA-35
 shop/group/uk_ratel_group;Ratel 90 / 20
 shop/group/uk_g6_eland_group;G6-45 / Eland 90
@@ -2981,18 +2984,18 @@ us_m4a2_76w_sherman_shop;M4A2 (76) W
 us_m4a2_76w_sherman_0;G-104 | Tank, Medium, M4A2 (76) W Sherman
 us_m4a2_76w_sherman_1;M4A2
 us_m4a2_76w_sherman_2;Medium tank
-us_m4a3e8_76w_sherman_shop;M4A3E8 (76) W HVSS
-us_m4a3e8_76w_sherman_0;G-104 | Tank, Medium, M4A3E8 (76) W HVSS Sherman
+us_m4a3e8_76w_sherman_shop;M4A3E8(76)W
+us_m4a3e8_76w_sherman_0;United States Army Ordnance Department | G-104 | G-104 | Tank, Medium, M4A3E8(76)W Sherman
 us_m4a3e8_76w_sherman_1;M4A3E8
 us_m4a3e8_76w_sherman_2;Medium tank
 us_m4a3e2_sherman_jumbo_shop;M4A3E2 (75) W
 us_m4a3e2_sherman_jumbo_0;"G-104 | Tank, Medium, M4A3E2 (75)  Sherman ""Jumbo"""
 us_m4a3e2_sherman_jumbo_1;M4A3E2
 us_m4a3e2_sherman_jumbo_2;Assault tank
-us_m4a3e8_76w_sherman_shop;"M4A3E8(76)W ""Hell"""
-us_m4a3e8_76w_sherman_0;"United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman ""Hell"""
-us_m4a3e8_76w_sherman_1;M4A3E8
-us_m4a3e8_76w_sherman_2;Medium Tank
+us_m4a3e8_76w_sherman_kit_3rank_shop;"M4A3E8(76)W ""Hell on Wheels"""
+us_m4a3e8_76w_sherman_kit_3rank_0;"United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman ""Hell on Wheels"""
+us_m4a3e8_76w_sherman_kit_3rank_1;M4A3E8
+us_m4a3e8_76w_sherman_kit_3rank_2;Medium Tank
 us_m4_t26_shop;M4 (M3)
 us_m4_t26_0;G-104 | Tank, Medium, M4 Sherman (Gun, 90mm, M3)
 us_m4_t26_1;M4 (M3)
@@ -3044,16 +3047,20 @@ us_t18_e2_2;Armored Car
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 us_m18_hellcat_shop;M18 GMC
-us_m18_hellcat_0;"G-163 | Carriage, Motor, 76mm Gun, M18 ""Hellcat"""
-us_m18_hellcat_1;M18
+us_m18_hellcat_0;"General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 ""Hellcat"""
+us_m18_hellcat_1;M18 GMC
 us_m18_hellcat_2;Light tank
+us_m18_hellcat_kit_3rank_shop;"M18 GMC ""Hell on Wheels"""
+us_m18_hellcat_kit_3rank_0;"General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 ""Hellcat"" ""Hell on Wheels"""
+us_m18_hellcat_kit_3rank_1;M18 GMC
+us_m18_hellcat_kit_3rank_2;Medium Tank
 us_m18_hellcat_black_cat_shop;M18 GMC (805th TD.Bat.)
-us_m18_hellcat_black_cat_0;"G-163 | Carriage, Motor, 76mm Gun, M18 ""Hellcat"" (805th Tank Destroyer Battalion) ""Black Cat"""
+us_m18_hellcat_black_cat_0;"General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 ""Hellcat"" (805th Tank Destroyer Battalion) ""Black Cat"""
 us_m18_hellcat_black_cat_1;M18
 us_m18_hellcat_black_cat_2;Light tank
 us_m18_super_hellcat_shop;M18 GMC (M3)
-us_m18_super_hellcat_0;"G-163 | Carriage, Motor, 90mm Gun, M18 ""Super Hellcat"""
-us_m18_super_hellcat_1;M18 GMC (M3)
+us_m18_super_hellcat_0;"General Motors' Buick Motor Division | G-163 | Carriage, Motor, 90mm Gun, M18 ""Super Hellcat"""
+us_m18_super_hellcat_1;M18 GMC
 us_m18_super_hellcat_2;Light tank
 us_m18_hellcat_black_cat_race_shop;"""Racing"" M18"
 us_m18_hellcat_black_cat_race_0;"""Racing"" M18"
@@ -3099,6 +3106,14 @@ us_t14_shop;T14
 us_t14_0;Tank, Assault, T14
 us_t14_1;T14
 us_t14_2;Assault tank
+us_skink_aa_kit_3rank_shop;"▃ Skink ""Hell on Wheels"""
+us_skink_aa_kit_3rank_0;"▃ Canadian Ministry of Munitions and Supply, Army Engineering Design Branch + Waterloo Manufacturing Company | Tank, Anti-Aircraft, 20mm, Quad, Skink ""Hell on Wheels"""
+us_skink_aa_kit_3rank_1;▃ Skink
+us_skink_aa_kit_3rank_2;SPAA
+us_skink_aa_shop;▃ Skink
+us_skink_aa_0;▃ Canadian Ministry of Munitions and Supply, Army Engineering Design Branch + Waterloo Manufacturing Company | Tank, Anti-Aircraft, 20mm, Quad, Skink
+us_skink_aa_1;▃ Skink
+us_skink_aa_2;SPAA
 us_t55e1_shop;T55E1 GMC
 us_t55e1_0;Carriage, Motor, 3-inch Gun, T55E1
 us_t55e1_1;T55E1 GMC
@@ -3153,10 +3168,6 @@ us_t34_shop;T34
 us_t34_0;Tank, Heavy, T34
 us_t34_1;T34
 us_t34_2;Heavy tank
-us_skink_aa_shop;▃ Skink
-us_skink_aa_0;▃ Tank, Anti-Aircraft, 20mm, Quad, Skink
-us_skink_aa_1;▃ Skink
-us_skink_aa_2;SPAA
 us_m109a1_shop;M109A1
 us_m109a1_0;G-296 | Howitzer, Medium, Self-Propelled, 155mm, M109A1
 us_m109a1_1;M109A1
@@ -4927,12 +4938,24 @@ ussr_t_34_85_zis_53_v80_shop;T-34-85 (Sep, 1944) (64-â Gv.T.Br.)
 ussr_t_34_85_zis_53_v80_0;"Ural'skij tankovyj zavod №183 | Ob""yekt 35 | T-34-85 obr. 1944 g. (September, 1944) (64-â gvardyejskaâ tankovaâ brigada)"
 ussr_t_34_85_zis_53_v80_1;T-34-85
 ussr_t_34_85_zis_53_v80_2;Medium tank
+ussr_is_1_shop;IS-1
+ussr_is_1_0;"Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g."
+ussr_is_1_1;IS-1
+ussr_is_1_2;Heavy Tank
+ussr_is_1_kit_3rank_shop;"IS-1 ""In May 1945"""
+ussr_is_1_kit_3rank_0;"Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g. ""In May 1945"""
+ussr_is_1_kit_3rank_1;IS-1
+ussr_is_1_kit_3rank_2;Heavy Tank
+ussr_sdkfz_251_21_kit_3rank_shop;"▂ m.S.P.W. D (M.G. 151 S) ""In May 1945"""
+ussr_sdkfz_251_21_kit_3rank_0;"▂ Hannoversche Maschinenbau | mittlerer Schützenpanzerwagen Ausf. D mit 1,5cm Drilling M.G. 151 S (Sd.Kfz. 251/21) ""In May 1945"""
+ussr_sdkfz_251_21_kit_3rank_1;▂ m.S.P.W. D (M.G. 151 S)
+ussr_sdkfz_251_21_kit_3rank_2;SPAAG
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 ussr_t_44_po_shop;T-44 №1
 ussr_t_44_po_0;"Ural'skij tankovyj zavod №183 imyeni Komintyerna | Ob""yekt 136 | T-44 №1"
 ussr_t_44_po_1;T-44
-ussr_t_44_po_2;Medium tank
+ussr_t_44_po_2;Medium Tank
 ussr_type_65_aa_shop;▂ A24
 ussr_type_65_aa_0;▂ Nhà Máy Q153 | Xe Phòng Không Too Hành 2 Nòng 37mm, A24
 ussr_type_65_aa_1;▂ A24
@@ -8167,7 +8190,7 @@ uk_armored_car_aec_mk_2_0;Car, Armoured, A.E.C., Mk. II
 uk_armored_car_aec_mk_2_1;A.E.C., Mk. II
 uk_armored_car_aec_mk_2_2;Armored Car
 uk_skink_aa_shop;Skink
-uk_skink_aa_0;Tank, Anti-Aircraft, 20mm, Quad, Skink
+uk_skink_aa_0;Canadian Ministry of Munitions and Supply, Army Engineering Design Branch + Waterloo Manufacturing Company | Tank, Anti-Aircraft, 20mm, Quad, Skink
 uk_skink_aa_1;Skink
 uk_skink_aa_2;SPAA
 uk_falcon_shop;Falcon
@@ -13265,8 +13288,8 @@ it_pzh_2000_hu_shop;PzH 2000 HU
 it_pzh_2000_hu_0;Panzerhaubitze 2000 HU
 it_pzh_2000_hu_1;PzH 2000 HU
 it_pzh_2000_hu_2;SPH
-germ_le_kpz_m41_shop;◄ KPz M 41 (1964)
-germ_le_kpz_m41_0;◄ Cadillac Motor Car Division | leichter Kampfpanzer M 41 (1964)
+germ_le_kpz_m41_shop;◄ KPz M 41 (1965)
+germ_le_kpz_m41_0;◄ Cadillac Motor Car Division | leichter Kampfpanzer M 41 (1965)
 germ_le_kpz_m41_1;◄ M 41
 germ_le_kpz_m41_2;Light tank
 germ_wiesel_2_adwc_shop;leFlaSys Ozelot

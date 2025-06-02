@@ -32,6 +32,8 @@ All dates are listed in DD-MM-YYYY format.
         - **SC-1**
         - **RAH-66**
         - **Sherman (Hell)**
+        - **Hellcat (Hell)**
+        - **Skink (Hell)**
         - **SLAMRAAM/TADS**
         - **SLAMRAAM/TEL**
         - **PT-95**
@@ -73,6 +75,8 @@ All dates are listed in DD-MM-YYYY format.
         - **SC-1**: Statcard name → **Curtiss-Wright Corporation | SC-1 Seahawk**.
         - **RAH-66** → **YRAH-66A (94-0327)**. Statcard name → **Boeing Rotorcraft Systems + Sikorsky Aircraft | Helicopter, Reconnaissance/Attack, YRAH-66A Comanche (94-0327)**.
         - **Sherman (Hell)** → **M4A3E8(76)W "Hell"**. Statcard name → **United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman "Hell"**.
+        - **Hellcat (Hell)** → **M18 GMC "Hell"**. Statcard name → **General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 "Hellcat" "Hell"**.
+        - **Skink (Hell)** → **Skink "Hell"**. Statcard name → **Canadian Ministry of Munitions and Supply, Army Engineering Design Branch + Waterloo Manufacturing Company | Tank, Anti-Aircraft, 20mm, Quad, Skink "Hell"**.
         - **SLAMRAAM/TADS** → **M1097A2 (AN/MPQ-64)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (AN/MPQ-64 Sentinel)**.
         - **SLAMRAAM/TEL** → **M1097A2 (SLAMRAAM)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**.
         - **PT-95** → **USS PT-95**. Statcard name → **Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-95**.
@@ -85,6 +89,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Klasse Scharnhorst | Gneisenau (1943)**.
         - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Klasse Bismarck | Bismarck**.
         - **L-39ZA Albatros** → **L-39ZA**. Statcard name → **Aero Vodochody | L-39ZA Albatros**.
+        - **IS-1 ('45)** → **IS-1 "In May 1945"**. Statcard name → **Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g. "In May 1945"**.
         - **T-72B3M** → **T-72B3A**. Statcard name → **Ural'skij vagonostroityel'nym zavodom imyeni F. È. Dzyeržinskogo | Ob"yekt 184-5 | T-72B3A obr. 2024 g.**. There are a lot of T-72B3M variants, and Gaijin added exactly none of them. What Gaijin calls the T-72B3 is actually the T-72B3M obr. 2016 g., and what they are calling the T-72B3M is actually the T-72B3A obr. 2024 g. *sigh*...
         - **Sevastopol** → **Syevastopol'**. Statcard name → **Sudostroityel'nyj zavod № 200 imyeni 61 kommunara | Proyekt 69I | Tâžyelyye kryejsyer tipa Kronštadt | Syevastopol'**.
         - **Sovetsky Soyuz** → **Sovyetskij Soûz**. Statcard name → **Zavod № 189 imyeni Ordžonikidzye | Proyekt 23 | Linyéjnyj korábl' tip Sovyetskij Soûz | Sovyetskij Soûz**.
@@ -120,6 +125,15 @@ All dates are listed in DD-MM-YYYY format.
     - **HN**: Statcard name → **McDonnell Douglas Corporation Model 267 / Patria | HN "Hornet"**
     - **81 Shiki (C)** → **81 Shiki (C) Kadaibu**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Kadaibu "Shōto Arō"**
         - Japanese package: Name → **81式 (C) 架台部**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型架台部「ショートアロー」**.
+    - **M4A3E8 (76) W HVSS** → **M4A3E8(76)W**: Statcard name → **United States Army Ordnance Department | G-104 | G-104 | Tank, Medium, M4A3E8(76)W Sherman**
+    - **M18 GMC**: Statcard name → **General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 "Hellcat"**
+    - **M18 GMC (805th TD.Bat.)**: Statcard name → **General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 "Hellcat" (805th Tank Destroyer Battalion) "Black Cat"**
+    - **M18 GMC (M3)**: Statcard name → **General Motors' Buick Motor Division | G-163 | Carriage, Motor, 90mm Gun, M18 "Super Hellcat"**
+    - **Skink** (USA / Canada & UK / Canada): Statcard name → **Canadian Ministry of Munitions and Supply, Army Engineering Design Branch + Waterloo Manufacturing Company | Tank, Anti-Aircraft, 20mm, Quad, Skink**
+    - **Tiger E (früh) "Ostfront" / "Westfront" / Ostwind II "Ostfront"** folder → **"Two Fronts"** to match the new multi-vehicle packs added in update "Leviathans".
+    - **M4A2 / A3E8** folder → **M4A2 / 3E8**.
+    - **KPz M 41 (1964)** (Germany) → **KPz M 41 (1965)**.
+    - **IS-1**: Statcard name → **Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g.**
 
 ### Weaponry:
 

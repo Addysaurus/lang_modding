@@ -1,5 +1,9 @@
 <ID|readonly|noverify>;<English>
 //GUNS
+weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>CNN</color>
+weapons/cannonDEFA552A_switzerland/short;Flz Kan 65
+weapons/cannonM61A2_switzerland;<color=@userlogColoredText>30 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
+weapons/cannonM61A2_switzerland/short;Flz Kan 92
 
 //GUN AMMUNITION
 105mm_ofl_g2;OFL 105 G2
@@ -27,6 +31,12 @@ weapons/in_nasser_240;Naṣr 240 <color=#ff6f00>RKT</color>
 weapons/in_nasser_240/short;Naṣr 240
 
 //MISSILES
+weapons/us_aim9n_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder <color=#ff6f00>AAM-IR</color>
+weapons/us_aim9n_sidewinder/short;AIM-9N
+weapons/us_aim_120c_5;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM
+weapons/us_aim_120c_5/short;AIM-120C-5
+weapons/us_aim_120c_5_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM
+weapons/us_aim_120c_5_default/short;AIM-120C-5
 weapons/sws_flz_lwf_63;"Flugzeug Lenkwaffe Luft-Luft 63 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
 weapons/sws_flz_lwf_63/short;Flz Lwf LL 63
 weapons/sws_flz_lwf_63_75;"Flugzeug Lenkwaffe Luft-Luft 63/75 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
@@ -35,6 +45,14 @@ weapons/sws_flz_lwf_63_80;"Flugzeug Lenkwaffe Luft-Luft 63/80 ""SIWA"" <color=#f
 weapons/sws_flz_lwf_63_80/short;Flz Lwf LL 63/80
 weapons/sws_flz_lwf_ll_64;"Flugzeug Lenkwaffe Luft-Luft 64/79 ""FALCO"" <color=#ff6f00>AAM-SARH</color>"
 weapons/sws_flz_lwf_ll_64/short;Flz Lwf LL 64/79
+weapons/us_aim_120b_switzerland;"Flugzeug Lenkwaffe Luft-Luft 97 ""AMRAAM"""
+weapons/us_aim_120b_switzerland/short;Flz Lwf LL 97
+weapons/us_aim_120b_switzerland_default;"Flugzeug Lenkwaffe Luft-Luft 97 ""AMRAAM"""
+weapons/us_aim_120b_switzerland_default/short;Flz Lwf LL 97
+weapons/us_aim_120c_5_switzerland;Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5
+weapons/us_aim_120c_5_switzerland/short;Flz Lwf LL AMRAAM 120C-5
+weapons/us_aim_120c_5_switzerland_default;Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5
+weapons/us_aim_120c_5_switzerland_default/short;Flz Lwf LL AMRAAM 120C-5
 weapons/fr_as30_switzerland;"Flugzeug Lenkwaffe Luft-Boden 66 ""NORAS"" <color=#ff6f00>AGM-RG</color>"
 weapons/fr_as30_switzerland/short;Flz Lwf LB 66
 weapons/sws_flz_lwf_lb_82;"Flugzeug Lenkwaffe Luft-Boden 82 ""MAVERICK"" <color=#ff6f00>AGM-EO</color>"

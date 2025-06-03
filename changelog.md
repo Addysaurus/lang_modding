@@ -160,14 +160,27 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - Update "Leviathans" additions:
+        - **AIM-9N**
+        - **AIM-120C-5**
+        - **Flz Lwf LL 63/75**
         - **Flz Lwf LL 64/79**
+        - **Flz Lwf LL 97 AMRAAM**
+        - **Flz Lwf LL 97 AMRAAM 120C-5**
+        - **Flz Kan 65**
+        - **Flz Kan 92**
 
 - #### Changes:
 
     - Update "Leviathans" changes:
+        - **AIM-9N**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder**.
+        - **AIM-120C-5**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM**.
         - **Flz Lwf LL 63/75**: Long name → **Flugzeug Lenkwaffe Luft-Luft 63/75 "SIWA"**.
         - **Flz Lwf LL 64/79**: Long name → **Flugzeug Lenkwaffe Luft-Luft 64/79 "FALCO"**.
+        - **Flz Lwf LL 97 AMRAAM**: Long name → **Flugzeug Lenkwaffe Luft-Luft 97 "AMRAAM"**.
+        - **Flz Lwf LL 97 AMRAAM 120C-5** → **Flz Lwf LL AMRAAM 120C-5**. Long name → ****.
         - **Flz Lwf LB 66**: Long name → **Flugzeug Lenkwaffe Luft-Boden 66 "NORAS"**.
+        - **Flz Kan 65**: Long name → **30mm Flugzeug Kanone 65**.
+        - **Flz Kan 92**: Long name → **30mm Flugzeug Kanone 92**.
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
     - **10,5 cm kanon stridsvagn 101**: Caliber tag corrected from 84 mm to 105 mm.
     - **10,5 cm kanon stridsvagn 104**: Caliber tag corrected from 84 mm to 105 mm.

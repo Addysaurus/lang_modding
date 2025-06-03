@@ -11,6 +11,10 @@ weapons/cannonM61A2_switzerland/short;Flz Kan 92
 105mm_ofl_g2;OFL 105 G2
 
 //BOMBS
+weapons/de_sc1000;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>
+weapons/de_sc1000/short;S.C. 1000 L2
+weapons/de_sc1000_default;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>
+weapons/de_sc1000_default/short;S.C. 1000 L2
 
 //MINES
 
@@ -47,13 +51,13 @@ weapons/sws_flz_lwf_63_80;"Flugzeug Lenkwaffe Luft-Luft 63/80 ""SIWA"" <color=#f
 weapons/sws_flz_lwf_63_80/short;Flz Lwf LL 63/80
 weapons/sws_flz_lwf_ll_64;"Flugzeug Lenkwaffe Luft-Luft 64/79 ""FALCO"" <color=#ff6f00>AAM-SARH</color>"
 weapons/sws_flz_lwf_ll_64/short;Flz Lwf LL 64/79
-weapons/us_aim_120b_switzerland;"Flugzeug Lenkwaffe Luft-Luft 97 ""AMRAAM"""
+weapons/us_aim_120b_switzerland;"Flugzeug Lenkwaffe Luft-Luft 97 ""AMRAAM"" <color=#ff6f00>AAM-ARH</color>"
 weapons/us_aim_120b_switzerland/short;Flz Lwf LL 97
-weapons/us_aim_120b_switzerland_default;"Flugzeug Lenkwaffe Luft-Luft 97 ""AMRAAM"""
+weapons/us_aim_120b_switzerland_default;"Flugzeug Lenkwaffe Luft-Luft 97 ""AMRAAM"" <color=#ff6f00>AAM-ARH</color>"
 weapons/us_aim_120b_switzerland_default/short;Flz Lwf LL 97
-weapons/us_aim_120c_5_switzerland;Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5
+weapons/us_aim_120c_5_switzerland;Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5 <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120c_5_switzerland/short;Flz Lwf LL AMRAAM 120C-5
-weapons/us_aim_120c_5_switzerland_default;Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5
+weapons/us_aim_120c_5_switzerland_default;Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5 <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120c_5_switzerland_default/short;Flz Lwf LL AMRAAM 120C-5
 weapons/fr_as30_switzerland;"Flugzeug Lenkwaffe Luft-Boden 66 ""NORAS"" <color=#ff6f00>AGM-RG</color>"
 weapons/fr_as30_switzerland/short;Flz Lwf LB 66
@@ -280,7 +284,6 @@ weapons/de_hs_293a1;Hs 293 A-1 <color=#ff6f00>AShM-RG</color>
 weapons/de_hs_293a1/short;Hs 293 A-1
 weapons/de_sc500_87;500 kg SC500K bomb
 weapons/de_sc1800b;1800 kg SC1800B bomb
-weapons/de_sc1000;1000 kg SC1000L2 bomb
 weapons/de_sd10a;10 kg SD10C bomb
 weapons/de_sd50;50 kg SD50 bomb
 weapons/de_sd50/short;SD50
@@ -2867,7 +2870,6 @@ weapons/it_100kg_t/short;GP 100T
 weapons/it_50kg_t/short;GP 50T
 weapons/it_50kg_t_vert/short;GP 50T
 weapons/it_500kg_gp/short;GP 500
-weapons/de_sc1000/short;SC1000
 weapons/de_sc1800b/short;SC1800
 weapons/de_sd10a/short;SD10C
 weapons/de_sd_10a/short;SD10C

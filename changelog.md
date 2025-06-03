@@ -172,6 +172,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AAM-3** (another one)
         - **AAM-4** (another one)
         - **ASM-1**
+        - **SC1000L2** (another one)
 
 - #### Changes:
 
@@ -181,7 +182,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Lwf LL 63/75**: Long name → **Flugzeug Lenkwaffe Luft-Luft 63/75 "SIWA"**.
         - **Flz Lwf LL 64/79**: Long name → **Flugzeug Lenkwaffe Luft-Luft 64/79 "FALCO"**.
         - **Flz Lwf LL 97 AMRAAM**: Long name → **Flugzeug Lenkwaffe Luft-Luft 97 "AMRAAM"**.
-        - **Flz Lwf LL 97 AMRAAM 120C-5** → **Flz Lwf LL AMRAAM 120C-5**. Long name → ****.
+        - **Flz Lwf LL 97 AMRAAM 120C-5** → **Flz Lwf LL AMRAAM 120C-5**. Long name → **Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5**.
         - **Flz Lwf LB 66**: Long name → **Flugzeug Lenkwaffe Luft-Boden 66 "NORAS"**.
         - **Flz Kan 65**: Long name → **30mm Flugzeug Kanone 65**.
         - **Flz Kan 76**: Long name → **20mm Flugzeug Kanone 76**.
@@ -194,6 +195,7 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Long name → **80式空対艦誘導弾 | ASM-1**.
         - **ASM-2**: Long name → **93 Shiki Sora Taikan Uūdōdan | ASM-2**.
             - Japanese package: Long name → **93式空対艦誘導弾 | ASM-2**.
+        - **SC1000L2** → **S.C. 1000 L2**. Long name → **Sprengbombe Cylindrisch 1000 L2**.
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
     - **10,5 cm kanon stridsvagn 101**: Caliber tag corrected from 84 mm to 105 mm.
     - **10,5 cm kanon stridsvagn 104**: Caliber tag corrected from 84 mm to 105 mm.

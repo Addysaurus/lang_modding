@@ -49,12 +49,6 @@ t_ball_t_38/name;T-38 Tracer bullet
 t_ball_t_38/name/short;T
 14mm_api_c;AP-I(c)
 14mm_api;API
-88mm_sprgr_dist_fuse;Sprgr. L/4.5
-37mm_sprgr_18_belt;Sprgr. 18
-37mm_pzgr_belt;PzGr
-57mm_or_281u_belt;OR-281U
-57mm_br_281u_belt;BR-281U
-75mm_m61_solid;M61 shot
 weapons/uk_520lb_herl_mk_1_n;HERL 520 lb Mk.IN bomb
 weapons/uk_520lb_herl_mk_1_n/short;HERL 520 lb Mk.IN
 weapons/uk_1650lb_sn_he;1650 lb SNHE bomb
@@ -64,21 +58,16 @@ explosiveType/tg_50;TG-50
 weapons/sws_flz_lwf_63_75;Flz Lwf LL 63/75 SIWA air-to-air missiles
 weapons/sws_flz_lwf_63_75/short;Flz Lwf LL 63/75
 weapons/127mm_IRIS_T_user_cannon;IRIS-T SL SAM
-35_228mm_he_i_t_belt;DM11A1
-35_228mm_apds_t_belt;DM23
-20mm_perforante_m35_belt;Perforante mod.35
 20mm_m594;M594
 23mm_hei;HEI
 20mm_shvak_api;API
 20mm_shvak_apit;API-T
 20mm_shvak_frag;FI
 20mm_shvak_frag_t;FI-T
-76mm_type0_navy_he_dist_fuse;8 cm Type 0 HE
 weapons/cannonDEFA552A_switzerland;30 mm Flz Kan 65 cannon
 weapons/cannonDEFA552A_switzerland/short;Flz Kan 65
 30mm_china_API;30 mm APT
 30mm_china_HE;30 mm HEI
-30mm_he_tf;30 mm HE-TF
 weapons/cannonXM301;20 mm XM301 cannon
 weapons/cannonM61A2;20 mm M61A2 cannon
 weapons/cannonM61A2/short;M61A2
@@ -123,11 +112,8 @@ weapons/20mm_mg151_20_mid_drilling_user_cannon;20 mm MG151 autocannon
 weapons/20mm_mg151_20_out_drilling_user_cannon;20 mm MG151 autocannon
 20mm_mgr;M-Gesch.
 20mm_pzsprgr;Pzsprgr.
-15mm_sprgr_notracer;SprGr
-152mm_45_he_dist_fuse;6 inch HE
 102mm_33_he;4 inch HE
 weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;5.25 inch/50 QF Mark I cannon
-155mm_60_type0_he_dist_fuse;155 mm Type 0 HE
 76mm_obr1915_hetf;76 mm HE-TF
 weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;381 mm/50 Ansaldo-OTO cannon, mod.1934
 381mm_50_sapcbc;381 mm Granata Perforante
@@ -162,4 +148,3 @@ weapons/cz_ofab_100mb/short;OFAB-100MB
 weapons/cz_ofab_100_110_tu_jupiter;100 kg OFAB-100-110TU bomb
 weapons/cz_ofab_100_110_tu_jupiter/short;OFAB-100-110TU
 weapons/30mm_denel_gi30_user_cannon;30 mm Denel GI-30 cannon
-weapons/160mm_spyder_launcher_user_cannon;SPYDER

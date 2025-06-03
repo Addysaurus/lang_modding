@@ -167,7 +167,11 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Lwf LL 97 AMRAAM**
         - **Flz Lwf LL 97 AMRAAM 120C-5**
         - **Flz Kan 65**
+        - **Flz Kan 76**
         - **Flz Kan 92**
+        - **AAM-3** (another one)
+        - **AAM-4** (another one)
+        - **ASM-1**
 
 - #### Changes:
 
@@ -180,7 +184,16 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Lwf LL 97 AMRAAM 120C-5** → **Flz Lwf LL AMRAAM 120C-5**. Long name → ****.
         - **Flz Lwf LB 66**: Long name → **Flugzeug Lenkwaffe Luft-Boden 66 "NORAS"**.
         - **Flz Kan 65**: Long name → **30mm Flugzeug Kanone 65**.
-        - **Flz Kan 92**: Long name → **30mm Flugzeug Kanone 92**.
+        - **Flz Kan 76**: Long name → **20mm Flugzeug Kanone 76**.
+        - **Flz Kan 92**: Long name → **20mm Flugzeug Kanone 92**.
+        - **AAM-3**: Long name → **90 Shiki Sora Taikū Yūdōdan | AAM-3**.
+            - Japanese package: Long name → **90式空対空誘導弾 | AAM-3**.
+        - **AAM-4**: Long name → **99 Shiki Sora Taikū Yūdōdan | AAM-4**.
+            - Japanese package: Long name → **99式空対空誘導弾 | AAM-4**.
+        - **ASM-1**: Long name → **80 Shiki Sora Taikan Uūdōdan | ASM-1**.
+            - Japanese package: Long name → **80式空対艦誘導弾 | ASM-1**.
+        - **ASM-2**: Long name → **93 Shiki Sora Taikan Uūdōdan | ASM-2**.
+            - Japanese package: Long name → **93式空対艦誘導弾 | ASM-2**.
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
     - **10,5 cm kanon stridsvagn 101**: Caliber tag corrected from 84 mm to 105 mm.
     - **10,5 cm kanon stridsvagn 104**: Caliber tag corrected from 84 mm to 105 mm.
@@ -195,6 +208,11 @@ All dates are listed in DD-MM-YYYY format.
     - **Flz.Lwf. LL 63** → **Flz Lwf LL 63**. Long name → **Flugzeug Lenkwaffe Luft-Luft 63 "SIWA"**
     - **Flz.Lwf. LL 63/80** → **Flz Lwf LL 63/80**. Long name → **Flugzeug Lenkwaffe Luft-Luft 63/80 "SIWA"**
     - **Flz.Lwf. LB 82** → **Flz Lwf LB 82**. Long name → **Flugzeug Lenkwaffe Luft-Boden 82 "MAVERICK"**
+    - **81 Shiki Tankyorichi Taikū Yūdōdan C Gata "Shōto Arō"** → **81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi "Shōto Arō"**.
+        - Japanese package: Name → **81式短距離地対空誘導弾C型発射装置「ショートアロー」**.
+    - **93 Shiki Kinkyorichi Taikū Yūdōdan "Kurōzudo Arō"** → **93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi "Kurōzudo Arō"**.
+        - Japanese package: Name → **93式近距離地対空誘導弾発射装置「クローズドアロー」**.
+    - The type tag has been removed from the **SAM-1C** and **SAM-3** because it was in the short names by mistake
 
 ## 1.12.05 - 22-05-2025
 

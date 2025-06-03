@@ -1,7 +1,9 @@
 <ID|readonly|noverify>;<English>
 //GUNS
-weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>CNN</color>
+weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
 weapons/cannonDEFA552A_switzerland/short;Flz Kan 65
+weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug Kanone 76 <color=#ff6f00>ACNN</color>
+weapons/cannonFlzKan_76/short;Flz Kan 76
 weapons/cannonM61A2_switzerland;<color=@userlogColoredText>30 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
 weapons/cannonM61A2_switzerland/short;Flz Kan 92
 
@@ -57,6 +59,20 @@ weapons/fr_as30_switzerland;"Flugzeug Lenkwaffe Luft-Boden 66 ""NORAS"" <color=#
 weapons/fr_as30_switzerland/short;Flz Lwf LB 66
 weapons/sws_flz_lwf_lb_82;"Flugzeug Lenkwaffe Luft-Boden 82 ""MAVERICK"" <color=#ff6f00>AGM-EO</color>"
 weapons/sws_flz_lwf_lb_82/short;Flz Lwf LB 82
+weapons/jp_aam3;90 Shiki Sora Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
+weapons/jp_aam3/short;AAM-3
+weapons/jp_aam3_default;90 Shiki Sora Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
+weapons/jp_aam3_default/short;AAM-3
+weapons/jp_aam4;99 Shiki Sora Taikū Yūdōdan | AAM-4 <color=#ff6f00>AAM-ARH</color>
+weapons/jp_aam4/short;AAM-4
+weapons/jp_aam4_default;99 Shiki Sora Taikū Yūdōdan | AAM-4 <color=#ff6f00>AAM-ARH</color>
+weapons/jp_aam4_default/short;AAM-4
+weapons/jp_asm1_missile;80 Shiki Sora Taikan Uūdōdan | ASM-1
+weapons/jp_asm1_missile/short;ASM-1
+weapons/jp_asm2_missile;93 Shiki Sora Taikan Uūdōdan | ASM-2
+weapons/jp_asm2_missile/short;ASM-2
+weapons/80mm_Type_91_launcher_user_cannon;"93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi ""Kurōzudo Arō"" <color=#ff6f00>LCH</color>"
+weapons/160mm_sam_1c_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
 
 //FUEL TANKS
 weapons/in_100gal_marut_drop_tank_l;Drop tank (100 gal)
@@ -2958,9 +2974,8 @@ weapons/85mm_D70_user_cannon;<color=@userlogColoredText>85 mm</color> 52-PS-372 
 85mm_br_372;BR-372
 85mm_of_372;OF-372
 85mm_3bk7;3BK7
-160mm_sam_1c;SAM-1C <color=#ff6f00>SAM-IR</color>
+160mm_sam_1c;SAM-1C
 weapons/160mm_sam_1c/short;SAM-1C
-weapons/160mm_sam_1c_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata ""Shōto Arō"" <color=#ff6f00>LCH</color>"
 weapons/105mm_T5E2_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, T5E2 <color=#ff6f00>CNN</color>
 weapons/105mm_T140_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, T140E2 <color=#ff6f00>CNN</color>
 weapons/105mm_t140e3_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, T140E3 <color=#ff6f00>CNN</color>
@@ -3889,10 +3904,6 @@ weapons/cn_pl12;PL12 <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl12/short;PL12
 weapons/cn_pl12_default;PL12 <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl12_default/short;PL12
-weapons/jp_aam3;AAM-3 <color=#ff6f00>AAM-IR</color>
-weapons/jp_aam3/short;AAM-3
-weapons/jp_aam4;AAM-4 <color=#ff6f00>AAM-ARH</color>
-weapons/jp_aam4/short;AAM-4
 weapons/su_pl5e2;PL5EII <color=#ff6f00>AAM-IR</color>
 weapons/su_pl5e2/short;PL5EII
 weapons/su_pl5e2_default;PL5EII <color=#ff6f00>AAM-IR</color>
@@ -4204,8 +4215,7 @@ weapons/72mm_hn_6/short;HN6
 weapons/70mm_fim_92e/short;FIM-92E
 70mm_fim_92k;FIM-92K
 weapons/70mm_FIM_92E_Stinger_launcher_user_cannon;Fliegerfaust 2 Stinger
-weapons/80mm_Type_91_launcher_user_cannon;"93 Shiki Kinkyorichi Taikū Yūdōdan ""Kurōzudo Arō"" <color=#ff6f00>LCH</color>"
-80mm_type_91;SAM-3 <color=#ff6f00>SAM-IR</color>
+80mm_type_91;SAM-3
 weapons/20mm_Hispano_mk_5_user_cannon;20 mm HS.404 cannon
 weapons/20mm_Polsten_user_cannon;20 mm Polsten cannon
 weapons/105mm_XC8_L50_user_cannon;105 mm L/50 cannon

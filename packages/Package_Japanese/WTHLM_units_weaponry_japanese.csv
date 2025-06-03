@@ -1,5 +1,5 @@
 <ID|readonly|noverify>;<English>
-//GUNS & CANNONS
+//GUNS
 weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5式30粍固定機銃 <color=#ff6f00>ACNN</color>
 weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5式30粍固定機銃 <color=#ff6f00>ACNN</color>
 weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 陸軍技術本部 | 94式37粍戦車砲 <color=#ff6f00>CNN</color>
@@ -7,12 +7,25 @@ weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98式20
 weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98式20粍高射機関砲 <color=#ff6f00>ACNN</color>
 weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> 試製5式7糎半戦車砲 (長) I型 <color=#ff6f00>CNN</color>
 weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> 試製5式7糎半戦車砲 (長) II型 <color=#ff6f00>CNN</color>
+
 //MISSILES
+weapons/jp_aam3;90式空対空誘導弾 | AAM-3
+weapons/jp_aam3/short;AAM-3
+weapons/jp_aam3_default;90式空対空誘導弾 | AAM-3
+weapons/jp_aam3_default/short;AAM-3
+weapons/jp_aam4;99式空対空誘導弾 | AAM-4
+weapons/jp_aam4/short;AAM-4
+weapons/jp_aam4_default;99式空対空誘導弾 | AAM-4
+weapons/jp_aam4_default/short;AAM-4
+weapons/jp_asm1_missile;80式空対艦誘導弾 | ASM-1
+weapons/jp_asm1_missile/short;ASM-1
+weapons/jp_asm2_missile;93式空対艦誘導弾 | ASM-2
+weapons/jp_asm2_missile/short;ASM-2
 weapons/120mm_type_64_mat_launcher_user_cannon;64式対戦車誘導弾 <color=#ff6f00>AGM-WG</color>
 weapons/120mm_type_64_mat_launcher_user_cannon/short;ATM-1
 weapons/120mm_Type_64_MAT_rocket_launcher;64式対戦車誘導弾 <color=#ff6f00>AGM-WG</color>
 weapons/120mm_Type_64_MAT_rocket_launcher/short;ATM-1
-weapons/160mm_sam_1c_launcher_user_cannon;81式短距離地対空誘導弾C型「ショートアロー」 <color=#ff6f00>LCH</color>
+weapons/160mm_sam_1c_launcher_user_cannon;81式短距離地対空誘導弾C型発射装置「ショートアロー」 <color=#ff6f00>LCH</color>
 160mm_sam_1c;SAM-1C
-weapons/80mm_Type_91_launcher_user_cannon;93式近距離地対空誘導弾「クローズドアロー」 <color=#ff6f00>LCH</color>
+weapons/80mm_Type_91_launcher_user_cannon;93式近距離地対空誘導弾発射装置「クローズドアロー」 <color=#ff6f00>LCH</color>
 80mm_type_91;SAM-3

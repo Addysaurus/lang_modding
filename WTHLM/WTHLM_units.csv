@@ -4938,6 +4938,10 @@ ussr_t_34_85_zis_53_v80_shop;T-34-85 (Sep, 1944) (64-â Gv.T.Br.)
 ussr_t_34_85_zis_53_v80_0;"Ural'skij tankovyj zavod №183 | Ob""yekt 35 | T-34-85 obr. 1944 g. (September, 1944) (64-â gvardyejskaâ tankovaâ brigada)"
 ussr_t_34_85_zis_53_v80_1;T-34-85
 ussr_t_34_85_zis_53_v80_2;Medium tank
+ussr_t_34_85_zis_53_kit_3rank_shop;"T-34-85 (Sep, 1944) ""In May 1945"""
+ussr_t_34_85_zis_53_kit_3rank_0;"Ural'skij tankovyj zavod №183 | Ob""yekt 35 | T-34-85 obr. 1944 g. (September, 1944) ""In May 1945"""
+ussr_t_34_85_zis_53_kit_3rank_1;T-34-85
+ussr_t_34_85_zis_53_kit_3rank_2;Medium tank
 ussr_is_1_shop;IS-1
 ussr_is_1_0;"Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g."
 ussr_is_1_1;IS-1
@@ -4947,7 +4951,7 @@ ussr_is_1_kit_3rank_0;"Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g. ""In M
 ussr_is_1_kit_3rank_1;IS-1
 ussr_is_1_kit_3rank_2;Heavy Tank
 ussr_sdkfz_251_21_kit_3rank_shop;"▂ m.S.P.W. D (M.G. 151 S) ""In May 1945"""
-ussr_sdkfz_251_21_kit_3rank_0;"▂ Hannoversche Maschinenbau | mittlerer Schützenpanzerwagen Ausf. D mit 1,5cm Drilling M.G. 151 S (Sd.Kfz. 251/21) ""In May 1945"""
+ussr_sdkfz_251_21_kit_3rank_0;"▂ Hannoversche Maschinenbau | mittlerer Schützenpanzerwagen Ausf. D mit 2cm Drilling M.G. 151 S (Sd.Kfz. 251/21) ""In May 1945"""
 ussr_sdkfz_251_21_kit_3rank_1;▂ m.S.P.W. D (M.G. 151 S)
 ussr_sdkfz_251_21_kit_3rank_2;SPAAG
 
@@ -5110,12 +5114,44 @@ uk_mark_v_1;Mk. V (Male)
 uk_mark_v_2;Medium Tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+uk_crusader_aa_mk_1_shop;Crusader, Mk. III, A.A., Mk. I
+uk_crusader_aa_mk_1_0;Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. I
+uk_crusader_aa_mk_1_1;Crusader, Mk. III, A.A., Mk. I
+uk_crusader_aa_mk_1_2;SPAAG
+uk_crusader_aa_mk_2_shop;Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_0;Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_1;Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_2;SPAAG
+uk_crusader_aa_mk_2_kit_3rank_shop;"Crusader, Mk. III, A.A., Mk. II ""Echoes of Overlord"""
+uk_crusader_aa_mk_2_kit_3rank_0;"Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II ""Echoes of Overlord"""
+uk_crusader_aa_mk_2_kit_3rank_1;Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_kit_3rank_2;SPAAG
+uk_crusader_aa_mk_2_tutorial_shop;Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_tutorial_0;Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_tutorial_1;Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_tutorial_2;SPAAG
 uk_a25_mk_8_shop;Harry Hopkins, Mk. I
 uk_a25_mk_8_0;Vickers-Armstrongs | Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I
 uk_a25_mk_8_1;Harry Hopkins, Mk. I
-uk_a25_mk_8_2;Light tank
+uk_a25_mk_8_2;Light Tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+uk_sherman_vc_firefly_shop;Sherman, Mk. Vc
+uk_sherman_vc_firefly_0;"United States Army Ordnance Department + Royal Ordnance Factory Nottingham | Tank, Medium, Sherman, Mk. Vc ""Firefly"""
+uk_sherman_vc_firefly_1;Sherman, Mk. V
+uk_sherman_vc_firefly_2;Medium Tank
+uk_sherman_vc_firefly_kit_3rank_shop;"Sherman, Mk. Vc ""Echoes of Overlord"""
+uk_sherman_vc_firefly_kit_3rank_0;"United States Army Ordnance Department + Royal Ordnance Factory Nottingham | Tank, Medium, Sherman, Mk. Vc ""Firefly"" ""Echoes of Overlord"""
+uk_sherman_vc_firefly_kit_3rank_1;Sherman, Mk. V
+uk_sherman_vc_firefly_kit_3rank_2;Medium Tank
+uk_a30_sp_avenger_shop;Avenger, Mk. I
+uk_a30_sp_avenger_0;Birmingham Railway Carriage and Wagon Company | 17-pdr, Self-Propelled, A.30, Avenger, Mk. I
+uk_a30_sp_avenger_1;Avenger, Mk. I
+uk_a30_sp_avenger_2;Medium Tank
+uk_a30_sp_avenger_kit_3rank_shop;Avenger, Mk. I "Echoes of Overlord"
+uk_a30_sp_avenger_kit_3rank_0;Birmingham Railway Carriage and Wagon Company | 17-pdr, Self-Propelled, A.30, Avenger, Mk. I "Echoes of Overlord"
+uk_a30_sp_avenger_kit_3rank_1;Avenger, Mk. I
+uk_a30_sp_avenger_kit_3rank_2;Medium Tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
@@ -6392,6 +6428,10 @@ jp_cruiser_sendai_shop;Sendai
 jp_cruiser_sendai_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Nitō Junyōkan | Sendai Gata Junyōkan (C-33) | Sendai (1942)
 jp_cruiser_sendai_1;Sendai
 jp_cruiser_sendai_2;Light cruiser
+jp_destroyer_yukikaze_shop;Yukikaze
+jp_destroyer_yukikaze_0;Sasebo Kaigun Kōshō / Kure Kaigun Kōshō | Ittō Kuchikukan | Kagerō Gata Kuchikukan (F-49) | Yukikaze (1943)
+jp_destroyer_yukikaze_1;Yukikaze
+jp_destroyer_yukikaze_2;Destroyer
 jp_cruiser_yubari_shop;Yūbari
 jp_cruiser_yubari_0;Sasebo Kaigun Kōshō / Yokosuka Kaigun Kōshō | Nitō Junyōkan | Yūbari Gata Junyōkan (F-42) | Yūbari (1944)
 jp_cruiser_yubari_1;Yūbari
@@ -7909,10 +7949,6 @@ uk_a30_challenger_shop;Challenger, Mk. I
 uk_a30_challenger_0;Tank, Cruiser, A.30, Challenger, Mk. I
 uk_a30_challenger_1;Challenger, Mk. I
 uk_a30_challenger_2;Cruiser tank
-uk_a30_sp_avenger_shop;Avenger, Mk. I
-uk_a30_sp_avenger_0;17-pdr, Self-Propelled, A.30, Avenger, Mk. I
-uk_a30_sp_avenger_1;Avenger, Mk. I
-uk_a30_sp_avenger_2;Medium tank
 uk_a39_tortoise_shop;Tortoise
 uk_a39_tortoise_0;Tank, Heavy Assault, A.39E1, Tortoise
 uk_a39_tortoise_1;Tortoise
@@ -7937,18 +7973,6 @@ uk_armored_car_mk_2_aa_shop;A.E.C., Mk. II, A.A.
 uk_armored_car_mk_2_aa_0;Car, Armoured, A.E.C., Mk. II, A.A.
 uk_armored_car_mk_2_aa_1;A.E.C., Mk. II, A.A.
 uk_armored_car_mk_2_aa_2;SPAA
-uk_crusader_aa_mk_1_shop;Crusader, Mk. III, A.A., Mk. I
-uk_crusader_aa_mk_1_0;Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. I
-uk_crusader_aa_mk_1_1;Crusader, Mk. III, A.A., Mk. I
-uk_crusader_aa_mk_1_2;SPAA
-uk_crusader_aa_mk_2_shop;Crusader, Mk. III, A.A., Mk. II
-uk_crusader_aa_mk_2_0;Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II
-uk_crusader_aa_mk_2_1;Crusader, Mk. III, A.A., Mk. II
-uk_crusader_aa_mk_2_2;SPAA
-uk_crusader_aa_mk_2_tutorial_shop;Crusader, Mk. III, A.A., Mk. II
-uk_crusader_aa_mk_2_tutorial_0;Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II
-uk_crusader_aa_mk_2_tutorial_1;Crusader, Mk. III, A.A., Mk. II
-uk_crusader_aa_mk_2_tutorial_2;SPAA
 uk_centaur_aa_mk_1_shop;Centaur, Mk. III, A.A., Mk. I
 uk_centaur_aa_mk_1_0;Tank, Cruiser, Mk. VIII, A.27L, Centaur, Mk. III, A.A., Mk. I
 uk_centaur_aa_mk_1_1;Centaur, Mk. III, A.A., Mk. I
@@ -8069,10 +8093,6 @@ uk_a27m_cromwell_1_shop;Cromwell, Mk. Ic
 uk_a27m_cromwell_1_0;Tank, Cruiser, Mk. VIII, A.27M, Cromwell, Mk. Ic
 uk_a27m_cromwell_1_1;Cromwell, Mk. I
 uk_a27m_cromwell_1_2;Cruiser tank
-uk_sherman_vc_firefly_shop;Sherman, Mk. Vc
-uk_sherman_vc_firefly_0;"Tank, Medium, Sherman, Mk. Vc ""Firefly"""
-uk_sherman_vc_firefly_1;Sherman, Mk. V
-uk_sherman_vc_firefly_2;Medium tank
 uk_a_34_comet_iron_duke_shop;Comet, Mk. Ia (7th Arm.Div.)
 uk_a_34_comet_iron_duke_0;"Tank, Cruiser, Mk. VIII, A.34, Comet, Mk. Ia (7th Armoured Division) ""Iron Duke IV"""
 uk_a_34_comet_iron_duke_1;Comet, Mk. I

@@ -46,15 +46,22 @@ All dates are listed in DD-MM-YYYY format.
         - **Gneisenau**
         - **Bismarck**
         - **L-39ZA Albatros**
+        - **IS-1 ('45)**
+        - **T-34-85 ('45)**
+        - **Hanomag ('45)**
         - **T-72B3M**
         - **Sevastopol**
         - **Sovetsky Soyuz**
+        - **Firefly (Overlord)**
+        - **Avenger (Overlord)**
+        - **Crusader AA (Overlord)**
         - **Badger**
         - **HMS Vanguard**
         - **F-2A**
         - **F-2A ADTW**
         - **Tan-SAM kai/TADS**
         - **Tan-SAM kai/TEL**
+        - **IJN Yukikaze**
         - **Yamato**
         - **CS/SA5**
         - **Leopard 1A2**
@@ -90,9 +97,14 @@ All dates are listed in DD-MM-YYYY format.
         - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Klasse Bismarck | Bismarck**.
         - **L-39ZA Albatros** → **L-39ZA**. Statcard name → **Aero Vodochody | L-39ZA Albatros**.
         - **IS-1 ('45)** → **IS-1 "In May 1945"**. Statcard name → **Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g. "In May 1945"**.
+        - **T-34-85 ('45)** → **T-34-85 (Sep, 1944) "In May 1945"**. Statcard name → **Ural'skij tankovyj zavod №183 | Ob"yekt 35 | T-34-85 obr. 1944 g. (September, 1944) "In May 1945"**.
+        - **Hanomag ('45)** → **m.S.P.W. D (M.G. 151 S) "In May 1945"**. Statcard name → **Hannoversche Maschinenbau | mittlerer Schützenpanzerwagen Ausf. D mit 2cm Drilling M.G. 151 S (Sd.Kfz. 251/21) "In May 1945"**.
         - **T-72B3M** → **T-72B3A**. Statcard name → **Ural'skij vagonostroityel'nym zavodom imyeni F. È. Dzyeržinskogo | Ob"yekt 184-5 | T-72B3A obr. 2024 g.**. There are a lot of T-72B3M variants, and Gaijin added exactly none of them. What Gaijin calls the T-72B3 is actually the T-72B3M obr. 2016 g., and what they are calling the T-72B3M is actually the T-72B3A obr. 2024 g. *sigh*...
         - **Sevastopol** → **Syevastopol'**. Statcard name → **Sudostroityel'nyj zavod № 200 imyeni 61 kommunara | Proyekt 69I | Tâžyelyye kryejsyer tipa Kronštadt | Syevastopol'**.
         - **Sovetsky Soyuz** → **Sovyetskij Soûz**. Statcard name → **Zavod № 189 imyeni Ordžonikidzye | Proyekt 23 | Linyéjnyj korábl' tip Sovyetskij Soûz | Sovyetskij Soûz**.
+        - **Firefly (Overlord)** → **Sherman, Mk. Vc "Echoes of Overlord"**. Statcard name → **United States Army Ordnance Department + Royal Ordnance Factory Nottingham | Tank, Medium, Sherman, Mk. Vc "Firefly" "Echoes of Overlord"**.
+        - **Avenger (Overlord)** → **Avenger, Mk. I "Echoes of Overlord"**. Statcard name → **Birmingham Railway Carriage and Wagon Company | 17-pdr, Self-Propelled, A.30, Avenger, Mk. I "Echoes of Overlord"**.
+        - **Crusader AA (Overlord)** → **Crusader, Mk. III, A.A., Mk. II "Echoes of Overlord"**. Statcard name → **Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II "Echoes of Overlord"**.
         - **Badger** → **Badger SV**. Statcard name → **Denel Land Systems | Badger Section Variant**.
         - **HMS Vanguard** → **HMS Vanguard (23)**. Statcard name → **John Brown & Co. | Vanguard-class | HMS Vanguard (23)**.
         - **F-2A** → **F-2A-MIT (C10)**. Statcard name → **General Dynamics Corporation F-16 Agile Falcon / Mitsubishi Jū Kōgyō | F-2A-MIT (C10 Rotto)**.
@@ -100,11 +112,13 @@ All dates are listed in DD-MM-YYYY format.
         - **F-2A ADTW** → **XF-2A-MIT (Hi Kai Ji Dan)**. Statcard name → **General Dynamics Corporation F-16 Agile Falcon / Mitsubishi Jū Kōgyō | XF-2A-MIT (Hikō Kaihatsu Jikken Dan)**.
             - Japanese package: Statcard name → **General Dynamics Corporation F-16 Agile Falcon / 三菱重工業 | XF-2A-MIT (飛行開発実験団)**.
         - **Tan-SAM kai/TADS** → **81 Shiki (C) Sha Tō Sō**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Shageki Tōsei Sōchi "Shōto Arō"**
-            - Japanese package: Name → **81式 (C) 射統装**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型射撃統制装置「ショートアロー」**.
+            - Japanese package: Short name → **81式 (C) 射統装**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型射撃統制装置「ショートアロー」**.
         - **Tan-SAM kai/TEL** → **81 Shiki (C) Kadaibu**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Kadaibu "Shōto Arō"**
-            - Japanese package: Name → **81式 (C) 架台部**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型架台部「ショートアロー」**.
-        - **Yamato**: Statcard name → **Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Yamato (1945)**.
-            - Japanese package: Name → **大和**. Statcard name → **呉海軍工廠 | 大和型戦艦 (A-140F6) | 大和 (1945)**.
+            - Japanese package: Short name → **81式 (C) 架台部**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型架台部「ショートアロー」**.
+        - **IJN Yukikaze** → **Yukikaze**. Statcard name → **Sasebo Kaigun Kōshō / Kure Kaigun Kōshō | Ittō Kuchikukan | Kagerō Gata Kuchikukan (F-49) | Yukikaze (1943)**.
+            - Japanese package: Short name → **雪風**. Statcard name → **佐世保海軍工廠 / 呉海軍工廠 | 一等駆逐艦 | 陽炎型駆逐艦 (F-49) | 雪風 (1943)**.
+        - **IJN Yamato** → **Yamato**. Statcard name → **Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Yamato (1945)**.
+            - Japanese package: Short name → **大和**. Statcard name → **呉海軍工廠 | 大和型戦艦 (A-140F6) | 大和 (1945)**.
         - **CS/SA5** → **CS/SA5 (2022)**. Statcard name → **Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Háng Gāo Pào (2022)**.
         - **Leopard 1A2** (Italy) → **Leopard 1 A2**. Statcard name → **Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A2**.
         - **RN Roma** → **Roma**. Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma (1943)**.
@@ -124,7 +138,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Leopard 1 A5** (Italy): Statcard name → **Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A5**
     - **HN**: Statcard name → **McDonnell Douglas Corporation Model 267 / Patria | HN "Hornet"**
     - **81 Shiki (C)** → **81 Shiki (C) Kadaibu**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Kadaibu "Shōto Arō"**
-        - Japanese package: Name → **81式 (C) 架台部**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型架台部「ショートアロー」**.
+        - Japanese package: Short name → **81式 (C) 架台部**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型架台部「ショートアロー」**.
     - **M4A3E8 (76) W HVSS** → **M4A3E8(76)W**: Statcard name → **United States Army Ordnance Department | G-104 | G-104 | Tank, Medium, M4A3E8(76)W Sherman**
     - **M18 GMC**: Statcard name → **General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 "Hellcat"**
     - **M18 GMC (805th TD.Bat.)**: Statcard name → **General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 "Hellcat" (805th Tank Destroyer Battalion) "Black Cat"**
@@ -134,6 +148,10 @@ All dates are listed in DD-MM-YYYY format.
     - **M4A2 / A3E8** folder → **M4A2 / 3E8**.
     - **KPz M 41 (1964)** (Germany) → **KPz M 41 (1965)**.
     - **IS-1**: Statcard name → **Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g.**
+    - **Sherman, Mk. Vc**: Statcard name → **United States Army Ordnance Department + Royal Ordnance Factory Nottingham | Tank, Medium, Sherman, Mk. Vc "Firefly"**
+    - **Avenger, Mk. I**: Statcard name → **Birmingham Railway Carriage and Wagon Company | 17-pdr, Self-Propelled, A.30, Avenger, Mk. I**
+    - **Crusader, Mk. III, A.A., Mk. I**: Statcard name → **Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. I**
+    - **Crusader, Mk. III, A.A., Mk. II**: Statcard name → **Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II**
 
 ### Weaponry:
 
@@ -314,11 +332,11 @@ You do not need to actually know how this works. I am including this in here in 
 - #### Changes:
 
     - **Ishikawa-Harima** manufacturer → **Ishikawajima Harima Jū Kōgyō**.
-        - Japanese package: Name → **石川島播磨重工業株式会社**.
+        - Japanese package: Short name → **石川島播磨重工業株式会社**.
     - **Mitsubishi** manufacturer → **Mitsubishi Jū Kōgyō**.
-        - Japanese package: Name → **三菱重工業**.
+        - Japanese package: Short name → **三菱重工業**.
     - **Mitsubishi Automotive Industry Company** manufacturer → **Mitsubishi Jidōsha Kōgyō**.
-        - Japanese package: Name → **三菱自動車工業株式会社**.
+        - Japanese package: Short name → **三菱自動車工業株式会社**.
     - **TF40-801A** → **TF40-IHI-801A**.
     - **10ZG32WT** → **10ZG 32WT**.
     - **J79-IHI-11** → **J79-IHI-11A**.

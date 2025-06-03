@@ -34,6 +34,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Sherman (Hell)**
         - **Hellcat (Hell)**
         - **Skink (Hell)**
+        - **T86**
         - **SLAMRAAM/TADS**
         - **SLAMRAAM/TEL**
         - **PT-95**
@@ -84,6 +85,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Sherman (Hell)** → **M4A3E8(76)W "Hell"**. Statcard name → **United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman "Hell"**.
         - **Hellcat (Hell)** → **M18 GMC "Hell"**. Statcard name → **General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 "Hellcat" "Hell"**.
         - **Skink (Hell)** → **Skink "Hell"**. Statcard name → **Canadian Ministry of Munitions and Supply, Army Engineering Design Branch + Waterloo Manufacturing Company | Tank, Anti-Aircraft, 20mm, Quad, Skink "Hell"**.
+        - **T86** → **T86 GMC**. Statcard name → **United States Army Ordnance Department | Carriage, Motor, Amphibious, 76mm Gun, T86**.
         - **SLAMRAAM/TADS** → **M1097A2 (AN/MPQ-64)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (AN/MPQ-64 Sentinel)**.
         - **SLAMRAAM/TEL** → **M1097A2 (SLAMRAAM)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**.
         - **PT-95** → **USS PT-95**. Statcard name → **Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-95**.
@@ -155,8 +157,17 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
+- #### Additions:
+
+    - Update "Leviathans" additions:
+        - **Flz Lwf LL 64/79**
+
 - #### Changes:
 
+    - Update "Leviathans" changes:
+        - **Flz Lwf LL 63/75**: Long name → **Flugzeug Lenkwaffe Luft-Luft 63/75 "SIWA"**.
+        - **Flz Lwf LL 64/79**: Long name → **Flugzeug Lenkwaffe Luft-Luft 64/79 "FALCO"**.
+        - **Flz Lwf LB 66**: Long name → **Flugzeug Lenkwaffe Luft-Boden 66 "NORAS"**.
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
     - **10,5 cm kanon stridsvagn 101**: Caliber tag corrected from 84 mm to 105 mm.
     - **10,5 cm kanon stridsvagn 104**: Caliber tag corrected from 84 mm to 105 mm.

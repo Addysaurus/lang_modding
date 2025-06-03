@@ -20,6 +20,7 @@ avionics_auto_cm_by_rwr;RWR
 avionics_auto_cm_by_mlws;MLWS
 avionics_auto_cm_sensors;Sensors
 avionics_auto_cm_programs;Programs
+
 //RADARS
 sensors/us_sa_radar;SA
 sensors/su_rif;Rif
@@ -80,6 +81,7 @@ sensors/su_vn_001;VN001 <color=#ff6f00>RDR-AESA</color>
 sensors/jp_awg_11;J/AWG-11
 sensors/jp_awg_12;J/AWG-12
 sensors/fr_thales_rbe2;RBE2-AA <color=#ff6f00>RDR-AESA</color>
+
 //RWRs
 sensors/su_spo-2;SPO-2
 sensors/su_spo-10;SPO-10
@@ -89,15 +91,21 @@ sensors/su_spo-15lm;SPO-15LM
 sensors/su_spo-15s;SPO-15S
 sensors/su_spo-150;L-150 Pastyel' <color=#ff6f00>RWR</color>
 sensors/su_spo_150_28m;L-150-28M
+
 //TARGETING PODS
 weapons/an_aas_38;AN/AAS-38 NITE Hawk <color=#ff6f00>TGP-IR</color>
 weapons/an_aas_38/short;AN/AAS-38
 weapons/an_aas_38a;AN/AAS-38A NITE Hawk <color=#ff6f00>TGP-IR/LG</color>
 weapons/an_aas_38a/short;AN/AAS-38A
+weapons/an_aas_38b;AN/AAS-38B NITE Hawk <color=#ff6f00>TGP-IR/LG</color>
+weapons/an_aas_38b/short;AN/AAS-38B
 weapons/an_asq_228_pod;AN/ASQ-228 Advanced Targeting Forward-Looking Infrared <color=#ff6f00>TGP-IR/LG</color>
 weapons/an_asq_228_pod/short;AN/ASQ-228
 weapons/su_t_220_targeting_pod;T-220
 weapons/su_t_220_targeting_pod/short;T-220
+weapons/jp_i_aaq2_targeting_pod;J/AAQ-2 <color=#ff6f00>TGP-IR</color>
+weapons/jp_i_aaq2_targeting_pod/short;J/AAQ-2
+
 //UNCATEGORIZED
 sensors/su_yakor_m;Yakor-M
 sensors/su_mr_102_baklan;MR-102 Baklan

@@ -214,6 +214,20 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: Name → **93式近距離地対空誘導弾発射装置「クローズドアロー」**.
     - The type tag has been removed from the **SAM-1C** and **SAM-3** because it was in the short names by mistake
 
+- ### Sensors:
+
+- #### Additions:
+
+    - Update "Leviathans" additions:
+        - **AN/AAS-38B**
+        - **J/AAQ-2**
+
+- #### Changes:
+    
+    - Update "Leviathans" changes: 
+        - **AN/AAS-38B**: Long name → **AN/AAS-38B NITE Hawk**.
+        - **J/AAQ-2**: Long name → **J/AAQ-2**.
+
 ## 1.12.05 - 22-05-2025
 
 ### General

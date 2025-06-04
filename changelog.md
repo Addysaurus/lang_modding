@@ -172,6 +172,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Kan 76**
         - **Flz Kan 92**
         - **Sprgr. L/4.5** (new file for existing thing)
+        - **Sprgr. 18** (new file for existing thing)
+        - **PzGr** (new file for existing thing)
         - **SC1000L2** (another one)
         - **IRIS-T SL SAM**
         - **IAI** (new file for existing thing)
@@ -213,6 +215,8 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **8,8cm Sprenggranate Patrone Ladung/4.5 (Kopfzunder)**.
         - **Sprgr. 18** → **3,7cm Sprgr.Patr. 18**.
             - Full ammunition names package: Name → **3,7cm Sprenggranate Patrone 18**.
+        - **PzGr** → **3,7cm Pzgr.Patr. 18**.
+            - Full ammunition names package: Name → **3,7cm Panzergranate Patrone 18**.
         - **SC1000L2** → **S.C. 1000 L2**. Long name → **Sprengbombe Cylindrisch 1000 L2**.
         - **OFAB-100** → **OFAB-100-120**. Long name → **OFAB-100-120**.
         - **IRIS-T SL SAM** → **IRIS-T SLM Startgerät**.

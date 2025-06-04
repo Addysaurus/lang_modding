@@ -150,10 +150,11 @@ All dates are listed in DD-MM-YYYY format.
     - **M4A2 / A3E8** folder → **M4A2 / 3E8**.
     - **KPz M 41 (1964)** (Germany) → **KPz M 41 (1965)**.
     - **IS-1**: Statcard name → **Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g.**
-    - **Sherman, Mk. Vc**: Statcard name → **United States Army Ordnance Department + Royal Ordnance Factory Nottingham | Tank, Medium, Sherman, Mk. Vc "Firefly"**
-    - **Avenger, Mk. I**: Statcard name → **Birmingham Railway Carriage and Wagon Company | 17-pdr, Self-Propelled, A.30, Avenger, Mk. I**
-    - **Crusader, Mk. III, A.A., Mk. I**: Statcard name → **Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. I**
-    - **Crusader, Mk. III, A.A., Mk. II**: Statcard name → **Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II**
+    - **Sherman, Mk. Vc**: Statcard name → **United States Army Ordnance Department + Royal Ordnance Factory Nottingham | Tank, Medium, Sherman, Mk. Vc "FireflyZ"**.
+    - **Avenger, Mk. I**: Statcard name → **Birmingham Railway Carriage and Wagon Company | 17-pdr, Self-Propelled, A.30, Avenger, Mk. I**.
+    - **Crusader, Mk. III, A.A., Mk. I**: Statcard name → **Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. I**.
+    - **Crusader, Mk. III, A.A., Mk. II**: Statcard name → **Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II**.
+    - **Māruta Mk. 1** → **Mārut Mk. 1**. Schwa deletion rules can fuck right off, that shit is so many levels of ass (please Hindi ffs use a goddamn halant to denote it at least please).
 
 ### Weaponry:
 

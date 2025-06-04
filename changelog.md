@@ -177,6 +177,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AAM-4** (another one)
         - **ASM-1**
         - **ASM-2**
+        - **DTC10-30**
         - **FB-10A**
 
 - #### Changes:
@@ -204,6 +205,8 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Long name → **80式空対艦誘導弾 | ASM-1**.
         - **ASM-2**: Long name → **93 Shiki Sora Taikan Yūdōdan | ASM-2**.
             - Japanese package: Long name → **93式空対艦誘導弾 | ASM-2**.
+        - **DTC10-30** → **L/DTC10-30**.
+            - Full ammunition names package: Name → **L/DTC10 Shì 30 Háomi Chuānjiǎdàn**.
         - **FB-10A** → **FB10A**.
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
     - **10,5 cm kanon stridsvagn 101**: Caliber tag corrected from 84 mm to 105 mm.

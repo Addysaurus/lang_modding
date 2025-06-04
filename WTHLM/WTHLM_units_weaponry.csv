@@ -6,6 +6,7 @@ weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug K
 weapons/cannonFlzKan_76/short;Flz Kan 76
 weapons/cannonM61A2_switzerland;<color=@userlogColoredText>30 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
 weapons/cannonM61A2_switzerland/short;Flz Kan 92
+weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Denel Land Systems Linkless CamGun EMAK 30 | GI-30 <color=#ff6f00>ACNN</color>
 
 //GUN AMMUNITION
 105mm_ofl_g2;OFL 105 G2
@@ -15,6 +16,12 @@ weapons/de_sc1000;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindr
 weapons/de_sc1000/short;S.C. 1000 L2
 weapons/de_sc1000_default;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>
 weapons/de_sc1000_default/short;S.C. 1000 L2
+weapons/su_ofab_100_120;OFAB-100-120
+weapons/su_ofab_100_120/short;OFAB-100-120
+weapons/su_ofab100m;OFAB-100M
+weapons/su_ofab100m/short;OFAB-100M
+weapons/su_ofab_250_270;OFAB-250-270
+weapons/su_ofab_250_270/short;OFAB-250-270
 
 //MINES
 
@@ -71,12 +78,13 @@ weapons/jp_aam4;99 Shiki Sora Taikū Yūdōdan | AAM-4 <color=#ff6f00>AAM-ARH</c
 weapons/jp_aam4/short;AAM-4
 weapons/jp_aam4_default;99 Shiki Sora Taikū Yūdōdan | AAM-4 <color=#ff6f00>AAM-ARH</color>
 weapons/jp_aam4_default/short;AAM-4
-weapons/jp_asm1_missile;80 Shiki Sora Taikan Uūdōdan | ASM-1
+weapons/jp_asm1_missile;80 Shiki Sora Taikan Yūdōdan | ASM-1
 weapons/jp_asm1_missile/short;ASM-1
-weapons/jp_asm2_missile;93 Shiki Sora Taikan Uūdōdan | ASM-2
+weapons/jp_asm2_missile;93 Shiki Sora Taikan Yūdōdan | ASM-2
 weapons/jp_asm2_missile/short;ASM-2
 weapons/80mm_Type_91_launcher_user_cannon;"93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi ""Kurōzudo Arō"" <color=#ff6f00>LCH</color>"
 weapons/160mm_sam_1c_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
+fb10_rocket;FB10A
 
 //FUEL TANKS
 weapons/in_100gal_marut_drop_tank_l;Drop tank (100 gal)

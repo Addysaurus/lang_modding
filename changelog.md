@@ -169,10 +169,14 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Kan 65**
         - **Flz Kan 76**
         - **Flz Kan 92**
+        - **SC1000L2** (another one)
+        - **OFAB-100**
+        - **30 mm Denel GI-30 cannon**
         - **AAM-3** (another one)
         - **AAM-4** (another one)
         - **ASM-1**
-        - **SC1000L2** (another one)
+        - **ASM-2**
+        - **FB-10A**
 
 - #### Changes:
 
@@ -187,15 +191,19 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Kan 65**: Long name → **30mm Flugzeug Kanone 65**.
         - **Flz Kan 76**: Long name → **20mm Flugzeug Kanone 76**.
         - **Flz Kan 92**: Long name → **20mm Flugzeug Kanone 92**.
+        - **SC1000L2** → **S.C. 1000 L2**. Long name → **Sprengbombe Cylindrisch 1000 L2**.
+        - **OFAB-100** → **OFAB-100-120**. Long name → **OFAB-100-120**.
+        - **OFAB-250-270**: Long name → **OFAB-250-270**.
+        - **30 mm Denel GI-30 cannon** → **Denel Land Systems Linkless CamGun EMAK 30 | GI-30**.
         - **AAM-3**: Long name → **90 Shiki Sora Taikū Yūdōdan | AAM-3**.
             - Japanese package: Long name → **90式空対空誘導弾 | AAM-3**.
         - **AAM-4**: Long name → **99 Shiki Sora Taikū Yūdōdan | AAM-4**.
             - Japanese package: Long name → **99式空対空誘導弾 | AAM-4**.
-        - **ASM-1**: Long name → **80 Shiki Sora Taikan Uūdōdan | ASM-1**.
+        - **ASM-1**: Long name → **80 Shiki Sora Taikan Yūdōdan | ASM-1**.
             - Japanese package: Long name → **80式空対艦誘導弾 | ASM-1**.
-        - **ASM-2**: Long name → **93 Shiki Sora Taikan Uūdōdan | ASM-2**.
+        - **ASM-2**: Long name → **93 Shiki Sora Taikan Yūdōdan | ASM-2**.
             - Japanese package: Long name → **93式空対艦誘導弾 | ASM-2**.
-        - **SC1000L2** → **S.C. 1000 L2**. Long name → **Sprengbombe Cylindrisch 1000 L2**.
+        - **FB-10A** → **FB10A**.
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
     - **10,5 cm kanon stridsvagn 101**: Caliber tag corrected from 84 mm to 105 mm.
     - **10,5 cm kanon stridsvagn 104**: Caliber tag corrected from 84 mm to 105 mm.

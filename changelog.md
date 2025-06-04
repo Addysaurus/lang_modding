@@ -163,6 +163,7 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Leviathans" additions:
         - **AIM-9N**
         - **AIM-120C-5**
+        - **M61** (new file for existing thing)
         - **Flz Lwf LL 63/75**
         - **Flz Lwf LL 64/79**
         - **Flz Lwf LL 97 AMRAAM**
@@ -170,15 +171,30 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Kan 65**
         - **Flz Kan 76**
         - **Flz Kan 92**
+        - **Sprgr. L/4.5** (new file for existing thing)
         - **SC1000L2** (another one)
+        - **IRIS-T SL SAM**
+        - **IAI** (new file for existing thing)
+        - **API-T** (new file for existing thing)
+        - **AP-I** (new file for existing thing)
+        - **T** (new file for existing thing)
+        - **AP-I(c)** (new file for existing thing)
+        - **API** (new file for existing thing)
+        - **OR-281U** (new file for existing thing)
+        - **BR-281U** (new file for existing thing)
         - **OFAB-100**
+        - **I** (new file for existing thing)
         - **30 mm Denel GI-30 cannon**
+        - **HERL 520 lb Mk.IN**
+        - **1650 lb SNHE**
         - **AAM-3** (another one)
         - **AAM-4** (another one)
         - **ASM-1**
         - **ASM-2**
         - **DTC10-30**
         - **FB-10A**
+        - **Oktogel** (explosive type)
+        - **TG-50** (explosive type)
 
 - #### Changes:
 
@@ -193,10 +209,17 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Kan 65**: Long name → **30mm Flugzeug Kanone 65**.
         - **Flz Kan 76**: Long name → **20mm Flugzeug Kanone 76**.
         - **Flz Kan 92**: Long name → **20mm Flugzeug Kanone 92**.
+        - **Sprgr. L/4.5** → **8,8cm Sprgr.Patr.L/4.5 (Kz)**.
+            - Full ammunition names package: Name → **8,8cm Sprenggranate Patrone Ladung/4.5 (Kopfzunder)**.
+        - **Sprgr. 18** → **3,7cm Sprgr.Patr. 18**.
+            - Full ammunition names package: Name → **3,7cm Sprenggranate Patrone 18**.
         - **SC1000L2** → **S.C. 1000 L2**. Long name → **Sprengbombe Cylindrisch 1000 L2**.
         - **OFAB-100** → **OFAB-100-120**. Long name → **OFAB-100-120**.
+        - **IRIS-T SL SAM** → **IRIS-T SLM Startgerät**.
         - **OFAB-250-270**: Long name → **OFAB-250-270**.
         - **30 mm Denel GI-30 cannon** → **Denel Land Systems Linkless CamGun EMAK 30 | GI-30**.
+        - **HERL 520 lb Mk.IN** → **H.E., R.L., 520-lb, Mk. I/N**. Long name → **Bomb, H.E., R.L., 520-lb, Mk. I/N**.
+        - **1650 lb SNHE** → **H.E., S.N., 1650-lb**. Long name → **Bomb, H.E., S.N., 1650-lb**.
         - **AAM-3**: Long name → **90 Shiki Sora Taikū Yūdōdan | AAM-3**.
             - Japanese package: Long name → **90式空対空誘導弾 | AAM-3**.
         - **AAM-4**: Long name → **99 Shiki Sora Taikū Yūdōdan | AAM-4**.

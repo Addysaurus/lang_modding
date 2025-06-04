@@ -9,8 +9,25 @@ weapons/cannonM61A2_switzerland/short;Flz Kan 92
 weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Denel Land Systems Linkless CamGun EMAK 30 | GI-30 <color=#ff6f00>ACNN</color>
 
 //GUN AMMUNITION
-105mm_ofl_g2;OFL 105 G2
+i_ball_mdz/name;Immediate-action incendiary bullet
+i_ball_mdz/name/short;IAI
+ap_i_t_ball_bzt_44/name;BZT-44 Armor-piercing incendiary tracer bullet
+ap_i_t_ball_bzt_44/name/short;API-T
+ap_i_ball_b32/name;B-32 Armor-piercing incendiary bullet
+ap_i_ball_b32/name/short;AP-I
+t_ball_t_38/name;T-38 Tracer bullet
+t_ball_t_38/name/short;T
+14mm_api_c;AP-I(c)
+14mm_api;API
+b_mk_1z/name;Mk.1Z Incendiary bullet
+b_mk_1z/name/short;I
+57mm_or_281u_belt;OR-281U
+57mm_br_281u_belt;BR-281U
+37mm_sprgr_18_belt;3,7cm Sprgr.Patr. 18
+75mm_m61_solid;M61 shot
+88mm_sprgr_dist_fuse;8,8cm Sprgr.Patr.L/4.5 (Kz)
 30mm_dtc10_30;L/DTC10-30
+105mm_ofl_g2;OFL 105 G2
 
 //BOMBS
 weapons/de_sc1000;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>
@@ -23,6 +40,12 @@ weapons/su_ofab100m;OFAB-100M <color=#ff6f00>BMB</color>
 weapons/su_ofab100m/short;OFAB-100M
 weapons/su_ofab_250_270;OFAB-250-270 <color=#ff6f00>BMB</color>
 weapons/su_ofab_250_270/short;OFAB-250-270
+weapons/uk_230lbs;<color=@userlogColoredText>90.7 kg</color> Bomb, H.E., R.F.C., 230-lb, Mk. III <color=#ff6f00>BMB</color>
+weapons/uk_230lbs/short;H.E., R.F.C., 230-lb, Mk. III
+weapons/uk_520lb_herl_mk_1_n;<color=@userlogColoredText>238.1 kg</color> Bomb, H.E., R.L., 520-lb, Mk. I/N <color=#ff6f00>BMB</color>
+weapons/uk_520lb_herl_mk_1_n/short;H.E., R.L., 520-lb, Mk. I/N
+weapons/uk_1650lb_sn_he;<color=@userlogColoredText>748 kg</color> Bomb, H.E., S.N., 1650-lb <color=#ff6f00>BMB</color>
+weapons/uk_1650lb_sn_he/short;H.E., S.N., 1650-lb
 
 //MINES
 
@@ -71,6 +94,7 @@ weapons/fr_as30_switzerland;"Flugzeug Lenkwaffe Luft-Boden 66 ""NORAS"" <color=#
 weapons/fr_as30_switzerland/short;Flz Lwf LB 66
 weapons/sws_flz_lwf_lb_82;"Flugzeug Lenkwaffe Luft-Boden 82 ""MAVERICK"" <color=#ff6f00>AGM-EO</color>"
 weapons/sws_flz_lwf_lb_82/short;Flz Lwf LB 82
+weapons/127mm_IRIS_T_user_cannon;IRIS-T SLM Startgerät
 weapons/jp_aam3;90 Shiki Sora Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
 weapons/jp_aam3/short;AAM-3
 weapons/jp_aam3_default;90 Shiki Sora Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
@@ -96,6 +120,10 @@ weapons/in_100gal_marut_drop_tank_r;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_r/short;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_r_2;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_r_2/short;Drop tank (100 gal)
+
+//EXPLOSIVE TYPES
+explosiveType/octogel;Oktogel
+explosiveType/tg_50;TG-50
 
 //UNCATEGORIZED
 weapons/cannonMGC30L;20 mm MG C/30L cannon
@@ -671,8 +699,6 @@ weapons/jp_500lb_mk82_gcs_1;Mk. 82 GCS-1 guided bomb
 weapons/jp_500lb_mk82_gcs_1/short;Mk. 82 GCS-1
 weapons/jp_750lb_m117_gcs_1;JM117 GCS-1 guided bomb
 weapons/jp_750lb_m117_gcs_1/short;JM117 GCS-1
-weapons/uk_230lbs;<color=@userlogColoredText>90.7 kg</color> Bomb, H.E., R.F.C., 230-lb, Mk. III <color=#ff6f00>BMB</color>
-weapons/uk_230lbs/short;H.E., R.F.C., 230-lb, Mk. III
 weapons/uk_250lbs;G.P. 250 lb Mk. IV bomb
 weapons/uk_250lbs_43;G.P. 250 lb Mk. IV bomb
 weapons/uk_250lbs_default;G.P. 250 lb Mk.IV bomb

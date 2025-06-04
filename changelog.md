@@ -209,7 +209,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Kan 65**: Long name → **30mm Flugzeug Kanone 65**.
         - **Flz Kan 76**: Long name → **20mm Flugzeug Kanone 76**.
         - **Flz Kan 92**: Long name → **20mm Flugzeug Kanone 92**.
-        - **Sprgr. L/4.5** → **8,8cm Sprgr.Patr.L/4.5 (Kz)**.
+        - **Sprgr. L/4.5** → **8,8cm Sprgr.Patr. L/4.5 (Kz)**.
             - Full ammunition names package: Name → **8,8cm Sprenggranate Patrone Ladung/4.5 (Kopfzunder)**.
         - **Sprgr. 18** → **3,7cm Sprgr.Patr. 18**.
             - Full ammunition names package: Name → **3,7cm Sprenggranate Patrone 18**.

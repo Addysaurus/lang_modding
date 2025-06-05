@@ -176,6 +176,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Sprgr. L/4.5** (new file for existing thing)
         - **Sprgr. 18** (new file for existing thing)
         - **PzGr** (new file for existing thing)
+        - **SprGr** (new file for existing thing)
         - **M-Gesch.** (new file for existing thing)
         - **Pzsprgr.** (new file for existing thing)
         - **DM11A1** (new file for existing thing)
@@ -222,11 +223,13 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **3,7cm Sprenggranate Patrone 18**.
         - **PzGr** → **3,7cm Pzgr.Patr. 18**.
             - Full ammunition names package: Name → **3,7cm Panzergranate Patrone 18**.
+        - **SprGr** → **1,5cm Sprgr.Patr.Üb.o.Zerl.**.
+            - Full ammunition names package: Name → **1,5cm Sprenggranate Patrone Übungs ohne Zerleger**.
+        - **M-Gesch.** → **2cm M.Gesch.Patr.o.Zerl.**.
+            - Full ammunition names package: Name → **2cm Panzersprenggranate Patrone L'spur ohne Zerleger**.
         - **Pzsprgr.** → **2cm Pzsprgr.Patr. L'spur o.Zerl.**.
             - Full ammunition names package: Name → **2cm Panzersprenggranate Patrone L'spur ohne Zerleger**.
             - This 1 belt for the new Soviet multi-vehicle pack **m.S.P.W. D (M.G. 151 S) "In May 1945"** took me 30 damn minutes to find. That's why this update is late. I hope you're fucking happy with me.
-        - **M-Gesch.** → **2cm M.Gesch.Patr.o.Zerl.**.
-            - Full ammunition names package: Name → **2cm Panzersprenggranate Patrone L'spur ohne Zerleger**.
         - **DM11A1** (the new text for the existing belt) → **DM 11 A1**.
         - **DM 23** (the new text for the existing belt) → **DM 23**.
         - **SC1000L2** → **S.C. 1000 L2**. Long name → **Sprengbombe Cylindrisch 1000 L2**.

@@ -173,6 +173,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Kan 65**
         - **Flz Kan 76**
         - **Flz Kan 92**
+        - **20 mm MG151 autocannon**
         - **Sprgr. L/4.5** (new file for existing thing)
         - **Sprgr. 18** (new file for existing thing)
         - **PzGr** (new file for existing thing)
@@ -217,6 +218,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Kan 65**: Long name → **30mm Flugzeug Kanone 65**.
         - **Flz Kan 76**: Long name → **20mm Flugzeug Kanone 76**.
         - **Flz Kan 92**: Long name → **20mm Flugzeug Kanone 92**.
+        - **20 mm MG151 autocannon** → **2cm Maschinengewehr 151 Ausf. S**.
         - **Sprgr. L/4.5** → **8,8cm Sprgr.Patr. L/4.5 (Kz)**.
             - Full ammunition names package: Name → **8,8cm Sprenggranate Patrone Ladung/4.5 (Kopfzunder)**.
         - **Sprgr. 18** → **3,7cm Sprgr.Patr. 18**.

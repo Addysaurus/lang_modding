@@ -65,6 +65,7 @@ All dates are listed in DD-MM-YYYY format.
         - **IJN Yukikaze**
         - **Yamato**
         - **CS/SA5**
+        - **MiG-29 Sniper**
         - **Leopard 1A2**
         - **RN Roma**
         - **Fokker D.XXI** (France / Netherlands)
@@ -122,6 +123,7 @@ All dates are listed in DD-MM-YYYY format.
         - **IJN Yamato** → **Yamato**. Statcard name → **Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Yamato (1945)**.
             - Japanese package: Short name → **大和**. Statcard name → **呉海軍工廠 | 大和型戦艦 (A-140F6) | 大和 (1945)**.
         - **CS/SA5** → **CS/SA5 (2022)**. Statcard name → **Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Háng Gāo Pào (2022)**.
+        - **MiG-29 Sniper**: Statcard name → **Mikoấn i Guryévič / Aerostar + Elbit Systems | MiG-29 Sniper**.
         - **Leopard 1A2** (Italy) → **Leopard 1 A2**. Statcard name → **Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A2**.
         - **RN Roma** → **Roma**. Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma (1943)**.
         - **Fokker D.XXI** (France / Netherlands) → **D.XXI-2**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXI-2**.

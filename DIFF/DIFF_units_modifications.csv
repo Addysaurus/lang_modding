@@ -13,10 +13,19 @@ modification/jp_asm1;ASM-1
 modification/jp_asm1/desc;Allows the installation of ASM-1 guided anti-ship missiles.
 modification/jp_asm2;ASM-2
 modification/jp_asm2/desc;Allows the installation of ASM-2 guided anti-ship missiles.
+sensors/us_an_mpq_64;AN/MPQ-64
+sensors/de_hensoldt_trml_4b;TRML-4D
+sensors/jp_type_81_search;Type 81 TA
+sensors/sw_giraffe_1x;Giraffe 1X
+sensors/il_spyder_search;SPIDER AIO TA
+sensors/cn_pgz_625_search;PGZ-625 TA
+sensors/cn_pgz_625_track;PGZ-625 TT
 sensors/us_an_alr_56a;AN/ALR-56A
 sensors/us_an_apg_60;AN/APG-60
 sensors/us_an_apg_61;AN/APG-61
 sensors/us_comanche_fcr;CR
+sensors/jp_j_apg_1;J/APG-1
+sensors/jp_j_apg_2;J/APG-2
 engine_manufacturer/cummins;Cummins
 engine_manufacturer/navistar;Navistar
 engine_model/maxxforce_13;MaxxForce 13
@@ -39,6 +48,7 @@ modification/us_aim_9n/desc;Allows the installation of AIM-9N air-to-air missile
 modification/us_aim_9n;AIM-9N
 modification/sws_flz_lwf_63_75/desc;Allows the installation of Flz Lwf 63/75 air-to-air missiles.
 modification/sws_flz_lwf_63_75;Flz Lwf 63/75
+counterMeasures/l_370v28_5l;L-370V28-5L
 modification/381mm_uk_bl_mk1_6crh_22b_navy_apc;15-inch 6crh Mark XXIIb APC
 modification/381mm_uk_bl_mk1_6crh_22b_navy_apc_ammo_pack;15-inch 6crh Mark XXIIb APC
 modification/406mm_us_mk8_mod6_navy_apcbc;406 mm Mk.8 Mod.6 APCBC

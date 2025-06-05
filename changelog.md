@@ -174,8 +174,10 @@ All dates are listed in DD-MM-YYYY format.
         - **Sprgr. L/4.5** (new file for existing thing)
         - **Sprgr. 18** (new file for existing thing)
         - **PzGr** (new file for existing thing)
+        - **M-Gesch.** (new file for existing thing)
+        - **Pzsprgr.** (new file for existing thing)
+        - **DM11A1** (new file for existing thing)
         - **SC1000L2** (another one)
-        - **IRIS-T SL SAM**
         - **IAI** (new file for existing thing)
         - **API-T** (new file for existing thing)
         - **AP-I** (new file for existing thing)
@@ -195,6 +197,7 @@ All dates are listed in DD-MM-YYYY format.
         - **ASM-2**
         - **DTC10-30**
         - **FB-10A**
+        - **IRIS-T SL SAM**
         - **Oktogel** (explosive type)
         - **TG-50** (explosive type)
 
@@ -217,9 +220,15 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **3,7cm Sprenggranate Patrone 18**.
         - **PzGr** → **3,7cm Pzgr.Patr. 18**.
             - Full ammunition names package: Name → **3,7cm Panzergranate Patrone 18**.
+        - **Pzsprgr.** → **2cm Pzsprgr.Patr. L'spur o.Zerl.**.
+            - Full ammunition names package: Name → **2cm Panzersprenggranate Patrone L'spur ohne Zerleger**.
+            - This 1 belt for the new Soviet multi-vehicle pack **m.S.P.W. D (M.G. 151 S) "In May 1945"** took me 30 damn minutes to find. That's why this update is late. I hope you're fucking happy with me.
+        - **M-Gesch.** → **2cm M.Gesch.Patr.o.Zerl.**.
+            - Full ammunition names package: Name → **2cm Panzersprenggranate Patrone L'spur ohne Zerleger**.
+        - **DM11A1** (the new text for the existing belt) → **DM 11 A1**.
+        - **DM 23** (the new text for the existing belt) → **DM 23**.
         - **SC1000L2** → **S.C. 1000 L2**. Long name → **Sprengbombe Cylindrisch 1000 L2**.
         - **OFAB-100** → **OFAB-100-120**. Long name → **OFAB-100-120**.
-        - **IRIS-T SL SAM** → **IRIS-T SLM Startgerät**.
         - **OFAB-250-270**: Long name → **OFAB-250-270**.
         - **30 mm Denel GI-30 cannon** → **Denel Land Systems Linkless CamGun EMAK 30 | GI-30**.
         - **HERL 520 lb Mk.IN** → **H.E., R.L., 520-lb, Mk. I/N**. Long name → **Bomb, H.E., R.L., 520-lb, Mk. I/N**.
@@ -236,6 +245,9 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **L/DTC10 Shì 30 Háomi Chuānjiǎdàn**.
         - **FB-10A** → **L/FB10A**.
             - Full ammunition names package: Name → **L/FB10A Dì Duì Kōng Dǎodàn**.
+        - **Rbs 98** → **lvrb 98**.
+            - Full ammunition names package: Name → **luftvärnsrobot 98**.
+        - **IRIS-T SL SAM** → **Diehl Defence ML-98**.
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
     - **10,5 cm kanon stridsvagn 101**: Caliber tag corrected from 84 mm to 105 mm.
     - **10,5 cm kanon stridsvagn 104**: Caliber tag corrected from 84 mm to 105 mm.

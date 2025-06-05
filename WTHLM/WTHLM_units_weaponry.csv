@@ -21,6 +21,10 @@ t_ball_t_38/name/short;T
 14mm_api;API
 b_mk_1z/name;Mk.1Z Incendiary bullet
 b_mk_1z/name/short;I
+20mm_mgr;2cm M.Gesch.Patr.o.Zerl.
+20mm_pzsprgr;2cm Pzsprgr.Patr. L'spur o.Zerl.
+35_228mm_he_i_t_belt;DM 11 A1
+35_228mm_apds_t_belt;DM 23
 37mm_sprgr_18_belt;3,7cm Sprgr.Patr. 18
 37mm_pzgr_belt;3,7cm Pzgr.Patr. 18
 57mm_or_281u_belt;OR-281U
@@ -95,7 +99,6 @@ weapons/fr_as30_switzerland;"Flugzeug Lenkwaffe Luft-Boden 66 ""NORAS"" <color=#
 weapons/fr_as30_switzerland/short;Flz Lwf LB 66
 weapons/sws_flz_lwf_lb_82;"Flugzeug Lenkwaffe Luft-Boden 82 ""MAVERICK"" <color=#ff6f00>AGM-EO</color>"
 weapons/sws_flz_lwf_lb_82/short;Flz Lwf LB 82
-weapons/127mm_IRIS_T_user_cannon;IRIS-T SLM Startgerät
 weapons/jp_aam3;90 Shiki Sora Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
 weapons/jp_aam3/short;AAM-3
 weapons/jp_aam3_default;90 Shiki Sora Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
@@ -111,6 +114,8 @@ weapons/jp_asm2_missile/short;ASM-2
 weapons/80mm_Type_91_launcher_user_cannon;"93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi ""Kurōzudo Arō"" <color=#ff6f00>LCH</color>"
 weapons/160mm_sam_1c_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
 fb10_rocket;L/FB10A
+us_iris_t;lvrb 98
+weapons/127mm_IRIS_T_user_cannon;Diehl Defence ML-98
 
 //FUEL TANKS
 weapons/in_100gal_marut_drop_tank_l;Drop tank (100 gal)

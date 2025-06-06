@@ -164,6 +164,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Leviathans" additions:
         - **AIM-9N**
+        - **AIM-9X**
         - **AIM-120C-5**
         - **M61** (new file for existing thing)
         - **Flz Lwf LL 63/75**
@@ -174,24 +175,9 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Kan 76**
         - **Flz Kan 92**
         - **20 mm MG151 autocannon**
-        - **Sprgr. L/4.5** (new file for existing thing)
-        - **Sprgr. 18** (new file for existing thing)
-        - **PzGr** (new file for existing thing)
-        - **SprGr** (new file for existing thing)
-        - **M-Gesch.** (new file for existing thing)
-        - **Pzsprgr.** (new file for existing thing)
-        - **DM11A1** (new file for existing thing)
         - **SC1000L2** (another one)
-        - **IAI** (new file for existing thing)
-        - **API-T** (new file for existing thing)
-        - **AP-I** (new file for existing thing)
-        - **T** (new file for existing thing)
-        - **AP-I(c)** (new file for existing thing)
-        - **API** (new file for existing thing)
-        - **OR-281U** (new file for existing thing)
-        - **BR-281U** (new file for existing thing)
         - **OFAB-100**
-        - **I** (new file for existing thing)
+        - **OFAB-100MB**
         - **30 mm Denel GI-30 cannon**
         - **HERL 520 lb Mk.IN**
         - **1650 lb SNHE**
@@ -201,14 +187,37 @@ All dates are listed in DD-MM-YYYY format.
         - **ASM-2**
         - **DTC10-30**
         - **FB-10A**
+        - **Perforante mod.35**
         - **IRIS-T SL SAM**
         - **Oktogel** (explosive type)
         - **TG-50** (explosive type)
+        - A bunch of new entires for shit that already exists:
+            - **M594**
+            - **Sprgr. L/4.5**
+            - **Sprgr. 18**
+            - **PzGr**
+            - **SprGr**
+            - **M-Gesch.**
+            - **Pzsprgr.**
+            - **DM11A1**
+            - **IAI**
+            - **API-T**
+            - **AP-I**
+            - **T**
+            - **AP-I(c)**
+            - **API**
+            - **OR-281U**
+            - **BR-281U**
+            - **I**
+            - **30 mm APT**
+            - **30 mm HEI**
+            - **30 mm HE-TF**
 
 - #### Changes:
 
     - Update "Leviathans" changes:
         - **AIM-9N**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder**.
+        - **AIM-9X** → **AIM-9X-1**.
         - **AIM-120C-5**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM**.
         - **Flz Lwf LL 63/75**: Long name → **Flugzeug Lenkwaffe Luft-Luft 63/75 "SIWA"**.
         - **Flz Lwf LL 64/79**: Long name → **Flugzeug Lenkwaffe Luft-Luft 64/79 "FALCO"**.
@@ -236,6 +245,7 @@ All dates are listed in DD-MM-YYYY format.
         - **DM 23** (the new text for the existing belt) → **DM 23**.
         - **SC1000L2** → **S.C. 1000 L2**. Long name → **Sprengbombe Cylindrisch 1000 L2**.
         - **OFAB-100** → **OFAB-100-120**. Long name → **OFAB-100-120**.
+        - **OFAB-100MB** → **OFAB-100mB**. Long name → **OFAB-100mB**.
         - **OFAB-250-270**: Long name → **OFAB-250-270**.
         - **30 mm Denel GI-30 cannon** → **Denel Land Systems Linkless CamGun EMAK 30 | GI-30**.
         - **HERL 520 lb Mk.IN** → **H.E., R.L., 520-lb, Mk. I/N**. Long name → **Bomb, H.E., R.L., 520-lb, Mk. I/N**.
@@ -252,9 +262,10 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **L/DTC10 Shì 30 Háomi Chuānjiǎdàn**.
         - **FB-10A** → **L/FB10A**.
             - Full ammunition names package: Name → **L/FB10A Dì Duì Kōng Dǎodàn**.
+        - **Perforante mod.35** → **Cartoccio granata perforante da 20 mod. 35**.
+            - Full ammunition names package: Name → **Cartoccio granata perforante da 20 modello 1935**.
         - **Rbs 98** → **lvrb 98**.
             - Full ammunition names package: Name → **luftvärnsrobot 98**.
-        - **IRIS-T SL SAM** → **Diehl Defence ML-98**.
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
     - **10,5 cm kanon stridsvagn 101**: Caliber tag corrected from 84 mm to 105 mm.
     - **10,5 cm kanon stridsvagn 104**: Caliber tag corrected from 84 mm to 105 mm.
@@ -274,6 +285,7 @@ All dates are listed in DD-MM-YYYY format.
     - **93 Shiki Kinkyorichi Taikū Yūdōdan "Kurōzudo Arō"** → **93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi "Kurōzudo Arō"**.
         - Japanese package: Name → **93式近距離地対空誘導弾発射装置「クローズドアロー」**.
     - The type tag has been removed from the **SAM-1C** and **SAM-3** because it was in the short names by mistake
+    - **IRIS-T SL SAM** → **Diehl Defence ML-98**.
 
 - ### Sensors:
 

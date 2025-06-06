@@ -24,8 +24,19 @@ t_ball_t_38/name/short;T
 b_mk_1z/name;Mk.1Z Incendiary bullet
 b_mk_1z/name/short;I
 15mm_sprgr_notracer;1,5cm Sprgr.Patr.Üb.o.Zerl.
+20mm_m594;M594
 20mm_mgr;2cm M.Gesch.Patr.o.Zerl.
 20mm_pzsprgr;2cm Pzsprgr.Patr.L'spur.o.Zerl.
+20mm_shvak_api;API
+20mm_shvak_apit;API-T
+20mm_shvak_frag;FI
+20mm_shvak_frag_t;FI-T
+20mm_perforante_m35_belt;Cartoccio granata perforante da 20 mod. 35
+23mm_hei;HEI
+30mm_china_API;30 mm APT
+30mm_china_HE;30 mm HEI
+30mm_he_tf;30 mm HE-TF
+30mm_dtc10_30;L/DTC10-30
 35_228mm_he_i_t_belt;DM 11 A1
 35_228mm_apds_t_belt;DM 23
 37mm_sprgr_18_belt;3,7cm Sprgr.Patr. 18
@@ -34,7 +45,6 @@ b_mk_1z/name/short;I
 57mm_br_281u_belt;BR-281U
 75mm_m61_solid;M61 shot
 88mm_sprgr_dist_fuse;8,8cm Sprgr.Patr. L/4,5 (Kz)
-30mm_dtc10_30;L/DTC10-30
 105mm_ofl_g2;OFL 105 G2
 
 //BOMBS
@@ -46,6 +56,8 @@ weapons/su_ofab_100_120;OFAB-100-120 <color=#ff6f00>BMB</color>
 weapons/su_ofab_100_120/short;OFAB-100-120
 weapons/su_ofab100m;OFAB-100M <color=#ff6f00>BMB</color>
 weapons/su_ofab100m/short;OFAB-100M
+weapons/cz_ofab_100mb;OFAB-100mB <color=#ff6f00>BMB-HD</color>
+weapons/cz_ofab_100mb/short;OFAB-100mB
 weapons/su_ofab_250_270;OFAB-250-270 <color=#ff6f00>BMB</color>
 weapons/su_ofab_250_270/short;OFAB-250-270
 weapons/uk_230lbs;<color=@userlogColoredText>90.7 kg</color> Bomb, H.E., R.F.C., 230-lb, Mk. III <color=#ff6f00>BMB</color>
@@ -78,6 +90,7 @@ weapons/in_nasser_240/short;Naṣr 240
 //MISSILES
 weapons/us_aim9n_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9n_sidewinder/short;AIM-9N
+us_aim_9x;AIM-9X-1
 weapons/us_aim_120c_5;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM
 weapons/us_aim_120c_5/short;AIM-120C-5
 weapons/us_aim_120c_5_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM

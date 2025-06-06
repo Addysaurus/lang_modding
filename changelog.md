@@ -20,6 +20,8 @@ All dates are listed in DD-MM-YYYY format.
 
 ### General:
 
+- I would like to welcome ph41ate to the mod team! ph41te has joined to help on the newly leaked infantry weapons, particularly Soviet guns, and is extremely knowledgable and talented.
+
 - #### Changes:
 
     - Corrected typo in the loading tip for the Battle of Nijmegen.

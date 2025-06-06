@@ -17,11 +17,14 @@ weapons/20mm_mg151_20_mid_drilling_user_cannon;<color=@userlogColoredText>20 mm<
 weapons/20mm_mg151_20_out_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/cannonM61A2_switzerland;<color=@userlogColoredText>30 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
 weapons/cannonM61A2_switzerland/short;Flz Kan 92
-weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
-weapons/cannonDEFA552A_switzerland/short;Flz Kan 65
 weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug Kanone 76 <color=#ff6f00>ACNN</color>
 weapons/cannonFlzKan_76/short;Flz Kan 76
+weapons/cannonJM61A2;JM61A1
+weapons/cannonJM61A2/short;JM61A1
+weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
+weapons/cannonDEFA552A_switzerland/short;Flz Kan 65
 weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Denel Land Systems Linkless CamGun EMAK 30 | GI-30 <color=#ff6f00>ACNN</color>
+weapons/120mm_giat_cn120_26_f1_msc_user_cannon;<color=@userlogColoredText>120 mm</color> CN120-26/52 F1 <color=#ff6f00>CNN</color>
 
 //GUN AMMUNITION
 i_ball_mdz/name;Immediate-action incendiary bullet
@@ -45,7 +48,10 @@ b_mk_1z/name/short;I
 20mm_shvak_frag;FI
 20mm_shvak_frag_t;FI-T
 20mm_perforante_m35_belt;Cartoccio granata perforante da 20 mod. 35
+20mm_slpprj_m42;20 mm sk ptr m/42 slpprj m/42
 23mm_hei;HEI
+25mm_pgu_32;PGU-32/U
+30mm_mk320;MK320
 30mm_china_API;30 mm APT
 30mm_china_HE;30 mm HEI
 30mm_he_tf;30 mm HE-TF

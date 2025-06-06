@@ -176,6 +176,8 @@ All dates are listed in DD-MM-YYYY format.
         - **AIM-120C-5**
         - **M61A2**
         - **20 mm XM301 cannon**
+        - **PGU-32**
+        - **MK320**
         - **Flz Lwf LL 63/75**
         - **Flz Lwf LL 64/79**
         - **Flz Lwf LL 97 AMRAAM**
@@ -188,6 +190,7 @@ All dates are listed in DD-MM-YYYY format.
         - **OFAB-100**
         - **OFAB-100MB**
         - **30 mm Denel GI-30 cannon**
+        - **JM61A2**
         - **HERL 520 lb Mk.IN**
         - **1650 lb SNHE**
         - **AAM-3** (another one)
@@ -222,6 +225,7 @@ All dates are listed in DD-MM-YYYY format.
             - **30 mm APT**
             - **30 mm HEI**
             - **30 mm HE-TF**
+            - **slpprj m/42**
 
 - #### Changes:
 
@@ -235,11 +239,13 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Lwf LL 64/79**: Long name → **Flugzeug Lenkwaffe Luft-Luft 64/79 "FALCO"**.
         - **Flz Lwf LL 97 AMRAAM**: Long name → **Flugzeug Lenkwaffe Luft-Luft 97 "AMRAAM"**.
         - **Flz Lwf LL 97 AMRAAM 120C-5** → **Flz Lwf LL AMRAAM 120C-5**. Long name → **Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5**.
+        - **PGU-32** → **PGU-32/U**.
         - **Flz Lwf LB 66**: Long name → **Flugzeug Lenkwaffe Luft-Boden 66 "NORAS"**.
-        - **Flz Kan 65**: Long name → **30mm Flugzeug Kanone 65**.
         - **Flz Kan 76**: Long name → **20mm Flugzeug Kanone 76**.
+        - **Flz Kan 65**: Long name → **30mm Flugzeug Kanone 65**.
         - **Flz Kan 92**: Long name → **20mm Flugzeug Kanone 92**.
         - **20 mm MG151 autocannon** → **2cm Maschinengewehr 151 Ausf. S**.
+        - **JM61A2**: Long name → **JM61A2**.
         - **Sprgr. L/4.5** → **8,8cm Sprgr.Patr. L/4.5 (Kz)**.
             - Full ammunition names package: Name → **8,8cm Sprenggranate Patrone Ladung/4.5 (Kopfzunder)**.
         - **Sprgr. 18** → **3,7cm Sprgr.Patr. 18**.
@@ -280,6 +286,8 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **Cartoccio granata perforante da 20 modello 1935**.
         - **Rbs 98** → **lvrb 98**.
             - Full ammunition names package: Name → **luftvärnsrobot 98**.
+        - **slpprj m/42** → **20 mm sk ptr m/42 slpprj m/42**.
+            - Full ammunition names package: Name → **20 mm skarp patron m/42 spårljuspansarprojektil m/42**.
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
     - **10,5 cm kanon stridsvagn 101**: Caliber tag corrected from 84 mm to 105 mm.
     - **10,5 cm kanon stridsvagn 104**: Caliber tag corrected from 84 mm to 105 mm.

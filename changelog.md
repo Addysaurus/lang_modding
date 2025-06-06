@@ -60,6 +60,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Avenger (Overlord)**
         - **Crusader AA (Overlord)**
         - **Badger**
+        - **MTB-460**
         - **HMS Vanguard**
         - **F-2A**
         - **F-2A ADTW**
@@ -77,6 +78,7 @@ All dates are listed in DD-MM-YYYY format.
         - **NF-5A** (France / Netherlands)
         - **MSC**
         - **Leopard 2 LES** (France / Netherlands)
+        - **VTB-10**
         - **Richelieu**
         - **F/A-18C MLU 2** (Sweden / Finland)
         - **M24DK** (Sweden / Denmark)
@@ -115,6 +117,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Avenger (Overlord)** → **Avenger, Mk. I "Echoes of Overlord"**. Statcard name → **Birmingham Railway Carriage and Wagon Company | 17-pdr, Self-Propelled, A.30, Avenger, Mk. I "Echoes of Overlord"**.
         - **Crusader AA (Overlord)** → **Crusader, Mk. III, A.A., Mk. II "Echoes of Overlord"**. Statcard name → **Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II "Echoes of Overlord"**.
         - **Badger** → **Badger SV**. Statcard name → **Denel Land Systems | Badger Section Variant**.
+        - **MTB-460** → **HMS MTB 460**. Statcard name → **British Power Boat Co. | BPB 72 ft-class | HMS MTB 460**.
         - **HMS Vanguard** → **HMS Vanguard (23)**. Statcard name → **John Brown & Co. | Vanguard-class | HMS Vanguard (23)**.
         - **F-2A** → **F-2A-MIT (C10)**. Statcard name → **General Dynamics Corporation F-16 Agile Falcon / Mitsubishi Jū Kōgyō | F-2A-MIT (C10 Rotto)**.
             - Japanese package: Statcard name → **General Dynamics Corporation F-16 Agile Falcon / 三菱重工業 | F-2A-MIT (C10ロット)**.
@@ -138,6 +141,7 @@ All dates are listed in DD-MM-YYYY format.
         - **NF-5A** (France / Netherlands): Statcard name → **Canadair CL-226-1A10 | NF-5A Freedom Fighter**.
         - **MSC**: Statcard name → **GIAT Industries | Mulet Système Complet**.
         - **Leopard 2 LES** (France / Netherlands) → **Leopard 2A4 NL (OTCo)**. Statcard name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm (Nederlandse Opleidingscommando)**.
+        - **VTB-10** → **VTB 10**. Statcard name → **Ateliers et Chantiers de la Loire | Vedette Torpilleur VTB 10**.
         - **Richelieu**: Statcard name → **Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de Classe Richelieu | Richelieu (1943)**.
         - **F/A-18C MLU 2** (Sweden / Finland) → **HN (MLU 2)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Patria | HN "Hornet" (Mid-Life Upgrade 2)**.
         - **M24DK** (Sweden / Denmark) → **M24**. Statcard name → **Cadillac Motor Car Division | G-200 | Tank, Light, M24 Chaffee**.

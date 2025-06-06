@@ -55,6 +55,7 @@ All dates are listed in DD-MM-YYYY format.
         - **T-72B3M**
         - **Sevastopol**
         - **Sovetsky Soyuz**
+        - **Carrier** (it's the Admiral Kuznyeczov, but they call it this for some reason)
         - **Firefly (Overlord)**
         - **Avenger (Overlord)**
         - **Crusader AA (Overlord)**
@@ -100,6 +101,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F/A-18C Late** (Germany / Switzerland) → **F/A-18C (Upgrade 25)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A-18C Hornet (Upgrade 25)**.
         - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Klasse Scharnhorst | Gneisenau (1943)**.
         - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Klasse Bismarck | Bismarck**.
+        - **Carrier** (it's the Admiral Kuznyeczov) → **Admiral Flota Sovyetskogo Soûza Kuznyeczov**. Statcard name → **Tâžëlyj Avianyesuŝij Kryejsyer Proyekt 1143.5 Kryečyet | Admiral Flota Sovyetskogo Soûza Kuznyeczov**.
         - **L-39ZA Albatros** → **L-39ZA**. Statcard name → **Aero Vodochody | L-39ZA Albatros**.
         - **IS-1 ('45)** → **IS-1 "In May 1945"**. Statcard name → **Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g. "In May 1945"**.
         - **T-34-85 ('45)** → **T-34-85 (Sep, 1944) "In May 1945"**. Statcard name → **Ural'skij tankovyj zavod №183 | Ob"yekt 35 | T-34-85 obr. 1944 g. (September, 1944) "In May 1945"**.

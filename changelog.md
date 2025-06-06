@@ -133,7 +133,7 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Short name → **大和**. Statcard name → **呉海軍工廠 | 大和型戦艦 (A-140F6) | 大和 (1945)**.
         - **CS/SA5** → **CS/SA5 (2022)**. Statcard name → **Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Háng Gāo Pào (2022)**.
         - **Z-10ME** → **Z10ME-02**. Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10ME-02 Xíng Wǔzhuāng Zhíshēngjī**.
-        - **Z-10A** → **L/Z10 (2018)**. Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | L/Z10 Xíng Wǔzhuāng Zhíshēngjī (2018)**.
+        - **Z-10A** → **L/Z10 (2018)**. Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | L/Z10 Xíng Wǔzhuāng Zhíshēngjī (2018)**. The "L/" is because of the current Chinese rework in development. That is going to be applied to more stuff later but this is new and I am going to get it right now.
         - **MiG-29 Sniper**: Statcard name → **Mikoấn i Guryévič / Aerostar + Elbit Systems | MiG-29 Sniper**.
         - **Leopard 1A2** (Italy) → **Leopard 1 A2**. Statcard name → **Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A2**.
         - **RN Roma** → **Roma**. Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma (1943)**.
@@ -196,9 +196,10 @@ All dates are listed in DD-MM-YYYY format.
         - **OFAB-100**
         - **OFAB-100MB**
         - **30 mm Denel GI-30 cannon**
-        - **JM61A2**
         - **HERL 520 lb Mk.IN**
         - **1650 lb SNHE**
+        - **JM61A2**
+        - **25 mm HET**
         - **AAM-3** (another one)
         - **AAM-4** (another one)
         - **ASM-1**

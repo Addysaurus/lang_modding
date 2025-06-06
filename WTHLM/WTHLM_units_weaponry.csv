@@ -1,5 +1,18 @@
 <ID|readonly|noverify>;<English>
 //GUNS
+weapons/cannonM61;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61 Vulcan <color=#ff6f00>RCNN</color>
+weapons/cannonM61/short;M61
+weapons/cannonM61A1;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 Vulcan <color=#ff6f00>RCNN</color>
+weapons/cannonM61A1/short;M61A1
+weapons/cannonM61A1_default;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 Vulcan <color=#ff6f00>RCNN</color>
+weapons/cannonM61A1_default/short;M61A1
+weapons/cannonM61A1_pgu_28;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 Vulcan <color=#ff6f00>RCNN</color>
+weapons/cannonM61A1_pgu_28/short;M61A1
+weapons/cannonM61A1_pgu_28_f15;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 Vulcan <color=#ff6f00>RCNN</color>
+weapons/cannonM61A1_pgu_28_f15/short;M61A1
+weapons/cannonM61A2;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A2 Vulcan <color=#ff6f00>RCNN</color>
+weapons/cannonM61A2/short;M61A2
+weapons/cannonXM301l;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, XM301 <color=#ff6f00>RCNN</color>
 weapons/20mm_mg151_20_mid_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/20mm_mg151_20_out_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/cannonM61A2_switzerland;<color=@userlogColoredText>30 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
@@ -129,9 +142,10 @@ weapons/jp_asm2_missile;93 Shiki Sora Taikan Yūdōdan | ASM-2
 weapons/jp_asm2_missile/short;ASM-2
 weapons/80mm_Type_91_launcher_user_cannon;"93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi ""Kurōzudo Arō"" <color=#ff6f00>LCH</color>"
 weapons/160mm_sam_1c_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
-fb10_rocket;L/FB10A
+fb10_rocket;L/FB10
+fb10a_rocket;L/FB10A
 us_iris_t;lvrb 98
-weapons/127mm_IRIS_T_user_cannon;Diehl Defence ML-98 <color=#ff6f00>LCH</color>
+weapons/127mm_IRIS_T_user_cannon;Diehl Defence ML-98 | luftvärnsrobotsystem 98 <color=#ff6f00>LCH</color>
 
 //FUEL TANKS
 weapons/in_100gal_marut_drop_tank_l;Drop tank (100 gal)
@@ -3536,16 +3550,6 @@ weapons/cannonOerliconKAD_B;20 mm Oerlikon KAD-B cannon
 weapons/cannonOerliconKAD_B/short;Oerlikon KAD-B
 weapons/cannonJM61A1;<color=@userlogColoredText>20 mm</color> JM61A1 <color=#ff6f00>RCNN</color>
 weapons/cannonJM61A1_pgu_28;<color=@userlogColoredText>20 mm</color> JM61A1 <color=#ff6f00>RCNN</color>
-weapons/cannonM61;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61 <color=#ff6f00>RCNN</color>
-weapons/cannonM61/short;M61
-weapons/cannonM61A1;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 <color=#ff6f00>RCNN</color>
-weapons/cannonM61A1/short;M61A1
-weapons/cannonM61A1_default;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 <color=#ff6f00>RCNN</color>
-weapons/cannonM61A1_default/short;M61A1
-weapons/cannonM61A1_pgu_28;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 <color=#ff6f00>RCNN</color>
-weapons/cannonM61A1_pgu_28/short;M61A1
-weapons/cannonM61A1_pgu_28_f15;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 <color=#ff6f00>RCNN</color>
-weapons/cannonM61A1_pgu_28_f15/short;M61A1
 weapons/cannonGAU4;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, GAU-4/A <color=#ff6f00>RCNN</color>
 weapons/cannonGAU4/short;GAU-4/A
 weapons/cannonJGAU4;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, GAU-4/A <color=#ff6f00>RCNN</color>

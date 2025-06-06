@@ -68,6 +68,8 @@ All dates are listed in DD-MM-YYYY format.
         - **IJN Yukikaze**
         - **Yamato**
         - **CS/SA5**
+        - **Z-10ME**
+        - **Z-10A**
         - **MiG-29 Sniper**
         - **Leopard 1A2**
         - **RN Roma**
@@ -101,7 +103,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F/A-18C Late** (Germany / Switzerland) → **F/A-18C (Upgrade 25)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A-18C Hornet (Upgrade 25)**.
         - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Klasse Scharnhorst | Gneisenau (1943)**.
         - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Klasse Bismarck | Bismarck**.
-        - **Carrier** (it's the Admiral Kuznyeczov) → **Admiral Flota Sovyetskogo Soûza Kuznyeczov**. Statcard name → **Tâžëlyj Avianyesuŝij Kryejsyer Proyekt 1143.5 Kryečyet | Admiral Flota Sovyetskogo Soûza Kuznyeczov**.
+        - **Carrier** (it's the Admiral Kuznyeczov) → **Admiral Flota Sovyetskogo Soûza Kuznyeczov**. Statcard name → **Čyernomorskij sudostroityel'nyj zavod | Tâžëlyj Avianyesuŝij Kryejsyer Proyekt 1143.5 Kryečyet | Admiral Flota Sovyetskogo Soûza Kuznyeczov**.
         - **L-39ZA Albatros** → **L-39ZA**. Statcard name → **Aero Vodochody | L-39ZA Albatros**.
         - **IS-1 ('45)** → **IS-1 "In May 1945"**. Statcard name → **Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g. "In May 1945"**.
         - **T-34-85 ('45)** → **T-34-85 (Sep, 1944) "In May 1945"**. Statcard name → **Ural'skij tankovyj zavod №183 | Ob"yekt 35 | T-34-85 obr. 1944 g. (September, 1944) "In May 1945"**.
@@ -127,6 +129,8 @@ All dates are listed in DD-MM-YYYY format.
         - **IJN Yamato** → **Yamato**. Statcard name → **Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Yamato (1945)**.
             - Japanese package: Short name → **大和**. Statcard name → **呉海軍工廠 | 大和型戦艦 (A-140F6) | 大和 (1945)**.
         - **CS/SA5** → **CS/SA5 (2022)**. Statcard name → **Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Háng Gāo Pào (2022)**.
+        - **Z-10ME** → **Z10ME-02**. Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10ME-02 Xíng Wǔzhuāng Zhíshēngjī**.
+        - **Z-10A** → **L/Z10 (2018)**. Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | L/Z10 Xíng Wǔzhuāng Zhíshēngjī (2018)**.
         - **MiG-29 Sniper**: Statcard name → **Mikoấn i Guryévič / Aerostar + Elbit Systems | MiG-29 Sniper**.
         - **Leopard 1A2** (Italy) → **Leopard 1 A2**. Statcard name → **Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A2**.
         - **RN Roma** → **Roma**. Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma (1943)**.
@@ -170,7 +174,8 @@ All dates are listed in DD-MM-YYYY format.
         - **AIM-9N**
         - **AIM-9X**
         - **AIM-120C-5**
-        - **M61** (new file for existing thing)
+        - **M61A2**
+        - **20 mm XM301 cannon**
         - **Flz Lwf LL 63/75**
         - **Flz Lwf LL 64/79**
         - **Flz Lwf LL 97 AMRAAM**
@@ -192,10 +197,11 @@ All dates are listed in DD-MM-YYYY format.
         - **DTC10-30**
         - **FB-10A**
         - **Perforante mod.35**
-        - **IRIS-T SL SAM**
+        - **Rbs98 SAM**
         - **Oktogel** (explosive type)
         - **TG-50** (explosive type)
         - A bunch of new entires for shit that already exists:
+            - **M61 shot**
             - **M594**
             - **Sprgr. L/4.5**
             - **Sprgr. 18**
@@ -223,6 +229,8 @@ All dates are listed in DD-MM-YYYY format.
         - **AIM-9N**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder**.
         - **AIM-9X** → **AIM-9X-1**.
         - **AIM-120C-5**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM**.
+        - **M61A2**: Long name → **Cannon, 20mm, M61A2**.
+        - **20mm XM301 cannon** → **Cannon, 20mm, XM301**.
         - **Flz Lwf LL 63/75**: Long name → **Flugzeug Lenkwaffe Luft-Luft 63/75 "SIWA"**.
         - **Flz Lwf LL 64/79**: Long name → **Flugzeug Lenkwaffe Luft-Luft 64/79 "FALCO"**.
         - **Flz Lwf LL 97 AMRAAM**: Long name → **Flugzeug Lenkwaffe Luft-Luft 97 "AMRAAM"**.
@@ -264,6 +272,8 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Long name → **93式空対艦誘導弾 | ASM-2**.
         - **DTC10-30** → **L/DTC10-30**.
             - Full ammunition names package: Name → **L/DTC10 Shì 30 Háomi Chuānjiǎdàn**.
+        - **FB-10** → **L/FB10**.
+            - Full ammunition names package: Name → **L/FB10 Dì Duì Kōng Dǎodàn**.
         - **FB-10A** → **L/FB10A**.
             - Full ammunition names package: Name → **L/FB10A Dì Duì Kōng Dǎodàn**.
         - **Perforante mod.35** → **Cartoccio granata perforante da 20 mod. 35**.
@@ -289,7 +299,9 @@ All dates are listed in DD-MM-YYYY format.
     - **93 Shiki Kinkyorichi Taikū Yūdōdan "Kurōzudo Arō"** → **93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi "Kurōzudo Arō"**.
         - Japanese package: Name → **93式近距離地対空誘導弾発射装置「クローズドアロー」**.
     - The type tag has been removed from the **SAM-1C** and **SAM-3** because it was in the short names by mistake
-    - **IRIS-T SL SAM** → **Diehl Defence ML-98**.
+    - **Rbs98 SAM** → **Diehl Defence ML-98 | luftvärnsrobotsystem 98**.
+    - **M61**: Long name → **Cannon, 20mm, M61 Vulcan**
+    - **M61A1**: Long name → **Cannon, 20mm, M61A1 Vulcan**
 
 - ### Sensors:
 

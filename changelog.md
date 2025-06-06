@@ -186,6 +186,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Kan 76**
         - **Flz Kan 92**
         - **20 mm MG151 autocannon**
+        - **IRIS-T SLM SAM**
+        - **IRIS-T SL**
         - **SC1000L2** (another one)
         - **OFAB-100**
         - **OFAB-100MB**
@@ -245,6 +247,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Kan 65**: Long name → **30mm Flugzeug Kanone 65**.
         - **Flz Kan 92**: Long name → **20mm Flugzeug Kanone 92**.
         - **20 mm MG151 autocannon** → **2cm Maschinengewehr 151 Ausf. S**.
+        - **IRIS-T SLM SAM** → **IRIS-T SLM Startgerät**.
+        - **IRIS-T SL** → **IRIS-T SLM**.
         - **JM61A2**: Long name → **JM61A2**.
         - **Sprgr. L/4.5** → **8,8cm Sprgr.Patr. L/4.5 (Kz)**.
             - Full ammunition names package: Name → **8,8cm Sprenggranate Patrone Ladung/4.5 (Kopfzunder)**.

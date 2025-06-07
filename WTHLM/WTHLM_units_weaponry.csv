@@ -25,6 +25,7 @@ weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm
 weapons/cannonDEFA552A_switzerland/short;Flz Kan 65
 weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Denel Land Systems Linkless CamGun EMAK 30 | GI-30 <color=#ff6f00>ACNN</color>
 weapons/120mm_giat_cn120_26_f1_msc_user_cannon;<color=@userlogColoredText>120 mm</color> CN120-26/52 F1 <color=#ff6f00>CNN</color>
+weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredText>133 mm</color> Gun, Q.F., 5.25-inch, Mk. I <color=#ff6f00>CNN</color>
 
 //GUN AMMUNITION
 i_ball_mdz/name;Immediate-action incendiary bullet
@@ -64,8 +65,12 @@ b_mk_1z/name/short;I
 57mm_or_281u_belt;OR-281U
 57mm_br_281u_belt;BR-281U
 75mm_m61_solid;M61 shot
+76mm_obr1915_hetf;obr. 1915 g.
 88mm_sprgr_dist_fuse;8,8cm Sprgr.Patr. L/4,5 (Kz)
+102mm_33_he;4 inch HE
 105mm_ofl_g2;OFL 105 G2
+152mm_45_he_dist_fuse;6 inch HE
+155mm_60_type0_he_dist_fuse;155 mm Type 0 HE
 
 //BOMBS
 weapons/de_sc1000;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>

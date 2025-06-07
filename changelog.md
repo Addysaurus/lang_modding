@@ -195,11 +195,16 @@ All dates are listed in DD-MM-YYYY format.
         - **SC1000L2** (another one)
         - **OFAB-100**
         - **OFAB-100MB**
+        - **76 mm HE-TF**
         - **30 mm Denel GI-30 cannon**
+        - **5.25 inch/50 QF Mark I cannon**
         - **HERL 520 lb Mk.IN**
         - **1650 lb SNHE**
+        - **4 inch HE**
+        - **6 inch HE**
         - **JM61A2**
         - **25 mm HET**
+        - **155 mm Type 0 HE**
         - **AAM-3** (another one)
         - **AAM-4** (another one)
         - **ASM-1**
@@ -274,7 +279,9 @@ All dates are listed in DD-MM-YYYY format.
         - **OFAB-100** → **OFAB-100-120**. Long name → **OFAB-100-120**.
         - **OFAB-100MB** → **OFAB-100mB**. Long name → **OFAB-100mB**.
         - **OFAB-250-270**: Long name → **OFAB-250-270**.
+        - **76 mm HE-TF** → **obr. 1915 g.**.
         - **30 mm Denel GI-30 cannon** → **Denel Land Systems Linkless CamGun EMAK 30 | GI-30**.
+        - **5.25 inch/50 QF Mark I cannon** → **Gun, Q.F., 5.25-inch, Mk. I**.
         - **HERL 520 lb Mk.IN** → **H.E., R.L., 520-lb, Mk. I/N**. Long name → **Bomb, H.E., R.L., 520-lb, Mk. I/N**.
         - **1650 lb SNHE** → **H.E., S.N., 1650-lb**. Long name → **Bomb, H.E., S.N., 1650-lb**.
         - **AAM-3**: Long name → **90 Shiki Sora Taikū Yūdōdan | AAM-3**.

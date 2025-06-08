@@ -254,6 +254,7 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Leviathans" changes:
         - **AIM-9N**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder**.
         - **AIM-9X** → **AIM-9X-1**.
+            - Full ammunition names package: Name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder**.
         - **AIM-120C-5**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM**.
         - **M61A2**: Long name → **Cannon, 20mm, M61A2**.
         - **20mm XM301 cannon** → **Cannon, 20mm, XM301**.

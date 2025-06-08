@@ -206,6 +206,7 @@ All dates are listed in DD-MM-YYYY format.
         - **4 inch HE**
         - **6 inch HE**
         - **JM61A2**
+        - **460 mm/45 Type 94 gun**
         - **25 mm HET**
         - **155 mm Type 0 HE**
         - **AAM-3** (another one)
@@ -270,7 +271,6 @@ All dates are listed in DD-MM-YYYY format.
         - **20 mm MG151 autocannon** → **2cm Maschinengewehr 151 Ausf. S**.
         - **IRIS-T SLM SAM** → **IRIS-T SLM Startgerät**.
         - **IRIS-T SL** → **IRIS-T SLM**.
-        - **JM61A2**: Long name → **JM61A2**.
         - **Sprgr. L/4.5** → **8,8cm Sprgr.Patr. L/4.5 (Kz)**.
             - Full ammunition names package: Name → **8,8cm Sprenggranate Patrone Ladung/4.5 (Kopfzunder)**.
         - **Sprgr. 18** → **3,7cm Sprgr.Patr. 18**.
@@ -297,6 +297,9 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb**.
         - **HERL 520 lb Mk.IN** → **H.E., R.L., 520-lb, Mk. I/N**. Long name → **Bomb, H.E., R.L., 520-lb, Mk. I/N**.
         - **1650 lb SNHE** → **H.E., S.N., 1650-lb**. Long name → **Bomb, H.E., S.N., 1650-lb**.
+        - **JM61A2**: Long name → **JM61A2**.
+        - **460 mm/45 Type 94 gun** → **45 Kōkei 94 Shiki 40 Senchimētoru Hō**. Long name → **45 Kōkei 94 Shiki 40 Senchimētoru Hō**. And yes, it being listed as 40 cm and not 46 cm is intentional.
+            - Japanese package: Name & long name → **45口径94式40糎砲**.
         - **AAM-3**: Long name → **90 Shiki Sora Taikū Yūdōdan | AAM-3**.
             - Japanese package: Long name → **90式空対空誘導弾 | AAM-3**.
         - **AAM-4**: Long name → **99 Shiki Sora Taikū Yūdōdan | AAM-4**.

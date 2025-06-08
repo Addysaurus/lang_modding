@@ -319,6 +319,8 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **Cartoccio palla perforante da 381/50**.
         - **100 mm/45 model 1930** → **Canon de 100 mm/45 Mle. 1930**. Long name → **Canon de 100 mm/45 modèle 1930**
         - **380 mm/45 model 1935** → **Canon de 380 mm/45 Mle. 1935**. Long name → **Canon de 380 mm/45 modèle 1935**
+        - **100 mm OEA Mle 1928 HE-TF** → **100 mm OEA Mle. 1928**.
+            - Full ammunition names package: Name → **100 mm Obus Explosif en Acier modèle 1928**.
         - **152 mm OEA Mle 1936 HE-TF** → **152 mm OEA Mle. 1936**.
             - Full ammunition names package: Name → **152 mm Obus Explosif en Acier modèle 1936**.
         - **203 mm OPF Mle 1936 APCBC** → **203 mm OPf(K) RC Mle. 1936**.

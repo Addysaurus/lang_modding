@@ -38,7 +38,7 @@ weapons/cannonJM61A2/short;JM61A1
 weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredText>381 mm</color> Cannone Ansaldo-O.T.O. da 381/50 modello 1939 <color=#ff6f00>CNN</color>
 
 //FRANCE GUNS
-weapons/100mm_45_mle_1930_naval_user_cannon;Canon de 100 mm/45 modèle 1930
+weapons/100mm_45_mle_1930_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1930 <color=#ff6f00>CNN</color>
 weapons/100mm_45_mle_1930_naval_user_cannon/short;Canon de 100 mm/45 Mle. 1930
 weapons/120mm_giat_cn120_26_f1_msc_user_cannon;<color=@userlogColoredText>120 mm</color> CN120-26/52 F1 <color=#ff6f00>CNN</color>
 weapons/380mm_45_mle_1935_naval_user_cannon;<color=@userlogColoredText>380 mm</color> Canon de 380 mm/45 modèle 1935 <color=#ff6f00>CNN</color>
@@ -111,6 +111,7 @@ b_mk_1z/name/short;I
 381mm_50_apcbc;Palla perforante da 381/50
 
 //FRANCE AMMUNITION
+100mm_oea1928_he_df;100 mm OEA Mle. 1928
 105mm_ofl_g2;OFL 105 G2
 152mm_m1936_he_df;152 mm OEA Mle. 1936
 203mm_opf_mle1936_apcbc;203 mm OPf(K) RC Mle. 1936

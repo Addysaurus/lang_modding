@@ -144,7 +144,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Leopard 2 LES** (France / Netherlands) → **Leopard 2A4 NL (OTCo)**. Statcard name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm (Nederlandse Opleidingscommando)**.
         - **VTB-10** → **VTB 10**. Statcard name → **Ateliers et Chantiers de la Loire | Vedette Torpilleur VTB 10**.
         - **Richelieu**: Statcard name → **Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de Classe Richelieu | Richelieu (1943)**.
-        - **Saab F-35** (Sweden / Denmark) → **F-35 (WDNS)**. Statcard name → **Saab 35 | F-35 Draken (Weapon Delivery and Navigation System)**.
+        - **Saab F-35** (Sweden / Denmark) → **F-35 (WDNS)**. Statcard name → **Saab 35 XD | F-35 Draken (Weapon Delivery and Navigation System)**.
         - **F/A-18C MLU 2** (Sweden / Finland) → **HN (MLU 2)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Patria | HN "Hornet" (Mid-Life Upgrade 2)**.
         - **M24DK** (Sweden / Denmark) → **M24**. Statcard name → **Cadillac Motor Car Division | G-200 | Tank, Light, M24 Chaffee**.
         - **EldE 98** → **elde 98 (Giraffe 1X)**. Statcard name → **BAE Systems Hägglunds | eldenhet 98 (Giraffe 1X)**.

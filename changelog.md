@@ -200,6 +200,7 @@ All dates are listed in DD-MM-YYYY format.
         - **76 mm HE-TF**
         - **30 mm Denel GI-30 cannon**
         - **5.25 inch/50 QF Mark I cannon**
+        - **381 mm Mk.XXIIb SC APC**
         - **HERL 520 lb Mk.IN**
         - **1650 lb SNHE**
         - **4 inch HE**
@@ -213,7 +214,9 @@ All dates are listed in DD-MM-YYYY format.
         - **ASM-2**
         - **DTC10-30**
         - **FB-10A**
+        - **381 mm/50 Ansaldo-OTO cannon, mod.1934**
         - **Perforante mod.35**
+        - **381 mm Granata Perforante**
         - **Rbs98 SAM**
         - **Oktogel** (explosive type)
         - **TG-50** (explosive type)
@@ -284,6 +287,8 @@ All dates are listed in DD-MM-YYYY format.
         - **76 mm HE-TF** → **obr. 1915 g.**.
         - **30 mm Denel GI-30 cannon** → **Denel Land Systems Linkless CamGun EMAK 30 | GI-30**.
         - **5.25 inch/50 QF Mark I cannon** → **Gun, Q.F., 5.25-inch, Mk. I**.
+        - **381 mm Mk.XXIIb SC APC** → **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb**.
+            - Full ammunition names package: Name → **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb**.
         - **HERL 520 lb Mk.IN** → **H.E., R.L., 520-lb, Mk. I/N**. Long name → **Bomb, H.E., R.L., 520-lb, Mk. I/N**.
         - **1650 lb SNHE** → **H.E., S.N., 1650-lb**. Long name → **Bomb, H.E., S.N., 1650-lb**.
         - **AAM-3**: Long name → **90 Shiki Sora Taikū Yūdōdan | AAM-3**.
@@ -300,8 +305,15 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **L/FB10 Dì Duì Kōng Dǎodàn**.
         - **FB-10A** → **L/FB10A**.
             - Full ammunition names package: Name → **L/FB10A Dì Duì Kōng Dǎodàn**.
-        - **Perforante mod.35** → **Cartoccio granata perforante da 20 mod. 35**.
+        - **381 mm/50 Ansaldo-OTO cannon, mod.1934** → **Cannone Ansaldo-O.T.O. da 381/50 modello 1939**.
+        - **Perforante mod.35** → **Granata perforante da 20 mod. 35**.
             - Full ammunition names package: Name → **Cartoccio granata perforante da 20 modello 1935**.
+        - **381 mm Granata Perforante** → **Granata perforante da 381/50**.
+            - Full ammunition names package: Name → **Cartoccio granata perforante da 381/50**.
+        - **381 mm Palla APCBC** → **Palla perforante da 381/50**.
+            - Full ammunition names package: Name → **Cartoccio palla perforante da 381/50**.
+        - **203 mm OPF Mle 1936 APCBC** → **203 mm OPf(K) RC Mle. 1936**.
+            - Full ammunition names package: Name → **203 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936**.
         - **Rbs 98** → **lvrb 98**.
             - Full ammunition names package: Name → **luftvärnsrobot 98**.
         - **slpprj m/42** → **20 mm sk ptr m/42 slpprj m/42**.
@@ -328,6 +340,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Rbs98 SAM** → **Diehl Defence ML-98 | luftvärnsrobotsystem 98**.
     - **M61**: Long name → **Cannon, 20mm, M61 Vulcan**
     - **M61A1**: Long name → **Cannon, 20mm, M61A1 Vulcan**
+    - **Shell, A.P., Mk. V** → **A.P., Mk. V**. The Full Ammunition Names package name has remained the same.
+    - **Shell, H.E.T., Mk. I** → **H.E.T., Mk. I**. The Full Ammunition Names package name has remained the same.
 
 - ### Sensors:
 

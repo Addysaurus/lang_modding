@@ -217,6 +217,11 @@ All dates are listed in DD-MM-YYYY format.
         - **381 mm/50 Ansaldo-OTO cannon, mod.1934**
         - **Perforante mod.35**
         - **381 mm Granata Perforante**
+        - **380 mm/45 model 1935**
+        - **203 mm OPF Mle 1936 APCBC**
+        - **380 mm OEA Mle 1949 HE**
+        - **380 mm OPF Mle 1936 APCBC**
+        - **380 mm OPF Mle 1943 APCBC**
         - **Rbs98 SAM**
         - **Oktogel** (explosive type)
         - **TG-50** (explosive type)
@@ -312,8 +317,17 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **Cartoccio granata perforante da 381/50**.
         - **381 mm Palla APCBC** → **Palla perforante da 381/50**.
             - Full ammunition names package: Name → **Cartoccio palla perforante da 381/50**.
+        - **380 mm/45 model 1935** → **Canon de 380 mm/45 Mle. 1935**. Long name → **Canon de 380 mm/45 modèle 1935**
+        - **152 mm OEA Mle 1936 HE-TF** → **152 mm OEA Mle. 1936**.
+            - Full ammunition names package: Name → **152 mm Obus Explosif en Acier modèle 1936**.
         - **203 mm OPF Mle 1936 APCBC** → **203 mm OPf(K) RC Mle. 1936**.
             - Full ammunition names package: Name → **203 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936**.
+        - **380 mm OEA Mle 1949 HE** → **380 mm OEA Mle. 1949**.
+            - Full ammunition names package: Name → **380 mm Obus Explosif en Acier modèle 1949**.
+        - **380 mm OPF Mle 1936 APCBC** → **380 mm OPf(K) RC Mle. 1936**.
+            - Full ammunition names package: Name → **380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936**.
+        - **380 mm OPF Mle 1943 APCBC** → **380 mm OPf(K) RC Mle. 1943**.
+            - Full ammunition names package: Name → **380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1943**.
         - **Rbs 98** → **lvrb 98**.
             - Full ammunition names package: Name → **luftvärnsrobot 98**.
         - **slpprj m/42** → **20 mm sk ptr m/42 slpprj m/42**.

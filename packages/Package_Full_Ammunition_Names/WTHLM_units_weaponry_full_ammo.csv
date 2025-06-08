@@ -1,12 +1,12 @@
 <ID|readonly|noverify>;<English>
-//BRITISH GUNS
+//UK GUNS
 57mm_qf_ap;"Cartridge, Q.F., 6-pr., Cordite M.D., Steel Shell, Mk. XIV (Shell, Q.F.,
 A.P., 6-pr. 6-cwt., Mk. V)"
 57mm_qf_he;"Cartridge, Q.F., 6-pr., Cordite M.D., Common Shell, Mk. III (Shell,
 Q.F., H.E.T., 6-pr. 6-cwt., Mk. I)"
 381mm_mark_22b_6crh_apc;Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb
 
-//GERMAN GUNS
+//GERMANY GUNS
 15mm_sprgr_notracer;1,5cm Sprenggranate Patrone Übungs ohne Zerleger
 20mm_mgr;2cm Minengeschoß Patrone ohne Zerleger
 20mm_pzsprgr;2cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger
@@ -18,21 +18,25 @@ Q.F., H.E.T., 6-pr. 6-cwt., Mk. I)"
 57mm_gr;5,7cm Granate
 88mm_sprgr_dist_fuse;8,8cm Sprenggranate Patrone Ladung/4.5 (Kopfzunder)
 
-//CHINESE GUNS
+//CHINA GUNS
 30mm_dtc10_30;L/DTC10 Shì 30 Háomi Chuānjiǎdàn
 
-//CHINESE MISSILES
+//CHINA MISSILES
 fb10_rocket;L/FB10 Dì Duì Kōng Dǎodàn
 fb10a_rocket;L/FB10A Dì Duì Kōng Dǎodàn
 
-//ITALIAN GUNS
+//ITALY GUNS
 20mm_perforante_m35_belt;Cartoccio granata perforante da 20 modello 1935
 381mm_50_sapcbc;Cartoccio granata perforante da 381/50
 381mm_50_apcbc;Cartoccio palla perforante da 381/50
 
-//FRENCH GUNS
+//FRANCE GUNS
 37mm_oea1935_he;37 mm Obus Explosif en Acier modèle 1935
+152mm_m1936_he_df;152 mm Obus Explosif en Acier modèle 1936
 203mm_opf_mle1936_apcbc;203 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936
+380mm_oea_mle1949_he;380 mm Obus Explosif en Acier modèle 1949
+380mm_opf_mle1936_apcbc;380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936
+380mm_opf_mle1943_apcbc;380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1943
 
-//SWEDISH MISSILES
+//SWEDEN MISSILES
 us_iris_t;luftvärnsrobot 98

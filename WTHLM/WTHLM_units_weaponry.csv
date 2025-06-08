@@ -1,5 +1,5 @@
 <ID|readonly|noverify>;<English>
-//GUNS
+//USA GUNS
 weapons/cannonM61;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61 Vulcan <color=#ff6f00>RCNN</color>
 weapons/cannonM61/short;M61
 weapons/cannonM61A1;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 Vulcan <color=#ff6f00>RCNN</color>
@@ -13,22 +13,60 @@ weapons/cannonM61A1_pgu_28_f15/short;M61A1
 weapons/cannonM61A2;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A2 Vulcan <color=#ff6f00>RCNN</color>
 weapons/cannonM61A2/short;M61A2
 weapons/cannonXM301l;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, XM301 <color=#ff6f00>RCNN</color>
+
+//GERMANY GUNS
 weapons/20mm_mg151_20_mid_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/20mm_mg151_20_out_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/cannonM61A2_switzerland;<color=@userlogColoredText>30 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
 weapons/cannonM61A2_switzerland/short;Flz Kan 92
 weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug Kanone 76 <color=#ff6f00>ACNN</color>
 weapons/cannonFlzKan_76/short;Flz Kan 76
-weapons/cannonJM61A2;JM61A1
-weapons/cannonJM61A2/short;JM61A1
 weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
 weapons/cannonDEFA552A_switzerland/short;Flz Kan 65
+
+//USSR GUNS
+
+//UK GUNS
 weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Denel Land Systems Linkless CamGun EMAK 30 | GI-30 <color=#ff6f00>ACNN</color>
-weapons/120mm_giat_cn120_26_f1_msc_user_cannon;<color=@userlogColoredText>120 mm</color> CN120-26/52 F1 <color=#ff6f00>CNN</color>
 weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredText>133 mm</color> Gun, Q.F., 5.25-inch, Mk. I <color=#ff6f00>CNN</color>
+
+//JAPAN GUNS
+weapons/cannonJM61A2;JM61A1
+weapons/cannonJM61A2/short;JM61A1
+
+//ITALY
 weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredText>381 mm</color> Cannone Ansaldo-O.T.O. da 381/50 modello 1939 <color=#ff6f00>CNN</color>
 
-//GUN AMMUNITION
+//FRANCE GUNS
+weapons/120mm_giat_cn120_26_f1_msc_user_cannon;<color=@userlogColoredText>120 mm</color> CN120-26/52 F1 <color=#ff6f00>CNN</color>
+weapons/380mm_45_mle_1935_naval_user_cannon;<color=@userlogColoredText>380 mm</color> Canon de 380 mm/45 modèle 1935 <color=#ff6f00>CNN</color>
+weapons/380mm_45_mle_1935_naval_user_cannon/short;Canon de 380 mm/45 Mle. 1935
+
+//SWEDEN GUNS
+
+//ISRAEL GUNS
+
+//UNCATEGORIZED GUNS
+
+//USA AMMUNITION
+20mm_m594;M594
+25mm_pgu_32;PGU-32/U
+25mm_hedp;25 mm HEDP
+25mm_type96_he_t;25 mm HET
+30mm_mk320;MK320
+75mm_m61_solid;M61 shot
+
+//GERMANY AMMUNITION
+15mm_sprgr_notracer;1,5cm Sprgr.Patr.Üb.o.Zerl.
+20mm_mgr;2cm M.Gesch.Patr.o.Zerl.
+20mm_pzsprgr;2cm Pzsprgr.Patr.L'spur.o.Zerl.
+35_228mm_he_i_t_belt;DM 11 A1
+35_228mm_apds_t_belt;DM 23
+37mm_sprgr_18_belt;3,7cm Sprgr.Patr. 18
+37mm_pzgr_belt;3,7cm Pzgr.Patr. 18
+88mm_sprgr_dist_fuse;8,8cm Sprgr.Patr. L/4,5 (Kz)
+
+//USSR AMMUNITION
 i_ball_mdz/name;Immediate-action incendiary bullet
 i_ball_mdz/name/short;IAI
 ap_i_t_ball_bzt_44/name;BZT-44 Armor-piercing incendiary tracer bullet
@@ -39,52 +77,62 @@ t_ball_t_38/name;T-38 Tracer bullet
 t_ball_t_38/name/short;T
 14mm_api_c;AP-I(c)
 14mm_api;API
-b_mk_1z/name;Mk.1Z Incendiary bullet
-b_mk_1z/name/short;I
-15mm_sprgr_notracer;1,5cm Sprgr.Patr.Üb.o.Zerl.
-20mm_m594;M594
-20mm_mgr;2cm M.Gesch.Patr.o.Zerl.
-20mm_pzsprgr;2cm Pzsprgr.Patr.L'spur.o.Zerl.
 20mm_shvak_api;API
 20mm_shvak_apit;API-T
 20mm_shvak_frag;FI
 20mm_shvak_frag_t;FI-T
-20mm_perforante_m35_belt;Granata perforante da 20 mod. 35
-20mm_slpprj_m42;20 mm sk ptr m/42 slpprj m/42
 23mm_hei;HEI
-25mm_pgu_32;PGU-32/U
-25mm_hedp;25 mm HEDP
-25mm_type96_he_t;25 mm HET
-30mm_mk320;MK320
-30mm_china_API;30 mm APT
-30mm_china_HE;30 mm HEI
-30mm_he_tf;30 mm HE-TF
-30mm_dtc10_30;L/DTC10-30
-35_228mm_he_i_t_belt;DM 11 A1
-35_228mm_apds_t_belt;DM 23
-37mm_sprgr_18_belt;3,7cm Sprgr.Patr. 18
-37mm_pzgr_belt;3,7cm Pzgr.Patr. 18
 57mm_or_281u_belt;OR-281U
 57mm_br_281u_belt;BR-281U
+76mm_obr1915_hetf;obr. 1915 g.
+
+//UK AMMUNITION
+b_mk_1z/name;Mk.1Z Incendiary bullet
+b_mk_1z/name/short;I
 57mm_qf_ap;Shell, Q.F., A.P., 6-pr. 6-cwt., Mk. V
 57mm_qf_he;Shell, Q.F., H.E.T., 6-pr. 6-cwt., Mk. I
-75mm_m61_solid;M61 shot
-76mm_obr1915_hetf;obr. 1915 g.
-88mm_sprgr_dist_fuse;8,8cm Sprgr.Patr. L/4,5 (Kz)
 102mm_33_he;4 inch HE
-105mm_ofl_g2;OFL 105 G2
 152mm_45_he_dist_fuse;6 inch HE
-155mm_60_type0_he_dist_fuse;155 mm Type 0 HE
-203mm_opf_mle1936_apcbc;203 mm OPf(K) RC Mle. 1936
 381mm_mark_22b_6crh_apc;A.P.C., Mk. XXIIb
+
+//JAPAN AMMUNITION
+155mm_60_type0_he_dist_fuse;155 mm Type 0 HE
+
+//CHINA AMMUNITION
+30mm_china_API;30 mm APT
+30mm_china_HE;30 mm HEI
+30mm_dtc10_30;L/DTC10-30
+
+//ITALY AMMUNITION
+20mm_perforante_m35_belt;Granata perforante da 20 mod. 35
 381mm_50_sapcbc;Granata perforante da 381/50
 381mm_50_apcbc;Palla perforante da 381/50
 
-//BOMBS
+//FRANCE AMMUNITION
+105mm_ofl_g2;OFL 105 G2
+152mm_m1936_he_df;152 mm OEA Mle. 1936
+203mm_opf_mle1936_apcbc;203 mm OPf(K) RC Mle. 1936
+380mm_oea_mle1949_he;380 mm OEA Mle. 1949
+380mm_opf_mle1936_apcbc;380 mm OPf(K) RC Mle. 1936
+380mm_opf_mle1943_apcbc;380 mm OPf(K) RC Mle. 1943
+
+//SWEDEN AMMUNITION
+20mm_slpprj_m42;20 mm sk ptr m/42 slpprj m/42
+
+//ISRAEL AMMUNITION
+
+//UNCATEGORIZED AMMUNITION
+30mm_he_tf;30 mm HE-TF
+
+//USA BOMBS
+
+//GERMANY BOMBS
 weapons/de_sc1000;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>
 weapons/de_sc1000/short;S.C. 1000 L2
 weapons/de_sc1000_default;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>
 weapons/de_sc1000_default/short;S.C. 1000 L2
+
+//USSR BOMBS
 weapons/su_ofab_100_120;OFAB-100-120 <color=#ff6f00>BMB</color>
 weapons/su_ofab_100_120/short;OFAB-100-120
 weapons/su_ofab100m;OFAB-100M <color=#ff6f00>BMB</color>
@@ -93,6 +141,8 @@ weapons/cz_ofab_100mb;OFAB-100mB <color=#ff6f00>BMB-HD</color>
 weapons/cz_ofab_100mb/short;OFAB-100mB
 weapons/su_ofab_250_270;OFAB-250-270 <color=#ff6f00>BMB</color>
 weapons/su_ofab_250_270/short;OFAB-250-270
+
+//UK BOMBS
 weapons/uk_230lbs;<color=@userlogColoredText>90.7 kg</color> Bomb, H.E., R.F.C., 230-lb, Mk. III <color=#ff6f00>BMB</color>
 weapons/uk_230lbs/short;H.E., R.F.C., 230-lb, Mk. III
 weapons/uk_520lb_herl_mk_1_n;<color=@userlogColoredText>238.1 kg</color> Bomb, H.E., R.L., 520-lb, Mk. I/N <color=#ff6f00>BMB</color>
@@ -100,9 +150,39 @@ weapons/uk_520lb_herl_mk_1_n/short;H.E., R.L., 520-lb, Mk. I/N
 weapons/uk_1650lb_sn_he;<color=@userlogColoredText>748 kg</color> Bomb, H.E., S.N., 1650-lb <color=#ff6f00>BMB</color>
 weapons/uk_1650lb_sn_he/short;H.E., S.N., 1650-lb
 
+//JAPAN BOMBS
+
+//CHINA BOMBS
+
+//ITALY BOMBS
+
+//FRANCE BOMBS
+
+//SWEDEN BOMBS
+
+//ISRAEL BOMBS
+
+//UNCATEGORIZED BOMBS
+
 //MINES
 
-//ROCKETS
+//USA ROCKETS
+
+//GERMANY ROCKETS
+
+//USSR ROCKETS
+
+//UK ROCKETS
+weapons/in_nasser_240;Naṣr 240 <color=#ff6f00>RKT</color>
+weapons/in_nasser_240/short;Naṣr 240
+
+//JAPAN ROCKETS
+
+//CHINA ROCKETS
+
+//ITALY ROCKETS
+
+//FRANCE ROCKETS
 weapons/fr_sneb_type23s;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type23s/short;SNEB F1 Type 23
 weapons/fr_sneb_type23;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
@@ -117,10 +197,14 @@ weapons/fr_sneb_type23_4fin;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type23_4fin/short;SNEB F1 Type 23
 weapons/fr_sneb_type26_TDA;SNEB F1 Type 26P
 weapons/fr_sneb_type26_TDA/short;SNEB F1 Type 26P
-weapons/in_nasser_240;Naṣr 240 <color=#ff6f00>RKT</color>
-weapons/in_nasser_240/short;Naṣr 240
 
-//MISSILES
+//SWEDEN ROCKETS
+
+//ISRAEL ROCKETS
+
+//UNCATEGORIZED ROCKETS
+
+//USA MISSILES
 weapons/us_aim9n_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9n_sidewinder/short;AIM-9N
 us_aim_9x;AIM-9X-1
@@ -130,6 +214,8 @@ weapons/us_aim_120c_5_default;Air-Launched, Intercept-Aerial, Guided Missile, AI
 weapons/us_aim_120c_5_default/short;AIM-120C-5
 weapons/us_aim_120c_5_sam;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120c_5_sam/short;AIM-120C-5
+
+//GERMANY MISSILES
 weapons/sws_flz_lwf_63;"Flugzeug Lenkwaffe Luft-Luft 63 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
 weapons/sws_flz_lwf_63/short;Flz Lwf LL 63
 weapons/sws_flz_lwf_63_75;"Flugzeug Lenkwaffe Luft-Luft 63/75 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
@@ -153,6 +239,12 @@ weapons/sws_flz_lwf_lb_82/short;Flz Lwf LB 82
 weapons/180mm_IRIS_T_SL_user_cannon;IRIS-T SLM Startgerät
 us_iris_t_sl;IRIS-T SLM
 weapons/us_iris_t_sl/short;IRIS-T SLM
+
+//USSR MISSILES
+
+//UK MISSILES
+
+//JAPAN MISSILES
 weapons/jp_aam3;90 Shiki Sora Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
 weapons/jp_aam3/short;AAM-3
 weapons/jp_aam3_default;90 Shiki Sora Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
@@ -167,12 +259,30 @@ weapons/jp_asm2_missile;93 Shiki Sora Taikan Yūdōdan | ASM-2
 weapons/jp_asm2_missile/short;ASM-2
 weapons/80mm_Type_91_launcher_user_cannon;"93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi ""Kurōzudo Arō"" <color=#ff6f00>LCH</color>"
 weapons/160mm_sam_1c_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
+
+//CHINA MISSILES
 fb10_rocket;L/FB10
 fb10a_rocket;L/FB10A
+
+//ITALY MISSILES
+
+//FRANCE MISSILES
+
+//SWEDEN MISSILES
 us_iris_t;lvrb 98
 weapons/127mm_IRIS_T_user_cannon;Diehl Defence ML-98 | luftvärnsrobotsystem 98 <color=#ff6f00>LCH</color>
 
-//FUEL TANKS
+//ISRAEL MISSILES
+
+//UNCATEGORIZED MISSILES
+
+//USA FUEL TANKS
+
+//GERMANY FUEL TANKS
+
+//USSR FUEL TANKS
+
+//UK FUEL TANKS
 weapons/in_100gal_marut_drop_tank_l;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_l/short;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_l_2;Drop tank (100 gal)
@@ -181,6 +291,20 @@ weapons/in_100gal_marut_drop_tank_r;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_r/short;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_r_2;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_r_2/short;Drop tank (100 gal)
+
+//JAPAN FUEL TANKS
+
+//CHINA FUEL TANKS
+
+//ITALY FUEL TANKS
+
+//FRANCE FUEL TANKS
+
+//SWEDEN FUEL TANKS
+
+//ISRAEL FUEL TANKS
+
+//UNCATEGORIZED FUEL TANKS
 
 //EXPLOSIVE TYPES
 explosiveType/octogel;Oktogel

@@ -182,8 +182,10 @@ All dates are listed in DD-MM-YYYY format.
         - **AIM-120C-5**
         - **M61A2**
         - **20 mm XM301 cannon**
+        - **16 inch/50 Mk.7 cannon**
         - **PGU-32**
         - **MK320**
+        - **16 inch Mk.8 Mod.6 APCBC**
         - **Flz Lwf LL 63/75**
         - **Flz Lwf LL 64/79**
         - **Flz Lwf LL 97 AMRAAM**
@@ -262,11 +264,13 @@ All dates are listed in DD-MM-YYYY format.
         - **AIM-120C-5**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM**.
         - **M61A2**: Long name → **Cannon, 20mm, M61A2**.
         - **20mm XM301 cannon** → **Cannon, 20mm, XM301**.
+        - **16 inch/50 Mk.7 cannon** → **16"/50 Mk 7 Mod 0**.
         - **Flz Lwf LL 63/75**: Long name → **Flugzeug Lenkwaffe Luft-Luft 63/75 "SIWA"**.
         - **Flz Lwf LL 64/79**: Long name → **Flugzeug Lenkwaffe Luft-Luft 64/79 "FALCO"**.
         - **Flz Lwf LL 97 AMRAAM**: Long name → **Flugzeug Lenkwaffe Luft-Luft 97 "AMRAAM"**.
         - **Flz Lwf LL 97 AMRAAM 120C-5** → **Flz Lwf LL AMRAAM 120C-5**. Long name → **Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5**.
         - **PGU-32** → **PGU-32/U**.
+        - **16 inch Mk.8 Mod.6 APCBC** → **16" A.P. Mk 8 Mod 6**.
         - **Flz Lwf LB 66**: Long name → **Flugzeug Lenkwaffe Luft-Boden 66 "NORAS"**.
         - **Flz Kan 76**: Long name → **20mm Flugzeug Kanone 76**.
         - **Flz Kan 65**: Long name → **30mm Flugzeug Kanone 65**.

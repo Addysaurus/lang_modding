@@ -101,9 +101,11 @@ b_mk_1z/name/short;I
 381mm_mark_22b_6crh_apc;A.P.C., Mk. XXIIb
 
 //JAPAN AMMUNITION
-155mm_60_type0_he_dist_fuse;155 mm Type 0 HE
-460mm_type0_common_he;0 Shiki Tsūjō Dan
-460mm_type91_apc;91 Shiki Tekkō Dan
+155mm_60_type0_he;15.5 Sanchi 0 Shiki Tsūjō Dan
+155mm_60_type0_he_dist_fuse;15.5 Sanchi 0 Shiki Tsūjō Dan (TF)
+155mm_60_type91_ap;15.5 Sanchi 91 Shiki Tekkō Dan
+460mm_type0_common_he;46 Sanchi 0 Shiki Tsūjō Dan
+460mm_type91_apc;46 Sanchi 91 Shiki Tekkō Dan
 
 //CHINA AMMUNITION
 30mm_china_API;30 mm APT
@@ -5711,8 +5713,6 @@ weapons/150mm_55_skc_28_naval_user_cannon;15 cm/55 SK C/28 cannon
 320mm_rur/short;RUR-4
 weapons/320mm_mk108_weapon_alfa_rocket_launcher;320 mm Mark 108 Weapon alfa antisubmarine rocket launcher
 weapons/320mm_mk108_weapon_alfa_rocket_launcher/short;320 mm Mk. 108
-155mm_60_type0_he;155 mm Type 0 HE
-155mm_60_type91_ap;155 mm Type 91 APHE
 weapons/jp_533mm_type89_torpedo;533 mm Type 89 torpedo
 weapons/jp_533mm_type89_torpedo/short;533 mm Type 89
 weapons/jp_533mm_type89_1929_mod1_torpedo;533 mm Type 89 torpedo

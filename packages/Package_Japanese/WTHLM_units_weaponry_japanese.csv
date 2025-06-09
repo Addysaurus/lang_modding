@@ -12,8 +12,11 @@ weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</co
 weapons/460mm_45_type_94_naval_user_cannon/short;45口径94式40糎砲
 
 //AMMUNITION
-460mm_type0_common_he;0式通常弾
-460mm_type91_apc;91式徹甲弾
+155mm_60_type0_he;15.5糎0式通常弾
+155mm_60_type0_he_dist_fuse;15.5糎0式通常弾 (TF)
+155mm_60_type91_ap;15.5糎91式徹甲弾
+460mm_type0_common_he;46糎0式通常弾
+460mm_type91_apc;46糎91式徹甲弾
 
 //MISSILES
 weapons/jp_aam3;90式空対空誘導弾 | AAM-3

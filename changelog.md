@@ -219,6 +219,7 @@ All dates are listed in DD-MM-YYYY format.
         - **ASM-2**
         - **DTC10-30**
         - **FB-10A**
+        - **FB-10 SAM**
         - **381 mm/50 Ansaldo-OTO cannon, mod.1934**
         - **Perforante mod.35**
         - **381 mm Granata Perforante**
@@ -327,6 +328,7 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **L/FB10 Dì Duì Kōng Dǎodàn**.
         - **FB-10A** → **L/FB10A**.
             - Full ammunition names package: Name → **L/FB10A Dì Duì Kōng Dǎodàn**.
+        - **FB-10 SAM** → **L/FB10 Dì Duì Kōng Daodàn Fāshè Chē**.
         - **381 mm/50 Ansaldo-OTO cannon, mod.1934** → **Cannone Ansaldo-O.T.O. da 381/50 modello 1939**.
         - **Perforante mod.35** → **Granata perforante da 20 mod. 35**.
             - Full ammunition names package: Name → **Cartoccio granata perforante da 20 modello 1935**.

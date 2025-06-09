@@ -10,6 +10,10 @@ weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</colo
 weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</color> 45口径94式40糎砲 <color=#ff6f00>CNN</color>
 weapons/460mm_45_type_94_naval_user_cannon/short;45口径94式40糎砲
 
+//AMMUNITION
+460mm_type0_common_he;0式通常弾
+460mm_type91_apc;91式徹甲弾
+
 //MISSILES
 weapons/jp_aam3;90式空対空誘導弾 | AAM-3
 weapons/jp_aam3/short;AAM-3

@@ -209,6 +209,8 @@ All dates are listed in DD-MM-YYYY format.
         - **460 mm/45 Type 94 gun**
         - **25 mm HET**
         - **155 mm Type 0 HE**
+        - **460 mm Type 0 common**
+        - **460 mm Type 91 APCBC**
         - **AAM-3** (another one)
         - **AAM-4** (another one)
         - **ASM-1**
@@ -300,6 +302,10 @@ All dates are listed in DD-MM-YYYY format.
         - **JM61A2**: Long name → **JM61A2**.
         - **460 mm/45 Type 94 gun** → **45 Kōkei 94 Shiki 40 Senchimētoru Hō**. Long name → **45 Kōkei 94 Shiki 40 Senchimētoru Hō**. And yes, it being listed as 40 cm and not 46 cm is intentional.
             - Japanese package: Name & long name → **45口径94式40糎砲**.
+        - **460 mm Type 0 common** → **0 Shiki Tsūjō Dan**.
+            - Japanese package: Name → **0式通常弾**.
+        - **460 mm Type 91 APCBC** → **91 Shiki Tekkō Dan**.
+            - Japanese package: Name → **91式徹甲弾**.
         - **AAM-3**: Long name → **90 Shiki Sora Taikū Yūdōdan | AAM-3**.
             - Japanese package: Long name → **90式空対空誘導弾 | AAM-3**.
         - **AAM-4**: Long name → **99 Shiki Sora Taikū Yūdōdan | AAM-4**.

@@ -285,7 +285,7 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **2cm Minengeschoß Patrone ohne Zerleger**.
         - **Pzsprgr.** → **2cm Pzsprgr.Patr.L'spur.o.Zerl.**.
             - Full ammunition names package: Name → **2cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
-            - This 1 belt for the new Soviet multi-vehicle pack **m.S.P.W. D (M.G. 151 S) "In May 1945"** took me 30 damn minutes to find. That's why this update is late. I hope you're fucking happy with me.
+            - This 1 belt for the new Soviet multi-vehicle pack **m.S.P.W. D (M.G. 151 S) "In May 1945"** took me 30 damn minutes to find. Shit like this is why this update is late. I hope you're fucking happy with me.
         - **DM11A1** (the new text for the existing belt) → **DM 11 A1**.
         - **DM 23** (the new text for the existing belt) → **DM 23**.
         - **SC1000L2** → **S.C. 1000 L2**. Long name → **Sprengbombe Cylindrisch 1000 L2**.

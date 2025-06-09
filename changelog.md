@@ -372,7 +372,7 @@ All dates are listed in DD-MM-YYYY format.
     - **155 mm/60 3rd Year Type cannon** → **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō**.
         - Japanese package: Name → **60口径3年式15.5糎砲**.
 
-- ### Sensors:
+### Sensors:
 
 - #### Additions:
 

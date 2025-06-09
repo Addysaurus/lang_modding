@@ -226,6 +226,7 @@ All dates are listed in DD-MM-YYYY format.
         - **380 mm OPF Mle 1936 APCBC**
         - **380 mm OPF Mle 1943 APCBC**
         - **Rbs98 SAM**
+        - **Python 5**
         - **Oktogel** (explosive type)
         - **TG-50** (explosive type)
         - A bunch of new entires for shit that already exists:
@@ -347,6 +348,7 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **luftvärnsrobot 98**.
         - **slpprj m/42** → **20 mm sk ptr m/42 slpprj m/42**.
             - Full ammunition names package: Name → **20 mm skarp patron m/42 spårljuspansarprojektil m/42**.
+        - **Python 5** → **Piton 5**. Long name → **Piton 5**.
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
     - **10,5 cm kanon stridsvagn 101**: Caliber tag corrected from 84 mm to 105 mm.
     - **10,5 cm kanon stridsvagn 104**: Caliber tag corrected from 84 mm to 105 mm.

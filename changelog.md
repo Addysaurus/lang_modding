@@ -369,6 +369,8 @@ All dates are listed in DD-MM-YYYY format.
     - **M61A1**: Long name → **Cannon, 20mm, M61A1 Vulcan**
     - **Shell, A.P., Mk. V** → **A.P., Mk. V**. The Full Ammunition Names package name has remained the same.
     - **Shell, H.E.T., Mk. I** → **H.E.T., Mk. I**. The Full Ammunition Names package name has remained the same.
+    - **155 mm/60 3rd Year Type cannon** → **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō**.
+        - Japanese package: Name → **60口径3年式15.5糎砲**.
 
 - ### Sensors:
 

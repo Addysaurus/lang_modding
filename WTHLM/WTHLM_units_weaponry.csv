@@ -33,8 +33,9 @@ weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredTex
 //JAPAN GUNS
 weapons/cannonJM61A2;JM61A1
 weapons/cannonJM61A2/short;JM61A1
-weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</color> 45 Kōkei 94 Shiki 40 Senchimētoru Hō <color=#ff6f00>CNN</color>
-weapons/460mm_45_type_94_naval_user_cannon/short;45 Kōkei 94 Shiki 40 Senchimētoru Hō
+weapons/155mm_60_type_3_naval_user_cannon;<color=@userlogColoredText>155 mm</color> 60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō <color=#ff6f00>CNN</color>
+weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</color> 45 Kōkei 94 Shiki 40 Sanchi Hō <color=#ff6f00>CNN</color>
+weapons/460mm_45_type_94_naval_user_cannon/short;45 Kōkei 94 Shiki 40 Sanchi Hō
 
 //ITALY
 weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredText>381 mm</color> Cannone Ansaldo-O.T.O. da 381/50 modello 1939 <color=#ff6f00>CNN</color>
@@ -5710,7 +5711,6 @@ weapons/150mm_55_skc_28_naval_user_cannon;15 cm/55 SK C/28 cannon
 320mm_rur/short;RUR-4
 weapons/320mm_mk108_weapon_alfa_rocket_launcher;320 mm Mark 108 Weapon alfa antisubmarine rocket launcher
 weapons/320mm_mk108_weapon_alfa_rocket_launcher/short;320 mm Mk. 108
-weapons/155mm_60_type_3_naval_user_cannon;155 mm/60 3rd Year Type cannon
 155mm_60_type0_he;155 mm Type 0 HE
 155mm_60_type91_ap;155 mm Type 91 APHE
 weapons/jp_533mm_type89_torpedo;533 mm Type 89 torpedo

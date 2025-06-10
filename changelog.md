@@ -148,7 +148,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F/A-18C MLU 2** (Sweden / Finland) → **HN (MLU 2)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Patria | HN "Hornet" (Mid-Life Upgrade 2)**.
         - **M24DK** (Sweden / Denmark) → **M24**. Statcard name → **Cadillac Motor Car Division | G-200 | Tank, Light, M24 Chaffee**.
         - **EldE 98** → **elde 98 (Giraffe 1X)**. Statcard name → **BAE Systems Hägglunds | eldenhet 98 (Giraffe 1X)**.
-        - **SPYDER AIO** → **SPYDER MFU AiO ER**. Statcard name → **Rafa'el Me'rkhot Leḥimah Mitḳadmot | SPYDER Missile Firing Unit All-in-One Extended Range**.
+        - **SPYDER AIO** → **SPYDER MFU AiO SR**. Statcard name → **Rafa'el Me'rkhot Leḥimah Mitḳadmot | SPYDER Missile Firing Unit All-in-One Short Range**.
     - **Kronštadt**: Statcard name → **Zavod № 194 | Proyekt 69 | Tâžyelyye kryejsyer tipa Kronštadt | Kronštadt**
     - **FlaRakRad 1 Roland** → **FlaRakRad 1 Roland**: Statcard name → **Rheinmetall MAN Military Vehicles | Flugabwehrraketenradwagen 1 Roland auf Lkw 15t mil gl Kat 1 A1**
     - **CCKW 353 (M1)**: Mid distance name → **CCKW 353 (M1)**. The mid distance name was previously **CCKW 353 (N1)** due to a typo.
@@ -232,6 +232,7 @@ All dates are listed in DD-MM-YYYY format.
         - **380 mm OPF Mle 1943 APCBC**
         - **Rbs98 SAM**
         - **Python 5**
+        - **Derby** (another one)
         - **Oktogel** (explosive type)
         - **TG-50** (explosive type)
         - A bunch of new entires for shit that already exists:

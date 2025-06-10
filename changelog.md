@@ -200,6 +200,7 @@ All dates are listed in DD-MM-YYYY format.
         - **OFAB-100**
         - **OFAB-100MB**
         - **OFAB-100-110TU**
+        - **406 mm/50 B-37 cannon**
         - **76 mm HE-TF**
         - **7.62 mm SS-77 machine gun**
         - **30 mm Denel GI-30 cannon**
@@ -302,6 +303,7 @@ All dates are listed in DD-MM-YYYY format.
         - **OFAB-100MB** → **OFAB-100mB**. Long name → **OFAB-100mB**.
         - **OFAB-100-110TU**: Long name → **OFAB-100-110TU "Jupiter"**.
         - **OFAB-250-270**: Long name → **OFAB-250-270**.
+        - **406 mm/50 B-37 cannon** → **406-mm/50 B-37 obr. 1937 g.**.
         - **76 mm HE-TF** → **obr. 1915 g.**.
         - **7.62 mm SS-77 machine gun** → **Denel Land Systems General Purpose Machine Gun SS77 Mk1**.
         - **30 mm Denel GI-30 cannon** → **Denel Land Systems Linkless CamGun EMAK 30 | GI-30**.

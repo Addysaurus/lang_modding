@@ -199,7 +199,9 @@ All dates are listed in DD-MM-YYYY format.
         - **SC1000L2** (another one)
         - **OFAB-100**
         - **OFAB-100MB**
+        - **OFAB-100-110TU**
         - **76 mm HE-TF**
+        - **7.62 mm SS-77 machine gun**
         - **30 mm Denel GI-30 cannon**
         - **5.25 inch/50 QF Mark I cannon**
         - **381 mm Mk.XXIIb SC APC**
@@ -297,8 +299,10 @@ All dates are listed in DD-MM-YYYY format.
         - **SC1000L2** → **S.C. 1000 L2**. Long name → **Sprengbombe Cylindrisch 1000 L2**.
         - **OFAB-100** → **OFAB-100-120**. Long name → **OFAB-100-120**.
         - **OFAB-100MB** → **OFAB-100mB**. Long name → **OFAB-100mB**.
+        - **OFAB-100-110TU**: Long name → **OFAB-100-110TU "Jupiter"**.
         - **OFAB-250-270**: Long name → **OFAB-250-270**.
         - **76 mm HE-TF** → **obr. 1915 g.**.
+        - **7.62 mm SS-77 machine gun** → **Denel Land Systems General Purpose Machine Gun SS77 Mk1**.
         - **30 mm Denel GI-30 cannon** → **Denel Land Systems Linkless CamGun EMAK 30 | GI-30**.
         - **5.25 inch/50 QF Mark I cannon** → **Gun, Q.F., 5.25-inch, Mk. I**.
         - **381 mm Mk.XXIIb SC APC** → **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb**.

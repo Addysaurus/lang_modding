@@ -28,6 +28,7 @@ weapons/cannonDEFA552A_switzerland/short;Flz Kan 65
 //USSR GUNS
 
 //UK GUNS
+weapons/7_62mm_ss77_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Denel Land Systems General Purpose Machine Gun SS77 Mk1 <color=#ff6f00>MG</color>
 weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Denel Land Systems Linkless CamGun EMAK 30 | GI-30 <color=#ff6f00>ACNN</color>
 weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredText>133 mm</color> Gun, Q.F., 5.25-inch, Mk. I <color=#ff6f00>CNN</color>
 
@@ -145,13 +146,15 @@ weapons/de_sc1000_default;<color=@userlogColoredText>1000 kg</color> Sprengbombe
 weapons/de_sc1000_default/short;S.C. 1000 L2
 
 //USSR BOMBS
-weapons/su_ofab_100_120;OFAB-100-120 <color=#ff6f00>BMB</color>
+weapons/su_ofab_100_120;<color=@userlogColoredText>114 kg</color> OFAB-100-120 <color=#ff6f00>BMB</color>
 weapons/su_ofab_100_120/short;OFAB-100-120
-weapons/su_ofab100m;OFAB-100M <color=#ff6f00>BMB</color>
+weapons/su_ofab100m;<color=@userlogColoredText>114 kg</color> OFAB-100M <color=#ff6f00>BMB</color>
 weapons/su_ofab100m/short;OFAB-100M
-weapons/cz_ofab_100mb;OFAB-100mB <color=#ff6f00>BMB-HD</color>
+weapons/cz_ofab_100mb;<color=@userlogColoredText>114 kg</color> OFAB-100mB <color=#ff6f00>BMB-HD</color>
 weapons/cz_ofab_100mb/short;OFAB-100mB
-weapons/su_ofab_250_270;OFAB-250-270 <color=#ff6f00>BMB</color>
+weapons/cz_ofab_100_110_tu_jupiter;"<color=@userlogColoredText>121 kg</color> OFAB-100-110TU ""Jupiter"" <color=#ff6f00>BMB</color>"
+weapons/cz_ofab_100_110_tu_jupiter/short;OFAB-100-110TU
+weapons/su_ofab_250_270;<color=@userlogColoredText>268 kg</color> OFAB-250-270 <color=#ff6f00>BMB</color>
 weapons/su_ofab_250_270/short;OFAB-250-270
 
 //UK BOMBS

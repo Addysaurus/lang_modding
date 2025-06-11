@@ -222,6 +222,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AAM-4** (another one)
         - **ASM-1**
         - **ASM-2**
+        - **30 mm PGZ-625 cannon**
         - **DTC10-30**
         - **FB-10A**
         - **FB-10 SAM**
@@ -333,6 +334,7 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Long name → **80式空対艦誘導弾 | ASM-1**.
         - **ASM-2**: Long name → **93 Shiki Sora Taikan Yūdōdan | ASM-2**.
             - Japanese package: Long name → **93式空対艦誘導弾 | ASM-2**.
+        - **30 mm PGZ-625 cannon** → **630 Xíng 30 Háomi Gāoshè Jīguān Pào**.
         - **DTC10-30** → **L/DTC10-30**.
             - Full ammunition names package: Name → **L/DTC10 Shì 30 Háomi Chuānjiǎdàn**.
         - **FB-10** → **L/FB10**.

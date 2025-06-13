@@ -1,19 +1,165 @@
 <ID|readonly|noverify>;<English>
-//GUNS
+//USA GUNS
 
-//GUN AMMUNITION
+//GERMANY GUNS
 
-//BOMBS
+//USSR GUNS
+
+//UK GUNS
+
+//JAPAN GUNS
+
+//CHINA GUNS
+
+//ITALY
+
+//FRANCE GUNS
+
+//SWEDEN GUNS
+
+//ISRAEL GUNS
+
+//UNCATEGORIZED GUNS
+
+//USA AMMUNITION
+
+//GERMANY AMMUNITION
+
+//USSR AMMUNITION
+
+//UK AMMUNITION
+
+//JAPAN AMMUNITION
+
+//CHINA AMMUNITION
+
+//ITALY AMMUNITION
+
+//FRANCE AMMUNITION
+
+//SWEDEN AMMUNITION
+
+//ISRAEL AMMUNITION
+
+//UNCATEGORIZED AMMUNITION
+
+//USA BOMBS
+
+//GERMANY BOMBS
+
+//USSR BOMBS
+modification/ofab_100m_mb/desc;Allows for the installation of OFAB-100M and OFAB-100mB bombs.
+modification/ofab_100m_mb;OFAB-100M / mB
+modification/fab_250m_54/desc;Allows for the installation of FAB-250M-54 bombs.
+modification/fab_250m_54;FAB-250M-54
+modification/fab_500m_54/desc;Allows for the installation of FAB-500M-54 bombs.
+modification/fab_500m_54;FAB-500M-54
+
+//UK BOMBS
+modification/uk_bomb_520lb;H.E., R.L., 520-lb, Mk. I/N
+modification/uk_bomb_520lb/desc;Allows for the installation of Bomb, H.E., R.L., 520-lb, Mk. I/N bombs.
+modification/uk_bomb_1650lb;H.E., S.N., 1650-lb
+modification/uk_bomb_1650lb/desc;Allows for the installation of Bomb, H.E., S.N., 1650-lb bombs.
+
+//JAPAN BOMBS
+
+//CHINA BOMBS
+
+//ITALY BOMBS
+modification/su_fab_250_us_mk82/desc;Allows for the installation of 250 kg and 500 lbs bombs.
+modification/su_fab_250_us_mk82;FAB-250M-62 / Mk 82 Mod 0
+modification/su_fab_500_us_mk83/desc;Allows for the installation of 500 kg and 1000 lbs bombs.
+modification/su_fab_500_us_mk83;FAB-500M-62 / Mk 83 Mod 0
+
+//FRANCE BOMBS
+
+//SWEDEN BOMBS
+
+//ISRAEL BOMBS
+
+//UNCATEGORIZED BOMBS
 
 //MINES
 
-//ROCKETS
+//USA ROCKETS
+
+//GERMANY ROCKETS
+
+//USSR ROCKETS
+
+//UK ROCKETS
 modification/in_nasser_240;Naṣr 240
-modification/in_nasser_240/desc;Allows the installation of unguided Naṣr 240 rockets.
+modification/in_nasser_240/desc;Allows for the installation of unguided Naṣr 240 rockets.
 
-//MISSILES
+//JAPAN ROCKETS
 
-//FUEL TANKS
+//CHINA ROCKETS
+
+//ITALY ROCKETS
+
+//FRANCE ROCKETS
+
+//SWEDEN ROCKETS
+
+//ISRAEL ROCKETS
+
+//UNCATEGORIZED ROCKETS
+
+//USA MISSILES
+modification/us_aim_9n;AIM-9N
+modification/us_aim_9n/desc;Allows for the installation of AIM-9N Sidewinder air-to-air guided missiles.
+modification/us_aim_120c;AIM-120C-5
+modification/us_aim_120c/desc;Allows the installation of AIM-120C-5 AMRAAM air-to-air guided missiles.
+
+//GERMANY MISSILES
+modification/sws_flz_lwf_ll_64;Flz Lwf LL 64/79
+modification/sws_flz_lwf_ll_64/desc;"Allows for the installation of Flz Lwf LL 64/79 ""FALCO"" air-to-air guided missiles."
+modification/flz_lwf_lb_66;Flz Lwf LB 66
+modification/flz_lwf_lb_66/desc;"Allows for the installation of Flz Lwf LB 66 ""NORAS"" air-to-ground guided missiles."
+
+//USSR MISSILES
+
+//UK MISSILES
+
+//JAPAN MISSILES
+modification/jp_asm1;ASM-1
+modification/jp_asm1/desc;Allows for the installation of ASM-1 anti-ship guided missiles.
+modification/jp_asm2;ASM-2
+modification/jp_asm2/desc;Allows for the installation of ASM-2 anti-ship guided missiles.
+
+//CHINA MISSILES
+
+//ITALY MISSILES
+
+//FRANCE MISSILES
+
+//SWEDEN MISSILES
+
+//ISRAEL MISSILES
+
+//USA SENSORS
+modification/us_an_aas_38b_pod;AN/AAS-38B
+modification/us_an_aas_38b_pod/desc;Allows the installation of an AN/AAS-38B NITE Hawk laser/electro-optical targeting pod.
+
+//GERMANY SENSORS
+
+//USSR SENSORS
+
+//UK SENSORS
+
+//JAPAN SENSORS
+modification/j_aaq_2_pod;J/AAQ-2
+modification/j_aaq_2_pod/desc;Allows the installation of the J/AAQ-2 laser/electro-optical targeting pod.
+
+//CHINA SENSORS
+
+//ITALY SENSORS
+
+//FRANCE SENSORS
+
+//SWEDEN SENSORS
+
+//ISRAEL SENSORS
 
 //UNCATEGORIZED
 modification/category/lth;Flight performance

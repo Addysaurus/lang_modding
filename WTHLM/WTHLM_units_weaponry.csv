@@ -103,8 +103,8 @@ t_ball_t_38/name/short;T
 //UK AMMUNITION
 b_mk_1z/name;Mk.1Z Incendiary bullet
 b_mk_1z/name/short;I
-57mm_qf_ap;Shell, Q.F., A.P., 6-pr. 6-cwt., Mk. V
-57mm_qf_he;Shell, Q.F., H.E.T., 6-pr. 6-cwt., Mk. I
+57mm_qf_ap;A.P., Mk. V
+57mm_qf_he;H.E.T., Mk. I
 102mm_33_he;4 inch HE
 152mm_45_he_dist_fuse;6 inch HE
 381mm_mark_22b_6crh_apc;A.P.C., Mk. XXIIb
@@ -330,6 +330,16 @@ weapons/jp_600gal_drop_tank_2/short;Drop tank (600 gal)
 //ITALY FUEL TANKS
 
 //FRANCE FUEL TANKS
+weapons/nl_50gal_wingtip_tank_1;Drop tank (50 gal)
+weapons/nl_50gal_wingtip_tank_1/short;Drop tank (50 gal)
+weapons/nl_50gal_wingtip_tank_2;Drop tank (50 gal)
+weapons/nl_50gal_wingtip_tank_2/short;Drop tank (50 gal)
+weapons/nl_150gal_early_fuse_drop_tank;Drop tank (150 gal)
+weapons/nl_150gal_early_fuse_drop_tank/short;Drop tank (150 gal)
+weapons/nl_150gal_early_drop_tank_1;Drop tank (150 gal)
+weapons/nl_150gal_early_drop_tank_1/short;Drop tank (150 gal)
+weapons/nl_150gal_early_drop_tank_2;Drop tank (150 gal)
+weapons/nl_150gal_early_drop_tank_2/short;Drop tank (150 gal)
 
 //SWEDEN FUEL TANKS
 weapons/sw_275gal_drop_tank_1;Drop tank (275 gal)

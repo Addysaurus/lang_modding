@@ -241,6 +241,8 @@ All dates are listed in DD-MM-YYYY format.
         - **SPYDER** (the launcher for the **SPYDER MFU AiO SR**)
         - **Drop tank (600 gal.)**
         - **Drop tank (275 gal.)**
+        - **Drop tank (150 gal.)**
+        - **Drop tank (50 gal.)**
         - **Oktogel** (explosive type)
         - **TG-50** (explosive type)
         - A bunch of new entires for shit that already exists:
@@ -317,7 +319,7 @@ All dates are listed in DD-MM-YYYY format.
         - **7.62 mm SS-77 machine gun** → **Denel Land Systems General Purpose Machine Gun SS77 Mk1**.
         - **30 mm Denel GI-30 cannon** → **Denel Land Systems Linkless CamGun EMAK 30 | GI-30**.
         - **5.25 inch/50 QF Mark I cannon** → **Gun, Q.F., 5.25-inch, Mk. I**.
-        - **381 mm Mk.XXIIb SC APC** → **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb**.
+        - **381 mm Mk.XXIIb SC APC** → **A.P.C., Mk. XXIIb**.
             - Full ammunition names package: Name → **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb**.
         - **HERL 520 lb Mk.IN** → **H.E., R.L., 520-lb, Mk. I/N**. Long name → **Bomb, H.E., R.L., 520-lb, Mk. I/N**.
         - **1650 lb SNHE** → **H.E., S.N., 1650-lb**. Long name → **Bomb, H.E., S.N., 1650-lb**.
@@ -374,6 +376,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Python 5** → **Piton 5**. Long name → **Piton 5**.
         - **Drop tank (600 gal.)** → **Drop tank (600 gal)**. This is not a full rename, just a formatting change.
         - **Drop tank (275 gal.)** → **Drop tank (275 gal)**. This is not a full rename, just a formatting change.
+        - **Drop tank (150 gal.)** → **Drop tank (150 gal)**. This is not a full rename, just a formatting change.
+        - **Drop tank (50 gal.)** → **Drop tank (50 gal)**. This is not a full rename, just a formatting change.
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
     - **10,5 cm kanon stridsvagn 101**: Caliber tag corrected from 84 mm to 105 mm.
     - **10,5 cm kanon stridsvagn 104**: Caliber tag corrected from 84 mm to 105 mm.
@@ -404,6 +408,22 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: Name → **15.5糎0式通常弾**.
     - **155 mm Type 91 APHE** → **15.5 Sanchi 91 Shiki Tekkō Dan**.
         - Japanese package: Name → **15.5糎91式徹甲弾**.
+
+### Modifications:
+
+- #### Additions:
+
+    - Update "Leviathans" additions:
+        - All new weapons added in "Leviathans" have had their modifications adjusted accordingly.
+        - **FAB-250/Mk82**
+        - **FAB-500/Mk83**
+
+- #### Changes:
+
+    - Update "Leviathans" changes:
+        - **FAB-250/Mk82** → **FAB-250M-62 / Mk 82 Mod 0**.
+        - **FAB-500/Mk83** → **FAB-500M-62 / Mk 83 Mod 0**.
+    - All other weapons changed in this update have had their modifications adjusted accordingly
 
 ### Sensors:
 

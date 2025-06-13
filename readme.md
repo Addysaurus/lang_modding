@@ -55,14 +55,16 @@ Available packages:
   - Thai:
     - This package puts Thai vehicles and weapons into Thai.
 - Other packages:
-  - Full ammunition names
-    - This packages introduces the full names of ammunition rounnds that may be too long to be convenient for use.
-  - Finnish Ps. designators
+  - Full Ammunition Names
+    - This packages introduces the full names of ammunition that may be too long to be convenient for use.
+  - Full Ammunition Names - Japanese
+    - Version of the Full Ammunition Names package that puts the full names of Japanese weapons and ammunition in Japanese to go along with the main Japanese package.
+  - Finnish Ps. Designators
     - This packages makes the short names of Finnish ground vehicles their Ps. designations.
 
 ## The mod team
 
-In addition to me (WarTinder), the mod team also has 3 other members: Theren, Odican, and Romacotta. All have been extremely helpful and I would like to thank them greatly.
+In addition to me (WarTinder), the mod team also has 5 other members: Theren, Odican, czartraktheprotogen, ph41te, and Romacotta. All have been extremely helpful and I would like to thank them greatly.
 
 ## Additional things to know
 

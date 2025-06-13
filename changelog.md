@@ -21,6 +21,7 @@ All dates are listed in DD-MM-YYYY format.
 ### General:
 
 - I would like to welcome ph41ate to the mod team! ph41te has joined to help on the newly leaked infantry weapons, particularly Soviet guns, and is extremely knowledgable and talented.
+- A new Full Ammunition package for Japanese has been added because the Full Ammunition package now puts the full weapon names in the descriptions of modifications.
 
 - #### Changes:
 

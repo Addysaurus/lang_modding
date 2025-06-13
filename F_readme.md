@@ -35,9 +35,13 @@ Available packages:
   - Japanese:
     - This package puts Japanese vehicles and weapons into Japanese.
   - Farsi:
-    - This package puts Japanese vehicles and weapons into Farsi.
+    - This package puts Iranian vehicles and weapons into Farsi.
   - Thai:
-    - This package puts Japanese vehicles and weapons into Thai.
+    - This package puts Thai vehicles and weapons into Thai.
 - Other packages:
-  - Finnish Ps. designators
+  - Full Ammunition Names
+    - This packages introduces the full names of ammunition that may be too long to be convenient for use.
+  - Full Ammunition Names - Japanese
+    - Version of the Full Ammunition Names package that puts the full names of Japanese weapons and ammunition in Japanese to go along with the main Japanese package.
+  - Finnish Ps. Designators
     - This packages makes the short names of Finnish ground vehicles their Ps. designations.

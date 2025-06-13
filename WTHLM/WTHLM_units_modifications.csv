@@ -65,7 +65,7 @@ modification/380mm_45_fr_mle1943_navy_apcbc_ammo_pack;380 mm OPf(K) RC Mle. 1943
 //USSR BOMBS
 modification/ofab_100m_mb;OFAB-100M / mB
 modification/ofab_100m_mb/desc;"Loadout unlocked: 114 kg <color=@userlogColoredText>OFAB-100M</color> bomb.
-Loadout unlocked: 114 kg <color=@userlogColoredText>OFAB-100mB</color> bomb.""
+Loadout unlocked: 114 kg <color=@userlogColoredText>OFAB-100mB</color> bomb."
 modification/fab_250m_54;FAB-250M-54
 modification/fab_250m_54/desc;Loadout unlocked: 236 kg <color=@userlogColoredText>FAB-250M-54</color> bomb.
 modification/fab_500m_54;FAB-500M-54
@@ -105,7 +105,7 @@ Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bomb."
 
 //USSR ROCKETS
 
-//UK ROCKETSs
+//UK ROCKETS
 modification/in_nasser_240;Naṣr 240
 modification/in_nasser_240/desc;Loadout unlocked: <color=@userlogColoredText>Naṣr 240</color> rocket.
 
@@ -129,9 +129,9 @@ modification/us_aim_9n/desc;Loadout unlocked: <color=@userlogColoredText>AIM-9N 
 modification/us_aim_120c;AIM-120C-5
 modification/us_aim_120c/desc;Allows the installation of <color=@userlogColoredText>AIM-120C-5 AMRAAM</color> active radar homing air-to-air missile.
 
-//GERMANY MISSILES"
-modification/sws_flz_lwf_63_75/desc;"Loadout unlocked: <color=@userlogColoredText>Flz Lwf 63/75 ""SIWA""</color> infrared-guided air-to-air missile."
+//GERMANY MISSILES
 modification/sws_flz_lwf_63_75;Flz Lwf 63/75
+modification/sws_flz_lwf_63_75/desc;"Loadout unlocked: <color=@userlogColoredText>Flz Lwf 63/75 ""SIWA""</color> infrared-guided air-to-air missile."
 modification/sws_flz_lwf_ll_64;Flz Lwf LL 64/79
 modification/sws_flz_lwf_ll_64/desc;"Loadout unlocked: <color=@userlogColoredText>Flz Lwf LL 64/79 ""FALCO""</color> semi-active radar homing air-to-air missile."
 modification/flz_lwf_lb_66;Flz Lwf LB 66
@@ -154,8 +154,8 @@ modification/jp_asm2/desc;Loadout unlocked: <color=@userlogColoredText>ASM-2</co
 //FRANCE MISSILES
 
 //SWEDEN MISSILES
-modification/swd_rb74m/desc;Loadout unlocked: <color=@userlogColoredText>rb 74 (REMO)</color> infrared-guided air-to-air missile.
 modification/swd_rb74m;rb 74 (REMO)
+modification/swd_rb74m/desc;Loadout unlocked: <color=@userlogColoredText>rb 74 (REMO)</color> infrared-guided air-to-air missile.
 
 //ISRAEL MISSILES
 

@@ -48,28 +48,31 @@
 //GERMANY BOMBS
 
 //USSR BOMBS
-modification/ofab_100m_mb/desc;Allows for the installation of OFAB-100M and OFAB-100mB bombs.
 modification/ofab_100m_mb;OFAB-100M / mB
-modification/fab_250m_54/desc;Allows for the installation of FAB-250M-54 bombs.
+modification/ofab_100m_mb/desc;"Loadout unlocked: 114 kg <color=@userlogColoredText>OFAB-100M</color> bombs.
+Loadout unlocked: 114 kg <color=@userlogColoredText>OFAB-100mB</color> bombs.""
 modification/fab_250m_54;FAB-250M-54
-modification/fab_500m_54/desc;Allows for the installation of FAB-500M-54 bombs.
+modification/fab_250m_54/desc;Loadout unlocked: 236 kg <color=@userlogColoredText>FAB-250M-54</color> bombs.
 modification/fab_500m_54;FAB-500M-54
+modification/fab_500m_54/desc;Loadout unlocked: 478 kg <color=@userlogColoredText>FAB-500M-54</color> bombs.
 
 //UK BOMBS
 modification/uk_bomb_520lb;H.E., R.L., 520-lb, Mk. I/N
-modification/uk_bomb_520lb/desc;Allows for the installation of Bomb, H.E., R.L., 520-lb, Mk. I/N bombs.
+modification/uk_bomb_520lb/desc;Loadout unlocked: 238.1 kg <color=@userlogColoredText>Bomb, H.E., R.L., 520-lb, Mk. I/N</color> bombs.
 modification/uk_bomb_1650lb;H.E., S.N., 1650-lb
-modification/uk_bomb_1650lb/desc;Allows for the installation of Bomb, H.E., S.N., 1650-lb bombs.
+modification/uk_bomb_1650lb/desc;Loadout unlocked: 748 kg <color=@userlogColoredText>Bomb, H.E., S.N., 1650-lb</color> bombs.
 
 //JAPAN BOMBS
 
 //CHINA BOMBS
 
 //ITALY BOMBS
-modification/su_fab_250_us_mk82/desc;Allows for the installation of 250 kg and 500 lbs bombs.
 modification/su_fab_250_us_mk82;FAB-250M-62 / Mk 82 Mod 0
-modification/su_fab_500_us_mk83/desc;Allows for the installation of 500 kg and 1000 lbs bombs.
+modification/su_fab_250_us_mk82/desc;"Loadout unlocked: 227 kg <color=@userlogColoredText>FAB-250M-62</color> bombs.
+Loadout unlocked: 240.9 kg <color=@userlogColoredText>Mk 82 Mod 0</color> bombs."
 modification/su_fab_500_us_mk83;FAB-500M-62 / Mk 83 Mod 0
+modification/su_fab_500_us_mk83/desc;"Loadout unlocked: 508.3 kg <color=@userlogColoredText>FAB-500M-62</color> bombs.
+Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bombs."
 
 //FRANCE BOMBS
 
@@ -87,9 +90,9 @@ modification/su_fab_500_us_mk83;FAB-500M-62 / Mk 83 Mod 0
 
 //USSR ROCKETS
 
-//UK ROCKETS
+//UK ROCKETSs
 modification/in_nasser_240;Naṣr 240
-modification/in_nasser_240/desc;Allows for the installation of unguided Naṣr 240 rockets.
+modification/in_nasser_240/desc;Loadout unlocked: <color=@userlogColoredText>Naṣr 240</color> rockets.
 
 //JAPAN ROCKETS
 
@@ -107,15 +110,15 @@ modification/in_nasser_240/desc;Allows for the installation of unguided Naṣr 2
 
 //USA MISSILES
 modification/us_aim_9n;AIM-9N
-modification/us_aim_9n/desc;Allows for the installation of AIM-9N Sidewinder air-to-air guided missiles.
+modification/us_aim_9n/desc;Loadout unlocked: <color=@userlogColoredText>AIM-9N Sidewinder</color> air-to-air guided missiles.
 modification/us_aim_120c;AIM-120C-5
-modification/us_aim_120c/desc;Allows the installation of AIM-120C-5 AMRAAM air-to-air guided missiles.
+modification/us_aim_120c/desc;Allows the installation of <color=@userlogColoredText>AIM-120C-5 AMRAAM</color> air-to-air guided missiles.
 
 //GERMANY MISSILES
 modification/sws_flz_lwf_ll_64;Flz Lwf LL 64/79
-modification/sws_flz_lwf_ll_64/desc;"Allows for the installation of Flz Lwf LL 64/79 ""FALCO"" air-to-air guided missiles."
+modification/sws_flz_lwf_ll_64/desc;"Loadout unlocked: <color=@userlogColoredText>Flz Lwf LL 64/79 ""FALCO""</color> air-to-air guided missiles."
 modification/flz_lwf_lb_66;Flz Lwf LB 66
-modification/flz_lwf_lb_66/desc;"Allows for the installation of Flz Lwf LB 66 ""NORAS"" air-to-ground guided missiles."
+modification/flz_lwf_lb_66/desc;"Loadout unlocked: <color=@userlogColoredText>Flz Lwf LB 66 ""NORAS""</color> air-to-ground guided missiles."
 
 //USSR MISSILES
 
@@ -123,9 +126,9 @@ modification/flz_lwf_lb_66/desc;"Allows for the installation of Flz Lwf LB 66 ""
 
 //JAPAN MISSILES
 modification/jp_asm1;ASM-1
-modification/jp_asm1/desc;Allows for the installation of ASM-1 anti-ship guided missiles.
+modification/jp_asm1/desc;Loadout unlocked: <color=@userlogColoredText>ASM-1</color> anti-ship guided missiles.
 modification/jp_asm2;ASM-2
-modification/jp_asm2/desc;Allows for the installation of ASM-2 anti-ship guided missiles.
+modification/jp_asm2/desc;Loadout unlocked: <color=@userlogColoredText>ASM-2</color> anti-ship guided missiles.
 
 //CHINA MISSILES
 
@@ -134,12 +137,14 @@ modification/jp_asm2/desc;Allows for the installation of ASM-2 anti-ship guided 
 //FRANCE MISSILES
 
 //SWEDEN MISSILES
+modification/swd_rb74m/desc;Loadout unlocked: <color=@userlogColoredText>rb 74 (REMO)</color> infrared-guided air-to-air missiles.
+modification/swd_rb74m;rb 74 (REMO)
 
 //ISRAEL MISSILES
 
 //USA SENSORS
 modification/us_an_aas_38b_pod;AN/AAS-38B
-modification/us_an_aas_38b_pod/desc;Allows the installation of an AN/AAS-38B NITE Hawk laser/electro-optical targeting pod.
+modification/us_an_aas_38b_pod/desc;Loadout unlocked: the <color=@userlogColoredText>AN/AAS-38B NITE Hawk</color> laser/electro-optical targeting pod.
 
 //GERMANY SENSORS
 
@@ -149,7 +154,7 @@ modification/us_an_aas_38b_pod/desc;Allows the installation of an AN/AAS-38B NIT
 
 //JAPAN SENSORS
 modification/j_aaq_2_pod;J/AAQ-2
-modification/j_aaq_2_pod/desc;Allows the installation of the J/AAQ-2 laser/electro-optical targeting pod.
+modification/j_aaq_2_pod/desc;Loadout unlocked: the <color=@userlogColoredText>J/AAQ-2</color> laser/electro-optical targeting pod.
 
 //CHINA SENSORS
 
@@ -2432,8 +2437,6 @@ modification/us_aim_9m/desc;Allows installation of AIM-9M-4 air-to-air missiles.
 modification/us_aim_9m;AIM-9M-4
 modification/swd_rb74/desc;Allows installation of robot 74 air-to-air missiles.
 modification/swd_rb74;rb 74
-modification/swd_rb74m/desc;Allows the installation of robot 74 (Renovation, Modifikation) Sidewinder air-to-air missiles.
-modification/swd_rb74m;rb 74 (REMO)
 modification/us_aim_9p/desc;Allows installation of AIM-9P-3 air-to-air missiles.
 modification/us_aim_9p;AIM-9P-3
 modification/us_aim_9p4/desc;Allows installation of AIM-9P-4 air-to-air missiles.

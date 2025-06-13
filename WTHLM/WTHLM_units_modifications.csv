@@ -22,20 +22,35 @@
 //UNCATEGORIZED GUNS
 
 //USA AMMUNITION
+modification/406mm_us_mk8_mod6_navy_apcbc;"16""/50 Mk 7 Mod 0"
+modification/406mm_us_mk8_mod6_navy_apcbc_ammo_pack;"16""/50 Mk 7 Mod 0"
 
 //GERMANY AMMUNITION
 
 //USSR AMMUNITION
+modification/406mm_ussr_navy_sapcbc;PB obr. 1915/28 gg.
+modification/406mm_ussr_navy_apcbc;BR obr. 1915/28 gg.
+modification/406mm_ussr_navy_apcbc_ammo_pack;BR obr. 1915/28 gg.
 
 //UK AMMUNITION
+modification/381mm_uk_bl_mk1_6crh_22b_navy_apc;A.P.C., 15-inch, 6-crh., Mk. XXIIb
+modification/381mm_uk_bl_mk1_6crh_22b_navy_apc_ammo_pack;A.P.C., 15-inch, 6-crh., Mk. XXIIb
 
 //JAPAN AMMUNITION
+modification/460mm_jp_type91_navy_apc;46 Sanchi 91 Shiki Tekkō Dan
+modification/460mm_jp_type91_navy_apc_ammo_pack;46 Sanchi 91 Shiki Tekkō Dan
 
 //CHINA AMMUNITION
 
 //ITALY AMMUNITION
+modification/381mm_50_it_navy_apcbc;Palla perforante da 381/50
+modification/381mm_50_it_navy_apcbc_ammo_pack;Palla perforante da 381/50
 
 //FRANCE AMMUNITION
+modification/380mm_45_fr_mle1936_navy_apcbc;380 mm OPf(K) RC Mle. 1936
+modification/380mm_45_fr_mle1936_navy_apcbc_ammo_pack;380 mm OPf(K) RC Mle. 1936
+modification/380mm_45_fr_mle1943_navy_apcbc;380 mm OPf(K) RC Mle. 1943
+modification/380mm_45_fr_mle1943_navy_apcbc_ammo_pack;380 mm OPf(K) RC Mle. 1943
 
 //SWEDEN AMMUNITION
 
@@ -49,18 +64,18 @@
 
 //USSR BOMBS
 modification/ofab_100m_mb;OFAB-100M / mB
-modification/ofab_100m_mb/desc;"Loadout unlocked: 114 kg <color=@userlogColoredText>OFAB-100M</color> bombs.
-Loadout unlocked: 114 kg <color=@userlogColoredText>OFAB-100mB</color> bombs.""
+modification/ofab_100m_mb/desc;"Loadout unlocked: 114 kg <color=@userlogColoredText>OFAB-100M</color> bomb.
+Loadout unlocked: 114 kg <color=@userlogColoredText>OFAB-100mB</color> bomb.""
 modification/fab_250m_54;FAB-250M-54
-modification/fab_250m_54/desc;Loadout unlocked: 236 kg <color=@userlogColoredText>FAB-250M-54</color> bombs.
+modification/fab_250m_54/desc;Loadout unlocked: 236 kg <color=@userlogColoredText>FAB-250M-54</color> bomb.
 modification/fab_500m_54;FAB-500M-54
-modification/fab_500m_54/desc;Loadout unlocked: 478 kg <color=@userlogColoredText>FAB-500M-54</color> bombs.
+modification/fab_500m_54/desc;Loadout unlocked: 478 kg <color=@userlogColoredText>FAB-500M-54</color> bomb.
 
 //UK BOMBS
 modification/uk_bomb_520lb;H.E., R.L., 520-lb, Mk. I/N
-modification/uk_bomb_520lb/desc;Loadout unlocked: 238.1 kg <color=@userlogColoredText>Bomb, H.E., R.L., 520-lb, Mk. I/N</color> bombs.
+modification/uk_bomb_520lb/desc;Loadout unlocked: 238.1 kg <color=@userlogColoredText>Bomb, H.E., R.L., 520-lb, Mk. I/N</color> bomb.
 modification/uk_bomb_1650lb;H.E., S.N., 1650-lb
-modification/uk_bomb_1650lb/desc;Loadout unlocked: 748 kg <color=@userlogColoredText>Bomb, H.E., S.N., 1650-lb</color> bombs.
+modification/uk_bomb_1650lb/desc;Loadout unlocked: 748 kg <color=@userlogColoredText>Bomb, H.E., S.N., 1650-lb</color> boms.
 
 //JAPAN BOMBS
 
@@ -68,11 +83,11 @@ modification/uk_bomb_1650lb/desc;Loadout unlocked: 748 kg <color=@userlogColored
 
 //ITALY BOMBS
 modification/su_fab_250_us_mk82;FAB-250M-62 / Mk 82 Mod 0
-modification/su_fab_250_us_mk82/desc;"Loadout unlocked: 227 kg <color=@userlogColoredText>FAB-250M-62</color> bombs.
-Loadout unlocked: 240.9 kg <color=@userlogColoredText>Mk 82 Mod 0</color> bombs."
+modification/su_fab_250_us_mk82/desc;"Loadout unlocked: 227 kg <color=@userlogColoredText>FAB-250M-62</color> bomb.
+Loadout unlocked: 240.9 kg <color=@userlogColoredText>Mk 82 Mod 0</color> bomb."
 modification/su_fab_500_us_mk83;FAB-500M-62 / Mk 83 Mod 0
-modification/su_fab_500_us_mk83/desc;"Loadout unlocked: 508.3 kg <color=@userlogColoredText>FAB-500M-62</color> bombs.
-Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bombs."
+modification/su_fab_500_us_mk83/desc;"Loadout unlocked: 508.3 kg <color=@userlogColoredText>FAB-500M-62</color> bomb.
+Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bomb."
 
 //FRANCE BOMBS
 
@@ -92,7 +107,7 @@ Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bombs.
 
 //UK ROCKETSs
 modification/in_nasser_240;Naṣr 240
-modification/in_nasser_240/desc;Loadout unlocked: <color=@userlogColoredText>Naṣr 240</color> rockets.
+modification/in_nasser_240/desc;Loadout unlocked: <color=@userlogColoredText>Naṣr 240</color> rocket.
 
 //JAPAN ROCKETS
 
@@ -110,15 +125,17 @@ modification/in_nasser_240/desc;Loadout unlocked: <color=@userlogColoredText>Na�
 
 //USA MISSILES
 modification/us_aim_9n;AIM-9N
-modification/us_aim_9n/desc;Loadout unlocked: <color=@userlogColoredText>AIM-9N Sidewinder</color> air-to-air guided missiles.
+modification/us_aim_9n/desc;Loadout unlocked: <color=@userlogColoredText>AIM-9N Sidewinder</color> infrared-guided air-to-air missile.
 modification/us_aim_120c;AIM-120C-5
-modification/us_aim_120c/desc;Allows the installation of <color=@userlogColoredText>AIM-120C-5 AMRAAM</color> air-to-air guided missiles.
+modification/us_aim_120c/desc;Allows the installation of <color=@userlogColoredText>AIM-120C-5 AMRAAM</color> active radar homing air-to-air missile.
 
-//GERMANY MISSILES
+//GERMANY MISSILES"
+modification/sws_flz_lwf_63_75/desc;"Loadout unlocked: <color=@userlogColoredText>Flz Lwf 63/75 ""SIWA""</color> infrared-guided air-to-air missile."
+modification/sws_flz_lwf_63_75;Flz Lwf 63/75
 modification/sws_flz_lwf_ll_64;Flz Lwf LL 64/79
-modification/sws_flz_lwf_ll_64/desc;"Loadout unlocked: <color=@userlogColoredText>Flz Lwf LL 64/79 ""FALCO""</color> air-to-air guided missiles."
+modification/sws_flz_lwf_ll_64/desc;"Loadout unlocked: <color=@userlogColoredText>Flz Lwf LL 64/79 ""FALCO""</color> semi-active radar homing air-to-air missile."
 modification/flz_lwf_lb_66;Flz Lwf LB 66
-modification/flz_lwf_lb_66/desc;"Loadout unlocked: <color=@userlogColoredText>Flz Lwf LB 66 ""NORAS""</color> air-to-ground guided missiles."
+modification/flz_lwf_lb_66/desc;"Loadout unlocked: <color=@userlogColoredText>Flz Lwf LB 66 ""NORAS""</color> radio-guided air-to-ground missile."
 
 //USSR MISSILES
 
@@ -126,9 +143,9 @@ modification/flz_lwf_lb_66/desc;"Loadout unlocked: <color=@userlogColoredText>Fl
 
 //JAPAN MISSILES
 modification/jp_asm1;ASM-1
-modification/jp_asm1/desc;Loadout unlocked: <color=@userlogColoredText>ASM-1</color> anti-ship guided missiles.
+modification/jp_asm1/desc;Loadout unlocked: <color=@userlogColoredText>ASM-1</color> active radar homing anti-ship missile.
 modification/jp_asm2;ASM-2
-modification/jp_asm2/desc;Loadout unlocked: <color=@userlogColoredText>ASM-2</color> anti-ship guided missiles.
+modification/jp_asm2/desc;Loadout unlocked: <color=@userlogColoredText>ASM-2</color> infrared-guided anti-ship missile.
 
 //CHINA MISSILES
 
@@ -137,7 +154,7 @@ modification/jp_asm2/desc;Loadout unlocked: <color=@userlogColoredText>ASM-2</co
 //FRANCE MISSILES
 
 //SWEDEN MISSILES
-modification/swd_rb74m/desc;Loadout unlocked: <color=@userlogColoredText>rb 74 (REMO)</color> infrared-guided air-to-air missiles.
+modification/swd_rb74m/desc;Loadout unlocked: <color=@userlogColoredText>rb 74 (REMO)</color> infrared-guided air-to-air missile.
 modification/swd_rb74m;rb 74 (REMO)
 
 //ISRAEL MISSILES

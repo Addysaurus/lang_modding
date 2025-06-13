@@ -319,7 +319,7 @@ All dates are listed in DD-MM-YYYY format.
         - **7.62 mm SS-77 machine gun** → **Denel Land Systems General Purpose Machine Gun SS77 Mk1**.
         - **30 mm Denel GI-30 cannon** → **Denel Land Systems Linkless CamGun EMAK 30 | GI-30**.
         - **5.25 inch/50 QF Mark I cannon** → **Gun, Q.F., 5.25-inch, Mk. I**.
-        - **381 mm Mk.XXIIb SC APC** → **A.P.C., Mk. XXIIb**.
+        - **381 mm Mk.XXIIb SC APC** → **A.P.C., 15-inch, 6-crh., Mk. XXIIb**.
             - Full ammunition names package: Name → **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb**.
         - **HERL 520 lb Mk.IN** → **H.E., R.L., 520-lb, Mk. I/N**. Long name → **Bomb, H.E., R.L., 520-lb, Mk. I/N**.
         - **1650 lb SNHE** → **H.E., S.N., 1650-lb**. Long name → **Bomb, H.E., S.N., 1650-lb**.
@@ -400,8 +400,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Rbs98 SAM** → **Diehl Defence ML-98 | luftvärnsrobotsystem 98**.
     - **M61**: Long name → **Cannon, 20mm, M61 Vulcan**
     - **M61A1**: Long name → **Cannon, 20mm, M61A1 Vulcan**
-    - **Shell, A.P., Mk. V** → **A.P., Mk. V**. The Full Ammunition Names package name has remained the same.
-    - **Shell, H.E.T., Mk. I** → **H.E.T., Mk. I**. The Full Ammunition Names package name has remained the same.
+    - **Shell, A.P., Mk. V** → **A.P., 6-pr. 6-cwt., Mk. V**. The Full Ammunition Names package name has remained the same.
+    - **Shell, H.E.T., Mk. I** → **H.E.T., 6-pr. 6-cwt., Mk. I**. The Full Ammunition Names package name has remained the same.
     - **155 mm/60 3rd Year Type cannon** → **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō**.
         - Japanese package: Name → **60口径3年式15.5糎砲**.
     - **155 mm Type 0 HE** → **15.5 Sanchi 0 Shiki Tsūjō Dan**.

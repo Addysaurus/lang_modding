@@ -95,7 +95,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Sherman (Hell)** → **M4A3E8(76)W "Hell"**. Statcard name → **United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman "Hell"**.
         - **Hellcat (Hell)** → **M18 GMC "Hell"**. Statcard name → **General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 "Hellcat" "Hell"**.
         - **Skink (Hell)** → **Skink "Hell"**. Statcard name → **Canadian Ministry of Munitions and Supply, Army Engineering Design Branch + Waterloo Manufacturing Company | Tank, Anti-Aircraft, 20mm, Quad, Skink "Hell"**.
-        - **T86** → **T86 GMC**. Statcard name → **United States Army Ordnance Department | Carriage, Motor, Amphibious, 76mm Gun, T86**.
+        - **T86** → **T86 GMC (early)**. Statcard name → **General Motors' Buick Motor Division / United States Army Ordnance Department | Carriage, Motor, Amphibious, 76mm Gun, T86 (early)**.
         - **SLAMRAAM/TADS** → **M1097A2 (AN/MPQ-64)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (AN/MPQ-64 Sentinel)**.
         - **SLAMRAAM/TEL** → **M1097A2 (SLAMRAAM)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**.
         - **PT-95** → **USS PT-95**. Statcard name → **Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-95**.
@@ -415,13 +415,14 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - Update "Leviathans" additions:
-        - All new weapons added in "Leviathans" have had their modifications adjusted accordingly.
+        - All new weapons added in "Leviathans" have had their modifications added accordingly.
         - **FAB-250/Mk82**
         - **FAB-500/Mk83**
 
 - #### Changes:
 
     - Update "Leviathans" changes:
+        - All new weapons added in "Leviathans" have had their modifications adjusted accordingly.
         - **FAB-250/Mk82** → **FAB-250M-62 / Mk 82 Mod 0**.
         - **FAB-500/Mk83** → **FAB-500M-62 / Mk 83 Mod 0**.
     - All other weapons changed in this update have had their modifications adjusted accordingly
@@ -432,12 +433,14 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Leviathans" additions:
         - **AN/AAS-38B**
+        - **AN/MPQ-64**
         - **J/AAQ-2**
 
 - #### Changes:
     
     - Update "Leviathans" changes: 
         - **AN/AAS-38B**: Long name → **AN/AAS-38B NITE Hawk**.
+        - **AN/MPQ-64** → **AN/MPQ-64 Sentinel**.
         - **J/AAQ-2**: Long name → **J/AAQ-2**.
 
 ## 1.12.05 - 22-05-2025

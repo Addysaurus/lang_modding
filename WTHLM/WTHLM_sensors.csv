@@ -48,6 +48,8 @@ sensors/us_sp_radar;SP
 sensors/us_an_apg_59;AN/APG-59 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_59_f_4j;AN/APG-59 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_59u;AN/APG-59U <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_60;AN/APG-60 <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_61;AN/APG-61 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_63;AN/APG-63 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_63_baz;AN/APG-63 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_63_psp;AN/APG-63 (Programmable Signal Processor) <color=#ff6f00>RDR-PD</color>
@@ -69,6 +71,8 @@ sensors/us_an_apg_76_an_asx_1;AN/APG-76 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apq_100;AN/APQ-100 <color=#ff6f00>RDR</color>
 sensors/us_an_apq_120;AN/APQ-120(V)5 <color=#ff6f00>RDR</color>
 sensors/us_an_mpq_64;AN/MPQ-64 Sentinel <color=#ff6f00>RDR-PD</color>
+sensors/us_comanche_fcr;Comanche Radar <color=#ff6f00>RDR-PD</color>
+sensors/de_hensoldt_trml_4b;TRML 4D <color=#ff6f00>RDR-AESA</color>
 sensors/su_sapphire_21;Sapphire-21
 sensors/su_sapphire_23;Sapphire-23D/TP-23
 sensors/su_sapphire_23mla_2;Sapphire-23MLA-2/TP-23M
@@ -81,9 +85,15 @@ sensors/su_v_004;V004 <color=#ff6f00>RDR-PESA</color>
 sensors/su_vn_001;VN001 <color=#ff6f00>RDR-AESA</color>
 sensors/jp_awg_11;J/AWG-11
 sensors/jp_awg_12;J/AWG-12
+sensors/jp_j_apg_1;J/APG-1 <color=#ff6f00>RDR-AESA</color>
+sensors/jp_j_apg_2;J/APG-2 <color=#ff6f00>RDR-AESA</color>
+sensors/jp_type_81_search;81 Shiki Tankyorichi Taikū Yūdōdan C Gata Ta Kinō Rēdā <color=#ff6f00>RDR-PESA</color>
 sensors/fr_thales_rbe2;RBE2-AA <color=#ff6f00>RDR-AESA</color>
+sensors/sw_giraffe_1x;Giraffe 1X <color=#ff6f00>RDR-AESA</color>
+sensors/il_spyder_search;Enhanced & Extended Multi-Mission Hemispheric Radar <color=#ff6f00>RDR-AESA</color>
 
 //RWRs
+sensors/us_an_alr_56a;AN/ALR-56A <color=#ff6f00>RWR</color>
 sensors/su_spo-2;SPO-2
 sensors/su_spo-10;SPO-10
 sensors/su_spo-15;SPO-15

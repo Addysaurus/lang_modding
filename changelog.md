@@ -47,6 +47,8 @@ All dates are listed in DD-MM-YYYY format.
         - **F-5E** (Germany / Switzerland)
         - **F/A-18C** (Germany / Switzerland)
         - **F/A-18C Late** (Germany / Switzerland)
+        - **IRIS-T SLM/TADS**
+        - **IRIS-T SLM/TEL**
         - **Gneisenau**
         - **Bismarck**
         - **L-39ZA Albatros**
@@ -91,7 +93,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Leviathans" changes (all folders have been adjusted accordingly):
         - **SC-1**: Statcard name → **Curtiss-Wright Corporation | SC-1 Seahawk**.
-        - **RAH-66** → **YRAH-66A (94-0327)**. Statcard name → **Boeing Rotorcraft Systems + Sikorsky Aircraft | Helicopter, Reconnaissance/Attack, YRAH-66A Comanche (94-0327)**.
+        - **RAH-66** → **YRAH-66A (2000)**. Statcard name → **Boeing Rotorcraft Systems + Sikorsky Aircraft | Helicopter, Reconnaissance/Attack, YRAH-66A Comanche (2000)**.
         - **Sherman (Hell)** → **M4A3E8(76)W "Hell"**. Statcard name → **United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman "Hell"**.
         - **Hellcat (Hell)** → **M18 GMC "Hell"**. Statcard name → **General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 "Hellcat" "Hell"**.
         - **Skink (Hell)** → **Skink "Hell"**. Statcard name → **Canadian Ministry of Munitions and Supply, Army Engineering Design Branch + Waterloo Manufacturing Company | Tank, Anti-Aircraft, 20mm, Quad, Skink "Hell"**.
@@ -105,6 +107,8 @@ All dates are listed in DD-MM-YYYY format.
         - **F-5E** (Germany / Switzerland): Statcard name → **Northrop Corporation F-5-21 | F-5E Tiger II**.
         - **F/A-18C** (Germany / Switzerland): Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System | F/A-18C Hornet**.
         - **F/A-18C Late** (Germany / Switzerland) → **F/A-18C (Upgrade 25)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A-18C Hornet (Upgrade 25)**.
+        - **IRIS-T SLM/TADS** → **LV IRIS-T SLM (Radarfahrzeug)**. Statcard name → **Diehl Defence | Luftverteidigungssysteme IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Radarfahrzeug)**.
+        - **IRIS-T SLM/TEL** → **LV IRIS-T SLM (Startfahrzeug)**. Statcard name → **Diehl Defence | Luftverteidigungssysteme IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Startfahrzeug)**.
         - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Klasse Scharnhorst | Gneisenau (1943)**.
         - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Klasse Bismarck | Bismarck**.
         - **Carrier** (it's the Admiral Kuznyeczov) → **Admiral Flota Sovyetskogo Soûza Kuznyeczov**. Statcard name → **Čyernomorskij sudostroityel'nyj zavod | Tâžëlyj Avianyesuŝij Kryejsyer Proyekt 1143.5 Kryečyet | Admiral Flota Sovyetskogo Soûza Kuznyeczov**.
@@ -427,21 +431,51 @@ All dates are listed in DD-MM-YYYY format.
         - **FAB-500/Mk83** → **FAB-500M-62 / Mk 83 Mod 0**.
     - All other weapons changed in this update have had their modifications adjusted accordingly
 
+### Engines:
+
+- #### Additions:
+
+    - Update "Leviathans" additions:
+        - **Cummins** (manufacturer)
+        - **Navistar** (manufacturer)
+        - **MAN** (manufacturer)
+
+- #### Changes:
+
+    - Update "Leviathans" changes:
+        - **Navistar** (manufacturer) → **Navistar International Corporation**.
+        - **MAN** (manufacturer) → **MAN Truck & Bus**.
+
 ### Sensors:
 
 - #### Additions:
 
     - Update "Leviathans" additions:
         - **AN/AAS-38B**
+        - **AN/APG-60**
+        - **AN/APG-61**
         - **AN/MPQ-64**
+        - **CR**
+        - **AN/ALR-56A**
+        - **TRML-4D**
         - **J/AAQ-2**
+        - **J/APG-1**
+        - **J/APG-2**
+        - **sensors/jp_type_81_search**
+        - **Giraffe 1X**
+        - **SPIDER AIO TA**
 
 - #### Changes:
     
     - Update "Leviathans" changes: 
         - **AN/AAS-38B**: Long name → **AN/AAS-38B NITE Hawk**.
         - **AN/MPQ-64** → **AN/MPQ-64 Sentinel**.
+        - **CR** → **Comanche Radar**.
+        - **TRML-4D** → **TRML 4D**.
         - **J/AAQ-2**: Long name → **J/AAQ-2**.
+        - **Type 81 TA** → **81 Shiki Tankyorichi Taikū Yūdōdan C Gata Ta Kinō Rēdā**.
+            - Japanese package: Name → **81式短距離地対空誘導弾C型多機能レーダー**.
+        - **SPIDER AIO TA** → **Enhanced & Extended Multi-Mission Hemispheric Radar**.
 
 ## 1.12.05 - 22-05-2025
 

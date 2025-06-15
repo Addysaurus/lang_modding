@@ -82,7 +82,10 @@ engine_manufacturer/iveco;Manufacturer: IVECO
 engine_manufacturer/general_motors;Manufacturer: General Motors
 engine_manufacturer/eurojet;Manufacturer: EuroJet Turbo
 engine_manufacturer/volvo;Manufacturer: Volvo
-transmission_manufacturer/zf;Manufacturer: ZF Friedrichshafen
+engine_manufacturer/cummins;Manufacturer: Cummins
+engine_manufacturer/navistar;Manufacturer: Navistar International Corporation
+engine_manufacturer/man;Manufacturer: MAN Truck & Bus
+
 //ENGINES;
 engine_model/jumo004d;"
 Engine model: Jumo 004D"
@@ -1396,12 +1399,15 @@ engine_model/bd;"
 Engine model: 8Bd"
 engine_model/orpheus_mk_703;"
 Engine model: Orpheus Mk. 703"
+
 //TRANSMISSION MANUFACTURERS;
 transmission_manufacturer/allison;Manufacturer: Allison
 transmission_manufacturer/perkins;Manufacturer: Perkins
 transmission_manufacturer/david_brown;Manufacturer: David Brown
 transmission_manufacturer/renk;Manufacturer: Renk
 transmission_manufacturer/sesm;Manufacturer: SESM
+transmission_manufacturer/zf;Manufacturer: ZF Friedrichshafen
+
 //TRANSMISSIONS;
 transmission_type/auto;Automatic
 transmission_type/mech;Mechanical

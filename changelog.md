@@ -439,12 +439,17 @@ All dates are listed in DD-MM-YYYY format.
         - **Cummins** (manufacturer)
         - **Navistar** (manufacturer)
         - **MAN** (manufacturer)
+        - **Ivchenko** (manufacturer)
+        - **Orenda** (manufacturer)
+        - **MaxxForce 13**
 
 - #### Changes:
 
     - Update "Leviathans" changes:
         - **Navistar** (manufacturer) → **Navistar International Corporation**.
         - **MAN** (manufacturer) → **MAN Truck & Bus**.
+        - **Ivchenko** (manufacturer) → **Zaporožskoye mašinostroityel'noye konstruktorskoye bûro "Progryess" imyeni akadyemika A. G. Ivčyenko**.
+        - **Orenda** (manufacturer) → **Orenda Engines**.
 
 ### Sensors:
 
@@ -458,6 +463,7 @@ All dates are listed in DD-MM-YYYY format.
         - **CR**
         - **AN/ALR-56A**
         - **TRML-4D**
+        - **L-370-5**
         - **J/AAQ-2**
         - **J/APG-1**
         - **J/APG-2**
@@ -472,10 +478,12 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/MPQ-64** → **AN/MPQ-64 Sentinel**.
         - **CR** → **Comanche Radar**.
         - **TRML-4D** → **TRML 4D**.
+        - **L-370-5** → **L-370-5L**.
         - **J/AAQ-2**: Long name → **J/AAQ-2**.
         - **Type 81 TA** → **81 Shiki Tankyorichi Taikū Yūdōdan C Gata Ta Kinō Rēdā**.
             - Japanese package: Name → **81式短距離地対空誘導弾C型多機能レーダー**.
         - **SPIDER AIO TA** → **Enhanced & Extended Multi-Mission Hemispheric Radar**.
+    - Formatting corrected for the **M-82FN** engine.
 
 ## 1.12.05 - 22-05-2025
 

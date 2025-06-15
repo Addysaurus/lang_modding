@@ -1,5 +1,5 @@
 <ID|readonly|noverify>;<English>
-//ENGINE MANUFACTURERS;
+//ENGINE MANUFACTURERS
 engine_manufacturer/maybach;Manufacturer: Maybach
 engine_manufacturer/gnome_et_rhone;Manufacturer: Gnome et Rhône
 engine_manufacturer/junkers;Manufacturer: Junkers
@@ -85,8 +85,10 @@ engine_manufacturer/volvo;Manufacturer: Volvo
 engine_manufacturer/cummins;Manufacturer: Cummins
 engine_manufacturer/navistar;Manufacturer: Navistar International Corporation
 engine_manufacturer/man;Manufacturer: MAN Truck & Bus
+engine_manufacturer/ivchenko;"Zaporožskoye mašinostroityel'noye konstruktorskoye bûro ""Progryess"" imyeni akadyemika A. G. Ivčyenko"
+engine_manufacturer/orenda;Orenda Engines
 
-//ENGINES;
+//ENGINES
 engine_model/jumo004d;"
 Engine model: Jumo 004D"
 engine_model/14m4/5;"
@@ -115,7 +117,8 @@ engine_model/M-82;"
 Engine model: M-82"
 engine_model/M-82-f;"
 Engine model: M-82F"
-engine_model/M-82-fn;M-82FN
+engine_model/M-82-fn;"
+Engine model: M-82FN"
 engine_model/rd-10;"
 Engine model: RD-10"
 engine_model/rd-500;"
@@ -1399,8 +1402,10 @@ engine_model/bd;"
 Engine model: 8Bd"
 engine_model/orpheus_mk_703;"
 Engine model: Orpheus Mk. 703"
+engine_model/maxxforce_13;"
+Engine model: MaxxForce 13"
 
-//TRANSMISSION MANUFACTURERS;
+//TRANSMISSION MANUFACTURERS
 transmission_manufacturer/allison;Manufacturer: Allison
 transmission_manufacturer/perkins;Manufacturer: Perkins
 transmission_manufacturer/david_brown;Manufacturer: David Brown
@@ -1408,7 +1413,7 @@ transmission_manufacturer/renk;Manufacturer: Renk
 transmission_manufacturer/sesm;Manufacturer: SESM
 transmission_manufacturer/zf;Manufacturer: ZF Friedrichshafen
 
-//TRANSMISSIONS;
+//TRANSMISSIONS
 transmission_type/auto;Automatic
 transmission_type/mech;Mechanical
 transmission_model/x_1100_3b;X-1100-3B

@@ -442,6 +442,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Ivchenko** (manufacturer)
         - **Orenda** (manufacturer)
         - **MaxxForce 13**
+        - **ISBe 285**
 
 - #### Changes:
 
@@ -450,6 +451,7 @@ All dates are listed in DD-MM-YYYY format.
         - **MAN** (manufacturer) → **MAN Truck & Bus**.
         - **Ivchenko** (manufacturer) → **Zaporožskoye mašinostroityel'noye konstruktorskoye bûro "Progryess" imyeni akadyemika A. G. Ivčyenko**.
         - **Orenda** (manufacturer) → **Orenda Engines**.
+        - **ISBe 285** → **ISBe6.7 285**. Why did I get involved in renaming engines? These little fuckers have no rhyme or reason.
 
 ### Sensors:
 

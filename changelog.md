@@ -469,7 +469,8 @@ All dates are listed in DD-MM-YYYY format.
         - **J/AAQ-2**
         - **J/APG-1**
         - **J/APG-2**
-        - **sensors/jp_type_81_search**
+        - **Type 81 TA**
+        - **DIRCM** (unnamed (as in, the name isn't publically known) DIRCM for the **Z10ME-02**)
         - **Giraffe 1X**
         - **SPIDER AIO TA**
 

@@ -38,8 +38,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Hellcat (Hell)**
         - **Skink (Hell)**
         - **T86**
-        - **SLAMRAAM/TADS**
-        - **SLAMRAAM/TEL**
+        - **SLAMRAAM (TADS)**
+        - **SLAMRAAM (TEL)**
         - **PT-95**
         - **USS Iowa**
         - **Hunter F.58A (1971)** (Germany / Switzerland)
@@ -47,8 +47,8 @@ All dates are listed in DD-MM-YYYY format.
         - **F-5E** (Germany / Switzerland)
         - **F/A-18C** (Germany / Switzerland)
         - **F/A-18C Late** (Germany / Switzerland)
-        - **IRIS-T SLM/TADS**
-        - **IRIS-T SLM/TEL**
+        - **IRIS-T SLM (TADS)**
+        - **IRIS-T SLM (TEL)**
         - **Gneisenau**
         - **Bismarck**
         - **L-39ZA Albatros**
@@ -67,8 +67,8 @@ All dates are listed in DD-MM-YYYY format.
         - **HMS Vanguard**
         - **F-2A**
         - **F-2A ADTW**
-        - **Tan-SAM kai/TADS**
-        - **Tan-SAM kai/TEL**
+        - **Tan-SAM kai (TADS)**
+        - **Tan-SAM kai (TEL)**
         - **IJN Yukikaze**
         - **Yamato**
         - **CS/SA5**
@@ -98,8 +98,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Hellcat (Hell)** → **M18 GMC "Hell"**. Statcard name → **General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 "Hellcat" "Hell"**.
         - **Skink (Hell)** → **Skink "Hell"**. Statcard name → **Canadian Ministry of Munitions and Supply, Army Engineering Design Branch + Waterloo Manufacturing Company | Tank, Anti-Aircraft, 20mm, Quad, Skink "Hell"**.
         - **T86** → **T86 GMC (early)**. Statcard name → **General Motors' Buick Motor Division / United States Army Ordnance Department | Carriage, Motor, Amphibious, 76mm Gun, T86 (early)**.
-        - **SLAMRAAM/TADS** → **M1097A2 (AN/MPQ-64)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (AN/MPQ-64 Sentinel)**.
-        - **SLAMRAAM/TEL** → **M1097A2 (SLAMRAAM)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**.
+        - **SLAMRAAM (TADS)** → **M1097A2 (AN/MPQ-64)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (AN/MPQ-64 Sentinel)**.
+        - **SLAMRAAM (TEL)** → **M1097A2 (SLAMRAAM)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**.
         - **PT-95** → **USS PT-95**. Statcard name → **Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-95**.
         - **USS Iowa** → **USS Iowa (BB-61)**. Statcard name → **Brooklyn Navy Yard / Hunters Point Naval Shipyard | Iowa-class Battleship | USS Iowa (BB-61) (1945)**.
         - **Hunter F.58A (1971)** (Germany / Switzerland) → **Hunter Mk. 58A**. Statcard name → **Hawker Siddeley Aviation | Hunter Mk. 58A**.
@@ -107,8 +107,8 @@ All dates are listed in DD-MM-YYYY format.
         - **F-5E** (Germany / Switzerland): Statcard name → **Northrop Corporation F-5-21 | F-5E Tiger II**.
         - **F/A-18C** (Germany / Switzerland): Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System | F/A-18C Hornet**.
         - **F/A-18C Late** (Germany / Switzerland) → **F/A-18C (Upgrade 25)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A-18C Hornet (Upgrade 25)**.
-        - **IRIS-T SLM/TADS** → **LV IRIS-T SLM (Radarfahrzeug)**. Statcard name → **Diehl Defence | Luftverteidigungssysteme IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Radarfahrzeug)**.
-        - **IRIS-T SLM/TEL** → **LV IRIS-T SLM (Startfahrzeug)**. Statcard name → **Diehl Defence | Luftverteidigungssysteme IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Startfahrzeug)**.
+        - **IRIS-T SLM (TADS)** → **LV IRIS-T SLM (Radarfahrzeug)**. Statcard name → **Diehl Defence | Luftverteidigungssysteme IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Radarfahrzeug)**.
+        - **IRIS-T SLM (TEL)** → **LV IRIS-T SLM (Startfahrzeug)**. Statcard name → **Diehl Defence | Luftverteidigungssysteme IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Startfahrzeug)**.
         - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Klasse Scharnhorst | Gneisenau (1943)**.
         - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Klasse Bismarck | Bismarck**.
         - **Carrier** (it's the Admiral Kuznyeczov) → **Admiral Flota Sovyetskogo Soûza Kuznyeczov**. Statcard name → **Čyernomorskij sudostroityel'nyj zavod | Tâžëlyj Avianyesuŝij Kryejsyer Proyekt 1143.5 Kryečyet | Admiral Flota Sovyetskogo Soûza Kuznyeczov**.
@@ -129,9 +129,9 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Statcard name → **General Dynamics Corporation F-16 Agile Falcon / 三菱重工業 | F-2A-MIT (C10ロット)**.
         - **F-2A ADTW** → **XF-2A-MIT (Hi Kai Ji Dan)**. Statcard name → **General Dynamics Corporation F-16 Agile Falcon / Mitsubishi Jū Kōgyō | XF-2A-MIT (Hikō Kaihatsu Jikken Dan)**.
             - Japanese package: Statcard name → **General Dynamics Corporation F-16 Agile Falcon / 三菱重工業 | XF-2A-MIT (飛行開発実験団)**.
-        - **Tan-SAM kai/TADS** → **81 Shiki (C) Sha Tō Sō**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Shageki Tōsei Sōchi "Shōto Arō"**
+        - **Tan-SAM kai (TADS)** → **81 Shiki (C) Sha Tō Sō**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Shageki Tōsei Sōchi "Shōto Arō"**
             - Japanese package: Short name → **81式 (C) 射統装**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型射撃統制装置「ショートアロー」**.
-        - **Tan-SAM kai/TEL** → **81 Shiki (C) Kadaibu**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Kadaibu "Shōto Arō"**
+        - **Tan-SAM kai (TEL)** → **81 Shiki (C) Kadaibu**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Kadaibu "Shōto Arō"**
             - Japanese package: Short name → **81式 (C) 架台部**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型架台部「ショートアロー」**.
         - **IJN Yukikaze** → **Yukikaze**. Statcard name → **Sasebo Kaigun Kōshō / Kure Kaigun Kōshō | Ittō Kuchikukan | Kagerō Gata Kuchikukan (F-49) | Yukikaze (1943)**.
             - Japanese package: Short name → **雪風**. Statcard name → **佐世保海軍工廠 / 呉海軍工廠 | 一等駆逐艦 | 陽炎型駆逐艦 (F-49) | 雪風 (1943)**.
@@ -185,7 +185,10 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Leviathans" additions:
         - **AIM-9N**
         - **AIM-9X**
+        - **AIM-9X SAM**
         - **AIM-120C-5**
+        - **AIM-120C-7**
+        - **AIM-120 SAM**
         - **M61A2**
         - **20 mm XM301 cannon**
         - **16 inch/50 Mk.7 cannon**
@@ -281,6 +284,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AIM-9X** → **AIM-9X-1**.
             - Full ammunition names package: Name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder**.
         - **AIM-120C-5**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM**.
+        - **AIM-120C-7**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-7 AMRAAM**.
         - **M61A2**: Long name → **Cannon, 20mm, M61A2**.
         - **20mm XM301 cannon** → **Cannon, 20mm, XM301**.
         - **16 inch/50 Mk.7 cannon** → **16"/50 Mk 7 Mod 0**.
@@ -473,7 +477,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Type 81 TA**
         - **DIRCM** (unnamed (as in, the name isn't publically known) DIRCM for the **Z10ME-02**)
         - **Giraffe 1X**
-        - **SPIDER AIO TA**
+        - **exMHR**
 
 - #### Changes:
     
@@ -486,7 +490,7 @@ All dates are listed in DD-MM-YYYY format.
         - **J/AAQ-2**: Long name → **J/AAQ-2**.
         - **Type 81 TA** → **81 Shiki Tankyorichi Taikū Yūdōdan C Gata Ta Kinō Rēdā**.
             - Japanese package: Name → **81式短距離地対空誘導弾C型多機能レーダー**.
-        - **SPIDER AIO TA** → **Enhanced & Extended Multi-Mission Hemispheric Radar**.
+        - **exMHR** → **Enhanced & Extended Multi-Mission Hemispheric Radar**.
     - Formatting corrected for the **M-82FN** engine.
 
 ## 1.12.05 - 22-05-2025

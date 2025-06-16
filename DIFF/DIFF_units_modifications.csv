@@ -3,10 +3,12 @@ modification/uk_bomb_520lb;HERL 520lb Mk.IN
 modification/uk_bomb_520lb/desc;Allows the installation of additional 520 lb bombs.
 modification/uk_bomb_1650lb;1650lb SNHE
 modification/uk_bomb_1650lb/desc;Allows the installation of additional 1650 lb bombs.
-modification/j_aaq_2_pod/desc;Allows the installation of a J/AAQ-2 laser/electro-optical targeting pod.
+modification/j_aaq_2_pod/desc;Allows the installation of a J/AAQ-2 electro-optical targeting pod.
 modification/j_aaq_2_pod;J/AAQ-2
 modification/us_an_aas_38b_pod/desc;Allows the installation of an AN/AAS-38B laser/electro-optical targeting pod.
 modification/us_an_aas_38b_pod;AN/AAS-38B
+modification/sniper_atp_pod/desc;Allows the installation of an Sniper laser/electro-optical targeting pod.
+modification/sniper_atp_pod;Sniper
 modification/flz_lwf_lb_66;Flz Lwf LB 66
 modification/flz_lwf_lb_66/desc;Allows the installation of Flz Lwf LB 66 guided missiles.
 modification/jp_asm1;ASM-1
@@ -17,7 +19,7 @@ sensors/us_an_mpq_64;AN/MPQ-64
 sensors/de_hensoldt_trml_4b;TRML-4D
 sensors/jp_type_81_search;Type 81 TA
 sensors/sw_giraffe_1x;Giraffe 1X
-sensors/il_spyder_search;SPIDER AIO TA
+sensors/il_spyder_search;exMHR
 sensors/cn_pgz_625_search;PGZ-625 TA
 sensors/cn_pgz_625_track;PGZ-625 TT
 sensors/us_an_alr_56a;AN/ALR-56A
@@ -34,6 +36,8 @@ engine_model/wp_13;WP13.550/605
 engine_manufacturer/man;MAN
 engine_model/d2066;D2066
 engine_model/r-1820-62;Cyclone R-1820-62
+37mm_AN_M4_naval_HE/name;37 mm HE
+37mm_AN_M4_naval_AP/name;37 mm AP-T
 modification/ofab_100m_mb/desc;Allows the installation of 100 kg bombs.
 modification/ofab_100m_mb;OFAB-100M/MB
 modification/fab_250m_54/desc;Allows the installation of 250 kg bombs.
@@ -52,6 +56,8 @@ modification/us_aim_9n/desc;Allows the installation of AIM-9N air-to-air missile
 modification/us_aim_9n;AIM-9N
 modification/sws_flz_lwf_63_75/desc;Allows the installation of Flz Lwf 63/75 air-to-air missiles.
 modification/sws_flz_lwf_63_75;Flz Lwf 63/75
+engine_manufacturer/saurer;Saurer
+engine_model/ys-2;YS-2
 counterMeasures/cn_z_10me;DIRCM
 counterMeasures/l_370v28_5l;L-370V28-5L
 modification/381mm_uk_bl_mk1_6crh_22b_navy_apc;15-inch 6crh Mark XXIIb APC
@@ -75,4 +81,5 @@ engine_manufacturer/ivchenko;Ivchenko
 engine_model/j85_can_15;J85-CAN-15
 engine_manufacturer/orenda;Orenda
 engine_model/t800_lht_801;T800-LHT-801
+aps/arena_m;Arena-M
 engine_model/wz-9c;WZ-9C

@@ -2,13 +2,16 @@
 ships/ussr_aircraftcarrier_admiral_kuznetsov_0;Carrier
 ships/ussr_aircraftcarrier_admiral_kuznetsov_1;Carrier
 ships/ussr_aircraftcarrier_admiral_kuznetsov_2;Carrier
-jp_type_81_tansam_fcs_shop;Tan-SAM kai/TADS
-jp_type_81_tansam_fcs_0;Tan-SAM kai, Target acquisition and designation system
-jp_type_81_tansam_fcs_1;Tan-SAM kai/TADS
+ships/jp_aircraftcarrier_shokaku_0;Carrier
+ships/jp_aircraftcarrier_shokaku_1;Carrier
+ships/jp_aircraftcarrier_shokaku_2;Carrier
+jp_type_81_tansam_fcs_shop;Tan-SAM Kai (TADS)
+jp_type_81_tansam_fcs_0;Tan-SAM Kai, Target acquisition and designation system
+jp_type_81_tansam_fcs_1;Tan-SAM Kai (TADS)
 jp_type_81_tansam_fcs_2;TADS
-jp_type_81_tansam_launcher_shop;Tan-SAM kai/TEL
-jp_type_81_tansam_launcher_0;Tan-SAM kai, Transporter erector launcher
-jp_type_81_tansam_launcher_1;Tan-SAM kai/TEL
+jp_type_81_tansam_launcher_shop;Tan-SAM Kai (TEL)
+jp_type_81_tansam_launcher_0;Tan-SAM Kai, Transporter erector launcher
+jp_type_81_tansam_launcher_1;Tan-SAM Kai (TEL)
 jp_type_81_tansam_launcher_2;TEL
 shop/group/us_kit_3rank_group;Hell on Wheels
 shop/group/ussr_kit_3rank_group;In May 1945
@@ -55,13 +58,13 @@ us_skink_aa_kit_3rank_shop;▃Skink (Hell)
 us_skink_aa_kit_3rank_0;▃Skink, Tank, Anti-Aircraft, 20 mm, Quad (Hell)
 us_skink_aa_kit_3rank_1;▃Skink (Hell)
 us_skink_aa_kit_3rank_2;SPAA
-germ_iris_slm_launcher_shop;IRIS-T SLM/TEL
+germ_iris_slm_launcher_shop;IRIS-T SLM (TEL)
 germ_iris_slm_launcher_0;IRIS-T SLM, Transporter erector launcher
-germ_iris_slm_launcher_1;IRIS-T SLM/TEL
+germ_iris_slm_launcher_1;IRIS-T SLM (TEL)
 germ_iris_slm_launcher_2;TEL
-germ_iris_slm_fcs_shop;IRIS-T SLM/TADS
+germ_iris_slm_fcs_shop;IRIS-T SLM (TADS)
 germ_iris_slm_fcs_0;IRIS-T SLM, Target acquisition and designation system
-germ_iris_slm_fcs_1;IRIS-T SLM/TADS
+germ_iris_slm_fcs_1;IRIS-T SLM (TADS)
 germ_iris_slm_fcs_2;TADS
 fr_msc_shop;MSC
 fr_msc_0;Mulet Systéme Complet
@@ -79,6 +82,10 @@ hunter_f58a_1971_switzerland_shop;◌Hunter F.58A (1971)
 hunter_f58a_1971_switzerland_0;◌Hunter F.58A (1971)
 hunter_f58a_1971_switzerland_1;◌Hunter F
 hunter_f58a_1971_switzerland_2;◌Hunter
+c_3604_shop;◌С-3604
+c_3604_0;◌С-3604
+c_3604_1;◌С-3604
+c_3604_2;◌С-3604
 f-5e_switzerland_shop;◌F-5E
 f-5e_switzerland_0;◌F-5E Tiger II
 f-5e_switzerland_1;◌F-5E
@@ -111,13 +118,13 @@ z_10me_shop;Z-10ME
 z_10me_0;Z-10ME
 z_10me_1;Z-10ME
 z_10me_2;Z-10
-us_sl_amraam_fcs_shop;CLAWS/TADS
+us_sl_amraam_fcs_shop;CLAWS (TADS)
 us_sl_amraam_fcs_0;M1097A2 CLAWS Target acquisition and designation system
-us_sl_amraam_fcs_1;CLAWS/TADS
+us_sl_amraam_fcs_1;CLAWS (TADS)
 us_sl_amraam_fcs_2;TADS
-us_sl_amraam_launcher_shop;CLAWS/TEL
+us_sl_amraam_launcher_shop;CLAWS (TEL)
 us_sl_amraam_launcher_0;M1097A2 CLAWS Transporter erector launcher
-us_sl_amraam_launcher_1;CLAWS/TEL
+us_sl_amraam_launcher_1;CLAWS (TEL)
 us_sl_amraam_launcher_2;TEL
 mig_29_9_12_sniper_shop;MiG-29 Sniper
 mig_29_9_12_sniper_0;MiG-29 Sniper
@@ -155,6 +162,14 @@ ussr_aircraftcarrier_admiral_kuznetsov_shop;Admiral Kuznetsov
 ussr_aircraftcarrier_admiral_kuznetsov_0;Admiral Kuznetsov
 ussr_aircraftcarrier_admiral_kuznetsov_1;Admiral Kuznetsov
 ussr_aircraftcarrier_admiral_kuznetsov_2;Carrier
+jp_aircraftcarrier_shokaku_shop;IJN Shokaku
+jp_aircraftcarrier_shokaku_0;Shokaku-class,IJN Shokaku
+jp_aircraftcarrier_shokaku_1;IJN Shokaku
+jp_aircraftcarrier_shokaku_2;Carrier
+shop/group/germ_cruiser_leipzig_nurnberg_group;Leipzig/Nurnberg
+shop/group/us_cruiser_northampton_pensacola_group;USS Northampton/Portland/Pensacola
+shop/group/ussr_cruiser_chapaev_kutuzov_group;Project 68
+shop/group/jp_cruiser_furutaka_aoba_group;IJN Furutaka/Aoba
 ussr_battleship_pr23_sovetskij_soyuz_shop;Sovetsky Soyuz
 ussr_battleship_pr23_sovetskij_soyuz_0;Project 23, Sovetsky Soyuz, project
 ussr_battleship_pr23_sovetskij_soyuz_1;Sovetsky Soyuz

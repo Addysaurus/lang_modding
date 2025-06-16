@@ -42,6 +42,7 @@ All dates are listed in DD-MM-YYYY format.
         - **SLAMRAAM (TEL)**
         - **PT-95**
         - **USS Iowa**
+        - **C-3604**
         - **Hunter F.58A (1971)** (Germany / Switzerland)
         - **Mirage *IIIS C.70** (Germany / Switzerland)
         - **F-5E** (Germany / Switzerland)
@@ -102,6 +103,7 @@ All dates are listed in DD-MM-YYYY format.
         - **SLAMRAAM (TEL)** → **M1097A2 (SLAMRAAM)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**.
         - **PT-95** → **USS PT-95**. Statcard name → **Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-95**.
         - **USS Iowa** → **USS Iowa (BB-61)**. Statcard name → **Brooklyn Navy Yard / Hunters Point Naval Shipyard | Iowa-class Battleship | USS Iowa (BB-61) (1945)**.
+        - **C-3604** → **Flz. C-3604**. Statcard name → **Eidgenössisches Flugzeugwerk | Flugzeug C-3604**.
         - **Hunter F.58A (1971)** (Germany / Switzerland) → **Hunter Mk. 58A**. Statcard name → **Hawker Siddeley Aviation | Hunter Mk. 58A**.
         - **Mirage *IIIS C.70** (Germany / Switzerland) → **Mirage III S C.70**. Statcard name → **Avions Marcel Dassault / Eidgenössisches Flugzeugwerk | Mirage III S C.70 "MIRO"**.
         - **F-5E** (Germany / Switzerland): Statcard name → **Northrop Corporation F-5-21 | F-5E Tiger II**.
@@ -199,6 +201,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Lwf LL 64/79**
         - **Flz Lwf LL 97 AMRAAM**
         - **Flz Lwf LL 97 AMRAAM 120C-5**
+        - **Fl.Mg.29**
+        - **Beob.-Doppel.-Mg.29**
         - **Flz Kan 65**
         - **Flz Kan 76**
         - **Flz Kan 92**
@@ -267,7 +271,7 @@ All dates are listed in DD-MM-YYYY format.
             - **API-T**
             - **AP-I**
             - **T**
-            - **AP-I(c)**
+            - **14.5 mm AP-I(c)**
             - **API**
             - **OR-281U**
             - **BR-281U**
@@ -281,23 +285,24 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Leviathans" changes:
         - **AIM-9N**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder**.
-        - **AIM-9X** → **AIM-9X-1**.
-            - Full ammunition names package: Name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder**.
+        - **AIM-9X** → **AIM-9X-1 (OFS 8.212)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder (OFS 8.212)**.
         - **AIM-120C-5**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM**.
         - **AIM-120C-7**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-7 AMRAAM**.
         - **M61A2**: Long name → **Cannon, 20mm, M61A2**.
         - **20mm XM301 cannon** → **Cannon, 20mm, XM301**.
         - **16 inch/50 Mk.7 cannon** → **16"/50 Mk 7 Mod 0**.
-        - **Flz Lwf LL 63/75**: Long name → **Flugzeug Lenkwaffe Luft-Luft 63/75 "SIWA"**.
-        - **Flz Lwf LL 64/79**: Long name → **Flugzeug Lenkwaffe Luft-Luft 64/79 "FALCO"**.
-        - **Flz Lwf LL 97 AMRAAM**: Long name → **Flugzeug Lenkwaffe Luft-Luft 97 "AMRAAM"**.
-        - **Flz Lwf LL 97 AMRAAM 120C-5** → **Flz Lwf LL AMRAAM 120C-5**. Long name → **Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5**.
+        - **Flz Lwf LL 63/75** → **Flz.Lwf. LL 63/75**. Long name → **Flugzeug Lenkwaffe Luft-Luft 63/75 "SIWA"**.
+        - **Flz Lwf LL 64/79** → **Flz.Lwf. LL 64/79**. Long name → **Flugzeug Lenkwaffe Luft-Luft 64/79 "FALCO"**.
+        - **Flz Lwf LL 97 AMRAAM** → **Flz.Lwf. LL 97**. Long name → **Flugzeug Lenkwaffe Luft-Luft 97 "AMRAAM"**.
+        - **Flz Lwf LL 97 AMRAAM 120C-5** → **Flz.Lwf. LL AMRAAM 120C-5**. Long name → **Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5**.
         - **PGU-32** → **PGU-32/U**.
         - **16 inch Mk.8 Mod.6 APCBC** → **16" A.P. Mk 8 Mod 6**.
-        - **Flz Lwf LB 66**: Long name → **Flugzeug Lenkwaffe Luft-Boden 66 "NORAS"**.
-        - **Flz Kan 76**: Long name → **20mm Flugzeug Kanone 76**.
-        - **Flz Kan 65**: Long name → **30mm Flugzeug Kanone 65**.
-        - **Flz Kan 92**: Long name → **20mm Flugzeug Kanone 92**.
+        - **Flz Lwf LB 66** → **Flz.Lwf. LB 66**. Long name → **Flugzeug Lenkwaffe Luft-Boden 66 "NORAS"**.
+        - **Fl.Mg.29** → **Flab.-Mg. 29**. Long name → **7,5mm Fliegerabwehr-Maschinengewehr 29**.
+        - **Beob.-Doppel.-Mg.29** → **Flab.-D.-Mg. 29**. Long name → **7,5mm Fliegerabwehr-Doppel-Maschinengewehr 29**.
+        - **Flz Kan 65** → **Flz.Kan. 65**. Long name → **30mm Flugzeug Kanone 65**.
+        - **Flz Kan 76** → **Flz.Kan. 76**. Long name → **20mm Flugzeug Kanone 76**.
+        - **Flz Kan 92** → **Flz.Kan. 92**. Long name → **20mm Flugzeug Kanone 92**.
         - **20 mm MG151 autocannon** → **2cm Maschinengewehr 151 Ausf. S**.
         - **IRIS-T SLM SAM** → **IRIS-T SLM Startgerät**.
         - **IRIS-T SL** → **IRIS-T SLM**.
@@ -398,9 +403,9 @@ All dates are listed in DD-MM-YYYY format.
     - **UBS**: Type tag corrected from ACNN to MG.
     - **GAU-19/A**: Type tag corrected from RCNN to MG.
     - **FN MAG 60-40**: Caliber tag corrected from 7.92 mm to 7.62 mm. One of them that was mistakenly called just the **FN MAG** has also been corrected to the **FN MAG 60-40**.
-    - **Flz.Lwf. LL 63** → **Flz Lwf LL 63**. Long name → **Flugzeug Lenkwaffe Luft-Luft 63 "SIWA"**
-    - **Flz.Lwf. LL 63/80** → **Flz Lwf LL 63/80**. Long name → **Flugzeug Lenkwaffe Luft-Luft 63/80 "SIWA"**
-    - **Flz.Lwf. LB 82** → **Flz Lwf LB 82**. Long name → **Flugzeug Lenkwaffe Luft-Boden 82 "MAVERICK"**
+    - **Flz.Lwf. LL 63**: Long name → **Flugzeug Lenkwaffe Luft-Luft 63 "SIWA"**
+    - **Flz.Lwf. LL 63/80**: Long name → **Flugzeug Lenkwaffe Luft-Luft 63/80 "SIWA"**
+    - **Flz.Lwf. LB 82**: Long name → **Flugzeug Lenkwaffe Luft-Boden 82 "MAVERICK"**
     - **81 Shiki Tankyorichi Taikū Yūdōdan C Gata "Shōto Arō"** → **81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi "Shōto Arō"**.
         - Japanese package: Name → **81式短距離地対空誘導弾C型発射装置「ショートアロー」**.
     - **93 Shiki Kinkyorichi Taikū Yūdōdan "Kurōzudo Arō"** → **93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi "Kurōzudo Arō"**.

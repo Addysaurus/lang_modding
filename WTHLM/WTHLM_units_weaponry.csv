@@ -16,14 +16,18 @@ weapons/cannonXM301l;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, XM30
 weapons/406mm_50_mk7_naval_user_cannon;"<color=@userlogColoredText>406 mm</color> 16""/50 Mk 7 Mod 0 <color=#ff6f00>CNN</color>"
 
 //GERMANY GUNS
+weapons/gun_fl_mg_27;<color=@userlogColoredText>7.5 mm</color> 7,5mm Fliegerabwehr-Maschinengewehr 29 <color=#ff6f00>MG</color>
+weapons/gun_fl_mg_27/short;Flab.-Mg. 29
+weapons/gun_mg_29_turret;<color=@userlogColoredText>7.5 mm</color> 7,5mm Fliegerabwehr-Doppel-Maschinengewehr 29 <color=#ff6f00>MG</color>
+weapons/gun_mg_29_turret/short;Flab.-D.-Mg. 29
 weapons/20mm_mg151_20_mid_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/20mm_mg151_20_out_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/cannonM61A2_switzerland;<color=@userlogColoredText>30 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
-weapons/cannonM61A2_switzerland/short;Flz Kan 92
+weapons/cannonM61A2_switzerland/short;Flz.Kan. 92
 weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug Kanone 76 <color=#ff6f00>ACNN</color>
-weapons/cannonFlzKan_76/short;Flz Kan 76
+weapons/cannonFlzKan_76/short;Flz.Kan. 76
 weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
-weapons/cannonDEFA552A_switzerland/short;Flz Kan 65
+weapons/cannonDEFA552A_switzerland/short;Flz.Kan. 65
 
 //USSR GUNS
 weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color> 406-mm/50 B-37 obr. 1937 g. <color=#ff6f00>CNN</color>
@@ -87,8 +91,8 @@ ap_i_ball_b32/name;B-32 Armor-piercing incendiary bullet
 ap_i_ball_b32/name/short;AP-I
 t_ball_t_38/name;T-38 Tracer bullet
 t_ball_t_38/name/short;T
-14mm_api_c;AP-I(c)
-14mm_api;API
+14mm_api_c;14.5 mm AP-I(c)
+14mm_api;14.5 mm API
 20mm_shvak_api;API
 20mm_shvak_apit;API-T
 20mm_shvak_frag;FI
@@ -228,35 +232,39 @@ weapons/fr_sneb_type26_TDA/short;SNEB F1 Type 26P
 //USA MISSILES
 weapons/us_aim9n_sidewinder;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder <color=#ff6f00>AAM-IR</color>
 weapons/us_aim9n_sidewinder/short;AIM-9N
-us_aim_9x;AIM-9X-1
+weapons/us_aim_9x;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder (OFS 8.212)
+weapons/us_aim_9x/short;AIM-9X-1 (OFS 8.212)
+us_aim_9x;AIM-9X-1 (OFS 8.212)
 weapons/us_aim_120c_5;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120c_5/short;AIM-120C-5
 weapons/us_aim_120c_5_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120c_5_default/short;AIM-120C-5
-weapons/us_aim_120c_5_sam;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM <color=#ff6f00>AAM-ARH</color>
-weapons/us_aim_120c_5_sam/short;AIM-120C-5
+weapons/us_aim_120c_7;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-7 AMRAAM <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_120c_7/short;AIM-120C-7
+weapons/us_aim_120c_7_sam;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-7 AMRAAM <color=#ff6f00>SAM-ARH</color>
+weapons/us_aim_120c_7_sam/short;AIM-120C-7
 
 //GERMANY MISSILES
 weapons/sws_flz_lwf_63;"Flugzeug Lenkwaffe Luft-Luft 63 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
-weapons/sws_flz_lwf_63/short;Flz Lwf LL 63
+weapons/sws_flz_lwf_63/short;Flz.Lwf. LL 63
 weapons/sws_flz_lwf_63_75;"Flugzeug Lenkwaffe Luft-Luft 63/75 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
-weapons/sws_flz_lwf_63_75/short;Flz Lwf LL 63/75
+weapons/sws_flz_lwf_63_75/short;Flz.Lwf. LL 63/75
 weapons/sws_flz_lwf_63_80;"Flugzeug Lenkwaffe Luft-Luft 63/80 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
-weapons/sws_flz_lwf_63_80/short;Flz Lwf LL 63/80
+weapons/sws_flz_lwf_63_80/short;Flz.Lwf. LL 63/80
 weapons/sws_flz_lwf_ll_64;"Flugzeug Lenkwaffe Luft-Luft 64/79 ""FALCO"" <color=#ff6f00>AAM-SARH</color>"
-weapons/sws_flz_lwf_ll_64/short;Flz Lwf LL 64/79
+weapons/sws_flz_lwf_ll_64/short;Flz.Lwf. LL 64/79
 weapons/us_aim_120b_switzerland;"Flugzeug Lenkwaffe Luft-Luft 97 ""AMRAAM"" <color=#ff6f00>AAM-ARH</color>"
-weapons/us_aim_120b_switzerland/short;Flz Lwf LL 97
+weapons/us_aim_120b_switzerland/short;Flz.Lwf. LL 97
 weapons/us_aim_120b_default_switzerland;"Flugzeug Lenkwaffe Luft-Luft 97 ""AMRAAM"" <color=#ff6f00>AAM-ARH</color>"
-weapons/us_aim_120b_default_switzerland/short;Flz Lwf LL 97
+weapons/us_aim_120b_default_switzerland/short;Flz.Lwf. LL 97
 weapons/us_aim_120c_5_switzerland;Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5 <color=#ff6f00>AAM-ARH</color>
-weapons/us_aim_120c_5_switzerland/short;Flz Lwf LL AMRAAM 120C-5
+weapons/us_aim_120c_5_switzerland/short;Flz.Lwf. LL AMRAAM 120C-5
 weapons/us_aim_120c_5_default_switzerland;Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5 <color=#ff6f00>AAM-ARH</color>
-weapons/us_aim_120c_5_default_switzerland/short;Flz Lwf LL AMRAAM 120C-5
+weapons/us_aim_120c_5_default_switzerland/short;Flz.Lwf. LL AMRAAM 120C-5
 weapons/fr_as30_switzerland;"Flugzeug Lenkwaffe Luft-Boden 66 ""NORAS"" <color=#ff6f00>AGM-RG</color>"
-weapons/fr_as30_switzerland/short;Flz Lwf LB 66
+weapons/fr_as30_switzerland/short;Flz.Lwf. LB 66
 weapons/sws_flz_lwf_lb_82;"Flugzeug Lenkwaffe Luft-Boden 82 ""MAVERICK"" <color=#ff6f00>AGM-EO</color>"
-weapons/sws_flz_lwf_lb_82/short;Flz Lwf LB 82
+weapons/sws_flz_lwf_lb_82/short;Flz.Lwf. LB 82
 weapons/180mm_IRIS_T_SL_user_cannon;IRIS-T SLM Startgerät
 us_iris_t_sl;IRIS-T SLM
 weapons/us_iris_t_sl/short;IRIS-T SLM

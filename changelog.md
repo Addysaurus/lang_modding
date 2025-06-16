@@ -413,6 +413,7 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: Name → **15.5糎0式通常弾**.
     - **155 mm Type 91 APHE** → **15.5 Sanchi 91 Shiki Tekkō Dan**.
         - Japanese package: Name → **15.5糎91式徹甲弾**.
+    - **45-36АН** → **45-36AN**. This is not a proper rename, this is just correcting the "АН" part which Gaijin left in Russian characters.
 
 ### Modifications:
 

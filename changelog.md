@@ -245,7 +245,7 @@ All dates are listed in DD-MM-YYYY format.
         - **380 mm OPF Mle 1943 APCBC**
         - **Rbs98 SAM**
         - **Python 5**
-        - **Derby** (another one)
+        - **I-Derby SR**
         - **SPYDER** (the launcher for the **SPYDER MFU AiO SR**)
         - **Drop tank (600 gal.)**
         - **Drop tank (275 gal.)**

@@ -38,6 +38,7 @@ weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug K
 weapons/cannonFlzKan_76/short;Flz.Kan. 76
 weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
 weapons/cannonDEFA552A_switzerland/short;Flz.Kan. 65
+weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 (p) <color=#ff6f00>ACNN</color>
 
 //USSR GUNS
 weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color> 406-mm/50 B-37 obr. 1937 g. <color=#ff6f00>CNN</color>
@@ -58,6 +59,7 @@ weapons/460mm_45_type_94_naval_user_cannon/short;45 Kōkei 94 Shiki 40 Sanchi H�
 weapons/30mm_pgz_625_user_cannon;<color=@userlogColoredText>30 mm</color> 630 Xíng 30 Háomi Gāoshè Jīguān Pào <color=#ff6f00>ACNN</color>
 
 //ITALY
+weapons/40mm_39_vickers_terni_mod15_17_modif1930_naval_user_cannon;<color=@userlogColoredText>40 mm</color> Cannone Vickers-Terni da 40/39 modello 1915/1917 <color=#ff6f00>ACNN</color>
 weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredText>381 mm</color> Cannone Ansaldo-O.T.O. da 381/50 modello 1939 <color=#ff6f00>CNN</color>
 
 //FRANCE GUNS
@@ -89,6 +91,9 @@ weapons/380mm_45_mle_1935_naval_user_cannon/short;Canon de 380 mm/45 Mle. 1935
 35_228mm_apds_t_belt;DM 23
 37mm_sprgr_18_belt;3,7cm Sprgr.Patr. 18
 37mm_pzgr_belt;3,7cm Pzgr.Patr. 18
+40mm_bofors_flak28_navy_he_t/name;4cm Pzgr.Patr.L'spur.
+40mm_bofors_mel58_navy_he/name;M-DN51
+40mm_bofors_mel58_navy_he_tf/name;PFHE Mk 2
 88mm_sprgr_dist_fuse;8,8cm Sprgr.Patr. L/4,5 (Kz)
 
 //USSR AMMUNITION
@@ -137,6 +142,8 @@ b_mk_1z/name/short;I
 //ITALY AMMUNITION
 20mm_perforante_m35_belt;Granata perforante da 20 mod. 35
 37mm_breda_navy_he_t/name;37 mm HE-T
+40mm_vickers_terni_mod_1930_he/name;40 mm HE-F
+40mm_vickers_terni_mod_1915_17_he_df/name;40 mm HE-TF
 381mm_50_sapcbc;Granata perforante da 381/50
 381mm_50_apcbc;Palla perforante da 381/50
 
@@ -5194,7 +5201,6 @@ weapons/depth_charge_mk_6/short;Mk. 6
 weapons/20mm_oerlikon_mk2_single_naval_user_cannon;20 mm/70 Oerlikon Mk. II autocannon
 weapons/20mm_oerlikon_mk2_single_naval_user_cannon/short;Oerlikon Mk. II
 weapons/37mm_56_an_m4_naval_user_cannon;37 mm AN-M4 cannon
-weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;4 cm Bofors Flak 28 cannon
 40mm_sprgr_patr_flak28_he;40 mm HE-T
 37mm_m80;M80
 weapons/12_7mm_m2_browning_naval_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, M2 <color=#ff6f00>MG</color>
@@ -5461,7 +5467,6 @@ weapons/105mm_45_skc_32_naval_user_cannon;10.5 cm SK C/32 cannon
 20mm_pzgr_l_spur;20 mm APT
 weapons/40mm_39_vickers_terni_naval_user_cannon;40 mm/39 Vickers-Terni mod.1915/1917 automatic cannon
 weapons/40mm_39_vickers_terni_mod1915_1917_naval_user_cannon;40 mm/39 Vickers-Terni mod.1915/1917 automatic cannon
-weapons/40mm_39_vickers_terni_mod15_17_modif1930_naval_user_cannon;40 mm/39 Vickers-Terni mod.1915/1917, Modif.1930 automatic cannon
 weapons/40mm_39_vickers_terni_mod15_17_naval_user_cannon;40 mm/39 Vickers-Terni mod.1915/1917 automatic cannon
 40mm_vickers_terni_mod30_he;40 mm HE-F
 40mm_vickers_terni_mod15_17_he;40 mm HE-TF

@@ -214,6 +214,8 @@ All dates are listed in DD-MM-YYYY format.
         - **IRIS-T SLM SAM**
         - **IRIS-T SL**
         - **SC1000L2** (another one)
+        - **40 mm HE-T**
+        - **40 mm HE-T-PF**
         - **OFAB-100**
         - **OFAB-100MB**
         - **OFAB-100-110TU**
@@ -275,6 +277,7 @@ All dates are listed in DD-MM-YYYY format.
             - **SprGr**
             - **M-Gesch.**
             - **Pzsprgr.**
+            - **40 mm HE-T**
             - **DM11A1**
             - **IAI**
             - **API-T**
@@ -288,6 +291,8 @@ All dates are listed in DD-MM-YYYY format.
             - **30 mm APT**
             - **30 mm HEI**
             - **30 mm HE-TF**
+            - **40 mm HE-F**
+            - **40 mm HE-TF**
             - **slpprj m/42**
 
 - #### Changes:
@@ -335,8 +340,12 @@ All dates are listed in DD-MM-YYYY format.
         - **Pzsprgr.** → **2cm Pzsprgr.Patr.L'spur.o.Zerl.**.
             - Full ammunition names package: Name → **2cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
             - This 1 belt for the new Soviet multi-vehicle pack **m.S.P.W. D (M.G. 151 S) "In May 1945"** took me 30 damn minutes to find. Shit like this is why this update is late. I hope you're fucking happy with me.
+        - **40 mm HE-T** → **4cm Pzgr.Patr.L'spur.**.
+            - Full ammunition names package: Name → **4cm Panzergranate Patrone Leuchtspur**.
         - **DM11A1** (the new text for the existing belt) → **DM 11 A1**.
         - **DM 23** (the new text for the existing belt) → **DM 23**.
+        - **40 mm HE-T** → **M-DN51**.
+        - **40 mm HE-T-PF**  **PFHE Mk 2**.
         - **SC1000L2** → **S.C. 1000 L2**. Long name → **Sprengbombe Cylindrisch 1000 L2**.
         - **OFAB-100** → **OFAB-100-120**. Long name → **OFAB-100-120**.
         - **OFAB-100MB** → **OFAB-100mB**. Long name → **OFAB-100mB**.
@@ -443,6 +452,8 @@ All dates are listed in DD-MM-YYYY format.
     - **155 mm Type 91 APHE** → **15.5 Sanchi 91 Shiki Tekkō Dan**.
         - Japanese package: Name → **15.5糎91式徹甲弾**.
     - **45-36АН** → **45-36AN**. This is not a proper rename, this is just correcting the "АН" part which Gaijin left in Russian characters.
+    - **4 cm Bofors Flak 28 cannon** → **4cm Flugabwehrkanone 28 (p)**.
+    - **40 mm/39 Vickers-Terni mod.1915/1917, Modif.1930 automatic cannon** → **Cannone Vickers-Terni da 40/39 modello 1915/1917**.
 
 ### Modifications:
 

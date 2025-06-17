@@ -191,6 +191,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AIM-120C-5**
         - **AIM-120C-7**
         - **AIM-120 SAM**
+        - **12.7 mm M2HB machine gun** (another one)
         - **M61A2**
         - **20 mm XM301 cannon**
         - **16 inch/50 Mk.7 cannon**
@@ -202,6 +203,9 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Lwf LL 97 AMRAAM**
         - **Flz Lwf LL 97 AMRAAM 120C-5**
         - **Fl.Mg.29**
+        - **Beob.-Doppel.-Mg.29**
+        - **FFK-HS-45**
+        - **FMK-HS-45**
         - **Beob.-Doppel.-Mg.29**
         - **Flz Kan 65**
         - **Flz Kan 76**
@@ -235,6 +239,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AAM-4** (another one)
         - **ASM-1**
         - **ASM-2**
+        - **Type 81C ARH** (it's another **SAM-1C**)
         - **30 mm PGZ-625 cannon**
         - **DTC10-30**
         - **FB-10A**
@@ -247,6 +252,7 @@ All dates are listed in DD-MM-YYYY format.
         - **380 mm OEA Mle 1949 HE**
         - **380 mm OPF Mle 1936 APCBC**
         - **380 mm OPF Mle 1943 APCBC**
+        - **Smoke** (a new one so the **AMX 30 B2 BRENUS**'s smokes finally have a name)
         - **Rbs98 SAM**
         - **Python 5**
         - **I-Derby SR**
@@ -257,6 +263,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Drop tank (50 gal.)**
         - **Oktogel** (explosive type)
         - **TG-50** (explosive type)
+        - **ARH+IOG+GNSS+DL**
+        - **IR+IOG+GNSS+DL**
         - A bunch of new entires for shit that already exists:
             - **M61 shot**
             - **M594**
@@ -288,6 +296,11 @@ All dates are listed in DD-MM-YYYY format.
         - **AIM-9X** → **AIM-9X-1 (OFS 8.212)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder (OFS 8.212)**.
         - **AIM-120C-5**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM**.
         - **AIM-120C-7**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-7 AMRAAM**.
+        - SLAMRAAM launchers (there's a reason these are grouped together like this):
+            - **AIM-120 SAM** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-120C-7)**.
+            - **AIM-9X SAM** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-1 (OFS 8.212))**.
+            - In real life, these are the same launcher: the SLAMRAAM. However, Gaijin has decided to count it as 2 seperate launchers for some incomprehensible reason (it's not a technical limitation because the **SPYDER** launcher can fire multiple missiles) and so I am forced to have 2 of them here.
+        - **12.7 mm M2HB machine gun** (another one) → **Browning Machine Gun, Caliber .50, HB, M2**.
         - **M61A2**: Long name → **Cannon, 20mm, M61A2**.
         - **20mm XM301 cannon** → **Cannon, 20mm, XM301**.
         - **16 inch/50 Mk.7 cannon** → **16"/50 Mk 7 Mod 0**.
@@ -300,6 +313,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Lwf LB 66** → **Flz.Lwf. LB 66**. Long name → **Flugzeug Lenkwaffe Luft-Boden 66 "NORAS"**.
         - **Fl.Mg.29** → **Flab.-Mg. 29**. Long name → **7,5mm Fliegerabwehr-Maschinengewehr 29**.
         - **Beob.-Doppel.-Mg.29** → **Flab.-D.-Mg. 29**. Long name → **7,5mm Fliegerabwehr-Doppel-Maschinengewehr 29**.
+        - **FFK-HS-45** → **H.S.-Flz.F.Kan. 45**. Long name → **20 mm Hispano Suiza-Flugzeugflügelkanone**.
+        - **FMK-HS-45** → **H.S.-Flz.M.Kan. 45**. Long name → **20 mm Hispano Suiza-Flugzeugmotorkanone**.
         - **Flz Kan 65** → **Flz.Kan. 65**. Long name → **30mm Flugzeug Kanone 65**.
         - **Flz Kan 76** → **Flz.Kan. 76**. Long name → **20mm Flugzeug Kanone 76**.
         - **Flz Kan 92** → **Flz.Kan. 92**. Long name → **20mm Flugzeug Kanone 92**.
@@ -354,6 +369,7 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Long name → **80式空対艦誘導弾 | ASM-1**.
         - **ASM-2**: Long name → **93 Shiki Sora Taikan Yūdōdan | ASM-2**.
             - Japanese package: Long name → **93式空対艦誘導弾 | ASM-2**.
+        - **Type 81C ARH** (it's another **SAM-1C**) → **SAM-1C**.
         - **30 mm PGZ-625 cannon** → **630 Xíng 30 Háomi Gāoshè Jīguān Pào**.
         - **DTC10-30** → **L/DTC10-30**.
             - Full ammunition names package: Name → **L/DTC10 Shì 30 Háomi Chuānjiǎdàn**.
@@ -383,15 +399,18 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936**.
         - **380 mm OPF Mle 1943 APCBC** → **380 mm OPf(K) RC Mle. 1943**.
             - Full ammunition names package: Name → **380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1943**.
+        - **Smoke** (a new one so the **AMX 30 B2 BRENUS**'s smokes finally have a name) → **GALIX 13**. Long name → **GALIX 13**.
         - **Rbs 98** → **lvrb 98**.
             - Full ammunition names package: Name → **luftvärnsrobot 98**.
         - **slpprj m/42** → **20 mm sk ptr m/42 slpprj m/42**.
             - Full ammunition names package: Name → **20 mm skarp patron m/42 spårljuspansarprojektil m/42**.
-        - **Python 5** → **Piton 5**. Long name → **Piton 5**.
+        - **Python 5** → **Piton 5 SR**. Long name → **Piton 5 Short Name**.
         - **Drop tank (600 gal.)** → **Drop tank (600 gal)**. This is not a full rename, just a formatting change.
         - **Drop tank (275 gal.)** → **Drop tank (275 gal)**. This is not a full rename, just a formatting change.
         - **Drop tank (150 gal.)** → **Drop tank (150 gal)**. This is not a full rename, just a formatting change.
         - **Drop tank (50 gal.)** → **Drop tank (50 gal)**. This is not a full rename, just a formatting change.
+        - **ARH+IOG+GNSS+DL** → **ARH + IOG + GNSS + DL**.
+        - **IR+IOG+GNSS+DL** → **IR + IOG + GNSS + DL**.
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
     - **10,5 cm kanon stridsvagn 101**: Caliber tag corrected from 84 mm to 105 mm.
     - **10,5 cm kanon stridsvagn 104**: Caliber tag corrected from 84 mm to 105 mm.
@@ -474,6 +493,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/MPQ-64**
         - **CR**
         - **AN/ALR-56A**
+        - **AN/AAQ-33**
         - **TRML-4D**
         - **L-370-5**
         - **J/AAQ-2**
@@ -490,6 +510,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/AAS-38B**: Long name → **AN/AAS-38B NITE Hawk**.
         - **AN/MPQ-64** → **AN/MPQ-64 Sentinel**.
         - **CR** → **Comanche Radar**.
+        - **AN/AAQ-33**: Long name → **AN/AAQ-33 Sniper Advanced Targeting Pod**.
         - **TRML-4D** → **TRML 4D**.
         - **L-370-5** → **L-370-5L**.
         - **J/AAQ-2**: Long name → **J/AAQ-2**.

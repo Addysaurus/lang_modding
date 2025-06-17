@@ -1,5 +1,11 @@
 <ID|readonly|noverify>;<English>
+//GENERAL TEXTS
+caliber/mm_decimals;%s mm
+missile/guidance/ARH+IOG+GNSS+DL;ARH + IOG + GNSS + DL
+missile/guidance/ir+IOG+GNSS+DL;IR + IOG + GNSS + DL
+
 //USA GUNS
+weapons/12_7mm_M2_HB_user_machinegun_for_400;<color=@userlogColoredText>12.7 mm</color> Browning Machine Gun, Caliber .50, HB, M2 <color=#ff6f00>MG</color>
 weapons/cannonM61;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61 Vulcan <color=#ff6f00>RCNN</color>
 weapons/cannonM61/short;M61
 weapons/cannonM61A1;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 Vulcan <color=#ff6f00>RCNN</color>
@@ -20,6 +26,10 @@ weapons/gun_fl_mg_27;<color=@userlogColoredText>7.5 mm</color> 7,5mm Fliegerabwe
 weapons/gun_fl_mg_27/short;Flab.-Mg. 29
 weapons/gun_mg_29_turret;<color=@userlogColoredText>7.5 mm</color> 7,5mm Fliegerabwehr-Doppel-Maschinengewehr 29 <color=#ff6f00>MG</color>
 weapons/gun_mg_29_turret/short;Flab.-D.-Mg. 29
+weapons/cannon_ff_k_45;<color=@userlogColoredText>20 mm</color> 20 mm Hispano Suiza-Flugzeugflügelkanone <color=#ff6f00>ACNN</color>
+weapons/cannon_ff_k_45/short;H.S.-Flz.F.Kan. 45
+weapons/cannon_fm_k_45;<color=@userlogColoredText>20 mm</color> 20 mm Hispano Suiza-Flugzeugmotorkanone <color=#ff6f00>ACNN</color>
+weapons/cannon_fm_k_45/short;H.S.-Flz.M.Kan. 45
 weapons/20mm_mg151_20_mid_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/20mm_mg151_20_out_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/cannonM61A2_switzerland;<color=@userlogColoredText>30 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
@@ -243,6 +253,8 @@ weapons/us_aim_120c_7;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-7
 weapons/us_aim_120c_7/short;AIM-120C-7
 weapons/us_aim_120c_7_sam;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-7 AMRAAM <color=#ff6f00>SAM-ARH</color>
 weapons/us_aim_120c_7_sam/short;AIM-120C-7
+weapons/178mm_sl_amraam_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-120C-7) <color=#ff6f00>LCH</color>
+weapons/127mm_aim_9x_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-1 (OFS 8.212)) <color=#ff6f00>LCH</color>
 
 //GERMANY MISSILES
 weapons/sws_flz_lwf_63;"Flugzeug Lenkwaffe Luft-Luft 63 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
@@ -282,10 +294,11 @@ weapons/jp_aam4;99 Shiki Sora Taikū Yūdōdan | AAM-4 <color=#ff6f00>AAM-ARH</c
 weapons/jp_aam4/short;AAM-4
 weapons/jp_aam4_default;99 Shiki Sora Taikū Yūdōdan | AAM-4 <color=#ff6f00>AAM-ARH</color>
 weapons/jp_aam4_default/short;AAM-4
-weapons/jp_asm1_missile;80 Shiki Sora Taikan Yūdōdan | ASM-1 <color=#ff6f00>AShM-ARH</color>
-weapons/jp_asm1_missile/short;ASM-1
-weapons/jp_asm2_missile;93 Shiki Sora Taikan Yūdōdan | ASM-2 <color=#ff6f00>AShM-IR</color>
-weapons/jp_asm2_missile/short;ASM-2
+weapons/jp_asm1;80 Shiki Sora Taikan Yūdōdan | ASM-1 <color=#ff6f00>AShM-ARH</color>
+weapons/jp_asm1/short;ASM-1
+weapons/jp_asm2;93 Shiki Sora Taikan Yūdōdan | ASM-2 <color=#ff6f00>AShM-IR</color>
+weapons/jp_asm2/short;ASM-2
+160mm_sam_arh_1c;SAM-1C
 weapons/80mm_Type_91_launcher_user_cannon;"93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi ""Kurōzudo Arō"" <color=#ff6f00>LCH</color>"
 weapons/160mm_sam_1c_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
 
@@ -303,9 +316,9 @@ us_iris_t;lvrb 98
 weapons/127mm_IRIS_T_user_cannon;Diehl Defence ML-98 | luftvärnsrobotsystem 98 <color=#ff6f00>LCH</color>
 
 //ISRAEL MISSILES
-weapons/il_python_5;Piton 5 <color=#ff6f00>SAM-IR</color>
-weapons/il_python_5/short;Piton 5
-weapons/il_derby_sam;I-Derby SR <color=#ff6f00>SAM-IR</color>
+weapons/il_python_5_sam;Piton 5 Short Range <color=#ff6f00>SAM-IR</color>
+weapons/il_python_5_sam/short;Piton 5 SR
+weapons/il_derby_sam;I-Derby Short Range <color=#ff6f00>SAM-IR</color>
 weapons/il_derby_sam/short;I-Derby SR
 weapons/160mm_spyder_launcher_user_cannon;SPYDER <color=#ff6f00>LCH</color>
 
@@ -358,6 +371,30 @@ weapons/sw_275gal_drop_tank_2/short;Drop tank (275 gal)
 //ISRAEL FUEL TANKS
 
 //UNCATEGORIZED FUEL TANKS
+
+//USA SMOKE GRENADES
+
+//GERMANY SMOKE GRENADES
+
+//USSR SMOKE GRENADES
+
+//UK SMOKE GRENADES
+
+//JAPAN SMOKE GRENADES
+
+//CHINA SMOKE GRENADES
+
+//ITALY SMOKE GRENADES
+
+//FRANCE SMOKE GRENADES
+weapons/80mm_brenus_smoke_grenade_launcher;<color=@userlogColoredText>80 mm</color> GALIX 13 <color=#ff6f00>GRN-SMK</color>
+weapons/80mm_brenus_smoke_grenade_launcher/short;GALIX 13
+
+//SWEDEN SMOKE GRENADES
+
+//ISRAEL SMOKE GRENADES
+
+//UNCATEGORIZED SMOKE GRENADES
 
 //EXPLOSIVE TYPES
 explosiveType/octogel;Oktogel

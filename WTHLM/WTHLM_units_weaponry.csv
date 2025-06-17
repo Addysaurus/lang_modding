@@ -38,9 +38,10 @@ weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug K
 weapons/cannonFlzKan_76/short;Flz.Kan. 76
 weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
 weapons/cannonDEFA552A_switzerland/short;Flz.Kan. 65
-weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 (p) <color=#ff6f00>ACNN</color>
+weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 <color=#ff6f00>ACNN</color>
 
 //USSR GUNS
+weapons/305mm_52_obr1907_mariya_naval_user_cannon;<color=@userlogColoredText>305 mm</color> 305-mm/52 obr. 1907 g. <color=#ff6f00>CNN</color>
 weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color> 406-mm/50 B-37 obr. 1937 g. <color=#ff6f00>CNN</color>
 
 //UK GUNS
@@ -80,6 +81,8 @@ weapons/380mm_45_mle_1935_naval_user_cannon/short;Canon de 380 mm/45 Mle. 1935
 25mm_pgu_32;PGU-32/U
 25mm_hedp;25 mm HEDP
 30mm_mk320;MK320
+37mm_AN_M4_naval_HE/name;37 mm HE
+37mm_AN_M4_naval_AP/name;37 mm AP-T
 75mm_m61_solid;M61 shot
 406mm_mk8_mod6_apcbc;"16"" A.P. Mk 8 Mod 6"
 
@@ -144,6 +147,8 @@ b_mk_1z/name/short;I
 37mm_breda_navy_he_t/name;37 mm HE-T
 40mm_vickers_terni_mod_1930_he/name;40 mm HE-F
 40mm_vickers_terni_mod_1915_17_he_df/name;40 mm HE-TF
+40mm_bofors_breda_l70_he;40 mm HEI-T
+40mm_bofors_breda_l70_he_radio_fuse;40 mm HE-VT
 381mm_50_sapcbc;Granata perforante da 381/50
 381mm_50_apcbc;Palla perforante da 381/50
 

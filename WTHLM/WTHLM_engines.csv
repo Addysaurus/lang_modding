@@ -85,8 +85,9 @@ engine_manufacturer/volvo;Manufacturer: Volvo
 engine_manufacturer/cummins;Manufacturer: Cummins
 engine_manufacturer/navistar;Manufacturer: Navistar International Corporation
 engine_manufacturer/man;Manufacturer: MAN Truck & Bus
-engine_manufacturer/ivchenko;"Zaporožskoye mašinostroityel'noye konstruktorskoye bûro ""Progryess"" imyeni akadyemika A. G. Ivčyenko"
-engine_manufacturer/orenda;Orenda Engines
+engine_manufacturer/ivchenko;"Manufacturer: Zaporožskoye mašinostroityel'noye konstruktorskoye bûro ""Progryess"" imyeni akadyemika A. G. Ivčyenko"
+engine_manufacturer/orenda;Manufacturer: Orenda Engines
+engine_manufacturer/saurer;Manufacturer: Adolph Saurer
 
 //ENGINES
 engine_model/jumo004d;"
@@ -1406,6 +1407,8 @@ engine_model/maxxforce_13;"
 Engine model: MaxxForce 13"
 engine_model/isbe_285;"
 Engine model: ISBe6.7 285"
+engine_model/ys-2;"
+Engine model: Flugmotor YS-2"
 
 //TRANSMISSION MANUFACTURERS
 transmission_manufacturer/allison;Manufacturer: Allison
@@ -1421,7 +1424,7 @@ transmission_type/mech;Mechanical
 transmission_model/x_1100_3b;X-1100-3B
 transmission_model/x_300;X-300
 transmission_model/tn54e;TN54E
-transmission_model/hswl_295;
+transmission_model/hswl_295;HSWL 295
 transmission_model/lsg_3000;LSG 3000
 transmission_model/mt1500;MT1500
 transmission_model/esm_500;ESM 500

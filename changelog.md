@@ -269,6 +269,8 @@ All dates are listed in DD-MM-YYYY format.
         - **ARH+IOG+GNSS+DL**
         - **IR+IOG+GNSS+DL**
         - A bunch of new entires for shit that already exists:
+            - **37 mm HE**
+            - **37 mm AP-T**
             - **M61 shot**
             - **M594**
             - **Sprgr. L/4.5**
@@ -279,6 +281,7 @@ All dates are listed in DD-MM-YYYY format.
             - **Pzsprgr.**
             - **40 mm HE-T**
             - **DM11A1**
+            - **12-inch/52 pattern 1907 cannon**
             - **IAI**
             - **API-T**
             - **AP-I**
@@ -293,6 +296,8 @@ All dates are listed in DD-MM-YYYY format.
             - **30 mm HE-TF**
             - **40 mm HE-F**
             - **40 mm HE-TF**
+            - **40 mm HEI-T**
+            - **40 mm HE-VT**
             - **slpprj m/42**
 
 - #### Changes:
@@ -351,6 +356,7 @@ All dates are listed in DD-MM-YYYY format.
         - **OFAB-100MB** → **OFAB-100mB**. Long name → **OFAB-100mB**.
         - **OFAB-100-110TU**: Long name → **OFAB-100-110TU "Jupiter"**.
         - **OFAB-250-270**: Long name → **OFAB-250-270**.
+        - **12-inch/52 pattern 1907 cannon** → **305-mm/52 obr. 1907 g.**.
         - **406 mm/50 B-37 cannon** → **406-mm/50 B-37 obr. 1937 g.**.
         - **76 mm HE-TF** → **OF obr. 1915 g.**.
         - **406 mm SAPCBC patt.1928** → **PB obr. 1915/28 gg.**.
@@ -452,7 +458,7 @@ All dates are listed in DD-MM-YYYY format.
     - **155 mm Type 91 APHE** → **15.5 Sanchi 91 Shiki Tekkō Dan**.
         - Japanese package: Name → **15.5糎91式徹甲弾**.
     - **45-36АН** → **45-36AN**. This is not a proper rename, this is just correcting the "АН" part which Gaijin left in Russian characters.
-    - **4 cm Bofors Flak 28 cannon** → **4cm Flugabwehrkanone 28 (p)**.
+    - **4 cm Bofors Flak 28 cannon** → **4cm Flugabwehrkanone 28**.
     - **40 mm/39 Vickers-Terni mod.1915/1917, Modif.1930 automatic cannon** → **Cannone Vickers-Terni da 40/39 modello 1915/1917**.
 
 ### Modifications:
@@ -482,8 +488,11 @@ All dates are listed in DD-MM-YYYY format.
         - **MAN** (manufacturer)
         - **Ivchenko** (manufacturer)
         - **Orenda** (manufacturer)
+        - **Saurer** (manufacturer)
         - **MaxxForce 13**
         - **ISBe 285**
+        - **YS-2**
+    - **HSWL 295** (forgot to add this forever ago)
 
 - #### Changes:
 
@@ -492,7 +501,9 @@ All dates are listed in DD-MM-YYYY format.
         - **MAN** (manufacturer) → **MAN Truck & Bus**.
         - **Ivchenko** (manufacturer) → **Zaporožskoye mašinostroityel'noye konstruktorskoye bûro "Progryess" imyeni akadyemika A. G. Ivčyenko**.
         - **Orenda** (manufacturer) → **Orenda Engines**.
+        - **Saurer** (manufacturer) → **Adolph Saurer**.
         - **ISBe 285** → **ISBe6.7 285**. Why did I get involved in renaming engines? These little fuckers have no rhyme or reason.
+        - **YS-2** → **Flugmotor YS-2**.
 
 ### Sensors:
 
@@ -508,6 +519,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/AAQ-33**
         - **TRML-4D**
         - **L-370-5**
+        - **Arena-M**
         - **J/AAQ-2**
         - **J/APG-1**
         - **J/APG-2**
@@ -525,6 +537,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/AAQ-33**: Long name → **AN/AAQ-33 Sniper Advanced Targeting Pod**.
         - **TRML-4D** → **TRML 4D**.
         - **L-370-5** → **L-370-5L**.
+        - **Arena-M** → **Aryena-M**.
         - **J/AAQ-2**: Long name → **J/AAQ-2**.
         - **Type 81 TA** → **81 Shiki Tankyorichi Taikū Yūdōdan C Gata Ta Kinō Rēdā**.
             - Japanese package: Name → **81式短距離地対空誘導弾C型多機能レーダー**.

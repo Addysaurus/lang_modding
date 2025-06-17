@@ -26,9 +26,9 @@ weapons/gun_fl_mg_27;<color=@userlogColoredText>7.5 mm</color> 7,5mm Fliegerabwe
 weapons/gun_fl_mg_27/short;Flab.-Mg. 29
 weapons/gun_mg_29_turret;<color=@userlogColoredText>7.5 mm</color> 7,5mm Fliegerabwehr-Doppel-Maschinengewehr 29 <color=#ff6f00>MG</color>
 weapons/gun_mg_29_turret/short;Flab.-D.-Mg. 29
-weapons/cannon_ff_k_45;<color=@userlogColoredText>20 mm</color> 20 mm Hispano Suiza-Flugzeugflügelkanone <color=#ff6f00>ACNN</color>
+weapons/cannon_ff_k_45;<color=@userlogColoredText>20 mm</color> 20 mm Hispano Suiza-Flugzeugflügelkanone 45 <color=#ff6f00>ACNN</color>
 weapons/cannon_ff_k_45/short;H.S.-Flz.F.Kan. 45
-weapons/cannon_fm_k_45;<color=@userlogColoredText>20 mm</color> 20 mm Hispano Suiza-Flugzeugmotorkanone <color=#ff6f00>ACNN</color>
+weapons/cannon_fm_k_45;<color=@userlogColoredText>20 mm</color> 20 mm Hispano Suiza-Flugzeugmotorkanone 45 <color=#ff6f00>ACNN</color>
 weapons/cannon_fm_k_45/short;H.S.-Flz.M.Kan. 45
 weapons/20mm_mg151_20_mid_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/20mm_mg151_20_out_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
@@ -77,7 +77,6 @@ weapons/380mm_45_mle_1935_naval_user_cannon/short;Canon de 380 mm/45 Mle. 1935
 20mm_m594;M594
 25mm_pgu_32;PGU-32/U
 25mm_hedp;25 mm HEDP
-25mm_type96_he_t;25 mm HET
 30mm_mk320;MK320
 75mm_m61_solid;M61 shot
 406mm_mk8_mod6_apcbc;"16"" A.P. Mk 8 Mod 6"
@@ -137,6 +136,7 @@ b_mk_1z/name/short;I
 
 //ITALY AMMUNITION
 20mm_perforante_m35_belt;Granata perforante da 20 mod. 35
+37mm_breda_navy_he_t/name;37 mm HE-T
 381mm_50_sapcbc;Granata perforante da 381/50
 381mm_50_apcbc;Palla perforante da 381/50
 
@@ -155,6 +155,7 @@ b_mk_1z/name/short;I
 //ISRAEL AMMUNITION
 
 //UNCATEGORIZED AMMUNITION
+25mm_type96_he_t;25 mm HET
 30mm_he_tf;30 mm HE-TF
 
 //USA BOMBS

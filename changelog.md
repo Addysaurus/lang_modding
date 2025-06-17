@@ -246,6 +246,7 @@ All dates are listed in DD-MM-YYYY format.
         - **FB-10 SAM**
         - **381 mm/50 Ansaldo-OTO cannon, mod.1934**
         - **Perforante mod.35**
+        - **37 mm HE-T**
         - **381 mm Granata Perforante**
         - **380 mm/45 model 1935**
         - **203 mm OPF Mle 1936 APCBC**
@@ -313,8 +314,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Lwf LB 66** → **Flz.Lwf. LB 66**. Long name → **Flugzeug Lenkwaffe Luft-Boden 66 "NORAS"**.
         - **Fl.Mg.29** → **Flab.-Mg. 29**. Long name → **7,5mm Fliegerabwehr-Maschinengewehr 29**.
         - **Beob.-Doppel.-Mg.29** → **Flab.-D.-Mg. 29**. Long name → **7,5mm Fliegerabwehr-Doppel-Maschinengewehr 29**.
-        - **FFK-HS-45** → **H.S.-Flz.F.Kan. 45**. Long name → **20 mm Hispano Suiza-Flugzeugflügelkanone**.
-        - **FMK-HS-45** → **H.S.-Flz.M.Kan. 45**. Long name → **20 mm Hispano Suiza-Flugzeugmotorkanone**.
+        - **FFK-HS-45** → **H.S.-Flz.F.Kan. 45**. Long name → **20 mm Hispano Suiza-Flugzeugflügelkanone 45**.
+        - **FMK-HS-45** → **H.S.-Flz.M.Kan. 45**. Long name → **20 mm Hispano Suiza-Flugzeugmotorkanone 45**.
         - **Flz Kan 65** → **Flz.Kan. 65**. Long name → **30mm Flugzeug Kanone 65**.
         - **Flz Kan 76** → **Flz.Kan. 76**. Long name → **20mm Flugzeug Kanone 76**.
         - **Flz Kan 92** → **Flz.Kan. 92**. Long name → **20mm Flugzeug Kanone 92**.

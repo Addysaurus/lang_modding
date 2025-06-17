@@ -524,6 +524,8 @@ All dates are listed in DD-MM-YYYY format.
         - **J/APG-1**
         - **J/APG-2**
         - **Type 81 TA**
+        - **PGZ-625 TA**
+        - **PGZ-625 TT**
         - **DIRCM** (unnamed (as in, the name isn't publically known) DIRCM for the **Z10ME-02**)
         - **Giraffe 1X**
         - **exMHR**

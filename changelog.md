@@ -243,6 +243,8 @@ All dates are listed in DD-MM-YYYY format.
         - **ASM-2**
         - **Type 81C ARH** (it's another **SAM-1C**)
         - **30 mm PGZ-625 cannon**
+        - **30 mm APT**
+        - **30 mm HEI**
         - **DTC10-30**
         - **FB-10A**
         - **FB-10 SAM**
@@ -291,8 +293,6 @@ All dates are listed in DD-MM-YYYY format.
             - **OR-281U**
             - **BR-281U**
             - **I**
-            - **30 mm APT**
-            - **30 mm HEI**
             - **30 mm HE-TF**
             - **40 mm HE-F**
             - **40 mm HE-TF**
@@ -387,6 +387,9 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Long name → **93式空対艦誘導弾 | ASM-2**.
         - **Type 81C ARH** (it's another **SAM-1C**) → **SAM-1C**.
         - **30 mm PGZ-625 cannon** → **630 Xíng 30 Háomi Gāoshè Jīguān Pào**.
+        - **30 mm HEI** (for the **CS/SA5 (2022)**) → **CS/BAH06-30**.
+            - Full ammunition names package: Name → **CS/BAH06 Shì 30 Háomi Ahāshāng Bàopò Ránshāo Dàn**.
+        - **30 mm APT** (for the **CS/SA5 (2022)**) → **3UBR6 (3BR6)**.
         - **DTC10-30** → **L/DTC10-30**.
             - Full ammunition names package: Name → **L/DTC10 Shì 30 Háomi Chuānjiǎdàn**.
         - **FB-10** → **L/FB10**.
@@ -543,6 +546,7 @@ All dates are listed in DD-MM-YYYY format.
         - **J/AAQ-2**: Long name → **J/AAQ-2**.
         - **Type 81 TA** → **81 Shiki Tankyorichi Taikū Yūdōdan C Gata Ta Kinō Rēdā**.
             - Japanese package: Name → **81式短距離地対空誘導弾C型多機能レーダー**.
+        - **DIRCM** → **LDIRCM**.
         - **exMHR** → **Enhanced & Extended Multi-Mission Hemispheric Radar**.
     - Formatting corrected for the **M-82FN** engine.
 

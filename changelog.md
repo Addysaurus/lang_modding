@@ -304,7 +304,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Leviathans" changes:
         - **AIM-9N**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder**.
-        - **AIM-9X** → **AIM-9X-1 (OFS 8.212)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder (OFS 8.212)**.
+        - **AIM-9X** → **AIM-9X-1 (OFS 8.212)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder (Operational Flight Software 8.212)**.
         - **AIM-120C-5**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM**.
         - **AIM-120C-7**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-7 AMRAAM**.
         - SLAMRAAM launchers (there's a reason these are grouped together like this):

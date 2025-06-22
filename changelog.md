@@ -178,7 +178,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Crusader, Mk. III, A.A., Mk. I**: Statcard name → **Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. I**.
     - **Crusader, Mk. III, A.A., Mk. II**: Statcard name → **Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II**.
     - **Māruta Mk. 1** → **Mārut Mk. 1**. Schwa deletion rules can fuck right off, that shit is so many levels of ass (please Hindi ffs use a goddamn halant to denote it at least please).
-    - **F-14A-65-GR** → **F-14A-110-GR**: Statcard name → **Grumman Aerospace Corporation G-303E | F-14A-110-GR Tomcat**
+    - **F-14A-65-GR** → **F-14A-110-GR**. Statcard name → **Grumman Aerospace Corporation G-303 | F-14A-110-GR Tomcat**
+    - **F-14B-150-GR**: Statcard name → **Grumman Aerospace Corporation G-303 | F-14B-150-GR Tomcat**
     - **Ki 83 Kō** → **Ki 83**.
         - Japanese package: Short name → **キ83**.
 

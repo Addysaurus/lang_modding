@@ -37,9 +37,11 @@ All dates are listed in DD-MM-YYYY format.
         - **Sherman (Hell)**
         - **Hellcat (Hell)**
         - **Skink (Hell)**
+        - **Hell on Wheels** (folder)
         - **T86**
-        - **SLAMRAAM (TADS)**
-        - **SLAMRAAM (TEL)**
+        - **CLAWS (TADS)**
+        - **CLAWS (TEL)**
+        - **CLAWS** (folder)
         - **PT-95**
         - **USS Iowa**
         - **C-3604**
@@ -50,12 +52,14 @@ All dates are listed in DD-MM-YYYY format.
         - **F/A-18C Late** (Germany / Switzerland)
         - **IRIS-T SLM (TADS)**
         - **IRIS-T SLM (TEL)**
+        - **IRIS-T SLM** (folder)
         - **Gneisenau**
         - **Bismarck**
         - **L-39ZA Albatros**
         - **IS-1 ('45)**
         - **T-34-85 ('45)**
         - **Hanomag ('45)**
+        - **In May 1945** (folder)
         - **T-72B3M**
         - **Sevastopol**
         - **Sovetsky Soyuz**
@@ -63,6 +67,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Firefly (Overlord)**
         - **Avenger (Overlord)**
         - **Crusader AA (Overlord)**
+        - **Echoes of Overlord**
         - **Badger**
         - **MTB-460**
         - **HMS Vanguard**
@@ -70,6 +75,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F-2A ADTW**
         - **Tan-SAM kai (TADS)**
         - **Tan-SAM kai (TEL)**
+        - **Tan-SAM Kai** (folder)
         - **IJN Yukikaze**
         - **Yamato**
         - **CS/SA5**
@@ -98,9 +104,11 @@ All dates are listed in DD-MM-YYYY format.
         - **Sherman (Hell)** → **M4A3E8(76)W "Hell"**. Statcard name → **United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman "Hell"**.
         - **Hellcat (Hell)** → **M18 GMC "Hell"**. Statcard name → **General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 "Hellcat" "Hell"**.
         - **Skink (Hell)** → **Skink "Hell"**. Statcard name → **Canadian Ministry of Munitions and Supply, Army Engineering Design Branch + Waterloo Manufacturing Company | Tank, Anti-Aircraft, 20mm, Quad, Skink "Hell"**.
+        - **Hell on Wheels** (folder) → **"Hell on Wheels"**.
         - **T86** → **T86 GMC (early)**. Statcard name → **General Motors' Buick Motor Division / United States Army Ordnance Department | Carriage, Motor, Amphibious, 76mm Gun, T86 (early)**.
-        - **SLAMRAAM (TADS)** → **M1097A2 (AN/MPQ-64)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (AN/MPQ-64 Sentinel)**.
-        - **SLAMRAAM (TEL)** → **M1097A2 (SLAMRAAM)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**.
+        - **CLAWS (TADS)** → **M1097A2 (AN/MPQ-64)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (AN/MPQ-64 Sentinel)**.
+        - **CLAWS (TEL)** → **M1097A2 (SLAMRAAM)**. Statcard name → **Raytheon Technologies Corporation | M1097A2 High Mobility Multipurpose Wheeled Vehicle (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**.
+        - **CLAWS** (folder) → **M1097A2 (AN/MPQ-64) / (SLAMRAAM)**.
         - **PT-95** → **USS PT-95**. Statcard name → **Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-95**.
         - **USS Iowa** → **USS Iowa (BB-61)**. Statcard name → **Brooklyn Navy Yard / Hunters Point Naval Shipyard | Iowa-class Battleship | USS Iowa (BB-61) (1945)**.
         - **C-3604** → **Flz. C-3604**. Statcard name → **Eidgenössisches Flugzeugwerk | Flugzeug C-3604**.
@@ -111,6 +119,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F/A-18C Late** (Germany / Switzerland) → **F/A-18C (Upgrade 25)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A-18C Hornet (Upgrade 25)**.
         - **IRIS-T SLM (TADS)** → **LV IRIS-T SLM (Radarfahrzeug)**. Statcard name → **Diehl Defence | Luftverteidigungssysteme IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Radarfahrzeug)**.
         - **IRIS-T SLM (TEL)** → **LV IRIS-T SLM (Startfahrzeug)**. Statcard name → **Diehl Defence | Luftverteidigungssysteme IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Startfahrzeug)**.
+        - **IRIS-T SLM** (folder) → **LV IRIS-T SLM (Radarfahrzeug) / (Startfahrzeug)**.
         - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Klasse Scharnhorst | Gneisenau (1943)**.
         - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Klasse Bismarck | Bismarck**.
         - **Carrier** (it's the Admiral Kuznyeczov) → **Admiral Flota Sovyetskogo Soûza Kuznyeczov**. Statcard name → **Čyernomorskij sudostroityel'nyj zavod | Tâžëlyj Avianyesuŝij Kryejsyer Proyekt 1143.5 Kryečyet | Admiral Flota Sovyetskogo Soûza Kuznyeczov**.
@@ -118,12 +127,14 @@ All dates are listed in DD-MM-YYYY format.
         - **IS-1 ('45)** → **IS-1 "In May 1945"**. Statcard name → **Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g. "In May 1945"**.
         - **T-34-85 ('45)** → **T-34-85 (Sep, 1944) "In May 1945"**. Statcard name → **Ural'skij tankovyj zavod №183 | Ob"yekt 35 | T-34-85 obr. 1944 g. (September, 1944) "In May 1945"**.
         - **Hanomag ('45)** → **m.S.P.W. D (M.G. 151 S) "In May 1945"**. Statcard name → **Hannoversche Maschinenbau | mittlerer Schützenpanzerwagen Ausf. D mit 2cm Drilling M.G. 151 S (Sd.Kfz. 251/21) "In May 1945"**.
+        - **In May 1945** (folder) → **"In May 1945"**.
         - **T-72B3M** → **T-72B3A**. Statcard name → **Ural'skij vagonostroityel'nym zavodom imyeni F. È. Dzyeržinskogo | Ob"yekt 184-5 | T-72B3A obr. 2024 g.**. There are a lot of T-72B3M variants, and Gaijin added exactly none of them. What Gaijin calls the T-72B3 is actually the T-72B3M obr. 2016 g., and what they are calling the T-72B3M is actually the T-72B3A obr. 2024 g. *sigh*...
         - **Sevastopol** → **Syevastopol'**. Statcard name → **Sudostroityel'nyj zavod № 200 imyeni 61 kommunara | Proyekt 69I | Tâžyelyye kryejsyer tipa Kronštadt | Syevastopol'**.
         - **Sovetsky Soyuz** → **Sovyetskij Soûz**. Statcard name → **Zavod № 189 imyeni Ordžonikidzye | Proyekt 23 | Linyéjnyj korábl' tip Sovyetskij Soûz | Sovyetskij Soûz**.
         - **Firefly (Overlord)** → **Sherman, Mk. Vc "Echoes of Overlord"**. Statcard name → **United States Army Ordnance Department + Royal Ordnance Factory Nottingham | Tank, Medium, Sherman, Mk. Vc "Firefly" "Echoes of Overlord"**.
         - **Avenger (Overlord)** → **Avenger, Mk. I "Echoes of Overlord"**. Statcard name → **Birmingham Railway Carriage and Wagon Company | 17-pdr, Self-Propelled, A.30, Avenger, Mk. I "Echoes of Overlord"**.
         - **Crusader AA (Overlord)** → **Crusader, Mk. III, A.A., Mk. II "Echoes of Overlord"**. Statcard name → **Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II "Echoes of Overlord"**.
+        - **Echoes of Overlord** (folder) → **"Echoes of Overlord"**.
         - **Badger** → **Badger SV**. Statcard name → **Denel Land Systems | Badger Section Variant**.
         - **MTB-460** → **HMS MTB 460**. Statcard name → **British Power Boat Co. | BPB 72 ft-class | HMS MTB 460**.
         - **HMS Vanguard** → **HMS Vanguard (23)**. Statcard name → **John Brown & Co. | Vanguard-class | HMS Vanguard (23)**.
@@ -135,6 +146,8 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Short name → **81式 (C) 射統装**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型射撃統制装置「ショートアロー」**.
         - **Tan-SAM kai (TEL)** → **81 Shiki (C) Kadaibu**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Kadaibu "Shōto Arō"**
             - Japanese package: Short name → **81式 (C) 架台部**. Statcard name → **技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型架台部「ショートアロー」**.
+        - **Tan-SAM Kai** (folder) → **81 Shiki (C) Sha Tō Sō / (C) Kadaibu**.
+            - Japanese package: Name → **81式 (C) 射統装 / 架台部**
         - **IJN Yukikaze** → **Yukikaze**. Statcard name → **Sasebo Kaigun Kōshō / Kure Kaigun Kōshō | Ittō Kuchikukan | Kagerō Gata Kuchikukan (F-49) | Yukikaze (1943)**.
             - Japanese package: Short name → **雪風**. Statcard name → **佐世保海軍工廠 / 呉海軍工廠 | 一等駆逐艦 | 陽炎型駆逐艦 (F-49) | 雪風 (1943)**.
         - **IJN Yamato** → **Yamato**. Statcard name → **Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Yamato (1945)**.
@@ -467,6 +480,7 @@ All dates are listed in DD-MM-YYYY format.
     - **45-36АН** → **45-36AN**. This is not a proper rename, this is just correcting the "АН" part which Gaijin left in Russian characters.
     - **4 cm Bofors Flak 28 cannon** → **4cm Flugabwehrkanone 28**.
     - **40 mm/39 Vickers-Terni mod.1915/1917, Modif.1930 automatic cannon** → **Cannone Vickers-Terni da 40/39 modello 1915/1917**.
+    - **BK 27**: Long name → **Bordkanone 27**.
 
 ### Modifications:
 

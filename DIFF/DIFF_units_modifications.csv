@@ -1,85 +1,15 @@
 <ID|readonly|noverify>;<English>
-modification/uk_bomb_520lb;HERL 520lb Mk.IN
-modification/uk_bomb_520lb/desc;Allows the installation of additional 520 lb bombs.
-modification/uk_bomb_1650lb;1650lb SNHE
-modification/uk_bomb_1650lb/desc;Allows the installation of additional 1650 lb bombs.
-modification/j_aaq_2_pod/desc;Allows the installation of a J/AAQ-2 electro-optical targeting pod.
-modification/j_aaq_2_pod;J/AAQ-2
-modification/us_an_aas_38b_pod/desc;Allows the installation of an AN/AAS-38B laser/electro-optical targeting pod.
-modification/us_an_aas_38b_pod;AN/AAS-38B
-modification/sniper_atp_pod/desc;Allows the installation of an Sniper laser/electro-optical targeting pod.
-modification/sniper_atp_pod;Sniper
-modification/flz_lwf_lb_66;Flz Lwf LB 66
-modification/flz_lwf_lb_66/desc;Allows the installation of Flz Lwf LB 66 guided missiles.
-modification/jp_asm1;ASM-1
-modification/jp_asm1/desc;Allows the installation of ASM-1 guided anti-ship missiles.
-modification/jp_asm2;ASM-2
-modification/jp_asm2/desc;Allows the installation of ASM-2 guided anti-ship missiles.
-sensors/us_an_mpq_64;AN/MPQ-64
-sensors/de_hensoldt_trml_4b;TRML-4D
-sensors/jp_type_81_search;Type 81 TA
-sensors/sw_giraffe_1x;Giraffe 1X
-sensors/il_spyder_search;exMHR
-sensors/cn_pgz_625_search;PGZ-625 TA
-sensors/cn_pgz_625_track;PGZ-625 TT
-sensors/us_an_alr_56a;AN/ALR-56A
-sensors/us_an_apg_60;AN/APG-60
-sensors/us_an_apg_61;AN/APG-61
-sensors/us_comanche_fcr;CR
-sensors/jp_j_apg_1;J/APG-1
-sensors/jp_j_apg_2;J/APG-2
-engine_manufacturer/cummins;Cummins
-engine_manufacturer/navistar;Navistar
-engine_model/maxxforce_13;MaxxForce 13
-engine_model/isbe_285;ISBe 285
-engine_model/wp_13;WP13.550/605
-engine_manufacturer/man;MAN
-engine_model/d2066;D2066
-engine_model/r-1820-62;Cyclone R-1820-62
-37mm_AN_M4_naval_HE/name;37 mm HE
-37mm_AN_M4_naval_AP/name;37 mm AP-T
-modification/ofab_100m_mb/desc;Allows the installation of 100 kg bombs.
-modification/ofab_100m_mb;OFAB-100M/MB
-modification/fab_250m_54/desc;Allows the installation of 250 kg bombs.
-modification/fab_250m_54;FAB-250M-54
-modification/fab_500m_54/desc;Allows the installation of 500 kg bombs.
-modification/fab_500m_54;FAB-500M-54
-modification/su_fab_250_us_mk82/desc;Allows the installation of 250 kg and 500 lbs bombs.
-modification/su_fab_250_us_mk82;FAB-250/Mk82
-modification/su_fab_500_us_mk83/desc;Allows the installation of 500 kg and 1000 lbs bombs.
-modification/su_fab_500_us_mk83;FAB-500/Mk83
-modification/sws_flz_lwf_ll_64/desc;Allows the installation of Flz Lwf LL 64/79 FALCO air-to-air missiles.
-modification/sws_flz_lwf_ll_64;Flz Lwf LL 64/79
-modification/us_aim_120c/desc;Allows the installation of AIM-120C air-to-air missiles.
-modification/us_aim_120c;AIM-120C
-modification/us_aim_9n/desc;Allows the installation of AIM-9N air-to-air missiles.
-modification/us_aim_9n;AIM-9N
-modification/sws_flz_lwf_63_75/desc;Allows the installation of Flz Lwf 63/75 air-to-air missiles.
-modification/sws_flz_lwf_63_75;Flz Lwf 63/75
-engine_manufacturer/saurer;Saurer
-engine_model/ys-2;YS-2
-counterMeasures/cn_z_10me;DIRCM
-counterMeasures/l_370v28_5l;L-370V28-5L
-modification/381mm_uk_bl_mk1_6crh_22b_navy_apc;15-inch 6crh Mark XXIIb APC
-modification/381mm_uk_bl_mk1_6crh_22b_navy_apc_ammo_pack;15-inch 6crh Mark XXIIb APC
-modification/406mm_us_mk8_mod6_navy_apcbc;406 mm Mk.8 Mod.6 APCBC
-modification/406mm_us_mk8_mod6_navy_apcbc_ammo_pack;406 mm Mk.8 Mod.6 APCBC
-modification/406mm_ussr_navy_sapcbc;406 mm SAPCBC patt.1928
-modification/406mm_ussr_navy_apcbc;406 mm APCBC patt.1928
-modification/406mm_ussr_navy_apcbc_ammo_pack;406 mm APCBC patt.1928
-modification/460mm_jp_type91_navy_apc;460 mm Type 91 APCBC
-modification/460mm_jp_type91_navy_apc_ammo_pack;460 mm Type 91 APCBC
-modification/380mm_45_fr_mle1936_navy_apcbc;380 mm Opf Mle 1936 APCBC
-modification/380mm_45_fr_mle1936_navy_apcbc_ammo_pack;380 mm Opf Mle 1936 APCBC
-modification/380mm_45_fr_mle1943_navy_apcbc;380 mm Opf Mle 1943 APCBC
-modification/380mm_45_fr_mle1943_navy_apcbc_ammo_pack;380 mm Opf Mle 1943 APCBC
-modification/381mm_50_it_navy_apcbc;381 mm Palla APCBC
-modification/381mm_50_it_navy_apcbc_ammo_pack;381 mm Palla APCBC
-engine_model/f110-ihi-129;F110-IHI-129
-engine_model/ai_25tl;AI-25TL
-engine_manufacturer/ivchenko;Ivchenko
-engine_model/j85_can_15;J85-CAN-15
-engine_manufacturer/orenda;Orenda
-engine_model/t800_lht_801;T800-LHT-801
-aps/arena_m;Arena-M
-engine_model/wz-9c;WZ-9C
+modification/us_500lb_mk82_gbu38_gbu62_jdam/desc;Allows the installation of 500 lb bombs and GBU-38 / 62 JDAM guided bombs.
+modification/us_500lb_mk82_gbu38_gbu62_jdam;Mk82/GBU-38/62
+modification/us_1000lb_mk83_us_2000lb_mk84/desc;Allows the installation of 1000 lb bombs and 2000 lb bombs.
+modification/us_1000lb_mk83_us_2000lb_mk84;Mk83/Mk84
+modification/us_2000lb_mk84_gbu31_gbu64_jdam/desc;Allows the installation of 2000 lb bombs and GBU-31 / 64 JDAM guided bombs.
+modification/us_2000lb_mk84_gbu31_gbu64_jdam;Mk84/GBU-31/64
+modification/il_spice_2000_gbu31_jdam/desc;Allows the installation of GBU-31/64 JDAM and SPICE 2000 guided bombs.
+modification/il_spice_2000_gbu31_jdam;SPICE 2000/GBU-31/64
+modification/il_spice_1000/desc;Allows the installation of SPICE 1000 guided bombs.
+modification/il_spice_1000;SPICE 1000
+modification/us_sniper_pod/desc;Allows the installation of a SNIPER ATP laser/electro-optical targeting pod.
+modification/us_sniper_pod;SNIPER ATP
+modification/pk3_gunpod;Gun pod PK-3
+modification/pk3_gunpod/desc;Allows the installation of gun pods PK-3.

@@ -1,209 +1,34 @@
 <ID|readonly|noverify>;<English>
-weapons/cannon_ff_k_45;20 mm FFK-HS-45 cannon
-weapons/cannon_ff_k_45/short;FFK-HS-45
-weapons/cannon_fm_k_45;20 mm FMK-HS-45 cannon
-weapons/cannon_fm_k_45/short;FMK-HS-45
-weapons/gun_fl_mg_27;7.45 mm Fl.Mg.29 machine gun
-weapons/gun_fl_mg_27/short;Fl.Mg.29
-weapons/gun_mg_29_turret;7.5 mm Beob.-Doppel.-Mg. 29 machine gun
-weapons/gun_mg_29_turret/short;Beob.-Doppel.-Mg.29
-weapons/de_sc1000_default;1000 kg SC1000L2 bomb
-weapons/su_ofab_100_120;100 kg OFAB-100 bomb
-weapons/su_ofab_100_120/short;OFAB-100
-weapons/su_ofab_250_270;250 kg OFAB-250-270 bomb
-weapons/su_ofab_250_270/short;OFAB-250-270
-weapons/su_ofab100m;100 kg OFAB-100M bomb
-weapons/su_ofab100m/short;OFAB-100M
-weapons/us_sniper_atp_targeting_pod;Sniper targeting pod
-weapons/us_sniper_atp_targeting_pod/short;AN/AAQ-33
-weapons/an_aas_38b;AN/AAS-38B targeting pod
-weapons/an_aas_38b/short;AN/AAS-38B
-weapons/jp_i_aaq2_targeting_pod;J/AAQ-2 targeting pod
-weapons/jp_i_aaq2_targeting_pod/short;J/AAQ-2
-weapons/jp_600gal_drop_tank_1;Drop tank (600 gal.)
-weapons/jp_600gal_drop_tank_1/short;Drop tank
-weapons/jp_600gal_drop_tank_2;Drop tank (600 gal.)
-weapons/jp_600gal_drop_tank_2/short;Drop tank
-weapons/sw_275gal_fuse_drop_tank;Drop tank (275 gal.)
-weapons/sw_275gal_fuse_drop_tank/short;Drop tank
-weapons/sw_275gal_drop_tank_1;Drop tank (275 gal.)
-weapons/sw_275gal_drop_tank_1/short;Drop tank
-weapons/sw_275gal_drop_tank_2;Drop tank (275 gal.)
-weapons/sw_275gal_drop_tank_2/short;Drop tank
-weapons/nl_150gal_early_fuse_drop_tank;Drop tank (150 gal.)
-weapons/nl_150gal_early_fuse_drop_tank/short;Drop tank
-weapons/nl_150gal_early_drop_tank_1;Drop tank (150 gal.)
-weapons/nl_150gal_early_drop_tank_1/short;Drop tank
-weapons/nl_150gal_early_drop_tank_2;Drop tank (150 gal.)
-weapons/nl_150gal_early_drop_tank_2/short;Drop tank
-weapons/nl_50gal_wingtip_tank_1;Drop tank (50 gal.)
-weapons/nl_50gal_wingtip_tank_1/short;Drop tank
-weapons/nl_50gal_wingtip_tank_2;Drop tank (50 gal.)
-weapons/nl_50gal_wingtip_tank_2/short;Drop tank
-weapons/fr_as30_switzerland;Flz Lwf LB 66 air-to-ground missiles
-weapons/fr_as30_switzerland/short;Flz Lwf LB 66
-weapons/jp_asm1;ASM-1 anti-ship missile
-weapons/jp_asm1/short;ASM-1
-weapons/jp_asm2;ASM-2 anti-ship missile
-weapons/jp_asm2/short;ASM-2
-30mm_dtc10_30;DTC10-30
-weapons/12_7mm_M2_HB_user_machinegun_for_400;12.7 mm M2HB machine gun
-caliber/mm_decimals;%s mm
-missile/guidance/ARH+IOG+GNSS+DL;ARH+IOG+GNSS+DL
-missile/guidance/ir+IOG+GNSS+DL;IR+IOG+GNSS+DL
-i_ball_mdz/name;Immediate-action incendiary bullet
-i_ball_mdz/name/short;IAI
-b_mk_1z/name;Mk.1Z Incendiary bullet
-b_mk_1z/name/short;I
-ap_i_t_ball_bzt_44/name;BZT-44 Armor-piercing incendiary tracer bullet
-ap_i_t_ball_bzt_44/name/short;API-T
-ap_i_ball_b32/name;B-32 Armor-piercing incendiary bullet
-ap_i_ball_b32/name/short;AP-I
-t_ball_t_38/name;T-38 Tracer bullet
-t_ball_t_38/name/short;T
-14mm_api_c;14.5 mm AP-I(c)
-14mm_api;14.5 mm API
-88mm_sprgr_dist_fuse;Sprgr. L/4.5
-37mm_sprgr_18_belt;Sprgr. 18
-37mm_pzgr_belt;PzGr
-57mm_or_281u_belt;OR-281U
-57mm_br_281u_belt;BR-281U
-75mm_m61_solid;M61 shot
-weapons/uk_520lb_herl_mk_1_n;HERL 520 lb Mk.IN bomb
-weapons/uk_520lb_herl_mk_1_n/short;HERL 520 lb Mk.IN
-weapons/uk_1650lb_sn_he;1650 lb SNHE bomb
-weapons/uk_1650lb_sn_he/short;1650 lb SNHE
-explosiveType/octogel;Oktogel
-explosiveType/tg_50;TG-50
-weapons/sws_flz_lwf_63_75;Flz Lwf LL 63/75 SIWA air-to-air missiles
-weapons/sws_flz_lwf_63_75/short;Flz Lwf LL 63/75
-160mm_sam_arh_1c;Type 81C ARH
-weapons/127mm_IRIS_T_user_cannon;Rbs98 SAM
-35_228mm_he_i_t_belt;DM11A1
-35_228mm_apds_t_belt;DM23
-20mm_perforante_m35_belt;Perforante mod.35
-20mm_m594;M594
-23mm_hei;HEI
-20mm_shvak_api;API
-20mm_shvak_apit;API-T
-20mm_shvak_frag;FI
-20mm_shvak_frag_t;FI-T
-76mm_type0_navy_he_dist_fuse;8 cm Type 0 HE
-weapons/cannonDEFA552A_switzerland;30 mm Flz Kan 65 cannon
-weapons/cannonDEFA552A_switzerland/short;Flz Kan 65
-30mm_china_API;30 mm AP-T
-30mm_china_HE;30 mm HEI
-30mm_he_tf;30 mm HE-TF
-weapons/cannonXM301;20 mm XM301 cannon
-weapons/cannonJM61A2;20 mm M61A2 cannon
-weapons/cannonJM61A2/short;20 mm M61A2 cannon
-weapons/cannonM61A2;20 mm M61A2 cannon
-weapons/cannonM61A2/short;M61A2
-weapons/cannonM61A2_switzerland;20 mm Flz Kan 92 cannon
-weapons/cannonM61A2_switzerland/short;Flz Kan 92
-weapons/sws_flz_lwf_ll_64;Flz Lwf LL 64/79 FALCO air-to-air missiles
-weapons/sws_flz_lwf_ll_64/short;Flz Lwf LL 64/79
-weapons/us_aim7m_sparrow_default;AIM-7M Sparrow air-to-air missiles
-weapons/us_aim7m_sparrow_default/short;AIM-7M
-weapons/us_aim9n_sidewinder;AIM-9N Sidewinder air-to-air missiles
-weapons/us_aim9n_sidewinder/short;AIM-9N
-weapons/us_aim_120c_5;AIM-120C-5 air-to-air missiles
-weapons/us_aim_120c_5/short;AIM-120C-5
-weapons/us_aim_120c_7;AIM-120C-7 air-to-air missiles
-weapons/us_aim_120c_7/short;AIM-120C-7
-weapons/us_aim_120c_7_sam;AIM-120C-7 surface-to-air missiles
-weapons/us_aim_120c_7_sam/short;AIM-120C-7
-weapons/us_aim_120c_5_default;AIM-120C-5 air-to-air missiles
-weapons/us_aim_120c_5_default/short;AIM-120C-5
-weapons/us_aim_120b_switzerland;Flz Lwl LL 97 AMRAAM air-to-air missiles
-weapons/us_aim_120b_switzerland/short;Flz Lwl LL 97 AMRAAM
-weapons/us_aim_120b_default_switzerland;Flz Lwl LL 97 AMRAAM air-to-air missiles
-weapons/us_aim_120b_default_switzerland/short;Flz Lwl LL 97 AMRAAM
-weapons/us_aim_120c_5_switzerland;Flz Lwl LL 97 AMRAAM 120C-5 air-to-air missiles
-weapons/us_aim_120c_5_switzerland/short;Flz Lwl LL 97 AMRAAM 120C-5
-weapons/us_aim_120c_5_default_switzerland;Flz Lwl LL 97 AMRAAM 120C-5 air-to-air missiles
-weapons/us_aim_120c_5_default_switzerland/short;Flz Lwl LL 97 AMRAAM 120C-5
-weapons/il_python_5_sam;Python 5 air-to-air missiles
-weapons/il_python_5_sam/short;Python 5
-weapons/il_derby_sam;I-Derby SR surface-to-air missiles
-weapons/il_derby_sam/short;I-Derby SR
-weapons/us_aim_9x;AIM-9X air-to-air missiles
-weapons/us_aim_9x/short;AIM-9X
-weapons/atam_mistral_sam;Mistral surface-to-air missiles
-weapons/atam_mistral_sam/short;Mistral
-weapons/jp_aam3_default;AAM-3 air-to-air missiles
-weapons/jp_aam3_default/short;AAM-3
-weapons/jp_aam4_default;AAM-4 air-to-air missiles
-weapons/jp_aam4_default/short;AAM-4
-weapons/jp_asm1_missile;ASM-1 anti-ship missile
-weapons/jp_asm1_missile/short;ASM-1
-weapons/jp_asm2_missile;ASM-2 anti-ship missile
-weapons/jp_asm2_missile/short;ASM-2
-weapons/cannonFlzKan_76;20 mm Flz Kan 76 cannon
-weapons/cannonFlzKan_76/short;Flz Kan 76
-20mm_slpprj_m42;slpprj m/42
-25mm_pgu_32;PGU-32
-weapons/120mm_giat_cn120_26_f1_msc_user_cannon;120 mm CN120-26 cannon
-30mm_mk320;MK320
-weapons/180mm_IRIS_T_SL_user_cannon;IRIS-T SLM SAM
-us_iris_t_sl;IRIS-T SL
-weapons/us_iris_t_sl/short;IRIS-T SLM
-us_iris_t;Rbs 98
-weapons/178mm_sl_amraam_user_cannon;AIM-120 SAM
-weapons/127mm_aim_9x_user_cannon;AIM-9X SAM
-weapons/80mm_brenus_smoke_grenade_launcher;80 mm smoke grenade launcher
-weapons/80mm_brenus_smoke_grenade_launcher/short;Smoke
-37mm_breda_navy_he_t/name;37 mm HE-T
-40mm_bofors_mel58_navy_he/name;40 mm HE-T
-40mm_bofors_mel58_navy_he_tf/name;40 mm HE-T-PF
-25mm_type96_he_t;25 mm HE-T
-weapons/20mm_mg151_20_mid_drilling_user_cannon;20 mm MG151 autocannon
-weapons/20mm_mg151_20_out_drilling_user_cannon;20 mm MG151 autocannon
-20mm_mgr;M-Gesch.
-20mm_pzsprgr;Pzsprgr.
-40mm_bofors_flak28_navy_he_t/name;40 mm HE-T
-40mm_vickers_terni_mod_1930_he/name;40 mm HE-F
-40mm_vickers_terni_mod_1915_17_he_df/name;40 mm HE-TF
-152mm_45_he_dist_fuse;6 inch HE
-102mm_33_he;4 inch HE
-weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;5.25 inch/50 QF Mark I cannon
-155mm_60_type0_he_dist_fuse;155 mm Type 0 HE
-40mm_bofors_breda_l70_he;40 mm HEI-T
-40mm_bofors_breda_l70_he_radio_fuse;40 mm HE-VT
-weapons/305mm_52_obr1907_mariya_naval_user_cannon;12-inch/52 pattern 1907 cannon
-76mm_obr1915_hetf;76 mm HE-TF
-weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;381 mm/50 Ansaldo-OTO cannon, mod.1934
-381mm_50_sapcbc;381 mm Granata Perforante
-381mm_50_apcbc;381 mm Palla APCBC
-381mm_mark_22b_6crh_apc;381 mm Mk.XXIIb SC APC
-25mm_hedp;25 mm HEDP
-203mm_opf_mle1936_apcbc;203 mm OPF Mle 1936 APCBC
-weapons/380mm_45_mle_1935_naval_user_cannon;380 mm/45 model 1935 gun
-weapons/380mm_45_mle_1935_naval_user_cannon/short;380 mm/45 model 1935
-380mm_oea_mle1949_he;380 mm OEA Mle 1949 HE
-380mm_opf_mle1936_apcbc;380 mm OPF Mle 1936 APCBC
-380mm_opf_mle1943_apcbc;380 mm OPF Mle 1943 APCBC
-152mm_m1936_he_df;152 mm OEA Mle 1936 HE-TF
-weapons/100mm_45_mle_1930_naval_user_cannon;100 mm/45 model 1930 gun
-weapons/100mm_45_mle_1930_naval_user_cannon/short;100 mm/45 model 1930
-100mm_oea1928_he_df;100 mm OEA Mle 1928 HE-TF
-weapons/460mm_45_type_94_naval_user_cannon;460 mm/45 Type 94 gun
-weapons/460mm_45_type_94_naval_user_cannon/short;460 mm/45 Type 94
-460mm_type0_common_he;460 mm Type 0 common
-460mm_type91_apc;460 mm Type 91 APCBC
-weapons/406mm_50_b37_naval_user_cannon;406 mm/50 B-37 cannon
-406mm_obr1915_28_sapcbc;406 mm SAPCBC patt.1928
-406mm_obr1915_28_apcbc;406 mm APCBC patt.1928
-weapons/406mm_50_mk7_naval_user_cannon;16 inch/50 Mk.7 cannon
-406mm_mk8_mod6_apcbc;16 inch Mk.8 Mod.6 APCBC
-weapons/7_62mm_ss77_user_machinegun;7.62 mm SS-77 machine gun
-weapons/130mm_FB_10_rocket_launcher;FB-10 SAM
-fb10_rocket;FB-10
-fb10a_rocket;FB-10A
-weapons/30mm_pgz_625_user_cannon;30 mm PGZ-625 cannon
-weapons/cz_ofab_100mb;100 kg OFAB-100MB bomb
-weapons/cz_ofab_100mb/short;OFAB-100MB
-weapons/cz_ofab_100_110_tu_jupiter;100 kg OFAB-100-110TU bomb
-weapons/cz_ofab_100_110_tu_jupiter/short;OFAB-100-110TU
-weapons/30mm_denel_gi30_user_cannon;30 mm Denel GI-30 cannon
-weapons/160mm_spyder_launcher_user_cannon;SPYDER
+weapons/us_500lb_gbu_62_jdam_er;GBU-62 JDAM-ER guided bomb
+weapons/us_500lb_gbu_62_jdam_er/short;GBU-62 JDAM-ER
+weapons/us_500lb_gbu_62_ljdam_er;GBU-62 LJDAM-ER guided bomb
+weapons/us_500lb_gbu_62_ljdam_er/short;GBU-62 LJDAM-ER
+weapons/us_2000lb_gbu_64_jdam_er;GBU-64 JDAM-ER guided bomb
+weapons/us_2000lb_gbu_64_jdam_er/short;GBU-64 JDAM-ER
+weapons/jato_booster_left;Start rocket booster JATO
+weapons/jato_booster_left/short;JATO
+weapons/jato_booster_right;Start rocket booster JATO
+weapons/jato_booster_right/short;JATO
+weapons/mirage_3s_fuel_tank_6;Conformal fuel tank
+weapons/mirage_3s_fuel_tank_6/short;CFT
+weapons/mirage_3s_sepr_tank_7;Fuel tank SEPR 844 Pod
+weapons/mirage_3s_sepr_tank_7/short;Fuel
+weapons/mirage_3s_sepr_tank_8;Fuel tank SEPR 844 Pod
+weapons/mirage_3s_sepr_tank_8/short;Fuel
+weapons/sw_510l_wdns_drop_tank;Drop tank (510 liters.)
+weapons/sw_510l_wdns_drop_tank/short;Drop tank
+weapons/sw_510l_wdns_drop_tank_x2;Drop tank (510 liters.)
+weapons/sw_510l_wdns_drop_tank_x2/short;Drop tank
+weapons/sw_880l_rp825_drop_tank_mirage_iiis;Drop tank (880 liters.)
+weapons/sw_880l_rp825_drop_tank_mirage_iiis/short;Drop tank
+turret_universal/name;%s mm turret ammunition belt with AP and T shells
+turret_universal/name/short;AP/T
+weapons/sws_50_kg_sprengbombe;50 kg Sprengbombe bomb
+weapons/sws_50_kg_sprengbombe/short;50 kg Sprengbombe
+30mm_china_PTFP;30 mm PTFP
+weapons/gun_pk3;7.62 mm PK machine gun
+weapons/gun_pk3/short;PK
+weapons/us_aim_9x_block_2;AIM-9X Block 2 air-to-air missiles
+weapons/us_aim_9x_block_2/short;AIM-9X Block 2
+40mm_bofors_breda_l70_he/name;40 mm HEI-T
+40mm_bofors_breda_l70_he_radio_fuse/name;40 mm HE-VT

@@ -545,7 +545,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/AAQ-33**: Long name → **AN/AAQ-33 Sniper Advanced Targeting Pod**.
         - **TRML-4D** → **TRML 4D**.
         - **L-370-5** → **L-370-5L**.
-        - **Arena-M** → **Aryena-M**.
+        - **Arena-M** → **KAZ Aryena-M**.
         - **J/AAQ-2**: Long name → **J/AAQ-2**.
         - **Type 81 TA** → **81 Shiki Tankyorichi Taikū Yūdōdan C Gata Ta Kinō Rēdā**.
             - Japanese package: Name → **81式短距離地対空誘導弾C型多機能レーダー**.

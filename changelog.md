@@ -178,10 +178,11 @@ All dates are listed in DD-MM-YYYY format.
     - **Crusader, Mk. III, A.A., Mk. I**: Statcard name → **Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. I**.
     - **Crusader, Mk. III, A.A., Mk. II**: Statcard name → **Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II**.
     - **Māruta Mk. 1** → **Mārut Mk. 1**. Schwa deletion rules can fuck right off, that shit is so many levels of ass (please Hindi ffs use a goddamn halant to denote it at least please).
-    - **F-14A-65-GR** → **F-14A-110-GR**. Statcard name → **Grumman Aerospace Corporation G-303 | F-14A-110-GR Tomcat**
-    - **F-14B-150-GR**: Statcard name → **Grumman Aerospace Corporation G-303 | F-14B-150-GR Tomcat**
+    - **F-14A-65-GR** → **F-14A-110-GR**. Statcard name → **Grumman Aerospace Corporation G-303 | F-14A-110-GR Tomcat**.
+    - **F-14B-150-GR**: Statcard name → **Grumman Aerospace Corporation G-303 | F-14B-150-GR Tomcat**.
     - **Ki 83 Kō** → **Ki 83**.
         - Japanese package: Short name → **キ83**.
+    - **Marne** → **La Marne**. Statcard name → **Arsenal de Lorient | Aviso de 1re Classe | Aviso de Classe La Marne | La Marne (1925)**. While later in its service it was renamed to just Marne, it is in its 1925 fit where it was still named La Marne because the ship isn't named after the Marne River, it is named after the ship Marne which was named after the Marne River. The "La" in La Marne denotes it being named after the ship Marne.
 
 ### Weaponry:
 

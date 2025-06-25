@@ -202,12 +202,16 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - Update "Leviathans" additions:
+        - **AP/T** (some random menu text idk)
         - **AIM-9N**
         - **AIM-9X**
         - **AIM-9X SAM**
         - **AIM-120C-5**
         - **AIM-120C-7**
         - **AIM-120 SAM**
+        - **GBU-62 JDAM-ER**
+        - **GBU-62 LJDAM-ER**
+        - **GBU-64 JDAM-ER**
         - **12.7 mm M2HB machine gun** (another one)
         - **M61A2**
         - **20 mm XM301 cannon**
@@ -321,13 +325,16 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Leviathans" changes:
         - **AIM-9N**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder**.
-        - **AIM-9X** → **AIM-9X-1 (OFS 8.212)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder (Operational Flight Software 8.212)**.
+        - **AIM-9X** → **AIM-9X-1 (OFS 8.212)**. Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder (Operational Flight Software 8.212)**.
         - **AIM-120C-5**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM**.
         - **AIM-120C-7**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-7 AMRAAM**.
         - SLAMRAAM launchers (there's a reason these are grouped together like this):
             - **AIM-120 SAM** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-120C-7)**.
             - **AIM-9X SAM** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-1 (OFS 8.212))**.
             - In real life, these are the same launcher: the SLAMRAAM. However, Gaijin has decided to count it as 2 seperate launchers for some incomprehensible reason (it's not a technical limitation because the **SPYDER** launcher can fire multiple missiles) and so I am forced to have 2 of them here.
+        - **GBU-62 JDAM-ER** → **GBU-62(V)1/B**. Long name → **Bomb, Guided, GBU-62(V)1/B Joint Direct Attack Munition Extended Range**.
+        - **GBU-62 LJDAM-ER** → **GBU-62(V)1/B LJDAM-ER**. Long name → **Bomb, Guided, GBU-62(V)1/B Laser Joint Direct Attack Munition Extended Range**.
+        - **GBU-64 JDAM-ER** → **GBU-64(V)1/B**. Long name → **Bomb, Guided, GBU-64(V)1/B Joint Direct Attack Munition Extended Range**.
         - **12.7 mm M2HB machine gun** (another one) → **Browning Machine Gun, Caliber .50, HB, M2**.
         - **M61A2**: Long name → **Cannon, 20mm, M61A2**.
         - **20mm XM301 cannon** → **Cannon, 20mm, XM301**.

@@ -3,6 +3,8 @@
 caliber/mm_decimals;%s mm
 missile/guidance/ARH+IOG+GNSS+DL;ARH + IOG + GNSS + DL
 missile/guidance/ir+IOG+GNSS+DL;IR + IOG + GNSS + DL
+turret_universal/name;%s mm turret ammunition belt with AP and T shells
+turret_universal/name/short;AP/T
 
 //USA GUNS
 weapons/12_7mm_M2_HB_user_machinegun_for_400;<color=@userlogColoredText>12.7 mm</color> Browning Machine Gun, Caliber .50, HB, M2 <color=#ff6f00>MG</color>
@@ -171,6 +173,12 @@ b_mk_1z/name/short;I
 30mm_he_tf;30 mm HE-TF
 
 //USA BOMBS
+weapons/us_500lb_gbu_62_jdam_er;<color=@userlogColoredText>289.72 kg</color> Bomb, Guided, GBU-62(V)1/B Joint Direct Attack Munition Extended Range <color=#ff6f00>BMB-GNSS</color>
+weapons/us_500lb_gbu_62_jdam_er/short;GBU-62(V)1/B
+weapons/us_500lb_gbu_62_ljdam_er;<color=@userlogColoredText>289.72 kg</color> Bomb, Guided, GBU-62(V)1/B Laser Joint Direct Attack Munition Extended Range <color=#ff6f00>BMB-GNSS/LG</color>
+weapons/us_500lb_gbu_62_ljdam_er/short;GBU-62(V)1/B LJDAM-ER
+weapons/us_2000lb_gbu_64_jdam_er;<color=@userlogColoredText>987 kg</color> Bomb, Guided, GBU-64(V)1/B Joint Direct Attack Munition Extended Range <color=#ff6f00>BMB-GNSS</color>
+weapons/us_2000lb_gbu_64_jdam_er/short;GBU-64(V)1/B
 
 //GERMANY BOMBS
 weapons/de_sc1000;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>

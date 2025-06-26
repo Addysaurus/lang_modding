@@ -16,6 +16,14 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.13.01 - UNRELEASED
+
+### Weaponry:
+
+- #### Changes:
+
+    - **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2))** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2)** (the accidental extra parentheses was removed).
+
 ## 1.13.00 - 26-06-2025
 
 ### General:

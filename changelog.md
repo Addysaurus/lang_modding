@@ -284,6 +284,7 @@ All dates are listed in DD-MM-YYYY format.
         - **380 mm OEA Mle 1949 HE**
         - **380 mm OPF Mle 1936 APCBC**
         - **380 mm OPF Mle 1943 APCBC**
+        - **Fuel** (for the **SEPR 844**)
         - **Smoke** (a new one so the **AMX 30 B2 BRENUS**'s smokes finally have a name)
         - **Rbs98 SAM**
         - **Python 5**

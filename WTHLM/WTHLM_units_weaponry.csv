@@ -43,6 +43,8 @@ weapons/cannonDEFA552A_switzerland/short;Flz.Kan. 65
 weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 <color=#ff6f00>ACNN</color>
 
 //USSR GUNS
+weapons/gun_pk3l;<color=@userlogColoredText>7.62 mm</color> 6P6 | PK <color=#ff6f00>MG</color>
+weapons/gun_pk3/shortl;PK
 weapons/305mm_52_obr1907_mariya_naval_user_cannon;<color=@userlogColoredText>305 mm</color> 305-mm/52 obr. 1907 g. <color=#ff6f00>CNN</color>
 weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color> 406-mm/50 B-37 obr. 1937 g. <color=#ff6f00>CNN</color>
 
@@ -142,6 +144,7 @@ b_mk_1z/name/short;I
 //CHINA AMMUNITION
 30mm_china_API;3UBR6 (3BR6)
 30mm_china_HE;CS/BAH06-30
+30mm_china_PTFP;CS/BAE05-30
 30mm_dtc10_30;L/DTC10-30
 
 //ITALY AMMUNITION
@@ -149,8 +152,8 @@ b_mk_1z/name/short;I
 37mm_breda_navy_he_t/name;37 mm HE-T
 40mm_vickers_terni_mod_1930_he/name;40 mm HE-F
 40mm_vickers_terni_mod_1915_17_he_df/name;40 mm HE-TF
-40mm_bofors_breda_l70_he;40 mm HEI-T
-40mm_bofors_breda_l70_he_radio_fuse;40 mm HE-VT
+40mm_bofors_breda_l70_he/name;40 mm HEI-T
+40mm_bofors_breda_l70_he_radio_fuse/name;40 mm HE-VT
 381mm_50_sapcbc;Granata perforante da 381/50
 381mm_50_apcbc;Palla perforante da 381/50
 
@@ -181,6 +184,8 @@ weapons/us_2000lb_gbu_64_jdam_er;<color=@userlogColoredText>987 kg</color> Bomb,
 weapons/us_2000lb_gbu_64_jdam_er/short;GBU-64(V)1/B
 
 //GERMANY BOMBS
+weapons/sws_50_kg_sprengbombe;<color=@userlogColoredText>50 kg</color> 50 kg Sprengbombe <color=#ff6f00>BMB</color>
+weapons/sws_50_kg_sprengbombe/short;50 kg Sprengbombe
 weapons/de_sc1000;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>
 weapons/de_sc1000/short;S.C. 1000 L2
 weapons/de_sc1000_default;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>
@@ -225,6 +230,10 @@ weapons/uk_1650lb_sn_he/short;H.E., S.N., 1650-lb
 //USA ROCKETS
 
 //GERMANY ROCKETS
+weapons/jato_booster_left;Flugzeug Start Rakete 69 <color=#ff6f00>RKT-JATO</color>
+weapons/jato_booster_left/short;Flz.Sta.Rak. 69
+weapons/jato_booster_right;Flugzeug Start Rakete 69 <color=#ff6f00>RKT-JATO</color>
+weapons/jato_booster_right/short;Flz.Sta.Rak. 69
 
 //USSR ROCKETS
 
@@ -266,6 +275,8 @@ weapons/us_aim9n_sidewinder/short;AIM-9N
 weapons/us_aim_9x;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder (Operational Flight Software 8.212)
 weapons/us_aim_9x/short;AIM-9X-1 (OFS 8.212)
 us_aim_9x;AIM-9X-1 (OFS 8.212)
+weapons/us_aim_9x_block_2;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-2 Sidewinder
+weapons/us_aim_9x_block_2/short;AIM-9X-2
 weapons/us_aim_120c_5;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120c_5/short;AIM-120C-5
 weapons/us_aim_120c_5_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM <color=#ff6f00>AAM-ARH</color>
@@ -275,7 +286,7 @@ weapons/us_aim_120c_7/short;AIM-120C-7
 weapons/us_aim_120c_7_sam;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-7 AMRAAM <color=#ff6f00>SAM-ARH</color>
 weapons/us_aim_120c_7_sam/short;AIM-120C-7
 weapons/178mm_sl_amraam_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-120C-7) <color=#ff6f00>LCH</color>
-weapons/127mm_aim_9x_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-1 (OFS 8.212)) <color=#ff6f00>LCH</color>
+weapons/127mm_aim_9x_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2)) <color=#ff6f00>LCH</color>
 
 //GERMANY MISSILES
 weapons/sws_flz_lwf_63;"Flugzeug Lenkwaffe Luft-Luft 63 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
@@ -319,9 +330,10 @@ weapons/jp_asm1;80 Shiki Sora Taikan Yūdōdan | ASM-1 <color=#ff6f00>AShM-ARH</
 weapons/jp_asm1/short;ASM-1
 weapons/jp_asm2;93 Shiki Sora Taikan Yūdōdan | ASM-2 <color=#ff6f00>AShM-IR</color>
 weapons/jp_asm2/short;ASM-2
-160mm_sam_arh_1c;SAM-1C
+160mm_sam_arh_1c;SAM-1C (ARH)
 weapons/80mm_Type_91_launcher_user_cannon;"93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi ""Kurōzudo Arō"" <color=#ff6f00>LCH</color>"
 weapons/160mm_sam_1c_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
+weapons/160mm_sam_1c_slave_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
 
 //CHINA MISSILES
 fb10_rocket;L/FB10
@@ -348,6 +360,10 @@ weapons/160mm_spyder_launcher_user_cannon;SPYDER <color=#ff6f00>LCH</color>
 //USA FUEL TANKS
 
 //GERMANY FUEL TANKS
+weapons/mirage_3s_fuel_tank_6;Conformal fuel tank
+weapons/mirage_3s_fuel_tank_6/short;CFT
+weapons/sw_880l_rp825_drop_tank_mirage_iiis;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
+weapons/sw_880l_rp825_drop_tank_mirage_iiis/short;RP 825
 
 //USSR FUEL TANKS
 
@@ -384,6 +400,10 @@ weapons/nl_150gal_early_drop_tank_2;Drop tank (150 gal)
 weapons/nl_150gal_early_drop_tank_2/short;Drop tank (150 gal)
 
 //SWEDEN FUEL TANKS
+weapons/sw_510l_wdns_drop_tank;Drop tank (510 L)
+weapons/sw_510l_wdns_drop_tank/short;Drop tank (510 L)
+weapons/sw_510l_wdns_drop_tank_x2;Drop tank (510 L)
+weapons/sw_510l_wdns_drop_tank_x2/short;Drop tank (510 L)
 weapons/sw_275gal_drop_tank_1;Drop tank (275 gal)
 weapons/sw_275gal_drop_tank_1/short;Drop tank (275 gal)
 weapons/sw_275gal_drop_tank_2;Drop tank (275 gal)
@@ -903,9 +923,9 @@ weapons/uk_pgm_2000_iir;<color=@userlogColoredText>1060 kg</color> PGM 2000/3 <c
 weapons/uk_pgm_2000_iir/short;PGM 2000/3
 weapons/il_spice_250;<color=@userlogColoredText>130 kg</color> SPICE 250 <color=#ff6f00>BMB-EO/GNSS</color>
 weapons/il_spice_250/short;SPICE 250
-weapons/il_spice_1000;<color=@userlogColoredText>446.8 kg</color> SPICE 1000 <color=#ff6f00>BMB-EO/GNSS</color>
+weapons/il_spice_1000;<color=@userlogColoredText>490 kg</color> SPICE 1000 <color=#ff6f00>BMB-EO/GNSS</color>
 weapons/il_spice_1000/short;SPICE 1000
-weapons/il_spice_2000;<color=@userlogColoredText>893.6 kg</color> SPICE 2000 <color=#ff6f00>BMB-EO/GNSS</color>
+weapons/il_spice_2000;<color=@userlogColoredText>970 kg</color> SPICE 2000 <color=#ff6f00>BMB-EO/GNSS</color>
 weapons/il_spice_2000/short;SPICE 2000
 weapons/cn_ls_500j;<color=@userlogColoredText>570 kg</color> LS500J <color=#ff6f00>BMB-LG</color>
 weapons/cn_ls_500j/short;LS500J

@@ -44,6 +44,20 @@
 //UNCATEGORIZED AMMUNITION
 
 //USA BOMBS
+modification/us_gbu54b;GBU-54(V)1/B / 62(V)1/B LJDAM-ER
+modification/us_gbu54b/desc;"Loadout unlocked: 260.816 kg <color=@userlogColoredText>Bomb, Guided, GBU-54(V)1/B Laser Joint Direct Attack Munition</color> GNSS- and laser-guided bomb.
+Loadout unlocked: 289.72 kg <color=@userlogColoredText>Bomb, Guided, GBU-62(V)1/B Laser Joint Direct Attack Munition Extended Range</color> GNSS- and laser-guided bomb."
+modification/us_500lb_mk82_gbu38_gbu62_jdam;Mk 82 Mod 0 / GBU-38(V)1/B / 62(V)1/B
+modification/us_500lb_mk82_gbu38_gbu62_jdam/desc;"Loadout unlocked: 240.9 kg <color=@userlogColoredText>Bomb, 500lb, GP, Mk 82 Mod 0</color> bomb.
+Loadout unlocked: 240.9 kg <color=@userlogColoredText>Bomb, Guided, GBU-38(V)1/B Joint Direct Attack Munition</color> GNSS-guided bomb.
+Loadout unlocked: 289.72 kg <color=@userlogColoredText>Bomb, Guided, GBU-62(V)1/B Joint Direct Attack Munition Extended Range</color> GNSS-guided bomb."
+modification/us_1000lb_mk83_us_2000lb_mk84;Mk 83 Mod 0 / 84 Mod 0
+modification/us_1000lb_mk83_us_2000lb_mk84/desc;"Loadout unlocked: 446.8 kg <color=@userlogColoredText>Bomb, 1000lb, GP, Mk 83 Mod 0</color> bomb.
+Loadout unlocked: 893.6 kg <color=@userlogColoredText>Bomb, 2000lb, GP, Mk 84 Mod 0</color> bomb."
+modification/us_2000lb_mk84_gbu31_gbu64_jdam;Mk 84 Mod 0 / GBU-31(V)1/B / 64(V)1/B
+modification/us_2000lb_mk84_gbu31_gbu64_jdam/desc;"Loadout unlocked: 893.6 kg <color=@userlogColoredText>Bomb, 2000lb, GP, Mk 84 Mod 0</color> bomb.
+Loadout unlocked: 893.6 kg <color=@userlogColoredText>Bomb, Guided, GBU-31(V)1/B Joint Direct Attack Munition</color> GNSS-guided bomb.
+Loadout unlocked: 987 kg <color=@userlogColoredText>Bomb, Guided, GBU-64(V)1/B Joint Direct Attack Munition Extended Range</color> GNSS-guided bomb."
 
 //GERMANY BOMBS
 
@@ -62,6 +76,10 @@
 //SWEDEN BOMBS
 
 //ISRAEL BOMBS
+modification/il_spice_2000_gbu31_jdam;SPICE 2000 / GBU-31(V)1/B / 64(V)1/B
+modification/il_spice_2000_gbu31_jdam/desc;"Loadout unlocked: 970 kg <color=@userlogColoredText>SPICE 2000</color> electro-optically-guided bomb.
+Loadout unlocked: 893.6 kg <color=@userlogColoredText>Bomb, Guided, GBU-31(V)1/B Joint Direct Attack Munition</color> GNSS-guided bomb.
+Loadout unlocked: 987 kg <color=@userlogColoredText>Bomb, Guided, GBU-64(V)1/B Joint Direct Attack Munition Extended Range</color> GNSS-guided bomb."
 
 //UNCATEGORIZED BOMBS
 
@@ -134,6 +152,10 @@ modification/swd_rb74m;rb 74 (REMO)
 //UK SENSORS
 
 //JAPAN SENSORS
+modification/sniper_atp_pod;AN/AAQ-33
+modification/sniper_atp_pod/desc;Loadout unlocked: the <color=@userlogColoredText>AN/AAQ-33 Sniper Advanced Targeting Pod</color> laser/electro-optical targeting pod.
+modification/us_sniper_pod;AN/AAQ-33
+modification/us_sniper_pod/desc;Loadout unlocked: the <color=@userlogColoredText>AN/AAQ-33 Sniper Advanced Targeting Pod</color> laser/electro-optical targeting pod.
 
 //CHINA SENSORS
 

@@ -205,6 +205,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AP/T** (some random menu text idk)
         - **AIM-9N**
         - **AIM-9X**
+        - **AIM-9X Block 2**
         - **AIM-9X SAM**
         - **AIM-120C-5**
         - **AIM-120C-7**
@@ -223,6 +224,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Lwf LL 64/79**
         - **Flz Lwf LL 97 AMRAAM**
         - **Flz Lwf LL 97 AMRAAM 120C-5**
+        - **50 kg Sprengbombe**
+        - **Drop tank (880 liters.)** (for the **Mirage III S C.70**)
         - **Fl.Mg.29**
         - **Beob.-Doppel.-Mg.29**
         - **FFK-HS-45**
@@ -240,6 +243,7 @@ All dates are listed in DD-MM-YYYY format.
         - **OFAB-100**
         - **OFAB-100MB**
         - **OFAB-100-110TU**
+        - **PK**
         - **406 mm/50 B-37 cannon**
         - **76 mm HE-TF**
         - **406 mm SAPCBC patt.1928**
@@ -263,9 +267,11 @@ All dates are listed in DD-MM-YYYY format.
         - **ASM-1**
         - **ASM-2**
         - **Type 81C ARH** (it's another **SAM-1C**)
+        - **Type 81 SAM-1C** (it's another launcher for the **SAM-1C**)
         - **30 mm PGZ-625 cannon**
         - **30 mm APT**
         - **30 mm HEI**
+        - **30 mm PTFP**
         - **DTC10-30**
         - **FB-10A**
         - **FB-10 SAM**
@@ -287,6 +293,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Drop tank (275 gal.)**
         - **Drop tank (150 gal.)**
         - **Drop tank (50 gal.)**
+        - **Drop tank (510 liters.)** (for the **F-35 (WDNS)**)
         - **Oktogel** (explosive type)
         - **TG-50** (explosive type)
         - **ARH+IOG+GNSS+DL**
@@ -304,6 +311,8 @@ All dates are listed in DD-MM-YYYY format.
             - **Pzsprgr.**
             - **40 mm HE-T**
             - **DM11A1**
+            - **JATO**
+            - **CFT** (unused)
             - **12-inch/52 pattern 1907 cannon**
             - **IAI**
             - **API-T**
@@ -326,11 +335,12 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Leviathans" changes:
         - **AIM-9N**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder**.
         - **AIM-9X** → **AIM-9X-1 (OFS 8.212)**. Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder (Operational Flight Software 8.212)**.
+        - **AIM-9X Block 2** → **AIM-9X-2**. Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-2 Sidewinder**.
         - **AIM-120C-5**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM**.
         - **AIM-120C-7**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-7 AMRAAM**.
         - SLAMRAAM launchers (there's a reason these are grouped together like this):
             - **AIM-120 SAM** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-120C-7)**.
-            - **AIM-9X SAM** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-1 (OFS 8.212))**.
+            - **AIM-9X SAM** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2)**.
             - In real life, these are the same launcher: the SLAMRAAM. However, Gaijin has decided to count it as 2 seperate launchers for some incomprehensible reason (it's not a technical limitation because the **SPYDER** launcher can fire multiple missiles) and so I am forced to have 2 of them here.
         - **GBU-62 JDAM-ER** → **GBU-62(V)1/B**. Long name → **Bomb, Guided, GBU-62(V)1/B Joint Direct Attack Munition Extended Range**.
         - **GBU-62 LJDAM-ER** → **GBU-62(V)1/B LJDAM-ER**. Long name → **Bomb, Guided, GBU-62(V)1/B Laser Joint Direct Attack Munition Extended Range**.
@@ -343,6 +353,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Flz Lwf LL 64/79** → **Flz.Lwf. LL 64/79**. Long name → **Flugzeug Lenkwaffe Luft-Luft 64/79 "FALCO"**.
         - **Flz Lwf LL 97 AMRAAM** → **Flz.Lwf. LL 97**. Long name → **Flugzeug Lenkwaffe Luft-Luft 97 "AMRAAM"**.
         - **Flz Lwf LL 97 AMRAAM 120C-5** → **Flz.Lwf. LL AMRAAM 120C-5**. Long name → **Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5**.
+        - **50 kg Sprengbombe**: Long name → **50 kg Sprengbombe**.
         - **PGU-32** → **PGU-32/U**.
         - **16 inch Mk.8 Mod.6 APCBC** → **16" A.P. Mk 8 Mod 6**.
         - **Flz Lwf LB 66** → **Flz.Lwf. LB 66**. Long name → **Flugzeug Lenkwaffe Luft-Boden 66 "NORAS"**.
@@ -373,6 +384,7 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **4cm Panzergranate Patrone Leuchtspur**.
         - **DM11A1** (the new text for the existing belt) → **DM 11 A1**.
         - **DM 23** (the new text for the existing belt) → **DM 23**.
+        - **JATO** → **Flz.Sta.Rak. 69**. Long name → **Flugzeug Start Rakete 69**.
         - **40 mm HE-T** → **M-DN51**.
         - **40 mm HE-T-PF**  **PFHE Mk 2**.
         - **SC1000L2** → **S.C. 1000 L2**. Long name → **Sprengbombe Cylindrisch 1000 L2**.
@@ -380,6 +392,7 @@ All dates are listed in DD-MM-YYYY format.
         - **OFAB-100MB** → **OFAB-100mB**. Long name → **OFAB-100mB**.
         - **OFAB-100-110TU**: Long name → **OFAB-100-110TU "Jupiter"**.
         - **OFAB-250-270**: Long name → **OFAB-250-270**.
+        - **PK**: Long name → **6P6 | PK**.
         - **12-inch/52 pattern 1907 cannon** → **305-mm/52 obr. 1907 g.**.
         - **406 mm/50 B-37 cannon** → **406-mm/50 B-37 obr. 1937 g.**.
         - **76 mm HE-TF** → **OF obr. 1915 g.**.
@@ -409,11 +422,16 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Long name → **80式空対艦誘導弾 | ASM-1**.
         - **ASM-2**: Long name → **93 Shiki Sora Taikan Yūdōdan | ASM-2**.
             - Japanese package: Long name → **93式空対艦誘導弾 | ASM-2**.
-        - **Type 81C ARH** (it's another **SAM-1C**) → **SAM-1C**.
+        - **Type 81C ARH** (it's another **SAM-1C**) → **SAM-1C (ARH)**.
+        - **Type 81 SAM-1C** (it's another launcher for the **SAM-1C**) → **81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi "Shōto Arō"**.
+            - Japanese package: Long name → **81式短距離地対空誘導弾C型発射装置「ショートアロー」**.
+            - As an aside, it's file name is weapons/160mm_sam_1c_*slave*_launcher_user_cannon which is... yikes...
         - **30 mm PGZ-625 cannon** → **630 Xíng 30 Háomi Gāoshè Jīguān Pào**.
         - **30 mm HEI** (for the **CS/SA5 (2022)**) → **CS/BAH06-30**.
             - Full ammunition names package: Name → **CS/BAH06 Shì 30 Háomi Ahāshāng Bàopò Ránshāo Dàn**.
         - **30 mm APT** (for the **CS/SA5 (2022)**) → **3UBR6 (3BR6)**.
+        - **30 mm PTFP** (for the **CS/SA5 (2022)**) → **CS/BAE05-30**.
+            - Full ammunition names package: Name → **CS/BAE5 Xíng 30 Háomi Dìng Jù Yùzhì Pòpiàn Dàn**.
         - **DTC10-30** → **L/DTC10-30**.
             - Full ammunition names package: Name → **L/DTC10 Shì 30 Háomi Chuānjiǎdàn**.
         - **FB-10** → **L/FB10**.
@@ -452,6 +470,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Drop tank (275 gal.)** → **Drop tank (275 gal)**. This is not a full rename, just a formatting change.
         - **Drop tank (150 gal.)** → **Drop tank (150 gal)**. This is not a full rename, just a formatting change.
         - **Drop tank (50 gal.)** → **Drop tank (50 gal)**. This is not a full rename, just a formatting change.
+        - **Drop tank (510 liters.)** → **Drop tank (50 L)**. This is not a full rename, just a formatting change.
+        - **Drop tank (880 liters.)** → **RP 825**.
         - **ARH+IOG+GNSS+DL** → **ARH + IOG + GNSS + DL**.
         - **IR+IOG+GNSS+DL** → **IR + IOG + GNSS + DL**.
     - **Gun, 90mm, M54**: Caliber tag corrected from 20 mm to 90 mm.
@@ -488,6 +508,7 @@ All dates are listed in DD-MM-YYYY format.
     - **4 cm Bofors Flak 28 cannon** → **4cm Flugabwehrkanone 28**.
     - **40 mm/39 Vickers-Terni mod.1915/1917, Modif.1930 automatic cannon** → **Cannone Vickers-Terni da 40/39 modello 1915/1917**.
     - **BK 27**: Long name → **Bordkanone 27**.
+    - Corrected the mass tags for the **SPICE 1000** and **SPICE 2000**.
 
 ### Modifications:
 
@@ -497,6 +518,11 @@ All dates are listed in DD-MM-YYYY format.
         - All new weapons added in "Leviathans" have had their modifications added accordingly.
         - **FAB-250/Mk82**
         - **FAB-500/Mk83**
+        - **Gun pod PK-3**
+        - **Mk82/GBU-38/62**
+        - **Mk83/Mk84**
+        - **Mk84/GBU-31/64**
+        - **SPICE 2000/GBU-31/64**
 
 - #### Changes:
 
@@ -504,7 +530,13 @@ All dates are listed in DD-MM-YYYY format.
         - All new weapons added in "Leviathans" have had their modifications adjusted accordingly.
         - **FAB-250/Mk82** → **FAB-250M-62 / Mk 82 Mod 0**.
         - **FAB-500/Mk83** → **FAB-500M-62 / Mk 83 Mod 0**.
+        - **Gun pod PK-3** → **PK-3**.
+        - **Mk82/GBU-38/62** → **Mk 82 Mod 0 / GBU-38(V)1/B / 62(V)1/B**.
+        - **Mk83/Mk84** → **Mk 83 Mod 0 / 84 Mod 0**.
+        - **Mk84/GBU-31/64** → **Mk 84 Mod 0 / GBU-31(V)1/B / 64(V)1/B**.
+        - **SPICE 2000/GBU-31/64** → **SPICE 2000 / GBU-31(V)1/B / 64(V)1/B**.
     - All other weapons changed in this update have had their modifications adjusted accordingly
+    - **GBU-54(V)1/B** → **GBU-54(V)1/B / 62(V)1/B LJDAM-ER**.
 
 ### Engines:
 
@@ -574,6 +606,12 @@ All dates are listed in DD-MM-YYYY format.
         - **DIRCM** → **LDIRCM**.
         - **exMHR** → **Enhanced & Extended Multi-Mission Hemispheric Radar**.
     - Formatting corrected for the **M-82FN** engine.
+
+### Maps:
+
+- #### Changes:
+
+    - Minor file changes and removing unneeded quotations; no affect on appearance ingame.
 
 ## 1.12.05 - 22-05-2025
 

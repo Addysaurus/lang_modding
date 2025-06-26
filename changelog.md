@@ -385,9 +385,9 @@ All dates are listed in DD-MM-YYYY format.
             - Full ammunition names package: Name → **4cm Panzergranate Patrone Leuchtspur**.
         - **DM11A1** (the new text for the existing belt) → **DM 11 A1**.
         - **DM 23** (the new text for the existing belt) → **DM 23**.
-        - **JATO** → **Flz.Sta.Rak. 69**. Long name → **Flugzeug Start Rakete 69**.
+        - **JATO** → **Flz.Sta.Rak. 69**. Long name → **Flugzeug Start Rakete 69**. Seriously, thank you to Theren for this one because it never would have gotten fixed otherwise.
         - **40 mm HE-T** → **M-DN51**.
-        - **40 mm HE-T-PF**  **PFHE Mk 2**.
+        - **40 mm HE-T-PF**  **PFHE Mk 1**.
         - **SC1000L2** → **S.C. 1000 L2**. Long name → **Sprengbombe Cylindrisch 1000 L2**.
         - **OFAB-100** → **OFAB-100-120**. Long name → **OFAB-100-120**.
         - **OFAB-100MB** → **OFAB-100mB**. Long name → **OFAB-100mB**.

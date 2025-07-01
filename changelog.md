@@ -18,6 +18,13 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.13.01 - UNRELEASED
 
+### Vehicles:
+
+- #### Changes:
+
+    - **M1097A2 (AN/MPQ-64)**: Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (AN/MPQ-64 Sentinel)**
+    - **M1097A2 (SLAMRAAM)**: Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**
+
 ### Weaponry:
 
 - #### Changes:

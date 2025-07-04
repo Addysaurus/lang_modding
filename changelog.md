@@ -26,6 +26,8 @@ All dates are listed in DD-MM-YYYY format.
     - **M1097A2 (SLAMRAAM)**: Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**
     - **Z10ME-02**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10ME-02 Xíng Wuzhuāng Zhíshēngjī** (changed because it's supposed to be "Wǔzhuāng" but the ǔ would not render properly).
     - **L/Z10 (2018)**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | L/Z10 Xíng Wuzhuāng Zhíshēngjī (2018)** (changed because it's supposed to be "Wǔzhuāng" but the ǔ would not render properly).
+    - **Chi Ha Kai**: Mid distance name → **Chi Ha Kai**.
+        - Japanese package: Mid distance name **チハ改**.
 
 ### Weaponry:
 

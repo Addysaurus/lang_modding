@@ -18,6 +18,12 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.13.01 - UNRELEASED
 
+### General:
+
+- #### Changes:
+
+    - Added a new loading tip.
+
 ### Vehicles:
 
 - #### Changes:
@@ -42,9 +48,13 @@ All dates are listed in DD-MM-YYYY format.
 - I would like to welcome ph41te to the mod team! ph41te has joined to help on the newly leaked infantry weapons, particularly Soviet guns, and is extremely knowledgable and talented.
 - A new Full Ammunition package for Japanese has been added because the Full Ammunition package now puts the full weapon names in the descriptions of modifications.
 
-- #### Changes:
+- #### Additions:
 
-    - Corrected typo in the loading tip for the Battle of Nijmegen.
+    - Added 1 new loading tip:
+        - General: 1
+        - Air: 0
+        - Ground: 0
+        - Naval: 0
 
 ### Vehicles:
 

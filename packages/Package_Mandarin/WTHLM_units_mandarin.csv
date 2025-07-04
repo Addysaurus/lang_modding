@@ -3,8 +3,9 @@
 shop/group/i-16_china_group;忠28 / ☀ I-16-1
 shop/group/mig-19_china_group;J6A / 7II
 shop/group/j_11_group;␗ Su-27SK / K/JJ11A
+shop/group/cn_t_34_m4_group;␗ 特34 / ☀ M4A1
 shop/group/cn_type_63_62_group;L/ZTS63 / L/ZTQ62
-shop/group/cn_t_34_85_group;␗ T-34-85 / 85 (1958)
+shop/group/cn_t_34_85_group;␗ 特34 (1944) / (1960)
 shop/group/cn_zts_type_group;L/ZTS63 (1979) / L/ZBD86
 shop/group/cn_type_59_69_group;L/ZTZ59 / 69
 shop/group/cn_ztz_88_group;L/ZTZ88B / A
@@ -15,7 +16,7 @@ shop/group/cn_tor_hq_group;␗ 9А331 / L/ADK17
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 i-16_chung_28_shop;忠28甲
-i-16_chung_28_0;ЦКБ-39 Объединённое государственное политическое управление имени Менжинского / 中央南昌飛機製造廠 | 忠28甲
+i-16_chung_28_0;"CzKB-39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo / 中央南昌飛機製造廠 | 忠28甲"
 i-16_chung_28_1;忠28甲
 i-16_chung_28_2;忠28
 
@@ -29,11 +30,11 @@ i-16_chung_28_2;忠28
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 mig-19j_6a_shop;J6A
-mig-19j_6a_0;Микоя́н и Гуре́вич СМ-7/3 / 国营松陵机械厂 | J6A型飞机
+mig-19j_6a_0;Opytnyj zavod № 155 SM-7/3 / 国营松陵机械厂 | J6A型飞机
 mig-19j_6a_1;J6A
 mig-19j_6a_2;J6
 j_7_mk2_shop;J7II
-j_7_mk2_0;Микоя́н и Гуре́вич / 国营132厂 | J7II型飞机
+j_7_mk2_0;Opytnyj zavod № 155 / 国营132厂 | J7II型飞机
 j_7_mk2_1;J7II
 j_7_mk2_2;J7
 j_7d_shop;K/JJ7D
@@ -89,7 +90,7 @@ j_11b_0;"沈阳飞机工业 (集团) | K/JJ11B型飞机 ""应龙"""
 j_11b_1;K/JJ11B
 j_11b_2;K/JJ11
 jh_7a_shop;K/JJH7A
-jh_7a_0;西安飞机工业 (集团) | K/JJH7A型飞机 "飞豹"
+jh_7a_0;"西安飞机工业 (集团) | K/JJH7A型飞机 ""飞豹"""
 jh_7a_1;K/JJH7A
 jh_7a_2;K/JJH7
 
@@ -140,6 +141,22 @@ cn_object_211_shop;211 (prototype No. 4) (L/ZPL63)
 cn_object_211_0;西南车辆制造厂 | 211 (prototype No. 4) (L/ZPL1963式85毫米坦克炮)
 cn_object_211_1;211
 cn_object_211_2;Light tank
+cn_t_34_1942_shop;␗ 特34 (1942)
+cn_t_34_1942_0;␗ Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) | 特34中型坦克 (1942)
+cn_t_34_1942_1;␗ 特34
+cn_t_34_1942_2;Medium Tank
+cn_t_34_85_d_5t_shop;␗ 特34 (1944)
+cn_t_34_85_d_5t_0;␗ Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) | 特34中型坦克 (1944)
+cn_t_34_85_d_5t_1;␗ 特34 (1944)
+cn_t_34_85_d_5t_2;Medium Tank
+cn_type_58_shop;␗ 特34 (1960)
+cn_type_58_0;␗ Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) / 哈尔滨第一机械集团 | 特34中型坦克 (1960)
+cn_type_58_1;␗ 特34 (1960)
+cn_type_58_2;Medium Tank
+cn_t_34_85_zis_53_no215_shop;␗ 特34 (1944) (战车第2师)
+cn_t_34_85_zis_53_no215_0;␗ Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) | 特34中型坦克 (1944) (战车第2师)
+cn_t_34_85_zis_53_no215_1;␗ 特34 (1944)
+cn_t_34_85_zis_53_no215_2;Medium Tank
 cn_zsd63_pg87_shop;L/ZSD63B (PG87)
 cn_zsd63_pg87_0;中国兵器工业集团有限公司 | WZ531 | L/ZSD1963B式履带装甲输送车 (PG1987式双管25毫米高射机关炮)
 cn_zsd63_pg87_1;L/ZSD63B (PG87)
@@ -158,18 +175,6 @@ cn_type_62_shop;L/ZTQ62
 cn_type_62_0;哈尔滨第一机械集团 | WZ131 | L/ZTQ1962式轻型坦克
 cn_type_62_1;L/ZTQ62
 cn_type_62_2;Light Tank
-cn_t_34_85_d_5t_shop;␗ Т-34-85 (Sep, 1944)
-cn_t_34_85_d_5t_0;␗ Уральский танковый завод №183 | Обьект 35 | Т-34-85 обр. 1944 г. (September, 1944)
-cn_t_34_85_d_5t_1;␗ Т-34-85
-cn_t_34_85_d_5t_2;Medium tank
-cn_type_58_shop;␗ Т-34-85 (1958)
-cn_type_58_0;␗ Уральский танковый завод №183 / 哈尔滨第一机械集团 | Обьект 35 | Т-34-85 обр. 1944 г. (1958)
-cn_type_58_1;␗ Т-34-85
-cn_type_58_2;Medium tank
-cn_t_34_85_zis_53_no215_shop;␗ Т-34-85 (Sep, 1944) (战车第2师)
-cn_t_34_85_zis_53_no215_0;␗ Уральский танковый завод №183 | Обьект 35 | Т-34-85 обр. 1944 г. (September, 1944) (战车第2师)
-cn_t_34_85_zis_53_no215_1;␗ Т-34-85
-cn_t_34_85_zis_53_no215_2;Medium tank
 cn_zsl_92_shop;L/ZSL92
 cn_zsl_92_0;中国兵器工业集团有限公司 | WZ551A | L/ZSL1992式装甲输送车
 cn_zsl_92_1;L/ZSL92
@@ -181,19 +186,19 @@ cn_plz_83_2;SPH
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 cn_type_86_shop;L/ZBD86 (2020)
-cn_type_86_0;Челябинский тракторный завод + Курганмашзавод / 中国兵器工业集团有限公司 | WZ501 | L/ZBD1986式履带步兵战车 (2020)
+cn_type_86_0;Čyelâbinskij traktornyj zavod im. V. I. Lyenina / 中国兵器工业集团有限公司 | WZ501 | L/ZBD1986式履带步兵战车 (2020)
 cn_type_86_1;L/ZBD86
 cn_type_86_2;IFV
 cn_type_59_shop;L/ZTZ59
-cn_type_59_0;Уральский вагоностроительный завод имени И. В. Сталина / 内蒙古第一机械制造厂 | WZ120 | L/ZTZ1959式中型坦克
+cn_type_59_0;Ural'skij vagonostroityel'nyj zavod im. I. V. Stalinа / 内蒙古第一机械制造厂 | WZ120 | L/ZTZ1959式中型坦克
 cn_type_59_1;L/ZTZ59
 cn_type_59_2;Medium Tank
 cn_ztz_59a_shop;L/ZTZ59A
-cn_ztz_59a_0;Уральский вагоностроительный завод имени И. В. Сталина / 内蒙古第一机械制造厂 | WZ120A | L/ZTZ1959A式中型坦克
+cn_ztz_59a_0;Ural'skij vagonostroityel'nyj zavod im. I. V. Stalinа / 内蒙古第一机械制造厂 | WZ120A | L/ZTZ1959A式中型坦克
 cn_ztz_59a_1;L/ZTZ59A
 cn_ztz_59a_2;Medium Tank
 cn_type_59d_shop;L/ZTZ59D1
-cn_type_59d_0;Уральский вагоностроительный завод имени И. В. Сталина / 内蒙古第一机械制造厂 | WZ120C | L/ZTZ1959D1式中型坦克
+cn_type_59d_0;Ural'skij vagonostroityel'nyj zavod im. I. V. Stalinа / 内蒙古第一机械制造厂 | WZ120C | L/ZTZ1959D1式中型坦克
 cn_type_59d_1;L/ZTZ59D1
 cn_type_59d_2;Medium Tank
 cn_type_69_shop;L/ZTZ69
@@ -315,7 +320,7 @@ cn_vt_4b_0;中国兵器工业集团有限公司 | VT4A1主战坦克
 cn_vt_4b_1;VT4A1
 cn_vt_4b_2;MBT
 cn_tor_m1_shop;␗ 9А331-1
-cn_tor_m1_0;␗ Научно-производственное объединение Антей | БМ 9А331-1
+cn_tor_m1_0;␗ "Naučno-proizvodstvyennoye ob""yedinyeniye Antyej | БМ 9А331-1"
 cn_tor_m1_1;␗ 9А331-1
 cn_tor_m1_2;SPAAM
 cn_hq_17_shop;L/ADK17

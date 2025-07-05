@@ -185,10 +185,10 @@ cn_t_34_85_zis_53_no215_shop;␗ 特34 (1944) (战车第2师)
 cn_t_34_85_zis_53_no215_0;␗ Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) | 特34中型坦克 (1944) (战车第2师)
 cn_t_34_85_zis_53_no215_1;␗ 特34 (1944)
 cn_t_34_85_zis_53_no215_2;Medium Tank
-cn_zsd63_pg87_shop;L/ZSD63B (PG87)
-cn_zsd63_pg87_0;中国兵器工业集团有限公司 | WZ531 | L/ZSD1963B式履带装甲输送车 (PG1987式双管25毫米高射机关炮)
-cn_zsd63_pg87_1;L/ZSD63B (PG87)
-cn_zsd63_pg87_2;Light Tank
+cn_isu_152_shop;␗ ISU-152
+cn_isu_152_0;␗ Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo mašinostroyeniâ (VNII-100) | ISU-152自行火砲
+cn_isu_152_1;␗ ISU-152
+cn_isu_152_2;SPG
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 cn_type_63_I_shop;L/ZTS63
@@ -203,10 +203,22 @@ cn_type_62_shop;L/ZTQ62
 cn_type_62_0;哈尔滨第一机械集团 | WZ131 | L/ZTQ1962式轻型坦克
 cn_type_62_1;L/ZTQ62
 cn_type_62_2;Light Tank
+cn_zsd63_pg87_shop;L/ZSD63B (PG87)
+cn_zsd63_pg87_0;中国兵器工业集团有限公司 | WZ531 | L/ZSD1963B式履带装甲输送车 (PG1987式双管25毫米高射机关炮)
+cn_zsd63_pg87_1;L/ZSD63B (PG87)
+cn_zsd63_pg87_2;Light Tank
 cn_zsl_92_shop;L/ZSL92
 cn_zsl_92_0;中国兵器工业集团有限公司 | WZ551A | L/ZSL1992式装甲输送车
 cn_zsl_92_1;L/ZSL92
 cn_zsl_92_2;SPAAG
+cn_isu_122_shop;␗ ISU-122
+cn_isu_122_0;␗ Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo mašinostroyeniâ (VNII-100) | ISU-122自行火砲
+cn_isu_122_1;␗ ISU-122
+cn_isu_122_2;SPG
+cn_su_100_1945_shop;␗ SU-100
+cn_su_100_1945_0;␗ Ural'skij zavod tâžëlogo mašinostroyeniâ im. S. Ordžonikidzye (UZTM) | SU-100自行火砲
+cn_su_100_1945_1;␗ SU-100
+cn_su_100_1945_2;SPG
 cn_plz_83_shop;L/PLZ83
 cn_plz_83_0;中国兵器工业集团有限公司 | L/PLZ1983式152毫米自行加榴炮
 cn_plz_83_1;L/PLZ83

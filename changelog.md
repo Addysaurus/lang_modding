@@ -40,6 +40,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2))** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2)** (the accidental extra parentheses was removed).
+    - **ML-20S** → **ML-20S obr. 1937/43 gg.**.
 
 ## 1.13.00 - 26-06-2025
 

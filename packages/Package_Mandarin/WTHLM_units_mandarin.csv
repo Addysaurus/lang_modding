@@ -133,16 +133,36 @@ z_10a_1;L/Z10
 z_10a_2;L/Z10
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
-cn_type_97_chi_ha_shop;␗ 97式
-cn_type_97_chi_ha_0;␗ 三菱重工業 | 97式中型戰車
-cn_type_97_chi_ha_1;␗ 97式
+cn_t_26_1940_shop;☀ 特26 (1937)
+cn_t_26_1940_0;☀ Vickers-Armstrongs / Opytno-konstruktorskij myekhaničyeskij otdyel | 特26轻型戰車 (1937)
+cn_t_26_1940_1;☀ 特26
+cn_t_26_1940_2;Light Tank
+cn_t_26_no531_shop;☀ 特26 (1937) (第200师)
+cn_t_26_no531_0;☀ Vickers-Armstrongs / Opytno-konstruktorskij myekhaničyeskij otdyel | 特26轻型戰車 (1937) (第200师)
+cn_t_26_no531_1;☀ 特26
+cn_t_26_no531_2;Light Tank
+cn_type_97_chi_ha_shop;☀ 97式
+cn_type_97_chi_ha_0;☀ 三菱重工業 | 97式中型戰車
+cn_type_97_chi_ha_1;☀ 97式
 cn_type_97_chi_ha_2;Medium Tank
-cn_type_97_kai_shop;␗ 97式改
-cn_type_97_kai_0;␗ 三菱重工業 | 97式改中型戰車
-cn_type_97_kai_1;␗ 97式改
+cn_type_97_kai_shop;☀ 97式改
+cn_type_97_kai_0;☀ 三菱重工業 | 97式改中型戰車
+cn_type_97_kai_1;☀ 97式改
 cn_type_97_kai_2;Medium Tank
+cn_su_76m_1943_shop;␗ SU-76
+cn_su_76m_1943_0;␗ Kirovskij mašinostroityel'nyj zavod № 38 im. 1 Maâ (NKTP) | SU-76自行火砲
+cn_su_76m_1943_1;␗ SU-76
+cn_su_76m_1943_2;Tank Destroyer
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+cn_lvt_4_zis_2_shop;␗ LVT (ZiS-2)
+cn_lvt_4_zis_2_0;␗ Food Machinery Corporation | LVT水陆坦克 (ZiS-2 obr. 1941 g.)
+cn_lvt_4_zis_2_1;␗ LVT
+cn_lvt_4_zis_2_2;Tank Destroyer
+us_lvt_4_zis_2_shop;▃␗ LVT (ZiS-2)
+us_lvt_4_zis_2_0;▃␗ Food Machinery Corporation | LVT水陆坦克 (ZiS-2 obr. 1941 g.)
+us_lvt_4_zis_2_1;▃␗ LVT
+us_lvt_4_zis_2_2;Tank Destroyer
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 cn_object_211_shop;211 (prototype No. 4) (L/ZPL63)
@@ -327,9 +347,9 @@ cn_vt_4b_shop;VT4A1
 cn_vt_4b_0;中国兵器工业集团有限公司 | VT4A1主战坦克
 cn_vt_4b_1;VT4A1
 cn_vt_4b_2;MBT
-cn_tor_m1_shop;␗ 9А331-1
-cn_tor_m1_0;␗ "Naučno-proizvodstvyennoye ob""yedinyeniye Antyej | БМ 9А331-1"
-cn_tor_m1_1;␗ 9А331-1
+cn_tor_m1_shop;␗ 9A331-1
+cn_tor_m1_0;"␗ Naučno-proizvodstvyennoye ob""yedinyeniye Antyej | BM 9A331-1"
+cn_tor_m1_1;␗ 9A331-1
 cn_tor_m1_2;SPAAM
 cn_hq_17_shop;L/ADK17
 cn_hq_17_0;中国精密机械进出口总公司 | HQ17 | L/ADK17地對空飛彈系統

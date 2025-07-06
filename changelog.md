@@ -22,7 +22,13 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - Added a new loading tip.
+    - #### Additions:
+
+    - Added 7 new loading tips:
+        - General: 1
+        - Air: 6
+        - Ground: 0
+        - Naval: 0
 
 ### Vehicles:
 
@@ -30,6 +36,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - **M1097A2 (AN/MPQ-64)**: Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (AN/MPQ-64 Sentinel)**
     - **M1097A2 (SLAMRAAM)**: Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**
+    - **T86 GMC (early)**: Statcard name → **Marmon-Herrington Company | Carriage, Motor, Amphibious, 76mm Gun, T86 (early)**
     - **Z10ME-02**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10ME-02 Xíng Wuzhuāng Zhíshēngjī** (changed because it's supposed to be "Wǔzhuāng" but the ǔ would not render properly).
     - **L/Z10 (2018)**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | L/Z10 Xíng Wuzhuāng Zhíshēngjī (2018)** (changed because it's supposed to be "Wǔzhuāng" but the ǔ would not render properly).
     - **Chi Ha Kai**: Mid distance name → **Chi Ha Kai**.
@@ -48,14 +55,6 @@ All dates are listed in DD-MM-YYYY format.
 
 - I would like to welcome ph41te to the mod team! ph41te has joined to help on the newly leaked infantry weapons, particularly Soviet guns, and is extremely knowledgable and talented.
 - A new Full Ammunition package for Japanese has been added because the Full Ammunition package now puts the full weapon names in the descriptions of modifications.
-
-- #### Additions:
-
-    - Added 1 new loading tip:
-        - General: 1
-        - Air: 0
-        - Ground: 0
-        - Naval: 0
 
 ### Vehicles:
 

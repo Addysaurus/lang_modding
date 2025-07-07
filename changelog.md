@@ -41,6 +41,7 @@ All dates are listed in DD-MM-YYYY format.
     - **L/Z10 (2018)**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | L/Z10 Xíng Wuzhuāng Zhíshēngjī (2018)** (changed because it's supposed to be "Wǔzhuāng" but the ǔ would not render properly).
     - **Chi Ha Kai**: Mid distance name → **Chi Ha Kai**.
         - Japanese package: Mid distance name **チハ改**.
+    - **M3 / M5** (China) folder → **M3A3 / 5A1**
 
 ### Weaponry:
 

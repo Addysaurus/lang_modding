@@ -3,6 +3,7 @@
 shop/group/i-16_china_group;忠28 / ☀ I-16-1
 shop/group/mig-19_china_group;J6A / 7II
 shop/group/j_11_group;␗ Su-27SK / K/JJ11A
+shop/group/cn_m3_m5_stuart_group;☀ M3A3 / 5A1
 shop/group/cn_t_34_m4_group;␗ 特34 / ☀ M4A1
 shop/group/cn_type_63_62_group;L/ZTS63 / L/ZTQ62
 shop/group/cn_t_34_85_group;␗ 特34 (1944) / (1960)
@@ -168,6 +169,34 @@ cn_su_76m_1943_1;␗ SU-76
 cn_su_76m_1943_2;Tank Destroyer
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+cn_m3a3_stuart_shop;☀ M3A3
+cn_m3a3_stuart_0;☀ United States Army Ordnance Department | M3A3轻型戰車
+cn_m3a3_stuart_1;☀ M3A3
+cn_m3a3_stuart_2;Light Tank
+cn_m5a1_stuart_shop;☀ M5A1
+cn_m5a1_stuart_0;☀ United States Army Ordnance Department | M5A1轻型戰車
+cn_m5a1_stuart_1;☀ M5A1
+cn_m5a1_stuart_2;Light Tank
+cn_m3a3_stuart_shop;☀ M3A3 (第1临战团)
+cn_m3a3_stuart_0;☀ United States Army Ordnance Department | M3A3轻型戰車 (第1临时战车团)
+cn_m3a3_stuart_1;☀ M3A3
+cn_m3a3_stuart_2;Light Tank
+cn_m24_chaffee_shop;☀ M24
+cn_m24_chaffee_0;☀ United States Army Ordnance Department + Cadillac Motor Car Division | M24轻型戰車
+cn_m24_chaffee_1;☀ M24
+cn_m24_chaffee_2;Light Tank
+cn_m4a4_sherman_shop;☀ M4A4
+cn_m4a4_sherman_0;☀ United States Army Ordnance Department | M4A4中型戰車
+cn_m4a4_sherman_1;☀ M4A4
+cn_m4a4_sherman_2;Medium Tank
+cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 (第1临战团)
+cn_m4a4_sherman_1st_ptg_0;☀ United States Army Ordnance Department | M4A4中型戰車 (第1临时战车团)
+cn_m4a4_sherman_1st_ptg_1;☀ M4A4
+cn_m4a4_sherman_1st_ptg_2;Medium Tank
+cn_m4a1_76w_sherman_shop;☀ M4A1
+cn_m4a1_76w_sherman_0;☀ United States Army Ordnance Department | M4A1中型戰車
+cn_m4a1_76w_sherman_1;☀ M4A1
+cn_m4a1_76w_sherman_2;Medium Tank
 cn_gmc_cckw_353_m45_quad_shop;季姆西10輪 (M45C)
 cn_gmc_cckw_353_m45_quad_0;GMC Truck and Coach | 季姆西10輪大卡車 (Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)
 cn_gmc_cckw_353_m45_quad_1;季姆西10輪 (M45C)
@@ -180,6 +209,10 @@ us_lvt_4_zis_2_shop;▃␗ LVT (ZiS-2)
 us_lvt_4_zis_2_0;▃␗ Food Machinery Corporation | LVT水陆坦克 (ZiS-2 obr. 1941 g.)
 us_lvt_4_zis_2_1;▃␗ LVT
 us_lvt_4_zis_2_2;Tank Destroyer
+cn_m10_shop;☀ M10
+cn_m10_0;☀ United States Army Ordnance Department | M10驅逐砲車
+cn_m10_1;☀ M10
+cn_m10_2;Tank Destroyer
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 cn_object_211_shop;211 (prototype No. 4) (L/ZPL63)
@@ -244,6 +277,10 @@ cn_zsl_92_shop;L/ZSL92
 cn_zsl_92_0;中国兵器工业集团有限公司 | WZ551A | L/ZSL1992式装甲输送车
 cn_zsl_92_1;L/ZSL92
 cn_zsl_92_2;SPAAG
+cn_m36_shop;☀ M36
+cn_m36_0;☀ United States Army Ordnance Department | M36驅逐砲車
+cn_m36_1;☀ M36
+cn_m36_2;Tank Destroyer
 cn_isu_122_shop;␗ ISU-122
 cn_isu_122_0;␗ Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo mašinostroyeniâ (VNII-100) | ISU-122自行火砲
 cn_isu_122_1;␗ ISU-122

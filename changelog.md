@@ -42,6 +42,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Chi Ha Kai**: Mid distance name → **Chi Ha Kai**.
         - Japanese package: Mid distance name **チハ改**.
     - **M3 / M5** (China) folder → **M3A3 / 5A1**
+    - **HMS Brave Borderer (P 1011)** now appears properly (it was in the files before but I never removed the unchanged base game one from the files and that overrid the redone one).
 
 ### Weaponry:
 

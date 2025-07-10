@@ -24,9 +24,9 @@ All dates are listed in DD-MM-YYYY format.
 
     - #### Additions:
 
-    - Added 7 new loading tips:
-        - General: 1
-        - Air: 6
+    - Added 10 new loading tips (one of them is about the Emu War hehe):
+        - General: 3
+        - Air: 7
         - Ground: 0
         - Naval: 0
 

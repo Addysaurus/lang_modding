@@ -44,6 +44,7 @@ All dates are listed in DD-MM-YYYY format.
     - **M3 / M5** (China) folder → **M3A3 / 5A1**
     - **HMS Brave Borderer (P 1011)** now appears properly (it was in the files before but I never removed the unchanged base game one from the files and that overrid the redone one).
     - **Begleitpanzer 57** → **BgPz 57**. Statcard name → **Thyssen Henschel | Begleitpanzer 57**.
+    - **He 100 D-1** → **He 100 A-0**. Statcard name → **Heinkel Flugzeugwerke | He 100 A-0**.
 
 ### Weaponry:
 

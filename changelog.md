@@ -45,6 +45,7 @@ All dates are listed in DD-MM-YYYY format.
     - **HMS Brave Borderer (P 1011)** now appears properly (it was in the files before but I never removed the unchanged base game one from the files and that overrid the redone one).
     - **Begleitpanzer 57** → **BgPz 57**. Statcard name → **Thyssen Henschel | Begleitpanzer 57**.
     - **He 100 D-1** → **He 100 A-0**. Statcard name → **Heinkel Flugzeugwerke | He 100 A-0**.
+    - Period (typo) removed from the end of the mid distance name of the **Lightning Mk. 53**.
 
 ### Weaponry:
 

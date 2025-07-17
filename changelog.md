@@ -24,10 +24,10 @@ All dates are listed in DD-MM-YYYY format.
 
     - #### Additions:
 
-    - Added 10 new loading tips (one of them is about the Emu War hehe):
+    - Added 11 new loading tips (one of them is about the Emu War hehe):
         - General: 3
         - Air: 7
-        - Ground: 0
+        - Ground: 1
         - Naval: 0
 
 ### Vehicles:

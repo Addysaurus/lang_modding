@@ -1,35 +1,10 @@
 <ID|readonly|noverify>;<English>
-weapons/us_500lb_gbu_62_jdam_er;GBU-62 JDAM-ER guided bomb
-weapons/us_500lb_gbu_62_jdam_er/short;GBU-62 JDAM-ER
-weapons/us_500lb_gbu_62_ljdam_er;GBU-62 LJDAM-ER guided bomb
-weapons/us_500lb_gbu_62_ljdam_er/short;GBU-62 LJDAM-ER
-weapons/us_2000lb_gbu_64_jdam_er;GBU-64 JDAM-ER guided bomb
-weapons/us_2000lb_gbu_64_jdam_er/short;GBU-64 JDAM-ER
-weapons/jato_booster_left;Start rocket booster JATO
-weapons/jato_booster_left/short;JATO
-weapons/jato_booster_right;Start rocket booster JATO
-weapons/jato_booster_right/short;JATO
-weapons/mirage_3s_fuel_tank_6;Conformal fuel tank
-weapons/mirage_3s_fuel_tank_6/short;CFT
-weapons/mirage_3s_sepr_tank_7;Fuel tank SEPR 844 Pod
-weapons/mirage_3s_sepr_tank_7/short;Fuel
-weapons/mirage_3s_sepr_tank_8;Fuel tank SEPR 844 Pod
-weapons/mirage_3s_sepr_tank_8/short;Fuel
-weapons/sw_510l_wdns_drop_tank;Drop tank (510 liters.)
-weapons/sw_510l_wdns_drop_tank/short;Drop tank
-weapons/sw_510l_wdns_drop_tank_x2;Drop tank (510 liters.)
-weapons/sw_510l_wdns_drop_tank_x2/short;Drop tank
-weapons/sw_880l_rp825_drop_tank_mirage_iiis;Drop tank (880 liters.)
-weapons/sw_880l_rp825_drop_tank_mirage_iiis/short;Drop tank
-turret_universal/name;%s mm turret ammunition belt with AP and T shells
-turret_universal/name/short;AP/T
-weapons/sws_50_kg_sprengbombe;50 kg Sprengbombe bomb
-weapons/sws_50_kg_sprengbombe/short;50 kg Sprengbombe
-weapons/160mm_sam_1c_slave_launcher_user_cannon;Type 81 SAM-1C
-30mm_china_PTFP;30 mm PTFP
-weapons/gun_pk3;7.62 mm PK machine gun
-weapons/gun_pk3/short;PK
-weapons/us_aim_9x_block_2;AIM-9X Block 2 air-to-air missiles
-weapons/us_aim_9x_block_2/short;AIM-9X Block 2
-40mm_bofors_breda_l70_he/name;40 mm HEI-T
-40mm_bofors_breda_l70_he_radio_fuse/name;40 mm HE-VT
+weapons/de_sc1000_default/short;SC1000
+missile/guidance/ir+IOG+DL;IR+IOG+DL
+flare_launcher/name;Flare
+chaffs_launcher/name;Chaff
+weapons/105mm_type_75_user_cannon;105 mm Recoilless Rifle Type 75
+105mm_type_75_heat;Type 75 HEAT
+105mm_type_75_hesh;Type 75 HESH
+weapons/12_7mm_type_77_user_machinegun;12.7 mm Type 77 machine gun
+28mm_usa_navy_he_t/name;1.1 inch Mk.1 HE-T

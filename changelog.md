@@ -32,8 +32,14 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **SB-25J** (France / Netherlands) (jesus christ smh)
+    - **WZ141-1**
+
 - #### Changes:
 
+    - **SB-25J** (France / Netherlands) → **B-25K**. Statcard name → **
     - **M1097A2 (AN/MPQ-64)**: Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (AN/MPQ-64 Sentinel)**
     - **M1097A2 (SLAMRAAM)**: Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**
     - **T86 GMC (early)**: Statcard name → **Marmon-Herrington Company | Carriage, Motor, Amphibious, 76mm Gun, T86 (early)**
@@ -49,10 +55,23 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
+- #### Additions:
+
+    - **105 mm Recoilless Rifle Type 75**
+    - **Type 75 HEAT**
+    - **Type 75 HESH**
+    - **12.7 mm Type 77 machine gun**
+    - **IR+IOG+DL** (forgot to add in last update)
+    - **Flare** (some random text, forgot to add in last update)
+    - **Chaff** (some random text, forgot to add in last update)
+    - **1.1 inch Mk.1 HE-T** (forgot to add in last update)
+
 - #### Changes:
 
+    - **105 mm Recoilless Rifle Type 75** → **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào**.
     - **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2))** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2)** (the accidental extra parentheses was removed).
     - **ML-20S** → **ML-20S obr. 1937/43 gg.**.
+    - **IR+IOG+DL** → **IR + IOG + DL**.
 
 ## 1.13.00 - 26-06-2025
 

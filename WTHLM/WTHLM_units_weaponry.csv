@@ -62,7 +62,9 @@ weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</co
 weapons/460mm_45_type_94_naval_user_cannon/short;45 Kōkei 94 Shiki 40 Sanchi Hō
 
 //CHINA GUNS
+weapons/12_7mm_type_77_user_machinegun;<color=@userlogColoredText>12.7 mm</color> L/QJC1977 Shì 12.7 Háomi Chēzai Jīqiāng <color=#ff6f00>MG</color>
 weapons/30mm_pgz_625_user_cannon;<color=@userlogColoredText>30 mm</color> 630 Xíng 30 Háomi Gāoshè Jīguān Pào <color=#ff6f00>ACNN</color>
+weapons/105mm_type_75_user_cannon;<color=@userlogColoredText>75 mm</color> L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào <color=#ff6f00>CNN-RCL</color>
 
 //ITALY
 weapons/40mm_39_vickers_terni_mod15_17_modif1930_naval_user_cannon;<color=@userlogColoredText>40 mm</color> Cannone Vickers-Terni da 40/39 modello 1915/1917 <color=#ff6f00>ACNN</color>
@@ -147,6 +149,8 @@ b_mk_1z/name/short;I
 30mm_china_HE;CS/BAH06-30
 30mm_china_PTFP;CS/BAE05-30
 30mm_dtc10_30;L/DTC10-30
+105mm_type_75_heat;DTP/PW75-105
+105mm_type_75_hesh;DTJ/PW75-105
 
 //ITALY AMMUNITION
 20mm_perforante_m35_belt;Granata perforante da 20 mod. 35
@@ -2123,6 +2127,7 @@ missile/guidance;Guidance
 missile/guidance/ir;IR
 missile/guidance/ir+IOG;IR + IOG
 missile/guidance/ir+IOG+GNSS;IR + IOG + GNSS
+missile/guidance/ir+IOG+DL;IR + IOG + DL
 missile/guidance/tv;TV
 missile/guidance/tv+IOG;TV + IOG
 missile/guidance/SARH;SARH
@@ -2493,6 +2498,8 @@ weapons/countermeasure_split_launcher_jet_bol_pod_aim9l;<color=@userlogColoredTe
 weapons/countermeasure_split_launcher_jet_bol_pod_aim9l/short;<color=@userlogColoredText>26 mm</color> countermeasures
 weapons/countermeasure_split_launcher_jet_bol_pod_aim9m;<color=@userlogColoredText>26 mm</color> countermeasures
 weapons/countermeasure_split_launcher_jet_bol_pod_aim9m/short;<color=@userlogColoredText>26 mm</color> countermeasures
+flare_launcher/name;Flare
+chaffs_launcher/name;Chaff
 13mm_hotckiss_AP/name;AP-T
 13mm_hotckiss_AP/name/short;AP-T
 12mm_usa_M2HB_common/name;Common

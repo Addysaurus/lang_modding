@@ -36,10 +36,14 @@ All dates are listed in DD-MM-YYYY format.
 
     - **SB-25J** (France / Netherlands) (jesus christ smh)
     - **WZ141-1**
+    - **Shisaka**
 
 - #### Changes:
 
-    - **SB-25J** (France / Netherlands) → **B-25K**. Statcard name → **
+    - **SB-25J** (France / Netherlands) → **B-25K**. Statcard name → **North American Aviation NA-108 | B-25K Mitchell**.
+    - **WZ141-1** → **141 (1 Hào)**. Statcard name → **141 Chāo Qīngxíng Fan Tankè Zhàn Chē (Yàngchē 1 Hào)**.
+    - **Shisaka**: Statcard name → **Hitachi Zōsen | Kō Gata Kaibōkan | Hiburi Gata Kaibōkan (E-20B) | Shisaka**.
+        - Japanese package: **Shisaka** → **四阪**. Statcard name → **日立造船 | 甲型海防艦 | 日振型海防艦 (E-20B) | 四阪**.
     - **M1097A2 (AN/MPQ-64)**: Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (AN/MPQ-64 Sentinel)**
     - **M1097A2 (SLAMRAAM)**: Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (Surface-Launched Advanced Medium-Range Air-to-Air Missile)**
     - **T86 GMC (early)**: Statcard name → **Marmon-Herrington Company | Carriage, Motor, Amphibious, 76mm Gun, T86 (early)**
@@ -69,9 +73,29 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **105 mm Recoilless Rifle Type 75** → **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào**.
+    - **Type 75 HEAT** → **DTP/PW75-105**.
+        - Full Ammo Names package: **Type 75 HEAT** → **DTP/PW75 Shì 105 Háomi Pò Jia Dàn**.
+    - **Type 75 HESH** → **DTJ/PW75-105**.
+        - Full Ammo Names package: **Type 75 HESH** → **DTJ/PW75 Shì 105 Háomi Suì Jia Dàn**.
+    - **12.7 mm Type 77 machine gun** → **L/QJC1977 Shì 12.7 Háomi Chēzai Jīqiāng**.
+    - **1.1 inch Mk.1 HE-T** → **1.1" A.A. Mk S.D. 1**.
+    - **IR+IOG+DL** → **IR + IOG + DL**.
     - **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2))** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2)** (the accidental extra parentheses was removed).
     - **ML-20S** → **ML-20S obr. 1937/43 gg.**.
-    - **IR+IOG+DL** → **IR + IOG + DL**.
+
+### Decorations:
+
+- #### Additions:
+
+    - **Type 64**
+    - **Automatic grenade launcher (China)**
+    - **MRLS (China)**
+
+- #### Changes:
+
+    - **Type 64** → **L/QCW1964 Shì Wēishēng Chōngfēng Qiāng**.
+    - **Automatic grenade launcher (China)** → **L/QLZ1987 Shì 35 Háomi Zìdòng Liúdàn Fāshè Qì**.
+    - **MRLS (China)** → **L/PH1963 Shì 107 Háomi Lún Shì Huǒjiàn Pào**.
 
 ## 1.13.00 - 26-06-2025
 

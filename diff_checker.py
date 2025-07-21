@@ -22,3 +22,4 @@ def check_diff(old_file, new_file, output_file):
 check_diff('DEV/DEV_units.csv', 'DEV2/DEV2_units.csv', 'DIFF/DIFF_units.csv')
 check_diff('DEV/DEV_units_weaponry.csv', 'DEV2/DEV2_units_weaponry.csv', 'DIFF/DIFF_units_weaponry.csv')
 check_diff('DEV/DEV_units_modifications.csv', 'DEV2/DEV2_units_modifications.csv', 'DIFF/DIFF_units_modifications.csv')
+check_diff('DEV/DEV_unlocks_attachables.csv', 'DEV2/DEV2_unlocks_attachables.csv', 'DIFF/DIFF_unlocks_attachables.csv')

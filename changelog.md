@@ -77,7 +77,7 @@ All dates are listed in DD-MM-YYYY format.
         - Full Ammo Names package: **Type 75 HEAT** → **DTP/PW75 Shì 105 Háomi Pò Jia Dàn**.
     - **Type 75 HESH** → **DTJ/PW75-105**.
         - Full Ammo Names package: **Type 75 HESH** → **DTJ/PW75 Shì 105 Háomi Suì Jia Dàn**.
-    - **12.7 mm Type 77 machine gun** → **L/QJC1977 Shì 12.7 Háomi Chēzai Jīqiāng**.
+    - **12.7 mm Type 77 machine gun** → **L/QJG1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
     - **1.1 inch Mk.1 HE-T** → **1.1" A.A. Mk S.D. 1**.
     - **IR+IOG+DL** → **IR + IOG + DL**.
     - **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2))** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2)** (the accidental extra parentheses was removed).

@@ -83,6 +83,18 @@ All dates are listed in DD-MM-YYYY format.
     - **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2))** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2)** (the accidental extra parentheses was removed).
     - **ML-20S** → **ML-20S obr. 1937/43 gg.**.
 
+### Decals:
+
+- #### Additions:
+
+    - **Emblem of the Special Forces of the Nanjing Military Region**
+    - **Emblem of the 84th Brigade**
+
+- #### Changes:
+
+    - **Emblem of the Special Forces of the Nanjing Military Region** → **Emblem of the Tèzhong Zuòzhàn Dì 73 Lü**.
+    - **Emblem of the 84th Brigade** → **Emblem of the Tèzhong Zuòzhàn Dì 84 Lü**.
+
 ### Decorations:
 
 - #### Additions:
@@ -96,6 +108,16 @@ All dates are listed in DD-MM-YYYY format.
     - **Type 64** → **L/QCW1964 Shì Wēishēng Chōngfēng Qiāng**.
     - **Automatic grenade launcher (China)** → **L/QLZ1987 Shì 35 Háomi Zìdòng Liúdàn Fāshè Qì**.
     - **MRLS (China)** → **L/PH1963 Shì 107 Háomi Lún Shì Huǒjiàn Pào**.
+
+### Loading Screens:
+
+- #### Additions:
+
+    - **IJN Shisaka**
+
+- #### Changes:
+
+    - **IJN Shisaka** → **Shisaka**
 
 ## 1.13.00 - 26-06-2025
 

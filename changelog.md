@@ -109,6 +109,16 @@ All dates are listed in DD-MM-YYYY format.
     - **Automatic grenade launcher (China)** → **L/QLZ1987 Shì 35 Háomi Zìdòng Liúdàn Fāshè Qì**.
     - **MRLS (China)** → **L/PH1963 Shì 107 Háomi Lún Shì Huǒjiàn Pào**.
 
+### Skins:
+
+- #### Additions:
+
+    - **Unpainted camouflage** (**B-25K** (France / Netherlands))
+
+- #### Changes:
+
+    - **Unpainted camouflage** (**B-25K** (France / Netherlands)) → **B-25K — M-433, 16 Squadron**.
+
 ### Loading Screens:
 
 - #### Additions:

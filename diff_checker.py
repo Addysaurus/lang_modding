@@ -25,3 +25,5 @@ check_diff('DEV/DEV_units_modifications.csv', 'DEV2/DEV2_units_modifications.csv
 check_diff('DEV/DEV_unlocks_attachables.csv', 'DEV2/DEV2_unlocks_attachables.csv', 'DIFF/DIFF_unlocks_attachables.csv')
 check_diff('DEV/DEV_menu.csv', 'DEV2/DEV2_menu.csv', 'DIFF/DIFF_menu.csv')
 check_diff('DEV/DEV_regional_decals.csv', 'DEV2/DEV2_regional_decals.csv', 'DIFF/DIFF_regional_decals.csv')
+check_diff('DEV/DEV_regional_skins.csv', 'DEV2/DEV2_regional_skins.csv', 'DIFF/DIFF_regional_skins.csv')
+check_diff('DEV/DEV_unlocks_skins.csv', 'DEV2/DEV2_unlocks_skins.csv', 'DIFF/DIFF_unlocks_skins.csv')

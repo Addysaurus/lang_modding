@@ -50,7 +50,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Z10ME-02**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10ME-02 Xíng Wuzhuāng Zhíshēngjī** (changed because it's supposed to be "Wǔzhuāng" but the ǔ would not render properly).
     - **L/Z10 (2018)**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | L/Z10 Xíng Wuzhuāng Zhíshēngjī (2018)** (changed because it's supposed to be "Wǔzhuāng" but the ǔ would not render properly).
     - **Chi Ha Kai**: Mid distance name → **Chi Ha Kai**.
-        - Japanese package: Mid distance name **チハ改**.
+        - Japanese package: Mid distance name → **チハ改**.
     - **M3 / M5** (China) folder → **M3A3 / 5A1**
     - **HMS Brave Borderer (P 1011)** now appears properly (it was in the files before but I never removed the unchanged base game one from the files and that overrid the redone one).
     - **Begleitpanzer 57** → **BgPz 57**. Statcard name → **Thyssen Henschel | Begleitpanzer 57**.

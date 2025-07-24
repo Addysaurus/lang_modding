@@ -232,7 +232,7 @@ cn_m3a3_stuart_0;☀ United States Army Ordnance Department | M3A3轻型戰車 (
 cn_m3a3_stuart_1;☀ M3A3
 cn_m3a3_stuart_2;Light Tank
 cn_m24_chaffee_shop;☀ M24
-cn_m24_chaffee_0;☀ United States Army Ordnance Department + Cadillac Motor Car Division | M24轻型戰車
+cn_m24_chaffee_0;☀ United States Army Ordnance Department + Cadillac Motor Car Division | M24戰車
 cn_m24_chaffee_1;☀ M24
 cn_m24_chaffee_2;Light Tank
 cn_m4a4_sherman_shop;☀ M4A4
@@ -293,6 +293,14 @@ cn_isu_152_shop;␗ ISU-152
 cn_isu_152_0;␗ Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo mašinostroyeniâ (VNII-100) | ISU-152自行火砲
 cn_isu_152_1;␗ ISU-152
 cn_isu_152_2;SPG
+cn_m41_a3_walker_bulldog_shop;☀ M41A3
+cn_m41_a3_walker_bulldog_0;☀ Cadillac Motor Car Division | M41A3戰車『華克猛犬』
+cn_m41_a3_walker_bulldog_1;☀ M41A3
+cn_m41_a3_walker_bulldog_2;Light Tank
+cn_m_41d_shop;☀ M41D
+cn_m_41d_0;☀ Cadillac Motor Car Division / 陆军兵工整备发展中心 | M41D戰車『華克猛犬』
+cn_m_41d_1;☀ M41D
+cn_m_41d_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 cn_type_63_I_shop;L/ZTS63
@@ -344,7 +352,7 @@ cn_plz_83_0;中国兵器工业集团有限公司 | L/PLZ1983式152毫米自行�
 cn_plz_83_1;L/PLZ83
 cn_plz_83_2;SPH
 cn_type_64_shop;64式
-cn_type_64_0;陆军供应司令部兵工署 | 64式輕戰車
+cn_type_64_0;陆军供应司令部兵工署 | 64式戰車
 cn_type_64_1;64式
 cn_type_64_2;Light Tank
 cn_wz_141_shop;141 (1号)
@@ -357,6 +365,10 @@ cn_type_86_shop;L/ZBD86 (2020)
 cn_type_86_0;Čyelâbinskij traktornyj zavod im. V. I. Lyenina / 中国兵器工业集团有限公司 | WZ501 | L/ZBD1986式履带步兵战车 (2020)
 cn_type_86_1;L/ZBD86
 cn_type_86_2;IFV
+cn_m48a1_patton_III_shop;☀ M48A1
+cn_m48a1_patton_III_0;☀ Chrysler Defense Engineering | M48A1戰車
+cn_m48a1_patton_III_1;☀ M48A1
+cn_m48a1_patton_III_2;MBT
 cn_type_59_shop;L/ZTZ59
 cn_type_59_0;Ural'skij vagonostroityel'nyj zavod im. I. V. Stalinа / 内蒙古第一机械制造厂 | WZ120 | L/ZTZ1959式中型坦克
 cn_type_59_1;L/ZTZ59
@@ -385,12 +397,24 @@ cn_plz_05_shop;L/PLZ05
 cn_plz_05_0;中国兵器工业集团有限公司 | L/PLZ2005式155毫米自行加榴炮
 cn_plz_05_1;L/PLZ05
 cn_plz_05_2;SPH
+cn_m113a1_tow_shop;☀ M113A1 (M233)
+cn_m113a1_tow_0;☀ FMC Corporation | M113A1戰甲車 (Launcher, Tubular, Guided Missile, M233)
+cn_m113a1_tow_1;☀ M113A1
+cn_m113a1_tow_2;ATMC
 cn_plz_83_130_shop;130 mm SP GH
 cn_plz_83_130_0;中国兵器工业集团有限公司 130 mm Self-Propelled Gun-Howitzer
 cn_plz_83_130_1;130 mm SP GH
 cn_plz_83_130_2;SPH
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+cn_m60a3_tts_shop;☀ M60A3
+cn_m60a3_tts_0;☀ Chrysler Defense Engineering | M60A3戰車
+cn_m60a3_tts_1;☀ M60A3
+cn_m60a3_tts_2;MBT
+cn_cm11_shop;CM11
+cn_cm11_0;Chrysler Defense Engineering / 陆军兵工整备发展中心 | CM11戰車『勇虎』
+cn_cm11_1;CM11
+cn_cm11_2;MBT
 cn_ztz_88b_shop;L/ZTZ88B
 cn_ztz_88b_0;中国兵器工业集团有限公司 | WZ122E | L/ZTZ1988B式主战坦克
 cn_ztz_88b_1;L/ZTZ88B

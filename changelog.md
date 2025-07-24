@@ -82,6 +82,7 @@ All dates are listed in DD-MM-YYYY format.
     - **IR+IOG+DL** → **IR + IOG + DL**.
     - **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2))** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2)** (the accidental extra parentheses was removed).
     - **ML-20S** → **ML-20S obr. 1937/43 gg.**.
+    - **Launcher, Tubular, Guided Missile, M220A1** → **Launcher, Tubular, Guided Missile, M233**.
 
 ### Decals:
 
@@ -117,7 +118,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **Unpainted camouflage** (**B-25K** (France / Netherlands)) → **B-25K — M-433, 16 Squadron**.
+    - **Unpainted camouflage** (**B-25K** (France / Netherlands)) → **B-25K — M-433, 16 Squadron, ML-KNIL**.
 
 ### Loading Screens:
 

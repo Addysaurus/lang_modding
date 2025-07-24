@@ -82,7 +82,11 @@ All dates are listed in DD-MM-YYYY format.
     - **IR+IOG+DL** → **IR + IOG + DL**.
     - **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2))** → **Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2)** (the accidental extra parentheses was removed).
     - **ML-20S** → **ML-20S obr. 1937/43 gg.**.
-    - **Launcher, Tubular, Guided Missile, M220A1** → **Launcher, Tubular, Guided Missile, M233**.
+    - Weird **Launcher, Tubular, Guided Missile, M220A1** stuff:
+        - **Launcher, Tubular, Guided Missile, M220A1** → **Ground-Launched, Surface-Attack, Guided Missile, BGM-71A-3 TOW**.
+        - **Launcher, Tubular, Guided Missile, M220A1** → **Ground-Launched, Surface-Attack, Guided Missile, BGM-71C ITOW**.
+        - **Launcher, Tubular, Guided Missile, M220A1** → **Launcher, Tubular, Guided Missile, M233**.
+        - It's all confusing. Different file entries labeled almost exactly the same and used for different things. I don't really understand it and there's no good way to explain it in the changelog. Just roll with it, the point is that the TOW boxes' ammunition loadouts make sense now.
 
 ### Decals:
 

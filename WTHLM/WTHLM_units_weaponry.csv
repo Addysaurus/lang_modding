@@ -293,6 +293,12 @@ weapons/us_aim_120c_7_sam;Air-Launched, Intercept-Aerial, Guided Missile, AIM-12
 weapons/us_aim_120c_7_sam/short;AIM-120C-7
 weapons/178mm_sl_amraam_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-120C-7) <color=#ff6f00>LCH</color>
 weapons/127mm_aim_9x_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2) <color=#ff6f00>LCH</color>
+weapons/127mm_bgm_71b_tow_rocket_launcher;Ground-Launched, Surface-Attack, Guided Missile, BGM-71A-3 TOW <color=#ff6f00>ATGM-WG</color>
+weapons/127mm_bgm_71b_tow_rocket_launcher/short;BGM-71A-3
+weapons/127mm_bgm_71c_itow_rocket_launcher;Ground-Launched, Surface-Attack, Guided Missile, BGM-71C ITOW <color=#ff6f00>ATGM-WG</color>
+weapons/127mm_bgm_71c_itow_rocket_launcher/short;BGM-71C
+weapons/127mm_iTOW_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233 <color=#ff6f00>LCH</color>
+weapons/127mm_BGM_71_tow_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233 <color=#ff6f00>LCH</color>
 
 //GERMANY MISSILES
 weapons/sws_flz_lwf_63;"Flugzeug Lenkwaffe Luft-Luft 63 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
@@ -315,6 +321,7 @@ weapons/fr_as30_switzerland;"Flugzeug Lenkwaffe Luft-Boden 66 ""NORAS"" <color=#
 weapons/fr_as30_switzerland/short;Flz.Lwf. LB 66
 weapons/sws_flz_lwf_lb_82;"Flugzeug Lenkwaffe Luft-Boden 82 ""MAVERICK"" <color=#ff6f00>AGM-EO</color>"
 weapons/sws_flz_lwf_lb_82/short;Flz.Lwf. LB 82
+weapons/127mm_BGM_71_tow_Wiesel_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233 <color=#ff6f00>LCH</color>
 weapons/180mm_IRIS_T_SL_user_cannon;IRIS-T SLM Startgerät
 us_iris_t_sl;IRIS-T SLM
 weapons/us_iris_t_sl/short;IRIS-T SLM
@@ -4848,8 +4855,6 @@ weapons/81mm_tucha_launcher/short;smoke
 weapons/81mm_3d17_smoke_launcher;81 mm smoke grenade launcher
 weapons/81mm_3d17_smoke_launcher/short;smoke
 81mm_3d17;81 mm smoke grenade 3D17
-weapons/127mm_bgm_71b_tow_rocket_launcher;Launcher, Tubular, Guided Missile, M233 <color=#ff6f00>LCH</color>
-weapons/127mm_bgm_71b_tow_rocket_launcher/short;M220A1
 weapons/127_bgm_71_TOW/short;BGM-71A-3
 127_bgm_71_TOW;BGM-71A-3 TOW
 weapons/127_bgm_71_tow/short;BGM-71A-3
@@ -4860,7 +4865,6 @@ weapons/127mm_TOW_rocket_launcher/short;M220A1
 152mm_hj9;AFT09
 weapons/cn_hj_9/short;AFT09
 weapons/cn_hj_9;AFT09 anti-tank guided missile
-weapons/127mm_BGM_71_tow_Wiesel_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233 <color=#ff6f00>LCH</color>
 weapons/127mm_BGM_71_tow_M3A3_launcher_user_cannon;Launcher, Tubular, Guided Missile, M220A2, Dual Launcher <color=#ff6f00>LCH</color>
 70mm_m247;Rocket Warhead, 2.75-inch, HEDP, M247 <color=#ff6f00>RKT</color>
 50mm_arf_8m;ARF/8M3
@@ -4883,8 +4887,6 @@ weapons/105mm_PzK_M57_user_cannon;105 mm PzK M57 cannon
 weapons/127mm_ZT_3_launcher_user_cannon;ZT3
 127mm_swift;ZT3A1
 127mm_ingwe;ZT3A2
-weapons/127mm_iTOW_launcher_user_cannon;Launcher, Tubular, Guided Missile, M220A1
-weapons/127mm_BGM_71_tow_launcher_user_cannon;Launcher, Tubular, Guided Missile, M220A1
 weapons/127mm_bgm_71_tow_begleitpanzer_launcher_user_cannon;BGM-71 TOW <color=#ff6f00>ATGM-WG</color>
 127mm_i_tow;BGM-71C
 152mm_tow_2;BGM-71D-5
@@ -4922,8 +4924,6 @@ weapons/163mm_vt_1_launcher_user_cannon;VT1 SAM
 weapons/163mm_roland_vt_1_launcher_user_cannon;Roland SAM <color=#ff6f00>LCH</color>
 165mm_vt_1;VT1
 weapons/152mm_MIM146_launcher_user_cannon;MIM-146 ATGM/SAM
-weapons/127mm_bgm_71c_itow_rocket_launcher;Launcher, Tubular, Guided Missile, M220A1 <color=#ff6f00>LCH</color>
-weapons/127mm_bgm_71c_itow_rocket_launcher/short;M220A1
 weapons/127mm_bgm_71c_itow_rocket_launchr_user_cannon;BGM-71C
 weapons/127mm_bgm_71c_itow_rocket_launchr_user_cannon/short;BGM-71C
 127_bgm_71_itow;BGM-71C

@@ -16,13 +16,19 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.13.01 - 24-07-2025
+## 1.13.01 — UNRELEASED
 
 ### General:
 
 - #### Changes:
 
-    - #### Additions:
+    - Simplified the format of `userlang.csv` by removing the requirement for the extra semicolons. They were unnecessary anyway and I'm not sure why I included them in there.
+
+## 1.13.01 - 24-07-2025
+
+### General:
+
+- #### Additions:
 
     - Added 11 new loading tips (one of them is about the Emu War hehe):
         - General: 3

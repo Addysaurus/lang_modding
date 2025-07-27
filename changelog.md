@@ -24,6 +24,12 @@ All dates are listed in DD-MM-YYYY format.
 
     - Simplified the format of `userlang.csv` by removing the requirement for the extra semicolons. They were unnecessary anyway and I'm not sure why I included them in there.
 
+### Weaponry:
+
+- #### Changes:
+
+    - **Browning Machine Gun, Caliber .50, HB, M2** → **Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible**.
+
 ## 1.13.01 - 24-07-2025
 
 ### General:
@@ -63,6 +69,18 @@ All dates are listed in DD-MM-YYYY format.
     - **He 100 D-1** → **He 100 A-0**. Statcard name → **Heinkel Flugzeugwerke | He 100 A-0**.
     - Period (typo) removed from the end of the mid distance name of the **Lightning Mk. 53**.
 
+### Weaponry:
+
+- #### Additions:
+
+    - **105 mm Recoilless Rifle Type 75**
+    - **Type 75 HEAT**
+    - **Type 75 HESH**
+    - **12.7 mm Type 77 machine gun**
+    - **IR+IOG+DL** (forgot to add in last update)
+    - **Flare** (some random text, forgot to add in last update)
+    - **Chaff** (some random text, forgot to add in last update)
+    - **1.1 inch Mk.1 HE-T** (forgot to add in last update)
 ### Weaponry:
 
 - #### Additions:

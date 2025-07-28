@@ -1,5 +1,6 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
+shop/group/ki_27_group;☀ 九七式戰 / 一式戰鬥機三型
 shop/group/i-16_china_group;忠28 / ☀ I-16-1
 shop/group/mig-9_china_group;␗ 米格9 / ␗ I-307
 shop/group/mig-15_china_group;␗ 米格15比斯 / 17
@@ -19,6 +20,14 @@ shop/group/cn_ztz_99_group;L/ZTZ99 (1期) / (2期)
 shop/group/cn_tor_hq_group;␗ 9А331 / L/ADK17
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+ki-27_otsu_china_shop;☀ 九七式戰乙
+ki-27_otsu_china_0;☀ 中島飛行機 | 九七式戰鬥機乙
+ki-27_otsu_china_1;☀ 九七式戰乙
+ki-27_otsu_china_2;☀九七式戰
+ki_43_3_ko_shop;☀ 一式戰三型甲
+ki_43_3_ko_0;☀ 中島飛行機 / 立川飛行機 | 一式戰鬥機三型甲『隼』
+ki_43_3_ko_1;☀ 一式戰三型
+ki_43_3_ko_2;☀ 一式戰
 i-16_chung_28_shop;忠28甲
 i-16_chung_28_0;"CzKB-39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo / 中央南昌飛機製造廠 | 忠28甲"
 i-16_chung_28_1;忠28甲
@@ -201,21 +210,21 @@ cn_t_26_no531_shop;☀ 特26 (1937) (第200师)
 cn_t_26_no531_0;☀ Vickers-Armstrongs / Opytno-konstruktorskij myekhaničyeskij otdyel | 特26轻型戰車 (1937) (第200师)
 cn_t_26_no531_1;☀ 特26
 cn_t_26_no531_2;Light Tank
-cn_type_97_chi_ha_shop;☀ 97式
-cn_type_97_chi_ha_0;☀ 三菱重工業 | 97式中型戰車
-cn_type_97_chi_ha_1;☀ 97式
+cn_type_97_chi_ha_shop;☀ 九七式
+cn_type_97_chi_ha_0;☀ 三菱重工業 | 九七式中型戰車
+cn_type_97_chi_ha_1;☀ 九七式
 cn_type_97_chi_ha_2;Medium Tank
-cn_type_97_kai_shop;☀ 97式改
-cn_type_97_kai_0;☀ 三菱重工業 | 97式改中型戰車
-cn_type_97_kai_1;☀ 97式改
+cn_type_97_kai_shop;☀ 九七式改
+cn_type_97_kai_0;☀ 三菱重工業 | 九七式改中型戰車
+cn_type_97_kai_1;☀ 九七式改
 cn_type_97_kai_2;Medium Tank
-cn_sdkfz_222_early_shop;豪须式4.5吨
-cn_sdkfz_222_early_0;Eisenwerk Weserhütte | 豪须式4.5吨装甲車
+cn_sdkfz_222_early_shop;豪须式四點五吨
+cn_sdkfz_222_early_0;Eisenwerk Weserhütte | 豪须式四點五吨装甲車
 cn_sdkfz_222_early_1;豪须
 cn_sdkfz_222_early_2;SPAAG
-cn_m8_scott_shop;☀ 8式
-cn_m8_scott_0;☀ United States Army Ordnance Department | 8式75炮战車
-cn_m8_scott_1;☀ 8式
+cn_m8_scott_shop;☀ 八式
+cn_m8_scott_0;☀ United States Army Ordnance Department | 八式七五炮战車
+cn_m8_scott_1;☀ 八式
 cn_m8_scott_2;Medium Tank
 cn_su_76m_1943_shop;␗ SU-76
 cn_su_76m_1943_0;␗ Kirovskij mašinostroityel'nyj zavod № 38 im. 1 Maâ (NKTP) | SU-76自行火砲
@@ -231,10 +240,10 @@ cn_m5a1_stuart_shop;☀ M5A1
 cn_m5a1_stuart_0;☀ United States Army Ordnance Department | M5A1轻型戰車
 cn_m5a1_stuart_1;☀ M5A1
 cn_m5a1_stuart_2;Light Tank
-cn_m3a3_stuart_shop;☀ M3A3 (第1临战团)
-cn_m3a3_stuart_0;☀ United States Army Ordnance Department | M3A3轻型戰車 (第1临时战车团)
-cn_m3a3_stuart_1;☀ M3A3
-cn_m3a3_stuart_2;Light Tank
+cn_m3a3_stuart_1st_ptg_shop;☀ M3A3 (第一临战团)
+cn_m3a3_stuart_1st_ptg_0;☀ United States Army Ordnance Department | M3A3轻型戰車 (第一临时战车团)
+cn_m3a3_stuart_1st_ptg_1;☀ M3A3
+cn_m3a3_stuart_1st_ptg_2;Light Tank
 cn_m24_chaffee_shop;☀ M24
 cn_m24_chaffee_0;☀ United States Army Ordnance Department + Cadillac Motor Car Division | M24戰車
 cn_m24_chaffee_1;☀ M24
@@ -243,17 +252,17 @@ cn_m4a4_sherman_shop;☀ M4A4
 cn_m4a4_sherman_0;☀ United States Army Ordnance Department | M4A4中型戰車
 cn_m4a4_sherman_1;☀ M4A4
 cn_m4a4_sherman_2;Medium Tank
-cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 (第1临战团)
-cn_m4a4_sherman_1st_ptg_0;☀ United States Army Ordnance Department | M4A4中型戰車 (第1临时战车团)
+cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 (第一临战团)
+cn_m4a4_sherman_1st_ptg_0;☀ United States Army Ordnance Department | M4A4中型戰車 (第一临时战车团)
 cn_m4a4_sherman_1st_ptg_1;☀ M4A4
 cn_m4a4_sherman_1st_ptg_2;Medium Tank
 cn_m4a1_76w_sherman_shop;☀ M4A1
 cn_m4a1_76w_sherman_0;☀ United States Army Ordnance Department | M4A1中型戰車
 cn_m4a1_76w_sherman_1;☀ M4A1
 cn_m4a1_76w_sherman_2;Medium Tank
-cn_gmc_cckw_353_m45_quad_shop;季姆西10輪 (M45C)
-cn_gmc_cckw_353_m45_quad_0;GMC Truck and Coach | 季姆西10輪大卡車 (Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)
-cn_gmc_cckw_353_m45_quad_1;季姆西10輪 (M45C)
+cn_gmc_cckw_353_m45_quad_shop;季姆西十輪 (M45C)
+cn_gmc_cckw_353_m45_quad_0;GMC Truck and Coach | 季姆西十輪大卡車 (Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)
+cn_gmc_cckw_353_m45_quad_1;季姆西十輪 (M45C)
 cn_gmc_cckw_353_m45_quad_2;SPAAG
 cn_lvt_4_zis_2_shop;␗ LVT (ZiS-2)
 cn_lvt_4_zis_2_0;␗ Food Machinery Corporation | LVT水陆坦克 (ZiS-2 obr. 1941 g.)
@@ -355,9 +364,9 @@ cn_plz_83_shop;L/PLZ83
 cn_plz_83_0;中国兵器工业集团有限公司 | L/PLZ1983式152毫米自行加榴炮
 cn_plz_83_1;L/PLZ83
 cn_plz_83_2;SPH
-cn_type_64_shop;64式
-cn_type_64_0;陆军供应司令部兵工署 | 64式戰車
-cn_type_64_1;64式
+cn_type_64_shop;六四式
+cn_type_64_0;陆军供应司令部兵工署 | 六四式戰車
+cn_type_64_1;六四式
 cn_type_64_2;Light Tank
 cn_wz_141_shop;141 (1号)
 cn_wz_141_0;141超轻型反坦克战车 (样车1号)
@@ -473,12 +482,12 @@ cn_mbt2000_shop;MBT-2000
 cn_mbt2000_0;中国兵器工业集团有限公司 | BW123A | MBT-2000
 cn_mbt2000_1;MBT-2000
 cn_mbt2000_2;MBT
-cn_ztz_99_shop;L/ZTZ99 (1期)
-cn_ztz_99_0;中国兵器工业集团有限公司 | WZ123 | L/ZTZ1999式主战坦克 (1期)
+cn_ztz_99_shop;L/ZTZ99 (一期)
+cn_ztz_99_0;中国兵器工业集团有限公司 | WZ123 | L/ZTZ1999式主战坦克 (一期)
 cn_ztz_99_1;L/ZTZ99
 cn_ztz_99_2;MBT
-cn_ztz_99_w_shop;L/ZTZ99 (2期)
-cn_ztz_99_w_0;中国兵器工业集团有限公司 | WZ123 | L/ZTZ1999式主战坦克 (2期)
+cn_ztz_99_w_shop;L/ZTZ99 (二期)
+cn_ztz_99_w_0;中国兵器工业集团有限公司 | WZ123 | L/ZTZ1999式主战坦克 (二期)
 cn_ztz_99_w_1;L/ZTZ99
 cn_ztz_99_w_2;MBT
 cn_ztz_99a_shop;L/ZTZ99A

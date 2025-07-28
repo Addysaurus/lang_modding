@@ -28,7 +28,13 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - **Browning Machine Gun, Caliber .30, HB, M1919A4** → **Machine Gun, Caliber .30, Browning, M1919A4, Heavy Barrel**.
+    - **Browning Machine Gun, Caliber .30, AN/M2** → **Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed**.
+    - **Browning Machine Gun, Caliber .30, AN/M2** (the turret one) → **Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Flexible**.
     - **Browning Machine Gun, Caliber .50, HB, M2** → **Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible**.
+    - **Browning Machine Gun, Caliber .50, AN/M2** → **Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed**.
+    - **Browning Machine Gun, Caliber .50, AN/M2** (the turret one) → **Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Flexible With Fixed Back Plate**.
+    - **Browning Machine Gun, Caliber .50, AN/M3** → **Machine Gun, Caliber .50, Browning, AN/M3, Aircraft, Fixed**.
 
 ## 1.13.01 - 24-07-2025
 

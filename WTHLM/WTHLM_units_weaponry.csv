@@ -7,7 +7,30 @@ turret_universal/name;%s mm turret ammunition belt with AP and T shells
 turret_universal/name/short;AP/T
 
 //USA GUNS
+weapons/7_62mm_M1919A4_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, M1919A4, Heavy Barrel <color=#ff6f00>MG</color>
+weapons/gunBrowning30_usaaf;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning30_usaaf_1935;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning30_turret;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Flexible <color=#ff6f00>MG</color>
 weapons/12_7mm_M2_HB_user_machinegun_for_400;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
+weapons/12_7mm_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
+weapons/12_7mm_m2_hb_t77e1_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
+weapons/12_7mm_M2_HB_user_machinegun_for_M15;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
+weapons/12_7mm_exo_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
+weapons/gunBrowning50_early;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_early_1935;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M2;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M2_late;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M2_underwing;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_raf;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_raf_tutorial;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_raf_tutorial/short;AN/M2
+weapons/gunBrowning50_raf_turret;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_usaaf;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_turret;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Flexible With Fixed Back Plate <color=#ff6f00>MG</color>
+weapons/gunBrowning50_turret_late;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Flexible With Fixed Back Plate <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M3;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M3, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M3_underwing;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M3, Aircraft, Fixed <color=#ff6f00>MG</color>
 weapons/cannonM61;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61 Vulcan <color=#ff6f00>RCNN</color>
 weapons/cannonM61/short;M61
 weapons/cannonM61A1;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 Vulcan <color=#ff6f00>RCNN</color>
@@ -493,31 +516,13 @@ weapons/gunMle38;7.5 mm Fabrique Nationale Mle 38 machine gun
 weapons/gunBrowning303;<color=@userlogColoredText>7.7 mm</color> Machine Gun, .303, Browning, Mk. II <color=#ff6f00>MG</color>
 weapons/gunBrowning303_turret;<color=@userlogColoredText>7.7 mm</color> Machine Gun, .303, Browning, Mk. II <color=#ff6f00>MG</color>
 weapons/gunBrowning303_raf;<color=@userlogColoredText>7.7 mm</color> Machine Gun, .303, Browning, Mk. II <color=#ff6f00>MG</color>
-weapons/gunBrowning30_usaaf;<color=@userlogColoredText>7.62 mm</color> Browning Machine Gun, Caliber .30, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning30_usaaf_1935;<color=@userlogColoredText>7.62 mm</color> Browning Machine Gun, Caliber .30, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning30_turret;<color=@userlogColoredText>7.62 mm</color> Browning Machine Gun, Caliber .30, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_M3;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M3 <color=#ff6f00>MG</color>
 weapons/gunFN_M3P;12.7 mm FN M3P machine gun
 weapons/gunfn_60_30;7.62 mm FN 60.30 machine gun
 weapons/gunfn_60_30_mgp;7.62 mm FN 60.30 machine gun
 weapons/gunFN_M3P_cwp;12.7 mm FN M3P machine gun
 weapons/gunFN_M3M;12.7 mm FN M3M machine gun
-weapons/gunBrowning50_M3_underwing;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M3 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_early;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_early_1935;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_M2;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
 weapons/gunLKk_42;<color=@userlogColoredText>12.7 mm</color> 12,70 mm lentokonekivääri mallia 1942 <color=#ff6f00>MG</color>
 weapons/gunLKk_42/short;12,70 lkk/42
-weapons/gunBrowning50_M2_late;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_M2_underwing;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_raf;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_raf_tutorial;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_raf_tutorial/short;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_raf_turret;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_usaaf;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_turret;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
-weapons/gunBrowning50_turret_late;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, AN/M2 <color=#ff6f00>MG</color>
 weapons/gunDA762;<color=@userlogColoredText>7.62 mm</color> 56-P-323 | DA <color=#ff6f00>MG</color>
 weapons/cannonHispanoMkI;<color=@userlogColoredText>20 mm</color> Gun, Automatic, Hispano, 20-mm, Mk. I <color=#ff6f00>ACNN</color>
 weapons/cannonHispano404;20 mm Hispano 404 cannon
@@ -2057,7 +2062,6 @@ weapons/90mm_M3A1_user_cannon;<color=@userlogColoredText>90 mm</color> Gun, 90mm
 weapons/90mm_90_50_M3A1_user_cannon;<color=@userlogColoredText>90 mm</color> Cannone da 90/50 M3A1 <color=#ff6f00>CNN</color>
 weapons/90mm_M36_user_cannon;<color=@userlogColoredText>90 mm</color> Gun, 90mm, M36 <color=#ff6f00>CNN</color>
 weapons/7_62mm_Browning_MG4_user_machinegun;7.62 mm Browning MG4 machine gun
-weapons/7_62mm_M1919A4_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Browning Machine Gun, Caliber .30, HB, M1919A4 <color=#ff6f00>MG</color>
 weapons/7_62mm_SGMT_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 56-P-428MT | SGMT <color=#ff6f00>MG</color>
 weapons/7_62mm_maxim_garford_user_machinegun;<color=@userlogColoredText>7.62 mm</color> PM-10 obr. 1910 g. <color=#ff6f00>MG</color>
 weapons/7_62mm_Maxim_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 56-P-421 | PM-10 obr. 1910/30 gg. <color=#ff6f00>MG</color>
@@ -2094,13 +2098,10 @@ weapons/12_7mm_M85_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Ma
 weapons/7_62mm_L3A1_user_machinegun;7.62 mm L3A1 machine gun
 weapons/13_2mm_Breda_mod31_user_machinegun;13.2 mm Breda Mod.31 machine gun
 weapons/12_7mm_M3P_user_machinegun;12.7 mm M3P machine gun
-weapons/12_7mm_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/12_7mm_M2_HB_user_machinegun_for_leclerc;MIT 12.7 CRC F1
 weapons/12_7mm_sMG_50_user_machinegun;12.7 mm s.MG.50 machine gun
 weapons/12_7mm_Ksp_m88_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 12,7 mm kulspruta m/88 <color=#ff6f00>MG</color>
 weapons/7_62mm_ksp_m94_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 7,62 mm kulspruta m/94 <color=#ff6f00>MG</color>
-weapons/12_7mm_m2_hb_t77e1_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
-weapons/12_7mm_M2_HB_user_machinegun_for_M15;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/7_7mm_Vikkers_user_machinegun;7.7 mm Vickers machine gun
 weapons/7_7mm_vickers_go_no5_naval_user_machinegun;7.7 mm Vickers GO No.5 machine gun
 weapons/152mm_StuH_443_r_user_cannon;152 mm StuH 443(r) howitzer
@@ -6400,7 +6401,6 @@ weapons/152mm_exo_BGM_71_tow_launcher_user_cannon;BGM-71 TOW ATGM
 weapons/152mm_exo_9M133_launcher_user_cannon;9M133 ATGM
 weapons/43mm_exo_GM_93_user_cannon;43 mm GM-93P under-barrel grenade launcher
 weapons/12_7mm_exo_6P51_user_machinegun;12.7 mm 6P51 machine gun
-weapons/12_7mm_exo_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/8_6mm_exo_MG338_user_machinegun;8.6 mm MG338 machine gun
 weapons/70mm_exo_FIM_92X_rocket_launcher;FIM-92X Stinger <color=#ff6f00>AAM-IR</color>
 weapons/72mm_exo_9M336M_rocket_launcher;9M336

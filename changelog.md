@@ -24,6 +24,14 @@ All dates are listed in DD-MM-YYYY format.
 
     - Simplified the format of `userlang.csv` by removing the requirement for the extra semicolons. They were unnecessary anyway and I'm not sure why I included them in there.
 
+### Vehicles:
+
+- #### Changes:
+
+    - **Ki 43-III Kō** (China): Statcard name → **Nakajima Hikōki / Tachikawa Hikōki | 1 Shiki Sentōki 3 Gata Kō | Ki 43-III Kō "Hayabusa"** (corrected a missing space).
+    - **Ki 44-II Otsu** (Japan): Statcard name → **Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Otsu | Ki 44-II Hei "Shōki"** (corrected from "1 Gata" to "2 Gata").
+    - **Ki 44-II Hei** (Japan & China): Statcard name → **Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Hei | Ki 44-II Hei "Shōki"** (corrected from "1 Gata" to "2 Gata").
+
 ### Weaponry:
 
 - #### Changes:

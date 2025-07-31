@@ -1,7 +1,9 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
 shop/group/ki_27_group;☀ 九七式戰 / 一式戰鬥機三型
-shop/group/i-16_china_group;忠28 / ☀ 伊-16-1
+shop/group/i-16_china_group;忠28 / ☀ E-16-1
+shop/group/db_3_china_group;☀ D.B.3 / C.B. (M-103U)
+shop/group/p_40_china_group;☀ P-40E / 43A-1
 shop/group/mig-9_china_group;␗ 米格9 / ␗ I-307
 shop/group/mig-15_china_group;␗ 米格15比斯 / 17
 shop/group/mig-19_china_group;J6A / 7II
@@ -20,10 +22,10 @@ shop/group/cn_ztz_99_group;L/ZTZ99 (一期) / (二期)
 shop/group/cn_tor_hq_group;␗ 9А331 / L/ADK17
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
-gladiator_mk1_china_shop;鬥士Mk. I
-gladiator_mk1_china_0;Gloster Aircraft Company | 鬥士Mk. I「格機」
-gladiator_mk1_china_1;鬥士Mk. I
-gladiator_mk1_china_2;鬥士
+gladiator_mk1_china_shop;格機
+gladiator_mk1_china_0;Gloster Aircraft Company | 格機
+gladiator_mk1_china_1;格機
+gladiator_mk1_china_2;格機
 ki-27_otsu_china_shop;☀ 九七式戰乙
 ki-27_otsu_china_0;☀ 中島飛行機 | 九七式戰鬥機乙
 ki-27_otsu_china_1;☀ 九七式戰乙
@@ -32,44 +34,80 @@ ki_43_3_ko_shop;☀ 一式戰三型甲
 ki_43_3_ko_0;☀ 中島飛行機 / 立川飛行機 | 一式戰鬥機三型甲「隼」
 ki_43_3_ko_1;☀ 一式戰三型
 ki_43_3_ko_2;☀ 一式戰
-cw_21_shop;☀ CW-21
-cw_21_0;☀ Curtiss-Wright Corporation Model 21
-cw_21_1;☀ CW-21
-cw_21_2;☀ CW-21
-i-15bis_china_shop;☀ 伊-15比斯
-i-15bis_china_0;☀ Opytno-konstruktorskoye bûro № 51 | 伊-15比斯
-i-15bis_china_1;☀ 伊-15比斯
-i-15bis_china_2;☀ 伊-15
-i-16_type5_1935_china_shop;☀ 伊-16-5
-i-16_type5_1935_china_0;☀ Opytno-konstruktorskoye bûro № 51 | 伊-16-5型
-i-16_type5_1935_china_1;☀ 伊-16-5
-i-16_type5_1935_china_2;☀ 伊-16
-i-16_type10_china_shop;☀ 伊-16-10
-i-16_type10_china_0;☀ Opytno-konstruktorskoye bûro № 51 | 伊-16-10型
-i-16_type10_china_1;☀ 伊-16-10
-i-16_type10_china_2;☀ 伊-16
-i-16_type17_china_shop;☀ 伊-16-17
-i-16_type17_china_0;☀ Opytno-konstruktorskoye bûro № 51 | 伊-16-17型
-i-16_type17_china_1;☀ 伊-16-17
-i-16_type17_china_2;☀ 伊-16
+cw_21_shop;☀ C.W.21
+cw_21_0;☀ Curtiss-Wright Corporation Model 21 | C.W.21
+cw_21_1;☀ C.W.21
+cw_21_2;☀ C.W.21
+i-15bis_china_shop;☀ E-15比斯
+i-15bis_china_0;☀ Opytno-konstruktorskoye bûro № 51 | E-15比斯
+i-15bis_china_1;☀ E-15比斯
+i-15bis_china_2;☀ E-15
+i-16_type5_1935_china_shop;☀ E-16-5
+i-16_type5_1935_china_0;☀ Opytno-konstruktorskoye bûro № 51 | E-16-5型
+i-16_type5_1935_china_1;☀ E-16-5
+i-16_type5_1935_china_2;☀ E-16
+i-16_type10_china_shop;☀ E-16-10
+i-16_type10_china_0;☀ Opytno-konstruktorskoye bûro № 51 | E-16-10型
+i-16_type10_china_1;☀ E-16-10
+i-16_type10_china_2;☀ E-16
+i-16_type17_china_shop;☀ E-16-17
+i-16_type17_china_0;☀ Opytno-konstruktorskoye bûro № 51 | E-16-17型
+i-16_type17_china_1;☀ E-16-17
+i-16_type17_china_2;☀ E-16
 i-16_chung_28_shop;忠28甲
-i-16_chung_28_0;"CzKB-39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo / 中央南昌飛機製造廠 | 忠28甲"
+i-16_chung_28_0;"CzKB-39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo / 中央飛機製造廠 | 忠28甲"
 i-16_chung_28_1;忠28甲
 i-16_chung_28_2;忠28
-i-153_m62_china_shop;☀ 伊-153
-i-153_m62_china_0;☀ Opytno-konstruktorskoye bûro № 51 | 伊-153
-i-153_m62_china_1;☀ 伊-153
-i-153_m62_china_2;☀ 伊-153
+i-153_m62_china_shop;☀ E-153
+i-153_m62_china_0;☀ Opytno-konstruktorskoye bûro № 51 | E-153
+i-153_m62_china_1;☀ E-153
+i-153_m62_china_2;☀ E-153
+hs-123a-1_china_shop;恆機
+hs-123a-1_china_0;Henschel Flugzeug-Werke | 恆機
+hs-123a-1_china_1;恆機
+hs-123a-1_china_2;恆機
+v_11g_shop;☀ V-11-G
+v_11g_0;☀ Vultee Aircraft V-11-G | V-11-G型
+v_11g_1;☀ V-11-G
+v_11g_2;☀ V-11
+v_12d_shop;☀ V-12-D
+v_12d_0;☀ Vultee Aircraft V-12-D | V-12-D型
+v_12d_1;☀ V-12-D
+v_12d_2;☀ V-12
+hawk_iii_shop;☀ 霍克III
+hawk_iii_0;☀ Curtiss-Wright Corporation Model 68C / 中央飛機製造廠 | 霍克III
+hawk_iii_1;☀ 霍克III
+hawk_iii_2;☀ 霍克III
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+p-66_shop;P-48-C
+p-66_0;Vultee Aircraft V-48-C | P-48-C型「前鋒」
+p-66_1;P-48-C
+p-66_2;P-48
+p-43a-1_china_shop;☀ P-43A-1
+p-43a-1_china_0;☀ Republic Aviation Corporation AP-4A | P-43A-1型
+p-43a-1_china_1;☀ P-43A
+p-43a-1_china_2;☀ P-43
+p-40e_china_shop;☀ P-40E
+p-40e_china_0;☀ Curtiss-Wright Corporation Hawk Model 87B-2 | P-40E型
+p-40e_china_1;☀ P-40E
+p-40e_china_2;☀ P-40
+db_3a_china_shop;☀ D.B.3
+db_3a_china_0;☀ Opytno-konstruktorskoye bûro № 39 | D.B.3
+db_3a_china_1;☀ D.B.3
+db_3a_china_2;☀ D.B.3
+sb_2m_103u_china_shop;☀ C.B. (M-103U)
+sb_2m_103u_china_0;☀ Opytno-konstruktorskoye bûro № 156 | C.B. (M-103U)
+sb_2m_103u_china_1;☀ C.B.
+sb_2m_103u_china_2;☀ C.B.
 p1y1_mod11_china_shop;☀ 銀河一一型
 p1y1_mod11_china_0;☀ 中島飛行機 | 銀河一一型
 p1y1_mod11_china_1;☀ 銀河一一型
 p1y1_mod11_china_2;☀ 銀河
-p-40c_china_shop;☀ H81A-3
-p-40c_china_0;☀ Curtiss-Wright Corporation Hawk Model 81A-3 / 中央南昌飛機製造廠
-p-40c_china_1;☀ H81A
-p-40c_china_2;☀ H81
+p-40c_china_shop;☀ 霍克81A-3
+p-40c_china_0;☀ Curtiss-Wright Corporation Hawk Model 81A-3 / 中央飛機製造廠 | 霍克81A-3型
+p-40c_china_1;☀ 霍克81A
+p-40c_china_2;☀ 霍克81
 ki-45_hei_tei_china_shop;☀ 二式雙座戰丙 (丁)
 ki-45_hei_tei_china_0;☀ 川崎航空機工業 | 二式雙座戰鬥機丙「屠龍」(丁装備)
 ki-45_hei_tei_china_1;☀ 二式雙座戰丙

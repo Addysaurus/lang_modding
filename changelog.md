@@ -23,6 +23,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Simplified the format of `userlang.csv` by removing the requirement for the extra semicolons. They were unnecessary anyway and I'm not sure why I included them in there.
+    - Corrected the loading tip on the Anglo-Zanzibar War.
 
 ### Vehicles:
 

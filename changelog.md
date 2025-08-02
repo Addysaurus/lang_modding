@@ -32,6 +32,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Ki 43-III Kō** (China): Statcard name → **Nakajima Hikōki / Tachikawa Hikōki | 1 Shiki Sentōki 3 Gata Kō | Ki 43-III Kō "Hayabusa"** (corrected a missing space).
     - **Ki 44-II Otsu** (Japan): Statcard name → **Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Otsu | Ki 44-II Hei "Shōki"** (corrected from "1 Gata" to "2 Gata").
     - **Ki 44-II Hei** (Japan & China): Statcard name → **Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Hei | Ki 44-II Hei "Shōki"** (corrected from "1 Gata" to "2 Gata").
+    - **CS/SA5 (2022)**: Statcard name → **CS/SA5 Xíng 30 Háomi Lún Shì Zì Xíng Gāo Pào (2022)**.
 
 ### Weaponry:
 

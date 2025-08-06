@@ -46,6 +46,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Browning Machine Gun, Caliber .50, AN/M2** → **Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed**.
     - **Browning Machine Gun, Caliber .50, AN/M2** (the turret one) → **Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Flexible With Fixed Back Plate**.
     - **Browning Machine Gun, Caliber .50, AN/M3** → **Machine Gun, Caliber .50, Browning, AN/M3, Aircraft, Fixed**.
+    - Corrected the type tag of the **UPAB-500B** from BMB-LG to BMB-GNSS.
 
 ## 1.13.01 - 24-07-2025
 

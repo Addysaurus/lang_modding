@@ -34,6 +34,11 @@ All dates are listed in DD-MM-YYYY format.
     - **Ki 44-II Hei** (Japan & China): Statcard name → **Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Hei | Ki 44-II Hei "Shōki"** (corrected from "1 Gata" to "2 Gata").
     - **CS/SA5 (2022)**: Statcard name → **CS/SA5 Xíng 30 Háomi Lún Shì Zì Xíng Gāo Pào (2022)**.
     - **NF-5A** (France / Netherlands): Statcard name → **Northrop Corporation N-156F / Canadair CL-226-1A10 | NF-5A Freedom Fighter**.
+    - **Ho Ro**: Statcard name → **Mitsubishi Jū Kōgyō | 4 Shiki 15 Senchimētoru Ji Hashi Hō | Ho Ro**.
+    - **Shi 12 Senchi Ji Hashi** → **Shi 12 Senchi Ji Hashi Hō**. Statcard name → **Mitsubishi Jū Kōgyō | Shisei 12 Senchimētoru Ji Hashi Hō**.
+    - **Ho No I**: Statcard name → **Rikugun Yasen Hōhei Gakkō | 1 Shiki 7 Senchi Han Ji Hashi Hō | Ho Ni I**.
+    - **12 Senchi Ji Hashi** → **12 Senchi Ji Hashi Hō**. Statcard name → **Kaigun Kansei Honbu Dai 1 Bu | 12 Senchimētoru Ji Hashi Hō**.
+    - **Na To**: Statcard name → **Dai 4 Rikugun Gijutsu Kenkyūjo | Shisei 7 Senchi Han Tai Sensha Ji Hashi Hō | Na To**.
 
 ### Weaponry:
 

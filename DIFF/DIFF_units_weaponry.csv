@@ -1,10 +1,16 @@
 <ID|readonly|noverify>;<English>
-weapons/de_sc1000_default/short;SC1000
-missile/guidance/ir+IOG+DL;IR+IOG+DL
-flare_launcher/name;Flare
-chaffs_launcher/name;Chaff
-weapons/105mm_type_75_user_cannon;105 mm Recoilless Rifle Type 75
-105mm_type_75_heat;Type 75 HEAT
-105mm_type_75_hesh;Type 75 HESH
-weapons/12_7mm_type_77_user_machinegun;12.7 mm Type 77 machine gun
-28mm_usa_navy_he_t/name;1.1 inch Mk.1 HE-T
+weapons/us_358gal_f_106_1;Drop tank (358 gal.)
+weapons/us_358gal_f_106_1/short;Drop tank
+weapons/us_358gal_f_106_2;Drop tank (358 gal.)
+weapons/us_358gal_f_106_2/short;Drop tank
+explosiveType/hbx_3;HBX-3
+weapons/cannonM61A1_low_rpm;20 mm M61A1 cannon
+weapons/cannonM61A1_low_rpm/short;M61A1
+weapons/us_aim4g_falcon;AIM-4G Super Falcon air-to-air missiles
+weapons/us_aim4g_falcon/short;AIM-4G
+weapons/us_aim4f_falcon;AIM-4F Super Falcon air-to-air missiles
+weapons/us_aim4f_falcon/short;AIM-4F
+weapons/us_aim4g_falcon_default;AIM-4G Super Falcon air-to-air missiles
+weapons/us_aim4g_falcon_default/short;AIM-4G
+weapons/us_aim4f_falcon_default;AIM-4F Super Falcon air-to-air missiles
+weapons/us_aim4f_falcon_default/short;AIM-4F

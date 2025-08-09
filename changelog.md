@@ -27,8 +27,13 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **F-106A**
+
 - #### Changes:
 
+    - **F-106A** → **F-106A-130-CO (SS)**. Statcard name → **Convair Model 8-31 | F-106A-130-CO Delta Dart (Project Six Shooter)**.
     - **Ki 43-III Kō** (China): Statcard name → **Nakajima Hikōki / Tachikawa Hikōki | 1 Shiki Sentōki 3 Gata Kō | Ki 43-III Kō "Hayabusa"** (corrected a missing space).
     - **Ki 44-II Otsu** (Japan): Statcard name → **Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Otsu | Ki 44-II Hei "Shōki"** (corrected from "1 Gata" to "2 Gata").
     - **Ki 44-II Hei** (Japan & China): Statcard name → **Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Hei | Ki 44-II Hei "Shōki"** (corrected from "1 Gata" to "2 Gata").
@@ -42,8 +47,20 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
+- #### Additions:
+
+    - **AIM-4F**
+    - **AIM-4G**
+    - **HBX-3** (explosive type)
+    - **M61A1** (another one)
+    - **Drop tank** (for the **F-106A-130-CO (SS)**)
+
 - #### Changes:
 
+    - **AIM-4F**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-4F Super Falcon**.
+    - **AIM-4G**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-4G Super Falcon**.
+    - **M61A1**: Long name → **Cannon, 20mm, M61A1 Vulcan**.
+    - **Drop tank** → **Drop tank (358 gal)**.
     - **Browning Machine Gun, Caliber .30, HB, M1919A4** → **Machine Gun, Caliber .30, Browning, M1919A4, Heavy Barrel**.
     - **Browning Machine Gun, Caliber .30, AN/M2** → **Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed**.
     - **Browning Machine Gun, Caliber .30, AN/M2** (the turret one) → **Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Flexible**.
@@ -52,6 +69,23 @@ All dates are listed in DD-MM-YYYY format.
     - **Browning Machine Gun, Caliber .50, AN/M2** (the turret one) → **Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Flexible With Fixed Back Plate**.
     - **Browning Machine Gun, Caliber .50, AN/M3** → **Machine Gun, Caliber .50, Browning, AN/M3, Aircraft, Fixed**.
     - Corrected the type tag of the **UPAB-500B** from BMB-LG to BMB-GNSS.
+
+### Engines:
+
+- #### Additions:
+
+    - **VK-1F** (forgot to add this earlier)
+    - **J75-P-17**
+
+### Skins:
+
+- #### Additions:
+
+    - **"City of Jacksonville" anniversary camouflage**
+
+- #### Additions:
+
+    - **"City of Jacksonville" anniversary camouflage** → **F-106A-95-CO — "City of Jacksonville", 58-0760, Florida Air National Guard**.
 
 ## 1.13.01 - 24-07-2025
 

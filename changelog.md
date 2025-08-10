@@ -33,7 +33,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **F-106A** → **F-106A-130-CO (SS)**. Statcard name → **Convair Model 8-31 | F-106A-130-CO Delta Dart (Project Six Shooter)**.
+    - **F-106A** → **F-106A-100-CO (Polhemus)**. Statcard name → **Convair Model 8-31 | F-106A-100-CO Delta Dart (Project Six Shooter) (Project Speedline) (Polhemus Helmet-Mounted Sight)**.
     - **Ki 43-III Kō** (China): Statcard name → **Nakajima Hikōki / Tachikawa Hikōki | 1 Shiki Sentōki 3 Gata Kō | Ki 43-III Kō "Hayabusa"** (corrected a missing space).
     - **Ki 44-II Otsu** (Japan): Statcard name → **Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Otsu | Ki 44-II Hei "Shōki"** (corrected from "1 Gata" to "2 Gata").
     - **Ki 44-II Hei** (Japan & China): Statcard name → **Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Hei | Ki 44-II Hei "Shōki"** (corrected from "1 Gata" to "2 Gata").
@@ -44,6 +44,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Ho No I**: Statcard name → **Rikugun Yasen Hōhei Gakkō | 1 Shiki 7 Senchi Han Ji Hashi Hō | Ho Ni I**.
     - **12 Senchi Ji Hashi** → **12 Senchi Ji Hashi Hō**. Statcard name → **Kaigun Kansei Honbu Dai 1 Bu | 12 Senchimētoru Ji Hashi Hō**.
     - **Na To**: Statcard name → **Dai 4 Rikugun Gijutsu Kenkyūjo | Shisei 7 Senchi Han Tai Sensha Ji Hashi Hō | Na To**.
+    - **Z 4 (D 178)**: Statcard name → **Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)**.
 
 ### Weaponry:
 

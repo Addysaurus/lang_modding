@@ -39,11 +39,20 @@ All dates are listed in DD-MM-YYYY format.
     - **Ki 44-II Hei** (Japan & China): Statcard name → **Nakajima Hikōki | 2 Shiki Sentōki 2 Gata Hei | Ki 44-II Hei "Shōki"** (corrected from "1 Gata" to "2 Gata").
     - **CS/SA5 (2022)**: Statcard name → **CS/SA5 Xíng 30 Háomi Lún Shì Zì Xíng Gāo Pào (2022)**.
     - **NF-5A** (France / Netherlands): Statcard name → **Northrop Corporation N-156F / Canadair CL-226-1A10 | NF-5A Freedom Fighter**.
-    - **Ho Ro**: Statcard name → **Mitsubishi Jū Kōgyō | 4 Shiki 15 Senchimētoru Ji Hashi Hō | Ho Ro**.
-    - **Shi 12 Senchi Ji Hashi** → **Shi 12 Senchi Ji Hashi Hō**. Statcard name → **Mitsubishi Jū Kōgyō | Shisei 12 Senchimētoru Ji Hashi Hō**.
-    - **Ho No I**: Statcard name → **Rikugun Yasen Hōhei Gakkō | 1 Shiki 7 Senchi Han Ji Hashi Hō | Ho Ni I**.
-    - **12 Senchi Ji Hashi** → **12 Senchi Ji Hashi Hō**. Statcard name → **Kaigun Kansei Honbu Dai 1 Bu | 12 Senchimētoru Ji Hashi Hō**.
-    - **Na To**: Statcard name → **Dai 4 Rikugun Gijutsu Kenkyūjo | Shisei 7 Senchi Han Tai Sensha Ji Hashi Hō | Na To**.
+    - **Ho Ro**: Statcard name → **Mitsubishi Jū Kōgyō | 4 Shiki 15 Senchimētoru Jisō Hō | Ho Ro**.
+    - **Shi 12 Senchi Ji Hashi** → **Shi 12 Senchi Ji Hō**. Statcard name → **Mitsubishi Jū Kōgyō | Shisei 12 Senchimētoru Jisō Hō**.
+    - **Ho No I**: Statcard name → **Rikugun Yasen Hōhei Gakkō | 1 Shiki 7 Senchi Han Jisō Hō | Ho Ni I**.
+    - **12 Senchi Ji Hashi** → **12 Senchi Ji Hō**. Statcard name → **Kaigun Kansei Honbu Dai 1 Bu | 12 Senchimētoru Jisō Hō**.
+    - **M16** (Japan): Statcard name → **White Motor Company | M16 Jisō Kōsha Kikan Hō**.
+    - **Na To**: Statcard name → **Dai 4 Rikugun Gijutsu Kenkyūjo | Shisei 7 Senchi Han Tai Sensha Jisō Hō | Na To**.
+    - **M44A1** (Japan): Statcard name → **Massey-Harris | M44A1 155mm Jisō Ryūdanhō**.
+    - **M19A1** (Japan): Statcard name → **Cadillac Motor Company | M19A1 Jisō Kōsha Kikan Hō**.
+    - **M42** (Japan): Statcard name → **GM Defense | M42 Jisō Kōsha Kikan Hō "Dasutā"**.
+    - **60SP (C)**: Statcard name → **Komatsu Seisaku | 60 Shiki Jisō 106mm Muhandō Hō C Gata "Mametan"**.
+    - **75HSP**: Statcard name → **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 75 Shiki Jisō 155mm Ryūdanhō**.
+    - **99HSP**: Statcard name → **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 99 Shiki Jisō 155mm Ryūdanhō "Rongunōzu"**.
+    - **75MSSR**: Statcard name → **Komatsu Seisaku | 75 Shiki Jisō 130mm Tarensō Rokettodan Hasshaki**.
+    - **87AW**: Statcard name → **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 87 Shiki Jisō Kōsha Kikanhō "Sukaishūtā"**.
     - **Z 4 (D 178)**: Statcard name → **Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)**.
 
 ### Weaponry:
@@ -54,14 +63,14 @@ All dates are listed in DD-MM-YYYY format.
     - **AIM-4G**
     - **HBX-3** (explosive type)
     - **M61A1** (another one)
-    - **Drop tank** (for the **F-106A-130-CO (SS)**)
+    - **Drop tank** (for the **F-106A-100-CO (Polhemus)**)
 
 - #### Changes:
 
     - **AIM-4F**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-4F Super Falcon**.
     - **AIM-4G**: Long name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-4G Super Falcon**.
     - **M61A1**: Long name → **Cannon, 20mm, M61A1 Vulcan**.
-    - **Drop tank** → **Drop tank (358 gal)**.
+    - **Drop tank** (for the **F-106A-100-CO (Polhemus)**) → **Drop tank (358 gal)**.
     - **Browning Machine Gun, Caliber .30, HB, M1919A4** → **Machine Gun, Caliber .30, Browning, M1919A4, Heavy Barrel**.
     - **Browning Machine Gun, Caliber .30, AN/M2** → **Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed**.
     - **Browning Machine Gun, Caliber .30, AN/M2** (the turret one) → **Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Flexible**.

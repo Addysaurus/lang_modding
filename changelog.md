@@ -56,6 +56,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Z 4 (D 178)**: Statcard name → **Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)**.
     - **T77E1 MGMC**: Statcard name → **United States Army Ordnance Department | Carriage, Motor, Multiple Caliber .50 Gun, T77E1**.
     - Corrected the multi-vehicle pack folder names (they were not working because I forgot an extra pair of quotes like a dumbass).
+    - **Zrínyi I** → **Zrínyi I (Sorozatvető)**. Statcard name → **Ganz Művek | 7,5 cm 44M Zrínyi I Rohamtarack (43M Rakéta Sorozatvető)**.
+    - **Zrínyi II**: Statcard name → **Ganz Művek | 10,5 cm 40/43M Rohamtarack Zrínyi II**.
 
 ### Weaponry:
 

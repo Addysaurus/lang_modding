@@ -55,6 +55,7 @@ All dates are listed in DD-MM-YYYY format.
     - **87AW**: Statcard name → **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 87 Shiki Jisō Kōsha Kikanhō "Sukaishūtā"**.
     - **Z 4 (D 178)**: Statcard name → **Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)**.
     - **T77E1 MGMC**: Statcard name → **United States Army Ordnance Department | Carriage, Motor, Multiple Caliber .50 Gun, T77E1**.
+    - Corrected the multi-vehicle pack folder names (they were not working because I forgot an extra pair of quotes like a dumbass).
 
 ### Weaponry:
 

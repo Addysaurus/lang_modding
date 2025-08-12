@@ -54,7 +54,7 @@ All dates are listed in DD-MM-YYYY format.
     - **75MSSR**: Statcard name → **Komatsu Seisaku | 75 Shiki Jisō 130mm Tarensō Rokettodan Hasshaki**.
     - **87AW**: Statcard name → **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 87 Shiki Jisō Kōsha Kikanhō "Sukaishūtā"**.
     - **Z 4 (D 178)**: Statcard name → **Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)**.
-    - **T77E1**: Statcard name → **United States Army Ordnance Department | Carriage, Motor, Multiple Caliber .50 Gun, T77E1**.
+    - **T77E1 MGMC**: Statcard name → **United States Army Ordnance Department | Carriage, Motor, Multiple Caliber .50 Gun, T77E1**.
 
 ### Weaponry:
 

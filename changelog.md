@@ -56,8 +56,13 @@ All dates are listed in DD-MM-YYYY format.
     - **Z 4 (D 178)**: Statcard name → **Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)**.
     - **T77E1 MGMC**: Statcard name → **United States Army Ordnance Department | Carriage, Motor, Multiple Caliber .50 Gun, T77E1**.
     - Corrected the multi-vehicle pack folder names (they were not working because I forgot an extra pair of quotes like a dumbass).
-    - **Zrínyi I** → **Zrínyi I (Sorozatvető)**. Statcard name → **Ganz Művek | 7,5 cm 44M Zrínyi I Rohamtarack (43M Rakéta Sorozatvető)**.
-    - **Zrínyi II**: Statcard name → **Ganz Művek | 10,5 cm 40/43M Rohamtarack Zrínyi II**.
+    - Last minute impulsive rework of WWII Hungarian ground:
+        - **Csaba**: Statcard name → **Manfréd Weiss | 39M Csaba páncélgépkocsi**.
+        - **Turán I** → **Turán 40**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41M Turán 40 közepes harckocsi**.
+        - **Turán II** → **Turán 75 rövid**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41M Turán 75 rövid nehéz harckocsi**.
+        - **Turán III** → **Turán 75 hosszú**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 43M Turán 75 hosszú nehéz harckocsi**.
+        - **Zrínyi II** → **Zrínyi 105**. Statcard name → **Manfréd Weiss | 10,5 cm 40/43M Zrínyi rohamtarack**.
+        - **Zrínyi I** → **Zrínyi 75 (sorozatvető)**. Statcard name → **Manfréd Weiss | 7,5 cm 44M Zrínyi rohamtarack (43M rakéta sorozatvető)**.
 
 ### Weaponry:
 

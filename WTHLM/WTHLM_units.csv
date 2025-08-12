@@ -6722,15 +6722,35 @@ mig_29_9_12_sniper_2;╏ MiG-29
 //ITALY HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+it_39m_csaba_shop;Csaba
+it_39m_csaba_0;Manfréd Weiss | 39M Csaba páncélgépkocsi
+it_39m_csaba_1;Csaba
+it_39m_csaba_2;Light Tank
+it_toldi_II_a_shop;Toldi 40
+it_toldi_II_a_0;Landsverk / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 42M Toldi 40 könnyű harckocsi
+it_toldi_II_a_1;Toldi 40
+it_toldi_II_a_2;Light Tank
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
-it_40_43m_zrinyi_2_shop;Zrínyi II
-it_40_43m_zrinyi_2_0;Ganz Művek | 10,5 cm 40/43M Rohamtarack Zrínyi II
-it_40_43m_zrinyi_2_1;Zrínyi II
+it_40m_turan_1_shop;Turán 40
+it_40m_turan_1_0;Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41M Turán 40 közepes harckocsi
+it_40m_turan_1_1;Turán 40
+it_40m_turan_1_2;Medium Tank
+it_41m_turan_2_shop;Turán 75 rövid
+it_41m_turan_2_0;Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41M Turán 75 rövid nehéz harckocsi
+it_41m_turan_2_1;Turán 75 rövid
+it_41m_turan_2_2;Medium Tank
+it_43m_turan_3_shop;Turán 75 hosszú
+it_43m_turan_3_0;Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 43M Turán 75 hosszú nehéz harckocsi
+it_43m_turan_3_1;Turán 75 hosszú
+it_43m_turan_3_2;Medium Tank
+it_40_43m_zrinyi_2_shop;Zrínyi 105
+it_40_43m_zrinyi_2_0;Manfréd Weiss | 10,5 cm 40/43M Zrínyi rohamtarack
+it_40_43m_zrinyi_2_1;Zrínyi 105
 it_40_43m_zrinyi_2_2;SPG
-it_44m_zrinyi_1_shop;Zrínyi I (Sorozatvető)
-it_44m_zrinyi_1_0;Ganz Művek | 7,5 cm 44M Zrínyi I Rohamtarack (43M Rakéta Sorozatvető)
-it_44m_zrinyi_1_1;Zrínyi I
+it_44m_zrinyi_1_shop;Zrínyi 75 (sorozatvető)
+it_44m_zrinyi_1_0;Manfréd Weiss | 7,5 cm 44M Zrínyi rohamtarack (43M rakéta sorozatvető)
+it_44m_zrinyi_1_1;Zrínyi 75
 it_44m_zrinyi_1_2;SPG
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
@@ -11908,26 +11928,6 @@ it_m11_39_shop;M. 39
 it_m11_39_0;Carro Armato Medio Mod. 39
 it_m11_39_1;M. 39
 it_m11_39_2;Medium Tank
-it_39m_csaba_shop;Csaba
-it_39m_csaba_0;39.M Csaba
-it_39m_csaba_1;Csaba
-it_39m_csaba_2;Light tank
-it_40m_turan_1_shop;Turán I
-it_40m_turan_1_0;40.M Turán I
-it_40m_turan_1_1;Turán I
-it_40m_turan_1_2;Medium tank
-it_41m_turan_2_shop;Turán II
-it_41m_turan_2_0;41.M Turán II
-it_41m_turan_2_1;Turán II
-it_41m_turan_2_2;Medium Tank
-it_43m_turan_3_shop;Turán III
-it_43m_turan_3_0;43.M Turán III
-it_43m_turan_3_1;Turán III
-it_43m_turan_3_2;Medium tank
-it_toldi_II_a_shop;Toldi IIA
-it_toldi_II_a_0;42.M Toldi IIA
-it_toldi_II_a_1;Toldi IIA
-it_toldi_II_a_2;Light tank
 it_m14_41_47_40_shop;M. 41 (47/40)
 it_m14_41_47_40_0;Carro Armato Medio Mod. 41 (47/40)
 it_m14_41_47_40_1;M. 41

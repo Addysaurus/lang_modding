@@ -54,6 +54,7 @@ All dates are listed in DD-MM-YYYY format.
     - **75MSSR**: Statcard name → **Komatsu Seisaku | 75 Shiki Jisō 130mm Tarensō Rokettodan Hasshaki**.
     - **87AW**: Statcard name → **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 87 Shiki Jisō Kōsha Kikanhō "Sukaishūtā"**.
     - **Z 4 (D 178)**: Statcard name → **Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)**.
+    - **T77E1**: Statcard name → **United States Army Ordnance Department | Carriage, Motor, Multiple Caliber .50 Gun, T77E1**.
 
 ### Weaponry:
 
@@ -79,6 +80,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Browning Machine Gun, Caliber .50, AN/M2** (the turret one) → **Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Flexible With Fixed Back Plate**.
     - **Browning Machine Gun, Caliber .50, AN/M3** → **Machine Gun, Caliber .50, Browning, AN/M3, Aircraft, Fixed**.
     - Corrected the type tag of the **UPAB-500B** from BMB-LG to BMB-GNSS.
+    - Corrected the caliber tag of the **L/PW1975** from 75 mm to 105 mm.
 
 ### Engines:
 
@@ -86,6 +88,14 @@ All dates are listed in DD-MM-YYYY format.
 
     - **VK-1F** (forgot to add this earlier)
     - **J75-P-17**
+
+### Decals:
+
+- #### Additions:
+
+    - **Emblem of the 112th Fighter Squadron**
+    - **Emblem of the 159th Fighter Squadron**
+    - **Emblem of the California Air National Guard**
 
 ### Skins:
 

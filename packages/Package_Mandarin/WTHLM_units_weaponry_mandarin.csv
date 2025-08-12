@@ -7,7 +7,7 @@ weapons/cannonType_23_1_plane_turret;<color=@userlogColoredText>23 mm</color> 23
 weapons/cannonType_23L;<color=@userlogColoredText>23 mm</color> 23L型23毫米航空机炮 <color=#ff6f00>ACNN</color>
 weapons/cannon_type23_2k;<color=@userlogColoredText>23 mm</color> 23-2K型23毫米航空机炮 <color=#ff6f00>ACNN</color>
 weapons/cannonType_23_3;<color=@userlogColoredText>23 mm</color> 23-3型23毫米航空机炮 <color=#ff6f00>ACNN</color>
-weapons/25mm_PG87_PGZ_user_cannon;<color=@userlogColoredText>25 mm</color> WA709 | L/PG1987式双管25毫米高射机关炮 <color=#ff6f00>ACNN</color>
+weapons/25mm_PG87_PGZ_user_cannon;<color=@userlogColoredText>25 mm</color> WA717A | L/PGZ2004A式四管25毫米履带自行高炮 <color=#ff6f00>ACNN</color>
 weapons/25mm_PG87_user_cannon;<color=@userlogColoredText>25 mm</color> WA709 | L/PG1987式双管25毫米高射机关炮 <color=#ff6f00>ACNN</color>
 weapons/30mm_pgz_625_user_cannon;<color=@userlogColoredText>30 mm</color> 630型30毫米高射机关炮 <color=#ff6f00>ACNN</color>
 weapons/cannonType30_1;<color=@userlogColoredText>30 mm</color> 30-1型30毫米航空机炮 <color=#ff6f00>ACNN</color>
@@ -15,15 +15,18 @@ weapons/cannonType30_1/short;30-1型
 weapons/cannonType_30_4;<color=@userlogColoredText>30 mm</color> 30-4型30毫米航空机炮 <color=#ff6f00>ACNN</color>
 weapons/cannonType_30_4/short;30-4型
 weapons/cannonType37_1;<color=@userlogColoredText>37 mm</color> 37-1型37毫米航空机炮 <color=#ff6f00>ACNN</color>
-weapons/105mm_type_75_user_cannon;<color=@userlogColoredText>75 mm</color> L/PW1975式105毫米无后坐力炮 <color=#ff6f00>CNN-RCL</color>
 weapons/85mm_Type_62_85_TC_user_cannon;<color=@userlogColoredText>85 mm</color> L/ZPL1963式85毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/85mm_Type_63_user_cannon;<color=@userlogColoredText>85 mm</color> L/ZPL1963式85毫米坦克炮 <color=#ff6f00>CNN</color>
+weapons/100mm_PTP86_user_cannon;<color=@userlogColoredText>100 mm</color> WA301 | L/PTL2002式100毫米无后坐力炮 <color=#ff6f00>CNN</color>
+weapons/105mm_type_75_user_cannon;<color=@userlogColoredText>105 mm</color> L/PW1975式105毫米无后坐力炮 <color=#ff6f00>CNN-RCL</color>
 weapons/105mm_ZPL151A_user_cannon;<color=@userlogColoredText>105 mm</color> L/ZPL151式105毫米坦克炮 <color=#ff6f00>CNN</color>
-weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> L/PLZ2005式155毫米加农榴弹炮 <color=#ff6f00>CNN-HWZ</color>
+weapons/120mm_PTZ89_user_cannon;<color=@userlogColoredText>120 mm</color> WA371 | L/PTZ1989式120毫米自行反坦克炮 <color=#ff6f00>CNN</color>
+weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> L/PLZ2005式155毫米自行加榴炮 <color=#ff6f00>CNN-HWZ</color>
 
 //AMMUNITION
 30mm_china_HE;CS/BAH06-30
 30mm_china_PTFP;CS/BAE5-30
+100mm_dyw_pt_86_100;DYW/PTL02-100
 105mm_type_75_heat;DTP/PW75-105
 105mm_type_75_hesh;DTJ/PW75-105
 105mm_dtw2_105;L/DTW2-105

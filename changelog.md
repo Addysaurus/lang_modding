@@ -115,10 +115,13 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - **"City of Jacksonville" anniversary camouflage**
+    - **"Jersey Devils" camouflage**
 
-- #### Additions:
+- #### Changes:
 
-    - **"City of Jacksonville" anniversary camouflage** → **F-106A-95-CO — "City of Jacksonville", 58-0760, Florida Air National Guard**.
+    - **"City of Jacksonville" anniversary camouflage** → **F-106A-95-CO — "City of Jacksonville", 58-0760, 159th FIS, 125th FIG, FL ANG, 1976**.
+    - **"Jersey Devils" camouflage** → **F-106A-110-CO — 59-0031, 119th FIS, 177th FIG, NJ ANG, 1987**.
+    - **B-25K — M-433, 18 Squadron, ML-KNIL** → **B-25K — M-433, 18 Squadron, ML-KNIL, 1949**.
 
 ## 1.13.01 - 24-07-2025
 

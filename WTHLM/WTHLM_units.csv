@@ -6723,34 +6723,34 @@ mig_29_9_12_sniper_2;╏ MiG-29
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 it_39m_csaba_shop;Csaba
-it_39m_csaba_0;Manfréd Weiss | 39M Csaba páncélgépkocsi
+it_39m_csaba_0;39.M Csaba
 it_39m_csaba_1;Csaba
-it_39m_csaba_2;Light Tank
-it_toldi_II_a_shop;Toldi 40
-it_toldi_II_a_0;Landsverk / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 42M Toldi 40 könnyű harckocsi
-it_toldi_II_a_1;Toldi 40
-it_toldi_II_a_2;Light Tank
+it_39m_csaba_2;Light tank
+it_toldi_II_a_shop;Toldi IIA
+it_toldi_II_a_0;42.M Toldi IIA
+it_toldi_II_a_1;Toldi IIA
+it_toldi_II_a_2;Light tank
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
-it_40m_turan_1_shop;Turán 40
-it_40m_turan_1_0;Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41M Turán 40 közepes harckocsi
-it_40m_turan_1_1;Turán 40
-it_40m_turan_1_2;Medium Tank
-it_41m_turan_2_shop;Turán 75 rövid
-it_41m_turan_2_0;Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41M Turán 75 rövid nehéz harckocsi
-it_41m_turan_2_1;Turán 75 rövid
+it_40m_turan_1_shop;Turán I
+it_40m_turan_1_0;40.M Turán I
+it_40m_turan_1_1;Turán I
+it_40m_turan_1_2;Medium tank
+it_41m_turan_2_shop;Turán II
+it_41m_turan_2_0;41.M Turán II
+it_41m_turan_2_1;Turán II
 it_41m_turan_2_2;Medium Tank
-it_43m_turan_3_shop;Turán 75 hosszú
-it_43m_turan_3_0;Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 43M Turán 75 hosszú nehéz harckocsi
-it_43m_turan_3_1;Turán 75 hosszú
-it_43m_turan_3_2;Medium Tank
-it_40_43m_zrinyi_2_shop;Zrínyi 105
-it_40_43m_zrinyi_2_0;Manfréd Weiss | 10,5 cm 40/43M Zrínyi rohamtarack
-it_40_43m_zrinyi_2_1;Zrínyi 105
+it_43m_turan_3_shop;Turán III
+it_43m_turan_3_0;43.M Turán III
+it_43m_turan_3_1;Turán III
+it_43m_turan_3_2;Medium tank
+it_40_43m_zrinyi_2_shop;Zrínyi II
+it_40_43m_zrinyi_2_0;43.M Zrínyi II
+it_40_43m_zrinyi_2_1;Zrínyi II
 it_40_43m_zrinyi_2_2;SPG
-it_44m_zrinyi_1_shop;Zrínyi 75 (sorozatvető)
-it_44m_zrinyi_1_0;Manfréd Weiss | 7,5 cm 44M Zrínyi rohamtarack (43M rakéta sorozatvető)
-it_44m_zrinyi_1_1;Zrínyi 75
+it_44m_zrinyi_1_shop;Zrínyi I
+it_44m_zrinyi_1_0;44.M Zrínyi I
+it_44m_zrinyi_1_1;Zrínyi I
 it_44m_zrinyi_1_2;SPG
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
@@ -6766,9 +6766,9 @@ it_leopard_1a5_shop;⛨ Leopard 1 A5
 it_leopard_1a5_0;⛨ Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A5
 it_leopard_1a5_1;⛨ Leopard 1 A5
 it_leopard_1a5_2;MBT
-it_pzh_2000_hu_shop;◔ PzH 2000HU
-it_pzh_2000_hu_0;◔ KNDS | Panzerhaubitze 2000HU páncélos tarack
-it_pzh_2000_hu_1;◔ PzH 2000HU
+it_pzh_2000_hu_shop;PzH 2000 HU
+it_pzh_2000_hu_0;Panzerhaubitze 2000 HU
+it_pzh_2000_hu_1;PzH 2000 HU
 it_pzh_2000_hu_2;SPH
 it_fiat_6614_firos_shop;Fiat 6614 (FIROS 6)
 it_fiat_6614_firos_0;Fiat OTO Melara Tipo 6614 (FIROS 6)
@@ -6776,15 +6776,19 @@ it_fiat_6614_firos_1;Fiat 6614
 it_fiat_6614_firos_2;MLRS
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+it_t_72m1_shop;◔ T-72M1
+it_t_72m1_0;◔ T-72M1
+it_t_72m1_1;◔ T-72M1
+it_t_72m1_2;MBT
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
-it_leopard_2a4_shop;◔ Leopard 2 A4HU
-it_leopard_2a4_0;◔ Krauss-Maffei Wegmann | Leopard 2 A4HU harckocsi
+it_leopard_2a4_shop;◔ KPz Leopard 2 A4 HU
+it_leopard_2a4_0;◔ Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A4 HU
 it_leopard_2a4_1;◔ Leopard 2 A4
 it_leopard_2a4_2;MBT
-it_leopard_2a7_hungary_shop;◔ Leopard 2 A7HU
-it_leopard_2a7_hungary_0;◔ KNDS | Leopard 2 A7HU harckocsi
-it_leopard_2a7_hungary_1;◔ Leopard 2 A7
+it_leopard_2a7_hungary_shop;◔ KPz Leopard 2 A7 HU
+it_leopard_2a7_hungary_0;◔ Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A7 HU
+it_leopard_2a7_hungary_1;◔ Leopard 2 A7 HU
 it_leopard_2a7_hungary_2;MBT
 it_c1_ariete_certezza_shop;Ariete (WAR) (20° Corso)
 it_c1_ariete_certezza_0;"Consorzio Iveco Oto Melara | C1 Ariete (Kit WAR) (20° Corso ""Certezza"")"
@@ -10860,10 +10864,6 @@ it_btr_80a_hungary_shop;◔ BTR-80A
 it_btr_80a_hungary_0;◔ BTR-80A
 it_btr_80a_hungary_1;◔ BTR-80A
 it_btr_80a_hungary_2;Light tank
-it_t_72m1_shop;◔ T-72M1
-it_t_72m1_0;◔ T-72M1
-it_t_72m1_1;◔ T-72M1
-it_t_72m1_2;MBT
 it_zsu_57_2_shop;◔ ZSZU-57-2
 it_zsu_57_2_0;◔ ZSZU-57-2
 it_zsu_57_2_1;◔ ZSZU-57-2

@@ -58,13 +58,14 @@ All dates are listed in DD-MM-YYYY format.
     - **LV IRIS-T SLM (Radarfahrzeug)**: Statcard name → **Diehl Defence | Luftverteidigungssystem IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Radarfahrzeug)** (removed the accidental e at the end of Luftverteidigungssystem because this is not plural).
     - **LV IRIS-T SLM (Startfahrzeug)**: Statcard name → **Diehl Defence | Luftverteidigungssystem IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Startfahrzeug)** (removed the accidental e at the end of Luftverteidigungssystem because this is not plural).
     - Corrected the multi-vehicle pack folder names (they were not working because I forgot an extra pair of quotes like a dumbass).
-    - Last minute impulsive rework of WWII Hungarian ground vehicles:
+    - Last minute impulsive rework of WWII Hungarian ground vehicles (plus some extras):
         - **Csaba**: Statcard name → **Manfréd Weiss | 39M Csaba páncélgépkocsi**.
         - **Turán I** → **Turán 40**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41M Turán 40 közepes harckocsi**.
         - **Turán II** → **Turán 75 rövid**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41M Turán 75 rövid nehéz harckocsi**.
         - **Turán III** → **Turán 75 hosszú**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 43M Turán 75 hosszú nehéz harckocsi**.
         - **Zrínyi II** → **Zrínyi 105**. Statcard name → **Manfréd Weiss | 10,5 cm 40/43M Zrínyi rohamtarack**.
         - **Zrínyi I** → **Zrínyi 75 (sorozatvető)**. Statcard name → **Manfréd Weiss | 7,5 cm 44M Zrínyi rohamtarack (43M rakéta sorozatvető)**.
+        - **PzH 2000 HU**: Statcard name → **KNDS | Panzerhaubitze 2000 HU páncélos tarack**.
 
 ### Weaponry:
 

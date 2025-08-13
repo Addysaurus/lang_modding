@@ -55,8 +55,10 @@ All dates are listed in DD-MM-YYYY format.
     - **87AW**: Statcard name → **Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 87 Shiki Jisō Kōsha Kikanhō "Sukaishūtā"**.
     - **Z 4 (D 178)**: Statcard name → **Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)**.
     - **T77E1 MGMC**: Statcard name → **United States Army Ordnance Department | Carriage, Motor, Multiple Caliber .50 Gun, T77E1**.
+    - **LV IRIS-T SLM (Radarfahrzeug)**: Statcard name → **Diehl Defence | Luftverteidigungssystem IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Radarfahrzeug)** (removed the accidental e at the end of Luftverteidigungssystem because this is not plural).
+    - **LV IRIS-T SLM (Startfahrzeug)**: Statcard name → **Diehl Defence | Luftverteidigungssystem IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1 (Startfahrzeug)** (removed the accidental e at the end of Luftverteidigungssystem because this is not plural).
     - Corrected the multi-vehicle pack folder names (they were not working because I forgot an extra pair of quotes like a dumbass).
-    - Last minute impulsive rework of WWII Hungarian ground:
+    - Last minute impulsive rework of WWII Hungarian ground vehicles:
         - **Csaba**: Statcard name → **Manfréd Weiss | 39M Csaba páncélgépkocsi**.
         - **Turán I** → **Turán 40**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41M Turán 40 közepes harckocsi**.
         - **Turán II** → **Turán 75 rövid**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41M Turán 75 rövid nehéz harckocsi**.

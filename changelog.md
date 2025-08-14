@@ -18,6 +18,27 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.13.02 — 13-08-2025
 
+### Vehicles:
+
+- #### Changes:
+
+    - Hungarian ground vehicles rework:
+        - **Csaba** → **39M Csaba**. Statcard name → **Manfréd Weiss | 39M Csaba páncélgépkocsi**.
+        - **Toldi IIA** → **42M Toldi B40**. Statcard name → **Landsverk / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 42M Toldi könnyű harckocsi B40**.
+        - **Turán I** → **40M Turán**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 40M Turán közepes harckocsi**.
+        - **Turán II** → **41M Turán**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41M Turán nehéz harckocsi**.
+        - **Turán III** → **43M Turán**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 43M Turán nehéz harckocsi**.
+        - **Zrínyi II** → **40/43M Zrínyi**. Statcard name → **Manfréd Weiss | 10,5 cm 40/43M Zrínyi rohamtarack**.
+        - **Zrínyi I** → **44M Zrínyi (sorozatvető)**. Statcard name → **Manfréd Weiss | 7,5 cm 44M Zrínyi rohamtarack (43M rakéta sorozatvető)**.
+        - **BTR-80A** (Italy / Hungary): Statcard name → **Proizvodstvyennoye ob"yedinyeniye «Gor'kovskij avtomobil'nyj zavod» | BTR-80A gyalogsági harcjármű**.
+        - **PzH 2000 HU** (Italy / Hungary) → **PzH 2000HU**. Statcard name → **KNDS | Panzerhaubitze 2000HU páncélos tarack**.
+        - **T-72M1** (Italy / Hungary): Statcard name → **Opytno-konstruktorskoye bûro № 520 im. Morozova | T-72M1 harckocsi**.
+        - **KPz Leopard 2 A4 HU** (Italy / Hungary) → **Leopard 2A4HU**. Statcard name → **Krauss-Maffei Wegmann | Leopard 2A4HU harckocsi**.
+        - **KPz Leopard 2 A7 HU** (Italy / Hungary) → **Leopard 2A7HU**. Statcard name → **KNDS | Leopard 2A7HU harckocsi**.
+        - **Lynx KF41**: Statcard name → **Rheinmetall Lynx KF41 | Lynx KF41 gyalogsági harcjármű "Hiúz"**.
+
+## 1.13.02 — 13-08-2025
+
 ### General:
 
 - #### Changes:

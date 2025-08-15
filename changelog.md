@@ -24,12 +24,12 @@ All dates are listed in DD-MM-YYYY format.
 
     - Hungarian ground vehicles rework:
         - **Csaba** → **39M Csaba**. Statcard name → **Manfréd Weiss | 39M Csaba páncélgépkocsi**.
-        - **Toldi IIA** → **42M Toldi B40**. Statcard name → **Landsverk / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 42M Toldi könnyű harckocsi B40**.
+        - **Toldi IIA** → **38M Toldi hk. B40**. Statcard name → **Landsverk / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 38M Toldi könnyű harckocsi B40**.
         - **Turán I** → **40M Turán**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 40M Turán közepes harckocsi**.
         - **Turán II** → **41M Turán**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41M Turán nehéz harckocsi**.
         - **Turán III** → **43M Turán**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 43M Turán nehéz harckocsi**.
         - **Zrínyi II** → **40/43M Zrínyi**. Statcard name → **Manfréd Weiss | 10,5 cm 40/43M Zrínyi rohamtarack**.
-        - **Zrínyi I** → **44M Zrínyi (sorozatvető)**. Statcard name → **Manfréd Weiss | 7,5 cm 44M Zrínyi rohamtarack (43M rakéta sorozatvető)**.
+        - **Zrínyi I** → **44M Zrínyi (sorozatvető)**. Statcard name → **Manfréd Weiss | 7,5 cm 44M Zrínyi rohamágyú (43M rakéta sorozatvető)**.
         - **2SZ1** (Italy / Hungary): Statcard name → **Kharkìvs'kij traktornij zavod (KhTZ) | 2SZ1 önjáró tarack "Gvozgyika"**.
         - **ZSZU-57-2** (Italy / Hungary): Statcard name → **Omskij zavod № 174 im. Vorošilova | ZSZU-57-2 önjáró légvédelmi gépágyú**.
         - **BTR-80A** (Italy / Hungary): Statcard name → **Proizvodstvyennoye ob"yedinyeniye «Gor'kovskij avtomobil'nyj zavod» | BTR-80A gyalogsági harcjármű**.
@@ -41,6 +41,12 @@ All dates are listed in DD-MM-YYYY format.
         - **KPz Leopard 2 A7 HU** (Italy / Hungary) → **Leopard 2A7HU**. Statcard name → **KNDS | Leopard 2A7HU harckocsi**.
         - **Lynx KF41**: Statcard name → **Rheinmetall Lynx KF41 | Lynx KF41 gyalogsági harcjármű "Hiúz"**.
     - **AMX 30 Au F1 / (T 142)** folder → **AMX 30 Au F1 / 10M** (they changed the vehicles in the folder).
+
+### Vehicles:
+
+- #### Changes:
+
+    - **75 mm 43.M cannon** → **7,5 cm 43M harckocsiágyú**.
 
 ## 1.13.02 — 13-08-2025
 

@@ -30,9 +30,13 @@ All dates are listed in DD-MM-YYYY format.
         - **Turán III** → **43M Turán**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 43M Turán nehéz harckocsi**.
         - **Zrínyi II** → **40/43M Zrínyi**. Statcard name → **Manfréd Weiss | 10,5 cm 40/43M Zrínyi rohamtarack**.
         - **Zrínyi I** → **44M Zrínyi (sorozatvető)**. Statcard name → **Manfréd Weiss | 7,5 cm 44M Zrínyi rohamtarack (43M rakéta sorozatvető)**.
+        - **2SZ1** (Italy / Hungary): Statcard name → **Kharkìvs'kij traktornij zavod (KhTZ) | 2SZ1 önjáró tarack "Gvozgyika"**.
+        - **ZSZU-57-2** (Italy / Hungary): Statcard name → **Omskij zavod № 174 im. Vorošilova | ZSZU-57-2 önjáró légvédelmi gépágyú**.
         - **BTR-80A** (Italy / Hungary): Statcard name → **Proizvodstvyennoye ob"yedinyeniye «Gor'kovskij avtomobil'nyj zavod» | BTR-80A gyalogsági harcjármű**.
         - **PzH 2000 HU** (Italy / Hungary) → **PzH 2000HU**. Statcard name → **KNDS | Panzerhaubitze 2000HU páncélos tarack**.
+        - **ZSZU-23-4** (Italy / Hungary) → **ZSZU-23-4V**. Statcard name → **Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | ZSZU-23-4V önjáró légvédelmi gépágyú**.
         - **T-72M1** (Italy / Hungary): Statcard name → **Opytno-konstruktorskoye bûro № 520 im. Morozova | T-72M1 harckocsi**.
+        - **9A35M** (Italy / Hungary): Statcard name → **9A35M önjáró légvédelmi rakétarendszer "Sztrela-10M"**.
         - **KPz Leopard 2 A4 HU** (Italy / Hungary) → **Leopard 2A4HU**. Statcard name → **Krauss-Maffei Wegmann | Leopard 2A4HU harckocsi**.
         - **KPz Leopard 2 A7 HU** (Italy / Hungary) → **Leopard 2A7HU**. Statcard name → **KNDS | Leopard 2A7HU harckocsi**.
         - **Lynx KF41**: Statcard name → **Rheinmetall Lynx KF41 | Lynx KF41 gyalogsági harcjármű "Hiúz"**.

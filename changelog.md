@@ -42,11 +42,13 @@ All dates are listed in DD-MM-YYYY format.
         - **Lynx KF41**: Statcard name → **Rheinmetall Lynx KF41 | Lynx KF41 gyalogsági harcjármű "Hiúz"**.
     - **AMX 30 Au F1 / (T 142)** folder → **AMX 30 Au F1 / 10M** (they changed the vehicles in the folder).
 
-### Vehicles:
+### Weaponry:
 
 - #### Changes:
 
+    - **L/QJG1977 Shì 12.7 Háomi Gāoshè Jīqiāng** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
     - **75 mm 43.M cannon** → **7,5 cm 43M harckocsiágyú**.
+    - **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
 
 ## 1.13.02 — 13-08-2025
 

@@ -23,13 +23,13 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Hungarian ground vehicles rework:
-        - **Csaba** → **39M Csaba**. Statcard name → **Manfréd Weiss | 39M Csaba páncélgépkocsi**.
-        - **Toldi IIA** → **38M Toldi hk. B40**. Statcard name → **Landsverk / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 38M Toldi könnyű harckocsi B40**.
-        - **Turán I** → **40M Turán**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 40M Turán közepes harckocsi**.
-        - **Turán II** → **41M Turán**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41M Turán nehéz harckocsi**.
-        - **Turán III** → **43M Turán**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 43M Turán nehéz harckocsi**.
-        - **Zrínyi II** → **40/43M Zrínyi**. Statcard name → **Manfréd Weiss | 10,5 cm 40/43M Zrínyi rohamtarack**.
-        - **Zrínyi I** → **44M Zrínyi (sorozatvető)**. Statcard name → **Manfréd Weiss | 7,5 cm 44M Zrínyi rohamágyú (43M rakéta sorozatvető)**.
+        - **Csaba** → **39 M. Csaba**. Statcard name → **Manfréd Weiss | 39 M. Csaba páncélgépkocsi**.
+        - **Toldi IIA** → **38 M. Toldi hk. B40**. Statcard name → **Landsverk / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 38 M. Toldi könnyű harckocsi B40**.
+        - **Turán I** → **40 M. Turán hk.**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 40 M. Turán közepes harckocsi**.
+        - **Turán II** → **41 M. Turán n. hk.**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41 M. Turán nehéz harckocsi**.
+        - **Turán III** → **43 M. Turán n. hk.**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 43 M. Turán nehéz harckocsi**.
+        - **Zrínyi II** → **40/43 M. Zrínyi**. Statcard name → **Manfréd Weiss | 10,5 cm 40/43 M. Zrínyi rohamtarack**.
+        - **Zrínyi I** → **44 M. Zrínyi (sorozatvető)**. Statcard name → **Manfréd Weiss | 7,5 cm 44 M. Zrínyi rohamágyú (43 M. rakéta sorozatvető)**.
         - **2SZ1** (Italy / Hungary): Statcard name → **Kharkìvs'kij traktornij zavod (KhTZ) | 2SZ1 önjáró tarack "Gvozgyika"**.
         - **ZSZU-57-2** (Italy / Hungary): Statcard name → **Omskij zavod № 174 im. Vorošilova | ZSZU-57-2 önjáró légvédelmi gépágyú**.
         - **BTR-80A** (Italy / Hungary): Statcard name → **Proizvodstvyennoye ob"yedinyeniye «Gor'kovskij avtomobil'nyj zavod» | BTR-80A gyalogsági harcjármű**.
@@ -47,7 +47,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **L/QJG1977 Shì 12.7 Háomi Gāoshè Jīqiāng** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
-    - **75 mm 43.M cannon** → **7,5 cm 43M harckocsiágyú**.
+    - **75 mm 43.M cannon** → **7,5 cm 43 M. harckocsiágyú**.
     - **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
 
 ## 1.13.02 — 13-08-2025

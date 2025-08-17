@@ -278,6 +278,7 @@ weapons/in_nasser_240/short;Naṣr 240
 //CHINA ROCKETS
 
 //ITALY ROCKETS
+weapons/158mm_NB_Wf_41_rocket_launcher;43 M. rakéta sorozatvető <color=#ff6f00>RKT</color>
 
 //FRANCE ROCKETS
 weapons/fr_sneb_type23s;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
@@ -292,7 +293,7 @@ weapons/fr_sneb_type23_md_460;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type23_md_460/short;SNEB F1 Type 23
 weapons/fr_sneb_type23_4fin;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type23_4fin/short;SNEB F1 Type 23
-weapons/fr_sneb_type26_TDA;SNEB F1 Type 26P
+weapons/fr_sneb_type26_TDA;SNEB F1 Type 26P <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type26_TDA/short;SNEB F1 Type 26P
 
 //SWEDEN ROCKETS
@@ -2915,7 +2916,6 @@ weapons/de_r4m_orkan_rocket;R4M rocket
 weapons/cannonM4_75mm;75 mm M-4 cannon
 weapons/cannonMk214a;50 mm Mk. 214a cannon
 weapons/110mm_M8_rocket_launcher;Rocket, 4.5-inch, HE, M8 <color=#ff6f00>RKT</color>
-weapons/158mm_NB_Wf_41_rocket_launcher;150 mm Wgr.41 Spr rocket
 weapons/82mm_M8_rocket_launcher;82 mm M-8 rocket
 weapons/82mm_m8_launcher_user_cannon;82 mm M-8 rocket
 weapons/cannonM5;<color=@userlogColoredText>75 mm</color> Gun, 75mm, M5 <color=#ff6f00>CNN</color>

@@ -18,6 +18,12 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.13.03 — UNRELEASED
 
+### General:
+
+- #### Changes:
+
+    - We are slowly beginning the process of moving the Japanese package over to using Japanese numerals (where it is accurate to use them) from the Arabic numerals used previously to match the Chinese package currently in development.
+
 ### Vehicles:
 
 - #### Changes:
@@ -46,6 +52,8 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: **チト (試2号)** → **チト (2号)**.
     - **Ki 96** → **Ki 96 (3 Gō)**. Statcard name → **Kawasaki Kōkūki Kōgyō | Ki 96 (Shisei 3 Gō)**.
         - Japanese package: **キ96** → **キ96 (三号)**. Statcard name → **川崎航空機工業 | キ96 (試製三号)**.
+    - **B7A1 (Homare 12 Gata)** → **B7A1 (NK9C)**.
+        - Japanese package: **B7A1 (誉12型)** → **B7A1 (NK9C)**.
 
 ### Weaponry:
 
@@ -56,6 +64,13 @@ All dates are listed in DD-MM-YYYY format.
     - **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
     - **150 mm Wgr.41 Spr rocket** (the one used on the **44 M. Zrínyi (sorozatvető)**, not the one used on the **15 cm Pz.W.42**) → **43 M. rakéta sorozatvető**.
     - Corrected the missing type tag on the **SNEB F1 Type 26P** (it's unused anyway).
+
+### Engines:
+
+- #### Changes:
+
+    - **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata | NK9C** → **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata**.
+        - Japanese package: **4式1850馬力発動機 | ハ45-12 | 誉12型** → **四式一八五〇馬力発動機 | ハ45-12 | 誉一二型 | NK9C**.
 
 ## 1.13.02 — 13-08-2025
 

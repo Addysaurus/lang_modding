@@ -57,6 +57,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Ki 102 Otsu**: Statcard name → **Kawasaki Kōkūki Kōgyō | 5 Shiki Sōhatsu Shūgekiki | Ki 102 Otsu**.
         - Japanese package: Statcard name → **川崎航空機工業 | 五式双発襲撃機 | キ102乙**.
     - **M47E2** (Italy) → **M47 RKM**. Statcard name → **Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah | M47 RKM**. Gaijin wanted it to be the 105/55 M47, it's often claimed to be the M47E2, but is modeled off of the M47 at Latrun which is an M47 RKM.
+    - **Ki 44-II / 61-I** folder → **Ki 44-II Hei / 61-I Otsu**.
+        - Japanese package: **キ44-II / 61-I** → **キ44-II丙 / 61-I乙**.
 
 ### Weaponry:
 

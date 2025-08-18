@@ -54,6 +54,8 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: **キ96** → **キ96 (三号)**. Statcard name → **川崎航空機工業 | キ96 (試製三号)**.
     - **B7A1 (Homare 12 Gata)** → **B7A1 (NK9C)**.
         - Japanese package: **B7A1 (誉12型)** → **B7A1 (NK9C)**.
+    - **Ki 102 Otsu**: Statcard name → **Kawasaki Kōkūki Kōgyō | 5 Shiki Sōhatsu Shūgekiki | Ki 102 Otsu**.
+        - Japanese package: Statcard name → **川崎航空機工業 | 五式双発襲撃機 | キ102乙**.
 
 ### Weaponry:
 

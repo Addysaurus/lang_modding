@@ -41,6 +41,7 @@ All dates are listed in DD-MM-YYYY format.
         - **KPz Leopard 2 A7 HU** (Italy / Hungary) → **Leopard 2A7HU**. Statcard name → **KNDS | Leopard 2A7HU harckocsi**.
         - **Lynx KF41**: Statcard name → **Rheinmetall Lynx KF41 | Lynx KF41 gyalogsági harcjármű "Hiúz"**.
     - **AMX 30 Au F1 / (T 142)** folder → **AMX 30 Au F1 / 10M** (they changed the vehicles in the folder).
+    - **A7M2**: Statcard name → **Mitsubishi Jū Kōgyō | Reppū 11 Gata | A7M2** (it accidentally said A7M1 before)
 
 ### Weaponry:
 

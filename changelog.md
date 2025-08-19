@@ -60,7 +60,7 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: **キ44-II / 61-I** → **キ44-II丙 / 61-I乙**.
     - **Ki 43-I / II** folder → **Ki 43-I Hei / II (late)**.
         - Japanese package: **キ43-I丙 / II甲** → **キ43-I丙 / II (late)**.
-    - **M47E2** (Italy) → **M47 RKM**. Statcard name → **Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah | M47 RKM**. Gaijin wanted it to be the 105/55 M47, it's often claimed to be the M47E2, but is modeled off of the M47 at Latrun which is an M47 RKM.
+    - **M47E2** (Italy) → **M47 RKM**. Statcard name → **Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM**. Gaijin wanted it to be the 105/55 M47, it's often claimed to be the M47E2, but is modeled off of the M47 at Latrun which is an M47 RKM.
 
 ### Weaponry:
 

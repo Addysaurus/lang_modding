@@ -22,20 +22,20 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - We are slowly beginning the process of moving the Japanese package over to using Japanese numerals (where it is accurate to use them) from the Arabic numerals used previously to match the Chinese package currently in development.
+    - The Japanese package has been moved over to using Japanese numerals where they were used in real life to match the Chinese package currently in development. Writing every change would be a 400 line changelog so this is the 1 line covering it. Any additional listed changes for Japanese stuff are changes made for reasons that are not Japanese numerals.
 
 ### Vehicles:
 
 - #### Changes:
 
     - Hungarian ground vehicles rework:
-        - **Csaba** → **39 M. Csaba**. Statcard name → **Manfréd Weiss | 39 M. Csaba páncélgépkocsi**.
+        - **Csaba** → **39 M. Csaba pc. gk.**. Statcard name → **Manfréd Weiss | 39 M. Csaba páncélgépkocsi**.
         - **Toldi IIA** → **38 M. Toldi hk. B40**. Statcard name → **Landsverk / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 38 M. Toldi könnyű harckocsi B40**.
-        - **Turán I** → **40 M. Turán hk.**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 40 M. Turán közepes harckocsi**.
+        - **Turán I** → **40 M. Turán köz. hk.**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 40 M. Turán közepes harckocsi**.
         - **Turán II** → **41 M. Turán n. hk.**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41 M. Turán nehéz harckocsi**.
         - **Turán III** → **43 M. Turán n. hk.**. Statcard name → **Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 43 M. Turán nehéz harckocsi**.
-        - **Zrínyi II** → **40/43 M. Zrínyi**. Statcard name → **Manfréd Weiss | 10,5 cm 40/43 M. Zrínyi rohamtarack**.
-        - **Zrínyi I** → **44 M. Zrínyi (sorozatvető)**. Statcard name → **Manfréd Weiss | 7,5 cm 44 M. Zrínyi rohamágyú (43 M. rakéta sorozatvető)**.
+        - **Zrínyi II** → **40/43 M. Zrínyi**. Statcard name → **Manfréd Weiss | 10,5 cm 40/43 M. Zrínyi roham tarack**.
+        - **Zrínyi I** → **44 M. Zrínyi (sorozatvető)**. Statcard name → **Manfréd Weiss | 7,5 cm 44 M. Zrínyi roham ágyú (43 M. rakéta sorozatvető)**.
         - **2SZ1** (Italy / Hungary): Statcard name → **Kharkìvs'kij traktornij zavod (KhTZ) | 122 mm-es 2SZ1 önjáró tarack "Gvozgyika"**.
         - **ZSZU-57-2** (Italy / Hungary): Statcard name → **Omskij zavod № 174 im. Vorošilova | 57 mm-es ZSZU-57-2 önjáró légvédelmi gépágyú "Büszke"**.
         - **BTR-80A** (Italy / Hungary): Statcard name → **Proizvodstvyennoye ob"yedinyeniye «Gor'kovskij avtomobil'nyj zavod» | BTR-80A gyalogsági harcjármű**.
@@ -60,6 +60,14 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: **キ44-II / 61-I** → **キ44-II丙 / 61-I乙**.
     - **Ki 43-I / II** folder → **Ki 43-I Hei / II (late)**.
         - Japanese package: **キ43-I丙 / II甲** → **キ43-I丙 / II (late)**.
+    - **D4Y3 Kō**: Statcard name → **Aichi Kōkūki | Suisei 33 Gata Kō | D4Y3 Kō** (changed from 12 Gata to 33 Gata).
+        - Japanese package: Statcard name → **彗星三三型甲 | D4Y3甲**.
+    - **A7He1**: Statcard name → **Heinkel Flugzeugwerke | Hainkeru 112 Gata Rikujō Sentōki | A7He1**.
+        - Japanese package: Statcard name → **Heinkel Flugzeugwerke | ハインケル112型陸上戦闘機 | A7He1**.
+    - **F4U-1A** (Japan): Statcard name → **Vought-Sikorsky Aircraft V-166B | F4U-1A "Shikorusukī"**.
+        - Japanese package: Statcard name → **Vought-Sikorsky Aircraft V-166B | F4U-1A「シコルスキー」**.
+    - **J2M4 (21 Kai Kō)** → **J2M4 (21 Kai Kō Shō)**.
+        - Japanese package: **J2M4 (21海航)** → **J2M4 (二一海航廠)**. Statcard name → **三菱重工業 / 第二一海軍航空廠 | 雷電三二型 | J2M4**.
     - **M47E2** (Italy) → **M47 RKM**. Statcard name → **Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM**. Gaijin wanted it to be the 105/55 M47, it's often claimed to be the M47E2, but is modeled off of the M47 at Latrun which is an M47 RKM.
 
 ### Weaponry:
@@ -76,7 +84,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata | NK9C** → **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata**.
+    - **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata** → **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata | NK9C**.
         - Japanese package: **4式1850馬力発動機 | ハ45-12 | 誉12型** → **四式一八五〇馬力発動機 | ハ45-12 | 誉一二型 | NK9C**.
 
 ## 1.13.02 — 13-08-2025

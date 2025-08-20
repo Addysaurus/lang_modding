@@ -22,7 +22,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - The Japanese package has been moved over to using Japanese numerals where they were used in real life to match the Chinese package currently in development. Writing every change would be a 400 line changelog so this is the 1 line covering it. Any additional listed changes for Japanese stuff are changes made for reasons that are not Japanese numerals.
+    - The Japanese package has been moved over to using Japanese numerals where they were used in real life to match the Chinese package currently in development. Writing every change would be a 400 line changelog so this is the 1 line covering it. Any additional listed changes for Japanese stuff are changes made for reasons that are not Japanese numerals. Modern Kanji have also been replaced with the old imperial Kanji where it is historically accurate, especially replacing the character 駆 with 驅 (this is being listed here because it would be another giant changelog) (this is mostly a naval thing that happpened when I was burying through documents for the **Dai 18 Gō** and everything spiraled out of control extremely fast and now I'm stuck here, please help me ahhhhhhhhh)
 
 ### Vehicles:
 
@@ -79,11 +79,17 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: **チト (試2号)** → **チト (二号)**. Statcard name → **三菱重工業 | 試製中戦車 (甲) | チト (試製二号車)**.
         - **Chi Ri**: Statcard name → **Mitsubishi Jū Kōgyō | Shisei Chū Sensha (Otsu) | Chi Ri**.
             - Japanese package: Statcard name → **三菱重工業 | 試製中戦車 (乙) | チリ**.
+        - **SUB-I-2 (MK20)** → **SUB-I-2 (MK 20 DM 6 A1)**.
         - **Ho Ri**: Statcard name → **Shisei Shin Hō Sensha (Kō) | Ho Ri**.
             - Japanese package: Statcard name → **試製新砲戦車 (甲) | ホリ**.
         - **Ho Ri (10 Senchi Han)** → **Ho Ri (late)**. Statcard name → **Shisei Shin Hō Sensha (Kō) | Ho Ri (late)**. It's a fake tank, it's never gonna be right. This is the third time I've done this dance of trying to figure out wtf I do with this damn thing and ngl, idc anymore. Gaijoobles made it up anyway.
-            - Japanese package: **ホリ (10糎半)** **ホリ (late)**. Statcard name → **試製新砲戦車 (甲) | ホリ (late)**.
-        - **SUB-I-2 (MK20)** → **SUB-I-2 (MK 20 DM 6 A1)**.
+            - Japanese package: **ホリ (10糎半)** → **ホリ (late)**. Statcard name → **試製新砲戦車 (甲) | ホリ (late)**.
+        - **Sōkō Tei Dai 1 Gō** → **Sakigake**. Statcard name → **Sōkō Tei Dai 1 Gō | Sakigake**.
+            - Japanese package: **装甲艇第1号** → **さきがけ**. Statcard name → **装甲艇第一號 | さきがけ**.
+        - **Ka Ro 4 Gata**:
+            - Japanese package: Statcard name → **横浜ヨット | 四式四型驅逐艇 | カロ四型** (it previously was accidentally listed as the 2型).
+        - **Dai 2 Gō**: Statcard name → **Ishikawajima Zōsensho | Dai 1 Gō Gata Kusen Tei (K-3) | Dai 2 Gō** (the class was previously listed as the Dai 1 Gō Gata).
+            - Japanese package: Statcard name → **石川島造船所 | 第一號型驅潜艇 (K-3) | 第二號**.
     - **M47E2** (Italy) → **M47 RKM**. Statcard name → **Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM**. Gaijin wanted it to be the Italian 105/51 M47, thought the tank they were modeling off of was the Spanish M47E2, and accidentally made the Israeli M47 RKM. bruh ._.
 
 ### Weaponry:

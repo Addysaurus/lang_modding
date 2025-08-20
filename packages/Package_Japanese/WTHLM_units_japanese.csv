@@ -20,7 +20,7 @@ shop/group/ki_84_group;キ84-I甲 / 乙
 shop/group/j2m_group;J2M3 / 5
 shop/group/r2y2_group;R2Y2-G (一一型) / (二二型) / (三二型)
 shop/group/jp_ho_ni_group;ホニI / III
-shop/group/jp_chi_to_group;チト (試2号) / チト
+shop/group/jp_chi_to_group;チト (二号) / チト
 shop/group/jp_type_60_group;60SP / APC (ATM-1)
 shop/group/jp_type_61_sta_group;61TK / ST-A3
 shop/group/jp_type_74_stb_group;STB-0002 / 74TK (C)
@@ -873,81 +873,81 @@ jp_type_10_1;10TK
 jp_type_10_2;MBT
 
 //COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 1
-jp_t14_class_shop;第538号
-jp_t14_class_0;舞鶴海軍工廠 | 乙型魚雷艇 | 第538号型魚雷艇 (T-14) | 第538号
-jp_t14_class_1;第538号
+jp_t14_class_shop;第五百三十八號
+jp_t14_class_0;舞鶴海軍工廠 | 乙型魚雷艇 | 第五百三十八號型魚雷艇 (T-14) | 第五百三十八號
+jp_t14_class_1;第五百三十八號
 jp_t14_class_2;Motor torpedo boat
-jp_t14_class_mod02_shop;第1101号
-jp_t14_class_mod02_0;三菱重工業長崎造船所 | 乙型魚雷艇 | 第538号型魚雷艇 (T-14) | 第1101号
-jp_t14_class_mod02_1;第1101号
+jp_t14_class_mod02_shop;第千百一號
+jp_t14_class_mod02_0;三菱重工業長崎造船所 | 乙型魚雷艇 | 第五百三十八號型魚雷艇 (T-14) | 第千百一號
+jp_t14_class_mod02_1;第千百一號
 jp_t14_class_mod02_2;Motor torpedo boat
-jp_t14_class_mod01_shop;第871号
-jp_t14_class_mod01_0;三菱重工業長崎造船所 | 乙型魚雷艇 | 第538号型魚雷艇 (T-14) | 第871号
-jp_t14_class_mod01_1;第871号
+jp_t14_class_mod01_shop;第八百七十一號
+jp_t14_class_mod01_0;三菱重工業長崎造船所 | 乙型魚雷艇 | 第五百三十八號型魚雷艇 (T-14) | 第八百七十一號
+jp_t14_class_mod01_1;第八百七十一號
 jp_t14_class_mod01_2;Motor torpedo boat
 jp_type5_escortboat_shop;ケイ甲
 jp_type5_escortboat_0;鋼製大護衛艇 | ケイ甲
 jp_type5_escortboat_1;ケイ甲
 jp_type5_escortboat_2;Escort boat
-jp_type_t1_1941_shop;第1号
-jp_type_t1_1941_0;横浜ヨット | 乙型魚雷艇 | 第1号型魚雷艇 (T-1) | 第1号
-jp_type_t1_1941_1;第1号
+jp_type_t1_1941_shop;第一號
+jp_type_t1_1941_0;横浜ヨット | 乙型魚雷艇 | 第一號型魚雷艇 (T-1) | 第一號
+jp_type_t1_1941_1;第一號
 jp_type_t1_1941_2;Motor torpedo boat
-jp_abtei_pr1_shop;装甲艇第1号
-jp_abtei_pr1_0;装甲艇第1号「さきがけ」
-jp_abtei_pr1_1;装甲艇
+jp_abtei_pr1_shop;さきがけ
+jp_abtei_pr1_0;装甲艇第一號 | さきがけ
+jp_abtei_pr1_1;さきがけ
 jp_abtei_pr1_2;Armored boat
-jp_abtei_pr4_shop;装甲艇第4号
-jp_abtei_pr4_0;装甲艇第3号型 | 装甲艇第4号
-jp_abtei_pr4_1;装甲艇
+jp_abtei_pr4_shop;装甲艇第四號
+jp_abtei_pr4_0;装甲艇第三號型 | 装甲艇第四號
+jp_abtei_pr4_1;装甲艇第四號
 jp_abtei_pr4_2;Armored boat
 
 //COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 2
-jp_karotei_type2_shop;カロ2型
-jp_karotei_type2_0;横浜ヨット | 4式2型駆逐艇 | カロ2型
-jp_karotei_type2_1;カロ
+jp_karotei_type2_shop;カロ二型
+jp_karotei_type2_0;横浜ヨット | 四式二型驅逐艇 | カロ二型
+jp_karotei_type2_1;カロ二型
 jp_karotei_type2_2;Motor gunboat
-jp_karotei_type4_shop;カロ4型
-jp_karotei_type4_0;横浜ヨット | 4式2型駆逐艇 | カロ4型
-jp_karotei_type4_1;カロ
+jp_karotei_type4_shop;カロ四型
+jp_karotei_type4_0;横浜ヨット | 四式四型驅逐艇 | カロ四型
+jp_karotei_type4_1;カロ四型
 jp_karotei_type4_2;Motor gunboat
-jp_sehatei_mod1_shop;せは1型
-jp_sehatei_mod1_0;試製波号戦闘艇1型 | せは1型
-jp_sehatei_mod1_1;せは
+jp_sehatei_mod1_shop;せは一型
+jp_sehatei_mod1_0;試製波号戦闘艇一型 | せは一型
+jp_sehatei_mod1_1;せは一型
 jp_sehatei_mod1_2;Armored boat
-jp_type38_1944_shop;第241号
-jp_type38_1944_0;横須賀海軍工廠 | 乙型魚雷艇 | 第241号型魚雷艇 (T-38) | 第241号
-jp_type38_1944_1;第241号
+jp_type38_1944_shop;第二百四十一號
+jp_type38_1944_0;横須賀海軍工廠 | 乙型魚雷艇 | 第二百四十一號型魚雷艇 (T-38) | 第二百四十一號
+jp_type38_1944_1;第二百四十一號
 jp_type38_1944_2;Motor torpedo boat
 jp_type1_pt2_shop;魚雷艇2号 (PT-802)
 jp_type1_pt2_0;日立造船 | 1号型魚雷艇 | 魚雷艇2号 (PT-802)
 jp_type1_pt2_1;魚雷艇2号
 jp_type1_pt2_2;Motor torpedo boat
-jp_kusen_tei_13_1942_shop;第18号
-jp_kusen_tei_13_1942_0;鶴見造船所 | 第13号型駆潜艇 (K-8) | 第18号
-jp_kusen_tei_13_1942_1;第18号
+jp_kusen_tei_13_1942_shop;第十八號
+jp_kusen_tei_13_1942_0;鶴見造船所 | 第十三號型驅潜艇 (K-8) | 第十八號
+jp_kusen_tei_13_1942_1;第十八號
 jp_kusen_tei_13_1942_2;Submarine chaser
-jp_kusen_tei_13_1944_shop;第18号 (1944)
-jp_kusen_tei_13_1944_0;鶴見造船所 | 第13号型駆潜艇 (K-8) | 第18号 (1944)
-jp_kusen_tei_13_1944_1;第18号
+jp_kusen_tei_13_1944_shop;第十八號 (1944)
+jp_kusen_tei_13_1944_0;鶴見造船所 | 第十三號型驅潜艇 (K-8) | 第十八號 (1944)
+jp_kusen_tei_13_1944_1;第十八號
 jp_kusen_tei_13_1944_2;Submarine chaser
-jp_t51a_shop;第10号
-jp_t51a_0;横浜ヨット | 甲型魚雷艇 | 第10号型魚雷艇 (T-51A) | 第10号
-jp_t51a_1;第10号
+jp_t51a_shop;第十號
+jp_t51a_0;横浜ヨット | 甲型魚雷艇 | 第十號型魚雷艇 (T-51A) | 第十號
+jp_t51a_1;第十號
 jp_t51a_2;Motor torpedo boat
-jp_t51b_shop;第11号
-jp_t51b_0;横浜ヨット | 甲型魚雷艇 | 第11号型魚雷艇 (T-51B) | 第11号
-jp_t51b_1;第11号
+jp_t51b_shop;第十一號
+jp_t51b_0;横浜ヨット | 甲型魚雷艇 | 第十一號型魚雷艇 (T-51B) | 第十一號
+jp_t51b_1;第十一號
 jp_t51b_2;Motor torpedo boat
 
 //COASTAL FLEET VEHICLES - VEHICLE/FAMILY START: RANK 3
-jp_no1_ch2_shop;第2号
-jp_no1_ch2_0;石川島造船所 | 第2号型駆潜艇 (K-3) | 第2号
-jp_no1_ch2_1;第2号
+jp_no1_ch2_shop;第二號
+jp_no1_ch2_0;石川島造船所 | 第一號型驅潜艇 (K-3) | 第二號
+jp_no1_ch2_1;第二號
 jp_no1_ch2_2;Submarine chaser
-jp_no4_ch8_shop;第8号
-jp_no4_ch8_0;玉造船所 | 第4号型駆潜艇 (K-7) | 第8号
-jp_no4_ch8_1;第8号
+jp_no4_ch8_shop;第八號
+jp_no4_ch8_0;玉造船所 | 第四號型驅潜艇 (K-7) | 第八號
+jp_no4_ch8_1;第八號
 jp_no4_ch8_2;Submarine chaser
 jp_type7_pt808_shop;魚雷艇8号 (PT-808)
 jp_type7_pt808_0;三菱重工業下関造船所 | 7号型魚雷艇 | 魚雷艇8号 (PT-808)
@@ -1004,29 +1004,29 @@ jp_destroyer_ayanami_2;Destroyer
 
 //BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 1
 jp_destroyer_momi_shop;樅
-jp_destroyer_momi_0;横須賀海軍工廠 | 二等駆逐艦 | 樅型駆逐艦 (F-37) | 樅 (1930)
+jp_destroyer_momi_0;横須賀海軍工廠 | 二等驅逐艦 | 樅型驅逐艦 (F-37) | 樅 (1930)
 jp_destroyer_momi_1;樅
 jp_destroyer_momi_2;Destroyer
 jp_destroyer_matsu_shop;松
-jp_destroyer_matsu_0;舞鶴海軍工廠 | 一等駆逐艦 | 松型駆逐艦 (F-55) | 松
+jp_destroyer_matsu_0;舞鶴海軍工廠 | 一等驅逐艦 | 松型驅逐艦 (F-55) | 松
 jp_destroyer_matsu_1;松
 jp_destroyer_matsu_2;Destroyer
 jp_destroyer_mutsuki_shop;睦月
-jp_destroyer_mutsuki_0;佐世保海軍工廠 | 一等駆逐艦 | 睦月型駆逐艦 (F-41E3) | 睦月 (1941)
+jp_destroyer_mutsuki_0;佐世保海軍工廠 | 一等驅逐艦 | 睦月型驅逐艦 (F-41E3) | 睦月 (1941)
 jp_destroyer_mutsuki_1;睦月
 jp_destroyer_mutsuki_2;Destroyer
-jp_destroyer_mutsuki_EC_0;佐世保海軍工廠 | 一等駆逐艦 | 睦月型駆逐艦 (F-41E3) | 睦月 (1941)
+jp_destroyer_mutsuki_EC_0;佐世保海軍工廠 | 一等驅逐艦 | 睦月型驅逐艦 (F-41E3) | 睦月 (1941)
 jp_destroyer_mutsuki_EC_1;睦月
 jp_destroyer_mutsuki_EC_2;Destroyer
 jp_destroyer_satsuki_shop;皐月
-jp_destroyer_satsuki_0;藤永田造船所 | 一等駆逐艦 | 睦月型駆逐艦 (F-41E3) | 皐月 (1935)
+jp_destroyer_satsuki_0;藤永田造船所 | 一等驅逐艦 | 睦月型驅逐艦 (F-41E3) | 皐月 (1935)
 jp_destroyer_satsuki_1;皐月
 jp_destroyer_satsuki_2;Destroyer
 jp_destroyer_fubuki_shop;綾波
-jp_destroyer_fubuki_0;藤永田造船所 | 特型駆逐艦 | 綾波型駆逐艦 | 綾波 (1936)
+jp_destroyer_fubuki_0;藤永田造船所 | 特型驅逐艦 | 綾波型驅逐艦 | 綾波 (1936)
 jp_destroyer_fubuki_1;綾波
 jp_destroyer_fubuki_2;Destroyer
-jp_destroyer_fubuki_EC_0;藤永田造船所 | 特型駆逐艦 | 綾波型駆逐艦 | 綾波 (1936)
+jp_destroyer_fubuki_EC_0;藤永田造船所 | 特型驅逐艦 | 綾波型驅逐艦 | 綾波 (1936)
 jp_destroyer_fubuki_EC_1;綾波
 jp_destroyer_fubuki_EC_2;Destroyer
 
@@ -1040,23 +1040,23 @@ jp_destroyer_murasame_0;三菱重工業長崎造船所 | 甲型護衛艦2型 | �
 jp_destroyer_murasame_1;むらさめ
 jp_destroyer_murasame_2;Destroyer
 jp_destroyer_yugumo_shop;夕雲
-jp_destroyer_yugumo_0;舞鶴海軍工廠 | 一等駆逐艦 | 夕雲型駆逐艦 (F-50) | 夕雲
+jp_destroyer_yugumo_0;舞鶴海軍工廠 | 一等驅逐艦 | 夕雲型驅逐艦 (F-50) | 夕雲
 jp_destroyer_yugumo_1;夕雲
 jp_destroyer_yugumo_2;Destroyer
 jp_destroyer_hayanami_shop;早波
-jp_destroyer_hayanami_0;舞鶴海軍工廠 | 一等駆逐艦 | 夕雲型駆逐艦 (F-50) | 早波
+jp_destroyer_hayanami_0;舞鶴海軍工廠 | 一等驅逐艦 | 夕雲型驅逐艦 (F-50) | 早波
 jp_destroyer_hayanami_1;早波
 jp_destroyer_hayanami_2;Destroyer
 jp_destroyer_kiyoshimo_shop;清霜
-jp_destroyer_kiyoshimo_0;浦賀船渠 | 一等駆逐艦 | 夕雲型駆逐艦 (F-50) | 清霜
+jp_destroyer_kiyoshimo_0;浦賀船渠 | 一等驅逐艦 | 夕雲型驅逐艦 (F-50) | 清霜
 jp_destroyer_kiyoshimo_1;清霜
 jp_destroyer_kiyoshimo_2;Destroyer
 jp_destroyer_hatsuharu_shop;初春
-jp_destroyer_hatsuharu_0;佐世保海軍工廠 | 一等駆逐艦 | 初春型駆逐艦 (F-45) | 初春
+jp_destroyer_hatsuharu_0;佐世保海軍工廠 | 一等驅逐艦 | 初春型驅逐艦 (F-45) | 初春
 jp_destroyer_hatsuharu_1;初春
 jp_destroyer_hatsuharu_2;Destroyer
 jp_destroyer_nenohi_shop;子日
-jp_destroyer_nenohi_0;浦賀船渠 | 一等駆逐艦 | 初春型駆逐艦 (F-45) | 子日 (1942)
+jp_destroyer_nenohi_0;浦賀船渠 | 一等驅逐艦 | 初春型驅逐艦 (F-45) | 子日 (1942)
 jp_destroyer_nenohi_1;子日
 jp_destroyer_nenohi_2;Destroyer
 jp_destroyer_yugure_shop;ゆうぐれ (DD-184)
@@ -1066,11 +1066,11 @@ jp_destroyer_yugure_2;Destroyer
 
 //BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 3
 jp_destroyer_akizuki_shop;秋月
-jp_destroyer_akizuki_0;舞鶴海軍工廠 | 一等駆逐艦 | 秋月型駆逐艦 (F-51) | 秋月 (1944)
+jp_destroyer_akizuki_0;舞鶴海軍工廠 | 一等驅逐艦 | 秋月型驅逐艦 (F-51) | 秋月 (1944)
 jp_destroyer_akizuki_1;秋月
 jp_destroyer_akizuki_2;Destroyer
 jp_destroyer_hatsuzuki_shop;◓ 初月
-jp_destroyer_hatsuzuki_0;◓ 舞鶴海軍工廠 | 一等駆逐艦 | 秋月型駆逐艦 (F-51) | 初月
+jp_destroyer_hatsuzuki_0;◓ 舞鶴海軍工廠 | 一等驅逐艦 | 秋月型驅逐艦 (F-51) | 初月
 jp_destroyer_hatsuzuki_1;◓ 初月
 jp_destroyer_hatsuzuki_2;Destroyer
 jp_cruiser_kako_shop;加古
@@ -1103,7 +1103,7 @@ jp_cruiser_sendai_0;三菱重工業長崎造船所 | 二等巡洋艦 | 川内型
 jp_cruiser_sendai_1;川内
 jp_cruiser_sendai_2;Light cruiser
 jp_destroyer_yukikaze_shop;雪風
-jp_destroyer_yukikaze_0;佐世保海軍工廠 / 呉海軍工廠 | 一等駆逐艦 | 陽炎型駆逐艦 (F-49) | 雪風 (1943)
+jp_destroyer_yukikaze_0;佐世保海軍工廠 / 呉海軍工廠 | 一等驅逐艦 | 陽炎型驅逐艦 (F-49) | 雪風 (1943)
 jp_destroyer_yukikaze_1;雪風
 jp_destroyer_yukikaze_2;Destroyer
 jp_cruiser_yubari_shop;夕張
@@ -1111,11 +1111,11 @@ jp_cruiser_yubari_0;佐世保海軍工廠 / 横須賀海軍工廠 | 二等巡洋
 jp_cruiser_yubari_1;夕張
 jp_cruiser_yubari_2;Light cruiser
 jp_destroyer_shimakaze_shop;島風
-jp_destroyer_shimakaze_0;舞鶴海軍工廠 | 一等駆逐艦 | 島風型駆逐艦 (F-52) | 島風 (1944)
+jp_destroyer_shimakaze_0;舞鶴海軍工廠 | 一等驅逐艦 | 島風型驅逐艦 (F-52) | 島風 (1944)
 jp_destroyer_shimakaze_1;島風
 jp_destroyer_shimakaze_2;Destroyer
 jp_destroyer_yuudachi_shop;夕立
-jp_destroyer_yuudachi_0;佐世保海軍工廠 | 一等駆逐艦 | 白露型駆逐艦 (F-45D) | 夕立
+jp_destroyer_yuudachi_0;佐世保海軍工廠 | 一等驅逐艦 | 白露型驅逐艦 (F-45D) | 夕立
 jp_destroyer_yuudachi_1;夕立
 jp_destroyer_yuudachi_2;Destroyer
 

@@ -67,10 +67,18 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Statcard name → **Vought-Sikorsky Aircraft V-166B | F4U-1A「シコルスキー」**.
         - **J2M4 (21 Kai Kō)** → **J2M4 (21 Kai Kō Shō)**.
             - Japanese package: **J2M4 (21海航)** → **J2M4 (二一海航廠)**. Statcard name → **三菱重工業 / 第二一海軍航空廠 | 雷電三二型 | J2M4**.
+        - **Ha Gō (late) (94 Shiki) (1 Sen Ren)** → **Ha Gō (Shiki) (94 Shiki) (1 Sen Ren)**.
+            - Japanese package: **ハ号 (late) (94式) (1戦連)** → **ハ号 (指揮) (九四式) (一戦連)**.
+        - **Ke Ni A**:
+            - Japanese package: **ケニ甲** → **ケニA**. Statcard name → **ケニA**. This change was made a long time ago in English but I forgot to make it in Japanese.
+        - **Chi Ha Kai** (Standard & Twitch drop) → **Chi Ha (1 Shiki)**. Statcard name → **97 Shiki Chū Sensha | Chi Ha (1 Shiki 47 Mirimētoru Sensha Hō)**.
+            - Japanese package: **チハ改** → **チハ (一式)**. Statcard name → **三菱重工業 | 九七式中戦車 | チハ (一式四七粍戦車砲)**.
         - **Chi Nu (5 Shiki II Gata)**:
             - Japanese package: **チヌ (5式II型)** → **チヌ (五式II型)**. Statcard name → **三式中戦車 | チヌ (試製五式七糎半戦車砲 (長) II型)**.
         - **Chi To (Shi 2 Gō)** → **Chi To (2 Gō)**. Statcard name → **Mitsubishi Jū Kōgyō | Shisei Chū Sensha (Kō) | Chi To (Shisei 2 Gōsha)**.
-            - Japanese package: **チト (試2号)** → **チト (2号)**. Statcard name → **三菱重工業 | 試製中戦車 (甲) | チト (試製2号車)**.
+            - Japanese package: **チト (試2号)** → **チト (二号)**. Statcard name → **三菱重工業 | 試製中戦車 (甲) | チト (試製二号車)**.
+        - **Chi Ri**: Statcard name → **Mitsubishi Jū Kōgyō | Shisei Chū Sensha (Otsu) | Chi Ri**.
+            - Japanese package: Statcard name → **三菱重工業 | 試製中戦車 (乙) | チリ**.
         - **Ho Ri**: Statcard name → **Shisei Shin Hō Sensha (Kō) | Ho Ri**.
             - Japanese package: Statcard name → **試製新砲戦車 (甲) | ホリ**.
         - **Ho Ri (10 Senchi Han)** → **Ho Ri (late)**. Statcard name → **Shisei Shin Hō Sensha (Kō) | Ho Ri (late)**. It's a fake tank, it's never gonna be right. This is the third time I've done this dance of trying to figure out wtf I do with this damn thing and ngl, idc anymore. Gaijoobles made it up anyway.
@@ -89,10 +97,12 @@ All dates are listed in DD-MM-YYYY format.
     - **150 mm Wgr.41 Spr rocket** (the one used on the **44 M. Zrínyi (sorozatvető)**, not the one used on the **15 cm Pz.W.42**) → **43 M. rakéta sorozatvető**.
     - Japan changes that happened with the move to Japanese numerals:
         - **Senchi** and **Sanchi** have been changed to **Senchimētoru** and **Sanchimētoru** respectively. It's a pain in the ass to list all the guns changed, so here it is.
-        - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
-        - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
         - **94 Shiki 37 Mirimētoru Sensha Hō**:
             - Japanese package: **陸軍技術本部 | 94式37粍戦車砲** → **九四式三七粍戦車砲** (why tf did it have the manufacturer in it anyway, and why only in Japanese?? what was i smoking????).
+        - **47 mm Type 1 cannon** → **1 Shiki 47 Mirimētoru Sensha Hō**.
+            - Japanese package: **47 mm Type 1 cannon** → **一式四七粍戦車砲**.
+        - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
+        - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
     - Corrected the missing type tag on the **SNEB F1 Type 26P** (it's unused anyway).
 
 ### Engines:

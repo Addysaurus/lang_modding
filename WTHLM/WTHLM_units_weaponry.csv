@@ -80,11 +80,18 @@ weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Den
 weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredText>133 mm</color> Gun, Q.F., 5.25-inch, Mk. I <color=#ff6f00>CNN</color>
 
 //JAPAN GUNS
-weapons/cannonJM61A2;JM61A1
-weapons/cannonJM61A2/short;JM61A1
-weapons/155mm_60_type_3_naval_user_cannon;<color=@userlogColoredText>155 mm</color> 60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō <color=#ff6f00>CNN</color>
-weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</color> 45 Kōkei 94 Shiki 40 Sanchi Hō <color=#ff6f00>CNN</color>
-weapons/460mm_45_type_94_naval_user_cannon/short;45 Kōkei 94 Shiki 40 Sanchi Hō
+weapons/cannonJM61A2;<color=@userlogColoredText>20 mm</color> JM61A2 <color=#ff6f00>RCNN</color>
+weapons/cannonJM61A2/short;JM61A2
+weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Mirimētoru Kōsha Kikanhō <color=#ff6f00>ACNN</color>
+weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Mirimētoru Kōsha Kikanhō <color=#ff6f00>ACNN</color>
+weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
+weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
+weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 94 Shiki 37 Mirimētoru Sensha Hō <color=#ff6f00>CNN</color>
+weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchimētoru Han Sensha Hō (Naga) I Gata <color=#ff6f00>CNN</color>
+weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchimētoru Han Sensha Hō (Naga) II Gata <color=#ff6f00>CNN</color>
+weapons/155mm_60_type_3_naval_user_cannon;<color=@userlogColoredText>155 mm</color> 60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō <color=#ff6f00>CNN</color>
+weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</color> 45 Kōkei 94 Shiki 40 Sanchimētoru Hō <color=#ff6f00>CNN</color>
+weapons/460mm_45_type_94_naval_user_cannon/short;45 Kōkei 94 Shiki 40 Sanchimētoru Hō
 
 //CHINA GUNS
 weapons/12_7mm_type_77_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1977 Shì 12.7 Háomi Gāoshè Jīqiāng <color=#ff6f00>MG</color>
@@ -500,8 +507,6 @@ explosiveType/hbx_3;HBX-3
 
 //UNCATEGORIZED
 weapons/cannonMGC30L;20 mm MG C/30L cannon
-weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
-weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
 weapons/gunType97;7.7 mm Type 97 machine gun
 weapons/gunType97_turret;7.7 mm Type 97 machine gun
 weapons/cannonType99;20 mm Type 99 Model 1 cannon
@@ -5162,8 +5167,6 @@ weapons/70mm_Type94_user_cannon;70 mm Type 94 cannon
 70mm_type95_ap;Type 95 APHE
 weapons/7_7mm_Type_97_user_machinegun;7.7 mm Type 97 machine gun
 weapons/6_5mm_Type_91_user_machinegun;6.5 mm Type 91 machine gun
-weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Mirimētoru Kōsha Kikanhō <color=#ff6f00>ACNN</color>
-weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 94 Shiki 37 Mirimētoru Sensha Hō <color=#ff6f00>CNN</color>
 weapons/37mm_Type1_user_cannon;37 mm Type 1 cannon
 weapons/37mm_Type100_user_cannon;37 mm Type 100 cannon
 weapons/47mm_Type1_user_cannon;47 mm Type 1 cannon
@@ -5179,7 +5182,6 @@ weapons/75mm_Type90_user_cannon;75 mm Type 90 cannon
 weapons/75mm_Type99_user_cannon;75 mm Type 99 cannon
 weapons/120mm_Navy_Short_Gun_user_cannon;120 mm Navy short gun
 weapons/90mm_Type61_user_cannon;90 mm Type 61 cannon
-weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Mirimētoru Kōsha Kikanhō <color=#ff6f00>ACNN</color>
 weapons/150mm_Type_38_user_cannon;150 mm Type 38 howitzer
 weapons/76mm_1902_30_user_cannon;<color=@userlogColoredText>76.2 mm</color> obr. 1902/30 gg. <color=#ff6f00>CNN</color>
 weapons/85mm_Type_62_85_TC_user_cannon;<color=@userlogColoredText>85 mm</color> ZPL1963 85 háomi tankè pào <color=#ff6f00>CNN</color>
@@ -5483,9 +5485,7 @@ weapons/7_62mm_L37A1_user_machinegun;7.62 mm L37A1 machine gun
 weapons/158mm_NB_Wf_41_gun_rocket_launcher;150 mm Wgr.41 Spr rocket
 weapons/75mm_Lightweight_Type1_model_II_user_cannon;75 mm Lightweight Type I Model II cannon
 75mm_type_4_apcr;Type 4 APCR
-weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) I Gata <color=#ff6f00>CNN</color>
 75mm_type4_ap_kou;Type 4 Kou
-weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) II Gata <color=#ff6f00>CNN</color>
 weapons/105mm_Type5_user_cannon;105 mm Type 5 cannon
 weapons/7_92mm_mg34_1934_naval_user_machinegun;7.92 mm MG34 machine gun
 weapons/depth_charge_de_emc;EMC depth charge

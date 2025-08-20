@@ -18,7 +18,7 @@ shop/group/ki_67_group;キ67-I甲 / 乙
 shop/group/n1k2_group;N1K1-J甲 / 2-J / 2-J甲
 shop/group/ki_84_group;キ84-I甲 / 乙
 shop/group/j2m_group;J2M3 / 5
-shop/group/r2y2_group;R2Y2-G (11型) / (22型) / (32型)
+shop/group/r2y2_group;R2Y2-G (一一型) / (二二型) / (三二型)
 shop/group/jp_ho_ni_group;ホニI / III
 shop/group/jp_chi_to_group;チト (試2号) / チト
 shop/group/jp_type_60_group;60SP / APC (ATM-1)
@@ -63,8 +63,8 @@ ki-27_otsu_shop;キ27乙
 ki-27_otsu_0;中島飛行機 | 九七式戦闘機乙 | キ27乙
 ki-27_otsu_1;キ27乙
 ki-27_otsu_2;キ27
-ki-27_otsu_ep_shop;キ27乙 (4戦隊)
-ki-27_otsu_ep_0;中島飛行機 | 九七式戦闘機乙 | キ27乙 (飛行第4戦隊)
+ki-27_otsu_ep_shop;キ27乙 (四戦隊)
+ki-27_otsu_ep_0;中島飛行機 | 九七式戦闘機乙 | キ27乙 (飛行第四戦隊)
 ki-27_otsu_ep_1;キ27乙
 ki-27_otsu_ep_2;キ27
 ki_43_1_shop;キ43-I丙
@@ -351,7 +351,7 @@ j2m5_shop;J2M5
 j2m5_0;三菱重工業 | 雷電三三型 | J2M5
 j2m5_1;J2M5
 j2m5_2;J2M
-j2m5_30mm_shop;J2M5 (5式)
+j2m5_30mm_shop;J2M5 (五式)
 j2m5_30mm_0;三菱重工業 | 雷電三三型 | J2M5 (五式三十粍固定機銃)
 j2m5_30mm_1;J2M5
 j2m5_30mm_2;J2M
@@ -372,19 +372,19 @@ b7a2_homare_23_0;愛知航空機 | 試製流星改 | B7A2
 b7a2_homare_23_1;B7A2
 b7a2_homare_23_2;B7A
 g5n1_shop;G5N1
-g5n1_0;中島飛行機 | 13試陸上攻撃機 | 試製深山 | G5N1
+g5n1_0;中島飛行機 | 十三試陸上攻撃機 | 試製深山 | G5N1
 g5n1_1;G5N1
 g5n1_2;G5N
 g5n2_shop;G5N2
-g5n2_0;中島飛行機 | 13試陸上攻撃機 | 試製深山 | G5N2
+g5n2_0;中島飛行機 | 十三試陸上攻撃機 | 試製深山 | G5N2
 g5n2_1;G5N2
 g5n2_2;G5N
 ki_67_1_ko_shop;キ67-I甲
-ki_67_1_ko_0;三菱重工業 | 4式重爆撃機1型甲 | キ67-I甲「飛龍」
+ki_67_1_ko_0;三菱重工業 | 四式重爆撃機一型甲 | キ67-I甲「飛龍」
 ki_67_1_ko_1;キ67-I
 ki_67_1_ko_2;キ67
 ki_67_1_otsu_shop;キ67-I乙
-ki_67_1_otsu_0;三菱重工業 | 4式重爆撃機1型乙 | キ67-I乙「飛龍」
+ki_67_1_otsu_0;三菱重工業 | 四式重爆撃機一型乙 | キ67-I乙「飛龍」
 ki_67_1_otsu_1;キ67-I
 ki_67_1_otsu_2;キ67
 ki-96_otsu_shop;キ96 (三号)
@@ -394,31 +394,31 @@ ki-96_otsu_2;キ96
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 a7m1_shop;A7M1
-a7m1_0;三菱重工業 | 17試甲艦上戦闘機 | 試製烈風 | A7M1
+a7m1_0;三菱重工業 | 十七試甲艦上戦闘機 | 試製烈風 | A7M1
 a7m1_1;A7M1
 a7m1_2;A7M
 a7m2_shop;A7M2
-a7m2_0;三菱重工業 | 烈風11型 | A7M2
+a7m2_0;三菱重工業 | 烈風一一型 | A7M2
 a7m2_1;A7M2
 a7m2_2;A7M
 ki_84_shop;キ84-I
-ki_84_0;中島飛行機 | 4式戦闘機1型 | キ84-I「疾風」
+ki_84_0;中島飛行機 | 四式戦闘機一型 | キ84-I「疾風」
 ki_84_1;キ84-I
 ki_84_2;キ84
 ki_84_ko_shop;キ84-I甲
-ki_84_ko_0;中島飛行機 | 4式戦闘機1型甲 | キ84-I甲「疾風」
+ki_84_ko_0;中島飛行機 | 四式戦闘機一型甲 | キ84-I甲「疾風」
 ki_84_ko_1;キ84-I
 ki_84_ko_2;キ84
 ki_84_otsu_shop;キ84-I乙
-ki_84_otsu_0;中島飛行機 | 4式戦闘機1型乙 | キ84-I乙「疾風」
+ki_84_otsu_0;中島飛行機 | 四式戦闘機一型乙 | キ84-I乙「疾風」
 ki_84_otsu_1;キ84-I
 ki_84_otsu_2;キ84
 ki_84_hei_shop;キ84-I丙
-ki_84_hei_0;中島飛行機 | 4式戦闘機1型丙 | キ84-I丙「疾風」
+ki_84_hei_0;中島飛行機 | 四式戦闘機一型丙 | キ84-I丙「疾風」
 ki_84_hei_1;キ84-I
 ki_84_hei_2;キ84
 j7w1_shop;J7W1
-j7w1_0;海軍航空技術廠 + 九州飛行機 | 18試乙陸上戦闘機 | 試製震電 | J7W1
+j7w1_0;海軍航空技術廠 + 九州飛行機 | 十八試乙陸上戦闘機 | 試製震電 | J7W1
 j7w1_1;J7W1
 j7w1_2;J7W
 ki-83_shop;キ83
@@ -426,11 +426,11 @@ ki-83_0;三菱重工業 | キ83
 ki-83_1;キ83
 ki-83_2;キ83
 g8n1_shop;G8N1
-g8n1_0;中島飛行機 | 18試陸上攻撃機 | 試製連山 | G8N1
+g8n1_0;中島飛行機 | 十八試陸上攻撃機 | 試製連山 | G8N1
 g8n1_1;G8N1
 g8n1_2;G8N
 g8n2_shop;G8N2
-g8n2_0;中島飛行機 | 18試陸上攻撃機 | 試製連山改 | G8N2
+g8n2_0;中島飛行機 | 十八試陸上攻撃機 | 試製連山改 | G8N2
 g8n2_1;G8N2
 g8n2_2;G8N
 ki_87_shop;キ87
@@ -442,29 +442,29 @@ ki_94_2_0;立川飛行機 | キ94-II
 ki_94_2_1;キ94-II
 ki_94_2_2;キ94
 j6k1_shop;J6K1
-j6k1_0;川西航空機 | 18試甲陸上戦闘機 | 試製陣風 | J6K1
+j6k1_0;川西航空機 | 十八試甲陸上戦闘機 | 試製陣風 | J6K1
 j6k1_1;J6K1
 j6k1_2;J6K
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 kitsuka_shop;M7N1-J甲
-kitsuka_0;中島飛行機 | 試製橘花改21型甲 | M7N1-J甲
+kitsuka_0;中島飛行機 | 試製橘花改二一型甲 | M7N1-J甲
 kitsuka_1;M7N1
 kitsuka_2;M7N
 j8m1_shop;キ200
 j8m1_0;三菱重工業 | キ200
 j8m1_1;キ200
 j8m1_2;キ200
-r2y2_v1_shop;R2Y2-G (11型)
-r2y2_v1_0;試製景雲改11型 | R2Y2-G
+r2y2_v1_shop;R2Y2-G (一一型)
+r2y2_v1_0;試製景雲改一一型 | R2Y2-G
 r2y2_v1_1;R2Y2-G
 r2y2_v1_2;R2Y
-r2y2_v2_shop;R2Y2-G (22型)
-r2y2_v2_0;試製景雲改22型 | R2Y2-G
+r2y2_v2_shop;R2Y2-G (二二型)
+r2y2_v2_0;試製景雲改二二型 | R2Y2-G
 r2y2_v2_1;R2Y2-G
 r2y2_v2_2;R2Y
-r2y2_kai_shop;R2Y2-G (32型)
-r2y2_kai_0;試製景雲改32型 | R2Y2-G
+r2y2_kai_shop;R2Y2-G (三二型)
+r2y2_kai_0;試製景雲改三二型 | R2Y2-G
 r2y2_kai_1;R2Y2-G
 r2y2_kai_2;R2Y
 f-86f-30_japan_shop;▅ F-86F-30-MIT
@@ -665,12 +665,12 @@ jp_type_3_chi_nu_shop;チヌ
 jp_type_3_chi_nu_0;三菱重工業 | 3式中戦車 | チヌ
 jp_type_3_chi_nu_1;チヌ
 jp_type_3_chi_nu_2;Medium tank
-jp_type_3_chi_nu_75cm_type_5_shop;チヌ (5式II型)
-jp_type_3_chi_nu_75cm_type_5_0;三菱重工業 | 3式中戦車 | チヌ (試製5式7糎半戦車砲 (長) II型)
+jp_type_3_chi_nu_75cm_type_5_shop;チヌ (五式II型)
+jp_type_3_chi_nu_75cm_type_5_0;三菱重工業 | 三式中戦車 | チヌ (試製五式七糎半戦車砲 (長) II型)
 jp_type_3_chi_nu_75cm_type_5_1;チヌ
 jp_type_3_chi_nu_75cm_type_5_2;Medium tank
 jp_type_4_chi_to_shop;チト (2号)
-jp_type_4_chi_to_0;三菱重工業 | 試製中戦車甲 | チト (試製2号車)
+jp_type_4_chi_to_0;三菱重工業 | 試製中戦車 (甲) | チト (試製2号車)
 jp_type_4_chi_to_1;チト
 jp_type_4_chi_to_2;Medium tank
 jp_type_4_chi_to_late_shop;チト
@@ -739,16 +739,16 @@ jp_type_75_shop;75HSP
 jp_type_75_0;三菱重工業 + 日本製鋼所 | 75式自走155mmりゅう弾砲
 jp_type_75_1;75HSP
 jp_type_75_2;SPH
-jp_sub_i_ii_20mm_shop;SUB-I-2 (MK20)
-jp_sub_i_ii_20mm_0;三菱重工業 | SUB-I-2 (MK20 Rh202)
+jp_sub_i_ii_20mm_shop;SUB-I-2 (MK 20 DM 6 A1)
+jp_sub_i_ii_20mm_0;三菱重工業 | SUB-I-2 (MK 20 DM 6 A1)
 jp_sub_i_ii_20mm_1;SUB-I-2
 jp_sub_i_ii_20mm_2;SPAAG
 jp_type_5_ho_ri_prototype_shop;ホリ
-jp_type_5_ho_ri_prototype_0;三菱重工業 | 試製新砲戦車甲 | ホリ
+jp_type_5_ho_ri_prototype_0;三菱重工業 | 試製新砲戦車 (甲) | ホリ
 jp_type_5_ho_ri_prototype_1;ナト
 jp_type_5_ho_ri_prototype_2;SPG
-jp_type_5_ho_ri_production_shop;ホリ (10糎半)
-jp_type_5_ho_ri_production_0;試製10糎半砲戦車 | ホリ
+jp_type_5_ho_ri_production_shop;ホリ (late)
+jp_type_5_ho_ri_production_0;試製新砲戦車 (甲) | ホリ (late)
 jp_type_5_ho_ri_production_1;ホリ
 jp_type_5_ho_ri_production_2;SPG
 

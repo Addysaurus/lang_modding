@@ -47,28 +47,36 @@ All dates are listed in DD-MM-YYYY format.
         - **KPz Leopard 2 A7 HU** (Italy / Hungary) → **Leopard 2A7HU**. Statcard name → **KNDS | Leopard 2A7HU harckocsi**.
         - **Lynx KF41**: Statcard name → **Rheinmetall Lynx KF41 | Lynx KF41 gyalogsági harcjármű "Hiúz"**.
     - **AMX 30 Au F1 / (T 142)** folder → **AMX 30 Au F1 / 10M** (they changed the vehicles in the folder).
-    - **A7M2**: Statcard name → **Mitsubishi Jū Kōgyō | Reppū 11 Gata | A7M2** (it accidentally said A7M1 before).
-    - **Chi To (Shi 2 Gō)** → **Chi To (2 Gō)**.
-        - Japanese package: **チト (試2号)** → **チト (2号)**.
-    - **Ki 96** → **Ki 96 (3 Gō)**. Statcard name → **Kawasaki Kōkūki Kōgyō | Ki 96 (Shisei 3 Gō)**.
-        - Japanese package: **キ96** → **キ96 (三号)**. Statcard name → **川崎航空機工業 | キ96 (試製三号)**.
-    - **B7A1 (Homare 12 Gata)** → **B7A1 (NK9C)**.
-        - Japanese package: **B7A1 (誉12型)** → **B7A1 (NK9C)**.
-    - **Ki 102 Otsu**: Statcard name → **Kawasaki Kōkūki Kōgyō | 5 Shiki Sōhatsu Shūgekiki | Ki 102 Otsu**.
-        - Japanese package: Statcard name → **川崎航空機工業 | 五式双発襲撃機 | キ102乙**.
-    - **Ki 44-II / 61-I** folder → **Ki 44-II Hei / 61-I Otsu**.
-        - Japanese package: **キ44-II / 61-I** → **キ44-II丙 / 61-I乙**.
-    - **Ki 43-I / II** folder → **Ki 43-I Hei / II (late)**.
-        - Japanese package: **キ43-I丙 / II甲** → **キ43-I丙 / II (late)**.
-    - **D4Y3 Kō**: Statcard name → **Aichi Kōkūki | Suisei 33 Gata Kō | D4Y3 Kō** (changed from 12 Gata to 33 Gata).
-        - Japanese package: Statcard name → **彗星三三型甲 | D4Y3甲**.
-    - **A7He1**: Statcard name → **Heinkel Flugzeugwerke | Hainkeru 112 Gata Rikujō Sentōki | A7He1**.
-        - Japanese package: Statcard name → **Heinkel Flugzeugwerke | ハインケル112型陸上戦闘機 | A7He1**.
-    - **F4U-1A** (Japan): Statcard name → **Vought-Sikorsky Aircraft V-166B | F4U-1A "Shikorusukī"**.
-        - Japanese package: Statcard name → **Vought-Sikorsky Aircraft V-166B | F4U-1A「シコルスキー」**.
-    - **J2M4 (21 Kai Kō)** → **J2M4 (21 Kai Kō Shō)**.
-        - Japanese package: **J2M4 (21海航)** → **J2M4 (二一海航廠)**. Statcard name → **三菱重工業 / 第二一海軍航空廠 | 雷電三二型 | J2M4**.
-    - **M47E2** (Italy) → **M47 RKM**. Statcard name → **Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM**. Gaijin wanted it to be the 105/55 M47, it's often claimed to be the M47E2, but is modeled off of the M47 at Latrun which is an M47 RKM.
+    - A shit ton Japan fixes (this is excluding the switching to Japanese numerals where accurate) (I reworked Japan air for Maple Syrupy's mod and I've been dragged into this hell for this mod now, god help me):
+        - **A7M2**: Statcard name → **Mitsubishi Jū Kōgyō | Reppū 11 Gata | A7M2** (it accidentally said A7M1 before).
+        - **Ki 96** → **Ki 96 (3 Gō)**. Statcard name → **Kawasaki Kōkūki Kōgyō | Ki 96 (Shisei 3 Gō)**.
+            - Japanese package: **キ96** → **キ96 (三号)**. Statcard name → **川崎航空機工業 | キ96 (試製三号)**.
+        - **B7A1 (Homare 12 Gata)** → **B7A1 (NK9C)**.
+            - Japanese package: **B7A1 (誉12型)** → **B7A1 (NK9C)**.
+        - **Ki 102 Otsu**: Statcard name → **Kawasaki Kōkūki Kōgyō | 5 Shiki Sōhatsu Shūgekiki | Ki 102 Otsu**.
+            - Japanese package: Statcard name → **川崎航空機工業 | 五式双発襲撃機 | キ102乙**.
+        - **Ki 44-II / 61-I** folder → **Ki 44-II Hei / 61-I Otsu**.
+            - Japanese package: **キ44-II / 61-I** → **キ44-II丙 / 61-I乙**.
+        - **Ki 43-I / II** folder → **Ki 43-I Hei / II (late)**.
+            - Japanese package: **キ43-I丙 / II甲** → **キ43-I丙 / II (late)**.
+        - **D4Y3 Kō**: Statcard name → **Aichi Kōkūki | Suisei 33 Gata Kō | D4Y3 Kō** (changed from 12 Gata to 33 Gata).
+            - Japanese package: Statcard name → **彗星三三型甲 | D4Y3甲**.
+        - **A7He1**: Statcard name → **Heinkel Flugzeugwerke | Hainkeru 112 Gata Rikujō Sentōki | A7He1**.
+            - Japanese package: Statcard name → **Heinkel Flugzeugwerke | ハインケル112型陸上戦闘機 | A7He1**.
+        - **F4U-1A** (Japan): Statcard name → **Vought-Sikorsky Aircraft V-166B | F4U-1A "Shikorusukī"**.
+            - Japanese package: Statcard name → **Vought-Sikorsky Aircraft V-166B | F4U-1A「シコルスキー」**.
+        - **J2M4 (21 Kai Kō)** → **J2M4 (21 Kai Kō Shō)**.
+            - Japanese package: **J2M4 (21海航)** → **J2M4 (二一海航廠)**. Statcard name → **三菱重工業 / 第二一海軍航空廠 | 雷電三二型 | J2M4**.
+        - **Chi Nu (5 Shiki II Gata)**:
+            - Japanese package: **チヌ (5式II型)** → **チヌ (五式II型)**. Statcard name → **三式中戦車 | チヌ (試製五式七糎半戦車砲 (長) II型)**.
+        - **Chi To (Shi 2 Gō)** → **Chi To (2 Gō)**. Statcard name → **Mitsubishi Jū Kōgyō | Shisei Chū Sensha (Kō) | Chi To (Shisei 2 Gōsha)**.
+            - Japanese package: **チト (試2号)** → **チト (2号)**. Statcard name → **三菱重工業 | 試製中戦車 (甲) | チト (試製2号車)**.
+        - **Ho Ri**: Statcard name → **Shisei Shin Hō Sensha (Kō) | Ho Ri**.
+            - Japanese package: Statcard name → **試製新砲戦車 (甲) | ホリ**.
+        - **Ho Ri (10 Senchi Han)** → **Ho Ri (late)**. Statcard name → **Shisei Shin Hō Sensha (Kō) | Ho Ri (late)**. It's a fake tank, it's never gonna be right. This is the third time I've done this dance of trying to figure out wtf I do with this damn thing and ngl, idc anymore. Gaijoobles made it up anyway.
+            - Japanese package: **ホリ (10糎半)** **ホリ (late)**. Statcard name → **試製新砲戦車 (甲) | ホリ (late)**.
+        - **SUB-I-2 (MK20)** → **SUB-I-2 (MK 20 DM 6 A1)**.
+    - **M47E2** (Italy) → **M47 RKM**. Statcard name → **Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM**. Gaijin wanted it to be the Italian 105/51 M47, thought the tank they were modeling off of was the Spanish M47E2, and accidentally made the Israeli M47 RKM. bruh ._.
 
 ### Weaponry:
 
@@ -77,7 +85,14 @@ All dates are listed in DD-MM-YYYY format.
     - **L/QJG1977 Shì 12.7 Háomi Gāoshè Jīqiāng** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
     - **75 mm 43.M cannon** → **7,5 cm 43 M. harckocsiágyú**.
     - **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
+    - **JM61A2** → **JM61A2** (not all of them, just the one that was supposed to be the **JM61A2** the whole time but I mislabeled it).
     - **150 mm Wgr.41 Spr rocket** (the one used on the **44 M. Zrínyi (sorozatvető)**, not the one used on the **15 cm Pz.W.42**) → **43 M. rakéta sorozatvető**.
+    - Japan changes that happened with the move to Japanese numerals:
+        - **Senchi** and **Sanchi** have been changed to **Senchimētoru** and **Sanchimētoru** respectively. It's a pain in the ass to list all the guns changed, so here it is.
+        - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
+        - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
+        - **94 Shiki 37 Mirimētoru Sensha Hō**:
+            - Japanese package: **陸軍技術本部 | 94式37粍戦車砲** → **九四式三七粍戦車砲** (why tf did it have the manufacturer in it anyway, and why only in Japanese?? what was i smoking????).
     - Corrected the missing type tag on the **SNEB F1 Type 26P** (it's unused anyway).
 
 ### Engines:

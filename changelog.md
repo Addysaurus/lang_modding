@@ -90,6 +90,8 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: Statcard name → **横浜ヨット | 四式四型驅逐艇 | カロ四型** (it previously was accidentally listed as the 2型).
         - **Dai 2 Gō**: Statcard name → **Ishikawajima Zōsensho | Dai 1 Gō Gata Kusen Tei (K-3) | Dai 2 Gō** (the class was previously listed as the Dai 1 Gō Gata).
             - Japanese package: Statcard name → **石川島造船所 | 第一號型驅潜艇 (K-3) | 第二號**.
+        - **Furutaka/Aoba** folder → **Furutaka / Aoba**.
+            - Japanese package: **Furutaka/Aoba** folder → **古鷹 / 青葉**.
     - **M47E2** (Italy) → **M47 RKM**. Statcard name → **Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM**. Gaijin wanted it to be the Italian 105/51 M47, thought the tank they were modeling off of was the Spanish M47E2, and accidentally made the Israeli M47 RKM. bruh ._.
 
 ### Weaponry:

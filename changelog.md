@@ -18,6 +18,8 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.13.03 — UNRELEASED
 
+I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu) for helping with the Hungarian ground tree rework. Without their help, this rework would not have been possible and the sourcing work they did for it was instrumental to it coming out as good as it did.
+
 ### General:
 
 - #### Changes:

@@ -95,6 +95,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Furutaka/Aoba** folder → **Furutaka / Aoba**.
             - Japanese package: **Furutaka/Aoba** folder → **古鷹 / 青葉**.
     - **M47E2** (Italy) → **M47 RKM**. Statcard name → **Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM**. Gaijin wanted it to be the Italian 105/51 M47, thought the tank they were modeling off of was the Spanish M47E2, and accidentally made the Israeli M47 RKM. bruh ._.
+    - **F-5A(G)-45-NO** (Sweden / Norway) → **F-5A(G)-40-NO (EoT)**. Statcard name → **Northrop Corperation N-156F | F-5A(G)-40-NO Freedom Fighter (Eye of the Tiger)**.
 
 ### Weaponry:
 

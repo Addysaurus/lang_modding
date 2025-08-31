@@ -121,7 +121,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
-        - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z)**.
+        - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.
             - Full ammunition names package: **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Sprenggranate Lange/4,2 (Bodenzünder)**
         - **350 mm Psgr. L/3,6 APCBC** → **35cm Pz.Spr.Gr. L/3,6**.
             - Full ammunition names package: **350 mm Psgr. L/3,6 APCBC** → **35cm Panzersprenggranate Lange/3,6**
@@ -139,7 +139,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
         - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
     - Corrected the missing type tag on the **SNEB F1 Type 26P** (it's unused anyway).
-    - **8,8cm Sprgr.Patr.L/4,5 (Kz)** → **8,8cm Spr.Gr.Patr. L/4,5 (Kpf.Z)**.
+    - **8,8cm Sprgr.Patr.L/4,5 (Kz)** → **8,8cm Spr.Gr.Patr. L/4,5 (Kpf.Z.)**.
         - Full ammunition names package: **8,8cm Sprenggranate Patrone Ladung/4,5 (Kopfzunder)** → **8,8cm Sprenggranate Patrone Lange/4,5 (Kopfzünder)** (the incorrect use of "Ladung" was based on an American document from 1953 misunderstanding what L/ stood for).
 
 ### Engines:

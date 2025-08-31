@@ -28,8 +28,14 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 
 ### Vehicles:
 
+- #### Additions:
+
+    - "Black Hussar" event additions:
+        - **Mackensen**
+
 - #### Changes:
 
+    - **Mackensen**: Statcard name → **Blohm & Voss | großer Kreuzer Mackensen-Klasse | Ersatz Victoria Louise | großer Kreuzer Mackensen**.
     - Hungarian ground vehicles rework:
         - **Csaba** → **39 M. Csaba pc. gk.**. Statcard name → **Manfréd Weiss | 39 M. Csaba páncélgépkocsi**.
         - **Toldi IIA** → **38 M. Toldi hk. B40**. Statcard name → **Landsverk / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 38 M. Toldi könnyű harckocsi B40**.
@@ -97,11 +103,28 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **M47E2** (Italy) → **M47 RKM**. Statcard name → **Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM**. Gaijin wanted it to be the Italian 105/51 M47, thought the tank they were modeling off of was the Spanish M47E2, and accidentally made the Israeli M47 RKM. bruh ._.
     - **F-5A(G)-45-NO** (Sweden / Norway) → **F-5A(G)-40-NO (EoT)**. Statcard name → **Northrop Corperation N-156F | F-5A(G)-40-NO Freedom Fighter (Eye of the Tiger)**.
     - **Mārut Mk. 1** → **Mārut Mk I**.
+    - **Ersatz Yorck**: Statcard name → **Stettiner Maschinenbau Actien-Gesellschaft Vulcan | großer Kreuzer Ersatz Yorck-Klasse | großer Kreuzer Ersatz Yorck**.
+    - **Scharnhorst**: Statcard name → **Kriegsmarinewerft Wilhelmshaven | Schlachtschiff Scharnhorst-Klasse | Scharnhorst (1943)**.
+    - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Scharnhorst-Klasse | Gneisenau (1943)**.
+    - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Bismarck-Klasse | Bismarck**.
 
 ### Weaponry:
 
+- #### Additions:
+    - "Black Hussar" event additions:
+        - **35 cm/45 SK L/45 cannon**
+        - **350 mm Spr.gr. L/4,2 Bdz.**
+        - **350 mm Psgr. L/3,6 APCBC**
+    - **Fuel tank for SEPR 841** (forgot to add this last update)
+
 - #### Changes:
 
+    - "Black Hussar" event changes:
+        - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
+        - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z)**.
+            - Full ammunition names package: **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Sprenggranate Lange/4,2 (Bodenzünder)**
+        - **350 mm Psgr. L/3,6 APCBC** → **35cm Pz.Spr.Gr. L/3,6**.
+            - Full ammunition names package: **350 mm Psgr. L/3,6 APCBC** → **35cm Panzersprenggranate Lange/3,6**
     - **L/QJG1977 Shì 12.7 Háomi Gāoshè Jīqiāng** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
     - **75 mm 43.M cannon** → **7,5 cm 43 M. harckocsiágyú**.
     - **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
@@ -116,6 +139,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
         - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
     - Corrected the missing type tag on the **SNEB F1 Type 26P** (it's unused anyway).
+    - **8,8cm Sprgr.Patr.L/4,5 (Kz)** → **8,8cm Spr.Gr.Patr. L/4,5 (Kpf.Z)**.
+        - Full ammunition names package: **8,8cm Sprenggranate Patrone Ladung/4,5 (Kopfzunder)** → **8,8cm Sprenggranate Patrone Lange/4,5 (Kopfzünder)** (the incorrect use of "Ladung" was based on an American document from 1953 misunderstanding what L/ stood for).
 
 ### Engines:
 

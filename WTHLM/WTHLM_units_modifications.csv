@@ -34,6 +34,8 @@ modification/406mm_us_mk8_mod6_navy_apcbc_ammo_pack;"16""/50 Mk 7 Mod 0"
 modification/406mm_ussr_navy_sapcbc;PB obr. 1915/28 gg.
 modification/406mm_ussr_navy_apcbc;BR obr. 1915/28 gg.
 modification/406mm_ussr_navy_apcbc_ammo_pack;BR obr. 1915/28 gg.
+modification/350mm_germ_skl_45_navy_apcbc;35cm Pz.Spr.Gr. L/3,6
+modification/350mm_germ_skl_45_navy_apcbc_ammo_pack;35cm Pz.Spr.Gr. L/3,6
 
 //UK AMMUNITION
 modification/381mm_uk_bl_mk1_6crh_22b_navy_apc;A.P.C., 15-inch, 6-crh., Mk. XXIIb
@@ -213,6 +215,9 @@ modification/j_aaq_2_pod/desc;Loadout unlocked: the <color=@userlogColoredText>J
 //SWEDEN SENSORS
 
 //ISRAEL SENSORS
+
+//UAV STUFF
+modification/score_multiprier_with_uav;When your reconnaissance UAV is in the air, SP decrease {scoreMulWithUav} {scoreMulWithUav=time/times} slower
 
 //UNCATEGORIZED
 modification/category/lth;Flight performance

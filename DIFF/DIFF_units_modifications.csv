@@ -1,7 +1,4 @@
 <ID|readonly|noverify>;<English>
-modification/us_aim_4g/desc;Allows the installation of AIM-4G air-to-air missiles.
-modification/us_aim_4g;AIM-4G
-modification/us_aim_4f/desc;Allows the installation of AIM-4F air-to-air missiles.
-modification/us_aim_4f;AIM-4F
-engine_model/vk-1f;VK-1F
-engine_model/j75-p-17;J75-P-17
+modification/score_multiprier_with_uav;When your reconnaissance UAV is in the air, SP decrease {scoreMulWithUav} {scoreMulWithUav=time/times} slower
+modification/350mm_germ_skl_45_navy_apcbc;350-mm Psgr. L/3,6 APCBC
+modification/350mm_germ_skl_45_navy_apcbc_ammo_pack;350-mm Psgr. L/3,6 APCBC

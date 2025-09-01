@@ -107,6 +107,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **Scharnhorst**: Statcard name → **Kriegsmarinewerft Wilhelmshaven | Schlachtschiff Scharnhorst-Klasse | Scharnhorst (1943)**.
     - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Scharnhorst-Klasse | Gneisenau (1943)**.
     - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Bismarck-Klasse | Bismarck**.
+    - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob"yekt 184-5 | T-72B3A obr. 2024 g.** (this change is a result of me not understanding that Russian has an instrumental case and thus it should be вагоностроительный завод as opposed to вагоностроительным заводом, also why tf does Russian have 6 cases jesus christ).
 
 ### Weaponry:
 

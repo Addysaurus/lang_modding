@@ -1,4 +1,45 @@
 <ID|readonly|noverify>;<English>
-modification/score_multiprier_with_uav;When your reconnaissance UAV is in the air, SP decrease {scoreMulWithUav} {scoreMulWithUav=time/times} slower
-modification/350mm_germ_skl_45_navy_apcbc;350-mm Psgr. L/3,6 APCBC
-modification/350mm_germ_skl_45_navy_apcbc_ammo_pack;350-mm Psgr. L/3,6 APCBC
+modification/de_x4_ruhrstahl/desc;Allows the installation of Ruhrstahl X-4 air-to-air missiles.
+modification/de_x4_ruhrstahl;X-4
+modification/us_gbu38_gbu62_jdam/desc;Allows the installation of GBU-38/62 JDAM guided bombs.
+modification/us_gbu38_gbu62_jdam;GBU-38/62
+modification/us_jdam/desc;Allows the installation of JDAM guided bombs.
+modification/us_jdam;JDAM
+modification/us_gbu31_gbu64_jdam/desc;Allows the installation of GBU-31/64 JDAM guided bombs.
+modification/us_gbu31_gbu64_jdam;GBU-31/64
+modification/il_spice_250_1000/desc;Allows the installation of SPICE 250 and 1000 guided bombs.
+modification/il_spice_250_1000;SPICE 250/1000
+modification/il_spice_2000/desc;Allows the installation of SPICE 2000 guided bombs.
+modification/il_spice_2000;SPICE 2000
+modification/il_spice_1000_2000/desc;Allows the installation of SPICE 1000 and 2000 guided bombs.
+modification/il_spice_1000_2000;SPICE 1000/2000
+modification/us_gbu_38_62/desc;Allows the installation of GBU-38/62 JDAM guided bombs.
+modification/us_gbu_38_62;GBU-38/62 JDAM
+modification/us_gbu_31_64/desc;Allows the installation of GBU-31/64 JDAM guided bombs.
+modification/us_gbu_31_64;GBU-31/64 JDAM
+sensors/us_lav_ad_track;ATT
+sensors/sw_giraffe_amb;Giraffe AMB
+sensors/fr_arabel;Thales Arabel
+sensors/us_an_apg_63_baz;AN/APG-63 PSP
+radar_air_search;Air Search
+radar_surface_search;Surface Search
+radar_gtm;GTM
+radar_sea;Sea
+radar_gmti;GMTI
+engine_manufacturer/detroit;Detroit
+engine_model/8v92ta;8V92TA
+engine_model/v_84_2s1;V-84-2S1
+engine_model/utd_29t_01;UTD-29T-01
+engine_model/wj-6;WJ-6
+engine_manufacturer/weijiang;Weijiang
+engine_model/sakae_22;Sakae 22
+engine_model/derwent_1;Derwent 1
+engine_model/ha_25_type_99;Ha-25 type 99
+modification/cn_cm_502kg/desc;Allows the installation of CM-502KG missiles.
+modification/cn_cm_502kg;CM-502KG
+modification/us_agm_179/desc;Allows the installation of AGM-179 missiles.
+modification/us_agm_179;AGM-179
+modification/boz_false_thermal_targets/desc;Missile approach warning system, allowing false heat target shoot off.
+modification/boz_false_thermal_targets;MAW BOZ
+modification/su_lmur/desc;Allows the installation of LMUR missiles.
+modification/su_lmur;LMUR

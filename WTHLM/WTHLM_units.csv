@@ -1353,6 +1353,7 @@ shop/group/ussr_kit_3rank_group;"""In May 1945"""
 shop/group/ussr_isu_su_group;ISU-122S / SU-100
 shop/group/ussr_2s_group;2S1 / 3M
 shop/group/ussr_zis_group;ZiS-12 (94-KM) / ZSU-37
+shop/group/ussr_buk_m3_fcs_group;9S18M1-3 / A317M
 shop/group/i-15_group;I-15 (SGR) / (M-22) / (M-25)
 shop/group/i-16_group;I-16 Tip 10 / 18 / 24
 shop/group/i-153_group;I-15bis / I-153
@@ -3110,6 +3111,10 @@ us_m44_shop;M44
 us_m44_0;G-279 | Howitzer, Self-Propelled, Full Tracked: 155mm, M44
 us_m44_1;M44
 us_m44_2;SPH
+us_m55_shop;M55
+us_m55_0;Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55
+us_m55_1;M55
+us_m55_2;SPH
 us_m36_shop;M36 GMC
 us_m36_0;"G-210 | Carriage, Motor, 90mm Gun, M36 ""Jackson"""
 us_m36_1;M36
@@ -3238,10 +3243,6 @@ us_amx_13_90_1;AMX 13-90
 us_amx_13_90_2;Light tank
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
-us_xm_800t_shop;XM800T
-us_xm_800t_0;Armored Reconnaissance Scout Vehicle XM800T
-us_xm_800t_1;XM800T
-us_xm_800t_2;Light tank
 us_m47_patton_II_shop;M47
 us_m47_patton_II_0;G-262 | Tank, Combat, Full Tracked: 90mm Gun, M47 Patton
 us_m47_patton_II_1;M47
@@ -3314,8 +3315,16 @@ us_magach_3_shop;▃ Magaḥ 3 (Baltan)
 us_magach_3_0;▃ Magaḥ 3 (Baltan)
 us_magach_3_1;▃ Magaḥ 3
 us_magach_3_2;MBT
+us_t58_shop;T58
+us_t58_0;United Shoe Machinery Corporation | Tank, Combat, Full Tracked: 155mm Gun, T58
+us_t58_1;T58
+us_t58_2;Heavy Tank
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+us_xm_800t_shop;XM800T
+us_xm_800t_0;Armored Reconnaissance Scout Vehicle XM800T
+us_xm_800t_1;XM800T
+us_xm_800t_2;Light tank
 us_m3_bradley_shop;M3 CFV
 us_m3_bradley_0;Fighting Vehicle, Cavalry, Full Tracked, M3 Bradley
 us_m3_bradley_1;M3 CFV
@@ -3324,6 +3333,10 @@ us_m3a3_bradley_shop;M3A3 CFV
 us_m3a3_bradley_0;Fighting Vehicle, Cavalry, Full Tracked, M3A3 Bradley
 us_m3a3_bradley_1;M3A3 CFV
 us_m3a3_bradley_2;Light tank
+us_stingray_shop;Stingray
+us_stingray_0;Cadillac Gage Stingray
+us_stingray_1;Stingray
+us_stingray_2;Light Tank
 us_t95e1_shop;T95E1
 us_t95e1_0;Tank, Combat, Full Tracked: 90mm Gun, T95E1
 us_t95e1_1;T95E1
@@ -4844,6 +4857,10 @@ germ_pzkpfw_II_ausf_H_1;Pz.Sfl. Ic
 germ_pzkpfw_II_ausf_H_2;Light tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+germ_m55_shop;◄ PzH M 55
+germ_m55_0;◄ Pacific Car and Foundry Company | Panzerhaubitze M 55
+germ_m55_1;◄ PzH M 55
+germ_m55_2;SPH
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
@@ -5020,6 +5037,14 @@ ussr_t_72b3_arena_m_shop;T-72B3A
 ussr_t_72b3_arena_m_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob""yekt 184-5 | T-72B3A obr. 2024 g."
 ussr_t_72b3_arena_m_1;T-72B3
 ussr_t_72b3_arena_m_2;MBT
+ussr_buk_m3_launcher_shop;9A317M
+ussr_buk_m3_launcher_0;"Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Radiolokaczionnaâ stancziâ obnaružyeniâ czyeli 9A317M ""Buk-M3"""
+ussr_buk_m3_launcher_1;9A317M
+ussr_buk_m3_launcher_2;SPAAM
+ussr_buk_m3_fcs_shop;9S18M1-3
+ussr_buk_m3_fcs_0;"Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M1-3 ""Kupol"""
+ussr_buk_m3_fcs_1;9S18M1-3
+ussr_buk_m3_fcs_2;Radar
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 ussr_pr_103_sm4_shop;TKA №164
@@ -5146,6 +5171,10 @@ uk_mark_v_1;Mk. V (Male)
 uk_mark_v_2;Medium Tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+uk_cruiser_ram_1_shop;Ram, Mk. I
+uk_cruiser_ram_1_0;Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. I
+uk_cruiser_ram_1_1;Ram, Mk. I
+uk_cruiser_ram_1_2;Medium tank
 uk_crusader_aa_mk_1_shop;Crusader, Mk. III, A.A., Mk. I
 uk_crusader_aa_mk_1_0;Nuffield Mechanizations and Aero | Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. I
 uk_crusader_aa_mk_1_1;Crusader, Mk. III, A.A., Mk. I
@@ -5867,6 +5896,22 @@ f-4ej_kai_shop;▅ F-4EJ-MIT Kai
 f-4ej_kai_0;"▅ McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT Kai ""Fantomu"""
 f-4ej_kai_1;▅ F-4EJ
 f-4ej_kai_2;▅ F-4
+f-5e_fcu_thailand_shop;B.Kh.18Kh (1988)
+f-5e_fcu_thailand_0;Northrop Corporation F-5-21 | Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (1988)
+f-5e_fcu_thailand_1;B.Kh.18Kh
+f-5e_fcu_thailand_2;B.Kh.18
+f-5a_thailand_shop;B.Kh.18
+f-5a_thailand_0;Northrop Corporation N-156F | Ekhrụxng Bin Khạb Lị Bæb Thī 18
+f-5a_thailand_1;B.Kh.18
+f-5a_thailand_2;B.Kh.18
+f-5t_thailand_shop;B.Kh.18Kh (2003)
+f-5t_thailand_0;Northrop Corporation F-5-21 / Elbit Systems F-5T Tigris | Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (2003)
+f-5t_thailand_1;B.Kh.18Kh
+f-5t_thailand_2;B.Kh.18
+f-5th_thailand_shop;B.Kh.18Kh (2014)
+f-5th_thailand_0;Northrop Corporation F-5-21 / Elbit Systems F-5TH Super Tigris | Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (2014)
+f-5th_thailand_1;B.Kh.18Kh
+f-5th_thailand_2;B.Kh.18
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_15j_shop;▅ F-15J-MIT (C4)
@@ -5889,6 +5934,10 @@ f_2a_adtw_shop;XF-2A-MIT (Hi Kai Ji Dan)
 f_2a_adtw_0;General Dynamics Corporation F-16 Agile Falcon / Mitsubishi Jū Kōgyō | XF-2A-MIT (Hikō Kaihatsu Jikken Dan)
 f_2a_adtw_1;XF-2A
 f_2a_adtw_2;XF-2
+f_16a_block_15_ocu_thailand_shop;B.Kh.19
+f_16a_block_15_ocu_thailand_0;General Dynamics Corporation | Ekhrụxng Bin Khạb Lị Bæb Thī 19
+f_16a_block_15_ocu_thailand_1;B.Kh.19
+f_16a_block_15_ocu_thailand_2;B.Kh.19
 
 //JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 uh_1b_japan_shop;▅ UH-1B
@@ -5909,6 +5958,10 @@ ah_1s_shop;▅ AH-1S (MC) (CN) (4 Tai Sen Heri)
 ah_1s_0;▅ Bell Helicopter Textron / Fuji Jū Kōgyō | AH-1S Kōgeki Herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (Dai 4 Tai Sensha Herikoputātai)
 ah_1s_1;▅ AH-1S
 ah_1s_2;▅ AH-1
+mi_35p_indonesia_shop;◥ Mi-35P
+mi_35p_indonesia_0;◥ AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Mi-35P
+mi_35p_indonesia_1;◥ Mi-35P
+mi_35p_indonesia_2;◥ Mi-35P
 
 //JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 ah_64d_japan_shop;▅ AH-64D
@@ -6179,6 +6232,14 @@ jp_type_16_shop;16MCV (C1)
 jp_type_16_0;Mitsubishi Jū Kōgyō | 16 Shiki Kidō Sentō Sha (C1 Rotto)
 jp_type_16_1;16MCV
 jp_type_16_2;Light tank
+jp_m60a3_tts_shop;Th.Hlạk M 60 A3
+jp_m60a3_tts_0;Chrysler Defense Engineering | Rth Thạng M 60 A3
+jp_m60a3_tts_1;Th.Hlạk M 60 A3
+jp_m60a3_tts_2;MBT
+jp_stingray_shop;Th.Bao 32
+jp_stingray_0;Cadillac Gage Stingray | Rth Thạng Bao 32
+jp_stingray_1;Th.Bao 32
+jp_stingray_2;Light Tank
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 jp_icv_ifv_prototype_shop;24WAFV
@@ -6231,6 +6292,10 @@ jp_type_10_shop;10TK
 jp_type_10_0;Gijutsu Kenkyū Honbu + Mitsubishi Jū Kōgyō | 10 Shiki Sensha
 jp_type_10_1;10TK
 jp_type_10_2;MBT
+jp_oplot_t_shop;Th.Hlạk 57
+jp_oplot_t_0;Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rth Thạng Hlạk 57
+jp_oplot_t_1;Th.Hlạk 57
+jp_oplot_t_2;MBT
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 jp_t14_class_shop;Dai 538 Gō
@@ -6599,6 +6664,10 @@ ki_44_2_hei_china_1;☀ Ki 44-II
 ki_44_2_hei_china_2;☀ Ki 44
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+quing_6_shop;Qīng 6
+quing_6_0;Gosudarstvyennyj soûznyj opytnyj zavod № 49 / Zhōngguó Tèzhǒng Fēixíngqì Yánjiū Suo | Qīng 6 Xíng Fēijī
+quing_6_1;Qīng 6
+quing_6_2;Qīng 6
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 
@@ -6639,6 +6708,10 @@ z_10a_2;L/Z10
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+cn_m55_shop;☀ M55
+cn_m55_0;☀ Pacific Car and Foundry Company | M55 Zì Zou Pào
+cn_m55_1;☀ M55
+cn_m55_2;SPH
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 cn_type_65_aa_shop;A24
@@ -6763,6 +6836,10 @@ it_44m_zrinyi_1_1;44 M. Zrínyi
 it_44m_zrinyi_1_2;SPG
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+it_m55_shop;⛨ 203/25 M55
+it_m55_0;⛨ Pacific Car and Foundry Company | Semovente da 203/25 M55
+it_m55_1;⛨ 203/25 M55
+it_m55_2;SPH
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 it_2s1_shop;◔ 2SZ1
@@ -6965,6 +7042,10 @@ fr_amd_35_kwk39_1;☨ le.Pz.Spw. 204 (f)
 fr_amd_35_kwk39_2;Light tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+fr_m55_shop;▄ M55
+fr_m55_0;▄ Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55
+fr_m55_1;▄ M55
+fr_m55_2;SPH
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
@@ -11121,22 +11202,6 @@ f-5ag_norway_shop;◢ F-5A(G)-40-NO (EoT)
 f-5ag_norway_0;◢ Northrop Corperation N-156F | F-5A(G)-40-NO Freedom Fighter (Eye of the Tiger)
 f-5ag_norway_1;◢ F-5A
 f-5ag_norway_2;◢ F-5
-f-5e_fcu_thailand_shop;B.Kh.18Kh (1988)
-f-5e_fcu_thailand_0;Northrop Corporation F-5-21 | Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (1988)
-f-5e_fcu_thailand_1;B.Kh.18Kh
-f-5e_fcu_thailand_2;B.Kh.18
-f-5a_thailand_shop;B.Kh.18
-f-5a_thailand_0;Northrop Corporation N-156F | Ekhrụxng Bin Khạb Lị Bæb Thī 18
-f-5a_thailand_1;B.Kh.18
-f-5a_thailand_2;B.Kh.18
-f-5t_thailand_shop;B.Kh.18Kh (2003)
-f-5t_thailand_0;Northrop Corporation F-5-21 / Elbit Systems F-5T Tigris | Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (2003)
-f-5t_thailand_1;B.Kh.18Kh
-f-5t_thailand_2;B.Kh.18
-f_16a_block_15_ocu_thailand_shop;B.Kh.19
-f_16a_block_15_ocu_thailand_0;General Dynamics Corporation | Ekhrụxng Bin Khạb Lị Bæb Thī 19
-f_16a_block_15_ocu_thailand_1;B.Kh.19
-f_16a_block_15_ocu_thailand_2;B.Kh.19
 mirage_milan_shop;Milan S 01
 mirage_milan_0;Avions Marcel Dassault-Breguet Aviation | Milan S 01
 mirage_milan_1;Milan

@@ -30,11 +30,48 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 
 - #### Additions:
 
+    - Update "Tusk Force" additions (holy shit thats a bad update name):
+        - **F-5TH TCU** (Japan / Thailand)
+        - **Qing-6**
+        - **M55**
+        - **T58**
+        - **Stingray**
+        - **M55** (Germany)
+        - **9K317M "BUK-M3" (TELAR)**
+        - **9K317M "BUK-M3" (TADS)**
+        - **Ram I**
+        - **M60A3 TTS** (Japan / Thailand)
+        - **Stingray** (Japan / Thailand)
+        - **BM Oplot-T** (Japan / Thailand)
+        - **M55** (China / Taiwan)
+        - **M55** (Italy)
+        - **M55** (France / Belgium)
     - "Black Hussar" event additions:
         - **Mackensen**
 
 - #### Changes:
 
+    Update "Tusk Force" changes:
+        - **F-5TH TCU** (Japan / Thailand) → **B.Kh.18Kh (2014)**. Statcard name → **Northrop Corporation F-5-21 / Elbit Systems F-5TH Super Tigris | Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (2014)**.
+            - Thai package: **F-5TH TCU** → **บ.ข.๑๘ข (2014)**. Statcard name → **เครื่องบินขับไล่แบบที่ ๑๘ข (2014)**.
+        - **Qing-6** → **Qīng 6**. Statcard name → **Gosudarstvyennyj soûznyj opytnyj zavod № 49 / Zhōngguó Tèzhǒng Fēixíngqì Yánjiū Suo | Qīng 6 Xíng Fēijī**.
+        - **M55**: Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55**.
+        - **T58**: Statcard name → **United Shoe Machinery Corporation | Tank, Combat, Full Tracked: 155mm Gun, T58**.
+        - **Stingray**: Statcard name → **Cadillac Gage Stingray**.
+        - **M55** → **PzH M 55**. Statcard name → **Pacific Car and Foundry Company | Panzerhaubitze M 55**.
+        - **9K317M "BUK-M3" (TELAR)** → **9A317M**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Radiolokaczionnaâ stancziâ obnaružyeniâ czyeli 9A317M "Buk-M3"**.
+        - **9K317M "BUK-M3" (TADS)** → **9S18M1-3**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M1-3 "Kupol"**.
+        - **Ram I** → **Ram, Mk. I**. Statcard name → **Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. I**.
+        - **M60A3 TTS** (Japan / Thailand) → **Th.Hlạk M 60 A3**. Statcard name → **Chrysler Defense Engineering | Rth Thạng M 60 A3**.
+            - Thai package: **M60A3 TTS** → **ถ.หลัก เอ็ม 60 เอ 3**. Statcard name → **Chrysler Defense Engineering | รถถังหลัก เอ็ม 60 เอ 3**.
+        - **Stingray** (Japan / Thailand) → **Th.Bao 32**. Statcard name → **Cadillac Gage Stingray | Rth Thạng Bao 32**.
+            - Thai package: **Stingray** → **ถ.เบา 32**. Statcard name → **Cadillac Gage Stingray | รถถังเบา 32**.
+        - **BM Oplot-T** (Japan / Thailand) → **Th.Hlạk 57**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rth Thạng Hlạk 57**.
+            - Thai package: **BM Oplot-T** → **ถ.หลัก 57**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | รถถังหลัก 57**.
+        - **M55** (China / Taiwan): Statcard name → **Pacific Car and Foundry Company | M55 Zì Zou Pào**.
+        - **M55** (Italy) → **203/25 M55**. Statcard name → **Pacific Car and Foundry Company | Semovente da 203/25 M55**.
+        - **M55** (France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55**.
+        - **9K317M ""BUK-M3"** folder → **9S18M1-3 / A317M**.
     - **Mackensen**: Statcard name → **Blohm & Voss | großer Kreuzer Mackensen-Klasse | Ersatz Victoria Louise | großer Kreuzer Mackensen**.
     - Hungarian ground vehicles rework:
         - **Csaba** → **39 M. Csaba pc. gk.**. Statcard name → **Manfréd Weiss | 39 M. Csaba páncélgépkocsi**.

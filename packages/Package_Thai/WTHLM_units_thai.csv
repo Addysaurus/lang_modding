@@ -1,12 +1,31 @@
 <ID|readonly|noverify>;<English>
+//AI UNITS
+
+//GROUPS
+
+//AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 h-75n_shop;ไทป์ ๑๖
 h-75n_0;Curtiss-Wright Corperation Hawk Model 75N | เครื่องบินขับไล่แบบที่ ๑๑ | ไทป์ ๑๖
 h-75n_1;ไทป์ ๑๖
 h-75n_2;ไทป์ ๑๖
+
+//AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+
+//AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 sb2c_5_thailand_shop;บ.จ.๓
 sb2c_5_thailand_0;Curtiss-Wright Corporation | เครื่องบินโจมตีแบบที่ ๓
 sb2c_5_thailand_1;บ.จ.๓
 sb2c_5_thailand_2;บ.จ.๓
+
+//AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+
+//AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+f-84g_thailand_shop;บ.ข.๑๖
+f-84g_thailand_0;North American Rockwell | เครื่องบินขับไล่แบบที่ ๑๖
+f-84g_thailand_1;บ.ข.๑๖
+f-84g_thailand_2;บ.ข.๑๖
+
+//AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 alpha_jet_a_thailand_shop;บ.จ.๗
 alpha_jet_a_thailand_0;Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | เครื่องบินโจมตีแบบที่ ๗
 alpha_jet_a_thailand_1;บ.จ.๗
@@ -15,14 +34,20 @@ alpha_jet_th_phase_1_shop;บ.จ.๗ (2004)
 alpha_jet_th_phase_1_0;Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | เครื่องบินโจมตีแบบที่ ๗ (2004)
 alpha_jet_th_phase_1_1;บ.จ.๗
 alpha_jet_th_phase_1_2;บ.จ.๗
+av_8s_thailand_shop;บ.ขล.๑ก (early)
+av_8s_thailand_0;Hawker Siddeley Aviation | เครืองบินขับไล่แบบที่ ๑ก (early)
+av_8s_thailand_1;บ.ขจ.๑ก
+av_8s_thailand_2;บ.ขจ.๑
+av_8s_late_thailand_shop;บ.ขล.๑ก (late)
+av_8s_late_thailand_0;Hawker Siddeley Aviation | เครืองบินขับไล่แบบที่ ๑ก (late)
+av_8s_late_thailand_1;บ.ขล.๑ก
+av_8s_late_thailand_2;บ.ขล.๑
+
+//AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 a_7e_thailand_shop;บ.จต.๑ก
 a_7e_thailand_0;LTV Corperation | เครื่องบินโจมตีแบบที่ ๑ก
 a_7e_thailand_1;บ.จต.๑ก
 a_7e_thailand_2;บ.จต.๑
-f-84g_thailand_shop;บ.ข.๑๖
-f-84g_thailand_0;North American Rockwell | เครื่องบินขับไล่แบบที่ ๑๖
-f-84g_thailand_1;บ.ข.๑๖
-f-84g_thailand_2;บ.ข.๑๖
 f-5a_thailand_shop;บ.ข.๑๘
 f-5a_thailand_0;Northrop Corporation N-156F | เครื่องบินขับไล่แบบที่ ๑๘
 f-5a_thailand_1;บ.ข.๑๘
@@ -35,6 +60,12 @@ f-5t_thailand_shop;บ.ข.๑๘ข (2003)
 f-5t_thailand_0;Northrop Corporation F-5-21 / Elbit Systems F-5T Tigris | เครื่องบินขับไล่แบบที่ ๑๘ข (2003)
 f-5t_thailand_1;บ.ข.๑๘ข
 f-5t_thailand_2;บ.ข.๑๘
+f-5th_thailand_shop;บ.ข.๑๘ข (2014)
+f-5th_thailand_0;Northrop Corporation F-5-21 / Elbit Systems F-5TH Super Tigris | เครื่องบินขับไล่แบบที่ ๑๘ข (2014)
+f-5th_thailand_1;บ.ข.๑๘ข
+f-5th_thailand_2;บ.ข.๑๘
+
+//AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_16a_block_15_ocu_thailand_shop;บ.ข.๑๙
 f_16a_block_15_ocu_thailand_0;General Dynamics Corporation | เครื่องบินขับไล่แบบที่ ๑๙
 f_16a_block_15_ocu_thailand_1;บ.ข.๑๙
@@ -43,11 +74,63 @@ saab_jas39c_thailand_shop;บ.ข.๒๐
 saab_jas39c_thailand_0;Saab 39 C | เครื่องบินขับไล่แบบที่ ๒๐ก
 saab_jas39c_thailand_1;บ.ข.๒๐
 saab_jas39c_thailand_2;บ.ข.๒๐
-av_8s_thailand_shop;บ.ขล.๑ก (early)
-av_8s_thailand_0;Hawker Siddeley Aviation | เครืองบินขับไล่แบบที่ ๑ก (early)
-av_8s_thailand_1;บ.ขจ.๑ก
-av_8s_thailand_2;บ.ขจ.๑
-av_8s_late_thailand_shop;บ.ขล.๑ก (late)
-av_8s_late_thailand_0;Hawker Siddeley Aviation | เครืองบินขับไล่แบบที่ ๑ก (late)
-av_8s_late_thailand_1;บ.ขล.๑ก
-av_8s_late_thailand_2;บ.ขล.๑
+
+//HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+
+//HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+
+//HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+
+//HELICOPTERS - VEHICLE/FAMILY START: RANK 8
+
+//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+
+//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+
+//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+
+//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+
+//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+
+//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+jp_m60a3_tts_shop;ถ.หลัก เอ็ม 60 เอ 3
+jp_m60a3_tts_0;Chrysler Defense Engineering | รถถังหลัก เอ็ม 60 เอ 3
+jp_m60a3_tts_1;ถ.หลัก เอ็ม 60 เอ 3
+jp_m60a3_tts_2;MBT
+jp_stingray_shop;ถ.เบา 32
+jp_stingray_0;Cadillac Gage Stingray | รถถังเบา 32
+jp_stingray_1;ถ.เบา 32
+jp_stingray_2;Light Tank
+
+//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+
+//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+jp_oplot_t_shop;ถ.หลัก 57
+jp_oplot_t_0;Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | รถถังหลัก 57
+jp_oplot_t_1;ถ.หลัก 57
+jp_oplot_t_2;MBT
+
+//COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+
+//COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+
+//COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+
+//COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+
+//COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7

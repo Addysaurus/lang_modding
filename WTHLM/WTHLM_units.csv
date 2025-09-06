@@ -1564,6 +1564,7 @@ shop/group/sw_strv_104_103c_group;strv 104 / 103C
 shop/group/sw_strv_122_group;strv 122A / B (PLSS)
 shop/group/sw_lvkv_asrad_group;lvkv 9040C / ♛ M113A2 (ASRAD-R)
 shop/group/gladiator_j8a_group;J 8 A / 6 B
+shop/group/mosquito_norway_group;◢ Mosquito F.B. Mk. VI / VI (A.S.V. Mk. IV)
 shop/group/saab_b17a_group;B 17 B / A
 shop/group/saab_t18b_group;T 18 B / B (57 mm akan m/47)
 shop/group/saab_j21a_group;J 21 A-1 / 2
@@ -1808,7 +1809,7 @@ spad_13_0;Société pour l'aviation et ses dérivés | S.XIII-C1
 spad_13_1;S.XIII-C1
 spad_13_2;S.XIII
 
-//KILLSTREAK VEHICLES;
+//KILLSTREAK VEHICLES
 b-29_killstreak_shop;☢ B-29A-45-BN
 b-29_killstreak_0;☢ B-29A-45-BN Superfortress
 b-29_killstreak_1;☢ B-29A
@@ -1933,6 +1934,46 @@ jaguar_a_iaf_killstreak_shop;☢ Jaguar A
 jaguar_a_iaf_killstreak_0;☢ SEPECAT Jaguar A | Jaguar Type A
 jaguar_a_iaf_killstreak_1;☢ Jaguar A
 jaguar_a_iaf_killstreak_2;☢ Jaguar
+su_24m_killstreak_shop;☢ Su-24M2
+su_24m_killstreak_0;☢ AO «Kompaniâ Sukhoj» | izd. T-6M2 | Su-24M2
+su_24m_killstreak_1;☢ Su-24M
+su_24m_killstreak_2;☢ Su-24
+su_24m_china_killstreak_shop;☢␗ Su-24M2
+su_24m_china_killstreak_0;☢␗ AO «Kompaniâ Sukhoj» | izd. T-6M2 | Su-24M2
+su_24m_china_killstreak_1;☢␗ Su-24M
+su_24m_china_killstreak_2;☢␗ Su-24
+f_111f_killstreak_shop;☢ F-111F
+f_111f_killstreak_0;"☢ General Dynamics Corporation + Grumman Aerospace Corporation | F-111F ""Aardvark"""
+f_111f_killstreak_1;☢ F-111F
+f_111f_killstreak_2;☢ F-111
+f_111f_japan_killstreak_shop;☢▅ F-111F
+f_111f_japan_killstreak_0;"☢▅ General Dynamics Corporation + Grumman Aerospace Corporation | F-111F ""Aardvark"""
+f_111f_japan_killstreak_1;☢▅ F-111F
+f_111f_japan_killstreak_2;☢▅ F-111
+f_111f_iaf_killstreak_shop;☢ F-111F
+f_111f_iaf_killstreak_0;"☢ General Dynamics Corporation + Grumman Aerospace Corporation | F-111F ""Aardvark"""
+f_111f_iaf_killstreak_1;☢ F-111F
+f_111f_iaf_killstreak_2;☢ F-111
+tornado_ids_de_assta1_killstreak_shop;☢◄ IDS-Tornado (ASSTA 1)
+tornado_ids_de_assta1_killstreak_0;☢◄ Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)
+tornado_ids_de_assta1_killstreak_1;☢◄ IDS-Tornado
+tornado_ids_de_assta1_killstreak_2;☢◄ IDS-Tornado
+tornado_ids_de_assta1_britain_killstreak_shop;☢▄ IDS-Tornado (ASSTA 1)
+tornado_ids_de_assta1_britain_killstreak_0;☢▄ Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)
+tornado_ids_de_assta1_britain_killstreak_1;☢▄ IDS-Tornado
+tornado_ids_de_assta1_britain_killstreak_2;☢▄ IDS-Tornado
+tornado_ids_de_assta1_italy_killstreak_shop;☢⛨ IDS-Tornado (ASSTA 1)
+tornado_ids_de_assta1_italy_killstreak_0;☢⛨ Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)
+tornado_ids_de_assta1_italy_killstreak_1;☢⛨ IDS-Tornado
+tornado_ids_de_assta1_italy_killstreak_2;☢⛨ IDS-Tornado
+tornado_ids_de_assta1_france_killstreak_shop;☢☨ IDS-Tornado (ASSTA 1)
+tornado_ids_de_assta1_france_killstreak_0;☢☨ Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)
+tornado_ids_de_assta1_france_killstreak_1;☢☨ IDS-Tornado
+tornado_ids_de_assta1_france_killstreak_2;☢☨ IDS-Tornado
+tornado_ids_de_assta1_sweden_killstreak_shop;☢♛ IDS-Tornado (ASSTA 1)
+tornado_ids_de_assta1_sweden_killstreak_0;☢♛ Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)
+tornado_ids_de_assta1_sweden_killstreak_1;☢♛ IDS-Tornado
+tornado_ids_de_assta1_sweden_killstreak_2;☢♛ IDS-Tornado
 ucav_mq_1_predator_shop;MQ-1A
 ucav_mq_1_predator_0;MQ-1A
 ucav_mq_1_predator_1;MQ-1A
@@ -2647,6 +2688,10 @@ av_8b_na_shop;AV-8B NA
 av_8b_na_0;AV-8B Harrier II Night Attack
 av_8b_na_1;AV-8B
 av_8b_na_2;AV-8
+b_66b_shop;B-66B-DL
+b_66b_0;Douglas Aircraft Company D-1327A | B-66B-DL Destroyer
+b_66b_1;B-66B
+b_66b_2;B-66
 f_117_shop;F-117A-1-LO (MIPS)
 f_117_0;Lockheed Corporation | F-117A-1-LO Nighthawk (Midlife Improvement Study)
 f_117_1;F-117A
@@ -2726,11 +2771,11 @@ f-105d_0;F-105D-31-RE Thunderchief
 f-105d_1;F-105D
 f-105d_2;F-105
 f_111a_shop;F-111A
-f_111a_0;"F-111A ""Aardvark"""
+f_111a_0;"General Dynamics Corporation + Grumman Aircraft Engineering Corporation | F-111A ""Aardvark"""
 f_111a_1;F-111A
 f_111a_2;F-111
 f_111f_shop;F-111F
-f_111f_0;"F-111F ""Aardvark"""
+f_111f_0;"General Dynamics Corporation + Grumman Aerospace Corporation | F-111F ""Aardvark"""
 f_111f_1;F-111F
 f_111f_2;F-111
 a_6e_tram_shop;A-6E (TRAM)
@@ -2855,6 +2900,10 @@ ah_64a_peten_shop;▃ AH-64A
 ah_64a_peten_0;▃ McDonnell Douglas Helicopter Systems | AH-64A Peten
 ah_64a_peten_1;▃ AH-64A
 ah_64a_peten_2;▃ AH-64
+ah_64e_shop;AH-64E (v6)
+ah_64e_0;Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)
+ah_64e_1;AH-64E
+ah_64e_2;AH-64
 rah_66_shop;YRAH-66A (2000)
 rah_66_0;Boeing Rotorcraft Systems + Sikorsky Aircraft | Helicopter, Reconnaissance/Attack, YRAH-66A Comanche (2000)
 rah_66_1;YRAH-66A
@@ -3878,7 +3927,11 @@ bf-109f-1_2;Bf 109
 bf-109f-2_shop;Bf 109 F-2
 bf-109f-2_0;Messerschmitt | Bf 109 F-2
 bf-109f-2_1;Bf 109 F
-bf-109f-2_2;Bf 109 
+bf-109f-2_2;Bf 109
+bf_109t_2_shop;Bf 109 T-2
+bf_109t_2_0;Messerschmitt | Bf 109 T-2
+bf_109t_2_1;Bf 109 T
+bf_109t_2_2;Bf 109
 bf-109f-4_shop;Bf 109 F-4
 bf-109f-4_0;Messerschmitt | Bf 109 F-4
 bf-109f-4_1;Bf 109 F
@@ -4945,6 +4998,10 @@ germ_battleship_bismarck_1;Bismarck
 germ_battleship_bismarck_2;Battleship
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+kor_2_shop;Bye-4
+kor_2_0;Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Bye-4
+kor_2_1;Bye-4
+kor_2_2;Bye-4
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 
@@ -4961,6 +5018,10 @@ l_39za_2;L-39
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+su_24m_shop;Su-24M2
+su_24m_0;AO «Kompaniâ Sukhoj» | izd. T-6M2 | Su-24M2
+su_24m_1;Su-24M
+su_24m_2;Su-24
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 su_30sm_shop;Su-30SM
@@ -4971,6 +5032,10 @@ su_30sm_2;Su-30
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+mi_35p_shop;Mi-35P
+mi_35p_0;AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Vyertolyet Mi-35P
+mi_35p_1;Mi-35P
+mi_35p_2;Mi-35
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 
@@ -5119,6 +5184,10 @@ marut_mk1_2;Mārut
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+f_111c_raaf_shop;▄ F-111C
+f_111c_raaf_0;"▄ General Dynamics Corporation + Grumman Aerospace Corporation | F-111C ""Aardvark"""
+f_111c_raaf_1;▄ F-111C
+f_111c_raaf_2;▄ F-111
 harrier_t10_shop;Harrier T. Mk. 10
 harrier_t10_0;British Aerospace / McDonnell Douglas Corporation | Harrier T. Mk. 10
 harrier_t10_1;Harrier T. Mk. 10
@@ -5133,6 +5202,18 @@ ef_2000_fgr4_shop;Typhoon F.G.R. Mk. 4
 ef_2000_fgr4_0;Eurofighter Jagdflugzeug EF-2000 | Typhoon F.G.R. Mk. 4
 ef_2000_fgr4_1;Typhoon F.G.R. Mk. 4
 ef_2000_fgr4_2;Typhoon
+fa_18a_raaf_shop;▄ F/A-18A
+fa_18a_raaf_0;▄ McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet
+fa_18a_raaf_1;▄ F/A-18A
+fa_18a_raaf_2;▄ F/A-18
+fa_18a_hug_2_raaf_shop;▄ F/A-18A (HUG 2.4)
+fa_18a_hug_2_raaf_0;▄ McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet (Hornet Upgrade Program Phase 2.4)
+fa_18a_hug_2_raaf_1;▄ F/A-18A
+fa_18a_hug_2_raaf_2;▄ F/A-18
+cf_188a_canada_shop;CF-188A
+cf_188a_canada_0;McDonnell Douglas Corporation Model 267 | CF-188A Hornet
+cf_188a_canada_1;CF-188A
+cf_188a_canada_2;CF-188
 
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 scout_ah_mk1_shop;Scout A.H. Mk. 1
@@ -5961,7 +6042,7 @@ ah_1s_2;▅ AH-1
 mi_35p_indonesia_shop;◥ Mi-35P
 mi_35p_indonesia_0;◥ AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Mi-35P
 mi_35p_indonesia_1;◥ Mi-35P
-mi_35p_indonesia_2;◥ Mi-35P
+mi_35p_indonesia_2;◥ Mi-35
 
 //JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 ah_64d_japan_shop;▅ AH-64D
@@ -6728,6 +6809,10 @@ cn_wz_141_2;Light Tank
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+cn_vt_4_shop;VT4
+cn_vt_4_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT4 Zhu Zhàn Tankè
+cn_vt_4_1;VT4
+cn_vt_4_2;MBT
 cn_antelope_tc_1l_ads_shop;Jiàn-1 FFX
 cn_antelope_tc_1l_ads_0;Guójiā Zhōngshān Kēxué Yán Jiù Yuàn | Chēzai Jiàn-1 Fángkōng Fēidàn Xìtong
 cn_antelope_tc_1l_ads_1;Jiàn-1 FFX
@@ -7018,6 +7103,10 @@ mirage_4000_shop;Mirage 4000 (1986)
 mirage_4000_0;Avions Marcel Dassault-Breguet Aviation | Mirage 4000 (1986)
 mirage_4000_1;Mirage 4000
 mirage_4000_2;Mirage 4000
+f_16a_block_15_ocu_belgium_shop;▄ F-16A-15OCU-CF
+f_16a_block_15_ocu_belgium_0;▄ General Dynamics Corporation / Sociétés Anonyme Belge de Constructions Aéronautiques | F-16A-15OCU-CF Fighting Falcon
+f_16a_block_15_ocu_belgium_1;▄ F-16A
+f_16a_block_15_ocu_belgium_2;▄ F-16
 
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
@@ -7166,6 +7255,18 @@ fr_battleship_richelieu_class_richelieu_2;Battleship
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+mosquito_f_mk2_norway_shop;◢ Mosquito F. Mk. II
+mosquito_f_mk2_norway_0;◢ de Havilland Aircraft Company DH.98 | Mosquito F. Mk. II
+mosquito_f_mk2_norway_1;◢ Mosquito F. Mk. II
+mosquito_f_mk2_norway_2;◢ Mosquito
+mosquito_fb_mk6_norway_shop;◢ Mosquito F.B. Mk. VI
+mosquito_fb_mk6_norway_0;◢ de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI
+mosquito_fb_mk6_norway_1;◢ Mosquito F.B. Mk. VI
+mosquito_fb_mk6_norway_2;◢ Mosquito
+mosquito_fb_mk6_ash_norway_shop;◢ Mosquito F.B. Mk. VI (A.S.V. Mk. IX)
+mosquito_fb_mk6_ash_norway_0;◢ de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI (A.S.V. Mk. IX)
+mosquito_fb_mk6_ash_norway_1;◢ Mosquito F.B. Mk. VI
+mosquito_fb_mk6_ash_norway_2;◢ Mosquito
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
@@ -7256,6 +7357,10 @@ sw_eldenhet_98_2;SPAAM
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16i_sufa_shop; F-16I
+f_16i_sufa_0; Lockheed Martin Corporation | F-16I Sufah
+f_16i_sufa_1; F-16I
+f_16i_sufa_2; F-16
 f_16a_block_10_netz_mod_shop; F-16A-15OCU-CF (1987)
 f_16a_block_10_netz_mod_0; General Dynamics Corporation | F-16A-15OCU-CF Neṣ (1987)
 f_16a_block_10_netz_mod_1; F-16A
@@ -9510,10 +9615,6 @@ mig_27k_shop;MiG-27K
 mig_27k_0;izd. 32-36 | MiG-27K
 mig_27k_1;MiG-27K
 mig_27k_2;MiG-27
-su_24m_shop;Su-24M2
-su_24m_0;izd. T-6M2 | Su-24M2
-su_24m_1;Su-24M
-su_24m_2;Su-24
 su_34_shop;Su-34NVO
 su_34_0;izd. T-10V | Su-34NVO
 su_34_1;Su-34NVO
@@ -10246,10 +10347,6 @@ canberra_bmk2_shop;Canberra B. Mk. 2
 canberra_bmk2_0;Canberra B. Mk. 2
 canberra_bmk2_1;Canberra B. Mk. 2
 canberra_bmk2_2;Canberra
-f_111c_raaf_shop;F-111C
-f_111c_raaf_0;"F-111C ""Aardvark"""
-f_111c_raaf_1;F-111C
-f_111c_raaf_2;F-111
 pby-5a_raf_shop;Catalina Mk. IIIa
 pby-5a_raf_0;Catalina Mk. IIIa
 pby-5a_raf_1;Catalina Mk. III

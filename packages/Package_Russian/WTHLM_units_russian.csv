@@ -9,6 +9,16 @@ ussr_aircraftcarrier_admiral_kuznetsov_0;Черноморский судостр
 ussr_aircraftcarrier_admiral_kuznetsov_1;Адмирал Флота Советского Союза Кузнецов
 ussr_aircraftcarrier_admiral_kuznetsov_2;Destroyer
 
+//KILLSTREAK UNITS
+su_24m_killstreak_shop;☢ Су-24М2
+su_24m_killstreak_0;☢ ПАО «Компания „Сухой“» | изд. Т-6М2 | Су-24М2
+su_24m_killstreak_1;☢ Су-24М
+su_24m_killstreak_2;☢ Су-24
+su_24m_china_killstreak_shop;␗☢ Су-24М2
+su_24m_china_killstreak_0;␗☢ ПАО «Компания „Сухой“» | изд. Т-6М2 | Су-24М2
+su_24m_china_killstreak_1;␗☢ Су-24М
+su_24m_china_killstreak_2;␗☢ Су-24
+
 //GROUPS
 shop/group/ussr_t_55_group;Т-55А / АД-1
 shop/group/ussr_buk_m3_fcs_group;9С18М1-3 / А317М
@@ -18,6 +28,10 @@ kor_1_shop;Бе-2
 kor_1_0;Центральное конструкторское бюро морского самолётостроения | Бе-2
 kor_1_1;Бе-2
 kor_1_2;Бе-2
+kor_2_shop;Бе-4
+kor_2_0;Центральное конструкторское бюро морского самолётостроения | Бе-4
+kor_2_1;Бе-4
+kor_2_2;Бе-4
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 
@@ -35,7 +49,7 @@ quing_6_2;Qīng 6
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 su_24m_shop;Су-24М2
-su_24m_0;ПАО «Компания „Сухой“» | изд.Т-6М2 | Су-24М2
+su_24m_0;ПАО «Компания „Сухой“» | изд. Т-6М2 | Су-24М2
 su_24m_1;Су-24М
 su_24m_2;Су-24
 
@@ -68,6 +82,10 @@ mig_29_9_12_sniper_2;╏ MiG-29
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+mi_35p_shop;Ми-35П
+mi_35p_0;АО «Московский вертолётный завод им. М. Л. Миля» | Вертолет Ми-35П
+mi_35p_1;Ми-35П
+mi_35p_2;Ми-35
 mi_35p_indonesia_shop;◥ Mi-35P
 mi_35p_indonesia_0;◥ АО «Московский вертолётный завод им. М. Л. Миля» | Mi-35P
 mi_35p_indonesia_1;◥ Mi-35P

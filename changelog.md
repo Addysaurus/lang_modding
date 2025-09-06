@@ -31,8 +31,23 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 - #### Additions:
 
     - Update "Tusk Force" additions (holy shit thats a bad update name):
+        - **B-66B**
+        - **F-111F** (nuke) (USA, Japan, & Israel)
+        - **Bf 109 T-2**
+        - **Tornado IDS ASSTA1** (nuke) (Germany, Sweden, France, Italy, UK)
+        - **KOR-2**
+        - **Su-24M** (nuke) (USSR & China)
+        - **F/A-18A** (UK / Australia)
+        - **AF/A-18A Late** (UK / Australia) (fucking hell that name)
+        - **CF-188A** (UK / Canada)
         - **F-5TH TCU** (Japan / Thailand)
         - **Qing-6**
+        - **Mosquito F.Mk.II** (Sweden / Norway)
+        - **Mosquito FB Mk VI** (Sweden / Norway)
+        - **Mosquito FB Mk VI ASH** (Sweden / Norway)
+        - **AH-64E**
+        - **Mi-35P**
+        - **Mi-35** (Japan / Indonesia)
         - **M55**
         - **T58**
         - **Stingray**
@@ -44,6 +59,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Stingray** (Japan / Thailand)
         - **BM Oplot-T** (Japan / Thailand)
         - **M55** (China / Taiwan)
+        - **VT4**
         - **M55** (Italy)
         - **M55** (France / Belgium)
     - "Black Hussar" event additions:
@@ -52,9 +68,24 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 - #### Changes:
 
     Update "Tusk Force" changes:
+        - **B-66B** → **B-66B-DL**. Statcard name → **Douglas Aircraft Company D-1327A | B-66B-DL Destroyer**.
+        - **F-111F** (nuke) (USA, Japan, & Israel): Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111F "Aardvark"**.
+        - **Bf 109 T-2**: Statcard name → **Messerschmitt | Bf 109 T-2**.
+        - **IDS-Tornado (ASSTA 1)** (nuke) (Germany, Sweden, France, Italy, UK): Statcard name → **Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)**.
+        - **KOR-2** → **Bye-4**. Statcard name → **Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Bye-4**.
+        - **Su-24M** (USSR nuke & China nuke) → **Su-24M2**. Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-6M2 | Su-24M2**.
+        - **F/A-18A** (UK / Australia): Statcard name → **McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet**.
+        - **AF/A-18A Late** (UK / Australia) → **F/A-18A (HUG 2.4)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet (Hornet Upgrade Program Phase 2.4)**.
+        - **CF-188A** (UK / Canada): Statcard name → **McDonnell Douglas Corporation Model 267 | CF-188A Hornet**.
         - **F-5TH TCU** (Japan / Thailand) → **B.Kh.18Kh (2014)**. Statcard name → **Northrop Corporation F-5-21 / Elbit Systems F-5TH Super Tigris | Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (2014)**.
             - Thai package: **F-5TH TCU** → **บ.ข.๑๘ข (2014)**. Statcard name → **เครื่องบินขับไล่แบบที่ ๑๘ข (2014)**.
         - **Qing-6** → **Qīng 6**. Statcard name → **Gosudarstvyennyj soûznyj opytnyj zavod № 49 / Zhōngguó Tèzhǒng Fēixíngqì Yánjiū Suo | Qīng 6 Xíng Fēijī**.
+        - **Mosquito F.Mk.II** → **Mosquito F. Mk. II**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito F. Mk. II**.
+        - **Mosquito FB Mk VI** → **Mosquito F.B. Mk. VI**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI**.
+        - **Mosquito FB Mk VI ASH** → **Mosquito F.B. Mk. VI (A.S.V. Mk. IX)**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI (A.S.V. Mk. IX)**.
+        - **AH-64E** → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**. It's a butchered to hell v6, but it has the JAGM so it is the v6.
+        - **Mi-35P**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Vyertolyet Mi-35P**.
+        - **Mi-35** (Japan / Indonesia) → **Mi-35P**. Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Mi-35P**.
         - **M55**: Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55**.
         - **T58**: Statcard name → **United Shoe Machinery Corporation | Tank, Combat, Full Tracked: 155mm Gun, T58**.
         - **Stingray**: Statcard name → **Cadillac Gage Stingray**.
@@ -69,8 +100,10 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **BM Oplot-T** (Japan / Thailand) → **Th.Hlạk 57**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rth Thạng Hlạk 57**.
             - Thai package: **BM Oplot-T** → **ถ.หลัก 57**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | รถถังหลัก 57**.
         - **M55** (China / Taiwan): Statcard name → **Pacific Car and Foundry Company | M55 Zì Zou Pào**.
+        - **VT4**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT4 Zhu Zhàn Tankè**.
         - **M55** (Italy) → **203/25 M55**. Statcard name → **Pacific Car and Foundry Company | Semovente da 203/25 M55**.
         - **M55** (France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55**.
+        - **Mosquito** (Sweden / Norway) folder → **Mosquito F.B. Mk. VI / VI (A.S.V. Mk. IV)**.
         - **9K317M ""BUK-M3"** folder → **9S18M1-3 / A317M**.
     - **Mackensen**: Statcard name → **Blohm & Voss | großer Kreuzer Mackensen-Klasse | Ersatz Victoria Louise | großer Kreuzer Mackensen**.
     - Hungarian ground vehicles rework:
@@ -145,6 +178,10 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Scharnhorst-Klasse | Gneisenau (1943)**.
     - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Bismarck-Klasse | Bismarck**.
     - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob"yekt 184-5 | T-72B3A obr. 2024 g.** (this change is a result of me not understanding that Russian has an instrumental case and thus it should be вагоностроительный завод as opposed to вагоностроительным заводом, also why tf does Russian have 6 cases jesus christ).
+    - **Su-24M**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-6M2 | Su-24M2**.
+    - **F-111A**: Statcard name → **General Dynamics Corporation + Grumman Aircraft Engineering Corporation | F-111A "Aardvark"**.
+    - **F-111F**: Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111F "Aardvark"**.
+    - **F-111C**: Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111C "Aardvark"**.
 
 ### Weaponry:
 

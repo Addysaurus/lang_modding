@@ -51,7 +51,7 @@ def translit_cyrillic(text):
     for i in final_list:
         if i.lower() == 'cz':
             if final_list.index(i) > 0 and final_list[final_list.index(i) - 1].lower() not in ['i', 'e', 'y', 'j']:
-                if i[1].isupper():
+                if i[0].isupper():
                     i = 'C'
                 else:
                     i = 'c'

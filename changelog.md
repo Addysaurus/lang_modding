@@ -84,7 +84,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Bf 109 T-2**: Statcard name → **Messerschmitt | Bf 109 T-2**.
         - **IDS-Tornado (ASSTA 1)** (nuke) (Germany, Sweden, France, Italy, UK): Statcard name → **Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)**.
         - **KOR-2** → **Bye-4**. Statcard name → **Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Bye-4**.
-        - **Su-24M** (USSR nuke & China nuke) → **Su-24M2**. Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-6M2 | Su-24M2**.
+        - **Su-24M** (USSR nuke & China nuke) → **Su-24M2**. Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2**.
         - **F/A-18A** (UK / Australia): Statcard name → **McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet**.
         - **AF/A-18A Late** (UK / Australia) → **F/A-18A (HUG 2.4)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet (Hornet Upgrade Program Phase 2.4)**.
         - **CF-188A** (UK / Canada): Statcard name → **McDonnell Douglas Corporation Model 267 | CF-188A Hornet**.
@@ -201,7 +201,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Scharnhorst-Klasse | Gneisenau (1943)**.
     - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Bismarck-Klasse | Bismarck**.
     - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob"yekt 184-5 | T-72B3A obr. 2024 g.** (this change is a result of me not understanding that Russian has an instrumental case and thus it should be вагоностроительный завод as opposed to вагоностроительным заводом, also why tf does Russian have 6 cases jesus christ).
-    - **Su-24M**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-6M2 | Su-24M2**.
+    - **Su-24M**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2**.
+    - **Su-30SM**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM**.
     - **F-111A**: Statcard name → **General Dynamics Corporation + Grumman Aircraft Engineering Corporation | F-111A "Aardvark"**.
     - **F-111F**: Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111F "Aardvark"**.
     - **F-111C**: Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111C "Aardvark"**.

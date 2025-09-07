@@ -55,6 +55,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **9K317M "BUK-M3" (TELAR)**
         - **9K317M "BUK-M3" (TADS)**
         - **Ram I**
+        - **M163** (Japan / Thailand)
         - **M60A3 TTS** (Japan / Thailand)
         - **Stingray** (Japan / Thailand)
         - **BM Oplot-T** (Japan / Thailand)
@@ -62,6 +63,13 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **VT4**
         - **M55** (Italy)
         - **M55** (France / Belgium)
+        - **CV 90105 TML**
+        - **USS Charles F. Adams**
+        - **USS Maryland**
+        - **HMS Nelson**
+        - **Baleno MC-492**
+        - **Aisne**
+        - **Gloire**
     - "Black Hussar" event additions:
         - **Mackensen**
 
@@ -93,6 +101,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **9K317M "BUK-M3" (TELAR)** → **9A317M**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Radiolokaczionnaâ stancziâ obnaružyeniâ czyeli 9A317M "Buk-M3"**.
         - **9K317M "BUK-M3" (TADS)** → **9S18M1-3**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M1-3 "Kupol"**.
         - **Ram I** → **Ram, Mk. I**. Statcard name → **Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. I**.
+        - **M163** (Japan / Thailand) → **Ptx. M 163**. Statcard name → **General Electric Company | Pụn Txsu Xākāṣyān Xạttā Jr 20 mm M 163**.
+            - Thai package: **M163** → **ปตอ. เอ็ม 163**. Statcard name → **General Electric Company | ปืนต่อสู้อากาศยานอัตตาจร 20 มม เอ็ม 163**.
         - **M60A3 TTS** (Japan / Thailand) → **Th.Hlạk M 60 A3**. Statcard name → **Chrysler Defense Engineering | Rth Thạng M 60 A3**.
             - Thai package: **M60A3 TTS** → **ถ.หลัก เอ็ม 60 เอ 3**. Statcard name → **Chrysler Defense Engineering | รถถังหลัก เอ็ม 60 เอ 3**.
         - **Stingray** (Japan / Thailand) → **Th.Bao 32**. Statcard name → **Cadillac Gage Stingray | Rth Thạng Bao 32**.
@@ -103,7 +113,15 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **VT4**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT4 Zhu Zhàn Tankè**.
         - **M55** (Italy) → **203/25 M55**. Statcard name → **Pacific Car and Foundry Company | Semovente da 203/25 M55**.
         - **M55** (France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55**.
+        - **CV 90105 TML** → **CV90105 (TML 105)**: Statcard name → **Hägglund & Söner + GIAT Industries Combat Vehicle 90105 (TML 105)**.
         - **Mosquito** (Sweden / Norway) folder → **Mosquito F.B. Mk. VI / VI (A.S.V. Mk. IV)**.
+        - **USS Charles F. Adams** → **USS Charles F. Adams (DDG-2)**. Statcard name → **Bath Iron Works | Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)**.
+        - **USS Maryland** → **USS Maryland (BB-46)**. Statcard name → **New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Colorado-class Battleship | USS Maryland (BB-46) (1945)**.
+        - **HMS Nelson** → **HMS Nelson (28)**. Statcard name → **Armstrong Whitworth | Nelson-class | HMS Nelson (28)**.
+        - **L'Intrépide** → **L'Intrépide (P 630)**. Statcard name → **Constructions mécaniques de Normandie | Escorteur côtier de la classe L'Adroit | L'Intrépide (P 630)**.
+        - **Baleno MC-492** → **Baleno (MC 492)**. Statcard name → **Cantiere navale Triestino | Motocannoniera Convertibile Classe Lampo | Baleno (MC 492)**.
+        - **Aisne** → **L'Aisne**. Statcard name → **Arsenal de Lorient | Aviso de 1re classe de la classe La Marne | L'Aisne**.
+        - **Gloire**: Statcard name → **Forges et chantiers de la Gironde / Arsenal de Sidi-Abdallah | Croiseur léger de la classe La Galissonnière | Gloire (1947)**.
         - **9K317M ""BUK-M3"** folder → **9S18M1-3 / A317M**.
     - **Mackensen**: Statcard name → **Blohm & Voss | großer Kreuzer Mackensen-Klasse | Ersatz Victoria Louise | großer Kreuzer Mackensen**.
     - Hungarian ground vehicles rework:
@@ -182,6 +200,14 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **F-111A**: Statcard name → **General Dynamics Corporation + Grumman Aircraft Engineering Corporation | F-111A "Aardvark"**.
     - **F-111F**: Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111F "Aardvark"**.
     - **F-111C**: Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111C "Aardvark"**.
+    - **Aconit (K 58)**: Statcard name → **Ailsa Shipbuilding Company | Corvette de la classe Flower | Aconit (K 58)**.
+    - **Arras (AS)**: Statcard name → **Arsenal de Brest | Aviso de 1re classe de la classe Arras | Arras (AS)**.
+    - **Amiens (7)**: Statcard name → **Société Nouvelle des Forges et Chantiers de la Méditerranée / Arsenal de Cherbourg | Aviso de 1re classe de la classe Arras | Amiens (7) (1940)**.
+    - **La Marne**: Statcard name → **Arsenal de Lorient | Aviso de 1re classe de la classe La Marne | La Marne (1925)**.
+    - **Dunkerque**: Statcard name → **Arsenal de Brest | Cuirassé de la classe Dunkerque | Dunkerque (1939)**.
+    - **Strasbourg**: Statcard name → **Ateliers et Chantiers de la Loire | Cuirassé de la classe Dunkerque | Strasbourg (1942)**.
+    - **Richelieu**: Statcard name → **Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de la classe Richelieu | Richelieu (1943)**.
+    - **La Galissonnière**: Statcard name → **Arsenal de Brest | Croiseur léger de la classe La Galissonnière | La Galissonnière**.
 
 ### Weaponry:
 

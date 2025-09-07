@@ -3776,6 +3776,10 @@ us_cruiser_omaha_class_detroit_1;USS Detroit
 us_cruiser_omaha_class_detroit_2;Light Cruiser
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+us_destroyer_cf_adams_class_cf_adams_shop;USS Charles F. Adams (DDG-2)
+us_destroyer_cf_adams_class_cf_adams_0;Bath Iron Works | Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)
+us_destroyer_cf_adams_class_cf_adams_1;USS Charles F. Adams
+us_destroyer_cf_adams_class_cf_adams_2;Guided Missile Destroyer
 us_cruiser_atlanta_class_atlanta_shop;USS Atlanta (CL-51)
 us_cruiser_atlanta_class_atlanta_0;Federal Shipbuilding and Drydock Company | Atlanta-class Light Cruiser | USS Atlanta (CL-51)
 us_cruiser_atlanta_class_atlanta_1;USS Atlanta
@@ -3860,6 +3864,10 @@ us_battleship_colorado_class_colorado_shop;USS Colorado (BB-45)
 us_battleship_colorado_class_colorado_0;New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Colorado-class | USS Colorado (BB-45) (1942)
 us_battleship_colorado_class_colorado_1;USS Colorado
 us_battleship_colorado_class_colorado_2;Battleship
+us_battleship_colorado_class_maryland_shop;USS Maryland (BB-46)
+us_battleship_colorado_class_maryland_0;New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Colorado-class Battleship | USS Maryland (BB-46) (1945)
+us_battleship_colorado_class_maryland_1;USS Maryland
+us_battleship_colorado_class_maryland_2;Battleship
 us_battleship_nevada_shop;USS Nevada (BB-36)
 us_battleship_nevada_0;New York Shipbuilding Corporation / Fore River Shipyard | Nevada-class Battleship | USS Nevada (BB-36) (1944)
 us_battleship_nevada_1;USS Nevada
@@ -6283,6 +6291,10 @@ jp_type_99_shop;99HSP
 jp_type_99_0;"Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 99 Shiki Jisō 155mm Ryūdanhō ""Rongunōzu"""
 jp_type_99_1;99HSP
 jp_type_99_2;SPH
+jp_m163_vulcan_shop;Ptx. M 163
+jp_m163_vulcan_0;General Electric Company | Pụn Txsu Xākāṣyān Xạttā Jr 20 mm M 163
+jp_m163_vulcan_1;Ptx. M 163
+jp_m163_vulcan_2;SPAAG
 jp_type_75_mlrs_shop;75MSSR
 jp_type_75_mlrs_0;Komatsu Seisaku | 75 Shiki Jisō 130mm Tarensō Rokettodan Hasshaki
 jp_type_75_mlrs_1;75MSSR
@@ -7003,6 +7015,10 @@ it_c1_ariete_certezza_2;MBT
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+it_mc492_baleno_shop;Baleno (MC 492)
+it_mc492_baleno_0;Cantiere navale Triestino | Motocannoniera Convertibile Classe Lampo | Baleno (MC 492)
+it_mc492_baleno_1;Baleno (MC 492)
+it_mc492_baleno_2;Motor Torpedo Boat
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 
@@ -7194,23 +7210,31 @@ fr_vtb10_2;Motor Torpedo Boat
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 fr_flower_class_aconit_shop;Aconit (K 58)
-fr_flower_class_aconit_0;Ailsa Shipbuilding Company | Corvette de Classe Flower | Aconit (K 58)
+fr_flower_class_aconit_0;Ailsa Shipbuilding Company | Corvette de la classe Flower | Aconit (K 58)
 fr_flower_class_aconit_1;Aconit
 fr_flower_class_aconit_2;Corvette
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+fr_adroit_class_shop;L'Intrépide (P 630)
+fr_adroit_class_0;Constructions mécaniques de Normandie | Escorteur côtier de la classe L'Adroit | L'Intrépide (P 630)
+fr_adroit_class_1;L'Intrépide
+fr_adroit_class_2;Coastal Escort
 fr_arras_class_arras_shop;Arras (AS)
-fr_arras_class_arras_0;Arsenal de Brest | Aviso de 1re Classe | Aviso de Classe Arras | Arras (AS)
+fr_arras_class_arras_0;Arsenal de Brest | Aviso de 1re classe de la classe Arras | Arras (AS)
 fr_arras_class_arras_1;Arras
 fr_arras_class_arras_2;Aviso
 fr_arras_class_amiens_shop;Amiens (7)
-fr_arras_class_amiens_0;Société Nouvelle des Forges et Chantiers de la Méditerranée / Arsenal de Cherbourg | Aviso de 1re Classe | Aviso de Classe Arras | Amiens (7) (1940)
+fr_arras_class_amiens_0;Société Nouvelle des Forges et Chantiers de la Méditerranée / Arsenal de Cherbourg | Aviso de 1re classe de la classe Arras | Amiens (7) (1940)
 fr_arras_class_amiens_1;Amiens
 fr_arras_class_amiens_2;Aviso
 fr_marne_class_marne_shop;La Marne
-fr_marne_class_marne_0;Arsenal de Lorient | Aviso de 1re Classe | Aviso de Classe La Marne | La Marne (1925)
+fr_marne_class_marne_0;Arsenal de Lorient | Aviso de 1re classe de la classe La Marne | La Marne (1925)
 fr_marne_class_marne_1;La Marne
 fr_marne_class_marne_2;Aviso
+fr_marne_class_aisne_shop;L'Aisne
+fr_marne_class_aisne_0;Arsenal de Lorient | Aviso de 1re classe de la classe La Marne | L'Aisne
+fr_marne_class_aisne_1;L'Aisne
+fr_marne_class_aisne_2;Aviso
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 fr_vlt1_shop;VLT 1
@@ -7231,22 +7255,30 @@ fr_vlt2_2;Motor Torpedo Boat
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+fr_cruiser_la_galissoniere_class_la_galissoniere_shop;La Galissonnière
+fr_cruiser_la_galissoniere_class_la_galissoniere_0;Arsenal de Brest | Croiseur léger de la classe La Galissonnière | La Galissonnière
+fr_cruiser_la_galissoniere_class_la_galissoniere_1;La Galissonnière
+fr_cruiser_la_galissoniere_class_la_galissoniere_2;Light cruiser
+fr_cruiser_la_galissoniere_class_gloire_shop;Gloire
+fr_cruiser_la_galissoniere_class_gloire_0;Forges et chantiers de la Gironde / Arsenal de Sidi-Abdallah | Croiseur léger de la classe La Galissonnière | Gloire (1947)
+fr_cruiser_la_galissoniere_class_gloire_1;Gloire
+fr_cruiser_la_galissoniere_class_gloire_2;Light Cruiser
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 fr_battleship_dunkerque_shop;Dunkerque
-fr_battleship_dunkerque_0;Arsenal de Brest | Cuirassé de Classe Dunkerque | Dunkerque (1939)
+fr_battleship_dunkerque_0;Arsenal de Brest | Cuirassé de la Classe Dunkerque | Dunkerque (1939)
 fr_battleship_dunkerque_1;Dunkerque
 fr_battleship_dunkerque_2;Battleship
 fr_battleship_strasbourg_shop;Strasbourg
-fr_battleship_strasbourg_0;Ateliers et Chantiers de la Loire | Cuirassé de Classe Dunkerque | Strasbourg (1942)
+fr_battleship_strasbourg_0;Ateliers et Chantiers de la Loire | Cuirassé de la Classe Dunkerque | Strasbourg (1942)
 fr_battleship_strasbourg_1;Strasbourg
 fr_battleship_strasbourg_2;Battleship
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 fr_battleship_richelieu_class_richelieu_shop;Richelieu
-fr_battleship_richelieu_class_richelieu_0;Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de Classe Richelieu | Richelieu (1943)
+fr_battleship_richelieu_class_richelieu_0;Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de la Classe Richelieu | Richelieu (1943)
 fr_battleship_richelieu_class_richelieu_1;Richelieu
 fr_battleship_richelieu_class_richelieu_2;Battleship
 
@@ -7311,6 +7343,10 @@ sw_m24_chaffee_dk_2;Light Tank
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+sw_cv_90105_shop;CV90105 (TML 105)
+sw_cv_90105_0;Hägglund & Söner + GIAT Industries Combat Vehicle 90105 (TML 105)
+sw_cv_90105_1;CV90105
+sw_cv_90105_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 
@@ -14485,6 +14521,10 @@ uk_battleship_rodney_shop;HMS Rodney (29)
 uk_battleship_rodney_0;Cammell Laird & Co. / Rosyth Dockyard | Nelson-class | HMS Rodney (29) (1940)
 uk_battleship_rodney_1;HMS Rodney
 uk_battleship_rodney_2;Battleship
+uk_battleship_nelson_shop;HMS Nelson (28)
+uk_battleship_nelson_0;Armstrong Whitworth | Nelson-class | HMS Nelson (28)
+uk_battleship_nelson_1;HMS Nelson
+uk_battleship_nelson_2;Battleship
 ussr_destroyer_kerch_shop;Kyerč' (1917)
 ussr_destroyer_kerch_0;Eskadrennyy minonosets Tip Novik, 3rd syeriâ, Tip Fidonisi, Kerch' (1917)
 ussr_destroyer_kerch_1;Kyerč' (1917)
@@ -15122,10 +15162,6 @@ it_ciclone_class_ghibli_shop;Ghibli (GH)
 it_ciclone_class_ghibli_0;Cantiere navale di Castellammare di Stabia | Torpediniera Classe Ciclone | Ghibli (GH)
 it_ciclone_class_ghibli_1;Ghibli
 it_ciclone_class_ghibli_2;Gunboat
-fr_cruiser_la_galissoniere_class_la_galissoniere_shop;La Galissonnière
-fr_cruiser_la_galissoniere_class_la_galissoniere_0;Arsenal de Brest | Classe La Galissonnière | La Galissonnière
-fr_cruiser_la_galissoniere_class_la_galissoniere_1;La Galissonnière
-fr_cruiser_la_galissoniere_class_la_galissoniere_2;Light cruiser
 germ_boxer_3105_shop;Boxer (Cockerill 3105)
 germ_boxer_3105_0;ARTEC Boxer (Cockerill 3105)
 germ_boxer_3105_1;Boxer (Cockerill 3105)

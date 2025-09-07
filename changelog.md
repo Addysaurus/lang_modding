@@ -66,8 +66,11 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **CV 90105 TML**
         - **USS Charles F. Adams**
         - **USS Maryland**
+        - **MPK-33**
+        - **HMS Saumarez**
         - **HMS Nelson**
         - **Baleno MC-492**
+        - **L'Intrépide**
         - **Aisne**
         - **Gloire**
     - "Black Hussar" event additions:
@@ -117,11 +120,13 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Mosquito** (Sweden / Norway) folder → **Mosquito F.B. Mk. VI / VI (A.S.V. Mk. IV)**.
         - **USS Charles F. Adams** → **USS Charles F. Adams (DDG-2)**. Statcard name → **Bath Iron Works | Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)**.
         - **USS Maryland** → **USS Maryland (BB-46)**. Statcard name → **New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Colorado-class Battleship | USS Maryland (BB-46) (1945)**.
+        - **MPK-33**: Statcard name → **Zyelyenodol'skij sudostroityel'nyj zavod № 340 imyeni A. M. Gor'kogo | Malyj protivolodočnyj korabl' proyekta 1124 ""Al'batros"" | MPK-33**.
+        - **HMS Saumarez** → **HMS Saumarez (G 12)**. Statcard name → **R. & W. Hawthorn, Leslie & Co. | S-class | HMS Saumarez (G 12)**.
         - **HMS Nelson** → **HMS Nelson (28)**. Statcard name → **Armstrong Whitworth | Nelson-class | HMS Nelson (28)**.
-        - **L'Intrépide** → **L'Intrépide (P 630)**. Statcard name → **Constructions mécaniques de Normandie | Escorteur côtier de la classe L'Adroit | L'Intrépide (P 630)**.
         - **Baleno MC-492** → **Baleno (MC 492)**. Statcard name → **Cantiere navale Triestino | Motocannoniera Convertibile Classe Lampo | Baleno (MC 492)**.
+        - **L'Intrépide** → **L'Intrépide (P 630)**. Statcard name → **Constructions mécaniques de Normandie | Escorteur côtier de la classe L'Adroit | L'Intrépide (P 630)**.
         - **Aisne** → **L'Aisne**. Statcard name → **Arsenal de Lorient | Aviso de 1re classe de la classe La Marne | L'Aisne**.
-        - **Gloire**: Statcard name → **Forges et chantiers de la Gironde / Arsenal de Sidi-Abdallah | Croiseur léger de la classe La Galissonnière | Gloire (1947)**. This thing is butchered to hell and may be closer to Montcalm's 1947 refit, I'm not exactly sure.
+        - **Gloire** → **Montcalm**. Statcard name → **Société Nouvelle des Forges et Chantiers de la Méditerranée | Croiseur léger de la classe La Galissonnière | Montcalm (1946)**. I cannot find any images of Gloire ever having this fit. I can find references to a 1947 refit at Arsenal de Sidi-Abdallah, but I cannot find any images suggesting that this fit of Gloire ever existed. However, this does look *very* similar to Montcalm's 1946 refit at Société Nouvelle des Forges et Chantiers de la Méditerranée in La Seyne, the same place she was also built.
         - **9K317M ""BUK-M3"** folder → **9S18M1-3 / A317M**.
     - **Mackensen**: Statcard name → **Blohm & Voss | großer Kreuzer Mackensen-Klasse | Ersatz Victoria Louise | großer Kreuzer Mackensen**.
     - Hungarian ground vehicles rework:
@@ -208,6 +213,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **Strasbourg**: Statcard name → **Ateliers et Chantiers de la Loire | Cuirassé de la classe Dunkerque | Strasbourg (1942)**.
     - **Richelieu**: Statcard name → **Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de la classe Richelieu | Richelieu (1943)**.
     - **La Galissonnière**: Statcard name → **Arsenal de Brest | Croiseur léger de la classe La Galissonnière | La Galissonnière**.
+    - **Mi-8AMTŠ-VN**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Vyertolyet Mi-8AMTŠ-VN "Sapsan"**.
 
 ### Weaponry:
 

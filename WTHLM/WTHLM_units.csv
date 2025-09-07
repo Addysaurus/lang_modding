@@ -1935,11 +1935,11 @@ jaguar_a_iaf_killstreak_0;☢ SEPECAT Jaguar A | Jaguar Type A
 jaguar_a_iaf_killstreak_1;☢ Jaguar A
 jaguar_a_iaf_killstreak_2;☢ Jaguar
 su_24m_killstreak_shop;☢ Su-24M2
-su_24m_killstreak_0;☢ AO «Kompaniâ Sukhoj» | izd. T-6M2 | Su-24M2
+su_24m_killstreak_0;☢ AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
 su_24m_killstreak_1;☢ Su-24M
 su_24m_killstreak_2;☢ Su-24
 su_24m_china_killstreak_shop;☢␗ Su-24M2
-su_24m_china_killstreak_0;☢␗ AO «Kompaniâ Sukhoj» | izd. T-6M2 | Su-24M2
+su_24m_china_killstreak_0;☢␗ AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
 su_24m_china_killstreak_1;☢␗ Su-24M
 su_24m_china_killstreak_2;☢␗ Su-24
 f_111f_killstreak_shop;☢ F-111F
@@ -5006,8 +5006,12 @@ germ_battleship_bismarck_1;Bismarck
 germ_battleship_bismarck_2;Battleship
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+kor_1_shop;Bye-2
+kor_1_0;Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Samolyet Bye-2
+kor_1_1;Bye-2
+kor_1_2;Bye-2
 kor_2_shop;Bye-4
-kor_2_0;Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Bye-4
+kor_2_0;Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Samolyet Bye-4
 kor_2_1;Bye-4
 kor_2_2;Bye-4
 
@@ -5026,16 +5030,40 @@ l_39za_2;L-39
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+mig-21_bis_shop;MiG-21bis
+mig-21_bis_0;Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna | izd. 75 | Samolyet MiG-21bis
+mig-21_bis_1;MiG-21bis
+mig-21_bis_2;MiG-21
+mig-21_bis_event_shop;MiG-21bis
+mig-21_bis_event_0;Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna | izd. 75 | Samolyet MiG-21bis
+mig-21_bis_event_1;MiG-21bis
+mig-21_bis_event_2;MiG-21
 su_24m_shop;Su-24M2
 su_24m_0;AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
 su_24m_1;Su-24M
 su_24m_2;Su-24
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+su_27_shop;Su-27
+su_27_0;AO «Kompaniâ Sukhoj» | izd. T-10S | Samolyet Su-27
+su_27_1;Su-27
+su_27_2;Su-27
+su_27sm_shop;Su-27SM3
+su_27sm_0;AO «Kompaniâ Sukhoj» | izd. T-10SM3 | Samolyet Su-27SM3
+su_27sm_1;Su-27SM
+su_27sm_2;Su-27
 su_30sm_shop;Su-30SM
 su_30sm_0;AO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM
 su_30sm_1;Su-30SM
 su_30sm_2;Su-30
+su_34_shop;Su-34NVO
+su_34_0;AO «Kompaniâ Sukhoj» | izd. T-10V | Samolyet Su-34NVO
+su_34_1;Su-34NVO
+su_34_2;Su-34
+su_33_shop;Su-33 (SVP-24-33)
+su_33_0;AO «Kompaniâ Sukhoj» | izd. T-10K | Samolyet Su-33 (SVP-24-33)
+su_33_1;Su-33
+su_33_2;Su-33
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
@@ -5124,9 +5152,9 @@ ussr_buk_m3_fcs_1;9S18M1-3
 ussr_buk_m3_fcs_2;Radar
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
-ussr_pr_103_sm4_shop;TKA №164
-ussr_pr_103_sm4_0;Sudostroityel'nyj zavod №194 imyeni Marti | Torpyednyj katyer proyekt 103, Tip SM-4 | TKA №164
-ussr_pr_103_sm4_1;TKA №164
+ussr_pr_103_sm4_shop;TKA № 164
+ussr_pr_103_sm4_0;Sudostroityel'nyj zavod № 194 im. Marti | Torpyednyj katyer proyekta 103 tip SM-4 | TKA № 164
+ussr_pr_103_sm4_1;TKA № 164
 ussr_pr_103_sm4_2;Motor torpedo boat
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
@@ -9399,10 +9427,6 @@ soc_1_shop;SOC-1
 soc_1_0;SOC-1 Seagull
 soc_1_1;SOC-1
 soc_1_2;SOC-1
-kor_1_shop;Bye-2
-kor_1_0;Bye-2
-kor_1_1;Bye-2
-kor_1_2;Bye-2
 fairey_3f_mk3b_shop;Fairey IIIF Mk. IIIB
 fairey_3f_mk3b_0;Fairey IIIF Mk.IIIB
 fairey_3f_mk3b_1;Fairey IIIF
@@ -9663,10 +9687,6 @@ mig_27k_shop;MiG-27K
 mig_27k_0;izd. 32-36 | MiG-27K
 mig_27k_1;MiG-27K
 mig_27k_2;MiG-27
-su_34_shop;Su-34NVO
-su_34_0;izd. T-10V | Su-34NVO
-su_34_1;Su-34NVO
-su_34_2;Su-34
 saab_j35a_shop;J 35 A-1
 saab_j35a_0;"Saab 35 | J 35 A-1 Draken ""Adam kort"""
 saab_j35a_1;J 35 A-1
@@ -12667,14 +12687,6 @@ mig-21_s_shop;MiG-21S (R-13-300)
 mig-21_s_0;izd. 95 | MiG-21S (R-13-300)
 mig-21_s_1;MiG-21S
 mig-21_s_2;MiG-21
-mig-21_bis_shop;MiG-21bis
-mig-21_bis_0;OKB Mikoâna i Guryeviča | izd. 75 | MiG-21bis
-mig-21_bis_1;MiG-21bis
-mig-21_bis_2;MiG-21
-mig-21_bis_event_shop;MiG-21bis
-mig-21_bis_event_0;OKB Mikoâna i Guryeviča | izd. 75 | MiG-21bis
-mig-21_bis_event_1;MiG-21bis
-mig-21_bis_event_2;MiG-21
 mig-21_pfm_shop;MiG-21PFM (94)
 mig-21_pfm_0;izd. 94 | MiG-21PFM
 mig-21_pfm_1;MiG-21PFM
@@ -12711,18 +12723,6 @@ mig_29_9_12b_hungary_shop;◔ MiG-29 (9-12B)
 mig_29_9_12b_hungary_0;◔ izd. 9-12B | MiG-29 Fulcrum-A
 mig_29_9_12b_hungary_1;◔ MiG-29
 mig_29_9_12b_hungary_2;◔ MiG-29
-su_27_shop;Su-27
-su_27_0;PAO Kompaniâ Sukhoj | izd. T-10S | Su-27
-su_27_1;Su-27
-su_27_2;Su-27
-su_27sm_shop;Su-27SM3
-su_27sm_0;PAO Kompaniâ Sukhoj | izd. T-10SM3 | Su-27SM3
-su_27sm_1;Su-27SM
-su_27sm_2;Su-27
-su_33_shop;Su-33 (SVP-24-33)
-su_33_0;PAO Kompaniâ Sukhoj | izd. T-10K | Su-33 (SVP-24-33)
-su_33_1;Su-33
-su_33_2;Su-33
 f-4e_iaf_shop; F-4E-48-MC
 f-4e_iaf_0; McDonnell Douglas Corporation Model 98HO | F-4E-48-MC Ḳurnas
 f-4e_iaf_1; F-4E

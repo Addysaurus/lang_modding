@@ -83,7 +83,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **F-111F** (nuke) (USA, Japan, & Israel): Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111F "Aardvark"**.
         - **Bf 109 T-2**: Statcard name → **Messerschmitt | Bf 109 T-2**.
         - **IDS-Tornado (ASSTA 1)** (nuke) (Germany, Sweden, France, Italy, UK): Statcard name → **Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)**.
-        - **KOR-2** → **Bye-4**. Statcard name → **Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Bye-4**.
+        - **KOR-2** → **Bye-4**. Statcard name → **Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Samolyet Bye-4**.
         - **Su-24M** (USSR nuke & China nuke) → **Su-24M2**. Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2**.
         - **F/A-18A** (UK / Australia): Statcard name → **McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet**.
         - **AF/A-18A Late** (UK / Australia) → **F/A-18A (HUG 2.4)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet (Hornet Upgrade Program Phase 2.4)**.
@@ -201,8 +201,6 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Scharnhorst-Klasse | Gneisenau (1943)**.
     - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Bismarck-Klasse | Bismarck**.
     - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob"yekt 184-5 | T-72B3A obr. 2024 g.** (this change is a result of me not understanding that Russian has an instrumental case and thus it should be вагоностроительный завод as opposed to вагоностроительным заводом, also why tf does Russian have 6 cases jesus christ).
-    - **Su-24M**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2**.
-    - **Su-30SM**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM**.
     - **F-111A**: Statcard name → **General Dynamics Corporation + Grumman Aircraft Engineering Corporation | F-111A "Aardvark"**.
     - **F-111F**: Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111F "Aardvark"**.
     - **F-111C**: Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111C "Aardvark"**.
@@ -214,7 +212,16 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **Strasbourg**: Statcard name → **Ateliers et Chantiers de la Loire | Cuirassé de la classe Dunkerque | Strasbourg (1942)**.
     - **Richelieu**: Statcard name → **Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de la classe Richelieu | Richelieu (1943)**.
     - **La Galissonnière**: Statcard name → **Arsenal de Brest | Croiseur léger de la classe La Galissonnière | La Galissonnière**.
+    - **Bye-2**: Statcard name → **Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Samolyet Bye-2**.
+    - **MiG-21bis**: Statcard name → **Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna | izd. 75 | Samolyet MiG-21bis**.
+    - **Su-24M**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2**.
+    - **Su-27**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-10S | Samolyet Su-27**.
+    - **Su-27SM3**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-10SM3 | Samolyet Su-27SM3**.
+    - **Su-30SM**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM**.
+    - **Su-33 (SVP-24-33)**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-10K | Samolyet Su-33 (SVP-24-33)**.
+    - **Su-34**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-10V | Samolyet Su-34NVO**.
     - **Mi-8AMTŠ-VN**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Vyertolyet Mi-8AMTŠ-VN "Sapsan"**.
+    - **TKA №164** **TKA № 164**. Statcard name → **Sudostroityel'nyj zavod № 194 im. Marti | Torpyednyj katyer proyekta 103 tip SM-4 | TKA № 164**.
 
 ### Weaponry:
 

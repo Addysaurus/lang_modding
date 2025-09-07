@@ -16,7 +16,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.13.03 — UNRELEASED
+## 1.14.00 — UNRELEASED
 
 I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu) for helping with the Hungarian ground tree rework. Without their help, this rework would not have been possible and the sourcing work they did for it was instrumental to it coming out as good as it did.
 
@@ -75,7 +75,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 
 - #### Changes:
 
-    Update "Tusk Force" changes:
+    - Update "Tusk Force" changes:
         - **B-66B** → **B-66B-DL**. Statcard name → **Douglas Aircraft Company D-1327A | B-66B-DL Destroyer**.
         - **F-111F** (nuke) (USA, Japan, & Israel): Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111F "Aardvark"**.
         - **Bf 109 T-2**: Statcard name → **Messerschmitt | Bf 109 T-2**.

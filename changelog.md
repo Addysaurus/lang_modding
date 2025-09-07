@@ -121,7 +121,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **L'Intrépide** → **L'Intrépide (P 630)**. Statcard name → **Constructions mécaniques de Normandie | Escorteur côtier de la classe L'Adroit | L'Intrépide (P 630)**.
         - **Baleno MC-492** → **Baleno (MC 492)**. Statcard name → **Cantiere navale Triestino | Motocannoniera Convertibile Classe Lampo | Baleno (MC 492)**.
         - **Aisne** → **L'Aisne**. Statcard name → **Arsenal de Lorient | Aviso de 1re classe de la classe La Marne | L'Aisne**.
-        - **Gloire**: Statcard name → **Forges et chantiers de la Gironde / Arsenal de Sidi-Abdallah | Croiseur léger de la classe La Galissonnière | Gloire (1947)**.
+        - **Gloire**: Statcard name → **Forges et chantiers de la Gironde / Arsenal de Sidi-Abdallah | Croiseur léger de la classe La Galissonnière | Gloire (1947)**. This thing is butchered to hell and may be closer to Montcalm's 1947 refit, I'm not exactly sure.
         - **9K317M ""BUK-M3"** folder → **9S18M1-3 / A317M**.
     - **Mackensen**: Statcard name → **Blohm & Voss | großer Kreuzer Mackensen-Klasse | Ersatz Victoria Louise | großer Kreuzer Mackensen**.
     - Hungarian ground vehicles rework:

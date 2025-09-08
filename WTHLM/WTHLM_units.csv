@@ -1329,6 +1329,7 @@ shop/group/arado_234_group;Ar 234 B-2 / C-3
 shop/group/me-262a_group;Me 262 A / C
 shop/group/me-163_group;Me 163 B-1 / 0
 shop/group/f-86_german_group;◄ Sabre Mk. 5 / 6
+shop/group/germ_cruiser_leipzig_nurnberg_group;Leipzig / Nürnberg
 shop/group/mig_21_germany_group;MiG-21MF / bis (SAU)
 shop/group/mig-21_hungary_group;◔ MiG-21MF / bisz
 shop/group/ussr_t_34_40_41_group;T-34 (Dec, 1940) / (May, 1941)
@@ -1411,6 +1412,7 @@ shop/group/uk_rooikat_olifant_group;Rooikat / Olifant Mk1
 shop/group/uk_mttd_olifant_group;MTTD / Olifant Mk2
 shop/group/uk_stormer_group;Stormer / F.V.4333 (HVM)
 shop/group/uk_9a33_35_group;☸ 9A33BM2 / 35M
+shop/group/uk_sky_sabre_fcs_group;Sky Sabre (iLauncher) / (Giraffe AMB)
 shop/group/fury_group;Fury Mk. I / II
 shop/group/gladiator_mk2_group;Gladiator Mk. II / II (Silver) / II (BEF)
 shop/group/hampden_group;Hampden Mk. I / T.B. Mk. I
@@ -4976,6 +4978,10 @@ germ_schutze_class_2;Minesweeper
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+germ_destroyer_class1942_z51_shop;Z 51
+germ_destroyer_class1942_z51_0;"Deutsche Schiff- und Maschinenbau A.G. ""Weser"" | Zerstörer Typ 1942 | Z 51"
+germ_destroyer_class1942_z51_1;Z 51
+germ_destroyer_class1942_z51_2;Destroyer
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 
@@ -5130,6 +5136,18 @@ ussr_2s19_m2_1;2S19M2
 ussr_2s19_m2_2;SPH
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+ussr_bmd_4m2_shop;BMD-4M2
+ussr_bmd_4m2_0;"OAO «Kurganskij mašinostroityel'nyj zavod» | Ob""yekt 960M2 | Boyevaâ mašina dyesanta BMD-4M2"
+ussr_bmd_4m2_1;BMD-4M2
+ussr_bmd_4m2_2;IFV
+ussr_bmd_4_shop;BMD-4
+ussr_bmd_4_0;"OAO «Kurganskij mašinostroityel'nyj zavod» | Ob""yekt 960 | Boyevaâ mašina dyesanta BMD-4 obr. 2004 g."
+ussr_bmd_4_1;BMD-4
+ussr_bmd_4_2;IFV
+ussr_bmd_4m_shop;BMD-4M
+ussr_bmd_4m_0;"OAO «Kurganskij mašinostroityel'nyj zavod» | Ob""yekt 960M | Boyevaâ mašina dyesanta BMD-4M"
+ussr_bmd_4m_1;BMD-4M
+ussr_bmd_4m_2;IFV
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 ussr_t_80um2_shop;T-80U (Drozd)
@@ -5356,6 +5374,14 @@ uk_tracked_rapier_1;RCM 748, Mk. 1
 uk_tracked_rapier_2;SPAAM
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+uk_sky_sabre_launcher_shop;Sky Sabre (iLauncher)
+uk_sky_sabre_launcher_0;Rafael International + MBDA UK Land Ceptor | Sky Sabre (Intelligent Launcher)
+uk_sky_sabre_launcher_1;Sky Sabre (iLauncher)
+uk_sky_sabre_launcher_2;SPAAM
+uk_sky_sabre_fcs_shop;Sky Sabre (Giraffe AMB)
+uk_sky_sabre_fcs_0;Rafael International + MBDA UK Land Ceptor | Sky Sabre (Giraffe AMB)
+uk_sky_sabre_fcs_1;Sky Sabre (Giraffe AMB)
+uk_sky_sabre_fcs_2;Radar
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 uk_mtb_1series_shop;HMS MTB 7
@@ -6580,15 +6606,12 @@ jp_destroyer_satsuki_shop;Satsuki
 jp_destroyer_satsuki_0;Fujinagata Zōsensho | Ittō Kuchikukan | Mutsuki Gata Kuchikukan (F-41E1) | Satsuki (1935)
 jp_destroyer_satsuki_1;Satsuki
 jp_destroyer_satsuki_2;Destroyer
-jp_destroyer_fubuki_shop;Ayanami
-jp_destroyer_fubuki_0;Fujinagata Zōsensho | Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)
-jp_destroyer_fubuki_1;Ayanami
-jp_destroyer_fubuki_2;Destroyer
-jp_destroyer_fubuki_EC_0;Fujinagata Zōsensho | Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)
-jp_destroyer_fubuki_EC_1;Ayanami
-jp_destroyer_fubuki_EC_2;Destroyer
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 2
+jp_minelayer_tsugaru_shop;Tsugaru
+jp_minelayer_tsugaru_0;Yokosuka Kaigun Kōshō | Tsugaru Gata Fusetsukan (H-10) | Tsugaru (1943)
+jp_minelayer_tsugaru_1;Tsugaru
+jp_minelayer_tsugaru_2;Minelayer
 jp_destroyer_harukaze_shop;Harukaze (DD-101)
 jp_destroyer_harukaze_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Kō Gata Goeikan | Harukaze Gata Goeikan (F-101) | Harukazec (DD-101)
 jp_destroyer_harukaze_1;Harukaze
@@ -6616,6 +6639,13 @@ jp_destroyer_hatsuharu_shop;Hatsuharu
 jp_destroyer_hatsuharu_0;Sasebo Kaigun Kōshō | Ittō Kuchikukan | Hatsuharu Gata Kuchikukan (F-50) | Hatsuharu
 jp_destroyer_hatsuharu_1;Hatsuharu
 jp_destroyer_hatsuharu_2;Destroyer
+jp_destroyer_fubuki_shop;Ayanami
+jp_destroyer_fubuki_0;Fujinagata Zōsensho | Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)
+jp_destroyer_fubuki_1;Ayanami
+jp_destroyer_fubuki_2;Destroyer
+jp_destroyer_fubuki_EC_0;Fujinagata Zōsensho | Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)
+jp_destroyer_fubuki_EC_1;Ayanami
+jp_destroyer_fubuki_EC_2;Destroyer
 jp_destroyer_nenohi_shop;Nenohi
 jp_destroyer_nenohi_0;Uraga Senkyo | Ittō Kuchikukan | Hatsuharu Gata Kuchikukan (F-50) | Nenohi
 jp_destroyer_nenohi_1;Nenohi
@@ -11735,14 +11765,6 @@ ussr_bmp_2_shop;BMP-2D
 ussr_bmp_2_0;"Ob""yekt 675 | BMP-2D obr. 1982 g."
 ussr_bmp_2_1;BMP-2
 ussr_bmp_2_2;Light tank
-ussr_bmd_4_shop;BMD-4
-ussr_bmd_4_0;"Ob""yekt 960 | BMD-4 obr. 2004 g."
-ussr_bmd_4_1;BMD-4
-ussr_bmd_4_2;Light tank
-ussr_bmd_4m_shop;BMD-4M
-ussr_bmd_4m_0;"Ob""yekt 960M | BMD-4M"
-ussr_bmd_4m_1;BMD-4M
-ussr_bmd_4m_2;IFV
 ussr_bmp_3_shop;BMP-3
 ussr_bmp_3_0;"Ob""yekt 688A | BMP-3 obr. 2017 g."
 ussr_bmp_3_1;BMP-3

@@ -55,6 +55,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **9K317M "BUK-M3" (TELAR)**
         - **9K317M "BUK-M3" (TADS)**
         - **Ram I**
+        - **Sky Sabre (TEL)**
+        - **Sky Sabre (TADS)**
         - **M163** (Japan / Thailand)
         - **M60A3 TTS** (Japan / Thailand)
         - **Stingray** (Japan / Thailand)
@@ -66,9 +68,11 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **CV 90105 TML**
         - **USS Charles F. Adams**
         - **USS Maryland**
+        - **Z51**
         - **MPK-33**
         - **HMS Saumarez**
         - **HMS Nelson**
+        - **IJN Tsugaru**
         - **Baleno MC-492**
         - **L'Intrépide**
         - **Aisne**
@@ -94,6 +98,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Mosquito F.Mk.II** → **Mosquito F. Mk. II**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito F. Mk. II**.
         - **Mosquito FB Mk VI** → **Mosquito F.B. Mk. VI**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI**.
         - **Mosquito FB Mk VI ASH** → **Mosquito F.B. Mk. VI (A.S.V. Mk. IX)**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI (A.S.V. Mk. IX)**.
+        - **Mosquito** (Sweden / Norway) folder → **Mosquito F.B. Mk. VI / VI (A.S.V. Mk. IV)**.
         - **AH-64E** → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**. It's a butchered to hell v6, but it has the JAGM so it is the v6.
         - **Mi-35P**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Vyertolyet Mi-35P**.
         - **Mi-35** (Japan / Indonesia) → **Mi-35P**. Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Mi-35P**.
@@ -101,9 +106,14 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **T58**: Statcard name → **United Shoe Machinery Corporation | Tank, Combat, Full Tracked: 155mm Gun, T58**.
         - **Stingray**: Statcard name → **Cadillac Gage Stingray**.
         - **M55** → **PzH M 55**. Statcard name → **Pacific Car and Foundry Company | Panzerhaubitze M 55**.
+        - **BMD-4M2**: Statcard name → **OAO «Kurganskij mašinostroityel'nyj zavod» | Ob"yekt 960M2 | Boyevaâ mašina dyesanta BMD-4M2**.
         - **9K317M "BUK-M3" (TELAR)** → **9A317M**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Radiolokaczionnaâ stancziâ obnaružyeniâ czyeli 9A317M "Buk-M3"**.
         - **9K317M "BUK-M3" (TADS)** → **9S18M1-3**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M1-3 "Kupol"**.
+        - **9K317M ""BUK-M3"** folder → **9S18M1-3 / A317M**.
         - **Ram I** → **Ram, Mk. I**. Statcard name → **Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. I**.
+        - **Sky Sabre (TEL)** → **Sky Sabre (iLauncher)**. Statcard name → **Rafael International + MBDA UK Land Ceptor | Sky Sabre (Intelligent Launcher)**.
+        - **Sky Sabre (TADS)** → **Sky Sabre (Giraffe AMB)**. Statcard name → **Rafael International + MBDA UK Land Ceptor | Sky Sabre (Giraffe AMB)**.
+        - **Sky Sabre** folder → **Sky Sabre (iLauncher) / (Giraffe AMB)**.
         - **M163** (Japan / Thailand) → **Ptx. M 163**. Statcard name → **General Electric Company | Pụn Txsu Xākāṣyān Xạttā Jr 20 mm M 163**.
             - Thai package: **M163** → **ปตอ. เอ็ม 163**. Statcard name → **General Electric Company | ปืนต่อสู้อากาศยานอัตตาจร 20 มม เอ็ม 163**.
         - **M60A3 TTS** (Japan / Thailand) → **Th.Hlạk M 60 A3**. Statcard name → **Chrysler Defense Engineering | Rth Thạng M 60 A3**.
@@ -117,17 +127,18 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **M55** (Italy) → **203/25 M55**. Statcard name → **Pacific Car and Foundry Company | Semovente da 203/25 M55**.
         - **M55** (France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55**.
         - **CV 90105 TML** → **CV90105 (TML 105)**: Statcard name → **Hägglund & Söner + GIAT Industries Combat Vehicle 90105 (TML 105)**.
-        - **Mosquito** (Sweden / Norway) folder → **Mosquito F.B. Mk. VI / VI (A.S.V. Mk. IV)**.
         - **USS Charles F. Adams** → **USS Charles F. Adams (DDG-2)**. Statcard name → **Bath Iron Works | Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)**.
         - **USS Maryland** → **USS Maryland (BB-46)**. Statcard name → **New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Colorado-class Battleship | USS Maryland (BB-46) (1945)**.
+        - **Z51** → **Z 51**. Statcard name → **Deutsche Schiff- und Maschinenbau A.G. "Weser" | Zerstörer Typ 1942 | Z 51**.
         - **MPK-33**: Statcard name → **Zyelyenodol'skij sudostroityel'nyj zavod № 340 imyeni A. M. Gor'kogo | Malyj protivolodočnyj korabl' proyekta 1124 ""Al'batros"" | MPK-33**.
         - **HMS Saumarez** → **HMS Saumarez (G 12)**. Statcard name → **R. & W. Hawthorn, Leslie & Co. | S-class | HMS Saumarez (G 12)**.
         - **HMS Nelson** → **HMS Nelson (28)**. Statcard name → **Armstrong Whitworth | Nelson-class | HMS Nelson (28)**.
+        - **IJN Tsugaru** → **Tsugaru**. Statcard name → **Yokosuka Kaigun Kōshō | Tsugaru Gata Fusetsukan (H-10) | Tsugaru (1943)**.
+            - Japanese package: **IJN Tsugaru** → **津輕**. Statcard name → **横須賀海軍工廠 | 津輕型敷設艦 (H-10) | 津輕 (1943)**.
         - **Baleno MC-492** → **Baleno (MC 492)**. Statcard name → **Cantiere navale Triestino | Motocannoniera Convertibile Classe Lampo | Baleno (MC 492)**.
         - **L'Intrépide** → **L'Intrépide (P 630)**. Statcard name → **Constructions mécaniques de Normandie | Escorteur côtier de la classe L'Adroit | L'Intrépide (P 630)**.
         - **Aisne** → **L'Aisne**. Statcard name → **Arsenal de Lorient | Aviso de 1re classe de la classe La Marne | L'Aisne**.
         - **Gloire** → **Montcalm**. Statcard name → **Société Nouvelle des Forges et Chantiers de la Méditerranée | Croiseur léger de la classe La Galissonnière | Montcalm (1946)**. I cannot find any images of Gloire ever having this fit. I can find references to a 1947 refit at Arsenal de Sidi-Abdallah, but I cannot find any images suggesting that this fit of Gloire ever existed. However, this does look *very* similar to Montcalm's 1946 refit at Société Nouvelle des Forges et Chantiers de la Méditerranée in La Seyne, the same place she was also built.
-        - **9K317M ""BUK-M3"** folder → **9S18M1-3 / A317M**.
     - **Mackensen**: Statcard name → **Blohm & Voss | großer Kreuzer Mackensen-Klasse | Ersatz Victoria Louise | großer Kreuzer Mackensen**.
     - Hungarian ground vehicles rework:
         - **Csaba** → **39 M. Csaba pc. gk.**. Statcard name → **Manfréd Weiss | 39 M. Csaba páncélgépkocsi**.
@@ -221,7 +232,9 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **Su-33 (SVP-24-33)**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-10K | Samolyet Su-33 (SVP-24-33)**.
     - **Su-34**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-10V | Samolyet Su-34NVO**.
     - **Mi-8AMTŠ-VN**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Vyertolyet Mi-8AMTŠ-VN "Sapsan"**.
-    - **TKA №164** **TKA № 164**. Statcard name → **Sudostroityel'nyj zavod № 194 im. Marti | Torpyednyj katyer proyekta 103 tip SM-4 | TKA № 164**.
+    - **BMD-4**: Statcard name → **OAO «Kurganskij mašinostroityel'nyj zavod» | Ob"yekt 960 | Boyevaâ mašina dyesanta BMD-4 obr. 2004 g.**.
+    - **TKA №164** → **TKA № 164**. Statcard name → **Sudostroityel'nyj zavod № 194 im. Marti | Torpyednyj katyer proyekta 103 tip SM-4 | TKA № 164**.
+    - **Leipzig/Nurnberg** folder → **Leipzig / Nürnberg**.
 
 ### Weaponry:
 

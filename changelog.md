@@ -249,6 +249,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **BMD-4**: Statcard name → **OAO «Kurganskij mašinostroityel'nyj zavod» | Ob"yekt 960 | Boyevaâ mašina dyesanta BMD-4 obr. 2004 g.**.
     - **TKA №164** → **TKA № 164**. Statcard name → **Sudostroityel'nyj zavod № 194 im. Marti | Torpyednyj katyer proyekta 103 tip SM-4 | TKA № 164**.
     - **Leipzig/Nurnberg** folder → **Leipzig / Nürnberg**.
+    - **St.-Chamond Mle. 1918** → **St.-Chamond mle. 1918**.
 
 ### Weaponry:
 

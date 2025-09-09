@@ -25,6 +25,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 - #### Changes:
 
     - The Japanese package has been moved over to using Japanese numerals where they were used in real life to match the Chinese package currently in development. Writing every change would be a 400 line changelog so this is the 1 line covering it. Any additional listed changes for Japanese stuff are changes made for reasons that are not Japanese numerals. Modern Kanji have also been replaced with the old imperial Kanji where it is historically accurate, especially replacing the character 駆 with 驅 (this is being listed here because it would be another giant changelog) (this is mostly a naval thing that happpened when I was burying through documents for the **Dai 18 Gō** and everything spiraled out of control extremely fast and now I'm stuck here, please help me ahhhhhhhhh)
+    - There is a Ukrainian package now that is literally just the Oplot because that thing is the bane of my existence. I expect it to be expanded in the future as more Ukrainian things come to the game over time, but right now, this is just for the Oplot.
 
 ### Vehicles:
 
@@ -64,6 +65,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **M55** (China / Taiwan)
         - **VT4**
         - **M55** (Italy)
+        - **FSAF SAMP/T (TEL)** (Italy)
+        - **FSAF SAMP/T (TADS)** (Italy)
         - **M55** (France / Belgium)
         - **CV 90105 TML**
         - **USS Charles F. Adams**
@@ -73,6 +76,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **HMS Saumarez**
         - **HMS Nelson**
         - **IJN Tsugaru**
+        - **IJN Hiei**
         - **Baleno MC-492**
         - **L'Intrépide**
         - **Aisne**
@@ -122,10 +126,18 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
             - Thai package: **Stingray** → **ถ.เบา 32**. Statcard name → **Cadillac Gage Stingray | รถถังเบา 32**.
         - **BM Oplot-T** (Japan / Thailand) → **Th.Hlạk 57**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rth Thạng Hlạk 57**.
             - Thai package: **BM Oplot-T** → **ถ.หลัก 57**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | รถถังหลัก 57**.
+            - Ukrainian package: Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Rth Thạng Hlạk 57**.
+            - Thai + Ukrainian package: **BM Oplot-T** → **ถ.หลัก 57**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | รถถังหลัก 57**.
         - **M55** (China / Taiwan): Statcard name → **Pacific Car and Foundry Company | M55 Zì Zou Pào**.
         - **VT4**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT4 Zhu Zhàn Tankè**.
         - **M55** (Italy) → **203/25 M55**. Statcard name → **Pacific Car and Foundry Company | Semovente da 203/25 M55**.
+        - **FSAF SAMP/T (TEL)** (Italy) → **SAMP/T (MLT)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre (Module de Lancement Terrestre)**.
+        - **FSAF SAMP/T (TADS)** (Italy) → **SAMP/T (MRI)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre (Module Radar et IFF)**.
+        - **FSAF SAMP/T** (France) folder → **SAMP/T (MRI) / (MLT)**.
         - **M55** (France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55**.
+        - **FSAF SAMP/T (TEL)** (France) → **SAMP/T (MLT)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre (Module de Lancement Terrestre)**.
+        - **FSAF SAMP/T (TADS)** (France) → **SAMP/T (MRI)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre (Module Radar et IFF)**.
+        - **FSAF SAMP/T (Mamba)** (France) folder → **SAMP/T (MRI) / (MLT)**.
         - **CV 90105 TML** → **CV90105 (TML 105)**: Statcard name → **Hägglund & Söner + GIAT Industries Combat Vehicle 90105 (TML 105)**.
         - **USS Charles F. Adams** → **USS Charles F. Adams (DDG-2)**. Statcard name → **Bath Iron Works | Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)**.
         - **USS Maryland** → **USS Maryland (BB-46)**. Statcard name → **New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Colorado-class Battleship | USS Maryland (BB-46) (1945)**.
@@ -135,6 +147,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **HMS Nelson** → **HMS Nelson (28)**. Statcard name → **Armstrong Whitworth | Nelson-class | HMS Nelson (28)**.
         - **IJN Tsugaru** → **Tsugaru**. Statcard name → **Yokosuka Kaigun Kōshō | Tsugaru Gata Fusetsukan (H-10) | Tsugaru (1943)**.
             - Japanese package: **IJN Tsugaru** → **津輕**. Statcard name → **横須賀海軍工廠 | 津輕型敷設艦 (H-10) | 津輕 (1943)**.
+        - **IJN Hiei** → **Hiei**. Statcard name → **Yokosuka Kaigun Kōshō / Kure Kaigun Kōshō | Kongō Gata Junyōsenkan (B-46) | Hiei (1923)**.
+            - Japanese package: **IJN Hiei** → **比叡**. Statcard name → **横須賀海軍工廠 / 呉海軍工廠 | 金剛型巡洋戦艦 (B-46) | 比叡 (1923)**.
         - **Baleno MC-492** → **Baleno (MC 492)**. Statcard name → **Cantiere navale Triestino | Motocannoniera Convertibile Classe Lampo | Baleno (MC 492)**.
         - **L'Intrépide** → **L'Intrépide (P 630)**. Statcard name → **Constructions mécaniques de Normandie | Escorteur côtier de la classe L'Adroit | L'Intrépide (P 630)**.
         - **Aisne** → **L'Aisne**. Statcard name → **Arsenal de Lorient | Aviso de 1re classe de la classe La Marne | L'Aisne**.

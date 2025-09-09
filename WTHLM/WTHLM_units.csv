@@ -1512,6 +1512,7 @@ shop/group/it_m13_40_group;M. 40 I / III
 shop/group/it_of_leo_group;OF 40 Mk. 1 / ⛨ Leopard 1 A2
 shop/group/it_dardo_group;VCC-80 Dardo / Dardo (HITFIST 30)
 shop/group/it_9a33_35_group;╏ 9A33BM3 / ◔ 35M
+shop/group/it_samp_t_fcs_group;⛨ SAMP/T (MRI) / (MLT)
 shop/group/sm_79_1941_group;S.M.79 AS / bis/T.M. / S.79-B
 shop/group/cr_32_group;CR.32 / 32quarter
 shop/group/ba_65_group;Ba.65 / ⛨ Ju 87 R
@@ -1541,6 +1542,7 @@ shop/group/fr_auf_acra_group;AMX 30 Au F1 / 10M
 shop/group/fr_amx_32_group;AMX 32 P1 / 2
 shop/group/fr_lorraine_elc_group;CA Lorraine / ELC bis
 shop/group/fr_aml_amx_group;AML 90 / AMX 13-90
+shop/group/fr_samp_t_fcs_group;☨ SAMP/T (MRI) / (MLT)
 shop/group/d_371_group;D.371 / 373
 shop/group/d_500_group;D.500 / 501
 shop/group/ms_405_406_group;M.S.405 / 406
@@ -6747,6 +6749,10 @@ jp_battleship_settsu_shop;Settsu
 jp_battleship_settsu_0;Kure Kaigun Kōshō | Kawachi Gata Senkan (A-30) | Settsu
 jp_battleship_settsu_1;Settsu
 jp_battleship_settsu_2;Battleship
+jp_battlecruiser_hiei_shop;Hiei
+jp_battlecruiser_hiei_0;Yokosuka Kaigun Kōshō / Kure Kaigun Kōshō | Kongō Gata Junyōsenkan (B-46) | Hiei (1923)
+jp_battlecruiser_hiei_1;Hiei
+jp_battlecruiser_hiei_2;Battlecruiser
 jp_cruiser_mogami_suzuya_shop;Suzuya
 jp_cruiser_mogami_suzuya_0;Yokosuka Kaigun Kōshō | Nitō Junyōkan | Mogami Gata Junyōkan (C-37) | Suzuya
 jp_cruiser_mogami_suzuya_1;Suzuya
@@ -7077,6 +7083,14 @@ it_c1_ariete_certezza_1;Ariete
 it_c1_ariete_certezza_2;MBT
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+it_samp_t_launcher_shop;⛨ SAMP/T (MLT)
+it_samp_t_launcher_0;⛨ Eurosam | Sol-Air Moyenne Portée/Terrestre (Module de Lancement Terrestre)
+it_samp_t_launcher_1;⛨ SAMP/T (MLT)
+it_samp_t_launcher_2;SPAAM
+it_samp_t_fcs_shop;⛨ SAMP/T (MRI)
+it_samp_t_fcs_0;⛨ Eurosam | Sol-Air Moyenne Portée/Terrestre (Module Radar et IFF)
+it_samp_t_fcs_1;⛨ SAMP/T (MRI)
+it_samp_t_fcs_2;Radar
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 
@@ -7263,6 +7277,14 @@ fr_cv_9035_nl_1;◘ CV9035NL
 fr_cv_9035_nl_2;IFV
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+fr_samp_t_launcher_shop;☨ SAMP/T (MLT)
+fr_samp_t_launcher_0;☨ Eurosam | Sol-Air Moyenne Portée/Terrestre (Module de Lancement Terrestre)
+fr_samp_t_launcher_1;☨ SAMP/T (MLT)
+fr_samp_t_launcher_2;SPAAM
+fr_samp_t_fcs_shop;☨ SAMP/T (MRI)
+fr_samp_t_fcs_0;☨ Eurosam | Sol-Air Moyenne Portée/Terrestre (Module Radar et IFF)
+fr_samp_t_fcs_1;☨ SAMP/T (MRI)
+fr_samp_t_fcs_2;Radar
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 fr_vtb12_mod_shop;VTB 12

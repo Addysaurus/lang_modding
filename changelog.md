@@ -254,6 +254,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 ### Weaponry:
 
 - #### Additions:
+    - Update "Tusk Force" additions:
+        - **X-4**
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -262,6 +264,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 
 - #### Changes:
 
+    - Update "Tusk Force" changes:
+        - **X-4** → **X 4**. Long name → **X 4**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.

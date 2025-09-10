@@ -262,6 +262,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **B61**
         - **KGGB**
         - **BA-FG-230-Lizard-3**
+        - **Drop tank (300 gal.)** (for the **F-2A-MIT (C10)**)
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -275,6 +276,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **RN-28**: Long name → **izd. 28 | RN-28**.
         - **B61** → **B61-8**. Long name → **Bomb, 2000lb, B61 Mod 8**.
         - **BA-FG-230-Lizard-3** **BAFG-230 (Lizard 3)**. Long name → **Bombas Aéreas de Fins Gerais 230 (Lizard 3)**.
+        - **Drop tank (300 gal.)** → **Drop tank (300 gal)**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.

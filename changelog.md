@@ -38,6 +38,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Tornado IDS ASSTA1** (nuke) (Germany, Sweden, France, Italy, UK)
         - **KOR-2**
         - **Su-24M** (nuke) (USSR & China)
+        - **Mosquito NF.Mk.II**
+        - **Mosquito TR.Mk.33**
         - **F/A-18A** (UK / Australia)
         - **AF/A-18A Late** (UK / Australia) (fucking hell that name)
         - **CF-188A** (UK / Canada)
@@ -95,6 +97,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **IDS-Tornado (ASSTA 1)** (nuke) (Germany, Sweden, France, Italy, UK): Statcard name → **Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 1)**.
         - **KOR-2** → **Bye-4**. Statcard name → **Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Samolyet Bye-4**.
         - **Su-24M** (USSR nuke & China nuke) → **Su-24M2**. Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2**.
+        - **Mosquito NF.Mk.II** → **Mosquito N.F. Mk. II**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito N.F. Mk. II**.
+        - **Mosquito TR.Mk.33** → **Mosquito T.R. Mk. 33**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito T.R. Mk. 33**.
         - **F/A-18A** (UK / Australia): Statcard name → **McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet**.
         - **AF/A-18A Late** (UK / Australia) → **F/A-18A (HUG 2.4)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet (Hornet Upgrade Program Phase 2.4)**.
         - **CF-188A** (UK / Canada): Statcard name → **McDonnell Douglas Corporation Model 267 | CF-188A Hornet**.
@@ -252,6 +256,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **TKA №164** → **TKA № 164**. Statcard name → **Sudostroityel'nyj zavod № 194 im. Marti | Torpyednyj katyer proyekta 103 tip SM-4 | TKA № 164**.
     - **Leipzig/Nurnberg** folder → **Leipzig / Nürnberg**.
     - **St.-Chamond Mle. 1918** → **St.-Chamond mle. 1918**.
+    - **Mosquito F.B. Mk. VI / XVIII** folder → **Mosquito F.B. Mk. VI / XVIII / N.F. Mk. II / T.R. Mk. 33** (yeah ik its very long but 2 new mossies).
 
 ### Weaponry:
 

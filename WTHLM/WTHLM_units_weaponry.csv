@@ -100,7 +100,7 @@ weapons/12_7mm_type_77_user_machinegun;<color=@userlogColoredText>12.7 mm</color
 weapons/30mm_pgz_625_user_cannon;<color=@userlogColoredText>30 mm</color> 630 Xíng 30 Háomi Gāoshè Jīguān Pào <color=#ff6f00>ACNN</color>
 weapons/105mm_type_75_user_cannon;<color=@userlogColoredText>105 mm</color> 1975 Shì 105 Háomi Wú Hòuzuòlì Pào <color=#ff6f00>CNN-RCL</color>
 
-//ITALY
+//ITALY GUNS
 weapons/40mm_39_vickers_terni_mod15_17_modif1930_naval_user_cannon;<color=@userlogColoredText>40 mm</color> Cannone Vickers-Terni da 40/39 modello 1915/1917 <color=#ff6f00>ACNN</color>
 weapons/75mm_43M_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm 43 M. harckocsiágyú <color=#ff6f00>CNN</color>
 weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredText>381 mm</color> Cannone Ansaldo-O.T.O. da 381/50 modello 1939 <color=#ff6f00>CNN</color>
@@ -225,6 +225,8 @@ weapons/us_500lb_gbu_62_ljdam_er;<color=@userlogColoredText>289.72 kg</color> Bo
 weapons/us_500lb_gbu_62_ljdam_er/short;GBU-62(V)1/B LJDAM-ER
 weapons/us_2000lb_gbu_64_jdam_er;<color=@userlogColoredText>987 kg</color> Bomb, Guided, GBU-64(V)1/B Joint Direct Attack Munition Extended Range <color=#ff6f00>BMB-GNSS</color>
 weapons/us_2000lb_gbu_64_jdam_er/short;GBU-64(V)1/B
+weapons/us_b61;<color=@userlogColoredText>996.3 kg</color> ☢ Bomb, 2000lb, B61 Mod 8 <color=#ff6f00>BMB-ATM</color>
+weapons/us_b61/short;☢ B61-8
 
 //GERMANY BOMBS
 weapons/sws_50_kg_sprengbombe;<color=@userlogColoredText>50 kg</color> 50 kg Sprengbombe <color=#ff6f00>BMB</color>
@@ -245,6 +247,8 @@ weapons/cz_ofab_100_110_tu_jupiter;"<color=@userlogColoredText>121 kg</color> OF
 weapons/cz_ofab_100_110_tu_jupiter/short;OFAB-100-110TU
 weapons/su_ofab_250_270;<color=@userlogColoredText>268 kg</color> OFAB-250-270 <color=#ff6f00>BMB</color>
 weapons/su_ofab_250_270/short;OFAB-250-270
+weapons/su_rn_28;<color=@userlogColoredText>2983 kg</color> ☢ izd. 28 | RN-28 <color=#ff6f00>BMB-ATM</color>
+weapons/su_rn_28/short;☢ RN-28
 
 //UK BOMBS
 weapons/uk_230lbs;<color=@userlogColoredText>90.7 kg</color> Bomb, H.E., R.F.C., 230-lb, Mk. III <color=#ff6f00>BMB</color>
@@ -255,10 +259,14 @@ weapons/uk_1650lb_sn_he;<color=@userlogColoredText>748 kg</color> Bomb, H.E., S.
 weapons/uk_1650lb_sn_he/short;H.E., S.N., 1650-lb
 
 //JAPAN BOMBS
+weapons/kr_kggb;<color=@userlogColoredText>289.72 kg</color> Hanguk-hyeong GPS Yudo-poktan <color=#ff6f00>BMB-GNSS</color>
+weapons/kr_kggb/short;KGGB
 
 //CHINA BOMBS
 
 //ITALY BOMBS
+weapons/br_lizard_3;<color=@userlogColoredText>277.14 kg</color> Bombas Aéreas de Fins Gerais 230 (Lizard 3) <color=#ff6f00>BMB-LG</color>
+weapons/br_lizard_3/short;BAFG-230 (Lizard 3)
 
 //FRANCE BOMBS
 

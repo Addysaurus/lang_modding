@@ -151,3 +151,7 @@ Thai is transliterated with ISO 11940-1:1998, with modifications made only when 
 ### Urdu
 
 Urdu is translirterated with ISO 15919:2001.
+
+### Korean
+
+Korean is transliterated using the Revised Romanization of Korean transliteration system developed in 2000.

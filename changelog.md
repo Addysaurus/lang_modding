@@ -68,6 +68,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **FSAF SAMP/T (TEL)** (Italy)
         - **FSAF SAMP/T (TADS)** (Italy)
         - **M55** (France / Belgium)
+        - **FSAF SAMP/T (Mamba) (TEL)** (France)
+        - **FSAF SAMP/T (Mamba) (TADS)** (France)
         - **CV 90105 TML**
         - **USS Charles F. Adams**
         - **USS Maryland**
@@ -135,8 +137,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **FSAF SAMP/T (TADS)** (Italy) → **SAMP/T (MRI)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre (Module Radar et IFF)**.
         - **FSAF SAMP/T** (France) folder → **SAMP/T (MRI) / (MLT)**.
         - **M55** (France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55**.
-        - **FSAF SAMP/T (TEL)** (France) → **SAMP/T (MLT)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre (Module de Lancement Terrestre)**.
-        - **FSAF SAMP/T (TADS)** (France) → **SAMP/T (MRI)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre (Module Radar et IFF)**.
+        - **FSAF SAMP/T (Mamba) (TEL)** (France) → **SAMP/T (MLT)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre "Mamba" (Module de Lancement Terrestre)**.
+        - **FSAF SAMP/T (Mamba) (TADS)** (France) → **SAMP/T (MRI)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre "Mamba" (Module Radar et IFF)**.
         - **FSAF SAMP/T (Mamba)** (France) folder → **SAMP/T (MRI) / (MLT)**.
         - **CV 90105 TML** → **CV90105 (TML 105)**: Statcard name → **Hägglund & Söner + GIAT Industries Combat Vehicle 90105 (TML 105)**.
         - **USS Charles F. Adams** → **USS Charles F. Adams (DDG-2)**. Statcard name → **Bath Iron Works | Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)**.
@@ -256,6 +258,10 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 - #### Additions:
     - Update "Tusk Force" additions:
         - **X-4**
+        - **RN-28**
+        - **B61**
+        - **KGGB**
+        - **BA-FG-230-Lizard-3**
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -266,6 +272,9 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 
     - Update "Tusk Force" changes:
         - **X-4** → **X 4**. Long name → **X 4**.
+        - **RN-28**: Long name → **izd. 28 | RN-28**.
+        - **B61** → **B61-8**. Long name → **Bomb, 2000lb, B61 Mod 8**.
+        - **BA-FG-230-Lizard-3** **BAFG-230 (Lizard 3)**. Long name → **Bombas Aéreas de Fins Gerais 230 (Lizard 3)**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.

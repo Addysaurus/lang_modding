@@ -116,7 +116,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **T58**: Statcard name → **United Shoe Machinery Corporation | Tank, Combat, Full Tracked: 155mm Gun, T58**.
         - **Stingray**: Statcard name → **Cadillac Gage Stingray**.
         - **M55** → **PzH M 55**. Statcard name → **Pacific Car and Foundry Company | Panzerhaubitze M 55**.
-        - **BMD-4M2**: Statcard name → **OAO «Kurganskij mašinostroityel'nyj zavod» | Ob"yekt 960M2 | Boyevaâ mašina dyesanta BMD-4M2**.
+        - **BMD-4M2** → **BMD-4M (Sinicza)**. Statcard name → **Boyevaâ mašina dyesanta BMD-4M (Boyevoye otdyelyeniye Sinicza)**.
         - **9K317M "BUK-M3" (TELAR)** → **9A317M**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Radiolokaczionnaâ stancziâ obnaružyeniâ czyeli 9A317M "Buk-M3"**.
         - **9K317M "BUK-M3" (TADS)** → **9S18M1-3**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M1-3 "Kupol"**.
         - **9K317M ""BUK-M3"** folder → **9S18M1-3 / A317M**.
@@ -268,6 +268,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **KGGB**
         - **BA-FG-230-Lizard-3**
         - **Drop tank (300 gal.)** (for the **F-2A-MIT (C10)**)
+        - **CFT** (for the **F-16I**)
+        - **Drop tank (275 gal.)**
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -282,6 +284,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **B61** → **B61-8**. Long name → **Bomb, 2000lb, B61 Mod 8**.
         - **BA-FG-230-Lizard-3** **BAFG-230 (Lizard 3)**. Long name → **Bombas Aéreas de Fins Gerais 230 (Lizard 3)**.
         - **Drop tank (300 gal.)** → **Drop tank (300 gal)**.
+        - **Drop tank (275 gal.)** → **Drop tank (275 gal)**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.

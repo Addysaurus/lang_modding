@@ -149,8 +149,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **USS Maryland** → **USS Maryland (BB-46)**. Statcard name → **New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Colorado-class Battleship | USS Maryland (BB-46) (1945)**.
         - **Z51** → **Z 51**. Statcard name → **Deutsche Schiff- und Maschinenbau A.G. "Weser" | Zerstörer Typ 1942 | Z 51**.
         - **MPK-33**: Statcard name → **Zyelyenodol'skij sudostroityel'nyj zavod № 340 imyeni A. M. Gor'kogo | Malyj protivolodočnyj korabl' proyekta 1124 ""Al'batros"" | MPK-33**.
-        - **HMS Saumarez** → **HMS Saumarez (G 12)**. Statcard name → **R. & W. Hawthorn, Leslie & Co. | S-class | HMS Saumarez (G 12)**.
-        - **HMS Nelson** → **HMS Nelson (28)**. Statcard name → **Armstrong Whitworth | Nelson-class | HMS Nelson (28)**.
+        - **HMS Saumarez** → **HMS Saumarez (G 12)**. Statcard name → **R. & W. Hawthorn, Leslie & Co. / HMS Proserpine | S-class | HMS Saumarez (G 12) (1944)**.
+        - **HMS Nelson** → **HMS Nelson (28)**. Statcard name → **Vickers-Armstrongs / Philadelphia Navy Yard | Nelson-class | HMS Nelson (28) (1944)**.
         - **IJN Tsugaru** → **Tsugaru**. Statcard name → **Yokosuka Kaigun Kōshō | Tsugaru Gata Fusetsukan (H-10) | Tsugaru (1943)**.
             - Japanese package: **IJN Tsugaru** → **津輕**. Statcard name → **横須賀海軍工廠 | 津輕型敷設艦 (H-10) | 津輕 (1943)**.
         - **IJN Hiei** → **Hiei**. Statcard name → **Yokosuka Kaigun Kōshō / Kure Kaigun Kōshō | Kongō Gata Junyōsenkan (B-46) | Hiei (1923)**.

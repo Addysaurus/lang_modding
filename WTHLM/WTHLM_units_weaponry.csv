@@ -65,6 +65,7 @@ weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug K
 weapons/cannonFlzKan_76/short;Flz.Kan. 76
 weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
 weapons/cannonDEFA552A_switzerland/short;Flz.Kan. 65
+weapons/20mm_FlaK38_wirbelwind_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Flugzeugabwehrkanone-Zwilling 38 <color=#ff6f00>ACNN</color>
 weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 <color=#ff6f00>ACNN</color>
 weapons/350mm_45_skl_45_naval_user_cannon;<color=@userlogColoredText>350 mm</color> 35cm Schnelladekanone Lange/45 <color=#ff6f00>CNN</color>
 
@@ -130,14 +131,16 @@ weapons/380mm_45_mle_1935_naval_user_cannon/short;Canon de 380 mm/45 Mle. 1935
 406mm_mk8_mod6_apcbc;"16"" A.P. Mk 8 Mod 6"
 
 //GERMANY AMMUNITION
-15mm_sprgr_notracer;1,5cm Sprgr.Patr.Üb.o.Zerl.
+15mm_sprgr_notracer;1,5cm Spr.Gr.Patr.Üb.o.Zerl.
 20mm_mgr;2cm M.Gesch.Patr.o.Zerl.
-20mm_pzsprgr;2cm Pzsprgr.Patr.L'spur.o.Zerl.
+20mm_pzsprgr;2cm Pz.Spr.Gr.Patr.L'spur.o.Zerl.
 35_228mm_he_i_t_belt;DM 11 A1
 35_228mm_apds_t_belt;DM 23
-37mm_sprgr_18_belt;3,7cm Sprgr.Patr. 18
-37mm_pzgr_belt;3,7cm Pzgr.Patr. 18
-40mm_bofors_flak28_navy_he_t/name;4cm Pzgr.Patr.L'spur.
+37mm_sprgr_18_belt;3,7cm Spr.Gr.Patr. 18
+37mm_pzgr_belt;3,7cm Pz.Gr.Patr. 18
+37mm_pzgr_341;3,7cm Pz.Spr.Gr.Patr.L'spur.o.Zerl.
+37mm_sprgr_341;3,7cm Brand-Sprenggranate Patrone Lange/4,1 (Leuchtspurhülse 37)
+40mm_bofors_flak28_navy_he_t/name;4cm Pz.Gr.Patr.L'spur.
 40mm_bofors_mel58_navy_he/name;M-DN51
 40mm_bofors_mel58_navy_he_tf/name;PFHE Mk 1
 88mm_sprgr_dist_fuse;8,8cm Spr.Gr.Patr. L/4,5 (Kpf.Z.)
@@ -227,6 +230,10 @@ weapons/us_2000lb_gbu_64_jdam_er;<color=@userlogColoredText>987 kg</color> Bomb,
 weapons/us_2000lb_gbu_64_jdam_er/short;GBU-64(V)1/B
 weapons/us_b61;<color=@userlogColoredText>996.3 kg</color> ☢ Bomb, 2000lb, B61 Mod 8 <color=#ff6f00>BMB-ATM</color>
 weapons/us_b61/short;☢ B61-8
+weapons/us_3000lb_m118;<color=@userlogColoredText>1369.8 kg</color> Bomb, 3000lb, GP, M118 <color=#ff6f00>BMB</color>
+weapons/us_3000lb_m118/short;M118
+weapons/us_3000lb_m118_90;<color=@userlogColoredText>1369.8 kg</color> Bomb, 3000lb, GP, M118 <color=#ff6f00>BMB</color>
+weapons/us_3000lb_m118_90/short;M118
 
 //GERMANY BOMBS
 weapons/sws_50_kg_sprengbombe;<color=@userlogColoredText>50 kg</color> 50 kg Sprengbombe <color=#ff6f00>BMB</color>
@@ -425,6 +432,30 @@ weapons/il_derby_sam/short;I-Derby SR
 weapons/160mm_spyder_launcher_user_cannon;SPYDER <color=#ff6f00>LCH</color>
 
 //UNCATEGORIZED MISSILES
+
+//USA TORPEDOES
+
+//GERMANY TORPEDOES
+
+//USSR TORPEDOES
+weapons/su_45_54vt_1954_torpedo;<color=@userlogColoredText>450 mm</color> Torpyeda vysotnogo torpyedomyetaniâ 45-54VT <color=#ff6f00>TRP</color>
+weapons/su_45_54vt_1954_torpedo/short;45-54VT
+
+//UK TORPEDOES
+
+//JAPAN TORPEDOES
+
+//CHINA TORPEDOES
+
+//ITALY TORPEDOES
+
+//FRANCE TORPEDOES
+
+//SWEDEN TORPEDOES
+
+//ISRAEL TORPEDOES
+
+//UNCATEGORIZED TORPEDOES
 
 //USA FUEL TANKS
 weapons/us_275gal_fuse_clip_drop_tank_1;Drop tank (275 gal)
@@ -1834,8 +1865,6 @@ weapons/us_500lb_mk_82_ldgp_default;<color=@userlogColoredText>240.86 kg</color>
 weapons/us_1000lb_mk_83_ldgp;<color=@userlogColoredText>446.8 kg</color> Bomb, 1000lb, GP, Mk 83 Mod 0 <color=#ff6f00>BMB</color>
 weapons/us_1000lb_mk_83_ldgp_default;<color=@userlogColoredText>446.8 kg</color> Bomb, 1000lb, GP, Mk 83 Mod 0 <color=#ff6f00>BMB</color>
 weapons/us_2000lb_mk_84_ldgp;<color=@userlogColoredText>893.6 kg</color> Bomb, 2000lb, GP, Mk 84 Mod 0 <color=#ff6f00>BMB</color>
-weapons/us_3000lb_m118;<color=@userlogColoredText>1360.78 kg</color> Bomb, 3000lb, GP, M118 <color=#ff6f00>BMB</color>
-weapons/us_3000lb_m118/short;M118
 weapons/us_4000lb_anm56_box;<color=@userlogColoredText>1981.56 kg</color> Bomb, 4000lb, LC, AN/M56 <color=#ff6f00>BMB</color>
 weapons/us_4000lb_anm56_box/short;AN/M56
 weapons/us_250lb_mk_81_ldgp/short;Mk 81 Mod 0

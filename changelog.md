@@ -270,6 +270,11 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Drop tank (300 gal.)** (for the **F-2A-MIT (C10)**)
         - **CFT** (for the **F-16I**)
         - **Drop tank (275 gal.)**
+        - **45-54VT**
+        - **M118 3000 lb** (another one)
+        - **20 mm FlaK38 cannon**
+        - **Pzgr.** (for the new **Gerät 341**)
+        - **Sprgr.** (for the new **Gerät 341**)
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -285,6 +290,13 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **BA-FG-230-Lizard-3** **BAFG-230 (Lizard 3)**. Long name → **Bombas Aéreas de Fins Gerais 230 (Lizard 3)**.
         - **Drop tank (300 gal.)** → **Drop tank (300 gal)**.
         - **Drop tank (275 gal.)** → **Drop tank (275 gal)**.
+        - **45-54VT**: Long name → **Torpyeda vysotnogo torpyedomyetaniâ 45-54VT**.
+        - **M118 3000 lb** → **M118**. Long name → **Bomb, 3000lb, GP, M118**.
+        - **20 mm FlaK38 cannon** → **2cm Flugzeugabwehrkanone-Zwilling 38**.
+        - **Pzgr.** (for the new **Gerät 341**) → **3,7cm Pz.Spr.Gr.Patr.L'spur.o.Zerl.**.
+            - Full ammunition names package: **Pzgr.** → **3,7cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
+        - **Sprgr.** (for the new **Gerät 341**) → **3,7cm Bd.-Spr.Gr.Patr. L/4,1 (Lh. 37)**.
+            - Full ammunition names package: **Sprgr.** → **3,7cm Brand-Sprenggranate Patrone Lange/4,1 (Leuchtspurhülse 37)**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.
@@ -307,6 +319,12 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - Corrected the missing type tag on the **SNEB F1 Type 26P** (it's unused anyway).
     - **8,8cm Sprgr.Patr.L/4,5 (Kz)** → **8,8cm Spr.Gr.Patr. L/4,5 (Kpf.Z.)**.
         - Full ammunition names package: **8,8cm Sprenggranate Patrone Ladung/4,5 (Kopfzunder)** → **8,8cm Sprenggranate Patrone Lange/4,5 (Kopfzünder)** (the incorrect use of "Ladung" was based on an American document from 1953 misunderstanding what L/ stood for).
+    **M118**: Mass tag → 1369.8 kg.
+    - **2cm Pzsprgr.Patr.L'spur.o.Zerl.** → **2cm Pz.Spr.Gr.Patr.L'spur.o.Zerl.**.
+    - **1,5cm Sprgr.Patr.Üb.o.Zerl.** → **1,5cm Spr.Gr.Patr.Üb.o.Zerl.**.
+    - **3,7cm Sprgr.Patr. 18** → **3,7cm Spr.Gr.Patr. 18**.
+    - **3,7cm Pzgr.Patr. 18** → **3,7cm Pz.Gr.Patr. 18**.
+    - **4cm Pzgr.Patr.L'spur.** → **4cm Pz.Gr.Patr.L'spur.**.
 
 ### Engines:
 

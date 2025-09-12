@@ -273,12 +273,15 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **45-54VT**
         - **M118 3000 lb** (another one)
         - **20 mm FlaK38 cannon**
+        - **37 mm Gerät 341 cannon**
         - **Pzgr.** (for the new **Gerät 341**)
         - **Sprgr.** (for the new **Gerät 341**)
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
         - **350 mm Psgr. L/3,6 APCBC**
+        - **Nipolit** (explosive type)
+        - **PBXN-9** (explosive type)
     - **Fuel tank for SEPR 841** (forgot to add this last update)
 
 - #### Changes:
@@ -293,6 +296,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **45-54VT**: Long name → **Torpyeda vysotnogo torpyedomyetaniâ 45-54VT**.
         - **M118 3000 lb** → **M118**. Long name → **Bomb, 3000lb, GP, M118**.
         - **20 mm FlaK38 cannon** → **2cm Flugzeugabwehrkanone-Zwilling 38**.
+        - **37 mm Gerät 341 cannon** → **3,7cm Gerät 341**.
         - **Pzgr.** (for the new **Gerät 341**) → **3,7cm Pz.Spr.Gr.Patr.L'spur.o.Zerl.**.
             - Full ammunition names package: **Pzgr.** → **3,7cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
         - **Sprgr.** (for the new **Gerät 341**) → **3,7cm Bd.-Spr.Gr.Patr. L/4,1 (Lh. 37)**.

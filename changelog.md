@@ -276,12 +276,12 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **37 mm Gerät 341 cannon**
         - **Pzgr.** (for the new **Gerät 341**)
         - **Sprgr.** (for the new **Gerät 341**)
+        - **Nipolit** (explosive type)
+        - **PBXN-9** (explosive type)
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
         - **350 mm Psgr. L/3,6 APCBC**
-        - **Nipolit** (explosive type)
-        - **PBXN-9** (explosive type)
     - **Fuel tank for SEPR 841** (forgot to add this last update)
 
 - #### Changes:

@@ -118,8 +118,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **M55** → **PzH M 55**. Statcard name → **Pacific Car and Foundry Company | Panzerhaubitze M 55**.
         - **BMD-4M2** → **BMD-4M (Sinicza)**. Statcard name → **Boyevaâ mašina dyesanta BMD-4M (Boyevoye otdyelyeniye Sinicza)**.
         - **9K317M "BUK-M3" (TELAR)** → **9A317M**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Radiolokaczionnaâ stancziâ obnaružyeniâ czyeli 9A317M "Buk-M3"**.
-        - **9K317M "BUK-M3" (TADS)** → **9S18M1-3**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M1-3 "Kupol"**.
-        - **9K317M ""BUK-M3"** folder → **9S18M1-3 / A317M**.
+        - **9K317M "BUK-M3" (TADS)** → **9S18M3**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M3 "Kupol"**.
+        - **9K317M ""BUK-M3"** folder → **9S18M3 / A317M**.
         - **Ram I** → **Ram, Mk. I**. Statcard name → **Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. I**.
         - **Sky Sabre (TEL)** → **Sky Sabre (iLauncher)**. Statcard name → **Rafael International + MBDA UK Land Ceptor | Sky Sabre (Intelligent Launcher)**.
         - **Sky Sabre (TADS)** → **Sky Sabre (Giraffe AMB)**. Statcard name → **Rafael International + MBDA UK Land Ceptor | Sky Sabre (Giraffe AMB)**.

@@ -278,6 +278,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Sprgr.** (for the new **Gerät 341**)
         - **Nipolit** (explosive type)
         - **PBXN-9** (explosive type)
+        - **9M317MA AAM** (launcher weapon for the **9A317M**)
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -301,6 +302,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
             - Full ammunition names package: **Pzgr.** → **3,7cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
         - **Sprgr.** (for the new **Gerät 341**) → **3,7cm Bd.-Spr.Gr.Patr. L/4,1 (Lh. 37)**.
             - Full ammunition names package: **Sprgr.** → **3,7cm Brand-Sprenggranate Patrone Lange/4,1 (Leuchtspurhülse 37)**.
+        - **9M317MA AAM** (launcher weapon for the **9A317M**) → **9P331M**. Long name → **Puskovaâ ustanovka 9P331M**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.

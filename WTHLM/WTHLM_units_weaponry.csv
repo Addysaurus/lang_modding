@@ -391,10 +391,16 @@ us_iris_t_sl;IRIS-T SLM
 weapons/us_iris_t_sl/short;IRIS-T SLM
 
 //USSR MISSILES
-weapons/360mm_9m317m_user_cannon;Puskovaâ ustanovka 9P331M <color=#ff6f00>LCH</color>
+weapons/209mm_9M33A3_launcher_user_cannon;Puskovoye ustrojstvo 9P35M2 <color=#ff6f00>LCH</color>
+weapons/360mm_9m317m_user_cannon;Puskovoye ustrojstvo 9P331M <color=#ff6f00>LCH</color>
 weapons/360mm_9m317m_user_cannon/short;9P331M
+360mm_9m317ma;9M317MA
 
 //UK MISSILES
+weapons/166mm_camm_user_cannon;MBDA Intelligent Launcher <color=#ff6f00>LCH</color>
+weapons/166mm_camm_user_cannon/short;iLauncher
+166mm_camm;Common Anti-Air Modular Missile
+166mm_camm_er;Common Anti-Air Modular Missile Extended Range
 
 //JAPAN MISSILES
 weapons/jp_aam3;90 Shiki Sora Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
@@ -422,6 +428,9 @@ weapons/130mm_FB_10_rocket_launcher;L/FB10 Dì Duì Kōng Daodàn Fāshè Chē <
 //ITALY MISSILES
 
 //FRANCE MISSILES
+weapons/380mm_aster_30_user_cannon;Système de Lancement Vertical A50 <color=#ff6f00>LCH</color>
+weapons/380mm_aster_30_user_cannon/short;SYLVER A50
+380mm_aster_30;Aster 30 Block 0
 
 //SWEDEN MISSILES
 us_iris_t;lvrb 98
@@ -4998,7 +5007,6 @@ weapons/163mm_roland_2_launcher_user_cannon;Roland SAM <color=#ff6f00>LCH</color
 weapons/163mm_roland_launcher_user_cannon;Roland SAM <color=#ff6f00>LCH</color>
 weapons/239mm_9M331_user_cannon;9M331 SAM
 weapons/239mm_HQ_17_user_cannon;HQ17 SAM
-weapons/209mm_9M33A3_launcher_user_cannon;9K33M3 <color=#ff6f00>LCH</color>
 weapons/163mm_vt_1_launcher_user_cannon;VT1 SAM
 weapons/163mm_roland_vt_1_launcher_user_cannon;Roland SAM <color=#ff6f00>LCH</color>
 165mm_vt_1;VT1

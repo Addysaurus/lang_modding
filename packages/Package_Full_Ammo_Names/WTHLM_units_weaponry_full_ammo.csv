@@ -2,12 +2,8 @@
 //USA MISSILES
 us_aim_9x;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder
 
-//UK AMMUNITION
-57mm_qf_ap;"Cartridge, Q.F., 6-pr., Cordite M.D., Steel Shell, Mk. XIV (Shell, Q.F.,
-A.P., 6-pr. 6-cwt., Mk. V)"
-57mm_qf_he;"Cartridge, Q.F., 6-pr., Cordite M.D., Common Shell, Mk. III (Shell,
-Q.F., H.E.T., 6-pr. 6-cwt., Mk. I)"
-381mm_mark_22b_6crh_apc;Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb
+//USSR MISSILES
+360mm_9m317ma;Zyenitnaâ upravlâyemaâ rakyeta 9M317MA
 
 //GERMANY AMMUNITION
 15mm_sprgr_notracer;1,5cm Sprenggranate Patrone Übungs ohne Zerleger
@@ -23,6 +19,13 @@ Q.F., H.E.T., 6-pr. 6-cwt., Mk. I)"
 88mm_sprgr_dist_fuse;8,8cm Sprenggranate Patrone Lange/4,5 (Kopfzünder)
 350_psgr_l_4_2_apc;35cm Sprenggranate Lange/4,2 (Bodenzünder)
 350_psgr_l_3_6_apc;35cm Panzersprenggranate Lange/3,6
+
+//UK AMMUNITION
+57mm_qf_ap;"Cartridge, Q.F., 6-pr., Cordite M.D., Steel Shell, Mk. XIV (Shell, Q.F.,
+A.P., 6-pr. 6-cwt., Mk. V)"
+57mm_qf_he;"Cartridge, Q.F., 6-pr., Cordite M.D., Common Shell, Mk. III (Shell,
+Q.F., H.E.T., 6-pr. 6-cwt., Mk. I)"
+381mm_mark_22b_6crh_apc;Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb
 
 //CHINA AMMUNITION
 30mm_china_HE;CS/BAH06 Xíng 30 Háomi Ahāshāng Bàopò Ránshāo Dàn

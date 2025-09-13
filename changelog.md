@@ -231,7 +231,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **Scharnhorst**: Statcard name → **Kriegsmarinewerft Wilhelmshaven | Schlachtschiff Scharnhorst-Klasse | Scharnhorst (1943)**.
     - **Gneisenau**: Statcard name → **Deutsche Werke Kiel / Deutsche Werke Gotenhafen | Schlachtschiff Scharnhorst-Klasse | Gneisenau (1943)**.
     - **Bismarck**: Statcard name → **Blohm & Voss | Schlachtschiff Bismarck-Klasse | Bismarck**.
-    - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob"yekt 184-5 | T-72B3A obr. 2024 g.** (this change is a result of me not understanding that Russian has an instrumental case and thus it should be вагоностроительный завод as opposed to вагоностроительным заводом, also why tf does Russian have 6 cases jesus christ).
+    - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob"yekt 184-5 | Tank T-72B3A obr. 2024 g.** (this change is a result of me not understanding that Russian has an instrumental case and thus it should be вагоностроительный завод as opposed to вагоностроительным заводом, also why tf does Russian have 6 cases jesus christ).
     - **F-111A**: Statcard name → **General Dynamics Corporation + Grumman Aircraft Engineering Corporation | F-111A "Aardvark"**.
     - **F-111F**: Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111F "Aardvark"**.
     - **F-111C**: Statcard name → **General Dynamics Corporation + Grumman Aerospace Corporation | F-111C "Aardvark"**.
@@ -253,6 +253,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **Su-34**: Statcard name → **AO «Kompaniâ Sukhoj» | izd. T-10V | Samolyet Su-34NVO**.
     - **Mi-8AMTŠ-VN**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Vyertolyet Mi-8AMTŠ-VN "Sapsan"**.
     - **BMD-4**: Statcard name → **OAO «Kurganskij mašinostroityel'nyj zavod» | Ob"yekt 960 | Boyevaâ mašina dyesanta BMD-4 obr. 2004 g.**.
+    - **9A33BM2** (Germany & UK / India): Statcard name → **Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM2 "Osa-AK"**.
+    - **9A33BM3** (USSR & Italy / Romania): Statcard name → **Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM3 "Osa-AKM"**.
     - **TKA №164** → **TKA № 164**. Statcard name → **Sudostroityel'nyj zavod № 194 im. Marti | Torpyednyj katyer proyekta 103 tip SM-4 | TKA № 164**.
     - **Leipzig/Nurnberg** folder → **Leipzig / Nürnberg**.
     - **St.-Chamond Mle. 1918** → **St.-Chamond mle. 1918**.
@@ -279,6 +281,12 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Nipolit** (explosive type)
         - **PBXN-9** (explosive type)
         - **9M317MA AAM** (launcher weapon for the **9A317M**)
+        - **9M317MA**
+        - **Aster-30 AAM** (launcher weapon for the **SAMP/T (MLT)**)
+        - **Aster-30**
+        - **CAMM AAM**
+        - **CAMM**
+        - **CAMM-ER**
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -302,7 +310,16 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
             - Full ammunition names package: **Pzgr.** → **3,7cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
         - **Sprgr.** (for the new **Gerät 341**) → **3,7cm Bd.-Spr.Gr.Patr. L/4,1 (Lh. 37)**.
             - Full ammunition names package: **Sprgr.** → **3,7cm Brand-Sprenggranate Patrone Lange/4,1 (Leuchtspurhülse 37)**.
-        - **9M317MA AAM** (launcher weapon for the **9A317M**) → **9P331M**. Long name → **Puskovaâ ustanovka 9P331M**.
+        - **9M317MA AAM** (launcher weapon for the **9A317M**) → **9P331M**. Long name → **Puskovoye ustrojstvo 9P331M**.
+        - **9M317MA**:
+            - Full ammunition names package: **9M317MA** → **Zyenitnaâ upravlâyemaâ rakyeta 9M317MA**.
+        - **Aster-30 AAM** (launcher weapon for the **Aster 30 Block 0**) → **SYLVER A50**. Long name → **Système de Lancement Vertical A50**.
+        - **Aster-30** → **Aster 30 Block 1**.
+        - **CAMM AAM** (launcher weapon for the **Sky Sabre (iLauncher)**) → **iLauncher**. Long name → **MBDA Intelligent Launcher**.
+        - **CAMM**:
+            - Full ammunition names package: **CAMM** → **Common Anti-Air Modular Missile**.
+        - **CAMM-ER**:
+            - Full ammunition names package: **CAMM-ER** → **Common Anti-Air Modular Missile Extended Range**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.
@@ -331,6 +348,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **3,7cm Sprgr.Patr. 18** → **3,7cm Spr.Gr.Patr. 18**.
     - **3,7cm Pzgr.Patr. 18** → **3,7cm Pz.Gr.Patr. 18**.
     - **4cm Pzgr.Patr.L'spur.** → **4cm Pz.Gr.Patr.L'spur.**.
+    - **9K33M3** launcher → **Puskovoye ustrojstvo 9P35M2**.
 
 ### Engines:
 

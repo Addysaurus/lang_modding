@@ -287,6 +287,9 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **CAMM AAM**
         - **CAMM**
         - **CAMM-ER**
+        - **125 mm KBA-3 cannon**
+        - **7.62 mm KT-7.62 machine gun**
+        - **12.7 mm KT-12.7 machine gun**
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -315,11 +318,14 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
             - Full ammunition names package: **9M317MA** → **Zyenitnaâ upravlâyemaâ rakyeta 9M317MA**.
         - **Aster-30 AAM** (launcher weapon for the **Aster 30 Block 0**) → **SYLVER A50**. Long name → **Système de Lancement Vertical A50**.
         - **Aster-30** → **Aster 30 Block 1**.
-        - **CAMM AAM** (launcher weapon for the **Sky Sabre (iLauncher)**) → **iLauncher**. Long name → **MBDA Intelligent Launcher**.
+        - **CAMM AAM** (launcher weapon for the **Sky Sabre (iLauncher)**) → **iLauncher**. Long name → **Intelligent Launcher**.
         - **CAMM**:
             - Full ammunition names package: **CAMM** → **Common Anti-Air Modular Missile**.
         - **CAMM-ER**:
             - Full ammunition names package: **CAMM-ER** → **Common Anti-Air Modular Missile Extended Range**.
+        - **125 mm KBA-3 cannon** → **KBA-3**.
+        - **7.62 mm KT-7.62 machine gun** → **KT-7,62**.
+        - **12.7 mm KT-12.7 machine gun** → **KT-12,7**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.

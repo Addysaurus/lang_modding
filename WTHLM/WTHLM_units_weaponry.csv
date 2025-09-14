@@ -73,6 +73,9 @@ weapons/350mm_45_skl_45_naval_user_cannon;<color=@userlogColoredText>350 mm</col
 //USSR GUNS
 weapons/gun_pk3l;<color=@userlogColoredText>7.62 mm</color> 6P6 | PK <color=#ff6f00>MG</color>
 weapons/gun_pk3/shortl;PK
+weapons/7_62mm_KT_user_machinegun;<color=@userlogColoredText>7.62 mm</color> KT-7,62 <color=#ff6f00>MG</color>
+weapons/12_7mm_KT_user_cannon;<color=@userlogColoredText>12.7 mm</color> KT-12,7 <color=#ff6f00>MG</color>
+weapons/125mm_KBA_3_user_cannon;<color=@userlogColoredText>125 mm</color> KBA-3 <color=#ff6f00>CNN-LCH</color>
 weapons/152mm_ML20S_user_cannon;<color=@userlogColoredText>152 mm</color> 52-PS-544S | ML-20S obr. 1937/43 gg. <color=#ff6f00>CNN-HWZ</color>
 weapons/305mm_52_obr1907_mariya_naval_user_cannon;<color=@userlogColoredText>305 mm</color> 305-mm/52 obr. 1907 g. <color=#ff6f00>CNN</color>
 weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color> 406-mm/50 B-37 obr. 1937 g. <color=#ff6f00>CNN</color>
@@ -397,7 +400,7 @@ weapons/360mm_9m317m_user_cannon/short;9P331M
 360mm_9m317ma;9M317MA
 
 //UK MISSILES
-weapons/166mm_camm_user_cannon;MBDA Intelligent Launcher <color=#ff6f00>LCH</color>
+weapons/166mm_camm_user_cannon;Intelligent Launcher <color=#ff6f00>LCH</color>
 weapons/166mm_camm_user_cannon/short;iLauncher
 166mm_camm;Common Anti-Air Modular Missile
 166mm_camm_er;Common Anti-Air Modular Missile Extended Range

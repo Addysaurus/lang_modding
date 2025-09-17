@@ -1,6 +1,22 @@
 <ID|readonly|noverify>;<English>
+mainmenu/btnCreatePreset;Add preset
+msgbox/emptyPresetAlreadyExist;An empty weapon preset already exists. To create another empty weapon preset, you need to make changes to the existing one.
+exp_reasons/scout_uav;Target scouted (UAV in the air)
+MENU_LANG_CUTTING_START;
+unit_type/human;Infantry
 squadMember/selected_country_not_available;Selected country is not available
+flightmenu/btnBailoutHuman;Get rid of the soldier
+flightmenu/questionBailoutHuman;Are you sure you want to get rid of the soldier?
+weaponry/presetCompositionHint;Weapon preset for quick switching in battle
+armor_class/glass;Glass
+armor_class/composite_uhh_tank;High hardness composite armor
 armor_class/sand;Sand
+xray/targetingPod;Targeting pod
+xray/laserDesignator;Laser designator
+xray/wing_control;Targeting pod
+content/tag/historical/disclaimer;Historical – uses a real or previously existing camouflage applied to a similar vehicle or platform. Camouflages of this type are visible to all players regardless of custom content display settings.
+content/tag/semihistorical/disclaimer;Semi-historical – based on a real camouflage pattern, but some details or the vehicle it is applied to may differ from the original. Camouflages of this type are visible to all players regardless of custom content display settings.
+content/tag/fictional/disclaimer;Fictional – a product of the author's imagination and may not have a real-world prototype. Camouflages of this type may be hidden from view by other players in the game settings.
 armor_class/graphite8;Graphite
 armor_class/graphite_sandwitch12;Graphite sandwich
 armor_class/kevlar_sandwitch10;Kevlar sandwich
@@ -11,8 +27,10 @@ actionBarItem/slave_unit_spawn;Deploy launcher
 actionBarItem/slave_unit_switch;Switch between the radar and launcher vehicles
 actionBarItem/anti_air_complex_menu;Full-screen control of the radar and firing of the anti-aircraft systems
 guidance_method/ir;IR
-guidance_method/tv;CCD 
+guidance_method/tv;CCD
 actionBarItem/multi_functional_menu;Multi-function Menu
+armor_class/ERA_Duplet;"""Duplet"" ERA"
+armor_class/ERA_Nizh;"""Nizh"" ERA"
 armor_class/rubber_metal_screens;Rubber-metal screens
 workshop/wtcs_trophy_1;'WTCS Esports Trophy I'
 workshop/leviathans;'Leviathans'
@@ -21,6 +39,10 @@ workshop/hornets_sting;'Hornet’s Sting'
 userlog/no_reward_and_compensation_due_to_inactivity;You did not take any active actions in this battle, so no rewards, compensation of expenses, and achievement progress have been awarded for it.
 battlePass/seasonName/19;"""First Sample"""
 battlePass/seasonName/20;"""Flying Dragon"""
+mainmenu/btnGotoAchievement;Go to the task
+mainmenu/clickOnLabel;Click on this label to learn more
+mainmenu/vehicleAvailableByEvent;"This vehicle can be obtained in the ""{eventName}"" event"
+mainmenu/eventUnit;A vehicle receiving event is available
 loading_bg/login_layer_iris_slm_launch;IRIS-T SLM
 loading_bg/login_layer_rah_66_comanche;RAH-66
 loading_bg/login_layer_pgz_625_fb10;CS/SA5
@@ -30,17 +52,49 @@ loading_bg/login_layer_t_44_po/desc;"Reward for level 100 in the ""First Sample"
 loading_bg/login_layer_wz_141;WZ-141-1
 loading_bg/login_layer_wz_141/desc;"Reward for level 100 in the ""Flying Dragon"" Battle Pass Season"
 loading_bg/login_layer_ship_marathon_hiburi;IJN Shisaka
+loading_bg/login_layer_germ_battlecruiser_mackensen;Mackensen
+loading_bg/login_layer_battleship_nelson;HMS Nelson
+loading_bg/login_layer_m55;M55
+loading_bg/login_layer_oplot_t;BM Oplot-T
+loading_bg/login_layer_fire_and_forget;Attack helicopters
+msgbox/steam/rate_review_short;Tell other players why you like War Thunder!
 item/boat_skin_trophy;Random camouflage (Coastal fleet)
 item/boat_skin_trophy/shortTypeDesc;Upon purchase, it automatically adds a camouflage for a random purchased vehicle that matches the conditions of use.
 item/ship_skin_trophy;Random camouflage (Bluewater fleet)
 item/ship_skin_trophy/shortTypeDesc;Upon purchase, it automatically adds a camouflage for a random purchased vehicle that matches the conditions of use.
+btn_share_impressions;Share your impressions
+userlog/scouted_with_uav;UAV in the air
+userlog/scouted_without_uav;without UAV
+MENU_LANG_USERLOG_CUTTING_START;
 wishlist/vehicleAlreadyExists;This vehicle is already in your wishlist.
 hitsAnalisys/saveHitFile;Save the shot
 profile_header_t_44_po/name;T-44 First Modification
 profile_header_victory_day_2025/name;Victory Day
 profile_header_armored_apex/name;Armored Apex
+frame_wooden_silver_insert_cherry/name;Wooden with silver insert, cherry
+frame_wooden_silver_insert_grey/name;Wooden with silver insert, grey
+frame_wooden_silver_insert_pine/name;Wooden with silver insert, pine
+frame_wooden_silver_insert_walnut/name;Wooden with silver insert, walnut
+frame_wooden_bronze_insert_black/name;Wooden with bronze insert, black
+frame_wooden_golden_insert_pine/name;Wooden with golden insert, pine
+frame_wooden_golden_insert_walnut/name;Wooden with golden insert, walnut
+frame_metal_silver_inlay/name;Metal with inlay, silver
+frame_metal_golden_red_inlay/name;Metal with red inlay, golden
+frame_silver_figured/name;Silver figured
+frame_silver_figured_textured/name;Silver figured textured
+frame_silver_figured_blue_inlay/name;Silver figured with blue inlay
+frame_silver_figured_star_inlay/name;Silver figured with golden star inlay
+frame_neon_green/name;Neon, green
+frame_neon_orange/name;Neon, orange
+frame_neon_purple/name;Neon, purple
+frame_neon_multicolored/name;Neon, multi-colored
+frame_neon_double_blue/name;Neon double, blue
+frame_neon_double_green/name;Neon double, green
+frame_neon_double_red/name;Neon double, red
+frame_neon_double_bluered/name;Neon double, blue-red
 frame_titan/name;Fresh Paint
 frame_armored_apex/name;Green Knight
+frame_top_secret/name;TOP SECRET
 profile/unlockConditions/allowActionText;You can instantly complete a task without having to satisfy its conditions.
 profile/unlockConditions/goToTheTask;Click to go to the task.
 profile/achievements/totalReceived;Achievements and challenges completed: {count}
@@ -63,3 +117,8 @@ tooltip/pinWeaponSelector;Pin selector
 tooltip/unpinWeaponSelector;Unpin selector
 tooltip/bulletBeltSelectRequired;To use this belt, you need to install the armament:
 tooltip/shellSelectRequired;To use this shell, you need to install the armament:
+actionBarItem/ship_damage_control1;Damage Control - mode 1
+actionBarItem/ship_damage_control2;Damage Control - mode 2
+actionBarItem/ship_damage_control3;Damage Control - mode 3
+unlocks/frame;Profile icon frame
+hud/radarButtons/exitGamepadNav;Exit control mode

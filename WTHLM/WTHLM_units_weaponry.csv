@@ -270,7 +270,7 @@ weapons/uk_1650lb_sn_he;<color=@userlogColoredText>748 kg</color> Bomb, H.E., S.
 weapons/uk_1650lb_sn_he/short;H.E., S.N., 1650-lb
 
 //JAPAN BOMBS
-weapons/kr_kggb;<color=@userlogColoredText>289.72 kg</color> Hanguk-hyeong GPS Yudo-poktan <color=#ff6f00>BMB-GNSS</color>
+weapons/kr_kggb;<color=@userlogColoredText>316 kg</color> Hanguk-hyeong GPS Yudo-poktan <color=#ff6f00>BMB-GNSS</color>
 weapons/kr_kggb/short;KGGB
 
 //CHINA BOMBS
@@ -306,6 +306,8 @@ weapons/in_nasser_240/short;Naṣr 240
 //JAPAN ROCKETS
 
 //CHINA ROCKETS
+weapons/cn_fs_70;FS70 Hángkōng Huojiàndàn <color=#ff6f00>RKT</color>
+weapons/cn_fs_70/short;FS70
 weapons/cn_fire_snake_70a;FS70A Hángkōng Zhìdao Huojiàndàn <color=#ff6f00>RKT-LG</color>
 weapons/cn_fire_snake_70a/short;FS70A
 
@@ -1207,8 +1209,6 @@ weapons/su_s8_ko_rocket;S-8KO rocket
 weapons/su_s8_ko_rocket/short;S-8KO
 weapons/su_s_8m_rocket;S-8M rocket
 weapons/su_s_8m_rocket/short;S-8M
-weapons/cn_fs_70;FS70 rocket
-weapons/cn_fs_70/short;FS70
 weapons/cn_type90_he;Type 90-1 (HE warhead) rocket
 weapons/cn_type90_he/short;Type 90-1 (HE)
 weapons/cn_type90_heat;Type 90-1 (HEAT warhead) rocket

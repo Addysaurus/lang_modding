@@ -357,6 +357,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **3,7cm Pzgr.Patr. 18** → **3,7cm Pz.Gr.Patr. 18**.
     - **4cm Pzgr.Patr.L'spur.** → **4cm Pz.Gr.Patr.L'spur.**.
     - **9K33M3** launcher → **Puskovoye ustrojstvo 9P35M2**.
+    - **FS70**: Long name → **FS70 Hángkōng Huojiàndàn**.
 
 ### Engines:
 

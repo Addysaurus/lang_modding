@@ -196,6 +196,7 @@ b_mk_1z/name/short;I
 30mm_dtc10_30;L/DTC10-30
 105mm_type_75_heat;DTP/PW75-105
 105mm_type_75_hesh;DTJ/PW75-105
+125mm_bta4;BTA4-125
 
 //ITALY AMMUNITION
 20mm_perforante_m35_belt;Granata perforante da 20 mod. 35
@@ -540,6 +541,10 @@ weapons/160mm_sam_1c_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan
 weapons/160mm_sam_1c_slave_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
 
 //CHINA MISSILES
+weapons/cn_cm_502kg_he;CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong
+weapons/cn_cm_502kg_he/short;CM502KG
+weapons/cn_cm_502kg_he_rail;CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong
+weapons/cn_cm_502kg_he_rail/short;CM502KG
 fb10_rocket;L/FB10
 fb10a_rocket;L/FB10A
 weapons/130mm_FB_10_rocket_launcher;L/FB10 Dì Duì Kōng Daodàn Fāshè Chē <color=#ff6f00>LCH</color>

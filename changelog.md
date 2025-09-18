@@ -295,6 +295,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **AGM-179 JAGM-MR (SAL)**
         - **AIM-7F** (another one)
         - **AIM-7M** (another one)
+        - **CM-502KG**
+        - **BTA4**
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -315,19 +317,19 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **20 mm FlaK38 cannon** → **2cm Flugzeugabwehrkanone-Zwilling 38**.
         - **37 mm Gerät 341 cannon** → **3,7cm Gerät 341**.
         - **Pzgr.** (for the new **Gerät 341**) → **3,7cm Pz.Spr.Gr.Patr.L'spur.o.Zerl.**.
-            - Full ammunition names package: **Pzgr.** → **3,7cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
+            - Full Ammunition Names package: **Pzgr.** → **3,7cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
         - **Sprgr.** (for the new **Gerät 341**) → **3,7cm Bd.-Spr.Gr.Patr. L/4,1 (Lh. 37)**.
-            - Full ammunition names package: **Sprgr.** → **3,7cm Brand-Sprenggranate Patrone Lange/4,1 (Leuchtspurhülse 37)**.
+            - Full Ammunition Names package: **Sprgr.** → **3,7cm Brand-Sprenggranate Patrone Lange/4,1 (Leuchtspurhülse 37)**.
         - **9M317MA AAM** (launcher weapon for the **9A317M**) → **9P331M**. Long name → **Puskovoye ustrojstvo 9P331M**.
         - **9M317MA**:
-            - Full ammunition names package: **9M317MA** → **Zyenitnaâ upravlâyemaâ rakyeta 9M317MA**.
+            - Full Ammunition Names package: **9M317MA** → **Zyenitnaâ upravlâyemaâ rakyeta 9M317MA**.
         - **Aster-30 AAM** (launcher weapon for the **Aster 30 Block 0**) → **SYLVER A50**. Long name → **Système de Lancement Vertical A50**.
         - **Aster-30** → **Aster 30 Block 1**.
         - **CAMM AAM** (launcher weapon for the **Sky Sabre (iLauncher)**) → **iLauncher**. Long name → **Intelligent Launcher**.
         - **CAMM**:
-            - Full ammunition names package: **CAMM** → **Common Anti-Air Modular Missile**.
+            - Full Ammunition Names package: **CAMM** → **Common Anti-Air Modular Missile**.
         - **CAMM-ER**:
-            - Full ammunition names package: **CAMM-ER** → **Common Anti-Air Modular Missile Extended Range**.
+            - Full Ammunition Names package: **CAMM-ER** → **Common Anti-Air Modular Missile Extended Range**.
         - **125 mm KBA-3 cannon** → **KBA-3**.
         - **7.62 mm KT-7.62 machine gun** → **KT-7,62**.
         - **12.7 mm KT-12.7 machine gun** → **KT-12,7**.
@@ -336,12 +338,15 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **AGM-179 JAGM-MR (SAL)** → **JAGM-MR (SAL)**. Long name → **Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (SAL)**.
         - **AIM-7F** (another one): → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-7F Sparrow**.
         - **AIM-7M** (another one): → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow**.
+        - **CM-502KG** → **CM502KG**. Long name → **CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong**.
+        - **BTA4** → **BTA4-125**.
+            - Full Ammunition Names package: **BTA4** → **BTA4 Shì 125 Háomi Chuān Jia Dàn**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.
-            - Full ammunition names package: **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Sprenggranate Lange/4,2 (Bodenzünder)**
+            - Full Ammunition Names package: **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Sprenggranate Lange/4,2 (Bodenzünder)**
         - **350 mm Psgr. L/3,6 APCBC** → **35cm Pz.Spr.Gr. L/3,6**.
-            - Full ammunition names package: **350 mm Psgr. L/3,6 APCBC** → **35cm Panzersprenggranate Lange/3,6**
+            - Full Ammunition Names package: **350 mm Psgr. L/3,6 APCBC** → **35cm Panzersprenggranate Lange/3,6**
     - **L/QJG1977 Shì 12.7 Háomi Gāoshè Jīqiāng** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
     - **75 mm 43.M cannon** → **7,5 cm 43 M. harckocsiágyú**.
     - **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **1977 Shì 12.7 Háomi Gāoshè Jīqiāng**.
@@ -357,7 +362,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **60 Kōkei 3 Nen Shiki 15.5 Sanchi Hō** → **60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō**.
     - Corrected the missing type tag on the **SNEB F1 Type 26P** (it's unused anyway).
     - **8,8cm Sprgr.Patr.L/4,5 (Kz)** → **8,8cm Spr.Gr.Patr. L/4,5 (Kpf.Z.)**.
-        - Full ammunition names package: **8,8cm Sprenggranate Patrone Ladung/4,5 (Kopfzunder)** → **8,8cm Sprenggranate Patrone Lange/4,5 (Kopfzünder)** (the incorrect use of "Ladung" was based on an American document from 1953 misunderstanding what L/ stood for).
+        - Full Ammunition Names package: **8,8cm Sprenggranate Patrone Ladung/4,5 (Kopfzunder)** → **8,8cm Sprenggranate Patrone Lange/4,5 (Kopfzünder)** (the incorrect use of "Ladung" was based on an American document from 1953 misunderstanding what L/ stood for).
     **M118**: Mass tag → 1369.8 kg.
     - **2cm Pzsprgr.Patr.L'spur.o.Zerl.** → **2cm Pz.Spr.Gr.Patr.L'spur.o.Zerl.**.
     - **1,5cm Sprgr.Patr.Üb.o.Zerl.** → **1,5cm Spr.Gr.Patr.Üb.o.Zerl.**.
@@ -948,20 +953,20 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **IRIS-T SLM SAM** → **IRIS-T SLM Startgerät**.
         - **IRIS-T SL** → **IRIS-T SLM**.
         - **Sprgr. L/4.5** → **8,8cm Sprgr.Patr. L/4.5 (Kz)**.
-            - Full ammunition names package: Name → **8,8cm Sprenggranate Patrone Ladung/4.5 (Kopfzunder)**.
+            - Full Ammunition Names package: Name → **8,8cm Sprenggranate Patrone Ladung/4.5 (Kopfzunder)**.
         - **Sprgr. 18** → **3,7cm Sprgr.Patr. 18**.
-            - Full ammunition names package: Name → **3,7cm Sprenggranate Patrone 18**.
+            - Full Ammunition Names package: Name → **3,7cm Sprenggranate Patrone 18**.
         - **PzGr** → **3,7cm Pzgr.Patr. 18**.
-            - Full ammunition names package: Name → **3,7cm Panzergranate Patrone 18**.
+            - Full Ammunition Names package: Name → **3,7cm Panzergranate Patrone 18**.
         - **SprGr** → **1,5cm Sprgr.Patr.Üb.o.Zerl.**.
-            - Full ammunition names package: Name → **1,5cm Sprenggranate Patrone Übungs ohne Zerleger**.
+            - Full Ammunition Names package: Name → **1,5cm Sprenggranate Patrone Übungs ohne Zerleger**.
         - **M-Gesch.** → **2cm M.Gesch.Patr.o.Zerl.**.
-            - Full ammunition names package: Name → **2cm Minengeschoß Patrone ohne Zerleger**.
+            - Full Ammunition Names package: Name → **2cm Minengeschoß Patrone ohne Zerleger**.
         - **Pzsprgr.** → **2cm Pzsprgr.Patr.L'spur.o.Zerl.**.
-            - Full ammunition names package: Name → **2cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
+            - Full Ammunition Names package: Name → **2cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
             - This 1 belt for the new Soviet multi-vehicle pack **m.S.P.W. D (M.G. 151 S) "In May 1945"** took me 30 damn minutes to find. Shit like this is why this update is late. I hope you're fucking happy with me.
         - **40 mm HE-T** → **4cm Pzgr.Patr.L'spur.**.
-            - Full ammunition names package: Name → **4cm Panzergranate Patrone Leuchtspur**.
+            - Full Ammunition Names package: Name → **4cm Panzergranate Patrone Leuchtspur**.
         - **DM11A1** (the new text for the existing belt) → **DM 11 A1**.
         - **DM 23** (the new text for the existing belt) → **DM 23**.
         - **JATO** → **Flz.Sta.Rak. 69**. Long name → **Flugzeug Start Rakete 69**. Seriously, thank you to Theren for this one because it never would have gotten fixed otherwise.
@@ -982,7 +987,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **30 mm Denel GI-30 cannon** → **Denel Land Systems Linkless CamGun EMAK 30 | GI-30**.
         - **5.25 inch/50 QF Mark I cannon** → **Gun, Q.F., 5.25-inch, Mk. I**.
         - **381 mm Mk.XXIIb SC APC** → **A.P.C., 15-inch, 6-crh., Mk. XXIIb**.
-            - Full ammunition names package: Name → **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb**.
+            - Full Ammunition Names package: Name → **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb**.
         - **HERL 520 lb Mk.IN** → **H.E., R.L., 520-lb, Mk. I/N**. Long name → **Bomb, H.E., R.L., 520-lb, Mk. I/N**.
         - **1650 lb SNHE** → **H.E., S.N., 1650-lb**. Long name → **Bomb, H.E., S.N., 1650-lb**.
         - **JM61A2**: Long name → **JM61A2**.
@@ -1008,43 +1013,43 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
             - As an aside, it's file name is weapons/160mm_sam_1c_*slave*_launcher_user_cannon which is... yikes...
         - **30 mm PGZ-625 cannon** → **630 Xíng 30 Háomi Gāoshè Jīguān Pào**.
         - **30 mm HEI** (for the **CS/SA5 (2022)**) → **CS/BAH06-30**.
-            - Full ammunition names package: Name → **CS/BAH06 Shì 30 Háomi Ahāshāng Bàopò Ránshāo Dàn**.
+            - Full Ammunition Names package: Name → **CS/BAH06 Shì 30 Háomi Ahāshāng Bàopò Ránshāo Dàn**.
         - **30 mm APT** (for the **CS/SA5 (2022)**) → **3UBR6 (3BR6)**.
         - **30 mm PTFP** (for the **CS/SA5 (2022)**) → **CS/BAE05-30**.
-            - Full ammunition names package: Name → **CS/BAE5 Xíng 30 Háomi Dìng Jù Yùzhì Pòpiàn Dàn**.
+            - Full Ammunition Names package: Name → **CS/BAE5 Xíng 30 Háomi Dìng Jù Yùzhì Pòpiàn Dàn**.
         - **DTC10-30** → **L/DTC10-30**.
-            - Full ammunition names package: Name → **L/DTC10 Shì 30 Háomi Chuānjiǎdàn**.
+            - Full Ammunition Names package: Name → **L/DTC10 Shì 30 Háomi Chuānjiǎdàn**.
         - **FB-10** → **L/FB10**.
-            - Full ammunition names package: Name → **L/FB10 Dì Duì Kōng Dǎodàn**.
+            - Full Ammunition Names package: Name → **L/FB10 Dì Duì Kōng Dǎodàn**.
         - **FB-10A** → **L/FB10A**.
-            - Full ammunition names package: Name → **L/FB10A Dì Duì Kōng Dǎodàn**.
+            - Full Ammunition Names package: Name → **L/FB10A Dì Duì Kōng Dǎodàn**.
         - **FB-10 SAM** → **L/FB10 Dì Duì Kōng Daodàn Fāshè Chē**.
         - **381 mm/50 Ansaldo-OTO cannon, mod.1934** → **Cannone Ansaldo-O.T.O. da 381/50 modello 1939**.
         - **Perforante mod.35** → **Granata perforante da 20 mod. 35**.
-            - Full ammunition names package: Name → **Cartoccio granata perforante da 20 modello 1935**.
+            - Full Ammunition Names package: Name → **Cartoccio granata perforante da 20 modello 1935**.
         - **381 mm Granata Perforante** → **Granata perforante da 381/50**.
-            - Full ammunition names package: Name → **Cartoccio granata perforante da 381/50**.
+            - Full Ammunition Names package: Name → **Cartoccio granata perforante da 381/50**.
         - **381 mm Palla APCBC** → **Palla perforante da 381/50**.
-            - Full ammunition names package: Name → **Cartoccio palla perforante da 381/50**.
+            - Full Ammunition Names package: Name → **Cartoccio palla perforante da 381/50**.
         - **100 mm/45 model 1930** → **Canon de 100 mm/45 Mle. 1930**. Long name → **Canon de 100 mm/45 modèle 1930**
         - **380 mm/45 model 1935** → **Canon de 380 mm/45 Mle. 1935**. Long name → **Canon de 380 mm/45 modèle 1935**
         - **100 mm OEA Mle 1928 HE-TF** → **100 mm OEA Mle. 1928**.
-            - Full ammunition names package: Name → **100 mm Obus Explosif en Acier modèle 1928**.
+            - Full Ammunition Names package: Name → **100 mm Obus Explosif en Acier modèle 1928**.
         - **152 mm OEA Mle 1936 HE-TF** → **152 mm OEA Mle. 1936**.
-            - Full ammunition names package: Name → **152 mm Obus Explosif en Acier modèle 1936**.
+            - Full Ammunition Names package: Name → **152 mm Obus Explosif en Acier modèle 1936**.
         - **203 mm OPF Mle 1936 APCBC** → **203 mm OPf(K) RC Mle. 1936**.
-            - Full ammunition names package: Name → **203 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936**.
+            - Full Ammunition Names package: Name → **203 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936**.
         - **380 mm OEA Mle 1949 HE** → **380 mm OEA Mle. 1949**.
-            - Full ammunition names package: Name → **380 mm Obus Explosif en Acier modèle 1949**.
+            - Full Ammunition Names package: Name → **380 mm Obus Explosif en Acier modèle 1949**.
         - **380 mm OPF Mle 1936 APCBC** → **380 mm OPf(K) RC Mle. 1936**.
-            - Full ammunition names package: Name → **380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936**.
+            - Full Ammunition Names package: Name → **380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1936**.
         - **380 mm OPF Mle 1943 APCBC** → **380 mm OPf(K) RC Mle. 1943**.
-            - Full ammunition names package: Name → **380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1943**.
+            - Full Ammunition Names package: Name → **380 mm Obus de Perforation dispositif K de Rupture Coiffé modèle 1943**.
         - **Smoke** (a new one so the **AMX 30 B2 BRENUS**'s smokes finally have a name) → **GALIX 13**. Long name → **GALIX 13**.
         - **Rbs 98** → **lvrb 98**.
-            - Full ammunition names package: Name → **luftvärnsrobot 98**.
+            - Full Ammunition Names package: Name → **luftvärnsrobot 98**.
         - **slpprj m/42** → **20 mm sk ptr m/42 slpprj m/42**.
-            - Full ammunition names package: Name → **20 mm skarp patron m/42 spårljuspansarprojektil m/42**.
+            - Full Ammunition Names package: Name → **20 mm skarp patron m/42 spårljuspansarprojektil m/42**.
         - **Python 5** → **Piton 5 SR**. Long name → **Piton 5 Short Name**.
         - **Drop tank (600 gal.)** → **Drop tank (600 gal)**. This is not a full rename, just a formatting change.
         - **Drop tank (275 gal.)** → **Drop tank (275 gal)**. This is not a full rename, just a formatting change.

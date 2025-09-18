@@ -291,6 +291,10 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **7.62 mm KT-7.62 machine gun**
         - **12.7 mm KT-12.7 machine gun**
         - **Fire Snake 70A**
+        - **AGM-179 JAGM-MR (IR)**
+        - **AGM-179 JAGM-MR (SAL)**
+        - **AIM-7F** (another one)
+        - **AIM-7M** (another one)
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -327,7 +331,11 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **125 mm KBA-3 cannon** → **KBA-3**.
         - **7.62 mm KT-7.62 machine gun** → **KT-7,62**.
         - **12.7 mm KT-12.7 machine gun** → **KT-12,7**.
-        - **Fire Snake 70A** **FS70A**. Long name → **FS70A Hángkōng Zhìdao Huojiàndàn**.
+        - **Fire Snake 70A** → **FS70A**. Long name → **FS70A Hángkōng Zhìdao Huojiàndàn**.
+        - **AGM-179 JAGM-MR (IR)** → **JAGM-MR (IR)**. Long name → **Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (IR)**. The AGM-179 is complicated. The AGM-179C and D designations exist, but we do not know what they are for. The timeline is that in 2021, the AGM-179C designation is assigned. Then, in November of 2022, Lockheed Martin tests their *self-funded* JAGM-MR. Finally, in 2024, the AGM-179D designation is assigned. The lack of US DoD (or ig now it's DoW if you're crazy) involvement in the development of the JAGM-MR and then the assigning of an AGM-179D designation to something a bit under 2 years later leads me to believe that the AGM-179C is probably something else and the JAGM-MR got assigned the designation of AGM-179D. However, we are not sure and so are playing it safe and using Lockheed Martin's internal name for the project of **JAGM-MR**.
+        - **AGM-179 JAGM-MR (SAL)** → **JAGM-MR (SAL)**. Long name → **Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (SAL)**.
+        - **AIM-7F** (another one): → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-7F Sparrow**.
+        - **AIM-7M** (another one): → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-7M Sparrow**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.

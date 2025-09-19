@@ -47,7 +47,7 @@ weapons/cannonM61A2;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A2
 weapons/cannonM61A2/short;M61A2
 weapons/cannonXM301l;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, XM301 <color=#ff6f00>RCNN</color>
 weapons/155mm_t180_user_cannon;<color=@userlogColoredText>155 mm</color> Gun, 155mm, T180 <color=#ff6f00>CNN</color>
-weapons/203mm_m47_user_cannon;<color=@userlogColoredText>203.2 mm</color> Howitzer, 203mm, M47 <color=#ff6f00>CNN</color>
+weapons/203mm_m47_user_cannon;<color=@userlogColoredText>203.2 mm</color> Howitzer, 8-Inch, M47 <color=#ff6f00>CNN</color>
 weapons/406mm_50_mk7_naval_user_cannon;"<color=@userlogColoredText>406 mm</color> 16""/50 Mk 7 Mod 0 <color=#ff6f00>CNN</color>"
 
 //GERMANY GUNS
@@ -135,6 +135,9 @@ weapons/380mm_45_mle_1935_naval_user_cannon/short;Canon de 380 mm/45 Mle. 1935
 37mm_AN_M4_naval_HE/name;37 mm HE
 37mm_AN_M4_naval_AP/name;37 mm AP-T
 75mm_m61_solid;M61 shot
+155mm_t152;T152E5
+155_mm_t267;T267
+203mm_m106;M106
 406mm_mk8_mod6_apcbc;"16"" A.P. Mk 8 Mod 6"
 
 //GERMANY AMMUNITION

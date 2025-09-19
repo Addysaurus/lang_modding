@@ -300,6 +300,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **4.7 inch/45 Mk.IX cannon**
         - **203 mm M47 cannon**
         - **155 mm T180 cannon**
+        - **T152**
+        - **T267**
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -345,8 +347,14 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **BTA4** → **BTA4-125**.
             - Full Ammunition Names package: **BTA4** → **BTA4 Shì 125 Háomi Chuān Jia Dàn**.
         - **4.7 inch/45 Mk.IX cannon** → **Gun, Q.F., 4.7-inch, Mk. IX**.
-        - **203 mm M47 cannon** → **Gun, Q.F., 4.7-inch, Mk. IX**.
+        - **203 mm M47 cannon** → **Howitzer, 8-Inch, M47**.
         - **155 mm T180 cannon** → **Gun, 155mm, T180**.
+        - **T152** → **T152E5**.
+            - Full Ammunition Names package: **T152** → **Cartridge, 155mm: HEP, T152E5**.
+        - **T267**:
+            - Full Ammunition Names package: **T267** → **Cartridge, 155mm: HEAT, T267**.
+        - **M106**:
+            - Full Ammunition Names package: **M106** → **Projectile, 8-Inch: HE, M106**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.

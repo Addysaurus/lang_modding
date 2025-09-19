@@ -297,6 +297,9 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **AIM-7M** (another one)
         - **CM-502KG**
         - **BTA4**
+        - **4.7 inch/45 Mk.IX cannon**
+        - **203 mm M47 cannon**
+        - **155 mm T180 cannon**
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -341,6 +344,9 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **CM-502KG** → **CM502KG**. Long name → **CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong**.
         - **BTA4** → **BTA4-125**.
             - Full Ammunition Names package: **BTA4** → **BTA4 Shì 125 Háomi Chuān Jia Dàn**.
+        - **4.7 inch/45 Mk.IX cannon** → **Gun, Q.F., 4.7-inch, Mk. IX**.
+        - **203 mm M47 cannon** → **Gun, Q.F., 4.7-inch, Mk. IX**.
+        - **155 mm T180 cannon** → **Gun, 155mm, T180**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.

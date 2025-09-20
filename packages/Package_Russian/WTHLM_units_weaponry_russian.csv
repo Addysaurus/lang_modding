@@ -2,6 +2,7 @@
 //GUNS
 weapons/gun_pk3l;<color=@userlogColoredText>7.62 mm</color> 6P6 | ПК <color=#ff6f00>MG</color>
 weapons/gun_pk3/shortl;ПК
+weapons/100mm_2A70_BMP_autoloader_user_cannon;<color=@userlogColoredText>100 mm</color> 2А70 <color=#ff6f00>CNN</color>
 weapons/152mm_ML20S_user_cannon;<color=@userlogColoredText>152 mm</color> 52-ПС-544С | МЛ-20С обр. 1937/43 гг. <color=#ff6f00>CNN-HWZ</color>
 weapons/305mm_52_obr1907_mariya_naval_user_cannon;<color=@userlogColoredText>305 mm</color> 305-мм/52 обр. 1907 г. <color=#ff6f00>CNN</color>
 weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color> 406-мм/50 Б-37 обр. 1937 г. <color=#ff6f00>CNN</color>
@@ -25,10 +26,15 @@ weapons/su_rn_28/short;☢ РН-28
 //ROCKETS
 
 //MISSILES
+weapons/su_lmur;9-А-7755 | изд. 305 | Х-39
+weapons/su_lmur/short;Х-39
+209mm_9m33;9М33М
 weapons/209mm_9M33A3_launcher_user_cannon;Пусковое устройство 9П35М2 <color=#ff6f00>LCH</color>
+weapons/rocket_9m33_naval_rocket_launcher;Пусковое устройство ЗИФ-122 <color=#ff6f00>LCH</color>
+weapons/rocket_9m33_naval_rocket_launcher/short;ЗИФ-122
+360mm_9m317ma;9М317МА
 weapons/360mm_9m317m_user_cannon;Пусковое устройство 9П331М <color=#ff6f00>LCH</color>
 weapons/360mm_9m317m_user_cannon/short;9П331М
-360mm_9m317ma;9М317МА
 
 //TORPEDOES
 weapons/su_45_54vt_1954_torpedo;<color=@userlogColoredText>450 mm</color> Торпеда высотного торпедометания 45-54ВТ <color=#ff6f00>TRP</color>

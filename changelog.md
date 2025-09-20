@@ -302,6 +302,13 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **155 mm T180 cannon**
         - **T152**
         - **T267**
+        - **100 mm 2A70 cannon**
+        - **356 mm No5 APC**
+        - **LMUR**
+        - **Mk.11**
+        - **OSA-M**
+        - **9M33**
+        - **152 mm/55 model 1930** (new one for **Montcalm**)
     - "Black Hussar" event additions:
         - **35 cm/45 SK L/45 cannon**
         - **350 mm Spr.gr. L/4,2 Bdz.**
@@ -336,8 +343,11 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **CAMM-ER**:
             - Full Ammunition Names package: **CAMM-ER** → **Common Anti-Air Modular Missile Extended Range**.
         - **125 mm KBA-3 cannon** → **KBA-3**.
+            - Ukrainian package: **125 mm KBA-3 cannon** → **КБА-3**.
         - **7.62 mm KT-7.62 machine gun** → **KT-7,62**.
+            - Ukrainian package: **7.62 mm KT-7.62 machine gun** → **КТ-7,62**.
         - **12.7 mm KT-12.7 machine gun** → **KT-12,7**.
+            - Ukrainian package: **12.7 mm KT-12.7 machine gun** → **КТ-12,7**.
         - **Fire Snake 70A** → **FS70A**. Long name → **FS70A Hángkōng Zhìdao Huojiàndàn**.
         - **AGM-179 JAGM-MR (IR)** → **JAGM-MR (IR)**. Long name → **Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (IR)**. The AGM-179 is complicated. The AGM-179C and D designations exist, but we do not know what they are for. The timeline is that in 2021, the AGM-179C designation is assigned. Then, in November of 2022, Lockheed Martin tests their *self-funded* JAGM-MR. Finally, in 2024, the AGM-179D designation is assigned. The lack of US DoD (or ig now it's DoW if you're crazy) involvement in the development of the JAGM-MR and then the assigning of an AGM-179D designation to something a bit under 2 years later leads me to believe that the AGM-179C is probably something else and the JAGM-MR got assigned the designation of AGM-179D. However, we are not sure and so are playing it safe and using Lockheed Martin's internal name for the project of **JAGM-MR**.
         - **AGM-179 JAGM-MR (SAL)** → **JAGM-MR (SAL)**. Long name → **Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (SAL)**.
@@ -355,6 +365,15 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
             - Full Ammunition Names package: **T267** → **Cartridge, 155mm: HEAT, T267**.
         - **M106**:
             - Full Ammunition Names package: **M106** → **Projectile, 8-Inch: HE, M106**.
+        - **100 mm 2A70 cannon** → **2A70**.
+        - **356 mm No5 APC** → **36 Sanchi 5 Gō Tekkō Dan**.
+            - Full Ammunition Names package: **356 mm No5 APC** → **三六糎五號徹甲弾**.
+        - **LMUR** → **Kh-39**. Long name → **Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (SAL)**.
+        - **Mk.11** → **Mk 11 Mod 0**. Long name → **Guided Missile Launching System Mk 11 Mod 0**.
+        - **OSA-M** → **ZIF-122**. Long name → **Puskovoye ustrojstvo ZIF-122**.
+        - **9M33** → **9M33M**.
+            - Full Ammunition Names package: **9M33** → **Zyenitnaâ upravlâyemaâ rakyeta 9M33M**.
+        - **152 mm/55 model 1930** (the new one for **Montcalm**) → **Canon de 152 mm/55 mle. 1930**. Long name → **Canon de 152 mm/55 modèle 1930**.
     - "Black Hussar" event changes:
         - **35 cm/45 SK L/45 cannon** → **35cm Schnelladekanone Lange/45**
         - **350 mm Spr.gr. L/4,2 Bdz.** → **35cm Spr.Gr. L/4,2 (Bd.Z.)**.
@@ -385,6 +404,10 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **4cm Pzgr.Patr.L'spur.** → **4cm Pz.Gr.Patr.L'spur.**.
     - **9K33M3** launcher → **Puskovoye ustrojstvo 9P35M2**.
     - **FS70**: Long name → **FS70 Hángkōng Huojiàndàn**.
+    - Corrected quotation formatting on the **Kh-36 (A1)**.
+    - **Canon de 100 mm/45 Mle. 1930** → **Canon de 100 mm/45 mle. 1930**.
+    - **Canon de 380 mm/45 Mle. 1935** → **Canon de 380 mm/45 mle. 1935**.
+    - **152 mm/55 model 1930** (the existing one for **La Galissonnière**) → **Canon de 152 mm/55 mle. 1930**. Long name → **Canon de 152 mm/55 modèle 1930**.
 
 ### Engines:
 

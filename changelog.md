@@ -422,9 +422,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **SPICE 2000**
         - **GBU-38/62 JDAM** (a-fucking-nother one the JDAMs never end)
         - **GBU-31/64 JDAM** (JDAMs are my life now)
-        - **CM-502KG**
         - **MAW BOZ**
-        - **Fire Snake 70A**
 
 - #### Changes:
 
@@ -435,9 +433,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **GBU-31/64** → **GBU-31(V)1/B / 64(V)1/B**.
         - **GBU-31/64 JDAM** → **GBU-31(V)1/B / 64(V)1/B**.
         - **SPICE 1000/2000** → **SPICE 1000 / 2000**.
-        - **CM-502KG** → **CM502KG**.
         - **MAW BOZ** → **BOZ-102-EC**.
-        - **Fire Snake 70A** → **FS70A**.
     - **GBU-15(V)1/B** → **GBU-15(V)1/B / 2/B**.
     - **HF7D (Type 70)** → **FS70**.
 
@@ -447,6 +443,19 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 
     - **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata** → **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata | NK9C**.
         - Japanese package: **4式1850馬力発動機 | ハ45-12 | 誉12型** → **四式一八五〇馬力発動機 | ハ45-12 | 誉一二型 | NK9C**.
+
+### Sensors:
+
+- #### Additions:
+
+    - Update "Tusk Force" additions:
+        - **Varta**
+
+- #### Changhes:
+
+    - Update "Tusk Force" changes:
+        - **Varta**:
+            - Ukrainian package: **Varta** → **Варта**.
 
 ## 1.13.02 — 13-08-2025
 

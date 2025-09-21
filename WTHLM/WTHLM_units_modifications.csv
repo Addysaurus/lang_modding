@@ -64,19 +64,48 @@ modification/380mm_45_fr_mle1943_navy_apcbc_ammo_pack;380 mm OPf(K) RC Mle. 1943
 //UNCATEGORIZED AMMUNITION
 
 //USA BOMBS
+modification/us_gbu_15v1;GBU-15(V)1/B / 2/B
+modification/us_gbu_15v1/desc;"Loadout unlocked: 1140.8 kg <color=@userlogColoredText>GBU-15(V)1/B</color> infrared-guided bomb.
+Loadout unlocked: 1140.8 kg <color=@userlogColoredText>GBU-15(V)2/B</color> infrared-guided bomb."
+
 modification/us_gbu54b;GBU-54(V)1/B / 62(V)1/B LJDAM-ER
 modification/us_gbu54b/desc;"Loadout unlocked: 260.816 kg <color=@userlogColoredText>GBU-54(V)1/B</color> GNSS- and laser-guided bomb.
 Loadout unlocked: 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B LJDAM-ER</color> GNSS- and laser-guided bomb."
+
 modification/us_500lb_mk82_gbu38_gbu62_jdam;Mk 82 Mod 0 / GBU-38(V)1/B / 62(V)1/B
 modification/us_500lb_mk82_gbu38_gbu62_jdam/desc;"Loadout unlocked: 240.9 kg <color=@userlogColoredText>Mk 82 Mod 0</color> bomb.
 Loadout unlocked: 240.9 kg <color=@userlogColoredText>GBU-38(V)1/B</color> GNSS-guided bomb.
 Loadout unlocked: 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> GNSS-guided bomb."
+
 modification/us_1000lb_mk83_us_2000lb_mk84;Mk 83 Mod 0 / 84 Mod 0
 modification/us_1000lb_mk83_us_2000lb_mk84/desc;"Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bomb.
 Loadout unlocked: 893.6 kg <color=@userlogColoredText>Mk 84 Mod 0</color> bomb."
+
 modification/us_2000lb_mk84_gbu31_gbu64_jdam;Mk 84 Mod 0 / GBU-31(V)1/B / 64(V)1/B
 modification/us_2000lb_mk84_gbu31_gbu64_jdam/desc;"Loadout unlocked: 893.6 kg <color=@userlogColoredText>Mk 84 Mod 0</color> bomb.
 Loadout unlocked: 893.6 kg <color=@userlogColoredText>GBU-31(V)1/B</color> GNSS-guided bomb.
+Loadout unlocked: 987 kg <color=@userlogColoredText>GBU-64(V)1/B</color> GNSS-guided bomb."
+
+modification/us_gbu38_gbu62_jdam;GBU-38(V)1/B / 62(V)1/B
+modification/us_gbu38_gbu62_jdam/desc;"Loadout unlocked: 253.1 kg <color=@userlogColoredText>GBU-38(V)1/B</color> GNSS-guided bomb.
+Loadout unlocked: 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> GNSS- and laser-guided bomb."
+
+modification/us_gbu_38_62;GBU-38(V)1/B / 62(V)1/B
+modification/us_gbu_38_62/desc;"Loadout unlocked: 253.1 kg <color=@userlogColoredText>GBU-38(V)1/B</color> GNSS-guided bomb.
+Loadout unlocked: 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> GNSS- and laser-guided bomb."
+
+modification/us_jdam;GBU-31(V)1/B / 38(V)1/B / 62(V)1/B / 64(V)1/B
+modification/us_jdam/desc;"Loadout unlocked: 893.6 kg <color=@userlogColoredText>GBU-31(V)1/B</color> GNSS-guided bomb.
+Loadout unlocked: 253.1 kg <color=@userlogColoredText>GBU-38(V)1/B</color> GNSS-guided bomb.
+Loadout unlocked: 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> GNSS- and laser-guided bomb.
+Loadout unlocked: 987 kg <color=@userlogColoredText>GBU-64(V)1/B</color> GNSS-guided bomb."
+
+modification/us_gbu31_gbu64_jdam;GBU-31(V)1/B / 64(V)1/B
+modification/us_gbu31_gbu64_jdam/desc;"Loadout unlocked: 893.6 kg <color=@userlogColoredText>GBU-31(V)1/B</color> GNSS-guided bomb.
+Loadout unlocked: 987 kg <color=@userlogColoredText>GBU-64(V)1/B</color> GNSS-guided bomb."
+
+modification/us_gbu_31_64;GBU-31(V)1/B / 64(V)1/B
+modification/us_gbu_31_64/desc;"Loadout unlocked: 893.6 kg <color=@userlogColoredText>GBU-31(V)1/B</color> GNSS-guided bomb.
 Loadout unlocked: 987 kg <color=@userlogColoredText>GBU-64(V)1/B</color> GNSS-guided bomb."
 
 //GERMANY BOMBS
@@ -85,6 +114,7 @@ Loadout unlocked: 987 kg <color=@userlogColoredText>GBU-64(V)1/B</color> GNSS-gu
 modification/ofab_100m_mb;OFAB-100M / mB
 modification/ofab_100m_mb/desc;"Loadout unlocked: 114 kg <color=@userlogColoredText>OFAB-100M</color> bomb.
 Loadout unlocked: 114 kg <color=@userlogColoredText>OFAB-100mB</color> bomb."
+
 modification/fab_250m_54;FAB-250M-54
 modification/fab_250m_54/desc;Loadout unlocked: 236 kg <color=@userlogColoredText>FAB-250M-54</color> bomb.
 modification/fab_500m_54;FAB-500M-54
@@ -96,7 +126,7 @@ modification/uk_bomb_520lb/desc;Loadout unlocked: 238.1 kg <color=@userlogColore
 modification/uk_bomb_1650lb;H.E., S.N., 1650-lb
 modification/uk_bomb_1650lb/desc;Loadout unlocked: 748 kg <color=@userlogColoredText>Bomb, H.E., S.N., 1650-lb</color> boms.
 
-//JAPAN BOMBS\
+//JAPAN BOMBS
 modification/kr_kggb/desc;"Loadout unlocked: 289.72 kg <color=@userlogColoredText>Hanguk-hyeong GPS Yudo-poktan</color> GNSS-guided bomb."
 modification/kr_kggb;KGGB
 
@@ -106,6 +136,7 @@ modification/kr_kggb;KGGB
 modification/su_fab_250_us_mk82;FAB-250M-62 / Mk 82 Mod 0
 modification/su_fab_250_us_mk82/desc;"Loadout unlocked: 227 kg <color=@userlogColoredText>FAB-250M-62</color> bomb.
 Loadout unlocked: 240.9 kg <color=@userlogColoredText>Mk 82 Mod 0</color> bomb."
+
 modification/su_fab_500_us_mk83;FAB-500M-62 / Mk 83 Mod 0
 modification/su_fab_500_us_mk83/desc;"Loadout unlocked: 508.3 kg <color=@userlogColoredText>FAB-500M-62</color> bomb.
 Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bomb."
@@ -115,8 +146,20 @@ Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bomb."
 //SWEDEN BOMBS
 
 //ISRAEL BOMBS
+modification/il_spice_250_1000;SPICE 250 / 1000
+modification/il_spice_250_1000/desc;"Loadout unlocked: 130 kg <color=@userlogColoredText>SPICE 250</color> electro-optically-guided bomb.
+Loadout unlocked: 490 kg <color=@userlogColoredText>SPICE 1000</color> electro-optically-guided bomb."
+
 modification/il_spice_1000;SPICE 1000
 modification/il_spice_1000/desc;Loadout unlocked: 490 kg <color=@userlogColoredText>SPICE 1000</color> electro-optically-guided bomb.
+
+modification/il_spice_1000_2000;SPICE 1000/2000
+modification/il_spice_1000_2000/desc;"Loadout unlocked: 490 kg <color=@userlogColoredText>SPICE 1000</color> electro-optically-guided bomb.
+Loadout unlocked: 970 kg <color=@userlogColoredText>SPICE 2000</color> electro-optically-guided bomb."
+
+modification/il_spice_2000;SPICE 2000
+modification/il_spice_2000/desc;Loadout unlocked: 970 kg <color=@userlogColoredText>SPICE 2000</color> electro-optically-guided bomb.
+
 modification/il_spice_2000_gbu31_jdam;SPICE 2000 / GBU-31(V)1/B / 64(V)1/B
 modification/il_spice_2000_gbu31_jdam/desc;"Loadout unlocked: 970 kg <color=@userlogColoredText>SPICE 2000</color> electro-optically-guided bomb.
 Loadout unlocked: 893.6 kg <color=@userlogColoredText>GBU-31(V)1/B</color> GNSS-guided bomb.
@@ -161,6 +204,8 @@ modification/us_aim_120c;AIM-120C-5
 modification/us_aim_120c/desc;Loadout unlocked: <color=@userlogColoredText>AIM-120C-5 AMRAAM</color> active radar homing air-to-air missile.
 
 //GERMANY MISSILES
+modification/de_x4_ruhrstahl/desc;Loadout unlocked: <color=@userlogColoredText>X 4</color> wire-guided air-to-air missile.
+modification/de_x4_ruhrstahl;X 4
 modification/sws_flz_lwf_63_75;Flz.Lwf. 63/75
 modification/sws_flz_lwf_63_75/desc;"Loadout unlocked: <color=@userlogColoredText>Flz.Lwf. 63/75 ""SIWA""</color> infrared-guided air-to-air missile."
 modification/sws_flz_lwf_ll_64;Flz.Lwf. LL 64/79
@@ -179,6 +224,8 @@ modification/jp_asm2;ASM-2
 modification/jp_asm2/desc;Loadout unlocked: <color=@userlogColoredText>ASM-2</color> infrared-guided anti-ship missile.
 
 //CHINA MISSILES
+modification/cn_cm_502kg;CM502KG
+modification/cn_cm_502kg/desc;Loadout unlocked: <color=@userlogColoredText>CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong</color> infrared-guided air-to-ground missile.
 
 //ITALY MISSILES
 
@@ -1226,8 +1273,6 @@ modification/us_agm_62/desc;Allows the installation of Guided Weapon, MK 1 MOD 0
 modification/us_agm_62;Guided Weapon, MK 1 MOD 0 / 3 MOD 0
 modification/us_agm_62_2_erdl/desc;Allows the installation of Guided Weapon, MK 23 MOD 0 Walleye II ERDL guided bombs.
 modification/us_agm_62_2_erdl;Guided Weapon, MK 23 MOD 0
-modification/us_gbu_15v1/desc;Allows the installation of GBU-15(V)1/B guided bombs.
-modification/us_gbu_15v1;GBU-15(V)1/B
 modification/us_gbu_8_15/desc;Allows the installation of GBU-8/B and GBU-15(V)1/B guided bombs.
 modification/us_gbu_8_15;GBU-8/B / 15(V)1/B
 modification/jp_gbu38_jdam/desc;Allows the installation of GBU-38 JDAM guided bombs.

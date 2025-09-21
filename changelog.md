@@ -409,6 +409,33 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **Canon de 380 mm/45 Mle. 1935** → **Canon de 380 mm/45 mle. 1935**.
     - **152 mm/55 model 1930** (the existing one for **La Galissonnière**) → **Canon de 152 mm/55 mle. 1930**. Long name → **Canon de 152 mm/55 modèle 1930**.
 
+### Modifications
+
+- #### Additions:
+
+    - Update "Tusk Force" changes:
+        - **GBU-38/62**
+        - **JDAM**
+        - **GBU-31/64**
+        - **SPICE 250/1000**
+        - **SPICE 1000/2000**
+        - **SPICE 2000**
+        - **GBU-38/62 JDAM** (a-fucking-nother one the JDAMs never end)
+        - **GBU-31/64 JDAM** (JDAMs are my life now)
+        - **CM-502KG**
+
+- #### Changes:
+
+    - Update "Tusk Force" changes:
+        - **GBU-38/62** → **GBU-38(V)1/B / 62(V)1/B**.
+        - **GBU-38/62 JDAM** → **GBU-38(V)1/B / 62(V)1/B**.
+        - **JDAM** → **GBU-31(V)1/B / 38(V)1/B / 62(V)1/B / 64(V)1/B**.
+        - **GBU-31/64** → **GBU-31(V)1/B / 64(V)1/B**.
+        - **GBU-31/64 JDAM** → **GBU-31(V)1/B / 64(V)1/B**.
+        - **SPICE 1000/2000** → **SPICE 1000 / 2000**.
+        - **CM-502KG** → **CM502KG**.
+    - **GBU-15(V)1/B** → **GBU-15(V)1/B / 2/B**.
+
 ### Engines:
 
 - #### Changes:

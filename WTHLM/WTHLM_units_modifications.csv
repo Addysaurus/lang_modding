@@ -182,6 +182,10 @@ modification/in_nasser_240/desc;Loadout unlocked: <color=@userlogColoredText>Na�
 //JAPAN ROCKETS
 
 //CHINA ROCKETS
+modification/cn_hf7d;FS70
+modification/cn_hf7d/desc;Loadout unlocked: <color=@userlogColoredText>FS70</color> rocket.
+modification/cn_fire_snake_70a;FS70A
+modification/cn_fire_snake_70a/desc;Loadout unlocked: <color=@userlogColoredText>FS70A</color> rocket.
 
 //ITALY ROCKETS
 
@@ -195,13 +199,17 @@ modification/in_nasser_240/desc;Loadout unlocked: <color=@userlogColoredText>Na�
 
 //USA MISSILES
 modification/us_aim_4f;AIM-4F
-modification/us_aim_4f/desc;Loadout unlocked: <color=@userlogColoredText>AIM-4F Super Falcon</color> semi-active radar homing air-to-air missile.
+modification/us_aim_4f/desc;Loadout unlocked: <color=@userlogColoredText>AIM-4F Super Falcon</color> semi-active radar-homing air-to-air missile.
 modification/us_aim_4g;AIM-4G
 modification/us_aim_4g/desc;Loadout unlocked: <color=@userlogColoredText>AIM-4G Super Falcon</color> infrared-guided air-to-air missile.
 modification/us_aim_9n;AIM-9N
 modification/us_aim_9n/desc;Loadout unlocked: <color=@userlogColoredText>AIM-9N Sidewinder</color> infrared-guided air-to-air missile.
 modification/us_aim_120c;AIM-120C-5
-modification/us_aim_120c/desc;Loadout unlocked: <color=@userlogColoredText>AIM-120C-5 AMRAAM</color> active radar homing air-to-air missile.
+modification/us_aim_120c/desc;Loadout unlocked: <color=@userlogColoredText>AIM-120C-5 AMRAAM</color> active radar-homing air-to-air missile.
+modification/us_agm_179;JAGM-MR (SAL)
+modification/us_agm_179/desc;Loadout unlocked: <color=@userlogColoredText>JAGM-MR (SAL)</color> semi-active laser-homing air-to-ground missile.
+modification/us_agm_179_ir;AGM-179 (IR)
+modification/us_agm_179_ir/desc;Loadout unlocked: <color=@userlogColoredText>JAGM-MR (IR)</color> infrared-guided air-to-ground missile.
 
 //GERMANY MISSILES
 modification/de_x4_ruhrstahl/desc;Loadout unlocked: <color=@userlogColoredText>X 4</color> wire-guided air-to-air missile.
@@ -209,7 +217,7 @@ modification/de_x4_ruhrstahl;X 4
 modification/sws_flz_lwf_63_75;Flz.Lwf. 63/75
 modification/sws_flz_lwf_63_75/desc;"Loadout unlocked: <color=@userlogColoredText>Flz.Lwf. 63/75 ""SIWA""</color> infrared-guided air-to-air missile."
 modification/sws_flz_lwf_ll_64;Flz.Lwf. LL 64/79
-modification/sws_flz_lwf_ll_64/desc;"Loadout unlocked: <color=@userlogColoredText>Flz.Lwf. LL 64/79 ""FALCO""</color> semi-active radar homing air-to-air missile."
+modification/sws_flz_lwf_ll_64/desc;"Loadout unlocked: <color=@userlogColoredText>Flz.Lwf. LL 64/79 ""FALCO""</color> semi-active radar-homing air-to-air missile."
 modification/flz_lwf_lb_66;Flz.Lwf. LB 66
 modification/flz_lwf_lb_66/desc;"Loadout unlocked: <color=@userlogColoredText>Flz.Lwf. LB 66 ""NORAS""</color> radio-guided air-to-ground missile."
 
@@ -219,13 +227,13 @@ modification/flz_lwf_lb_66/desc;"Loadout unlocked: <color=@userlogColoredText>Fl
 
 //JAPAN MISSILES
 modification/jp_asm1;ASM-1
-modification/jp_asm1/desc;Loadout unlocked: <color=@userlogColoredText>ASM-1</color> active radar homing anti-ship missile.
+modification/jp_asm1/desc;Loadout unlocked: <color=@userlogColoredText>ASM-1</color> active radar-homing anti-ship missile.
 modification/jp_asm2;ASM-2
 modification/jp_asm2/desc;Loadout unlocked: <color=@userlogColoredText>ASM-2</color> infrared-guided anti-ship missile.
 
 //CHINA MISSILES
 modification/cn_cm_502kg;CM502KG
-modification/cn_cm_502kg/desc;Loadout unlocked: <color=@userlogColoredText>CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong</color> infrared-guided air-to-ground missile.
+modification/cn_cm_502kg/desc;Loadout unlocked: <color=@userlogColoredText>CM502KG</color> infrared-guided air-to-ground missile.
 
 //ITALY MISSILES
 
@@ -239,11 +247,11 @@ modification/swd_rb74m/desc;Loadout unlocked: <color=@userlogColoredText>rb 74 (
 
 //USA SENSORS
 modification/us_an_aas_38b_pod;AN/AAS-38B
-modification/us_an_aas_38b_pod/desc;Loadout unlocked: the <color=@userlogColoredText>AN/AAS-38B NITE Hawk</color> laser/electro-optical targeting pod.
+modification/us_an_aas_38b_pod/desc;Loadout unlocked: <color=@userlogColoredText>AN/AAS-38B NITE Hawk</color> laser/electro-optical targeting pod.
 modification/sniper_atp_pod;AN/AAQ-33
-modification/sniper_atp_pod/desc;Loadout unlocked: the <color=@userlogColoredText>AN/AAQ-33</color> laser/electro-optical targeting pod.
+modification/sniper_atp_pod/desc;Loadout unlocked: <color=@userlogColoredText>AN/AAQ-33</color> laser/electro-optical targeting pod.
 modification/us_sniper_pod;AN/AAQ-33
-modification/us_sniper_pod/desc;Loadout unlocked: the <color=@userlogColoredText>AN/AAQ-33</color> laser/electro-optical targeting pod.
+modification/us_sniper_pod/desc;Loadout unlocked: <color=@userlogColoredText>AN/AAQ-33</color> laser/electro-optical targeting pod.
 
 //GERMANY SENSORS
 
@@ -253,11 +261,13 @@ modification/us_sniper_pod/desc;Loadout unlocked: the <color=@userlogColoredText
 
 //JAPAN SENSORS
 modification/j_aaq_2_pod;J/AAQ-2
-modification/j_aaq_2_pod/desc;Loadout unlocked: the <color=@userlogColoredText>J/AAQ-2</color> laser/electro-optical targeting pod.
+modification/j_aaq_2_pod/desc;Loadout unlocked: <color=@userlogColoredText>J/AAQ-2</color> laser/electro-optical targeting pod.
 
 //CHINA SENSORS
 
 //ITALY SENSORS
+modification/boz_false_thermal_targets;BOZ-102-EC
+modification/boz_false_thermal_targets/desc;Loadout unlocked: <color=@userlogColoredText>BOZ-102-EC</color> missile approach warning system.
 
 //FRANCE SENSORS
 
@@ -493,8 +503,6 @@ modification/cn_hf18;HF18 (Type 57-2)
 modification/cn_hf18/desc;Allows installation of HF18 rocket pods loaded with Type 57-2 unguided rockets.
 modification/cn_hf7a;HF7A (Type 90-1 (HE))
 modification/cn_hf7a/desc;Allows installation of HF7A rocket pods loaded with Type 90-1 (HE) unguided rockets.
-modification/cn_hf7d;HF7D (Type 70)
-modification/cn_hf7d/desc;Allows installation of HF7D rocket pods loaded with Type 70 unguided rockets.
 modification/C5M;S-5M
 modification/C5M/desc;Allows installation of S-5M unguided rockets.
 modification/mig_21_ub16;UB-16

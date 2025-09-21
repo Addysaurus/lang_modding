@@ -98,6 +98,10 @@ Loadout unlocked: 987 kg <color=@userlogColoredText>Bomb, Guided, GBU-64(V)1/B J
 //JAPAN ROCKETS
 
 //CHINA ROCKETS
+modification/cn_hf7d;FS70
+modification/cn_hf7d/desc;Loadout unlocked: <color=@userlogColoredText>FS70 Hángkōng Huojiàndàn</color> rocket.
+modification/cn_fire_snake_70a;FS70A
+modification/cn_fire_snake_70a/desc;Loadout unlocked: <color=@userlogColoredText>FS70A Hángkōng Zhìdao Huojiàndàn</color> rocket.
 
 //ITALY ROCKETS
 
@@ -110,10 +114,18 @@ Loadout unlocked: 987 kg <color=@userlogColoredText>Bomb, Guided, GBU-64(V)1/B J
 //UNCATEGORIZED ROCKETS
 
 //USA MISSILES
+modification/us_aim_4f;AIM-4F
+modification/us_aim_4f/desc;Loadout unlocked: <color=@userlogColoredText>Air-Launched, Intercept-Aerial, Guided Missile, AIM-4F Super Falcon</color> semi-active radar-homing air-to-air missile.
+modification/us_aim_4g;AIM-4G
+modification/us_aim_4g/desc;Loadout unlocked: <color=@userlogColoredText>Air-Launched, Intercept-Aerial, Guided Missile, AIM-4G Super Falcon</color> infrared-guided air-to-air missile.
 modification/us_aim_9n;AIM-9N
 modification/us_aim_9n/desc;Loadout unlocked: <color=@userlogColoredText>Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder</color> infrared-guided air-to-air missile.
 modification/us_aim_120c;AIM-120C-5
 modification/us_aim_120c/desc;Allows the installation of <color=@userlogColoredText>Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM</color> active radar homing air-to-air missile.
+modification/us_agm_179;JAGM-MR (SAL)
+modification/us_agm_179/desc;Loadout unlocked: <color=@userlogColoredText>Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (SAL)</color> semi-active laser-homing air-to-ground missile.
+modification/us_agm_179_ir;AGM-179 (IR)
+modification/us_agm_179_ir/desc;Loadout unlocked: <color=@userlogColoredText>Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (IR)</color> infrared-guided air-to-ground missile.
 
 //GERMANY MISSILES
 modification/sws_flz_lwf_63_75;Flz Lwf 63/75
@@ -134,6 +146,8 @@ modification/jp_asm2;ASM-2
 modification/jp_asm2/desc;Loadout unlocked: <color=@userlogColoredText>93 Shiki Sora Taikan Yūdōdan | ASM-2</color> infrared-guided anti-ship missile.
 
 //CHINA MISSILES
+modification/cn_cm_502kg;CM502KG
+modification/cn_cm_502kg/desc;Loadout unlocked: <color=@userlogColoredText>CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong</color> infrared-guided air-to-ground missile.
 
 //ITALY MISSILES
 
@@ -155,13 +169,15 @@ modification/swd_rb74m;rb 74 (REMO)
 
 //JAPAN SENSORS
 modification/sniper_atp_pod;AN/AAQ-33
-modification/sniper_atp_pod/desc;Loadout unlocked: the <color=@userlogColoredText>AN/AAQ-33 Sniper Advanced Targeting Pod</color> laser/electro-optical targeting pod.
+modification/sniper_atp_pod/desc;Loadout unlocked: <color=@userlogColoredText>AN/AAQ-33 Sniper Advanced Targeting Pod</color> laser/electro-optical targeting pod.
 modification/us_sniper_pod;AN/AAQ-33
-modification/us_sniper_pod/desc;Loadout unlocked: the <color=@userlogColoredText>AN/AAQ-33 Sniper Advanced Targeting Pod</color> laser/electro-optical targeting pod.
+modification/us_sniper_pod/desc;Loadout unlocked: <color=@userlogColoredText>AN/AAQ-33 Sniper Advanced Targeting Pod</color> laser/electro-optical targeting pod.
 
 //CHINA SENSORS
 
 //ITALY SENSORS
+modification/boz_false_thermal_targets;BOZ-102-EC
+modification/boz_false_thermal_targets/desc;Loadout unlocked: <color=@userlogColoredText>BOZ-102 Enhanced Capability</color> missile approach warning system.
 
 //FRANCE SENSORS
 

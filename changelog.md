@@ -413,7 +413,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 
 - #### Additions:
 
-    - Update "Tusk Force" changes:
+    - Update "Tusk Force" additions:
         - **GBU-38/62**
         - **JDAM**
         - **GBU-31/64**
@@ -423,6 +423,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **GBU-38/62 JDAM** (a-fucking-nother one the JDAMs never end)
         - **GBU-31/64 JDAM** (JDAMs are my life now)
         - **CM-502KG**
+        - **MAW BOZ**
+        - **Fire Snake 70A**
 
 - #### Changes:
 
@@ -434,7 +436,10 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **GBU-31/64 JDAM** → **GBU-31(V)1/B / 64(V)1/B**.
         - **SPICE 1000/2000** → **SPICE 1000 / 2000**.
         - **CM-502KG** → **CM502KG**.
+        - **MAW BOZ** → **BOZ-102-EC**.
+        - **Fire Snake 70A** → **FS70A**.
     - **GBU-15(V)1/B** → **GBU-15(V)1/B / 2/B**.
+    - **HF7D (Type 70)** → **FS70**.
 
 ### Engines:
 

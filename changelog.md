@@ -118,11 +118,11 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **M55** → **PzH M 55**. Statcard name → **Pacific Car and Foundry Company | Panzerhaubitze M 55**.
         - **BMD-4M2** → **BMD-4M (Sinicza)**. Statcard name → **Boyevaâ mašina dyesanta BMD-4M (Boyevoye otdyelyeniye Sinicza)**.
         - **9K317M "BUK-M3" (TELAR)** → **9A317M**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Radiolokaczionnaâ stancziâ obnaružyeniâ czyeli 9A317M "Buk-M3"**.
-        - **9K317M "BUK-M3" (TADS)** → **9S18M3**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M3 "Kupol"**.
+        - **9K317M "BUK-M3" (TADS)** → **9S18M3**. Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M3 "Kupol-M3"**.
         - **9K317M ""BUK-M3"** folder → **9S18M3 / A317M**.
         - **Ram I** → **Ram, Mk. I**. Statcard name → **Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. I**.
         - **Sky Sabre (TEL)** → **Sky Sabre (iLauncher)**. Statcard name → **Rafael International + MBDA UK Land Ceptor | Sky Sabre (Intelligent Launcher)**.
-        - **Sky Sabre (TADS)** → **Sky Sabre (Giraffe AMB)**. Statcard name → **Rafael International + MBDA UK Land Ceptor | Sky Sabre (Giraffe AMB)**.
+        - **Sky Sabre (TADS)** → **Sky Sabre (Giraffe AMB)**. Statcard name → **Rafael International + MBDA UK Land Ceptor | Sky Sabre (Giraffe Agile Multi Beam)**.
         - **Sky Sabre** folder → **Sky Sabre (iLauncher) / (Giraffe AMB)**.
         - **M163** (Japan / Thailand) → **Ptx. M 163**. Statcard name → **General Electric Company | Pụn Txsu Xākāṣyān Xạttā Jr 20 mm M 163**.
             - Thai package: **M163** → **ปตอ. เอ็ม 163**. Statcard name → **General Electric Company | ปืนต่อสู้อากาศยานอัตตาจร 20 มม เอ็ม 163**.
@@ -269,6 +269,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **B61**
         - **KGGB**
         - **BA-FG-230-Lizard-3**
+        - **CLDP**
         - **Drop tank (300 gal.)** (for the **F-2A-MIT (C10)**)
         - **CFT** (for the **F-16I**)
         - **Drop tank (275 gal.)**
@@ -278,6 +279,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **37 mm Gerät 341 cannon**
         - **Pzgr.** (for the new **Gerät 341**)
         - **Sprgr.** (for the new **Gerät 341**)
+        - **DHL-1** (explosive type)
         - **Nipolit** (explosive type)
         - **PBXN-9** (explosive type)
         - **9M317MA AAM** (launcher weapon for the **9A317M**)
@@ -321,7 +323,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **X-4** → **X 4**. Long name → **X 4**.
         - **RN-28**: Long name → **izd. 28 | RN-28**.
         - **B61** → **B61-8**. Long name → **Bomb, 2000lb, B61 Mod 8**.
-        - **BA-FG-230-Lizard-3** **BAFG-230 (Lizard 3)**. Long name → **Bombas Aéreas de Fins Gerais 230 (Lizard 3)**.
+        - **BA-FG-230-Lizard-3** → **BAFG-230 (Lizard 3)**. Long name → **Bombas Aéreas de Fins Gerais 230 (Lizard 3)**.
+        - **CLDP**: Long name → **Convertible Laser Designation Pod**.
         - **Drop tank (300 gal.)** → **Drop tank (300 gal)**.
         - **Drop tank (275 gal.)** → **Drop tank (275 gal)**.
         - **45-54VT**: Long name → **Torpyeda vysotnogo torpyedomyetaniâ 45-54VT**.
@@ -332,6 +335,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
             - Full Ammunition Names package: **Pzgr.** → **3,7cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger**.
         - **Sprgr.** (for the new **Gerät 341**) → **3,7cm Bd.-Spr.Gr.Patr. L/4,1 (Lh. 37)**.
             - Full Ammunition Names package: **Sprgr.** → **3,7cm Brand-Sprenggranate Patrone Lange/4,1 (Leuchtspurhülse 37)**.
+        - **DHL-1** → **DHL1**.
         - **9M317MA AAM** (launcher weapon for the **9A317M**) → **9P331M**. Long name → **Puskovoye ustrojstvo 9P331M**.
         - **9M317MA**:
             - Full Ammunition Names package: **9M317MA** → **Zyenitnaâ upravlâyemaâ rakyeta 9M317MA**.
@@ -368,7 +372,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **100 mm 2A70 cannon** → **2A70**.
         - **356 mm No5 APC** → **36 Sanchi 5 Gō Tekkō Dan**.
             - Full Ammunition Names package: **356 mm No5 APC** → **三六糎五號徹甲弾**.
-        - **LMUR** → **Kh-39**. Long name → **Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (SAL)**.
+        - **LMUR** → **Kh-39**. Long name → **9-A-7755 | izd. 305 | Kh-39**.
         - **Mk.11** → **Mk 11 Mod 0**. Long name → **Guided Missile Launching System Mk 11 Mod 0**.
         - **OSA-M** → **ZIF-122**. Long name → **Puskovoye ustrojstvo ZIF-122**.
         - **9M33** → **9M33M**.
@@ -408,6 +412,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
     - **Canon de 100 mm/45 Mle. 1930** → **Canon de 100 mm/45 mle. 1930**.
     - **Canon de 380 mm/45 Mle. 1935** → **Canon de 380 mm/45 mle. 1935**.
     - **152 mm/55 model 1930** (the existing one for **La Galissonnière**) → **Canon de 152 mm/55 mle. 1930**. Long name → **Canon de 152 mm/55 modèle 1930**.
+    - **Octogel** (explosive type) → **HMX**
+    - **105 mm LRF cannon** → **Royal Ordnance Nottingham + Cadillac Gage 105 mm Low Recoil Force Tank Gun**.
 
 ### Modifications
 
@@ -439,8 +445,29 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 
 ### Engines:
 
+- #### Additions:
+
+    - Update "Tusk Force" additions:
+        - **Detroit** (manufacturer)
+        - **8V92TA**
+        - **6TD-2**
+        - **V-84-2S1**
+        - **UTD-29T-01**
+        - **Dxi 11**
+        - **WJ-6**
+        - **Weijiang** (manufacturer)
+
 - #### Changes:
 
+    - Update "Tusk Force" changes:
+        - **Detroit** (manufacturer) → **Detroit Diesel Corporation**.
+        - **8V92TA** → **8V-92TA**.
+        - **6TD-2**:
+            - Ukrainian package: **6TD-2** → **6ТД-2**.
+        - **V-84-2S1** → **V-84MS**. I'm not 100% sure, but it appears what happened is that the GM-569A chassis can mount the V-46-2S1M, V-84DT, or V-84MS engines. I cannot find the stats for the V-84DT, but the visual model of the engine and the ingame stats do appear to line up with at least the V-84MS, but Gaijin fused those engines into the hybrid name of V-84-2S1.
+        - **Dxi 11** → **DXi 11 Euro 4**.
+        - **WJ-6** → **WJ6 Fādòngjī**.
+        - **Weijiang** → **Zhōngguó Nánfāng Hángkōng Dònglì Jīxiè Gōngsī** (idk wtf Weijiang is, I can't find any record of this manufacturer ever existing, so its name has been chanegd to what the actual manufacturer is).
     - **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata** → **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata | NK9C**.
         - Japanese package: **4式1850馬力発動機 | ハ45-12 | 誉12型** → **四式一八五〇馬力発動機 | ハ45-12 | 誉一二型 | NK9C**.
 
@@ -449,11 +476,34 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
 - #### Additions:
 
     - Update "Tusk Force" additions:
+        - Tracking & search types:
+            - **ATT** (Gaijin calls it a model of sight, it's not)
+            - **Air Search**
+            - **Surface Search**
+            - **GTM**
+            - **Sea**
+            - **GMTI**
+        - **Giraffe AMB**
+        - **Thales Arabel**
+        - **9S18M3**
+        - **Viking**
+        - **AN/APG-78**
+        - **AN/APG-78(V6)**
+        - **SPS-3000**
+        - **RWR** (for the **Z10**s and **Z19**s)
         - **Varta**
 
 - #### Changhes:
 
     - Update "Tusk Force" changes:
+        - **Giraffe AMB** → **Giraffe Agile Multi Beam**.
+        - **Thales Arabel** → **Arabel**.
+        - **9S18M3** → **Radiolokaczionnaâ stancziâ 9S18M3 "Kupol-M3"**.
+        - **Viking** → **Radiolokaczionnaâ stancziâ 9S35M3**.
+        - **AN/APG-78** → **AN/APG-78 Longbow**.
+        - **AN/APG-78(V6)** → **AN/APG-78(V)6 Longbow**.
+        - **SPS-3000** → **SPS-3000(V)**.
+        - **RWR** → **YH96**.
         - **Varta**:
             - Ukrainian package: **Varta** → **Варта**.
 

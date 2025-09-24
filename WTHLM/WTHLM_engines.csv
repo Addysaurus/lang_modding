@@ -47,6 +47,7 @@ engine_manufacturer/snecma;Manufacturer: SNECMA
 engine_manufacturer/snecma_turbomeca_larzac;Manufacturer: SNECMA Turbomeca Larzac
 engine_manufacturer/arsenal;Manufacturer: Arsenal
 engine_manufacturer/renault;Manufacturer: Renault
+engine_manufacturer/Renault;Manufacturer: Renault
 engine_manufacturer/tumansky;Manufacturer: Tumansky
 engine_manufacturer/IAR;Manufacturer: IAR
 engine_manufacturer/honeywell;Manufacturer: Honeywell
@@ -88,6 +89,8 @@ engine_manufacturer/man;Manufacturer: MAN Truck & Bus
 engine_manufacturer/ivchenko;"Manufacturer: Zaporožskoye mašinostroityel'noye konstruktorskoye bûro ""Progryess"" imyeni akadyemika A. G. Ivčyenko"
 engine_manufacturer/orenda;Manufacturer: Orenda Engines
 engine_manufacturer/saurer;Manufacturer: Adolph Saurer
+engine_manufacturer/detroit;Manufacturer: Detroit Diesel Corporation
+engine_manufacturer/weijiang;Manufacturer: Zhōngguó Nánfāng Hángkōng Dònglì Jīxiè Gōngsī
 
 //ENGINES
 engine_model/jumo004d;"
@@ -1413,6 +1416,18 @@ engine_model/vk-1f;"
 Engine model: VK-1F"
 engine_model/j75-p-17;"
 Engine model: J75-P-17"
+engine_model/8v92ta;"
+Engine model: 8V-92TA"
+engine_model/6td2;"
+Engine model: 6TD-2"
+engine_model/v_84_2s1;"
+Engine model: V-84MS"
+engine_model/utd_29t_01;"
+Engine model: UTD-29T-01"
+engine_model/dxi11;"
+Engine model: DXi 11 Euro 4"
+engine_model/wj-6;"
+Engine model: WJ6 Fādòngjī"
 
 //TRANSMISSION MANUFACTURERS
 transmission_manufacturer/allison;Manufacturer: Allison

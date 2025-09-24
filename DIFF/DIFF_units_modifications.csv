@@ -28,7 +28,7 @@ sensors/us_an_apg_63_baz;AN/APG-63 PSP
 sensors/us_an_apg_78;AN/APG-78
 sensors/us_an_apg_78_v6;AN/APG-78(V6)
 sensors/il_elisra_sps_3000;SPS-3000
-sensors/cn_helicopter_z10me_rwr;RWR
+sensors/cn_helicopter_z_late_rwr;RWR
 radar_air_search;Air Search
 radar_surface_search;Surface Search
 radar_gtm;GTM
@@ -57,5 +57,6 @@ modification/cn_fire_snake_70a/desc;Allows the installation of Fire Snake 70A mi
 modification/cn_fire_snake_70a;Fire Snake 70A
 modification/su_lmur/desc;Allows the installation of LMUR missiles.
 modification/su_lmur;LMUR
+engine_model/j71-a-13;J71-A-13
 counterMeasures/varta;Varta
 engine_model/T700-GE-701D;T700-GE-701D

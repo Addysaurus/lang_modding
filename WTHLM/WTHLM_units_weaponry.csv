@@ -86,6 +86,7 @@ weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color>
 //UK GUNS
 weapons/7_62mm_ss77_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Denel Land Systems General Purpose Machine Gun SS77 Mk1 <color=#ff6f00>MG</color>
 weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Denel Land Systems Linkless CamGun EMAK 30 | GI-30 <color=#ff6f00>ACNN</color>
+weapons/105mm_LRF_user_cannon;<color=@userlogColoredText>105 mm</color> Royal Ordnance Nottingham + Cadillac Gage 105 mm Low Recoil Force Tank Gun <color=#ff6f00>CNN</color>
 weapons/120mm_45_qf_mk9_single_naval_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, Q.F., 4.7-inch, Mk. IX <color=#ff6f00>CNN</color>
 weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredText>133 mm</color> Gun, Q.F., 5.25-inch, Mk. I <color=#ff6f00>CNN</color>
 
@@ -710,9 +711,10 @@ weapons/80mm_brenus_smoke_grenade_launcher/short;GALIX 13
 //UNCATEGORIZED SMOKE GRENADES
 
 //EXPLOSIVE TYPES
-explosiveType/octogel;Oktogel
+explosiveType/octogel;HMX
 explosiveType/tg_50;TG-50
 explosiveType/hbx_3;HBX-3
+explosiveType/dhl_1;DHL1
 explosiveType/nipolit;Nipolit
 explosiveType/pbxn_9;PBXN-9
 
@@ -2124,7 +2126,6 @@ weapons/105mm_GT3B_user_cannon;105 mm GT-3 cannon
 76mm_gt4_he;76/62 HE
 weapons/105mm_L7A3_GA_2_user_cannon;105 mm L7A3 cannon
 weapons/105mm_L7A3_user_cannon;105 mm L7A3 cannon
-weapons/105mm_LRF_user_cannon;105 mm LRF cannon
 weapons/105mm_M68A1_E8_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, M68A1E8 <color=#ff6f00>CNN</color>
 weapons/105mm_M68A1_AGS_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, EX 35 MOD 0 <color=#ff6f00>CNN</color>
 105mm_m900;M900
@@ -3208,7 +3209,6 @@ explosiveType/napalm;Napalm-B
 explosiveType/napalm_gel;Napalm
 explosiveType/sks;CKC
 explosiveType/fp_02;FP 02
-explosiveType/octogel;Octogel
 explosiveType/aerea_64057;Aerea 64057
 explosiveType/pentolite;Pentolite
 explosiveType/detonite;Detonite

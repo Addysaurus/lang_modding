@@ -503,7 +503,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **RWR** (for the **Z10**s and **Z19**s)
         - **Varta**
 
-- #### Changhes:
+- #### Changes:
 
     - Update "Tusk Force" changes:
         - **Giraffe AMB** → **Giraffe Agile Multi Beam**.
@@ -516,6 +516,32 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **RWR** → **YH96**.
         - **Varta**:
             - Ukrainian package: **Varta** → **Варта**.
+
+### Loading screens:
+
+- #### Additions:
+
+    - Update "Tusk Force" additions:
+        - **HMS Nelson**
+        - **M55**
+        - **BM Oplot-T**
+        - **Attack helicopters**
+    - jesus christ i missed so many from before tusk force:
+        - **WZ-141-1**
+        - **IJN Shisaka**
+        - **Mackensen**
+
+- #### Changes:
+
+    - Update "Tusk Force: changes:
+        - **HMS Nelson** → **HMS Nelson (28)**.
+        - **BM Oplot-T** → **Th.Hlạk 57**.
+            - Thai package: **BM Oplot-T** → **ถ.หลัก 57**.
+        - **Attack helicopters** → **AH-64E (v6), Mi-28NM, and Z10ME-02**.
+    - **WZ-141-1** → **141 (1 Hào)**.
+    - **IJN Shisaka** → **Shisaka**.
+        - Japanese package: **IJN Shisaka** → **四阪**.
+    
 
 ## 1.13.02 — 13-08-2025
 

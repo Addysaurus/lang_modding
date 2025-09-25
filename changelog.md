@@ -517,6 +517,22 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Varta**:
             - Ukrainian package: **Varta** → **Варта**.
 
+### Materials:
+
+- #### Additions:
+
+    - Update "Tusk Force" additions:
+        - **"Nizh" ERA**
+        - **"Duplet" ERA**
+
+- #### Changes:
+
+    - Update "Tusk Force" changes:
+        - **"Nizh" ERA** → **Nìž-1M**.
+            - Ukrainian package: **"Nizh" ERA** → **Ніж-1М**.
+        - **"Duplet" ERA** → **Duplyet-2M**.
+            - Ukrainian package: **"Duplet" ERA** → **Дуплет-2М**.
+
 ### Loading screens:
 
 - #### Additions:

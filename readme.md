@@ -49,11 +49,15 @@ This mod has additional packages you can install to modify vehicle names and put
 Available packages:
 - Language packages:
   - Japanese:
-    - This package puts Japanese vehicles and weapons into Japanese.
+    - This package puts Japanese vehicles and weapons and weapons into Japanese.
   - Farsi:
-    - This package puts Iranian vehicles and weapons into Farsi.
+    - This package puts Iranian vehicles and weapons and weapons into Farsi.
   - Thai:
     - This package puts Thai vehicles and weapons into Thai.
+  - Ukrainian
+    - This package puts Ukrainian vehicles and weapons into Ukrainian.
+  - Thai + Ukrainian
+    - This package corrects crossover between the Thai and Ukrainian packages, allowing you to have Thai and Ukrainian running together in crossover cases (e.g. the long name of the Th.Hlạk 57).
 - Other packages:
   - Full Ammunition Names
     - This packages introduces the full names of ammunition that may be too long to be convenient for use.
@@ -90,11 +94,11 @@ Version numbering is generally standard. 1.08.66, 1.08.67, 1.08.68, etc. That is
 
 All languages are transliterated; none are translated.
 
-### Russian
+### Russian & Ukrainian
 
 Russian is transliterated with a modified version of GOST 7.79-2000 A (ISO 9:1995). Below you can find the transliteration chart used for Russian.
 
-#### Russian transliteration chart:
+#### Russian & Ukrainian transliteration chart:
 
 - А а &nbsp; &nbsp;→ &nbsp; &nbsp;A a
 - Б б &nbsp; &nbsp;→ &nbsp; &nbsp;B b
@@ -107,7 +111,7 @@ Russian is transliterated with a modified version of GOST 7.79-2000 A (ISO 9:199
 - З з &nbsp; &nbsp;→ &nbsp; &nbsp;Z z
 - И и &nbsp; &nbsp;→ &nbsp; &nbsp;I i
 - Й й &nbsp; &nbsp;→ &nbsp; &nbsp;J j
-- І і &nbsp; &nbsp;→ &nbsp; &nbsp;Ì ì (this is not a standard Russian alphabet character and is only used in this mod in Pavyel Âkaŭlyevìč Galavačoŭ's name)
+- І і &nbsp; &nbsp;→ &nbsp; &nbsp;Ì ì
 - К к &nbsp; &nbsp;→ &nbsp; &nbsp;K k
 - Л л &nbsp; &nbsp;→ &nbsp; &nbsp;L l
 - М м &nbsp; &nbsp;→ &nbsp; &nbsp;M m
@@ -118,7 +122,7 @@ Russian is transliterated with a modified version of GOST 7.79-2000 A (ISO 9:199
 - С с &nbsp; &nbsp;→ &nbsp; &nbsp;S s
 - Т т &nbsp; &nbsp;→ &nbsp; &nbsp;T t
 - У у &nbsp; &nbsp;→ &nbsp; &nbsp;U u
-- Ў ў &nbsp; &nbsp;→ &nbsp; &nbsp;Ŭ ŭ (this is not a standard Russian alphabet character and is only used in this mod in Pavyel Âkaŭlyevìč Galavačoŭ's name)
+- Ў ў &nbsp; &nbsp;→ &nbsp; &nbsp;Ŭ ŭ
 - Ф	ф &nbsp; &nbsp;→ &nbsp; &nbsp;F f
 - Х	х &nbsp; &nbsp;→ &nbsp; &nbsp;Kh kh
 - Ц	ц &nbsp; &nbsp;→ &nbsp; &nbsp;Cz cz (C before I, E, Y, and J)

@@ -110,7 +110,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Mosquito FB Mk VI ASH** → **Mosquito F.B. Mk. VI (A.S.V. Mk. IX)**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI (A.S.V. Mk. IX)**.
         - **Mosquito** (Sweden / Norway) folder → **Mosquito F.B. Mk. VI / VI (A.S.V. Mk. IV)**.
         - **AH-64E** → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**. It's a butchered to hell v6, but it has the JAGM so it is the v6.
-        - **Mi-35P**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Vyertolyet Mi-35P**.
+        - **Mi-35P**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet «Fyeniks»**. What have I done...? I'm scared of my creation... (this thing is definitely gonna be a monster in my next D&D campaign because jesus fucking christ)
         - **Mi-35** (Japan / Indonesia) → **Mi-35P**. Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» | Mi-35P**.
         - **M55**: Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55**.
         - **T58**: Statcard name → **United Shoe Machinery Corporation | Tank, Combat, Full Tracked: 155mm Gun, T58**.

@@ -537,10 +537,12 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **HMS Nelson** → **HMS Nelson (28)**.
         - **BM Oplot-T** → **Th.Hlạk 57**.
             - Thai package: **BM Oplot-T** → **ถ.หลัก 57**.
-        - **Attack helicopters** → **AH-64E (v6), Mi-28NM, and Z10ME-02**.
+        - **Attack helicopters** → **AH-64E Apache (v6), Mi-28NM, and Z10ME-02**.
     - **WZ-141-1** → **141 (1 Hào)**.
     - **IJN Shisaka** → **Shisaka**.
         - Japanese package: **IJN Shisaka** → **四阪**.
+    - **F-14A-65-GR Tomcat** → **F-14A-110-GR Tomcat**.
+    - **AMX 40** → **AMX 40 P4**.
     
 
 ## 1.13.02 — 13-08-2025

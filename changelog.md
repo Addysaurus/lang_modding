@@ -456,6 +456,11 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Dxi 11**
         - **WJ-6**
         - **Weijiang** (manufacturer)
+        - **Sakae 22** (unused)
+        - **Derwent 1** (unused)
+        - **Ha-25 type 99** (unused)
+        - **J71-A-13**
+        - **T700-GE-701D**
 
 - #### Changes:
 
@@ -468,6 +473,11 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **Dxi 11** → **DXi 11 Euro 4**.
         - **WJ-6** → **WJ6 Fādòngjī**.
         - **Weijiang** → **Zhōngguó Nánfāng Hángkōng Dònglì Jīxiè Gōngsī** (idk wtf Weijiang is, I can't find any record of this manufacturer ever existing, so its name has been chanegd to what the actual manufacturer is).
+        - **Sakae 22** → **Ha 35-22 | Sakae 22 Gata | NK1G**.
+            - Japanese package: **Sakae 22** → **ハ35-22 | 栄二二型 | NK1G**.
+        - **Derwent 1** → **Rolls-Royce RB.37 | Derwent Mk. 1**.
+        - **Ha-25 type 99** → **99 Shiki 950 Bariki Hatsudōki | Ha 25**.
+            - Japanese package: **Ha 25 type 99** → **九九式九五〇馬力発動機 | ハ25**.
     - **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata** → **4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 | Homare 12 Gata | NK9C**.
         - Japanese package: **4式1850馬力発動機 | ハ45-12 | 誉12型** → **四式一八五〇馬力発動機 | ハ45-12 | 誉一二型 | NK9C**.
 

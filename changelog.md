@@ -139,7 +139,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **M55** (Italy) → **203/25 M55**. Statcard name → **Pacific Car and Foundry Company | Semovente da 203/25 M55**.
         - **FSAF SAMP/T (TEL)** (Italy) → **SAMP/T (MLT)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre (Module de Lancement Terrestre)**.
         - **FSAF SAMP/T (TADS)** (Italy) → **SAMP/T (MRI)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre (Module Radar et IFF)**.
-        - **FSAF SAMP/T** (France) folder → **SAMP/T (MRI) / (MLT)**.
+        - **FSAF SAMP/T** (Italy) folder → **SAMP/T (MRI) / (MLT)**.
         - **M55** (France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 203mm, M55**.
         - **FSAF SAMP/T (Mamba) (TEL)** (France) → **SAMP/T (MLT)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre "Mamba" (Module de Lancement Terrestre)**.
         - **FSAF SAMP/T (Mamba) (TADS)** (France) → **SAMP/T (MRI)**. Statcard name → **Eurosam | Sol-Air Moyenne Portée/Terrestre "Mamba" (Module Radar et IFF)**.

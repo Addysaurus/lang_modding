@@ -16,6 +16,16 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.14.01 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - **F-5E** (Germany / Switzerland) → **F5 E (1999)**.
+    - **F/A-18C** (Germany / Switzerland) → **F/A18 C**.
+    - **F/A-18C (Upgrade 25)** (Germany / Switzerland) → **F/A18 C (Upgrade 25)**.
+
 ## 1.14.00 — 25-09-2025
 
 I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu) for helping with the Hungarian ground tree rework. Without their help, this rework would not have been possible and the sourcing work they did for it was instrumental to it coming out as good as it did.

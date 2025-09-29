@@ -20,15 +20,22 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - "Semper Fidelis" event additions:
+        - **EFV**
+
 - #### Changes:
 
+    - "Semper Fidelis" event changes:
+        - **EFV** → **EFV-P1**. Statcard name → **General Dynamics Land Systems Expeditionary Fighting Vehicle Personnel Variant 1**.
     - **F-5E** (Germany / Switzerland) → **F5 E (1999)**.
     - **F/A-18C** (Germany / Switzerland) → **F/A18 C**.
     - **F/A-18C (Upgrade 25)** (Germany / Switzerland) → **F/A18 C (Upgrade 25)**.
-    - **Tiger B (früh)** → **Tiger B (Fgst.Nr. 15)**. Long name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fahrgestell Nummer 280015)**.
-    - **Tiger B (Serie)** → **Tiger B (Serien-Turm)**. Long name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit Serien-Turm (Sd.Kfz. 182)**.
-    - **Tiger II (Sla.16)** → **Tiger B (Sla. 16)**. Long name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit SGP Sla. 16 (Sd.Kfz. 182)**.
-    - **Tiger II (10,5cm)** → **Tiger B (10,5cm Kw.K.)**. Long name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68 (Sd.Kfz. 182)**.
+    - **Tiger B (früh)** → **Tiger B (Fgst.Nr. 15)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fahrgestell Nummer 280015)**.
+    - **Tiger B (Serie)** → **Tiger B (Serien-Turm)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit Serien-Turm (Sd.Kfz. 182)**.
+    - **Tiger II (Sla.16)** → **Tiger B (Sla. 16)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit SGP Sla. 16 (Sd.Kfz. 182)**.
+    - **Tiger II (10,5cm)** → **Tiger B (10,5cm Kw.K.)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68 (Sd.Kfz. 182)**.
 
 ## 1.14.00 — 25-09-2025
 

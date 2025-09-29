@@ -24,11 +24,13 @@ All dates are listed in DD-MM-YYYY format.
 
     - "Semper Fidelis" event additions:
         - **EFV**
+    - **SU/Object** folder (jesus christ that name)
 
 - #### Changes:
 
     - "Semper Fidelis" event changes:
         - **EFV** → **EFV-P1**. Statcard name → **General Dynamics Land Systems Expeditionary Fighting Vehicle Personnel Variant 1**.
+    - **SU/Object** → **SU-122-54 / Ob. 268**.
     - **F-5E** (Germany / Switzerland) → **F5 E (1999)**.
     - **F/A-18C** (Germany / Switzerland) → **F/A18 C**.
     - **F/A-18C (Upgrade 25)** (Germany / Switzerland) → **F/A18 C (Upgrade 25)**.

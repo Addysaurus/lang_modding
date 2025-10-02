@@ -29,7 +29,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - "Semper Fidelis" event changes:
-        - **EFV** → **EFV-P1**. Statcard name → **General Dynamics Land Systems Expeditionary Fighting Vehicle Personnel Variant 1**.
+        - **EFV** → **EFV-P1 (SDD-2) (M82)**. Statcard name → **General Dynamics Land Systems Expeditionary Fighting Vehicle Personnel Variant 1 (System Development and Demonstration 2) (Grenade, Launcher, Smoke: Simulant Screening, M82)**. It's a mutant. It's an SDD-2, but with a weird cant angle at the front sideskirt notch that doesn't exist on any EFV variant and the smoke grenades from the SDD-1 turret instead of an extendable camera observation tower, though the rest of the turret is an SDD-2 turret.
     - **SU/Object** → **SU-122-54 / Ob. 268**.
     - **F-5E** (Germany / Switzerland) → **F5 E (1999)**.
     - **F/A-18C** (Germany / Switzerland) → **F/A18 C**.
@@ -38,6 +38,12 @@ All dates are listed in DD-MM-YYYY format.
     - **Tiger B (Serie)** → **Tiger B (Serien-Turm)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit Serien-Turm (Sd.Kfz. 182)**.
     - **Tiger II (Sla.16)** → **Tiger B (Sla. 16)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit SGP Sla. 16 (Sd.Kfz. 182)**.
     - **Tiger II (10,5cm)** → **Tiger B (10,5cm Kw.K.)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68 (Sd.Kfz. 182)**.
+
+### Weaponry:
+
+- #### Changes:
+
+    - **Grenade, Launcher, Smoke, M82** → **Grenade, Launcher, Smoke: Simulant Screening, M82**.
 
 ## 1.14.00 — 25-09-2025
 

@@ -29,7 +29,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - "Semper Fidelis" event changes:
-        - **EFV** → **EFV-P1 (SDD-2) (M82)**. Statcard name → **General Dynamics Land Systems Expeditionary Fighting Vehicle Personnel Variant 1 (System Development and Demonstration 2) (Grenade, Launcher, Smoke: Simulant Screening, M82)**. It's a mutant. It's an SDD-2, but with a weird cant angle at the front sideskirt notch that doesn't exist on any EFV variant and the smoke grenades from the SDD-1 turret instead of an extendable camera observation tower, though the rest of the turret is an SDD-2 turret.
+        - **EFV** → **EFV-P1 (SDD-2) (M82)**. Statcard name → **General Dynamics Land Systems Expeditionary Fighting Vehicle Personnel Variant 1 (System Development and Demonstration 2) (Grenade, Launcher, Smoke: Simulant Screening, M82)**. It's a mutant. It's an SDD-2, but with a weird cant angle at the front sideskirt notch that doesn't exist on any EFV variant and the smoke grenades from the SDD-1 turret instead of an extendable camera observation tower, though the rest of the turret is an SDD-2 turret. I have reported this already, this name might become just **EFV-P1 (SDD-2)** if Gaijoobles fixes it.
     - **SU/Object** folder → **SU-122-54 / Ob. 268**.
     - **T-55A / AD-1** folder → **T-55A / 62**. Folders have been shuffled around so the vehicles changed.
     - **T-62 / 62M-1** folder → **T-55AD-1 / 62M-1**. Folders have been shuffled around so the vehicles changed.

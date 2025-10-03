@@ -5082,7 +5082,7 @@ su_33_2;Su-33
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 mi_35p_shop;Mi-35P
-mi_35p_0;AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet «Fyeniks»
+mi_35p_0;"AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet ""Fyeniks"""
 mi_35p_1;Mi-35P
 mi_35p_2;Mi-35
 
@@ -13675,9 +13675,9 @@ germ_marder_1a1_shop;SPz Marder 1 A1 (-)
 germ_marder_1a1_0;Schützenpanzer Marder 1 A1 (-)
 germ_marder_1a1_1;SPz Marder 1
 germ_marder_1a1_2;Light tank
-germ_begleitpanzer_57_shop;BgPz 57
-germ_begleitpanzer_57_0;Thyssen Henschel | Begleitpanzer 57
-germ_begleitpanzer_57_1;BgPz 57
+germ_begleitpanzer_57_shop;Begleit-Pz 57 mm
+germ_begleitpanzer_57_0;Thyssen Henschel + Bofors Begleitpanzer 57 mm
+germ_begleitpanzer_57_1;Begleit-Pz 57 mm
 germ_begleitpanzer_57_2;IFV
 sw_bt_42_shop;15 ryn.tyk.psv./BT42
 sw_bt_42_0;Ps. 511 | 15 tonnin rynnäkkötykkipanssarivaunu mallia BT42

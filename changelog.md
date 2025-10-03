@@ -40,6 +40,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Tiger B (Serie)** → **Tiger B (Serien-Turm)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit Serien-Turm (Sd.Kfz. 182)**.
     - **Tiger II (Sla.16)** → **Tiger B (Sla. 16)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit SGP Sla. 16 (Sd.Kfz. 182)**.
     - **Tiger II (10,5cm)** → **Tiger B (10,5cm Kw.K.)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68 (Sd.Kfz. 182)**.
+    - **BgPz 57** → **Begleit-Pz 57 mm**. Statcard name → **Thyssen Henschel + Bofors Begleitpanzer 57 mm**.
+    - **Mi-35P**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet ""Fyeniks"** (the accidental Russian quote characters around "Fyeniks" have been replaced with English quote characters, thx Odican for making me realize).
 
 ### Weaponry:
 

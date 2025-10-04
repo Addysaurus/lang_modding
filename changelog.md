@@ -46,6 +46,12 @@ All dates are listed in DD-MM-YYYY format.
     - **Eurofighter (T2 B10)** → **Eurofighter (P3Ea)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement A)**.
     - **Typhoon F.G.R. Mk. 4** → **Typhoon F.G.R. Mk. 4 (Centurion)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3A) | Typhoon F.G.R. Mk. 4 (Project Centurion Phase 2)**.
     - **F-2000A** → **F-2000A (P3Ea)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A (Phase 3 Enhancement A)**.
+    - **Th.Bao 32**: Statcard name → **Cadillac Gage Stingray | Rth Thạng Bao Stingray | Rth Thạng Bao 32**.
+        - Thai package: Statcard name → **Cadillac Gage Stingray | รถถังเบา Stingray | รถถังเบา 32**.
+    - **Th.Hlạk 57**: Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rth Thạng Hlạk Oplot | Rth Thạng Hlạk 57**.
+        - Thai package: Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | รถถังหลัก Oplot | รถถังหลัก 57**.
+        - Ukrainian package: Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Rth Thạng Hlạk Oplot | Rth Thạng Hlạk 57**.
+        - Thai + Ukrainian package: Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | รถถังหลัก Oplot | รถถังหลัก 57**.
 
 ### Weaponry:
 

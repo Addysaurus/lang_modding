@@ -39,8 +39,8 @@ All dates are listed in DD-MM-YYYY format.
     - **F/A-18C (Upgrade 25)** (Germany / Switzerland) → **F/A18 C (Upgrade 25)**.
     - **Tiger B (früh)** → **Tiger B (Fgst.Nr. 15)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fahrgestell Nummer 280015)**.
     - **Tiger B (Serie)** → **Tiger B (Serien-Turm)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit Serien-Turm (Sd.Kfz. 182)**.
-    - **Tiger II (Sla.16)** → **Tiger B (Sla. 16)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit SGP Sla. 16 (Sd.Kfz. 182)**.
-    - **Tiger II (10,5cm)** → **Tiger B (10,5cm Kw.K.)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68 (Sd.Kfz. 182)**.
+    - **Tiger B (Sla.16)** → **Tiger B (Sla. 16)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit SGP Sla. 16 (Sd.Kfz. 182)**.
+    - **Tiger B (10,5cm)** → **Tiger B (10,5cm Kw.K.)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68 (Sd.Kfz. 182)**.
     - **BgPz 57** → **Begleit-Pz 57 mm**. Statcard name → **Thyssen Henschel + Bofors Begleitpanzer 57 mm**.
     - **Mi-35P**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet ""Fyeniks"** (the accidental Russian quote characters around "Fyeniks" have been replaced with English quote characters, thx Odican for making me realize).
     - **Eurofighter (T2 B10)** → **Eurofighter (P3Ea)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement A)**.

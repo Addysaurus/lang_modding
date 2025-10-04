@@ -33,6 +33,7 @@ All dates are listed in DD-MM-YYYY format.
     - **SU/Object** folder → **SU-122-54 / Ob. 268**.
     - **T-55A / AD-1** folder → **T-55A / 62**. Folders have been shuffled around so the vehicles changed.
     - **T-62 / 62M-1** folder → **T-55AD-1 / 62M-1**. Folders have been shuffled around so the vehicles changed.
+    - **Sky Sabre (iLauncher) / (Giraffe AMB)** folder → **Sky Sabre (Giraffe AMB) / (iLauncher)** to reflect the order of the vehicles.
     - **F-5E** (Germany / Switzerland) → **F5 E (1999)**.
     - **F/A-18C** (Germany / Switzerland) → **F/A18 C**.
     - **F/A-18C (Upgrade 25)** (Germany / Switzerland) → **F/A18 C (Upgrade 25)**.
@@ -42,6 +43,9 @@ All dates are listed in DD-MM-YYYY format.
     - **Tiger II (10,5cm)** → **Tiger B (10,5cm Kw.K.)**. Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68 (Sd.Kfz. 182)**.
     - **BgPz 57** → **Begleit-Pz 57 mm**. Statcard name → **Thyssen Henschel + Bofors Begleitpanzer 57 mm**.
     - **Mi-35P**: Statcard name → **AO «Moskovskij vyertolëtnyj zavod im. M. L. Milâ» / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet ""Fyeniks"** (the accidental Russian quote characters around "Fyeniks" have been replaced with English quote characters, thx Odican for making me realize).
+    - **Eurofighter (T2 B10)** → **Eurofighter (P3Ea)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement A)**.
+    - **Typhoon F.G.R. Mk. 4** → **Typhoon F.G.R. Mk. 4 (Centurion)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3A) | Typhoon F.G.R. Mk. 4 (Project Centurion Phase 2)**.
+    - **F-2000A** → **F-2000A (P3Ea)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A (Phase 3 Enhancement A)**.
 
 ### Weaponry:
 

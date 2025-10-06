@@ -24,7 +24,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - **M1A1HC**: Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC** (the missing comma after "Gun" was corrected).
 
-## 1.14.01 - UNRELEASED
+## 1.14.01 - 04-10-2025
 
 ### Vehicles:
 

@@ -23,6 +23,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **M1A1HC**: Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC** (the missing comma after "Gun" was corrected).
+    - **M55** (USA & France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55**.
 
 ## 1.14.01 - 04-10-2025
 

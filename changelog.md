@@ -24,6 +24,13 @@ All dates are listed in DD-MM-YYYY format.
 
     - **M1A1HC**: Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC** (the missing comma after "Gun" was corrected).
     - **M55** (USA & France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55**.
+    - **Bismarck**: Statcard name → **Blohm & Voss / Seebahnhof Pier | Schlachtschiff Bismarck-Klasse | Bismarck (1941)**.
+
+### Engines:
+
+- #### Changes:
+
+    - **MTR390-2c** → **MTR390-2C**.
 
 ## 1.14.01 - 04-10-2025
 

@@ -26,6 +26,14 @@ All dates are listed in DD-MM-YYYY format.
     - **M55** (USA & France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55**.
     - **Bismarck**: Statcard name → **Blohm & Voss / Seebahnhof Pier | Schlachtschiff Bismarck-Klasse | Bismarck (1941)**.
 
+### Weaponry:
+
+- #### Changes:
+
+    - **1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào**.
+    - **1977 Shì 12.7 Háomi Gāoshè Jīqiāng** → **1977 Nián Shì 12.7 Háomi Gāoshè Jīqiāng**.
+    - **85 mm Type 56 cannon** → **52-PT-365 | ZiS-S-53 obr. 1944 g.**. Gaijin calls it the Type 56 which is a Chinese copy of the D-44, but it's not. It's identical to the ZiS-S-53 obr. 1944 g. but named differently because Gaijin is Gaijin.
+
 ### Engines:
 
 - #### Changes:

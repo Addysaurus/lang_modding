@@ -6,7 +6,7 @@ weapons/7_62mm_Type_59_user_machinegun;<color=@userlogColoredText>7.62 mm</color
 weapons/7_62mm_Type86_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 1986年式7.62毫米并列机枪 <color=#ff6f00>MG</color>
 weapons/12_7mm_Type_54_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1954年式12.7毫米高射机枪 <color=#ff6f00>MG</color>
 weapons/12_7mm_type_77_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1977年式12.7毫米高射机枪 <color=#ff6f00>MG</color>
-weapons/12_7mm_QJC_88A_user_machinegun;<color=@userlogColoredText>12.7 mm</color> QJC1988A式12.7毫米车载高射机枪 <color=#ff6f00>MG</color>
+weapons/12_7mm_QJC_88A_user_machinegun;<color=@userlogColoredText>12.7 mm</color> L/QJC1988A式12.7毫米车载高射机枪 <color=#ff6f00>MG</color>
 weapons/14_5mm_QJG02_user_machinegun;<color=@userlogColoredText>14.5 mm</color> L/QJG2002式14.5毫米单管高射机枪 <color=#ff6f00>MG</color>
 weapons/cannonType_23_1;<color=@userlogColoredText>23 mm</color> 23-1型23毫米航空机炮 <color=#ff6f00>ACNN</color>
 weapons/cannonType_23_1_plane;<color=@userlogColoredText>23 mm</color> 23-1型23毫米航空机炮 <color=#ff6f00>ACNN</color>
@@ -24,7 +24,9 @@ weapons/cannonType_30_4;<color=@userlogColoredText>30 mm</color> 30-4型30毫米
 weapons/cannonType_30_4/short;30-4型
 weapons/30mm_ZPZ02_user_cannon;<color=@userlogColoredText>30 mm</color> L/ZPZ2002式30毫米坦克炮 <color=#ff6f00>ACNN</color>
 weapons/30mm_zpt_99_user_cannon;<color=@userlogColoredText>30 mm</color> L/ZPZ2002式30毫米坦克炮 <color=#ff6f00>ACNN</color>
+weapons/35mm_PG_99_35_2_user_cannon;<color=@userlogColoredText>35 mm</color> L/PGZ2009式双35毫米自行高炮 <color=#ff6f00>ACNN</color>
 weapons/cannonType37_1;<color=@userlogColoredText>37 mm</color> 37-1型37毫米航空机炮 <color=#ff6f00>ACNN</color>
+weapons/57mm_WA_318_user_cannon;<color=@userlogColoredText>57 mm</color> WA318 | L/PG1959式57毫米高射炮 <color=#ff6f00>ACNN</color>
 weapons/85mm_Type_62_85_TC_user_cannon;<color=@userlogColoredText>85 mm</color> 1963年式85毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/85mm_Type_63_user_cannon;<color=@userlogColoredText>85 mm</color> 1963年式85毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/100mm_PTP86_user_cannon;<color=@userlogColoredText>100 mm</color> WA301 | L/PTL2002式100毫米轮式自行突击炮 <color=#ff6f00>CNN</color>
@@ -45,6 +47,7 @@ weapons/125mm_ZPT_98_user_cannon;<color=@userlogColoredText>125 mm</color> L/ZPT
 weapons/125mm_Type_99A_user_cannon;<color=@userlogColoredText>125 mm</color> L/ZPT1998A式125毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/125mm_l54_cn_user_cannon;<color=@userlogColoredText>125 mm</color> L/ZPT式125毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/130mm_pl_59a_gai_user_cannon;<color=@userlogColoredText>130 mm</color> L/PL1959A式130毫米加农炮 <color=#ff6f00>CNN-HWZ</color>
+weapons/152mm_pl_66_gai_user_cannon;<color=@userlogColoredText>152 mm</color> L/PLZ1983式152毫米自行加榴炮 <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> L/PLZ2005式155毫米自行加榴炮 <color=#ff6f00>CNN-HWZ</color>
 
 //AMMUNITION
@@ -131,7 +134,8 @@ weapons/125mm_hj_73/short;L/AFT07
 weapons/125mm_hj_73e/short;L/AFT07E
 120_aft_07;L/AFT07E
 weapons/120_aft_07/short;L/AFT07E
-weapons/130mm_FB_10_rocket_launcher;L/FB10地對空导弹发射车
+weapons/130mm_FB_10_rocket_launcher;FB10地對空导弹发射车 <color=#ff6f00>LCH</color>
+
 
 //FUEL TANKS
 weapons/cn_800l_fyx800_drop_tank_1;<color=@userlogColoredText>800 L</color> K/FYX800B副油箱 <color=#ff6f00>DPTK</color>

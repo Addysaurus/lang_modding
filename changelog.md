@@ -33,6 +33,9 @@ All dates are listed in DD-MM-YYYY format.
     - **1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào**.
     - **1977 Shì 12.7 Háomi Gāoshè Jīqiāng** → **1977 Nián Shì 12.7 Háomi Gāoshè Jīqiāng**.
     - **85 mm Type 56 cannon** → **52-PT-365 | ZiS-S-53 obr. 1944 g.**. Gaijin calls it the Type 56 which is a Chinese copy of the D-44, but it's not. It's identical to the ZiS-S-53 obr. 1944 g. but named differently because Gaijin is Gaijin.
+    - **L/FB10** → **FB10**.
+    - **L/FB10A** → **FB10A**.
+    - **L/FB10 Dì Duì Kōng Daodàn Fāshè Chē** → **FB10 Dì Duì Kōng Daodàn Fāshè Chē** (when L/ is and isn't used is a giant nightmare).
 
 ### Engines:
 

@@ -33,7 +33,7 @@ weapons/100mm_PTP86_user_cannon;<color=@userlogColoredText>100 mm</color> WA301 
 weapons/100mm_Type59_user_cannon;<color=@userlogColoredText>100 mm</color> 1959年式100毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/100mm_Type69_user_cannon;<color=@userlogColoredText>100 mm</color> 1969年式100毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/100mm_Type69_II_user_cannon;<color=@userlogColoredText>100 mm</color> Type 69-II 100 mm Tank Gun <color=#ff6f00>CNN</color>
-weapons/100mm_2a70_zbd_user_cannon;<color=@userlogColoredText>105 mm</color> L/ZPL2004式100毫米坦克炮 <color=#ff6f00>CNN-LCH</color>
+weapons/100mm_2a70_zbd_user_cannon;<color=@userlogColoredText>100 mm</color> L/ZPL2004式100毫米坦克炮 <color=#ff6f00>CNN-LCH</color>
 weapons/105mm_type_75_user_cannon;<color=@userlogColoredText>105 mm</color> L/PW1975式105毫米无后坐力炮 <color=#ff6f00>CNN-RCL</color>
 weapons/105mm_Type_83_user_cannon;<color=@userlogColoredText>105 mm</color> 1983年式105毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/105mm_88B_105T_user_cannon;<color=@userlogColoredText>105 mm</color> 1983A年式105毫米坦克炮 <color=#ff6f00>CNN</color>
@@ -41,6 +41,7 @@ weapons/105mm_ZPL94_user_cannon;<color=@userlogColoredText>105 mm</color> L/ZPL1
 weapons/105mm_AT_WMA_user_cannon;<color=@userlogColoredText>105 mm</color> L/ZPL1998A式105毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/105mm_ZPL98A_user_cannon;<color=@userlogColoredText>105 mm</color> L/ZPL1998A式105毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/105mm_ZPL151A_user_cannon;<color=@userlogColoredText>105 mm</color> L/ZPL151式105毫米坦克炮 <color=#ff6f00>CNN</color>
+weapons/120mm_122TM_user_cannon;<color=@userlogColoredText>120 mm</color> 1971年式120毫米滑膛坦克炮 <color=#ff6f00>CNN</color>
 weapons/120mm_PTZ89_user_cannon;<color=@userlogColoredText>120 mm</color> WA371 | L/PTZ1989式120毫米自行反坦克炮 <color=#ff6f00>CNN</color>
 weapons/125mm_Type_88C_user_cannon;<color=@userlogColoredText>125 mm</color> L/ZPT1988C式125毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/125mm_ZPT_98_user_cannon;<color=@userlogColoredText>125 mm</color> L/ZPT1998式125毫米坦克炮 <color=#ff6f00>CNN</color>
@@ -57,6 +58,7 @@ weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> L/PLZ20
 105mm_type_75_heat;DTP/PW75-105
 105mm_type_75_hesh;DTJ/PW75-105
 105mm_dtw2_105;L/DTW2-105
+120mm_122tm_heat;71式120毫米破甲弹
 125mm_dtc10_125;L/DTC10-125
 
 //ROCKETS
@@ -134,6 +136,11 @@ weapons/125mm_hj_73/short;L/AFT07
 weapons/125mm_hj_73e/short;L/AFT07E
 120_aft_07;L/AFT07E
 weapons/120_aft_07/short;L/AFT07E
+weapons/120mm_302_atgm_rocket_launcher;302反坦克导弹 <color=#ff6f00>LCH</color>
+weapons/120mm_302_atgm_rocket_launcher/short;302
+atgm_302;302
+weapons/atgm_302/short;302
+weapons/152mm_hj_9_launcher_user_cannon;HJ9 | L/AFT09重型反坦克导弹发射车 <color=#ff6f00>LCH</color>
 weapons/130mm_FB_10_rocket_launcher;FB10地對空导弹发射车 <color=#ff6f00>LCH</color>
 
 

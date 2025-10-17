@@ -3501,10 +3501,14 @@ us_m1a1_aim_abrams_shop;M1A1AIM SA
 us_m1a1_aim_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams Integrated Management, Situational Awareness
 us_m1a1_aim_abrams_1;M1A1
 us_m1a1_aim_abrams_2;MBT
-us_m1a1_hc_usmc_shop;"M1A1HC ""Click-Bait"""
-us_m1a1_hc_usmc_0;"General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Heavy Common ""Click-Bait"""
+us_m1a1_hc_usmc_shop;M1A1HC «Click-Bait»
+us_m1a1_hc_usmc_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Heavy Common «Click-Bait»
 us_m1a1_hc_usmc_1;M1A1
 us_m1a1_hc_usmc_2;MBT
+us_m1a1_hc_usmc_sm_shop;◍ M1A1HC
+us_m1a1_hc_usmc_sm_0;◍ General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC
+us_m1a1_hc_usmc_sm_1;◍ M1A1HC
+us_m1a1_hc_usmc_sm_2;MBT
 us_lav_ad_shop;LAV-AD
 us_lav_ad_0;Light Armored Vehicle - Air Defense
 us_lav_ad_1;LAV-AD
@@ -4951,6 +4955,14 @@ germ_schutzenpanzer_puma_vjtf_shop;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_0;KNDS Deutschland | Schützenpanzer Puma Very High Readiness Joint Task Force
 germ_schutzenpanzer_puma_vjtf_1;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_2;Light tank
+germ_leopard_2a4m_can_shop;Leopard 2A4M CAN
+germ_leopard_2a4m_can_0;KNDS Deutschland | Leopard 2A4M CAN
+germ_leopard_2a4m_can_1;Leopard 2A4M
+germ_leopard_2a4m_can_2;MBT
+germ_leopard_2a4m_can_sm_shop;◍ Leopard 2A4M CAN
+germ_leopard_2a4m_can_sm_0;◍ KNDS Deutschland | Leopard 2A4M CAN
+germ_leopard_2a4m_can_sm_1;◍ Leopard 2A4M
+germ_leopard_2a4m_can_sm_2;MBT
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 germ_flarakrad_shop;FlaRakRad 1 Roland
@@ -5157,6 +5169,14 @@ ussr_bmd_4m_1;BMD-4M
 ussr_bmd_4m_2;IFV
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+ussr_t_80ue1_shop;T-80U-Ye1
+ussr_t_80ue1_0;"Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | T-80U-Ye1"
+ussr_t_80ue1_1;T-80U-Ye1
+ussr_t_80ue1_2;MBT
+ussr_t_80ue1_sm_shop;◍ T-80U-Ye1
+ussr_t_80ue1_sm_0;"◍ Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | T-80U-Ye1"
+ussr_t_80ue1_sm_1;◍ T-80U-Ye1
+ussr_t_80ue1_sm_2;MBT
 ussr_t_80um2_shop;T-80U (Drozd)
 ussr_t_80um2_0;"Kirovskij zavod | Ob""yekt 219AS | T-80U obr. 1995 g. (KAZ Drozd)"
 ussr_t_80um2_1;T-80U
@@ -11740,10 +11760,6 @@ ussr_t_62m1_shop;T-62M-1
 ussr_t_62m1_0;"Ob""yekt 166M-1 | T-62M-1"
 ussr_t_62m1_1;T-62M
 ussr_t_62m1_2;Medium tank
-germ_leopard_2a4m_can_shop;Leopard 2 A4M CAN
-germ_leopard_2a4m_can_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A4M CAN
-germ_leopard_2a4m_can_1;Leopard 2 A4M
-germ_leopard_2a4m_can_2;MBT
 germ_leopard_2a4_pzbtl_123_shop;KPz Leopard 2 A4 (C) (PzBtl 123)
 germ_leopard_2a4_pzbtl_123_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A4 (C) (Panzerbataillon 123)
 germ_leopard_2a4_pzbtl_123_1;Leopard 2 A4
@@ -12660,10 +12676,6 @@ ussr_t_80u_race_shop;T-80U
 ussr_t_80u_race_0;"Ob""yekt 219AS | T-80U obr. 1993 g. isp. Shvedskiy"
 ussr_t_80u_race_1;T-80U
 ussr_t_80u_race_2;MBT
-ussr_t_80ue1_shop;T-80UYe-1
-ussr_t_80ue1_0;"Ob""yekt 219AS-1 | T-80UYe-1"
-ussr_t_80ue1_1;T-80UYe-1
-ussr_t_80ue1_2;MBT
 ussr_t_80ud_shop;T-80UD
 ussr_t_80ud_0;"Ob""yekt 478B | T-80UD obr. 1985 g. Bereza"
 ussr_t_80ud_1;T-80UD

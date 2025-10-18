@@ -28,12 +28,13 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **Leopard 2 A4M CAN** (normal & Senrai Maidens) → **Leopard 2A4M CAN**. Statcard name → **KNDS Deutschland | Leopard 2A4M CAN** .
+    - **Leopard 2 A4M CAN** (Senrai Maidens) → **Leopard 2A4M CAN**. Statcard name → **KNDS Deutschland | Leopard 2A4M CAN «Elsa»** .
+    - **Leopard 2 A4M CAN** → **Leopard 2A4M CAN**. Statcard name → **KNDS Deutschland | Leopard 2A4M CAN** .
+    - **M1A1 HC** (Senrai Maidens) → **M1A1HC**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC «Kate»**.
     - **M1A1HC**: Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC** (the missing comma after "Gun" was corrected).
-    - **M1A1 HC** (Senrai Maidens) → **M1A1HC**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC**.
     - **M1A1HC "Click-Bait"** → **M1A1HC «Click-Bait»**.
+    - **T-80U-E1** (Senrai Maidens) → **T-80U-Ye1**. Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | T-80U-Ye1 «Maria»**.
     - **T-80UYe-1** → **T-80U-Ye1**. Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | T-80U-Ye1**.
-    - **T-80U-E1** (Senrai Maidens) → **T-80U-Ye1**. Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | T-80U-Ye1**.
     - **M55** (USA & France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55**.
     - **Bismarck**: Statcard name → **Blohm & Voss / Seebahnhof Pier | Schlachtschiff Bismarck-Klasse | Bismarck (1941)**.
 

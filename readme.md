@@ -138,7 +138,7 @@ Russian is transliterated with a modified version of GOST 7.79-2000 A (ISO 9:199
 
 ### Japanese
 
-Japanese is transliterated using the online translator/transliterator Romajidesu, with some help from Wiggly_Armed_Man, who is more experienced on this, to make sure that my transliterations are also accurate to exactly what Japan used (this is why tank destroyers are written with "ji hashihō" instead of Romajidesu's transliteration which is "jisōhō.")
+Japanese is transliterated using the online translator/transliterator Romajidesu, with some help from Wiggly_Armed_Man, who is more experienced on this, to make sure that my transliterations are also accurate to exactly what Japan used (this is why tank destroyers are written with "Jisō Hō" instead of Romajidesu's transliteration which is "Jisōhō.")
 
 ### Hebrew
 

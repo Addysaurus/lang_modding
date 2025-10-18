@@ -33,8 +33,9 @@ All dates are listed in DD-MM-YYYY format.
     - **M1A1 HC** (Senrai Maidens) → **M1A1HC**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC «Kate»**.
     - **M1A1HC**: Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC** (the missing comma after "Gun" was corrected).
     - **M1A1HC "Click-Bait"** → **M1A1HC «Click-Bait»**.
-    - **T-80U-E1** (Senrai Maidens) → **T-80U-Ye1**. Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | T-80U-Ye1 «Maria»**.
-    - **T-80UYe-1** → **T-80U-Ye1**. Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | T-80U-Ye1**.
+    - **T-80U-E1** (Senrai Maidens) → **T-80U-Ye1**. Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | Tank T-80U-Ye1 «Maria»**.
+    - **T-80UYe-1** → **T-80U-Ye1**. Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | Tank T-80U-Ye1**.
+    - **T-80U (Drozd)**: Statcard name → **Kirovskij zavod | Ob"yekt 219AS | Tank T-80U obr. 1995 g. (Drozd)**.
     - **M55** (USA & France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55**.
     - **Bismarck**: Statcard name → **Blohm & Voss / Seebahnhof Pier | Schlachtschiff Bismarck-Klasse | Bismarck (1941)**.
 
@@ -54,6 +55,13 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **MTR390-2c** → **MTR390-2C**.
+
+### Sensors:
+
+- #### Changes:
+
+    - **Drozd** → **Komplyeks aktivnoj zaŝity 1030M-01 | Drozd**.
+    - **KAZ Aryena-M** → **Komplyeks aktivnoj zaŝity Aryena-M**.
 
 ## 1.14.01 - 04-10-2025
 

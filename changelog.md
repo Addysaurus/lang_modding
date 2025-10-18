@@ -38,6 +38,10 @@ All dates are listed in DD-MM-YYYY format.
     - **T-80U (Drozd)**: Statcard name → **Kirovskij zavod | Ob"yekt 219AS | Tank T-80U obr. 1995 g. (Drozd)**.
     - **M55** (USA & France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55**.
     - **Bismarck**: Statcard name → **Blohm & Voss / Seebahnhof Pier | Schlachtschiff Bismarck-Klasse | Bismarck (1941)**.
+    - **B.JT.1**:
+        - Thai package: Statcard name → **LTV Corporation | เครื่องบินโจมตีแบบที่ ๑ก** (corrected the misspelling of "corporation" as "corperation").
+    - **B.Kh.18Kh (1988)**:
+        - Thai package: Statcard name → **Northrop Corporation F-5-21 | เครื่องบินขับไล่แบบที่ ๑๘ข (1988)** (corrected the misspelling of "corporation" as "corperation").
 
 ### Weaponry:
 

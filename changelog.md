@@ -18,6 +18,12 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.14.02 - UNRELEASED
 
+### General:
+
+- #### Changes:
+
+    - The mod's transliteration system for Korean (this affects literally only the KGGB) has changed from the 2000 Revised Romanization of Korean (the official romanization system of South Korea) to the 2012 revision of the 1997 Romanization of Korean (the official romanization of North Korea). This was done to keep the Korean transliterations inline with the rest of this mod's transliterations that use diacritics.
+
 ### Vehicles:
 
 - #### Additions:
@@ -53,6 +59,7 @@ All dates are listed in DD-MM-YYYY format.
     - **L/FB10** → **FB10**.
     - **L/FB10A** → **FB10A**.
     - **L/FB10 Dì Duì Kōng Daodàn Fāshè Chē** → **FB10 Dì Duì Kōng Daodàn Fāshè Chē** (when L/ is and isn't used is a giant nightmare).
+    - **Hanguk-hyeong GPS Yudo-poktan** → **Han'guk-hyŏng GPS Yudo-Poktan**.
 
 ### Engines:
 

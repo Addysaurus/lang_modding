@@ -60,7 +60,7 @@ All dates are listed in DD-MM-YYYY format.
     - **L/FB10** → **FB10**.
     - **L/FB10A** → **FB10A**.
     - **L/FB10 Dì Duì Kōng Daodàn Fāshè Chē** → **FB10 Dì Duì Kōng Daodàn Fāshè Chē** (when L/ is and isn't used is a giant nightmare).
-    - **Hanguk-hyeong GPS Yudo-poktan** → **Han'guk-hyŏng GPS Yudo-Poktan**.
+    - **Hanguk-hyeong GPS Yudo-poktan** → **Han'guk-hyŏng GPS Yudo-Poktan** (new transliteration system for Korean).
 
 ### Engines:
 

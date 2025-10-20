@@ -48,6 +48,7 @@ All dates are listed in DD-MM-YYYY format.
         - Thai package: Statcard name → **LTV Corporation | เครื่องบินโจมตีแบบที่ ๑ก** (corrected the misspelling of "corporation" as "corperation").
     - **B.Kh.18Kh (1988)**:
         - Thai package: Statcard name → **Northrop Corporation F-5-21 | เครื่องบินขับไล่แบบที่ ๑๘ข (1988)** (corrected the misspelling of "corporation" as "corperation").
+    - **USS Cowell (DD-547)**: Statcard name → **Bethlehem Shipbuilding San Pedro | Fletcher-class Destroyer | USS Cowell (DD-547)**.
 
 ### Weaponry:
 

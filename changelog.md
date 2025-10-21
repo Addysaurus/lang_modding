@@ -65,6 +65,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Kronštadt**: Statcard name → **Zavod № 194 im. Marti | Tâžyelyye kryejsyer proyekt 69, tip Kronštadt | Kronštadt**.
     - **Syevastopol'**: Statcard name → **Sudostroityel'nyj zavod № 200 imyeni 61 kommunara | Tâžyelyye kryejsyer proyekt 69I, tip Kronštadt | Syevastopol'**.
     - **Sovyetskij Soûz**: Statcard name → **Zavod № 189 imyeni Ordžonikidzye | Linyéjnyj korábl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
+    - **MPK-33**: Statcard name → **Zyelyenodol'skij sudostroityel'nyj zavod № 340 im. A. M. Gor'kogo | Malyj protivolodočnyj korabl' proyekt 1124 "Al'batros" | MPK-33**.
 
 ### Weaponry:
 

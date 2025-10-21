@@ -18,22 +18,35 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.14.02 - UNRELEASED
 
+- #### Additions:
+
+    - Added 3 new loading tips:
+        - General: 0
+        - Air: 0
+        - Ground: 3 (thanks to @scorpiodude on the Swedish Tech Tree Fan Discord server for writing the Hungarian ones)
+        - Naval: 0
+
 ### General:
 
 - #### Changes:
 
     - The mod's transliteration system for Korean (this affects literally only the KGGB) has changed from the 2000 Revised Romanization of Korean (the official romanization system of South Korea) to the 2012 revision of the 1997 Romanization of Korean (the official romanization of North Korea). This was done to keep the Korean transliterations inline with the rest of this mod's transliterations that use diacritics.
+    - Corrected the loading tip on the Maus to be historically accurate (thanks to @kermiiiie on the Swedish Tech Tree Fan Discord server for informing me of this).
 
 ### Vehicles:
 
 - #### Additions:
 
+    - **RN Luigi Cadorna**
+    - **Re.2005 (VDM)**
     - **M1A1 HC** (Senrai Maidens)
     - **Leopard 2A4M** (Senrai Maidens)
     - **T-80U-E1** (Senrai Maidens)
 
 - #### Changes:
 
+    - **RN Luigi Cadorna** → **Luigi Cadorna**. Statcard name → **Cantieri riuniti dell'Adriatico | Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna | Luigi Cadorna (1944)**. I absolutely cannot find the refit location. It's in one of the allied ports it was sent to after the armisitce and the torpedo tubes were removed in April, 1944. But I cannot find where. Please let me know if you do know.
+    - **Re.2005 (VDM)** → **Re. 2005 (9-12 010 A)**. Statcard name → **Officine Meccaniche Italiane | Re. 2005 Sagittario (MM.495) (Luftschrauben-Gerätnummer 9-12 010 A)**. VDM is the company that made the propellors, but they made about 90% of the Luftwaffe's propellors and they made a huge amount of different models. The specific model fitted to the 2nd prototype Re. 2005 with serial MM.495 is the 9-12 010 A.
     - **Leopard 2 A4M CAN** (Senrai Maidens) → **Leopard 2A4M CAN**. Statcard name → **KNDS Deutschland | Leopard 2A4M CAN «Elsa»** .
     - **Leopard 2 A4M CAN** → **Leopard 2A4M CAN**. Statcard name → **KNDS Deutschland | Leopard 2A4M CAN** .
     - **M1A1 HC** (Senrai Maidens) → **M1A1HC**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC «Kate»**.
@@ -49,6 +62,9 @@ All dates are listed in DD-MM-YYYY format.
     - **B.Kh.18Kh (1988)**:
         - Thai package: Statcard name → **Northrop Corporation F-5-21 | เครื่องบินขับไล่แบบที่ ๑๘ข (1988)** (corrected the misspelling of "corporation" as "corperation").
     - **USS Cowell (DD-547)**: Statcard name → **Bethlehem Shipbuilding San Pedro | Fletcher-class Destroyer | USS Cowell (DD-547)**.
+    - **Kronštadt**: Statcard name → **Zavod № 194 im. Marti | Tâžyelyye kryejsyer proyekt 69, tip Kronštadt | Kronštadt**.
+    - **Syevastopol'**: Statcard name → **Sudostroityel'nyj zavod № 200 imyeni 61 kommunara | Tâžyelyye kryejsyer proyekt 69I, tip Kronštadt | Syevastopol'**.
+    - **Sovyetskij Soûz**: Statcard name → **Zavod № 189 imyeni Ordžonikidzye | Linyéjnyj korábl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
 
 ### Weaponry:
 
@@ -74,6 +90,18 @@ All dates are listed in DD-MM-YYYY format.
 
     - **Drozd** → **Komplyeks aktivnoj zaŝity 1030M-01 | Drozd**.
     - **KAZ Aryena-M** → **Komplyeks aktivnoj zaŝity Aryena-M**.
+
+### Loading screens:
+
+- #### Additions:
+
+    - **EFV** (profile background) (forgot to add this in Semper Fidelis)
+    - **RE 2005 (VDM)** (why tf would gaijoobles spell this differently than the way they spell the actual vehicle??)
+
+- #### Changes:
+
+    - **EFV** → **EFV-P1 (SDD-2) (M82)**.
+    - **RE 2005 (VDM)** → **Re. 2005 (9-12 010 A)**.
 
 ## 1.14.01 - 04-10-2025
 

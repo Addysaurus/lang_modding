@@ -20,10 +20,10 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
-    - Added 3 new loading tips:
-        - General: 0
+    - Added 3 new loading tips (thanks to @scorpiodude on the Swedish Tech Tree Fan Discord server for writing the Hungarian ones):
+        - General: 1
         - Air: 0
-        - Ground: 3 (thanks to @scorpiodude on the Swedish Tech Tree Fan Discord server for writing the Hungarian ones)
+        - Ground: 2
         - Naval: 0
 
 ### General:

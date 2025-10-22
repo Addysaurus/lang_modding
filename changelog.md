@@ -66,6 +66,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Syevastopol'**: Statcard name → **Sudostroityel'nyj zavod № 200 imyeni 61 kommunara | Tâžyelyye kryejsyer proyekt 69I, tip Kronštadt | Syevastopol'**.
     - **Sovyetskij Soûz**: Statcard name → **Zavod № 189 imyeni Ordžonikidzye | Linyéjnyj korábl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
     - **MPK-33**: Statcard name → **Zyelyenodol'skij sudostroityel'nyj zavod № 340 im. A. M. Gor'kogo | Malyj protivolodočnyj korabl' proyekt 1124 "Al'batros" | MPK-33**.
+    - **141 (1 Hào)**: Statcard name → **Zhuāngjiabīng Mou Yánjiū Suo | 141 Chāo Qīngxíng Fan Tankè Zhàn Chē (Yàngchē 1 Hào)**. I somehow forgot to add the manufacturer I had written down and ready to go in the spreadsheet for 4 updates in a row! Well, here it is now.
 
 ### Weaponry:
 

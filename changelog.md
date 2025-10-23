@@ -78,6 +78,10 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
+- #### Additions:
+
+    - **30 mm Bushmaster 2 Mk.44 Mod.1 cannon** (I noticed it was added at the last minute; don't have time to research and rename it)
+
 - #### Changes:
 
     - **1975 Shì 105 Háomi Wú Hòuzuòlì Pào** → **L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào**.

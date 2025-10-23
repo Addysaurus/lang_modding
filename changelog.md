@@ -42,6 +42,10 @@ All dates are listed in DD-MM-YYYY format.
     - **M1A1 HC** (Senrai Maidens)
     - **Leopard 2A4M** (Senrai Maidens)
     - **T-80U-E1** (Senrai Maidens)
+    - **FV/M109** (folder)
+    - **Vickers/Olifant** (folder)
+    - **Vickers/Rooikat** (folder)
+    - **VFM/MTTD** (folder)
 
 - #### Changes:
 
@@ -54,6 +58,10 @@ All dates are listed in DD-MM-YYYY format.
     - **M1A1HC "Click-Bait"** → **M1A1HC «Click-Bait»**.
     - **T-80U-E1** (Senrai Maidens) → **T-80U-Ye1**. Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | Tank T-80U-Ye1 «Maria»**.
     - **T-80UYe-1** → **T-80U-Ye1**. Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | Tank T-80U-Ye1**.
+    - **FV/M109** (folder) → **Centaur / M109A1**.
+    - **Vickers/Olifant** (folder) → **Vickers Mk. 3 / Olifant Mk1A**.
+    - **Vickers/Rooikat** (folder) → **Vickers Mk. 11 / Rooikat Mk1D**.
+    - **VFM/MTTD** (folder) → **VFM5 / MTTD**.
     - **T-80U (Drozd)**: Statcard name → **Kirovskij zavod | Ob"yekt 219AS | Tank T-80U obr. 1995 g. (Drozd)**.
     - **M55** (USA & France / Belgium): Statcard name → **Pacific Car and Foundry Company | G-261 | Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55**.
     - **Bismarck**: Statcard name → **Blohm & Voss / Seebahnhof Pier | Schlachtschiff Bismarck-Klasse | Bismarck (1941)**.

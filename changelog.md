@@ -16,7 +16,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.14.02 - UNRELEASED
+## 1.14.02 - 23-10-2025
 
 - #### Additions:
 

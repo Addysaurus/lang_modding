@@ -158,4 +158,4 @@ Urdu is translirterated with ISO 15919:2001.
 
 ### Korean
 
-Korean is transliterated using the Revised Romanization of Korean transliteration system developed in 2000.
+Korean is transliterated using the 2012 version Romanization of Korean transliteration system developed 1997 as the official transliteration system of North Korea.

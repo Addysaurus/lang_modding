@@ -16,6 +16,32 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.15.00 - UNRELEASED
+
+### Vehicles:
+
+- #### Additions:
+
+    - **XF5U-1**
+    - **AH-56A**
+    - **USS Oregon City**
+    - **Yak-1 Litvyak**
+    - **Su-30MK2 AMV**
+    - **T-34-85 "Taran"**
+    - **BTR-82AT**
+    - **La Brestois**
+
+- #### Changes:
+
+    - **XF5U-1**: Statcard name → **Vought-Sikorsky Aircraft | XF5U-1 "Flying Flapjack"**.
+    - **AH-56A**: Statcard name → **Lockheed Corporation CL-840 | Helicopter, Attack, AH-56A Cheyenne**.
+    - **USS Oregon City** → **USS Oregon City (CA-122)**. Statcard name → **Fore River Shipyard | Oregon City-class Heavy Cruiser | USS Oregon City (CA-122)**.
+    - **Yak-1 Litvyak** → **Litvâk's Yak-1**. Statcard name → **Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyet Yak-1**.
+    - **Su-30MK2 AMV** → **Su-30MK2**. Statcard name → **AO «Kompaniâ Sukhoj» | Su-30MK2** (the lack of an izd number is intenional, Venezuela does not use them).
+    - **T-34-85 "Taran"** → **T-34-85 (Mar, 1945) (STP-S-53)**. Statcard name → **Zavod № 112 | Ob"yekt 135 | Tank T-34-85 obr. 1945 g. (March, 1945) (Stabilizator STP-S-53 "Taran")**.
+    - **BTR-82AT** → **BTR-82AT (9P163-1)**. Statcard name → **Arzamasskij mašinostroityel'nyj zavod | Bronyetransportyer BTR-82AT (Puskovoye ustrojstvo 9P163-1)**. Gaijin modeled an accurate BTR-82AT, but then made it into a Frankenstein's monster by grafting a 9P163-1 ATGM launcher for 9M133 Kornet missiles from a field modification of the BTR-82A onto the BTR-82AT.
+    - **La Brestois** → **La Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | La Brestois (F 762)**.
+
 ## 1.14.02 - 23-10-2025
 
 - #### Additions:

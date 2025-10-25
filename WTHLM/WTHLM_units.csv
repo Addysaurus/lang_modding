@@ -2561,6 +2561,10 @@ f2g-1_shop;F2G-1
 f2g-1_0;F2G-1 Corsair
 f2g-1_1;F2G-1
 f2g-1_2;F2G
+xf5u_1_shop;XF5U-1
+xf5u_1_0;"Vought-Sikorsky Aircraft | XF5U-1 ""Flying Flapjack"""
+xf5u_1_1;XF5U-1
+xf5u_1_2;XF5U
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 f-80a_shop;F-80A-5-LO
@@ -2913,6 +2917,10 @@ ah_64e_shop;AH-64E (v6)
 ah_64e_0;Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)
 ah_64e_1;AH-64E
 ah_64e_2;AH-64
+ah_56a_shop;AH-56A
+ah_56a_0;Lockheed Corporation CL-840 | Helicopter, Attack, AH-56A Cheyenne
+ah_56a_1;AH-56A
+ah_56a_2;AH-56
 rah_66_shop;YRAH-66A (2000)
 rah_66_0;Boeing Rotorcraft Systems + Sikorsky Aircraft | Helicopter, Reconnaissance/Attack, YRAH-66A Comanche (2000)
 rah_66_1;YRAH-66A
@@ -3859,6 +3867,10 @@ us_cruiser_baltimore_class_shop;USS Baltimore (CA-68)
 us_cruiser_baltimore_class_0;Fore River Shipyard | Baltimore-class Heavy Cruiser | USS Baltimore (CA-68)
 us_cruiser_baltimore_class_1;USS Baltimore
 us_cruiser_baltimore_class_2;Heavy Cruiser
+us_cruiser_oregon_class_shop;USS Oregon City (CA-122)
+us_cruiser_oregon_class_0;Fore River Shipyard | Oregon City-class Heavy Cruiser | USS Oregon City (CA-122)
+us_cruiser_oregon_class_1;USS Oregon City
+us_cruiser_oregon_class_2;Heavy Cruiser
 us_cruiser_des_moines_class_newport_news_shop;USS Newport News (CA-148)
 us_cruiser_des_moines_class_newport_news_0;Newport News Shipbuilding and Dry Dock Company / Norfolk Naval Shipyard | Des Moines-class Heavy Cruiser | USS Newport News (CA-148) (1968)
 us_cruiser_des_moines_class_newport_news_1;USS Newport News
@@ -5045,6 +5057,10 @@ kor_2_1;Bye-4
 kor_2_2;Bye-4
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+yak_1_litvyak_shop;Litvâk's Yak-1
+yak_1_litvyak_0;Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyet Yak-1
+yak_1_litvyak_1;Yak-1
+yak_1_litvyak_2;Yak-1
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 
@@ -5085,6 +5101,10 @@ su_30sm_shop;Su-30SM
 su_30sm_0;AO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM
 su_30sm_1;Su-30SM
 su_30sm_2;Su-30
+su_30mk2v_venezuela_shop;Su-30MK2
+su_30mk2v_venezuela_0;AO «Kompaniâ Sukhoj» | Su-30MK2
+su_30mk2v_venezuela_1;Su-30MK2
+su_30mk2v_venezuela_2;Su-30
 su_34_shop;Su-34NVO
 su_34_0;AO «Kompaniâ Sukhoj» | izd. T-10V | Samolyet Su-34NVO
 su_34_1;Su-34NVO
@@ -5139,6 +5159,10 @@ ussr_sdkfz_251_21_kit_3rank_1;▂ m.S.P.W. D (M.G. 151 S)
 ussr_sdkfz_251_21_kit_3rank_2;SPAAG
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+ussr_t_34_85_stp_s53_shop;T-34-85 (Mar, 1945) (STP-S-53)
+ussr_t_34_85_stp_s53_0;"Zavod № 112 | Ob""yekt 135 | Tank T-34-85 obr. 1945 g. (March, 1945) (Stabilizator STP-S-53 ""Taran"")"
+ussr_t_34_85_stp_s53_1;T-34-85
+ussr_t_34_85_stp_s53_2;Medium tank
 ussr_t_44_po_shop;T-44 №1
 ussr_t_44_po_0;"Ural'skij tankovyj zavod №183 imyeni Komintyerna | Ob""yekt 136 | T-44 №1"
 ussr_t_44_po_1;T-44
@@ -5171,6 +5195,10 @@ ussr_bmd_4m_shop;BMD-4M
 ussr_bmd_4m_0;"OAO «Kurganskij mašinostroityel'nyj zavod» | Ob""yekt 960M | Boyevaâ mašina dyesanta BMD-4M"
 ussr_bmd_4m_1;BMD-4M
 ussr_bmd_4m_2;IFV
+ussr_btr_82at_shop;BTR-82AT (9P163-1)
+ussr_btr_82at_0;Arzamasskij mašinostroityel'nyj zavod | Bronyetransportyer BTR-82AT (Puskovoye ustrojstvo 9P163-1)
+ussr_btr_82at_1;BTR-82AT
+ussr_btr_82at_2;IFV
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 ussr_t_80ue1_shop;T-80U-Ye1
@@ -7384,6 +7412,10 @@ fr_vlt2_1;VLT 2
 fr_vlt2_2;Motor Torpedo Boat
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+fr_frigate_corse_class_brestois_shop;La Brestois (F 762)
+fr_frigate_corse_class_brestois_0;Arsenal de Lorient | Escorteur rapide de type E 50 | La Brestois (F 762) (1958)
+fr_frigate_corse_class_brestois_1;La Brestois (F 762)
+fr_frigate_corse_class_brestois_2;Fast Escort
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 

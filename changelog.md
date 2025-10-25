@@ -18,6 +18,12 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.15.00 - UNRELEASED
 
+### General:
+
+- #### Additions:
+
+    - 2 new packages have been added: the Original Country Names package and the Full Original Country Names package. Because nation names and flags can now be changed, this replaces the system for country names that are not the research nation of "X / Y". Instead, all countries will have a translated name by default. The Original Country Names package turns everything into their original country names, but transliterates non-Latin scripts. The Full Original Country Names package does the same, but uses the original scripts (except for India because the game does not support the Devanagari script smh). In cases where a country has more than 1 official language for its name, the most common language is used (e.g. Flemish for the Netherlands and Zulu for South Africa).
+
 ### Vehicles:
 
 - #### Additions:
@@ -41,6 +47,13 @@ All dates are listed in DD-MM-YYYY format.
     - **T-34-85 "Taran"** → **T-34-85 (Mar, 1945) (STP-S-53)**. Statcard name → **Zavod № 112 | Ob"yekt 135 | Tank T-34-85 obr. 1945 g. (March, 1945) (Stabilizator STP-S-53 "Taran")**.
     - **BTR-82AT** → **BTR-82AT (9P163-1)**. Statcard name → **Arzamasskij mašinostroityel'nyj zavod | Bronyetransportyer BTR-82AT (Puskovoye ustrojstvo 9P163-1)**. Gaijin modeled an accurate BTR-82AT, but then made it into a Frankenstein's monster by grafting a 9P163-1 ATGM launcher for 9M133 Kornet missiles from a field modification of the BTR-82A onto the BTR-82AT.
     - **La Brestois** → **La Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | La Brestois (F 762)**.
+
+### Nations:
+
+- #### Changes:
+
+    - **Iran**:
+        - Farsi package: **جمهوری اسلامی ایران** → **ایران** (because names have be shortened now due to the new country renaming feature).
 
 ## 1.14.02 - 23-10-2025
 

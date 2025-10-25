@@ -1,8 +1,73 @@
 <ID|readonly|noverify>;<English>
-workshop/tusk_force;'Tusk Force'
-workshop/wtcs_trophy_3;'WTCS Esports Trophy III'
-loading_bg/login_layer_re_2005_vdm;RE 2005 (VDM)
-loading_bg/login_layer_re_2005_vdm/desc;"Reward for level 100 in the ""Brave Archer"" Battle Pass Season"
-profile_header_air_superiority/name;Masters of the Sky
-profile_header_efv_p1/name;EFV
-frame_crystal_shards/name;Crystal Shards
+currency/eagles/plural;{num=Golden Eagle/Golden Eagles}
+currency/lions/plural;{num=Silver Lion/Silver Lions}
+armor_class/desc/firewall_armor;"Protected ammunition compartment.
+If the bulkhead of this compartment is not penetrated when the armor is breached,
+it provides full protection against propellant fires.
+If the ammunition load includes explosive-filled projectiles (HE, HEAT, HESH),
+it may provide protection in the event of detonation of a small number of such rounds."
+armor_class/desc/fuel_tank_exterior;"External or protected fuel tanks.
+These tanks are located outside the vehicle’s under-armor volume,
+or are protected by separate armor elements.
+If they are hit and catch fire, the fire does not damage the tank’s internal modules
+or the crew and burns out on its own after some time."
+armor_class/nbc_liner;Anti-radiation liner
+armor_class/pas_1a;Alloy PAS-1A
+armor_class/auxiliary_power_unit;Auxiliary power unit
+armor_class/desc/auxiliary_power_unit;Auxiliary power unit. Supply power to the vehicle when main engine is shutdown
+armor_class/slip_ring;APU
+armor_class/desc/slip_ring;Slip ring. Transfer power from hull to turret
+item/dailyUniversalSpare;Daily universal backup
+items/dailyUniversalSpare/description;Every day you receive <color=@activeTextColor>{max_count}</color> {max_count=free universal backup/free universal backups}, which can be used to respawn on any vehicle.
+items/dailyUniversalSpare/remaining;Remaining number of daily backups
+items/dailyUniversalSpare/updateTime;Their numbers is updated daily at <color=@activeTextColor>{time}</color>.
+items/dailyUniversalSpare/noLeftSparesMsg;All daily universal backups are used up, please select another universal backup or another vehicle to spawn.
+armor_meterial/material;Material
+armor_meterial/thickness_rha;Equivalent armor thickness (RHA)
+armor_meterial/steel;Steel
+armor_meterial/kevlar;Kevlar
+armor_meterial/ceramic;Ceramic
+battlePass/seasonName/21;"""Brave Archer"""
+item/cardicon_tanker_us_trophy;"""US Tankers"" Profile Icons"
+item/cardicon_tanker_ger_trophy;"""German Tankers"" Profile Icons"
+item/cardicon_tanker_ussr_trophy;"""USSR Tankers"" Profile Icons"
+item/camouflage_trophy_wb_shop;"""Camouflage"" Decorations"
+item/roadSign_trophy_wb_shop;"""Road Signs"" Decorations"
+item/helmet_decor_trophy;"""Helmets"" Decorations"
+item/decal_trophy_warbond_shop_zodiac;"""Zodiac Pin-ups"" Decals"
+item/decal_trophy_warbond_shop_pinup_zodiac;"""Zodiac Collection"" Decals"
+item/decal_trophy_warbond_shop_tiger;"""Tigers"" Decals"
+item/decal_trophy_warbond_shop_11_21_22;War Bonds Store Decals 2021-2022
+item/decal_trophy_warbond_shop_11_20;War Bonds Store Decals 2020
+item/decal_trophy_warbond_shop_11_19;War Bonds Store Decals 2019
+item/decal_trophy_warbond_shop_11_18;War Bonds Store Decals 2018
+item/decal_trophy_warbond_shop_11;War Bonds Store Decals 2016-2017
+ship/extinguish_priority;Extinguishing priority {num}
+ship/unwater_priority;Unwatering priority {num}
+ship/repair;Repair
+ship/extinguishing;Extinguishing
+ship/unwatering;Unwatering
+ship/notSelectedPreset;"Switching between the selected sets in combat is done using the keys:
+{{ID_SHIP_ACTION_BAR_ITEM_6}} {{ID_SHIP_ACTION_BAR_ITEM_11}} {{ID_REPAIR_BREACHES}}"
+ship/damageControlActionPrioritet;<color=@goodTextColor>{action} process is in priority.</color> All three processes can be launched simultaneously. In that case prioritized process always works first.
+ship/damageControlRepairText;Repair
+ship/damageControlExtinguishText;Extinguish
+ship/damageControlUnwateringText;Unwatering
+ship/damageControlSpecTitle;<color=@activeTextColor>Damage control specs:</color>
+ship/damageControlSpec;  <color={color}>x{k}</color> <color=@activeTextColor>to {action} time</color>
+ship/damageControlSpecActionRepairText;repairing
+ship/damageControlSpecActionExtinguishText;extinguishing
+ship/damageControlSpecActionUnwaterText;unwatering
+frame_halloween_pumpkins/name;Through the Dark Forest
+frame_halloween_witch/name;Witch Hunt
+countriesAppearance/title;Selection of research countries appearance
+countriesAppearance/useOperatorFlagsInBattle;Use operator flags in battle
+countriesAppearance/useOperatorFlagsInBattle/tooltip;Use vehicle operator flags in the battle statistics instead of research country flags.
+countriesAppearance/options/appearance;Appearance
+countriesAppearance/options/style;Style
+countriesAppearance/styles/default;Show flag and name
+countriesAppearance/styles/only_flag;Show flag only
+countriesAppearance/styles/only_name;Show title only
+countriesAppearance/notAvailableMsg;Purchase your first vehicle from this operator to be able to use its flag and name
+mainmenu/probability_info;Probability information
+mainmenu/apply_to_all;Apply to all

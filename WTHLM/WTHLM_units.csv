@@ -5159,8 +5159,8 @@ ussr_sdkfz_251_21_kit_3rank_1;▂ m.S.P.W. D (M.G. 151 S)
 ussr_sdkfz_251_21_kit_3rank_2;SPAAG
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
-ussr_t_34_85_stp_s53_shop;T-34-85 (Mar, 1945) (STP-S-53)
-ussr_t_34_85_stp_s53_0;"Zavod № 112 | Ob""yekt 135 | Tank T-34-85 obr. 1945 g. (March, 1945) (Stabilizator STP-S-53 ""Taran"")"
+ussr_t_34_85_stp_s53_shop;T-34-85 (May, 1945) (STP-S-53)
+ussr_t_34_85_stp_s53_0;"Zavod № 112 | Ob""yekt 135 | Tank T-34-85 obr. 1945 g. (May, 1945) (Stabilizator STP-S-53 ""Taran"")"
 ussr_t_34_85_stp_s53_1;T-34-85
 ussr_t_34_85_stp_s53_2;Medium tank
 ussr_t_44_po_shop;T-44 №1
@@ -6938,6 +6938,10 @@ j_11b_shop;J11B
 j_11b_0;"Shěnyáng Fēijī Gōngyè Jítuán | J11B ""Yìng Lóng"""
 j_11b_1;J11B
 j_11b_2;J11
+jh_7_shop;K/JJH7
+jh_7_0;"Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7 Xíng Fēijī ""Fēi Bào"""
+jh_7_1;K/JJH7
+jh_7_2;K/JJH7
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
@@ -6976,6 +6980,10 @@ cn_wz_141_2;Light Tank
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+cn_cm_34_shop;CM34
+cn_cm_34_0;Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 30 Liàn Pào Zhuāng Bù Zhàndòu Chē
+cn_cm_34_1;CM34
+cn_cm_34_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 cn_vt_4_shop;VT4
@@ -6996,6 +7004,10 @@ cn_pgz_625_fb10_shop;CS/SA5 (2022)
 cn_pgz_625_fb10_0;Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Xíng Gāo Pào (2022)
 cn_pgz_625_fb10_1;CS/SA5
 cn_pgz_625_fb10_2;SPAAG/M
+cn_oplot_t_shop;☪ BM Oplot-T
+cn_oplot_t_0;☪ Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-T | Bojova mašina Oplot-T
+cn_oplot_t_1;☪ BM Oplot-T
+cn_oplot_t_2;MBT
 
 //CHINA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 
@@ -7032,6 +7044,10 @@ re_2005_vdm_1;Re. 2005
 re_2005_vdm_2;Re. 2005
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+mb_326k_shop;MB-326K
+mb_326k_0;Aermacchi MB-326K
+mb_326k_1;MB-326K
+mb_326k_2;MB-326
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
@@ -7144,6 +7160,10 @@ it_t_72m1_shop;◔ T-72M1
 it_t_72m1_0;◔ Opytno-konstruktorskoye bûro № 520 im. Morozova | T-72M1 harckocsi
 it_t_72m1_1;◔ T-72M1
 it_t_72m1_2;MBT
+it_c13_tua_shop;C 13 (TUA)
+it_c13_tua_0;OTO Melara C 13 con sistema d'arma TUA
+it_c13_tua_1;C 13 (TUA)
+it_c13_tua_2;ATMC
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 it_9a35_m_shop;◔ 9A35M
@@ -7213,9 +7233,13 @@ it_cruiser_cadorna_class_cadorna_2;Light Cruiser
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 it_battleship_littorio_class_roma_shop;Roma
-it_battleship_littorio_class_roma_0;Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma (1943)
+it_battleship_littorio_class_roma_0;Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma
 it_battleship_littorio_class_roma_1;Roma
 it_battleship_littorio_class_roma_2;Battleship
+it_battleship_littorio_class_littorio_shop;Italia
+it_battleship_littorio_class_littorio_0;Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Italia
+it_battleship_littorio_class_littorio_1;Italia
+it_battleship_littorio_class_littorio_2;Battleship
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 fokker_d21_netherlands_shop;D.XXI-2
@@ -7228,6 +7252,10 @@ a-35b_shop;☨ A-35B-1-VN
 a-35b_0;☨ Vultee Aircraft V-88 | A-35B-1-VN Vengeance
 a-35b_1;☨ A-35B
 a-35b_2;☨ A-35
+fokker_d23_shop;D.XXIII
+fokker_d23_0;N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXIII
+fokker_d23_1;D.XXIII
+fokker_d23_2;D.XXIII
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 sb_25j_netherlands_shop;◘ B-25K
@@ -7429,7 +7457,7 @@ fr_vlt2_2;Motor Torpedo Boat
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 fr_frigate_corse_class_brestois_shop;Le Brestois (F 762)
-fr_frigate_corse_class_brestois_0;Arsenal de Lorient | Escorteur rapide de type E 50 | Le Brestois (F 762) (1958)
+fr_frigate_corse_class_brestois_0;Arsenal de Lorient / Arsenal de Toulon | Escorteur rapide de type E 50 | Le Brestois (F 762) (1958)
 fr_frigate_corse_class_brestois_1;Le Brestois
 fr_frigate_corse_class_brestois_2;Fast Escort
 
@@ -7466,6 +7494,10 @@ fr_battleship_richelieu_class_richelieu_shop;Richelieu
 fr_battleship_richelieu_class_richelieu_0;Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de la Classe Richelieu | Richelieu (1943)
 fr_battleship_richelieu_class_richelieu_1;Richelieu
 fr_battleship_richelieu_class_richelieu_2;Battleship
+fr_battleship_richelieu_class_clemenceau_shop;Clemenceau
+fr_battleship_richelieu_class_clemenceau_0;Arsenal de Brest | Cuirassé de la Classe Richelieu | Clemenceau
+fr_battleship_richelieu_class_clemenceau_1;Clemenceau
+fr_battleship_richelieu_class_clemenceau_2;Battleship
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 
@@ -7602,6 +7634,10 @@ f_16a_block_10_netz_mod_2; F-16
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+il_m113_hvms_shop;Bardelas (HVMS 60)
+il_m113_hvms_0;Israel Military Industries | Bardelas (60 mm Hyper-Velocity Medium Support Weapon)
+il_m113_hvms_1;Bardelas (HVMS 60)
+il_m113_hvms_2;Light Tank
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 

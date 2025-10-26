@@ -16,7 +16,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.15.00 - UNRELEASED
+## 1.15.00 - UNRELEASED, WIP
 
 ### General:
 
@@ -28,35 +28,57 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
-    - **XF5U-1**
-    - **AH-56A**
-    - **USS Oregon City**
-    - **Yak-1 Litvyak**
-    - **Su-30MK2 AMV**
-    - **T-34-85 "Taran"**
-    - **BTR-82AT**
-    - **Erevan**
-    - **Chieftain Mk 900** (this is not horribly bad for Gaijin, but somehow hurts more than normal)
-    - **IJN Nagato**
-    - **IJN Musashi**
-    - **La Brestois**
+    - Update "Spearhead" additions:
+        - **XF5U-1**
+        - **AH-56A**
+        - **USS Oregon City**
+        - **Yak-1 Litvyak**
+        - **Su-30MK2 AMV** (Venezuela)
+        - **T-34-85 "Taran"**
+        - **BTR-82AT**
+        - **Erevan**
+        - **Chieftain Mk 900** (this is not horribly bad for Gaijin, but somehow hurts more than normal)
+        - **IJN Nagato**
+        - **IJN Musashi**
+        - **JH-7**
+        - **CM-34**
+        - **Oplot-P** (China / Pakistan) (actually an Oplot-T, it's so fucking stupid)
+        - **MB-326K**
+        - **C13/TUA**
+        - **Littorio**
+        - **Fokker D.XXIII**
+        - **La Brestois**
+        - **Clemenceau**
+        - **Zelda/60mm HVMS** (hey nintendo, knock off palworld, you got IMI in 2004 to sue!)
 
 - #### Changes:
 
-    - **XF5U-1**: Statcard name → **Vought-Sikorsky Aircraft | XF5U-1 "Flying Flapjack"**.
-    - **AH-56A**: Statcard name → **Lockheed Corporation CL-840 | Helicopter, Attack, AH-56A Cheyenne**.
-    - **USS Oregon City** → **USS Oregon City (CA-122)**. Statcard name → **Fore River Shipyard | Oregon City-class Heavy Cruiser | USS Oregon City (CA-122)**.
-    - **Yak-1 Litvyak** → **Litvâk's Yak-1**. Statcard name → **Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyet Yak-1**.
-    - **Su-30MK2 AMV** → **Su-30MK2**. Statcard name → **AO «Kompaniâ Sukhoj» | Su-30MK2** (the lack of an izd number is intenional, Venezuela does not use them).
-    - **T-34-85 "Taran"** → **T-34-85 (Mar, 1945) (STP-S-53)**. Statcard name → **Zavod № 112 | Ob"yekt 135 | Tank T-34-85 obr. 1945 g. (March, 1945) (Stabilizator STP-S-53 "Taran")**.
-    - **BTR-82AT** → **BTR-82AT (9P163-1)**. Statcard name → **Arzamasskij mašinostroityel'nyj zavod | Bronyetransportyer BTR-82AT (Puskovoye ustrojstvo 9P163-1)**. Gaijin modeled an accurate BTR-82AT, but then made it into a Frankenstein's monster by grafting a 9P163-1 ATGM launcher for 9M133 Kornet missiles from a field modification of the BTR-82A onto the BTR-82AT.
-    - **Erevan** → **Yeryevan**. Statcard name → **Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yeryevan**.
-    - **Chieftain Mk 900** → **Chieftain 900**. Statcard name → **British Leyland Motor Corporation / Royal Ordnance Factories Chieftain 900**.
-    - **IJN Nagato** → **Nagato**. Statcard name → **Kure Kaigun Kōshō | Nagato Gata Senkan (A-114) | Nagato (1944)** (refit location is not missing, it was just built and refitted at Kure).
-        - Japanese package: **IJN Nagato** → **長門**. Statcard name → **呉海軍工廠 | 長門型戦艦 (A-114) | 長門 (1944)**.
-    - **IJN Musashi** → **Musashi**. Statcard name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Musashi (1943)**.
-        - Japanese package: **IJN Musashi** → **武蔵**. Statcard name → **三菱重工業長崎造船所 / 呉海軍工廠 | 大和型戦艦 (A-140F6) | 武蔵 (1943)**.
-    - **La Brestois** → **Le Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Brestois (F 762)**.
+    - Update "Spearhead" changes:
+        - **XF5U-1**: Statcard name → **Vought-Sikorsky Aircraft | XF5U-1 "Flying Flapjack"**.
+        - **AH-56A**: Statcard name → **Lockheed Corporation CL-840 | Helicopter, Attack, AH-56A Cheyenne**.
+        - **USS Oregon City** → **USS Oregon City (CA-122)**. Statcard name → **Fore River Shipyard | Oregon City-class Heavy Cruiser | USS Oregon City (CA-122)**.
+        - **Yak-1 Litvyak** → **Litvâk's Yak-1**. Statcard name → **Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyet Yak-1**.
+        - **Su-30MK2 AMV** (Venezuela) → **Su-30MK2**. Statcard name → **AO «Kompaniâ Sukhoj» | Su-30MK2** (the lack of an izd number is intenional, Venezuela does not use them).
+        - **T-34-85 "Taran"** → **T-34-85 (Mar, 1945) (STP-S-53)**. Statcard name → **Zavod № 112 | Ob"yekt 135 | Tank T-34-85 obr. 1945 g. (March, 1945) (Stabilizator STP-S-53 "Taran")**.
+        - **BTR-82AT** → **BTR-82AT (9P163-1)**. Statcard name → **Arzamasskij mašinostroityel'nyj zavod | Bronyetransportyer BTR-82AT (Puskovoye ustrojstvo 9P163-1)**. Gaijin modeled an accurate BTR-82AT, but then made it into a Frankenstein's monster by grafting a 9P163-1 ATGM launcher for 9M133 Kornet missiles from a field modification of the BTR-82A onto the BTR-82AT.
+        - **Erevan** → **Yeryevan**. Statcard name → **Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yeryevan**.
+        - **Chieftain Mk 900** → **Chieftain 900**. Statcard name → **British Leyland Motor Corporation / Royal Ordnance Factories Chieftain 900**.
+        - **IJN Nagato** → **Nagato**. Statcard name → **Kure Kaigun Kōshō | Nagato Gata Senkan (A-114) | Nagato (1944)** (refit location is not missing, it was just built and refitted at Kure).
+            - Japanese package: **IJN Nagato** → **長門**. Statcard name → **呉海軍工廠 | 長門型戦艦 (A-114) | 長門 (1944)**.
+        - **IJN Musashi** → **Musashi**. Statcard name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Musashi (1943)**.
+            - Japanese package: **IJN Musashi** → **武蔵**. Statcard name → **三菱重工業長崎造船所 / 呉海軍工廠 | 大和型戦艦 (A-140F6) | 武蔵 (1943)**.
+        - **JH-7** → **K/JJH7**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7 Xíng Fēijī "Fēi Bào"**. I know K/JJH7 looks weird next to just JH7A, but the China rework is coming soon anyway. Rest of China will look like this soon anyway.
+        - **CM-34** → **CM34**. Statcard name → **Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 30 Liàn Pào Zhuāng Bù Zhàndòu Chē**.
+        - **Oplot-P** (China / Pakistan) → **BM Oplot-T**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-T | Bojova mašina Oplot-T**. It's so stupid. They call it the Oplot-P, but Pakistan tested the BM Oplot-M, then request weight-reduction modifications which created the BM Oplot-P with new sideskirts and a completely new turret armor layout. The BM Oplot-P was never tested in Pakistan, only in Ukraine. Gaijoobles, for some incomprehensible reason, added neither of those, instead adding the Thai BM Oplot-T, a seperate vehicle developed from the BM Oplot-M, and then called it the Oplot-P. Even the file name is `cn_oplot_t`. It's so unbelievably stupid.
+            - Ukrainian package: **Oplot-P** (China / Pakistan) → **БМ Оплот-Т**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Об'єкт 478ДУ9-Т | Бойова машина Оплот-Т**.
+        - **MB-326K**: Statcard name → **Aermacchi MB-326K** (internal designation that the Italian air force then adopted).
+        - **C13/TUA** → **C 13 (TUA)**. Statcard name → **OTO Melara C 13 con sistema d'arma TUA**. This thing is so complictaed and information is so scant.
+        - **Littorio** → **Italia**. Statcard name → **Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Italia**. No refit year is listed even though the refit location is listed because the Refit happened in September, 1942, but this mod uses the latest service designation. The latest designation it bore in this fit was Italia because it was renamed that after the armistice. Since it being called Italia already denotes it has the September, 1942 refit, only the refit location, La Spezia, is needed.
+        - **Fokker D.XXIII** → **D.XXIII**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXIII**.
+        - **La Brestois** → **Le Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Brestois (F 762)**.
+        - **Clemenceau**: Statcard name → **Arsenal de Brest | Cuirassé de la Classe Richelieu | Clemenceau**.
+        - **Zelda/60mm HVMS** → **Bardelas (HVMS 60)**. Statcard name → **Israel Military Industries | Bardelas (60 mm Hyper-Velocity Medium Support Weapon)**.
+    - **Roma**: Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma** (refit year removed; the 1943 refit isn't real).
 
 ### Nations:
 

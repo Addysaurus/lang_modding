@@ -47,8 +47,10 @@ All dates are listed in DD-MM-YYYY format.
         - **C13/TUA**
         - **Littorio**
         - **Fokker D.XXIII**
+        - **Jaguar**
         - **La Brestois**
         - **Clemenceau**
+        - **M.D.450B (29)**
         - **Zelda/60mm HVMS** (hey nintendo, knock off palworld, you got IMI in 2004 to sue!)
 
 - #### Changes:
@@ -75,10 +77,13 @@ All dates are listed in DD-MM-YYYY format.
         - **C13/TUA** → **C 13 (TUA)**. Statcard name → **OTO Melara C 13 con sistema d'arma TUA**. This thing is so complictaed and information is so scant.
         - **Littorio** → **Italia**. Statcard name → **Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Italia**. No refit year is listed even though the refit location is listed because the Refit happened in September, 1942, but this mod uses the latest service designation. The latest designation it bore in this fit was Italia because it was renamed that after the armistice. Since it being called Italia already denotes it has the September, 1942 refit, only the refit location, La Spezia, is needed.
         - **Fokker D.XXIII** → **D.XXIII**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXIII**.
+        - **Jaguar** → **EBRC Jaguar**. Statcard name → **Groupement Momentané d'Entreprises Engin Blindé Multi Rôles | Engin Blindé de Reconnaissance et de Combat Jaguar**.
         - **La Brestois** → **Le Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Brestois (F 762)**.
         - **Clemenceau**: Statcard name → **Arsenal de Brest | Cuirassé de la Classe Richelieu | Clemenceau**.
+        - **M.D.450B (29)** (Israel) → **'Organ (Mis 29)**. Statcard name → **Avions Marcel Dassault | M.D.450B 'Organ (Mis 29, Ṭayeset 113 "Ṭayeset Haṣar'ah")**.
         - **Zelda/60mm HVMS** → **Bardelas (HVMS 60)**. Statcard name → **Israel Military Industries | Bardelas (60 mm Hyper-Velocity Medium Support Weapon)**.
     - **Roma**: Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma** (refit year removed; the 1943 refit isn't real).
+    - **Ouragan** (Israel) → **'Organ**. Statcard name → **Avions Marcel Dassault | M.D.450B 'Organ**.
 
 ### Nations:
 

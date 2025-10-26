@@ -32,6 +32,7 @@ All dates are listed in DD-MM-YYYY format.
         - **XF5U-1**
         - **AH-56A**
         - **USS Oregon City**
+        - **SMS König**
         - **Yak-1 Litvyak**
         - **Su-30MK2 AMV** (Venezuela)
         - **T-34-85 "Taran"**
@@ -59,6 +60,7 @@ All dates are listed in DD-MM-YYYY format.
         - **XF5U-1**: Statcard name → **Vought-Sikorsky Aircraft | XF5U-1 "Flying Flapjack"**.
         - **AH-56A**: Statcard name → **Lockheed Corporation CL-840 | Helicopter, Attack, AH-56A Cheyenne**.
         - **USS Oregon City** → **USS Oregon City (CA-122)**. Statcard name → **Fore River Shipyard | Oregon City-class Heavy Cruiser | USS Oregon City (CA-122)**.
+        - **SMS König**: Statcard name → **Kaiserliche Werft Wilhelmshaven | Schlachtschiff König-Klasse | SMS König (1917)** (construction and refit location are the same).
         - **Yak-1 Litvyak** → **Litvâk's Yak-1**. Statcard name → **Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyet Yak-1**.
         - **Su-30MK2 AMV** (Venezuela) → **Su-30MK2**. Statcard name → **AO «Kompaniâ Sukhoj» | Su-30MK2** (the lack of an izd number is intenional, Venezuela does not use them).
         - **T-34-85 "Taran"** → **T-34-85 (Mar, 1945) (STP-S-53)**. Statcard name → **Zavod № 112 | Ob"yekt 135 | Tank T-34-85 obr. 1945 g. (March, 1945) (Stabilizator STP-S-53 "Taran")**.
@@ -84,6 +86,16 @@ All dates are listed in DD-MM-YYYY format.
         - **Zelda/60mm HVMS** → **Bardelas (HVMS 60)**. Statcard name → **Israel Military Industries | Bardelas (60 mm Hyper-Velocity Medium Support Weapon)**.
     - **Roma**: Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma** (refit year removed; the 1943 refit isn't real).
     - **Ouragan** (Israel) → **'Organ**. Statcard name → **Avions Marcel Dassault | M.D.450B 'Organ**.
+
+### Weaponry:
+
+- #### Additions:
+
+    - **60 mm OTO HVMS cannon**
+
+- #### Changes:
+
+    - **60 mm OTO HVMS cannon** → **60 mm Hyper-Velocity Medium Support Weapon**.
 
 ### Nations:
 

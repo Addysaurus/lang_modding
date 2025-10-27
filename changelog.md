@@ -40,6 +40,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Erevan**
         - **Hawk 200**
         - **Chieftain Mk 900** (this is not horribly bad for Gaijin, but somehow hurts more than normal)
+        - **AH-64E** (Japan / Indonesia)
         - **Kari**
         - **IJN Nagato**
         - **IJN Musashi**
@@ -71,6 +72,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Hawk 200** → **Hawk Mk. 200 (ZH200)**. Statcard name → **British Aerospace Hawk 200 | Hawk Mk. 200 (ZH200)**.
         - **Erevan** → **Yeryevan**. Statcard name → **Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yeryevan**.
         - **Chieftain Mk 900** → **Chieftain 900**. Statcard name → **British Leyland Motor Corporation / Royal Ordnance Factories Chieftain 900**.
+        - **AH-64E** (Japan / Indonesia): Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache**.
         - **Kari** → **Kari (PC-301)**. Statcard name → **Fujinagata Zōsensho | Kari Gata Kusen Tei (K-101A) | Kari (PC-301)**.
             - Japanese package: **Kari** → **かり (PC-301)**. Statcard name → **藤永田造船所 | カリ型駆潜艇 (K-101A) | カリ (PC-301)**.
         - **IJN Nagato** → **Nagato**. Statcard name → **Kure Kaigun Kōshō | Nagato Gata Senkan (A-114) | Nagato (1944)** (refit location is not missing, it was just built and refitted at Kure).

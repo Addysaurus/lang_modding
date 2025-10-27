@@ -40,10 +40,12 @@ All dates are listed in DD-MM-YYYY format.
         - **Erevan**
         - **Hawk 200**
         - **Chieftain Mk 900** (this is not horribly bad for Gaijin, but somehow hurts more than normal)
+        - **Kari**
         - **IJN Nagato**
         - **IJN Musashi**
         - **JH-7**
-        - **CM-34**
+        - **JH-7A Prototype 811**
+        - **CM34**
         - **Oplot-P** (China / Pakistan) (actually an Oplot-T, it's so fucking stupid)
         - **MB-326K**
         - **C13/TUA**
@@ -69,17 +71,20 @@ All dates are listed in DD-MM-YYYY format.
         - **Hawk 200** → **Hawk Mk. 200 (ZH200)**. Statcard name → **British Aerospace Hawk 200 | Hawk Mk. 200 (ZH200)**.
         - **Erevan** → **Yeryevan**. Statcard name → **Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yeryevan**.
         - **Chieftain Mk 900** → **Chieftain 900**. Statcard name → **British Leyland Motor Corporation / Royal Ordnance Factories Chieftain 900**.
+        - **Kari** → **Kari (PC-301)**. Statcard name → **Fujinagata Zōsensho | Kari Gata Kusen Tei (K-101A) | Kari (PC-301)**.
+            - Japanese package: **Kari** → **かり (PC-301)**. Statcard name → **藤永田造船所 | カリ型駆潜艇 (K-101A) | カリ (PC-301)**.
         - **IJN Nagato** → **Nagato**. Statcard name → **Kure Kaigun Kōshō | Nagato Gata Senkan (A-114) | Nagato (1944)** (refit location is not missing, it was just built and refitted at Kure).
             - Japanese package: **IJN Nagato** → **長門**. Statcard name → **呉海軍工廠 | 長門型戦艦 (A-114) | 長門 (1944)**.
         - **IJN Musashi** → **Musashi**. Statcard name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Musashi (1943)**.
             - Japanese package: **IJN Musashi** → **武蔵**. Statcard name → **三菱重工業長崎造船所 / 呉海軍工廠 | 大和型戦艦 (A-140F6) | 武蔵 (1943)**.
-        - **JH-7** → **K/JJH7**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7 Xíng Fēijī "Fēi Bào"**. I know K/JJH7 looks weird next to just JH7A, but the China rework is coming soon anyway. Rest of China will look like this soon anyway.
-        - **CM-34** → **CM34**. Statcard name → **Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 30 Liàn Pào Zhuāng Bù Zhàndòu Chē**.
+        - **JH-7** → **H/JJH7**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7 Xíng Fēijī "Fēi Bào"**. I know it looks weird next to other Chinese planes, I promise the rest are going to be moved over to this system soon with the China rework
+        - **JH-7A Prototype 811** → **H/JJH7A (811 Hào)**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7A Xíng Fēijī "Fēi Bào" (Yàngchē 811 Hào)**.
+        - **CM34**: Statcard name → **Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 30 Liàn Pào Zhuāng Bù Zhàndòu Chē**.
         - **Oplot-P** (China / Pakistan) → **BM Oplot-T**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-T | Bojova mašina Oplot-T**. It's so stupid. They call it the Oplot-P, but Pakistan tested the BM Oplot-M, then request weight-reduction modifications which created the BM Oplot-P with new sideskirts and a completely new turret armor layout. The BM Oplot-P was never tested in Pakistan, only in Ukraine. Gaijoobles, for some incomprehensible reason, added neither of those, instead adding the Thai BM Oplot-T, a seperate vehicle developed from the BM Oplot-M, and then called it the Oplot-P. Even the file name is `cn_oplot_t`. It's so unbelievably stupid.
             - Ukrainian package: **Oplot-P** (China / Pakistan) → **БМ Оплот-Т**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Об'єкт 478ДУ9-Т | Бойова машина Оплот-Т**.
         - **MB-326K**: Statcard name → **Aermacchi MB-326K** (internal designation that the Italian air force then adopted).
         - **C13/TUA** → **C 13 (TUA)**. Statcard name → **OTO Melara C 13 con sistema d'arma TUA**. This thing is so complictaed and information is so scant.
-        - **Littorio** → **Italia**. Statcard name → **Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Italia**. No refit year is listed even though the refit location is listed because the Refit happened in September, 1942, but this mod uses the latest service designation. The latest designation it bore in this fit was Italia because it was renamed that after the armistice. Since it being called Italia already denotes it has the September, 1942 refit, only the refit location, La Spezia, is needed.
+        - **Littorio** → **Italia**. Statcard name → **Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Littorio (1942)**.
         - **Fokker D.XXIII** → **D.XXIII**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXIII**.
         - **Jaguar** → **EBRC Jaguar**. Statcard name → **Groupement Momentané d'Entreprises Engin Blindé Multi Rôles | Engin Blindé de Reconnaissance et de Combat Jaguar**.
         - **La Brestois** → **Le Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Brestois (F 762)**.
@@ -88,6 +93,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Zelda/60mm HVMS** → **Bardelas (HVMS 60)**. Statcard name → **Israel Military Industries | Bardelas (60 mm Hyper-Velocity Medium Support Weapon)**.
     - **Roma**: Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma** (refit year removed; the 1943 refit isn't real).
     - **Ouragan** (Israel) → **'Organ**. Statcard name → **Avions Marcel Dassault | M.D.450B 'Organ**.
+    - **JH7A** → **H/JJH7A**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī "Fēi Bào"**. Just changed to be standardized with the new H/JJH7 and and H/JJH7A; other Chinese aircaft will be moved over to this later.
 
 ### Weaponry:
 

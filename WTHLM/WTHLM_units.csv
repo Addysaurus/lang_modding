@@ -6606,6 +6606,10 @@ jp_t51b_shop;Dai 11 Gō
 jp_t51b_0;Yokohama Yotto | Kō Gata Gyorai Tei | Dai 11 Gō Gata Gyorai Tei (T-51B) | Dai 11 Gō
 jp_t51b_1;Dai 11 Gō
 jp_t51b_2;Motor torpedo boat
+pc301_kari_class_shop;Kari (PC-301)
+pc301_kari_class_0;Fujinagata Zōsensho | Kari Gata Kusen Tei (K-101A) | Kari (PC-301)
+pc301_kari_class_1;Kari
+pc301_kari_class_2;Submarine Chaser
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 jp_no1_ch2_shop;Dai 2 Gō
@@ -6946,10 +6950,18 @@ j_11b_shop;J11B
 j_11b_0;"Shěnyáng Fēijī Gōngyè Jítuán | J11B ""Yìng Lóng"""
 j_11b_1;J11B
 j_11b_2;J11
-jh_7_shop;K/JJH7
-jh_7_0;"Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7 Xíng Fēijī ""Fēi Bào"""
-jh_7_1;K/JJH7
-jh_7_2;K/JJH7
+jh_7_shop;H/JJH7
+jh_7_0;"Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7 Xíng Fēijī ""Fēi Bào"""
+jh_7_1;H/JJH7
+jh_7_2;H/JJH7
+jh_7a_shop;H/JJH7A
+jh_7a_0;"Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7A Xíng Fēijī ""Fēi Bào"""
+jh_7a_1;H/JJH7A
+jh_7a_2;H/JJH7
+jh_7a_prototype_shop;H/JJH7A (811 Hào)
+jh_7a_prototype_0;"Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7A Xíng Fēijī ""Fēi Bào"" (Yàngchē 811 Hào)"
+jh_7a_prototype_1;H/JJH7A
+jh_7a_prototype_2;H/JJH7
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
@@ -7244,9 +7256,9 @@ it_battleship_littorio_class_roma_shop;Roma
 it_battleship_littorio_class_roma_0;Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma
 it_battleship_littorio_class_roma_1;Roma
 it_battleship_littorio_class_roma_2;Battleship
-it_battleship_littorio_class_littorio_shop;Italia
-it_battleship_littorio_class_littorio_0;Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Italia
-it_battleship_littorio_class_littorio_1;Italia
+it_battleship_littorio_class_littorio_shop;Littorio
+it_battleship_littorio_class_littorio_0;Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Littorio (1942)
+it_battleship_littorio_class_littorio_1;Littorio
 it_battleship_littorio_class_littorio_2;Battleship
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 1
@@ -10224,10 +10236,6 @@ j_8f_shop;J8F
 j_8f_0;J8F
 j_8f_1;J8F
 j_8f_2;J8
-jh_7a_shop;JH7A
-jh_7a_0;"JH7A ""Fēi Bào"""
-jh_7a_1;JH7A
-jh_7a_2;JH7
 jf_17_shop;JF-17 Blāk I
 jf_17_0;Chéngdū Phējī Udyoga Samūha + Pākistān Aironāṭikal Kampḷiks | JF-17 Blāk I Thaṇḍar
 jf_17_1;JF-17 Blāk I

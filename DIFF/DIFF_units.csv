@@ -1,8 +1,16 @@
 <ID|readonly|noverify>;<English>
+shop/group/us_m56_m50_group;M56/M50
+shop/group/us_m247_mim72_group;M247/Chaparral
+shop/group/germ_raketen_group;Raketenautomat/RakJPz
+shop/group/ussr_9a33_35_group;Osa/Strela
+shop/group/ussr_it_9p149_group;IT/Shturm
+shop/group/uk_stormer_9a33_group;Stormer/Osa
+shop/group/uk_stormer_9a35_group;Stormer/Strela
+shop/group/fr_foch_acra_group;Foch/ACRA
 shop/group/uk_cromwell_sherman_group;Cromwell/Sherman
-ussr_t_34_85_stp_s53_shop;"T-34-85 ""Taran"""
-ussr_t_34_85_stp_s53_0;"T-34-85 STP-S-53""Taran"""
-ussr_t_34_85_stp_s53_1;"T-34-85 ""Taran"""
+ussr_t_34_85_stp_s53_shop;T-34-85 (STP)
+ussr_t_34_85_stp_s53_0;T-34-85 STP-S-53
+ussr_t_34_85_stp_s53_1;T-34-85 (STP)
 ussr_t_34_85_stp_s53_2;Medium tank
 uk_chieftain_900_shop;Chieftain Mk 900
 uk_chieftain_900_0;Chieftain Mk 900
@@ -17,9 +25,13 @@ yak_1_litvyak_0;Yak-1 Litvyak
 yak_1_litvyak_1;Yak-1
 yak_1_litvyak_2;Yak-1
 jh_7_shop;JH-7
-jh_7_0;JH-7 Flying Leopard
+jh_7_0;JH-7 Block 02 Flying Leopard
 jh_7_1;JH-7
 jh_7_2;JH-7
+jh_7a_prototype_shop;JH-7A Prototype 811
+jh_7a_prototype_0;JH-7A (Prototype 811) Flying Leopard II
+jh_7a_prototype_1;JH-7A
+jh_7a_prototype_2;JH-7
 xf5u_1_shop;XF5U-1
 xf5u_1_0;XF5U-1
 xf5u_1_1;XF5U-1
@@ -60,6 +72,18 @@ hawk_200_shop;Hawk 200
 hawk_200_0;Hawk 200
 hawk_200_1;Hawk 200
 hawk_200_2;Hawk
+ah_64e_china_shop;␗AH-64E
+ah_64e_china_0;␗AH-64E
+ah_64e_china_1;␗AH-64E
+ah_64e_china_2;␗AH-64E
+ah_64e_indonesia_shop;◥AH-64E
+ah_64e_indonesia_0;◥AH-64E
+ah_64e_indonesia_1;◥AH-64E
+ah_64e_indonesia_2;◥AH-64E
+ah_64e_netherlands_shop;◘AH-64E
+ah_64e_netherlands_0;◘AH-64E
+ah_64e_netherlands_1;◘AH-64E
+ah_64e_netherlands_2;◘AH-64E
 ah_56a_shop;AH-56A
 ah_56a_0;AH-56A
 ah_56a_1;AH-56A
@@ -97,11 +121,15 @@ fr_battleship_richelieu_class_clemenceau_shop;Clemenceau
 fr_battleship_richelieu_class_clemenceau_0;Richelieu-class, Clemenceau, project
 fr_battleship_richelieu_class_clemenceau_1;Clemenceau
 fr_battleship_richelieu_class_clemenceau_2;Battleship
+pc301_kari_class_shop;Kari
+pc301_kari_class_0;Kari-class, Кari (PC-301)
+pc301_kari_class_1;Kari
+pc301_kari_class_2;Gunboat
 it_battleship_littorio_class_littorio_shop;RN Littorio
 it_battleship_littorio_class_littorio_0;Littorio-class, RN Littorio, 1943
 it_battleship_littorio_class_littorio_1;RN Littorio
 it_battleship_littorio_class_littorio_2;Battleship
-cn_cm_34_shop;CM-34
-cn_cm_34_0;CM-34
-cn_cm_34_1;CM-34
+cn_cm_34_shop;CM34
+cn_cm_34_0;CM34
+cn_cm_34_1;CM34
 cn_cm_34_2;Light tank

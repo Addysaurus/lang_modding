@@ -32,6 +32,7 @@ All dates are listed in DD-MM-YYYY format.
         - **XF5U-1**
         - **AH-56A**
         - **USS Oregon City**
+        - **Tornado IDS ASSTA3 SLE**
         - **SMS König**
         - **Yak-1 Litvyak**
         - **Su-30MK2 AMV** (Venezuela)
@@ -64,6 +65,7 @@ All dates are listed in DD-MM-YYYY format.
         - **XF5U-1**: Statcard name → **Vought-Sikorsky Aircraft | XF5U-1 "Flying Flapjack"**.
         - **AH-56A**: Statcard name → **Lockheed Corporation CL-840 | Helicopter, Attack, AH-56A Cheyenne**.
         - **USS Oregon City** → **USS Oregon City (CA-122)**. Statcard name → **Fore River Shipyard | Oregon City-class Heavy Cruiser | USS Oregon City (CA-122)**.
+        - **Tornado IDS ASSTA3 SLE** → **IDS-Tornado (ASSTA 3) (SLE)**. Statcard name → **Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 3) (Service Life Enhancement Program)**.
         - **SMS König**: Statcard name → **Kaiserliche Werft Wilhelmshaven | Schlachtschiff König-Klasse | SMS König (1917)** (construction and refit location are the same).
         - **Yak-1 Litvyak** → **Litvâk's Yak-1**. Statcard name → **Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyet Yak-1**.
         - **Su-30MK2 AMV** (Venezuela) → **Su-30MK2**. Statcard name → **AO «Kompaniâ Sukhoj» | Su-30MK2** (the lack of an izd number is intenional, Venezuela does not use them).

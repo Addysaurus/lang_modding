@@ -101,10 +101,12 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
+    - **YJ-81(k)**
     - **60 mm OTO HVMS cannon**
 
 - #### Changes:
 
+    - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
     - **60 mm OTO HVMS cannon** → **60 mm Hyper-Velocity Medium Support Weapon**.
 
 ### Nations:

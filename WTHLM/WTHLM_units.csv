@@ -1216,6 +1216,7 @@ shop/group/us_m47_48_group;M47 / 48A1
 shop/group/us_m60_group;M60A1 AOS / R/PE
 shop/group/us_m6_group;M6A1 / T1E1
 shop/group/us_t26_group;T26E5 / E4-1
+shop/group/us_m56_m50_group;M56 / M50
 shop/group/us_t32_group;T32 / 32E1
 shop/group/us_abrams_group;M1A1 / 1IP
 shop/group/us_abrams_a2_group;M1A2 / A2 SEP
@@ -1224,6 +1225,7 @@ shop/group/us_kit_3rank_group;"""Hell on Wheels"""
 shop/group/us_m46_m47_group;M46 / 47
 shop/group/us_mbt_xm_group;XM803 / MBT70
 shop/group/us_m48_m60_group;M48 / 60
+shop/group/us_m247_mim72_group;M247 / 48A2 GMS
 shop/group/us_sl_amraam_fcs_group;M1097A2 (AN/MPQ-64) / (SLAMRAAM)
 shop/group/p-26_group;P-26A (1933) / B
 shop/group/tbd_group;TBD-1 / B-18
@@ -1291,6 +1293,7 @@ shop/group/germ_marder_stuh_group;Marder III H / StuH 42 / StuG III F
 shop/group/germ_jagdpanzer_group;Jagdpanzer IV / 38 (t)
 shop/group/germ_jagdpanther_group;Pz.Jgr. Panther G1 / JPz 4-5
 shop/group/germ_panzerjager_tiger_group;Ferdinand / Pz.Jgr. Tiger B
+shop/group/germ_raketen_group;SPz 12-3 (Typ 3Z 8DLA) / RakJPz 2
 shop/group/germ_puma_group;SPz Puma S0 / VJTF
 shop/group/germ_roland_osa_group;FlaRakPz 1 / ◊ 9A33BM2
 shop/group/germ_iris_slm_fcs_group;LV IRIS-T SLM (Radarfahrzeug) / (Startfahrzeug)
@@ -1355,6 +1358,8 @@ shop/group/ussr_kit_3rank_group;"""In May 1945"""
 shop/group/ussr_isu_su_group;ISU-122S / SU-100
 shop/group/ussr_2s_group;2S1 / 3M
 shop/group/ussr_zis_group;ZiS-12 (94-KM) / ZSU-37
+shop/group/ussr_it_9p149_group;IT-1 / 9P149M
+shop/group/ussr_9a33_35_group;9A33BM3 / 35M2
 shop/group/ussr_buk_m3_fcs_group;9S18M3 / A317M
 shop/group/i-15_group;I-15 (SGR) / (M-22) / (M-25)
 shop/group/i-16_group;I-16 Tip 10 / 18 / 24
@@ -1397,6 +1402,7 @@ shop/group/uk_cromwell_group;Cromwell, Mk. V / I
 shop/group/uk_valentine_group;Valentine, Mk. I / XI / IX
 shop/group/uk_chieftain_mk_3_5_group;Chieftain, Mk. 3 / 5
 shop/group/uk_challenger_comet_group;Challenger, Mk. I / Comet
+shop/group/uk_cromwell_sherman_group;Cromwell, Mk. V / I / Sherman, Mk. II
 shop/group/uk_caernarvon_conqueror_group;Caernarvon / Conqueror
 shop/group/uk_challenger_group;Challenger 1, Mk. 2 / 3
 shop/group/uk_challenger_2_group;Challenger 2 (2E) / (2F) / TES
@@ -1417,6 +1423,8 @@ shop/group/uk_rooikat_olifant_group;Rooikat / Olifant Mk1
 shop/group/uk_mttd_olifant_group;MTTD / Olifant Mk2
 shop/group/uk_stormer_group;Stormer / F.V.4333 (HVM)
 shop/group/uk_9a33_35_group;☸ 9A33BM2 / 35M
+shop/group/uk_stormer_9a33_group;Stormer / ☸ 9A33BM2
+shop/group/uk_stormer_9a35_group;F.V.4333 (HVM) / ☸ 9A35M
 shop/group/uk_sky_sabre_fcs_group;Sky Sabre (Giraffe AMB) / (iLauncher)
 shop/group/fury_group;Fury Mk. I / II
 shop/group/gladiator_mk2_group;Gladiator Mk. II / II (Silver) / II (BEF)
@@ -1546,6 +1554,7 @@ shop/group/fr_arl_jumbo_group;ARL 44 / ☨ M4A3E2
 shop/group/fr_auf_acra_group;AMX 30 Au F1 / 10M
 shop/group/fr_amx_32_group;AMX 32 P1 / 2
 shop/group/fr_lorraine_elc_group;CA Lorraine / ELC bis
+shop/group/fr_foch_acra_group;AMX 50 Foch / 10M
 shop/group/fr_aml_amx_group;AML 90 / AMX 13-90
 shop/group/fr_samp_t_fcs_group;☨ SAMP/T (MRI) / (MLT)
 shop/group/d_371_group;D.371 / 373
@@ -3581,6 +3590,10 @@ us_huckins_78ft_pt95_shop;USS PT-95
 us_huckins_78ft_pt95_0;Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-95
 us_huckins_78ft_pt95_1;USS PT-95
 us_huckins_78ft_pt95_2;Motor Torpedo Boat
+us_huckins_78ft_pt262_shop;USS PT-262
+us_huckins_78ft_pt262_0;Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-262
+us_huckins_78ft_pt262_1;USS PT-262
+us_huckins_78ft_pt262_2;Motor Torpedo Boat
 us_pt3_shop;PT-3
 us_pt3_0;58 ft Experimental motor torpedo boat, USS PT-3
 us_pt3_1;PT-3

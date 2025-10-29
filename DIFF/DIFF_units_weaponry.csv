@@ -1,6 +1,8 @@
 <ID|readonly|noverify>;<English>
 weapons/su_fab100_short_fin;100 kg FAB-100sv bomb
 weapons/su_fab100_short_fin/short;FAB-100sv
+weapons/de_hosbo_glide_bomb;HOSBO guided bomb
+weapons/de_hosbo_glide_bomb/short;HOSBO
 weapons/uk_130gal_hawk_drop_tank_1;Drop tank (130 gal.)
 weapons/uk_130gal_hawk_drop_tank_1/short;Drop tank
 weapons/uk_130gal_hawk_drop_tank_2;Drop tank (130 gal.)
@@ -10,15 +12,18 @@ weapons/cn_yj_81k/short;YJ-81(k)
 missile/guidance/tv+IOG+GNSS;TV+IOG+GNSS
 ahead/name;Shrapnel shell with time fuze
 ahead/name/short;AHEAD
-140mm_akeron_mp;Akeron MP
-weapons/60mm_hvms_user_cannon;60 mm OTO HVMS cannon
+140mm_akeron_mp;MMP
+weapons/60mm_hvms_user_cannon;IMI 60mm HVMS
 weapons/152mm_9M133_btr_82at_launcher_user_cannon;9M133 ATGM
+weapons/7_62mm_FN_MAG58_user_machinegun;7.62 mm FN MAG 58 machine gun
+weapons/gunM134_Minigun_ah_56;7.62 mm M134 Minigun machine gun
+weapons/gunM134_Minigun_ah_56/short;M134 Minigun
 weapons/cn_ba_11;Blue Arrow 11 air-to-ground missiles
 weapons/cn_ba_11/short;BA-11
-40mm_gpr_ke_t_apfsds;APFSDS-T
-40mm_gpr_ab_t_he;GPR-AB-T
-40mm_gpr_pd_t_he;GPR-PD-T
-40mm_ke_ab_ahead;KE-AB
+40mm_gpr_ke_t_apfsds;OFLT
+40mm_gpr_ab_t_he;OET CHR
+40mm_gpr_pd_t_he;OET
+40mm_ke_ab_ahead;PPM CHR
 40mm_ctc_ke_ab_ahead;KE-AB
 40mm_ctc_gpr_pd_t_he;GPR-PD-T
 40mm_ctc_ke_t_apfsds;APFSDS-T
@@ -28,6 +33,7 @@ weapons/140mm_akeron_mp_rocket_launchr_user_cannon;Akeron MP ATGM
 weapons/140mm_akeron_mp_rocket_launchr_user_cannon/short;Akeron MP
 apds_sabot;APDS Sabot
 apfsds_sabot;APFSDS Sabot
+125mm_3of_82;3OF82
 37mm_type_94_he;Type 94 HE
 weapons/su_kh_59m;Kh-59M missiles
 weapons/su_kh_59m/short;Kh-59M

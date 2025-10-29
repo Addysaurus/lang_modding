@@ -31,16 +31,25 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Spearhead" additions:
         - **XF5U-1**
         - **AH-56A**
+        - **M56/M50** (folder)
+        - **M247/Chaparral** (folder)
+        - **PT-262**
         - **USS Oregon City**
         - **Tornado IDS ASSTA3 SLE**
+        - **Raketenautomat/RakJPz** (folder)
         - **SMS König**
         - **Yak-1 Litvyak**
         - **Su-30MK2 AMV** (Venezuela)
         - **T-34-85 "Taran"**
+        - **IT/Shturm** (folder)
         - **BTR-82AT**
+        - **Osa/Strela** (folder)
         - **Erevan**
         - **Hawk 200**
+        - **Cromwell/Sherman** (folder)
         - **Chieftain Mk 900** (this is not horribly bad for Gaijin, but somehow hurts more than normal)
+        - **Stormer/Osa** (folder)
+        - **Stormer/Strela** (folder)
         - **AH-64E** (Japan / Indonesia)
         - **Kari**
         - **IJN Nagato**
@@ -53,6 +62,7 @@ All dates are listed in DD-MM-YYYY format.
         - **C13/TUA**
         - **Littorio**
         - **Fokker D.XXIII**
+        - **Foch/ACRA** (folder)
         - **Jaguar**
         - **La Brestois**
         - **Clemenceau**
@@ -64,16 +74,25 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Spearhead" changes:
         - **XF5U-1**: Statcard name → **Vought-Sikorsky Aircraft | XF5U-1 "Flying Flapjack"**.
         - **AH-56A**: Statcard name → **Lockheed Corporation CL-840 | Helicopter, Attack, AH-56A Cheyenne**.
+        - **M56/M50** (folder) → **M56 / M50**.
+        - **M247/Chaparral** (folder) → **M247 / 48A2 GMS**.
+        - **PT-262** → **USS PT-262**. Statcard name → **Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-262**.
         - **USS Oregon City** → **USS Oregon City (CA-122)**. Statcard name → **Fore River Shipyard | Oregon City-class Heavy Cruiser | USS Oregon City (CA-122)**.
         - **Tornado IDS ASSTA3 SLE** → **IDS-Tornado (ASSTA 3) (SLE)**. Statcard name → **Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 3) (Service Life Enhancement Program)**.
+        - **Raketenautomat/RakJPz** (folder) → **SPz 12-3 (Typ 3Z 8DLA) / RakJPz 2**.
         - **SMS König**: Statcard name → **Kaiserliche Werft Wilhelmshaven | Schlachtschiff König-Klasse | SMS König (1917)** (construction and refit location are the same).
         - **Yak-1 Litvyak** → **Litvâk's Yak-1**. Statcard name → **Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyet Yak-1**.
         - **Su-30MK2 AMV** (Venezuela) → **Su-30MK2**. Statcard name → **AO «Kompaniâ Sukhoj» | Su-30MK2** (the lack of an izd number is intenional, Venezuela does not use them).
         - **T-34-85 "Taran"** → **T-34-85 (Mar, 1945) (STP-S-53)**. Statcard name → **Zavod № 112 | Ob"yekt 135 | Tank T-34-85 obr. 1945 g. (March, 1945) (Stabilizator STP-S-53 "Taran")**.
+        - **IT/Shturm** (folder) → **IT-1 / 9P149M**.
         - **BTR-82AT** → **BTR-82AT (9P163-1)**. Statcard name → **Arzamasskij mašinostroityel'nyj zavod | Bronyetransportyer BTR-82AT (Puskovoye ustrojstvo 9P163-1)**. Gaijin modeled an accurate BTR-82AT, but then made it into a Frankenstein's monster by grafting a 9P163-1 ATGM launcher for 9M133 Kornet missiles from a field modification of the BTR-82A onto the BTR-82AT.
+        - **Osa/Strela** (folder) → **9A33BM3 / 35M2**.
         - **Hawk 200** → **Hawk Mk. 200 (ZH200)**. Statcard name → **British Aerospace Hawk 200 | Hawk Mk. 200 (ZH200)**.
         - **Erevan** → **Yeryevan**. Statcard name → **Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yeryevan**.
+        - **Cromwell/Sherman** (folder) → **Cromwell, Mk. V / I / Sherman, Mk. II**.
         - **Chieftain Mk 900** → **Chieftain 900**. Statcard name → **British Leyland Motor Corporation / Royal Ordnance Factories Chieftain 900**.
+        - **Stormer/Osa** (folder) → **Stormer / ☸ 9A33BM2**.
+        - **Stormer/Strela** (folder) → **☸ 9A33BM2 / 35M**.
         - **AH-64E** (Japan / Indonesia): Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache**.
         - **Kari** → **Kari (PC-301)**. Statcard name → **Fujinagata Zōsensho | Kari Gata Kusen Tei (K-101A) | Kari (PC-301)**.
             - Japanese package: **Kari** → **かり (PC-301)**. Statcard name → **藤永田造船所 | カリ型駆潜艇 (K-101A) | カリ (PC-301)**.
@@ -90,7 +109,8 @@ All dates are listed in DD-MM-YYYY format.
         - **C13/TUA** → **C 13 (TUA)**. Statcard name → **OTO Melara C 13 con sistema d'arma TUA**. This thing is so complictaed and information is so scant.
         - **Littorio** → **Italia**. Statcard name → **Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Littorio (1942)**.
         - **Fokker D.XXIII** → **D.XXIII**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXIII**.
-        - **Jaguar** → **EBRC Jaguar**. Statcard name → **Groupement Momentané d'Entreprises Engin Blindé Multi Rôles | Engin Blindé de Reconnaissance et de Combat Jaguar**.
+        - **Stormer/Strela** (folder) → **☸ 9A33BM2 / 35M**.
+        - **Foch/ACRA** (folder) → **AMX 50 Foch / 10M**.
         - **La Brestois** → **Le Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Brestois (F 762)**.
         - **Clemenceau**: Statcard name → **Arsenal de Brest | Cuirassé de la Classe Richelieu | Clemenceau**.
         - **M.D.450B (29)** (Israel) → **'Organ (Mis 29)**. Statcard name → **Avions Marcel Dassault | M.D.450B 'Organ (Mis 29, Ṭayeset 113 "Ṭayeset Haṣar'ah")**.
@@ -104,12 +124,12 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - **YJ-81(k)**
-    - **60 mm OTO HVMS cannon**
+    - **IMI 60mm HVMS**
 
 - #### Changes:
 
     - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
-    - **60 mm OTO HVMS cannon** → **60 mm Hyper-Velocity Medium Support Weapon**.
+    - **IMI 60mm HVMS** → **60 mm Hyper-Velocity Medium Support Weapon**.
 
 ### Nations:
 

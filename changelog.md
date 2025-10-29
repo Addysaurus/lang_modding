@@ -34,6 +34,7 @@ All dates are listed in DD-MM-YYYY format.
         - **M56/M50** (folder)
         - **M247/Chaparral** (folder)
         - **PT-262**
+        - **PGM-9**
         - **USS Oregon City**
         - **Tornado IDS ASSTA3 SLE**
         - **Raketenautomat/RakJPz** (folder)
@@ -66,8 +67,9 @@ All dates are listed in DD-MM-YYYY format.
         - **Jaguar**
         - **La Brestois**
         - **Clemenceau**
+        - **F-16AM MLU** (Sweden / Norway)
         - **M.D.450B (29)**
-        - **Zelda/60mm HVMS** (hey nintendo, knock off palworld, you got IMI in 2004 to sue!)
+        - **Bardelas/60mm HVMS**
 
 - #### Changes:
 
@@ -77,8 +79,9 @@ All dates are listed in DD-MM-YYYY format.
         - **M56/M50** (folder) → **M56 / M50**.
         - **M247/Chaparral** (folder) → **M247 / 48A2 GMS**.
         - **PT-262** → **USS PT-262**. Statcard name → **Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-262**.
+        - **PGM-9** → **USS PGM-9**. Statcard name → **Consolidated Shipbuilding Corporation | PGM-9-class Motor Gunboat | USS PGM-9**.
         - **USS Oregon City** → **USS Oregon City (CA-122)**. Statcard name → **Fore River Shipyard | Oregon City-class Heavy Cruiser | USS Oregon City (CA-122)**.
-        - **Tornado IDS ASSTA3 SLE** → **IDS-Tornado (ASSTA 3) (SLE)**. Statcard name → **Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 3) (Service Life Enhancement Program)**.
+        - **Tornado IDS ASSTA 3.1 SEL** → **IDS-Tornado (ASSTA 3.1) (SLE)**. Statcard name → **Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 3.1) (Service Life Enhancement Program)**.
         - **Raketenautomat/RakJPz** (folder) → **SPz 12-3 (Typ 3Z 8DLA) / RakJPz 2**.
         - **SMS König**: Statcard name → **Kaiserliche Werft Wilhelmshaven | Schlachtschiff König-Klasse | SMS König (1917)** (construction and refit location are the same).
         - **Yak-1 Litvyak** → **Litvâk's Yak-1**. Statcard name → **Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyet Yak-1**.
@@ -101,7 +104,7 @@ All dates are listed in DD-MM-YYYY format.
         - **IJN Musashi** → **Musashi**. Statcard name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Musashi (1943)**.
             - Japanese package: **IJN Musashi** → **武蔵**. Statcard name → **三菱重工業長崎造船所 / 呉海軍工廠 | 大和型戦艦 (A-140F6) | 武蔵 (1943)**.
         - **JH-7** → **H/JJH7**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7 Xíng Fēijī "Fēi Bào"**. I know it looks weird next to other Chinese planes, I promise the rest are going to be moved over to this system soon with the China rework
-        - **JH-7A Prototype 811** → **H/JJH7A (811 Hào)**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7A Xíng Fēijī "Fēi Bào" (Yàngchē 811 Hào)**.
+        - **JH-7A Prototype** → **H/JJH7A (811 Hào)**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7A Xíng Fēijī "Fēi Bào" (Yàngchē 811 Hào)**.
         - **CM34**: Statcard name → **Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 30 Liàn Pào Zhuāng Bù Zhàndòu Chē**.
         - **Oplot-P** (China / Pakistan) → **BM Oplot-T**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-T | Bojova mašina Oplot-T**. It's so stupid. They call it the Oplot-P, but Pakistan tested the BM Oplot-M, then request weight-reduction modifications which created the BM Oplot-P with new sideskirts and a completely new turret armor layout. The BM Oplot-P was never tested in Pakistan, only in Ukraine. Gaijoobles, for some incomprehensible reason, added neither of those, instead adding the Thai BM Oplot-T, a seperate vehicle developed from the BM Oplot-M, and then called it the Oplot-P. Even the file name is `cn_oplot_t`. It's so unbelievably stupid.
             - Ukrainian package: **Oplot-P** (China / Pakistan) → **БМ Оплот-Т**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Об'єкт 478ДУ9-Т | Бойова машина Оплот-Т**.
@@ -113,8 +116,9 @@ All dates are listed in DD-MM-YYYY format.
         - **Foch/ACRA** (folder) → **AMX 50 Foch / 10M**.
         - **La Brestois** → **Le Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Brestois (F 762)**.
         - **Clemenceau**: Statcard name → **Arsenal de Brest | Cuirassé de la Classe Richelieu | Clemenceau**.
+        - **F-16AM MLU** (Israel) → **F-16AM-20-CF**. Statcard name → **General Dynamics Corporation | F-16AM-20-CF Fighting Falcon**.
         - **M.D.450B (29)** (Israel) → **'Organ (Mis 29)**. Statcard name → **Avions Marcel Dassault | M.D.450B 'Organ (Mis 29, Ṭayeset 113 "Ṭayeset Haṣar'ah")**.
-        - **Zelda/60mm HVMS** → **Bardelas (HVMS 60)**. Statcard name → **Israel Military Industries | Bardelas (60 mm Hyper-Velocity Medium Support Weapon)**.
+        - **Bardelas/60mm HVMS** → **Bardelas (HVMS 60)**. Statcard name → **Israel Military Industries | Bardelas (60 mm Hyper-Velocity Medium Support Weapon)**.
     - **Roma**: Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma** (refit year removed; the 1943 refit isn't real).
     - **Ouragan** (Israel) → **'Organ**. Statcard name → **Avions Marcel Dassault | M.D.450B 'Organ**.
     - **JH7A** → **H/JJH7A**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī "Fēi Bào"**. Just changed to be standardized with the new H/JJH7 and and H/JJH7A; other Chinese aircaft will be moved over to this later.
@@ -129,7 +133,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
-    - **IMI 60mm HVMS** → **60 mm Hyper-Velocity Medium Support Weapon**.
+    - **IMI 60mm HVMS** → **60 mm Hyper-Velocity Medium Support Weapon System**.
 
 ### Nations:
 

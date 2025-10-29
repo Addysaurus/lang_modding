@@ -3676,14 +3676,18 @@ us_pt812_shop;PT-812
 us_pt812_0;105 ft aluminum motor torpedo boat, USS PT-812
 us_pt812_1;PT-812
 us_pt812_2;Motor Gun Boat
-us_admirable_class_shop;USS Candid (AM-154)
-us_admirable_class_0;Admirable-class minesweeper, USS Candid (AM-154)
-us_admirable_class_1;USS Candid
-us_admirable_class_2;Gunboat
 us_ashville_class_shop;USS Asheville (PGM-84)
 us_ashville_class_0;Asheville-class gunboat, USS Asheville (PGM-84)
 us_ashville_class_1;USS Asheville
 us_ashville_class_2;Gunboat
+us_admirable_class_shop;USS Candid (AM-154)
+us_admirable_class_0;Admirable-class minesweeper, USS Candid (AM-154)
+us_admirable_class_1;USS Candid
+us_admirable_class_2;Gunboat
+us_pgm_9_class_shop;USS PGM-9
+us_pgm_9_class_0;Consolidated Shipbuilding Corporation | PGM-9-class Motor Gunboat | USS PGM-9
+us_pgm_9_class_1;USS PGM-9
+us_pgm_9_class_2;Motor Gunboat
 us_pt811_shop;PT-811
 us_pt811_0;94 ft aluminum motor torpedo boat, USS PT-811
 us_pt811_1;PT-811
@@ -4646,8 +4650,8 @@ tornado_ids_de_mfg_shop;◄ IDS-Tornado (MFG)
 tornado_ids_de_mfg_0;◄ Panavia Aircraft PA-200 | IDS-Tornado (Batch 2) (Marinefliegerkommando)
 tornado_ids_de_mfg_1;◄ IDS-Tornado
 tornado_ids_de_mfg_2;◄ IDS-Tornado
-tornado_ids_de_assta3_sle_shop;◄ IDS-Tornado (ASSTA 3) (SLE)
-tornado_ids_de_assta3_sle_0;◄ Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 3) (Service Life Enhancement Program)
+tornado_ids_de_assta3_sle_shop;◄ IDS-Tornado (ASSTA 3.1) (SLE)
+tornado_ids_de_assta3_sle_0;◄ Panavia Aircraft PA-200 | IDS-Tornado (Avionics System Software Tornado in ADA 3.1) (Service Life Enhancement Program)
 tornado_ids_de_assta3_sle_1;◄ IDS-Tornado
 tornado_ids_de_assta3_sle_2;◄ IDS-Tornado
 mirage_3s_c70_switzerland_shop;◌ Mirage III S C.70
@@ -7499,6 +7503,10 @@ fr_vlt2_shop;VLT 2
 fr_vlt2_0;Société des Constructions navales de Meulan | Vedette Lance Torpille VLT 2
 fr_vlt2_1;VLT 2
 fr_vlt2_2;Motor Torpedo Boat
+fr_elan_class_commandant_domine_shop;Commandant Dominé (F 742)
+fr_elan_class_commandant_domine_0;Ateliers et Chantiers Dubigeon | Aviso dragueur de mines de la classe Élan | Commandant Dominé (F 742) (1947)
+fr_elan_class_commandant_domine_1;Commandant Dominé
+fr_elan_class_commandant_domine_2;Minesweeping Aviso
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 fr_frigate_corse_class_brestois_shop;Le Brestois (F 762)
@@ -7575,6 +7583,10 @@ saab_f35_wdns_1;♔ F-35
 saab_f35_wdns_2;♔ F-35
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16am_block_20_mlu_norway_shop;◢ F-16AM-20-CF
+f_16am_block_20_mlu_norway_0;◢ General Dynamics Corporation | F-16AM-20-CF Fighting Falcon
+f_16am_block_20_mlu_norway_1;◢ F-16A
+f_16am_block_20_mlu_norway_2;◢ F-16
 fa_18c_finland_shop;HN
 fa_18c_finland_0;"McDonnell Douglas Corporation Model 267 / Patria | HN ""Hornet"""
 fa_18c_finland_1;HN

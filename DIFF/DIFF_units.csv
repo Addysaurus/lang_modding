@@ -12,8 +12,8 @@ ussr_t_34_85_stp_s53_shop;T-34-85 (STP)
 ussr_t_34_85_stp_s53_0;T-34-85 STP-S-53
 ussr_t_34_85_stp_s53_1;T-34-85 (STP)
 ussr_t_34_85_stp_s53_2;Medium tank
-uk_chieftain_900_shop;Chieftain Mk 900
-uk_chieftain_900_0;Chieftain Mk 900
+uk_chieftain_900_shop;Chieftain 900
+uk_chieftain_900_0;Chieftain 900
 uk_chieftain_900_1;Chieftain 900
 uk_chieftain_900_2;MBT
 fr_jaguar_ebrc_shop;EBRC Jaguar
@@ -28,8 +28,8 @@ jh_7_shop;JH-7
 jh_7_0;JH-7 Block 02 Flying Leopard
 jh_7_1;JH-7
 jh_7_2;JH-7
-jh_7a_prototype_shop;JH-7A Prototype 811
-jh_7a_prototype_0;JH-7A (Prototype 811) Flying Leopard II
+jh_7a_prototype_shop;JH-7A Prototype
+jh_7a_prototype_0;JH-7A (Prototype) Flying Leopard
 jh_7a_prototype_1;JH-7A
 jh_7a_prototype_2;JH-7
 xf5u_1_shop;XF5U-1
@@ -52,9 +52,9 @@ fokker_d23_shop;◗Fokker D.XXIII
 fokker_d23_0;◗Fokker D.XXIII
 fokker_d23_1;◗Fokker D.XXIII
 fokker_d23_2;◗Fokker
-il_m113_hvms_shop;Zelda/60mm HVMS
-il_m113_hvms_0;Zelda/60mm HVMS
-il_m113_hvms_1;Zelda/60mm HVMS
+il_m113_hvms_shop;Bardelas/60mm HVMS
+il_m113_hvms_0;Bardelas/60mm HVMS
+il_m113_hvms_1;Bardelas/60mm HVMS
 il_m113_hvms_2;Light tank
 it_c13_tua_shop;C13/TUA
 it_c13_tua_0;OTO C13/TUA
@@ -68,6 +68,10 @@ f_15c_golden_eagle_shop;F-15C Golden Eagle
 f_15c_golden_eagle_0;F-15C Golden Eagle
 f_15c_golden_eagle_1;F-15C
 f_15c_golden_eagle_2;F-15
+tornado_ids_de_assta3_sle_shop;◄Tornado IDS ASSTA 3.1 SEL
+tornado_ids_de_assta3_sle_0;◄Tornado IDS ASSTA1 3.1 SEL
+tornado_ids_de_assta3_sle_1;◄Tornado IDS
+tornado_ids_de_assta3_sle_2;◄Tornado
 hawk_200_shop;Hawk 200
 hawk_200_0;Hawk 200
 hawk_200_1;Hawk 200
@@ -84,6 +88,10 @@ ah_64e_netherlands_shop;◘AH-64E
 ah_64e_netherlands_0;◘AH-64E
 ah_64e_netherlands_1;◘AH-64E
 ah_64e_netherlands_2;◘AH-64E
+ah_64e_britain_shop;▄AH-64E
+ah_64e_britain_0;▄AH-64E
+ah_64e_britain_1;▄AH-64E
+ah_64e_britain_2;▄AH-64E
 ah_56a_shop;AH-56A
 ah_56a_0;AH-56A
 ah_56a_1;AH-56A
@@ -109,6 +117,10 @@ fr_frigate_corse_class_brestois_shop;La Brestois
 fr_frigate_corse_class_brestois_0;Corse-class, La Brestois (F762)
 fr_frigate_corse_class_brestois_1;La Brestois
 fr_frigate_corse_class_brestois_2;Frigate
+fr_elan_class_commandant_domine_shop;Commandant Dominé
+fr_elan_class_commandant_domine_0;Elan-class, Commandant Dominé
+fr_elan_class_commandant_domine_1;Commandant Dominé
+fr_elan_class_commandant_domine_2;Frigate
 ussr_destroyer_pr48k_erevan_shop;Erevan
 ussr_destroyer_pr48k_erevan_0;Pr.48-K, Erevan, project
 ussr_destroyer_pr48k_erevan_1;Erevan
@@ -121,10 +133,14 @@ fr_battleship_richelieu_class_clemenceau_shop;Clemenceau
 fr_battleship_richelieu_class_clemenceau_0;Richelieu-class, Clemenceau, project
 fr_battleship_richelieu_class_clemenceau_1;Clemenceau
 fr_battleship_richelieu_class_clemenceau_2;Battleship
-pc301_kari_class_shop;Kari
-pc301_kari_class_0;Kari-class, Кari (PC-301)
-pc301_kari_class_1;Kari
-pc301_kari_class_2;Gunboat
+jp_pc301_kari_class_shop;Kari
+jp_pc301_kari_class_0;Kari-class, Кari (PC-301)
+jp_pc301_kari_class_1;Kari
+jp_pc301_kari_class_2;Gunboat
+us_pgm_9_class_shop;PGM-9
+us_pgm_9_class_0;PGM-9-class, PGM-9
+us_pgm_9_class_1;PGM-9
+us_pgm_9_class_2;Gunboat
 it_battleship_littorio_class_littorio_shop;RN Littorio
 it_battleship_littorio_class_littorio_0;Littorio-class, RN Littorio, 1943
 it_battleship_littorio_class_littorio_1;RN Littorio

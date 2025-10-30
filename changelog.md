@@ -145,11 +145,13 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
+    - **FAB-100sv**
     - **YJ-81(k)**
     - **IMI 60mm HVMS**
 
 - #### Changes:
 
+    - **FAB-100sv**: Long name → **FAB-100sv**.
     - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
     - **IMI 60mm HVMS** → **60 mm Hyper-Velocity Medium Support Weapon System**.
 

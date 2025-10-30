@@ -68,6 +68,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AH-64E** (France / Netherlands)
         - **Foch/ACRA** (folder)
         - **Jaguar**
+        - **Commandant Dominé**
         - **La Brestois**
         - **Clemenceau**
         - **F-16AM MLU** (Sweden / Norway)
@@ -121,6 +122,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Stormer/Strela** (folder) → **☸ 9A33BM2 / 35M**.
         - **AH-64E** (France / Netherlands) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**.
         - **Foch/ACRA** (folder) → **AMX 50 Foch / 10M**.
+        - **Commandant Dominé** → **Commandant Dominé (F 742)**. Statcard name → **Ateliers et Chantiers Dubigeon / La Pallice | Aviso dragueur de mines de la classe Élan | Commandant Dominé (F 742) (1947)**.
         - **La Brestois** → **Le Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Brestois (F 762)**.
         - **Clemenceau**: Statcard name → **Arsenal de Brest | Cuirassé de la Classe Richelieu | Clemenceau**.
         - **F-16AM MLU** (Israel) → **F-16AM-20-CF**. Statcard name → **General Dynamics Corporation | F-16AM-20-CF Fighting Falcon**.

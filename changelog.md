@@ -42,6 +42,7 @@ All dates are listed in DD-MM-YYYY format.
         - **SMS König**
         - **Yak-1 Litvyak**
         - **Su-30MK2 AMV** (Venezuela)
+        - **T-34 (D-5T/S-53)** (folder)
         - **T-34-85 "Taran"**
         - **IT/Shturm** (folder)
         - **BTR-82AT**
@@ -94,6 +95,7 @@ All dates are listed in DD-MM-YYYY format.
         - **SMS König**: Statcard name → **Kaiserliche Werft Wilhelmshaven | Schlachtschiff König-Klasse | SMS König (1917)** (construction and refit location are the same).
         - **Yak-1 Litvyak** → **Litvâk's Yak-1**. Statcard name → **Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyet Yak-1**.
         - **Su-30MK2 AMV** (Venezuela) → **Su-30MK2**. Statcard name → **AO «Kompaniâ Sukhoj» | Su-30MK2** (the lack of an izd number is intenional, Venezuela does not use them).
+        - **T-34 (D-5T/S-53)** (folder) → **T-34-85 (Mar, 1944) / (Sep, 1944)**.
         - **T-34-85 "Taran"** → **T-34-85 (Mar, 1945) (STP-S-53)**. Statcard name → **Zavod № 112 | Ob"yekt 135 | Tank T-34-85 obr. 1945 g. (March, 1945) (Stabilizator STP-S-53 "Taran")**.
         - **IT/Shturm** (folder) → **IT-1 / 9P149M**.
         - **BTR-82AT** → **BTR-82AT (9P163-1)**. Statcard name → **Arzamasskij mašinostroityel'nyj zavod | Bronyetransportyer BTR-82AT (Puskovoye ustrojstvo 9P163-1)**. Gaijin modeled an accurate BTR-82AT, but then made it into a Frankenstein's monster by grafting a 9P163-1 ATGM launcher for 9M133 Kornet missiles from a field modification of the BTR-82A onto the BTR-82AT.

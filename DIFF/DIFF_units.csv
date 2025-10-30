@@ -2,6 +2,7 @@
 shop/group/us_m56_m50_group;M56/M50
 shop/group/us_m247_mim72_group;M247/Chaparral
 shop/group/germ_raketen_group;Raketenautomat/RakJPz
+shop/group/ussr_t_34_85_group;T-34 (D-5T/S-53)
 shop/group/ussr_9a33_35_group;Osa/Strela
 shop/group/ussr_it_9p149_group;IT/Shturm
 shop/group/uk_stormer_9a33_group;Stormer/Osa
@@ -24,6 +25,10 @@ yak_1_litvyak_shop;Yak-1 Litvyak
 yak_1_litvyak_0;Yak-1 Litvyak
 yak_1_litvyak_1;Yak-1
 yak_1_litvyak_2;Yak-1
+mosquito_b_mk16_shop;Mosquito B.Mk.XVI
+mosquito_b_mk16_0;Mosquito B.Mk.XVI
+mosquito_b_mk16_1;Mosquito B
+mosquito_b_mk16_2;Mosquito
 jh_7_shop;JH-7
 jh_7_0;JH-7 Block 02 Flying Leopard
 jh_7_1;JH-7
@@ -36,6 +41,7 @@ xf5u_1_shop;XF5U-1
 xf5u_1_0;XF5U-1
 xf5u_1_1;XF5U-1
 xf5u_1_2;XF5U
+shop/group/mig-hawk_200_group;Hawk 200
 mb_326k_shop;MB-326K
 mb_326k_0;MB-326K
 mb_326k_1;MB-326K
@@ -68,14 +74,22 @@ f_15c_golden_eagle_shop;F-15C Golden Eagle
 f_15c_golden_eagle_0;F-15C Golden Eagle
 f_15c_golden_eagle_1;F-15C
 f_15c_golden_eagle_2;F-15
-tornado_ids_de_assta3_sle_shop;◄Tornado IDS ASSTA 3.1 SEL
-tornado_ids_de_assta3_sle_0;◄Tornado IDS ASSTA1 3.1 SEL
+f_16am_block_20_mlu_norway_shop;◢F-16AM
+f_16am_block_20_mlu_norway_0;◢F-16AM Block 20 MLU Fighting Falcon
+f_16am_block_20_mlu_norway_1;◢F-16AM
+f_16am_block_20_mlu_norway_2;◢F-16
+tornado_ids_de_assta3_sle_shop;◄Tornado IDS SLE
+tornado_ids_de_assta3_sle_0;◄Tornado IDS SLE
 tornado_ids_de_assta3_sle_1;◄Tornado IDS
 tornado_ids_de_assta3_sle_2;◄Tornado
 hawk_200_shop;Hawk 200
 hawk_200_0;Hawk 200
 hawk_200_1;Hawk 200
 hawk_200_2;Hawk
+hawk_200_rda_shop;Hawk 200 RDA
+hawk_200_rda_0;Hawk 200 RDA
+hawk_200_rda_1;Hawk 200
+hawk_200_rda_2;Hawk
 ah_64e_china_shop;␗AH-64E
 ah_64e_china_0;␗AH-64E
 ah_64e_china_1;␗AH-64E
@@ -96,9 +110,9 @@ ah_56a_shop;AH-56A
 ah_56a_0;AH-56A
 ah_56a_1;AH-56A
 ah_56a_2;AH-56A
-cn_oplot_t_shop;Oplot-P
-cn_oplot_t_0;Oplot-P
-cn_oplot_t_1;Oplot-P
+cn_oplot_t_shop;Oplot-M
+cn_oplot_t_0;Oplot-M
+cn_oplot_t_1;Oplot-M
 cn_oplot_t_2;MBT
 shop/group/germ_westfalen_helgoland_group;SMS Westfalen/Helgoland
 jp_battleship_nagato_shop;IJN Nagato

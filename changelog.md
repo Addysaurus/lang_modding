@@ -47,7 +47,10 @@ All dates are listed in DD-MM-YYYY format.
         - **BTR-82AT**
         - **Osa/Strela** (folder)
         - **Erevan**
+        - **Mosquito B.Mk.XVI**
         - **Hawk 200**
+        - **Hawk 200 RDA**
+        - **Hawk 200** (folder)
         - **Cromwell/Sherman** (folder)
         - **Chieftain Mk 900** (this is not horribly bad for Gaijin, but somehow hurts more than normal)
         - **Stormer/Osa** (folder)
@@ -95,7 +98,10 @@ All dates are listed in DD-MM-YYYY format.
         - **IT/Shturm** (folder) → **IT-1 / 9P149M**.
         - **BTR-82AT** → **BTR-82AT (9P163-1)**. Statcard name → **Arzamasskij mašinostroityel'nyj zavod | Bronyetransportyer BTR-82AT (Puskovoye ustrojstvo 9P163-1)**. Gaijin modeled an accurate BTR-82AT, but then made it into a Frankenstein's monster by grafting a 9P163-1 ATGM launcher for 9M133 Kornet missiles from a field modification of the BTR-82A onto the BTR-82AT.
         - **Osa/Strela** (folder) → **9A33BM3 / 35M2**.
-        - **Hawk 200** → **Hawk Mk. 200 (ZH200)**. Statcard name → **British Aerospace Hawk 200 | Hawk Mk. 200 (ZH200)**.
+        - **Mosquito B.Mk.XVI** → **Mosquito B. Mk. XVI**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito B. Mk. XVI**.
+        - **Hawk 200** → **Hawk 200 (ZH200)**. Statcard name → **British Aerospace Hawk 200 (ZH200)**.
+        - **Hawk 200 RDA** → **Hawk 200 (RDA)**. Statcard name → **British Aerospace Hawk 200 (Radar Development Aircraft)**.
+        - **Hawk 200** (folder) → **Hawk 200 (ZH200) / (RDA)**.
         - **AH-64E** (UK) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**.
         - **Erevan** → **Yeryevan**. Statcard name → **Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yeryevan**.
         - **Cromwell/Sherman** (folder) → **Cromwell, Mk. V / I / Sherman, Mk. II**.

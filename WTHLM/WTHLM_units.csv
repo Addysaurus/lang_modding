@@ -1452,6 +1452,7 @@ shop/group/sea_hawk_group;Sea Hawk F.G.A. Mk. 6 / Sea Venom
 shop/group/meteor3_group;Meteor F. Mk. 3 / 3 (EE337)
 shop/group/meteor4_group;Meteor F. Mk. 3/4 / 4 / 8
 shop/group/canberra_group;Canberra B. Mk. 2 / B.(I) Mk. 6
+shop/group/mig-hawk_200_group;Hawk 200 (ZH200) / (RDA)
 shop/group/uk_destroyer_battle_group;HMS Armada / HMAS Tobruk
 shop/group/uk_destroyer_daring_group;HMS Diana / Daring
 shop/group/uk_cruiser_kent_norfolk_group;HMS Kent / Norfolk
@@ -5334,6 +5335,10 @@ mosquito_tr_mk33_shop;Mosquito T.R. Mk. 33
 mosquito_tr_mk33_0;de Havilland Aircraft Company DH.98 | Mosquito T.R. Mk. 33
 mosquito_tr_mk33_1;Mosquito T.R. Mk. 33
 mosquito_tr_mk33_2;Mosquito
+mosquito_b_mk16_shop;Mosquito B. Mk. XVI
+mosquito_b_mk16_0;de Havilland Aircraft Company DH.98 | Mosquito B. Mk. XVI
+mosquito_b_mk16_1;Mosquito B. Mk. XVI
+mosquito_b_mk16_2;Mosquito
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
@@ -5346,10 +5351,14 @@ marut_mk1_2;Mārut
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 7
-hawk_200_shop;Hawk Mk. 200 (ZH200)
-hawk_200_0;British Aerospace Hawk 200 | Hawk Mk. 200 (ZH200)
-hawk_200_1;Hawk Mk. 200
+hawk_200_shop;Hawk 200 (ZH200)
+hawk_200_0;British Aerospace Hawk 200 (ZH200)
+hawk_200_1;Hawk 200
 hawk_200_2;Hawk
+hawk_200_rda_shop;Hawk 200 (RDA)
+hawk_200_rda_0;British Aerospace Hawk 200 (Radar Development Aircraft)
+hawk_200_rda_1;Hawk 200
+hawk_200_rda_2;Hawk
 f_111c_raaf_shop;▄ F-111C
 f_111c_raaf_0;"▄ General Dynamics Corporation + Grumman Aerospace Corporation | F-111C ""Aardvark"""
 f_111c_raaf_1;▄ F-111C

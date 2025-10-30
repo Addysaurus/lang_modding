@@ -58,12 +58,14 @@ All dates are listed in DD-MM-YYYY format.
         - **IJN Musashi**
         - **JH-7**
         - **JH-7A Prototype 811**
+        - **AH-64E** (China / Taiwan)
         - **CM34**
         - **Oplot-P** (China / Pakistan) (actually an Oplot-T, it's so fucking stupid)
         - **MB-326K**
         - **C13/TUA**
         - **Littorio**
         - **Fokker D.XXIII**
+        - **AH-64E** (France / Netherlands)
         - **Foch/ACRA** (folder)
         - **Jaguar**
         - **La Brestois**
@@ -93,12 +95,13 @@ All dates are listed in DD-MM-YYYY format.
         - **BTR-82AT** → **BTR-82AT (9P163-1)**. Statcard name → **Arzamasskij mašinostroityel'nyj zavod | Bronyetransportyer BTR-82AT (Puskovoye ustrojstvo 9P163-1)**. Gaijin modeled an accurate BTR-82AT, but then made it into a Frankenstein's monster by grafting a 9P163-1 ATGM launcher for 9M133 Kornet missiles from a field modification of the BTR-82A onto the BTR-82AT.
         - **Osa/Strela** (folder) → **9A33BM3 / 35M2**.
         - **Hawk 200** → **Hawk Mk. 200 (ZH200)**. Statcard name → **British Aerospace Hawk 200 | Hawk Mk. 200 (ZH200)**.
+        - **AH-64E** (UK) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**.
         - **Erevan** → **Yeryevan**. Statcard name → **Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yeryevan**.
         - **Cromwell/Sherman** (folder) → **Cromwell, Mk. V / I / Sherman, Mk. II**.
         - **Chieftain Mk 900** → **Chieftain 900**. Statcard name → **British Leyland Motor Corporation / Royal Ordnance Factories Chieftain 900**.
         - **Stormer/Osa** (folder) → **Stormer / ☸ 9A33BM2**.
         - **Stormer/Strela** (folder) → **☸ 9A33BM2 / 35M**.
-        - **AH-64E** (Japan / Indonesia): Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache**.
+        - **AH-64E** (Japan / Indonesia): Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**.
         - **Kari** → **Kari (PC-301)**. Statcard name → **Fujinagata Zōsensho | Kari Gata Kusen Tei (K-101A) | Kari (PC-301)**.
             - Japanese package: **Kari** → **かり (PC-301)**. Statcard name → **藤永田造船所 | カリ型駆潜艇 (K-101A) | カリ (PC-301)**.
         - **IJN Nagato** → **Nagato**. Statcard name → **Kure Kaigun Kōshō | Nagato Gata Senkan (A-114) | Nagato (1944)** (refit location is not missing, it was just built and refitted at Kure).
@@ -107,6 +110,7 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: **IJN Musashi** → **武蔵**. Statcard name → **三菱重工業長崎造船所 / 呉海軍工廠 | 大和型戦艦 (A-140F6) | 武蔵 (1943)**.
         - **JH-7** → **H/JJH7**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7 Xíng Fēijī "Fēi Bào"**. I know it looks weird next to other Chinese planes, I promise the rest are going to be moved over to this system soon with the China rework
         - **JH-7A Prototype** → **H/JJH7A (811 Hào)**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7A Xíng Fēijī "Fēi Bào" (Yàngchē 811 Hào)**.
+        - **AH-64E** (China / Taiwan) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | AH-64E Zhàndòu Zhíshēngjī (Capability Version 6)**.
         - **CM34**: Statcard name → **Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 30 Liàn Pào Zhuāng Bù Zhàndòu Chē**.
         - **Oplot-P** (China / Pakistan) → **BM Oplot-T**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-T | Bojova mašina Oplot-T**. It's so stupid. They call it the Oplot-P, but Pakistan tested the BM Oplot-M, then request weight-reduction modifications which created the BM Oplot-P with new sideskirts and a completely new turret armor layout. The BM Oplot-P was never tested in Pakistan, only in Ukraine. Gaijoobles, for some incomprehensible reason, added neither of those, instead adding the Thai BM Oplot-T, a seperate vehicle developed from the BM Oplot-M, and then called it the Oplot-P. Even the file name is `cn_oplot_t`. It's so unbelievably stupid.
             - Ukrainian package: **Oplot-P** (China / Pakistan) → **БМ Оплот-Т**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Об'єкт 478ДУ9-Т | Бойова машина Оплот-Т**.
@@ -115,6 +119,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Littorio** → **Italia**. Statcard name → **Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Littorio (1942)**.
         - **Fokker D.XXIII** → **D.XXIII**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXIII**.
         - **Stormer/Strela** (folder) → **☸ 9A33BM2 / 35M**.
+        - **AH-64E** (France / Netherlands) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**.
         - **Foch/ACRA** (folder) → **AMX 50 Foch / 10M**.
         - **La Brestois** → **Le Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Brestois (F 762)**.
         - **Clemenceau**: Statcard name → **Arsenal de Brest | Cuirassé de la Classe Richelieu | Clemenceau**.
@@ -124,6 +129,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Roma**: Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma** (refit year removed; the 1943 refit isn't real).
     - **Ouragan** (Israel) → **'Organ**. Statcard name → **Avions Marcel Dassault | M.D.450B 'Organ**.
     - **JH7A** → **H/JJH7A**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī "Fēi Bào"**. Just changed to be standardized with the new H/JJH7 and and H/JJH7A; other Chinese aircaft will be moved over to this later.
+    - **AH-64D** (France / Netherlands): Statcard name → **Boeing Rotorcraft Systems | Helicopter, Attack, AH-64D Longbow Apache** (I somehow forgot to add the manufacturer when it was added).
 
 ### Weaponry:
 

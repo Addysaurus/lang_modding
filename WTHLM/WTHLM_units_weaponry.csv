@@ -260,6 +260,8 @@ weapons/us_3000lb_m118_90/short;M118
 //GERMANY BOMBS
 weapons/sws_50_kg_sprengbombe;<color=@userlogColoredText>50 kg</color> 50 kg Sprengbombe <color=#ff6f00>BMB</color>
 weapons/sws_50_kg_sprengbombe/short;50 kg Sprengbombe
+weapons/de_hosbo_glide_bomb;<color=@userlogColoredText>490 kg</color> Hochleistungssprengbombe <color=#ff6f00>BMB-GNSS/IR</color>
+weapons/de_fx1400weapons/de_hosbo_glide_bomb;HOSBO
 weapons/de_sc1000;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>
 weapons/de_sc1000/short;S.C. 1000 L2
 weapons/de_sc1000_default;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>
@@ -548,6 +550,8 @@ weapons/166mm_camm_user_cannon;Intelligent Launcher <color=#ff6f00>LCH</color>
 weapons/166mm_camm_user_cannon/short;iLauncher
 166mm_camm;Common Anti-Air Modular Missile
 166mm_camm_er;Common Anti-Air Modular Missile Extended Range
+weapons/uk_sea_eagle;Sea Eagle <color=#ff6f00>AShM-IR</color>
+weapons/uk_sea_eagle/short;Sea Eagle
 
 //JAPAN MISSILES
 weapons/jp_aam3;90 Shiki Sora Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
@@ -726,6 +730,7 @@ explosiveType/hbx_3;HBX-3
 explosiveType/dhl_1;DHL1
 explosiveType/nipolit;Nipolit
 explosiveType/pbxn_9;PBXN-9
+explosiveType/xp3264;XP3264
 
 //UNCATEGORIZED
 weapons/cannonMGC30L;20 mm MG C/30L cannon
@@ -2378,6 +2383,7 @@ missile/guidance/ir+IOG+GNSS;IR + IOG + GNSS
 missile/guidance/ir+IOG+DL;IR + IOG + DL
 missile/guidance/tv;TV
 missile/guidance/tv+IOG;TV + IOG
+missile/guidance/tv+IOG+GNSS;TV + IOG + GNSS
 missile/guidance/SARH;SARH
 missile/guidance/SARH+IOG;SARH + IOG
 missile/guidance/SARH+IOG+DL;SARH + IOG + DL

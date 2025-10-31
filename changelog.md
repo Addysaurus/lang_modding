@@ -145,16 +145,23 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
+    - **HOSBO**
     - **FAB-100sv**
     - **9M133 ATGM**
+    - **MBDA Sea Eagle**
     - **YJ-81(k)**
     - **40 mm CTC cannon**
     - **IMI 60mm HVMS**
+    - **TV+IOG+GNSS** (guidance type)
+    - **XP3264** (explosive type)
 
 - #### Changes:
 
+    - **TV+IOG+GNSS** (guidance type) → **TV + IOG + GNSS**.
+    - **HOSBO**: Long name → **Hochleistungssprengbombe**.
     - **FAB-100sv**: Long name → **FAB-100sv**.
     - **9M133 ATGM** → **Puskovoye ustrojstvo 9P163-1**.
+    - **MBDA Sea Eagle** → **Sea Eagle**. Long name → **Sea Eagle**.
     - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
     - **40 mm CTC cannon** → **40 mm Cased Telescoped Cannon**.
     - **IMI 60mm HVMS** → **60 mm Hyper-Velocity Medium Support Weapon System**.

@@ -104,7 +104,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Hawk 200** → **Hawk 200 (ZH200)**. Statcard name → **British Aerospace Hawk 200 (ZH200)**.
         - **Hawk 200 RDA** → **Hawk 200 (RDA)**. Statcard name → **British Aerospace Hawk 200 (Radar Development Aircraft)**.
         - **Hawk 200** (folder) → **Hawk 200 (ZH200) / (RDA)**.
-        - **AH-64E** (UK) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**.
+        - **AH-64E** (UK) → **Apache A.H. Mk. 2**. Statcard name → **Boeing Defense, Space & Security | Apache A.H. Mk. 2**.
         - **Erevan** → **Yeryevan**. Statcard name → **Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yeryevan**.
         - **Cromwell/Sherman** (folder) → **Cromwell, Mk. V / I / Sherman, Mk. II**.
         - **Chieftain Mk 900** → **Chieftain 900**. Statcard name → **British Leyland Motor Corporation / Royal Ordnance Factories Chieftain 900**.
@@ -146,13 +146,17 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - **FAB-100sv**
+    - **9M133 ATGM**
     - **YJ-81(k)**
+    - **40 mm CTC cannon**
     - **IMI 60mm HVMS**
 
 - #### Changes:
 
     - **FAB-100sv**: Long name → **FAB-100sv**.
+    - **9M133 ATGM** → **Puskovoye ustrojstvo 9P163-1**.
     - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
+    - **40 mm CTC cannon** → **40 mm Cased Telescoped Cannon**.
     - **IMI 60mm HVMS** → **60 mm Hyper-Velocity Medium Support Weapon System**.
 
 ### Nations:

@@ -64,7 +64,7 @@ All dates are listed in DD-MM-YYYY format.
         - **JH-7A Prototype 811**
         - **AH-64E** (China / Taiwan)
         - **CM34**
-        - **Oplot-P** (China / Pakistan) (actually an Oplot-T, it's so fucking stupid)
+        - **Oplot-M** (China / Pakistan)
         - **MB-326K**
         - **C13/TUA**
         - **Littorio**
@@ -121,8 +121,8 @@ All dates are listed in DD-MM-YYYY format.
         - **JH-7A Prototype** → **H/JJH7A (811 Hào)**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7A Xíng Fēijī "Fēi Bào" (Yàngchē 811 Hào)**.
         - **AH-64E** (China / Taiwan) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | AH-64E Zhàndòu Zhíshēngjī (Capability Version 6)**.
         - **CM34**: Statcard name → **Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 30 Liàn Pào Zhuāng Bù Zhàndòu Chē**.
-        - **Oplot-P** (China / Pakistan) → **BM Oplot-T**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-T | Bojova mašina Oplot-T**. It's so stupid. They call it the Oplot-P, but Pakistan tested the BM Oplot-M, then request weight-reduction modifications which created the BM Oplot-P with new sideskirts and a completely new turret armor layout. The BM Oplot-P was never tested in Pakistan, only in Ukraine. Gaijoobles, for some incomprehensible reason, added neither of those, instead adding the Thai BM Oplot-T, a seperate vehicle developed from the BM Oplot-M, and then called it the Oplot-P. Even the file name is `cn_oplot_t`. It's so unbelievably stupid.
-            - Ukrainian package: **Oplot-P** (China / Pakistan) → **БМ Оплот-Т**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Об'єкт 478ДУ9-Т | Бойова машина Оплот-Т**.
+        - **Oplot-M** (China / Pakistan) → **BM Oplot-T**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-T | Bojova mašina Oplot-T**. It's quite confusing, but after a lot of checking of the AC unit and a bit of the APU too, it does appear to be the Oplot-M.
+            - Ukrainian package: **Oplot-M** (China / Pakistan) → **БМ Оплот-М**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Об'єкт 478ДУ9-1 | Бойова машина Оплот-М**.
         - **MB-326K**: Statcard name → **Aermacchi MB-326K** (internal designation that the Italian air force then adopted).
         - **C13/TUA** → **C 13 (TUA)**. Statcard name → **OTO Melara C 13 con sistema d'arma TUA**. This thing is so complictaed and information is so scant.
         - **Littorio** → **Italia**. Statcard name → **Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Littorio (1942)**.

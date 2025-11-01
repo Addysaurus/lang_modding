@@ -32,6 +32,7 @@ All dates are listed in DD-MM-YYYY format.
         - **XF5U-1**
         - **F-15C Golden Eagle**
         - **AH-56A**
+        - **M44/M55** (folder)
         - **M56/M50** (folder)
         - **M247/Chaparral** (folder)
         - **PT-262**
@@ -52,6 +53,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Hawk 200**
         - **Hawk 200 RDA**
         - **Hawk 200** (folder)
+        - **AH Mk2**
         - **Cromwell/Sherman** (folder)
         - **Chieftain Mk 900** (this is not horribly bad for Gaijin, but somehow hurts more than normal)
         - **Stormer/Osa** (folder)
@@ -70,6 +72,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Littorio**
         - **Fokker D.XXIII**
         - **AH-64E** (France / Netherlands)
+        - **M44/M55** (folder) (France / Belgium)
         - **Foch/ACRA** (folder)
         - **Jaguar**
         - **Commandant Dominé**
@@ -85,6 +88,7 @@ All dates are listed in DD-MM-YYYY format.
         - **XF5U-1**: Statcard name → **Vought-Sikorsky Aircraft | XF5U-1 "Flying Flapjack"**.
         - **F-15C Golden Eagle** → **F-15C-33-MC (RIP) (PASS)**. Statcard name → **Boeing Defense, Space & Security | F-15C-33-MC Eagle (Radar Improvement Program) (Passive Attack Sensor System)**. This goddamn plane has been a nightmare of unimaginable proportions to research jesus i hope to never see it again
         - **AH-56A**: Statcard name → **Lockheed Corporation CL-840 | Helicopter, Attack, AH-56A Cheyenne**.
+        - **M44/M55** (folder) → **M44 / M55**.
         - **M56/M50** (folder) → **M56 / M50**.
         - **M247/Chaparral** (folder) → **M247 / 48A2 GMS**.
         - **PT-262** → **USS PT-262**. Statcard name → **Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-262**.
@@ -104,7 +108,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Hawk 200** → **Hawk 200 (ZH200)**. Statcard name → **British Aerospace Hawk 200 (ZH200)**.
         - **Hawk 200 RDA** → **Hawk 200 (RDA)**. Statcard name → **British Aerospace Hawk 200 (Radar Development Aircraft)**.
         - **Hawk 200** (folder) → **Hawk 200 (ZH200) / (RDA)**.
-        - **AH-64E** (UK) → **Apache A.H. Mk. 2**. Statcard name → **Boeing Defense, Space & Security | Apache A.H. Mk. 2**.
+        - **AH Mk2** → **Apache A.H. Mk. 2**. Statcard name → **Boeing Defense, Space & Security | Apache A.H. Mk. 2**.
         - **Erevan** → **Yeryevan**. Statcard name → **Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yeryevan**.
         - **Cromwell/Sherman** (folder) → **Cromwell, Mk. V / I / Sherman, Mk. II**.
         - **Chieftain Mk 900** → **Chieftain 900**. Statcard name → **British Leyland Motor Corporation / Royal Ordnance Factories Chieftain 900**.
@@ -129,6 +133,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Fokker D.XXIII** → **D.XXIII**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXIII**.
         - **Stormer/Strela** (folder) → **☸ 9A33BM2 / 35M**.
         - **AH-64E** (France / Netherlands) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**.
+        - **M44/M55** (folder) (France / Belgium) → **M44 / M55**.
         - **Foch/ACRA** (folder) → **AMX 50 Foch / 10M**.
         - **Commandant Dominé** → **Commandant Dominé (F 742)**. Statcard name → **Ateliers et Chantiers Dubigeon / La Pallice | Aviso dragueur de mines de la classe Élan | Commandant Dominé (F 742) (1948)**.
         - **La Brestois** → **Le Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Brestois (F 762)**.
@@ -140,6 +145,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Ouragan** (Israel) → **'Organ**. Statcard name → **Avions Marcel Dassault | M.D.450B 'Organ**.
     - **JH7A** → **H/JJH7A**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī "Fēi Bào"**. Just changed to be standardized with the new H/JJH7 and and H/JJH7A; other Chinese aircaft will be moved over to this later.
     - **AH-64D** (France / Netherlands): Statcard name → **Boeing Rotorcraft Systems | Helicopter, Attack, AH-64D Longbow Apache** (I somehow forgot to add the manufacturer when it was added).
+    - **Re. 2005 (9-12 010 A)** → **Re. 2005 (9-12087A)**.
 
 ### Weaponry:
 

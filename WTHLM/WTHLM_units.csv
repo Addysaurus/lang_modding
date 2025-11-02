@@ -3432,22 +3432,18 @@ us_mbt_70_shop;MBT70
 us_mbt_70_0;Main Battle Tank, Armored, Full Tracked, 152mm, MBT70
 us_mbt_70_1;MBT70
 us_mbt_70_2;MBT
-us_m247_shop;M247
-us_m247_0;Gun, Air Defence Artillery, Self-Propelled, 40 mm, M247 Sergeant York
-us_m247_1;M247
-us_m247_2;SPAA
-us_rdf_lt_shop;14.8 Ton RDF/LT
-us_rdf_lt_0;AAI Corperation 14.8 Ton Rapid Deployment Force Light Tank
-us_rdf_lt_1;14.8 Ton RDF/LT
-us_rdf_lt_2;Light tank
-us_mim_72_chaparral_shop;M48A2 GMS
-us_mim_72_chaparral_0;Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2
-us_mim_72_chaparral_1;M48 GMS
-us_mim_72_chaparral_2;SPAA
 us_xm246_shop;XM246
 us_xm246_0;General Dynamics Land Systems | Gun, Air Defence Artillery, Self-Propelled: 35 mm, XM246
 us_xm246_1;XM246
 us_xm246_2;SPAAG
+us_m247_shop;M247
+us_m247_0;Gun, Air Defence Artillery, Self-Propelled, 40 mm, M247 Sergeant York
+us_m247_1;M247
+us_m247_2;SPAA
+us_mim_72_chaparral_shop;M48A2 GMSIA
+us_mim_72_chaparral_0;Ford Aerospace & Communications Corporation | Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2
+us_mim_72_chaparral_1;M48A2 GMSIA
+us_mim_72_chaparral_2;SPAAM
 us_m901_itv_shop;M901
 us_m901_itv_0;Combat Vehicle, Anti-tank, Improved TOW Vehicle, M901
 us_m901_itv_1;M901
@@ -3554,6 +3550,10 @@ us_m1128_wolfpack_shop;M1128 MGS (3rd Sqd. 2nd Cav.Reg.)
 us_m1128_wolfpack_0;Mobile Gun System, M1128 Stryker (3rd Squadron 2nd Cavalry Regiment)
 us_m1128_wolfpack_1;M1128
 us_m1128_wolfpack_2;Light tank
+us_rdf_lt_shop;14.8 Ton RDF/LT
+us_rdf_lt_0;AAI Corperation 14.8 Ton Rapid Deployment Force Light Tank
+us_rdf_lt_1;14.8 Ton RDF/LT
+us_rdf_lt_2;Light tank
 us_ccvl_shop;CCVL
 us_ccvl_0;Close Combat Vehicle Light
 us_ccvl_1;CCVL
@@ -7739,6 +7739,10 @@ il_m113_hvms_2;Light Tank
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+il_mim_72_chaparral_shop;Draḳon
+il_mim_72_chaparral_0;Ford Aerospace & Communications Corporation | Draḳon
+il_mim_72_chaparral_1;Draḳon
+il_mim_72_chaparral_2;SPAA
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 il_spyder_aio_shop;SPYDER MFU AiO SR
@@ -12793,10 +12797,6 @@ uk_destroyer_clemson_montgomery_g95_shop;HMS Montgomery (G 95)
 uk_destroyer_clemson_montgomery_g95_0;Bath Iron Works / Barrow-in-Furness | Town-class | HMS Montgomery (G 95) (1941)
 uk_destroyer_clemson_montgomery_g95_1;HMS Montgomery
 uk_destroyer_clemson_montgomery_g95_2;Destroyer
-il_mim_72_chaparral_shop; M48A2 GMS
-il_mim_72_chaparral_0;" Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2 ""Drakon"""
-il_mim_72_chaparral_1; M48 GMS
-il_mim_72_chaparral_2;SPAA
 uk_adats_m113a3_shop;▄ M113A3 (ADATS)
 uk_adats_m113a3_0;▄ M113A3 (Air Defense Anti-Tank System)
 uk_adats_m113a3_1;▄ M113 (ADATS)

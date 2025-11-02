@@ -146,6 +146,8 @@ All dates are listed in DD-MM-YYYY format.
     - **JH7A** → **H/JJH7A**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī "Fēi Bào"**. Just changed to be standardized with the new H/JJH7 and and H/JJH7A; other Chinese aircaft will be moved over to this later.
     - **AH-64D** (France / Netherlands): Statcard name → **Boeing Rotorcraft Systems | Helicopter, Attack, AH-64D Longbow Apache** (I somehow forgot to add the manufacturer when it was added).
     - **Re. 2005 (9-12 010 A)** → **Re. 2005 (9-12087A)**.
+    - **M48A2 GMS** → **M48A2 GMSIA**. Statcard name → **Ford Aerospace & Communications Corporation | Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2**.
+    - **M48A2 GMS** (Israel) → **Draḳon**. Statcard name → **Ford Aerospace & Communications Corporation | Draḳon**.
 
 ### Weaponry:
 
@@ -155,6 +157,7 @@ All dates are listed in DD-MM-YYYY format.
     - **FAB-100sv**
     - **9M133 ATGM**
     - **MBDA Sea Eagle**
+    - **Drop tank (130 gal.)**
     - **YJ-81(k)**
     - **40 mm CTC cannon**
     - **IMI 60mm HVMS**
@@ -168,6 +171,7 @@ All dates are listed in DD-MM-YYYY format.
     - **FAB-100sv**: Long name → **FAB-100sv**.
     - **9M133 ATGM** → **Puskovoye ustrojstvo 9P163-1**.
     - **MBDA Sea Eagle** → **Sea Eagle**. Long name → **Sea Eagle**.
+    - **Drop tank (130 gal.)** → **Drop tank (591 L)**.
     - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
     - **40 mm CTC cannon** → **40 mm Cased Telescoped Cannon**.
     - **IMI 60mm HVMS** → **60 mm Hyper-Velocity Medium Support Weapon System**.

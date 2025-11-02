@@ -6,6 +6,12 @@ missile/guidance/ir+IOG+GNSS+DL;IR + IOG + GNSS + DL
 turret_universal/name;%s mm turret ammunition belt with AP and T shells
 turret_universal/name/short;AP/T
 
+//SHELL TYPES
+apds_sabot;APDS Sabot
+apfsds_sabot;APFSDS Sabot
+ahead/name;Shrapnel shell with time fuze
+ahead/name/short;AHEAD
+
 //USA GUNS
 weapons/7_62mm_M1919A4_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, M1919A4, Heavy Barrel <color=#ff6f00>MG</color>
 weapons/gunBrowning30_usaaf;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
@@ -15,6 +21,8 @@ weapons/gunM134_Minigun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 
 weapons/gunM134_Minigun/short;M134
 weapons/gunM134_Minigun_default;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M134 <color=#ff6f00>MG</color>
 weapons/gunM134_Minigun_default/short;M134
+weapons/gunM134_Minigun_ah_56;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M134 <color=#ff6f00>MG</color>
+weapons/gunM134_Minigun_ah_56/short;M134
 weapons/12_7mm_M2_HB_user_machinegun_for_400;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/12_7mm_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/12_7mm_m2_hb_t77e1_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
@@ -191,6 +199,7 @@ t_ball_t_38/name/short;T
 57mm_or_281u_belt;OR-281U
 57mm_br_281u_belt;BR-281U
 76mm_obr1915_hetf;OF obr. 1915 g.
+125mm_3of_82;3VOF128
 406mm_obr1915_28_sapcbc;PB obr. 1915/28 gg.
 406mm_obr1915_28_apcbc;BR obr. 1915/28 gg.
 
@@ -231,6 +240,14 @@ b_mk_1z/name/short;I
 381mm_50_apcbc;Palla perforante da 381/50
 
 //FRANCE AMMUNITION
+40mm_gpr_ke_t_apfsds;OFLT
+40mm_gpr_pd_t_he;OET
+40mm_gpr_ab_t_he;OET CHR
+40mm_ke_ab_ahead;PPM CHR
+40mm_ctc_ke_ab_ahead;KE-AB
+40mm_ctc_gpr_pd_t_he;GPR-PD-T
+40mm_ctc_ke_t_apfsds;APFSDS-T
+40mm_ctc_ab_t_he;GPR-AB-T
 100mm_oea1928_he_df;100 mm OEA Mle. 1928
 105mm_ofl_g2;OFL 105 G2
 152mm_m1936_he_df;152 mm OEA Mle. 1936
@@ -581,6 +598,8 @@ weapons/160mm_sam_1c_slave_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yū
 //CHINA MISSILES
 weapons/cn_yj_81k;YJ81 | H/AKJ81 Kōng Jiàn Daodàn <color=#ff6f00>AShM-ARH</color>
 weapons/cn_yj_81k/short;H/AKJ81
+weapons/cn_ba_11;Blue Arrow 11 Air-to-Surface Missile <color=#ff6f00>AGM-IR</color>
+weapons/cn_ba_11/short;BA-11
 weapons/cn_cm_502kg_he;CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong <color=#ff6f00>AGM-IR</color>
 weapons/cn_cm_502kg_he/short;CM502KG
 weapons/cn_cm_502kg_he_rail;CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong <color=#ff6f00>AGM-IR</color>
@@ -592,6 +611,8 @@ weapons/130mm_FB_10_rocket_launcher;FB10 Dì Duì Kōng Daodàn Fāshè Chē <co
 //ITALY MISSILES
 
 //FRANCE MISSILES
+weapons/140mm_akeron_mp_rocket_launchr_user_cannon;AKERON MP <color=#ff6f00>LCH</color>
+weapons/140mm_akeron_mp_rocket_launchr_user_cannon/short;AKERON MP
 140mm_akeron_mp;AKERON MP
 weapons/380mm_aster_30_user_cannon;Système de Lancement Vertical A50 <color=#ff6f00>LCH</color>
 weapons/380mm_aster_30_user_cannon/short;SYLVER A50
@@ -716,6 +737,8 @@ weapons/il_fastpack_f_16i_left/short;CFT
 //GERMANY SMOKE GRENADES
 
 //USSR SMOKE GRENADES
+weapons/t_34_85_stp_s53_smoke_barrel_launcher;<color=@userlogColoredText>450 mm</color> Bol'šaâ dymovaâ šaška BDŠ-5 <color=#ff6f00>GRN-SMK</color>
+weapons/t_34_85_stp_s53_smoke_barrel_launcher/short;BDŠ-5
 
 //UK SMOKE GRENADES
 

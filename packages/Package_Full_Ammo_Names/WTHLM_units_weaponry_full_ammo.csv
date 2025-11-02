@@ -1,11 +1,4 @@
 <ID|readonly|noverify>;<English>
-//USA MISSILES
-us_aim_9x;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder
-
-//USSR MISSILES
-209mm_9m33;Zyenitnaâ upravlâyemaâ rakyeta 9M33M
-360mm_9m317ma;Zyenitnaâ upravlâyemaâ rakyeta 9M317MA
-
 //USA AMMUNITION
 155mm_t152;Cartridge, 155mm: HEP, T152E5
 155_mm_t267;Cartridge, 155mm: HEAT, T267
@@ -26,6 +19,9 @@ us_aim_9x;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder
 350_psgr_l_4_2_apc;35cm Sprenggranate Lange/4,2 (Bodenzünder)
 350_psgr_l_3_6_apc;35cm Panzersprenggranate Lange/3,6
 
+//USSR AMMUNITION
+125mm_3of_82;3VOF128 (3OF82)
+
 //UK AMMUNITION
 57mm_qf_ap;"Cartridge, Q.F., 6-pr., Cordite M.D., Steel Shell, Mk. XIV (Shell, Q.F.,
 A.P., 6-pr. 6-cwt., Mk. V)"
@@ -41,10 +37,6 @@ Q.F., H.E.T., 6-pr. 6-cwt., Mk. I)"
 105mm_type_75_hesh;DTJ/PW75 Shì 105 Háomi Suì Jia Dàn
 125mm_bta4;BTA4 Shì 125 Háomi Chuān Jia Dàn
 
-//CHINA MISSILES
-fb10_rocket;FB10 Dì Duì Kōng Dǎodàn
-fb10a_rocket;FB10A Dì Duì Kōng Dǎodàn
-
 //ITALY AMMUNITION
 20mm_perforante_m35_belt;Cartoccio granata perforante da 20 modello 1935
 381mm_50_sapcbc;Cartoccio granata perforante da 381/50
@@ -52,6 +44,10 @@ fb10a_rocket;FB10A Dì Duì Kōng Dǎodàn
 
 //FRANCE AMMUNITION
 37mm_oea1935_he;37 mm Obus Explosif en Acier modèle 1935
+40mm_gpr_ke_t_apfsds;Obus Flèche Traceur
+40mm_gpr_pd_t_he;Obus Explosif Traceur
+40mm_gpr_ab_t_he;Obus Explosif Traceur Chronométrique
+40mm_ke_ab_ahead;Projectile Perforant Multiple Chronométrique
 100mm_oea1928_he_df;100 mm Obus Explosif en Acier modèle 1928
 152mm_m1936_he_df;152 mm Obus Explosif en Acier modèle 1936
 203mm_opf_mle1936_apcbc;"203 mm Obus de Perforation dispositif K de Rupture Coiffé 
@@ -61,6 +57,17 @@ modèle 1936"
 modèle 1936"
 380mm_opf_mle1943_apcbc;"380 mm Obus de Perforation dispositif K de Rupture Coiffé
 modèle 1943"
+
+//USA MISSILES
+us_aim_9x;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder
+
+//USSR MISSILES
+209mm_9m33;Zyenitnaâ upravlâyemaâ rakyeta 9M33M
+360mm_9m317ma;Zyenitnaâ upravlâyemaâ rakyeta 9M317MA
+
+//CHINA MISSILES
+fb10_rocket;FB10 Dì Duì Kōng Dǎodàn
+fb10a_rocket;FB10A Dì Duì Kōng Dǎodàn
 
 //SWEDEN AMMUNITION
 20mm_slpprj_m42;20 mm skarp patron m/42 spårljuspansarprojektil m/42

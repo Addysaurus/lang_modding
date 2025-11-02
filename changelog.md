@@ -153,30 +153,60 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
+    - **M134 Minigun**
     - **HOSBO**
     - **FAB-100sv**
+    - **3OF82**
+    - **BDSh**
     - **9M133 ATGM**
     - **MBDA Sea Eagle**
     - **Drop tank (130 gal.)**
     - **YJ-81(k)**
+    - **BA-11A**
     - **7.62 mm FN MAG 58 machine gun**
     - **40 mm CTC cannon**
+    - **OFLT**
+    - **OET**
+    - **OET CHR**
+    - **PPM CHR**
+    - **KE-AB** (unused)
+    - **GPR-PD-T** (unused)
+    - **GPR-AB-T** (unused)
+    - **APFSDS-T** (unused)
     - **MMP**
+    - **Akeron MP ATGM** (launcher)
     - **IMI 60mm HVMS**
+    - **AHEAD** (shell type)
+    - **APDS Sabot** (shell type)
+    - **APFSDS Sabot** (shell type)
     - **TV+IOG+GNSS** (guidance type)
     - **XP3264** (explosive type)
 
 - #### Changes:
 
+    - **M134 Minigun** → **M134**. Long name → **Machine Gun, 7.62mm, M134**.
     - **HOSBO**: Long name → **Hochleistungssprengbombe**.
     - **FAB-100sv**: Long name → **FAB-100sv**.
+    - **3OF82** → **3VOF128**.
+        - Full Ammunition Names package: **3OF82** → **3VOF128 (3OF82)**.
+    - **BDSh** → **BDŠ-51**. Long name → **Bol'šaâ dymovaâ šaška BDŠ-5**.
     - **9M133 ATGM** → **Puskovoye ustrojstvo 9P163-1**.
     - **MBDA Sea Eagle** → **Sea Eagle**. Long name → **Sea Eagle**.
     - **Drop tank (130 gal.)** → **Drop tank (591 L)**.
     - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
+    - **BA-11A** → **BA-11**. Long name → **Blue Arrow 11 Air-to-Surface Missile**.
     - **7.62 mm FN MAG 58 machine gun** → **FN MAG 58**.
     - **40 mm CTC cannon** → **40 mm Cased Telescoped Cannon**.
+    - **OFLT**:
+        - Full Ammunition Names package: **OFLT** → **Obus Flèche Traceur**.
+    - **OET**:
+        - Full Ammunition Names package: **OET** → **Obus Explosif Traceur**.
+    - **OET CHR**:
+        - Full Ammunition Names package: **OET CHR** → **Obus Explosif Traceur Chronométrique**.
+    - **PPM CHR**:
+        - Full Ammunition Names package: **PPM CHR** → **Projectile Perforant Multiple Chronométrique**.
     - **MMP** → **AKERON MP**.
+    - **Akeron MP ATGM** (launcher) → **AKERON MP**.
     - **IMI 60mm HVMS** → **60 mm Hyper-Velocity Medium Support Weapon System**.
     - **TV+IOG+GNSS** (guidance type) → **TV + IOG + GNSS**.
 

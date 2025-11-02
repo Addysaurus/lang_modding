@@ -159,22 +159,26 @@ All dates are listed in DD-MM-YYYY format.
     - **MBDA Sea Eagle**
     - **Drop tank (130 gal.)**
     - **YJ-81(k)**
+    - **7.62 mm FN MAG 58 machine gun**
     - **40 mm CTC cannon**
+    - **MMP**
     - **IMI 60mm HVMS**
     - **TV+IOG+GNSS** (guidance type)
     - **XP3264** (explosive type)
 
 - #### Changes:
 
-    - **TV+IOG+GNSS** (guidance type) → **TV + IOG + GNSS**.
     - **HOSBO**: Long name → **Hochleistungssprengbombe**.
     - **FAB-100sv**: Long name → **FAB-100sv**.
     - **9M133 ATGM** → **Puskovoye ustrojstvo 9P163-1**.
     - **MBDA Sea Eagle** → **Sea Eagle**. Long name → **Sea Eagle**.
     - **Drop tank (130 gal.)** → **Drop tank (591 L)**.
     - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
+    - **7.62 mm FN MAG 58 machine gun** → **FN MAG 58**.
     - **40 mm CTC cannon** → **40 mm Cased Telescoped Cannon**.
+    - **MMP** → **AKERON MP**.
     - **IMI 60mm HVMS** → **60 mm Hyper-Velocity Medium Support Weapon System**.
+    - **TV+IOG+GNSS** (guidance type) → **TV + IOG + GNSS**.
 
 ### Nations:
 

@@ -11,6 +11,10 @@ weapons/7_62mm_M1919A4_user_machinegun;<color=@userlogColoredText>7.62 mm</color
 weapons/gunBrowning30_usaaf;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
 weapons/gunBrowning30_usaaf_1935;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
 weapons/gunBrowning30_turret;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Flexible <color=#ff6f00>MG</color>
+weapons/gunM134_Minigun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M134 <color=#ff6f00>MG</color>
+weapons/gunM134_Minigun/short;M134
+weapons/gunM134_Minigun_default;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M134 <color=#ff6f00>MG</color>
+weapons/gunM134_Minigun_default/short;M134
 weapons/12_7mm_M2_HB_user_machinegun_for_400;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/12_7mm_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/12_7mm_m2_hb_t77e1_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
@@ -118,6 +122,7 @@ weapons/75mm_43M_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm 43 
 weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredText>381 mm</color> Cannone Ansaldo-O.T.O. da 381/50 modello 1939 <color=#ff6f00>CNN</color>
 
 //FRANCE GUNS
+weapons/7_62mm_FN_MAG58_user_machinegun;<color=@userlogColoredText>7.62 mm</color> FN MAG 58 <color=#ff6f00>MG</color>
 weapons/40mm_CTC_user_cannon;<color=@userlogColoredText>40 mm</color> 40 mm Cased Telescoped Cannon <color=#ff6f00>ACNN</color>
 weapons/100mm_45_mle_1930_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1930 <color=#ff6f00>CNN</color>
 weapons/100mm_45_mle_1930_naval_user_cannon/short;Canon de 100 mm/45 mle. 1930
@@ -587,6 +592,7 @@ weapons/130mm_FB_10_rocket_launcher;FB10 Dì Duì Kōng Daodàn Fāshè Chē <co
 //ITALY MISSILES
 
 //FRANCE MISSILES
+140mm_akeron_mp;AKERON MP
 weapons/380mm_aster_30_user_cannon;Système de Lancement Vertical A50 <color=#ff6f00>LCH</color>
 weapons/380mm_aster_30_user_cannon/short;SYLVER A50
 380mm_aster_30;Aster 30 Block 0
@@ -4134,13 +4140,9 @@ weapons/cn_12_7_additionalpod_gun/short;QJK99-12.7-1
 weapons/gun_qjk_99_12_7_1;12.7 mm QJK99-12.7-1 machine gun
 weapons/gun_qjk_99_12_7_1/short;QJK99-12.7-1
 weapons/grenade_launcher_M129;<color=@userlogColoredText>40 mm</color> Grenade, Launcher, 40mm, M129 <color=#ff6f00>LCH</color>
-weapons/gunM134_Minigun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M134 <color=#ff6f00>MG</color>
 weapons/grenade_launcher_M129/short;M129
-weapons/gunM134_Minigun/short;M134
 weapons/gunPKA762;7.62 mm PKA machine gun
 weapons/gunPKA762/short;PKA
-weapons/gunM134_Minigun_default;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M134 <color=#ff6f00>MG</color>
-weapons/gunM134_Minigun_default/short;M134
 weapons/grenade_launcher_M75;<color=@userlogColoredText>40 mm</color> Grenade, Launcher, 40mm, M75 <color=#ff6f00>LCH</color>
 weapons/grenade_launcher_M75/short;M75
 weapons/su_9M14M;9M14M Malyutka missile

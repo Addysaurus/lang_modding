@@ -124,7 +124,7 @@ All dates are listed in DD-MM-YYYY format.
         - **JH-7** → **H/JJH7**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7 Xíng Fēijī "Fēi Bào"**. I know it looks weird next to other Chinese planes, I promise the rest are going to be moved over to this system soon with the China rework
         - **JH-7A Prototype** → **H/JJH7A (811 Hào)**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7A Xíng Fēijī "Fēi Bào" (Yàngchē 811 Hào)**.
         - **AH-64E** (China / Taiwan) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | AH-64E Zhàndòu Zhíshēngjī (Capability Version 6)**.
-        - **CM34**: Statcard name → **Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 30 Liàn Pào Zhuāng Bù Zhàndòu Chē**.
+        - **CM34**: Statcard name → **Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 Lún Xíng Zhàndòu Chē**.
         - **Oplot-M** (China / Pakistan) → **BM Oplot-T**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-T | Bojova mašina Oplot-T**. It's quite confusing, but after a lot of checking of the AC unit and a bit of the APU too, it does appear to be the Oplot-M.
             - Ukrainian package: **Oplot-M** (China / Pakistan) → **БМ Оплот-М**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Об'єкт 478ДУ9-1 | Бойова машина Оплот-М**.
         - **MB-326K**: Statcard name → **Aermacchi MB-326K** (internal designation that the Italian air force then adopted).
@@ -147,6 +147,7 @@ All dates are listed in DD-MM-YYYY format.
     - **AH-64D** (France / Netherlands): Statcard name → **Boeing Rotorcraft Systems | Helicopter, Attack, AH-64D Longbow Apache** (I somehow forgot to add the manufacturer when it was added).
     - **Re. 2005 (9-12 010 A)** → **Re. 2005 (9-12087A)**.
     - **M48A2 GMS** → **M48A2 GMSIA**. Statcard name → **Ford Aerospace & Communications Corporation | Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2**.
+    - **M247 / 48A2 GMS** (folder) → **M247 / 48A2 GMSIA**.
     - **M48A2 GMS** (Israel) → **Draḳon**. Statcard name → **Ford Aerospace & Communications Corporation | Draḳon**.
 
 ### Weaponry:
@@ -162,6 +163,8 @@ All dates are listed in DD-MM-YYYY format.
     - **MBDA Sea Eagle**
     - **Drop tank (130 gal.)**
     - **Type 94 HE**
+    - **7.62 mm T74 machine gun**
+    - **7.62 mm T74V machine gun**
     - **YJ-81(k)**
     - **BA-11A**
     - **7.62 mm FN MAG 58 machine gun**
@@ -196,6 +199,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Drop tank (130 gal.)** → **Drop tank (591 L)**.
     - **Type 94 HE** → **3.7 Sanchi 94 Shiki Tsūjō Dan**.
         - Japanese package: **Type 94 HE** → **三糎七九四式通常弾**.
+    - **7.62 mm T74 machine gun** → **T74 7.62 Gōnglí Jīqiāng**.
+    - **7.62 mm T74V machine gun** → **T74V 7.62 Gōnglí Tóngzhóu Jīqiāng**.
     - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
     - **BA-11A** → **BA-11**. Long name → **Blue Arrow 11 Air-to-Surface Missile**.
     - **7.62 mm FN MAG 58 machine gun** → **FN MAG 58**.

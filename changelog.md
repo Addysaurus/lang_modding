@@ -161,6 +161,7 @@ All dates are listed in DD-MM-YYYY format.
     - **9M133 ATGM**
     - **MBDA Sea Eagle**
     - **Drop tank (130 gal.)**
+    - **Type 94 HE**
     - **YJ-81(k)**
     - **BA-11A**
     - **7.62 mm FN MAG 58 machine gun**
@@ -193,6 +194,8 @@ All dates are listed in DD-MM-YYYY format.
     - **9M133 ATGM** → **Puskovoye ustrojstvo 9P163-1**.
     - **MBDA Sea Eagle** → **Sea Eagle**. Long name → **Sea Eagle**.
     - **Drop tank (130 gal.)** → **Drop tank (591 L)**.
+    - **Type 94 HE** → **3.7 Sanchi 94 Shiki Tsūjō Dan**.
+        - Japanese package: **Type 94 HE** → **三糎七九四式通常弾**.
     - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
     - **BA-11A** → **BA-11**. Long name → **Blue Arrow 11 Air-to-Surface Missile**.
     - **7.62 mm FN MAG 58 machine gun** → **FN MAG 58**.

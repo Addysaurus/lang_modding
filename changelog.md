@@ -260,6 +260,11 @@ All dates are listed in DD-MM-YYYY format.
     - **1 Shiki 47 Mirimētoru Sensha Hō** → **1 Shiki 47 Miri Sensha Hō**.
     - **Shisei 5 Shiki 7 Senchimētoru Han Sensha Hō (Naga) I Gata** → **Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) I Gata**.
     - **Shisei 5 Shiki 7 Senchimētoru Han Sensha Hō (Naga) II Gata** → **Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) II Gata**.
+    - Added the missing type tags in the Japanese package for the following weapons:
+        - **AAM-3**
+        - **AAM-4**
+        - **ASM-1**
+        - **ASM-2**.
 
 ### Modifications:
 

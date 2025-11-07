@@ -39,7 +39,7 @@ All dates are listed in DD-MM-YYYY format.
         - **PT-262**
         - **PGM-9**
         - **USS Oregon City**
-        - **Tornado IDS ASSTA3 SLE**
+        - **Tornado IDS SLE**
         - **Raketenautomat/RakJPz** (folder)
         - **SMS König**
         - **Yak-1 Litvyak**

@@ -1,5 +1,7 @@
 <ID|readonly|noverify>;<English>
 modification/headerForWeapon;Weapon modifications
+modification/su_x29te_x59m/desc;Allows the installation of Kh-29TE and Kh-59M guided missiles.
+modification/su_x29te_x59m;Kh-29TE/59M
 modification/su_kh_59/desc;Allows the installation of Kh-59 guided missiles.
 modification/su_kh_59;Kh-59
 modification/de_hosbo_glide_bomb/desc;Allows the installation of HOSBO guided bombs.
@@ -18,8 +20,11 @@ modification/it_macchi_39a_940_gunpod;39A-940-31/32 gun pod
 modification/it_macchi_39a_940_gunpod/desc;Allows the installation of 39A-940-31/32 gun pods.
 sensors/su_spo-150-14;L-150-14
 sensors/us_an_apg_66h;AN/APG-66H
+sensors/us_an_apg_66_v_2;AN/APG-66(V)2
+sensors/us_an_apg_66_v_2_hms;AN/APG-66(V)2
 sensors/us_an_apg_63_v_3;AN/APG-63(V)3
 sensors/fr_antares_lws;Antares
+radar_predicted_missiles;Missiles shown
 engine_manufacturer/isotta_fraschini;Isotta Fraschini
 engine_model/id38ss;ID38SS
 engine_model/740_13_300;740.13-300
@@ -29,7 +34,7 @@ modification/cn_ba_11/desc;Allows the installation of Blue Arrow 11 missiles.
 modification/cn_ba_11;BA-11
 engine_model/adour_mk871;Adour Mk.871
 engine_model/viper_632_43;Viper Mk 632-43
-engine_model/sagita_i_sr;Sagita I-SR
+engine_model/sagita_i_sr;Sagitta I-SR
 engine_model/t64_ge_716;T64-GE-716
 engine_model/r2000_7;R2000-7
 engine_model/viper_mk540;Viper Mk.540

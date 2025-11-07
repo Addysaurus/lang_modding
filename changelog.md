@@ -139,7 +139,7 @@ All dates are listed in DD-MM-YYYY format.
         - **M44/M55** (folder) (France / Belgium) → **M44 / M55**.
         - **Foch/ACRA** (folder) → **AMX 50 Foch / 10M**.
         - **Commandant Dominé** → **Commandant Dominé (F 742)**. Statcard name → **Ateliers et Chantiers Dubigeon / La Pallice | Aviso dragueur de mines de la classe Élan | Commandant Dominé (F 742) (1948)**.
-        - **La Brestois** → **Le Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Brestois (F 762)**.
+        - **Le Brestois** → **Le Brestois (F 762)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Brestois (F 762)**.
         - **Clemenceau**: Statcard name → **Arsenal de Brest | Cuirassé de la Classe Richelieu | Clemenceau**.
         - **F-16AM MLU** (Israel) → **F-16AM-20-CF**. Statcard name → **General Dynamics Corporation | F-16AM-20-CF Fighting Falcon**.
         - **M.D.450B (29)** (Israel) → **'Organ (Mis 29)**. Statcard name → **Avions Marcel Dassault | M.D.450B 'Organ (Mis 29, Ṭayeset 113 "Ṭayeset Haṣar'ah")**.
@@ -263,8 +263,15 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Modifications:
 
+- #### Additions:
+
+    - Update "Spearhead" additions:
+        - **GBU-31/62 JDAM**
+
 - #### Changes:
 
+    - Update "Spearhead" changes:
+        - **GBU-31/62 JDAM** → **GBU-31(V)1/B / 62(V)1/B**.
     - Existing weapons that have recieved the new modification format:
         - **Kh-39**
         - **ASM-1** (unknown pylon name)

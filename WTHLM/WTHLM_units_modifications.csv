@@ -109,6 +109,10 @@ modification/us_gbu_31_64/desc;"Loadout unlocked: 893.6 kg <color=@userlogColore
 Loadout unlocked: 987 kg <color=@userlogColoredText>GBU-64(V)1/B</color> GNSS-guided bomb."
 
 //GERMANY BOMBS
+modification/de_hosbo_glide_bomb;HOSBO
+modification/de_hosbo_glide_bomb/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>HOSBO</color> <color=#ff6f00>BMB-GNSS/IR</color> x1"
 
 //USSR BOMBS
 modification/ofab_100m_mb;OFAB-100M / mB
@@ -129,6 +133,16 @@ modification/uk_bomb_1650lb/desc;Loadout unlocked: 748 kg <color=@userlogColored
 //JAPAN BOMBS
 modification/kr_kggb/desc;"Loadout unlocked: 289.72 kg <color=@userlogColoredText>Hanguk-hyeong GPS Yudo-poktan</color> GNSS-guided bomb."
 modification/kr_kggb;KGGB
+
+modification/us_gbu_31_62/desc;Allows the installation of GBU-31/62 JDAM guided bombs.
+modification/us_gbu_31_62;GBU-31/62 JDAM
+
+modification/us_gbu_31_62;GBU-31(V)1/B / 62(V)1/B
+modification/us_gbu_31_62/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>GBU-31(V)1/B</color> <color=#ff6f00>BMB-GNSS</color>
+• <color=@userlogColoredText>BRU-33/A</color> pylon:
+  • <color=@userlogColoredText>GBU-62(V)1/B</color> <color=#ff6f00>BMB-GNSS</color> x2"
 
 //CHINA BOMBS
 

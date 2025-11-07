@@ -13,4 +13,11 @@ Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bomb."
 
 //MISSILES
 modification/su_lmur;Х-39
-modification/su_lmur/desc;Loadout unlocked: <color=@userlogColoredText>Х-39</color> infrared-guided air-to-ground missile.
+modification/su_lmur/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АПУ-Л</color> pylon:
+  • <color=@userlogColoredText>Х-39</color> <color=#ff6f00>AGM-IR/GNSS</color> x2"
+
+modification/su_kh_59;Х-59МЭ
+modification/su_kh_59/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-58-1</color> pylon:
+  • <color=@userlogColoredText>Х-59МЭ</color> <color=#ff6f00>AGM-TV/GNSS</color> x2"

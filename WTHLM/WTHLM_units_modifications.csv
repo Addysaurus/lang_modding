@@ -223,27 +223,57 @@ modification/flz_lwf_lb_66/desc;"Loadout unlocked: <color=@userlogColoredText>Fl
 
 //USSR MISSILES
 modification/su_lmur;Kh-39
-modification/su_lmur/desc;Loadout unlocked: <color=@userlogColoredText>Kh-39</color> infrared-guided air-to-ground missile.
+modification/su_lmur/desc;"Loadout unlocked:
+• <color=@userlogColoredText>APU-L</color> pylon:
+  • <color=@userlogColoredText>Kh-39</color> <color=#ff6f00>AGM-IR/GNSS</color> x2"
+
+modification/su_kh_59;Kh-59MÈ
+modification/su_kh_59/desc;"Loadout unlocked:
+• <color=@userlogColoredText>AKU-58-1</color> pylon:
+  • <color=@userlogColoredText>Kh-59MÈ</color> <color=#ff6f00>AGM-TV/GNSS</color> x2"
 
 //UK MISSILES
 
 //JAPAN MISSILES
 modification/jp_asm1;ASM-1
-modification/jp_asm1/desc;Loadout unlocked: <color=@userlogColoredText>ASM-1</color> active radar-homing anti-ship missile.
+modification/jp_asm1/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>ASM-1</color> <color=#ff6f00>AShM-ARH</color> x1"
+
 modification/jp_asm2;ASM-2
-modification/jp_asm2/desc;Loadout unlocked: <color=@userlogColoredText>ASM-2</color> infrared-guided anti-ship missile.
+modification/jp_asm2/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>ASM-2</color> <color=#ff6f00>AShM-IR</color> x1"
 
 //CHINA MISSILES
+modification/cn_yj_81k;H/AKJ81
+modification/cn_yj_81k/desc;"Loadout unlocked:
+• <color=@userlogColoredText>H/EDJ49B</color> pylon:
+  • <color=@userlogColoredText>H/AKJ81</color> <color=#ff6f00>AShM-ARH</color> x1"
+
 modification/cn_cm_502kg;CM502KG
-modification/cn_cm_502kg/desc;Loadout unlocked: <color=@userlogColoredText>CM502KG</color> infrared-guided air-to-ground missile.
+modification/cn_cm_502kg/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>CM502KG</color> <color=#ff6f00>AGM-IR</color> x4"
 
 //ITALY MISSILES
 
 //FRANCE MISSILES
 
 //SWEDEN MISSILES
+modification/swd_rb74;rb 74
+modification/swd_rb74/desc;"Loadout unlocked:
+• JA 37 D, JA 37 DI (all)
+  • <color=@userlogColoredText>balk R7V</color>, <color=@userlogColoredText>balk R7H</color>, <color=@userlogColoredText>balk V7V</color>, <color=@userlogColoredText>balk V7H</color>, <color=@userlogColoredText>balk S7V</color>, <color=@userlogColoredText>balk S7H</color> pylons:
+    • <color=@userlogColoredText>rb 74</color> <color=#ff6f00>AAM-IR</color> x1 (each)
+• JAS 39 A (Cobra), JAS 39 C (Cobra)
+  • <color=@userlogColoredText>balk 1V</color>, <color=@userlogColoredText>balk 1H</color>, <color=@userlogColoredText>balk 2V</color>, <color=@userlogColoredText>balk 2H</color>, <color=@userlogColoredText>balk 3V</color>, <color=@userlogColoredText>balk 3H</color> pylons:
+    • <color=@userlogColoredText>rb 74</color> <color=#ff6f00>AAM-IR</color> x1 (each)"
+
 modification/swd_rb74m;rb 74 (REMO)
-modification/swd_rb74m/desc;Loadout unlocked: <color=@userlogColoredText>rb 74 (REMO)</color> infrared-guided air-to-air missile.
+modification/swd_rb74m/desc;"Loadout unlocked:
+• <color=@userlogColoredText>balk 1V</color>, <color=@userlogColoredText>balk 1H</color>, <color=@userlogColoredText>balk 2V</color>, <color=@userlogColoredText>balk 2H</color>, <color=@userlogColoredText>balk 3V</color>, <color=@userlogColoredText>balk 3H</color> pylons:
+  • <color=@userlogColoredText>rb 74 (REMO)</color> <color=#ff6f00>AAM-IR</color> x1 (each)"
 
 //ISRAEL MISSILES
 
@@ -2543,8 +2573,6 @@ modification/us_aim_9l_i/desc;Allows the installation of AIM-9L/I air-to-air mis
 modification/us_aim_9l_i;AIM-9L/I
 modification/us_aim_9m/desc;Allows installation of AIM-9M-4 air-to-air missiles.
 modification/us_aim_9m;AIM-9M-4
-modification/swd_rb74/desc;Allows installation of robot 74 air-to-air missiles.
-modification/swd_rb74;rb 74
 modification/us_aim_9p/desc;Allows installation of AIM-9P-3 air-to-air missiles.
 modification/us_aim_9p;AIM-9P-3
 modification/us_aim_9p4/desc;Allows installation of AIM-9P-4 air-to-air missiles.

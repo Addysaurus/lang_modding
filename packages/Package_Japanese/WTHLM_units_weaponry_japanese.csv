@@ -9,6 +9,10 @@ weapons/47mm_Type1_user_cannon;<color=@userlogColoredText>47 mm</color> 一式�
 weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> 試製五式七糎半戦車砲 (長) I型 <color=#ff6f00>CNN</color>
 weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> 試製五式七糎半戦車砲 (長) II型 <color=#ff6f00>CNN</color>
 weapons/155mm_60_type_3_naval_user_cannon;<color=@userlogColoredText>155 mm</color> 六十口径三年式十五糎半砲 <color=#ff6f00>CNN</color>
+weapons/410mm_45_type_3_mod_naval_user_cannon;<color=@userlogColoredText>410 mm</color> 四五口径三年式四一糎砲 <color=#ff6f00>CNN</color>
+weapons/410mm_45_type_3_mod_naval_user_cannon/short;四五口径三年式四一糎砲
+weapons/410mm_45_type_3_naval_user_cannon;<color=@userlogColoredText>410 mm</color> 四五口径三年式四一糎砲 <color=#ff6f00>CNN</color>
+weapons/410mm_45_type_3_naval_user_cannon/short;四五口径三年式四一糎砲
 weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</color> 四五口径九四式四〇糎砲 <color=#ff6f00>CNN</color>
 weapons/460mm_45_type_94_naval_user_cannon/short;四五口径九四式四〇糎砲
 
@@ -18,6 +22,7 @@ weapons/460mm_45_type_94_naval_user_cannon/short;四五口径九四式四〇糎�
 155mm_60_type0_he_dist_fuse;十五糎半零式通常弾 (TF)
 155mm_60_type91_ap;十五糎半九一式徹甲弾
 356mm_type5_apc;三六糎五號徹甲弾
+410mm_type91_apc;四一糎九一式徹甲弾
 460mm_type0_common_he;四六糎零式通常弾
 460mm_type91_apc;四六糎九一式徹甲弾
 

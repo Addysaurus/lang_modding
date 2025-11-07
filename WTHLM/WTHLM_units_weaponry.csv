@@ -106,17 +106,21 @@ weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredTex
 //JAPAN GUNS
 weapons/cannonJM61A2;<color=@userlogColoredText>20 mm</color> JM61A2 <color=#ff6f00>RCNN</color>
 weapons/cannonJM61A2/short;JM61A2
-weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Mirimētoru Kōsha Kikanhō <color=#ff6f00>ACNN</color>
-weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Mirimētoru Kōsha Kikanhō <color=#ff6f00>ACNN</color>
-weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
-weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Mirimētoru Kotei Kijū <color=#ff6f00>ACNN</color>
-weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 94 Shiki 37 Mirimētoru Sensha Hō <color=#ff6f00>CNN</color>
-weapons/47mm_Type1_user_cannon;<color=@userlogColoredText>47 mm</color> 1 Shiki 47 Mirimētoru Sensha Hō <color=#ff6f00>CNN</color>
-weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchimētoru Han Sensha Hō (Naga) I Gata <color=#ff6f00>CNN</color>
-weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchimētoru Han Sensha Hō (Naga) II Gata <color=#ff6f00>CNN</color>
-weapons/155mm_60_type_3_naval_user_cannon;<color=@userlogColoredText>155 mm</color> 60 Kōkei 3 Nen Shiki 15 Sanchimētoru Han Hō <color=#ff6f00>CNN</color>
-weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</color> 45 Kōkei 94 Shiki 40 Sanchimētoru Hō <color=#ff6f00>CNN</color>
-weapons/460mm_45_type_94_naval_user_cannon/short;45 Kōkei 94 Shiki 40 Sanchimētoru Hō
+weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Miri Kōsha Kikanhō <color=#ff6f00>ACNN</color>
+weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Miri Kōsha Kikanhō <color=#ff6f00>ACNN</color>
+weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Miri Kotei Kijū <color=#ff6f00>ACNN</color>
+weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Miri Kotei Kijū <color=#ff6f00>ACNN</color>
+weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 94 Shiki 37 Miri Sensha Hō <color=#ff6f00>CNN</color>
+weapons/47mm_Type1_user_cannon;<color=@userlogColoredText>47 mm</color> 1 Shiki 47 Miri Sensha Hō <color=#ff6f00>CNN</color>
+weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) I Gata <color=#ff6f00>CNN</color>
+weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) II Gata <color=#ff6f00>CNN</color>
+weapons/155mm_60_type_3_naval_user_cannon;<color=@userlogColoredText>155 mm</color> 60 Kōkei 3 Nen Shiki 15 Sanchi Han Hō <color=#ff6f00>CNN</color>
+weapons/410mm_45_type_3_mod_naval_user_cannon;<color=@userlogColoredText>410 mm</color> 45 Kōkei 3 Nen Shiki 41 Sanchi Hō <color=#ff6f00>CNN</color>
+weapons/410mm_45_type_3_mod_naval_user_cannon/short;45 Kōkei 3 Nen Shiki 41 Sanchi Hō
+weapons/410mm_45_type_3_naval_user_cannon;<color=@userlogColoredText>410 mm</color> 45 Kōkei 3 Nen Shiki 41 Sanchi Hō <color=#ff6f00>CNN</color>
+weapons/410mm_45_type_3_naval_user_cannon/short;45 Kōkei 3 Nen Shiki 41 Sanchi Hō
+weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</color> 45 Kōkei 94 Shiki 40 Sanchi Hō <color=#ff6f00>CNN</color>
+weapons/460mm_45_type_94_naval_user_cannon/short;45 Kōkei 94 Shiki 40 Sanchi Hō
 
 //CHINA GUNS
 weapons/7_62mm_T74_user_machinegun;<color=@userlogColoredText>7.62 mm</color> T74 7.62 Gōnglí Jīqiāng <color=#ff6f00>MG</color>
@@ -136,6 +140,8 @@ weapons/7_62mm_FN_MAG58_user_machinegun;<color=@userlogColoredText>7.62 mm</colo
 weapons/40mm_CTC_user_cannon;<color=@userlogColoredText>40 mm</color> 40 mm Cased Telescoped Cannon <color=#ff6f00>ACNN</color>
 weapons/100mm_45_mle_1930_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1930 <color=#ff6f00>CNN</color>
 weapons/100mm_45_mle_1930_naval_user_cannon/short;Canon de 100 mm/45 mle. 1930
+weapons/100mm_45_mle_1933_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1933 <color=#ff6f00>CNN</color>
+weapons/100mm_45_mle_1933_naval_user_cannon/short;Canon de 100 mm/45 mle. 1933
 weapons/120mm_giat_cn120_26_f1_msc_user_cannon;<color=@userlogColoredText>120 mm</color> CN120-26/52 F1 <color=#ff6f00>CNN</color>
 weapons/152mm_55_model_1930_naval_user_cannon;<color=@userlogColoredText>152 mm</color> Canon de 152 mm/55 modèle 1930 <color=#ff6f00>CNN</color>
 weapons/152mm_55_model_1930_naval_user_cannon/short;Canon de 152 mm/55 mle. 1930
@@ -143,6 +149,8 @@ weapons/152mm_55_model_1930mod_naval_user_cannon;<color=@userlogColoredText>152 
 weapons/152mm_55_model_1930mod_naval_user_cannon/short;Canon de 152 mm/55 mle. 1930
 weapons/380mm_45_mle_1935_naval_user_cannon;<color=@userlogColoredText>380 mm</color> Canon de 380 mm/45 modèle 1935 <color=#ff6f00>CNN</color>
 weapons/380mm_45_mle_1935_naval_user_cannon/short;Canon de 380 mm/45 mle. 1935
+weapons/380mm_45_mle_1935_mod_naval_user_cannon;<color=@userlogColoredText>380 mm</color> Canon de 380 mm/45 modèle 1935 <color=#ff6f00>CNN</color>
+weapons/380mm_45_mle_1935_mod_naval_user_cannon/short;Canon de 380 mm/45 mle. 1935
 
 //SWEDEN GUNS
 
@@ -201,6 +209,7 @@ t_ball_t_38/name/short;T
 57mm_or_281u_belt;OR-281U
 57mm_br_281u_belt;BR-281U
 76mm_obr1915_hetf;OF obr. 1915 g.
+122mm_3vdcz3;3VDCz3
 125mm_3of_82;3VOF128
 406mm_obr1915_28_sapcbc;PB obr. 1915/28 gg.
 406mm_obr1915_28_apcbc;BR obr. 1915/28 gg.
@@ -220,6 +229,7 @@ b_mk_1z/name/short;I
 155mm_60_type0_he_dist_fuse;15.5 Sanchi 0 Shiki Tsūjō Dan (TF)
 155mm_60_type91_ap;15.5 Sanchi 91 Shiki Tekkō Dan
 356mm_type5_apc;36 Sanchi 5 Gō Tekkō Dan
+410mm_type91_apc;41 Sanchi 91 Shiki Tekkō Dan
 460mm_type0_common_he;46 Sanchi 0 Shiki Tsūjō Dan
 460mm_type91_apc;46 Sanchi 91 Shiki Tekkō Dan
 
@@ -243,6 +253,7 @@ b_mk_1z/name/short;I
 381mm_50_apcbc;Palla perforante da 381/50
 
 //FRANCE AMMUNITION
+37mm_oea1935_he;37 mm OEA mle. 1935
 40mm_gpr_ke_t_apfsds;OFLT
 40mm_gpr_pd_t_he;OET
 40mm_gpr_ab_t_he;OET CHR
@@ -251,13 +262,14 @@ b_mk_1z/name/short;I
 40mm_ctc_gpr_pd_t_he;GPR-PD-T
 40mm_ctc_ke_t_apfsds;APFSDS-T
 40mm_ctc_ab_t_he;GPR-AB-T
-100mm_oea1928_he_df;100 mm OEA Mle. 1928
+100mm_oea1928_he_df;100 mm OEA mle. 1928
+100mm_oea1945_he_df;100 mm OEA mle. 1945
 105mm_ofl_g2;OFL 105 G2
-152mm_m1936_he_df;152 mm OEA Mle. 1936
-203mm_opf_mle1936_apcbc;203 mm OPf(K) RC Mle. 1936
-380mm_oea_mle1949_he;380 mm OEA Mle. 1949
-380mm_opf_mle1936_apcbc;380 mm OPf(K) RC Mle. 1936
-380mm_opf_mle1943_apcbc;380 mm OPf(K) RC Mle. 1943
+152mm_m1936_he_df;152 mm OEA mle. 1936
+203mm_opf_mle1936_apcbc;203 mm OPf(K) RC mle. 1936
+380mm_oea_mle1949_he;380 mm OEA mle. 1949
+380mm_opf_mle1936_apcbc;380 mm OPf(K) RC mle. 1936
+380mm_opf_mle1943_apcbc;380 mm OPf(K) RC mle. 1943
 
 //SWEDEN AMMUNITION
 20mm_slpprj_m42;20 mm sk ptr m/42 slpprj m/42
@@ -559,8 +571,12 @@ us_iris_t_sl;IRIS-T SLM
 weapons/us_iris_t_sl/short;IRIS-T SLM
 
 //USSR MISSILES
+weapons/su_kh_59m;"izd. D-9M | Upravlâyemaâ rakyeta Kh-59M ""Ovod-M"" <color=#ff6f00>AGM-TV/GNSS</color>"
+weapons/su_kh_59m/short;Kh-59M
+weapons/su_kh_59me;"izd. D-9MÈ | Upravlâyemaâ rakyeta Kh-59MÈ ""Ovod-MÈ"" <color=#ff6f00>AGM-TV/GNSS</color>"
+weapons/su_kh_59me/short;Kh-59MÈ
 weapons/152mm_9M133_btr_82at_launcher_user_cannon;Puskovoye ustrojstvo 9P163-1 <color=#ff6f00>LCH</color>
-weapons/su_lmur;9-A-7755 | izd. 305 | Kh-39 <color=#ff6f00>AGM-IR</color>
+weapons/su_lmur;9-A-7755 | izd. 305 | Lyegkaâ mnogoczyelyevaâ upravlâyemaâ rakyeta Kh-39 <color=#ff6f00>AGM-IR/GNSS</color>
 weapons/su_lmur/short;Kh-39
 209mm_9m33;9M33M
 weapons/209mm_9M33A3_launcher_user_cannon;Puskovoye ustrojstvo 9P35M2 <color=#ff6f00>LCH</color>
@@ -6513,7 +6529,6 @@ weapons/fr_550mm_l3_torpedo_torpedo/short;L3
 weapons/fr_550mm_l3_torpedo;550 mm L3 torpedo
 weapons/fr_550mm_l3_torpedo/short;L3
 37mm_oea1925_he;37 mm OEA Mle 1925
-37mm_oea1935_he;37 mm OEA Mle. 1935
 138mm_oea1928_he;138.6 mm OEA Mle 1928
 138mm_opfa1924_sap;138.6 mm OPFA Mle 1924
 weapons/155mm_50_model_20_naval_user_cannon;155 mm/50 model 1920 gun
@@ -6654,8 +6669,6 @@ weapons/320mm_40_oto_mod_1934_naval_user_cannon;320 mm/44 OTO model 1934 gun
 weapons/320mm_40_oto_mod_1934_naval_user_cannon/short;320-mm/44 OTO 1934
 weapons/320mm_40_ansaldo_mod_1934_naval_user_cannon;320 mm/44 Ansaldo model 1934 gun
 weapons/320mm_40_ansaldo_mod_1934_naval_user_cannon/short;320-mm/44 Ansaldo 1934
-weapons/410mm_45_type_3_naval_user_cannon;410 mm/45 Type 3 gun
-weapons/410mm_45_type_3_naval_user_cannon/short;410 mm/45 Type 3
 410mm_ordinary_type0_sap;410 mm Common Type 0
 410mm_no5_apc;410 mm No5 APC
 410mm_no3_apc;410 mm No3 APC

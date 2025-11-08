@@ -152,6 +152,8 @@ All dates are listed in DD-MM-YYYY format.
     - **M48A2 GMS** → **M48A2 GMSIA**. Statcard name → **Ford Aerospace & Communications Corporation | Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2**.
     - **M247 / 48A2 GMS** (folder) → **M247 / 48A2 GMSIA**.
     - **M48A2 GMS** (Israel) → **Draḳon**. Statcard name → **Ford Aerospace & Communications Corporation | Draḳon**.
+    - **87RCV**: Statcard name → **Komatsu Seisaku KS130W | 87 Shiki Teisatsu Keikaisha "Burakkuai"**.
+        - Japanese package: **87RCV**: Statcard name → **小松製作 KS130W | 87式偵察警戒車「ブラックアイ」**.
 
 ### Weaponry:
 

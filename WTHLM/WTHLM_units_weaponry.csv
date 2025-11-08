@@ -5,6 +5,7 @@ missile/guidance/ARH+IOG+GNSS+DL;ARH + IOG + GNSS + DL
 missile/guidance/ir+IOG+GNSS+DL;IR + IOG + GNSS + DL
 turret_universal/name;%s mm turret ammunition belt with AP and T shells
 turret_universal/name/short;AP/T
+radar_predicted_missiles;Missiles shown
 
 //SHELL TYPES
 apds_sabot;APDS Sabot
@@ -715,6 +716,10 @@ weapons/jp_600gal_drop_tank_2/short;Drop tank (600 gal)
 //CHINA FUEL TANKS
 
 //ITALY FUEL TANKS
+weapons/it_330l_drop_tank_1;Drop tank (330 L)
+weapons/it_330l_drop_tank_1/short;Drop tank (330 L)
+weapons/it_330l_drop_tank_2;Drop tank (330 L)
+weapons/it_330l_drop_tank_2/short;Drop tank (330 L)
 
 //FRANCE FUEL TANKS
 weapons/nl_50gal_wingtip_tank_1;Drop tank (50 gal)

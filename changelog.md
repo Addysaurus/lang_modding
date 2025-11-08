@@ -176,6 +176,7 @@ All dates are listed in DD-MM-YYYY format.
         - **7.62 mm T74V machine gun**
         - **YJ-81(k)**
         - **BA-11A**
+        - **Drop tank (330 gal.)**
         - **7.62 mm FN MAG 58 machine gun**
         - **40 mm CTC cannon**
         - **100 mm/45 model 1933**
@@ -197,6 +198,7 @@ All dates are listed in DD-MM-YYYY format.
         - **APFSDS Sabot** (shell type)
         - **TV+IOG+GNSS** (guidance type)
         - **XP3264** (explosive type)
+        - **Missiles shown** (some random text)
 
 - #### Changes:
 
@@ -224,6 +226,7 @@ All dates are listed in DD-MM-YYYY format.
         - **7.62 mm T74V machine gun** → **T74V 7.62 Gōnglí Tóngzhóu Jīqiāng**.
         - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
         - **BA-11A** → **BA-11**. Long name → **Blue Arrow 11 Air-to-Surface Missile**.
+        - **Drop tank (330 gal.)** → **Drop tank (330 L)** (this is not an incorrect conversion, Gaijin just wrote gallons even though the tank is actually 330 L).
         - **7.62 mm FN MAG 58 machine gun** → **FN MAG 58**.
         - **40 mm CTC cannon** → **40 mm Cased Telescoped Cannon**.
         - **100 mm/45 model 1933** → **Canon de 100 mm/45 mle. 1933**. Long name **Canon de 100 mm/45 modèle 1933**.
@@ -272,18 +275,48 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Spearhead" additions:
         - **GBU-31/62 JDAM**
+        - **Kh-29TE/59M**
+        - **Slat armour** (for the **EBRC Jaguar**)
+        - **Additional Ballistic Protection Package** (for the **BTR-82AT (9P163-1)**)
+        - **39A-940-31/32 gun pod**
+        - **Weapon modifications** (some random weapon text idk)
 
 - #### Changes:
 
     - Update "Spearhead" changes:
         - **GBU-31/62 JDAM** → **GBU-31(V)1/B / 62(V)1/B**.
+        - **Kh-29TE/59M** → **Kh-29TÈ / 59M**.
+        - **Slat armour** (for the **EBRC Jaguar**) → **Slat Armor**.
+        - **Additional Ballistic Protection Package** (for the **BTR-82AT (9P163-1)**) → **Slat Armor**.
+        - **39A-940-31/32 gun pod** → **39A940-31/32**.
     - Existing weapons that have recieved the new modification format:
         - **Kh-39**
-        - **ASM-1** (unknown pylon name)
-        - **ASM-2** (unknown pylon name)
+        - **ASM-1**
+        - **ASM-2**
         - **CM502KG** (unknown pylon name)
         - **rb 74**
         - **rb 74 (REMO)**
+
+### Sensors:
+
+- #### Additions:
+
+    - Update "Spearhead" additions:
+        - **AN/APG-66H**
+        - **AN/APG-66(V)2**
+        - **AN/APG-66(V)3**
+        - **L-150-14**
+        - **Antares**
+
+- #### Changes:
+
+    - Update "Spearhead" changes:
+        - **L-150-14** → **Sistyema pryedupryeždyeniâ ob oblučyenii L-150-14 Pastyel'**.
+        - **Antares** → **ANTARES**.
+    - **L-150 Pastyel'** → **Sistyema pryedupryeždyeniâ ob oblučyenii L-150 Pastyel'**.
+    - **L-150-28M** → **Sistyema pryedupryeždyeniâ ob oblučyenii L-150-28M Pastyel'** (it's unused but it does exist so I am fixing it).
+    - **L-150-30SM** → **Sistyema pryedupryeždyeniâ ob oblučyenii L-150-30SM Pastyel'** (it's unused but it does exist so I am fixing it).
+    - The RWR type tag has been removed because it was entirely pointless as every RWR is preceded by "RWR:" anyway ("RWR: [RWR NAME] RWR" is pointless repetition).
 
 ### Nations:
 

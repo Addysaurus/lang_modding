@@ -63,6 +63,10 @@ sensors/us_an_apg_63_v_1;AN/APG-63(V)1 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_65gy;AN/APG-65(GY) <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_65q;AN/APG-65Q <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_66;AN/APG-66 <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_66h;AN/APG-66H <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_66_v_2;AN/APG-66(V)2 <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_66_v_2_hms;AN/APG-66(V)2 <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_63_v_3;AN/APG-66(V)3 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_67;AN/APG-67 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_66_v_1;AN/APG-66(V)1 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_66_v_3;AN/APG-66(V)3 <color=#ff6f00>RDR-PD</color>
@@ -107,17 +111,19 @@ sensors/sw_giraffe_amb;Giraffe Agile Multi Beam <color=#ff6f00>RDR-PESA</color>
 sensors/il_spyder_search;Enhanced & Extended Multi-Mission Hemispheric Radar <color=#ff6f00>RDR-AESA</color>
 
 //RWRs
-sensors/us_an_alr_56a;AN/ALR-56A <color=#ff6f00>RWR</color>
+sensors/us_an_alr_56a;AN/ALR-56A
 sensors/su_spo-2;SPO-2
 sensors/su_spo-10;SPO-10
 sensors/su_spo-15;SPO-15
 sensors/su_spo-15l;SPO-15L
 sensors/su_spo-15lm;SPO-15LM
 sensors/su_spo-15s;SPO-15S
-sensors/su_spo-150;L-150 Pastyel' <color=#ff6f00>RWR</color>
-sensors/su_spo_150_28m;L-150-28M
-sensors/il_elisra_sps_3000;SPS-3000(V) <color=#ff6f00>RWR</color>
-sensors/cn_helicopter_z_late_rwr;YH96 <color=#ff6f00>RWR</color>
+sensors/su_spo-150;Sistyema pryedupryeždyeniâ ob oblučyenii L-150 Pastyel'
+sensors/su_spo-150-14;Sistyema pryedupryeždyeniâ ob oblučyenii L-150-14 Pastyel'
+sensors/su_spo_150_28m;Sistyema pryedupryeždyeniâ ob oblučyenii L-150-28M Pastyel'
+sensors/su_spo-150-30sm;Sistyema pryedupryeždyeniâ ob oblučyenii L-150-30SM Pastyel'
+sensors/il_elisra_sps_3000;SPS-3000(V)
+sensors/cn_helicopter_z_late_rwr;YH96
 
 //TARGETING PODS
 weapons/an_aas_38;AN/AAS-38 NITE Hawk <color=#ff6f00>TGP-IR</color>
@@ -144,6 +150,9 @@ counterMeasures/cn_z_10me;LDIRCM
 //ACTIVE PROTECTION SYSTEMS
 aps/drozd;Komplyeks aktivnoj zaŝity 1030M-01 | Drozd
 aps/arena_m;Komplyeks aktivnoj zaŝity Aryena-M
+
+//LWSs
+sensors/fr_antares_lws;ANTARES
 
 //UNCATEGORIZED
 sensors/su_yakor_m;Yakor-M
@@ -264,7 +273,6 @@ sensors/sw_app_f9_5;APP F9/5
 sensors/su_n_019e;N019E/OEPS-29E
 sensors/cn_type_1473;Type 1473
 counterMeasures/lsz_8vn;LSZ-8VN
-sensors/su_spo-150-30sm;L-150-30SM
 sensors/su_sapphire_23e;Sapphire-23E/TP-23-1
 sensors/us_an_alr_45f_v;AN/ALR-45F(V)
 sensors/us_an_alr_67_v_3;AN/ALR-67(V)3

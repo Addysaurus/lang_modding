@@ -154,6 +154,7 @@ All dates are listed in DD-MM-YYYY format.
     - **M48A2 GMS** (Israel) → **Draḳon**. Statcard name → **Ford Aerospace & Communications Corporation | Draḳon**.
     - **87RCV**: Statcard name → **Komatsu Seisaku KS130W | 87 Shiki Teisatsu Keikaisha "Burakkuai"**.
         - Japanese package: **87RCV**: Statcard name → **小松製作 KS130W | 87式偵察警戒車「ブラックアイ」**.
+    - Corrected the long distance name of the **F/A18 C** and **F/A18 C (Upgrade 25)** to **F/A18**.
 
 ### Weaponry:
 
@@ -319,6 +320,41 @@ All dates are listed in DD-MM-YYYY format.
     - **L-150-28M** → **Sistyema pryedupryeždyeniâ ob oblučyenii L-150-28M Pastyel'** (it's unused but it does exist so I am fixing it).
     - **L-150-30SM** → **Sistyema pryedupryeždyeniâ ob oblučyenii L-150-30SM Pastyel'** (it's unused but it does exist so I am fixing it).
     - The RWR type tag has been removed because it was entirely pointless as every RWR is preceded by "RWR:" anyway ("RWR: [RWR NAME] RWR" is pointless repetition).
+
+### Engines:
+
+- #### Additions:
+
+    - Update "Spearhead" additions:
+        - **Isotta Fraschini** (manufacturer)
+        - **ID38SS**
+        - **740.13-300**
+        - **Condor 900E**
+        - **Merlin-77**
+        - **Adour Mk.871**
+        - **Viper Mk.540**
+        - **Viper Mk 632-43**
+        - **Sagitta I-SR**
+        - **T64-GE-716**
+        - **R2000-7**
+
+- #### Changes:
+
+    - Update "Spearhead" changes:
+        - **ID38SS** → **ID 38 SS**.
+        - **740.13-300** → **KAMAZ 740.13-300**.
+        - **Merlin-77** → **Rolls-Royce R.M. 11S | Merlin Mk. 77**.
+        - **Adour Mk.871** → **Adour Mk. 871**.
+        - **Viper Mk.540** → **Viper Mk. 540**.
+        - **Viper Mk 632-43** → **Viper Mk. 632-43**.
+        - **T64-GE-716** → **T64-GE-716(ST)**.
+        - **R000-7** → **R-2000-7**.
+    - **Viper Mk 633-41** → **Viper Mk. 633-41**.
+    - **Viper Mk 633-43** → **Viper Mk. 633-43**.
+    - **Viper Mk 633-47** → **Viper Mk. 633-47**.
+    - **KamAZ** (manufacturer) → **PAO «KAMAZ»**.
+    - **Walter** (manufacturer) → **Walter Aircraft Engines**.
+    - **V-84АМС** → **V-84AMS** (I somehow left the AMS part in Russian as АМС even though I did have the V part in English).
 
 ### Nations:
 

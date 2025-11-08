@@ -155,6 +155,7 @@ All dates are listed in DD-MM-YYYY format.
     - **87RCV**: Statcard name → **Komatsu Seisaku KS130W | 87 Shiki Teisatsu Keikaisha "Burakkuai"**.
         - Japanese package: **87RCV**: Statcard name → **小松製作 KS130W | 87式偵察警戒車「ブラックアイ」**.
     - Corrected the long distance name of the **F/A18 C** and **F/A18 C (Upgrade 25)** to **F/A18**.
+    - **T-44 №1** → **T-44 (№ 1)**.
 
 ### Weaponry:
 
@@ -364,6 +365,23 @@ All dates are listed in DD-MM-YYYY format.
         - Farsi package: **جمهوری اسلامی ایران** → **ایران** (because names have be shortened now due to the new country renaming feature).
     - **Kingdom Thailand**:
         - Farsi package: **ราชอาณาจักรไทย** → **ประเทศไทย** (because names have be shortened now due to the new country renaming feature).
+
+### Loading screens:
+
+- #### Additions:
+
+    - Update "Spearhead" additions:
+        - **XF5U-1**
+        - **AH-56A**
+        - **Hawk 200**
+        - **EBRC Jaguar**
+
+- #### Changes:
+
+    - Update "Spearhead" changes:
+        - **Hawk 200** → **Hawk 200 (ZH200)**.
+    - **T-44 №1** (profile header) → **T-44 (№ 1)**.
+
 
 ## 1.14.02 - 23-10-2025
 

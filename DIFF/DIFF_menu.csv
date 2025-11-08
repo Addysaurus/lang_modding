@@ -17,17 +17,24 @@ armor_class/auxiliary_power_unit;Auxiliary power unit
 armor_class/desc/auxiliary_power_unit;Auxiliary power unit. Supply power to the vehicle when main engine is shutdown
 armor_class/slip_ring;APU
 armor_class/desc/slip_ring;Slip ring. Transfer power from hull to turret
+armor_class/cockpit_control;Flight control system
+armor_class/desc/cockpit_control;If it fails, these systems cannot be used:
 item/dailyUniversalSpare;Daily universal backup
 items/dailyUniversalSpare/description;Every day you receive <color=@activeTextColor>{max_count}</color> {max_count=free universal backup/free universal backups}, which can be used to respawn on any vehicle.
 items/dailyUniversalSpare/remaining;Remaining number of daily backups
 items/dailyUniversalSpare/updateTime;Their numbers is updated daily at <color=@activeTextColor>{time}</color>.
 items/dailyUniversalSpare/noLeftSparesMsg;All daily universal backups are used up, please select another universal backup or another vehicle to spawn.
+armor_class/armor3_5;Steel 3,5 mm
 armor_meterial/material;Material
 armor_meterial/thickness_rha;Equivalent armor thickness (RHA)
 armor_meterial/steel;Steel
 armor_meterial/kevlar;Kevlar
 armor_meterial/ceramic;Ceramic
 battlePass/seasonName/21;"""Brave Archer"""
+loading_bg/login_layer_xf5u;XF5U-1
+loading_bg/login_layer_ah_56a;AH-56A
+loading_bg/login_layer_hawk_200;Hawk 200
+loading_bg/login_layer_jaguar_ebrc;EBRC Jaguar
 item/cardicon_tanker_us_trophy;"""US Tankers"" Profile Icons"
 item/cardicon_tanker_ger_trophy;"""German Tankers"" Profile Icons"
 item/cardicon_tanker_ussr_trophy;"""USSR Tankers"" Profile Icons"
@@ -48,7 +55,7 @@ ship/repair;Repair
 ship/extinguishing;Extinguishing
 ship/unwatering;Unwatering
 ship/notSelectedPreset;"Switching between the selected sets in combat is done using the keys:
-{{ID_SHIP_ACTION_BAR_ITEM_6}} {{ID_SHIP_ACTION_BAR_ITEM_11}} {{ID_REPAIR_BREACHES}}"
+{{ID_SHIP_DAMAGE_CONTROL_PRESET_1}} {{ID_SHIP_DAMAGE_CONTROL_PRESET_2}} {{ID_SHIP_DAMAGE_CONTROL_PRESET_3}}"
 ship/damageControlActionPrioritet;<color=@goodTextColor>{action} process is in priority.</color> All three processes can be launched simultaneously. In that case prioritized process always works first.
 ship/damageControlRepairText;Repair
 ship/damageControlExtinguishText;Extinguish
@@ -58,8 +65,10 @@ ship/damageControlSpec;  <color={color}>x{k}</color> <color=@activeTextColor>to 
 ship/damageControlSpecActionRepairText;repairing
 ship/damageControlSpecActionExtinguishText;extinguishing
 ship/damageControlSpecActionUnwaterText;unwatering
+profile_header_xf5u/name;XF5U
 frame_halloween_pumpkins/name;Through the Dark Forest
 frame_halloween_witch/name;Witch Hunt
+frame_pancakes/name;Pancakes
 countriesAppearance/title;Selection of research countries appearance
 countriesAppearance/useOperatorFlagsInBattle;Use operator flags in battle
 countriesAppearance/useOperatorFlagsInBattle/tooltip;Use vehicle operator flags in the battle statistics instead of research country flags.
@@ -67,7 +76,10 @@ countriesAppearance/options/appearance;Appearance
 countriesAppearance/options/style;Style
 countriesAppearance/styles/default;Show flag and name
 countriesAppearance/styles/only_flag;Show flag only
-countriesAppearance/styles/only_name;Show title only
-countriesAppearance/notAvailableMsg;Purchase your first vehicle from this operator to be able to use its flag and name
+countriesAppearance/styles/only_name;Show name only
+countriesAppearance/notAvailableMsg;Purchase your first vehicle of this operator to be able to use its flag and name
 mainmenu/probability_info;Probability information
 mainmenu/apply_to_all;Apply to all
+mainmenu/resetToAllCountries;Reset for all countries
+mainmenu/resetToAllCountries/tooltip;All changes made to the appearance of research countries will be reset.
+mainmenu/resetToAllCountries/msg;Do you wish to reset all changes made to the appearance of research countries?

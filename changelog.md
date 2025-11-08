@@ -311,7 +311,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AN/APG-66(V)3**
         - **L-150-14**
         - **Antares**
-    - **Targeting pod** → **Bullpup Control Pod** The guidance pod for using Bullpup AGMs on the FJ-4B (VMF-232). It doesn't appear to have any sort of JETDS `AN/Axx` designation, unfortunately.
+    - **Targeting pod** → **Bullpup Control Pod**. The guidance pod for using Bullpup AGMs on the FJ-4B (VMF-232). It doesn't appear to have any sort of JETDS `AN/Axx` designation, unfortunately.
 
 - #### Changes:
 

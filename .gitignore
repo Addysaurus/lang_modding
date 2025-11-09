@@ -1,0 +1,13 @@
+# directories to ignore
+DEV/
+DEV2/
+DIFF/
+venv/
+
+# files to ignore
+.DS_store
+F_localization.blk
+F_readme.md
+diff_checker.py
+readme.md
+translit.py

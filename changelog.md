@@ -156,6 +156,8 @@ All dates are listed in DD-MM-YYYY format.
     - **M48A2 GMS** (Israel) → **Draḳon**. Statcard name → **Ford Aerospace & Communications Corporation | Draḳon**.
     - **87RCV**: Statcard name → **Komatsu Seisaku KS130W | 87 Shiki Teisatsu Keikaisha "Burakkuai"**.
         - Japanese package: **87RCV**: Statcard name → **小松製作 KS130W | 87式偵察警戒車「ブラックアイ」**.
+    - **CTWV (RCV)** → **25RCV**. Statcard name → **Mitsubishi Jū Kōgyō | 25 Shiki Teisatsu Keikaisha**.
+        - Japanese package: **CTWV (RCV)** → **25RCV**. Statcard name → **三菱重工業 | 25式偵察警戒車**.
     - Corrected the long distance name of the **F/A18 C** and **F/A18 C (Upgrade 25)** to **F/A18**.
     - **T-44 №1** → **T-44 (№ 1)**.
 

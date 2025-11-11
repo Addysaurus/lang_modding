@@ -33,6 +33,7 @@ All dates are listed in DD-MM-YYYY format.
         - **XF5U-1**
         - **F-15C Golden Eagle**
         - **AH-56A**
+        - **LVT(A)(1) (M24)**
         - **M44/M55** (folder)
         - **M56/M50** (folder)
         - **M247/Chaparral** (folder)
@@ -89,8 +90,9 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Spearhead" changes:
         - **XF5U-1**: Statcard name → **Vought-Sikorsky Aircraft | XF5U-1 "Flying Flapjack"**.
-        - **F-15C Golden Eagle** → **F-15C-33-MC (RIP) (PASS)**. Statcard name → **Boeing Defense, Space & Security | F-15C-33-MC Eagle (Radar Improvement Program) (Passive Attack Sensor System)**. This goddamn plane has been a nightmare of unimaginable proportions to research jesus i hope to never see it again
+        - **F-15C Golden Eagle** → **F-15C-33-MC (RIP) (PASS)**. Statcard name → **Boeing Defense, Space & Security | F-15C-33-MC Eagle (Radar Improvement Program) (Passive Attack Sensor System)**. This goddamn plane has been a nightmare of unimaginable proportions to research jesus i hope to never see it again...
         - **AH-56A**: Statcard name → **Lockheed Corporation CL-840 | Helicopter, Attack, AH-56A Cheyenne**.
+        - **LVT(A)(1) (M24)** → **LVT(A)(1) (M6)**. Statcard name → **Food Machinery Corporation | Landing Vehicle, Tracked (Armored) (Mk. 1) (Gun, 75mm, M6)**.
         - **M44/M55** (folder) → **M44 / M55**.
         - **M56/M50** (folder) → **M56 / M50**.
         - **M247/Chaparral** (folder) → **M247 / 48A2 GMS**.

@@ -232,7 +232,7 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: **410 mm Type 91 APC** → **四一糎九一式徹甲弾**.
         - **7.62 mm T74 machine gun** → **T74 7.62 Gōnglí Jīqiāng**.
         - **7.62 mm T74V machine gun** → **T74V 7.62 Gōnglí Tóngzhóu Jīqiāng**.
-        - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
+        - **YJ-81(k)** → **H/AKJ08**. Long name → **YJ81 | H/AKJ08 Kōng Jiàn Daodàn**.
         - **BA-11A** → **BA-11**. Long name → **Blue Arrow 11 Air-to-Surface Missile**.
         - **Drop tank (330 gal.)** → **Drop tank (330 L)** (this is not an incorrect conversion, Gaijin just wrote gallons even though the tank is actually 330 L).
         - **7.62 mm FN MAG 58 machine gun** → **FN MAG 58**.

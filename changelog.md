@@ -24,6 +24,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - 2 new packages have been added: the Original Country Names package and the Full Original Country Names package. Because nation names and flags can now be changed, this replaces the system for country names that are not the research nation of "X / Y". Instead, all countries will have a translated name by default. The Original Country Names package turns everything into their original country names, but transliterates non-Latin scripts. The Full Original Country Names package does the same, but uses the original scripts (except for India because the game does not support the Devanagari script smh). In cases where a country has more than 1 official language for its name, the most common language is used (e.g. Flemish for the Netherlands and Zulu for South Africa).
     - This mod's format for weapon modifications has changed, including the addition of names for pylons in the modification description where I can actually find the names. With this, the Japanese Full Ammunition Names package has been removed since it was only for the old modifications format. It'll come back eventually when I redo some Japanese weapons proper, but for now, it would just be an empty file, so it has been axed (it's entry does still exist in `localization.blk` in case you want the modification for just the ASM-1 and ASM-2 back though).
+    - I would like to welcome Violet to the mod team!
 
 ### Vehicles:
 
@@ -33,6 +34,7 @@ All dates are listed in DD-MM-YYYY format.
         - **XF5U-1**
         - **F-15C Golden Eagle**
         - **AH-56A**
+        - **LVT(A)(1) (M24)**
         - **M44/M55** (folder)
         - **M56/M50** (folder)
         - **M247/Chaparral** (folder)
@@ -72,7 +74,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Oplot-M** (China / Pakistan)
         - **MB-326K**
         - **C13/TUA**
-        - **Littorio**
+        - **RN Italia**
         - **Fokker D.XXIII**
         - **AH-64E** (France / Netherlands)
         - **M44/M55** (folder) (France / Belgium)
@@ -89,8 +91,9 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Spearhead" changes:
         - **XF5U-1**: Statcard name → **Vought-Sikorsky Aircraft | XF5U-1 "Flying Flapjack"**.
-        - **F-15C Golden Eagle** → **F-15C-33-MC (RIP) (PASS)**. Statcard name → **Boeing Defense, Space & Security | F-15C-33-MC Eagle (Radar Improvement Program) (Passive Attack Sensor System)**. This goddamn plane has been a nightmare of unimaginable proportions to research jesus i hope to never see it again
+        - **F-15C Golden Eagle** → **F-15C-33-MC (RIP) (PASS)**. Statcard name → **Boeing Defense, Space & Security | F-15C-33-MC Eagle (Radar Improvement Program) (Passive Attack Sensor System)**. This goddamn plane has been a nightmare of unimaginable proportions to research jesus i hope to never see it again...
         - **AH-56A**: Statcard name → **Lockheed Corporation CL-840 | Helicopter, Attack, AH-56A Cheyenne**.
+        - **LVT(A)(1) (M24)** → **LVT(A)(1) (M6)**. Statcard name → **Food Machinery Corporation | Landing Vehicle, Tracked (Armored) (Mk. 1) (Gun, 75mm, M6)**.
         - **M44/M55** (folder) → **M44 / M55**.
         - **M56/M50** (folder) → **M56 / M50**.
         - **M247/Chaparral** (folder) → **M247 / 48A2 GMS**.
@@ -113,7 +116,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Hawk 200** → **Hawk 200 (ZH200)**. Statcard name → **British Aerospace Hawk 200 (ZH200)**.
         - **Hawk 200 RDA** → **Hawk 200 (RDA)**. Statcard name → **British Aerospace Hawk 200 (Radar Development Aircraft)**.
         - **Hawk 200** (folder) → **Hawk 200 (ZH200) / (RDA)**.
-        - **AH Mk2** → **Apache A.H. Mk. 2**. Statcard name → **Boeing Defense, Space & Security | Apache A.H. Mk. 2**.
+        - **AH Mk.2 Apache** → **Apache A.H. Mk. 2**. Statcard name → **Boeing Defense, Space & Security | Apache A.H. Mk. 2**.
         - **HMS Centurion** → **HMS Centurion (12)**. Statcard name → **Devonport Royal Dockyard | King George V-class | HMS Centurion (12)**.
         - **Cromwell/Sherman** (folder) → **Cromwell, Mk. V / I / Sherman, Mk. II**.
         - **Chieftain Mk 900** → **Chieftain 900**. Statcard name → **British Leyland Motor Corporation / Royal Ordnance Factories Chieftain 900**.
@@ -127,14 +130,14 @@ All dates are listed in DD-MM-YYYY format.
         - **IJN Musashi** → **Musashi**. Statcard name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Musashi (1943)**.
             - Japanese package: **IJN Musashi** → **武蔵**. Statcard name → **三菱重工業長崎造船所 / 呉海軍工廠 | 大和型戦艦 (A-140F6) | 武蔵 (1943)**.
         - **JH-7** → **H/JJH7**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7 Xíng Fēijī "Fēi Bào"**. I know it looks weird next to other Chinese planes, I promise the rest are going to be moved over to this system soon with the China rework
-        - **JH-7A Prototype** → **K/JJH7A (811 Hào)**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī "Fēi Bào" (Yàngchē 811 Hào)**.
+        - **JH-7A Prototype** → **K/JJH7A (prototype)**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī "Fēi Bào" (prototype)**.
         - **AH-64E** (China / Taiwan) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | AH-64E Zhàndòu Zhíshēngjī (Capability Version 6)**.
         - **CM34**: Statcard name → **Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 Lún Xíng Zhàndòu Chē**.
         - **Oplot-M** (China / Pakistan) → **BM Oplot-T**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-T | Bojova mašina Oplot-T**. It's quite confusing, but after a lot of checking of the AC unit and a bit of the APU too, it does appear to be the Oplot-M.
             - Ukrainian package: **Oplot-M** (China / Pakistan) → **БМ Оплот-М**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Об'єкт 478ДУ9-1 | Бойова машина Оплот-М**.
         - **MB-326K**: Statcard name → **Aermacchi MB-326K** (internal designation that the Italian air force then adopted).
         - **C13/TUA** → **C 13 (TUA)**. Statcard name → **OTO Melara C 13 con sistema d'arma TUA**. This thing is so complictaed and information is so scant.
-        - **Littorio** → **Italia**. Statcard name → **Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Littorio (1942)**.
+        - **RN Italia** → **Italia**. Statcard name → **Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Italia**.
         - **Fokker D.XXIII** → **D.XXIII**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXIII**.
         - **Stormer/Strela** (folder) → **☸ 9A33BM2 / 35M**.
         - **AH-64E** (France / Netherlands) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**.
@@ -160,6 +163,7 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: **CTWV (RCV)** → **25RCV**. Statcard name → **三菱重工業 | 25式偵察警戒車**.
     - Corrected the long distance name of the **F/A18 C** and **F/A18 C (Upgrade 25)** to **F/A18**.
     - **T-44 №1** → **T-44 (№ 1)**.
+    - **C-13 (90/38)** → **C 13 (T 90 CKL)**. Statcard name → **OTO Melara C 13 con torretta T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38**.
 
 ### Weaponry:
 
@@ -232,7 +236,7 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: **410 mm Type 91 APC** → **四一糎九一式徹甲弾**.
         - **7.62 mm T74 machine gun** → **T74 7.62 Gōnglí Jīqiāng**.
         - **7.62 mm T74V machine gun** → **T74V 7.62 Gōnglí Tóngzhóu Jīqiāng**.
-        - **YJ-81(k)** → **H/AKJ81**. Long name → **YJ81 | H/AKJ81 Kōng Jiàn Daodàn**.
+        - **YJ-81(k)** → **H/AKJ08**. Long name → **YJ81 | H/AKJ08 Kōng Jiàn Daodàn**.
         - **BA-11A** → **BA-11**. Long name → **Blue Arrow 11 Air-to-Surface Missile**.
         - **Drop tank (330 gal.)** → **Drop tank (330 L)** (this is not an incorrect conversion, Gaijin just wrote gallons even though the tank is actually 330 L).
         - **7.62 mm FN MAG 58 machine gun** → **FN MAG 58**.

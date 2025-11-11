@@ -61,14 +61,16 @@ Available packages:
 - Other packages:
   - Full Ammunition Names
     - This packages introduces the full names of ammunition that may be too long to be convenient for use.
-  - Full Ammunition Names - Japanese
-    - Version of the Full Ammunition Names package that puts the full names of Japanese weapons and ammunition in Japanese to go along with the main Japanese package.
   - Finnish Ps. Designators
     - This packages makes the short names of Finnish ground vehicles their Ps. designations.
+  - Original Country Names
+    - This packages gives every country its native name instead of any exonyms, transliterating from non-latin writing systems (e.g. Germany becomes Deutschland, China becomes Zhōngguó, etc.).
+  - Original Country Names
+    - This packages gives every country its native name instead of any exonyms, including in languages that use non-latin writing systems (e.g. Germany becomes Deutschland, China becomes 中国, etc.).
 
 ## The mod team
 
-In addition to me (WarTinder), the mod team also has 5 other members: Theren, Odican, czartraktheprotogen, ph41te, and Romacotta. All have been extremely helpful and I would like to thank them greatly.
+In addition to me (WarTinder), the mod team also has 6 other members: Theren, Odican, czartraktheprotogen, ph41te, Romacotta, and Violet. All have been extremely helpful and I would like to thank them greatly.
 
 ## Additional things to know
 

@@ -16,7 +16,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.15.00 - UNRELEASED, WIP
+## 1.15.00 - 11-11-2025
 
 ### General:
 

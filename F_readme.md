@@ -45,7 +45,9 @@ Available packages:
 - Other packages:
   - Full Ammunition Names
     - This packages introduces the full names of ammunition that may be too long to be convenient for use.
-  - Full Ammunition Names - Japanese
-    - Version of the Full Ammunition Names package that puts the full names of Japanese weapons and ammunition in Japanese to go along with the main Japanese package.
   - Finnish Ps. Designators
     - This packages makes the short names of Finnish ground vehicles their Ps. designations.
+  - Original Country Names
+    - This packages gives every country its native name instead of any exonyms, transliterating from non-latin writing systems (e.g. Germany becomes Deutschland, China becomes Zhōngguó, etc.).
+  - Original Country Names
+    - This packages gives every country its native name instead of any exonyms, including in languages that use non-latin writing systems (e.g. Germany becomes Deutschland, China becomes 中国, etc.).

@@ -72,7 +72,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Oplot-M** (China / Pakistan)
         - **MB-326K**
         - **C13/TUA**
-        - **Littorio**
+        - **RN Italia**
         - **Fokker D.XXIII**
         - **AH-64E** (France / Netherlands)
         - **M44/M55** (folder) (France / Belgium)
@@ -113,7 +113,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Hawk 200** → **Hawk 200 (ZH200)**. Statcard name → **British Aerospace Hawk 200 (ZH200)**.
         - **Hawk 200 RDA** → **Hawk 200 (RDA)**. Statcard name → **British Aerospace Hawk 200 (Radar Development Aircraft)**.
         - **Hawk 200** (folder) → **Hawk 200 (ZH200) / (RDA)**.
-        - **AH Mk2** → **Apache A.H. Mk. 2**. Statcard name → **Boeing Defense, Space & Security | Apache A.H. Mk. 2**.
+        - **AH Mk.2 Apache** → **Apache A.H. Mk. 2**. Statcard name → **Boeing Defense, Space & Security | Apache A.H. Mk. 2**.
         - **HMS Centurion** → **HMS Centurion (12)**. Statcard name → **Devonport Royal Dockyard | King George V-class | HMS Centurion (12)**.
         - **Cromwell/Sherman** (folder) → **Cromwell, Mk. V / I / Sherman, Mk. II**.
         - **Chieftain Mk 900** → **Chieftain 900**. Statcard name → **British Leyland Motor Corporation / Royal Ordnance Factories Chieftain 900**.
@@ -134,7 +134,7 @@ All dates are listed in DD-MM-YYYY format.
             - Ukrainian package: **Oplot-M** (China / Pakistan) → **БМ Оплот-М**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Об'єкт 478ДУ9-1 | Бойова машина Оплот-М**.
         - **MB-326K**: Statcard name → **Aermacchi MB-326K** (internal designation that the Italian air force then adopted).
         - **C13/TUA** → **C 13 (TUA)**. Statcard name → **OTO Melara C 13 con sistema d'arma TUA**. This thing is so complictaed and information is so scant.
-        - **Littorio** → **Italia**. Statcard name → **Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Littorio (1942)**.
+        - **RN Italia** → **Italia**. Statcard name → **Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Corazzata Classe Littorio | Italia**.
         - **Fokker D.XXIII** → **D.XXIII**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | D.XXIII**.
         - **Stormer/Strela** (folder) → **☸ 9A33BM2 / 35M**.
         - **AH-64E** (France / Netherlands) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)**.

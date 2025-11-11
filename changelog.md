@@ -127,7 +127,7 @@ All dates are listed in DD-MM-YYYY format.
         - **IJN Musashi** → **Musashi**. Statcard name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Musashi (1943)**.
             - Japanese package: **IJN Musashi** → **武蔵**. Statcard name → **三菱重工業長崎造船所 / 呉海軍工廠 | 大和型戦艦 (A-140F6) | 武蔵 (1943)**.
         - **JH-7** → **H/JJH7**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7 Xíng Fēijī "Fēi Bào"**. I know it looks weird next to other Chinese planes, I promise the rest are going to be moved over to this system soon with the China rework
-        - **JH-7A Prototype** → **K/JJH7A (811 Hào)**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī "Fēi Bào" (Yàngchē 811 Hào)**.
+        - **JH-7A Prototype** → **K/JJH7A (prototype)**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī "Fēi Bào" (prototype)**.
         - **AH-64E** (China / Taiwan) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | AH-64E Zhàndòu Zhíshēngjī (Capability Version 6)**.
         - **CM34**: Statcard name → **Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 Lún Xíng Zhàndòu Chē**.
         - **Oplot-M** (China / Pakistan) → **BM Oplot-T**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-T | Bojova mašina Oplot-T**. It's quite confusing, but after a lot of checking of the AC unit and a bit of the APU too, it does appear to be the Oplot-M.

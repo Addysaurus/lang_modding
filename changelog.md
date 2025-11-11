@@ -24,6 +24,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - 2 new packages have been added: the Original Country Names package and the Full Original Country Names package. Because nation names and flags can now be changed, this replaces the system for country names that are not the research nation of "X / Y". Instead, all countries will have a translated name by default. The Original Country Names package turns everything into their original country names, but transliterates non-Latin scripts. The Full Original Country Names package does the same, but uses the original scripts (except for India because the game does not support the Devanagari script smh). In cases where a country has more than 1 official language for its name, the most common language is used (e.g. Flemish for the Netherlands and Zulu for South Africa).
     - This mod's format for weapon modifications has changed, including the addition of names for pylons in the modification description where I can actually find the names. With this, the Japanese Full Ammunition Names package has been removed since it was only for the old modifications format. It'll come back eventually when I redo some Japanese weapons proper, but for now, it would just be an empty file, so it has been axed (it's entry does still exist in `localization.blk` in case you want the modification for just the ASM-1 and ASM-2 back though).
+    - I would like to welcome Violet to the mod team!
 
 ### Vehicles:
 
@@ -162,6 +163,7 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: **CTWV (RCV)** → **25RCV**. Statcard name → **三菱重工業 | 25式偵察警戒車**.
     - Corrected the long distance name of the **F/A18 C** and **F/A18 C (Upgrade 25)** to **F/A18**.
     - **T-44 №1** → **T-44 (№ 1)**.
+    - **C-13 (90/38)** → **C 13 (T 90 CKL)**. Statcard name → **OTO Melara C 13 con torretta T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38**.
 
 ### Weaponry:
 

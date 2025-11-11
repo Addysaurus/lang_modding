@@ -41,6 +41,7 @@ All dates are listed in DD-MM-YYYY format.
         - **USS Oregon City**
         - **Tornado IDS SLE**
         - **Raketenautomat/RakJPz** (folder)
+        - **SMS Westfalen/Helgoland** (folder)
         - **SMS König**
         - **Yak-1 Litvyak**
         - **Su-30MK2 AMV** (Venezuela)
@@ -98,6 +99,7 @@ All dates are listed in DD-MM-YYYY format.
         - **USS Oregon City** → **USS Oregon City (CA-122)**. Statcard name → **Fore River Shipyard | Oregon City-class Heavy Cruiser | USS Oregon City (CA-122)**.
         - **Tornado IDS SLE** → **IDS-Tornado (SLE)**. Statcard name → **Panavia Aircraft PA-200 | IDS-Tornado (Service Life Enhancement Program)**.
         - **Raketenautomat/RakJPz** (folder) → **SPz 12-3 (Typ 3Z 8DLA) / RakJPz 2**.
+        - **SMS Westfalen/Helgoland** (folder) → **SMS Westfalen / Helgoland**.
         - **SMS König**: Statcard name → **Kaiserliche Werft Wilhelmshaven | Schlachtschiff König-Klasse | SMS König (1917)** (construction and refit location are the same).
         - **Yak-1 Litvyak** → **Litvâk's Yak-1**. Statcard name → **Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyet Yak-1**.
         - **Su-30MK2 AMV** (Venezuela) → **Su-30MK2**. Statcard name → **AO «Kompaniâ Sukhoj» | Su-30MK2** (the lack of an izd number is intenional, Venezuela does not use them).

@@ -133,7 +133,7 @@ All dates are listed in DD-MM-YYYY format.
         - **JH-7A Prototype** → **K/JJH7A (prototype)**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī "Fēi Bào" (prototype)**.
         - **AH-64E** (China / Taiwan) → **AH-64E (v6)**. Statcard name → **Boeing Defense, Space & Security | AH-64E Zhàndòu Zhíshēngjī (Capability Version 6)**.
         - **CM34**: Statcard name → **Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 Lún Xíng Zhàndòu Chē**.
-        - **Oplot-M** (China / Pakistan) → **BM Oplot-T**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-T | Bojova mašina Oplot-T**. It's quite confusing, but after a lot of checking of the AC unit and a bit of the APU too, it does appear to be the Oplot-M.
+        - **Oplot-M** (China / Pakistan) → **BM Oplot-M**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-1 | Bojova mašina Oplot-M**. It's quite confusing, but after a lot of checking of the AC unit and a bit of the APU too, it does appear to be the Oplot-M.
             - Ukrainian package: **Oplot-M** (China / Pakistan) → **БМ Оплот-М**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Об'єкт 478ДУ9-1 | Бойова машина Оплот-М**.
         - **MB-326K**: Statcard name → **Aermacchi MB-326K** (internal designation that the Italian air force then adopted).
         - **C13/TUA** → **C 13 (TUA)**. Statcard name → **OTO Melara C 13 con sistema d'arma TUA**. This thing is so complictaed and information is so scant.

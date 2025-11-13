@@ -25,6 +25,16 @@ All dates are listed in DD-MM-YYYY format.
     - **CV9035NL** → **IGV 9035**.
     - **M44 / M55** (folder) (USA & France / Belgium) → **M44 / 55**. The French/Belgian folder's roundel has been corrected.
 
+### Loading screens & profile backgrounds:
+
+- #### Additions:
+
+    - **XF5U** (profile background) (missed this last time)
+
+- #### Changes:
+
+    - **XF5U** (profile background) → **XF5U-1**.
+
 ## 1.15.00 - 11-11-2025
 
 ### General:

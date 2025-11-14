@@ -22,7 +22,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **CV9035NL** → **IGV 9035**.
+    - **CV9035NL** → **IGV 9035**. Statcard name → **BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, IGV 9035 met kanon 35 mm** (removed the accidental comma before "met").
     - **M44 / M55** (folder) (USA & France / Belgium) → **M44 / 55**. The French/Belgian folder's roundel has been corrected.
 
 ### Loading screens & profile backgrounds:

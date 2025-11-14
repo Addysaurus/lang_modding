@@ -16,6 +16,25 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.15.01 - UNRELEASED, WIP
+
+### Vehicles:
+
+- #### Changes:
+
+    - **CV9035NL** → **IGV 9035**.
+    - **M44 / M55** (folder) (USA & France / Belgium) → **M44 / 55**. The French/Belgian folder's roundel has been corrected.
+
+### Loading screens & profile backgrounds:
+
+- #### Additions:
+
+    - **XF5U** (profile background) (missed this last time)
+
+- #### Changes:
+
+    - **XF5U** (profile background) → **XF5U-1**.
+
 ## 1.15.00 - 11-11-2025
 
 ### General:
@@ -373,7 +392,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Iran**:
         - Farsi package: **جمهوری اسلامی ایران** → **ایران** (because names have be shortened now due to the new country renaming feature).
     - **Kingdom Thailand**:
-        - Farsi package: **ราชอาณาจักรไทย** → **ประเทศไทย** (because names have be shortened now due to the new country renaming feature).
+        - Thai package: **ราชอาณาจักรไทย** → **ประเทศไทย** (because names have be shortened now due to the new country renaming feature).
 
 ### Loading screens:
 

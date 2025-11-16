@@ -22,8 +22,10 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **CV9035NL** → **IGV 9035**. Statcard name → **BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, IGV 9035 met kanon 35 mm** (removed the accidental comma before "met").
     - **M44 / M55** (folder) (USA & France / Belgium) → **M44 / 55**. The French/Belgian folder's roundel has been corrected.
+    - **T-351** **T-380**. Statcard name → **Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Ryejdovyye tral'ŝiki proyekt 253L | T-380**. I cannot possibly express how unbelievably difficult this was to track down. I have spent the last year trying to find it, and my saving grace was a random image someone posted on a Russian forum thread I used for research when trying to find this. I used the thread to do my research the first time around, but 6 months ago, someone began posting on that thread again after 2 years of inactivity on that thread with a bunch of new images of it, including 2 images of T-380 which appears to match it exactly. I cannot express how much I hate this vehicle. It has cost me a year of my life. If this thing is truly T-380 and I have finally figured it out, then I can die happy.
+    - **Sovyetskij Soûz**: Statcard name → **Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Linyéjnyj korábl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
+    - Corrected the long distance names of both **K/JJH7A**s to **K/JJH7A** (previously it was accidentally **H/JJH7A**).
 
 ### Loading screens & profile backgrounds:
 

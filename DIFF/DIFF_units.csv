@@ -7,8 +7,11 @@ shop/group/ussr_9a33_35_group;Osa/Strela
 shop/group/ussr_it_9p149_group;IT/Shturm
 shop/group/uk_stormer_9a33_group;Stormer/Osa
 shop/group/uk_stormer_9a35_group;Stormer/Strela
-shop/group/fr_foch_acra_group;Foch/ACRA
+shop/group/fr_m44_55_group;M44/55
+shop/group/us_m44_55_group;M44/55
+shop/group/fr_foch_acra_group;Foch/AMX-10M
 shop/group/uk_cromwell_sherman_group;Cromwell/Sherman
+shop/group/uk_chieftain_mk_10_900_group;Chieftain 10/900
 us_lvt_a1_m24_shop;LVT(A)(1) (M24)
 us_lvt_a1_m24_0;LVT(A)(1) (M24)
 us_lvt_a1_m24_1;LVT(A)(1) (M24)
@@ -45,7 +48,7 @@ xf5u_1_shop;XF5U-1
 xf5u_1_0;XF5U-1
 xf5u_1_1;XF5U-1
 xf5u_1_2;XF5U
-shop/group/mig-hawk_200_group;Hawk 200
+shop/group/hawk_200_group;Hawk 200
 mb_326k_shop;MB-326K
 mb_326k_0;MB-326K
 mb_326k_1;MB-326K
@@ -62,6 +65,10 @@ fokker_d23_shop;◗Fokker D.XXIII
 fokker_d23_0;◗Fokker D.XXIII
 fokker_d23_1;◗Fokker D.XXIII
 fokker_d23_2;◗Fokker
+germ_th_400_shop;R400
+germ_th_400_0;R400
+germ_th_400_1;R400
+germ_th_400_2;Light tank
 il_m113_hvms_shop;Bardelas/60mm HVMS
 il_m113_hvms_0;Bardelas/60mm HVMS
 il_m113_hvms_1;Bardelas/60mm HVMS
@@ -106,10 +113,10 @@ ah_64e_netherlands_shop;◘AH-64E
 ah_64e_netherlands_0;◘AH-64E
 ah_64e_netherlands_1;◘AH-64E
 ah_64e_netherlands_2;◘AH-64E
-ah_64e_britain_shop;AH Mk2
-ah_64e_britain_0;AH Mk2
-ah_64e_britain_1;AH Mk2
-ah_64e_britain_2;AH Mk2
+ah_64e_britain_shop;AH Mk.2 Apache
+ah_64e_britain_0;AH Mk.2 Apache
+ah_64e_britain_1;AH Mk.2
+ah_64e_britain_2;AH Mk.2
 ah_56a_shop;AH-56A
 ah_56a_0;AH-56A
 ah_56a_1;AH-56A
@@ -159,9 +166,9 @@ us_pgm_9_class_shop;PGM-9
 us_pgm_9_class_0;PGM-9-class, PGM-9
 us_pgm_9_class_1;PGM-9
 us_pgm_9_class_2;Gunboat
-it_battleship_littorio_class_littorio_shop;RN Littorio
-it_battleship_littorio_class_littorio_0;Littorio-class, RN Littorio, 1943
-it_battleship_littorio_class_littorio_1;RN Littorio
+it_battleship_littorio_class_littorio_shop;RN Italia
+it_battleship_littorio_class_littorio_0;Littorio-class, RN Italia, 1943
+it_battleship_littorio_class_littorio_1;RN Italia
 it_battleship_littorio_class_littorio_2;Battleship
 uk_battleship_centurion_shop;HMS Centurion
 uk_battleship_centurion_0;King George V-class, HMS Centurion (12), 1913

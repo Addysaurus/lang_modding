@@ -2,11 +2,11 @@
 //AMMUNITION
 30mm_china_HE;CS/BAH06式30毫米杀伤爆破燃烧弹
 30mm_china_PTFP;CS/BAE5型30毫米定距预制破片弹
-30mm_zpz02_hei;L/DTY02式30毫米杀伤爆破燃烧弹
-30mm_zpz02_apds;L/DTC04式30毫米穿甲弹
-30mm_dtc10_30;L/DTC10式30毫米穿甲弹
-73mm_type_85_he;L/DYS73式73毫米钢珠杀伤榴弹
-73mm_type_85_heat;L/DYP73式73毫米破甲弹
+30mm_zpz02_hei;DTY02式30毫米杀伤爆破燃烧弹
+30mm_zpz02_apds;DTC04式30毫米穿甲弹
+30mm_dtc10_30;DTC10式30毫米穿甲弹
+73mm_type_85_he;DYS73式73毫米钢珠杀伤榴弹
+73mm_type_85_heat;DYP73式73毫米破甲弹
 type_44_he;1959年式100毫米坦克炮杀伤爆破榴弹
 type_44_ap;1959年式100毫米坦克炮穿甲弹
 100mm_type1959;1959年式100毫米坦克炮钨头穿甲弹
@@ -18,6 +18,7 @@ type_44_ap;1959年式100毫米坦克炮穿甲弹
 105mm_type_75_heat;DTP/PW75式105毫米破甲弹
 105mm_type_75_hesh;DTJ/PW75式105毫米碎甲弹
 105mm_btm_1;BTM1式105毫米混凝土破坏弹
+105mm_dtb_1_he;DTB1式105毫米杀伤爆破榴弹
 105mm_dtw2_105;DTW2式105毫米穿甲弹
 120mm_122tm_steel;1971年式120毫米滑膛坦克炮脱壳超速穿甲弹
 120mm_122tm_tungsten;1971年式120毫米滑膛坦克炮钨头脱壳超速穿甲弹
@@ -25,7 +26,7 @@ type_44_ap;1959年式100毫米坦克炮穿甲弹
 120mm_122tm_heat;1971年式120毫米滑膛坦克炮破甲弹
 120mm_dyw_1;DYW/PTZ89式120毫米穿甲弹
 120mm_dys_120;DYS/PTZ89式120毫米杀伤榴弹
-125mm_dtc10_125;L/DTC10式125毫米穿甲弹
+125mm_dtc10_125;DTC10式125毫米穿甲弹
 125mm_bta4;BTA4型125毫米穿甲弹
 130mm_djb_1;DJB2/PL59A式130毫米杀伤爆破榴弹
 130mm_djb_1_vt;DJB3/PL59A式130毫米杀伤爆破榴弹
@@ -42,7 +43,7 @@ fb10_rocket;FB10地對空导弹
 fb10a_rocket;FB10A地對空导弹
 atgm_302;302反坦克导弹
 weapons/atgm_302/short;302
-152mm_hj9;L/AFT09重型反坦克导弹
-239mm_hq17;L/ADK17地對空导弹
+152mm_hj9;AFT09重型反坦克导弹
+239mm_hq17;ADK17地對空导弹
 127mm_tc_1l;劍一飛彈
 72mm_hn_6;HN6地對空导弹

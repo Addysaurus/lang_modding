@@ -32,7 +32,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Sovyetskij Soûz**: Statcard name → **Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Linyéjnyj korábl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
     - Corrected the long distance names of both **K/JJH7A**s to **K/JJH7A** (previously it was accidentally **H/JJH7A**).
     - **T-80UD (DU1)** → **T-80UD (478DU1)**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova / Kharkìvs'kij zavod transportnogo mašinobuduvannâ ìm. V. O. Mališyeva | Ob'êkt 478DU1 | T-80UD Byeryeza**.
-        - Ukrainian package: **T-80UD (DU1)** **Т-80УД (478ДУ1)**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova / Kharkìvs'kij zavod transportnogo mašinobuduvannâ ìm. V. O. Mališyeva | Ob'êkt 478DU1 | T-80UD Byeryeza**.
+        - Ukrainian package: **T-80UD (DU1)** → **Т-80УД (478ДУ1)**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova / Kharkìvs'kij zavod transportnogo mašinobuduvannâ ìm. V. O. Mališyeva | Ob'êkt 478DU1 | T-80UD Byeryeza**.
 
 ### Loading screens & profile backgrounds:
 
@@ -4587,7 +4587,7 @@ You do not need to actually know how this works. I am including this in here in 
         - Note: Some transliterations do not have the proper pinyin diacritics because the game cannot render them. For example, the **QJT86 7.62 háomi chēzai jīqiāng** should be the **QJT86 7.62 háomǐ chēzǎi jīqiāng**, but the game does not render the characters "ǐ" and "ǎ".
         - **QJT86 7.62mm Vehicle Machine Gun** renamed to **QJT1986 7.62 háomi chēzai jīqiāng**.
         - **QJC88A 12.7mm Vehicle Anti-Aircraft Machine Gun** renamed to **QJC1988A 12.7 háomi chēzai gāoshè jīqiāng**.
-        - **ZPL63 85mm Tank Gun** renamed to ** **ZPL1963 85 háomi tankè pào**.
+        - **ZPL63 85mm Tank Gun** renamed to **ZPL1963 85 háomi tankè pào**.
         - **105 mm ZPL94 cannon** renamed to **ZPL1994 105 háomi tankè pào**.
         - **12.7 mm Type 54 machine gun** renamed to **QJC1954 12.7 háomi chēzai gāoshè jīqiāng**.
         - **7.62 mm Type 55 machine gun** renamed to **QJT1955 7.62 háomi chēzai jīqiāng**.

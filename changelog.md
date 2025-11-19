@@ -34,6 +34,12 @@ All dates are listed in DD-MM-YYYY format.
     - **T-80UD (DU1)** → **T-80UD (478DU1)**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova / Kharkìvs'kij zavod transportnogo mašinobuduvannâ ìm. V. O. Mališyeva | Ob'êkt 478DU1 | T-80UD Byeryeza**.
         - Ukrainian package: **T-80UD (DU1)** → **Т-80УД (478ДУ1)**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova / Kharkìvs'kij zavod transportnogo mašinobuduvannâ ìm. V. O. Mališyeva | Ob'êkt 478DU1 | T-80UD Byeryeza**.
 
+### Weaponry:
+
+- #### Changes:
+
+    - **70 mm Hydra-70 M247 rocket** → **2.75-inch, HEDP, M247**. Long name → **Rocket Warhead, 2.75-inch, HEDP, M247**.
+
 ### Loading screens & profile backgrounds:
 
 - #### Additions:

@@ -16,7 +16,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.15.01 - UNRELEASED, WIP
+## 1.15.01 - 19-11-2025
 
 ### Vehicles:
 
@@ -32,8 +32,8 @@ All dates are listed in DD-MM-YYYY format.
     - **T-351** → **T-380**. Statcard name → **Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Ryejdovyye tral'ŝiki proyekt 253L | T-380**. I cannot possibly express how unbelievably difficult this was to track down. I have spent the last year trying to find it, and my saving grace was a random image someone posted on a Russian forum thread I used for research when trying to find this. I used the thread to do my research the first time around, but 6 months ago, someone began posting on that thread again after 2 years of inactivity on that thread with a bunch of new images of it, including 2 images of T-380 which appears to match it exactly. I cannot express how much I hate this vehicle. It has cost me a year of my life. If this thing is truly T-380 and I have finally figured it out, then I can die happy.
     - **Sovyetskij Soûz**: Statcard name → **Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Linyéjnyj korábl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
     - Corrected the long distance names of both **K/JJH7A**s to **K/JJH7A** (previously it was accidentally **H/JJH7A**).
-    - **T-80UD (DU1)** → **T-80UD (478DU1)**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova / Kharkìvs'kij zavod transportnogo mašinobuduvannâ ìm. V. O. Mališyeva | Ob'êkt 478DU1 | T-80UD Byeryeza**.
-        - Ukrainian package: **T-80UD (DU1)** → **Т-80УД (478ДУ1)**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova / Kharkìvs'kij zavod transportnogo mašinobuduvannâ ìm. V. O. Mališyeva | Ob'êkt 478DU1 | T-80UD Byeryeza**.
+    - **T-80UD (DU1)**: Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova / Kharkìvs'kij zavod transportnogo mašinobuduvannâ ìm. V. O. Mališyeva | Ob'êkt 478DU1 | T-80UD Byeryeza**.
+        - Ukrainian package: **T-80UD (DU1)** → **Т-80УД (ДУ1)**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova / Kharkìvs'kij zavod transportnogo mašinobuduvannâ ìm. V. O. Mališyeva | Ob'êkt 478DU1 | T-80UD Byeryeza**.
     - **Re. 2005 (9-12087A)** → **Re.2005 (9-12087A)**. This one isn't exactly clear, so for right now I'll keep it without the sapce and when we rework Italian air eventually (at some indeterminate point), we'll figure it out properly.
 
 ### Weaponry:

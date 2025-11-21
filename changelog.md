@@ -16,6 +16,14 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.15.02 - UNRELEASED, WIP
+
+### Weaponry:
+
+- #### Changes:
+
+    - Corrected the type tag on both Kh-59Ms to AGM-TV (it was TV/GNSS on dev and I didn't realize they had changed it).
+
 ## 1.15.01 - 19-11-2025
 
 ### Vehicles:

@@ -22,7 +22,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **TH 400** → **H 400 (L7A3)**. Statcard name → **Henschel Wehrtechnik TH 400 (Gun, 105mm, Tank, L7A3)**.
+    - **TH 400** → **H 400 (L7A3)**. Statcard name → **Henschel Wehrtechnik H 400 (Gun, 105mm, Tank, L7A3)**.
 
 ### Weaponry:
 

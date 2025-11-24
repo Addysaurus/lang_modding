@@ -107,14 +107,18 @@ type_44_ap;59式100毫米穿甲弹
 155mm_plz_05_he_vt;DLXA/PLZ05-155 (VTF)
 
 //ROCKETS
+weapons/cn_fs_70;FS70航空火箭弹 <color=#ff6f00>RKT</color>
+weapons/cn_fs_70/short;FS70
+weapons/cn_fire_snake_70a;GR5航空制导火箭弹 <color=#ff6f00>RKT-GNSS</color>
+weapons/cn_fire_snake_70a/short;GR5
 weapons/cn_type90_he;90毫米1型航空火箭杀伤爆破弹 <color=#ff6f00>RKT</color>
 weapons/cn_type90_he/short;90-1型 (杀爆弹)
 weapons/cn_type90_heat;90毫米1型航空火箭破甲弹 <color=#ff6f00>RKT</color>
 weapons/cn_type90_heat/short;90-1型 (破甲)
-weapons/cn_fs_70;FS70航空火箭弹 <color=#ff6f00>RKT</color>
-weapons/cn_fs_70/short;FS70
-weapons/cn_fire_snake_70a;FS70A航空制导火箭弹 <color=#ff6f00>RKT-GNSS</color>
-weapons/cn_fire_snake_70a/short;FS70A
+weapons/cn_fire_snake_90a_brm1;BRM1型90毫米航空制导火箭弹 <color=#ff6f00>RKT-LG</color>
+weapons/cn_fire_snake_90a_brm1/short;BRM1
+weapons/cn_type130_ap;130毫米2型航空火箭杀伤爆破弹 <color=#ff6f00>RKT</color>
+weapons/cn_type130_ap/short;130-2型
 
 //MISSILES
 weapons/su_pl2;PL2 | K/AKK2空空导弹 <color=#ff6f00>AAM-IR</color>

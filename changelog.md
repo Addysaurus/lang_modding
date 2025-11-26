@@ -22,13 +22,18 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **TH 400** → **H 400 (L7A3)**. Statcard name → **Henschel Wehrtechnik H 400 (Gun, 105mm, Tank, L7A3)**.
+    - **TH 400** → **H 400**. Statcard name → **Henschel Wehrtechnik H 400**. The gun model is still wrong though smh...
     - **F5**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chǎng | Chugyŏkgi 《F5》**.
 
 ### Weaponry:
 
+- #### Addison:
+
+    - **105 mm Rh 105-30 cannon**.
+
 - #### Changes:
 
+    - **105 mm Rh 105-30 cannon** → **Rh105-30**.
     - **Type 57-1** → **S-5K**. Statcard name → **Nyeupravlâyemaâ aviaczionnaâ rakyeta S-5K**. Gaijin calls it the Type 57-1, but it's not. It's an S-5K. The Type 57-1 is an HE rocket and is a basic S-5.
     - Corrected the type tag on both Kh-59Ms to AGM-TV (it was TV/GNSS on dev and I didn't realize they had changed it).
 

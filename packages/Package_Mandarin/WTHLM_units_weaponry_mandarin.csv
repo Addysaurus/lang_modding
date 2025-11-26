@@ -10,24 +10,24 @@ weapons/12_7mm_Type_54_user_machinegun;<color=@userlogColoredText>12.7 mm</color
 weapons/12_7mm_type_77_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1977年式12.7毫米高射机枪 <color=#ff6f00>MG</color>
 weapons/12_7mm_QJC_88A_user_machinegun;<color=@userlogColoredText>12.7 mm</color> QJC1988A式12.7毫米车载高射机枪 <color=#ff6f00>MG</color>
 weapons/14_5mm_QJG02_user_machinegun;<color=@userlogColoredText>14.5 mm</color> QJG2002式14.5毫米单管高射机枪 <color=#ff6f00>MG</color>
-weapons/cannonType_23_1;<color=@userlogColoredText>23 mm</color> 23-1型23毫米航空机炮 <color=#ff6f00>ACNN</color>
-weapons/cannonType_23_1_plane;<color=@userlogColoredText>23 mm</color> 23-1型23毫米航空机炮 <color=#ff6f00>ACNN</color>
-weapons/cannonType_23_1_plane_turret;<color=@userlogColoredText>23 mm</color> 23-1型23毫米航空机炮 <color=#ff6f00>ACNN</color>
-weapons/cannonType_23L;<color=@userlogColoredText>23 mm</color> 23L型23毫米航空机炮 <color=#ff6f00>ACNN</color>
-weapons/cannon_type23_2k;<color=@userlogColoredText>23 mm</color> 23-2K型23毫米航空机炮 <color=#ff6f00>ACNN</color>
-weapons/cannonType_23_3;<color=@userlogColoredText>23 mm</color> 23-3型23毫米航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType_23_1;<color=@userlogColoredText>23 mm</color> 23毫米1型航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType_23_1_plane;<color=@userlogColoredText>23 mm</color> 23毫米1型航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType_23_1_plane_turret;<color=@userlogColoredText>23 mm</color> 23毫米1型航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType_23L;<color=@userlogColoredText>23 mm</color> 23毫米3L型航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannon_type23_2k;<color=@userlogColoredText>23 mm</color> 23毫米2K型航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType_23_3;<color=@userlogColoredText>23 mm</color> 23毫米3型航空机炮 <color=#ff6f00>ACNN</color>
 weapons/25mm_PG87_PGZ_user_cannon;<color=@userlogColoredText>25 mm</color> WA717A | PGZ2004A式四管25毫米履带自行高炮 <color=#ff6f00>ACNN</color>
 weapons/25mm_PG87_user_cannon;<color=@userlogColoredText>25 mm</color> WA709 | PG1987式双管25毫米高射机关炮 <color=#ff6f00>ACNN</color>
 weapons/30mm_pgz_625_user_cannon;<color=@userlogColoredText>30 mm</color> 630型30毫米高射机关炮 <color=#ff6f00>ACNN</color>
 weapons/25mm_zpt90_user_cannon;<color=@userlogColoredText>25 mm</color> ZPT1990式25毫米坦克炮 <color=#ff6f00>ACNN</color>
-weapons/cannonType30_1;<color=@userlogColoredText>30 mm</color> 30-1型30毫米航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType30_1;<color=@userlogColoredText>30 mm</color> 30毫米1型航空机炮 <color=#ff6f00>ACNN</color>
 weapons/cannonType30_1/short;30-1型
-weapons/cannonType_30_4;<color=@userlogColoredText>30 mm</color> 30-4型30毫米航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType_30_4;<color=@userlogColoredText>30 mm</color> 30毫米4型航空机炮 <color=#ff6f00>ACNN</color>
 weapons/cannonType_30_4/short;30-4型
 weapons/30mm_ZPZ02_user_cannon;<color=@userlogColoredText>30 mm</color> ZPZ2002式30毫米坦克炮 <color=#ff6f00>ACNN</color>
 weapons/30mm_zpt_99_user_cannon;<color=@userlogColoredText>30 mm</color> ZPZ2002式30毫米坦克炮 <color=#ff6f00>ACNN</color>
 weapons/35mm_PG_99_35_2_user_cannon;<color=@userlogColoredText>35 mm</color> PGZ2009式双35毫米自行高炮 <color=#ff6f00>ACNN</color>
-weapons/cannonType37_1;<color=@userlogColoredText>37 mm</color> 37-1型37毫米航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannonType37_1;<color=@userlogColoredText>37 mm</color> 37毫米1型航空机炮 <color=#ff6f00>ACNN</color>
 weapons/57mm_WA_318_user_cannon;<color=@userlogColoredText>57 mm</color> WA318 | PG1959式57毫米高射炮 <color=#ff6f00>ACNN</color>
 weapons/73mm_Type_85_user_cannon;<color=@userlogColoredText>73 mm</color> 1986年式73毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/85mm_Type_62_85_TC_user_cannon;<color=@userlogColoredText>85 mm</color> 1963年式85毫米坦克炮 <color=#ff6f00>CNN</color>
@@ -107,7 +107,9 @@ type_44_ap;59式100毫米穿甲弹
 155mm_plz_05_he_vt;DLXA/PLZ05-155 (VTF)
 
 //BOMBS
-weapons/cn_ls_500j;<color=@userlogColoredText>570 kg</color> GB1 | K/YJG500B型500公斤激光制导炸弹 <color=#ff6f00>BMB-LG</color>
+weapons/cn_ts_250;<color=@userlogColoredText>260 kg</color> GB250型250公斤激光卫星制导炸弹 <color=#ff6f00>BMB-LG/GNSS</color>
+weapons/cn_ts_250/short;GB250
+weapons/cn_ls_500j;<color=@userlogColoredText>570 kg</color> K/YJG500型500公斤激光制导炸弹 <color=#ff6f00>BMB-LG</color>
 weapons/cn_ls_500j/short;K/YJG500B
 
 //ROCKETS

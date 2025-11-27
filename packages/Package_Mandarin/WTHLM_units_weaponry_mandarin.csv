@@ -109,8 +109,14 @@ type_44_ap;59式100毫米穿甲弹
 //BOMBS
 weapons/cn_ts_250;<color=@userlogColoredText>260 kg</color> GB250型250公斤激光卫星制导炸弹 <color=#ff6f00>BMB-LG/GNSS</color>
 weapons/cn_ts_250/short;GB250
+weapons/cn_ls_6_250;<color=@userlogColoredText>290 kg</color> LS-6型250公斤制导滑翔炸弹 <color=#ff6f00>BMB-GNSS</color>
+weapons/cn_ls_6_250/short;LS-6/250
+weapons/cn_ls_6_500;<color=@userlogColoredText>630 kg</color> LS-6型500公斤制导滑翔炸弹 <color=#ff6f00>BMB-GNSS</color>
+weapons/cn_ls_6_500/short;LS-6/500
 weapons/cn_ls_500j;<color=@userlogColoredText>570 kg</color> K/YJG500型500公斤激光制导炸弹 <color=#ff6f00>BMB-LG</color>
 weapons/cn_ls_500j/short;K/YJG500B
+weapons/cn_ls_1000j;<color=@userlogColoredText>1090 kg</color> GB1000型1000公斤激光卫星制导炸弹 <color=#ff6f00>BMB-LG/GNSS</color>
+weapons/cn_ls_1000j/short;GB1000
 
 //ROCKETS
 weapons/cn_fs_70;FS70航空火箭弹 <color=#ff6f00>RKT</color>

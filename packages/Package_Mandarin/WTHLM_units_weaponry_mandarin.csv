@@ -92,7 +92,7 @@ type_44_ap;59式100毫米穿甲弹
 125mm_dtb_125;DTB-125
 125mm_dtb_12_he;DTB12-125
 125mm_dtp_125;DTP-125
-125mm_125_1;85式125毫米穿甲弹
+125mm_125_1;85-1式125毫米穿甲弹
 125mm_dtw_125;DTW-125
 125mm_dtc10_125;DTC10-125
 125mm_bta4;BTA4-125
@@ -107,16 +107,42 @@ type_44_ap;59式100毫米穿甲弹
 155mm_plz_05_he_vt;DLXA/PLZ05-155 (VTF)
 
 //BOMBS
+weapons/cn_gp_100_2;<color=@userlogColoredText>140 kg</color> 100公斤2型航空爆破炸弹 <color=#ff6f00>BMB</color>
+weapons/cn_gp_100_2/short;100-2型
+weapons/cn_gp_250_2;<color=@userlogColoredText>236 kg</color> 250公斤2型航空爆破炸弹 <color=#ff6f00>BMB</color>
+weapons/cn_gp_250_2/short;250-2型
+weapons/su_ofab250_olive;<color=@userlogColoredText>236.92 kg</color> 250公斤2型航空爆破炸弹 <color=#ff6f00>BMB</color>
+weapons/su_ofab250_olive/short;250-2型
+weapons/cn_gp_250_3;<color=@userlogColoredText>216.5 kg</color> 250公斤3型航空爆破炸弹 <color=#ff6f00>BMB</color>
+weapons/cn_gp_250_3/short;250-3型
+weapons/cn_gp_250_3_default;<color=@userlogColoredText>216.5 kg</color> 250公斤3型航空爆破炸弹 <color=#ff6f00>BMB</color>
+weapons/cn_gp_250_3_default/short;250-3型
+weapons/cn_gp_250_4;<color=@userlogColoredText>240 kg</color> 250公斤4型航空爆破炸弹 <color=#ff6f00>BMB-HD</color>
+weapons/cn_gp_250_4/short;250-4型
+weapons/cn_gp_250_1_incendiary;<color=@userlogColoredText>342 kg</color> 250公斤1型航空爆破燃烧炸弹 <color=#ff6f00>BMB-NPM</color>
+weapons/cn_gp_250_1_incendiary/short;250-1型 (燃烧)
+weapons/cn_gp_250_2_incendiary;<color=@userlogColoredText>135 kg</color> 250公斤1型航空爆破燃烧炸弹 <color=#ff6f00>BMB-NPM</color>
+weapons/cn_gp_250_2_incendiary/short;250-1型 (燃烧)
 weapons/cn_ts_250;<color=@userlogColoredText>260 kg</color> GB250型250公斤激光卫星制导炸弹 <color=#ff6f00>BMB-LG/GNSS</color>
 weapons/cn_ts_250/short;GB250
 weapons/cn_ls_6_250;<color=@userlogColoredText>290 kg</color> LS-6型250公斤制导滑翔炸弹 <color=#ff6f00>BMB-GNSS</color>
 weapons/cn_ls_6_250/short;LS-6/250
+weapons/cn_gp_500_2;<color=@userlogColoredText>473 kg</color> 500公斤2型航空爆破炸弹 <color=#ff6f00>BMB</color>
+weapons/cn_gp_500_2/short;500-2型
+weapons/cn_gp_500_3;<color=@userlogColoredText>469 kg</color> 500公斤3型航空爆破炸弹 <color=#ff6f00>BMB</color>
+weapons/cn_gp_500_3/short;500-3型
+weapons/cn_gp_500_4;<color=@userlogColoredText>508.3 kg</color> 500公斤4型航空爆破炸弹 <color=#ff6f00>BMB-HD</color>
+weapons/cn_gp_500_4/short;500-4型
 weapons/cn_ls_6_500;<color=@userlogColoredText>630 kg</color> LS-6型500公斤制导滑翔炸弹 <color=#ff6f00>BMB-GNSS</color>
 weapons/cn_ls_6_500/short;LS-6/500
 weapons/cn_ls_500j;<color=@userlogColoredText>570 kg</color> K/YJG500型500公斤激光制导炸弹 <color=#ff6f00>BMB-LG</color>
 weapons/cn_ls_500j/short;K/YJG500B
 weapons/cn_ls_1000j;<color=@userlogColoredText>1090 kg</color> GB1000型1000公斤激光卫星制导炸弹 <color=#ff6f00>BMB-LG/GNSS</color>
 weapons/cn_ls_1000j/short;GB1000
+weapons/cn_gp_1500_2;<color=@userlogColoredText>1447 kg</color> 1500公斤2型航空爆破炸弹 <color=#ff6f00>BMB</color>
+weapons/cn_gp_1500_2/short;1500-2型
+weapons/cn_gp_3000_2;<color=@userlogColoredText>2840 kg</color> 3000公斤2型航空爆破炸弹 <color=#ff6f00>BMB</color>
+weapons/cn_gp_3000_2/short;3000-2型
 
 //ROCKETS
 weapons/cn_fs_70;FS70航空火箭弹 <color=#ff6f00>RKT</color>
@@ -129,8 +155,8 @@ weapons/cn_type90_heat;90毫米1型航空火箭破甲弹 <color=#ff6f00>RKT</col
 weapons/cn_type90_heat/short;90-1型 (破甲)
 weapons/cn_fire_snake_90a_brm1;BRM1型90毫米航空制导火箭弹 <color=#ff6f00>RKT-LG</color>
 weapons/cn_fire_snake_90a_brm1/short;BRM1
-weapons/cn_type130_ap;130毫米2型航空火箭杀伤爆破弹 <color=#ff6f00>RKT</color>
-weapons/cn_type130_ap/short;130-2型
+weapons/cn_type130_ap;130毫米1型航空火箭杀伤爆破弹 <color=#ff6f00>RKT</color>
+weapons/cn_type130_ap/short;130-1型
 
 //MISSILES
 weapons/su_pl2;PL2 | K/AKK2空空导弹 <color=#ff6f00>AAM-IR</color>

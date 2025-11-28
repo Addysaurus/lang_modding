@@ -34,8 +34,8 @@ weapons/85mm_Type_62_85_TC_user_cannon;<color=@userlogColoredText>85 mm</color> 
 weapons/85mm_Type_63_user_cannon;<color=@userlogColoredText>85 mm</color> 1963年式85毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/100mm_PTP86_user_cannon;<color=@userlogColoredText>100 mm</color> WA301 | PTL2002式100毫米轮式自行突击炮 <color=#ff6f00>CNN</color>
 weapons/100mm_Type59_user_cannon;<color=@userlogColoredText>100 mm</color> 1959年式100毫米坦克炮 <color=#ff6f00>CNN</color>
-weapons/100mm_Type69_user_cannon;<color=@userlogColoredText>100 mm</color> 1969年式100毫米坦克炮 <color=#ff6f00>CNN</color>
-weapons/100mm_Type69_II_user_cannon;<color=@userlogColoredText>100 mm</color> Type 69-II 100 mm Tank Gun <color=#ff6f00>CNN</color>
+weapons/100mm_Type69_user_cannon;<color=@userlogColoredText>100 mm</color> 1969年式100毫米滑膛坦克炮 <color=#ff6f00>CNN</color>
+weapons/100mm_Type69_II_user_cannon;<color=@userlogColoredText>100 mm</color> 69-II型100毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/100mm_2a70_zbd_user_cannon;<color=@userlogColoredText>100 mm</color> ZPL2004式100毫米坦克炮 <color=#ff6f00>CNN-LCH</color>
 weapons/105mm_type_75_user_cannon;<color=@userlogColoredText>105 mm</color> PW1975式105毫米无后坐力炮 <color=#ff6f00>CNN-RCL</color>
 weapons/105mm_Type_83_user_cannon;<color=@userlogColoredText>105 mm</color> 1983年式105毫米坦克炮 <color=#ff6f00>CNN</color>
@@ -60,6 +60,9 @@ weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ2005
 30mm_zpz02_hei;DTY02-30
 30mm_zpz02_apds;DTC04-30
 30mm_dtc10_30;DTC10-30
+35mm_dkp_01a;DKG01A/PGZ09-35
+35mm_dkg_01a;DKP01A/PGZ09-35
+57mm_dky_1;DKY/PG59-57
 73mm_type_85_he;DYS73-73
 73mm_type_85_heat;DYP73-73
 type_56_he;56式85毫米杀爆榴弹
@@ -105,6 +108,7 @@ type_44_ap;59式100毫米穿甲弹
 152mm_ddb_1_vt;DDB1/PLZ83-152 (VTF)
 155mm_plz_05_he;DLXA/PLZ05-155
 155mm_plz_05_he_vt;DLXA/PLZ05-155 (VTF)
+155mm_bea_1;CS/BEA1-155
 
 //BOMBS
 weapons/cn_gp_100_2;<color=@userlogColoredText>140 kg</color> 100公斤2型航空爆破炸弹 <color=#ff6f00>BMB</color>
@@ -159,39 +163,39 @@ weapons/cn_type130_ap;130毫米1型航空火箭杀伤爆破弹 <color=#ff6f00>RK
 weapons/cn_type130_ap/short;130-1型
 
 //MISSILES
-weapons/su_pl2;PL2 | K/AKK2空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl2;PL-2 | K/AKK2空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/su_pl2/short;K/AKK2
-weapons/su_pl2_default;PL2 | K/AKK2空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl2_default;PL-2 | K/AKK2空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/su_pl2_default/short;K/AKK2
-weapons/su_pl5b;PL5B | K/AKK5B空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl5b;PL-5B | K/AKK5B空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/su_pl5b/short;K/AKK5B
-weapons/su_pl5b_default;PL5B | K/AKK5B空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl5b_default;PL-5B | K/AKK5B空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/su_pl5b_default/short;K/AKK5B
-weapons/su_pl5c;PL5C | K/AKK5C空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl5c;PL-5C | K/AKK5C空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/su_pl5c/short;K/AKK5C
-weapons/su_pl5c_default;PL5C | K/AKK5C空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl5c_default;PL-5C | K/AKK5C空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/su_pl5c_default/short;K/AKK5C
-weapons/su_pl5e2;PL5EII | K/AKK5EII空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl5e2;PL-5EII | K/AKK5EII空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/su_pl5e2/short;K/AKK5EII
-weapons/su_pl5e2_default;PL5EII | K/AKK5EII空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl5e2_default;PL-5EII | K/AKK5EII空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/su_pl5e2_default/short;K/AKK5EII
-weapons/su_pl7;PL7 | K/AKK7空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl7;PL-7 | K/AKK7空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/su_pl7/short;K/AKK7
-weapons/su_pl8;PL8 | K/AKK8空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl8;PL-8 | K/AKK8空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/su_pl8/short;K/AKK8
-weapons/su_pl8_default;PL8 | K/AKK8空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/su_pl8_default;PL-8 | K/AKK8空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/su_pl8_default/short;K/AKK8
-weapons/cn_pl8b;PL8B | K/AKK8B空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/cn_pl8b;PL-8B | K/AKK8B空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/cn_pl8b/short;K/AKK8B
-weapons/cn_pl8b_default;PL8B | K/AKK8B空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/cn_pl8b_default;PL-8B | K/AKK8B空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/cn_pl8b_default/short;K/AKK8B
-weapons/cn_pl11;PL11 | K/AKK11空空导弹 <color=#ff6f00>AAM-SARH</color>
+weapons/cn_pl11;PL-11 | K/AKK11空空导弹 <color=#ff6f00>AAM-SARH</color>
 weapons/cn_pl11/short;K/AKK11
-weapons/cn_pl12;PL12 | K/AKK12空空导弹 <color=#ff6f00>AAM-ARH</color>
+weapons/cn_pl12;PL-12 | K/AKK12空空导弹 <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl12/short;K/AKK12
-weapons/cn_pl12_default;PL12 | K/AKK12空空导弹 <color=#ff6f00>AAM-ARH</color>
+weapons/cn_pl12_default;PL-12 | K/AKK12空空导弹 <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl12_default/short;K/AKK12
-weapons/cn_ty_90;TY90 | AKK90空空导弹 <color=#ff6f00>AAM-IR</color>
+weapons/cn_ty_90;TY-90 | AKK90空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/cn_ty_90/short;AKK90
 weapons/cn_akd_9;AKD09空地导弹 <color=#ff6f00>AGM-LG</color>
 weapons/cn_akd_9/short;AKD09
@@ -201,27 +205,27 @@ weapons/cn_ba_9;AKD09空地导弹 <color=#ff6f00>AGM-LG</color>
 weapons/cn_ba_9/short;AKD09
 weapons/cn_akd_10;AKD10空地导弹 <color=#ff6f00>AGM-LG</color>
 weapons/cn_akd_10/short;AKD10
-weapons/cn_yj_81k;YJ81 | H/AKJ08空舰导弹 <color=#ff6f00>AShM-ARH</color>
+weapons/cn_yj_81k;YJ-81 | H/AKJ08空舰导弹 <color=#ff6f00>AShM-ARH</color>
 weapons/cn_yj_81k/short;H/AKJ08
-weapons/cn_hj_8a;HJ8A | AFT08A反坦克导弹 <color=#ff6f00>AGM-WG</color>
+weapons/cn_hj_8a;HJ-8A | AFT08A反坦克导弹 <color=#ff6f00>AGM-WG</color>
 weapons/cn_hj_8a/short;AFT08A
-weapons/cn_hj_8c;HJ8C | AFT08C反坦克导弹 <color=#ff6f00>AGM-WG</color>
+weapons/cn_hj_8c;HJ-8C | AFT08C反坦克导弹 <color=#ff6f00>AGM-WG</color>
 weapons/cn_hj_8c/short;AFT08C
-weapons/cn_hj_8e;HJ8E | AFT08E反坦克导弹 <color=#ff6f00>AGM-WG</color>
+weapons/cn_hj_8e;HJ-8E | AFT08E反坦克导弹 <color=#ff6f00>AGM-WG</color>
 weapons/cn_hj_8e/short;AFT08E
-weapons/cn_hj_8e_default;HJ8E | AFT08E反坦克导弹 <color=#ff6f00>AGM-WG</color>
+weapons/cn_hj_8e_default;HJ-8E | AFT08E反坦克导弹 <color=#ff6f00>AGM-WG</color>
 weapons/cn_hj_8e_default/short;AFT08E
-weapons/cn_hj_8h;HJ8H | AFT08H反坦克导弹 <color=#ff6f00>AGM-WG</color>
+weapons/cn_hj_8h;HJ-8H | AFT08H反坦克导弹 <color=#ff6f00>AGM-WG</color>
 weapons/cn_hj_8h/short;AFT08H
-weapons/cn_hj_8l;HJ8L | AFT08L反坦克导弹 <color=#ff6f00>AGM-WG</color>
+weapons/cn_hj_8l;HJ-8L | AFT08L反坦克导弹 <color=#ff6f00>AGM-WG</color>
 weapons/cn_hj_8l/short;AFT08L
 weapons/cn_cm_502kg_he;CM502KG轻型近程空面导弹武器系统 <color=#ff6f00>AGM-IR</color>
 weapons/cn_cm_502kg_he/short;CM502KG
 weapons/cn_cm_502kg_he_rail;CM502KG轻型近程空面导弹武器系统 <color=#ff6f00>AGM-IR</color>
 weapons/cn_cm_502kg_he_rail/short;CM502KG
-weapons/125mm_hj_73_rocket_launcher;HJ73 | AFT07反坦克导弹 <color=#ff6f00>LCH</color>
+weapons/125mm_hj_73_rocket_launcher;HJ-73 | AFT07反坦克导弹 <color=#ff6f00>LCH</color>
 weapons/125mm_hj_73_rocket_launcher/short;AFT07
-weapons/125mm_AFT_07_rocket_launcher;HJ73E | AFT07E反坦克导弹 <color=#ff6f00>LCH</color>
+weapons/125mm_AFT_07_rocket_launcher;HJ-73E | AFT07E反坦克导弹 <color=#ff6f00>LCH</color>
 weapons/125mm_AFT_07_rocket_launcher/short;AFT07E
 125mm_hj_73;AFT07
 weapons/125mm_hj_73/short;AFT07
@@ -233,13 +237,21 @@ weapons/120mm_302_atgm_rocket_launcher;302反坦克导弹 <color=#ff6f00>LCH</co
 weapons/120mm_302_atgm_rocket_launcher/short;302
 atgm_302;302
 weapons/atgm_302/short;302
-weapons/152mm_hj_9_launcher_user_cannon;HJ9 | AFT09重型反坦克导弹发射车 <color=#ff6f00>LCH</color>
+weapons/152mm_hj_9_launcher_user_cannon;HJ-9 | AFT09重型反坦克导弹发射车 <color=#ff6f00>LCH</color>
 152mm_hj9;AFT09
-weapons/130mm_FB_10_rocket_launcher;FB10地對空导弹发射器 <color=#ff6f00>LCH</color>
-weapons/72mm_HN_6_launcher_user_cannon;HN6地對空导弹发射器 <color=#ff6f00>LCH</color>
-72mm_hn_6;HN6
-weapons/72mm_hn_6/short;HN6
-weapons/239mm_HQ_17_user_cannon;HQ17 | ADK17地對空导弹系統 <color=#ff6f00>LCH</color>
+weapons/70mm_QN201DD_rocket_launcher;QN201经济型多用途导弹发射架 <color=#ff6f00>LCH</color>
+weapons/70mm_QN201DD_rocket_launcher/short;QN201
+70mm_QN201DD;QN201
+weapons/70mm_QN201DD/short;QN201
+weapons/151mm_QN502CDD_rocket_launcher;QN502C中程车载自寻的智能反坦克导弹发射架 <color=#ff6f00>LCH</color>
+weapons/151mm_QN502CDD_rocket_launcher/short;QN502C
+151mm_QN502CDD;QN502C
+weapons/151mm_qn502cdd/short;QN502C
+weapons/130mm_FB_10_rocket_launcher;FB-10地對空导弹发射架 <color=#ff6f00>LCH</color>
+weapons/72mm_HN_6_launcher_user_cannon;HN-6地對空导弹发射架 <color=#ff6f00>LCH</color>
+72mm_hn_6;HN-6
+weapons/72mm_hn_6/short;HN-6
+weapons/239mm_HQ_17_user_cannon;HQ-17 | ADK17地對空导弹系統 <color=#ff6f00>LCH</color>
 239mm_hq17;ADK17
 weapons/239mm_hq17/short;ADK17
 weapons/127mm_tc_1l_rocket_launcher_user_cannon;劍一防空飛彈系統 <color=#ff6f00>LCH</color>

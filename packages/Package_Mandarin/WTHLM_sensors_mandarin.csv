@@ -7,8 +7,11 @@ sensors/cn_jl_7a;JL-7A系列射击瞄准雷达 <color=#ff6f00>RDR</color>
 sensors/cn_jl_10a;JL-10A系列射击瞄准雷达 <color=#ff6f00>RDR-PD</color>
 sensors/cn_type_1473;1473H雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73H机载脉冲多普勒火控雷达 <color=#ff6f00>RDR-PD</color>
 sensors/cn_klj_7;1478雷达 | KLJ-7机载脉冲多普勒火控雷达 | K/LKK78机载脉冲多普勒火控雷达 <color=#ff6f00>RDR-PD</color>
-sensors/cn_type_1492;1492雷达 | K/LKK92B雷达 <color=#ff6f00>RDR-PD</color>
+sensors/cn_type_1492;1492雷达 | K/LKK92雷达 <color=#ff6f00>RDR-PD</color>
 sensors/cn_type_1493_pd;1493雷达 | K/LKK93雷达 <color=#ff6f00>RDR-PD</color>
 
 //RWRs
+sensors/cn_type_930_4;930-4雷达告警设备
+sensors/cn_kj_8602;BM/KJ8602雷达告警设备
+sensors/cn_kj8602a;BM/KJ8602A雷达告警设备
 sensors/cn_helicopter_z_late_rwr;YH96

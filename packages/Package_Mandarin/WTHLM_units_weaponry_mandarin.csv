@@ -28,6 +28,7 @@ weapons/30mm_ZPZ02_user_cannon;<color=@userlogColoredText>30 mm</color> ZPZ2002�
 weapons/30mm_zpt_99_user_cannon;<color=@userlogColoredText>30 mm</color> ZPZ2002式30毫米坦克炮 <color=#ff6f00>ACNN</color>
 weapons/35mm_PG_99_35_2_user_cannon;<color=@userlogColoredText>35 mm</color> PGZ2009式双35毫米自行高炮 <color=#ff6f00>ACNN</color>
 weapons/cannonType37_1;<color=@userlogColoredText>37 mm</color> 37毫米1型航空机炮 <color=#ff6f00>ACNN</color>
+weapons/37mm_type_65_user_cannon;<color=@userlogColoredText>37 mm</color> 1965年式双管37毫米高射机关炮 <color=#ff6f00>ACNN</color>
 weapons/57mm_WA_318_user_cannon;<color=@userlogColoredText>57 mm</color> WA318 | PG1959式57毫米高射炮 <color=#ff6f00>ACNN</color>
 weapons/73mm_Type_85_user_cannon;<color=@userlogColoredText>73 mm</color> 1986年式73毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/85mm_Type_62_85_TC_user_cannon;<color=@userlogColoredText>85 mm</color> 1963年式85毫米坦克炮 <color=#ff6f00>CNN</color>
@@ -55,6 +56,8 @@ weapons/152mm_pl_66_gai_user_cannon;<color=@userlogColoredText>152 mm</color> PL
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ2005式155毫米自行加榴炮 <color=#ff6f00>CNN-HWZ</color>
 
 //AMMUNITION
+25mm_type_87_api;DKC/PG87-25
+25mm_type_87_he;WBO41P/PG87-25
 30mm_china_HE;CS/BAH06-30
 30mm_china_PTFP;CS/BAE5-30
 30mm_zpz02_hei;DTY02-30
@@ -62,6 +65,9 @@ weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ2005
 30mm_dtc10_30;DTC10-30
 35mm_dkp_01a;DKG01A/PGZ09-35
 35mm_dkg_01a;DKP01A/PGZ09-35
+type_59_he;59式57毫米曳杀榴弹
+type_59_apcbc;59式57毫米被帽穿甲弹
+type_59_ap;59式57毫米穿甲曳弹
 57mm_dky_1;DKY/PG59-57
 73mm_type_85_he;DYS73-73
 73mm_type_85_heat;DYP73-73
@@ -205,6 +211,8 @@ weapons/cn_ba_9;AKD09空地导弹 <color=#ff6f00>AGM-LG</color>
 weapons/cn_ba_9/short;AKD09
 weapons/cn_akd_10;AKD10空地导弹 <color=#ff6f00>AGM-LG</color>
 weapons/cn_akd_10/short;AKD10
+weapons/cn_ba_11;BA-11A型空地导弹 <color=#ff6f00>AGM-IR</color>
+weapons/cn_ba_11/short;BA-11A
 weapons/cn_yj_81k;YJ-81 | H/AKJ08空舰导弹 <color=#ff6f00>AShM-ARH</color>
 weapons/cn_yj_81k/short;H/AKJ08
 weapons/cn_hj_8a;HJ-8A | AFT08A反坦克导弹 <color=#ff6f00>AGM-WG</color>

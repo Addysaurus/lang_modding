@@ -1,2 +1,23 @@
 <ID|readonly|noverify>;<English>
-sensors/cn_type_1492;南京电子技术研究所1492型 | K/LKK92B雷达 <color=#ff6f00>RDR-PD</color>
+//RADARS
+sensors/cn_type_280;208雷达 | SL-5雷达 | K/LKK208雷达 <color=#ff6f00>RDR</color>
+sensors/cn_type_208a;208A雷达 | SL-5A雷达 | K/LKK208A雷达 <color=#ff6f00>RDR</color>
+sensors/uk_marconi_type_226;226雷达 | K/LKK226雷达 <color=#ff6f00>RDR</color>
+sensors/cn_jl_7a;JL-7A系列射击瞄准雷达 <color=#ff6f00>RDR</color>
+sensors/cn_jl_10a;JL-10A系列射击瞄准雷达 <color=#ff6f00>RDR-PD</color>
+sensors/cn_type_1473;1473H雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73H机载脉冲多普勒火控雷达 <color=#ff6f00>RDR-PD</color>
+sensors/cn_klj_7;1478雷达 | KLJ-7机载脉冲多普勒火控雷达 | K/LKK78机载脉冲多普勒火控雷达 <color=#ff6f00>RDR-PD</color>
+sensors/cn_type_1492;1492雷达 | K/LKK92雷达 <color=#ff6f00>RDR-PD</color>
+sensors/cn_type_1493_pd;1493雷达 | K/LKK93雷达 <color=#ff6f00>RDR-PD</color>
+
+//RWRs
+sensors/cn_type_930_4;930-4雷达告警设备
+sensors/cn_kj_8602;BM/KJ8602雷达告警设备
+sensors/cn_kj8602a;BM/KJ8602A雷达告警设备
+sensors/cn_helicopter_z_late_rwr;YH96
+
+//TARGETING PODS
+weapons/cn_k_pzs_01_targeting_pod;K/PZS01型昼夜瞄准吊舱 <color=#ff6f00>TGP-LG/EO</color>
+weapons/cn_k_pzs_01_targeting_pod/short;K/PZS01
+weapons/cn_k_adc03a_targeting_pod;K/JDC03A型昼夜瞄准吊舱 <color=#ff6f00>TGP-LG/EO</color>
+weapons/cn_k_adc03a_targeting_pod/short;K/JDC03A

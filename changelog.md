@@ -37,6 +37,14 @@ All dates are listed in DD-MM-YYYY format.
     - **Type 57-1** → **S-5K**. Statcard name → **Nyeupravlâyemaâ aviaczionnaâ rakyeta S-5K**. Gaijin calls it the Type 57-1, but it's not. It's an S-5K. The Type 57-1 is an HE rocket and is a basic S-5.
     - **250-3** → **Mk 82 Mod 0**. Statcard name → **Bomb, 500lb, GP, Mk 82 Mod 0**. This is not the normal Type 250-3, that's still the Type 250-3, this is the one on the A5C that Gaijin calls the Type 250-3 but is a Mk 82 with the stats of a Type 250-3... for some reason. Enjoy your 216.5 kg Mk 82 Mod 0 I guess.
     - Corrected the type tag on both Kh-59Ms to AGM-TV (it was TV/GNSS on dev and I didn't realize they had changed it).
+    - **JAGM-MR (IR)**: Long name → **Joint Air-to-Ground Missile-Medium Range**. The guidance type was removed from the long name because it's pointless since the type tag has it anyway.
+    - **JAGM-MR (SAL)**: Long name → **Joint Air-to-Ground Missile-Medium Range**. The guidance type was removed from the long name because it's pointless since the type tag has it anyway.
+
+### Sensors:
+
+- #### Changes:
+
+    - **K/PZS01** (the one on the **JF-17 Block I**) → **ASELPOD**. Long name → **ASELPOD Advanced Targeting Pod**. It was called the K/PZS01 because of a time when all the models were mixed up and this used the K/JDC03A pod but with the name file of the K/PZS01 or something like that.
 
 ## 1.15.01 - 19-11-2025
 

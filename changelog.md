@@ -40,6 +40,12 @@ All dates are listed in DD-MM-YYYY format.
     - **JAGM-MR (IR)**: Long name → **Joint Air-to-Ground Missile-Medium Range**. The guidance type was removed from the long name because it's pointless since the type tag has it anyway.
     - **JAGM-MR (SAL)**: Long name → **Joint Air-to-Ground Missile-Medium Range**. The guidance type was removed from the long name because it's pointless since the type tag has it anyway.
 
+### Sensors:
+
+- #### Changes:
+
+    - **K/PZS01** (the one on the **JF-17 Block I**) → **ASELPOD**. Long name → **ASELPOD Advanced Targeting Pod**. It was called the K/PZS01 because of a time when all the models were mixed up and this used the K/JDC03A pod but with the name file of the K/PZS01 or something like that.
+
 ## 1.15.01 - 19-11-2025
 
 ### Vehicles:

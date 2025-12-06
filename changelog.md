@@ -16,12 +16,50 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.15.02 - UNRELEASED, WIP
+## 1.16.00 - UNRELEASED, WIP
+
+### General:
+
+- After 7 long months and literal hundreds of hours of reading, researching, and going kind of insane, the China rework and Mandarin package are finally are! Every single Chinese thing in the entire game has been reworked. Every vehicle, every weapon, every sensor, every modification, every engine, *everything*. It has all been reworked completely. And with that, 6 new Mandarin packages have been added: standard Mandarin, Full Mandarin (e.g. HQ-11 becomes 红旗-11), Mandarin + Russian combo, Full Mandarin + Russian combo, Full Ammunition Names Mandarin, and Full Ammunition Names Full Mandarin. From the bottom of my heart, I hope you enjoy it. I would also like to massively thank kleinerPanzer for help sourcing and researching this rework. Without her, this rework would have been impossible and from the bottom of my heart, she deserves the biggest thank you on the planet.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - Update "Line of Contact" additions:
+        - **FR-1 Fireball**
+        - **F/A-18E**
+        - **M10 Booker**
+        - **BMPT**
+        - **BMPT-72**
+        - **Tor-M1**
+        - **Hawk 209** (Japan / Indonesia)
+        - **H-75M**
+        - **J-10C**
+        - **M1A2T** (China / Taiwan)
+        - **HQ11**
+        - **Rafale M F3-R**
+
 - #### Changes:
 
+    - Update "Line of Contact" changes:
+        - **FR-1 Fireball** → **FR-1**. Statcard name → **Ryan Aeronautical Company | FR-1 Fireball**.
+        - **F/A-18E** → **F/A-18E-2-MC**. Statcard name → **McDonnell Douglas Corporation | F/A-18E-2-MC Super Hornet**.
+        - **M10 Booker** → **M10**. Statcard name → **General Dynamics Land Systems | Combat Vehicle, Tracked, Light Armored, M10 Booker**.
+        - **BMPT** → **BMPT (2017)**. Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2017 g. «Tyerminator»**.
+        - **BMPT-72**: Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 «Tyerminator-2»**.
+        - **Tor-M1** → **9A331-1**. Statcard name → **Naučno-proizvodstvyennoye ob"yedinyeniye Antyej | Boyevaâ mašina 9A331-1**.
+        - **Hawk 209** (Japan / Indonesia) → **Hawk Mk. 209**. Statcard name → **British Aerospace Hawk 209 | Hawk Mk. 209**.
+        - **H-75M** → **Huòkè 75M**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75M / Zhōngyāng Fēijī Zhìzào Chǎng | Huòkè 75M Qūzhú Jī**.
+            - Mandarin package: **H-75M** → **霍克75M**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75M / 中央飛機製造廠 | 霍克75M驅逐機**.
+        - **J-10C** → **K/JJ10C**. Statcard name → **Chéngdū Fēijī Gōngyè (Jítuán) | K/JJ10C Xíng Fēijī "Měng Lóng"**.
+            - Mandarin package: **J-10C** → **K/JJ10C**. Statcard name → **成都飞机工业 (集团) | K/JJ10C型飞机 "猛龙"**.
+        - **M1A2T** (China / Taiwan): Statcard name → **General Dynamics Land Systems | M1A2T Zhànchē**.
+            - Mandarin package: Statcard name → **General Dynamics Land Systems | M1A2T戰車**.
+        - **HQ11** → **ADK11**. Statcard name → **Zhōngguó Gángtiān Kē Gōng Jítuán Youxiàn Gōngsī | HQ-11 | ADK11 Tōngyòng Mòduān Fángyù Wuqì Xìtong**.
+            - Mandarin package: **HQ11** → **ADK11**. Statcard name → **中国航天科工集团有限公司 | HQ-11 | ADK11通用末端防御武器系统**.
+            - Full Mandarin package: **HQ11** → **ADK11**. Statcard name → **中国航天科工集团有限公司 | 红旗-11 | ADK11通用末端防御武器系统**.
+        - **Rafale M F3-R** → **Rafale M (F3R)**. Statcard name → **Dassault Aviation | Rafale M (F3R)**.
     - **TH 400** → **H 400**. Statcard name → **Henschel Wehrtechnik H 400**. The gun model is still wrong though smh...
     - **F5**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chǎng | Chugyŏkgi 《F5》**.
 

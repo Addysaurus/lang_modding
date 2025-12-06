@@ -2477,6 +2477,10 @@ bf-109f-4_usa_shop;▃ Bf 109 F-4
 bf-109f-4_usa_0;▃ Bf 109 F-4
 bf-109f-4_usa_1;▃ Bf 109 F
 bf-109f-4_usa_2;▃ Bf 109
+fr_1_fireball_shop;FR-1
+fr_1_fireball1_0;Ryan Aeronautical Company | FR-1 Fireball
+fr_1_fireball_1;FR-1
+fr_1_fireball_2;FR-1
 xp-50_shop;XP-50-GR
 xp-50_0;XP-50-GR
 xp-50_1;XP-50-GR
@@ -2851,6 +2855,10 @@ fa_18c_late_shop;F/A-18C-52-MC
 fa_18c_late_0;McDonnell Douglas Corporation Model 267 | F/A-18C-52-MC Hornet
 fa_18c_late_1;F/A-18C
 fa_18c_late_2;F/A-18
+fa_18e_block_2_shop;F/A-18E-2-MC
+fa_18e_block_2_0;McDonnell Douglas Corporation | F/A-18E-2-MC Super Hornet
+fa_18e_block_2_1;F/A-18E
+fa_18e_block_2_2;F/A-18
 f_14a_early_shop;F-14A-110-GR
 f_14a_early_0;Grumman Aerospace Corporation G-303 | F-14A-110-GR Tomcat
 f_14a_early_1;F-14A
@@ -3461,6 +3469,10 @@ us_xm1_gm_shop;XM1 (GM)
 us_xm1_gm_0;General Motors Defense | Tank, Combat, Full Tracked: 105mm Gun, XM1
 us_xm1_gm_1;XM1
 us_xm1_gm_2;MBT
+us_efv_p1_shop;EFV-P1 (SDD-2) (M82)
+us_efv_p1_0;General Dynamics Land Systems Expeditionary Fighting Vehicle Personnel Variant 1 (System Development and Demonstration 2) (Grenade, Launcher, Smoke: Simulant Screening, M82)
+us_efv_p1_1;EFV-P1
+us_efv_p1_2;IFV
 us_merkava_mk_1_shop;▃ Merkavah Mk. 1
 us_merkava_mk_1_0;▃ Merkavah Siman 1
 us_merkava_mk_1_1;▃ Merkavah Mk. 1
@@ -3477,12 +3489,12 @@ us_xm_8_shop;XM8 AGS
 us_xm_8_0;105mm Armored Gun System, XM8
 us_xm_8_1;XM8
 us_xm_8_2;Light tank
-us_efv_p1_shop;EFV-P1 (SDD-2) (M82)
-us_efv_p1_0;General Dynamics Land Systems Expeditionary Fighting Vehicle Personnel Variant 1 (System Development and Demonstration 2) (Grenade, Launcher, Smoke: Simulant Screening, M82)
-us_efv_p1_1;EFV-P1
-us_efv_p1_2;IFV
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+us_m10_booker_late_shop;M10
+us_m10_booker_late_0;General Dynamics Land Systems | Combat Vehicle, Tracked, Light Armored, M10 Booker
+us_m10_booker_late_1;M10
+us_m10_booker_late_2;Light Tank
 us_hstv_l_shop;HSTV(L)
 us_hstv_l_0;High Survivability Test Vehicle (Lightweight)
 us_hstv_l_1;HSTV(L)
@@ -5259,6 +5271,18 @@ ussr_t_80um2_shop;T-80U (Drozd)
 ussr_t_80um2_0;"Kirovskij zavod | Ob""yekt 219AS | Tank T-80U obr. 1995 g. (Drozd)"
 ussr_t_80um2_1;T-80U
 ussr_t_80um2_2;MBT
+ussr_bmpt_shop;BMPT (2017)
+ussr_bmpt_0;"OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob""yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2017 g. «Tyerminator»"
+ussr_bmpt_1;BMPT
+ussr_bmpt_2;IFV
+ussr_bmpt_72_shop;BMPT-72
+ussr_bmpt_72_0;"OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob""yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 «Tyerminator-2»"
+ussr_bmpt_72_1;BMPT-72
+ussr_bmpt_72_2;IFV
+ussr_tor_m1_shop;9A331-1
+ussr_tor_m1_0;"Naučno-proizvodstvyennoye ob""yedinyeniye Antyej | Boyevaâ mašina 9A331-1"
+ussr_tor_m1_1;9A331-1
+ussr_tor_m1_2;SPAAM
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 ussr_t_72b3_arena_m_shop;T-72B3A
@@ -6192,11 +6216,6 @@ f-4ej_kai_shop;▅ F-4EJ-MIT Kai
 f-4ej_kai_0;"▅ McDonnell Douglas Corporation Model 98MB / Mitsubishi Jū Kōgyō | F-4EJ-MIT Kai ""Fantomu"""
 f-4ej_kai_1;▅ F-4EJ
 f-4ej_kai_2;▅ F-4
-f-5e_fcu_thailand_shop;B.Kh.18Kh (1988)
-f-5e_fcu_thailand_0;Northrop Corporation F-5-21 | Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (1988)
-f-5e_fcu_thailand_1;B.Kh.18Kh
-f-5e_fcu_thailand_2;B.Kh.18
-f-5a_thailand_shop;B.Kh.18
 f-5a_thailand_0;Northrop Corporation N-156F | Ekhrụxng Bin Khạb Lị Bæb Thī 18
 f-5a_thailand_1;B.Kh.18
 f-5a_thailand_2;B.Kh.18
@@ -6204,10 +6223,19 @@ f-5t_thailand_shop;B.Kh.18Kh (2003)
 f-5t_thailand_0;Northrop Corporation F-5-21 / Elbit Systems F-5T Tigris | Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (2003)
 f-5t_thailand_1;B.Kh.18Kh
 f-5t_thailand_2;B.Kh.18
+f-5e_fcu_thailand_shop;B.Kh.18Kh (1988)
+f-5e_fcu_thailand_0;Northrop Corporation F-5-21 | Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (1988)
+f-5e_fcu_thailand_1;B.Kh.18Kh
+f-5e_fcu_thailand_2;B.Kh.18
+f-5a_thailand_shop;B.Kh.18
 f-5th_thailand_shop;B.Kh.18Kh (2014)
 f-5th_thailand_0;Northrop Corporation F-5-21 / Elbit Systems F-5TH Super Tigris | Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (2014)
 f-5th_thailand_1;B.Kh.18Kh
 f-5th_thailand_2;B.Kh.18
+hawk_209_indonesia_shop;◥ Hawk Mk. 209
+hawk_209_indonesia_0;◥ British Aerospace Hawk 209 | Hawk Mk. 209
+hawk_209_indonesia_1;◥ Hawk Mk. 209
+hawk_209_indonesia_2;◥ Hawk
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_15j_shop;▅ F-15J-MIT (C4)
@@ -6978,6 +7006,10 @@ i-16_chung_28_shop;Zhōng 28 Jia
 i-16_chung_28_0;"CzKB-39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye imyeni Myenžinskogo / Zhōngyāng Nánchāng Fēijī Zhìzào Chang | Zhōng 28 Jia"
 i-16_chung_28_1;Zhōng 28 Jia
 i-16_chung_28_2;Zhōng 28
+h-75m_china_shop;☀ Huòkè 75M
+h-75m_china_0;☀ Curtiss-Wright Corporation Hawk Model 75M / Zhōngyāng Fēijī Zhìzào Chang | Huòkè 75M Qūzhú Jī
+h-75m_china_1;☀ Huòkè 75M
+h-75m_china_2;☀ Huòkè 75
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 
@@ -7008,6 +7040,10 @@ j_10a_shop;J10A
 j_10a_0;"Chéngdū Fēijī Gōngyè Jítuán | J10A ""Měng Lóng"""
 j_10a_1;J10A
 j_10a_2;J10
+j_10c_shop;K/JJ10C
+j_10c_0;"Chéngdū Fēijī Gōngyè (Jítuán) | K/JJ10C Xíng Fēijī ""Měng Lóng"""
+j_10c_1;K/JJ10C
+j_10c_2;K/JJ10
 mirage_2000_5ei_shop;Huànxiàng 2000-5
 mirage_2000_5ei_0;Dassault Aviation | Huànxiàng 2000-5 Xíng Zhànjī
 mirage_2000_5ei_1;Huànxiàng 2000-5
@@ -7094,10 +7130,18 @@ cn_t_80ud_478be_1;☪ T-80UD
 cn_t_80ud_478be_2;MBT
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+cn_m1a2t_shop;☀ M1A2T
+cn_m1a2t_0;☀ General Dynamics Land Systems | M1A2T Zhànchē
+cn_m1a2t_1;☀ M1A2T
+cn_m1a2t_2;MBT
 cn_pgz_625_fb10_shop;CS/SA5 (2022)
 cn_pgz_625_fb10_0;Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Xíng Gāo Pào (2022)
 cn_pgz_625_fb10_1;CS/SA5
 cn_pgz_625_fb10_2;SPAAG/M
+cn_hq_11_shop;ADK11
+cn_hq_11_0;Zhōngguó Gángtiān Kē Gōng Jítuán Youxiàn Gōngsī | HQ-11 | ADK11 Tōngyòng Mòduān Fángyù Wuqì Xìtong
+cn_hq_11_1;ADK11
+cn_hq_11_2;SPAAM
 cn_oplot_t_shop;☪ BM Oplot-M
 cn_oplot_t_0;☪ Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Ob'êkt 478DU9-1 | Bojova mašina Oplot-M
 cn_oplot_t_1;☪ BM Oplot-M
@@ -7414,6 +7458,10 @@ rafale_c_f3_shop;Rafale C (F3R)
 rafale_c_f3_0;Dassault Aviation | Rafale C (F3R)
 rafale_c_f3_1;Rafale C
 rafale_c_f3_2;Rafale
+rafale_m_f3r_shop;Rafale M (F3R)
+rafale_m_f3r_0;Dassault Aviation | Rafale M (F3R)
+rafale_m_f3r_1;Rafale M
+rafale_m_f3r_2;Rafale
 mirage_4000_shop;Mirage 4000 (1986)
 mirage_4000_0;Avions Marcel Dassault-Breguet Aviation | Mirage 4000 (1986)
 mirage_4000_1;Mirage 4000

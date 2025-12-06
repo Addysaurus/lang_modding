@@ -30,14 +30,25 @@ All dates are listed in DD-MM-YYYY format.
         - **FR-1 Fireball**
         - **F/A-18E**
         - **M10 Booker**
+        - **USS Forrest Sherman**
+        - **USS South Dakota**
+        - **EF-2000 (AESA)**
+        - **MiG-25PD**
         - **BMPT**
         - **BMPT-72**
         - **Tor-M1**
+        - **Typhoon (AESA)**
+        - **HMS Fiji**
+        - **HMS Prince of Whales**
+        - **Type 61 (B)**
+        - **Type 03 (TADS)**
+        - **Type 03 (TEL)**
         - **Hawk 209** (Japan / Indonesia)
         - **H-75M**
         - **J-10C**
         - **M1A2T** (China / Taiwan)
         - **HQ11**
+        - **F-2000A (AESA)**
         - **Rafale M F3-R**
 
 - #### Changes:
@@ -46,9 +57,24 @@ All dates are listed in DD-MM-YYYY format.
         - **FR-1 Fireball** → **FR-1**. Statcard name → **Ryan Aeronautical Company | FR-1 Fireball**.
         - **F/A-18E** → **F/A-18E-2-MC**. Statcard name → **McDonnell Douglas Corporation | F/A-18E-2-MC Super Hornet**.
         - **M10 Booker** → **M10**. Statcard name → **General Dynamics Land Systems | Combat Vehicle, Tracked, Light Armored, M10 Booker**.
+        - **USS Forrest Sherman** → **USS Forrest Sherman (DD-931)**. Statcard name → **Bath Iron Works | Forrest Sherman-class Destroyer | USS Forrest Sherman (DD-931)**.
+        - **USS South Dakota** → **USS South Dakota (BB-57)**. Statcard name → **New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | South Dakota-class Battleship | USS South Dakota (BB-57) (1944)**.
+        - **EF-2000 (AESA)** → **Eurofighter (P3Eb1)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement B Step 1)**.
+        - **MiG-25PD**: Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. 84D | Samolyet MiG-25PD**.
         - **BMPT** → **BMPT (2017)**. Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2017 g. «Tyerminator»**.
         - **BMPT-72**: Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 «Tyerminator-2»**.
         - **Tor-M1** → **9A331-1**. Statcard name → **Naučno-proizvodstvyennoye ob"yedinyeniye Antyej | Boyevaâ mašina 9A331-1**.
+        - **Typhoon (AESA)** → **Typhoon F.G.R. Mk. 4 (P3Eb1)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (Phase 3 Enhancement B Step 1)**.
+        - **HMS Fiji** → **HMS Fiji (58)**. Statcard name → **John Brown & Co. / Clydebank Shipyard | Colony-class | HMS Fiji (58) (1941)**.
+        - **HMS Prince of Whales** → **HMS Prince of Wales (53)**. Statcard name → **Cammell Laird & Co. / Cape Town Dockyard | King George V-class | HMS Prince of Wales (53)**.
+        - **Type 61 (B)** → **61TK (B) (3 Chūtai)**. Statcard name **Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata (Dai 13 Sensha Daitai, Dai 3 Sensha Chūtai)**.
+            - Japanese package: **Type 61 (B)** → **61TK (B) (3中隊)**. Statcard name **三菱重工業 | 61式戦車B型 (第13戦車大隊, 第3戦車中隊)**.
+        - **Type 03 (TADS)** → **03 Shiki Sha Rēda Sō Sorabu**. Statcard name **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyorichi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsenbu**.
+            - Japanese package: **Type 03 (TADS)** → **03式射レーダ装空部**. Statcard name **三菱重工業 | 03式中距離地対空誘導弾射撃用レーダ装置空中線部**.
+        - **Type 03 (TEL)** → **03 Shiki Has Sō**. Statcard name **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyorichi Taikū Yūdōdan Hassha Sōchi**.
+            - Japanese package: **Type 03 (TEL)** → **03式発装**. Statcard name **三菱重工業 | 03式中距離地対空誘導弾発射装置**.
+        - **Type 03** (folder) → **03 Shiki**.
+            - Japanese package: **Type 03** (folder) → **03式**.
         - **Hawk 209** (Japan / Indonesia) → **Hawk Mk. 209**. Statcard name → **British Aerospace Hawk 209 | Hawk Mk. 209**.
         - **H-75M** → **Huòkè 75M**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75M / Zhōngyāng Fēijī Zhìzào Chǎng | Huòkè 75M Qūzhú Jī**.
             - Mandarin package: **H-75M** → **霍克75M**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75M / 中央飛機製造廠 | 霍克75M驅逐機**.
@@ -59,9 +85,16 @@ All dates are listed in DD-MM-YYYY format.
         - **HQ11** → **ADK11**. Statcard name → **Zhōngguó Gángtiān Kē Gōng Jítuán Youxiàn Gōngsī | HQ-11 | ADK11 Tōngyòng Mòduān Fángyù Wuqì Xìtong**.
             - Mandarin package: **HQ11** → **ADK11**. Statcard name → **中国航天科工集团有限公司 | HQ-11 | ADK11通用末端防御武器系统**.
             - Full Mandarin package: **HQ11** → **ADK11**. Statcard name → **中国航天科工集团有限公司 | 红旗-11 | ADK11通用末端防御武器系统**.
+        - **F-2000A (AESA)** → **F-2000A (P3Eb1)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A Typhoon (Phase 3 Enhancement B Step 1)**.
         - **Rafale M F3-R** → **Rafale M (F3R)**. Statcard name → **Dassault Aviation | Rafale M (F3R)**.
     - **TH 400** → **H 400**. Statcard name → **Henschel Wehrtechnik H 400**. The gun model is still wrong though smh...
     - **F5**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chǎng | Chugyŏkgi 《F5》**.
+    - **16MCV (C1) (15 Soku Ki)** → **16MCV (C1) (15RDR)**.
+        - Japanese package: **16MCV (C1) (15即機)** → **16MCV (C1) (15RDR)**.
+    - **81 Shiki (C) Sha Tō Sō / (C) Kadaibu** (folder) → **81 Shiki (C)**.
+        - Japanese package: **81式 (C) 射統装 / 架台部** (folder) → **81式 (C)**.
+    - **9S18M3 / 317M** (folder) → **9K317M**.
+    - Roundels added to the **F-2000A (P3Ea)** and **Typhoon F.G.R. Mk. 4 (Centurion)**.
 
 ### Weaponry:
 

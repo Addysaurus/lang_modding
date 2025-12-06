@@ -1363,7 +1363,7 @@ shop/group/ussr_2s_group;2S1 / 3M
 shop/group/ussr_zis_group;ZiS-12 (94-KM) / ZSU-37
 shop/group/ussr_it_9p149_group;IT-1 / 9P149M
 shop/group/ussr_9a33_35_group;9A33BM3 / 35M2
-shop/group/ussr_buk_m3_fcs_group;9S18M3 / A317M
+shop/group/ussr_buk_m3_fcs_group;9K317M
 shop/group/i-15_group;I-15 (SGR) / (M-22) / (M-25)
 shop/group/i-16_group;I-16 Tip 10 / 18 / 24
 shop/group/i-153_group;I-15bis / I-153
@@ -1467,7 +1467,8 @@ shop/group/jp_type_74_stb_group;STB-0002 / 74TK (C)
 shop/group/jp_type_74_group;74TK (E) / (F)
 shop/group/jp_type_90_group;90TK / TK (B)
 shop/group/jp_type_10_group;10TK / Shin TK 3 Gō (2009)
-shop/group/jp_type_81_tansam_fcs_group;81 Shiki (C) Sha Tō Sō / (C) Kadaibu
+shop/group/jp_type_81_tansam_fcs_group;81 Shiki (C)
+shop/group/jp_type_03_chusam_fcs_group;03 Shiki
 shop/group/jp_ho_ni_group;Ho Ni I / III
 shop/group/jp_st_group;ST-A1 / 2
 shop/group/ki-10_group;Ki 10-I / II / I (1 Sentai) / II (77 Sentai)
@@ -3847,6 +3848,10 @@ us_destroyer_cf_adams_class_cf_adams_shop;USS Charles F. Adams (DDG-2)
 us_destroyer_cf_adams_class_cf_adams_0;Bath Iron Works | Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)
 us_destroyer_cf_adams_class_cf_adams_1;USS Charles F. Adams
 us_destroyer_cf_adams_class_cf_adams_2;Guided Missile Destroyer
+us_destroyer_forrestsherman_class_shop;USS Forrest Sherman (DD-931)
+us_destroyer_forrestsherman_class_0;Bath Iron Works | Forrest Sherman-class Destroyer | USS Forrest Sherman (DD-931)
+us_destroyer_forrestsherman_class_1;USS Forrest Sherman
+us_destroyer_forrestsherman_class_2;Destroyer
 us_cruiser_atlanta_class_atlanta_shop;USS Atlanta (CL-51)
 us_cruiser_atlanta_class_atlanta_0;Federal Shipbuilding and Drydock Company | Atlanta-class Light Cruiser | USS Atlanta (CL-51)
 us_cruiser_atlanta_class_atlanta_1;USS Atlanta
@@ -3957,6 +3962,10 @@ us_battleship_mississippi_1;USS Mississippi
 us_battleship_mississippi_2;Battleship
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+us_battleship_south_dakota_shop;USS South Dakota (BB-57)
+us_battleship_south_dakota_0;New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | South Dakota-class Battleship | USS South Dakota (BB-57) (1944)
+us_battleship_south_dakota_1;USS South Dakota
+us_battleship_south_dakota_2;Battleship
 us_battleship_iowa_class_iowa_shop;USS Iowa (BB-61)
 us_battleship_iowa_class_iowa_0;Brooklyn Navy Yard / Hunters Point Naval Shipyard | Iowa-class Battleship | USS Iowa (BB-61) (1945)
 us_battleship_iowa_class_iowa_1;USS Iowa
@@ -4693,6 +4702,10 @@ ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
 ef_2000_block_10_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement A)
 ef_2000_block_10_1;◄ Eurofighter
 ef_2000_block_10_2;◄ Eurofighter
+ef_2000_aesa_shop;◄ Eurofighter (P3Eb1)
+ef_2000_aesa_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement B Step 1)
+ef_2000_aesa_1;◄ Eurofighter
+ef_2000_aesa_2;◄ Eurofighter
 mig_29_9_12_germany_shop;◊ MiG-29 (9-12A)
 mig_29_9_12_germany_0;◊ izd. 9-12A | MiG-29
 mig_29_9_12_germany_1;◊ MiG-29
@@ -5145,6 +5158,10 @@ su_24m_shop;Su-24M2
 su_24m_0;AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
 su_24m_1;Su-24M
 su_24m_2;Su-24
+mig_25pd_shop;MiG-25PD
+mig_25pd_0;Opytno-konstruktorskoye bûro № 155 | izd. 84D | Samolyet MiG-25PD
+mig_25pd_1;MiG-25PD
+mig_25pd_2;MiG-25
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 su_27_shop;Su-27
@@ -5417,10 +5434,14 @@ harrier_gr7_1;Harrier G.R. Mk. 7
 harrier_gr7_2;Harrier
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-ef_2000_fgr4_shop;Typhoon F.G.R. Mk. 4 (Centurion)
-ef_2000_fgr4_0;Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (Project Centurion Phase 2)
-ef_2000_fgr4_1;Typhoon F.G.R. Mk. 4
-ef_2000_fgr4_2;Typhoon
+ef_2000_fgr4_shop;▄ Typhoon F.G.R. Mk. 4 (Centurion)
+ef_2000_fgr4_0;▄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (Project Centurion Phase 2)
+ef_2000_fgr4_1;▄ Typhoon F.G.R. Mk. 4
+ef_2000_fgr4_2;▄ Typhoon
+ef_2000_typhoon_aesa_shop;▄ Typhoon F.G.R. Mk. 4 (P3Eb1)
+ef_2000_typhoon_aesa_0;▄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (Phase 3 Enhancement B Step 1)
+ef_2000_typhoon_aesa_1;▄ Typhoon F.G.R. Mk. 4
+ef_2000_typhoon_aesa_2;▄ Typhoon
 fa_18a_raaf_shop;▄ F/A-18A
 fa_18a_raaf_0;▄ McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet
 fa_18a_raaf_1;▄ F/A-18A
@@ -5725,8 +5746,16 @@ uk_battleship_q_elizabet_class_warspite_shop;HMS Warspite (03)
 uk_battleship_q_elizabet_class_warspite_0;Devonport Royal Dockyard / Naval Station Durban | Queen Elizabeth-class | HMS Warspite (03) (1943)
 uk_battleship_q_elizabet_class_warspite_1;HMS Warspite
 uk_battleship_q_elizabet_class_warspite_2;Super dreadnought
+uk_battleship_rodney_shop;HMS Rodney (29)
+uk_battleship_rodney_0;Cammell Laird & Co. / Rosyth Dockyard | Nelson-class | HMS Rodney (29) (1940)
+uk_battleship_rodney_1;HMS Rodney
+uk_battleship_rodney_2;Battleship
+uk_battleship_prince_of_wales_shop;HMS Prince of Wales (53)
+uk_battleship_prince_of_wales_0;Cammell Laird & Co. / Cape Town Dockyard | King George V-class | HMS Prince of Wales (53)
+uk_battleship_prince_of_wales_1;HMS Prince of Wales
+uk_battleship_prince_of_wales_2;Battleship
 
-//UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+//UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 uk_battleship_vanguard_shop;HMS Vanguard (23)
 uk_battleship_vanguard_0;John Brown & Co. | Vanguard-class | HMS Vanguard (23)
 uk_battleship_vanguard_1;HMS Vanguard
@@ -6468,6 +6497,10 @@ jp_type_61_shop;61TK (B)
 jp_type_61_0;Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata
 jp_type_61_1;61TK (B)
 jp_type_61_2;Medium tank
+jp_type_61_mod_shop;61TK (B) (3 Chūtai)
+jp_type_61_mod_0;Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata (Dai 13 Sensha Daitai, Dai 3 Sensha Chūtai)
+jp_type_61_mod_1;61TK (B)
+jp_type_61_mod_2;Medium tank
 jp_m36b2_jgsdf_shop;▅ M36B2 GMC
 jp_m36b2_jgsdf_0;"▅ GM Defense | G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
 jp_m36b2_jgsdf_1;▅ M36B2
@@ -6556,7 +6589,7 @@ jp_type_87_shop;87AW
 jp_type_87_0;"Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 87 Shiki Jisō Kōsha Kikanhō ""Sukaishūtā"""
 jp_type_87_1;87AW
 jp_type_87_2;SPAAG
-jp_type_16_mod_shop;16MCV (C1) (15 Soku Ki)
+jp_type_16_mod_shop;16MCV (C1) (15RDR)
 jp_type_16_mod_0;Mitsubishi Jū Kōgyō | 16 Shiki Kidō Sentō Sha (C1 Rotto) (Dai 15 Sokuō Kidō Rentai)
 jp_type_16_mod_1;16MCV
 jp_type_16_mod_2;Light tank
@@ -6614,6 +6647,14 @@ jp_type_81_tansam_launcher_shop;81 Shiki (C) Kadaibu
 jp_type_81_tansam_launcher_0;"Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyorichi Taikū Yūdōdan C Gata Kadaibu ""Shōto Arō"""
 jp_type_81_tansam_launcher_1;81 Shiki (C) Kadaibu
 jp_type_81_tansam_launcher_2;SPAAM
+jp_type_03_chusam_fcs_shop;03 Shiki Sha Rēda Sō Sorabu
+jp_type_03_chusam_fcs_0;Mitsubishi Jū Kōgyō | 03 Shiki Chūkyorichi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsenbu
+jp_type_03_chusam_fcs_1;03 Shiki Sha Rēda Sō Sorabu
+jp_type_03_chusam_fcs_2;Radar
+jp_type_03_chusam_launcher_shop;03 Shiki Has Sō
+jp_type_03_chusam_launcher_0;Mitsubishi Jū Kōgyō | 03 Shiki Chūkyorichi Taikū Yūdōdan Hassha Sōchi
+jp_type_03_chusam_launcher_1;03 Shiki Has Sō
+jp_type_03_chusam_launcher_2;Radar
 jp_icv_prototype_shop;25RCV
 jp_icv_prototype_0;Mitsubishi Jū Kōgyō | 25 Shiki Teisatsu Keikaisha
 jp_icv_prototype_1;25RCV
@@ -7196,10 +7237,14 @@ amx_1;A-11A
 amx_2;A-11
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-ef_2000a_shop;F-2000A (P3Ea)
-ef_2000a_0;Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A (Phase 3 Enhancement A)
-ef_2000a_1;F-2000A
-ef_2000a_2;F-2000
+ef_2000a_shop;⛨ F-2000A (P3Ea)
+ef_2000a_0;⛨ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A (Phase 3 Enhancement A)
+ef_2000a_1;⛨ F-2000A
+ef_2000a_2;⛨ F-2000
+ef_2000a_aesa_shop;⛨ F-2000A (P3Eb1)
+ef_2000a_aesa_0;⛨ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A Typhoon (Phase 3 Enhancement B Step 1)
+ef_2000a_aesa_1;⛨ F-2000A
+ef_2000a_aesa_2;⛨ F-2000
 tornado_ids_it_ret8_shop;A-200C (RET8)
 tornado_ids_it_ret8_0;Panavia Aircraft PA-200 | A-200C Tornado (Retro Enabling Task 8)
 tornado_ids_it_ret8_1;A-200C
@@ -14533,6 +14578,10 @@ uk_cruiser_leander_2;Light Cruiser
 uk_cruiser_leander_EC_0;Vickers-Armstrongs / Auckland Dockyard | Leander-class | HMNZS Leander (75) (1941)
 uk_cruiser_leander_EC_1;HMNZS Leander
 uk_cruiser_leander_EC_2;Light Cruiser
+uk_cruiser_fiji_class_fiji_shop;HMS Fiji (58)
+uk_cruiser_fiji_class_fiji_0;John Brown & Co. / Clydebank Shipyard | Colony-class | HMS Fiji (58) (1941)
+uk_cruiser_fiji_class_fiji_1;HMS Fiji
+uk_cruiser_fiji_class_fiji_2;Light Cruiser
 ussr_cruiser_kirov_shop;Kirov
 ussr_cruiser_kirov_0;Pr. 26, Kirov, 1941
 ussr_cruiser_kirov_1;Kirov
@@ -14848,10 +14897,6 @@ uk_battleship_centurion_shop;HMS Centurion (12)
 uk_battleship_centurion_0;Devonport Royal Dockyard | King George V-class | HMS Centurion (12)
 uk_battleship_centurion_1;HMS Centurion
 uk_battleship_centurion_2;Dreadnought
-uk_battleship_rodney_shop;HMS Rodney (29)
-uk_battleship_rodney_0;Cammell Laird & Co. / Rosyth Dockyard | Nelson-class | HMS Rodney (29) (1940)
-uk_battleship_rodney_1;HMS Rodney
-uk_battleship_rodney_2;Battleship
 uk_battleship_nelson_shop;HMS Nelson (28)
 uk_battleship_nelson_0;Vickers-Armstrongs / Philadelphia Navy Yard | Nelson-class | HMS Nelson (28) (1944)
 uk_battleship_nelson_1;HMS Nelson

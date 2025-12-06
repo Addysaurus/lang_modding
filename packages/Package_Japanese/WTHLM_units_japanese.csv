@@ -28,7 +28,8 @@ shop/group/jp_type_74_group;74TK (E) / (F)
 shop/group/jp_type_87_89_group;87RCV / 89FV
 shop/group/jp_type_90_group;90TK / TK (B)
 shop/group/jp_type_10_group;10TK / 新TK3号 (2009)
-shop/group/jp_type_81_tansam_fcs_group;81式 (C) 射統装 / 架台部
+shop/group/jp_type_81_tansam_fcs_group;81式 (C)
+shop/group/jp_type_03_chusam_fcs_group;03式
 shop/group/jp_cruiser_furutaka_aoba_group;古鷹 / 青葉
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
@@ -732,6 +733,10 @@ jp_type_61_shop;61TK (B)
 jp_type_61_0;三菱重工業 | 61式戦車B型
 jp_type_61_1;61TK (B)
 jp_type_61_2;Medium tank
+jp_type_61_mod_shop;61TK (B) (3中隊)
+jp_type_61_mod_0;三菱重工業 | 61式戦車B型 (第13戦車大隊, 第3戦車中隊)
+jp_type_61_mod_1;61TK (B)
+jp_type_61_mod_2;Medium tank
 jp_m36b2_jgsdf_shop;▅ M36B2 GMC
 jp_m36b2_jgsdf_0;"▅ GM Defense | G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
 jp_m36b2_jgsdf_1;▅ M36B2
@@ -812,7 +817,7 @@ jp_type_87_shop;87AW
 jp_type_87_0;三菱重工業 + 日本製鋼所 | 87式自走高射機関砲「スカイシューター」
 jp_type_87_1;87AW
 jp_type_87_2;SPAAG
-jp_type_16_mod_shop;16MCV (C1) (15即機)
+jp_type_16_mod_shop;16MCV (C1) (15RDR)
 jp_type_16_mod_0;三菱重工業 | 16式機動戦闘車 (C1ロット) (第15即応機動連隊)
 jp_type_16_mod_1;16MCV
 jp_type_16_mod_2;Light tank
@@ -862,6 +867,14 @@ jp_type_81_tansam_launcher_shop;81式 (C) 架台部
 jp_type_81_tansam_launcher_0;技術研究本部 + 東芝 | 81式短距離地対空誘導弾C型架台部「ショートアロー」
 jp_type_81_tansam_launcher_1;81式 (C) 架台部
 jp_type_81_tansam_launcher_2;SPAAM
+jp_type_03_chusam_fcs_shop;03式射レーダ装空部
+jp_type_03_chusam_fcs_0;三菱重工業 | 03式中距離地対空誘導弾射撃用レーダ装置空中線部
+jp_type_03_chusam_fcs_1;03式射レーダ装空部
+jp_type_03_chusam_fcs_2;Radar
+jp_type_03_chusam_launcher_shop;03式発装
+jp_type_03_chusam_launcher_0;三菱重工業 | 03式中距離地対空誘導弾発射装置
+jp_type_03_chusam_launcher_1;03式発装
+jp_type_03_chusam_launcher_2;Radar
 jp_icv_prototype_shop;25RCV
 jp_icv_prototype_0;三菱重工業 | 25式偵察警戒車
 jp_icv_prototype_1;25RCV

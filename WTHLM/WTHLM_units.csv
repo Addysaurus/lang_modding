@@ -4702,8 +4702,8 @@ ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
 ef_2000_block_10_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement A)
 ef_2000_block_10_1;◄ Eurofighter
 ef_2000_block_10_2;◄ Eurofighter
-ef_2000_aesa_shop;◄ Eurofighter (P3Eb1)
-ef_2000_aesa_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement B Step 1)
+ef_2000_aesa_shop;◄ Eurofighter (P3Ec1)
+ef_2000_aesa_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement C Step 1)
 ef_2000_aesa_1;◄ Eurofighter
 ef_2000_aesa_2;◄ Eurofighter
 mig_29_9_12_germany_shop;◊ MiG-29 (9-12A)
@@ -5020,6 +5020,10 @@ germ_marder_clovis_1;◄ CLOVIS
 germ_marder_clovis_2;Light tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+germ_jaguar_2_shop;RakJPz Jaguar 2
+germ_jaguar_2_0;Hispano Suiza HS 30 | Raketenjagdpanzer Jaguar 2
+germ_jaguar_2_1;Jaguar 2
+germ_jaguar_2_2;ATMC
 germ_th_800_bismark_shop;Class 3
 germ_th_800_bismark_0;"Henschel Wehrtechnik TH 800 / Sandock-Austral | Proto-Type, Class 3 Armored Car ""Bismarck"""
 germ_th_800_bismark_1;Class 3
@@ -5442,8 +5446,8 @@ ef_2000_fgr4_shop;▄ Typhoon F.G.R. Mk. 4 (Centurion)
 ef_2000_fgr4_0;▄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (Project Centurion Phase 2)
 ef_2000_fgr4_1;▄ Typhoon F.G.R. Mk. 4
 ef_2000_fgr4_2;▄ Typhoon
-ef_2000_typhoon_aesa_shop;▄ Typhoon F.G.R. Mk. 4 (P3Eb1)
-ef_2000_typhoon_aesa_0;▄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (Phase 3 Enhancement B Step 1)
+ef_2000_typhoon_aesa_shop;▄ Typhoon F.G.R. Mk. 4 (ZK355)
+ef_2000_typhoon_aesa_0;▄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (ZK355)
 ef_2000_typhoon_aesa_1;▄ Typhoon F.G.R. Mk. 4
 ef_2000_typhoon_aesa_2;▄ Typhoon
 fa_18a_raaf_shop;▄ F/A-18A
@@ -6513,7 +6517,7 @@ jp_type_61_shop;61TK (B)
 jp_type_61_0;Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata
 jp_type_61_1;61TK (B)
 jp_type_61_2;Medium tank
-jp_type_61_mod_shop;61TK (B) (3 Chūtai)
+jp_type_61_mod_shop;61TK (B) (13 Sen-3)
 jp_type_61_mod_0;Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata (Dai 13 Sensha Daitai, Dai 3 Sensha Chūtai)
 jp_type_61_mod_1;61TK (B)
 jp_type_61_mod_2;Medium tank
@@ -7265,8 +7269,8 @@ ef_2000a_shop;⛨ F-2000A (P3Ea)
 ef_2000a_0;⛨ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A (Phase 3 Enhancement A)
 ef_2000a_1;⛨ F-2000A
 ef_2000a_2;⛨ F-2000
-ef_2000a_aesa_shop;⛨ F-2000A (P3Eb1)
-ef_2000a_aesa_0;⛨ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A Typhoon (Phase 3 Enhancement B Step 1)
+ef_2000a_aesa_shop;⛨ F-2000A (ECRS Mk2)
+ef_2000a_aesa_0;⛨ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A Typhoon (ECRS Mk2)
 ef_2000a_aesa_1;⛨ F-2000A
 ef_2000a_aesa_2;⛨ F-2000
 tornado_ids_it_ret8_shop;A-200C (RET8)
@@ -7381,6 +7385,14 @@ it_9a35_m_shop;◔ 9A35M
 it_9a35_m_0;"◔ 9A35M önjáró légvédelmi rakétakomplexum ""Sztrela-10M"""
 it_9a35_m_1;◔ 9A35M
 it_9a35_m_2;SPAAM
+it_freccia_shop;VBM Freccia C/C
+it_freccia_0;Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro
+it_freccia_1;VBM Freccia C/C
+it_freccia_2;IFV
+it_freccia_hitfist_ows_shop;VBM Freccia C/C (OWS 30mm)
+it_freccia_hitfist_ows_0;Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)
+it_freccia_hitfist_ows_1;VBM Freccia C/C
+it_freccia_hitfist_ows_2;IFV
 it_leopard_2a4_shop;◔ Leopard 2A4HU
 it_leopard_2a4_0;◔ Krauss-Maffei Wegmann | Leopard 2A4HU harckocsi
 it_leopard_2a4_1;◔ Leopard 2A4
@@ -7883,6 +7895,10 @@ il_m113_hvms_1;Bardelas (HVMS 60)
 il_m113_hvms_2;Light Tank
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+il_merkava_mk_1_shop;Merkavah Mk. 1
+il_merkava_mk_1_0;Minhelet Pituḥ Haṭanḳ | Ṭanḳ Merkavah Siman 1
+il_merkava_mk_1_1;Merkavah Mk. 1
+il_merkava_mk_1_2;MBT
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 il_mim_72_chaparral_shop;Draḳon
@@ -12383,10 +12399,6 @@ it_dardo_vcc_shop;VCC-80 Dardo
 it_dardo_vcc_0;Veicolo Cingolato da Combattimento 80 Dardo
 it_dardo_vcc_1;Dardo
 it_dardo_vcc_2;Light tank
-it_freccia_shop;VBM Freccia C/C
-it_freccia_0;Veicolo Blindato Medio Freccia Contro Carro
-it_freccia_1;Freccia
-it_freccia_2;Light tank
 it_vbc_pt2_shop;VBC Centauro PT 2
 it_vbc_pt2_0;Veicolo Blindato da Combattimento Centauro Prototipo 2
 it_vbc_pt2_1;VBC Centauro

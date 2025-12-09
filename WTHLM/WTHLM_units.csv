@@ -4702,8 +4702,8 @@ ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
 ef_2000_block_10_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement A)
 ef_2000_block_10_1;◄ Eurofighter
 ef_2000_block_10_2;◄ Eurofighter
-ef_2000_aesa_shop;◄ Eurofighter (P3Eb1)
-ef_2000_aesa_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement B Step 1)
+ef_2000_aesa_shop;◄ Eurofighter (P3Ec1)
+ef_2000_aesa_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement C Step 1)
 ef_2000_aesa_1;◄ Eurofighter
 ef_2000_aesa_2;◄ Eurofighter
 mig_29_9_12_germany_shop;◊ MiG-29 (9-12A)
@@ -5020,6 +5020,10 @@ germ_marder_clovis_1;◄ CLOVIS
 germ_marder_clovis_2;Light tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+germ_jaguar_2_shop;RakJPz Jaguar 2
+germ_jaguar_2_0;Hispano Suiza HS 30 | Raketenjagdpanzer Jaguar 2
+germ_jaguar_2_1;Jaguar 2
+germ_jaguar_2_2;ATMC
 germ_th_800_bismark_shop;Class 3
 germ_th_800_bismark_0;"Henschel Wehrtechnik TH 800 / Sandock-Austral | Proto-Type, Class 3 Armored Car ""Bismarck"""
 germ_th_800_bismark_1;Class 3
@@ -5074,6 +5078,10 @@ germ_schutze_class_2;Minesweeper
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+germ_pr1331_shop;Wismar (241)
+germ_pr1331_0;Peene-Werft | U-Boot-Abwehrschiff Projekt 133.1 | Wismar (241)
+germ_pr1331_1;Wismar (241)
+germ_pr1331_2;Minesweeper
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 
@@ -5126,6 +5134,10 @@ kor_2_shop;Bye-4
 kor_2_0;Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Samolyet Bye-4
 kor_2_1;Bye-4
 kor_2_2;Bye-4
+db_lk_shop;DB-LK
+db_lk_0;Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet DB-LK
+db_lk_1;DB-LK
+db_lk_2;DB-LK
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 yak_1_litvyak_shop;Litvâk's Yak-1
@@ -5353,17 +5365,21 @@ ussr_destroyer_pr48k_erevan_2;Destroyer
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 ussr_battlecruiser_kronshtadt_shop;Kronštadt
-ussr_battlecruiser_kronshtadt_0;Zavod № 194 im. Marti | Tâžyelyye kryejsyer proyekt 69, tip Kronštadt | Kronštadt
+ussr_battlecruiser_kronshtadt_0;Zavod № 194 im. Marti | Tâžëlyye kryejsyer proyekt 69, tip Kronštadt | Kronštadt
 ussr_battlecruiser_kronshtadt_1;Kronštadt
 ussr_battlecruiser_kronshtadt_2;Battlecruiser
 ussr_battlecruiser_sevastopol_shop;Syevastopol'
-ussr_battlecruiser_sevastopol_0;Sudostroityel'nyj zavod № 200 imyeni 61 kommunara | Tâžyelyye kryejsyer proyekt 69I, tip Kronštadt | Syevastopol'
+ussr_battlecruiser_sevastopol_0;Sudostroityel'nyj zavod № 200 imyeni 61 kommunara | Tâžëlyye kryejsyer proyekt 69I, tip Kronštadt | Syevastopol'
 ussr_battlecruiser_sevastopol_1;Syevastopol'
 ussr_battlecruiser_sevastopol_2;Battlecruiser
+ussr_battlecruiser_stalingrad_shop;Stalingrad
+ussr_battlecruiser_stalingrad_0;"Nikolayevskiye ob""yedinënnyye gosudarstvyennyye zavody im. Andrye Marti | Tâžëlyye kryejsyer proyekt 82, tip Stalingrad | Stalingrad"
+ussr_battlecruiser_stalingrad_1;Stalingrad
+ussr_battlecruiser_stalingrad_2;Battlecruiser
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 ussr_battleship_pr23_sovetskij_soyuz_shop;Sovyetskij Soûz
-ussr_battleship_pr23_sovetskij_soyuz_0;Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Linyéjnyj korábl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz
+ussr_battleship_pr23_sovetskij_soyuz_0;Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Linyejnyj korabl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz
 ussr_battleship_pr23_sovetskij_soyuz_1;Sovyetskij Soûz
 ussr_battleship_pr23_sovetskij_soyuz_2;Battleship
 
@@ -5438,8 +5454,8 @@ ef_2000_fgr4_shop;▄ Typhoon F.G.R. Mk. 4 (Centurion)
 ef_2000_fgr4_0;▄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (Project Centurion Phase 2)
 ef_2000_fgr4_1;▄ Typhoon F.G.R. Mk. 4
 ef_2000_fgr4_2;▄ Typhoon
-ef_2000_typhoon_aesa_shop;▄ Typhoon F.G.R. Mk. 4 (P3Eb1)
-ef_2000_typhoon_aesa_0;▄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (Phase 3 Enhancement B Step 1)
+ef_2000_typhoon_aesa_shop;▄ Typhoon F.G.R. Mk. 4 (ZK355)
+ef_2000_typhoon_aesa_0;▄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (ZK355)
 ef_2000_typhoon_aesa_1;▄ Typhoon F.G.R. Mk. 4
 ef_2000_typhoon_aesa_2;▄ Typhoon
 fa_18a_raaf_shop;▄ F/A-18A
@@ -6291,6 +6307,18 @@ f_16a_block_15_ocu_thailand_shop;B.Kh.19
 f_16a_block_15_ocu_thailand_0;General Dynamics Corporation | Ekhrụxng Bin Khạb Lị Bæb Thī 19
 f_16a_block_15_ocu_thailand_1;B.Kh.19
 f_16a_block_15_ocu_thailand_2;B.Kh.19
+saab_jas39c_thailand_shop;B.Kh.20
+saab_jas39c_thailand_0;Saab 39 C | Ekhrụxng Bin Khạb Lị Bæb Thī 20
+saab_jas39c_thailand_1;B.Kh.20
+saab_jas39c_thailand_2;B.Kh.20
+fa_18d_late_malaysia_shop;▄ F/A-18D
+fa_18d_late_malaysia_0;▄ McDonnell Douglas Corporation Model 267 | F/A-18D Hornet
+fa_18d_late_malaysia_1;▄ F/A-18D
+fa_18d_late_malaysia_2;▄ F/A-18
+su_30mkm_shop;▄ Su-30MKM
+su_30mkm_0;▄ AO «Kompaniâ Sukhoj» | Su-30MKM
+su_30mkm_1;▄ Su-30MKM
+su_30mkm_2;▄ Su-30
 
 //JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 uh_1b_japan_shop;▅ UH-1B
@@ -6497,7 +6525,7 @@ jp_type_61_shop;61TK (B)
 jp_type_61_0;Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata
 jp_type_61_1;61TK (B)
 jp_type_61_2;Medium tank
-jp_type_61_mod_shop;61TK (B) (3 Chūtai)
+jp_type_61_mod_shop;61TK (B) (13 Sen-3)
 jp_type_61_mod_0;Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata (Dai 13 Sensha Daitai, Dai 3 Sensha Chūtai)
 jp_type_61_mod_1;61TK (B)
 jp_type_61_mod_2;Medium tank
@@ -6951,6 +6979,10 @@ jp_cruiser_agano_2;Light cruiser
 jp_cruiser_agano_EC_0;Sasebo Kaigun Kōshō | Nitō Junyōkan | Agano Gata Junyōkan (C-41-II) | Agano (1943)
 jp_cruiser_agano_EC_1;Agano
 jp_cruiser_agano_EC_2;Light cruiser
+jp_cruiser_oyodo_shop;Ōyodo
+jp_cruiser_oyodo_0;Kure Kaigun Kōshō / Dai 101 Kaigun Shisetsubu | Santō Junyōkan | Ōyodo Gata Junyōkan (C-42) | Ōyodo (1945)
+jp_cruiser_oyodo_1;Ōyodo
+jp_cruiser_oyodo_2;Light cruiser
 jp_armoredcruiser_ikoma_shop;Ikoma
 jp_armoredcruiser_ikoma_0;Kure Kaigun Kōshō | Ittō Junyōkan | Tsukuba Gata Junyōkan (B-12) | Ikoma (1912)
 jp_armoredcruiser_ikoma_1;Ikoma
@@ -6961,14 +6993,6 @@ jp_cruiser_tone_shop;Tone
 jp_cruiser_tone_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Tone Gata Junyōkan (C-38) | Tone (1945)
 jp_cruiser_tone_1;Tone
 jp_cruiser_tone_2;Heavy cruiser
-jp_battleship_settsu_shop;Settsu
-jp_battleship_settsu_0;Kure Kaigun Kōshō | Kawachi Gata Senkan (A-30) | Settsu
-jp_battleship_settsu_1;Settsu
-jp_battleship_settsu_2;Battleship
-jp_battlecruiser_hiei_shop;Hiei
-jp_battlecruiser_hiei_0;Yokosuka Kaigun Kōshō / Kure Kaigun Kōshō | Kongō Gata Junyōsenkan (B-46) | Hiei (1923)
-jp_battlecruiser_hiei_1;Hiei
-jp_battlecruiser_hiei_2;Battlecruiser
 jp_cruiser_mogami_suzuya_shop;Suzuya
 jp_cruiser_mogami_suzuya_0;Yokosuka Kaigun Kōshō | Nitō Junyōkan | Mogami Gata Junyōkan (C-37) | Suzuya
 jp_cruiser_mogami_suzuya_1;Suzuya
@@ -6981,6 +7005,34 @@ jp_cruiser_mogami_mikuma_shop;Mikuma
 jp_cruiser_mogami_mikuma_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Nitō Junyōkan | Mogami Gata Junyōkan (C-37) | Mikuma
 jp_cruiser_mogami_mikuma_1;Mikuma
 jp_cruiser_mogami_mikuma_2;Light cruiser
+jp_battleship_hyuga_shop;Hyūga
+jp_battleship_hyuga_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Ise Gata Senkan (A-92) | Hyūga
+jp_battleship_hyuga_1;Hyūga
+jp_battleship_hyuga_2;Battleship
+jp_battleship_settsu_shop;Settsu
+jp_battleship_settsu_0;Kure Kaigun Kōshō | Kawachi Gata Senkan (A-30) | Settsu
+jp_battleship_settsu_1;Settsu
+jp_battleship_settsu_2;Battleship
+jp_battlecruiser_hiei_shop;Hiei
+jp_battlecruiser_hiei_0;Yokosuka Kaigun Kōshō / Kure Kaigun Kōshō | Kongō Gata Junyōsenkan (B-46) | Hiei (1923)
+jp_battlecruiser_hiei_1;Hiei
+jp_battlecruiser_hiei_2;Battlecruiser
+jp_battlecruiser_kirishima_shop;Kirishima
+jp_battlecruiser_kirishima_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kirishima (1942)
+jp_battlecruiser_kirishima_1;Kirishima
+jp_battlecruiser_kirishima_2;Battleship
+jp_battlecruiser_haruna_shop;Haruna
+jp_battlecruiser_haruna_0;Kawasaki Zōsensho | Kongō Gata Senkan (B-46) | Haruna (1945)
+jp_battlecruiser_haruna_1;Haruna
+jp_battlecruiser_haruna_2;Battleship
+jp_battlecruiser_kongo_shop;Kongō
+jp_battlecruiser_kongo_0;Vickers-Armstrongs / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kongō (1944)
+jp_battlecruiser_kongo_1;Kongō
+jp_battlecruiser_kongo_2;Battleship
+jp_armoredcruiser_kurama_shop;Kurama
+jp_armoredcruiser_kurama_0;Yokosuka Kaigun Kōshō | Ittō Junyōkan | Kurama Gata Junyōkan (B-17) | Kurama (1919)
+jp_armoredcruiser_kurama_1;Kurama
+jp_armoredcruiser_kurama_2;Battlecruiser
 jp_battleship_yamashiro_shop;Yamashiro
 jp_battleship_yamashiro_0;Yokosuka Kaigun Kōshō | Fusō Gata Senkan (A-64) | Yamashiro
 jp_battleship_yamashiro_1;Yamashiro
@@ -6989,28 +7041,12 @@ jp_battleship_fuso_shop;Fusō
 jp_battleship_fuso_0;Kure Kaigun Kōshō | Fusō Gata Senkan (A-64) | Fusō
 jp_battleship_fuso_1;Fusō
 jp_battleship_fuso_2;Battleship
-jp_armoredcruiser_kurama_shop;Kurama
-jp_armoredcruiser_kurama_0;Yokosuka Kaigun Kōshō | Ittō Junyōkan | Kurama Gata Junyōkan (B-17) | Kurama (1919)
-jp_armoredcruiser_kurama_1;Kurama
-jp_armoredcruiser_kurama_2;Battlecruiser
-jp_battlecruiser_haruna_shop;Haruna
-jp_battlecruiser_haruna_0;Kawasaki Zōsensho | Kongō Gata Senkan (B-46) | Haruna (1945)
-jp_battlecruiser_haruna_1;Haruna
-jp_battlecruiser_haruna_2;Battleship
-jp_battlecruiser_kirishima_shop;Kirishima
-jp_battlecruiser_kirishima_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kirishima (1942)
-jp_battlecruiser_kirishima_1;Kirishima
-jp_battlecruiser_kirishima_2;Battleship
-jp_battlecruiser_kongo_shop;Kongō
-jp_battlecruiser_kongo_0;Vickers-Armstrongs / Sasebo Kaigun Kōshō | Kongō Gata Senkan (B-46) | Kongō (1944)
-jp_battlecruiser_kongo_1;Kongō
-jp_battlecruiser_kongo_2;Battleship
+jp_battleship_tosa_shop;Tosa
+jp_battleship_tosa_0;Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo | Tosa Gata Senkan (A-127) | Tosa
+jp_battleship_tosa_1;Tosa
+jp_battleship_tosa_2;Battleship
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 6
-jp_battleship_hyuga_shop;Hyūga
-jp_battleship_hyuga_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Ise Gata Senkan (A-92) | Hyūga
-jp_battleship_hyuga_1;Hyūga
-jp_battleship_hyuga_2;Battleship
 jp_battleship_ise_shop;Ise
 jp_battleship_ise_0;Kawasaki Zōsensho | Ise Gata Senkan (A-92) | Ise (1937)
 jp_battleship_ise_1;Ise
@@ -7075,6 +7111,18 @@ mig-17_f5_1;▆ F5
 mig-17_f5_2;▆ F5
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+jh_7_shop;H/JJH7
+jh_7_0;"Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7 Xíng Fēijī ""Fēi Bào"""
+jh_7_1;H/JJH7
+jh_7_2;H/JJH7
+jh_7a_shop;K/JJH7A
+jh_7a_0;"Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī ""Fēi Bào"""
+jh_7a_1;K/JJH7A
+jh_7a_2;K/JJH7
+jh_7a_prototype_shop;K/JJH7A (prototype)
+jh_7a_prototype_0;"Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī ""Fēi Bào"" (prototype)"
+jh_7a_prototype_1;K/JJH7A
+jh_7a_prototype_2;K/JJH7
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 j_10a_shop;J10A
@@ -7093,18 +7141,10 @@ j_11b_shop;J11B
 j_11b_0;"Shěnyáng Fēijī Gōngyè Jítuán | J11B ""Yìng Lóng"""
 j_11b_1;J11B
 j_11b_2;J11
-jh_7_shop;H/JJH7
-jh_7_0;"Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7 Xíng Fēijī ""Fēi Bào"""
-jh_7_1;H/JJH7
-jh_7_2;H/JJH7
-jh_7a_shop;K/JJH7A
-jh_7a_0;"Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī ""Fēi Bào"""
-jh_7a_1;K/JJH7A
-jh_7a_2;K/JJH7
-jh_7a_prototype_shop;K/JJH7A (prototype)
-jh_7a_prototype_0;"Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī ""Fēi Bào"" (prototype)"
-jh_7a_prototype_1;K/JJH7A
-jh_7a_prototype_2;K/JJH7
+su_30mkk_shop;␗ Sū 30MKK
+su_30mkk_0;␗ PAO «Kompaniâ Sukhoj» | Sū 30MKK Xíng Fēijī
+su_30mkk_1;␗ Sū 30MKK
+su_30mkk_2;␗ Sū 30
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
@@ -7241,8 +7281,8 @@ ef_2000a_shop;⛨ F-2000A (P3Ea)
 ef_2000a_0;⛨ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A (Phase 3 Enhancement A)
 ef_2000a_1;⛨ F-2000A
 ef_2000a_2;⛨ F-2000
-ef_2000a_aesa_shop;⛨ F-2000A (P3Eb1)
-ef_2000a_aesa_0;⛨ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A Typhoon (Phase 3 Enhancement B Step 1)
+ef_2000a_aesa_shop;⛨ F-2000A (ECRS Mk2)
+ef_2000a_aesa_0;⛨ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A Typhoon (ECRS Mk2)
 ef_2000a_aesa_1;⛨ F-2000A
 ef_2000a_aesa_2;⛨ F-2000
 tornado_ids_it_ret8_shop;A-200C (RET8)
@@ -7357,6 +7397,14 @@ it_9a35_m_shop;◔ 9A35M
 it_9a35_m_0;"◔ 9A35M önjáró légvédelmi rakétakomplexum ""Sztrela-10M"""
 it_9a35_m_1;◔ 9A35M
 it_9a35_m_2;SPAAM
+it_freccia_shop;VBM Freccia C/C
+it_freccia_0;Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro
+it_freccia_1;VBM Freccia C/C
+it_freccia_2;IFV
+it_freccia_hitfist_ows_shop;VBM Freccia C/C (OWS 30mm)
+it_freccia_hitfist_ows_0;Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)
+it_freccia_hitfist_ows_1;VBM Freccia C/C
+it_freccia_hitfist_ows_2;IFV
 it_leopard_2a4_shop;◔ Leopard 2A4HU
 it_leopard_2a4_0;◔ Krauss-Maffei Wegmann | Leopard 2A4HU harckocsi
 it_leopard_2a4_1;◔ Leopard 2A4
@@ -7397,6 +7445,10 @@ it_mc492_baleno_1;Baleno (MC 492)
 it_mc492_baleno_2;Motor Torpedo Boat
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+it_cassiopea_p401_shop;Cassiopea (P 401)
+it_cassiopea_p401_0;Fincantieri del Muggiano | Pattugliatori Classe Cassiopea | Cassiopea (P 401)
+it_cassiopea_p401_1;Cassiopea
+it_cassiopea_p401_2;Patrol Vessel
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 it_destroyer_maestrale_class_grecale_shop;Grecale (GR)
@@ -7859,6 +7911,10 @@ il_m113_hvms_1;Bardelas (HVMS 60)
 il_m113_hvms_2;Light Tank
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+il_merkava_mk_1_shop;Merkavah Mk. 1
+il_merkava_mk_1_0;Meḥalḳet Pituḥ Haṭanḳ | Ṭanḳ Merkavah Siman 1
+il_merkava_mk_1_1;Merkavah Mk. 1
+il_merkava_mk_1_2;MBT
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 il_mim_72_chaparral_shop;Draḳon
@@ -10059,10 +10115,6 @@ saab_jas39c_hungary_shop;◔ JAS 39 C EBS HU
 saab_jas39c_hungary_0;◔ Saab 39 Gripen C | JAS 39 C EBS HU Gripen
 saab_jas39c_hungary_1;◔ JAS 39 C
 saab_jas39c_hungary_2;◔ JAS 39
-saab_jas39c_thailand_shop;B.Kh.20
-saab_jas39c_thailand_0;Saab 39 C | Ekhrụxng Bin Khạb Lị Bæb Thī 20
-saab_jas39c_thailand_1;B.Kh.20
-saab_jas39c_thailand_2;B.Kh.20
 sb2c_5_thailand_shop;B.J.3
 sb2c_5_thailand_0;Curtiss-Wright Corporation | Ekhrụxng Bin Jomtī Bæb Thī 3
 sb2c_5_thailand_1;B.J.3
@@ -12363,10 +12415,6 @@ it_dardo_vcc_shop;VCC-80 Dardo
 it_dardo_vcc_0;Veicolo Cingolato da Combattimento 80 Dardo
 it_dardo_vcc_1;Dardo
 it_dardo_vcc_2;Light tank
-it_freccia_shop;VBM Freccia C/C
-it_freccia_0;Veicolo Blindato Medio Freccia Contro Carro
-it_freccia_1;Freccia
-it_freccia_2;Light tank
 it_vbc_pt2_shop;VBC Centauro PT 2
 it_vbc_pt2_0;Veicolo Blindato da Combattimento Centauro Prototipo 2
 it_vbc_pt2_1;VBC Centauro

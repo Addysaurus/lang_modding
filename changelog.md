@@ -35,8 +35,10 @@ All dates are listed in DD-MM-YYYY format.
         - **EF-2000 (AESA)**
         - **Jaguar 2**
         - **MPK Pr.1331**
+        - **Lütjens**
         - **DB-LK**
         - **MiG-25PD**
+        - **Su-30SM2**
         - **BMPT**
         - **BMPT-72**
         - **Tor-M1**
@@ -57,6 +59,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Su-30MKK**
         - **M1A2T** (China / Taiwan)
         - **HQ11**
+        - **MB-326B**
         - **F-2000A (AESA)**
         - **Freccia OWS 30**
         - **Cassiopea**
@@ -74,8 +77,10 @@ All dates are listed in DD-MM-YYYY format.
         - **EF-2000 (AESA)** → **Eurofighter (P3Ec1)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement C Step 1)**. It's an evil nightmare hybrid and I don't care anymore.
         - **Jaguar 2** → **RakJPz Jaguar 2**. Statcard name → **Hispano Suiza HS 30 | Raketenjagdpanzer Jaguar 2**.
         - **MPK Pr.1331** → **Wismar (241)**. Statcard name → **Peene-Werft | U-Boot-Abwehrschiff Projekt 133.1 | Wismar (241)**.
+        - **Lütjens** → **Lütjens (D 185)**. Statcard name → **Bath Iron Works | Zerstörer Lütjens-Klasse (Typ 103) | Lütjens (D 185)**.
         - **DB-LK**: Statcard name → **Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet DB-LK**.
         - **MiG-25PD**: Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. 84D | Samolyet MiG-25PD**.
+        - **Su-30SM2**: Statcard name → **PAO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM2**.
         - **BMPT** → **BMPT (2017)**. Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2017 g. «Tyerminator»**.
         - **BMPT-72**: Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 «Tyerminator-2»**.
         - **Tor-M1** → **9A331-1**. Statcard name → **Naučno-proizvodstvyennoye ob"yedinyeniye Antyej | Boyevaâ mašina 9A331-1**.
@@ -86,8 +91,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Hawk 209** (Japan / Indonesia) → **Hawk Mk. 209**. Statcard name → **British Aerospace Hawk 209 | Hawk Mk. 209**.
         - **F/A-18D Late** (Japan / Malaysia) → **F/A-18D**. Statcard name → **McDonnell Douglas Corporation Model 267 | F/A-18D Hornet**.
         - **Su-30MKM** (Japan / Malaysia): Statcard name → **AO «Kompaniâ Sukhoj» | Su-30MKM**.
-        - **Type 61 (B)** → **61TK (B) (13 Sen-3)**. Statcard name **Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata (Dai 13 Sensha Daitai, Dai 3 Sensha Chūtai)**.
-            - Japanese package: **Type 61 (B)** → **61TK (B) (13戦-3)**. Statcard name **三菱重工業 | 61式戦車B型 (第13戦車大隊, 第3戦車中隊)**.
+        - **Type 61 (B)** → **61TK (C) (13 Sen-3)**. Statcard name **Mitsubishi Jū Kōgyō | 61 Shiki Sensha C Gata (Dai 13 Sensha Daitai, Dai 3 Sensha Chūtai)**.
+            - Japanese package: **Type 61 (C)** → **61TK (C) (13戦-3)**. Statcard name **三菱重工業 | 61式戦車C型 (第13戦車大隊, 第3戦車中隊)**.
         - **Type 03 (TADS)** → **03 Shiki Sha Rēda Sō Sorabu**. Statcard name **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyorichi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsenbu**.
             - Japanese package: **Type 03 (TADS)** → **03式射レーダ装空部**. Statcard name **三菱重工業 | 03式中距離地対空誘導弾射撃用レーダ装置空中線部**.
         - **Type 03 (TEL)** → **03 Shiki Has Sō**. Statcard name **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyorichi Taikū Yūdōdan Hassha Sōchi**.
@@ -110,6 +115,7 @@ All dates are listed in DD-MM-YYYY format.
         - **HQ11** → **ADK11**. Statcard name → **Zhōngguó Gángtiān Kē Gōng Jítuán Youxiàn Gōngsī | HQ-11 | ADK11 Tōngyòng Mòduān Fángyù Wuqì Xìtong**.
             - Mandarin package: **HQ11** → **ADK11**. Statcard name → **中国航天科工集团有限公司 | HQ-11 | ADK11通用末端防御武器系统**.
             - Full Mandarin package: **HQ11** → **ADK11**. Statcard name → **中国航天科工集团有限公司 | 红旗-11 | ADK11通用末端防御武器系统**.
+        - **MB-326B**: Statcard name → **Aermacchi MB-326B**.
         - **F-2000A (AESA)** → **F-2000A (ECRS Mk2)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A Typhoon (ECRS Mk2)**. It's an evil nightmare hybrid and I don't care anymore.
         - **Freccia OWS 30** → **VBM Freccia C/C (OWS 30mm)**. Statcard name → **Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)**.
         - **Cassiopea** → **Cassiopea (P 401)**. Statcard name → **Fincantieri del Muggiano | Pattugliatori Classe Cassiopea | Cassiopea (P 401)**.
@@ -123,9 +129,9 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: **81式 (C) 射統装 / 架台部** (folder) → **81式 (C)**.
     - **9S18M3 / 317M** (folder) → **9K317M**.
     - Roundels added to the **F-2000A (P3Ea)** and **Typhoon F.G.R. Mk. 4 (Centurion)**.
-    - **VBM Freccia C/C**: Statcard name → **Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro**.
     - Corrected the transliteration of "Тяжёлые" to be "Tâžëlyye" rather than "Tâžyelyye" for the **Kronštadt** and **Syevastopol'**.
     - **Sovyetskij Soûz**: Statcard name → **Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Linyejnyj korabl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
+    - **AO «Kompaniâ Sukhoj»** (manufacturer) → **PAO «Kompaniâ Sukhoj»**.
 
 ### Weaponry:
 

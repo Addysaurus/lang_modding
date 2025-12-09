@@ -120,7 +120,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Freccia OWS 30** → **VBM Freccia C/C (OWS 30mm)**. Statcard name → **Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)**.
         - **Cassiopea** → **Cassiopea (P 401)**. Statcard name → **Fincantieri del Muggiano | Pattugliatori Classe Cassiopea | Cassiopea (P 401)**.
         - **Rafale M F3-R** → **Rafale M (F3R)**. Statcard name → **Dassault Aviation | Rafale M (F3R)**.
-        - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Meḥalḳet Pituḥ Haṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
+        - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Minhalet Tokhnit ha-Merkavah ve-ha-Raḳam, Meḥalḳet Pituḥ ha-Ṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
     - **TH 400** → **H 400**. Statcard name → **Henschel Wehrtechnik H 400**. The gun model is still wrong though smh...
     - **F5**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chǎng | Chugyŏkgi 《F5》**.
     - **16MCV (C1) (15 Soku Ki)** → **16MCV (C1) (15RDR)**.

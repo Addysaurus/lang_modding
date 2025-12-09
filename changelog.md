@@ -34,6 +34,7 @@ All dates are listed in DD-MM-YYYY format.
         - **USS South Dakota**
         - **EF-2000 (AESA)**
         - **Jaguar 2**
+        - **MPK Pr.1331**
         - **DB-LK**
         - **MiG-25PD**
         - **BMPT**
@@ -58,6 +59,7 @@ All dates are listed in DD-MM-YYYY format.
         - **HQ11**
         - **F-2000A (AESA)**
         - **Freccia OWS 30**
+        - **Cassiopea**
         - **Rafale M F3-R**
         - **Merkava Mk.1**
 
@@ -71,12 +73,13 @@ All dates are listed in DD-MM-YYYY format.
         - **USS South Dakota** → **USS South Dakota (BB-57)**. Statcard name → **New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | South Dakota-class Battleship | USS South Dakota (BB-57) (1944)**.
         - **EF-2000 (AESA)** → **Eurofighter (P3Ec1)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement C Step 1)**. It's an evil nightmare hybrid and I don't care anymore.
         - **Jaguar 2** → **RakJPz Jaguar 2**. Statcard name → **Hispano Suiza HS 30 | Raketenjagdpanzer Jaguar 2**.
+        - **MPK Pr.1331** → **Wismar (241)**. Statcard name → **Peene-Werft | U-Boot-Abwehrschiff Projekt 133.1 | Wismar (241)**.
         - **DB-LK**: Statcard name → **Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet DB-LK**.
         - **MiG-25PD**: Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. 84D | Samolyet MiG-25PD**.
         - **BMPT** → **BMPT (2017)**. Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2017 g. «Tyerminator»**.
         - **BMPT-72**: Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 «Tyerminator-2»**.
         - **Tor-M1** → **9A331-1**. Statcard name → **Naučno-proizvodstvyennoye ob"yedinyeniye Antyej | Boyevaâ mašina 9A331-1**.
-        - **Stalingrad**: Statcard name → **Nikolayevskiye ob"yedinënnyye gosudarstvyennyye zavody im. Andrye Marti | Tâžyelyye kryejsyer proyekt 82, tip Stalingrad | Stalingrad**.
+        - **Stalingrad**: Statcard name → **Nikolayevskiye ob"yedinënnyye gosudarstvyennyye zavody im. Andrye Marti | Tâžëlyye kryejsyer proyekt 82, tip Stalingrad | Stalingrad**.
         - **Typhoon (AESA)** → **Typhoon F.G.R. Mk. 4 (ZK355)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (ZK355)**.
         - **HMS Fiji** → **HMS Fiji (58)**. Statcard name → **John Brown & Co. / Clydebank Shipyard | Colony-class | HMS Fiji (58) (1941)**.
         - **HMS Prince of Whales** → **HMS Prince of Wales (53)**. Statcard name → **Cammell Laird & Co. / Cape Town Dockyard | King George V-class | HMS Prince of Wales (53)**.
@@ -109,6 +112,7 @@ All dates are listed in DD-MM-YYYY format.
             - Full Mandarin package: **HQ11** → **ADK11**. Statcard name → **中国航天科工集团有限公司 | 红旗-11 | ADK11通用末端防御武器系统**.
         - **F-2000A (AESA)** → **F-2000A (ECRS Mk2)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A Typhoon (ECRS Mk2)**. It's an evil nightmare hybrid and I don't care anymore.
         - **Freccia OWS 30** → **VBM Freccia C/C (OWS 30mm)**. Statcard name → **Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)**.
+        - **Cassiopea** → **Cassiopea (P 401)**. Statcard name → **Fincantieri del Muggiano | Pattugliatori Classe Cassiopea | Cassiopea (P 401)**.
         - **Rafale M F3-R** → **Rafale M (F3R)**. Statcard name → **Dassault Aviation | Rafale M (F3R)**.
         - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Meḥalḳet Pituḥ Haṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
     - **TH 400** → **H 400**. Statcard name → **Henschel Wehrtechnik H 400**. The gun model is still wrong though smh...
@@ -121,6 +125,7 @@ All dates are listed in DD-MM-YYYY format.
     - Roundels added to the **F-2000A (P3Ea)** and **Typhoon F.G.R. Mk. 4 (Centurion)**.
     - **VBM Freccia C/C**: Statcard name → **Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro**.
     - Corrected the transliteration of "Тяжёлые" to be "Tâžëlyye" rather than "Tâžyelyye" for the **Kronštadt** and **Syevastopol'**.
+    - **Sovyetskij Soûz**: Statcard name → **Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Linyejnyj korabl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
 
 ### Weaponry:
 

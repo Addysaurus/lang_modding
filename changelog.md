@@ -63,7 +63,9 @@ All dates are listed in DD-MM-YYYY format.
         - **F-2000A (AESA)**
         - **Freccia OWS 30**
         - **Cassiopea**
+        - **RN Armando Diaz**
         - **Rafale M F3-R**
+        - **Suffren**
         - **Merkava Mk.1**
 
 - #### Changes:
@@ -119,7 +121,9 @@ All dates are listed in DD-MM-YYYY format.
         - **F-2000A (AESA)** → **F-2000A (ECRS Mk2)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A Typhoon (ECRS Mk2)**. It's an evil nightmare hybrid and I don't care anymore.
         - **Freccia OWS 30** → **VBM Freccia C/C (OWS 30mm)**. Statcard name → **Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)**.
         - **Cassiopea** → **Cassiopea (P 401)**. Statcard name → **Fincantieri del Muggiano | Pattugliatori Classe Cassiopea | Cassiopea (P 401)**.
+        - **RN Armando Diaz** → **Armando Diaz**. Statcard name → **Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano | Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna | Armando Diaz**.
         - **Rafale M F3-R** → **Rafale M (F3R)**. Statcard name → **Dassault Aviation | Rafale M (F3R)**.
+        - **Suffren**: Statcard name → **Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Suffren (1945)**.
         - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Minhalet Tokhnit ha-Merkavah ve-ha-Raḳam, Meḥalḳet Pituḥ ha-Ṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
     - **TH 400** → **H 400**. Statcard name → **Henschel Wehrtechnik H 400**. The gun model is still wrong though smh...
     - **F5**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chǎng | Chugyŏkgi 《F5》**.
@@ -132,6 +136,14 @@ All dates are listed in DD-MM-YYYY format.
     - Corrected the transliteration of "Тяжёлые" to be "Tâžëlyye" rather than "Tâžyelyye" for the **Kronštadt** and **Syevastopol'**.
     - **Sovyetskij Soûz**: Statcard name → **Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Linyejnyj korabl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
     - **AO «Kompaniâ Sukhoj»** (manufacturer) → **PAO «Kompaniâ Sukhoj»**.
+    - **Cantiere navale del Muggiano** (manufacturer) → **Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano**.
+    - **Sparviero (P 420)**: Statcard name → **Cantiere Navale del Muggiano | Aliscafo Missilistico Sparviero (P 420)**.
+    - **Arras (AS)**: Statcard name → **Arsenal de Brest | Aviso de 1ère classe de la classe Arras | Arras (AS)**.
+    - **Amiens (7)**: Statcard name → **Société Nouvelle des Forges et Chantiers de la Méditerranée / Arsenal de Cherbourg | Aviso de 1ère classe de la classe Arras | Amiens (7) (1940)**.
+    - **La Marne**: Statcard name → **Arsenal de Lorient | Aviso de 1ère classe de la classe La Marne | La Marne (1925)**.
+    - **L'Aisne**: Statcard name → **Arsenal de Lorient | Aviso de 1ère classe de la classe La Marne | L'Aisne**.
+    - **Colbert**: Statcard name → **Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Colbert (1942)** (yes I know it's practically identical to Suffren and Dupleix, this is not a mistake).
+    - **Dupleix**: Statcard name → **Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Dupleix (1937)** (yes I know it's practically identical to Suffren and Colbert, this is not a mistake).
 
 ### Weaponry:
 

@@ -186,79 +186,77 @@ All dates are listed in DD-MM-YYYY format.
         - Mandarin package: **P-51K** → **F-51D-15-NT**. Statcard name → **North American Aviation | F-51D-15-NT型驅逐機「野馬機」**.
     - **P-51C-11-NT** Statcard name → **North American Aviation | P-51C-11-NT Xíng Qūzhú Jī "Yěmǎ Jī" «Evalina»**.
         - Mandarin package: Statcard name → **North American Aviation | P-51C-11-NT型驅逐機「野馬機」«Evalina»**.
-    - **Ki-44-II hei** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **Ki-44-II hei** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **Ki-61-I otsu** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **Ki-61-I otsu** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **Mosquito FB.Mk.26** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **Mosquito FB.Mk.26** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **P-38L-1** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **P-38L-1** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **B-25J-30** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **B-25J-30** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **A6M2** → **A6M2**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **new_shop** → **new_shop**. Statcard name → **manuf | new_1**.
+    - **Ki-44-II hei** → **new_shop**. Statcard name → **Nakajima Hikōki | 2 Shì Zhàndòujī 2 Xíng Bing "Zhōngkuí"**.
+        - Mandarin package: **Ki-44-II hei** → **2 Shì Zhàn 2 Xíng Bing**. Statcard name → **中島飛行機 | 二式戰鬥機二型丙「鍾馗」**.
+    - **Ki-61-I otsu** → **3 Shì Zhàn 21 Xíng**. Statcard name → **Kawasaki Kōkūki Kōgyō | 3 Shì Zhàndòujī 1 Xíng Yi "Fēiyàn"**.
+        - Mandarin package: **Ki-61-I otsu** → **三式戰一型乙**. Statcard name → **川崎航空機工業 | 三式戰鬥機一型乙「飛燕」**.
+    - **Mosquito FB.Mk.26** → **FB-26**. Statcard name → **de Havilland Aircraft Company | FB-26 Hōngzhà Jī**.
+        - Mandarin package: **Mosquito FB.Mk.26** → **FB-26**. Statcard name → **de Havilland Aircraft Company | FB-26轟炸機**.
+    - **P-38L-1** → **P-38L-1-LO**. Statcard name → **Lockheed Corporation | P-38L-1-LO Xíng Qūzhú Jī "Shuāng Shēn Jī"**.
+        - Mandarin package: **P-38L-1** → **P-38L-1-LO**. Statcard name → **Lockheed Corporation | P-38L-1-LO型驅逐機「雙身機」**.
+    - **B-25J-30** → **B-25J-30-NC**. Statcard name → **North American Aviation | B-25J-30-NC Xíng Hōngzhà Jī**.
+        - Mandarin package: **B-25J-30** → **B-25J-30-NC**. Statcard name → **North American Aviation | B-25J-30-NC型轟炸機**.
+    - **A6M2** → **0 Shì Zhàn 21 Xíng**. Statcard name → **Mitsubishi Jū Kōgyō | 0 Shì Zhàndòujī 21 Xíng "Líng"**.
+        - Mandarin package: **A6M2** → **〇式戰二一型**. Statcard name → **三菱重工業 | 〇式戰鬥機二一型「零」**.
     - **La-11** → **Lā 11**. Statcard name → **Opytno-konstruktorskoye bûro № 301 | Lā 11 Xíng Fēijī**.
         - Mandarin package: **La-11** → **拉11**. Statcard name → **Opytno-konstruktorskoye bûro № 301 | 拉11型飞机**.
         - Mandarin + Russian package: **La-11** → **拉11**. Statcard name → **Опытно-конструкторское бюро № 301 | 拉11型飞机**.
-    - **La-9** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **La-9** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **La-9** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **IL-10 (1946)** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **IL-10 (1946)** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **IL-10 (1946)** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **PB4Y-2** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **PB4Y-2** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **Tu-2S-44** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **Tu-2S-44** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **Tu-2S-44** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **Qing-6** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **Qing-6** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **Qing-6** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **Ki-84 ko** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **Ki-84 ko** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **F-86F-30** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **F-86F-30** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **F-86F-40** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **F-86F-40** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **MiG-9** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **MiG-9** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **MiG-9** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **MiG-9 (l)** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **MiG-9 (l)** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **MiG-9 (l)** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **J-2** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **J-2** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **J-2** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **J-4** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **J-4** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **new_shop** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **J-6A** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **J-6A** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **J-6A** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **J-7II** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **J-7II** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **J-7II** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **J-7D** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **J-7D** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **new_shop** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **J-7E** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **J-7E** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **J-7E** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **F-84G-21-RE** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **F-84G-21-RE** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **F-84G-31-RE** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **F-84G-31-RE** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **Tu-4** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **Tu-4** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **Tu-4** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **H-5** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **H-5** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin + Russian package: **H-5** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **F-100A** → **new_shop**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **F-100A** → **new_shop**. Statcard name → **manuf | new_1**.
-    - **F-100F** → **F-100F**. Statcard name → **manuf | new_1**.
-        - Mandarin package: **new_shop** → **new_shop**. Statcard name → **manuf | new_1**.
+    - **La-9** → **Lā 9**. Statcard name → **Opytno-konstruktorskoye bûro № 301 | Lā 9 Xíng Fēijī**.
+        - Mandarin package: **La-9** → **拉9**. Statcard name → **Opytno-konstruktorskoye bûro № 301 | 拉9型飞机**.
+        - Mandarin + Russian package: **La-9** → **拉9**. Statcard name → **Опытно-конструкторское бюро № 301 | 拉9型飞机**.
+    - **IL-10 (1946)** → **Yīěr 10**. Statcard name → **Opytno-konstruktorskoye bûro № 39 | Yīěr 10 Xíng Fēijī**.
+        - Mandarin package: **IL-10 (1946)** → **伊尔10**. Statcard name → **Opytno-konstruktorskoye bûro № 39 | 伊尔10型飞机**.
+        - Mandarin + Russian package: **IL-10 (1946)** → **伊尔10**. Statcard name → **Опытно-конструкторское бюро № 39 | 伊尔10型飞机**.
+    - **PB4Y-2** → **P4Y-2**. Statcard name → **Consolidated Aircraft Corporation | P4Y-2 Xíng Xúnluó Jī**.
+        - Mandarin package: **PB4Y-2** → **P4Y-2**. Statcard name → **Consolidated Aircraft Corporation | P4Y-2型巡邏機**.
+    - **Tu-2S-44** → **Dù 2S-44**. Statcard name → **Czyentral'noye konstruktorskoye bûro № 29 | Dù 2S-44 Xíng Fēijī**.
+        - Mandarin package: **Tu-2S-44** → **杜2С-44**. Statcard name → **Czyentral'noye konstruktorskoye bûro № 29 | 杜2С серии 44型飞机**.
+        - Mandarin + Russian package: **Tu-2S-44** → **杜2С-44**. Statcard name → **Центральное конструкторское бюро № 29 | 杜2С серии 44型飞机**.
+    - **Qing-6** → **Qīng 6**. Statcard name → **Gosudarstvyennyj soûznyj opytnyj zavod № 49 / Zhōngguó tèzhǒng fēixíngqì yánjiū suǒ | Qīng 6 Xíng Fēijī**.
+        - Mandarin package: **Qing-6** → **青6**. Statcard name → **Gosudarstvyennyj soûznyj opytnyj zavod № 49 / 中国特种飞行器研究所 | 青6型飞机**.
+        - Mandarin + Russian package: **Qing-6** → **青6**. Statcard name → **Государственный союзный опытный завод № 49 / 中国特种飞行器研究所 | 青6型飞机**.
+    - **Ki-84 ko** → **4 Shì Zhàn 1 Xíng Jia**. Statcard name → **Nakajima Hikōki | 4 Shì Zhàndòujī 1 Xíng Jia "Jífēng"**.
+        - Mandarin package: **Ki-84 ko** → **四式戰一型甲**. Statcard name → **中島飛行機 | 四式戰鬥機一型甲「疾風」**.
+    - **F-86F-30** → **F-86F-30-NA**. Statcard name → **North American Aviation | F-86F-30-NA Xíng Zhàndòu Jī "Jūndāo Jī"**.
+        - Mandarin package: **F-86F-30** → **F-86F-30-NA**. Statcard name → **North American Aviation | F-86F-30-NA型戰鬥機「軍刀機」**.
+    - **F-86F-40** → **F-86F-40-NA**. Statcard name → **North American Aviation | F-86F-40-NA Xíng Zhàndòu Jī "Jūndāo Jī"**.
+        - Mandarin package: **F-86F-40** → **F-86F-40-NA**. Statcard name → **North American Aviation | F-86F-40-NA型戰鬥機「軍刀機」**.
+    - **MiG-9** → **Mǐgé 9**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | Mǐgé 9 Xíng Fēijī**.
+        - Mandarin package: **MiG-9** → **米格9**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | 米格9型飞机**.
+        - Mandarin + Russian package: **MiG-9** → **米格9**. Statcard name → **Опытно-конструкторское бюро № 155 | 米格9型飞机**.
+    - **MiG-9 (l)** → **I-307**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. FR | I-307**.
+        - Russian package: **MiG-9 (l)** → **И-307**. Statcard name → **Опытно-конструкторское бюро № 155 | изд. ФР | И-307**.
+    - **J-2** → **Mǐgé 15 Bǐsī**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | Mǐgé 15 Bǐsī Xíng Fēijī**.
+        - Mandarin package: **J-2** → **米格15比斯**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | 米格15比斯型飞机**.
+        - Mandarin + Russian package: **J-2** → **米格15比斯**. Statcard name → **Опытно-конструкторское бюро № 155 | 米格15比斯型飞机**.
+    - **J-4** → **Mǐgé 17**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | Mǐgé 17 Xíng Fēijī**.
+        - Mandarin package: **J-4** → **米格17**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | 米格17型飞机**.
+        - Mandarin + Russian package: **J-4** → **米格17**. Statcard name → **Опытно-конструкторское бюро № 155 | 米格17型飞机**.
+    - **J-6A** → **J6A**. Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chǎng | J6A Xíng Fēijī**.
+        - Mandarin package: **J-6A** → **歼6A**. Statcard name → **Opytno-konstruktorskoye bûro № 155 / 国营松陵机械厂 | 歼6A型飞机**.
+        - Mandarin + Russian package: **J-6A** → **歼6A**. Statcard name → **Опытно-конструкторское бюро № 155 / 国营松陵机械厂 | 歼6A型飞机**.
+    - **J-7II** → **J7II**. Statcard name → **Guóyíng 132 Chǎng | J7II Xíng Fēijī**.
+        - Mandarin package: **J-7II** → **歼7II**. Statcard name → **Opytno-konstruktorskoye bûro № 155 / 国营132厂 | 歼7II型飞机**.
+        - Mandarin + Russian package: **J-7II** → **歼7II**. Statcard name → **Опытно-конструкторское бюро № 155 / 国营132厂 | 歼7II型飞机**.
+    - **J-7D** → **K/JJ7D**. Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chǎng | K/JJ7D Xíng Fēijī**.
+        - Mandarin package: **J-7D** → **K/JJ7D**. Statcard name → **Opytno-konstruktorskoye bûro № 155 / 国营松陵机械厂 | K/JJ7D型飞机**.
+        - Mandarin + Russian package: **J-7D** → **K/JJ7D**. Statcard name → **Опытно-конструкторское бюро № 155 / 成都飛機制造厂 | K/JJ7D型飞机**.
+    - **J-7E** → **K/JJ7E**. Statcard name → **Guóyíng Sōnglíng Jīxiè Chǎng | K/JJ7E Xíng Fēijī**.
+        - Mandarin package: **J-7E** → **K/JJ7E**. Statcard name → **成都飛機制造厂 | K/JJ7E型飞机**.
+    - **F-84G-21-RE** → **F-84G-21-RE**. Statcard name → **Republic Aviation Corporation | F-84G-21-RE Xíng Zhàndòu Jī "Léitíng Shì"**.
+        - Mandarin package: **F-84G-21-RE** → **F-84G-21-RE**. Statcard name → **Republic Aviation Corporation | F-84G-21-RE型戰鬥機「雷霆式」**.
+    - **F-84G-31-RE** → **F-84G-31-RE**. Statcard name → **Republic Aviation Corporation | F-84G-31-RE Xíng Zhàndòu Jī "Léitíng Shì"**.
+        - Mandarin package: **F-84G-31-RE** → **F-84G-31-RE**. Statcard name → **Republic Aviation Corporation | F-84G-31-RE型戰鬥機「雷霆式」**.
+    - **Tu-4** → **Dù 4**. Statcard name → **Opytno-konstruktorskoye bûro № 156 | Dù 4 Xíng Fēijī**.
+        - Mandarin package: **Tu-4** → **杜4**. Statcard name → **Opytno-konstruktorskoye bûro № 156 | 杜4型飞机**.
+        - Mandarin + Russian package: **Tu-4** → **杜4**. Statcard name → **Опытно-конструкторское бюро № 156 | 杜4型飞机**.
+    - **H-5** → **Yīěr 28 (1947)**. Statcard name → **Opytno-konstruktorskoye bûro № 39 | Yīěr 28 Xíng Fēijī (1947)**.
+        - Mandarin package: **H-5** → **伊尔28 (1947)**. Statcard name → **Opytno-konstruktorskoye bûro № 39 | 伊尔28型飞机 (1947)**.
+        - Mandarin + Russian package: **H-5** → **伊尔28 (1947)**. Statcard name → **Опытно-конструкторское бюро № 39 | 伊尔28型飞机 (1947)**.
+    - **F-100A** → **F-100A-16-NA**. Statcard name → **North American Aviation | F-100A-16-NA Xíng Zhàndòu Jī "Chāojí Jūndāo Jī"**.
+        - Mandarin package: **F-100A** → **F-100A-16-NA**. Statcard name → **North American Aviation | F-100A-16-NA型戰鬥機「超級軍刀機」**.
+    - **F-100F** → **F-100F-6-NA**. Statcard name → **North American Aviation | F-100F-6-NA Xíng Zhàndòu Jī "Chāojí Jūndāo Jī"**.
+        - Mandarin package: **F-100F** → **F-100F-6-NA**. Statcard name → **North American Aviation | F-100F-6-NA型戰鬥機「超級軍刀機」**.
     - **F-104A** → **new_shop**. Statcard name → **manuf | new_1**.
         - Mandarin package: **F-104A** → **new_shop**. Statcard name → **manuf | new_1**.
     - **F-104G** → **new_shop**. Statcard name → **manuf | new_1**.

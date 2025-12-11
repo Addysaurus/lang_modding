@@ -115,6 +115,213 @@ All dates are listed in DD-MM-YYYY format.
         - **Cassiopea** → **Cassiopea (P 401)**. Statcard name → **Fincantieri del Muggiano | Pattugliatori Classe Cassiopea | Cassiopea (P 401)**.
         - **Rafale M F3-R** → **Rafale M (F3R)**. Statcard name → **Dassault Aviation | Rafale M (F3R)**.
         - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Meḥalḳet Pituḥ Haṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
+    
+    - **Gladiator Mk I** → **Dòushì Mk. I**. Statcard name → **Gloster Aircraft Company | Dòushì Mk. I Xíng Qūzhú Jī "Gé Jī"**.
+        - Mandarin package:**Gladiator Mk I** → **鬥士Mk. I**. Statcard name → **Gloster Aircraft Company | 鬥士Mk. I型驅逐機「格機」**.
+    - **Ki-27 otsu** → **97 Shì Zhàn Yi**. Statcard name → **manuf | 97 Shì Zhàndòujī Yi**.
+        - Mandarin package:**Ki-27 otsu** → **九七式戰乙**. Statcard name → **中島飛行機 | 九七式戰鬥機乙**.
+    - **Ki-43-III ko** → **1 Shì Zhàn 3 Xíng Jia**. Statcard name → **manuf | 1 Shì Zhàndòujī 3 Xíng Jia "Sun"**.
+        - Mandarin package:**Ki-43-III ko** → **一式戰三型甲**. Statcard name → **中島飛行機 / 立川飛行機 | 一式戰鬥機三型甲「隼」**.
+    - **CW-21** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**CW-21** → **_shop**. Statcard name → **manuf | _1**.
+    - **I-15bis** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**I-15bis** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**I-15bis** → **_shop**. Statcard name → **manuf | _1**.
+    - **I-16 type 5** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**I-16 type 5** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**I-16 type 5** → **_shop**. Statcard name → **manuf | _1**.
+    - **I-16 type 10** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**I-16 type 10** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**I-16 type 10** → **_shop**. Statcard name → **manuf | _1**.
+    - **I-16 type 17** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**I-16 type 17** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**I-16 type 17** → **_shop**. Statcard name → **manuf | _1**.
+    - **I-16 Chung 28** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**I-16 Chung 28** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**I-16 Chung 28** → **_shop**. Statcard name → **manuf | _1**.
+    - **I-153 M-62** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**I-153 M-62** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**I-153 M-62** → **_shop**. Statcard name → **manuf | _1**.
+    - **Hs 123 A-1** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Hs 123 A-1** → **_shop**. Statcard name → **manuf | _1**.
+    - **V-11** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**V-11** → **_shop**. Statcard name → **manuf | _1**.
+    - **V-12D** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**V-12D** → **_shop**. Statcard name → **manuf | _1**.
+    - **Martin 139WC** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Martin 139WC** → **_shop**. Statcard name → **manuf | _1**.
+    - **Hawk III** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Hawk III** → **_shop**. Statcard name → **manuf | _1**.
+    - **D.510C** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**D.510C** → **_shop**. Statcard name → **manuf | _1**.
+    - **P-66** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**P-66** → **_shop**. Statcard name → **manuf | _1**.
+    - **P-43A-1** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**P-43A-1** → **_shop**. Statcard name → **manuf | _1**.
+    - **P-40E-1** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**P-40E-1** → **_shop**. Statcard name → **manuf | _1**.
+    - **A-29** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**A-29** → **_shop**. Statcard name → **manuf | _1**.
+    - **DB-3A** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**DB-3A** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**DB-3A** → **_shop**. Statcard name → **manuf | _1**.
+    - **SB 2M-103U** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**SB 2M-103U** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**SB 2M-103U** → **_shop**. Statcard name → **manuf | _1**.
+    - **P1Y1 mod. 11** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**P1Y1 mod. 11** → **_shop**. Statcard name → **manuf | _1**.
+    - **H-81A-2** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**H-81A-2** → **_shop**. Statcard name → **manuf | _1**.
+    - **Ki-45 hei/tei** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Ki-45 hei/tei** → **_shop**. Statcard name → **manuf | _1**.
+    - **P-47D-23-RA** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**P-47D-23-RA** → **_shop**. Statcard name → **manuf | _1**.
+    - **P-47D-30** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**P-47D-30** → **_shop**. Statcard name → **manuf | _1**.
+    - **F-47N-25-RE** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**F-47N-25-RE** → **_shop**. Statcard name → **manuf | _1**.
+    - **P-51D-20** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**P-51D-20** → **_shop**. Statcard name → **manuf | _1**.
+    - **P-51K** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**P-51K** → **_shop**. Statcard name → **manuf | _1**.
+    - **P-51C-11-NT** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**P-51C-11-NT** → **_shop**. Statcard name → **manuf | _1**.
+    - **Ki-44-II hei** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Ki-44-II hei** → **_shop**. Statcard name → **manuf | _1**.
+    - **Ki-61-I otsu** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Ki-61-I otsu** → **_shop**. Statcard name → **manuf | _1**.
+    - **Mosquito FB.Mk.26** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Mosquito FB.Mk.26** → **_shop**. Statcard name → **manuf | _1**.
+    - **P-38L-1** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**P-38L-1** → **_shop**. Statcard name → **manuf | _1**.
+    - **B-25J-30** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**B-25J-30** → **_shop**. Statcard name → **manuf | _1**.
+    - **A6M2** → **A6M2**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **La-11** → **Lā 11**. Statcard name → **Opytno-konstruktorskoye bûro № 301 | Lā 11 Xíng Fēijī**.
+        - Mandarin package:**La-11** → **拉11**. Statcard name → **Opytno-konstruktorskoye bûro № 301 | 拉11型飞机**.
+        - Mandarin + Russian package:**La-11** → **拉11**. Statcard name → **Опытно-конструкторское бюро № 301 | 拉11型飞机**.
+    - **La-9** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**La-9** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**La-9** → **_shop**. Statcard name → **manuf | _1**.
+    - **IL-10 (1946)** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**IL-10 (1946)** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**IL-10 (1946)** → **_shop**. Statcard name → **manuf | _1**.
+    - **PB4Y-2** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**PB4Y-2** → **_shop**. Statcard name → **manuf | _1**.
+    - **Tu-2S-44** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Tu-2S-44** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**Tu-2S-44** → **_shop**. Statcard name → **manuf | _1**.
+    - **Qing-6** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Qing-6** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**Qing-6** → **_shop**. Statcard name → **manuf | _1**.
+    - **Ki-84 ko** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Ki-84 ko** → **_shop**. Statcard name → **manuf | _1**.
+    - **F-86F-30** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**F-86F-30** → **_shop**. Statcard name → **manuf | _1**.
+    - **F-86F-40** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**F-86F-40** → **_shop**. Statcard name → **manuf | _1**.
+    - **MiG-9** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**MiG-9** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**MiG-9** → **_shop**. Statcard name → **manuf | _1**.
+    - **MiG-9 (l)** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**MiG-9 (l)** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**MiG-9 (l)** → **_shop**. Statcard name → **manuf | _1**.
+    - **J-2** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**J-2** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**J-2** → **_shop**. Statcard name → **manuf | _1**.
+    - **J-4** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**J-4** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **J-6A** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**J-6A** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**J-6A** → **_shop**. Statcard name → **manuf | _1**.
+    - **Shenyang F-5** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Shenyang F-5** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**Shenyang F-5** → **_shop**. Statcard name → **manuf | _1**.
+    - **J-7II** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**J-7II** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**J-7II** → **_shop**. Statcard name → **manuf | _1**.
+    - **J-7D** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**J-7D** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **J-7E** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**J-7E** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**J-7E** → **_shop**. Statcard name → **manuf | _1**.
+    - **F-84G-21-RE** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**F-84G-21-RE** → **_shop**. Statcard name → **manuf | _1**.
+    - **F-84G-31-RE** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**F-84G-31-RE** → **_shop**. Statcard name → **manuf | _1**.
+    - **Tu-4** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Tu-4** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**Tu-4** → **_shop**. Statcard name → **manuf | _1**.
+    - **H-5** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**H-5** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**H-5** → **_shop**. Statcard name → **manuf | _1**.
+    - **F-100A** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**F-100A** → **_shop**. Statcard name → **manuf | _1**.
+    - **F-100F** → **F-100F**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **F-104A** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**F-104A** → **_shop**. Statcard name → **manuf | _1**.
+    - **F-104G** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**F-104G** → **_shop**. Statcard name → **manuf | _1**.
+    - **Q-5 early** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Q-5 early** → **_shop**. Statcard name → **manuf | _1**.
+    - **Q-5A** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Q-5A** → **_shop**. Statcard name → **manuf | _1**.
+    - **Q-5L** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**Q-5L** → **_shop**. Statcard name → **manuf | _1**.
+    - **JH-7** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**JH-7** → **_shop**. Statcard name → **manuf | _1**.
+    - **JH-7A** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**JH-7A** → **_shop**. Statcard name → **manuf | _1**.
+    - **JH-7A Prototype** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**JH-7A Prototype** → **_shop**. Statcard name → **manuf | _1**.
+    - **F-5A** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**F-5A** → **_shop**. Statcard name → **manuf | _1**.
+    - **F-5E** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**F-5E** → **_shop**. Statcard name → **manuf | _1**.
+    - **J-8B** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **J-8F** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**J-8F** → **_shop**. Statcard name → **manuf | _1**.
+    - **J-8F** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **F-16A MLU** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**F-16A MLU** → **_shop**. Statcard name → **manuf | _1**.
+    - **_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    
+    - **_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin + Russian package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    - **_shop** → **_shop**. Statcard name → **manuf | _1**.
+        - Mandarin package:**_shop** → **_shop**. Statcard name → **manuf | _1**.
+    
     - **TH 400** → **H 400**. Statcard name → **Henschel Wehrtechnik H 400**. The gun model is still wrong though smh...
     - **F5**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chǎng | Chugyŏkgi 《F5》**.
     - **16MCV (C1) (15 Soku Ki)** → **16MCV (C1) (15RDR)**.

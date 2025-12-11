@@ -68,6 +68,7 @@ All dates are listed in DD-MM-YYYY format.
         - **RN Armando Diaz**
         - **Rafale M F3-R**
         - **Suffren**
+        - **JAS39E**
         - **Merkava Mk.1**
     - "Sea Defender" additions:
         - **AK-225**
@@ -82,7 +83,7 @@ All dates are listed in DD-MM-YYYY format.
         - **USS South Dakota** → **USS South Dakota (BB-57)**. Statcard name → **New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | South Dakota-class Battleship | USS South Dakota (BB-57) (1944)**.
         - **EF-2000 (AESA)** → **Eurofighter (P3Ec1)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement C Step 1)**. It's an evil nightmare hybrid and I don't care anymore.
         - **Jaguar 2** → **RakJPz Jaguar 2**. Statcard name → **Hispano Suiza HS 30 | Raketenjagdpanzer Jaguar 2**.
-        - **MPK Pr.1331** → **Wismar (241)**. Statcard name → **Peene-Werft | U-Boot-Abwehrschiff Projekt 133.1 | Wismar (241)**.
+        - **Parchim** → **Parchim (242)**. Statcard name → **Peene-Werft | U-Boot-Abwehrschiff Projekt 133.1 | Parchim (242)**.
         - **Lütjens** → **Lütjens (D 185)**. Statcard name → **Bath Iron Works | Zerstörer Lütjens-Klasse (Typ 103) | Lütjens (D 185)**.
         - **DB-LK**: Statcard name → **Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet DB-LK**.
         - **MiG-25PD**: Statcard name → **Moskovskij mašinostroityel'nyj zavod «Zyenit» | izd. 84D | Samolyet MiG-25PD**.
@@ -129,6 +130,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Cassiopea** → **Cassiopea (P 401)**. Statcard name → **Fincantieri del Muggiano | Pattugliatori Classe Cassiopea | Cassiopea (P 401)**.
         - **RN Armando Diaz** → **Armando Diaz**. Statcard name → **Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano | Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna | Armando Diaz**.
         - **Rafale M F3-R** → **Rafale M (F3R)**. Statcard name → **Dassault Aviation | Rafale M (F3R)**.
+        - **JAS39E** → **JAS 39 E**. Statcard name → **Saab 39 E | JAS 39 E Gripen**.
         - **Suffren**: Statcard name → **Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Suffren (1945)**.
         - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Minhalet Tokhnit ha-Merkavah ve-ha-Raḳam, Meḥalḳet Pituḥ ha-Ṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
     - "Sea Defender" changes:

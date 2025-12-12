@@ -45,6 +45,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Stalingrad**
         - **Typhoon (AESA)**
         - **Ajax**
+        - **CRV Block 2** (UK / Australia)
         - **HMS Fiji**
         - **HMS Prince of Whales**
         - **Hawk 209** (Japan / Indonesia)
@@ -67,6 +68,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Cassiopea**
         - **RN Armando Diaz**
         - **Rafale M F3-R**
+        - **Le Corse**
         - **Suffren**
         - **JAS39E**
         - **Merkava Mk.1**
@@ -94,6 +96,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Stalingrad**: Statcard name → **Nikolayevskiye ob"yedinënnyye gosudarstvyennyye zavody im. Andrye Marti | Tâžëlyye kryejsyer proyekt 82, tip Stalingrad | Stalingrad**.
         - **Typhoon (AESA)** → **Typhoon F.G.R. Mk. 4 (ZK355)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (ZK355)**.
         - **Ajax**: Statcard name → **General Dynamics Land Systems UK AJAX | Combat Vehicle, Reconnaissance, Full Tracked, Ajax**.
+        - **CRV Block 2** (UK / Australia) → **Boxer CRV Block II**. Statcard name → **ARTEC Boxer Combat Reconnaissance Vehicle Block II**.
         - **HMS Fiji** → **HMS Fiji (58)**. Statcard name → **John Brown & Co. / Clydebank Shipyard | Colony-class | HMS Fiji (58) (1941)**.
         - **HMS Prince of Whales** → **HMS Prince of Wales (53)**. Statcard name → **Cammell Laird & Co. / Cape Town Dockyard | King George V-class | HMS Prince of Wales (53)**.
         - **Hawk 209** (Japan / Indonesia) → **Hawk Mk. 209**. Statcard name → **British Aerospace Hawk 209 | Hawk Mk. 209**.
@@ -131,6 +134,7 @@ All dates are listed in DD-MM-YYYY format.
         - **RN Armando Diaz** → **Armando Diaz**. Statcard name → **Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano | Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna | Armando Diaz**.
         - **Rafale M F3-R** → **Rafale M (F3R)**. Statcard name → **Dassault Aviation | Rafale M (F3R)**.
         - **JAS39E** → **JAS 39 E**. Statcard name → **Saab 39 E | JAS 39 E Gripen**.
+        - **Le Corse** → **Le Corse (F 761)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Corse (F 761)**.
         - **Suffren**: Statcard name → **Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Suffren (1945)**.
         - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Minhalet Tokhnit ha-Merkavah ve-ha-Raḳam, Meḥalḳet Pituḥ ha-Ṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
     - "Sea Defender" changes:

@@ -9,6 +9,8 @@ modification/upab_1500_e/desc;Allows the installation of UPAB-1500B-E guided bom
 modification/upab_1500_e;UPAB-1500B-E
 modification/cn_sns_bomb/desc;Allows the installation of satellite guided bombs.
 modification/cn_sns_bomb;SNS
+modification/il_spice_250/desc;Allows the installation of SPICE 250 guided bombs.
+modification/il_spice_250;SPICE 250
 modification/cn_yings_3a/desc;Allows the installation of a YIGNS-III laser/electro-optical targeting pod.
 modification/cn_yings_3a;YIGNS-III
 modification/laser_rangefinder_lws_sep;LWS/LR
@@ -25,6 +27,7 @@ sensors/su_sapphire_25;Sapphire-25/TP-26Sh1
 sensors/su_n_001ve;N001VE
 sensors/us_an_apg_79;AN/APG-79
 engine_model/mtu_8v_199_te21;MTU 8V 199 TE21
+engine_model/mtu_8v_199_te20;MTU 8V 199 TE20
 engine_model/6m70t4;6M70T4
 engine_model/1710-55;V-1710-55
 engine_model/r-1820-f53;Cyclone R-1820-F53
@@ -32,6 +35,7 @@ engine_model/r985-48_an-2;R-985-48-AN-2
 engine_model/r-1535-96;R-1535-96
 engine_model/dsc1122;DSC1122
 transmission_model/3040_mx;3040 MX
+transmission_model/hd_4070;HD4070
 transmission_model/grs900r;GRS900R
 transmission_model/hswl_256b;HSWL 256B
 modification/cn_gb_laser_bomb/desc;Allows the installation of GB laser guided bombs.

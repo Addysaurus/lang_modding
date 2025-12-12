@@ -115,8 +115,8 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: **IJN Oyodo** → **大淀**. Statcard name **呉海軍工廠 / 第百一海軍施設部 | 三等巡洋艦 | 大淀型巡洋艦 (C-42) | 大淀 (1945)**.
         - **IJN Tosa** → **Tosa**. Statcard name **Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo | Tosa Gata Senkan (A-127) | Tosa**.
             - Japanese package: **IJN Tosa** → **土佐**. Statcard name **三菱造船株式会社長崎造船所 | 土佐型戦艦 (A-127) | 土佐**.
-        - **H-75M** → **Huòkè 75M**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75M / Zhōngyāng Fēijī Zhìzào Chǎng | Huòkè 75M Qūzhú Jī**.
-            - Mandarin package: **H-75M** → **霍克75M**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75M / 中央飛機製造廠 | 霍克75M驅逐機**.
+        - **H-75M** → **Huòkè 75H**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75H / Zhōngyāng Fēijī Zhìzào Chǎng | Huòkè 75H Qūzhú Jī**. Gaijin wanted to make a 75M, but they made an accurate, non-hybrid 75H (the 75M prototype) except for the engine which is wrong to both.
+            - Mandarin package: **H-75M** → **霍克75H**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75H / 中央飛機製造廠 | 霍克75H驅逐機**.
         - **J-10C** → **K/JJ10C**. Statcard name → **Chéngdū Fēijī Gōngyè (Jítuán) | K/JJ10C Xíng Fēijī "Měng Lóng"**.
             - Mandarin package: **J-10C** → **K/JJ10C**. Statcard name → **成都飞机工业 (集团) | K/JJ10C型飞机 "猛龙"**.
         - **Su-30MKK** → **Sū 30MKK**. Statcard name → **PAO «Kompaniâ Sukhoj» | Sū 30MKK Xíng Fēijī**.
@@ -161,23 +161,39 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
-- #### Addison:
+- #### Additions:
 
+    - Update "Line of Contact" additions:
+        - **Grom-E2** (another one)
+        - **GB3**
     - **105 mm Rh 105-30 cannon**.
 
 - #### Changes:
 
+    - Update "Line of Contact" changes:
+        - **Grom-E2** (the new one) → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemyye aviaczionnyye bomby Kh-36 "Grom-È2"**.
+        - **GB3** → **GB250**. Statcard name → **GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn**.
+            - Mandarin package: **GB3** → **GB250**. Statcard name → **GB250型250公斤激光卫星制导炸弹**.
     - **105 mm Rh 105-30 cannon** → **Rh105-30**.
     - **Type 57-1** → **S-5K**. Statcard name → **Nyeupravlâyemaâ aviaczionnaâ rakyeta S-5K**. Gaijin calls it the Type 57-1, but it's not. It's an S-5K. The Type 57-1 is an HE rocket and is a basic S-5.
     - **250-3** → **Mk 82 Mod 0**. Statcard name → **Bomb, 500lb, GP, Mk 82 Mod 0**. This is not the normal Type 250-3, that's still the Type 250-3, this is the one on the A5C that Gaijin calls the Type 250-3 but is a Mk 82 with the stats of a Type 250-3... for some reason. Enjoy your 216.5 kg Mk 82 Mod 0 I guess.
     - Corrected the type tag on both Kh-59Ms to AGM-TV (it was TV/GNSS on dev and I didn't realize they had changed it).
     - **JAGM-MR (IR)**: Long name → **Joint Air-to-Ground Missile-Medium Range**. The guidance type was removed from the long name because it's pointless since the type tag has it anyway.
     - **JAGM-MR (SAL)**: Long name → **Joint Air-to-Ground Missile-Medium Range**. The guidance type was removed from the long name because it's pointless since the type tag has it anyway.
+    - **Kh-36 (A)** → **Kh-36 "Grom-È1"**. Statcard name → **9-A-7759 | Upravlâyemaâ rakyeta Kh-36 "Grom-È1"**.
+    - **Kh-36 (A1)** → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemyye aviaczionnyye bomby Kh-36 "Grom-È2"**.
 
 ### Sensors:
 
+- #### Additions:
+
+    - Update "Line of Contact" additions:
+        - **YINGS-III**
+
 - #### Changes:
 
+    - Update "Line of Contact" changes:
+        - **YINGS-III** → 
     - **K/PZS01** (the one on the **JF-17 Block I**) → **ASELPOD**. Long name → **ASELPOD Advanced Targeting Pod**. It was called the K/PZS01 because of a time when all the models were mixed up and this used the K/JDC03A pod but with the name file of the K/PZS01 or something like that.
 
 ## 1.15.01 - 19-11-2025

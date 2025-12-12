@@ -27,12 +27,18 @@ weapons/su_ofab_250_270;ОФАБ-250-270
 weapons/su_ofab_250_270/short;ОФАБ-250-270
 weapons/su_rn_28;<color=@userlogColoredText>2983 kg</color> ☢ изд. 28 | РН-28 <color=#ff6f00>BMB-ATM</color>
 weapons/su_rn_28/short;☢ РН-28
+weapons/su_grom_2;"<color=@userlogColoredText>598 kg</color> 9-А1-7759 | Корректируемые авиационные бомбы Х-36 «Гром-Э2» <color=#ff6f00>BMB-GNSS</color>"
+weapons/su_grom_2/short;Х-36 «Гром-Э2»
+weapons/su_grom_e2;<color=@userlogColoredText>598 kg</color> 9-А1-7759 | Корректируемые авиационные бомбы Х-36 «Гром-Э2» <color=#ff6f00>BMB-GNSS</color>
+weapons/su_grom_e2/short;Х-36 «Гром-Э2»
 
 //ROCKETS
 weapons/cn_hf5_rocket;9-А-317 | Неуправляемая авиационная ракета С-5К <color=#ff6f00>RKT</color>
 weapons/cn_hf5_rocket/short;С-5К
 
 //MISSILES
+weapons/su_grom_1;9-А-7759 | Управляемая ракета Х-36 «Гром-Э1» <color=#ff6f00>AGM-GNSS</color>
+weapons/su_grom_1/short;Х-36 «Гром-Э1»
 weapons/su_kh_59m;изд. Д-9М | Управляемая ракета Х-59М «Овод-М» <color=#ff6f00>AGM-TV</color>
 weapons/su_kh_59m/short;Х-59М
 weapons/su_kh_59me;изд. Д-9МЭ | Управляемая ракета Х-59МЭ «Овод-МЭ» <color=#ff6f00>AGM-TV</color>

@@ -1959,11 +1959,11 @@ jaguar_a_iaf_killstreak_0;☢ SEPECAT Jaguar A | Jaguar Type A
 jaguar_a_iaf_killstreak_1;☢ Jaguar A
 jaguar_a_iaf_killstreak_2;☢ Jaguar
 su_24m_killstreak_shop;☢ Su-24M2
-su_24m_killstreak_0;☢ AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
+su_24m_killstreak_0;☢ PAO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
 su_24m_killstreak_1;☢ Su-24M
 su_24m_killstreak_2;☢ Su-24
 su_24m_china_killstreak_shop;☢␗ Su-24M2
-su_24m_china_killstreak_0;☢␗ AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
+su_24m_china_killstreak_0;☢␗ PAO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
 su_24m_china_killstreak_1;☢␗ Su-24M
 su_24m_china_killstreak_2;☢␗ Su-24
 f_111f_killstreak_shop;☢ F-111F
@@ -5078,9 +5078,9 @@ germ_schutze_class_2;Minesweeper
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
-germ_pr1331_shop;Wismar (241)
-germ_pr1331_0;Peene-Werft | U-Boot-Abwehrschiff Projekt 133.1 | Wismar (241)
-germ_pr1331_1;Wismar (241)
+germ_pr1331_shop;Parchim (242)
+germ_pr1331_0;Peene-Werft | U-Boot-Abwehrschiff Projekt 133.1 | Parchim (242)
+germ_pr1331_1;Parchim (242)
 germ_pr1331_2;Minesweeper
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
@@ -5092,6 +5092,10 @@ germ_destroyer_class1942_z51_shop;Z 51
 germ_destroyer_class1942_z51_0;"Deutsche Schiff- und Maschinenbau A.G. ""Weser"" | Zerstörer Typ 1942 | Z 51"
 germ_destroyer_class1942_z51_1;Z 51
 germ_destroyer_class1942_z51_2;Destroyer
+germ_destroyer_lutjens_class_lutjens_shop;Lütjens (D 185)
+germ_destroyer_lutjens_class_lutjens_0;Bath Iron Works | Zerstörer Lütjens-Klasse (Typ 103) | Lütjens (D 185)
+germ_destroyer_lutjens_class_lutjens_1;Lütjens
+germ_destroyer_lutjens_class_lutjens_2;Destroyer
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 
@@ -5167,37 +5171,41 @@ mig-21_bis_event_0;Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna | iz
 mig-21_bis_event_1;MiG-21bis
 mig-21_bis_event_2;MiG-21
 su_24m_shop;Su-24M2
-su_24m_0;AO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
+su_24m_0;PAO «Kompaniâ Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
 su_24m_1;Su-24M
 su_24m_2;Su-24
 mig_25pd_shop;MiG-25PD
-mig_25pd_0;Opytno-konstruktorskoye bûro № 155 | izd. 84D | Samolyet MiG-25PD
+mig_25pd_0;Moskovskij mašinostroityel'nyj zavod «Zyenit» | izd. 84D | Samolyet MiG-25PD
 mig_25pd_1;MiG-25PD
 mig_25pd_2;MiG-25
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 su_27_shop;Su-27
-su_27_0;AO «Kompaniâ Sukhoj» | izd. T-10S | Samolyet Su-27
+su_27_0;PAO «Kompaniâ Sukhoj» | izd. T-10S | Samolyet Su-27
 su_27_1;Su-27
 su_27_2;Su-27
 su_27sm_shop;Su-27SM3
-su_27sm_0;AO «Kompaniâ Sukhoj» | izd. T-10SM3 | Samolyet Su-27SM3
+su_27sm_0;PAO «Kompaniâ Sukhoj» | izd. T-10SM3 | Samolyet Su-27SM3
 su_27sm_1;Su-27SM
 su_27sm_2;Su-27
 su_30sm_shop;Su-30SM
-su_30sm_0;AO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM
+su_30sm_0;PAO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM
 su_30sm_1;Su-30SM
 su_30sm_2;Su-30
+su_30sm2_shop;Su-30SM2 (2025)
+su_30sm2_0;PAO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM2 (2025)
+su_30sm2_1;Su-30SM2
+su_30sm2_2;Su-30
 su_30mk2v_venezuela_shop;▄ Su-30MK2
-su_30mk2v_venezuela_0;▄ AO «Kompaniâ Sukhoj» | Su-30MK2
+su_30mk2v_venezuela_0;▄ PAO «Kompaniâ Sukhoj» | Su-30MK2
 su_30mk2v_venezuela_1;▄ Su-30MK2
 su_30mk2v_venezuela_2;▄ Su-30
 su_34_shop;Su-34NVO
-su_34_0;AO «Kompaniâ Sukhoj» | izd. T-10V | Samolyet Su-34NVO
+su_34_0;PAO «Kompaniâ Sukhoj» | izd. T-10V | Samolyet Su-34NVO
 su_34_1;Su-34NVO
 su_34_2;Su-34
 su_33_shop;Su-33 (SVP-24-33)
-su_33_0;AO «Kompaniâ Sukhoj» | izd. T-10K | Samolyet Su-33 (SVP-24-33)
+su_33_0;PAO «Kompaniâ Sukhoj» | izd. T-10K | Samolyet Su-33 (SVP-24-33)
 su_33_1;Su-33
 su_33_2;Su-33
 
@@ -5348,6 +5356,10 @@ ussr_mpk_pr_1124_shop;MPK-33
 ussr_mpk_pr_1124_0;"Zyelyenodol'skij sudostroityel'nyj zavod № 340 im. A. M. Gor'kogo | Malyj protivolodočnyj korabl' proyekt 1124 ""Al'batros"" | MPK-33"
 ussr_mpk_pr_1124_1;MPK-33
 ussr_mpk_pr_1124_2;Anti-Submarine Ship
+ussr_pr_205pe_k225_shop;AK-225
+ussr_pr_205pe_k225_0;Lyeningradskij Primorskij zavod | Artillyerijskij katyer proyekt 205PÈ | AK-225 (1975)
+ussr_pr_205pe_k225_1;AK-225
+ussr_pr_205pe_k225_2;Artillery Boat
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 
@@ -5564,16 +5576,24 @@ uk_chieftain_900_shop;Chieftain 900
 uk_chieftain_900_0;British Leyland Motor Corporation / Royal Ordnance Factories Chieftain 900
 uk_chieftain_900_1;Chieftain 900
 uk_chieftain_900_2;MBT
+uk_tracked_rapier_shop;RCM 748, Mk. 1B
+uk_tracked_rapier_0;British Aircraft Corporation | Tracked Rapier Launcher Vehicle, RCM 748, Mk. 1B
+uk_tracked_rapier_1;RCM 748, Mk. 1
+uk_tracked_rapier_2;SPAAM
 uk_badger_shop;Badger SV
 uk_badger_0;Denel Land Systems | Badger Section Variant
 uk_badger_1;Badger SV
 uk_badger_2;IFV
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
-uk_tracked_rapier_shop;RCM 748, Mk. 1B
-uk_tracked_rapier_0;British Aircraft Corporation | Tracked Rapier Launcher Vehicle, RCM 748, Mk. 1B
-uk_tracked_rapier_1;RCM 748, Mk. 1
-uk_tracked_rapier_2;SPAAM
+uk_ajax_shop;Ajax
+uk_ajax_0;General Dynamics Land Systems UK AJAX | Combat Vehicle, Reconnaissance, Full Tracked, Ajax
+uk_ajax_1;Ajax
+uk_ajax_2;AFV
+uk_boxer_crv_block2_shop;▄ Boxer CRV Block II
+uk_boxer_crv_block2_0;▄ ARTEC Boxer Combat Reconnaissance Vehicle Block II
+uk_boxer_crv_block2_1;▄ Boxer CRV
+uk_boxer_crv_block2_2;CRV
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 uk_sky_sabre_launcher_shop;Sky Sabre (iLauncher)
@@ -6311,12 +6331,16 @@ saab_jas39c_thailand_shop;B.Kh.20
 saab_jas39c_thailand_0;Saab 39 C | Ekhrụxng Bin Khạb Lị Bæb Thī 20
 saab_jas39c_thailand_1;B.Kh.20
 saab_jas39c_thailand_2;B.Kh.20
+mig_29n_shop;▄ MiG-29N
+mig_29n_0;▄ Aviaczionnyj naučno-promyšlyennyj komplyeks «MiG» | MiG-29N Fulcrum
+mig_29n_1;▄ MiG-29N
+mig_29n_2;▄ MiG-29
 fa_18d_late_malaysia_shop;▄ F/A-18D
 fa_18d_late_malaysia_0;▄ McDonnell Douglas Corporation Model 267 | F/A-18D Hornet
 fa_18d_late_malaysia_1;▄ F/A-18D
 fa_18d_late_malaysia_2;▄ F/A-18
 su_30mkm_shop;▄ Su-30MKM
-su_30mkm_0;▄ AO «Kompaniâ Sukhoj» | Su-30MKM
+su_30mkm_0;▄ PAO «Kompaniâ Sukhoj» | Su-30MKM
 su_30mkm_1;▄ Su-30MKM
 su_30mkm_2;▄ Su-30
 
@@ -6525,9 +6549,9 @@ jp_type_61_shop;61TK (B)
 jp_type_61_0;Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata
 jp_type_61_1;61TK (B)
 jp_type_61_2;Medium tank
-jp_type_61_mod_shop;61TK (B) (13 Sen-3)
-jp_type_61_mod_0;Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata (Dai 13 Sensha Daitai, Dai 3 Sensha Chūtai)
-jp_type_61_mod_1;61TK (B)
+jp_type_61_mod_shop;61TK (C) (13 Sen-3)
+jp_type_61_mod_0;Mitsubishi Jū Kōgyō | 61 Shiki Sensha C Gata (Dai 13 Sensha Daitai, Dai 3 Sensha Chūtai)
+jp_type_61_mod_1;61TK (C)
 jp_type_61_mod_2;Medium tank
 jp_m36b2_jgsdf_shop;▅ M36B2 GMC
 jp_m36b2_jgsdf_0;"▅ GM Defense | G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
@@ -7042,7 +7066,7 @@ jp_battleship_fuso_0;Kure Kaigun Kōshō | Fusō Gata Senkan (A-64) | Fusō
 jp_battleship_fuso_1;Fusō
 jp_battleship_fuso_2;Battleship
 jp_battleship_tosa_shop;Tosa
-jp_battleship_tosa_0;Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo | Tosa Gata Senkan (A-127) | Tosa
+jp_battleship_tosa_0;Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo | Kaga Gata Senkan (A-127) | Tosa
 jp_battleship_tosa_1;Tosa
 jp_battleship_tosa_2;Battleship
 
@@ -7083,9 +7107,9 @@ i-16_chung_28_shop;Zhōng 28 Jia
 i-16_chung_28_0;"CzKB-39 Ob""yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye imyeni Myenžinskogo / Zhōngyāng Nánchāng Fēijī Zhìzào Chang | Zhōng 28 Jia"
 i-16_chung_28_1;Zhōng 28 Jia
 i-16_chung_28_2;Zhōng 28
-h-75m_china_shop;☀ Huòkè 75M
-h-75m_china_0;☀ Curtiss-Wright Corporation Hawk Model 75M / Zhōngyāng Fēijī Zhìzào Chang | Huòkè 75M Qūzhú Jī
-h-75m_china_1;☀ Huòkè 75M
+h-75m_china_shop;☀ Huòkè 75H
+h-75m_china_0;☀ Curtiss-Wright Corporation Hawk Model 75H | Huòkè 75H Qūzhú Jī
+h-75m_china_1;☀ Huòkè 75H
 h-75m_china_2;☀ Huòkè 75
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 2
@@ -7142,7 +7166,7 @@ j_11b_0;"Shěnyáng Fēijī Gōngyè Jítuán | J11B ""Yìng Lóng"""
 j_11b_1;J11B
 j_11b_2;J11
 su_30mkk_shop;␗ Sū 30MKK
-su_30mkk_0;␗ PAO «Kompaniâ Sukhoj» | Sū 30MKK Xíng Fēijī
+su_30mkk_0;␗ PPAO «Kompaniâ Sukhoj» | Sū 30MKK Xíng Fēijī
 su_30mkk_1;␗ Sū 30MKK
 su_30mkk_2;␗ Sū 30
 
@@ -7267,6 +7291,10 @@ mb_326k_shop;MB-326K
 mb_326k_0;Aermacchi MB-326K
 mb_326k_1;MB-326K
 mb_326k_2;MB-326
+mb_326b_shop;MB-326B
+mb_326b_0;Aermacchi MB-326B
+mb_326b_1;MB-326B
+mb_326b_2;MB-326
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
@@ -7459,6 +7487,10 @@ it_destroyer_maestrale_class_grecale_2;Destroyer
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+it_cruiser_cadorna_class_diaz_shop;Armando Diaz
+it_cruiser_cadorna_class_diaz_0;Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano | Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna | Armando Diaz
+it_cruiser_cadorna_class_diaz_1;Armando Diaz
+it_cruiser_cadorna_class_diaz_2;Light Cruiser
 it_cruiser_cadorna_class_cadorna_shop;Luigi Cadorna
 it_cruiser_cadorna_class_cadorna_0;Cantieri riuniti dell'Adriatico | Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna | Luigi Cadorna (1944)
 it_cruiser_cadorna_class_cadorna_1;Luigi Cadorna
@@ -7684,19 +7716,19 @@ fr_adroit_class_0;Constructions mécaniques de Normandie | Escorteur côtier de 
 fr_adroit_class_1;L'Intrépide
 fr_adroit_class_2;Coastal Escort
 fr_arras_class_arras_shop;Arras (AS)
-fr_arras_class_arras_0;Arsenal de Brest | Aviso de 1re classe de la classe Arras | Arras (AS)
+fr_arras_class_arras_0;Arsenal de Brest | Aviso de 1ère classe de la classe Arras | Arras (AS)
 fr_arras_class_arras_1;Arras
 fr_arras_class_arras_2;Aviso
 fr_arras_class_amiens_shop;Amiens (7)
-fr_arras_class_amiens_0;Société Nouvelle des Forges et Chantiers de la Méditerranée / Arsenal de Cherbourg | Aviso de 1re classe de la classe Arras | Amiens (7) (1940)
+fr_arras_class_amiens_0;Société Nouvelle des Forges et Chantiers de la Méditerranée / Arsenal de Cherbourg | Aviso de 1ère classe de la classe Arras | Amiens (7) (1940)
 fr_arras_class_amiens_1;Amiens
 fr_arras_class_amiens_2;Aviso
 fr_marne_class_marne_shop;La Marne
-fr_marne_class_marne_0;Arsenal de Lorient | Aviso de 1re classe de la classe La Marne | La Marne (1925)
+fr_marne_class_marne_0;Arsenal de Lorient | Aviso de 1ère classe de la classe La Marne | La Marne (1925)
 fr_marne_class_marne_1;La Marne
 fr_marne_class_marne_2;Aviso
 fr_marne_class_aisne_shop;L'Aisne
-fr_marne_class_aisne_0;Arsenal de Lorient | Aviso de 1re classe de la classe La Marne | L'Aisne
+fr_marne_class_aisne_0;Arsenal de Lorient | Aviso de 1ère classe de la classe La Marne | L'Aisne
 fr_marne_class_aisne_1;L'Aisne
 fr_marne_class_aisne_2;Aviso
 
@@ -7719,6 +7751,10 @@ fr_frigate_corse_class_brestois_shop;Le Brestois (F 762)
 fr_frigate_corse_class_brestois_0;Arsenal de Lorient / Arsenal de Toulon | Escorteur rapide de type E 50 | Le Brestois (F 762) (1958)
 fr_frigate_corse_class_brestois_1;Le Brestois
 fr_frigate_corse_class_brestois_2;Fast Escort
+fr_frigate_corse_class_corse_shop;Le Corse (F 761)
+fr_frigate_corse_class_corse_0;Arsenal de Lorient | Escorteur rapide de type E 50 | Le Corse (F 761)
+fr_frigate_corse_class_corse_1;Le Brestois
+fr_frigate_corse_class_corse_2;Fast Escort
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 
@@ -7727,6 +7763,18 @@ fr_frigate_corse_class_brestois_2;Fast Escort
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+fr_cruiser_suffren_class_colbert_shop;Colbert
+fr_cruiser_suffren_class_colbert_0;Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Colbert (1942)
+fr_cruiser_suffren_class_colbert_1;Colbert
+fr_cruiser_suffren_class_colbert_2;1st Class Cruiser
+fr_cruiser_suffren_class_suffren_shop;Suffren
+fr_cruiser_suffren_class_suffren_0;Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Suffren (1945)
+fr_cruiser_suffren_class_suffren_1;Suffren
+fr_cruiser_suffren_class_suffren_2;1st Class Cruiser
+fr_cruiser_suffren_class_dupleix_shop;Dupleix
+fr_cruiser_suffren_class_dupleix_0;Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Dupleix (1937)
+fr_cruiser_suffren_class_dupleix_1;Dupleix
+fr_cruiser_suffren_class_dupleix_2;1st Class Cruiser
 fr_cruiser_la_galissoniere_class_la_galissoniere_shop;La Galissonnière
 fr_cruiser_la_galissoniere_class_la_galissoniere_0;Arsenal de Brest | Croiseur léger de la classe La Galissonnière | La Galissonnière
 fr_cruiser_la_galissoniere_class_la_galissoniere_1;La Galissonnière
@@ -7789,6 +7837,10 @@ saab_f35_wdns_1;♔ F-35
 saab_f35_wdns_2;♔ F-35
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+saab_jas39e_shop;JAS 39 E
+saab_jas39e_0;Saab 39 E | JAS 39 E Gripen
+saab_jas39e_1;JAS 39 E
+saab_jas39e_2;JAS 39
 f_16am_block_20_mlu_norway_shop;◢ F-16AM-20-CF
 f_16am_block_20_mlu_norway_0;◢ General Dynamics Corporation | F-16AM-20-CF Fighting Falcon
 f_16am_block_20_mlu_norway_1;◢ F-16A
@@ -7912,7 +7964,7 @@ il_m113_hvms_2;Light Tank
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 il_merkava_mk_1_shop;Merkavah Mk. 1
-il_merkava_mk_1_0;Meḥalḳet Pituḥ Haṭanḳ | Ṭanḳ Merkavah Siman 1
+il_merkava_mk_1_0;Minhalet Tokhnit ha-Merkavah ve-ha-Raḳam, Meḥalḳet Pituḥ ha-Ṭanḳ | Ṭanḳ Merkavah Siman 11
 il_merkava_mk_1_1;Merkavah Mk. 1
 il_merkava_mk_1_2;MBT
 
@@ -10651,10 +10703,6 @@ h-75a-7_shop;Hawk H-75A-7
 h-75a-7_0;Hawk H-75A-7
 h-75a-7_1;H-75A
 h-75a-7_2;H-75
-h-75m_shop;Hawk H-75M
-h-75m_0;Hawk H-75M
-h-75m_1;H-75M
-h-75m_2;H-75
 h-75n_shop;Thịp 16
 h-75n_0;Curtiss-Wright Corperation Hawk Model 75N | Ekhrụxng Bin Khạb Lị Bæb Thī 11 | Thịp 16
 h-75n_1;Thịp 16
@@ -14837,7 +14885,7 @@ it_cruiser_trento_EC_0;Odero-Terni-Orlando Cantieri di Livorno / Arsenale milita
 it_cruiser_trento_EC_1;Trento
 it_cruiser_trento_EC_2;Heavy Cruiser
 it_p420_sparviero_shop;Sparviero (P 420)
-it_p420_sparviero_0;Cantiere navale del Muggiano | Aliscafo Missilistico Sparviero (P 420)
+it_p420_sparviero_0;Cantiere Navale del Muggiano | Aliscafo Missilistico Sparviero (P 420)
 it_p420_sparviero_1;Sparviero
 it_p420_sparviero_2;Missile boat
 uk_cruiser_york_shop;HMS York (90)
@@ -14887,10 +14935,10 @@ it_mas_classe500_3_1944_0;Cantieri Baglietto | Motoscafo Armato Silurante Tipo V
 it_mas_classe500_3_1944_1;MAS 561
 it_mas_classe500_3_1944_2;MTB
 it_cruiser_zara_class_shop;Zara
-it_cruiser_zara_class_0;Cantiere navale del Muggiano / Cantiere navale Triestino | Incrociatore Pesante Zara | Zara (1937)
+it_cruiser_zara_class_0;Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano / Cantiere navale Triestino | Incrociatore Pesante Zara | Zara (1937)
 it_cruiser_zara_class_1;Zara
 it_cruiser_zara_class_2;Heavy Cruiser
-it_cruiser_zara_class_EC_0;Cantiere navale del Muggiano / Cantiere navale Triestino | Incrociatore Pesante Zara | Zara (1937)
+it_cruiser_zara_class_EC_0;Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano / Cantiere navale Triestino | Incrociatore Pesante Zara | Zara (1937)
 it_cruiser_zara_class_EC_1;Zara
 it_cruiser_zara_class_EC_2;Heavy Cruiser
 it_destroyer_comandanti_medaglie_doro_shop;Comandante Margottini (MA)
@@ -15206,7 +15254,7 @@ ussr_mpk_pr1331m_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 1331M, MPK-192
 ussr_mpk_pr1331m_1;MPK-192
 ussr_mpk_pr1331m_2;Patrol ship
 it_cruiser_garibaldi_class_abruzzi_shop;Luigi di Savoia Duca degli Abruzzi
-it_cruiser_garibaldi_class_abruzzi_0;Cantiere navale del Muggiano / Port of Freetown | Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli Abruzzi | Luigi di Savoia Duca degli Abruzzi (1944)
+it_cruiser_garibaldi_class_abruzzi_0;Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano / Port of Freetown | Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli Abruzzi | Luigi di Savoia Duca degli Abruzzi (1944)
 it_cruiser_garibaldi_class_abruzzi_1;Luigi di Savoia Duca degli Abruzzi
 it_cruiser_garibaldi_class_abruzzi_2;Light Cruiser
 germ_destroyer_class1936c_z47_shop;Z 47
@@ -15313,10 +15361,6 @@ fr_cruiser_jeanne_darc_shop;Jeanne d'Arc
 fr_cruiser_jeanne_darc_0;Jeanne d'Arc-class, Jeanne d'Arc, 1944
 fr_cruiser_jeanne_darc_1;Jeanne d'Arc
 fr_cruiser_jeanne_darc_2;Light cruiser
-fr_cruiser_suffren_class_colbert_shop;Colbert
-fr_cruiser_suffren_class_colbert_0;Suffren-class, Colbert, 1942
-fr_cruiser_suffren_class_colbert_1;Colbert
-fr_cruiser_suffren_class_colbert_2;Heavy cruiser
 fr_destroyer_le_fantasque_class_le_malin_shop;Le Malin (X 82)
 fr_destroyer_le_fantasque_class_le_malin_0;Fantasque-class, Le Malin (X 82), 1943
 fr_destroyer_le_fantasque_class_le_malin_1;Le Malin
@@ -15365,10 +15409,6 @@ uk_battlecruiser_renown_shop;HMS Renown (72)
 uk_battlecruiser_renown_0;Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | Renown-class | HMS Renown (72) (1943)
 uk_battlecruiser_renown_1;HMS Renown
 uk_battlecruiser_renown_2;Battlecruiser
-fr_cruiser_suffren_class_dupleix_shop;Dupleix
-fr_cruiser_suffren_class_dupleix_0;Suffren-class, Dupleix, 1942
-fr_cruiser_suffren_class_dupleix_1;Dupleix
-fr_cruiser_suffren_class_dupleix_2;Heavy cruiser
 cargo_ship_norbris;Cargo ship
 tanker_nicolaos;Tanker
 germ_battleship_nassau_shop;SMS Nassau

@@ -319,6 +319,18 @@ weapons/cz_ofab_100_110_tu_jupiter;"<color=@userlogColoredText>121 kg</color> OF
 weapons/cz_ofab_100_110_tu_jupiter/short;OFAB-100-110TU
 weapons/su_ofab_250_270;<color=@userlogColoredText>268 kg</color> OFAB-250-270 <color=#ff6f00>BMB</color>
 weapons/su_ofab_250_270/short;OFAB-250-270
+weapons/su_kab_250lg_e;<color=@userlogColoredText>256 kg</color> Korryektiruyemaâ aviaczionnaâ bomba KAB-250LG-È <color=#ff6f00>BMB-LG</color>
+weapons/su_kab_250lg_e/short;KAB-250LG-È
+weapons/su_kab_500lg_e;<color=@userlogColoredText>560 kg</color> Korryektiruyemaâ aviaczionnaâ bomba KAB-500LG-È <color=#ff6f00>BMB-LG</color>
+weapons/su_kab_500lg_e/short;KAB-500LG-È
+weapons/su_upab_500b_e;<color=@userlogColoredText>505 kg</color> K08BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-500B-È <color=#ff6f00>BMB-GNSS</color>
+weapons/su_upab_500b_e/short;UPAB-500B-È
+weapons/su_grom_2;"9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 ""Grom-È2"" <color=#ff6f00>BMB-GNSS</color>"
+weapons/su_grom_2/short;"Kh-36 ""Grom-È2"""
+weapons/su_grom_e2;"9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 ""Grom-È2"" <color=#ff6f00>BMB-GNSS</color>"
+weapons/su_grom_e2/short;"Kh-36 ""Grom-È2"""
+weapons/su_upab_1500b_e;<color=@userlogColoredText>1525 kg</color> K029BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-1500B-È <color=#ff6f00>BMB-GNSS</color>
+weapons/su_upab_1500b_e/short;UPAB-1500B-È
 weapons/su_rn_28;<color=@userlogColoredText>2983 kg</color> ☢ izd. 28 | RN-28 <color=#ff6f00>BMB-ATM</color>
 weapons/su_rn_28/short;☢ RN-28
 
@@ -337,6 +349,8 @@ weapons/kr_kggb/short;KGGB
 //CHINA BOMBS
 weapons/china_250kg_mk_82;<color=@userlogColoredText>216.5 kg</color> Bomb, 500lb, GP, Mk 82 Mod 0 <color=#ff6f00>BMB</color>
 weapons/china_250kg_mk_82/short;Mk 82 Mod 0
+weapons/cn_lgb_gb250_mod_laser;<color=@userlogColoredText>260.816 kg</color> GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn <color=#ff6f00>BMB-LG/GNSS</color>
+weapons/cn_lgb_gb250_mod_laser/short;GB250
 
 //ITALY BOMBS
 weapons/br_lizard_3;<color=@userlogColoredText>277.14 kg</color> Bombas Aéreas de Fins Gerais 230 (Lizard 3) <color=#ff6f00>BMB-LG</color>
@@ -577,6 +591,8 @@ us_iris_t_sl;IRIS-T SLM
 weapons/us_iris_t_sl/short;IRIS-T SLM
 
 //USSR MISSILES
+weapons/su_grom_1;"9-A-7759 | Upravlâyemaâ rakyeta Kh-36 ""Grom-È1"" <color=#ff6f00>AGM-GNSS</color>"
+weapons/su_grom_1/short;"Kh-36 ""Grom-È1"""
 weapons/su_kh_59m;"izd. D-9M | Upravlâyemaâ rakyeta Kh-59M ""Ovod-M"" <color=#ff6f00>AGM-TV</color>"
 weapons/su_kh_59m/short;Kh-59M
 weapons/su_kh_59me;"izd. D-9MÈ | Upravlâyemaâ rakyeta Kh-59MÈ ""Ovod-MÈ"" <color=#ff6f00>AGM-TV</color>"
@@ -1934,10 +1950,6 @@ weapons/su_kh_25_haslaserchannel;Kh-25 <color=#ff6f00>AGM-LG</color>
 weapons/su_kh_25_haslaserchannel/short;Kh-25
 weapons/su_kh_29l;Kh-29L <color=#ff6f00>AGM-LG</color>
 weapons/su_kh_29l/short;Kh-29L
-weapons/su_grom_1;"9-A-7759 | Kh-36 ""Grom-E1"" <color=#ff6f00>AGM-GNSS</color>"
-weapons/su_grom_1/short;Kh-36 (A)
-weapons/su_grom_2;"<color=@userlogColoredText>598 kg</color> 9-A1-7759 | Kh-36 ""Grom-E2"" <color=#ff6f00>BMB-GNSS</color>"
-weapons/su_grom_2/short;Kh-36 (A1)
 weapons/su_kh_25mr;Kh-25MR <color=#ff6f00>AGM-RG</color>
 weapons/su_kh_25mr/short;Kh-25MR
 weapons/su_kh_29l_notlaserchannel;Kh-29L <color=#ff6f00>AGM-LG</color>

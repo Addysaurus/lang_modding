@@ -133,8 +133,10 @@ weapons/cn_gp_250_1_incendiary;<color=@userlogColoredText>342 kg</color> 250公�
 weapons/cn_gp_250_1_incendiary/short;250-1型 (燃烧)
 weapons/cn_gp_250_2_incendiary;<color=@userlogColoredText>135 kg</color> 250公斤1型航空爆破燃烧炸弹 <color=#ff6f00>BMB-NPM</color>
 weapons/cn_gp_250_2_incendiary/short;250-1型 (燃烧)
-weapons/cn_ts_250;<color=@userlogColoredText>260 kg</color> GB250型250公斤激光卫星制导炸弹 <color=#ff6f00>BMB-LG/GNSS</color>
-weapons/cn_ts_250/short;GB250
+weapons/cn_ts_250;<color=@userlogColoredText>260 kg</color> GB250型250公斤激光卫星制导炸弹 | GB3型250公斤激光卫星制导炸弹 <color=#ff6f00>BMB-LG/GNSS</color>
+weapons/cn_ts_250/short;GB3
+weapons/cn_lgb_gb250_mod_laser;<color=@userlogColoredText>260.816 kg</color> GB250型250公斤激光卫星制导炸弹 <color=#ff6f00>BMB-LG/GNSS</color>
+weapons/cn_lgb_gb250_mod_laser/short;GB250
 weapons/cn_ls_6_250;<color=@userlogColoredText>290 kg</color> LS-6型250公斤制导滑翔炸弹 <color=#ff6f00>BMB-GNSS</color>
 weapons/cn_ls_6_250/short;LS-6/250
 weapons/cn_gp_500_2;<color=@userlogColoredText>473 kg</color> 500公斤2型航空爆破炸弹 <color=#ff6f00>BMB</color>
@@ -267,6 +269,7 @@ weapons/127mm_tc_1l_rocket_launcher_user_cannon/short;劍一防飛系
 127mm_tc_1l;劍一
 105mm_gp_105;GP105
 125mm_GP125;GP125
+100mm_aps_03;APS03-100
 
 //FUEL TANKS
 weapons/cn_800l_fyx800_drop_tank_1;<color=@userlogColoredText>800 L</color> K/FYX800B副油箱 <color=#ff6f00>DPTK</color>

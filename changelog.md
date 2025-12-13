@@ -35,16 +35,21 @@ All dates are listed in DD-MM-YYYY format.
         - **EF-2000 (AESA)**
         - **Jaguar 2**
         - **MPK Pr.1331**
+        - **Lütjens**
         - **DB-LK**
         - **MiG-25PD**
+        - **Su-30SM2**
         - **BMPT**
         - **BMPT-72**
         - **Tor-M1**
         - **Stalingrad**
         - **Typhoon (AESA)**
+        - **Ajax**
+        - **CRV Block 2** (UK / Australia)
         - **HMS Fiji**
         - **HMS Prince of Whales**
         - **Hawk 209** (Japan / Indonesia)
+        - **MiG-29N** (Japan / Malaysia)
         - **F/A-18D Late** (Japan / Malaysia)
         - **Su-30MKM** (Japan / Malaysia)
         - **Type 61 (B)**
@@ -57,11 +62,18 @@ All dates are listed in DD-MM-YYYY format.
         - **Su-30MKK**
         - **M1A2T** (China / Taiwan)
         - **HQ11**
+        - **MB-326B**
         - **F-2000A (AESA)**
         - **Freccia OWS 30**
         - **Cassiopea**
+        - **RN Armando Diaz**
         - **Rafale M F3-R**
+        - **Le Corse**
+        - **Suffren**
+        - **JAS39E**
         - **Merkava Mk.1**
+    - "Sea Defender" additions:
+        - **AK-225**
 
 - #### Changes:
 
@@ -73,21 +85,26 @@ All dates are listed in DD-MM-YYYY format.
         - **USS South Dakota** → **USS South Dakota (BB-57)**. Statcard name → **New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | South Dakota-class Battleship | USS South Dakota (BB-57) (1944)**.
         - **EF-2000 (AESA)** → **Eurofighter (P3Ec1)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement C Step 1)**. It's an evil nightmare hybrid and I don't care anymore.
         - **Jaguar 2** → **RakJPz Jaguar 2**. Statcard name → **Hispano Suiza HS 30 | Raketenjagdpanzer Jaguar 2**.
-        - **MPK Pr.1331** → **Wismar (241)**. Statcard name → **Peene-Werft | U-Boot-Abwehrschiff Projekt 133.1 | Wismar (241)**.
+        - **Parchim** → **Parchim (242)**. Statcard name → **Peene-Werft | U-Boot-Abwehrschiff Projekt 133.1 | Parchim (242)**.
+        - **Lütjens** → **Lütjens (D 185)**. Statcard name → **Bath Iron Works | Zerstörer Lütjens-Klasse (Typ 103) | Lütjens (D 185)**.
         - **DB-LK**: Statcard name → **Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet DB-LK**.
-        - **MiG-25PD**: Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. 84D | Samolyet MiG-25PD**.
+        - **MiG-25PD**: Statcard name → **Moskovskij mašinostroityel'nyj zavod «Zyenit» | izd. 84D | Samolyet MiG-25PD**.
+        - **Su-30SM2**: Statcard name → **PAO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM2**.
         - **BMPT** → **BMPT (2017)**. Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2017 g. «Tyerminator»**.
         - **BMPT-72**: Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 «Tyerminator-2»**.
         - **Tor-M1** → **9A331-1**. Statcard name → **Naučno-proizvodstvyennoye ob"yedinyeniye Antyej | Boyevaâ mašina 9A331-1**.
         - **Stalingrad**: Statcard name → **Nikolayevskiye ob"yedinënnyye gosudarstvyennyye zavody im. Andrye Marti | Tâžëlyye kryejsyer proyekt 82, tip Stalingrad | Stalingrad**.
         - **Typhoon (AESA)** → **Typhoon F.G.R. Mk. 4 (ZK355)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (ZK355)**.
+        - **Ajax**: Statcard name → **General Dynamics Land Systems UK AJAX | Combat Vehicle, Reconnaissance, Full Tracked, Ajax**.
+        - **CRV Block 2** (UK / Australia) → **Boxer CRV Block II**. Statcard name → **ARTEC Boxer Combat Reconnaissance Vehicle Block II**.
         - **HMS Fiji** → **HMS Fiji (58)**. Statcard name → **John Brown & Co. / Clydebank Shipyard | Colony-class | HMS Fiji (58) (1941)**.
         - **HMS Prince of Whales** → **HMS Prince of Wales (53)**. Statcard name → **Cammell Laird & Co. / Cape Town Dockyard | King George V-class | HMS Prince of Wales (53)**.
         - **Hawk 209** (Japan / Indonesia) → **Hawk Mk. 209**. Statcard name → **British Aerospace Hawk 209 | Hawk Mk. 209**.
+        - **MiG-29N** (Japan / Malaysia): Statcard name → **Aviaczionnyj naučno-promyšlyennyj komplyeks «MiG» | MiG-29N Fulcrum**.
         - **F/A-18D Late** (Japan / Malaysia) → **F/A-18D**. Statcard name → **McDonnell Douglas Corporation Model 267 | F/A-18D Hornet**.
         - **Su-30MKM** (Japan / Malaysia): Statcard name → **AO «Kompaniâ Sukhoj» | Su-30MKM**.
-        - **Type 61 (B)** → **61TK (B) (13 Sen-3)**. Statcard name **Mitsubishi Jū Kōgyō | 61 Shiki Sensha B Gata (Dai 13 Sensha Daitai, Dai 3 Sensha Chūtai)**.
-            - Japanese package: **Type 61 (B)** → **61TK (B) (13戦-3)**. Statcard name **三菱重工業 | 61式戦車B型 (第13戦車大隊, 第3戦車中隊)**.
+        - **Type 61 (B)** → **61TK (C) (13 Sen-3)**. Statcard name **Mitsubishi Jū Kōgyō | 61 Shiki Sensha C Gata (Dai 13 Sensha Daitai, Dai 3 Sensha Chūtai)**.
+            - Japanese package: **Type 61 (C)** → **61TK (C) (13戦-3)**. Statcard name **三菱重工業 | 61式戦車C型 (第13戦車大隊, 第3戦車中隊)**.
         - **Type 03 (TADS)** → **03 Shiki Sha Rēda Sō Sorabu**. Statcard name **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyorichi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsenbu**.
             - Japanese package: **Type 03 (TADS)** → **03式射レーダ装空部**. Statcard name **三菱重工業 | 03式中距離地対空誘導弾射撃用レーダ装置空中線部**.
         - **Type 03 (TEL)** → **03 Shiki Has Sō**. Statcard name **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyorichi Taikū Yūdōdan Hassha Sōchi**.
@@ -96,10 +113,10 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: **Type 03** (folder) → **03式**.
         - **IJN Oyodo** → **Ōyodo**. Statcard name **Kure Kaigun Kōshō / Dai 101 Kaigun Shisetsubu | Santō Junyōkan | Ōyodo Gata Junyōkan (C-42) | Ōyodo (1945)**.
             - Japanese package: **IJN Oyodo** → **大淀**. Statcard name **呉海軍工廠 / 第百一海軍施設部 | 三等巡洋艦 | 大淀型巡洋艦 (C-42) | 大淀 (1945)**.
-        - **IJN Tosa** → **Tosa**. Statcard name **Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo | Tosa Gata Senkan (A-127) | Tosa**.
-            - Japanese package: **IJN Tosa** → **土佐**. Statcard name **三菱造船株式会社長崎造船所 | 土佐型戦艦 (A-127) | 土佐**.
-        - **H-75M** → **Huòkè 75M**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75M / Zhōngyāng Fēijī Zhìzào Chǎng | Huòkè 75M Qūzhú Jī**.
-            - Mandarin package: **H-75M** → **霍克75M**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75M / 中央飛機製造廠 | 霍克75M驅逐機**.
+        - **IJN Tosa** → **Tosa**. Statcard name **Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo | Kaga Gata Senkan (A-127) | Tosa**.
+            - Japanese package: **IJN Tosa** → **土佐**. Statcard name **三菱造船株式会社長崎造船所 | 加賀型戦艦 (A-127) | 土佐**.
+        - **H-75M** → **Huòkè 75H**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75H / Zhōngyāng Fēijī Zhìzào Chǎng | Huòkè 75H Qūzhú Jī**. Gaijin wanted to make a 75M, but they made an accurate, non-hybrid 75H (the 75M prototype) except for the engine which is wrong to both.
+            - Mandarin package: **H-75M** → **霍克75H**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75H / 中央飛機製造廠 | 霍克75H驅逐機**.
         - **J-10C** → **K/JJ10C**. Statcard name → **Chéngdū Fēijī Gōngyè (Jítuán) | K/JJ10C Xíng Fēijī "Měng Lóng"**.
             - Mandarin package: **J-10C** → **K/JJ10C**. Statcard name → **成都飞机工业 (集团) | K/JJ10C型飞机 "猛龙"**.
         - **Su-30MKK** → **Sū 30MKK**. Statcard name → **PAO «Kompaniâ Sukhoj» | Sū 30MKK Xíng Fēijī**.
@@ -110,11 +127,18 @@ All dates are listed in DD-MM-YYYY format.
         - **HQ11** → **ADK11**. Statcard name → **Zhōngguó Gángtiān Kē Gōng Jítuán Youxiàn Gōngsī | HQ-11 | ADK11 Tōngyòng Mòduān Fángyù Wuqì Xìtong**.
             - Mandarin package: **HQ11** → **ADK11**. Statcard name → **中国航天科工集团有限公司 | HQ-11 | ADK11通用末端防御武器系统**.
             - Full Mandarin package: **HQ11** → **ADK11**. Statcard name → **中国航天科工集团有限公司 | 红旗-11 | ADK11通用末端防御武器系统**.
+        - **MB-326B**: Statcard name → **Aermacchi MB-326B**.
         - **F-2000A (AESA)** → **F-2000A (ECRS Mk2)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15) | F-2000A Typhoon (ECRS Mk2)**. It's an evil nightmare hybrid and I don't care anymore.
         - **Freccia OWS 30** → **VBM Freccia C/C (OWS 30mm)**. Statcard name → **Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)**.
         - **Cassiopea** → **Cassiopea (P 401)**. Statcard name → **Fincantieri del Muggiano | Pattugliatori Classe Cassiopea | Cassiopea (P 401)**.
+        - **RN Armando Diaz** → **Armando Diaz**. Statcard name → **Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano | Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna | Armando Diaz**.
         - **Rafale M F3-R** → **Rafale M (F3R)**. Statcard name → **Dassault Aviation | Rafale M (F3R)**.
-        - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Meḥalḳet Pituḥ Haṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
+        - **JAS39E** → **JAS 39 E**. Statcard name → **Saab 39 E | JAS 39 E Gripen**.
+        - **Le Corse** → **Le Corse (F 761)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Corse (F 761)**.
+        - **Suffren**: Statcard name → **Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Suffren (1945)**.
+        - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Minhalet Tokhnit ha-Merkavah ve-ha-Raḳam, Meḥalḳet Pituḥ ha-Ṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
+    - "Sea Defender" changes:
+        - **AK-225**: Statcard name → **Lyeningradskij Primorskij zavod | Artillyerijskij katyer proyekt 205PÈ | AK-225 (1975)**.
     - **TH 400** → **H 400**. Statcard name → **Henschel Wehrtechnik H 400**. The gun model is still wrong though smh...
     - **F5**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chǎng | Chugyŏkgi 《F5》**.
     - **16MCV (C1) (15 Soku Ki)** → **16MCV (C1) (15RDR)**.
@@ -123,29 +147,65 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: **81式 (C) 射統装 / 架台部** (folder) → **81式 (C)**.
     - **9S18M3 / 317M** (folder) → **9K317M**.
     - Roundels added to the **F-2000A (P3Ea)** and **Typhoon F.G.R. Mk. 4 (Centurion)**.
-    - **VBM Freccia C/C**: Statcard name → **Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro**.
     - Corrected the transliteration of "Тяжёлые" to be "Tâžëlyye" rather than "Tâžyelyye" for the **Kronštadt** and **Syevastopol'**.
     - **Sovyetskij Soûz**: Statcard name → **Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Linyejnyj korabl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
+    - **AO «Kompaniâ Sukhoj»** (manufacturer) → **PAO «Kompaniâ Sukhoj»**.
+    - **Cantiere navale del Muggiano** (manufacturer) → **Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano** (**Luigi di Savoia Duca degli Abruzzi** is now the second longest name).
+    - **Sparviero (P 420)**: Statcard name → **Cantiere Navale del Muggiano | Aliscafo Missilistico Sparviero (P 420)**.
+    - **Arras (AS)**: Statcard name → **Arsenal de Brest | Aviso de 1ère classe de la classe Arras | Arras (AS)**.
+    - **Amiens (7)**: Statcard name → **Société Nouvelle des Forges et Chantiers de la Méditerranée / Arsenal de Cherbourg | Aviso de 1ère classe de la classe Arras | Amiens (7) (1940)**.
+    - **La Marne**: Statcard name → **Arsenal de Lorient | Aviso de 1ère classe de la classe La Marne | La Marne (1925)**.
+    - **L'Aisne**: Statcard name → **Arsenal de Lorient | Aviso de 1ère classe de la classe La Marne | L'Aisne**.
+    - **Colbert**: Statcard name → **Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Colbert (1942)** (yes I know it's practically identical to Suffren and Dupleix, this is not a mistake).
+    - **Dupleix**: Statcard name → **Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Dupleix (1937)** (yes I know it's practically identical to Suffren and Colbert, this is not a mistake).
 
 ### Weaponry:
 
-- #### Addison:
+- #### Additions:
 
+    - Update "Line of Contact" additions:
+        - **KAB-250LG-E**
+        - **KAB-500LG-E**
+        - **KAB-1500LG-E**
+        - **UPAB-500B-E**
+        - **UPAB-1500B-E**
+        - **Grom-E2** (another one)
+        - **GB3**
     - **105 mm Rh 105-30 cannon**.
 
 - #### Changes:
 
+    - Update "Line of Contact" changes:
+        - **KAB-250LG-E** → **KAB-250LG-È**. Statcard name → **Korryektiruyemaâ aviaczionnaâ bomba KAB-250LG-È**.
+        - **KAB-500LG-E** → **KAB-500LG-È**. Statcard name → **Korryektiruyemaâ aviaczionnaâ bomba KAB-500LG-È**.
+        - **KAB-1500LG-E** → **KAB-1500LG-È**. Statcard name → **Korryektiruyemaâ aviaczionnaâ bomba KAB-1500LG-È**.
+        - **UPAB-500B-E** → **UPAB-500B-È**. Statcard name → **K08BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-500B-È**.
+        - **UPAB-1500B-E** → **UPAB-1500B-È**. Statcard name → **K029BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-1500B-È**.
+        - **Grom-E2** (the new one) → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 "Grom-È2"**.
+        - **GB3** → **GB250**. Statcard name → **GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn**.
+            - Mandarin package: **GB3** → **GB250**. Statcard name → **GB250型250公斤激光卫星制导炸弹**.
     - **105 mm Rh 105-30 cannon** → **Rh105-30**.
     - **Type 57-1** → **S-5K**. Statcard name → **Nyeupravlâyemaâ aviaczionnaâ rakyeta S-5K**. Gaijin calls it the Type 57-1, but it's not. It's an S-5K. The Type 57-1 is an HE rocket and is a basic S-5.
     - **250-3** → **Mk 82 Mod 0**. Statcard name → **Bomb, 500lb, GP, Mk 82 Mod 0**. This is not the normal Type 250-3, that's still the Type 250-3, this is the one on the A5C that Gaijin calls the Type 250-3 but is a Mk 82 with the stats of a Type 250-3... for some reason. Enjoy your 216.5 kg Mk 82 Mod 0 I guess.
     - Corrected the type tag on both Kh-59Ms to AGM-TV (it was TV/GNSS on dev and I didn't realize they had changed it).
     - **JAGM-MR (IR)**: Long name → **Joint Air-to-Ground Missile-Medium Range**. The guidance type was removed from the long name because it's pointless since the type tag has it anyway.
     - **JAGM-MR (SAL)**: Long name → **Joint Air-to-Ground Missile-Medium Range**. The guidance type was removed from the long name because it's pointless since the type tag has it anyway.
+    - **Kh-36 (A)** → **Kh-36 "Grom-È1"**. Statcard name → **9-A-7759 | Upravlâyemaâ rakyeta Kh-36 "Grom-È1"**.
+    - **Kh-36 (A1)** → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 "Grom-È2"**.
 
 ### Sensors:
 
+- #### Additions:
+
+    - Update "Line of Contact" additions:
+        - **YINGS-III**
+
 - #### Changes:
 
+    - Update "Line of Contact" changes:
+        - **YINGS-III** → **YINGS-IIIA**. Long name → **Zhòuyè Miáozhun Diào Cāng**.
+            - Mandarin package: **YINGS-III** → **YINGS-IIIA**. Long name → **YINGS-IIIA昼夜瞄准吊舱**.
+            - Full Mandarin package: **YINGS-III** → **鹰隼-IIIA**. Long name → **鹰隼-IIIA昼夜瞄准吊舱**.
     - **K/PZS01** (the one on the **JF-17 Block I**) → **ASELPOD**. Long name → **ASELPOD Advanced Targeting Pod**. It was called the K/PZS01 because of a time when all the models were mixed up and this used the K/JDC03A pod but with the name file of the K/PZS01 or something like that.
 
 ## 1.15.01 - 19-11-2025

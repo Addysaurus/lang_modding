@@ -25,12 +25,22 @@ weapons/su_ofab100m;ОФАБ-100М
 weapons/su_ofab100m/short;ОФАБ-100М
 weapons/su_ofab_250_270;ОФАБ-250-270
 weapons/su_ofab_250_270/short;ОФАБ-250-270
+weapons/su_kab_250lg_e;<color=@userlogColoredText>256 kg</color> Корректируемая авиационная бомба КАБ-250ЛГ-Э <color=#ff6f00>BMB-LG</color>
+weapons/su_kab_250lg_e/short;КАБ-250ЛГ-Э
+weapons/su_kab_500lg_e;<color=@userlogColoredText>560 kg</color> Корректируемая авиационная бомба КАБ-500ЛГ-Э <color=#ff6f00>BMB-LG</color>
+weapons/su_kab_500lg_e/short;КАБ-500ЛГ-Э
+weapons/su_upab_500b_e;<color=@userlogColoredText>505 kg</color> К08БЭ | Управляемая планирующая авиационная бомба УПАБ-500Б-Э <color=#ff6f00>BMB-GNSS</color>
+weapons/su_upab_500b_e/short;УПАБ-500Б-Э
+weapons/su_grom_2;<color=@userlogColoredText>598 kg</color> 9-А1-7759 | Корректируемая авиационная бомба Х-36 «Гром-Э2» <color=#ff6f00>BMB-GNSS</color>
+weapons/su_grom_2/short;Х-36 «Гром-Э2»
+weapons/su_grom_e2;<color=@userlogColoredText>598 kg</color> 9-А1-7759 | Корректируемая авиационная бомба Х-36 «Гром-Э2» <color=#ff6f00>BMB-GNSS</color>
+weapons/su_grom_e2/short;Х-36 «Гром-Э2»
+weapons/su_kab_1500lg_e;<color=@userlogColoredText>1525 kg</color> Корректируемая авиационная бомба КАБ-1500ЛГ-Э <color=#ff6f00>BMB-LG</color>
+weapons/su_kab_1500lg_e/short;КАБ-1500ЛГ-Э
+weapons/su_upab_1500b_e;<color=@userlogColoredText>1525 kg</color> К029БЭ | Управляемая планирующая авиационная бомба УПАБ-1500Б-Э <color=#ff6f00>BMB-GNSS</color>
+weapons/su_upab_1500b_e/short;УПАБ-1500Б-Э
 weapons/su_rn_28;<color=@userlogColoredText>2983 kg</color> ☢ изд. 28 | РН-28 <color=#ff6f00>BMB-ATM</color>
 weapons/su_rn_28/short;☢ РН-28
-weapons/su_grom_2;"<color=@userlogColoredText>598 kg</color> 9-А1-7759 | Корректируемые авиационные бомбы Х-36 «Гром-Э2» <color=#ff6f00>BMB-GNSS</color>"
-weapons/su_grom_2/short;Х-36 «Гром-Э2»
-weapons/su_grom_e2;<color=@userlogColoredText>598 kg</color> 9-А1-7759 | Корректируемые авиационные бомбы Х-36 «Гром-Э2» <color=#ff6f00>BMB-GNSS</color>
-weapons/su_grom_e2/short;Х-36 «Гром-Э2»
 
 //ROCKETS
 weapons/cn_hf5_rocket;9-А-317 | Неуправляемая авиационная ракета С-5К <color=#ff6f00>RKT</color>

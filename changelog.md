@@ -113,8 +113,8 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: **Type 03** (folder) → **03式**.
         - **IJN Oyodo** → **Ōyodo**. Statcard name **Kure Kaigun Kōshō / Dai 101 Kaigun Shisetsubu | Santō Junyōkan | Ōyodo Gata Junyōkan (C-42) | Ōyodo (1945)**.
             - Japanese package: **IJN Oyodo** → **大淀**. Statcard name **呉海軍工廠 / 第百一海軍施設部 | 三等巡洋艦 | 大淀型巡洋艦 (C-42) | 大淀 (1945)**.
-        - **IJN Tosa** → **Tosa**. Statcard name **Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo | Tosa Gata Senkan (A-127) | Tosa**.
-            - Japanese package: **IJN Tosa** → **土佐**. Statcard name **三菱造船株式会社長崎造船所 | 土佐型戦艦 (A-127) | 土佐**.
+        - **IJN Tosa** → **Tosa**. Statcard name **Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo | Kaga Gata Senkan (A-127) | Tosa**.
+            - Japanese package: **IJN Tosa** → **土佐**. Statcard name **三菱造船株式会社長崎造船所 | 加賀型戦艦 (A-127) | 土佐**.
         - **H-75M** → **Huòkè 75H**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75H / Zhōngyāng Fēijī Zhìzào Chǎng | Huòkè 75H Qūzhú Jī**. Gaijin wanted to make a 75M, but they made an accurate, non-hybrid 75H (the 75M prototype) except for the engine which is wrong to both.
             - Mandarin package: **H-75M** → **霍克75H**. Statcard name → **Curtiss-Wright Corporation Hawk Model 75H / 中央飛機製造廠 | 霍克75H驅逐機**.
         - **J-10C** → **K/JJ10C**. Statcard name → **Chéngdū Fēijī Gōngyè (Jítuán) | K/JJ10C Xíng Fēijī "Měng Lóng"**.
@@ -150,7 +150,7 @@ All dates are listed in DD-MM-YYYY format.
     - Corrected the transliteration of "Тяжёлые" to be "Tâžëlyye" rather than "Tâžyelyye" for the **Kronštadt** and **Syevastopol'**.
     - **Sovyetskij Soûz**: Statcard name → **Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Linyejnyj korabl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
     - **AO «Kompaniâ Sukhoj»** (manufacturer) → **PAO «Kompaniâ Sukhoj»**.
-    - **Cantiere navale del Muggiano** (manufacturer) → **Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano**.
+    - **Cantiere navale del Muggiano** (manufacturer) → **Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano** (**Luigi di Savoia Duca degli Abruzzi** is now the second longest name).
     - **Sparviero (P 420)**: Statcard name → **Cantiere Navale del Muggiano | Aliscafo Missilistico Sparviero (P 420)**.
     - **Arras (AS)**: Statcard name → **Arsenal de Brest | Aviso de 1ère classe de la classe Arras | Arras (AS)**.
     - **Amiens (7)**: Statcard name → **Société Nouvelle des Forges et Chantiers de la Méditerranée / Arsenal de Cherbourg | Aviso de 1ère classe de la classe Arras | Amiens (7) (1940)**.
@@ -164,6 +164,11 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - Update "Line of Contact" additions:
+        - **KAB-250LG-E**
+        - **KAB-500LG-E**
+        - **KAB-1500LG-E**
+        - **UPAB-500B-E**
+        - **UPAB-1500B-E**
         - **Grom-E2** (another one)
         - **GB3**
     - **105 mm Rh 105-30 cannon**.
@@ -171,7 +176,12 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Update "Line of Contact" changes:
-        - **Grom-E2** (the new one) → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemyye aviaczionnyye bomby Kh-36 "Grom-È2"**.
+        - **KAB-250LG-E** → **KAB-250LG-È**. Statcard name → **Korryektiruyemaâ aviaczionnaâ bomba KAB-250LG-È**.
+        - **KAB-500LG-E** → **KAB-500LG-È**. Statcard name → **Korryektiruyemaâ aviaczionnaâ bomba KAB-500LG-È**.
+        - **KAB-1500LG-E** → **KAB-1500LG-È**. Statcard name → **Korryektiruyemaâ aviaczionnaâ bomba KAB-1500LG-È**.
+        - **UPAB-500B-E** → **UPAB-500B-È**. Statcard name → **K08BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-500B-È**.
+        - **UPAB-1500B-E** → **UPAB-1500B-È**. Statcard name → **K029BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-1500B-È**.
+        - **Grom-E2** (the new one) → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 "Grom-È2"**.
         - **GB3** → **GB250**. Statcard name → **GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn**.
             - Mandarin package: **GB3** → **GB250**. Statcard name → **GB250型250公斤激光卫星制导炸弹**.
     - **105 mm Rh 105-30 cannon** → **Rh105-30**.
@@ -181,7 +191,7 @@ All dates are listed in DD-MM-YYYY format.
     - **JAGM-MR (IR)**: Long name → **Joint Air-to-Ground Missile-Medium Range**. The guidance type was removed from the long name because it's pointless since the type tag has it anyway.
     - **JAGM-MR (SAL)**: Long name → **Joint Air-to-Ground Missile-Medium Range**. The guidance type was removed from the long name because it's pointless since the type tag has it anyway.
     - **Kh-36 (A)** → **Kh-36 "Grom-È1"**. Statcard name → **9-A-7759 | Upravlâyemaâ rakyeta Kh-36 "Grom-È1"**.
-    - **Kh-36 (A1)** → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemyye aviaczionnyye bomby Kh-36 "Grom-È2"**.
+    - **Kh-36 (A1)** → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 "Grom-È2"**.
 
 ### Sensors:
 
@@ -193,7 +203,9 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Update "Line of Contact" changes:
-        - **YINGS-III** → 
+        - **YINGS-III** → **YINGS-IIIA**. Long name → **Zhòuyè Miáozhun Diào Cāng**.
+            - Mandarin package: **YINGS-III** → **YINGS-IIIA**. Long name → **YINGS-IIIA昼夜瞄准吊舱**.
+            - Full Mandarin package: **YINGS-III** → **鹰隼-IIIA**. Long name → **鹰隼-IIIA昼夜瞄准吊舱**.
     - **K/PZS01** (the one on the **JF-17 Block I**) → **ASELPOD**. Long name → **ASELPOD Advanced Targeting Pod**. It was called the K/PZS01 because of a time when all the models were mixed up and this used the K/JDC03A pod but with the name file of the K/PZS01 or something like that.
 
 ## 1.15.01 - 19-11-2025

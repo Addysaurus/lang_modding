@@ -134,7 +134,12 @@ All dates are listed in DD-MM-YYYY format.
         - **Cassiopea** → **Cassiopea (P 401)**. Statcard name → **Fincantieri del Muggiano | Pattugliatori Classe Cassiopea | Cassiopea (P 401)**.
         - **RN Armando Diaz** → **Armando Diaz**. Statcard name → **Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano | Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna | Armando Diaz**.
         - **Rafale M F3-R** → **Rafale M (F3R)**. Statcard name → **Dassault Aviation | Rafale M (F3R)**.
-        - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Meḥalḳet Pituḥ Haṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
+        - **Le Corse** → **Le Corse (F 761)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Corse (F 761)**.
+        - **Suffren**: Statcard name → **Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Suffren (1945)**.
+        - **JAS39E** → **JAS 39 E**. Statcard name → **Saab 39 E | JAS 39 E Gripen**.
+        - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Minhalet Tokhnit ha-Merkavah ve-ha-Raḳam, Meḥalḳet Pituḥ ha-Ṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
+    - "Sea Defender" changes:
+        - **AK-225**: Statcard name → **Lyeningradskij Primorskij zavod | Artillyerijskij katyer proyekt 205PÈ | AK-225 (1975)**.
     - China rework and Mandarin package changes:
         - **Gladiator Mk. I** → **Dòushì Mk. I**. Statcard name → **Gloster Aircraft Company | Dòushì Mk. I Xíng Qūzhú Jī "Gé Jī"**.
             - Mandarin package: **Gladiator Mk. I** → **鬥士Mk. I**. Statcard name → **Gloster Aircraft Company | 鬥士Mk. I型驅逐機「格機」**.
@@ -170,7 +175,7 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: Statcard name → **Vultee Aircraft V-12-D | V-12-D型轟炸機**.
         - **Martin 139WC** → **Madīng 139**. Statcard name → **Glenn L. Martin Company Model 139WC | Madīng 139 Hōngzhà Jī**.
             - Mandarin package: **Martin 139WC** → **馬丁139**. Statcard name → **Glenn L. Martin Company Model 139WC | 馬丁139轟炸機**.
-        - **C-68C* → **Huòkè III**. Statcard name → **Curtiss-Wright Corporation Hawk Model 68C / Central Aircraft Manufacturing Company | Huòkè III Qūzhú Jī**.
+        - **C-68C** → **Huòkè III**. Statcard name → **Curtiss-Wright Corporation Hawk Model 68C / Central Aircraft Manufacturing Company | Huòkè III Qūzhú Jī**.
             - Mandarin package: **C-68C** → **霍克III**. Statcard name → **Curtiss-Wright Corporation Hawk Model 68C / 中央飛機製造廠 | 霍克III驅逐機**.
         - **D.510C**: Statcard name → **Constructions Aéronautiques Émile Dewoitine | D.510C Xíng Qūzhú Jī "Dì Jī"**.
             - Mandarin package: Statcard name → **Constructions Aéronautiques Émile Dewoitine | D.510C型驅逐機「地機」**.
@@ -244,8 +249,8 @@ All dates are listed in DD-MM-YYYY format.
         - **MiG-9** → **Migé 9**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | Migé 9 Xíng Fēijī**.
             - Mandarin package: **MiG-9** → **米格9**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | 米格9型飞机**.
             - Mandarin + Russian package: **MiG-9** → **米格9**. Statcard name → **Опытно-конструкторское бюро № 155 | 米格9型飞机**.
-        - **MiG-9 (l)** → **I-307**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. FR | I-307**.
-            - Russian package: **MiG-9 (l)** → **И-307**. Statcard name → **Опытно-конструкторское бюро № 155 | изд. ФР | И-307**.
+        - **I-307**: Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. FR | I-307**.
+            - Mandarin + Russian package: **I-307** → **И-307**. Statcard name → **Опытно-конструкторское бюро № 155 | изд. ФР | И-307**.
         - **MiG-15bis** → **Migé 15 Bisī**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | Migé 15 Bisī Xíng Fēijī**.
             - Mandarin package: **MiG-15bis** → **米格15比斯**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | 米格15比斯型飞机**.
             - Mandarin + Russian package: **MiG-15bis** → **米格15比斯**. Statcard name → **Опытно-конструкторское бюро № 155 | 米格15比斯型飞机**.
@@ -547,15 +552,8 @@ All dates are listed in DD-MM-YYYY format.
         - **HQ17** → **ADK17**. Statcard name → **Zhōngguó Jīngmì Jīxiè Jìn Chūkou Zong Gōngsī | HQ-17 | ADK17 Dì Duì Kōng Daodàn Xìtong**.
             - Mandarin package: **HQ17** → **ADK17**. Statcard name → **中国精密机械进出口总公司 | HQ-17 | ADK17地對空导弹系統**.
             - Full Mandarin package: **HQ17** → **ADK17**. Statcard name → **中国精密机械进出口总公司 | 红旗-17 | ADK17地對空导弹系統**.
-        - **CS/SA5 (2022)**: Statcard name → **Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Xíng Gāo Pào (2022)**.
+        - **CS/SA5 (2022)**:
             - Mandarin package: Statcard name → **中国南方工业集团公司 + 中国兵器工业集团有限公司 | CS/SA5型30毫米轮式自行高炮 (2022)**.
-
-        - **JAS39E** → **JAS 39 E**. Statcard name → **Saab 39 E | JAS 39 E Gripen**.
-        - **Le Corse** → **Le Corse (F 761)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Corse (F 761)**.
-        - **Suffren**: Statcard name → **Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Suffren (1945)**.
-        - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Minhalet Tokhnit ha-Merkavah ve-ha-Raḳam, Meḥalḳet Pituḥ ha-Ṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
-    - "Sea Defender" changes:
-        - **AK-225**: Statcard name → **Lyeningradskij Primorskij zavod | Artillyerijskij katyer proyekt 205PÈ | AK-225 (1975)**.
     - **TH 400** → **H 400**. Statcard name → **Henschel Wehrtechnik H 400**. The gun model is still wrong though smh...
     - **F5**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | Chugyŏkgi 《F5》**.
     - **16MCV (C1) (15 Soku Ki)** → **16MCV (C1) (15RDR)**.

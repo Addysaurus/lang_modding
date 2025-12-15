@@ -3,6 +3,7 @@
 weapons/gun_pk3l;<color=@userlogColoredText>7.62 mm</color> 6P6 | ПК <color=#ff6f00>MG</color>
 weapons/gun_pk3/shortl;ПК
 weapons/30mm_2A42_BMPT_user_cannon;<color=@userlogColoredText>30 mm</color> 30-мм Автоматическая пушка 2А42.00.000 <color=#ff6f00>ACNN</color>
+weapons/30mm_2a42_md_user_cannon;<color=@userlogColoredText>30 mm</color> 30-мм Автоматический гранатометный комплекс АГС-30М.00.000 <color=#ff6f00>LCH-GRN</color>
 weapons/85mm_Type_56_user_cannon;<color=@userlogColoredText>85 mm</color> 52-ПТ-365 | ЗиС-С-53 обр. 1944 г. <color=#ff6f00>CNN</color>
 weapons/100mm_2A70_BMP_autoloader_user_cannon;<color=@userlogColoredText>100 mm</color> 2А70 <color=#ff6f00>CNN</color>
 weapons/152mm_ML20S_user_cannon;<color=@userlogColoredText>152 mm</color> 52-ПС-544С | МЛ-20С обр. 1937/43 гг. <color=#ff6f00>CNN-HWZ</color>
@@ -49,6 +50,18 @@ weapons/cn_hf5_rocket;9-А-317 | Неуправляемая авиационна
 weapons/cn_hf5_rocket/short;С-5К
 
 //MISSILES
+weapons/su_r_40rd;изд. 46РД | Авиационная управляемая ракета Р-40РД <color=#ff6f00>AAM-SARH</color>
+weapons/su_r_40rd/short;Р-40РД
+weapons/su_r_40rd_default;изд. 46РД | Авиационная управляемая ракета Р-40РД <color=#ff6f00>AAM-SARH</color>
+weapons/su_r_40rd_default/short;Р-40РД
+weapons/su_r_40td;изд. 46ТД | Авиационная управляемая ракета Р-40ТД <color=#ff6f00>AAM-IR</color>
+weapons/su_r_40td/short;Р-40ТД
+weapons/su_r_40td_default;изд. 46ТД | Авиационная управляемая ракета Р-40ТД <color=#ff6f00>AAM-IR</color>
+weapons/su_r_40td_default/short;Р-40ТД
+weapons/su_rvv_sd;Авиационная управляемая ракета РВВ-СД <color=#ff6f00>AAM-ARH</color>
+weapons/su_rvv_sd/short;РВВ-СД
+weapons/su_rvv_sd_default;Авиационная управляемая ракета РВВ-СД <color=#ff6f00>AAM-ARH</color>
+weapons/su_rvv_sd_default/short;РВВ-СД
 weapons/su_grom_1;9-А-7759 | Управляемая ракета Х-36 «Гром-Э1» <color=#ff6f00>AGM-GNSS</color>
 weapons/su_grom_1/short;Х-36 «Гром-Э1»
 weapons/su_kh_59m;изд. Д-9М | Управляемая ракета Х-59М «Овод-М» <color=#ff6f00>AGM-TV</color>

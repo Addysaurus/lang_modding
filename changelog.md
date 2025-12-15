@@ -21,6 +21,7 @@ All dates are listed in DD-MM-YYYY format.
 ### General:
 
 - After 7 long months and literal hundreds of hours of reading, researching, and going kind of insane, the China rework and Mandarin package are finally are! Every single Chinese thing in the entire game has been reworked. Every vehicle, every weapon, every sensor, every modification, every engine, *everything*. It has all been reworked completely. And with that, 6 new Mandarin packages have been added: standard Mandarin, Full Mandarin (e.g. HQ-11 becomes 红旗-11), Mandarin + Russian combo, Full Mandarin + Russian combo, Full Ammunition Names Mandarin, and Full Ammunition Names Full Mandarin. From the bottom of my heart, I hope you enjoy it. I would also like to massively thank kleinerPanzer for help sourcing and researching this rework. Without her, this rework would have been impossible and from the bottom of my heart, she deserves the biggest thank you on the planet.
+- I would also like to welcome KittyCatAjax to the mod team!
 
 ### Vehicles:
 
@@ -164,6 +165,9 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - Update "Line of Contact" additions:
+        - **NASAMS 3 SAM** (launcher)
+        - **AMRAAM-ER**
+        - **KE-W A2**
         - **30 mm 2A42 automatic cannon** (new one for the **BMPT**)
         - **30 mm HEI-PD**
         - **KAB-250LG-E**
@@ -171,32 +175,60 @@ All dates are listed in DD-MM-YYYY format.
         - **KAB-1500LG-E**
         - **UPAB-500B-E**
         - **UPAB-1500B-E**
+        - **R-40RD**
+        - **R-40TD**
+        - **RVV-SD**
         - **Grom-E2** (another one)
         - **9M120-1**
         - **9M120-1F**
-        - **9M120 ATGM**
+        - **9M120 ATGM** (launcher)
+        - **Type 03 SAM**
+        - **Type 03** (the missile for the Type 03 SAM launcher)
+        - **M256** (for the **M1A2T**)
+        - **PL-15**
+        - **FM-3000 SAM** (launcher)
+        - **FM-3000**
         - **GB3**
     - **105 mm Rh 105-30 cannon**.
 
 - #### Changes:
 
     - Update "Line of Contact" changes:
-        - **30 mm 2A42 automatic cannon** → **30-mm Avtomatičyeskaâ puška 2A42.00.000**.
+        - **NASAMS 3 SAM** (launcher) → **National Advanced Surface-to-Air Missile System 3**.
+        - **AMRAAM-ER**:
+            - Full Ammunition Names package: **AMRAAM-ER** → **AMRAAM Extended Range**.
+        - **30 mm 2A42 automatic cannon** → **30-mm Avtomatičyeskaâ puška 2A42.00.000** (I know this format of .00.000 and whatnot is weird, it seems to be in consistent in what has it so I'm going just off of where I can find it in manuals).
         - **30 mm HEI-PD** → **3UOF23**.
             - Full Ammunition Names package: **30 mm HEI-PD** → **3UOF23 (3OF23)**.
+        - **R-40RD**: Statcard name → **izd. 46RD | Aviaczionnaâ upravlâyemaâ rakyeta R-40RD**.
+        - **R-40TD**: Statcard name → **izd. 46TD | Aviaczionnaâ upravlâyemaâ rakyeta R-40TD**.
+        - **RVV-SD**: Statcard name → **Aviaczionnaâ upravlâyemaâ rakyeta RVV-SD**.
         - **KAB-250LG-E** → **KAB-250LG-È**. Statcard name → **Korryektiruyemaâ aviaczionnaâ bomba KAB-250LG-È**.
         - **KAB-500LG-E** → **KAB-500LG-È**. Statcard name → **Korryektiruyemaâ aviaczionnaâ bomba KAB-500LG-È**.
         - **KAB-1500LG-E** → **KAB-1500LG-È**. Statcard name → **Korryektiruyemaâ aviaczionnaâ bomba KAB-1500LG-È**.
         - **UPAB-500B-E** → **UPAB-500B-È**. Statcard name → **K08BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-500B-È**.
         - **UPAB-1500B-E** → **UPAB-1500B-È**. Statcard name → **K029BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-1500B-È**.
         - **Grom-E2** (the new one) → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 "Grom-È2"**.
-        - **GB3** → **GB250**. Statcard name → **GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn**.
-            - Mandarin package: **GB3** → **GB250**. Statcard name → **GB250型250公斤激光卫星制导炸弹**.
         - **9M120-1**:
             - Full Ammunition Names package: **9M120-1** → **Protivotankovaâ upravlâyemaâ rakyetu 9M120-1**.
         - **9M120-1F**:
-            - Full Ammunition Names package: **9M120-1** → **Protivotankovaâ upravlâyemaâ rakyetu 9M120-1F**.
+            - Full Ammunition Names package: **9M120-1F** → **Protivotankovaâ upravlâyemaâ rakyetu 9M120-1F**.
         - **9M120 ATGM** → **Komplyeksa upravlâyemogo vooružyeniâ  B07S1.01.000 "Ataka-T"**.
+        - **Type 03 SAM** (launcher) → **03 Shiki Chūkyorichi Taikū Yūdōdan Hassha Sōchi**.
+            - Japanese package: **Type 03 SAM** → **03式中距離地対空誘導弾発射装置**.
+        - **Type 03** → **SAM-4**.
+        - **120 mm M256 cannon** → **Gun, 120mm, M256**.
+        - **FM-3000 SAM** (launcher) → **HQ-11 | ADK11 Tōngyòng Mòduān Fángyù Wuqì Xìtong**.
+            - Mandarin package: **FM-3000 SAM** → **HQ-11 | ADK11通用末端防御武器系统**.
+            - Full Mandarin package: **FM-3000 SAM** → **红旗-11 | ADK11通用末端防御武器系统**.
+        - **FM-3000** → **ADK11**.
+            - Full Ammunition Names package: **FM-3000** → **ADK11 Dì Duì Kōng Daodàn**.
+            - Full Ammunition Names - Full Mandarin package: **FM-3000** → **ADK11地對空导弹**.
+        - **PL-15** → **K/AKK15**. Statcard name → **PL-15 | K/AKK15 Kōng Kōng Daodàn**.
+            - Mandarin package: **PL-15** → **K/AKK15**. Statcard name → **PL-15 | K/AKK15空空导弹**.
+            - Full Mandarin package: **PL-15** → **K/AKK15**. Statcard name → **霹雳-15 | K/AKK15空空导弹**.
+        - **GB3** → **GB250**. Statcard name → **GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn**.
+            - Mandarin package: **GB3** → **GB250**. Statcard name → **GB250型250公斤激光卫星制导炸弹**.
     - **105 mm Rh 105-30 cannon** → **Rh105-30**.
     - **Type 57-1** → **S-5K**. Statcard name → **Nyeupravlâyemaâ aviaczionnaâ rakyeta S-5K**. Gaijin calls it the Type 57-1, but it's not. It's an S-5K. The Type 57-1 is an HE rocket and is a basic S-5.
     - **250-3** → **Mk 82 Mod 0**. Statcard name → **Bomb, 500lb, GP, Mk 82 Mod 0**. This is not the normal Type 250-3, that's still the Type 250-3, this is the one on the A5C that Gaijin calls the Type 250-3 but is a Mk 82 with the stats of a Type 250-3... for some reason. Enjoy your 216.5 kg Mk 82 Mod 0 I guess.
@@ -205,6 +237,8 @@ All dates are listed in DD-MM-YYYY format.
     - **JAGM-MR (SAL)**: Long name → **Joint Air-to-Ground Missile-Medium Range**. The guidance type was removed from the long name because it's pointless since the type tag has it anyway.
     - **Kh-36 (A)** → **Kh-36 "Grom-È1"**. Statcard name → **9-A-7759 | Upravlâyemaâ rakyeta Kh-36 "Grom-È1"**.
     - **Kh-36 (A1)** → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 "Grom-È2"**.
+    - **30 mm AG-30M automatic grenade launcher** → **30-mm Avtomatičyeskij granatomyetnyj komplyeks AGS-30M.00.000**.
+    - **KE-W A1** → **KE-W**.
 
 ### Sensors:
 

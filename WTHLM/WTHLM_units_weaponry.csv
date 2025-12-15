@@ -92,6 +92,8 @@ weapons/gun_pk3l;<color=@userlogColoredText>7.62 mm</color> 6P6 | PK <color=#ff6
 weapons/gun_pk3/shortl;PK
 weapons/7_62mm_KT_user_machinegun;<color=@userlogColoredText>7.62 mm</color> KT-7,62 <color=#ff6f00>MG</color>
 weapons/12_7mm_KT_user_cannon;<color=@userlogColoredText>12.7 mm</color> KT-12,7 <color=#ff6f00>MG</color>
+weapons/30mm_2A42_BMPT_user_cannon;<color=@userlogColoredText>30 mm</color> 30-mm Avtomatičyeskaâ puška 2A42.00.000 <color=#ff6f00>ACNN</color>
+weapons/30mm_2a42_md_user_cannon;<color=@userlogColoredText>30 mm</color> 30-mm Avtomatičyeskij granatomyetnyj komplyeks AGS-30M.00.000 <color=#ff6f00>LCH-GRN</color>
 weapons/100mm_2A70_BMP_autoloader_user_cannon;<color=@userlogColoredText>100 mm</color> 2A70 <color=#ff6f00>CNN</color>
 weapons/125mm_KBA_3_user_cannon;<color=@userlogColoredText>125 mm</color> KBA-3 <color=#ff6f00>CNN-LCH</color>
 weapons/152mm_ML20S_user_cannon;<color=@userlogColoredText>152 mm</color> 52-PS-544S | ML-20S obr. 1937/43 gg. <color=#ff6f00>CNN-HWZ</color>
@@ -131,6 +133,7 @@ weapons/12_7mm_type_77_user_machinegun;<color=@userlogColoredText>12.7 mm</color
 weapons/30mm_pgz_625_user_cannon;<color=@userlogColoredText>30 mm</color> 630 Xíng 30 Háomi Gāoshè Jīguān Pào <color=#ff6f00>ACNN</color>
 weapons/85mm_Type_56_user_cannon;<color=@userlogColoredText>85 mm</color> 52-PT-365 | ZiS-S-53 obr. 1944 g. <color=#ff6f00>CNN</color>
 weapons/105mm_type_75_user_cannon;<color=@userlogColoredText>105 mm</color> L/PW1975 Shì 105 Háomi Wú Hòuzuòlì Pào <color=#ff6f00>CNN-RCL</color>
+weapons/120mm_m256_m1a2t_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
 
 //ITALY GUNS
 weapons/40mm_39_vickers_terni_mod15_17_modif1930_naval_user_cannon;<color=@userlogColoredText>40 mm</color> Cannone Vickers-Terni da 40/39 modello 1915/1917 <color=#ff6f00>ACNN</color>
@@ -170,6 +173,8 @@ weapons/60mm_hvms_user_cannon;<color=@userlogColoredText>60 mm</color> 60 mm Hyp
 37mm_AN_M4_naval_HE/name;37 mm HE
 37mm_AN_M4_naval_AP/name;37 mm AP-T
 75mm_m61_solid;M61 shot
+120mm_ke_w;KE-W
+120mm_ke_w_a2;KE-W A2
 155mm_t152;T152E5
 155_mm_t267;T267
 203mm_m106;M106
@@ -537,6 +542,8 @@ weapons/us_aim_120c_7_sam;Air-Launched, Intercept-Aerial, Guided Missile, AIM-12
 weapons/us_aim_120c_7_sam/short;AIM-120C-7
 weapons/178mm_sl_amraam_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-120C-7) <color=#ff6f00>LCH</color>
 weapons/127mm_aim_9x_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2) <color=#ff6f00>LCH</color>
+weapons/178mm_nasams_user_cannon;National Advanced Surface-to-Air Missile System 3 <color=#ff6f00>LCH</color>
+us_amraam_er;AMRAAM-ER
 weapons/us_hellfire_agm_114_b;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
 weapons/us_hellfire_agm_114_b/short;AGM-114B
 weapons/us_hellfire_agm_114_b_default;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
@@ -591,6 +598,18 @@ us_iris_t_sl;IRIS-T SLM
 weapons/us_iris_t_sl/short;IRIS-T SLM
 
 //USSR MISSILES
+weapons/su_r_40rd;izd. 46RD | Aviaczionnaâ upravlâyemaâ rakyeta R-40RD <color=#ff6f00>AAM-SARH</color>
+weapons/su_r_40rd/short;R-40RD
+weapons/su_r_40rd_default;izd. 46RD | Aviaczionnaâ upravlâyemaâ rakyeta R-40RD <color=#ff6f00>AAM-SARH</color>
+weapons/su_r_40rd_default/short;R-40RD
+weapons/su_r_40td;izd. 46TD | Aviaczionnaâ upravlâyemaâ rakyeta R-40TD <color=#ff6f00>AAM-IR</color>
+weapons/su_r_40td/short;R-40TD
+weapons/su_r_40td_default;izd. 46TD | Aviaczionnaâ upravlâyemaâ rakyeta R-40TD <color=#ff6f00>AAM-IR</color>
+weapons/su_r_40td_default/short;R-40TD
+weapons/su_rvv_sd;Aviaczionnaâ upravlâyemaâ rakyeta RVV-SD <color=#ff6f00>AAM-ARH</color>
+weapons/su_rvv_sd/short;RVV-SD
+weapons/su_rvv_sd_default;Aviaczionnaâ upravlâyemaâ rakyeta RVV-SD <color=#ff6f00>AAM-ARH</color>
+weapons/su_rvv_sd_default/short;RVV-SD
 weapons/su_grom_1;"9-A-7759 | Upravlâyemaâ rakyeta Kh-36 ""Grom-È1"" <color=#ff6f00>AGM-GNSS</color>"
 weapons/su_grom_1/short;"Kh-36 ""Grom-È1"""
 weapons/su_kh_59m;"izd. D-9M | Upravlâyemaâ rakyeta Kh-59M ""Ovod-M"" <color=#ff6f00>AGM-TV</color>"
@@ -607,6 +626,9 @@ weapons/rocket_9m33_naval_rocket_launcher/short;ZIF-122
 weapons/360mm_9m317m_user_cannon;Puskovoye ustrojstvo 9P331M <color=#ff6f00>LCH</color>
 weapons/360mm_9m317m_user_cannon/short;9P331M
 360mm_9m317ma;9M317MA
+weapons/130mm_9M120_BMPT_launcher_user_cannon;"Komplyeksa upravlâyemogo vooružyeniâ  B07S1.01.000 ""Ataka-T"" <color=#ff6f00>LCH</color>"
+130mm_9m120_1;9M120-1
+130mm_9m120_1f;9M120-1F
 
 //UK MISSILES
 weapons/166mm_camm_user_cannon;Intelligent Launcher <color=#ff6f00>LCH</color>
@@ -635,8 +657,14 @@ weapons/jp_asm2/short;ASM-2
 weapons/80mm_Type_91_launcher_user_cannon;"93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi ""Kurōzudo Arō"" <color=#ff6f00>LCH</color>"
 weapons/160mm_sam_1c_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
 weapons/160mm_sam_1c_slave_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
+weapons/320mm_type_03_user_cannon;03 Shiki Chūkyorichi Taikū Yūdōdan Hassha Sōchi <color=#ff6f00>LCH</color>
+jp_type_03;SAM-4
 
 //CHINA MISSILES
+weapons/cn_pl15;PL-15 | K/AKK15 Kōng Kōng Daodàn <color=#ff6f00>AAM-ARH</color>
+weapons/cn_pl15/short;K/AKK15
+weapons/cn_pl15_default;PL-15 | K/AKK15 Kōng Kōng Daodàn <color=#ff6f00>AAM-ARH</color>
+weapons/cn_pl15_default/short;K/AKK15
 weapons/cn_yj_81k;YJ81 | H/AKJ08 Kōng Jiàn Daodàn <color=#ff6f00>AShM-ARH</color>
 weapons/cn_yj_81k/short;H/AKJ08
 weapons/cn_ba_11;Blue Arrow 11 Air-to-Surface Missile <color=#ff6f00>AGM-IR</color>
@@ -645,6 +673,8 @@ weapons/cn_cm_502kg_he;CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì 
 weapons/cn_cm_502kg_he/short;CM502KG
 weapons/cn_cm_502kg_he_rail;CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong <color=#ff6f00>AGM-IR</color>
 weapons/cn_cm_502kg_he_rail/short;CM502KG
+weapons/250mm_FM_3000_user_cannon;HQ-11 | ADK11 Tōngyòng Mòduān Fángyù Wuqì Xìtong <color=#ff6f00>LCH</color>
+cn_fm_3000;ADK11
 fb10_rocket;FB10
 fb10a_rocket;FB10A
 weapons/130mm_FB_10_rocket_launcher;FB10 Dì Duì Kōng Daodàn Fāshè Chē <color=#ff6f00>LCH</color>
@@ -4881,7 +4911,6 @@ weapons/105mm_XM_35_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 1
 weapons/120mm_M256_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
 weapons/120mm_M256_M1A2_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
 weapons/120mm_M256_KE_W_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
-120mm_ke_w;KE-W A1
 120mm_m830a1;M830A1
 120mm_m908;M908
 120mm_m830;M830

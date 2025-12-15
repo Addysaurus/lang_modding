@@ -2,6 +2,8 @@
 //GUNS
 weapons/gun_pk3l;<color=@userlogColoredText>7.62 mm</color> 6P6 | ПК <color=#ff6f00>MG</color>
 weapons/gun_pk3/shortl;ПК
+weapons/30mm_2A42_BMPT_user_cannon;<color=@userlogColoredText>30 mm</color> 30-мм Автоматическая пушка 2А42.00.000 <color=#ff6f00>ACNN</color>
+weapons/30mm_2a42_md_user_cannon;<color=@userlogColoredText>30 mm</color> 30-мм Автоматический гранатометный комплекс АГС-30М.00.000 <color=#ff6f00>LCH-GRN</color>
 weapons/85mm_Type_56_user_cannon;<color=@userlogColoredText>85 mm</color> 52-ПТ-365 | ЗиС-С-53 обр. 1944 г. <color=#ff6f00>CNN</color>
 weapons/100mm_2A70_BMP_autoloader_user_cannon;<color=@userlogColoredText>100 mm</color> 2А70 <color=#ff6f00>CNN</color>
 weapons/152mm_ML20S_user_cannon;<color=@userlogColoredText>152 mm</color> 52-ПС-544С | МЛ-20С обр. 1937/43 гг. <color=#ff6f00>CNN-HWZ</color>
@@ -9,7 +11,8 @@ weapons/305mm_52_obr1907_mariya_naval_user_cannon;<color=@userlogColoredText>305
 weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color> 406-мм/50 Б-37 обр. 1937 г. <color=#ff6f00>CNN</color>
 
 //GUN AMMUNITION
-30mm_china_API;3УБР6 (3БР6)
+30mm_UOF23;3УОФ23
+30mm_china_API;3УБР6
 76mm_obr1915_hetf;ОФ обр. 1915 г.
 122mm_3vdcz3;3ВДЦ3
 125mm_3of_82;3ВОФ128
@@ -25,6 +28,20 @@ weapons/su_ofab100m;ОФАБ-100М
 weapons/su_ofab100m/short;ОФАБ-100М
 weapons/su_ofab_250_270;ОФАБ-250-270
 weapons/su_ofab_250_270/short;ОФАБ-250-270
+weapons/su_kab_250lg_e;<color=@userlogColoredText>256 kg</color> Корректируемая авиационная бомба КАБ-250ЛГ-Э <color=#ff6f00>BMB-LG</color>
+weapons/su_kab_250lg_e/short;КАБ-250ЛГ-Э
+weapons/su_kab_500lg_e;<color=@userlogColoredText>560 kg</color> Корректируемая авиационная бомба КАБ-500ЛГ-Э <color=#ff6f00>BMB-LG</color>
+weapons/su_kab_500lg_e/short;КАБ-500ЛГ-Э
+weapons/su_upab_500b_e;<color=@userlogColoredText>505 kg</color> К08БЭ | Управляемая планирующая авиационная бомба УПАБ-500Б-Э <color=#ff6f00>BMB-GNSS</color>
+weapons/su_upab_500b_e/short;УПАБ-500Б-Э
+weapons/su_grom_2;<color=@userlogColoredText>598 kg</color> 9-А1-7759 | Корректируемая авиационная бомба Х-36 «Гром-Э2» <color=#ff6f00>BMB-GNSS</color>
+weapons/su_grom_2/short;Х-36 «Гром-Э2»
+weapons/su_grom_e2;<color=@userlogColoredText>598 kg</color> 9-А1-7759 | Корректируемая авиационная бомба Х-36 «Гром-Э2» <color=#ff6f00>BMB-GNSS</color>
+weapons/su_grom_e2/short;Х-36 «Гром-Э2»
+weapons/su_kab_1500lg_e;<color=@userlogColoredText>1525 kg</color> Корректируемая авиационная бомба КАБ-1500ЛГ-Э <color=#ff6f00>BMB-LG</color>
+weapons/su_kab_1500lg_e/short;КАБ-1500ЛГ-Э
+weapons/su_upab_1500b_e;<color=@userlogColoredText>1525 kg</color> К029БЭ | Управляемая планирующая авиационная бомба УПАБ-1500Б-Э <color=#ff6f00>BMB-GNSS</color>
+weapons/su_upab_1500b_e/short;УПАБ-1500Б-Э
 weapons/su_rn_28;<color=@userlogColoredText>2983 kg</color> ☢ изд. 28 | РН-28 <color=#ff6f00>BMB-ATM</color>
 weapons/su_rn_28/short;☢ РН-28
 
@@ -33,6 +50,20 @@ weapons/cn_hf5_rocket;9-А-317 | Неуправляемая авиационна
 weapons/cn_hf5_rocket/short;С-5К
 
 //MISSILES
+weapons/su_r_40rd;изд. 46РД | Авиационная управляемая ракета Р-40РД <color=#ff6f00>AAM-SARH</color>
+weapons/su_r_40rd/short;Р-40РД
+weapons/su_r_40rd_default;изд. 46РД | Авиационная управляемая ракета Р-40РД <color=#ff6f00>AAM-SARH</color>
+weapons/su_r_40rd_default/short;Р-40РД
+weapons/su_r_40td;изд. 46ТД | Авиационная управляемая ракета Р-40ТД <color=#ff6f00>AAM-IR</color>
+weapons/su_r_40td/short;Р-40ТД
+weapons/su_r_40td_default;изд. 46ТД | Авиационная управляемая ракета Р-40ТД <color=#ff6f00>AAM-IR</color>
+weapons/su_r_40td_default/short;Р-40ТД
+weapons/su_rvv_sd;Авиационная управляемая ракета РВВ-СД <color=#ff6f00>AAM-ARH</color>
+weapons/su_rvv_sd/short;РВВ-СД
+weapons/su_rvv_sd_default;Авиационная управляемая ракета РВВ-СД <color=#ff6f00>AAM-ARH</color>
+weapons/su_rvv_sd_default/short;РВВ-СД
+weapons/su_grom_1;9-А-7759 | Управляемая ракета Х-36 «Гром-Э1» <color=#ff6f00>AGM-GNSS</color>
+weapons/su_grom_1/short;Х-36 «Гром-Э1»
 weapons/su_kh_59m;изд. Д-9М | Управляемая ракета Х-59М «Овод-М» <color=#ff6f00>AGM-TV</color>
 weapons/su_kh_59m/short;Х-59М
 weapons/su_kh_59me;изд. Д-9МЭ | Управляемая ракета Х-59МЭ «Овод-МЭ» <color=#ff6f00>AGM-TV</color>
@@ -47,6 +78,9 @@ weapons/rocket_9m33_naval_rocket_launcher/short;ЗИФ-122
 360mm_9m317ma;9М317МА
 weapons/360mm_9m317m_user_cannon;Пусковое устройство 9П331М <color=#ff6f00>LCH</color>
 weapons/360mm_9m317m_user_cannon/short;9П331М
+weapons/130mm_9M120_BMPT_launcher_user_cannon;Комплекса управляемого вооружения Б07С1.01.000 «Атака-Т» <color=#ff6f00>LCH</color>
+130mm_9m120_1;9М120-1
+130mm_9m120_1f;9М120-1Ф
 
 //TORPEDOES
 weapons/su_45_54vt_1954_torpedo;<color=@userlogColoredText>450 mm</color> Торпеда высотного торпедометания 45-54ВТ <color=#ff6f00>TRP</color>

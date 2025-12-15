@@ -1,3 +1,10 @@
 <ID|readonly|noverify>;<English>
+//RADARS
+sensors/cn_z10_fcr;浴火毫米波雷达 <color=#ff6f00>RDR</color>
+
 //RWRs
 sensors/cn_helicopter_z_late_rwr;浴火96机载导弹逼近红外告警设备
+
+//TARGETING PODS
+weapons/cn_yings_3a_targeting_pod;鹰隼-IIIA昼夜瞄准吊舱 (标配型) <color=#ff6f00>TGP-LG/EO</color>
+weapons/cn_yings_3a_targeting_pod/short;鹰隼-IIIA (标配型)

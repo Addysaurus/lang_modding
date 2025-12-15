@@ -133,8 +133,10 @@ weapons/cn_gp_250_1_incendiary;<color=@userlogColoredText>342 kg</color> 250公�
 weapons/cn_gp_250_1_incendiary/short;250-1型 (燃烧)
 weapons/cn_gp_250_2_incendiary;<color=@userlogColoredText>135 kg</color> 250公斤1型航空爆破燃烧炸弹 <color=#ff6f00>BMB-NPM</color>
 weapons/cn_gp_250_2_incendiary/short;250-1型 (燃烧)
-weapons/cn_ts_250;<color=@userlogColoredText>260 kg</color> GB250型250公斤激光卫星制导炸弹 <color=#ff6f00>BMB-LG/GNSS</color>
-weapons/cn_ts_250/short;GB250
+weapons/cn_ts_250;<color=@userlogColoredText>260 kg</color> GB250型250公斤激光卫星制导炸弹 | GB3型250公斤激光卫星制导炸弹 <color=#ff6f00>BMB-LG/GNSS</color>
+weapons/cn_ts_250/short;GB3
+weapons/cn_lgb_gb250_mod_laser;<color=@userlogColoredText>260.816 kg</color> GB250型250公斤激光卫星制导炸弹 <color=#ff6f00>BMB-LG/GNSS</color>
+weapons/cn_lgb_gb250_mod_laser/short;GB250
 weapons/cn_ls_6_250;<color=@userlogColoredText>290 kg</color> LS-6型250公斤制导滑翔炸弹 <color=#ff6f00>BMB-GNSS</color>
 weapons/cn_ls_6_250/short;LS-6/250
 weapons/cn_gp_500_2;<color=@userlogColoredText>473 kg</color> 500公斤2型航空爆破炸弹 <color=#ff6f00>BMB</color>
@@ -201,6 +203,10 @@ weapons/cn_pl12;PL-12 | K/AKK12空空导弹 <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl12/short;K/AKK12
 weapons/cn_pl12_default;PL-12 | K/AKK12空空导弹 <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl12_default/short;K/AKK12
+weapons/cn_pl15;PL-15 | K/AKK15空空导弹 <color=#ff6f00>AAM-ARH</color>
+weapons/cn_pl15/short;K/AKK15
+weapons/cn_pl15_default;PL-15 | K/AKK15空空导弹 <color=#ff6f00>AAM-ARH</color>
+weapons/cn_pl15_default/short;K/AKK15
 weapons/cn_ty_90;TY-90 | AKK90空空导弹 <color=#ff6f00>AAM-IR</color>
 weapons/cn_ty_90/short;AKK90
 weapons/cn_akd_9;AKD09空地导弹 <color=#ff6f00>AGM-LG</color>
@@ -262,11 +268,14 @@ weapons/72mm_hn_6/short;HN-6
 weapons/239mm_HQ_17_user_cannon;HQ-17 | ADK17地對空导弹系統 <color=#ff6f00>LCH</color>
 239mm_hq17;ADK17
 weapons/239mm_hq17/short;ADK17
+weapons/250mm_FM_3000_user_cannon;HQ-11 | ADK11通用末端防御武器系统 <color=#ff6f00>LCH</color>
+cn_fm_3000;ADK11
 weapons/127mm_tc_1l_rocket_launcher_user_cannon;劍一防空飛彈系統 <color=#ff6f00>LCH</color>
 weapons/127mm_tc_1l_rocket_launcher_user_cannon/short;劍一防飛系
 127mm_tc_1l;劍一
 105mm_gp_105;GP105
 125mm_GP125;GP125
+100mm_aps_03;APS03-100
 
 //FUEL TANKS
 weapons/cn_800l_fyx800_drop_tank_1;<color=@userlogColoredText>800 L</color> K/FYX800B副油箱 <color=#ff6f00>DPTK</color>

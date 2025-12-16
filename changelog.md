@@ -91,10 +91,10 @@ All dates are listed in DD-MM-YYYY format.
         - **DB-LK**: Statcard name → **Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet DB-LK**.
         - **MiG-25PD**: Statcard name → **Moskovskij mašinostroityel'nyj zavod «Zyenit» | izd. 84D | Samolyet MiG-25PD**.
         - **Su-30SM2**: Statcard name → **PAO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM2**.
-        - **BMPT** → **BMPT (2017)**. Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2017 g. «Tyerminator»**.
+        - **BMPT** → **BMPT (2002)**. Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2002 g. «Tyerminator»**.
         - **BMPT-72**: Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 «Tyerminator-2»**.
         - **Tor-M1** → **9A331-1**. Statcard name → **Naučno-proizvodstvyennoye ob"yedinyeniye Antyej | Boyevaâ mašina 9A331-1**.
-        - **Stalingrad**: Statcard name → **Nikolayevskiye ob"yedinënnyye gosudarstvyennyye zavody im. Andrye Marti | Tâžëlyye kryejsyer proyekt 82, tip Stalingrad | Stalingrad**.
+        - **Stalingrad**: Statcard name → **Nikolayevskiye ob"yedinënnyye gosudarstvyennyye zavody im. Andrye Marti | Tâžëlyj kryejsyer proyekt 82, tip Stalingrad | Stalingrad**.
         - **Typhoon (AESA)** → **Typhoon F.G.R. Mk. 4 (ZK355)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (ZK355)**.
         - **Ajax**: Statcard name → **General Dynamics Land Systems UK AJAX | Combat Vehicle, Reconnaissance, Full Tracked, Ajax**.
         - **CRV Block 2** (UK / Australia) → **Boxer CRV (LAND 400)**. Statcard name → **ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle (LAND 400 Phase 2)**.
@@ -562,7 +562,7 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: **81式 (C) 射統装 / 架台部** (folder) → **81式 (C)**.
     - **9S18M3 / 317M** (folder) → **9K317M**.
     - Roundels added to the **F-2000A (P3Ea)** and **Typhoon F.G.R. Mk. 4 (Centurion)**.
-    - Corrected the transliteration of "Тяжёлые" to be "Tâžëlyye" rather than "Tâžyelyye" for the **Kronštadt** and **Syevastopol'**.
+    - Corrected "Tâžëlyye" to be "Tâžëlyj" (changed the adjective case) for the **Kronštadt** and **Syevastopol'**.
     - **Sovyetskij Soûz**: Statcard name → **Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Linyejnyj korabl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
     - **AO «Kompaniâ Sukhoj»** (manufacturer) → **PAO «Kompaniâ Sukhoj»**.
     - **Cantiere navale del Muggiano** (manufacturer) → **Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano** (**Luigi di Savoia Duca degli Abruzzi** is now the second longest name).
@@ -586,6 +586,7 @@ All dates are listed in DD-MM-YYYY format.
         - **25 mm 110-PM gun**
         - **30 mm 2A42 automatic cannon** (new one for the **BMPT**)
         - **30 mm HEI-PD**
+        - **130 mm/58 gun patt. 1957**
         - **KAB-250LG-E**
         - **KAB-500LG-E**
         - **KAB-1500LG-E**
@@ -619,6 +620,7 @@ All dates are listed in DD-MM-YYYY format.
         - **30 mm 2A42 automatic cannon** → **30-mm Avtomatičyeskaâ puška 2A42.00.000** (I know this format of .00.000 and whatnot is weird, it seems to be in consistent in what has it so I'm going just off of where I can find it in manuals).
         - **30 mm HEI-PD** → **3UOF23**.
             - Full Ammunition Names package: **30 mm HEI-PD** → **3UOF23 (3OF23)**.
+        - **130 mm/58 gun patt. 1957** → **130-mm/58 Artillyerijskaâ ustanovka BL-109A**. Idk if this is right, this is an evil nightmare hell gun that keeps me up at night.
         - **AK-175** → **ZiF-71**. Long name → **Artillyerijskaâ ustanovka AK-157** mount with **57-mm Odnoorudijnaâ palubnaâ ustanovka ZiF-71** gun.
         - **R-40RD**: Statcard name → **izd. 46RD | Aviaczionnaâ upravlâyemaâ rakyeta R-40RD**.
         - **R-40TD**: Statcard name → **izd. 46TD | Aviaczionnaâ upravlâyemaâ rakyeta R-40TD**.

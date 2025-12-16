@@ -615,10 +615,11 @@ All dates are listed in DD-MM-YYYY format.
         - **NASAMS 3 SAM** (launcher) → **National Advanced Surface-to-Air Missile System 3**.
         - **AMRAAM-ER**:
             - Full Ammunition Names package: **AMRAAM-ER** → **AMRAAM Extended Range**.
-        - **25 mm 110-PM gun** → **Artillyerijskaâ ustanovka 2M-3** mount with **Avtomata 110-PM** gun.
+        - **25 mm 110-PM gun** → **Artillyerijskaâ ustanovka 2M-3** mount with **25-mm Avtomata 110-PM** gun.
         - **30 mm 2A42 automatic cannon** → **30-mm Avtomatičyeskaâ puška 2A42.00.000** (I know this format of .00.000 and whatnot is weird, it seems to be in consistent in what has it so I'm going just off of where I can find it in manuals).
         - **30 mm HEI-PD** → **3UOF23**.
             - Full Ammunition Names package: **30 mm HEI-PD** → **3UOF23 (3OF23)**.
+        - **AK-175** → **ZiF-71**. Long name → **Artillyerijskaâ ustanovka AK-157** mount with **57-mm Odnoorudijnaâ palubnaâ ustanovka ZiF-71** gun.
         - **R-40RD**: Statcard name → **izd. 46RD | Aviaczionnaâ upravlâyemaâ rakyeta R-40RD**.
         - **R-40TD**: Statcard name → **izd. 46TD | Aviaczionnaâ upravlâyemaâ rakyeta R-40TD**.
         - **RVV-SD**: Statcard name → **Aviaczionnaâ upravlâyemaâ rakyeta RVV-SD**.

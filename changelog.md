@@ -97,7 +97,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Stalingrad**: Statcard name → **Nikolayevskiye ob"yedinënnyye gosudarstvyennyye zavody im. Andrye Marti | Tâžëlyye kryejsyer proyekt 82, tip Stalingrad | Stalingrad**.
         - **Typhoon (AESA)** → **Typhoon F.G.R. Mk. 4 (ZK355)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (ZK355)**.
         - **Ajax**: Statcard name → **General Dynamics Land Systems UK AJAX | Combat Vehicle, Reconnaissance, Full Tracked, Ajax**.
-        - **CRV Block 2** (UK / Australia) → **Boxer CRV Block II**. Statcard name → **ARTEC Boxer Combat Reconnaissance Vehicle Block II**.
+        - **CRV Block 2** (UK / Australia) → **Boxer CRV (LAND 400)**. Statcard name → **ARTEC Boxer Combat Reconnaissance Vehicle (LAND 400 Phase 2)**.
         - **HMS Fiji** → **HMS Fiji (58)**. Statcard name → **John Brown & Co. / Clydebank Shipyard | Colony-class | HMS Fiji (58) (1941)**.
         - **HMS Prince of Whales** → **HMS Prince of Wales (53)**. Statcard name → **Cammell Laird & Co. / Cape Town Dockyard | King George V-class | HMS Prince of Wales (53)**.
         - **Hawk 209** (Japan / Indonesia) → **Hawk Mk. 209**. Statcard name → **British Aerospace Hawk 209 | Hawk Mk. 209**.

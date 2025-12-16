@@ -672,7 +672,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Update "Line of Contact" changes:
-        - **YINGS-III** → **YINGS-IIIA**. Long name → **Zhòuyè Miáozhun Diào Cāng**.
+        - **YINGS-III** → **YINGS-IIIA**. Long name → **YINGS-IIIA Zhòuyè Miáozhun Diào Cāng**.
             - Mandarin package: **YINGS-III** → **YINGS-IIIA**. Long name → **YINGS-IIIA昼夜瞄准吊舱**.
             - Full Mandarin package: **YINGS-III** → **鹰隼-IIIA**. Long name → **鹰隼-IIIA昼夜瞄准吊舱**.
     - **K/PZS01** (the one on the **JF-17 Block I**) → **ASELPOD**. Long name → **ASELPOD Advanced Targeting Pod**. It was called the K/PZS01 because of a time when all the models were mixed up and this used the K/JDC03A pod but with the name file of the K/PZS01 or something like that.

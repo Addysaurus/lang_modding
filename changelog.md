@@ -579,9 +579,11 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - Update "Line of Contact" additions:
+        - **105 mm M35 cannon**
         - **NASAMS 3 SAM** (launcher)
         - **AMRAAM-ER**
         - **KE-W A2**
+        - **25 mm 110-PM gun**
         - **30 mm 2A42 automatic cannon** (new one for the **BMPT**)
         - **30 mm HEI-PD**
         - **KAB-250LG-E**
@@ -596,6 +598,7 @@ All dates are listed in DD-MM-YYYY format.
         - **9M120-1**
         - **9M120-1F**
         - **9M120 ATGM** (launcher)
+        - **90 mm Type 61 (B) Cannon**
         - **Type 03 SAM**
         - **Type 03** (the missile for the Type 03 SAM launcher)
         - **M256** (for the **M1A2T**)
@@ -608,9 +611,11 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Update "Line of Contact" changes:
+        - **105 mm M35 cannon** → **Gun, 105mm, M35**.
         - **NASAMS 3 SAM** (launcher) → **National Advanced Surface-to-Air Missile System 3**.
         - **AMRAAM-ER**:
             - Full Ammunition Names package: **AMRAAM-ER** → **AMRAAM Extended Range**.
+        - **25 mm 110-PM gun** → **Artillyerijskaâ ustanovka 2M-3** mount with **Avtomata 110-PM** gun.
         - **30 mm 2A42 automatic cannon** → **30-mm Avtomatičyeskaâ puška 2A42.00.000** (I know this format of .00.000 and whatnot is weird, it seems to be in consistent in what has it so I'm going just off of where I can find it in manuals).
         - **30 mm HEI-PD** → **3UOF23**.
             - Full Ammunition Names package: **30 mm HEI-PD** → **3UOF23 (3OF23)**.
@@ -628,6 +633,8 @@ All dates are listed in DD-MM-YYYY format.
         - **9M120-1F**:
             - Full Ammunition Names package: **9M120-1F** → **Protivotankovaâ upravlâyemaâ rakyetu 9M120-1F**.
         - **9M120 ATGM** → **Komplyeksa upravlâyemogo vooružyeniâ  B07S1.01.000 "Ataka-T"**.
+        - **90 mm Type 61 (B) Cannon** → **61 Shiki 90mm Sensha Hō C Gata**.
+            - Japanese package: **90 mm Type 61 (B) Cannon** → **61式90mm戦車砲C型**.
         - **Type 03 SAM** (launcher) → **03 Shiki Chūkyorichi Taikū Yūdōdan Hassha Sōchi**.
             - Japanese package: **Type 03 SAM** → **03式中距離地対空誘導弾発射装置**.
         - **Type 03** → **SAM-4**.

@@ -1184,13 +1184,13 @@ modification/hispano_mk_2_narrow_chamber_new_gun;Hispano Mk. II (1942)
 modification/hispano_mk_2_narrow_chamber_new_gun/desc;There were some technological issues when the Hispano cannon was converted to belt feed. Among them was the fact that the chamber width was 1/16 inch too large, which allowed backflow gases to enter the barrel and jam the breechlock. Reducing the size of the chamber width helped solve the problem and lessened the amount of weapon failures.
 modification/hispano_mk_2_1943_new_gun;Hispano Mk. II (1943)
 modification/hispano_mk_2_1943_new_gun/desc;The 1943 modification of the Hispano Mk. II saw the replacement of graphite lubricant with fluid lubrication. This increased the gun's reliability beyond that of the 1942 modification of the Hispano Mk. II.
-modification/_new_gun;%s mm MG maintainance
+modification/_new_gun;%s mm MG maintenance
 modification/_new_gun/desc;Replacing the %s mm machine guns' worn barrels and striking mechanism increases the fire density and decreases the chance of the gun jamming from overheating.
-modification/_new_gun/cannon;%s mm cannon maintainance
+modification/_new_gun/cannon;%s mm cannon maintenance
 modification/_new_gun/cannon/desc;Replacing the %s mm cannons' worn barrels and striking mechanism increases the fire density and decreases the chance of the gun jamming from overheating.
-modification/_turret_new_gun;%s mm turret MG maintainance
+modification/_turret_new_gun;%s mm turret MG maintenance
 modification/_turret_new_gun/desc;Replacing the turrets' %s mm machine guns' worn barrels and striking mechanism increases the fire density and decreases the chance of the gun jamming from overheating.
-modification/_turret_new_gun/cannon;%s mm turret cannon maintainance
+modification/_turret_new_gun/cannon;%s mm turret cannon maintenance
 modification/_turret_new_gun/cannon/desc;Replacing the turrets' %s mm cannons' worn barrels and striking mechanism increases the fire density and decreases the chance of the gun jamming from overheating.
 modification/_belt_pack;%s mm ammo belts
 modification/_belt_pack/desc;New %s mm ammunition belts for the aircraft's %s guns.
@@ -1555,20 +1555,20 @@ modification/ostketten_tank_tracks;Ostketten
 modification/ostketten_tank_tracks/desc;Ostketten tracks pack. Additionally improves passing ability.
 modification/new_tank_tracks;Track maintenance
 modification/new_tank_tracks/desc;Maintenance of the tracks increases traction, track performance, and the tank's manueverability.
-modification/new_wheels;Tire maintainance
-modification/new_wheels/desc;Maintainance of the tires reduces ware on them, increasing traction and overall maneuverability.
-modification/new_tank_suspension;Suspension maintainence
-modification/new_tank_suspension/desc;Maintainance of the suspension improves the suspension dampening, drive smoothness, and overall handling quality.
-modification/new_car_suspension;Suspension maintainence
-modification/new_car_suspension/desc;Maintainance of the suspension improves the suspension dampening, drive smoothness, and overall handling quality.
-modification/new_tank_filter;Filter maintainance
-modification/new_tank_filter/desc;Maintainance of the air, fuel, and oil filters improves their filtering capabilities, increasing engine performance and air quality for the crew.
-modification/new_tank_brakes;Brake maintainance
+modification/new_wheels;Tire maintenance
+modification/new_wheels/desc;Maintenance of the tires reduces ware on them, increasing traction and overall maneuverability.
+modification/new_tank_suspension;Suspension maintenance
+modification/new_tank_suspension/desc;Maintenance of the suspension improves the suspension dampening, drive smoothness, and overall handling quality.
+modification/new_car_suspension;Suspension maintenance
+modification/new_car_suspension/desc;Maintenance of the suspension improves the suspension dampening, drive smoothness, and overall handling quality.
+modification/new_tank_filter;Filter maintenance
+modification/new_tank_filter/desc;Maintenance of the air, fuel, and oil filters improves their filtering capabilities, increasing engine performance and air quality for the crew.
+modification/new_tank_brakes;Brake maintenance
 modification/new_tank_brakes/desc;Maintenance and cleaning of the brakes improve the power they can exert and decrease stopping distance.
-modification/new_tank_transmission;Transmission maintainance
+modification/new_tank_transmission;Transmission maintenance
 modification/new_tank_transmission/desc;Maintenance, cleaning, and lubrication of the transmission decrease friction and increase performance, bettering tank handling and gear ratios.
-modification/new_tank_engine;Engine maintainance
-modification/new_tank_engine/desc;Maintainance and cleaning of the engine decreases friction and improves overall performance.
+modification/new_tank_engine;Engine maintenance
+modification/new_tank_engine/desc;Maintenance and cleaning of the engine decreases friction and improves overall performance.
 modification/tank_tool_kit_expendable;Repair equipment
 modification/tank_tool_kit_expendable/desc;Improved repair equipment allows the crew to more rapidly and effectively repair damage.
 modification/manual_extinguisher_expendable;Fire extinguishers
@@ -1614,7 +1614,7 @@ modification/tank_rangefinder/desc;Installation of a rangefinder allows for the 
 modification/art_support;Artillery support
 modification/art_support/desc;Calling artillery support targets an artillery strike at the selected point
 modification/tank_new_gun;Gun calibration
-modification/tank_new_gun/desc;Maintainance and calibration of the gun realigns it with the target sight and improves its performance, decreasing fire spread and increasing accuracy.
+modification/tank_new_gun/desc;Maintenance and calibration of the gun realigns it with the target sight and improves its performance, decreasing fire spread and increasing accuracy.
 modification/tank_smoke_screen_system_mod;Smoke grenades
 modification/tank_smoke_screen_system_mod/desc;The mounting of smoke grenades allows for the launching of these grenades that, upon detonation, release smoke.
 modification/thermal_vision_system;Thermal imager
@@ -1627,7 +1627,7 @@ modification/night_vision_system_upgrade_nv_to_thermal/desc;Installation of a th
 modification/heli_night_vision_system;Image intensifier
 modification/heli_night_vision_system/desc;The installation of an image intensifier allows for the brightening of recieved light in low-light conditions.
 modification/aa_new_gun;Gun calibration
-modification/aa_new_gun/desc;Maintainance and calibration of the gun realigns it with the target sight and improves its performance, decreasing fire spread and increasing accuracy.
+modification/aa_new_gun/desc;Maintenance and calibration of the gun realigns it with the target sight and improves its performance, decreasing fire spread and increasing accuracy.
 modification/ka_chi_hull_improvement;Installation of pontoons
 modification/ka_chi_hull_improvement/desc;Installation of pontoons
 modification/bmp_1p_turret_improvement;BMP-1P

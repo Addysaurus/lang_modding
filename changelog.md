@@ -612,7 +612,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Line of Contact" changes:
         - **105 mm M35 cannon** → **Gun, 105mm, M35**.
-        - **NASAMS 3 SAM** (launcher) → **National Advanced Surface-to-Air Missile System 3**.
+        - **NASAMS 3 SAM** (launcher) → **Norwegian Advanced Surface-to-Air Missile System 3** (Gaijin gave America the Norwegian one so it works).
         - **AMRAAM-ER**:
             - Full Ammunition Names package: **AMRAAM-ER** → **AMRAAM Extended Range**.
         - **25 mm 110-PM gun** → **Artillyerijskaâ ustanovka 2M-3** mount with **25-mm Avtomata 110-PM** gun.
@@ -661,6 +661,12 @@ All dates are listed in DD-MM-YYYY format.
     - **Kh-36 (A1)** → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 "Grom-È2"**.
     - **30 mm AG-30M automatic grenade launcher** → **30-mm Avtomatičyeskij granatomyetnyj komplyeks AGS-30M.00.000**.
     - **KE-W A1** → **KE-W**.
+
+### Modifications:
+
+- #### Changes:
+
+    - I somehow had misspelled "maintenance" as "maintainance" in literally every modification (and as "maintenence" in 2 of them) because I'm an absolute moron, and it has somehow been like this for almost a year. That has been fixed now. Thanks tNebula for letting me know that I'm an actual dumbass.
 
 ### Sensors:
 

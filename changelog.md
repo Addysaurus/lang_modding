@@ -152,16 +152,16 @@ All dates are listed in DD-MM-YYYY format.
         - **I-15** → **E-15 Bisī**. Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-15 Bisī Xíng Qūzhú Jī**.
             - Mandarin package: **I-15** → **E-15比斯**. Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-15比斯型驅逐機**.
             - Mandarin + Russian package: **I-15** → **E-15比斯**. Statcard name → **Центральная клиническая больница № 39 Объединённое государственное политическое управление им. Менжинского | E-15比斯型驅逐機**.
-        - **I-16-1** → **E-16-5 Xíng Qūzhú Jī**. Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-5 Xíng Qūzhú Jī**.
+        - **I-16-1** → **E-16-5**. Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-5 Xíng Qūzhú Jī**.
             - Mandarin package: **I-16-1** → **E-16-5**. Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-5型驅逐機**.
             - Mandarin + Russian package: **I-16-1** → **E-16-5**. Statcard name → **Центральная клиническая больница № 39 Объединённое государственное политическое управление им. Менжинского | E-16-5型驅逐機**.
-        - **I-16-2** → **E-16-10 Xíng Qūzhú Jī**. Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-10 Xíng Qūzhú Jī**.
+        - **I-16-2** → **E-16-10**. Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-10 Xíng Qūzhú Jī**.
             - Mandarin package: **I-16-2** → **E-16-10**. Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-10型驅逐機**.
             - Mandarin + Russian package: **I-16-2** → **E-16-10**. Statcard name → **Центральная клиническая больница № 39 Объединённое государственное политическое управление им. Менжинского | E-16-10型驅逐機**.
-        - **I-16-3** → **E-16-17 Xíng Qūzhú Jī**. Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-17 Xíng Qūzhú Jī**.
+        - **I-16-3** → **E-16-17**. Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-17 Xíng Qūzhú Jī**.
             - Mandarin package: **I-16-3** → **E-16-17**. Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-16-17型驅逐機**.
             - Mandarin + Russian package: **I-16-3** → **E-16-17**. Statcard name → **Центральная клиническая больница № 39 Объединённое государственное политическое управление им. Менжинского | E-16-17型驅逐機**.
-        - **Zhōng 28 Jia**: Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo / Central Aircraft Manufacturing Company | Zhōng 28 Jia Xíng Qūzhú Jī**.
+        - **Zhōng 28 Jia**: Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo / Zhōngyāng Fēijī Zhìzào Chǎng | Zhōng 28 Jia Xíng Qūzhú Jī**.
             - Mandarin package: **Zhōng 28 Jia** → **忠28甲**. Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo / 中央飛機製造廠 | 忠28甲型驅逐機**.
             - Mandarin + Russian package: **Zhōng 28 Jia** → **忠28甲**. Statcard name → **Центральная клиническая больница № 39 Объединённое государственное политическое управление им. Менжинского / 中央飛機製造廠 | 忠28甲型驅逐機**.
         - **I-15-3** → **E-153**. Statcard name → **Czyentral'naâ kliničyeskaâ bol'nicza № 39 Ob"yedinënnoye gosudarstvyennoye političyeskoye upravlyeniye im. Myenžinskogo | E-153 Qūzhú Jī**.
@@ -175,7 +175,7 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: Statcard name → **Vultee Aircraft V-12-D | V-12-D型轟炸機**.
         - **Martin 139WC** → **Madīng 139**. Statcard name → **Glenn L. Martin Company Model 139WC | Madīng 139 Hōngzhà Jī**.
             - Mandarin package: **Martin 139WC** → **馬丁139**. Statcard name → **Glenn L. Martin Company Model 139WC | 馬丁139轟炸機**.
-        - **C-68C** → **Huòkè III**. Statcard name → **Curtiss-Wright Corporation Hawk Model 68C / Central Aircraft Manufacturing Company | Huòkè III Qūzhú Jī**.
+        - **C-68C** → **Huòkè III**. Statcard name → **Curtiss-Wright Corporation Hawk Model 68C / Zhōngyāng Fēijī Zhìzào Chǎng | Huòkè III Qūzhú Jī**.
             - Mandarin package: **C-68C** → **霍克III**. Statcard name → **Curtiss-Wright Corporation Hawk Model 68C / 中央飛機製造廠 | 霍克III驅逐機**.
         - **D.510C**: Statcard name → **Constructions Aéronautiques Émile Dewoitine | D.510C Xíng Qūzhú Jī "Dì Jī"**.
             - Mandarin package: Statcard name → **Constructions Aéronautiques Émile Dewoitine | D.510C型驅逐機「地機」**.

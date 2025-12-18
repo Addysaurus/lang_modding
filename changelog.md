@@ -213,7 +213,7 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: Statcard name → **North American Aviation NA-103 | P-51C-11-NT型驅逐機「野馬機」«Evalina»**.
         - **Ki-44-II Hei** → **2 Shì Zhàn 2 Xíng Bing**. Statcard name → **Nakajima Hikōki | 2 Shì Zhàndòujī 2 Xíng Bing "Zhōngkuí"**.
             - Mandarin package: **Ki-44-II Hei** → **2 Shì Zhàn 2 Xíng Bing**. Statcard name → **中島飛行機 | 二式戰鬥機二型丙「鍾馗」**.
-        - **Ki-61-I Otsu** → **3 Shì Zhàn 21 Xíng**. Statcard name → **Kawasaki Kōkūki Kōgyō | 3 Shì Zhàndòujī 1 Xíng Yi "Fēiyàn"**.
+        - **Ki-61-I Otsu** → **3 Shì Zhàn 1 Xíng**. Statcard name → **Kawasaki Kōkūki Kōgyō | 3 Shì Zhàndòujī 1 Xíng Yi "Fēiyàn"**.
             - Mandarin package: **Ki-61-I Otsu** → **三式戰一型乙**. Statcard name → **川崎航空機工業 | 三式戰鬥機一型乙「飛燕」**.
         - **FB-26**: Statcard name → **de Havilland Aircraft Company DH.98 | FB-26 Hōngzhà Jī**.
             - Mandarin package: Statcard name → **de Havilland Aircraft Company DH.98 | FB-26轟炸機**.
@@ -257,21 +257,6 @@ All dates are listed in DD-MM-YYYY format.
         - **MiG-17** → **Migé 17**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | Migé 17 Xíng Fēijī**.
             - Mandarin package: **MiG-17** → **米格17**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | 米格17型飞机**.
             - Mandarin + Russian package: **MiG-17** → **米格17**. Statcard name → **Опытно-конструкторское бюро № 155 | 米格17型飞机**.
-        - **J6A**: Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / Guóyíng Sōnglíng Jīxiè Chang | J6A Xíng Fēijī**.
-            - Mandarin package: Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / 国营松陵机械厂 | J6A型飞机**.
-            - Full Mandarin package: **J6A** → **歼6A**. Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / 国营松陵机械厂 | 歼6A型飞机**.
-            - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 СМ-7/3 / 国营松陵机械厂 | J6A型飞机**.
-            - Full Mandarin + Russian package: **J6A** → **歼6A**. Statcard name → **Опытно-конструкторское бюро № 155 СМ-7/3 / 国营松陵机械厂 | 歼6A型飞机**.
-        - **J7B** → **J7II**. Statcard name → **Guóyíng 132 Chang | J7II Xíng Fēijī**.
-            - Mandarin package: **J7B** → **J7II**. Statcard name → **Opytno-konstruktorskoye bûro № 155 / 国营132厂 | J7II型飞机**.
-            - Full Mandarin package: **J7B** → **歼7II**. Statcard name → **Opytno-konstruktorskoye bûro № 155 / 国营132厂 | 歼7II型飞机**.
-            - Mandarin + Russian package: **J7B** → **J7II**. Statcard name → **Опытно-конструкторское бюро № 155 / 国营132厂 | J7II型飞机**.
-            - Full Mandarin + Russian package: **J7B** → **歼7II**. Statcard name → **Опытно-конструкторское бюро № 155 / 国营132厂 | 歼7II型飞机**.
-        - **J7D** → **K/JJ7D**. Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | K/JJ7D Xíng Fēijī**.
-            - Mandarin package: **J7D** → **K/JJ7D**. Statcard name → **Opytno-konstruktorskoye bûro № 155 / 国营松陵机械厂 | K/JJ7D型飞机**.
-            - Mandarin + Russian package: **J7D** → **K/JJ7D**. Statcard name → **Опытно-конструкторское бюро № 155 / 成都飛機制造厂 | K/JJ7D型飞机**.
-        - **J7E** → **K/JJ7E**. Statcard name → **Guóyíng Sōnglíng Jīxiè Chang | K/JJ7E Xíng Fēijī**.
-            - Mandarin package: **J7E** → **K/JJ7E**. Statcard name → **成都飛機制造厂 | K/JJ7E型飞机**.
         - **F-84G-21-RE**: Statcard name → **Republic Aviation Corporation AP-23 | F-84G-21-RE Xíng Zhàndòu Jī "Léitíng Shì"**.
             - Mandarin package: Statcard name → **Republic Aviation Corporation AP-23 | F-84G-21-RE型戰鬥機「雷霆式」**.
         - **F-84G-31-RE**: Statcard name → **Republic Aviation Corporation AP-23 | F-84G-31-RE Xíng Zhàndòu Jī "Léitíng Shì"**.
@@ -290,6 +275,21 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: Statcard name → **Lockheed Corporation | F-104A-25-LO型戰鬥機「星式戰鬥機」**.
         - **F-104G-10-LO**: Statcard name → **Lockheed Corporation | F-104G-10-LO Xíng Zhàndòu Jī "Xīng Shì Zhàndòu Jī"**.
             - Mandarin package: Statcard name → **Lockheed Corporation | F-104G-10-LO型戰鬥機「星式戰鬥機」**.
+        - **J6A**: Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / Guóyíng Sōnglíng Jīxiè Chang | J6A Xíng Fēijī**.
+            - Mandarin package: Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / 国营松陵机械厂 | J6A型飞机**.
+            - Full Mandarin package: **J6A** → **歼6A**. Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / 国营松陵机械厂 | 歼6A型飞机**.
+            - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 СМ-7/3 / 国营松陵机械厂 | J6A型飞机**.
+            - Full Mandarin + Russian package: **J6A** → **歼6A**. Statcard name → **Опытно-конструкторское бюро № 155 СМ-7/3 / 国营松陵机械厂 | 歼6A型飞机**.
+        - **J7B** → **J7II**. Statcard name → **Guóyíng 132 Chang | J7II Xíng Fēijī**.
+            - Mandarin package: **J7B** → **J7II**. Statcard name → **Opytno-konstruktorskoye bûro № 155 / 国营132厂 | J7II型飞机**.
+            - Full Mandarin package: **J7B** → **歼7II**. Statcard name → **Opytno-konstruktorskoye bûro № 155 / 国营132厂 | 歼7II型飞机**.
+            - Mandarin + Russian package: **J7B** → **J7II**. Statcard name → **Опытно-конструкторское бюро № 155 / 国营132厂 | J7II型飞机**.
+            - Full Mandarin + Russian package: **J7B** → **歼7II**. Statcard name → **Опытно-конструкторское бюро № 155 / 国营132厂 | 歼7II型飞机**.
+        - **J7D** → **K/JJ7D**. Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | K/JJ7D Xíng Fēijī**.
+            - Mandarin package: **J7D** → **K/JJ7D**. Statcard name → **Opytno-konstruktorskoye bûro № 155 / 国营松陵机械厂 | K/JJ7D型飞机**.
+            - Mandarin + Russian package: **J7D** → **K/JJ7D**. Statcard name → **Опытно-конструкторское бюро № 155 / 成都飛機制造厂 | K/JJ7D型飞机**.
+        - **J7E** → **K/JJ7E**. Statcard name → **Guóyíng Sōnglíng Jīxiè Chang | K/JJ7E Xíng Fēijī**.
+            - Mandarin package: **J7E** → **K/JJ7E**. Statcard name → **成都飛機制造厂 | K/JJ7E型飞机**.
         - **Q5**: Statcard name → **Nánchāng Fēijī Zhìzào Gōngsī | Q5 Xíng Fēijī**.
             - Mandarin package: Statcard name → **南昌飞机制造公司 | Q5型飞机**.
             - Full Mandarin package: **Q5** → **强5**. Statcard name → **南昌飞机制造公司 | 强5型飞机**.
@@ -298,12 +298,6 @@ All dates are listed in DD-MM-YYYY format.
             - Full Mandarin package: **Q5B** → **强5B**. Statcard name → **南昌飞机制造公司 | 强5B型飞机**.
         - **Q5L** → **K/JQ5L**. Statcard name → **Nánchāng Fēijī Zhìzào Gōngsī | K/JQ5L Xíng Fēijī**.
             - Mandarin package: **Q5L** → **K/JQ5L**. Statcard name → **南昌飞机制造公司 | K/JQ5L型飞机**.
-        - **H/JJH7**:
-            - Mandarin package: Statcard name → **西安飞机工业 (集团) | H/JJH7型飞机 "飞豹"**.
-        - **K/JJH7A**:
-            - Mandarin package: Statcard name → **西安飞机工业 (集团) | K/JJH7A型飞机 "飞豹"**.
-        - **K/JJH7A (prototype)**:
-            - Mandarin package: Statcard name → **西安飞机工业 (集团) | K/JJH7A型飞机 "飞豹" (prototype)**.
         - **F-5A-25-NO**: Statcard name → **Northrop Corporation N-156F | F-5A-25-NO Xíng Zhàndòu Jī**.
             - Mandarin package: Statcard name → **Northrop Corporation N-156F | F-5A-25-NO型戰鬥機**.
         - **F-5E**: Statcard name → **Northrop Corporation F-5-21 / Hàn Xiáng Hángkōng Gōngyè | F-5E Xíng Zhōngzhèng Hào Zhàndòu Jī**.
@@ -312,6 +306,14 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: **J8B** → **K/JJ8B**. Statcard name → **沈阳飞机工业 (集团) | K/JJ8B型飞机**.
         - **J8F** → **K/JJ8F**. Statcard name → **Shenyáng Fēijī Gōngyè (Jítuán) | K/JJ8F Xíng Fēijī**.
             - Mandarin package: **J-8F** → **K/JJ8F**. Statcard name → **沈阳飞机工业 (集团) | K/JJ8F型飞机**.
+        - **H/JJH7**:
+            - Mandarin package: Statcard name → **西安飞机工业 (集团) | H/JJH7型飞机 "飞豹"**.
+        - **K/JJH7A**:
+            - Mandarin package: Statcard name → **西安飞机工业 (集团) | K/JJH7A型飞机 "飞豹"**.
+        - **K/JJH7A (prototype)**:
+            - Mandarin package: Statcard name → **西安飞机工业 (集团) | K/JJH7A型飞机 "飞豹" (prototype)**.
+        - **A-5C** → **A5C (2003)**. Statcard name → **Nánchāng Fēijī Zhìzào Gōngsī | A5C Xíng Fēijī (2003)**.
+            - Mandarin package: **A-5C** → **A5C (2003)**. Statcard name → **南昌飞机制造公司 | A5C型飞机 (2003)**.
         - **F-16A-20-CF**: Statcard name → **Lockheed Martin Corporation | F-16A-20-CF Xíng Zhàndòu Jī**.
             - Mandarin package: Statcard name → **Lockheed Martin Corporation | F-16A-20-CF型戰鬥機**.
         - **J10A** → **K/JJ10A**. Statcard name → **Chéngdū Fēijī Gōngyè (Jítuán) | K/JJ10A Xíng Fēijī "Meng Lóng"**.
@@ -336,6 +338,15 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: Group name → **九七式戰 / 一式戰鬥機三型**.
         - **Zhōng 28 / I-16-1**: Group name → **Zhōng 28 / E-16-5**.
             - Mandarin package: Group name → **忠28 / E-16-5**.
+        - **DB-3A / SB 2M-103U**: Group name → **D.B.3 / C.B. (M-103U)**.
+            - Mandarin + Russian package: Group name → **D.B.3 / C.B. (М-103У)**.
+        - **MiG-9 / I-307**: Group name → **Migé 9 / I-307**.
+            - Mandarin package: Group name → **米格9 / ␗ I-307**.
+            - Mandarin + Russian package: Group name → **米格9 / ␗ И-307**.
+        - **MiG-15bis / 17**: Group name → **Migé 15 Bisī / 17**.
+            - Mandarin package: Group name → **米格15比斯 / 17**.
+        - **J6A / 7B**: Group name → **J6A / 7II**.
+        - **Su-27SK / J11A**: Group name → **K/JJ11 / 11A**.
         - **Z11WA**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z11WA Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **昌河飞机工业 (集团) | Z11WA型武装直升机**.
             - Full Mandarin package: **Z11WA** → **直11WA**. Statcard name → **昌河飞机工业 (集团) | 直11WA型武装直升机**.

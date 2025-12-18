@@ -362,6 +362,10 @@ All dates are listed in DD-MM-YYYY format.
         - **Z19E**: Statcard name → **Hā'erbīn Fēijī Gōngyè (Jítuán) | Z19E Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **哈尔滨飞机工业 (集团) | Z19E型武装直升机**.
             - Full Mandarin package: **Z19E** → **直19E**. Statcard name → **哈尔滨飞机工业 (集团) | 直19E型武装直升机**.
+        - **OH-58D**: Statcard name → **Bell Helicopter Textron Model 406 | OH-58D Zhàn Sōu Zhíshēngjī**.
+            - Mandarin package: Statcard name → **Bell Helicopter Textron Model 406 | OH-58D戰搜直升機**.
+        - **AH-1W**: Statcard name → **Bell Helicopter Textron Model 209 | AH-1W Zhàndòu Zhíshēngjī**.
+            - Mandarin package: Statcard name → **Bell Helicopter Textron Model 209 |  AH-1W戰鬥直升機**.
         - **Z10**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10 Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **昌河飞机工业 (集团) | Z10型武装直升机**.
             - Full Mandarin package: **Z10** → **直10**. Statcard name → **昌河飞机工业 (集团) | 直10型武装直升机**.
@@ -371,10 +375,6 @@ All dates are listed in DD-MM-YYYY format.
         - **L/Z10 (2018)** → **Z10 (2018)**. Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10 Xíng Wuzhuāng Zhíshēngjī (2018)**.
             - Mandarin package: Statcard name → **昌河飞机工业 (集团) | Z10型武装直升机 (2018)**.
             - Full Mandarin package: **L/Z10 (2018)** → **直10 (2018)**. Statcard name → **昌河飞机工业 (集团) | 直10型武装直升机 (2018)**.
-        - **OH-58D**: Statcard name → **Bell Helicopter Textron Model 406 | OH-58D Zhàn Sōu Zhíshēngjī**.
-            - Mandarin package: Statcard name → **Bell Helicopter Textron Model 406 | OH-58D戰搜直升機**.
-        - **AH-1W**: Statcard name → **Bell Helicopter Textron Model 209 | AH-1W Zhàndòu Zhíshēngjī**.
-            - Mandarin package: Statcard name → **Bell Helicopter Textron Model 209 |  AH-1W戰鬥直升機**.
         - **AH-64E (v6)**: Statcard name → **Boeing Defense, Space & Security | AH-64E Zhàndòu Zhíshēngjī (Capability Version 6)**.
             - Mandarin package: Statcard name → **Boeing Defense, Space & Security | AH-64E戰鬥直升機 (Capability Version 6)**.
         - **M8 LAC** → **M8**. Statcard name → **Ford Motor Company G-136 | M8 Zhuāngjia Chē**.

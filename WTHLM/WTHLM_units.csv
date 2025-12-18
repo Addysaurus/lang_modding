@@ -7361,7 +7361,7 @@ mig-19j_6a_2;J6
 j_7_mk2_shop;J7II
 j_7_mk2_0;Guóyíng 132 Chang | J7II Xíng Fēijī
 j_7_mk2_1;J7II
-j_7_mk2_2;K/JJ7
+j_7_mk2_2;J7
 j_7d_shop;K/JJ7D
 j_7d_0;Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | K/JJ7D Xíng Fēijī
 j_7d_1;K/JJ7D
@@ -7379,7 +7379,7 @@ q_5a_0;Nánchāng Fēijī Zhìzào Gōngsī | Q5B Xíng Fēijī
 q_5a_1;Q5B
 q_5a_2;Q5
 q_5l_shop;K/JQ5L
-q_5l_0;Q5L
+q_5l_0;Nánchāng Fēijī Zhìzào Gōngsī | K/JQ5L Xíng Fēijī
 q_5l_1;K/JQ5L
 q_5l_2;K/JQ5
 mig-17_f5_shop;▆ F5
@@ -7388,6 +7388,22 @@ mig-17_f5_1;▆ F5
 mig-17_f5_2;▆ F5
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+f-5a_china_shop;☀ F-5A-25-NO
+f-5a_china_0;☀ Northrop Corporation N-156F | F-5A-25-NO Xíng Zhàndòu Jī
+f-5a_china_1;☀ F-5A
+f-5a_china_2;☀ F-5
+f-5e_aidc_shop;☀ F-5E
+f-5e_aidc_0;☀ Northrop Corporation F-5-21 / Hàn Xiáng Hángkōng Gōngyè | F-5E Xíng Zhōngzhèng Hào Zhàndòu Jī
+f-5e_aidc_1;☀ F-5E
+f-5e_aidc_2;☀ F-5
+j_8b_shop;K/JJ8B
+j_8b_0;Shenyáng Fēijī Gōngyè (Jítuán) | K/JJ8B Xíng Fēijī
+j_8b_1;K/JJ8B
+j_8b_2;K/JJ8
+j_8f_shop;K/JJ8F
+j_8f_0;Shenyáng Fēijī Gōngyè (Jítuán) | K/JJ8F Xíng Fēijī
+j_8f_1;K/JJ8F
+j_8f_2;K/JJ8
 jh_7_shop;H/JJH7
 jh_7_0;"Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7 Xíng Fēijī ""Fēi Bào"""
 jh_7_1;H/JJH7
@@ -7406,40 +7422,88 @@ a_5c_1;☪ A5C
 a_5c_2;☪ A5
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-j_10a_shop;J10A
-j_10a_0;"Chéngdū Fēijī Gōngyè Jítuán | J10A ""Měng Lóng"""
-j_10a_1;J10A
-j_10a_2;J10
+f_16a_block_20_mlu_shop;☀ F-16A-20-CF
+f_16a_block_20_mlu_0;☀ Lockheed Martin Corporation | F-16A-20-CF Xíng Zhàndòu Jī
+f_16a_block_20_mlu_1;☀ F-16A
+f_16a_block_20_mlu_2;☀ F-16
+j_10a_shop;K/JJ10A
+j_10a_0;"Chéngdū Fēijī Gōngyè (Jítuán) | K/JJ10A Xíng Fēijī ""Meng Lóng"""
+j_10a_1;K/JJ10A
+j_10a_2;K/JJ10
 j_10c_shop;K/JJ10C
 j_10c_0;"Chéngdū Fēijī Gōngyè (Jítuán) | K/JJ10C Xíng Fēijī ""Měng Lóng"""
 j_10c_1;K/JJ10C
 j_10c_2;K/JJ10
-mirage_2000_5ei_shop;Huànxiàng 2000-5
-mirage_2000_5ei_0;Dassault Aviation | Huànxiàng 2000-5 Xíng Zhànjī
-mirage_2000_5ei_1;Huànxiàng 2000-5
-mirage_2000_5ei_2;Huànxiàng 2000
-j_11b_shop;J11B
-j_11b_0;"Shěnyáng Fēijī Gōngyè Jítuán | J11B ""Yìng Lóng"""
-j_11b_1;J11B
-j_11b_2;J11
+mirage_2000_5ei_shop;M-2000-5
+mirage_2000_5ei_0;Dassault Aviation | M-2000-5 Xíng Zhàndòu Jī
+mirage_2000_5ei_1;M-2000-5
+mirage_2000_5ei_2;M-2000
+j_11_shop;␗ K/JJ11
+j_11_0;"␗ PAO «Kompaniâ „Sukhoj“» / Shenyáng Fēijī Gōngyè (Jítuán) | K/JJ11 Xíng Fēijī ""Yìng Lóng"""
+j_11_1;␗ K/JJ11
+j_11_2;␗ K/JJ11
+j_11a_shop;K/JJ11A (MLU)
+j_11a_0;"PAO «Kompaniâ Sukhoj» / Shenyáng Fēijī Gōngyè (Jítuán) | K/JJ11A Xíng Fēijī ""Yìng Lóng"" (Mid-Life Update)"
+j_11a_1;K/JJ11A
+j_11a_2;K/JJ11
+j_11b_shop;K/JJ11B
+j_11b_0;"PAO «Kompaniâ Sukhoj» / Shenyáng Fēijī Gōngyè (Jítuán) | K/JJ11B Xíng Fēijī ""Yìng Lóng"""
+j_11b_1;K/JJ11B
+j_11b_2;K/JJ11
+jf_17_shop;JF-17 Blāk I
+jf_17_0;Chéngdū Phējī Udyoga Samūha + Pākistān Aironāṭikal Kampḷiks | JF-17 Blāk I Thaṇḍar
+jf_17_1;JF-17 Blāk I
+jf_17_2;JF-17
 su_30mkk_shop;␗ Sū 30MKK
 su_30mkk_0;␗ PPAO «Kompaniâ Sukhoj» | Sū 30MKK Xíng Fēijī
 su_30mkk_1;␗ Sū 30MKK
 su_30mkk_2;␗ Sū 30
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+z_11wa_shop;Z11WA
+z_11wa_0;Chānghé Fēijī Gōngyè (Jítuán) | Z11WA Xíng Wuzhuāng Zhíshēngjī
+z_11wa_1;Z11WA
+z_11wa_2;Z11
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+z_9w_shop;Z9W
+z_9w_0;Hā'erbīn Fēijī Gōngyè (Jítuán) | Z9W Xíng Wuzhuāng Zhíshēngjī.
+z_9w_1;Z9W
+z_9w_2;Z9
+z_9wa_shop;Z9WA
+z_9wa_0;Hā'erbīn Fēijī Gōngyè (Jítuán) | Z9WA Xíng Wuzhuāng Zhíshēngjī
+z_9wa_1;Z9WA
+z_9wa_2;Z9
+z_19_shop;Z19
+z_19_0;Hā'erbīn Fēijī Gōngyè (Jítuán) | Z19 Xíng Wuzhuāng Zhíshēngjī
+z_19_1;Z19
+z_19_2;Z19
+z_19e_shop;Z19E
+z_19e_0;Hā'erbīn Fēijī Gōngyè (Jítuán) | Z19E Xíng Wuzhuāng Zhíshēngjī
+z_19e_1;Z19E
+z_19e_2;Z19
+oh_58d_china_shop;☀ OH-58D
+oh_58d_china_0;☀ Bell Helicopter Textron Model 406 | OH-58D Zhàn Sōu Zhíshēngjī
+oh_58d_china_1;☀ OH-58D
+oh_58d_china_2;☀ OH-58
+ah_1w_china_shop;☀ AH-1W
+ah_1w_china_0;☀ Bell Helicopter Textron Model 209 | AH-1W Zhàndòu Zhíshēngjī
+ah_1w_china_1;☀ AH-1W
+ah_1w_china_2;☀ AH-1
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+z_10_shop;Z10
+z_10_0;Chānghé Fēijī Gōngyè (Jítuán) | Z10 Xíng Wuzhuāng Zhíshēngjī
+z_10_1;Z10
+z_10_2;Z10
 z_10me_shop;Z10ME-02
 z_10me_0;Chānghé Fēijī Gōngyè (Jítuán) | Z10ME-02 Xíng Wuzhuāng Zhíshēngjī
 z_10me_1;Z10ME
 z_10me_2;Z10
-z_10a_shop;L/Z10 (2018)
-z_10a_0;Chānghé Fēijī Gōngyè (Jítuán) | L/Z10 Xíng Wuzhuāng Zhíshēngjī (2018)
-z_10a_1;L/Z10
-z_10a_2;L/Z10
+z_10a_shop;Z10 (2018)
+z_10a_0;Chānghé Fēijī Gōngyè (Jítuán) | Z10 Xíng Wuzhuāng Zhíshēngjī (2018)
+z_10a_1;Z10
+z_10a_2;Z10
 ah_64e_china_shop;☀ AH-64E (v6)
 ah_64e_china_0;☀ Boeing Defense, Space & Security | AH-64E Zhàndòu Zhíshēngjī (Capability Version 6)
 ah_64e_china_1;☀ AH-64E
@@ -10705,26 +10769,6 @@ mig-15_ns23_shop;MiG-15
 mig-15_ns23_0;MiG-15
 mig-15_ns23_1;MiG-15
 mig-15_ns23_2;MiG-15
-j_8b_shop;J8B
-j_8b_0;J8B
-j_8b_1;J8B
-j_8b_2;J8
-j_8f_shop;J8F
-j_8f_0;J8F
-j_8f_1;J8F
-j_8f_2;J8
-jf_17_shop;JF-17 Blāk I
-jf_17_0;Chéngdū Phējī Udyoga Samūha + Pākistān Aironāṭikal Kampḷiks | JF-17 Blāk I Thaṇḍar
-jf_17_1;JF-17 Blāk I
-jf_17_2;JF-17
-j_11_shop;␗ Su-27SK
-j_11_0;␗ Su-27SK
-j_11_1;␗ Su-27SK
-j_11_2;␗ Su-27
-j_11a_shop;J11A (MLU)
-j_11a_0;"J11A ""Yìng Lóng"" (Mid-Life Update)"
-j_11a_1;J11A
-j_11a_2;J11
 mig-15bis_ns23_shop;MiG-15bis (NS-23)
 mig-15bis_ns23_0;MiG-15bis (NS-23)
 mig-15bis_ns23_1;MiG-15bis
@@ -11878,14 +11922,6 @@ f-104s_asa_shop;⛨ F-104S/ASA
 f-104s_asa_0;⛨ F-104S/ASA Starfighter
 f-104s_asa_1;⛨ F-104S
 f-104s_asa_2;⛨ F-104
-f-5a_china_shop;☀ F-5A-25-NO
-f-5a_china_0;☀ Northrop | F-5A-25-NO Freedom Fighter
-f-5a_china_1;☀ F-5A
-f-5a_china_2;☀ F-5
-f-5e_aidc_shop;☀ F-5E
-f-5e_aidc_0;"☀ Northrop | F-5E ""Chung Cheng"""
-f-5e_aidc_1;☀ F-5E
-f-5e_aidc_2;☀ F-5
 f-5ag_norway_shop;◢ F-5A(G)-40-NO (EoT)
 f-5ag_norway_0;◢ Northrop Corperation N-156F | F-5A(G)-40-NO Freedom Fighter (Eye of the Tiger)
 f-5ag_norway_1;◢ F-5A
@@ -12854,34 +12890,6 @@ mi_35m_pakistan_shop;☪ Mi-35M3
 mi_35m_pakistan_0;☪ Mi-35M3
 mi_35m_pakistan_1;☪ Mi-35M
 mi_35m_pakistan_2;☪ Mi-35
-z_9w_shop;Z9W
-z_9w_0;Z9W
-z_9w_1;Z9W
-z_9w_2;Z9
-z_9wa_shop;Z9WA
-z_9wa_0;Z9WA
-z_9wa_1;Z9WA
-z_9wa_2;Z9
-z_10_shop;Z10
-z_10_0;Z10
-z_10_1;Z10
-z_10_2;Z10
-z_11wa_shop;Z11WA
-z_11wa_0;Z11WA
-z_11wa_1;Z11WA
-z_11wa_2;Z11
-z_19_shop;Z19
-z_19_0;Z19
-z_19_1;Z19
-z_19_2;Z19
-z_19e_shop;Z19E
-z_19e_0;Z19E
-z_19e_1;Z19E
-z_19e_2;Z19
-ah_1w_china_shop;☀ AH-1W
-ah_1w_china_0;☀ AH-1W Cobra
-ah_1w_china_1;☀ AH-1W
-ah_1w_china_2;☀ AH-1
 ah_1g_iaf_shop; AH-1G
 ah_1g_iaf_0; AH-1G Ṣefa Alef
 ah_1g_iaf_1; AH-1G
@@ -13250,10 +13258,6 @@ f_16a_block_10_iaf_shop; F-16A-15OCU-CF
 f_16a_block_10_iaf_0; F-16A-15OCU-CF Neṣ
 f_16a_block_10_iaf_1; F-16A
 f_16a_block_10_iaf_2; F-16
-f_16a_block_20_mlu_shop;☀ F-16A-20-CF
-f_16a_block_20_mlu_0;☀ F-16A-20-CF Fighting Falcon
-f_16a_block_20_mlu_1;☀ F-16A
-f_16a_block_20_mlu_2;☀ F-16
 f_16a_block_15_belgium_shop;▄ F-16A-15-CF
 f_16a_block_15_belgium_0;▄ F-16A-15-CF Fighting Falcon
 f_16a_block_15_belgium_1;▄ F-16A
@@ -13558,10 +13562,6 @@ saab_a32a_red_adam_shop;A 32 A (F 17)
 saab_a32a_red_adam_0;Saab 32 | A 32 A Lansen (Blekinge flygflottilj (F 17))
 saab_a32a_red_adam_1;A 32 A
 saab_a32a_red_adam_2;A 32
-oh_58d_china_shop;☀ OH-58D
-oh_58d_china_0;☀ Helicopter, Observation, OH-58D Kiowa Warrior
-oh_58d_china_1;☀ OH-58D
-oh_58d_china_2;☀ OH-58
 ah_64d_i_saraph_shop; AH-64D-I
 ah_64d_i_saraph_0; Boeing Rotorcraft Systems | AH-64D-I Saraf
 ah_64d_i_saraph_1; AH-64D

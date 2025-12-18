@@ -31,6 +31,8 @@ All dates are listed in DD-MM-YYYY format.
         - **FR-1 Fireball**
         - **F/A-18E**
         - **M10 Booker**
+        - **NASAMS 3 (TADS)** (USA / Norway) (why does the US get a Norwegian one? idfk)
+        - **NASAMS 3 (TEL)** (USA / Norway)
         - **USS Forrest Sherman**
         - **USS South Dakota**
         - **EF-2000 (AESA)**
@@ -72,6 +74,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Le Corse**
         - **Suffren**
         - **JAS39E**
+        - **NASAMS 3 (TADS)** (Sweden / Norway)
+        - **NASAMS 3 (TEL)** (Sweden / Norway)
         - **Merkava Mk.1**
     - "Sea Defender" additions:
         - **AK-225**
@@ -82,6 +86,8 @@ All dates are listed in DD-MM-YYYY format.
         - **FR-1 Fireball** → **FR-1**. Statcard name → **Ryan Aeronautical Company | FR-1 Fireball**.
         - **F/A-18E** → **F/A-18E-2-MC**. Statcard name → **McDonnell Douglas Corporation | F/A-18E-2-MC Super Hornet**.
         - **M10 Booker** → **M10**. Statcard name → **General Dynamics Land Systems | Combat Vehicle, Tracked, Light Armored, M10 Booker**.
+        - **NASAMS 3 (TADS)** (USA / Norway) → **M1097A2 (AN/MPQ-64)**. Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (AN/MPQ-64 Sentinel)**.
+        - **NASAMS 3 (TEL)** (USA / Norway) → **P113H 380 (NASAMS 3)**. Statcard name → **Scania 3-Series P113H 380 6x2 (Norwegian Advanced Surface-to-Air Missile System 3)** (because Gaijin says it's Norwegian, it gets called this).
         - **USS Forrest Sherman** → **USS Forrest Sherman (DD-931)**. Statcard name → **Bath Iron Works | Forrest Sherman-class Destroyer | USS Forrest Sherman (DD-931)**.
         - **USS South Dakota** → **USS South Dakota (BB-57)**. Statcard name → **New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | South Dakota-class Battleship | USS South Dakota (BB-57) (1944)**.
         - **EF-2000 (AESA)** → **Eurofighter (P3Ec1)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement C Step 1)**. It's an evil nightmare hybrid and I don't care anymore.
@@ -91,15 +97,15 @@ All dates are listed in DD-MM-YYYY format.
         - **DB-LK**: Statcard name → **Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet DB-LK**.
         - **MiG-25PD**: Statcard name → **Moskovskij mašinostroityel'nyj zavod «Zyenit» | izd. 84D | Samolyet MiG-25PD**.
         - **Su-30SM2**: Statcard name → **PAO «Kompaniâ Sukhoj» | izd. T-10PU | Samolyet Su-30SM2**.
-        - **BMPT** → **BMPT (2017)**. Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2017 g. «Tyerminator»**.
+        - **BMPT** → **BMPT (2002)**. Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2002 g. «Tyerminator»**.
         - **BMPT-72**: Statcard name → **OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob"yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 «Tyerminator-2»**.
         - **Tor-M1** → **9A331-1**. Statcard name → **Naučno-proizvodstvyennoye ob"yedinyeniye Antyej | Boyevaâ mašina 9A331-1**.
-        - **Stalingrad**: Statcard name → **Nikolayevskiye ob"yedinënnyye gosudarstvyennyye zavody im. Andrye Marti | Tâžëlyye kryejsyer proyekt 82, tip Stalingrad | Stalingrad**.
+        - **Stalingrad**: Statcard name → **Nikolayevskiye ob"yedinënnyye gosudarstvyennyye zavody im. Andrye Marti | Tâžëlyj kryejsyer proyekt 82, tip Stalingrad | Stalingrad**.
         - **Typhoon (AESA)** → **Typhoon F.G.R. Mk. 4 (ZK355)**. Statcard name → **Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3) | Typhoon F.G.R. Mk. 4 (ZK355)**.
         - **Ajax**: Statcard name → **General Dynamics Land Systems UK AJAX | Combat Vehicle, Reconnaissance, Full Tracked, Ajax**.
-        - **CRV Block 2** (UK / Australia) → **Boxer CRV Block II**. Statcard name → **ARTEC Boxer Combat Reconnaissance Vehicle Block II**.
+        - **CRV Block 2** (UK / Australia) → **Boxer CRV (LAND 400)**. Statcard name → **ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle (LAND 400 Phase 2)**.
         - **HMS Fiji** → **HMS Fiji (58)**. Statcard name → **John Brown & Co. / Clydebank Shipyard | Colony-class | HMS Fiji (58) (1941)**.
-        - **HMS Prince of Whales** → **HMS Prince of Wales (53)**. Statcard name → **Cammell Laird & Co. / Cape Town Dockyard | King George V-class | HMS Prince of Wales (53)**.
+        - **HMS Prince of Whales** → **HMS Prince of Wales (53)**. Statcard name → **Cammell Laird & Co. / Cape Town Dockyard | King George V-class | HMS Prince of Wales (53) (1941)**.
         - **Hawk 209** (Japan / Indonesia) → **Hawk Mk. 209**. Statcard name → **British Aerospace Hawk 209 | Hawk Mk. 209**.
         - **MiG-29N** (Japan / Malaysia): Statcard name → **Aviaczionnyj naučno-promyšlyennyj komplyeks «MiG» | MiG-29N Fulcrum**.
         - **F/A-18D Late** (Japan / Malaysia) → **F/A-18D**. Statcard name → **McDonnell Douglas Corporation Model 267 | F/A-18D Hornet**.
@@ -137,6 +143,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Le Corse** → **Le Corse (F 761)**. Statcard name → **Arsenal de Lorient | Escorteur rapide de type E 50 | Le Corse (F 761)**.
         - **Suffren**: Statcard name → **Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Suffren (1945)**.
         - **JAS39E** → **JAS 39 E**. Statcard name → **Saab 39 E | JAS 39 E Gripen**.
+        - **NASAMS 3 (TADS)** (Sweden / Norway) → **300 GD (AN/MPQ-64)**. Statcard name → **Mercedes-Benz G-Class 300 GD (AN/MPQ-64 Sentinel)**.
+        - **NASAMS 3 (TEL)** (Sweden / Norway) → **P113H 380 (NASAMS 3)**. Statcard name → **Scania 3-Series P113H 380 6x2 (Norwegian Advanced Surface-to-Air Missile System 3)**.
         - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Minhalet Tokhnit ha-Merkavah ve-ha-Raḳam, Meḥalḳet Pituḥ ha-Ṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
     - "Sea Defender" changes:
         - **AK-225**: Statcard name → **Lyeningradskij Primorskij zavod | Artillyerijskij katyer proyekt 205PÈ | AK-225 (1975)**.
@@ -562,7 +570,7 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: **81式 (C) 射統装 / 架台部** (folder) → **81式 (C)**.
     - **9S18M3 / 317M** (folder) → **9K317M**.
     - Roundels added to the **F-2000A (P3Ea)** and **Typhoon F.G.R. Mk. 4 (Centurion)**.
-    - Corrected the transliteration of "Тяжёлые" to be "Tâžëlyye" rather than "Tâžyelyye" for the **Kronštadt** and **Syevastopol'**.
+    - Corrected "Tâžëlyye" to be "Tâžëlyj" (changed the adjective case) for the **Kronštadt** and **Syevastopol'**.
     - **Sovyetskij Soûz**: Statcard name → **Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Linyejnyj korabl' proyekt 23, tip Sovyetskij Soûz | Sovyetskij Soûz**.
     - **AO «Kompaniâ Sukhoj»** (manufacturer) → **PAO «Kompaniâ Sukhoj»**.
     - **Cantiere navale del Muggiano** (manufacturer) → **Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano** (**Luigi di Savoia Duca degli Abruzzi** is now the second longest name).
@@ -573,17 +581,25 @@ All dates are listed in DD-MM-YYYY format.
     - **L'Aisne**: Statcard name → **Arsenal de Lorient | Aviso de 1ère classe de la classe La Marne | L'Aisne**.
     - **Colbert**: Statcard name → **Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Colbert (1942)** (yes I know it's practically identical to Suffren and Dupleix, this is not a mistake).
     - **Dupleix**: Statcard name → **Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Dupleix (1937)** (yes I know it's practically identical to Suffren and Colbert, this is not a mistake).
+    - **M1097A2 (AN/MPQ-64) / (SLAMRAAM)** (folder) → **SLAMRAAM**.
 
 ### Weaponry:
 
 - #### Additions:
 
     - Update "Line of Contact" additions:
+        - **105 mm M35 cannon**
         - **NASAMS 3 SAM** (launcher)
+        - **Mk.13**
         - **AMRAAM-ER**
+        - **16 inch Mk.8 Mod.0 APCBC**
         - **KE-W A2**
+        - **25 mm 110-PM gun**
         - **30 mm 2A42 automatic cannon** (new one for the **BMPT**)
+        - **130 mm/58 gun patt. 1957**
         - **30 mm HEI-PD**
+        - **12 inch SAPCBC**
+        - **12 inch APCBC**
         - **KAB-250LG-E**
         - **KAB-500LG-E**
         - **KAB-1500LG-E**
@@ -593,9 +609,15 @@ All dates are listed in DD-MM-YYYY format.
         - **R-40TD**
         - **RVV-SD**
         - **Grom-E2** (another one)
+        - **Kh-38MLE**
+        - **Kh-38MTE**
         - **9M120-1**
         - **9M120-1F**
         - **9M120 ATGM** (launcher)
+        - **14 inch/45 Mark VII cannon**
+        - **14 inch APC Mark 1b**
+        - **14 inch Mark Vb HE**
+        - **90 mm Type 61 (B) Cannon**
         - **Type 03 SAM**
         - **Type 03** (the missile for the Type 03 SAM launcher)
         - **M256** (for the **M1A2T**)
@@ -608,12 +630,21 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Update "Line of Contact" changes:
-        - **NASAMS 3 SAM** (launcher) → **National Advanced Surface-to-Air Missile System 3**.
+        - **105 mm M35 cannon** → **Gun, 105mm, M35**.
+        - **NASAMS 3 SAM** (launcher) → **Norwegian Advanced Surface-to-Air Missile System 3** (Gaijin gave America the Norwegian one so it works).
+        - **Mk.13** → **Mk 13 Mod 0**. Long name → **Launcher System, Guided Missile, Mk 13 Mod 0**.
         - **AMRAAM-ER**:
             - Full Ammunition Names package: **AMRAAM-ER** → **AMRAAM Extended Range**.
+        - **16 inch Mk.8 Mod.0 APCBC** → **16" A.P. Mk 8 Mod 0**.
+        - **25 mm 110-PM gun** → **Artillyerijskaâ ustanovka BL-120-I** mount with **25-mm Avtomata 110-PM** gun.
         - **30 mm 2A42 automatic cannon** → **30-mm Avtomatičyeskaâ puška 2A42.00.000** (I know this format of .00.000 and whatnot is weird, it seems to be in consistent in what has it so I'm going just off of where I can find it in manuals).
+        - **130 mm/58 gun patt. 1957** → **Artillyerijskaâ ustanovka BL-109A** with **130-mm/58 Korabyel'naâ puška ZiF-68-1** gun. Idk if this is right, this is an evil nightmare hell gun that keeps me up at night.
         - **30 mm HEI-PD** → **3UOF23**.
             - Full Ammunition Names package: **30 mm HEI-PD** → **3UOF23 (3OF23)**.
+        - **12 inch SAPCBC** → **PB obr. 1948 g.**. The names of these are unknown, but this is a *very* rough approximation.
+        - **12 inch APCBC** → **BR obr. 1948 g.**.
+        - **305 mm/62 SM-31 cannon** → **Artillyerijskaâ ustanovka SM-31 obr. 1948 g.** with **305-mm/62 Kačaûŝimisâ častâmi SM-33** gun. Soviet guns are hell idk if this is right either but I'm more confident on this than the BL-109A.
+        - **AK-175** → **ZiF-71**. Long name → **Artillyerijskaâ ustanovka AK-157** mount with **57-mm Odnoorudijnaâ palubnaâ ustanovka ZiF-71** gun.
         - **R-40RD**: Statcard name → **izd. 46RD | Aviaczionnaâ upravlâyemaâ rakyeta R-40RD**.
         - **R-40TD**: Statcard name → **izd. 46TD | Aviaczionnaâ upravlâyemaâ rakyeta R-40TD**.
         - **RVV-SD**: Statcard name → **Aviaczionnaâ upravlâyemaâ rakyeta RVV-SD**.
@@ -623,11 +654,20 @@ All dates are listed in DD-MM-YYYY format.
         - **UPAB-500B-E** → **UPAB-500B-È**. Statcard name → **K08BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-500B-È**.
         - **UPAB-1500B-E** → **UPAB-1500B-È**. Statcard name → **K029BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-1500B-È**.
         - **Grom-E2** (the new one) → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 "Grom-È2"**.
+        - **Kh-38MLE** → **Kh-38MLÈ**. Statcard name → **Upravlâyemaâ rakyeta Kh-38MLÈ**.
+        - **Kh-38MTE** → **Kh-38MTÈ**. Statcard name → **Upravlâyemaâ rakyeta Kh-38MTÈ**.
         - **9M120-1**:
             - Full Ammunition Names package: **9M120-1** → **Protivotankovaâ upravlâyemaâ rakyetu 9M120-1**.
         - **9M120-1F**:
             - Full Ammunition Names package: **9M120-1F** → **Protivotankovaâ upravlâyemaâ rakyetu 9M120-1F**.
-        - **9M120 ATGM** → **Komplyeksa upravlâyemogo vooružyeniâ  B07S1.01.000 "Ataka-T"**.
+        - **9M120 ATGM** → **Komplyeksa upravlâyemogo vooružyeniâ B07S1.01.000 "Ataka-T"**.
+        - **14 inch/45 Mark VII cannon** → **Gun, B.L., 14-inch, Mk. VII**.
+        - **14 inch APC Mark 1b** → **A.P.C., 14-inch 6-crh, Mk. Ib, N.T.**. This and the next shell are called this and not their cartridge names because I cannot find the cartridge names. If you have Textbook of Ammunition 1944 Phamphlets No. 1, 2, 3, or 4, please contact me.
+            - Full Ammunition Names package: **14 inch APC Mark 1b** → **Shell, B.L., A.P.C., 14-inch 6-crh., Mk. Ib, N.T.**.
+        - **14 inch Mark Vb HE** → **H.E., 14-inch 6-crh, Mk. Vb**.
+            - Full Ammunition Names package: **14 inch Mark Vb HE** → **Shell, B.L., H.E., 14-inch 6-crh., Mk. Vb**.
+        - **90 mm Type 61 (B) Cannon** → **61 Shiki 90mm Sensha Hō C Gata**.
+            - Japanese package: **90 mm Type 61 (B) Cannon** → **61式90mm戦車砲C型**.
         - **Type 03 SAM** (launcher) → **03 Shiki Chūkyorichi Taikū Yūdōdan Hassha Sōchi**.
             - Japanese package: **Type 03 SAM** → **03式中距離地対空誘導弾発射装置**.
         - **Type 03** → **SAM-4**.
@@ -653,6 +693,15 @@ All dates are listed in DD-MM-YYYY format.
     - **Kh-36 (A1)** → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 "Grom-È2"**.
     - **30 mm AG-30M automatic grenade launcher** → **30-mm Avtomatičyeskij granatomyetnyj komplyeks AGS-30M.00.000**.
     - **KE-W A1** → **KE-W**.
+    - **A.P.C., 15-inch, 6-crh., Mk. XXIIb** → **A.P.C., 15-inch 6-crh., Mk. XXIIb**.
+        - Full Ammunition Names package: **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb** → **Shell, B.L., A.P.C., 15-inch 6-crh., Mk. XXIIb**.
+    - **Mk 11 Mod 0**: Long name → **Launcher System, Guided Missile, Mk 11 Mod 0**.
+
+### Modifications:
+
+- #### Changes:
+
+    - I somehow had misspelled "maintenance" as "maintainance" in literally every modification (and as "maintenence" in 2 of them) because I'm an absolute moron, and it has somehow been like this for almost a year. That has been fixed now. Thanks tNebula for letting me know that I'm an actual dumbass.
 
 ### Sensors:
 
@@ -664,7 +713,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Update "Line of Contact" changes:
-        - **YINGS-III** → **YINGS-IIIA**. Long name → **Zhòuyè Miáozhun Diào Cāng**.
+        - **YINGS-III** → **YINGS-IIIA**. Long name → **YINGS-IIIA Zhòuyè Miáozhun Diào Cāng**.
             - Mandarin package: **YINGS-III** → **YINGS-IIIA**. Long name → **YINGS-IIIA昼夜瞄准吊舱**.
             - Full Mandarin package: **YINGS-III** → **鹰隼-IIIA**. Long name → **鹰隼-IIIA昼夜瞄准吊舱**.
     - **K/PZS01** (the one on the **JF-17 Block I**) → **ASELPOD**. Long name → **ASELPOD Advanced Targeting Pod**. It was called the K/PZS01 because of a time when all the models were mixed up and this used the K/JDC03A pod but with the name file of the K/PZS01 or something like that.

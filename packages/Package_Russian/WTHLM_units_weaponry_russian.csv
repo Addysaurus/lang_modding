@@ -2,12 +2,21 @@
 //GUNS
 weapons/gun_pk3l;<color=@userlogColoredText>7.62 mm</color> 6P6 | ПК <color=#ff6f00>MG</color>
 weapons/gun_pk3/shortl;ПК
+weapons/25mm_79_110pm_naval_user_cannon;"Артиллерийская установка БЛ-120-I
+• <color=@userlogColoredText>25 mm</color> 25-мм Автомата 110-ПМ <color=#ff6f00>ACNN</color>"
 weapons/30mm_2A42_BMPT_user_cannon;<color=@userlogColoredText>30 mm</color> 30-мм Автоматическая пушка 2А42.00.000 <color=#ff6f00>ACNN</color>
 weapons/30mm_2a42_md_user_cannon;<color=@userlogColoredText>30 mm</color> 30-мм Автоматический гранатометный комплекс АГС-30М.00.000 <color=#ff6f00>LCH-GRN</color>
+weapons/57mm_ak_157_naval_user_cannon;"Артиллерийская установка АК-157
+• <color=@userlogColoredText>57 mm</color> 57-мм Одноорудийная палубная установка ЗиФ-71 <color=#ff6f00>ACNN</color>"
+weapons/57mm_ak_157_naval_user_cannon/short;ЗиФ-71
 weapons/85mm_Type_56_user_cannon;<color=@userlogColoredText>85 mm</color> 52-ПТ-365 | ЗиС-С-53 обр. 1944 г. <color=#ff6f00>CNN</color>
 weapons/100mm_2A70_BMP_autoloader_user_cannon;<color=@userlogColoredText>100 mm</color> 2А70 <color=#ff6f00>CNN</color>
+weapons/130mm_58_bl_109a_naval_user_cannon;"Артиллерийская установка БЛ-109А
+• <color=@userlogColoredText>130 mm</color> 130-мм/58 Корабельная пушка ЗиФ-68-1 <color=#ff6f00>CNN</color>"
 weapons/152mm_ML20S_user_cannon;<color=@userlogColoredText>152 mm</color> 52-ПС-544С | МЛ-20С обр. 1937/43 гг. <color=#ff6f00>CNN-HWZ</color>
 weapons/305mm_52_obr1907_mariya_naval_user_cannon;<color=@userlogColoredText>305 mm</color> 305-мм/52 обр. 1907 г. <color=#ff6f00>CNN</color>
+weapons/305mm_62_sm_33_obr1948_naval_user_cannon;"Артиллерийская установка СМ-31 обр. 1948 г.
+• <color=@userlogColoredText>305 mm</color> 305-мм/62 Качающимися частями СМ-33 <color=#ff6f00>CNN</color>"
 weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color> 406-мм/50 Б-37 обр. 1937 г. <color=#ff6f00>CNN</color>
 
 //GUN AMMUNITION
@@ -16,6 +25,8 @@ weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color>
 76mm_obr1915_hetf;ОФ обр. 1915 г.
 122mm_3vdcz3;3ВДЦ3
 125mm_3of_82;3ВОФ128
+305mm_sm_33_he;ПБ обр. 1948 г.
+305mm_sm_33_ap;БР обр. 1948 г.
 406mm_obr1915_28_sapcbc;ПБ обр. 1915/28 гг.
 406mm_obr1915_28_apcbc;БР обр. 1915/28 гг.
 
@@ -64,6 +75,10 @@ weapons/su_rvv_sd_default;Авиационная управляемая раке
 weapons/su_rvv_sd_default/short;РВВ-СД
 weapons/su_grom_1;9-А-7759 | Управляемая ракета Х-36 «Гром-Э1» <color=#ff6f00>AGM-GNSS</color>
 weapons/su_grom_1/short;Х-36 «Гром-Э1»
+weapons/su_kh_38mle;Управляемая ракета Х-38МЛЭ <color=#ff6f00>AGM-LG/GNSS</color>
+weapons/su_kh_38mle/short;Х-38МЛЭ
+weapons/su_kh_38mte;Управляемая ракета Х-38МТЭ <color=#ff6f00>AGM-IR/GNSS</color>
+weapons/su_kh_38mte/short;Х-38МТЭ
 weapons/su_kh_59m;изд. Д-9М | Управляемая ракета Х-59М «Овод-М» <color=#ff6f00>AGM-TV</color>
 weapons/su_kh_59m/short;Х-59М
 weapons/su_kh_59me;изд. Д-9МЭ | Управляемая ракета Х-59МЭ «Овод-МЭ» <color=#ff6f00>AGM-TV</color>

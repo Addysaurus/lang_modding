@@ -1511,19 +1511,19 @@ shop/group/mig-19_china_group;J6A / 7II
 shop/group/f_5a_china_group;☀ F-5A-25 / E
 shop/group/j_11_group;␗ K/JJ11 / 11A
 shop/group/cn_m3_m5_stuart_group;☀ M3A3 / 5A1
-shop/group/cn_type_63_62_group;ZTS63 / ZTQ62
-shop/group/cn_zts_type_group;ZTS63 (1980) / ZBD86
-shop/group/cn_t_34_m4_group;␗ T-34 / ☀ M4A1
-shop/group/cn_t_34_85_group;␗ T-34-85 / 85 (1960s)
-shop/group/cn_is_2_group;␗ IS-2 (1-j) / (2-j)
 shop/group/cn_76_211_group;211 / ␗ PT-76
-shop/group/cn_type_59_69_group;ZTZ59 / 69
-shop/group/cn_tor_hq_group;␗ 9A331 / HQ17
-shop/group/cn_ztz_88_group;ZTZ88B / A
-shop/group/cn_ztz_99_group;ZTZ99 (Phase 1) / (Phase 2)
+shop/group/cn_t_34_m4_group;␗ Tè 34 / ☀ M4A1
+shop/group/cn_t_34_85_group;␗ Tè 34 (1944) / (1960)
 shop/group/cn_m36_isu_group;☀ M36 / ␗ ISU-122
+shop/group/cn_type_63_62_group;ZTS63 / ZTQ62
+shop/group/cn_is_2_group;␗ Sī 2 (1943) / (1944)
+shop/group/cn_zts_type_group;ZTS63 (1979) / ZBD86
+shop/group/cn_type_59_69_group;ZTZ59 / 69
+shop/group/cn_ztz_88_group;ZTZ88B / A
 shop/group/cn_cm_ptz_group;CM25 / PTZ89
 shop/group/cn_ptl_aft_group;PTL02 / AFT09
+shop/group/cn_ztz_99_group;ZTZ99 (1 Qí) / (2 Qí)
+shop/group/cn_tor_hq_group;␗ 9A331 / ADK17
 
 shop/group/it_fiat_group;Fiat 6616 / 6614
 shop/group/it_centauro_105_group;Centauro (preserie) / ROMOR
@@ -1804,11 +1804,11 @@ germ_garford_putilov_event_2;Armored Car
 germ_beutepanzer_mk_iv_event_shop;s.Kpfw. (Beute)
 germ_beutepanzer_mk_iv_event_0;William Foster & Co. | schwerer Kampfwagen (Beute)
 germ_beutepanzer_mk_iv_event_1;s.Kpfw. (Beute)
-germ_beutepanzer_mk_iv_event_2;Medium Tank
+germ_beutepanzer_mk_iv_event_2;Medium tank
 germ_a7v_event_shop;s.Kpfw. A7V
 germ_a7v_event_0;Daimler Motoren Gesellschaft | schwerer Kampfwagen A7V
 germ_a7v_event_1;s.Kpfw. A7V
-germ_a7v_event_2;Medium Tank
+germ_a7v_event_2;Medium tank
 uk_garford_putilov_shop;Garford
 uk_garford_putilov_0;"Garford Motor Truck Company / Putilovskij zavod | Bronirovannyj 4-tonnyj avtomobil' ""Garford"""
 uk_garford_putilov_1;Garford
@@ -1820,15 +1820,15 @@ uk_garford_putilov_event_2;Armored Car
 uk_mark_v_event_shop;Mk. V (Male)
 uk_mark_v_event_0;Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank, Mk. V (Male)
 uk_mark_v_event_1;Mk. V (Male)
-uk_mark_v_event_2;Medium Tank
+uk_mark_v_event_2;Medium tank
 uk_saint_chamond_shop;St.-Chamond mle. 1918
 uk_saint_chamond_0;Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918
 uk_saint_chamond_1;St.-Chamond
-uk_saint_chamond_2;Medium Tank
+uk_saint_chamond_2;Medium tank
 uk_saint_chamond_event_shop;St.-Chamond mle. 1918
 uk_saint_chamond_event_0;Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918
 uk_saint_chamond_event_1;St.-Chamond
-uk_saint_chamond_event_2;Medium Tank
+uk_saint_chamond_event_2;Medium tank
 zeppelin_shop;L 30
 zeppelin_0;Luftschiffbau Zeppelin LZ 62 | Militärluftschiff Typ R | L 30
 zeppelin_1;L 30
@@ -3012,11 +3012,11 @@ us_lvt_a_1_trb_2;Light tank
 us_lvt_a1_m24_shop;LVT(A)(1) (M6)
 us_lvt_a1_m24_0;Food Machinery Corporation | Landing Vehicle, Tracked (Armored) (Mk. 1) (Gun, 75mm, M6)
 us_lvt_a1_m24_1;LVT(A)(1) (M6)
-us_lvt_a1_m24_2;Light Tank
-us_lvt_4_zis_2_shop;▃␗ LVT(A)(4) (ZiS-2)
+us_lvt_a1_m24_2;Light tank
+us_lvt_4_zis_2_shop;▃␗ LVT (ZiS-2)
 us_lvt_4_zis_2_0;▃␗ Landing Vehicle, Tracked (Armored) (Mk. 4) (ZiS-2)
-us_lvt_4_zis_2_1;▃␗ LVT(A)(4)
-us_lvt_4_zis_2_2;Light tank
+us_lvt_4_zis_2_1;▃␗ LVT
+us_lvt_4_zis_2_2;SPG
 us_m22_locust_shop;M22
 us_m22_locust_0;G-148 | Tank, Light, M22 Locust
 us_m22_locust_1;M22
@@ -3118,7 +3118,7 @@ us_m4a3e2_sherman_jumbo_2;Assault tank
 us_m4a3e8_76w_sherman_kit_3rank_shop;"M4A3E8(76)W ""Hell on Wheels"""
 us_m4a3e8_76w_sherman_kit_3rank_0;"United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman ""Hell on Wheels"""
 us_m4a3e8_76w_sherman_kit_3rank_1;M4A3E8
-us_m4a3e8_76w_sherman_kit_3rank_2;Medium Tank
+us_m4a3e8_76w_sherman_kit_3rank_2;Medium tank
 us_m4_t26_shop;M4 (M3)
 us_m4_t26_0;G-104 | Tank, Medium, M4 Sherman (Gun, 90mm, M3)
 us_m4_t26_1;M4 (M3)
@@ -3176,7 +3176,7 @@ us_m18_hellcat_2;Light tank
 us_m18_hellcat_kit_3rank_shop;"M18 GMC ""Hell on Wheels"""
 us_m18_hellcat_kit_3rank_0;"General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 ""Hellcat"" ""Hell on Wheels"""
 us_m18_hellcat_kit_3rank_1;M18 GMC
-us_m18_hellcat_kit_3rank_2;Medium Tank
+us_m18_hellcat_kit_3rank_2;Medium tank
 us_m18_hellcat_black_cat_shop;M18 GMC (805th TD.Bat.)
 us_m18_hellcat_black_cat_0;"General Motors' Buick Motor Division | G-163 | Carriage, Motor, 76mm Gun, M18 ""Hellcat"" (805th Tank Destroyer Battalion) ""Black Cat"""
 us_m18_hellcat_black_cat_1;M18
@@ -3248,7 +3248,7 @@ us_t55e1_2;SPG
 us_t86_shop;T86 GMC (early)
 us_t86_0;Marmon-Herrington Company | Carriage, Motor, Amphibious, 76mm Gun, T86 (early)
 us_t86_1;T86 GMC
-us_t86_2;Medium Tank
+us_t86_2;Medium tank
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 us_m41_walker_bulldog_shop;M41A1
@@ -3424,7 +3424,7 @@ us_magach_3_2;MBT
 us_t58_shop;T58
 us_t58_0;United Shoe Machinery Corporation | Tank, Combat, Full Tracked: 155mm Gun, T58
 us_t58_1;T58
-us_t58_2;Heavy Tank
+us_t58_2;Heavy tank
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 us_xm_800t_shop;XM800T
@@ -3442,7 +3442,7 @@ us_m3a3_bradley_2;Light tank
 us_stingray_shop;Stingray
 us_stingray_0;Cadillac Gage Stingray
 us_stingray_1;Stingray
-us_stingray_2;Light Tank
+us_stingray_2;Light tank
 us_t95e1_shop;T95E1
 us_t95e1_0;Tank, Combat, Full Tracked: 90mm Gun, T95E1
 us_t95e1_1;T95E1
@@ -3504,7 +3504,7 @@ us_xm_8_2;Light tank
 us_m10_booker_late_shop;M10
 us_m10_booker_late_0;General Dynamics Land Systems | Combat Vehicle, Tracked, Light Armored, M10 Booker
 us_m10_booker_late_1;M10
-us_m10_booker_late_2;Light Tank
+us_m10_booker_late_2;Light tank
 us_hstv_l_shop;HSTV(L)
 us_hstv_l_0;High Survivability Test Vehicle (Lightweight)
 us_hstv_l_1;HSTV(L)
@@ -5036,11 +5036,11 @@ germ_jaguar_2_2;ATMC
 germ_th_800_bismark_shop;Class 3
 germ_th_800_bismark_0;"Henschel Wehrtechnik TH 800 / Sandock-Austral | Proto-Type, Class 3 Armored Car ""Bismarck"""
 germ_th_800_bismark_1;Class 3
-germ_th_800_bismark_2;Light Tank
+germ_th_800_bismark_2;Light tank
 germ_th_400_shop;H 400
 germ_th_400_0;Henschel Wehrtechnik H 400
 germ_th_400_1;H 400
-germ_th_400_2;Light Tank
+germ_th_400_2;Light tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 germ_schutzenpanzer_puma_shop;SPz Puma S0
@@ -5252,11 +5252,11 @@ ussr_t_34_85_zis_53_kit_3rank_2;Medium tank
 ussr_is_1_shop;IS-1
 ussr_is_1_0;"Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g."
 ussr_is_1_1;IS-1
-ussr_is_1_2;Heavy Tank
+ussr_is_1_2;Heavy tank
 ussr_is_1_kit_3rank_shop;"IS-1 ""In May 1945"""
 ussr_is_1_kit_3rank_0;"Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g. ""In May 1945"""
 ussr_is_1_kit_3rank_1;IS-1
-ussr_is_1_kit_3rank_2;Heavy Tank
+ussr_is_1_kit_3rank_2;Heavy tank
 ussr_sdkfz_251_21_kit_3rank_shop;"▂ m.S.P.W. D (M.G. 151 S) ""In May 1945"""
 ussr_sdkfz_251_21_kit_3rank_0;"▂ Hannoversche Maschinenbau | mittlerer Schützenpanzerwagen Ausf. D mit 2cm Drilling M.G. 151 S (Sd.Kfz. 251/21) ""In May 1945"""
 ussr_sdkfz_251_21_kit_3rank_1;▂ m.S.P.W. D (M.G. 151 S)
@@ -5270,7 +5270,11 @@ ussr_t_34_85_stp_s53_2;Medium tank
 ussr_t_44_po_shop;T-44 (№ 1)
 ussr_t_44_po_0;"Ural'skij tankovyj zavod №183 imyeni Komintyerna | Ob""yekt 136 | T-44 (№ 1)"
 ussr_t_44_po_1;T-44
-ussr_t_44_po_2;Medium Tank
+ussr_t_44_po_2;Medium tank
+ussr_type_62_shop;▂ ZTQ62
+ussr_type_62_0;▂ Hā'erbīn Dì Yī Jīxiè Jítuán | WZ131 | ZTQ1962 Shì Qīngxíng Tankè
+ussr_type_62_1;▂ ZTQ62
+ussr_type_62_2;Light tank
 ussr_type_65_aa_shop;▂ A24
 ussr_type_65_aa_0;▂ Nhà Máy Q153 | Xe Phòng Không Too Hành 2 Nòng 37mm, A24
 ussr_type_65_aa_1;▂ A24
@@ -5530,7 +5534,7 @@ ah_64e_britain_2;Apache
 uk_mark_v_shop;Mk. V (Male)
 uk_mark_v_0;Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank, Mk. V (Male)
 uk_mark_v_1;Mk. V (Male)
-uk_mark_v_2;Medium Tank
+uk_mark_v_2;Medium tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 uk_cruiser_ram_1_shop;Ram, Mk. I
@@ -5556,25 +5560,25 @@ uk_crusader_aa_mk_2_tutorial_2;SPAAG
 uk_a25_mk_8_shop;Harry Hopkins, Mk. I
 uk_a25_mk_8_0;Vickers-Armstrongs | Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I
 uk_a25_mk_8_1;Harry Hopkins, Mk. I
-uk_a25_mk_8_2;Light Tank
+uk_a25_mk_8_2;Light tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 uk_sherman_vc_firefly_shop;Sherman, Mk. Vc
 uk_sherman_vc_firefly_0;"United States Army Ordnance Department + Royal Ordnance Factory Nottingham | Tank, Medium, Sherman, Mk. Vc ""Firefly"""
 uk_sherman_vc_firefly_1;Sherman, Mk. V
-uk_sherman_vc_firefly_2;Medium Tank
+uk_sherman_vc_firefly_2;Medium tank
 uk_sherman_vc_firefly_kit_3rank_shop;"Sherman, Mk. Vc ""Echoes of Overlord"""
 uk_sherman_vc_firefly_kit_3rank_0;"United States Army Ordnance Department + Royal Ordnance Factory Nottingham | Tank, Medium, Sherman, Mk. Vc ""Firefly"" ""Echoes of Overlord"""
 uk_sherman_vc_firefly_kit_3rank_1;Sherman, Mk. V
-uk_sherman_vc_firefly_kit_3rank_2;Medium Tank
+uk_sherman_vc_firefly_kit_3rank_2;Medium tank
 uk_a30_sp_avenger_shop;Avenger, Mk. I
 uk_a30_sp_avenger_0;Birmingham Railway Carriage and Wagon Company | 17-pdr, Self-Propelled, A.30, Avenger, Mk. I
 uk_a30_sp_avenger_1;Avenger, Mk. I
-uk_a30_sp_avenger_2;Medium Tank
+uk_a30_sp_avenger_2;Medium tank
 uk_a30_sp_avenger_kit_3rank_shop;Avenger, Mk. I "Echoes of Overlord"
 uk_a30_sp_avenger_kit_3rank_0;Birmingham Railway Carriage and Wagon Company | 17-pdr, Self-Propelled, A.30, Avenger, Mk. I "Echoes of Overlord"
 uk_a30_sp_avenger_kit_3rank_1;Avenger, Mk. I
-uk_a30_sp_avenger_kit_3rank_2;Medium Tank
+uk_a30_sp_avenger_kit_3rank_2;Medium tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
@@ -6665,7 +6669,7 @@ jp_m60a3_tts_2;MBT
 jp_stingray_shop;Th.Bao 32
 jp_stingray_0;Cadillac Gage Stingray | Rth Thạng Bao Stingray | Rth Thạng Bao 32
 jp_stingray_1;Th.Bao 32
-jp_stingray_2;Light Tank
+jp_stingray_2;Light tank
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 jp_icv_ifv_prototype_shop;24WAFV
@@ -7510,24 +7514,192 @@ ah_64e_china_1;☀ AH-64E
 ah_64e_china_2;☀ AH-64
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+cn_m8_greyhound_shop;☀ M8
+cn_m8_greyhound_0;☀ Ford Motor Company G-136 | M8 Zhuāngjia Chē
+cn_m8_greyhound_1;☀ M8
+cn_m8_greyhound_2;Light tank
+cn_t_26_1940_shop;☀ Tè 26 (1937)
+cn_t_26_1940_0;☀ Vickers-Armstrongs / Opytno-konstruktorskij myekhaničyeskij otdyel | Tè 26 Qīngxíng Zhànchē (1937)
+cn_t_26_1940_1;☀ Tè 26
+cn_t_26_1940_2;Light tank
+cn_t_26_no531_shop;☀ Tè 26 (1937) (Dì 200 Shī)
+cn_t_26_no531_0;☀ Vickers-Armstrongs / Opytno-konstruktorskij myekhaničyeskij otdyel | Tè 26 Qīngxíng Zhànchē (1937) (Dì 200 Shī)
+cn_t_26_no531_1;☀ Tè 26
+cn_t_26_no531_2;Light tank
+cn_type_97_chi_ha_shop;☀ 97 Shì
+cn_type_97_chi_ha_0;☀ Mitsubishi Jū Kōgyō | 97 Shì Zhōngxíng Zhànchē
+cn_type_97_chi_ha_1;☀ 97 Shì
+cn_type_97_chi_ha_2;Medium tank
+cn_type_97_kai_shop;☀ 97 Shì (1 Shì)
+cn_type_97_kai_0;☀ Mitsubishi Jū Kōgyō | 97 Shì Gai Zhōngxíng Zhànchē (1 Shì 47 Háomi Zhànchē Pào)
+cn_type_97_kai_1;☀ 97 Shì Gai
+cn_type_97_kai_2;Medium tank
+cn_sdkfz_222_early_shop;☀ Háoxū Shì 4.5 Dūn
+cn_sdkfz_222_early_0;☀ Eisenwerk Weserhütte | Háoxū Shì 4.5 Dūn Zhuāngjia Chē
+cn_sdkfz_222_early_1;☀ Háoxū
+cn_sdkfz_222_early_2;SPAAG
+cn_m8_scott_shop;☀ 8 Shì
+cn_m8_scott_0;☀ United States Army Ordnance Department | 8 Shì 75 Pào Zhànchē
+cn_m8_scott_1;☀ 8 Shì
+cn_m8_scott_2;SPG
+cn_su_76m_1943_shop;␗ SU-76
+cn_su_76m_1943_0;␗ Kirovskij mašinostroityel'nyj zavod № 38 im. 1 Maâ (NKTP) | SU-76 Zìxíng Huopào
+cn_su_76m_1943_1;␗ SU-76
+cn_su_76m_1943_2;SPG
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+cn_m3a3_stuart_shop;☀ M3A3
+cn_m3a3_stuart_0;☀ United States Army Ordnance Department | M3A3 Qīngxíng Zhànchē
+cn_m3a3_stuart_1;☀ M3A3
+cn_m3a3_stuart_2;Light tank
+cn_m3a3_stuart_1st_ptg_shop;☀ M3A3 (Dì 1 Lín Zhàn Tuán)
+cn_m3a3_stuart_1st_ptg_0;☀ United States Army Ordnance Department | M3A3 Qīngxíng Zhànchē (Dì 1 Línshí Zhànchē Tuán)
+cn_m3a3_stuart_1st_ptg_1;☀ M3A3
+cn_m3a3_stuart_1st_ptg_2;Light tank
+cn_m5a1_stuart_shop;☀ M5A1
+cn_m5a1_stuart_0;☀ United States Army Ordnance Department | M5A1 Qīngxíng Zhànchē
+cn_m5a1_stuart_1;☀ M5A1
+cn_m5a1_stuart_2;Light tank
+cn_m24_chaffee_shop;☀ M24
+cn_m24_chaffee_0;☀ United States Army Ordnance Department + Cadillac Motor Car Division | M24 Zhànchē
+cn_m24_chaffee_1;☀ M24
+cn_m24_chaffee_2;Light tank
+cn_m4a4_sherman_shop;☀ M4A4
+cn_m4a4_sherman_0;☀ United States Army Ordnance Department | M4A4 Zhōngxíng Zhànchē
+cn_m4a4_sherman_1;☀ M4A4
+cn_m4a4_sherman_2;Medium tank
+cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 (Dì 1 Lín Zhàn Tuán)
+cn_m4a4_sherman_1st_ptg_0;☀ United States Army Ordnance Department | M4A4 Zhōngxíng Zhànchē (Dì 1 Línshí Zhànchē Tuán)
+cn_m4a4_sherman_1st_ptg_1;☀ M4A4
+cn_m4a4_sherman_1st_ptg_2;Medium tank
+cn_m4a1_76w_sherman_shop;☀ M4A1
+cn_m4a1_76w_sherman_0;☀ United States Army Ordnance Department | M4A1 Zhōngxíng Zhànchē
+cn_m4a1_76w_sherman_1;☀ M4A1
+cn_m4a1_76w_sherman_2;Medium tank
+cn_gmc_cckw_353_m45_quad_shop;Jì Mu Xī 10 Lún (M45C)
+cn_gmc_cckw_353_m45_quad_0;GMC Truck and Coach | Jì Mu Xī 10 Lún Dà Kachē (Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)
+cn_gmc_cckw_353_m45_quad_1;Jì Mu Xī 10 Lún (M45C)
+cn_gmc_cckw_353_m45_quad_2;SPAAG
+cn_lvt_4_zis_2_shop;␗ LVT (ZiS-2)
+cn_lvt_4_zis_2_0;␗ Food Machinery Corporation | LVT Shuilù Tankè (ZiS-2 obr. 1941 g.)
+cn_lvt_4_zis_2_1;␗ LVT
+cn_lvt_4_zis_2_2;SPG
+cn_m10_shop;☀ M10
+cn_m10_0;☀ United States Army Ordnance Department | M10 Qūzhú Pào Chē
+cn_m10_1;☀ M10
+cn_m10_2;Tank Destroyer
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
-cn_m55_shop;☀ M55
-cn_m55_0;☀ Pacific Car and Foundry Company | M55 Zì Zou Pào
-cn_m55_1;☀ M55
-cn_m55_2;SPH
-
-//CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+cn_object_211_shop;211 (4 Hào) (63 Shì)
+cn_object_211_0;Xīnán Chēliàng Zhìzào Chang | 211 (Yàng Chē 4 Hào) (1963 Nián Shì 85 Háomi Tankè Pào)
+cn_object_211_1;211
+cn_object_211_2;Light tank
+cn_pt_76_shop;␗ PT-76
+cn_pt_76_0;"␗ Ob""yekt 740 | PT-76 obr. 1953 g."
+cn_pt_76_1;␗ PT-76
+cn_pt_76_2;Light tank
+cn_t_34_1942_shop;␗ Tè 34 (1942)
+cn_t_34_1942_0;␗ Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) | Tè 34 Zhōngxíng Tankè (1942)
+cn_t_34_1942_1;␗ Tè 34
+cn_t_34_1942_2;Medium tank
+cn_t_34_85_d_5t_shop;␗ Tè 34 (1944)
+cn_t_34_85_d_5t_0;␗ Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) | Tè 34 Zhōngxíng Tankè (1944)
+cn_t_34_85_d_5t_1;␗ Tè 34 (1944)
+cn_t_34_85_d_5t_2;Medium tank
+cn_type_58_shop;␗ Tè 34 (1960)
+cn_type_58_0;␗ Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) / Hā'erbīn Dì Yī Jīxiè Jítuán | Tè 34 Zhōngxíng Tankè (1960)
+cn_type_58_1;␗ Tè 34 (1960)
+cn_type_58_2;Medium tank
+cn_t_34_85_zis_53_no215_shop;␗ Tè 34 (1944) (Tankè Dì 2 Shī)
+cn_t_34_85_zis_53_no215_0;␗ Ural'skij tankovyj zavod № 183 im. Stalina (UTZ | Tè 34 Zhōngxíng Tankè (1944) (Tankè Dì 2 Shī)
+cn_t_34_85_zis_53_no215_1;␗ Tè 34 (1944)
+cn_t_34_85_zis_53_no215_2;Medium tank
+cn_m42_duster_shop;☀ M42
+cn_m42_duster_0;☀ GM Defense | M42 Fángkōng Pàochē
+cn_m42_duster_1;☀ M42
+cn_m42_duster_2;SPAAG
 cn_type_65_aa_shop;A24
 cn_type_65_aa_0;Nhà Máy Q153 | Xe Phòng Không Too Hành 2 Nòng 37mm, A24
 cn_type_65_aa_1;A24
 cn_type_65_aa_2;SPAAG
+cn_m55_shop;☀ M55
+cn_m55_0;☀ Pacific Car and Foundry Company | M55 Zì Zou Pào
+cn_m55_1;☀ M55
+cn_m55_2;SPH
+cn_isu_152_shop;␗ ISU-152
+cn_isu_152_0;␗ Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo mašinostroyeniâ (VNII-100) | ISU-152 Zìxíng Huopào
+cn_isu_152_1;␗ ISU-152
+cn_isu_152_2;SPG
+cn_m36_shop;☀ M36
+cn_m36_0;"☀ United States Army Ordnance Department | M36 Qūzhú Pào Chē
+cn_m36_1;☀ M36
+cn_m36_2;Tank Destroyer
+cn_isu_122_shop;␗ ISU-122
+cn_isu_122_0;␗ Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo mašinostroyeniâ (VNII-100) | ISU-122 Zìxíng Huopào
+cn_isu_122_1;␗ ISU-122
+cn_isu_122_2;SPG
+cn_m41_a3_walker_bulldog_shop;☀ M41A3
+cn_m41_a3_walker_bulldog_0;"☀ Cadillac Motor Car Division | M41A3 Zhànchē ""Huákè Mengquan"""
+cn_m41_a3_walker_bulldog_1;☀ M41
+cn_m41_a3_walker_bulldog_2;Light tank\
+cn_m_41d_shop;☀ M41D
+cn_m_41d_0;"☀ Cadillac Motor Car Division / Lùjūn Bīng Gōng Zhengbèi Fāzhan Zhōngxīn | M41D Zhànchē ""Huákè Mengquan"""
+cn_m_41d_1;☀ M41D
+cn_m_41d_2;Light tank
+
+//CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+cn_m18_hellcat_shop;☀ M18
+cn_m18_hellcat_0;☀ General Motors' Buick Motor Division | M18 Qūzhú Pào Chē
+cn_m18_hellcat_1;☀ M18
+cn_m18_hellcat_2;Light tank
+cn_type_63_I_shop;ZTS63
+cn_type_63_I_0;Xīnán Chēliàng Zhìzào Chang | WZ211 | ZTS1963 Shì Shuilù Tankè
+cn_type_63_I_1;ZTS63
+cn_type_63_I_2;Light tank
+cn_zts_63_1980_shop;ZTS63 (1979)
+cn_zts_63_1980_0;Xīnán Chēliàng Zhìzào Chang | WZ211 | ZTS1963 Shì Shuilù Tankè (1979)
+cn_zts_63_1980_1;ZTS63
+cn_zts_63_1980_2;Light tank
+cn_type_62_shop;ZTQ62
+cn_type_62_0;Hā'erbīn Dì Yī Jīxiè Jítuán | WZ131 | ZTQ1962 Shì Qīngxíng Tankè
+cn_type_62_1;ZTQ62
+cn_type_62_2;Light tank
+cn_is_2_1943_shop;␗ Sī 2 (1943)
+cn_is_2_1943_0;␗ Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ) | Sī 2 Zhòngxíng Tankè (1943)
+cn_is_2_1943_1;␗ Sī 2
+cn_is_2_1943_2;Heavy tank
+cn_is_2_1944_shop;␗ Sī 2 (1944)
+cn_is_2_1944_0;␗ Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ) | Sī 2 Zhòngxíng Tankè (1944)
+cn_is_2_1944_1;␗ Sī 2
+cn_is_2_1944_2;Heavy tank
+cn_is_2_1943_no402_shop;␗ Sī 2 (1943) (Tankè Dì 3 Shī)
+cn_is_2_1943_no402_0;␗ Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ) | Sī 2 Zhòngxíng Tankè (1943) (Tankè Dì 3 Shī)
+cn_is_2_1943_no402_1;␗ Sī 2
+cn_is_2_1943_no402_2;Heavy tank
+cn_zsd63_pg87_shop;ZSD63B (PG87)
+cn_zsd63_pg87_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ531 | ZSD1963B Shì Lǚdài Zhuāngjia Shūsòng Chē (PG1987 Nián Shì Shuāng Guan 25 Háomi Gāoshè Jīguān Pào)
+cn_zsd63_pg87_1;ZSD63B (PG87)
+cn_zsd63_pg87_2;SPAAG
+cn_zsl_92_shop;ZSL92
+cn_zsl_92_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ551A | ZSL1992 Shì Zhuāngjia Shūsòng Chē
+cn_zsl_92_1;ZSL92
+cn_zsl_92_2;Light tank
+cn_su_100_1945_shop;␗ SU-100
+cn_su_100_1945_0;␗ Ural'skij zavod tâžëlogo mašinostroyeniâ im. S. Ordžonikidzye (UZTM) | SU-100 Zìxíng Huopào
+cn_su_100_1945_1;␗ SU-100
+cn_su_100_1945_2;SPG
+cn_plz_83_shop;PLZ83
+cn_plz_83_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | PLZ1983 Shì 155 Háomi Zìxíng Jiā Liúpào
+cn_plz_83_1;PLZ83
+cn_plz_83_2;SPG
+cn_type_64_shop;64 Shì
+cn_type_64_0;Lùjūn Gōngyìng Sīlìng Bù Bīng Gōng Shu | 64 Shì Zhànchē
+cn_type_64_1;64 Shì
+cn_type_64_2;Light tank
 cn_wz_141_shop;141 (1 Hào)
 cn_wz_141_0;Zhuāngjiabīng Mou Yánjiū Suo | 141 Chāo Qīngxíng Fan Tankè Zhàn Chē (Yàngchē 1 Hào)
 cn_wz_141_1;141
-cn_wz_141_2;Light Tank
+cn_wz_141_2;Light tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
@@ -7535,7 +7707,7 @@ cn_wz_141_2;Light Tank
 cn_cm_34_shop;CM34
 cn_cm_34_0;Timoney Technology + Gōngyè Jìshù Yán Jiù Yuàn | CM34 Lún Xíng Zhàndòu Chē
 cn_cm_34_1;CM34
-cn_cm_34_2;Light Tank
+cn_cm_34_2;Light tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 cn_vt_4_shop;VT4
@@ -7653,25 +7825,25 @@ mig_29_9_12_sniper_2;╏ MiG-29
 it_39m_csaba_shop;39 M. Csaba pc. gk.
 it_39m_csaba_0;Manfréd Weiss | 39 M. Csaba páncélgépkocsi
 it_39m_csaba_1;39 M. Csaba
-it_39m_csaba_2;Light Tank
+it_39m_csaba_2;Light tank
 it_toldi_II_a_shop;38 M. Toldi B 40 k. hk.
 it_toldi_II_a_0;Landsverk / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 38 M. Toldi B 40 könnyű harckocsi
 it_toldi_II_a_1;38 M. Toldi
-it_toldi_II_a_2;Light Tank
+it_toldi_II_a_2;Light tank
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 it_40m_turan_1_shop;40 M. Turán köz. hk.
 it_40m_turan_1_0;Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 40 M. Turán közepes harckocsi
 it_40m_turan_1_1;40 M. Turán
-it_40m_turan_1_2;Medium Tank
+it_40m_turan_1_2;Medium tank
 it_41m_turan_2_shop;41 M. Turán n. hk.
 it_41m_turan_2_0;Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 41 M. Turán nehéz harckocsi
 it_41m_turan_2_1;41 M. Turán
-it_41m_turan_2_2;Medium Tank
+it_41m_turan_2_2;Medium tank
 it_43m_turan_3_shop;43 M. Turán n. hk.
 it_43m_turan_3_0;Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 43 M. Turán nehéz harckocsi
 it_43m_turan_3_1;43 M. Turán
-it_43m_turan_3_2;Medium Tank
+it_43m_turan_3_2;Medium tank
 it_40_43m_zrinyi_2_shop;40/43 M. Zrínyi
 it_40_43m_zrinyi_2_0;Manfréd Weiss | 10,5 cm 40/43 M. Zrínyi roham tarack
 it_40_43m_zrinyi_2_1;40/43 M. Zrínyi
@@ -7697,7 +7869,7 @@ it_2s1_2;SPH
 it_c13_t90_shop;C 13 (T 90 CKL)
 it_c13_t90_0;OTO Melara C 13 con torretta T 90 CKL equipaggiata con cannone Cockerill Mk. 3 da 90/38
 it_c13_t90_1;C 13 (T 90 CKL)
-it_c13_t90_2;Light Tank
+it_c13_t90_2;Light tank
 it_c13_tua_shop;C 13 (TUA)
 it_c13_tua_0;OTO Melara C 13 con sistema d'arma TUA
 it_c13_tua_1;C 13 (TUA)
@@ -7705,7 +7877,7 @@ it_c13_tua_2;ATMC
 it_m47_105_shop; M47 RKM
 it_m47_105_0; Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM
 it_m47_105_1; M47 RKM
-it_m47_105_2;Medium Tank
+it_m47_105_2;Medium tank
 it_leopard_1a2_shop;⛨ Leopard 1 A2
 it_leopard_1a2_0;⛨ Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A2
 it_leopard_1a2_1;⛨ Leopard 1 A2
@@ -7943,7 +8115,7 @@ ah_64d_netherlands_2;◘ AH-64
 fr_saint_chamond_shop;St.-Chamond mle. 1918
 fr_saint_chamond_0;Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918
 fr_saint_chamond_1;St.-Chamond
-fr_saint_chamond_2;Medium Tank
+fr_saint_chamond_2;Medium tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 fr_amd_35_kwk39_shop;☨ le.Pz.Spw. 204 (f) (Kw.K. 39/1)
@@ -8189,7 +8361,7 @@ fa_18c_mlu_2_finland_2;HN
 sw_m24_chaffee_dk_shop;♔ M24
 sw_m24_chaffee_dk_0;♔ Cadillac Motor Car Division | G-200 | Tank, Light, M24 Chaffee
 sw_m24_chaffee_dk_1;♔ M24
-sw_m24_chaffee_dk_2;Light Tank
+sw_m24_chaffee_dk_2;Light tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
@@ -8199,7 +8371,7 @@ sw_m24_chaffee_dk_2;Light Tank
 sw_cv_90105_shop;CV90105 (TML 105)
 sw_cv_90105_0;Hägglund & Söner + GIAT Industries Combat Vehicle 90105 (TML 105)
 sw_cv_90105_1;CV90105
-sw_cv_90105_2;Light Tank
+sw_cv_90105_2;Light tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 
@@ -8281,7 +8453,7 @@ f_16a_block_10_netz_mod_2; F-16
 il_m113_hvms_shop;Bardelas (HVMS 60)
 il_m113_hvms_0;Israel Military Industries | Bardelas (60 mm Hyper-Velocity Medium Support Weapon)
 il_m113_hvms_1;Bardelas (HVMS 60)
-il_m113_hvms_2;Light Tank
+il_m113_hvms_2;Light tank
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 il_merkava_mk_1_shop;Merkavah Mk. 1
@@ -8327,7 +8499,7 @@ il_spyder_aio_2;SPAAM
 germ_t_34_747_shop;▀ Pz.Kpfw. 747 (r) D
 germ_t_34_747_0;▀ Panzerkampfwagen 747 (r) Ausf. D | T 34 D
 germ_t_34_747_1;▀ Pz.Kpfw. 747 (r)
-germ_t_34_747_2;Medium Tank
+germ_t_34_747_2;Medium tank
 germ_pzkpfw_VI_tiger_P_shop;VK 45.01 (P)
 germ_pzkpfw_VI_tiger_P_0;VK 45.01 (P)
 germ_pzkpfw_VI_tiger_P_1;VK 45.01
@@ -8444,10 +8616,6 @@ ussr_t_60_1941_shop;T-60 (1942)
 ussr_t_60_1941_0;"Ob""yekt 0-60 | T-60 obr. 1942 g."
 ussr_t_60_1941_1;T-60
 ussr_t_60_1941_2;Light tank
-ussr_type_62_shop;▂ ZTQ62
-ussr_type_62_0;▂ WZ131 | ZTQ1962
-ussr_type_62_1;▂ ZTQ62
-ussr_type_62_2;Light tank
 ussr_t_70_1942_shop;T-70
 ussr_t_70_1942_0;"Ob""yekt 0-70 | T-70 obr. 1942 g."
 ussr_t_70_1942_1;T-70
@@ -8715,7 +8883,7 @@ ussr_is_7_2;Heavy tank
 ussr_object_248_shop;IS-5 (1944)
 ussr_object_248_0;"Ob""yekt 248 | IS-100 | IS-5 obr. 1944 g."
 ussr_object_248_1;IS-5 (1944)
-ussr_object_248_2;Heavy Tank
+ussr_object_248_2;Heavy tank
 ussr_is_1_shop;IS-1
 ussr_is_1_0;"Ob""yekt 237 | IS-1 obr. 1943 g."
 ussr_is_1_1;IS-1
@@ -9635,7 +9803,7 @@ fr_amx_50_1950_2;Medium tank
 fr_somua_sm_shop;SM
 fr_somua_sm_0;Char lourd Somua SM
 fr_somua_sm_1;SM
-fr_somua_sm_2;Heavy Tank
+fr_somua_sm_2;Heavy tank
 fr_amx_50_shop;AMX 50 (TOA 100)
 fr_amx_50_0;Char moyen AMX 50 avec tourelle TOA 100
 fr_amx_50_1;AMX 50
@@ -9703,7 +9871,7 @@ fr_hotchkiss_h39_2;Light tank
 fr_somua_sau40_shop;SAu 40
 fr_somua_sau40_0;Canon automoteur de 75 mm SAu 40
 fr_somua_sau40_1;SAu 40
-fr_somua_sau40_2;Tank Destroyer
+fr_somua_sau40_2;SPG
 fr_m44_shop;▄ M44
 fr_m44_0;▄ G-279 | Howitzer, Self-Propelled, Full Tracked: 155mm, M44
 fr_m44_1;▄ M44
@@ -9731,7 +9899,7 @@ fr_amc_34_2;Light tank
 fr_arl_44_acl1_shop;ARL 44 (ACL 1)
 fr_arl_44_acl1_0;ARL 44 (ACL 1)
 fr_arl_44_acl1_1;ARL 44
-fr_arl_44_acl1_2;Heavy Tank
+fr_arl_44_acl1_2;Heavy tank
 fr_arl_44_shop;ARL 44
 fr_arl_44_0;ARL 44
 fr_arl_44_1;ARL 44
@@ -12697,31 +12865,31 @@ it_semovente_m41m_90_2;SPG
 it_m13_40_serie_1_shop;M. 40 I
 it_m13_40_serie_1_0;Carro Armato Medio Mod. 40 Serie I
 it_m13_40_serie_1_1;M. 40
-it_m13_40_serie_1_2;Medium Tank
+it_m13_40_serie_1_2;Medium tank
 it_m13_40_serie_2_shop;M. 40 II
 it_m13_40_serie_2_0;Carro Armato Medio Mod. 40 Serie II
 it_m13_40_serie_2_1;M. 40
-it_m13_40_serie_2_2;Medium Tank
+it_m13_40_serie_2_2;Medium tank
 it_m13_40_serie_3_shop;M. 40 III
 it_m13_40_serie_3_0;Carro Armato Medio Mod. 40 Serie III
 it_m13_40_serie_3_1;M. 40
-it_m13_40_serie_3_2;Medium Tank
+it_m13_40_serie_3_2;Medium tank
 it_m11_39_shop;M. 39
 it_m11_39_0;Carro Armato Medio Mod. 39
 it_m11_39_1;M. 39
-it_m11_39_2;Medium Tank
+it_m11_39_2;Medium tank
 it_m14_41_47_40_shop;M. 41 (47/40)
 it_m14_41_47_40_0;Carro Armato Medio Mod. 41 (47/40)
 it_m14_41_47_40_1;M. 41
-it_m14_41_47_40_2;Medium Tank
+it_m14_41_47_40_2;Medium tank
 it_pzkpfw_III_ausf_N_shop;⛨ Pz.Kpfw. III N
 it_pzkpfw_III_ausf_N_0;⛨ Carro Armato Medio Panzerkampfwagen III Ausf. N
 it_pzkpfw_III_ausf_N_1;⛨ Pz.Kpfw. III N
-it_pzkpfw_III_ausf_N_2;Medium Tank
+it_pzkpfw_III_ausf_N_2;Medium tank
 it_pzkpfw_IV_ausf_G_shop;⛨ Pz.Kpfw. IV G
 it_pzkpfw_IV_ausf_G_0;⛨ Carro Armato Medio Panzerkampfwagen IV Ausf. G (Settembre 1942)
 it_pzkpfw_IV_ausf_G_1;⛨ Pz.Kpfw. IV G
-it_pzkpfw_IV_ausf_G_2;Medium Tank
+it_pzkpfw_IV_ausf_G_2;Medium tank
 it_pzkpfw_VI_ausf_e_tiger_shop;◐ Tiger E (spät)
 it_pzkpfw_VI_ausf_e_tiger_0;◐ Panzerkampfwagen Tiger Ausf. E (spät)
 it_pzkpfw_VI_ausf_e_tiger_1;◐ Tiger E
@@ -12733,7 +12901,7 @@ it_stug_III_ausf_G_2;SPG
 it_m14_41_shop;M. 41
 it_m14_41_0;Carro Armato Medio Mod. 41
 it_m14_41_1;M. 41
-it_m14_41_2;Medium Tank
+it_m14_41_2;Medium tank
 it_leopard_bofors_shop;⛨ Leopard 1 A2 (40/70)
 it_leopard_bofors_0;⛨ Semovente contraereo da 40/70 Bofors su scafo Leopard 1 Versione A2
 it_leopard_bofors_1;⛨ Leopard 1 (40/70)
@@ -12745,11 +12913,11 @@ it_m15_42_contraereo_2;SPAA
 it_sahariano_shop;Sahariano
 it_sahariano_0;Carro Armato Celere Sahariano
 it_sahariano_1;Sahariano
-it_sahariano_2;Medium Tank
+it_sahariano_2;Medium tank
 it_m15_42_shop;M. 42
 it_m15_42_0;Carro Armato Medio Mod. 42
 it_m15_42_1;M. 42
-it_m15_42_2;Medium Tank
+it_m15_42_2;Medium tank
 it_breda_52_autocannone_shop;90/53 Breda 52
 it_breda_52_autocannone_0;Autocannone da 90/53 su Breda 52
 it_breda_52_autocannone_1;90/53 Breda 52
@@ -13646,18 +13814,6 @@ ussr_object_685_shop;Ob. 685
 ussr_object_685_0;"Ob""yekt 685"
 ussr_object_685_1;Ob. 685
 ussr_object_685_2;Light tank
-cn_is_2_1943_no402_shop;␗ IS-2 (1-j) (Zhàn Chē Dì 3 Shī)
-cn_is_2_1943_no402_0;"␗ Ob""yekt 240 | IS-2 obr. 1943 g. (1-j obr.) (Zhàn Chē Dì 3 Shī)"
-cn_is_2_1943_no402_1;␗ IS-2
-cn_is_2_1943_no402_2;Heavy tank
-cn_t_26_no531_shop;☀ T-26 (1937) (Dì 200 Shī)
-cn_t_26_no531_0;☀ T-26 obr. 1937 g. (Dì 200 Shī)
-cn_t_26_no531_1;☀ T-26
-cn_t_26_no531_2;Light tank
-cn_t_34_85_zis_53_no215_shop;␗ T-34-85 (Sep, 1944) (Zhàn Chē Dì 2 Shī)
-cn_t_34_85_zis_53_no215_0;"␗ Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 35 | Т-34-85 obr. 1944 g. (September, 1944) (Zhàn Chē Dì 2 Shī)"
-cn_t_34_85_zis_53_no215_1;␗ T-34-85
-cn_t_34_85_zis_53_no215_2;Medium tank
 cn_type_69_shop;ZTZ69
 cn_type_69_0;WZ121 | ZTZ1969
 cn_type_69_1;ZTZ69
@@ -13670,10 +13826,6 @@ cn_type_86_shop;ZBD86 (2020)
 cn_type_86_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ501 | ZBD1986 (2020)
 cn_type_86_1;ZBD86
 cn_type_86_2;Light tank
-cn_t_26_1940_shop;☀ T-26 (1937)
-cn_t_26_1940_0;☀ T-26 obr. 1937 g.
-cn_t_26_1940_1;☀ T-26
-cn_t_26_1940_2;Light tank
 cn_bt_5_shop;☀ BT-5
 cn_bt_5_0;☀ BT-5 obr. 1933 g.
 cn_bt_5_1;☀ BT-5
@@ -13682,70 +13834,6 @@ cn_type_95_ha_go_shop;☀ Ha-Gō (late) (94 shiki)
 cn_type_95_ha_go_0;☀ 95 shiki kei sensha Ha-Gō (late) (94 shiki)
 cn_type_95_ha_go_1;☀ Ha-Gō
 cn_type_95_ha_go_2;Light tank
-cn_m3a3_stuart_shop;☀ M3A3
-cn_m3a3_stuart_0;☀ G-103 | Tank, Light, M3A3 Stuart
-cn_m3a3_stuart_1;☀ M3A3
-cn_m3a3_stuart_2;Light tank
-cn_type_97_chi_ha_shop;☀ Chi-Ha
-cn_type_97_chi_ha_0;☀ 97 shiki chū sensha Chi-Ha
-cn_type_97_chi_ha_1;☀ Chi-Ha
-cn_type_97_chi_ha_2;Medium tank
-cn_type_97_kai_shop;☀ Chi-Ha Kai
-cn_type_97_kai_0;☀ 97 shiki chū sensha Chi-Ha Kai
-cn_type_97_kai_1;☀ Chi-Ha Kai
-cn_type_97_kai_2;Medium tank
-cn_m5a1_stuart_shop;☀ M5A1
-cn_m5a1_stuart_0;☀ G-103 | Tank, Light, M5A1 Stuart
-cn_m5a1_stuart_1;☀ M5A1
-cn_m5a1_stuart_2;Light tank
-cn_lvt_4_zis_2_shop;␗ LVT(A)(4) (ZiS-2)
-cn_lvt_4_zis_2_0;␗ Landing Vehicle, Tracked (Armored) (Mk. 4) (ZiS-2)
-cn_lvt_4_zis_2_1;␗ LVT(A)(4)
-cn_lvt_4_zis_2_2;Light tank
-cn_t_34_1942_shop;␗ T-34 (Sep 1942)
-cn_t_34_1942_0;"␗ Ob""yekt 34 | T-34 (September 1942)"
-cn_t_34_1942_1;␗ T-34
-cn_t_34_1942_2;Medium tank
-cn_m3a3_stuart_1st_ptg_shop;☀ M3A3 (1st PTG)
-cn_m3a3_stuart_1st_ptg_0;☀ G-103 | Tank, Light, M3A3 (1st PTG)
-cn_m3a3_stuart_1st_ptg_1;☀ M3A3
-cn_m3a3_stuart_1st_ptg_2;Light tank
-cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 (1st PTG)
-cn_m4a4_sherman_1st_ptg_0;☀ G-104 | Tank, Medium, M4A4 Sherman (1st PTG)
-cn_m4a4_sherman_1st_ptg_1;☀ M4A4
-cn_m4a4_sherman_1st_ptg_2;Medium tank
-cn_m4a4_sherman_shop;☀ M4A4
-cn_m4a4_sherman_0;☀ G-104 | Tank, Medium, M4A4 Sherman
-cn_m4a4_sherman_1;☀ M4A4
-cn_m4a4_sherman_2;Medium tank
-cn_m8_scott_shop;☀ M8 HMC
-cn_m8_scott_0;"☀ G-127 | Carriage, Motor, 75mm Howitzer, M8 ""Scott"""
-cn_m8_scott_1;☀ M8
-cn_m8_scott_2;SPG
-cn_m24_chaffee_shop;☀ M24
-cn_m24_chaffee_0;☀ G-200 | Tank, Light, M24 Chaffee
-cn_m24_chaffee_1;☀ M24
-cn_m24_chaffee_2;Light tank
-cn_m36_shop;☀ M36 GMC
-cn_m36_0;"☀ G-210 | Carriage, Motor, 90mm Gun, M36 ""Jackson"""
-cn_m36_1;☀ M36
-cn_m36_2;TD
-cn_m10_shop;☀ M10 GMC
-cn_m10_0;☀ G-130 | Carriage, Motor, 3-inch Gun, M10
-cn_m10_1;☀ M10
-cn_m10_2;TD
-cn_m18_hellcat_shop;☀ M18 GMC
-cn_m18_hellcat_0;"☀ G-163 | Carriage, Motor, 76mm Gun, M18 ""Hellcat"""
-cn_m18_hellcat_1;☀ M18
-cn_m18_hellcat_2;Light tank
-cn_m8_greyhound_shop;☀ M8 LAC
-cn_m8_greyhound_0;☀ G-136 | Car, Armored, Light, M8
-cn_m8_greyhound_1;☀ M8 LAC
-cn_m8_greyhound_2;Light tank
-cn_m4a1_76w_sherman_shop;☀ M4A1 (75) W
-cn_m4a1_76w_sherman_0;☀ Tank, Medium, M4A1 (75) W Sherman
-cn_m4a1_76w_sherman_1;☀ M4A1
-cn_m4a1_76w_sherman_2;Medium tank
 cn_m113a1_tow_shop;☀ M113A1 (TOW)
 cn_m113a1_tow_0;☀ M113A1 (TOW)
 cn_m113a1_tow_1;☀ M113A1
@@ -13758,10 +13846,6 @@ cn_plz_83_130_shop;130 mm SP GH
 cn_plz_83_130_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī 130 mm Self-Propelled Gun-Howitzer
 cn_plz_83_130_1;130 mm SP GH
 cn_plz_83_130_2;SPG
-cn_plz_83_shop;PLZ83
-cn_plz_83_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ321 | PLZ1983
-cn_plz_83_1;PLZ83
-cn_plz_83_2;SPG
 cn_plz_05_shop;PLZ05
 cn_plz_05_0;PLZ05 155 háomi zìxíngjiā liúpào
 cn_plz_05_1;PLZ05
@@ -13782,10 +13866,6 @@ cn_cm11_shop;CM11
 cn_cm11_0;CM11
 cn_cm11_1;CM11
 cn_cm11_2;MBT
-cn_m_41d_shop;☀ M41D
-cn_m_41d_0;☀ M41D
-cn_m_41d_1;☀ M41D
-cn_m_41d_2;Light tank
 cn_m48a1_patton_III_shop;☀ M48A1
 cn_m48a1_patton_III_0;☀ G-254 | Tank, Combat, Full Tracked: 90mm Gun, M48A1
 cn_m48a1_patton_III_1;☀ M48
@@ -13794,54 +13874,6 @@ cn_t_62_shop;␗ Т-62 (57-go Po.)
 cn_t_62_0;"␗ Ob""yekt 166 | T-62 obr. 1964g. (57-go Pogranotryada) (№545)"
 cn_t_62_1;␗ Т-62
 cn_t_62_2;Medium tank
-cn_t_34_85_d_5t_shop;␗ Т-34-85 (Sep, 1944)
-cn_t_34_85_d_5t_0;"␗ Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 35 | Т-34-85 obr. 1944 g. (September, 1944)"
-cn_t_34_85_d_5t_1;␗ T-34-85
-cn_t_34_85_d_5t_2;Medium tank
-cn_type_58_shop;␗ Т-34-85 (1960s)
-cn_type_58_0;"␗ Ural'skij Tankovyj Zavod, Zavod №183 / 674 Gōngchang | Ob""yekt 35 | Т-34-85 obr. 1944 g. (1960s) ""58 Xíng"""
-cn_type_58_1;␗ Т-34-85
-cn_type_58_2;Medium tank
-cn_pt_76_shop;␗ PT-76
-cn_pt_76_0;"␗ Ob""yekt 740 | PT-76 obr. 1953 g."
-cn_pt_76_1;␗ PT-76
-cn_pt_76_2;Light tank
-cn_type_62_shop;ZTQ62
-cn_type_62_0;WZ131 | ZTQ1962
-cn_type_62_1;ZTQ62
-cn_type_62_2;Light tank
-cn_is_2_1944_shop;␗ IS-2 (2-j)
-cn_is_2_1944_0;"␗ Ob""yekt 240 | IS-2 obr. 1944 g. (2-j obr.)"
-cn_is_2_1944_1;␗ IS-2
-cn_is_2_1944_2;Heavy tank
-cn_is_2_1943_shop;␗ IS-2 (1-j)
-cn_is_2_1943_0;"␗ Ob""yekt 240 | IS-2 obr. 1943 g. (1-j obr.)"
-cn_is_2_1943_1;␗ IS-2
-cn_is_2_1943_2;Heavy tank
-cn_su_76m_1943_shop;␗ SU-76M
-cn_su_76m_1943_0;␗ SU-76M obr. 1943 g.
-cn_su_76m_1943_1;␗ SU-76M
-cn_su_76m_1943_2;SPG
-cn_isu_122_shop;␗ ISU-122
-cn_isu_122_0;"␗ Ob""yekt 242 | ISU-122"
-cn_isu_122_1;␗ ISU-122
-cn_isu_122_2;SPG
-cn_isu_152_shop;␗ ISU-152
-cn_isu_152_0;"␗ Ob""yekt 241 | 52-GPS-545 | ISU-152 obr. 1945 g."
-cn_isu_152_1;␗ ISU-152
-cn_isu_152_2;SPG
-cn_su_100_1945_shop;␗ SU-100
-cn_su_100_1945_0;"␗ Ob""yekt 138 | SU-100 obr. 1944 g."
-cn_su_100_1945_1;␗ SU-100
-cn_su_100_1945_2;SPG
-cn_type_64_shop;M64
-cn_type_64_0;M64
-cn_type_64_1;M64
-cn_type_64_2;Light tank
-cn_type_63_I_shop;ZTS63 (1963)
-cn_type_63_I_0;WZ211 | ZTS1963 (1963)
-cn_type_63_I_1;ZTS63
-cn_type_63_I_2;Light tank
 cn_zbd_04a_shop;ZBD04A
 cn_zbd_04a_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ502G | ZBD2004A
 cn_zbd_04a_1;ZBD04A
@@ -13858,10 +13890,6 @@ cn_type_59_shop;ZTZ59
 cn_type_59_0;WZ120 | ZTZ1959
 cn_type_59_1;ZTZ59
 cn_type_59_2;Medium tank
-cn_m42_duster_shop;☀ M42
-cn_m42_duster_0;"☀ G-253 | Gun, Self-Propelled, Full Tracked: Twin 40mm, M42 ""Duster"""
-cn_m42_duster_1;☀ M42
-cn_m42_duster_2;SPAA
 cn_wma_301_shop;WMA301
 cn_wma_301_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WMA301
 cn_wma_301_1;WMA301
@@ -13894,10 +13922,6 @@ cn_wz_305_shop;PGZ80
 cn_wz_305_0;WZ305 | PGZ1980
 cn_wz_305_1;PGZ80
 cn_wz_305_2;SPAA
-cn_zsd63_pg87_shop;ZSD63 (PG87)
-cn_zsd63_pg87_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ531 | ZSD1963 (PG87), Dual-Barrel AA
-cn_zsd63_pg87_1;ZSD63 (PG87)
-cn_zsd63_pg87_2;SPAA
 cn_type_69_2g_shop;T-69 II G
 cn_type_69_2g_0;Medium Tank T-69 II G
 cn_type_69_2g_1;T-69 II G
@@ -13926,18 +13950,6 @@ cn_wz_1001_shop;WZ123A(Y)
 cn_wz_1001_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ123A(Y)
 cn_wz_1001_1;WZ123A
 cn_wz_1001_2;MBT
-cn_zts_63_1980_shop;ZTS63 (1980)
-cn_zts_63_1980_0;WZ211 | ZTS1963 (1980)
-cn_zts_63_1980_1;ZTS63
-cn_zts_63_1980_2;Light tank
-cn_sdkfz_222_early_shop;☀ le.Pz.Spw. (2cm) A
-cn_sdkfz_222_early_0;☀ leichter Panzerspähwagen (2cm) Ausf. A (Sd.Kfz. 222) (1. Serie)
-cn_sdkfz_222_early_1;☀ le.Pz.Spw. (2cm)
-cn_sdkfz_222_early_2;SPAA
-cn_gmc_cckw_353_m45_quad_shop;☀ CCKW 353 (M45C)
-cn_gmc_cckw_353_m45_quad_0;☀ CCKW 353 (Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)
-cn_gmc_cckw_353_m45_quad_1;☀ CCKW 353 (M45C)
-cn_gmc_cckw_353_m45_quad_2;SPAA
 cn_ztz_96a_shop;ZTZ96A
 cn_ztz_96a_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122R | ZTZ1996A
 cn_ztz_96a_1;ZTZ96
@@ -13946,10 +13958,6 @@ cn_ztz_96_shop;ZTZ96
 cn_ztz_96_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122H | ZTZ1996
 cn_ztz_96_1;ZTZ96
 cn_ztz_96_2;MBT
-cn_m41_a3_walker_bulldog_shop;☀ M41A3
-cn_m41_a3_walker_bulldog_0;☀ G-251 | Tank, Combat, Full Tracked: 76mm Gun, M41A3 Walker Bulldog
-cn_m41_a3_walker_bulldog_1;☀ M41
-cn_m41_a3_walker_bulldog_2;Light tank
 cn_mbt2000_shop;MBT-2000
 cn_mbt2000_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | BW123A | MBT-2000
 cn_mbt2000_1;MBT-2000
@@ -13966,10 +13974,6 @@ cn_ztz_88b_shop;ZTZ88B
 cn_ztz_88b_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122E | ZTZ1988B
 cn_ztz_88b_1;ZTZ88
 cn_ztz_88b_2;MBT
-cn_object_211_shop;211 (ZPL63)
-cn_object_211_0;211 (prototype No. 4 hull, 211A turret)
-cn_object_211_1;211
-cn_object_211_2;Light tank
 cn_ztz_88a_shop;ZTZ88A
 cn_ztz_88a_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122G | ZTZ1988A
 cn_ztz_88a_1;ZTZ88A
@@ -14009,7 +14013,7 @@ ussr_mkl_186_2;Naval Armored Boat
 germ_mkpz_m47_shop;◄ KPz M 47 G
 germ_mkpz_m47_0;◄ mittlerer Kampfpanzer M 47 G
 germ_mkpz_m47_1;◄ M 47
-germ_mkpz_m47_2;Medium Tank
+germ_mkpz_m47_2;Medium tank
 ussr_valentine_mk_9_shop;▂ Valyentajn-IX
 ussr_valentine_mk_9_0;▂ Mk III Valyentajn-IX obr. 1943 g.
 ussr_valentine_mk_9_1;▂ Valyentajn-IX
@@ -15609,10 +15613,6 @@ it_battleship_francesco_caracciolo_2;Battleship
 sw_landsverk_ush_204_gk_shop;U SH 405 (204GK)
 sw_landsverk_ush_204_gk_0;Aktiebolaget Landsverk / Unimog | Landsverk Unimog SH Typ 405.110 (Oerlikon 204GK)
 sw_landsverk_ush_204_gk_2;SPAA
-cn_zsl_92_shop;ZSL92
-cn_zsl_92_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ551A | ZSL1992
-cn_zsl_92_1;ZSL92
-cn_zsl_92_2;Light tank
 it_albatros_class_f544_shop;Alcione (F 544)
 it_albatros_class_f544_0;Cantiere navale di Castellammare di Stabia | Corvetta Classe Albatros | Alcione (F 544)
 it_albatros_class_f544_1;Albatros

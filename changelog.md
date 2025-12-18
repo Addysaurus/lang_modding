@@ -334,19 +334,20 @@ All dates are listed in DD-MM-YYYY format.
         - **YL1** → **GJ1**. Statcard name → **Chéngdū Fēijī Gōngyè (Jítuán) | GJ1 Xíng Wúrénjī**.
             - Mandarin package: 
             - Full Mandarin package: **YL1** → **攻击1** Statcard name → **成都飞机工业 (集团) | 攻击1型无人机**.
-        - **Ki 27 / 43-III**: Group name → **97 Shì Zhàn / 1 Shì Zhàndòujī 3 Xíng**.
-            - Mandarin package: Group name → **九七式戰 / 一式戰鬥機三型**.
-        - **Zhōng 28 / I-16-1**: Group name → **Zhōng 28 / E-16-5**.
-            - Mandarin package: Group name → **忠28 / E-16-5**.
-        - **DB-3A / SB 2M-103U**: Group name → **D.B.3 / C.B. (M-103U)**.
-            - Mandarin + Russian package: Group name → **D.B.3 / C.B. (М-103У)**.
-        - **MiG-9 / I-307**: Group name → **Migé 9 / I-307**.
-            - Mandarin package: Group name → **米格9 / ␗ I-307**.
-            - Mandarin + Russian package: Group name → **米格9 / ␗ И-307**.
-        - **MiG-15bis / 17**: Group name → **Migé 15 Bisī / 17**.
-            - Mandarin package: Group name → **米格15比斯 / 17**.
-        - **J6A / 7B**: Group name → **J6A / 7II**.
-        - **Su-27SK / J11A**: Group name → **K/JJ11 / 11A**.
+        - **Ki 27 / 43-III** (folder) → **97 Shì Zhàn / 1 Shì Zhàndòujī 3 Xíng**.
+            - Mandarin package: Folder name → **九七式戰 / 一式戰鬥機三型**.
+        - **Zhōng 28 / I-16-1** (folder) → **Zhōng 28 / E-16-5**.
+            - Mandarin package: Folder name → **忠28 / E-16-5**.
+        - **DB-3A / SB 2M-103U** (folder) → **D.B.3 / C.B. (M-103U)**.
+            - Mandarin + Russian package: Folder name → **D.B.3 / C.B. (М-103У)**.
+        - **MiG-9 / I-307** (folder) → **Migé 9 / I-307**.
+            - Mandarin package: Folder name → **米格9 / ␗ I-307**.
+            - Mandarin + Russian package: Folder name → **米格9 / ␗ И-307**.
+        - **MiG-15bis / 17** (folder) → **Migé 15 Bisī / 17**.
+            - Mandarin package: Folder name → **米格15比斯 / 17**.
+        - **J6A / 7B** (folder) → **J6A / 7II**.
+            - Full Mandarin package: Folder name → **歼6A / 7II**.
+        - **Su-27SK / J11A** (folder) → **K/JJ11 / 11A**.
         - **Z11WA**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z11WA Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **昌河飞机工业 (集团) | Z11WA型武装直升机**.
             - Full Mandarin package: **Z11WA** → **直11WA**. Statcard name → **昌河飞机工业 (集团) | 直11WA型武装直升机**.
@@ -391,7 +392,7 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: **Chi-Ha Kai** → **九七式 (一式)**. Statcard name → **三菱重工業 | 九七式中型戰車 (一式四七毫米戰車砲)**.
         - **le.Pz.Spw. (2cm) A** → **Háoxū Shì 4.5 Dūn**. Statcard name → **Eisenwerk Weserhütte | Háoxū Shì 4.5 Dūn Zhuāngjia Chē**.
             - Mandarin package: **le.Pz.Spw. (2cm) A** → **豪须式四點五吨**. Statcard name → **Eisenwerk Weserhütte | 豪须式四點五吨装甲車**.
-        - **M8 HMC** → ** 8 Shì**. Statcard name → **United States Army Ordnance Department | 8 Shì 75 Pào Zhànchē**.
+        - **M8 HMC** → **8 Shì**. Statcard name → **United States Army Ordnance Department | 8 Shì 75 Pào Zhànchē**.
             - Mandarin package: **M8 HMC** → **八式**. Statcard name → **United States Army Ordnance Department | 八式七五砲戰車**.
         - **SU-76M** → **SU-76**. Statcard name → **Kirovskij mašinostroityel'nyj zavod № 38 im. 1 Maâ (NKTP) | SU-76 Zìxíng Huopào**.
             - Mandarin package: **SU-76M** → **SU-76**. Statcard name → **Kirovskij mašinostroityel'nyj zavod № 38 im. 1 Maâ (NKTP) | SU-76自行火砲**.
@@ -412,7 +413,7 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: **M4A1 (75) W** → **M4A1**. Statcard name → **United States Army Ordnance Department | M4A1中型戰車**.
         - **CCKW 353 (M45C)** → **Jì Mu Xī 10 Lún (M45C)**. Statcard name → **GMC Truck and Coach | Jì Mu Xī 10 Lún Dà Kachē (Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)**.
             - Mandarin package: **CCKW 353 (M45C)** → **季姆西十輪 (M45C)**. Statcard name → **GMC Truck and Coach | 季姆西十輪大卡車 (Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)**.
-        - **LVT(A)(4) (ZiS-2)** → **LVT (ZiS-2)**. Statcard name → **Food Machinery Corporation | LVT Shuilù Tankè (ZiS-2 obr. 1941 g.)**.
+        - **LVT(A)(4) (ZiS-2)** (USA & China) → **LVT (ZiS-2)**. Statcard name → **Food Machinery Corporation | LVT Shuilù Tankè (ZiS-2 obr. 1941 g.)**.
             - Mandarin package: **LVT(A)(4) (ZiS-2)** → **LVT (ZiS-2)**. Statcard name → **Food Machinery Corporation | LVT水陆坦克 (ZiS-2 obr. 1941 g.)**.
             - Mandarin + Russian package: **LVT(A)(4) (ZiS-2)** → **LVT (ЗиС-2)**. Statcard name → **Food Machinery Corporation | LVT水陆坦克 (ЗиС-2 обр. 1941 г.)**.
         - **M10 GMC** → **M10**. Statcard name → **United States Army Ordnance Department | M10 Qūzhú Pào Chē**.
@@ -428,34 +429,32 @@ All dates are listed in DD-MM-YYYY format.
         - **Т-34-85 (1960s)** → **Tè 34 (1960)**. Statcard name → **Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) / Hā'erbīn Dì Yī Jīxiè Jítuán | Tè 34 Zhōngxíng Tankè (1960)**.
             - Mandarin package: **Т-34-85 (1960s)** → **特34 (1960)**. Statcard name → **Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) / 哈尔滨第一机械集团 | 特34中型坦克 (1960)**.
             - Mandarin + Russian package: **Т-34-85 (1960s)** → **特34 (1960)**. Statcard name → **Уральский танковый завод № 183 им. Сталина (УТЗ) / 哈尔滨第一机械集团 | 特34中型坦克 (1960)**.
-        - **T-34-85 (Sep, 1944) (Zhàn Chē Dì 2 Shī)** → **new_shop**. Statcard name → **Ural'skij tankovyj zavod № 183 im. Stalina (UTZ | Tè 34 Zhōngxíng Tankè (1944) (Tankè Dì 2 Shī)**.
-            - Mandarin package: **T-34-85 (Sep, 1944) (Zhàn Chē Dì 2 Shī)** → **Tè 34 (1944) (Tankè Dì 2 Shī)**. Statcard name → **Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) | 特34中型坦克 (1944) (战车第2师)**.
+        - **T-34-85 (Sep, 1944) (Zhàn Chē Dì 2 Shī)** → **Tè 34 (1944) (Tankè Dì 2 Shī)**. Statcard name → **Ural'skij tankovyj zavod № 183 im. Stalina (UTZ | Tè 34 Zhōngxíng Tankè (1944) (Tankè Dì 2 Shī)**.
+            - Mandarin package: **T-34-85 (Sep, 1944) (Zhàn Chē Dì 2 Shī)** → **特34 (1944) (坦克第2师)**. Statcard name → **Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) | 特34中型坦克 (1944) (战车第2师)**.
             - Mandarin + Russian package: **T-34-85 (Sep, 1944) (Zhàn Chē Dì 2 Shī)** → **特34 (1944) (坦克第2师)**. Statcard name → **Уральский танковый завод № 183 им. Сталина (УТЗ) | 特34中型坦克 (1944) (战车第2师)**.
         - **M42**: Statcard name → **GM Defense | M42 Fángkōng Pàochē**.
             - Mandarin package: Statcard name → **GM Defense | M42防空砲車**.
-        - **M55**: Statcard name → **Pacific Car and Foundry Company | M55 Zì Zou Pào**.
+        - **M55**:
             - Mandarin package: Statcard name → **Pacific Car and Foundry Company | M55自走砲**.
         - **ISU-152**: Statcard name → **Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo mašinostroyeniâ (VNII-100) | ISU-152 Zìxíng Huopào**.
             - Mandarin package: Statcard name → **Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo mašinostroyeniâ (VNII-100) | ISU-152自行火砲**.
             - Mandarin + Russian package: **ISU-152** → **ИСУ-152**. Statcard name → **Всероссийский научно-исследовательский институт транспортного машиностроения (ВНИИ-100) | ИСУ-152自行火砲**.
+        - **M36 GMC** → **M36**. Statcard name → **United States Army Ordnance Department | M36 Qūzhú Pào Chē**.
+            - Mandarin package: **M36 GMC** → **M36**. Statcard name → **United States Army Ordnance Department | M36驅逐砲車**.
         - **ISU-122**: Statcard name → **Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo mašinostroyeniâ (VNII-100) | ISU-122 Zìxíng Huopào**.
             - Mandarin package: Statcard name → **Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo mašinostroyeniâ (VNII-100) | ISU-122自行火砲**.
             - Mandarin + Russian package: **ISU-122** → **ИСУ-122**. Statcard name → **Всероссийский научно-исследовательский институт транспортного машиностроения (ВНИИ-100) | ИСУ-122自行火砲**.
-        - **M36**: Statcard name → **United States Army Ordnance Department | M36 Qūzhú Pào Chē**.
-            - Mandarin package: Statcard name → **United States Army Ordnance Department | M36驅逐砲車**.
         - **M41A3**: Statcard name → **Cadillac Motor Car Division | M41A3 Zhànchē "Huákè Mengquan"**.
             - Mandarin package: Statcard name → **Cadillac Motor Car Division | M41A3戰車「華克猛犬」**.
         - **M41D**: Statcard name → **Cadillac Motor Car Division / Lùjūn Bīng Gōng Zhengbèi Fāzhan Zhōngxīn | M41D Zhànchē "Huákè Mengquan"**.
             - Mandarin package: Statcard name → **Cadillac Motor Car Division / 陆军兵工整备发展中心 | M41D戰車「華克猛犬」**.
-        - **M18**: Statcard name → **General Motors' Buick Motor Division | M18 Qūzhú Pào Chē**.
-            - Mandarin package: Statcard name → **General Motors' Buick Motor Division | M18驅逐砲車**.
-        - **M64** → **64 Shì**. Statcard name → **Lùjūn Gōngyìng Sīlìng Bù Bīng Gōng Shu | 64 Shì Zhànchē**.
-            - Mandarin package: **M64** → **64式**. Statcard name → **陆军供应司令部兵工署 | 64式戰車**.
+        - **M18 GMC** → **M18**. Statcard name → **General Motors' Buick Motor Division | M18 Qūzhú Pào Chē**.
+            - Mandarin package: **M18 GMC** → **M18**. Statcard name → **General Motors' Buick Motor Division | M18驅逐砲車**.
         - **ZTS63 (1963)** → **ZTS63**. Statcard name → **Xīnán Chēliàng Zhìzào Chang | WZ211 | ZTS1963 Shì Shuilù Tankè**.
             - Mandarin package: **ZTS63 (1963)** → **ZTS63**. Statcard name → **西南车辆制造厂 | WZ211 | ZTS1963式水陆坦克**.
         - **ZTS63 (1980)** → **ZTS63 (1979)**. Statcard name → **Xīnán Chēliàng Zhìzào Chang | WZ211 | ZTS1963 Shì Shuilù Tankè (1979)**.
             - Mandarin package: **ZTS63 (1980)** → **ZTS63 (1979)**. Statcard name → **西南车辆制造厂 | WZ211 | ZTS1963式水陆坦克 (1979)**.
-        - **ZTQ62**: Statcard name → **Hā'erbīn Dì Yī Jīxiè Jítuán | WZ131 | ZTQ1962 Shì Qīngxíng Tankè**.
+        - **ZTQ62** (China & USSR): Statcard name → **Hā'erbīn Dì Yī Jīxiè Jítuán | WZ131 | ZTQ1962 Shì Qīngxíng Tankè**.
             - Mandarin package: Statcard name → **哈尔滨第一机械集团 | WZ131 | ZTQ1962式轻型坦克**.
         - **IS-2 (1-j)** → **Sī 2 (1943)**. Statcard name → **Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ) | Sī 2 Zhòngxíng Tankè (1943)**.
             - Mandarin package: **IS-2 (1-j)** → **斯2 (1943)**. Statcard name → **Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ) | 斯2重型坦克 (1943)**.
@@ -475,6 +474,8 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin + Russian package: **SU-100** → **СУ-100**. Statcard name → **Уральский завод тяжёлого машиностроения им. С. Орджоникидзе (УЗТМ) | СУ-100自行火砲**.
         - **PLZ83**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | PLZ1983 Shì 155 Háomi Zìxíng Jiā Liúpào**.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | PLZ1983式152毫米自行加榴炮**.
+        - **M64** → **64 Shì**. Statcard name → **Lùjūn Gōngyìng Sīlìng Bù Bīng Gōng Shu | 64 Shì Zhànchē**.
+            - Mandarin package: **M64** → **64式**. Statcard name → **陆军供应司令部兵工署 | 64式戰車**.
         - **141 (1 Hào)**:
             - Mandarin package: **141 (1 Hào)** → **141 (1号)**. Statcard name → **装甲兵某研究所 | 141超轻型反坦克战车 (样车1号)**.
         - **ZBD86 (2020)**: Statcard name → **Čyelâbinskij traktornyj zavod im. V. I. Lyenina / Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ501 | ZBD1986 Shì Lǚdài Bùbīng Zhàn Chē (2020)**.
@@ -569,6 +570,19 @@ All dates are listed in DD-MM-YYYY format.
             - Full Mandarin package: **HQ17** → **ADK17**. Statcard name → **中国精密机械进出口总公司 | 红旗-17 | ADK17地對空导弹系統**.
         - **CS/SA5 (2022)**:
             - Mandarin package: Statcard name → **中国南方工业集团公司 + 中国兵器工业集团有限公司 | CS/SA5型30毫米轮式自行高炮 (2022)**.
+        - **211 / ␗ PT-76** (folder):
+            - Mandarin + Russian package: Folder name → **211 / ПТ-76**.
+        - **T-34 / M4A1** (folder) → **Tè 34 / M4A1**.
+            - Mandarin package: Folder name → **特34 / M4A1**.
+        - **T-34-85 / 85 (1960s)** (folder) → **Tè 34 (1944) / (1960)**.
+            - Mandarin package: Folder name → **特34 (1944) / (1960)**.
+        - **IS-2 (1-j) / (2-j)** (folder) → **Sī 2 (1943) / (1944)**.
+            - Mandarin package: Folder name → **斯2 (1943) / (1944)**.
+        - **ZTS63 (1980) / ZBD86** (folder) → **ZTS63 (1979) / ZBD86**.
+        - **ZTZ99 (Phase 1) / (Phase 2)** (folder) → **ZTZ99 (1 Qí) / (2 Qí)**.
+            - Mandarin package: Folder name → **ZTZ99 (一期) / (二期)**.
+        - **9A331 / HQ17** (folder) → **9A331 / ADK17**.
+        
     - **TH 400** → **H 400**. Statcard name → **Henschel Wehrtechnik H 400**. The gun model is still wrong though smh...
     - **F5**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | Chugyŏkgi 《F5》**.
     - **16MCV (C1) (15 Soku Ki)** → **16MCV (C1) (15RDR)**.

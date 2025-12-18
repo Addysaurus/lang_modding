@@ -93,7 +93,7 @@ weapons/gun_pk3l;<color=@userlogColoredText>7.62 mm</color> 6P6 | PK <color=#ff6
 weapons/gun_pk3/shortl;PK
 weapons/7_62mm_KT_user_machinegun;<color=@userlogColoredText>7.62 mm</color> KT-7,62 <color=#ff6f00>MG</color>
 weapons/12_7mm_KT_user_cannon;<color=@userlogColoredText>12.7 mm</color> KT-12,7 <color=#ff6f00>MG</color>
-weapons/25mm_79_110pm_naval_user_cannon;"Artillyerijskaâ ustanovka 2M-3
+weapons/25mm_79_110pm_naval_user_cannon;"Artillyerijskaâ ustanovka BL-120-I
 • <color=@userlogColoredText>25 mm</color> 25-mm Avtomata 110-PM <color=#ff6f00>ACNN</color>"
 weapons/30mm_2A42_BMPT_user_cannon;<color=@userlogColoredText>30 mm</color> 30-mm Avtomatičyeskaâ puška 2A42.00.000 <color=#ff6f00>ACNN</color>
 weapons/30mm_2a42_md_user_cannon;<color=@userlogColoredText>30 mm</color> 30-mm Avtomatičyeskij granatomyetnyj komplyeks AGS-30M.00.000 <color=#ff6f00>LCH-GRN</color>
@@ -102,9 +102,12 @@ weapons/57mm_ak_157_naval_user_cannon;"Artillyerijskaâ ustanovka AK-157
 weapons/57mm_ak_157_naval_user_cannon/short;ЗиФ-71
 weapons/100mm_2A70_BMP_autoloader_user_cannon;<color=@userlogColoredText>100 mm</color> 2A70 <color=#ff6f00>CNN</color>
 weapons/125mm_KBA_3_user_cannon;<color=@userlogColoredText>125 mm</color> KBA-3 <color=#ff6f00>CNN-LCH</color>
-weapons/130mm_58_bl_109a_naval_user_cannon;<color=@userlogColoredText>130 mm</color> 130-mm/58 Artillyerijskaâ ustanovka BL-109A <color=#ff6f00>CNN</color>
+weapons/130mm_58_bl_109a_naval_user_cannon;"Artillyerijskaâ ustanovka BL-109A
+• <color=@userlogColoredText>130 mm</color> 130-mm/58 Korabyel'naâ puška ZiF-68-1 <color=#ff6f00>CNN</color>"
 weapons/152mm_ML20S_user_cannon;<color=@userlogColoredText>152 mm</color> 52-PS-544S | ML-20S obr. 1937/43 gg. <color=#ff6f00>CNN-HWZ</color>
 weapons/305mm_52_obr1907_mariya_naval_user_cannon;<color=@userlogColoredText>305 mm</color> 305-mm/52 obr. 1907 g. <color=#ff6f00>CNN</color>
+weapons/305mm_62_sm_33_obr1948_naval_user_cannon;"Artillyerijskaâ ustanovka SM-31 obr. 1948 g.
+• <color=@userlogColoredText>305 mm</color> 305-mm/62 Kačaûŝimisâ častâmi SM-33 <color=#ff6f00>CNN</color>"
 weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color> 406-mm/50 B-37 obr. 1937 g. <color=#ff6f00>CNN</color>
 
 //UK GUNS
@@ -113,6 +116,7 @@ weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Den
 weapons/105mm_LRF_user_cannon;<color=@userlogColoredText>105 mm</color> Royal Ordnance Nottingham + Cadillac Gage 105 mm Low Recoil Force Tank Gun <color=#ff6f00>CNN</color>
 weapons/120mm_45_qf_mk9_single_naval_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, Q.F., 4.7-inch, Mk. IX <color=#ff6f00>CNN</color>
 weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredText>133 mm</color> Gun, Q.F., 5.25-inch, Mk. I <color=#ff6f00>CNN</color>
+weapons/356mm_45_14inch_mark7_naval_user_cannon;<color=@userlogColoredText>356 mm</color> Gun, B.L., 14-inch, Mk. VII <color=#ff6f00>CNN</color>
 
 //JAPAN GUNS
 weapons/cannonJM61A2;<color=@userlogColoredText>20 mm</color> JM61A2 <color=#ff6f00>RCNN</color>
@@ -620,6 +624,10 @@ weapons/su_rvv_sd_default;Aviaczionnaâ upravlâyemaâ rakyeta RVV-SD <color=#ff
 weapons/su_rvv_sd_default/short;RVV-SD
 weapons/su_grom_1;"9-A-7759 | Upravlâyemaâ rakyeta Kh-36 ""Grom-È1"" <color=#ff6f00>AGM-GNSS</color>"
 weapons/su_grom_1/short;"Kh-36 ""Grom-È1"""
+weapons/su_kh_38mle;Upravlâyemaâ rakyeta Kh-38MLÈ <color=#ff6f00>AGM-LG/GNSS</color>
+weapons/su_kh_38mle/short;Kh-38MLÈ
+weapons/su_kh_38mte;Upravlâyemaâ rakyeta Kh-38MTÈ <color=#ff6f00>AGM-IR/GNSS</color>
+weapons/su_kh_38mte/short;Kh-38MTÈ
 weapons/su_kh_59m;"izd. D-9M | Upravlâyemaâ rakyeta Kh-59M ""Ovod-M"" <color=#ff6f00>AGM-TV</color>"
 weapons/su_kh_59m/short;Kh-59M
 weapons/su_kh_59me;"izd. D-9MÈ | Upravlâyemaâ rakyeta Kh-59MÈ ""Ovod-MÈ"" <color=#ff6f00>AGM-TV</color>"
@@ -634,7 +642,7 @@ weapons/rocket_9m33_naval_rocket_launcher/short;ZIF-122
 weapons/360mm_9m317m_user_cannon;Puskovoye ustrojstvo 9P331M <color=#ff6f00>LCH</color>
 weapons/360mm_9m317m_user_cannon/short;9P331M
 360mm_9m317ma;9M317MA
-weapons/130mm_9M120_BMPT_launcher_user_cannon;"Komplyeksa upravlâyemogo vooružyeniâ  B07S1.01.000 ""Ataka-T"" <color=#ff6f00>LCH</color>"
+weapons/130mm_9M120_BMPT_launcher_user_cannon;"Komplyeksa upravlâyemogo vooružyeniâ B07S1.01.000 ""Ataka-T"" <color=#ff6f00>LCH</color>"
 130mm_9m120_1;9M120-1
 130mm_9m120_1f;9M120-1F
 

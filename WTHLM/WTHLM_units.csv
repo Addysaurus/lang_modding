@@ -1227,7 +1227,8 @@ shop/group/us_m46_m47_group;M46 / 47
 shop/group/us_mbt_xm_group;XM803 / MBT70
 shop/group/us_m48_m60_group;M48 / 60
 shop/group/us_m247_mim72_group;M247 / 48A2 GMSIA
-shop/group/us_sl_amraam_fcs_group;M1097A2 (AN/MPQ-64) / (SLAMRAAM)
+shop/group/us_sl_amraam_fcs_group;SLAMRAAM
+shop/group/us_nasams_fcs_group;▃◢ NASAMS 3
 shop/group/p-26_group;P-26A (1933) / B
 shop/group/tbd_group;TBD-1 / B-18
 shop/group/tbf_group;TBF-1 / SBD-3
@@ -1587,6 +1588,7 @@ shop/group/sw_strv_101_103a_group;strv 101 / 103A
 shop/group/sw_strv_104_103c_group;strv 104 / 103C
 shop/group/sw_strv_122_group;strv 122A / B (PLSS)
 shop/group/sw_lvkv_asrad_group;lvkv 9040C / ♛ M113A2 (ASRAD-R)
+shop/group/sw_nasams_fcs_group;◢ NASAMS 3
 shop/group/gladiator_j8a_group;J 8 A / 6 B
 shop/group/mosquito_norway_group;◢ Mosquito F.B. Mk. VI / VI (A.S.V. Mk. IV)
 shop/group/saab_b17a_group;B 17 B / A
@@ -3598,6 +3600,14 @@ us_sl_amraam_launcher_shop;M1097A2 (SLAMRAAM)
 us_sl_amraam_launcher_0;Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (Surface-Launched Advanced Medium-Range Air-to-Air Missile)
 us_sl_amraam_launcher_1;M1097A2 (SLAMRAAM)
 us_sl_amraam_launcher_2;SPAAM
+us_nasams_fcs_shop;M1097A2 (AN/MPQ-64)
+us_nasams_fcs_0;Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (AN/MPQ-64 Sentinel)
+us_nasams_fcs_1;M1097A2 (AN/MPQ-64)
+us_nasams_fcs_2;Radar
+us_nasams_launcher_shop;▃◢ P113H 380 (NASAMS 3)
+us_nasams_launcher_0;▃◢ Scania 3-Series P113H 380 6x2 (Norwegian Advanced Surface-to-Air Missile System 3)
+us_nasams_launcher_1;▃◢ P113H 380 (NASAMS 3)
+us_nasams_launcher_2;SPAAM
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 us_pt6_shop;PT-6
@@ -5787,7 +5797,7 @@ uk_battleship_rodney_0;Cammell Laird & Co. / Rosyth Dockyard | Nelson-class | HM
 uk_battleship_rodney_1;HMS Rodney
 uk_battleship_rodney_2;Battleship
 uk_battleship_prince_of_wales_shop;HMS Prince of Wales (53)
-uk_battleship_prince_of_wales_0;Cammell Laird & Co. / Cape Town Dockyard | King George V-class | HMS Prince of Wales (53)
+uk_battleship_prince_of_wales_0;Cammell Laird & Co. / Cape Town Dockyard | King George V-class | HMS Prince of Wales (53) (1941)
 uk_battleship_prince_of_wales_1;HMS Prince of Wales
 uk_battleship_prince_of_wales_2;Battleship
 
@@ -7887,6 +7897,14 @@ sw_eldenhet_98_shop;elde 98 (Giraffe 1X)
 sw_eldenhet_98_0;BAE Systems Hägglunds | eldenhet 98 (Giraffe 1X)
 sw_eldenhet_98_1;elde 98
 sw_eldenhet_98_2;SPAAM
+sw_nasams_fcs_shop;300 GD (AN/MPQ-64)
+sw_nasams_fcs_0;Mercedes-Benz G-Class 300 GD (AN/MPQ-64 Sentinel)
+sw_nasams_fcs_1;300 GD (AN/MPQ-64)
+sw_nasams_fcs_2;Radar
+sw_nasams_launcher_shop;◢ P113H 380 (NASAMS 3)
+sw_nasams_launcher_0;◢ Scania 3-Series P113H 380 6x2 (Norwegian Advanced Surface-to-Air Missile System 3)
+sw_nasams_launcher_1;◢ P113H 380 (NASAMS 3)
+sw_nasams_launcher_2;SPAAM
 
 //SWEDEN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 

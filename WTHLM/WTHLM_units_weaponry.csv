@@ -190,6 +190,7 @@ weapons/60mm_hvms_user_cannon;<color=@userlogColoredText>60 mm</color> 60 mm Hyp
 155mm_t152;T152E5
 155_mm_t267;T267
 203mm_m106;M106
+406mm_mk8_mod0_apcbc;"16"" A.P. Mk 8 Mod 0"
 406mm_mk8_mod6_apcbc;"16"" A.P. Mk 8 Mod 6"
 
 //GERMANY AMMUNITION
@@ -230,6 +231,8 @@ t_ball_t_38/name/short;T
 76mm_obr1915_hetf;OF obr. 1915 g.
 122mm_3vdcz3;3VDCz3
 125mm_3of_82;3VOF128
+305mm_sm_33_he;PB obr. 1948 g.
+305mm_sm_33_ap;BR obr. 1948 g.
 406mm_obr1915_28_sapcbc;PB obr. 1915/28 gg.
 406mm_obr1915_28_apcbc;BR obr. 1915/28 gg.
 
@@ -240,7 +243,9 @@ b_mk_1z/name/short;I
 57mm_qf_he;H.E.T., 6-pr. 6-cwt., Mk. I
 102mm_33_he;4 inch HE
 152mm_45_he_dist_fuse;6 inch HE
-381mm_mark_22b_6crh_apc;A.P.C., 15-inch, 6-crh., Mk. XXIIb
+356mm_mark_5b_6crh_he;A.P.C., 14-inch 6-crh, Mk. Ib, N.T.
+356mm_mark_1b_6crh_apc;H.E., 14-inch 6-crh, Mk. Vb
+381mm_mark_22b_6crh_apc;A.P.C., 15-inch 6-crh., Mk. XXIIb
 
 //JAPAN AMMUNITION
 37mm_type_94_he;3.7 Sanchi 94 Shiki Tsūjō Dan
@@ -578,8 +583,10 @@ weapons/127mm_bgm_71c_itow_rocket_launcher;Ground-Launched, Surface-Attack, Guid
 weapons/127mm_bgm_71c_itow_rocket_launcher/short;BGM-71C
 weapons/127mm_iTOW_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233 <color=#ff6f00>LCH</color>
 weapons/127mm_BGM_71_tow_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233 <color=#ff6f00>LCH</color>
-weapons/rocket_mk11_naval_rocket_launcher;Guided Missile Launching System Mk 11 Mod 0 <color=#ff6f00>LCH</color>
+weapons/rocket_mk11_naval_rocket_launcher;Launcher System, Guided Missile, Mk 11 Mod 0 <color=#ff6f00>LCH</color>
 weapons/rocket_mk11_naval_rocket_launcher/short;Mk 11 Mod 0
+weapons/rocket_mk13_naval_rocket_launcher;Launcher System, Guided Missile, Mk 13 Mod 0 <color=#ff6f00>LCH</color>
+weapons/rocket_mk13_naval_rocket_launcher/short;Mk 13 Mod 0
 
 //GERMANY MISSILES
 weapons/de_x4_ruhrstahl;X 4 <color=#ff6f00>AAM-WG</color>

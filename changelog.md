@@ -590,12 +590,16 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Line of Contact" additions:
         - **105 mm M35 cannon**
         - **NASAMS 3 SAM** (launcher)
+        - **Mk.13**
         - **AMRAAM-ER**
+        - **16 inch Mk.8 Mod.0 APCBC**
         - **KE-W A2**
         - **25 mm 110-PM gun**
         - **30 mm 2A42 automatic cannon** (new one for the **BMPT**)
-        - **30 mm HEI-PD**
         - **130 mm/58 gun patt. 1957**
+        - **30 mm HEI-PD**
+        - **12 inch SAPCBC**
+        - **12 inch APCBC**
         - **KAB-250LG-E**
         - **KAB-500LG-E**
         - **KAB-1500LG-E**
@@ -611,6 +615,8 @@ All dates are listed in DD-MM-YYYY format.
         - **9M120-1F**
         - **9M120 ATGM** (launcher)
         - **14 inch/45 Mark VII cannon**
+        - **14 inch APC Mark 1b**
+        - **14 inch Mark Vb HE**
         - **90 mm Type 61 (B) Cannon**
         - **Type 03 SAM**
         - **Type 03** (the missile for the Type 03 SAM launcher)
@@ -626,13 +632,17 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Line of Contact" changes:
         - **105 mm M35 cannon** → **Gun, 105mm, M35**.
         - **NASAMS 3 SAM** (launcher) → **Norwegian Advanced Surface-to-Air Missile System 3** (Gaijin gave America the Norwegian one so it works).
+        - **Mk.13** → **Mk 13 Mod 0**. Long name → **Launcher System, Guided Missile, Mk 13 Mod 0**.
         - **AMRAAM-ER**:
             - Full Ammunition Names package: **AMRAAM-ER** → **AMRAAM Extended Range**.
+        - **16 inch Mk.8 Mod.0 APCBC** → **16" A.P. Mk 8 Mod 0**.
         - **25 mm 110-PM gun** → **Artillyerijskaâ ustanovka BL-120-I** mount with **25-mm Avtomata 110-PM** gun.
         - **30 mm 2A42 automatic cannon** → **30-mm Avtomatičyeskaâ puška 2A42.00.000** (I know this format of .00.000 and whatnot is weird, it seems to be in consistent in what has it so I'm going just off of where I can find it in manuals).
+        - **130 mm/58 gun patt. 1957** → **Artillyerijskaâ ustanovka BL-109A** with **130-mm/58 Korabyel'naâ puška ZiF-68-1** gun. Idk if this is right, this is an evil nightmare hell gun that keeps me up at night.
         - **30 mm HEI-PD** → **3UOF23**.
             - Full Ammunition Names package: **30 mm HEI-PD** → **3UOF23 (3OF23)**.
-        - **130 mm/58 gun patt. 1957** → **Artillyerijskaâ ustanovka BL-109A** with **130-mm/58 Korabyel'naâ puška ZiF-68-1** gun. Idk if this is right, this is an evil nightmare hell gun that keeps me up at night.
+        - **12 inch SAPCBC** → **PB obr. 1948 g.**. The names of these are unknown, but this is a *very* rough approximation.
+        - **12 inch APCBC** → **BR obr. 1948 g.**.
         - **305 mm/62 SM-31 cannon** → **Artillyerijskaâ ustanovka SM-31 obr. 1948 g.** with **305-mm/62 Kačaûŝimisâ častâmi SM-33** gun. Soviet guns are hell idk if this is right either but I'm more confident on this than the BL-109A.
         - **AK-175** → **ZiF-71**. Long name → **Artillyerijskaâ ustanovka AK-157** mount with **57-mm Odnoorudijnaâ palubnaâ ustanovka ZiF-71** gun.
         - **R-40RD**: Statcard name → **izd. 46RD | Aviaczionnaâ upravlâyemaâ rakyeta R-40RD**.
@@ -652,6 +662,10 @@ All dates are listed in DD-MM-YYYY format.
             - Full Ammunition Names package: **9M120-1F** → **Protivotankovaâ upravlâyemaâ rakyetu 9M120-1F**.
         - **9M120 ATGM** → **Komplyeksa upravlâyemogo vooružyeniâ B07S1.01.000 "Ataka-T"**.
         - **14 inch/45 Mark VII cannon** → **Gun, B.L., 14-inch, Mk. VII**.
+        - **14 inch APC Mark 1b** → **A.P.C., 14-inch 6-crh, Mk. Ib, N.T.**. This and the next shell are called this and not their cartridge names because I cannot find the cartridge names. If you have Textbook of Ammunition 1944 Phamphlets No. 1, 2, 3, or 4, please contact me.
+            - Full Ammunition Names package: **14 inch APC Mark 1b** → **Shell, B.L., A.P.C., 14-inch 6-crh., Mk. Ib, N.T.**.
+        - **14 inch Mark Vb HE** → **H.E., 14-inch 6-crh, Mk. Vb**.
+            - Full Ammunition Names package: **14 inch Mark Vb HE** → **Shell, B.L., H.E., 14-inch 6-crh., Mk. Vb**.
         - **90 mm Type 61 (B) Cannon** → **61 Shiki 90mm Sensha Hō C Gata**.
             - Japanese package: **90 mm Type 61 (B) Cannon** → **61式90mm戦車砲C型**.
         - **Type 03 SAM** (launcher) → **03 Shiki Chūkyorichi Taikū Yūdōdan Hassha Sōchi**.
@@ -679,6 +693,9 @@ All dates are listed in DD-MM-YYYY format.
     - **Kh-36 (A1)** → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 "Grom-È2"**.
     - **30 mm AG-30M automatic grenade launcher** → **30-mm Avtomatičyeskij granatomyetnyj komplyeks AGS-30M.00.000**.
     - **KE-W A1** → **KE-W**.
+    - **A.P.C., 15-inch, 6-crh., Mk. XXIIb** → **A.P.C., 15-inch 6-crh., Mk. XXIIb**.
+        - Full Ammunition Names package: **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb** → **Shell, B.L., A.P.C., 15-inch 6-crh., Mk. XXIIb**.
+    - **Mk 11 Mod 0**: Long name → **Launcher System, Guided Missile, Mk 11 Mod 0**.
 
 ### Modifications:
 

@@ -378,8 +378,8 @@ All dates are listed in DD-MM-YYYY format.
             - Full Mandarin package: **L/Z10 (2018)** → **直10 (2018)**. Statcard name → **昌河飞机工业 (集团) | 直10型武装直升机 (2018)**.
         - **AH-64E (v6)**: Statcard name → **Boeing Defense, Space & Security | AH-64E Zhàndòu Zhíshēngjī (Capability Version 6)**.
             - Mandarin package: Statcard name → **Boeing Defense, Space & Security | AH-64E戰鬥直升機 (Capability Version 6)**.
-        - **M8 LAC** → **M8**. Statcard name → **Ford Motor Company G-136 | M8 Zhuāngjia Chē**.
-            - Mandarin package: **M8 LAC** → **M8**. Statcard name → **Ford Motor Company G-136 | M8裝甲車**.
+        - **M8 LAC** → **M8**. Statcard name → **Ford Motor Company | M8 Zhuāngjia Chē**.
+            - Mandarin package: **M8 LAC** → **M8**. Statcard name → **Ford Motor Company | M8裝甲車**.
         - **T-26 (1937)** → **Tè 26 (1937)**. Statcard name → **Vickers-Armstrongs / Opytno-konstruktorskij myekhaničyeskij otdyel | Tè 26 Qīngxíng Zhànchē (1937)**.
             - Mandarin package: **T-26 (1937)** → **特26 (1937)**. Statcard name → **Vickers-Armstrongs / Opytno-konstruktorskij myekhaničyeskij otdyel | 特26轻型戰車 (1937)**.
             - Mandarin + Russian package: **T-26 (1937)** → **特26 (1937)**. Statcard name → **Vickers-Armstrongs / Опытно-конструкторский механический отдел | 特26轻型戰車 (1937)**.

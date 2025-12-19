@@ -1343,7 +1343,7 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **CF-188A** (UK / Canada): Statcard name → **McDonnell Douglas Corporation Model 267 | CF-188A Hornet**.
         - **F-5TH TCU** (Japan / Thailand) → **B.Kh.18Kh (2014)**. Statcard name → **Northrop Corporation F-5-21 / Elbit Systems F-5TH Super Tigris | Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh (2014)**.
             - Thai package: **F-5TH TCU** → **บ.ข.๑๘ข (2014)**. Statcard name → **เครื่องบินขับไล่แบบที่ ๑๘ข (2014)**.
-        - **Qing-6** → **Qīng 6**. Statcard name → **Gosudarstvyennyj soûznyj opytnyj zavod № 49 / Zhōngguó Tèzhǒng Fēixíngqì Yánjiū Suo | Qīng 6 Xíng Fēijī**.
+        - **Qing-6** → **Qīng 6**. Statcard name → **Gosudarstvyennyj soûznyj opytnyj zavod № 49 / Zhōngguó Tèzhong Fēixíngqì Yánjiū Suo | Qīng 6 Xíng Fēijī**.
         - **Mosquito F.Mk.II** → **Mosquito F. Mk. II**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito F. Mk. II**.
         - **Mosquito FB Mk VI** → **Mosquito F.B. Mk. VI**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI**.
         - **Mosquito FB Mk VI ASH** → **Mosquito F.B. Mk. VI (A.S.V. Mk. IX)**. Statcard name → **de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI (A.S.V. Mk. IX)**.
@@ -2158,8 +2158,8 @@ I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu
         - **IJN Yamato** → **Yamato**. Statcard name → **Kure Kaigun Kōshō | Yamato Gata Senkan (A-140F6) | Yamato (1945)**.
             - Japanese package: Short name → **大和**. Statcard name → **呉海軍工廠 | 大和型戦艦 (A-140F6) | 大和 (1945)**.
         - **CS/SA5** → **CS/SA5 (2022)**. Statcard name → **Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī + Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | CS/SA5 Xíng 30 Háomi Lún Shì Zì Háng Gāo Pào (2022)**.
-        - **Z-10ME** → **Z10ME-02**. Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10ME-02 Xíng Wǔzhuāng Zhíshēngjī**.
-        - **Z-10A** → **L/Z10 (2018)**. Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | L/Z10 Xíng Wǔzhuāng Zhíshēngjī (2018)**. The "L/" is because of the current Chinese rework in development. That is going to be applied to more stuff later but this is new and I am going to get it right now.
+        - **Z-10ME** → **Z10ME-02**. Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10ME-02 Xíng Wuzhuāng Zhíshēngjī**.
+        - **Z-10A** → **L/Z10 (2018)**. Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | L/Z10 Xíng Wuzhuāng Zhíshēngjī (2018)**. The "L/" is because of the current Chinese rework in development. That is going to be applied to more stuff later but this is new and I am going to get it right now.
         - **MiG-29 Sniper**: Statcard name → **Mikoấn i Guryévič / Aerostar + Elbit Systems | MiG-29 Sniper**.
         - **Leopard 1A2** (Italy) → **Leopard 1 A2**. Statcard name → **Krauss-Maffei Wegmann | Carro Armato da Combattimento Leopard 1 Versione A2**.
         - **RN Roma** → **Roma**. Statcard name → **Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma (1943)**.

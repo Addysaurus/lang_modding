@@ -559,8 +559,8 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: Statcard name → **武汉高德红外 | QN506多武器战斗车辆**.
         - **VT5BD** → **VT5**. Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT5 Qīngxíng Tankè**.
             - Mandarin package: **VT5BD** → **VT5**. Statcard name → **中国兵器工业集团有限公司 | VT5轻型坦克**.
-        - **al-Khālid I**: Statcard name → **China North Industries Corporation / Heavy Industries Taxila | al-Khālid I**.
-            - Mandarin package: Statcard name → **中国北方工业公司 / Heavy Industries Taxila | al-Khālid I**.
+        - **al-Khālid I**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī / Hēvī Inḍasṭrīz Ṭaksalā | al-Khālid I Ṭaink**.
+            - Mandarin package: Statcard name → **中国北方工业公司 / Hēvī Inḍasṭrīz Ṭaksalā | al-Khālid I Ṭaink**.
         - **WZ123A(Y)**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ123A(Y)**.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ123A(Y)**.
         - **9A331-1**: Statcard name → **Naučno-proizvodstvyennoye ob""yedinyeniye Antyej | Boyevaâ mašina 9A331-1**.

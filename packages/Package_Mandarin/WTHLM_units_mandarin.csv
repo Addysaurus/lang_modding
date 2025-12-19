@@ -692,6 +692,10 @@ cn_pgz_09_shop;PGZ09
 cn_pgz_09_0;中国兵器工业集团有限公司 | PGZ2009式双35毫米自行高炮
 cn_pgz_09_1;PGZ09
 cn_pgz_09_2;SPAAG
+cn_pgz_04a_shop;PGZ04A
+cn_pgz_04a_0;中国兵器工业集团有限公司 | WA717A | PGZ2004A式四管25毫米履带自行高炮
+cn_pgz_04a_1;PGZ04A
+cn_pgz_04a_2;SPAAG/M
 cn_cm_25_shop;CM25
 cn_cm_25_0;陆军兵工整备发展中心 | CM25拖式飛彈車
 cn_cm_25_1;CM25
@@ -707,7 +711,7 @@ cn_ptl_02_2;Light tank
 cn_hj_9_shop;AFT09
 cn_hj_9_0;中国兵器工业集团有限公司 | HJ-9 | AFT09重型反坦克导弹发射车
 cn_hj_9_1;AFT09
-cn_hj_9_2;ATGMC
+cn_hj_9_2;ATMC
 cn_cm_34_shop;CM34
 cn_cm_34_0;Timoney Technology + 工業技術研究院 | CM34輪型戰鬥車
 cn_cm_34_1;CM34
@@ -726,14 +730,14 @@ cn_mbt2000_shop;MBT-2000
 cn_mbt2000_0;中国兵器工业集团有限公司 | BW123A | MBT-2000
 cn_mbt2000_1;MBT-2000
 cn_mbt2000_2;MBT
-cn_vt_4b_shop;VT4A1
-cn_vt_4b_0;中国兵器工业集团有限公司 | VT4A1主战坦克
-cn_vt_4b_1;VT4A1
-cn_vt_4b_2;MBT
 cn_vt_4_shop;VT4
 cn_vt_4_0;中国兵器工业集团有限公司 | VT4主战坦克
 cn_vt_4_1;VT4
 cn_vt_4_2;MBT
+cn_vt_4b_shop;VT4A1
+cn_vt_4b_0;中国兵器工业集团有限公司 | VT4A1主战坦克
+cn_vt_4b_1;VT4A1
+cn_vt_4b_2;MBT
 cn_ztz_99_shop;ZTZ99 (一期)
 cn_ztz_99_0;中国兵器工业集团有限公司 | WZ123 | ZTZ1999式主战坦克 (一期)
 cn_ztz_99_1;ZTZ99
@@ -746,22 +750,18 @@ cn_ztz_99a_shop;ZTZ99A
 cn_ztz_99a_0;中国兵器工业集团有限公司 | WZ1001 | ZTZ1999A式主战坦克
 cn_ztz_99a_1;ZTZ99A
 cn_ztz_99a_2;MBT
-cn_pgz_04a_shop;PGZ04A
-cn_pgz_04a_0;中国兵器工业集团有限公司 | WA717A | PGZ2004A式四管25毫米履带自行高炮
-cn_pgz_04a_1;PGZ04A
-cn_pgz_04a_2;SPAAG/M
 cn_antelope_tc_1l_ads_shop;劍一防飛系
 cn_antelope_tc_1l_ads_0;國家中山科學研究院 | 車載劍一防空飛彈系統
 cn_antelope_tc_1l_ads_1;劍一防飛系
 cn_antelope_tc_1l_ads_2;SPAAM
-cn_zbd_04a_shop;ZBD04A
-cn_zbd_04a_0;中国兵器工业集团有限公司 | WZ502G | ZBD2004A式履带步兵战车
-cn_zbd_04a_1;ZBD04A
-cn_zbd_04a_2;IFV
 cn_ztl_11_shop;ZLT11
 cn_ztl_11_0;中国兵器工业集团有限公司 | ZLT2011式轮式装甲突击车
 cn_ztl_11_1;ZLT11
 cn_ztl_11_2;Light tank
+cn_zbd_04a_shop;ZBD04A
+cn_zbd_04a_0;中国兵器工业集团有限公司 | WZ502G | ZBD2004A式履带步兵战车
+cn_zbd_04a_1;ZBD04A
+cn_zbd_04a_2;IFV
 cn_qn506_shop;QN506
 cn_qn506_0;武汉高德红外 | QN506多武器战斗车辆
 cn_qn506_1;QN506
@@ -770,6 +770,10 @@ cn_vt_5_shop;╷ VT5
 cn_vt_5_0;╷ 中国兵器工业集团有限公司 | VT5轻型坦克
 cn_vt_5_1;╷ VT5
 cn_vt_5_2;Light tank
+cn_al_khalid_1_shop;al-Khālid I
+cn_al_khalid_1_0;中国北方工业公司 / Hēvī Inḍasṭrīz Ṭaksalā | al-Khālid I Ṭaink
+cn_al_khalid_1_1;al-Khālid I
+cn_al_khalid_1_2;MBT
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 cn_wz_1001_shop;WZ123A(Y)

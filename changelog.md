@@ -653,7 +653,7 @@ All dates are listed in DD-MM-YYYY format.
         - **KAB-1500LG-E** → **KAB-1500LG-È**. Statcard name → **Korryektiruyemaâ aviaczionnaâ bomba KAB-1500LG-È**.
         - **UPAB-500B-E** → **UPAB-500B-È**. Statcard name → **K08BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-500B-È**.
         - **UPAB-1500B-E** → **UPAB-1500B-È**. Statcard name → **K029BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-1500B-È**.
-        - **Grom-E2** (the new one) → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 "Grom-È2"**.
+        - **Grom-E2** (the new one) → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Planiruûŝij upravlâyemyj boyepripas Kh-36 "Grom-È2"**.
         - **Kh-38MLE** → **Kh-38MLÈ**. Statcard name → **Upravlâyemaâ rakyeta Kh-38MLÈ**.
         - **Kh-38MTE** → **Kh-38MTÈ**. Statcard name → **Upravlâyemaâ rakyeta Kh-38MTÈ**.
         - **9M120-1**:
@@ -690,7 +690,7 @@ All dates are listed in DD-MM-YYYY format.
     - **JAGM-MR (IR)**: Long name → **Joint Air-to-Ground Missile-Medium Range**. The guidance type was removed from the long name because it's pointless since the type tag has it anyway.
     - **JAGM-MR (SAL)**: Long name → **Joint Air-to-Ground Missile-Medium Range**. The guidance type was removed from the long name because it's pointless since the type tag has it anyway.
     - **Kh-36 (A)** → **Kh-36 "Grom-È1"**. Statcard name → **9-A-7759 | Upravlâyemaâ rakyeta Kh-36 "Grom-È1"**.
-    - **Kh-36 (A1)** → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Korryektiruyemaâ aviaczionnaâ bomba Kh-36 "Grom-È2"**.
+    - **Kh-36 (A1)** → **Kh-36 "Grom-È2"**. Statcard name → **9-A1-7759 | Planiruûŝij upravlâyemyj boyepripas Kh-36 "Grom-È2"**.
     - **30 mm AG-30M automatic grenade launcher** → **30-mm Avtomatičyeskij granatomyetnyj komplyeks AGS-30M.00.000**.
     - **KE-W A1** → **KE-W**.
     - **A.P.C., 15-inch, 6-crh., Mk. XXIIb** → **A.P.C., 15-inch 6-crh., Mk. XXIIb**.

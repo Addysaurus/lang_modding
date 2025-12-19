@@ -341,8 +341,8 @@ All dates are listed in DD-MM-YYYY format.
         - **DB-3A / SB 2M-103U** (folder) → **D.B.3 / C.B. (M-103U)**.
             - Mandarin + Russian package: Folder name → **D.B.3 / C.B. (М-103У)**.
         - **MiG-9 / I-307** (folder) → **Migé 9 / I-307**.
-            - Mandarin package: Folder name → **米格9 / ␗ I-307**.
-            - Mandarin + Russian package: Folder name → **米格9 / ␗ И-307**.
+            - Mandarin package: Folder name → **米格9 / I-307**.
+            - Mandarin + Russian package: Folder name → **米格9 / И-307**.
         - **MiG-15bis / 17** (folder) → **Migé 15 Bisī / 17**.
             - Mandarin package: Folder name → **米格15比斯 / 17**.
         - **J6A / 7B** (folder) → **J6A / 7II**.
@@ -570,7 +570,7 @@ All dates are listed in DD-MM-YYYY format.
             - Full Mandarin package: **HQ17** → **ADK17**. Statcard name → **中国精密机械进出口总公司 | 红旗-17 | ADK17地對空导弹系統**.
         - **CS/SA5 (2022)**:
             - Mandarin package: Statcard name → **中国南方工业集团公司 + 中国兵器工业集团有限公司 | CS/SA5型30毫米轮式自行高炮 (2022)**.
-        - **211 / ␗ PT-76** (folder):
+        - **211 / PT-76** (folder):
             - Mandarin + Russian package: Folder name → **211 / ПТ-76**.
         - **T-34 / M4A1** (folder) → **Tè 34 / M4A1**.
             - Mandarin package: Folder name → **特34 / M4A1**.

@@ -12,18 +12,43 @@ modification/su_fab_500_us_mk83/desc;"Loadout unlocked: 508.3 kg <color=@userlog
 Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bomb."
 
 //MISSILES
+modification/su_rvv_sd;РВВ-СД
+modification/su_rvv_sd/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-170Е</color> pylon:
+  • <color=@userlogColoredText>РВВ-СД</color> <color=#ff6f00>AAM-ARH</color>
+
+modification/su_x29te_x59m;Х-29ТЭ / 59М
+modification/su_x29te_x59m/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-58-1</color> pylon:
+  • <color=@userlogColoredText>Х-29ТЭ</color> <color=#ff6f00>AGM-EO</color>
+  • <color=@userlogColoredText>Х-59М</color> <color=#ff6f00>AGM-TV</color>"
+
+modification/su_grom;Х-36 «Гром-Э2»
+modification/su_grom/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-58А</color> pylon:
+  • <color=@userlogColoredText>Х-36 «Гром-Э2»</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/su_grom_e;Х-36 «Гром-Э2»
+modification/su_grom_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-58А</color> pylon:
+  • <color=@userlogColoredText>Х-36 «Гром-Э2»</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/su_x38ml_e;Х-38МЛЭ
+modification/su_x38ml_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-58-1</color> pylon:
+  • <color=@userlogColoredText>Х-38МЛЭ</color> <color=#ff6f00>AGM-LG/GNSS</color>"
+
+modification/su_x38mt_e;Х-38МТЭ
+modification/su_x38mt_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-58-1</color> pylon:
+  • <color=@userlogColoredText>Х-38МТЭ</color> <color=#ff6f00>AGM-IR/GNSS</color>"
+
 modification/su_lmur;Х-39
 modification/su_lmur/desc;"Loadout unlocked:
 • <color=@userlogColoredText>АПУ-Л</color> pylon:
   • <color=@userlogColoredText>Х-39</color> <color=#ff6f00>AGM-IR/GNSS</color> x2"
 
-modification/su_x29te_x59m;Х-29ТЭ / 59М
-modification/su_x29te_x59m/desc;"Loadout unlocked:
-• <color=@userlogColoredText>AKU-58-1</color> pylon:
-  • <color=@userlogColoredText>Х-29ТЭ</color> <color=#ff6f00>AGM-EO</color> x1
-  • <color=@userlogColoredText>Х-59М</color> <color=#ff6f00>AGM-TV</color> x1"
-
 modification/su_kh_59;Х-59МЭ
 modification/su_kh_59/desc;"Loadout unlocked:
 • <color=@userlogColoredText>АКУ-58-1</color> pylon:
-  • <color=@userlogColoredText>Х-59МЭ</color> <color=#ff6f00>AGM-TV</color> x1"
+  • <color=@userlogColoredText>Х-59МЭ</color> <color=#ff6f00>AGM-TV</color>"

@@ -244,16 +244,41 @@ modification/flz_lwf_lb_66;Flz.Lwf. LB 66
 modification/flz_lwf_lb_66/desc;"Loadout unlocked: <color=@userlogColoredText>Flz.Lwf. LB 66 ""NORAS""</color> radio-guided air-to-ground missile."
 
 //USSR MISSILES
-modification/su_lmur;Kh-39
-modification/su_lmur/desc;"Loadout unlocked:
-• <color=@userlogColoredText>APU-L</color> pylon:
-  • <color=@userlogColoredText>Kh-39</color> <color=#ff6f00>AGM-IR/GNSS</color> x2"
+modification/su_rvv_sd;RVV-SD
+modification/su_rvv_sd/desc;"Loadout unlocked:
+• <color=@userlogColoredText>AKU-170Ye</color> pylon:
+  • <color=@userlogColoredText>RVV-SD</color> <color=#ff6f00>AAM-ARH</color>
 
 modification/su_x29te_x59m;Kh-29TÈ / 59M
 modification/su_x29te_x59m/desc;"Loadout unlocked:
 • <color=@userlogColoredText>AKU-58-1</color> pylon:
   • <color=@userlogColoredText>Kh-29TÈ</color> <color=#ff6f00>AGM-EO</color>
   • <color=@userlogColoredText>Kh-59M</color> <color=#ff6f00>AGM-TV</color>"
+
+modification/su_grom;"Kh-36 ""Grom-È2"""
+modification/su_grom/desc;"Loadout unlocked:
+• <color=@userlogColoredText>AKU-58A</color> pylon:
+  • <color=@userlogColoredText>Kh-36 ""Grom-È2""</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/su_grom_e;"Kh-36 ""Grom-È2"""
+modification/su_grom_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>AKU-58A</color> pylon:
+  • <color=@userlogColoredText>Kh-36 ""Grom-È2""</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/su_x38ml_e;Kh-38MLÈ
+modification/su_x38ml_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>AKU-58-1</color> pylon:
+  • <color=@userlogColoredText>Kh-38MLÈ</color> <color=#ff6f00>AGM-LG/GNSS</color>"
+
+modification/su_x38mt_e;Kh-38MTÈ
+modification/su_x38mt_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>AKU-58-1</color> pylon:
+  • <color=@userlogColoredText>Kh-38MTÈ</color> <color=#ff6f00>AGM-IR/GNSS</color>"
+
+modification/su_lmur;Kh-39
+modification/su_lmur/desc;"Loadout unlocked:
+• <color=@userlogColoredText>APU-L</color> pylon:
+  • <color=@userlogColoredText>Kh-39</color> <color=#ff6f00>AGM-IR/GNSS</color> x2"
 
 modification/su_kh_59;Kh-59MÈ
 modification/su_kh_59/desc;"Loadout unlocked:

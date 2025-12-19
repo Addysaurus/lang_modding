@@ -229,7 +229,7 @@ All dates are listed in DD-MM-YYYY format.
         - **La-9** → **Lā 9**. Statcard name → **Opytno-konstruktorskoye bûro № 301 | Lā 9 Xíng Fēijī**.
             - Mandarin package: **La-9** → **拉9**. Statcard name → **Opytno-konstruktorskoye bûro № 301 | 拉9型飞机**.
             - Mandarin + Russian package: **La-9** → **拉9**. Statcard name → **Опытно-конструкторское бюро № 301 | 拉9型飞机**.
-        - **IL-10 (1947)** → **Yīer 10**. Statcard name → **Opytno-konstruktorskoye bûro № 39 | Yīer 10 Xíng Fēijī**.
+        - **IL-10 (1947)** → **Yīěr 10**. Statcard name → **Opytno-konstruktorskoye bûro № 39 | Yīěr 10 Xíng Fēijī**.
             - Mandarin package: **IL-10 (1947)** → **伊尔10**. Statcard name → **Opytno-konstruktorskoye bûro № 39 | 伊尔10型飞机**.
             - Mandarin + Russian package: **IL-10 (1947)** → **伊尔10**. Statcard name → **Опытно-конструкторское бюро № 39 | 伊尔10型飞机**.
         - **P4Y-2**: Statcard name → **Consolidated Aircraft Corporation | P4Y-2 Xíng Xúnluó Jī**.
@@ -264,7 +264,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Tu-4** → **Dù 4**. Statcard name → **Opytno-konstruktorskoye bûro № 156 | Dù 4 Xíng Fēijī**.
             - Mandarin package: **Tu-4** → **杜4**. Statcard name → **Opytno-konstruktorskoye bûro № 156 | 杜4型飞机**.
             - Mandarin + Russian package: **Tu-4** → **杜4**. Statcard name → **Опытно-конструкторское бюро № 156 | 杜4型飞机**.
-        - **Il-28** → **Yīer 28 (1947)**. Statcard name → **Opytno-konstruktorskoye bûro № 39 | Yīer 28 Xíng Fēijī (1947)**.
+        - **Il-28** → **Yīěr 28 (1947)**. Statcard name → **Opytno-konstruktorskoye bûro № 39 | Yīěr 28 Xíng Fēijī (1947)**.
             - Mandarin package: **Il-28** → **伊尔28 (1947)**. Statcard name → **Opytno-konstruktorskoye bûro № 39 | 伊尔28型飞机 (1947)**.
             - Mandarin + Russian package: **Il-28** → **伊尔28 (1947)**. Statcard name → **Опытно-конструкторское бюро № 39 | 伊尔28型飞机 (1947)**.
         - **F-100A-16-NA**: Statcard name → **North American Aviation NA-192 | F-100A-16-NA Xíng Zhàndòu Jī "Chāojí Jūndāo Jī"**.
@@ -302,9 +302,9 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: Statcard name → **Northrop Corporation N-156F | F-5A-25-NO型戰鬥機**.
         - **F-5E**: Statcard name → **Northrop Corporation F-5-21 / Hàn Xiáng Hángkōng Gōngyè | F-5E Xíng Zhōngzhèng Hào Zhàndòu Jī**.
             - Mandarin package: Statcard name → **Northrop Corporation F-5-21 / 漢翔航空工業 | F-5E型中正號戰鬥機**.
-        - **J8B** → **K/JJ8B**. Statcard name → **Shenyáng Fēijī Gōngyè (Jítuán) | K/JJ8B Xíng Fēijī**.
+        - **J8B** → **K/JJ8B**. Statcard name → **Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ8B Xíng Fēijī**.
             - Mandarin package: **J8B** → **K/JJ8B**. Statcard name → **沈阳飞机工业 (集团) | K/JJ8B型飞机**.
-        - **J8F** → **K/JJ8F**. Statcard name → **Shenyáng Fēijī Gōngyè (Jítuán) | K/JJ8F Xíng Fēijī**.
+        - **J8F** → **K/JJ8F**. Statcard name → **Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ8F Xíng Fēijī**.
             - Mandarin package: **J-8F** → **K/JJ8F**. Statcard name → **沈阳飞机工业 (集团) | K/JJ8F型飞机**.
         - **H/JJH7**:
             - Mandarin package: Statcard name → **西安飞机工业 (集团) | H/JJH7型飞机 "飞豹"**.
@@ -320,13 +320,13 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: **J10A** → **K/JJ10A**. Statcard name → **成都飞机工业 (集团) | K/JJ10A型飞机 "猛龙"**.
         - **Huànxiàng 2000-5** → **M-2000-5**. Statcard name → **Dassault Aviation | M-2000-5 Xíng Zhàndòu Jī**.
             - Mandarin package: **Huànxiàng 2000-5** → **M-2000-5**. Statcard name → **Dassault Aviation | M-2000-5型戰鬥機**.
-        - **Su-27SK** → **K/JJ11**. Statcard name → **PAO «Kompaniâ „Sukhoj“» / Shenyáng Fēijī Gōngyè (Jítuán) | K/JJ11 Xíng Fēijī "Yìng Lóng"**.
+        - **Su-27SK** → **K/JJ11**. Statcard name → **PAO «Kompaniâ „Sukhoj“» / Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ11 Xíng Fēijī "Yìng Lóng"**.
             - Mandarin package: **Su-27SK** → **K/JJ11**. Statcard name → **PAO «Kompaniâ „Sukhoj“» / 沈阳飞机工业 (集团) | K/JJ11型飞机 "应龙"**.
             - Mandarin + Russian package: **Su-27SK** → **K/JJ11**. Statcard name → **ПАО «Компания „Сухой“» / 沈阳飞机工业 (集团) | K/JJ11型飞机 "应龙"**.
-        - **J11A (MLU)** → **K/JJ11A (MLU)**. Statcard name → **PAO «Kompaniâ Sukhoj» / Shenyáng Fēijī Gōngyè (Jítuán) | K/JJ11A Xíng Fēijī "Yìng Lóng" (Mid-Life Update)**.
+        - **J11A (MLU)** → **K/JJ11A (MLU)**. Statcard name → **PAO «Kompaniâ Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ11A Xíng Fēijī "Yìng Lóng" (Mid-Life Update)**.
             - Mandarin package: **J11A (MLU)** → **K/JJ11A (MLU)**. Statcard name → **PAO «Kompaniâ Sukhoj» / 沈阳飞机工业 (集团) | K/JJ11A型飞机 "应龙" (Mid-Life Update)**.
             - Mandarin + Russian package: **J11A (MLU)** → **K/JJ11A (MLU)**. Statcard name → **ПАО «Компания Сухой» / 沈阳飞机工业 (集团) | K/JJ11A型飞机 "应龙" (Mid-Life Update)**.
-        - **J11B** → **K/JJ11B**. Statcard name → **PAO «Kompaniâ Sukhoj» / Shenyáng Fēijī Gōngyè (Jítuán) | K/JJ11B Xíng Fēijī "Yìng Lóng"**.
+        - **J11B** → **K/JJ11B**. Statcard name → **PAO «Kompaniâ Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ11B Xíng Fēijī "Yìng Lóng"**.
             - Mandarin package: **J11B** → **K/JJ11B**. Statcard name → **PAO «Kompaniâ Sukhoj» / 沈阳飞机工业 (集团) | K/JJ11B型飞机 "应龙"**.
             - Mandarin + Russian package: **J11B** → **K/JJ11B**. Statcard name → **ПАО «Компания Сухой» / 沈阳飞机工业 (集团) | K/JJ11B型飞机 "应龙"**.
         - **JF-17 Blāk I**:
@@ -351,16 +351,16 @@ All dates are listed in DD-MM-YYYY format.
         - **Z11WA**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z11WA Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **昌河飞机工业 (集团) | Z11WA型武装直升机**.
             - Full Mandarin package: **Z11WA** → **直11WA**. Statcard name → **昌河飞机工业 (集团) | 直11WA型武装直升机**.
-        - **Z9W**: Statcard name → **Hā'erbīn Fēijī Gōngyè (Jítuán) | Z9W Xíng Wuzhuāng Zhíshēngjī**.
+        - **Z9W**: Statcard name → **Hā'ěrbīn Fēijī Gōngyè (Jítuán) | Z9W Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **哈尔滨飞机工业 (集团) | Z9W型武装直升机**.
             - Full Mandarin package: **Z9W** → **直9W**. Statcard name → **哈尔滨飞机工业 (集团) | 直9W型武装直升机**.
-        - **Z9WA**: Statcard name → **Hā'erbīn Fēijī Gōngyè (Jítuán) | Z9WA Xíng Wuzhuāng Zhíshēngjī**.
+        - **Z9WA**: Statcard name → **Hā'ěrbīn Fēijī Gōngyè (Jítuán) | Z9WA Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **哈尔滨飞机工业 (集团) | Z9WA型武装直升机**.
             - Full Mandarin package: **Z9WA** → **直9WA**. Statcard name → **哈尔滨飞机工业 (集团) | 直9WA型武装直升机**.
-        - **Z19**: Statcard name → **Hā'erbīn Fēijī Gōngyè (Jítuán) | Z19 Xíng Wuzhuāng Zhíshēngjī**.
+        - **Z19**: Statcard name → **Hā'ěrbīn Fēijī Gōngyè (Jítuán) | Z19 Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **哈尔滨飞机工业 (集团) | Z19型武装直升机**.
             - Full Mandarin package: **Z19** → **直19**. Statcard name → **哈尔滨飞机工业 (集团) | 直19型武装直升机**.
-        - **Z19E**: Statcard name → **Hā'erbīn Fēijī Gōngyè (Jítuán) | Z19E Xíng Wuzhuāng Zhíshēngjī**.
+        - **Z19E**: Statcard name → **Hā'ěrbīn Fēijī Gōngyè (Jítuán) | Z19E Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **哈尔滨飞机工业 (集团) | Z19E型武装直升机**.
             - Full Mandarin package: **Z19E** → **直19E**. Statcard name → **哈尔滨飞机工业 (集团) | 直19E型武装直升机**.
         - **OH-58D**: Statcard name → **Bell Helicopter Textron Model 406 | OH-58D Zhàn Sōu Zhíshēngjī**.
@@ -426,7 +426,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Т-34-85 (Sep, 1944)** → **Tè 34 (1944)**. Statcard name → **Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) | Tè 34 Zhōngxíng Tankè (1944)**.
             - Mandarin package: **Т-34-85 (Sep, 1944)** → **特34 (1944)**. Statcard name → **Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) | 特34中型坦克 (1944)**.
             - Mandarin + Russian package: **Т-34-85 (Sep, 1944)** → **特34 (1944)**. Statcard name → **Уральский танковый завод № 183 им. Сталина (УТЗ) | 特34中型坦克 (1944)**.
-        - **Т-34-85 (1960s)** → **Tè 34 (1960)**. Statcard name → **Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) / Hā'erbīn Dì Yī Jīxiè Jítuán | Tè 34 Zhōngxíng Tankè (1960)**.
+        - **Т-34-85 (1960s)** → **Tè 34 (1960)**. Statcard name → **Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) / Hā'ěrbīn Dì Yī Jīxiè Jítuán | Tè 34 Zhōngxíng Tankè (1960)**.
             - Mandarin package: **Т-34-85 (1960s)** → **特34 (1960)**. Statcard name → **Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) / 哈尔滨第一机械集团 | 特34中型坦克 (1960)**.
             - Mandarin + Russian package: **Т-34-85 (1960s)** → **特34 (1960)**. Statcard name → **Уральский танковый завод № 183 им. Сталина (УТЗ) / 哈尔滨第一机械集团 | 特34中型坦克 (1960)**.
         - **T-34-85 (Sep, 1944) (Zhàn Chē Dì 2 Shī)** → **Tè 34 (1944) (Tankè Dì 2 Shī)**. Statcard name → **Ural'skij tankovyj zavod № 183 im. Stalina (UTZ | Tè 34 Zhōngxíng Tankè (1944) (Tankè Dì 2 Shī)**.
@@ -446,7 +446,7 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin + Russian package: **ISU-122** → **ИСУ-122**. Statcard name → **Всероссийский научно-исследовательский институт транспортного машиностроения (ВНИИ-100) | ИСУ-122自行火砲**.
         - **M41A3**: Statcard name → **Cadillac Motor Car Division | M41A3 Zhànchē "Huákè Mengquan"**.
             - Mandarin package: Statcard name → **Cadillac Motor Car Division | M41A3戰車「華克猛犬」**.
-        - **M41D**: Statcard name → **Cadillac Motor Car Division / Lùjūn Bīng Gōng Zhengbèi Fāzhan Zhōngxīn | M41D Zhànchē "Huákè Mengquan"**.
+        - **M41D**: Statcard name → **Cadillac Motor Car Division / Lùjūn Bīng Gōng Zhěngbèi Fāzhan Zhōngxīn | M41D Zhànchē "Huákè Mengquan"**.
             - Mandarin package: Statcard name → **Cadillac Motor Car Division / 陆军兵工整备发展中心 | M41D戰車「華克猛犬」**.
         - **M18 GMC** → **M18**. Statcard name → **General Motors' Buick Motor Division | M18 Qūzhú Pào Chē**.
             - Mandarin package: **M18 GMC** → **M18**. Statcard name → **General Motors' Buick Motor Division | M18驅逐砲車**.
@@ -454,7 +454,7 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: **ZTS63 (1963)** → **ZTS63**. Statcard name → **西南车辆制造厂 | WZ211 | ZTS1963式水陆坦克**.
         - **ZTS63 (1980)** → **ZTS63 (1979)**. Statcard name → **Xīnán Chēliàng Zhìzào Chang | WZ211 | ZTS1963 Shì Shuilù Tankè (1979)**.
             - Mandarin package: **ZTS63 (1980)** → **ZTS63 (1979)**. Statcard name → **西南车辆制造厂 | WZ211 | ZTS1963式水陆坦克 (1979)**.
-        - **ZTQ62** (China & USSR): Statcard name → **Hā'erbīn Dì Yī Jīxiè Jítuán | WZ131 | ZTQ1962 Shì Qīngxíng Tankè**.
+        - **ZTQ62** (China & USSR): Statcard name → **Hā'ěrbīn Dì Yī Jīxiè Jítuán | WZ131 | ZTQ1962 Shì Qīngxíng Tankè**.
             - Mandarin package: Statcard name → **哈尔滨第一机械集团 | WZ131 | ZTQ1962式轻型坦克**.
         - **IS-2 (1-j)** → **Sī 2 (1943)**. Statcard name → **Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ) | Sī 2 Zhòngxíng Tankè (1943)**.
             - Mandarin package: **IS-2 (1-j)** → **斯2 (1943)**. Statcard name → **Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ) | 斯2重型坦克 (1943)**.
@@ -506,7 +506,7 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 130 mm Self-Propelled Gun-Howitzer**.
         - **M60A3 TTS** → **M60A3**. Statcard name → **Chrysler Defense Engineering | M60A3 Zhànchē**.
             - Mandarin package: **M60A3 TTS** → **M60A3**. Statcard name → **Chrysler Defense Engineering | M60A3戰車**.
-        - **CM11**: Statcard name → **Chrysler Defense Engineering / Lùjūn Bīng Gōng Zhengbèi Fāzhan Zhōngxīn | CM11 Zhànchē "Yong Hu"**.
+        - **CM11**: Statcard name → **Chrysler Defense Engineering / Lùjūn Bīng Gōng Zhěngbèi Fāzhan Zhōngxīn | CM11 Zhànchē "Yong Hu"**.
             - Mandarin package: Statcard name → **Chrysler Defense Engineering / 陆军兵工整备发展中心 | CM11戰車「勇虎」**.
         - **ZTZ88B**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122E | ZTZ1988B Shì Zhu Zhàn Tankè**.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ122E | ZTZ1988B式主战坦克**.
@@ -522,7 +522,7 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | PGZ2009式双35毫米自行高炮**.
         - **PGZ04A**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WA717A | PGZ2004A Shì Sì Guan 25 Háomi Lǚdài Zì Háng Gāo Pào**.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WA717A | PGZ2004A式四管25毫米履带自行高炮**.
-        - **CM25 TOW** → **CM25**. Statcard name → **Lùjūn Bīng Gōng Zhengbèi Fāzhan Zhōngxīn | CM25 Tuō Shì Fēidàn Chē**.
+        - **CM25 TOW** → **CM25**. Statcard name → **Lùjūn Bīng Gōng Zhěngbèi Fāzhan Zhōngxīn | CM25 Tuō Shì Fēidàn Chē**.
             - Mandarin package: **CM25 TOW** → **CM25**. Statcard name → **陆军兵工整备发展中心 | CM25拖式飛彈車**.
         - **PTZ89**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WA371 | PGZ2009 Shì 120 Háomi Zìxíng Fan Tankè Pào**.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WA371 | PTZ1989式120毫米自行反坦克炮**.

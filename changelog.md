@@ -20,7 +20,7 @@ All dates are listed in DD-MM-YYYY format.
 
 ### General:
 
-- After 7 long months and literal hundreds of hours of reading, researching, and going kind of insane, the China rework and Mandarin package are finally are! Every single Chinese thing in the entire game has been reworked. Every vehicle, every weapon, every sensor, every modification, every engine, *everything*. It has all been reworked completely. And with that, 6 new Mandarin packages have been added: standard Mandarin, Full Mandarin (e.g. HQ-11 becomes 红旗-11), Mandarin + Russian combo, Full Mandarin + Russian combo, Full Ammunition Names Mandarin, and Full Ammunition Names Full Mandarin. From the bottom of my heart, I hope you enjoy it. I would also like to massively thank kleinerPanzer for help sourcing and researching this rework. Without her, this rework would have been impossible and from the bottom of my heart, she deserves the biggest thank you on the planet.
+- After 7 long months and literal hundreds of hours of reading, researching, and going kind of insane, the China rework and Mandarin package are finally are! Every single Chinese thing in the entire game has been reworked. Every vehicle, every weapon, every sensor, every modification, every engine, *everything*. It has all been reworked completely. And with that, 6 new Mandarin packages have been added: standard Mandarin, Full Mandarin (e.g. HQ-11 becomes 红旗-11), Mandarin + Russian combo, Full Mandarin + Russian combo, Full Ammunition Names Mandarin, and Full Ammunition Names Full Mandarin. From the bottom of my heart, I hope you enjoy it. I would also like to massively thank kleinerPanzer for help sourcing and researching this rework. Without her, this rework would have been impossible and from the bottom of my heart, she deserves the biggest thank you on the planet. Oh and the transliteration is Pinyin but is a bit weird because the 3rd tone diacritic works for every letter in weapons, but only for Ě (E caron) in vehicles, so aside from Ě, vehicles are missing 3rd tone diacritics. Why? idk
 - I would also like to welcome KittyCatAjax to the mod team!
 
 ### Vehicles:
@@ -701,7 +701,7 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: **Type 03 SAM** → **03式中距離地対空誘導弾発射装置**.
         - **Type 03** → **SAM-4**.
         - **120 mm M256 cannon** → **Gun, 120mm, M256**.
-        - **FM-3000 SAM** (launcher) → **HQ-11 | ADK11 Tōngyòng Mòduān Fángyù Wuqì Xìtong**.
+        - **FM-3000 SAM** (launcher) → **HQ-11 | ADK11 Tōngyòng Mòduān Fángyù Wǔqì Xìtong**.
             - Mandarin package: **FM-3000 SAM** → **HQ-11 | ADK11通用末端防御武器系统**.
             - Full Mandarin package: **FM-3000 SAM** → **红旗-11 | ADK11通用末端防御武器系统**.
         - **FM-3000** → **ADK11**.
@@ -712,6 +712,8 @@ All dates are listed in DD-MM-YYYY format.
             - Full Mandarin package: **PL-15** → **K/AKK15**. Statcard name → **霹雳-15 | K/AKK15空空导弹**.
         - **GB3** → **GB250**. Statcard name → **GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn**.
             - Mandarin package: **GB3** → **GB250**. Statcard name → **GB250型250公斤激光卫星制导炸弹**.
+    - China rework:
+        - **H/AKJ08**: Long name → **YJ81 | H/AKJ08 Kōng Jiàn Daodàn**.
     - **105 mm Rh 105-30 cannon** → **Rh105-30**.
     - **Type 57-1** → **S-5K**. Statcard name → **Nyeupravlâyemaâ aviaczionnaâ rakyeta S-5K**. Gaijin calls it the Type 57-1, but it's not. It's an S-5K. The Type 57-1 is an HE rocket and is a basic S-5.
     - **250-3** → **Mk 82 Mod 0**. Statcard name → **Bomb, 500lb, GP, Mk 82 Mod 0**. This is not the normal Type 250-3, that's still the Type 250-3, this is the one on the A5C that Gaijin calls the Type 250-3 but is a Mk 82 with the stats of a Type 250-3... for some reason. Enjoy your 216.5 kg Mk 82 Mod 0 I guess.
@@ -728,9 +730,23 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Modifications:
 
+- #### Additions:
+
+    - Update "Line of Contact" additions:
+        - **LWS/LR** (for the **M1A2 SEPv2 (TUSK 2)**)
+        - **M-910-21/22-10 gun pod**
+
 - #### Changes:
 
+    - Update "Line of Contact" changes:
+        - **LWS/LR** → **LWS / LR**
+        - **M-910-21/22-10 gun pod** → **M910-21/22-10**
+        - All modifications for weapons have been added and corrected (it's pointless listing them all here when it's the same name as the weapons).
     - I somehow had misspelled "maintenance" as "maintainance" in literally every modification (and as "maintenence" in 2 of them) because I'm an absolute moron, and it has somehow been like this for almost a year. That has been fixed now. Thanks tNebula for letting me know that I'm an actual dumbass.
+    - Corrected a typo in the description of the **F-2A-MIT (C10)**'s **GBU-31(V)1/B / 62(V)1/B** modification.
+    - Added bomb masses to the description of the **F-2A-MIT (C10)**'s **GBU-31(V)1/B / 62(V)1/B** modification.
+    - **H/AKJ81** modification → **H/AKJ08**.
+    - Corrected the description of the **39A940-31/32** gun pod modification.
 
 ### Sensors:
 
@@ -742,7 +758,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Update "Line of Contact" changes:
-        - **YINGS-III** → **YINGS-IIIA**. Long name → **YINGS-IIIA Zhòuyè Miáozhun Diào Cāng**.
+        - **YINGS-III** → **YINGS-IIIA (Biāo Pèixíng)**. Long name → **YINGS-IIIA Zhòuyè Miáozhǔn Diào Cāng (Biāo Pèixíng)**.
             - Mandarin package: **YINGS-III** → **YINGS-IIIA**. Long name → **YINGS-IIIA昼夜瞄准吊舱**.
             - Full Mandarin package: **YINGS-III** → **鹰隼-IIIA**. Long name → **鹰隼-IIIA昼夜瞄准吊舱**.
     - **K/PZS01** (the one on the **JF-17 Block I**) → **ASELPOD**. Long name → **ASELPOD Advanced Targeting Pod**. It was called the K/PZS01 because of a time when all the models were mixed up and this used the K/JDC03A pod but with the name file of the K/PZS01 or something like that.

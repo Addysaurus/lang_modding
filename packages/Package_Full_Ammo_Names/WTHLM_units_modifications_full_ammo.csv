@@ -64,12 +64,39 @@ Loadout unlocked: 987 kg <color=@userlogColoredText>Bomb, Guided, GBU-64(V)1/B J
 //GERMANY BOMBS
 
 //USSR BOMBS
+modification/upab_500b_e;UPAB-500B-È
+modification/upab_500b_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Baločnyj dyeržatyel' BD3-USK-B</color> pylon:
+  • 505 kg <color=@userlogColoredText>Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-500B-È</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/upab_1500_e;UPAB-1500B-È
+modification/upab_1500_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Baločnyj dyeržatyel' BD4-USKM</color> pylon:
+  • 1525 kg <color=@userlogColoredText>Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-1500B-È</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/su_grom;"Kh-36 ""Grom-È2"""
+modification/su_grom/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Aviaczionnoye katapul'tnoye ustrojstvo AKU-58A</color> pylon:
+  • 598 kg <color=@userlogColoredText>Planiruûŝij upravlâyemyj boyepripas Kh-36 ""Grom-È2""</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/su_grom_e;"Kh-36 ""Grom-È2"""
+modification/su_grom_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Aviaczionnoye katapul'tnoye ustrojstvo AKU-58A</color> pylon:
+  • 598 kg <color=@userlogColoredText>Planiruûŝij upravlâyemyj boyepripas Kh-36 ""Grom-È2""</color> <color=#ff6f00>BMB-GNSS</color>"
 
 //UK BOMBS
 
 //JAPAN BOMBS
 
 //CHINA BOMBS
+modification/cn_sns_bomb;GB250
+modification/cn_sns_bomb/desc;"Loadout unlocked:
+• Triple ejector rack:
+  • 260.816 kg <color=@userlogColoredText>GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn</color> <color=#ff6f00>BMB-LG/GNSS</color> x3
+• <color=@userlogColoredText>GDJ-6</color> pylon:
+  • 260.816 kg <color=@userlogColoredText>GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn</color> <color=#ff6f00>BMB-LG/GNSS</color>
+• Pylon:
+  • 260.816 kg <color=@userlogColoredText>GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn</color> <color=#ff6f00>BMB-LG/GNSS</color>"
 
 //ITALY BOMBS
 
@@ -104,6 +131,10 @@ modification/cn_fire_snake_70a;FS70A
 modification/cn_fire_snake_70a/desc;Loadout unlocked: <color=@userlogColoredText>FS70A Hángkōng Zhìdao Huojiàndàn</color> rocket.
 
 //ITALY ROCKETS
+modification/uk_hvar;HVAR
+modification/uk_hvar/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GB900-20-36</color> pylon:
+  • <color=@userlogColoredText>Rocket Motor, 5-inch HVAR</color> <color=#ff6f00>RKT</color>"
 
 //FRANCE ROCKETS
 
@@ -147,16 +178,6 @@ modification/su_x29te_x59m/desc;"Loadout unlocked:
   • <color=@userlogColoredText>Upravlâyemaâ rakyeta Kh-29TÈ</color> <color=#ff6f00>AGM-EO</color>
   • <color=@userlogColoredText>Upravlâyemaâ rakyeta Kh-59M</color> <color=#ff6f00>AGM-TV</color>"
 
-modification/su_grom;"Kh-36 ""Grom-È2"""
-modification/su_grom/desc;"Loadout unlocked:
-• <color=@userlogColoredText>Aviaczionnoye katapul'tnoye ustrojstvo AKU-58A</color> pylon:
-  • <color=@userlogColoredText>9-A1-7759 | Planiruûŝij upravlâyemyj boyepripas Kh-36 ""Grom-È2""</color> <color=#ff6f00>BMB-GNSS</color>"
-
-modification/su_grom_e;"Kh-36 ""Grom-È2"""
-modification/su_grom_e/desc;"Loadout unlocked:
-• <color=@userlogColoredText>Aviaczionnoye katapul'tnoye ustrojstvo AKU-58A</color> pylon:
-  • <color=@userlogColoredText>9-A1-7759 | Planiruûŝij upravlâyemyj boyepripas Kh-36 ""Grom-È2""</color> <color=#ff6f00>BMB-GNSS</color>"
-
 modification/su_x38ml_e;Kh-38MLÈ
 modification/su_x38ml_e/desc;"Loadout unlocked:
 • <color=@userlogColoredText>Aviaczionnoye katapul'tnoye ustrojstvo AKU-58-1</color> pylon:
@@ -192,6 +213,10 @@ modification/su_kh_59/desc;"Loadout unlocked:
 //ISRAEL MISSILES
 
 //USA SENSORS
+modification/laser_rangefinder_lws_sep;LWS / LR
+modification/laser_rangefinder_lws_sep/desc;"System unlocked:
+• <color=@userlogColoredText>Laser warning reciever</color>
+• <color=@userlogColoredText>Laser rangefilder</color>"
 
 //GERMANY SENSORS
 
@@ -206,6 +231,10 @@ modification/us_sniper_pod;AN/AAQ-33
 modification/us_sniper_pod/desc;Loadout unlocked: <color=@userlogColoredText>AN/AAQ-33 Sniper Advanced Targeting Pod</color> laser/electro-optical targeting pod.
 
 //CHINA SENSORS
+modification/cn_yings_3a;YINGS-IIIA (Biāo Pèixíng)
+modification/cn_yings_3a/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>YINGS-IIIA Zhòuyè Miáozhǔn Diào Cāng (Biāo Pèixíng)</color> <color=#ff6f00>TGP-LG/EO</color>"
 
 //ITALY SENSORS
 modification/boz_false_thermal_targets;BOZ-102-EC

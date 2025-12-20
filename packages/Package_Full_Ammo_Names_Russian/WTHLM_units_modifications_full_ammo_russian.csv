@@ -8,6 +8,26 @@ modification/su_fab_500_us_mk83;ФАБ-500М-62 / Mk 83 Mod 0
 modification/su_fab_500_us_mk83/desc;"Loadout unlocked: 508.3 kg <color=@userlogColoredText>ФАБ-500М-62</color> bomb.
 Loadout unlocked: 446.8 kg <color=@userlogColoredText>Bomb, 1000lb, GP, Mk 83 Mod 0</color> bomb."
 
+modification/upab_500b_e;УПАБ-500Б-Э
+modification/upab_500b_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Балочный держатель БД3-УСК-Б</color> pylon:
+  • 505 kg <color=@userlogColoredText>Управляемая планирующая авиационная бомба УПАБ-500Б-Э</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/upab_1500_e;УПАБ-1500Б-Э
+modification/upab_1500_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Балочный держатель БД4-УСКМ</color> pylon:
+  • 1525 kg <color=@userlogColoredText>Управляемая планирующая авиационная бомба УПАБ-1500Б-Э</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/su_grom;Х-36 «Гром-Э2»
+modification/su_grom/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Авиационное катапультное устройство АКУ-58А</color> pylon:
+  • 598 kg <color=@userlogColoredText>Планирующий управляемый боеприпас Х-36 «Гром-Э2»</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/su_grom_e;Х-36 «Гром-Э2»
+modification/su_grom_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Авиационное катапультное устройство АКУ-58А</color> pylon:
+  • 598 kg <color=@userlogColoredText>Планирующий управляемый боеприпас Х-36 «Гром-Э2»</color> <color=#ff6f00>BMB-GNSS</color>"
+
 //MISSILES
 modification/su_rvv_sd;РВВ-СД
 modification/su_rvv_sd/desc;"Loadout unlocked:
@@ -19,16 +39,6 @@ modification/su_x29te_x59m/desc;"Loadout unlocked:
 • <color=@userlogColoredText>Авиационное катапультное устройство АКУ-58-1</color> pylon:
   • <color=@userlogColoredText>Управляемая ракета Х-29ТЭ</color> <color=#ff6f00>AGM-EO</color>
   • <color=@userlogColoredText>Управляемая ракета Х-59М</color> <color=#ff6f00>AGM-TV</color>"
-
-modification/su_grom;Х-36 «Гром-Э2»
-modification/su_grom/desc;"Loadout unlocked:
-• <color=@userlogColoredText>Авиационное катапультное устройство АКУ-58А</color> pylon:
-  • <color=@userlogColoredText>9-А1-7759 | Планирующий управляемый боеприпас Х-36 «Гром-Э2»</color> <color=#ff6f00>BMB-GNSS</color>"
-
-modification/su_grom_e;Х-36 «Гром-Э2»
-modification/su_grom_e/desc;"Loadout unlocked:
-• <color=@userlogColoredText>Авиационное катапультное устройство АКУ-58А</color> pylon:
-  • <color=@userlogColoredText>9-А1-7759 | Планирующий управляемый боеприпас Х-36 «Гром-Э2»</color> <color=#ff6f00>BMB-GNSS</color>"
 
 modification/su_x38ml_e;Х-38МЛЭ
 modification/su_x38ml_e/desc;"Loadout unlocked:

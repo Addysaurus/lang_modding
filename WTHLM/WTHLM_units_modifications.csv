@@ -20,7 +20,16 @@ modification/pk3_gunpod/desc;Loadout unlocked: 7.62 mm <color=@userlogColoredTex
 //ITALY GUNS
 modification/it_macchi_39a_940_gunpod;39A940-31/32
 modification/it_macchi_39a_940_gunpod/desc;"Loadout unlocked:
-• <color=@userlogColoredText>39A940-31/32</color> <color=#ff6f00>ACNN</color>"
+• <color=@userlogColoredText>39A940-31</color> <color=#ff6f00>ACNN</color>
+• <color=@userlogColoredText>39A940-32</color> <color=#ff6f00>ACNN</color>"
+
+modification/it_macchi_m_910_gunpod;M-910-21/22-10 gun pod
+modification/it_macchi_m_910_gunpod/desc;Allows the installation of M-910-21/22-10 gun pods.
+
+modification/it_macchi_m_910_gunpod;M910-21/22-10
+modification/it_macchi_m_910_gunpod/desc;"Loadout unlocked:
+• <color=@userlogColoredText>M910-21-10</color> <color=#ff6f00>ACNN</color>
+• <color=@userlogColoredText>M910-22-10</color> <color=#ff6f00>ACNN</color>"
 
 //FRANCE GUNS
 
@@ -130,6 +139,26 @@ modification/fab_250m_54/desc;Loadout unlocked: 236 kg <color=@userlogColoredTex
 modification/fab_500m_54;FAB-500M-54
 modification/fab_500m_54/desc;Loadout unlocked: 478 kg <color=@userlogColoredText>FAB-500M-54</color> bomb.
 
+modification/upab_500b_e;UPAB-500B-È
+modification/upab_500b_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>BD3-USK-B</color> pylon:
+  • 505 kg <color=@userlogColoredText>UPAB-500B-È</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/upab_1500_e;UPAB-1500B-È
+modification/upab_1500_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>BD4-USKM</color> pylon:
+  • 1525 kg <color=@userlogColoredText>UPAB-1500B-È</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/su_grom;"Kh-36 ""Grom-È2"""
+modification/su_grom/desc;"Loadout unlocked:
+• <color=@userlogColoredText>AKU-58A</color> pylon:
+  • 598 kg <color=@userlogColoredText>Kh-36 ""Grom-È2""</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/su_grom_e;"Kh-36 ""Grom-È2"""
+modification/su_grom_e/desc;"Loadout unlocked:
+• <color=@userlogColoredText>AKU-58A</color> pylon:
+  • 598 kg <color=@userlogColoredText>Kh-36 ""Grom-È2""</color> <color=#ff6f00>BMB-GNSS</color>"
+
 //UK BOMBS
 modification/uk_bomb_520lb;H.E., R.L., 520-lb, Mk. I/N
 modification/uk_bomb_520lb/desc;Loadout unlocked: 238.1 kg <color=@userlogColoredText>Bomb, H.E., R.L., 520-lb, Mk. I/N</color> bomb.
@@ -145,14 +174,22 @@ modification/us_gbu_31_62;GBU-31/62 JDAM
 
 modification/us_gbu_31_62;GBU-31(V)1/B / 62(V)1/B
 modification/us_gbu_31_62/desc;"Loadout unlocked:
-• <color=@userlogColoredText>BRU-47/A</color>pyrotechnic ejector rack <color=@userlogColoredText>LAMS-7</color> pylon:
-  • <color=@userlogColoredText>GBU-31(V)1/B</color> <color=#ff6f00>BMB-GNSS</color>
+• <color=@userlogColoredText>BRU-47/A</color> pyrotechnic ejector rack on <color=@userlogColoredText>LAMS-7</color> pylon:
+  • 893.6 kg <color=@userlogColoredText>GBU-31(V)1/B</color> <color=#ff6f00>BMB-GNSS</color>
 • <color=@userlogColoredText>BRU-33/A</color> triple ejector rack on <color=@userlogColoredText>BRU-47/A</color> pyrotechnic ejector rack <color=@userlogColoredText>LAMS-7</color> pylon:
-  • <color=@userlogColoredText>GBU-62(V)1/B</color> <color=#ff6f00>BMB-GNSS</color> x3
+  • 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> <color=#ff6f00>BMB-GNSS</color> x3
 • <color=@userlogColoredText>BRU-33/A</color> triple ejector rack on <color=@userlogColoredText>BRU-47/A</color> pyrotechnic ejector rack <color=@userlogColoredText>LAMS-7B</color> pylon
-  • <color=@userlogColoredText>GBU-62(V)1/B</color> <color=#ff6f00>BMB-GNSS</color> x3"
+  • 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> <color=#ff6f00>BMB-GNSS</color> x3"
 
 //CHINA BOMBS
+modification/cn_sns_bomb;GB250
+modification/cn_sns_bomb/desc;"Loadout unlocked:
+• Triple ejector rack:
+  • 260.816 kg <color=@userlogColoredText>GB250</color> <color=#ff6f00>BMB-LG/GNSS</color> x3
+• <color=@userlogColoredText>GDJ-6</color> pylon:
+  • 260.816 kg <color=@userlogColoredText>GB250</color> <color=#ff6f00>BMB-LG/GNSS</color>
+• Pylon:
+  • 260.816 kg <color=@userlogColoredText>GB250</color> <color=#ff6f00>BMB-LG/GNSS</color>"
 
 //ITALY BOMBS
 modification/su_fab_250_us_mk82;FAB-250M-62 / Mk 82 Mod 0
@@ -168,6 +205,11 @@ Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bomb."
 //SWEDEN BOMBS
 
 //ISRAEL BOMBS
+modification/il_spice_250;SPICE 250
+modification/il_spice_250/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Smart Quad Rack</color> quadruple ejector rack on pylon:
+  • 130 kg <color=@userlogColoredText>SPICE 250</color> <color=#ff6f00>BMB-EO/GNSS</color> x4"
+
 modification/il_spice_250_1000;SPICE 250 / 1000
 modification/il_spice_250_1000/desc;"Loadout unlocked: 130 kg <color=@userlogColoredText>SPICE 250</color> electro-optically-guided bomb.
 Loadout unlocked: 490 kg <color=@userlogColoredText>SPICE 1000</color> electro-optically-guided bomb."
@@ -210,6 +252,10 @@ modification/cn_fire_snake_70a;FS70A
 modification/cn_fire_snake_70a/desc;Loadout unlocked: <color=@userlogColoredText>FS70A</color> rocket.
 
 //ITALY ROCKETS
+modification/uk_hvar;HVAR
+modification/uk_hvar/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GB900-20-36</color> pylon:
+  • <color=@userlogColoredText>HVAR</color> <color=#ff6f00>RKT</color> x2"
 
 //FRANCE ROCKETS
 
@@ -247,23 +293,13 @@ modification/flz_lwf_lb_66/desc;"Loadout unlocked: <color=@userlogColoredText>Fl
 modification/su_rvv_sd;RVV-SD
 modification/su_rvv_sd/desc;"Loadout unlocked:
 • <color=@userlogColoredText>AKU-170Ye</color> pylon:
-  • <color=@userlogColoredText>RVV-SD</color> <color=#ff6f00>AAM-ARH</color>
+  • <color=@userlogColoredText>RVV-SD</color> <color=#ff6f00>AAM-ARH</color>"
 
 modification/su_x29te_x59m;Kh-29TÈ / 59M
 modification/su_x29te_x59m/desc;"Loadout unlocked:
 • <color=@userlogColoredText>AKU-58-1</color> pylon:
   • <color=@userlogColoredText>Kh-29TÈ</color> <color=#ff6f00>AGM-EO</color>
   • <color=@userlogColoredText>Kh-59M</color> <color=#ff6f00>AGM-TV</color>"
-
-modification/su_grom;"Kh-36 ""Grom-È2"""
-modification/su_grom/desc;"Loadout unlocked:
-• <color=@userlogColoredText>AKU-58A</color> pylon:
-  • <color=@userlogColoredText>Kh-36 ""Grom-È2""</color> <color=#ff6f00>BMB-GNSS</color>"
-
-modification/su_grom_e;"Kh-36 ""Grom-È2"""
-modification/su_grom_e/desc;"Loadout unlocked:
-• <color=@userlogColoredText>AKU-58A</color> pylon:
-  • <color=@userlogColoredText>Kh-36 ""Grom-È2""</color> <color=#ff6f00>BMB-GNSS</color>"
 
 modification/su_x38ml_e;Kh-38MLÈ
 modification/su_x38ml_e/desc;"Loadout unlocked:
@@ -307,10 +343,10 @@ modification/jp_asm2/desc;"Loadout unlocked:
   • <color=@userlogColoredText>ASM-2</color> <color=#ff6f00>AShM-IR</color>"
 
 //CHINA MISSILES
-modification/cn_yj_81k;H/AKJ81
+modification/cn_yj_81k;H/AKJ08
 modification/cn_yj_81k/desc;"Loadout unlocked:
 • <color=@userlogColoredText>H/EDJ49B</color> pylon:
-  • <color=@userlogColoredText>H/AKJ81</color> <color=#ff6f00>AShM-ARH</color>"
+  • <color=@userlogColoredText>H/AKJ08</color> <color=#ff6f00>AShM-ARH</color>"
 
 modification/cn_cm_502kg;CM502KG
 modification/cn_cm_502kg/desc;"Loadout unlocked:
@@ -351,6 +387,11 @@ modification/sniper_atp_pod/desc;Loadout unlocked: <color=@userlogColoredText>AN
 modification/us_sniper_pod;AN/AAQ-33
 modification/us_sniper_pod/desc;Loadout unlocked: <color=@userlogColoredText>AN/AAQ-33</color> laser/electro-optical targeting pod.
 
+modification/laser_rangefinder_lws_sep;LWS / LR
+modification/laser_rangefinder_lws_sep/desc;"System unlocked:
+• <color=@userlogColoredText>LWS</color>
+• <color=@userlogColoredText>LR</color>"
+
 //GERMANY SENSORS
 
 //USSR SENSORS
@@ -362,6 +403,13 @@ modification/j_aaq_2_pod;J/AAQ-2
 modification/j_aaq_2_pod/desc;Loadout unlocked: <color=@userlogColoredText>J/AAQ-2</color> laser/electro-optical targeting pod.
 
 //CHINA SENSORS
+modification/cn_yings_3a/desc;Allows the installation of a YIGNS-III laser/electro-optical targeting pod.
+modification/cn_yings_3a;YIGNS-III
+
+modification/cn_yings_3a;YINGS-IIIA (Biāo Pèixíng)
+modification/cn_yings_3a/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>YINGS-IIIA (Biāo Pèixíng)</color> <color=#ff6f00>TGP-LG/EO</color>"
 
 //ITALY SENSORS
 modification/boz_false_thermal_targets;BOZ-102-EC

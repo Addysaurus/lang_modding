@@ -139,6 +139,8 @@ weapons/cn_lgb_gb250_mod_laser;<color=@userlogColoredText>260.816 kg</color> GB2
 weapons/cn_lgb_gb250_mod_laser/short;GB250
 weapons/cn_ls_6_250;<color=@userlogColoredText>290 kg</color> LS-6型250公斤制导滑翔炸弹 <color=#ff6f00>BMB-GNSS</color>
 weapons/cn_ls_6_250/short;LS-6/250
+weapons/cn_ls_6_250_ir;<color=@userlogColoredText>300 kg</color> LS-6型250公斤制导滑翔炸弹 (红外导引头) <color=#ff6f00>BMB-IR/GNSS</color>
+weapons/cn_ls_6_250_ir/short;LS-6/250 (红外)
 weapons/cn_gp_500_2;<color=@userlogColoredText>473 kg</color> 500公斤2型航空爆破炸弹 <color=#ff6f00>BMB</color>
 weapons/cn_gp_500_2/short;500-2型
 weapons/cn_gp_500_3;<color=@userlogColoredText>469 kg</color> 500公斤3型航空爆破炸弹 <color=#ff6f00>BMB</color>
@@ -148,7 +150,7 @@ weapons/cn_gp_500_4/short;500-4型
 weapons/cn_ls_6_500;<color=@userlogColoredText>630 kg</color> LS-6型500公斤制导滑翔炸弹 <color=#ff6f00>BMB-GNSS</color>
 weapons/cn_ls_6_500/short;LS-6/500
 weapons/cn_ls_500j;<color=@userlogColoredText>570 kg</color> K/YJG500型500公斤激光制导炸弹 <color=#ff6f00>BMB-LG</color>
-weapons/cn_ls_500j/short;K/YJG500B
+weapons/cn_ls_500j/short;K/YJG500
 weapons/cn_ls_1000j;<color=@userlogColoredText>1090 kg</color> GB1000型1000公斤激光卫星制导炸弹 <color=#ff6f00>BMB-LG/GNSS</color>
 weapons/cn_ls_1000j/short;GB1000
 weapons/cn_gp_1500_2;<color=@userlogColoredText>1447 kg</color> 1500公斤2型航空爆破炸弹 <color=#ff6f00>BMB</color>

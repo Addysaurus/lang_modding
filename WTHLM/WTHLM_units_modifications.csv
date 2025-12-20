@@ -40,17 +40,21 @@ modification/it_macchi_m_910_gunpod/desc;"Loadout unlocked:
 //UNCATEGORIZED GUNS
 
 //USA AMMUNITION
-modification/406mm_us_mk8_mod6_navy_apcbc;"16""/50 Mk 7 Mod 0"
-modification/406mm_us_mk8_mod6_navy_apcbc_ammo_pack;"16""/50 Mk 7 Mod 0"
+modification/406mm_us_mk8_mod0_navy_apcbc;"16"" A.P. Mk 8 Mod 0"
+modification/406mm_us_mk8_mod0_navy_apcbc_ammo_pack;"16"" A.P. Mk 8 Mod 0"
+modification/406mm_us_mk8_mod6_navy_apcbc;"16"" A.P. Mk 8 Mod 6"
+modification/406mm_us_mk8_mod6_navy_apcbc_ammo_pack;"16"" A.P. Mk 8 Mod 6"
 
 //GERMANY AMMUNITION
 
 //USSR AMMUNITION
+modification/305mm_ussr_64_sm_33_navy_ap;BR obr. 1948 g.
+modification/305mm_ussr_64_sm_33_navy_ap_ammo_pack;BR obr. 1948 g.
+modification/350mm_germ_skl_45_navy_apcbc;35cm Pz.Spr.Gr. L/3,6
+modification/350mm_germ_skl_45_navy_apcbc_ammo_pack;35cm Pz.Spr.Gr. L/3,6
 modification/406mm_ussr_navy_sapcbc;PB obr. 1915/28 gg.
 modification/406mm_ussr_navy_apcbc;BR obr. 1915/28 gg.
 modification/406mm_ussr_navy_apcbc_ammo_pack;BR obr. 1915/28 gg.
-modification/350mm_germ_skl_45_navy_apcbc;35cm Pz.Spr.Gr. L/3,6
-modification/350mm_germ_skl_45_navy_apcbc_ammo_pack;35cm Pz.Spr.Gr. L/3,6
 
 //UK AMMUNITION
 modification/381mm_uk_bl_mk1_6crh_22b_navy_apc;A.P.C., 15-inch, 6-crh., Mk. XXIIb
@@ -182,6 +186,26 @@ modification/us_gbu_31_62/desc;"Loadout unlocked:
   • 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> <color=#ff6f00>BMB-GNSS</color> x3"
 
 //CHINA BOMBS
+modification/cn_glide_bomb;LS-6/250 / 250 (Hóngwài) / 500
+modification/cn_glide_bomb/desc;"Loadout unlocked:
+• Triple ejector rack:
+  • 300 kg <color=@userlogColoredText>LS-6/250 (Hóngwài)</color> <color=#ff6f00>BMB-LG/GNSS</color> x2
+• <color=@userlogColoredText>GDJ-6</color> pylon:
+  • 290 kg <color=@userlogColoredText>LS-6/250</color> <color=#ff6f00>BMB-LG/GNSS</color>
+  • 300 kg <color=@userlogColoredText>LS-6/250 (Hóngwài)</color> <color=#ff6f00>BMB-LG/GNSS</color>
+  • 630 kg <color=@userlogColoredText>LS-6/500</color> <color=#ff6f00>BMB-LG/GNSS</color>
+• Pylon:
+  • 300 kg <color=@userlogColoredText>LS-6/250 (Hóngwài)</color> <color=#ff6f00>BMB-LG/GNSS</color>"
+
+modification/cn_gb_laser_bomb;GB3 / 1000 / K/YJG500
+modification/cn_gb_laser_bomb/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-6</color> pylon:
+  • 260 kg <color=@userlogColoredText>GB3</color> <color=#ff6f00>BMB-LG/GNSS</color>
+  • 570 kg <color=@userlogColoredText>K/YJG500</color> <color=#ff6f00>BMB-LG</color>
+  • 1090 kg <color=@userlogColoredText>GB1000</color> <color=#ff6f00>BMB-LG/GNSS</color>
+• Pylon:
+  • 260 kg <color=@userlogColoredText>GB3</color> <color=#ff6f00>BMB-LG/GNSS</color>"
+
 modification/cn_sns_bomb;GB250
 modification/cn_sns_bomb/desc;"Loadout unlocked:
 • Triple ejector rack:
@@ -290,6 +314,16 @@ modification/flz_lwf_lb_66;Flz.Lwf. LB 66
 modification/flz_lwf_lb_66/desc;"Loadout unlocked: <color=@userlogColoredText>Flz.Lwf. LB 66 ""NORAS""</color> radio-guided air-to-ground missile."
 
 //USSR MISSILES
+modification/mig_25_r_40rd;R-40RD
+modification/mig_25_r_40rd/desc;"Loadout unlocked:
+• <color=@userlogColoredText>APU-84-46</color> pylon:
+  • <color=@userlogColoredText>R-40RD</color> <color=#ff6f00>AAM-SARH</color>"
+
+modification/mig_25_r_40td;R-40TD
+modification/mig_25_r_40td/desc;"Loadout unlocked:
+• <color=@userlogColoredText>APU-84-46</color> pylon:
+  • <color=@userlogColoredText>R-40TD</color> <color=#ff6f00>AAM-IR</color>"
+
 modification/su_rvv_sd;RVV-SD
 modification/su_rvv_sd/desc;"Loadout unlocked:
 • <color=@userlogColoredText>AKU-170Ye</color> pylon:

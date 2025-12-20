@@ -654,6 +654,7 @@ All dates are listed in DD-MM-YYYY format.
         - **FM-3000 SAM** (launcher)
         - **FM-3000**
         - **GB3**
+        - **LS-6(IR) 250**
     - **105 mm Rh 105-30 cannon**.
 
 - #### Changes:
@@ -712,6 +713,8 @@ All dates are listed in DD-MM-YYYY format.
             - Full Mandarin package: **PL-15** → **K/AKK15**. Statcard name → **霹雳-15 | K/AKK15空空导弹**.
         - **GB3** → **GB250**. Statcard name → **GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn**.
             - Mandarin package: **GB3** → **GB250**. Statcard name → **GB250型250公斤激光卫星制导炸弹**.
+        - **LS-6(IR) 250** → **LS-6/250 (Hóngwài)**. Statcard name → **LS-6 Xíng 250 Gōngjīn Zhìdao Huáxiáng Zhàdàn (Hóngwài Daoyintóu)**.
+            - Mandarin package: **LS-6(IR) 250** → **LS-6/250 (红外)**. Statcard name → **LS-6型250公斤制导滑翔炸弹 (红外导引头)**.
     - China rework:
         - **H/AKJ08**: Long name → **YJ81 | H/AKJ08 Kōng Jiàn Daodàn**.
     - **105 mm Rh 105-30 cannon** → **Rh105-30**.
@@ -747,6 +750,7 @@ All dates are listed in DD-MM-YYYY format.
     - Added bomb masses to the description of the **F-2A-MIT (C10)**'s **GBU-31(V)1/B / 62(V)1/B** modification.
     - **H/AKJ81** modification → **H/AKJ08**.
     - Corrected the description of the **39A940-31/32** gun pod modification.
+    - **16"/50 Mk 7 Mod 0** modification → **16" A.P. Mk 8 Mod 6** (somehow I gave it the name of the gun and not the ammunition).
 
 ### Sensors:
 

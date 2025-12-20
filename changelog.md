@@ -701,19 +701,19 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: **Type 03 SAM** → **03式中距離地対空誘導弾発射装置**.
         - **Type 03** → **SAM-4**.
         - **120 mm M256 cannon** → **Gun, 120mm, M256**.
-        - **FM-3000 SAM** (launcher) → **HQ-11 | ADK11 Tōngyòng Mòduān Fángyù Wǔqì Xìtǒng**.
+        - **FM-3000 SAM** (launcher) → **HQ-11 | ADK11 Tōngyòng Mòduān Fángyù Wǔqì Xìtong**.
             - Mandarin package: **FM-3000 SAM** → **HQ-11 | ADK11通用末端防御武器系统**.
             - Full Mandarin package: **FM-3000 SAM** → **红旗-11 | ADK11通用末端防御武器系统**.
         - **FM-3000** → **ADK11**.
-            - Full Ammunition Names package: **FM-3000** → **ADK11 Dì Duì Kōng Dǎodàn**.
+            - Full Ammunition Names package: **FM-3000** → **ADK11 Dì Duì Kōng Daodàn**.
             - Full Ammunition Names - Full Mandarin package: **FM-3000** → **ADK11地對空导弹**.
-        - **PL-15** → **K/AKK15**. Statcard name → **PL-15 | K/AKK15 Kōng Kōng Dǎodàn**.
+        - **PL-15** → **K/AKK15**. Statcard name → **PL-15 | K/AKK15 Kōng Kōng Daodàn**.
             - Mandarin package: **PL-15** → **K/AKK15**. Statcard name → **PL-15 | K/AKK15空空导弹**.
             - Full Mandarin package: **PL-15** → **K/AKK15**. Statcard name → **霹雳-15 | K/AKK15空空导弹**.
-        - **GB3** → **GB250**. Statcard name → **GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdǎo Zhàdàn**.
+        - **GB3** → **GB250**. Statcard name → **GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn**.
             - Mandarin package: **GB3** → **GB250**. Statcard name → **GB250型250公斤激光卫星制导炸弹**.
     - China rework:
-        - **H/AKJ08**: Long name → **YJ81 | H/AKJ08 Kōng Jiàn Dǎodàn**.
+        - **H/AKJ08**: Long name → **YJ81 | H/AKJ08 Kōng Jiàn Daodàn**.
     - **105 mm Rh 105-30 cannon** → **Rh105-30**.
     - **Type 57-1** → **S-5K**. Statcard name → **Nyeupravlâyemaâ aviaczionnaâ rakyeta S-5K**. Gaijin calls it the Type 57-1, but it's not. It's an S-5K. The Type 57-1 is an HE rocket and is a basic S-5.
     - **250-3** → **Mk 82 Mod 0**. Statcard name → **Bomb, 500lb, GP, Mk 82 Mod 0**. This is not the normal Type 250-3, that's still the Type 250-3, this is the one on the A5C that Gaijin calls the Type 250-3 but is a Mk 82 with the stats of a Type 250-3... for some reason. Enjoy your 216.5 kg Mk 82 Mod 0 I guess.

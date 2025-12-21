@@ -186,16 +186,28 @@ modification/us_gbu_31_62/desc;"Loadout unlocked:
   • 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> <color=#ff6f00>BMB-GNSS</color> x3"
 
 //CHINA BOMBS
-modification/cn_glide_bomb;LS-6/250 / 250 (Hóngwài) / 500
+modification/cn_glide_bomb;LS-6/250 / 500
 modification/cn_glide_bomb/desc;"Loadout unlocked:
-• Triple ejector rack:
-  • 300 kg <color=@userlogColoredText>LS-6/250 (Hóngwài)</color> <color=#ff6f00>BMB-LG/GNSS</color> x2
 • <color=@userlogColoredText>GDJ-6</color> pylon:
   • 290 kg <color=@userlogColoredText>LS-6/250</color> <color=#ff6f00>BMB-LG/GNSS</color>
-  • 300 kg <color=@userlogColoredText>LS-6/250 (Hóngwài)</color> <color=#ff6f00>BMB-LG/GNSS</color>
-  • 630 kg <color=@userlogColoredText>LS-6/500</color> <color=#ff6f00>BMB-LG/GNSS</color>
-• Pylon:
-  • 300 kg <color=@userlogColoredText>LS-6/250 (Hóngwài)</color> <color=#ff6f00>BMB-LG/GNSS</color>"
+  • 630 kg <color=@userlogColoredText>LS-6/500</color> <color=#ff6f00>BMB-LG/GNSS</color>"
+
+modification/cn_ls_6_250_ir;LS-6/250 (Hóngwài)
+modification/cn_ls_6_250_ir/desc;"Loadout unlocked:
+• K/JJ10 (all):
+  • <color=@userlogColoredText>GDJ-6</color> pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (Hóngwài)</color> <color=#ff6f00>BMB-LG/GNSS</color>
+• K/JJ10C:
+  • Triple ejector rack:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (Hóngwài)</color> <color=#ff6f00>BMB-LG/GNSS</color> x2
+  • Pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (Hóngwài)</color> <color=#ff6f00>BMB-LG/GNSS</color>
+• K/JJ11B:
+  • Pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (Hóngwài)</color> <color=#ff6f00>BMB-LG/GNSS</color>
+• K/JJH7A (all):
+  • <color=@userlogColoredText>GDJ-49B</color> pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (Hóngwài)</color> <color=#ff6f00>BMB-LG/GNSS</color>"
 
 modification/cn_gb_laser_bomb;GB3 / 1000 / K/YJG500
 modification/cn_gb_laser_bomb/desc;"Loadout unlocked:
@@ -379,7 +391,7 @@ modification/jp_asm2/desc;"Loadout unlocked:
 //CHINA MISSILES
 modification/cn_yj_81k;H/AKJ08
 modification/cn_yj_81k/desc;"Loadout unlocked:
-• <color=@userlogColoredText>H/EDJ49B</color> pylon:
+• <color=@userlogColoredText>GDJ-49B</color> pylon:
   • <color=@userlogColoredText>H/AKJ08</color> <color=#ff6f00>AShM-ARH</color>"
 
 modification/cn_cm_502kg;CM502KG
@@ -399,10 +411,10 @@ modification/cn_ba_11/desc;"Loadout unlocked:
 //SWEDEN MISSILES
 modification/swd_rb74;rb 74
 modification/swd_rb74/desc;"Loadout unlocked:
-• JA 37 D, JA 37 DI (all)
+• JA 37 D, JA 37 DI (all):
   • <color=@userlogColoredText>balk R7V</color>, <color=@userlogColoredText>balk R7H</color>, <color=@userlogColoredText>balk V7V</color>, <color=@userlogColoredText>balk V7H</color>, <color=@userlogColoredText>balk S7V</color>, <color=@userlogColoredText>balk S7H</color> pylons:
     • <color=@userlogColoredText>rb 74</color> <color=#ff6f00>AAM-IR</color>
-• JAS 39 A (Cobra), JAS 39 C (Cobra)
+• JAS 39 A (Cobra), JAS 39 C (Cobra):
   • <color=@userlogColoredText>balk 1V</color>, <color=@userlogColoredText>balk 1H</color>, <color=@userlogColoredText>balk 2V</color>, <color=@userlogColoredText>balk 2H</color>, <color=@userlogColoredText>balk 3V</color>, <color=@userlogColoredText>balk 3H</color> pylons:
     • <color=@userlogColoredText>rb 74</color> <color=#ff6f00>AAM-IR</color>"
 

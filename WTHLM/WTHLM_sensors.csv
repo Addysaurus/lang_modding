@@ -80,6 +80,7 @@ sensors/us_an_apg_73_hms;AN/APG-73 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_76_an_asx_1;AN/APG-76 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_78;AN/APG-78 Longbow <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_78_v6;AN/APG-78(V)6 Longbow <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_79;AN/APG-79 <color=#ff6f00>RDR-AESA</color>
 sensors/us_an_apq_100;AN/APQ-100 <color=#ff6f00>RDR</color>
 sensors/us_an_apq_120;AN/APQ-120(V)5 <color=#ff6f00>RDR</color>
 sensors/us_an_mpq_64;AN/MPQ-64 Sentinel <color=#ff6f00>RDR-PD</color>
@@ -90,8 +91,20 @@ sensors/su_sapphire_23;Sapphire-23D/TP-23
 sensors/su_sapphire_23mla_2;Sapphire-23MLA-2/TP-23M
 sensors/su_sapphire_23mla;Sapphire-23MLA/TP-23M
 sensors/su_sapphire_23ml;Sapphire-23ML/TP-23M
+
+sensors/su_sapphire_25;"Sistyema upravlyeniâ vooružyeniyem S-25
+• Bortovoj radiolokaczionnoj stanczii RP-25MN Sapfir-25 <color=#ff6f00>RDR-PD</color>
+  • Radiolokaczionnaâ stancziâ N005
+• Tyeplopyelyengator TP-26Š1 <color=#ff6f00>IRST</color>"
+
 sensors/su_n_001;RLPK-27 Myeč <color=#ff6f00>RDR-PD</color>
 sensors/su_n_001k;RLPK-27K Myeč <color=#ff6f00>RDR-PD</color>
+
+sensors/su_n_001ve;"Sistyema upravlyeniâ vooružyeniyem SUV-VÈ
+• Radiolokaczionnyj priczyel'nyj komplyeks RLPK-27VÈ <color=#ff6f00>RDR-PD</color>
+  • Radiolokaczionnaâ stancziâ N001VYe
+• Optiko-èlyektronnaâ priczyel'naâ sistyema OÈPS-27 <color=#ff6f00>IRST</color>"
+
 sensors/su_n_001vep;RLPK-27VEŠ Myeč-M <color=#ff6f00>RDR-PD</color>
 sensors/su_v_004;V004 <color=#ff6f00>RDR-PESA</color>
 sensors/su_vn_001;VN001 <color=#ff6f00>RDR-AESA</color>
@@ -102,9 +115,11 @@ sensors/jp_awg_12;J/AWG-12
 sensors/jp_j_apg_1;J/APG-1 <color=#ff6f00>RDR-AESA</color>
 sensors/jp_j_apg_2;J/APG-2 <color=#ff6f00>RDR-AESA</color>
 sensors/jp_type_81_search;81 Shiki Tankyorichi Taikū Yūdōdan C Gata Ta Kinō Rēdā <color=#ff6f00>RDR-PESA</color>
+sensors/jp_type_03_search;03 Shiki Chūkyorichi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsenbu <color=#ff6f00>RDR-AESA</color>
 sensors/cn_z10_fcr;YH Háomi Bō Léidá <color=#ff6f00>RDR</color>
 sensors/cn_pgz_625_search;PGZ-625 TA
 sensors/cn_pgz_625_track;PGZ-625 TT
+sensors/cn_hq_11_search;HQ-11 TA
 sensors/fr_thales_rbe2;RBE2-AA <color=#ff6f00>RDR-AESA</color>
 sensors/fr_arabel;Thales Arabel <color=#ff6f00>RDR-PESA</color>
 sensors/sw_giraffe_1x;Giraffe 1X <color=#ff6f00>RDR-AESA</color>

@@ -85,6 +85,8 @@ sensors/us_an_apq_100;AN/APQ-100 <color=#ff6f00>RDR</color>
 sensors/us_an_apq_120;AN/APQ-120(V)5 <color=#ff6f00>RDR</color>
 sensors/us_an_mpq_64;AN/MPQ-64 Sentinel <color=#ff6f00>RDR-PD</color>
 sensors/us_comanche_fcr;Comanche Radar <color=#ff6f00>RDR-PD</color>
+sensors/uk_captor_ecrs_1_pirate;ECRS Mk1 <color=#ff6f00>RDR-AESA</color>
+sensors/uk_captor_ecrs_2_pirate;ECRS Mk2 <color=#ff6f00>RDR-AESA</color>
 sensors/de_hensoldt_trml_4b;TRML 4D <color=#ff6f00>RDR-AESA</color>
 sensors/su_sapphire_21;Sapphire-21
 sensors/su_sapphire_23;Sapphire-23D/TP-23
@@ -106,6 +108,7 @@ sensors/su_n_001ve;"Sistyema upravlyeniâ vooružyeniyem SUV-VÈ
 • Optiko-èlyektronnaâ priczyel'naâ sistyema OÈPS-27 <color=#ff6f00>IRST</color>"
 
 sensors/su_n_001vep;RLPK-27VEŠ Myeč-M <color=#ff6f00>RDR-PD</color>
+sensors/su_n_035e;Radiolokaczionnaâ stancziâ N035 <color=#ff6f00>RDR-AESA</color>
 sensors/su_v_004;V004 <color=#ff6f00>RDR-PESA</color>
 sensors/su_vn_001;VN001 <color=#ff6f00>RDR-AESA</color>
 sensors/su_9s18m3;"Radiolokaczionnaâ stancziâ 9S18M3 ""Kupol-M3"" <color=#ff6f00>RDR-PESA</color>"

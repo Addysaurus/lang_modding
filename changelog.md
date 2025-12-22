@@ -752,6 +752,36 @@ All dates are listed in DD-MM-YYYY format.
     - Corrected the description of the **39A940-31/32** gun pod modification.
     - **16"/50 Mk 7 Mod 0** modification → **16" A.P. Mk 8 Mod 6** (somehow I gave it the name of the gun and not the ammunition).
 
+### Engines:
+
+- #### Additions:
+
+    - Update "Line of Contact" additions:
+        - **MTU 8V 199 TE20**
+        - **MTU 8V 199 TE21**
+        - **6M70T4**
+        - **V-1710-55**
+        - **Cyclone R-1820-F53**
+        - **DSC1122**
+        - **3040 MX**
+        - **HD4070**
+        - **GRS900R**
+        - **HSWL 256B**
+        - **AL-31FN series 3**
+        - **M88-2E4**
+        - **AL-41F1S**
+
+- #### Changes:
+
+    - Update "Line of Contact" changes:
+        - **V-1710-55** → **Allison Engine Company F10L | V-1710-55**.
+        - **Cyclone R-1820-F53** → **GR-1820-F53 Cyclone**.
+        - **GRS900R** → **GRS 900R**.
+        - **AL-31FN series 3** → **AL-31FN syeriâ 3**.
+        - **AL-41F1S** → **izd. 117S | AL-41F1S**.
+    - **Allison** (engine manufacturer) → **Allison Engine Company**.
+    - **Allison** (transmission manufacturer) → **Allison Transmission**.
+
 ### Sensors:
 
 - #### Additions:
@@ -763,8 +793,10 @@ All dates are listed in DD-MM-YYYY format.
         - **N001VE**
         - **N035**
         - **Type 03 TA**
+        - **KLJ-10A**
         - **YINGS-III**
         - **HQ-11 TA** (the name literally does not exist publically there is no way to rename this one; it's LLQ[something] but I don't know what that something is)
+        - **ES-05**
 
 - #### Changes:
 
@@ -774,11 +806,14 @@ All dates are listed in DD-MM-YYYY format.
         - **Sapphire-25/TP-26Sh1** → **Sistyema upravlyeniâ vooružyeniyem S-25** with the **Tyeplopyelyengator TP-26Š1** IRST and the **Bortovoj radiolokaczionnoj stanczii RP-25MN "Sapfir-25"** radar sighting system featuring the **Radiolokaczionnaâ stancziâ N005**.
         - **N001VE** → **Sistyema upravlyeniâ vooružyeniyem SUV-VÈ** with the **Optiko-èlyektronnaâ priczyel'naâ sistyema OÈPS-27** IRST and the **Radiolokaczionnyj priczyel'nyj komplyeks RLPK-27VÈ "Myeč"** radar sighting system featuring the **Radiolokaczionnaâ stancziâ N001VYe**.
         - **N035** → **Radiolokaczionnaâ stancziâ N035 "Irbis"** (we don't know the name of the rest of the system).
-        - **Type 03 TA** → **Sistyema upravlyeniâ vooružyeniyem S-25**.
+        - **Type 03 TA** → **03 Shiki Chūkyorichi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsenbu**.
             - Japanese package: **Type 03 TA** → **03式中距離地対空誘導弾射撃用レーダ装置空中線部**.
+        - **KLJ-10A** → **KLJ-10 Jīzai Màichōng Duō Pu Lè Huo Kòng Léidá**.
+            - Mandarin package: **KLJ-10A** → **KLJ-10机载脉冲多普勒火控雷达**.
         - **YINGS-III** → **YINGS-IIIA (Biāo Pèixíng)**. Long name → **YINGS-IIIA Zhòuyè Miáozhǔn Diào Cāng (Biāo Pèixíng)**.
             - Mandarin package: **YINGS-III** → **YINGS-IIIA**. Long name → **YINGS-IIIA昼夜瞄准吊舱**.
             - Full Mandarin package: **YINGS-III** → **鹰隼-IIIA**. Long name → **鹰隼-IIIA昼夜瞄准吊舱**.
+        - **ES-05** → **RAVEN ES-05**.
     - **K/PZS01** (the one on the **JF-17 Block I**) → **ASELPOD**. Long name → **ASELPOD Advanced Targeting Pod**. It was called the K/PZS01 because of a time when all the models were mixed up and this used the K/JDC03A pod but with the name file of the K/PZS01 or something like that.
 
 ## 1.15.01 - 19-11-2025

@@ -23,7 +23,7 @@ engine_manufacturer/general_electric;Manufacturer: General Electric
 engine_manufacturer/kawasaki;Manufacturer: Kawasaki
 engine_manufacturer/toko;Manufacturer: Toko
 engine_manufacturer/p&w;Manufacturer: Pratt & Whitney
-engine_manufacturer/allison;Manufacturer: Allison
+engine_manufacturer/allison;Manufacturer: Allison Engine Company
 engine_manufacturer/packard;Manufacturer: Packard
 engine_manufacturer/wright;Manufacturer: Wright
 engine_manufacturer/westinghouse;Manufacturer: Westinghouse
@@ -1339,6 +1339,10 @@ engine_model/al_31f_m1;"
 Engine model: AL-31FM1"
 engine_model/al_31fn;"
 Engine model: AL-31FN"
+engine_model/al_31fn_series_3;"
+Engine model: AL-31FN syeriâ 3"
+engine_model/al_41f1s;"
+Engine model: izd. 117S | AL-41F1S"
 engine_model/f100_pw_100;"
 Engine model: F100-PW-100"
 engine_model/f100_ihi_100;"
@@ -1459,9 +1463,23 @@ engine_model/t64_ge_716;"
 Engine model: T64-GE-716(ST)"
 engine_model/r2000_7;"
 Engine model: R-2000-7"
+engine_model/mtu_8v_199_te20;"
+Engine model: MTU 8V 199 TE20"
+engine_model/mtu_8v_199_te21;"
+Engine model: MTU 8V 199 TE21"
+engine_model/6m70t4;"
+Engine model: 6M70T4"
+engine_model/1710-55;"
+Engine model: Allison Engine Company F10L | V-1710-55"
+engine_model/r-1820-f53;"
+Engine model: GR-1820-F53 Cyclone"
+engine_model/dsc1122;"
+Engine model: DSC1122"
+engine_model/m88_2e4;"
+Engine model: M88-2E4"
 
 //TRANSMISSION MANUFACTURERS
-transmission_manufacturer/allison;Manufacturer: Allison
+transmission_manufacturer/allison;Manufacturer: Allison Transmission
 transmission_manufacturer/perkins;Manufacturer: Perkins
 transmission_manufacturer/david_brown;Manufacturer: David Brown
 transmission_manufacturer/renk;Manufacturer: Renk
@@ -1479,3 +1497,11 @@ transmission_model/lsg_3000;LSG 3000
 transmission_model/mt1500;MT1500
 transmission_model/esm_500;ESM 500
 transmission_model/7hp_902;7HP902
+transmission_model/3040_mx;"
+Transmission model: 3040 MX"
+transmission_model/hd_4070;"
+Transmission model: HD4070"
+transmission_model/grs900r;"
+Transmission model: GRS 900R"
+transmission_model/hswl_256b;"
+Transmission model: HSWL 256B"

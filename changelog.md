@@ -771,9 +771,9 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Line of Contact" changes:
         - **CAPTOR-E** (for the **Eurofighter (P3Ec1)**) → **ECRS Mk1**.
         - **CAPTOR-E** (for the **Typhoon F.G.R. Mk. 4 (ZK355)** and **F-2000A (ECRS Mk2)**) → **ECRS Mk2**.
-        - **Sapphire-25/TP-26Sh1** → **Sistyema upravlyeniâ vooružyeniyem S-25** with the **Tyeplopyelyengator TP-26Š1** IRST and the **Bortovoj radiolokaczionnoj stanczii RP-25MN Sapfir-25** radar sighting system featuring the **Radiolokaczionnaâ stancziâ N005**.
-        - **N001VE** → **Sistyema upravlyeniâ vooružyeniyem SUV-VÈ** with the **Optiko-èlyektronnaâ priczyel'naâ sistyema OÈPS-27** IRST and the **Radiolokaczionnyj priczyel'nyj komplyeks RLPK-27VÈ** radar sighting system featuring the **Radiolokaczionnaâ stancziâ N001VYe**.
-        - **N035** → **Radiolokaczionnaâ stancziâ N035** (we don't know the name of the rest of the system).
+        - **Sapphire-25/TP-26Sh1** → **Sistyema upravlyeniâ vooružyeniyem S-25** with the **Tyeplopyelyengator TP-26Š1** IRST and the **Bortovoj radiolokaczionnoj stanczii RP-25MN "Sapfir-25"** radar sighting system featuring the **Radiolokaczionnaâ stancziâ N005**.
+        - **N001VE** → **Sistyema upravlyeniâ vooružyeniyem SUV-VÈ** with the **Optiko-èlyektronnaâ priczyel'naâ sistyema OÈPS-27** IRST and the **Radiolokaczionnyj priczyel'nyj komplyeks RLPK-27VÈ "Myeč"** radar sighting system featuring the **Radiolokaczionnaâ stancziâ N001VYe**.
+        - **N035** → **Radiolokaczionnaâ stancziâ N035 "Irbis"** (we don't know the name of the rest of the system).
         - **Type 03 TA** → **Sistyema upravlyeniâ vooružyeniyem S-25**.
             - Japanese package: **Type 03 TA** → **03式中距離地対空誘導弾射撃用レーダ装置空中線部**.
         - **YINGS-III** → **YINGS-IIIA (Biāo Pèixíng)**. Long name → **YINGS-IIIA Zhòuyè Miáozhǔn Diào Cāng (Biāo Pèixíng)**.

@@ -1,4 +1,28 @@
 <ID|readonly|noverify>;<English>
+//BOMBS
+modification/cn_glide_bomb;LS-6/250 / 500
+modification/cn_glide_bomb/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-6</color> pylon:
+  • 290 kg <color=@userlogColoredText>LS-6/250</color> <color=#ff6f00>BMB-LG/GNSS</color>
+  • 630 kg <color=@userlogColoredText>LS-6/500</color> <color=#ff6f00>BMB-LG/GNSS</color>"
+
+modification/cn_ls_6_250_ir;LS-6/250 (红外)
+modification/cn_ls_6_250_ir/desc;"Loadout unlocked:
+• K/JJ10 (all):
+  • <color=@userlogColoredText>GDJ-6</color> pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (红外)</color> <color=#ff6f00>BMB-LG/GNSS</color>
+• K/JJ10C:
+  • Triple ejector rack:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (红外)</color> <color=#ff6f00>BMB-LG/GNSS</color> x2
+  • Pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (红外)</color> <color=#ff6f00>BMB-LG/GNSS</color>
+• K/JJ11B:
+  • Pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (红外)</color> <color=#ff6f00>BMB-LG/GNSS</color>
+• K/JJH7A (all):
+  • <color=@userlogColoredText>GDJ-49B</color> pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (红外)</color> <color=#ff6f00>BMB-LG/GNSS</color>"
+    
 //MISSILES
 modification/mig_19_pl2/desc;Allows installation of K/AKK2 air-to-air missiles.
 modification/mig_19_pl2;K/AKK2

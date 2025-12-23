@@ -148,7 +148,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Merkava Mk.1** → **Merkavah Mk. 1**. Statcard name → **Minhalet Tokhnit ha-Merkavah ve-ha-Raḳam, Meḥalḳet Pituḥ ha-Ṭanḳ | Ṭanḳ Merkavah Siman 1**. A full Israel rework and a Hebrew package are coming early next year and this will probably be changed to Merkavah S. 1 then, along with a rework of the translit, but for now, enjoy your Merkavah Mk. 1.
     - "Sea Defender" changes:
         - **AK-225**: Statcard name → **Lyeningradskij Primorskij zavod | Artillyerijskij katyer proyekt 205PÈ | AK-225 (1975)**.
-    - China rework and Mandarin package changes:
+    - China rework and Mandarin package:
         - **Gladiator Mk. I** → **Dòushì Mk. I**. Statcard name → **Gloster Aircraft Company | Dòushì Mk. I Xíng Qūzhú Jī "Gé Jī"**.
             - Mandarin package: **Gladiator Mk. I** → **鬥士Mk. I**. Statcard name → **Gloster Aircraft Company | 鬥士Mk. I型驅逐機「格機」**.
         - **Ki 27 Otsu** → **97 Shì Zhàn Yi**. Statcard name → **Nakajima Hikōki | 97 Shì Zhàndòujī Yi**.
@@ -337,8 +337,8 @@ All dates are listed in DD-MM-YYYY format.
         - **J11B** → **K/JJ11B**. Statcard name → **PAO «Kompaniâ Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ11B Xíng Fēijī "Yìng Lóng"**.
             - Mandarin package: **J11B** → **K/JJ11B**. Statcard name → **PAO «Kompaniâ Sukhoj» / 沈阳飞机工业 (集团) | K/JJ11B型飞机 "应龙"**.
             - Mandarin + Russian package: **J11B** → **K/JJ11B**. Statcard name → **ПАО «Компания Сухой» / 沈阳飞机工业 (集团) | K/JJ11B型飞机 "应龙"**.
-        - **JF-17 Blāk I**:
-            - Mandarin package: Statcard name → **Pakistan Aeronautical Complex / 成都飞机工业集团 | JF-17 Blāk I Thaṇḍar**.
+        - **JF-17 Blāk I** → **JF-17 Block I**. Statcard name **Chéngdū Phējī Udyoga Samūha + Pākistān Aironāṭikal Kampḷiks | JF-17 Block I Thunder**.
+            - Mandarin package: Statcard name → **Pakistan Aeronautical Complex / 成都飞机工业集团 | JF-17 Block I Thunder**.
         - **YL1** → **GJ1**. Statcard name → **Chéngdū Fēijī Gōngyè (Jítuán) | GJ1 Xíng Wúrénjī**.
             - Mandarin package: 
             - Full Mandarin package: **YL1** → **攻击1** Statcard name → **成都飞机工业 (集团) | 攻击1型无人机**.
@@ -590,7 +590,6 @@ All dates are listed in DD-MM-YYYY format.
         - **ZTZ99 (Phase 1) / (Phase 2)** (folder) → **ZTZ99 (1 Qí) / (2 Qí)**.
             - Mandarin package: Folder name → **ZTZ99 (一期) / (二期)**.
         - **9A331 / HQ17** (folder) → **9A331 / ADK17**.
-        
     - **TH 400** → **H 400**. Statcard name → **Henschel Wehrtechnik H 400**. The gun model is still wrong though smh...
     - **F5**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | Chugyŏkgi 《F5》**.
     - **16MCV (C1) (15 Soku Ki)** → **16MCV (C1) (15RDR)**.
@@ -654,6 +653,7 @@ All dates are listed in DD-MM-YYYY format.
         - **FM-3000 SAM** (launcher)
         - **FM-3000**
         - **GB3**
+        - **LS-6(IR) 250**
     - **105 mm Rh 105-30 cannon**.
 
 - #### Changes:
@@ -712,6 +712,8 @@ All dates are listed in DD-MM-YYYY format.
             - Full Mandarin package: **PL-15** → **K/AKK15**. Statcard name → **霹雳-15 | K/AKK15空空导弹**.
         - **GB3** → **GB250**. Statcard name → **GB250 Xíng 250 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn**.
             - Mandarin package: **GB3** → **GB250**. Statcard name → **GB250型250公斤激光卫星制导炸弹**.
+        - **LS-6(IR) 250** → **LS-6/250 (Hóngwài)**. Statcard name → **LS-6 Xíng 250 Gōngjīn Zhìdao Huáxiáng Zhàdàn (Hóngwài Daoyintóu)**.
+            - Mandarin package: **LS-6(IR) 250** → **LS-6/250 (红外)**. Statcard name → **LS-6型250公斤制导滑翔炸弹 (红外导引头)**.
     - China rework:
         - **H/AKJ08**: Long name → **YJ81 | H/AKJ08 Kōng Jiàn Daodàn**.
     - **105 mm Rh 105-30 cannon** → **Rh105-30**.
@@ -742,25 +744,91 @@ All dates are listed in DD-MM-YYYY format.
         - **LWS/LR** → **LWS / LR**
         - **M-910-21/22-10 gun pod** → **M910-21/22-10**
         - All modifications for weapons have been added and corrected (it's pointless listing them all here when it's the same name as the weapons).
+    - China rework and Mandarin package:
+        - **H/AKJ81** modification → **H/AKJ08**. The pylon in the description has been corrected from **H/EDJ49B** to **GDJ-49B** (it was an image where just the corner of the letter was visible, it could have been an E or a G given the font and that it's just a corner but the fact that every other pylon is GDL or, more commonly, GDJ means this is almost certainly GDJ).
     - I somehow had misspelled "maintenance" as "maintainance" in literally every modification (and as "maintenence" in 2 of them) because I'm an absolute moron, and it has somehow been like this for almost a year. That has been fixed now. Thanks tNebula for letting me know that I'm an actual dumbass.
     - Corrected a typo in the description of the **F-2A-MIT (C10)**'s **GBU-31(V)1/B / 62(V)1/B** modification.
     - Added bomb masses to the description of the **F-2A-MIT (C10)**'s **GBU-31(V)1/B / 62(V)1/B** modification.
-    - **H/AKJ81** modification → **H/AKJ08**.
     - Corrected the description of the **39A940-31/32** gun pod modification.
+    - **16"/50 Mk 7 Mod 0** modification → **16" A.P. Mk 8 Mod 6** (somehow I gave it the name of the gun and not the ammunition).
+
+### Engines:
+
+- #### Additions:
+
+    - Update "Line of Contact" additions:
+        - **MTU 8V 199 TE20**
+        - **MTU 8V 199 TE21**
+        - **6M70T4**
+        - **V-1710-55**
+        - **Cyclone R-1820-F53**
+        - **R-1820-72w**
+        - **DSC1122**
+        - **3040 MX**
+        - **HD4070**
+        - **GRS900R**
+        - **HSWL 256B**
+        - **AL-31FN series 3**
+        - **M88-2E4**
+        - **AL-41F1S**
+        - **WS-10B**
+        - **Viper 11**
+        - **F414-GE-400**
+        - **F414-GE-39E (RM16)**
+
+- #### Changes:
+
+    - Update "Line of Contact" changes:
+        - **V-1710-55** → **Allison Engine Company F10L | V-1710-55**.
+        - **Cyclone R-1820-F53** → **GR-1820-F53 Cyclone**.
+        - **R-1820-72w** → **R-1820-72W Cyclone**.
+        - **GRS900R** → **GRS 900R**.
+        - **AL-31FN series 3** → **AL-31FN syeriâ 3**.
+        - **AL-41F1S** → **izd. 117S | AL-41F1S**.
+        - **WS-10B** → **WS-10B Fādòngjī**.
+            - Mandarin package: **WS-10B** → **WS-10B发动机**.
+            - Full Mandarin package: **WS-10B** → **涡扇-10B发动机**.
+        - **Viper 11** → **Viper Mk. 200**.
+        - **F414-GE-39E (RM16)** → **RM16**.
+    - China rework & Mandarin package:
+        - **WJ6 Fādòngjī** → **WJ-6 Fādòngjī**.
+            - Mandarin package: **WJ6 Fādòngjī** → **WJ-6发动机**.
+            - Full Mandarin package: **WJ6 Fādòngjī** → **涡桨-6发动机**.
+    - **Allison** (engine manufacturer) → **Allison Engine Company**.
+    - **Allison** (transmission manufacturer) → **Allison Transmission**.
 
 ### Sensors:
 
 - #### Additions:
 
     - Update "Line of Contact" additions:
+        - **AN/APG-79**
+        - **CAPTOR-E**
+        - **Sapphire-25/TP-26Sh1**
+        - **N001VE**
+        - **N035**
+        - **Type 03 TA**
+        - **KLJ-10A**
         - **YINGS-III**
+        - **HQ-11 TA** (the name literally does not exist publically there is no way to rename this one; it's LLQ[something] but I don't know what that something is)
+        - **ES-05**
 
 - #### Changes:
 
     - Update "Line of Contact" changes:
+        - **CAPTOR-E** (for the **Eurofighter (P3Ec1)**) → **ECRS Mk1**.
+        - **CAPTOR-E** (for the **Typhoon F.G.R. Mk. 4 (ZK355)** and **F-2000A (ECRS Mk2)**) → **ECRS Mk2**.
+        - **Sapphire-25/TP-26Sh1** → **Sistyema upravlyeniâ vooružyeniyem S-25** with the **Tyeplopyelyengator TP-26Š1** IRST and the **Bortovoj radiolokaczionnoj stanczii RP-25MN "Sapfir-25"** radar sighting system featuring the **Radiolokaczionnaâ stancziâ N005**.
+        - **N001VE** → **Sistyema upravlyeniâ vooružyeniyem SUV-VÈ** with the **Optiko-èlyektronnaâ priczyel'naâ sistyema OÈPS-27** IRST and the **Radiolokaczionnyj priczyel'nyj komplyeks RLPK-27VÈ "Myeč"** radar sighting system featuring the **Radiolokaczionnaâ stancziâ N001VYe**.
+        - **N035** → **Radiolokaczionnaâ stancziâ N035 "Irbis"** (we don't know the name of the rest of the system).
+        - **Type 03 TA** → **03 Shiki Chūkyorichi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsenbu**.
+            - Japanese package: **Type 03 TA** → **03式中距離地対空誘導弾射撃用レーダ装置空中線部**.
+        - **KLJ-10A** → **KLJ-10 Jīzai Màichōng Duō Pu Lè Huo Kòng Léidá**.
+            - Mandarin package: **KLJ-10A** → **KLJ-10机载脉冲多普勒火控雷达**.
         - **YINGS-III** → **YINGS-IIIA (Biāo Pèixíng)**. Long name → **YINGS-IIIA Zhòuyè Miáozhǔn Diào Cāng (Biāo Pèixíng)**.
             - Mandarin package: **YINGS-III** → **YINGS-IIIA**. Long name → **YINGS-IIIA昼夜瞄准吊舱**.
             - Full Mandarin package: **YINGS-III** → **鹰隼-IIIA**. Long name → **鹰隼-IIIA昼夜瞄准吊舱**.
+        - **ES-05** → **RAVEN ES-05**.
     - **K/PZS01** (the one on the **JF-17 Block I**) → **ASELPOD**. Long name → **ASELPOD Advanced Targeting Pod**. It was called the K/PZS01 because of a time when all the models were mixed up and this used the K/JDC03A pod but with the name file of the K/PZS01 or something like that.
 
 ## 1.15.01 - 19-11-2025

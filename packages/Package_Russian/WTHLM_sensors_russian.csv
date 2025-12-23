@@ -1,7 +1,19 @@
 <ID|readonly|noverify>;<English>
 //RADARS
+sensors/su_sapphire_25;"Система управления вооружением С-25
+• Бортовой радиолокационной станции РП-25МН «Сапфир-25» <color=#ff6f00>RDR-PD</color>
+  • Радиолокационная станция Н005
+• Теплопеленгатор ТП-26Ш1 <color=#ff6f00>IRST</color>"
+
 sensors/su_n_001;РЛПК-27 Меч <color=#ff6f00>RDR-PD</color>
 sensors/su_n_001k;РЛПК-27К Меч <color=#ff6f00>RDR-PD</color>
+
+sensors/su_n_001ve;"Система управления вооружением СУВ-ВЭ
+• Радиолокационный прицельный комплекс РЛПК-27ВЭ «Меч» <color=#ff6f00>RDR-PD</color>
+  • Радиолокационная станция Н001ВЕ
+• Оптико-электронная прицельная система ОЭПС-27 <color=#ff6f00>IRST</color>"
+
+sensors/su_n_035e;Радиолокационная система управления Н035 «Ирбис» <color=#ff6f00>RDR-AESA</color>
 sensors/su_n_001vep;РЛПК-27ВЭШ Меч-М <color=#ff6f00>RDR-PD</color>
 sensors/su_9s18m3;Радиолокационная станция 9С18М3 «Купол-М3» <color=#ff6f00>RDR-PESA</color>
 sensors/su_viking;Радиолокационная станция 9С35М3 <color=#ff6f00>RDR-PESA</color>

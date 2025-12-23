@@ -762,6 +762,7 @@ All dates are listed in DD-MM-YYYY format.
         - **6M70T4**
         - **V-1710-55**
         - **Cyclone R-1820-F53**
+        - **R-1820-72w**
         - **DSC1122**
         - **3040 MX**
         - **HD4070**
@@ -770,15 +771,29 @@ All dates are listed in DD-MM-YYYY format.
         - **AL-31FN series 3**
         - **M88-2E4**
         - **AL-41F1S**
+        - **WS-10B**
+        - **Viper 11**
+        - **F414-GE-400**
+        - **F414-GE-39E (RM16)**
 
 - #### Changes:
 
     - Update "Line of Contact" changes:
         - **V-1710-55** → **Allison Engine Company F10L | V-1710-55**.
         - **Cyclone R-1820-F53** → **GR-1820-F53 Cyclone**.
+        - **R-1820-72w** → **R-1820-72W Cyclone**.
         - **GRS900R** → **GRS 900R**.
         - **AL-31FN series 3** → **AL-31FN syeriâ 3**.
         - **AL-41F1S** → **izd. 117S | AL-41F1S**.
+        - **WS-10B** → **WS-10B Fādòngjī**.
+            - Mandarin package: **WS-10B** → **WS-10B发动机**.
+            - Full Mandarin package: **WS-10B** → **涡扇-10B发动机**.
+        - **Viper 11** → **Viper Mk. 200**.
+        - **F414-GE-39E (RM16)** → **RM16**.
+    - China rework & Mandarin package:
+        - **WJ6 Fādòngjī** → **WJ-6 Fādòngjī**.
+            - Mandarin package: **WJ6 Fādòngjī** → **WJ-6发动机**.
+            - Full Mandarin package: **WJ6 Fādòngjī** → **涡桨-6发动机**.
     - **Allison** (engine manufacturer) → **Allison Engine Company**.
     - **Allison** (transmission manufacturer) → **Allison Transmission**.
 

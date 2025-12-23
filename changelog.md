@@ -359,6 +359,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Z11WA**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z11WA Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **昌河飞机工业 (集团) | Z11WA型武装直升机**.
             - Full Mandarin package: **Z11WA** → **直11WA**. Statcard name → **昌河飞机工业 (集团) | 直11WA型武装直升机**.
+        - **SA 342 L**: Statcard name → **Société Nationale Industrielle Aérospatiale | SA 342 L Xíng Wuzhuāng Zhíshēngjī**.
+            - Mandarin package: Statcard name → **Société Nationale Industrielle Aérospatiale | SA 342 L型武装直升机**.
         - **Z9W**: Statcard name → **Hā'ěrbīn Fēijī Gōngyè (Jítuán) | Z9W Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **哈尔滨飞机工业 (集团) | Z9W型武装直升机**.
             - Full Mandarin package: **Z9W** → **直9W**. Statcard name → **哈尔滨飞机工业 (集团) | 直9W型武装直升机**.

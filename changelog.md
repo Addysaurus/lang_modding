@@ -787,15 +787,67 @@ All dates are listed in DD-MM-YYYY format.
         - **GRS900R** → **GRS 900R**.
         - **AL-31FN series 3** → **AL-31FN syeriâ 3**.
         - **AL-41F1S** → **izd. 117S | AL-41F1S**.
-        - **WS-10B** → **WS-10B Fādòngjī**.
-            - Mandarin package: **WS-10B** → **WS-10B发动机**.
-            - Full Mandarin package: **WS-10B** → **涡扇-10B发动机**.
+        - **WS-10B** → **FWS10B Fādòngjī "Tàixíng"**.
+            - Mandarin package: **WS-10B** → **FWS10B发动机 "太行"**.
         - **Viper 11** → **Viper Mk. 200**.
         - **F414-GE-39E (RM16)** → **RM16**.
     - China rework & Mandarin package:
         - **WJ6 Fādòngjī** → **WJ-6 Fādòngjī**.
             - Mandarin package: **WJ6 Fādòngjī** → **WJ-6发动机**.
             - Full Mandarin package: **WJ6 Fādòngjī** → **涡桨-6发动机**.
+        - **WP-5** → **WP-5 Fādòngjī**.
+            - Mandarin package: **WP-5** → **WP-5发动机**.
+            - Full Mandarin package: **WP-5** → **涡喷-5发动机**.
+        - **WP-6** → **WP-6 Fādòngjī**.
+            - Mandarin package: **WP-6** → **WP-6发动机**.
+            - Full Mandarin package: **WP-6** → **涡喷-6发动机**.
+        - **WP-6A** → **WP-6A Fādòngjī**.
+            - Mandarin package: **WP-6A** → **WP-6A发动机**.
+            - Full Mandarin package: **WP-6A** → **涡喷-6A发动机**.
+        - **WP-6A-III** → **WP-6AIII Fādòngjī**.
+            - Mandarin package: **WP-6A-III** → **WP-6AIII发动机**.
+            - Full Mandarin package: **WP-6A-III** → **涡喷-6AIII发动机**.
+        - **WP-7B** → **WP-7B Fādòngjī**.
+            - Mandarin package: **WP-7B** → **WP-7B发动机**.
+            - Full Mandarin package: **WP-7B** → **涡喷-7B发动机**.
+        - **WP-7F** → **WP-7F Fādòngjī**.
+            - Mandarin package: **WP-7F** → **WP-7F发动机**.
+            - Full Mandarin package: **WP-7F** → **涡喷-7F发动机**.
+        - **WP-13A-II** → **WP-13AII Fādòngjī**.
+            - Mandarin package: **WP-13A-II** → **WP-13AII发动机**.
+            - Full Mandarin package: **WP-13A-II** → **涡喷-13AII发动机**.
+        - **WP-13B-II** → **WP-13BII Fādòngjī**.
+            - Mandarin package: **WP-13B-II** → **WP-13BII发动机**.
+            - Full Mandarin package: **WP-13B-II** → **涡喷-13BII发动机**.
+        - **WP-13F** → **WP-13F Fādòngjī**.
+            - Mandarin package: **WP-13F** → **WP-13F发动机**.
+            - Full Mandarin package: **WP-13F** → **涡喷-13F发动机**.
+        - **WP-13FI** → **WP-13FI Fādòngjī**.
+            - Mandarin package: **WP-13FI** → **WP-13FI发动机**.
+            - Full Mandarin package: **WP-13FI** → **涡喷-13FI发动机**.
+        - **WS-9** → **FWS9 Fādòngjī "Qínlǐng"**.
+            - Mandarin package: **WS-9** → **FWS9发动机 "秦岭"**.
+        - **WS-10A** → **FWS10A Fādòngjī "Tàixíng"**.
+            - Mandarin package: **WS-10A** → **FWS10A发动机 "太行"**.
+        - **WZ-8A** → **WZ-8A Fādòngjī**.
+            - Mandarin package: **WZ-8A** → **WZ-8A发动机**.
+            - Full Mandarin package: **WZ-8A** → **涡轴-8A发动机**.
+        - **WZ-8C** → **WZ-8C Fādòngjī**.
+            - Mandarin package: **WZ-8C** → **WZ-8C发动机**.
+            - Full Mandarin package: **WZ-8C** → **涡轴-8C发动机**.
+        - **WZ-8D** → **WZ-8D Fādòngjī**.
+            - Mandarin package: **WZ-8D** → **WZ-8D发动机**.
+            - Full Mandarin package: **WZ-8D** → **涡轴-8D发动机**.
+        - **WZ-9** → **FWZ9 Fādòngjī**.
+            - Mandarin package: **WZ-9** → **FWZ9发动机**.
+        - **WZ-9C** → **FWZ9C Fādòngjī**.
+            - Mandarin package: **WZ-9C** → **FWZ9C发动机**.
+        - **Shenyang Liming** (engine manufacturer) → **Zhōngguó Háng Fā Shěnyáng Límíng Hángkōng Fādòngjī Yǒuxiàn Zérèn Gōngsī**.
+            - Mandarin package: **Shenyang Liming** → **中国航发沈阳黎明航空发动机有限责任公司**.
+        - **XAEC** (engine manufacturer) → **Xī'ān Hángkōng Fādòngjī (Jítuán) Yǒuxiàn Gōngsī**.
+            - Mandarin package: **XAEC** → **西安航空发动机 (集团) 有限公司**.
+        - **Zhuzhou Aero-Engine Factory** (engine manufacturer) → **Xī'ān Hángkōng Fādòngjī (Jítuán) Yǒuxiàn Gōngsī**.
+            - Mandarin package: **Zhuzhou Aero-Engine Factory** → **西安航空发动机 (集团) 有限公司**.
     - **Allison** (engine manufacturer) → **Allison Engine Company**.
     - **Allison** (transmission manufacturer) → **Allison Transmission**.
 

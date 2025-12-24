@@ -654,11 +654,12 @@ All dates are listed in DD-MM-YYYY format.
         - **FM-3000**
         - **GB3**
         - **LS-6(IR) 250**
-        - **Drop tank (100 gal.)** (for the FR-1)
-        - **Drop tank (100 gal.)** (for the FR-1)
-        - **Drop tank (480 gal.)** (for the F/A-18E)
-        - **Drop tank (820 liters.)** (for the Su-7 family)
-        - **Drop tank (5280 liters.)** (for the MiG-25PD)
+        - **Drop tank (100 gal.)** (for the **FR-1**)
+        - **Drop tank (100 gal.)** (for the **FR-1**)
+        - **Drop tank (480 gal.)** (for the **F/A-18E**)
+        - **Drop tank (820 liters.)** (for the **Su-7 family**)
+        - **Drop tank (5280 liters.)** (for the **MiG-25PD**)
+        - **Drop tank (400 liters.)** (for the **A 21 family**)
     - **105 mm Rh 105-30 cannon**.
 
 - #### Changes:
@@ -724,7 +725,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Drop tank (480 gal.)** → **FPU-12/A**.
         - **Drop tank (820 liters.)** → **PTB-800**.
         - **Drop tank (5280 liters.)** → **PTB-5000**.
-        
+        - **Drop tank (400 liters.)** → **Drop tank (400 L)**. This is placeholder name for the A 21 family wing tanks. If anyone knows a source for these, let me (Theren) know, as I searched all over and couldn't find any name for these.
     - China rework:
         - **H/AKJ08**: Long name → **YJ81 | H/AKJ08 Kōng Jiàn Daodàn**.
     - **105 mm Rh 105-30 cannon** → **Rh105-30**.

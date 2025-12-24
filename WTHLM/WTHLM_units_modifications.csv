@@ -376,19 +376,72 @@ modification/uk_sea_eagle/desc;"Loadout unlocked:
 //JAPAN MISSILES
 modification/jp_asm1;ASM-1
 modification/jp_asm1/desc;"Loadout unlocked:
-• <color=@userlogColoredText>BRU-47/A</color>pyrotechnic ejector rack <color=@userlogColoredText>LAMS-7</color> pylon:
+• <color=@userlogColoredText>BRU-47/A</color> pyrotechnic ejector rack on <color=@userlogColoredText>LAMS-7</color> pylon:
   • <color=@userlogColoredText>ASM-1</color> <color=#ff6f00>AShM-ARH</color>
-• <color=@userlogColoredText>BRU-47/A</color>pyrotechnic ejector rack <color=@userlogColoredText>LAMS-7B</color> pylon:
+• <color=@userlogColoredText>BRU-47/A</color>pyrotechnic ejector rack on <color=@userlogColoredText>LAMS-7B</color> pylon:
   • <color=@userlogColoredText>ASM-1</color> <color=#ff6f00>AShM-ARH</color>"
 
 modification/jp_asm2;ASM-2
 modification/jp_asm2/desc;"Loadout unlocked:
-• <color=@userlogColoredText>BRU-47/A</color>pyrotechnic ejector rack <color=@userlogColoredText>LAMS-7</color> pylon:
+• <color=@userlogColoredText>BRU-47/A</color> pyrotechnic ejector rack on <color=@userlogColoredText>LAMS-7</color> pylon:
   • <color=@userlogColoredText>ASM-2</color> <color=#ff6f00>AShM-IR</color>
-• <color=@userlogColoredText>BRU-47/A</color>pyrotechnic ejector rack <color=@userlogColoredText>LAMS-7B</color> pylon:
+• <color=@userlogColoredText>BRU-47/A</color>pyrotechnic ejector rack on <color=@userlogColoredText>LAMS-7B</color> pylon:
   • <color=@userlogColoredText>ASM-2</color> <color=#ff6f00>AShM-IR</color>"
 
 //CHINA MISSILES
+modification/mig_19_pl2;K/AKK2
+modification/mig_19_pl2/desc;"Loadout unlocked:
+• <color=@userlogColoredText>APU-13</color> missile launcher:
+  • <color=@userlogColoredText>K/AKK2</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/j_7_pl5b;K/AKK5B
+modification/j_7_pl5b/desc;"Loadout unlocked:
+• K/JJ7D, K/JJ7E, K/JJ8 (all):
+  • <color=@userlogColoredText>APU-13</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5B</color> <color=#ff6f00>AAM-IR</color>
+• H/JJH7, K/JJH7A (all):
+  • <color=@userlogColoredText>PF9W</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5B</color> <color=#ff6f00>AAM-IR</color>
+• K/JJH7A (all):
+  • <color=@userlogColoredText>APU-13</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5B</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/cn_pl5c;K/AKK5C
+modification/cn_pl5c/desc;"Loadout unlocked:
+• H/JJH7, K/JJH7A (all):
+  • <color=@userlogColoredText>PF9W</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5C</color> <color=#ff6f00>AAM-IR</color>
+• K/JJH7A (all):
+  • <color=@userlogColoredText>APU-13</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5C</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/cn_pl5e2;K/AKK5EII
+modification/cn_pl5e2/desc;"Loadout unlocked:
+• K/JJ10A:
+  • <color=@userlogColoredText>APU-13</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5EII</color> <color=#ff6f00>AAM-IR</color>
+• H/JJH7, K/JJH7A (all):
+  • <color=@userlogColoredText>PF9W</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5EII</color> <color=#ff6f00>AAM-IR</color>
+• K/JJH7A (all):
+  • <color=@userlogColoredText>APU-13</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5EII</color> <color=#ff6f00>AAM-IR</color>
+• JF-17 Block I:
+  • <color=@userlogColoredText>APU-13</color> missile launcher on <color=@userlogColoredText>GDJ-II18A</color> pylon:
+    • <color=@userlogColoredText>K/AKK5EII</color> <color=#ff6f00>AAM-IR</color>
+  • <color=@userlogColoredText>PF9WA</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5EII</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/j_7_pl7;K/AKK7
+modification/j_7_pl7/desc;"Loadout unlocked:
+• <color=@userlogColoredText>PF7</color> missile launcher:
+  • <color=@userlogColoredText>K/AKK7</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/cn_sd10;SD10A
+modification/cn_sd10/desc;"Loadout unlocked:
+• <color=@userlogColoredText>SDF10A</color> missile launcher x2 on dual rack:
+  • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>"
+
 modification/cn_yj_81k;H/AKJ08
 modification/cn_yj_81k/desc;"Loadout unlocked:
 • <color=@userlogColoredText>GDJ-49B</color> pylon:
@@ -2838,16 +2891,6 @@ modification/mig_23_r_24t/desc;Allows installation of APU-23M pylons mounting R-
 modification/mig_23_r_24t;R-24T
 modification/mig_23_r_24/desc;Allows installation of APU-23M pylons mounting R-24R / R-24T air-to-air missiles.
 modification/mig_23_r_24;R-24R / T
-modification/mig_19_pl2/desc;Allows installation of PL2 air-to-air missiles.
-modification/mig_19_pl2;PL2
-modification/j_7_pl5b/desc;Allows installation of PL5B air-to-air missiles.
-modification/j_7_pl5b;PL5B
-modification/cn_pl5c/desc;Allows the installation of PL5C air-to-air missiles.
-modification/cn_pl5c;PL5C
-modification/cn_pl5e2/desc;Allows the installation of PL5EII air-to-air missiles.
-modification/cn_pl5e2;PL5EII
-modification/j_7_pl7/desc;Allows installation of PL7 air-to-air missiles.
-modification/j_7_pl7;PL7
 modification/jp_aam3/desc;Allows the installation of AAM-3 air-to-air missiles.
 modification/jp_aam3;AAM-3
 modification/jp_aam4/desc;Allows the installation of AAM-4 air-to-air missiles.
@@ -2860,8 +2903,6 @@ modification/cn_pl11/desc;Allows installation of PL11 air-to-air missiles.
 modification/cn_pl11;PL11
 modification/cn_pl12/desc;Allows the installation of PL12 air-to-air missiles.
 modification/cn_pl12;PL12
-modification/cn_sd10/desc;Allows the installation of SD10A air-to-air missiles.
-modification/cn_sd10;SD10A
 modification/cn_pf10/desc;Allows installation of PF10 air-to-air missile pylons.
 modification/cn_pf10;PF10
 modification/mig_19_r13m/desc;Allows installation of APU-13MTE pylons mounting R-13M1 air-to-air missiles.

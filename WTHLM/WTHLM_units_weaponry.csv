@@ -752,20 +752,134 @@ weapons/su_45_54vt_1954_torpedo/short;45-54VT
 //UNCATEGORIZED TORPEDOES
 
 //USA FUEL TANKS
+weapons/us_100gal_drop_tank_1;<color=@userlogColoredText>379 L</color> Tank - 100 Gallon Droppable Fuel <color=#ff6f00>DPTK</color>
+weapons/us_100gal_drop_tank_1/short;Tank - 100 Gallon
+weapons/us_100gal_drop_tank_2;<color=@userlogColoredText>379 L</color> Tank - 100 Gallon Droppable Fuel <color=#ff6f00>DPTK</color>
+weapons/us_100gal_drop_tank_2/short;Tank - 100 Gallon
+weapons/us_130gal_drop_tank_1;<color=@userlogColoredText>492 L</color> Tank - 130 Gallon Droppable Fuel <color=#ff6f00>DPTK</color>
+weapons/us_130gal_drop_tank_1/short;Tank - 130 Gallon
+weapons/us_130gal_drop_tank_2;<color=@userlogColoredText>492 L</color> Tank - 130 Gallon Droppable Fuel <color=#ff6f00>DPTK</color>
+weapons/us_130gal_drop_tank_2/short;Tank - 130 Gallon
 weapons/us_275gal_fuse_clip_drop_tank_1;Drop tank (275 gal)
 weapons/us_275gal_fuse_clip_drop_tank_1/short;Drop tank (275 gal)
 weapons/us_358gal_f_106_1;Drop tank (358 gal)
 weapons/us_358gal_f_106_1/short;Drop tank (358 gal)
 weapons/us_358gal_f_106_2;Drop tank (358 gal)
 weapons/us_358gal_f_106_2short;Drop tank (358 gal)
+weapons/us_330gal_fa_18_drop_tank_wing_left;<color=@userlogColoredText>1249 L</color> FPU-8/A <color=#ff6f00>DPTK</color>
+weapons/us_330gal_fa_18_drop_tank_wing_left/short;FPU-8/A
+weapons/us_330gal_fa_18_drop_tank_wing_right;<color=@userlogColoredText>1249 L</color> FPU-8/A <color=#ff6f00>DPTK</color>
+weapons/us_330gal_fa_18_drop_tank_wing_right/short;FPU-8/A
+weapons/us_330gal_fa_18_drop_tank_fuse;<color=@userlogColoredText>1249 L</color> FPU-8/A <color=#ff6f00>DPTK</color>
+weapons/us_330gal_fa_18_drop_tank_fuse/short;FPU-8/A
+weapons/us_280gal_drop_tank;<color=@userlogColoredText>1060 L</color> FPU-1/A <color=#ff6f00>DPTK</color>
+weapons/us_280gal_drop_tank/short;FPU-1/A
+weapons/us_280gal_drop_tank_1;<color=@userlogColoredText>1060 L</color> FPU-1/A <color=#ff6f00>DPTK</color>
+weapons/us_280gal_drop_tank_1/short;FPU-1/A
+weapons/us_280gal_drop_tank_light;<color=@userlogColoredText>1060 L</color> FPU-1/A <color=#ff6f00>DPTK</color>
+weapons/us_280gal_drop_tank_light/short;FPU-1/A
+weapons/us_280gal_drop_tank_light_1;<color=@userlogColoredText>1060 L</color> FPU-1/A <color=#ff6f00>DPTK</color>
+weapons/us_280gal_drop_tank_light_1/short;FPU-1/A
+weapons/us_480gal_fa_18e_drop_tank_centr;<color=@userlogColoredText>1817 L</color> FPU-12/A <color=#ff6f00>DPTK</color>
+weapons/us_480gal_fa_18e_drop_tank_centr/short;FPU-12/A
+weapons/us_480gal_fa_18e_drop_tank_wing_left_1;<color=@userlogColoredText>1817 L</color> FPU-12/A <color=#ff6f00>DPTK</color>
+weapons/us_480gal_fa_18e_drop_tank_wing_left_1/short;FPU-12/A
+weapons/us_480gal_fa_18e_drop_tank_wing_left_2;<color=@userlogColoredText>1817 L</color> FPU-12/A <color=#ff6f00>DPTK</color>
+weapons/us_480gal_fa_18e_drop_tank_wing_left_2/short;FPU-12/A
+weapons/us_480gal_fa_18e_drop_tank_wing_right_1;<color=@userlogColoredText>1817 L</color> FPU-12/A <color=#ff6f00>DPTK</color>
+weapons/us_480gal_fa_18e_drop_tank_wing_right_1/short;FPU-12/A
+weapons/us_480gal_fa_18e_drop_tank_wing_right_2;<color=@userlogColoredText>1817 L</color> FPU-12/A <color=#ff6f00>DPTK</color>
+weapons/us_480gal_fa_18e_drop_tank_wing_right_2/short;FPU-12/A
 
 //GERMANY FUEL TANKS
 weapons/mirage_3s_fuel_tank_6;Conformal fuel tank
 weapons/mirage_3s_fuel_tank_6/short;CFT
 weapons/sw_880l_rp825_drop_tank_mirage_iiis;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
 weapons/sw_880l_rp825_drop_tank_mirage_iiis/short;RP 825
+weapons/gr_2250l_tornado_f3_1;<color=@userlogColoredText>2250 L</color> 2250 Litre External Fuel Tank <color=#ff6f00>DPTK</color>
+weapons/gr_2250l_tornado_f3_1/short;2250 Litre External Fuel Tank
+weapons/gr_2250l_tornado_f3_2;<color=@userlogColoredText>2250 L</color> 2250 Litre External Fuel Tank <color=#ff6f00>DPTK</color>
+weapons/gr_2250l_tornado_f3_2/short;2250 Litre External Fuel Tank
+weapons/fr_1300l_rp522_mirage_2000d_r1;<color=@userlogColoredText>1300 L</color> RPL 522 <color=#ff6f00>DPTK</color>
+weapons/fr_1300l_rp522_mirage_2000d_r1/short;RPL 522
 
 //USSR FUEL TANKS
+weapons/su_800l_su_7b_silver_fuse_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_fuse_1/short;PTB-800
+weapons/su_800l_su_7b_silver_fuse_2;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_fuse_2/short;PTB-800
+weapons/su_800l_su_7b_silver_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_wing_1/short;PTB-800
+weapons/su_800l_su_7b_silver_wing_2;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_wing_2/short;PTB-800
+weapons/su_800l_su_17_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_right_wing/short;PTB-800
+weapons/su_800l_su_17_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_right_wing_1/short;PTB-800
+weapons/su_800l_su_17_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_left_wing/short;PTB-800
+weapons/su_800l_su_17_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_left_wing_1/short;PTB-800
+weapons/su_800l_su_17_silver_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_left_wing/short;PTB-800
+weapons/su_800l_su_17_silver_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_left_wing_1/short;PTB-800
+weapons/su_800l_su_17_silver_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_right_wing/short;PTB-800
+weapons/su_800l_su_17_silver_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_right_wing_1/short;PTB-800
+weapons/su_490l_mig_21;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21/short;PTB-500
+weapons/su_490l_mig_21_left_wing;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_left_wing/short;PTB-500
+weapons/su_490l_mig_21_left_wing_1;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_left_wing_1/short;PTB-500
+weapons/su_490l_mig_21_fuse_1;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_fuse_1/short;PTB-500
+weapons/su_490l_mig_21_right_wing_1;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_right_wing_1/short;PTB-500
+weapons/su_490l_mig_21_fuse;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_fuse/short;PTB-500
+weapons/su_490l_mig_21_right_wing;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_right_wing/short;PTB-500
+weapons/su_800l_su_25tm_silver_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_right_wing/short;PTB-800
+weapons/su_800l_su_25tm_silver_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_right_wing_1/short;PTB-800
+weapons/su_800l_su_25tm_silver_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_left_wing/short;PTB-800
+weapons/su_800l_su_25tm_silver_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_left_wing_1/short;PTB-800
+weapons/su_800l_su_25t_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_left_wing/short;PTB-800
+weapons/su_800l_su_25t_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_left_wing_1/short;PTB-800
+weapons/su_800l_su_25t_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_right_wing/short;PTB-800
+weapons/su_800l_su_25t_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_right_wing_1/short;PTB-800
+weapons/su_800l_su_25_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_right_wing/short;PTB-800
+weapons/su_800l_su_25_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_right_wing_1/short;PTB-800
+weapons/su_800l_su_25_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_left_wing/short;PTB-800
+weapons/su_800l_su_25_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_left_wing_1/short;PTB-800
+weapons/su_1500_liters_fuse_mig_29;<color=@userlogColoredText>1520 L</color> PTB-1500 <color=#ff6f00>DPTK</color>
+weapons/su_1500_liters_fuse_mig_29/short;PTB-1500
+weapons/su_1500_liters_fuse_mig_29smt;<color=@userlogColoredText>1520 L</color> PTB-1500 <color=#ff6f00>DPTK</color>
+weapons/su_1500_liters_fuse_mig_29smt/short;PTB-1500
+weapons/su_2000_liters_fuse_mig_29smt;<color=@userlogColoredText>2000 L</color> PTB-2000 <color=#ff6f00>DPTK</color>
+weapons/su_2000_liters_fuse_mig_29smt/short;PTB-2000
+weapons/su_su34_3000l_drop_tank;<color=@userlogColoredText>3000 L</color> PTB-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank/short;PTB-3000
+weapons/su_su34_3000l_drop_tank_left;<color=@userlogColoredText>3000 L</color> PTB-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank_left/short;PTB-3000
+weapons/su_su34_3000l_drop_tank_right;<color=@userlogColoredText>3000 L</color> PTB-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank_right/short;PTB-3000
+weapons/su_5280l_mig_25pd_drop_tank_central;<color=@userlogColoredText>5280 L</color> PTB-5000 <color=#ff6f00>DPTK</color>
+weapons/su_5280l_mig_25pd_drop_tank_central/short;PTB-5000
 
 //UK FUEL TANKS
 weapons/in_100gal_marut_drop_tank_l;Drop tank (100 gal)
@@ -780,6 +894,12 @@ weapons/uk_130gal_hawk_drop_tank_1;Drop tank (591 L)
 weapons/uk_130gal_hawk_drop_tank_1/short;Drop tank (591 L)
 weapons/uk_130gal_hawk_drop_tank_2;Drop tank (591 L)
 weapons/uk_130gal_hawk_drop_tank_2/short;Drop tank (591 L)
+weapons/su_490l_mig_21_bison_fuse;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_bison_fuse/short;PTB-500
+weapons/su_490l_mig_21_bison_left_wing;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_bison_left_wing/short;PTB-500
+weapons/su_490l_mig_21_bison_right_wing;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_bison_right_wing/short;PTB-500
 
 //JAPAN FUEL TANKS
 weapons/jp_300_gal_fuse_f_2;Drop tank (300 gal)
@@ -790,6 +910,30 @@ weapons/jp_600gal_drop_tank_2;Drop tank (600 gal)
 weapons/jp_600gal_drop_tank_2/short;Drop tank (600 gal)
 
 //CHINA FUEL TANKS
+weapons/cn_800l_fyx800_drop_tank_1;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_800l_fyx800_drop_tank_1/short;FYX800B
+weapons/cn_800l_central_fyx800_drop_tank;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_800l_central_fyx800_drop_tank/short;FYX800B
+weapons/cn_800l_fyx800_drop_tank_2;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_800l_fyx800_drop_tank_2/short;FYX800B
+weapons/cn_800l_fyx800_j_10_drop_tank_1;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_800l_fyx800_j_10_drop_tank_1/short;FYX800B
+weapons/cn_800l_fyx800_j_10_drop_tank_2;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_800l_fyx800_j_10_drop_tank_2/short;FYX800B
+weapons/cn_1400l_fyx1400_drop_tank_1;<color=@userlogColoredText>1400 L</color> FYX1400E fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1400l_fyx1400_drop_tank_1/short;FYX1400E
+weapons/cn_1400l_fyx1400_drop_tank_2;<color=@userlogColoredText>1400 L</color> FYX1400E fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1400l_fyx1400_drop_tank_2/short;FYX1400E
+weapons/cn_1400l_fyx1400_drop_tank_3;<color=@userlogColoredText>1400 L</color> FYX1400E fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1400l_fyx1400_drop_tank_3/short;FYX1400E
+weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank;<color=@userlogColoredText>1400 L</color> FYX1400E fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank/short;FYX1400E
+weapons/cn_1600l_drop_tank;<color=@userlogColoredText>1600 L</color> FYX1700 fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1600l_drop_tank/short;FYX1700
+weapons/cn_1600l_drop_tank_1;<color=@userlogColoredText>1600 L</color> FYX1700 fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1600l_drop_tank_1/short;FYX1700
+weapons/cn_1600l_drop_tank_2;<color=@userlogColoredText>1600 L</color> FYX1700 fùyóuxiāng <color=#ff6f00>DPTK</color>
+weapons/cn_1600l_drop_tank_2/short;FYX1700
 
 //ITALY FUEL TANKS
 weapons/it_330l_drop_tank_1;Drop tank (330 L)
@@ -808,11 +952,69 @@ weapons/nl_150gal_early_drop_tank_1;Drop tank (150 gal)
 weapons/nl_150gal_early_drop_tank_1/short;Drop tank (150 gal)
 weapons/nl_150gal_early_drop_tank_2;Drop tank (150 gal)
 weapons/nl_150gal_early_drop_tank_2/short;Drop tank (150 gal)
+weapons/fr_1200l_rp35_drop_tank_1;<color=@userlogColoredText>1200 L</color> RP 35 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp35_drop_tank_1/short;RP 35
+weapons/fr_1200l_rp35_drop_tank_2;<color=@userlogColoredText>1200 L</color> RP 35 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp35_drop_tank_2/short;RP 35
+weapons/fr_1200l_rp35_drop_tank_aluminium_1;<color=@userlogColoredText>1200 L</color> RP 35 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp35_drop_tank_aluminium_1/short;RP 35
+weapons/fr_1200l_rp35_drop_tank_aluminium_2;<color=@userlogColoredText>1200 L</color> RP 35 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp35_drop_tank_aluminium_2/short;RP 35
+weapons/fr_1200l_rp35_drop_tank_gray_1;<color=@userlogColoredText>1200 L</color> RP 35 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp35_drop_tank_gray_1/short;RP 35
+weapons/fr_1200l_rp35_drop_tank_gray_2;<color=@userlogColoredText>1200 L</color> RP 35 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp35_drop_tank_gray_2/short;RP 35
+weapons/fr_1200l_rp36_drop_tank_1;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp36_drop_tank_1/short;RP 36
+weapons/fr_1200l_rp36_drop_tank_2;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp36_drop_tank_2/short;RP 36
+weapons/fr_1200l_rp36_drop_tank_3;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp36_drop_tank_3/short;RP 36
+weapons/fr_1200l_rp36_drop_tank_aluminium_1;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp36_drop_tank_aluminium_1/short;RP 36
+weapons/fr_1200l_rp36_drop_tank_aluminium_2;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp36_drop_tank_aluminium_2/short;RP 36
+weapons/fr_1200l_rp36_drop_tank_aluminium_3;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp36_drop_tank_aluminium_3/short;RP 36
+weapons/fr_1200l_rp36_drop_tank_desert_1;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp36_drop_tank_desert_1/short;RP 36
+weapons/fr_1200l_rp36_drop_tank_desert_2;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp36_drop_tank_desert_2/short;RP 36
+weapons/fr_1200l_rp36_drop_tank_desert_3;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp36_drop_tank_desert_3/short;RP 36
+weapons/fr_1200l_rp36_drop_tank_gray_1;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp36_drop_tank_gray_1/short;RP 36
+weapons/fr_1200l_rp36_drop_tank_gray_2;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp36_drop_tank_gray_2/short;RP 36
+weapons/fr_1200l_rp36_drop_tank_gray_3;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
+weapons/fr_1200l_rp36_drop_tank_gray_3/short;RP 36
+weapons/fr_1300l_rp62_drop_tank_1;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
+weapons/fr_1300l_rp62_drop_tank_1/short;RP 62
+weapons/fr_1300l_rp62_drop_tank_2;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
+weapons/fr_1300l_rp62_drop_tank_2/short;RP 62
+weapons/fr_1700l_rp30_drop_tank_1;<color=@userlogColoredText>1700 L</color> RP 30 <color=#ff6f00>DPTK</color>
+weapons/fr_1700l_rp30_drop_tank_1/short;RP 30
+weapons/fr_1700l_rp30_drop_tank_2;<color=@userlogColoredText>1700 L</color> RP 30 <color=#ff6f00>DPTK</color>
+weapons/fr_1700l_rp30_drop_tank_2/short;RP 30
+weapons/bl_1700l_rp30_drop_tank_1;<color=@userlogColoredText>1700 L</color> RP 30 <color=#ff6f00>DPTK</color>
+weapons/bl_1700l_rp30_drop_tank_1/short;RP 30
+weapons/bl_1700l_rp30_drop_tank_2;<color=@userlogColoredText>1700 L</color> RP 30 <color=#ff6f00>DPTK</color>
+weapons/bl_1700l_rp30_drop_tank_2/short;RP 30
+weapons/fr_1700l_rp30_mirage_3e_drop_tank_1;<color=@userlogColoredText>1700 L</color> RP 30 <color=#ff6f00>DPTK</color>
+weapons/fr_1700l_rp30_mirage_3e_drop_tank_1/short;RP 30
+weapons/fr_1700l_rp30_mirage_3e_drop_tank_2;<color=@userlogColoredText>1700 L</color> RP 30 <color=#ff6f00>DPTK</color>
+weapons/fr_1700l_rp30_mirage_3e_drop_tank_2/short;RP 30
 weapons/mirage_3s_sepr_tank_7;Fuel tank SEPR 844 Pod
 weapons/mirage_3s_sepr_tank_7/short;Fuel
 weapons/mirage_3s_sepr_tank_8;Fuel tank SEPR 844 Pod
 weapons/mirage_3s_sepr_tank_8/short;Fuel
 weapons/mirage_3c_fuel_tank_8;Fuel tank for SEPR 841
+weapons/fr_2000l_rpl_741_rafale_drop_tank_left;<color=@userlogColoredText>2000 L</color> RPL 741 <color=#ff6f00>DPTK</color>
+weapons/fr_2000l_rpl_741_rafale_drop_tank_left/short;RPL 741
+weapons/fr_2000l_rpl_741_rafale_drop_tank_fuse;<color=@userlogColoredText>2000 L</color> RPL 741 <color=#ff6f00>DPTK</color>
+weapons/fr_2000l_rpl_741_rafale_drop_tank_fuse/short;RPL 741
+weapons/fr_2000l_rpl_741_rafale_drop_tank_right;<color=@userlogColoredText>2000 L</color> RPL 741 <color=#ff6f00>DPTK</color>
+weapons/fr_2000l_rpl_741_rafale_drop_tank_right/short;RPL 741
 
 //SWEDEN FUEL TANKS
 weapons/sw_510l_wdns_drop_tank;Drop tank (510 L)
@@ -823,8 +1025,38 @@ weapons/sw_275gal_drop_tank_1;Drop tank (275 gal)
 weapons/sw_275gal_drop_tank_1/short;Drop tank (275 gal)
 weapons/sw_275gal_drop_tank_2;Drop tank (275 gal)
 weapons/sw_275gal_drop_tank_2/short;Drop tank (275 gal)
+weapons/sw_1250l_late_saab_ja37d;<color=@userlogColoredText>1250 L</color> X-tank <color=#ff6f00>DPTK</color>
+weapons/sw_1250l_late_saab_ja37d/short;X-tank
 
 //ISRAEL FUEL TANKS
+weapons/il_880l_rp825_drop_tank_1;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
+weapons/il_880l_rp825_drop_tank_1/short;RP 825
+weapons/il_880l_rp825_drop_tank_2;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
+weapons/il_880l_rp825_drop_tank_2/short;RP 825
+weapons/il_880l_rp825_drop_tank_3;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
+weapons/il_880l_rp825_drop_tank_3/short;RP 825
+weapons/il_880l_rp825_drop_tank_ghost_grey_1;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
+weapons/il_880l_rp825_drop_tank_ghost_grey_1/short;RP 825
+weapons/il_880l_rp825_drop_tank_ghost_grey_2;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
+weapons/il_880l_rp825_drop_tank_ghost_grey_2/short;RP 825
+weapons/il_880l_rp825_drop_tank_ghost_grey_3;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
+weapons/il_880l_rp825_drop_tank_ghost_grey_3/short;RP 825
+weapons/il_880l_rp825_drop_tank_mirage_3cj;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
+weapons/il_880l_rp825_drop_tank_mirage_3cj/short;RP 825
+weapons/il_880l_rp825_drop_tank_ghost_grey_mirage_3cj;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
+weapons/il_880l_rp825_drop_tank_ghost_grey_mirage_3cj/short;RP 825
+weapons/il_1300l_rp62_drop_tank_1;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
+weapons/il_1300l_rp62_drop_tank_1/short;RP 62
+weapons/il_1300l_rp62_drop_tank_2;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
+weapons/il_1300l_rp62_drop_tank_2/short;RP 62
+weapons/il_1300l_rp62_drop_tank_3;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
+weapons/il_1300l_rp62_drop_tank_3/short;RP 62
+weapons/il_1300l_rp62_drop_tank_ghost_grey_1;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
+weapons/il_1300l_rp62_drop_tank_ghost_grey_1/short;RP 62
+weapons/il_1300l_rp62_drop_tank_ghost_grey_2;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
+weapons/il_1300l_rp62_drop_tank_ghost_grey_2/short;RP 62
+weapons/il_1300l_rp62_drop_tank_ghost_grey_3;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
+weapons/il_1300l_rp62_drop_tank_ghost_grey_3/short;RP 62
 weapons/il_fastpack_f_16i_right;Conformal fuel tank
 weapons/il_fastpack_f_16i_right/short;CFT
 weapons/il_fastpack_f_16i_left;Conformal fuel tank
@@ -1604,20 +1836,6 @@ weapons/mirage_3c_sepr_844_rocket;Liquid-propellant rocket booster SEPR 844
 weapons/mirage_3c_sepr_844_rocket/short;SEPR 844
 weapons/us_300_gal_fuse_f_16_blok_10;Drop tank (300 gal)
 weapons/us_300_gal_fuse_f_16_blok_10/short;Drop tank
-weapons/us_330gal_fa_18_drop_tank_wing_left;<color=@userlogColoredText>1249 L</color> FPU-8/A <color=#ff6f00>DPTK</color>
-weapons/us_330gal_fa_18_drop_tank_wing_left/short;FPU-8/A
-weapons/us_330gal_fa_18_drop_tank_wing_right;<color=@userlogColoredText>1249 L</color> FPU-8/A <color=#ff6f00>DPTK</color>
-weapons/us_330gal_fa_18_drop_tank_wing_right/short;FPU-8/A
-weapons/us_330gal_fa_18_drop_tank_fuse;<color=@userlogColoredText>1249 L</color> FPU-8/A <color=#ff6f00>DPTK</color>
-weapons/us_330gal_fa_18_drop_tank_fuse/short;FPU-8/A
-weapons/us_280gal_drop_tank;<color=@userlogColoredText>1060 L</color> FPU-1/A <color=#ff6f00>DPTK</color>
-weapons/us_280gal_drop_tank/short;FPU-1/A
-weapons/us_280gal_drop_tank_1;<color=@userlogColoredText>1060 L</color> FPU-1/A <color=#ff6f00>DPTK</color>
-weapons/us_280gal_drop_tank_1/short;FPU-1/A
-weapons/us_280gal_drop_tank_light;<color=@userlogColoredText>1060 L</color> FPU-1/A <color=#ff6f00>DPTK</color>
-weapons/us_280gal_drop_tank_light/short;FPU-1/A
-weapons/us_280gal_drop_tank_light_1;<color=@userlogColoredText>1060 L</color> FPU-1/A <color=#ff6f00>DPTK</color>
-weapons/us_280gal_drop_tank_light_1/short;FPU-1/A
 weapons/uk_264gal_drop_tank_1;Drop tank (264 gal)
 weapons/uk_264gal_drop_tank_1/short;Drop tank
 weapons/uk_264gal_drop_tank_2;Drop tank (264 gal)
@@ -1662,12 +1880,6 @@ weapons/us_600_gal_fuse_f_4;Drop tank (600 gal)
 weapons/us_600_gal_fuse_f_4/short;Drop tank
 weapons/il_600_gal_fuse_f_4;Drop tank (600 gal)
 weapons/il_600_gal_fuse_f_4/short;Drop tank
-weapons/su_1500_liters_fuse_mig_29;<color=@userlogColoredText>1520 L</color> PTB-1500 <color=#ff6f00>DPTK</color>
-weapons/su_1500_liters_fuse_mig_29/short;PTB-1500
-weapons/su_1500_liters_fuse_mig_29smt;<color=@userlogColoredText>1520 L</color> PTB-1500 <color=#ff6f00>DPTK</color>
-weapons/su_1500_liters_fuse_mig_29smt/short;PTB-1500
-weapons/su_2000_liters_fuse_mig_29smt;<color=@userlogColoredText>2000 L</color> PTB-2000 <color=#ff6f00>DPTK</color>
-weapons/su_2000_liters_fuse_mig_29smt/short;PTB-2000
 weapons/sw_1100_gal_fuse_saab_jas39;Drop tank (1100 L)
 weapons/sw_1100_gal_fuse_saab_jas39/short;Drop tank
 weapons/sw_1100_gal_fuse_saab_jas39_left_wing;Drop tank (1100 L)
@@ -1680,20 +1892,8 @@ weapons/sw_1100_gal_fuse_saab_jas39_left_wing_puma;Drop tank (1100 L)
 weapons/sw_1100_gal_fuse_saab_jas39_left_wing_puma/short;Drop tank
 weapons/sw_1100_gal_fuse_saab_jas39_right_wing_puma;Drop tank (1100 L)
 weapons/sw_1100_gal_fuse_saab_jas39_right_wing_puma/short;Drop tank
-weapons/sw_1250l_late_saab_ja37d;<color=@userlogColoredText>1250 L</color> X-tank <color=#ff6f00>DPTK</color>
-weapons/sw_1250l_late_saab_ja37d/short;X-tank
 weapons/gr_1500l_tornado_assta1_1;Drop tank (1500 L)
 weapons/gr_1500l_tornado_assta1_1/short;Drop tank
-weapons/cn_800l_fyx800_drop_tank_1;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
-weapons/cn_800l_fyx800_drop_tank_1/short;FYX800B
-weapons/cn_800l_central_fyx800_drop_tank;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
-weapons/cn_800l_central_fyx800_drop_tank/short;FYX800B
-weapons/cn_800l_fyx800_drop_tank_2;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
-weapons/cn_800l_fyx800_drop_tank_2/short;FYX800B
-weapons/cn_800l_fyx800_j_10_drop_tank_1;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
-weapons/cn_800l_fyx800_j_10_drop_tank_1/short;FYX800B
-weapons/cn_800l_fyx800_j_10_drop_tank_2;<color=@userlogColoredText>800 L</color> FYX800B fùyóuxiāng <color=#ff6f00>DPTK</color>
-weapons/cn_800l_fyx800_j_10_drop_tank_2/short;FYX800B
 weapons/gr_1500l_tornado_assta1_2;Drop tank (1500 L)
 weapons/gr_1500l_tornado_assta1_2/short;Drop tank
 weapons/gr_1500l_tornado_ids_mfg_1;Drop tank (1500 L)
@@ -1726,22 +1926,10 @@ weapons/gr_1500l_tornado_f3_1;Drop tank (330 gal)
 weapons/gr_1500l_tornado_f3_1/short;Drop tank
 weapons/gr_1500l_tornado_f3_2;Drop tank (330 gal)
 weapons/gr_1500l_tornado_f3_2/short;Drop tank 1500
-weapons/gr_2250l_tornado_f3_1;<color=@userlogColoredText>2250 L</color> 2250 Litre External Fuel Tank <color=#ff6f00>DPTK</color>
-weapons/gr_2250l_tornado_f3_1/short;2250 Litre External Fuel Tank
-weapons/gr_2250l_tornado_f3_2;<color=@userlogColoredText>2250 L</color> 2250 Litre External Fuel Tank <color=#ff6f00>DPTK</color>
-weapons/gr_2250l_tornado_f3_2/short;2250 Litre External Fuel Tank
-weapons/fr_1300l_rp522_mirage_2000d_r1;<color=@userlogColoredText>1300 L</color> RPL 522 <color=#ff6f00>DPTK</color>
-weapons/fr_1300l_rp522_mirage_2000d_r1/short;RPL 522
 weapons/fr_2500l_m4000_drop_tank_1;Drop tank (2500 L)
 weapons/fr_2500l_m4000_drop_tank_1/short;Drop tank
 weapons/fr_2500l_m4000_drop_tank_2;Drop tank (2500 L)
 weapons/fr_2500l_m4000_drop_tank_2/short;Drop tank
-weapons/fr_2000l_rpl_741_rafale_drop_tank_left;<color=@userlogColoredText>2000 L</color> RPL 741 <color=#ff6f00>DPTK</color>
-weapons/fr_2000l_rpl_741_rafale_drop_tank_left/short;RPL 741
-weapons/fr_2000l_rpl_741_rafale_drop_tank_fuse;<color=@userlogColoredText>2000 L</color> RPL 741 <color=#ff6f00>DPTK</color>
-weapons/fr_2000l_rpl_741_rafale_drop_tank_fuse/short;RPL 741
-weapons/fr_2000l_rpl_741_rafale_drop_tank_right;<color=@userlogColoredText>2000 L</color> RPL 741 <color=#ff6f00>DPTK</color>
-weapons/fr_2000l_rpl_741_rafale_drop_tank_right/short;RPL 741
 weapons/fr_500l_m4000_drop_tank_1;Drop tank (500 L)
 weapons/fr_500l_m4000_drop_tank_1/short;Drop tank
 weapons/fr_500l_m4000_drop_tank_2;Drop tank (500 L)
@@ -1756,46 +1944,6 @@ weapons/sws_675l_hunter_f58_1;Drop tank (150 gal)
 weapons/sws_675l_hunter_f58_1/short;Drop tank
 weapons/sws_675l_hunter_f58_2;Drop tank (150 gal)
 weapons/sws_675l_hunter_f58_2/short;Drop tank
-weapons/su_800l_su_17_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_right_wing/short;PTB-800
-weapons/su_800l_su_17_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_right_wing_1/short;PTB-800
-weapons/su_800l_su_17_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_left_wing/short;PTB-800
-weapons/su_800l_su_17_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_left_wing_1/short;PTB-800
-weapons/su_800l_su_17_silver_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_silver_left_wing/short;PTB-800
-weapons/su_800l_su_17_silver_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_silver_left_wing_1/short;PTB-800
-weapons/su_800l_su_17_silver_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_silver_right_wing/short;PTB-800
-weapons/su_800l_su_17_silver_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_silver_right_wing_1/short;PTB-800
-weapons/su_800l_su_25tm_silver_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_25tm_silver_right_wing/short;PTB-800
-weapons/su_800l_su_25tm_silver_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_25tm_silver_right_wing_1/short;PTB-800
-weapons/su_800l_su_25tm_silver_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_25tm_silver_left_wing/short;PTB-800
-weapons/su_800l_su_25tm_silver_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_25tm_silver_left_wing_1/short;PTB-800
-weapons/su_800l_su_25t_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_25t_left_wing/short;PTB-800
-weapons/su_800l_su_25t_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_25t_left_wing_1/short;PTB-800
-weapons/su_800l_su_25t_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_25t_right_wing/short;PTB-800
-weapons/su_800l_su_25t_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_25t_right_wing_1/short;PTB-800
-weapons/su_800l_su_25_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_25_right_wing/short;PTB-800
-weapons/su_800l_su_25_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_25_right_wing_1/short;PTB-800
-weapons/su_800l_su_25_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_25_left_wing/short;PTB-800
-weapons/su_800l_su_25_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_25_left_wing_1/short;PTB-800
 weapons/su_800l_mig_23_27_silver_fuse;Drop tank (820 L)
 weapons/su_800l_mig_23_27_silver_fuse/short;Drop tank
 weapons/su_800l_mig_21_silver_fuse;Drop tank (820 L)
@@ -1806,12 +1954,6 @@ weapons/su_800l_mig_23m_silver_fuse;Drop tank (820 L)
 weapons/su_800l_mig_23m_silver_fuse/short;Drop tank
 weapons/su_800l_mig_23ml_silver_fuse;Drop tank (820 L)
 weapons/su_800l_mig_23ml_silver_fuse/short;Drop tank
-weapons/su_490l_mig_21;<color=@userlogColoredText>490 L</color> PTB-490 <color=#ff6f00>DPTK</color>
-weapons/su_490l_mig_21/short;PTB-490
-weapons/su_490l_mig_21_left_wing;<color=@userlogColoredText>490 L</color> PTB-490 <color=#ff6f00>DPTK</color>
-weapons/su_490l_mig_21_left_wing/short;PTB-490
-weapons/su_490l_mig_21_left_wing_1;<color=@userlogColoredText>490 L</color> PTB-490 <color=#ff6f00>DPTK</color>
-weapons/su_490l_mig_21_left_wing_1/short;PTB-490
 weapons/su_490l_j_7_left_wing;Drop tank (490 L)
 weapons/su_490l_j_7_left_wing/short;Drop tank
 weapons/su_490l_j_7_right_wing;Drop tank (490 L)
@@ -1820,22 +1962,8 @@ weapons/cn_480l_drop_tank_1;Drop tank (490 L)
 weapons/cn_480l_drop_tank_1/short;Drop tank
 weapons/cn_480l_drop_tank_2;Drop tank (490 L)
 weapons/cn_480l_drop_tank_2/short;Drop tank
-weapons/su_490l_mig_21_fuse_1;<color=@userlogColoredText>490 L</color> PTB-490 <color=#ff6f00>DPTK</color>
-weapons/su_490l_mig_21_fuse_1/short;PTB-490
-weapons/su_490l_mig_21_right_wing_1;<color=@userlogColoredText>490 L</color> PTB-490 <color=#ff6f00>DPTK</color>
-weapons/su_490l_mig_21_right_wing_1/short;PTB-490
-weapons/su_490l_mig_21_fuse;<color=@userlogColoredText>490 L</color> PTB-490 <color=#ff6f00>DPTK</color>
-weapons/su_490l_mig_21_fuse/short;PTB-490
-weapons/su_490l_mig_21_right_wing;<color=@userlogColoredText>490 L</color> PTB-490 <color=#ff6f00>DPTK</color>
-weapons/su_490l_mig_21_right_wing/short;PTB-490
 weapons/jp_330_liters_a6m;Drop tank (330 L)
 weapons/jp_330_liters_a6m/short;Drop tank
-weapons/su_490l_mig_21_bison_fuse;<color=@userlogColoredText>490 L</color> PTB-490 <color=#ff6f00>DPTK</color>
-weapons/su_490l_mig_21_bison_fuse/short;PTB-490
-weapons/su_490l_mig_21_bison_left_wing;<color=@userlogColoredText>490 L</color> PTB-490 <color=#ff6f00>DPTK</color>
-weapons/su_490l_mig_21_bison_left_wing/short;PTB-490
-weapons/su_490l_mig_21_bison_right_wing;<color=@userlogColoredText>490 L</color> PTB-490 <color=#ff6f00>DPTK</color>
-weapons/su_490l_mig_21_bison_right_wing/short;PTB-490
 weapons/310l_alpha_jet_1;Drop tank (310 L)
 weapons/310l_alpha_jet_1/short;Drop tank
 weapons/310l_alpha_jet_2;Drop tank (310 L)
@@ -1866,106 +1994,12 @@ weapons/cn_1140l_drop_tank_1;Drop tank (1140 L)
 weapons/cn_1140l_drop_tank_1/short;Drop tank
 weapons/cn_1140l_drop_tank_2;Drop tank (1140 L)
 weapons/cn_1140l_drop_tank_2/short;Drop tank
-weapons/cn_1400l_fyx1400_drop_tank_1;<color=@userlogColoredText>1400 L</color> FYX1400E fùyóuxiāng <color=#ff6f00>DPTK</color>
-weapons/cn_1400l_fyx1400_drop_tank_1/short;FYX1400E
-weapons/cn_1400l_fyx1400_drop_tank_2;<color=@userlogColoredText>1400 L</color> FYX1400E fùyóuxiāng <color=#ff6f00>DPTK</color>
-weapons/cn_1400l_fyx1400_drop_tank_2/short;FYX1400E
-weapons/cn_1400l_fyx1400_drop_tank_3;<color=@userlogColoredText>1400 L</color> FYX1400E fùyóuxiāng <color=#ff6f00>DPTK</color>
-weapons/cn_1400l_fyx1400_drop_tank_3/short;FYX1400E
-weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank;<color=@userlogColoredText>1400 L</color> FYX1400E fùyóuxiāng <color=#ff6f00>DPTK</color>
-weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank/short;FYX1400E
-weapons/cn_1600l_drop_tank;<color=@userlogColoredText>1600 L</color> FYX1700 fùyóuxiāng <color=#ff6f00>DPTK</color>
-weapons/cn_1600l_drop_tank/short;FYX1700
-weapons/cn_1600l_drop_tank_1;<color=@userlogColoredText>1600 L</color> FYX1700 fùyóuxiāng <color=#ff6f00>DPTK</color>
-weapons/cn_1600l_drop_tank_1/short;FYX1700
-weapons/cn_1600l_drop_tank_2;<color=@userlogColoredText>1600 L</color> FYX1700 fùyóuxiāng <color=#ff6f00>DPTK</color>
-weapons/cn_1600l_drop_tank_2/short;FYX1700
-weapons/fr_1200l_rp35_drop_tank_1;<color=@userlogColoredText>1200 L</color> RP 35 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp35_drop_tank_1/short;RP 35
-weapons/fr_1200l_rp35_drop_tank_2;<color=@userlogColoredText>1200 L</color> RP 35 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp35_drop_tank_2/short;RP 35
-weapons/fr_1200l_rp35_drop_tank_aluminium_1;<color=@userlogColoredText>1200 L</color> RP 35 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp35_drop_tank_aluminium_1/short;RP 35
-weapons/fr_1200l_rp35_drop_tank_aluminium_2;<color=@userlogColoredText>1200 L</color> RP 35 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp35_drop_tank_aluminium_2/short;RP 35
-weapons/fr_1200l_rp35_drop_tank_gray_1;<color=@userlogColoredText>1200 L</color> RP 35 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp35_drop_tank_gray_1/short;RP 35
-weapons/fr_1200l_rp35_drop_tank_gray_2;<color=@userlogColoredText>1200 L</color> RP 35 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp35_drop_tank_gray_2/short;RP 35
-weapons/fr_1200l_rp36_drop_tank_1;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp36_drop_tank_1/short;RP 36
-weapons/fr_1200l_rp36_drop_tank_2;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp36_drop_tank_2/short;RP 36
-weapons/fr_1200l_rp36_drop_tank_3;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp36_drop_tank_3/short;RP 36
-weapons/fr_1200l_rp36_drop_tank_aluminium_1;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp36_drop_tank_aluminium_1/short;RP 36
-weapons/fr_1200l_rp36_drop_tank_aluminium_2;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp36_drop_tank_aluminium_2/short;RP 36
-weapons/fr_1200l_rp36_drop_tank_aluminium_3;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp36_drop_tank_aluminium_3/short;RP 36
-weapons/fr_1200l_rp36_drop_tank_desert_1;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp36_drop_tank_desert_1/short;RP 36
-weapons/fr_1200l_rp36_drop_tank_desert_2;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp36_drop_tank_desert_2/short;RP 36
-weapons/fr_1200l_rp36_drop_tank_desert_3;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp36_drop_tank_desert_3/short;RP 36
-weapons/fr_1200l_rp36_drop_tank_gray_1;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp36_drop_tank_gray_1/short;RP 36
-weapons/fr_1200l_rp36_drop_tank_gray_2;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp36_drop_tank_gray_2/short;RP 36
-weapons/fr_1200l_rp36_drop_tank_gray_3;<color=@userlogColoredText>1200 L</color> RP 36 <color=#ff6f00>DPTK</color>
-weapons/fr_1200l_rp36_drop_tank_gray_3/short;RP 36
-weapons/fr_1300l_rp62_drop_tank_1;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
-weapons/fr_1300l_rp62_drop_tank_1/short;RP 62
-weapons/fr_1300l_rp62_drop_tank_2;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
-weapons/fr_1300l_rp62_drop_tank_2/short;RP 62
-weapons/fr_1700l_rp30_drop_tank_1;<color=@userlogColoredText>1700 L</color> RP 30 <color=#ff6f00>DPTK</color>
-weapons/fr_1700l_rp30_drop_tank_1/short;RP 30
-weapons/fr_1700l_rp30_drop_tank_2;<color=@userlogColoredText>1700 L</color> RP 30 <color=#ff6f00>DPTK</color>
-weapons/fr_1700l_rp30_drop_tank_2/short;RP 30
-weapons/bl_1700l_rp30_drop_tank_1;<color=@userlogColoredText>1700 L</color> RP 30 <color=#ff6f00>DPTK</color>
-weapons/bl_1700l_rp30_drop_tank_1/short;RP 30
-weapons/bl_1700l_rp30_drop_tank_2;<color=@userlogColoredText>1700 L</color> RP 30 <color=#ff6f00>DPTK</color>
-weapons/bl_1700l_rp30_drop_tank_2/short;RP 30
 weapons/meteor_f_mk8_100_tank_1;External tank (100 gal)
 weapons/meteor_f_mk8_100_tank_1/short;External tank
 weapons/meteor_f_mk8_100_tank_3;External tank (100 gal)
 weapons/meteor_f_mk8_100_tank_3/short;External tank
 weapons/meteor_f_mk8_180_tank_2;External tank (180 gal)
 weapons/meteor_f_mk8_180_tank_2/short;External tank
-weapons/fr_1700l_rp30_mirage_3e_drop_tank_1;<color=@userlogColoredText>1700 L</color> RP 30 <color=#ff6f00>DPTK</color>
-weapons/fr_1700l_rp30_mirage_3e_drop_tank_1/short;RP 30
-weapons/fr_1700l_rp30_mirage_3e_drop_tank_2;<color=@userlogColoredText>1700 L</color> RP 30 <color=#ff6f00>DPTK</color>
-weapons/fr_1700l_rp30_mirage_3e_drop_tank_2/short;RP 30
-weapons/il_880l_rp825_drop_tank_1;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
-weapons/il_880l_rp825_drop_tank_1/short;RP 825
-weapons/il_880l_rp825_drop_tank_2;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
-weapons/il_880l_rp825_drop_tank_2/short;RP 825
-weapons/il_880l_rp825_drop_tank_3;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
-weapons/il_880l_rp825_drop_tank_3/short;RP 825
-weapons/il_880l_rp825_drop_tank_ghost_grey_1;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
-weapons/il_880l_rp825_drop_tank_ghost_grey_1/short;RP 825
-weapons/il_880l_rp825_drop_tank_ghost_grey_2;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
-weapons/il_880l_rp825_drop_tank_ghost_grey_2/short;RP 825
-weapons/il_880l_rp825_drop_tank_ghost_grey_3;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
-weapons/il_880l_rp825_drop_tank_ghost_grey_3/short;RP 825
-weapons/il_880l_rp825_drop_tank_mirage_3cj;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
-weapons/il_880l_rp825_drop_tank_mirage_3cj/short;RP 825
-weapons/il_880l_rp825_drop_tank_ghost_grey_mirage_3cj;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
-weapons/il_880l_rp825_drop_tank_ghost_grey_mirage_3cj/short;RP 825
-weapons/il_1300l_rp62_drop_tank_1;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
-weapons/il_1300l_rp62_drop_tank_1/short;RP 62
-weapons/il_1300l_rp62_drop_tank_2;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
-weapons/il_1300l_rp62_drop_tank_2/short;RP 62
-weapons/il_1300l_rp62_drop_tank_3;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
-weapons/il_1300l_rp62_drop_tank_3/short;RP 62
-weapons/il_1300l_rp62_drop_tank_ghost_grey_1;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
-weapons/il_1300l_rp62_drop_tank_ghost_grey_1/short;RP 62
-weapons/il_1300l_rp62_drop_tank_ghost_grey_2;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
-weapons/il_1300l_rp62_drop_tank_ghost_grey_2/short;RP 62
-weapons/il_1300l_rp62_drop_tank_ghost_grey_3;<color=@userlogColoredText>1300 L</color> RP 62 <color=#ff6f00>DPTK</color>
-weapons/il_1300l_rp62_drop_tank_ghost_grey_3/short;RP 62
 weapons/us_600_gal_a_10c_1;Drop tank (600 gal)
 weapons/us_600_gal_a_10c_1/short;Drop tank
 weapons/us_600_gal_a_10c_2;Drop tank (600 gal)
@@ -1978,12 +2012,6 @@ weapons/su_su24m_3000l_drop_tank_left;Drop tank (3000 L)
 weapons/su_su24m_3000l_drop_tank_left/short;Drop tank
 weapons/su_su24m_3000l_drop_tank_right;Drop tank (3000 L)
 weapons/su_su24m_3000l_drop_tank_right/short;Drop tank
-weapons/su_su34_3000l_drop_tank;<color=@userlogColoredText>3000 L</color> PTB-3000 <color=#ff6f00>DPTK</color>
-weapons/su_su34_3000l_drop_tank/short;PTB-3000
-weapons/su_su34_3000l_drop_tank_left;<color=@userlogColoredText>3000 L</color> PTB-3000 <color=#ff6f00>DPTK</color>
-weapons/su_su34_3000l_drop_tank_left/short;PTB-3000
-weapons/su_su34_3000l_drop_tank_right;<color=@userlogColoredText>3000 L</color> PTB-3000 <color=#ff6f00>DPTK</color>
-weapons/su_su34_3000l_drop_tank_right/short;PTB-3000
 weapons/cn_800l_rx3_drop_tank;Drop tank (800 L)
 weapons/cn_800l_rx3_drop_tank/short;Drop tank
 weapons/cn_1100l_rx3_drop_tank_1;Drop tank (1100 L)

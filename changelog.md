@@ -654,6 +654,11 @@ All dates are listed in DD-MM-YYYY format.
         - **FM-3000**
         - **GB3**
         - **LS-6(IR) 250**
+        - **Drop tank (100 gal.)** (for the FR-1)
+        - **Drop tank (100 gal.)** (for the FR-1)
+        - **Drop tank (480 gal.)** (for the F/A-18E)
+        - **Drop tank (820 liters.)** (for the Su-7 family)
+        - **Drop tank (5280 liters.)** (for the MiG-25PD)
     - **105 mm Rh 105-30 cannon**.
 
 - #### Changes:
@@ -714,6 +719,12 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: **GB3** → **GB250**. Statcard name → **GB250型250公斤激光卫星制导炸弹**.
         - **LS-6(IR) 250** → **LS-6/250 (Hóngwài)**. Statcard name → **LS-6 Xíng 250 Gōngjīn Zhìdao Huáxiáng Zhàdàn (Hóngwài Daoyintóu)**.
             - Mandarin package: **LS-6(IR) 250** → **LS-6/250 (红外)**. Statcard name → **LS-6型250公斤制导滑翔炸弹 (红外导引头)**.
+        - **Drop tank (100 gal.)** → **Tank - 100 Gallon**. Long name → **Tank - 100 Gallon Droppable Fuel**.
+        - **Drop tank (130 gal.)** → **Tank - 130 Gallon**. Long name → **Tank - 130 Gallon Droppable Fuel**.
+        - **Drop tank (480 gal.)** → **FPU-12/A**.
+        - **Drop tank (820 liters.)** → **PTB-800**.
+        - **Drop tank (5280 liters.)** → **PTB-5000**.
+        
     - China rework:
         - **H/AKJ08**: Long name → **YJ81 | H/AKJ08 Kōng Jiàn Daodàn**.
     - **105 mm Rh 105-30 cannon** → **Rh105-30**.
@@ -729,6 +740,7 @@ All dates are listed in DD-MM-YYYY format.
     - **A.P.C., 15-inch, 6-crh., Mk. XXIIb** → **A.P.C., 15-inch 6-crh., Mk. XXIIb**.
         - Full Ammunition Names package: **Shell, B.L., A.P.C., 15-inch, 6-crh., Mk. XXIIb** → **Shell, B.L., A.P.C., 15-inch 6-crh., Mk. XXIIb**.
     - **Mk 11 Mod 0**: Long name → **Launcher System, Guided Missile, Mk 11 Mod 0**.
+    - **PTB-490** (all MiG-21's) → **PTB-500**. Long name → **Podvyesnoj toplivnyj bak PTB-500**.
 
 ### Modifications:
 

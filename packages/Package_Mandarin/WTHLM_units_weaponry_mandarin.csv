@@ -56,65 +56,28 @@ weapons/152mm_pl_66_gai_user_cannon;<color=@userlogColoredText>152 mm</color> PL
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ2005式155毫米自行加榴炮 <color=#ff6f00>CNN-HWZ</color>
 
 //AMMUNITION
-25mm_type_87_api;DKC/PG87-25
-25mm_type_87_he;WBO41P/PG87-25
-30mm_china_HE;CS/BAH06-30
-30mm_china_PTFP;CS/BAE5-30
-30mm_zpz02_hei;DTY02-30
-30mm_zpz02_apds;DTC04-30
-30mm_dtc10_30;DTC10-30
-35mm_dkp_01a;DKG01A/PGZ09-35
-35mm_dkg_01a;DKP01A/PGZ09-35
 type_59_he;59式57毫米曳杀榴弹
 type_59_apcbc;59式57毫米被帽穿甲弹
 type_59_ap;59式57毫米穿甲曳弹
-57mm_dky_1;DKY/PG59-57
-73mm_type_85_he;DYS73-73
-73mm_type_85_heat;DYP73-73
 type_56_he;56式85毫米杀爆榴弹
 85mm_type1956;56式85毫米破甲弹
 type_56_hvap;56式85毫米超速穿甲弹
 type_56_apbc;56式85毫米尖穿甲弹
 type_56_apc;56式85毫米穿甲弹
-85mm_djw_85;DJW1-85
 type_44_he;59式100毫米杀爆榴弹
 type_44_ap;59式100毫米穿甲弹
 100mm_type1959;59式100毫米钨穿甲弹
 100mm_type1973;73式100毫米破甲弹
 100mm_1_71_74;71式100毫米杀爆榴弹
 100mm_1_72_85;71式100毫米穿甲弹
-100mm_dyw_pt_86_100;DYW/PTL02-100
 105mm_TYPE83_APDS;1983式105毫米穿甲弹
 105mm_TYPE83_HEAT;1983式105毫米破甲弹
 105mm_TYPE83_HESH;1983式105毫米碎甲弹
-105mm_type_75_heat;DTP/PW75-105
-105mm_type_75_hesh;DTJ/PW75-105
-105mm_btm_1;BTM1-105
-105mm_dtb_1_he;DTB1-105
-105mm_dtw2_105;DTW2-105
 120mm_122tm_steel;71式120毫米穿甲弹
 120mm_122tm_tungsten;71式120毫米钨穿甲弹
 120mm_122tm_he;71式120毫米杀爆榴弹
 120mm_122tm_heat;71式120毫米破甲弹
-120mm_dyw_1;DYW/PTZ89-120
-120mm_dys_120;DYS/PTZ89-120
-125mm_dtb_125;DTB-125
-125mm_dtb_12_he;DTB12-125
-125mm_dtp_125;DTP-125
 125mm_125_1;85-1式125毫米穿甲弹
-125mm_dtw_125;DTW-125
-125mm_dtc10_125;DTC10-125
-125mm_bta4;BTA4-125
-130mm_djb_1;DJB2/PL59A-130
-130mm_djb_1_vt;DJB3/PL59A-130
-130mm_djb_1_smoke;DJF1/PL59A-130
-152mm_bee_7;CS/BEE7-152
-152mm_bee_7_vt;CS/BEE7-152 (VTF)
-152mm_ddb_1;DDB1/PLZ83-152
-152mm_ddb_1_vt;DDB1/PLZ83-152 (VTF)
-155mm_plz_05_he;DLXA/PLZ05-155
-155mm_plz_05_he_vt;DLXA/PLZ05-155 (VTF)
-155mm_bea_1;CS/BEA1-155
 
 //BOMBS
 weapons/cn_gp_100_2;<color=@userlogColoredText>140 kg</color> 100公斤2型航空爆破炸弹 <color=#ff6f00>BMB</color>
@@ -241,10 +204,10 @@ weapons/cn_cm_502kg_he_rail;CM502KG轻型近程空面导弹武器系统 <color=#
 weapons/cn_cm_502kg_he_rail/short;CM502KG
 weapons/125mm_hj_73_rocket_launcher;HJ-73 | AFT07反坦克导弹 <color=#ff6f00>LCH</color>
 weapons/125mm_hj_73_rocket_launcher/short;AFT07
-weapons/125mm_AFT_07_rocket_launcher;HJ-73E | AFT07E反坦克导弹 <color=#ff6f00>LCH</color>
-weapons/125mm_AFT_07_rocket_launcher/short;AFT07E
 125mm_hj_73;AFT07
 weapons/125mm_hj_73/short;AFT07
+weapons/125mm_AFT_07_rocket_launcher;HJ-73E | AFT07E反坦克导弹 <color=#ff6f00>LCH</color>
+weapons/125mm_AFT_07_rocket_launcher/short;AFT07E
 125mm_hj_73e;AFT07E
 weapons/125mm_hj_73e/short;AFT07E
 120_aft_07;AFT07E
@@ -264,6 +227,8 @@ weapons/151mm_QN502CDD_rocket_launcher/short;QN502C
 151mm_QN502CDD;QN502C
 weapons/151mm_qn502cdd/short;QN502C
 weapons/130mm_FB_10_rocket_launcher;FB-10地對空导弹发射架 <color=#ff6f00>LCH</color>
+fb10_rocket;FB10
+fb10a_rocket;FB10A
 weapons/72mm_HN_6_launcher_user_cannon;HN-6地對空导弹发射架 <color=#ff6f00>LCH</color>
 72mm_hn_6;HN-6
 weapons/72mm_hn_6/short;HN-6

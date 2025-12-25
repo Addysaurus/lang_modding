@@ -359,6 +359,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Z11WA**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z11WA Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **昌河飞机工业 (集团) | Z11WA型武装直升机**.
             - Full Mandarin package: **Z11WA** → **直11WA**. Statcard name → **昌河飞机工业 (集团) | 直11WA型武装直升机**.
+        - **SA 342 L**: Statcard name → **Société Nationale Industrielle Aérospatiale | SA 342 L Xíng Wuzhuāng Zhíshēngjī**.
+            - Mandarin package: Statcard name → **Société Nationale Industrielle Aérospatiale | SA 342 L型武装直升机**.
         - **Z9W**: Statcard name → **Hā'ěrbīn Fēijī Gōngyè (Jítuán) | Z9W Xíng Wuzhuāng Zhíshēngjī**.
             - Mandarin package: Statcard name → **哈尔滨飞机工业 (集团) | Z9W型武装直升机**.
             - Full Mandarin package: **Z9W** → **直9W**. Statcard name → **哈尔滨飞机工业 (集团) | 直9W型武装直升机**.
@@ -745,6 +747,7 @@ All dates are listed in DD-MM-YYYY format.
         - **M-910-21/22-10 gun pod** → **M910-21/22-10**
         - All modifications for weapons have been added and corrected (it's pointless listing them all here when it's the same name as the weapons).
     - China rework and Mandarin package:
+        - All modifications have been adjusted to match weapon name changes and the multiple packages. Only additional changes will be listed here to make this changelog not a billion lines.
         - **H/AKJ81** modification → **H/AKJ08**. The pylon in the description has been corrected from **H/EDJ49B** to **GDJ-49B** (it was an image where just the corner of the letter was visible, it could have been an E or a G given the font and that it's just a corner but the fact that every other pylon is GDL or, more commonly, GDJ means this is almost certainly GDJ).
     - I somehow had misspelled "maintenance" as "maintainance" in literally every modification (and as "maintenence" in 2 of them) because I'm an absolute moron, and it has somehow been like this for almost a year. That has been fixed now. Thanks tNebula for letting me know that I'm an actual dumbass.
     - Corrected a typo in the description of the **F-2A-MIT (C10)**'s **GBU-31(V)1/B / 62(V)1/B** modification.
@@ -785,15 +788,67 @@ All dates are listed in DD-MM-YYYY format.
         - **GRS900R** → **GRS 900R**.
         - **AL-31FN series 3** → **AL-31FN syeriâ 3**.
         - **AL-41F1S** → **izd. 117S | AL-41F1S**.
-        - **WS-10B** → **WS-10B Fādòngjī**.
-            - Mandarin package: **WS-10B** → **WS-10B发动机**.
-            - Full Mandarin package: **WS-10B** → **涡扇-10B发动机**.
+        - **WS-10B** → **FWS10B Fādòngjī "Tàixíng"**.
+            - Mandarin package: **WS-10B** → **FWS10B发动机 "太行"**.
         - **Viper 11** → **Viper Mk. 200**.
         - **F414-GE-39E (RM16)** → **RM16**.
     - China rework & Mandarin package:
-        - **WJ6 Fādòngjī** → **WJ-6 Fādòngjī**.
-            - Mandarin package: **WJ6 Fādòngjī** → **WJ-6发动机**.
-            - Full Mandarin package: **WJ6 Fādòngjī** → **涡桨-6发动机**.
+        - **WJ6 Fādòngjī**:
+            - Mandarin package: **WJ6 Fādòngjī** → **WJ6发动机**.
+            - Full Mandarin package: **WJ6 Fādòngjī** → **涡桨6发动机**.
+        - **WP-5** → **WP5 Fādòngjī**.
+            - Mandarin package: **WP-5** → **WP5发动机**.
+            - Full Mandarin package: **WP-5** → **涡喷5发动机**.
+        - **WP-6** → **WP6 Fādòngjī**.
+            - Mandarin package: **WP-6** → **WP6发动机**.
+            - Full Mandarin package: **WP-6** → **涡喷6发动机**.
+        - **WP-6A** → **WP6A Fādòngjī**.
+            - Mandarin package: **WP-6A** → **WP6A发动机**.
+            - Full Mandarin package: **WP-6A** → **涡喷6A发动机**.
+        - **WP-6A-III** → **WP6AIII Fādòngjī**.
+            - Mandarin package: **WP-6A-III** → **WP6AIII发动机**.
+            - Full Mandarin package: **WP-6A-III** → **涡喷6AIII发动机**.
+        - **WP-7B** → **WP7B Fādòngjī**.
+            - Mandarin package: **WP-7B** → **WP7B发动机**.
+            - Full Mandarin package: **WP-7B** → **涡喷7B发动机**.
+        - **WP-7F** → **WP7F Fādòngjī**.
+            - Mandarin package: **WP-7F** → **WP7F发动机**.
+            - Full Mandarin package: **WP-7F** → **涡喷7F发动机**.
+        - **WP-13A-II** → **WP13AII Fādòngjī**.
+            - Mandarin package: **WP-13A-II** → **WP13AII发动机**.
+            - Full Mandarin package: **WP-13A-II** → **涡喷13AII发动机**.
+        - **WP-13B-II** → **WP13BII Fādòngjī**.
+            - Mandarin package: **WP-13B-II** → **WP13BII发动机**.
+            - Full Mandarin package: **WP-13B-II** → **涡喷13BII发动机**.
+        - **WP-13F** → **WP13F Fādòngjī**.
+            - Mandarin package: **WP-13F** → **WP13F发动机**.
+            - Full Mandarin package: **WP-13F** → **涡喷13F发动机**.
+        - **WP-13FI** → **WP13FI Fādòngjī**.
+            - Mandarin package: **WP-13FI** → **WP13FI发动机**.
+            - Full Mandarin package: **WP-13FI** → **涡喷13FI发动机**.
+        - **WS-9** → **FWS9 Fādòngjī "Qínlǐng"**.
+            - Mandarin package: **WS-9** → **FWS9发动机 "秦岭"**.
+        - **WS-10A** → **FWS10A Fādòngjī "Tàixíng"**.
+            - Mandarin package: **WS-10A** → **FWS10A发动机 "太行"**.
+        - **WZ-8A** → **WZ8A Fādòngjī**.
+            - Mandarin package: **WZ-8A** → **WZ8A发动机**.
+            - Full Mandarin package: **WZ-8A** → **涡轴8A发动机**.
+        - **WZ-8C** → **WZ8C Fādòngjī**.
+            - Mandarin package: **WZ-8C** → **WZ8C发动机**.
+            - Full Mandarin package: **WZ-8C** → **涡轴8C发动机**.
+        - **WZ-8D** → **WZ8D Fādòngjī**.
+            - Mandarin package: **WZ-8D** → **WZ8D发动机**.
+            - Full Mandarin package: **WZ-8D** → **涡轴8D发动机**.
+        - **WZ-9** → **FWZ9 Fādòngjī**.
+            - Mandarin package: **WZ-9** → **FWZ9发动机**.
+        - **WZ-9C** → **FWZ9C Fādòngjī**.
+            - Mandarin package: **WZ-9C** → **FWZ9C发动机**.
+        - **Shenyang Liming** (engine manufacturer) → **Zhōngguó Háng Fā Shěnyáng Límíng Hángkōng Fādòngjī Yǒuxiàn Zérèn Gōngsī**.
+            - Mandarin package: **Shenyang Liming** → **中国航发沈阳黎明航空发动机有限责任公司**.
+        - **XAEC** (engine manufacturer) → **Xī'ān Hángkōng Fādòngjī (Jítuán) Yǒuxiàn Gōngsī**.
+            - Mandarin package: **XAEC** → **西安航空发动机 (集团) 有限公司**.
+        - **Zhuzhou Aero-Engine Factory** (engine manufacturer) → **Xī'ān Hángkōng Fādòngjī (Jítuán) Yǒuxiàn Gōngsī**.
+            - Mandarin package: **Zhuzhou Aero-Engine Factory** → **西安航空发动机 (集团) 有限公司**.
     - **Allison** (engine manufacturer) → **Allison Engine Company**.
     - **Allison** (transmission manufacturer) → **Allison Transmission**.
 

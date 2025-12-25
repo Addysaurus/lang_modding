@@ -1,10 +1,64 @@
 <ID|readonly|noverify>;<English>
 //MANUFACTURERS
 engine_manufacturer/weijiang;Manufacturer: 中国南方航空动力机械公司
+engine_manufacturer/shenyang_liming;Manufacturer: 中国航发沈阳黎明航空发动机有限责任公司
+engine_manufacturer/xaec;Manufacturer: 西安航空发动机 (集团) 有限公司
+engine_manufacturer/zhuzhou_aero-engine_factory;Manufacturer: 中国南方航空工业 (集团) 有限公司
 
 //ENGINES
 engine_model/wj-6;"
-Engine model: WJ-6发动机"
+Engine model: WJ6发动机"
+
+engine_model/wp-5;"
+Engine model: WP5发动机"
+
+engine_model/wp-6;"
+Engine model: WP6发动机"
+
+engine_model/wp-6a;"
+Engine model: WP6A发动机"
+
+engine_model/wp-6a-iii;"
+Engine model: WP6AIII发动机"
+
+engine_model/wp-7b;"
+Engine model: WP7B发动机"
+
+engine_model/wp-7f;"
+Engine model: WP7F发动机"
+
+engine_model/wp-13a-ii;"
+Engine model: WP13AII发动机"
+
+engine_model/wp-13b-ii;"
+Engine model: WP13BII发动机"
+
+engine_model/wp-13f;"
+Engine model: WP13F发动机"
+
+engine_model/wp-13f1;"
+Engine model: WP13FI发动机"
+
+engine_model/ws_9;"
+Engine model: FWS9发动机 ""秦岭"""
+
+engine_model/ws_10a;"
+Engine model: FWS10A发动机 ""太行"""
 
 engine_model/ws_10b;"
-Engine model: WS-10B发动机"
+Engine model: FWS10B发动机 ""太行"""
+
+engine_model/wz-8a;"
+Engine model: WZ8A发动机"
+
+engine_model/wz-8c;"
+Engine model: WZ8C发动机"
+
+engine_model/wz-8d;"
+Engine model: WZ8D发动机"
+
+engine_model/wz-9;"
+Engine model: FWZ9发动机"
+
+engine_model/wz-9c;"
+Engine model: FWZ9C发动机"

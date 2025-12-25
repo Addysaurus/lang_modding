@@ -31,12 +31,12 @@ modification/su_grom_e/desc;"Loadout unlocked:
 //MISSILES
 modification/mig_25_r_40rd;Р-40РД
 modification/mig_25_r_40rd/desc;"Loadout unlocked:
-• <color=@userlogColoredText>Авиационное катапультное устройство АПУ-84-46</color> pylon:
+• <color=@userlogColoredText>Авиационное пусковое устройство АПУ-84-46</color> pylon:
   • <color=@userlogColoredText>Авиационная управляемая ракета Р-40РД</color> <color=#ff6f00>AAM-SARH</color>"
 
 modification/mig_25_r_40td;Р-40ТД
 modification/mig_25_r_40td/desc;"Loadout unlocked:
-• <color=@userlogColoredText>Авиационное катапультное устройство АПУ-84-46</color> pylon:
+• <color=@userlogColoredText>Авиационное пусковое устройство АПУ-84-46</color> pylon:
   • <color=@userlogColoredText>Авиационная управляемая ракета Р-40ТД</color> <color=#ff6f00>AAM-IR</color>"
 
 modification/su_rvv_sd;РВВ-СД
@@ -69,3 +69,52 @@ modification/su_kh_59;Х-59МЭ
 modification/su_kh_59/desc;"Loadout unlocked:
 • <color=@userlogColoredText>Авиационное катапультное устройство АКУ-58-1</color> pylon:
   • <color=@userlogColoredText>Управляемая ракета Х-59МЭ</color> <color=#ff6f00>AGM-TV</color>"
+
+//CHINA MISSILES
+modification/mig_19_pl2;K/AKK2
+modification/mig_19_pl2/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Авиационное пусковое устройство АПУ-13</color> missile launcher:
+  • <color=@userlogColoredText>K/AKK2 Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/j_7_pl5b;K/AKK5B
+modification/j_7_pl5b/desc;"Loadout unlocked:
+• K/JJ7D, K/JJ7E, K/JJ8 (all):
+  • <color=@userlogColoredText>Авиационное пусковое устройство АПУ-13</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5B Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>
+• H/JJH7, K/JJH7A (all):
+  • <color=@userlogColoredText>PF9W Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5B Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>
+• K/JJH7A (all):
+  • <color=@userlogColoredText>Авиационное пусковое устройство АПУ-13</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5B Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/cn_pl5c;K/AKK5C
+modification/cn_pl5c/desc;"Loadout unlocked:
+• H/JJH7, K/JJH7A (all):
+  • <color=@userlogColoredText>PF9W Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5C Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>
+• K/JJH7A (all):
+  • <color=@userlogColoredText>Авиационное пусковое устройство АПУ-13</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5C Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/cn_pl5e2;K/AKK5EII
+modification/cn_pl5e2/desc;"Loadout unlocked:
+• K/JJ10A:
+  • <color=@userlogColoredText>Авиационное пусковое устройство АПУ-13</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5EII Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>
+• H/JJH7, K/JJH7A (all):
+  • <color=@userlogColoredText>PF9W Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5EII Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>
+• K/JJH7A (all):
+  • <color=@userlogColoredText>Авиационное пусковое устройство АПУ-13</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5EII Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>
+• JF-17 Block I:
+  • <color=@userlogColoredText>Авиационное пусковое устройство АПУ-13</color> missile launcher on <color=@userlogColoredText>GDJ-II18A</color> pylon:
+    • <color=@userlogColoredText>K/AKK5EII Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>
+  • <color=@userlogColoredText>PF9WA</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK5EII Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/cn_pl8;K/AKK8
+modification/cn_pl8/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Авиационное пусковое устройство АПУ-13</color> missile launcher:
+  • <color=@userlogColoredText>K/AKK8 Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>"

@@ -437,9 +437,44 @@ modification/j_7_pl7/desc;"Loadout unlocked:
 • <color=@userlogColoredText>PF7</color> missile launcher:
   • <color=@userlogColoredText>K/AKK7</color> <color=#ff6f00>AAM-IR</color>"
 
+modification/cn_pl8;K/AKK8
+modification/cn_pl8/desc;"Loadout unlocked:
+• <color=@userlogColoredText>APU-13</color> missile launcher:
+  • <color=@userlogColoredText>K/AKK8</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/cn_pl8b;K/AKK8B
+modification/cn_pl8b/desc;"Loadout unlocked:
+• K/JJ10 (all):
+  • <color=@userlogColoredText>PF95W</color> missile launcher on <color=@userlogColoredText>GDJ-1</color> pylon:
+    • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>
+  • <color=@userlogColoredText>PF95W</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
+    • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>
+• K/JJ11B, ␗ 苏30MKK:
+  • <color=@userlogColoredText>PF8KZ</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>
+  • <color=@userlogColoredText>PF10X</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/cn_pl12;SD10A
+modification/cn_pl12/desc;"Loadout unlocked:
+• K/JJ8F:
+  • <color=@userlogColoredText>PF11</color> missile launcher:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
+• K/JJ10 (all):
+  • <color=@userlogColoredText>PF12</color> missile launcher x2 on dual rack:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
+  • <color=@userlogColoredText>PF12</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-IR</color>
+• K/JJ10C:
+  • <color=@userlogColoredText>PFT15W</color> missile launcher on <color=@userlogColoredText>ZL4W</color> pylon x2 on dual rack:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
+• K/JJ11B, ␗ 苏30MKK:
+  • <color=@userlogColoredText>PF10X</color> missile launcher:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>"
+
 modification/cn_sd10;SD10A
 modification/cn_sd10/desc;"Loadout unlocked:
-• <color=@userlogColoredText>SDF10A</color> missile launcher x2 on dual rack:
+• <color=@userlogColoredText>PF12</color> missile launcher x2 on dual rack:
   • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>"
 
 modification/cn_yj_81k;H/AKJ08
@@ -2895,14 +2930,8 @@ modification/jp_aam3/desc;Allows the installation of AAM-3 air-to-air missiles.
 modification/jp_aam3;AAM-3
 modification/jp_aam4/desc;Allows the installation of AAM-4 air-to-air missiles.
 modification/jp_aam4;AAM-4
-modification/cn_pl8/desc;Allows installation of PL8 air-to-air missiles.
-modification/cn_pl8;PL8
-modification/cn_pl8b/desc;Allows installation of PL8B air-to-air missiles.
-modification/cn_pl8b;PL8B
 modification/cn_pl11/desc;Allows installation of PL11 air-to-air missiles.
 modification/cn_pl11;PL11
-modification/cn_pl12/desc;Allows the installation of PL12 air-to-air missiles.
-modification/cn_pl12;PL12
 modification/cn_pf10/desc;Allows installation of PF10 air-to-air missile pylons.
 modification/cn_pf10;PF10
 modification/mig_19_r13m/desc;Allows installation of APU-13MTE pylons mounting R-13M1 air-to-air missiles.

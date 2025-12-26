@@ -1,4 +1,15 @@
 <ID|readonly|noverify>;<English>
+//ROCKETS
+modification/cn_hf7d;火蛇70
+modification/cn_hf7d/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-7D发射器</color> launcher:
+  • <color=@userlogColoredText>火蛇70航空火箭弹</color> <color=#ff6f00>RKT</color> x7"
+
+modification/cn_fire_snake_70a;GR5
+modification/cn_fire_snake_70a/desc;"Loadout unlocked:
+• <color=@userlogColoredText>火蛇70航空火箭弹集束发射器</color> launcher:
+  • <color=@userlogColoredText>GR5航空制导火箭弹</color> <color=#ff6f00>AGM-LG</color> x7"
+
 //MISSILES
 modification/j_7_pl5b;K/AKK5B
 modification/j_7_pl5b/desc;"Loadout unlocked:
@@ -72,6 +83,30 @@ modification/cn_pl12/desc;"Loadout unlocked:
 • K/JJ11B, ␗ 苏30MKK:
   • <color=@userlogColoredText>霹发10X空空导弹发射装置</color> missile launcher:
     • <color=@userlogColoredText>SD10A空空导弹</color> <color=#ff6f00>AAM-ARH</color>"
+
+modification/cn_sd10;SD10A
+modification/cn_sd10/desc;"Loadout unlocked:
+• <color=@userlogColoredText>霹发12空空导弹发射装置</color> missile launcher x2 on dual rack:
+  • <color=@userlogColoredText>SD10A空空导弹</color> <color=#ff6f00>AAM-ARH</color>"
+
+modification/cn_ty_90;AKK90
+modification/cn_ty_90/desc;"Loadout unlocked:
+• <color=@userlogColoredText>霹发90空空导弹发射装置</color> missile launcher x4 on quad rack:
+  • <color=@userlogColoredText>AKK90空空导弹</color> <color=#ff6f00>AAM-ARH</color>"
+
+modification/cn_ba_11;蓝新-11A
+modification/cn_ba_11/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>蓝新-11A型空地导弹</color> <color=#ff6f00>AGM-IR</color> x4"
+
+modification/cn_hj8_e;AFT08E
+modification/cn_hj8_e/desc;"Loadout unlocked:
+• ␗ SA 342 L, 直9W:
+  • Pylon:
+    • <color=@userlogColoredText>AFT08E反坦克导弹</color> <color=#ff6f00>AGM-WG</color> x2
+• 直9WA:
+  • Pylon:
+    • <color=@userlogColoredText>AFT08E反坦克导弹</color> <color=#ff6f00>AGM-WG</color> x4"
 
 //SENSORS
 modification/cn_yings_3a;鹰隼-IIIA (标配型)

@@ -282,10 +282,45 @@ modification/in_nasser_240/desc;Loadout unlocked: <color=@userlogColoredText>Na�
 //JAPAN ROCKETS
 
 //CHINA ROCKETS
-modification/cn_hf7d;FS70
-modification/cn_hf7d/desc;Loadout unlocked: <color=@userlogColoredText>FS70</color> rocket.
-modification/cn_fire_snake_70a;FS70A
-modification/cn_fire_snake_70a/desc;Loadout unlocked: <color=@userlogColoredText>FS70A</color> rocket.
+modification/j_7_hf5;S-5K
+modification/j_7_hf5/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-5</color> launcher:
+  • <color=@userlogColoredText>S-5K</color> <color=#ff6f00>RKT</color> x32"
+
+modification/cn_q5_hf6;90-1 Xíng (Pò Jia)
+modification/cn_q5_hf6/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-7</color> launcher:
+  • <color=@userlogColoredText>90-1 Xíng (Pò Jia)</color> <color=#ff6f00>RKT</color> x7"
+
+modification/cn_hf7a;90-1 Xíng (Pò Jia)
+modification/cn_hf7a/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-7</color> launcher:
+  • <color=@userlogColoredText>90-1 Xíng (Pò Jia)</color> <color=#ff6f00>RKT</color> x7"
+
+modification/q_5b_type130;130-1 Xíng
+modification/q_5b_type130/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-14</color> launcher:
+  • <color=@userlogColoredText>130-1 Xíng</color> <color=#ff6f00>RKT</color> x4"
+
+modification/cn_hf27;S-5K
+modification/cn_hf27/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-27</color> launcher:
+  • <color=@userlogColoredText>S-5K</color> <color=#ff6f00>RKT</color> x7"
+
+modification/cn_hf7d;火蛇70
+modification/cn_hf7d/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-7D</color> launcher:
+  • <color=@userlogColoredText>FS70</color> <color=#ff6f00>RKT</color>"
+
+modification/cn_fire_snake_70a;GR5
+modification/cn_fire_snake_70a/desc;"Loadout unlocked:
+• <color=@userlogColoredText>FS70</color> launcher:
+  • <color=@userlogColoredText>GR5</color> <color=#ff6f00>AGM-LG</color> x7"
+
+modification/cn_fire_snake_90a;BRM1
+modification/cn_fire_snake_90a/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-20</color> launcher:
+  • <color=@userlogColoredText>BRM1</color> <color=#ff6f00>AGM-LG</color> x16"
 
 //ITALY ROCKETS
 modification/uk_hvar;HVAR
@@ -449,7 +484,7 @@ modification/cn_pl8b/desc;"Loadout unlocked:
     • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>
   • <color=@userlogColoredText>PF95W</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
     • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>
-• K/JJ11B, ␗ 苏30MKK:
+• K/JJ11B, ␗ Sū 30MKK:
   • <color=@userlogColoredText>PF8KZ</color> missile launcher:
     • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>
   • <color=@userlogColoredText>PF10X</color> missile launcher:
@@ -468,7 +503,7 @@ modification/cn_pl12/desc;"Loadout unlocked:
 • K/JJ10C:
   • <color=@userlogColoredText>PFT15W</color> missile launcher on <color=@userlogColoredText>ZL4W</color> pylon x2 on dual rack:
     • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
-• K/JJ11B, ␗ 苏30MKK:
+• K/JJ11B, ␗ Sū 30MKK:
   • <color=@userlogColoredText>PF10X</color> missile launcher:
     • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>"
 
@@ -476,6 +511,11 @@ modification/cn_sd10;SD10A
 modification/cn_sd10/desc;"Loadout unlocked:
 • <color=@userlogColoredText>PF12</color> missile launcher x2 on dual rack:
   • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>"
+
+modification/cn_ty_90;AKK90
+modification/cn_ty_90/desc;"Loadout unlocked:
+• <color=@userlogColoredText>PF90</color> missile launcher x4 on quad rack:
+  • <color=@userlogColoredText>AKK90</color> <color=#ff6f00>AAM-ARH</color>"
 
 modification/cn_yj_81k;H/AKJ08
 modification/cn_yj_81k/desc;"Loadout unlocked:
@@ -487,10 +527,49 @@ modification/cn_cm_502kg/desc;"Loadout unlocked:
 • Pylon:
   • <color=@userlogColoredText>CM502KG</color> <color=#ff6f00>AGM-IR</color> x4"
 
-modification/cn_ba_11;BA-11
+modification/cn_ba_11;BA-11A
 modification/cn_ba_11/desc;"Loadout unlocked:
 • Pylon:
-  • <color=@userlogColoredText>BA-11</color> <color=#ff6f00>AGM-IR</color> x4"
+  • <color=@userlogColoredText>BA-11A</color> <color=#ff6f00>AGM-IR</color> x4"
+
+modification/cn_hj8;AFT08A
+modification/cn_hj8/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>AFT08A</color> <color=#ff6f00>AGM-WG</color> x2"
+
+modification/cn_hj8_c;AFT08C
+modification/cn_hj8_c/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>AFT08C</color> <color=#ff6f00>AGM-WG</color> x2"
+
+modification/cn_hj8_e;AFT08E
+modification/cn_hj8_e/desc;"Loadout unlocked:
+• ␗ SA 342 L, Z9W:
+  • Pylon:
+    • <color=@userlogColoredText>AFT08E</color> <color=#ff6f00>AGM-WG</color> x2
+• Z9WA:
+  • Pylon:
+    • <color=@userlogColoredText>AFT08E</color> <color=#ff6f00>AGM-WG</color> x4"
+
+modification/cn_hj8_h;AFT08H
+modification/cn_hj8_h/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>AFT08H</color> <color=#ff6f00>AGM-WG</color> x4"
+
+modification/cn_ba_9;AKD09
+modification/cn_ba_9/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>AKD09</color> <color=#ff6f00>AGM-LG</color> x4"
+
+modification/cn_akd_9;AKD09
+modification/cn_akd_9/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>AKD09</color> <color=#ff6f00>AGM-LG</color> x4"
+
+modification/cn_akd_10;AKD10
+modification/cn_akd_10/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>AKD10</color> <color=#ff6f00>AGM-LG</color> x4"
 
 //ITALY MISSILES
 
@@ -537,8 +616,24 @@ modification/j_aaq_2_pod;J/AAQ-2
 modification/j_aaq_2_pod/desc;Loadout unlocked: <color=@userlogColoredText>J/AAQ-2</color> laser/electro-optical targeting pod.
 
 //CHINA SENSORS
-modification/cn_yings_3a/desc;Allows the installation of a YIGNS-III laser/electro-optical targeting pod.
-modification/cn_yings_3a;YIGNS-III
+modification/cn_k_pzs_01;K/PZS-01
+modification/cn_k_pzs_01/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>K/PZS01</color> <color=#ff6f00>TGP-LG/EO</color>"
+
+modification/cn_k_adc03a;K/JDC03A
+modification/cn_k_adc03a/desc;"Loadout unlocked:
+• K/JJ11B:
+  • <color=@userlogColoredText>GDJ-II36</color> pylon on <color=@userlogColoredText>GDJ-III7Z</color> pylon:
+    • <color=@userlogColoredText>K/JDC03A</color> <color=#ff6f00>TGP-LG/EO</color>"
+• K/JJH7A (all):
+  • Pylon:
+    • <color=@userlogColoredText>K/JDC03A</color> <color=#ff6f00>TGP-LG/EO</color>"
+
+modification/tr_aselpod;ASELPOD
+modification/tr_aselpod/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-III11</color>:
+  • <color=@userlogColoredText>ASELPOD</color> <color=#ff6f00>TGP-LG/EO</color>"
 
 modification/cn_yings_3a;YINGS-IIIA (Biāo Pèixíng)
 modification/cn_yings_3a/desc;"Loadout unlocked:
@@ -794,20 +889,10 @@ modification/fr_150kg/desc;Allows installation of 150 kg bombs.
 modification/fr_150kg;150 kg
 modification/fr_40cm_1926;1926DA
 modification/fr_40cm_1926/desc;Allows installation of torpedo.
-modification/j_7_hf5;HF5 (Type 57-1)
-modification/j_7_hf5/desc;Allows installation of HF5 rocket pods loaded with Type 57-1 unguided rockets.
 modification/cn_hf25b;HF25B (Type 70)
 modification/cn_hf25b/desc;Allows installation of HF25B rocket pods loaded with Type 70 unguided rockets.
-modification/cn_hf27;HF27 (Type 57-1)
-modification/cn_hf27/desc;Allows installation of HF27 rocket pods loaded with Type 57-1 unguided rockets.
-modification/cn_q5_hf6;HF6 (Type 90-1 (HEAT))
-modification/cn_q5_hf6/desc;Allows installation of HF6 rocket pods loaded with Type 90-1 (HEAT) unguided rockets.
-modification/q_5b_type130;HF14 (Type 130)
-modification/q_5b_type130/desc;Allows installation of HF14 rocket pods loaded with Type 130 unguided rockets.
 modification/cn_hf18;HF18 (Type 57-2)
 modification/cn_hf18/desc;Allows installation of HF18 rocket pods loaded with Type 57-2 unguided rockets.
-modification/cn_hf7a;HF7A (Type 90-1 (HE))
-modification/cn_hf7a/desc;Allows installation of HF7A rocket pods loaded with Type 90-1 (HE) unguided rockets.
 modification/C5M;S-5M
 modification/C5M/desc;Allows installation of S-5M unguided rockets.
 modification/mig_21_ub16;UB-16
@@ -1694,12 +1779,6 @@ modification/uk_tiald/desc;Modification of the aircraft to the GR.1B version wit
 modification/uk_tiald;GR.1B TIALD
 modification/uk_tiald_pod/desc;Allows the installation of a TIALD laser/electro-optical targeting pod.
 modification/uk_tiald_pod;TIALD
-modification/cn_k_pzs_01/desc;Allows the installation of a K/PZS-01 laser/electro-optical targeting pod.
-modification/cn_k_pzs_01;K/PZS-01
-modification/cn_k_adc03a/desc;Allows the installation of a K/ADC03A laser/electro-optical targeting pod.
-modification/cn_k_adc03a;K/ADC03A
-modification/tr_aselpod/desc;Allows the installation of a ASELPOD laser/electro-optical targeting pod.
-modification/tr_aselpod;ASELPOD
 modification/us_lantirn_pod/desc;Allows the installation of a LANTIRN laser/electro-optical targeting pod.
 modification/us_lantirn_pod;LANTIRN
 modification/us_pave_tack_pod/desc;Allows the installation of a Pave Tack laser/electro-optical targeting pod.
@@ -2704,12 +2783,6 @@ modification/ah_1_TOW_16/desc;Allows installation of BGM-71C ITOW wire-guided an
 modification/ah_1_TOW_16;BGM-71C (x16)
 modification/ah_1_TOW_2_16/desc;Allows installation of BGM-71D-5 TOW-2 wire-guided anti-tank guided missiles.
 modification/ah_1_TOW_2_16;BGM-71D-5 (x16)
-modification/cn_ba_9/desc;Allows installation of AKD09 missiles.
-modification/cn_ba_9;AKD09
-modification/cn_akd_9/desc;Allows installation of AKD09 missiles.
-modification/cn_akd_9;AKD09
-modification/cn_akd_10/desc;Allows installation of AKD10 missiles.
-modification/cn_akd_10;AKD10
 modification/ah_1_m200_2/desc;Allows installation of FFAR Mighty Mouse unguided rockets.
 modification/ah_1_m200_2;M200A1
 modification/ah_1_m261_hydra_70/desc;Allows installation of Hydra-70 unguided rockets.
@@ -3052,8 +3125,6 @@ modification/heli_screen_exhaust_device/desc;Allows installation devices that sh
 modification/heli_screen_exhaust_device;HIRSS
 modification/heli_atam_mistral/desc;Allows installation of Mistral missiles.
 modification/heli_atam_mistral;ATAM
-modification/cn_ty_90/desc;Allows installation of AKK90 missiles.
-modification/cn_ty_90;AKK90
 modification/mi_35_9M39/desc;Allows installation of 9M39 Igla missiles.
 modification/mi_35_9M39;9M39
 modification/mi_8_9M336/desc;Allows the installation of 9M336 Verba missiles.
@@ -3062,14 +3133,6 @@ modification/sa_heli_hot/desc;Allows installation of HOT missiles.
 modification/sa_heli_hot;HOT
 modification/sa_heli_hot_2/desc;Allows installation of HOT-2 missiles.
 modification/sa_heli_hot_2;HOT-2
-modification/cn_hj8/desc;Allows installation of AKD08A missiles.
-modification/cn_hj8;AKD08A
-modification/cn_hj8_c/desc;Allows installation of AKD08C missiles.
-modification/cn_hj8_c;AKD08C
-modification/cn_hj8_e/desc;Allows installation of AKD08E missiles.
-modification/cn_hj8_e;AKD08E
-modification/cn_hj8_h/desc;Allows installation of AKD08H missiles.
-modification/cn_hj8_h;AKD08H
 modification/sea_hawk_25lb_rocket_ap_mk1;25 lb A.P. Mark I
 modification/sea_hawk_25lb_rocket_ap_mk1/desc;Allows installation of 25 lb A.P. Mark I unguided rockets.
 modification/sea_hawk_25lb_rocket_ap_mk2;25 lb A.P. Mark II
@@ -3128,8 +3191,6 @@ modification/il_gatr;GATR
 modification/il_gatr/desc;Allows the installation of GATR laser-guided missiles.
 modification/us_apkws/desc;Allows installation of AGR-20A Advanced Precision Kill Weapon System missiles.
 modification/us_apkws;AGR-20A
-modification/cn_fire_snake_90a/desc;Allows the installation of Fire Snake 90a missiles.
-modification/cn_fire_snake_90a;Fire Snake 90A
 modification/atgm_spike_x2/desc;Allows installation of Spike-ER missiles.
 modification/atgm_spike_x2;Spike-ER
 modification/atgm_spike_x4/desc;Allows installation of additional Spike-ER missiles.

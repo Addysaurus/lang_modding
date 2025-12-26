@@ -22,24 +22,53 @@ modification/cn_ls_6_250_ir/desc;"Loadout unlocked:
 • K/JJH7A (all):
   • <color=@userlogColoredText>GDJ-49B</color> pylon:
     • 300 kg <color=@userlogColoredText>LS-6/250 (红外)</color> <color=#ff6f00>BMB-LG/GNSS</color>"
+
+//ROCKETS
+modification/cn_q5_hf6;90-1型 (破甲)
+modification/cn_q5_hf6/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-7</color> launcher:
+  • <color=@userlogColoredText>90-1型 (破甲)</color> <color=#ff6f00>RKT</color> x7"
+    
+modification/cn_hf7a;90-1型 (破甲)
+modification/cn_hf7a/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-7</color> launcher:
+  • <color=@userlogColoredText>90-1型 (破甲)</color> <color=#ff6f00>RKT</color> x7"
+
+modification/q_5b_type130;130-1型
+modification/q_5b_type130/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-14发射器</color> launcher:
+  • <color=@userlogColoredText>130-1型</color> <color=#ff6f00>RKT</color> x4"
     
 //MISSILES
-modification/j_7_pl5b/desc;Allows installation of K/AKK5B air-to-air missiles.
-modification/j_7_pl5b;K/AKK5B
-modification/cn_pl5c/desc;Allows the installation of K/AKK5C air-to-air missiles.
-modification/cn_pl5c;K/AKK5C
-modification/cn_pl5e2/desc;Allows the installation of K/AKK5EII air-to-air missiles.
-modification/cn_pl5e2;K/AKK5EII
-modification/j_7_pl7/desc;Allows installation of K/AKK7 air-to-air missiles.
-modification/j_7_pl7;K/AKK7
-modification/cn_pl8/desc;Allows installation of K/AKK8 air-to-air missiles.
-modification/cn_pl8;K/AKK8
-modification/cn_pl8b/desc;Allows installation of K/AKK8B air-to-air missiles.
 modification/cn_pl8b;K/AKK8B
-modification/cn_pl11/desc;Allows installation of K/AKK11 air-to-air missiles.
-modification/cn_pl11;K/AKK11
-modification/cn_pl12/desc;Allows the installation of K/AKK12 air-to-air missiles.
-modification/cn_pl12;K/AKK12
+modification/cn_pl8b/desc;"Loadout unlocked:
+• K/JJ10 (all):
+  • <color=@userlogColoredText>PF95W</color> missile launcher on <color=@userlogColoredText>GDJ-1</color> pylon:
+    • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>
+  • <color=@userlogColoredText>PF95W</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
+    • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>
+• K/JJ11B, ␗ 苏30MKK:
+  • <color=@userlogColoredText>PF8KZ</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>
+  • <color=@userlogColoredText>PF10X</color> missile launcher:
+    • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/cn_pl12;SD10A
+modification/cn_pl12/desc;"Loadout unlocked:
+• K/JJ8F:
+  • <color=@userlogColoredText>PF11</color> missile launcher:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
+• K/JJ10 (all):
+  • <color=@userlogColoredText>PF12</color> missile launcher x2 on dual rack:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
+  • <color=@userlogColoredText>PF12</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-IR</color>
+• K/JJ10C:
+  • <color=@userlogColoredText>PFT15W</color> missile launcher on <color=@userlogColoredText>ZL4W</color> pylon x2 on dual rack:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
+• K/JJ11B, ␗ 苏30MKK:
+  • <color=@userlogColoredText>PF10X</color> missile launcher:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>"
 
 modification/cn_ty_90;K/AKK90
 modification/cn_ty_90/desc;"Loadout unlocked:

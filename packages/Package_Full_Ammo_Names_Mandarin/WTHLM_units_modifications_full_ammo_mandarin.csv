@@ -42,10 +42,45 @@ modification/cn_sns_bomb/desc;"Loadout unlocked:
   • 260.816 kg <color=@userlogColoredText>GB250型250公斤激光卫星制导炸弹</color> <color=#ff6f00>BMB-LG/GNSS</color>"
 
 //ROCKETS
-modification/cn_hf7d;FS70
-modification/cn_hf7d/desc;Loadout unlocked: <color=@userlogColoredText>FS70航空火箭弹</color> rocket.
-modification/cn_fire_snake_70a;FS70A
-modification/cn_fire_snake_70a/desc;Loadout unlocked: <color=@userlogColoredText>FS70A航空制导火箭弹</color> rocket.
+modification/j_7_hf5;S-5K
+modification/j_7_hf5/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-5发射器</color> launcher:
+  • <color=@userlogColoredText>Nyeupravlâyemaâ aviaczionnaâ rakyeta S-5K</color> <color=#ff6f00>RKT</color> x32"
+
+modification/cn_q5_hf6;90-1型 (破甲)
+modification/cn_q5_hf6/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-7发射器</color> launcher:
+  • <color=@userlogColoredText>90毫米1型航空火箭破甲弹</color> <color=#ff6f00>RKT</color> x7"
+
+modification/cn_hf7a;90-1型 (破甲)
+modification/cn_hf7a/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-7发射器</color> launcher:
+  • <color=@userlogColoredText>90毫米1型航空火箭破甲弹</color> <color=#ff6f00>RKT</color> x7"
+
+modification/q_5b_type130;130-1型
+modification/q_5b_type130/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-14发射器</color> launcher:
+  • <color=@userlogColoredText>130毫米1型航空火箭杀伤爆破弹</color> <color=#ff6f00>RKT</color> x4"
+
+modification/cn_hf27;S-5K
+modification/cn_hf27/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-27发射器</color> launcher:
+  • <color=@userlogColoredText>Nyeupravlâyemaâ aviaczionnaâ rakyeta S-5K</color> <color=#ff6f00>RKT</color> x7"
+
+modification/cn_hf7d;火蛇70
+modification/cn_hf7d/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-7D发射器</color> launcher:
+  • <color=@userlogColoredText>FS70航空火箭弹</color> <color=#ff6f00>RKT</color> x7"
+
+modification/cn_fire_snake_70a;GR5
+modification/cn_fire_snake_70a/desc;"Loadout unlocked:
+• <color=@userlogColoredText>FS70航空火箭弹集束发射器</color> launcher:
+  • <color=@userlogColoredText>GR5航空制导火箭弹</color> <color=#ff6f00>AGM-LG</color> x7"
+
+modification/cn_fire_snake_90a;BRM1
+modification/cn_fire_snake_90a/desc;"Loadout unlocked:
+• <color=@userlogColoredText>HF-20发射器</color> launcher:
+  • <color=@userlogColoredText>BRM1型90毫米航空制导火箭弹</color> <color=#ff6f00>AGM-LG</color> x16"
 
 //MISSILES
 modification/mig_19_pl2;K/AKK2
@@ -136,12 +171,80 @@ modification/cn_sd10/desc;"Loadout unlocked:
 • <color=@userlogColoredText>PF12空空导弹发射装置</color> missile launcher x2 on dual rack:
   • <color=@userlogColoredText>SD10A空空导弹</color> <color=#ff6f00>AAM-ARH</color>"
 
+modification/cn_ty_90;AKK90
+modification/cn_ty_90/desc;"Loadout unlocked:
+• <color=@userlogColoredText>PF90空空导弹发射装置</color> missile launcher x4 on quad rack:
+  • <color=@userlogColoredText>AKK90空空导弹</color> <color=#ff6f00>AAM-ARH</color>"
+
+modification/cn_yj_81k;H/AKJ08
+modification/cn_yj_81k/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-49B空舰导弹发射装置</color> pylon:
+  • <color=@userlogColoredText>H/AKJ08空舰导弹</color> <color=#ff6f00>AShM-ARH</color>"
+
 modification/cn_cm_502kg;CM502KG
 modification/cn_cm_502kg/desc;"Loadout unlocked:
 • Pylon:
   • <color=@userlogColoredText>CM502KG轻型近程空面导弹武器系统</color> <color=#ff6f00>AGM-IR</color> x4"
 
+modification/cn_ba_11;BA-11A
+modification/cn_ba_11/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>BA-11A型空地导弹</color> <color=#ff6f00>AGM-IR</color> x4"
+
+modification/cn_hj8;AFT08A
+modification/cn_hj8/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>AFT08A反坦克导弹</color> <color=#ff6f00>AGM-WG</color> x2"
+
+modification/cn_hj8_c;AFT08C
+modification/cn_hj8_c/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>AFT08C反坦克导弹</color> <color=#ff6f00>AGM-WG</color> x2"
+
+modification/cn_hj8_e;AFT08E
+modification/cn_hj8_e/desc;"Loadout unlocked:
+• ␗ SA 342 L, Z9W:
+  • Pylon:
+    • <color=@userlogColoredText>AFT08E反坦克导弹</color> <color=#ff6f00>AGM-WG</color> x2
+• Z9WA:
+  • Pylon:
+    • <color=@userlogColoredText>AFT08E反坦克导弹</color> <color=#ff6f00>AGM-WG</color> x4"
+
+modification/cn_hj8_h;AFT08H
+modification/cn_hj8_h/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>AFT08H反坦克导弹</color> <color=#ff6f00>AGM-WG</color> x4"
+
+modification/cn_ba_9;AKD09
+modification/cn_ba_9/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>AKD09空地导弹</color> <color=#ff6f00>AGM-LG</color> x4"
+
+modification/cn_akd_9;AKD09
+modification/cn_akd_9/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>AKD09空地导弹</color> <color=#ff6f00>AGM-LG</color> x4"
+
+modification/cn_akd_10;AKD10
+modification/cn_akd_10/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>AKD10空地导弹</color> <color=#ff6f00>AGM-LG</color> x4"
+
 //SENSORS
+modification/cn_k_pzs_01;K/PZS-01
+modification/cn_k_pzs_01/desc;"Loadout unlocked:
+• Pylon:
+  • <color=@userlogColoredText>K/PZS01型昼夜瞄准吊舱</color> <color=#ff6f00>TGP-LG/EO</color>"
+
+modification/cn_k_adc03a;K/JDC03A
+modification/cn_k_adc03a/desc;"Loadout unlocked:
+• K/JJ11B:
+  • <color=@userlogColoredText>GDJ-II36</color> pylon on <color=@userlogColoredText>GDJ-III7Z</color> pylon:
+    • <color=@userlogColoredText>K/JDC03A型昼夜瞄准吊舱</color> <color=#ff6f00>TGP-LG/EO</color>"
+• K/JJH7A (all):
+  • Pylon:
+    • <color=@userlogColoredText>K/JDC03A型昼夜瞄准吊舱</color> <color=#ff6f00>TGP-LG/EO</color>"
+
 modification/cn_yings_3a;YINGS-IIIA (标配型)
 modification/cn_yings_3a/desc;"Loadout unlocked:
 • Pylon:

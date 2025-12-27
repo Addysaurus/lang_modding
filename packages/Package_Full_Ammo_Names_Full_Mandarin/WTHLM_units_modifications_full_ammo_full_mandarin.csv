@@ -1,4 +1,42 @@
 <ID|readonly|noverify>;<English>
+//BOMBS
+modification/cn_q5_type_250;250-1型 (燃烧) / 2型 / 3型 / 4型
+modification/cn_q5_type_250/desc;"Loadout unlocked:
+• 歼6A, 强5, 强5B:
+  • Pylon:
+    • 236.92 kg <color=@userlogColoredText>250公斤2型航空爆破炸弹</color> <color=#ff6f00>BMB</color>
+• 歼7II, 强5 (all), A5C (2003):
+  • Pylon:
+    • 135 kg <color=@userlogColoredText>250公斤1型航空爆破燃烧炸弹</color> <color=#ff6f00>BMB</color>
+• K/JJ7D, K/JJ7E, J/JJ8 (all), 强5B, K/JQ5L:
+  • Pylon:
+    • 216.5 kg <color=@userlogColoredText>250公斤3型航空爆破炸弹</color> <color=#ff6f00>BMB</color>
+• K/JJ7D, K/JJ7E, J/JJ8 (all), 强5B, K/JQ5L, A5C (2003):
+  • Pylon:
+    • 240 kg <color=@userlogColoredText>250公斤4型航空爆破炸弹</color> <color=#ff6f00>BMB</color>
+• J/JJ8 (all), H/JJH7:
+  • <color=@userlogColoredText>GDJ-4</color> multiple ejector rack:
+    • 216.5 kg <color=@userlogColoredText>250公斤3型航空爆破炸弹</color> <color=#ff6f00>BMB</color> x6
+    • 240 kg <color=@userlogColoredText>250公斤4型航空爆破炸弹</color> <color=#ff6f00>BMB-HD</color> x6
+• H/JJH7:
+  • <color=@userlogColoredText>GDJ-4</color> multiple ejector rack on <color=@userlogColoredText>GDJ-49B</color> pylon:
+    • 216.5 kg <color=@userlogColoredText>250公斤3型航空爆破炸弹</color> <color=#ff6f00>BMB</color> x4
+    • 240 kg <color=@userlogColoredText>250公斤4型航空爆破炸弹</color> <color=#ff6f00>BMB-HD</color> x4"
+
+modification/cn_q5_type_500;500-2型 / 3型 / 4型
+modification/cn_q5_type_500/desc;"Loadout unlocked:
+• 歼7II:
+  • Pylon:
+    • 473 kg <color=@userlogColoredText>500公斤2型航空爆破炸弹</color> <color=#ff6f00>BMB</color>
+• K/JJ7D, K/JJ7E, K/JJ8 (all), K/JQ5L:
+  • Pylon:
+    • 469 kg <color=@userlogColoredText>500公斤3型航空爆破炸弹</color> <color=#ff6f00>BMB</color>
+    • 508.3 kg <color=@userlogColoredText>500公斤4型航空爆破炸弹</color> <color=#ff6f00>BMB-HD</color>
+• H/JJH7:
+  • Dual ejector rack:
+    • 469 kg <color=@userlogColoredText>500公斤3型航空爆破炸弹</color> <color=#ff6f00>BMB</color> x2
+    • 508.3 kg <color=@userlogColoredText>500公斤4型航空爆破炸弹</color> <color=#ff6f00>BMB-HD</color> x2"
+
 //ROCKETS
 modification/cn_hf7d;火蛇70
 modification/cn_hf7d/desc;"Loadout unlocked:

@@ -149,8 +149,8 @@ All dates are listed in DD-MM-YYYY format.
     - "Sea Defender" changes:
         - **AK-225**: Statcard name → **Lyeningradskij Primorskij zavod | Artillyerijskij katyer proyekt 205PÈ | AK-225 (1975)**.
     - China rework and Mandarin package:
-        - **Gladiator Mk. I** → **Dòushì Mk. I**. Statcard name → **Gloster Aircraft Company | Dòushì Mk. I Xíng Qūzhú Jī "Gé Jī"**.
-            - Mandarin package: **Gladiator Mk. I** → **鬥士Mk. I**. Statcard name → **Gloster Aircraft Company | 鬥士Mk. I型驅逐機「格機」**.
+        - **Gladiator Mk. I** → **Dòushì Mk. I**. Statcard name → **Gloster Aircraft Company SS.37 | Dòushì Mk. I Xíng Qūzhú Jī "Gé Jī"**.
+            - Mandarin package: **Gladiator Mk. I** → **鬥士Mk. I**. Statcard name → **Gloster Aircraft Company SS.37 | 鬥士Mk. I型驅逐機「格機」**.
         - **Ki 27 Otsu** → **97 Shì Zhàn Yi**. Statcard name → **Nakajima Hikōki | 97 Shì Zhàndòujī Yi**.
             - Mandarin package: **Ki 27 Otsu** → **九七式戰乙**. Statcard name → **中島飛行機 | 九七式戰鬥機乙**.
         - **Ki 43-III Kō** → **1 Shì Zhàn 3 Xíng Jia**. Statcard name → **Nakajima Hikōki | 1 Shì Zhàndòujī 3 Xíng Jia "Sun"**.
@@ -257,8 +257,8 @@ All dates are listed in DD-MM-YYYY format.
         - **MiG-9** → **Migé 9**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | Migé 9 Xíng Fēijī**.
             - Mandarin package: **MiG-9** → **米格9**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | 米格9型飞机**.
             - Mandarin + Russian package: **MiG-9** → **米格9**. Statcard name → **Опытно-конструкторское бюро № 155 | 米格9型飞机**.
-        - **I-307**: Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. FR | I-307**.
-            - Mandarin + Russian package: **I-307** → **И-307**. Statcard name → **Опытно-конструкторское бюро № 155 | изд. ФР | И-307**.
+        - **I-307**: Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. FF | I-307**.
+            - Mandarin + Russian package: **I-307** → **И-307**. Statcard name → **Опытно-конструкторское бюро № 155 | изд. ФФ | И-307**.
         - **MiG-15bis** → **Migé 15 Bisī**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | Migé 15 Bisī Xíng Fēijī**.
             - Mandarin package: **MiG-15bis** → **米格15比斯**. Statcard name → **Opytno-konstruktorskoye bûro № 155 | 米格15比斯型飞机**.
             - Mandarin + Russian package: **MiG-15bis** → **米格15比斯**. Statcard name → **Опытно-конструкторское бюро № 155 | 米格15比斯型飞机**.
@@ -1221,6 +1221,10 @@ All dates are listed in DD-MM-YYYY format.
         - **AKD08E** → **AFT08E**.
         - **AKD08H** → **AFT08H**.
         - **FS70A** → **GR5**.
+        - **Mk82/LS-6 250** → **Mk 82 Mod 0 / LS-6/250**.
+        - **Mk83/LS-6 500** → **Mk 83 Mod 0 / LS-6/500**.
+        - **Type 250 / LS6** → **Type 250 / LS-6/250**.
+        - **Type 500 / LS6** → **Type 500 / LS-6/500**.
     - I somehow had misspelled "maintenance" as "maintainance" in literally every modification (and as "maintenence" in 2 of them) because I'm an absolute moron, and it has somehow been like this for almost a year. That has been fixed now. Thanks tNebula for letting me know that I'm an actual dumbass.
     - Corrected a typo in the description of the **F-2A-MIT (C10)**'s **GBU-31(V)1/B / 62(V)1/B** modification.
     - Added bomb masses to the description of the **F-2A-MIT (C10)**'s **GBU-31(V)1/B / 62(V)1/B** modification.
@@ -1357,6 +1361,36 @@ All dates are listed in DD-MM-YYYY format.
             - Full Mandarin package: **YINGS-III** → **鹰隼-IIIA**. Long name → **鹰隼-IIIA昼夜瞄准吊舱**.
         - **ES-05** → **RAVEN ES-05**.
     - China rework & Mandarin package:
+        - **Type 280** → **208 Léidá | SL-5 Léidá | K/LKK208 Léidá**.
+            - Mandarin package: **Type 280** → **208雷达 | SL-5雷达 | K/LKK208雷达**.
+        - **Type 208a** → **208A Léidá | SL-5 Léidá | K/LKK208A Léidá**.
+            - Mandarin package: **Type 208a** → **208A雷达 | SL-5A雷达 | K/LKK208A雷达**.
+        - **Type 226** → **226 Léidá | K/LKK226 Léidá**.
+            - Mandarin package: **Type 226** → **226雷达 | K/LKK226雷达**.
+        - **JL-7A** → **JL-7A Xìliè Shèjí Miáozhun Léidá**.
+            - Mandarin package: **JL-7A** → **JL-7A系列射击瞄准雷达**.
+        - **JL-10A** → **JL-10A Xìliè Shèjí Miáozhun Léidá**.
+            - Mandarin package: **JL-10A** → **JL-10A系列射击瞄准雷达**.
+        - **Type 1473** → **1473H Léidá | KLJ-3 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá | K/LKK73H Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá**.
+            - Mandarin package: **Type 1473** → **1473H雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73H机载脉冲多普勒火控雷达**.
+        - **KLJ-7** → **1478 Léidá | KLJ-7 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá | K/LKK78 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá**.
+            - Mandarin package: **KLJ-7** → **1478雷达 | KLJ-7机载脉冲多普勒火控雷达 | K/LKK78机载脉冲多普勒火控雷达**.
+        - **K/LKK92B** → **1492 Léidá | K/LKK92 Léidá**.
+            - Mandarin package: **K/LKK92B** → **1492雷达 | K/LKK92雷达**.
+        - **Type 1493** → **1493 Léidá | K/LKK93 Léidá**.
+            - Mandarin package: **Type 1493** → **1493雷达 | K/LKK93雷达**.
+        - **Z-10 FCR** → **YH Háomi Bō Léidá**.
+            - Mandarin package: **Z-10 FCR** → **YH毫米波雷达**.
+            - Full Mandarin package: **Z-10 FCR** → **浴火毫米波雷达**.
+        - **Type 930-4** (RWR) → **930-4 Léidá Gàojing Shèbèi**.
+            - Mandarin package: **Type 930-4** (RWR) → **930-4雷达告警设备**.
+        - **KJ8602** (RWR) → **BM/KJ8602 Léidá Gàojing Shèbèi**.
+            - Mandarin package: **KJ8602** (RWR) → **BM/KJ8602雷达告警设备**.
+        - **KJ8602A** (RWR) → **BM/KJ8602A Léidá Gàojing Shèbèi**.
+            - Mandarin package: **KJ8602A** (RWR) → **BM/KJ8602A雷达告警设备**.
+        - **YH96** (RWR) → **YH96 Jīzai Daodàn Bījìn Hóngwài Gàojing Shèbèi**.
+            - Mandarin package: **YH96** (RWR) → **YH96机载导弹逼近红外告警设备**.
+            - Full Mandarin package: **YH96** (RWR) → **浴火96机载导弹逼近红外告警设备**.
         - **K/PSZ01** → **K/PZS01**. Long name → **K/PZS01 Xíng Zhòuyè Miáozhǔn Diào Cāng**.
             - Mandarin package: **K/PSZ01** → **K/PZS01**. Long name → **K/PZS01型昼夜瞄准吊舱**.
         - **K/JDC03A** → **K/JDC03A**. Long name → **K/JDC03A Xíng Zhòuyè Miáozhǔn Diào Cāng**.

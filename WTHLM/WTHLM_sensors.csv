@@ -119,7 +119,16 @@ sensors/jp_j_apg_1;J/APG-1 <color=#ff6f00>RDR-AESA</color>
 sensors/jp_j_apg_2;J/APG-2 <color=#ff6f00>RDR-AESA</color>
 sensors/jp_type_81_search;81 Shiki Tankyorichi Taikū Yūdōdan C Gata Ta Kinō Rēdā <color=#ff6f00>RDR-PESA</color>
 sensors/jp_type_03_search;03 Shiki Chūkyorichi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsenbu <color=#ff6f00>RDR-AESA</color>
+sensors/cn_type_280;208 Léidá | SL-5 Léidá | K/LKK208 Léidá <color=#ff6f00>RDR</color>
+sensors/cn_type_208a;208A Léidá | SL-5A Léidá | K/LKK208A Léidá <color=#ff6f00>RDR</color>
+sensors/uk_marconi_type_226;226 Léidá | K/LKK226 Léidá <color=#ff6f00>RDR</color>
+sensors/cn_jl_7a;JL-7A Xìliè Shèjí Miáozhun Léidá <color=#ff6f00>RDR</color>
+sensors/cn_jl_10a;JL-10A Xìliè Shèjí Miáozhun Léidá <color=#ff6f00>RDR-PD</color>
+sensors/cn_type_1473;1473H Léidá | KLJ-3 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá | K/LKK73H Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá <color=#ff6f00>RDR-PD</color>
+sensors/cn_klj_7;1478 Léidá | KLJ-7 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá | K/LKK78 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá <color=#ff6f00>RDR-PD</color>
 sensors/cn_klj_10a;KLJ-10 Jīzai Màichōng Duō Pu Lè Huo Kòng Léidá <color=#ff6f00>RDR-AESA</color>
+sensors/cn_type_1492;1492 Léidá | K/LKK92 Léidá <color=#ff6f00>RDR-PD</color>
+sensors/cn_type_1493_pd;1493 Léidá | K/LKK93 Léidá <color=#ff6f00>RDR-PD</color>
 sensors/cn_z10_fcr;YH Háomi Bō Léidá <color=#ff6f00>RDR</color>
 sensors/cn_pgz_625_search;PGZ-625 TA
 sensors/cn_pgz_625_track;PGZ-625 TT
@@ -144,7 +153,10 @@ sensors/su_spo-150-14;Sistyema pryedupryeždyeniâ ob oblučyenii L-150-14 Pasty
 sensors/su_spo_150_28m;Sistyema pryedupryeždyeniâ ob oblučyenii L-150-28M Pastyel'
 sensors/su_spo-150-30sm;Sistyema pryedupryeždyeniâ ob oblučyenii L-150-30SM Pastyel'
 sensors/il_elisra_sps_3000;SPS-3000(V)
-sensors/cn_helicopter_z_late_rwr;YH96
+sensors/cn_type_930_4;930-4 Léidá Gàojing Shèbèi
+sensors/cn_kj_8602;BM/KJ8602 Léidá Gàojing Shèbèi
+sensors/cn_kj8602a;BM/KJ8602A Léidá Gàojing Shèbèi
+sensors/cn_helicopter_z_late_rwr;YH96 Jīzai Daodàn Bījìn Hóngwài Gàojing Shèbèi
 
 //TARGETING PODS
 weapons/an_aas_38;AN/AAS-38 NITE Hawk <color=#ff6f00>TGP-IR</color>
@@ -161,7 +173,11 @@ weapons/su_t_220_targeting_pod;T-220
 weapons/su_t_220_targeting_pod/short;T-220
 weapons/jp_i_aaq2_targeting_pod;J/AAQ-2 <color=#ff6f00>TGP-IR</color>
 weapons/jp_i_aaq2_targeting_pod/short;J/AAQ-2
-weapons/cn_yings_3a_targeting_pod;YINGS-IIIA Zhòuyè Miáozhǔn Diào Cāng (Biāo Pèixíng) <color=#ff6f00>TGP-LG/EO</color>
+weapons/cn_k_pzs_01_targeting_pod;K/PZS01 Xíng Zhòuyè Miáozhun Diào Cāng <color=#ff6f00>TGP-LG/EO</color>
+weapons/cn_k_pzs_01_targeting_pod/short;K/PZS01
+weapons/cn_k_adc03a_targeting_pod;K/JDC03A Xíng Zhòuyè Miáozhun Diào Cāng <color=#ff6f00>TGP-LG/EO</color>
+weapons/cn_k_adc03a_targeting_pod/short;K/JDC03A
+weapons/cn_yings_3a_targeting_pod;YINGS-IIIA Zhòuyè Miáozhun Diào Cāng (Biāo Pèixíng) <color=#ff6f00>TGP-LG/EO</color>
 weapons/cn_yings_3a_targeting_pod/short;YINGS-IIIA (Biāo Pèixíng)
 weapons/tr_aselpod;ASELPOD Advanced Targeting Pod <color=#ff6f00>TGP-LG/EO</color>
 weapons/tr_aselpod/short;ASELPOD
@@ -214,7 +230,6 @@ sensors/jp_ops_16_radar;OPS-16
 sensors/jp_type_21;Type-21
 sensors/jp_type_22;Type-22
 sensors/fr_me140_mr126;ME-140/MR-126 radar
-sensors/cn_type_280;Type 280
 sensors/cn_type_208a;Type 208a
 sensors/cn_jl_7a;JL-7A
 sensors/cn_type_930_4;Type 930-4

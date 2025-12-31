@@ -18,6 +18,34 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.16.00 - 26-12-2025
 
+### Vehicles:
+
+- #### Additions:
+
+    - **Ar-2** (in all of the time this mod has existed which, if you count the personal project part, is over 2 years, I somehow have forgotten to include this plane that has been in the game forever)
+
+- #### Changes:
+
+    - **FR-1**: Statcard name → **Ryan Aeronautical Company Model 28-1 | FR-1 Fireball**. I also made it actually display correctly.
+    - **Huòkè 75H**:
+        - Mandarin package: Statcard name → **Curtiss-Wright Corporation Hawk Model 75H | 霍克75H驅逐機** (the manufacturer designation was still accidentally 75M).
+    - **Ar-2**: Statcard name → **Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet Ar-2**. As pennance for me somehow forgetting this age old plane for years, here's a proper rename of it.
+
+### Sensors:
+
+- #### Additions:
+
+    - **APK-9** (forgot to add this in Line of Contact)
+
+- #### Changes:
+
+    - **APK-9**: Long name → **Agryegat počvoobrabatyvaûŝij kombinirovannyj APK-9**.
+    - **KLJ-10 Jīzai Màichōng Duō Pu Lè Huo Kòng Léidá** → **KLJ-10A Jīzai Màichōng Duō Pu Lè Huo Kòng Léidá**.
+        - Mandarin package: **KLJ-10机载脉冲多普勒火控雷达** → **KLJ-10A机载脉冲多普勒火控雷达**.
+    - Changed the type tag of the Kh-59M and Kh-59MÈ to AGM-EO.
+
+## 1.16.00 - 26-12-2025
+
 ### General:
 
 - After 7 long months and literal hundreds of hours of reading, researching, and going kind of insane, the China rework and Mandarin package are finally are! Every single Chinese thing in the entire game has been reworked. Every vehicle, every weapon, every sensor, every modification, every engine, *everything*. It has all been reworked completely. And with that, 6 new Mandarin packages have been added: standard Mandarin, Full Mandarin (e.g. HQ-11 becomes 红旗-11), Mandarin + Russian combo, Full Mandarin + Russian combo, Full Ammunition Names Mandarin, and Full Ammunition Names Full Mandarin. From the bottom of my heart, I hope you enjoy it. I would also like to massively thank kleinerPanzer for help sourcing and researching this rework. Without her, this rework would have been impossible and from the bottom of my heart, she deserves the biggest thank you on the planet. Oh and the transliteration is Pinyin but is a bit weird because the 3rd tone diacritic works for every letter in weapons, but only for Ě (E caron) in vehicles, so aside from Ě, vehicles are missing 3rd tone diacritics. Why? idk

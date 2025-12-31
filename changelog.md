@@ -20,11 +20,16 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **Ar-2** (in all of the time this mod has existed which, if you count the personal project part, is over 2 years, I somehow have forgotten to include this plane that has been in the game forever)
+
 - #### Changes:
 
     - **FR-1**: Statcard name → **Ryan Aeronautical Company Model 28-1 | FR-1 Fireball**. I also made it actually display correctly.
     - **Huòkè 75H**:
         - Mandarin package: Statcard name → **Curtiss-Wright Corporation Hawk Model 75H | 霍克75H驅逐機** (the manufacturer designation was still accidentally 75M).
+    - **Ar-2**: Statcard name → **Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet Ar-2**. As pennance for me somehow forgetting this age old plane for years, here's a proper rename of it.
 
 ### Sensors:
 

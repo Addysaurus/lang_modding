@@ -148,6 +148,10 @@ weapons/7_62mm_T74v_user_machinegun;<color=@userlogColoredText>7.62 mm</color> T
 weapons/12_7mm_Type_54_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1954 Nián Shì 12.7 Háomi Gāoshè Jīqiāng <color=#ff6f00>MG</color>
 weapons/12_7mm_type_77_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1977 Nián Shì 12.7 Háomi Gāoshè Jīqiāng <color=#ff6f00>MG</color>
 weapons/12_7mm_QJC_88A_user_machinegun;<color=@userlogColoredText>12.7 mm</color> QJC1988A Shì 12.7 Háomi Chēzài Gāoshè Jīqiāng <color=#ff6f00>MG</color>
+weapons/gun_qjk_99_12_7_1;<color=@userlogColoredText>12.7 mm</color> QJK1999 Shì 12.7 Háomi Hángkōng Jīqiāng <color=#ff6f00>MG</color>
+weapons/gun_qjk_99_12_7_1/short;QJK99
+weapons/cn_12_7_additionalpod_gun;<color=@userlogColoredText>12.7 mm</color> QJK1999 Shì 12.7 Háomi Hángkōng Jīqiāng <color=#ff6f00>MG</color>
+weapons/cn_12_7_additionalpod_gun/short;QJK99
 weapons/14_5mm_QJG02_user_machinegun;<color=@userlogColoredText>14.5 mm</color> QJG2002 Shì 14.5 Háomi Dān Guan Gāoshè Jīqiāng <color=#ff6f00>MG</color>
 weapons/cannonType_23_1;<color=@userlogColoredText>23 mm</color> 23 Háomi 1 Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
 weapons/cannonType_23_1_plane;<color=@userlogColoredText>23 mm</color> 23 Háomi 1 Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
@@ -4421,10 +4425,6 @@ weapons/cannon2A42/short;2A42
 weapons/gunGShG;<color=@userlogColoredText>7.62 mm</color> 9-A-622 | GŠG-7.62 <color=#ff6f00>MG</color>
 weapons/gunGShG_guv;<color=@userlogColoredText>7.62 mm</color> 9-A-622 | GŠG-7.62 <color=#ff6f00>MG</color>
 weapons/gunGShG_guv/short;GŠG-7.62
-weapons/cn_12_7_additionalpod_gun;12.7 mm QJK99-12.7-1 machine gun
-weapons/cn_12_7_additionalpod_gun/short;QJK99-12.7-1
-weapons/gun_qjk_99_12_7_1;12.7 mm QJK99-12.7-1 machine gun
-weapons/gun_qjk_99_12_7_1/short;QJK99-12.7-1
 weapons/grenade_launcher_M129;<color=@userlogColoredText>40 mm</color> Grenade, Launcher, 40mm, M129 <color=#ff6f00>LCH</color>
 weapons/grenade_launcher_M129/short;M129
 weapons/gunPKA762;7.62 mm PKA machine gun

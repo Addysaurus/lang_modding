@@ -30,6 +30,16 @@ All dates are listed in DD-MM-YYYY format.
     - **Huòkè 75H**:
         - Mandarin package: Statcard name → **Curtiss-Wright Corporation Hawk Model 75H | 霍克75H驅逐機** (the manufacturer designation was still accidentally 75M).
     - **Ar-2**: Statcard name → **Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet Ar-2**. As pennance for me somehow forgetting this age old plane for years, here's a proper rename of it.
+    - **RakJPz 4 Jaguar 2**: Statcard name → **Thyssen Henschel | Raketenjagdpanzer 4 Jaguar 2**.
+
+### Weaponry:
+
+- #### Changes:
+
+    - **QJK99-12.7-1** → **QJK99**. Statcard name → **QJK1999 Shì 12.7 Háomi Hángkōng Jīqiāng**.
+        - Mandarin package: **QJK99-12.7-1** → **QJK99**. Statcard name → **QJK1999式12.7毫米航空机枪**.
+    - **BA-11A**:
+        - Full Mandarin package: **蓝新-11A** → **蓝箭-11A**. Statcard name → **蓝箭-11A型空地导弹**.
 
 ### Sensors:
 

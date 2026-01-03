@@ -40,6 +40,7 @@ All dates are listed in DD-MM-YYYY format.
         - Mandarin package: **QJK99-12.7-1** → **QJK99**. Statcard name → **QJK1999式12.7毫米航空机枪**.
     - **BA-11A**:
         - Full Mandarin package: **蓝新-11A** → **蓝箭-11A**. Statcard name → **蓝箭-11A型空地导弹**.
+    - Corrected the type tag of the **BK 27** and **ADEN 25** from RCNN to ACNN.
 
 ### Sensors:
 

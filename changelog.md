@@ -13,6 +13,8 @@ Some terminology for this changelog:
 - Long distance name: The name that appears at long distances from a vehicle.
 - Caliber/mass tag: Yellow colored text in front of a weapon's long name denoting its caliber or mass, depending on what is appropriate for the weapon type.
 - Type tag: Orange colored text at the end of a weapon's long name denoting the type of weapon in abbreviations.
+- Report: A bug report for the mod on the GitHub that is responsible for the listed change.
+- Reported: A bug report for the mod that is responsible for the listed change, but is not on the GitHub and was reported through means such as a DM.
 
 All dates are listed in DD-MM-YYYY format.
 
@@ -29,8 +31,10 @@ All dates are listed in DD-MM-YYYY format.
     - **FR-1**: Statcard name → **Ryan Aeronautical Company Model 28-1 | FR-1 Fireball**. I also made it actually display correctly.
     - **Huòkè 75H**:
         - Mandarin package: Statcard name → **Curtiss-Wright Corporation Hawk Model 75H | 霍克75H驅逐機** (the manufacturer designation was still accidentally 75M).
-    - **Ar-2**: Statcard name → **Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet Ar-2**. As pennance for me somehow forgetting this age old plane for years, here's a proper rename of it.
-    - **RakJPz 4 Jaguar 2**: Statcard name → **Thyssen Henschel | Raketenjagdpanzer 4 Jaguar 2**.
+    - **Ar-2**: Statcard name → **Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet Ar-2**. As pennance for me somehow forgetting this age old plane for years, here's a proper rename of it ([Report](https://github.com/Addysaurus/lang_modding/issues/85)).
+    - **RakJPz 4 Jaguar 2**: Statcard name → **Thyssen Henschel | Raketenjagdpanzer 4 Jaguar 2** (Reported).
+    - **Ayanami**:
+        - Japanese package: Statcard name → **藤永田造船所 | 特型驅逐艦 | 綾波型驅逐艦 (F-43) | 綾波 (1936)** (it was somehow missing its plan number).
 
 ### Weaponry:
 
@@ -38,9 +42,9 @@ All dates are listed in DD-MM-YYYY format.
 
     - **QJK99-12.7-1** → **QJK99**. Statcard name → **QJK1999 Shì 12.7 Háomi Hángkōng Jīqiāng**.
         - Mandarin package: **QJK99-12.7-1** → **QJK99**. Statcard name → **QJK1999式12.7毫米航空机枪**.
-    - **BA-11A**:
+    - **BA-11A** ([Report](https://github.com/Addysaurus/lang_modding/issues/85)):
         - Full Mandarin package: **蓝新-11A** → **蓝箭-11A**. Statcard name → **蓝箭-11A型空地导弹**.
-    - Corrected the type tag of the **BK 27** and **ADEN 25** from RCNN to ACNN.
+    - Corrected the type tag of the **BK 27** and **ADEN 25** from RCNN to ACNN (Reported).
 
 ### Sensors:
 

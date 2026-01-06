@@ -35,6 +35,10 @@ All dates are listed in DD-MM-YYYY format.
     - **RakJPz 4 Jaguar 2**: Statcard name → **Thyssen Henschel | Raketenjagdpanzer 4 Jaguar 2** (Reported).
     - **Ayanami**:
         - Japanese package: Statcard name → **藤永田造船所 | 特型驅逐艦 | 綾波型驅逐艦 (F-43) | 綾波 (1936)** (it was somehow missing its plan number).
+    - **81 Shiki (C) Kadaibu**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyori Chi Taikū Yūdōdan C Gata Kadaibu "Shōto Arō"** (Reported).
+    - **81 Shiki (C) Sha Tō Sō**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyori Chi Taikū Yūdōdan C Gata Shageki Tōsei Sōchi "Shōto Arō"** (Reported).
+    - **03 Shiki Sha Rēda Sō Sorabu** → **03 Shiki Sha Rēda Sō Kūsen-bu**. Statcard name → **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyori Chi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsen-bu** (Reported).
+    - **03 Shiki Has Sō**: Statcard name → **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyori Chi Taikū Yūdōdan Hassha Sōchi** (Reported).
 
 ### Weaponry:
 

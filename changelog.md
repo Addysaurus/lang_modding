@@ -18,7 +18,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.16.00 - 26-12-2025
+## 1.16.01 - UNRELEASED
 
 ### Vehicles:
 
@@ -49,6 +49,12 @@ All dates are listed in DD-MM-YYYY format.
     - **BA-11A** ([Report](https://github.com/Addysaurus/lang_modding/issues/85)):
         - Full Mandarin package: **蓝新-11A** → **蓝箭-11A**. Statcard name → **蓝箭-11A型空地导弹**.
     - Corrected the type tag of the **BK 27** and **ADEN 25** from RCNN to ACNN (Reported).
+
+### Modifications:
+
+- #### Changes:
+
+    - Corrected the **FS70** modification accidentally appearing as the Mandarin **火蛇70** even when not using the Mandarin package.
 
 ### Sensors:
 

@@ -1,5 +1,5 @@
 <ID|readonly|noverify>;<English>
-//AI UNITS
+//USSR AI UNITS
 ships/ussr_aircraftcarrier_admiral_kuznetsov_shop;Адмирал Флота Советского Союза Кузнецов
 ships/ussr_aircraftcarrier_admiral_kuznetsov_0;Черноморский судостроительный завод | Тяжёлый Авианесущий Крейсер Проект 1143.5 Кречет | Адмирал Флота Советского Союза Кузнецов
 ships/ussr_aircraftcarrier_admiral_kuznetsov_1;Адмирал Флота Советского Союза Кузнецов
@@ -9,7 +9,7 @@ ussr_aircraftcarrier_admiral_kuznetsov_0;Черноморский судостр
 ussr_aircraftcarrier_admiral_kuznetsov_1;Адмирал Флота Советского Союза Кузнецов
 ussr_aircraftcarrier_admiral_kuznetsov_2;Destroyer
 
-//KILLSTREAK UNITS
+//USSR KILLSTREAK UNITS
 su_24m_killstreak_shop;☢ Су-24М2
 su_24m_killstreak_0;☢ ПАО «Компания „Сухой“» | изд. Т-6М2 | Самолет Су-24М2
 su_24m_killstreak_1;☢ Су-24М
@@ -19,7 +19,7 @@ su_24m_china_killstreak_0;␗☢ ПАО «Компания „Сухой“» | 
 su_24m_china_killstreak_1;␗☢ Су-24М
 su_24m_china_killstreak_2;␗☢ Су-24
 
-//GROUPS
+//USSR GROUPS
 shop/group/ussr_t_34_85_group;Т-34-85 (Mar, 1944) / (Sep, 1944)
 shop/group/ussr_su_object_group;СУ-122-54 / Об. 268
 shop/group/ussr_t_55_group;Т-55А / 62
@@ -29,7 +29,7 @@ shop/group/ussr_9a33_35_group;9А33БМ3 / 35М2
 shop/group/ussr_buk_m3_fcs_group;9К317М
 shop/group/cn_tor_hq_group;␗ 9А331 / ADK17
 
-//AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+//USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 ar_2_shop;Ар-2
 ar_2_0;Центральный аэрогидродинамический институт имени профессора Н. Е. Жуковского | Самолет Ар-2
 ar_2_1;Ар-2
@@ -47,25 +47,25 @@ db_lk_0;Центральный аэрогидродинамический инс
 db_lk_1;ДБ-ЛК
 db_lk_2;ДБ-ЛК
 
-//AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+//USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 yak_1_litvyak_shop;Як-1 Литвяк
 yak_1_litvyak_0;Опытно-конструкторское бюро № 115 | Самолет Як-1 Лидии Владимировны Литвяк
 yak_1_litvyak_1;Як-1
 yak_1_litvyak_2;Як-1
 
-//AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+//USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 
-//AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+//USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 quing_6_shop;Qīng 6
 quing_6_0;Государственный союзный опытный завод № 49 / Zhōngguó Tèzhǒng Fēixíngqì Yánjiū Suo | Qīng 6 Xíng Fēijī
 quing_6_1;Qīng 6
 quing_6_2;Qīng 6
 
-//AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+//USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 
-//AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+//USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
-//AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+//USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 mig-21_bis_shop;МиГ-21бис
 mig-21_bis_0;Московский машиностроительный завод им. А. И. Микояна | изд. 75 | Самолет МиГ-21бис
 mig-21_bis_1;МиГ-21бис
@@ -83,7 +83,7 @@ mig_25pd_0;Московский машиностроительный завод 
 mig_25pd_1;МиГ-25ПД
 mig_25pd_2;МиГ-25
 
-//AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+//USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 mig_29n_shop;▄ MiG-29N
 mig_29n_0;▄ Авиационный научно-промышленный комплекс «МиГ» | MiG-29N Fulcrum
 mig_29n_1;▄ MiG-29N
@@ -129,9 +129,9 @@ mig_29_9_12_sniper_0;╏ Микоя́н и Гуре́вич / Aerostar + Elbit S
 mig_29_9_12_sniper_1;╏ MiG-29 Sniper
 mig_29_9_12_sniper_2;╏ MiG-29
 
-//HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+//USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
-//HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+//USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 mi_35p_shop;Ми-35П
 mi_35p_0;АО «Московский вертолётный завод им. М. Л. Миля» / Холдинг «Вертолёты России» + Ростовский вертолётный производственный комплекс акционерное общество «Роствертол» им. Б. Н. Слюсаря Ми-35П Транспортно-боевой Вертолет «Феникс»
 mi_35p_1;Ми-35П
@@ -141,19 +141,19 @@ mi_35p_indonesia_0;◥ АО «Московский вертолётный зав
 mi_35p_indonesia_1;◥ Mi-35P
 mi_35p_indonesia_2;◥ Mi-35P
 
-//HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+//USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 
-//HELICOPTERS - VEHICLE/FAMILY START: RANK 8
+//USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 8
 mi_8amtsh_vn_shop;Ми-8АМТШ-ВН
 mi_8amtsh_vn_0;АО «Московский вертолётный завод им. М. Л. Миля» | Вертолет Ми-8АМТШ-ВН «Сапсан»
 mi_8amtsh_vn_1;Ми-8АМТШ
 mi_8amtsh_vn_2;Ми-8
 
-//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+//USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 
-//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+//USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 
-//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+//USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 ussr_t_34_85_zis_53_kit_3rank_shop;"Т-34-85 (Sep, 1944) ""In May 1945"""
 ussr_t_34_85_zis_53_kit_3rank_0;"Уральский танковый завод №183 | Объект 35 | Танк Т-34-85 обр. 1944 г. (September, 1944) ""In May 1945"""
 ussr_t_34_85_zis_53_kit_3rank_1;Т-34-85
@@ -175,7 +175,7 @@ ussr_is_1_kit_3rank_0;"Кировский завод | Объект 237 | Тан
 ussr_is_1_kit_3rank_1;ИС-1
 ussr_is_1_kit_3rank_2;Heavy Tank
 
-//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+//USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 ussr_t_44_po_shop;Т-44 (№ 1)
 ussr_t_44_po_0;Уральский танковый завод №183 имени Коминтерна | Объект 136 | Танк Т-44 (№ 1)
 ussr_t_44_po_1;Т-44
@@ -185,7 +185,7 @@ cn_pt_76_0;Всероссийский научно-исследовательс�
 cn_pt_76_1;ПТ-76
 cn_pt_76_2;Amphibious Tank
 
-//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+//USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 ussr_2s19_m1_shop;2С19М1
 ussr_2s19_m1_0;Уральский завод транспортного машиностроения им. Я.М. Свердлова | Объект 316 | 2С19М1 «Мста-С»
 ussr_2s19_m1_1;2С19М1
@@ -203,7 +203,7 @@ il_tiran_4_sh_0;Уральский вагоностроительный заво
 il_tiran_4_sh_1;Ṭiran 4 Š
 il_tiran_4_sh_2;MBT
 
-//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+//USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 ussr_t_55a_shop;Т-55А
 ussr_t_55a_0;Харьковское конструкторское бюро по машиностроению имени А. А. Морозова | Объект 155А | Танк Т-55А
 ussr_t_55a_1;Т-55А
@@ -245,7 +245,7 @@ il_tiran_6_0;Уральским вагоностроительным завод�
 il_tiran_6_1;Ṭiran 6
 il_tiran_6_2;MBT
 
-//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+//USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 ussr_t_80ue1_shop;Т-80У-Е1
 ussr_t_80ue1_0;Кировский завод / Омский завод транспортного машиностроения | Объект 219АС-1 | Танк Т-80У-Е1
 ussr_t_80ue1_1;Т-80У-Е1
@@ -279,7 +279,7 @@ cn_tor_m1_0;␗ Научно-производственное объединен
 cn_tor_m1_1;␗ 9А331-1
 cn_tor_m1_2;SPAAM
 
-//GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+//USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 ussr_t_72b3_arena_m_shop;Т-72Б3А
 ussr_t_72b3_arena_m_0;Уральский вагоностроительный завод им. Ф. Э. Дзержинского | Объект 184-5 | Танк Т-72Б3А обр. 2024 г.
 ussr_t_72b3_arena_m_1;Т-72Б3А
@@ -293,23 +293,23 @@ ussr_buk_m3_fcs_0;Научно-исследовательский институ
 ussr_buk_m3_fcs_1;9С18М3
 ussr_buk_m3_fcs_2;Radar
 
-//COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+//USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 ussr_pr_103_sm4_shop;ТКА № 164
 ussr_pr_103_sm4_0;Судостроительный завод № 194 им. Марти | Торпедный катер проекта 103 тип СМ-4 | ТКА № 164
 ussr_pr_103_sm4_1;ТКА № 164
 ussr_pr_103_sm4_2;Motor Torpedo Boat
 
-//COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+//USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 ussr_pr253l_shop;Т-380
 ussr_pr253l_0;Судостроительный завод № 189 им. С. Орджоникидзе | Рейдовые тральщики проект 253Л | Т-380
 ussr_pr253l_1;Т-380
 ussr_pr253l_2;Raid Minesweeper
 
-//COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+//USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 
-//COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+//USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 
-//COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+//USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 ussr_mpk_pr_1124_shop;МПК-33
 ussr_mpk_pr_1124_0;Зеленодольский судостроительный завод № 340 им. А. М. Горького | Малый противолодочный корабль проект 1124 «Альбатрос» | МПК-33
 ussr_mpk_pr_1124_1;МПК-33
@@ -319,21 +319,21 @@ ussr_pr_205pe_k225_0;Ленинградский Приморский завод 
 ussr_pr_205pe_k225_1;АК-225
 ussr_pr_205pe_k225_2;Artillery Boat
 
-//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+//USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 
-//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+//USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 
-//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+//USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 ussr_destroyer_pr48k_erevan_shop;Ереван
 ussr_destroyer_pr48k_erevan_0;Судостроительный завод № 198 им. А. Марти | Лидер проект 48, тип Киев | Ереван
 ussr_destroyer_pr48k_erevan_1;Ереван
 ussr_destroyer_pr48k_erevan_2;Destroyer
 
-//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+//USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 
-//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+//USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 
-//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+//USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 ussr_battlecruiser_kronshtadt_shop;Кронштадт
 ussr_battlecruiser_kronshtadt_0;Завод № 194 им. Марти | Тяжёлый крейсер проект 69, тип Кронштадт | Кронштадт
 ussr_battlecruiser_kronshtadt_1;Кронштадт
@@ -347,8 +347,40 @@ ussr_battlecruiser_stalingrad_0;Николаевские объединённы�
 ussr_battlecruiser_stalingrad_1;Сталинград
 ussr_battlecruiser_stalingrad_2;Battlecruiser
 
-//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+//USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 ussr_battleship_pr23_sovetskij_soyuz_shop;Советский Союз
 ussr_battleship_pr23_sovetskij_soyuz_0;Судостроительный завод № 189 им. С. Орджоникидзе | Линейный корабль проект 23, тип Советский Союз | Советский Союз
 ussr_battleship_pr23_sovetskij_soyuz_1;Советский Союз
 ussr_battleship_pr23_sovetskij_soyuz_2;Battleship
+
+//CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+i-15bis_china_shop;☀ E-15 Bisī
+i-15bis_china_0;☀ Московский авиационный завод № 39 им. В. Р. Менжинского | E-15 Bisī Xíng Qūzhú Jī
+i-15bis_china_1;☀ E-15 Bisī
+i-15bis_china_2;☀ E-15
+i-16_type5_1935_china_shop;☀ E-16-5
+i-16_type5_1935_china_0;☀ Московский авиационный завод № 39 им. В. Р. Менжинского | E-16-5 Xíng Qūzhú Jī
+i-16_type5_1935_china_1;☀ E-16-5
+i-16_type5_1935_china_2;☀ E-16
+i-16_type10_china_shop;☀ E-16-10
+i-16_type10_china_0;☀ Московский авиационный завод № 39 им. В. Р. Менжинского | E-16-10 Xíng Qūzhú Jī
+i-16_type10_china_1;☀ E-16-10
+i-16_type10_china_2;☀ E-16
+i-16_type17_china_shop;☀ E-16-17
+i-16_type17_china_0;☀ Московский авиационный завод № 39 им. В. Р. Менжинского | E-16-17 Xíng Qūzhú Jī
+i-16_type17_china_1;☀ E-16-17
+i-16_type17_china_2;☀ E-16
+i-16_chung_28_shop;Zhōng 28 Jia
+i-16_chung_28_0;Московский авиационный завод № 39 им. В. Р. Менжинского / Zhōngyāng Fēijī Zhìzào Chang | Zhōng 28 Jia Xíng Qūzhú Jī
+i-16_chung_28_1;Zhōng 28 Jia
+i-16_chung_28_2;Zhōng 28
+i-153_m62_china_shop;☀ E-153
+i-153_m62_china_0;☀ Московский авиационный завод № 39 им. В. Р. Менжинского | E-153 Qūzhú Jī
+i-153_m62_china_1;☀ E-153
+i-153_m62_china_2;☀ E-153
+
+//CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+sb_2m_103u_china_shop;☀ СБ
+sb_2m_103u_china_0;☀ Авиационный завод № 22 им. С. П. Горбунова | СБ Shì Qīng Hōngzhà Jī
+sb_2m_103u_china_1;☀ СБ
+sb_2m_103u_china_2;☀ СБ

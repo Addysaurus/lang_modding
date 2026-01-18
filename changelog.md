@@ -39,6 +39,36 @@ All dates are listed in DD-MM-YYYY format.
     - **81 Shiki (C) Sha Tō Sō**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyori Chi Taikū Yūdōdan C Gata Shageki Tōsei Sōchi "Shōto Arō"** (Reported).
     - **03 Shiki Sha Rēda Sō Sorabu** → **03 Shiki Sha Rēda Sō Kūsen-bu**. Statcard name → **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyori Chi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsen-bu** (Reported).
     - **03 Shiki Has Sō**: Statcard name → **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyori Chi Taikū Yūdōdan Hassha Sōchi** (Reported).
+    - **E-15 Bisī**: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-15 Bisī Qūzhú Jī "Qīshénkè"** ([Report](https://github.com/Addysaurus/lang_modding/issues/100)).
+        - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-15比斯驅逐機「柒什克」**.
+        - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского | E-15比斯驅逐機「柒什克」**.
+    - **E-16-5**: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-5 Xíng Qūzhú Jī** ([Report](https://github.com/Addysaurus/lang_modding/issues/100)).
+        - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-5型驅逐機**.
+        - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского | E-16-5型驅逐機**.
+    - **E-16-10**: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-10 Xíng Qūzhú Jī** ([Report](https://github.com/Addysaurus/lang_modding/issues/100)).
+        - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-10型驅逐機**.
+        - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского | E-16-10型驅逐機**.
+    - **E-16-17**: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-17 Xíng Qūzhú Jī** ([Report](https://github.com/Addysaurus/lang_modding/issues/100)).
+        - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-16-17型驅逐機**.
+        - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского | E-16-17型驅逐機**.
+    - **Zhōng 28 Jia**: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo / Zhōngyāng Fēijī Zhìzào Chang | Zhōng 28 Jia Xíng Qūzhú Jī** ([Report](https://github.com/Addysaurus/lang_modding/issues/100)).
+        - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo / 中央飛機製造廠 | 忠28甲型驅逐機**.
+        - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского / 中央飛機製造廠 | 忠28甲型驅逐機**.
+    - **E-153**: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-153 Qūzhú Jī "Qīshénkè"** ([Report](https://github.com/Addysaurus/lang_modding/issues/100)).
+        - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-153驅逐機「柒什克」**.
+        - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского | E-153驅逐機「柒什克」**.
+    - **C.B. (M-103U)** → **SB**. Statcard name → **Aviaczionnyj zavod № 22 im. S. P. Gorbunova | SB Shì Qīng Hōngzhà Jī**. The documents are contradictory, I gotta choose something. There's probably more documents that call it a third different thing, but I only have 2 documents to go off of.
+        - Mandarin package: **C.B. (M-103U)** → **SB**. Statcard name → **Aviaczionnyj zavod № 22 im. S. P. Gorbunova | SB式輕轟炸機**.
+        - Mandarin + Russian package: **C.B. (М-103У)** → **СБ**. Statcard name → **Авиационный завод № 22 им. С. П. Горбунова | СБ式輕轟炸機**.
+    - **P-43** (China / Taiwan): Statcard name → **Republic Aviation Corporation AP-4A | P-43 Shì Qūzhú Jī**.
+        - Mandarin package: Statcard name → **Republic Aviation Corporation AP-4A | P-43式驅逐機**.
+    - **A-29-LO**: Statcard name → **Lockheed Corporation Model 414 | A-29-LO Shì Hōngzhà Jī**.
+        - Mandarin package: Statcard name → **Lockheed Corporation Model 414 | A-29-LO式轟炸機**.
+    - **D.B.3** (China / Taiwan): Statcard name → **Zavod № 18 | D.B.3 Shì Hōngzhà Jī**.
+        - Mandarin package: Statcard name → **Zavod № 18 | D.B.3式轟炸機**.
+        - Mandarin + Russian package: Statcard name → **Завод № 18 | D.B.3式轟炸機**.
+    - **Madīng 139**: Statcard name → **Glenn L. Martin Company Model 139WC | Madīng 139 Shì Hōngzhà Jī**.
+        - Mandarin package: Statcard name → **Glenn L. Martin Company Model 139WC | 馬丁139式轟炸機**.
 
 ### Weaponry:
 

@@ -1432,7 +1432,7 @@ shop/group/uk_stormer_group;Stormer / F.V.4333 (HVM)
 shop/group/uk_9a33_35_group;☸ 9A33BM2 / 35M
 shop/group/uk_stormer_9a33_group;Stormer / ☸ 9A33BM2
 shop/group/uk_stormer_9a35_group;F.V.4333 (HVM) / ☸ 9A35M
-shop/group/uk_sky_sabre_fcs_group;Sky Sabre (Giraffe AMB) / (iLauncher)
+shop/group/uk_sky_sabre_fcs_group;Sky Sabre
 shop/group/fury_group;Fury Mk. I / II
 shop/group/gladiator_mk2_group;Gladiator Mk. II / II (Silver) / II (BEF)
 shop/group/hampden_group;Hampden Mk. I / T.B. Mk. I
@@ -5350,9 +5350,13 @@ ussr_tor_m1_2;SPAAM
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 ussr_t_72b3_arena_m_shop;T-72B3A
-ussr_t_72b3_arena_m_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo | Ob""yekt 184-5 | Tank T-72B3A obr. 2024 g."
+ussr_t_72b3_arena_m_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / OAO «Naučno-proizvodstvyennaâ korporacziâ ""Konstruktorskoye bûro mašinostroyeniâ""» | Ob""yekt 184-5 | Tank T-72B3A obr. 2024 g."
 ussr_t_72b3_arena_m_1;T-72B3
 ussr_t_72b3_arena_m_2;MBT
+ussr_t_72b3_arena_shop;T-72B3 (Aryena-È)
+ussr_t_72b3_arena_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / OAO «Naučno-proizvodstvyennaâ korporacziâ ""Konstruktorskoye bûro mašinostroyeniâ""» | Ob""yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»)"
+ussr_t_72b3_arena_1;T-72B3
+ussr_t_72b3_arena_2;MBT
 ussr_buk_m3_launcher_shop;9A317M
 ussr_buk_m3_launcher_0;"Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Radiolokaczionnaâ stancziâ obnaružyeniâ czyeli 9A317M ""Buk-M3"""
 ussr_buk_m3_launcher_1;9A317M
@@ -5443,16 +5447,24 @@ boomerang_mkii_1;Boomerang Mk. II
 boomerang_mkii_2;Boomerang
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+mosquito_fb_mk6_shop;Mosquito F.B. Mk. VI
+mosquito_fb_mk6_0;de Havilland Aircraft Company D.H. 98 | Mosquito F.B. Mk. VI
+mosquito_fb_mk6_1;Mosquito F.B. Mk. VI
+mosquito_fb_mk6_2;Mosquito
+mosquito_fb_mk18_shop;Mosquito F.B. Mk. XVIII
+mosquito_fb_mk18_0;de Havilland Aircraft Company D.H. 98 | Mosquito F.B. Mk. XVIII
+mosquito_fb_mk18_1;Mosquito F.B. Mk. XVIII
+mosquito_fb_mk18_2;Mosquito
 mosquito_nf_mk2_shop;Mosquito N.F. Mk. II
-mosquito_nf_mk2_0;de Havilland Aircraft Company DH.98 | Mosquito N.F. Mk. II
+mosquito_nf_mk2_0;de Havilland Aircraft Company D.H. 98 | Mosquito N.F. Mk. II
 mosquito_nf_mk2_1;Mosquito N.F. Mk. II
 mosquito_nf_mk2_2;Mosquito
 mosquito_tr_mk33_shop;Mosquito T.R. Mk. 33
-mosquito_tr_mk33_0;de Havilland Aircraft Company DH.98 | Mosquito T.R. Mk. 33
+mosquito_tr_mk33_0;de Havilland Aircraft Company D.H. 98 | Mosquito T.R. Mk. 33
 mosquito_tr_mk33_1;Mosquito T.R. Mk. 33
 mosquito_tr_mk33_2;Mosquito
 mosquito_b_mk16_shop;Mosquito B. Mk. XVI
-mosquito_b_mk16_0;de Havilland Aircraft Company DH.98 | Mosquito B. Mk. XVI
+mosquito_b_mk16_0;de Havilland Aircraft Company D.H. 98 | Mosquito B. Mk. XVI
 mosquito_b_mk16_1;Mosquito B. Mk. XVI
 mosquito_b_mk16_2;Mosquito
 
@@ -5623,13 +5635,13 @@ uk_boxer_crv_block2_1;▄ Boxer CRV
 uk_boxer_crv_block2_2;CRV
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
-uk_sky_sabre_launcher_shop;Sky Sabre (iLauncher)
-uk_sky_sabre_launcher_0;Rafael International + MBDA UK Land Ceptor | Sky Sabre (Intelligent Launcher)
-uk_sky_sabre_launcher_1;Sky Sabre (iLauncher)
+uk_sky_sabre_launcher_shop;SV 15T (Land Ceptor)
+uk_sky_sabre_launcher_0;Rafael International + MBDA UK | Support Vehicle 15-Tonne (Land Ceptor)
+uk_sky_sabre_launcher_1;SV 15T (Land Ceptor)
 uk_sky_sabre_launcher_2;SPAAM
-uk_sky_sabre_fcs_shop;Sky Sabre (Giraffe AMB)
-uk_sky_sabre_fcs_0;Rafael International + MBDA UK Land Ceptor | Sky Sabre (Giraffe Agile Multi Beam)
-uk_sky_sabre_fcs_1;Sky Sabre (Giraffe AMB)
+uk_sky_sabre_fcs_shop;SV 15T (Giraffe AMB)
+uk_sky_sabre_fcs_0;Rafael International + MBDA UK | Support Vehicle 15-Tonne (Giraffe Agile Multi Beam)
+uk_sky_sabre_fcs_1;SV 15T (Giraffe AMB)
 uk_sky_sabre_fcs_2;Radar
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
@@ -7267,7 +7279,7 @@ ki_61_1a_otsu_china_0;"Kawasaki Kōkūki Kōgyō | 3 Shì Zhàndòujī 1 Xíng Y
 ki_61_1a_otsu_china_1;☀ 3 Shì Zhàn 1 Xíng
 ki_61_1a_otsu_china_2;☀ 3 Shì Zhàn
 mosquito_fb_mk26_china_shop;FB-26
-mosquito_fb_mk26_china_0;de Havilland Aircraft Company DH.98 | FB-26 Hōngzhà Jī
+mosquito_fb_mk26_china_0;de Havilland Aircraft Company D.H. 98 | FB-26 Hōngzhà Jī
 mosquito_fb_mk26_china_1;FB-26
 mosquito_fb_mk26_china_2;FB-26
 p-38l_1_china_rocaf_shop;☀ P-38L-1-LO
@@ -8308,6 +8320,14 @@ fr_m55_1;▄ M55
 fr_m55_2;SPH
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+fr_amx_elc_bis_shop;E.L.C. bis
+fr_amx_elc_bis_0;Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat bis avec tourelle-casemate de 90
+fr_amx_elc_bis_1;E.L.C. bis
+fr_amx_elc_bis_2;Light Tank
+fr_amx_elc_901_shop;E.L.C. TC.901
+fr_amx_elc_901_0;Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat avec tourelle-casemate de 901
+fr_amx_elc_901_1;E.L.C. TC.901
+fr_amx_elc_901_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 fr_marder_df_105_shop;☨ DF 105
@@ -8357,7 +8377,7 @@ fr_samp_t_fcs_0;"☨ Eurosam | Sol-Air Moyenne Portée/Terrestre ""Mamba"" (Modu
 fr_samp_t_fcs_1;☨ SAMP/T (MRI)
 fr_samp_t_fcs_2;Radar
 fr_jaguar_ebrc_shop;EBRC Jaguar
-fr_jaguar_ebrc_0;Groupement Momentané d'Entreprises Engin Blindé Multi Rôles | Engin Blindé de Reconnaissance et de Combat Jaguar
+fr_jaguar_ebrc_0;Groupement Momentané d'Entreprises Engin Blindé Multi Rôles | Engin blindé de reconnaissance et de combat Jaguar
 fr_jaguar_ebrc_1;EBRC Jaguar
 fr_jaguar_ebrc_2;CRV
 
@@ -8483,17 +8503,21 @@ fr_battleship_richelieu_class_clemenceau_2;Battleship
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 mosquito_f_mk2_norway_shop;◢ Mosquito F. Mk. II
-mosquito_f_mk2_norway_0;◢ de Havilland Aircraft Company DH.98 | Mosquito F. Mk. II
+mosquito_f_mk2_norway_0;◢ de Havilland Aircraft Company D.H. 98 | Mosquito F. Mk. II
 mosquito_f_mk2_norway_1;◢ Mosquito F. Mk. II
 mosquito_f_mk2_norway_2;◢ Mosquito
 mosquito_fb_mk6_norway_shop;◢ Mosquito F.B. Mk. VI
-mosquito_fb_mk6_norway_0;◢ de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI
+mosquito_fb_mk6_norway_0;◢ de Havilland Aircraft Company D.H. 98 | Mosquito F.B. Mk. VI
 mosquito_fb_mk6_norway_1;◢ Mosquito F.B. Mk. VI
 mosquito_fb_mk6_norway_2;◢ Mosquito
 mosquito_fb_mk6_ash_norway_shop;◢ Mosquito F.B. Mk. VI (A.S.V. Mk. IX)
-mosquito_fb_mk6_ash_norway_0;◢ de Havilland Aircraft Company DH.98 | Mosquito F.B. Mk. VI (A.S.V. Mk. IX)
+mosquito_fb_mk6_ash_norway_0;◢ de Havilland Aircraft Company D.H. 98 | Mosquito F.B. Mk. VI (A.S.V. Mk. IX)
 mosquito_fb_mk6_ash_norway_1;◢ Mosquito F.B. Mk. VI
 mosquito_fb_mk6_ash_norway_2;◢ Mosquito
+mosquito_j30_sweden_shop;J 30
+mosquito_j30_sweden_0;de Havilland Aircraft Company D.H. 98 | J 30
+mosquito_j30_sweden_1;J 30
+mosquito_j30_sweden_2;J 30
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
@@ -10110,10 +10134,6 @@ fr_m4a4_cn_75_50_shop;M4A4T (SA 50)
 fr_m4a4_cn_75_50_0;M4A4T (SA 50)
 fr_m4a4_cn_75_50_1;M4A4T (SA 50)
 fr_m4a4_cn_75_50_2;Medium tank
-fr_amx_elc_bis_shop;ELC bis
-fr_amx_elc_bis_0;Engin Léger de Combat bis avec tourelle-casemate de 90
-fr_amx_elc_bis_1;ELC bis
-fr_amx_elc_bis_2;SPG
 fr_amx_13_chaffee_shop;AMX 13 (M6)
 fr_amx_13_chaffee_0;AMX 13 (Gun, 75mm, M6)
 fr_amx_13_chaffee_1;AMX 13 (M6)
@@ -10494,10 +10514,6 @@ lancaster_mk3_shop;Lancaster Mk. III
 lancaster_mk3_0;Lancaster Mk. III
 lancaster_mk3_1;Lancaster Mk. III
 lancaster_mk3_2;Lancaster
-mosquito_fb_mk6_shop;Mosquito F.B. Mk. VI
-mosquito_fb_mk6_0;Mosquito F.B. Mk. VI
-mosquito_fb_mk6_1;Mosquito F.B. Mk. VI
-mosquito_fb_mk6_2;Mosquito
 hornet_mk1_shop;Hornet Mk. I
 hornet_mk1_0;Hornet Mk. I
 hornet_mk1_1;Hornet Mk. I
@@ -11367,10 +11383,6 @@ la_174_shop;La-174
 la_174_0;La-174
 la_174_1;La-174
 la_174_2;La-174
-mosquito_fb_mk18_shop;Mosquito F.B. Mk. XVIII
-mosquito_fb_mk18_0;Mosquito F.B. Mk. XVIII
-mosquito_fb_mk18_1;Mosquito F.B. Mk. XVIII
-mosquito_fb_mk18_2;Mosquito
 spitfire_mk14e_shop;Spitfire F. Mk. XIVe
 spitfire_mk14e_0;Spitfire F. Mk. XIVe
 spitfire_mk14e_1;Spitfire F. Mk. XIVe

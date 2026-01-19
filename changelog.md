@@ -24,10 +24,17 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
+    - **ELC 901**
+    - **Mosquito J30**
     - **Ar-2** (in all of the time this mod has existed which, if you count the personal project part, is over 2 years, I somehow have forgotten to include this plane that has been in the game forever)
 
 - #### Changes:
 
+    - **Mosquito J30** → **J 30**. Statcard name → **de Havilland Aircraft Company D.H. 98 | J 30**.
+    - **ELC 901** → **E.L.C. TC.901**. Statcard name → **Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat avec tourelle-casemate de 901**.
+    - **ELC bis** → **E.L.C. bis**. Statcard name → **Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat bis avec tourelle-casemate de 90**.
+    - **T-72B3 "Arena"** → **T-72B3 (Aryena-È)**. Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / OAO «Naučno-proizvodstvyennaâ korporacziâ "Konstruktorskoye bûro mašinostroyeniâ"» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»)**.
+    - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / OAO «Naučno-proizvodstvyennaâ korporacziâ "Konstruktorskoye bûro mašinostroyeniâ"» | Ob"yekt 184-5 | Tank T-72B3A obr. 2024 g.**.
     - **FR-1**: Statcard name → **Ryan Aeronautical Company Model 28-1 | FR-1 Fireball**. I also made it actually display correctly.
     - **Huòkè 75H**:
         - Mandarin package: Statcard name → **Curtiss-Wright Corporation Hawk Model 75H | 霍克75H驅逐機** (the manufacturer designation was still accidentally 75M).
@@ -35,10 +42,10 @@ All dates are listed in DD-MM-YYYY format.
     - **RakJPz 4 Jaguar 2**: Statcard name → **Thyssen Henschel | Raketenjagdpanzer 4 Jaguar 2** (Reported).
     - **Ayanami**:
         - Japanese package: Statcard name → **藤永田造船所 | 特型驅逐艦 | 綾波型驅逐艦 (F-43) | 綾波 (1936)** (it was somehow missing its plan number).
-    - **81 Shiki (C) Kadaibu**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyori Chi Taikū Yūdōdan C Gata Kadaibu "Shōto Arō"** (Reported).
-    - **81 Shiki (C) Sha Tō Sō**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyori Chi Taikū Yūdōdan C Gata Shageki Tōsei Sōchi "Shōto Arō"** (Reported).
-    - **03 Shiki Sha Rēda Sō Sorabu** → **03 Shiki Sha Rēda Sō Kūsen-bu**. Statcard name → **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyori Chi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsen-bu** (Reported).
-    - **03 Shiki Has Sō**: Statcard name → **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyori Chi Taikū Yūdōdan Hassha Sōchi** (Reported).
+    - **81 Shiki (C) Kadaibu**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyori Chi Taikū Yūdōdan C Gata Kadaibu "Shōto Arō"** ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **81 Shiki (C) Sha Tō Sō**: Statcard name → **Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyori Chi Taikū Yūdōdan C Gata Shageki Tōsei Sōchi "Shōto Arō"** ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **03 Shiki Sha Rēda Sō Sorabu** → **03 Shiki Sha Rēda Sō Kūsen-bu**. Statcard name → **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyori Chi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsen-bu** ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **03 Shiki Has Sō**: Statcard name → **Mitsubishi Jū Kōgyō | 03 Shiki Chūkyori Chi Taikū Yūdōdan Hassha Sōchi** ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
     - **E-15 Bisī**: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-15 Bisī Qūzhú Jī "Qīshénkè"** ([Report](https://github.com/Addysaurus/lang_modding/issues/100)).
         - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-15比斯驅逐機「柒什克」**.
         - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского | E-15比斯驅逐機「柒什克」**.
@@ -69,16 +76,41 @@ All dates are listed in DD-MM-YYYY format.
         - Mandarin + Russian package: Statcard name → **Завод № 18 | D.B.3式轟炸機**.
     - **Madīng 139**: Statcard name → **Glenn L. Martin Company Model 139WC | Madīng 139 Shì Hōngzhà Jī**.
         - Mandarin package: Statcard name → **Glenn L. Martin Company Model 139WC | 馬丁139式轟炸機**.
+    - **FB-26** (China / Taiwan): Statcard name → **de Havilland Aircraft Company D.H. 98 | FB-26 Hōngzhà Jī**.
+        - Mandarin package: Statcard name → **de Havilland Aircraft Company D.H. 98 | FB-26轟炸機**.
+    - **Mosquito F.B. Mk. VI**: Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito F.B. Mk. VI**.
+    - **Mosquito F.B. Mk. XVIII**: Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito F.B. Mk. XVIII**.
+    - **Mosquito N.F. Mk. II**: Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito N.F. Mk. II**.
+    - **Mosquito T.R. Mk. 33**: Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito T.R. Mk. 33**.
+    - **Mosquito B. Mk. XVI**: Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito B. Mk. XVI**.
+    - **Mosquito F. Mk. II** (Sweden / Norway): Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito F. Mk. II**.
+    - **Mosquito F.B. Mk. VI** (Sweden / Norway): Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito F.B. Mk. VI**.
+    - **Mosquito F.B. Mk. VI (A.S.V. Mk. IX)** (Sweden / Norway): Statcard name → **de Havilland Aircraft Company D.H. 98 | Mosquito F.B. Mk. VI (A.S.V. Mk. IX)**.
+    - **Sky Sabre (iLauncher)** → **SV 15T (Land Ceptor)**. Statcard name → **Rafael International + MBDA UK | Support Vehicle 15-Tonne (Land Ceptor)**.
+    - **Sky Sabre (Giraffe AMB)** → **SV 15T (Giraffe AMB)**. Statcard name → **Support Vehicle 15-Tonne (Giraffe Agile Multi Beam)**.
+    - **Sky Sabre (iLauncher) / (Giraffe AMB)** (folder) → **Sky Sabre**.
+    - **EBRC Jaguar**: Statcard name → **Groupement Momentané d'Entreprises Engin Blindé Multi Rôles | Engin blindé de reconnaissance et de combat Jaguar**.
 
 ### Weaponry:
 
+- #### Additions:
+
+    - **Akan m/46A**
+
 - #### Changes:
 
+    - **Akan m/46A** → **20 mm akan m/46A**. Statcard name → **20 mm automatkanon m/46A**.
     - **QJK99-12.7-1** → **QJK99**. Statcard name → **QJK1999 Shì 12.7 Háomi Hángkōng Jīqiāng**.
         - Mandarin package: **QJK99-12.7-1** → **QJK99**. Statcard name → **QJK1999式12.7毫米航空机枪**.
     - **BA-11A** ([Report](https://github.com/Addysaurus/lang_modding/issues/85)):
         - Full Mandarin package: **蓝新-11A** → **蓝箭-11A**. Statcard name → **蓝箭-11A型空地导弹**.
     - Corrected the type tag of the **BK 27** and **ADEN 25** from RCNN to ACNN (Reported).
+    - **Common Anti-Air Modular Missile** → **CAMM**. The Full Ammunition Names package name was accidentally the base name too. It is still the original in the Full Ammunition Names package.
+    - **Common Anti-Air Modular Missile Extended Range** → **CAMM-ER**. The Full Ammunition Names package name was accidentally the base name too. It is still the original in the Full Ammunition Names package.
+    - **AAM-3**: Statcard name → **90 Shiki Kū Taikū Yūdōdan | AAM-3** (transliteration change) ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **AAM-4**: Statcard name → **99 Shiki Kū Taikū Yūdōdan | AAM-4** (transliteration change) ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **ASM-1**: Statcard name → **80 Shiki Kū Taikan Yūdōdan | ASM-1** (transliteration change) ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **ASM-2**: Statcard name → **93 Shiki Kū Taikan Yūdōdan | ASM-2** (transliteration change) ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
 
 ### Modifications:
 
@@ -90,10 +122,14 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
+    - **Arena-E**
     - **APK-9** (forgot to add this in Line of Contact)
 
 - #### Changes:
 
+    - **Arena-E** → **Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»**.
+    - **Komplyeks aktivnoj zaŝity Aryena-M** → **Komplyeks aktivnoj zaŝity T09-A6-1 «Aryena-M»**.
+    - **Komplyeks aktivnoj zaŝity 1030M-01 | Drozd** → **Komplyeks aktivnoj zaŝity 1030M-01 «Drozd»**.
     - **APK-9**: Long name → **Agryegat počvoobrabatyvaûŝij kombinirovannyj APK-9**.
     - **KLJ-10 Jīzai Màichōng Duō Pu Lè Huo Kòng Léidá** → **KLJ-10A Jīzai Màichōng Duō Pu Lè Huo Kòng Léidá**.
         - Mandarin package: **KLJ-10机载脉冲多普勒火控雷达** → **KLJ-10A机载脉冲多普勒火控雷达**.

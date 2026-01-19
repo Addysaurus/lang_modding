@@ -223,6 +223,8 @@ weapons/380mm_45_mle_1935_mod_naval_user_cannon;<color=@userlogColoredText>380 m
 weapons/380mm_45_mle_1935_mod_naval_user_cannon/short;Canon de 380 mm/45 mle. 1935
 
 //SWEDEN GUNS
+weapons/cannonAkan_m46a;<color=@userlogColoredText>20 mm</color> 20 mm automatkanon m/46A <color=#ff6f00>ACNN</color>
+weapons/cannonAkan_m46a/short;20 mm akan m/46A
 
 //ISRAEL GUNS
 weapons/60mm_hvms_user_cannon;<color=@userlogColoredText>60 mm</color> 60 mm Hyper-Velocity Medium Support Weapon System <color=#ff6f00>CNN</color>
@@ -808,25 +810,25 @@ weapons/130mm_9M120_BMPT_launcher_user_cannon;"Komplyeksa upravlâyemogo vooruž
 //UK MISSILES
 weapons/166mm_camm_user_cannon;Intelligent Launcher <color=#ff6f00>LCH</color>
 weapons/166mm_camm_user_cannon/short;iLauncher
-166mm_camm;Common Anti-Air Modular Missile
-166mm_camm_er;Common Anti-Air Modular Missile Extended Range
+166mm_camm;CAMM
+166mm_camm_er;CAMM-ER
 weapons/uk_sea_eagle;Sea Eagle <color=#ff6f00>AShM-ARH</color>
 weapons/uk_sea_eagle/short;Sea Eagle
 weapons/uk_sea_eagle_wo_radar_designation;Sea Eagle <color=#ff6f00>AShM-ARH</color>
 weapons/uk_sea_eagle_wo_radar_designation/short;Sea Eagle
 
 //JAPAN MISSILES
-weapons/jp_aam3;90 Shiki Sora Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
+weapons/jp_aam3;90 Shiki Kū Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
 weapons/jp_aam3/short;AAM-3
-weapons/jp_aam3_default;90 Shiki Sora Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
+weapons/jp_aam3_default;90 Shiki Kū Taikū Yūdōdan | AAM-3 <color=#ff6f00>AAM-IR</color>
 weapons/jp_aam3_default/short;AAM-3
-weapons/jp_aam4;99 Shiki Sora Taikū Yūdōdan | AAM-4 <color=#ff6f00>AAM-ARH</color>
+weapons/jp_aam4;99 Shiki Kū Taikū Yūdōdan | AAM-4 <color=#ff6f00>AAM-ARH</color>
 weapons/jp_aam4/short;AAM-4
-weapons/jp_aam4_default;99 Shiki Sora Taikū Yūdōdan | AAM-4 <color=#ff6f00>AAM-ARH</color>
+weapons/jp_aam4_default;99 Shiki Kū Taikū Yūdōdan | AAM-4 <color=#ff6f00>AAM-ARH</color>
 weapons/jp_aam4_default/short;AAM-4
-weapons/jp_asm1;80 Shiki Sora Taikan Yūdōdan | ASM-1 <color=#ff6f00>AShM-ARH</color>
+weapons/jp_asm1;80 Shiki Kū Taikan Yūdōdan | ASM-1 <color=#ff6f00>AShM-ARH</color>
 weapons/jp_asm1/short;ASM-1
-weapons/jp_asm2;93 Shiki Sora Taikan Yūdōdan | ASM-2 <color=#ff6f00>AShM-IR</color>
+weapons/jp_asm2;93 Shiki Kū Taikan Yūdōdan | ASM-2 <color=#ff6f00>AShM-IR</color>
 weapons/jp_asm2/short;ASM-2
 160mm_sam_arh_1c;SAM-1C (ARH)
 weapons/80mm_Type_91_launcher_user_cannon;"93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi ""Kurōzudo Arō"" <color=#ff6f00>LCH</color>"

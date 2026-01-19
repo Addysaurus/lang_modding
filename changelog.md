@@ -65,6 +65,8 @@ All dates are listed in DD-MM-YYYY format.
         - Mandarin package: Statcard name → **Moskovskij aviaczionnyj zavod № 39 im. V. R. Myenžinskogo | E-153驅逐機「柒什克」**.
         - Mandarin + Russian package: Statcard name → **Московский авиационный завод № 39 им. В. Р. Менжинского | E-153驅逐機「柒什克」**.
     - **C.B. (M-103U)** → **SB**. Statcard name → **Aviaczionnyj zavod № 22 im. S. P. Gorbunova | SB Shì Qīng Hōngzhà Jī**. The documents are contradictory, I gotta choose something. There's probably more documents that call it a third different thing, but I only have 2 documents to go off of.
+    - **D.B.3 / C.B. (M-103U)** (folder) → **D.B.3 / SB**.
+        - Mandarin + Russian package: **D.B.3 / C.B. (M-103U)** → **D.B.3 / СБ**.
         - Mandarin package: **C.B. (M-103U)** → **SB**. Statcard name → **Aviaczionnyj zavod № 22 im. S. P. Gorbunova | SB式輕轟炸機**.
         - Mandarin + Russian package: **C.B. (М-103У)** → **СБ**. Statcard name → **Авиационный завод № 22 им. С. П. Горбунова | СБ式輕轟炸機**.
     - **P-43** (China / Taiwan): Statcard name → **Republic Aviation Corporation AP-4A | P-43 Shì Qūzhú Jī**.

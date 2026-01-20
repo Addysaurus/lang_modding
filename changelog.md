@@ -31,7 +31,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **Mosquito J30** → **J 30**. Statcard name → **de Havilland Aircraft Company D.H. 98 | J 30**.
-    - **ELC 901** → **E.L.C. TC.901**. Statcard name → **Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat avec tourelle-casemate de 901**.
+    - **ELC 901** → **E.L.C. (TC.901)**. Statcard name → **Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat avec tourelle-casemate de 901**.
     - **ELC bis** → **E.L.C. bis**. Statcard name → **Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat bis avec tourelle-casemate de 90**.
     - **T-72B3 "Arena"** → **T-72B3 (Aryena-È)**. Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / OAO «Naučno-proizvodstvyennaâ korporacziâ "Konstruktorskoye bûro mašinostroyeniâ"» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»)**.
     - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / OAO «Naučno-proizvodstvyennaâ korporacziâ "Konstruktorskoye bûro mašinostroyeniâ"» | Ob"yekt 184-5 | Tank T-72B3A obr. 2024 g.**.

@@ -120,6 +120,18 @@ All dates are listed in DD-MM-YYYY format.
 
     - Corrected the **FS70** modification accidentally appearing as the Mandarin **火蛇70** even when not using the Mandarin package.
 
+### Infantry weaponry:
+
+- #### Additions:
+
+    - **ASM Val**
+    - **AK-12**
+
+- #### Changes:
+
+    - **ASM Val** → **ASM**. Statcard name → **AO «Czyentral'nyj naučno-isslyedovatyel'skij institut točnogo mašinostroyeniâ» | 6P30M | 9-mm avtomat spyeczial'nyj ASM "Val"**.
+    - **AK-12**: Statcard name → **Konczyern «Kalašnikov» | 6P70 | 5,45-mm avtomat Kalašnikova AK-12 obr. 2012 g.**.
+
 ### Sensors:
 
 - #### Additions:

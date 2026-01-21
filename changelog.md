@@ -159,6 +159,26 @@ All dates are listed in DD-MM-YYYY format.
         - Mandarin package: **KLJ-10机载脉冲多普勒火控雷达** → **KLJ-10A机载脉冲多普勒火控雷达**.
     - Changed the type tag of the Kh-59M and Kh-59MÈ to AGM-EO.
 
+### Loading screens & profile backgrounds:
+
+- #### Additions:
+
+    - Update "Line of Contact" additions (forgot to add last time):
+        - **MiG-25PD**
+        - **F/A-18E**
+        - **HMS Prince of Wales**
+        - **BMPT-72**
+        - **Winter Concert**
+    - **ELC 901**
+
+- #### Changes:
+
+    - Update "Line of Contact" changes:
+        - **F/A-18E** → **F/A-18E-2-MC**.
+        - **HMS Prince of Wales** → **HMS Prince of Wales (53)**.
+    - **ELC 901** → **E.L.C. (TC.901)**.
+    - **Re. 2005 (9-12 010 A)** → **Re.2005 (9-12087A)** (renamed the vehicle in an earlier update but forgot to rename the loading screen).
+
 ## 1.16.00 - 26-12-2025
 
 ### General:

@@ -1,6 +1,16 @@
 <ID|readonly|noverify>;<English>
+msgbox/btn_open_settings;Go to settings
 currency/eagles/plural;{num=Golden Eagle/Golden Eagles}
 currency/lions/plural;{num=Silver Lion/Silver Lions}
+exp_reasons/kill_gm_from_severe_damage;Severely damaged target kill counted
+crew/trained_current;Current qualification
+crew/qualifyRequirement/need_level;Increase the crew level to {reqLevel} ({currentLevelText}) in order to be able to complete the qualification upgrade course to level {wantedQualify} ({trainCost}).
+crew/currentLevel;current: {level}
+crew/qualifyBonuses/total;The {wantedQualify} qualification gives the bonus of {bonusValue} to all crew skills for this vehicle.
+userlog/award_tip_col/killed_crew_percent;Crew losses
+userlog/award_tip_col/naval_damage;⋩ (damage)
+mainmenu/type_drone;UAV
+armor_class/tank_snowball_steel;Rolled homogeneous armor
 armor_class/desc/firewall_armor;"Protected ammunition compartment.
 If the bulkhead of this compartment is not penetrated when the armor is breached,
 it provides full protection against propellant fires.
@@ -14,27 +24,45 @@ or the crew and burns out on its own after some time."
 armor_class/nbc_liner;Anti-radiation liner
 armor_class/pas_1a;Alloy PAS-1A
 armor_class/auxiliary_power_unit;Auxiliary power unit
-armor_class/desc/auxiliary_power_unit;Auxiliary power unit. Supply power to the vehicle when main engine is shutdown
+armor_class/desc/auxiliary_power_unit;Auxiliary power unit. Supplies power to the vehicle when the main engine is shut down
 armor_class/slip_ring;APU
-armor_class/desc/slip_ring;Slip ring. Transfer power from hull to turret
+armor_class/desc/slip_ring;Slip ring. Transfers power from the hull to the turret
 armor_class/cockpit_control;Flight control system
 armor_class/desc/cockpit_control;If it fails, these systems cannot be used:
 item/dailyUniversalSpare;Daily universal backup
 items/dailyUniversalSpare/description;Every day you receive <color=@activeTextColor>{max_count}</color> {max_count=free universal backup/free universal backups}, which can be used to respawn on any vehicle.
 items/dailyUniversalSpare/remaining;Remaining number of daily backups
 items/dailyUniversalSpare/updateTime;Their numbers is updated daily at <color=@activeTextColor>{time}</color>.
-items/dailyUniversalSpare/noLeftSparesMsg;All daily universal backups are used up, please select another universal backup or another vehicle to spawn.
-armor_class/armor3_5;Steel 3,5 mm
+items/dailyUniversalSpare/noLeftSparesMsg;All daily universal backups are used up. Please select another universal backup or another vehicle to spawn.
+respawn/randomUnitWarning;This vehicle is given to you for the current mission and you can use it equally with your own.
+respawn/randomUnitHint;– a random vehicle given for the current mission.
+respawn/randomUnitsList;Selected randomly from the list:
+armor_class/armor3_5;Steel 3.5 mm
 armor_meterial/material;Material
 armor_meterial/thickness_rha;Equivalent armor thickness (RHA)
 armor_meterial/steel;Steel
 armor_meterial/kevlar;Kevlar
 armor_meterial/ceramic;Ceramic
+crewSkillParameter/turnTurretSpeed/title;Guidance Speed:
+crewSkillParameter/turnTurretSpeedPitch/short;Vert.: 
+crewSkillParameter/turnTurretSpeed/short;Hor.: 
+crew/qualification/specAvailableToPurchase;Complete the qualification upgrade course to level {specName} ({trainCost}).
+crew/qualification/earnResearchPoints;Earn research points {rpIcon} on this vehicle with this crew to lower the cost of {specName} qualification:
+workshop/spearhead;Spearhead
+workshop/line_of_contact;Line of Contact
+collection/camo_trophy_2025;"""Game updates (2024-2025)"" decals"
+collection/winter_concert_2026;"""Winter Concert 2025-26"" decals"
 battlePass/seasonName/21;"""Brave Archer"""
+battlePass/seasonName/22;"""The Elusive Musketeer"""
 loading_bg/login_layer_xf5u;XF5U-1
 loading_bg/login_layer_ah_56a;AH-56A
 loading_bg/login_layer_hawk_200;Hawk 200
 loading_bg/login_layer_jaguar_ebrc;EBRC Jaguar
+loading_bg/login_layer_mig_25pd;MiG-25PD
+loading_bg/login_layer_fa_18e_block_2;F/A-18E
+loading_bg/login_layer_battleship_prince_of_wales;HMS Prince of Wales
+loading_bg/login_layer_bmpt_72;BMPT-72
+loading_bg/login_layer_ny_marathon_25;Winter Concert
 item/cardicon_tanker_us_trophy;"""US Tankers"" Profile Icons"
 item/cardicon_tanker_ger_trophy;"""German Tankers"" Profile Icons"
 item/cardicon_tanker_ussr_trophy;"""USSR Tankers"" Profile Icons"
@@ -56,19 +84,25 @@ ship/extinguishing;Extinguishing
 ship/unwatering;Unwatering
 ship/notSelectedPreset;"Switching between the selected sets in combat is done using the keys:
 {{ID_SHIP_DAMAGE_CONTROL_PRESET_1}} {{ID_SHIP_DAMAGE_CONTROL_PRESET_2}} {{ID_SHIP_DAMAGE_CONTROL_PRESET_3}}"
-ship/damageControlActionPrioritet;<color=@goodTextColor>{action} process is in priority.</color> All three processes can be launched simultaneously. In that case prioritized process always works first.
+ship/damageControlActionPrioritet;<color=@goodTextColor>{action} process is in priority.</color> All three processes can be launched simultaneously. In that case the prioritized process always works first.
 ship/damageControlRepairText;Repair
-ship/damageControlExtinguishText;Extinguish
+ship/damageControlExtinguishText;Extinguishing
 ship/damageControlUnwateringText;Unwatering
 ship/damageControlSpecTitle;<color=@activeTextColor>Damage control specs:</color>
 ship/damageControlSpec;  <color={color}>x{k}</color> <color=@activeTextColor>to {action} time</color>
 ship/damageControlSpecActionRepairText;repairing
 ship/damageControlSpecActionExtinguishText;extinguishing
 ship/damageControlSpecActionUnwaterText;unwatering
+logs/crew_percent;{val}% of crew
 profile_header_xf5u/name;XF5U
+profile_header_cas/name;Close Air Support
+profile_header_moon_santa/name;Christmas night
 frame_halloween_pumpkins/name;Through the Dark Forest
 frame_halloween_witch/name;Witch Hunt
 frame_pancakes/name;Pancakes
+frame_thunder_ammo_box/name;Thunder Ammo Box
+frame_ny_2026/name;Spruce garland
+frame_gold_vintage/name;Royal Gold
 countriesAppearance/title;Selection of research countries appearance
 countriesAppearance/useOperatorFlagsInBattle;Use operator flags in battle
 countriesAppearance/useOperatorFlagsInBattle/tooltip;Use vehicle operator flags in the battle statistics instead of research country flags.
@@ -81,5 +115,86 @@ countriesAppearance/notAvailableMsg;Purchase your first vehicle of this operator
 mainmenu/probability_info;Probability information
 mainmenu/apply_to_all;Apply to all
 mainmenu/resetToAllCountries;Reset for all countries
-mainmenu/resetToAllCountries/tooltip;All changes made to the appearance of research countries will be reset.
+mainmenu/resetToAllCountries/tooltip;All changes made to the appearance of research countries will be reset
 mainmenu/resetToAllCountries/msg;Do you wish to reset all changes made to the appearance of research countries?
+info/on; on 
+info/max_speed;Max speed
+info/max_speed_both; (forward/reverse)
+info/armorPiercing;Armor Penetration
+info/protection;Protection
+info/systems;Systems
+info/goToViewing;go to viewing
+info/material/steel;Steel
+info/material/steel/tooltip;Armor steel with high hardness and strength
+info/material/combined;Combined
+info/material/combined/tooltip;Combined armor with high hardness and strength
+info/material/aluminum;Aluminum
+info/material/aluminum/tooltip;Armor aluminum with high hardness and strength
+info/material/none;No armor
+info/material/none/tooltip;Without armor and without high hardness and strength
+info/material/hasSpallLiner;Spall liner
+info/material/hasSpallLiner/tooltip;Aramid fabric or ultra-high-molecular-weight polyethylene panels installed in the crew compartments of armored vehicles reduce the angle and velocity of fragments, significantly improving crew and equipment protection from small fragments generated during armor penetration.
+info/material/hasNBCLiner;Anti-radiation liner
+info/material/hasNBCLiner/tooltip;Panels made of polyethylene and polyisobutylene are installed inside and outside the tank. Their primary purpose is to reduce the impact on the crew during a nuclear explosion, but in some cases they can also protect the crew and equipment from small fragments generated during armor penetration by reducing their velocity and angle of flight, although this is less effective than a specialized spall liner.
+info/material/hasCompositeArmor;Composite armor
+info/material/hasCompositeArmor/tooltip;Armor protection is made using composite armor, which can consist of multiple layers of dissimilar materials, such as textolite, ceramic elements, NERA layers, and other armor materials. This approach provides a lighter weight than standard steel armor while maintaining the same resistance. For main battle tanks, composite armor is typically used in the most heavily protected frontal areas of the hull and turret.
+info/material/hasAluminiumArmor;Aluminum armor
+info/material/hasAluminiumArmor/tooltip;Armor protection is manufactured partially or entirely using aluminum alloys. Aluminum armor provides a reduction in armor weight compared to homogeneous steel armor of the same resistance. The armor resistance of aluminum depends on the manufacturing technology and alloying elements used in its production.
+info/material/hasSteelArmor;Steel armor
+info/material/hasSteelArmor/tooltip;Armor protection is made using steel armor plates. The projectile resistance of armor steel depends on the manufacturing technology. Rolled armor has higher armor resistance than cast armor due to the uniform distribution of defects during the rolling process. Certain types of steel, such as electroslag remelted steel and high-hardness steel, offer greater resistance than conventional steel armor.
+info/material/hasNoArmor;Without armor
+info/material/hasNoArmor/tooltip;There is no armor protection, the vehicle is made of non-armored materials and is not designed to be under enemy fire.
+info/material/bullet_proof_lite;Bullet proof
+info/material/bullet_proof_lite/tooltip;Bulletproof armor is designed to protect a combat vehicle from small arms fire and shell fragments.
+info/material/projectile_proof_medium;Projectile proof
+info/material/projectile_proof_medium/tooltip;Projectile-proof armor is designed to protect a combat vehicle from tank and anti-tank gunfire. For medium and main battle tanks, this typically means providing projectile-proof protection from the front, while the sides and rear are often significantly less protected.
+info/material/projectile_proof_heavy;Projectile proof
+info/material/projectile_proof_heavy/tooltip;Projectile-proof armor is designed to protect a combat vehicle from tank and anti-tank gunfire. For heavy tanks, this typically means the ability to withstand fire from more powerful guns than medium tanks, or over a wider range of frontal arc.
+info/material/projectile_proof_sau;Projectile proof
+info/material/projectile_proof_sau/tooltip;Projectile-proof armor is designed to protect a combat vehicle from tank and anti-tank gunfire.
+info/material/splinter_proof_rocket;Fragment proof
+info/material/splinter_proof_rocket/tooltip;Spall armor is designed to protect a combat vehicle from shell and rocket fragments in the event of an indirect hit.
+info/material/hasArtilleryProtection;hasArtilleryProtection
+info/material/hasArtilleryProtection/tooltip;hasArtilleryProtection
+info/material/hasCitadel;hasCitadel
+info/material/hasCitadel/tooltip;hasCitadel
+info/material/hasAntiTorpedoProtection;hasAntiTorpedoProtection
+info/material/hasAntiTorpedoProtection/tooltip;hasAntiTorpedoProtection
+info/material/hasLocalSideProtection;hasLocalSideProtection
+info/material/hasLocalSideProtection/tooltip;hasLocalSideProtection
+info/material/hasFullSideProtection;hasFullSideProtection
+info/material/hasFullSideProtection/tooltip;hasFullSideProtection
+info/material/hasLocalHullProtection;hasLocalHullProtection
+info/material/hasLocalHullProtection/tooltip;hasLocalHullProtectiontooltip
+info/material/hasReinforcedHullProtection;hasReinforcedHullProtection
+info/material/hasReinforcedHullProtection/tooltip;hasReinforcedHullProtection
+info/material/hasReinforcedInternalProtection;hasReinforcedInternalProtection
+info/material/hasReinforcedInternalProtection/tooltip;hasReinforcedInternalProtection
+info/material/hasLocalInternalProtection;hasLocalInternalProtection
+info/material/hasLocalInternalProtection/tooltip;hasLocalInternalProtection
+info/turnTime/tooltip;Turn time is how quickly your plane will make a 360° turn under ideal conditions, which you won't encounter in a real game
+info/climbSpeed/tooltip;"Rate of climb is a performance characteristic of an aircraft that determines its maneuverability in the vertical plane; it is expressed in the speed capabilities of the aircraft as it gains altitude in flight and is measured in meters per second"
+info/maxAltitude/tooltip;Maximum altitude is the highest altitude at which steady level flight at a constant speed is possible with maximum thrust or engine power
+info/maxSpeed/tooltip;Maximum speed is the maximum speed an aircraft can reach
+info/wingLoading/tooltip;The wing loading determines the takeoff and landing speed of an aircraft, its maneuverability, maximum flight distance and other characteristics
+info/apsName;"APS ""{name}"""
+info/att;Auto tracker
+info/att/tooltip;Automatic target tracking is a system that automatically tracks the movement of a target after it has been detected and captured, calculating its current coordinates and movement parameters
+msgbox/notAvailbleMod;You need to purchase this item in the modification menu first.
+msgbox/graphic_aa_settings_was_modified;"For ""High"" graphics quality settings, the anti-aliasing method has been changed to ""TSR"", which gives a significant increase in image quality but with some decline in performance. You can always change the anti-aliasing method by going to the graphic settings."
+mainmenu/compareBullets;Compare shells
+mainmenu/bulletsParameters;Shell parameters
+mainmenu/ballistics;Ballistics
+mainmenu/shotSettings;Shot settings
+mainmenu/angle;Angle
+mainmenu/addBulletForCompare;Add shell for comparison
+mainmenu/needAddBulletForCompare;Need to add a shell for comparison
+mainmenu/showWeaponsInHangar;Show/hide weapons
+msg/bulletForCompare/needSelectBullet;Need to select a shell
+msg/bulletForCompare/alreadyAddedForComparison;The selected shell has already been added for comparison. Select another shell.
+msg/bulletForCompare/maximumBulletsCountReached;The maximum number of shells for comparison has been reached. To add a new shell, you must remove one from the list.
+msg/bulletForCompare/bulletsCannotBeComparedByUnitTypes;Ship shells cannot be compared to tank or aircraft shells. To add a shell, you must remove all shells from the comparison list.
+info/num_engines;Number of engines: {num}
+info/num_transmissions;Number of transmissions: {num}
+info/num_boilers;Number of boiler rooms: {num}
+info/num_engine_rooms;Number of engine compartments: {num}

@@ -5336,11 +5336,11 @@ ussr_t_80um2_0;"Kirovskij zavod | Ob""yekt 219AS | Tank T-80U obr. 1995 g. (Droz
 ussr_t_80um2_1;T-80U
 ussr_t_80um2_2;MBT
 ussr_bmpt_shop;BMPT (2002)
-ussr_bmpt_0;"OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob""yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2002 g. «Tyerminator»"
+ussr_bmpt_0;"Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob""yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2002 g. ""Tyerminator"""
 ussr_bmpt_1;BMPT
 ussr_bmpt_2;IFV
 ussr_bmpt_72_shop;BMPT-72
-ussr_bmpt_72_0;"OAO «Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ» | Ob""yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 «Tyerminator-2»"
+ussr_bmpt_72_0;"Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob""yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 ""Tyerminator-2"""
 ussr_bmpt_72_1;BMPT-72
 ussr_bmpt_72_2;IFV
 ussr_tor_m1_shop;9A331-1
@@ -5350,11 +5350,11 @@ ussr_tor_m1_2;SPAAM
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 ussr_t_72b3_arena_m_shop;T-72B3A
-ussr_t_72b3_arena_m_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / OAO «Naučno-proizvodstvyennaâ korporacziâ ""Konstruktorskoye bûro mašinostroyeniâ""» | Ob""yekt 184-5 | Tank T-72B3A obr. 2024 g."
+ussr_t_72b3_arena_m_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob""yekt 184-5 | Tank T-72B3A obr. 2024 g."
 ussr_t_72b3_arena_m_1;T-72B3
 ussr_t_72b3_arena_m_2;MBT
 ussr_t_72b3_arena_shop;T-72B3 (Aryena-È)
-ussr_t_72b3_arena_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / OAO «Naučno-proizvodstvyennaâ korporacziâ ""Konstruktorskoye bûro mašinostroyeniâ""» | Ob""yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»)"
+ussr_t_72b3_arena_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob""yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»)"
 ussr_t_72b3_arena_1;T-72B3
 ussr_t_72b3_arena_2;MBT
 ussr_buk_m3_launcher_shop;9A317M
@@ -8578,6 +8578,10 @@ sw_cv_90105_2;Light tank
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+sw_cv_90120_shop;CV90120-T
+sw_cv_90120_0;BAE Systems Hägglunds Combat Vehicle 90120-T
+sw_cv_90120_1;CV90120-T
+sw_cv_90120_2;Light Tank
 sw_eldenhet_98_shop;elde 98 (Giraffe 1X)
 sw_eldenhet_98_0;BAE Systems Hägglunds | eldenhet 98 (Giraffe 1X)
 sw_eldenhet_98_1;elde 98
@@ -14231,10 +14235,6 @@ sw_cv_90_mk4_shop;CV90 MkIV (E30)
 sw_cv_90_mk4_0;BAE Systems Hägglunds Combat Vehicle 90 MkIV (E30)
 sw_cv_90_mk4_1;CV90 MkIV
 sw_cv_90_mk4_2;IFV
-sw_cv_90120_shop;CV90120
-sw_cv_90120_0;Combat Vehicle 90120
-sw_cv_90120_1;CV90120
-sw_cv_90120_2;Light tank
 sw_strv_122b_plus_shop;strv 122B+
 sw_strv_122b_plus_0;Åkers Krutbruk Protection MBT 122B Evolution | stridsvagn 122B+
 sw_strv_122b_plus_1;strv 122B

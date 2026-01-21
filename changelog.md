@@ -33,8 +33,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Mosquito J30** → **J 30**. Statcard name → **de Havilland Aircraft Company D.H. 98 | J 30**.
     - **ELC 901** → **E.L.C. (TC.901)**. Statcard name → **Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat avec tourelle-casemate de 901**.
     - **ELC bis** → **E.L.C. bis**. Statcard name → **Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat bis avec tourelle-casemate de 90**.
-    - **T-72B3 "Arena"** → **T-72B3 (Aryena-È)**. Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / OAO «Naučno-proizvodstvyennaâ korporacziâ "Konstruktorskoye bûro mašinostroyeniâ"» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»)**.
-    - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / OAO «Naučno-proizvodstvyennaâ korporacziâ "Konstruktorskoye bûro mašinostroyeniâ"» | Ob"yekt 184-5 | Tank T-72B3A obr. 2024 g.**.
+    - **T-72B3 "Arena"** → **T-72B3 (Aryena-È)**. Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»)**.
+    - **T-72B3A**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob"yekt 184-5 | Tank T-72B3A obr. 2024 g.**.
     - **FR-1**: Statcard name → **Ryan Aeronautical Company Model 28-1 | FR-1 Fireball**. I also made it actually display correctly.
     - **Huòkè 75H**:
         - Mandarin package: Statcard name → **Curtiss-Wright Corporation Hawk Model 75H | 霍克75H驅逐機** (the manufacturer designation was still accidentally 75M).
@@ -92,6 +92,9 @@ All dates are listed in DD-MM-YYYY format.
     - **Sky Sabre (Giraffe AMB)** → **SV 15T (Giraffe AMB)**. Statcard name → **Support Vehicle 15-Tonne (Giraffe Agile Multi Beam)**.
     - **Sky Sabre (iLauncher) / (Giraffe AMB)** (folder) → **Sky Sabre**.
     - **EBRC Jaguar**: Statcard name → **Groupement Momentané d'Entreprises Engin Blindé Multi Rôles | Engin blindé de reconnaissance et de combat Jaguar**.
+    - **BMPT (2002)**: Statcard name → **Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob""yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2002 g. "Tyerminator"**.
+    - **BMPT-72**: Statcard name → **Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob""yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 "Tyerminator-2"**.
+    - **CV90120** → **CV90120-T**. Statcard name → **BAE Systems Hägglunds Combat Vehicle 90120-T**.
 
 ### Weaponry:
 
@@ -113,6 +116,7 @@ All dates are listed in DD-MM-YYYY format.
     - **AAM-4**: Statcard name → **99 Shiki Kū Taikū Yūdōdan | AAM-4** (transliteration change) ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
     - **ASM-1**: Statcard name → **80 Shiki Kū Taikan Yūdōdan | ASM-1** (transliteration change) ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
     - **ASM-2**: Statcard name → **93 Shiki Kū Taikan Yūdōdan | ASM-2** (transliteration change) ([Report](https://github.com/Addysaurus/lang_modding/issues/102)).
+    - **RUAG Defence 120 mm Compact Tank Gun** → **120 mm Compact Tank Gun L50**.
 
 ### Modifications:
 
@@ -124,11 +128,17 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
+    - **M249 Para**
+    - **MAC-11 PDW**
+    - **M110 SDMR**
     - **ASM Val**
     - **AK-12**
 
 - #### Changes:
 
+    - **M249 Para** → **M249**. Statcard name → **FN America | Light Machine Gun, 5.56 mm, M249**.
+    - **MAC-11 PDW** → **M11**. Statcard name → **Military Armament Corporation Model 11 | Submachine Gun, 9mm: M11**.
+    - **M110 SDMR** → **M110A1 SDMR**. Statcard name → **Heckler & Koch | Rifle, Precision Lightweight, 7.62mm, M110A1 Squad Designated Marksman Rifle**.
     - **ASM Val** → **ASM**. Statcard name → **AO «Czyentral'nyj naučno-isslyedovatyel'skij institut točnogo mašinostroyeniâ» | 6P30M | 9-mm avtomat spyeczial'nyj ASM "Val"**.
     - **AK-12**: Statcard name → **Konczyern «Kalašnikov» | 6P70 | 5,45-mm avtomat Kalašnikova AK-12 obr. 2012 g.**.
 

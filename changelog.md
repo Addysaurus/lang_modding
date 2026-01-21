@@ -170,6 +170,11 @@ All dates are listed in DD-MM-YYYY format.
         - **BMPT-72**
         - **Winter Concert**
     - **ELC 901**
+    - Update "Leviathans" additions (somehow forgot to add over half a year ago, I'm stupid):
+        - **IRIS-T SLM**
+        - **RAH-66**
+        - **CS/SA5**
+        - **IJN Yamato**
 
 - #### Changes:
 
@@ -177,7 +182,21 @@ All dates are listed in DD-MM-YYYY format.
         - **F/A-18E** → **F/A-18E-2-MC**.
         - **HMS Prince of Wales** → **HMS Prince of Wales (53)**.
     - **ELC 901** → **E.L.C. (TC.901)**.
+    - Update "Leviathans" changes (how did I forget these ffs):
+        - **IRIS-T SLM** → **LV IRIS-T SLM**.
+        - **RAH-66** → **YRAH-66A (2000)**.
+        - **CS/SA5** → **CS/SA5 (2022)**.
+        - **IJN Yamato** → **Yamato**.
+            - Japanese package: **IJN Yamato** → **大和**.
     - **Re. 2005 (9-12 010 A)** → **Re.2005 (9-12087A)** (renamed the vehicle in an earlier update but forgot to rename the loading screen).
+    - **Yamashiro**:
+        - Japanese package: **Yamashiro** → **山城**.
+    - **Leopard 2 A6 vs T-90A and ZTZ99 (Phase 2)** → **Leopard 2 A6 vs. T-90A and ZTZ99 (2 Qí)**.
+        - Mandarin package: **Leopard 2 A6 vs T-90A and ZTZ99 (Phase 2)** → **Leopard 2 A6 vs. T-90A and ZTZ99 (二期)**.
+    - **Z10**:
+        - Full Mandarin package: **Z10** → **直10**.
+    - **ZBD04A and Z10**:
+        - Full Mandarin package: **ZBD04A and Z10** → **ZBD04A and 直10**.
 
 ## 1.16.00 - 26-12-2025
 

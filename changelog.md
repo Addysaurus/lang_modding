@@ -92,8 +92,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Sky Sabre (Giraffe AMB)** → **SV 15T (Giraffe AMB)**. Statcard name → **Support Vehicle 15-Tonne (Giraffe Agile Multi Beam)**.
     - **Sky Sabre (iLauncher) / (Giraffe AMB)** (folder) → **Sky Sabre**.
     - **EBRC Jaguar**: Statcard name → **Groupement Momentané d'Entreprises Engin Blindé Multi Rôles | Engin blindé de reconnaissance et de combat Jaguar**.
-    - **BMPT (2002)**: Statcard name → **Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob""yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2002 g. "Tyerminator"**.
-    - **BMPT-72**: Statcard name → **Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob""yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 "Tyerminator-2"**.
+    - **BMPT (2002)**: Statcard name → **Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob"yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2002 g. "Tyerminator"**.
+    - **BMPT-72**: Statcard name → **Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob"yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 "Tyerminator-2"**.
     - **CV90120** → **CV90120-T**. Statcard name → **BAE Systems Hägglunds Combat Vehicle 90120-T**.
 
 ### Weaponry:

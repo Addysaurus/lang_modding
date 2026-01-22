@@ -91,10 +91,12 @@ All dates are listed in DD-MM-YYYY format.
     - **Sky Sabre (iLauncher)** → **SV 15T (Land Ceptor)**. Statcard name → **Rafael International + MBDA UK | Support Vehicle 15-Tonne (Land Ceptor)**.
     - **Sky Sabre (Giraffe AMB)** → **SV 15T (Giraffe AMB)**. Statcard name → **Support Vehicle 15-Tonne (Giraffe Agile Multi Beam)**.
     - **Sky Sabre (iLauncher) / (Giraffe AMB)** (folder) → **Sky Sabre**.
+    - **Project 68** (folder) → **Čapayev / Sverdlov / Mikhail Kutuzov**.
     - **EBRC Jaguar**: Statcard name → **Groupement Momentané d'Entreprises Engin Blindé Multi Rôles | Engin blindé de reconnaissance et de combat Jaguar**.
     - **BMPT (2002)**: Statcard name → **Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob"yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2002 g. "Tyerminator"**.
     - **BMPT-72**: Statcard name → **Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob"yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 "Tyerminator-2"**.
     - **CV90120** → **CV90120-T**. Statcard name → **BAE Systems Hägglunds Combat Vehicle 90120-T**.
+    - Changed the roundel for Indian vehicles to ☬ (the Adi Shakti) because the "Wheel of Dharma" character we were using was really just a pirate ship stearing wheel.
 
 ### Weaponry:
 
@@ -123,22 +125,29 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Corrected the **FS70** modification accidentally appearing as the Mandarin **火蛇70** even when not using the Mandarin package.
+    - Added pylon names for the Chinese HF rocket launcher modifications and corrected their extended names to "Hángkōng Huǒjiàn Fāshèqì" from "Fāshèqì" ("发射器" → "航空火箭发射器" in the Mandarin packages). The pylon named were missed last update by mistake.
 
 ### Infantry weaponry:
 
 - #### Additions:
 
     - **M249 Para**
+    - **M4A1**
     - **MAC-11 PDW**
     - **M110 SDMR**
+    - **M16A4**
+    - **XM5**
     - **ASM Val**
     - **AK-12**
 
 - #### Changes:
 
     - **M249 Para** → **M249**. Statcard name → **FN America | Light Machine Gun, 5.56 mm, M249**.
+    - **M4A1**: Statcard name → **Colt's Manufacturing Company Model 921 | Rifle, 5.56mm, M4A1**.
     - **MAC-11 PDW** → **M11**. Statcard name → **Military Armament Corporation Model 11 | Submachine Gun, 9mm: M11**.
     - **M110 SDMR** → **M110A1 SDMR**. Statcard name → **Heckler & Koch | Rifle, Precision Lightweight, 7.62mm, M110A1 Squad Designated Marksman Rifle**.
+    - **M16A4**: Statcard name → **Colt's Manufacturing Company Model 945 | Rifle, 5.56mm, M16A4**.
+    - **XM5** → **M7**. Statcard name → **SIG Sauer | Rifle, 6.8mm, M7**.
     - **ASM Val** → **ASM**. Statcard name → **AO «Czyentral'nyj naučno-isslyedovatyel'skij institut točnogo mašinostroyeniâ» | 6P30M | 9-mm avtomat spyeczial'nyj ASM "Val"**.
     - **AK-12**: Statcard name → **Konczyern «Kalašnikov» | 6P70 | 5,45-mm avtomat Kalašnikova AK-12 obr. 2012 g.**.
 

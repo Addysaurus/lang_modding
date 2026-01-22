@@ -1403,6 +1403,7 @@ shop/group/su-7_group;Su-7B / BKL
 shop/group/mig-21_group;MiG-21SMT / bis
 shop/group/mig-23m_group;MiG-23M / MLD
 shop/group/mig_27_group;MiG-27M / K
+shop/group/ussr_cruiser_chapaev_kutuzov_group;Čapayev / Sverdlov / Mikhail Kutuzov
 
 shop/group/uk_crusader_group;Crusader, Mk. II / III
 shop/group/uk_cromwell_group;Cromwell, Mk. V / I
@@ -1429,9 +1430,9 @@ shop/group/uk_g6_eland_group;G6-45 / Eland 90
 shop/group/uk_rooikat_olifant_group;Rooikat / Olifant Mk1
 shop/group/uk_mttd_olifant_group;MTTD / Olifant Mk2
 shop/group/uk_stormer_group;Stormer / F.V.4333 (HVM)
-shop/group/uk_9a33_35_group;☸ 9A33BM2 / 35M
-shop/group/uk_stormer_9a33_group;Stormer / ☸ 9A33BM2
-shop/group/uk_stormer_9a35_group;F.V.4333 (HVM) / ☸ 9A35M
+shop/group/uk_9a33_35_group;☬ 9A33BM2 / 35M
+shop/group/uk_stormer_9a33_group;Stormer / ☬ 9A33BM2
+shop/group/uk_stormer_9a35_group;F.V.4333 (HVM) / ☬ 9A35M
 shop/group/uk_sky_sabre_fcs_group;Sky Sabre
 shop/group/fury_group;Fury Mk. I / II
 shop/group/gladiator_mk2_group;Gladiator Mk. II / II (Silver) / II (BEF)
@@ -9182,9 +9183,9 @@ germ_9a35_m_shop;◊ 9A35M
 germ_9a35_m_0;"◊ BM 9A35M ""Strela-10M"""
 germ_9a35_m_1;◊ 9A35
 germ_9a35_m_2;◊ SPAAM
-uk_9a35_m_shop;☸ 9A35M
-uk_9a35_m_0;"☸ BM 9A35M ""Strela-10M"""
-uk_9a35_m_1;☸ 9A35M
+uk_9a35_m_shop;☬ 9A35M
+uk_9a35_m_0;"☬ BM 9A35M ""Strela-10M"""
+uk_9a35_m_1;☬ 9A35M
 uk_9a35_m_2;SPAAM
 ussr_9a33bm3_shop;9A33BM3
 ussr_9a33bm3_0;"Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM3 ""Osa-AKM"""
@@ -9198,9 +9199,9 @@ it_9a33bm3_shop;╏ 9A33BM3
 it_9a33bm3_0;"╏ Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM3 ""Osa-AKM"""
 it_9a33bm3_1;╏ 9A33BM3
 it_9a33bm3_2;SPAA
-uk_9a33bm2_shop;☸ 9A33BM2
-uk_9a33bm2_0;"☸ Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM2 ""Osa-AK"""
-uk_9a33bm2_1;☸ 9A33BM2
+uk_9a33bm2_shop;☬ 9A33BM2
+uk_9a33bm2_0;"☬ Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM2 ""Osa-AK"""
+uk_9a33bm2_1;☬ 9A33BM2
 uk_9a33bm2_2;SPAA
 ussr_pantsyr_s1_shop;72V6
 ussr_pantsyr_s1_0;"BM 72V6 ""Pantsir-S1"""
@@ -9738,9 +9739,9 @@ uk_chieftain_mk_10_shop;Chieftain, Mk. 10
 uk_chieftain_mk_10_0;Tank, Combat, 120mm Gun, Chieftain, Mk. 10
 uk_chieftain_mk_10_1;Chieftain, Mk. 10
 uk_chieftain_mk_10_2;MBT
-uk_t_90s_bheeshma_shop;☸ T-90S
-uk_t_90s_bheeshma_0;"☸ Ob""yekt 188S | T-90S Bhishma"
-uk_t_90s_bheeshma_1;☸ T-90S
+uk_t_90s_bheeshma_shop;☬ T-90S
+uk_t_90s_bheeshma_0;"☬ Ob""yekt 188S | T-90S Bhishma"
+uk_t_90s_bheeshma_1;☬ T-90S
 uk_t_90s_bheeshma_2;MBT
 uk_khalid_shop;Khalid
 uk_khalid_0;Khalid
@@ -12436,10 +12437,10 @@ mig_21_bis_finland_shop;MGB (late)
 mig_21_bis_finland_0;"MGB ""Konelan putki"" (late)"
 mig_21_bis_finland_1;MGB (late)
 mig_21_bis_finland_2;MGB
-mig-21_bison_shop;☸ MiG-21 Bison
-mig-21_bison_0;☸ MiG-21 Bison
-mig-21_bison_1;☸ MiG-21
-mig-21_bison_2;☸ MiG-21
+mig-21_bison_shop;☬ MiG-21 Bison
+mig-21_bison_0;☬ MiG-21 Bison
+mig-21_bison_1;☬ MiG-21
+mig-21_bison_2;☬ MiG-21
 yak-23_shop;Âk-23
 yak-23_0;Âk-23
 yak-23_1;Âk-23
@@ -13336,10 +13337,10 @@ jaguar_gr1a_shop;▄ Jaguar G.R. Mk. 1B
 jaguar_gr1a_0;▄ SEPECAT Jaguar S | Jaguar G.R. Mk. 1B
 jaguar_gr1a_1;▄ Jaguar G.R. Mk. 1
 jaguar_gr1a_2;▄ Jaguar
-jaguar_is_shop;☸ Jaguar IS (DARIN II)
-jaguar_is_0;"☸ SEPECAT Jaguar IS / Hindustan Aeronautics Limited | Jaguar DARIN II (Stage 3) ""Shamsher"""
-jaguar_is_1;☸ Jaguar IS
-jaguar_is_2;☸ Jaguar
+jaguar_is_shop;☬ Jaguar IS (DARIN II)
+jaguar_is_0;"☬ SEPECAT Jaguar IS / Hindustan Aeronautics Limited | Jaguar DARIN II (Stage 3) ""Shamsher"""
+jaguar_is_1;☬ Jaguar IS
+jaguar_is_2;☬ Jaguar
 jaguar_e_shop;☨ Jaguar E
 jaguar_e_0;☨ SEPECAT Jaguar E | Jaguar Type E
 jaguar_e_1;☨ Jaguar E

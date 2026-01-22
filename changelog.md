@@ -97,6 +97,7 @@ All dates are listed in DD-MM-YYYY format.
     - **BMPT-72**: Statcard name → **Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob"yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 "Tyerminator-2"**.
     - **CV90120** → **CV90120-T**. Statcard name → **BAE Systems Hägglunds Combat Vehicle 90120-T**.
     - Changed the roundel for Indian vehicles to ☬ (the Adi Shakti) because the "Wheel of Dharma" character we were using was really just a pirate ship stearing wheel.
+    - Changed the roundel for Malaysian vehicles to a sun to be more like the Malaysian Air Force roundel, rather than the same as the British one.
     - Corrected the roundel for the **MiG-21SPSK** from East German to German.
     - Corrected the display of the statcard name on the Chinese **9A331-1**.
 

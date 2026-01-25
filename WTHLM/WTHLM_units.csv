@@ -1558,9 +1558,9 @@ shop/group/fiat_g91y_group;G.91 Y / YS
 shop/group/tornado_ids_it_group;A-200A (1995) / C (RET8)
 
 shop/group/fr_hotchkiss_fcm_group;AMC 34 / H 35 / FCM 36
-shop/group/fr_mars_hot_group;MARS 15 / AMX 13 (HOT)
+shop/group/fr_mars_hot_group;MARS 15 / Char 13t-75 (HOT)
 shop/group/fr_amx_sk_group;AMX 10RC / SK105-A2
-shop/group/fr_lorraine_bat_group;Lorraine 40t / Char 25t
+shop/group/fr_lorraine_bat_group;Char 40t / 25t
 shop/group/fr_amx_30_group;AMX 30B2 / B2 BRENUS
 shop/group/fr_leclerc_group;Leclerc S1 / S2
 shop/group/fr_b1_2c_group;B1 bis / 2C
@@ -1568,9 +1568,9 @@ shop/group/fr_arl_jumbo_group;ARL 44 / ☨ M4A3E2
 shop/group/fr_m44_55_group;▄ M44 / 55
 shop/group/fr_auf_acra_group;AMX 30 Au F1 / 10M
 shop/group/fr_amx_32_group;AMX 32 P1 / 2
-shop/group/fr_lorraine_elc_group;CA Lorraine / ELC bis
-shop/group/fr_foch_acra_group;AMX 50 Foch / 10M
-shop/group/fr_aml_amx_group;AML 90 / AMX 13-90
+shop/group/fr_lorraine_elc_group;CA 100 / E.L.C. bis
+shop/group/fr_foch_acra_group;CA 120 / A.M.X. 10 M
+shop/group/fr_aml_amx_group;A.M.L. 90 / Char 13t-90
 shop/group/fr_samp_t_fcs_group;☨ SAMP/T (MRI) / (MLT)
 shop/group/d_371_group;D.371 / 373
 shop/group/d_500_group;D.500 / 501
@@ -8313,6 +8313,34 @@ fr_amd_35_kwk39_shop;☨ le.Pz.Spw. 204 (f) (Kw.K. 39/1)
 fr_amd_35_kwk39_0;☨ Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Kw.K. 39/1 L/60
 fr_amd_35_kwk39_1;☨ le.Pz.Spw. 204 (f)
 fr_amd_35_kwk39_2;Light tank
+fr_amx_13_chaffee_shop;Char 13t (Chaffee)
+fr_amx_13_chaffee_0;Atelier de construction d'Issy-les-Moulineaux | Char de 13 tonnes avec tourelle Chaffee
+fr_amx_13_chaffee_1;Char 13t
+fr_amx_13_chaffee_2;Light Tank
+fr_amx_13_fl_11_shop;Char 13t-75 (F.L. 11)
+fr_amx_13_fl_11_0;Atelier de construction d'Issy-les-Moulineaux | Char de 13 tonnes de 75 avec tourelle F.L. 11
+fr_amx_13_fl_11_1;Char 13t-75
+fr_amx_13_fl_11_2;Light Tank
+fr_amx_13_dca_40_shop;Char 13t (D.C.A.)
+fr_amx_13_dca_40_0;Atelier de construction d'Issy-les-Moulineaux | Char de 13 tonnes avec tourelle de D.C.A.
+fr_amx_13_dca_40_1;Char 13t (D.C.A.)
+fr_amx_13_dca_40_2;SPAAG
+fr_amx_13_75_shop;Char 13t-75 mle. 51
+fr_amx_13_75_0;Atelier de construction d'Issy-les-Moulineaux | Char de 13 tonnes de 75 modèle 1951
+fr_amx_13_75_1;Char 13t-75
+fr_amx_13_75_2;Light Tank
+fr_amx_13_75_ss11_shop;Char 13t-75 mle. 51 (SS.11)
+fr_amx_13_75_ss11_0;Atelier de construction d'Issy-les-Moulineaux | Char de 13 tonnes de 75 modèle 1951 avec SS.11
+fr_amx_13_75_ss11_1;Char 13t-75
+fr_amx_13_75_ss11_2;Light Tank
+fr_amx_13_90_shop;Char 13t-90
+fr_amx_13_90_0;Atelier de construction d'Issy-les-Moulineaux | Char de 13 tonnes de 90
+fr_amx_13_90_1;Char 13t-75
+fr_amx_13_90_2;Light Tank
+fr_amx_13_hot_shop;Char 13t-75 mle. 51 (HOT)
+fr_amx_13_hot_0;Atelier de construction d'Issy-les-Moulineaux | Char de 13 tonnes de 75 modèle 1951 avec HOT
+fr_amx_13_hot_1;Char 13t-75
+fr_amx_13_hot_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 fr_m55_shop;▄ M55
@@ -8330,7 +8358,7 @@ fr_amx_elc_901_0;Atelier de construction d'Issy-les-Moulineaux | Engin léger de
 fr_amx_elc_901_1;E.L.C.
 fr_amx_elc_901_2;Light Tank
 fr_lorraine_100_shop;CA 100
-fr_lorraine_100_0;Lorraine | Canon d'assaut de 100
+fr_lorraine_100_0;Direction des Etudes et Fabrication d'Armement | Canon d'assaut de 100
 fr_lorraine_100_1;CA 100
 fr_lorraine_100_2;SPG
 
@@ -8339,21 +8367,29 @@ fr_marder_df_105_shop;☨ DF 105
 fr_marder_df_105_0;☨ Thyssen Henschel DF 105
 fr_marder_df_105_1;☨ DF 105
 fr_marder_df_105_2;Light tank
-fr_amx_50_shop;A.M.X. 50t (T.O.A. 100)
-fr_amx_50_0;Atelier de construction d'Issy-les-Moulineaux | Char moyen de 50t A.M.X. avec tourelle T.O.A. 100
-fr_amx_50_1;A.M.X. 50t
+fr_lorraine_40t_shop;Char 40t
+fr_lorraine_40t_0;Direction des Etudes et Fabrication d'Armement | Char moyen de 40 tonnes Lorraine
+fr_lorraine_40t_1;Char 40t
+fr_lorraine_40t_2;Medium Tank
+fr_bat_chat_25t_shop;Char 25t
+fr_bat_chat_25t_0;Société de Construction des Batignolles | Char de 25 tonnes B.C.
+fr_bat_chat_25t_1;Char 25t
+fr_bat_chat_25t_2;Light Tank
+fr_amx_50_shop;Char 50t (T.O.A. 100)
+fr_amx_50_0;Atelier de construction d'Issy-les-Moulineaux | Char moyen de 50 tonnes A.M.X. avec tourelle T.O.A. 100
+fr_amx_50_1;Char 50t
 fr_amx_50_2;Medium Tank
-fr_amx_50_surbaisse_shop;A.M.X. 50t Surbaissé
-fr_amx_50_surbaisse_0;Atelier de construction d'Issy-les-Moulineaux | Char moyen de 50t A.M.X. Surbaissé
-fr_amx_50_surbaisse_1;A.M.X. 50t
+fr_amx_50_surbaisse_shop;Char 50t Surbaissé
+fr_amx_50_surbaisse_0;Atelier de construction d'Issy-les-Moulineaux | Char moyen de 50 tonnes A.M.X. Surbaissé
+fr_amx_50_surbaisse_1;Char 50t
 fr_amx_50_surbaisse_2;Medium Tank
-fr_amx_50_surblinde_shop;A.M.X. 50t Surblindé
-fr_amx_50_surblinde_0;Atelier de construction d'Issy-les-Moulineaux | Char moyen de 50t A.M.X. Surblindé
-fr_amx_50_surblinde_1;A.M.X. 50t
+fr_amx_50_surblinde_shop;Char 50t Surblindé
+fr_amx_50_surblinde_0;Atelier de construction d'Issy-les-Moulineaux | Char moyen de 50 tonnes A.M.X. Surblindé
+fr_amx_50_surblinde_1;Char 50t
 fr_amx_50_surblinde_2;Medium Tank
-fr_amx_50_1950_shop;A.M.X. 50t (T.O. 90/930)
-fr_amx_50_1950_0;Atelier de construction d'Issy-les-Moulineaux | Char moyen de 50t A.M.X. avec tourelle T.O. 90/930
-fr_amx_50_1950_1;A.M.X. 50t
+fr_amx_50_1950_shop;Char 50t (T.O. 90/930)
+fr_amx_50_1950_0;Atelier de construction d'Issy-les-Moulineaux | Char moyen de 50 tonnes A.M.X. avec tourelle T.O. 90/930
+fr_amx_50_1950_1;Char 50t
 fr_amx_50_1950_2;Medium Tank
 fr_amx_50_foch_shop;CA 120
 fr_amx_50_foch_0;Atelier de construction d'Issy-les-Moulineaux | Auto-canon de 120
@@ -10023,10 +10059,6 @@ fr_amx_30_dca_shop;AMX 30 S DCA
 fr_amx_30_dca_0;AMX 30 S DCA
 fr_amx_30_dca_1;AMX 30 S DCA
 fr_amx_30_dca_2;SPAA
-fr_amx_13_dca_40_shop;AMX 13 DCA 40
-fr_amx_13_dca_40_0;AMX 13 DCA 40
-fr_amx_13_dca_40_1;AMX 13 DCA 40
-fr_amx_13_dca_40_2;SPAA
 fr_amx_30_b2_shop;AMX 30B2
 fr_amx_30_b2_0;Engin principal de combat AMX 30B2
 fr_amx_30_b2_1;AMX 30B2
@@ -10051,10 +10083,6 @@ fr_lorraine_155_shop;Lorraine 155 Mle. 50
 fr_lorraine_155_0;Lorraine automoteur de 155mm modèle 1950
 fr_lorraine_155_1;Lorraine 155 Mle. 50
 fr_lorraine_155_2;SPG
-fr_lorraine_40t_shop;Lorraine 40t
-fr_lorraine_40t_0;Char de bataille de 40 tonnes
-fr_lorraine_40t_1;Lorraine 40t
-fr_lorraine_40t_2;Medium tank
 fr_citroen_kegresse_p4t_shop;P.7.T.
 fr_citroen_kegresse_p4t_0;Citroën-Kégresse-Hinstin P.7.T.
 fr_citroen_kegresse_p4t_1;P.7.T.
@@ -10139,30 +10167,6 @@ fr_m4a4_cn_75_50_shop;M4A4T (SA 50)
 fr_m4a4_cn_75_50_0;M4A4T (SA 50)
 fr_m4a4_cn_75_50_1;M4A4T (SA 50)
 fr_m4a4_cn_75_50_2;Medium tank
-fr_amx_13_chaffee_shop;AMX 13 (M6)
-fr_amx_13_chaffee_0;AMX 13 (Gun, 75mm, M6)
-fr_amx_13_chaffee_1;AMX 13 (M6)
-fr_amx_13_chaffee_2;Light tank
-fr_amx_13_fl_11_shop;AMX 13 (FL 11)
-fr_amx_13_fl_11_0;AMX 13 (FL 11)
-fr_amx_13_fl_11_1;AMX 13 (FL 11)
-fr_amx_13_fl_11_2;Light tank
-fr_amx_13_90_shop;AMX 13-90
-fr_amx_13_90_0;AMX 13-90
-fr_amx_13_90_1;AMX 13-90
-fr_amx_13_90_2;Light tank
-fr_amx_13_75_shop;AMX 13
-fr_amx_13_75_0;AMX 13
-fr_amx_13_75_1;AMX 13
-fr_amx_13_75_2;Light tank
-fr_amx_13_75_ss11_shop;AMX 13 (SS.11)
-fr_amx_13_75_ss11_0;AMX 13 (SS.11)
-fr_amx_13_75_ss11_1;AMX 13 (SS.11)
-fr_amx_13_75_ss11_2;Light tank
-fr_amx_13_hot_shop;AMX 13 (HOT)
-fr_amx_13_hot_0;AMX 13 (HOT)
-fr_amx_13_hot_1;AMX 13 (HOT)
-fr_amx_13_hot_2;Light tank
 fr_amc_35_shop;AMC 35
 fr_amc_35_0;Automitrailleuse de combat Renault AMC 35
 fr_amc_35_1;AMC 35
@@ -12669,10 +12673,6 @@ ussr_2s38_shop;2S38
 ussr_2s38_0;"2S38 ""Dyerivacziâ-PVO"""
 ussr_2s38_1;2S38
 ussr_2s38_2;Light tank
-fr_bat_chat_25t_shop;Char 25t
-fr_bat_chat_25t_0;Batignolles-Châtillon Char de 25 tonnes
-fr_bat_chat_25t_1;Char 25t
-fr_bat_chat_25t_2;Light tank
 germ_thyssen_henschel_tam_2ip_shop;TAM 2IP
 germ_thyssen_henschel_tam_2ip_0;Tanque Argentino Mediano 2, Improved Protection
 germ_thyssen_henschel_tam_2ip_1;TAM 2IP

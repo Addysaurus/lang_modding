@@ -8344,15 +8344,15 @@ fr_amx_13_hot_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 fr_panhard_ebr_1951_shop;E.B.R. 75 mle. 51
-fr_panhard_ebr_1951_0;Panhard | Engin blindé de reconnaissance de 75 modèle 1951 avec tourelle F.L. 11
+fr_panhard_ebr_1951_0;Panhard Type 212 | Engin blindé de reconnaissance de 75 modèle 1951 avec tourelle F.L. 11
 fr_panhard_ebr_1951_1;E.B.R. 75 mle. 51
 fr_panhard_ebr_1951_2;Light Tank
 fr_panhard_ebr_1954_shop;E.B.R. 75 mle. 54
-fr_panhard_ebr_1954_0;Panhard | Engin blindé de reconnaissance de 75 modèle 1954 avec tourelle F.L. 10
+fr_panhard_ebr_1954_0;Panhard Type 212 | Engin blindé de reconnaissance de 75 modèle 1954 avec tourelle F.L. 10
 fr_panhard_ebr_1954_1;E.B.R. 75 mle. 54
 fr_panhard_ebr_1954_2;Light Tank
 fr_panhard_ebr_1963_shop;E.B.R. 75 mle. 63
-fr_panhard_ebr_1963_0;Panhard | Engin blindé de reconnaissance de 75 modèle 1963 avec tourelle F.L. 11
+fr_panhard_ebr_1963_0;Panhard Type 212 | Engin blindé de reconnaissance de 75 modèle 1963 avec tourelle F.L. 11
 fr_panhard_ebr_1963_1;E.B.R. 75 mle. 63
 fr_panhard_ebr_1963_2;Light Tank
 fr_arl_44_acl1_shop;A.R.L. 44 (A.C.L. 1)
@@ -8387,6 +8387,10 @@ fr_lorraine_100_1;C.A. 100 Lorraine
 fr_lorraine_100_2;SPG
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+fr_aml_90_shop;A.M.L. 90
+fr_aml_90_0;Panhard Type 245 | Automitrailleuse légère A.M.L. 90
+fr_aml_90_1;A.M.L. 90
+fr_aml_90_2;Light Tank
 fr_marder_df_105_shop;☨ DF 105
 fr_marder_df_105_0;☨ Thyssen Henschel DF 105
 fr_marder_df_105_1;☨ DF 105
@@ -8419,6 +8423,10 @@ fr_amx_50_foch_shop;C.A. 120 A.M.X.
 fr_amx_50_foch_0;Atelier de construction d'Issy-les-Moulineaux | Auto-canon de 120 A.M.X.
 fr_amx_50_foch_1;C.A. 120 A.M.X.
 fr_amx_50_foch_2;SPG
+fr_amx_10m_acra_shop;A.M.X. 10 M (ACRA)
+fr_amx_10m_acra_0;Atelier de construction d'Issy-les-Moulineaux | Engin blindé léger missile A.M.X. 10 M avec système d'arme ACRA
+fr_amx_10m_acra_1;A.M.X. 10 M
+fr_amx_10m_acra_2;ATMC
 fr_somua_sm_shop;Char 50t S.O.M.U.A.
 fr_somua_sm_0;Société d'outillage mécanique et d'usinage d'artillerie SM | Char moyen de 50 tonnes S.O.M.U.A. avec tourelle T.O. 100
 fr_somua_sm_1;Char 50t S.O.M.U.A.
@@ -10023,10 +10031,6 @@ fr_amx_30_auf_1_shop;AMX 30 Au F1 TM
 fr_amx_30_auf_1_0;Canon de 155mm Automoteur Modèle F1 TM sur châssis AMX 30
 fr_amx_30_auf_1_1;AMX 30 Au F1
 fr_amx_30_auf_1_2;SPG
-fr_amx_10m_acra_shop;AMX 10M
-fr_amx_10m_acra_0;Chasseur de char AMX 10M
-fr_amx_10m_acra_1;AMX 10M
-fr_amx_10m_acra_2;SPG
 fr_amx_30_ACRA_shop;AMX 30 (T 142)
 fr_amx_30_ACRA_0;AMX 30 (prototype tourelle T 142)
 fr_amx_30_ACRA_1;AMX 30
@@ -13973,10 +13977,6 @@ uk_rooikat_105_td_shop;Rooikat 105
 uk_rooikat_105_td_0;Rooikat 105
 uk_rooikat_105_td_1;Rooikat 105
 uk_rooikat_105_td_2;Light tank
-fr_aml_90_shop;AML 90
-fr_aml_90_0;Panhard | Automitrailleuse Légère AML 90
-fr_aml_90_1;AML 90
-fr_aml_90_2;Light tank
 it_otobreda_sidam_25_mistral_shop;SIDAM 25 (Mistral)
 it_otobreda_sidam_25_mistral_0;Sistema Italiano Difesa Aerea Mobile, 25mm (Mistral)
 it_otobreda_sidam_25_mistral_1;SIDAM 25

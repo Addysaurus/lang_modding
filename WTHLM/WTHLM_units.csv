@@ -1559,7 +1559,7 @@ shop/group/tornado_ids_it_group;A-200A (1995) / C (RET8)
 
 shop/group/fr_hotchkiss_fcm_group;AMC 34 / H 35 / FCM 36
 shop/group/fr_mars_hot_group;MARS 15 / Char 13t-75 (HOT)
-shop/group/fr_amx_sk_group;AMX 10RC / SK105-A2
+shop/group/fr_amx_sk_group;A.M.X. 10 RC / SK105-A2
 shop/group/fr_lorraine_bat_group;Char 40t / 25t
 shop/group/fr_amx_30_group;AMX 30B2 / B2 BRENUS
 shop/group/fr_leclerc_group;Leclerc S1 / S2
@@ -8381,6 +8381,18 @@ fr_amx_m4_shop;Char M. 4 A.M.X.
 fr_amx_m4_0;Atelier de construction d'Issy-les-Moulineaux | Char moyen M. 4 A.M.X.
 fr_amx_m4_1;Char M. 4 A.M.X.
 fr_amx_m4_2;Medium Tank
+fr_amx_10p_shop;A.M.X. 10 P
+fr_amx_10p_0;Atelier de construction d'Issy-les-Moulineaux | Engin blindé léger personnel A.M.X. 10 P
+fr_amx_10p_1;A.M.X. 10 P
+fr_amx_10p_2;IFV
+fr_amx_10m_acra_shop;A.M.X. 10 M (ACRA)
+fr_amx_10m_acra_0;Atelier de construction d'Issy-les-Moulineaux | Engin blindé léger missile A.M.X. 10 M avec système d'arme ACRA
+fr_amx_10m_acra_1;A.M.X. 10 M
+fr_amx_10m_acra_2;ATMC
+fr_amx_10rc_shop;A.M.X. 10 RC
+fr_amx_10rc_0;Atelier de construction d'Issy-les-Moulineaux | Vehicule à roues-canon A.M.X. 10 RC
+fr_amx_10rc_1;A.M.X. 10 RC
+fr_amx_10rc_2;Light Tank
 fr_lorraine_100_shop;C.A. 100 Lorraine
 fr_lorraine_100_0;Direction des Etudes et Fabrication d'Armement | Canon d'assaut de 100 Lorraine
 fr_lorraine_100_1;C.A. 100 Lorraine
@@ -8423,10 +8435,6 @@ fr_amx_50_foch_shop;C.A. 120 A.M.X.
 fr_amx_50_foch_0;Atelier de construction d'Issy-les-Moulineaux | Auto-canon de 120 A.M.X.
 fr_amx_50_foch_1;C.A. 120 A.M.X.
 fr_amx_50_foch_2;SPG
-fr_amx_10m_acra_shop;A.M.X. 10 M (ACRA)
-fr_amx_10m_acra_0;Atelier de construction d'Issy-les-Moulineaux | Engin blindé léger missile A.M.X. 10 M avec système d'arme ACRA
-fr_amx_10m_acra_1;A.M.X. 10 M
-fr_amx_10m_acra_2;ATMC
 fr_somua_sm_shop;Char 50t S.O.M.U.A.
 fr_somua_sm_0;Société d'outillage mécanique et d'usinage d'artillerie SM | Char moyen de 50 tonnes S.O.M.U.A. avec tourelle T.O. 100
 fr_somua_sm_1;Char 50t S.O.M.U.A.
@@ -9967,10 +9975,6 @@ fr_tpk_641_vpc_shop;VLRA 6x6 (KAD)
 fr_tpk_641_vpc_0;ACMAT TPK 6.41 Véhicule Protection de Convoi | Véhicule Léger de Reconnaissance et d'Appui 6x6 (KAD)
 fr_tpk_641_vpc_1;VLRA 6x6 (KAD)
 fr_tpk_641_vpc_2;SPAA
-fr_amx_10p_shop;AMX 10P
-fr_amx_10p_0;Véhicule de combat d'infanterie AMX 10P
-fr_amx_10p_1;AMX 10P
-fr_amx_10p_2;SPAA
 fr_vextra_105_shop;Vextra 105
 fr_vextra_105_0;GIAT Industries Vextra 105
 fr_vextra_105_1;Vextra 105
@@ -10007,10 +10011,6 @@ fr_lvt_bofors_shop;☨ LVT(A)(4) (Bofors)
 fr_lvt_bofors_0;☨ Landing Vehicle, Tracked (Armored) (Mk. 4) (Bofors)
 fr_lvt_bofors_1;☨ LVT(A)(4) (Bofors)
 fr_lvt_bofors_2;Light tank
-fr_amx_10rc_shop;AMX 10RC
-fr_amx_10rc_0;AMX 10RC
-fr_amx_10rc_1;AMX 10RC
-fr_amx_10rc_2;Light tank
 fr_vab_santal_shop;VDAA SANTAL
 fr_vab_santal_0;Véhicule de Défense Anti-Aérienne, Systeme Anti-aerien Autonome Leger
 fr_vab_santal_1;SANTAL

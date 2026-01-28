@@ -8303,16 +8303,44 @@ ah_64d_netherlands_1;◘ AH-64D
 ah_64d_netherlands_2;◘ AH-64
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+fr_hotchkiss_h35_shop;H. 35
+fr_hotchkiss_h35_0;Société Anonyme des Anciens Etablissements Hotchkiss et Compagnie | Char léger modèle 1935 Hotchkiss
+fr_hotchkiss_h35_1;H. 35
+fr_hotchkiss_h35_2;Light Tank
+fr_hotchkiss_h39_shop;H. 39
+fr_hotchkiss_h39_0;Société Anonyme des Anciens Etablissements Hotchkiss et Compagnie | Char léger modèle 1935 Hotchkiss modifié 39
+fr_hotchkiss_h39_1;H. 39
+fr_hotchkiss_h39_2;Light Tank
+fr_hotchkiss_h39_cambronne_shop;H. 39 (14e B.C.C.)
+fr_hotchkiss_h39_cambronne_0;Société Anonyme des Anciens Etablissements Hotchkiss et Compagnie | Char léger modèle 1935 Hotchkiss modifié 39 (14ème bataillons de chars de combat) «Cambronne»
+fr_hotchkiss_h39_cambronne_1;H. 39
+fr_hotchkiss_h39_cambronne_2;Light cavalry tank
 fr_saint_chamond_shop;St.-Chamond mle. 1918
 fr_saint_chamond_0;Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918
 fr_saint_chamond_1;St.-Chamond
 fr_saint_chamond_2;Medium tank
+fr_renault_r39_shop;R. 35 (37 S.A. 38)
+fr_renault_r39_0;Société anonyme des usines Renault ZM | Char léger modèle 1935 Renault (Canon de 37 mm S.A. modèle 1938)
+fr_renault_r39_1;R. 35
+fr_renault_r39_2;Light Tank
+fr_somua_s35_shop;S. 35
+fr_somua_s35_0;Société d'outillage mécanique et d'usinage d'artillerie A.C. 4 | Char de cavalerie modèle 1935 S.O.M.U.A.
+fr_somua_s35_1;S. 35
+fr_somua_s35_2;Cavalry Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 fr_amd_35_kwk39_shop;☨ le.Pz.Spw. 204 (f) (Kw.K. 39/1)
 fr_amd_35_kwk39_0;☨ Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Kw.K. 39/1 L/60
 fr_amd_35_kwk39_1;☨ le.Pz.Spw. 204 (f)
 fr_amd_35_kwk39_2;Light tank
+fr_b1_bis_shop;B. 1 bis
+fr_b1_bis_0;Atelier de construction de Rueil | Char de bataille B. 1 bis
+fr_b1_bis_1;B. 1 bis
+fr_b1_bis_2;Heavy Tank
+fr_b1_ter_shop;B. 1 ter (n° 101)
+fr_b1_ter_0;Atelier de construction de Rueil | Char de bataille B. 1 ter (Prototype n° 101)
+fr_b1_ter_1;B. 1 ter
+fr_b1_ter_2;Heavy Tank
 fr_amx_13_chaffee_shop;Char 13t (tourelle M 24)
 fr_amx_13_chaffee_0;Atelier de construction d'Issy-les-Moulineaux | Char à tourelle M 24 sur châssis 13 tonnes modèle 51
 fr_amx_13_chaffee_1;Char 13t
@@ -10107,22 +10135,6 @@ fr_cckw_353_bofors_shop;GMC CCKW 353 (M1)
 fr_cckw_353_bofors_0;GMC CCKW 353 (M1)
 fr_cckw_353_bofors_1;CCKW 353 (M1)
 fr_cckw_353_bofors_2;SPAA
-fr_somua_s35_shop;S 35
-fr_somua_s35_0;Char de cavalerie SOMUA 1935 S
-fr_somua_s35_1;S 35
-fr_somua_s35_2;Medium tank
-fr_hotchkiss_h35_shop;H 35
-fr_hotchkiss_h35_0;Char léger Hotchkiss modèle 1935 H
-fr_hotchkiss_h35_1;H 35
-fr_hotchkiss_h35_2;Light tank
-fr_hotchkiss_h39_cambronne_shop;H 39 (14e BCC)
-fr_hotchkiss_h39_cambronne_0;"Char léger Hotchkiss modèle 1935 H modifié 39 (14e BCC) ""Cambronne"""
-fr_hotchkiss_h39_cambronne_1;H 39
-fr_hotchkiss_h39_cambronne_2;Light tank
-fr_hotchkiss_h39_shop;H 39
-fr_hotchkiss_h39_0;Char léger Hotchkiss modèle 1935 H modifié 39
-fr_hotchkiss_h39_1;H 39
-fr_hotchkiss_h39_2;Light tank
 fr_somua_sau40_shop;SAu 40
 fr_somua_sau40_0;Canon automoteur de 75 mm SAu 40
 fr_somua_sau40_1;SAu 40
@@ -10159,10 +10171,6 @@ fr_amr_35_zt3_shop;AMR 35 ZT 3
 fr_amr_35_zt3_0;Automitrailleuse de Reconnaissance AMR 35 Z T3
 fr_amr_35_zt3_1;AMR 35 ZT 3
 fr_amr_35_zt3_2;SPG
-fr_renault_r39_shop;R 35 (SA 38)
-fr_renault_r39_0;Char léger d'accompagnement 1935 R (SA 38)
-fr_renault_r39_1;R 35 (SA 38)
-fr_renault_r39_2;Light tank
 fr_renault_d2_shop;D2
 fr_renault_d2_0;Char moyen D2
 fr_renault_d2_1;D2
@@ -10175,14 +10183,6 @@ fr_amc_35_shop;AMC 35
 fr_amc_35_0;Automitrailleuse de combat Renault AMC 35
 fr_amc_35_1;AMC 35
 fr_amc_35_2;Light tank
-fr_b1_ter_shop;B1 ter
-fr_b1_ter_0;Char de bataille B1 ter
-fr_b1_ter_1;B1 ter
-fr_b1_ter_2;Heavy tank
-fr_b1_bis_shop;B1 bis
-fr_b1_bis_0;Char de bataille B1 bis
-fr_b1_bis_1;B1 bis
-fr_b1_bis_2;Heavy tank
 fr_char_2c_shop;2C
 fr_char_2c_0;Société Nouvelle des Forges et Chantiers de la Méditerranée | Char de bataille 2C
 fr_char_2c_1;2C

@@ -1563,7 +1563,7 @@ shop/group/fr_amx_sk_group;A.M.X. 10 RC / SK105-A2
 shop/group/fr_lorraine_bat_group;Lorraine 40t / B.C. 25t
 shop/group/fr_amx_30_group;AMX 30B2 / B2 BRENUS
 shop/group/fr_leclerc_group;Leclerc S1 / S2
-shop/group/fr_b1_2c_group;B1 bis / 2C
+shop/group/fr_b1_2c_group;B. 1 bis / 2 C
 shop/group/fr_arl_jumbo_group;A.R.L. 44 / ☨ M4A3E2
 shop/group/fr_m44_55_group;▄ M44 / 55
 shop/group/fr_auf_acra_group;AMX 30 Au F1 / 10M
@@ -8331,6 +8331,14 @@ fr_lorraine_37l_shop;T.R.C. 37 L (47 S.A. 37)
 fr_lorraine_37l_0;Lorraine | Canon de 47 S.A. modèle 1937 sur T.R.C. 37 L blindé
 fr_lorraine_37l_1;T.R.C. 37 L (47 S.A. 37)
 fr_lorraine_37l_2;SPG
+fr_char_2c_bis_shop;2 C bis
+fr_char_2c_bis_0;Société nouvelle des forges et chantiers de la Méditerranée | Char de bataille 2 C bis
+fr_char_2c_bis_1;2 C bis
+fr_char_2c_bis_2;Heavy Tank
+fr_char_2c_shop;2 C
+fr_char_2c_0;Société nouvelle des forges et chantiers de la Méditerranée | Char de bataille 2 C
+fr_char_2c_1;2 C
+fr_char_2c_2;Heavy Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 fr_amd_35_kwk39_shop;☨ le.Pz.Spw. 204 (f) (Kw.K. 39/1)
@@ -10183,14 +10191,6 @@ fr_amc_35_shop;AMC 35
 fr_amc_35_0;Automitrailleuse de combat Renault AMC 35
 fr_amc_35_1;AMC 35
 fr_amc_35_2;Light tank
-fr_char_2c_shop;2C
-fr_char_2c_0;Société Nouvelle des Forges et Chantiers de la Méditerranée | Char de bataille 2C
-fr_char_2c_1;2C
-fr_char_2c_2;Heavy tank
-fr_char_2c_bis_shop;2C bis
-fr_char_2c_bis_0;Société Nouvelle des Forges et Chantiers de la Méditerranée | Char de bataille 2C bis
-fr_char_2c_bis_1;2C
-fr_char_2c_bis_2;Heavy tank
 a_20g_30_ussr_shop;▂ A-20G-25-DO
 a_20g_30_ussr_0;▂ A-20G-25-DO Khevok
 a_20g_30_ussr_1;▂ A-20G

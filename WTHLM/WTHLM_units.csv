@@ -1824,13 +1824,13 @@ uk_mark_v_event_shop;Mk. V (Male)
 uk_mark_v_event_0;Metropolitan Amalgamated Railway Carriage and Wagon Company | Tank, Mk. V (Male)
 uk_mark_v_event_1;Mk. V (Male)
 uk_mark_v_event_2;Medium tank
-uk_saint_chamond_shop;St.-Chamond mle. 1918
+uk_saint_chamond_shop;St. Chamond mle. 1918
 uk_saint_chamond_0;Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918
-uk_saint_chamond_1;St.-Chamond
+uk_saint_chamond_1;St. Chamond
 uk_saint_chamond_2;Medium tank
-uk_saint_chamond_event_shop;St.-Chamond mle. 1918
+uk_saint_chamond_event_shop;St. Chamond mle. 1918
 uk_saint_chamond_event_0;Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918
-uk_saint_chamond_event_1;St.-Chamond
+uk_saint_chamond_event_1;St. Chamond
 uk_saint_chamond_event_2;Medium tank
 zeppelin_shop;L 30
 zeppelin_0;Luftschiffbau Zeppelin LZ 62 | Militärluftschiff Typ R | L 30
@@ -8315,9 +8315,9 @@ fr_hotchkiss_h39_cambronne_shop;H. 39 (14e B.C.C.)
 fr_hotchkiss_h39_cambronne_0;Société Anonyme des Anciens Etablissements Hotchkiss et Compagnie | Char léger modèle 1935 Hotchkiss modifié 39 (14ème bataillons de chars de combat) «Cambronne»
 fr_hotchkiss_h39_cambronne_1;H. 39
 fr_hotchkiss_h39_cambronne_2;Light cavalry tank
-fr_saint_chamond_shop;St.-Chamond mle. 1918
+fr_saint_chamond_shop;St. Chamond mle. 1918
 fr_saint_chamond_0;Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918
-fr_saint_chamond_1;St.-Chamond
+fr_saint_chamond_1;St. Chamond
 fr_saint_chamond_2;Medium tank
 fr_renault_r39_shop;R. 35 (37 S.A. 38)
 fr_renault_r39_0;Société anonyme des usines Renault ZM | Char léger modèle 1935 Renault (Canon de 37 mm S.A. modèle 1938)
@@ -8327,6 +8327,10 @@ fr_somua_s35_shop;S. 35
 fr_somua_s35_0;Société d'outillage mécanique et d'usinage d'artillerie A.C. 4 | Char de cavalerie modèle 1935 S.O.M.U.A.
 fr_somua_s35_1;S. 35
 fr_somua_s35_2;Cavalry Tank
+fr_lorraine_37l_shop;T.R.C. 37 L (47 S.A. 37)
+fr_lorraine_37l_0;Lorraine | Canon de 47 S.A. modèle 1937 sur T.R.C. 37 L blindé
+fr_lorraine_37l_1;T.R.C. 37 L (47 S.A. 37)
+fr_lorraine_37l_2;SPG
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 fr_amd_35_kwk39_shop;☨ le.Pz.Spw. 204 (f) (Kw.K. 39/1)
@@ -10163,10 +10167,6 @@ fr_amc_34_shop;AMC 34 (APX 1)
 fr_amc_34_0;Automitrailleuse de combat AMC 34 (APX 1)
 fr_amc_34_1;AMC 34
 fr_amc_34_2;Light tank
-fr_lorraine_37l_shop;CDC 37L
-fr_lorraine_37l_0;Chasseur de Chars Lorraine 37
-fr_lorraine_37l_1;CDC 37L
-fr_lorraine_37l_2;SPG
 fr_amr_35_zt3_shop;AMR 35 ZT 3
 fr_amr_35_zt3_0;Automitrailleuse de Reconnaissance AMR 35 Z T3
 fr_amr_35_zt3_1;AMR 35 ZT 3

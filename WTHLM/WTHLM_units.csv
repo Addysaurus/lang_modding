@@ -1557,7 +1557,7 @@ shop/group/fiat_g91_group;G.91 pre-serie / R/1
 shop/group/fiat_g91y_group;G.91 Y / YS
 shop/group/tornado_ids_it_group;A-200A (1995) / C (RET8)
 
-shop/group/fr_hotchkiss_fcm_group;AMC 34 / H 35 / FCM 36
+shop/group/fr_hotchkiss_fcm_group;A.M.C. 34 / H. 35 / F.C.M. 36
 shop/group/fr_mars_hot_group;MARS 15 / Char 13t-75 (HOT)
 shop/group/fr_amx_sk_group;A.M.X. 10 RC / SK105-A2
 shop/group/fr_lorraine_bat_group;Lorraine 40t / B.C. 25t
@@ -8303,6 +8303,10 @@ ah_64d_netherlands_1;◘ AH-64D
 ah_64d_netherlands_2;◘ AH-64
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+fr_amc_34_shop;A.M.C. 34 (A.P.X. 1)
+fr_amc_34_0;Société anonyme des usines Renault Y.R. | Automitrailleuse de cavalerie type combat modèle 1934 avec tourelle A.P.X. 1
+fr_amc_34_1;A.M.C. 34
+fr_amc_34_2;Cavalry Armored Car
 fr_hotchkiss_h35_shop;H. 35
 fr_hotchkiss_h35_0;Société Anonyme des Anciens Etablissements Hotchkiss et Compagnie | Char léger modèle 1935 Hotchkiss
 fr_hotchkiss_h35_1;H. 35
@@ -8315,12 +8319,20 @@ fr_hotchkiss_h39_cambronne_shop;H. 39 (14e B.C.C.)
 fr_hotchkiss_h39_cambronne_0;Société Anonyme des Anciens Etablissements Hotchkiss et Compagnie | Char léger modèle 1935 Hotchkiss modifié 39 (14ème bataillons de chars de combat) «Cambronne»
 fr_hotchkiss_h39_cambronne_1;H. 39
 fr_hotchkiss_h39_cambronne_2;Light cavalry tank
+fr_fcm_36_shop;F.C.M. 36
+fr_fcm_36_0;Société nouvelle des forges et chantiers de la Méditerranée | Char léger modèle 1936 F.C.M.
+fr_fcm_36_1;F.C.M. 36
+fr_fcm_36_2;Infantry tank
+fr_amc_35_shop;A.M.C. 35
+fr_amc_35_0;Société anonyme des usines Renault A.C.G. 1 | Automitrailleuse de cavalerie type combat modèle 1935
+fr_amc_35_1;A.M.C. 35
+fr_amc_35_2;Cavalry Armored Car
 fr_saint_chamond_shop;St. Chamond mle. 1918
 fr_saint_chamond_0;Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918
 fr_saint_chamond_1;St. Chamond
 fr_saint_chamond_2;Medium tank
 fr_renault_r39_shop;R. 35 (37 S.A. 38)
-fr_renault_r39_0;Société anonyme des usines Renault ZM | Char léger modèle 1935 Renault (Canon de 37 mm S.A. modèle 1938)
+fr_renault_r39_0;Société anonyme des usines Renault Z.M. | Char léger modèle 1935 Renault (Canon de 37 mm S.A. modèle 1938)
 fr_renault_r39_1;R. 35
 fr_renault_r39_2;Light Tank
 fr_somua_s35_shop;S. 35
@@ -10035,10 +10047,6 @@ fr_m4a1_sherman_fl_10_shop;☨ M4A1 (FL 10)
 fr_m4a1_sherman_fl_10_0;☨ Char moyen M4A1 Sherman (tourelle FL 10)
 fr_m4a1_sherman_fl_10_1;☨ M4A1
 fr_m4a1_sherman_fl_10_2;Medium tank
-fr_fcm_36_shop;FCM 36
-fr_fcm_36_0;Char léger d'accompagnement FCM 36
-fr_fcm_36_1;FCM 36
-fr_fcm_36_2;Light tank
 fr_vbci2_mct30_shop;VBCI MK2 (MCT-30)
 fr_vbci2_mct30_0;"Véhicule Blindé de Combat d'Infanterie MK2 (MCT-30) ""Al-Wajbah"""
 fr_vbci2_mct30_1;VBCI MK2
@@ -10171,10 +10179,6 @@ fr_amd_35_shop;AMD 35
 fr_amd_35_0;Automitrailleuse de découverte AMD 35
 fr_amd_35_1;AMD 35
 fr_amd_35_2;Light tank
-fr_amc_34_shop;AMC 34 (APX 1)
-fr_amc_34_0;Automitrailleuse de combat AMC 34 (APX 1)
-fr_amc_34_1;AMC 34
-fr_amc_34_2;Light tank
 fr_amr_35_zt3_shop;AMR 35 ZT 3
 fr_amr_35_zt3_0;Automitrailleuse de Reconnaissance AMR 35 Z T3
 fr_amr_35_zt3_1;AMR 35 ZT 3
@@ -10187,10 +10191,6 @@ fr_m4a4_cn_75_50_shop;M4A4T (SA 50)
 fr_m4a4_cn_75_50_0;M4A4T (SA 50)
 fr_m4a4_cn_75_50_1;M4A4T (SA 50)
 fr_m4a4_cn_75_50_2;Medium tank
-fr_amc_35_shop;AMC 35
-fr_amc_35_0;Automitrailleuse de combat Renault AMC 35
-fr_amc_35_1;AMC 35
-fr_amc_35_2;Light tank
 a_20g_30_ussr_shop;▂ A-20G-25-DO
 a_20g_30_ussr_0;▂ A-20G-25-DO Khevok
 a_20g_30_ussr_1;▂ A-20G

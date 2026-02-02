@@ -1,6 +1,9 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
 shop/group/il_magach_1_2_group;2 / 1 חגמ
+shop/group/il_magach_3_6_group;6 / 3 חגמ
+shop/group/il_magach_6a_5_group;5 / א 6 חגמ
+shop/group/il_magach_6_group;(M261) 6 / ב 6 / ר 6 חגמ
 shop/group/il_tiran_4_group;ש 4 / 4 ןריט
 shop/group/il_gimel_tiran_group;6 ןריט / ג לק טוש
 
@@ -49,6 +52,14 @@ f_16i_sufa_2; F-16
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+il_m_51_shop;(1975) 51-מ
+il_m_51_0;Lima Locomotive Works | (1975) 51-מ ןמרש קנט
+il_m_51_1;51-מ
+il_m_51_2;Medium Tank
+il_m_51_w_shop;(M4A3) 51-מ
+il_m_51_w_0;Highland Park Ford Plant | (M4A3 hull) 51-מ ןמרש קנט
+il_m_51_w_1;51-מ
+il_m_51_w_2;Medium Tank
 il_amx_13_75_shop;13 סכמא 
 il_amx_13_75_0; Atelier de construction de Roanne | 13 סכמא לק קנט
 il_amx_13_75_1;13 סכמא 
@@ -61,6 +72,42 @@ il_magach_2_shop;2 חגמ
 il_magach_2_0;Chrysler Defense | M48 A2 קנט | 2 חגמ קנט
 il_magach_2_1;2 חגמ
 il_magach_2_2;MBT
+il_magach_3_idf_shop;3 חגמ
+il_magach_3_idf_0;Chrysler Defense | M48 A3 קנט | 3 חגמ קנט
+il_magach_3_idf_1;3 חגמ
+il_magach_3_idf_2;MBT
+il_magach_3_shop;(ןטלב) 3 חגמ
+il_magach_3_0;Chrysler Defense | M48 A3 קנט | (ןטלב) 3 חגמ קנט
+il_magach_3_1;3 חגמ
+il_magach_3_2;MBT
+us_magach_3_shop;(ןטלב) 3 חגמ ▃
+us_magach_3_0;▃ Chrysler Defense | M48 A3 קנט | (ןטלב) 3 חגמ קנט
+us_magach_3_1;3 חגמ ▃
+us_magach_3_2;MBT
+il_magach_6_shop;6 חגמ
+il_magach_6_0;Chrysler Defense | M60 קנט | 6 חגמ קנט
+il_magach_6_1;6 חגמ
+il_magach_6_2;MBT
+il_magach_6a_shop;א 6 חגמ
+il_magach_6a_0;Chrysler Defense | M60 A1 קנט | א 6 חגמ קנט
+il_magach_6a_1;א 6 חגמ
+il_magach_6a_2;MBT
+il_magach_5_shop;5 חגמ
+il_magach_5_0;Chrysler Defense | M48 A5 קנט | 5 חגמ קנט
+il_magach_5_1;5 חגמ
+il_magach_5_2;MBT
+il_magach_6r_shop;ר 6 חגמ
+il_magach_6r_0;Chrysler Defense | M60 קנט | ר 6 חגמ קנט
+il_magach_6r_1;ר 6 חגמ
+il_magach_6r_2;MBT
+il_magach_6b_shop;ב 6 חגמ
+il_magach_6b_0;Chrysler Defense | M60 A1 קנט | ב 6 חגמ קנט
+il_magach_6b_1;ב 6 חגמ
+il_magach_6b_2;MBT
+il_magach_6_rocket_shop;(M261) 6 חגמ
+il_magach_6_rocket_0;Chrysler Defense | M60 קנט | (M261 19-Round Lightweight Launcher) 6 חגמ קנט
+il_magach_6_rocket_1;6 חגמ
+il_magach_6_rocket_2;MBT
 il_aml_90_shop;90 למא 
 il_aml_90_0; Panhard | 90 למא תינוירש
 il_aml_90_1;90 למא 

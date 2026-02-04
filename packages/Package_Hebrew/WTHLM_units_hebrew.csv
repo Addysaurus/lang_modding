@@ -8,6 +8,9 @@ shop/group/il_magach_6m_c_group;ג / מ 6 חגמ
 shop/group/il_magach_batash_7_group;ג 7 / ש״טב לג ב 6 חגמ
 shop/group/il_tiran_4_group;ש 4 / 4 ןריט
 shop/group/il_gimel_tiran_group;6 ןריט / ג לק טוש
+shop/group/il_merkava_1_2_group;ב 2 / רפושמ 1 ןמיס הבכרמ
+shop/group/il_merkava_3_group;ז״ב ב / ח״מר 3 ןמיס הבכרמ
+shop/group/il_merkava_4_group;"""LIC"" ב / ב 4 ןמיס הבכרמ"
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 
@@ -180,9 +183,9 @@ il_tiran_6_shop;ןריט 6
 il_tiran_6_0;Ural'skim vagonostroityel'nym zavodom imyeni F. È. Dzyeržinskogo שומיחה | 6 ןריט קנט
 il_tiran_6_1;ןריט 6
 il_tiran_6_2;MBT
-il_m113_hvms_shop;M113 A2 (HVMS 60)
-il_m113_hvms_0;"תיאבצה היישעתה | (60 mm Hyper-Velocity Medium Support Weapon System) ""סלדרב"" M113 A2 ש׳מגנ"
-il_m113_hvms_1;M113 A2 (HVMS 60)
+il_m113_hvms_shop;(HVMS 60) סלדרב
+il_m113_hvms_0;תיאבצה היישעתה | M113 A2 ש׳מגנ | (60 mm Hyper-Velocity Medium Support Weapon System) סלדרב ש׳מגנ
+il_m113_hvms_1;(HVMS 60) סלדרב
 il_m113_hvms_2;Light Tank
 it_m47_105_shop; M47 RKM
 it_m47_105_0; Detroit Arsenal / הדלפ תוקיציו תכתמ תוישעת ןדרוא + תיאבצה היישעתה | M47 RKM
@@ -194,10 +197,42 @@ il_merkava_mk_1_shop;1 ןמיס הבכרמ
 il_merkava_mk_1_0;7000 הקזחאו םוקיש זכרמ | 1 ןמיס הבכרמ קנט
 il_merkava_mk_1_1;1 ןמיס הבכרמ
 il_merkava_mk_1_2;MBT
+il_merkava_mk_1b_shop;רפושמ 1 ןמיס הבכרמ
+il_merkava_mk_1b_0;7000 הקזחאו םוקיש זכרמ | רפושמ 1 ןמיס הבכרמ קנט
+il_merkava_mk_1b_1;1 ןמיס הבכרמ
+il_merkava_mk_1b_2;MBT
+il_merkava_mk_2b_early_shop;(early) ב 2 ןמיס הבכרמ
+il_merkava_mk_2b_early_0;7000 הקזחאו םוקיש זכרמ | (early) ב 2 ןמיס הבכרמ קנט
+il_merkava_mk_2b_early_1;ב 2 ןמיס הבכרמ
+il_merkava_mk_2b_early_2;MBT
 il_merkava_mk_2d_shop;ש״טבל ב 2 ןמיס הבכרמ
 il_merkava_mk_2d_0;7000 הקזחאו םוקיש זכרמ | ש״טבל ב 2 ןמיס הבכרמ קנט
 il_merkava_mk_2d_1;2 ןמיס הבכרמ
 il_merkava_mk_2d_2;MBT
+il_merkava_mk_3b_shop;ח״מר 3 ןמיס הבכרמ
+il_merkava_mk_3b_0;7000 הקזחאו םוקיש זכרמ | ח״מר 3 ןמיס הבכרמ קנט
+il_merkava_mk_3b_1;3 ןמיס הבכרמ
+il_merkava_mk_3b_2;MBT
+il_merkava_mk_3c_shop;ז״ב ב 3 ןמיס הבכרמ
+il_merkava_mk_3c_0;7000 הקזחאו םוקיש זכרמ | ז״ב ב 3 ןמיס הבכרמ קנט
+il_merkava_mk_3c_1;ב 3 ןמיס הבכרמ
+il_merkava_mk_3c_2;MBT
+il_merkava_mk_3_raam_segol_shop;(לוגס םער) ד 3 ןמיס הבכרמ
+il_merkava_mk_3_raam_segol_0;7000 הקזחאו םוקיש זכרמ | (לוגס םער) ז״ב ד 3 ןמיס הבכרמ קנט
+il_merkava_mk_3_raam_segol_1;ד 3 ןמיס הבכרמ
+il_merkava_mk_3_raam_segol_2;MBT
+il_merkava_mk_4b_shop;ב 4 ןמיס הבכרמ
+il_merkava_mk_4b_0;7000 הקזחאו םוקיש זכרמ | ב 4 ןמיס הבכרמ קנט
+il_merkava_mk_4b_1;ב 4 ןמיס הבכרמ
+il_merkava_mk_4b_2;MBT
+il_merkava_mk_4_lic_shop;"""LIC"" ב 4 ןמיס הבכרמ"
+il_merkava_mk_4_lic_0;"7000 הקזחאו םוקיש זכרמ | ""Low Intensity Conflict"" ב 4 ןמיס הבכרמ קנט"
+il_merkava_mk_4_lic_1;ב 4 ןמיס הבכרמ
+il_merkava_mk_4_lic_2;MBT
+il_merkava_mk_4m_shop;מ 4 ןמיס הבכרמ
+il_merkava_mk_4m_0;7000 הקזחאו םוקיש זכרמ | חור ליעמ 4 ןמיס הבכרמ קנט
+il_merkava_mk_4m_1;מ 4 ןמיס הבכרמ
+il_merkava_mk_4m_2;MBT
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 il_sabra_mk1_shop;1 ןמיס הרבס

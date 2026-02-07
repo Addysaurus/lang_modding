@@ -18,6 +18,28 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.16.02 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - Corrected the caliber tag of the **DT** machine gun to 7.62 mm.
+
+## 1.16.01 - 22-01-2026
+
+### Vehicles:
+
+- #### Additions:
+
+    - **ELC 901**
+    - **Mosquito J30**
+    - **Ar-2** (in all of the time this mod has existed which, if you count the personal project part, is over 2 years, I somehow have forgotten to include this plane that has been in the game forever)
+
+- #### Changes:
+
+    - **Mosquito J30** → **J 30**. Statcard name → **de Havilland Aircraft Company D.H. 98 | J 30**.
+
 ## 1.16.01 - 22-01-2026
 
 ### Vehicles:

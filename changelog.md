@@ -18,6 +18,14 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.16.02 - UNRELEASED
+
+### Weaponry:
+
+- #### Changes:
+
+    - Corrected the caliber tag of the **DT** machine gun to 7.62 mm.
+
 ## 1.16.01 - 22-01-2026
 
 ### Vehicles:

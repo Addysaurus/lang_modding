@@ -27,7 +27,7 @@ All dates are listed in DD-MM-YYYY format.
     - Changed the Indian roundel back to the Wheel of Dharma because even though it looks like a pirate ship steering wheel ingame, the Khanda is a Sikh religious symbol.
     - **T-72B3 (Aryena-È)** → **T-72B3 (Aryena-M)**. Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6-1 «Aryena-M»)**.
     - **Garford**: Statcard name → **Garford Motor Truck Company / Putilovskij zavod | Bronirovannyj avtomobil' "Garford"**.
-    - **Su-27SM3** → **Su-27SM**. Statcard name → **Kompaniâ «Sukhoj» | izd. T-10SM | Samolyet Su-27SM** ([Report]()).
+    - **Su-27SM3** → **Su-27SM**. Statcard name → **Kompaniâ «Sukhoj» | izd. T-10SM | Samolyet Su-27SM** ([Report](https://github.com/Addysaurus/lang_modding/issues/120)).
     - **PAO «Kompaniâ Sukhoj»** (manufacturer) → **Kompaniâ «Sukhoj»**.
 
 ### Weaponry:

@@ -207,9 +207,16 @@ weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredTe
 
 //FRANCE GUNS
 weapons/7_62mm_FN_MAG58_user_machinegun;<color=@userlogColoredText>7.62 mm</color> FN MAG 58 <color=#ff6f00>MG</color>
-weapons/37mm_SA_38_user_cannon;<color=@userlogColoredText>37 mm</color> Canon de 37 mm S.A. modèle 1938 <color=#ff6f00>CNN</color>
+weapons/37mm_SA_18_user_cannon;<color=@userlogColoredText>37 mm</color> Canon de 37 mm semi-automatique modèle 1918 <color=#ff6f00>CNN</color>
+weapons/37mm_SA_38_user_cannon;<color=@userlogColoredText>37 mm</color> Canon de 37 mm semi-automatique modèle 1938 <color=#ff6f00>CNN</color>
 weapons/40mm_CTC_user_cannon;<color=@userlogColoredText>40 mm</color> 40 mm Cased Telescoped Cannon <color=#ff6f00>ACNN</color>
-weapons/47mm_SA_37_user_cannon;<color=@userlogColoredText>47 mm</color> Canon de 47 mm S.A. modèle 1937 <color=#ff6f00>CNN</color>
+weapons/47mm_SA_37_user_cannon;<color=@userlogColoredText>47 mm</color> Canon de 47 mm semi-automatique modèle 1937 <color=#ff6f00>CNN</color>
+weapons/75mm_SA_49_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75 mm semi-automatique modèle 1949 <color=#ff6f00>CNN</color>
+weapons/75mm_SA_50_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75 mm semi-automatique modèle 1950 <color=#ff6f00>CNN</color>
+weapons/75mm_SA_50_M4A4_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75 mm semi-automatique modèle 1950 <color=#ff6f00>CNN</color>
+weapons/90mm_SA45_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90 mm semi-automatique modèle 1945 <color=#ff6f00>CNN</color>
+weapons/90mm_SA45_ARL_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90 mm semi-automatique modèle 1945 <color=#ff6f00>CNN</color>
+weapons/90mm_SA47_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90 mm semi-automatique modèle 1947 <color=#ff6f00>CNN</color>
 weapons/100mm_45_mle_1930_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1930 <color=#ff6f00>CNN</color>
 weapons/100mm_45_mle_1930_naval_user_cannon/short;Canon de 100 mm/45 mle. 1930
 weapons/100mm_45_mle_1933_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1933 <color=#ff6f00>CNN</color>
@@ -5023,7 +5030,6 @@ weapons/12_7mm_NSV_t_72_user_cannon;<color=@userlogColoredText>12.7 mm</color> 6
 weapons/12_7mm_6P50_Kord_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 6P49 | Kort-T <color=#ff6f00>MG</color>
 weapons/12_7mm_6P50_Kord_t_72_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 6P49 | Kort-T <color=#ff6f00>MG</color>
 weapons/12_7mm_6P50_Kord_t_90m_2020_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 6P49MT | Kort-MT <color=#ff6f00>MG</color>
-weapons/37mm_SA_18_user_cannon;37 mm SA18 L/21 cannon
 37mm_mle1892;Mle1892
 37mm_mle1937;Mle1937
 weapons/164mm_nord_s11_rocket_launcher;SS.11 ATGM
@@ -5138,9 +5144,6 @@ weapons/105mm_CN_105_F1_user_cannon;105 mm CN-105-F1 cannon
 105mm_oe_60;OE 105-60
 105mm_ofph_f1;OFPH 105 F1
 weapons/7_5mm_AAT_52_user_machinegun;7.5 mm AAT-52 machine gun
-weapons/90mm_SA45_ARL_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90mm SA 45 <color=#ff6f00>CNN</color>
-weapons/90mm_SA45_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90mm SA 45 <color=#ff6f00>CNN</color>
-weapons/90mm_SA47_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90mm SA 47 <color=#ff6f00>CNN</color>
 90mm_sa45_apc;90 mm Obus de rupture
 90mm_sa45_he;90 mm Obus explosif
 weapons/20mm_M_693_user_cannon;20 mm 20F2 automatic cannon
@@ -5151,9 +5154,6 @@ weapons/7_62mm_AAN_F1_user_machinegun;7.62 mm A-A-F1N machine gun
 weapons/75mm_SA_46_user_cannon;75 mm SA 44 cannon
 75mm_obus_de_rupture;75 mm OR Mle.44
 75mm_obus_explosif;75 mm OE Mle.28
-weapons/75mm_SA_49_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75mm SA 49 <color=#ff6f00>CNN</color>
-weapons/75mm_SA_50_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75mm SA 50 L/57 <color=#ff6f00>CNN</color>
-weapons/75mm_SA_50_M4A4_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75mm SA 50 L/57 <color=#ff6f00>CNN</color>
 75mm_sa50_he;OE Mle 1951
 75mm_pot51a;POT-51A
 75mm_pcot51p;PCOT-51P

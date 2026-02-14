@@ -2,15 +2,16 @@
 //GROUPS
 shop/group/il_magach_1_2_group;2 / 1 חגמ
 shop/group/il_magach_3_6_group;6 / 3 חגמ
-shop/group/il_magach_6a_5_group;5 / א 6 חגמ
-shop/group/il_magach_6_group;(M261) / ב / ר 6 חגמ
-shop/group/il_magach_6m_c_group;ג / מ 6 חגמ
-shop/group/il_magach_batash_7_group;ג 7 / ש״טב לג ב 6 חגמ
+shop/group/il_magach_6a_5_group;5 / א6 חגמ
+shop/group/il_magach_6_group;(M261) ר / ב / ר6 חגמ
+shop/group/il_magach_6m_c_group;ג / מ6 חגמ
+shop/group/il_magach_batash_7_group;ג7 / ש״טב לג ב6 חגמ
+shop/group/il_rochev_tager_group;(רגת) ם״לחז / א בכור
 shop/group/il_tiran_4_group;ש 4 / 4 ןריט
 shop/group/il_gimel_tiran_group;6 ןריט / ג לק טוש
-shop/group/il_merkava_1_2_group;ב 2 / רפושמ 1 ןמיס הבכרמ
+shop/group/il_merkava_1_2_group;ב2 / רפושמ 1 ןמיס הבכרמ
 shop/group/il_merkava_3_group;ז״ב ב / ח״מר 3 ןמיס הבכרמ
-shop/group/il_merkava_4_group;"""LIC"" ב / ב 4 ןמיס הבכרמ"
+shop/group/il_merkava_4_group;"""LIC"" ב / ב4 ןמיס הבכרמ"
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 
@@ -61,8 +62,8 @@ il_m_51_shop;(1975) 51-מ
 il_m_51_0;7000 הקזחאו םוקיש זכרמ / Lima Locomotive Works | (1975) 51-מ ןמרש קנט
 il_m_51_1;51-מ
 il_m_51_2;Medium Tank
-il_m_51_w_shop;(M4A3) 51-מ
-il_m_51_w_0;7000 הקזחאו םוקיש זכרמ / Highland Park Ford Plant | (M4A3 hull) 51-מ ןמרש קנט
+il_m_51_w_shop;(814794-צ) 51-מ
+il_m_51_w_0;7000 הקזחאו םוקיש זכרמ / Highland Park Ford Plant | (814794-צ) 51-מ ןמרש קנט
 il_m_51_w_1;51-מ
 il_m_51_w_2;Medium Tank
 il_amx_13_75_shop;13 סכמא 
@@ -93,45 +94,45 @@ il_magach_6_shop;6 חגמ
 il_magach_6_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 קנט | 6 חגמ קנט
 il_magach_6_1;6 חגמ
 il_magach_6_2;MBT
-il_magach_6a_shop;א 6 חגמ
+il_magach_6a_shop;א6 חגמ
 il_magach_6a_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 A1 קנט | א 6 חגמ קנט
-il_magach_6a_1;א 6 חגמ
+il_magach_6a_1;א6 חגמ
 il_magach_6a_2;MBT
 il_magach_5_shop;5 חגמ
 il_magach_5_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M48 A5 קנט | 5 חגמ קנט
 il_magach_5_1;5 חגמ
 il_magach_5_2;MBT
-il_magach_6r_shop;ר 6 חגמ
+il_magach_6r_shop;ר6 חגמ
 il_magach_6r_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 קנט | ר 6 חגמ קנט
-il_magach_6r_1;ר 6 חגמ
+il_magach_6r_1;ר6 חגמ
 il_magach_6r_2;MBT
-il_magach_6b_shop;ב 6 חגמ
+il_magach_6b_shop;ב6 חגמ
 il_magach_6b_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 A1 E2 קנט | ב 6 חגמ קנט
-il_magach_6b_1;ב 6 חגמ
+il_magach_6b_1;ב6 חגמ
 il_magach_6b_2;MBT
-il_magach_6_rocket_shop;(M261) 6 חגמ
-il_magach_6_rocket_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 קנט | (M261 19-Round Lightweight Launcher) 6 חגמ קנט
-il_magach_6_rocket_1;6 חגמ
+il_magach_6_rocket_shop;(M261) ר6 חגמ
+il_magach_6_rocket_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 קנט | (M261 19-Round Lightweight Launcher) ר6 חגמ קנט
+il_magach_6_rocket_1;ר6 חגמ
 il_magach_6_rocket_2;MBT
-il_magach_6m_shop;ח״דט מ 6 חגמ
+il_magach_6m_shop;ח״דט מ6 חגמ
 il_magach_6m_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 קנט | ח״דט מ 6 חגמ קנט
-il_magach_6m_1;ח״דט מ 6 חגמ
+il_magach_6m_1;ח״דט מ6 חגמ
 il_magach_6m_2;MBT
-il_magach_6c_shop;ג 6 חגמ
+il_magach_6c_shop;ג6 חגמ
 il_magach_6c_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 A3 קנט | ג 6 חגמ קנט
-il_magach_6c_1;ג 6 חגמ
+il_magach_6c_1;ג6 חגמ
 il_magach_6c_2;MBT
-il_magach_6b_gal_batash_shop;ש״טב לג ב 6 חגמ
+il_magach_6b_gal_batash_shop;ש״טב לג ב6 חגמ
 il_magach_6b_gal_batash_0;ןיבלס לעפמ תיאבצה היישעתה / Chrysler Defense | ש״טב לג ב 6 חגמ
-il_magach_6b_gal_batash_1;ב 6 חגמ
+il_magach_6b_gal_batash_1;ב6 חגמ
 il_magach_6b_gal_batash_2;MBT
-il_magach_7c_shop;ג 7 חגמ
+il_magach_7c_shop;ג7 חגמ
 il_magach_7c_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | ג 7 חגמ קנט
-il_magach_7c_1;ג 7 חגמ
+il_magach_7c_1;ג7 חגמ
 il_magach_7c_2;MBT
-il_magach_6b_gal_shop;לג ב 6 חגמ
+il_magach_6b_gal_shop;לג ב6 חגמ
 il_magach_6b_gal_0;7000 הקזחאו םוקיש זכרמ / Chrysler Defense | M60 A1 E2 קנט | לג ב 6 חגמ קנט
-il_magach_6b_gal_1;ב 6 חגמ
+il_magach_6b_gal_1;ב6 חגמ
 il_magach_6b_gal_2;MBT
 il_aml_90_shop;90 למא 
 il_aml_90_0; Panhard | 90 למא תינוירש
@@ -141,24 +142,32 @@ il_centurion_mk_5_shot_shop;5 ןמיס ןוירוטנס 
 il_centurion_mk_5_shot_0; Royal Ordnance Factory Leeds | 5 ןמיס ןוירוטנס קנט
 il_centurion_mk_5_shot_1;5 ןמיס ןוירוטנס 
 il_centurion_mk_5_shot_2;MBT
+il_tcm_20_shop;(TCM-20) ד״לחז
+il_tcm_20_0;White Motor Company | (TCM-20) לזיד הצחמל ילחז
+il_tcm_20_1;(TCM-20) ד״לחז
+il_tcm_20_2;SPAAG
 il_zsu_57_2_shop;2-57-.וי.סא.יז 
-il_zsu_57_2_0; Omskij zavod № 174 im. Vorošilova | 2-57-.וי.סא.יז םיסוטמ דגנ עיינתמ חתות
+il_zsu_57_2_0; Omskij zavod № 174 im. Vorošilova | 2-57-.וי.סא.יז מ״נ ת״מות
 il_zsu_57_2_1;2-57-.וי.סא.יז 
 il_zsu_57_2_2;SPAAG
-il_m163_vulcan_shop;טבוח 
-il_m163_vulcan_0; General Electric Company | טבוח םיסוטמ דגנ עיינתמ חתות
-il_m163_vulcan_1;טבוח 
+il_m163_vulcan_shop;טבוח
+il_m163_vulcan_0;General Electric Company | טבוח מ״נ ת״מות
+il_m163_vulcan_1;טבוח
 il_m163_vulcan_2;SPAAG
 il_m109_shop; M109
-il_m109_0; Cadillac Motor Car Division | M109 עיינתמ חתות
+il_m109_0; Cadillac Motor Car Division | M109 ת״מות
 il_m109_1; M109
 il_m109_2;MBT
 il_m109a1_shop;א בכור
-il_m109a1_0;7000 הקזחאו םוקיש זכרמ / Cadillac Motor Car Division | M109 A1 עיינתמ חתות | א בכור עיינתמ חתות
+il_m109a1_0;7000 הקזחאו םוקיש זכרמ / Cadillac Motor Car Division | M109 A1 ת״מות | א בכור ת״מות
 il_m109a1_1;א בכור
 il_m109a1_2;MBT
+il_ss_11_halftrack_shop;(רגת) ם״לחז
+il_ss_11_halftrack_0;White Motor Company | (רגת) הצחמל ילחז
+il_ss_11_halftrack_1;(רגת) ם״לחז
+il_ss_11_halftrack_2;ATMC
 il_sholef_shop;V1 ףלוש
-il_sholef_0;תוכרעמ םתלוס | V1 ףלוש עיינתמ חתות
+il_sholef_0;תוכרעמ םתלוס | V1 ףלוש ת״מות
 il_sholef_1;V1 ףלוש
 il_sholef_2;SPH
 
@@ -191,14 +200,18 @@ il_tiran_6_shop;ןריט 6
 il_tiran_6_0;Ural'skim vagonostroityel'nym zavodom imyeni F. È. Dzyeržinskogo שומיחה | 6 ןריט קנט
 il_tiran_6_1;ןריט 6
 il_tiran_6_2;MBT
-il_zsu_23_4_shop;4-23-.וי.סא.יז 
-il_zsu_23_4_0;" Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | ""שידנאג"" 4-23-.וי.סא.יז םיסוטמ דגנ עיינתמ חתות"
-il_zsu_23_4_1;4-23-.וי.סא.יז 
+il_zsu_23_4_shop;שידנאג
+il_zsu_23_4_0;Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | 4-23-.וי.סא.יז מ״נ ת״מות | שידנאג מ״נ ת״מות
+il_zsu_23_4_1;שידנאג
 il_zsu_23_4_2;SPAAG
 il_m113_hvms_shop;(HVMS 60) סלדרב
-il_m113_hvms_0;תיאבצה היישעתה | M113 A2 ש׳מגנ | (60 mm Hyper-Velocity Medium Support Weapon System) סלדרב ש׳מגנ
+il_m113_hvms_0;תיאבצה היישעתה / FMC Corporation | M113 A2 ש׳מגנ | (60 mm Hyper-Velocity Medium Support Weapon System) סלדרב ש׳מגנ
 il_m113_hvms_1;(HVMS 60) סלדרב
 il_m113_hvms_2;Light Tank
+il_m113a1_tow_shop;(ףרי׳ג) סלדרב
+il_m113a1_tow_0;FMC Corporation | M113 A1 ש׳מגנ | (ףרי׳ג) ש׳מגנ סלדרב
+il_m113a1_tow_1;(ףרי׳ג) סלדרב
+il_m113a1_tow_2;Light Tank
 it_m47_105_shop; M47 RKM
 it_m47_105_0; Detroit Arsenal / הדלפ תוקיציו תכתמ תוישעת ןדרוא + תיאבצה היישעתה | M47 RKM
 it_m47_105_1; M47 RKM
@@ -213,53 +226,53 @@ il_merkava_mk_1b_shop;רפושמ 1 ןמיס הבכרמ
 il_merkava_mk_1b_0;7000 הקזחאו םוקיש זכרמ | רפושמ 1 ןמיס הבכרמ קנט
 il_merkava_mk_1b_1;1 ןמיס הבכרמ
 il_merkava_mk_1b_2;MBT
-il_merkava_mk_2b_early_shop;(early) ב 2 ןמיס הבכרמ
-il_merkava_mk_2b_early_0;7000 הקזחאו םוקיש זכרמ | (early) ב 2 ןמיס הבכרמ קנט
-il_merkava_mk_2b_early_1;ב 2 ןמיס הבכרמ
+il_merkava_mk_2b_early_shop;(early) ב2 ןמיס הבכרמ
+il_merkava_mk_2b_early_0;7000 הקזחאו םוקיש זכרמ | (early) ב2 ןמיס הבכרמ קנט
+il_merkava_mk_2b_early_1;ב2 ןמיס הבכרמ
 il_merkava_mk_2b_early_2;MBT
-il_merkava_mk_2d_shop;ש״טבל ב 2 ןמיס הבכרמ
-il_merkava_mk_2d_0;7000 הקזחאו םוקיש זכרמ | ש״טבל ב 2 ןמיס הבכרמ קנט
-il_merkava_mk_2d_1;2 ןמיס הבכרמ
+il_merkava_mk_2d_shop;ש״טבל ב2 ןמיס הבכרמ
+il_merkava_mk_2d_0;7000 הקזחאו םוקיש זכרמ | ש״טבל ב2 ןמיס הבכרמ קנט
+il_merkava_mk_2d_1;ב2 ןמיס הבכרמ
 il_merkava_mk_2d_2;MBT
 us_merkava_mk_1_shop;1 ןמיס הבכרמ ▃
 us_merkava_mk_1_0;▃ 7000 הקזחאו םוקיש זכרמ | 1 ןמיס הבכרמ קנט
 us_merkava_mk_1_1;1 ןמיס הבכרמ ▃
 us_merkava_mk_1_2;MBT
-us_merkava_mk_2b_late_shop;(late) ב 2 ןמיס הבכרמ ▃
-us_merkava_mk_2b_late_0;▃ 7000 הקזחאו םוקיש זכרמ | (late) ב 2 ןמיס הבכרמ קנט
-us_merkava_mk_2b_late_1;ב 2 ןמיס הבכרמ ▃
+us_merkava_mk_2b_late_shop;(late) ב2 ןמיס הבכרמ ▃
+us_merkava_mk_2b_late_0;▃ 7000 הקזחאו םוקיש זכרמ | (late) ב2 ןמיס הבכרמ קנט
+us_merkava_mk_2b_late_1;ב2 ןמיס הבכרמ ▃
 us_merkava_mk_2b_late_2;MBT
 il_merkava_mk_3b_shop;ח״מר 3 ןמיס הבכרמ
 il_merkava_mk_3b_0;7000 הקזחאו םוקיש זכרמ | ח״מר 3 ןמיס הבכרמ קנט
 il_merkava_mk_3b_1;3 ןמיס הבכרמ
 il_merkava_mk_3b_2;MBT
-il_merkava_mk_3c_shop;ז״ב ב 3 ןמיס הבכרמ
-il_merkava_mk_3c_0;7000 הקזחאו םוקיש זכרמ | ז״ב ב 3 ןמיס הבכרמ קנט
-il_merkava_mk_3c_1;ב 3 ןמיס הבכרמ
+il_merkava_mk_3c_shop;ז״ב ב3 ןמיס הבכרמ
+il_merkava_mk_3c_0;7000 הקזחאו םוקיש זכרמ | ז״ב ב3 ןמיס הבכרמ קנט
+il_merkava_mk_3c_1;ב3 ןמיס הבכרמ
 il_merkava_mk_3c_2;MBT
-il_merkava_mk_3_raam_segol_shop;(לוגס םער) ד 3 ןמיס הבכרמ
-il_merkava_mk_3_raam_segol_0;7000 הקזחאו םוקיש זכרמ | (לוגס םער) ז״ב ד 3 ןמיס הבכרמ קנט
-il_merkava_mk_3_raam_segol_1;ד 3 ןמיס הבכרמ
+il_merkava_mk_3_raam_segol_shop;(לוגס םער) ד3 ןמיס הבכרמ
+il_merkava_mk_3_raam_segol_0;7000 הקזחאו םוקיש זכרמ | (לוגס םער) ז״ב ד3 ןמיס הבכרמ קנט
+il_merkava_mk_3_raam_segol_1;ד3 ןמיס הבכרמ
 il_merkava_mk_3_raam_segol_2;MBT
-us_merkava_mk_3d_shop;ד 3 ןמיס הבכרמ ▃
-us_merkava_mk_3d_0;▃ 7000 הקזחאו םוקיש זכרמ | ז״ב ד 3 ןמיס הבכרמ קנט
-us_merkava_mk_3d_1;ד 3 ןמיס הבכרמ ▃
+us_merkava_mk_3d_shop;ד3 ןמיס הבכרמ ▃
+us_merkava_mk_3d_0;▃ 7000 הקזחאו םוקיש זכרמ | ז״ב ד3 ןמיס הבכרמ קנט
+us_merkava_mk_3d_1;ד3 ןמיס הבכרמ ▃
 us_merkava_mk_3d_2;MBT
-il_merkava_mk_4b_shop;ב 4 ןמיס הבכרמ
-il_merkava_mk_4b_0;7000 הקזחאו םוקיש זכרמ | ב 4 ןמיס הבכרמ קנט
-il_merkava_mk_4b_1;ב 4 ןמיס הבכרמ
+il_merkava_mk_4b_shop;ב4 ןמיס הבכרמ
+il_merkava_mk_4b_0;7000 הקזחאו םוקיש זכרמ | ב4 ןמיס הבכרמ קנט
+il_merkava_mk_4b_1;ב4 ןמיס הבכרמ
 il_merkava_mk_4b_2;MBT
-il_merkava_mk_4_lic_shop;"""LIC"" ב 4 ןמיס הבכרמ"
-il_merkava_mk_4_lic_0;"7000 הקזחאו םוקיש זכרמ | ""Low Intensity Conflict"" ב 4 ןמיס הבכרמ קנט"
-il_merkava_mk_4_lic_1;ב 4 ןמיס הבכרמ
+il_merkava_mk_4_lic_shop;"""LIC"" ב4 ןמיס הבכרמ"
+il_merkava_mk_4_lic_0;"7000 הקזחאו םוקיש זכרמ | ""Low Intensity Conflict"" ב4 ןמיס הבכרמ קנט"
+il_merkava_mk_4_lic_1;ב4 ןמיס הבכרמ
 il_merkava_mk_4_lic_2;MBT
-il_merkava_mk_4m_shop;מ 4 ןמיס הבכרמ
-il_merkava_mk_4m_0;7000 הקזחאו םוקיש זכרמ | חור ליעמ 4 ןמיס הבכרמ קנט
-il_merkava_mk_4m_1;מ 4 ןמיס הבכרמ
+il_merkava_mk_4m_shop;מ4 ןמיס הבכרמ
+il_merkava_mk_4m_0;7000 הקזחאו םוקיש זכרמ | חור ליעמ4 ןמיס הבכרמ קנט
+il_merkava_mk_4m_1;מ4 ןמיס הבכרמ
 il_merkava_mk_4m_2;MBT
-il_machbet_shop;טבחמ 
-il_machbet_0; לארשיל תיריוואה היישעתה / General Electric Company | טבחמ םיסוטמ דגנ עיינתמ חתות
-il_machbet_1;טבחמ 
+il_machbet_shop;טבחמ
+il_machbet_0;לארשיל תיריוואה היישעתה / General Electric Company | טבחמ מ״נ ת״מות
+il_machbet_1;טבחמ
 il_machbet_2;SPAAG
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
@@ -268,9 +281,9 @@ il_sabra_mk1_0;תיאבצה היישעתה | 1 ןמיס הרבס קנט
 il_sabra_mk1_1;1 ןמיס הרבס
 il_sabra_mk1_2;MBT
 il_mim_72_chaparral_shop;ןוקרד
-il_mim_72_chaparral_0;Ford Aerospace & Communications Corporation | ןוקרד
+il_mim_72_chaparral_0;Ford Aerospace & Communications Corporation | ןוקרד תעיינתמ מ״נ תכרעמ
 il_mim_72_chaparral_1;ןוקרד
-il_mim_72_chaparral_2;SPAA
+il_mim_72_chaparral_2;SPAAG
 il_namer_rcws_30_shop;(RCWS-30) ר״מנ
 il_namer_rcws_30_0;תומדקתמ המיחל תוכרעמ לאפר / 7000 הקזחאו םוקיש זכרמ | (Samson Remote Controlled Weapon Station 30mm) הבכרמ ש״מגנ
 il_namer_rcws_30_1;(RCWS-30) ר״מנ

@@ -29,14 +29,22 @@ All dates are listed in DD-MM-YYYY format.
     - **Garford**: Statcard name → **Garford Motor Truck Company / Putilovskij zavod | Bronirovannyj avtomobil' "Garford"**.
     - **Su-27SM3** → **Su-27SM**. Statcard name → **Kompaniâ «Sukhoj» | izd. T-10SM | Samolyet Su-27SM** ([Report](https://github.com/Addysaurus/lang_modding/issues/120)).
     - **PAO «Kompaniâ Sukhoj»** (manufacturer) → **Kompaniâ «Sukhoj»**.
-    - **75MSSR**: Statcard name → **Komatsu Seisaku KA161 | 75 Shiki Jisō 130mm Tarensō Rokettodan Hasshaki**.
+    - **75MSSR**: Statcard name → **Komatsu Seisaku KA161 | 75 Shiki Jisō 130mm Tarensō Rokettodan Hasshaki ([Report](https://github.com/Addysaurus/lang_modding/issues/121))**.
         - Japanese package: Statcard name → **小松製作 KA161 | 75式自走130mm多連装ロケット弾発射機**.
+    - **Mi-35P**: Statcard name → **Moskovskij vyertolëtnyj zavod im. M. L. Milâ / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet "Fyeniks"** (it is very slightly shorter now by 4 characters).
+    - **Mi-8AMTŠ-VN**: Statcard name → **Moskovskij vyertolëtnyj zavod im. M. L. Milâ | Vyertolyet Mi-8AMTŠ-VN "Sapsan"**.
 
 ### Weaponry:
 
 - #### Changes:
 
     - Corrected the caliber tag of the **DT** machine gun to 7.62 mm.
+
+### Infantry weaponry:
+
+- #### Changes:
+
+    - **M249**: Statcard name → **FN America | Light Machine Gun, 5.56 mm, M249 "Para"**.
 
 ## 1.16.01 - 22-01-2026
 

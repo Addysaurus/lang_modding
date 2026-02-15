@@ -1,5 +1,6 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
+shop/group/so_4050_vautour_iaf_group;N / A רוטוו 
 shop/group/il_magach_1_2_group;2 / 1 חגמ
 shop/group/il_magach_3_6_group;6 / 3 חגמ
 shop/group/il_magach_6a_5_group;5 / א6 חגמ
@@ -20,6 +21,10 @@ shop/group/il_merkava_4_group;"""LIC"" ב / ב4 ןמיס הבכרמ"
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+s_199_shop; S.199
+s_199_0;" Avia Motors C.210 | S.199 ""ןיכס"" (batch 2)"
+s_199_1; S.199
+s_199_2; S.199
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 md_450b_ouragan_iaf_shop;ןגרוא 
@@ -32,8 +37,40 @@ md_450b_ouragan_iaf_29_1;ןגרוא 
 md_450b_ouragan_iaf_29_2;ןגרוא 
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+md_460_saar_shop;רעס
+md_460_saar_0;Avions Marcel Dassault / לארשיל תיריוואה היישעתה | רעס
+md_460_saar_1;רעס
+md_460_saar_2;רעס
+so_4050_vautour_2a_israel_iaf_shop;A רוטוו 
+so_4050_vautour_2a_israel_iaf_0; Société nationale des constructions aéronautiques du Sud-Ouest | A רוטוו
+so_4050_vautour_2a_israel_iaf_1;A רוטוו 
+so_4050_vautour_2a_israel_iaf_2;רוטוו 
+so_4050_vautour_2n_iaf_shop;N רוטוו 
+so_4050_vautour_2n_iaf_0; Société nationale des constructions aéronautiques du Sud-Ouest | N רוטוו
+so_4050_vautour_2n_iaf_1;N רוטוו 
+so_4050_vautour_2n_iaf_2;רוטוו 
+so_4050_vautour_2a_iaf_shop;A רוטוו ☨
+so_4050_vautour_2a_iaf_0;☨ Société nationale des constructions aéronautiques du Sud-Ouest | A רוטוו
+so_4050_vautour_2a_iaf_1;A רוטוו ☨
+so_4050_vautour_2a_iaf_2;רוטוו ☨
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+kfir_c7_shop;C.7 ריפכ
+kfir_c7_0;לארשיל תיריוואה היישעתה | C.7 ריפכ
+kfir_c7_1;C.7 ריפכ
+kfir_c7_2;Kfir
+kfir_canard_shop;תורדג ריפכ
+kfir_canard_0;לארשיל תיריוואה היישעתה | תורדג ריפכ
+kfir_canard_1;תורדג ריפכ
+kfir_canard_2;Kfir
+kfir_c2_shop;C.2 ריפכ
+kfir_c2_0;לארשיל תיריוואה היישעתה | C.2 ריפכ
+kfir_c2_1;C.2 ריפכ
+kfir_c2_2;Kfir
+kfir_c10_colombia_shop;◡ Kfir Block 60
+kfir_c10_colombia_0;◡ לארשיל תיריוואה היישעתה | Kfir Block 60
+kfir_c10_colombia_1;◡ Kfir Block 60
+kfir_c10_colombia_2;◡ Kfir
 nesher_shop;A רשנ
 nesher_0;Avions Marcel Dassault-Breguet Aviation / לארשיל תיריוואה היישעתה | A רשנ
 nesher_1;A רשנ

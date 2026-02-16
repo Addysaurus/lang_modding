@@ -1,5 +1,6 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
+shop/group/md_460_iaf_group;רעס / 2-ב רטסימ רפוס 
 shop/group/so_4050_vautour_iaf_group;N / A רוטוו 
 shop/group/il_magach_1_2_group;2 / 1 חגמ
 shop/group/il_magach_3_6_group;6 / 3 חגמ
@@ -21,12 +22,44 @@ shop/group/il_merkava_4_group;"""LIC"" ב / ב4 ןמיס הבכרמ"
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 4
-s_199_shop; S.199
-s_199_0;" Avia Motors C.210 | S.199 ""ןיכס"" (batch 2)"
-s_199_1; S.199
-s_199_2; S.199
+spitfire_mk9c_iaf_shop;IX רייפטיפס 
+spitfire_mk9c_iaf_0; Vickers Supermarine Type 361 | IX םגד רייפטיפס
+spitfire_mk9c_iaf_1;IX רייפטיפס 
+spitfire_mk9c_iaf_2;רייפטיפס 
+spitfire_lf_mk9e_iaf_shop;(ק״כ) IX רייפטיפס 
+spitfire_lf_mk9e_iaf_0; Vickers Supermarine Type 361 | (הצוצק ףנכ) IX םגד רייפטיפס
+spitfire_lf_mk9e_iaf_1;IX רייפטיפס 
+spitfire_lf_mk9e_iaf_2;רייפטיפס 
+spitfire_lf_mk9e_weisman_shop;ןמציו לש IX רייפטיפס 
+spitfire_lf_mk9e_weisman_0; Vickers Supermarine Type 361 | ןמציו רזע לש IX םגד רייפטיפס
+spitfire_lf_mk9e_weisman_1;IX רייפטיפס 
+spitfire_lf_mk9e_weisman_2;רייפטיפס 
+s_199_shop;210.יס 
+s_199_0;" Avia Motors C.210 | ""ןיכס"" 210.יס "
+s_199_1;210.יס 
+s_199_2;210.יס 
+p-51d-20-na_iaf_shop; יד 51-יפ
+p-51d-20-na_iaf_0; North American Aviation NA-122 | גנטסומ יד םגד 51-יפ
+p-51d-20-na_iaf_1; יד 51-יפ
+p-51d-20-na_iaf_2; 51-יפ
+b-17g_iaf_shop; י׳ג 17-יב
+b-17g_iaf_0; Boeing Airplane Company | ףפועמ רצבמ י׳ג םגד 17-יב
+b-17g_iaf_1; י׳ג 17-יב
+b-17g_iaf_2; 17-יב
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+meteor_fmk8_iaf_shop;8 רואטמ 
+meteor_fmk8_iaf_0; Gloster Aircraft Company G.41K | 8 םגד רואטמ
+meteor_fmk8_iaf_1;8 רואטמ 
+meteor_fmk8_iaf_2;רואטמ 
+meteor_frmk9_iaf_shop;9 רואטמ 
+meteor_frmk9_iaf_0; Gloster Aircraft Company G.41L | 9 םגד רואטמ 
+meteor_frmk9_iaf_1;9 רואטמ 
+meteor_frmk9_iaf_2;רואטמ 
+meteor_nfmk13_shop;13 רואטמ 
+meteor_nfmk13_0; Gloster Aircraft Company G.47 / Armstrong Whitworth | 13 םגד רואטמ 
+meteor_nfmk13_1;13 רואטמ 
+meteor_nfmk13_2;רואטמ 
 md_450b_ouragan_iaf_shop;ןגרוא 
 md_450b_ouragan_iaf_0; Avions Marcel Dassault | ןגרוא M.D.450B
 md_450b_ouragan_iaf_1;ןגרוא 
@@ -37,6 +70,14 @@ md_450b_ouragan_iaf_29_1;ןגרוא 
 md_450b_ouragan_iaf_29_2;ןגרוא 
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+md_454_mystere_4a_iaf_shop;IV רטסימ 
+md_454_mystere_4a_iaf_0; Avions Marcel Dassault | IV רטסימ
+md_454_mystere_4a_iaf_1;IV רטסימ 
+md_454_mystere_4a_iaf_2;רטסימ 
+md_460_sambad_shop;2-ב רטסימ רפוס 
+md_460_sambad_0; Avions Marcel Dassault | 2-ב רטסימ רפוס
+md_460_sambad_1;2-ב רטסימ רפוס 
+md_460_sambad_2;רטסימ רפוס 
 md_460_saar_shop;רעס
 md_460_saar_0;Avions Marcel Dassault / לארשיל תיריוואה היישעתה | רעס
 md_460_saar_1;רעס
@@ -55,6 +96,10 @@ so_4050_vautour_2a_iaf_1;A רוטוו ☨
 so_4050_vautour_2a_iaf_2;רוטוו ☨
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+mirage_3cj_shop;C III ׳זרימ 
+mirage_3cj_0;" Avions Marcel Dassault | ""קחש"" C III ׳זרימ"
+mirage_3cj_1;C III ׳זרימ 
+mirage_3cj_2;III ׳זרימ 
 kfir_c7_shop;C.7 ריפכ
 kfir_c7_0;לארשיל תיריוואה היישעתה | C.7 ריפכ
 kfir_c7_1;C.7 ריפכ
@@ -71,6 +116,14 @@ kfir_c10_colombia_shop;◡ Kfir Block 60
 kfir_c10_colombia_0;◡ לארשיל תיריוואה היישעתה | Kfir Block 60
 kfir_c10_colombia_1;◡ Kfir Block 60
 kfir_c10_colombia_2;◡ Kfir
+f-4e_iaf_shop; F-4E-48-MC
+f-4e_iaf_0; McDonnell Douglas Corporation Model 98HO | סנרוק F-4E-48-MC
+f-4e_iaf_1; F-4E
+f-4e_iaf_2; F-4
+f-4e_kurnass_2000_shop;2000 סנרוק F-4E 
+f-4e_kurnass_2000_0; McDonnell Douglas Corporation Model 98HO | 2000 סנרוק F-4E
+f-4e_kurnass_2000_1; F-4E
+f-4e_kurnass_2000_2; F-4
 nesher_shop;A רשנ
 nesher_0;Avions Marcel Dassault-Breguet Aviation / לארשיל תיריוואה היישעתה | A רשנ
 nesher_1;A רשנ

@@ -82,6 +82,22 @@ md_460_saar_shop;רעס
 md_460_saar_0;Avions Marcel Dassault / לארשיל תיריוואה היישעתה | רעס
 md_460_saar_1;רעס
 md_460_saar_2;רעס
+a_4h_shop; A-4H
+a_4h_0; McDonnell Douglas Corporation D-640 | טיע A-4H
+a_4h_1; A-4H
+a_4h_2; A-4
+a_4e_early_iaf_shop; A-4E (AFC 418-II)
+a_4e_early_iaf_0; McDonnell Douglas Corporation D-640 | (AFC 418-II) טיע A-4E
+a_4e_early_iaf_1; A-4E
+a_4e_early_iaf_2; A-4
+a_4e_late_iaf_shop; A-4E (AFC 482)
+a_4e_late_iaf_0; McDonnell Douglas Corporation D-640 | (AFC 482) טיע A-4E
+a_4e_late_iaf_1; A-4E
+a_4e_late_iaf_2; A-4
+a_4n_shop; A-4N
+a_4n_0; McDonnell Douglas Corporation D-640 | טיע A-4N
+a_4n_1; A-4N
+a_4n_2; A-4
 so_4050_vautour_2a_israel_iaf_shop;A רוטוו 
 so_4050_vautour_2a_israel_iaf_0; Société nationale des constructions aéronautiques du Sud-Ouest | A רוטוו
 so_4050_vautour_2a_israel_iaf_1;A רוטוו 
@@ -94,6 +110,10 @@ so_4050_vautour_2a_iaf_shop;A רוטוו ☨
 so_4050_vautour_2a_iaf_0;☨ Société nationale des constructions aéronautiques du Sud-Ouest | A רוטוו
 so_4050_vautour_2a_iaf_1;A רוטוו ☨
 so_4050_vautour_2a_iaf_2;רוטוו ☨
+f-84f_israel_iaf_shop; (תסייט 200) F-84F-51-GK
+f-84f_israel_iaf_0; Republic Aviation Corporation | (תסייט 200) F-84F-51-GK Thunderstreak
+f-84f_israel_iaf_1; F-84F
+f-84f_israel_iaf_2; F-84
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 mirage_3cj_shop;C III ׳זרימ 
@@ -130,10 +150,42 @@ nesher_1;A רשנ
 nesher_2;רשנ
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16a_block_10_iaf_shop; F-16A-15OCU-CF
+f_16a_block_10_iaf_0; General Dynamics Corporation | ץנ F-16A-15OCU-CF
+f_16a_block_10_iaf_1; F-16A
+f_16a_block_10_iaf_2; F-16
+f_16a_block_10_netz_mod_shop; F-16A-15OCU-CF (1987)
+f_16a_block_10_netz_mod_0; General Dynamics Corporation | (1987) ץנ F-16A-15OCU-CF
+f_16a_block_10_netz_mod_1; F-16A
+f_16a_block_10_netz_mod_2; F-16
+f_16c_block_40_barak_2_shop; F-16C-40L-CF
+f_16c_block_40_barak_2_0; General Dynamics Corporation | II קרב F-16C-40L-CF
+f_16c_block_40_barak_2_1; F-16C
+f_16c_block_40_barak_2_2; F-16
+f_16d_block_40_barak_2_shop; F-16D-40-CF
+f_16d_block_40_barak_2_0; General Dynamics Corporation | II קרב F-16D-40-CF
+f_16d_block_40_barak_2_1; F-16D
+f_16d_block_40_barak_2_2; F-16
+f_16d_block_40_barak_2_missile_test_shop; F-16D-40-CF
+f_16d_block_40_barak_2_missile_test_0; General Dynamics Corporation | II קרב F-16D-40-CF
+f_16d_block_40_barak_2_missile_test_1; F-16D
+f_16d_block_40_barak_2_missile_test_2; F-16
 f_16i_sufa_shop; F-16I
 f_16i_sufa_0; Lockheed Martin Corporation | הפוס F-16I 
 f_16i_sufa_1; F-16I
 f_16i_sufa_2; F-16
+f_15a_iaf_shop; F-15A-18-MC (MSIP)
+f_15a_iaf_0; McDonnell Douglas Corporation | (Multistage Improvement Program) זב F-15A-18-MC
+f_15a_iaf_1; F-15A
+f_15a_iaf_2; F-15
+f_15c_baz_msip_shop; F-15C-40-MC (MSIP II)
+f_15c_baz_msip_0; McDonnell Douglas Corporation | (Multistage Improvement Program II) רפושמ זב F-15C-40-MC
+f_15c_baz_msip_1; F-15C
+f_15c_baz_msip_2; F-15
+f_15i_raam_shop; F-15I
+f_15i_raam_0; McDonnell Douglas Corporation | םער F-15I
+f_15i_raam_1; F-15I
+f_15i_raam_2; F-15
 
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 

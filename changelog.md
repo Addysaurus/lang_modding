@@ -22,8 +22,13 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **F-16A** (France / Netherlands)
+
 - #### Changes:
 
+    - **F-16A** (France / Netherlands) → **F-16A-5-CF**. Statcard name → **General Dynamics Corporation / N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | F-16A-5-CF Fighting Falcon**.
     - Changed the Indian roundel back to the Wheel of Dharma because even though it looks like a pirate ship steering wheel ingame, the Khanda is a Sikh religious symbol.
     - **T-72B3 (Aryena-È)** → **T-72B3 (Aryena-M)**. Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6-1 «Aryena-M»)**.
     - **Garford**: Statcard name → **Garford Motor Truck Company / Putilovskij zavod | Bronirovannyj avtomobil' "Garford"**.

@@ -46,14 +46,12 @@ All dates are listed in DD-MM-YYYY format.
     - Corrected the caliber tag of the **DT** machine gun to 7.62 mm.
     - **20 mm Type 99 Model 1 cannon** → **99 Shiki 20 Miri 1 Gō Kotei Kijū 3 Gata**. I was reviewing a wiki article and it came up so I had to reseach it anyway. Thought might as well.
         - Japanese package: **20 mm Type 99 Model 1 cannon** → **九九式二十粍一號固定機銃三型**.
+    - **20 mm Type 99 Model 2 Mark 3 cannon** → **99 Shiki 20 Miri 2 Gō Kotei Kijū 3 Gata**.
+        - Japanese package: **20 mm Type 99 Model 2 Mark 3 cannon** → **九九式二十粍二號固定機銃三型**.
     - **20 mm Type 99 Model 2 cannon** → **99 Shiki 20 Miri 2 Gō Kotei Kijū 4 Gata**.
         - Japanese package: **20 mm Type 99 Model 2 cannon** → **九九式二十粍二號固定機銃四型**.
-    - **20 mm Type 99 Model 1 cannon** (turret) → **99 Shiki 20 Miri 1 Gō Senkai Kijū 1 Gata**.
-        - Japanese package: **20 mm Type 99 Model 1 cannon** → **九九式二十粍一號旋回機銃一型**.
-    - **20 mm Type 99 Model 2 Mark 3 cannon** (turret) → **99 Shiki 20 Miri 1 Gō Senkai Kijū 4 Gata**.
-        - Japanese package: **20 mm Type 99 Model 2 Mark 3 cannon** → **九九式二十粍一號旋回機銃四型**.
-    - **20 mm Type 99 Model 2 Mark 5 cannon** (turret) → **99 Shiki 20 Miri 1 Gō Senkai Kijū 4 Gata Kai**.
-        - Japanese package: **20 mm Type 99 Model 2 Mark 5 cannon** → **九九式二十粍一號旋回機銃四型改**.
+    - **20 mm Type 99 Model 2 Mark 5 cannon** → **99 Shiki 20 Miri 2 Gō Kotei Kijū 5 Gata**.
+        - Japanese package: **20 mm Type 99 Model 2 Mark 5 cannon** → **九九式二十粍二號固定機銃五型**.
 
 ### Infantry weaponry:
 

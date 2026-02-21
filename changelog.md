@@ -38,6 +38,9 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: Statcard name → **小松製作 KA161 | 75式自走130mm多連装ロケット弾発射機**.
     - **Mi-35P**: Statcard name → **Moskovskij vyertolëtnyj zavod im. M. L. Milâ / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet "Fyeniks"** (it is very slightly shorter now by 4 characters).
     - **Mi-8AMTŠ-VN**: Statcard name → **Moskovskij vyertolëtnyj zavod im. M. L. Milâ | Vyertolyet Mi-8AMTŠ-VN "Sapsan"**.
+    - **D.XXI-2**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 141 | D.XXI-2**.
+    - **G.I Mercury** → **G.I (Mercury Mk. VIII)**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 138 | G.I (Mercury Mk. VIII)**.
+    - **D.XXIII**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 155 | D.XXIII**.
 
 ### Weaponry:
 

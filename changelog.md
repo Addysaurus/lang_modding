@@ -22,8 +22,13 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **F-16A** (France / Netherlands)
+
 - #### Changes:
 
+    - **F-16A** (France / Netherlands) → **F-16A-5-CF**. Statcard name → **General Dynamics Corporation / N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | F-16A-5-CF Fighting Falcon**.
     - Changed the Indian roundel back to the Wheel of Dharma because even though it looks like a pirate ship steering wheel ingame, the Khanda is a Sikh religious symbol.
     - **T-72B3 (Aryena-È)** → **T-72B3 (Aryena-M)**. Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6-1 «Aryena-M»)**.
     - **Garford**: Statcard name → **Garford Motor Truck Company / Putilovskij zavod | Bronirovannyj avtomobil' "Garford"**.
@@ -33,18 +38,46 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: Statcard name → **小松製作 KA161 | 75式自走130mm多連装ロケット弾発射機**.
     - **Mi-35P**: Statcard name → **Moskovskij vyertolëtnyj zavod im. M. L. Milâ / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet "Fyeniks"** (it is very slightly shorter now by 4 characters).
     - **Mi-8AMTŠ-VN**: Statcard name → **Moskovskij vyertolëtnyj zavod im. M. L. Milâ | Vyertolyet Mi-8AMTŠ-VN "Sapsan"**.
+    - **D.XXI-2**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 141 | D.XXI-2**.
+    - **G.I Mercury** → **G.I (Mercury Mk. VIII)**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 138 | G.I (Mercury Mk. VIII)**.
+    - **D.XXIII**. Statcard name → **N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 155 | D.XXIII**.
 
 ### Weaponry:
 
 - #### Changes:
 
+    - **M.C. 500 lb** (another one, same as the existing one) (default bomb not needing a mod that was added at some point, idr when)
+    - **Oktogel** (no clue when this was added)
+
+- #### Changes:
+
     - Corrected the caliber tag of the **DT** machine gun to 7.62 mm.
+    - **20 mm Type 99 Model 1 cannon** → **99 Shiki 20 Miri 1 Gō Kotei Kijū 3 Gata**. I was reviewing a wiki article and it came up so I had to reseach it anyway. Thought might as well.
+        - Japanese package: **20 mm Type 99 Model 1 cannon** → **九九式二十粍一號固定機銃三型**.
+    - **20 mm Type 99 Model 2 Mark 3 cannon** → **99 Shiki 20 Miri 2 Gō Kotei Kijū 3 Gata**.
+        - Japanese package: **20 mm Type 99 Model 2 Mark 3 cannon** → **九九式二十粍二號固定機銃三型**.
+    - **20 mm Type 99 Model 2 cannon** → **99 Shiki 20 Miri 2 Gō Kotei Kijū 4 Gata**.
+        - Japanese package: **20 mm Type 99 Model 2 cannon** → **九九式二十粍二號固定機銃四型**.
+    - **20 mm Type 99 Model 2 Mark 5 cannon** → **99 Shiki 20 Miri 2 Gō Kotei Kijū 5 Gata**.
+        - Japanese package: **20 mm Type 99 Model 2 Mark 5 cannon** → **九九式二十粍二號固定機銃五型**.
+    - Removed the erroneous type tag from the **9M33M3**.
 
 ### Infantry weaponry:
 
 - #### Changes:
 
     - **M249**: Statcard name → **FN America | Light Machine Gun, 5.56 mm, M249 "Para"**.
+
+### Sensors:
+
+- #### Additions:
+
+    - **CLC-1** (somehow missed this when doing the China rework)
+
+- #### Changes:
+
+    - **CLC-1** → **CLC1 Duanchéng Dīkōng Jānshì Léidá**.
+        - Mandarin package: **CLC-1** → **CLC1短程低空监视雷达**.
 
 ## 1.16.01 - 22-01-2026
 
@@ -181,6 +214,17 @@ All dates are listed in DD-MM-YYYY format.
     - **XM5** → **M7**. Statcard name → **SIG Sauer | Rifle, 6.8mm, M7**.
     - **ASM Val** → **ASM**. Statcard name → **AO «Czyentral'nyj naučno-isslyedovatyel'skij institut točnogo mašinostroyeniâ» | 6P30M | 9-mm avtomat spyeczial'nyj ASM "Val"**.
     - **AK-12**: Statcard name → **Konczyern «Kalašnikov» | 6P70 | 5,45-mm avtomat Kalašnikova AK-12 obr. 2012 g.**.
+
+### Sensors:
+
+- #### Additions:
+
+    - **Arena-E**
+    - **APK-9** (forgot to add this in Line of Contact)
+
+- #### Changes:
+
+    - **Arena-E** → **Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»**.
 
 ### Sensors:
 

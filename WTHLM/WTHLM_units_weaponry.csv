@@ -123,6 +123,11 @@ weapons/cannonJM61A2;<color=@userlogColoredText>20 mm</color> JM61A2 <color=#ff6
 weapons/cannonJM61A2/short;JM61A2
 weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Miri Kōsha Kikanhō <color=#ff6f00>ACNN</color>
 weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Miri Kōsha Kikanhō <color=#ff6f00>ACNN</color>
+weapons/cannonType99;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 1 Gō Kotei Kijū 3 Gata <color=#ff6f00>ACNN</color>
+weapons/cannonType99_turret;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 1 Gō Kotei Kijū 3 Gata <color=#ff6f00>ACNN</color>
+weapons/cannonType99Mk2;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 2 Gō Kotei Kijū 4 Gata <color=#ff6f00>ACNN</color>
+weapons/cannonType99Mod2_mark3_turret;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 2 Gō Kotei Kijū 3 Gata <color=#ff6f00>ACNN</color>
+weapons/cannonType99Mod2_mark5_turret;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 2 Gō Kotei Kijū 5 Gata <color=#ff6f00>ACNN</color>
 weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Miri Kotei Kijū <color=#ff6f00>ACNN</color>
 weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Miri Kotei Kijū <color=#ff6f00>ACNN</color>
 weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 94 Shiki 37 Miri Sensha Hō <color=#ff6f00>CNN</color>
@@ -478,6 +483,10 @@ weapons/su_rn_28/short;☢ RN-28
 //UK BOMBS
 weapons/uk_230lbs;<color=@userlogColoredText>90.7 kg</color> Bomb, H.E., R.F.C., 230-lb, Mk. III <color=#ff6f00>BMB</color>
 weapons/uk_230lbs/short;H.E., R.F.C., 230-lb, Mk. III
+weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb;<color=@userlogColoredText>231.7 kg</color> Bomb, H.E., Aircraft, M.C., 500 lb., Mk. I (Tail, 500 lb., No. 25 Mk. III) <color=#ff6f00>BMB</color>
+weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb/short;M.C., 500 lb., Mk. I (No. 25 Mk. III)
+weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb_default;<color=@userlogColoredText>231.7 kg</color> Bomb, H.E., Aircraft, M.C., 500 lb., Mk. I (Tail, 500 lb., No. 25 Mk. III) <color=#ff6f00>BMB</color>
+weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb_default/short;M.C., 500 lb., Mk. I (No. 25 Mk. III)
 weapons/uk_520lb_herl_mk_1_n;<color=@userlogColoredText>238.1 kg</color> Bomb, H.E., R.L., 520-lb, Mk. I/N <color=#ff6f00>BMB</color>
 weapons/uk_520lb_herl_mk_1_n/short;H.E., R.L., 520-lb, Mk. I/N
 weapons/uk_1650lb_sn_he;<color=@userlogColoredText>748 kg</color> Bomb, H.E., S.N., 1650-lb <color=#ff6f00>BMB</color>
@@ -1353,6 +1362,7 @@ weapons/80mm_brenus_smoke_grenade_launcher/short;GALIX 13
 
 //EXPLOSIVE TYPES
 explosiveType/octogel;HMX
+explosiveType/oktogel;Oktogel
 explosiveType/tg_50;TG-50
 explosiveType/hbx_3;HBX-3
 explosiveType/dhl_1;DHL1
@@ -1364,10 +1374,6 @@ explosiveType/xp3264;XP3264
 weapons/cannonMGC30L;20 mm MG C/30L cannon
 weapons/gunType97;7.7 mm Type 97 machine gun
 weapons/gunType97_turret;7.7 mm Type 97 machine gun
-weapons/cannonType99;20 mm Type 99 Model 1 cannon
-weapons/cannonType99_turret;20 mm Type 99 Model 1 cannon
-weapons/cannonType99Mod2_mark3_turret;20 mm Type 99 Model 2 Mark 3 cannon
-weapons/cannonType99Mod2_mark5_turret;20 mm Type 99 Model 2 Mark 5 cannon
 weapons/gunMAC34;7.5 mm MAC 1934 machine gun
 weapons/gunMAC34_turret;7.5 mm MAC 1934 machine gun
 weapons/gunMAC34T_turret;7.5 mm MAC 1934T machine gun
@@ -1502,7 +1508,6 @@ weapons/gunType89_turret;7.7 mm Type 89 machine gun
 weapons/gunType89s_turret;7.7 mm Type 89 machine gun 'special'
 weapons/gunType92;7.7 mm Type 92 machine gun
 weapons/gunType92_turret;7.7 mm Type 92 machine gun
-weapons/cannonType99Mk2;20 mm Type 99 Model 2 cannon
 weapons/gunMAC39;7.5 mm MAC 1934 machine gun
 weapons/gunMAC39_turret;7.5 mm MAC 1934 machine gun
 weapons/cannonM10;<color=@userlogColoredText>37 mm</color> Gun, 37mm, Automatic, M10 <color=#ff6f00>CNN</color>
@@ -3523,8 +3528,6 @@ weapons/uk_250lbs_mc_mk1_mk2_bomb;M.C. 250 lb Mk. I bomb
 weapons/uk_250lbs_mc_mk1_mk2_bomb/short;M.C. 250 lb
 weapons/uk_250lbs_mc_mk1_mk2_bomb_default;M.C. 250 lb Mk.I bomb
 weapons/uk_250lbs_mc_mk1_mk2_bomb_default/short;M.C. 250 lb
-weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb;M.C. 500 lb Mk. I bomb
-weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb/short;M.C. 500 lb
 weapons/uk_1000lbs_mc_mk1_mk2_bomb;M.C. 1000 lb Mk. I bomb
 weapons/uk_1000lbs_mc_mk1_mk2_bomb/short;1000 lb
 weapons/cannonADEN;<color=@userlogColoredText>30 mm</color> ADEN <color=#ff6f00>ACNN</color>
@@ -4016,7 +4019,7 @@ weapons/110mm_Spike_kf_41_rocket_launchr_user_cannon/short;Spike-LR2
 120mm_9m37m;9M37M
 152mm_zur_9m311;9M311
 152mm_zur_9m311_1m;9M311-1M
-209mm_9m33m3;9M33M3 <color=#ff6f00>SAM-RG</color>
+209mm_9m33m3;9M33M3
 209mm_9m33m3/short;9M33M3
 164mm_robot_52;Rb 52 A
 164mm_lfk_ss_11;LFK SS.11

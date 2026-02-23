@@ -25,7 +25,9 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **La-200-02** → **200**. Statcard name → **Opytno-konstruktorskoye bûro № 301 200** (yeah I know it sucks).
+    - **La-15**: Statcard name → **Aviaczionnyj zavod № 21 | izd. 52 | Samolyet La-15**.
     - **La-174** → **174**. Statcard name → **Opytno-konstruktorskoye bûro № 301 174** (yeah I know it sucks).
+    - **La-200 / 15** (folder) → **200 / La-15**.
 
 ### Sensors:
 

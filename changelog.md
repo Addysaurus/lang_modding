@@ -18,6 +18,35 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.17.00 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - **La-200-02** → **200**. Statcard name → **Opytno-konstruktorskoye bûro № 301 200** (yeah I know it sucks).
+    - **La-15**: Statcard name → **Aviaczionnyj zavod № 21 | izd. 52 | Samolyet La-15**.
+    - **La-174** → **174**. Statcard name → **Opytno-konstruktorskoye bûro № 301 174** (yeah I know it sucks).
+    - **La-200 / 15** (folder) → **200 / La-15**.
+    - **MiG-23BN** (Germany): Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | Erzeugn. 32-24B | MiG-23BN**.
+    - **MiG-23MLA** (Germany) → **MiG-23ML**. Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | Erzeugn. 23-12A | MiG-23ML**.
+    - **MiG-23MF** (Germany): Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | Erzeugn. 23-11A | MiG-23MF**.
+    - **Su-22UM3K** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-52UM3K | Su-22UM3K**.
+    - **Su-22M4** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-54K | Su-22M4**.
+    - **Su-22M4 (WTD 61)** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-54K | Su-22M4 Fitter-K (Wehrtechnische Dienststelle 61)**.
+
+### Sensors:
+
+- #### Changes:
+
+    - **Thorium** → **Radiolokaczionnaâ stancziâ Torij-A**.
+    - **1473H Léidá | KLJ-3 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá | K/LKK73H Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá** → **1473 Léidá | KLJ-3 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá | K/LKK73 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá**.
+        - Mandarin package: **1473H雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73H机载脉冲多普勒火控雷达** → **1473雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73机载脉冲多普勒火控雷达**.
+    - **1492 Léidá | K/LKK92 Léidá** → **1492 Léidá | K/LKK92 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá**.
+        - Mandarin package: **1492雷达 | K/LKK92雷达** → **1492雷达 | K/LKK92机载脉冲多普勒火控雷达**.
+    - **1493 Léidá | K/LKK92 Léidá** → **1493 Léidá | K/LKK92 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá**.
+        - Mandarin package: **1493雷达 | K/LKK92雷达** → **1493雷达 | K/LKK92机载脉冲多普勒火控雷达**.
+
 ## 1.16.02 - 21-02-2026
 
 ### Vehicles:

@@ -28,6 +28,12 @@ All dates are listed in DD-MM-YYYY format.
     - **La-15**: Statcard name → **Aviaczionnyj zavod № 21 | izd. 52 | Samolyet La-15**.
     - **La-174** → **174**. Statcard name → **Opytno-konstruktorskoye bûro № 301 174** (yeah I know it sucks).
     - **La-200 / 15** (folder) → **200 / La-15**.
+    - **MiG-23BN** (Germany): Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | Erzeugn. 32-24B | MiG-23BN**.
+    - **MiG-23MLA** (Germany) → **MiG-23ML**. Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | Erzeugn. 23-12A | MiG-23ML**.
+    - **MiG-23MF** (Germany): Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | Erzeugn. 23-11A | MiG-23MF**.
+    - **Su-22UM3K** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-52UM3K | Su-22UM3K**.
+    - **Su-22M4** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-54K | Su-22M4**.
+    - **Su-22M4 (WTD 61)** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-54K | Su-22M4 Fitter-K (Wehrtechnische Dienststelle 61)**.
 
 ### Sensors:
 

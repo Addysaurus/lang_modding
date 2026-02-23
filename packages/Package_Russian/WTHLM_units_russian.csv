@@ -20,6 +20,7 @@ su_24m_china_killstreak_1;␗☢ Су-24М
 su_24m_china_killstreak_2;␗☢ Су-24
 
 //USSR GROUPS
+shop/group/la_200_group;200 / Ла-15
 shop/group/ussr_t_34_85_group;Т-34-85 (Mar, 1944) / (Sep, 1944)
 shop/group/ussr_su_object_group;СУ-122-54 / Об. 268
 shop/group/ussr_t_55_group;Т-55А / 62
@@ -67,6 +68,14 @@ la_200_toriy_shop;200
 la_200_toriy_0;Опытно-конструкторское бюро № 301 200
 la_200_toriy_1;200
 la_200_toriy_2;200
+la-15_shop;Ла-15
+la-15_0;Авиационный завод № 21 | изд. 52 | Самолет Ла-15
+la-15_1;Ла-15
+la-15_2;Ла-15
+la_174_shop;174
+la_174_0;Опытно-конструкторское бюро № 301 174
+la_174_1;174
+la_174_2;174
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 
@@ -369,6 +378,20 @@ ussr_battleship_pr23_sovetskij_soyuz_shop;Советский Союз
 ussr_battleship_pr23_sovetskij_soyuz_0;Судостроительный завод № 189 им. С. Орджоникидзе | Линейный корабль проект 23, тип Советский Союз | Советский Союз
 ussr_battleship_pr23_sovetskij_soyuz_1;Советский Союз
 ussr_battleship_pr23_sovetskij_soyuz_2;Battleship
+
+//GERMANT AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+mig_23bn_shop;◊ MiG-23BN
+mig_23bn_0;◊ Московское авиационное производственное объединение | izd. 32-24B | MiG-23BN
+mig_23bn_1;◊ MiG-23BN
+mig_23bn_2;◊ MiG-23
+mig_23mla_shop;◊ MiG-23ML
+mig_23mla_0;◊ Московское авиационное производственное объединение | izd. 23-12A | MiG-23ML
+mig_23mla_1;◊ MiG-23ML
+mig_23mla_2;◊ MiG-23
+mig_23mf_germany_shop;◊ MiG-23MF
+mig_23mf_germany_0;◊ Московское авиационное производственное объединение | izd. 23-11A | MiG-23MF
+mig_23mf_germany_1;◊ MiG-23MF
+mig_23mf_germany_2;◊ MiG-23
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 i-15bis_china_shop;☀ E-15 Bisī

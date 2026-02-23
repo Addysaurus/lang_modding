@@ -1396,7 +1396,7 @@ shop/group/tu-2_group;Tu-2S / S-44 / S-59
 shop/group/yak-15_group;Âk-15 (1946) / 15 / 17
 shop/group/mig-9_group;MiG-9 / I-307
 shop/group/il_28_group;Il-28 / 28Š
-shop/group/la_200_group;La-200 / 15
+shop/group/la_200_group;200 / La-15
 shop/group/mig-15_group;MiG-15 / 15bis
 shop/group/mig-19_group;MiG-19PT / 21F
 shop/group/su-7_group;Su-7B / BKL
@@ -4631,9 +4631,17 @@ hunter_f58_switzerland_0;◌ Hawker Siddeley Aviation | Hunter Mk. 58A (Hunter 8
 hunter_f58_switzerland_1;◌ Hunter Mk. 58
 hunter_f58_switzerland_2;◌ Hunter
 mig_23bn_shop;◊ MiG-23BN
-mig_23bn_0;◊ izd. 32-24B | MiG-23BN
+mig_23bn_0;"◊ Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | izd. 32-24B | MiG-23BN"
 mig_23bn_1;◊ MiG-23BN
 mig_23bn_2;◊ MiG-23
+mig_23mla_shop;◊ MiG-23ML
+mig_23mla_0;"◊ Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | izd. 23-12A | MiG-23ML"
+mig_23mla_1;◊ MiG-23ML
+mig_23mla_2;◊ MiG-23
+mig_23mf_germany_shop;◊ MiG-23MF
+mig_23mf_germany_0;"◊ Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | izd. 23-11A | MiG-23MF"
+mig_23mf_germany_1;◊ MiG-23MF
+mig_23mf_germany_2;◊ MiG-23
 mig-21_sps_k_shop;◄ MiG-21SPSK
 mig-21_sps_k_0;◄ izd. 94A | MiG-21SPSK
 mig-21_sps_k_1;◄ MiG-21SPSK
@@ -4672,14 +4680,6 @@ mig-21_bis_lazur_shop;◊ MiG-21bis (Lazur)
 mig-21_bis_lazur_0;◊ izd. 75A | MiG-21bis (Lazur)
 mig-21_bis_lazur_1;◊ MiG-21bis
 mig-21_bis_lazur_2;◊ MiG-21
-mig_23mla_shop;◊ MiG-23MLA
-mig_23mla_0;◊ izd. 23-12A | MiG-23MLA
-mig_23mla_1;◊ MiG-23MLA
-mig_23mla_2;◊ MiG-23
-mig_23mf_germany_shop;◊ MiG-23MF
-mig_23mf_germany_0;◊ izd. 23-11A | MiG-23MF
-mig_23mf_germany_1;◊ MiG-23MF
-mig_23mf_germany_2;◊ MiG-23
 su_22um3k_shop;◊ Su-22UM3K
 su_22um3k_0;◊ izd. S-52UM3K | Su-22UM3K
 su_22um3k_1;◊ Su-22UM3K
@@ -5182,6 +5182,10 @@ la_200_toriy_shop;200
 la_200_toriy_0;Opytno-konstruktorskoye bûro № 301 200
 la_200_toriy_1;200
 la_200_toriy_2;200
+la-15_shop;La-15
+la-15_0;Aviaczionnyj zavod № 21 | izd. 52 | Samolyet La-15
+la-15_1;La-15
+la-15_2;La-15
 l_39za_shop;L-39ZA
 l_39za_0;Aero Vodochody | L-39ZA Albatros
 l_39za_1;L-39ZA
@@ -11432,10 +11436,6 @@ spitfire_f24_shop;Spitfire F. Mk. 24
 spitfire_f24_0;Spitfire F. Mk. 24
 spitfire_f24_1;Spitfire F. Mk. 24
 spitfire_f24_2;Spitfire
-la-15_shop;La-15
-la-15_0;Izdliye 52 | La-15
-la-15_1;La-15
-la-15_2;La-15
 i-16_type24_shop;I-16 Tip 24
 i-16_type24_0;I-16 Tip 24 Ishak
 i-16_type24_1;I-16 Tip 24

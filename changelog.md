@@ -40,9 +40,9 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **Thorium** → **Radiolokaczionnaâ stancziâ Torij-A**.
-    - **Type 930** → **930 Léidá Gàojing Shèbèi**.
+    - **Type 930** → **930 Léidá Gàojing Shèbèi** ([Report](https://github.com/Addysaurus/lang_modding/issues/127)).
         - Mandarin package: **Type 930** → **930雷达告警设备**.
-    - Corrected the display of the **208A**, **1473**, **JL-7A**, and **930-4**.
+    - Corrected the display of the **208A**, **1473**, **JL-7A**, and **930-4** ([Report](https://github.com/Addysaurus/lang_modding/issues/127)).
     - **1473H Léidá | KLJ-3 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá | K/LKK73H Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá** → **1473 Léidá | KLJ-3 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá | K/LKK73 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá**.
         - Mandarin package: **1473H雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73H机载脉冲多普勒火控雷达** → **1473雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73机载脉冲多普勒火控雷达**.
     - **1492 Léidá | K/LKK92 Léidá** → **1492 Léidá | K/LKK92 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá**.

@@ -40,6 +40,9 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **Thorium** → **Radiolokaczionnaâ stancziâ Torij-A**.
+    - **Type 930** → **930 Léidá Gàojing Shèbèi**.
+        - Mandarin package: **Type 930** → **930雷达告警设备**.
+    - Corrected the display of the **208A**, **1473**, **JL-7A**, and **930-4**.
     - **1473H Léidá | KLJ-3 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá | K/LKK73H Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá** → **1473 Léidá | KLJ-3 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá | K/LKK73 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá**.
         - Mandarin package: **1473H雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73H机载脉冲多普勒火控雷达** → **1473雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73机载脉冲多普勒火控雷达**.
     - **1492 Léidá | K/LKK92 Léidá** → **1492 Léidá | K/LKK92 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá**.
@@ -73,7 +76,7 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
-- #### Changes:
+- #### Additions:
 
     - **M.C. 500 lb** (another one, same as the existing one) (default bomb not needing a mod that was added at some point, idr when)
     - **Oktogel** (no clue when this was added)
@@ -81,6 +84,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Corrected the caliber tag of the **DT** machine gun to 7.62 mm.
+    - **M.C. 500 lb** → **M.C., 500 lb., Mk. I (No. 25 Mk. III)**. Statcard name → **Bomb, H.E., Aircraft, M.C., 500 lb., Mk. I (Tail, 500 lb., No. 25 Mk. III)**.
     - **20 mm Type 99 Model 1 cannon** → **99 Shiki 20 Miri 1 Gō Kotei Kijū 3 Gata**. I was reviewing a wiki article and it came up so I had to reseach it anyway. Thought might as well.
         - Japanese package: **20 mm Type 99 Model 1 cannon** → **九九式二十粍一號固定機銃三型**.
     - **20 mm Type 99 Model 2 Mark 3 cannon** → **99 Shiki 20 Miri 2 Gō Kotei Kijū 3 Gata**.

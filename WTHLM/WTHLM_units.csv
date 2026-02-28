@@ -4108,12 +4108,12 @@ he_112b_0_shop;He 112 B-0
 he_112b_0_0;Heinkel | He 112 B-0
 he_112b_0_1;He 112 B
 he_112b_0_2;He 112
-he_112b_1_shop;◔ He 112 B-1/U2
-he_112b_1_0;◔ Heinkel | He 112 B-1/U2
-he_112b_1_1;◔ He 112 B
-he_112b_1_2;◔ He 112
+he_112b_1_shop;◐ He 112 B-1/U2
+he_112b_1_0;◐ Heinkel Flugzeugwerke | He 112 B-1/U2 vadászrepülőgép
+he_112b_1_1;◐ He 112 B
+he_112b_1_2;◐ He 112
 he_112b_2_shop;╏ He 112 B-2/U2
-he_112b_2_0;╏ Heinkel | He 112 B-2/U2
+he_112b_2_0;╏ Heinkel Flugzeugwerke | He 112 B-2/U2
 he_112b_2_1;╏ He 112 B
 he_112b_2_2;╏ He 112
 he_100d_1_shop;He 100 A-0
@@ -7975,6 +7975,14 @@ cn_oplot_t_2;MBT
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+bf_110g_4_hungary_shop;◐ Bf 110 G-4
+bf_110g_4_hungary_0;◐ Messerschmitt | Bf 110 G-4 éjjeli vadász
+bf_110g_4_hungary_1;◐ Bf 110 G
+bf_110g_4_hungary_2;◐ Bf 110
+bf-109f-4_hungary_shop;◐ Bf 109 F-4
+bf-109f-4_hungary_0;◐ Messerschmitt | Bf 109 F-4 vadászrepülőgép
+bf-109f-4_hungary_1;◐ Bf 109 F
+bf-109f-4_hungary_2;◐ Bf 109
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 re_2005_vdm_shop;Re.2005 (9-12087A)
@@ -10227,10 +10235,6 @@ su_6_single_shop;Su-6
 su_6_single_0;Su-6
 su_6_single_1;Su-6
 su_6_single_2;Su-6
-bf-109f-4_hungary_shop;◐ Bf 109 F-4
-bf-109f-4_hungary_0;◐ Messerschmitt | Bf 109 F-4
-bf-109f-4_hungary_1;◐ Bf 109 F
-bf-109f-4_hungary_2;◐ Bf 109
 bf-109g-6_finland_shop;MT (G-6/R6) (Tp)
 bf-109g-6_finland_0;"Messerschmitt | MT (G-6/R6) (Tropenausrüstung) ""Mersu"""
 bf-109g-6_finland_1;MT (G-6)
@@ -10239,10 +10243,6 @@ s_199_shop; S.199
 s_199_0;" Avia Motors C.210 | S.199 ""Sakin"" (batch 2)"
 s_199_1; S.199
 s_199_2; S.199
-bf_110g_4_hungary_shop;◐ Bf 110 G-4
-bf_110g_4_hungary_0;◐ Bf 110 G-4
-bf_110g_4_hungary_1;◐ Bf 110 G
-bf_110g_4_hungary_2;◐ Bf 110
 blenheim_mkiv_shop;Blenheim Mk. IV
 blenheim_mkiv_0;Blenheim Mk. IV
 blenheim_mkiv_1;Blenheim Mk. IV

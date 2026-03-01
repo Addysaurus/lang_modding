@@ -42,14 +42,18 @@ All dates are listed in DD-MM-YYYY format.
     - **Su-22M4 (WTD 61)** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-54K | Su-22M4 Fitter-K (Wehrtechnische Dienststelle 61)**.
     - **Ptx. M 163** → **Ptx. Xěm 163**. Statcard name ** → **General Electric Company | Pụ̄n Txsū Xākāṣyān 20 mm Xạttā Jr Bæb Xěm 163**.
         - Thai package: **ปตอ. เอ็ม 163** → **ปตอ. เอ็ม ๑๖๓**. Statcard name → **General Electric Company | ปืนต่อสู้อากาศยาน ๒๐ มม อัตตาจรแบบ เอ็ม ๑๖๓**.
-    - **Th.Hlạk M 60 A3** → **Th.Hlạk Xěm 60 Xe 3**. Statcard name → **Chrysler Defense Engineering | Rth Thạng Xěm 60 Xe 3**.
+    - **Th.Hlạk M 60 A3** → **Th.Hlạk Xěm 60 Xe 3**. Statcard name → **Chrysler Defense Engineering | Roth Thạng Xěm 60 Xe 3**.
         - Thai package: **ถ.หลัก เอ็ม 60 เอ 3** → **ถ.หลัก เอ็ม ๖๐ เอ ๓**. Statcard name → **Chrysler Defense Engineering | รถถังหลัก เอ็ม ๖๐ เอ ๓**.
-    - **Th.Bao 32**: Statcard name → **Cadillac Gage Stingray | Rth Thạng Bao 32**.
+    - **Th.Bao 32**: Statcard name → **Cadillac Gage Stingray | Roth Thạng Bao 32**.
         - Thai package: **ถ.เบา 32** → **ถ.เบา ๓๒**. Statcard name → **Cadillac Gage Stingray | รถถังเบา ๓๒**.
-    - **Th.Hlạk 57**: Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rth Thạng Hlạk 57**.
+    - **Th.Hlạk 57**: Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Roth Thạng Hlạk 57**.
         - Thai package: **ถ.หลัก 57** → **ถ.หลัก ๕๗**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | รถถังหลัก ๕๗**.
-        - Ukrainian package: Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Rth Thạng Hlạk 57**.
+        - Ukrainian package: Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Roth Thạng Hlạk 57**.
         - Thai + Ukrainian package: **ถ.หลัก 57** → **ถ.หลัก ๕๗**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | รถถังหลัก ๕๗**.
+    - **B.Kh.20**:
+        - Thai package: Statcard name → **Saab 39 C | เครื่องบินขับไล่แบบที่ ๒๐** (previously it was accidentally เครื่องบินขับไล่แบบที่ ๒๐ก (B.Kh.20K) which is the JAS 39 D).
+    - **Ba.65 / Ju 87 R** (folder) → **Ba. 65 (K-14fc) (L) / Ju 87 R-2**.
+    - **Ba.65 (K-14fc) L** → **Ba. 65 (K-14fc) (L)**. Statcard name → **Società Italiana Ernesto Breda | Ba. 65 (Motore K-14fc) (Torretta ad Arcone Tipo L)**.
 
 ### Weapons:
 

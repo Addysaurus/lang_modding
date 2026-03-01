@@ -28,6 +28,7 @@ All dates are listed in DD-MM-YYYY format.
         - **He 112 B-1/U2** (Germany / Hungary): Statcard name → **Heinkel Flugzeugwerke | He 112 B-1/U2 vadászrepülőgép**.
         - **Bf 110 G-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 110 G-4 éjjeli vadász**.
         - **Bf 109 F-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 109 F-4 vadászrepülőgép**.
+        - **Bf 109 G-2** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 109 G-2 vadászrepülőgép**.
     - **He 112 B-2/U2** (Germany / Romania): Statcard name → **Heinkel Flugzeugwerke | He 112 B-2/U2**.
     - **La-200-02** → **200**. Statcard name → **Opytno-konstruktorskoye bûro № 301 200** (yeah I know it sucks).
     - **La-15**: Statcard name → **Aviaczionnyj zavod № 21 | izd. 52 | Samolyet La-15**.
@@ -39,6 +40,22 @@ All dates are listed in DD-MM-YYYY format.
     - **Su-22UM3K** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-52UM3K | Su-22UM3K**.
     - **Su-22M4** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-54K | Su-22M4**.
     - **Su-22M4 (WTD 61)** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-54K | Su-22M4 Fitter-K (Wehrtechnische Dienststelle 61)**.
+    - **Ptx. M 163**:
+        - Thai package: **ปตอ. เอ็ม 163** → **ปตอ. เอ็ม ๑๖๓**. Statcard name → **General Electric Company | ปืนต่อสู้อากาศยานอัตตาจร ๒๐ มม เอ็ม ๑๖๓**.
+    - **Th.Hlạk M 60 A3**:
+        - Thai package: **ถ.หลัก เอ็ม 60 เอ 3** → **ถ.หลัก เอ็ม ๖๐ เอ ๓**. Statcard name → **Chrysler Defense Engineering | รถถังหลัก เอ็ม ๖๐ เอ ๓**.
+    - **Th.Bao 32**: Statcard name → **Cadillac Gage Stingray | Rth Thạng Bao 32**.
+        - Thai package: **ถ.เบา 32** → **ถ.เบา ๓๒**. Statcard name → **Cadillac Gage Stingray | รถถังเบา ๓๒**.
+    - **Th.Hlạk 57**: Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rth Thạng Hlạk 57**.
+        - Thai package: **ถ.หลัก 57** → **ถ.หลัก ๕๗**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | รถถังหลัก ๕๗**.
+        - Ukrainian package: Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Rth Thạng Hlạk 57**.
+        - Thai + Ukrainian package: **ถ.หลัก 57** → **ถ.หลัก ๕๗**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | รถถังหลัก ๕๗**.
+
+### Weapons:
+
+- #### Changes:
+
+    - **Piton 5 SR** → **Python 5 SR**. Statcard name → **Python 5 Short Range**. It's an export missile so it doesn't get it's IDF Piton name.
 
 ### Sensors:
 

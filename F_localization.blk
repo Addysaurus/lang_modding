@@ -135,6 +135,7 @@ locTable{
   file:t="%lang/Package_Hebrew/WTHLM_nations_hebrew.csv"
   file:t="%lang/Package_Hebrew/WTHLM_units_hebrew.csv"
   file:t="%lang/Package_Hebrew/WTHLM_units_weaponry_hebrew.csv"
+  file:t="%lang/Package_Hebrew/WTHLM_units_modifications_hebrew.csv"
   file:t="%lang/Package_Hebrew/WTHLM_loading_screens_hebrew.csv"
   file:t="%lang/Package_Hebrew+Russian/WTHLM_units_hebrew+russian.csv"
   file:t="%lang/Package_Finnish_Ps_Designator/WTHLM_units_finnish_ps.csv"
@@ -154,6 +155,8 @@ locTable{
   file:t="%lang/Package_Memes/WTHLM_units_weaponry_memes.csv"
   file:t="%lang/Package_Memes/WTHLM_units_modifications_memes.csv"
   file:t="%lang/Package_Memes/WTHLM_menu_memes.csv"
+  file:t="%lang/Package_Hindi/WTHLM_units_hindi.csv"
+  file:t="%lang/Package_Hindi+Russian/WTHLM_units_hindi+russian.csv"
   file:t="%lang/Package_Full_Ammo_Names/WTHLM_units_weaponry_full_ammo.csv"
   file:t="%lang/Package_Full_Ammo_Names/WTHLM_units_modifications_full_ammo.csv"
   file:t="%lang/Package_Full_Ammo_Names_Russian/WTHLM_units_weaponry_full_ammo_russian.csv"
@@ -165,6 +168,9 @@ locTable{
   file:t="%lang/Package_Full_Ammo_Names_Full_Mandarin/WTHLM_units_weaponry_full_ammo_full_mandarin.csv"
   file:t="%lang/Package_Full_Ammo_Names_Full_Mandarin/WTHLM_units_modifications_full_ammo_full_mandarin.csv"
   file:t="%lang/Package_Full_Ammo_Names_Full_Mandarin+Russian/WTHLM_units_modifications_full_ammo_full_mandarin+russian.csv"
+
+  // REWORKS (DEV STUFF)
+  file:t="%lang/rework_french_ground/WTHLM_units_fr_ground.csv"
   file:t="%lang/WTHLM_userlang.csv"
 }
 

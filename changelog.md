@@ -24,6 +24,12 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - Hungarian air rework:
+        - **He 112 B-1/U2** (Germany / Hungary): Statcard name → **Heinkel Flugzeugwerke | He 112 B-1/U2 vadászrepülőgép**.
+        - **Bf 110 G-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 110 G-4 éjjeli vadász**.
+        - **Bf 109 F-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 109 F-4 vadászrepülőgép**.
+        - **Bf 109 G-2** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 109 G-2 vadászrepülőgép**.
+    - **He 112 B-2/U2** (Germany / Romania): Statcard name → **Heinkel Flugzeugwerke | He 112 B-2/U2**.
     - **La-200-02** → **200**. Statcard name → **Opytno-konstruktorskoye bûro № 301 200** (yeah I know it sucks).
     - **La-15**: Statcard name → **Aviaczionnyj zavod № 21 | izd. 52 | Samolyet La-15**.
     - **La-174** → **174**. Statcard name → **Opytno-konstruktorskoye bûro № 301 174** (yeah I know it sucks).
@@ -34,12 +40,31 @@ All dates are listed in DD-MM-YYYY format.
     - **Su-22UM3K** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-52UM3K | Su-22UM3K**.
     - **Su-22M4** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-54K | Su-22M4**.
     - **Su-22M4 (WTD 61)** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-54K | Su-22M4 Fitter-K (Wehrtechnische Dienststelle 61)**.
+    - **Ptx. M 163**:
+        - Thai package: **ปตอ. เอ็ม 163** → **ปตอ. เอ็ม ๑๖๓**. Statcard name → **General Electric Company | ปืนต่อสู้อากาศยานอัตตาจร ๒๐ มม เอ็ม ๑๖๓**.
+    - **Th.Hlạk M 60 A3**:
+        - Thai package: **ถ.หลัก เอ็ม 60 เอ 3** → **ถ.หลัก เอ็ม ๖๐ เอ ๓**. Statcard name → **Chrysler Defense Engineering | รถถังหลัก เอ็ม ๖๐ เอ ๓**.
+    - **Th.Bao 32**: Statcard name → **Cadillac Gage Stingray | Rth Thạng Bao 32**.
+        - Thai package: **ถ.เบา 32** → **ถ.เบา ๓๒**. Statcard name → **Cadillac Gage Stingray | รถถังเบา ๓๒**.
+    - **Th.Hlạk 57**: Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rth Thạng Hlạk 57**.
+        - Thai package: **ถ.หลัก 57** → **ถ.หลัก ๕๗**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | รถถังหลัก ๕๗**.
+        - Ukrainian package: Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Rth Thạng Hlạk 57**.
+        - Thai + Ukrainian package: **ถ.หลัก 57** → **ถ.หลัก ๕๗**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | รถถังหลัก ๕๗**.
+
+### Weapons:
+
+- #### Changes:
+
+    - **Piton 5 SR** → **Python 5 SR**. Statcard name → **Python 5 Short Range**. It's an export missile so it doesn't get it's IDF Piton name.
 
 ### Sensors:
 
 - #### Changes:
 
     - **Thorium** → **Radiolokaczionnaâ stancziâ Torij-A**.
+    - **Type 930** → **930 Léidá Gàojing Shèbèi** ([Report](https://github.com/Addysaurus/lang_modding/issues/127)).
+        - Mandarin package: **Type 930** → **930雷达告警设备**.
+    - Corrected the display of the **208A**, **1473**, **JL-7A**, and **930-4** ([Report](https://github.com/Addysaurus/lang_modding/issues/127)).
     - **1473H Léidá | KLJ-3 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá | K/LKK73H Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá** → **1473 Léidá | KLJ-3 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá | K/LKK73 Jīzǎi Màichōng Duō Pǔ Lè Huǒ Kòng Léidá**.
         - Mandarin package: **1473H雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73H机载脉冲多普勒火控雷达** → **1473雷达 | KLJ-3机载脉冲多普勒火控雷达 | K/LKK73机载脉冲多普勒火控雷达**.
     - **1492 Léidá | K/LKK92 Léidá** → **1492 Léidá | K/LKK92 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá**.
@@ -73,7 +98,7 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
-- #### Changes:
+- #### Additions:
 
     - **M.C. 500 lb** (another one, same as the existing one) (default bomb not needing a mod that was added at some point, idr when)
     - **Oktogel** (no clue when this was added)
@@ -81,6 +106,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Corrected the caliber tag of the **DT** machine gun to 7.62 mm.
+    - **M.C. 500 lb** → **M.C., 500 lb., Mk. I (No. 25 Mk. III)**. Statcard name → **Bomb, H.E., Aircraft, M.C., 500 lb., Mk. I (Tail, 500 lb., No. 25 Mk. III)**.
     - **20 mm Type 99 Model 1 cannon** → **99 Shiki 20 Miri 1 Gō Kotei Kijū 3 Gata**. I was reviewing a wiki article and it came up so I had to reseach it anyway. Thought might as well.
         - Japanese package: **20 mm Type 99 Model 1 cannon** → **九九式二十粍一號固定機銃三型**.
     - **20 mm Type 99 Model 2 Mark 3 cannon** → **99 Shiki 20 Miri 2 Gō Kotei Kijū 3 Gata**.

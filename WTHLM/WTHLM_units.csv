@@ -1541,7 +1541,7 @@ shop/group/it_9a33_35_group;╏ 9A33BM3 / ◔ 35M
 shop/group/it_samp_t_fcs_group;⛨ SAMP/T (MRI) / (MLT)
 shop/group/sm_79_1941_group;S.M.79 AS / bis/T.M. / S.79-B
 shop/group/cr_32_group;CR.32 / 32quarter
-shop/group/ba_65_group;Ba.65 / ⛨ Ju 87 R
+shop/group/ba_65_group;Ba. 65 (K-14fc) (L) / ⛨ Ju 87 R-2
 shop/group/breda_group;Ba.88 / P.108A
 shop/group/br_20_dr_group;BR.20 DR / 20M M1
 shop/group/fiat_g50_italy_group;G.50 II / AS VII
@@ -7971,6 +7971,10 @@ cn_oplot_t_2;MBT
 //CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+ba_65_k14_l_shop;Ba. 65 (K-14fc) (L)
+ba_65_k14_l_0;Società Italiana Ernesto Breda | Ba. 65 (Motore K-14fc) (Torretta ad Arcone Tipo L)
+ba_65_k14_l_1;Ba. 65
+ba_65_k14_l_2;Ba. 65
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 
@@ -12017,10 +12021,6 @@ g_56_shop;G.56
 g_56_0;G.56
 g_56_1;G.56
 g_56_2;G.56
-ba_65_k14_l_shop;Ba.65 (K-14fc) L
-ba_65_k14_l_0;Ba.65 (K-14fc) L Nibbio
-ba_65_k14_l_1;Ba.65 L
-ba_65_k14_l_2;Ba.65
 mc-205_serie3_shop;C. 205 III
 mc-205_serie3_0;C. 205 serie III Veltro
 mc-205_serie3_1;C. 205

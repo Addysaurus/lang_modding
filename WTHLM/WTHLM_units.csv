@@ -1548,6 +1548,7 @@ shop/group/fiat_g50_italy_group;G.50 II / AS VII
 shop/group/mc_200_italy_group;C. 200 III / VII
 shop/group/mc_202_italy_group;C. 202 VII / 205 I
 shop/group/sm_79_italy_group;S.M.79 I / VIII
+shop/group/me_210ca_1_hungary_group;◐ Me 210 Ca-1 / 1 (36 M.)
 shop/group/z_1007_group;Z.1007bis III / V
 shop/group/re_2000_group;Re.2000 I / GA III
 shop/group/re_2001_group;Re.2001 I / CB I
@@ -2840,6 +2841,10 @@ f_16c_block_50_shop;F-16C-50-CF (CCIP) (2007)
 f_16c_block_50_0;F-16C-50-CF Fighting Falcon (Common Configuration Implementation Program) (2007)
 f_16c_block_50_1;F-16C
 f_16c_block_50_2;F-16
+f_16c_block_52_aesa_shop;F-16C-52-MC (AN/APG-83)
+f_16c_block_52_aesa_0;Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (AN/APG-83 Scalable Agile Beam Radar)
+f_16c_block_52_aesa_1;F-16C
+f_16c_block_52_aesa_2;F-16
 f_15a_shop;F-15A-18-MC (MSIP)
 f_15a_0;F-15A-18-MC Eagle (Multistage Improvement Program)
 f_15a_1;F-15A
@@ -3434,18 +3439,14 @@ us_xm_800t_shop;XM800T
 us_xm_800t_0;Armored Reconnaissance Scout Vehicle XM800T
 us_xm_800t_1;XM800T
 us_xm_800t_2;Light tank
-us_m3_bradley_shop;M3 CFV
-us_m3_bradley_0;Fighting Vehicle, Cavalry, Full Tracked, M3 Bradley
-us_m3_bradley_1;M3 CFV
-us_m3_bradley_2;Light tank
-us_m3a3_bradley_shop;M3A3 CFV
-us_m3a3_bradley_0;Fighting Vehicle, Cavalry, Full Tracked, M3A3 Bradley
-us_m3a3_bradley_1;M3A3 CFV
-us_m3a3_bradley_2;Light tank
 us_stingray_shop;Stingray
 us_stingray_0;Cadillac Gage Stingray
 us_stingray_1;Stingray
 us_stingray_2;Light tank
+us_m1296_dragoon_shop;M1296 ICVD
+us_m1296_dragoon_0;General Dynamics Land Systems | Combat Vehicle, Infantry, Dragoon, M1296
+us_m1296_dragoon_1;M1296
+us_m1296_dragoon_2;ICV
 us_t95e1_shop;T95E1
 us_t95e1_0;Tank, Combat, Full Tracked: 90mm Gun, T95E1
 us_t95e1_1;T95E1
@@ -3470,6 +3471,14 @@ us_mim_72_chaparral_shop;M48A2 GMSIA
 us_mim_72_chaparral_0;Ford Aerospace & Communications Corporation | Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2
 us_mim_72_chaparral_1;M48A2 GMSIA
 us_mim_72_chaparral_2;SPAAM
+us_m3_bradley_shop;M3 CFV
+us_m3_bradley_0;Fighting Vehicle, Cavalry, Full Tracked, M3 Bradley
+us_m3_bradley_1;M3 CFV
+us_m3_bradley_2;Light tank
+us_m3a3_bradley_shop;M3A3 CFV
+us_m3a3_bradley_0;Fighting Vehicle, Cavalry, Full Tracked, M3A3 Bradley
+us_m3a3_bradley_1;M3A3 CFV
+us_m3a3_bradley_2;Light tank
 us_m901_itv_shop;M901
 us_m901_itv_0;Combat Vehicle, Anti-tank, Improved TOW Vehicle, M901
 us_m901_itv_1;M901
@@ -3504,6 +3513,14 @@ us_xm_8_1;XM8
 us_xm_8_2;Light tank
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+us_m1128_mgs_shop;M1128 MGS
+us_m1128_mgs_0;Mobile Gun System, M1128 Stryker
+us_m1128_mgs_1;M1128
+us_m1128_mgs_2;Light tank
+us_m1128_wolfpack_shop;M1128 MGS (3rd Sqd. 2nd Cav.Reg.)
+us_m1128_wolfpack_0;Mobile Gun System, M1128 Stryker (3rd Squadron 2nd Cavalry Regiment)
+us_m1128_wolfpack_1;M1128
+us_m1128_wolfpack_2;Light tank
 us_m10_booker_late_shop;M10
 us_m10_booker_late_0;General Dynamics Land Systems | Combat Vehicle, Tracked, Light Armored, M10 Booker
 us_m10_booker_late_1;M10
@@ -3572,14 +3589,6 @@ us_xm_975_roland_shop;M975 ADMS
 us_xm_975_roland_0;Carrier, Air Defense Missile System, M975
 us_xm_975_roland_1;M975
 us_xm_975_roland_2;SPAA
-us_m1128_mgs_shop;M1128 MGS
-us_m1128_mgs_0;Mobile Gun System, M1128 Stryker
-us_m1128_mgs_1;M1128
-us_m1128_mgs_2;Light tank
-us_m1128_wolfpack_shop;M1128 MGS (3rd Sqd. 2nd Cav.Reg.)
-us_m1128_wolfpack_0;Mobile Gun System, M1128 Stryker (3rd Squadron 2nd Cavalry Regiment)
-us_m1128_wolfpack_1;M1128
-us_m1128_wolfpack_2;Light tank
 us_rdf_lt_shop;14.8 Ton RDF/LT
 us_rdf_lt_0;AAI Corperation 14.8 Ton Rapid Deployment Force Light Tank
 us_rdf_lt_1;14.8 Ton RDF/LT
@@ -4350,6 +4359,10 @@ hs-129b-2_romania_shop;▀╏ Hs 129 B-2
 hs-129b-2_romania_0;▀╏ Hs 129 B-2
 hs-129b-2_romania_1;▀╏ Hs 129 B
 hs-129b-2_romania_2;▀╏ Hs 129
+me_210a_1_shop;Me 210 A-1
+me_210a_1_0;Messerschmitt | Me 210 A-1
+me_210a_1_1;Me 210 A
+me_210a_1_2;Me 210
 me-410a-1_u4_shop;Me 410 A-1/U4
 me-410a-1_u4_0;Me 410 A-1/U4
 me-410a-1_u4_1;Me 410 A
@@ -4618,6 +4631,10 @@ alpha_jet_a_shop;◄ Alpha Jet A
 alpha_jet_a_0;◄ Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | Alpha Jet A
 alpha_jet_a_1;◄ Alpha Jet A
 alpha_jet_a_2;◄ Alpha Jet A
+alpha_jet_a_jabog41_shop;◄ Alpha Jet A (JaboG 41)
+alpha_jet_a_jabog41_0;◄ Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A (Jagdbombergeschwader 41)
+alpha_jet_a_jabog41_1;◄ Alpha Jet A
+alpha_jet_a_jabog41_2;◄ Alpha Jet
 f-84f_germany_shop;◄ F-84F-81-RE
 f-84f_germany_0;◄ F-84F-81-RE Thunderstreak
 f-84f_germany_1;◄ F-84F
@@ -5530,6 +5547,10 @@ fa_18a_hug_2_raaf_shop;▄ F/A-18A (HUG 2.4)
 fa_18a_hug_2_raaf_0;▄ McDonnell Douglas Corporation Model 267 / Government Aircraft Factories | F/A-18A Hornet (Hornet Upgrade Program Phase 2.4)
 fa_18a_hug_2_raaf_1;▄ F/A-18A
 fa_18a_hug_2_raaf_2;▄ F/A-18
+fa_18f_block_2_raaf_shop;▄ F/A-18F-2-MC
+fa_18f_block_2_raaf_0;▄ Boeing Defense, Space & Security | F/A-18F-2-MC Super Hornet
+fa_18f_block_2_raaf_1;▄ F/A-18F
+fa_18f_block_2_raaf_2;▄ F/A-18
 cf_188a_canada_shop;CF-188A
 cf_188a_canada_0;McDonnell Douglas Corporation Model 267 | CF-188A Hornet
 cf_188a_canada_1;CF-188A
@@ -6128,6 +6149,10 @@ a7he1_shop;A7He1
 a7he1_0;Heinkel Flugzeugwerke | Hainkeru 112 Gata Rikujō Sentōki | A7He1
 a7he1_1;A7He1
 a7he1_2;A7He
+me_210_v22_japan_shop;▅ Me 210 V22
+me_210_v22_japan_0;▅ Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22
+me_210_v22_japan_1;▅ Me 210 V22
+me_210_v22_japan_2;▅ Me 210
 ki_48_2_otsu_shop;Ki 48-II Otsu
 ki_48_2_otsu_0;Kawasaki Kōkūki Kōgyō | 99 Shiki Sōhatsu Kei Bakugekiki 2 Gata Otsu | Ki 48-II Otsu
 ki_48_2_otsu_1;Ki 48-II
@@ -7823,6 +7848,10 @@ cn_ztz_96a_prot_shop;WZ122R (2 Hào)
 cn_ztz_96a_prot_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122R (Yàngchē 2 Hào)
 cn_ztz_96a_prot_1;WZ122R
 cn_ztz_96a_prot_2;MBT
+cn_ztz_96b_shop;ZTZ96B (2017)
+cn_ztz_96b_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122 | ZTZ1996B Shì Zhǔ Zhàn Tankè (2017)
+cn_ztz_96b_1;ZTZ96B
+cn_ztz_96b_2;MBT
 cn_pgz_09_shop;PGZ09
 cn_pgz_09_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | PGZ2009 Shì Shuāng 35 Háomi Zì Háng Gāo Pào
 cn_pgz_09_1;PGZ09
@@ -7975,10 +8004,38 @@ ba_65_k14_l_shop;Ba. 65 (K-14fc) (L)
 ba_65_k14_l_0;Società Italiana Ernesto Breda | Ba. 65 (Motore K-14fc) (Torretta ad Arcone Tipo L)
 ba_65_k14_l_1;Ba. 65
 ba_65_k14_l_2;Ba. 65
+ba_65_a80_shop;Ba. 65 (A. 80)
+ba_65_a80_0;Società Italiana Ernesto Breda | Ba. 65 (Motore A. 80 R.C. 41)
+ba_65_a80_1;Ba. 65
+ba_65_a80_2;Ba. 65
+wm_21_shop;W.M. 21
+wm_21_0;Weiss Manfréd Acél- és Fémművek | W.M. 21 Sólyom közelfelderítő
+wm_21_1;W.M. 21
+wm_21_2;W.M. 21
+re_2000_heja_1_shop;Héja I
+re_2000_heja_1_0;Reggiane Officine Meccaniche Italiane / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja I vadászrepülőgép
+re_2000_heja_1_1;Héja I
+re_2000_heja_1_2;Héja
+re_2000_heja_2_shop;Héja II
+re_2000_heja_2_0;Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja II vadászrepülőgép
+re_2000_heja_2_1;Héja II
+re_2000_heja_2_2;Héja
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+wm_23_shop;W.M. 23
+wm_23_0;Weiss Manfréd Acél- és Fémművek | W.M. 23 Ezüst Nyíl vadászrepülőgép
+wm_23_1;W.M. 23
+wm_23_2;W.M. 23
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+me_210ca_1_hungary_shop;◐ Me 210 Ca-1
+me_210ca_1_hungary_0;◐ Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép
+me_210ca_1_hungary_1;◐ Me 210 Ca
+me_210ca_1_hungary_2;◐ Me 210
+me_210ca_1_40_mm_hungary_shop;◐ Me 210 Ca-1 (36 M.)
+me_210ca_1_40_mm_hungary_0;◐ Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép (4 cm 36 M. légvédelmi gépágyú)
+me_210ca_1_40_mm_hungary_1;◐ Me 210 Ca
+me_210ca_1_40_mm_hungary_2;◐ Me 210
 bf_110g_4_hungary_shop;◐ Bf 110 G-4
 bf_110g_4_hungary_0;◐ Messerschmitt | Bf 110 G-4 éjjeli vadász
 bf_110g_4_hungary_1;◐ Bf 110 G
@@ -7993,6 +8050,10 @@ bf-109g-2_hungary_1;◐ Bf 109 G
 bf-109g-2_hungary_2;◐ Bf 109
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+fw_190f_8_hungary_shop;◐ Fw 190 F-8
+fw_190f_8_hungary_0;◐ Focke-Wulf Flugzeugbau | Fw 190 F-8 vadászrepülőgép
+fw_190f_8_hungary_1;◐ Fw 190 F
+fw_190f_8_hungary_2;◐ Fw 190
 re_2005_vdm_shop;Re.2005 (9-12087A)
 re_2005_vdm_0;Officine Meccaniche Italiane | Re.2005 Sagittario (MM.495) (Luftschrauben-Gerätnummer 9-12087A)
 re_2005_vdm_1;Re.2005

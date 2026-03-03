@@ -30,6 +30,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Me 210A-1**
         - **Alpha Jet A (JaboG 41)** (Germany)
         - **sWaTrIng**
+        - **MiG-29 (9-12)**
+        - **MiG-29M (9-15)**
         - **F/A-18F** (UK / Australia)
         - **Me 210 V22**
         - **Ho-Ni II**
@@ -59,6 +61,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Me 210A-1** → **Me 210 A-1**. Statcard name → **Messerschmitt | Me 210 A-1**.
         - **Alpha Jet A (JaboG 41)** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A (Jagdbombergeschwader 41)**.
         - **sWaTrInf** → **sWaTrgInf**. Statcard name → **ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie**.
+        - **MiG-29 (9-12)**: Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye | izd. 9-12 | Samolyet MiG-29**.
+        - **MiG-29M (9-15)** → **MiG-29M**. Statcard name → **Aviastroityel'nyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M**.
         - **F/A-18F** (UK / Australia) → **F/A-18F-2-MC**. Statcard name → **Boeing Defense, Space & Security | F/A-18F-2-MC Super Hornet**.
         - **Me 210 V22**: Statcard name → **Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22**.
             - Japanese package: Statcard name → **Messerschmitt / 川崎航空機工業明石工場 | Me 210 V22**.

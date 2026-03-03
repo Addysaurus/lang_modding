@@ -1465,6 +1465,7 @@ shop/group/uk_destroyer_battle_group;HMS Armada / HMAS Tobruk
 shop/group/uk_destroyer_daring_group;HMS Diana / Daring
 shop/group/uk_cruiser_kent_norfolk_group;HMS Kent / Norfolk
 
+shop/group/jp_ro_ni_group;Ho Ro / Ni II
 shop/group/jp_type_60_group;60SP / APC (ATM-1)
 shop/group/jp_type_87_89_group;87RCV / 89FV
 shop/group/jp_chi_to_group;Chi To (Shi 2 Gō) / Chi To
@@ -1604,9 +1605,10 @@ shop/group/mosquito_norway_group;◢ Mosquito F.B. Mk. VI / VI (A.S.V. Mk. IV)
 shop/group/saab_b17a_group;B 17 B / A
 shop/group/saab_t18b_group;T 18 B / B (57 mm akan m/47)
 shop/group/saab_j21a_group;J 21 A-1 / 2
-shop/group/saab_ja37d_group;JA 37 D / DI
 shop/group/bf_109g_sweden_group;MT (G-2) / (G-6/R6 Erla)
 shop/group/vampire_fb_group;J 28 B / VA
+shop/group/saab_ja37d_group;JA 37 D / DI
+shop/group/saab_jas39_group;JAS 39 A / C
 
 shop/group/il_magach_1_2_group;Magaḥ 1 / 2
 shop/group/il_rochev_tager_group;Rokhev A / Zaḥalam Tager
@@ -6496,6 +6498,18 @@ jp_type_4_ho_ro_shop;Ho Ro
 jp_type_4_ho_ro_0;Mitsubishi Jū Kōgyō | 4 Shiki 15 Senchimētoru Jisō Hō | Ho Ro
 jp_type_4_ho_ro_1;Ho Ro
 jp_type_4_ho_ro_2;SPG
+jp_type_2_ho_ni_2_shop;Ho Ni II (early)
+jp_type_2_ho_ni_2_0;Rikugun Yasen Hōhei Gakkō | 1 Shiki 10 Senchi Jisō Hō | Ho Ni II (early)
+jp_type_2_ho_ni_2_1;Ho Ni II
+jp_type_2_ho_ni_2_2;SPG
+jp_type_3_ho_ni_I_shop;Ho Ni I
+jp_type_3_ho_ni_I_0;Rikugun Yasen Hōhei Gakkō | 1 Shiki 7 Senchi Han Jisō Hō | Ho Ni I
+jp_type_3_ho_ni_I_1;Ho Ni I
+jp_type_3_ho_ni_I_2;SPG
+jp_type_3_ho_ni_III_shop;Ho Ni III
+jp_type_3_ho_ni_III_0;Rikugun Yasen Hōhei Gakkō | 3 Shiki Hō Sensha | Ho Ni III
+jp_type_3_ho_ni_III_1;Ho Ni III
+jp_type_3_ho_ni_III_2;SPG
 jp_hiro_sha_shop;Shi 12 Senchi Ji Hō
 jp_hiro_sha_0;Mitsubishi Jū Kōgyō | Shisei 12 Senchimētoru Jisō Hō
 jp_hiro_sha_1;Shi 12 Senchi Ji Hō
@@ -6526,14 +6540,6 @@ jp_type_1_chi_he_5th_regiment_shop;Chi He (5 Sen Ren)
 jp_type_1_chi_he_5th_regiment_0;Mitsubishi Jū Kōgyō | 1 Shiki Chū Sensha | Chi He (Dai 5 Sensha Rentai)
 jp_type_1_chi_he_5th_regiment_1;Chi He
 jp_type_1_chi_he_5th_regiment_2;Medium tank
-jp_type_3_ho_ni_I_shop;Ho Ni I
-jp_type_3_ho_ni_I_0;Rikugun Yasen Hōhei Gakkō | 1 Shiki 7 Senchi Han Jisō Hō | Ho Ni I
-jp_type_3_ho_ni_I_1;Ho Ni I
-jp_type_3_ho_ni_I_2;SPG
-jp_type_3_ho_ni_III_shop;Ho Ni III
-jp_type_3_ho_ni_III_0;Rikugun Yasen Hōhei Gakkō | 3 Shiki Hō Sensha | Ho Ni III
-jp_type_3_ho_ni_III_1;Ho Ni III
-jp_type_3_ho_ni_III_2;SPG
 jp_navy_120mm_spg_shop;12 Senchi Ji Hō
 jp_navy_120mm_spg_0;Kaigun Kansei Honbu Dai 1 Bu | 12 Senchimētoru Jisō Hō
 jp_navy_120mm_spg_1;12 Senchi Ji Hō
@@ -6726,12 +6732,16 @@ jp_type_16_shop;16MCV (C1)
 jp_type_16_0;Mitsubishi Jū Kōgyō | 16 Shiki Kidō Sentō Sha (C1 Rotto)
 jp_type_16_1;16MCV
 jp_type_16_2;Light tank
+jp_btr_3e1_shop;Bīthīxār 3 Xī 1
+jp_btr_3e1_0;Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Roth Kerāa Lo Yāng Bīthīxār 3 Xī 1
+jp_btr_3e1_1;Bīthīxār 3 Xī 1
+jp_btr_3e1_2;IFV
 jp_m60a3_tts_shop;Th.Hlạk Xěm 60 Xe 3
-jp_m60a3_tts_0;Chrysler Defense Engineering | Rth Thạng Xěm 60 Xe 3
+jp_m60a3_tts_0;Chrysler Defense Engineering | Roth Thạng Hlạk Xěm 60 Xe 3
 jp_m60a3_tts_1;Th.Hlạk Xěm 60 Xe 3
 jp_m60a3_tts_2;MBT
 jp_stingray_shop;Th.Bao 32
-jp_stingray_0;Cadillac Gage Stingray | Rth Thạng Bao 32
+jp_stingray_0;Cadillac Gage Stingray | Roth Thạng Bao 32
 jp_stingray_1;Th.Bao 32
 jp_stingray_2;Light tank
 
@@ -6795,7 +6805,7 @@ jp_type_10_0;Gijutsu Kenkyū Honbu + Mitsubishi Jū Kōgyō | 10 Shiki Sensha
 jp_type_10_1;10TK
 jp_type_10_2;MBT
 jp_oplot_t_shop;Th.Hlạk 57
-jp_oplot_t_0;Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rth Thạng Hlạk 57
+jp_oplot_t_0;Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Roth Thạng Hlạk 57
 jp_oplot_t_1;Th.Hlạk 57
 jp_oplot_t_2;MBT
 
@@ -7498,10 +7508,10 @@ j_10a_shop;K/JJ10A
 j_10a_0;"Chéngdū Fēijī Gōngyè (Jítuán) | K/JJ10A Xíng Fēijī ""Měng Lóng"""
 j_10a_1;K/JJ10A
 j_10a_2;K/JJ10
-j_10c_shop;K/JJ10C
-j_10c_0;"Chéngdū Fēijī Gōngyè (Jítuán) | K/JJ10C Xíng Fēijī ""Měng Lóng"""
-j_10c_1;K/JJ10C
-j_10c_2;K/JJ10
+j_10c_shop;J10CE
+j_10c_0;"Chéngdū Fēijī Gōngyè (Jítuán) | J10CE Xíng Fēijī ""Měng Lóng"""
+j_10c_1;J10CE
+j_10c_2;J10
 mirage_2000_5ei_shop;M-2000-5
 mirage_2000_5ei_0;Dassault Aviation | M-2000-5 Xíng Zhàndòu Jī
 mirage_2000_5ei_1;M-2000-5
@@ -7518,6 +7528,10 @@ j_11b_shop;K/JJ11B
 j_11b_0;"Kompaniâ «Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ11B Xíng Fēijī ""Yìng Lóng"""
 j_11b_1;K/JJ11B
 j_11b_2;K/JJ11
+j_15t_shop;H/JJ15T
+j_15t_0;"Shěnyáng Fēijī Gōngyè (Jítuán) | H/JJ15T Xíng Fēijī ""Fēi Shā"""
+j_15t_1;H/JJ15T
+j_15t_2;H/JJ15
 jf_17_shop;JF-17 Block I
 jf_17_0;Chéngdū Phējī Udyoga Samūha + Pākistān Aironāṭikal Kampḷiks | JF-17 Block I Thunder
 jf_17_1;JF-17 Block I
@@ -8224,6 +8238,10 @@ it_c1_ariete_certezza_1;Ariete
 it_c1_ariete_certezza_2;MBT
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+it_centauro_2_shop;Centauro II 120
+it_centauro_2_0;Consortium Iveco-Oto Melara | Centauro II 120 (Guardian H3)
+it_centauro_2_1;Centauro II 120
+it_centauro_2_2;Light Tank
 it_samp_t_launcher_shop;⛨ SAMP/T (MLT)
 it_samp_t_launcher_0;⛨ Eurosam | Sol-Air Moyenne Portée/Terrestre (Module de Lancement Terrestre)
 it_samp_t_launcher_1;⛨ SAMP/T (MLT)
@@ -8630,8 +8648,20 @@ saab_f35_wdns_1;♔ F-35
 saab_f35_wdns_2;♔ F-35
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+saab_jas39a_shop;JAS 39 A (Cobra)
+saab_jas39a_0;Saab 39 Gripen A | JAS 39 A Gripen (Cobra)
+saab_jas39a_1;JAS 39 A
+saab_jas39a_2;JAS 39
+saab_jas39c_shop;JAS 39 C (Cobra)
+saab_jas39c_0;Saab 39 Gripen C | JAS 39 C Gripen (Cobra)
+saab_jas39c_1;JAS 39 C
+saab_jas39c_2;JAS 39
+saab_jas39d_shop;JAS 39 D (Cobra)
+saab_jas39d_0;Saab 39 Gripen D | JAS 39 D Gripen (Cobra)
+saab_jas39d_1;JAS 39 D
+saab_jas39d_2;JAS 39
 saab_jas39e_shop;JAS 39 E
-saab_jas39e_0;Saab 39 E | JAS 39 E Gripen
+saab_jas39e_0;Saab 39 Gripen E | JAS 39 E Gripen
 saab_jas39e_1;JAS 39 E
 saab_jas39e_2;JAS 39
 f_16am_block_20_mlu_norway_shop;◢ F-16AM-20-CF
@@ -8778,6 +8808,10 @@ il_mim_72_chaparral_shop;Draḳon
 il_mim_72_chaparral_0;Ford Aerospace & Communications Corporation | Draḳon
 il_mim_72_chaparral_1;Draḳon
 il_mim_72_chaparral_2;SPAA
+il_eitan_shop;'Eitan Ṣariaḥ
+il_eitan_0;Merkaz Šikum ve-'Aḥzakah 7000 | Nagma'š 'Eitan im Ṣariaḥ
+il_eitan_1;'Eitan Ṣariaḥ
+il_eitan_2;IFV
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 il_spyder_aio_shop;SPYDER MFU AiO SR
@@ -10908,14 +10942,6 @@ saab_ja37di_shop;JA 37 DI
 saab_ja37di_0;Saab 37 | JA 37 DI Viggen
 saab_ja37di_1;JA 37 DI
 saab_ja37di_2;JA 37
-saab_jas39a_shop;JAS 39 A (Cobra)
-saab_jas39a_0;Saab 39 Gripen A | JAS 39 A Gripen (Cobra)
-saab_jas39a_1;JAS 39 A
-saab_jas39a_2;JAS 39
-saab_jas39c_shop;JAS 39 C (Cobra)
-saab_jas39c_0;Saab 39 Gripen C | JAS 39 C Gripen (Cobra)
-saab_jas39c_1;JAS 39 C
-saab_jas39c_2;JAS39
 saab_jas39c_south_africa_shop;▄ Gripen C (Cobra)
 saab_jas39c_south_africa_0;▄ Saab 39 Gripen C (Cobra)
 saab_jas39c_south_africa_1;▄ Gripen C
@@ -14189,6 +14215,10 @@ germ_wiesel_1_mk20_shop;Wiesel 1 A4 MK
 germ_wiesel_1_mk20_0;Waffenträger Wiesel 1 A4 MK
 germ_wiesel_1_mk20_1;Wiesel 1 A4
 germ_wiesel_1_mk20_2;SPAA
+germ_boxer_swatrinf_shop;sWaTrgInf
+germ_boxer_swatrinf_0;ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie
+germ_boxer_swatrinf_1;sWaTrgInf
+germ_boxer_swatrinf_2;IFV
 germ_vilkas_shop;Vilkas
 germ_vilkas_0;Pėstininkų kovos mašina Vilkas
 germ_vilkas_1;Vilkas

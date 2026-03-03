@@ -29,8 +29,13 @@ All dates are listed in DD-MM-YYYY format.
         - **M1296**
         - **Me 210A-1**
         - **Alpha Jet A (JaboG 41)** (Germany)
+        - **sWaTrIng**
         - **F/A-18F** (UK / Australia)
         - **Me 210 V22**
+        - **Ho-Ni II**
+        - **Ho-Ro/Ni** (folder)
+        - **BTR-3E1** (Japan / Thailand)
+        - **J-15T**
         - **ZTZ96B**
         - **Ba.65 A.80**
         - **WM-21**
@@ -39,7 +44,12 @@ All dates are listed in DD-MM-YYYY format.
         - **WM-23**
         - **Me 210 Ca-1**
         - **Me 210 Ca-1 39M**
+        - **Me 410 Ca** (Italy / Hungary) (folder)
         - **Fw 190 F-8** (Italy / Hungary)
+        - **Centauro II (P)**
+        - **JAS39D**
+        - **JAS39** (folder)
+        - **Eitan (P)**
 
 - #### Changes:
 
@@ -48,9 +58,20 @@ All dates are listed in DD-MM-YYYY format.
         - **M1296** → **M1296 ICVD**. Statcard name → **General Dynamics Land Systems | Combat Vehicle, Infantry, Dragoon, M1296**.
         - **Me 210A-1** → **Me 210 A-1**. Statcard name → **Messerschmitt | Me 210 A-1**.
         - **Alpha Jet A (JaboG 41)** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A (Jagdbombergeschwader 41)**.
+        - **sWaTrInf** → **sWaTrgInf**. Statcard name → **ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie**.
         - **F/A-18F** (UK / Australia) → **F/A-18F-2-MC**. Statcard name → **Boeing Defense, Space & Security | F/A-18F-2-MC Super Hornet**.
         - **Me 210 V22**: Statcard name → **Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22**.
             - Japanese package: Statcard name → **Messerschmitt / 川崎航空機工業明石工場 | Me 210 V22**.
+        - **Ho-Ni II** → **Ho Ni II (early)**. Statcard name → **Rikugun Yasen Hōhei Gakkō | 1 Shiki 10 Senchi Jisō Hō | Ho Ni II (early)**.
+            - Japanese package: **Ho-Ni II** → **ホニII (early)**. Statcard name → **陸軍野戦砲兵学校 | 一式十糎自走砲 | ホニII (early)**.
+        - **Ho-Ro/Ni** (folder) → **Ho Ro / Ni II**.
+            - Japanese package: **Ho-Ro/Ni** (folder) → **ホロ / ニII**.
+        - **BTR-3E1** → **Bīthīxār 3 Xī 1**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Roth Kerāa Lo Yāng Bīthīxār 3 Xī 1**.
+            - Thai package: **BTR-3E1** → **บีทีอาร์ ๓ อี ๑**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | รถเกราะล้อยาง บีทีอาร์ ๓ อี ๑**.
+            - Ukrainian package: Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Roth Kerāa Lo Yāng Bīthīxār 3 Xī 1**.
+            - Thai + Ukrainian package: **BTR-3E1** → **บีทีอาร์ ๓ อี ๑**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | รถเกราะล้อยาง บีทีอาร์ ๓ อี ๑**.
+        - **J-15T** → **H/JJ15T**. Statcard name → **Shěnyáng Fēijī Gōngyè (Jítuán) | H/JJ15T Xíng Fēijī "Fēi Shā"**.
+            - Mandarin package: Statcard name → **沈阳飞机工业 (集团) | H/JJ15T型飞机 "飞鲨"**.
         - **ZTZ96B** → **ZTZ96B (2017)**. Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122 | ZTZ1996B Shì Zhǔ Zhàn Tankè (2017)**.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ122 | ZTZ1996B式主战坦克 (2017)**.
         - **Ba.65 A.80** → **Ba. 65 (A. 80)**. Statcard name → **Società Italiana Ernesto Breda | Ba. 65 (Motore A. 80 R.C. 41)**.
@@ -60,8 +81,13 @@ All dates are listed in DD-MM-YYYY format.
         - **WM-23** → **W.M. 23**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M. 23 Ezüst Nyíl vadászrepülőgép**.
         - **Me 210 Ca-1**: Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép**.
         - **Me 210 Ca-1 39M** → **Me 210 Ca-1 (36 M.)**. Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép (4 cm 36 M. légvédelmi gépágyú)**.
-        - **M1296** → **M1296 ICVD**. Statcard name → **General Dynamics Land Systems | Combat Vehicle, Infantry, Dragoon, M1296**.
+        - **Me 410 Ca** (Italy / Hungary) (folder) → **Me 210 Ca-1 / 1 (36 M.)**.
         - **Fw 190 F-8** (Italy / Hungary): Statcard name → **Focke-Wulf Flugzeugbau | Fw 190 F-8 vadászrepülőgép**.
+        - **Centauro II (P)** → **Centauro II 120**. Statcard name → **Consortium Iveco-Oto Melara | Centauro II 120 (Guardian H3)**.
+        - **JAS39D** → **JAS 39 D (Cobra)**. Statcard name → **Saab 39 D | JAS 39 D Gripen (Cobra)**.
+        - **JAS39** (folder) → **JAS 39 A / C**.
+        - **Eitan (P)** → **'Eitan Ṣariaḥ**. Statcard name → **Merkaz Šikum ve-'Aḥzakah 7000 | Nagma'š 'Eitan im Ṣariaḥ**.
+            - Hebrew package: **Eitan (P)** → **איתן צריח**. Statcard name → **נגמ״ש איתן עם צריח | מרכז שיקום ואחזקה 7000**.
     - Hungarian air rework:
         - **He 112 B-1/U2** (Germany / Hungary): Statcard name → **Heinkel Flugzeugwerke | He 112 B-1/U2 vadászrepülőgép**.
         - **Bf 110 G-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 110 G-4 éjjeli vadász**.
@@ -80,7 +106,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Su-22M4 (WTD 61)** (Germany): Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Erzeugn. S-54K | Su-22M4 Fitter-K (Wehrtechnische Dienststelle 61)**.
     - **Ptx. M 163** → **Ptx. Xěm 163**. Statcard name ** → **General Electric Company | Pụ̄n Txsū Xākāṣyān 20 mm Xạttā Jr Bæb Xěm 163**.
         - Thai package: **ปตอ. เอ็ม 163** → **ปตอ. เอ็ม ๑๖๓**. Statcard name → **General Electric Company | ปืนต่อสู้อากาศยาน ๒๐ มม อัตตาจรแบบ เอ็ม ๑๖๓**.
-    - **Th.Hlạk M 60 A3** → **Th.Hlạk Xěm 60 Xe 3**. Statcard name → **Chrysler Defense Engineering | Roth Thạng Xěm 60 Xe 3**.
+    - **Th.Hlạk M 60 A3** → **Th.Hlạk Xěm 60 Xe 3**. Statcard name → **Chrysler Defense Engineering | Roth Thạng Hlạk Xěm 60 Xe 3**.
         - Thai package: **ถ.หลัก เอ็ม 60 เอ 3** → **ถ.หลัก เอ็ม ๖๐ เอ ๓**. Statcard name → **Chrysler Defense Engineering | รถถังหลัก เอ็ม ๖๐ เอ ๓**.
     - **Th.Bao 32**: Statcard name → **Cadillac Gage Stingray | Roth Thạng Bao 32**.
         - Thai package: **ถ.เบา 32** → **ถ.เบา ๓๒**. Statcard name → **Cadillac Gage Stingray | รถถังเบา ๓๒**.
@@ -94,6 +120,9 @@ All dates are listed in DD-MM-YYYY format.
     - **Ba.65 (K-14fc) L** → **Ba. 65 (K-14fc) (L)**. Statcard name → **Società Italiana Ernesto Breda | Ba. 65 (Motore K-14fc) (Torretta ad Arcone Tipo L)**.
     - **Alpha Jet A** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A**.
     - **Alpha Jet E** (France): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet E**.
+    - **K/JJ10C** → **J10CE**. The new FWS10B means that, combined with the weapon config, it is now identical to the 2024 display of the J10CE. It also gets no K/ because the J10CE isn't in service (the K/ thing is also prob gonna be removed from all aircraft but that's not this update).
+        - Full Mandarin package: **K/JJ10C** → **歼10CE**.
+    - **JAS 39 E**: Statcard name → **Saab 39 Gripen E | JAS 39 E Gripen**.
 
 ### Weapons:
 

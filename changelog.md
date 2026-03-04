@@ -40,6 +40,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Ho-Ro/Ni** (folder)
         - **BTR-3E1** (Japan / Thailand)
         - **IJN Tade**
+        - **IJN Kagero**
         - **J-15T**
         - **ZTZ96B**
         - **Ba.65 A.80**
@@ -83,6 +84,8 @@ All dates are listed in DD-MM-YYYY format.
             - Thai + Ukrainian package: **BTR-3E1** → **บีทีอาร์ ๓ อี ๑**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | รถเกราะล้อยาง บีทีอาร์ ๓ อี ๑**.
         - **IJN Tade** → **Tade**. Statcard name → **Fujinagata Zōsensho | Nitō Kuchikukan | Tade Gata Kuchikukan (F-37) | Tade**.
             - Japanese package: **IJN Tade** → **蓼**. Statcard name → **藤永田造船所 | 二等驅逐艦 | 樅型驅逐艦 (F-37) | 蓼**.
+        - **IJN Kagero** → **Kagerō**. Statcard name → **Maizuru Kaigun Kōshō / Kure Kaigun Kōshō | Ittō Kuchikukan | Kagerō Gata Kuchikukan (F-49) | Kagerō (1943)**.
+            - Japanese package: **IJN Kagero** → **陽炎**. Statcard name → **舞鶴海軍工廠 / 呉海軍工廠 | 一等驅逐艦 | 陽炎型驅逐艦 (F-49) | 陽炎 (1943)**.
         - **J-15T** → **H/JJ15T**. Statcard name → **Shěnyáng Fēijī Gōngyè (Jítuán) | H/JJ15T Xíng Fēijī "Fēi Shā"**.
             - Mandarin package: Statcard name → **沈阳飞机工业 (集团) | H/JJ15T型飞机 "飞鲨"**.
         - **ZTZ96B** → **ZTZ96B (2017)**. Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122 | ZTZ1996B Shì Zhǔ Zhàn Tankè (2017)**.

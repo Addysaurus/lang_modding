@@ -30,6 +30,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Me 210A-1**
         - **Alpha Jet A (JaboG 41)** (Germany)
         - **sWaTrIng**
+        - **S-61**
+        - **Z52**
         - **MiG-29 (9-12)**
         - **MiG-29M (9-15)**
         - **F/A-18F** (UK / Australia)
@@ -37,6 +39,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Ho-Ni II**
         - **Ho-Ro/Ni** (folder)
         - **BTR-3E1** (Japan / Thailand)
+        - **IJN Tade**
         - **J-15T**
         - **ZTZ96B**
         - **Ba.65 A.80**
@@ -49,6 +52,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Me 410 Ca** (Italy / Hungary) (folder)
         - **Fw 190 F-8** (Italy / Hungary)
         - **Centauro II (P)**
+        - **RN Saetta**
+        - **RN Vincenzo Gioberti**
         - **JAS39D**
         - **JAS39** (folder)
         - **Eitan (P)**
@@ -61,6 +66,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Me 210A-1** → **Me 210 A-1**. Statcard name → **Messerschmitt | Me 210 A-1**.
         - **Alpha Jet A (JaboG 41)** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A (Jagdbombergeschwader 41)**.
         - **sWaTrInf** → **sWaTrgInf**. Statcard name → **ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie**.
+        - **S-61** → **S 61**. Statcard name → **Lürssen Werft | Schnellboot Typ 1939/1940 | S 61**.
+        - **Z52** → **Z 52**. Statcard name → **Deutsche Schiff- und Maschinenbau A.G. "Weser" | Zerstörer Typ 1944 | Z 52**.
         - **MiG-29 (9-12)**: Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye | izd. 9-12 | Samolyet MiG-29**.
         - **MiG-29M (9-15)** → **MiG-29M**. Statcard name → **Aviastroityel'nyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M**.
         - **F/A-18F** (UK / Australia) → **F/A-18F-2-MC**. Statcard name → **Boeing Defense, Space & Security | F/A-18F-2-MC Super Hornet**.
@@ -74,6 +81,8 @@ All dates are listed in DD-MM-YYYY format.
             - Thai package: **BTR-3E1** → **บีทีอาร์ ๓ อี ๑**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | รถเกราะล้อยาง บีทีอาร์ ๓ อี ๑**.
             - Ukrainian package: Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | Roth Kerāa Lo Yāng Bīthīxār 3 Xī 1**.
             - Thai + Ukrainian package: **BTR-3E1** → **บีทีอาร์ ๓ อี ๑**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. O. O. Морозова | รถเกราะล้อยาง บีทีอาร์ ๓ อี ๑**.
+        - **IJN Tade** → **Tade**. Statcard name → **Fujinagata Zōsensho | Nitō Kuchikukan | Tade Gata Kuchikukan (F-37) | Tade**.
+            - Japanese package: **IJN Tade** → **蓼**. Statcard name → **藤永田造船所 | 二等驅逐艦 | 樅型驅逐艦 (F-37) | 蓼**.
         - **J-15T** → **H/JJ15T**. Statcard name → **Shěnyáng Fēijī Gōngyè (Jítuán) | H/JJ15T Xíng Fēijī "Fēi Shā"**.
             - Mandarin package: Statcard name → **沈阳飞机工业 (集团) | H/JJ15T型飞机 "飞鲨"**.
         - **ZTZ96B** → **ZTZ96B (2017)**. Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122 | ZTZ1996B Shì Zhǔ Zhàn Tankè (2017)**.
@@ -88,6 +97,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Me 410 Ca** (Italy / Hungary) (folder) → **Me 210 Ca-1 / 1 (36 M.)**.
         - **Fw 190 F-8** (Italy / Hungary): Statcard name → **Focke-Wulf Flugzeugbau | Fw 190 F-8 vadászrepülőgép**.
         - **Centauro II (P)** → **Centauro II 120**. Statcard name → **Consortium Iveco-Oto Melara | Centauro II 120 (Guardian H3)**.
+        - **RN Saetta** → **Saetta (SA)**. Statcard name → **Cantiere navale del Tirreno di Riva Trigoso / Cantieri navali riuniti di Palermo | Cacciatorpediniere Classe Freccia | Saetta (SA) (1942)**.
+        - **RN Vincenzo Gioberti** → **Vincenzo Gioberti (GB)**. Statcard name → **Odero-Terni-Orlando Cantieri di Livorno / Cantiere navale di Castellammare di Stabia | Cacciatorpediniere Classe Alfredo Oriani | Vincenzo Gioberti (GB) (1942)**.
         - **JAS39D** → **JAS 39 D (Cobra)**. Statcard name → **Saab 39 D | JAS 39 D Gripen (Cobra)**.
         - **JAS39** (folder) → **JAS 39 A / C**.
         - **Eitan (P)** → **'Eitan Ṣariaḥ**. Statcard name → **Merkaz Šikum ve-'Aḥzakah 7000 | Nagma'š 'Eitan im Ṣariaḥ**.
@@ -127,6 +138,9 @@ All dates are listed in DD-MM-YYYY format.
     - **K/JJ10C** → **J10CE**. The new FWS10B means that, combined with the weapon config, it is now identical to the 2024 display of the J10CE. It also gets no K/ because the J10CE isn't in service (the K/ thing is also prob gonna be removed from all aircraft but that's not this update).
         - Full Mandarin package: **K/JJ10C** → **歼10CE**.
     - **JAS 39 E**: Statcard name → **Saab 39 Gripen E | JAS 39 E Gripen**.
+    - **Bf 109 E-7** (Japan) → **Bf 109 E-7/N**.
+    - **VBM Freccia C/C**: Statcard name → **Consortium Iveco-Oto Melara | Veicolo Blindato Medio Freccia Contro Carro**.
+    - **VBM Freccia C/C (OWS 30mm)**: Statcard name → **Consortium Iveco-Oto Melara | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)**.
 
 ### Weapons:
 

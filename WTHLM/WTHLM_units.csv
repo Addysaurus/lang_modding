@@ -5107,14 +5107,18 @@ germ_iris_slm_launcher_2;SPAAM
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+germ_s30_s61_shop;S 61
+germ_s30_s61_0;Lürssen Werft | Schnellboot Typ 1939/1940 | S 61
+germ_s30_s61_1;S 61
+germ_s30_s61_2;Fast Boat
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+
+//GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 germ_schutze_class_shop;Schütze (M 1062)
 germ_schutze_class_0;Abeking & Rasmussen | schnelles Minensuchboot Schütze-Klasse (Typ 340) | Schütze (M 1062)
 germ_schutze_class_1;Schütze (M 1062)
 germ_schutze_class_2;Minesweeper
-
-//GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 germ_pr1331_shop;Parchim (242)
@@ -5131,6 +5135,10 @@ germ_destroyer_class1942_z51_shop;Z 51
 germ_destroyer_class1942_z51_0;"Deutsche Schiff- und Maschinenbau A.G. ""Weser"" | Zerstörer Typ 1942 | Z 51"
 germ_destroyer_class1942_z51_1;Z 51
 germ_destroyer_class1942_z51_2;Destroyer
+germ_destroyer_class1944_z52_shop;Z 52
+germ_destroyer_class1944_z52_0;"Deutsche Schiff- und Maschinenbau A.G. ""Weser"" | Zerstörer Typ 1944 | Z 52"
+germ_destroyer_class1944_z52_1;Z 52
+germ_destroyer_class1944_z52_2;Destroyer
 germ_destroyer_lutjens_class_lutjens_shop;Lütjens (D 185)
 germ_destroyer_lutjens_class_lutjens_0;Bath Iron Works | Zerstörer Lütjens-Klasse (Typ 103) | Lütjens (D 185)
 germ_destroyer_lutjens_class_lutjens_1;Lütjens
@@ -5239,10 +5247,10 @@ mig_29_9_12_shop;MiG-29 (9-12)
 mig_29_9_12_0;"Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | izd. 9-12 | Samolyet MiG-29"
 mig_29_9_12_1;MiG-29
 mig_29_9_12_2;MiG-29
-mig_29_9_12_shop;MiG-29M
-mig_29_9_12_0;Aviastroityel'nyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M
-mig_29_9_12_1;MiG-29M
-mig_29_9_12_2;MiG-29
+mig_29m_9_15_shop;MiG-29M
+mig_29m_9_15_0;Aviastroityel'nyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M
+mig_29m_9_15_1;MiG-29M
+mig_29m_9_15_2;MiG-29
 su_27_shop;Su-27
 su_27_0;Kompaniâ «Sukhoj» | izd. T-10S | Samolyet Su-27
 su_27_1;Su-27
@@ -6171,8 +6179,8 @@ ki_48_2_otsu_event_shop;Ki 48-II Otsu
 ki_48_2_otsu_event_0;Kawasaki Kōkūki Kōgyō | 99 Shiki Sōhatsu Kei Bakugekiki 2 Gata Otsu | Ki 48-II Otsu
 ki_48_2_otsu_event_1;Ki 48-II
 ki_48_2_otsu_event_2;Ki 48
-bf-109e-3_japan_shop;▅ Bf 109 E-7
-bf-109e-3_japan_0;▅ Messerschmitt | Bf 109 E-7
+bf-109e-3_japan_shop;▅ Bf 109 E-7/N
+bf-109e-3_japan_0;▅ Messerschmitt | Bf 109 E-7/N
 bf-109e-3_japan_1;▅ Bf 109 E
 bf-109e-3_japan_2;▅ Bf 109
 f4u-1a_japan_shop;▅ F4U-1A
@@ -6956,6 +6964,10 @@ jp_destroyer_momi_shop;Momi
 jp_destroyer_momi_0;Yokosuka Kaigun Kōshō | Nitō Kuchikukan | Momi Gata Kuchikukan (F-37) | Momi (1930)
 jp_destroyer_momi_1;Momi
 jp_destroyer_momi_2;Destroyer
+jp_destroyer_tade_shop;Tade
+jp_destroyer_tade_0;Fujinagata Zōsensho | Nitō Kuchikukan | Tade Gata Kuchikukan (F-37) | Tade
+jp_destroyer_tade_1;Tade
+jp_destroyer_tade_2;Destroyer
 jp_destroyer_matsu_shop;Matsu
 jp_destroyer_matsu_0;Maizuru Kaigun Kōshō | Ittō Kuchikukan | Matsu Gata Kuchikukan (F-55) | Matsu
 jp_destroyer_matsu_1;Matsu
@@ -8221,11 +8233,11 @@ it_9a35_m_0;"◔ 9A35M önjáró légvédelmi rakétakomplexum ""Sztrela-10M"""
 it_9a35_m_1;◔ 9A35M
 it_9a35_m_2;SPAAM
 it_freccia_shop;VBM Freccia C/C
-it_freccia_0;Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro
+it_freccia_0;Consortium Iveco-Oto Melara | Veicolo Blindato Medio Freccia Contro Carro
 it_freccia_1;VBM Freccia C/C
 it_freccia_2;IFV
 it_freccia_hitfist_ows_shop;VBM Freccia C/C (OWS 30mm)
-it_freccia_hitfist_ows_0;Iveco-Oto Melara Consortium | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)
+it_freccia_hitfist_ows_0;Consortium Iveco-Oto Melara | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)
 it_freccia_hitfist_ows_1;VBM Freccia C/C
 it_freccia_hitfist_ows_2;IFV
 it_leopard_2a4_shop;◔ Leopard 2A4HU
@@ -8278,6 +8290,18 @@ it_cassiopea_p401_1;Cassiopea
 it_cassiopea_p401_2;Patrol Vessel
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+it_destroyer_dardo_shop;Dardo (DR)
+it_destroyer_dardo_0;Cantiere navale di Sestri Ponente | Cacciatorpediniere Classe Freccia | Dardo (DR)
+it_destroyer_dardo_1;Dardo
+it_destroyer_dardo_2;Destroyer
+it_destroyer_saetta_shop;Saetta (SA)
+it_destroyer_saetta_0;Cantiere navale del Tirreno di Riva Trigoso / Cantieri navali riuniti di Palermo | Cacciatorpediniere Classe Freccia | Saetta (SA) (1942)
+it_destroyer_saetta_1;Saetta
+it_destroyer_saetta_2;Destroyer
+it_destroyer_oriani_class_gioberti_shop;Vincenzo Gioberti (GB)
+it_destroyer_oriani_class_gioberti_0;Odero-Terni-Orlando Cantieri di Livorno / Cantiere navale di Castellammare di Stabia | Cacciatorpediniere Classe Alfredo Oriani | Vincenzo Gioberti (GB) (1942)
+it_destroyer_oriani_class_gioberti_1;Vincenzo Gioberti (GB)
+it_destroyer_oriani_class_gioberti_2;Destroyer
 it_destroyer_maestrale_class_grecale_shop;Grecale (GR)
 it_destroyer_maestrale_class_grecale_0;Cantieri Navali del Tirreno e Riuniti / Arsenale militare marittimo della Spezia | Cacciatorpediniere Classe Maestrale | Gercale (GR) (1949)
 it_destroyer_maestrale_class_grecale_1;Grecale
@@ -15026,10 +15050,6 @@ it_destroyer_turbine_shop;Turbine (TB)
 it_destroyer_turbine_0;Cantiere navale di Sestri Ponente | Cacciatorpediniere Classe Turbine | Turbine (TB)
 it_destroyer_turbine_1;Turbine
 it_destroyer_turbine_2;Destroyer
-it_destroyer_dardo_shop;Dardo (DR)
-it_destroyer_dardo_0;Cantiere navale di Sestri Ponente | Cacciatorpediniere Classe Freccia | Dardo (DR)
-it_destroyer_dardo_1;Dardo
-it_destroyer_dardo_2;Destroyer
 it_destroyer_soldati_serie1_shop;Aviere (AV)
 it_destroyer_soldati_serie1_0;Odero-Terni-Orlando Cantieri di Livorno | Cacciatorpediniere Classe Soldati, 1ª Serie | Aviere (AV)
 it_destroyer_soldati_serie1_1;Aviere

@@ -19,6 +19,7 @@ shop/group/n1k2_group;N1K1-J甲 / 2-J / 2-J甲
 shop/group/ki_84_group;キ84-I甲 / 乙
 shop/group/j2m_group;J2M3 / 5
 shop/group/r2y2_group;R2Y2-G (一一型) / (二二型) / (三二型)
+shop/group/jp_ro_ni_group;ホロ / ニII
 shop/group/jp_ho_ni_group;ホニI / III
 shop/group/jp_chi_to_group;チト (二号) / チト
 shop/group/jp_type_60_group;60SP / APC (ATM-1)
@@ -311,6 +312,10 @@ a7he1_shop;A7He1
 a7he1_0;Heinkel Flugzeugwerke | ハインケル112型陸上戦闘機 | A7He1
 a7he1_1;A7He1
 a7he1_2;A7He
+me_210_v22_japan_shop;▅ Me 210 V22
+me_210_v22_japan_0;▅ Messerschmitt / 川崎航空機工業明石工場 | Me 210 V22
+me_210_v22_japan_1;▅ Me 210 V22
+me_210_v22_japan_2;▅ Me 210
 ki_48_2_otsu_shop;キ48-II乙
 ki_48_2_otsu_0;川崎航空機工業 | 九九式双発軽爆撃機二型乙 | キ48-II乙
 ki_48_2_otsu_1;キ48-II
@@ -603,6 +608,18 @@ jp_type_4_ho_ro_shop;ホロ
 jp_type_4_ho_ro_0;三菱重工業 | 四式十五糎自走砲 | ホロ
 jp_type_4_ho_ro_1;ホロ
 jp_type_4_ho_ro_2;SPG
+jp_type_2_ho_ni_2_shop;ホニII (early)
+jp_type_2_ho_ni_2_0;陸軍野戦砲兵学校 | 一式十糎自走砲 | ホニII (early)
+jp_type_2_ho_ni_2_1;ホニII
+jp_type_2_ho_ni_2_2;SPG
+jp_type_3_ho_ni_I_shop;ホニI
+jp_type_3_ho_ni_I_0;陸軍野戦砲兵学校 | 一式七糎半自走砲 | ホニI
+jp_type_3_ho_ni_I_1;ホニI
+jp_type_3_ho_ni_I_2;SPG
+jp_type_3_ho_ni_III_shop;ホニIII
+jp_type_3_ho_ni_III_0;陸軍野戦砲兵学校 | 三式砲戦車 | ホニIII
+jp_type_3_ho_ni_III_1;ホニIII
+jp_type_3_ho_ni_III_2;SPG
 jp_hiro_sha_shop;試十二糎自走
 jp_hiro_sha_0;三菱重工業 | 試製十二糎自走砲
 jp_hiro_sha_1;試十二糎自走
@@ -633,14 +650,6 @@ jp_type_1_chi_he_5th_regiment_shop;チヘ (五戦連)
 jp_type_1_chi_he_5th_regiment_0;三菱重工業 | 一式中戦車 | チヘ (第五戦車連隊)
 jp_type_1_chi_he_5th_regiment_1;チヘ
 jp_type_1_chi_he_5th_regiment_2;Medium tank
-jp_type_3_ho_ni_I_shop;ホニI
-jp_type_3_ho_ni_I_0;陸軍野戦砲兵学校 | 一式七糎半自走砲 | ホニI
-jp_type_3_ho_ni_I_1;ホニI
-jp_type_3_ho_ni_I_2;SPG
-jp_type_3_ho_ni_III_shop;ホニIII
-jp_type_3_ho_ni_III_0;陸軍野戦砲兵学校 | 三式砲戦車 | ホニIII
-jp_type_3_ho_ni_III_1;ホニIII
-jp_type_3_ho_ni_III_2;SPG
 jp_navy_120mm_spg_shop;十二糎自走
 jp_navy_120mm_spg_0;艦政本部第1部 | 十二糎自走砲
 jp_navy_120mm_spg_1;十二糎自走
@@ -1025,6 +1034,10 @@ jp_destroyer_momi_shop;樅
 jp_destroyer_momi_0;横須賀海軍工廠 | 二等驅逐艦 | 樅型驅逐艦 (F-37) | 樅 (1930)
 jp_destroyer_momi_1;樅
 jp_destroyer_momi_2;Destroyer
+jp_destroyer_tade_shop;蓼
+jp_destroyer_tade_0;藤永田造船所 | 二等驅逐艦 | 樅型驅逐艦 (F-37) | 蓼
+jp_destroyer_tade_1;蓼
+jp_destroyer_tade_2;Destroyer
 jp_destroyer_matsu_shop;松
 jp_destroyer_matsu_0;舞鶴海軍工廠 | 一等驅逐艦 | 松型驅逐艦 (F-55) | 松
 jp_destroyer_matsu_1;松
@@ -1128,6 +1141,10 @@ jp_destroyer_yukikaze_shop;雪風
 jp_destroyer_yukikaze_0;佐世保海軍工廠 / 呉海軍工廠 | 一等驅逐艦 | 陽炎型驅逐艦 (F-49) | 雪風 (1943)
 jp_destroyer_yukikaze_1;雪風
 jp_destroyer_yukikaze_2;Destroyer
+jp_destroyer_kagero_shop;陽炎
+jp_destroyer_kagero_0;舞鶴海軍工廠 / 呉海軍工廠 | 一等驅逐艦 | 陽炎型驅逐艦 (F-49) | 陽炎 (1943)
+jp_destroyer_kagero_1;陽炎
+jp_destroyer_kagero_2;Destroyer
 jp_cruiser_yubari_shop;夕張
 jp_cruiser_yubari_0;佐世保海軍工廠 / 横須賀海軍工廠 | 二等巡洋艦 | 夕張型巡洋艦 (F-42) | 夕張 (1944)
 jp_cruiser_yubari_1;夕張

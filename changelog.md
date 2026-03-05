@@ -55,6 +55,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Centauro II (P)**
         - **RN Saetta**
         - **RN Vincenzo Gioberti**
+        - **Verdun**
         - **JAS39D**
         - **JAS39** (folder)
         - **Eitan (P)**
@@ -102,6 +103,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Centauro II (P)** → **Centauro II 120**. Statcard name → **Consortium Iveco-Oto Melara | Centauro II 120 (Guardian H3)**.
         - **RN Saetta** → **Saetta (SA)**. Statcard name → **Cantiere navale del Tirreno di Riva Trigoso / Cantieri navali riuniti di Palermo | Cacciatorpediniere Classe Freccia | Saetta (SA) (1942)**.
         - **RN Vincenzo Gioberti** → **Vincenzo Gioberti (GB)**. Statcard name → **Odero-Terni-Orlando Cantieri di Livorno / Cantiere navale di Castellammare di Stabia | Cacciatorpediniere Classe Alfredo Oriani | Vincenzo Gioberti (GB) (1942)**.
+        - **Verdun** → **Verdun (X 33)**. Statcard name → **Ateliers et chantiers de la Loire / Arsenal de Sidi-Abdallah | Contre-torpilleur de la classe Guépard | Verdun (X 33) (1941)**.
         - **JAS39D** → **JAS 39 D (Cobra)**. Statcard name → **Saab 39 D | JAS 39 D Gripen (Cobra)**.
         - **JAS39** (folder) → **JAS 39 A / C**.
         - **Eitan (P)** → **'Eitan Ṣariaḥ**. Statcard name → **Merkaz Šikum ve-'Aḥzakah 7000 | Nagma'š 'Eitan im Ṣariaḥ**.

@@ -27,6 +27,7 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Ninth Wave" additions:
         - **F-16C** (the new one)
         - **M1296**
+        - **USS Helm**
         - **Me 210A-1**
         - **Alpha Jet A (JaboG 41)** (Germany)
         - **sWaTrIng**
@@ -65,6 +66,7 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Ninth Wave" changes"
         - **F-16C** (the new one) → **F-16C-52-MC (AN/APG-83)**. Statcard name → **Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (AN/APG-83 Scalable Agile Beam Radar)**.
         - **M1296** → **M1296 ICVD**. Statcard name → **General Dynamics Land Systems | Combat Vehicle, Infantry, Dragoon, M1296**.
+        - **USS Helm** → **USS Helm (DD-388)**. Statcard name → **Norfolk Naval Shipyard / Mare Island Naval Shipyard | Bagley-class Destroyer | USS Helm (DD-388) (1944)**.
         - **Me 210A-1** → **Me 210 A-1**. Statcard name → **Messerschmitt | Me 210 A-1**.
         - **Alpha Jet A (JaboG 41)** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A (Jagdbombergeschwader 41)**.
         - **sWaTrInf** → **sWaTrgInf**. Statcard name → **ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie**.

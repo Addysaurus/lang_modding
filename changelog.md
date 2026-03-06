@@ -67,12 +67,12 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Update "Ninth Wave" changes"
-        - **F-16C** (the new one) → **F-16C-52-MC (AN/APG-83)**. Statcard name → **Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (AN/APG-83 Scalable Agile Beam Radar)**.
+        - **F-16C** (the new one) → **F-16C-52-MC (PoBIT)**. Statcard name → **Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (Post Block Integration Team)**.
         - **M1296** → **M1296 ICVD**. Statcard name → **General Dynamics Land Systems | Combat Vehicle, Infantry, Dragoon, M1296**.
         - **USS Helm** → **USS Helm (DD-388)**. Statcard name → **Norfolk Naval Shipyard / Mare Island Naval Shipyard | Bagley-class Destroyer | USS Helm (DD-388) (1944)**.
         - **Me 210A-1** → **Me 210 A-1**. Statcard name → **Messerschmitt | Me 210 A-1**.
         - **Alpha Jet A (JaboG 41)** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A (Jagdbombergeschwader 41)**.
-        - **Sd.Kfz.234/2 "Biene"** → **s.Pz.Spw. (Kw.K. 39/1) (Pz.A.A. 20)**. Statcard name → **Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (20. Panzer-Division, 20. Panzer-Aufklärungs-Abteilung)**.
+        - **Sd.Kfz.234/2 "Biene"** → **s.Pz.Spw. (Kw.K. 39/1) (Pz.A.A. 20)**. Statcard name → **Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (Sd.Kfz. 234/2) (20. Panzer-Division, 20. Panzer-Aufklärungs-Abteilung)**.
         - **sWaTrgInf**: Statcard name → **ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie**.
         - **S-61** → **S 61**. Statcard name → **Lürssen Werft | Schnellboot Typ 1939/1940 | S 61**.
         - **Z52** → **Z 52**. Statcard name → **Deutsche Schiff- und Maschinenbau A.G. "Weser" | Zerstörer Typ 1944 | Z 52**.
@@ -154,7 +154,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Bf 109 E-7** (Japan) → **Bf 109 E-7/N**.
     - **VBM Freccia C/C**: Statcard name → **Consortium Iveco-Oto Melara | Veicolo Blindato Medio Freccia Contro Carro**.
     - **VBM Freccia C/C (OWS 30mm)**: Statcard name → **Consortium Iveco-Oto Melara | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)**.
-    - **s.Pz.Spw. (5cm)** → **s.Pz.Spw. (Kw.K. 39/1)**. Statcard name → **Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60**.
+    - **s.Pz.Spw. (5cm)** → **s.Pz.Spw. (Kw.K. 39/1)**. Statcard name → **Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (Sd.Kfz. 234/2)**.
 
 ### Weapons:
 

@@ -5001,10 +5001,10 @@ germ_pzkpfw_38t_Aufklarungspanzer_shop;Aufkl.Pz.Kpfw. 38 (2cm)
 germ_pzkpfw_38t_Aufklarungspanzer_0;Aufklärungspanzer 38 (2cm) (Sd.Kfz. 140/1)
 germ_pzkpfw_38t_Aufklarungspanzer_1;Aufkl.Pz.Kpfw. 38
 germ_pzkpfw_38t_Aufklarungspanzer_2;Light tank
-germ_sdkfz_234_2_shop;s.Pz.Spw. (5cm)
-germ_sdkfz_234_2_0;schwerer Panzerspähwagen (5cm) (Sd.Kfz. 234/2)
-germ_sdkfz_234_2_1;s.Pz.Spw. (5cm)
-germ_sdkfz_234_2_2;Armored Car
+germ_sdkfz_234_2_shop;s.Pz.Spw. (Kw.K. 39/1)
+germ_sdkfz_234_2_0;Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60
+germ_sdkfz_234_2_1;s.Pz.Spw. (Kw.K. 39/1)
+germ_sdkfz_234_2_2;Light tank
 germ_sdkfz_234_1_shop;s.Pz.Spw. (2cm)
 germ_sdkfz_234_1_0;schwerer Panzerspähwagen (2cm) (Sd.Kfz. 234/1)
 germ_sdkfz_234_1_1;s.Pz.Spw. (2cm)
@@ -5013,6 +5013,10 @@ germ_sdkfz_234_3_shop;s.Pz.Spw. (7,5cm K.)
 germ_sdkfz_234_3_0;schwerer Panzerspähwagen (7,5cm K.) (Sd.Kfz. 234/3)
 germ_sdkfz_234_3_1;s.Pz.Spw. (7,5cm K.)
 germ_sdkfz_234_3_2;Armored Car
+germ_sdkfz_234_2_mod_shop;s.Pz.Spw. (Kw.K. 39/1) (Pz.A.A. 20)
+germ_sdkfz_234_2_mod_0;Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (20. Panzer-Division, 20. Panzer-Aufklärungs-Abteilung)
+germ_sdkfz_234_2_mod_1;s.Pz.Spw. (Kw.K. 39/1)
+germ_sdkfz_234_2_mod_2;Light tank
 germ_sdkfz_234_2_td_shop;⋦ s.Pz.Spw. (5cm)
 germ_sdkfz_234_2_td_0;⋦ schwerer Panzerspähwagen (5cm) (Sd.Kfz. 234/2)
 germ_sdkfz_234_2_td_1;⋦ s.Pz.Spw. (5cm)
@@ -5423,6 +5427,10 @@ ussr_pr_103_sm4_shop;TKA № 164
 ussr_pr_103_sm4_0;Sudostroityel'nyj zavod № 194 im. Marti | Torpyednyj katyer proyekta 103 tip SM-4 | TKA № 164
 ussr_pr_103_sm4_1;TKA № 164
 ussr_pr_103_sm4_2;Motor torpedo boat
+ussr_d3_tk126_shop;TK-126
+ussr_d3_tk126_0;Zavod № 640 | Torpyednyj katyer proyekt 19-OK | TK-126 (1944)
+ussr_d3_tk126_1;TK-126
+ussr_d3_tk126_2;Motor Torpedo Boat
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 ussr_pr253l_shop;T-380
@@ -5663,6 +5671,14 @@ uk_a30_sp_avenger_kit_3rank_1;Avenger, Mk. I
 uk_a30_sp_avenger_kit_3rank_2;Medium tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+uk_as_90_mk_2_shop;L131
+uk_as_90_mk_2_0;Vickers Shipbuilding and Engineering | Gun Equipment, 155 mm, L131
+uk_as_90_mk_2_1;L131
+uk_as_90_mk_2_2;SPH
+uk_vickers_gbt_155_shop;SP 155
+uk_vickers_gbt_155_0;Vickers Shipbuilding and Engineering SP 155
+uk_vickers_gbt_155_1;SP 155
+uk_vickers_gbt_155_2;SPH
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
@@ -8708,6 +8724,10 @@ saab_jas39e_shop;JAS 39 E
 saab_jas39e_0;Saab 39 Gripen E | JAS 39 E Gripen
 saab_jas39e_1;JAS 39 E
 saab_jas39e_2;JAS 39
+f_16a_block_10_norway_shop;◢ F-16A-10-CF
+f_16a_block_10_norway_0;◢ General Dynamics Corporation | F-16A-10-CF Fighting Falcon
+f_16a_block_10_norway_1;◢ F-16A
+f_16a_block_10_norway_2;◢ F-16
 f_16am_block_20_mlu_norway_shop;◢ F-16AM-20-CF
 f_16am_block_20_mlu_norway_0;◢ General Dynamics Corporation | F-16AM-20-CF Fighting Falcon
 f_16am_block_20_mlu_norway_1;◢ F-16A

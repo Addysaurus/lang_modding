@@ -8,17 +8,17 @@ ussr_pantsyr_sm_sv_shop;Pantsir SM-SV
 ussr_pantsyr_sm_sv_0;Pantsir SM-SV
 ussr_pantsyr_sm_sv_1;Pantsir SM-SV
 ussr_pantsyr_sm_sv_2;SPAA
-germ_sdkfz_234_2_mod_shop;s.Pz.Sp.Wg. Biene
-germ_sdkfz_234_2_mod_0;s.Pz.Sp.Wg. Sd.Kfz.234/2
-germ_sdkfz_234_2_mod_1;s.Pz.Sp.Wg. Biene
+germ_sdkfz_234_2_mod_shop;"Sd.Kfz.234/2 ""Biene"""
+germ_sdkfz_234_2_mod_0;"s.Pz.Sp.Wg. (5 cm 39/1 L60) ""Biene"" Sd.Kfz.234/2"
+germ_sdkfz_234_2_mod_1;"Sd.Kfz.234/2 ""Biene"""
 germ_sdkfz_234_2_mod_2;Armored Car
 uk_vickers_gbt_155_shop;GBT 155
 uk_vickers_gbt_155_0;VSEL GBT 155
 uk_vickers_gbt_155_1;GBT 155
 uk_vickers_gbt_155_2;SPG
-uk_as_90_mk_2_shop;AS-90
-uk_as_90_mk_2_0;AS-90 Mk.2
-uk_as_90_mk_2_1;AS-90
+uk_as_90_mk_2_shop;AS90
+uk_as_90_mk_2_0;AS90 Mk.2
+uk_as_90_mk_2_1;AS90
 uk_as_90_mk_2_2;SPG
 fw_190f_8_hungary_shop;◔Fw 190 F-8
 fw_190f_8_hungary_0;◔Fw 190 F-8
@@ -45,7 +45,7 @@ me_210_v22_japan_shop;▅Me 210 V22
 me_210_v22_japan_0;▅Me 210 V22
 me_210_v22_japan_1;▅Me 210
 me_210_v22_japan_2;Me 210
-shop/group/me_210ca_1_hungary_group;◔Me 410 Ca
+shop/group/me_210ca_1_hungary_group;◔Me 210 Ca
 wm_21_shop;◔WM-21
 wm_21_0;◔WM-21 Sólyom
 wm_21_1;◔WM-21
@@ -105,6 +105,10 @@ fa_18f_block_2_raaf_1;▄F/A-18F
 fa_18f_block_2_raaf_2;▄F/A-18F
 shop/group/f_18_group;F/A-18
 shop/group/fa_18a_raaf_group;▄F/A-18
+f_16a_block_10_norway_shop;◢F-16A
+f_16a_block_10_norway_0;◢F-16A Block 10 Fighting Falcon
+f_16a_block_10_norway_1;◢F-16A
+f_16a_block_10_norway_2;◢F-16
 shop/group/f_16d_iaf_group;Barak II/Sufa
 f_16c_block_52_aesa_shop;F-16C
 f_16c_block_52_aesa_0;F-16C Block 52 Fighting Falcon
@@ -130,9 +134,9 @@ jp_btr_3e1_shop;BTR-3E1
 jp_btr_3e1_0;BTR-3E1
 jp_btr_3e1_1;BTR-3E1
 jp_btr_3e1_2;Light tank
-germ_boxer_swatrinf_shop;sWaTrInf
+germ_boxer_swatrinf_shop;sWaTrgInf
 germ_boxer_swatrinf_0;Boxer Schwerer Waffenträger Infanterie
-germ_boxer_swatrinf_1;sWaTrInf
+germ_boxer_swatrinf_1;sWaTrgInf
 germ_boxer_swatrinf_2;Light tank
 fr_destroyer_guepard_class_verdun_shop;Verdun
 fr_destroyer_guepard_class_verdun_0;Guepard-class, Verdun, 1941
@@ -167,10 +171,14 @@ it_destroyer_oriani_class_gioberti_0;Alfredo Oriani-class, RN Vincenzo Gioberti,
 it_destroyer_oriani_class_gioberti_1;RN Vincenzo Gioberti
 it_destroyer_oriani_class_gioberti_2;Destroyer
 it_destroyer_saetta_shop;RN Saetta
-it_destroyer_saetta_0;Dardo-class, RN Saetta, 1943
+it_destroyer_saetta_0;Dardo-class, RN Saetta, 1942
 it_destroyer_saetta_1;RN Saetta
 it_destroyer_saetta_2;Destroyer
 germ_s30_s61_shop;S-61
 germ_s30_s61_0;S-30-class, S-61
 germ_s30_s61_1;S-61
 germ_s30_s61_2;Motor torpedo boat
+us_battleship_oklahoma_shop;USS Oklahoma
+us_battleship_oklahoma_0;Nevada-class, USS Oklahoma (BB-29), 1926
+us_battleship_oklahoma_1;USS Oklahoma
+us_battleship_oklahoma_2;Battleship

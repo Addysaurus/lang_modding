@@ -30,11 +30,13 @@ All dates are listed in DD-MM-YYYY format.
         - **USS Helm**
         - **Me 210A-1**
         - **Alpha Jet A (JaboG 41)** (Germany)
-        - **sWaTrIng**
+        - **Sd.Kfz.234/2 "Biene"**
+        - **sWaTrgIng**
         - **S-61**
         - **Z52**
         - **MiG-29 (9-12)**
         - **MiG-29M (9-15)**
+        - **TK-126**
         - **F/A-18F** (UK / Australia)
         - **Me 210 V22**
         - **Ho-Ni II**
@@ -57,6 +59,7 @@ All dates are listed in DD-MM-YYYY format.
         - **RN Saetta**
         - **RN Vincenzo Gioberti**
         - **Verdun**
+        - **F-16A** (Sweden / Norway)
         - **JAS39D**
         - **JAS39** (folder)
         - **Eitan (P)**
@@ -69,11 +72,13 @@ All dates are listed in DD-MM-YYYY format.
         - **USS Helm** → **USS Helm (DD-388)**. Statcard name → **Norfolk Naval Shipyard / Mare Island Naval Shipyard | Bagley-class Destroyer | USS Helm (DD-388) (1944)**.
         - **Me 210A-1** → **Me 210 A-1**. Statcard name → **Messerschmitt | Me 210 A-1**.
         - **Alpha Jet A (JaboG 41)** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A (Jagdbombergeschwader 41)**.
-        - **sWaTrInf** → **sWaTrgInf**. Statcard name → **ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie**.
+        - **Sd.Kfz.234/2 "Biene"** → **s.Pz.Spw. (Kw.K. 39/1) (Pz.A.A. 20)**. Statcard name → **Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (20. Panzer-Division, 20. Panzer-Aufklärungs-Abteilung)**.
+        - **sWaTrgInf**: Statcard name → **ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie**.
         - **S-61** → **S 61**. Statcard name → **Lürssen Werft | Schnellboot Typ 1939/1940 | S 61**.
         - **Z52** → **Z 52**. Statcard name → **Deutsche Schiff- und Maschinenbau A.G. "Weser" | Zerstörer Typ 1944 | Z 52**.
         - **MiG-29 (9-12)**: Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye | izd. 9-12 | Samolyet MiG-29**.
         - **MiG-29M (9-15)** → **MiG-29M**. Statcard name → **Aviastroityel'nyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M**.
+        - **TK-126**: Statcard name → **Zavod № 640 | Torpyednyj katyer proyekt 19-OK | TK-126 (1944)**.
         - **F/A-18F** (UK / Australia) → **F/A-18F-2-MC**. Statcard name → **Boeing Defense, Space & Security | F/A-18F-2-MC Super Hornet**.
         - **Me 210 V22**: Statcard name → **Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22**.
             - Japanese package: Statcard name → **Messerschmitt / 川崎航空機工業明石工場 | Me 210 V22**.
@@ -100,12 +105,13 @@ All dates are listed in DD-MM-YYYY format.
         - **WM-23** → **W.M. 23**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M. 23 Ezüst Nyíl vadászrepülőgép**.
         - **Me 210 Ca-1**: Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép**.
         - **Me 210 Ca-1 39M** → **Me 210 Ca-1 (36 M.)**. Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép (4 cm 36 M. légvédelmi gépágyú)**.
-        - **Me 410 Ca** (Italy / Hungary) (folder) → **Me 210 Ca-1 / 1 (36 M.)**.
+        - **Me 210 Ca** (Italy / Hungary) (folder) → **Me 210 Ca-1 / 1 (36 M.)**.
         - **Fw 190 F-8** (Italy / Hungary): Statcard name → **Focke-Wulf Flugzeugbau | Fw 190 F-8 vadászrepülőgép**.
         - **Centauro II (P)** → **Centauro II 120**. Statcard name → **Consortium Iveco-Oto Melara | Centauro II 120 (Guardian H3)**.
         - **RN Saetta** → **Saetta (SA)**. Statcard name → **Cantiere navale del Tirreno di Riva Trigoso / Cantieri navali riuniti di Palermo | Cacciatorpediniere Classe Freccia | Saetta (SA) (1942)**.
         - **RN Vincenzo Gioberti** → **Vincenzo Gioberti (GB)**. Statcard name → **Odero-Terni-Orlando Cantieri di Livorno / Cantiere navale di Castellammare di Stabia | Cacciatorpediniere Classe Alfredo Oriani | Vincenzo Gioberti (GB) (1942)**.
         - **Verdun** → **Verdun (X 33)**. Statcard name → **Ateliers et chantiers de la Loire / Arsenal de Sidi-Abdallah | Contre-torpilleur de la classe Guépard | Verdun (X 33) (1941)**.
+        - **F-16A** (Sweden / Norway) → **F-16A-10-CF**. Statcard name → **General Dynamics Corporation | F-16A-10-CF Fighting Falcon**.
         - **JAS39D** → **JAS 39 D (Cobra)**. Statcard name → **Saab 39 D | JAS 39 D Gripen (Cobra)**.
         - **JAS39** (folder) → **JAS 39 A / C**.
         - **Eitan (P)** → **'Eitan Ṣariaḥ**. Statcard name → **Merkaz Šikum ve-'Aḥzakah 7000 | Nagma'š 'Eitan im Ṣariaḥ**.
@@ -148,12 +154,19 @@ All dates are listed in DD-MM-YYYY format.
     - **Bf 109 E-7** (Japan) → **Bf 109 E-7/N**.
     - **VBM Freccia C/C**: Statcard name → **Consortium Iveco-Oto Melara | Veicolo Blindato Medio Freccia Contro Carro**.
     - **VBM Freccia C/C (OWS 30mm)**: Statcard name → **Consortium Iveco-Oto Melara | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)**.
+    - **s.Pz.Spw. (5cm)** → **s.Pz.Spw. (Kw.K. 39/1)**. Statcard name → **Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60**.
 
 ### Weapons:
 
 - #### Changes:
 
     - **Piton 5 SR** → **Python 5 SR**. Statcard name → **Python 5 Short Range**. It's an export missile so it doesn't get it's IDF Piton name.
+
+### Modifications:
+
+- #### Changes:
+
+    - Corrected the display of the **K/AKK5C** modification in the Full Ammunition Names Full Mandarin + Russian package.
 
 ### Sensors:
 

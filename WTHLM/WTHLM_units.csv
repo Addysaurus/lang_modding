@@ -2943,6 +2943,10 @@ ah_64a_shop;AH-64A
 ah_64a_0;McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache
 ah_64a_1;AH-64A
 ah_64a_2;AH-64
+ah_64a_killstreak_shop;AH-64A
+ah_64a_killstreak_0;McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache
+ah_64a_killstreak_1;AH-64A
+ah_64a_killstreak_2;AH-64
 ah_64d_shop;AH-64D
 ah_64d_0;Boeing Rotorcraft Systems | Helicopter, Attack, AH-64D Longbow Apache
 ah_64d_1;AH-64D
@@ -5116,7 +5120,7 @@ germ_iris_slm_launcher_2;SPAAM
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 germ_s30_s61_shop;S 61
-germ_s30_s61_0;Lürssen Werft | Schnellboot Typ 1939/1940 | S 61
+germ_s30_s61_0;Fr. Lürssen Werft | Schnellboot Typ 1939/1940 | S 61
 germ_s30_s61_1;S 61
 germ_s30_s61_2;Fast Boat
 
@@ -5291,6 +5295,14 @@ su_33_2;Su-33
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+mi_35m_shop;Mi-24VM
+mi_35m_0;Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ | Vyertolyet Mi-24VM
+mi_35m_1;Mi-24VM
+mi_35m_2;Mi-24
+mi_35m_killstreak_shop;Mi-24VM
+mi_35m_killstreak_0;Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ | Vyertolyet Mi-24VM
+mi_35m_killstreak_1;Mi-24VM
+mi_35m_killstreak_2;Mi-24
 mi_35p_shop;Mi-35P
 mi_35p_0;"Moskovskij vyertolëtnyj zavod im. M. L. Milâ / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet ""Fyeniks"""
 mi_35p_1;Mi-35P
@@ -5421,6 +5433,10 @@ ussr_buk_m3_fcs_shop;9S18M3
 ussr_buk_m3_fcs_0;"Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M3 ""Kupol-M3"""
 ussr_buk_m3_fcs_1;9S18M3
 ussr_buk_m3_fcs_2;Radar
+ussr_pantsyr_sm_sv_shop;Panczir'-SM-SV
+ussr_pantsyr_sm_sv_0;"Konstruktorskoye bûro priborostroyeniâ | Zyenitnyj rakyetno-pušyečnyj komplyeks ""Panczir'-SM-SV"""
+ussr_pantsyr_sm_sv_1;Panczir'-SM-SV
+ussr_pantsyr_sm_sv_2;SPAAG/M
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 ussr_pr_103_sm4_shop;TKA № 164
@@ -8748,6 +8764,10 @@ fa_18c_mlu_2_finland_2;HN
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+sw_t_50_fin_shop;14 psv T 50
+sw_t_50_fin_0;Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova | 14 tonnin panssarivaunu T 50
+sw_t_50_fin_1;14 psv T 50
+sw_t_50_fin_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 
@@ -13408,10 +13428,6 @@ mi_24p_shop;Mi-24P
 mi_24p_0;Mi-24P
 mi_24p_1;Mi-24P
 mi_24p_2;Mi-24
-mi_35m_shop;Mi-24VM
-mi_35m_0;Mi-24VM
-mi_35m_1;Mi-24VM
-mi_35m_2;Mi-24
 mi_35m_pakistan_shop;☪ Mi-35M3
 mi_35m_pakistan_0;☪ Mi-35M3
 mi_35m_pakistan_1;☪ Mi-35M

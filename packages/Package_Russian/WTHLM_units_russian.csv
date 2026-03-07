@@ -21,11 +21,13 @@ su_24m_china_killstreak_2;␗☢ Су-24
 
 //USSR GROUPS
 shop/group/la_200_group;200 / Ла-15
+shop/group/mig_29_group;МиГ-29 (9-12) / (9-13)
 shop/group/ussr_t_34_85_group;Т-34-85 (Mar, 1944) / (Sep, 1944)
 shop/group/ussr_su_object_group;СУ-122-54 / Об. 268
 shop/group/ussr_t_55_group;Т-55А / 62
 shop/group/ussr_it_9p149_group;ИТ-1 / 9П149М
 shop/group/ussr_t_62_group;Т-55АД-1 / 62М-1
+shop/group/ussr_t_64_t_80_group;Т-64БВ / 80Б
 shop/group/ussr_9a33_35_group;9А33БМ3 / 35М2
 shop/group/ussr_buk_m3_fcs_group;9К317М
 shop/group/cn_tor_hq_group;␗ 9А331 / ADK17
@@ -330,6 +332,10 @@ ussr_buk_m3_fcs_shop;9С18М3
 ussr_buk_m3_fcs_0;Научно-исследовательский институт приборостроения им. В. В. Тихомирова (НИИП) | Станция обнаружения целей 9С18М3 «Купол-М3»
 ussr_buk_m3_fcs_1;9С18М3
 ussr_buk_m3_fcs_2;Radar
+ussr_pantsyr_sm_sv_shop;Панцирь-СМ-СВ
+ussr_pantsyr_sm_sv_0;Конструкторское бюро приборостроения | Зенитный ракетно-пушечный комплекс «Панцирь-СМ-СВ»
+ussr_pantsyr_sm_sv_1;Панцирь-СМ-СВ
+ussr_pantsyr_sm_sv_2;SPAAG/M
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 ussr_pr_103_sm4_shop;ТКА № 164

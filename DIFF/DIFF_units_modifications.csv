@@ -11,14 +11,24 @@ modification/us_ljdam/desc;Allows the installation of LJDAM guided bombs.
 modification/us_ljdam;LJDAM
 modification/ch_yj_83k;YJ-83K
 modification/ch_yj_83k/desc;Allows the installation of YJ-83K guided anti-ship missiles.
+sensors/su_1rs1_4;1RS1-4
+sensors/su_1rs2_3;1RS2-3
 sensors/su_n_035e;N035E
 sensors/uk_captor_ecrs_1_pirate;CAPTOR ECRS Mk.1
 sensors/uk_captor_ecrs_2_pirate;CAPTOR ECRS Mk.2
-radar_hms_mode/desc;HMS
-avionics_aim_spi/desc;SPI
-avionics_aim_laser_designator/desc;LDR
-CCIP/desc;CCIP
-sight_AUTO/desc;EEGS
+radar_hms_mode/desc;Helmet Mounted Sight
+avionics_sensor_radar/desc;Radar
+avionics_sensor_irst/desc;Infrared search and track system
+avionics_sensor_radar_irst/desc;Radar/Infrared search and track system
+avionics_sensor_rwr/desc;Radar warning receiver
+avionics_sensor_lws/desc;Laser Warning Receiver
+avionics_sensor_mlws/des;Missile approach warning system
+avionics_aim_spi/desc;Aiming point for the selected weapon
+avionics_hmd/desc;Helmet Mounted Sight
+avionics_aim_laser_designator/desc;Laser designator
+CCIP/desc;Constantly computed impact point for the selected weapon
+sight_AUTO/desc;Ballistic computer for cannon weapons for air-ti-air mod
+CCRP/desc;Continuously computed release point
 engine_model/vk_105ra;VK-105RA
 engine_model/iveco_vector_8v;VECTOR 8V
 engine_model/wm_k-14a;WM K-14A
@@ -32,7 +42,11 @@ transmission_model/3200_sp;3200 SP
 transmission_model/friedrichshafen_lsg_2000;Friedrichshafen LSG 2000
 transmission_manufacturer/z_f;ZF
 transmission_model/zf_7hp_902;ZF 7HP 902
+modification/cn_glide_bomb_ir/desc;Allows the installation of LS-6 IR guided bombs.
+modification/cn_glide_bomb_ir;LS-6 LR
 modification/us_aim_120d/desc;Allows the installation of AIM-120D air-to-air missiles.
 modification/us_aim_120d;AIM-120D
 modification/cn_pl12a/desc;Allows the installation of PL-12A air-to-air missiles.
 modification/cn_pl12a;PL-12A
+aps/iron_fist_ld;Iron Fist Light Decoupled
+engine_model/rd-33k;RD-33K

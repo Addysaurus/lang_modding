@@ -25,17 +25,30 @@ All dates are listed in DD-MM-YYYY format.
 - ### Additions:
 
     - Update "Ninth Wave" additions:
-        - **F-16C** (the new one)
+        - **F-16C PoBIT**
+        - **F/A-18** (folder)
+        - **AH-64A** (killstreak)
         - **M1296**
+        - **USS Helm**
         - **Me 210A-1**
         - **Alpha Jet A (JaboG 41)** (Germany)
-        - **sWaTrIng**
+        - **Sd.Kfz.234/2 "Biene"**
+        - **sWaTrgIng**
         - **S-61**
         - **Z52**
         - **MiG-29 (9-12)**
         - **MiG-29M (9-15)**
+        - **MiG-29** (folder)
+        - **Mi-35M** (killstreak)
+        - **T-64B/80B** (folder)
+        - **Pantsir-SM-SV**
+        - **TK-126**
+        - **F-111/Tornado** (folder)
+        - **F/A-18** (UK / Australia) (folder)
         - **F/A-18F** (UK / Australia)
         - **Me 210 V22**
+        - **F-15J** (Japan) (folder)
+        - **F-5/F-16** (Japan / Thailand) (folder)
         - **Ho-Ni II**
         - **Ho-Ro/Ni** (folder)
         - **BTR-3E1** (Japan / Thailand)
@@ -55,25 +68,44 @@ All dates are listed in DD-MM-YYYY format.
         - **Centauro II (P)**
         - **RN Saetta**
         - **RN Vincenzo Gioberti**
+        - **Verdun**
+        - **F-16A** (Sweden / Norway)
         - **JAS39D**
         - **JAS39** (folder)
+        - **T-50** (Sweden / Finland)
+        - **Kurnass/Baz** (folder)
+        - **Barak II/Sufa**
         - **Eitan (P)**
 
 - #### Changes:
 
     - Update "Ninth Wave" changes"
-        - **F-16C** (the new one) → **F-16C-52-MC (AN/APG-83)**. Statcard name → **Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (AN/APG-83 Scalable Agile Beam Radar)**.
+        - **F-16C PoBIT** → **F-16C-52-MC (PoBIT)**. Statcard name → **Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (Post Block Integration Team)**.
+        - **F/A-18** (folder) → **F/A-18A-18 / C-25**.
+        - **AH-64A** (killstreak): Statcard name → **McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache**.
         - **M1296** → **M1296 ICVD**. Statcard name → **General Dynamics Land Systems | Combat Vehicle, Infantry, Dragoon, M1296**.
+        - **USS Helm** → **USS Helm (DD-388)**. Statcard name → **Norfolk Naval Shipyard / Mare Island Naval Shipyard | Bagley-class Destroyer | USS Helm (DD-388) (1944)**.
         - **Me 210A-1** → **Me 210 A-1**. Statcard name → **Messerschmitt | Me 210 A-1**.
         - **Alpha Jet A (JaboG 41)** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A (Jagdbombergeschwader 41)**.
-        - **sWaTrInf** → **sWaTrgInf**. Statcard name → **ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie**.
-        - **S-61** → **S 61**. Statcard name → **Lürssen Werft | Schnellboot Typ 1939/1940 | S 61**.
+        - **Sd.Kfz.234/2 "Biene"** → **s.Pz.Spw. (Kw.K. 39/1) (Pz.A.A. 20)**. Statcard name → **Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (Sd.Kfz. 234/2) (20. Panzer-Division, 20. Panzer-Aufklärungs-Abteilung)**.
+        - **sWaTrgInf**: Statcard name → **ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie**.
+        - **S-61** → **S 61**. Statcard name → **Fr. Lürssen Werft, Bau-Nr. 12854 | Schnellboot Typ 1939/1940 | S 61**.
         - **Z52** → **Z 52**. Statcard name → **Deutsche Schiff- und Maschinenbau A.G. "Weser" | Zerstörer Typ 1944 | Z 52**.
         - **MiG-29 (9-12)**: Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye | izd. 9-12 | Samolyet MiG-29**.
         - **MiG-29M (9-15)** → **MiG-29M**. Statcard name → **Aviastroityel'nyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M**.
+        - **MiG-29** (folder) → **MiG-29 (9-12) / (9-13)**.
+        - **Mi-35M** (killstreak) → **Mi-24VM**. Statcard name → **Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ | Vyertolyet Mi-24VM**.
+        - **T-64B/80B** (folder) → **T-64BV / 80B**.
+        - **Pantsir-SM-SV** → **Panczir'-SM-SV**. Statcard name → **Konstruktorskoye bûro priborostroyeniâ | Zyenitnyj rakyetno-pušyečnyj komplyeks "Panczir'-SM-SV"**. It doesn't have a normal style Russian name because we absolutely cannot find this thing's GRAU index so we're relegated to Panczir'-SM-SV.
+        - **TK-126**: Statcard name → **Zavod № 640 | Torpyednyj katyer proyekt 19-OK | TK-126 (1944)**.
+        - **F-111/Tornado** (folder) → **F-111F / Tornado G.R. Mk. 1**.
+        - **F/A-18** (UK / Australia) (folder) → **F/A-18A / A (HUG 2.4)**.
         - **F/A-18F** (UK / Australia) → **F/A-18F-2-MC**. Statcard name → **Boeing Defense, Space & Security | F/A-18F-2-MC Super Hornet**.
         - **Me 210 V22**: Statcard name → **Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22**.
             - Japanese package: Statcard name → **Messerschmitt / 川崎航空機工業明石工場 | Me 210 V22**.
+        - **F-15J** (Japan) (folder) → **F-15J (C4) / J(M)**.
+        - **F-5/F-16** (Japan / Thailand) (folder) → **B.Kh.18Kh (2014) / 19**.
+            - Thai package: **F-5/F-16** (Japan / Thailand) (folder) → **บ.ข.๑๘ข (2014) / ๑๙**.
         - **Ho-Ni II** → **Ho Ni II (early)**. Statcard name → **Rikugun Yasen Hōhei Gakkō | 1 Shiki 10 Senchi Jisō Hō | Ho Ni II (early)**.
             - Japanese package: **Ho-Ni II** → **ホニII (early)**. Statcard name → **陸軍野戦砲兵学校 | 一式十糎自走砲 | ホニII (early)**.
         - **Ho-Ro/Ni** (folder) → **Ho Ro / Ni II**.
@@ -97,15 +129,28 @@ All dates are listed in DD-MM-YYYY format.
         - **WM-23** → **W.M. 23**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M. 23 Ezüst Nyíl vadászrepülőgép**.
         - **Me 210 Ca-1**: Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép**.
         - **Me 210 Ca-1 39M** → **Me 210 Ca-1 (36 M.)**. Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép (4 cm 36 M. légvédelmi gépágyú)**.
-        - **Me 410 Ca** (Italy / Hungary) (folder) → **Me 210 Ca-1 / 1 (36 M.)**.
+        - **Me 210 Ca** (Italy / Hungary) (folder) → **Me 210 Ca-1 / 1 (36 M.)**.
         - **Fw 190 F-8** (Italy / Hungary): Statcard name → **Focke-Wulf Flugzeugbau | Fw 190 F-8 vadászrepülőgép**.
         - **Centauro II (P)** → **Centauro II 120**. Statcard name → **Consortium Iveco-Oto Melara | Centauro II 120 (Guardian H3)**.
         - **RN Saetta** → **Saetta (SA)**. Statcard name → **Cantiere navale del Tirreno di Riva Trigoso / Cantieri navali riuniti di Palermo | Cacciatorpediniere Classe Freccia | Saetta (SA) (1942)**.
         - **RN Vincenzo Gioberti** → **Vincenzo Gioberti (GB)**. Statcard name → **Odero-Terni-Orlando Cantieri di Livorno / Cantiere navale di Castellammare di Stabia | Cacciatorpediniere Classe Alfredo Oriani | Vincenzo Gioberti (GB) (1942)**.
+        - **Verdun** → **Verdun (X 33)**. Statcard name → **Ateliers et chantiers de la Loire / Arsenal de Sidi-Abdallah | Contre-torpilleur de la classe Guépard | Verdun (X 33) (1941)**.
+        - **F-16A** (Sweden / Norway) → **F-16A-10-CF**. Statcard name → **General Dynamics Corporation | F-16A-10-CF Fighting Falcon**.
         - **JAS39D** → **JAS 39 D (Cobra)**. Statcard name → **Saab 39 D | JAS 39 D Gripen (Cobra)**.
         - **JAS39** (folder) → **JAS 39 A / C**.
+        - **T-50** (Sweden / Finland) → **14 psv T 50**. Statcard name → **Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova | 14 tonnin panssarivaunu T 50**.
+        - **Kurnass/Baz** (folder) → **F-4E Kurnas 2000 / F-15A-18**.
+            - Hebrew package: **Kurnass/Baz** (folder) → **15A-18 / 2000 קורנס F-4E**.
+        - **Barak II/Sufa** (folder) → **F-16D-40 / I**.
         - **Eitan (P)** → **'Eitan Ṣariaḥ**. Statcard name → **Merkaz Šikum ve-'Aḥzakah 7000 | Nagma'š 'Eitan im Ṣariaḥ**.
             - Hebrew package: **Eitan (P)** → **איתן צריח**. Statcard name → **נגמ״ש איתן עם צריח | מרכז שיקום ואחזקה 7000**.
+    - Israel rework:
+        - **Spitfire F. Mk. IX** → **Spiṭfayer IX**. Statcard name → **Vickers Supermarine Type 361 | Spiṭfayer Degem IX**.
+            - Hebrew package: **Spitfire F. Mk. IX** → **IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | IX ספיטפייר דגם**.
+        - **Spitfire L.F. Mk. IXe (CW)** → **Spiṭfayer IX (KK)**. Statcard name → **Vickers Supermarine Type 361 | Spiṭfayer Degem IX (Knef Kṣoṣah)**.
+            - Hebrew package: **Spitfire L.F. Mk. IXe (CW)** → **(כ״ק) IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | (כנף קצוצה) IX ספיטפייר דגם**.
+        - **Weizman's Spitfire L.F. Mk. IXe** → **Weiṣman's Spiṭfayer IX**. Statcard name → **Vickers Supermarine Type 361 | 'Ezer Weiṣman's Spiṭfayer Degem IX**.
+            - Hebrew package: **Weizman's Spitfire L.F. Mk. IXe** → **של ויצמן IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | של עזר ויצמן IX ספיטפייר דגם**.
     - Hungarian air rework:
         - **He 112 B-1/U2** (Germany / Hungary): Statcard name → **Heinkel Flugzeugwerke | He 112 B-1/U2 vadászrepülőgép**.
         - **Bf 110 G-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 110 G-4 éjjeli vadász**.
@@ -144,12 +189,28 @@ All dates are listed in DD-MM-YYYY format.
     - **Bf 109 E-7** (Japan) → **Bf 109 E-7/N**.
     - **VBM Freccia C/C**: Statcard name → **Consortium Iveco-Oto Melara | Veicolo Blindato Medio Freccia Contro Carro**.
     - **VBM Freccia C/C (OWS 30mm)**: Statcard name → **Consortium Iveco-Oto Melara | Veicolo Blindato Medio Freccia Contro Carro (HITFIST Overhead Weapon Systsem 30mm)**.
+    - **s.Pz.Spw. (5cm)** → **s.Pz.Spw. (Kw.K. 39/1)**. Statcard name → **Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (Sd.Kfz. 234/2)**.
+    - **Mi-24VM**: Statcard name → **Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ | Vyertolyet Mi-24VM**.
+    - Japanese package: the F-4EJs, F-15J, and F-16AJ have recieved their missing roundels.
 
 ### Weapons:
 
+- #### Additions:
+
+    - Update "Ninth Wave" additions:
+        - **40 mm M39 cannon**
+
 - #### Changes:
 
+    - Update "Ninth Wave" changes:
+        - **40 mm M39 cannon** → **4 cm 36 M. légvédelmi gépágyú**.
     - **Piton 5 SR** → **Python 5 SR**. Statcard name → **Python 5 Short Range**. It's an export missile so it doesn't get it's IDF Piton name.
+
+### Modifications:
+
+- #### Changes:
+
+    - Corrected the display of the **K/AKK5C** modification in the Full Ammunition Names Full Mandarin + Russian package.
 
 ### Sensors:
 

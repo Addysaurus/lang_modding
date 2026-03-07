@@ -1262,6 +1262,7 @@ shop/group/f_86_group;F-86A-5 / F-25
 shop/group/f-104_group;F-104A-10 / C-5
 shop/group/a_7_group;A-7D-8 / E-4
 shop/group/f_16_group;F-16A-15OCU / ADF
+shop/group/f_18_group;F/A-18A-18 / C-25
 shop/group/f_14_group;F-14A-110 / B-150
 shop/group/us_cruiser_fargo_brooklyn_group;USS Fargo / Brooklyn
 
@@ -1349,6 +1350,7 @@ shop/group/ussr_t_54_group;T-54
 shop/group/ussr_t_55_group;T-55A / 62
 shop/group/ussr_t_62_group;T-55AD-1 / 62M-1
 shop/group/ussr_t_72b_group;T-72B (Kontakt-1) / (5)
+shop/group/ussr_t_64_t_80_group;T-64BV / 80B
 shop/group/ussr_kv_1_2_group;KV-1 (Feb, 1940) / 2 (Jan, 1940)
 shop/group/ussr_kv_1_85_group;KV-1 (Jul, 1941) / 85
 shop/group/ussr_t_34_85_group;T-34-85 (Mar, 1944) / (Sep, 1944)
@@ -1403,6 +1405,7 @@ shop/group/su-7_group;Su-7B / BKL
 shop/group/mig-21_group;MiG-21SMT / bis
 shop/group/mig-23m_group;MiG-23M / MLD
 shop/group/mig_27_group;MiG-27M / K
+shop/group/mig_29_group;MiG-29 (9-12) / (9-13)
 shop/group/ussr_cruiser_chapaev_kutuzov_group;Čapayev / Sverdlov / Mikhail Kutuzov
 
 shop/group/uk_crusader_group;Crusader, Mk. II / III
@@ -1461,6 +1464,8 @@ shop/group/meteor3_group;Meteor F. Mk. 3 / 3 (EE337)
 shop/group/meteor4_group;Meteor F. Mk. 3/4 / 4 / 8
 shop/group/canberra_group;Canberra B. Mk. 2 / B.(I) Mk. 6
 shop/group/hawk_200_group;Hawk 200 (ZH200) / (RDA)
+shop/group/f_111c_tornado_group;▄ F-111F / Tornado G.R. Mk. 1
+shop/group/fa_18a_raaf_group;▄ F/A-18A / A (HUG 2.4)
 shop/group/uk_destroyer_battle_group;HMS Armada / HMAS Tobruk
 shop/group/uk_destroyer_daring_group;HMS Diana / Daring
 shop/group/uk_cruiser_kent_norfolk_group;HMS Kent / Norfolk
@@ -1499,6 +1504,8 @@ shop/group/ki_84_group;Ki 84-I Kō / Otsu
 shop/group/j2m_group;J2M3 / 5
 shop/group/r2y2_group;R2Y2-G (11 Gata) / (22 Gata) / (32 Gata)
 shop/group/f-86_japan_group;▅ F-86F-30 / 40
+shop/group/f_15j_group;▅ F-15J (C4) / J(M)
+shop/group/f_5_f_16_thailand_group;B.Kh.18Kh (2014) / 19
 shop/group/jp_cruiser_furutaka_aoba_group;Furutaka / Aoba
 
 shop/group/ki_27_group;☀ 97 Shì Zhàn / 1 Shì Zhàndòujī 3 Xíng
@@ -1625,6 +1632,8 @@ shop/group/il_magach_6_group;Magaḥ 6B / R / R (M261)
 shop/group/a_4_iaf_group; A-4H / E (AFC 418-II)
 shop/group/so_4050_vautour_iaf_group; Vautour II A / N (C)
 shop/group/md_460_iaf_group; Super Mystère B2 / Sa'ar
+shop/group/f_4e_f_15_iaf_group; F-4E Kurnas 2000 / 15A-18
+shop/group/f_16d_iaf_group; F-16D-40 / I
 
 //NON-NATIONAL VEHICLES
 ucav_recon_micro_shop;ZALA 421-16EM
@@ -2843,8 +2852,8 @@ f_16c_block_50_shop;F-16C-50-CF (CCIP) (2007)
 f_16c_block_50_0;F-16C-50-CF Fighting Falcon (Common Configuration Implementation Program) (2007)
 f_16c_block_50_1;F-16C
 f_16c_block_50_2;F-16
-f_16c_block_52_aesa_shop;F-16C-52-MC (AN/APG-83)
-f_16c_block_52_aesa_0;Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (AN/APG-83 Scalable Agile Beam Radar)
+f_16c_block_52_aesa_shop;F-16C-52-MC (PoBIT)
+f_16c_block_52_aesa_0;Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (Post Block Integration Team)
 f_16c_block_52_aesa_1;F-16C
 f_16c_block_52_aesa_2;F-16
 f_15a_shop;F-15A-18-MC (MSIP)
@@ -2943,6 +2952,10 @@ ah_64a_shop;AH-64A
 ah_64a_0;McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache
 ah_64a_1;AH-64A
 ah_64a_2;AH-64
+ah_64a_killstreak_shop;AH-64A
+ah_64a_killstreak_0;McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache
+ah_64a_killstreak_1;AH-64A
+ah_64a_killstreak_2;AH-64
 ah_64d_shop;AH-64D
 ah_64d_0;Boeing Rotorcraft Systems | Helicopter, Attack, AH-64D Longbow Apache
 ah_64d_1;AH-64D
@@ -3815,6 +3828,10 @@ us_destroyer_bagley_class_bagley_shop;USS Bagley (DD-386)
 us_destroyer_bagley_class_bagley_0;Norfolk Naval Shipyard | Bagley-class Destroyer | USS Bagley (DD-386)
 us_destroyer_bagley_class_bagley_1;USS Bagley
 us_destroyer_bagley_class_bagley_2;Destroyer
+us_destroyer_bagley_class_helm_shop;USS Helm (DD-388)
+us_destroyer_bagley_class_helm_0;Norfolk Naval Shipyard / Mare Island Naval Shipyard | Bagley-class Destroyer | USS Helm (DD-388) (1944)
+us_destroyer_bagley_class_helm_1;USS Helm
+us_destroyer_bagley_class_helm_2;Destroyer
 us_destroyer_fletcher_shop;USS Fletcher (DD-445)
 us_destroyer_fletcher_0;Federal Shipbuilding and Drydock Company | Fletcher-class Destroyer | USS Fletcher (DD-445)
 us_destroyer_fletcher_1;USS Fletcher
@@ -4997,10 +5014,10 @@ germ_pzkpfw_38t_Aufklarungspanzer_shop;Aufkl.Pz.Kpfw. 38 (2cm)
 germ_pzkpfw_38t_Aufklarungspanzer_0;Aufklärungspanzer 38 (2cm) (Sd.Kfz. 140/1)
 germ_pzkpfw_38t_Aufklarungspanzer_1;Aufkl.Pz.Kpfw. 38
 germ_pzkpfw_38t_Aufklarungspanzer_2;Light tank
-germ_sdkfz_234_2_shop;s.Pz.Spw. (5cm)
-germ_sdkfz_234_2_0;schwerer Panzerspähwagen (5cm) (Sd.Kfz. 234/2)
-germ_sdkfz_234_2_1;s.Pz.Spw. (5cm)
-germ_sdkfz_234_2_2;Armored Car
+germ_sdkfz_234_2_shop;s.Pz.Spw. (Kw.K. 39/1)
+germ_sdkfz_234_2_0;Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (Sd.Kfz. 234/2)
+germ_sdkfz_234_2_1;s.Pz.Spw. (Kw.K. 39/1)
+germ_sdkfz_234_2_2;Light tank
 germ_sdkfz_234_1_shop;s.Pz.Spw. (2cm)
 germ_sdkfz_234_1_0;schwerer Panzerspähwagen (2cm) (Sd.Kfz. 234/1)
 germ_sdkfz_234_1_1;s.Pz.Spw. (2cm)
@@ -5009,6 +5026,10 @@ germ_sdkfz_234_3_shop;s.Pz.Spw. (7,5cm K.)
 germ_sdkfz_234_3_0;schwerer Panzerspähwagen (7,5cm K.) (Sd.Kfz. 234/3)
 germ_sdkfz_234_3_1;s.Pz.Spw. (7,5cm K.)
 germ_sdkfz_234_3_2;Armored Car
+germ_sdkfz_234_2_mod_shop;s.Pz.Spw. (Kw.K. 39/1) (Pz.A.A. 20)
+germ_sdkfz_234_2_mod_0;Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (Sd.Kfz. 234/2) (20. Panzer-Division, 20. Panzer-Aufklärungs-Abteilung)
+germ_sdkfz_234_2_mod_1;s.Pz.Spw. (Kw.K. 39/1)
+germ_sdkfz_234_2_mod_2;Light tank
 germ_sdkfz_234_2_td_shop;⋦ s.Pz.Spw. (5cm)
 germ_sdkfz_234_2_td_0;⋦ schwerer Panzerspähwagen (5cm) (Sd.Kfz. 234/2)
 germ_sdkfz_234_2_td_1;⋦ s.Pz.Spw. (5cm)
@@ -5108,7 +5129,7 @@ germ_iris_slm_launcher_2;SPAAM
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 germ_s30_s61_shop;S 61
-germ_s30_s61_0;Lürssen Werft | Schnellboot Typ 1939/1940 | S 61
+germ_s30_s61_0;Fr. Lürssen Werft, Bau-Nr. 12854 | Schnellboot Typ 1939/1940 | S 61
 germ_s30_s61_1;S 61
 germ_s30_s61_2;Fast Boat
 
@@ -5283,6 +5304,14 @@ su_33_2;Su-33
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+mi_35m_shop;Mi-24VM
+mi_35m_0;Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ | Vyertolyet Mi-24VM
+mi_35m_1;Mi-24VM
+mi_35m_2;Mi-24
+mi_35m_killstreak_shop;Mi-24VM
+mi_35m_killstreak_0;Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ | Vyertolyet Mi-24VM
+mi_35m_killstreak_1;Mi-24VM
+mi_35m_killstreak_2;Mi-24
 mi_35p_shop;Mi-35P
 mi_35p_0;"Moskovskij vyertolëtnyj zavod im. M. L. Milâ / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet ""Fyeniks"""
 mi_35p_1;Mi-35P
@@ -5413,12 +5442,20 @@ ussr_buk_m3_fcs_shop;9S18M3
 ussr_buk_m3_fcs_0;"Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ czyelyej 9S18M3 ""Kupol-M3"""
 ussr_buk_m3_fcs_1;9S18M3
 ussr_buk_m3_fcs_2;Radar
+ussr_pantsyr_sm_sv_shop;Panczir'-SM-SV
+ussr_pantsyr_sm_sv_0;"Konstruktorskoye bûro priborostroyeniâ | Zyenitnyj rakyetno-pušyečnyj komplyeks ""Panczir'-SM-SV"""
+ussr_pantsyr_sm_sv_1;Panczir'-SM-SV
+ussr_pantsyr_sm_sv_2;SPAAG/M
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 ussr_pr_103_sm4_shop;TKA № 164
 ussr_pr_103_sm4_0;Sudostroityel'nyj zavod № 194 im. Marti | Torpyednyj katyer proyekta 103 tip SM-4 | TKA № 164
 ussr_pr_103_sm4_1;TKA № 164
 ussr_pr_103_sm4_2;Motor torpedo boat
+ussr_d3_tk126_shop;TK-126
+ussr_d3_tk126_0;Zavod № 640 | Torpyednyj katyer proyekt 19-OK | TK-126 (1944)
+ussr_d3_tk126_1;TK-126
+ussr_d3_tk126_2;Motor Torpedo Boat
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 ussr_pr253l_shop;T-380
@@ -5659,6 +5696,14 @@ uk_a30_sp_avenger_kit_3rank_1;Avenger, Mk. I
 uk_a30_sp_avenger_kit_3rank_2;Medium tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+uk_as_90_mk_2_shop;L131
+uk_as_90_mk_2_0;Vickers Shipbuilding and Engineering | Gun Equipment, 155 mm, L131
+uk_as_90_mk_2_1;L131
+uk_as_90_mk_2_2;SPH
+uk_vickers_gbt_155_shop;SP 155
+uk_vickers_gbt_155_0;Vickers Shipbuilding and Engineering SP 155
+uk_vickers_gbt_155_1;SP 155
+uk_vickers_gbt_155_2;SPH
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
@@ -8600,6 +8645,10 @@ fr_frigate_corse_class_corse_1;Le Brestois
 fr_frigate_corse_class_corse_2;Fast Escort
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+fr_destroyer_guepard_class_verdun_shop;Verdun (X 33)
+fr_destroyer_guepard_class_verdun_0;Ateliers et chantiers de la Loire / Arsenal de Sidi-Abdallah | Contre-torpilleur de la classe Guépard | Verdun (X 33) (1941)
+fr_destroyer_guepard_class_verdun_1;Verdun
+fr_destroyer_guepard_class_verdun_2;
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 
@@ -8700,6 +8749,10 @@ saab_jas39e_shop;JAS 39 E
 saab_jas39e_0;Saab 39 Gripen E | JAS 39 E Gripen
 saab_jas39e_1;JAS 39 E
 saab_jas39e_2;JAS 39
+f_16a_block_10_norway_shop;◢ F-16A-10-CF
+f_16a_block_10_norway_0;◢ General Dynamics Corporation | F-16A-10-CF Fighting Falcon
+f_16a_block_10_norway_1;◢ F-16A
+f_16a_block_10_norway_2;◢ F-16
 f_16am_block_20_mlu_norway_shop;◢ F-16AM-20-CF
 f_16am_block_20_mlu_norway_0;◢ General Dynamics Corporation | F-16AM-20-CF Fighting Falcon
 f_16am_block_20_mlu_norway_1;◢ F-16A
@@ -8720,6 +8773,10 @@ fa_18c_mlu_2_finland_2;HN
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+sw_t_50_fin_shop;14 psv T 50
+sw_t_50_fin_0;Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova | 14 tonnin panssarivaunu T 50
+sw_t_50_fin_1;14 psv T 50
+sw_t_50_fin_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 
@@ -8788,6 +8845,18 @@ sw_nasams_launcher_2;SPAAM
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+spitfire_mk9c_iaf_shop; Spiṭfayer IX
+spitfire_mk9c_iaf_0; Vickers Supermarine Type 361 | Spiṭfayer Degem IX
+spitfire_mk9c_iaf_1; Spiṭfayer IX
+spitfire_mk9c_iaf_2; Spiṭfayer
+spitfire_lf_mk9e_iaf_shop; Spiṭfayer IX (KK)
+spitfire_lf_mk9e_iaf_0; Vickers Supermarine Type 361 | Spiṭfayer Degem IX (Knef Kṣoṣah)
+spitfire_lf_mk9e_iaf_1; Spiṭfayer IX
+spitfire_lf_mk9e_iaf_2; Spiṭfayer
+spitfire_lf_mk9e_weisman_shop; Weiṣman's Spiṭfayer IX
+spitfire_lf_mk9e_weisman_0; Vickers Supermarine Type 361 | 'Ezer Weiṣman's Spiṭfayer Degem IX
+spitfire_lf_mk9e_weisman_1; Spiṭfayer IX
+spitfire_lf_mk9e_weisman_2; Spiṭfayer
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 md_450b_ouragan_iaf_shop; 'Organ
@@ -10554,18 +10623,6 @@ spitfire_xvi_shop;Spitfire F. Mk. XVI
 spitfire_xvi_0;Spitfire F. Mk. XVI
 spitfire_xvi_1;Spitfire F. Mk. XVI
 spitfire_xvi_2;Spitfire
-spitfire_lf_mk9e_weisman_shop; Weizman's Spitfire L.F. Mk. IXe
-spitfire_lf_mk9e_weisman_0; Ezer Weizman's Spitfire L.F. Mk. IXe
-spitfire_lf_mk9e_weisman_1; Spitfire L.F. Mk. IXe
-spitfire_lf_mk9e_weisman_2; Spitfire
-spitfire_lf_mk9e_iaf_shop; Spitfire L.F. Mk. IXe (CW)
-spitfire_lf_mk9e_iaf_0; Spitfire L.F. Mk. IXe (clipped wings)
-spitfire_lf_mk9e_iaf_1; Spitfire L.F. Mk. IX
-spitfire_lf_mk9e_iaf_2; Spitfire
-spitfire_mk9c_iaf_shop; Spitfire F. Mk. IX
-spitfire_mk9c_iaf_0; Spitfire F. Mk. IX
-spitfire_mk9c_iaf_1; Spitfire F. Mk. IX
-spitfire_mk9c_iaf_2; Spitfire
 yak-1b_shop;Âk-1-127
 yak-1b_0;Âk-1 syeriâ 127
 yak-1b_1;Âk-1-127
@@ -13380,10 +13437,6 @@ mi_24p_shop;Mi-24P
 mi_24p_0;Mi-24P
 mi_24p_1;Mi-24P
 mi_24p_2;Mi-24
-mi_35m_shop;Mi-24VM
-mi_35m_0;Mi-24VM
-mi_35m_1;Mi-24VM
-mi_35m_2;Mi-24
 mi_35m_pakistan_shop;☪ Mi-35M3
 mi_35m_pakistan_0;☪ Mi-35M3
 mi_35m_pakistan_1;☪ Mi-35M

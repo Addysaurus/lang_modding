@@ -21,11 +21,13 @@ su_24m_china_killstreak_2;␗☢ Су-24
 
 //USSR GROUPS
 shop/group/la_200_group;200 / Ла-15
+shop/group/mig_29_group;МиГ-29 (9-12) / (9-13)
 shop/group/ussr_t_34_85_group;Т-34-85 (Mar, 1944) / (Sep, 1944)
 shop/group/ussr_su_object_group;СУ-122-54 / Об. 268
 shop/group/ussr_t_55_group;Т-55А / 62
 shop/group/ussr_it_9p149_group;ИТ-1 / 9П149М
 shop/group/ussr_t_62_group;Т-55АД-1 / 62М-1
+shop/group/ussr_t_64_t_80_group;Т-64БВ / 80Б
 shop/group/ussr_9a33_35_group;9А33БМ3 / 35М2
 shop/group/ussr_buk_m3_fcs_group;9К317М
 shop/group/cn_tor_hq_group;␗ 9А331 / ADK17
@@ -150,6 +152,14 @@ su_30mkk_2;␗ Sū 30
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+mi_35m_shop;Ми-24ВМ
+mi_35m_0;Ростовский вертолётный производственный комплекс «Роствертол» имени Б. Н. Слюсаря | Вертолет Ми-24ВМ
+mi_35m_1;Ми-24ВМ
+mi_35m_2;Ми-24
+mi_35m_killstreak_shop;Ми-24ВМ
+mi_35m_killstreak_0;Ростовский вертолётный производственный комплекс «Роствертол» имени Б. Н. Слюсаря | Вертолет Ми-24ВМ
+mi_35m_killstreak_1;Ми-24ВМ
+mi_35m_killstreak_2;Ми-24
 mi_35p_shop;Ми-35П
 mi_35p_0;Московский вертолётный завод им. М. Л. Миля / Холдинг «Вертолёты России» + Ростовский вертолётный производственный комплекс акционерное общество «Роствертол» им. Б. Н. Слюсаря Ми-35П Транспортно-боевой Вертолет «Феникс»
 mi_35p_1;Ми-35П
@@ -322,12 +332,20 @@ ussr_buk_m3_fcs_shop;9С18М3
 ussr_buk_m3_fcs_0;Научно-исследовательский институт приборостроения им. В. В. Тихомирова (НИИП) | Станция обнаружения целей 9С18М3 «Купол-М3»
 ussr_buk_m3_fcs_1;9С18М3
 ussr_buk_m3_fcs_2;Radar
+ussr_pantsyr_sm_sv_shop;Панцирь-СМ-СВ
+ussr_pantsyr_sm_sv_0;Конструкторское бюро приборостроения | Зенитный ракетно-пушечный комплекс «Панцирь-СМ-СВ»
+ussr_pantsyr_sm_sv_1;Панцирь-СМ-СВ
+ussr_pantsyr_sm_sv_2;SPAAG/M
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 ussr_pr_103_sm4_shop;ТКА № 164
 ussr_pr_103_sm4_0;Судостроительный завод № 194 им. Марти | Торпедный катер проекта 103 тип СМ-4 | ТКА № 164
 ussr_pr_103_sm4_1;ТКА № 164
 ussr_pr_103_sm4_2;Motor Torpedo Boat
+ussr_d3_tk126_shop;ТК-126
+ussr_d3_tk126_0;Завод № 640 | Торпедный катер проект 19-ОК | ТК-126 (1944)
+ussr_d3_tk126_1;ТК-126
+ussr_d3_tk126_2;Motor Torpedo Boat
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 ussr_pr253l_shop;Т-380
@@ -448,3 +466,9 @@ mig_29_9_12_sniper_shop;╏ MiG-29 Sniper
 mig_29_9_12_sniper_0;╏ Микоян и Гуревич / Aerostar + Elbit Systems | MiG-29 Sniper
 mig_29_9_12_sniper_1;╏ MiG-29 Sniper
 mig_29_9_12_sniper_2;╏ MiG-29
+
+//SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+sw_t_50_fin_shop;14 psv T 50
+sw_t_50_fin_0;Ленинградский государственный завод № 174 им. К. Е. Ворошилова | 14 tonnin panssarivaunu T 50
+sw_t_50_fin_1;14 psv T 50
+sw_t_50_fin_2;Light Tank

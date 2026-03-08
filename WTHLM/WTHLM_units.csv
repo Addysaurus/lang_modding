@@ -1262,7 +1262,7 @@ shop/group/f_86_group;F-86A-5 / F-25
 shop/group/f-104_group;F-104A-10 / C-5
 shop/group/a_7_group;A-7D-8 / E-4
 shop/group/f_16_group;F-16A-15OCU / ADF
-shop/group/f_18_group;F/A-18A-18 / C-25
+shop/group/f_18_group;F/A-18A-18 / C-52
 shop/group/f_14_group;F-14A-110 / B-150
 shop/group/us_cruiser_fargo_brooklyn_group;USS Fargo / Brooklyn
 
@@ -5129,7 +5129,7 @@ germ_iris_slm_launcher_2;SPAAM
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 germ_s30_s61_shop;S 61
-germ_s30_s61_0;Fr. Lürssen Werft, Bau-Nr. 12854 | Schnellboot Typ 1939/1940 | S 61
+germ_s30_s61_0;Fr. Lürssen Werft, Bau-Nr. 12854 | Schnellboot (S 54-61) | S 61
 germ_s30_s61_1;S 61
 germ_s30_s61_2;Fast Boat
 
@@ -5808,6 +5808,10 @@ uk_hdml_ml1383_1;HMS HDML 1383
 uk_hdml_ml1383_2;Harbour Defence Motor Launch
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+uk_73ft_vosper_type1_shop;HMS MTB 379
+uk_73ft_vosper_type1_0;Vosper & Co. | Vosper 73 ft-class | HMS MTB 379
+uk_73ft_vosper_type1_1;HMS MTB 379
+uk_73ft_vosper_type1_2;Motor Torpedo Boat
 uk_dark_class_shop;HMS Dark Adventurer (P 1101)
 uk_dark_class_0;Saunders-Roe | Dark-class | HMS Dark Adventurer (P 1101)
 uk_dark_class_1;HMS Dark Adventurer

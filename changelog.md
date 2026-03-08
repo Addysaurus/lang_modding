@@ -46,6 +46,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F-111/Tornado** (folder)
         - **F/A-18** (UK / Australia) (folder)
         - **F/A-18F** (UK / Australia)
+        - **MTB-379**
         - **Me 210 V22**
         - **F-15J** (Japan) (folder)
         - **F-5/F-16** (Japan / Thailand) (folder)
@@ -81,7 +82,7 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Ninth Wave" changes"
         - **F-16C PoBIT** → **F-16C-52-MC (PoBIT)**. Statcard name → **Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (Post Block Integration Team)**.
-        - **F/A-18** (folder) → **F/A-18A-18 / C-25**.
+        - **F/A-18** (folder) → **F/A-18A-18 / C-52**.
         - **AH-64A** (killstreak): Statcard name → **McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache**.
         - **M1296** → **M1296 ICVD**. Statcard name → **General Dynamics Land Systems | Combat Vehicle, Infantry, Dragoon, M1296**.
         - **USS Helm** → **USS Helm (DD-388)**. Statcard name → **Norfolk Naval Shipyard / Mare Island Naval Shipyard | Bagley-class Destroyer | USS Helm (DD-388) (1944)**.
@@ -89,7 +90,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Alpha Jet A (JaboG 41)** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A (Jagdbombergeschwader 41)**.
         - **Sd.Kfz.234/2 "Biene"** → **s.Pz.Spw. (Kw.K. 39/1) (Pz.A.A. 20)**. Statcard name → **Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (Sd.Kfz. 234/2) (20. Panzer-Division, 20. Panzer-Aufklärungs-Abteilung)**.
         - **sWaTrgInf**: Statcard name → **ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie**.
-        - **S-61** → **S 61**. Statcard name → **Fr. Lürssen Werft, Bau-Nr. 12854 | Schnellboot Typ 1939/1940 | S 61**.
+        - **S-61** → **S 61**. Statcard name → **Fr. Lürssen Werft, Bau-Nr. 12854 | Schnellboot (S 54-61) | S 61**.
         - **Z52** → **Z 52**. Statcard name → **Deutsche Schiff- und Maschinenbau A.G. "Weser" | Zerstörer Typ 1944 | Z 52**.
         - **MiG-29 (9-12)**: Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye | izd. 9-12 | Samolyet MiG-29**.
         - **MiG-29M (9-15)** → **MiG-29M**. Statcard name → **Aviastroityel'nyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M**.
@@ -101,6 +102,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F-111/Tornado** (folder) → **F-111F / Tornado G.R. Mk. 1**.
         - **F/A-18** (UK / Australia) (folder) → **F/A-18A / A (HUG 2.4)**.
         - **F/A-18F** (UK / Australia) → **F/A-18F-2-MC**. Statcard name → **Boeing Defense, Space & Security | F/A-18F-2-MC Super Hornet**.
+        - **MTB-379** → **HMS MTB 379**. Statcard name → **Vosper & Co. | Vosper 73 ft-class | HMS MTB 379**.
         - **Me 210 V22**: Statcard name → **Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22**.
             - Japanese package: Statcard name → **Messerschmitt / 川崎航空機工業明石工場 | Me 210 V22**.
         - **F-15J** (Japan) (folder) → **F-15J (C4) / J(M)**.
@@ -198,13 +200,52 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - Update "Ninth Wave" additions:
+        - **7.62 mm M1919A4E1 machine gun**
+        - **Drop tank/IRST**
+        - **30 mm M44/73 cannon**
+        - **55 mm Gerät 58 cannon**
+        - **PL-12A**
+        - **YJ-83K**
+        - **KD-88**
+        - **KD-88A**
+        - **LS-6(IR) 500**
+        - **8.56 mm Gebauer 1939.M machine gun**
+        - **8 mm Gebauer Gebauer 1926/39.M machine gun**
+        - **8 mm Gebauer Gebauer 1934/37.M machine gun**
+        - **12.7 mm Gebauer 1940.M GKM machine gun**
         - **40 mm M39 cannon**
+        - **Wgr.41 Spr**
+        - **I-Derby ER**
 
 - #### Changes:
 
     - Update "Ninth Wave" changes:
+        - **7.62 mm M1919A4E1 machine gun** → **Machine Gun, Caliber .30, Browning, M1919A4E1**.
+        - **Drop tank/IRST** → **AN/ASG-34(V)1**.
+        - **30 mm M44/73 cannon** → **3cm Flugabwehrkanone M/44 L/73**.
+        - **55 mm Gerät 58 cannon** → **5,5cm Gerät 58**.
+        - **PL-12A** → **PL12AE**. Statcard name → **PL12AE Kōng Kōng Dǎodàn**.
+            - Mandarin package: Statcard name → **PL12AE空空导弹**.
+            - Full Mandarin package: **PL-12A** → **霹雳12AE**. Statcard name → **霹雳12AE空空导弹**.
+        - **YJ-83K** → **H/AKJ83**. Statcard name → **YJ83K | H/AKJ83 Kōng Jiàn Daodàn**.
+            - Mandarin package: Statcard name → **YJ83K | H/AKJ83空舰导弹**.
+            - Full Mandarin package: Statcard name → **鹰击83K | H/AKJ83空舰导弹**.
+        - **KD-88** → **K/AKD88**. Statcard name → **K/AKD88 Kòng Dì Daodàn**.
+            - Mandarin package: Statcard name → **K/AKD88空地导弹**.
+        - **KD-88A** → **K/AKD88A**. Statcard name → **K/AKD88A Kòng Dì Daodàn**.
+            - Mandarin package: Statcard name → **K/AKD88A空地导弹**.
+        - **LS-6(IR) 500** → **LS-6/500 (Hóngwài)**. Statcard name → **LS-6 Xíng 500 Gōngjīn Zhìdao Huáxiáng Zhàdàn (Hóngwài Daoyintóu)**.
+            - Mandarin package: **LS-6(IR) 500** → **LS-6/500 (红外)**. Statcard name → **LS-6型500公斤制导滑翔炸弹 (红外导引头)**.
+        - **8.56 mm Gebauer 1939.M machine gun** → **8,56 mm 39 M. géppuska**.
+        - **8 mm Gebauer Gebauer 1926/39.M machine gun** → **8 mm 26/31 M. géppuska** (Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer).
+        - **8 mm Gebauer Gebauer 1934/37.M machine gun** → **8 mm 34/37 M. géppuska** (Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer).
+        - **12.7 mm Gebauer 1940.M GKM machine gun** → **12,7 mm 40 M. géppuska**.
         - **40 mm M39 cannon** → **4 cm 36 M. légvédelmi gépágyú**.
+        - **Wgr.41 Spr** → **43 M. rakétagránát**. Statcard name → **15 cm-es 43 M. rakétagránát**.
+        - **I-Derby ER**: Statcard name → **I-Derby Extended Range**.
     - **Piton 5 SR** → **Python 5 SR**. Statcard name → **Python 5 Short Range**. It's an export missile so it doesn't get it's IDF Piton name.
+    - **2cm Flugzeugabwehrkanone-Zwilling 38** → **2cm Flugabwehrkanone-Zwilling 38**.
+    - **43 M. rakéta sorozatvető**: Type tag changed to LCH.
 
 ### Modifications:
 
@@ -214,8 +255,15 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Sensors:
 
+- #### Additions:
+
+    - Update "Ninth Wave" additions:
+        - **Large caliber chaff countermeasures** (for the **A 32 A**)
+
 - #### Changes:
 
+    - Update "Ninth Wave" additions:
+        - **Large caliber chaff countermeasures** (for the **A 32 A**) → **BOX-3**.
     - **Thorium** → **Radiolokaczionnaâ stancziâ Torij-A**.
     - **Type 930** → **930 Léidá Gàojing Shèbèi** ([Report](https://github.com/Addysaurus/lang_modding/issues/127)).
         - Mandarin package: **Type 930** → **930雷达告警设备**.

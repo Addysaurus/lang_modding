@@ -92,6 +92,10 @@ crew/pilot/eyesight/tooltip;"This skill affects the pilot's visual range in the 
 The skill allows to increase the range of detection up to two times (upon identical weather conditions, position of the Sun and altitude difference between the two aircraft)."
 crew/tank_gunner/tracking/tooltip;"The skill of gun targeting affects targeting speed and accuracy. An experienced gunner targets the gun both vertically and horizontally at once; an inexperienced one does it in turns — at first they rotate the turret and then fix the angle of fire."
 help/protectionAnalysisSelectUnit;"To check your vehicle, select the attacking enemy and their weapons from the list."
+
 //STREAKS
 streaks/last_man_standing;The Last One Standing!
 mainmenu/customSoundMods;<color=@commonTextColor>Sound modification enabled</color>
+
+//MEASUREMENTS
+measureUnits/pcs;<color=@userlogColoredText> x</color>

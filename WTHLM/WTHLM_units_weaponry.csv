@@ -15,6 +15,7 @@ ahead/name/short;AHEAD
 
 //USA GUNS
 weapons/7_62mm_M1919A4_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, M1919A4, Heavy Barrel <color=#ff6f00>MG</color>
+weapons/7_62mm_M1919A4E1_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, M1919A4E1 <color=#ff6f00>MG</color>
 weapons/gunBrowning30_usaaf;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
 weapons/gunBrowning30_usaaf_1935;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
 weapons/gunBrowning30_turret;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Flexible <color=#ff6f00>MG</color>
@@ -77,14 +78,16 @@ weapons/cannon_fm_k_45/short;H.S.-Flz.M.Kan. 45
 weapons/20mm_mg151_20_mid_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/20mm_mg151_20_out_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/cannonM61A2_switzerland;<color=@userlogColoredText>30 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
-weapons/20mm_FlaK38_wirbelwind_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Flugzeugabwehrkanone-Zwilling 38 <color=#ff6f00>ACNN</color>
+weapons/20mm_FlaK38_wirbelwind_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Flugabwehrkanone-Zwilling 38 <color=#ff6f00>ACNN</color>
 weapons/cannonM61A2_switzerland/short;Flz.Kan. 92
 weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug Kanone 76 <color=#ff6f00>ACNN</color>
 weapons/cannonFlzKan_76/short;Flz.Kan. 76
 weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
 weapons/cannonDEFA552A_switzerland/short;Flz.Kan. 65
+weapons/30mm_73_m44_naval_user_cannon;<color=@userlogColoredText>30 mm</color> 3cm Flugabwehrkanone M/44 L/73 <color=#ff6f00>ACNN</color>
 weapons/37mm_gerat_341_user_cannon;<color=@userlogColoredText>37 mm</color> 3,7cm Gerät 341 <color=#ff6f00>ACNN</color>
 weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 <color=#ff6f00>ACNN</color>
+weapons/55mm_77_gerat_58_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 5,5cm Gerät 58 <color=#ff6f00>ACNN</color>
 weapons/105mm_Rh105_30_user_cannon;<color=@userlogColoredText>105 mm</color> Rh105-30 <color=#ff6f00>CNN</color>
 weapons/350mm_45_skl_45_naval_user_cannon;<color=@userlogColoredText>350 mm</color> 35cm Schnelladekanone Lange/45 <color=#ff6f00>CNN</color>
 
@@ -206,6 +209,10 @@ weapons/152mm_pl_66_gai_user_cannon;<color=@userlogColoredText>152 mm</color> PL
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ2005 Shì 155 Háomi Zìxíng Jiā Liúpào <color=#ff6f00>CNN-HWZ</color>
 
 //ITALY GUNS
+weapons/gun_gebauer_1939m;<color=@userlogColoredText>8.56 mm</color> 8,56 mm 39 M. géppuska <color=#ff6f00>MG</color>
+weapons/gun_gebauer_26_31m;<color=@userlogColoredText>8 mm</color> 8 mm 26/31 M. géppuska <color=#ff6f00>MG</color>
+weapons/gun_gebauer_34_37m_turret;<color=@userlogColoredText>8 mm</color> 8 mm 34/37 M. géppuska <color=#ff6f00>MG</color>
+weapons/gun_gebauer_1940m_gkm;<color=@userlogColoredText>12.7 mm</color> 12,7 mm 40 M. géppuska <color=#ff6f00>MG</color>
 weapons/cannon_mavag_39m;<color=@userlogColoredText>40 mm</color> 4 cm 36 M. légvédelmi gépágyú <color=#ff6f00>ACNN</color>
 weapons/40mm_39_vickers_terni_mod15_17_modif1930_naval_user_cannon;<color=@userlogColoredText>40 mm</color> Cannone Vickers-Terni da 40/39 modello 1915/1917 <color=#ff6f00>ACNN</color>
 weapons/75mm_43M_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm 43 M. harckocsiágyú <color=#ff6f00>CNN</color>
@@ -513,14 +520,16 @@ weapons/cn_ls_6_250;<color=@userlogColoredText>290 kg</color> LS-6 Xíng 250 Gō
 weapons/cn_ls_6_250/short;LS-6/250
 weapons/cn_ls_6_250_ir;<color=@userlogColoredText>300 kg</color> LS-6 Xíng 250 Gōngjīn Zhìdao Huáxiáng Zhàdàn (Hóngwài Daoyintóu) <color=#ff6f00>BMB-IR/GNSS</color>
 weapons/cn_ls_6_250_ir/short;LS-6/250 (Hóngwài)
+weapons/cn_ls_6_500;<color=@userlogColoredText>630 kg</color> LS-6 Xíng 500 Gōngjīn Zhìdao Huáxiáng Zhàdàn <color=#ff6f00>BMB-GNSS</color>
+weapons/cn_ls_6_500/short;LS-6/500
+weapons/cn_ls_6_500_ir;<color=@userlogColoredText>300 kg</color> LS-6 Xíng 500 Gōngjīn Zhìdao Huáxiáng Zhàdàn (Hóngwài Daoyintóu) <color=#ff6f00>BMB-IR/GNSS</color>
+weapons/cn_ls_6_500_ir/short;LS-6/500 (Hóngwài)
 weapons/cn_gp_500_2;<color=@userlogColoredText>473 kg</color> 500 Gōngjīn 2 Xíng Hángkōng Bàopò Zhàdàn <color=#ff6f00>BMB</color>
 weapons/cn_gp_500_2/short;500-2 Xíng
 weapons/cn_gp_500_3;<color=@userlogColoredText>469 kg</color> 500 Gōngjīn 3 Xíng Hángkōng Bàopò Zhàdàn <color=#ff6f00>BMB</color>
 weapons/cn_gp_500_3/short;500-3 Xíng
 weapons/cn_gp_500_4;<color=@userlogColoredText>508.3 kg</color> 500 Gōngjīn 4 Xíng Hángkōng Bàopò Zhàdàn <color=#ff6f00>BMB-HD</color>
 weapons/cn_gp_500_4/short;500-4 Xíng
-weapons/cn_ls_6_500;<color=@userlogColoredText>630 kg</color> LS-6 Xíng 500 Gōngjīn Zhìdao Huáxiáng Zhàdàn <color=#ff6f00>BMB-GNSS</color>
-weapons/cn_ls_6_500/short;LS-6/500
 weapons/cn_ls_500j;<color=@userlogColoredText>570 kg</color> K/YJG500 Xíng 500 Gōngjīn Jīguāng Zhìdao Zhàdàn <color=#ff6f00>BMB-LG</color>
 weapons/cn_ls_500j/short;K/YJG500
 weapons/cn_ls_1000j;<color=@userlogColoredText>1090 kg</color> GB1000 Xíng 1000 Gōngjīn Jīguāng Wèixīng Zhìdao Zhàdàn <color=#ff6f00>BMB-LG/GNSS</color>
@@ -577,7 +586,9 @@ weapons/cn_type130_ap;130 Háomi 1 Xíng Hángkōng Huojiàn Shāshāng Bàopò 
 weapons/cn_type130_ap/short;130-1 Xíng
 
 //ITALY ROCKETS
-weapons/158mm_NB_Wf_41_rocket_launcher;43 M. rakéta sorozatvető <color=#ff6f00>RKT</color>
+weapons/de_wgr41;15 cm-es 43 M. rakétagránát <color=#ff6f00>RKT</color>
+weapons/de_wgr41/short;43 M. rakétagránát
+weapons/158mm_NB_Wf_41_rocket_launcher;43 M. rakéta sorozatvető <color=#ff6f00>LCH</color>
 
 //FRANCE ROCKETS
 weapons/fr_sneb_type23s;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
@@ -880,6 +891,10 @@ weapons/cn_pl12;SD10A Kōng Kōng Daodàn <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl12/short;SD10A
 weapons/cn_pl12_default;SD10A Kōng Kōng Daodàn <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl12_default/short;SD10A
+weapons/cn_pl12a;PL12AE Kōng Kōng Dǎodàn <color=#ff6f00>AAM-ARH</color>
+weapons/cn_pl12a/short;PL12AE
+weapons/cn_pl12a_default;PL12AE Kōng Kōng Dǎodàn <color=#ff6f00>AAM-ARH</color>
+weapons/cn_pl12a_default/short;PL12AE
 weapons/cn_pl15;PL15 | K/AKK15 Kōng Kōng Daodàn <color=#ff6f00>AAM-ARH</color>
 weapons/cn_pl15/short;K/AKK15
 weapons/cn_pl15_default;PL15 | K/AKK15 Kōng Kōng Daodàn <color=#ff6f00>AAM-ARH</color>
@@ -894,10 +909,16 @@ weapons/cn_ba_9;AKD09 Kòng Dì Daodàn <color=#ff6f00>AGM-LG</color>
 weapons/cn_ba_9/short;AKD09
 weapons/cn_akd_10;AKD10 Kòng Dì Daodàn <color=#ff6f00>AGM-LG</color>
 weapons/cn_akd_10/short;AKD10
+weapons/ch_kd_88_missile_tv;K/AKD88 Kòng Dì Daodàn <color=#ff6f00>AGM-TV</color>
+weapons/ch_kd_88_missile_tv/short;K/AKD88
+weapons/ch_kd_88_missile_ir;K/AKD88A Kòng Dì Daodàn <color=#ff6f00>AGM-IR</color>
+weapons/ch_kd_88_missile_ir/short;K/AKD88A
 weapons/cn_ba_11;BA-11A Xíng Kòng Dì Daodàn <color=#ff6f00>AGM-IR</color>
 weapons/cn_ba_11/short;BA-11A
 weapons/cn_yj_81k;YJ81 | H/AKJ08 Kōng Jiàn Daodàn <color=#ff6f00>AShM-ARH</color>
 weapons/cn_yj_81k/short;H/AKJ08
+weapons/ch_yj_83k_missile;YJ83K | H/AKJ83 Kōng Jiàn Daodàn <color=#ff6f00>AShM-ARH</color>
+weapons/ch_yj_83k_missile/short;H/AKJ83
 weapons/cn_hj_8a;HJ-8A | AFT08A Fan Tankè Daodàn <color=#ff6f00>AGM-WG</color>
 weapons/cn_hj_8a/short;AFT08A
 weapons/cn_hj_8c;HJ-8C | AFT08C Fan Tankè Daodàn <color=#ff6f00>AGM-WG</color>
@@ -975,6 +996,8 @@ weapons/il_python_5_sam;Python 5 Short Range <color=#ff6f00>SAM-IR</color>
 weapons/il_python_5_sam/short;Python 5 SR
 weapons/il_derby_sam;I-Derby Short Range <color=#ff6f00>SAM-IR</color>
 weapons/il_derby_sam/short;I-Derby SR
+weapons/il_derby_er_sam;I-Derby Extended Range <color=#ff6f00>SAM-IR</color>
+weapons/il_derby_er_sam/short;I-Derby ER
 weapons/160mm_spyder_launcher_user_cannon;SPYDER <color=#ff6f00>LCH</color>
 
 //UNCATEGORIZED MISSILES
@@ -1042,6 +1065,8 @@ weapons/us_480gal_fa_18e_drop_tank_wing_right_1;<color=@userlogColoredText>1817 
 weapons/us_480gal_fa_18e_drop_tank_wing_right_1/short;FPU-12/A
 weapons/us_480gal_fa_18e_drop_tank_wing_right_2;<color=@userlogColoredText>1817 L</color> FPU-12/A <color=#ff6f00>DPTK</color>
 weapons/us_480gal_fa_18e_drop_tank_wing_right_2/short;FPU-12/A
+weapons/us_340gal_irst_fa_18e_drop_tank_centr;<color=@userlogColoredText>1287 L</color> AN/ASG-34(V)1 <color=#ff6f00>DPTK/IRST</color>
+weapons/us_340gal_irst_fa_18e_drop_tank_centr/short;AN/ASG-34(V)1
 
 //GERMANY FUEL TANKS
 weapons/mirage_3s_fuel_tank_6;Conformal fuel tank

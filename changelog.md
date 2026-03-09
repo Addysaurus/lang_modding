@@ -46,6 +46,9 @@ All dates are listed in DD-MM-YYYY format.
         - **F-111/Tornado** (folder)
         - **F/A-18** (UK / Australia) (folder)
         - **F/A-18F** (UK / Australia)
+        - **G6/Tortoise** (folder)
+        - **AS90**
+        - **GBT 155**
         - **MTB-379**
         - **Me 210 V22**
         - **F-15J** (Japan) (folder)
@@ -102,6 +105,9 @@ All dates are listed in DD-MM-YYYY format.
         - **F-111/Tornado** (folder) → **F-111F / Tornado G.R. Mk. 1**.
         - **F/A-18** (UK / Australia) (folder) → **F/A-18A / A (HUG 2.4)**.
         - **F/A-18F** (UK / Australia) → **F/A-18F-2-MC**. Statcard name → **Boeing Defense, Space & Security | F/A-18F-2-MC Super Hornet**.
+        - **G6/Tortoise** (folder) → **G6-45 / Tortoise**.
+        - **AS90** → **L131**. Statcard name → **Vickers Shipbuilding and Engineering | Gun Equipment, 155 mm, L131**.
+        - **GBT 155** → **SP 155**. Statcard name → **Vickers Shipbuilding and Engineering SP 155**.
         - **MTB-379** → **HMS MTB 379**. Statcard name → **Vosper & Co. | Vosper 73 ft-class | HMS MTB 379**.
         - **Me 210 V22**: Statcard name → **Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22**.
             - Japanese package: Statcard name → **Messerschmitt / 川崎航空機工業明石工場 | Me 210 V22**.
@@ -204,6 +210,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Drop tank/IRST**
         - **30 mm M44/73 cannon**
         - **55 mm Gerät 58 cannon**
+        - **95Ya6M** (launcher)
         - **PL-12A**
         - **YJ-83K**
         - **KD-88**
@@ -224,6 +231,9 @@ All dates are listed in DD-MM-YYYY format.
         - **Drop tank/IRST** → **AN/ASG-34(V)1**.
         - **30 mm M44/73 cannon** → **3cm Flugabwehrkanone M/44 L/73**.
         - **55 mm Gerät 58 cannon** → **5,5cm Gerät 58**.
+        - **95Ya6M** → **57È6M-Ye-M**.
+            - Full Ammunition Names package: **95Ya6M** → **Zyenitnaâ upravlâyemaâ rakyeta 57È6M-Ye-M**.
+        - **95Ya6M** (launcher) → **95Â6M**. Statcard name → **Transportno-puskovoj kontyejnyer 95Â6M**.
         - **PL-12A** → **PL12AE**. Statcard name → **PL12AE Kōng Kōng Dǎodàn**.
             - Mandarin package: Statcard name → **PL12AE空空导弹**.
             - Full Mandarin package: **PL-12A** → **霹雳12AE**. Statcard name → **霹雳12AE空空导弹**.
@@ -246,6 +256,9 @@ All dates are listed in DD-MM-YYYY format.
     - **Piton 5 SR** → **Python 5 SR**. Statcard name → **Python 5 Short Range**. It's an export missile so it doesn't get it's IDF Piton name.
     - **2cm Flugzeugabwehrkanone-Zwilling 38** → **2cm Flugabwehrkanone-Zwilling 38**.
     - **43 M. rakéta sorozatvető**: Type tag changed to LCH.
+    - **95Ya6** → **57È6-Ye**.
+        - Full Ammunition Names package: **95Ya6** → **Zyenitnaâ upravlâyemaâ rakyeta 57È6-Ye**.
+    - **95Ya6** (launcher) → **95Â6**. Statcard name → **Transportno-puskovoj kontyejnyer 95Â6**.
 
 ### Modifications:
 

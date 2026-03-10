@@ -135,8 +135,8 @@ All dates are listed in DD-MM-YYYY format.
         - **Héja I**: Statcard name → **Reggiane Officine Meccaniche Italiane / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja I vadászrepülőgép**.
         - **Héja II**: Statcard name → **Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja II vadászrepülőgép**.
         - **WM-23** → **W.M. 23**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M. 23 Ezüst Nyíl vadászrepülőgép**.
-        - **Me 210 Ca-1**: Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép**.
-        - **Me 210 Ca-1 39M** → **Me 210 Ca-1 (36 M.)**. Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép (4 cm 36 M. légvédelmi gépágyú)**.
+        - **Me 210 Ca-1**: Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 nehéz vadászrepülőgép**.
+        - **Me 210 Ca-1 39M** → **Me 210 Ca-1 (36 M.)**. Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 nehéz vadászrepülőgép (40 mm 36 M. légvédelmi gépágyú)**.
         - **Me 210 Ca** (Italy / Hungary) (folder) → **Me 210 Ca-1 / 1 (36 M.)**.
         - **Fw 190 F-8** (Italy / Hungary): Statcard name → **Focke-Wulf Flugzeugbau | Fw 190 F-8 vadászrepülőgép**.
         - **Centauro II (P)** → **Centauro II 120**. Statcard name → **Consortium Iveco-Oto Melara | Centauro II 120 (Guardian H3)**.
@@ -146,7 +146,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F-16A** (Sweden / Norway) → **F-16A-10-CF**. Statcard name → **General Dynamics Corporation | F-16A-10-CF Fighting Falcon**.
         - **JAS39D** → **JAS 39 D (Cobra)**. Statcard name → **Saab 39 D | JAS 39 D Gripen (Cobra)**.
         - **JAS39** (folder) → **JAS 39 A / C**.
-        - **T-50** (Sweden / Finland) → **14 psv T 50**. Statcard name → **Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova | 14 tonnin panssarivaunu T 50**.
+        - **T-50** (Sweden / Finland) → **15 psv T 50**. Statcard name → **Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova | 15 tonnin panssarivaunu T 50 "Pikku-Sotka"**.
         - **Kurnass/Baz** (folder) → **F-4E Kurnas 2000 / F-15A-18**.
             - Hebrew package: **Kurnass/Baz** (folder) → **15A-18 / 2000 קורנס F-4E**.
         - **Barak II/Sufa** (folder) → **F-16D-40 / I**.
@@ -210,7 +210,9 @@ All dates are listed in DD-MM-YYYY format.
         - **Drop tank/IRST**
         - **30 mm M44/73 cannon**
         - **55 mm Gerät 58 cannon**
+        - **95Ya6M**
         - **95Ya6M** (launcher)
+        - **TKB-1055**
         - **PL-12A**
         - **YJ-83K**
         - **KD-88**
@@ -234,6 +236,8 @@ All dates are listed in DD-MM-YYYY format.
         - **95Ya6M** → **57È6M-Ye-M**.
             - Full Ammunition Names package: **95Ya6M** → **Zyenitnaâ upravlâyemaâ rakyeta 57È6M-Ye-M**.
         - **95Ya6M** (launcher) → **95Â6M**. Statcard name → **Transportno-puskovoj kontyejnyer 95Â6M**.
+        - **TKB-1055**:
+            - Full Ammunition Names package: **TKB-1055** → **Zyenitnaâ upravlâyemaâ rakyeta TKB-1055**.
         - **PL-12A** → **PL12AE**. Statcard name → **PL12AE Kōng Kōng Dǎodàn**.
             - Mandarin package: Statcard name → **PL12AE空空导弹**.
             - Full Mandarin package: **PL-12A** → **霹雳12AE**. Statcard name → **霹雳12AE空空导弹**.

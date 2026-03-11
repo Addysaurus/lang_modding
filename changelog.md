@@ -213,6 +213,8 @@ All dates are listed in DD-MM-YYYY format.
         - **95Ya6M**
         - **95Ya6M** (launcher)
         - **TKB-1055**
+        - **Barrier ATGM**
+        - **R2**
         - **PL-12A**
         - **YJ-83K**
         - **KD-88**
@@ -236,6 +238,12 @@ All dates are listed in DD-MM-YYYY format.
         - **95Ya6M** → **57È6M-Ye-M**.
             - Full Ammunition Names package: **95Ya6M** → **Zyenitnaâ upravlâyemaâ rakyeta 57È6M-Ye-M**.
         - **95Ya6M** (launcher) → **95Â6M**. Statcard name → **Transportno-puskovoj kontyejnyer 95Â6M**.
+        - **Barrier ATGM** → **Protitankovij rakyetnij kompleks «Bar'yer»**.
+            - Ukrainian package: **Barrier ATGM** → **Протитанковий ракетний комплекс «Бар'єр»**.
+        - **R2** → **R-2S**.
+            - Full Ammunition Names package package: **R2** → **Raketa R-2S**.
+            - Ukrainian package: **R2** → **Р-2С**.
+            - Full Ammunition Names Ukrainian package: **R2** → **Р-2С**.
         - **TKB-1055**:
             - Full Ammunition Names package: **TKB-1055** → **Zyenitnaâ upravlâyemaâ rakyeta TKB-1055**.
         - **PL-12A** → **PL12AE**. Statcard name → **PL12AE Kōng Kōng Dǎodàn**.

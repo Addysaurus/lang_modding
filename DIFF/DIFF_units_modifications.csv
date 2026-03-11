@@ -30,6 +30,7 @@ CCIP/desc;Constantly computed impact point for the selected weapon
 sight_AUTO/desc;Ballistic computer for cannon weapons for air-ti-air mod
 CCRP/desc;Continuously computed release point
 engine_model/vk_105ra;VK-105RA
+engine_model/mtu_8v_199_te21d;MTU 8V 199 TE21-D
 engine_model/iveco_vector_8v;VECTOR 8V
 engine_model/wm_k-14a;WM K-14A
 engine_model/wm_k-14b;WM K-14B
@@ -39,14 +40,19 @@ engine_model/vta_903t_v8;VTA903T V8
 engine_manufacturer/scania_vabis;Scania-Vabis
 engine_model/603_2;603/2
 transmission_model/3200_sp;3200 SP
+transmission_model/4800_sp;4800 SP
 transmission_model/friedrichshafen_lsg_2000;Friedrichshafen LSG 2000
 transmission_manufacturer/z_f;ZF
 transmission_model/zf_7hp_902;ZF 7HP 902
 modification/cn_glide_bomb_ir/desc;Allows the installation of LS-6 IR guided bombs.
-modification/cn_glide_bomb_ir;LS-6 LR
+modification/cn_glide_bomb_ir;LS-6 IR
+modification/us_aim_120b_c/desc;Allows the installation of AIM-120B and AIM-120C air-to-air missiles.
+modification/us_aim_120b_c;AIM-120B/C
 modification/us_aim_120d/desc;Allows the installation of AIM-120D air-to-air missiles.
 modification/us_aim_120d;AIM-120D
 modification/cn_pl12a/desc;Allows the installation of PL-12A air-to-air missiles.
 modification/cn_pl12a;PL-12A
 aps/iron_fist_ld;Iron Fist Light Decoupled
+engine_model/f100_pw_200;F100-PW-200
 engine_model/rd-33k;RD-33K
+engine_model/t700_ihi_701c;T700-IHI-701C

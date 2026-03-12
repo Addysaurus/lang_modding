@@ -219,6 +219,7 @@ All dates are listed in DD-MM-YYYY format.
         - **95Ya6M** (launcher)
         - **TKB-1055**
         - **30 mm ZTM-1 automatic cannon**
+        - **105 mm Type 91 howitzer**
         - **Barrier ATGM**
         - **R2**
         - **PL-12A**
@@ -230,7 +231,7 @@ All dates are listed in DD-MM-YYYY format.
         - **8 mm Gebauer Gebauer 1926/39.M machine gun**
         - **8 mm Gebauer Gebauer 1934/37.M machine gun**
         - **12.7 mm Gebauer 1940.M GKM machine gun**
-        - **40 mm M39 cannon**
+        - **36.M. mm M39 cannon** (considering my report is what got it changed to 36.M (really should be 36 M.), this pains me)
         - **120 mm OTO LEONARDO 120/45 cannon**
         - **Wgr.41 Spr**
         - **I-Derby ER**
@@ -252,6 +253,8 @@ All dates are listed in DD-MM-YYYY format.
         - **95Ya6M** (launcher) → **95Â6M**. Statcard name → **Transportno-puskovoj kontyejnyer 95Â6M**.
         - **30 mm ZTM-1 automatic cannon** → **30-mm avtomatična harmata ZTM-1**.
             - Ukrainian package: **30 mm ZTM-1 automatic cannon** → **30-мм автоматична гармата ЗТМ-1**.
+        - **105 mm Type 91 howitzer** → **91 Shiki 10 Senchi Ryūdanhō**.
+            - Ukrainian package: **105 mm Type 91 howitzer** → **九一式十糎榴弾砲**.
         - **Barrier ATGM** → **Protitankovij rakyetnij kompleks «Bar'yer»**.
             - Ukrainian package: **Barrier ATGM** → **Протитанковий ракетний комплекс «Бар'єр»**.
         - **R2** → **R-2S**.
@@ -276,7 +279,7 @@ All dates are listed in DD-MM-YYYY format.
         - **8 mm Gebauer Gebauer 1926/39.M machine gun** → **8 mm 26/31 M. géppuska** (Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer).
         - **8 mm Gebauer Gebauer 1934/37.M machine gun** → **8 mm 34/37 M. géppuska** (Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer).
         - **12.7 mm Gebauer 1940.M GKM machine gun** → **12,7 mm 40 M. géppuska**.
-        - **40 mm M39 cannon** → **4 cm 36 M. légvédelmi gépágyú**.
+        - **36.M. mm M39 cannon** (considering my report is what got it changed to 36.M, this pains me) → **4 cm 36 M. légvédelmi gépágyú**.
         - **120 mm OTO LEONARDO 120/45 cannon** → **Cannone OTO-Melara da 120/45**.
         - **Wgr.41 Spr** → **43 M. rakétagránát**. Statcard name → **15 cm-es 43 M. rakétagránát**.
         - **I-Derby ER**: Statcard name → **I-Derby Extended Range**.

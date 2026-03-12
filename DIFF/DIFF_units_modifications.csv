@@ -5,15 +5,20 @@ modification/mavag_39m_antitank;40 mm cannon anti-tank magazine version
 modification/mavag_39m_antitank/short;AP
 modification/mavag_39m_antibomber;40 mm cannon magazine for air targets
 modification/mavag_39m_antibomber/short;Air targets
-modification/ch_kd_88/desc;Allows the installation of KD-88 guided missiles.
+modification/ch_kd_88/desc;Allows the installation of KD-88 TV guided missile.
 modification/ch_kd_88;KD-88
+modification/ch_kd_88a/desc;Allows the installation of KD-88 TV guided missile.
+modification/ch_kd_88a;KD-88
 modification/us_ljdam/desc;Allows the installation of LJDAM guided bombs.
 modification/us_ljdam;LJDAM
+modification/us_agm154_jsow/desc;Allows the installation of AGM-154 JSOW guided bombs.
+modification/us_agm154_jsow;AGM-154
 modification/ch_yj_83k;YJ-83K
 modification/ch_yj_83k/desc;Allows the installation of YJ-83K guided anti-ship missiles.
 sensors/su_1rs1_4;1RS1-4
 sensors/su_1rs2_3;1RS2-3
 sensors/su_n_035e;N035E
+sensors/su_n_010m;N010M Zhuk-M
 sensors/uk_captor_ecrs_1_pirate;CAPTOR ECRS Mk.1
 sensors/uk_captor_ecrs_2_pirate;CAPTOR ECRS Mk.2
 radar_hms_mode/desc;Helmet Mounted Sight

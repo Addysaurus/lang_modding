@@ -109,8 +109,8 @@ All dates are listed in DD-MM-YYYY format.
         - **AS90** → **L131**. Statcard name → **Vickers Shipbuilding and Engineering | Gun Equipment, 155 mm, L131**.
         - **GBT 155** → **SP 155**. Statcard name → **Vickers Shipbuilding and Engineering SP 155**.
         - **MTB-379** → **HMS MTB 379**. Statcard name → **Vosper & Co. | Vosper 73 ft-class | HMS MTB 379**.
-        - **Me 210 V22**: Statcard name → **Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22**.
-            - Japanese package: Statcard name → **Messerschmitt / 川崎航空機工業明石工場 | Me 210 V22**.
+        - **Me 210 V22** → **Me 210 V22 (D.B. 601 F). Statcard name → **Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22 (D.B. 601 F)**.
+            - Japanese package: Statcard name → **Messerschmitt / 川崎航空機工業明石工場 | Me 210 V22 (D.B. 601 F)**.
         - **F-15J** (Japan) (folder) → **F-15J (C4) / J(M)**.
         - **F-5/F-16** (Japan / Thailand) (folder) → **B.Kh.18Kh (2014) / 19**.
             - Thai package: **F-5/F-16** (Japan / Thailand) (folder) → **บ.ข.๑๘ข (2014) / ๑๙**.
@@ -146,7 +146,7 @@ All dates are listed in DD-MM-YYYY format.
         - **F-16A** (Sweden / Norway) → **F-16A-10-CF**. Statcard name → **General Dynamics Corporation | F-16A-10-CF Fighting Falcon**.
         - **JAS39D** → **JAS 39 D (Cobra)**. Statcard name → **Saab 39 D | JAS 39 D Gripen (Cobra)**.
         - **JAS39** (folder) → **JAS 39 A / C**.
-        - **T-50** (Sweden / Finland) → **15 psv T 50**. Statcard name → **Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova | 15 tonnin panssarivaunu T 50 "Pikku-Sotka"**.
+        - **T-50** (Sweden / Finland) → **15 psv T 50**. Statcard name → **Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova | Ps. 183-1 | 15 tonnin panssarivaunu T 50 "Pikku-Sotka"**.
         - **Kurnass/Baz** (folder) → **F-4E Kurnas 2000 / F-15A-18**.
             - Hebrew package: **Kurnass/Baz** (folder) → **15A-18 / 2000 קורנס F-4E**.
         - **Barak II/Sufa** (folder) → **F-16D-40 / I**.
@@ -207,12 +207,18 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Ninth Wave" additions:
         - **7.62 mm M1919A4E1 machine gun**
+        - **30 mm Orbital ATK XM813 cannon**
+        - **AIM-120C-7** (another one)
+        - **AIM-120D**
         - **Drop tank/IRST**
         - **30 mm M44/73 cannon**
         - **55 mm Gerät 58 cannon**
+        - **GSh-6-23M**
+        - **30 mm AG-17 automatic grenade launcher**
         - **95Ya6M**
         - **95Ya6M** (launcher)
         - **TKB-1055**
+        - **30 mm ZTM-1 automatic cannon**
         - **Barrier ATGM**
         - **R2**
         - **PL-12A**
@@ -225,6 +231,7 @@ All dates are listed in DD-MM-YYYY format.
         - **8 mm Gebauer Gebauer 1934/37.M machine gun**
         - **12.7 mm Gebauer 1940.M GKM machine gun**
         - **40 mm M39 cannon**
+        - **120 mm OTO LEONARDO 120/45 cannon**
         - **Wgr.41 Spr**
         - **I-Derby ER**
 
@@ -232,12 +239,19 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Ninth Wave" changes:
         - **7.62 mm M1919A4E1 machine gun** → **Machine Gun, Caliber .30, Browning, M1919A4E1**.
+        - **30 mm Orbital ATK XM813 cannon** → **Cannon, 30mm, XM813**.
+        - **AIM-120C-7**: Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-7 AMRAAM**.
+        - **AIM-120D**: Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120D AMRAAM**.
         - **Drop tank/IRST** → **AN/ASG-34(V)1**.
         - **30 mm M44/73 cannon** → **3cm Flugabwehrkanone M/44 L/73**.
         - **55 mm Gerät 58 cannon** → **5,5cm Gerät 58**.
+        - **30 mm AG-17 automatic grenade launcher** → **30-mm Avtomatičyeskij granatomyetnyj komplyeks AGS-17**.
+        - **GSh-6-23M** → **GŠ-6-23M**. Statcard name → **30-mm Avtomatičyeskaâ puška GŠ-6-23M**.
         - **95Ya6M** → **57È6M-Ye-M**.
             - Full Ammunition Names package: **95Ya6M** → **Zyenitnaâ upravlâyemaâ rakyeta 57È6M-Ye-M**.
         - **95Ya6M** (launcher) → **95Â6M**. Statcard name → **Transportno-puskovoj kontyejnyer 95Â6M**.
+        - **30 mm ZTM-1 automatic cannon** → **30-mm avtomatična harmata ZTM-1**.
+            - Ukrainian package: **30 mm ZTM-1 automatic cannon** → **30-мм автоматична гармата ЗТМ-1**.
         - **Barrier ATGM** → **Protitankovij rakyetnij kompleks «Bar'yer»**.
             - Ukrainian package: **Barrier ATGM** → **Протитанковий ракетний комплекс «Бар'єр»**.
         - **R2** → **R-2S**.
@@ -263,6 +277,7 @@ All dates are listed in DD-MM-YYYY format.
         - **8 mm Gebauer Gebauer 1934/37.M machine gun** → **8 mm 34/37 M. géppuska** (Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer Gebauer).
         - **12.7 mm Gebauer 1940.M GKM machine gun** → **12,7 mm 40 M. géppuska**.
         - **40 mm M39 cannon** → **4 cm 36 M. légvédelmi gépágyú**.
+        - **120 mm OTO LEONARDO 120/45 cannon** → **Cannone OTO-Melara da 120/45**.
         - **Wgr.41 Spr** → **43 M. rakétagránát**. Statcard name → **15 cm-es 43 M. rakétagránát**.
         - **I-Derby ER**: Statcard name → **I-Derby Extended Range**.
     - **Piton 5 SR** → **Python 5 SR**. Statcard name → **Python 5 Short Range**. It's an export missile so it doesn't get it's IDF Piton name.
@@ -271,6 +286,7 @@ All dates are listed in DD-MM-YYYY format.
     - **95Ya6** → **57È6-Ye**.
         - Full Ammunition Names package: **95Ya6** → **Zyenitnaâ upravlâyemaâ rakyeta 57È6-Ye**.
     - **95Ya6** (launcher) → **95Â6**. Statcard name → **Transportno-puskovoj kontyejnyer 95Â6**.
+    - Corrected the display of the **AGS-30M** grenade launcher (it accidentally had the wrong file name).
 
 ### Modifications:
 

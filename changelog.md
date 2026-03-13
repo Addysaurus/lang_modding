@@ -234,6 +234,7 @@ All dates are listed in DD-MM-YYYY format.
         - **36.M. mm M39 cannon** (considering my report is what got it changed to 36.M (really should be 36 M.), this pains me)
         - **120 mm OTO LEONARDO 120/45 cannon**
         - **Wgr.41 Spr**
+        - **138.6 mm/40 model 1923**
         - **I-Derby ER**
 
 - #### Changes:
@@ -282,6 +283,7 @@ All dates are listed in DD-MM-YYYY format.
         - **36.M. mm M39 cannon** (considering my report is what got it changed to 36.M, this pains me) → **4 cm 36 M. légvédelmi gépágyú**.
         - **120 mm OTO LEONARDO 120/45 cannon** → **Cannone OTO-Melara da 120/45**.
         - **Wgr.41 Spr** → **43 M. rakétagránát**. Statcard name → **15 cm-es 43 M. rakétagránát**.
+        - **138.6 mm/40 model 1923** → **Canon de 138 mm/40 mle. 1923**. Statcard name → **Canon de 138 mm/40 modèle 1923**.
         - **I-Derby ER**: Statcard name → **I-Derby Extended Range**.
     - **Piton 5 SR** → **Python 5 SR**. Statcard name → **Python 5 Short Range**. It's an export missile so it doesn't get it's IDF Piton name.
     - **2cm Flugzeugabwehrkanone-Zwilling 38** → **2cm Flugabwehrkanone-Zwilling 38**.

@@ -46,16 +46,26 @@ modification/350mm_germ_skl_45_navy_apcbc_ammo_pack;35cm Panzersprenggranate Lan
 //UNCATEGORIZED AMMUNITION
 
 //USA BOMBS
+modification/us_ljdam;GBU-24/B / E/B / 54(V)1/B / 62(V)1/B
+modification/us_ljdam/desc;"Loadout unlocked:
+• 1079.55 kg <color=@userlogColoredText>Bomb, Guided, GBU-24/B Paveway III</color> <color=#ff6f00>BMB-LG</color>
+• 1079.55 kg <color=@userlogColoredText>Bomb, Guided, GBU-24E/B Paveway III</color> <color=#ff6f00>BMB-LG</color>
+• 260.816 kg <color=@userlogColoredText>Bomb, Guided, GBU-54(V)1/B Laser Joint Direct Attack Munition</color> <color=#ff6f00>BMB-GNSS</color>
+• 289.72 kg <color=@userlogColoredText>Bomb, Guided, GBU-62(V)1/B Joint Direct Attack Munition Extended Range</color> <color=#ff6f00>BMB-GNSS</color>"
+
 modification/us_gbu54b;GBU-54(V)1/B / 62(V)1/B LJDAM-ER
 modification/us_gbu54b/desc;"Loadout unlocked: 260.816 kg <color=@userlogColoredText>Bomb, Guided, GBU-54(V)1/B Laser Joint Direct Attack Munition</color> GNSS- and laser-guided bomb.
 Loadout unlocked: 289.72 kg <color=@userlogColoredText>Bomb, Guided, GBU-62(V)1/B Laser Joint Direct Attack Munition Extended Range</color> GNSS- and laser-guided bomb."
+
 modification/us_500lb_mk82_gbu38_gbu62_jdam;Mk 82 Mod 0 / GBU-38(V)1/B / 62(V)1/B
 modification/us_500lb_mk82_gbu38_gbu62_jdam/desc;"Loadout unlocked: 240.9 kg <color=@userlogColoredText>Bomb, 500lb, GP, Mk 82 Mod 0</color> bomb.
 Loadout unlocked: 240.9 kg <color=@userlogColoredText>Bomb, Guided, GBU-38(V)1/B Joint Direct Attack Munition</color> GNSS-guided bomb.
 Loadout unlocked: 289.72 kg <color=@userlogColoredText>Bomb, Guided, GBU-62(V)1/B Joint Direct Attack Munition Extended Range</color> GNSS-guided bomb."
+
 modification/us_1000lb_mk83_us_2000lb_mk84;Mk 83 Mod 0 / 84 Mod 0
 modification/us_1000lb_mk83_us_2000lb_mk84/desc;"Loadout unlocked: 446.8 kg <color=@userlogColoredText>Bomb, 1000lb, GP, Mk 83 Mod 0</color> bomb.
 Loadout unlocked: 893.6 kg <color=@userlogColoredText>Bomb, 2000lb, GP, Mk 84 Mod 0</color> bomb."
+
 modification/us_2000lb_mk84_gbu31_gbu64_jdam;Mk 84 Mod 0 / GBU-31(V)1/B / 64(V)1/B
 modification/us_2000lb_mk84_gbu31_gbu64_jdam/desc;"Loadout unlocked: 893.6 kg <color=@userlogColoredText>Bomb, 2000lb, GP, Mk 84 Mod 0</color> bomb.
 Loadout unlocked: 893.6 kg <color=@userlogColoredText>Bomb, Guided, GBU-31(V)1/B Joint Direct Attack Munition</color> GNSS-guided bomb.
@@ -552,6 +562,11 @@ modification/cn_yj_81k/desc;"Loadout unlocked:
 • <color=@userlogColoredText>GDJ-49B</color> pylon:
   • <color=@userlogColoredText>H/AKJ08 Kōng Jiàn Daodàn</color> <color=#ff6f00>AShM-ARH</color>"
 
+modification/ch_yj_83k;H/AKJ83
+modification/ch_yj_83k/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-49B</color> pylon:
+  • <color=@userlogColoredText>H/AKJ83 Kōng Jiàn Daodàn</color> <color=#ff6f00>AShM-ARH</color>"
+
 modification/cn_cm_502kg;CM502KG
 modification/cn_cm_502kg/desc;"Loadout unlocked:
 • Pylon:
@@ -600,6 +615,16 @@ modification/cn_akd_10;AKD10
 modification/cn_akd_10/desc;"Loadout unlocked:
 • Pylon:
   • <color=@userlogColoredText>AKD10 Kòng Dì Daodàn</color> <color=#ff6f00>AGM-LG</color> x4"
+
+modification/ch_kd_88;K/AKD88
+modification/ch_kd_88/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-49B</color> pylon:
+  • <color=@userlogColoredText>K/AKD88 Kòng Dì Daodàn</color> <color=#ff6f00>AGM-TV</color>"
+
+modification/ch_kd_88a;K/AKD88A
+modification/ch_kd_88a/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-49B</color> pylon:
+  • <color=@userlogColoredText>K/AKD88A Kòng Dì Daodàn</color> <color=#ff6f00>AGM-IR</color>"
 
 //ITALY MISSILES
 

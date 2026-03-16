@@ -7,6 +7,7 @@ def translit_cyrillic(text):
         'Д' : 'D',
         'Е' : 'Ye',
         'Ё' : 'Ë',
+        'Є' : 'Ye',
         'Ж' : 'Ž',
         'З' : 'Z',
         'И' : 'I',

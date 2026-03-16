@@ -1421,6 +1421,7 @@ shop/group/uk_challenger_bn_e_group;"Challenger 2, Mk. 2 ""BN"" / 2E"
 shop/group/uk_churchill_group;Churchill, Mk. III / IV, N.A.75
 shop/group/uk_fv_m109_group;Centaur / ▄ M109A1
 shop/group/uk_tortoise_conway_group;Tortoise / Conway
+shop/group/uk_g6_tortoise_group;G6-45 / Tortoise
 shop/group/uk_fv510_zt3_group;Warrior / Ratel ZT3
 shop/group/uk_vickers_olifant_group;Vickers Mk. 3 / Olifant Mk1A
 shop/group/uk_vickers_rooikat_group;Vickers Mk. 11 / Rooikat Mk1D
@@ -3996,6 +3997,10 @@ us_battleship_nevada_shop;USS Nevada (BB-36)
 us_battleship_nevada_0;New York Shipbuilding Corporation / Fore River Shipyard | Nevada-class Battleship | USS Nevada (BB-36) (1944)
 us_battleship_nevada_1;USS Nevada
 us_battleship_nevada_2;Battleship
+us_battleship_oklahoma_shop;USS Oklahoma (BB-37)
+us_battleship_oklahoma_0;New York Shipbuilding Corporation / Philadelphia Naval Shipyard | Nevada-class Battleship | USS Oklahoma (BB-37) (1929)
+us_battleship_oklahoma_1;USS Oklahoma
+us_battleship_oklahoma_2;Battleship
 us_battleship_tennessee_shop;USS Tennessee (BB-43)
 us_battleship_tennessee_0;Brooklyn Navy Yard / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Tennessee-class Battleship | USS Tennessee (BB-43) (1943)
 us_battleship_tennessee_1;USS Tennessee
@@ -6216,8 +6221,8 @@ a7he1_shop;A7He1
 a7he1_0;Heinkel Flugzeugwerke | Hainkeru 112 Gata Rikujō Sentōki | A7He1
 a7he1_1;A7He1
 a7he1_2;A7He
-me_210_v22_japan_shop;▅ Me 210 V22
-me_210_v22_japan_0;▅ Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22
+me_210_v22_japan_shop;▅ Me 210 V22 (D.B. 601 F)
+me_210_v22_japan_0;▅ Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22 (D.B. 601 F) 
 me_210_v22_japan_1;▅ Me 210 V22
 me_210_v22_japan_2;▅ Me 210
 ki_48_2_otsu_shop;Ki 48-II Otsu
@@ -6504,7 +6509,7 @@ ah_1s_late_0;▅ Bell Helicopter Textron / Fuji Jū Kōgyō | AH-1S Kōgeki Heri
 ah_1s_late_1;▅ AH-1S
 ah_1s_late_2;▅ AH-1
 ah_1s_shop;▅ AH-1S (MC) (CN) (4 Tai Sen Heri)
-ah_1s_0;▅ Bell Helicopter Textron / Fuji Jū Kōgyō | AH-1S Kōgeki Herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (Dai 4 Tai Sensha Herikoputātai)
+ah_1s_0;▅ Bell Helicopter Textron / Fuji Jū Kōgyō | AH-1S Kōgeki Herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (Dai 4 Tai Sensha Herikoputā Tai)
 ah_1s_1;▅ AH-1S
 ah_1s_2;▅ AH-1
 mi_35p_indonesia_shop;◥ Mi-35P
@@ -6521,6 +6526,10 @@ ah_64e_indonesia_shop;◥ AH-64E (v6)
 ah_64e_indonesia_0;◥ Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)
 ah_64e_indonesia_1;◥ AH-64E
 ah_64e_indonesia_2;◥ AH-64
+ah_64d_lightweight_japan_shop;▅ AH-64D (3 Tai Sen Heri)
+ah_64d_lightweight_japan_0;"▅ Boeing Rotorcraft Systems AH-64DJP / Fuji Jū Kōgyō + Sojitz Kabushiki Gaisha | AH-64D Sentō Herikoputā ""Apatchi Rongubou"" (Dai 3 Tai Sensha Herikoputā Tai)"
+ah_64d_lightweight_japan_1;▅ AH-64D
+ah_64d_lightweight_japan_2;▅ AH-64
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 jp_type_95_ha_go_shop;Ha Gō (late) (94 Shiki)
@@ -8088,17 +8097,17 @@ cn_oplot_t_2;MBT
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 ba_65_k14_l_shop;Ba. 65 (K-14fc) (L)
-ba_65_k14_l_0;Società Italiana Ernesto Breda | Ba. 65 (Motore K-14fc) (Torretta ad Arcone Tipo L)
+ba_65_k14_l_0;Società Italiana Ernesto Breda | Ba. 65 (K-14fc) (Torretta ad Arcone Tipo L)
 ba_65_k14_l_1;Ba. 65
 ba_65_k14_l_2;Ba. 65
 ba_65_a80_shop;Ba. 65 (A. 80)
-ba_65_a80_0;Società Italiana Ernesto Breda | Ba. 65 (Motore A. 80 R.C. 41)
+ba_65_a80_0;Società Italiana Ernesto Breda | Ba. 65 (A. 80 R.C. 41)
 ba_65_a80_1;Ba. 65
 ba_65_a80_2;Ba. 65
-wm_21_shop;W.M. 21
-wm_21_0;Weiss Manfréd Acél- és Fémművek | W.M. 21 Sólyom közelfelderítő
-wm_21_1;W.M. 21
-wm_21_2;W.M. 21
+wm_21_shop;W.M.21.
+wm_21_0;Weiss Manfréd Acél- és Fémművek | W.M.21. Sólyom közelfelderítő
+wm_21_1;W.M.21.
+wm_21_2;W.M.21.
 re_2000_heja_1_shop;Héja I
 re_2000_heja_1_0;Reggiane Officine Meccaniche Italiane / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja I vadászrepülőgép
 re_2000_heja_1_1;Héja I
@@ -8109,22 +8118,22 @@ re_2000_heja_2_1;Héja II
 re_2000_heja_2_2;Héja
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
-wm_23_shop;W.M. 23
-wm_23_0;Weiss Manfréd Acél- és Fémművek | W.M. 23 Ezüst Nyíl vadászrepülőgép
-wm_23_1;W.M. 23
-wm_23_2;W.M. 23
+wm_23_shop;W.M.23.
+wm_23_0;Weiss Manfréd Acél- és Fémművek | W.M.23. Ezüst Nyíl vadászrepülőgép
+wm_23_1;W.M.23.
+wm_23_2;W.M.23.
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 me_210ca_1_hungary_shop;◐ Me 210 Ca-1
-me_210ca_1_hungary_0;◐ Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép
+me_210ca_1_hungary_0;◐ Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 nehéz vadászrepülőgép
 me_210ca_1_hungary_1;◐ Me 210 Ca
 me_210ca_1_hungary_2;◐ Me 210
 me_210ca_1_40_mm_hungary_shop;◐ Me 210 Ca-1 (36 M.)
-me_210ca_1_40_mm_hungary_0;◐ Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 rombolórepülőgép (4 cm 36 M. légvédelmi gépágyú)
+me_210ca_1_40_mm_hungary_0;◐ Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 nehéz vadászrepülőgép (40 mm 36 M. légvédelmi gépágyú)
 me_210ca_1_40_mm_hungary_1;◐ Me 210 Ca
 me_210ca_1_40_mm_hungary_2;◐ Me 210
 bf_110g_4_hungary_shop;◐ Bf 110 G-4
-bf_110g_4_hungary_0;◐ Messerschmitt | Bf 110 G-4 éjjeli vadász
+bf_110g_4_hungary_0;◐ Messerschmitt | Bf 110 G-4 éjjeli vadászrepülőgép
 bf_110g_4_hungary_1;◐ Bf 110 G
 bf_110g_4_hungary_2;◐ Bf 110
 bf-109f-4_hungary_shop;◐ Bf 109 F-4
@@ -8777,9 +8786,9 @@ fa_18c_mlu_2_finland_2;HN
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
-sw_t_50_fin_shop;14 psv T 50
-sw_t_50_fin_0;Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova | 14 tonnin panssarivaunu T 50
-sw_t_50_fin_1;14 psv T 50
+sw_t_50_fin_shop;15 psv T 50
+sw_t_50_fin_0;"Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova | Ps. 183-1 | 15 tonnin panssarivaunu T 50 ""Pikku-Sotka"""
+sw_t_50_fin_1;15 psv T 50
 sw_t_50_fin_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2

@@ -5,15 +5,20 @@ modification/mavag_39m_antitank;40 mm cannon anti-tank magazine version
 modification/mavag_39m_antitank/short;AP
 modification/mavag_39m_antibomber;40 mm cannon magazine for air targets
 modification/mavag_39m_antibomber/short;Air targets
-modification/ch_kd_88/desc;Allows the installation of KD-88 guided missiles.
-modification/ch_kd_88;KD-88
+modification/ch_kd_88/desc;Allows the installation of KD-88 TV guided missile.
+modification/ch_kd_88;KD-88 TV
+modification/ch_kd_88a/desc;Allows the installation of KD-88 IR guided missile.
+modification/ch_kd_88a;KD-88 IR
 modification/us_ljdam/desc;Allows the installation of LJDAM guided bombs.
 modification/us_ljdam;LJDAM
+modification/us_agm154_jsow/desc;Allows the installation of AGM-154 JSOW guided bombs.
+modification/us_agm154_jsow;AGM-154
 modification/ch_yj_83k;YJ-83K
 modification/ch_yj_83k/desc;Allows the installation of YJ-83K guided anti-ship missiles.
 sensors/su_1rs1_4;1RS1-4
 sensors/su_1rs2_3;1RS2-3
 sensors/su_n_035e;N035E
+sensors/su_n_010m;N010M Zhuk-M
 sensors/uk_captor_ecrs_1_pirate;CAPTOR ECRS Mk.1
 sensors/uk_captor_ecrs_2_pirate;CAPTOR ECRS Mk.2
 radar_hms_mode/desc;Helmet Mounted Sight
@@ -30,6 +35,7 @@ CCIP/desc;Constantly computed impact point for the selected weapon
 sight_AUTO/desc;Ballistic computer for cannon weapons for air-ti-air mod
 CCRP/desc;Continuously computed release point
 engine_model/vk_105ra;VK-105RA
+engine_model/mtu_8v_199_te21d;MTU 8V 199 TE21-D
 engine_model/iveco_vector_8v;VECTOR 8V
 engine_model/wm_k-14a;WM K-14A
 engine_model/wm_k-14b;WM K-14B
@@ -39,14 +45,21 @@ engine_model/vta_903t_v8;VTA903T V8
 engine_manufacturer/scania_vabis;Scania-Vabis
 engine_model/603_2;603/2
 transmission_model/3200_sp;3200 SP
+transmission_model/4800_sp;4800 SP
 transmission_model/friedrichshafen_lsg_2000;Friedrichshafen LSG 2000
 transmission_manufacturer/z_f;ZF
 transmission_model/zf_7hp_902;ZF 7HP 902
 modification/cn_glide_bomb_ir/desc;Allows the installation of LS-6 IR guided bombs.
-modification/cn_glide_bomb_ir;LS-6 LR
+modification/cn_glide_bomb_ir;LS-6 IR
+modification/us_aim_120b_c/desc;Allows the installation of AIM-120B and AIM-120C air-to-air missiles.
+modification/us_aim_120b_c;AIM-120B/C
 modification/us_aim_120d/desc;Allows the installation of AIM-120D air-to-air missiles.
 modification/us_aim_120d;AIM-120D
 modification/cn_pl12a/desc;Allows the installation of PL-12A air-to-air missiles.
 modification/cn_pl12a;PL-12A
+modification/us_agm_84h/desc;Allows the installation of AGM-84H missiles.
+modification/us_agm_84h;AGM-84H
 aps/iron_fist_ld;Iron Fist Light Decoupled
+engine_model/f100_pw_200;F100-PW-200
 engine_model/rd-33k;RD-33K
+engine_model/t700_ihi_701c;T700-IHI-701C

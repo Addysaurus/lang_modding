@@ -7,11 +7,13 @@ weapons/cn_ls_6_500_ir;LS-6(IR) 500 guided bomb
 weapons/cn_ls_6_500_ir/short;LS-6(IR) 500
 weapons/uk_1000lb_enhanced_paveway2_mk13;Enhanced Paveway II 1000-lb guided bomb
 weapons/uk_1000lb_enhanced_paveway2_mk13/short;EPW2
+weapons/us_agm_154a1_jsow;AGM-154A1 JSOW guided bomb
+weapons/us_agm_154a1_jsow/short;AGM-154A1
 weapons/us_340gal_irst_fa_18e_drop_tank_centr;Drop tank (340 gal.) AN/ASG-34 IRST
 weapons/us_340gal_irst_fa_18e_drop_tank_centr/short;Drop tank/IRST
 weapons/ch_yj_83k_missile;YJ-83K anti-ship missile
 weapons/ch_yj_83k_missile/short;YJ-83K
-weapons/cannon_mavag_39m;40 mm M39 cannon
+weapons/cannon_mavag_39m;36.M. mm M39 cannon
 weapons/30mm_73_m44_naval_user_cannon;30 mm M44/73 cannon
 weapons/55mm_77_gerat_58_naval_user_cannon;55 mm Gerät 58 cannon
 weapons/7_62mm_M1919A4E1_user_machinegun;7.62 mm M1919A4E1 machine gun
@@ -21,6 +23,11 @@ weapons/de_wgr41/short;Wgr.41 Spr
 weapons/de_wgr41;150 mm Wgr.41 Spr rocket
 weapons/155mm_L_39_user_cannon;155 mm L/39 howitzer
 weapons/155mm_L_31_user_cannon;155 mm L/31 howitzer
+il_derby_sam;I-Derby SR
+il_python_5_sam;Python 5
+il_derby_er_sam;I-Derby ER
+us_aim_9x_block_2;AIM-9X Block 2
+us_aim_120c_7_sam;AIM-120C-7
 weapons/170mm_57E6M_launcher_user_cannon;AAM 95Ya6M
 weapons/170mm_57E6M_launcher_user_cannon/short;95Ya6M
 170mm_57e6m;95Ya6M
@@ -47,14 +54,17 @@ weapons/cn_pl12a;PL-12A air-to-air missiles
 weapons/cn_pl12a/short;PL-12A
 weapons/cn_pl12a_default;PL-12A air-to-air missiles
 weapons/cn_pl12a_default/short;PL-12A
+weapons/us_agm_84h_slam_er;AGM-84H air-to-ground missile
+weapons/us_agm_84h_slam_er/short;AGM-84H
 weapons/ch_kd_88_missile_ir;KD-88A air-to-ground missiles
 weapons/ch_kd_88_missile_ir/short;KD-88A
 weapons/ch_kd_88_missile_tv;KD-88 air-to-ground missiles
 weapons/ch_kd_88_missile_tv/short;KD-88
+120mm_f1_he;F1 HE
 weapons/30mm_xm_813_user_cannon;30 mm Orbital ATK XM813 cannon
 weapons/105mm_type_91_user_cannon;105 mm Type 91 howitzer
-type_91_he;Type 91 HE
-type_91_heat;Type 3 Type 3 HEAT
+105mm_type91_he;Type 91 HE
+105mm_type91_heat;Type 3 Type 3 HEAT
 55mm_germ_heit/name;55 mm HEI-T
 weapons/138mm_40_model_1923_naval_user_cannon;138.6 mm/40 model 1923 gun
 weapons/138mm_40_model_1923_naval_user_cannon/short;138.6 mm/40 model 1923

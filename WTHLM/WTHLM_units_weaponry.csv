@@ -65,7 +65,8 @@ weapons/30mm_xm_813_user_cannon;<color=@userlogColoredText>30 mm</color> Cannon,
 weapons/105mm_m35_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, M35 <color=#ff6f00>CNN</color>
 weapons/155mm_t180_user_cannon;<color=@userlogColoredText>155 mm</color> Gun, 155mm, T180 <color=#ff6f00>CNN</color>
 weapons/203mm_m47_user_cannon;<color=@userlogColoredText>203.2 mm</color> Howitzer, 8-Inch, M47 <color=#ff6f00>CNN</color>
-weapons/406mm_50_mk7_naval_user_cannon;"<color=@userlogColoredText>406 mm</color> 16""/50 Mk 7 Mod 0 <color=#ff6f00>CNN</color>"
+weapons/356mm_45_14inch_mk1_naval_user_cannon;"<color=@userlogColoredText>356 mm</color> Gun, 14""/45, Mk 1 Mod 0 <color=#ff6f00>CNN</color>"
+weapons/406mm_50_mk7_naval_user_cannon;"<color=@userlogColoredText>406 mm</color> Gun, 16""/50, Mk 7 Mod 0 <color=#ff6f00>CNN</color>"
 
 //GERMANY GUNS
 weapons/gun_fl_mg_27;<color=@userlogColoredText>7.5 mm</color> 7,5mm Fliegerabwehr-Maschinengewehr 29 <color=#ff6f00>MG</color>
@@ -90,7 +91,7 @@ weapons/37mm_gerat_341_user_cannon;<color=@userlogColoredText>37 mm</color> 3,7c
 weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 <color=#ff6f00>ACNN</color>
 weapons/55mm_77_gerat_58_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 5,5cm Gerät 58 <color=#ff6f00>ACNN</color>
 weapons/105mm_Rh105_30_user_cannon;<color=@userlogColoredText>105 mm</color> Rh105-30 <color=#ff6f00>CNN</color>
-weapons/350mm_45_skl_45_naval_user_cannon;<color=@userlogColoredText>350 mm</color> 35cm Schnelladekanone Lange/45 <color=#ff6f00>CNN</color>
+weapons/350mm_45_skl_45_naval_user_cannon;<color=@userlogColoredText>350 mm</color> 35cm Schnelladekanone L/45 <color=#ff6f00>CNN</color>
 
 //USSR GUNS
 weapons/gun_pk3l;<color=@userlogColoredText>7.62 mm</color> 6P6 | PK <color=#ff6f00>MG</color>
@@ -104,7 +105,6 @@ weapons/cannonGSh_6_23M_gun_pod;<color=@userlogColoredText>30 mm</color> 30-mm A
 weapons/cannonGSh_6_23M_gun_pod/short;GŠ-6-23M
 weapons/cannonGSh_6_23M_gun_pod_turret;<color=@userlogColoredText>30 mm</color> 30-mm Avtomatičyeskaâ puška GŠ-6-23M <color=#ff6f00>ACNN</color>
 weapons/cannonGSh_6_23M_gun_pod_turret/short;GŠ-6-23M
-weapons/30mm_AG_17_user_cannon;<color=@userlogColoredText>30 mm</color> 30-mm Avtomatičyeskij granatomyetnyj komplyeks AGS-17 <color=#ff6f00>LCH-GRN</color>
 weapons/30mm_AG_30_user_cannon;<color=@userlogColoredText>30 mm</color> 30-mm Avtomatičyeskij granatomyetnyj komplyeks AGS-30M.00.000 <color=#ff6f00>LCH-GRN</color>
 weapons/57mm_ak_157_naval_user_cannon;"Artillyerijskaâ ustanovka AK-157
 • <color=@userlogColoredText>57 mm</color> 57-mm Odnoorudijnaâ palubnaâ ustanovka ZiF-71 <color=#ff6f00>ACNN</color>"
@@ -140,6 +140,7 @@ weapons/cannonType99Mod2_mark5_turret;<color=@userlogColoredText>20 mm</color> 9
 weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Miri Kotei Kijū <color=#ff6f00>ACNN</color>
 weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Miri Kotei Kijū <color=#ff6f00>ACNN</color>
 weapons/30mm_ztm1_BTR_user_cannon;<color=@userlogColoredText>30 mm</color> 30-mm avtomatična harmata ZTM-1 <color=#ff6f00>ACNN</color>
+weapons/30mm_AG_17_user_cannon;<color=@userlogColoredText>30 mm</color> 30-mm avtomatičnij hranatomyet KBA-117 <color=#ff6f00>LCH-GRN</color>
 weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 94 Shiki 37 Miri Sensha Hō <color=#ff6f00>CNN</color>
 weapons/47mm_Type1_user_cannon;<color=@userlogColoredText>47 mm</color> 1 Shiki 47 Miri Sensha Hō <color=#ff6f00>CNN</color>
 weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) I Gata <color=#ff6f00>CNN</color>
@@ -269,8 +270,8 @@ weapons/60mm_hvms_user_cannon;<color=@userlogColoredText>60 mm</color> 60 mm Hyp
 155mm_t152;T152E5
 155_mm_t267;T267
 203mm_m106;M106
-406mm_mk8_mod0_apcbc;"16"" A.P. Mk 8 Mod 0"
-406mm_mk8_mod6_apcbc;"16"" A.P. Mk 8 Mod 6"
+406mm_mk8_mod0_apcbc;"AP, Mk 8 Mod 0"
+406mm_mk8_mod6_apcbc;"AP, Mk 8 Mod 6"
 
 //GERMANY AMMUNITION
 15mm_sprgr_notracer;1,5cm Spr.Gr.Patr.Üb.o.Zerl.
@@ -281,10 +282,11 @@ weapons/60mm_hvms_user_cannon;<color=@userlogColoredText>60 mm</color> 60 mm Hyp
 37mm_sprgr_18_belt;3,7cm Spr.Gr.Patr. 18
 37mm_pzgr_belt;3,7cm Pz.Gr.Patr. 18
 37mm_pzgr_341;3,7cm Pz.Spr.Gr.Patr.L'spur.o.Zerl.
-37mm_sprgr_341;3,7cm Brand-Sprenggranate Patrone Lange/4,1 (Leuchtspurhülse 37)
+37mm_sprgr_341;3,7cm Bd.-Spr.Gr.Patr. L/4,1 (Lh. 37)
 40mm_bofors_flak28_navy_he_t/name;4cm Pz.Gr.Patr.L'spur.
 40mm_bofors_mel58_navy_he/name;M-DN51
 40mm_bofors_mel58_navy_he_tf/name;PFHE Mk 1
+55mm_germ_heit/name;5,5cm M.Gesch.Patr.L'spur.o.Zerl.
 88mm_sprgr_dist_fuse;8,8cm Spr.Gr.Patr. L/4,5 (Kpf.Z.)
 350_psgr_l_4_2_apc;35cm Spr.Gr. L/4,2 (Bd.Z.)
 350_psgr_l_3_6_apc;35cm Pz.Spr.Gr. L/3,6
@@ -328,13 +330,14 @@ b_mk_1z/name/short;I
 
 //JAPAN AMMUNITION
 37mm_type_94_he;3.7 Sanchi 94 Shiki Tsūjō Dan
+105mm_type91_heat;10 Senchi 3 Shiki Chuān Kō Ryūdan
 155mm_60_type0_he;15.5 Sanchi 0 Shiki Tsūjō Dan
 155mm_60_type0_he_dist_fuse;15.5 Sanchi 0 Shiki Tsūjō Dan (TF)
-155mm_60_type91_ap;15.5 Sanchi 91 Shiki Tekkō Dan
-356mm_type5_apc;36 Sanchi 5 Gō Tekkō Dan
-410mm_type91_apc;41 Sanchi 91 Shiki Tekkō Dan
+155mm_60_type91_ap;15.5 Sanchi 91 Shiki Tek Kō Dan
+356mm_type5_apc;36 Sanchi 5 Gō Tek Kō Dan
+410mm_type91_apc;41 Sanchi 91 Shiki Tek Kō Dan
 460mm_type0_common_he;46 Sanchi 0 Shiki Tsūjō Dan
-460mm_type91_apc;46 Sanchi 91 Shiki Tekkō Dan
+460mm_type91_apc;46 Sanchi 91 Shiki Tek Kō Dan
 
 //CHINA AMMUNITION
 25mm_type_87_api;DKC/PG87-25
@@ -421,6 +424,7 @@ type_44_ap;59 Shì 100 Háomi Chuān Jia Dàn
 100mm_oea1928_he_df;100 mm OEA mle. 1928
 100mm_oea1945_he_df;100 mm OEA mle. 1945
 105mm_ofl_g2;OFL 105 G2
+120mm_f1_he;OE 120 F1
 152mm_m1936_he_df;152 mm OEA mle. 1936
 203mm_opf_mle1936_apcbc;203 mm OPf(K) RC mle. 1936
 380mm_oea_mle1949_he;380 mm OEA mle. 1949
@@ -441,6 +445,8 @@ weapons/us_500lb_gbu_62_jdam_er;<color=@userlogColoredText>289.72 kg</color> Bom
 weapons/us_500lb_gbu_62_jdam_er/short;GBU-62(V)1/B
 weapons/us_500lb_gbu_62_ljdam_er;<color=@userlogColoredText>289.72 kg</color> Bomb, Guided, GBU-62(V)1/B Laser Joint Direct Attack Munition Extended Range <color=#ff6f00>BMB-GNSS/LG</color>
 weapons/us_500lb_gbu_62_ljdam_er/short;GBU-62(V)1/B LJDAM-ER
+weapons/us_agm_154a1_jsow;<color=@userlogColoredText>497 kg</color> Air-Launched, Surface-Attack, Guided Missile, AGM-154A-1 Joint Standoff Weapon <color=#ff6f00>BMB-GNSS</color>
+weapons/us_agm_154a1_jsow/short;AGM-154A-1
 weapons/us_2000lb_gbu_64_jdam_er;<color=@userlogColoredText>987 kg</color> Bomb, Guided, GBU-64(V)1/B Joint Direct Attack Munition Extended Range <color=#ff6f00>BMB-GNSS</color>
 weapons/us_2000lb_gbu_64_jdam_er/short;GBU-64(V)1/B
 weapons/us_b61;<color=@userlogColoredText>996.3 kg</color> ☢ Bomb, 2000lb, B61 Mod 8 <color=#ff6f00>BMB-ATM</color>
@@ -497,6 +503,8 @@ weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb_default;<color=@userlogColoredText>23
 weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb_default/short;M.C., 500 lb., Mk. I (No. 25 Mk. III)
 weapons/uk_520lb_herl_mk_1_n;<color=@userlogColoredText>238.1 kg</color> Bomb, H.E., R.L., 520-lb, Mk. I/N <color=#ff6f00>BMB</color>
 weapons/uk_520lb_herl_mk_1_n/short;H.E., R.L., 520-lb, Mk. I/N
+weapons/uk_1000lb_enhanced_paveway2_mk13;<color=@userlogColoredText>546.5 kg</color> Bomb, 1000 lb, Enhanced Paveway II <color=#ff6f00>BMB-LG/GNSS</color>
+weapons/uk_1000lb_enhanced_paveway2_mk13/short;EPWII
 weapons/uk_1650lb_sn_he;<color=@userlogColoredText>748 kg</color> Bomb, H.E., S.N., 1650-lb <color=#ff6f00>BMB</color>
 weapons/uk_1650lb_sn_he/short;H.E., S.N., 1650-lb
 
@@ -715,6 +723,7 @@ weapons/us_aim9p4_sidewinder_default/short;AIM-9P-4
 weapons/us_aim_9x;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-1 Sidewinder (Operational Flight Software 8.212)
 weapons/us_aim_9x/short;AIM-9X-1 (OFS 8.212)
 us_aim_9x;AIM-9X-1 (OFS 8.212)
+us_aim_9x_block_2;AIM-9X-2
 weapons/us_aim_9x_block_2;Air-Launched, Intercept-Aerial, Guided Missile, AIM-9X-2 Sidewinder
 weapons/us_aim_9x_block_2/short;AIM-9X-2
 weapons/us_aim_54a;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54A Phoenix <color=#ff6f00>AAM-ARH</color>
@@ -749,10 +758,13 @@ weapons/us_aim_120d;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120D AMR
 weapons/us_aim_120d/short;AIM-120D
 weapons/us_aim_120d_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120D AMRAAM <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120d_default/short;AIM-120D
+us_aim_120c_7_sam;AIM-120C-7
 weapons/178mm_sl_amraam_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-120C-7) <color=#ff6f00>LCH</color>
 weapons/127mm_aim_9x_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2) <color=#ff6f00>LCH</color>
 weapons/178mm_nasams_user_cannon;Norwegian Advanced Surface-to-Air Missile System 3 <color=#ff6f00>LCH</color>
 us_amraam_er;AMRAAM-ER
+weapons/us_agm_84h_slam_er;Air-Launched, Surface-Attack, Guided Missile, AGM-84H-1 Standoff Land Attack Missile Expanded Response <color=#ff6f00>AGM-IR/GNSS</color>
+weapons/us_agm_84h_slam_er/short;AGM-84H-1
 weapons/us_hellfire_agm_114_b;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
 weapons/us_hellfire_agm_114_b/short;AGM-114B
 weapons/us_hellfire_agm_114_b_default;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
@@ -881,7 +893,7 @@ weapons/160mm_sam_1c_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan
 weapons/160mm_sam_1c_slave_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
 weapons/320mm_type_03_user_cannon;03 Shiki Chūkyorichi Taikū Yūdōdan Hassha Sōchi <color=#ff6f00>LCH</color>
 jp_type_03;SAM-4
-weapons/130mm_barrier_launcher_user_cannon;Protitankovij rakyetnij kompleks «Bar'yer» <color=#ff6f00>LCH</color>
+weapons/130mm_barrier_launcher_user_cannon;Transportno-puskovij kontyejnyer TPK-2S <color=#ff6f00>LCH</color>
 130mm_r2;R-2S
 weapons/130mm_r2/short;R-2S
 
@@ -1021,15 +1033,20 @@ weapons/127mm_IRIS_T_user_cannon;Diehl Defence ML-98 | luftvärnsrobotsystem 98 
 //ISRAEL MISSILES
 weapons/il_python_5_sam;Python 5 Short Range <color=#ff6f00>SAM-IR</color>
 weapons/il_python_5_sam/short;Python 5 SR
+il_python_5_sam;Python 5 SR
 weapons/il_derby_sam;I-Derby Short Range <color=#ff6f00>SAM-IR</color>
 weapons/il_derby_sam/short;I-Derby SR
 weapons/il_derby_er_sam;I-Derby Extended Range <color=#ff6f00>SAM-IR</color>
 weapons/il_derby_er_sam/short;I-Derby ER
+il_derby_sam;I-Derby SR
+il_derby_er_sam;I-Derby ER
 weapons/160mm_spyder_launcher_user_cannon;SPYDER <color=#ff6f00>LCH</color>
 
 //UNCATEGORIZED MISSILES
 
 //USA TORPEDOES
+weapons/us_533mm_21in_bliss_leavitt_mk9_torpedo;<color=@userlogColoredText>533 mm</color> Torpedo, Mk 9 Mod 1 <color=#ff6f00>TRP</color>
+weapons/us_533mm_21in_bliss_leavitt_mk9_torpedo/short;Torpedo, Mk 9 Mod 1
 
 //GERMANY TORPEDOES
 
@@ -1890,7 +1907,7 @@ weapons/us_gbu_39;<color=@userlogColoredText>121.56 kg</color> Bomb, Guided, GBU
 weapons/us_gbu_39/short;GBU-39/B
 weapons/us_agm_123;Air-Launched, Surface-Attack, Guided Missile, AGM-123A Skipper II <color=#ff6f00>AGM-LG</color>
 weapons/us_agm_123/short;AGM-123A
-weapons/us_agm_119a_penguin;Kongsberg Defence & Aerospace | Penguin MK3
+weapons/us_agm_119a_penguin;Penguin MK3 <color=#ff6f00>AGM-IR</color>
 weapons/us_agm_119a_penguin/short;Penguin MK3
 weapons/us_2000lb_egbu_24_paveway_3;<color=@userlogColoredText>1079.55 kg</color> Bomb, Guided, GBU-24E/B Paveway III <color=#ff6f00>BMB-LG</color>
 weapons/us_2000lb_egbu_24_paveway_3/short;GBU-24E/B
@@ -2355,7 +2372,7 @@ weapons/jp_navy_rocket_type5_number1_13kg;Type 5 No.1 Mod.9 rocket
 weapons/jp_navy_rocket_type3_number6_66kg;Type 3 No.6 Mod.27 Mk. 1 rocket
 weapons/jp_navy_rocket_type5_number6_84kg;Type 5 No.6 Mod.9 rocket
 weapons/jp_navy_type98mod25_250kg;250 kg Navy Type 98 Number 25 bomb
-weapons/jp_ki_148_i_go_1b;I-Go Model 1 Otsu | Ki-148 <color=#ff6f00>AGM-RG</color>
+weapons/jp_ki_148_i_go_1b;I Go Model 1 Otsu | Ki-148 <color=#ff6f00>AGM-RG</color>
 weapons/jp_ki_148_i_go_1b/short;Ki-148
 weapons/fr_tba_ecc;TBA ECC rocket
 weapons/fr_tba_ecc/short;TBA ECC

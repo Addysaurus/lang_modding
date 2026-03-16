@@ -30,6 +30,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AH-64A** (killstreak)
         - **M1296**
         - **USS Helm**
+        - **USS Oklahoma**
         - **Me 210A-1**
         - **Alpha Jet A (JaboG 41)** (Germany)
         - **Sd.Kfz.234/2 "Biene"**
@@ -53,6 +54,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Me 210 V22**
         - **F-15J** (Japan) (folder)
         - **F-5/F-16** (Japan / Thailand) (folder)
+        - **AH-64DJP (AT)**
         - **Ho-Ni II**
         - **Ho-Ro/Ni** (folder)
         - **BTR-3E1** (Japan / Thailand)
@@ -89,6 +91,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AH-64A** (killstreak): Statcard name → **McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache**.
         - **M1296** → **M1296 ICVD**. Statcard name → **General Dynamics Land Systems | Combat Vehicle, Infantry, Dragoon, M1296**.
         - **USS Helm** → **USS Helm (DD-388)**. Statcard name → **Norfolk Naval Shipyard / Mare Island Naval Shipyard | Bagley-class Destroyer | USS Helm (DD-388) (1944)**.
+        - **USS Oklahoma** → **USS Oklahoma (BB-37)**. Statcard name → **New York Shipbuilding Corporation / Philadelphia Naval Shipyard | Nevada-class Battleship | USS Oklahoma (BB-37) (1929)**.
         - **Me 210A-1** → **Me 210 A-1**. Statcard name → **Messerschmitt | Me 210 A-1**.
         - **Alpha Jet A (JaboG 41)** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A (Jagdbombergeschwader 41)**.
         - **Sd.Kfz.234/2 "Biene"** → **s.Pz.Spw. (Kw.K. 39/1) (Pz.A.A. 20)**. Statcard name → **Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (Sd.Kfz. 234/2) (20. Panzer-Division, 20. Panzer-Aufklärungs-Abteilung)**.
@@ -114,6 +117,8 @@ All dates are listed in DD-MM-YYYY format.
         - **F-15J** (Japan) (folder) → **F-15J (C4) / J(M)**.
         - **F-5/F-16** (Japan / Thailand) (folder) → **B.Kh.18Kh (2014) / 19**.
             - Thai package: **F-5/F-16** (Japan / Thailand) (folder) → **บ.ข.๑๘ข (2014) / ๑๙**.
+        - **AH-64DJP (AT)** → **AH-64D (3 Tai Sen Heri)**. Statcard name → **Boeing Rotorcraft Systems AH-64DJP / Fuji Jū Kōgyō + Sojitz Kabushiki Gaisha | AH-64D Sentō Herikoputā "Apatchi Rongubou" (Dai 3 Tai Sensha Herikoputā Tai)**.
+            - Japanese package: **AH-64DJP (AT)** → **AH-64D (3対戦ヘリ)**. Statcard name → **Boeing Rotorcraft Systems AH-64DJP / 富士重工業 + 双日株式会社 | AH-64D戦闘ヘリコプター「アパッチロングボウ」 (第3対戦車ヘリコプター隊)**.
         - **Ho-Ni II** → **Ho Ni II (early)**. Statcard name → **Rikugun Yasen Hōhei Gakkō | 1 Shiki 10 Senchi Jisō Hō | Ho Ni II (early)**.
             - Japanese package: **Ho-Ni II** → **ホニII (early)**. Statcard name → **陸軍野戦砲兵学校 | 一式十糎自走砲 | ホニII (early)**.
         - **Ho-Ro/Ni** (folder) → **Ho Ro / Ni II**.
@@ -130,7 +135,7 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: Statcard name → **沈阳飞机工业 (集团) | H/JJ15T型飞机 "飞鲨"**.
         - **ZTZ96B** → **ZTZ96B (2017)**. Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122 | ZTZ1996B Shì Zhǔ Zhàn Tankè (2017)**.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ122 | ZTZ1996B式主战坦克 (2017)**.
-        - **Ba.65 A.80** → **Ba. 65 (A. 80)**. Statcard name → **Società Italiana Ernesto Breda | Ba. 65 (Motore A. 80 R.C. 41)**.
+        - **Ba.65 A.80** → **Ba. 65 (A. 80)**. Statcard name → **Società Italiana Ernesto Breda | Ba. 65 (A. 80 R.C. 41)**.
         - **WM-21** → **W.M. 21**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M. 21 Sólyom közelfelderítő**.
         - **Héja I**: Statcard name → **Reggiane Officine Meccaniche Italiane / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja I vadászrepülőgép**.
         - **Héja II**: Statcard name → **Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja II vadászrepülőgép**.
@@ -188,7 +193,7 @@ All dates are listed in DD-MM-YYYY format.
     - **B.Kh.20**:
         - Thai package: Statcard name → **Saab 39 C | เครื่องบินขับไล่แบบที่ ๒๐** (previously it was accidentally เครื่องบินขับไล่แบบที่ ๒๐ก (B.Kh.20K) which is the JAS 39 D).
     - **Ba.65 / Ju 87 R** (folder) → **Ba. 65 (K-14fc) (L) / Ju 87 R-2**.
-    - **Ba.65 (K-14fc) L** → **Ba. 65 (K-14fc) (L)**. Statcard name → **Società Italiana Ernesto Breda | Ba. 65 (Motore K-14fc) (Torretta ad Arcone Tipo L)**.
+    - **Ba.65 (K-14fc) L** → **Ba. 65 (K-14fc) (L)**. Statcard name → **Società Italiana Ernesto Breda | Ba. 65 (K-14fc) (Torretta ad Arcone Tipo L)**.
     - **Alpha Jet A** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A**.
     - **Alpha Jet E** (France): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet E**.
     - **K/JJ10C** → **J10CE**. The new FWS10B means that, combined with the weapon config, it is now identical to the 2024 display of the J10CE. It also gets no K/ because the J10CE isn't in service (the K/ thing is also prob gonna be removed from all aircraft but that's not this update).
@@ -200,6 +205,13 @@ All dates are listed in DD-MM-YYYY format.
     - **s.Pz.Spw. (5cm)** → **s.Pz.Spw. (Kw.K. 39/1)**. Statcard name → **Büssing-NAG | schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60 (Sd.Kfz. 234/2)**.
     - **Mi-24VM**: Statcard name → **Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ | Vyertolyet Mi-24VM**.
     - Japanese package: the F-4EJs, F-15J, and F-16AJ have recieved their missing roundels.
+    - **AH-1S (MC) (CN) (4 Tai Sen Heri)**: Statcard name → **Bell Helicopter Textron / Fuji Jū Kōgyō | AH-1S Kōgeki Herikoputā (Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment) (Dai 4 Tai Sensha Herikoputā Tai)**.
+    - **Chi Ha (1 Shiki)** (Standard & Twitch drop):
+        - Japanese package: Statcard name → **三菱重工業 | 九七式中戦車 | チハ (一式四十七粍戦車砲)**.
+    - **Ha Gō (late) (94 Shiki)**:
+        - Japanese package: Statcard name → **三菱重工業 | 九五式軽戦車 | ハ号 (late) (九四式三十七粍戦車砲)**.
+    - **Ha Gō (Shiki) (94 Shiki) (1 Sen Ren)**:
+        - Japanese package: Statcard name → **三菱重工業 | 九五式軽戦車 | ハ号 (指揮) (九四式三十七粍戦車砲) (第一戦車連隊)**.
 
 ### Weapons:
 
@@ -208,18 +220,26 @@ All dates are listed in DD-MM-YYYY format.
     - Update "Ninth Wave" additions:
         - **7.62 mm M1919A4E1 machine gun**
         - **30 mm Orbital ATK XM813 cannon**
+        - **14 inch/45 Mk.1 cannon**
+        - **AIM-9X Block 2** (like a SAM one I think)
         - **AIM-120C-7** (another one)
         - **AIM-120D**
+        - **AGM-84H**
+        - **AGM-154A1**
         - **Drop tank/IRST**
+        - **533 mm Bliss-Leavitt**
         - **30 mm M44/73 cannon**
         - **55 mm Gerät 58 cannon**
+        - **55 mm HEI-T**
         - **GSh-6-23M**
-        - **30 mm AG-17 automatic grenade launcher**
         - **95Ya6M**
         - **95Ya6M** (launcher)
         - **TKB-1055**
+        - **EPW2**
         - **30 mm ZTM-1 automatic cannon**
+        - **30 mm AG-17 automatic grenade launcher**
         - **105 mm Type 91 howitzer**
+        - **Type 3 Type 3 HEAT**
         - **Barrier ATGM**
         - **R2**
         - **PL-12A**
@@ -235,35 +255,49 @@ All dates are listed in DD-MM-YYYY format.
         - **120 mm OTO LEONARDO 120/45 cannon**
         - **Wgr.41 Spr**
         - **138.6 mm/40 model 1923**
+        - **F1 HE**
         - **I-Derby ER**
+        - **I-Derby SR** (like a SAM one I think)
+        - **Python 5** (like a SAM one I think)
 
 - #### Changes:
 
     - Update "Ninth Wave" changes:
         - **7.62 mm M1919A4E1 machine gun** → **Machine Gun, Caliber .30, Browning, M1919A4E1**.
         - **30 mm Orbital ATK XM813 cannon** → **Cannon, 30mm, XM813**.
+        - **14 inch/45 Mk.1 cannon** → **Gun, 14"/45, Mk 1 Mod 0**.
+        - **AIM-9X Block 2** → **AIM-9X-2**.
         - **AIM-120C-7**: Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-7 AMRAAM**.
         - **AIM-120D**: Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-120D AMRAAM**.
+        - **AGH-84A** → **AGM-84H-1**. Statcard name → **Air-Launched, Surface-Attack, Guided Missile, AGM-84H-1 Standoff Land Attack Missile Expanded Response**.
+        - **AGM-154A1** → **AGM-154A-1**. Statcard name → **Air-Launched, Surface-Attack, Guided Missile, AGM-154A-1 Joint Standoff Weapon**.
         - **Drop tank/IRST** → **AN/ASG-34(V)1**.
+        - **533 mm Bliss-Leavitt** → **Torpedo, Mk 9 Mod 1**. Statcard name → **Torpedo, Mk 9 Mod 1**.
         - **30 mm M44/73 cannon** → **3cm Flugabwehrkanone M/44 L/73**.
         - **55 mm Gerät 58 cannon** → **5,5cm Gerät 58**.
-        - **30 mm AG-17 automatic grenade launcher** → **30-mm Avtomatičyeskij granatomyetnyj komplyeks AGS-17**.
+        - **55 mm HEI-T** → **5,5cm M.Gesch.Patr.L'spur.o.Zerl.**.
+            - Full Ammunition Names package: **55 mm HEI-T** → **5,5cm Minengeschoß Patrone Leuchtspur ohne Zerleger**.
         - **GSh-6-23M** → **GŠ-6-23M**. Statcard name → **30-mm Avtomatičyeskaâ puška GŠ-6-23M**.
         - **95Ya6M** → **57È6M-Ye-M**.
             - Full Ammunition Names package: **95Ya6M** → **Zyenitnaâ upravlâyemaâ rakyeta 57È6M-Ye-M**.
         - **95Ya6M** (launcher) → **95Â6M**. Statcard name → **Transportno-puskovoj kontyejnyer 95Â6M**.
+        - **TKB-1055**:
+            - Full Ammunition Names package: **TKB-1055** → **Zyenitnaâ upravlâyemaâ rakyeta TKB-1055**.
+        - **EPW2** → **EPWII**. Statcard name → **Bomb, 1000 lb, Enhanced Paveway II**.
         - **30 mm ZTM-1 automatic cannon** → **30-mm avtomatična harmata ZTM-1**.
             - Ukrainian package: **30 mm ZTM-1 automatic cannon** → **30-мм автоматична гармата ЗТМ-1**.
+        - **30 mm AG-17 automatic grenade launcher** → **30-mm avtomatičnij hranatomyet KBA-117**.
+            - Ukrainian package: **30 mm AG-17 automatic grenade launcher** → **30-мм автоматичний гранатомет КБА-117**.
         - **105 mm Type 91 howitzer** → **91 Shiki 10 Senchi Ryūdanhō**.
-            - Ukrainian package: **105 mm Type 91 howitzer** → **九一式十糎榴弾砲**.
-        - **Barrier ATGM** → **Protitankovij rakyetnij kompleks «Bar'yer»**.
-            - Ukrainian package: **Barrier ATGM** → **Протитанковий ракетний комплекс «Бар'єр»**.
+            - Japanese package: **105 mm Type 91 howitzer** → **九一式十糎榴弾砲**.
+        - **Type 3 Type 3 HEAT** → **10 Senchi 3 Shiki Chuān Kō Ryūdan** (Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 ).
+            - Japanese package: **Type 3 Type 3 HEAT** → **十糎三式穿甲榴弾**.
+        - **Barrier ATGM** → **Transportno-puskovij kontyejnyer TPK-2S**.
+            - Ukrainian package: **Barrier ATGM** → **Транспортно-пусковий контейнер ТПК-2С**.
         - **R2** → **R-2S**.
             - Full Ammunition Names package package: **R2** → **Raketa R-2S**.
             - Ukrainian package: **R2** → **Р-2С**.
             - Full Ammunition Names Ukrainian package: **R2** → **Р-2С**.
-        - **TKB-1055**:
-            - Full Ammunition Names package: **TKB-1055** → **Zyenitnaâ upravlâyemaâ rakyeta TKB-1055**.
         - **PL-12A** → **PL12AE**. Statcard name → **PL12AE Kōng Kōng Dǎodàn**.
             - Mandarin package: Statcard name → **PL12AE空空导弹**.
             - Full Mandarin package: **PL-12A** → **霹雳12AE**. Statcard name → **霹雳12AE空空导弹**.
@@ -284,7 +318,9 @@ All dates are listed in DD-MM-YYYY format.
         - **120 mm OTO LEONARDO 120/45 cannon** → **Cannone OTO-Melara da 120/45**.
         - **Wgr.41 Spr** → **43 M. rakétagránát**. Statcard name → **15 cm-es 43 M. rakétagránát**.
         - **138.6 mm/40 model 1923** → **Canon de 138 mm/40 mle. 1923**. Statcard name → **Canon de 138 mm/40 modèle 1923**.
+        - **F1 HE** → **OE 120 F1**.
         - **I-Derby ER**: Statcard name → **I-Derby Extended Range**.
+        - **Python 5** (like a SAM one I think) → **Python 5 SR**
     - **Piton 5 SR** → **Python 5 SR**. Statcard name → **Python 5 Short Range**. It's an export missile so it doesn't get it's IDF Piton name.
     - **2cm Flugzeugabwehrkanone-Zwilling 38** → **2cm Flugabwehrkanone-Zwilling 38**.
     - **43 M. rakéta sorozatvető**: Type tag changed to LCH.
@@ -292,11 +328,34 @@ All dates are listed in DD-MM-YYYY format.
         - Full Ammunition Names package: **95Ya6** → **Zyenitnaâ upravlâyemaâ rakyeta 57È6-Ye**.
     - **95Ya6** (launcher) → **95Â6**. Statcard name → **Transportno-puskovoj kontyejnyer 95Â6**.
     - Corrected the display of the **AGS-30M** grenade launcher (it accidentally had the wrong file name).
+    - **16"/50 Mk 7 Mod 0** → **Gun, 16"/50, Mk 7 Mod 0**.
+    - **16" A.P. Mk 8 Mod 0** → **AP, Mk 8 Mod 0**.
+        - Full Ammunition Names package: **16" A.P. Mk 8 Mod 0** → **Projectile, 16", AP, Mk 8 Mod 0**.
+    - **16" A.P. Mk 8 Mod 6** → **AP, Mk 8 Mod 6**.
+        - Full Ammunition Names package: **16" A.P. Mk 8 Mod 6** → **Projectile, 16", AP, Mk 8 Mod 6**.
+    - **3,7cm Brand-Sprenggranate Patrone Lange/4,1 (Leuchtspurhülse 37)** → **3,7cm Bd.-Spr.Gr.Patr. L/4,1 (Lh. 37)**
+        - Full Ammunition Names package: **3,7cm Brand-Sprenggranate Patrone Lange/4,1 (Leuchtspurhülse 37)** → **3,7cm Brand-Sprenggranate Patrone L/4,1 (Leuchtspurhülse 37)**
+    - **8,8cm Spr.Gr.Patr. L/4,5 (Kpf.Z.)**:
+        - Full Ammunition Names package: **8,8cm Sprenggranate Patrone Lange/4,5 (Kopfzünder)** → **8,8cm Sprenggranate Patrone L/4,5 (Kopfzünder)**
+    - **35cm Spr.Gr. L/4,2 (Bd.Z.)**:
+        - Full Ammunition Names package: **35cm Sprenggranate Lange/4,2 (Bodenzünder)** → **35cm Sprenggranate L/4,2 (Bodenzünder)**
+    - **35cm Pz.Spr.Gr. L/3,6**:
+        - Full Ammunition Names package: **35cm Panzersprenggranate Lange/3,6** → **35cm Panzersprenggranate L/3,6**
+    - **35cm Schnelladekanone Lange/45** → **35cm Schnelladekanone L/45**.
+    - **Kongsberg Defence & Aerospace | Penguin MK3** → **Penguin MK3**.
+    - **I-Go Model 1 Otsu | Ki-148** → **I Go Model 1 Otsu | Ki-148**.
+    - **94 Shiki 37 Miri Sensha Hō**:
+        - Japanese package: **九四式三七粍戦車砲** → **九四式三十七粍戦車砲**.
+    - **1 Shiki 47 Miri Sensha Hō**:
+        - Japanese package: **一式四七粍戦車砲** → **一式四十七粍戦車砲**.
+    - Japanese translit change: **Tekkō** → **Tek Kō**.
 
 ### Modifications:
 
 - #### Changes:
 
+    - Update "Ninth Wave" changes:
+        - For this update, not all modifications have had their descriptions changed because modification descriptions take a lot of time and we are in the process of reworking our modification format anyway right now (since it's inconsistent and kind of horrid), so it would be pointless to rename it now just to do so again later under a new format (and also this update is kind of on crunch time).
     - Corrected the display of the **K/AKK5C** modification in the Full Ammunition Names Full Mandarin + Russian package.
 
 ### Sensors:

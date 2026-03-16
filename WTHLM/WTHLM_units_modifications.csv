@@ -127,6 +127,13 @@ modification/us_gbu_31_64;GBU-31(V)1/B / 64(V)1/B
 modification/us_gbu_31_64/desc;"Loadout unlocked: 893.6 kg <color=@userlogColoredText>GBU-31(V)1/B</color> GNSS-guided bomb.
 Loadout unlocked: 987 kg <color=@userlogColoredText>GBU-64(V)1/B</color> GNSS-guided bomb."
 
+modification/us_ljdam;GBU-24/B / E/B / 54(V)1/B / 62(V)1/B
+modification/us_ljdam/desc;"Loadout unlocked:
+• 1079.55 kg <color=@userlogColoredText>GBU-24/B</color> <color=#ff6f00>BMB-LG</color>
+• 1079.55 kg <color=@userlogColoredText>GBU-24E/B</color> <color=#ff6f00>BMB-LG</color>
+• 260.816 kg <color=@userlogColoredText>GBU-54(V)1/B</color> <color=#ff6f00>BMB-GNSS</color>
+• 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> <color=#ff6f00>BMB-GNSS</color>"
+
 //GERMANY BOMBS
 modification/de_hosbo_glide_bomb;HOSBO
 modification/de_hosbo_glide_bomb/desc;"Loadout unlocked:
@@ -501,6 +508,10 @@ modification/uk_hvar/desc;"Loadout unlocked:
 • <color=@userlogColoredText>GB900-20-36</color> pylon:
   • <color=@userlogColoredText>HVAR</color> <color=#ff6f00>RKT</color> x2"
 
+modification/me_210ca_1_40_mm_wgr41;43 M. rakétagránát
+modification/me_210ca_1_40_mm_wgr41/desc;"Loadout unlocked:
+• <color=@userlogColoredText>15 cm-es 43 M. rakétagránát</color> <color=#ff6f00>RKT</color>"
+
 //FRANCE ROCKETS
 
 //SWEDEN ROCKETS
@@ -695,6 +706,11 @@ modification/cn_yj_81k/desc;"Loadout unlocked:
 • <color=@userlogColoredText>GDJ-49B</color> pylon:
   • <color=@userlogColoredText>H/AKJ08</color> <color=#ff6f00>AShM-ARH</color>"
 
+modification/ch_yj_83k;H/AKJ83
+modification/ch_yj_83k/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-49B</color> pylon:
+  • <color=@userlogColoredText>H/AKJ83</color> <color=#ff6f00>AShM-ARH</color>"
+
 modification/cn_cm_502kg;CM502KG
 modification/cn_cm_502kg/desc;"Loadout unlocked:
 • Pylon:
@@ -743,6 +759,16 @@ modification/cn_akd_10;AKD10
 modification/cn_akd_10/desc;"Loadout unlocked:
 • Pylon:
   • <color=@userlogColoredText>AKD10</color> <color=#ff6f00>AGM-LG</color> x4"
+
+modification/ch_kd_88;K/AKD88
+modification/ch_kd_88/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-49B</color> pylon:
+  • <color=@userlogColoredText>K/AKD88</color> <color=#ff6f00>AGM-TV</color>"
+
+modification/ch_kd_88a;K/AKD88A
+modification/ch_kd_88a/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-49B</color> pylon:
+  • <color=@userlogColoredText>K/AKD88A</color> <color=#ff6f00>AGM-IR</color>"
 
 //ITALY MISSILES
 

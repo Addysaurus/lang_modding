@@ -6,9 +6,9 @@ modification/mavag_39m_antitank/short;AP
 modification/mavag_39m_antibomber;40 mm cannon magazine for air targets
 modification/mavag_39m_antibomber/short;Air targets
 modification/ch_kd_88/desc;Allows the installation of KD-88 TV guided missile.
-modification/ch_kd_88;KD-88
-modification/ch_kd_88a/desc;Allows the installation of KD-88 TV guided missile.
-modification/ch_kd_88a;KD-88
+modification/ch_kd_88;KD-88 TV
+modification/ch_kd_88a/desc;Allows the installation of KD-88 IR guided missile.
+modification/ch_kd_88a;KD-88 IR
 modification/us_ljdam/desc;Allows the installation of LJDAM guided bombs.
 modification/us_ljdam;LJDAM
 modification/us_agm154_jsow/desc;Allows the installation of AGM-154 JSOW guided bombs.
@@ -57,6 +57,8 @@ modification/us_aim_120d/desc;Allows the installation of AIM-120D air-to-air mis
 modification/us_aim_120d;AIM-120D
 modification/cn_pl12a/desc;Allows the installation of PL-12A air-to-air missiles.
 modification/cn_pl12a;PL-12A
+modification/us_agm_84h/desc;Allows the installation of AGM-84H missiles.
+modification/us_agm_84h;AGM-84H
 aps/iron_fist_ld;Iron Fist Light Decoupled
 engine_model/f100_pw_200;F100-PW-200
 engine_model/rd-33k;RD-33K

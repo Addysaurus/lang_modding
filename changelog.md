@@ -136,10 +136,10 @@ All dates are listed in DD-MM-YYYY format.
         - **ZTZ96B** → **ZTZ96B (2017)**. Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122 | ZTZ1996B Shì Zhǔ Zhàn Tankè (2017)**.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ122 | ZTZ1996B式主战坦克 (2017)**.
         - **Ba.65 A.80** → **Ba. 65 (A. 80)**. Statcard name → **Società Italiana Ernesto Breda | Ba. 65 (A. 80 R.C. 41)**.
-        - **WM-21** → **W.M. 21**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M. 21 Sólyom közelfelderítő**.
+        - **WM-21** → **W.M.21.**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M.21. Sólyom közelfelderítő**.
         - **Héja I**: Statcard name → **Reggiane Officine Meccaniche Italiane / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja I vadászrepülőgép**.
         - **Héja II**: Statcard name → **Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja II vadászrepülőgép**.
-        - **WM-23** → **W.M. 23**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M. 23 Ezüst Nyíl vadászrepülőgép**.
+        - **WM-23** → **W.M.23.**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M.23. Ezüst Nyíl vadászrepülőgép**.
         - **Me 210 Ca-1**: Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 nehéz vadászrepülőgép**.
         - **Me 210 Ca-1 39M** → **Me 210 Ca-1 (36 M.)**. Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 nehéz vadászrepülőgép (40 mm 36 M. légvédelmi gépágyú)**.
         - **Me 210 Ca** (Italy / Hungary) (folder) → **Me 210 Ca-1 / 1 (36 M.)**.
@@ -239,6 +239,7 @@ All dates are listed in DD-MM-YYYY format.
         - **30 mm ZTM-1 automatic cannon**
         - **30 mm AG-17 automatic grenade launcher**
         - **105 mm Type 91 howitzer**
+        - **Type 91 HE**
         - **Type 3 Type 3 HEAT**
         - **Barrier ATGM**
         - **R2**
@@ -292,6 +293,8 @@ All dates are listed in DD-MM-YYYY format.
             - Japanese package: **105 mm Type 91 howitzer** → **九一式十糎榴弾砲**.
         - **Type 3 Type 3 HEAT** → **10 Senchi 3 Shiki Chuān Kō Ryūdan** (Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 Type 3 ).
             - Japanese package: **Type 3 Type 3 HEAT** → **十糎三式穿甲榴弾**.
+        - **Type 91 HE** → **10 Senchi 91 Shiki Ryūdan**.
+            - Japanese package: **Type 91 HE** → **十糎九一式榴弾**.
         - **Barrier ATGM** → **Transportno-puskovij kontyejnyer TPK-2S**.
             - Ukrainian package: **Barrier ATGM** → **Транспортно-пусковий контейнер ТПК-2С**.
         - **R2** → **R-2S**.
@@ -363,11 +366,15 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - Update "Ninth Wave" additions:
+        - **1RS1-4**
+        - **1RS2-3**
         - **Large caliber chaff countermeasures** (for the **A 32 A**)
 
 - #### Changes:
 
     - Update "Ninth Wave" additions:
+        - **1RS1-4** → **Stancziâ obnaružyeniâ czyelyej 1RS1-4**.
+        - **1RS2-3** → **Mnogofunkczional'naâ radiolokaczionnaâ stancziâ 1RS2-3 "Šlyem"**.
         - **Large caliber chaff countermeasures** (for the **A 32 A**) → **BOX-3**.
     - **Thorium** → **Radiolokaczionnaâ stancziâ Torij-A**.
     - **Type 930** → **930 Léidá Gàojing Shèbèi** ([Report](https://github.com/Addysaurus/lang_modding/issues/127)).

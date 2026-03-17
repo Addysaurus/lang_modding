@@ -361,6 +361,20 @@ All dates are listed in DD-MM-YYYY format.
         - For this update, not all modifications have had their descriptions changed because modification descriptions take a lot of time and we are in the process of reworking our modification format anyway right now (since it's inconsistent and kind of horrid), so it would be pointless to rename it now just to do so again later under a new format (and also this update is kind of on crunch time).
     - Corrected the display of the **K/AKK5C** modification in the Full Ammunition Names Full Mandarin + Russian package.
 
+### Engines:
+
+- #### Additions:
+
+    - Update "Ninth Wave" additions:
+        - **VK-105RA**
+        - **MTU 8V 199 TE21-D**
+        - **VECTOR 8V**
+
+- #### Changes:
+
+    - Update "Ninth Wave" additions:
+        - **VK-105RA** → **Motor VK-105RA**.
+
 ### Sensors:
 
 - #### Additions:
@@ -369,6 +383,7 @@ All dates are listed in DD-MM-YYYY format.
         - **1RS1-4**
         - **1RS2-3**
         - **Large caliber chaff countermeasures** (for the **A 32 A**)
+        - A bunch of new /desc texts because of the new statcards.
 
 - #### Changes:
 
@@ -377,6 +392,7 @@ All dates are listed in DD-MM-YYYY format.
         - **1RS2-3** → **Mnogofunkczional'naâ radiolokaczionnaâ stancziâ 1RS2-3 "Šlyem"**.
         - **Large caliber chaff countermeasures** (for the **A 32 A**) → **BOX-3**.
     - **Thorium** → **Radiolokaczionnaâ stancziâ Torij-A**.
+    - **N010M Zhuk-M** → **Radiolokaczionnyj priczyel'nyj komplyeks N010M "Žuk-M"**.
     - **Type 930** → **930 Léidá Gàojing Shèbèi** ([Report](https://github.com/Addysaurus/lang_modding/issues/127)).
         - Mandarin package: **Type 930** → **930雷达告警设备**.
     - Corrected the display of the **208A**, **1473**, **JL-7A**, and **930-4** ([Report](https://github.com/Addysaurus/lang_modding/issues/127)).

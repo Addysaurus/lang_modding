@@ -136,10 +136,10 @@ All dates are listed in DD-MM-YYYY format.
         - **ZTZ96B** → **ZTZ96B (2017)**. Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122 | ZTZ1996B Shì Zhǔ Zhàn Tankè (2017)**.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ122 | ZTZ1996B式主战坦克 (2017)**.
         - **Ba.65 A.80** → **Ba. 65 (A. 80)**. Statcard name → **Società Italiana Ernesto Breda | Ba. 65 (A. 80 R.C. 41)**.
-        - **WM-21** → **W.M.21.**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M.21. Sólyom közelfelderítő**.
+        - **WM-21** → **W.M.21**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M.21 Sólyom közelfelderítő**.
         - **Héja I**: Statcard name → **Reggiane Officine Meccaniche Italiane / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja I vadászrepülőgép**.
         - **Héja II**: Statcard name → **Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja II vadászrepülőgép**.
-        - **WM-23** → **W.M.23.**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M.23. Ezüst Nyíl vadászrepülőgép**.
+        - **WM-23** → **W.M.23**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M.23 Ezüst Nyíl vadászrepülőgép**.
         - **Me 210 Ca-1**: Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 nehéz vadászrepülőgép**.
         - **Me 210 Ca-1 39M** → **Me 210 Ca-1 (36 M.)**. Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 nehéz vadászrepülőgép (40 mm 36 M. légvédelmi gépágyú)**.
         - **Me 210 Ca** (Italy / Hungary) (folder) → **Me 210 Ca-1 / 1 (36 M.)**.
@@ -369,11 +369,17 @@ All dates are listed in DD-MM-YYYY format.
         - **VK-105RA**
         - **MTU 8V 199 TE21-D**
         - **VECTOR 8V**
+        - **Weiss Manfred** (manufacturer)
+        - **WM K-14A**
+        - **WM K-14B**
 
 - #### Changes:
 
     - Update "Ninth Wave" additions:
         - **VK-105RA** → **Motor VK-105RA**.
+        - **Weiss Manfred** (manufacturer) → **Société des moteurs Gnome et Rhône / Weiss Manfréd Acél- és Fémművek**.
+        - **WM K-14A** → **W.M.14 Kirs NO repülőgépmotor** (i fuckin hate these W.M.14 engines so much).
+        - **WM K-14B** → **W.M.14 B repülőgépmotor**.
 
 ### Sensors:
 

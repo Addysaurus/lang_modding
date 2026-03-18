@@ -341,6 +341,12 @@ modification/cn_ls_6_250_ir/desc;"Loadout unlocked:
   • <color=@userlogColoredText>GDJ-III25A</color> pylon:
     • 300 kg <color=@userlogColoredText>LS-6/250 (Hóngwài)</color> <color=#ff6f00>BMB-IR/GNSS</color>"
 
+modification/cn_glide_bomb_ir;LS-6/250 (Hóngwài) / 500 (Hóngwài)
+modification/cn_glide_bomb_ir/desc;"Loadout unlocked:
+• Pylon:
+  • 300 kg <color=@userlogColoredText>LS-6/250 (Hóngwài)</color> <color=#ff6f00>BMB-IR/GNSS</color>"
+  • 640 kg <color=@userlogColoredText>LS-6/500 (Hóngwài)</color> <color=#ff6f00>BMB-IR/GNSS</color>"
+
 modification/cn_gb_laser_bomb;GB3 / 1000 / K/YJG500
 modification/cn_gb_laser_bomb/desc;"Loadout unlocked:
 • <color=@userlogColoredText>GDJ-6</color> pylon:
@@ -681,6 +687,20 @@ modification/cn_pl12/desc;"Loadout unlocked:
     • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
 • K/JJ10 (all):
   • <color=@userlogColoredText>PF12</color> missile launcher x2 on dual rack:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
+  • <color=@userlogColoredText>PF12</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-IR</color>
+• K/JJ10C:
+  • <color=@userlogColoredText>PFT15W</color> missile launcher on <color=@userlogColoredText>ZL4W</color> pylon x2 on dual rack:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
+• K/JJ11B, ␗ Sū 30MKK:
+  • <color=@userlogColoredText>PF10X</color> missile launcher:
+    • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>"
+
+modification/cn_pl12a;PL12AE
+modification/cn_pl12a/desc;"Loadout unlocked:
+• J10CE:
+  • <color=@userlogColoredText>PF</color> missile launcher x2 on dual rack:
     • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
   • <color=@userlogColoredText>PF12</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
     • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-IR</color>

@@ -92,7 +92,9 @@ engine_manufacturer/saurer;Manufacturer: Adolph Saurer
 engine_manufacturer/detroit;Manufacturer: Detroit Diesel Corporation
 engine_manufacturer/weijiang;Manufacturer: Zhōngguó Nánfāng Hángkōng Dònglì Jīxiè Gōngsī
 engine_manufacturer/isotta_fraschini;Manufacturer: Isotta Fraschini
-engine_manufacturer/weiss_manfred;Société des moteurs Gnome et Rhône / Weiss Manfréd Acél- és Fémművek
+engine_manufacturer/weiss_manfred;Manufacturer: Société des moteurs Gnome et Rhône / Weiss Manfréd Acél- és Fémművek
+engine_manufacturer/scania_vabis;Manufacturer: Scania-Vabis
+transmission_manufacturer/z_f;Manufacturer: ZF Friedrichshafen
 
 //ENGINES
 engine_model/jumo004d;"
@@ -1455,6 +1457,13 @@ Engine model: RM16"
 engine_model/r-1820-72w;"
 Engine model: R-1820-72W Cyclone"
 
+//USA ENGINES
+engine_model/f100_pw_200;"
+Engine model: F100-PW-200"
+
+engine_model/vta_903t_v8;"
+Engine model: VTA-903T"
+
 //GERMANY ENGINES
 engine_model/6r_106_td_21;"
 Engine model: 6R 106 TD21"
@@ -1523,13 +1532,13 @@ Engine model: FWZ9C Fādòngjī"
 
 //ITALY ENGINES
 engine_model/wm_k-14a;"
-Engine model: W.M.14 Kirs NO repülőgépmotor"
+Engine model: W.M.14 Kirs NO motor"
 
 engine_model/wm_k-14b;"
-Engine model: W.M.14 B repülőgépmotor"
+Engine model: W.M.14 B motor"
 
 engine_model/iveco_vector_8v;"
-Engine model: VECTOR 8V"
+Engine model: Vector 8V Euro III"
 
 //TRANSMISSION MANUFACTURERS
 transmission_manufacturer/allison;Manufacturer: Allison Transmission

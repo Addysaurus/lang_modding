@@ -366,20 +366,27 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - Update "Ninth Wave" additions:
+        - **ZF** (manufacturer)
+        - **Weiss Manfred** (manufacturer)
+        - **Scania-Vabis** (manufacturer)
+        - **F100-PW-200**
+        - **VTA903T V8**
         - **VK-105RA**
         - **MTU 8V 199 TE21-D**
         - **VECTOR 8V**
-        - **Weiss Manfred** (manufacturer)
         - **WM K-14A**
         - **WM K-14B**
 
 - #### Changes:
 
     - Update "Ninth Wave" additions:
-        - **VK-105RA** → **Motor VK-105RA**.
+        - **ZF** (manufacturer) → **ZF Friedrichshafen**.
         - **Weiss Manfred** (manufacturer) → **Société des moteurs Gnome et Rhône / Weiss Manfréd Acél- és Fémművek**.
-        - **WM K-14A** → **W.M.14 Kirs NO repülőgépmotor** (i fuckin hate these W.M.14 engines so much).
-        - **WM K-14B** → **W.M.14 B repülőgépmotor**.
+        - **VTA903T V8** → **VTA-903T**.
+        - **VK-105RA** → **Motor VK-105RA**.
+        - **VECTOR 8V** → **Vector 8V Euro III**.
+        - **WM K-14A** → **W.M.14 Kirs NO motor** (i fuckin hate these W.M.14 engines so much).
+        - **WM K-14B** → **W.M.14 B motor**.
 
 ### Sensors:
 

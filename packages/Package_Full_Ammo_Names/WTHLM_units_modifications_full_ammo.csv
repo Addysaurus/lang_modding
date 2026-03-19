@@ -227,7 +227,7 @@ modification/cn_glide_bomb/desc;"Loadout unlocked:
 
 modification/cn_ls_6_250_ir;LS-6/250 (Hóngwài)
 modification/cn_ls_6_250_ir/desc;"Loadout unlocked:
-• K/JJ10 (all):
+• K/JJ10A, J10CE:
   • <color=@userlogColoredText>GDJ-6</color> pylon:
     • 300 kg <color=@userlogColoredText>LS-6 Xíng 250 Gōngjīn Zhìdao Huáxiáng Zhàdàn (Hóngwài Daoyintóu)</color> <color=#ff6f00>BMB-IR/GNSS</color>
 • K/JJ10C:
@@ -410,6 +410,45 @@ modification/us_aim_9n;AIM-9N
 modification/us_aim_9n/desc;Loadout unlocked: <color=@userlogColoredText>Air-Launched, Intercept-Aerial, Guided Missile, AIM-9N Sidewinder</color> infrared-guided air-to-air missile.
 modification/us_aim_120c;AIM-120C-5
 modification/us_aim_120c/desc;Allows the installation of <color=@userlogColoredText>Air-Launched, Intercept-Aerial, Guided Missile, AIM-120C-5 AMRAAM</color> active radar homing air-to-air missile.
+
+modification/us_aim_120b_c;AIM-120B / C-5
+modification/us_aim_120b_c/desc;"Loadout unlocked:
+• <color=@userlogColoredText>LAU-129A/A</color> missile launcher:
+  • <color=@userlogColoredText>AIM-120B</color> <color=#ff6f00>AAM-ARH</color>
+  • <color=@userlogColoredText>AIM-120C-5</color> <color=#ff6f00>AAM-ARH</color>"
+
+modification/us_aim_120d;AIM-120D
+modification/us_aim_120d/desc;"Loadout unlocked:
+• F-15C-33-MC (RIP) (PASS):
+  • <color=@userlogColoredText>LAU-106/A</color> missile launcher:
+    • <color=@userlogColoredText>Air-Launched, Intercept-Aerial, Guided Missile, AIM-120D AMRAAM</color> <color=#ff6f00>AAM-ARH</color>
+  • <color=@userlogColoredText>LAU-128/A</color> missile launcher with <color=@userlogColoredText>ADU-552/A</color> adapter on <color=@userlogColoredText>SUU-59B/A</color> pylon:
+    • <color=@userlogColoredText>Air-Launched, Intercept-Aerial, Guided Missile, AIM-120D AMRAAM</color> <color=#ff6f00>AAM-ARH</color>
+• F-16C-52Q-MC (PoBIT):
+  • <color=@userlogColoredText>LAU-129A/A</color> missile launcher:
+    • <color=@userlogColoredText>Air-Launched, Intercept-Aerial, Guided Missile, AIM-120D AMRAAM</color> <color=#ff6f00>AAM-ARH</color>
+• F/A-18E-2-MC, ▄ F/A-18F-2-MC:
+  • <color=@userlogColoredText>LAU-127C/A</color> missile launcher x2 on <color=@userlogColoredText>LAU-115C/A</color> missile launcher on <color=@userlogColoredText>BRU-32/A</color> bomb rack on <color=@userlogColoredText>SUU-79A/A</color> pylon:
+    • <color=@userlogColoredText>Air-Launched, Intercept-Aerial, Guided Missile, AIM-120D AMRAAM</color> <color=#ff6f00>AGM-IR/GNSS</color>
+  • <color=@userlogColoredText>LAU-127C/A</color> missile launcher on <color=@userlogColoredText>SUU-80/A</color> pylon:
+    • <color=@userlogColoredText>Air-Launched, Intercept-Aerial, Guided Missile, AIM-120D AMRAAM</color> <color=#ff6f00>AGM-IR/GNSS</color>"
+
+modification/us_agm_84h;AGM-84H-1
+modification/us_agm_84h/desc;"Loadout unlocked:
+• F/A-18C-52-MC:
+  • <color=@userlogColoredText>SUU-63A/A</color> pylon:
+    • <color=@userlogColoredText>Air-Launched, Surface-Attack, Guided Missile, AGM-84H-1 Standoff Land Attack Missile Expanded Response</color> <color=#ff6f00>AGM-IR/GNSS</color>
+• F/A-18E-2-MC, ▄ F/A-18F-2-MC:
+  • <color=@userlogColoredText>SUU-79A/A</color> pylon:
+    • <color=@userlogColoredText>Air-Launched, Surface-Attack, Guided Missile, AGM-84H-1 Standoff Land Attack Missile Expanded Response</color> <color=#ff6f00>AGM-IR/GNSS</color>"
+
+modification/us_agm154_jsow;AGM-154A-1
+modification/us_agm154_jsow/desc;"Loadout unlocked:
+• <color=@userlogColoredText>BRU-57/A</color> dual ejector rack on <color=@userlogColoredText>PIDS+ FUM</color> pylon:
+  • <color=@userlogColoredText>Air-Launched, Surface-Attack, Guided Missile, AGM-154A-1 Joint Standoff Weapon</color> <color=#ff6f00>AAM-ARH</color>
+• <color=@userlogColoredText>BRU-57/A</color> dual ejector rack:
+  • <color=@userlogColoredText>Air-Launched, Surface-Attack, Guided Missile, AGM-154A-1 Joint Standoff Weapon</color> <color=#ff6f00>AAM-ARH</color>"
+
 modification/us_agm_179;JAGM-MR (SAL)
 modification/us_agm_179/desc;Loadout unlocked: <color=@userlogColoredText>Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (SAL)</color> semi-active laser-homing air-to-ground missile.
 modification/us_agm_179_ir;AGM-179 (IR)
@@ -525,7 +564,7 @@ modification/cn_pl8/desc;"Loadout unlocked:
 
 modification/cn_pl8b;K/AKK8B
 modification/cn_pl8b/desc;"Loadout unlocked:
-• K/JJ10 (all):
+• K/JJ10A, J10CE:
   • <color=@userlogColoredText>PF95W Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher on <color=@userlogColoredText>GDJ-1</color> pylon:
     • <color=@userlogColoredText>K/AKK8B Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>
   • <color=@userlogColoredText>PF95W Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
@@ -541,12 +580,12 @@ modification/cn_pl12/desc;"Loadout unlocked:
 • K/JJ8F:
   • <color=@userlogColoredText>霹发11 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher:
     • <color=@userlogColoredText>SD10A Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-ARH</color>
-• K/JJ10 (all):
+• K/JJ10A, J10CE:
   • <color=@userlogColoredText>霹发12 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher x2 on dual rack:
     • <color=@userlogColoredText>SD10A Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-ARH</color>
   • <color=@userlogColoredText>霹发12 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
     • <color=@userlogColoredText>SD10A Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>
-• K/JJ10C:
+• J10CE:
   • <color=@userlogColoredText>霹发T15W Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher on <color=@userlogColoredText>ZL4W</color> pylon x2 on dual rack:
     • <color=@userlogColoredText>SD10A Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-ARH</color>
 • K/JJ11B, ␗ 苏30MKK:
@@ -557,6 +596,22 @@ modification/cn_sd10;SD10A
 modification/cn_sd10/desc;"Loadout unlocked:
 • <color=@userlogColoredText>PF12 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher x2 on dual rack:
   • <color=@userlogColoredText>SD10A Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-ARH</color>"
+
+modification/cn_pl12a;PL12AE
+modification/cn_pl12a/desc;"Loadout unlocked:
+• J10CE, H/JJ15T:
+  • <color=@userlogColoredText>PFT125 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher x2 on <color=@userlogColoredText>GDJ-68III Tōngyòng Zuhé Guà Jià</color> dual rack on <color=@userlogColoredText>GDJ-68I Tōngyòng Zuhé Guà Jià</color> pylon:
+    • <color=@userlogColoredText>PL12AE Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-ARH</color> x2
+• J10CE:
+  • <color=@userlogColoredText>PFT125 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
+    • <color=@userlogColoredText>PL12AE Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>
+  • <color=@userlogColoredText>PFT15W</color> missile launcher on <color=@userlogColoredText>ZL4W</color> pylon x2 on dual rack:
+    • <color=@userlogColoredText>PL12AE Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-ARH</color>
+• H/JJ15T:
+  • <color=@userlogColoredText>PFT125 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher:
+    • <color=@userlogColoredText>PL12AE Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-ARH</color>
+  • <color=@userlogColoredText>PFT125 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher on <color=@userlogColoredText>GDL-III7Z</color> pylon:
+    • <color=@userlogColoredText>PL12AE Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-ARH</color>"
 
 modification/cn_ty_90;AKK90
 modification/cn_ty_90/desc;"Loadout unlocked:

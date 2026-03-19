@@ -128,7 +128,7 @@ modification/cn_glide_bomb/desc;"Loadout unlocked:
 
 modification/cn_ls_6_250_ir;LS-6/250 (红外)
 modification/cn_ls_6_250_ir/desc;"Loadout unlocked:
-• K/JJ10 (all):
+• K/JJ10A, J10CE:
   • <color=@userlogColoredText>GDJ-6</color> pylon:
     • 300 kg <color=@userlogColoredText>LS-6型250公斤制导滑翔炸弹 (红外导引头)</color> <color=#ff6f00>BMB-IR/GNSS</color>
 • K/JJ10C:
@@ -317,7 +317,7 @@ modification/cn_pl8/desc;"Loadout unlocked:
 
 modification/cn_pl8b;K/AKK8B
 modification/cn_pl8b/desc;"Loadout unlocked:
-• K/JJ10 (all):
+• K/JJ10A, J10CE:
   • <color=@userlogColoredText>PF95W空空导弹发射装置</color> missile launcher on <color=@userlogColoredText>GDJ-1</color> pylon:
     • <color=@userlogColoredText>K/AKK8B空空导弹</color> <color=#ff6f00>AAM-IR</color>
   • <color=@userlogColoredText>PF95W空空导弹发射装置</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
@@ -333,7 +333,7 @@ modification/cn_pl12/desc;"Loadout unlocked:
 • K/JJ8F:
   • <color=@userlogColoredText>PF11空空导弹发射装置</color> missile launcher:
     • <color=@userlogColoredText>SD10A空空导弹</color> <color=#ff6f00>AAM-ARH</color>
-• K/JJ10 (all):
+• K/JJ10A, J10CE:
   • <color=@userlogColoredText>PF12空空导弹发射装置</color> missile launcher x2 on dual rack:
     • <color=@userlogColoredText>SD10A空空导弹</color> <color=#ff6f00>AAM-ARH</color>
   • <color=@userlogColoredText>PF12空空导弹发射装置</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
@@ -349,6 +349,22 @@ modification/cn_sd10;SD10A
 modification/cn_sd10/desc;"Loadout unlocked:
 • <color=@userlogColoredText>PF12空空导弹发射装置</color> missile launcher x2 on dual rack:
   • <color=@userlogColoredText>SD10A空空导弹</color> <color=#ff6f00>AAM-ARH</color>"
+
+modification/cn_pl12a;PL12AE
+modification/cn_pl12a/desc;"Loadout unlocked:
+• J10CE, H/JJ15T:
+  • <color=@userlogColoredText>PFT125空空导弹发射装置</color> missile launcher x2 on <color=@userlogColoredText>GDJ-68III通用组合挂架</color> dual rack on <color=@userlogColoredText>GDJ-68I通用组合挂架</color> pylon:
+    • <color=@userlogColoredText>PL12AE空空导弹</color> <color=#ff6f00>AAM-ARH</color> x2
+• J10CE:
+  • <color=@userlogColoredText>PFT125空空导弹发射装置</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
+    • <color=@userlogColoredText>PL12AE空空导弹</color> <color=#ff6f00>AAM-IR</color>
+  • <color=@userlogColoredText>PFT15W</color> missile launcher on <color=@userlogColoredText>ZL4W</color> pylon x2 on dual rack:
+    • <color=@userlogColoredText>PL12AE空空导弹</color> <color=#ff6f00>AAM-ARH</color>
+• H/JJ15T:
+  • <color=@userlogColoredText>PFT125空空导弹发射装置</color> missile launcher:
+    • <color=@userlogColoredText>PL12AE空空导弹</color> <color=#ff6f00>AAM-ARH</color>
+  • <color=@userlogColoredText>PFT125空空导弹发射装置</color> missile launcher on <color=@userlogColoredText>GDL-III7Z</color> pylon:
+    • <color=@userlogColoredText>PL12AE空空导弹</color> <color=#ff6f00>AAM-ARH</color>"
 
 modification/cn_ty_90;AKK90
 modification/cn_ty_90/desc;"Loadout unlocked:

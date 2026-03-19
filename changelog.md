@@ -86,7 +86,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Update "Ninth Wave" changes"
-        - **F-16C PoBIT** → **F-16C-52-MC (PoBIT)**. Statcard name → **Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (Post Block Integration Team)**.
+        - **F-16C PoBIT** → **F-16C-52Q-MC (PoBIT)**. Statcard name → **Lockheed Martin Corporation | F-16C-52Q-MC Fighting Falcon (Post Block Integration Team)**.
         - **F/A-18** (folder) → **F/A-18A-18 / C-52**.
         - **AH-64A** (killstreak): Statcard name → **McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache**.
         - **M1296** → **M1296 ICVD**. Statcard name → **General Dynamics Land Systems | Combat Vehicle, Infantry, Dragoon, M1296**.
@@ -157,13 +157,48 @@ All dates are listed in DD-MM-YYYY format.
         - **Barak II/Sufa** (folder) → **F-16D-40 / I**.
         - **Eitan (P)** → **'Eitan Ṣariaḥ**. Statcard name → **Merkaz Šikum ve-'Aḥzakah 7000 | Nagma'š 'Eitan im Ṣariaḥ**.
             - Hebrew package: **Eitan (P)** → **איתן צריח**. Statcard name → **נגמ״ש איתן עם צריח | מרכז שיקום ואחזקה 7000**.
-    - Israel rework:
+    - Israel rework & Hebrew package (I'm sorry for all the horrible names in advance):
         - **Spitfire F. Mk. IX** → **Spiṭfayer IX**. Statcard name → **Vickers Supermarine Type 361 | Spiṭfayer Degem IX**.
             - Hebrew package: **Spitfire F. Mk. IX** → **IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | IX ספיטפייר דגם**.
         - **Spitfire L.F. Mk. IXe (CW)** → **Spiṭfayer IX (KK)**. Statcard name → **Vickers Supermarine Type 361 | Spiṭfayer Degem IX (Knef Kṣoṣah)**.
             - Hebrew package: **Spitfire L.F. Mk. IXe (CW)** → **(כ״ק) IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | (כנף קצוצה) IX ספיטפייר דגם**.
         - **Weizman's Spitfire L.F. Mk. IXe** → **Weiṣman's Spiṭfayer IX**. Statcard name → **Vickers Supermarine Type 361 | 'Ezer Weiṣman's Spiṭfayer Degem IX**.
             - Hebrew package: **Weizman's Spitfire L.F. Mk. IXe** → **של ויצמן IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | של עזר ויצמן IX ספיטפייר דגם**.
+        - **S.199** → **Si.210**. Statcard name → **Avia Motors C.210 | Si.210 "Sakin"**.
+            - Hebrew package: **S.199** → **סי.210**. Statcard name → **Avia Motors C.210 | "סי.210 "סכין**.
+        - **P-51D-20-NA** → **Pi-51 Di**. Statcard name → **North American Aviation NA-122 | Pi-51 Degem Di Musṭang**.
+            - Hebrew package: **P-51D-20-NA** → **פי-51 די**. Statcard name → **North American Aviation NA-122 | פי-51 דגם די מוסטנג**.
+        - **B-17G-95-DL** → **Bi-17 Ji**. Statcard name → **Boeing Airplane Company | Bi-17 Degem Ji Mivtzar Me'ofef**.
+            - Hebrew package: **B-17G-95-DL** → **בי-17 ג׳י**. Statcard name → **Boeing Airplane Company | בי-17 דגם ג׳י מבצר מעופף**.
+        - **Meteor N.F. Mk. 13** → **Meṭe'or 13**. Statcard name → **Gloster Aircraft Company G.47 / Armstrong Whitworth | Meṭe'or Degem 13**.
+            - Hebrew package: **Meteor N.F. Mk. 13** → **מטאור 13**. Statcard name → **Gloster Aircraft Company G.47 / Armstrong Whitworth | מטאור דגם 13**.
+        - **Meteor F. Mk. 8** → **Meṭe'or 8**. Statcard name → **Gloster Aircraft Company G.41K | Meṭe'or Degem 8**.
+            - Hebrew package: **Meteor F. Mk. 8** → **מטאור 8**. Statcard name → **Gloster Aircraft Company G.41K | מטאור דגם 8**.
+        - **Meteor F.R. Mk. 9** → **Meṭe'or 9**. Statcard name → **Gloster Aircraft Company G.41L | Meṭe'or Degem 9**.
+            - Hebrew package: **Meteor F.R. Mk. 9** → **מטאור 9**. Statcard name → **Gloster Aircraft Company G.41L | מטאור דגם 9**.
+        - **Mystère IV A** → **Misṭer IV**. Statcard name → **Avions Marcel Dassault | Misṭer IV** (Ah yes, Mr. IV).
+            - Hebrew package: **Mystère IV A** → **IV מיסטר**. Statcard name → **Avions Marcel Dassault | IV מיסטר**.
+        - **Super Mystère B2** → **Suṗer Misṭer B-2**. Statcard name → **Avions Marcel Dassault | Suṗer Misṭer B-2** (Mr. B-2 is quite super I see).
+            - Hebrew package: **Super Mystère B2** → **סופר מיסטר ב-2**. Statcard name → **Avions Marcel Dassault | סופר מיסטר ב-2**.
+        - **Sa'ar**: Statcard name → **Avions Marcel Dassault / ha-Ta'siah ha-'Avirit le-Yisra'el | Sa'ar**.
+            - Hebrew package: **Sa'ar** → **סער**. Statcard name → **התעשייה האווירית לישראל / Avions Marcel Dassault | סער**.
+        - **Super Mystère B2 / Sa'ar** (folder) → **Suṗer Misṭer B-2 / Sa'ar**.
+            - Hebrew package: **Super Mystère B2 / Sa'ar** → **סופר מיסטר ב-2 / סער**.
+        - **A-4H**: Statcard name → **McDonnell Douglas Corporation D-640 | A-4H 'Ayiṭ**.
+            - Hebrew package: Statcard name → **McDonnell Douglas Corporation D-640 | עיט A-4H**.
+        - **A-4E (AFC 418-II)**: Statcard name → **McDonnell Douglas Corporation D-640 | A-4E 'Ayiṭ (AFC 418-II)**.
+            - Hebrew package: Statcard name → **McDonnell Douglas Corporation D-640 | (AFC 418-II) עיט A-4E**.
+        - **A-4N**: Statcard name → **McDonnell Douglas Corporation D-640 | A-4N 'Ayiṭ**.
+            - Hebrew package: Statcard name → **McDonnell Douglas Corporation D-640 | עיט A-4N**.
+        - **A-4E (AFC 482)**: Statcard name → **McDonnell Douglas Corporation D-640 | A-4E 'Ayiṭ (AFC 482)**.
+            - Hebrew package: Statcard name → **McDonnell Douglas Corporation D-640 | (AFC 482) עיט A-4E**.
+        - **Vautour II A** (Israel & the hidden French Israeli one) → **Vuṭur A**. Statcard name → **Société nationale des constructions aéronautiques du Sud-Ouest | Vuṭur A**.
+            - Hebrew package: **Vautour II A** → **A ווטור**. Statcard name → **Société nationale des constructions aéronautiques du Sud-Ouest | A ווטור**.
+        - **Vautour II N (C)** → **Vuṭur N**. Statcard name → **Société nationale des constructions aéronautiques du Sud-Ouest | Vuṭur N**.
+            - Hebrew package: **Vautour II N (C)** → **N ווטור**. Statcard name → **Société nationale des constructions aéronautiques du Sud-Ouest | N ווטור**.
+        - **F-84F-51-GK (Ṭayeset 200)**:
+            - Hebrew package: **F-84F-51-GK (Ṭayeset 200)** → **(טייסת 200) F-84F-51-GK**. Statcard name → **Republic Aviation Corporation | (טייסת 200) F-84F-51-GK Thunderstreak**.
+        - **F-84F-51-GK (EC 1/1)**: Statcard name → **Republic Aviation Corporation | F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 "Corse")**.
     - Hungarian air rework:
         - **He 112 B-1/U2** (Germany / Hungary): Statcard name → **Heinkel Flugzeugwerke | He 112 B-1/U2 vadászrepülőgép**.
         - **Bf 110 G-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 110 G-4 éjjeli vadász**.
@@ -322,6 +357,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Wgr.41 Spr** → **43 M. rakétagránát**. Statcard name → **15 cm-es 43 M. rakétagránát**.
         - **138.6 mm/40 model 1923** → **Canon de 138 mm/40 mle. 1923**. Statcard name → **Canon de 138 mm/40 modèle 1923**.
         - **F1 HE** → **OE 120 F1**.
+            - Full Ammunition Names package: **F1 HE** → **Cartouche à obus explosif de 120 mm modèle F1**.
         - **I-Derby ER**: Statcard name → **I-Derby Extended Range**.
         - **Python 5** (like a SAM one I think) → **Python 5 SR**
     - **Piton 5 SR** → **Python 5 SR**. Statcard name → **Python 5 Short Range**. It's an export missile so it doesn't get it's IDF Piton name.

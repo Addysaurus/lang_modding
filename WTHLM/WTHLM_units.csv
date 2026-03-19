@@ -1630,9 +1630,9 @@ shop/group/il_merkava_3_group;Merkavah Mk. 3 Ramaḥ / B Baz
 shop/group/il_merkava_4_group;"Merkavah Mk. 4B / B ""LIC"""
 shop/group/il_magach_6_6a_group;Magaḥ 6 / 6A
 shop/group/il_magach_6_group;Magaḥ 6B / R / R (M261)
+shop/group/md_460_iaf_group; Suṗer Misṭer B-2 / Sa'ar
 shop/group/a_4_iaf_group; A-4H / E (AFC 418-II)
 shop/group/so_4050_vautour_iaf_group; Vautour II A / N (C)
-shop/group/md_460_iaf_group; Super Mystère B2 / Sa'ar
 shop/group/f_4e_f_15_iaf_group; F-4E Kurnas 2000 / 15A-18
 shop/group/f_16d_iaf_group; F-16D-40 / I
 
@@ -2853,8 +2853,8 @@ f_16c_block_50_shop;F-16C-50-CF (CCIP) (2007)
 f_16c_block_50_0;F-16C-50-CF Fighting Falcon (Common Configuration Implementation Program) (2007)
 f_16c_block_50_1;F-16C
 f_16c_block_50_2;F-16
-f_16c_block_52_aesa_shop;F-16C-52-MC (PoBIT)
-f_16c_block_52_aesa_0;Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (Post Block Integration Team)
+f_16c_block_52_aesa_shop;F-16C-52Q-MC (PoBIT)
+f_16c_block_52_aesa_0;Lockheed Martin Corporation | F-16C-52Q-MC Fighting Falcon (Post Block Integration Team)
 f_16c_block_52_aesa_1;F-16C
 f_16c_block_52_aesa_2;F-16
 f_15a_shop;F-15A-18-MC (MSIP)
@@ -8428,6 +8428,10 @@ sb_25j_netherlands_2;◘ B-25
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+f-84f_iaf_shop;☨ F-84F-51-GK (EC 1/1)
+f-84f_iaf_0;"☨ Republic Aviation Corporation | F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 ""Corse"")"
+f-84f_iaf_1;☨ F-84F
+f-84f_iaf_2;☨ F-84
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 mirage_5f_shop;Mirage 5 F
@@ -8870,8 +8874,32 @@ spitfire_lf_mk9e_weisman_shop; Weiṣman's Spiṭfayer IX
 spitfire_lf_mk9e_weisman_0; Vickers Supermarine Type 361 | 'Ezer Weiṣman's Spiṭfayer Degem IX
 spitfire_lf_mk9e_weisman_1; Spiṭfayer IX
 spitfire_lf_mk9e_weisman_2; Spiṭfayer
+s_199_shop; Si.210
+s_199_0;" Avia Motors C.210 | Si.210 ""Sakin"""
+s_199_1; Si.210
+s_199_2; Si.210
+p-51d-20-na_iaf_shop; Pi-51 Di
+p-51d-20-na_iaf_0; North American Aviation NA-122 | Pi-51 Degem Di Musṭang
+p-51d-20-na_iaf_1; Pi-51 Di
+p-51d-20-na_iaf_2; Pi-51
+b-17g_iaf_shop; Bi-17 Ji
+b-17g_iaf_0; Boeing Airplane Company | Bi-17 Degem Ji Mivtzar Me'ofef
+b-17g_iaf_1; Bi-17 Ji
+b-17g_iaf_2; Bi-17
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+meteor_nfmk13_shop; Meṭe'or 13
+meteor_nfmk13_0; Gloster Aircraft Company G.47 / Armstrong Whitworth | Meṭe'or Degem 13
+meteor_nfmk13_1; Meṭe'or 13
+meteor_nfmk13_2; Meṭe'or
+meteor_fmk8_iaf_shop; Meṭe'or 8
+meteor_fmk8_iaf_0; Gloster Aircraft Company G.41K | Meṭe'or Degem 8
+meteor_fmk8_iaf_1; Meṭe'or 8
+meteor_fmk8_iaf_2; Meṭe'or
+meteor_frmk9_iaf_shop; Meṭe'or 9
+meteor_frmk9_iaf_0; Gloster Aircraft Company G.41L | Meṭe'or Degem 9
+meteor_frmk9_iaf_1; Meṭe'or 9
+meteor_frmk9_iaf_2; Meṭe'or
 md_450b_ouragan_iaf_shop; 'Organ
 md_450b_ouragan_iaf_0; Avions Marcel Dassault | M.D.450B 'Organ
 md_450b_ouragan_iaf_1; 'Organ
@@ -8882,6 +8910,50 @@ md_450b_ouragan_iaf_29_1; 'Organ
 md_450b_ouragan_iaf_29_2; 'Organ
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+md_454_mystere_4a_iaf_shop; Misṭer IV
+md_454_mystere_4a_iaf_0; Avions Marcel Dassault | Misṭer IV
+md_454_mystere_4a_iaf_1; Misṭer IV
+md_454_mystere_4a_iaf_2; Misṭer
+md_460_sambad_shop; Suṗer Misṭer B-2
+md_460_sambad_0; Avions Marcel Dassault | Suṗer Misṭer B-2
+md_460_sambad_1; Suṗer Misṭer B-2
+md_460_sambad_2; Suṗer Misṭer
+md_460_saar_shop;Sa'ar
+md_460_saar_0;Avions Marcel Dassault / ha-Ta'siah ha-'Avirit le-Yisra'el | Sa'ar
+md_460_saar_1;Sa'ar
+md_460_saar_2;Sa'ar
+a_4h_shop; A-4H
+a_4h_0; McDonnell Douglas Corporation D-640 | A-4H 'Ayiṭ
+a_4h_1; A-4H
+a_4h_2; A-4
+a_4e_early_iaf_shop; A-4E (AFC 418-II)
+a_4e_early_iaf_0; McDonnell Douglas Corporation D-640 | A-4E 'Ayiṭ (AFC 418-II)
+a_4e_early_iaf_1; A-4E
+a_4e_early_iaf_2; A-4
+a_4n_shop; A-4N
+a_4n_0;McDonnell Douglas Corporation D-640 | A-4N 'Ayiṭ
+a_4n_1; A-4N
+a_4n_2; A-4
+a_4e_late_iaf_shop; A-4E (AFC 482)
+a_4e_late_iaf_0; McDonnell Douglas Corporation D-640 | A-4E 'Ayiṭ (AFC 482)
+a_4e_late_iaf_1; A-4E
+a_4e_late_iaf_2; A-4
+so_4050_vautour_2a_israel_iaf_shop; Vuṭur A
+so_4050_vautour_2a_israel_iaf_0; Société nationale des constructions aéronautiques du Sud-Ouest | Vuṭur A
+so_4050_vautour_2a_israel_iaf_1; Vuṭur A
+so_4050_vautour_2a_israel_iaf_2; Vuṭur
+so_4050_vautour_2n_iaf_shop; Vuṭur N
+so_4050_vautour_2n_iaf_0; Société nationale des constructions aéronautiques du Sud-Ouest | Vuṭur N
+so_4050_vautour_2n_iaf_1; Vuṭur N
+so_4050_vautour_2n_iaf_2; Vuṭur
+so_4050_vautour_2a_iaf_shop;☨ Vuṭur A
+so_4050_vautour_2a_iaf_0;☨ Société nationale des constructions aéronautiques du Sud-Ouest | Vuṭur A
+so_4050_vautour_2a_iaf_1;☨ Vuṭur A
+so_4050_vautour_2a_iaf_2;☨ Vuṭur
+f-84f_israel_iaf_shop; F-84F-51-GK (Ṭayeset 200)
+f-84f_israel_iaf_0; F-84F-51-GK Thunderstreak (Ṭayeset 200)
+f-84f_israel_iaf_1; F-84F
+f-84f_israel_iaf_2; F-84
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 
@@ -10440,10 +10512,6 @@ arado-196a-5_shop;AR
 arado-196a-5_0;AR
 arado-196a-5_1;AR
 arado-196a-5_2;AR
-b-17g_iaf_shop; B-17G-95-DL
-b-17g_iaf_0; B-17G-95-DL Flying Fortress
-b-17g_iaf_1; B-17G
-b-17g_iaf_2; B-17
 be_6_shop;Bye-6
 be_6_0;Bye-6
 be_6_1;Bye-6
@@ -10460,10 +10528,6 @@ bf-109g-6_finland_shop;MT (G-6/R6) (Tp)
 bf-109g-6_finland_0;"Messerschmitt | MT (G-6/R6) (Tropenausrüstung) ""Mersu"""
 bf-109g-6_finland_1;MT (G-6)
 bf-109g-6_finland_2;MT
-s_199_shop; S.199
-s_199_0;" Avia Motors C.210 | S.199 ""Sakin"" (batch 2)"
-s_199_1; S.199
-s_199_2; S.199
 blenheim_mkiv_shop;Blenheim Mk. IV
 blenheim_mkiv_0;Blenheim Mk. IV
 blenheim_mkiv_1;Blenheim Mk. IV
@@ -11321,22 +11385,10 @@ meteor_fmk8_shop;Meteor F. Mk. 8
 meteor_fmk8_0;Gloster Aircraft Company G.41K | Meteor F. Mk. 8
 meteor_fmk8_1;Meteor F. Mk. 8
 meteor_fmk8_2;Meteor
-meteor_fmk8_iaf_shop; Meteor F. Mk. 8
-meteor_fmk8_iaf_0; Gloster Aircraft Company G.41K | Meteor F. Mk. 8
-meteor_fmk8_iaf_1; Meteor F. Mk. 8
-meteor_fmk8_iaf_2; Meteor
-meteor_frmk9_iaf_shop; Meteor F.R. Mk. 9
-meteor_frmk9_iaf_0; Gloster Aircraft Company G.41L | Meteor F.R. Mk. 9
-meteor_frmk9_iaf_1; Meteor F.R. Mk. 9
-meteor_frmk9_iaf_2; Meteor
 meteor_fmk8_belgium_shop;▄ Meteor F. Mk. 8
 meteor_fmk8_belgium_0;▄ Gloster Aircraft Company G.41K / Avions Fairey | Meteor F. Mk. 8
 meteor_fmk8_belgium_1;▄ Meteor F. Mk. 8
 meteor_fmk8_belgium_2;▄ Meteor
-meteor_nfmk13_shop; Meteor N.F. Mk. 13
-meteor_nfmk13_0; Gloster Aircraft Company G.47 / Armstrong Whitworth | Meteor N.F. Mk. 13
-meteor_nfmk13_1; Meteor N.F. Mk. 13
-meteor_nfmk13_2; Meteor
 meteor_fmk8_reaper_shop;GAF
 meteor_fmk8_reaper_0;"Gloster Aircraft Company Ground Attack Fighter ""Reaper"""
 meteor_fmk8_reaper_1;GAF
@@ -11373,10 +11425,6 @@ mig-15bis_ns23_china_shop;␗ MiG-15bis (NS-23)
 mig-15bis_ns23_china_0;␗ MiG-15bis (NS-23)
 mig-15bis_ns23_china_1;␗ MiG-15bis
 mig-15bis_ns23_china_2;␗ MiG-15
-p-51d-20-na_iaf_shop; P-51D-20-NA
-p-51d-20-na_iaf_0; P-51D-20-NA Mustang
-p-51d-20-na_iaf_1; P-51D
-p-51d-20-na_iaf_2; P-51
 f-84g_france_shop;☨ F-84G-26-RE
 f-84g_france_0;☨ F-84G-26-RE Thunderjet
 f-84g_france_1;☨ F-84G
@@ -11401,26 +11449,10 @@ leo_451_late_shop;LeO 451 (late)
 leo_451_late_0;LeO 451 (late)
 leo_451_late_1;LeO 451
 leo_451_late_2;LeO 451
-a_4e_late_iaf_shop; A-4E (AFC 482)
-a_4e_late_iaf_0;" A-4E Skyhawk ""'Ayiṭ"" (AFC 482)"
-a_4e_late_iaf_1; A-4E
-a_4e_late_iaf_2; A-4
-a_4e_early_iaf_shop; A-4E (AFC 418-II)
-a_4e_early_iaf_0;" A-4E Skyhawk ""'Ayiṭ"" (AFC 418-II)"
-a_4e_early_iaf_1; A-4E
-a_4e_early_iaf_2; A-4
 a_7e_thailand_shop;B.JT.1K
 a_7e_thailand_0;LTV Corperation | Ekhrụxng Bin Jomtī Bæb Thī 1K
 a_7e_thailand_1;B.JT.1K
 a_7e_thailand_2;B.JT.1
-a_4h_shop; A-4H
-a_4h_0;" A-4H Skyhawk ""'Ayiṭ"""
-a_4h_1; A-4H
-a_4h_2; A-4
-a_4n_shop; A-4N
-a_4n_0;" A-4N Skyhawk ""'Ayiṭ"""
-a_4n_1; A-4N
-a_4n_2; A-4
 f4u-7_shop;☨ F4U-7
 f4u-7_0;☨ F4U-7 Corsair
 f4u-7_1;☨ F4U-7
@@ -12306,30 +12338,10 @@ so_4050_vautour_2n_shop;Vautour II N (C)
 so_4050_vautour_2n_0;S.O.4050 Vautour II N (C)
 so_4050_vautour_2n_1;Vautour II N (C)
 so_4050_vautour_2n_2;Vautour II
-so_4050_vautour_2a_iaf_shop;☨ Vautour II A
-so_4050_vautour_2a_iaf_0;☨ S.O.4050 Vautour II A
-so_4050_vautour_2a_iaf_1;☨ Vautour II A
-so_4050_vautour_2a_iaf_2;☨ Vautour II
 so_4050_vautour_2n_late_shop;Vautour II N (M)
 so_4050_vautour_2n_late_0;S.O.4050 Vautour II N (M)
 so_4050_vautour_2n_late_1;Vautour II N (M)
 so_4050_vautour_2n_late_2;Vautour II
-so_4050_vautour_2a_israel_iaf_shop; Vautour II A
-so_4050_vautour_2a_israel_iaf_0; S.O.4050 Vautour II A
-so_4050_vautour_2a_israel_iaf_1; Vautour II A
-so_4050_vautour_2a_israel_iaf_2; Vautour II
-so_4050_vautour_2n_iaf_shop; Vautour II N (C)
-so_4050_vautour_2n_iaf_0; S.O.4050 Vautour II N (C)
-so_4050_vautour_2n_iaf_1; Vautour II N (C)
-so_4050_vautour_2n_iaf_2; Vautour II
-f-84f_iaf_shop;☨ F-84F-51-GK (EC 1/1)
-f-84f_iaf_0;"☨ F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 ""Corse"")"
-f-84f_iaf_1;☨ F-84F
-f-84f_iaf_2;☨ F-84
-f-84f_israel_iaf_shop; F-84F-51-GK (Ṭayeset 200)
-f-84f_israel_iaf_0; F-84F-51-GK Thunderstreak (Ṭayeset 200)
-f-84f_israel_iaf_1; F-84F
-f-84f_israel_iaf_2; F-84
 so_4050_vautour_2b_shop;Vautour II B
 so_4050_vautour_2b_0;S.O.4050 Vautour II B
 so_4050_vautour_2b_1;Vautour II B
@@ -12478,14 +12490,6 @@ md_460_usa_shop;▃ Super Mystère B2
 md_460_usa_0;▃ M.D.460 Super Mystère B2
 md_460_usa_1;▃ Super Mystère B2
 md_460_usa_2;▃ Super Mystère
-md_460_sambad_shop; Super Mystère B2
-md_460_sambad_0; M.D.460 Super Mystère B2 Sambad
-md_460_sambad_1; Super Mystère B2
-md_460_sambad_2; Super Mystère
-md_460_saar_shop;Sa'ar
-md_460_saar_0;Sa'ar
-md_460_saar_1;Sa'ar
-md_460_saar_2;Sa'ar
 f-104s_cb_shop;☪ F-104S/CB
 f-104s_cb_0;☪ F-104S/CB Starfighter
 f-104s_cb_1;☪ F-104S
@@ -12666,10 +12670,6 @@ md_454_mystere_4a_shop;Mystère IV A
 md_454_mystere_4a_0;M.D.454 Mystère IV A
 md_454_mystere_4a_1;Mystère IV A
 md_454_mystere_4a_2;Mystère IV
-md_454_mystere_4a_iaf_shop; Mystère IV A
-md_454_mystere_4a_iaf_0; M.D.454 Mystère IV A
-md_454_mystere_4a_iaf_1; Mystère IV A
-md_454_mystere_4a_iaf_2; Mystère IV
 germ_s_100_s204_lang_shop;S 204
 germ_s_100_s204_lang_0;Schnellboot Typ 1939/40, S 204 Lang
 germ_s_100_s204_lang_1;S 204

@@ -1630,9 +1630,9 @@ shop/group/il_merkava_3_group;Merkavah Mk. 3 Ramaḥ / B Baz
 shop/group/il_merkava_4_group;"Merkavah Mk. 4B / B ""LIC"""
 shop/group/il_magach_6_6a_group;Magaḥ 6 / 6A
 shop/group/il_magach_6_group;Magaḥ 6B / R / R (M261)
-shop/group/md_460_iaf_group; Suṗer Misṭer B-2 / Sa'ar
+shop/group/md_460_iaf_group; Super Misṭer B-2 / Sa'ar
 shop/group/a_4_iaf_group; A-4H / E (AFC 418-II)
-shop/group/so_4050_vautour_iaf_group; Vautour II A / N (C)
+shop/group/so_4050_vautour_iaf_group; Vuṭur A / N
 shop/group/f_4e_f_15_iaf_group; F-4E Kurnas 2000 / 15A-18
 shop/group/f_16d_iaf_group; F-16D-40 / I
 
@@ -8914,12 +8914,12 @@ md_454_mystere_4a_iaf_shop; Misṭer IV
 md_454_mystere_4a_iaf_0; Avions Marcel Dassault | Misṭer IV
 md_454_mystere_4a_iaf_1; Misṭer IV
 md_454_mystere_4a_iaf_2; Misṭer
-md_460_sambad_shop; Suṗer Misṭer B-2
-md_460_sambad_0; Avions Marcel Dassault | Suṗer Misṭer B-2
-md_460_sambad_1; Suṗer Misṭer B-2
-md_460_sambad_2; Suṗer Misṭer
+md_460_sambad_shop; Super Misṭer B-2
+md_460_sambad_0;" Avions Marcel Dassault | Super Misṭer B-2 ""Sambad"""
+md_460_sambad_1; Super Misṭer B-2
+md_460_sambad_2; Super Misṭer
 md_460_saar_shop;Sa'ar
-md_460_saar_0;Avions Marcel Dassault / ha-Ta'siah ha-'Avirit le-Yisra'el | Sa'ar
+md_460_saar_0;Avions Marcel Dassault / ha-Ta'asiah ha-'Avirit le-Yisra'el | Sa'ar
 md_460_saar_1;Sa'ar
 md_460_saar_2;Sa'ar
 a_4h_shop; A-4H
@@ -8956,8 +8956,52 @@ f-84f_israel_iaf_1; F-84F
 f-84f_israel_iaf_2; F-84
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+mirage_3cj_shop; Miraž III CJ
+mirage_3cj_0;" Avions Marcel Dassault | Miraž III CJ ""Šahak"""
+mirage_3cj_1; Miraž III CJ
+mirage_3cj_2; Mirage
+kfir_c7_shop;Kfir C.7
+kfir_c7_0;ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir C.7
+kfir_c7_1;Kfir C.7
+kfir_c7_2;Kfir
+kfir_canard_shop;Kfir Gderot
+kfir_canard_0;ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir Gderot
+kfir_canard_1;Kfir Gderot
+kfir_canard_2;Kfir
+kfir_c2_shop;Kfir C.2
+kfir_c2_0;ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir C.2
+kfir_c2_1;Kfir C.2
+kfir_c2_2;Kfir
+kfir_c10_colombia_shop;◡ Kfir Block 60
+kfir_c10_colombia_0;◡ ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir Block 60
+kfir_c10_colombia_1;◡ Kfir Block 60
+kfir_c10_colombia_2;◡ Kfir
+f-4e_iaf_shop; F-4E-48-MC
+f-4e_iaf_0; McDonnell Douglas Corporation Model 98HO | F-4E-48-MC Kurnas
+f-4e_iaf_1; F-4E
+f-4e_iaf_2; F-4
+f-4e_kurnass_2000_shop; F-4E Kurnas 2000
+f-4e_kurnass_2000_0; McDonnell Douglas Corporation Model / ha-Ta'asiah ha-'Avirit le-Yisra'el | F-4E Kurnas 2000
+f-4e_kurnass_2000_1; F-4E Kurnas 2000
+f-4e_kurnass_2000_2; F-4E
+nesher_shop;Nešer A
+nesher_0;Avions Marcel Dassault-Breguet Aviation / ha-Ta'asiah ha-'Avirit le-Yisra'el | Nešer A
+nesher_1;Nešer A
+nesher_2;Nešer
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16a_block_10_iaf_shop; F-16A-15OCU-CF
+f_16a_block_10_iaf_0; General Dynamics Corporation | F-16A-15OCU-CF Neṣ
+f_16a_block_10_iaf_1; F-16A
+f_16a_block_10_iaf_2; F-16
+f_16c_block_40_barak_2_shop; F-16C-40L-CF
+f_16c_block_40_barak_2_0; General Dynamics Corporation | F-16C-40L-CF Barak II
+f_16c_block_40_barak_2_1; F-16C
+f_16c_block_40_barak_2_2; F-16
+f_16d_block_40_barak_2_shop; F-16D-40-CF
+f_16d_block_40_barak_2_0; General Dynamics Corporation | F-16D-40-CF Barak II
+f_16d_block_40_barak_2_1; F-16D
+f_16d_block_40_barak_2_2; F-16
 f_16i_sufa_shop; F-16I
 f_16i_sufa_0; Lockheed Martin Corporation | F-16I Sufah
 f_16i_sufa_1; F-16I
@@ -8966,6 +9010,18 @@ f_16a_block_10_netz_mod_shop; F-16A-15OCU-CF (1987)
 f_16a_block_10_netz_mod_0; General Dynamics Corporation | F-16A-15OCU-CF Neṣ (1987)
 f_16a_block_10_netz_mod_1; F-16A
 f_16a_block_10_netz_mod_2; F-16
+f_15a_iaf_shop; F-15A-18-MC (MSIP)
+f_15a_iaf_0; McDonnell Douglas Corporation Model 199-1C | F-15A-18-MC Baz (Multistage Improvement Program)
+f_15a_iaf_1; F-15A
+f_15a_iaf_2; F-15
+f_15c_baz_msip_shop; F-15C-40-MC (MSIP II)
+f_15c_baz_msip_0; McDonnell Douglas Corporation Model 199-1C | F-15C-40-MC Baz Mešupar (Multistage Improvement Program II)
+f_15c_baz_msip_1; F-15C
+f_15c_baz_msip_2; F-15
+f_15i_raam_shop; F-15I
+f_15i_raam_0; McDonnell Douglas Corporation Model 199-1C | F-15I Ra'am
+f_15i_raam_1; F-15I
+f_15i_raam_2; F-15
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
@@ -12518,30 +12574,10 @@ mirage_3e_shop;Mirage III E
 mirage_3e_0;Avions Marcel Dassault | Mirage III E
 mirage_3e_1;Mirage III E
 mirage_3e_2;Mirage
-mirage_3cj_shop; Mirage III CJ
-mirage_3cj_0;" Avions Marcel Dassault | Mirage III CJ ""Šaḥaḳ"""
-mirage_3cj_1; Mirage III CJ
-mirage_3cj_2; Mirage
 mirage_5ba_shop;▄ Mirage 5 BA
 mirage_5ba_0;▄ Avions Marcel Dassault-Breguet Aviation / Sociétés Anonyme Belge de Constructions Aéronautiques | Mirage 5 BA
 mirage_5ba_1;▄ Mirage 5 BA
 mirage_5ba_2;▄ Mirage
-kfir_canard_shop;Kfir Gderot
-kfir_canard_0;ha-Ta'asiyah ha-'Avirit le-Yisra'el | Kfir Gderot
-kfir_canard_1;Kfir Gderot
-kfir_canard_2;Kfir
-kfir_c2_shop;Kfir C.2
-kfir_c2_0;ha-Ta'asiyah ha-'Avirit le-Yisra'el | Kfir C.2
-kfir_c2_1;Kfir C.2
-kfir_c2_2;Kfir
-kfir_c7_shop;Kfir C.7
-kfir_c7_0;ha-Ta'asiyah ha-'Avirit le-Yisra'el | Kfir C.7
-kfir_c7_1;Kfir C.7
-kfir_c7_2;Kfir
-kfir_c10_colombia_shop;◡ Kfir Block 60
-kfir_c10_colombia_0;◡ ha-Ta'asiyah ha-'Avirit le-Yisra'el | Kfir Block 60
-kfir_c10_colombia_1;◡ Kfir Block 60
-kfir_c10_colombia_2;◡ Kfir
 caudron_cr714_shop;CR.174-C1
 caudron_cr714_0;"CR.174-C1 ""Cyclone"""
 caudron_cr714_1;CR.174-C1
@@ -13782,14 +13818,6 @@ mig_29_9_12b_hungary_shop;◔ MiG-29 (9-12B)
 mig_29_9_12b_hungary_0;◔ izd. 9-12B | MiG-29 Fulcrum-A
 mig_29_9_12b_hungary_1;◔ MiG-29
 mig_29_9_12b_hungary_2;◔ MiG-29
-f-4e_iaf_shop; F-4E-48-MC
-f-4e_iaf_0; McDonnell Douglas Corporation Model 98HO | F-4E-48-MC Ḳurnas
-f-4e_iaf_1; F-4E
-f-4e_iaf_2; F-4
-f-4e_kurnass_2000_shop;Ḳurnas 2000
-f-4e_kurnass_2000_0;Ḳurnas 2000
-f-4e_kurnass_2000_1;Ḳurnas 2000
-f-4e_kurnass_2000_2;Ḳurnas
 f-4m_fgr2_shop;Phantom F.G.R. Mk. 2
 f-4m_fgr2_0;McDonnell Douglas Corporation Model 98KD / British Aerospace Corporation | Phantom F.G.R. Mk. 2
 f-4m_fgr2_1;Phantom F.G.R. Mk. 2
@@ -13802,26 +13830,10 @@ f-4jk_shop;Phantom F. Mk. 3
 f-4jk_0;McDonnell Douglas Corporation Model 98NC / Naval Air Rework Facility | Phantom F. Mk. 3
 f-4jk_1;Phantom F. Mk. 3
 f-4jk_2;Phantom
-f_15a_iaf_shop; F-15A-18-MC (MSIP)
-f_15a_iaf_0; F-15A-18-MC Baz (Multistage Improvement Program)
-f_15a_iaf_1; F-15A
-f_15a_iaf_2; F-15
-f_15c_baz_msip_shop; F-15C-40-MC (MSIP II)
-f_15c_baz_msip_0; F-15C-40-MC Baz Mshupar (Multistage Improvement Program II)
-f_15c_baz_msip_1; F-15C
-f_15c_baz_msip_2; F-15
-f_15i_raam_shop; F-15I
-f_15i_raam_0; F-15I Ra'am
-f_15i_raam_1; F-15I
-f_15i_raam_2; F-15
 f_16a_block_15_adf_italy_shop;⛨ F-16A-15ADF-CF
 f_16a_block_15_adf_italy_0;⛨ F-16A-15ADF-CF Fighting Falcon
 f_16a_block_15_adf_italy_1;⛨ F-16A
 f_16a_block_15_adf_italy_2;⛨ F-16
-f_16a_block_10_iaf_shop; F-16A-15OCU-CF
-f_16a_block_10_iaf_0; F-16A-15OCU-CF Neṣ
-f_16a_block_10_iaf_1; F-16A
-f_16a_block_10_iaf_2; F-16
 f_16a_block_15_belgium_shop;▄ F-16A-15-CF
 f_16a_block_15_belgium_0;▄ F-16A-15-CF Fighting Falcon
 f_16a_block_15_belgium_1;▄ F-16A
@@ -13830,14 +13842,6 @@ f_16am_block_15_mlu_belgium_shop;▄ F-16AM-15-CF
 f_16am_block_15_mlu_belgium_0;▄ F-16AM-15-CF Fighting Falcon
 f_16am_block_15_mlu_belgium_1;▄ F-16AM
 f_16am_block_15_mlu_belgium_2;▄ F-16
-f_16d_block_40_barak_2_shop; F-16D-40-CF
-f_16d_block_40_barak_2_0; F-16D-40-CF Baraḳ II
-f_16d_block_40_barak_2_1; F-16D
-f_16d_block_40_barak_2_2; F-16
-f_16c_block_40_barak_2_shop; F-16C-40L-CF
-f_16c_block_40_barak_2_0; F-16C-40L-CF Baraḳ II
-f_16c_block_40_barak_2_1; F-16C
-f_16c_block_40_barak_2_2; F-16
 tiger_hap_france_shop;☨ Tigre HAP/F
 tiger_hap_france_0;☨ Tigre, Hélicoptère d'Appui Protection (Standard 1)
 tiger_hap_france_1;☨ Tigre HAP
@@ -14146,10 +14150,6 @@ tis_ma_shop;TIS (MA)
 tis_ma_0;TIS (MA)
 tis_ma_1;TIS (MA)
 tis_ma_2;TIS
-nesher_shop;Nešer S
-nesher_0;Avions Marcel Dassault-Breguet Aviation / ha-Ta'asiyah ha-'Avirit le-Yisra'el | Nešer S
-nesher_1;Nešer S
-nesher_2;Nešer
 uk_ram_90mm_aa_shop;Ram, Mk. II (O.Q.F., 3.7-inch, Mk. II)
 uk_ram_90mm_aa_0;Montreal Locomotive Work | Tank, Cruiser, Ram, Mk. II (Gun, O.Q.F., 3.7-inch, Mk. II)
 uk_ram_90mm_aa_1;Ram, Mk. II (3.7-inch)

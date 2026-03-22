@@ -3441,8 +3441,8 @@ us_t114_shop;T114 BAT
 us_t114_0;Vehicle, Armored, Full Tracked: Battalion Anti-Tank, T114
 us_t114_1;T114
 us_t114_2;Light tank
-us_magach_3_shop;▃ Magaḥ 3 (Baltan)
-us_magach_3_0;▃ Magaḥ 3 (Baltan)
+us_magach_3_shop;▃ Magaḥ 3 (Balṭan)
+us_magach_3_0;▃ Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M48 A3 | Ṭank Magaḥ 3 (Balṭan)
 us_magach_3_1;▃ Magaḥ 3
 us_magach_3_2;MBT
 us_t58_shop;T58
@@ -9024,10 +9024,42 @@ f_15i_raam_1; F-15I
 f_15i_raam_2; F-15
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+ah_1g_iaf_shop; AH-1G
+ah_1g_iaf_0; Bell Helicopter Company Model 209 | AH-1G Ṣefa' Alef
+ah_1g_iaf_1; AH-1G
+ah_1g_iaf_2; AH-1
+ah_1q_iaf_shop; AH-1Q
+ah_1q_iaf_0; AH-1Q Ṣefa Bet
+ah_1q_iaf_1; AH-1Q
+ah_1q_iaf_2; AH-1
+ah_1f_iaf_shop; AH-1S (MC) (CN)
+ah_1f_iaf_0; Bell Helicopter Textron Model 209 | AH-1S Ṣefa' Dalet (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)
+ah_1f_iaf_1; AH-1S
+ah_1f_iaf_2; AH-1
+md_500_tow_late_shop;MD 500/'Orev
+md_500_tow_late_0;MD 500/'Orev Lahaṭuṭ
+md_500_tow_late_1;MD 500/'Orev
+md_500_tow_late_2;MD 500
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+ah_64a_iaf_shop; AH-64A
+ah_64a_iaf_0; McDonnell Douglas Helicopter Systems | AH-64A Peten
+ah_64a_iaf_1; AH-64A
+ah_64a_iaf_2; AH-64
+ah_64a_peten_iaf_shop; AH-64A (Ṭayeset 113)
+ah_64a_peten_iaf_0;" McDonnell Douglas Helicopter Systems | AH-64A Peten (Ṭayeset 113 ""Ṭayeset ha-Ṣar'ah"")"
+ah_64a_peten_iaf_1; AH-64A
+ah_64a_peten_iaf_2; AH-64
+ah_64d_i_saraph_shop; AH-64D
+ah_64d_i_saraph_0; Boeing Rotorcraft Systems | AH-64D Saraf
+ah_64d_i_saraph_1; AH-64D
+ah_64d_i_saraph_2; AH-64
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+ah_60_iaf_shop;ABH Demonstrator
+ah_60_iaf_0;"Sikorsky Aircraft Corperation + Elbit Systems Armed Blackhawk Demonstrator ""Yanšuf Ḥamuš"""
+ah_60_iaf_1;ABH Demonstrator
+ah_60_iaf_2;ABH
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 
@@ -9036,6 +9068,78 @@ f_15i_raam_2; F-15
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+il_m_51_shop;Šerman M-51 (1975)
+il_m_51_0;Pressed Steel Car Company / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Šerman M-51 (1975)
+il_m_51_1;Šerman M-51
+il_m_51_2;Medium Tank
+il_m_51_w_shop;Šerman M-51 (Ṣ-814794)
+il_m_51_w_0;Detroit Arsenal Tank Plant / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Šerman M-51 (Ṣ-814794)
+il_m_51_w_1;Šerman M-51
+il_m_51_w_2;Medium tank
+il_m48a1_patton_III_shop;Magaḥ 1
+il_m48a1_patton_III_0;Chrysler Defense | Ṭank M48 A1 | Ṭank Magaḥ 1
+il_m48a1_patton_III_1;Magaḥ 1
+il_m48a1_patton_III_2;MBT
+il_magach_2_shop;Magaḥ 2
+il_magach_2_0;Chrysler Defense | Ṭank M48 A2 C | Ṭank Magaḥ 2
+il_magach_2_1;Magaḥ 2
+il_magach_2_2;Medium tank
+il_magach_3_idf_shop;Magaḥ 3
+il_magach_3_idf_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M48 A3 | Ṭank Magaḥ 3
+il_magach_3_idf_1;Magaḥ 3
+il_magach_3_idf_2;MBT
+il_magach_3_shop;Magaḥ 3 (Balṭan)
+il_magach_3_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M48 A3 | Ṭank Magaḥ 3 (Balṭan)
+il_magach_3_1;Magaḥ 3
+il_magach_3_2;MBT
+il_magach_6_shop;Magaḥ 6
+il_magach_6_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 | Ṭank Magaḥ 6
+il_magach_6_1;Magaḥ 6
+il_magach_6_2;MBT
+il_magach_6a_shop;Magaḥ 6A
+il_magach_6a_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 A1 | Ṭank Magaḥ 6 Alef
+il_magach_6a_1;Magaḥ 6A
+il_magach_6a_2;MBT
+il_magach_5_shop;Magaḥ 5
+il_magach_5_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M48 A5 | Ṭank Magaḥ 5
+il_magach_5_1;Magaḥ 5
+il_magach_5_2;MBT
+il_magach_6r_shop;Magaḥ 6R
+il_magach_6r_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 | Ṭank Magaḥ 6 Reš
+il_magach_6r_1;Magaḥ 6R
+il_magach_6r_2;MBT
+il_magach_6b_shop;Magaḥ 6B
+il_magach_6b_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 A1 E2 | Ṭank Magaḥ 6 Bet
+il_magach_6b_1;Magaḥ 6B
+il_magach_6b_2;MBT
+il_magach_6_rocket_shop;Magaḥ 6R (M261)
+il_magach_6_rocket_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 | Ṭank Magaḥ 6 Reš (M261 19-Round Lightweight Launcher)
+il_magach_6_rocket_1;Magaḥ 6R
+il_magach_6_rocket_2;MBT
+il_magach_6m_shop;Magaḥ 6M Tadaḥ
+il_magach_6m_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 | Magaḥ 6 Mem Tadaḥ
+il_magach_6m_1;Magaḥ 6M
+il_magach_6m_2;MBT
+il_magach_6c_shop;Magaḥ 6G
+il_magach_6c_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 A3 | Ṭank Magaḥ 6 Gimel
+il_magach_6c_1;Magaḥ 6G
+il_magach_6c_2;MBT
+il_magach_6b_gal_batash_shop;Magaḥ 6B Gal Baṭaš
+il_magach_6b_gal_batash_0;Chrysler Defense / ha-Ta'asiah ha-Ṣva'it Mif'al Slavin | Ṭank M60 A1 E2 | Ṭank Magaḥ 6 Bet Gal Baṭaš
+il_magach_6b_gal_batash_1;Magaḥ 6B
+il_magach_6b_gal_batash_2;MBT
+il_magach_7c_shop;Magaḥ 7G
+il_magach_7c_0;Magaḥ 7 Gimel
+il_magach_7c_1;Magaḥ 7G
+il_magach_7c_2;MBT
+il_magach_6b_gal_shop;Magaḥ 6B Gal
+il_magach_6b_gal_0;Magaḥ 6 Bet Gal
+il_magach_6b_gal_1;Magaḥ 6B
+il_magach_6b_gal_2;MBT
+il_tcm_20_shop;Zaḥalad 20 mm (Do-Kani)
+il_tcm_20_0;White Motor Company | Zaḥeli Lemeḥeṣah Dizel 20 Milimeter Mitnaye'a (Do-Kani)
+il_tcm_20_1;Zaḥalad 20 mm (Do-Kani)
+il_tcm_20_2;SPAA
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 il_m113_hvms_shop;Bardelas (HVMS 60)
@@ -12970,10 +13074,6 @@ il_tiran_6_shop;Ṭiran 6
 il_tiran_6_0;Ṭiran 6
 il_tiran_6_1;Ṭiran 6
 il_tiran_6_2;Medium tank
-il_tcm_20_shop;Zaḥalad TCM-20
-il_tcm_20_0;Zaḥeli Lemeḥeṣah Diesel TCM-20
-il_tcm_20_1;Zaḥalad TCM-20
-il_tcm_20_2;SPAA
 il_zsu_57_2_shop; ZSU-57-2
 il_zsu_57_2_0; ZSU-57-2
 il_zsu_57_2_1; ZSU-57-2
@@ -13034,78 +13134,10 @@ il_centurion_shot_kal_d_shop;Shoṭ Ḳal D
 il_centurion_shot_kal_d_0;Shoṭ Ḳal Dalet
 il_centurion_shot_kal_d_1;Shoṭ Ḳal D
 il_centurion_shot_kal_d_2;MBT
-il_magach_3_shop;Magaḥ 3 (Baltan)
-il_magach_3_0;Magaḥ 3 (Baltan)
-il_magach_3_1;Magaḥ 3
-il_magach_3_2;MBT
-il_magach_3_idf_shop;Magaḥ 3
-il_magach_3_idf_0;Magaḥ 3
-il_magach_3_idf_1;Magaḥ 3
-il_magach_3_idf_2;MBT
-il_magach_5_shop;Magaḥ 5
-il_magach_5_0;Magaḥ 5
-il_magach_5_1;Magaḥ 5
-il_magach_5_2;MBT
-il_magach_6b_gal_batash_shop;Magaḥ 6B Gal Baṭaš
-il_magach_6b_gal_batash_0;Magaḥ 6 Bet Gal Baṭaš
-il_magach_6b_gal_batash_1;Magaḥ 6
-il_magach_6b_gal_batash_2;MBT
-il_magach_6a_shop;Magaḥ 6A
-il_magach_6a_0;Magaḥ 6 Alef
-il_magach_6a_1;Magaḥ 6
-il_magach_6_rocket_shop;Magaḥ 6R (M261)
-il_magach_6_rocket_0;Magaḥ 6 Resh (M261 LWL)
-il_magach_6_rocket_1;Magaḥ 6
-il_magach_6_rocket_2;MBT
-il_magach_6a_2;MBT
-il_magach_6r_shop;Magaḥ 6R
-il_magach_6r_0;Magaḥ 6 Resh
-il_magach_6r_1;Magaḥ 6
-il_magach_6r_2;MBT
-il_magach_6c_shop;Magaḥ 6G
-il_magach_6c_0;Magaḥ 6 Gimel
-il_magach_6c_1;Magaḥ 6
-il_magach_6c_2;MBT
-il_magach_6m_shop;Magaḥ 6M Tadaḥ
-il_magach_6m_0;Magaḥ 6 Mem Tadaḥ
-il_magach_6m_1;Magaḥ 6
-il_magach_6m_2;MBT
-il_magach_6b_gal_shop;Magaḥ 6B Gal
-il_magach_6b_gal_0;Magaḥ 6 Bet Gal
-il_magach_6b_gal_1;Magaḥ 6
-il_magach_6b_gal_2;MBT
-il_magach_6b_shop;Magaḥ 6B
-il_magach_6b_0;Magaḥ 6 Bet
-il_magach_6b_1;Magaḥ 6
-il_magach_6b_2;MBT
-il_magach_6_shop;Magaḥ 6
-il_magach_6_0;Magaḥ 6
-il_magach_6_1;Magaḥ 6
-il_magach_6_2;MBT
-il_magach_7c_shop;Magaḥ 7G
-il_magach_7c_0;Magaḥ 7 Gimel
-il_magach_7c_1;Magaḥ 7
-il_magach_7c_2;MBT
-il_m_51_shop;M-51 Degem G
-il_m_51_0;M-51 Degem Gimel
-il_m_51_1;M-51
-il_m_51_2;Medium tank
 il_m163_vulcan_shop;Ḥoveṭ
 il_m163_vulcan_0;Ḥoveṭ
 il_m163_vulcan_1;Ḥoveṭ
 il_m163_vulcan_2;SPAA
-il_magach_2_shop;Magaḥ 2
-il_magach_2_0;Magaḥ 2
-il_magach_2_1;Magaḥ 2
-il_magach_2_2;Medium tank
-il_m48a1_patton_III_shop;Magaḥ 1
-il_m48a1_patton_III_0;Magaḥ 1
-il_m48a1_patton_III_1;Magaḥ 1
-il_m48a1_patton_III_2;Medium tank
-il_m_51_w_shop;M-51 (Ṣ-814794)
-il_m_51_w_0;M-51 (Ṣ-814794)
-il_m_51_w_1;M-51
-il_m_51_w_2;Medium tank
 il_merkava_mk_2d_shop;Merkavah Mk. 2B Baṭaš
 il_merkava_mk_2d_0;Merkavah Siman 2 Bet Baṭaš
 il_merkava_mk_2d_1;Merkavah Mk. 2
@@ -13490,22 +13522,6 @@ mi_35m_pakistan_shop;☪ Mi-35M3
 mi_35m_pakistan_0;☪ Mi-35M3
 mi_35m_pakistan_1;☪ Mi-35M
 mi_35m_pakistan_2;☪ Mi-35
-ah_1g_iaf_shop; AH-1G
-ah_1g_iaf_0; AH-1G Ṣefa Alef
-ah_1g_iaf_1; AH-1G
-ah_1g_iaf_2; AH-1
-md_500_tow_late_shop;MD 500/'Orev
-md_500_tow_late_0;MD 500/'Orev Lahaṭuṭ
-md_500_tow_late_1;MD 500/'Orev
-md_500_tow_late_2;MD 500
-ah_1q_iaf_shop; AH-1Q
-ah_1q_iaf_0; AH-1Q Ṣefa Bet
-ah_1q_iaf_1; AH-1Q
-ah_1q_iaf_2; AH-1
-ah_1f_iaf_shop; AH-1S (MC) (CN)
-ah_1f_iaf_0; AH-1S Ṣefa Dalet (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)
-ah_1f_iaf_1; AH-1S
-ah_1f_iaf_2; AH-1
 hkp2_shop;hkp 2
 hkp2_0;Sud-Aviation | helikopter 2
 hkp2_1;hkp 2
@@ -14130,22 +14146,6 @@ saab_a32a_red_adam_shop;A 32 A (F 17)
 saab_a32a_red_adam_0;Saab 32 | A 32 A Lansen (Blekinge flygflottilj (F 17))
 saab_a32a_red_adam_1;A 32 A
 saab_a32a_red_adam_2;A 32
-ah_64d_i_saraph_shop; AH-64D-I
-ah_64d_i_saraph_0; Boeing Rotorcraft Systems | AH-64D-I Saraf
-ah_64d_i_saraph_1; AH-64D
-ah_64d_i_saraph_2; AH-64
-ah_64a_iaf_shop; AH-64A
-ah_64a_iaf_0; McDonnell Douglas Helicopter Systems | AH-64A Peten
-ah_64a_iaf_1; AH-64A
-ah_64a_iaf_2; AH-64
-ah_64a_peten_iaf_shop; AH-64A (PV264)
-ah_64a_peten_iaf_0; McDonnell Douglas Helicopter Systems | AH-64A Peten (PV264)
-ah_64a_peten_iaf_1; AH-64A
-ah_64a_peten_iaf_2; AH-64
-ah_60_iaf_shop;ABH Demonstrator
-ah_60_iaf_0;"Sikorsky Aircraft Corperation + Elbit Systems Armed Blackhawk Demonstrator ""Yanšuf Ḥamuš"""
-ah_60_iaf_1;ABH Demonstrator
-ah_60_iaf_2;ABH
 tis_ma_shop;TIS (MA)
 tis_ma_0;TIS (MA)
 tis_ma_1;TIS (MA)

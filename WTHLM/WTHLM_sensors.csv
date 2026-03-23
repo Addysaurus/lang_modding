@@ -26,6 +26,19 @@ radar_surface_search;Surface Search
 radar_gtm;GTM
 radar_sea;Sea
 radar_gmti;GMTI
+radar_hms_mode/desc;Helmet Mounted Sight
+avionics_sensor_radar/desc;Radar
+avionics_sensor_irst/desc;Infrared search and track system
+avionics_sensor_radar_irst/desc;Radar/Infrared search and track system
+avionics_sensor_rwr/desc;Radar warning receiver
+avionics_sensor_lws/desc;Laser Warning Receiver
+avionics_sensor_mlws/des;Missile approach warning system
+avionics_aim_spi/desc;Aiming point for the selected weapon
+avionics_hmd/desc;Helmet Mounted Sight
+avionics_aim_laser_designator/desc;Laser designator
+CCIP/desc;Constantly computed impact point for the selected weapon
+sight_AUTO/desc;Ballistic computer for cannon weapons for air-to-air mod
+CCRP/desc;Continuously computed release point
 
 //RADARS
 sensors/us_sa_radar;SA
@@ -109,6 +122,7 @@ sensors/su_n_001ve;"Sistyema upravlyeniâ vooružyeniyem SUV-VÈ
 • Optiko-èlyektronnaâ priczyel'naâ sistyema OÈPS-27 <color=#ff6f00>IRST</color>"
 
 sensors/su_n_001vep;RLPK-27VEŠ Myeč-M <color=#ff6f00>RDR-PD</color>
+sensors/su_n_010m;"Radiolokaczionnyj priczyel'nyj komplyeks N010M ""Žuk-M"" <color=#ff6f00>RDR-PD</color>"
 sensors/su_n_035e;"Radiolokaczionnaâ sistyema upravlyeniâ N035 ""Irbis"" <color=#ff6f00>RDR-AESA</color>"
 sensors/su_v_004;V004 <color=#ff6f00>RDR-PESA</color>
 sensors/su_vn_001;VN001 <color=#ff6f00>RDR-AESA</color>
@@ -201,6 +215,7 @@ weapons/countermeasure_chaff_only_large_a32a/short;BOX-3
 aps/drozd;Komplyeks aktivnoj zaŝity 1030M-01 «Drozd»
 aps/arena_3;Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»
 aps/arena_m;Komplyeks aktivnoj zaŝity T09-A6-1 «Aryena-M»
+aps/iron_fist_ld;Iron Fist Light Decoupled
 
 //LWSs
 sensors/fr_antares_lws;ANTARES

@@ -86,7 +86,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Update "Ninth Wave" changes"
-        - **F-16C PoBIT** → **F-16C-52-MC (PoBIT)**. Statcard name → **Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (Post Block Integration Team)**.
+        - **F-16C PoBIT** → **F-16C-52Q-MC (PoBIT)**. Statcard name → **Lockheed Martin Corporation | F-16C-52Q-MC Fighting Falcon (Post Block Integration Team)**.
         - **F/A-18** (folder) → **F/A-18A-18 / C-52**.
         - **AH-64A** (killstreak): Statcard name → **McDonnell Douglas Helicopter Systems | Helicopter, Attack, AH-64A Apache**.
         - **M1296** → **M1296 ICVD**. Statcard name → **General Dynamics Land Systems | Combat Vehicle, Infantry, Dragoon, M1296**.
@@ -136,10 +136,10 @@ All dates are listed in DD-MM-YYYY format.
         - **ZTZ96B** → **ZTZ96B (2017)**. Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122 | ZTZ1996B Shì Zhǔ Zhàn Tankè (2017)**.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ122 | ZTZ1996B式主战坦克 (2017)**.
         - **Ba.65 A.80** → **Ba. 65 (A. 80)**. Statcard name → **Società Italiana Ernesto Breda | Ba. 65 (A. 80 R.C. 41)**.
-        - **WM-21** → **W.M.21.**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M.21. Sólyom közelfelderítő**.
+        - **WM-21** → **W.M.21**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M.21 Sólyom közelfelderítő**.
         - **Héja I**: Statcard name → **Reggiane Officine Meccaniche Italiane / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja I vadászrepülőgép**.
         - **Héja II**: Statcard name → **Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja II vadászrepülőgép**.
-        - **WM-23** → **W.M.23.**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M.23. Ezüst Nyíl vadászrepülőgép**.
+        - **WM-23** → **W.M.23**. Statcard name → **Weiss Manfréd Acél- és Fémművek | W.M.23 Ezüst Nyíl vadászrepülőgép**.
         - **Me 210 Ca-1**: Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 nehéz vadászrepülőgép**.
         - **Me 210 Ca-1 39M** → **Me 210 Ca-1 (36 M.)**. Statcard name → **Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 nehéz vadászrepülőgép (40 mm 36 M. légvédelmi gépágyú)**.
         - **Me 210 Ca** (Italy / Hungary) (folder) → **Me 210 Ca-1 / 1 (36 M.)**.
@@ -157,13 +157,173 @@ All dates are listed in DD-MM-YYYY format.
         - **Barak II/Sufa** (folder) → **F-16D-40 / I**.
         - **Eitan (P)** → **'Eitan Ṣariaḥ**. Statcard name → **Merkaz Šikum ve-'Aḥzakah 7000 | Nagma'š 'Eitan im Ṣariaḥ**.
             - Hebrew package: **Eitan (P)** → **איתן צריח**. Statcard name → **נגמ״ש איתן עם צריח | מרכז שיקום ואחזקה 7000**.
-    - Israel rework:
-        - **Spitfire F. Mk. IX** → **Spiṭfayer IX**. Statcard name → **Vickers Supermarine Type 361 | Spiṭfayer Degem IX**.
-            - Hebrew package: **Spitfire F. Mk. IX** → **IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | IX ספיטפייר דגם**.
-        - **Spitfire L.F. Mk. IXe (CW)** → **Spiṭfayer IX (KK)**. Statcard name → **Vickers Supermarine Type 361 | Spiṭfayer Degem IX (Knef Kṣoṣah)**.
-            - Hebrew package: **Spitfire L.F. Mk. IXe (CW)** → **(כ״ק) IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | (כנף קצוצה) IX ספיטפייר דגם**.
-        - **Weizman's Spitfire L.F. Mk. IXe** → **Weiṣman's Spiṭfayer IX**. Statcard name → **Vickers Supermarine Type 361 | 'Ezer Weiṣman's Spiṭfayer Degem IX**.
-            - Hebrew package: **Weizman's Spitfire L.F. Mk. IXe** → **של ויצמן IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | של עזר ויצמן IX ספיטפייר דגם**.
+    - Israel rework & Hebrew package (I apologize for all the horrible names in advance):
+        - Aircraft:
+            - **Spitfire F. Mk. IX** → **Spiṭfayer IX**. Statcard name → **Vickers Supermarine Type 361 | Spiṭfayer Degem IX**.
+                - Hebrew package: **Spitfire F. Mk. IX** → **IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | IX ספיטפייר דגם**.
+            - **Spitfire L.F. Mk. IXe (CW)** → **Spiṭfayer IX (KK)**. Statcard name → **Vickers Supermarine Type 361 | Spiṭfayer Degem IX (Knef Kṣoṣah)**.
+                - Hebrew package: **Spitfire L.F. Mk. IXe (CW)** → **(כ״ק) IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | (כנף קצוצה) IX ספיטפייר דגם**.
+            - **Weizman's Spitfire L.F. Mk. IXe** → **Weiṣman's Spiṭfayer IX**. Statcard name → **Vickers Supermarine Type 361 | 'Ezer Weiṣman's Spiṭfayer Degem IX**.
+                - Hebrew package: **Weizman's Spitfire L.F. Mk. IXe** → **של ויצמן IX ספיטפייר**. Statcard name → **Vickers Supermarine Type 361 | של עזר ויצמן IX ספיטפייר דגם**.
+            - **S.199** → **Si.210**. Statcard name → **Avia Motors C.210 | Si.210 "Sakin"**.
+                - Hebrew package: **S.199** → **סי.210**. Statcard name → **Avia Motors C.210 | "סי.210 "סכין**.
+            - **P-51D-20-NA** → **Pi-51 Di**. Statcard name → **North American Aviation NA-122 | Pi-51 Degem Di Musṭang**.
+                - Hebrew package: **P-51D-20-NA** → **פי-51 די**. Statcard name → **North American Aviation NA-122 | פי-51 דגם די מוסטנג**.
+            - **B-17G-95-DL** → **Bi-17 Ji**. Statcard name → **Boeing Airplane Company | Bi-17 Degem Ji Mivtzar Me'ofef**.
+                - Hebrew package: **B-17G-95-DL** → **בי-17 ג׳י**. Statcard name → **Boeing Airplane Company | בי-17 דגם ג׳י מבצר מעופף**.
+            - **Meteor N.F. Mk. 13** → **Meṭe'or 13**. Statcard name → **Gloster Aircraft Company G.47 / Armstrong Whitworth | Meṭe'or Degem 13**.
+                - Hebrew package: **Meteor N.F. Mk. 13** → **מטאור 13**. Statcard name → **Gloster Aircraft Company G.47 / Armstrong Whitworth | מטאור דגם 13**.
+            - **Meteor F. Mk. 8** → **Meṭe'or 8**. Statcard name → **Gloster Aircraft Company G.41K | Meṭe'or Degem 8**.
+                - Hebrew package: **Meteor F. Mk. 8** → **מטאור 8**. Statcard name → **Gloster Aircraft Company G.41K | מטאור דגם 8**.
+            - **Meteor F.R. Mk. 9** → **Meṭe'or 9**. Statcard name → **Gloster Aircraft Company G.41L | Meṭe'or Degem 9**.
+                - Hebrew package: **Meteor F.R. Mk. 9** → **מטאור 9**. Statcard name → **Gloster Aircraft Company G.41L | מטאור דגם 9**.
+            - **Mystère IV A** → **Misṭer IV**. Statcard name → **Avions Marcel Dassault | Misṭer IV** (Ah yes, Mr. IV).
+                - Hebrew package: **Mystère IV A** → **IV מיסטר**. Statcard name → **Avions Marcel Dassault | IV מיסטר**.
+            - **Super Mystère B2** → **Super Misṭer B-2**. Statcard name → **Avions Marcel Dassault | Super Misṭer B-2 "Sambad"** (Mr. B-2 is quite super I see).
+                - Hebrew package: **Super Mystère B2** → **סופר מיסטר ב-2**. Statcard name → **Avions Marcel Dassault | "סופר מיסטר ב-2 "סמב״ד**.
+            - **Sa'ar**: Statcard name → **Avions Marcel Dassault / ha-Ta'asiah ha-'Avirit le-Yisra'el | Sa'ar**.
+                - Hebrew package: **Sa'ar** → **סער**. Statcard name → **התעשייה האווירית לישראל / Avions Marcel Dassault | סער**.
+            - **Super Mystère B2 / Sa'ar** (folder) → **Super Misṭer B-2 / Sa'ar**.
+                - Hebrew package: **Super Mystère B2 / Sa'ar** → **סופר מיסטר ב-2 / סער**.
+            - **A-4H**: Statcard name → **McDonnell Douglas Corporation D-640 | A-4H 'Ayiṭ**.
+                - Hebrew package: Statcard name → **McDonnell Douglas Corporation D-640 | עיט A-4H**.
+            - **A-4E (AFC 418-II)**: Statcard name → **McDonnell Douglas Corporation D-640 | A-4E 'Ayiṭ (AFC 418-II)**.
+                - Hebrew package: Statcard name → **McDonnell Douglas Corporation D-640 | (AFC 418-II) עיט A-4E**.
+            - **A-4N**: Statcard name → **McDonnell Douglas Corporation D-640 | A-4N 'Ayiṭ**.
+                - Hebrew package: Statcard name → **McDonnell Douglas Corporation D-640 | עיט A-4N**.
+            - **A-4E (AFC 482)**: Statcard name → **McDonnell Douglas Corporation D-640 | A-4E 'Ayiṭ (AFC 482)**.
+                - Hebrew package: Statcard name → **McDonnell Douglas Corporation D-640 | (AFC 482) עיט A-4E**.
+            - **Vautour II A** (Israel & the hidden French Israeli one) → **Vuṭur A**. Statcard name → **Société nationale des constructions aéronautiques du Sud-Ouest | Vuṭur A**.
+                - Hebrew package: **Vautour II A** → **A ווטור**. Statcard name → **Société nationale des constructions aéronautiques du Sud-Ouest | A ווטור**.
+            - **Vautour II N (C)** → **Vuṭur N**. Statcard name → **Société nationale des constructions aéronautiques du Sud-Ouest | Vuṭur N**.
+                - Hebrew package: **Vautour II N (C)** → **N ווטור**. Statcard name → **Société nationale des constructions aéronautiques du Sud-Ouest | N ווטור**.
+            - **Vautour II A / N (C)** (folder) → **Vuṭur A / N**.
+                - Hebrew package: **Vautour II A / N (C)** → **N / A ווטור**.
+            - **F-84F-51-GK (Ṭayeset 200)**:
+                - Hebrew package: **F-84F-51-GK (Ṭayeset 200)** → **(טייסת 200) F-84F-51-GK**. Statcard name → **Republic Aviation Corporation | (טייסת 200) F-84F-51-GK Thunderstreak**.
+            - **F-84F-51-GK (EC 1/1)**: Statcard name → **Republic Aviation Corporation | F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 "Corse")**.
+            - **Mirage III CJ** → **Miraž III CJ**. Statcard name → **Avions Marcel Dassault | Miraž III CJ "Šahak"**.
+                - Hebrew package: **Mirage III CJ** → **CJ III מירז׳**. Statcard name → **Avions Marcel Dassault | "שחק" CJ III מירז׳**.
+            - **Kfir C.7**: Statcard name → **ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir C.7**.
+                - Hebrew package: **Kfir C.7** → **C.7 כפיר**. Statcard name → **התעשייה האווירית לישראל | C.7 כפיר**.
+            - **Kfir Gderot**: Statcard name → **ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir Gderot**.
+                - Hebrew package: **Kfir Gderot** → **כפיר גדרות**. Statcard name → **כפיר גדרות | התעשייה האווירית לישראל**.
+            - **Kfir C.2**: Statcard name → **ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir C.2**.
+                - Hebrew package: **Kfir C.2** → **C.2 כפיר**. Statcard name → **התעשייה האווירית לישראל | C.2 כפיר**.
+            - **Kfir Block 60**: Statcard name → **ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir Block 60**.
+                - Hebrew package: **Kfir Block 60** → **Kfir Block 60**. Statcard name → **התעשייה האווירית לישראל | Kfir Block 60**.
+            - **Nešer A**: Statcard name → **Avions Marcel Dassault-Breguet Aviation / ha-Ta'asiah ha-'Avirit le-Yisra'el | Nešer A**.
+                - Hebrew package: **Nešer A** → **A נשר**. Statcard name → **התעשייה האווירית לישראל / Avions Marcel Dassault-Breguet Aviation | A נשר**.
+            - **F-4E-48-MC**: Statcard name → **McDonnell Douglas Corporation Model 98HO | F-4E-48-MC Kurnas**.
+                - Hebrew package: **F-4E-48-MC**: Statcard name → **McDonnell Douglas Corporation Model 98HO | קורנס F-4E-48-MC**.
+            - **Ḳurnas 2000** → **F-4E Kurnas 2000**. Statcard name → **McDonnell Douglas Corporation Model / ha-Ta'asiah ha-'Avirit le-Yisra'el | F-4E Kurnas 2000**.
+                - Hebrew package: **Ḳurnas 2000** → **2000 קורנס F-4E**. Statcard name → **התעשייה האווירית לישראל / McDonnell Douglas Corporation Model | 2000 קורנס F-4E**.
+            - **F-16A-15OCU-CF**: Statcard name → **General Dynamics Corporation | F-16A-15OCU-CF Neṣ**.
+                - Hebrew package: **F-16A-15OCU-CF**: Statcard name → **General Dynamics Corporation | נץ F-16A-15OCU-CF**.
+            - **F-16A-15OCU-CF (1987)**:
+                - Hebrew package: **F-16A-15OCU-CF (1987)**: Statcard name → **General Dynamics Corporation | (1987) נץ F-16A-15OCU-CF**.
+            - **F-16C-40L-CF**: Statcard name → **General Dynamics Corporation | F-16C-40L-CF Barak II**.
+                - Hebrew package: **F-16C-40L-CF**: Statcard name → **General Dynamics Corporation | II ברק F-16C-40L-CF**.
+            - **F-16D-40-CF**: Statcard name → **General Dynamics Corporation | F-16D-40-CF Barak II**.
+                - Hebrew package: **F-16D-40-CF**: Statcard name → **General Dynamics Corporation | II ברק F-16D-40-CF**.
+            - **F-16I**: Statcard name → **General Dynamics Corporation | F-16I Sufah**.
+                - Hebrew package: **F-16I**: Statcard name → **General Dynamics Corporation | סופה F-16I**.
+            - **F-15A-18-MC (MSIP)**: Statcard name → **McDonnell Douglas Corporation Model 199-1C | F-15A-18-MC Baz (Multistage Improvement Program)**.
+                - Hebrew package: **F-15A-18-MC (MSIP)**: Statcard name → **McDonnell Douglas Corporation Model 199-1C | (Multistage Improvement Program) בז F-15A-18-MC**.
+            - **F-15C-40-MC (MSIP II)**: Statcard name → **McDonnell Douglas Corporation Model 199-1C | F-15C-40-MC Baz (Multistage Improvement Program II)**.
+                - Hebrew package: **F-15C-40-MC (MSIP II)**: Statcard name → **McDonnell Douglas Corporation Model 199-1C | (Multistage Improvement Program II) בז F-15C-40-MC**.
+            - **F-15I**: Statcard name → **McDonnell Douglas Corporation Model 199-1C | F-15I Ra'am**.
+                - Hebrew package: **F-15I**: Statcard name → **McDonnell Douglas Corporation Model 199-1C | רעם F-15I**.
+            - **AH-1G**: Statcard name → **Bell Helicopter Company Model 209 | AH-1G Ṣefa' Alef**.
+                - Hebrew package: **AH-1G**: Statcard name → **Bell Helicopter Company Model 209 | צפע א AH-1G**.
+            - **AH-1Q**: Statcard name → **Bell Helicopter Company Model 209 | AH-1Q Ṣefa' Bet**.
+                - Hebrew package: **AH-1Q**: Statcard name → **Bell Helicopter Company Model 209 | צפע ב AH-1Q**.
+            - **AH-1S (MC) (CN)**: Statcard name → **Bell Helicopter Textron Model 209 | AH-1S Ṣefa' Dalet (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)**.
+                - Hebrew package: **AH-1S (MC) (CN)**: Statcard name → **Bell Helicopter Textron Model 209 | (Cobra Night Imaging Thermal Equipment) (Modernized Cobra) צפע ד AH-1S**.
+            - **MD 500/'Orev** → **500 MD/'Orev**. Statcard name → **Boeing Rotorcraft Systems | AH-64A Saraf**.
+                - Hebrew package: **MD 500/'Orev** → **500 MD/עורב**. Statcard name → **Hughes Helicopters 500 MD | "דיפנדר "להטוט** **500 MD/עורב**. (I can't get it to format right, it's supposed to look like the short name does).
+            - **AH-64A** (USA / Israel & Israel):
+                - Hebrew package: Statcard name → **McDonnell Douglas Helicopter Systems | פתן AH-64A**.
+            - **AH-64A (PV264)** → **AH-64A (Ṭayeset 113)**. Statcard name → **McDonnell Douglas Helicopter Systems | AH-64A Peten (Ṭayeset 113 "Ṭayeset ha-Ṣar'ah")**.
+                - Hebrew package: **AH-64A (PV264)** → **(טייסת 113) AH-64A**. Statcard name → **McDonnell Douglas Helicopter Systems | ("טייסת 113 "טייסת הצרעה) פתן AH-64A**.
+            - **AH-64D-I** → **AH-64D**. Statcard name → **Boeing Rotorcraft Systems | AH-64A Saraf**.
+                - Hebrew package: **AH-64D-I** → **AH-64D**. Statcard name → **Boeing Rotorcraft Systems | שרף AH-64A**.
+            - **ABH Demonstrator**:
+                - Hebrew package: Statcard name → **Sikorsky Aircraft Corperation + Elbit Systems Armed Blackhawk Demonstrator "ינשוף חמוש"** (the formatting on this one isn't great but there's not really a good way to format this).
+        - Ground vehicles:
+            - **M-51 Degem G** → **Šerman M-51 (1975)**. Statcard name → **Pressed Steel Car Company / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Šerman M-51 (1975)**.
+                - Hebrew package: **M-51 Degem G** → **שרמן מ-51 (1975)**. Statcard name → **מרכז שיקום ואחזקה 7000 / Pressed Steel Car Company | טנק שרמן מ-51 (1975)**.
+            - **M-51 (Ṣ-814794)** → **Šerman M-51 (Ṣ-814794)**. Statcard name → **Detroit Arsenal Tank Plant / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Šerman M-51 (Ṣ-814794)**.
+                - Hebrew package: **M-51 (Ṣ-814794)** → **שרמן מ-51 (צ-814794)**. Statcard name → **מרכז שיקום ואחזקה 7000 / Detroit Arsenal Tank Plant | טנק שרמן מ-51 (צ-814794)**.
+            - **Magaḥ 2**: Statcard name → **Chrysler Defense | Ṭank M48 A2 C | Ṭank Magaḥ 2**.
+                - Hebrew package: **Magaḥ 2** → **מגח 2**. Statcard name → **Chrysler Defense | M48 A2 C טנק מגח 2 | טנק**.
+            - **Magaḥ 3**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M48 A3 | Ṭank Magaḥ 3**.
+                - Hebrew package: **Magaḥ 3** → **מגח 3**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M48 A3 טנק מגח 3 | טנק**.
+            - **Magaḥ 3 (Baltan)** (USA / Israel & Israel) → **Magaḥ 3 (Balṭan)**. Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M48 A3 | Ṭank Magaḥ 3 (Balṭan)**.
+                - Hebrew package: **Magaḥ 3 (Baltan)** → **מגח 3 (בלטן)**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M48 A3 טנק מגח 3 (בלטן) | טנק**.
+            - **Magaḥ 6**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 | Ṭank Magaḥ 6**.
+                - Hebrew package: **Magaḥ 6** → **מגח 6**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M60 טנק מגח 6 | טנק**.
+            - **Magaḥ 6A**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 A1 | Ṭank Magaḥ 6 Alef**.
+                - Hebrew package: **Magaḥ 6A** → **מגח 6א**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M60 A1 טנק מגח 6א | טנק**.
+            - **Magaḥ 5**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M48 A5 | Ṭank Magaḥ 5**.
+                - Hebrew package: **Magaḥ 5** → **מגח 5**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M48 A5 טנק מגח 5 | טנק**.
+            - **Magaḥ 6R**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 | Ṭank Magaḥ 6 Reš**.
+                - Hebrew package: **Magaḥ 6R** → **מגח 6ר**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M60 טנק מגח 6ר | טנק**.
+            - **Magaḥ 6B**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 A1 E2 | Ṭank Magaḥ 6 Bet**.
+                - Hebrew package: **Magaḥ 6B** → **מגח 6ב**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M60 A1 E2 טנק מגח 6ב | טנק**.
+            - **Magaḥ 6R (M261)**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 | Ṭank Magaḥ 6 Reš (M261 19-Round Lightweight Launcher)**.
+                - Hebrew package: **Magaḥ 6R (M261)** → **(M261) מגח 6ר**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M60 טנק | (M261 19-Round Lightweight Launcher) טנק מגח 6ר**.
+            - **Magaḥ 6M Tadaḥ**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 | Magaḥ 6 Mem Tadaḥ**.
+                - Hebrew package: **Magaḥ 6M Tadaḥ** → **מגח 6מ טד״ח**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M60 טנק מגח 6מ טד״ח | טנק**.
+            - **Magaḥ 6G**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 A3 | Ṭank Magaḥ 6 Gimel**.
+                - Hebrew package: **Magaḥ 6G** → **מגח 6ג**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M60 A3 טנק מגח 6ג | טנק**.
+            - **Magaḥ 6B Gal Baṭaš**: Statcard name → **Chrysler Defense / ha-Ta'asiah ha-Ṣva'it Mif'al Slavin | Ṭank M60 A1 E2 | Ṭank Magaḥ 6 Bet Gal Baṭaš**.
+                - Hebrew package: **Magaḥ 6B Gal Baṭaš** → **מגח 6ב גל בט״ש**. Statcard name → **התעשייה הצבאית מפעל סלבין / Chrysler Defense | M60 A1 E2 טנק מגח 6ב גל בט״ש | טנק**.
+            - **Magaḥ 7G**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Magaḥ 7 Gimel**.
+                - Hebrew package: **Magaḥ 7G** → **מגח 7ג**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | טנק מגח 7ג**.
+            - **Magaḥ 6B Gal**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 A1 E2 | Ṭank Magaḥ 6 Bet Gal**.
+                - Hebrew package: **Magaḥ 6B Gal** → **מגח 6ב גל**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M60 A1 E2 טנק מגח 6ב גל | טנק**.
+            - **AMX 13** → **'Ameks 13**. Statcard name → **Atelier de construction de Roanne | Ṭank Kal 'Ameks 13**.
+                - Hebrew package: **AMX 13** → **אמכס 13**. Statcard name → **Atelier de construction de Roanne | טנק קל אמכס 13**.
+            - **AML 90** → **Širyonit 'Amal 90**. Statcard name → **Panhard type 245 | Širyonit 'Amal 90**.
+                - Hebrew package: **AML 90** → **אמל 90**. Statcard name → **Panhard type 245 | שריונית אמל 90**.
+            - **Centurion, Mk. 5** → **Senṭuryon 5**. Statcard name → **Royal Ordnance Factory Leeds | Ṭank Senṭuryon Siman 5 "Šoṭ"**.
+                - Hebrew package: **Centurion, Mk. 5** → **סנטוריון 5**. Statcard name → **Royal Ordnance Factory Leeds | "טנק סנטוריון סימן 5 "שוט**.
+            - **Zaḥalad (TCM-20)** → **Zaḥalad 20 mm (Do-Kani)**. Statcard name → **White Motor Company | Zaḥeli Lemeḥeṣah Dizel 20 Milimeter Mitnaye'a (Do-Kani)**.
+                - Hebrew package: **Zaḥalad (TCM-20)** → **זחל״ד 20 מ״מ (דו-קני)**. Statcard name → **White Motor Company | זחלי למחצה דיזל 20 מ״מ מתנייע (דו-קני)**.
+            - **ZSU-57-2** → **Zi.'S.Yu.-57-2**. Statcard name → **Omskij zavod № 174 im. Vorošilova | Tomat Nem Zi.'Es.Yu.-57-2** (yes I hate it too).
+                - Hebrew package: **ZSU-57-2** → **זי.אס.יו.-2-57**. Statcard name → **Omskij zavod № 174 im. Vorošilova | תומ״ת נ״מ זי.אס.יו.-2-57**.
+                - Hebrew + Russian package: **ZSU-57-2** → **זי.אס.יו.-2-57**. Statcard name → **Омский завод № 174 им. Ворошилова | תומ״ת נ״מ זי.אס.יו.-2-57**.
+            - **Ḥoveṭ**: Statcard name → **General Electric Company | Tomat Nem Ḥoveṭ**.
+                - Hebrew package: **Ḥoveṭ** → **חובט**. Statcard name → **General Electric Company | תומ״ת נ״מ חובט**.
+            - **M109**: Statcard name → **Cadillac Motor Car Division | Tomat M109**.
+                - Hebrew package: **M109**: Statcard name → **Cadillac Motor Car Division | M109 תומ״ת**.
+            - **Rokhev A**: Statcard name → **Cadillac Motor Car Division / Merkaz Šikum ve-Aḥzakah 7000 | Tomat M109 A1 | Tomat Rokhev Alef**.
+                - Hebrew package: **Rokhev A** → **רוכב א**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M109 A1 תומ״ת רוכב א | תומ״ת**.
+            - **Zaḥalam (Tager)** → **Zaḥalam (Tager)**. Statcard name → **White Motor Company | Zaḥeli Lemeḥeṣah (Tager)**.
+                - Hebrew package: **Zaḥalam (Tager)** → **זחל״ם (תגר)**. Statcard name → **White Motor Company | זחלי למחצה (תגר)**.
+            - **Šolef V1**: Statcard name → **Soltam Me'rkot | Tomat Šolef V1**.
+                - Hebrew package: **Šolef V1** → **V1 שולף**. Statcard name → **סולתם מערכות | V1 תומ״ת שולף**.
+            - **Ṭiran 4**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | Ṭank Ṭiran 4**.
+                - Hebrew package: **Ṭiran 4** → **טירן 4**. Statcard name → **Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | טנק טירן 4**.
+                - Hebrew + Russian package: **Ṭiran 4** → **טירן 4**. Statcard name → **Уральский вагоностроительный завод им. И. В. Сталина | טנק טירן 4**.
+            - **Ṭiran 4Sh (early)** → **Ṭiran 4 Š (early)**. Statcard name → **Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina / Ḥil ha-Ḥimuš | Ṭank Ṭiran 4 Šrir (early)**.
+                - Hebrew package: **Ṭiran 4Sh (early)** → **(early) טירן 4 ש**. Statcard name → **חיל החימוש / Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | (early) טנק טירן 4 שריר**.
+                - Hebrew + Russian package: **Ṭiran 4Sh (early)** → **(early) טירן 4 ש**. Statcard name → **חיל החימוש / Уральский вагоностроительный завод им. И. В. Сталина | (early) טנק טירן 4 שריר**.
+            - **Ṭiran 6**: Statcard name → **Ural'skim vagonostroityel'nym zavodom im. F. È. Dzyeržinskogo / Ḥil ha-Ḥimuš | Ṭank Ṭiran 6**.
+                - Hebrew package: **Ṭiran 6** → **טירן 6**. Statcard name → **חיל החימוש / Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | טנק טירן 6**.
+                - Hebrew + Russian package: **Ṭiran 6** → **טירן 6**. Statcard name → **חיל החימוש / Уральский вагоностроительный завод им. И. В. Сталина | טנק טירן 6**.
+            - **ZSU-23-4** → **Gu'ndiš**. Statcard name → **Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | Tomat Nem Zi.'Es.Yu.-23-4 | Tomat Nem Gu'ndiš**.
+                - Hebrew package: **ZSU-23-4** → **גאנדיש**. Statcard name → **Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | תומ״ת נ״מ גאנדיש | תומ״ת נ״מ זי.אס.יו.-4-23**.
+                - Hebrew + Russian package: **ZSU-23-4** → **גאנדיש**. Statcard name → **Мытищинский ордена Отечественной войны 1 степени машиностроительный завод | תומ״ת נ״מ גאנדיש | תומ״ת נ״מ זי.אס.יו.-4-23**.
+            - **Bardelas (HVMS 60)**: Statcard name → **FMC Corporation / ha-Ta'asiah ha-Ṣva'it | Nagma'š M113 A2 | Nagma'š Bardelas (60 mm Hyper-Velocity Medium Support Weapon System)**.
+                - Hebrew package: **Bardelas (HVMS 60)** → **גאנדיש**. Statcard name → **התעשייה הצבאית / FMC Corporation | M113 A2 נגמ׳ש | (60 mm Hyper-Velocity Medium Support Weapon System) נגמ׳ש ברדלס**.
+            - **Shoṭ Ḳal A** → **Šoṭ Kal A**. Statcard name → **Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Alef**.
+                - Hebrew package: **Shoṭ Ḳal A** → **שוט קל א**. Statcard name → **חיל החימוש / Royal Ordnance Factory Leeds | טנק שוט קל א**.
+            - **Shoṭ Ḳal G** → **Šoṭ Kal G**. Statcard name → **Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Gimel**.
+                - Hebrew package: **Shoṭ Ḳal G** → **שוט קל ג**. Statcard name → **חיל החימוש / Royal Ordnance Factory Leeds | טנק שוט קל ג**.
+            - **Shoṭ Ḳal D** (UK / Israel & Israel) → **Šoṭ Kal D**. Statcard name → **Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Dalet**.
+                - Hebrew package: **Shoṭ Ḳal D** → **שוט קל ד**. Statcard name → **חיל החימוש / Royal Ordnance Factory Leeds | טנק שוט קל ד**.
     - Hungarian air rework:
         - **He 112 B-1/U2** (Germany / Hungary): Statcard name → **Heinkel Flugzeugwerke | He 112 B-1/U2 vadászrepülőgép**.
         - **Bf 110 G-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 110 G-4 éjjeli vadász**.
@@ -236,6 +396,8 @@ All dates are listed in DD-MM-YYYY format.
         - **95Ya6M** (launcher)
         - **TKB-1055**
         - **EPW2**
+        - **155 mm L/31 howitzer**
+        - **155 mm L/39 howitzer**
         - **30 mm ZTM-1 automatic cannon**
         - **30 mm AG-17 automatic grenade launcher**
         - **105 mm Type 91 howitzer**
@@ -285,6 +447,8 @@ All dates are listed in DD-MM-YYYY format.
         - **TKB-1055**:
             - Full Ammunition Names package: **TKB-1055** → **Zyenitnaâ upravlâyemaâ rakyeta TKB-1055**.
         - **EPW2** → **EPWII**. Statcard name → **Bomb, 1000 lb, Enhanced Paveway II**.
+        - **155 mm L/31 howitzer** → **Ordnance, 155mm, L31A1**.
+        - **155 mm L/39 howitzer** → **Ordnance, 155mm, L22**.
         - **30 mm ZTM-1 automatic cannon** → **30-mm avtomatična harmata ZTM-1**.
             - Ukrainian package: **30 mm ZTM-1 automatic cannon** → **30-мм автоматична гармата ЗТМ-1**.
         - **30 mm AG-17 automatic grenade launcher** → **30-mm avtomatičnij hranatomyet KBA-117**.
@@ -322,6 +486,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Wgr.41 Spr** → **43 M. rakétagránát**. Statcard name → **15 cm-es 43 M. rakétagránát**.
         - **138.6 mm/40 model 1923** → **Canon de 138 mm/40 mle. 1923**. Statcard name → **Canon de 138 mm/40 modèle 1923**.
         - **F1 HE** → **OE 120 F1**.
+            - Full Ammunition Names package: **F1 HE** → **Cartouche à obus explosif de 120 mm modèle F1**.
         - **I-Derby ER**: Statcard name → **I-Derby Extended Range**.
         - **Python 5** (like a SAM one I think) → **Python 5 SR**
     - **Piton 5 SR** → **Python 5 SR**. Statcard name → **Python 5 Short Range**. It's an export missile so it doesn't get it's IDF Piton name.
@@ -361,6 +526,44 @@ All dates are listed in DD-MM-YYYY format.
         - For this update, not all modifications have had their descriptions changed because modification descriptions take a lot of time and we are in the process of reworking our modification format anyway right now (since it's inconsistent and kind of horrid), so it would be pointless to rename it now just to do so again later under a new format (and also this update is kind of on crunch time).
     - Corrected the display of the **K/AKK5C** modification in the Full Ammunition Names Full Mandarin + Russian package.
 
+### Engines & Transmissions:
+
+- #### Additions:
+
+    - Update "Ninth Wave" additions:
+        - **ZF** (manufacturer)
+        - **Weiss Manfred** (manufacturer)
+        - **Scania-Vabis** (manufacturer)
+        - **F100-PW-200**
+        - **VTA903T V8**
+        - **3200 SP**
+        - **4800 SP**
+        - **MTU 8V 199 TE21-D**
+        - **Friedrichshafen LSG 2000**
+        - **ZF 7HP 902**
+        - **VK-105RA**
+        - **RD-33K**
+        - **T700-IHI-701C**
+        - **VECTOR 8V**
+        - **WM K-14A**
+        - **WM K-14B**
+        - **603/2**
+
+- #### Changes:
+
+    - Update "Ninth Wave" additions:
+        - **ZF** (manufacturer) → **ZF Friedrichshafen**.
+        - **Weiss Manfred** (manufacturer) → **Société des moteurs Gnome et Rhône / Weiss Manfréd Acél- és Fémművek**.
+        - **VTA903T V8** → **VTA-903T**.
+        - **Friedrichshafen LSG 2000** → **LSG 2000**.
+        - **VK-105RA** → **Motor VK-105RA**.
+        - **RD-33K** → **Dvigatyel' RD-33K**.
+        - **VECTOR 8V** → **Vector 8V Euro III**.
+        - **ZF 7HP 902** → **7 HP 902**.
+        - **WM K-14A** → **W.M.14 Kirs NO motor** (i fuckin hate these W.M.14 engines so much).
+        - **WM K-14B** → **W.M.14 B motor**.
+        - **603/2** → **typ 603/2**.
+
 ### Sensors:
 
 - #### Additions:
@@ -369,6 +572,8 @@ All dates are listed in DD-MM-YYYY format.
         - **1RS1-4**
         - **1RS2-3**
         - **Large caliber chaff countermeasures** (for the **A 32 A**)
+        - **Iron Fist Light Decoupled**
+        - A bunch of new /desc texts because of the new statcards.
 
 - #### Changes:
 
@@ -377,6 +582,7 @@ All dates are listed in DD-MM-YYYY format.
         - **1RS2-3** → **Mnogofunkczional'naâ radiolokaczionnaâ stancziâ 1RS2-3 "Šlyem"**.
         - **Large caliber chaff countermeasures** (for the **A 32 A**) → **BOX-3**.
     - **Thorium** → **Radiolokaczionnaâ stancziâ Torij-A**.
+    - **N010M Zhuk-M** → **Radiolokaczionnyj priczyel'nyj komplyeks N010M "Žuk-M"**.
     - **Type 930** → **930 Léidá Gàojing Shèbèi** ([Report](https://github.com/Addysaurus/lang_modding/issues/127)).
         - Mandarin package: **Type 930** → **930雷达告警设备**.
     - Corrected the display of the **208A**, **1473**, **JL-7A**, and **930-4** ([Report](https://github.com/Addysaurus/lang_modding/issues/127)).

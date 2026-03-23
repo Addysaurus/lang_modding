@@ -1630,9 +1630,9 @@ shop/group/il_merkava_3_group;Merkavah Mk. 3 Ramaḥ / B Baz
 shop/group/il_merkava_4_group;"Merkavah Mk. 4B / B ""LIC"""
 shop/group/il_magach_6_6a_group;Magaḥ 6 / 6A
 shop/group/il_magach_6_group;Magaḥ 6B / R / R (M261)
+shop/group/md_460_iaf_group; Super Misṭer B-2 / Sa'ar
 shop/group/a_4_iaf_group; A-4H / E (AFC 418-II)
-shop/group/so_4050_vautour_iaf_group; Vautour II A / N (C)
-shop/group/md_460_iaf_group; Super Mystère B2 / Sa'ar
+shop/group/so_4050_vautour_iaf_group; Vuṭur A / N
 shop/group/f_4e_f_15_iaf_group; F-4E Kurnas 2000 / 15A-18
 shop/group/f_16d_iaf_group; F-16D-40 / I
 
@@ -2853,8 +2853,8 @@ f_16c_block_50_shop;F-16C-50-CF (CCIP) (2007)
 f_16c_block_50_0;F-16C-50-CF Fighting Falcon (Common Configuration Implementation Program) (2007)
 f_16c_block_50_1;F-16C
 f_16c_block_50_2;F-16
-f_16c_block_52_aesa_shop;F-16C-52-MC (PoBIT)
-f_16c_block_52_aesa_0;Lockheed Martin Corporation | F-16C-52-MC Fighting Falcon (Post Block Integration Team)
+f_16c_block_52_aesa_shop;F-16C-52Q-MC (PoBIT)
+f_16c_block_52_aesa_0;Lockheed Martin Corporation | F-16C-52Q-MC Fighting Falcon (Post Block Integration Team)
 f_16c_block_52_aesa_1;F-16C
 f_16c_block_52_aesa_2;F-16
 f_15a_shop;F-15A-18-MC (MSIP)
@@ -3441,8 +3441,8 @@ us_t114_shop;T114 BAT
 us_t114_0;Vehicle, Armored, Full Tracked: Battalion Anti-Tank, T114
 us_t114_1;T114
 us_t114_2;Light tank
-us_magach_3_shop;▃ Magaḥ 3 (Baltan)
-us_magach_3_0;▃ Magaḥ 3 (Baltan)
+us_magach_3_shop;▃ Magaḥ 3 (Balṭan)
+us_magach_3_0;▃ Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M48 A3 | Ṭank Magaḥ 3 (Balṭan)
 us_magach_3_1;▃ Magaḥ 3
 us_magach_3_2;MBT
 us_t58_shop;T58
@@ -8104,10 +8104,10 @@ ba_65_a80_shop;Ba. 65 (A. 80)
 ba_65_a80_0;Società Italiana Ernesto Breda | Ba. 65 (A. 80 R.C. 41)
 ba_65_a80_1;Ba. 65
 ba_65_a80_2;Ba. 65
-wm_21_shop;W.M.21.
-wm_21_0;Weiss Manfréd Acél- és Fémművek | W.M.21. Sólyom közelfelderítő
-wm_21_1;W.M.21.
-wm_21_2;W.M.21.
+wm_21_shop;W.M.21
+wm_21_0;Weiss Manfréd Acél- és Fémművek | W.M.21 Sólyom közelfelderítő
+wm_21_1;W.M.21
+wm_21_2;W.M.21
 re_2000_heja_1_shop;Héja I
 re_2000_heja_1_0;Reggiane Officine Meccaniche Italiane / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja I vadászrepülőgép
 re_2000_heja_1_1;Héja I
@@ -8118,10 +8118,10 @@ re_2000_heja_2_1;Héja II
 re_2000_heja_2_2;Héja
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
-wm_23_shop;W.M.23.
-wm_23_0;Weiss Manfréd Acél- és Fémművek | W.M.23. Ezüst Nyíl vadászrepülőgép
-wm_23_1;W.M.23.
-wm_23_2;W.M.23.
+wm_23_shop;W.M.23
+wm_23_0;Weiss Manfréd Acél- és Fémművek | W.M.23 Ezüst Nyíl vadászrepülőgép
+wm_23_1;W.M.23
+wm_23_2;W.M.23
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 me_210ca_1_hungary_shop;◐ Me 210 Ca-1
@@ -8428,6 +8428,10 @@ sb_25j_netherlands_2;◘ B-25
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+f-84f_iaf_shop;☨ F-84F-51-GK (EC 1/1)
+f-84f_iaf_0;"☨ Republic Aviation Corporation | F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 ""Corse"")"
+f-84f_iaf_1;☨ F-84F
+f-84f_iaf_2;☨ F-84
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 mirage_5f_shop;Mirage 5 F
@@ -8870,8 +8874,32 @@ spitfire_lf_mk9e_weisman_shop; Weiṣman's Spiṭfayer IX
 spitfire_lf_mk9e_weisman_0; Vickers Supermarine Type 361 | 'Ezer Weiṣman's Spiṭfayer Degem IX
 spitfire_lf_mk9e_weisman_1; Spiṭfayer IX
 spitfire_lf_mk9e_weisman_2; Spiṭfayer
+s_199_shop; Si.210
+s_199_0;" Avia Motors C.210 | Si.210 ""Sakin"""
+s_199_1; Si.210
+s_199_2; Si.210
+p-51d-20-na_iaf_shop; Pi-51 Di
+p-51d-20-na_iaf_0; North American Aviation NA-122 | Pi-51 Degem Di Musṭang
+p-51d-20-na_iaf_1; Pi-51 Di
+p-51d-20-na_iaf_2; Pi-51
+b-17g_iaf_shop; Bi-17 Ji
+b-17g_iaf_0; Boeing Airplane Company | Bi-17 Degem Ji Mivtzar Me'ofef
+b-17g_iaf_1; Bi-17 Ji
+b-17g_iaf_2; Bi-17
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+meteor_nfmk13_shop; Meṭe'or 13
+meteor_nfmk13_0; Gloster Aircraft Company G.47 / Armstrong Whitworth | Meṭe'or Degem 13
+meteor_nfmk13_1; Meṭe'or 13
+meteor_nfmk13_2; Meṭe'or
+meteor_fmk8_iaf_shop; Meṭe'or 8
+meteor_fmk8_iaf_0; Gloster Aircraft Company G.41K | Meṭe'or Degem 8
+meteor_fmk8_iaf_1; Meṭe'or 8
+meteor_fmk8_iaf_2; Meṭe'or
+meteor_frmk9_iaf_shop; Meṭe'or 9
+meteor_frmk9_iaf_0; Gloster Aircraft Company G.41L | Meṭe'or Degem 9
+meteor_frmk9_iaf_1; Meṭe'or 9
+meteor_frmk9_iaf_2; Meṭe'or
 md_450b_ouragan_iaf_shop; 'Organ
 md_450b_ouragan_iaf_0; Avions Marcel Dassault | M.D.450B 'Organ
 md_450b_ouragan_iaf_1; 'Organ
@@ -8882,10 +8910,98 @@ md_450b_ouragan_iaf_29_1; 'Organ
 md_450b_ouragan_iaf_29_2; 'Organ
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+md_454_mystere_4a_iaf_shop; Misṭer IV
+md_454_mystere_4a_iaf_0; Avions Marcel Dassault | Misṭer IV
+md_454_mystere_4a_iaf_1; Misṭer IV
+md_454_mystere_4a_iaf_2; Misṭer
+md_460_sambad_shop; Super Misṭer B-2
+md_460_sambad_0;" Avions Marcel Dassault | Super Misṭer B-2 ""Sambad"""
+md_460_sambad_1; Super Misṭer B-2
+md_460_sambad_2; Super Misṭer
+md_460_saar_shop;Sa'ar
+md_460_saar_0;Avions Marcel Dassault / ha-Ta'asiah ha-'Avirit le-Yisra'el | Sa'ar
+md_460_saar_1;Sa'ar
+md_460_saar_2;Sa'ar
+a_4h_shop; A-4H
+a_4h_0; McDonnell Douglas Corporation D-640 | A-4H 'Ayiṭ
+a_4h_1; A-4H
+a_4h_2; A-4
+a_4e_early_iaf_shop; A-4E (AFC 418-II)
+a_4e_early_iaf_0; McDonnell Douglas Corporation D-640 | A-4E 'Ayiṭ (AFC 418-II)
+a_4e_early_iaf_1; A-4E
+a_4e_early_iaf_2; A-4
+a_4n_shop; A-4N
+a_4n_0;McDonnell Douglas Corporation D-640 | A-4N 'Ayiṭ
+a_4n_1; A-4N
+a_4n_2; A-4
+a_4e_late_iaf_shop; A-4E (AFC 482)
+a_4e_late_iaf_0; McDonnell Douglas Corporation D-640 | A-4E 'Ayiṭ (AFC 482)
+a_4e_late_iaf_1; A-4E
+a_4e_late_iaf_2; A-4
+so_4050_vautour_2a_israel_iaf_shop; Vuṭur A
+so_4050_vautour_2a_israel_iaf_0; Société nationale des constructions aéronautiques du Sud-Ouest | Vuṭur A
+so_4050_vautour_2a_israel_iaf_1; Vuṭur A
+so_4050_vautour_2a_israel_iaf_2; Vuṭur
+so_4050_vautour_2n_iaf_shop; Vuṭur N
+so_4050_vautour_2n_iaf_0; Société nationale des constructions aéronautiques du Sud-Ouest | Vuṭur N
+so_4050_vautour_2n_iaf_1; Vuṭur N
+so_4050_vautour_2n_iaf_2; Vuṭur
+so_4050_vautour_2a_iaf_shop;☨ Vuṭur A
+so_4050_vautour_2a_iaf_0;☨ Société nationale des constructions aéronautiques du Sud-Ouest | Vuṭur A
+so_4050_vautour_2a_iaf_1;☨ Vuṭur A
+so_4050_vautour_2a_iaf_2;☨ Vuṭur
+f-84f_israel_iaf_shop; F-84F-51-GK (Ṭayeset 200)
+f-84f_israel_iaf_0; F-84F-51-GK Thunderstreak (Ṭayeset 200)
+f-84f_israel_iaf_1; F-84F
+f-84f_israel_iaf_2; F-84
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+mirage_3cj_shop; Miraž III CJ
+mirage_3cj_0;" Avions Marcel Dassault | Miraž III CJ ""Šahak"""
+mirage_3cj_1; Miraž III CJ
+mirage_3cj_2; Mirage
+kfir_c7_shop;Kfir C.7
+kfir_c7_0;ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir C.7
+kfir_c7_1;Kfir C.7
+kfir_c7_2;Kfir
+kfir_canard_shop;Kfir Gderot
+kfir_canard_0;ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir Gderot
+kfir_canard_1;Kfir Gderot
+kfir_canard_2;Kfir
+kfir_c2_shop;Kfir C.2
+kfir_c2_0;ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir C.2
+kfir_c2_1;Kfir C.2
+kfir_c2_2;Kfir
+kfir_c10_colombia_shop;◡ Kfir Block 60
+kfir_c10_colombia_0;◡ ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir Block 60
+kfir_c10_colombia_1;◡ Kfir Block 60
+kfir_c10_colombia_2;◡ Kfir
+f-4e_iaf_shop; F-4E-48-MC
+f-4e_iaf_0; McDonnell Douglas Corporation Model 98HO | F-4E-48-MC Kurnas
+f-4e_iaf_1; F-4E
+f-4e_iaf_2; F-4
+f-4e_kurnass_2000_shop; F-4E Kurnas 2000
+f-4e_kurnass_2000_0; McDonnell Douglas Corporation Model / ha-Ta'asiah ha-'Avirit le-Yisra'el | F-4E Kurnas 2000
+f-4e_kurnass_2000_1; F-4E Kurnas 2000
+f-4e_kurnass_2000_2; F-4E
+nesher_shop;Nešer A
+nesher_0;Avions Marcel Dassault-Breguet Aviation / ha-Ta'asiah ha-'Avirit le-Yisra'el | Nešer A
+nesher_1;Nešer A
+nesher_2;Nešer
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16a_block_10_iaf_shop; F-16A-15OCU-CF
+f_16a_block_10_iaf_0; General Dynamics Corporation | F-16A-15OCU-CF Neṣ
+f_16a_block_10_iaf_1; F-16A
+f_16a_block_10_iaf_2; F-16
+f_16c_block_40_barak_2_shop; F-16C-40L-CF
+f_16c_block_40_barak_2_0; General Dynamics Corporation | F-16C-40L-CF Barak II
+f_16c_block_40_barak_2_1; F-16C
+f_16c_block_40_barak_2_2; F-16
+f_16d_block_40_barak_2_shop; F-16D-40-CF
+f_16d_block_40_barak_2_0; General Dynamics Corporation | F-16D-40-CF Barak II
+f_16d_block_40_barak_2_1; F-16D
+f_16d_block_40_barak_2_2; F-16
 f_16i_sufa_shop; F-16I
 f_16i_sufa_0; Lockheed Martin Corporation | F-16I Sufah
 f_16i_sufa_1; F-16I
@@ -8894,12 +9010,56 @@ f_16a_block_10_netz_mod_shop; F-16A-15OCU-CF (1987)
 f_16a_block_10_netz_mod_0; General Dynamics Corporation | F-16A-15OCU-CF Neṣ (1987)
 f_16a_block_10_netz_mod_1; F-16A
 f_16a_block_10_netz_mod_2; F-16
+f_15a_iaf_shop; F-15A-18-MC (MSIP)
+f_15a_iaf_0; McDonnell Douglas Corporation Model 199-1C | F-15A-18-MC Baz (Multistage Improvement Program)
+f_15a_iaf_1; F-15A
+f_15a_iaf_2; F-15
+f_15c_baz_msip_shop; F-15C-40-MC (MSIP II)
+f_15c_baz_msip_0; McDonnell Douglas Corporation Model 199-1C | F-15C-40-MC Baz Mešupar (Multistage Improvement Program II)
+f_15c_baz_msip_1; F-15C
+f_15c_baz_msip_2; F-15
+f_15i_raam_shop; F-15I
+f_15i_raam_0; McDonnell Douglas Corporation Model 199-1C | F-15I Ra'am
+f_15i_raam_1; F-15I
+f_15i_raam_2; F-15
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+ah_1g_iaf_shop; AH-1G
+ah_1g_iaf_0; Bell Helicopter Company Model 209 | AH-1G Ṣefa' Alef
+ah_1g_iaf_1; AH-1G
+ah_1g_iaf_2; AH-1
+ah_1q_iaf_shop; AH-1Q
+ah_1q_iaf_0; AH-1Q Ṣefa Bet
+ah_1q_iaf_1; AH-1Q
+ah_1q_iaf_2; AH-1
+ah_1f_iaf_shop; AH-1S (MC) (CN)
+ah_1f_iaf_0; Bell Helicopter Textron Model 209 | AH-1S Ṣefa' Dalet (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)
+ah_1f_iaf_1; AH-1S
+ah_1f_iaf_2; AH-1
+md_500_tow_late_shop;MD 500/'Orev
+md_500_tow_late_0;MD 500/'Orev Lahaṭuṭ
+md_500_tow_late_1;MD 500/'Orev
+md_500_tow_late_2;MD 500
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+ah_64a_iaf_shop; AH-64A
+ah_64a_iaf_0; McDonnell Douglas Helicopter Systems | AH-64A Peten
+ah_64a_iaf_1; AH-64A
+ah_64a_iaf_2; AH-64
+ah_64a_peten_iaf_shop; AH-64A (Ṭayeset 113)
+ah_64a_peten_iaf_0;" McDonnell Douglas Helicopter Systems | AH-64A Peten (Ṭayeset 113 ""Ṭayeset ha-Ṣar'ah"")"
+ah_64a_peten_iaf_1; AH-64A
+ah_64a_peten_iaf_2; AH-64
+ah_64d_i_saraph_shop; AH-64D
+ah_64d_i_saraph_0; Boeing Rotorcraft Systems | AH-64D Saraf
+ah_64d_i_saraph_1; AH-64D
+ah_64d_i_saraph_2; AH-64
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+ah_60_iaf_shop;ABH Demonstrator
+ah_60_iaf_0;"Sikorsky Aircraft Corperation + Elbit Systems Armed Blackhawk Demonstrator ""Yanšuf Ḥamuš"""
+ah_60_iaf_1;ABH Demonstrator
+ah_60_iaf_2;ABH
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 
@@ -8908,12 +9068,152 @@ f_16a_block_10_netz_mod_2; F-16
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+il_m_51_shop;Šerman M-51 (1975)
+il_m_51_0;Pressed Steel Car Company / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Šerman M-51 (1975)
+il_m_51_1;Šerman M-51
+il_m_51_2;Medium Tank
+il_m_51_w_shop;Šerman M-51 (Ṣ-814794)
+il_m_51_w_0;Detroit Arsenal Tank Plant / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Šerman M-51 (Ṣ-814794)
+il_m_51_w_1;Šerman M-51
+il_m_51_w_2;Medium Tank
+il_m48a1_patton_III_shop;Magaḥ 1
+il_m48a1_patton_III_0;Chrysler Defense | Ṭank M48 A1 | Ṭank Magaḥ 1
+il_m48a1_patton_III_1;Magaḥ 1
+il_m48a1_patton_III_2;MBT
+il_magach_2_shop;Magaḥ 2
+il_magach_2_0;Chrysler Defense | Ṭank M48 A2 C | Ṭank Magaḥ 2
+il_magach_2_1;Magaḥ 2
+il_magach_2_2;MBT
+il_magach_3_idf_shop;Magaḥ 3
+il_magach_3_idf_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M48 A3 | Ṭank Magaḥ 3
+il_magach_3_idf_1;Magaḥ 3
+il_magach_3_idf_2;MBT
+il_magach_3_shop;Magaḥ 3 (Balṭan)
+il_magach_3_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M48 A3 | Ṭank Magaḥ 3 (Balṭan)
+il_magach_3_1;Magaḥ 3
+il_magach_3_2;MBT
+il_magach_6_shop;Magaḥ 6
+il_magach_6_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 | Ṭank Magaḥ 6
+il_magach_6_1;Magaḥ 6
+il_magach_6_2;MBT
+il_magach_6a_shop;Magaḥ 6A
+il_magach_6a_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 A1 | Ṭank Magaḥ 6 Alef
+il_magach_6a_1;Magaḥ 6A
+il_magach_6a_2;MBT
+il_magach_5_shop;Magaḥ 5
+il_magach_5_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M48 A5 | Ṭank Magaḥ 5
+il_magach_5_1;Magaḥ 5
+il_magach_5_2;MBT
+il_magach_6r_shop;Magaḥ 6R
+il_magach_6r_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 | Ṭank Magaḥ 6 Reš
+il_magach_6r_1;Magaḥ 6R
+il_magach_6r_2;MBT
+il_magach_6b_shop;Magaḥ 6B
+il_magach_6b_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 A1 E2 | Ṭank Magaḥ 6 Bet
+il_magach_6b_1;Magaḥ 6B
+il_magach_6b_2;MBT
+il_magach_6_rocket_shop;Magaḥ 6R (M261)
+il_magach_6_rocket_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 | Ṭank Magaḥ 6 Reš (M261 19-Round Lightweight Launcher)
+il_magach_6_rocket_1;Magaḥ 6R
+il_magach_6_rocket_2;MBT
+il_magach_6m_shop;Magaḥ 6M Tadaḥ
+il_magach_6m_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 | Magaḥ 6 Mem Tadaḥ
+il_magach_6m_1;Magaḥ 6M
+il_magach_6m_2;MBT
+il_magach_6c_shop;Magaḥ 6G
+il_magach_6c_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 A3 | Ṭank Magaḥ 6 Gimel
+il_magach_6c_1;Magaḥ 6G
+il_magach_6c_2;MBT
+il_magach_6b_gal_batash_shop;Magaḥ 6B Gal Baṭaš
+il_magach_6b_gal_batash_0;Chrysler Defense / ha-Ta'asiah ha-Ṣva'it Mif'al Slavin | Ṭank M60 A1 E2 | Ṭank Magaḥ 6 Bet Gal Baṭaš
+il_magach_6b_gal_batash_1;Magaḥ 6B
+il_magach_6b_gal_batash_2;MBT
+il_magach_7c_shop;Magaḥ 7G
+il_magach_7c_0;Magaḥ 7 Gimel
+il_magach_7c_1;Magaḥ 7G
+il_magach_7c_2;MBT
+il_magach_6b_gal_shop;Magaḥ 6B Gal
+il_magach_6b_gal_0;Magaḥ 6 Bet Gal
+il_magach_6b_gal_1;Magaḥ 6B
+il_magach_6b_gal_2;MBT
+il_amx_13_75_shop; 'Ameks 13
+il_amx_13_75_0; Atelier de construction de Roanne | Ṭank Kal 'Ameks 13
+il_amx_13_75_1; 'Ameks 13
+il_amx_13_75_2;Light Tank
+il_aml_90_shop; 'Amal 90
+il_aml_90_0; Panhard type 245 | Širyonit 'Amal 90
+il_aml_90_1; 'Amal 90
+il_aml_90_2;Armored Car
+il_centurion_mk_5_shot_shop; Senṭuryon 5
+il_centurion_mk_5_shot_0;" Royal Ordnance Factory Leeds | Ṭank Senṭuryon Siman 5 ""Šoṭ"""
+il_centurion_mk_5_shot_1; Senṭuryon 5
+il_centurion_mk_5_shot_2;MBT
+il_tcm_20_shop;Zaḥalad 20 mm (Do-Kani)
+il_tcm_20_0;White Motor Company | Zaḥeli Lemeḥeṣah Dizel 20 Milimeter Mitnaye'a (Do-Kani)
+il_tcm_20_1;Zaḥalad 20 mm (Do-Kani)
+il_tcm_20_2;SPAA
+il_zsu_57_2_shop; Zi.'Es.Yu.-57-2
+il_zsu_57_2_0; Omskij zavod № 174 im. Vorošilova | Tomat Nem Zi.'Es.Yu.-57-2
+il_zsu_57_2_1; Zi.'Es.Yu.-57-2
+il_zsu_57_2_2;SPAA
+il_m163_vulcan_shop;Ḥoveṭ
+il_m163_vulcan_0;General Electric Company | Tomat Nem Ḥoveṭ
+il_m163_vulcan_1;Ḥoveṭ
+il_m163_vulcan_2;SPAA
+il_m109_shop; M109
+il_m109_0; Cadillac Motor Car Division | Tomat M109
+il_m109_1; M109
+il_m109_2;SPG
+il_m109a1_shop;Rokhev A
+il_m109a1_0;Cadillac Motor Car Division / Merkaz Šikum ve-Aḥzakah 7000 | Tomat M109 A1 | Tomat Rokhev Alef
+il_m109a1_1;Rokhev A
+il_m109a1_2;SPG
+il_ss_11_halftrack_shop;Zaḥalam (Tager)
+il_ss_11_halftrack_0;White Motor Company | Zaḥeli Lemeḥeṣah (Tager)
+il_ss_11_halftrack_1;Zaḥalam (Tager)
+il_ss_11_halftrack_2;SPG
+il_sholef_shop;Šolef V1
+il_sholef_0;Soltam Me'rkot | Tomat Šolef V1
+il_sholef_1;Šolef V1
+il_sholef_2;SPG
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+il_tiran_4_shop;Ṭiran 4
+il_tiran_4_0;Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | Ṭank Ṭiran 4
+il_tiran_4_1;Ṭiran 4
+il_tiran_4_2;MBT
+il_tiran_4_sh_shop;Ṭiran 4 Š (early)
+il_tiran_4_sh_0;Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | Ṭank Ṭiran 4 Šrir (early)
+il_tiran_4_sh_1;Ṭiran 4 Š
+il_tiran_4_sh_2;MBT
+il_tiran_6_shop;Ṭiran 6
+il_tiran_6_0;Ural'skim vagonostroityel'nym zavodom im. F. È. Dzyeržinskogo / Ḥil ha-Ḥimuš | Ṭank Ṭiran 6
+il_tiran_6_1;Ṭiran 6
+il_tiran_6_2;MBT
+il_centurion_shot_kal_alef_shop;Šoṭ Kal A
+il_centurion_shot_kal_alef_0;Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Alef
+il_centurion_shot_kal_alef_1;Šoṭ Kal A
+il_centurion_shot_kal_alef_2;MBT
+il_centurion_shot_kal_gimel_shop;Šoṭ Kal G
+il_centurion_shot_kal_gimel_0;Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Gimel
+il_centurion_shot_kal_gimel_1;Šoṭ Kal G
+il_centurion_shot_kal_gimel_2;MBT
+il_centurion_shot_kal_d_shop;Šoṭ Kal D
+il_centurion_shot_kal_d_0;Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Dalet
+il_centurion_shot_kal_d_1;Šoṭ Kal D
+il_centurion_shot_kal_d_2;MBT
+uk_centurion_shot_kal_d_shop;▄ Šoṭ Kal D
+uk_centurion_shot_kal_d_0;▄ Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Dalet
+uk_centurion_shot_kal_d_1;▄ Šoṭ Kal D
+uk_centurion_shot_kal_d_2;MBT
+il_zsu_23_4_shop;Gu'ndiš
+il_zsu_23_4_0;Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | Tomat Nem Zi.'Es.Yu.-23-4 | Tomat Nem Gu'ndiš
+il_zsu_23_4_1;Gu'ndiš
+il_zsu_23_4_2;SPAA
 il_m113_hvms_shop;Bardelas (HVMS 60)
-il_m113_hvms_0;Israel Military Industries | Bardelas (60 mm Hyper-Velocity Medium Support Weapon)
+il_m113_hvms_0;FMC Corporation / ha-Ta'asiah ha-Ṣva'it | Nagma'š M113 A2 | Nagma'š Bardelas (60 mm Hyper-Velocity Medium Support Weapon System)
 il_m113_hvms_1;Bardelas (HVMS 60)
-il_m113_hvms_2;Light tank
+il_m113_hvms_2;Light Tank
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 il_merkava_mk_1_shop;Merkavah Mk. 1
@@ -10440,10 +10740,6 @@ arado-196a-5_shop;AR
 arado-196a-5_0;AR
 arado-196a-5_1;AR
 arado-196a-5_2;AR
-b-17g_iaf_shop; B-17G-95-DL
-b-17g_iaf_0; B-17G-95-DL Flying Fortress
-b-17g_iaf_1; B-17G
-b-17g_iaf_2; B-17
 be_6_shop;Bye-6
 be_6_0;Bye-6
 be_6_1;Bye-6
@@ -10460,10 +10756,6 @@ bf-109g-6_finland_shop;MT (G-6/R6) (Tp)
 bf-109g-6_finland_0;"Messerschmitt | MT (G-6/R6) (Tropenausrüstung) ""Mersu"""
 bf-109g-6_finland_1;MT (G-6)
 bf-109g-6_finland_2;MT
-s_199_shop; S.199
-s_199_0;" Avia Motors C.210 | S.199 ""Sakin"" (batch 2)"
-s_199_1; S.199
-s_199_2; S.199
 blenheim_mkiv_shop;Blenheim Mk. IV
 blenheim_mkiv_0;Blenheim Mk. IV
 blenheim_mkiv_1;Blenheim Mk. IV
@@ -11321,22 +11613,10 @@ meteor_fmk8_shop;Meteor F. Mk. 8
 meteor_fmk8_0;Gloster Aircraft Company G.41K | Meteor F. Mk. 8
 meteor_fmk8_1;Meteor F. Mk. 8
 meteor_fmk8_2;Meteor
-meteor_fmk8_iaf_shop; Meteor F. Mk. 8
-meteor_fmk8_iaf_0; Gloster Aircraft Company G.41K | Meteor F. Mk. 8
-meteor_fmk8_iaf_1; Meteor F. Mk. 8
-meteor_fmk8_iaf_2; Meteor
-meteor_frmk9_iaf_shop; Meteor F.R. Mk. 9
-meteor_frmk9_iaf_0; Gloster Aircraft Company G.41L | Meteor F.R. Mk. 9
-meteor_frmk9_iaf_1; Meteor F.R. Mk. 9
-meteor_frmk9_iaf_2; Meteor
 meteor_fmk8_belgium_shop;▄ Meteor F. Mk. 8
 meteor_fmk8_belgium_0;▄ Gloster Aircraft Company G.41K / Avions Fairey | Meteor F. Mk. 8
 meteor_fmk8_belgium_1;▄ Meteor F. Mk. 8
 meteor_fmk8_belgium_2;▄ Meteor
-meteor_nfmk13_shop; Meteor N.F. Mk. 13
-meteor_nfmk13_0; Gloster Aircraft Company G.47 / Armstrong Whitworth | Meteor N.F. Mk. 13
-meteor_nfmk13_1; Meteor N.F. Mk. 13
-meteor_nfmk13_2; Meteor
 meteor_fmk8_reaper_shop;GAF
 meteor_fmk8_reaper_0;"Gloster Aircraft Company Ground Attack Fighter ""Reaper"""
 meteor_fmk8_reaper_1;GAF
@@ -11373,10 +11653,6 @@ mig-15bis_ns23_china_shop;␗ MiG-15bis (NS-23)
 mig-15bis_ns23_china_0;␗ MiG-15bis (NS-23)
 mig-15bis_ns23_china_1;␗ MiG-15bis
 mig-15bis_ns23_china_2;␗ MiG-15
-p-51d-20-na_iaf_shop; P-51D-20-NA
-p-51d-20-na_iaf_0; P-51D-20-NA Mustang
-p-51d-20-na_iaf_1; P-51D
-p-51d-20-na_iaf_2; P-51
 f-84g_france_shop;☨ F-84G-26-RE
 f-84g_france_0;☨ F-84G-26-RE Thunderjet
 f-84g_france_1;☨ F-84G
@@ -11401,26 +11677,10 @@ leo_451_late_shop;LeO 451 (late)
 leo_451_late_0;LeO 451 (late)
 leo_451_late_1;LeO 451
 leo_451_late_2;LeO 451
-a_4e_late_iaf_shop; A-4E (AFC 482)
-a_4e_late_iaf_0;" A-4E Skyhawk ""'Ayiṭ"" (AFC 482)"
-a_4e_late_iaf_1; A-4E
-a_4e_late_iaf_2; A-4
-a_4e_early_iaf_shop; A-4E (AFC 418-II)
-a_4e_early_iaf_0;" A-4E Skyhawk ""'Ayiṭ"" (AFC 418-II)"
-a_4e_early_iaf_1; A-4E
-a_4e_early_iaf_2; A-4
 a_7e_thailand_shop;B.JT.1K
 a_7e_thailand_0;LTV Corperation | Ekhrụxng Bin Jomtī Bæb Thī 1K
 a_7e_thailand_1;B.JT.1K
 a_7e_thailand_2;B.JT.1
-a_4h_shop; A-4H
-a_4h_0;" A-4H Skyhawk ""'Ayiṭ"""
-a_4h_1; A-4H
-a_4h_2; A-4
-a_4n_shop; A-4N
-a_4n_0;" A-4N Skyhawk ""'Ayiṭ"""
-a_4n_1; A-4N
-a_4n_2; A-4
 f4u-7_shop;☨ F4U-7
 f4u-7_0;☨ F4U-7 Corsair
 f4u-7_1;☨ F4U-7
@@ -12306,30 +12566,10 @@ so_4050_vautour_2n_shop;Vautour II N (C)
 so_4050_vautour_2n_0;S.O.4050 Vautour II N (C)
 so_4050_vautour_2n_1;Vautour II N (C)
 so_4050_vautour_2n_2;Vautour II
-so_4050_vautour_2a_iaf_shop;☨ Vautour II A
-so_4050_vautour_2a_iaf_0;☨ S.O.4050 Vautour II A
-so_4050_vautour_2a_iaf_1;☨ Vautour II A
-so_4050_vautour_2a_iaf_2;☨ Vautour II
 so_4050_vautour_2n_late_shop;Vautour II N (M)
 so_4050_vautour_2n_late_0;S.O.4050 Vautour II N (M)
 so_4050_vautour_2n_late_1;Vautour II N (M)
 so_4050_vautour_2n_late_2;Vautour II
-so_4050_vautour_2a_israel_iaf_shop; Vautour II A
-so_4050_vautour_2a_israel_iaf_0; S.O.4050 Vautour II A
-so_4050_vautour_2a_israel_iaf_1; Vautour II A
-so_4050_vautour_2a_israel_iaf_2; Vautour II
-so_4050_vautour_2n_iaf_shop; Vautour II N (C)
-so_4050_vautour_2n_iaf_0; S.O.4050 Vautour II N (C)
-so_4050_vautour_2n_iaf_1; Vautour II N (C)
-so_4050_vautour_2n_iaf_2; Vautour II
-f-84f_iaf_shop;☨ F-84F-51-GK (EC 1/1)
-f-84f_iaf_0;"☨ F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 ""Corse"")"
-f-84f_iaf_1;☨ F-84F
-f-84f_iaf_2;☨ F-84
-f-84f_israel_iaf_shop; F-84F-51-GK (Ṭayeset 200)
-f-84f_israel_iaf_0; F-84F-51-GK Thunderstreak (Ṭayeset 200)
-f-84f_israel_iaf_1; F-84F
-f-84f_israel_iaf_2; F-84
 so_4050_vautour_2b_shop;Vautour II B
 so_4050_vautour_2b_0;S.O.4050 Vautour II B
 so_4050_vautour_2b_1;Vautour II B
@@ -12478,14 +12718,6 @@ md_460_usa_shop;▃ Super Mystère B2
 md_460_usa_0;▃ M.D.460 Super Mystère B2
 md_460_usa_1;▃ Super Mystère B2
 md_460_usa_2;▃ Super Mystère
-md_460_sambad_shop; Super Mystère B2
-md_460_sambad_0; M.D.460 Super Mystère B2 Sambad
-md_460_sambad_1; Super Mystère B2
-md_460_sambad_2; Super Mystère
-md_460_saar_shop;Sa'ar
-md_460_saar_0;Sa'ar
-md_460_saar_1;Sa'ar
-md_460_saar_2;Sa'ar
 f-104s_cb_shop;☪ F-104S/CB
 f-104s_cb_0;☪ F-104S/CB Starfighter
 f-104s_cb_1;☪ F-104S
@@ -12514,30 +12746,10 @@ mirage_3e_shop;Mirage III E
 mirage_3e_0;Avions Marcel Dassault | Mirage III E
 mirage_3e_1;Mirage III E
 mirage_3e_2;Mirage
-mirage_3cj_shop; Mirage III CJ
-mirage_3cj_0;" Avions Marcel Dassault | Mirage III CJ ""Šaḥaḳ"""
-mirage_3cj_1; Mirage III CJ
-mirage_3cj_2; Mirage
 mirage_5ba_shop;▄ Mirage 5 BA
 mirage_5ba_0;▄ Avions Marcel Dassault-Breguet Aviation / Sociétés Anonyme Belge de Constructions Aéronautiques | Mirage 5 BA
 mirage_5ba_1;▄ Mirage 5 BA
 mirage_5ba_2;▄ Mirage
-kfir_canard_shop;Kfir Gderot
-kfir_canard_0;ha-Ta'asiyah ha-'Avirit le-Yisra'el | Kfir Gderot
-kfir_canard_1;Kfir Gderot
-kfir_canard_2;Kfir
-kfir_c2_shop;Kfir C.2
-kfir_c2_0;ha-Ta'asiyah ha-'Avirit le-Yisra'el | Kfir C.2
-kfir_c2_1;Kfir C.2
-kfir_c2_2;Kfir
-kfir_c7_shop;Kfir C.7
-kfir_c7_0;ha-Ta'asiyah ha-'Avirit le-Yisra'el | Kfir C.7
-kfir_c7_1;Kfir C.7
-kfir_c7_2;Kfir
-kfir_c10_colombia_shop;◡ Kfir Block 60
-kfir_c10_colombia_0;◡ ha-Ta'asiyah ha-'Avirit le-Yisra'el | Kfir Block 60
-kfir_c10_colombia_1;◡ Kfir Block 60
-kfir_c10_colombia_2;◡ Kfir
 caudron_cr714_shop;CR.174-C1
 caudron_cr714_0;"CR.174-C1 ""Cyclone"""
 caudron_cr714_1;CR.174-C1
@@ -12666,10 +12878,6 @@ md_454_mystere_4a_shop;Mystère IV A
 md_454_mystere_4a_0;M.D.454 Mystère IV A
 md_454_mystere_4a_1;Mystère IV A
 md_454_mystere_4a_2;Mystère IV
-md_454_mystere_4a_iaf_shop; Mystère IV A
-md_454_mystere_4a_iaf_0; M.D.454 Mystère IV A
-md_454_mystere_4a_iaf_1; Mystère IV A
-md_454_mystere_4a_iaf_2; Mystère IV
 germ_s_100_s204_lang_shop;S 204
 germ_s_100_s204_lang_0;Schnellboot Typ 1939/40, S 204 Lang
 germ_s_100_s204_lang_1;S 204
@@ -12894,66 +13102,10 @@ il_m113a1_tow_shop;Gi'raf
 il_m113a1_tow_0;Gi'raf
 il_m113a1_tow_1;Gi'raf
 il_m113a1_tow_2;SPG
-il_m109a1_shop;Rokhev A
-il_m109a1_0;Rokhev Alef
-il_m109a1_1;Rokhev A
-il_m109a1_2;SPG
-il_m109_shop; M109
-il_m109_0; G-296 | Howitzer, Medium, Self-Propelled, 155mm, M109
-il_m109_1; M109
-il_m109_2;SPG
-il_amx_13_75_shop; AMX 13
-il_amx_13_75_0; AMX 13
-il_amx_13_75_1; AMX 13
-il_amx_13_75_2;Light tank
-il_aml_90_shop; AML 90
-il_aml_90_0; AML 90
-il_aml_90_1; AML 90
-il_aml_90_2;Light tank
-il_centurion_shot_kal_gimel_shop;Shoṭ Ḳal G
-il_centurion_shot_kal_gimel_0;Shoṭ Ḳal Gimel
-il_centurion_shot_kal_gimel_1;Shoṭ Ḳal G
-il_centurion_shot_kal_gimel_2;Medium tank
-il_centurion_shot_kal_alef_shop;Shoṭ Ḳal A
-il_centurion_shot_kal_alef_0;Shoṭ Ḳal Alef
-il_centurion_shot_kal_alef_1;Shoṭ Ḳal A
-il_centurion_shot_kal_alef_2;Medium tank
-il_centurion_mk_5_shot_shop; Centurion, Mk. 5
-il_centurion_mk_5_shot_0;" Tank, Medium Gun, Centurion, Mk. 5 ""Shoṭ"""
-il_centurion_mk_5_shot_1; Centurion, Mk. 5
-il_centurion_mk_5_shot_2;Medium tank
-il_tiran_4_shop;Ṭiran 4
-il_tiran_4_0;Ṭiran 4
-il_tiran_4_1;Ṭiran 4
-il_tiran_4_2;Medium tank
-il_tiran_4_sh_shop;Ṭiran 4Sh (early)
-il_tiran_4_sh_0;Ṭiran 4Sh (early)
-il_tiran_4_sh_1;Ṭiran 4
-il_tiran_4_sh_2;Medium tank
-il_tiran_6_shop;Ṭiran 6
-il_tiran_6_0;Ṭiran 6
-il_tiran_6_1;Ṭiran 6
-il_tiran_6_2;Medium tank
-il_tcm_20_shop;Zaḥalad TCM-20
-il_tcm_20_0;Zaḥeli Lemeḥeṣah Diesel TCM-20
-il_tcm_20_1;Zaḥalad TCM-20
-il_tcm_20_2;SPAA
-il_zsu_57_2_shop; ZSU-57-2
-il_zsu_57_2_0; ZSU-57-2
-il_zsu_57_2_1; ZSU-57-2
-il_zsu_57_2_2;SPAA
-il_zsu_23_4_shop; ZSU-23-4V
-il_zsu_23_4_0;" ZSU-23-4V ""Gundish"""
-il_zsu_23_4_1; ZSU-23-4V
-il_zsu_23_4_2;SPAA
 il_machbet_shop;Maḥbeṭ
 il_machbet_0;Maḥbeṭ
 il_machbet_1;Maḥbeṭ
 il_machbet_2;SPAA
-il_ss_11_halftrack_shop;Zaḥalam Tager
-il_ss_11_halftrack_0;Zaḥeli Lemeḥeṣah Tager
-il_ss_11_halftrack_1;Zaḥalam Tager
-il_ss_11_halftrack_2;SPG
 il_merkava_mk_1b_shop;Merkavah Mk. 1M
 il_merkava_mk_1b_0;Merkavah Siman 1 Mshupar
 il_merkava_mk_1b_1;Merkavah Mk. 1
@@ -12994,82 +13146,6 @@ il_namer_tsrikhon_shop;Namer Ṣariaḥ
 il_namer_tsrikhon_0;Nagmaš Merkavah Ṣariaḥ
 il_namer_tsrikhon_1;Namer
 il_namer_tsrikhon_2;IFV
-il_centurion_shot_kal_d_shop;Shoṭ Ḳal D
-il_centurion_shot_kal_d_0;Shoṭ Ḳal Dalet
-il_centurion_shot_kal_d_1;Shoṭ Ḳal D
-il_centurion_shot_kal_d_2;MBT
-il_magach_3_shop;Magaḥ 3 (Baltan)
-il_magach_3_0;Magaḥ 3 (Baltan)
-il_magach_3_1;Magaḥ 3
-il_magach_3_2;MBT
-il_magach_3_idf_shop;Magaḥ 3
-il_magach_3_idf_0;Magaḥ 3
-il_magach_3_idf_1;Magaḥ 3
-il_magach_3_idf_2;MBT
-il_magach_5_shop;Magaḥ 5
-il_magach_5_0;Magaḥ 5
-il_magach_5_1;Magaḥ 5
-il_magach_5_2;MBT
-il_magach_6b_gal_batash_shop;Magaḥ 6B Gal Baṭaš
-il_magach_6b_gal_batash_0;Magaḥ 6 Bet Gal Baṭaš
-il_magach_6b_gal_batash_1;Magaḥ 6
-il_magach_6b_gal_batash_2;MBT
-il_magach_6a_shop;Magaḥ 6A
-il_magach_6a_0;Magaḥ 6 Alef
-il_magach_6a_1;Magaḥ 6
-il_magach_6_rocket_shop;Magaḥ 6R (M261)
-il_magach_6_rocket_0;Magaḥ 6 Resh (M261 LWL)
-il_magach_6_rocket_1;Magaḥ 6
-il_magach_6_rocket_2;MBT
-il_magach_6a_2;MBT
-il_magach_6r_shop;Magaḥ 6R
-il_magach_6r_0;Magaḥ 6 Resh
-il_magach_6r_1;Magaḥ 6
-il_magach_6r_2;MBT
-il_magach_6c_shop;Magaḥ 6G
-il_magach_6c_0;Magaḥ 6 Gimel
-il_magach_6c_1;Magaḥ 6
-il_magach_6c_2;MBT
-il_magach_6m_shop;Magaḥ 6M Tadaḥ
-il_magach_6m_0;Magaḥ 6 Mem Tadaḥ
-il_magach_6m_1;Magaḥ 6
-il_magach_6m_2;MBT
-il_magach_6b_gal_shop;Magaḥ 6B Gal
-il_magach_6b_gal_0;Magaḥ 6 Bet Gal
-il_magach_6b_gal_1;Magaḥ 6
-il_magach_6b_gal_2;MBT
-il_magach_6b_shop;Magaḥ 6B
-il_magach_6b_0;Magaḥ 6 Bet
-il_magach_6b_1;Magaḥ 6
-il_magach_6b_2;MBT
-il_magach_6_shop;Magaḥ 6
-il_magach_6_0;Magaḥ 6
-il_magach_6_1;Magaḥ 6
-il_magach_6_2;MBT
-il_magach_7c_shop;Magaḥ 7G
-il_magach_7c_0;Magaḥ 7 Gimel
-il_magach_7c_1;Magaḥ 7
-il_magach_7c_2;MBT
-il_m_51_shop;M-51 Degem G
-il_m_51_0;M-51 Degem Gimel
-il_m_51_1;M-51
-il_m_51_2;Medium tank
-il_m163_vulcan_shop;Ḥoveṭ
-il_m163_vulcan_0;Ḥoveṭ
-il_m163_vulcan_1;Ḥoveṭ
-il_m163_vulcan_2;SPAA
-il_magach_2_shop;Magaḥ 2
-il_magach_2_0;Magaḥ 2
-il_magach_2_1;Magaḥ 2
-il_magach_2_2;Medium tank
-il_m48a1_patton_III_shop;Magaḥ 1
-il_m48a1_patton_III_0;Magaḥ 1
-il_m48a1_patton_III_1;Magaḥ 1
-il_m48a1_patton_III_2;Medium tank
-il_m_51_w_shop;M-51 (Ṣ-814794)
-il_m_51_w_0;M-51 (Ṣ-814794)
-il_m_51_w_1;M-51
-il_m_51_w_2;Medium tank
 il_merkava_mk_2d_shop;Merkavah Mk. 2B Baṭaš
 il_merkava_mk_2d_0;Merkavah Siman 2 Bet Baṭaš
 il_merkava_mk_2d_1;Merkavah Mk. 2
@@ -13078,10 +13154,6 @@ il_sabra_mk1_shop;Sabrah Mk. 1
 il_sabra_mk1_0;Israel Military Industries | Sabrah Siman 1
 il_sabra_mk1_1;Sabrah Mk. 1
 il_sabra_mk1_2;MBT
-uk_centurion_shot_kal_d_shop;▄ Shoṭ Ḳal D
-uk_centurion_shot_kal_d_0;▄ Shoṭ Ḳal Dalet
-uk_centurion_shot_kal_d_1;▄ Shoṭ Ḳal D
-uk_centurion_shot_kal_d_2;Medium tank
 it_vcc_80_hitfist_60_shop;VCC-80 Dardo (60/70)
 it_vcc_80_hitfist_60_0;Veicolo Cingolato da Combattimento 80 Dardo da 60/70
 it_vcc_80_hitfist_60_1;Dardo
@@ -13454,22 +13526,6 @@ mi_35m_pakistan_shop;☪ Mi-35M3
 mi_35m_pakistan_0;☪ Mi-35M3
 mi_35m_pakistan_1;☪ Mi-35M
 mi_35m_pakistan_2;☪ Mi-35
-ah_1g_iaf_shop; AH-1G
-ah_1g_iaf_0; AH-1G Ṣefa Alef
-ah_1g_iaf_1; AH-1G
-ah_1g_iaf_2; AH-1
-md_500_tow_late_shop;MD 500/'Orev
-md_500_tow_late_0;MD 500/'Orev Lahaṭuṭ
-md_500_tow_late_1;MD 500/'Orev
-md_500_tow_late_2;MD 500
-ah_1q_iaf_shop; AH-1Q
-ah_1q_iaf_0; AH-1Q Ṣefa Bet
-ah_1q_iaf_1; AH-1Q
-ah_1q_iaf_2; AH-1
-ah_1f_iaf_shop; AH-1S (MC) (CN)
-ah_1f_iaf_0; AH-1S Ṣefa Dalet (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)
-ah_1f_iaf_1; AH-1S
-ah_1f_iaf_2; AH-1
 hkp2_shop;hkp 2
 hkp2_0;Sud-Aviation | helikopter 2
 hkp2_1;hkp 2
@@ -13782,14 +13838,6 @@ mig_29_9_12b_hungary_shop;◔ MiG-29 (9-12B)
 mig_29_9_12b_hungary_0;◔ izd. 9-12B | MiG-29 Fulcrum-A
 mig_29_9_12b_hungary_1;◔ MiG-29
 mig_29_9_12b_hungary_2;◔ MiG-29
-f-4e_iaf_shop; F-4E-48-MC
-f-4e_iaf_0; McDonnell Douglas Corporation Model 98HO | F-4E-48-MC Ḳurnas
-f-4e_iaf_1; F-4E
-f-4e_iaf_2; F-4
-f-4e_kurnass_2000_shop;Ḳurnas 2000
-f-4e_kurnass_2000_0;Ḳurnas 2000
-f-4e_kurnass_2000_1;Ḳurnas 2000
-f-4e_kurnass_2000_2;Ḳurnas
 f-4m_fgr2_shop;Phantom F.G.R. Mk. 2
 f-4m_fgr2_0;McDonnell Douglas Corporation Model 98KD / British Aerospace Corporation | Phantom F.G.R. Mk. 2
 f-4m_fgr2_1;Phantom F.G.R. Mk. 2
@@ -13802,26 +13850,10 @@ f-4jk_shop;Phantom F. Mk. 3
 f-4jk_0;McDonnell Douglas Corporation Model 98NC / Naval Air Rework Facility | Phantom F. Mk. 3
 f-4jk_1;Phantom F. Mk. 3
 f-4jk_2;Phantom
-f_15a_iaf_shop; F-15A-18-MC (MSIP)
-f_15a_iaf_0; F-15A-18-MC Baz (Multistage Improvement Program)
-f_15a_iaf_1; F-15A
-f_15a_iaf_2; F-15
-f_15c_baz_msip_shop; F-15C-40-MC (MSIP II)
-f_15c_baz_msip_0; F-15C-40-MC Baz Mshupar (Multistage Improvement Program II)
-f_15c_baz_msip_1; F-15C
-f_15c_baz_msip_2; F-15
-f_15i_raam_shop; F-15I
-f_15i_raam_0; F-15I Ra'am
-f_15i_raam_1; F-15I
-f_15i_raam_2; F-15
 f_16a_block_15_adf_italy_shop;⛨ F-16A-15ADF-CF
 f_16a_block_15_adf_italy_0;⛨ F-16A-15ADF-CF Fighting Falcon
 f_16a_block_15_adf_italy_1;⛨ F-16A
 f_16a_block_15_adf_italy_2;⛨ F-16
-f_16a_block_10_iaf_shop; F-16A-15OCU-CF
-f_16a_block_10_iaf_0; F-16A-15OCU-CF Neṣ
-f_16a_block_10_iaf_1; F-16A
-f_16a_block_10_iaf_2; F-16
 f_16a_block_15_belgium_shop;▄ F-16A-15-CF
 f_16a_block_15_belgium_0;▄ F-16A-15-CF Fighting Falcon
 f_16a_block_15_belgium_1;▄ F-16A
@@ -13830,14 +13862,6 @@ f_16am_block_15_mlu_belgium_shop;▄ F-16AM-15-CF
 f_16am_block_15_mlu_belgium_0;▄ F-16AM-15-CF Fighting Falcon
 f_16am_block_15_mlu_belgium_1;▄ F-16AM
 f_16am_block_15_mlu_belgium_2;▄ F-16
-f_16d_block_40_barak_2_shop; F-16D-40-CF
-f_16d_block_40_barak_2_0; F-16D-40-CF Baraḳ II
-f_16d_block_40_barak_2_1; F-16D
-f_16d_block_40_barak_2_2; F-16
-f_16c_block_40_barak_2_shop; F-16C-40L-CF
-f_16c_block_40_barak_2_0; F-16C-40L-CF Baraḳ II
-f_16c_block_40_barak_2_1; F-16C
-f_16c_block_40_barak_2_2; F-16
 tiger_hap_france_shop;☨ Tigre HAP/F
 tiger_hap_france_0;☨ Tigre, Hélicoptère d'Appui Protection (Standard 1)
 tiger_hap_france_1;☨ Tigre HAP
@@ -14126,30 +14150,10 @@ saab_a32a_red_adam_shop;A 32 A (F 17)
 saab_a32a_red_adam_0;Saab 32 | A 32 A Lansen (Blekinge flygflottilj (F 17))
 saab_a32a_red_adam_1;A 32 A
 saab_a32a_red_adam_2;A 32
-ah_64d_i_saraph_shop; AH-64D-I
-ah_64d_i_saraph_0; Boeing Rotorcraft Systems | AH-64D-I Saraf
-ah_64d_i_saraph_1; AH-64D
-ah_64d_i_saraph_2; AH-64
-ah_64a_iaf_shop; AH-64A
-ah_64a_iaf_0; McDonnell Douglas Helicopter Systems | AH-64A Peten
-ah_64a_iaf_1; AH-64A
-ah_64a_iaf_2; AH-64
-ah_64a_peten_iaf_shop; AH-64A (PV264)
-ah_64a_peten_iaf_0; McDonnell Douglas Helicopter Systems | AH-64A Peten (PV264)
-ah_64a_peten_iaf_1; AH-64A
-ah_64a_peten_iaf_2; AH-64
-ah_60_iaf_shop;ABH Demonstrator
-ah_60_iaf_0;"Sikorsky Aircraft Corperation + Elbit Systems Armed Blackhawk Demonstrator ""Yanšuf Ḥamuš"""
-ah_60_iaf_1;ABH Demonstrator
-ah_60_iaf_2;ABH
 tis_ma_shop;TIS (MA)
 tis_ma_0;TIS (MA)
 tis_ma_1;TIS (MA)
 tis_ma_2;TIS
-nesher_shop;Nešer S
-nesher_0;Avions Marcel Dassault-Breguet Aviation / ha-Ta'asiyah ha-'Avirit le-Yisra'el | Nešer S
-nesher_1;Nešer S
-nesher_2;Nešer
 uk_ram_90mm_aa_shop;Ram, Mk. II (O.Q.F., 3.7-inch, Mk. II)
 uk_ram_90mm_aa_0;Montreal Locomotive Work | Tank, Cruiser, Ram, Mk. II (Gun, O.Q.F., 3.7-inch, Mk. II)
 uk_ram_90mm_aa_1;Ram, Mk. II (3.7-inch)
@@ -15849,10 +15853,6 @@ it_albatros_class_f544_shop;Alcione (F 544)
 it_albatros_class_f544_0;Cantiere navale di Castellammare di Stabia | Corvetta Classe Albatros | Alcione (F 544)
 it_albatros_class_f544_1;Albatros
 it_albatros_class_f544_2;Corvette
-il_sholef_shop;Šolef V1
-il_sholef_0;Soltam Systems Šolef V1
-il_sholef_1;Šolef
-il_sholef_2;SPG
 germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
 germ_destroyer_fletcher_zerstorer4_0;Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)
 germ_destroyer_fletcher_zerstorer4_1;Z 4

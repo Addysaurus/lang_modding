@@ -92,6 +92,9 @@ engine_manufacturer/saurer;Manufacturer: Adolph Saurer
 engine_manufacturer/detroit;Manufacturer: Detroit Diesel Corporation
 engine_manufacturer/weijiang;Manufacturer: Zhōngguó Nánfāng Hángkōng Dònglì Jīxiè Gōngsī
 engine_manufacturer/isotta_fraschini;Manufacturer: Isotta Fraschini
+engine_manufacturer/weiss_manfred;Manufacturer: Société des moteurs Gnome et Rhône / Weiss Manfréd Acél- és Fémművek
+engine_manufacturer/scania_vabis;Manufacturer: Scania-Vabis
+transmission_manufacturer/z_f;Manufacturer: ZF Friedrichshafen
 
 //ENGINES
 engine_model/jumo004d;"
@@ -1275,6 +1278,8 @@ engine_model/f100_pw_229;"
 Engine model: F100-PW-229"
 engine_model/rd-33;"
 Engine model: RD-33"
+engine_model/rd-33k;"
+Engine model: Dvigatyel' RD-33K"
 engine_model/rd-41;"
 Engine model: RD-41"
 engine_model/r79v-300;"
@@ -1323,6 +1328,8 @@ engine_model/f100_ihi_200e;"
 Engine model: F100-IHI-200E"
 engine_model/f100_ihi_220e;"
 Engine model: F100-IHI-220E"
+engine_model/t700_ihi_701c;"
+Engine model: T700-IHI-701C"
 engine_model/rm12;"
 Engine model: RM12"
 engine_model/f404_ge_100;"
@@ -1435,6 +1442,8 @@ engine_model/mtu_8v_199_te20;"
 Engine model: MTU 8V 199 TE20"
 engine_model/mtu_8v_199_te21;"
 Engine model: MTU 8V 199 TE21"
+engine_model/mtu_8v_199_te21d;"
+Engine model: MTU 8V 199 TE21-D"
 engine_model/6m70t4;"
 Engine model: 6M70T4"
 engine_model/1710-55;"
@@ -1451,6 +1460,21 @@ engine_model/f414_ge_39e_rm16;"
 Engine model: RM16"
 engine_model/r-1820-72w;"
 Engine model: R-1820-72W Cyclone"
+
+//USA ENGINES
+engine_model/f100_pw_200;"
+Engine model: F100-PW-200"
+
+engine_model/vta_903t_v8;"
+Engine model: VTA-903T"
+
+//GERMANY ENGINES
+engine_model/6r_106_td_21;"
+Engine model: 6R 106 TD21"
+
+//USSR ENGINES
+engine_model/vk_105ra;"
+Engine model: Motor VK-105RA"
 
 //CHINA ENGINES
 engine_model/wj-6;"
@@ -1510,6 +1534,20 @@ Engine model: FWZ9 Fādòngjī"
 engine_model/wz-9c;"
 Engine model: FWZ9C Fādòngjī"
 
+//ITALY ENGINES
+engine_model/wm_k-14a;"
+Engine model: W.M.14 Kirs NO motor"
+
+engine_model/wm_k-14b;"
+Engine model: W.M.14 B motor"
+
+engine_model/iveco_vector_8v;"
+Engine model: Vector 8V Euro III"
+
+//SWEDEN ENGINES
+engine_model/603_2;"
+Engine model: typ 603/2"
+
 //TRANSMISSION MANUFACTURERS
 transmission_manufacturer/allison;Manufacturer: Allison Transmission
 transmission_manufacturer/perkins;Manufacturer: Perkins
@@ -1531,9 +1569,17 @@ transmission_model/esm_500;ESM 500
 transmission_model/7hp_902;7HP902
 transmission_model/3040_mx;"
 Transmission model: 3040 MX"
+transmission_model/3200_sp;"
+Transmission model: 3200 SP"
+transmission_model/4800_sp;"
+Transmission model: 4800 SP"
 transmission_model/hd_4070;"
 Transmission model: HD4070"
 transmission_model/grs900r;"
 Transmission model: GRS 900R"
 transmission_model/hswl_256b;"
 Transmission model: HSWL 256B"
+transmission_model/friedrichshafen_lsg_2000;"
+Transmission model: LSG 2000"
+transmission_model/zf_7hp_902;"
+Trabsnussuib model: 7 HP 902"

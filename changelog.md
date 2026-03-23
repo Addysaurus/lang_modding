@@ -318,8 +318,12 @@ All dates are listed in DD-MM-YYYY format.
                 - Hebrew + Russian package: **ZSU-23-4** → **גאנדיש**. Statcard name → **Мытищинский ордена Отечественной войны 1 степени машиностроительный завод | תומ״ת נ״מ גאנדיש | תומ״ת נ״מ זי.אס.יו.-4-23**.
             - **Bardelas (HVMS 60)**: Statcard name → **FMC Corporation / ha-Ta'asiah ha-Ṣva'it | Nagma'š M113 A2 | Nagma'š Bardelas (60 mm Hyper-Velocity Medium Support Weapon System)**.
                 - Hebrew package: **Bardelas (HVMS 60)** → **גאנדיש**. Statcard name → **התעשייה הצבאית / FMC Corporation | M113 A2 נגמ׳ש | (60 mm Hyper-Velocity Medium Support Weapon System) נגמ׳ש ברדלס**.
-            - **Shoṭ Ḳal A** → **Šoṭ Kal Alef**. Statcard name → **Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Alef**.
+            - **Shoṭ Ḳal A** → **Šoṭ Kal A**. Statcard name → **Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Alef**.
                 - Hebrew package: **Shoṭ Ḳal A** → **שוט קל א**. Statcard name → **חיל החימוש / Royal Ordnance Factory Leeds | טנק שוט קל א**.
+            - **Shoṭ Ḳal G** → **Šoṭ Kal G**. Statcard name → **Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Gimel**.
+                - Hebrew package: **Shoṭ Ḳal G** → **שוט קל ג**. Statcard name → **חיל החימוש / Royal Ordnance Factory Leeds | טנק שוט קל ג**.
+            - **Shoṭ Ḳal D** (UK / Israel & Israel) → **Šoṭ Kal D**. Statcard name → **Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Dalet**.
+                - Hebrew package: **Shoṭ Ḳal D** → **שוט קל ד**. Statcard name → **חיל החימוש / Royal Ordnance Factory Leeds | טנק שוט קל ד**.
     - Hungarian air rework:
         - **He 112 B-1/U2** (Germany / Hungary): Statcard name → **Heinkel Flugzeugwerke | He 112 B-1/U2 vadászrepülőgép**.
         - **Bf 110 G-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 110 G-4 éjjeli vadász**.

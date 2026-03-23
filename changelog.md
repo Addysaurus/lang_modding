@@ -255,8 +255,6 @@ All dates are listed in DD-MM-YYYY format.
                 - Hebrew package: **M-51 Degem G** → **שרמן מ-51 (1975)**. Statcard name → **מרכז שיקום ואחזקה 7000 / Pressed Steel Car Company | טנק שרמן מ-51 (1975)**.
             - **M-51 (Ṣ-814794)** → **Šerman M-51 (Ṣ-814794)**. Statcard name → **Detroit Arsenal Tank Plant / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Šerman M-51 (Ṣ-814794)**.
                 - Hebrew package: **M-51 (Ṣ-814794)** → **שרמן מ-51 (צ-814794)**. Statcard name → **מרכז שיקום ואחזקה 7000 / Detroit Arsenal Tank Plant | טנק שרמן מ-51 (צ-814794)**.
-            - **Zaḥalad (TCM-20)** → **Zaḥalad 20 mm (Do-Kani)**. Statcard name → **White Motor Company | Zaḥeli Lemeḥeṣah Dizel 20 Milimeter Mitnaye'a (Do-Kani)**.
-                - Hebrew package: **Zaḥalad (TCM-20)** → **זחל״ד 20 מ״מ (דו-קני)**. Statcard name → **White Motor Company | זחלי למחצה דיזל 20 מ״מ מתנייע (דו-קני)**.
             - **Magaḥ 2**: Statcard name → **Chrysler Defense | Ṭank M48 A2 C | Ṭank Magaḥ 2**.
                 - Hebrew package: **Magaḥ 2** → **מגח 2**. Statcard name → **Chrysler Defense | M48 A2 C טנק מגח 2 | טנק**.
             - **Magaḥ 3**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M48 A3 | Ṭank Magaḥ 3**.
@@ -285,6 +283,43 @@ All dates are listed in DD-MM-YYYY format.
                 - Hebrew package: **Magaḥ 7G** → **מגח 7ג**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | טנק מגח 7ג**.
             - **Magaḥ 6B Gal**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M60 A1 E2 | Ṭank Magaḥ 6 Bet Gal**.
                 - Hebrew package: **Magaḥ 6B Gal** → **מגח 6ב גל**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M60 A1 E2 טנק מגח 6ב גל | טנק**.
+            - **AMX 13** → **'Ameks 13**. Statcard name → **Atelier de construction de Roanne | Ṭank Kal 'Ameks 13**.
+                - Hebrew package: **AMX 13** → **אמכס 13**. Statcard name → **Atelier de construction de Roanne | טנק קל אמכס 13**.
+            - **AML 90** → **Širyonit 'Amal 90**. Statcard name → **Panhard type 245 | Širyonit 'Amal 90**.
+                - Hebrew package: **AML 90** → **אמל 90**. Statcard name → **Panhard type 245 | שריונית אמל 90**.
+            - **Centurion, Mk. 5** → **Senṭuryon 5**. Statcard name → **Royal Ordnance Factory Leeds | Ṭank Senṭuryon Siman 5 "Šoṭ"**.
+                - Hebrew package: **Centurion, Mk. 5** → **סנטוריון 5**. Statcard name → **Royal Ordnance Factory Leeds | "טנק סנטוריון סימן 5 "שוט**.
+            - **Zaḥalad (TCM-20)** → **Zaḥalad 20 mm (Do-Kani)**. Statcard name → **White Motor Company | Zaḥeli Lemeḥeṣah Dizel 20 Milimeter Mitnaye'a (Do-Kani)**.
+                - Hebrew package: **Zaḥalad (TCM-20)** → **זחל״ד 20 מ״מ (דו-קני)**. Statcard name → **White Motor Company | זחלי למחצה דיזל 20 מ״מ מתנייע (דו-קני)**.
+            - **ZSU-57-2** → **Zi.'S.Yu.-57-2**. Statcard name → **Omskij zavod № 174 im. Vorošilova | Tomat Nem Zi.'Es.Yu.-57-2** (yes I hate it too).
+                - Hebrew package: **ZSU-57-2** → **זי.אס.יו.-2-57**. Statcard name → **Omskij zavod № 174 im. Vorošilova | תומ״ת נ״מ זי.אס.יו.-2-57**.
+                - Hebrew + Russian package: **ZSU-57-2** → **זי.אס.יו.-2-57**. Statcard name → **Омский завод № 174 им. Ворошилова | תומ״ת נ״מ זי.אס.יו.-2-57**.
+            - **Ḥoveṭ**: Statcard name → **General Electric Company | Tomat Nem Ḥoveṭ**.
+                - Hebrew package: **Ḥoveṭ** → **חובט**. Statcard name → **General Electric Company | תומ״ת נ״מ חובט**.
+            - **M109**: Statcard name → **Cadillac Motor Car Division | Tomat M109**.
+                - Hebrew package: **M109**: Statcard name → **Cadillac Motor Car Division | M109 תומ״ת**.
+            - **Rokhev A**: Statcard name → **Cadillac Motor Car Division / Merkaz Šikum ve-Aḥzakah 7000 | Tomat M109 A1 | Tomat Rokhev Alef**.
+                - Hebrew package: **Rokhev A** → **רוכב א**. Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M109 A1 תומ״ת רוכב א | תומ״ת**.
+            - **Zaḥalam (Tager)** → **Zaḥalam (Tager)**. Statcard name → **White Motor Company | Zaḥeli Lemeḥeṣah (Tager)**.
+                - Hebrew package: **Zaḥalam (Tager)** → **זחל״ם (תגר)**. Statcard name → **White Motor Company | זחלי למחצה (תגר)**.
+            - **Šolef V1**: Statcard name → **Soltam Me'rkot | Tomat Šolef V1**.
+                - Hebrew package: **Šolef V1** → **V1 שולף**. Statcard name → **סולתם מערכות | V1 תומ״ת שולף**.
+            - **Ṭiran 4**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | Ṭank Ṭiran 4**.
+                - Hebrew package: **Ṭiran 4** → **טירן 4**. Statcard name → **Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | טנק טירן 4**.
+                - Hebrew + Russian package: **Ṭiran 4** → **טירן 4**. Statcard name → **Уральский вагоностроительный завод им. И. В. Сталина | טנק טירן 4**.
+            - **Ṭiran 4Sh (early)** → **Ṭiran 4 Š (early)**. Statcard name → **Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina / Ḥil ha-Ḥimuš | Ṭank Ṭiran 4 Šrir (early)**.
+                - Hebrew package: **Ṭiran 4Sh (early)** → **(early) טירן 4 ש**. Statcard name → **חיל החימוש / Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | (early) טנק טירן 4 שריר**.
+                - Hebrew + Russian package: **Ṭiran 4Sh (early)** → **(early) טירן 4 ש**. Statcard name → **חיל החימוש / Уральский вагоностроительный завод им. И. В. Сталина | (early) טנק טירן 4 שריר**.
+            - **Ṭiran 6**: Statcard name → **Ural'skim vagonostroityel'nym zavodom im. F. È. Dzyeržinskogo / Ḥil ha-Ḥimuš | Ṭank Ṭiran 6**.
+                - Hebrew package: **Ṭiran 6** → **טירן 6**. Statcard name → **חיל החימוש / Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | טנק טירן 6**.
+                - Hebrew + Russian package: **Ṭiran 6** → **טירן 6**. Statcard name → **חיל החימוש / Уральский вагоностроительный завод им. И. В. Сталина | טנק טירן 6**.
+            - **ZSU-23-4** → **Gu'ndiš**. Statcard name → **Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | Tomat Nem Zi.'Es.Yu.-23-4 | Tomat Nem Gu'ndiš**.
+                - Hebrew package: **ZSU-23-4** → **גאנדיש**. Statcard name → **Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | תומ״ת נ״מ גאנדיש | תומ״ת נ״מ זי.אס.יו.-4-23**.
+                - Hebrew + Russian package: **ZSU-23-4** → **גאנדיש**. Statcard name → **Мытищинский ордена Отечественной войны 1 степени машиностроительный завод | תומ״ת נ״מ גאנדיש | תומ״ת נ״מ זי.אס.יו.-4-23**.
+            - **Bardelas (HVMS 60)**: Statcard name → **FMC Corporation / ha-Ta'asiah ha-Ṣva'it | Nagma'š M113 A2 | Nagma'š Bardelas (60 mm Hyper-Velocity Medium Support Weapon System)**.
+                - Hebrew package: **Bardelas (HVMS 60)** → **גאנדיש**. Statcard name → **התעשייה הצבאית / FMC Corporation | M113 A2 נגמ׳ש | (60 mm Hyper-Velocity Medium Support Weapon System) נגמ׳ש ברדלס**.
+            - **Shoṭ Ḳal A** → **Šoṭ Kal Alef**. Statcard name → **Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Alef**.
+                - Hebrew package: **Shoṭ Ḳal A** → **שוט קל א**. Statcard name → **חיל החימוש / Royal Ordnance Factory Leeds | טנק שוט קל א**.
     - Hungarian air rework:
         - **He 112 B-1/U2** (Germany / Hungary): Statcard name → **Heinkel Flugzeugwerke | He 112 B-1/U2 vadászrepülőgép**.
         - **Bf 110 G-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 110 G-4 éjjeli vadász**.

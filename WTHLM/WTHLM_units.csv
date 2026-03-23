@@ -9075,7 +9075,7 @@ il_m_51_2;Medium Tank
 il_m_51_w_shop;Šerman M-51 (Ṣ-814794)
 il_m_51_w_0;Detroit Arsenal Tank Plant / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Šerman M-51 (Ṣ-814794)
 il_m_51_w_1;Šerman M-51
-il_m_51_w_2;Medium tank
+il_m_51_w_2;Medium Tank
 il_m48a1_patton_III_shop;Magaḥ 1
 il_m48a1_patton_III_0;Chrysler Defense | Ṭank M48 A1 | Ṭank Magaḥ 1
 il_m48a1_patton_III_1;Magaḥ 1
@@ -9083,7 +9083,7 @@ il_m48a1_patton_III_2;MBT
 il_magach_2_shop;Magaḥ 2
 il_magach_2_0;Chrysler Defense | Ṭank M48 A2 C | Ṭank Magaḥ 2
 il_magach_2_1;Magaḥ 2
-il_magach_2_2;Medium tank
+il_magach_2_2;MBT
 il_magach_3_idf_shop;Magaḥ 3
 il_magach_3_idf_0;Chrysler Defense / Merkaz Šikum ve-Aḥzakah 7000 | Ṭank M48 A3 | Ṭank Magaḥ 3
 il_magach_3_idf_1;Magaḥ 3
@@ -9136,16 +9136,84 @@ il_magach_6b_gal_shop;Magaḥ 6B Gal
 il_magach_6b_gal_0;Magaḥ 6 Bet Gal
 il_magach_6b_gal_1;Magaḥ 6B
 il_magach_6b_gal_2;MBT
+il_amx_13_75_shop; 'Ameks 13
+il_amx_13_75_0; Atelier de construction de Roanne | Ṭank Kal 'Ameks 13
+il_amx_13_75_1; 'Ameks 13
+il_amx_13_75_2;Light Tank
+il_aml_90_shop; 'Amal 90
+il_aml_90_0; Panhard type 245 | Širyonit 'Amal 90
+il_aml_90_1; 'Amal 90
+il_aml_90_2;Armored Car
+il_centurion_mk_5_shot_shop; Senṭuryon 5
+il_centurion_mk_5_shot_0;" Royal Ordnance Factory Leeds | Ṭank Senṭuryon Siman 5 ""Šoṭ"""
+il_centurion_mk_5_shot_1; Senṭuryon 5
+il_centurion_mk_5_shot_2;MBT
 il_tcm_20_shop;Zaḥalad 20 mm (Do-Kani)
 il_tcm_20_0;White Motor Company | Zaḥeli Lemeḥeṣah Dizel 20 Milimeter Mitnaye'a (Do-Kani)
 il_tcm_20_1;Zaḥalad 20 mm (Do-Kani)
 il_tcm_20_2;SPAA
+il_zsu_57_2_shop; Zi.'Es.Yu.-57-2
+il_zsu_57_2_0; Omskij zavod № 174 im. Vorošilova | Tomat Nem Zi.'Es.Yu.-57-2
+il_zsu_57_2_1; Zi.'Es.Yu.-57-2
+il_zsu_57_2_2;SPAA
+il_m163_vulcan_shop;Ḥoveṭ
+il_m163_vulcan_0;General Electric Company | Tomat Nem Ḥoveṭ
+il_m163_vulcan_1;Ḥoveṭ
+il_m163_vulcan_2;SPAA
+il_m109_shop; M109
+il_m109_0; Cadillac Motor Car Division | Tomat M109
+il_m109_1; M109
+il_m109_2;SPG
+il_m109a1_shop;Rokhev A
+il_m109a1_0;Cadillac Motor Car Division / Merkaz Šikum ve-Aḥzakah 7000 | Tomat M109 A1 | Tomat Rokhev Alef
+il_m109a1_1;Rokhev A
+il_m109a1_2;SPG
+il_ss_11_halftrack_shop;Zaḥalam (Tager)
+il_ss_11_halftrack_0;White Motor Company | Zaḥeli Lemeḥeṣah (Tager)
+il_ss_11_halftrack_1;Zaḥalam (Tager)
+il_ss_11_halftrack_2;SPG
+il_sholef_shop;Šolef V1
+il_sholef_0;Soltam Me'rkot | Tomat Šolef V1
+il_sholef_1;Šolef V1
+il_sholef_2;SPG
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+il_tiran_4_shop;Ṭiran 4
+il_tiran_4_0;Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | Ṭank Ṭiran 4
+il_tiran_4_1;Ṭiran 4
+il_tiran_4_2;MBT
+il_tiran_4_sh_shop;Ṭiran 4 Š (early)
+il_tiran_4_sh_0;Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | Ṭank Ṭiran 4 Šrir (early)
+il_tiran_4_sh_1;Ṭiran 4 Š
+il_tiran_4_sh_2;MBT
+il_tiran_6_shop;Ṭiran 6
+il_tiran_6_0;Ural'skim vagonostroityel'nym zavodom im. F. È. Dzyeržinskogo / Ḥil ha-Ḥimuš | Ṭank Ṭiran 6
+il_tiran_6_1;Ṭiran 6
+il_tiran_6_2;MBT
+il_centurion_shot_kal_alef_shop;Šoṭ Kal A
+il_centurion_shot_kal_alef_0;Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Alef
+il_centurion_shot_kal_alef_1;Šoṭ Kal A
+il_centurion_shot_kal_alef_2;MBT
+il_centurion_shot_kal_gimel_shop;Shoṭ Ḳal G
+il_centurion_shot_kal_gimel_0;Shoṭ Ḳal Gimel
+il_centurion_shot_kal_gimel_1;Shoṭ Ḳal G
+il_centurion_shot_kal_gimel_2;MBT
+il_centurion_shot_kal_d_shop;Shoṭ Ḳal D
+il_centurion_shot_kal_d_0;Shoṭ Ḳal Dalet
+il_centurion_shot_kal_d_1;Shoṭ Ḳal D
+il_centurion_shot_kal_d_2;MBT
+uk_centurion_shot_kal_d_shop;▄ Shoṭ Ḳal D
+uk_centurion_shot_kal_d_0;▄ Shoṭ Ḳal Dalet
+uk_centurion_shot_kal_d_1;▄ Shoṭ Ḳal D
+uk_centurion_shot_kal_d_2;MBT
+il_zsu_23_4_shop;Gu'ndiš
+il_zsu_23_4_0;Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | Tomat Nem Zi.'Es.Yu.-23-4 | Tomat Nem Gu'ndiš
+il_zsu_23_4_1;Gu'ndiš
+il_zsu_23_4_2;SPAA
 il_m113_hvms_shop;Bardelas (HVMS 60)
-il_m113_hvms_0;Israel Military Industries | Bardelas (60 mm Hyper-Velocity Medium Support Weapon)
+il_m113_hvms_0;FMC Corporation / ha-Ta'asiah ha-Ṣva'it | Nagma'š M113 A2 | Nagma'š Bardelas (60 mm Hyper-Velocity Medium Support Weapon System)
 il_m113_hvms_1;Bardelas (HVMS 60)
-il_m113_hvms_2;Light tank
+il_m113_hvms_2;Light Tank
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 il_merkava_mk_1_shop;Merkavah Mk. 1
@@ -13034,62 +13102,10 @@ il_m113a1_tow_shop;Gi'raf
 il_m113a1_tow_0;Gi'raf
 il_m113a1_tow_1;Gi'raf
 il_m113a1_tow_2;SPG
-il_m109a1_shop;Rokhev A
-il_m109a1_0;Rokhev Alef
-il_m109a1_1;Rokhev A
-il_m109a1_2;SPG
-il_m109_shop; M109
-il_m109_0; G-296 | Howitzer, Medium, Self-Propelled, 155mm, M109
-il_m109_1; M109
-il_m109_2;SPG
-il_amx_13_75_shop; AMX 13
-il_amx_13_75_0; AMX 13
-il_amx_13_75_1; AMX 13
-il_amx_13_75_2;Light tank
-il_aml_90_shop; AML 90
-il_aml_90_0; AML 90
-il_aml_90_1; AML 90
-il_aml_90_2;Light tank
-il_centurion_shot_kal_gimel_shop;Shoṭ Ḳal G
-il_centurion_shot_kal_gimel_0;Shoṭ Ḳal Gimel
-il_centurion_shot_kal_gimel_1;Shoṭ Ḳal G
-il_centurion_shot_kal_gimel_2;Medium tank
-il_centurion_shot_kal_alef_shop;Shoṭ Ḳal A
-il_centurion_shot_kal_alef_0;Shoṭ Ḳal Alef
-il_centurion_shot_kal_alef_1;Shoṭ Ḳal A
-il_centurion_shot_kal_alef_2;Medium tank
-il_centurion_mk_5_shot_shop; Centurion, Mk. 5
-il_centurion_mk_5_shot_0;" Tank, Medium Gun, Centurion, Mk. 5 ""Shoṭ"""
-il_centurion_mk_5_shot_1; Centurion, Mk. 5
-il_centurion_mk_5_shot_2;Medium tank
-il_tiran_4_shop;Ṭiran 4
-il_tiran_4_0;Ṭiran 4
-il_tiran_4_1;Ṭiran 4
-il_tiran_4_2;Medium tank
-il_tiran_4_sh_shop;Ṭiran 4Sh (early)
-il_tiran_4_sh_0;Ṭiran 4Sh (early)
-il_tiran_4_sh_1;Ṭiran 4
-il_tiran_4_sh_2;Medium tank
-il_tiran_6_shop;Ṭiran 6
-il_tiran_6_0;Ṭiran 6
-il_tiran_6_1;Ṭiran 6
-il_tiran_6_2;Medium tank
-il_zsu_57_2_shop; ZSU-57-2
-il_zsu_57_2_0; ZSU-57-2
-il_zsu_57_2_1; ZSU-57-2
-il_zsu_57_2_2;SPAA
-il_zsu_23_4_shop; ZSU-23-4V
-il_zsu_23_4_0;" ZSU-23-4V ""Gundish"""
-il_zsu_23_4_1; ZSU-23-4V
-il_zsu_23_4_2;SPAA
 il_machbet_shop;Maḥbeṭ
 il_machbet_0;Maḥbeṭ
 il_machbet_1;Maḥbeṭ
 il_machbet_2;SPAA
-il_ss_11_halftrack_shop;Zaḥalam Tager
-il_ss_11_halftrack_0;Zaḥeli Lemeḥeṣah Tager
-il_ss_11_halftrack_1;Zaḥalam Tager
-il_ss_11_halftrack_2;SPG
 il_merkava_mk_1b_shop;Merkavah Mk. 1M
 il_merkava_mk_1b_0;Merkavah Siman 1 Mshupar
 il_merkava_mk_1b_1;Merkavah Mk. 1
@@ -13130,14 +13146,6 @@ il_namer_tsrikhon_shop;Namer Ṣariaḥ
 il_namer_tsrikhon_0;Nagmaš Merkavah Ṣariaḥ
 il_namer_tsrikhon_1;Namer
 il_namer_tsrikhon_2;IFV
-il_centurion_shot_kal_d_shop;Shoṭ Ḳal D
-il_centurion_shot_kal_d_0;Shoṭ Ḳal Dalet
-il_centurion_shot_kal_d_1;Shoṭ Ḳal D
-il_centurion_shot_kal_d_2;MBT
-il_m163_vulcan_shop;Ḥoveṭ
-il_m163_vulcan_0;Ḥoveṭ
-il_m163_vulcan_1;Ḥoveṭ
-il_m163_vulcan_2;SPAA
 il_merkava_mk_2d_shop;Merkavah Mk. 2B Baṭaš
 il_merkava_mk_2d_0;Merkavah Siman 2 Bet Baṭaš
 il_merkava_mk_2d_1;Merkavah Mk. 2
@@ -13146,10 +13154,6 @@ il_sabra_mk1_shop;Sabrah Mk. 1
 il_sabra_mk1_0;Israel Military Industries | Sabrah Siman 1
 il_sabra_mk1_1;Sabrah Mk. 1
 il_sabra_mk1_2;MBT
-uk_centurion_shot_kal_d_shop;▄ Shoṭ Ḳal D
-uk_centurion_shot_kal_d_0;▄ Shoṭ Ḳal Dalet
-uk_centurion_shot_kal_d_1;▄ Shoṭ Ḳal D
-uk_centurion_shot_kal_d_2;Medium tank
 it_vcc_80_hitfist_60_shop;VCC-80 Dardo (60/70)
 it_vcc_80_hitfist_60_0;Veicolo Cingolato da Combattimento 80 Dardo da 60/70
 it_vcc_80_hitfist_60_1;Dardo
@@ -15849,10 +15853,6 @@ it_albatros_class_f544_shop;Alcione (F 544)
 it_albatros_class_f544_0;Cantiere navale di Castellammare di Stabia | Corvetta Classe Albatros | Alcione (F 544)
 it_albatros_class_f544_1;Albatros
 it_albatros_class_f544_2;Corvette
-il_sholef_shop;Šolef V1
-il_sholef_0;Soltam Systems Šolef V1
-il_sholef_1;Šolef
-il_sholef_2;SPG
 germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
 germ_destroyer_fletcher_zerstorer4_0;Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)
 germ_destroyer_fletcher_zerstorer4_1;Z 4

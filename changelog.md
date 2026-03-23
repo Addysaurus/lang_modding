@@ -329,6 +329,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Bf 110 G-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 110 G-4 éjjeli vadász**.
         - **Bf 109 F-4** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 109 F-4 vadászrepülőgép**.
         - **Bf 109 G-2** (Italy / Hungary): Statcard name → **Messerschmitt | Bf 109 G-2 vadászrepülőgép**.
+    - **44 M. Zrínyi (sorozatvető)**: Statcard name → **Manfréd Weiss | 7,5 cm 44 M. Zrínyi rohamágyú (43 M. rakéta sorozatvető)**.
     - **He 112 B-2/U2** (Germany / Romania): Statcard name → **Heinkel Flugzeugwerke | He 112 B-2/U2**.
     - **La-200-02** → **200**. Statcard name → **Opytno-konstruktorskoye bûro № 301 200** (yeah I know it sucks).
     - **La-15**: Statcard name → **Aviaczionnyj zavod № 21 | izd. 52 | Samolyet La-15**.

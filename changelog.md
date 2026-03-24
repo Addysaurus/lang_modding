@@ -20,6 +20,8 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.17.00 - 23-03-2026
 
+This update completely reworks every Israeli vehicle and weapon in the game. New Hebrew and Hebrew-Russian combination packages have been introduced, as well as a new Full Ammunition Names Ukrainian package. Additionally, all Hungarian WWII aircraft have been reworked. I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu) for help with this. It would not have been possible without him.
+
 ### Vehicles:
 
 - ### Additions:

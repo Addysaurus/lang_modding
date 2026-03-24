@@ -56,36 +56,38 @@ Available packages:
     - This is a combination package for crossover between Hebrew and Russian text (needs base Hebrew to work).
   - Japanese:
     - This package puts Japanese vehicles and weapons into Japanese.
-  - Mandarin
+  - Mandarin:
     - This package puts Chinese vehicles and weapons into Chinese.
-  - Mandarin + Russian
+  - Mandarin + Russian:
     - This is a combination package for crossover between Chinese and Russian text (needs base Mandarin to work).
-  - Full Mandarin
+  - Full Mandarin:
     - This is a package for fully Mandarin names (e.g. 歼7II instead of J7II) (needs base Mandarin to work).
-  - Full Mandarin + Russian
+  - Full Mandarin + Russian:
     - This is a combiantion package for crossover between fully chinese and Russian text (needs base Mandarin, Full Mandarin, and Mandarin + Russian to work).
   - Thai:
     - This package puts Thai vehicles and weapons into Thai.
-  - Ukrainian
+  - Ukrainian:
     - This package puts Ukrainian vehicles and weapons into Ukrainian.
-  - Thai + Ukrainian
+  - Thai + Ukrainian:
     - This package corrects crossover between the Thai and Ukrainian packages, allowing you to have Thai and Ukrainian running together in crossover cases (e.g. the long name of the Th.Hlạk 57).
 - Other packages:
-  - Full Ammunition Names
+  - Full Ammunition Names:
     - This package introduces the full names of ammunition that may be too long to be convenient for use.
-  - Full Ammunition Names Mandarin
+  - Full Ammunition Names Mandarin:
     - This package introduces the full names of ammunition in Chinese (needs base Full Ammunition Names to work).
-  - Full Ammunition Names Full Mandarin
+  - Full Ammunition Names Full Mandarin:
     - This package introduces fully Chinese names for the full ammo package (e.g. 飞豹-10 instead of FB-10) (needs base Full Ammunition Names and Full Ammunition Names Mandarin to work).
-  - Full Ammunition Names Mandarin + Russian
+  - Full Ammunition Names Mandarin + Russian:
     - This is a crossover package for combination names between Chinese and Russian text (needs base Full Ammunition Names and Full Ammunition Names Mandarin to work).
-  - Full Ammunition Names Full Mandarin + Russian
+  - Full Ammunition Names Full Mandarin + Russian:
     - This is a crossover package for combination names between fully Chinese and Russian text (needs base Full Ammunition Names, Full Ammunition Names Mandarin, Full Ammuntion Names Mandarin + Russian, and Full Ammunition Names Full Mandarin (i.e. the previous 4 Full Ammunition Names package) to work).
-  - Finnish Ps. Designators
+  - Full Ammunition Names Ukrainian:
+    - This package introduces the full names of ammunition in Ukrainian (needs base Full Ammunition Names to work).
+  - Finnish Ps. Designators:
     - This package makes the short names of Finnish ground vehicles their Ps. designations.
-  - Original Country Names
+  - Original Country Names:
     - This package gives every country its native name instead of any exonyms, transliterating from non-latin writing systems (e.g. Germany becomes Deutschland, China becomes Zhōngguó, etc.).
-  - Original Country Names
+  - Original Country Names:
     - This package gives every country its native name instead of any exonyms, including in languages that use non-latin writing systems (e.g. Germany becomes Deutschland, China becomes 中国, etc.).
 
 ## The mod team

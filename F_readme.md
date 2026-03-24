@@ -40,7 +40,7 @@ Available packages:
     - This is a combination package for crossover between Hebrew and Russian text (needs base Hebrew to work).
   - Japanese:
     - This package puts Japanese vehicles and weapons into Japanese.
-  - Mandarin::
+  - Mandarin:
     - This package puts Chinese vehicles and weapons into Chinese.
   - Mandarin + Russian:
     - This is a combination package for crossover between Chinese and Russian text (needs base Mandarin to work).

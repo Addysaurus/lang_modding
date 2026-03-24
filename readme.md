@@ -48,12 +48,16 @@ This mod has additional packages you can install to modify vehicle names and put
 
 Available packages:
 - Language packages:
-  - Japanese:
-    - This package puts Japanese vehicles and weapons and weapons into Japanese.
   - Farsi:
-    - This package puts Iranian vehicles and weapons and weapons into Farsi.
+    - This package puts Iranian vehicles and weapons into Farsi.
+  - Hebrew:
+    - This package puts Israeli vehicles and weapons into Hebrew.
+  - Hebrew + Russian:
+    - This is a combination package for crossover between Hebrew and Russian text (needs base Hebrew to work).
+  - Japanese:
+    - This package puts Japanese vehicles and weapons into Japanese.
   - Mandarin
-    - This package puts Chinese vehicles and weapons and weapons into Chinese.
+    - This package puts Chinese vehicles and weapons into Chinese.
   - Mandarin + Russian
     - This is a combination package for crossover between Chinese and Russian text (needs base Mandarin to work).
   - Full Mandarin

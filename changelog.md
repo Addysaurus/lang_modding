@@ -18,7 +18,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.17.00 - UNRELEASED
+## 1.17.00 - 23-03-2026
 
 ### Vehicles:
 

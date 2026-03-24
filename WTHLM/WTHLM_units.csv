@@ -1625,9 +1625,9 @@ shop/group/il_magach_6a_5_group;Magaḥ 6A / 5
 shop/group/il_magach_6m_c_group;Magaḥ 6M / G
 shop/group/il_magach_batash_7_group;Magaḥ 6B Gal Baṭaš / 7G
 shop/group/il_tiran_4_group;Ṭiran 4 / 4Sh
-shop/group/il_merkava_1_2_group;Merkavah Mk. 1M / 2B
-shop/group/il_merkava_3_group;Merkavah Mk. 3 Ramaḥ / B Baz
-shop/group/il_merkava_4_group;"Merkavah Mk. 4B / B ""LIC"""
+shop/group/il_merkava_1_2_group;Merkavah 1M / 2B
+shop/group/il_merkava_3_group;Merkavah 3 Ramaḥ / B Baz
+shop/group/il_merkava_4_group;"Merkavah 4B / B ""LIC"""
 shop/group/il_magach_6_6a_group;Magaḥ 6 / 6A
 shop/group/il_magach_6_group;Magaḥ 6B / R / R (M261)
 shop/group/md_460_iaf_group; Super Misṭer B-2 / Sa'ar
@@ -3511,17 +3511,17 @@ us_efv_p1_shop;EFV-P1 (SDD-2) (M82)
 us_efv_p1_0;General Dynamics Land Systems Expeditionary Fighting Vehicle Personnel Variant 1 (System Development and Demonstration 2) (Grenade, Launcher, Smoke: Simulant Screening, M82)
 us_efv_p1_1;EFV-P1
 us_efv_p1_2;IFV
-us_merkava_mk_1_shop;▃ Merkavah Mk. 1
-us_merkava_mk_1_0;▃ Merkavah Siman 1
-us_merkava_mk_1_1;▃ Merkavah Mk. 1
+us_merkava_mk_1_shop;▃ Merkavah 1
+us_merkava_mk_1_0;▃ Merkaz Šikum ve-Aḥzakah 7000 | Ṭanḳ Merkavah Siman 1
+us_merkava_mk_1_1;▃ Merkavah 1
 us_merkava_mk_1_2;MBT
-us_merkava_mk_2b_late_shop;▃ Merkavah Mk. 2B (late)
-us_merkava_mk_2b_late_0;▃ Merkavah Siman 2 Bet (late)
-us_merkava_mk_2b_late_1;▃ Merkavah Mk. 2
+us_merkava_mk_2b_late_shop;▃ Merkavah 2B (early)
+us_merkava_mk_2b_late_0;▃ Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Merkavah Siman 2 Bet (early)
+us_merkava_mk_2b_late_1;▃ Merkavah 2B
 us_merkava_mk_2b_late_2;MBT
-us_merkava_mk_3d_shop;▃ Merkavah Mk. 3D
-us_merkava_mk_3d_0;▃ Merkavah Siman 3 Dalet Baz
-us_merkava_mk_3d_1;▃ Merkavah Mk. 3
+us_merkava_mk_3d_shop;▃ Merkavah 3D
+us_merkava_mk_3d_0;▃ Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Merkavah Siman 3 Dalet Baz
+us_merkava_mk_3d_1;▃ Merkavah 3D
 us_merkava_mk_3d_2;MBT
 us_xm_8_shop;XM8 AGS
 us_xm_8_0;105mm Armored Gun System, XM8
@@ -5725,6 +5725,10 @@ uk_badger_shop;Badger SV
 uk_badger_0;Denel Land Systems | Badger Section Variant
 uk_badger_1;Badger SV
 uk_badger_2;IFV
+uk_centurion_shot_kal_d_shop;▄ Šoṭ Kal D
+uk_centurion_shot_kal_d_0;▄ Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Dalet
+uk_centurion_shot_kal_d_1;▄ Šoṭ Kal D
+uk_centurion_shot_kal_d_2;MBT
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 uk_ajax_shop;Ajax
@@ -8129,7 +8133,7 @@ me_210ca_1_hungary_0;◐ Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 ne
 me_210ca_1_hungary_1;◐ Me 210 Ca
 me_210ca_1_hungary_2;◐ Me 210
 me_210ca_1_40_mm_hungary_shop;◐ Me 210 Ca-1 (36 M.)
-me_210ca_1_40_mm_hungary_0;◐ Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 nehéz vadászrepülőgép (40 mm 36 M. légvédelmi gépágyú)
+me_210ca_1_40_mm_hungary_0;◐ Messerschmitt / Dunai Repülogépgyár | Me 210 Ca-1 nehéz vadászrepülőgép (4 cm 36 M. légvédelmi gépágyú)
 me_210ca_1_40_mm_hungary_1;◐ Me 210 Ca
 me_210ca_1_40_mm_hungary_2;◐ Me 210
 bf_110g_4_hungary_shop;◐ Bf 110 G-4
@@ -9202,10 +9206,6 @@ il_centurion_shot_kal_d_shop;Šoṭ Kal D
 il_centurion_shot_kal_d_0;Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Dalet
 il_centurion_shot_kal_d_1;Šoṭ Kal D
 il_centurion_shot_kal_d_2;MBT
-uk_centurion_shot_kal_d_shop;▄ Šoṭ Kal D
-uk_centurion_shot_kal_d_0;▄ Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Dalet
-uk_centurion_shot_kal_d_1;▄ Šoṭ Kal D
-uk_centurion_shot_kal_d_2;MBT
 il_zsu_23_4_shop;Gu'ndiš
 il_zsu_23_4_0;Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | Tomat Nem Zi.'Es.Yu.-23-4 | Tomat Nem Gu'ndiš
 il_zsu_23_4_1;Gu'ndiš
@@ -9216,10 +9216,46 @@ il_m113_hvms_1;Bardelas (HVMS 60)
 il_m113_hvms_2;Light Tank
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
-il_merkava_mk_1_shop;Merkavah Mk. 1
-il_merkava_mk_1_0;Minhalet Tokhnit ha-Merkavah ve-ha-Raḳam, Meḥalḳet Pituḥ ha-Ṭanḳ | Ṭanḳ Merkavah Siman 11
-il_merkava_mk_1_1;Merkavah Mk. 1
+il_merkava_mk_1_shop;Merkavah 1
+il_merkava_mk_1_0;Merkaz Šikum ve-Aḥzakah 7000 | Ṭanḳ Merkavah Siman 1
+il_merkava_mk_1_1;Merkavah 1
 il_merkava_mk_1_2;MBT
+il_merkava_mk_1b_shop;Merkavah 1 Mešupar
+il_merkava_mk_1b_0;Merkaz Šikum ve-Aḥzakah 7000 | Ṭanḳ Merkavah Siman 1 Mešupar
+il_merkava_mk_1b_1;Merkavah 1 Mešupar
+il_merkava_mk_1b_2;MBT
+il_merkava_mk_2b_early_shop;Merkavah 2B (early)
+il_merkava_mk_2b_early_0;Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Merkavah Siman 2 Bet (early)
+il_merkava_mk_2b_early_1;Merkavah 2B
+il_merkava_mk_2b_early_2;MBT
+il_merkava_mk_2d_shop;Merkavah 2B le-Baṭaš
+il_merkava_mk_2d_0;Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Merkavah Siman 2 Bet le-Baṭaš
+il_merkava_mk_2d_1;Merkavah 2B
+il_merkava_mk_2d_2;MBT
+il_merkava_mk_3b_shop;Merkavah 3 Ramaḥ
+il_merkava_mk_3b_0;Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Merkavah Siman 3 Ramaḥ
+il_merkava_mk_3b_1;Merkavah 3
+il_merkava_mk_3b_2;MBT
+il_merkava_mk_3c_shop;Merkavah 3B Baz
+il_merkava_mk_3c_0;Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Merkavah Siman 3 Bet Baz
+il_merkava_mk_3c_1;Merkavah 3B
+il_merkava_mk_3c_2;MBT
+il_merkava_mk_3_raam_segol_shop;Merkavah 3D (Ra'am Segol)
+il_merkava_mk_3_raam_segol_0;Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Merkavah Siman 3 Dalet Baz (Ra'am Segol)
+il_merkava_mk_3_raam_segol_1;Merkavah 3D
+il_merkava_mk_3_raam_segol_2;MBT
+il_merkava_mk_4b_shop;Merkavah 4B
+il_merkava_mk_4b_0;Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Merkavah Siman 4 Bet
+il_merkava_mk_4b_1;Merkavah 4B
+il_merkava_mk_4b_2;MBT
+il_merkava_mk_4_lic_shop;"Merkavah 4B ""LIC"""
+il_merkava_mk_4_lic_0;"Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Merkavah Siman 4 Bet ""Low Intensity Conflict"""
+il_merkava_mk_4_lic_1;Merkavah 4B
+il_merkava_mk_4_lic_2;MBT
+il_merkava_mk_4m_shop;Merkavah 4M
+il_merkava_mk_4m_0;Merkaz Šikum ve-Aḥzakah 7000 | Ṭank Merkavah Siman 4 Me'il Ruaḥ
+il_merkava_mk_4m_1;Merkavah 4M
+il_merkava_mk_4m_2;MBT
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 il_mim_72_chaparral_shop;Draḳon
@@ -13106,38 +13142,6 @@ il_machbet_shop;Maḥbeṭ
 il_machbet_0;Maḥbeṭ
 il_machbet_1;Maḥbeṭ
 il_machbet_2;SPAA
-il_merkava_mk_1b_shop;Merkavah Mk. 1M
-il_merkava_mk_1b_0;Merkavah Siman 1 Mshupar
-il_merkava_mk_1b_1;Merkavah Mk. 1
-il_merkava_mk_1b_2;MBT
-il_merkava_mk_3_raam_segol_shop;Merkavah Mk. 3D (Ra'am Segol)
-il_merkava_mk_3_raam_segol_0;Merkavah Siman 3 Dalet Baz (Ra'am Segol)
-il_merkava_mk_3_raam_segol_1;Merkavah Mk. 3
-il_merkava_mk_3_raam_segol_2;MBT
-il_merkava_mk_4_lic_shop;"Merkavah Mk. 4B ""LIC"""
-il_merkava_mk_4_lic_0;"Merkavah Siman 4 Bet ""Low Intensity Conflict"""
-il_merkava_mk_4_lic_1;Merkavah Mk. 4
-il_merkava_mk_4_lic_2;MBT
-il_merkava_mk_4m_shop;Merkavah Mk. 4M
-il_merkava_mk_4m_0;Merkavah Siman 4 M'il Ruaḥ
-il_merkava_mk_4m_1;Merkavah Mk. 4
-il_merkava_mk_4m_2;MBT
-il_merkava_mk_3c_shop;Merkavah Mk. 3B Baz
-il_merkava_mk_3c_0;Merkavah Siman 3 Bet Baz
-il_merkava_mk_3c_1;Merkavah Mk. 3
-il_merkava_mk_3c_2;MBT
-il_merkava_mk_3b_shop;Merkavah Mk. 3 Ramaḥ
-il_merkava_mk_3b_0;Merkavah Siman 3 Ramaḥ
-il_merkava_mk_3b_1;Merkavah Mk. 3
-il_merkava_mk_3b_2;MBT
-il_merkava_mk_4b_shop;Merkavah Mk. 4B
-il_merkava_mk_4b_0;Merkavah Siman 4 Bet
-il_merkava_mk_4b_1;Merkavah Mk. 4
-il_merkava_mk_4b_2;MBT
-il_merkava_mk_2b_early_shop;Merkavah Mk. 2B (early)
-il_merkava_mk_2b_early_0;Merkavah Siman 2 Bet (early)
-il_merkava_mk_2b_early_1;Merkavah Mk. 2
-il_merkava_mk_2b_early_2;MBT
 il_namer_rcws_30_shop;Namer (RCWS-30)
 il_namer_rcws_30_0;Nagmaš Merkavah (RCWS-30)
 il_namer_rcws_30_1;Namer (RCWS-30)
@@ -13146,10 +13150,6 @@ il_namer_tsrikhon_shop;Namer Ṣariaḥ
 il_namer_tsrikhon_0;Nagmaš Merkavah Ṣariaḥ
 il_namer_tsrikhon_1;Namer
 il_namer_tsrikhon_2;IFV
-il_merkava_mk_2d_shop;Merkavah Mk. 2B Baṭaš
-il_merkava_mk_2d_0;Merkavah Siman 2 Bet Baṭaš
-il_merkava_mk_2d_1;Merkavah Mk. 2
-il_merkava_mk_2d_2;MBT
 il_sabra_mk1_shop;Sabrah Mk. 1
 il_sabra_mk1_0;Israel Military Industries | Sabrah Siman 1
 il_sabra_mk1_1;Sabrah Mk. 1

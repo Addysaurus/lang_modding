@@ -255,6 +255,12 @@ weapons/cannonAkan_m46a/short;20 mm akan m/46A
 
 //ISRAEL GUNS
 weapons/60mm_hvms_user_cannon;<color=@userlogColoredText>60 mm</color> 60 mm Hyper-Velocity Medium Support Weapon System <color=#ff6f00>CNN</color>
+weapons/105mm_M_51_user_cannon;<color=@userlogColoredText>105 mm</color> Tutaḥ 105 mm M-51 <color=#ff6f00>CNN</color>
+weapons/105mm_L7_Shot_user_cannon;<color=@userlogColoredText>105 mm</color> Tutaḥ 105 mm Šrir <color=#ff6f00>CNN</color>
+weapons/105mm_M68_Magach_user_cannon;<color=@userlogColoredText>105 mm</color> Tutaḥ 105 mm Šrir <color=#ff6f00>CNN</color>
+weapons/120mm_IMI_MG251_user_cannon;<color=@userlogColoredText>120 mm</color> Tutaḥ 120 mm MG251 <color=#ff6f00>CNN</color>
+weapons/120mm_IMI_MG251_LR_user_cannon;<color=@userlogColoredText>120 mm</color> Tutaḥ 120 mm Reti'ah 'Arukah MG251-LR <color=#ff6f00>CNN</color>
+weapons/120mm_IMI_MG253_user_cannon;<color=@userlogColoredText>120 mm</color> Tutaḥ 120 mm Reti'ah 'Arukah MG253 <color=#ff6f00>CNN</color>
 
 //UNCATEGORIZED GUNS
 
@@ -1034,9 +1040,25 @@ us_iris_t;lvrb 98
 weapons/127mm_IRIS_T_user_cannon;Diehl Defence ML-98 | luftvärnsrobotsystem 98 <color=#ff6f00>LCH</color>
 
 //ISRAEL MISSILES
+weapons/il_shafrir_1;Šafrir 1 <color=#ff6f00>AAM-IR</color>
+weapons/il_shafrir_1/short;Šafrir 1
+weapons/il_shafrir_2;Šafrir 2 <color=#ff6f00>AAM-IR</color>
+weapons/il_shafrir_2/short;Šafrir 2
+weapons/il_shafrir_2_default;Šafrir 2 <color=#ff6f00>AAM-IR</color>
+weapons/il_shafrir_2_default/short;Šafrir 2
+weapons/il_pyton_3;Piton 3 <color=#ff6f00>AAM-IR</color>
+weapons/il_pyton_3/short;Piton 3
+weapons/il_pyton_3_default;Piton 3 <color=#ff6f00>AAM-IR</color>
+weapons/il_pyton_3_default/short;Piton 3
+weapons/il_pyton_4;Piton 4 <color=#ff6f00>AAM-IR</color>
+weapons/il_pyton_4/short;Piton 4
 weapons/il_python_5_sam;Python 5 Short Range <color=#ff6f00>SAM-IR</color>
 weapons/il_python_5_sam/short;Python 5 SR
 il_python_5_sam;Python 5 SR
+weapons/il_derby;Derbi <color=#ff6f00>AAM-ARH</color>
+weapons/il_derby/short;Derbi
+weapons/il_derby_default;Derbi <color=#ff6f00>AAM-ARH</color>
+weapons/il_derby_default/short;Derbi
 weapons/il_derby_sam;I-Derby Short Range <color=#ff6f00>SAM-IR</color>
 weapons/il_derby_sam/short;I-Derby SR
 weapons/il_derby_er_sam;I-Derby Extended Range <color=#ff6f00>SAM-IR</color>
@@ -4148,9 +4170,6 @@ weapons/7_62mm_Beretta_MG42_59_600_user_machinegun;7.62 mm Beretta MG42/59 machi
 20mm_perforante_m35;Perforante mod.35
 weapons/8mm_Breda_Mod37_user_machinegun;8 mm Breda mod.37 machine gun
 weapons/125mm_2A46M_user_cannon;<color=@userlogColoredText>125 mm</color> 2A46M <color=#ff6f00>CNN</color>
-weapons/105mm_M68_Magach_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, M68 <color=#ff6f00>CNN</color>
-weapons/105mm_M_51_user_cannon;<color=@userlogColoredText>105 mm</color> Canon de 105mm D.1508 ABS L/51 <color=#ff6f00>CNN</color>
-weapons/105mm_L7_Shot_user_cannon;<color=@userlogColoredText>105 mm</color> Šarir <color=#ff6f00>CNN</color>
 105mm_imi_m156;M156
 105mm_imi_m152;M152
 weapons/37mm_Vickers_Terni_37_40_M18_user_cannon;37 mm Vickers-Terni 37/40 mod.18 cannon
@@ -4557,22 +4576,6 @@ weapons/uk_sraam;SRAAM <color=#ff6f00>AAM-IR</color>
 weapons/uk_sraam/short;SRAAM
 weapons/uk_sraam_default;SRAAM <color=#ff6f00>AAM-IR</color>
 weapons/uk_sraam_default/short;SRAAM
-weapons/il_shafrir_1;Šafrir <color=#ff6f00>AAM-IR</color>
-weapons/il_shafrir_1/short;Šafrir
-weapons/il_shafrir_2;Šafrir 2 <color=#ff6f00>AAM-IR</color>
-weapons/il_shafrir_2/short;Šafrir 2
-weapons/il_shafrir_2_default;Šafrir 2 <color=#ff6f00>AAM-IR</color>
-weapons/il_shafrir_2_default/short;Šafrir 2
-weapons/il_pyton_3;Piton 3 <color=#ff6f00>AAM-IR</color>
-weapons/il_pyton_3/short;Piton 3
-weapons/il_pyton_3_default;Piton 3 <color=#ff6f00>AAM-IR</color>
-weapons/il_pyton_3_default/short;Piton 3
-weapons/il_pyton_4;Piton 4 <color=#ff6f00>AAM-IR</color>
-weapons/il_pyton_4/short;Piton 4
-weapons/il_derby;Derby <color=#ff6f00>AAM-ARH</color>
-weapons/il_derby/short;Derby
-weapons/il_derby_default;Derby <color=#ff6f00>AAM-ARH</color>
-weapons/il_derby_default/short;Derby
 weapons/r_darter;V4 Radar Darter <color=#ff6f00>AAM-ARH</color>
 weapons/r_darter/short;V4
 weapons/r_darter_default;V4 Radar Darter <color=#ff6f00>AAM-ARH</color>
@@ -4918,9 +4921,6 @@ weapons/90mm_DEFA_D921_user_cannon;90 mm DEFA F1 cannon
 weapons/90mm_90_F2_user_cannon;90 mm 90 F2 cannon
 weapons/cannonM230E1;30 mm M230E-1 cannon
 weapons/cannonM230E1/short;M230E-1
-weapons/120mm_IMI_MG251_user_cannon;<color=@userlogColoredText>120 mm</color> MG251 <color=#ff6f00>CNN</color>
-weapons/120mm_IMI_MG251_LR_user_cannon;<color=@userlogColoredText>120 mm</color> MG251-LR <color=#ff6f00>CNN</color>
-weapons/120mm_IMI_MG253_user_cannon;<color=@userlogColoredText>120 mm</color> MG253 <color=#ff6f00>CNN</color>
 30mm_pmc287;PMC287
 30mm_pmc308;PMC308
 35mm_pmd062;PMD062

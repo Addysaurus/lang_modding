@@ -10,9 +10,10 @@ exp_reasons/kill_gm_from_severe_damage;Severely damaged target kill counted
 crew/trained_current;Current qualification
 crew/eyesight/tank/tooltip/descNotes;"* - when using a sight device or binocular glasses, the range increases by {targetingMul} and {binocularMul} times accordingly
 ** - regardless of the crew's skill, there is also a radius of absolute detection of vehicles, which is {distance} m"
-crew/qualifyRequirement/need_level;Reach crew level {reqLevel} ({currentLevelText}) to gain access to the {wantedQualify} qualification.
+crew/qualifyRequirement/need_level;Reach crew level {reqLevel} ({currentLevelText}) to gain access to the {wantedQualify} ({trainCost}) qualification.
 crew/currentLevel;current: {level}
 crew/qualifyBonuses/total;Next qualification: {wantedQualify} increases all crew skills of this vehicle by {bonusValue}.
+crew/qualifyBonuses/qualifyDesc;The {wantedQualify} qualification gives a bonus of {bonusValue} to all crew skills{asterisk} for this vehicle.
 userlog/award_tip_col/killed_crew_percent;Crew losses
 userlog/award_tip_col/naval_damage;⋩ (damage)
 mainmenu/type_drone;UAV
@@ -65,7 +66,7 @@ items/dailyUniversalSpare/noLeftSparesMsg;All daily universal backups are used u
 respawn/randomUnitWarning;This vehicle is given to you for the current mission and you can use it equally with your own.
 respawn/randomUnitHint;– a random vehicle given for the current mission.
 respawn/randomUnitsList;Selected randomly from the list:
-respawn/squadSpawnBlocked;Squadmate in a firefight
+respawn/squadSpawnBlocked;Squadmate is unavailable
 armor_class/armor3_5;Steel 3.5 mm
 armor_meterial/material;Material
 armor_meterial/thickness_rha;Equivalent armor thickness (RHA)
@@ -78,6 +79,8 @@ actionBarItem/switch_to_human;Switch to human
 crewSkillParameter/turnTurretSpeed/title;Guidance Speed:
 crewSkillParameter/turnTurretSpeedPitch/short;Vert.: 
 crewSkillParameter/turnTurretSpeed/short;Hor.: 
+crewSkillParameter/allCrewSkills;Crew skills
+crewSkillParameter/except;Except
 crew/qualification/earnResearchPoints;Earn research points {rpIcon} on this vehicle with this crew to lower the cost of {specName} qualification:
 armor_class/ERA_Duplet;"""Duplet"" ERA"
 armor_class/ERA_Nizh;"""Nizh"" ERA"
@@ -122,6 +125,9 @@ loading_bg/login_layer_amx_elc_901/desc;"Reward for level 100 in the ""The Elusi
 loading_bg/login_layer_aircraft_marathon_workhorse;F-16A Block 5
 loading_bg/login_layer_football_event_2026;"Match start: Team ""Dragons"""
 loading_bg/login_layer_ship_marathon_oklakhoma;USS Oklakhoma
+loading_bg/login_layer_j_15t;J-15T
+loading_bg/login_layer_hungarian_aircrafts;Royal Hungarian Air Force
+loading_bg/login_layer_armoured_fighting_vehicles;Armoured fighting vehicles
 msgbox/steam/rate_review_short;Tell other players why you like War Thunder!
 item/cardicon_tanker_us_trophy;"""US Tankers"" Profile Icons"
 item/cardicon_tanker_ger_trophy;"""German Tankers"" Profile Icons"
@@ -305,7 +311,7 @@ info/num_engine_rooms;Number of engine compartments: {num}
 flightDistance;Flight distance
 flightTime;Flight time
 role/human_assault;Assault
-role/human_support;Support
+role/human_support;Specialist
 role/human_sniper;Sniper
 role/human_anti_vehicle;Anti-vehicle
 role/human_spec_forces;Specisl forces

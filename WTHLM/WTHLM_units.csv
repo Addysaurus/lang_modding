@@ -1339,7 +1339,7 @@ shop/group/f-86_german_group;◄ Sabre Mk. 5 / 6
 shop/group/germ_cruiser_leipzig_nurnberg_group;Leipzig / Nürnberg
 shop/group/germ_westfalen_helgoland_group;SMS Westfalen / Helgoland
 shop/group/mig_21_germany_group;MiG-21MF / bis (SAU)
-shop/group/mig-21_hungary_group;◔ MiG-21MF / bisz
+shop/group/mig-21_hungary_group;◔ MiG-21MF / Bisz
 
 shop/group/ussr_t_34_40_41_group;T-34 (Dec, 1940) / (May, 1941)
 shop/group/ussr_t_34_42_group;T-34 (Sep, 1942) / (Èkran.) (STZ)
@@ -5275,7 +5275,7 @@ mig_29_9_12_0;"Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | iz
 mig_29_9_12_1;MiG-29
 mig_29_9_12_2;MiG-29
 mig_29m_9_15_shop;MiG-29M
-mig_29m_9_15_0;Aviastroityel'nyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M
+mig_29m_9_15_0;Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M
 mig_29m_9_15_1;MiG-29M
 mig_29m_9_15_2;MiG-29
 su_27_shop;Su-27
@@ -8151,6 +8151,18 @@ bf-109g-2_hungary_1;◐ Bf 109 G
 bf-109g-2_hungary_2;◐ Bf 109
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+il-10_1946_hungary_shop;◔ Il-10 (1947)
+il-10_1946_hungary_0;◔ Zavod № 18 | Il-10 Párduc repülőgép (1947)
+il-10_1946_hungary_1;◔ Il-10
+il-10_1946_hungary_2;◔ Il-10
+tu-2_postwar_late_hungary_shop;◔ Tu-2Sz-59
+tu-2_postwar_late_hungary_0;◔ Aviaczionnyj zavod № 23 | Tu-2Sz széria 59 repülőgép
+tu-2_postwar_late_hungary_1;◔ Tu-2Sz
+tu-2_postwar_late_hungary_2;◔ Tu-2
+yak-9p_hungary_shop;◔ Jak-9P
+yak-9p_hungary_0;◔ Zavod № 153 | Jak-9P repülőgép
+yak-9p_hungary_1;◔ Jak-9P
+yak-9p_hungary_2;◔ Jak-9P
 fw_190f_8_hungary_shop;◐ Fw 190 F-8
 fw_190f_8_hungary_0;◐ Focke-Wulf Flugzeugbau | Fw 190 F-8 vadászrepülőgép
 fw_190f_8_hungary_1;◐ Fw 190 F
@@ -8169,14 +8181,42 @@ mb_326b_shop;MB-326B
 mb_326b_0;Aermacchi MB-326B
 mb_326b_1;MB-326B
 mb_326b_2;MB-326
+il_28_hungary_shop;◔ Il-28
+il_28_hungary_0;◔ Aviaczionnyj zavod № 30 | Il-28 repülőgép
+il_28_hungary_1;◔ Il-28
+il_28_hungary_2;◔ Il-28
+mig-15bis_nr23_hungary_shop;◔ MiG-15Bisz
+mig-15bis_nr23_hungary_0;◔ Aviaczionnyj zavod № 153 SD | MiG-15Bisz repülőgép
+mig-15bis_nr23_hungary_1;◔ MiG-15Bisz
+mig-15bis_nr23_hungary_2;◔ MiG-15
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+mig-17pf_hungary_shop;◔ MiG-17PF
+mig-17pf_hungary_0;◔ Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye | MiG-17PF repülőgép
+mig-17pf_hungary_1;◔ MiG-17PF
+mig-17pf_hungary_2;◔ MiG-17
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 amx_shop;A-11A
 amx_0;AMX International AMX | A-11A Ghibli
 amx_1;A-11A
 amx_2;A-11
+su_22m3_hungary_shop;◔ Szu-22M3
+su_22m3_hungary_0;◔ Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Szu-22M3 repülőgép
+su_22m3_hungary_1;◔ Szu-22M
+su_22m3_hungary_2;◔ Szu-22
+mig-21_mf_hungary_shop;◔ MiG-21MF
+mig-21_mf_hungary_0;◔ Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye | MiG-21MF repülőgép
+mig-21_mf_hungary_1;◔ MiG-21MF
+mig-21_mf_hungary_2;◔ MiG-21
+mig-21_bis_sau_hungary_shop;◔ MiG-21Bisz
+mig-21_bis_sau_hungary_0;◔ Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye | MiG-21Bisz repülőgép
+mig-21_bis_sau_hungary_1;◔ MiG-21Bisz
+mig-21_bis_sau_hungary_2;◔ MiG-21
+mig_23mf_hungary_shop;◔ MiG-23MF
+mig_23mf_hungary_0;◔ Moskovskij mašinostroityel'nyj zavod «Znamâ Truda» | MiG-23MF repülőgép
+mig_23mf_hungary_1;◔ MiG-23MF
+mig_23mf_hungary_2;◔ MiG-23
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 ef_2000a_shop;⛨ F-2000A (P3Ea)
@@ -8191,12 +8231,32 @@ tornado_ids_it_ret8_shop;A-200C (RET8)
 tornado_ids_it_ret8_0;Panavia Aircraft PA-200 | A-200C Tornado (Retro Enabling Task 8)
 tornado_ids_it_ret8_1;A-200C
 tornado_ids_it_ret8_2;A-200
+mig_29_9_12b_hungary_shop;◔ MiG-29
+mig_29_9_12b_hungary_0;◔ Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol» | MiG-29 Fulcrum-A repülőgép
+mig_29_9_12b_hungary_1;◔ MiG-29
+mig_29_9_12b_hungary_2;◔ MiG-29
 mig_29_9_12_sniper_shop;╏ MiG-29 Sniper
-mig_29_9_12_sniper_0;╏ Mikoấn i Guryévič / Aerostar + Elbit Systems | MiG-29 Sniper
+mig_29_9_12_sniper_0;╏ Mikoân i Guryevič / Aerostar + Elbit Systems | MiG-29 Sniper
 mig_29_9_12_sniper_1;╏ MiG-29 Sniper
 mig_29_9_12_sniper_2;╏ MiG-29
+saab_jas39c_hungary_shop;◔ JAS 39 C EBS HU
+saab_jas39c_hungary_0;◔ Saab 39 Gripen C | JAS 39 C EBS HU Gripen repülőgép
+saab_jas39c_hungary_1;◔ JAS 39 C
+saab_jas39c_hungary_2;◔ JAS 39
 
 //ITALY HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+mi_24d_hungary_shop;◔ Mi-24D
+mi_24d_hungary_0;◔ Aviaryemontnyj zavod № 116 | Mi-24D helikopter
+mi_24d_hungary_1;◔ Mi-24D
+mi_24d_hungary_2;◔ Mi-24
+mi_24p_hungary_shop;◔ Mi-24P
+mi_24p_hungary_0;"◔ Aviaczionnaâ proizvodstvyennaâ ob""yedinyeniye «Progryess» im. N. I. Sazykina | Mi-24P helikopter"
+mi_24p_hungary_1;◔ Mi-24P
+mi_24p_hungary_2;◔ Mi-24
+mi_24v_hungary_shop;◔ Mi-24V
+mi_24v_hungary_0;"◔ Aviaczionnaâ proizvodstvyennaâ ob""yedinyeniye «Progryess» im. N. I. Sazykina | Mi-24V helikopter"
+mi_24v_hungary_1;◔ Mi-24V
+mi_24v_hungary_2;◔ Mi-24
 
 //ITALY HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 
@@ -8670,7 +8730,7 @@ fr_frigate_corse_class_corse_2;Fast Escort
 fr_destroyer_guepard_class_verdun_shop;Verdun (X 33)
 fr_destroyer_guepard_class_verdun_0;Ateliers et chantiers de la Loire / Arsenal de Sidi-Abdallah | Contre-torpilleur de la classe Guépard | Verdun (X 33) (1941)
 fr_destroyer_guepard_class_verdun_1;Verdun
-fr_destroyer_guepard_class_verdun_2;
+fr_destroyer_guepard_class_verdun_2;Destroyer
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 
@@ -10865,10 +10925,6 @@ il_28_shop;Il-28
 il_28_0;Il-28
 il_28_1;Il-28
 il_28_2;Il-28
-il_28_hungary_shop;◔ Il-28
-il_28_hungary_0;◔ Il-28
-il_28_hungary_1;◔ Il-28
-il_28_hungary_2;◔ Il-28
 il_28sh_shop;Il-28Š
 il_28sh_0;Il-28Š
 il_28sh_1;Il-28Š
@@ -11013,10 +11069,6 @@ yak-9p_shop;Âk-9P
 yak-9p_0;Âk-9P
 yak-9p_1;Âk-9P
 yak-9p_2;Âk-9
-yak-9p_hungary_shop;◔ Jak-9P
-yak-9p_hungary_0;◔ Jak-9P
-yak-9p_hungary_1;◔ Jak-9P
-yak-9p_hungary_2;◔ Jak-9
 p-47d_22_re_france_shop;☨ P-47D-22-RE
 p-47d_22_re_france_0;☨ P-47D-22-RE Thunderbolt
 p-47d_22_re_france_1;☨ P-47D
@@ -11265,10 +11317,6 @@ tu-2_postwar_late_shop;Tu-2S-59
 tu-2_postwar_late_0;Tu-2S syeriâ 59
 tu-2_postwar_late_1;Tu-2S
 tu-2_postwar_late_2;Tu-2
-tu-2_postwar_late_hungary_shop;◔ Tu-2Sz-59
-tu-2_postwar_late_hungary_0;◔ Tu-2Sz széria 59
-tu-2_postwar_late_hungary_1;◔ Tu-2Sz
-tu-2_postwar_late_hungary_2;◔ Tu-2
 b_26c_france_shop;☨ B-26C-15-MO
 b_26c_france_0;☨ B-26C-15-MO Marauder
 b_26c_france_1;☨ B-26C
@@ -11313,10 +11361,6 @@ su_22m3_shop;▄ Su-22M3
 su_22m3_0;▄ izd. S-52M3 | Su-22M3
 su_22m3_1;▄ Su-22M3
 su_22m3_2;▄ Su-22
-su_22m3_hungary_shop;◔ Szu-22M3
-su_22m3_hungary_0;◔ izd. S-52M3 | Szu-22M3
-su_22m3_hungary_1;◔ Szu-22M3
-su_22m3_hungary_2;◔ Szu-22
 su_25_shop;Su-25
 su_25_0;"Su-25 ""Grač"""
 su_25_1;Su-25
@@ -11405,10 +11449,6 @@ saab_jas39c_south_africa_missile_test_shop;▄ Gripen C (Cobra)
 saab_jas39c_south_africa_missile_test_0;▄ Saab 39 Gripen C (Cobra)
 saab_jas39c_south_africa_missile_test_1;▄ Gripen C
 saab_jas39c_south_africa__missile_test2;▄ Gripen
-saab_jas39c_hungary_shop;◔ JAS 39 C EBS HU
-saab_jas39c_hungary_0;◔ Saab 39 Gripen C | JAS 39 C EBS HU Gripen
-saab_jas39c_hungary_1;◔ JAS 39 C
-saab_jas39c_hungary_2;◔ JAS 39
 sb2c_5_thailand_shop;B.J.3
 sb2c_5_thailand_0;Curtiss-Wright Corporation | Ekhrụxng Bin Jomtī Bæb Thī 3
 sb2c_5_thailand_1;B.J.3
@@ -11445,10 +11485,6 @@ mig-15_shop;MiG-15bis
 mig-15_0;MiG-15bis
 mig-15_1;MiG-15bis
 mig-15_2;MiG-15
-mig-15bis_nr23_hungary_shop;◔ MiG-15bisz
-mig-15bis_nr23_hungary_0;◔ MiG-15bisz
-mig-15bis_nr23_hungary_1;◔ MiG-15bisz
-mig-15bis_nr23_hungary_2;◔ MiG-15
 mig-9_ussr_shop;I-307
 mig-9_ussr_0;I-307
 mig-9_ussr_1;I-307
@@ -11966,10 +12002,6 @@ il-10_1946_shop;Il-10 (1947)
 il-10_1946_0;Il-10 (1947)
 il-10_1946_1;Il-10
 il-10_1946_2;Il-10
-il-10_1946_hungary_shop;◔ Il-10 (1947)
-il-10_1946_hungary_0;◔ Il-10 Párduc (1947)
-il-10_1946_hungary_1;◔ Il-10
-il-10_1946_hungary_2;◔ Il-10
 mig_3_series_34_shop;MiG-3-34
 mig_3_series_34_0;MiG-3 syeriâ 34
 mig_3_series_34_1;MiG-3-34
@@ -12190,10 +12222,6 @@ mig-17_shop;MiG-17
 mig-17_0;MiG-17
 mig-17_1;MiG-17
 mig-17_2;MiG-17
-mig-17pf_hungary_shop;◔ MiG-17PF
-mig-17pf_hungary_0;◔ MiG-17PF
-mig-17pf_hungary_1;◔ MiG-17PF
-mig-17pf_hungary_2;◔ MiG-17
 mig-19pt_shop;MiG-19PT
 mig-19pt_0;izd. SM-7/2T | MiG-19PT
 mig-19pt_1;MiG-19PT
@@ -13491,18 +13519,6 @@ mi_4av_shop;Mi-4AV
 mi_4av_0;Mi-4AV
 mi_4av_1;Mi-4AV
 mi_4av_2;Mi-4
-mi_24d_hungary_shop;◔ Mi-24D
-mi_24d_hungary_0;◔ izd. 246 | Mi-24D
-mi_24d_hungary_1;◔ Mi-24D
-mi_24d_hungary_2;◔ Mi-24
-mi_24p_hungary_shop;◔ Mi-24P
-mi_24p_hungary_0;◔ izd. 243 | Mi-24P
-mi_24p_hungary_1;◔ Mi-24P
-mi_24p_hungary_2;◔ Mi-24
-mi_24v_hungary_shop;◔ Mi-24V
-mi_24v_hungary_0;◔ izd. 242 | Mi-24V
-mi_24v_hungary_1;◔ Mi-24V
-mi_24v_hungary_2;◔ Mi-24
 super_hind_mk3_shop;Night Hawk
 super_hind_mk3_0;Paramount Group Night Hawk
 super_hind_mk3_1;Night Hawk
@@ -13791,10 +13807,6 @@ mig-21_f13_shop;MiG-21F-13
 mig-21_f13_0;izd. 74 | MiG-21F-13
 mig-21_f13_1;MiG-21F
 mig-21_f13_2;MiG-21
-mig-21_mf_hungary_shop;◔ MiG-21MF
-mig-21_mf_hungary_0;◔ izd. 96F | MiG-21MF
-mig-21_mf_hungary_1;◔ MiG-21MF
-mig-21_mf_hungary_2;◔ MiG-21
 mig-21_smt_shop;MiG-21SMT
 mig-21_smt_0;izd. 50 | MiG-21SMT
 mig-21_smt_1;MiG-21SMT
@@ -13807,18 +13819,10 @@ mig-21_pfm_shop;MiG-21PFM (94)
 mig-21_pfm_0;izd. 94 | MiG-21PFM
 mig-21_pfm_1;MiG-21PFM
 mig-21_pfm_2;MiG-21
-mig-21_bis_sau_hungary_shop;◔ MiG-21bisz
-mig-21_bis_sau_hungary_0;◔ izd. 75B | MiG-21bisz
-mig-21_bis_sau_hungary_1;◔ MiG-21bisz
-mig-21_bis_sau_hungary_2;◔ MiG-21
 mig_23m_shop;MiG-23M
 mig_23m_0;izd. 23-11M | MiG-23M
 mig_23m_1;MiG-23M
 mig_23m_2;MiG-23
-mig_23mf_hungary_shop;◔ MiG-23MF
-mig_23mf_hungary_0;◔ izd. 23-11A | MiG-23MF
-mig_23mf_hungary_1;◔ MiG-23MF
-mig_23mf_hungary_2;◔ MiG-23
 mig_23mld_shop;MiG-23MLD
 mig_23mld_0;izd. 23-18 | MiG-23MLD
 mig_23mld_1;MiG-23MLD
@@ -13835,10 +13839,6 @@ mig_29smt_9_19_shop;MiG-29SMT
 mig_29smt_9_19_0;izd. 9-19R | MiG-29SMT
 mig_29smt_9_19_1;MiG-29SMT
 mig_29smt_9_19_2;MiG-29
-mig_29_9_12b_hungary_shop;◔ MiG-29 (9-12B)
-mig_29_9_12b_hungary_0;◔ izd. 9-12B | MiG-29 Fulcrum-A
-mig_29_9_12b_hungary_1;◔ MiG-29
-mig_29_9_12b_hungary_2;◔ MiG-29
 f-4m_fgr2_shop;Phantom F.G.R. Mk. 2
 f-4m_fgr2_0;McDonnell Douglas Corporation Model 98KD / British Aerospace Corporation | Phantom F.G.R. Mk. 2
 f-4m_fgr2_1;Phantom F.G.R. Mk. 2

@@ -18,6 +18,50 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.17.01 - UNRELEASED
+
+- All Hungarian postwar aircraft have been reworked. I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu) for help with this. It would not have been possible without him. With this, all Hungarian vehicles have now been reworked!
+
+### Vehicles:
+
+- ### Changes:
+
+    - Added the missing long distance (_2) name to **Verdun (X 33)**.
+    - Hungarian postwar aircraft rework:
+        - **Il-10 (1947)**: Statcard name → **Zavod № 18 | Il-10 Párduc repülőgép (1947)**.
+        - **Tu-2Sz-59**: Statcard name → **Aviaczionnyj zavod № 23 | Tu-2Sz széria 59 repülőgép**.
+        - **Jak-9P**: Statcard name → **Zavod № 153 | Jak-9P repülőgép**.
+        - **Il-28**: Statcard name → **Aviaczionnyj zavod № 30 | Il-28 repülőgép**.
+        - **MiG-15bisz** → **MiG-15Bisz**. Statcard name → **Aviaczionnyj zavod № 153 SD | MiG-15Bisz repülőgép**.
+        - **MiG-17PF**: Statcard name → **Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye | MiG-17PF repülőgép**.
+        - **Szu-22M3**: Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Szu-22M3 repülőgép**.
+        - **MiG-21MF**: Statcard name → **Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye | MiG-21MF repülőgép**.
+        - **MiG-21bisz** → **MiG-21Bisz**. Statcard name → **Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye | MiG-21Bisz repülőgép**.
+        - **MiG-21MF / bisz** (folder) → **MiG-21MF / Bisz**.
+        - **MiG-23MF**: Statcard name → **Moskovskij mašinostroityel'nyj zavod «Znamâ Truda» | MiG-23MF repülőgép**.
+        - **MiG-29 (9-12B)** → **MiG-29**. Statcard name → **Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol» | MiG-29 Fulcrum-A repülőgép**.
+        - **JAS 39 C EBS HU**: Statcard name → **Saab 39 Gripen C | JAS 39 C EBS HU Gripen repülőgép**.
+        - **Mi-24D**: Statcard name → **Aviaryemontnyj zavod № 116 | Mi-24D helikopter**.
+        - **Mi-24P**: Statcard name → **Aviaczionnaâ proizvodstvyennaâ ob"yedinyeniye «Progryess» im. N. I. Sazykina | Mi-24P helikopter**.
+        - **Mi-24V**: Statcard name → **Aviaczionnaâ proizvodstvyennaâ ob"yedinyeniye «Progryess» im. N. I. Sazykina | Mi-24V helikopter**.
+    - **MiG-29M**: Statcard name → **Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M**.
+    - **MiG-29 Sniper**: Statcard name → **Mikoân i Guryevič / Aerostar + Elbit Systems | MiG-29 Sniper**.
+
+### Weaponry:
+
+- ### Changes:
+
+    - The **85-1 Shì 125 Háomi Chuān Jia Dàn** now actually displays correctly, instead of still displaying as **125-I** because I forgot to remove the old entry.
+
+### Infantry weaponry:
+
+- #### Changes:
+
+    - **M249**: Statcard name → **FN America | Machine Gun, 5.56 mm, M249 "Para"**.
+    - **M11** → **M11/9mm**. Statcard name → **Cobray Company M11/9mm Submachine Gun**.
+    - **M7** → **XM5**. Statcard name → **Sig Sauer Next Generation Squad Weapon-Rifle | Rifle, 6.8mm, XM5**.
+    - **AK-12**: Statcard name → **Konczyern «Kalašnikov» | 6P70M | 5,45-mm avtomat Kalašnikova AK-12 (2020)**.
+
 ## 1.17.00 - 23-03-2026
 
 This update completely reworks every Israeli vehicle and weapon in the game. New Hebrew and Hebrew-Russian combination packages have been introduced, as well as a new Full Ammunition Names Ukrainian package. Additionally, all Hungarian WWII aircraft have been reworked. I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu) for help with this. It would not have been possible without him.

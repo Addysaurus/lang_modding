@@ -46,6 +46,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Mi-24V**: Statcard name → **Aviaczionnaâ proizvodstvyennaâ ob"yedinyeniye «Progryess» im. N. I. Sazykina | Mi-24V helikopter**.
     - **MiG-29M**: Statcard name → **Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M**.
     - **MiG-29 Sniper**: Statcard name → **Mikoân i Guryevič / Aerostar + Elbit Systems | MiG-29 Sniper**.
+    - **Re.2005 (9-12087A)**: Statcard name → **Officine Meccaniche Italiane | Re.2005 Sagittario (MM.495) (9-12087A)**.
 
 ### Weaponry:
 

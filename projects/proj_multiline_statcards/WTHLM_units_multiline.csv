@@ -2,6 +2,7 @@
 us_m2_medium_0;"<color=#81c3fc>Manufacturer & manufacturer name</color>
 <color=#ff8c80>Military project</color>
 <color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
+<color=#944694>Alternate currently applicable name</color>
 Vehicle name
 <color=#9e9e9e>Modifications</color>
 <color=@currencyGoldColor>Unit/Ace</color>"
@@ -409,8 +410,44 @@ cn_t_26_no531_2;Light Tank
 //CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+ba_65_k14_l_shop;Ba. 65 (K-14fc) (L)
+ba_65_k14_l_0;"<color=#81c3fc>Società Italiana Ernesto Breda</color>
+Ba. 65
+<color=#9e9e9e>(K-14fc) (Torretta ad Arcone Tipo L)</color>"
+ba_65_k14_l_1;Ba. 65
+ba_65_k14_l_2;Ba. 65
+
+ba_65_a80_shop;Ba. 65 (A. 80)
+ba_65_a80_0;"<color=#81c3fc>Società Italiana Ernesto Breda</color>
+Ba. 65
+<color=#9e9e9e>(A. 80 R.C. 41)</color>"
+ba_65_a80_1;Ba. 65
+ba_65_a80_2;Ba. 65
+
+wm_21_shop;W.M.21
+wm_21_0;"<color=#81c3fc>Weiss Manfréd Acél- és Fémművek</color>
+W.M.21 Sólyom közelfelderítő"
+wm_21_1;W.M.21
+wm_21_2;W.M.21
+
+re_2000_heja_1_shop;Héja I
+re_2000_heja_1_0;"<color=#81c3fc>Reggiane Officine Meccaniche Italiane <color=@commonTextColor>/</color> Magyar Királyi Állami Vas-, Acél- és Gépgyárak</color>
+Héja I vadászrepülőgép"
+re_2000_heja_1_1;Héja I
+re_2000_heja_1_2;Héja
+
+re_2000_heja_2_shop;Héja II
+re_2000_heja_2_0;"<color=#81c3fc>Magyar Királyi Állami Vas-, Acél- és Gépgyárak</color>
+Héja II vadászrepülőgép"
+re_2000_heja_2_1;Héja II
+re_2000_heja_2_2;Héja
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+wm_23_shop;W.M.23
+wm_23_0;"<color=#81c3fc>Weiss Manfréd Acél- és Fémművek</color>
+W.M.23 Ezüst Nyíl vadászrepülőgép"
+wm_23_1;W.M.23
+wm_23_2;W.M.23
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 me_210ca_1_hungary_shop;◐ Me 210 Ca-1
@@ -426,7 +463,56 @@ me_210ca_1_40_mm_hungary_0;"<color=#81c3fc>Messerschmitt <color=@commonTextColor
 me_210ca_1_40_mm_hungary_1;◐ Me 210 Ca
 me_210ca_1_40_mm_hungary_2;◐ Me 210
 
+bf_110g_4_hungary_shop;◐ Bf 110 G-4
+bf_110g_4_hungary_0;"<color=#9e9e9e>Messerschmitt</color>
+◐ Bf 110 G-4 éjjeli vadászrepülőgép"
+bf_110g_4_hungary_1;◐ Bf 110 G
+bf_110g_4_hungary_2;◐ Bf 110
+
+bf-109f-4_hungary_shop;◐ Bf 109 F-4
+bf-109f-4_hungary_0;"<color=#9e9e9e>Messerschmitt</color>
+◐ Bf 109 F-4 vadászrepülőgép"
+bf-109f-4_hungary_1;◐ Bf 109 F
+bf-109f-4_hungary_2;◐ Bf 109
+
+bf-109g-2_hungary_shop;◐ Bf 109 G-2
+bf-109g-2_hungary_0;"<color=#9e9e9e>Messerschmitt</color>
+◐ Bf 109 G-2 vadászrepülőgép"
+bf-109g-2_hungary_1;◐ Bf 109 G
+bf-109g-2_hungary_2;◐ Bf 109
+
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+il-10_1946_hungary_shop;◔ Il-10 (1947)
+il-10_1946_hungary_0;"<color=#9e9e9e>Zavod № 18</color>
+◔Il-10 Párduc repülőgép (1947)"
+il-10_1946_hungary_1;◔ Il-10
+il-10_1946_hungary_2;◔ Il-10
+
+tu-2_postwar_late_hungary_shop;◔ Tu-2Sz-59
+tu-2_postwar_late_hungary_0;"<color=#9e9e9e>Aviaczionnyj zavod № 23</color>
+◔ Tu-2Sz széria 59 repülőgép"
+tu-2_postwar_late_hungary_1;◔ Tu-2Sz
+tu-2_postwar_late_hungary_2;◔ Tu-2
+
+yak-9p_hungary_shop;◔ Jak-9P
+yak-9p_hungary_0;"<color=#9e9e9e>Zavod № 153</color>
+◔ Jak-9P repülőgép"
+yak-9p_hungary_1;◔ Jak-9P
+yak-9p_hungary_2;◔ Jak-9P
+
+fw_190f_8_hungary_shop;◐ Fw 190 F-8
+fw_190f_8_hungary_0;"<color=#9e9e9e>Focke-Wulf Flugzeugbau</color>
+◐ Fw 190 F-8 vadászrepülőgép"
+fw_190f_8_hungary_1;◐ Fw 190 F
+fw_190f_8_hungary_2;◐ Fw 190
+
+re_2005_vdm_shop;Re.2005 (9-12087A)
+re_2005_vdm_0;"Officine Meccaniche Italiane
+Re.2005 Sagittario
+<color=#81c3fc>(9-12087A)</color>
+<color=@currencyGoldColor>MM.495</color>"
+re_2005_vdm_1;Re.2005
+re_2005_vdm_2;Re.2005
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 

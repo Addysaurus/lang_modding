@@ -55,10 +55,15 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Infantry weaponry:
 
+- #### Additions:
+    
+    - **SCAR-L**
+
 - #### Changes:
 
     - **M249**: Statcard name → **FN America | Machine Gun, 5.56 mm, M249 "Para"**.
     - **M11** → **M11/9mm**. Statcard name → **Cobray Company M11/9mm Submachine Gun**.
+    - **SCAR-L** → **Mk 16 Mod 0**. Statcard name → **FN America SCAR-L | Rifle, 5.56mm, Mk 16 Mod 0**.
     - **M7** → **XM5**. Statcard name → **Sig Sauer Next Generation Squad Weapon-Rifle | Rifle, 6.8mm, XM5**.
     - **AK-12**: Statcard name → **Konczyern «Kalašnikov» | 6P70M | 5,45-mm avtomat Kalašnikova AK-12 (2020)**.
 

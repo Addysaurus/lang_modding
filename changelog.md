@@ -47,6 +47,9 @@ All dates are listed in DD-MM-YYYY format.
     - **MiG-29M**: Statcard name → **Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M**.
     - **MiG-29 Sniper**: Statcard name → **Mikoân i Guryevič / Aerostar + Elbit Systems | MiG-29 Sniper**.
     - **Re.2005 (9-12087A)**: Statcard name → **Officine Meccaniche Italiane | Re.2005 Sagittario (MM.495) (9-12087A)**.
+    - Corrected the roundel in the statcard name of the **3 Shì Zhàn 1 Xíng**.
+    - **P-38L-1-LO** (China): Statcard name → **Lockheed Corporation Model 422 | P-38L-1-LO Xíng Qūzhú Jī "Shuāng Shēn Jī"**.
+        - Mandarin package: Statcard name → **Lockheed Corporation Model 422 | P-38L-1-LO型驅逐機「雙身機」**.
 
 ### Weaponry:
 

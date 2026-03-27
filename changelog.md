@@ -50,6 +50,23 @@ All dates are listed in DD-MM-YYYY format.
     - Corrected the roundel in the statcard name of the **3 Shì Zhàn 1 Xíng**.
     - **P-38L-1-LO** (China): Statcard name → **Lockheed Corporation Model 422 | P-38L-1-LO Xíng Qūzhú Jī "Shuāng Shēn Jī"**.
         - Mandarin package: Statcard name → **Lockheed Corporation Model 422 | P-38L-1-LO型驅逐機「雙身機」**.
+    - **F-51D-20-NA** (China): Statcard name → **North American Aviation NA-122 | F-51D-20-NA Xíng Qūzhú Jī "Yěma Jī"**.
+        - Mandarin package: Statcard name → **North American Aviation NA-122 | F-51D-20-NA型驅逐機「野馬機」**.
+    - **P4Y-2** (China): Statcard name → **Consolidated Vultee Aircraft Corporation Model 100 | P4Y-2 Xíng Xúnluó Jī**.
+        - Mandarin package: Statcard name → **Consolidated Vultee Aircraft Corporation Model 100 | P4Y-2型巡邏機**.
+    - **Dù 2S-44** (China):
+        - Mandarin package: Statcard name → **Czyentral'noye konstruktorskoye bûro № 29 | 杜2S-44型飞机**.
+        - Mandarin + Russian package: Statcard name → **Центральное конструкторское бюро № 29 | 杜2С-44型飞机**.
+    - **Yīěr 28 (1947)** (China) → **Yīěr 28**. The 1947 date was a typo left over by accident from when I copied the entry for the Il-10 to do the Il-28 in our spreadsheet.
+    - **Migé 15 Bisī** (China): Statcard name → **Opytno-konstruktorskoye bûro № 155 SD | Migé 15 Bisī Xíng Fēijī**.
+        - Mandarin package: Statcard name → **Opytno-konstruktorskoye bûro № 155 SD | 米格15比斯型飞机**.
+        - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 СД | 米格15比斯型飞机**.
+    - **I-307** (China): Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. FR | I-307**.
+    - **F-104A-25-LO** (China): Statcard name → **Lockheed Corporation Model 83 | F-104A-25-LO Xíng Zhàndòu Jī "Xīng Shì Zhàndòu Jī"**.
+        - Mandarin package: Statcard name → **Lockheed Corporation Model 83 | F-104A-25-LO型戰鬥機「星式戰鬥機」**.
+    - **F-104G-10-LO** (China): Statcard name → **Lockheed Corporation Model 83 | F-104G-10-LO Xíng Zhàndòu Jī "Xīng Shì Zhàndòu Jī"**.
+        - Mandarin package: Statcard name → **Lockheed Corporation Model 83 | F-104G-10-LO型戰鬥機「星式戰鬥機」**.
+    - **J7II**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / GGuóyíng 132 Chang | J7II Xíng Fēijī**.
 
 ### Weaponry:
 

@@ -4,26 +4,26 @@
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 i-15bis_china_shop;☀ E-15比斯
-i-15bis_china_0;☀ "<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
-E-15比斯驅逐機「柒什克」"
+i-15bis_china_0;"<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
+☀ E-15比斯驅逐機「柒什克」"
 i-15bis_china_1;☀ E-15比斯
 i-15bis_china_2;☀ E-15
 
 i-16_type5_1935_china_shop;☀ E-16-5
-i-16_type5_1935_china_0;☀ "<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
-E-16-5型驅逐機"
+i-16_type5_1935_china_0;"<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
+☀ E-16-5型驅逐機"
 i-16_type5_1935_china_1;☀ E-16-5
 i-16_type5_1935_china_2;☀ E-16
 
 i-16_type10_china_shop;☀ E-16-10
-i-16_type10_china_0;☀ "<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
-E-16-10型驅逐機"
+i-16_type10_china_0;"<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
+☀ E-16-10型驅逐機"
 i-16_type10_china_1;☀ E-16-10
 i-16_type10_china_2;☀ E-16
 
 i-16_type17_china_shop;☀ E-16-17
-i-16_type17_china_0;☀ "<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
-E-16-17型驅逐機"
+i-16_type17_china_0;"<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
+☀ E-16-17型驅逐機"
 i-16_type17_china_1;☀ E-16-17
 i-16_type17_china_2;☀ E-16
 
@@ -35,8 +35,8 @@ i-16_chung_28_1;忠28甲
 i-16_chung_28_2;忠28
 
 i-153_m62_china_shop;☀ E-153
-i-153_m62_china_0;☀ "<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
-E-153驅逐機「柒什克」"
+i-153_m62_china_0;"<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
+☀ E-153驅逐機「柒什克」"
 i-153_m62_china_1;☀ E-153
 i-153_m62_china_2;☀ E-153
 
@@ -57,19 +57,19 @@ sb_2m_103u_china_2;☀ СБ
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 la-11_china_shop;␗ 拉11
-la-11_china_0;"<color=#81c3fc>Опытно-конструкторское бюро № 301<color=#81c3fc>
+la-11_china_0;"<color=#81c3fc>Опытно-конструкторское бюро № 301</color>
 ␗ 拉11型飞机"
 la-11_china_1;␗ 拉11
 la-11_china_2;␗ 拉11
 
 la-9_china_shop;␗ 拉9
-la-9_china_0;"<color=#81c3fc>Опытно-конструкторское бюро № 301<color=#81c3fc>
+la-9_china_0;"<color=#81c3fc>Опытно-конструкторское бюро № 301</color>
 ␗ 拉9型飞机"
 la-9_china_1;␗ 拉9
 la-9_china_2;␗ 拉9
 
 il-10_1946_china_shop;␗ 伊尔10 (1947)
-il-10_1946_china_0;"<color=#81c3fc>Опытно-конструкторское бюро № 39<color=#81c3fc>
+il-10_1946_china_0;"<color=#81c3fc>Опытно-конструкторское бюро № 39</color>
 ␗ 伊尔10型飞机 (1947)"
 il-10_1946_china_1;␗ 伊尔10
 il-10_1946_china_2;␗ 伊尔10
@@ -81,7 +81,8 @@ tu-2_postwar_china_1;␗ 杜2С
 tu-2_postwar_china_2;␗ 杜2
 
 quing_6_shop;青6
-quing_6_0;"<color=#81c3fc>Государственный союзный опытный завод № 49 <color=@commonTextColor>/</color> 中国特种飞行器研究所</color>
+quing_6_0;"<color=#81c3fc>Государственный союзный опытный завод № 49 <color=@commonTextColor>/</color>
+中国特种飞行器研究所</color>
 青6型飞机"
 quing_6_1;青6
 quing_6_2;青6
@@ -152,6 +153,30 @@ mig-17_f5_2;▆ F5
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+j_11_shop;K/JJ11
+j_11_0;"<color=#81c3fc>Компания «Сухой» <color=@commonTextColor>/</color> 沈阳飞机工业 (集团)</color>
+K/JJ11型飞机 ""应龙"""
+j_11_1;K/JJ11
+j_11_2;K/JJ11
+
+j_11a_shop;K/JJ11A (MLU)
+j_11a_0;"<color=#81c3fc>Компания «Сухой» <color=@commonTextColor>/</color> 沈阳飞机工业 (集团)</color>
+K/JJ11A型飞机 ""应龙""
+<color=#9e9e9e>(Mid-Life Update)</color>"
+j_11a_1;K/JJ11A
+j_11a_2;K/JJ11
+
+j_11b_shop;K/JJ11B
+j_11b_0;"<color=#81c3fc>Компания «Сухой» <color=@commonTextColor>/</color> 沈阳飞机工业 (集团)</color>
+K/JJ11B型飞机 ""应龙"""
+j_11b_1;K/JJ11B
+j_11b_2;K/JJ11
+
+su_30mkk_shop;␗ 苏30MKK
+su_30mkk_0;"<color=#81c3fc>Компания «Сухой»</color>
+␗ 苏30MKK型飞机"
+su_30mkk_1;␗ 苏30MKK
+su_30mkk_2;␗ 苏30
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 

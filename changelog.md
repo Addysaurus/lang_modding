@@ -66,7 +66,21 @@ All dates are listed in DD-MM-YYYY format.
         - Mandarin package: Statcard name → **Lockheed Corporation Model 83 | F-104A-25-LO型戰鬥機「星式戰鬥機」**.
     - **F-104G-10-LO** (China): Statcard name → **Lockheed Corporation Model 83 | F-104G-10-LO Xíng Zhàndòu Jī "Xīng Shì Zhàndòu Jī"**.
         - Mandarin package: Statcard name → **Lockheed Corporation Model 83 | F-104G-10-LO型戰鬥機「星式戰鬥機」**.
-    - **J7II**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / GGuóyíng 132 Chang | J7II Xíng Fēijī**.
+    - **J7II**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng 132 Chang | J7II Xíng Fēijī**.
+    - **F5** (North Korea): Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | Chugyeokgi 《F5》**.
+        - Mandarin package: Statcard name → **Opytno-konstruktorskoye bûro № 155 / 国营松陵机械厂 | Chugyeokgi 《F5》**.
+        - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 / 国营松陵机械厂 | Chugyeokgi 《F5》**.
+    - **Sū 30MKK** (China): Statcard name → **Kompaniâ «Sukhoj» | Sū 30MKK Xíng Fēijī**.
+        - Mandarin package: Statcard name → **Kompaniâ «Sukhoj» | 苏30MKK型飞机**.
+        - Mandarin + Russian package: Statcard name → **Компания «Сухой» | 苏30MKK型飞机**.
+    - **PAO «Kompaniâ Sukhoj»** (manufacturer) → **Kompaniâ «Sukhoj»** in the Mandarin & Mandarin + Russian package for all the **K/JJ11**s.
+    - **JF-17 Block I**:
+        - Mandarin package: Statcard name → **成都飞机工业集团 + Pākistān Aironāṭikal Kampḷiks | JF-17 Block I Thunder**.
+    - **Z19**: Statcard name → **Hā'ěrbīn Fēijī Gōngyè (Jítuán) | Z19 Xíng Wuzhuāng Zhíshēngjī "Hēi Xuànfēng"**.
+    - **Z19E**: Statcard name → **Hā'ěrbīn Fēijī Gōngyè (Jítuán) | Z19E Xíng Wuzhuāng Zhíshēngjī "Hēi Xuànfēng"**.
+    - **Z10**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10 Xíng Wuzhuāng Zhíshēngjī "Yuān"**.
+    - **Z10ME-02**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10ME-02 Xíng Wuzhuāng Zhíshēngjī "Pīlìhuǒ"**.
+    - **Z10 (2018)**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10 Xíng Wuzhuāng Zhíshēngjī "Pīlìhuǒ" (2018)**.
 
 ### Weaponry:
 

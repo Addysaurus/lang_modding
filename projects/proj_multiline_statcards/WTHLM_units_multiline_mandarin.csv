@@ -622,12 +622,309 @@ ah_64e_china_1;☀ AH-64E
 ah_64e_china_2;☀ AH-64
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+cn_m8_greyhound_shop;☀ M8
+cn_m8_greyhound_0;"<color=#81c3fc>Ford Motor Company</color>
+☀ M8裝甲車"
+cn_m8_greyhound_1;☀ M8
+cn_m8_greyhound_2;Light Tank
+
+cn_t_26_1940_shop;☀ 特26 (1937)
+cn_t_26_1940_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Opytno-konstruktorskij myekhaničyeskij otdyel</color>
+☀ 特26轻型戰車
+<color=#9e9e9e>(1937)</color>
+"
+cn_t_26_1940_1;☀ 特26
+cn_t_26_1940_2;Light Tank
+
+cn_t_26_no531_shop;☀ 特26 (1937) (第200师)
+cn_t_26_no531_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Opytno-konstruktorskij myekhaničyeskij otdyel</color>
+☀ 特26轻型戰車
+<color=#9e9e9e>(1937)</color>
+<color=@currencyGoldColor>第200师</color>"
+cn_t_26_no531_1;☀ 特26
+cn_t_26_no531_2;Light Tank
+
+cn_type_97_chi_ha_shop;☀ 九七式
+cn_type_97_chi_ha_0;"<color=#81c3fc>三菱重工業</color>
+☀ 九七式中型戰車"
+cn_type_97_chi_ha_1;☀ 九七式
+cn_type_97_chi_ha_2;Medium Tank
+
+cn_type_97_kai_shop;☀ 九七式 (一式)
+cn_type_97_kai_0;"<color=#81c3fc>三菱重工業</color>
+☀ 九七式中型戰車
+<color=#9e9e9e>(一式四七毫米戰車砲)</color>"
+cn_type_97_kai_1;☀ 九七式
+cn_type_97_kai_2;Medium Tank
+
+cn_sdkfz_222_early_shop;豪须式四點五吨
+cn_sdkfz_222_early_0;"<color=#81c3fc>Eisenwerk Weserhütte</color>
+豪须式四點五吨装甲車"
+cn_sdkfz_222_early_1;豪须
+cn_sdkfz_222_early_2;SPAAG
+
+cn_m8_scott_shop;☀ 八式
+cn_m8_scott_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+☀ 八式七五砲戰車"
+cn_m8_scott_1;☀ 八式
+cn_m8_scott_2;Medium Tank
+
+cn_su_76m_1943_shop;␗ SU-76
+cn_su_76m_1943_0;"<color=#81c3fc>Kirovskij mašinostroityel'nyj zavod № 38 im. 1 Maâ (NKTP)</color>
+␗ SU-76自行火砲"
+cn_su_76m_1943_1;␗ SU-76
+cn_su_76m_1943_2;SPG
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+cn_m3a3_stuart_shop;☀ M3A3
+cn_m3a3_stuart_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+☀ M3A3轻型戰車"
+cn_m3a3_stuart_1;☀ M3A3
+cn_m3a3_stuart_2;Light Tank
+
+cn_m3a3_stuart_1st_ptg_shop;☀ M3A3 (第一临战团)
+cn_m3a3_stuart_1st_ptg_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+☀ M3A3轻型戰車
+<color=@currencyGoldColor>第一临时战车团</color>"
+cn_m3a3_stuart_1st_ptg_1;☀ M3A3
+cn_m3a3_stuart_1st_ptg_2;Light Tank
+
+cn_m5a1_stuart_shop;☀ M5A1
+cn_m5a1_stuart_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+☀ M5A1轻型戰車"
+cn_m5a1_stuart_1;☀ M5A1
+cn_m5a1_stuart_2;Light Tank
+
+cn_m24_chaffee_shop;☀ M24
+cn_m24_chaffee_0;"<color=#81c3fc>United States Army Ordnance Department <color=@commonTextColor>+</color> Cadillac Motor Car Division</color>
+☀ M24戰車"
+cn_m24_chaffee_1;☀ M24
+cn_m24_chaffee_2;Light Tank
+
+cn_m4a4_sherman_shop;☀ M4A4
+cn_m4a4_sherman_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+☀ M4A4中型戰車"
+cn_m4a4_sherman_1;☀ M4A4
+cn_m4a4_sherman_2;Medium Tank
+
+cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 (第一临战团)
+cn_m4a4_sherman_1st_ptg_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+☀ M4A4中型戰車
+<color=@currencyGoldColor>第一临时战车团</color>"
+cn_m4a4_sherman_1st_ptg_1;☀ M4A4
+cn_m4a4_sherman_1st_ptg_2;Medium Tank
+
+cn_m4a1_76w_sherman_shop;☀ M4A1
+cn_m4a1_76w_sherman_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+☀ M4A1中型戰車"
+cn_m4a1_76w_sherman_1;☀ M4A1
+cn_m4a1_76w_sherman_2;Medium Tank
+
+cn_gmc_cckw_353_m45_quad_shop;季姆西十輪 (M45C)
+cn_gmc_cckw_353_m45_quad_0;"<color=#81c3fc>GMC Truck and Coach</color>
+季姆西十輪大卡車
+<color=#9e9e9e>(Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)</color>"
+cn_gmc_cckw_353_m45_quad_1;季姆西十輪 (M45C)
+cn_gmc_cckw_353_m45_quad_2;SPAAG
+
+cn_lvt_4_zis_2_shop;␗ LVT (ZiS-2)
+cn_lvt_4_zis_2_0;"<color=#81c3fc>Food Machinery Corporation</color>
+␗ LVT水陆坦克
+<color=#9e9e9e>(ZiS-2 obr. 1941 g.)</color>"
+cn_lvt_4_zis_2_1;␗ LVT
+cn_lvt_4_zis_2_2;SPG
+
+us_lvt_4_zis_2_shop;▃␗ LVT (ZiS-2)
+us_lvt_4_zis_2_0;"<color=#81c3fc>Food Machinery Corporation</color>
+▃␗ LVT水陆坦克
+<color=#9e9e9e>(ZiS-2 obr. 1941 g.)</color>"
+us_lvt_4_zis_2_1;▃␗ LVT
+us_lvt_4_zis_2_2;SPG
+
+cn_m10_shop;☀ M10
+cn_m10_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+☀ M10驅逐砲車"
+cn_m10_1;☀ M10
+cn_m10_2;Tank Destroyer
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+cn_object_211_shop;211 (4号) (63式)
+cn_object_211_0;"<color=#81c3fc>西南车辆制造厂</color>
+211水陆坦克
+<color=#9e9e9e>(样车4号) (1963年式85毫米坦克炮)</color>"
+cn_object_211_1;211
+cn_object_211_2;Light Tank
 
-//CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+cn_t_34_1942_shop;␗ 特34 (1942)
+cn_t_34_1942_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
+␗ 特34中型坦克
+<color=#9e9e9e>(1942)</color>"
+cn_t_34_1942_1;␗ 特34
+cn_t_34_1942_2;Medium Tank
+
+cn_t_34_85_d_5t_shop;␗ 特34 (1944)
+cn_t_34_85_d_5t_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
+␗ 特34中型坦克
+<color=#9e9e9e>(1944)</color>"
+cn_t_34_85_d_5t_1;␗ 特34 (1944)
+cn_t_34_85_d_5t_2;Medium Tank
+
+cn_type_58_shop;␗ 特34 (1960)
+cn_type_58_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) <color=@commonTextColor>/</color> 哈尔滨第一机械集团</color>
+␗ 特34中型坦克
+<color=#9e9e9e>(1960)</color>"
+cn_type_58_1;␗ 特34 (1960)
+cn_type_58_2;Medium Tank
+
+cn_t_34_85_zis_53_no215_shop;␗ 特34 (1944) (战车第2师)
+cn_t_34_85_zis_53_no215_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
+␗ 特34中型坦克
+<color=#9e9e9e>(1944)</color>
+<color=@currencyGoldColor>战车第2师</color>"
+cn_t_34_85_zis_53_no215_1;␗ 特34 (1944)
+cn_t_34_85_zis_53_no215_2;Medium Tank
+
+cn_m42_duster_shop;☀ M42
+cn_m42_duster_0;"<color=#81c3fc>GM Defense</color>
+☀ M42防空砲車"
+cn_m42_duster_1;☀ M42
+cn_m42_duster_2;SPAAG
+
+cn_m55_shop;☀ M55
+cn_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
+☀ M55自走砲"
+cn_m55_1;☀ M55
+cn_m55_2;SPH
+
+cn_isu_152_shop;␗ ISU-152
+cn_isu_152_0;"<color=#81c3fc>Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo
+mašinostroyeniâ (VNII-100)</color>
+␗ ISU-152自行火砲"
+cn_isu_152_1;␗ ISU-152
+cn_isu_152_2;SPG
+
+cn_m36_shop;☀ M36
+cn_m36_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+☀ M36驅逐砲車"
+cn_m36_1;☀ M36
+cn_m36_2;SPG
+
+cn_isu_122_shop;␗ ISU-122
+cn_isu_122_0;"<color=#81c3fc>Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo
+mašinostroyeniâ (VNII-100)</color>
+␗ ISU-122自行火砲"
+cn_isu_122_1;␗ ISU-122
+cn_isu_122_2;SPG
+
+cn_m41_a3_walker_bulldog_shop;☀ M41A3
+cn_m41_a3_walker_bulldog_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+☀ M41A3戰車「華克猛犬」"
+cn_m41_a3_walker_bulldog_1;☀ M41A3
+cn_m41_a3_walker_bulldog_2;Light Tank
+
+cn_m_41d_shop;☀ M41D
+cn_m_41d_0;"<color=#81c3fc>Cadillac Motor Car Division <color=@commonTextColor>/</color> 陆军兵工整备发展中心</color>
+☀ M41D戰車「華克猛犬」"
+cn_m_41d_1;☀ M41D
+cn_m_41d_2;Light Tank
+
+//CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4\
+cn_m18_hellcat_shop;☀ M18
+cn_m18_hellcat_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
+☀ M18驅逐砲車"
+cn_m18_hellcat_1;☀ M18
+cn_m18_hellcat_2;Light Tank
+
+cn_type_63_I_shop;ZTS63
+cn_type_63_I_0;"<color=#81c3fc>西南车辆制造厂</color>
+<color=#5cae63>WZ211</color>
+ZTS1963式水陆坦克"
+cn_type_63_I_1;ZTS63
+cn_type_63_I_2;Light Tank
+
+cn_zts_63_1980_shop;ZTS63 (1979)
+cn_zts_63_1980_0;"<color=#81c3fc>西南车辆制造厂</color>
+<color=#5cae63>WZ211</color>
+ZTS1963式水陆坦克
+<color=#9e9e9e>(1979)</color>"
+cn_zts_63_1980_1;ZTS63
+cn_zts_63_1980_2;Light Tank
+
+cn_type_62_shop;ZTQ62
+cn_type_62_0;"<color=#81c3fc>哈尔滨第一机械集团</color>
+<color=#5cae63>WZ131</color>
+ZTQ1962式轻型坦克"
+cn_type_62_1;ZTQ62
+cn_type_62_2;Light Tank
+
+ussr_type_62_shop;▂ ZTQ62
+ussr_type_62_0;"<color=#81c3fc>哈尔滨第一机械集团</color>
+<color=#5cae63>WZ131</color>
+▂ ZTQ1962式轻型坦克"
+ussr_type_62_1;▂ ZTQ62
+ussr_type_62_2;Light Tank
+
+cn_is_2_1943_shop;␗ 斯2 (1943)
+cn_is_2_1943_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
+␗ 斯2重型坦克
+<color=#9e9e9e>(1943)</color>"
+cn_is_2_1943_1;␗ 斯2
+cn_is_2_1943_2;Heavy Tank
+
+cn_is_2_1944_shop;␗ 斯2 (1944)
+cn_is_2_1944_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
+␗ 斯2重型坦克
+<color=#9e9e9e>(1944)</color>"
+cn_is_2_1944_1;␗ 斯2
+cn_is_2_1944_2;Heavy Tank
+
+cn_is_2_1943_no402_shop;␗ 斯2 (1943) (坦克第3师)
+cn_is_2_1943_no402_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
+␗ 斯2重型坦克
+<color=#9e9e9e>(1943)</color>
+<color=@currencyGoldColor>坦克第3师</color>"
+cn_is_2_1943_no402_1;␗ 斯2
+cn_is_2_1943_no402_2;Heavy Tank
+
+cn_zsd63_pg87_shop;ZSD63B (PG87)
+cn_zsd63_pg87_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ531</color>
+ZSD1963B式履带装甲输送车
+<color=#9e9e9e>(PG1987式双管25毫米高射机关炮)</color>"
+cn_zsd63_pg87_1;ZSD63B (PG87)
+cn_zsd63_pg87_2;Light Tank
+
+cn_zsl_92_shop;ZSL92
+cn_zsl_92_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ551A</color>
+ZSL1992式装甲输送车"
+cn_zsl_92_1;ZSL92
+cn_zsl_92_2;SPAAG
+
+cn_su_100_1945_shop;␗ SU-100
+cn_su_100_1945_0;"<color=#81c3fc>Ural'skij zavod tâžëlogo mašinostroyeniâ im. S. Ordžonikidzye (UZTM)</color>
+␗ SU-100自行火砲"
+cn_su_100_1945_1;␗ SU-100
+cn_su_100_1945_2;SPG
+
+cn_plz_83_shop;PLZ83
+cn_plz_83_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+PLZ1983式152毫米自行加榴炮"
+cn_plz_83_1;PLZ83
+cn_plz_83_2;SPH
+
+cn_type_64_shop;六四式
+cn_type_64_0;"<color=#81c3fc>陆军供应司令部兵工署</color>
+六四式戰車"
+cn_type_64_1;六四式
+cn_type_64_2;Light Tank
+
+cn_wz_141_shop;141 (1号)
+cn_wz_141_0;"<color=#81c3fc>装甲兵某研究所</color>
+141超轻型反坦克战车
+<color=#9e9e9e>(样车1号)</color>"
+cn_wz_141_1;141
+cn_wz_141_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 

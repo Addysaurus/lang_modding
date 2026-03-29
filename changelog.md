@@ -48,11 +48,11 @@ All dates are listed in DD-MM-YYYY format.
     - **MiG-29 Sniper**: Statcard name → **Mikoân i Guryevič / Aerostar + Elbit Systems | MiG-29 Sniper**.
     - **Re.2005 (9-12087A)**: Statcard name → **Officine Meccaniche Italiane | Re.2005 Sagittario (MM.495) (9-12087A)**.
     - Corrected the roundel in the statcard name of the **3 Shì Zhàn 1 Xíng**.
-    - **P-38L-1-LO** (China): Statcard name → **Lockheed Corporation Model 422 | P-38L-1-LO Xíng Qūzhú Jī "Shuāng Shēn Jī"**.
+    - **P-38L-1-LO** (Taiwan): Statcard name → **Lockheed Corporation Model 422 | P-38L-1-LO Xíng Qūzhú Jī "Shuāng Shēn Jī"**.
         - Mandarin package: Statcard name → **Lockheed Corporation Model 422 | P-38L-1-LO型驅逐機「雙身機」**.
-    - **F-51D-20-NA** (China): Statcard name → **North American Aviation NA-122 | F-51D-20-NA Xíng Qūzhú Jī "Yěma Jī"**.
+    - **F-51D-20-NA** (Taiwan): Statcard name → **North American Aviation NA-122 | F-51D-20-NA Xíng Qūzhú Jī "Yěma Jī"**.
         - Mandarin package: Statcard name → **North American Aviation NA-122 | F-51D-20-NA型驅逐機「野馬機」**.
-    - **P4Y-2** (China): Statcard name → **Consolidated Vultee Aircraft Corporation Model 100 | P4Y-2 Xíng Xúnluó Jī**.
+    - **P4Y-2** (Taiwan): Statcard name → **Consolidated Vultee Aircraft Corporation Model 100 | P4Y-2 Xíng Xúnluó Jī**.
         - Mandarin package: Statcard name → **Consolidated Vultee Aircraft Corporation Model 100 | P4Y-2型巡邏機**.
     - **Dù 2S-44** (China):
         - Mandarin package: Statcard name → **Czyentral'noye konstruktorskoye bûro № 29 | 杜2S-44型飞机**.
@@ -62,9 +62,9 @@ All dates are listed in DD-MM-YYYY format.
         - Mandarin package: Statcard name → **Opytno-konstruktorskoye bûro № 155 SD | 米格15比斯型飞机**.
         - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 СД | 米格15比斯型飞机**.
     - **I-307** (China): Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. FR | I-307**.
-    - **F-104A-25-LO** (China): Statcard name → **Lockheed Corporation Model 83 | F-104A-25-LO Xíng Zhàndòu Jī "Xīng Shì Zhàndòu Jī"**.
+    - **F-104A-25-LO** (Taiwan): Statcard name → **Lockheed Corporation Model 83 | F-104A-25-LO Xíng Zhàndòu Jī "Xīng Shì Zhàndòu Jī"**.
         - Mandarin package: Statcard name → **Lockheed Corporation Model 83 | F-104A-25-LO型戰鬥機「星式戰鬥機」**.
-    - **F-104G-10-LO** (China): Statcard name → **Lockheed Corporation Model 83 | F-104G-10-LO Xíng Zhàndòu Jī "Xīng Shì Zhàndòu Jī"**.
+    - **F-104G-10-LO** (Taiwan): Statcard name → **Lockheed Corporation Model 83 | F-104G-10-LO Xíng Zhàndòu Jī "Xīng Shì Zhàndòu Jī"**.
         - Mandarin package: Statcard name → **Lockheed Corporation Model 83 | F-104G-10-LO型戰鬥機「星式戰鬥機」**.
     - **J7II**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng 132 Chang | J7II Xíng Fēijī**.
     - **F5** (North Korea): Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | Chugyeokgi 《F5》**.
@@ -73,7 +73,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Sū 30MKK** (China): Statcard name → **Kompaniâ «Sukhoj» | Sū 30MKK Xíng Fēijī**.
         - Mandarin package: Statcard name → **Kompaniâ «Sukhoj» | 苏30MKK型飞机**.
         - Mandarin + Russian package: Statcard name → **Компания «Сухой» | 苏30MKK型飞机**.
-    - **PAO «Kompaniâ Sukhoj»** (manufacturer) → **Kompaniâ «Sukhoj»** in the Mandarin & Mandarin + Russian package for all the **K/JJ11**s.
+    - **PAO «Kompaniâ Sukhoj»** (manufacturer) → **Kompaniâ «Sukhoj»** in the Mandarin & Mandarin + Russian packages for all the **K/JJ11**s.
     - **JF-17 Block I**:
         - Mandarin package: Statcard name → **成都飞机工业集团 + Pākistān Aironāṭikal Kampḷiks | JF-17 Block I Thunder**.
     - **Z19**: Statcard name → **Hā'ěrbīn Fēijī Gōngyè (Jítuán) | Z19 Xíng Wuzhuāng Zhíshēngjī "Hēi Xuànfēng"**.
@@ -81,6 +81,12 @@ All dates are listed in DD-MM-YYYY format.
     - **Z10**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10 Xíng Wuzhuāng Zhíshēngjī "Yuān"**.
     - **Z10ME-02**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10ME-02 Xíng Wuzhuāng Zhíshēngjī "Pīlìhuǒ"**.
     - **Z10 (2018)**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10 Xíng Wuzhuāng Zhíshēngjī "Pīlìhuǒ" (2018)**.
+    - **LVT (ZiS-2)** (USA / China): Statcard name → **Food Machinery Corporation | LVT Shuilù Tankè (ZiS-2 obr. 1941 g.)**.
+    - **PT-76** (China): Statcard name → **Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo mašinostroyeniâ (VNII-100) | Ob"yekt 740 | PT-76 obr. 1953 g.**.
+        - Mandarin + Russian package: Statcard name → **Всероссийский научно-исследовательский институт транспортного машиностроения (ВНИИ-100) | Объект 740 | Плавающий танк ПТ-76 обр. 1953 г.**.
+    - **211 (4 Hào) (63 Shì)**: Statcard name → **Xīnán Chēliàng Zhìzào Chang | 211 Shuilù Tankè (Yàng Chē 4 Hào) (1963 Nián Shì 85 Háomi Tankè Pào)**.
+        - Mandarin + Russian package: Statcard name → **西南车辆制造厂 | 211水陆坦克 (样车4号) (1963年式85毫米坦克炮)**.
+    - Made capitalization consistent across ground vehicle long distance names (**Light tank** → **Light Tank**, **Medium tank** → **Medium Tank**, etc.).
 
 ### Weaponry:
 

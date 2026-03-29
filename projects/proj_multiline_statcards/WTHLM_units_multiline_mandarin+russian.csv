@@ -185,12 +185,124 @@ su_30mkk_2;␗ 苏30
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+cn_t_26_1940_shop;☀ 特26 (1937)
+cn_t_26_1940_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Опытно-конструкторский механический отдел</color>
+☀ 特26轻型戰車
+<color=#9e9e9e>(1937)</color>"
+cn_t_26_1940_1;☀ 特26
+cn_t_26_1940_2;Light Tank
+
+cn_t_26_no531_shop;☀ 特26 (1937) (第200师)
+cn_t_26_no531_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Опытно-конструкторский механический отдел</color>
+☀ 特26轻型戰車
+<color=#9e9e9e>(1937)</color>
+<color=@currencyGoldColor>第200师</color>"
+cn_t_26_no531_1;☀ 特26
+cn_t_26_no531_2;Light Tank
+
+cn_su_76m_1943_shop;␗ СУ-76
+cn_su_76m_1943_0;"<color=#81c3fc>Кировский машиностроительный завод № 38 им. 1 Мая (НКТП)</color>
+␗ СУ-76自行火砲"
+cn_su_76m_1943_1;␗ СУ-76
+cn_su_76m_1943_2;Tank Destroyer
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+cn_lvt_4_zis_2_shop;␗ LVT (ЗиС-2)
+cn_lvt_4_zis_2_0;"<color=#81c3fc>Food Machinery Corporation</color>
+␗ LVT水陆坦克
+<color=#9e9e9e>(ЗиС-2 обр. 1941 г.)</color>"
+cn_lvt_4_zis_2_1;␗ LVT
+cn_lvt_4_zis_2_2;Tank Destroyer
+
+us_lvt_4_zis_2_shop;▃␗ LVT (ЗиС-2)
+us_lvt_4_zis_2_0;"<color=#81c3fc>Food Machinery Corporation</color>
+▃␗ LVT水陆坦克
+<color=#9e9e9e>(ЗиС-2 обр. 1941 г.)</color>"
+us_lvt_4_zis_2_1;▃␗ LVT
+us_lvt_4_zis_2_2;Tank Destroyer
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+cn_pt_76_shop;␗ ПТ-76
+cn_pt_76_0;"<color=#81c3fc>Всероссийский научно-исследовательский институт транспортного
+машиностроения (ВНИИ-100)</color>
+<color=#5cae63>Объект 740</color>
+␗ Плавающий танк ПТ-76 обр. 1953 г."
+cn_pt_76_1;␗ ПТ-76
+cn_pt_76_2;Amphibious Tank
+
+cn_t_34_1942_shop;␗ 特34 (1942)
+cn_t_34_1942_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ)</color>
+␗ 特34中型坦克
+<color=#9e9e9e>(1942)</color>"
+cn_t_34_1942_1;␗ 特34
+cn_t_34_1942_2;Medium Tank
+
+cn_t_34_85_d_5t_shop;␗ 特34 (1944)
+cn_t_34_85_d_5t_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ)</color>
+␗ 特34中型坦克
+<color=#9e9e9e>(1944)</color>"
+cn_t_34_85_d_5t_1;␗ 特34 (1944)
+cn_t_34_85_d_5t_2;Medium Tank
+
+cn_type_58_shop;␗ 特34 (1960)
+cn_type_58_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ) <color=@commonTextColor>/</color>
+哈尔滨第一机械集团</color>
+␗ 特34中型坦克
+<color=#9e9e9e>(1960)</color>"
+cn_type_58_1;␗ 特34 (1960)
+cn_type_58_2;Medium Tank
+
+cn_t_34_85_zis_53_no215_shop;␗ 特34 (1944) (战车第2师)
+cn_t_34_85_zis_53_no215_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ)</color>
+␗ 特34中型坦克
+<color=#9e9e9e>(1944)</color>
+<color=@currencyGoldColor>战车第2师</color>"
+cn_t_34_85_zis_53_no215_1;␗ 特34 (1944)
+cn_t_34_85_zis_53_no215_2;Medium Tank
+
+cn_isu_152_shop;␗ ИСУ-152
+cn_isu_152_0;"<color=#81c3fc>Всероссийский научно-исследовательский институт транспортного
+машиностроения (ВНИИ-100)</color>
+␗ ИСУ-152自行火砲"
+cn_isu_152_1;␗ ИСУ-152
+cn_isu_152_2;SPG
+
+cn_isu_122_shop;␗ ИСУ-122
+cn_isu_122_0;"<color=#81c3fc>Всероссийский научно-исследовательский институт транспортного
+машиностроения (ВНИИ-100)</color>
+␗ ИСУ-122自行火砲"
+cn_isu_122_1;␗ ИСУ-122
+cn_isu_122_2;SPG
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+cn_is_2_1943_shop;␗ 斯2 (1943)
+cn_is_2_1943_0;"<color=#81c3fc>Кировский завод наркомтанкопрома в г. Челябинске (ЧКЗ)</color>
+␗ 斯2重型坦克
+<color=#9e9e9e>(1943)</color>"
+cn_is_2_1943_1;␗ 斯2
+cn_is_2_1943_2;Heavy Tank
+
+cn_is_2_1944_shop;␗ 斯2 (1944)
+cn_is_2_1944_0;"<color=#81c3fc>Кировский завод наркомтанкопрома в г. Челябинске (ЧКЗ)</color>
+␗ 斯2重型坦克
+<color=#9e9e9e>(1944)</color>"
+cn_is_2_1944_1;␗ 斯2
+cn_is_2_1944_2;Heavy Tank
+
+cn_is_2_1943_no402_shop;␗ 斯2 (1943) (坦克第3师)
+cn_is_2_1943_no402_0;"<color=#81c3fc>Кировский завод наркомтанкопрома в г. Челябинске (ЧКЗ)</color>
+␗ 斯2重型坦克
+<color=#9e9e9e>(1943)</color>
+<color=@currencyGoldColor>坦克第3师</color>"
+cn_is_2_1943_no402_1;␗ 斯2
+cn_is_2_1943_no402_2;Heavy Tank
+
+cn_su_100_1945_shop;␗ СУ-100
+cn_su_100_1945_0;"<color=#81c3fc>Уральский завод тяжёлого машиностроения им. С. Орджоникидзе
+(УЗТМ)</color>
+␗ СУ-100自行火砲"
+cn_su_100_1945_1;␗ СУ-100
+cn_su_100_1945_2;SPG
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 

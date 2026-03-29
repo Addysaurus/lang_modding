@@ -1240,7 +1240,7 @@ cn_is_2_1943_no402_2;Heavy Tank
 cn_zsd63_pg87_shop;ZSD63B (PG87)
 cn_zsd63_pg87_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>WZ531</color>
-ZSD1963B Shì Lǚdài Zhuāngjia Shūsòng Chē
+ZSD1963B Shì Lüdài Zhuāngjia Shūsòng Chē
 <color=#9e9e9e>(PG1987 Nián Shì Shuāng Guan 25 Háomi Gāoshè Jīguān Pào)</color>"
 cn_zsd63_pg87_1;ZSD63B (PG87)
 cn_zsd63_pg87_2;SPAAG
@@ -1278,12 +1278,352 @@ cn_wz_141_1;141
 cn_wz_141_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+cn_type_86_shop;ZBD86 (2020)
+cn_type_86_0;"<color=#81c3fc>Čyelâbinskij traktornyj zavod im. V. I. Lyenina <color=@commonTextColor>/</color> Zhōngguó Bīngqì Gōngyè
+Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ501</color>
+ZBD1986 Shì Lüdài Bùbīng Zhàn Chē (2020)"
+cn_type_86_1;ZBD86
+cn_type_86_2;Light Tank
+
+cn_m48a1_patton_III_shop;☀ M48A1
+cn_m48a1_patton_III_0;"<color=#81c3fc>Chrysler Defense Engineering</color>
+☀ M48A1 Zhànchē"
+cn_m48a1_patton_III_1;☀ M48
+cn_m48a1_patton_III_2;Medium Tank
+
+cn_type_59_shop;ZTZ59
+cn_type_59_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color> Nèiménggu Dì Yī
+Jīxiè Zhìzào Chang</color>
+<color=#5cae63>WZ120</color> 
+ZTZ1959 Shì Zhōngxíng Tankè"
+cn_type_59_1;ZTZ59
+cn_type_59_2;Medium Tank
+
+cn_ztz_59a_shop;ZTZ59A
+cn_ztz_59a_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color> Nèiménggu Dì Yī
+Jīxiè Zhìzào Chang</color>
+<color=#5cae63>WZ120A</color>
+ZTZ1959A Shì Zhōngxíng Tankè"
+cn_ztz_59a_1;ZTZ59
+cn_ztz_59a_2;Medium Tank
+
+cn_type_59d_shop;ZTZ59D1
+cn_type_59d_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color> Nèiménggu Dì Yī
+Jīxiè Zhìzào Chang</color>
+<color=#5cae63>WZ120C</color>
+ZTZ1959D1 Shì Zhōngxíng Tankè"
+cn_type_59d_1;ZTZ59
+cn_type_59d_2;Medium Tank
+
+cn_type_69_shop;ZTZ69
+cn_type_69_0;"<color=#81c3fc>Nèiménggu Dì Yī Jīxiè Zhìzào Chang</color>
+<color=#5cae63>WZ121</color>
+ZTZ1969 Shì Zhōngxíng Tankè"
+cn_type_69_1;ZTZ69
+cn_type_69_2;Medium Tank
+
+cn_type_69_2a_shop;69-II
+cn_type_69_2a_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>BW121A</color>
+69-II Zhu Zhàn Tankè"
+cn_type_69_2a_1;69-II
+cn_type_69_2a_2;Medium Tank
+
+cn_wz_305_shop;80 Shì
+cn_wz_305_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>W305</color>
+1980 Nián Shì Shuāng Guan 57 Háomi Zì Háng Gāoshè Pào"
+cn_wz_305_1;80 Shì
+cn_wz_305_2;SPAAG
+
+cn_plz_05_shop;PLZ05
+cn_plz_05_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+PLZ2005 Shì 155 Háomi Zìxíng Jiā Liúpào"
+cn_plz_05_1;PLZ05
+cn_plz_05_2;SPH
+
+cn_m113a1_tow_shop;☀ M113A1 (M233)
+cn_m113a1_tow_0;"<color=#81c3fc>FMC Corporation</color>
+☀ M113A1 Zhànjia Chē
+<color=#9e9e9e>(Launcher, Tubular, Guided Missile, M233)</color>"
+cn_m113a1_tow_1;☀ M113A1
+cn_m113a1_tow_2;ATMC
+
+cn_plz_83_130_shop;130 mm SP GH
+cn_plz_83_130_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī 130 mm Self-Propelled
+Gun-Howitzer</color>"
+cn_plz_83_130_1;130 mm SP GH
+cn_plz_83_130_2;SPG
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+cn_m60a3_tts_shop;☀ M60A3
+cn_m60a3_tts_0;"<color=#81c3fc>Chrysler Defense Engineering</color>
+☀ M60A3 Zhànchē"
+cn_m60a3_tts_1;☀ M60A3
+cn_m60a3_tts_2;MBT
+
+cn_cm11_shop;CM11
+cn_cm11_0;"<color=#81c3fc>Chrysler Defense Engineering <color=@commonTextColor>/</color> Lùjūn Bīng Gōng Zhěngbèi Fāzhan
+Zhōngxīn</color>
+CM11 Zhànchē ""Yong Hu"""
+cn_cm11_1;CM11
+cn_cm11_2;MBT
+
+cn_ztz_88b_shop;ZTZ88B
+cn_ztz_88b_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ122E</color>
+ZTZ1988B Shì Zhu Zhàn Tankè"
+cn_ztz_88b_1;ZTZ88B
+cn_ztz_88b_2;MBT
+
+cn_ztz_88a_shop;ZTZ88A
+cn_ztz_88a_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ122G</color>
+ZTZ1988A Shì Zhu Zhàn Tankè"
+cn_ztz_88a_1;ZTZ88A
+cn_ztz_88a_2;MBT
+
+cn_ztz_96_shop;ZTZ96
+cn_ztz_96_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ122H</color>
+ZTZ1996 Shì Zhu Zhàn Tankè"
+cn_ztz_96_1;ZTZ96
+cn_ztz_96_2;MBT
+
+cn_ztz_96a_shop;ZTZ96A
+cn_ztz_96a_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ122R</color>
+ZTZ1996A Shì Zhu Zhàn Tankè"
+cn_ztz_96a_1;ZTZ96
+cn_ztz_96a_2;MBT
+
+cn_ztz_96a_race_shop;ZTZ96A
+cn_ztz_96a_race_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ122R</color>
+ZTZ1996A Shì Zhu Zhàn Tankè"
+cn_ztz_96a_race_1;ZTZ96
+cn_ztz_96a_race_2;MBT
+
+cn_ztz_96a_prot_shop;WZ122R (2 Hào)
+cn_ztz_96a_prot_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ122R</color>
+<color=#9e9e9e>(Yàngchē 2 Hào)</color>"
+cn_ztz_96a_prot_1;WZ122R
+cn_ztz_96a_prot_2;MBT
+
+cn_ztz_96b_shop;ZTZ96B (2017)
+cn_ztz_96b_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ122</color>
+ZTZ1996B Shì Zhǔ Zhàn Tankè
+<color=#9e9e9e>(2017)</color>"
+cn_ztz_96b_1;ZTZ96B
+cn_ztz_96b_2;MBT
+
+cn_pgz_09_shop;PGZ09
+cn_pgz_09_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+PGZ2009 Shì Shuāng 35 Háomi Zì Háng Gāo Pào"
+cn_pgz_09_1;PGZ09
+cn_pgz_09_2;SPAAG
+
+cn_pgz_04a_shop;PGZ04A
+cn_pgz_04a_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WA717A</color>
+PGZ2004A Shì Sì Guan 25 Háomi Lüdài Zì Háng Gāo Pào"
+cn_pgz_04a_1;PGZ04A
+cn_pgz_04a_2;SPAAG/M
+
+cn_cm_25_shop;CM25
+cn_cm_25_0;"<color=#81c3fc>Lùjūn Bīng Gōng Zhěngbèi Fāzhan Zhōngxīn</color>
+CM25 Tuō Shì Fēidàn Chē"
+cn_cm_25_1;CM25
+cn_cm_25_2;ATMC
+
+cn_ptz_89_shop;PTZ89
+cn_ptz_89_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WA371</color>
+PTZ1989 Shì 120 Háomi Zìxíng Fan Tankè Pào"
+cn_ptz_89_1;PTZ89
+cn_ptz_89_2;SPG
+
+cn_ptl_02_shop;PTL02
+cn_ptl_02_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WA301</color>
+PTL2002 Shì 100 Háomi Lún Shì Zìxíng Tújí Pào"
+cn_ptl_02_1;PTL02
+cn_ptl_02_2;Light Tank
+
+cn_hj_9_shop;AFT09
+cn_hj_9_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#7ce68f>HJ-9</color>
+AFT09 Zhòngxíng Fan Tankè Daodàn Fāshè Chē"
+cn_hj_9_1;AFT09
+cn_hj_9_2;ATMC
+
+cn_cm_34_shop;CM34
+cn_cm_34_0;"<color=#81c3fc>Timoney Technology <color=@commonTextColor>+</color> Gōngyè Jìshù Yán Jiù Yuàn</color>
+CM34 Lún Xíng Zhàndòu Chē"
+cn_cm_34_1;CM34
+cn_cm_34_2;Light Tank
+
+cn_object_122tm_shop;1221 (302)
+cn_object_122tm_0;"<color=#81c3fc>Nèiménggu Dì Yī Jīxiè Chang</color>
+1221 Zhōngxíng Tankè
+<color=#9e9e9e>(302 Fan Tankè Daodàn)</color>"
+cn_object_122tm_1;1221
+cn_object_122tm_2;Medium Tank
+
+cn_wma_301_shop;WMA301
+cn_wma_301_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+WMA301 Xíng 105 Háomi Lún Shì Zìxíng Tújí Pào"
+cn_wma_301_1;WMA301
+cn_wma_301_2;Light Tank
+
+cn_t_62_shop;␗ T-62 (57-go Po.)
+cn_t_62_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 520</color>
+<color=#5cae63>Ob""yekt 166</color>
+␗ T-62 obr. 1964 g.
+<color=@currencyGoldColor>57-go Pogranotryada</color>"
+cn_t_62_1;␗ T-62
+cn_t_62_2;Medium Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+cn_mbt2000_shop;MBT-2000
+cn_mbt2000_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>BW123A</color>
+MBT-2000"
+cn_mbt2000_1;MBT-2000
+cn_mbt2000_2;MBT
+
+cn_vt_4_shop;VT4
+cn_vt_4_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+VT4 Zhu Zhàn Tankè"
+cn_vt_4_1;VT4
+cn_vt_4_2;MBT
+
+cn_vt_4b_shop;VT4A1
+cn_vt_4b_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+VT4A1 Zhu Zhàn Tankè"
+cn_vt_4b_1;VT4A1
+cn_vt_4b_2;MBT
+
+cn_ztz_99_shop;ZTZ99 (1 Qí)
+cn_ztz_99_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ123</color>
+ZTZ1999 Shì Zhu Zhàn Tankè
+<color=#9e9e9e>(1 Qí)</color>"
+cn_ztz_99_1;ZTZ99
+cn_ztz_99_2;MBT
+
+cn_ztz_99_w_shop;ZTZ99 (2 Qí)
+cn_ztz_99_w_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ123</color>
+ZTZ1999 Shì Zhu Zhàn Tankè
+<color=#9e9e9e>(2 Qí)</color>"
+cn_ztz_99_w_1;ZTZ99
+cn_ztz_99_w_2;MBT
+
+cn_ztz_99a_shop;ZTZ99A
+cn_ztz_99a_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ1001</color>
+ZTZ1999A Shì Zhu Zhàn Tankè"
+cn_ztz_99a_1;ZTZ99
+cn_ztz_99a_2;MBT
+
+cn_antelope_tc_1l_ads_shop;Jiàn 1 Fáng Fēi Xì
+cn_antelope_tc_1l_ads_0;"<color=#81c3fc>Guójiā Zhōngshān Kēxué Yán Jiù Yuàn</color>
+Chēzai Jiàn 1 Fángkōng Fēidàn Xìtong"
+cn_antelope_tc_1l_ads_1;Jiàn 1 Fáng Fēi Xì
+cn_antelope_tc_1l_ads_2;SPAAM
+
+cn_ztl_11_shop;ZLT11
+cn_ztl_11_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+ZLT2011 Shì Lún Shì Zhuāngjia Tújí Chē"
+cn_ztl_11_1;ZLT11
+cn_ztl_11_2;Light Tank
+
+cn_zbd_04a_shop;ZBD04A
+cn_zbd_04a_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ502G</color>
+ZBD2004A Shì Lüdài Bùbīng Zhànchē"
+cn_zbd_04a_1;ZBD04A
+cn_zbd_04a_2;IFV
+
+cn_qn506_shop;QN506
+cn_qn506_0;"<color=#81c3fc>Wuhàn Gāo Dé Hóngwài</color>
+QN506 Duō Wuqì Zhàn Dou Chēliàng"
+cn_qn506_1;QN506
+cn_qn506_2;IFV
+
+cn_vt_5_shop;╷ VT5
+cn_vt_5_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+╷ VT5 Qīngxíng Tankè"
+cn_vt_5_1;╷ VT5
+cn_vt_5_2;Light Tank
+
+cn_t_80ud_478be_shop;☪ T-80UD (DU1)
+cn_t_80ud_478be_0;"<color=#81c3fc>Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O.
+Morozova <color=@commonTextColor>/</color> Kharkìvs'kij zavod transportnogo mašinobuduvannâ ìm. V. O.
+Mališyeva</color>
+<color=#5cae63>Ob'êkt 478DU1</color>
+☪ T-80UD Byeryeza"
+cn_t_80ud_478be_1;☪ T-80UD
+cn_t_80ud_478be_2;MBT
+
+cn_al_khalid_1_shop;al-Khālid I
+cn_al_khalid_1_0;"<color=#81c3fc>Zhōngguó Běifāng Gōngyè Gōngsī <color=@commonTextColor>/</color> Hēvī Inḍasṭrīz Ṭaksalā</color>
+al-Khālid I Ṭaink"
+cn_al_khalid_1_1;al-Khālid I
+cn_al_khalid_1_2;MBT
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+cn_wz_1001_shop;WZ123A(Y)
+cn_wz_1001_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ123A(Y)</color>"
+cn_wz_1001_1;WZ123A
+cn_wz_1001_2;MBT
+
+cn_m1a2t_shop;☀ M1A2T
+cn_m1a2t_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+☀ M1A2T Zhànchē"
+cn_m1a2t_1;☀ M1A2T
+cn_m1a2t_2;MBT
+
+cn_tor_m1_shop;␗ 9A331-1
+cn_tor_m1_0;"<color=#81c3fc>Naučno-proizvodstvyennoye ob""yedinyeniye Antyej</color>
+␗ Boyevaâ mašina 9A331-1"
+cn_tor_m1_1;␗ 9A331
+cn_tor_m1_2;SPAA
+
+cn_hq_17_shop;ADK17
+cn_hq_17_0;"<color=#81c3fc>Zhōngguó Jīngmì Jīxiè Jìn Chūkou Zong Gōngsī</color>
+<color=#7ce68f>HQ-17</color>
+ADK17 Dì Duì Kōng Daodàn Xìtong"
+cn_hq_17_1;ADK17
+cn_hq_17_2;SPAAM
+
+cn_pgz_625_fb10_shop;CS/SA5 (2022)
+cn_pgz_625_fb10_0;"<color=#81c3fc>Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī <color=@commonTextColor>+</color> Zhōngguó Bīngqì Gōngyè
+Jítuán Youxiàn Gōngsī</color>
+CS/SA5 Xíng 30 Háomi Lún Shì Zì Xíng Gāo Pào
+<color=#9e9e9e>(2022)</color>"
+cn_pgz_625_fb10_1;CS/SA5
+cn_pgz_625_fb10_2;SPAAG/M
+
+cn_hq_11_shop;ADK11
+cn_hq_11_0;"<color=#81c3fc>Zhōngguó Gángtiān Kē Gōng Jítuán Youxiàn Gōngsī</color>
+<color=#7ce68f>HQ-11</color>
+ADK11 Tōngyòng Mòduān Fángyù Wuqì Xìtong"
+cn_hq_11_1;ADK11
+cn_hq_11_2;SPAAM
+
+cn_oplot_t_shop;☪ BM Oplot-M
+cn_oplot_t_0;"<color=#81c3fc>Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O.
+Morozova</color>
+<color=#5cae63>Ob'êkt 478DU9-1</color>
+☪ Bojova mašina Oplot-M"
+cn_oplot_t_1;☪ BM Oplot-M
+cn_oplot_t_2;MBT
 
 //CHINA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 

@@ -86,6 +86,14 @@ All dates are listed in DD-MM-YYYY format.
         - Mandarin + Russian package: Statcard name → **Всероссийский научно-исследовательский институт транспортного машиностроения (ВНИИ-100) | Объект 740 | Плавающий танк ПТ-76 обр. 1953 г.**.
     - **211 (4 Hào) (63 Shì)**: Statcard name → **Xīnán Chēliàng Zhìzào Chang | 211 Shuilù Tankè (Yàng Chē 4 Hào) (1963 Nián Shì 85 Háomi Tankè Pào)**.
         - Mandarin + Russian package: Statcard name → **西南车辆制造厂 | 211水陆坦克 (样车4号) (1963年式85毫米坦克炮)**.
+    - **T-62 (57-go Po.)**: Statcard name → **Opytno-konstruktorskoye bûro № 520 | Ob"yekt 166 | T-62 obr. 1964 g. (57-go Pogranotryada)**.
+        - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 520 | Объект 166 | Танк Т-62 обр. 1964 г. (57-го Погранотряда)**.
+    - **ZTZ88A**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122G | ZTZ1988A Shì Zhu Zhàn Tankè** (it accidentally said WZ122G and ZTZ1988A).
+    - **ZTZ96A**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122R | ZTZ1996A Shì Zhu Zhàn Tankè** (it accidentally said WZ122H and ZTZ1996).
+    - **PTZ89**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WA371 | PTZ1989 Shì 120 Háomi Zìxíng Fan Tankè Pào** (it accidentally said PGZ2009).
+    - **Jiàn 1 Fáng Fēi Xì**: Mid-distance name → **Jiàn 1 Fáng Fēi Xì** (it accidentally was duplicated and said **Jiàn 1 Fáng Fēi XìJiàn 1 Fáng Fēi Xì**).
+    - **al-Khālid I**: Statcard name → **Zhōngguó Běifāng Gōngyè Gōngsī / Hēvī Inḍasṭrīz Ṭaksalā | al-Khālid I Ṭaink**.
+    - **9A331-1** (China): Statcard name → **Naučno-proizvodstvyennoye ob"yedinyeniye Antyej | Boyevaâ mašina 9A331-1**.
     - Made capitalization consistent across ground vehicle long distance names (**Light tank** → **Light Tank**, **Medium tank** → **Medium Tank**, etc.).
 
 ### Weaponry:

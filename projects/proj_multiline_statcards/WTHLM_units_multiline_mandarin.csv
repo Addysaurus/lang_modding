@@ -927,12 +927,318 @@ cn_wz_141_1;141
 cn_wz_141_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+cn_type_86_shop;ZBD86 (2020)
+cn_type_86_0;"<color=#81c3fc>Čyelâbinskij traktornyj zavod im. V. I. Lyenina <color=@commonTextColor>/</color>
+中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ501</color>
+ZBD1986式履带步兵战车
+<color=#9e9e9e>(2020)</color>"
+cn_type_86_1;ZBD86
+cn_type_86_2;IFV
+
+cn_m48a1_patton_III_shop;☀ M48A1
+cn_m48a1_patton_III_0;"<color=#81c3fc>Chrysler Defense Engineering</color>
+☀ M48A1戰車"
+cn_m48a1_patton_III_1;☀ M48A1
+cn_m48a1_patton_III_2;MBT
+
+cn_type_59_shop;ZTZ59
+cn_type_59_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color>
+内蒙古第一机械制造厂</color>
+<color=#5cae63>WZ120</color>
+ZTZ1959式中型坦克"
+cn_type_59_1;ZTZ59
+cn_type_59_2;Medium Tank
+
+cn_ztz_59a_shop;ZTZ59A
+cn_ztz_59a_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color>
+内蒙古第一机械制造厂</color>
+<color=#5cae63>WZ120A</color>
+ZTZ1959A式中型坦克"
+cn_ztz_59a_1;ZTZ59A
+cn_ztz_59a_2;Medium Tank
+
+cn_type_59d_shop;ZTZ59D1
+cn_type_59d_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color>
+内蒙古第一机械制造厂</color>
+<color=#5cae63>WZ120C</color>
+ZTZ1959D1式中型坦克"
+cn_type_59d_1;ZTZ59D1
+cn_type_59d_2;Medium Tank
+
+cn_type_69_shop;ZTZ69
+cn_type_69_0;"<color=#81c3fc>内蒙古第一机械制造厂</color>
+<color=#5cae63>WZ121</color>
+ZTZ1969式中型坦克"
+cn_type_69_1;ZTZ69
+cn_type_69_2;Medium Tank
+
+cn_type_69_2a_shop;69-II
+cn_type_69_2a_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>BW121A</color>
+69-II主战坦克"
+cn_type_69_2a_1;69-II
+cn_type_69_2a_2;Medium Tank
+
+cn_wz_305_shop;80式
+cn_wz_305_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>W305</color>
+1980年式双管57毫米自行高射炮"
+cn_wz_305_1;80式
+cn_wz_305_2;SPAAG
+
+cn_plz_05_shop;PLZ05
+cn_plz_05_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+PLZ2005式155毫米自行加榴炮"
+cn_plz_05_1;PLZ05
+cn_plz_05_2;SPH
+
+cn_m113a1_tow_shop;☀ M113A1 (M233)
+cn_m113a1_tow_0;"<color=#81c3fc>FMC Corporation</color>
+☀ M113A1戰甲車
+<color=#9e9e9e>(Launcher, Tubular, Guided Missile, M233)</color>"
+cn_m113a1_tow_1;☀ M113A1
+cn_m113a1_tow_2;ATMC
+
+cn_plz_83_130_shop;130 mm SP GH
+cn_plz_83_130_0;"<color=#81c3fc>中国兵器工业集团有限公司 130 mm Self-Propelled Gun-Howitzer</color>"
+cn_plz_83_130_1;130 mm SP GH
+cn_plz_83_130_2;SPH
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+cn_m60a3_tts_shop;☀ M60A3
+cn_m60a3_tts_0;"<color=#81c3fc>Chrysler Defense Engineering</color>
+☀ M60A3戰車"
+cn_m60a3_tts_1;☀ M60A3
+cn_m60a3_tts_2;MBT
+
+cn_cm11_shop;CM11
+cn_cm11_0;"<color=#81c3fc>Chrysler Defense Engineering <color=@commonTextColor>/</color> 陆军兵工整备发展中心</color>
+CM11戰車「勇虎」"
+cn_cm11_1;CM11
+cn_cm11_2;MBT
+
+cn_ztz_88b_shop;ZTZ88B
+cn_ztz_88b_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ122E</color>
+ZTZ1988B式主战坦克"
+cn_ztz_88b_1;ZTZ88B
+cn_ztz_88b_2;MBT
+
+cn_ztz_88a_shop;ZTZ88A
+cn_ztz_88a_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ122G</color>
+ZTZ1988A式主战坦克"
+cn_ztz_88a_1;ZTZ88A
+cn_ztz_88a_2;MBT
+
+cn_ztz_96_shop;ZTZ96
+cn_ztz_96_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ122H</color>
+ZTZ1996式主战坦克"
+cn_ztz_96_1;ZTZ96
+cn_ztz_96_2;MBT
+
+cn_ztz_96a_shop;ZTZ96A
+cn_ztz_96a_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ122R</color>
+ZTZ1996A式主战坦克"
+cn_ztz_96a_1;ZTZ96A
+cn_ztz_96a_2;MBT
+
+cn_ztz_96a_prot_shop;WZ122R (2号)
+cn_ztz_96a_prot_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ122R</color>
+<color=#9e9e9e>(样车2号)</color>"
+cn_ztz_96a_prot_1;WZ122R
+cn_ztz_96a_prot_2;MBT
+
+cn_ztz_96b_shop;ZTZ96B (2017)
+cn_ztz_96b_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ122</color>
+ZTZ1996B式主战坦克
+<color=#9e9e9e>(2017)</color>"
+cn_ztz_96b_1;ZTZ96B
+cn_ztz_96b_2;MBT
+
+cn_pgz_09_shop;PGZ09
+cn_pgz_09_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+PGZ2009式双35毫米自行高炮"
+cn_pgz_09_1;PGZ09
+cn_pgz_09_2;SPAAG
+
+cn_pgz_04a_shop;PGZ04A
+cn_pgz_04a_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WA717A</color>
+PGZ2004A式四管25毫米履带自行高炮"
+cn_pgz_04a_1;PGZ04A
+cn_pgz_04a_2;SPAAG/M
+
+cn_cm_25_shop;CM25
+cn_cm_25_0;"<color=#81c3fc>陆军兵工整备发展中心</color>
+CM25拖式飛彈車"
+cn_cm_25_1;CM25
+cn_cm_25_2;ATMC
+
+cn_ptz_89_shop;PTZ89
+cn_ptz_89_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WA371</color>
+PTZ1989式120毫米自行反坦克炮"
+cn_ptz_89_1;PTZ89
+cn_ptz_89_2;SPG
+
+cn_ptl_02_shop;PTL02
+cn_ptl_02_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WA301</color>
+PTL2002式100毫米轮式自行突击炮"
+cn_ptl_02_1;PTL02
+cn_ptl_02_2;Light Tank
+
+cn_hj_9_shop;AFT09
+cn_hj_9_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#7ce68f>HJ-9</color>
+AFT09重型反坦克导弹发射车"
+cn_hj_9_1;AFT09
+cn_hj_9_2;ATMC
+
+cn_cm_34_shop;CM34
+cn_cm_34_0;"<color=#81c3fc>Timoney Technology <color=@commonTextColor>+</color> 工業技術研究院</color>
+CM34輪型戰鬥車"
+cn_cm_34_1;CM34
+cn_cm_34_2;Light Tank
+
+cn_object_122tm_shop;1221 (302)
+cn_object_122tm_0;"<color=#81c3fc>内蒙古第一机械厂</color>
+1221中型坦克
+<color=#9e9e9e>(302反坦克导弹)</color>"
+cn_object_122tm_1;1221
+cn_object_122tm_2;MBT
+
+cn_wma_301_shop;WMA301
+cn_wma_301_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+WMA301型105毫米轮式自行突击炮"
+cn_wma_301_1;WMA301
+cn_wma_301_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+cn_mbt2000_shop;MBT-2000
+cn_mbt2000_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>BW123A</color>
+MBT-2000"
+cn_mbt2000_1;MBT-2000
+cn_mbt2000_2;MBT
+
+cn_vt_4_shop;VT4
+cn_vt_4_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+VT4主战坦克"
+cn_vt_4_1;VT4
+cn_vt_4_2;MBT
+
+cn_vt_4b_shop;VT4A1
+cn_vt_4b_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+VT4A1主战坦克"
+cn_vt_4b_1;VT4A1
+cn_vt_4b_2;MBT
+
+cn_ztz_99_shop;ZTZ99 (一期)
+cn_ztz_99_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ123</color>
+ZTZ1999式主战坦克
+<color=#9e9e9e>(一期)</color>"
+cn_ztz_99_1;ZTZ99
+cn_ztz_99_2;MBT
+
+cn_ztz_99_w_shop;ZTZ99 (二期)
+cn_ztz_99_w_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ123</color>
+ZTZ1999式主战坦克
+<color=#9e9e9e>(二期)</color>"
+cn_ztz_99_w_1;ZTZ99
+cn_ztz_99_w_2;MBT
+
+cn_ztz_99a_shop;ZTZ99A
+cn_ztz_99a_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ1001</color>
+ZTZ1999A式主战坦克"
+cn_ztz_99a_1;ZTZ99A
+cn_ztz_99a_2;MBT
+
+cn_antelope_tc_1l_ads_shop;劍一防飛系
+cn_antelope_tc_1l_ads_0;"<color=#81c3fc>國家中山科學研究院</color>
+車載劍一防空飛彈系統"
+cn_antelope_tc_1l_ads_1;劍一防飛系
+cn_antelope_tc_1l_ads_2;SPAAM
+
+cn_ztl_11_shop;ZLT11
+cn_ztl_11_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+ZLT2011式轮式装甲突击车"
+cn_ztl_11_1;ZLT11
+cn_ztl_11_2;Light Tank
+
+cn_zbd_04a_shop;ZBD04A
+cn_zbd_04a_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ502G</color>
+ZBD2004A式履带步兵战车"
+cn_zbd_04a_1;ZBD04A
+cn_zbd_04a_2;IFV
+
+cn_qn506_shop;QN506
+cn_qn506_0;"<color=#81c3fc>武汉高德红外</color>
+QN506多武器战斗车辆"
+cn_qn506_1;QN506
+cn_qn506_2;IFV
+
+cn_vt_5_shop;╷ VT5
+cn_vt_5_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+╷ VT5轻型坦克"
+cn_vt_5_1;╷ VT5
+cn_vt_5_2;Light Tank
+
+cn_al_khalid_1_shop;al-Khālid I
+cn_al_khalid_1_0;"<color=#81c3fc>中国北方工业公司 <color=@commonTextColor>/</color> Hēvī Inḍasṭrīz Ṭaksalā</color>
+al-Khālid I Ṭaink"
+cn_al_khalid_1_1;al-Khālid I
+cn_al_khalid_1_2;MBT
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+cn_wz_1001_shop;WZ123A(Y)
+cn_wz_1001_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ123A(Y)</color>"
+cn_wz_1001_1;WZ123A(Y)
+cn_wz_1001_2;MBT
+
+cn_m1a2t_shop;☀ M1A2T
+cn_m1a2t_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+☀ M1A2T戰車"
+cn_m1a2t_1;☀ M1A2T
+cn_m1a2t_2;MBT
+
+cn_tor_m1_shop;␗ 9A331-1
+cn_tor_m1_0;"<color=#81c3fc>Naučno-proizvodstvyennoye ob""yedinyeniye Antyej</color>
+␗ Boyevaâ mašina 9A331-1"
+cn_tor_m1_1;␗ 9A331-1
+cn_tor_m1_2;SPAAM
+
+cn_hq_17_shop;ADK17
+cn_hq_17_0;"<color=#81c3fc>中国精密机械进出口总公司</color>
+<color=#7ce68f>HQ-17</color>
+ADK17地對空导弹系統"
+cn_hq_17_1;ADK17
+cn_hq_17_2;SPAAM
+
+cn_pgz_625_fb10_shop;CS/SA5 (2022)
+cn_pgz_625_fb10_0;"<color=#81c3fc>中国南方工业集团公司 <color=@commonTextColor>+</color> 中国兵器工业集团有限公司</color>
+CS/SA5型30毫米轮式自行高炮
+<color=#9e9e9e>(2022)</color>"
+cn_pgz_625_fb10_1;CS/SA5
+cn_pgz_625_fb10_2;SPAAG/M
+
+cn_hq_11_shop;ADK11
+cn_hq_11_0;"<color=#81c3fc>中国航天科工集团有限公司</color>
+<color=#7ce68f>HQ-11</color>
+ADK11通用末端防御武器系统"
+cn_hq_11_1;ADK11
+cn_hq_11_2;SPAAM
 
 //CHINA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 

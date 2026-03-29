@@ -305,12 +305,55 @@ cn_su_100_1945_1;␗ СУ-100
 cn_su_100_1945_2;SPG
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+cn_type_86_shop;ZBD86 (2020)
+cn_type_86_0;"<color=#81c3fc>Челябинский тракторный завод им. В. И. Ленина <color=@commonTextColor>/</color>
+中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ501</color>
+ZBD1986式履带步兵战车 (2020)"
+cn_type_86_1;ZBD86
+cn_type_86_2;IFV
+
+cn_type_59_shop;ZTZ59
+cn_type_59_0;"<color=#81c3fc>Уральский вагоностроительный завод им. И. В. Сталина <color=@commonTextColor>/</color>
+内蒙古第一机械制造厂</color>
+<color=#5cae63>WZ120</color>
+ZTZ1959式中型坦克"
+cn_type_59_1;ZTZ59
+cn_type_59_2;Medium Tank
+
+cn_ztz_59a_shop;ZTZ59A
+cn_ztz_59a_0;"<color=#81c3fc>Уральский вагоностроительный завод им. И. В. Сталина <color=@commonTextColor>/</color>
+内蒙古第一机械制造厂</color>
+<color=#5cae63>WZ120A</color>
+ZTZ1959A式中型坦克"
+cn_ztz_59a_1;ZTZ59A
+cn_ztz_59a_2;Medium Tank
+
+cn_type_59d_shop;ZTZ59D1
+cn_type_59d_0;"<color=#81c3fc>Уральский вагоностроительный завод им. И. В. Сталина <color=@commonTextColor>/</color>
+内蒙古第一机械制造厂</color>
+<color=#5cae63>WZ120C</color>
+ZTZ1959D1式中型坦克"
+cn_type_59d_1;ZTZ59D1
+cn_type_59d_2;Medium Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+cn_t_62_shop;␗ Т-62 (57-го По.)
+cn_t_62_0;"<color=#81c3fc>Опытно-конструкторское бюро № 520</color>
+<color=#5cae63>Объект 166</color>
+␗ Танк Т-62 обр. 1964 г.
+<color=@currencyGoldColor>57-го Погранотряда</color>"
+cn_t_62_1;␗ Т-62
+cn_t_62_2;MBT
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+cn_tor_m1_shop;␗ 9А331-1
+cn_tor_m1_0;"<color=#81c3fc>Научно-производственное объединение Антей</color>
+␗ Боевая машина 9А331-1"
+cn_tor_m1_1;␗ 9А331-1
+cn_tor_m1_2;SPAAM
 
 //CHINA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 

@@ -105,7 +105,7 @@ mig_29_9_12_0;Московское авиационное производств
 mig_29_9_12_1;МиГ-29
 mig_29_9_12_2;МиГ-29
 mig_29m_9_15_shop;МиГ-29М
-mig_29m_9_15_0;Авиастроительный завод «Сокол» | изд. 9-15 | Самолет МиГ-29М
+mig_29m_9_15_0;Нижегородский государственный авиационный завод «Сокол» | изд. 9-15 | Самолет МиГ-29М
 mig_29m_9_15_1;МиГ-29М
 mig_29m_9_15_2;МиГ-29
 mig_29n_shop;☉ MiG-29N
@@ -461,14 +461,106 @@ sb_2m_103u_china_0;☀ Авиационный завод № 22 им. С. П. Г
 sb_2m_103u_china_1;☀ СБ
 sb_2m_103u_china_2;☀ СБ
 
+//ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+il-10_1946_hungary_shop;◔ Il-10 (1947)
+il-10_1946_hungary_0;"<color=#81c3fc>Завод № 18</color>
+◔ Il-10 Párduc repülőgép (1947)"
+il-10_1946_hungary_1;◔ Il-10
+il-10_1946_hungary_2;◔ Il-10
+
+tu-2_postwar_late_hungary_shop;◔ Tu-2Sz-59
+tu-2_postwar_late_hungary_0;"<color=#81c3fc>Авиационный завод № 23</color>
+◔ Tu-2Sz széria 59"
+tu-2_postwar_late_hungary_1;◔ Tu-2Sz
+tu-2_postwar_late_hungary_2;◔ Tu-2
+
+yak-9p_hungary_shop;◔ Jak-9P
+yak-9p_hungary_0;<color=#81c3fc>Завод № 153</color>
+◔ Jak-9P repülőgép
+yak-9p_hungary_1;◔ Jak-9P
+yak-9p_hungary_2;◔ Jak-9P
+
+//ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+il_28_hungary_shop;◔ Il-28
+il_28_hungary_0;"<color=#81c3fc>Авиационный завод № 30</color>
+Il-28 repülőgép"
+il_28_hungary_1;◔ Il-28
+il_28_hungary_2;◔ Il-28
+
+mig-15bis_nr23_hungary_shop;◔ MiG-15Bisz
+mig-15bis_nr23_hungary_0;"<color=#81c3fc>Авиационный завод № 153 СД</color>
+MiG-15Bisz repülőgép"
+mig-15bis_nr23_hungary_1;◔ MiG-15Bisz
+mig-15bis_nr23_hungary_2;◔ MiG-15
+
+//ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+mig-17pf_hungary_shop;◔ MiG-17PF
+mig-17pf_hungary_0;"<color=#81c3fc>Горьковский авиационный завод им. С. Орджоникидзе</color>
+◔ MiG-17PF repülőgép"
+mig-17pf_hungary_1;◔ MiG-17PF
+mig-17pf_hungary_2;◔ MiG-17
+
+//ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+su_22m3_hungary_shop;◔ Szu-22M3
+su_22m3_hungary_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина</color>
+◔ Szu-22M3 repülőgép"
+su_22m3_hungary_1;◔ Szu-22M
+su_22m3_hungary_2;◔ Szu-22
+
+mig-21_mf_hungary_shop;◔ MiG-21MF
+mig-21_mf_hungary_0;"<color=#81c3fc>Горьковский авиационный завод им. С. Орджоникидзе</color>
+◔ MiG-21MF repülőgép"
+mig-21_mf_hungary_1;◔ MiG-21MF
+mig-21_mf_hungary_2;◔ MiG-21
+
+mig-21_bis_sau_hungary_shop;◔ MiG-21Bisz
+mig-21_bis_sau_hungary_0;"<color=#81c3fc>Горьковский авиационный завод им. С. Орджоникидзе</color>
+◔ MiG-21Bisz repülőgép"
+mig-21_bis_sau_hungary_1;◔ MiG-21Bisz
+mig-21_bis_sau_hungary_2;◔ MiG-21
+
+mig_23mf_hungary_shop;◔ MiG-23MF
+mig_23mf_hungary_0;"<color=#81c3fc>Московский машиностроительный завод «Знамя Труда»</color>
+◔ MiG-23MF repülőgép"
+mig_23mf_hungary_1;◔ MiG-23MF
+mig_23mf_hungary_2;◔ MiG-23
+
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+mig_29_9_12b_hungary_shop;◔ MiG-29
+mig_29_9_12b_hungary_0;"<color=#81c3fc>Нижегородский государственный авиационный завод «Сокол»</color>
+◔ MiG-29 Fulcrum-A repülőgép"
+mig_29_9_12b_hungary_1;◔ MiG-29
+mig_29_9_12b_hungary_2;◔ MiG-29
+
 mig_29_9_12_sniper_shop;╏ MiG-29 Sniper
-mig_29_9_12_sniper_0;╏ Микоян и Гуревич / Aerostar + Elbit Systems | MiG-29 Sniper
+mig_29_9_12_sniper_0;"<color=#81c3fc>Микоян и Гуревич <color=@commonTextColor>/</color> Aerostar + Elbit Systems</color>
+╏ MiG-29 Sniper"
 mig_29_9_12_sniper_1;╏ MiG-29 Sniper
 mig_29_9_12_sniper_2;╏ MiG-29
 
+//ITALY HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+mi_24d_hungary_shop;◔ Mi-24D
+mi_24d_hungary_0;"<color=#81c3fc>Авиаремонтный завод № 116</color>
+◔ Mi-24D helikopter"
+mi_24d_hungary_1;◔ Mi-24D
+mi_24d_hungary_2;◔ Mi-24
+
+mi_24p_hungary_shop;◔ Mi-24P
+mi_24p_hungary_0;"<color=#81c3fc>Авиационная производственная объединение «Прогресс» им. Н. И. Сазыкина</color>
+◔ Mi-24P helikopter"
+mi_24p_hungary_1;◔ Mi-24P
+mi_24p_hungary_2;◔ Mi-24
+
+mi_24v_hungary_shop;◔ Mi-24V
+mi_24v_hungary_0;"<color=#81c3fc>Авиационная производственная объединение «Прогресс» им. Н. И. Сазыкина</color>
+◔ Mi-24V helikopter"
+mi_24v_hungary_1;◔ Mi-24V
+mi_24v_hungary_2;◔ Mi-24
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 sw_t_50_fin_shop;15 psv T 50
-sw_t_50_fin_0;Ленинградский государственный завод № 174 им. К. Е. Ворошилова | Ps. 183-1 | 15 tonnin panssarivaunu T 50
+sw_t_50_fin_0;"<color=#81c3fc>Ленинградский государственный завод № 174 им. К. Е. Ворошилова</color>
+<color=#5cae63>Ps. 183-1</color>
+15 tonnin panssarivaunu T 50 ""Pikku-Sotka"""
 sw_t_50_fin_1;15 psv T 50
 sw_t_50_fin_2;Light Tank

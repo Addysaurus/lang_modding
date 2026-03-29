@@ -18,6 +18,104 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.17.01 - UNRELEASED
+
+- All Hungarian postwar aircraft have been reworked. I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu) for help with this. It would not have been possible without him. With this, all Hungarian vehicles have now been reworked!
+
+### Vehicles:
+
+- ### Changes:
+
+    - Added the missing long distance (_2) name to **Verdun (X 33)**.
+    - Hungarian postwar aircraft rework:
+        - **Il-10 (1947)**: Statcard name → **Zavod № 18 | Il-10 Párduc repülőgép (1947)**.
+        - **Tu-2Sz-59**: Statcard name → **Aviaczionnyj zavod № 23 | Tu-2Sz széria 59 repülőgép**.
+        - **Jak-9P**: Statcard name → **Zavod № 153 | Jak-9P repülőgép**.
+        - **Il-28**: Statcard name → **Aviaczionnyj zavod № 30 | Il-28 repülőgép**.
+        - **MiG-15bisz** → **MiG-15Bisz**. Statcard name → **Aviaczionnyj zavod № 153 SD | MiG-15Bisz repülőgép**.
+        - **MiG-17PF**: Statcard name → **Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye | MiG-17PF repülőgép**.
+        - **Szu-22M3**: Statcard name → **Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina | Szu-22M3 repülőgép**.
+        - **MiG-21MF**: Statcard name → **Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye | MiG-21MF repülőgép**.
+        - **MiG-21bisz** → **MiG-21Bisz**. Statcard name → **Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye | MiG-21Bisz repülőgép**.
+        - **MiG-21MF / bisz** (folder) → **MiG-21MF / Bisz**.
+        - **MiG-23MF**: Statcard name → **Moskovskij mašinostroityel'nyj zavod «Znamâ Truda» | MiG-23MF repülőgép**.
+        - **MiG-29 (9-12B)** → **MiG-29**. Statcard name → **Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol» | MiG-29 Fulcrum-A repülőgép**.
+        - **JAS 39 C EBS HU**: Statcard name → **Saab 39 Gripen C | JAS 39 C EBS HU Gripen repülőgép**.
+        - **Mi-24D**: Statcard name → **Aviaryemontnyj zavod № 116 | Mi-24D helikopter**.
+        - **Mi-24P**: Statcard name → **Aviaczionnaâ proizvodstvyennaâ ob"yedinyeniye «Progryess» im. N. I. Sazykina | Mi-24P helikopter**.
+        - **Mi-24V**: Statcard name → **Aviaczionnaâ proizvodstvyennaâ ob"yedinyeniye «Progryess» im. N. I. Sazykina | Mi-24V helikopter**.
+    - **MiG-29M**: Statcard name → **Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M**.
+    - **MiG-29 Sniper**: Statcard name → **Mikoân i Guryevič / Aerostar + Elbit Systems | MiG-29 Sniper**.
+    - **Re.2005 (9-12087A)**: Statcard name → **Officine Meccaniche Italiane | Re.2005 Sagittario (MM.495) (9-12087A)**.
+    - Corrected the roundel in the statcard name of the **3 Shì Zhàn 1 Xíng**.
+    - **P-38L-1-LO** (Taiwan): Statcard name → **Lockheed Corporation Model 422 | P-38L-1-LO Xíng Qūzhú Jī "Shuāng Shēn Jī"**.
+        - Mandarin package: Statcard name → **Lockheed Corporation Model 422 | P-38L-1-LO型驅逐機「雙身機」**.
+    - **F-51D-20-NA** (Taiwan): Statcard name → **North American Aviation NA-122 | F-51D-20-NA Xíng Qūzhú Jī "Yěma Jī"**.
+        - Mandarin package: Statcard name → **North American Aviation NA-122 | F-51D-20-NA型驅逐機「野馬機」**.
+    - **P4Y-2** (Taiwan): Statcard name → **Consolidated Vultee Aircraft Corporation Model 100 | P4Y-2 Xíng Xúnluó Jī**.
+        - Mandarin package: Statcard name → **Consolidated Vultee Aircraft Corporation Model 100 | P4Y-2型巡邏機**.
+    - **Dù 2S-44** (China):
+        - Mandarin package: Statcard name → **Czyentral'noye konstruktorskoye bûro № 29 | 杜2S-44型飞机**.
+        - Mandarin + Russian package: Statcard name → **Центральное конструкторское бюро № 29 | 杜2С-44型飞机**.
+    - **Yīěr 28 (1947)** (China) → **Yīěr 28**. The 1947 date was a typo left over by accident from when I copied the entry for the Il-10 to do the Il-28 in our spreadsheet.
+    - **Migé 15 Bisī** (China): Statcard name → **Opytno-konstruktorskoye bûro № 155 SD | Migé 15 Bisī Xíng Fēijī**.
+        - Mandarin package: Statcard name → **Opytno-konstruktorskoye bûro № 155 SD | 米格15比斯型飞机**.
+        - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 СД | 米格15比斯型飞机**.
+    - **I-307** (China): Statcard name → **Opytno-konstruktorskoye bûro № 155 | izd. FR | I-307**.
+    - **F-104A-25-LO** (Taiwan): Statcard name → **Lockheed Corporation Model 83 | F-104A-25-LO Xíng Zhàndòu Jī "Xīng Shì Zhàndòu Jī"**.
+        - Mandarin package: Statcard name → **Lockheed Corporation Model 83 | F-104A-25-LO型戰鬥機「星式戰鬥機」**.
+    - **F-104G-10-LO** (Taiwan): Statcard name → **Lockheed Corporation Model 83 | F-104G-10-LO Xíng Zhàndòu Jī "Xīng Shì Zhàndòu Jī"**.
+        - Mandarin package: Statcard name → **Lockheed Corporation Model 83 | F-104G-10-LO型戰鬥機「星式戰鬥機」**.
+    - **J7II**: Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng 132 Chang | J7II Xíng Fēijī**.
+    - **F5** (North Korea): Statcard name → **Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | Chugyeokgi 《F5》**.
+        - Mandarin package: Statcard name → **Opytno-konstruktorskoye bûro № 155 / 国营松陵机械厂 | Chugyeokgi 《F5》**.
+        - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 / 国营松陵机械厂 | Chugyeokgi 《F5》**.
+    - **Sū 30MKK** (China): Statcard name → **Kompaniâ «Sukhoj» | Sū 30MKK Xíng Fēijī**.
+        - Mandarin package: Statcard name → **Kompaniâ «Sukhoj» | 苏30MKK型飞机**.
+        - Mandarin + Russian package: Statcard name → **Компания «Сухой» | 苏30MKK型飞机**.
+    - **PAO «Kompaniâ Sukhoj»** (manufacturer) → **Kompaniâ «Sukhoj»** in the Mandarin & Mandarin + Russian packages for all the **K/JJ11**s.
+    - **JF-17 Block I**:
+        - Mandarin package: Statcard name → **成都飞机工业集团 + Pākistān Aironāṭikal Kampḷiks | JF-17 Block I Thunder**.
+    - **Z19**: Statcard name → **Hā'ěrbīn Fēijī Gōngyè (Jítuán) | Z19 Xíng Wuzhuāng Zhíshēngjī "Hēi Xuànfēng"**.
+    - **Z19E**: Statcard name → **Hā'ěrbīn Fēijī Gōngyè (Jítuán) | Z19E Xíng Wuzhuāng Zhíshēngjī "Hēi Xuànfēng"**.
+    - **Z10**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10 Xíng Wuzhuāng Zhíshēngjī "Yuān"**.
+    - **Z10ME-02**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10ME-02 Xíng Wuzhuāng Zhíshēngjī "Pīlìhuǒ"**.
+    - **Z10 (2018)**: Statcard name → **Chānghé Fēijī Gōngyè (Jítuán) | Z10 Xíng Wuzhuāng Zhíshēngjī "Pīlìhuǒ" (2018)**.
+    - **LVT (ZiS-2)** (USA / China): Statcard name → **Food Machinery Corporation | LVT Shuilù Tankè (ZiS-2 obr. 1941 g.)**.
+    - **PT-76** (China): Statcard name → **Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo mašinostroyeniâ (VNII-100) | Ob"yekt 740 | PT-76 obr. 1953 g.**.
+        - Mandarin + Russian package: Statcard name → **Всероссийский научно-исследовательский институт транспортного машиностроения (ВНИИ-100) | Объект 740 | Плавающий танк ПТ-76 обр. 1953 г.**.
+    - **211 (4 Hào) (63 Shì)**: Statcard name → **Xīnán Chēliàng Zhìzào Chang | 211 Shuilù Tankè (Yàng Chē 4 Hào) (1963 Nián Shì 85 Háomi Tankè Pào)**.
+        - Mandarin + Russian package: Statcard name → **西南车辆制造厂 | 211水陆坦克 (样车4号) (1963年式85毫米坦克炮)**.
+    - **T-62 (57-go Po.)**: Statcard name → **Opytno-konstruktorskoye bûro № 520 | Ob"yekt 166 | T-62 obr. 1964 g. (57-go Pogranotryada)**.
+        - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 520 | Объект 166 | Танк Т-62 обр. 1964 г. (57-го Погранотряда)**.
+    - **ZTZ88A**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122G | ZTZ1988A Shì Zhu Zhàn Tankè** (it accidentally said WZ122G and ZTZ1988A).
+    - **ZTZ96A**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122R | ZTZ1996A Shì Zhu Zhàn Tankè** (it accidentally said WZ122H and ZTZ1996).
+    - **PTZ89**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WA371 | PTZ1989 Shì 120 Háomi Zìxíng Fan Tankè Pào** (it accidentally said PGZ2009).
+    - **Jiàn 1 Fáng Fēi Xì**: Mid-distance name → **Jiàn 1 Fáng Fēi Xì** (it accidentally was duplicated and said **Jiàn 1 Fáng Fēi XìJiàn 1 Fáng Fēi Xì**).
+    - **al-Khālid I**: Statcard name → **Zhōngguó Běifāng Gōngyè Gōngsī / Hēvī Inḍasṭrīz Ṭaksalā | al-Khālid I Ṭaink**.
+    - **9A331-1** (China): Statcard name → **Naučno-proizvodstvyennoye ob"yedinyeniye Antyej | Boyevaâ mašina 9A331-1**.
+    - Made capitalization consistent across ground vehicle long distance names (**Light tank** → **Light Tank**, **Medium tank** → **Medium Tank**, etc.).
+
+### Weaponry:
+
+- ### Changes:
+
+    - The **85-1 Shì 125 Háomi Chuān Jia Dàn** now actually displays correctly, instead of still displaying as **125-I** because I forgot to remove the old entry.
+
+### Infantry weaponry:
+
+- #### Additions:
+    
+    - **SCAR-L**
+
+- #### Changes:
+
+    - **M249**: Statcard name → **FN America | Machine Gun, 5.56 mm, M249 "Para"**.
+    - **M11** → **M11/9mm**. Statcard name → **Cobray Company M11/9mm Submachine Gun**.
+    - **SCAR-L** → **Mk 16 Mod 0**. Statcard name → **FN America SCAR-L | Rifle, 5.56mm, Mk 16 Mod 0**.
+    - **M7** → **XM5**. Statcard name → **Sig Sauer Next Generation Squad Weapon-Rifle | Rifle, 6.8mm, XM5**.
+    - **AK-12**: Statcard name → **Konczyern «Kalašnikov» | 6P70M | 5,45-mm avtomat Kalašnikova AK-12 (2020)**.
+
 ## 1.17.00 - 23-03-2026
 
 This update completely reworks every Israeli vehicle and weapon in the game. New Hebrew and Hebrew-Russian combination packages have been introduced, as well as a new Full Ammunition Names Ukrainian package. Additionally, all Hungarian WWII aircraft have been reworked. I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu) for help with this. It would not have been possible without him.

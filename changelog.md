@@ -95,7 +95,7 @@ All dates are listed in DD-MM-YYYY format.
     - **al-Khālid I**: Statcard name → **Zhōngguó Běifāng Gōngyè Gōngsī / Hēvī Inḍasṭrīz Ṭaksalā | al-Khālid I Ṭaink**.
     - **9A331-1** (China): Statcard name → **Naučno-proizvodstvyennoye ob"yedinyeniye Antyej | Boyevaâ mašina 9A331-1**.
     - Made capitalization consistent across ground vehicle long distance names (**Light tank** → **Light Tank**, **Medium tank** → **Medium Tank**, etc.).
-    - **Thịp 16** → **B.Kh.11**. Statcard name → **Curtiss-Wright Corperation Hawk Model 75N | Ekhrụxng Bin Khạb Lị Bæb Thī 11**.
+    - **Thịp 16** → **B.Kh.11**. Statcard name → **Curtiss-Wright Corperation Hawk Model 75N | Ekhrụxng Bin Khạb Lị Bæb Thī 11** (**Thịp 16** / **ไทป์ ๑๖** was the old name).
         - Thai package: **ไทป์ ๑๖** → **บ.ข.๑๑**. Statcard name → **Curtiss-Wright Corperation Hawk Model 75N | เครื่องบินขับไล่แบบที่ ๑๑**.
     - **B.J.3**: Statcard name → **Curtiss-Wright Corporation Model 84G | Ekhrụxng Bin Jomtī Bæb Thī 3**.
         - Thai package: Statcard name → **Curtiss-Wright Corporation Model 84G | เครื่องบินโจมตีแบบที่ ๓**.
@@ -105,6 +105,18 @@ All dates are listed in DD-MM-YYYY format.
         - Thai package: Statcard name → **Saab 39 Gripen C | เครื่องบินขับไล่แบบที่ ๒๐**.
     - **F14** (USA / Iran): Statcard name → **Grumman Aerospace Corporation G-303 | F14 Tāmkat**.
         - Farsi package: Statcard name → **Grumman Aerospace Corporation G-303 | تامکت F14**.
+    - **44 psv KW 1 A**: Statcard name → **Kirovskij zavod | Ps. 271-1 | 44 tonnin panssarivaunu KW 1 A "Klimi"**.
+    - **44 psv KW 1 B**: Statcard name → **Kirovskij zavod | Ps. 272-1 | 44 tonnin panssarivaunu KW 1 B "Klimi"**.
+    - **15 psv T 50**:
+        - Finnish Ps. Designator package: **15 psv T 50** → **Ps. 183-1**.
+    - **M24** (Sweden / Denmark): Statcard name → **Cadillac Motor Car Division | Tank, Light, M24 Chaffee**.
+    - **Bi-17 Ji** (Israel): Statcard name → **Boeing Airplane Company | Bi-17 Degem Ji Mivṣar Me'ofef**.
+    - **'Organ (Mis 29)**: Statcard name → **Avions Marcel Dassault | M.D.450B 'Organ (Ṭayeset 113 "Ṭayeset Haṣar'ah", Mis 29)**.
+    - Added the missing roundel to the statcard name of the **A-4N** (Israel).
+    - **F-84F-51-GK (EC 1/1)** (France / Israel): Statcard name → **Republic Aviation Corporation AP-23 | F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 "Corse")**.
+    - **F-84F-51-GK (Ṭayeset 200)** (Israel): Statcard name → **Republic Aviation Corporation AP-23 | F-84F-51-GK Thunderstreak (Ṭayeset 200)**.
+    - **Kfir Block 60** (Israel / Colombia): Statcard name → **ha-Ta'asiah ha-'Avirit le-Yisra'el Kfir Block 60**.
+        - Hebrew package: **Kfir Block 60** (Israel / Colombia): Statcard name → **Kfir Block 60 התעשייה האווירית לישראל**.
 
 ### Weaponry:
 

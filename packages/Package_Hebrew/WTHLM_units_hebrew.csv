@@ -49,6 +49,10 @@ b-17g_iaf_1; י׳ג 17-יב
 b-17g_iaf_2; 17-יב
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+meteor_nfmk13_shop;13 רואטמ 
+meteor_nfmk13_0; Gloster Aircraft Company G.47 / Armstrong Whitworth | 13 םגד רואטמ
+meteor_nfmk13_1;13 רואטמ 
+meteor_nfmk13_2;רואטמ 
 meteor_fmk8_iaf_shop;8 רואטמ 
 meteor_fmk8_iaf_0; Gloster Aircraft Company G.41K | 8 םגד רואטמ
 meteor_fmk8_iaf_1;8 רואטמ 
@@ -57,10 +61,6 @@ meteor_frmk9_iaf_shop;9 רואטמ 
 meteor_frmk9_iaf_0; Gloster Aircraft Company G.41L | 9 םגד רואטמ
 meteor_frmk9_iaf_1;9 רואטמ 
 meteor_frmk9_iaf_2;רואטמ 
-meteor_nfmk13_shop;13 רואטמ 
-meteor_nfmk13_0; Gloster Aircraft Company G.47 / Armstrong Whitworth | 13 םגד רואטמ
-meteor_nfmk13_1;13 רואטמ 
-meteor_nfmk13_2;רואטמ 
 md_450b_ouragan_iaf_shop;ןגרוא 
 md_450b_ouragan_iaf_0; Avions Marcel Dassault | ןגרוא
 md_450b_ouragan_iaf_1;ןגרוא 
@@ -111,7 +111,7 @@ so_4050_vautour_2a_iaf_shop;A רוטוו ☨
 so_4050_vautour_2a_iaf_0;☨ Société nationale des constructions aéronautiques du Sud-Ouest | A רוטוו
 so_4050_vautour_2a_iaf_1;A רוטוו ☨
 so_4050_vautour_2a_iaf_2;רוטוו ☨
-f-84f_israel_iaf_shop; (תסייט 200) F-84F-51-GK
+f-84f_israel_iaf_shop;(תסייט 200) F-84F-51-GK 
 f-84f_israel_iaf_0; Republic Aviation Corporation | (תסייט 200) F-84F-51-GK Thunderstreak
 f-84f_israel_iaf_1; F-84F
 f-84f_israel_iaf_2; F-84
@@ -134,7 +134,7 @@ kfir_c2_0;לארשיל תיריוואה היישעתה | C.2 ריפכ
 kfir_c2_1;C.2 ריפכ
 kfir_c2_2;Kfir
 kfir_c10_colombia_shop;◡ Kfir Block 60
-kfir_c10_colombia_0;◡ לארשיל תיריוואה היישעתה | Kfir Block 60
+kfir_c10_colombia_0;Kfir Block 60 לארשיל תיריוואה היישעתה ◡
 kfir_c10_colombia_1;◡ Kfir Block 60
 kfir_c10_colombia_2;◡ Kfir
 f-4e_iaf_shop; F-4E-48-MC
@@ -172,7 +172,7 @@ f_16d_block_40_barak_2_missile_test_0; General Dynamics Corporation | II קר
 f_16d_block_40_barak_2_missile_test_1; F-16D
 f_16d_block_40_barak_2_missile_test_2; F-16
 f_16i_sufa_shop; F-16I
-f_16i_sufa_0; Lockheed Martin Corporation | הפוס F-16I 
+f_16i_sufa_0; Lockheed Martin Corporation | הפוס F-16I
 f_16i_sufa_1; F-16I
 f_16i_sufa_2; F-16
 f_15a_iaf_shop; F-15A-18-MC (MSIP)

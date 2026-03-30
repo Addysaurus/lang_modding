@@ -138,6 +138,18 @@ mig_23bn_2;◊ MiG-23
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+germ_m55_shop;◄ PzH M 55
+germ_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
+◄ Panzerhaubitze M 55"
+germ_m55_1;◄ PzH M 55
+germ_m55_2;SPH
+
+germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
+germ_kv_1B_finland_0;"<color=#81c3fc>Kirovskij zavod</color>
+<color=#5cae63>Ps. 272-1</color>
+▀ 44 tonnin panssarivaunu KW 1 B ""Klimi"""
+germ_kv_1B_finland_1;▀ 44 psv KW 1 B
+germ_kv_1B_finland_2;▀ Heavy Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
@@ -308,15 +320,6 @@ uk_badger_2;IFV
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
-
-<color=#81c3fc>Manufacturer & manufacturer name</color>
-<color=#ff8c80>Military project</color>
-<color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
-<color=#7ce68f>Alternate currently applicable name</color>
-Vehicle name
-<color=#9e9e9e>Modifications</color>
-<color=#ba77ba>Service years package</color>
-<color=@currencyGoldColor>Unit/Ace</color>
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 h-75n_shop;B.Kh.11
@@ -2053,6 +2056,12 @@ mi_24v_hungary_2;◔ Mi-24
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+f-84f_iaf_shop;☨ F-84F-51-GK (EC 1/1)
+f-84f_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23</color>
+☨ F-84F-51-GK Thunderstreak
+Escadron de Chasse 1/1 ""Corse"""
+f-84f_iaf_1;☨ F-84F
+f-84f_iaf_2;☨ F-84
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 nf_5a_netherlands_shop;◘ NF-5A
@@ -2142,6 +2151,18 @@ sw_t_50_fin_1;15 psv T 50
 sw_t_50_fin_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+sw_m24_chaffee_dk_shop;♔ M24
+sw_m24_chaffee_dk_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+♔ Tank, Light, M24 Chaffee"
+sw_m24_chaffee_dk_1;♔ M24
+sw_m24_chaffee_dk_2;Light Tank
+
+sw_kv_1_1942_fin_shop;44 psv KW 1 A
+sw_kv_1_1942_fin_0;"<color=#81c3fc>Kirovskij zavod</color>
+<color=#5cae63>Ps. 271-1</color>
+44 tonnin panssarivaunu KW 1 A ""Klimi"""
+sw_kv_1_1942_fin_1;44 psv KW 1 A
+sw_kv_1_1942_fin_2;Heavy Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
@@ -2182,27 +2203,255 @@ sw_t_50_fin_2;Light Tank
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 4
-spitfire_lf_mk9e_iaf_shop;(ק״כ) IX רייפטיפס 
-spitfire_lf_mk9e_iaf_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
-IX םגד רייפטיפס 
-<color=#9e9e9e>(הצוצק ףנכ)</color>"
-spitfire_lf_mk9e_iaf_1;IX רייפטיפס 
-spitfire_lf_mk9e_iaf_2;רייפטיפס 
+spitfire_mk9c_iaf_shop; Spiṭfayer IX
+spitfire_mk9c_iaf_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
+ Spiṭfayer Degem IX"
+spitfire_mk9c_iaf_1; Spiṭfayer IX
+spitfire_mk9c_iaf_2; Spiṭfayer
 
-spitfire_lf_mk9e_weisman_shop;ןמציו לש IX רייפטיפס 
+spitfire_lf_mk9e_iaf_shop; Spiṭfayer IX (KK)
+spitfire_lf_mk9e_iaf_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
+ Spiṭfayer Degem IX
+<color=#9e9e9e>(Knef Kṣoṣah)</color>"
+spitfire_lf_mk9e_iaf_1; Spiṭfayer IX
+spitfire_lf_mk9e_iaf_2; Spiṭfayer
+
+spitfire_lf_mk9e_weisman_shop; Weiṣman's Spiṭfayer IX
 spitfire_lf_mk9e_weisman_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
-IX םגד רייפטיפס 
-<color=@currencyGoldColor>ןמציו רזע לש</color>"
-spitfire_lf_mk9e_weisman_1;IX רייפטיפס 
-spitfire_lf_mk9e_weisman_2;רייפטיפס 
+ Spiṭfayer Degem IX
+<color=@currencyGoldColor>'Ezer Weiṣman's</color>"
+spitfire_lf_mk9e_weisman_1; Spiṭfayer IX
+spitfire_lf_mk9e_weisman_2; Spiṭfayer
+
+s_199_shop; Si.210
+s_199_0;"<color=#81c3fc>Avia Motors C.210</color>
+ Si.210 ""Sakin"""
+s_199_1; Si.210
+s_199_2; Si.210
+
+p-51d-20-na_iaf_shop; Pi-51 Di
+p-51d-20-na_iaf_0;"<color=#81c3fc>North American Aviation NA-122</color>
+ Pi-51 Degem Di Musṭang"
+p-51d-20-na_iaf_1; Pi-51 Di
+p-51d-20-na_iaf_2; Pi-51
+
+b-17g_iaf_shop; Bi-17 Ji
+b-17g_iaf_0;"<color=#81c3fc>Boeing Airplane Company</color>
+ Bi-17 Degem Ji Mivṣar Me'ofef"
+b-17g_iaf_1; Bi-17 Ji
+b-17g_iaf_2; Bi-17
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+meteor_nfmk13_shop; Meṭe'or 13
+meteor_nfmk13_0;"<color=#81c3fc>Gloster Aircraft Company G.47 <color=@commonTextColor>/</color> Armstrong Whitworth</color>
+ Meṭe'or Degem 13"
+meteor_nfmk13_1; Meṭe'or 13
+meteor_nfmk13_2; Meṭe'or
+
+meteor_fmk8_iaf_shop; Meṭe'or 8
+meteor_fmk8_iaf_0;"<color=#81c3fc>Gloster Aircraft Company G.41K</color>
+ Meṭe'or Degem 8"
+meteor_fmk8_iaf_1; Meṭe'or 8
+meteor_fmk8_iaf_2; Meṭe'or
+
+meteor_frmk9_iaf_shop; Meṭe'or 9
+meteor_frmk9_iaf_0;"<color=#81c3fc>Gloster Aircraft Company G.41L</color>
+ Meṭe'or Degem 9"
+meteor_frmk9_iaf_1; Meṭe'or 9
+meteor_frmk9_iaf_2; Meṭe'or
+
+md_450b_ouragan_iaf_shop; 'Organ
+md_450b_ouragan_iaf_0;"<color=#81c3fc>Avions Marcel Dassault</color>
+ M.D.450B 'Organ"
+md_450b_ouragan_iaf_1; 'Organ
+md_450b_ouragan_iaf_2; 'Organ
+
+md_450b_ouragan_iaf_29_shop; 'Organ (Mis 29)
+md_450b_ouragan_iaf_29_0;"<color=#81c3fc>Avions Marcel Dassault</color>
+ M.D.450B 'Organ
+<color=@currencyGoldColor>Ṭayeset 113 ""Ṭayeset Haṣar'ah"", Mis 29</color>"
+md_450b_ouragan_iaf_29_1; 'Organ
+md_450b_ouragan_iaf_29_2; 'Organ
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+md_454_mystere_4a_iaf_shop; Misṭer IV
+md_454_mystere_4a_iaf_0;"<color=#81c3fc>Avions Marcel Dassault</color>
+ Misṭer IV"
+md_454_mystere_4a_iaf_1; Misṭer IV
+md_454_mystere_4a_iaf_2; Misṭer
+
+md_460_sambad_shop; Super Misṭer B-2
+md_460_sambad_0;"<color=#81c3fc>Avions Marcel Dassault</color>
+ Super Misṭer B-2 ""Sambad"""
+md_460_sambad_1; Super Misṭer B-2
+md_460_sambad_2; Super Misṭer
+
+md_460_saar_shop;Sa'ar
+md_460_saar_0;"<color=#81c3fc>Avions Marcel Dassault <color=@commonTextColor>/</color> ha-Ta'asiah ha-'Avirit le-Yisra'el</color>
+Sa'ar"
+md_460_saar_1;Sa'ar
+md_460_saar_2;Sa'ar
+
+a_4h_shop; A-4H
+a_4h_0;"<color=#81c3fc>McDonnell Douglas Corporation D-640</color>
+ A-4H 'Ayiṭ"
+a_4h_1; A-4H
+a_4h_2; A-4
+
+a_4e_early_iaf_shop; A-4E (AFC 418-II)
+a_4e_early_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation D-640</color>
+ A-4E 'Ayiṭ
+<color=#9e9e9e>(AFC 418-II)</color>"
+a_4e_early_iaf_1; A-4E
+a_4e_early_iaf_2; A-4
+
+a_4n_shop; A-4N
+a_4n_0;"<color=#81c3fc>McDonnell Douglas Corporation D-640</color>
+ A-4N 'Ayiṭ"
+a_4n_1; A-4N
+a_4n_2; A-4
+
+a_4e_late_iaf_shop; A-4E (AFC 482)
+a_4e_late_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation D-640</color>
+ A-4E 'Ayiṭ
+<color=#9e9e9e>(AFC 482)</color>"
+a_4e_late_iaf_1; A-4E
+a_4e_late_iaf_2; A-4
+
+so_4050_vautour_2a_israel_iaf_shop; Vuṭur A
+so_4050_vautour_2a_israel_iaf_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest</color>
+ Vuṭur A"
+so_4050_vautour_2a_israel_iaf_1; Vuṭur A
+so_4050_vautour_2a_israel_iaf_2; Vuṭur
+
+so_4050_vautour_2n_iaf_shop; Vuṭur N
+so_4050_vautour_2n_iaf_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest</color>
+ Vuṭur N"
+so_4050_vautour_2n_iaf_1; Vuṭur N
+so_4050_vautour_2n_iaf_2; Vuṭur
+
+so_4050_vautour_2a_iaf_shop;☨ Vuṭur A
+so_4050_vautour_2a_iaf_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest</color>
+☨ Vuṭur A"
+so_4050_vautour_2a_iaf_1;☨ Vuṭur A
+so_4050_vautour_2a_iaf_2;☨ Vuṭur
+
+f-84f_israel_iaf_shop; F-84F-51-GK (Ṭayeset 200)
+f-84f_israel_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23</color>
+ F-84F-51-GK Thunderstreak
+<color=@currencyGoldColor>Ṭayeset 200</color>"
+f-84f_israel_iaf_1; F-84F
+f-84f_israel_iaf_2; F-84
+
+<color=#81c3fc>Manufacturer & manufacturer name</color>
+<color=#ff8c80>Military project</color>
+<color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
+<color=#7ce68f>Alternate currently applicable name</color>
+Vehicle name
+<color=#9e9e9e>Modifications</color>
+<color=#ba77ba>Service years package</color>
+<color=@currencyGoldColor>Unit/Ace</color>
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+mirage_3cj_shop; Miraž III CJ
+mirage_3cj_0;"<color=#81c3fc>Avions Marcel Dassault</color>
+ Miraž III CJ ""Šahak"""
+mirage_3cj_1; Miraž III CJ
+mirage_3cj_2; Mirage
+
+kfir_c7_shop;Kfir C.7
+kfir_c7_0;"<color=#81c3fc>ha-Ta'asiah ha-'Avirit le-Yisra'el</color>
+Kfir C.7"
+kfir_c7_1;Kfir C.7
+kfir_c7_2;Kfir
+
+kfir_canard_shop;Kfir Gderot
+kfir_canard_0;"<color=#81c3fc>ha-Ta'asiah ha-'Avirit le-Yisra'el</color>
+Kfir Gderot"
+kfir_canard_1;Kfir Gderot
+kfir_canard_2;Kfir
+
+kfir_c2_shop;Kfir C.2
+kfir_c2_0;"<color=#81c3fc>ha-Ta'asiah ha-'Avirit le-Yisra'el</color>
+Kfir C.2"
+kfir_c2_1;Kfir C.2
+kfir_c2_2;Kfir
+
+kfir_c10_colombia_shop;◡ Kfir Block 60
+kfir_c10_colombia_0;"<color=#81c3fc>◡ ha-Ta'asiah ha-'Avirit le-Yisra'el Kfir Block 60</color>"
+kfir_c10_colombia_1;◡ Kfir Block 60
+kfir_c10_colombia_2;◡ Kfir
+
+f-4e_iaf_shop; F-4E-48-MC
+f-4e_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98HO</color>
+ F-4E-48-MC Kurnas"
+f-4e_iaf_1; F-4E
+f-4e_iaf_2; F-4
+
+f-4e_kurnass_2000_shop; F-4E Kurnas 2000
+f-4e_kurnass_2000_0;"<color=#81c3fc>McDonnell Douglas Corporation Model <color=@commonTextColor>/</color> ha-Ta'asiah ha-'Avirit le-Yisra'el</color>
+ F-4E Kurnas 2000"
+f-4e_kurnass_2000_1; F-4E Kurnas 2000
+f-4e_kurnass_2000_2; F-4E
+
+nesher_shop;Nešer A
+nesher_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@commonTextColor>/</color> ha-Ta'asiah ha-'Avirit
+le-Yisra'el</color>
+Nešer A"
+nesher_1;Nešer A
+nesher_2;Nešer
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16a_block_10_iaf_shop; F-16A-15OCU-CF
+f_16a_block_10_iaf_0;"<color=#81c3fc>General Dynamics Corporation</color>
+ F-16A-15OCU-CF Neṣ"
+f_16a_block_10_iaf_1; F-16A
+f_16a_block_10_iaf_2; F-16
+
+f_16c_block_40_barak_2_shop; F-16C-40L-CF
+f_16c_block_40_barak_2_0;"<color=#81c3fc>General Dynamics Corporation</color>
+ F-16C-40L-CF Barak II"
+f_16c_block_40_barak_2_1; F-16C
+f_16c_block_40_barak_2_2; F-16
+
+f_16d_block_40_barak_2_shop; F-16D-40-CF
+f_16d_block_40_barak_2_0;"<color=#81c3fc>General Dynamics Corporation</color>
+ F-16D-40-CF Barak II"
+f_16d_block_40_barak_2_1; F-16D
+f_16d_block_40_barak_2_2; F-16
+
+f_16i_sufa_shop; F-16I
+f_16i_sufa_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
+ F-16I Sufah"
+f_16i_sufa_1; F-16I
+f_16i_sufa_2; F-16
+
+f_16a_block_10_netz_mod_shop; F-16A-15OCU-CF (1987)
+f_16a_block_10_netz_mod_0;"<color=#81c3fc>General Dynamics Corporation</color>
+ F-16A-15OCU-CF Neṣ
+<color=#9e9e9e>(1987)</color>"
+f_16a_block_10_netz_mod_1; F-16A
+f_16a_block_10_netz_mod_2; F-16
+
+f_15a_iaf_shop; F-15A-18-MC (MSIP)
+f_15a_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C</color>
+ F-15A-18-MC Baz
+<color=#9e9e9e>(Multistage Improvement Program)</color>"
+f_15a_iaf_1; F-15A
+f_15a_iaf_2; F-15
+
+f_15c_baz_msip_shop; F-15C-40-MC (MSIP II)
+f_15c_baz_msip_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C</color>
+ F-15C-40-MC Baz Mešupar
+<color=#9e9e9e>(Multistage Improvement Program II)</color>"
+f_15c_baz_msip_1; F-15C
+f_15c_baz_msip_2; F-15
+
+f_15i_raam_shop; F-15I
+f_15i_raam_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C</color>
+ F-15I Ra'am"
+f_15i_raam_1; F-15I
+f_15i_raam_2; F-15
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 

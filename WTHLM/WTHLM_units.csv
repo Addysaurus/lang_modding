@@ -5077,6 +5077,11 @@ germ_m55_0;◄ Pacific Car and Foundry Company | Panzerhaubitze M 55
 germ_m55_1;◄ PzH M 55
 germ_m55_2;SPH
 
+germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
+germ_kv_1B_finland_0;"▀ Kirovskij zavod | Ps. 272-1 | 44 tonnin panssarivaunu KW 1 B ""Klimi"""
+germ_kv_1B_finland_1;▀ 44 psv KW 1 B
+germ_kv_1B_finland_2;▀ Heavy Tank
+
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
@@ -8532,7 +8537,7 @@ sb_25j_netherlands_2;◘ B-25
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 f-84f_iaf_shop;☨ F-84F-51-GK (EC 1/1)
-f-84f_iaf_0;"☨ Republic Aviation Corporation | F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 ""Corse"")"
+f-84f_iaf_0;"☨ Republic Aviation Corporation AP-23 | F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 ""Corse"")"
 f-84f_iaf_1;☨ F-84F
 f-84f_iaf_2;☨ F-84
 
@@ -8902,9 +8907,13 @@ sw_t_50_fin_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 sw_m24_chaffee_dk_shop;♔ M24
-sw_m24_chaffee_dk_0;♔ Cadillac Motor Car Division | G-200 | Tank, Light, M24 Chaffee
+sw_m24_chaffee_dk_0;♔ Cadillac Motor Car Division | Tank, Light, M24 Chaffee
 sw_m24_chaffee_dk_1;♔ M24
 sw_m24_chaffee_dk_2;Light Tank
+sw_kv_1_1942_fin_shop;44 psv KW 1 A
+sw_kv_1_1942_fin_0;"Kirovskij zavod | Ps. 271-1 | 44 tonnin panssarivaunu KW 1 A ""Klimi"""
+sw_kv_1_1942_fin_1;44 psv KW 1 A
+sw_kv_1_1942_fin_2;Heavy Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
@@ -8986,7 +8995,7 @@ p-51d-20-na_iaf_0; North American Aviation NA-122 | Pi-51 Degem Di Musṭang
 p-51d-20-na_iaf_1; Pi-51 Di
 p-51d-20-na_iaf_2; Pi-51
 b-17g_iaf_shop; Bi-17 Ji
-b-17g_iaf_0; Boeing Airplane Company | Bi-17 Degem Ji Mivtzar Me'ofef
+b-17g_iaf_0; Boeing Airplane Company | Bi-17 Degem Ji Mivṣar Me'ofef
 b-17g_iaf_1; Bi-17 Ji
 b-17g_iaf_2; Bi-17
 
@@ -9008,7 +9017,7 @@ md_450b_ouragan_iaf_0; Avions Marcel Dassault | M.D.450B 'Organ
 md_450b_ouragan_iaf_1; 'Organ
 md_450b_ouragan_iaf_2; 'Organ
 md_450b_ouragan_iaf_29_shop; 'Organ (Mis 29)
-md_450b_ouragan_iaf_29_0;" Avions Marcel Dassault | M.D.450B 'Organ (Mis 29, Ṭayeset 113 ""Ṭayeset Haṣar'ah"")"
+md_450b_ouragan_iaf_29_0;" Avions Marcel Dassault | M.D.450B 'Organ (Ṭayeset 113 ""Ṭayeset Haṣar'ah"", Mis 29)"
 md_450b_ouragan_iaf_29_1; 'Organ
 md_450b_ouragan_iaf_29_2; 'Organ
 
@@ -9034,7 +9043,7 @@ a_4e_early_iaf_0; McDonnell Douglas Corporation D-640 | A-4E 'Ayiṭ (AFC 418
 a_4e_early_iaf_1; A-4E
 a_4e_early_iaf_2; A-4
 a_4n_shop; A-4N
-a_4n_0;McDonnell Douglas Corporation D-640 | A-4N 'Ayiṭ
+a_4n_0; McDonnell Douglas Corporation D-640 | A-4N 'Ayiṭ
 a_4n_1; A-4N
 a_4n_2; A-4
 a_4e_late_iaf_shop; A-4E (AFC 482)
@@ -9054,7 +9063,7 @@ so_4050_vautour_2a_iaf_0;☨ Société nationale des constructions aéronauti
 so_4050_vautour_2a_iaf_1;☨ Vuṭur A
 so_4050_vautour_2a_iaf_2;☨ Vuṭur
 f-84f_israel_iaf_shop; F-84F-51-GK (Ṭayeset 200)
-f-84f_israel_iaf_0; F-84F-51-GK Thunderstreak (Ṭayeset 200)
+f-84f_israel_iaf_0; Republic Aviation Corporation AP-23 | F-84F-51-GK Thunderstreak (Ṭayeset 200)
 f-84f_israel_iaf_1; F-84F
 f-84f_israel_iaf_2; F-84
 
@@ -9076,7 +9085,7 @@ kfir_c2_0;ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir C.2
 kfir_c2_1;Kfir C.2
 kfir_c2_2;Kfir
 kfir_c10_colombia_shop;◡ Kfir Block 60
-kfir_c10_colombia_0;◡ ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir Block 60
+kfir_c10_colombia_0;◡ ha-Ta'asiah ha-'Avirit le-Yisra'el Kfir Block 60
 kfir_c10_colombia_1;◡ Kfir Block 60
 kfir_c10_colombia_2;◡ Kfir
 f-4e_iaf_shop; F-4E-48-MC
@@ -10111,10 +10120,6 @@ germ_kv_2_754r_shop;▀ s.Pz.Kpfw. 754 (r)
 germ_kv_2_754r_0;▀ schwerer Panzerkampfwagen 754 (r) | 15cm KW
 germ_kv_2_754r_1;▀ s.Pz.Kpfw. 754 (r)
 germ_kv_2_754r_2;▀ Heavy tank
-germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
-germ_kv_1B_finland_0;"▀ Ps. 272 | 44 tonnin panssarivaunu KW 1 B ""Klimi"""
-germ_kv_1B_finland_1;▀ 44 psv KW 1 B
-germ_kv_1B_finland_2;▀ Heavy tank
 us_m4a2_1944_germ_shop;▀ Pz.Kpfw. 748 (a) C
 us_m4a2_1944_germ_0;▀ Panzerkampfwagen 748 (a) Ausf. C | M 4 (k.)
 us_m4a2_1944_germ_1;▀ Pz.Kpfw. 748 (a) C
@@ -14472,10 +14477,6 @@ sw_t_34_1941_shop;26 psv T 34 B
 sw_t_34_1941_0;"Ps. 231 | 26 tonnin panssarivaunu T 34 B ""Sotka"""
 sw_t_34_1941_1;26 psv T 34 B
 sw_t_34_1941_2;Medium Tank
-sw_kv_1_1942_fin_shop;44 psv KW 1 A
-sw_kv_1_1942_fin_0;"Ps. 271 | 44 tonnin panssarivaunu KW 1 A ""Klimi"""
-sw_kv_1_1942_fin_1;44 psv KW 1 A
-sw_kv_1_1942_fin_2;Heavy Tank
 sw_t_34_85_zis_53_shop;31 psv T 34/85
 sw_t_34_85_zis_53_0;"Ps. 245 | 31 tonnin panssarivaunu T 34/85 ""Pitkäputkinen Sotka"""
 sw_t_34_85_zis_53_1;31 psv T 34/85

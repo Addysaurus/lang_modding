@@ -263,10 +263,63 @@ f_15i_raam_2; F-15
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 9
 
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+md_500_tow_late_shop;500 MD/ברוע
+md_500_tow_late_0;"<color=#81c3fc>Hughes Helicopters 500 MD</color>
+""טוטהל"" רדנפיד 500 MD/ברוע"
+md_500_tow_late_1;500 MD/ברוע
+md_500_tow_late_2;500 MD
+
+ah_1g_iaf_shop; AH-1G
+ah_1g_iaf_0;"<color=#81c3fc>Bell Helicopter Company Model 209</color>
+א עפצ AH-1G "
+ah_1g_iaf_1; AH-1G
+ah_1g_iaf_2; AH-1
+
+ah_1q_iaf_shop; AH-1Q
+ah_1q_iaf_0;"<color=#81c3fc>Bell Helicopter Company Model 209</color>
+ב עפצ AH-1Q "
+ah_1q_iaf_1; AH-1Q
+ah_1q_iaf_2; AH-1
+
+ah_1f_iaf_shop; AH-1S (MC) (CN)
+ah_1f_iaf_0;"<color=#81c3fc>Bell Helicopter Company Model 209</color>
+ב עפצ AH-1Q 
+<color=#9e9e9e>(Cobra Night Imaging Thermal Equipment) (Modernized Cobra)</color>"
+ah_1f_iaf_1; AH-1S
+ah_1f_iaf_2; AH-1
 
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+ah_64a_iaf_shop; AH-64A
+ah_64a_iaf_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
+ןתפ AH-64A "
+ah_64a_iaf_1; AH-64A
+ah_64a_iaf_2; AH-64
+
+ah_64a_peten_iaf_shop;(113 תסייט) AH-64A 
+ah_64a_peten_iaf_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
+ןתפ AH-64A 
+<color=@currencyGoldColor>""הערצה תסייט"" 113 תסייט</color>"
+ah_64a_peten_iaf_1; AH-64A
+ah_64a_peten_iaf_2; AH-64
+
+ah_64a_peten_shop;▃ AH-64A
+ah_64a_peten_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
+ןתפ AH-64A ▃"
+ah_64a_peten_1;▃ AH-64A
+ah_64a_peten_2;▃ AH-64
+
+ah_64d_i_saraph_shop; AH-64D
+ah_64d_i_saraph_0;"<color=#81c3fc>Boeing Rotorcraft Systems</color>
+ףרש AH-64D "
+ah_64d_i_saraph_1; AH-64D
+ah_64d_i_saraph_2; AH-64
 
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+ah_60_iaf_shop;ABH Demonstrator
+ah_60_iaf_0;"<color=#81c3fc>Sikorsky Aircraft Corperation + Elbit Systems Armed Blackhawk
+Demonstrator ""שומח ףושני""</color>"
+ah_60_iaf_1;ABH Demonstrator
+ah_60_iaf_2;ABH Demonstrator
 
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 8
 

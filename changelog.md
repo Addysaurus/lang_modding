@@ -117,6 +117,10 @@ All dates are listed in DD-MM-YYYY format.
     - **F-84F-51-GK (Ṭayeset 200)** (Israel): Statcard name → **Republic Aviation Corporation AP-23 | F-84F-51-GK Thunderstreak (Ṭayeset 200)**.
     - **Kfir Block 60** (Israel / Colombia): Statcard name → **ha-Ta'asiah ha-'Avirit le-Yisra'el Kfir Block 60**.
         - Hebrew package: **Kfir Block 60** (Israel / Colombia): Statcard name → **Kfir Block 60 התעשייה האווירית לישראל**.
+    - **MD 500/'Orev** (Israel) → **500 MD/'Orev**. Statcard name → **Hughes Helicopters 500 MD | 500 MD/'Orev Defender "Lahaṭuṭ"** (fr this time, I forgot to actually do it last update).
+    - **AH-1Q** (Israel): Statcard name → **Bell Helicopter Company Model 209 | AH-1Q Ṣefa' Bet** (fr this time, I forgot to actually do it last update).
+    - **AH-64D** (Israel):
+        - Hebrew package: Statcard name → **Boeing Rotorcraft Systems | שרף AH-64D** (manufacturer corrected).
 
 ### Weaponry:
 
@@ -362,7 +366,7 @@ This update completely reworks every Israeli vehicle and weapon in the game. New
                 - Hebrew package: **AH-1Q**: Statcard name → **Bell Helicopter Company Model 209 | צפע ב AH-1Q**.
             - **AH-1S (MC) (CN)**: Statcard name → **Bell Helicopter Textron Model 209 | AH-1S Ṣefa' Dalet (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)**.
                 - Hebrew package: **AH-1S (MC) (CN)**: Statcard name → **Bell Helicopter Textron Model 209 | (Cobra Night Imaging Thermal Equipment) (Modernized Cobra) צפע ד AH-1S**.
-            - **MD 500/'Orev** → **500 MD/'Orev**. Statcard name → **Boeing Rotorcraft Systems | AH-64A Saraf**.
+            - **MD 500/'Orev** → **500 MD/'Orev**. Statcard name → **Hughes Helicopters 500 MD | 500 MD/'Orev Defender "Lahaṭuṭ"**.
                 - Hebrew package: **MD 500/'Orev** → **500 MD/עורב**. Statcard name → **Hughes Helicopters 500 MD | "דיפנדר "להטוט** **500 MD/עורב**. (I can't get it to format right, it's supposed to look like the short name does).
             - **AH-64A** (USA / Israel & Israel):
                 - Hebrew package: Statcard name → **McDonnell Douglas Helicopter Systems | פתן AH-64A**.

@@ -48,8 +48,8 @@ All dates are listed in DD-MM-YYYY format.
     - **MiG-29 Sniper**: Statcard name → **Mikoân i Guryevič / Aerostar + Elbit Systems | MiG-29 Sniper**.
     - **Re.2005 (9-12087A)**: Statcard name → **Officine Meccaniche Italiane | Re.2005 Sagittario (MM.495) (9-12087A)**.
     - Corrected the roundel in the statcard name of the **3 Shì Zhàn 1 Xíng**.
-    - **P-38L-1-LO** (Taiwan): Statcard name → **Lockheed Corporation Model 422 | P-38L-1-LO Xíng Qūzhú Jī "Shuāng Shēn Jī"**.
-        - Mandarin package: Statcard name → **Lockheed Corporation Model 422 | P-38L-1-LO型驅逐機「雙身機」**.
+    - **P-38L-1-LO** (Taiwan): Statcard name → **Lockheed Corporation Model 422-87-23 | P-38L-1-LO Xíng Qūzhú Jī "Shuāng Shēn Jī"**.
+        - Mandarin package: Statcard name → **Lockheed Corporation Model 422-87-23 | P-38L-1-LO型驅逐機「雙身機」**.
     - **F-51D-20-NA** (Taiwan): Statcard name → **North American Aviation NA-122 | F-51D-20-NA Xíng Qūzhú Jī "Yěma Jī"**.
         - Mandarin package: Statcard name → **North American Aviation NA-122 | F-51D-20-NA型驅逐機「野馬機」**.
     - **P4Y-2** (Taiwan): Statcard name → **Consolidated Vultee Aircraft Corporation Model 100 | P4Y-2 Xíng Xúnluó Jī**.
@@ -95,6 +95,14 @@ All dates are listed in DD-MM-YYYY format.
     - **al-Khālid I**: Statcard name → **Zhōngguó Běifāng Gōngyè Gōngsī / Hēvī Inḍasṭrīz Ṭaksalā | al-Khālid I Ṭaink**.
     - **9A331-1** (China): Statcard name → **Naučno-proizvodstvyennoye ob"yedinyeniye Antyej | Boyevaâ mašina 9A331-1**.
     - Made capitalization consistent across ground vehicle long distance names (**Light tank** → **Light Tank**, **Medium tank** → **Medium Tank**, etc.).
+    - **Thịp 16** → **B.Kh.11**. Statcard name → **Curtiss-Wright Corperation Hawk Model 75N | Ekhrụxng Bin Khạb Lị Bæb Thī 11**.
+        - Thai package: **ไทป์ ๑๖** → **บ.ข.๑๑**. Statcard name → **Curtiss-Wright Corperation Hawk Model 75N | เครื่องบินขับไล่แบบที่ ๑๑**.
+    - **B.J.3**: Statcard name → **Curtiss-Wright Corporation Model 84G | Ekhrụxng Bin Jomtī Bæb Thī 3**.
+        - Thai package: Statcard name → **Curtiss-Wright Corporation Model 84G | เครื่องบินโจมตีแบบที่ ๓**.
+    - **B.Kh.16**: Statcard name → **Republic Aviation Corporation AP-23 | Ekhrụxng Bin Khạb Lị Bæb Thī 16**. It somehow had the manufacturer before as North American Rockwell because that apparrently got accidentally transposed into it over a year ago from the unused Thai OV-10C Bronco in our spreadsheet, which was made by North American Rockwell, and is one line above it in our sheet.
+        - Thai package: Statcard name → **Republic Aviation Corporation AP-23 | เครื่องบินขับไล่แบบที่ ๑๖**.
+    - **B.Kh.20**: Statcard name → **Saab 39 Gripen C | Ekhrụxng Bin Khạb Lị Bæb Thī 20**.
+        - Thai package: Statcard name → **Saab 39 Gripen C | เครื่องบินขับไล่แบบที่ ๒๐**.
 
 ### Weaponry:
 

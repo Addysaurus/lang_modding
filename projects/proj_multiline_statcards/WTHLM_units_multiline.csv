@@ -1,5 +1,4 @@
 <ID|readonly|noverify>;<English>
-us_m2_medium_0;"
 <color=#81c3fc>Manufacturer & manufacturer name</color>
 <color=#ff8c80>Military project</color>
 <color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
@@ -7,7 +6,7 @@ us_m2_medium_0;"
 Vehicle name
 <color=#9e9e9e>Modifications</color>
 <color=#ba77ba>Service years package</color>
-<color=@currencyGoldColor>Unit/Ace</color>"
+<color=@currencyGoldColor>Unit/Ace</color>
 
 //NON-NATIONAL VEHICLES
 
@@ -303,21 +302,114 @@ uk_badger_2;IFV
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 
+<color=#81c3fc>Manufacturer & manufacturer name</color>
+<color=#ff8c80>Military project</color>
+<color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
+<color=#7ce68f>Alternate currently applicable name</color>
+Vehicle name
+<color=#9e9e9e>Modifications</color>
+<color=#ba77ba>Service years package</color>
+<color=@currencyGoldColor>Unit/Ace</color>
+
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+h-75n_shop;B.Kh.11
+h-75n_0;"<color=#81c3fc>Curtiss-Wright Corperation Hawk Model 75N</color>
+Ekhrụxng Bin Khạb Lị Bæb Thī 11"
+h-75n_1;B.Kh.11
+h-75n_2;B.Kh.11
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+sb2c_5_thailand_shop;B.J.3
+sb2c_5_thailand_0;"<color=#81c3fc>Curtiss-Wright Corporation Model 84G</color>
+Ekhrụxng Bin Jomtī Bæb Thī 3"
+sb2c_5_thailand_1;B.J.3
+sb2c_5_thailand_2;B.J.3
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+f-84g_thailand_shop;B.Kh.16
+f-84g_thailand_0;"<color=#81c3fc>Republic Aviation Corporation AP-23</color>
+Ekhrụxng Bin Khạb Lị Bæb Thī 16"
+f-84g_thailand_1;B.Kh.16
+f-84g_thailand_2;B.Kh.16
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+alpha_jet_a_thailand_shop;B.J.7
+alpha_jet_a_thailand_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@commonTextColor>/</color> Dornier Flugzeugwerke</color>
+Ekhrụxng Bin Jomtī Bæb Thī 7"
+alpha_jet_a_thailand_1;B.J.7
+alpha_jet_a_thailand_2;B.J.7
+
+alpha_jet_th_phase_1_shop;B.J.7 (2004)
+alpha_jet_th_phase_1_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@commonTextColor>/</color> Dornier Flugzeugwerke</color>
+Ekhrụxng Bin Jomtī Bæb Thī 7
+<color=#9e9e9e>(2004)</color>"
+alpha_jet_th_phase_1_1;B.J.7
+alpha_jet_th_phase_1_2;B.J.7
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+a_7e_thailand_shop;B.JT.1K
+a_7e_thailand_0;"<color=#81c3fc>LTV Corperation</color>
+Ekhrụxng Bin Jomtī Bæb Thī 1K"
+a_7e_thailand_1;B.JT.1K
+a_7e_thailand_2;B.JT.1
+
+av_8s_thailand_shop;B.KhL.1K (early)
+av_8s_thailand_0;"<color=#81c3fc>Hawker Siddeley Aviation</color>
+Ekhrụxng Bin Khạb Lị Bæb Thī 1K
+<color=#9e9e9e>(early)</color>"
+av_8s_thailand_1;B.KhL.1K
+av_8s_thailand_2;B.KhL.1
+
+av_8s_late_thailand_shop;B.KhL.1K (late)
+av_8s_late_thailand_0;"<color=#81c3fc>Hawker Siddeley Aviation</color>
+Ekhrụxng Bin Khạb Lị Bæb Thī 1K
+<color=#9e9e9e>(late)</color>"
+av_8s_late_thailand_1;B.KhL.1K
+av_8s_late_thailand_2;B.KhL.1
+
+f-5a_thailand_shop;B.Kh.18
+f-5a_thailand_0;"<color=#81c3fc>Northrop Corporation N-156F</color>
+Ekhrụxng Bin Khạb Lị Bæb Thī 18"
+f-5a_thailand_1;B.Kh.18
+f-5a_thailand_2;B.Kh.18
+
+f-5t_thailand_shop;B.Kh.18Kh (2003)
+f-5t_thailand_0;"<color=#81c3fc>Northrop Corporation F-5-21 <color=@commonTextColor>/</color> Elbit Systems F-5T Tigris</color>
+Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh
+<color=#9e9e9e>(2003)</color>"
+f-5t_thailand_1;B.Kh.18Kh
+f-5t_thailand_2;B.Kh.18
+
+f-5e_fcu_thailand_shop;B.Kh.18Kh (1988)
+f-5e_fcu_thailand_0;"<color=#81c3fc>Northrop Corporation F-5-21</color>
+Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh
+<color=#9e9e9e>(1988)</color>"
+f-5e_fcu_thailand_1;B.Kh.18Kh
+f-5e_fcu_thailand_2;B.Kh.18
+
+f-5th_thailand_shop;B.Kh.18Kh (2014)
+f-5th_thailand_0;"<color=#81c3fc>Northrop Corporation F-5-21 <color=@commonTextColor>/</color> Elbit Systems F-5TH Super Tigris</color>
+Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh
+<color=#9e9e9e>(2014)</color>"
+f-5th_thailand_1;B.Kh.18Kh
+f-5th_thailand_2;B.Kh.18
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16a_block_15_ocu_thailand_shop;B.Kh.19
+f_16a_block_15_ocu_thailand_0;"<color=#81c3fc>General Dynamics Corporation</color>
+Ekhrụxng Bin Khạb Lị Bæb Thī 19"
+f_16a_block_15_ocu_thailand_1;B.Kh.19
+f_16a_block_15_ocu_thailand_2;B.Kh.19
+
+saab_jas39c_thailand_shop;B.Kh.20
+saab_jas39c_thailand_0;"<color=#81c3fc>Saab 39 Gripen C</color>
+Ekhrụxng Bin Khạb Lị Bæb Thī 20"
+saab_jas39c_thailand_1;B.Kh.20
+saab_jas39c_thailand_2;B.Kh.20
 
 //JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
@@ -336,10 +428,34 @@ uk_badger_2;IFV
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+jp_btr_3e1_shop;Bīthīxār 3 Xī 1
+jp_btr_3e1_0;"<color=#81c3fc>Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O.
+Morozova</color>
+Roth Kerāa Lo Yāng Bīthīxār 3 Xī 1"
+jp_btr_3e1_1;Bīthīxār 3 Xī 1
+jp_btr_3e1_2;IFV
+
+jp_m60a3_tts_shop;Th.Hlạk Xěm 60 Xe 3
+jp_m60a3_tts_0;"<color=#81c3fc>Chrysler Defense Engineering</color>
+Roth Thạng Hlạk Xěm 60 Xe 3"
+jp_m60a3_tts_1;Th.Hlạk Xěm 60 Xe 3
+jp_m60a3_tts_2;MBT
+
+jp_stingray_shop;Th.Bao 32
+jp_stingray_0;"<color=#81c3fc>Cadillac Gage Stingray</color>
+Roth Thạng Bao 32"
+jp_stingray_1;Th.Bao 32
+jp_stingray_2;Light Tank
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+jp_oplot_t_shop;Th.Hlạk 57
+jp_oplot_t_0;"<color=#81c3fc>Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O.
+Morozova</color>
+Roth Thạng Hlạk 57"
+jp_oplot_t_1;Th.Hlạk 57
+jp_oplot_t_2;MBT
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 
@@ -584,7 +700,7 @@ mosquito_fb_mk26_china_1;FB-26
 mosquito_fb_mk26_china_2;FB-26
 
 p-38l_1_china_rocaf_shop;☀ P-38L-1-LO
-p-38l_1_china_rocaf_0;"<color=#81c3fc>Lockheed Corporation Model 422</color>
+p-38l_1_china_rocaf_0;"<color=#81c3fc>Lockheed Corporation Model 422-87-23</color>
 ☀ P-38L-1-LO Xíng Qūzhú Jī ""Shuāng Shēn Jī"""
 p-38l_1_china_rocaf_1;☀ P-38L
 p-38l_1_china_rocaf_2;☀ P-38

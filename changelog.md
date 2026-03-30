@@ -103,6 +103,8 @@ All dates are listed in DD-MM-YYYY format.
         - Thai package: Statcard name → **Republic Aviation Corporation AP-23 | เครื่องบินขับไล่แบบที่ ๑๖**.
     - **B.Kh.20**: Statcard name → **Saab 39 Gripen C | Ekhrụxng Bin Khạb Lị Bæb Thī 20**.
         - Thai package: Statcard name → **Saab 39 Gripen C | เครื่องบินขับไล่แบบที่ ๒๐**.
+    - **F14** (USA / Iran): Statcard name → **Grumman Aerospace Corporation G-303 | F14 Tāmkat**.
+        - Farsi package: Statcard name → **Grumman Aerospace Corporation G-303 | تامکت F14**.
 
 ### Weaponry:
 

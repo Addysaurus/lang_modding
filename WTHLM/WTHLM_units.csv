@@ -3516,8 +3516,8 @@ us_merkava_mk_1_shop;▃ Merkavah 1
 us_merkava_mk_1_0;▃ Merkaz Šikum ve-'Aḥzakah 7000 | Ṭanḳ Merkavah Siman 1
 us_merkava_mk_1_1;▃ Merkavah 1
 us_merkava_mk_1_2;MBT
-us_merkava_mk_2b_late_shop;▃ Merkavah 2B (early)
-us_merkava_mk_2b_late_0;▃ Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank Merkavah Siman 2 Bet (early)
+us_merkava_mk_2b_late_shop;▃ Merkavah 2B (late)
+us_merkava_mk_2b_late_0;▃ Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank Merkavah Siman 2 Bet (late)
 us_merkava_mk_2b_late_1;▃ Merkavah 2B
 us_merkava_mk_2b_late_2;MBT
 us_merkava_mk_3d_shop;▃ Merkavah 3D
@@ -8359,7 +8359,7 @@ it_c13_tua_0;OTO Melara C 13 con sistema d'arma TUA
 it_c13_tua_1;C 13 (TUA)
 it_c13_tua_2;ATMC
 it_m47_105_shop; M47 RKM
-it_m47_105_0; Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM
+it_m47_105_0; Detroit Arsenal / ha-Ta'asiah ha-Ṣva'it + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM
 it_m47_105_1; M47 RKM
 it_m47_105_2;Medium Tank
 it_leopard_1a2_shop;⛨ Leopard 1 A2
@@ -9241,11 +9241,11 @@ il_magach_6b_gal_batash_0;Chrysler Defense / ha-Ta'asiah ha-Ṣva'it Mif'al Slav
 il_magach_6b_gal_batash_1;Magaḥ 6B
 il_magach_6b_gal_batash_2;MBT
 il_magach_7c_shop;Magaḥ 7G
-il_magach_7c_0;Magaḥ 7 Gimel
+il_magach_7c_0;Chrysler Defense / Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank Magaḥ 7 Gimel
 il_magach_7c_1;Magaḥ 7G
 il_magach_7c_2;MBT
 il_magach_6b_gal_shop;Magaḥ 6B Gal
-il_magach_6b_gal_0;Magaḥ 6 Bet Gal
+il_magach_6b_gal_0;Chrysler Defense / Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank M60 A1 E2 | Ṭank Magaḥ 6 Bet Gal
 il_magach_6b_gal_1;Magaḥ 6B
 il_magach_6b_gal_2;MBT
 il_amx_13_75_shop; 'Ameks 13
@@ -9269,7 +9269,7 @@ il_zsu_57_2_0; Omskij zavod № 174 im. Vorošilova | Tomat Nem Zi.'Es.Yu.-57
 il_zsu_57_2_1; Zi.'Es.Yu.-57-2
 il_zsu_57_2_2;SPAAG
 il_m163_vulcan_shop;Ḥoveṭ
-il_m163_vulcan_0;General Electric Company | Tomat Nem Ḥoveṭ
+il_m163_vulcan_0;General Electric Company | Tomat Nem M163 | Tomat Nem Ḥoveṭ
 il_m163_vulcan_1;Ḥoveṭ
 il_m163_vulcan_2;SPAAG
 il_m109_shop; M109
@@ -9298,10 +9298,6 @@ il_tiran_4_sh_shop;Ṭiran 4 Š (early)
 il_tiran_4_sh_0;Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | Ṭank Ṭiran 4 Šrir (early)
 il_tiran_4_sh_1;Ṭiran 4 Š
 il_tiran_4_sh_2;MBT
-il_tiran_6_shop;Ṭiran 6
-il_tiran_6_0;Ural'skim vagonostroityel'nym zavodom im. F. È. Dzyeržinskogo / Ḥil ha-Ḥimuš | Ṭank Ṭiran 6
-il_tiran_6_1;Ṭiran 6
-il_tiran_6_2;MBT
 il_centurion_shot_kal_alef_shop;Šoṭ Kal A
 il_centurion_shot_kal_alef_0;Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Alef
 il_centurion_shot_kal_alef_1;Šoṭ Kal A
@@ -9328,6 +9324,10 @@ il_m113a1_tow_1;Bardelas (Jiraf)
 il_m113a1_tow_2;SPG
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+il_tiran_6_shop;Ṭiran 6
+il_tiran_6_0;Ural'skim vagonostroityel'nym zavodom im. F. È. Dzyeržinskogo / Ḥil ha-Ḥimuš | Ṭank Ṭiran 6
+il_tiran_6_1;Ṭiran 6
+il_tiran_6_2;MBT
 il_merkava_mk_1_shop;Merkavah 1
 il_merkava_mk_1_0;Merkaz Šikum ve-'Aḥzakah 7000 | Ṭanḳ Merkavah Siman 1
 il_merkava_mk_1_1;Merkavah 1
@@ -9369,7 +9369,7 @@ il_merkava_mk_4m_0;Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank Merkavah Siman 4 Me
 il_merkava_mk_4m_1;Merkavah 4M
 il_merkava_mk_4m_2;MBT
 il_machbet_shop;Maḥbeṭ
-il_machbet_0;General Electric Company / ha-Ta'asiah ha-'Avirit le-Yisra'el | Tomat Nem Maḥbeṭ
+il_machbet_0;General Electric Company / ha-Ta'asiah ha-'Avirit le-Yisra'el | Tomat Nem M163 | Tomat Nem Maḥbeṭ
 il_machbet_1;Maḥbeṭ
 il_machbet_2;SPAA
 
@@ -9397,7 +9397,7 @@ il_eitan_2;IFV
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 il_spyder_aio_shop;SPYDER MFU AiO SR
-il_spyder_aio_0;Rafa'el Me'rkot le-Ḥimah Mitkadmot | SPYDER Missile Firing Unit All-in-One Short Range
+il_spyder_aio_0;Rafa'el Me'rkot le-Ḥimah Mitkadmot SPYDER Missile Firing Unit All-in-One Short Range
 il_spyder_aio_1;SPYDER MFU AiO SR
 il_spyder_aio_2;SPAAM
 

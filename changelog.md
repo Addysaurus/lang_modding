@@ -121,6 +121,18 @@ All dates are listed in DD-MM-YYYY format.
     - **AH-1Q** (Israel): Statcard name → **Bell Helicopter Company Model 209 | AH-1Q Ṣefa' Bet** (fr this time, I forgot to actually do it last update).
     - **AH-64D** (Israel):
         - Hebrew package: Statcard name → **Boeing Rotorcraft Systems | שרף AH-64D** (manufacturer corrected).
+    - **Magaḥ 7G**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank Magaḥ 7 Gimel** (fr this time, I forgot to actually do it last update).
+    - **Magaḥ 6B Gal**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank M60 A1 E2 | Ṭank Magaḥ 6 Bet Gal** (fr this time, I forgot to actually do it last update).
+    - **Ḥoveṭ**: Statcard name → **General Electric Company | Tomat Nem M163 | Tomat Nem Ḥoveṭ**.
+        - Hebrew package: Statcard name → **General Electric Company | M163 תומ״ת נ״מ חובט | תומ״ת נ״מ**.
+    - **Maḥbeṭ**: Statcard name → **General Electric Company / ha-Ta'asiah ha-'Avirit le-Yisra'el | Tomat Nem M163 | Tomat Nem Maḥbeṭ**.
+        - Hebrew package: Statcard name → **התעשייה האווירית לישראל / General Electric Company | M163 תומ״ת נ״מ מחבט | תומ״ת נ״מ**.
+    - **M47 RKM** (Italy / Israel): Statcard name → **Detroit Arsenal / ha-Ta'asiah ha-Ṣva'it + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM**.
+        - Hebrew package: Statcard name → **M47 RKM התעשייה הצבאית + אורדן תעשיות מתכת ויציקות פלדה / Detroit Arsenal**.
+    - **Merkavah 2B (early)** (USA / Israel) → **Merkavah 2B (late)**. Statcard name → **Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank Merkavah Siman 2 Bet (late)** (it was supposed to be late the whole time but accidentally was set as early when I was copying from the Israeli tree **Merkavah 2B (early)**.).
+    - Corrected the ordering of the manufacturers for the **Ṭiran 4** and **Ṭiran 4 Š (early)** in the Hebrew and Hebrew + Russian packages.
+    - **SPYDER MFU AiO SR**: Statcard name → **Rafa'el Me'rkot le-Ḥimah Mitkadmot SPYDER Missile Firing Unit All-in-One Short Range**.
+        - Hebrew package: Statcard name → **SPYDER Missile Firing Unit All-in-One Short Range רפאל מערכות לחימה מתקדמות**.
 
 ### Weaponry:
 

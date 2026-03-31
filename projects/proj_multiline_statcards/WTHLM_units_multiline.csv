@@ -4,7 +4,7 @@
 <color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
 <color=#7ce68f>Alternate currently applicable name</color>
 Vehicle name
-<color=#9e9e9e>Modifications</color>
+<color=#adadad>Modifications</color>
 <color=#ba77ba>Service years package</color>
 <color=@currencyGoldColor>Unit/Ace</color>
 
@@ -50,6 +50,11 @@ f_14a_iriaf_2;☫ F14
 //USA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
 //USA HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+ah_64a_peten_shop;▃ AH-64A
+ah_64a_peten_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
+▃ AH-64A Peten"
+ah_64a_peten_1;▃ AH-64A
+ah_64a_peten_2;▃ AH-64
 
 //USA HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 
@@ -59,7 +64,7 @@ f_14a_iriaf_2;☫ F14
 us_lvt_4_zis_2_shop;▃␗ LVT (ZiS-2)
 us_lvt_4_zis_2_0;"<color=#81c3fc>Food Machinery Corporation</color>
 ▃␗ LVT Shuilù Tankè
-<color=#9e9e9e>(ZiS-2 obr. 1941 g.)</color>"
+<color=#adadad>(ZiS-2 obr. 1941 g.)</color>"
 us_lvt_4_zis_2_1;▃␗ LVT
 us_lvt_4_zis_2_2;SPG
 
@@ -74,8 +79,33 @@ us_m18_hellcat_2;Light Tank
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+us_magach_3_shop;▃ Magaḥ 3 (Balṭan)
+us_magach_3_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+<color=#7ce68f>Ṭank M48 A3</color>
+▃ Ṭank Magaḥ 3
+<color=#adadad>(Balṭan)</color>"
+us_magach_3_1;▃ Magaḥ 3
+us_magach_3_2;MBT
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+us_merkava_mk_1_shop;▃ Merkavah 1
+us_merkava_mk_1_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+▃ Ṭanḳ Merkavah Siman 1"
+us_merkava_mk_1_1;▃ Merkavah 1
+us_merkava_mk_1_2;MBT
+
+us_merkava_mk_2b_late_shop;▃ Merkavah 2B (late)
+us_merkava_mk_2b_late_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+▃ Ṭank Merkavah Siman 2 Bet
+<color=#adadad>(late)</color>"
+us_merkava_mk_2b_late_1;▃ Merkavah 2B
+us_merkava_mk_2b_late_2;MBT
+
+us_merkava_mk_3d_shop;▃ Merkavah 3D
+us_merkava_mk_3d_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+▃ Ṭank Merkavah Siman 3 Dalet Baz"
+us_merkava_mk_3d_1;▃ Merkavah 3D
+us_merkava_mk_3d_2;MBT
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 
@@ -138,6 +168,18 @@ mig_23bn_2;◊ MiG-23
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+germ_m55_shop;◄ PzH M 55
+germ_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
+◄ Panzerhaubitze M 55"
+germ_m55_1;◄ PzH M 55
+germ_m55_2;SPH
+
+germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
+germ_kv_1B_finland_0;"<color=#81c3fc>Kirovskij zavod</color>
+<color=#5cae63>Ps. 272-1</color>
+▀ 44 tonnin panssarivaunu KW 1 B ""Klimi"""
+germ_kv_1B_finland_1;▀ 44 psv KW 1 B
+germ_kv_1B_finland_2;▀ Heavy Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
@@ -281,6 +323,12 @@ Badger Section Variant"
 uk_badger_1;Badger SV
 uk_badger_2;IFV
 
+uk_centurion_shot_kal_d_shop;▄ Šoṭ Kal D
+uk_centurion_shot_kal_d_0;"<color=#81c3fc>Royal Ordnance Factory Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
+▄ Ṭank Šoṭ Kal Dalet"
+uk_centurion_shot_kal_d_1;▄ Šoṭ Kal D
+uk_centurion_shot_kal_d_2;MBT
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
@@ -314,11 +362,242 @@ uk_badger_2;IFV
 <color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
 <color=#7ce68f>Alternate currently applicable name</color>
 Vehicle name
-<color=#9e9e9e>Modifications</color>
+<color=#adadad>Modifications</color>
 <color=#ba77ba>Service years package</color>
 <color=@currencyGoldColor>Unit/Ace</color>
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+f1m2_shop;F1M2
+f1m2_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>0 Shiki Kansokuki</color>
+F1M2"
+f1m2_1;F1M2
+f1m2_2;F1M
+
+a5m4_shop;A5M4
+a5m4_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>96 Shiki 4 Gō Kanjō Sentōki 4 Gata</color>
+A5M4"
+a5m4_1;A5M4
+a5m4_2;A5M
+
+a5m4_hagiri_shop;Hagiri's A5M4
+a5m4_hagiri_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>96 Shiki 4 Gō Kanjō Sentōki 4 Gata</color>
+<color=@currencyGoldColor>Matsuo Hagiri's A5M4</color>"
+a5m4_hagiri_1;A5M4
+a5m4_hagiri_2;A5M
+
+ki_10_1_shop;Ki 10-I
+ki_10_1_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>95 Shiki Sentōki 1 Gata</color>
+Ki 10-I"
+ki_10_1_1;Ki 10-I
+ki_10_1_2;Ki 10
+
+ki_10_1_commander_shop;Ki 10-I (1 Sentai)
+ki_10_1_commander_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>95 Shiki Sentōki 1 Gata</color>
+Ki 10-I
+<color=@currencyGoldColor>Hikō Dai 1 Sentai</color>"
+ki_10_1_commander_1;Ki 10-I
+ki_10_1_commander_2;Ki 10
+
+ki_10_2_shop;Ki 10-II
+ki_10_2_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>95 Shiki Sentōki 2 Gata</color>
+Ki 10-II"
+ki_10_2_1;Ki 10-II
+ki_10_2_2;Ki 10
+
+ki_10_2_commander_shop;Ki 10-II (77 Sentai)
+ki_10_2_commander_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>95 Shiki Sentōki 2 Gata</color>
+Ki 10-II
+<color=@currencyGoldColor>Hikō Dai 77 Sentai</color>"
+ki_10_2_commander_1;Ki 10-II
+ki_10_2_commander_2;Ki 10
+
+ki-27_otsu_shop;Ki 27 Otsu
+ki-27_otsu_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>97 Shiki Sentōki Otsu</color>
+Ki 27 Otsu"
+ki-27_otsu_1;Ki 27 Otsu
+ki-27_otsu_2;Ki 27
+
+ki-27_otsu_ep_shop;Ki 27 Otsu (4 Sentai)
+ki-27_otsu_ep_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>97 Shiki Sentōki Otsu</color>
+Ki 27 Otsu
+<color=@currencyGoldColor>Hikō Dai 4 Sentai</color>"
+ki-27_otsu_ep_1;Ki 27 Otsu
+ki-27_otsu_ep_2;Ki 27
+
+ki_43_1_shop;Ki 43-I Hei
+ki_43_1_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>1 Shiki Sentōki 1 Gata Hei</color>
+Ki 43-I Hei ""Hayabusa"""
+ki_43_1_1;Ki 43-I
+ki_43_1_2;Ki 43
+
+ki_43_2_shop;Ki 43-II (late)
+ki_43_2_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>1 Shiki Sentōki 2 Gata</color>
+Ki 43-II ""Hayabusa""
+<color=#adadad>(late)</color>"
+ki_43_2_1;Ki 43-II
+ki_43_2_2;Ki 43
+
+ki_43_2_late_shop;▃ Ki 43-II (early)
+ki_43_2_late_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>1 Shiki Sentōki 2 Gata</color>
+▃ Ki 43-II ""Hayabusa""
+<color=#adadad>(early)</color>"
+ki_43_2_late_1;▃ Ki 43-II
+ki_43_2_late_2;▃ Ki 43
+
+ki_43_3_otsu_shop;Ki 43-III Otsu
+ki_43_3_otsu_0;"<color=#81c3fc>Nakajima Hikōki <color=@commonTextColor>/</color> Tachikawa Hikōki</color>
+<color=#7ce68f>1 Shiki Sentōki 3 Gata Otsu</color>
+Ki 43-III Otsu ""Hayabusa"""
+ki_43_3_otsu_1;Ki 43-III
+ki_43_3_otsu_2;Ki 43
+
+ki-45_tei_shop;Ki 45 Kai Hei (Tei)
+ki-45_tei_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>2 Shiki Fukuza Sentōki Hei</color>
+Ki 45 Kai Hei ""Toryu""
+<color=#adadad>(Tei Sōbi)</color>"
+ki-45_tei_1;Ki 45 Kai
+ki-45_tei_2;Ki 45
+
+ki-45_otsu_shop;Ki 45 Kai Otsu
+ki-45_otsu_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>2 Shiki Fukuza Sentōki Otsu</color>
+Ki 45 Kai Otsu ""Toryu"""
+ki-45_otsu_1;Ki 45 Kai
+ki-45_otsu_2;Ki 45
+
+ki-45_ko_shop;Ki 45 Kai Kō
+ki-45_ko_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>2 Shiki Fukuza Sentōki Kō</color>
+Ki 45 Kai Kō ""Toryu"""
+ki-45_ko_1;Ki 45 Kai
+ki-45_ko_2;Ki 45
+
+ki-45_ko_tei_shop;Ki 45 Kai Kō (Tei)
+ki-45_ko_tei_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>2 Shiki Fukuza Sentōki Kō</color>
+Ki 45 Kai Kō ""Toryu""
+<color=#adadad>(Tei Sōbi)</color>"
+ki-45_ko_tei_1;Ki 45 Kai
+ki-45_ko_tei_2;Ki 45
+
+ki-45_hei_shop;Ki 45 Kai Hei
+ki-45_hei_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>2 Shiki Fukuza Sentōki Hei</color>
+Ki 45 Kai Hei ""Toryu"""
+ki-45_hei_1;Ki 45 Kai
+ki-45_hei_2;Ki 45
+
+ki-45_hei_tei_shop;Ki 45 Kai Hei (Tei)
+ki-45_hei_tei_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>2 Shiki Fukuza Sentōki Hei</color>
+Ki 45 Kai Hei ""Toryu""
+<color=#adadad>(Tei Sōbi)</color>"
+ki-45_hei_tei_1;Ki 45 Kai
+ki-45_hei_tei_2;Ki 45
+
+ki_109_shop;Ki 109
+ki_109_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+Ki 109"
+ki_109_1;Ki 109
+ki_109_2;Ki 109
+
+b5n2_shop;B5N2
+b5n2_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>97 Shiki Kanjō Kōgekiki 12 Gata</color>
+B5N2"
+b5n2_1;B5N2
+b5n2_2;B5N
+
+d3a1_shop;D3A1
+d3a1_0;"<color=#81c3fc>Aichi Kōkūki</color>
+<color=#7ce68f>99 Shiki Kanjō Bakugekiki 11 Gata</color>
+D3A1"
+d3a1_1;D3A1
+d3a1_2;D3A
+
+b6n1_shop;B6N1
+b6n1_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>Tenzan 11 Gata</color>
+B6N1"
+b6n1_1;B6N1
+b6n1_2;B6N
+
+b6n2_shop;B6N2
+b6n2_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>Tenzan 12 Gata</color>
+B6N2"
+b6n2_1;B6N2
+b6n2_2;B6N
+
+b6n2a_shop;B6N2 Kō
+b6n2a_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>Tenzan 12 Gata Kō</color>
+B6N2 Kō"
+b6n2a_1;B6N2
+b6n2a_2;B6N
+
+ki_32_shop;Ki 32
+ki_32_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+98 Shiki Kei Bakugekiki
+Ki 32"
+ki_32_1;Ki 32
+ki_32_2;Ki 32
+
+ki_21_1ko_shop;Ki 21-I Kō
+ki_21_1ko_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>97 Shiki Jū Bakugekiki 1 Gata Kō</color>
+Ki 21-I Kō"
+ki_21_1ko_1;Ki 21-I
+ki_21_1ko_2;Ki 21
+
+ki_21_1hei_shop;Ki 21-I Hei
+ki_21_1hei_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>97 Shiki Jū Bakugekiki 1 Gata Hei</color>
+Ki 21-I Hei"
+ki_21_1hei_1;Ki 21-I
+ki_21_1hei_2;Ki 21
+
+h6k4_shop;H6K4
+h6k4_0;"<color=#81c3fc>Kawanishi Kōkūki</color>
+<color=#7ce68f>97 Shiki Hikōtei 22 Gata</color>
+H6K4"
+h6k4_1;H6K4
+h6k4_2;H6K
+
+e7k2_shop;E7K2
+e7k2_0;"<color=#81c3fc>Kawanishi Kōkūki</color>
+<color=#7ce68f>94 Shiki 2 Gō Suijō Teisatsuki</color>
+E7K2"
+e7k2_1;E7K2
+e7k2_2;E7K
+
+e8n2_shop;E8N2
+e8n2_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>95 Shiki 2 Gō Suijō Teisatsuki</color>
+E8N2"
+e8n2_1;E8N2
+e8n2_2;E8N
+
+aichi_e13a_shop;E13A1
+aichi_e13a_0;"<color=#81c3fc>Aichi Kōkūki</color>
+<color=#7ce68f>95 Shiki Suijō Teisatsuki 11 Gata</color>
+E13A1"
+aichi_e13a_1;E13A1
+aichi_e13a_2;E13A
+
 h-75n_shop;B.Kh.11
 h-75n_0;"<color=#81c3fc>Curtiss-Wright Corperation Hawk Model 75N</color>
 Ekhrụxng Bin Khạb Lị Bæb Thī 11"
@@ -326,24 +605,640 @@ h-75n_1;B.Kh.11
 h-75n_2;B.Kh.11
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+a6m2_n_zero_shop;A6M2-N
+a6m2_n_zero_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>2 Shiki Suijō Sentōki</color>
+A6M2-N"
+a6m2_n_zero_1;A6M2-N
+a6m2_n_zero_2;A6M
+
+a6m2_mod11_shop;A6M2 (11 Gata)
+a6m2_mod11_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>0 Shiki Kanjō Sentōki 11 Gata</color>
+A6M2 ""Rei Sen"""
+a6m2_mod11_1;A6M2
+a6m2_mod11_2;A6M
+
+a6m2_zero_shop;A6M2 (21 Gata)
+a6m2_zero_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>0 Shiki Kanjō Sentōki 21 Gata</color>
+A6M2 ""Rei Sen"""
+a6m2_zero_1;A6M2
+a6m2_zero_2;A6M
+
+a6m2_zero_usa_shop;▃ A6M2 (21 Gata)
+a6m2_zero_usa_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>0 Shiki Kanjō Sentōki 21 Gata</color>
+▃ A6M2 ""Rei Sen""
+<color=@currencyGoldColor>«Akutan Zero»</color>"
+a6m2_zero_usa_1;▃ A6M2
+a6m2_zero_usa_2;▃ A6M
+
+a6m3_zero_shop;A6M3 (32 Gata)
+a6m3_zero_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>0 Shiki Kanjō Sentōki 32 Gata</color>
+A6M3 ""Rei Sen"""
+a6m3_zero_1;A6M3
+a6m3_zero_2;A6M
+
+a6m3_mod22_zero_shop;A6M3 (22 Gata)
+a6m3_mod22_zero_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>0 Shiki Kanjō Sentōki 22 Gata</color>
+A6M3 ""Rei Sen"""
+a6m3_mod22_zero_1;A6M3
+a6m3_mod22_zero_2;A6M
+
+a6m3_mod22ko_zero_shop;A6M3 Kō
+a6m3_mod22ko_zero_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>0 Shiki Kanjō Sentōki 22 Gata Kō</color>
+A6M3 Kō ""Rei Sen"""
+a6m3_mod22ko_zero_1;A6M3
+a6m3_mod22ko_zero_2;A6M
+
+a6m5_zero_shop;A6M5
+a6m5_zero_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>0 Shiki Kanjō Sentōki 52 Gata</color>
+A6M5 ""Rei Sen"""
+a6m5_zero_1;A6M5
+a6m5_zero_2;A6M
+
+a6m5ko_shop;A6M5 Kō
+a6m5ko_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>0 Shiki Kanjō Sentōki 52 Gata Kō</color>
+A6M5 Kō ""Rei Sen"""
+a6m5ko_1;A6M5
+a6m5ko_2;A6M
+
+a6m5otsu_shop;A6M5 Otsu
+a6m5otsu_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>0 Shiki Kanjō Sentōki 52 Gata Otsu</color>
+A6M5 Otsu ""Rei Sen"""
+a6m5otsu_1;A6M5
+a6m5otsu_2;A6M
+
+a6m5hei_shop;A6M5 Hei
+a6m5hei_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>0 Shiki Kanjō Sentōki 52 Gata Hei</color>
+A6M5 Hei ""Rei Sen"""
+a6m5hei_1;A6M5
+a6m5hei_2;A6M
+
+a6m6c_shop;A6M6
+a6m6c_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>0 Shiki Kanjō Sentōki 53 Gata</color>
+A6M6 ""Rei Sen"""
+a6m6c_1;A6M6
+a6m6c_2;A6M
+
+n1k1_kyuofu_shop;N1K1
+n1k1_kyuofu_0;"<color=#81c3fc>Kawanishi Kōkūki</color>
+<color=#7ce68f>Kyōfū</color>
+N1K1"
+n1k1_kyuofu_1;N1K1
+n1k1_kyuofu_2;N1K
+
+n1k1_ja_shop;N1K1-J Kō
+n1k1_ja_0;"<color=#81c3fc>Kawanishi Kōkūki</color>
+<color=#7ce68f>Shiden 11 Gata Kō</color>
+N1K1-J Kō"
+n1k1_ja_1;N1K1
+n1k1_ja_2;N1K
+
+n1k2_j_shop;N1K2-J
+n1k2_j_0;"<color=#81c3fc>Kawanishi Kōkūki</color>
+<color=#7ce68f>Shiden 12 Gata</color>
+N1K2-J"
+n1k2_j_1;N1K2
+n1k2_j_2;
+
+n1k2_jko_shop;N1K2-J Kō
+n1k2_jko_0;"<color=#81c3fc>Kawanishi Kōkūki</color>
+<color=#7ce68f>Shiden 12 Gata Kō</color>
+N1K2-J Kō"
+n1k2_jko_1;N1K2
+n1k2_jko_2;N1K
+
+ki_44_1_shop;Ki 44-I
+ki_44_1_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>2 Shiki Sentōki 1 Gata</color>
+Ki 44-I ""Shōki"""
+ki_44_1_1;Ki 44-I
+ki_44_1_2;Ki 44
+
+ki_44_1_ep_shop;Ki 44-I (Dai 47 Chūtai)
+ki_44_1_ep_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>2 Shiki Sentōki 1 Gata</color>
+Ki 44-I ""Shōki""
+<color=@currencyGoldColor>Dokuritsu Hikō Dai 47 Chūtai</color>"
+ki_44_1_ep_1;Ki 44-I
+ki_44_1_ep_2;Ki 44
+
+ki_44_2_otsu_shop;Ki 44-II Otsu
+ki_44_2_otsu_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>2 Shiki Sentōki 2 Gata Otsu</color>
+Ki 44-II Otsu ""Shōki"""
+ki_44_2_otsu_1;Ki 44-II
+ki_44_2_otsu_2;Ki 44
+
+ki_44_2_hei_shop;Ki 44-II Hei
+ki_44_2_hei_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>2 Shiki Sentōki 2 Gata Hei</color>
+Ki 44-II Hei ""Shōki"""
+ki_44_2_hei_1;Ki 44-II
+ki_44_2_hei_2;Ki 44
+
+ki_61_1a_ko_shop;Ki 61-I Kō
+ki_61_1a_ko_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>3 Shiki Sentōki 1 Gata Kō</color>
+Ki 61-I Kō ""Hien"""
+ki_61_1a_ko_1;Ki 61-I
+ki_61_1a_ko_2;Ki 61
+
+ki_61_1a_otsu_shop;Ki 61-I Otsu
+ki_61_1a_otsu_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>3 Shiki Sentōki 1 Gata Otsu</color>
+Ki 61-I Otsu ""Hien"""
+ki_61_1a_otsu_1;Ki 61-I
+ki_61_1a_otsu_2;Ki 61
+
+ki_61_1a_otsu_usa_shop;▃ Ki 61-I Otsu
+ki_61_1a_otsu_usa_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>3 Shiki Sentōki 1 Gata Otsu</color>
+▃ Ki 61-I Otsu ""Hien"""
+ki_61_1a_otsu_usa_1;▃ Ki 61-I
+ki_61_1a_otsu_usa_2;▃ Ki 61
+
+ki_61_1a_hei_shop;Ki 61-I Hei
+ki_61_1a_hei_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>3 Shiki Sentōki 1 Gata Hei</color>
+Ki 61-I Hei ""Hien"""
+ki_61_1a_hei_1;Ki 61-I
+ki_61_1a_hei_2;Ki 61
+
+ki_61_1a_hei_ep_shop;Tada's Ki 61-I Hei
+ki_61_1a_hei_ep_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>3 Shiki Sentōki 1 Gata Hei</color>
+Takeichi Tada's Ki 61-I Hei ""Hien"""
+ki_61_1a_hei_ep_1;Ki 61-I
+ki_61_1a_hei_ep_2;Ki 61
+
+ki_61_1a_tei_shop;Ki 61-I Tei
+ki_61_1a_tei_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>3 Shiki Sentōki 1 Gata Tei</color>
+Ki 61-I Tei ""Hien"""
+ki_61_1a_tei_1;Ki 61-I
+ki_61_1a_tei_2;Ki 61
+
+ki_61_2_early_shop;Ki 61-II Kai Kō
+ki_61_2_early_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>3 Shiki Sentōki 2 Gata Kai Kō</color>
+Ki 61-II Kai Kō ""Hien"""
+ki_61_2_early_1;Ki 61-II
+ki_61_2_early_2;Ki 61
+
+j1n1_mod11_early_shop;J1N1
+j1n1_mod11_early_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>13 Shi Sōhatsu Rikujō Sentōki</color>
+J1N1"
+j1n1_mod11_early_1;J1N1
+j1n1_mod11_early_2;J1N
+
+ki_102_otsu_shop;Ki 102 Otsu
+ki_102_otsu_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>5 Shiki Sōhatsu Shūgekiki</color>
+Ki 102 Otsu"
+ki_102_otsu_1;Ki 102 Otsu
+ki_102_otsu_2;Ki 102
+
+d4y1_shop;D4Y1
+d4y1_0;"<color=#81c3fc>Aichi Kōkūki</color>
+<color=#7ce68f>Suisei 11 Gata</color>
+D4Y1"
+d4y1_1;D4Y1
+d4y1_2;D4Y
+
+d4y2_shop;D4Y2
+d4y2_0;"<color=#81c3fc>Aichi Kōkūki</color>
+<color=#7ce68f>Suisei 12 Gata</color>
+D4Y2"
+d4y2_1;D4Y2
+d4y2_2;D4Y
+
+d4y3_shop;D4Y3 Kō
+d4y3_0;"<color=#81c3fc>Aichi Kōkūki</color>
+<color=#7ce68f>Suisei 33 Gata Kō</color>
+D4Y3 Kō"
+d4y3_1;D4Y3
+d4y3_2;D4Y
+
+g4m1_shop;G4M1
+g4m1_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>1 Shiki Rikujō Kōgekiki 11 Gata</color>
+G4M1"
+g4m1_1;G4M1
+g4m1_2;G4M
+
+h8k2_shop;H8K2
+h8k2_0;"<color=#81c3fc>Kawanishi Kōkūki</color>
+<color=#7ce68f>2 Shiki Hikōtei 12 Gata</color>
+H8K2"
+h8k2_1;H8K2
+h8k2_2;H8K
+
+h8k3_shop;H8K3
+h8k3_0;"<color=#81c3fc>Kawanishi Kōkūki</color>
+<color=#7ce68f>2 Shiki Hikōtei 22 Gata</color>
+H8K3"
+h8k3_1;H8K3
+h8k3_2;H8K
+
+ki-49_1_shop;Ki 49-I
+ki-49_1_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>100 Shiki Jū Bakugekiki 1 Gata</color>
+Ki 49-I ""Donryu"""
+ki-49_1_1;Ki 49-I
+ki-49_1_2;Ki 49
+
+ki-49_2a_shop;Ki 49-II Kō
+ki-49_2a_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>100 Shiki Jū Bakugekiki 2 Gata Kō</color>
+Ki 49-II Kō ""Donryu"""
+ki-49_2a_1;Ki 49-II
+ki-49_2a_2;Ki 49
+
+ki-49_2b_shop;Ki 49-II Otsu
+ki-49_2b_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>100 Shiki Jū Bakugekiki 2 Gata Otsu</color>
+Ki 49-II Otsu ""Donryu"""
+ki-49_2b_1;Ki 49-II
+ki-49_2b_2;Ki 49
+
+ki-49_2b_late_shop;Ki 49-II Otsu (late)
+ki-49_2b_late_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>100 Shiki Jū Bakugekiki 2 Gata Otsu</color>
+Ki 49-II Otsu ""Donryu""
+<color=#adadad>(late)</color>"
+ki-49_2b_late_1;Ki 49-II
+ki-49_2b_late_2;Ki 49
+
+a7he1_shop;A7He1
+a7he1_0;"<color=#81c3fc>Heinkel Flugzeugwerke</color>
+<color=#7ce68f>Hainkeru 112 Gata Rikujō Sentōki</color>
+A7He1"
+a7he1_1;A7He1
+a7he1_2;A7He
+
+me_210_v22_japan_shop;▅ Me 210 V22 (D.B. 601 F)
+me_210_v22_japan_0;"<color=#81c3fc>Messerschmitt <color=@commonTextColor>/</color> Kawasaki Kōkūki Kōgyō Akashi Kōjō</color>
+▅ Me 210 V22
+<color=#adadad>(D.B. 601 F)</color>"
+me_210_v22_japan_1;▅ Me 210 V22
+me_210_v22_japan_2;▅ Me 210
+
+ki_48_2_otsu_shop;Ki 48-II Otsu
+ki_48_2_otsu_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>99 Shiki Sōhatsu Kei Bakugekiki 2 Gata Otsu</color>
+Ki 48-II Otsu"
+ki_48_2_otsu_1;Ki 48-II
+ki_48_2_otsu_2;Ki 48
+
+ki_48_2_otsu_event_shop;Ki 48-II Otsu
+ki_48_2_otsu_event_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>99 Shiki Sōhatsu Kei Bakugekiki 2 Gata Otsu</color>
+Ki 48-II Otsu"
+ki_48_2_otsu_event_1;Ki 48-II
+ki_48_2_otsu_event_2;Ki 48
+
+bf-109e-3_japan_shop;▅ Bf 109 E-7/N
+bf-109e-3_japan_0;"<color=#81c3fc>Messerschmitt</color>
+▅ Bf 109 E-7/N"
+bf-109e-3_japan_1;▅ Bf 109 E
+bf-109e-3_japan_2;▅ Bf 109
+
+f4u-1a_japan_shop;▅ F4U-1A
+f4u-1a_japan_0;"<color=#81c3fc>Vought-Sikorsky Aircraft V-166B</color>
+▅ F4U-1A ""Shikorusukī"""
+f4u-1a_japan_1;▅ F4U-1
+f4u-1a_japan_2;▅ F4U
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+ki_100_early_shop;Ki 100-I (early)
+ki_100_early_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+Ki 100-I
+<color=#adadad>(early)</color>"
+ki_100_early_1;Ki 100-I
+ki_100_early_2;Ki 100
+
+ki_100_2_shop;Ki 100-II
+ki_100_2_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+Ki 100-II"
+ki_100_2_1;Ki 100-II
+ki_100_2_2;Ki 100
+
+ki_108_shop;Ki 108 Kai
+ki_108_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+Ki 108 Kai"
+ki_108_1;Ki 108 Kai
+ki_108_2;Ki 108
+
+j2m2_shop;J2M2
+j2m2_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>Raiden 11 Gata</color>
+J2M2"
+j2m2_1;J2M2
+j2m2_2;J2M
+
+j2m3_shop;J2M3
+j2m3_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>Raiden 21 Gata</color>
+J2M3"
+j2m3_1;J2M3
+j2m3_2;J2M
+
+j2m4_kai_shop;J2M4 (21 Kai Kō Shō)
+j2m4_kai_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō <color=@commonTextColor>/</color> Dai 21 Kaigun Kōkū Shō</color>
+<color=#7ce68f>Raiden 32 Gata</color>
+J2M4"
+j2m4_kai_1;J2M4
+j2m4_kai_2;J2M
+
+j2m5_shop;J2M5
+j2m5_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>Raiden 33 Gata</color>
+J2M5"
+j2m5_1;J2M5
+j2m5_2;J2M
+
+j2m5_30mm_shop;J2M5 (5 Shiki)
+j2m5_30mm_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>Raiden 33 Gata</color>
+J2M5
+<color=#adadad>(5 Shiki 30 Mirimētoru Kotei Kijū)</color>"
+j2m5_30mm_1;J2M5
+j2m5_30mm_2;J2M
+
+j5n1_shop;J5N1
+j5n1_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>18 Shi Sōhatsu Rikujō Sentōki <color=@commonTextColor>|</color> Shisei Tenrai</color>
+J5N1"
+j5n1_1;J5N1
+j5n1_2;J5N
+
+p1y1_mod11_shop;P1Y1
+p1y1_mod11_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>Ginga 11 Gata</color>
+P1Y1"
+p1y1_mod11_1;P1Y1
+p1y1_mod11_2;P1Y
+
+b7a2_shop;B7A1 (NK9C)
+b7a2_0;"<color=#81c3fc>Aichi Kōkūki</color>
+<color=#7ce68f>Shisei Ryusei</color>
+B7A1
+<color=#adadad>(NK9C)</color>"
+b7a2_1;B7A1
+b7a2_2;B7A
+
+b7a2_homare_23_shop;B7A2
+b7a2_homare_23_0;"<color=#81c3fc>Aichi Kōkūki</color>
+<color=#7ce68f>Shisei Ryusei Kai</color>
+B7A2"
+b7a2_homare_23_1;B7A2
+b7a2_homare_23_2;B7A
+
+g5n1_shop;G5N1
+g5n1_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>13 Shi Rikujō Kōgekiki <color=@commonTextColor>|</color> Shisei Shinzan</color>
+G5N1"
+g5n1_1;G5N1
+g5n1_2;G5N
+
+g5n2_shop;G5N2
+g5n2_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>13 Shi Rikujō Kōgekiki +Shisei Shinzan</color>
+G5N2"
+g5n2_1;G5N2
+g5n2_2;G5N
+
+ki_67_1_ko_shop;Ki 67-I Kō
+ki_67_1_ko_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>4 Shiki Jū Bakugekiki 1 Gata Kō</color>
+Ki 67-I Kō ""Hiryū"""
+ki_67_1_ko_1;Ki 67-I
+ki_67_1_ko_2;Ki 67
+
+ki_67_1_otsu_shop;Ki 67-I Otsu
+ki_67_1_otsu_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>4 Shiki Jū Bakugekiki 1 Gata Otsu</color>
+Ki 67-I Otsu ""Hiryū"""
+ki_67_1_otsu_1;Ki 67-I
+ki_67_1_otsu_2;Ki 67
+
 sb2c_5_thailand_shop;B.J.3
 sb2c_5_thailand_0;"<color=#81c3fc>Curtiss-Wright Corporation Model 84G</color>
 Ekhrụxng Bin Jomtī Bæb Thī 3"
 sb2c_5_thailand_1;B.J.3
 sb2c_5_thailand_2;B.J.3
 
+p-51c-11-nt_japan_shop;▅ P-51C-11-NT
+p-51c-11-nt_japan_0;"<color=#81c3fc>North American Aviation NA-103</color>
+▅ P-51C-11-NT Mustang
+<color=@currencyGoldColor>«Evalina»</color>"
+p-51c-11-nt_japan_1;▅ P-51C
+p-51c-11-nt_japan_2;▅ P-51
+
+ki-96_shop;Ki 96 (3 Gō)
+ki-96_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+Ki 96
+<color=#adadad>(Shisei 3 Gō)</color>"
+ki-96_1;Ki 96
+ki-96_2;Ki 96
+
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+a7m1_shop;A7M1
+a7m1_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>17 Shi Kō Kanjō Sentōki <color=@commonTextColor>|</color> Shisei Reppū</color>
+A7M1"
+a7m1_1;A7M1
+a7m1_2;A7M
+
+a7m2_shop;A7M2
+a7m2_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>Reppū 11 Gata</color>
+A7M2"
+a7m2_1;A7M2
+a7m2_2;A7M
+
+ki_84_shop;Ki 84-I
+ki_84_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>4 Shiki Sentōki 1 Gata</color>
+Ki 84-I ""Hayate"""
+ki_84_1;Ki 84-I
+ki_84_2;Ki 84
+
+ki_84_ko_shop;Ki 84-I Kō
+ki_84_ko_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>4 Shiki Sentōki 1 Gata Kō</color>
+Ki 84-I Kō ""Hayate"""
+ki_84_ko_1;Ki 84-I
+ki_84_ko_2;Ki 84
+
+ki_84_otsu_shop;Ki 84-I Otsu
+ki_84_otsu_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>4 Shiki Sentōki 1 Gata Otsu</color>
+Ki 84-I Otsu ""Hayate"""
+ki_84_otsu_1;Ki 84-I
+ki_84_otsu_2;Ki 84
+
+ki_84_hei_shop;Ki 84-I Hei
+ki_84_hei_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>4 Shiki Sentōki 1 Gata Hei</color>
+Ki 84-I Hei ""Hayate"""
+ki_84_hei_1;Ki 84-I
+ki_84_hei_2;Ki 84
+
+j7w1_shop;J7W1
+j7w1_0;"<color=#81c3fc>Kaigun Kōkū Gijutsushō <color=@commonTextColor>+</color> Kyūshū Hikōki</color>
+<color=#7ce68f>18 Shi Otsu Rikujō Sentōki <color=@commonTextColor>|</color> Shisei Shinden</color>
+J7W1"
+j7w1_1;J7W1
+j7w1_2;J7W
+
+ki-83_shop;Ki 83
+ki-83_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+Ki 83"
+ki-83_1;Ki 83
+ki-83_2;Ki 83
+
+g8n1_shop;G8N1
+g8n1_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>18 Shi Rikujō Kōgekiki <color=@commonTextColor>|</color> Shisei Renzan</color>
+G8N1"
+g8n1_1;G8N1
+g8n1_2;G8N
+
+g8n2_shop;G8N2
+g8n2_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>18 Shi Rikujō Kōgekiki <color=@commonTextColor>|</color> Shisei Renzan Kai</color>
+G8N2"
+g8n2_1;G8N2
+g8n2_2;G8N
+
+b-17e_japan_shop;▅ B-17E (early)
+b-17e_japan_0;"<color=#81c3fc>Boeing Airplane Company Model 299O</color>
+▅ B-17E Flying Fortress
+<color=#adadad>(Sperry No. 645705-D)</color>"
+b-17e_japan_1;▅ B-17E
+b-17e_japan_2;▅ B-17
+
+ki_87_shop;Ki 87
+ki_87_0;"<color=#81c3fc>Nakajima Hikōki</color>
+Ki 87"
+ki_87_1;Ki 87
+ki_87_2;Ki 87
+
+ki_94_2_shop;Ki 94-II
+ki_94_2_0;"<color=#81c3fc>Tachikawa Hikōki</color>
+Ki 94-II"
+ki_94_2_1;Ki 94-II
+ki_94_2_2;Ki 94
+
+j6k1_shop;J6K1
+j6k1_0;"<color=#81c3fc>Kawanishi Kōkūki</color>
+<color=#7ce68f>18 Shi Kō Rikujō Sentōki <color=@commonTextColor>|</color> Shisei Jinpū</color>
+J6K1"
+j6k1_1;J6K1
+j6k1_2;J6K
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+kitsuka_shop;M7N1-J Kō
+kitsuka_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>Shisei Kikka Kai 21 Gata Kō</color>
+M7N1-J Kō"
+kitsuka_1;M7N1
+kitsuka_2;M7N
+
+j8m1_shop;Ki 200
+j8m1_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+Ki 200"
+j8m1_1;Ki 200
+j8m1_2;Ki 200
+
 f-84g_thailand_shop;B.Kh.16
 f-84g_thailand_0;"<color=#81c3fc>Republic Aviation Corporation AP-23</color>
 Ekhrụxng Bin Khạb Lị Bæb Thī 16"
 f-84g_thailand_1;B.Kh.16
 f-84g_thailand_2;B.Kh.16
 
+r2y2_v1_shop;R2Y2-G (11 Gata)
+r2y2_v1_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#7ce68f>Shisei Keiun Kai 11 Gata</color>
+R2Y2-G"
+r2y2_v1_1;R2Y2-G
+r2y2_v1_2;R2Y
+
+r2y2_v2_shop;R2Y2-G (22 Gata)
+r2y2_v2_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#7ce68f>Shisei Keiun Kai 22 Gata</color>
+R2Y2-G"
+r2y2_v2_1;R2Y2-G
+r2y2_v2_2;R2Y
+
+r2y2_kai_shop;R2Y2-G (32 Gata)
+r2y2_kai_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#7ce68f>Shisei Keiun Kai 32 Gata</color>
+R2Y2-G"
+r2y2_kai_1;R2Y2-G
+r2y2_kai_2;R2Y
+
+f-86f-30_japan_shop;▅ F-86F-30-MIT
+f-86f-30_japan_0;"<color=#81c3fc>North American Aviation <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+▅ F-86F-30-MIT ""Kyokkō"""
+f-86f-30_japan_1;▅ F-86F
+f-86f-30_japan_2;▅ F-86
+
+f-86f-40_japan_shop;▅ F-86F-40-MIT
+f-86f-40_japan_0;"<color=#81c3fc>North American Aviation <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+▅ F-86F-40-MIT ""Kyokkō"""
+f-86f-40_japan_1;▅ F-86F
+f-86f-40_japan_2;▅ F-86
+
+f-86f-40_japan_blue_impulse_shop;▅ F-86F-40-MIT (6 Hitai)
+f-86f-40_japan_blue_impulse_0;"<color=#81c3fc>North American Aviation <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+▅ F-86F-40-MIT ""Kyokkō""
+<color=@currencyGoldColor>Dai 6 Hikōtai</color>"
+f-86f-40_japan_blue_impulse_1;▅ F-86F
+f-86f-40_japan_blue_impulse_2;▅ F-86
+
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+f-104j_shop;▅ F-104J-MIT (C2)
+f-104j_0;"<color=#81c3fc>Lockheed Corporation <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+▅ F-104J-MIT ""Eikō""
+<color=#adadad>(C2 Rotto)</color>"
+f-104j_1;▅ F-104J
+f-104j_2;▅ F-104
+
+t2_shop;T-2 (1979)
+t2_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+T-2
+<color=#adadad>(1979)</color>"
+t2_1;T-2
+t2_2;T-2
+
+t2_early_shop;T-2 (1979) (Hi Kai Ji Dan)
+t2_early_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+T-2
+<color=#adadad>(1979)</color>
+<color=@currencyGoldColor>Hikō Kaihatsu Jikken Dan</color>"
+t2_early_1;T-2
+t2_early_2;T-2
+
+f1_shop;F-1
+f1_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+F-1"
+f1_1;F-1
+f1_2;F-1
+
 alpha_jet_a_thailand_shop;B.J.7
 alpha_jet_a_thailand_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@commonTextColor>/</color> Dornier Flugzeugwerke</color>
 Ekhrụxng Bin Jomtī Bæb Thī 7"
@@ -353,11 +1248,32 @@ alpha_jet_a_thailand_2;B.J.7
 alpha_jet_th_phase_1_shop;B.J.7 (2004)
 alpha_jet_th_phase_1_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@commonTextColor>/</color> Dornier Flugzeugwerke</color>
 Ekhrụxng Bin Jomtī Bæb Thī 7
-<color=#9e9e9e>(2004)</color>"
+<color=#adadad>(2004)</color>"
 alpha_jet_th_phase_1_1;B.J.7
 alpha_jet_th_phase_1_2;B.J.7
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+f-4ej_shop;▅ F-4EJ-MIT (C3)
+f-4ej_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98MB <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+▅ F-4EJ-MIT ""Fantomu""
+<color=#adadad>(C3 Rotto)</color>"
+f-4ej_1;▅ F-4EJ
+f-4ej_2;▅ F-4
+
+f-4ej_adtw_shop;▅ F-4EJ-MIT (C3) (Hi Kai Ji Dan)
+f-4ej_adtw_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98MB <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+▅ F-4EJ-MIT ""Fantomu""
+<color=#adadad>(C3 Rotto)</color>
+<color=@currencyGoldColor>Hikō Kaihatsu Jikken Dan</color>"
+f-4ej_adtw_1;▅ F-4EJ
+f-4ej_adtw_2;▅ F-4
+
+f-4ej_kai_shop;▅ F-4EJ-MIT Kai
+f-4ej_kai_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98MB <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+▅ F-4EJ-MIT Kai ""Fantomu"""
+f-4ej_kai_1;▅ F-4EJ
+f-4ej_kai_2;▅ F-4
+
 a_7e_thailand_shop;B.JT.1K
 a_7e_thailand_0;"<color=#81c3fc>LTV Corperation</color>
 Ekhrụxng Bin Jomtī Bæb Thī 1K"
@@ -367,14 +1283,14 @@ a_7e_thailand_2;B.JT.1
 av_8s_thailand_shop;B.KhL.1K (early)
 av_8s_thailand_0;"<color=#81c3fc>Hawker Siddeley Aviation</color>
 Ekhrụxng Bin Khạb Lị Bæb Thī 1K
-<color=#9e9e9e>(early)</color>"
+<color=#adadad>(early)</color>"
 av_8s_thailand_1;B.KhL.1K
 av_8s_thailand_2;B.KhL.1
 
 av_8s_late_thailand_shop;B.KhL.1K (late)
 av_8s_late_thailand_0;"<color=#81c3fc>Hawker Siddeley Aviation</color>
 Ekhrụxng Bin Khạb Lị Bæb Thī 1K
-<color=#9e9e9e>(late)</color>"
+<color=#adadad>(late)</color>"
 av_8s_late_thailand_1;B.KhL.1K
 av_8s_late_thailand_2;B.KhL.1
 
@@ -387,25 +1303,57 @@ f-5a_thailand_2;B.Kh.18
 f-5t_thailand_shop;B.Kh.18Kh (2003)
 f-5t_thailand_0;"<color=#81c3fc>Northrop Corporation F-5-21 <color=@commonTextColor>/</color> Elbit Systems F-5T Tigris</color>
 Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh
-<color=#9e9e9e>(2003)</color>"
+<color=#adadad>(2003)</color>"
 f-5t_thailand_1;B.Kh.18Kh
 f-5t_thailand_2;B.Kh.18
 
 f-5e_fcu_thailand_shop;B.Kh.18Kh (1988)
 f-5e_fcu_thailand_0;"<color=#81c3fc>Northrop Corporation F-5-21</color>
 Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh
-<color=#9e9e9e>(1988)</color>"
+<color=#adadad>(1988)</color>"
 f-5e_fcu_thailand_1;B.Kh.18Kh
 f-5e_fcu_thailand_2;B.Kh.18
 
 f-5th_thailand_shop;B.Kh.18Kh (2014)
 f-5th_thailand_0;"<color=#81c3fc>Northrop Corporation F-5-21 <color=@commonTextColor>/</color> Elbit Systems F-5TH Super Tigris</color>
 Ekhrụxng Bin Khạb Lị Bæb Thī 18Kh
-<color=#9e9e9e>(2014)</color>"
+<color=#adadad>(2014)</color>"
 f-5th_thailand_1;B.Kh.18Kh
 f-5th_thailand_2;B.Kh.18
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_15j_shop;▅ F-15J-MIT (C4)
+f_15j_0;"<color=#81c3fc>McDonnell Douglas Corporation <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+▅ F-15J-MIT ""Īguru""
+<color=#adadad>(C4 Rotto)</color>"
+f_15j_1;▅ F-15J
+f_15j_2;▅ F-15
+
+f_15j_kai_shop;▅ F-15J(M)-MIT
+f_15j_kai_0;"<color=#81c3fc>McDonnell Douglas Corporation <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+▅ F-15J(M)-MIT ""Īguru"""
+f_15j_kai_1;▅ F-15J
+f_15j_kai_2;▅ F-15
+
+f_16aj_shop;▅ F-16AJ
+f_16aj_0;<color=#81c3fc>▅ General Dynamics Corporation F-16AJ Fighting Falcon</color>
+f_16aj_1;▅ F-16AJ
+f_16aj_2;▅ F-16
+
+f_2a_shop;F-2A-MIT (C10)
+f_2a_0;"<color=#81c3fc>General Dynamics Corporation F-16 Agile Falcon <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+F-2A-MIT
+<color=#adadad>(C10 Rotto)</color>"
+f_2a_1;F-2A
+f_2a_2;F-2
+
+f_2a_adtw_shop;XF-2A-MIT (Hi Kai Ji Dan)
+f_2a_adtw_0;"<color=#81c3fc>General Dynamics Corporation F-16 Agile Falcon <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+XF-2A-MIT
+<color=@currencyGoldColor>Hikō Kaihatsu Jikken Dan</color>"
+f_2a_adtw_1;XF-2A
+f_2a_adtw_2;XF-2
+
 f_16a_block_15_ocu_thailand_shop;B.Kh.19
 f_16a_block_15_ocu_thailand_0;"<color=#81c3fc>General Dynamics Corporation</color>
 Ekhrụxng Bin Khạb Lị Bæb Thī 19"
@@ -417,6 +1365,24 @@ saab_jas39c_thailand_0;"<color=#81c3fc>Saab 39 Gripen C</color>
 Ekhrụxng Bin Khạb Lị Bæb Thī 20"
 saab_jas39c_thailand_1;B.Kh.20
 saab_jas39c_thailand_2;B.Kh.20
+
+mig_29n_shop;☉ MiG-29N
+mig_29n_0;"<color=#81c3fc>Aviaczionnyj naučno-promyšlyennyj komplyeks «MiG»</color>
+☉ MiG-29N Fulcrum"
+mig_29n_1;☉ MiG-29N
+mig_29n_2;☉ MiG-29
+
+fa_18d_late_malaysia_shop;☉ F/A-18D
+fa_18d_late_malaysia_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267</color>
+☉ F/A-18D Hornet"
+fa_18d_late_malaysia_1;☉ F/A-18D
+fa_18d_late_malaysia_2;☉ F/A-18
+
+su_30mkm_shop;☉ Su-30MKM
+su_30mkm_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+☉ Su-30MKM"
+su_30mkm_1;☉ Su-30MKM
+su_30mkm_2;☉ Su-30
 
 //JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
@@ -646,7 +1612,7 @@ p-40c_china_2;☀ Huòkè 81
 ki-45_hei_tei_china_shop;☀ 2 Shì Shuāng Zuò Zhàn Bing (Dīng)
 ki-45_hei_tei_china_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
 ☀ 2 Shì Shuāng Zuò Zhàndòujī Bing ""Tú Lóng""
-<color=#9e9e9e>(Dīng Zhuāngbèi)</color>"
+<color=#adadad>(Dīng Zhuāngbèi)</color>"
 ki-45_hei_tei_china_1;☀ 2 Shì Shuāng Zuò Zhàn Bing
 ki-45_hei_tei_china_2;☀ 2 Shì Shuāng Zuò Zhàn
 
@@ -737,9 +1703,10 @@ la-9_china_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 301</color>
 la-9_china_1;␗ Lā 9
 la-9_china_2;␗ Lā 9
 
-il-10_1946_china_shop;␗ Yīěr 10
+il-10_1946_china_shop;␗ Yīěr 10 (1947)
 il-10_1946_china_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 39</color>
-␗ Yīěr 10 Xíng Fēijī"
+␗ Yīěr 10 Xíng Fēijī
+<color=#adadad>(1947)</color>"
 il-10_1946_china_1;␗ Yīěr 10
 il-10_1946_china_2;␗ Yīěr 10
 
@@ -944,14 +1911,14 @@ jh_7a_2;K/JJH7
 jh_7a_prototype_shop;K/JJH7A (prototype)
 jh_7a_prototype_0;"<color=#81c3fc>Xī'ān Fēijī Gōngyè (Jítuán)</color>
 K/JJH7A Xíng Fēijī ""Fēi Bào""
-<color=#9e9e9e>(prototype)</color>"
+<color=#adadad>(prototype)</color>"
 jh_7a_prototype_1;K/JJH7A
 jh_7a_prototype_2;K/JJH7
 
 a_5c_shop;☪ A5C (2003)
 a_5c_0;"<color=#81c3fc>Nánchāng Fēijī Zhìzào Gōngsī</color>
 ☪ A5C Xíng Fēijī
-<color=#9e9e9e>(2003)</color>"
+<color=#adadad>(2003)</color>"
 a_5c_1;☪ A5C
 a_5c_2;☪ A5
 
@@ -989,7 +1956,7 @@ j_11_2;K/JJ11
 j_11a_shop;K/JJ11A (MLU)
 j_11a_0;"<color=#81c3fc>Kompaniâ «Sukhoj» <color=@commonTextColor>/</color> Shěnyáng Fēijī Gōngyè (Jítuán)</color>
 K/JJ11A Xíng Fēijī ""Yìng Lóng""
-<color=#9e9e9e>(Mid-Life Update)</color>"
+<color=#adadad>(Mid-Life Update)</color>"
 j_11a_1;K/JJ11A
 j_11a_2;K/JJ11
 
@@ -1084,14 +2051,14 @@ z_10me_2;Z10
 z_10a_shop;Z10 (2018)
 z_10a_0;"<color=#81c3fc>Chānghé Fēijī Gōngyè (Jítuán)</color>
 Z10 Xíng Wuzhuāng Zhíshēngjī ""Pīlìhuǒ""
-<color=#9e9e9e>(2018)</color>"
+<color=#adadad>(2018)</color>"
 z_10a_1;Z10
 z_10a_2;Z10
 
 ah_64e_china_shop;☀ AH-64E (v6)
 ah_64e_china_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
 ☀ AH-64E Zhàndòu Zhíshēngjī
-<color=#9e9e9e>(Capability Version 6)</color>"
+<color=#adadad>(Capability Version 6)</color>"
 ah_64e_china_1;☀ AH-64E
 ah_64e_china_2;☀ AH-64
 
@@ -1105,14 +2072,14 @@ cn_m8_greyhound_2;Light Tank
 cn_t_26_1940_shop;☀ Tè 26 (1937)
 cn_t_26_1940_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Opytno-konstruktorskij myekhaničyeskij otdyel</color>
 ☀ Tè 26 Qīngxíng Zhànchē
-<color=#9e9e9e>(1937)</color>"
+<color=#adadad>(1937)</color>"
 cn_t_26_1940_1;☀ Tè 26
 cn_t_26_1940_2;Light Tank
 
 cn_t_26_no531_shop;☀ Tè 26 (1937) (Dì 200 Shī)
 cn_t_26_no531_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Opytno-konstruktorskij myekhaničyeskij otdyel</color>
 ☀ Tè 26 Qīngxíng Zhànchē
-<color=#9e9e9e>(1937)</color>
+<color=#adadad>(1937)</color>
 <color=@currencyGoldColor>Dì 200 Shī</color>"
 cn_t_26_no531_1;☀ Tè 26
 cn_t_26_no531_2;Light Tank
@@ -1126,7 +2093,7 @@ cn_type_97_chi_ha_2;Medium Tank
 cn_type_97_kai_shop;☀ 97 Shì (1 Shì)
 cn_type_97_kai_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 ☀ 97 Shì Gai Zhōngxíng Zhànchē
-<color=#9e9e9e>(1 Shì 47 Háomi Zhànchē Pào)</color>"
+<color=#adadad>(1 Shì 47 Háomi Zhànchē Pào)</color>"
 cn_type_97_kai_1;☀ 97 Shì Gai
 cn_type_97_kai_2;Medium Tank
 
@@ -1196,14 +2163,14 @@ cn_m4a1_76w_sherman_2;Medium Tank
 cn_gmc_cckw_353_m45_quad_shop;Jì Mu Xī 10 Lún (M45C)
 cn_gmc_cckw_353_m45_quad_0;"<color=#81c3fc>GMC Truck and Coach</color>
 Jì Mu Xī 10 Lún Dà Kachē
-<color=#9e9e9e>(Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)</color>"
+<color=#adadad>(Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)</color>"
 cn_gmc_cckw_353_m45_quad_1;Jì Mu Xī 10 Lún (M45C)
 cn_gmc_cckw_353_m45_quad_2;SPAAG
 
 cn_lvt_4_zis_2_shop;␗ LVT (ZiS-2)
 cn_lvt_4_zis_2_0;"<color=#81c3fc>Food Machinery Corporation</color>
 ␗ LVT Shuilù Tankè
-<color=#9e9e9e>(ZiS-2 obr. 1941 g.)</color>"
+<color=#adadad>(ZiS-2 obr. 1941 g.)</color>"
 cn_lvt_4_zis_2_1;␗ LVT
 cn_lvt_4_zis_2_2;SPG
 
@@ -1217,7 +2184,7 @@ cn_m10_2;Tank Destroyer
 cn_object_211_shop;211 (4 Hào) (63 Shì)
 cn_object_211_0;"<color=#81c3fc>Xīnán Chēliàng Zhìzào Chang<color=#81c3fc>
 211 Shuilù Tankè
-<color=#9e9e9e>(Yàng Chē 4 Hào) (1963 Nián Shì 85 Háomi Tankè Pào)</color>"
+<color=#adadad>(Yàng Chē 4 Hào) (1963 Nián Shì 85 Háomi Tankè Pào)</color>"
 cn_object_211_1;211
 cn_object_211_2;Light Tank
 
@@ -1232,14 +2199,14 @@ cn_pt_76_2;Light Tank
 cn_t_34_1942_shop;␗ Tè 34 (1942)
 cn_t_34_1942_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
 ␗ Tè 34 Zhōngxíng Tankè
-<color=#9e9e9e>(1942)</color>"
+<color=#adadad>(1942)</color>"
 cn_t_34_1942_1;␗ Tè 34
 cn_t_34_1942_2;Medium Tank
 
 cn_t_34_85_d_5t_shop;␗ Tè 34 (1944)
 cn_t_34_85_d_5t_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
 ␗ Tè 34 Zhōngxíng Tankè
-<color=#9e9e9e>(1944)</color>"
+<color=#adadad>(1944)</color>"
 cn_t_34_85_d_5t_1;␗ Tè 34 (1944)
 cn_t_34_85_d_5t_2;Medium Tank
 
@@ -1247,14 +2214,14 @@ cn_type_58_shop;␗ Tè 34 (1960)
 cn_type_58_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) <color=@commonTextColor>/</color> Hā'ěrbīn Dì Yī Jīxiè
 Jítuán</color>
 ␗ Tè 34 Zhōngxíng Tankè
-<color=#9e9e9e>(1960)</color>"
+<color=#adadad>(1960)</color>"
 cn_type_58_1;␗ Tè 34 (1960)
 cn_type_58_2;Medium Tank
 
 cn_t_34_85_zis_53_no215_shop;␗ Tè 34 (1944) (Tankè Dì 2 Shī)
 cn_t_34_85_zis_53_no215_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
 ␗ Tè 34 Zhōngxíng Tankè
-<color=#9e9e9e>(1944)</color>
+<color=#adadad>(1944)</color>
 <color=@currencyGoldColor>Tankè Dì 2 Shī</color>"
 cn_t_34_85_zis_53_no215_1;␗ Tè 34 (1944)
 cn_t_34_85_zis_53_no215_2;Medium Tank
@@ -1327,7 +2294,7 @@ cn_zts_63_1980_shop;ZTS63 (1979)
 cn_zts_63_1980_0;"<color=#81c3fc>Xīnán Chēliàng Zhìzào Chang</color>
 <color=#5cae63>WZ211</color>
 ZTS1963 Shì Shuilù Tankè
-<color=#9e9e9e>(1979)</color>"
+<color=#adadad>(1979)</color>"
 cn_zts_63_1980_1;ZTS63
 cn_zts_63_1980_2;Light Tank
 
@@ -1341,21 +2308,21 @@ cn_type_62_2;Light Tank
 cn_is_2_1943_shop;␗ Sī 2 (1943)
 cn_is_2_1943_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
 ␗ Sī 2 Zhòngxíng Tankè
-<color=#9e9e9e>(1943)</color>"
+<color=#adadad>(1943)</color>"
 cn_is_2_1943_1;␗ Sī 2
 cn_is_2_1943_2;Heavy Tank
 
 cn_is_2_1944_shop;␗ Sī 2 (1944)
 cn_is_2_1944_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
 ␗ Sī 2 Zhòngxíng Tankè
-<color=#9e9e9e>(1944)</color>"
+<color=#adadad>(1944)</color>"
 cn_is_2_1944_1;␗ Sī 2
 cn_is_2_1944_2;Heavy Tank
 
 cn_is_2_1943_no402_shop;␗ Sī 2 (1943) (Tankè Dì 3 Shī)
 cn_is_2_1943_no402_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
 ␗ Sī 2 Zhòngxíng Tankè
-<color=#9e9e9e>(1943)</color>
+<color=#adadad>(1943)</color>
 <color=@currencyGoldColor>Tankè Dì 3 Shī</color>"
 cn_is_2_1943_no402_1;␗ Sī 2
 cn_is_2_1943_no402_2;Heavy Tank
@@ -1364,7 +2331,7 @@ cn_zsd63_pg87_shop;ZSD63B (PG87)
 cn_zsd63_pg87_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>WZ531</color>
 ZSD1963B Shì Lüdài Zhuāngjia Shūsòng Chē
-<color=#9e9e9e>(PG1987 Nián Shì Shuāng Guan 25 Háomi Gāoshè Jīguān Pào)</color>"
+<color=#adadad>(PG1987 Nián Shì Shuāng Guan 25 Háomi Gāoshè Jīguān Pào)</color>"
 cn_zsd63_pg87_1;ZSD63B (PG87)
 cn_zsd63_pg87_2;SPAAG
 
@@ -1396,7 +2363,7 @@ cn_type_64_2;Light Tank
 cn_wz_141_shop;141 (1 Hào)
 cn_wz_141_0;"<color=#81c3fc>Zhuāngjiabīng Mou Yánjiū Suo</color>
 141 Chāo Qīngxíng Fan Tankè Zhàn Chē
-<color=#9e9e9e>(Yàngchē 1 Hào)</color>"
+<color=#adadad>(Yàngchē 1 Hào)</color>"
 cn_wz_141_1;141
 cn_wz_141_2;Light Tank
 
@@ -1469,7 +2436,7 @@ cn_plz_05_2;SPH
 cn_m113a1_tow_shop;☀ M113A1 (M233)
 cn_m113a1_tow_0;"<color=#81c3fc>FMC Corporation</color>
 ☀ M113A1 Zhànjia Chē
-<color=#9e9e9e>(Launcher, Tubular, Guided Missile, M233)</color>"
+<color=#adadad>(Launcher, Tubular, Guided Missile, M233)</color>"
 cn_m113a1_tow_1;☀ M113A1
 cn_m113a1_tow_2;ATMC
 
@@ -1531,7 +2498,7 @@ cn_ztz_96a_race_2;MBT
 cn_ztz_96a_prot_shop;WZ122R (2 Hào)
 cn_ztz_96a_prot_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>WZ122R</color>
-<color=#9e9e9e>(Yàngchē 2 Hào)</color>"
+<color=#adadad>(Yàngchē 2 Hào)</color>"
 cn_ztz_96a_prot_1;WZ122R
 cn_ztz_96a_prot_2;MBT
 
@@ -1539,7 +2506,7 @@ cn_ztz_96b_shop;ZTZ96B (2017)
 cn_ztz_96b_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>WZ122</color>
 ZTZ1996B Shì Zhǔ Zhàn Tankè
-<color=#9e9e9e>(2017)</color>"
+<color=#adadad>(2017)</color>"
 cn_ztz_96b_1;ZTZ96B
 cn_ztz_96b_2;MBT
 
@@ -1592,7 +2559,7 @@ cn_cm_34_2;Light Tank
 cn_object_122tm_shop;1221 (302)
 cn_object_122tm_0;"<color=#81c3fc>Nèiménggu Dì Yī Jīxiè Chang</color>
 1221 Zhōngxíng Tankè
-<color=#9e9e9e>(302 Fan Tankè Daodàn)</color>"
+<color=#adadad>(302 Fan Tankè Daodàn)</color>"
 cn_object_122tm_1;1221
 cn_object_122tm_2;Medium Tank
 
@@ -1634,7 +2601,7 @@ cn_ztz_99_shop;ZTZ99 (1 Qí)
 cn_ztz_99_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>WZ123</color>
 ZTZ1999 Shì Zhu Zhàn Tankè
-<color=#9e9e9e>(1 Qí)</color>"
+<color=#adadad>(1 Qí)</color>"
 cn_ztz_99_1;ZTZ99
 cn_ztz_99_2;MBT
 
@@ -1642,7 +2609,7 @@ cn_ztz_99_w_shop;ZTZ99 (2 Qí)
 cn_ztz_99_w_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>WZ123</color>
 ZTZ1999 Shì Zhu Zhàn Tankè
-<color=#9e9e9e>(2 Qí)</color>"
+<color=#adadad>(2 Qí)</color>"
 cn_ztz_99_w_1;ZTZ99
 cn_ztz_99_w_2;MBT
 
@@ -1729,7 +2696,7 @@ cn_pgz_625_fb10_shop;CS/SA5 (2022)
 cn_pgz_625_fb10_0;"<color=#81c3fc>Zhōngguó Nánfāng Gōngyè Jítuán Gōngsī <color=@commonTextColor>+</color> Zhōngguó Bīngqì Gōngyè
 Jítuán Youxiàn Gōngsī</color>
 CS/SA5 Xíng 30 Háomi Lún Shì Zì Xíng Gāo Pào
-<color=#9e9e9e>(2022)</color>"
+<color=#adadad>(2022)</color>"
 cn_pgz_625_fb10_1;CS/SA5
 cn_pgz_625_fb10_2;SPAAG/M
 
@@ -1774,14 +2741,14 @@ cn_oplot_t_2;MBT
 ba_65_k14_l_shop;Ba. 65 (K-14fc) (L)
 ba_65_k14_l_0;"<color=#81c3fc>Società Italiana Ernesto Breda</color>
 Ba. 65
-<color=#9e9e9e>(K-14fc) (Torretta ad Arcone Tipo L)</color>"
+<color=#adadad>(K-14fc) (Torretta ad Arcone Tipo L)</color>"
 ba_65_k14_l_1;Ba. 65
 ba_65_k14_l_2;Ba. 65
 
 ba_65_a80_shop;Ba. 65 (A. 80)
 ba_65_a80_0;"<color=#81c3fc>Società Italiana Ernesto Breda</color>
 Ba. 65
-<color=#9e9e9e>(A. 80 R.C. 41)</color>"
+<color=#adadad>(A. 80 R.C. 41)</color>"
 ba_65_a80_1;Ba. 65
 ba_65_a80_2;Ba. 65
 
@@ -1821,7 +2788,7 @@ me_210ca_1_hungary_2;◐ Me 210
 me_210ca_1_40_mm_hungary_shop;◐ Me 210 Ca-1 (36 M.)
 me_210ca_1_40_mm_hungary_0;"<color=#81c3fc>Messerschmitt <color=@commonTextColor>/</color> Dunai Repülogépgyár</color>
 ◐ Me 210 Ca-1 nehéz vadászrepülőgép
-<color=#9e9e9e>(4 cm 36 M. légvédelmi gépágyú)</color>"
+<color=#adadad>(4 cm 36 M. légvédelmi gépágyú)</color>"
 me_210ca_1_40_mm_hungary_1;◐ Me 210 Ca
 me_210ca_1_40_mm_hungary_2;◐ Me 210
 
@@ -1846,7 +2813,8 @@ bf-109g-2_hungary_2;◐ Bf 109
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 il-10_1946_hungary_shop;◔ Il-10 (1947)
 il-10_1946_hungary_0;"<color=#81c3fc>Zavod № 18</color>
-◔Il-10 Párduc repülőgép (1947)"
+◔Il-10 Párduc repülőgép
+<color=#adadad>(1947)</color>"
 il-10_1946_hungary_1;◔ Il-10
 il-10_1946_hungary_2;◔ Il-10
 
@@ -1871,7 +2839,7 @@ fw_190f_8_hungary_2;◐ Fw 190
 re_2005_vdm_shop;Re.2005 (9-12087A)
 re_2005_vdm_0;"<color=#81c3fc>Officine Meccaniche Italiane</color>
 Re.2005 Sagittario
-<color=#9e9e9e>(9-12087A)</color>
+<color=#adadad>(9-12087A)</color>
 <color=@currencyGoldColor>MM.495</color>"
 re_2005_vdm_1;Re.2005
 re_2005_vdm_2;Re.2005
@@ -1941,21 +2909,21 @@ mig_23mf_hungary_2;◔ MiG-23
 ef_2000a_shop;⛨ F-2000A (P3Ea)
 ef_2000a_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15)</color>
 ⛨ F-2000A
-<color=#9e9e9e>(Phase 3 Enhancement A)</color>"
+<color=#adadad>(Phase 3 Enhancement A)</color>"
 ef_2000a_1;⛨ F-2000A
 ef_2000a_2;⛨ F-2000
 
 ef_2000a_aesa_shop;⛨ F-2000A (ECRS Mk2)
 ef_2000a_aesa_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15)</color>
 ⛨ F-2000A Typhoon
-<color=#9e9e9e>(ECRS Mk2)</color>"
+<color=#adadad>(ECRS Mk2)</color>"
 ef_2000a_aesa_1;⛨ F-2000A
 ef_2000a_aesa_2;⛨ F-2000
 
 tornado_ids_it_ret8_shop;A-200C (RET8)
 tornado_ids_it_ret8_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
 A-200C Tornado
-<color=#9e9e9e>(Retro Enabling Task 8)</color>"
+<color=#adadad>(Retro Enabling Task 8)</color>"
 tornado_ids_it_ret8_1;A-200C
 tornado_ids_it_ret8_2;A-200
 
@@ -2011,6 +2979,11 @@ mi_24v_hungary_2;◔ Mi-24
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+it_m47_105_shop; M47 RKM
+it_m47_105_0;"<color=#81c3fc> Detroit Arsenal <color=@commonTextColor>/</color> ha-Ta'asiah ha-Ṣva'it <color=@commonTextColor>+</color> 'Ordan Ta'ashiyot Matekhet
+Viṣikot Pledah M47 RKM</color>"
+it_m47_105_1; M47 RKM
+it_m47_105_2;Medium Tank
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 
@@ -2053,6 +3026,12 @@ mi_24v_hungary_2;◔ Mi-24
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+f-84f_iaf_shop;☨ F-84F-51-GK (EC 1/1)
+f-84f_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23</color>
+☨ F-84F-51-GK Thunderstreak
+Escadron de Chasse 1/1 ""Corse"""
+f-84f_iaf_1;☨ F-84F
+f-84f_iaf_2;☨ F-84
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 nf_5a_netherlands_shop;◘ NF-5A
@@ -2142,6 +3121,18 @@ sw_t_50_fin_1;15 psv T 50
 sw_t_50_fin_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+sw_m24_chaffee_dk_shop;♔ M24
+sw_m24_chaffee_dk_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+♔ Tank, Light, M24 Chaffee"
+sw_m24_chaffee_dk_1;♔ M24
+sw_m24_chaffee_dk_2;Light Tank
+
+sw_kv_1_1942_fin_shop;44 psv KW 1 A
+sw_kv_1_1942_fin_0;"<color=#81c3fc>Kirovskij zavod</color>
+<color=#5cae63>Ps. 271-1</color>
+44 tonnin panssarivaunu KW 1 A ""Klimi"""
+sw_kv_1_1942_fin_1;44 psv KW 1 A
+sw_kv_1_1942_fin_2;Heavy Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
@@ -2182,33 +3173,299 @@ sw_t_50_fin_2;Light Tank
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 4
-spitfire_lf_mk9e_iaf_shop;(ק״כ) IX רייפטיפס 
-spitfire_lf_mk9e_iaf_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
-IX םגד רייפטיפס 
-<color=#9e9e9e>(הצוצק ףנכ)</color>"
-spitfire_lf_mk9e_iaf_1;IX רייפטיפס 
-spitfire_lf_mk9e_iaf_2;רייפטיפס 
+spitfire_mk9c_iaf_shop; Spiṭfayer IX
+spitfire_mk9c_iaf_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
+ Spiṭfayer Degem IX"
+spitfire_mk9c_iaf_1; Spiṭfayer IX
+spitfire_mk9c_iaf_2; Spiṭfayer
 
-spitfire_lf_mk9e_weisman_shop;ןמציו לש IX רייפטיפס 
+spitfire_lf_mk9e_iaf_shop; Spiṭfayer IX (KK)
+spitfire_lf_mk9e_iaf_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
+ Spiṭfayer Degem IX
+<color=#adadad>(Knef Kṣoṣah)</color>"
+spitfire_lf_mk9e_iaf_1; Spiṭfayer IX
+spitfire_lf_mk9e_iaf_2; Spiṭfayer
+
+spitfire_lf_mk9e_weisman_shop; Weiṣman's Spiṭfayer IX
 spitfire_lf_mk9e_weisman_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
-IX םגד רייפטיפס 
-<color=@currencyGoldColor>ןמציו רזע לש</color>"
-spitfire_lf_mk9e_weisman_1;IX רייפטיפס 
-spitfire_lf_mk9e_weisman_2;רייפטיפס 
+ Spiṭfayer Degem IX
+<color=@currencyGoldColor>'Ezer Weiṣman's</color>"
+spitfire_lf_mk9e_weisman_1; Spiṭfayer IX
+spitfire_lf_mk9e_weisman_2; Spiṭfayer
+
+s_199_shop; Si.210
+s_199_0;"<color=#81c3fc>Avia Motors C.210</color>
+ Si.210 ""Sakin"""
+s_199_1; Si.210
+s_199_2; Si.210
+
+p-51d-20-na_iaf_shop; Pi-51 Di
+p-51d-20-na_iaf_0;"<color=#81c3fc>North American Aviation NA-122</color>
+ Pi-51 Degem Di Musṭang"
+p-51d-20-na_iaf_1; Pi-51 Di
+p-51d-20-na_iaf_2; Pi-51
+
+b-17g_iaf_shop; Bi-17 Ji
+b-17g_iaf_0;"<color=#81c3fc>Boeing Airplane Company</color>
+ Bi-17 Degem Ji Mivṣar Me'ofef"
+b-17g_iaf_1; Bi-17 Ji
+b-17g_iaf_2; Bi-17
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+meteor_nfmk13_shop; Meṭe'or 13
+meteor_nfmk13_0;"<color=#81c3fc>Gloster Aircraft Company G.47 <color=@commonTextColor>/</color> Armstrong Whitworth</color>
+ Meṭe'or Degem 13"
+meteor_nfmk13_1; Meṭe'or 13
+meteor_nfmk13_2; Meṭe'or
+
+meteor_fmk8_iaf_shop; Meṭe'or 8
+meteor_fmk8_iaf_0;"<color=#81c3fc>Gloster Aircraft Company G.41K</color>
+ Meṭe'or Degem 8"
+meteor_fmk8_iaf_1; Meṭe'or 8
+meteor_fmk8_iaf_2; Meṭe'or
+
+meteor_frmk9_iaf_shop; Meṭe'or 9
+meteor_frmk9_iaf_0;"<color=#81c3fc>Gloster Aircraft Company G.41L</color>
+ Meṭe'or Degem 9"
+meteor_frmk9_iaf_1; Meṭe'or 9
+meteor_frmk9_iaf_2; Meṭe'or
+
+md_450b_ouragan_iaf_shop; 'Organ
+md_450b_ouragan_iaf_0;"<color=#81c3fc>Avions Marcel Dassault</color>
+ M.D.450B 'Organ"
+md_450b_ouragan_iaf_1; 'Organ
+md_450b_ouragan_iaf_2; 'Organ
+
+md_450b_ouragan_iaf_29_shop; 'Organ (Mis 29)
+md_450b_ouragan_iaf_29_0;"<color=#81c3fc>Avions Marcel Dassault</color>
+ M.D.450B 'Organ
+<color=@currencyGoldColor>Ṭayeset 113 ""Ṭayeset Haṣar'ah"", Mis 29</color>"
+md_450b_ouragan_iaf_29_1; 'Organ
+md_450b_ouragan_iaf_29_2; 'Organ
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+md_454_mystere_4a_iaf_shop; Misṭer IV
+md_454_mystere_4a_iaf_0;"<color=#81c3fc>Avions Marcel Dassault</color>
+ Misṭer IV"
+md_454_mystere_4a_iaf_1; Misṭer IV
+md_454_mystere_4a_iaf_2; Misṭer
+
+md_460_sambad_shop; Super Misṭer B-2
+md_460_sambad_0;"<color=#81c3fc>Avions Marcel Dassault</color>
+ Super Misṭer B-2 ""Sambad"""
+md_460_sambad_1; Super Misṭer B-2
+md_460_sambad_2; Super Misṭer
+
+md_460_saar_shop;Sa'ar
+md_460_saar_0;"<color=#81c3fc>Avions Marcel Dassault <color=@commonTextColor>/</color> ha-Ta'asiah ha-'Avirit le-Yisra'el</color>
+Sa'ar"
+md_460_saar_1;Sa'ar
+md_460_saar_2;Sa'ar
+
+a_4h_shop; A-4H
+a_4h_0;"<color=#81c3fc>McDonnell Douglas Corporation D-640</color>
+ A-4H 'Ayiṭ"
+a_4h_1; A-4H
+a_4h_2; A-4
+
+a_4e_early_iaf_shop; A-4E (AFC 418-II)
+a_4e_early_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation D-640</color>
+ A-4E 'Ayiṭ
+<color=#adadad>(AFC 418-II)</color>"
+a_4e_early_iaf_1; A-4E
+a_4e_early_iaf_2; A-4
+
+a_4n_shop; A-4N
+a_4n_0;"<color=#81c3fc>McDonnell Douglas Corporation D-640</color>
+ A-4N 'Ayiṭ"
+a_4n_1; A-4N
+a_4n_2; A-4
+
+a_4e_late_iaf_shop; A-4E (AFC 482)
+a_4e_late_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation D-640</color>
+ A-4E 'Ayiṭ
+<color=#adadad>(AFC 482)</color>"
+a_4e_late_iaf_1; A-4E
+a_4e_late_iaf_2; A-4
+
+so_4050_vautour_2a_israel_iaf_shop; Vuṭur A
+so_4050_vautour_2a_israel_iaf_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest</color>
+ Vuṭur A"
+so_4050_vautour_2a_israel_iaf_1; Vuṭur A
+so_4050_vautour_2a_israel_iaf_2; Vuṭur
+
+so_4050_vautour_2n_iaf_shop; Vuṭur N
+so_4050_vautour_2n_iaf_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest</color>
+ Vuṭur N"
+so_4050_vautour_2n_iaf_1; Vuṭur N
+so_4050_vautour_2n_iaf_2; Vuṭur
+
+so_4050_vautour_2a_iaf_shop;☨ Vuṭur A
+so_4050_vautour_2a_iaf_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest</color>
+☨ Vuṭur A"
+so_4050_vautour_2a_iaf_1;☨ Vuṭur A
+so_4050_vautour_2a_iaf_2;☨ Vuṭur
+
+f-84f_israel_iaf_shop; F-84F-51-GK (Ṭayeset 200)
+f-84f_israel_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23</color>
+ F-84F-51-GK Thunderstreak
+<color=@currencyGoldColor>Ṭayeset 200</color>"
+f-84f_israel_iaf_1; F-84F
+f-84f_israel_iaf_2; F-84
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+mirage_3cj_shop; Miraž III CJ
+mirage_3cj_0;"<color=#81c3fc>Avions Marcel Dassault</color>
+ Miraž III CJ ""Šahak"""
+mirage_3cj_1; Miraž III CJ
+mirage_3cj_2; Mirage
+
+kfir_c7_shop;Kfir C.7
+kfir_c7_0;"<color=#81c3fc>ha-Ta'asiah ha-'Avirit le-Yisra'el</color>
+Kfir C.7"
+kfir_c7_1;Kfir C.7
+kfir_c7_2;Kfir
+
+kfir_canard_shop;Kfir Gderot
+kfir_canard_0;"<color=#81c3fc>ha-Ta'asiah ha-'Avirit le-Yisra'el</color>
+Kfir Gderot"
+kfir_canard_1;Kfir Gderot
+kfir_canard_2;Kfir
+
+kfir_c2_shop;Kfir C.2
+kfir_c2_0;"<color=#81c3fc>ha-Ta'asiah ha-'Avirit le-Yisra'el</color>
+Kfir C.2"
+kfir_c2_1;Kfir C.2
+kfir_c2_2;Kfir
+
+kfir_c10_colombia_shop;◡ Kfir Block 60
+kfir_c10_colombia_0;"<color=#81c3fc>◡ ha-Ta'asiah ha-'Avirit le-Yisra'el Kfir Block 60</color>"
+kfir_c10_colombia_1;◡ Kfir Block 60
+kfir_c10_colombia_2;◡ Kfir
+
+f-4e_iaf_shop; F-4E-48-MC
+f-4e_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98HO</color>
+ F-4E-48-MC Kurnas"
+f-4e_iaf_1; F-4E
+f-4e_iaf_2; F-4
+
+f-4e_kurnass_2000_shop; F-4E Kurnas 2000
+f-4e_kurnass_2000_0;"<color=#81c3fc>McDonnell Douglas Corporation Model <color=@commonTextColor>/</color> ha-Ta'asiah ha-'Avirit le-Yisra'el</color>
+ F-4E Kurnas 2000"
+f-4e_kurnass_2000_1; F-4E Kurnas 2000
+f-4e_kurnass_2000_2; F-4E
+
+nesher_shop;Nešer A
+nesher_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@commonTextColor>/</color> ha-Ta'asiah ha-'Avirit
+le-Yisra'el</color>
+Nešer A"
+nesher_1;Nešer A
+nesher_2;Nešer
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16a_block_10_iaf_shop; F-16A-15OCU-CF
+f_16a_block_10_iaf_0;"<color=#81c3fc>General Dynamics Corporation</color>
+ F-16A-15OCU-CF Neṣ"
+f_16a_block_10_iaf_1; F-16A
+f_16a_block_10_iaf_2; F-16
+
+f_16c_block_40_barak_2_shop; F-16C-40L-CF
+f_16c_block_40_barak_2_0;"<color=#81c3fc>General Dynamics Corporation</color>
+ F-16C-40L-CF Barak II"
+f_16c_block_40_barak_2_1; F-16C
+f_16c_block_40_barak_2_2; F-16
+
+f_16d_block_40_barak_2_shop; F-16D-40-CF
+f_16d_block_40_barak_2_0;"<color=#81c3fc>General Dynamics Corporation</color>
+ F-16D-40-CF Barak II"
+f_16d_block_40_barak_2_1; F-16D
+f_16d_block_40_barak_2_2; F-16
+
+f_16i_sufa_shop; F-16I
+f_16i_sufa_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
+ F-16I Sufah"
+f_16i_sufa_1; F-16I
+f_16i_sufa_2; F-16
+
+f_16a_block_10_netz_mod_shop; F-16A-15OCU-CF (1987)
+f_16a_block_10_netz_mod_0;"<color=#81c3fc>General Dynamics Corporation</color>
+ F-16A-15OCU-CF Neṣ
+<color=#adadad>(1987)</color>"
+f_16a_block_10_netz_mod_1; F-16A
+f_16a_block_10_netz_mod_2; F-16
+
+f_15a_iaf_shop; F-15A-18-MC (MSIP)
+f_15a_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C</color>
+ F-15A-18-MC Baz
+<color=#adadad>(Multistage Improvement Program)</color>"
+f_15a_iaf_1; F-15A
+f_15a_iaf_2; F-15
+
+f_15c_baz_msip_shop; F-15C-40-MC (MSIP II)
+f_15c_baz_msip_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C</color>
+ F-15C-40-MC Baz Mešupar
+<color=#adadad>(Multistage Improvement Program II)</color>"
+f_15c_baz_msip_1; F-15C
+f_15c_baz_msip_2; F-15
+
+f_15i_raam_shop; F-15I
+f_15i_raam_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C</color>
+ F-15I Ra'am"
+f_15i_raam_1; F-15I
+f_15i_raam_2; F-15
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+ah_1g_iaf_shop; AH-1G
+ah_1g_iaf_0;"<color=#81c3fc>Bell Helicopter Company Model 209</color>
+ AH-1G Ṣefa' Alef"
+ah_1g_iaf_1; AH-1G
+ah_1g_iaf_2; AH-1
+
+ah_1q_iaf_shop; AH-1Q
+ah_1q_iaf_0;"<color=#81c3fc>Bell Helicopter Company Model 209</color>
+ AH-1Q Ṣefa' Bet"
+ah_1q_iaf_1; AH-1Q
+ah_1q_iaf_2; AH-1
+
+ah_1f_iaf_shop; AH-1S (MC) (CN)
+ah_1f_iaf_0;"<color=#81c3fc>Bell Helicopter Textron Model 209</color>
+ AH-1S Ṣefa' Dalet
+<color=#adadad>(Modernized Cobra) (Cobra Night Imaging Thermal Equipment)</color>"
+ah_1f_iaf_1; AH-1S
+ah_1f_iaf_2; AH-1
+
+md_500_tow_late_shop;500 MD/'Orev
+md_500_tow_late_0;"<color=#81c3fc>Hughes Helicopters 500 MD</color>
+500 MD/'Orev Defender ""Lahaṭuṭ"""
+md_500_tow_late_1;500 MD/'Orev
+md_500_tow_late_2;500 MD
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+ah_64a_iaf_shop; AH-64A
+ah_64a_iaf_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
+ AH-64A Peten"
+ah_64a_iaf_1; AH-64A
+ah_64a_iaf_2; AH-64
+
+ah_64a_peten_iaf_shop; AH-64A (Ṭayeset 113)
+ah_64a_peten_iaf_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
+ AH-64A Peten
+<color=@currencyGoldColor>Ṭayeset 113 ""Ṭayeset ha-Ṣar'ah""</color>"
+ah_64a_peten_iaf_1; AH-64A
+ah_64a_peten_iaf_2; AH-64
+
+ah_64d_i_saraph_shop; AH-64D
+ah_64d_i_saraph_0;"<color=#81c3fc>Boeing Rotorcraft Systems</color>
+ AH-64D Saraf"
+ah_64d_i_saraph_1; AH-64D
+ah_64d_i_saraph_2; AH-64
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+ah_60_iaf_shop;ABH Demonstrator
+ah_60_iaf_0;"<color=#81c3fc>Sikorsky Aircraft Corperation <color=@commonTextColor>+</color> Elbit Systems Armed Blackhawk
+Demonstrator ""Yanšuf Ḥamuš""</color>"
+ah_60_iaf_1;ABH Demonstrator
+ah_60_iaf_2;ABH
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 
@@ -2217,14 +3474,361 @@ spitfire_lf_mk9e_weisman_2;רייפטיפס 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+il_m_51_shop;Šerman M-51 (1975)
+il_m_51_0;"<color=#81c3fc>Pressed Steel Car Company <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+Ṭank Šerman M-51
+<color=#adadad>(1975)</color>"
+il_m_51_1;Šerman M-51
+il_m_51_2;Medium Tank
+
+il_m_51_w_shop;Šerman M-51 (Ṣ-814794)
+il_m_51_w_0;"<color=#81c3fc>Detroit Arsenal Tank Plant <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+Ṭank Šerman M-51
+<color=@currencyGoldColor>Ṣ-814794</color>"
+il_m_51_w_1;Šerman M-51
+il_m_51_w_2;Medium Tank
+
+il_m48a1_patton_III_shop;Magaḥ 1
+il_m48a1_patton_III_0;"<color=#81c3fc>Chrysler Defense</color>
+<color=#7ce68f>Ṭank M48 A1</color>
+Ṭank Magaḥ 1"
+il_m48a1_patton_III_1;Magaḥ 1
+il_m48a1_patton_III_2;MBT
+
+il_magach_2_shop;Magaḥ 2
+il_magach_2_0;"<color=#81c3fc>Chrysler Defense</color>
+<color=#7ce68f>Ṭank M48 A2 C</color>
+Ṭank Magaḥ 2"
+il_magach_2_1;Magaḥ 2
+il_magach_2_2;MBT
+
+il_magach_3_idf_shop;Magaḥ 3
+il_magach_3_idf_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+<color=#7ce68f>Ṭank M48 A3</color>
+Ṭank Magaḥ 3"
+il_magach_3_idf_1;Magaḥ 3
+il_magach_3_idf_2;MBT
+
+il_magach_3_shop;Magaḥ 3 (Balṭan)
+il_magach_3_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+<color=#7ce68f>Ṭank M48 A3</color>
+Ṭank Magaḥ 3
+<color=#adadad>(Balṭan)</color>"
+il_magach_3_1;Magaḥ 3
+il_magach_3_2;MBT
+
+il_magach_6_shop;Magaḥ 6
+il_magach_6_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+<color=#7ce68f>Ṭank M60</color>
+Ṭank Magaḥ 6"
+il_magach_6_1;Magaḥ 6
+il_magach_6_2;MBT
+
+il_magach_6a_shop;Magaḥ 6A
+il_magach_6a_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+<color=#7ce68f>Ṭank M60 A1</color>
+Ṭank Magaḥ 6 Alef"
+il_magach_6a_1;Magaḥ 6A
+il_magach_6a_2;MBT
+
+il_magach_5_shop;Magaḥ 5
+il_magach_5_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+<color=#7ce68f>Ṭank M48 A5</color>
+Ṭank Magaḥ 5"
+il_magach_5_1;Magaḥ 5
+il_magach_5_2;MBT
+
+il_magach_6r_shop;Magaḥ 6R
+il_magach_6r_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+<color=#7ce68f>Ṭank M60</color>
+Ṭank Magaḥ 6 Reš"
+il_magach_6r_1;Magaḥ 6R
+il_magach_6r_2;MBT
+
+il_magach_6b_shop;Magaḥ 6B
+il_magach_6b_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+<color=#7ce68f>Ṭank M60 A1 E2</color>
+Ṭank Magaḥ 6 Bet"
+il_magach_6b_1;Magaḥ 6B
+il_magach_6b_2;MBT
+
+il_magach_6_rocket_shop;Magaḥ 6R (M261)
+il_magach_6_rocket_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+<color=#7ce68f>Ṭank M60</color>
+Ṭank Magaḥ 6 Reš
+<color=#adadad>(M261 19-Round Lightweight Launcher)</color>"
+il_magach_6_rocket_1;Magaḥ 6R
+il_magach_6_rocket_2;MBT
+
+il_magach_6m_shop;Magaḥ 6M Tadaḥ
+il_magach_6m_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+<color=#7ce68f>Ṭank M60</color>
+Magaḥ 6 Mem Tadaḥ"
+il_magach_6m_1;Magaḥ 6M
+il_magach_6m_2;MBT
+
+il_magach_6c_shop;Magaḥ 6G
+il_magach_6c_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+<color=#7ce68f>Ṭank M60 A3</color>
+Ṭank Magaḥ 6 Gimel"
+il_magach_6c_1;Magaḥ 6G
+il_magach_6c_2;MBT
+
+il_magach_6b_gal_batash_shop;Magaḥ 6B Gal Baṭaš
+il_magach_6b_gal_batash_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> ha-Ta'asiah ha-Ṣva'it Mif'al Slavin</color>
+<color=#7ce68f>Ṭank M60 A1 E2</color>
+Ṭank Magaḥ 6 Bet Gal Baṭaš"
+il_magach_6b_gal_batash_1;Magaḥ 6B
+il_magach_6b_gal_batash_2;MBT
+
+il_magach_7c_shop;Magaḥ 7G
+il_magach_7c_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+Ṭank Magaḥ 7 Gimel"
+il_magach_7c_1;Magaḥ 7G
+il_magach_7c_2;MBT
+
+il_magach_6b_gal_shop;Magaḥ 6B Gal
+il_magach_6b_gal_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+<color=#7ce68f>Ṭank M60 A1 E2</color>
+Ṭank Magaḥ 6 Bet Gal"
+il_magach_6b_gal_1;Magaḥ 6B
+il_magach_6b_gal_2;MBT
+
+il_amx_13_75_shop; 'Ameks 13
+il_amx_13_75_0;"<color=#81c3fc>Atelier de construction de Roanne</color>
+ Ṭank Kal 'Ameks 13"
+il_amx_13_75_1; 'Ameks 13
+il_amx_13_75_2;Light Tank
+
+il_aml_90_shop; 'Amal 90
+il_aml_90_0;"<color=#81c3fc>Panhard type 245</color>
+ Širyonit 'Amal 90"
+il_aml_90_1; 'Amal 90
+il_aml_90_2;Armored Car
+
+il_centurion_mk_5_shot_shop; Senṭuryon 5
+il_centurion_mk_5_shot_0;"<color=#81c3fc>Royal Ordnance Factory Leeds</color>
+ Ṭank Senṭuryon Siman 5 ""Šoṭ"""
+il_centurion_mk_5_shot_1; Senṭuryon 5
+il_centurion_mk_5_shot_2;MBT
+
+il_tcm_20_shop;Zaḥalad 20 mm (Do-Kani)
+il_tcm_20_0;"<color=#81c3fc>White Motor Company</color>
+Zaḥeli Lemeḥeṣah Dizel 20 mm Mitnaye'a (Do-Kani)"
+il_tcm_20_1;Zaḥalad 20 mm (Do-Kani)
+il_tcm_20_2;SPAAG
+
+il_zsu_57_2_shop; Zi.'Es.Yu.-57-2
+il_zsu_57_2_0;"<color=#81c3fc>Omskij zavod № 174 im. Vorošilova</color>
+ Tomat Nem Zi.'Es.Yu.-57-2"
+il_zsu_57_2_1; Zi.'Es.Yu.-57-2
+il_zsu_57_2_2;SPAAG
+
+il_m163_vulcan_shop;Ḥoveṭ
+il_m163_vulcan_0;"<color=#81c3fc>General Electric Company</color>
+<color=#7ce68f>Tomat Nem M163</color>
+Tomat Nem Ḥoveṭ"
+il_m163_vulcan_1;Ḥoveṭ
+il_m163_vulcan_2;SPAAG
+
+il_m109_shop; M109
+il_m109_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+ Tomat M109"
+il_m109_1; M109
+il_m109_2;SPH
+
+il_m109a1_shop;Rokhev A
+il_m109a1_0;"<color=#81c3fc>Cadillac Motor Car Division <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+<color=#7ce68f>Tomat M109 A1</color>
+Tomat Rokhev Alef"
+il_m109a1_1;Rokhev A
+il_m109a1_2;SPG
+
+il_ss_11_halftrack_shop;Zaḥalam (Tager)
+il_ss_11_halftrack_0;"<color=#81c3fc>White Motor Company</color>
+Zaḥeli Lemeḥeṣah
+<color=#adadad>(Tager)</color>"
+il_ss_11_halftrack_1;Zaḥalam (Tager)
+il_ss_11_halftrack_2;ATMC
+
+il_sholef_shop;Šolef V1
+il_sholef_0;"<color=#81c3fc>Soltam Me'rkot</color>
+Tomat Šolef V1"
+il_sholef_1;Šolef V1
+il_sholef_2;SPH
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+il_tiran_4_shop;Ṭiran 4
+il_tiran_4_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina</color>
+Ṭank Ṭiran 4"
+il_tiran_4_1;Ṭiran 4
+il_tiran_4_2;MBT
+
+il_tiran_4_sh_shop;Ṭiran 4 Š (early)
+il_tiran_4_sh_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina</color>
+Ṭank Ṭiran 4 Šrir
+<color=#adadad>(early)</color>"
+il_tiran_4_sh_1;Ṭiran 4 Š
+il_tiran_4_sh_2;MBT
+
+il_centurion_shot_kal_alef_shop;Šoṭ Kal A
+il_centurion_shot_kal_alef_0;"<color=#81c3fc>Royal Ordnance Factory Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
+Ṭank Šoṭ Kal Alef"
+il_centurion_shot_kal_alef_1;Šoṭ Kal A
+il_centurion_shot_kal_alef_2;MBT
+
+il_centurion_shot_kal_gimel_shop;Šoṭ Kal G
+il_centurion_shot_kal_gimel_0;"<color=#81c3fc>Royal Ordnance Factory Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
+Ṭank Šoṭ Kal Gimel"
+il_centurion_shot_kal_gimel_1;Šoṭ Kal G
+il_centurion_shot_kal_gimel_2;MBT
+
+il_centurion_shot_kal_d_shop;Šoṭ Kal D
+il_centurion_shot_kal_d_0;"<color=#81c3fc>Royal Ordnance Factory Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
+Ṭank Šoṭ Kal Dalet"
+il_centurion_shot_kal_d_1;Šoṭ Kal D
+il_centurion_shot_kal_d_2;MBT
+
+il_zsu_23_4_shop;Gu'ndiš
+il_zsu_23_4_0;"<color=#81c3fc>Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni
+mašinostroityel'nyj zavod</color>
+<color=#7ce68f>Tomat Nem Zi.'Es.Yu.-23-4</color>
+Tomat Nem Gu'ndiš"
+il_zsu_23_4_1;Gu'ndiš
+il_zsu_23_4_2;SPAAG
+
+il_m113_hvms_shop;Bardelas (HVMS 60)
+il_m113_hvms_0;"<color=#81c3fc>FMC Corporation <color=@commonTextColor>/</color> ha-Ta'asiah ha-Ṣva'it</color>
+<color=#7ce68f>Nagmaš M113 A2</color>
+Nagmaš Bardelas
+<color=#adadad>(60 mm Hyper-Velocity Medium Support Weapon System)</color>"
+il_m113_hvms_1;Bardelas (HVMS 60)
+il_m113_hvms_2;Light Tank
+
+il_m113a1_tow_shop;Bardelas (Jiraf)
+il_m113a1_tow_0;"<color=#81c3fc>FMC Corporation</color>
+<color=#7ce68f>Nagmaš M113 A1</color>
+Nagmaš Bardelas
+<color=#adadad>(Jiraf)</color>"
+il_m113a1_tow_1;Bardelas (Jiraf)
+il_m113a1_tow_2;SPG
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+il_tiran_6_shop;Ṭiran 6
+il_tiran_6_0;"<color=#81c3fc>Ural'skim vagonostroityel'nym zavodom im. F. È. Dzyeržinskogo <color=@commonTextColor>/</color> Ḥil
+ha-Ḥimuš</color>
+Ṭank Ṭiran 6"
+il_tiran_6_1;Ṭiran 6
+il_tiran_6_2;MBT
+
+il_merkava_mk_1_shop;Merkavah 1
+il_merkava_mk_1_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+Ṭanḳ Merkavah Siman 1"
+il_merkava_mk_1_1;Merkavah 1
+il_merkava_mk_1_2;MBT
+
+il_merkava_mk_1b_shop;Merkavah 1 Mešupar
+il_merkava_mk_1b_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+Ṭanḳ Merkavah Siman 1 Mešupar"
+il_merkava_mk_1b_1;Merkavah 1 Mešupar
+il_merkava_mk_1b_2;MBT
+
+il_merkava_mk_2b_early_shop;Merkavah 2B (early)
+il_merkava_mk_2b_early_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+Ṭank Merkavah Siman 2 Bet
+<color=#adadad>(early)</color>"
+il_merkava_mk_2b_early_1;Merkavah 2B
+il_merkava_mk_2b_early_2;MBT
+
+il_merkava_mk_2d_shop;Merkavah 2B le-Baṭaš
+il_merkava_mk_2d_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+Ṭank Merkavah Siman 2 Bet le-Baṭaš"
+il_merkava_mk_2d_1;Merkavah 2B
+il_merkava_mk_2d_2;MBT
+
+il_merkava_mk_3b_shop;Merkavah 3 Ramaḥ
+il_merkava_mk_3b_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+Ṭank Merkavah Siman 3 Ramaḥ"
+il_merkava_mk_3b_1;Merkavah 3
+il_merkava_mk_3b_2;MBT
+
+il_merkava_mk_3c_shop;Merkavah 3B Baz
+il_merkava_mk_3c_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+Ṭank Merkavah Siman 3 Bet Baz"
+il_merkava_mk_3c_1;Merkavah 3B
+il_merkava_mk_3c_2;MBT
+
+il_merkava_mk_3_raam_segol_shop;Merkavah 3D (Ra'am Segol)
+il_merkava_mk_3_raam_segol_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+Ṭank Merkavah Siman 3 Dalet Baz
+<color=#adadad>(Ra'am Segol)</color>"
+il_merkava_mk_3_raam_segol_1;Merkavah 3D
+il_merkava_mk_3_raam_segol_2;MBT
+
+il_merkava_mk_4b_shop;Merkavah 4B
+il_merkava_mk_4b_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+Ṭank Merkavah Siman 4 Bet"
+il_merkava_mk_4b_1;Merkavah 4B
+il_merkava_mk_4b_2;MBT
+
+il_merkava_mk_4_lic_shop;"Merkavah 4B ""LIC"""
+il_merkava_mk_4_lic_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+Ṭank Merkavah Siman 4 Bet
+<color=#adadad>""Low Intensity Conflict""</color>"
+il_merkava_mk_4_lic_1;Merkavah 4B
+il_merkava_mk_4_lic_2;MBT
+
+il_merkava_mk_4m_shop;Merkavah 4M
+il_merkava_mk_4m_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+Ṭank Merkavah Siman 4 Me'il Ruaḥ"
+il_merkava_mk_4m_1;Merkavah 4M
+il_merkava_mk_4m_2;MBT
+
+il_machbet_shop;Maḥbeṭ
+il_machbet_0;"<color=#81c3fc>General Electric Company <color=@commonTextColor>/</color> ha-Ta'asiah ha-'Avirit le-Yisra'el</color>
+<color=#7ce68f>Tomat Nem M163</color>
+Tomat Nem Maḥbeṭ"
+il_machbet_1;Maḥbeṭ
+il_machbet_2;SPAA
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+il_sabra_mk1_shop;Sabrah 1
+il_sabra_mk1_0;"<color=#81c3fc>ha-Ta'asiah ha-Ṣva'it</color>
+Ṭank Sabrah Siman 1"
+il_sabra_mk1_1;Sabrah 1
+il_sabra_mk1_2;MBT
+
+il_mim_72_chaparral_shop;Drakon
+il_mim_72_chaparral_0;"<color=#81c3fc>Ford Aerospace & Communications Corporation</color>
+Me'rkat Nem Mitnaye'at Drakon"
+il_mim_72_chaparral_1;Drakon
+il_mim_72_chaparral_2;SPAA
+
+il_namer_rcws_30_shop;Namer (RCWS-30)
+il_namer_rcws_30_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000 <color=@commonTextColor>/</color> Rafa'el Me'rkot le-Ḥimah Mitkadmot</color>
+Nagmaš Merkavah
+<color=#adadad>(Samson Remote Controlled Weapon Station 30mm)</color>"
+il_namer_rcws_30_1;Namer (RCWS-30)
+il_namer_rcws_30_2;IFV
+
+il_namer_tsrikhon_shop;Namer Ṣariaḥ
+il_namer_tsrikhon_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+Nagmaš Merkavah im Ṣariaḥ"
+il_namer_tsrikhon_1;Namer Ṣariaḥ
+il_namer_tsrikhon_2;IFV
+
+il_eitan_shop;'Eitan Ṣariaḥ
+il_eitan_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
+Nagmaš 'Eitan im Ṣariaḥ"
+il_eitan_1;'Eitan Ṣariaḥ
+il_eitan_2;IFV
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+il_spyder_aio_shop;SPYDER MFU AiO SR
+il_spyder_aio_0;"<color=#81c3fc>Rafa'el Me'rkot le-Ḥimah Mitkadmot SPYDER Missile Firing Unit
+All-in-One Short Range</color>"
+il_spyder_aio_1;SPYDER MFU AiO SR
+il_spyder_aio_2;SPAAM
 
 //ISRAEL COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 
@@ -2298,7 +3902,7 @@ ak_12_shop;AK-12
 ak_12_0;"<color=#81c3fc>Konczyern «Kalašnikov»</color>
 <color=#5cae63>6P70M</color>
 5,45-mm avtomat Kalašnikova AK-12
-<color=#9e9e9e>(2020)</color>"
+<color=#adadad>(2020)</color>"
 ak_12_1;AK-12
 ak_12_2;Automatic Rifle
 

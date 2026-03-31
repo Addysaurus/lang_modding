@@ -2387,7 +2387,7 @@ b_25_0;B-25-NA Mitchell
 b_25_1;B-25
 b_25_2;B-25
 ki_43_2_late_shop;▃ Ki 43-II (early)
-ki_43_2_late_0;"▃ Nakajima Hikōki | 1 Shiki Sentōki 2 Gata | Ki 43-II ""Hayabusa"" (early)"""
+ki_43_2_late_0;"▃ Nakajima Hikōki | 1 Shiki Sentōki 2 Gata | Ki 43-II ""Hayabusa"" (early)"
 ki_43_2_late_1;▃ Ki 43-II
 ki_43_2_late_2;▃ Ki 43
 ki_61_1a_otsu_usa_shop;▃ Ki 61-I Otsu
@@ -3516,8 +3516,8 @@ us_merkava_mk_1_shop;▃ Merkavah 1
 us_merkava_mk_1_0;▃ Merkaz Šikum ve-'Aḥzakah 7000 | Ṭanḳ Merkavah Siman 1
 us_merkava_mk_1_1;▃ Merkavah 1
 us_merkava_mk_1_2;MBT
-us_merkava_mk_2b_late_shop;▃ Merkavah 2B (early)
-us_merkava_mk_2b_late_0;▃ Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank Merkavah Siman 2 Bet (early)
+us_merkava_mk_2b_late_shop;▃ Merkavah 2B (late)
+us_merkava_mk_2b_late_0;▃ Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank Merkavah Siman 2 Bet (late)
 us_merkava_mk_2b_late_1;▃ Merkavah 2B
 us_merkava_mk_2b_late_2;MBT
 us_merkava_mk_3d_shop;▃ Merkavah 3D
@@ -4384,8 +4384,8 @@ hs-129b-2_romania_shop;▀╏ Hs 129 B-2
 hs-129b-2_romania_0;▀╏ Hs 129 B-2
 hs-129b-2_romania_1;▀╏ Hs 129 B
 hs-129b-2_romania_2;▀╏ Hs 129
-me_210a_1_shop;Me 210 A-1
-me_210a_1_0;Messerschmitt | Me 210 A-1
+me_210a_1_shop;Me 210 A-1 (lang)
+me_210a_1_0;Messerschmitt | Me 210 A-1 (lang)
 me_210a_1_1;Me 210 A
 me_210a_1_2;Me 210
 me-410a-1_u4_shop;Me 410 A-1/U4
@@ -5076,6 +5076,11 @@ germ_m55_shop;◄ PzH M 55
 germ_m55_0;◄ Pacific Car and Foundry Company | Panzerhaubitze M 55
 germ_m55_1;◄ PzH M 55
 germ_m55_2;SPH
+
+germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
+germ_kv_1B_finland_0;"▀ Kirovskij zavod | Ps. 272-1 | 44 tonnin panssarivaunu KW 1 B ""Klimi"""
+germ_kv_1B_finland_1;▀ 44 psv KW 1 B
+germ_kv_1B_finland_2;▀ Heavy Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
@@ -5957,7 +5962,7 @@ a5m4_0;Mitsubishi Jū Kōgyō | 96 Shiki 4 Gō Kanjō Sentōki 4 Gata | A5M4
 a5m4_1;A5M4
 a5m4_2;A5M
 a5m4_hagiri_shop;Hagiri's A5M4
-a5m4_hagiri_0;Mitsubishi Jū Kōgyō | Matsuo Hagiri's 96 Shiki 4 Gō Kanjō Sentōki 4 Gata | A5M4
+a5m4_hagiri_0;Mitsubishi Jū Kōgyō | 96 Shiki 4 Gō Kanjō Sentōki 4 Gata | Matsuo Hagiri's A5M4
 a5m4_hagiri_1;A5M4
 a5m4_hagiri_2;A5M
 ki_10_1_shop;Ki 10-I
@@ -6167,7 +6172,7 @@ ki_61_1a_hei_0;"Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Hei | Ki 61-
 ki_61_1a_hei_1;Ki 61-I
 ki_61_1a_hei_2;Ki 61
 ki_61_1a_hei_ep_shop;Tada's Ki 61-I Hei
-ki_61_1a_hei_ep_0;"Kawasaki Kōkūki Kōgyō | Takeichi Tada's 3 Shiki Sentōki 1 Gata Hei | Ki 61-I Hei ""Hien"""
+ki_61_1a_hei_ep_0;"Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Hei | Takeichi Tada's Ki 61-I Hei ""Hien"""
 ki_61_1a_hei_ep_1;Ki 61-I
 ki_61_1a_hei_ep_2;Ki 61
 ki_61_1a_tei_shop;Ki 61-I Tei
@@ -6231,7 +6236,7 @@ a7he1_0;Heinkel Flugzeugwerke | Hainkeru 112 Gata Rikujō Sentōki | A7He1
 a7he1_1;A7He1
 a7he1_2;A7He
 me_210_v22_japan_shop;▅ Me 210 V22 (D.B. 601 F)
-me_210_v22_japan_0;▅ Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22 (D.B. 601 F) 
+me_210_v22_japan_0;▅ Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22 (D.B. 601 F)
 me_210_v22_japan_1;▅ Me 210 V22
 me_210_v22_japan_2;▅ Me 210
 ki_48_2_otsu_shop;Ki 48-II Otsu
@@ -6321,7 +6326,7 @@ sb2c_5_thailand_0;Curtiss-Wright Corporation Model 84G | Ekhrụxng Bin Jomtī B
 sb2c_5_thailand_1;B.J.3
 sb2c_5_thailand_2;B.J.3
 p-51c-11-nt_japan_shop;▅ P-51C-11-NT
-p-51c-11-nt_japan_0;"▅ P-51C-11-NT Mustang ""Evalina"""
+p-51c-11-nt_japan_0;▅ North American Aviation NA-103 | P-51C-11-NT Mustang «Evalina»
 p-51c-11-nt_japan_1;▅ P-51C
 p-51c-11-nt_japan_2;▅ P-51
 ki-96_shop;Ki 96 (3 Gō)
@@ -6361,6 +6366,7 @@ j7w1_2;J7W
 ki-83_shop;Ki 83
 ki-83_0;Mitsubishi Jū Kōgyō | Ki 83
 ki-83_1;Ki 83
+ki-83_2;Ki 83
 g8n1_shop;G8N1
 g8n1_0;Nakajima Hikōki | 18 Shi Rikujō Kōgekiki | Shisei Renzan | G8N1
 g8n1_1;G8N1
@@ -6369,6 +6375,10 @@ g8n2_shop;G8N2
 g8n2_0;Nakajima Hikōki | 18 Shi Rikujō Kōgekiki | Shisei Renzan Kai | G8N2
 g8n2_1;G8N2
 g8n2_2;G8N
+b-17e_japan_shop;▅ B-17E (early)
+b-17e_japan_0;▅ Boeing Airplane Company Model 299O | B-17E Flying Fortress (Sperry No. 645705-D)
+b-17e_japan_1;▅ B-17E
+b-17e_japan_2;▅ B-17
 ki_87_shop;Ki 87
 ki_87_0;Nakajima Hikōki | Ki 87
 ki_87_1;Ki 87
@@ -6396,15 +6406,15 @@ f-84g_thailand_0;Republic Aviation Corporation AP-23 | Ekhrụxng Bin Khạb L�
 f-84g_thailand_1;B.Kh.16
 f-84g_thailand_2;B.Kh.16
 r2y2_v1_shop;R2Y2-G (11 Gata)
-r2y2_v1_0;Shisei Keiun Kai 11 Gata | R2Y2-G
+r2y2_v1_0;Yokosuka Kaigun Kōshō | Shisei Keiun Kai 11 Gata | R2Y2-G
 r2y2_v1_1;R2Y2-G
 r2y2_v1_2;R2Y
 r2y2_v2_shop;R2Y2-G (22 Gata)
-r2y2_v2_0;Shisei Keiun Kai 22 Gata | R2Y2-G
+r2y2_v2_0;Yokosuka Kaigun Kōshō | Shisei Keiun Kai 22 Gata | R2Y2-G
 r2y2_v2_1;R2Y2-G
 r2y2_v2_2;R2Y
 r2y2_kai_shop;R2Y2-G (32 Gata)
-r2y2_kai_0;Shisei Keiun Kai 32 Gata | R2Y2-G
+r2y2_kai_0;Yokosuka Kaigun Kōshō | Shisei Keiun Kai 32 Gata | R2Y2-G
 r2y2_kai_1;R2Y2-G
 r2y2_kai_2;R2Y
 f-86f-30_japan_shop;▅ F-86F-30-MIT
@@ -7475,8 +7485,8 @@ la-9_china_shop;␗ Lā 9
 la-9_china_0;␗ Opytno-konstruktorskoye bûro № 301 | Lā 9 Xíng Fēijī
 la-9_china_1;␗ Lā 9
 la-9_china_2;␗ Lā 9
-il-10_1946_china_shop;␗ Yīěr 10
-il-10_1946_china_0;␗ Opytno-konstruktorskoye bûro № 39 | Yīěr 10 Xíng Fēijī
+il-10_1946_china_shop;␗ Yīěr 10 (1947)
+il-10_1946_china_0;␗ Opytno-konstruktorskoye bûro № 39 | Yīěr 10 Xíng Fēijī (1947)
 il-10_1946_china_1;␗ Yīěr 10
 il-10_1946_china_2;␗ Yīěr 10
 pb4y-2_china_shop;☀ P4Y-2
@@ -8354,7 +8364,7 @@ it_c13_tua_0;OTO Melara C 13 con sistema d'arma TUA
 it_c13_tua_1;C 13 (TUA)
 it_c13_tua_2;ATMC
 it_m47_105_shop; M47 RKM
-it_m47_105_0; Detroit Arsenal / Israel Military Industries + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM
+it_m47_105_0; Detroit Arsenal / ha-Ta'asiah ha-Ṣva'it + 'Ordan Ta'ashiyot Matekhet Viṣikot Pledah M47 RKM
 it_m47_105_1; M47 RKM
 it_m47_105_2;Medium Tank
 it_leopard_1a2_shop;⛨ Leopard 1 A2
@@ -8532,7 +8542,7 @@ sb_25j_netherlands_2;◘ B-25
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 f-84f_iaf_shop;☨ F-84F-51-GK (EC 1/1)
-f-84f_iaf_0;"☨ Republic Aviation Corporation | F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 ""Corse"")"
+f-84f_iaf_0;"☨ Republic Aviation Corporation AP-23 | F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 ""Corse"")"
 f-84f_iaf_1;☨ F-84F
 f-84f_iaf_2;☨ F-84
 
@@ -8902,9 +8912,13 @@ sw_t_50_fin_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 sw_m24_chaffee_dk_shop;♔ M24
-sw_m24_chaffee_dk_0;♔ Cadillac Motor Car Division | G-200 | Tank, Light, M24 Chaffee
+sw_m24_chaffee_dk_0;♔ Cadillac Motor Car Division | Tank, Light, M24 Chaffee
 sw_m24_chaffee_dk_1;♔ M24
 sw_m24_chaffee_dk_2;Light Tank
+sw_kv_1_1942_fin_shop;44 psv KW 1 A
+sw_kv_1_1942_fin_0;"Kirovskij zavod | Ps. 271-1 | 44 tonnin panssarivaunu KW 1 A ""Klimi"""
+sw_kv_1_1942_fin_1;44 psv KW 1 A
+sw_kv_1_1942_fin_2;Heavy Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
@@ -8986,7 +9000,7 @@ p-51d-20-na_iaf_0; North American Aviation NA-122 | Pi-51 Degem Di Musṭang
 p-51d-20-na_iaf_1; Pi-51 Di
 p-51d-20-na_iaf_2; Pi-51
 b-17g_iaf_shop; Bi-17 Ji
-b-17g_iaf_0; Boeing Airplane Company | Bi-17 Degem Ji Mivtzar Me'ofef
+b-17g_iaf_0; Boeing Airplane Company | Bi-17 Degem Ji Mivṣar Me'ofef
 b-17g_iaf_1; Bi-17 Ji
 b-17g_iaf_2; Bi-17
 
@@ -9008,7 +9022,7 @@ md_450b_ouragan_iaf_0; Avions Marcel Dassault | M.D.450B 'Organ
 md_450b_ouragan_iaf_1; 'Organ
 md_450b_ouragan_iaf_2; 'Organ
 md_450b_ouragan_iaf_29_shop; 'Organ (Mis 29)
-md_450b_ouragan_iaf_29_0;" Avions Marcel Dassault | M.D.450B 'Organ (Mis 29, Ṭayeset 113 ""Ṭayeset Haṣar'ah"")"
+md_450b_ouragan_iaf_29_0;" Avions Marcel Dassault | M.D.450B 'Organ (Ṭayeset 113 ""Ṭayeset Haṣar'ah"", Mis 29)"
 md_450b_ouragan_iaf_29_1; 'Organ
 md_450b_ouragan_iaf_29_2; 'Organ
 
@@ -9034,7 +9048,7 @@ a_4e_early_iaf_0; McDonnell Douglas Corporation D-640 | A-4E 'Ayiṭ (AFC 418
 a_4e_early_iaf_1; A-4E
 a_4e_early_iaf_2; A-4
 a_4n_shop; A-4N
-a_4n_0;McDonnell Douglas Corporation D-640 | A-4N 'Ayiṭ
+a_4n_0; McDonnell Douglas Corporation D-640 | A-4N 'Ayiṭ
 a_4n_1; A-4N
 a_4n_2; A-4
 a_4e_late_iaf_shop; A-4E (AFC 482)
@@ -9054,7 +9068,7 @@ so_4050_vautour_2a_iaf_0;☨ Société nationale des constructions aéronauti
 so_4050_vautour_2a_iaf_1;☨ Vuṭur A
 so_4050_vautour_2a_iaf_2;☨ Vuṭur
 f-84f_israel_iaf_shop; F-84F-51-GK (Ṭayeset 200)
-f-84f_israel_iaf_0; F-84F-51-GK Thunderstreak (Ṭayeset 200)
+f-84f_israel_iaf_0; Republic Aviation Corporation AP-23 | F-84F-51-GK Thunderstreak (Ṭayeset 200)
 f-84f_israel_iaf_1; F-84F
 f-84f_israel_iaf_2; F-84
 
@@ -9076,7 +9090,7 @@ kfir_c2_0;ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir C.2
 kfir_c2_1;Kfir C.2
 kfir_c2_2;Kfir
 kfir_c10_colombia_shop;◡ Kfir Block 60
-kfir_c10_colombia_0;◡ ha-Ta'asiah ha-'Avirit le-Yisra'el | Kfir Block 60
+kfir_c10_colombia_0;◡ ha-Ta'asiah ha-'Avirit le-Yisra'el Kfir Block 60
 kfir_c10_colombia_1;◡ Kfir Block 60
 kfir_c10_colombia_2;◡ Kfir
 f-4e_iaf_shop; F-4E-48-MC
@@ -9132,17 +9146,17 @@ ah_1g_iaf_0; Bell Helicopter Company Model 209 | AH-1G Ṣefa' Alef
 ah_1g_iaf_1; AH-1G
 ah_1g_iaf_2; AH-1
 ah_1q_iaf_shop; AH-1Q
-ah_1q_iaf_0; AH-1Q Ṣefa Bet
+ah_1q_iaf_0; Bell Helicopter Company Model 209 | AH-1Q Ṣefa' Bet
 ah_1q_iaf_1; AH-1Q
 ah_1q_iaf_2; AH-1
 ah_1f_iaf_shop; AH-1S (MC) (CN)
 ah_1f_iaf_0; Bell Helicopter Textron Model 209 | AH-1S Ṣefa' Dalet (Modernized Cobra) (Cobra Night Imaging Thermal Equipment)
 ah_1f_iaf_1; AH-1S
 ah_1f_iaf_2; AH-1
-md_500_tow_late_shop;MD 500/'Orev
-md_500_tow_late_0;MD 500/'Orev Lahaṭuṭ
-md_500_tow_late_1;MD 500/'Orev
-md_500_tow_late_2;MD 500
+md_500_tow_late_shop;500 MD/'Orev
+md_500_tow_late_0;"Hughes Helicopters 500 MD | 500 MD/'Orev Defender ""Lahaṭuṭ"""
+md_500_tow_late_1;500 MD/'Orev
+md_500_tow_late_2;500 MD
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 ah_64a_iaf_shop; AH-64A
@@ -9232,11 +9246,11 @@ il_magach_6b_gal_batash_0;Chrysler Defense / ha-Ta'asiah ha-Ṣva'it Mif'al Slav
 il_magach_6b_gal_batash_1;Magaḥ 6B
 il_magach_6b_gal_batash_2;MBT
 il_magach_7c_shop;Magaḥ 7G
-il_magach_7c_0;Magaḥ 7 Gimel
+il_magach_7c_0;Chrysler Defense / Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank Magaḥ 7 Gimel
 il_magach_7c_1;Magaḥ 7G
 il_magach_7c_2;MBT
 il_magach_6b_gal_shop;Magaḥ 6B Gal
-il_magach_6b_gal_0;Magaḥ 6 Bet Gal
+il_magach_6b_gal_0;Chrysler Defense / Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank M60 A1 E2 | Ṭank Magaḥ 6 Bet Gal
 il_magach_6b_gal_1;Magaḥ 6B
 il_magach_6b_gal_2;MBT
 il_amx_13_75_shop; 'Ameks 13
@@ -9260,7 +9274,7 @@ il_zsu_57_2_0; Omskij zavod № 174 im. Vorošilova | Tomat Nem Zi.'Es.Yu.-57
 il_zsu_57_2_1; Zi.'Es.Yu.-57-2
 il_zsu_57_2_2;SPAAG
 il_m163_vulcan_shop;Ḥoveṭ
-il_m163_vulcan_0;General Electric Company | Tomat Nem Ḥoveṭ
+il_m163_vulcan_0;General Electric Company | Tomat Nem M163 | Tomat Nem Ḥoveṭ
 il_m163_vulcan_1;Ḥoveṭ
 il_m163_vulcan_2;SPAAG
 il_m109_shop; M109
@@ -9289,10 +9303,6 @@ il_tiran_4_sh_shop;Ṭiran 4 Š (early)
 il_tiran_4_sh_0;Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina | Ṭank Ṭiran 4 Šrir (early)
 il_tiran_4_sh_1;Ṭiran 4 Š
 il_tiran_4_sh_2;MBT
-il_tiran_6_shop;Ṭiran 6
-il_tiran_6_0;Ural'skim vagonostroityel'nym zavodom im. F. È. Dzyeržinskogo / Ḥil ha-Ḥimuš | Ṭank Ṭiran 6
-il_tiran_6_1;Ṭiran 6
-il_tiran_6_2;MBT
 il_centurion_shot_kal_alef_shop;Šoṭ Kal A
 il_centurion_shot_kal_alef_0;Royal Ordnance Factory Leeds / Ḥil ha-Ḥimuš | Ṭank Šoṭ Kal Alef
 il_centurion_shot_kal_alef_1;Šoṭ Kal A
@@ -9319,6 +9329,10 @@ il_m113a1_tow_1;Bardelas (Jiraf)
 il_m113a1_tow_2;SPG
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+il_tiran_6_shop;Ṭiran 6
+il_tiran_6_0;Ural'skim vagonostroityel'nym zavodom im. F. È. Dzyeržinskogo / Ḥil ha-Ḥimuš | Ṭank Ṭiran 6
+il_tiran_6_1;Ṭiran 6
+il_tiran_6_2;MBT
 il_merkava_mk_1_shop;Merkavah 1
 il_merkava_mk_1_0;Merkaz Šikum ve-'Aḥzakah 7000 | Ṭanḳ Merkavah Siman 1
 il_merkava_mk_1_1;Merkavah 1
@@ -9360,7 +9374,7 @@ il_merkava_mk_4m_0;Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank Merkavah Siman 4 Me
 il_merkava_mk_4m_1;Merkavah 4M
 il_merkava_mk_4m_2;MBT
 il_machbet_shop;Maḥbeṭ
-il_machbet_0;General Electric Company / ha-Ta'asiah ha-'Avirit le-Yisra'el | Tomat Nem Maḥbeṭ
+il_machbet_0;General Electric Company / ha-Ta'asiah ha-'Avirit le-Yisra'el | Tomat Nem M163 | Tomat Nem Maḥbeṭ
 il_machbet_1;Maḥbeṭ
 il_machbet_2;SPAA
 
@@ -9388,7 +9402,7 @@ il_eitan_2;IFV
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 il_spyder_aio_shop;SPYDER MFU AiO SR
-il_spyder_aio_0;Rafa'el Me'rkot le-Ḥimah Mitkadmot | SPYDER Missile Firing Unit All-in-One Short Range
+il_spyder_aio_0;Rafa'el Me'rkot le-Ḥimah Mitkadmot SPYDER Missile Firing Unit All-in-One Short Range
 il_spyder_aio_1;SPYDER MFU AiO SR
 il_spyder_aio_2;SPAAM
 
@@ -10111,10 +10125,6 @@ germ_kv_2_754r_shop;▀ s.Pz.Kpfw. 754 (r)
 germ_kv_2_754r_0;▀ schwerer Panzerkampfwagen 754 (r) | 15cm KW
 germ_kv_2_754r_1;▀ s.Pz.Kpfw. 754 (r)
 germ_kv_2_754r_2;▀ Heavy tank
-germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
-germ_kv_1B_finland_0;"▀ Ps. 272 | 44 tonnin panssarivaunu KW 1 B ""Klimi"""
-germ_kv_1B_finland_1;▀ 44 psv KW 1 B
-germ_kv_1B_finland_2;▀ Heavy tank
 us_m4a2_1944_germ_shop;▀ Pz.Kpfw. 748 (a) C
 us_m4a2_1944_germ_0;▀ Panzerkampfwagen 748 (a) Ausf. C | M 4 (k.)
 us_m4a2_1944_germ_1;▀ Pz.Kpfw. 748 (a) C
@@ -12044,10 +12054,6 @@ yak-1_early_shop;Âk-1-1
 yak-1_early_0;Âk-1 syeriâ 1
 yak-1_early_1;Âk-1
 yak-1_early_2;Âk-1
-b-17e_japan_shop;▅ B-17E (early)
-b-17e_japan_0;▅ B-17E Flying Fortress (Sperry No. 645705-D)
-b-17e_japan_1;▅ B-17
-b-17e_japan_2;▅ B-17
 buccaneer_s1_shop;Buccaneer S. Mk. 1
 buccaneer_s1_0;Buccaneer S. Mk. 1
 buccaneer_s1_1;Buccaneer S. Mk. 1
@@ -14472,10 +14478,6 @@ sw_t_34_1941_shop;26 psv T 34 B
 sw_t_34_1941_0;"Ps. 231 | 26 tonnin panssarivaunu T 34 B ""Sotka"""
 sw_t_34_1941_1;26 psv T 34 B
 sw_t_34_1941_2;Medium Tank
-sw_kv_1_1942_fin_shop;44 psv KW 1 A
-sw_kv_1_1942_fin_0;"Ps. 271 | 44 tonnin panssarivaunu KW 1 A ""Klimi"""
-sw_kv_1_1942_fin_1;44 psv KW 1 A
-sw_kv_1_1942_fin_2;Heavy Tank
 sw_t_34_85_zis_53_shop;31 psv T 34/85
 sw_t_34_85_zis_53_0;"Ps. 245 | 31 tonnin panssarivaunu T 34/85 ""Pitkäputkinen Sotka"""
 sw_t_34_85_zis_53_1;31 psv T 34/85

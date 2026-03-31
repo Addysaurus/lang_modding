@@ -43,7 +43,7 @@ a5m4_0;三菱重工業 | 九六式四号艦上戦闘機四型 | A5M4
 a5m4_1;A5M4
 a5m4_2;A5M4
 a5m4_hagiri_shop;羽切のA5M4
-a5m4_hagiri_0;三菱重工業 | 羽切松雄の九六式四号艦上戦闘機四型 | A5M4
+a5m4_hagiri_0;三菱重工業 | 九六式四号艦上戦闘機四型 | 羽切松雄のA5M4
 a5m4_hagiri_1;A5M4
 a5m4_hagiri_2;A5M
 ki_10_1_shop;キ10-I
@@ -78,6 +78,10 @@ ki_43_2_shop;キ43-II (late)
 ki_43_2_0;中島飛行機 | 一式戦闘機二型 | キ43-II「隼」(late)
 ki_43_2_1;キ43-II
 ki_43_2_2;キ43
+ki_43_2_late_shop;▃ キ43-II (early)
+ki_43_2_late_0;"▃ 中島飛行機 | 一式戦闘機二型 | キ43-II「隼」(early)"
+ki_43_2_late_1;▃ キ43-II
+ki_43_2_late_2;▃ キ43
 ki_43_3_otsu_shop;キ43-III乙
 ki_43_3_otsu_0;中島飛行機 / 立川飛行機 | 一式戦闘機三型乙 | キ43-III乙「隼」
 ki_43_3_otsu_1;キ43-III
@@ -172,6 +176,10 @@ a6m2_zero_shop;A6M2 (二一型)
 a6m2_zero_0;三菱重工業 | 零式艦上戦闘機二一型 | A6M2「零戦」
 a6m2_zero_1;A6M2
 a6m2_zero_2;A6M
+a6m2_zero_usa_shop;▃ A6M2 (二一型)
+a6m2_zero_usa_0;"▃ 三菱重工業 | 零式艦上戦闘機二一型 | A6M2「零戦」 ""Akutan Zero"""
+a6m2_zero_usa_1;▃ A6M2
+a6m2_zero_usa_2;▃ A6M
 a6m3_zero_shop;A6M3 (三二型)
 a6m3_zero_0;三菱重工業 | 零式艦上戦闘機三二型 | A6M3「零戦」
 a6m3_zero_1;A6M3
@@ -244,12 +252,16 @@ ki_61_1a_otsu_shop;キ61-I乙
 ki_61_1a_otsu_0;川崎航空機工業 | 三式戦闘機一型乙 | キ61-I乙「飛燕」
 ki_61_1a_otsu_1;キ61-I
 ki_61_1a_otsu_2;キ61
+ki_61_1a_otsu_usa_shop;▃ キ61-I乙
+ki_61_1a_otsu_usa_0;"▃ 川崎航空機工業 | 三式戦闘機一型乙 | キ61-I乙「飛燕」"
+ki_61_1a_otsu_usa_1;▃ キ61-I
+ki_61_1a_otsu_usa_2;▃ キ61
 ki_61_1a_hei_shop;キ61-I丙
 ki_61_1a_hei_0;川崎航空機工業 | 三式戦闘機一型丙 | キ61-I丙「飛燕」
 ki_61_1a_hei_1;キ61-I
 ki_61_1a_hei_2;キ61
 ki_61_1a_hei_ep_shop;多田のキ61-I丙
-ki_61_1a_hei_ep_0;川崎航空機工業 | 多田武一の三式戦闘機一型丙 | キ61-I丙「飛燕」
+ki_61_1a_hei_ep_0;川崎航空機工業 | 三式戦闘機一型丙 | 多田武一のキ61-I丙「飛燕」
 ki_61_1a_hei_ep_1;キ61-I
 ki_61_1a_hei_ep_2;キ61
 ki_61_1a_tei_shop;キ61-I丁
@@ -463,15 +475,15 @@ j8m1_0;三菱重工業 | キ200
 j8m1_1;キ200
 j8m1_2;キ200
 r2y2_v1_shop;R2Y2-G (一一型)
-r2y2_v1_0;試製景雲改一一型 | R2Y2-G
+r2y2_v1_0;横須賀海軍工廠 | 試製景雲改一一型 | R2Y2-G
 r2y2_v1_1;R2Y2-G
 r2y2_v1_2;R2Y
 r2y2_v2_shop;R2Y2-G (二二型)
-r2y2_v2_0;試製景雲改二二型 | R2Y2-G
+r2y2_v2_0;横須賀海軍工廠 | 試製景雲改二二型 | R2Y2-G
 r2y2_v2_1;R2Y2-G
 r2y2_v2_2;R2Y
 r2y2_kai_shop;R2Y2-G (三二型)
-r2y2_kai_0;試製景雲改三二型 | R2Y2-G
+r2y2_kai_0;横須賀海軍工廠 | 試製景雲改三二型 | R2Y2-G
 r2y2_kai_1;R2Y2-G
 r2y2_kai_2;R2Y
 f-86f-30_japan_shop;▅ F-86F-30-MIT
@@ -486,12 +498,12 @@ f-86f-40_japan_blue_impulse_shop;▅ F-86F-40-MIT (6飛隊)
 f-86f-40_japan_blue_impulse_0;▅ North American Aviation / 三菱重工業 | F-86F-40-MIT「旭光」(第6飛行隊)
 f-86f-40_japan_blue_impulse_1;▅ F-86F
 f-86f-40_japan_blue_impulse_2;▅ F-86
+
+//AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 f-104j_shop;▅ F-104J-MIT (C2)
 f-104j_0;▅ Lockheed Corporation / 三菱重工業 | F-104J-MIT「栄光」(C2ロット)
 f-104j_1;▅ F-104J
 f-104j_2;▅ F-104
-
-//AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 t2_shop;T-2 (1979)
 t2_0;三菱重工業 | T-2 (1979)
 t2_1;T-2

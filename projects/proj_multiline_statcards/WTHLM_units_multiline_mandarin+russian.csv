@@ -70,7 +70,8 @@ la-9_china_2;␗ 拉9
 
 il-10_1946_china_shop;␗ 伊尔10 (1947)
 il-10_1946_china_0;"<color=#81c3fc>Опытно-конструкторское бюро № 39</color>
-␗ 伊尔10型飞机 (1947)"
+␗ 伊尔10型飞机
+<color=#adadad>(1947)</color>"
 il-10_1946_china_1;␗ 伊尔10
 il-10_1946_china_2;␗ 伊尔10
 
@@ -162,7 +163,7 @@ j_11_2;K/JJ11
 j_11a_shop;K/JJ11A (MLU)
 j_11a_0;"<color=#81c3fc>Компания «Сухой» <color=@commonTextColor>/</color> 沈阳飞机工业 (集团)</color>
 K/JJ11A型飞机 ""应龙""
-<color=#9e9e9e>(Mid-Life Update)</color>"
+<color=#adadad>(Mid-Life Update)</color>"
 j_11a_1;K/JJ11A
 j_11a_2;K/JJ11
 
@@ -188,14 +189,14 @@ su_30mkk_2;␗ 苏30
 cn_t_26_1940_shop;☀ 特26 (1937)
 cn_t_26_1940_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Опытно-конструкторский механический отдел</color>
 ☀ 特26轻型戰車
-<color=#9e9e9e>(1937)</color>"
+<color=#adadad>(1937)</color>"
 cn_t_26_1940_1;☀ 特26
 cn_t_26_1940_2;Light Tank
 
 cn_t_26_no531_shop;☀ 特26 (1937) (第200师)
 cn_t_26_no531_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Опытно-конструкторский механический отдел</color>
 ☀ 特26轻型戰車
-<color=#9e9e9e>(1937)</color>
+<color=#adadad>(1937)</color>
 <color=@currencyGoldColor>第200师</color>"
 cn_t_26_no531_1;☀ 特26
 cn_t_26_no531_2;Light Tank
@@ -210,14 +211,14 @@ cn_su_76m_1943_2;Tank Destroyer
 cn_lvt_4_zis_2_shop;␗ LVT (ЗиС-2)
 cn_lvt_4_zis_2_0;"<color=#81c3fc>Food Machinery Corporation</color>
 ␗ LVT水陆坦克
-<color=#9e9e9e>(ЗиС-2 обр. 1941 г.)</color>"
+<color=#adadad>(ЗиС-2 обр. 1941 г.)</color>"
 cn_lvt_4_zis_2_1;␗ LVT
 cn_lvt_4_zis_2_2;Tank Destroyer
 
 us_lvt_4_zis_2_shop;▃␗ LVT (ЗиС-2)
 us_lvt_4_zis_2_0;"<color=#81c3fc>Food Machinery Corporation</color>
 ▃␗ LVT水陆坦克
-<color=#9e9e9e>(ЗиС-2 обр. 1941 г.)</color>"
+<color=#adadad>(ЗиС-2 обр. 1941 г.)</color>"
 us_lvt_4_zis_2_1;▃␗ LVT
 us_lvt_4_zis_2_2;Tank Destroyer
 
@@ -233,14 +234,14 @@ cn_pt_76_2;Amphibious Tank
 cn_t_34_1942_shop;␗ 特34 (1942)
 cn_t_34_1942_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ)</color>
 ␗ 特34中型坦克
-<color=#9e9e9e>(1942)</color>"
+<color=#adadad>(1942)</color>"
 cn_t_34_1942_1;␗ 特34
 cn_t_34_1942_2;Medium Tank
 
 cn_t_34_85_d_5t_shop;␗ 特34 (1944)
 cn_t_34_85_d_5t_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ)</color>
 ␗ 特34中型坦克
-<color=#9e9e9e>(1944)</color>"
+<color=#adadad>(1944)</color>"
 cn_t_34_85_d_5t_1;␗ 特34 (1944)
 cn_t_34_85_d_5t_2;Medium Tank
 
@@ -248,14 +249,14 @@ cn_type_58_shop;␗ 特34 (1960)
 cn_type_58_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ) <color=@commonTextColor>/</color>
 哈尔滨第一机械集团</color>
 ␗ 特34中型坦克
-<color=#9e9e9e>(1960)</color>"
+<color=#adadad>(1960)</color>"
 cn_type_58_1;␗ 特34 (1960)
 cn_type_58_2;Medium Tank
 
 cn_t_34_85_zis_53_no215_shop;␗ 特34 (1944) (战车第2师)
 cn_t_34_85_zis_53_no215_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ)</color>
 ␗ 特34中型坦克
-<color=#9e9e9e>(1944)</color>
+<color=#adadad>(1944)</color>
 <color=@currencyGoldColor>战车第2师</color>"
 cn_t_34_85_zis_53_no215_1;␗ 特34 (1944)
 cn_t_34_85_zis_53_no215_2;Medium Tank
@@ -278,21 +279,21 @@ cn_isu_122_2;SPG
 cn_is_2_1943_shop;␗ 斯2 (1943)
 cn_is_2_1943_0;"<color=#81c3fc>Кировский завод наркомтанкопрома в г. Челябинске (ЧКЗ)</color>
 ␗ 斯2重型坦克
-<color=#9e9e9e>(1943)</color>"
+<color=#adadad>(1943)</color>"
 cn_is_2_1943_1;␗ 斯2
 cn_is_2_1943_2;Heavy Tank
 
 cn_is_2_1944_shop;␗ 斯2 (1944)
 cn_is_2_1944_0;"<color=#81c3fc>Кировский завод наркомтанкопрома в г. Челябинске (ЧКЗ)</color>
 ␗ 斯2重型坦克
-<color=#9e9e9e>(1944)</color>"
+<color=#adadad>(1944)</color>"
 cn_is_2_1944_1;␗ 斯2
 cn_is_2_1944_2;Heavy Tank
 
 cn_is_2_1943_no402_shop;␗ 斯2 (1943) (坦克第3师)
 cn_is_2_1943_no402_0;"<color=#81c3fc>Кировский завод наркомтанкопрома в г. Челябинске (ЧКЗ)</color>
 ␗ 斯2重型坦克
-<color=#9e9e9e>(1943)</color>
+<color=#adadad>(1943)</color>
 <color=@currencyGoldColor>坦克第3师</color>"
 cn_is_2_1943_no402_1;␗ 斯2
 cn_is_2_1943_no402_2;Heavy Tank

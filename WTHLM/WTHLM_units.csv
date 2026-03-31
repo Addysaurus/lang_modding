@@ -2387,7 +2387,7 @@ b_25_0;B-25-NA Mitchell
 b_25_1;B-25
 b_25_2;B-25
 ki_43_2_late_shop;▃ Ki 43-II (early)
-ki_43_2_late_0;"▃ Nakajima Hikōki | 1 Shiki Sentōki 2 Gata | Ki 43-II ""Hayabusa"" (early)"""
+ki_43_2_late_0;"▃ Nakajima Hikōki | 1 Shiki Sentōki 2 Gata | Ki 43-II ""Hayabusa"" (early)"
 ki_43_2_late_1;▃ Ki 43-II
 ki_43_2_late_2;▃ Ki 43
 ki_61_1a_otsu_usa_shop;▃ Ki 61-I Otsu
@@ -4384,8 +4384,8 @@ hs-129b-2_romania_shop;▀╏ Hs 129 B-2
 hs-129b-2_romania_0;▀╏ Hs 129 B-2
 hs-129b-2_romania_1;▀╏ Hs 129 B
 hs-129b-2_romania_2;▀╏ Hs 129
-me_210a_1_shop;Me 210 A-1
-me_210a_1_0;Messerschmitt | Me 210 A-1
+me_210a_1_shop;Me 210 A-1 (lang)
+me_210a_1_0;Messerschmitt | Me 210 A-1 (lang)
 me_210a_1_1;Me 210 A
 me_210a_1_2;Me 210
 me-410a-1_u4_shop;Me 410 A-1/U4
@@ -5962,7 +5962,7 @@ a5m4_0;Mitsubishi Jū Kōgyō | 96 Shiki 4 Gō Kanjō Sentōki 4 Gata | A5M4
 a5m4_1;A5M4
 a5m4_2;A5M
 a5m4_hagiri_shop;Hagiri's A5M4
-a5m4_hagiri_0;Mitsubishi Jū Kōgyō | Matsuo Hagiri's 96 Shiki 4 Gō Kanjō Sentōki 4 Gata | A5M4
+a5m4_hagiri_0;Mitsubishi Jū Kōgyō | 96 Shiki 4 Gō Kanjō Sentōki 4 Gata | Matsuo Hagiri's A5M4
 a5m4_hagiri_1;A5M4
 a5m4_hagiri_2;A5M
 ki_10_1_shop;Ki 10-I
@@ -6172,7 +6172,7 @@ ki_61_1a_hei_0;"Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Hei | Ki 61-
 ki_61_1a_hei_1;Ki 61-I
 ki_61_1a_hei_2;Ki 61
 ki_61_1a_hei_ep_shop;Tada's Ki 61-I Hei
-ki_61_1a_hei_ep_0;"Kawasaki Kōkūki Kōgyō | Takeichi Tada's 3 Shiki Sentōki 1 Gata Hei | Ki 61-I Hei ""Hien"""
+ki_61_1a_hei_ep_0;"Kawasaki Kōkūki Kōgyō | 3 Shiki Sentōki 1 Gata Hei | Takeichi Tada's Ki 61-I Hei ""Hien"""
 ki_61_1a_hei_ep_1;Ki 61-I
 ki_61_1a_hei_ep_2;Ki 61
 ki_61_1a_tei_shop;Ki 61-I Tei
@@ -6236,7 +6236,7 @@ a7he1_0;Heinkel Flugzeugwerke | Hainkeru 112 Gata Rikujō Sentōki | A7He1
 a7he1_1;A7He1
 a7he1_2;A7He
 me_210_v22_japan_shop;▅ Me 210 V22 (D.B. 601 F)
-me_210_v22_japan_0;▅ Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22 (D.B. 601 F) 
+me_210_v22_japan_0;▅ Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22 (D.B. 601 F)
 me_210_v22_japan_1;▅ Me 210 V22
 me_210_v22_japan_2;▅ Me 210
 ki_48_2_otsu_shop;Ki 48-II Otsu
@@ -6326,7 +6326,7 @@ sb2c_5_thailand_0;Curtiss-Wright Corporation Model 84G | Ekhrụxng Bin Jomtī B
 sb2c_5_thailand_1;B.J.3
 sb2c_5_thailand_2;B.J.3
 p-51c-11-nt_japan_shop;▅ P-51C-11-NT
-p-51c-11-nt_japan_0;"▅ P-51C-11-NT Mustang ""Evalina"""
+p-51c-11-nt_japan_0;▅ North American Aviation NA-103 | P-51C-11-NT Mustang «Evalina»
 p-51c-11-nt_japan_1;▅ P-51C
 p-51c-11-nt_japan_2;▅ P-51
 ki-96_shop;Ki 96 (3 Gō)
@@ -6366,6 +6366,7 @@ j7w1_2;J7W
 ki-83_shop;Ki 83
 ki-83_0;Mitsubishi Jū Kōgyō | Ki 83
 ki-83_1;Ki 83
+ki-83_2;Ki 83
 g8n1_shop;G8N1
 g8n1_0;Nakajima Hikōki | 18 Shi Rikujō Kōgekiki | Shisei Renzan | G8N1
 g8n1_1;G8N1
@@ -6374,6 +6375,10 @@ g8n2_shop;G8N2
 g8n2_0;Nakajima Hikōki | 18 Shi Rikujō Kōgekiki | Shisei Renzan Kai | G8N2
 g8n2_1;G8N2
 g8n2_2;G8N
+b-17e_japan_shop;▅ B-17E (early)
+b-17e_japan_0;▅ Boeing Airplane Company Model 299O | B-17E Flying Fortress (Sperry No. 645705-D)
+b-17e_japan_1;▅ B-17E
+b-17e_japan_2;▅ B-17
 ki_87_shop;Ki 87
 ki_87_0;Nakajima Hikōki | Ki 87
 ki_87_1;Ki 87
@@ -6401,15 +6406,15 @@ f-84g_thailand_0;Republic Aviation Corporation AP-23 | Ekhrụxng Bin Khạb L�
 f-84g_thailand_1;B.Kh.16
 f-84g_thailand_2;B.Kh.16
 r2y2_v1_shop;R2Y2-G (11 Gata)
-r2y2_v1_0;Shisei Keiun Kai 11 Gata | R2Y2-G
+r2y2_v1_0;Yokosuka Kaigun Kōshō | Shisei Keiun Kai 11 Gata | R2Y2-G
 r2y2_v1_1;R2Y2-G
 r2y2_v1_2;R2Y
 r2y2_v2_shop;R2Y2-G (22 Gata)
-r2y2_v2_0;Shisei Keiun Kai 22 Gata | R2Y2-G
+r2y2_v2_0;Yokosuka Kaigun Kōshō | Shisei Keiun Kai 22 Gata | R2Y2-G
 r2y2_v2_1;R2Y2-G
 r2y2_v2_2;R2Y
 r2y2_kai_shop;R2Y2-G (32 Gata)
-r2y2_kai_0;Shisei Keiun Kai 32 Gata | R2Y2-G
+r2y2_kai_0;Yokosuka Kaigun Kōshō | Shisei Keiun Kai 32 Gata | R2Y2-G
 r2y2_kai_1;R2Y2-G
 r2y2_kai_2;R2Y
 f-86f-30_japan_shop;▅ F-86F-30-MIT
@@ -7480,8 +7485,8 @@ la-9_china_shop;␗ Lā 9
 la-9_china_0;␗ Opytno-konstruktorskoye bûro № 301 | Lā 9 Xíng Fēijī
 la-9_china_1;␗ Lā 9
 la-9_china_2;␗ Lā 9
-il-10_1946_china_shop;␗ Yīěr 10
-il-10_1946_china_0;␗ Opytno-konstruktorskoye bûro № 39 | Yīěr 10 Xíng Fēijī
+il-10_1946_china_shop;␗ Yīěr 10 (1947)
+il-10_1946_china_0;␗ Opytno-konstruktorskoye bûro № 39 | Yīěr 10 Xíng Fēijī (1947)
 il-10_1946_china_1;␗ Yīěr 10
 il-10_1946_china_2;␗ Yīěr 10
 pb4y-2_china_shop;☀ P4Y-2
@@ -12049,10 +12054,6 @@ yak-1_early_shop;Âk-1-1
 yak-1_early_0;Âk-1 syeriâ 1
 yak-1_early_1;Âk-1
 yak-1_early_2;Âk-1
-b-17e_japan_shop;▅ B-17E (early)
-b-17e_japan_0;▅ B-17E Flying Fortress (Sperry No. 645705-D)
-b-17e_japan_1;▅ B-17
-b-17e_japan_2;▅ B-17
 buccaneer_s1_shop;Buccaneer S. Mk. 1
 buccaneer_s1_0;Buccaneer S. Mk. 1
 buccaneer_s1_1;Buccaneer S. Mk. 1

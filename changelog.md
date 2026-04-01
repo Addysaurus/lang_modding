@@ -159,6 +159,10 @@ All dates are listed in DD-MM-YYYY format.
 - ### Changes:
 
     - The **85-1 Shì 125 Háomi Chuān Jia Dàn** now actually displays correctly, instead of still displaying as **125-I** because I forgot to remove the old entry.
+    - **Flab.-Mg. 29** → **Fl.-Mg. 29**. Statcard name → **7,5 mm Flugzeug-Maschinengewehr 29**.
+    - **Flab.-D.-Mg. 29** → **Beob.-D.-Mg. 29**. Statcard name → **7,5 mm Beobachter-Doppel-Maschinengewehr 29**.
+    - **H.S.-Flz.F.Kan. 45** → **FF.-K. 45**. Statcard name → **7,5 mm Beobachter-Doppel-Maschinengewehr 29**.
+    - **H.S.-Flz.M.Kan. 45** → **FM.-K. 45**. Statcard name → **20 mm Flugzeugmotor-Kanone 45**.
 
 ### Infantry weaponry:
 

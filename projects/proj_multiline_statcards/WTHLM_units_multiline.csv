@@ -11,11 +11,26 @@ Vehicle name
 //NON-NATIONAL VEHICLES
 
 //KILLSTREAK VEHICLES
+su_24m_killstreak_shop;☢ Su-24M2
+su_24m_killstreak_0;☢ "<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-6M2</color>
+☢ Samolyet Su-24M2"
+su_24m_killstreak_1;☢ Su-24M
+su_24m_killstreak_2;☢ Su-24
+
+su_24m_china_killstreak_shop;☢␗ Su-24M2
+su_24m_china_killstreak_0;☢␗ "<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-6M2</color>
+☢␗ Samolyet Su-24M2"
+su_24m_china_killstreak_1;☢␗ Su-24M
+su_24m_china_killstreak_2;☢␗ Su-24
+
 ucav_wing_loong_i_shop;GJ1
 ucav_wing_loong_i_0;"<color=#81c3fc>Chéngdū Fēijī Gōngyè (Jítuán)</color>
 GJ1 Xíng Wúrénjī"
 ucav_wing_loong_i_1;GJ1
 ucav_wing_loong_i_2;GJ1
+
 ucav_wing_loong_i_killstreak_shop;GJ1
 ucav_wing_loong_i_killstreak_0;"<color=#81c3fc>Chéngdū Fēijī Gōngyè (Jítuán)</color>
 GJ1 Xíng Wúrénjī"
@@ -35,8 +50,104 @@ ucav_wing_loong_i_killstreak_2;GJ1
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+a_10a_early_shop;A-10A (1979)
+a_10a_early_0;"<color=#81c3fc>Fairchild Industries, Fairchild Republic Divison</color>
+A-10A Thunderbolt II ""Warthog""
+<color=#adadad>(1979)</color>"
+a_10a_early_1;A-10A
+a_10a_early_2;A-10
+
+nt_a_10a_early_shop;A-10A (1979)
+nt_a_10a_early_0;"<color=#81c3fc>Fairchild Industries, Fairchild Republic Divison</color>
+A-10A Thunderbolt II ""Warthog""
+<color=#adadad>(1979)</color>"
+nt_a_10a_early_1;A-10A
+nt_a_10a_early_2;A-10
+
+a_10a_late_shop;A-10A (1983)
+a_10a_late_0;"<color=#81c3fc>Fairchild Industries, Fairchild Republic Divison</color>
+A-10A Thunderbolt II ""Warthog""
+<color=#adadad>(1983)</color>"
+a_10a_late_1;A-10A
+a_10a_late_2;A-10
+
+a_10c_shop;A-10C
+a_10c_0;"<color=#81c3fc>Fairchild Industries, Fairchild Republic Divison <color=@commonTextColor>/</color> Lockheed Martin
+Systems Integration - Owego</color>
+A-10C Thunderbolt II ""Warthog"""
+a_10c_1;A-10C
+a_10c_2;A-10
+
+b_52h_shop;B-52H-165-BW
+b_52h_0;"<color=#81c3fc>Boeing Airplane Company Model 464-261</color>
+B-52H-165-BW Stratofortress
+<color=#adadad>(Quick Start)</color>"
+b_52h_1;B-52H
+b_52h_2;B-52
+
+nt_b_52h_shop;☢ B-52H-165-BW
+nt_b_52h_0;"<color=#81c3fc>Boeing Airplane Company Model 464-261</color>
+☢ B-52H-165-BW Stratofortress
+<color=#adadad>(Quick Start)</color>"
+nt_b_52h_1;☢ B-52H
+nt_b_52h_2;☢ B-52
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+f-4e_shop;F-4E-48-MC
+f-4e_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98HO</color>
+F-4E-48-MC Phantom II"
+f-4e_1;F-4E
+f-4e_2;F-4
+
+f_4e_event_shop;F-4E-48-MC
+f_4e_event_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98HO</color>
+F-4E-48-MC Phantom II"
+f_4e_event_1;F-4E
+f_4e_event_2;F-4
+
+nt_f_4e_shop;☢ F-4E-48-MC
+nt_f_4e_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98HO</color>
+☢ F-4E-48-MC Phantom II"
+nt_f_4e_1;☢ F-4E
+nt_f_4e_2;☢ F-4
+
+a_7d_shop;A-7D-8-CV
+a_7d_0;"<color=#81c3fc>LTV Aerospace, Vought Aeronautics Division</color>
+A-7D-8-CV Corsair II"
+a_7d_1;A-7D
+a_7d_2;A-7
+
+a_7e_shop;A-7E-4-CV
+a_7e_0;"<color=#81c3fc>LTV Aerospace, Vought Aeronautics Division</color>
+A-7E-4-CV Corsair II"
+a_7e_1;A-7E
+a_7e_2;A-7
+
+nt_a_7e_shop;A-7E-4-CV
+nt_a_7e_0;"<color=#81c3fc>LTV Aerospace, Vought Aeronautics Division</color>
+A-7E-4-CV Corsair II"
+nt_a_7e_1;A-7E
+nt_a_7e_2;A-7
+
+a_7k_shop;A-7K-CV
+a_7k_0;"<color=#81c3fc>Vought Corporation</color>
+A-7K-CV Corsair II"
+a_7k_1;A-7K
+a_7k_2;A-7
+
+a_6e_tram_shop;A-6E (TRAM)
+a_6e_tram_0;"<color=#81c3fc>Grumman Aerospace Corporation G-128S</color>
+A-6E Intruder
+<color=#adadad>(Target Recognition and Attack Multi-Sensor)</color>"
+a_6e_tram_1;A-6E
+a_6e_tram_2;A-6
+
+nt_a_6e_tram_shop;A-6E (TRAM)
+nt_a_6e_tram_0;"<color=#81c3fc>Grumman Aerospace Corporation G-128S</color>
+A-6E Intruder
+<color=#adadad>(Target Recognition and Attack Multi-Sensor)</color>"
+nt_a_6e_tram_1;A-6E
+nt_a_6e_tram_2;A-6
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_14a_iriaf_shop;☫ F14
@@ -226,8 +337,62 @@ germ_kv_1B_finland_2;▀ Heavy Tank
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+su_25t_shop;Su-25T
+su_25t_0;"<color=#81c3fc>Ulan-Udènskij aviaczionnyj zavod</color>
+<color=#5cae63>izd. T-8M</color>
+Su-25T ""Grač"""
+su_25t_1;Su-25T
+su_25t_2;Su-25
+
+nt_su_25t_shop;Su-25T
+nt_su_25t_0;"<color=#81c3fc>Ulan-Udènskij aviaczionnyj zavod</color>
+<color=#5cae63>izd. T-8M</color>
+Su-25T ""Grač"""
+nt_su_25t_1;Su-25T
+nt_su_25t_2;Su-25
+
+tu_95m_shop;Tu-95M
+tu_95m_0;"<color=#81c3fc>Zavod № 18 im. Vorošilova</color>
+<color=#5cae63>izd. VM</color>
+Samolyet Tu-95M"
+tu_95m_1;Tu-95M
+tu_95m_2;Tu-95
+
+nt_tu_95m_shop;Tu-95M
+nt_tu_95m_0;"<color=#81c3fc>Zavod № 18 im. Vorošilova</color>
+<color=#5cae63>izd. VM</color>
+Samolyet Tu-95M"
+nt_tu_95m_1;Tu-95M
+nt_tu_95m_2;Tu-95
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+mig_23mld_shop;MiG-23MLD
+mig_23mld_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye</color>
+<color=#5cae63>izd. 23-18</color>
+MiG-23MLD"
+mig_23mld_1;MiG-23MLD
+mig_23mld_2;MiG-23
+
+nt_mig_23mld_shop;MiG-23MLD
+nt_mig_23mld_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye</color>
+<color=#5cae63>izd. 23-18</color>
+MiG-23MLD"
+nt_mig_23mld_1;MiG-23MLD
+nt_mig_23mld_2;MiG-23
+
+su_24m_shop;Su-24M2
+su_24m_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-6M2</color>
+Samolyet Su-24M2"
+su_24m_1;Su-24M
+su_24m_2;Su-24
+
+nt_su_24m_shop;☢ Su-24M2
+nt_su_24m_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-6M2</color>
+☢ Samolyet Su-24M2"
+nt_su_24m_1;☢ Su-24M
+nt_su_24m_2;☢ Su-24
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 

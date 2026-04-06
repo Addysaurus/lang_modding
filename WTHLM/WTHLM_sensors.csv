@@ -193,6 +193,12 @@ weapons/su_t_220_targeting_pod;T-220
 weapons/su_t_220_targeting_pod/short;T-220
 weapons/su_apk_9;Agryegat počvoobrabatyvaûŝij kombinirovannyj APK-9 <color=#ff6f00>TGP-EO</color>
 weapons/su_apk_9/short;APK-9
+weapons/su_phantasmagoria_a;"Kontyejnyernaâ L-080 ""Fantasmagoriâ-A"" <color=#ff6f00>TGP-RG</color>"
+weapons/su_phantasmagoria_a/short;L-080
+weapons/su_phantasmagoria_b_beck;"Kontyejnyernaâ L-081 ""Fantasmagoriâ-B"" <color=#ff6f00>TGP-RG</color>"
+weapons/su_phantasmagoria_b_beck/short;L-081
+weapons/su_phantasmagoria_b_front;"Kontyejnyernaâ L-081 ""Fantasmagoriâ-B"" <color=#ff6f00>TGP-RG</color>"
+weapons/su_phantasmagoria_b_front/short;L-081
 weapons/jp_i_aaq2_targeting_pod;J/AAQ-2 <color=#ff6f00>TGP-IR</color>
 weapons/jp_i_aaq2_targeting_pod/short;J/AAQ-2
 weapons/cn_k_pzs_01_targeting_pod;K/PZS01 Xíng Zhòuyè Miáozhun Diào Cāng <color=#ff6f00>TGP-LG/EO</color>
@@ -211,6 +217,8 @@ counterMeasures/l_370v28_5l;L-370-5L <color=#ff6f00>CM-DIR</color>
 counterMeasures/cn_z_10me;LDIRCM
 weapons/countermeasure_chaff_only_large_a32a;BOX-3 <color=#ff6f00>CM-CHF</color>
 weapons/countermeasure_chaff_only_large_a32a/short;BOX-3
+weapons/countermeasure_split_launcher_am_23;<color=@userlogColoredText>23 mm</color> Countermeasures
+weapons/countermeasure_split_launcher_am_23/short;Flares / Chaff
 
 //ACTIVE PROTECTION SYSTEMS
 aps/drozd;Komplyeks aktivnoj zaŝity 1030M-01 «Drozd»

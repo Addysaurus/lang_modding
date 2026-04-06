@@ -96,6 +96,7 @@ weapons/350mm_45_skl_45_naval_user_cannon;<color=@userlogColoredText>350 mm</col
 //USSR GUNS
 weapons/gun_pk3l;<color=@userlogColoredText>7.62 mm</color> 6P6 | PK <color=#ff6f00>MG</color>
 weapons/gun_pk3/shortl;PK
+weapons/cannon_am23_tu_95_turret;<color=@userlogColoredText>23 mm</color> 9-A-037 | 23-mm sistyema oboronityel'nogo pušyečnogo vooružyeniâ PV-23-Tu-95 <color=#ff6f00>ACNN</color>
 weapons/7_62mm_KT_user_machinegun;<color=@userlogColoredText>7.62 mm</color> KT-7,62 <color=#ff6f00>MG</color>
 weapons/12_7mm_KT_user_cannon;<color=@userlogColoredText>12.7 mm</color> KT-12,7 <color=#ff6f00>MG</color>
 weapons/25mm_79_110pm_naval_user_cannon;"Artillyerijskaâ ustanovka BL-120-I
@@ -454,12 +455,24 @@ weapons/us_500lb_gbu_62_jdam_er;<color=@userlogColoredText>289.72 kg</color> Bom
 weapons/us_500lb_gbu_62_jdam_er/short;GBU-62(V)1/B
 weapons/us_500lb_gbu_62_ljdam_er;<color=@userlogColoredText>289.72 kg</color> Bomb, Guided, GBU-62(V)1/B Laser Joint Direct Attack Munition Extended Range <color=#ff6f00>BMB-GNSS/LG</color>
 weapons/us_500lb_gbu_62_ljdam_er/short;GBU-62(V)1/B LJDAM-ER
+weapons/us_750lb_m117_cone_90;<color=@userlogColoredText>362.42 kg</color> Bomb, 750lb, GP, M117 <color=#ff6f00>BMB</color>
+weapons/us_750lb_m117_cone_90/short;M117
 weapons/us_agm_154a1_jsow;<color=@userlogColoredText>497 kg</color> Air-Launched, Surface-Attack, Guided Missile, AGM-154A-1 Joint Standoff Weapon <color=#ff6f00>BMB-GNSS</color>
 weapons/us_agm_154a1_jsow/short;AGM-154A-1
 weapons/us_2000lb_gbu_64_jdam_er;<color=@userlogColoredText>987 kg</color> Bomb, Guided, GBU-64(V)1/B Joint Direct Attack Munition Extended Range <color=#ff6f00>BMB-GNSS</color>
 weapons/us_2000lb_gbu_64_jdam_er/short;GBU-64(V)1/B
-weapons/us_b61;<color=@userlogColoredText>996.3 kg</color> ☢ Bomb, 2000lb, B61 Mod 8 <color=#ff6f00>BMB-ATM</color>
+weapons/us_b61;<color=@userlogColoredText>996.3 kg</color> ☢ B61 Mod 8 <color=#ff6f00>BMB-ATM</color>
 weapons/us_b61/short;☢ B61-8
+weapons/us_b61_5kt;<color=@userlogColoredText>5 kt</color> ☢ B61 Mod 10 <color=#ff6f00>BMB-ATM</color>
+weapons/us_b61_5kt/short;☢ B61-10 (5 kt)
+weapons/us_b61_30kt;<color=@userlogColoredText>30 kt</color> ☢ B61 Mod 8 <color=#ff6f00>BMB-ATM</color>
+weapons/us_b61_30kt/short;☢ B61-8 (30 kt)
+weapons/us_b28;<color=@userlogColoredText>1.45 mt</color> ☢ B28Y5 <color=#ff6f00>BMB-ATM</color>
+weapons/us_b28/short;☢ B28Y5
+weapons/us_b28_ang45;<color=@userlogColoredText>1.45 mt</color> ☢ B28Y5 <color=#ff6f00>BMB-ATM</color>
+weapons/us_b28_ang45/short;☢ B28Y5
+weapons/us_b83;<color=@userlogColoredText>1.2 mt</color> ☢ B83 <color=#ff6f00>BMB-ATM</color>
+weapons/us_b83/short;☢ B83
 weapons/us_3000lb_m118;<color=@userlogColoredText>1369.8 kg</color> Bomb, 3000lb, GP, M118 <color=#ff6f00>BMB</color>
 weapons/us_3000lb_m118/short;M118
 weapons/us_3000lb_m118_90;<color=@userlogColoredText>1369.8 kg</color> Bomb, 3000lb, GP, M118 <color=#ff6f00>BMB</color>
@@ -500,8 +513,14 @@ weapons/su_grom_e2;"9-A1-7759 | Planiruûŝij upravlâyemyj boyepripas Kh-36 ""G
 weapons/su_grom_e2/short;"Kh-36 ""Grom-È2"""
 weapons/su_upab_1500b_e;<color=@userlogColoredText>1525 kg</color> K029BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-1500B-È <color=#ff6f00>BMB-GNSS</color>
 weapons/su_upab_1500b_e/short;UPAB-1500B-È
-weapons/su_rn_28;<color=@userlogColoredText>2983 kg</color> ☢ izd. 28 | RN-28 <color=#ff6f00>BMB-ATM</color>
+weapons/su_rn_28;<color=@userlogColoredText>2983 kg</color> ☢ Aviaczionnaâ bomba so spyeczial'noj boyevoj čast'û RN-28 <color=#ff6f00>BMB-ATM</color>
 weapons/su_rn_28/short;☢ RN-28
+weapons/su_rn_28_nt;<color=@userlogColoredText>5 kt</color> ☢ Aviaczionnaâ bomba so spyeczial'noj boyevoj čast'û RN-28 <color=#ff6f00>BMB-ATM</color>
+weapons/su_rn_28_nt/short;☢ RN-28
+weapons/su_rn_40;<color=@userlogColoredText>30 kt</color> ☢ Aviaczionnaâ bomba so spyeczial'noj boyevoj čast'û RN-40 <color=#ff6f00>BMB-ATM</color>
+weapons/su_rn_40/short;☢ RN-40
+weapons/su_rds37;<color=@userlogColoredText>1.6 mt</color> ☢ Spyeczial'naâ boyevaâ čast' RDS-37 <color=#ff6f00>BMB-ATM</color>
+weapons/su_rds37/short;☢ RDS-37
 
 //UK BOMBS
 weapons/uk_230lbs;<color=@userlogColoredText>90.7 kg</color> Bomb, H.E., R.F.C., 230-lb, Mk. III <color=#ff6f00>BMB</color>
@@ -772,8 +791,12 @@ weapons/178mm_sl_amraam_user_cannon;Surface-Launched Advanced Medium-Range Air-t
 weapons/127mm_aim_9x_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2) <color=#ff6f00>LCH</color>
 weapons/178mm_nasams_user_cannon;Norwegian Advanced Surface-to-Air Missile System 3 <color=#ff6f00>LCH</color>
 us_amraam_er;AMRAAM-ER
+weapons/us_agm_45b_10;Air-Launched, Surface-Attack, Guided Missile, AGM-45B-10 Shrike <color=#ff6f00>AGM-RG</color>
+weapons/us_agm_45b_10/short;AGM-45B-10
 weapons/us_agm_84h_slam_er;Air-Launched, Surface-Attack, Guided Missile, AGM-84H-1 Standoff Land Attack Missile Expanded Response <color=#ff6f00>AGM-IR/GNSS</color>
 weapons/us_agm_84h_slam_er/short;AGM-84H-1
+weapons/us_agm_88a;Air-Launched, Surface-Attack, Guided Missile, AGM-88A High-Speed Anti-Radiation Missile <color=#ff6f00>AGM-RG</color>
+weapons/us_agm_88a/short;AGM-88A
 weapons/us_hellfire_agm_114_b;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
 weapons/us_hellfire_agm_114_b/short;AGM-114B
 weapons/us_hellfire_agm_114_b_default;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
@@ -842,12 +865,34 @@ weapons/su_rvv_sd;Aviaczionnaâ upravlâyemaâ rakyeta RVV-SD <color=#ff6f00>AAM
 weapons/su_rvv_sd/short;RVV-SD
 weapons/su_rvv_sd_default;Aviaczionnaâ upravlâyemaâ rakyeta RVV-SD <color=#ff6f00>AAM-ARH</color>
 weapons/su_rvv_sd_default/short;RVV-SD
+weapons/su_kh_25mp;izd. 711 | Upravlâyemaâ rakyeta Kh-25MP (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-1VP) <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_25mp/short;Kh-25MP (PGRS-1VP)
+weapons/su_kh_25mp_cw;izd. 712 | Upravlâyemaâ rakyeta Kh-25MP (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-2VP) <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_25mp_cw/short;Kh-25MP (PGRS-2VP)
+weapons/su_kh_25mpu;Upravlâyemaâ rakyeta Kh-25MPU <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_25mpu/short;Kh-25MPU
+weapons/su_kh_27ps;izd. 721 | Upravlâyemaâ rakyeta Kh-27PS (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-1VP) <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_27ps/short;Kh-27PS (PGRS-1VP)
+weapons/su_kh_27ps_cw;izd. 722 | Upravlâyemaâ rakyeta Kh-27PS (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-2VP) <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_27ps_cw/short;Kh-27PS (PGRS-2VP)
 weapons/su_grom_1;"9-A-7759 | Upravlâyemaâ rakyeta Kh-36 ""Grom-È1"" <color=#ff6f00>AGM-GNSS</color>"
 weapons/su_grom_1/short;"Kh-36 ""Grom-È1"""
 weapons/su_kh_38mle;Upravlâyemaâ rakyeta Kh-38MLÈ <color=#ff6f00>AGM-LG/GNSS</color>
 weapons/su_kh_38mle/short;Kh-38MLÈ
 weapons/su_kh_38mte;Upravlâyemaâ rakyeta Kh-38MTÈ <color=#ff6f00>AGM-IR/GNSS</color>
 weapons/su_kh_38mte/short;Kh-38MTÈ
+weapons/su_kh_58u_a_band;izd. 112U | Upravlâyemaâ rakyeta Kh-58U <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_58u_a_band/short;Kh-58U
+weapons/su_kh_58u_a_band_cw;izd. 112U | Upravlâyemaâ rakyeta Kh-58U <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_58u_a_band_cw/short;Kh-58U
+weapons/su_kh_58u_b_band;izd. 112U | Upravlâyemaâ rakyeta Kh-58U <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_58u_b_band/short;Kh-58U
+weapons/su_kh_58u_c_band;izd. 112U | Upravlâyemaâ rakyeta Kh-58U <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_58u_c_band/short;Kh-58U
+weapons/su_kh_58ushk;izd. 112U | Upravlâyemaâ rakyeta Kh-58UŠK <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_58ushk/short;Kh-58UŠK
+weapons/su_kh_59;izd. D-9 | Upravlâyemaâ rakyeta Kh-59 <color=#ff6f00>AGM-EO</color>
+weapons/su_kh_59/short;Kh-59
 weapons/su_kh_59m;"izd. D-9M | Upravlâyemaâ rakyeta Kh-59M ""Ovod-M"" <color=#ff6f00>AGM-EO</color>"
 weapons/su_kh_59m/short;Kh-59M
 weapons/su_kh_59me;"izd. D-9MÈ | Upravlâyemaâ rakyeta Kh-59MÈ ""Ovod-MÈ"" <color=#ff6f00>AGM-EO</color>"

@@ -248,6 +248,11 @@ All dates are listed in DD-MM-YYYY format.
     - **Kh-58UShK**
     - **Kh-59**
     - **M117 750 lb**
+    - **M117 AIR 750 lb**
+    - **MK84 2000 lb**
+    - **PBXN-107** (explosive type)
+    - **FAB-5000M-54**
+    - **FAB-9000**
 
 - #### Changes:
 
@@ -271,6 +276,10 @@ All dates are listed in DD-MM-YYYY format.
     - **Kh-58UShK** → **Kh-58UŠK**. Statcard name → **izd. 112U | Upravlâyemaâ rakyeta Kh-58UŠK**.
     - **Kh-59**: Statcard name → **izd. D-9 | Upravlâyemaâ rakyeta Kh-59**.
     - **M117 750 lb** → **M117**. Statcard name → **Bomb, 750lb, GP, M117**.
+    - **M117 AIR 750 lb** → **M117 (MAU-91A/B)**. Statcard name → **Bomb, 750lb, GP, M117 (MAU-91A/B)**.
+    - **MK84 2000 lb** → **Mk 84 Mod 0**. Statcard name → **Bomb, 2000lb, GP, Mk 84 Mod 0**.
+    - **FAB-5000M-54**: Statcard name → **5000-kg aviabomba FAB-5000M-54**.
+    - **FAB-9000**: Statcard name → **9000-kg aviabomba FAB-9000**.
     - The **85-1 Shì 125 Háomi Chuān Jia Dàn** now actually displays correctly, instead of still displaying as **125-I** because I forgot to remove the old entry.
     - **Flab.-Mg. 29** → **Fl.-Mg. 29**. Statcard name → **7,5 mm Flugzeug-Maschinengewehr 29**.
     - **Flab.-D.-Mg. 29** → **Beob.-D.-Mg. 29**. Statcard name → **7,5 mm Beobachter-Doppel-Maschinengewehr 29**.

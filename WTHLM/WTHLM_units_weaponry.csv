@@ -457,10 +457,14 @@ weapons/us_500lb_gbu_62_ljdam_er;<color=@userlogColoredText>289.72 kg</color> Bo
 weapons/us_500lb_gbu_62_ljdam_er/short;GBU-62(V)1/B LJDAM-ER
 weapons/us_750lb_m117_cone_90;<color=@userlogColoredText>362.42 kg</color> Bomb, 750lb, GP, M117 <color=#ff6f00>BMB</color>
 weapons/us_750lb_m117_cone_90/short;M117
+weapons/us_750lb_m117_air;<color=@userlogColoredText>362.42 kg</color> Bomb, 750lb, GP, M117 (MAU-91A/B) <color=#ff6f00>BMB</color>
+weapons/us_750lb_m117_cone_90/short;M117 (MAU-91A/B)
 weapons/us_agm_154a1_jsow;<color=@userlogColoredText>497 kg</color> Air-Launched, Surface-Attack, Guided Missile, AGM-154A-1 Joint Standoff Weapon <color=#ff6f00>BMB-GNSS</color>
 weapons/us_agm_154a1_jsow/short;AGM-154A-1
 weapons/us_2000lb_gbu_64_jdam_er;<color=@userlogColoredText>987 kg</color> Bomb, Guided, GBU-64(V)1/B Joint Direct Attack Munition Extended Range <color=#ff6f00>BMB-GNSS</color>
 weapons/us_2000lb_gbu_64_jdam_er/short;GBU-64(V)1/B
+weapons/us_2000lb_mk_84_ldgp_cone_90;<color=@userlogColoredText>893.6 kg</color> Bomb, 2000lb, GP, Mk 84 Mod 0 <color=#ff6f00>BMB</color>
+weapons/us_2000lb_mk_84_ldgp_cone_90/short;Mk 84 Mod 0
 weapons/us_b61;<color=@userlogColoredText>996.3 kg</color> ☢ B61 Mod 8 <color=#ff6f00>BMB-ATM</color>
 weapons/us_b61/short;☢ B61-8
 weapons/us_b61_5kt;<color=@userlogColoredText>5 kt</color> ☢ B61 Mod 10 <color=#ff6f00>BMB-ATM</color>
@@ -513,6 +517,10 @@ weapons/su_grom_e2;"9-A1-7759 | Planiruûŝij upravlâyemyj boyepripas Kh-36 ""G
 weapons/su_grom_e2/short;"Kh-36 ""Grom-È2"""
 weapons/su_upab_1500b_e;<color=@userlogColoredText>1525 kg</color> K029BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-1500B-È <color=#ff6f00>BMB-GNSS</color>
 weapons/su_upab_1500b_e/short;UPAB-1500B-È
+weapons/su_fab5000_m54;<color=@userlogColoredText>5247 kg</color> 5000-kg aviabomba FAB-5000M-54 <color=#ff6f00>BMB</color>
+weapons/su_fab5000_m54/short;FAB-5000M-54
+weapons/su_fab9000;<color=@userlogColoredText>9407 kg</color> 9000-kg aviabomba FAB-9000 <color=#ff6f00>BMB</color>
+weapons/su_fab9000/short;FAB-9000
 weapons/su_rn_28;<color=@userlogColoredText>2983 kg</color> ☢ Aviaczionnaâ bomba so spyeczial'noj boyevoj čast'û RN-28 <color=#ff6f00>BMB-ATM</color>
 weapons/su_rn_28/short;☢ RN-28
 weapons/su_rn_28_nt;<color=@userlogColoredText>5 kt</color> ☢ Aviaczionnaâ bomba so spyeczial'noj boyevoj čast'û RN-28 <color=#ff6f00>BMB-ATM</color>
@@ -1498,6 +1506,7 @@ explosiveType/dhl_1;DHL1
 explosiveType/nipolit;Nipolit
 explosiveType/pbxn_9;PBXN-9
 explosiveType/xp3264;XP3264
+explosiveType/pbxn_107;PBXN-107
 
 //UNCATEGORIZED
 weapons/cannonMGC30L;20 mm MG C/30L cannon

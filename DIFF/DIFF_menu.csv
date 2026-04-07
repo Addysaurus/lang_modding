@@ -16,8 +16,14 @@ crew/qualifyBonuses/total;Next qualification: {wantedQualify} increases all crew
 crew/qualifyBonuses/qualifyDesc;The {wantedQualify} qualification gives a bonus of {bonusValue} to all crew skills{asterisk} for this vehicle.
 userlog/award_tip_col/killed_crew_percent;Crew losses
 userlog/award_tip_col/naval_damage;⋩ (damage)
+mainmenu/armored_vehicles;Armored Vehicles
+mainmenu/air_defense;Air Defense
+mainmenu/ground_facilities;Ground Facilities
+mainmenu/supply;Supply
 mainmenu/type_drone;UAV
 armor_class/tank_snowball_steel;Rolled homogeneous armor
+cluster/infantry_cbt_private;EU
+cluster/infantry_cbt_private/full;European Union
 msgbox/linkCopied/disabledSecondAndThirdStageForVessels;"Invite your friends to join War Thunder!
 Share the link below with your friends on social media and get:
 
@@ -67,6 +73,7 @@ respawn/randomUnitWarning;This vehicle is given to you for the current mission a
 respawn/randomUnitHint;– a random vehicle given for the current mission.
 respawn/randomUnitsList;Selected randomly from the list:
 respawn/squadSpawnBlocked;Squadmate is unavailable
+armor_class/glass135;Bulletproof glass 155 mm
 armor_class/armor3_5;Steel 3.5 mm
 armor_meterial/material;Material
 armor_meterial/thickness_rha;Equivalent armor thickness (RHA)
@@ -91,6 +98,17 @@ workshop/wtcs_trophy_3;WTCS Esports Trophy III
 workshop/spearhead;Spearhead
 workshop/line_of_contact;Line of Contact
 workshop/wtcs_trophy_4;WTCS Esports Trophy IV
+workshop/ninth_wave;Ninth Wave
+sound_mods_force_disabled;"Temporary Disabling Sound Modifications
+
+We continue to actively develop the game’s audio, adding new features and improving sound quality. Due to these changes, some sound modifications have become incompatible with the current client version, leading to an increase in errors and crashes. To ensure a predictable and stable experience for all players, we’ve temporarily disabled support for sound modifications in War Thunder.
+
+We value the community and mod authors and intend to maintain the ability to create and use sound modifications as an important part of the game. We have a publicly available official sound project for modding, and we are already working on:
+
+ - A mechanism for evaluating the compatibility and functionality of sound modifications
+ - A separate guide for creating sound modifications for the current version and structure of the FMOD audio project: bank sets, routing, parameters/events, etc. This guide will help you improve the compatibility of your modifications with the game, making them more stable and less likely to impact game performance.
+
+As soon as these tools are ready, support for sound modifications will be re-enabled. Thank you for your understanding and support"
 userlog/no_reward_and_compensation_due_to_inactivity;You did not take any active actions in this battle, so no rewards, compensation of expenses, and achievement progress have been awarded for it.
 collection/camo_trophy_2025;"""Game updates (2024-2025)"" decals"
 collection/winter_concert_2026;"""Winter Concert 2025-26"" decals"
@@ -128,6 +146,7 @@ loading_bg/login_layer_ship_marathon_oklakhoma;USS Oklakhoma
 loading_bg/login_layer_j_15t;J-15T
 loading_bg/login_layer_hungarian_aircrafts;Royal Hungarian Air Force
 loading_bg/login_layer_armoured_fighting_vehicles;Armoured fighting vehicles
+loading_bg/login_layer_nuclear_thunder_tu_95m;Tu-95M
 msgbox/steam/rate_review_short;Tell other players why you like War Thunder!
 item/cardicon_tanker_us_trophy;"""US Tankers"" Profile Icons"
 item/cardicon_tanker_ger_trophy;"""German Tankers"" Profile Icons"
@@ -173,6 +192,10 @@ profile_header_xf5u/name;XF5U
 profile_header_cas/name;Close Air Support
 profile_header_moon_santa/name;Christmas night
 profile_header_iwo_jima_landing/name;Landing Zone: Iwo Jima
+profile_header_operation_vulcan/name;Operation Vulcan
+profile_header_tu_95m/name;Tu-95M
+profile_header_veteran/name;Battle Veteran
+profile_header_winterwarrior/name;Winter Warrior
 frame_wooden_silver_insert_cherry/name;Wooden with silver insert, cherry
 frame_wooden_silver_insert_grey/name;Wooden with silver insert, grey
 frame_wooden_silver_insert_pine/name;Wooden with silver insert, pine
@@ -204,6 +227,8 @@ frame_thunder_ammo_box/name;Thunder Ammo Box
 frame_ny_2026/name;Spruce garland
 frame_gold_vintage/name;Royal Gold
 frame_tank_football_2026/name;Tank Football — Champion 2026
+frame_veteran/name;Battle Veteran
+frame_winterwarrior/name;Winter Warrior
 tooltip/pinWeaponSelector;Pin selector
 tooltip/unpinWeaponSelector;Unpin selector
 tooltip/bulletBeltSelectRequired;To use this belt, you need to install the armament:
@@ -339,3 +364,5 @@ infantry/speed/fast;Fast
 infantry/speed/normal;Normal
 infantry/speed/slow;Slow
 infantry/speed/very_slow;Very slow
+bombProperties/destroyOutherRadius;Maximum damage radius
+bombProperties/totalDestructionRadius;Total destruction radius

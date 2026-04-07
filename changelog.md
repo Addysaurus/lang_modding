@@ -345,6 +345,42 @@ All dates are listed in DD-MM-YYYY format.
     - **Phantasmagoria-B** → **L-081**. Statcard name → **Kontyejnyernaâ L-081 "Fantasmagoriâ-B"**.
     - **AN/MPQ-64 Sentinel** → **Radar Set, AN/MPQ-64 Sentinel**.
 
+### Engines:
+
+- #### Additions:
+    
+    - **TF33-P-3**
+    - **Kuznezov** (manufacturer)
+    - **NK-12M**
+
+- #### Changes:
+
+    - **Kuznezov** (manufacturer) → **Gosudarstvyennyj Soûznyj opytnyj zavod № 276**.
+    - **NK-12M** → **Motor NK-12M**.
+
+### Sensors:
+
+- #### Additions:
+    
+    - **AN/MPQ-61**
+    - **Phantasmagoria-A**
+    - **Phantasmagoria-B**
+    - **StrikeShield**
+
+- #### Changes:
+
+    - **AN/MPQ-61** → **Radar Set, High Power, AN/MPQ-61**.
+    - **Phantasmagoria-A** → **L-080**. Statcard name → **Kontyejnyernaâ L-080 "Fantasmagoriâ-A"**. I hate this thing, it drives me crazy, and it has cost me so much time that idc anymore. It'll get redone later.
+    - **Phantasmagoria-B** → **L-081**. Statcard name → **Kontyejnyernaâ L-081 "Fantasmagoriâ-B"**.
+    - **AN/MPQ-64 Sentinel** → **Radar Set, AN/MPQ-64 Sentinel**.
+
+### Loading screens:
+
+- #### Additions:
+    
+    - **Tu-95M** (loading screen)
+    - **Tu-95M** (profile header)
+
 ## 1.17.00 - 23-03-2026
 
 This update completely reworks every Israeli vehicle and weapon in the game. New Hebrew and Hebrew-Russian combination packages have been introduced, as well as a new Full Ammunition Names Ukrainian package. Additionally, all Hungarian WWII aircraft have been reworked. I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu) for help with this. It would not have been possible without him.

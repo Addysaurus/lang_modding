@@ -95,6 +95,7 @@ engine_manufacturer/isotta_fraschini;Manufacturer: Isotta Fraschini
 engine_manufacturer/weiss_manfred;Manufacturer: Société des moteurs Gnome et Rhône / Weiss Manfréd Acél- és Fémművek
 engine_manufacturer/scania_vabis;Manufacturer: Scania-Vabis
 transmission_manufacturer/z_f;Manufacturer: ZF Friedrichshafen
+engine_manufacturer/kuznezov;Manufacturer: Gosudarstvyennyj Soûznyj opytnyj zavod № 276
 
 //ENGINES
 engine_model/jumo004d;"
@@ -1462,6 +1463,9 @@ engine_model/r-1820-72w;"
 Engine model: R-1820-72W Cyclone"
 
 //USA ENGINES
+engine_model/tf33_p_3;"
+Engine model: TF33-P-3"
+
 engine_model/f100_pw_200;"
 Engine model: F100-PW-200"
 
@@ -1475,6 +1479,9 @@ Engine model: 6R 106 TD21"
 //USSR ENGINES
 engine_model/vk_105ra;"
 Engine model: Motor VK-105RA"
+
+engine_model/nk-12m;"
+Engine model: Motor NK-12M"
 
 //CHINA ENGINES
 engine_model/wj-6;"

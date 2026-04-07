@@ -35,6 +35,7 @@ avionics_sensor_lws/desc;Laser Warning Receiver
 avionics_sensor_mlws/des;Missile approach warning system
 avionics_aim_spi/desc;Aiming point for the selected weapon
 avionics_hmd/desc;Helmet Mounted Sight
+avionics_sensor_arm;ARM
 avionics_aim_laser_designator/desc;Laser designator
 CCIP/desc;Constantly computed impact point for the selected weapon
 sight_AUTO/desc;Ballistic computer for cannon weapons for air-to-air mod
@@ -224,6 +225,7 @@ weapons/countermeasure_split_launcher_am_23/short;Flares / Chaff
 aps/drozd;Komplyeks aktivnoj zaŝity 1030M-01 «Drozd»
 aps/arena_3;Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»
 aps/arena_m;Komplyeks aktivnoj zaŝity T09-A6-1 «Aryena-M»
+aps/amap_ads;StrikeShield
 aps/iron_fist_ld;Iron Fist Light Decoupled
 
 //LWSs

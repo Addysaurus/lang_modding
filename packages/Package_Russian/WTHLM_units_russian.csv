@@ -1,5 +1,32 @@
 <ID|readonly|noverify>;<English>
 //USSR AI UNITS
+ussr_ai_aew_radar_55j6_0;Радиолокационная станция 55Ж6 «Небо»
+ussr_ai_aew_radar_55j6_1;55Ж6
+ussr_ai_aew_radar_55j6_2;Radar
+ussr_ai_sam_radar_5n64s_0;Радиолокатор обнаружения 5Н64С
+ussr_ai_sam_radar_5n64s_1;5Н64С
+ussr_ai_sam_radar_5n64s_2;Radar
+ussr_ai_sam_radar_5n63s_0;Командный пункт 5Н63С
+ussr_ai_sam_radar_5n63s_1;5Н63С
+ussr_ai_sam_radar_5n63s_2;Radar
+ussr_ai_sam_radar_9s18_0;Станция обнаружения и целеуказания 9С18 «Купол»
+ussr_ai_sam_radar_9s18_1;9С18
+ussr_ai_sam_radar_9s18_2;Radar
+ussr_ai_mlrs_9a52_2_smerch_0;Боевая машина 9А52-2 «Смерч-М»
+ussr_ai_mlrs_9a52_2_smerch_1;9А52-2
+ussr_ai_mlrs_9a52_2_smerch_2;MLRS
+ussr_ai_tbm_9k79_tochka_0;Тактический ракетный комплекс 9К79 «Точка»
+ussr_ai_tbm_9k79_tochka_1;9К79
+ussr_ai_tbm_9k79_tochka_2;TBM
+ussr_ai_sam_launcher_5p85se_0;Самоходная огневая установка 5П85С
+ussr_ai_sam_launcher_5p85se_1;5П85С
+ussr_ai_sam_launcher_5p85se_2;SPAAM
+ussr_ai_sam_launcher_9a310_0;Самоходная огневая установка 9А310 «Бук»
+ussr_ai_sam_launcher_9a310_1;9А310
+ussr_ai_sam_launcher_9a310_2;SPAAM
+wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;КАМАЗ-4310
+wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_1;КАМАЗ-4310
+wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_2;Transport
 ships/ussr_aircraftcarrier_admiral_kuznetsov_shop;Адмирал Флота Советского Союза Кузнецов
 ships/ussr_aircraftcarrier_admiral_kuznetsov_0;Черноморский судостроительный завод | Тяжёлый Авианесущий Крейсер Проект 1143.5 Кречет | Адмирал Флота Советского Союза Кузнецов
 ships/ussr_aircraftcarrier_admiral_kuznetsov_1;Адмирал Флота Советского Союза Кузнецов
@@ -11,11 +38,16 @@ ussr_aircraftcarrier_admiral_kuznetsov_2;Destroyer
 
 //USSR KILLSTREAK UNITS
 su_24m_killstreak_shop;☢ Су-24М2
-su_24m_killstreak_0;☢ Компания «Сухой» | изд. Т-6М2 | Самолет Су-24М2
+su_24m_killstreak_0;"<color=#81c3fc>Компания «Сухой»</color>
+<color=#5cae63>изд. Т-6М2</color>
+☢ Самолет Су-24М2"
 su_24m_killstreak_1;☢ Су-24М
 su_24m_killstreak_2;☢ Су-24
+
 su_24m_china_killstreak_shop;␗☢ Су-24М2
-su_24m_china_killstreak_0;␗☢ Компания «Сухой» | изд. Т-6М2 | Самолет Су-24М2
+su_24m_china_killstreak_0;"<color=#81c3fc>Компания «Сухой»</color>
+<color=#5cae63>изд. Т-6М2</color>
+␗☢ Самолет Су-24М2"
 su_24m_china_killstreak_1;␗☢ Су-24М
 su_24m_china_killstreak_2;␗☢ Су-24
 
@@ -80,6 +112,33 @@ la_174_1;174
 la_174_2;174
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+su_25t_shop;Su-25T
+su_25t_0;"<color=#81c3fc>Улан-Удэнский авиационный завод</color>
+<color=#5cae63>изд. Т-8М</color>
+Самолет Су-25Т «Грач»"
+su_25t_1;Su-25T
+su_25t_2;Su-25
+
+nt_su_25t_shop;Su-25T
+nt_su_25t_0;"<color=#81c3fc>Улан-Удэнский авиационный завод</color>
+<color=#5cae63>изд. Т-8М</color>
+Самолет Су-25Т «Грач»"
+nt_su_25t_1;Su-25T
+nt_su_25t_2;Su-25
+
+tu_95m_shop;Ту-95М
+tu_95m_0;"<color=#81c3fc>Завод № 18 им. Ворошилова</color>
+<color=#5cae63>изд. ВМ</color>
+Самолет Ту-95М"
+tu_95m_1;Ту-95М
+tu_95m_2;Ту-95
+
+nt_tu_95m_shop;☢ Ту-95М
+nt_tu_95m_0;"<color=#81c3fc>Завод № 18 им. Ворошилова</color>
+<color=#5cae63>изд. ВМ</color>
+☢ Самолет Ту-95М"
+nt_tu_95m_1;☢ Ту-95М
+nt_tu_95m_2;☢ Ту-95
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 mig-21_bis_shop;МиГ-21бис
@@ -90,10 +149,35 @@ mig-21_bis_event_shop;МиГ-21бис
 mig-21_bis_event_0;Московский машиностроительный завод им. А. И. Микояна | изд. 75 | Самолет МиГ-21бис
 mig-21_bis_event_1;МиГ-21бис
 mig-21_bis_event_2;МиГ-21
+
+mig_23mld_shop;МиГ-23МЛД
+mig_23mld_0;"<color=#81c3fc>Московское авиационное производственное объединение</color>
+<color=#5cae63>изд. 23-18</color>
+Самолет МиГ-23МЛД"
+mig_23mld_1;МиГ-23МЛД
+mig_23mld_2;МиГ-23
+
+nt_mig_23mld_shop;МиГ-23МЛД
+nt_mig_23mld_0;"<color=#81c3fc>Московское авиационное производственное объединение</color>
+<color=#5cae63>изд. 23-18</color>
+Самолет МиГ-23МЛД"
+nt_mig_23mld_1;МиГ-23МЛД
+nt_mig_23mld_2;МиГ-23
+
 su_24m_shop;Су-24М2
-su_24m_0;Компания «Сухой» | изд. Т-6М2 | Самолет Су-24М2
+su_24m_0;"<color=#81c3fc>Компания «Сухой»</color>
+<color=#5cae63>изд. Т-6М2</color>
+Самолет Су-24М2"
 su_24m_1;Су-24М
 su_24m_2;Су-24
+
+nt_su_24m_shop;Су-24М2
+nt_su_24m_0;"<color=#81c3fc>Компания «Сухой»</color>
+<color=#5cae63>изд. Т-6М2</color>
+Самолет Су-24М2"
+nt_su_24m_1;Су-24М
+nt_su_24m_2;Су-24
+
 mig_25pd_shop;МиГ-25ПД
 mig_25pd_0;Московский машиностроительный завод «Зенит» | изд. 84Д | Самолет МиГ-25ПД
 mig_25pd_1;МиГ-25ПД
@@ -331,11 +415,11 @@ ussr_t_72b3_arena_0;Уральский вагоностроительный за
 ussr_t_72b3_arena_1;Т-72Б3
 ussr_t_72b3_arena_2;MBT
 ussr_buk_m3_launcher_shop;9А317М
-ussr_buk_m3_launcher_0;Научно-исследовательский институт приборостроения им. В. В. Тихомирова (НИИП) | Радиолокационная станция обнаружения цели 9А317М «Бук-М3»
+ussr_buk_m3_launcher_0;Научно-исследовательский институт приборостроения им. В. В. Тихомирова (НИИП) | Самоходная огневая установка 9А317М «Бук-М3»
 ussr_buk_m3_launcher_1;9А317М
 ussr_buk_m3_launcher_2;SPAAM
 ussr_buk_m3_fcs_shop;9С18М3
-ussr_buk_m3_fcs_0;Научно-исследовательский институт приборостроения им. В. В. Тихомирова (НИИП) | Станция обнаружения целей 9С18М3 «Купол-М3»
+ussr_buk_m3_fcs_0;Научно-исследовательский институт приборостроения им. В. В. Тихомирова (НИИП) | Станция обнаружения и целеуказания 9С18М3 «Купол-М3»
 ussr_buk_m3_fcs_1;9С18М3
 ussr_buk_m3_fcs_2;Radar
 ussr_pantsyr_sm_sv_shop;Панцирь-СМ-СВ

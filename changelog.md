@@ -24,8 +24,68 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
-- ### Changes:
+- #### Additions:
 
+    - "Nuclear Thunder" additions:
+        - **B-52H**
+        - **A-10A** (event)
+        - **A-7E** (event)
+        - **A-6E TRAM** (event)
+        - **F-4E Phantom II** (event)
+        - **Tu-95M**
+        - **MiG-23MLD** (event)
+        - **Su-24M** (event)
+        - **Su-25T** (event)
+        - **AN/TPS-59 acquisition radar** (AI) (event)
+        - **"CWAR" SAM "HAWK" acquisition radar** (AI) (event) (jesus christ that name is pain)
+        - **AN/MPQ-53 SAM "Patriot" target tracking radar** (AI) (event) (so this really is how they're gonna format these now. these and buk)
+        - **AN/MPQ-46 SAM "HAWK" target tracking radar** (AI) (event) (painpainpain)
+        - **M270 MLRS** (AI) (event)
+        - **MGM-52 "Lance" tactical ballistic missile** (AI) (event)
+        - **"Patriot" SAM M901 launcher** (AI) (event)
+        - **"HAWK" SAM M192 launcher** (AI) (event)
+        - **M939** (AI) (event)
+        - **M978** (AI) (event)
+        - **55Zh6 "Nebo" acquisition radar** (AI) (event)
+        - **5N64S SAM "S-300" acquisition radar** (AI) (event)
+        - **5N63S "S-300" SAM target tracking radar** (AI) (event)
+        - **9K37 "BUK", Target acquisition and designation system 9S18** (AI) (event)
+        - **9A52-2 "Smerch" MLRS** (AI) (event)
+        - **9K79 "Tochka" tactical ballistic missile** (AI) (event)
+        - **"S-300" SAM 5P85SE launcher** (AI) (event)
+        - **9K37 "BUK", Transporter erector launcher and radar 9A310** (AI) (event)
+        - **KAMAZ-4310** (AI) (event)
+
+- #### Changes:
+
+    - "Nuclear Thunder" changes:
+        - **B-52H** → **B-52H-140-BW (1974)**. Statcard name → **Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start)**.
+        - **A-10A** (event) → **A-10A (1979)**. Statcard name → **Fairchild Industries, Fairchild Republic Divison | A-10A Thunderbolt II "Warthog" (1979)**.
+        - **A-7E** (event) → **A-7E-4-CV**. Statcard name → **LTV Aerospace, Vought Aeronautics Division | A-7E-4-CV Corsair II**.
+        - **A-6E TRAM** (event) → **A-6E (TRAM)**. Statcard name → **Grumman Aerospace Corporation G-128S | A-6E Intruder (Target Recognition and Attack Multi-Sensor)**.
+        - **F-4E Phantom II** (event) → **F-4E-48-MC**. Statcard name → **McDonnell Douglas Corporation Model 98HO | F-4E-48-MC Phantom II**.
+        - **Tu-95M**: Statcard name → **Zavod № 18 im. Vorošilova | izd. VM | Samolyet Tu-95M**.
+        - **MiG-23MLD** (event): Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye | izd. 23-18 | MiG-23MLD**.
+        - **Su-24M** (event) → **Su-24M2**. Statcard name → **Kompaniâ «Sukhoj» | izd. T-6M2 | Samolyet Su-24M2**.
+        - **Su-25T** (event): Statcard name → **Ulan-Udènskij aviaczionnyj zavod | izd. T-8M | Su-25T "Grač"**.
+        - **AN/TPS-59 acquisition radar** (AI) (event) → **AN/TPS-59**. Long name → **Radar Set, Lightweight, 3D, AN/TPS-59**.
+        - **"CWAR" SAM "HAWK" acquisition radar** (AI) (event) → **AN/MPQ-55**. Long name → **Radar Set, AN/MPQ-55 Continuous Wave Acquisition Radar**.
+        - **AN/MPQ-53 SAM "Patriot" target tracking radar** (AI) (event) → **AN/MPQ-53**. Long name → **Radar Set, Semitrailer Mounted: AN/MPQ-53**.
+        - **AN/MPQ-46 SAM "HAWK" target tracking radar** (AI) (event) → **AN/MPQ-46**. Long name → **Radar Set, AN/MPQ-46**.
+        - **M270 MLRS** (AI) (event) → **M270**. Long name → **Launcher, Rocket, Armored Vehicle Mounted: M270**.
+        - **MGM-52 "Lance" tactical ballistic missile** (AI) (event) → **M752**. Long name → **Carrier, Guided Missile Equipment: Self-Propelled, M752**.
+        - **"Patriot" SAM M901 launcher** (AI) (event) → **M901**. Long name → **Launching Station, Guided Missile, Semitrailer Mounted: M901**.
+        - **"HAWK" SAM M192 launcher** (AI) (event) → **M192**. Long name → **Launcher, Zero Length, Guided Missile, Semitrailer Mounted: M192**.
+        - **M939** (AI) (event): Long name → **Truck, Chassis: 5-Ton, 6x6, M939**.
+        - **M978** (AI) (event): Long name → **Truck, Tank: Fuel Servicing, 8x8, 2,500 gal, HEMTT, M978**.
+        - **55Zh6 "Nebo" acquisition radar** (AI) (event) → **55Ž6**. Long name → **Radiolokaczionnaâ stancziâ 55Ž6 «Nyebo»**.
+        - **5N64S SAM "S-300" acquisition radar** (AI) (event) → **5N64S**. Long name → **Radiolokator obnaružyeniâ 5N64S**.
+        - **5N63S "S-300" SAM target tracking radar** (AI) (event) → **5N63S**. Long name → **Komandnyj punkt 5N63S**.
+        - **9K37 "BUK", Target acquisition and designation system 9S18** (AI) (event) → **9S18**. Long name → **Stancziâ obnaružyeniâ i czyelyeukazaniâ 9S18 "Kupol"**.
+        - **9A52-2 "Smerch" MLRS** (AI) (event) → **9A52-2**. Long name → **Boyevaâ mašina 9A52-2 "Smyerč-M"**.
+        - **9K79 "Tochka" tactical ballistic missile** (AI) (event) → **9K79**. Long name → **Taktičyeskij rakyetnyj komplyeks 9K79 "Točka"**.
+        - **"S-300" SAM 5P85SE launcher** (AI) (event) → **5P85S**. Long name → **Samokhodnaâ ognyevaâ ustanovka 5P85S** (definitely didn't spend too much time figuring this out for a name you'll never see).
+        - **9K37 "BUK", Transporter erector launcher and radar 9A310** (AI) (event) → **9A310**. Long name → **Samokhodnaâ ognyevaâ ustanovka 9A310 "Buk"**.
     - Hungarian postwar aircraft rework:
         - **Il-10 (1947)**: Statcard name → **Zavod № 18 | Il-10 Párduc repülőgép (1947)**.
         - **Tu-2Sz-59**: Statcard name → **Aviaczionnyj zavod № 23 | Tu-2Sz széria 59 repülőgép**.
@@ -43,6 +103,17 @@ All dates are listed in DD-MM-YYYY format.
         - **Mi-24D**: Statcard name → **Aviaryemontnyj zavod № 116 | Mi-24D helikopter**.
         - **Mi-24P**: Statcard name → **Aviaczionnaâ proizvodstvyennaâ ob"yedinyeniye «Progryess» im. N. I. Sazykina | Mi-24P helikopter**.
         - **Mi-24V**: Statcard name → **Aviaczionnaâ proizvodstvyennaâ ob"yedinyeniye «Progryess» im. N. I. Sazykina | Mi-24V helikopter**.
+    - **A-10A (1979)**: Statcard name → **Fairchild Industries, Fairchild Republic Divison | A-10A Thunderbolt II "Warthog" (1979)**.
+    - **A-10A (1983)**: Statcard name → **Fairchild Industries, Fairchild Republic Divison | A-10A Thunderbolt II "Warthog" (1983)**.
+    - **A-10C**: Statcard name → **Fairchild Industries, Fairchild Republic Divison / Lockheed Martin Systems Integration - Owego | A-10C Thunderbolt II "Warthog"**.
+    - **A-7D-8-CV**: Statcard name → **LTV Aerospace, Vought Aeronautics Division | A-7D-8-CV Corsair II**.
+    - **A-7E-4-CV**: Statcard name → **LTV Aerospace, Vought Aeronautics Division | A-7E-4-CV Corsair II**.
+    - **A-7K-CV**: Statcard name → **Vought Corporation | A-7K-CV Corsair II**.
+    - **B.JT.1K**: Statcard name → **Vought Corporation | Ekhrụxng Bin Jomtī Bæb Thī 1K**.
+        - Thai package: Statcard name → **Vought Corporation | เครื่องบินโจมตีแบบที่ ๑ก**.
+    - **A-6E (TRAM)**: Statcard name → **Grumman Aerospace Corporation G-128S | A-6E Intruder (Target Recognition and Attack Multi-Sensor)**.
+    - **MiG-23MLD**: Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye | izd. 23-18 | MiG-23MLD**.
+    - **Su-25T**: Statcard name → **Ulan-Udènskij aviaczionnyj zavod | izd. T-8M | Su-25T "Grač"**.
     - Added the missing long distance (_2) name to **Verdun (X 33)**.
     - **MiG-29M**: Statcard name → **Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M**.
     - **MiG-29 Sniper**: Statcard name → **Mikoân i Guryevič / Aerostar + Elbit Systems | MiG-29 Sniper**.
@@ -153,12 +224,97 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: Statcard name → **横須賀海軍工廠 | 試製景雲改二二型 | R2Y2-G**.
     - **R2Y2-G (32 Gata)**: Statcard name → **Yokosuka Kaigun Kōshō | Shisei Keiun Kai 32 Gata | R2Y2-G**.
         - Japanese package: Statcard name → **横須賀海軍工廠 | 試製景雲改三二型 | R2Y2-G**.
+    - **9A317M**: Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Samokhodnaâ ognyevaâ ustanovka 9A317M "Buk-M3"** (somehow, I'm not exactly sure how, the Buks ended up beyond fucked).
+    - **9S18M3**: Statcard name → **Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Stancziâ obnaružyeniâ i czyelyeukazaniâ "Kupol-M3"**.
 
 ### Weaponry:
 
-- ### Changes:
+- #### Additions:
 
+    - **23 mm AM-23 cannon**
+    - **RN-28**
+    - **RN-40**
+    - **RDS-37**
+    - **B61 (5 kt)**
+    - **B61 (30 kt)**
+    - **B28**
+    - **B83**
+    - **AGM-45B-10**
+    - **AGM-88A**
+    - **RIM-24B**
+    - **MIM-104B**
+    - **MIM-23B**
+    - **M26A2** (launcher)
+    - **M26A2** (rocket)
+    - **Kh-25MP** (2 of them)
+    - **Kh-25MPU**
+    - **Kh-27PS** (2 of them)
+    - **Kh-58U** (4 of them but they all have the same name irl)
+    - **Kh-58UShK**
+    - **Kh-59**
+    - **9M55F** (launcher)
+    - **9M55F** (rocket)
+    - **9M79**
+    - **9M38M1**
+    - **5V55R**
+    - **M117 750 lb**
+    - **M117 AIR 750 lb**
+    - **MK84 2000 lb**
+    - **PBXN-107** (explosive type)
+    - **FAB-5000M-54**
+    - **FAB-9000**
+
+- #### Changes:
+
+    - **23 mm AM-23 cannon** → **9-A-037 | 23-mm sistyema oboronityel'nogo pušyečnogo vooružyeniâ PV-23-Tu-95**.
+    - **RN-28** → **RN28**. Statcard name → **Spyeczial'naâ aviabomba RN28**.
+    - **RN-40** → **RN40**. Statcard name → **Spyeczial'naâ aviabomba RN40**.
+    - **RDS-37**: Statcard name → **Spyeczial'naâ boyevaâ čast' RDS-37**.
+    - **B61 (5 kt)** → **B61-10 (5 kt)**. Statcard name → **B61 Mod 10**.
+    - **B61 (30 kt)** → **B61-8 (30 kt)**. Statcard name → **B61 Mod 8**.
+    - **B61-8** (the old one): Statcard name → **B61 Mod 8**.
+    - **B28** → **B28Y5**. Statcard name → **B28Y5**.
+    - **B83**: Statcard name → **B83**.
+    - **AGM-45B-10**: Statcard name → **Air-Launched, Surface-Attack, Guided Missile, AGM-45B-10 Shrike**.
+    - **AGM-88A**: Statcard name → **Air-Launched, Surface-Attack, Guided Missile, AGM-88A High-Speed Anti-Radiation Missile**.
+    - **RIM-24B**:
+        - Full Ammunition Names package: **RIM-24B** → **Ship-Launched, Intercept-Aerial, Guided Missile, RIM-24B Tartar**.
+    - **MIM-104B**:
+        - Full Ammunition Names package: **MIM-104B** → **Guided Missile, Intercept-Aerial, MIM-104B**.
+    - **MIM-23B**:
+        - Full Ammunition Names package: **MIM-23B** → **Guided Missile, Intercept-Aerial, MIM-23B**.
+    - **MGM-52** → **MGM-52C**.
+        - Full Ammunition Names package: **MGM-52** → **Guided Missile, Surface Attack, MGM-52C Lance**.
+    - **M26A2** (launcher): Statcard name → **Rocket Pod, 298mm: M26A2**.
+    - **M26A2** (rocket):
+        - Full Ammunition Names package: Statcard name → **Rocket, 227mm, M26A2**.
+    - **Kh-25MP** (the 1st one) → **Kh-25MP (PGRS-1VP)**. Statcard name → **izd. 711 | Upravlâyemaâ rakyeta Kh-25MP (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-1VP)**.
+    - **Kh-25MP** (the 2nd one) → **Kh-25MP (PGRS-2VP)**. Statcard name → **izd. 712 | Upravlâyemaâ rakyeta Kh-25MP (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-2VP)**.
+    - **Kh-25MPU**: Statcard name → **Upravlâyemaâ rakyeta Kh-25MPU**.
+    - **Kh-27PS** (the 1st one) → **Kh-27PS (PGRS-1VP)**. Statcard name → **izd. 721 | Upravlâyemaâ rakyeta Kh-27PS (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-1VP)**.
+    - **Kh-27PS** (the 2nd one) → **Kh-27PS (PGRS-2VP)**. Statcard name → **izd. 722 | Upravlâyemaâ rakyeta Kh-27PS (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-2VP)**.
+    - **Kh-58U**: Statcard name → **izd. 112U | Upravlâyemaâ rakyeta Kh-58U**.
+    - **Kh-58UShK** → **Kh-58UŠK**. Statcard name → **izd. 112U | Upravlâyemaâ rakyeta Kh-58UŠK**.
+    - **Kh-59**: Statcard name → **izd. D-9 | Upravlâyemaâ rakyeta Kh-59**.
+    - **9M55F** (launcher) → **9P614**. Statcard name → **Apparatura puska 9P614**.
+    - **9M55F** (rocket):
+        - Full Ammunition Names package: **9M55F** → **300-mm ryeaktivnyj snarâd 9M55F**.
+    - **9M79**:
+        - Full Ammunition Names package: **9M79** → **Taktičyeskaâ ballističyeskaâ rakyeta 9M79**.
+    - **9M38M1**:
+        - Full Ammunition Names package: **9M38M1** → **Zyenitnaâ upravlâyemaâ rakyeta 9M38M1**.
+    - **5V55R** → **V-500R**.
+        - Full Ammunition Names package: **5V55R** → **Zyenitnaâ upravlâyemaâ rakyeta 5V55R**.
+    - **M117 750 lb** → **M117**. Statcard name → **Bomb, 750lb, GP, M117**.
+    - **M117 AIR 750 lb** → **M117 (MAU-91A/B)**. Statcard name → **Bomb, 750lb, GP, M117 (MAU-91A/B)**.
+    - **MK84 2000 lb** → **Mk 84 Mod 0**. Statcard name → **Bomb, 2000lb, GP, Mk 84 Mod 0**.
+    - **FAB-5000M-54**: Statcard name → **5000-kg aviabomba FAB-5000M-54**.
+    - **FAB-9000**: Statcard name → **9000-kg aviabomba FAB-9000**.
     - The **85-1 Shì 125 Háomi Chuān Jia Dàn** now actually displays correctly, instead of still displaying as **125-I** because I forgot to remove the old entry.
+    - **Flab.-Mg. 29** → **Fl.-Mg. 29**. Statcard name → **7,5 mm Flugzeug-Maschinengewehr 29**.
+    - **Flab.-D.-Mg. 29** → **Beob.-D.-Mg. 29**. Statcard name → **7,5 mm Beobachter-Doppel-Maschinengewehr 29**.
+    - **H.S.-Flz.F.Kan. 45** → **FF.-K. 45**. Statcard name → **7,5 mm Beobachter-Doppel-Maschinengewehr 29**.
+    - **H.S.-Flz.M.Kan. 45** → **FM.-K. 45**. Statcard name → **20 mm Flugzeugmotor-Kanone 45**.
 
 ### Infantry weaponry:
 
@@ -173,6 +329,57 @@ All dates are listed in DD-MM-YYYY format.
     - **SCAR-L** → **Mk 16 Mod 0**. Statcard name → **FN America SCAR-L | Rifle, 5.56mm, Mk 16 Mod 0**.
     - **M7** → **XM5**. Statcard name → **Sig Sauer Next Generation Squad Weapon-Rifle | Rifle, 6.8mm, XM5**.
     - **AK-12**: Statcard name → **Konczyern «Kalašnikov» | 6P70M | 5,45-mm avtomat Kalašnikova AK-12 (2020)**.
+
+### Sensors:
+
+- #### Additions:
+    
+    - **AN/MPQ-61**
+    - **Phantasmagoria-A**
+    - **Phantasmagoria-B**
+
+- #### Changes:
+
+    - **AN/MPQ-61** → **Radar Set, High Power, AN/MPQ-61**.
+    - **Phantasmagoria-A** → **L-080**. Statcard name → **Kontyejnyernaâ L-080 "Fantasmagoriâ-A"**. I hate this thing, it drives me crazy, and it has cost me so much time that idc anymore. It'll get redone later.
+    - **Phantasmagoria-B** → **L-081**. Statcard name → **Kontyejnyernaâ L-081 "Fantasmagoriâ-B"**.
+    - **AN/MPQ-64 Sentinel** → **Radar Set, AN/MPQ-64 Sentinel**.
+
+### Engines:
+
+- #### Additions:
+    
+    - **TF33-P-3**
+    - **Kuznezov** (manufacturer)
+    - **NK-12M**
+
+- #### Changes:
+
+    - **Kuznezov** (manufacturer) → **Gosudarstvyennyj Soûznyj opytnyj zavod № 276**.
+    - **NK-12M** → **Motor NK-12M**.
+
+### Sensors:
+
+- #### Additions:
+    
+    - **AN/MPQ-61**
+    - **Phantasmagoria-A**
+    - **Phantasmagoria-B**
+    - **StrikeShield**
+
+- #### Changes:
+
+    - **AN/MPQ-61** → **Radar Set, High Power, AN/MPQ-61**.
+    - **Phantasmagoria-A** → **L-080**. Statcard name → **Kontyejnyernaâ L-080 "Fantasmagoriâ-A"**. I hate this thing, it drives me crazy, and it has cost me so much time that idc anymore. It'll get redone later.
+    - **Phantasmagoria-B** → **L-081**. Statcard name → **Kontyejnyernaâ L-081 "Fantasmagoriâ-B"**.
+    - **AN/MPQ-64 Sentinel** → **Radar Set, AN/MPQ-64 Sentinel**.
+
+### Loading screens:
+
+- #### Additions:
+    
+    - **Tu-95M** (loading screen)
+    - **Tu-95M** (profile header)
 
 ## 1.17.00 - 23-03-2026
 

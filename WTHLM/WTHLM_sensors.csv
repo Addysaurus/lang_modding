@@ -35,6 +35,7 @@ avionics_sensor_lws/desc;Laser Warning Receiver
 avionics_sensor_mlws/des;Missile approach warning system
 avionics_aim_spi/desc;Aiming point for the selected weapon
 avionics_hmd/desc;Helmet Mounted Sight
+avionics_sensor_arm;ARM
 avionics_aim_laser_designator/desc;Laser designator
 CCIP/desc;Constantly computed impact point for the selected weapon
 sight_AUTO/desc;Ballistic computer for cannon weapons for air-to-air mod
@@ -96,7 +97,8 @@ sensors/us_an_apg_78_v6;AN/APG-78(V)6 Longbow <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_79;AN/APG-79 <color=#ff6f00>RDR-AESA</color>
 sensors/us_an_apq_100;AN/APQ-100 <color=#ff6f00>RDR</color>
 sensors/us_an_apq_120;AN/APQ-120(V)5 <color=#ff6f00>RDR</color>
-sensors/us_an_mpq_64;AN/MPQ-64 Sentinel <color=#ff6f00>RDR-PD</color>
+sensors/us_an_mpq_64;Radar Set, AN/MPQ-64 Sentinel <color=#ff6f00>RDR-PD</color>
+sensors/us_an_mpq_61;Radar Set, High Power, AN/MPQ-61 <color=#ff6f00>RDR</color>
 sensors/us_comanche_fcr;Comanche Radar <color=#ff6f00>RDR-PD</color>
 sensors/uk_captor_ecrs_1_pirate;ECRS Mk1 <color=#ff6f00>RDR-AESA</color>
 sensors/uk_captor_ecrs_2_pirate;ECRS Mk2 <color=#ff6f00>RDR-AESA</color>
@@ -192,6 +194,12 @@ weapons/su_t_220_targeting_pod;T-220
 weapons/su_t_220_targeting_pod/short;T-220
 weapons/su_apk_9;Agryegat počvoobrabatyvaûŝij kombinirovannyj APK-9 <color=#ff6f00>TGP-EO</color>
 weapons/su_apk_9/short;APK-9
+weapons/su_phantasmagoria_a;"Kontyejnyernaâ L-080 ""Fantasmagoriâ-A"" <color=#ff6f00>TGP-RG</color>"
+weapons/su_phantasmagoria_a/short;L-080
+weapons/su_phantasmagoria_b_beck;"Kontyejnyernaâ L-081 ""Fantasmagoriâ-B"" <color=#ff6f00>TGP-RG</color>"
+weapons/su_phantasmagoria_b_beck/short;L-081
+weapons/su_phantasmagoria_b_front;"Kontyejnyernaâ L-081 ""Fantasmagoriâ-B"" <color=#ff6f00>TGP-RG</color>"
+weapons/su_phantasmagoria_b_front/short;L-081
 weapons/jp_i_aaq2_targeting_pod;J/AAQ-2 <color=#ff6f00>TGP-IR</color>
 weapons/jp_i_aaq2_targeting_pod/short;J/AAQ-2
 weapons/cn_k_pzs_01_targeting_pod;K/PZS01 Xíng Zhòuyè Miáozhun Diào Cāng <color=#ff6f00>TGP-LG/EO</color>
@@ -210,11 +218,14 @@ counterMeasures/l_370v28_5l;L-370-5L <color=#ff6f00>CM-DIR</color>
 counterMeasures/cn_z_10me;LDIRCM
 weapons/countermeasure_chaff_only_large_a32a;BOX-3 <color=#ff6f00>CM-CHF</color>
 weapons/countermeasure_chaff_only_large_a32a/short;BOX-3
+weapons/countermeasure_split_launcher_am_23;<color=@userlogColoredText>23 mm</color> Countermeasures
+weapons/countermeasure_split_launcher_am_23/short;Flares / Chaff
 
 //ACTIVE PROTECTION SYSTEMS
 aps/drozd;Komplyeks aktivnoj zaŝity 1030M-01 «Drozd»
 aps/arena_3;Komplyeks aktivnoj zaŝity T09-A6 «Aryena-È»
 aps/arena_m;Komplyeks aktivnoj zaŝity T09-A6-1 «Aryena-M»
+aps/amap_ads;StrikeShield
 aps/iron_fist_ld;Iron Fist Light Decoupled
 
 //LWSs

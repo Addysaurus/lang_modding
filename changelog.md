@@ -267,8 +267,8 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **23 mm AM-23 cannon** → **9-A-037 | 23-mm sistyema oboronityel'nogo pušyečnogo vooružyeniâ PV-23-Tu-95**.
-    - **RN-28**: Statcard name → **Aviaczionnaâ bomba so spyeczial'noj boyevoj čast'û RN-28**.
-    - **RN-40**: Statcard name → **Aviaczionnaâ bomba so spyeczial'noj boyevoj čast'û RN-40**.
+    - **RN-28** → **RN28**. Statcard name → **Spyeczial'naâ aviabomba RN28**.
+    - **RN-40** → **RN40**. Statcard name → **Spyeczial'naâ aviabomba RN40**.
     - **RDS-37**: Statcard name → **Spyeczial'naâ boyevaâ čast' RDS-37**.
     - **B61 (5 kt)** → **B61-10 (5 kt)**. Statcard name → **B61 Mod 10**.
     - **B61 (30 kt)** → **B61-8 (30 kt)**. Statcard name → **B61 Mod 8**.

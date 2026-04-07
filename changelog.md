@@ -242,6 +242,8 @@ All dates are listed in DD-MM-YYYY format.
     - **AGM-45B-10**
     - **AGM-88A**
     - **RIM-24B**
+    - **MIM-104B**
+    - **MIM-23B**
     - **M26A2** (launcher)
     - **M26A2** (rocket)
     - **Kh-25MP** (2 of them)
@@ -252,6 +254,9 @@ All dates are listed in DD-MM-YYYY format.
     - **Kh-59**
     - **9M55F** (launcher)
     - **9M55F** (rocket)
+    - **9M79**
+    - **9M38M1**
+    - **5V55R**
     - **M117 750 lb**
     - **M117 AIR 750 lb**
     - **MK84 2000 lb**
@@ -273,7 +278,13 @@ All dates are listed in DD-MM-YYYY format.
     - **AGM-45B-10**: Statcard name → **Air-Launched, Surface-Attack, Guided Missile, AGM-45B-10 Shrike**.
     - **AGM-88A**: Statcard name → **Air-Launched, Surface-Attack, Guided Missile, AGM-88A High-Speed Anti-Radiation Missile**.
     - **RIM-24B**:
-        - Full Ammunition Names package: Statcard name → **Ship-Launched, Intercept-Aerial, Guided Missile, RIM-24B Tartar**.
+        - Full Ammunition Names package: **RIM-24B** → **Ship-Launched, Intercept-Aerial, Guided Missile, RIM-24B Tartar**.
+    - **MIM-104B**:
+        - Full Ammunition Names package: **MIM-104B** → **Guided Missile, Intercept-Aerial, MIM-104B**.
+    - **MIM-23B**:
+        - Full Ammunition Names package: **MIM-23B** → **Guided Missile, Intercept-Aerial, MIM-23B**.
+    - **MGM-52** → **MGM-52C**.
+        - Full Ammunition Names package: **MGM-52** → **Guided Missile, Surface Attack, MGM-52C Lance**.
     - **M26A2** (launcher): Statcard name → **Rocket Pod, 298mm: M26A2**.
     - **M26A2** (rocket):
         - Full Ammunition Names package: Statcard name → **Rocket, 227mm, M26A2**.
@@ -287,7 +298,13 @@ All dates are listed in DD-MM-YYYY format.
     - **Kh-59**: Statcard name → **izd. D-9 | Upravlâyemaâ rakyeta Kh-59**.
     - **9M55F** (launcher) → **9P614**. Statcard name → **Apparatura puska 9P614**.
     - **9M55F** (rocket):
-        - Full Ammunition Names package: Statcard name → **300-mm ryeaktivnyj snarâd 9M55F**.
+        - Full Ammunition Names package: **9M55F** → **300-mm ryeaktivnyj snarâd 9M55F**.
+    - **9M79**:
+        - Full Ammunition Names package: **9M79** → **Taktičyeskaâ ballističyeskaâ rakyeta 9M79**.
+    - **9M38M1**:
+        - Full Ammunition Names package: **9M38M1** → **Zyenitnaâ upravlâyemaâ rakyeta 9M38M1**.
+    - **5V55R**:
+        - Full Ammunition Names package: **5V55R** → **Zyenitnaâ upravlâyemaâ rakyeta 5V55R**.
     - **M117 750 lb** → **M117**. Statcard name → **Bomb, 750lb, GP, M117**.
     - **M117 AIR 750 lb** → **M117 (MAU-91A/B)**. Statcard name → **Bomb, 750lb, GP, M117 (MAU-91A/B)**.
     - **MK84 2000 lb** → **Mk 84 Mod 0**. Statcard name → **Bomb, 2000lb, GP, Mk 84 Mod 0**.

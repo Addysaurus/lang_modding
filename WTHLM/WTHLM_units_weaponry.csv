@@ -458,7 +458,7 @@ weapons/us_500lb_gbu_62_ljdam_er/short;GBU-62(V)1/B LJDAM-ER
 weapons/us_750lb_m117_cone_90;<color=@userlogColoredText>362.42 kg</color> Bomb, 750lb, GP, M117 <color=#ff6f00>BMB</color>
 weapons/us_750lb_m117_cone_90/short;M117
 weapons/us_750lb_m117_air;<color=@userlogColoredText>362.42 kg</color> Bomb, 750lb, GP, M117 (MAU-91A/B) <color=#ff6f00>BMB</color>
-weapons/us_750lb_m117_cone_90/short;M117 (MAU-91A/B)
+weapons/us_750lb_m117_air/short;M117 (MAU-91A/B)
 weapons/us_agm_154a1_jsow;<color=@userlogColoredText>497 kg</color> Air-Launched, Surface-Attack, Guided Missile, AGM-154A-1 Joint Standoff Weapon <color=#ff6f00>BMB-GNSS</color>
 weapons/us_agm_154a1_jsow/short;AGM-154A-1
 weapons/us_2000lb_gbu_64_jdam_er;<color=@userlogColoredText>987 kg</color> Bomb, Guided, GBU-64(V)1/B Joint Direct Attack Munition Extended Range <color=#ff6f00>BMB-GNSS</color>
@@ -609,6 +609,9 @@ weapons/br_lizard_3/short;BAFG-230 (Lizard 3)
 //MINES
 
 //USA ROCKETS
+weapons/227mm_m270_rocket_launcher;Rocket Pod, 298mm: M26A2 <color=#ff6f00>LCH</color>
+weapons/227mm_m270_rocket_launcher/short;M26A2
+227mm_m26a2;M26A2
 
 //GERMANY ROCKETS
 weapons/jato_booster_left;Flugzeug Start Rakete 69 <color=#ff6f00>RKT-JATO</color>
@@ -831,6 +834,7 @@ weapons/rocket_mk11_naval_rocket_launcher;Launcher System, Guided Missile, Mk 11
 weapons/rocket_mk11_naval_rocket_launcher/short;Mk 11 Mod 0
 weapons/rocket_mk13_naval_rocket_launcher;Launcher System, Guided Missile, Mk 13 Mod 0 <color=#ff6f00>LCH</color>
 weapons/rocket_mk13_naval_rocket_launcher/short;Mk 13 Mod 0
+rim_24b;RIM-24B
 
 //GERMANY MISSILES
 weapons/de_x4_ruhrstahl;X 4 <color=#ff6f00>AAM-WG</color>
@@ -925,6 +929,9 @@ weapons/360mm_9m317m_user_cannon/short;9P331M
 weapons/130mm_9M120_BMPT_launcher_user_cannon;"Komplyeksa upravlâyemogo vooružyeniâ B07S1.01.000 ""Ataka-T"" <color=#ff6f00>LCH</color>"
 130mm_9m120_1;9M120-1
 130mm_9m120_1f;9M120-1F
+weapons/300mm_9k58_rocket_launcher;Apparatura puska 9P614 <color=#ff6f00>LCH</color>
+weapons/300mm_9k58_rocket_launcher/short;9P614
+300mm_9m55f;9M55F
 
 //UK MISSILES
 weapons/166mm_camm_user_cannon;Intelligent Launcher <color=#ff6f00>LCH</color>

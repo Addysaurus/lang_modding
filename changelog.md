@@ -303,7 +303,7 @@ All dates are listed in DD-MM-YYYY format.
         - Full Ammunition Names package: **9M79** → **Taktičyeskaâ ballističyeskaâ rakyeta 9M79**.
     - **9M38M1**:
         - Full Ammunition Names package: **9M38M1** → **Zyenitnaâ upravlâyemaâ rakyeta 9M38M1**.
-    - **5V55R**:
+    - **5V55R** → **V-500R**.
         - Full Ammunition Names package: **5V55R** → **Zyenitnaâ upravlâyemaâ rakyeta 5V55R**.
     - **M117 750 lb** → **M117**. Statcard name → **Bomb, 750lb, GP, M117**.
     - **M117 AIR 750 lb** → **M117 (MAU-91A/B)**. Statcard name → **Bomb, 750lb, GP, M117 (MAU-91A/B)**.

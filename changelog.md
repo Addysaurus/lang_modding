@@ -24,7 +24,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **9K79** → **9P129**. Statcard name → **Taktičyeskij rakyetnyj komplyeks 9P129 "Točka"**.
+    - **9K79** (AI) (event) → **9P129**. Statcard name → **Taktičyeskij rakyetnyj komplyeks 9P129 "Točka"**.
 
 ### Weaponry:
 

@@ -18,6 +18,12 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.17.02 - UNRELEASED
+
+- #### Changes:
+
+    - Corrected the display of the statcard name of the **PL12AE**.
+
 ## 1.17.01 - 07-04-2026
 
 - All Hungarian postwar aircraft have been reworked. I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu) for help with this. It would not have been possible without him. With this, all Hungarian vehicles have now been reworked!

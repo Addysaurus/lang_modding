@@ -18,7 +18,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.17.01 - UNRELEASED
+## 1.17.01 - 07-04-2026
 
 - All Hungarian postwar aircraft have been reworked. I would like to greatly thank [atta26hu](https://forum.warthunder.com/u/atta26hu) for help with this. It would not have been possible without him. With this, all Hungarian vehicles have now been reworked!
 
@@ -344,6 +344,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Phantasmagoria-A** → **L-080**. Statcard name → **Kontyejnyernaâ L-080 "Fantasmagoriâ-A"**. I hate this thing, it drives me crazy, and it has cost me so much time that idc anymore. It'll get redone later.
     - **Phantasmagoria-B** → **L-081**. Statcard name → **Kontyejnyernaâ L-081 "Fantasmagoriâ-B"**.
     - **AN/MPQ-64 Sentinel** → **Radar Set, AN/MPQ-64 Sentinel**.
+    - The **BOX-3** countermeasure pod for the **A 32 A** has been *temporarily* renamed to just **Chaff**. This will be changed back, but as of time of writing, Gaijin has decided that the B-52H and Tu-95M are using that same 50 mm file. If/when this is fixed, it will be corrected.
 
 ### Engines:
 

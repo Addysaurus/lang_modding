@@ -20,6 +20,14 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.17.02 - UNRELEASED
 
+### Vehicles:
+
+- #### Changes:
+
+    - **9K79** → **9P129**. Statcard name → **Taktičyeskij rakyetnyj komplyeks 9P129 "Točka"**.
+
+### Weaponry:
+
 - #### Changes:
 
     - Corrected the display of the statcard name of the **PL12AE**.

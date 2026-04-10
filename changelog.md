@@ -33,12 +33,17 @@ All dates are listed in DD-MM-YYYY format.
         - Hebrew package: Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M60 A1 RISE טנק מגח 6ב גל | טנק**.
     - **Magaḥ 6B Gal Baṭaš**: Statcard name → **Chrysler Defense / ha-Ta'asiah ha-Ṣva'it Mif'al Slavin | Ṭank M60 A1 RISE | Ṭank Magaḥ 6 Bet Gal Baṭaš**.
         - Hebrew package: Statcard name → **התעשייה הצבאית מפעל סלבין / Chrysler Defense | M60 A1 RISE טנק מגח 6ב גל בט״ש | טנק**.
+    - **Merkavah 4B "LIC"** → **Merkavah 4B Baṭaš (2006)**. Statcard name → **Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank Merkavah Siman 4 Bet Baṭaš (2006)**.
+        - Hebrew package: **"LIC" מרכבה 4ב** → **מרכבה 4ב בט״ש**. Statcard name → **טנק מרכבה סימן 4ב בט״ש | מרכז שיקום ואחזקה 7000**.
+    - **Merkavah 4B / B "LIC"** (folder) → **Merkavah 4B / B Baṭaš**.
+        - Hebrew package: **"LIC" מרכבה 4ב / 4ב** → **מרכבה 4ב / 4ב ש״טב**.
+    - Corrected a missing space in the Hebrew package statcard name for the **Merkavah 4M**.
 
 ### Weaponry:
 
 - #### Changes:
 
-    - Corrected the display of the statcard name of the **PL12AE**.
+    - Corrected the display of the statcard name of the **PL12AE** ([Report](https://github.com/Addysaurus/lang_modding/issues/146)).
 
 ## 1.17.01 - 07-04-2026
 

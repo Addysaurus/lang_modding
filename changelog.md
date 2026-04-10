@@ -25,6 +25,14 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **9K79** (AI) (event) → **9P129**. Statcard name → **Taktičyeskij rakyetnyj komplyeks 9P129 "Točka"**.
+    - **Zaḥalad 20 mm (Do-Kani)** → **Zaḥalad Ṣriḥon Du-Kani**. Statcard name → **White Motor Company | Zaḥeli Lemeḥeṣah Dizel Ṣriḥon Du-Kani 20 mm**.
+        - Hebrew package: **זחל״ד 20 מ״מ (דו-קני)** → **Zaḥalad Ṣriḥon Du-Kani**. Statcard name → **White Motor Company | Zaḥeli Lemeḥeṣah Dizel Ṣriḥon Du-Kani 20 mm**.
+    - **Magaḥ 6B**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank M60 A1 RISE | Ṭank Magaḥ 6 Bet**.
+        - Hebrew package: Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M60 A1 RISE טנק מגח 6ב | טנק**.
+    - **Magaḥ 6B Gal**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank M60 A1 RISE | Ṭank Magaḥ 6 Bet Gal**.
+        - Hebrew package: Statcard name → **מרכז שיקום ואחזקה 7000 / Chrysler Defense | M60 A1 RISE טנק מגח 6ב גל | טנק**.
+    - **Magaḥ 6B Gal Baṭaš**: Statcard name → **Chrysler Defense / ha-Ta'asiah ha-Ṣva'it Mif'al Slavin | Ṭank M60 A1 RISE | Ṭank Magaḥ 6 Bet Gal Baṭaš**.
+        - Hebrew package: Statcard name → **התעשייה הצבאית מפעל סלבין / Chrysler Defense | M60 A1 RISE טנק מגח 6ב גל בט״ש | טנק**.
 
 ### Weaponry:
 

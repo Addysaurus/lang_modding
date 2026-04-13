@@ -38,6 +38,19 @@ All dates are listed in DD-MM-YYYY format.
     - **Merkavah 4B / B "LIC"** (folder) → **Merkavah 4B / B Baṭaš**.
         - Hebrew package: **"LIC" מרכבה 4ב / 4ב** → **מרכבה 4ב / 4ב ש״טב**.
     - Corrected a missing space in the Hebrew package statcard name for the **Merkavah 4M**.
+    - **Mi-35P** (Japan / Indonesia): Statcard name → **Moskovskij vyertolëtnyj zavod im. M. L. Milâ | Mi-35P**.
+    - **UH-1B** (Japan):
+        - Japanese package: Statcard name → **Bell Helicopter Company / 富士重工業 | UH-1B多用途ヘリコプター「ひよどり」**.
+    - **12 Senchi Ji Hō** → **12 Sanchi Jisō Hō**. Statcard name → **Kaigun Kansei Honbu Dai 1 Bu | 12 Sanchi Jisō Hō**.
+        - Japanese package: **十二糎自走** → **十二糎自走砲**. Statcard name → **艦政本部第一部 | 十二糎自走砲**.
+    - **12 Senchi Hō Sen** → **12 Sanchi Hō Sen**. Statcard name → **Kaigun Kansei Honbu Dai 1 Bu | 12 Sanchi Hō Sensha**.
+        - Japanese package: Statcard name → **艦政本部第一部 | 十二糎砲戦車**.
+    - **Chi To**: Statcard name → **Mitsubishi Jū Kōgyō | Shisei 4 Shiki Chū Sensha | Chi To**.
+        - Japanese package: Statcard name → **三菱重工業 | 試製四式中戦車 | チト**.
+    - **Na To**:
+        - Japanese package: Statcard name → **第四陸軍技術研究所 | 試製七糎半対戦車自走砲 | ナト**.
+    - **M4A3E8** (Japan): Statcard name → **Detroit Arsenal Tank Plant | M4A3E8 Sensha "Shāman"**.
+        - Japanese package: Statcard name → **Detroit Arsenal Tank Plant | M4A3E8戦車「シャーマン」**.
 
 ### Weaponry:
 

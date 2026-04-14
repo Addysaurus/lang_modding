@@ -1156,13 +1156,6 @@ jp_type_4_chi_to_late_0;"<color=#81c3fc>三菱重工業</color>
 jp_type_4_chi_to_late_1;チト
 jp_type_4_chi_to_late_2;Medium Tank
 
-jp_type_5_chi_ri_shop;チリ
-jp_type_5_chi_ri_0;"<color=#81c3fc>三菱重工業</color>
-<color=#7ce68f>試製中戦車 (乙)</color>
-チリ"
-jp_type_5_chi_ri_1;チリ
-jp_type_5_chi_ri_2;Medium Tank
-
 jp_type_5_na_to_shop;ナト
 jp_type_5_na_to_0;"<color=#81c3fc>第四陸軍技術研究所</color>
 <color=#7ce68f>試製七糎半対戦車自走砲</color>
@@ -1189,6 +1182,95 @@ jp_m42_duster_1;▅ M42
 jp_m42_duster_2;SPAAG
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+jp_m4a3e8_76w_sherman_shop;▅ M4A3E8
+jp_m4a3e8_76w_sherman_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+▅ M4A3E8戦車「シャーマン」"
+jp_m4a3e8_76w_sherman_1;▅ M4A3
+jp_m4a3e8_76w_sherman_2;Medium Tank
+
+jp_m41_walker_bulldog_shop;▅ M41A1
+jp_m41_walker_bulldog_0;"<color=#81c3fc>Cadillac Motor Company</color>
+▅ M41A1戦車「ウォーカー・ブルドッグ」"
+jp_m41_walker_bulldog_1;▅ M41A1
+jp_m41_walker_bulldog_2;Light Tank
+
+jp_type_60_sprg_shop;60SP (C)
+jp_type_60_sprg_0;"<color=#81c3fc>小松製作</color>
+60式自走106mm無反動砲C型「マメタン」"
+jp_type_60_sprg_1;60SP (C)
+jp_type_60_sprg_2;SPG
+
+jp_type_60_atm_shop;60APC (ATM-1)
+jp_type_60_atm_0;"<color=#81c3fc>三菱重工業</color>
+60式装甲車
+<color=#adadad>(ATM-1)</color>"
+jp_type_60_atm_1;60APC (ATM-1)
+jp_type_60_atm_2;SPG
+
+jp_type_5_chi_ri_shop;チリ
+jp_type_5_chi_ri_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>試製中戦車 (乙)</color>
+チリ"
+jp_type_5_chi_ri_1;チリ
+jp_type_5_chi_ri_2;Medium Tank
+
+jp_st_a1_shop;ST-A1
+jp_st_a1_0;"<color=#81c3fc>三菱重工業</color>
+ST-A1"
+jp_st_a1_1;ST-A1
+jp_st_a1_2;Medium Tank
+
+jp_st_a2_shop;ST-A2
+jp_st_a2_0;"<color=#81c3fc>三菱重工業</color>
+ST-A2"
+jp_st_a2_1;ST-A2
+jp_st_a2_2;Medium Tank
+
+jp_st_a3_shop;ST-A3
+jp_st_a3_0;"<color=#81c3fc>三菱重工業</color>
+ST-A3"
+jp_st_a3_1;ST-A3
+jp_st_a3_2;Medium Tank
+
+jp_type_61_shop;61TK (B)
+jp_type_61_0;"<color=#81c3fc>三菱重工業</color>
+61式戦車B型"
+jp_type_61_1;61TK (B)
+jp_type_61_2;Medium Tank
+
+jp_type_61_mod_shop;61TK (C) (13戦-3)
+jp_type_61_mod_0;"<color=#81c3fc>三菱重工業</color>
+61式戦車C型
+<color=@currencyGoldColor>第13戦車大隊, 第3戦車中隊</color>"
+jp_type_61_mod_1;61TK (C)
+jp_type_61_mod_2;Medium Tank
+
+jp_type_75_shop;75HSP
+jp_type_75_0;"<color=#81c3fc>三菱重工業 <color=@commonTextColor>+</color> 日本製鋼所</color>
+75式自走155mmりゅう弾砲"
+jp_type_75_1;75HSP
+jp_type_75_2;SPH
+
+jp_sub_i_ii_20mm_shop;SUB-I-2 (MK 20 DM 6 A1)
+jp_sub_i_ii_20mm_0;"<color=#81c3fc>三菱重工業</color>
+SUB-I-2
+<color=#adadad>(MK 20 DM 6 A1)</color>"
+jp_sub_i_ii_20mm_1;SUB-I-2
+jp_sub_i_ii_20mm_2;SPAAG
+
+jp_type_5_ho_ri_prototype_shop;ホリ
+jp_type_5_ho_ri_prototype_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>試製新砲戦車 (甲)</color>
+ホリ"
+jp_type_5_ho_ri_prototype_1;ナト
+jp_type_5_ho_ri_prototype_2;SPG
+
+jp_type_5_ho_ri_production_shop;ホリ (late)
+jp_type_5_ho_ri_production_0;"<color=#7ce68f>試製新砲戦車 (甲)</color>
+ホリ
+<color=#adadad>(late)</color>"
+jp_type_5_ho_ri_production_1;ホリ
+jp_type_5_ho_ri_production_2;SPG
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 

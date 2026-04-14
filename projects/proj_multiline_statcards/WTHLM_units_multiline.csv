@@ -78,19 +78,19 @@ A-10C Thunderbolt II ""Warthog"""
 a_10c_1;A-10C
 a_10c_2;A-10
 
-b_52h_shop;B-52H-140-BW (1974)
+b_52h_shop;B-52H-140-BW (1979)
 b_52h_0;"<color=#81c3fc>Boeing Airplane Company Model 464-261</color>
 B-52H-140-BW Stratofortress
 <color=#adadad>(Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151)
-(Project Quick Start)</color>"
+(Project Quick Start) (AN/ALT-32)</color>"
 b_52h_1;B-52H
 b_52h_2;B-52
 
-nt_b_52h_shop;☢ B-52H-140-BW (1974)
+nt_b_52h_shop;☢ B-52H-140-BW (1979)
 nt_b_52h_0;"<color=#81c3fc>Boeing Airplane Company Model 464-261</color>
 ☢ B-52H-140-BW Stratofortress
 <color=#adadad>(Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151)
-(Project Quick Start)</color>"
+(Project Quick Start) (AN/ALT-32)</color>"
 nt_b_52h_1;☢ B-52H
 nt_b_52h_2;☢ B-52
 
@@ -1820,13 +1820,6 @@ Chi To"
 jp_type_4_chi_to_late_1;Chi To
 jp_type_4_chi_to_late_2;Medium Tank
 
-jp_type_5_chi_ri_shop;Chi Ri
-jp_type_5_chi_ri_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
-<color=#7ce68f>Shisei Chū Sensha (Otsu)</color>
-Chi Ri"
-jp_type_5_chi_ri_1;Chi Ri
-jp_type_5_chi_ri_2;Medium Tank
-
 jp_type_5_na_to_shop;Na To
 jp_type_5_na_to_0;"<color=#81c3fc>Dai 4 Rikugun Gijutsu Kenkyūjo</color>
 <color=#7ce68f>Shisei 7 Senchi Han Tai Sensha Jisō Hō</color>
@@ -1853,6 +1846,110 @@ jp_m42_duster_1;▅ M42
 jp_m42_duster_2;SPAA
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+jp_m4a3e8_76w_sherman_shop;▅ M4A3E8
+jp_m4a3e8_76w_sherman_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+▅ M4A3E8 Sensha ""Shāman"""
+jp_m4a3e8_76w_sherman_1;▅ M4A3
+jp_m4a3e8_76w_sherman_2;Medium Tank
+
+jp_m41_walker_bulldog_shop;▅ M41A1
+jp_m41_walker_bulldog_0;"<color=#81c3fc>Cadillac Motor Company</color>
+▅ M41A1 Sensha ""Wōkā Burudoggu"""
+jp_m41_walker_bulldog_1;▅ M41A1
+jp_m41_walker_bulldog_2;Light Tank
+
+jp_type_60_sprg_shop;60SP (C)
+jp_type_60_sprg_0;"<color=#81c3fc>Komatsu Seisaku</color>
+60 Shiki Jisō 106mm Muhandō Hō C Gata ""Mametan"""
+jp_type_60_sprg_1;60SP (C)
+jp_type_60_sprg_2;SPG
+
+jp_type_60_atm_shop;60APC (ATM-1)
+jp_type_60_atm_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+60 Shiki Sōkō Sha
+<color=#adadad>(ATM-1)</color>"
+jp_type_60_atm_1;60APC (ATM-1)
+jp_type_60_atm_2;ATGMC
+
+jp_type_5_chi_ri_shop;Chi Ri
+jp_type_5_chi_ri_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>Shisei Chū Sensha (Otsu)</color>
+Chi Ri"
+jp_type_5_chi_ri_1;Chi Ri
+jp_type_5_chi_ri_2;Medium Tank
+
+jp_st_a1_shop;ST-A1
+jp_st_a1_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+ST-A1"
+jp_st_a1_1;ST-A1
+jp_st_a1_2;Medium Tank
+
+jp_st_a2_shop;ST-A2
+jp_st_a2_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+ST-A2"
+jp_st_a2_1;ST-A2
+jp_st_a2_2;Medium Tank
+
+jp_st_a3_shop;ST-A3
+jp_st_a3_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+ST-A3"
+jp_st_a3_1;ST-A3
+jp_st_a3_2;Medium Tank
+
+jp_type_61_shop;61TK (B)
+jp_type_61_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+61 Shiki Sensha B Gata"
+jp_type_61_1;61TK (B)
+jp_type_61_2;Medium Tank
+
+jp_type_61_mod_shop;61TK (C) (13 Sen-3)
+jp_type_61_mod_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+61 Shiki Sensha C Gata
+<color=@currencyGoldColor>Dai 13 Sensha Daitai, Dai 3 Sensha Chūtai</color>"
+jp_type_61_mod_1;61TK (C)
+jp_type_61_mod_2;Medium Tank
+
+jp_m36b2_jgsdf_shop;▅ M36B2 GMC
+jp_m36b2_jgsdf_0;"<color=#81c3fc>GM Defense</color>
+<color=#5cae63>G-237</color>
+▅ Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
+jp_m36b2_jgsdf_1;▅ M36B2
+jp_m36b2_jgsdf_2;SPG
+
+jp_type_75_shop;75HSP
+jp_type_75_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō <color=@commonTextColor>+</color> Nihon Sei Kōgyō</color>
+75 Shiki Jisō 155mm Ryūdanhō"
+jp_type_75_1;75HSP
+jp_type_75_2;SPH
+
+jp_sub_i_ii_20mm_shop;SUB-I-2 (MK 20 DM 6 A1)
+jp_sub_i_ii_20mm_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+SUB-I-2
+<color=#adadad>(MK 20 DM 6 A1)</color>"
+jp_sub_i_ii_20mm_1;SUB-I-2
+jp_sub_i_ii_20mm_2;SPAAG
+
+jp_pzkpfw_VI_ausf_e_tiger_shop;▅ Tiger E (mitte)
+jp_pzkpfw_VI_ausf_e_tiger_0;"<color=#81c3fc>Henschel & Sohn</color>
+<color=#5cae63>Sd.Kfz. 181</color>
+▅ Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(mitte)</color>"
+jp_pzkpfw_VI_ausf_e_tiger_1;▅ Tiger E
+jp_pzkpfw_VI_ausf_e_tiger_2;Heavy Tank
+
+jp_type_5_ho_ri_prototype_shop;Ho Ri
+jp_type_5_ho_ri_prototype_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>Shisei Shin Hō Sensha (Kō)</color>
+Ho Ri"
+jp_type_5_ho_ri_prototype_1;Ho Ri
+jp_type_5_ho_ri_prototype_2;SPG
+
+jp_type_5_ho_ri_production_shop;Ho Ri (late)
+jp_type_5_ho_ri_production_0;"<color=#7ce68f>Shisei Shin Hō Sensha (Kō)</color>
+Ho Ri
+<color=#adadad>(late)</color>"
+jp_type_5_ho_ri_production_1;Ho Ri
+jp_type_5_ho_ri_production_2;SPG
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
@@ -2326,6 +2423,14 @@ mig-17_f5_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@common
 ▆ Chugyeokgi 《F5》"
 mig-17_f5_1;▆ F5
 mig-17_f5_2;▆ F5
+
+f_6c_pakistan_shop;☪ F6C (1976)
+f_6c_pakistan_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 SM-7/3 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè
+Chang</color>
+☪ F6C Xíng Fēijī
+<color=#adadad>(1976)</color>"
+f_6c_pakistan_1;☪ F6C
+f_6c_pakistan_2;☪ F6
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 f-5a_china_shop;☀ F-5A-25-NO

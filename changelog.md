@@ -22,8 +22,17 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - "Lion of Peshwar" additions:
+        - **F-6C** (Pakistan)
+
 - #### Changes:
 
+    - **F-6C** → **F6C (1976)**. Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / Guóyíng Sōnglíng Jīxiè Chang | F6C Xíng Fēijī (August, 1976)**.
+        - Mandarin package: Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / 国营松陵机械厂 | F6C型飞机 (August, 1976)**.
+        - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 СМ-7/3 / 国营松陵机械厂 | F6C型飞机 (August, 1976)**.
+    - **B-52H-140-BW (1974)** → **B-52H-140-BW (1979)**. Statcard name → **Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32)**.
     - **9K79** (AI) (event) → **9P129**. Statcard name → **Taktičyeskij rakyetnyj komplyeks 9P129 "Točka"**.
     - **Zaḥalad 20 mm (Do-Kani)** → **Zaḥalad Ṣriḥon Du-Kani**. Statcard name → **White Motor Company | Zaḥeli Lemeḥeṣah Dizel Ṣriḥon Du-Kani 20 mm**.
         - Hebrew package: **זחל״ד 20 מ״מ (דו-קני)** → **Zaḥalad Ṣriḥon Du-Kani**. Statcard name → **White Motor Company | Zaḥeli Lemeḥeṣah Dizel Ṣriḥon Du-Kani 20 mm**.
@@ -51,6 +60,8 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: Statcard name → **第四陸軍技術研究所 | 試製七糎半対戦車自走砲 | ナト**.
     - **M4A3E8** (Japan): Statcard name → **Detroit Arsenal Tank Plant | M4A3E8 Sensha "Shāman"**.
         - Japanese package: Statcard name → **Detroit Arsenal Tank Plant | M4A3E8戦車「シャーマン」**.
+    - **Tiger E (mitte)** (Japan): Statcard name → **Henschel & Sohn | Sd.Kfz. 181 | Panzerkampfwagen Tiger Ausf. E (mitte)**.
+    - **60APC (ATM-1)** (Japan): Statcard name → **Mitsubishi Jū Kōgyō | 60 Shiki Sōkō Sha (ATM-1)**.
 
 ### Weaponry:
 

@@ -2839,12 +2839,12 @@ f_106a_1972_shop;F-106A-100-CO (Polhemus)
 f_106a_1972_0;Convair Model 8-31 | F-106A-100-CO Delta Dart (Project Six Shooter) (Project Speedline) (Polhemus Helmet-Mounted Sight)
 f_106a_1972_1;F-106A
 f_106a_1972_2;F-106
-b_52h_shop;B-52H-140-BW (1974)
-b_52h_0;Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start)
+b_52h_shop;B-52H-140-BW (1979)
+b_52h_0;Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32)
 b_52h_1;B-52H
 b_52h_2;B-52
-nt_b_52h_shop;☢ B-52H-140-BW (1974)
-nt_b_52h_0;☢ Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Jolly Well) (Project Project Rivet Ace) (AN/ASQ-151) (Project Quick Start)
+nt_b_52h_shop;☢ B-52H-140-BW (1979)
+nt_b_52h_0;☢ Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Jolly Well) (Project Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32)
 nt_b_52h_1;☢ B-52H
 nt_b_52h_2;☢ B-52
 
@@ -6820,10 +6820,6 @@ jp_type_4_chi_to_late_shop;Chi To
 jp_type_4_chi_to_late_0;Mitsubishi Jū Kōgyō | Shisei 4 Shiki Chū Sensha | Chi To
 jp_type_4_chi_to_late_1;Chi To
 jp_type_4_chi_to_late_2;Medium Tank
-jp_type_5_chi_ri_shop;Chi Ri
-jp_type_5_chi_ri_0;Mitsubishi Jū Kōgyō | Shisei Chū Sensha (Otsu) | Chi Ri
-jp_type_5_chi_ri_1;Chi Ri
-jp_type_5_chi_ri_2;Medium Tank
 jp_type_5_na_to_shop;Na To
 jp_type_5_na_to_0;Dai 4 Rikugun Gijutsu Kenkyūjo | Shisei 7 Senchi Han Tai Sensha Jisō Hō | Na To
 jp_type_5_na_to_1;Na To
@@ -6855,9 +6851,13 @@ jp_type_60_sprg_0;"Komatsu Seisaku | 60 Shiki Jisō 106mm Muhandō Hō C Gata ""
 jp_type_60_sprg_1;60SP (C)
 jp_type_60_sprg_2;SPG
 jp_type_60_atm_shop;60APC (ATM-1)
-jp_type_60_atm_0;60 Shiki Sōkō Sha (ATM-1)
+jp_type_60_atm_0;Mitsubishi Jū Kōgyō | 60 Shiki Sōkō Sha (ATM-1)
 jp_type_60_atm_1;60APC (ATM-1)
 jp_type_60_atm_2;ATGMC
+jp_type_5_chi_ri_shop;Chi Ri
+jp_type_5_chi_ri_0;Mitsubishi Jū Kōgyō | Shisei Chū Sensha (Otsu) | Chi Ri
+jp_type_5_chi_ri_1;Chi Ri
+jp_type_5_chi_ri_2;Medium Tank
 jp_st_a1_shop;ST-A1
 jp_st_a1_0;Mitsubishi Jū Kōgyō | ST-A1
 jp_st_a1_1;ST-A1
@@ -6891,7 +6891,7 @@ jp_sub_i_ii_20mm_0;Mitsubishi Jū Kōgyō | SUB-I-2 (MK 20 DM 6 A1)
 jp_sub_i_ii_20mm_1;SUB-I-2
 jp_sub_i_ii_20mm_2;SPAAG
 jp_pzkpfw_VI_ausf_e_tiger_shop;▅ Tiger E (mitte)
-jp_pzkpfw_VI_ausf_e_tiger_0;▅ Panzerkampfwagen Tiger Ausf. E (mitte)
+jp_pzkpfw_VI_ausf_e_tiger_0;▅ Henschel & Sohn | Sd.Kfz. 181 | Panzerkampfwagen Tiger Ausf. E (mitte)
 jp_pzkpfw_VI_ausf_e_tiger_1;▅ Tiger E
 jp_pzkpfw_VI_ausf_e_tiger_2;Heavy Tank
 jp_type_5_ho_ri_prototype_shop;Ho Ri
@@ -7714,6 +7714,10 @@ mig-17_f5_shop;▆ F5
 mig-17_f5_0;▆ Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | Chugyeokgi 《F5》
 mig-17_f5_1;▆ F5
 mig-17_f5_2;▆ F5
+f_6c_pakistan_shop;☪ F6C (1976)
+f_6c_pakistan_0;☪ Opytno-konstruktorskoye bûro № 155 SM-7/3 / Guóyíng Sōnglíng Jīxiè Chang | F6C Xíng Fēijī (August, 1976)
+f_6c_pakistan_1;☪ F6C
+f_6c_pakistan_2;☪ F6
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 f-5a_china_shop;☀ F-5A-25-NO

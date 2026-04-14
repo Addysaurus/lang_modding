@@ -29,7 +29,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **F-6C** → **F6C (1976)**. Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / Guóyíng Sōnglíng Jīxiè Chang | F6C Xíng Fēijī (August, 1976)**.
+    - **F-6C** → **F6C (1976)**. Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / Guóyíng Sōnglíng Jīxiè Chang | F6C Xíng Fēijī (August, 1976)** (it specifies August to differentiate it from the October fit later that year).
         - Mandarin package: Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / 国营松陵机械厂 | F6C型飞机 (August, 1976)**.
         - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 СМ-7/3 / 国营松陵机械厂 | F6C型飞机 (August, 1976)**.
     - **B-52H-140-BW (1974)** → **B-52H-140-BW (1979)**. Statcard name → **Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32)**.

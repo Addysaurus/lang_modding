@@ -1273,8 +1273,109 @@ jp_type_5_ho_ri_production_1;ホリ
 jp_type_5_ho_ri_production_2;SPG
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+jp_type_87_rcv_prot_shop;RCV (試1号)
+jp_type_87_rcv_prot_0;"<color=#81c3fc>小松製作</color>
+偵察警戒車
+<color=#adadad>(試作1号車)</color>"
+jp_type_87_rcv_prot_1;RCV
+jp_type_87_rcv_prot_2;WIFV
+
+jp_m47_patton_II_shop;▅ M47
+jp_m47_patton_II_0;"<color=#81c3fc>American Locomotive Company</color>
+<color=#5cae63>G-262</color>
+▅ Tank, Combat, Full Tracked: 90mm Gun, M47 Patton"
+jp_m47_patton_II_1;▅ M47
+jp_m47_patton_II_2;Medium Tank
+
+jp_st_b1_shop;STB-0002
+jp_st_b1_0;"<color=#81c3fc>三菱重工業</color>
+STB-0002"
+jp_st_b1_1;STB-0002
+jp_st_b1_2;Medium Tank
+
+jp_type_74_c_shop;74TK (C)
+jp_type_74_c_0;"<color=#81c3fc>三菱重工業</color>
+74式戦車C型「ナナヨン」"
+jp_type_74_c_1;74TK (C)
+jp_type_74_c_2;MBT
+
+jp_type_74_shop;74TK (E)
+jp_type_74_0;"<color=#81c3fc>三菱重工業</color>
+74式戦車E型「ナナヨン」"
+jp_type_74_1;74TK (E)
+jp_type_74_2;MBT
+
+jp_type_74_f_shop;74TK (F)
+jp_type_74_f_0;"<color=#81c3fc>三菱重工業</color>
+74式戦車G型「ナナヨン」"
+jp_type_74_f_1;74TK (F)
+jp_type_74_f_2;MBT
+
+jp_type_74_mod_g_kai_shop;74TK (G)
+jp_type_74_mod_g_kai_0;"<color=#81c3fc>三菱重工業</color>
+74式戦車G型「ナナヨン」"
+jp_type_74_mod_g_kai_1;74TK (G)
+jp_type_74_mod_g_kai_2;MBT
+
+jp_type_74_red_star_shop;74TK (C) (304戦中)
+jp_type_74_red_star_0;"<color=#81c3fc>三菱重工業</color>
+74式戦車C型「ナナヨン」
+<color=@currencyGoldColor>第304戦車中隊</color>"
+jp_type_74_red_star_1;74TK (C)
+jp_type_74_red_star_2;MBT
+
+jp_type_99_shop;99HSP
+jp_type_99_0;"<color=#81c3fc>三菱重工業 <color=@commonTextColor>+</color> 日本製鋼所</color>
+99式自走155mmりゅう弾砲「ロングノーズ」"
+jp_type_99_1;99HSP
+jp_type_99_2;SPH
+
+jp_type_75_mlrs_shop;75MSSR
+jp_type_75_mlrs_0;"<color=#81c3fc>小松製作 KA161</color>
+75式自走130mm多連装ロケット弾発射機"
+jp_type_75_mlrs_1;75MSSR
+jp_type_75_mlrs_2;MLRS
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+jp_type_87_rcv_shop;87RCV
+jp_type_87_rcv_0;"<color=#81c3fc>小松製作 KS130W</color>
+87式偵察警戒車「ブラックアイ」"
+jp_type_87_rcv_1;87RCV
+jp_type_87_rcv_2;WIFV
+
+jp_type_89_shop;89FV
+jp_type_89_0;"<color=#81c3fc>三菱重工業</color>
+89式装甲戦闘車「ライトタイガー」"
+jp_type_89_1;89FV
+jp_type_89_2;IFV
+
+jp_type_16_mcv_prot_shop;MCV (試3号)
+jp_type_16_mcv_prot_0;"<color=#81c3fc>三菱重工業</color>
+機動戦闘車
+<color=#adadad>(試作3号車)</color>"
+jp_type_16_mcv_prot_1;MCV
+jp_type_16_mcv_prot_2;Light Tank
+
+jp_type_87_shop;87AW
+jp_type_87_0;"<color=#81c3fc>三菱重工業 <color=@commonTextColor>+</color> 日本製鋼所</color>
+87式自走高射機関砲「スカイシューター」"
+jp_type_87_1;87AW
+jp_type_87_2;SPAAG
+
+jp_type_16_mod_shop;16MCV (C1) (15RDR)
+jp_type_16_mod_0;"<color=#81c3fc>三菱重工業</color>
+16式機動戦闘車
+<color=#adadad>(C1ロット)</color>
+<color=@currencyGoldColor>第15即応機動連隊</color>"
+jp_type_16_mod_1;16MCV
+jp_type_16_mod_2;Light Tank
+
+jp_type_16_shop;16MCV (C1)
+jp_type_16_0;"<color=#81c3fc>三菱重工業</color>
+16式機動戦闘車
+<color=#adadad>(C1ロット)</color>"
+jp_type_16_1;16MCV
+jp_type_16_2;Light Tank
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 

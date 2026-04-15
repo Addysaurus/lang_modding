@@ -34,6 +34,7 @@ All dates are listed in DD-MM-YYYY format.
         - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 СМ-7/3 / 国营松陵机械厂 | F6C型飞机 (August, 1976)**.
     - **B-52H-140-BW (1974)** → **B-52H-140-BW (1979)**. Statcard name → **Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32)**.
     - **9K79** (AI) (event) → **9P129**. Statcard name → **Taktičyeskij rakyetnyj komplyeks 9P129 "Točka"**.
+    - **KPz Leopard 1 A1 A1 (Rh120 L44)** → **Leopard 1 (MPI)**. Statcard name → **Krauss-Maffei Wegmann / Rheinmetall Defense Engineering Main Battle Tank Leopard 1 (Maximum Product Improvement)**.
     - **Zaḥalad 20 mm (Do-Kani)** → **Zaḥalad Ṣriḥon Du-Kani**. Statcard name → **White Motor Company | Zaḥeli Lemeḥeṣah Dizel Ṣriḥon Du-Kani 20 mm**.
         - Hebrew package: **זחל״ד 20 מ״מ (דו-קני)** → **Zaḥalad Ṣriḥon Du-Kani**. Statcard name → **White Motor Company | Zaḥeli Lemeḥeṣah Dizel Ṣriḥon Du-Kani 20 mm**.
     - **Magaḥ 6B**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank M60 A1 RISE | Ṭank Magaḥ 6 Bet**.
@@ -68,6 +69,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Corrected the display of the statcard name of the **PL12AE** ([Report](https://github.com/Addysaurus/lang_modding/issues/146)).
+    - **AIM-9P-3** → **AIM-9P-1**.
 
 ## 1.17.01 - 07-04-2026
 

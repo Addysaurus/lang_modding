@@ -2,7 +2,8 @@
 <color=#81c3fc>Manufacturer & manufacturer name</color>
 <color=#ff8c80>Military project</color>
 <color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
-<color=#7ce68f>Alternate currently applicable name</color>
+<color=#ff831c>Previous service name</color>
+<color=#7ce68f>Alternate current service name</color>
 Vehicle name
 <color=#adadad>Modifications</color>
 <color=#ba77ba>Service years package</color>
@@ -297,8 +298,18 @@ germ_kv_1B_finland_2;▀ Heavy Tank
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+germ_leopard_a1a1_120_shop;Leopard 1 (MPI)
+germ_leopard_a1a1_120_0;"<color=#81c3fc>Krauss-Maffei Wegmann <color=@commonTextColor>/</color> Rheinmetall Defense Engineering
+Main Battle Tank Leopard 1</color>
+<color=#adadad>(Maximum Product Improvement)</color>"
+germ_leopard_a1a1_120_1;Leopard 1
+germ_leopard_a1a1_120_2;MBT
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+germ_th_400_shop;H 400
+germ_th_400_0;<color=#81c3fc>Henschel Wehrtechnik H 400</color>
+germ_th_400_1;H 400
+germ_th_400_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 
@@ -1952,8 +1963,116 @@ jp_type_5_ho_ri_production_1;Ho Ri
 jp_type_5_ho_ri_production_2;SPG
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+jp_type_87_rcv_prot_shop;RCV (Shi 1 Gō)
+jp_type_87_rcv_prot_0;"<color=#81c3fc>Komatsu Seisaku</color>
+Teisatsu Keikaisha
+<color=#adadad>(Shisaku 1 Gōsha)</color>"
+jp_type_87_rcv_prot_1;RCV
+jp_type_87_rcv_prot_2;WIFV
+
+jp_m47_patton_II_shop;▅ M47
+jp_m47_patton_II_0;"<color=#81c3fc>American Locomotive Company</color>
+<color=#5cae63>G-262</color>
+▅ Tank, Combat, Full Tracked: 90mm Gun, M47 Patton"
+jp_m47_patton_II_1;▅ M47
+jp_m47_patton_II_2;Medium Tank
+
+jp_st_b1_shop;STB-0002
+jp_st_b1_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+STB-0002"
+jp_st_b1_1;STB-0002
+jp_st_b1_2;Medium Tank
+
+jp_type_74_c_shop;74TK (C)
+jp_type_74_c_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+74 Shiki Sensha C Gata ""Nana Yon"""
+jp_type_74_c_1;74TK (C)
+jp_type_74_c_2;MBT
+
+jp_type_74_shop;74TK (E)
+jp_type_74_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+74 Shiki Sensha E Gata ""Nana Yon"""
+jp_type_74_1;74TK (E)
+jp_type_74_2;MBT
+
+jp_type_74_f_shop;74TK (F)
+jp_type_74_f_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+74 Shiki Sensha F Gata ""Nana Yon"""
+jp_type_74_f_1;74TK (F)
+jp_type_74_f_2;MBT
+
+jp_type_74_mod_g_kai_shop;74TK (G)
+jp_type_74_mod_g_kai_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+74 Shiki Sensha G Gata ""Nana Yon"""
+jp_type_74_mod_g_kai_1;74TK (G)
+jp_type_74_mod_g_kai_2;MBT
+
+jp_type_74_red_star_shop;74TK (C) (304 Sen Chū)
+jp_type_74_red_star_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+74 Shiki Sensha C Gata ""Nana Yon""
+<color=@currencyGoldColor>Dai 304 Sensha Chūtai</color>"
+jp_type_74_red_star_1;74TK (C)
+jp_type_74_red_star_2;MBT
+
+jp_type_99_shop;99HSP
+jp_type_99_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō <color=@commonTextColor>+</color> Nihon Sei Kōgyō</color>
+99 Shiki Jisō 155mm Ryūdanhō ""Rongunōzu"""
+jp_type_99_1;99HSP
+jp_type_99_2;SPH
+
+jp_m163_vulcan_shop;Ptx. Xěm 163
+jp_m163_vulcan_0;"<color=#81c3fc>General Electric Company</color>
+Pụ̄n Txsū Xākāṣyān 20 mm Xạttā Jr Bæb Xěm 163"
+jp_m163_vulcan_1;Ptx. Xěm 163
+jp_m163_vulcan_2;SPAAG
+
+jp_type_75_mlrs_shop;75MSSR
+jp_type_75_mlrs_0;"<color=#81c3fc>Komatsu Seisaku KA161</color>
+75 Shiki Jisō 130mm Tarensō Rokettodan Hasshaki"
+jp_type_75_mlrs_1;75MSSR
+jp_type_75_mlrs_2;MLRS
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+jp_type_87_rcv_shop;87RCV
+jp_type_87_rcv_0;"<color=#81c3fc>Komatsu Seisaku KS130W</color>
+87 Shiki Teisatsu Keikaisha ""Burakkuai"""
+jp_type_87_rcv_1;87RCV
+jp_type_87_rcv_2;WIFV
+
+jp_type_89_shop;89FV
+jp_type_89_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+89 Shiki Sōkō Sentō Sha ""Raito Taigā"""
+jp_type_89_1;89FV
+jp_type_89_2;IFV
+
+jp_type_16_mcv_prot_shop;MCV (Shi 3 Gō)
+jp_type_16_mcv_prot_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+Kidō Sentō Sha
+<color=#adadad>(Shisaku 3 Gōsha)</color>"
+jp_type_16_mcv_prot_1;MCV
+jp_type_16_mcv_prot_2;Light Tank
+
+jp_type_87_shop;87AW
+jp_type_87_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō <color=@commonTextColor>+</color> Nihon Sei Kōgyō</color>
+87 Shiki Jisō Kōsha Kikanhō ""Sukaishūtā"""
+jp_type_87_1;87AW
+jp_type_87_2;SPAAG
+
+jp_type_16_mod_shop;16MCV (C1) (15RDR)
+jp_type_16_mod_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+16 Shiki Kidō Sentō Sha
+<color=#adadad>(C1 Rotto)</color>
+<color=@currencyGoldColor>Dai 15 Sokuō Kidō Rentai</color>"
+jp_type_16_mod_1;16MCV
+jp_type_16_mod_2;Light Tank
+
+jp_type_16_shop;16MCV (C1)
+jp_type_16_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+16 Shiki Kidō Sentō Sha
+<color=#adadad>(C1 Rotto)</color>"
+jp_type_16_1;16MCV
+jp_type_16_2;Light Tank
+
 jp_btr_3e1_shop;Bīthīxār 3 Xī 1
 jp_btr_3e1_0;"<color=#81c3fc>Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O.
 Morozova</color>

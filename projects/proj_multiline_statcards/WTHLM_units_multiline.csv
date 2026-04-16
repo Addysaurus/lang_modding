@@ -2238,8 +2238,96 @@ jp_abtei_pr4_1;Sōkō Tei Dai 4 Gō
 jp_abtei_pr4_2;Armored Boat
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+jp_karotei_type2_shop;Ka Ro 2 Gata
+jp_karotei_type2_0;"<color=#81c3fc>Yokohama Yotto</color>
+<color=#7ce68f>4 Shiki 2 Gata Kuchiku Tei</color>
+Ka Ro 2 Gata"
+jp_karotei_type2_1;Ka Ro 2 Gata
+jp_karotei_type2_2;Motor Gunboat
+
+jp_karotei_type4_shop;Ka Ro 4 Gata
+jp_karotei_type4_0;"<color=#81c3fc>Yokohama Yotto</color>
+<color=#7ce68f>4 Shiki 4 Gata Kuchiku Tei</color>
+Ka Ro 4 Gata"
+jp_karotei_type4_1;Ka Ro 4 Gata
+jp_karotei_type4_2;Motor Gunboat
+
+jp_sehatei_mod1_shop;Se Ha 1 Gata
+jp_sehatei_mod1_0;"<color=#7ce68f>Shisei Ha Gō Sentō Tei 1 Gata</color>
+Se Ha 1 Gata"
+jp_sehatei_mod1_1;Se Ha 1 Gata
+jp_sehatei_mod1_2;Armored Boat
+
+jp_type38_1944_shop;Dai 241 Gō
+jp_type38_1944_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 241 Gō Gata Gyorai Tei (T-38)</color>
+Dai 241 Gō"
+jp_type38_1944_1;Dai 241 Gō
+jp_type38_1944_2;Motor Torpedo Boat
+
+jp_type1_pt2_shop;Gyorai Tei 2 Gō (PT-802)
+jp_type1_pt2_0;"<color=#81c3fc>Hitachi Zōsen</color>
+<color=#7ce68f>1 Gō Gata Gyorai Tei</color>
+Gyorai Tei 2 Gō (PT-802)"
+jp_type1_pt2_1;Gyorai Tei 2 Gō
+jp_type1_pt2_2;Motor Torpedo Boat
+
+jp_kusen_tei_13_1942_shop;Dai 18 Gō
+jp_kusen_tei_13_1942_0;"<color=#81c3fc>Tsurumi Zōsensho</color>
+<color=#7ce68f>Dai 13 Gō Gata Kusen Tei (K-8)</color>
+Dai 18 Gō"
+jp_kusen_tei_13_1942_1;Dai 18 Gō
+jp_kusen_tei_13_1942_2;Submarine Chaser
+
+jp_kusen_tei_13_1944_shop;Dai 18 Gō (1944)
+jp_kusen_tei_13_1944_0;"<color=#81c3fc>Tsurumi Zōsensho</color>
+<color=#7ce68f>Dai 13 Gō Gata Kusen Tei (K-8)</color>
+Dai 18 Gō (1944)"
+jp_kusen_tei_13_1944_1;Dai 18 Gō
+jp_kusen_tei_13_1944_2;Submarine Chaser
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+jp_t51a_shop;Dai 10 Gō
+jp_t51a_0;"<color=#81c3fc>Yokohama Yotto</color>
+<color=#7ce68f>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 10 Gō Gata Gyorai Tei (T-51A)</color>
+Dai 10 Gō"
+jp_t51a_1;Dai 10 Gō
+jp_t51a_2;Motor Torpedo Boat
+
+jp_t51b_shop;Dai 11 Gō
+jp_t51b_0;"<color=#81c3fc>Yokohama Yotto</color>
+<color=#7ce68f>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 11 Gō Gata Gyorai Tei (T-51B)</color>
+Dai 11 Gō"
+jp_t51b_1;Dai 11 Gō
+jp_t51b_2;Motor Torpedo Boat
+
+jp_pc301_kari_class_shop;Kari (PC-301)
+jp_pc301_kari_class_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
+<color=#7ce68f>Kari Gata Kusen Tei (K-101A)</color>
+Kari (PC-301)"
+jp_pc301_kari_class_1;Kari
+jp_pc301_kari_class_2;Submarine Chaser
+
+jp_no1_ch2_shop;Dai 2 Gō
+jp_no1_ch2_0;"<color=#81c3fc>Ishikawajima Zōsensho</color>
+<color=#7ce68f>Dai 1 Gō Gata Kusen Tei (K-3)</color>
+Dai 2 Gō"
+jp_no1_ch2_1;Dai 2 Gō
+jp_no1_ch2_2;Submarine Chaser
+
+jp_no4_ch8_shop;Dai 8 Gō
+jp_no4_ch8_0;"<color=#81c3fc>Tama Zōsensho</color>
+<color=#7ce68f>Dai 4 Gō Gata Kusen Tei (K-7)</color>
+Dai 8 Gō"
+jp_no4_ch8_1;Dai 8 Gō
+jp_no4_ch8_2;Submarine Chaser
+
+jp_type7_pt808_shop;Gyorai Tei 8 Gō (PT-808)
+jp_type7_pt808_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Shimonoseki Zōsensho</color>
+<color=#7ce68f>7 Gō Gata Gyorai Tei</color>
+Gyorai Tei 8 Gō (PT-808)"
+jp_type7_pt808_1;Gyorai Tei 8 Gō
+jp_type7_pt808_2;Motor Torpedo Boat
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 

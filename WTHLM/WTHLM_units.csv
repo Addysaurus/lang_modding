@@ -2913,12 +2913,12 @@ f_111f_shop;F-111F
 f_111f_0;"General Dynamics Corporation + Grumman Aerospace Corporation | F-111F ""Aardvark"""
 f_111f_1;F-111F
 f_111f_2;F-111
-a_6e_tram_shop;A-6E (TRAM)
-a_6e_tram_0;Grumman Aerospace Corporation G-128S | A-6E Intruder (Target Recognition and Attack Multi-Sensor)
+a_6e_tram_shop;A-6E (WCSI)
+a_6e_tram_0;Grumman Aerospace Corporation G-128S | A-6E Intruder (Weapons Control System Improvement)
 a_6e_tram_1;A-6E
 a_6e_tram_2;A-6
-nt_a_6e_tram_shop;A-6E (TRAM)
-nt_a_6e_tram_0;Grumman Aerospace Corporation G-128S | A-6E Intruder (Target Recognition and Attack Multi-Sensor)
+nt_a_6e_tram_shop;A-6E (WCSI)
+nt_a_6e_tram_0;Grumman Aerospace Corporation G-128S | A-6E Intruder (Weapons Control System Improvement)
 nt_a_6e_tram_1;A-6E
 nt_a_6e_tram_2;A-6
 
@@ -7032,6 +7032,12 @@ jp_type_81_tansam_launcher_shop;81 Shiki (C) Kadaibu
 jp_type_81_tansam_launcher_0;"Gijutsu Kenkyū Honbu + Tōshiba | 81 Shiki Tankyori Chi Taikū Yūdōdan C Gata Kadaibu ""Shōto Arō"""
 jp_type_81_tansam_launcher_1;81 Shiki (C) Kadaibu
 jp_type_81_tansam_launcher_2;SPAAM
+jp_icv_prototype_shop;25RCV
+jp_icv_prototype_0;Mitsubishi Jū Kōgyō | 25 Shiki Teisatsu Keikaisha
+jp_icv_prototype_1;25RCV
+jp_icv_prototype_2;RCV
+
+//JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 jp_type_03_chusam_fcs_shop;03 Shiki Sha Rēda Sō Kūsen-bu
 jp_type_03_chusam_fcs_0;Mitsubishi Jū Kōgyō | 03 Shiki Chūkyori Chi Taikū Yūdōdan Shagekiyō Rēda Sōchi Kūchūsen-bu
 jp_type_03_chusam_fcs_1;03 Shiki Sha Rēda Sō Kūsen-bu
@@ -7040,12 +7046,6 @@ jp_type_03_chusam_launcher_shop;03 Shiki Has Sō
 jp_type_03_chusam_launcher_0;Mitsubishi Jū Kōgyō | 03 Shiki Chūkyori Chi Taikū Yūdōdan Hassha Sōchi
 jp_type_03_chusam_launcher_1;03 Shiki Has Sō
 jp_type_03_chusam_launcher_2;Radar
-jp_icv_prototype_shop;25RCV
-jp_icv_prototype_0;Mitsubishi Jū Kōgyō | 25 Shiki Teisatsu Keikaisha
-jp_icv_prototype_1;25RCV
-jp_icv_prototype_2;RCV
-
-//JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 jp_type_10_shop;10TK
 jp_type_10_0;Gijutsu Kenkyū Honbu + Mitsubishi Jū Kōgyō | 10 Shiki Sensha
 jp_type_10_1;10TK

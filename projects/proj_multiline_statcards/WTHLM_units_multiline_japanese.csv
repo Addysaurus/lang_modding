@@ -1378,8 +1378,93 @@ jp_type_16_1;16MCV
 jp_type_16_2;Light Tank
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+jp_icv_ifv_prototype_shop;24WAFV
+jp_icv_ifv_prototype_0;"<color=#81c3fc>三菱重工業</color>
+24式装輪装甲戦闘車"
+jp_icv_ifv_prototype_1;24WAFV
+jp_icv_ifv_prototype_2;WIFV
+
+jp_type_10_prototype_shop;新TK3号 (2006)
+jp_type_10_prototype_0;"<color=#81c3fc>技術研究本部 <color=@commonTextColor>+</color> 三菱重工業</color>
+新戦車3号車
+<color=#adadad>(2006)</color>"
+jp_type_10_prototype_1;新TK3号
+jp_type_10_prototype_2;MBT
+
+jp_tkx_prot_shop;新TK3号 (2009)
+jp_tkx_prot_0;"<color=#81c3fc>技術研究本部 <color=@commonTextColor>+</color> 三菱重工業</color>
+新戦車3号車
+<color=#adadad>(2009)</color>"
+jp_tkx_prot_1;新TK3号
+jp_tkx_prot_2;MBT
+
+jp_type_90_shop;90TK
+jp_type_90_0;"<color=#81c3fc>三菱重工業</color>
+90式戦車"
+jp_type_90_1;90TK
+jp_type_90_2;MBT
+
+jp_type_90b_shop;90TK (B)
+jp_type_90b_0;"<color=#81c3fc>三菱重工業</color>
+90式戦車B型"
+jp_type_90b_1;90TK (B)
+jp_type_90b_2;MBT
+
+jp_type_90b_camo_shop;90TK (B) (富士学校)
+jp_type_90b_camo_0;"<color=#81c3fc>三菱重工業</color>
+90式戦車B型
+<color=@currencyGoldColor>陸上自衛隊富士学校、機甲教導連隊、第3戦車中隊</color>"
+jp_type_90b_camo_1;90TK (B)
+jp_type_90b_camo_2;MBT
+
+jp_type_93_shop;93式
+jp_type_93_0;"<color=#81c3fc>東芝</color>
+93式近距離地対空誘導弾"
+jp_type_93_1;93式
+jp_type_93_2;SPAAM
+
+jp_type_81_tansam_shop;81式 (C) 架台部
+jp_type_81_tansam_0;"<color=#81c3fc>技術研究本部 <color=@commonTextColor>+</color> 東芝</color>
+81式短距離地対空誘導弾C型架台部「ショートアロー」"
+jp_type_81_tansam_1;81式 (C) 架台部
+jp_type_81_tansam_2;SPAAM
+
+jp_type_81_tansam_fcs_shop;81式 (C) 射統装
+jp_type_81_tansam_fcs_0;"<color=#81c3fc>技術研究本部 <color=@commonTextColor>+</color> 東芝</color>
+81式短距離地対空誘導弾C型射撃統制装置「ショートアロー」"
+jp_type_81_tansam_fcs_1;81式 (C) 射統装
+jp_type_81_tansam_fcs_2;Radar
+
+jp_type_81_tansam_launcher_shop;81式 (C) 架台部
+jp_type_81_tansam_launcher_0;"<color=#81c3fc>技術研究本部 <color=@commonTextColor>+</color> 東芝</color>
+81式短距離地対空誘導弾C型架台部「ショートアロー」"
+jp_type_81_tansam_launcher_1;81式 (C) 架台部
+jp_type_81_tansam_launcher_2;SPAAM
+
+jp_icv_prototype_shop;25RCV
+jp_icv_prototype_0;"<color=#81c3fc>三菱重工業</color>
+25式偵察警戒車"
+jp_icv_prototype_1;25RCV
+jp_icv_prototype_2;RCV
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+jp_type_03_chusam_fcs_shop;03式射レーダ装空部
+jp_type_03_chusam_fcs_0;"<color=#81c3fc>三菱重工業</color>
+03式中距離地対空誘導弾射撃用レーダ装置空中線部"
+jp_type_03_chusam_fcs_1;03式射レーダ装空部
+jp_type_03_chusam_fcs_2;Radar
+
+jp_type_03_chusam_launcher_shop;03式発装
+jp_type_03_chusam_launcher_0;"<color=#81c3fc>三菱重工業</color>
+03式中距離地対空誘導弾発射装置"
+jp_type_03_chusam_launcher_1;03式発装
+jp_type_03_chusam_launcher_2;Radar
+
+jp_type_10_shop;10TK
+jp_type_10_0;"<color=#81c3fc>技術研究本部 <color=@commonTextColor>+</color> 三菱重工業</color>
+10式戦車"
+jp_type_10_1;10TK
+jp_type_10_2;MBT
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 

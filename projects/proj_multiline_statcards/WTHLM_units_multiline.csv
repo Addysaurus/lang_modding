@@ -2,7 +2,8 @@
 <color=#81c3fc>Manufacturer & manufacturer name</color>
 <color=#ff8c80>Military project</color>
 <color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
-<color=#7ce68f>Alternate currently applicable name</color>
+<color=#ff831c>Previous service name</color>
+<color=#7ce68f>Alternate current service name</color>
 Vehicle name
 <color=#adadad>Modifications</color>
 <color=#ba77ba>Service years package</color>
@@ -78,17 +79,19 @@ A-10C Thunderbolt II ""Warthog"""
 a_10c_1;A-10C
 a_10c_2;A-10
 
-b_52h_shop;B-52H-140-BW (1974)
+b_52h_shop;B-52H-140-BW (1979)
 b_52h_0;"<color=#81c3fc>Boeing Airplane Company Model 464-261</color>
 B-52H-140-BW Stratofortress
-<color=#adadad>(Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start)</color>"
+<color=#adadad>(Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151)
+(Project Quick Start) (AN/ALT-32)</color>"
 b_52h_1;B-52H
 b_52h_2;B-52
 
-nt_b_52h_shop;☢ B-52H-140-BW (1974)
+nt_b_52h_shop;☢ B-52H-140-BW (1979)
 nt_b_52h_0;"<color=#81c3fc>Boeing Airplane Company Model 464-261</color>
 ☢ B-52H-140-BW Stratofortress
-<color=#adadad>(Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start)</color>"
+<color=#adadad>(Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151)
+(Project Quick Start) (AN/ALT-32)</color>"
 nt_b_52h_1;☢ B-52H
 nt_b_52h_2;☢ B-52
 
@@ -135,17 +138,17 @@ A-7K-CV Corsair II"
 a_7k_1;A-7K
 a_7k_2;A-7
 
-a_6e_tram_shop;A-6E (TRAM)
+a_6e_tram_shop;A-6E (WCSI)
 a_6e_tram_0;"<color=#81c3fc>Grumman Aerospace Corporation G-128S</color>
 A-6E Intruder
-<color=#adadad>(Target Recognition and Attack Multi-Sensor)</color>"
+<color=#adadad>(Weapons Control System Improvement)</color>"
 a_6e_tram_1;A-6E
 a_6e_tram_2;A-6
 
-nt_a_6e_tram_shop;A-6E (TRAM)
+nt_a_6e_tram_shop;A-6E (WCSI)
 nt_a_6e_tram_0;"<color=#81c3fc>Grumman Aerospace Corporation G-128S</color>
 A-6E Intruder
-<color=#adadad>(Target Recognition and Attack Multi-Sensor)</color>"
+<color=#adadad>(Weapons Control System Improvement)</color>"
 nt_a_6e_tram_1;A-6E
 nt_a_6e_tram_2;A-6
 
@@ -295,8 +298,18 @@ germ_kv_1B_finland_2;▀ Heavy Tank
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+germ_leopard_a1a1_120_shop;Leopard 1 (MPI)
+germ_leopard_a1a1_120_0;"<color=#81c3fc>Krauss-Maffei Wegmann <color=@commonTextColor>/</color> Rheinmetall Defense Engineering
+Main Battle Tank Leopard 1</color>
+<color=#adadad>(Maximum Product Improvement)</color>"
+germ_leopard_a1a1_120_1;Leopard 1
+germ_leopard_a1a1_120_2;MBT
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+germ_th_400_shop;H 400
+germ_th_400_0;<color=#81c3fc>Henschel Wehrtechnik H 400</color>
+germ_th_400_1;H 400
+germ_th_400_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 
@@ -1550,22 +1563,516 @@ su_30mkm_1;☉ Su-30MKM
 su_30mkm_2;☉ Su-30
 
 //JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+uh_1b_japan_shop;▅ UH-1B
+uh_1b_japan_0;"<color=#81c3fc>Bell Helicopter Company <color=@commonTextColor>/</color> Fuji Jū Kōgyō</color>
+▅ UH-1B Ta Yōto Herikoputā ""Hiyodori"""
+uh_1b_japan_1;▅ UH-1B
+uh_1b_japan_2;▅ UH-1
 
 //JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+ah_1s_early_shop;▅ AH-1S (ECAS)
+ah_1s_early_0;"<color=#81c3fc>Bell Helicopter Textron <color=@commonTextColor>/</color> Fuji Jū Kōgyō</color>
+▅ AH-1S Kōgeki Herikoputā
+<color=#adadad>(Enhanced Cobra Armament System)</color>"
+ah_1s_early_1;▅ AH-1S
+ah_1s_early_2;▅ AH-1
+
+ah_1s_late_shop;▅ AH-1S (MC) (CN)
+ah_1s_late_0;"<color=#81c3fc>Bell Helicopter Textron <color=@commonTextColor>/</color> Fuji Jū Kōgyō</color>
+▅ AH-1S Kōgeki Herikoputā
+<color=#adadad>(Modernized Cobra) (Cobra Night Imaging Thermal Equipment)</color>"
+ah_1s_late_1;▅ AH-1S
+ah_1s_late_2;▅ AH-1
+
+ah_1s_shop;▅ AH-1S (MC) (CN) (4 Tai Sen Heri)
+ah_1s_0;"<color=#81c3fc>Bell Helicopter Textron <color=@commonTextColor>/</color> Fuji Jū Kōgyō</color>
+▅ AH-1S Kōgeki Herikoputā
+<color=#adadad>(Fully Modernized Cobra) (Cobra Night Imaging Thermal Equipment)</color>
+<color=@currencyGoldColor>Dai 4 Tai Sensha Herikoputā Tai</color>"
+ah_1s_1;▅ AH-1S
+ah_1s_2;▅ AH-1
+
+mi_35p_indonesia_shop;◥ Mi-35P
+mi_35p_indonesia_0;"<color=#81c3fc>Moskovskij vyertolëtnyj zavod im. M. L. Milâ</color>
+◥ Mi-35P"
+mi_35p_indonesia_1;◥ Mi-35P
+mi_35p_indonesia_2;◥ Mi-35
 
 //JAPAN HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+ah_64d_japan_shop;▅ AH-64D
+ah_64d_japan_0;"<color=#81c3fc>Boeing Rotorcraft Systems AH-64DJP <color=@commonTextColor>/</color> Fuji Jū Kōgyō <color=@commonTextColor>+</color> Sojitz Kabushiki
+Gaisha</color>
+▅ AH-64D Sentō Herikoputā ""Apatchi Rongubou"""
+ah_64d_japan_1;▅ AH-64D
+ah_64d_japan_2;▅ AH-64
+
+ah_64e_indonesia_shop;◥ AH-64E (v6)
+ah_64e_indonesia_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
+◥ Helicopter, Attack, AH-64E Guardian Apache
+<color=#adadad>(Capability Version 6)</color>"
+ah_64e_indonesia_1;◥ AH-64E
+ah_64e_indonesia_2;◥ AH-64
+
+ah_64d_lightweight_japan_shop;▅ AH-64D (3 Tai Sen Heri)
+ah_64d_lightweight_japan_0;"<color=#81c3fc>Boeing Rotorcraft Systems AH-64DJP <color=@commonTextColor>/</color> Fuji Jū Kōgyō <color=@commonTextColor>+</color> Sojitz Kabushiki
+Gaisha</color>
+▅ AH-64D Sentō Herikoputā ""Apatchi Rongubou""
+<color=@currencyGoldColor>Dai 3 Tai Sensha Herikoputā Tai</color>"
+ah_64d_lightweight_japan_1;▅ AH-64D
+ah_64d_lightweight_japan_2;▅ AH-64
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+jp_type_95_ha_go_shop;Ha Gō (late) (94 Shiki)
+jp_type_95_ha_go_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>95 Shiki Kei Sensha</color>
+Ha Gō
+<color=#adadad>(late) (94 Shiki 37 Mirimētoru Sensha Hō)</color>"
+jp_type_95_ha_go_1;Ha Gō
+jp_type_95_ha_go_2;Light Tank
+
+jp_type_95_ha_go_commander_shop;Ha Gō (Shiki) (94 Shiki) (1 Sen Ren)
+jp_type_95_ha_go_commander_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>95 Shiki Kei Sensha</color>
+Ha Gō
+<color=#adadad>(Shiki) (94 Shiki 37 Mirimētoru Sensha Hō)</color>
+<color=@currencyGoldColor>Dai 1 Sensha Rentai</color>"
+jp_type_95_ha_go_commander_1;Ha Gō
+jp_type_95_ha_go_commander_2;Light Tank
+
+jp_type_98_ke_ni_shop;Ke Ni A
+jp_type_98_ke_ni_0;"<color=#81c3fc>Tōkyō Jidōsha Kōgyō</color>
+Ke Ni A"
+jp_type_98_ke_ni_1;Ke Ni A
+jp_type_98_ke_ni_2;Light Tank
+
+jp_type_2_ka_mi_shop;Ka Mi
+jp_type_2_ka_mi_0;"<color=#81c3fc>Kure Kaigun Kōshō <color=@commonTextColor>+</color> Rikugun Gijutsu Honbu</color>
+<color=#7ce68f>Toku 2 Shiki Naikatei</color>
+Ka Mi"
+jp_type_2_ka_mi_1;Ka Mi
+jp_type_2_ka_mi_2;Light Tank
+
+jp_type_89b_i_go_otsu_shop;I Gō Kō (late)
+jp_type_89b_i_go_otsu_0;"<color=#81c3fc>Mitsubishi Kōkūki</color>
+<color=#7ce68f>89 Shiki Chū Sensha Kō</color>
+I Gō Kō
+<color=#adadad>(late)</color>"
+jp_type_89b_i_go_otsu_1;I Gō Kō
+jp_type_89b_i_go_otsu_2;Light Tank
+
+jp_type_97_chi_ha_shop;Chi Ha
+jp_type_97_chi_ha_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>97 Shiki Chū Sensha</color>
+Chi Ha"
+jp_type_97_chi_ha_1;Chi Ha
+jp_type_97_chi_ha_2;Medium Tank
+
+jp_type_97_kai_shop;Chi Ha (1 Shiki)
+jp_type_97_kai_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>97 Shiki Chū Sensha</color>
+Chi Ha
+<color=#adadad>(1 Shiki 47 Mirimētoru Sensha Hō)</color>"
+jp_type_97_kai_1;Chi Ha
+jp_type_97_kai_2;Medium Tank
+
+jp_type_97_kai_td_shop;⋦ Chi Ha (1 Shiki)
+jp_type_97_kai_td_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>97 Shiki Chū Sensha</color>
+⋦ Chi Ha
+<color=#adadad>(1 Shiki 47 Mirimētoru Sensha Hō)</color>"
+jp_type_97_kai_td_1;⋦ Chi Ha
+jp_type_97_kai_td_2;Medium Tank
+
+jp_type_2_ho_i_shop;Ho I
+jp_type_2_ho_i_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>2 Shiki Hō Sensha</color>
+Ho I"
+jp_type_2_ho_i_1;Ho I
+jp_type_2_ho_i_2;Medium Tank
+
+jp_type_4_ho_ro_shop;Ho Ro
+jp_type_4_ho_ro_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>4 Shiki 15 Senchimētoru Jisō Hō</color>
+Ho Ro"
+jp_type_4_ho_ro_1;Ho Ro
+jp_type_4_ho_ro_2;SPG
+
+jp_type_2_ho_ni_2_shop;Ho Ni II (early)
+jp_type_2_ho_ni_2_0;"<color=#81c3fc>Rikugun Yasen Hōhei Gakkō</color>
+<color=#7ce68f>1 Shiki 10 Senchi Jisō Hō</color>
+Ho Ni II
+<color=#adadad>(early)</color>"
+jp_type_2_ho_ni_2_1;Ho Ni II
+jp_type_2_ho_ni_2_2;SPG
+
+jp_type_3_ho_ni_I_shop;Ho Ni I
+jp_type_3_ho_ni_I_0;"<color=#81c3fc>Rikugun Yasen Hōhei Gakkō</color>
+<color=#7ce68f>1 Shiki 7 Senchi Han Jisō Hō</color>
+Ho Ni I"
+jp_type_3_ho_ni_I_1;Ho Ni I
+jp_type_3_ho_ni_I_2;SPG
+
+jp_type_3_ho_ni_III_shop;Ho Ni III
+jp_type_3_ho_ni_III_0;"<color=#81c3fc>Rikugun Yasen Hōhei Gakkō</color>
+<color=#7ce68f>3 Shiki Hō Sensha</color>
+Ho Ni III"
+jp_type_3_ho_ni_III_1;Ho Ni III
+jp_type_3_ho_ni_III_2;SPG
+
+jp_hiro_sha_shop;Shi 12 Senchi Ji Hō
+jp_hiro_sha_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+Shisei 12 Senchimētoru Jisō Hō"
+jp_hiro_sha_1;Shi 12 Senchi Ji Hō
+jp_hiro_sha_2;SPG
+
+jp_type_94_shop;94 Shiki (98 Shiki)
+jp_type_94_0;"<color=#81c3fc>Tōkyō Jidōsha Kōgyō</color>
+94 Shiki 6 Rin Jidō Kasha
+<color=#adadad>(98 Shiki 20 Mirimētoru Kōsha Kikanhō)</color>"
+jp_type_94_1;94 Shiki (98 Shiki)
+jp_type_94_2;SPAAG
+
+jp_type_98_ta_se_shop;Ta Se
+jp_type_98_ta_se_0;"<color=#81c3fc>Tōkyō Jidōsha Kōgyō</color>
+<color=#7ce68f>Shisei Taikū Sensha</color>
+Ta Se"
+jp_type_98_ta_se_1;Ta Se
+jp_type_98_ta_se_2;SPAAG
+
+jp_type_95_heavy_shop;Ro Gō
+jp_type_95_heavy_0;"<color=#81c3fc>Ōsaka Hōhei Kōshō</color>
+<color=#7ce68f>95 Shiki Jū Sensha</color>
+Ro Gō"
+jp_type_95_heavy_1;Ro Gō
+jp_type_95_heavy_2;Heavy Tank
+
+jp_type_3_ka_chi_shop;Ka Chi
+jp_type_3_ka_chi_0;"<color=#81c3fc>Kure Kaigun Kōshō <color=@commonTextColor>+</color> Rikugun Gijutsu Honbu</color>
+<color=#7ce68f>Toku 3 Shiki Naikatei</color>
+Ka Chi"
+jp_type_3_ka_chi_1;Ka Chi
+jp_type_3_ka_chi_2;Light Tank
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+jp_type_1_chi_he_shop;Chi He
+jp_type_1_chi_he_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>1 Shiki Chū Sensha</color>
+Chi He"
+jp_type_1_chi_he_1;Chi He
+jp_type_1_chi_he_2;Medium Tank
+
+jp_type_1_chi_he_5th_regiment_shop;Chi He (5 Sen Ren)
+jp_type_1_chi_he_5th_regiment_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>1 Shiki Chū Sensha</color>
+Chi He
+<color=@currencyGoldColor>Dai 5 Sensha Rentai</color>"
+jp_type_1_chi_he_5th_regiment_1;Chi He
+jp_type_1_chi_he_5th_regiment_2;Medium Tank
+
+jp_navy_120mm_spg_shop;12 Senchi Ji Hō
+jp_navy_120mm_spg_0;"<color=#81c3fc>Kaigun Kansei Honbu Dai 1 Bu</color>
+12 Senchimētoru Jisō Hō"
+jp_navy_120mm_spg_1;12 Senchi Ji Hō
+jp_navy_120mm_spg_2;SPG
+
+jp_type_97_chi_ha_12cm_shop;12 Senchi Hō Sen
+jp_type_97_chi_ha_12cm_0;"<color=#81c3fc>Kaigun Kansei Honbu Dai 1 Bu</color>
+12 Senchimētoru Hō Sensha"
+jp_type_97_chi_ha_12cm_1;12 Senchi Hō Sen
+jp_type_97_chi_ha_12cm_2;Medium Tank
+
+jp_halftrack_m16_shop;▅ M16
+jp_halftrack_m16_0;"<color=#81c3fc>White Motor Company</color>
+▅ M16 Jisō Kōsha Kikan Hō"
+jp_halftrack_m16_1;▅ M16
+jp_halftrack_m16_2;SPAA
+
+jp_type_95_so_ki_shop;So Ki
+jp_type_95_so_ki_0;"<color=#81c3fc>Tōkyō Jidōsha Kōgyō</color>
+<color=#7ce68f>Shisei Taikū Sensha</color>
+So Ki"
+jp_type_95_so_ki_1;So Ki
+jp_type_95_so_ki_2;SPAAG
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+jp_m24_chaffee_shop;▅ M24
+jp_m24_chaffee_0;"<color=#81c3fc>Cadillac Motor Company</color>
+▅ M24 Sensha ""Chāfī"""
+jp_m24_chaffee_1;▅ M24
+jp_m24_chaffee_2;Light Tank
+
+jp_type_3_chi_nu_shop;Chi Nu
+jp_type_3_chi_nu_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>3 Shiki Chū Sensha</color>
+Chi Nu"
+jp_type_3_chi_nu_1;Chi Nu
+jp_type_3_chi_nu_2;Medium Tank
+
+jp_type_3_chi_nu_75cm_type_5_shop;Chi Nu (5 Shiki II Gata)
+jp_type_3_chi_nu_75cm_type_5_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>3 Shiki Chū Sensha</color>
+Chi Nu
+<color=#adadad>(Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) II Gata)</color>"
+jp_type_3_chi_nu_75cm_type_5_1;Chi Nu
+jp_type_3_chi_nu_75cm_type_5_2;Medium Tank
+
+jp_type_4_chi_to_shop;Chi To (2 Gō)
+jp_type_4_chi_to_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>Shisei Chū Sensha (Kō)</color>
+Chi To
+<color=#adadad>(Shisei 2 Gōsha)</color>"
+jp_type_4_chi_to_1;Chi To
+jp_type_4_chi_to_2;Medium Tank
+
+jp_type_4_chi_to_late_shop;Chi To
+jp_type_4_chi_to_late_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>Shisei 4 Shiki Chū Sensha</color>
+Chi To"
+jp_type_4_chi_to_late_1;Chi To
+jp_type_4_chi_to_late_2;Medium Tank
+
+jp_type_5_na_to_shop;Na To
+jp_type_5_na_to_0;"<color=#81c3fc>Dai 4 Rikugun Gijutsu Kenkyūjo</color>
+<color=#7ce68f>Shisei 7 Senchi Han Tai Sensha Jisō Hō</color>
+Na To"
+jp_type_5_na_to_1;Na To
+jp_type_5_na_to_2;SPG
+
+jp_m44_shop;▅ M44A1
+jp_m44_0;"<color=#81c3fc>Massey-Harris</color>
+▅ M44A1 155mm Jisō Ryūdanhō"
+jp_m44_1;▅ M44A1
+jp_m44_2;SPH
+
+jp_m19_shop;▅ M19A1
+jp_m19_0;"<color=#81c3fc>Cadillac Motor Company</color>
+▅ M19A1 Jisō Kōsha Kikan Hō"
+jp_m19_1;▅ M19A1
+jp_m19_2;SPAA
+
+jp_m42_duster_shop;▅ M42
+jp_m42_duster_0;"<color=#81c3fc>GM Defense</color>
+▅ M42 Jisō Kōsha Kikan Hō ""Dasutā"""
+jp_m42_duster_1;▅ M42
+jp_m42_duster_2;SPAA
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+jp_m4a3e8_76w_sherman_shop;▅ M4A3E8
+jp_m4a3e8_76w_sherman_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+▅ M4A3E8 Sensha ""Shāman"""
+jp_m4a3e8_76w_sherman_1;▅ M4A3
+jp_m4a3e8_76w_sherman_2;Medium Tank
+
+jp_m41_walker_bulldog_shop;▅ M41A1
+jp_m41_walker_bulldog_0;"<color=#81c3fc>Cadillac Motor Company</color>
+▅ M41A1 Sensha ""Wōkā Burudoggu"""
+jp_m41_walker_bulldog_1;▅ M41A1
+jp_m41_walker_bulldog_2;Light Tank
+
+jp_type_60_sprg_shop;60SP (C)
+jp_type_60_sprg_0;"<color=#81c3fc>Komatsu Seisaku</color>
+60 Shiki Jisō 106mm Muhandō Hō C Gata ""Mametan"""
+jp_type_60_sprg_1;60SP (C)
+jp_type_60_sprg_2;SPG
+
+jp_type_60_atm_shop;60APC (ATM-1)
+jp_type_60_atm_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+60 Shiki Sōkō Sha
+<color=#adadad>(ATM-1)</color>"
+jp_type_60_atm_1;60APC (ATM-1)
+jp_type_60_atm_2;ATGMC
+
+jp_type_5_chi_ri_shop;Chi Ri
+jp_type_5_chi_ri_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>Shisei Chū Sensha (Otsu)</color>
+Chi Ri"
+jp_type_5_chi_ri_1;Chi Ri
+jp_type_5_chi_ri_2;Medium Tank
+
+jp_st_a1_shop;ST-A1
+jp_st_a1_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+ST-A1"
+jp_st_a1_1;ST-A1
+jp_st_a1_2;Medium Tank
+
+jp_st_a2_shop;ST-A2
+jp_st_a2_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+ST-A2"
+jp_st_a2_1;ST-A2
+jp_st_a2_2;Medium Tank
+
+jp_st_a3_shop;ST-A3
+jp_st_a3_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+ST-A3"
+jp_st_a3_1;ST-A3
+jp_st_a3_2;Medium Tank
+
+jp_type_61_shop;61TK (B)
+jp_type_61_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+61 Shiki Sensha B Gata"
+jp_type_61_1;61TK (B)
+jp_type_61_2;Medium Tank
+
+jp_type_61_mod_shop;61TK (C) (13 Sen-3)
+jp_type_61_mod_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+61 Shiki Sensha C Gata
+<color=@currencyGoldColor>Dai 13 Sensha Daitai, Dai 3 Sensha Chūtai</color>"
+jp_type_61_mod_1;61TK (C)
+jp_type_61_mod_2;Medium Tank
+
+jp_m36b2_jgsdf_shop;▅ M36B2 GMC
+jp_m36b2_jgsdf_0;"<color=#81c3fc>GM Defense</color>
+<color=#5cae63>G-237</color>
+▅ Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
+jp_m36b2_jgsdf_1;▅ M36B2
+jp_m36b2_jgsdf_2;SPG
+
+jp_type_75_shop;75HSP
+jp_type_75_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō <color=@commonTextColor>+</color> Nihon Sei Kōgyō</color>
+75 Shiki Jisō 155mm Ryūdanhō"
+jp_type_75_1;75HSP
+jp_type_75_2;SPH
+
+jp_sub_i_ii_20mm_shop;SUB-I-2 (MK 20 DM 6 A1)
+jp_sub_i_ii_20mm_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+SUB-I-2
+<color=#adadad>(MK 20 DM 6 A1)</color>"
+jp_sub_i_ii_20mm_1;SUB-I-2
+jp_sub_i_ii_20mm_2;SPAAG
+
+jp_pzkpfw_VI_ausf_e_tiger_shop;▅ Tiger E (mitte)
+jp_pzkpfw_VI_ausf_e_tiger_0;"<color=#81c3fc>Henschel & Sohn</color>
+<color=#5cae63>Sd.Kfz. 181</color>
+▅ Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(mitte)</color>"
+jp_pzkpfw_VI_ausf_e_tiger_1;▅ Tiger E
+jp_pzkpfw_VI_ausf_e_tiger_2;Heavy Tank
+
+jp_type_5_ho_ri_prototype_shop;Ho Ri
+jp_type_5_ho_ri_prototype_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>Shisei Shin Hō Sensha (Kō)</color>
+Ho Ri"
+jp_type_5_ho_ri_prototype_1;Ho Ri
+jp_type_5_ho_ri_prototype_2;SPG
+
+jp_type_5_ho_ri_production_shop;Ho Ri (late)
+jp_type_5_ho_ri_production_0;"<color=#7ce68f>Shisei Shin Hō Sensha (Kō)</color>
+Ho Ri
+<color=#adadad>(late)</color>"
+jp_type_5_ho_ri_production_1;Ho Ri
+jp_type_5_ho_ri_production_2;SPG
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+jp_type_87_rcv_prot_shop;RCV (Shi 1 Gō)
+jp_type_87_rcv_prot_0;"<color=#81c3fc>Komatsu Seisaku</color>
+Teisatsu Keikaisha
+<color=#adadad>(Shisaku 1 Gōsha)</color>"
+jp_type_87_rcv_prot_1;RCV
+jp_type_87_rcv_prot_2;WIFV
+
+jp_m47_patton_II_shop;▅ M47
+jp_m47_patton_II_0;"<color=#81c3fc>American Locomotive Company</color>
+<color=#5cae63>G-262</color>
+▅ Tank, Combat, Full Tracked: 90mm Gun, M47 Patton"
+jp_m47_patton_II_1;▅ M47
+jp_m47_patton_II_2;Medium Tank
+
+jp_st_b1_shop;STB-0002
+jp_st_b1_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+STB-0002"
+jp_st_b1_1;STB-0002
+jp_st_b1_2;Medium Tank
+
+jp_type_74_c_shop;74TK (C)
+jp_type_74_c_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+74 Shiki Sensha C Gata ""Nana Yon"""
+jp_type_74_c_1;74TK (C)
+jp_type_74_c_2;MBT
+
+jp_type_74_shop;74TK (E)
+jp_type_74_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+74 Shiki Sensha E Gata ""Nana Yon"""
+jp_type_74_1;74TK (E)
+jp_type_74_2;MBT
+
+jp_type_74_f_shop;74TK (F)
+jp_type_74_f_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+74 Shiki Sensha F Gata ""Nana Yon"""
+jp_type_74_f_1;74TK (F)
+jp_type_74_f_2;MBT
+
+jp_type_74_mod_g_kai_shop;74TK (G)
+jp_type_74_mod_g_kai_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+74 Shiki Sensha G Gata ""Nana Yon"""
+jp_type_74_mod_g_kai_1;74TK (G)
+jp_type_74_mod_g_kai_2;MBT
+
+jp_type_74_red_star_shop;74TK (C) (304 Sen Chū)
+jp_type_74_red_star_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+74 Shiki Sensha C Gata ""Nana Yon""
+<color=@currencyGoldColor>Dai 304 Sensha Chūtai</color>"
+jp_type_74_red_star_1;74TK (C)
+jp_type_74_red_star_2;MBT
+
+jp_type_99_shop;99HSP
+jp_type_99_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō <color=@commonTextColor>+</color> Nihon Sei Kōgyō</color>
+99 Shiki Jisō 155mm Ryūdanhō ""Rongunōzu"""
+jp_type_99_1;99HSP
+jp_type_99_2;SPH
+
+jp_m163_vulcan_shop;Ptx. Xěm 163
+jp_m163_vulcan_0;"<color=#81c3fc>General Electric Company</color>
+Pụ̄n Txsū Xākāṣyān 20 mm Xạttā Jr Bæb Xěm 163"
+jp_m163_vulcan_1;Ptx. Xěm 163
+jp_m163_vulcan_2;SPAAG
+
+jp_type_75_mlrs_shop;75MSSR
+jp_type_75_mlrs_0;"<color=#81c3fc>Komatsu Seisaku KA161</color>
+75 Shiki Jisō 130mm Tarensō Rokettodan Hasshaki"
+jp_type_75_mlrs_1;75MSSR
+jp_type_75_mlrs_2;MLRS
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+jp_type_87_rcv_shop;87RCV
+jp_type_87_rcv_0;"<color=#81c3fc>Komatsu Seisaku KS130W</color>
+87 Shiki Teisatsu Keikaisha ""Burakkuai"""
+jp_type_87_rcv_1;87RCV
+jp_type_87_rcv_2;WIFV
+
+jp_type_89_shop;89FV
+jp_type_89_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+89 Shiki Sōkō Sentō Sha ""Raito Taigā"""
+jp_type_89_1;89FV
+jp_type_89_2;IFV
+
+jp_type_16_mcv_prot_shop;MCV (Shi 3 Gō)
+jp_type_16_mcv_prot_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+Kidō Sentō Sha
+<color=#adadad>(Shisaku 3 Gōsha)</color>"
+jp_type_16_mcv_prot_1;MCV
+jp_type_16_mcv_prot_2;Light Tank
+
+jp_type_87_shop;87AW
+jp_type_87_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō <color=@commonTextColor>+</color> Nihon Sei Kōgyō</color>
+87 Shiki Jisō Kōsha Kikanhō ""Sukaishūtā"""
+jp_type_87_1;87AW
+jp_type_87_2;SPAAG
+
+jp_type_16_mod_shop;16MCV (C1) (15RDR)
+jp_type_16_mod_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+16 Shiki Kidō Sentō Sha
+<color=#adadad>(C1 Rotto)</color>
+<color=@currencyGoldColor>Dai 15 Sokuō Kidō Rentai</color>"
+jp_type_16_mod_1;16MCV
+jp_type_16_mod_2;Light Tank
+
+jp_type_16_shop;16MCV (C1)
+jp_type_16_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+16 Shiki Kidō Sentō Sha
+<color=#adadad>(C1 Rotto)</color>"
+jp_type_16_1;16MCV
+jp_type_16_2;Light Tank
+
 jp_btr_3e1_shop;Bīthīxār 3 Xī 1
 jp_btr_3e1_0;"<color=#81c3fc>Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O.
 Morozova</color>
@@ -1586,8 +2093,96 @@ jp_stingray_1;Th.Bao 32
 jp_stingray_2;Light Tank
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+jp_icv_ifv_prototype_shop;24WAFV
+jp_icv_ifv_prototype_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+24 Shiki Sōwa Sōkō Sentō Sha"
+jp_icv_ifv_prototype_1;24WAFV
+jp_icv_ifv_prototype_2;WIFV
+
+jp_type_10_prototype_shop;Shin TK 3 Gō (2006)
+jp_type_10_prototype_0;"<color=#81c3fc>Gijutsu Kenkyū Honbu <color=@commonTextColor>+</color> Mitsubishi Jū Kōgyō</color>
+Shin Sensha 3 Gōsha
+<color=#adadad>(2006)</color>"
+jp_type_10_prototype_1;Shin TK 3 Gō
+jp_type_10_prototype_2;MBT
+
+jp_tkx_prot_shop;Shin TK 3 Gō (2009)
+jp_tkx_prot_0;"<color=#81c3fc>Gijutsu Kenkyū Honbu <color=@commonTextColor>+</color> Mitsubishi Jū Kōgyō</color>
+Shin Sensha 3 Gōsha
+<color=#adadad>(2009)</color>"
+jp_tkx_prot_1;Shin TK 3 Gō
+jp_tkx_prot_2;MBT
+
+jp_type_90_shop;90TK
+jp_type_90_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+90 Shiki Sensha"
+jp_type_90_1;90TK
+jp_type_90_2;MBT
+
+jp_type_90b_shop;90TK (B)
+jp_type_90b_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+90 Shiki Sensha B Gata"
+jp_type_90b_1;90TK (B)
+jp_type_90b_2;MBT
+
+jp_type_90b_camo_shop;90TK (B) (Fuji Gakkō)
+jp_type_90b_camo_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+90 Shiki Sensha B Gata
+<color=@currencyGoldColor>Rikujō Jieitai Fuji Gakkō, Kikō Kyōdō Rentai, Dai 3 Sensha Chūtai</color>"
+jp_type_90b_camo_1;90TK (B)
+jp_type_90b_camo_2;MBT
+
+jp_type_93_shop;93 Shiki
+jp_type_93_0;"<color=#81c3fc>Tōshiba</color>
+93 Shiki Kinkyorichi Taikū Yūdōdan ""Kurōzudo Arō"""
+jp_type_93_1;93 Shiki
+jp_type_93_2;SPAAM
+
+jp_type_81_tansam_shop;81 Shiki (C) Kadaibu
+jp_type_81_tansam_0;"<color=#81c3fc>Gijutsu Kenkyū Honbu <color=@commonTextColor>+</color> Tōshiba</color>
+81 Shiki Tankyori Chi Taikū Yūdōdan C Gata Kadaibu ""Shōto Arō"""
+jp_type_81_tansam_1;81 Shiki (C) Kadaibu
+jp_type_81_tansam_2;SPAAM
+
+jp_type_81_tansam_fcs_shop;81 Shiki (C) Sha Tō Sō
+jp_type_81_tansam_fcs_0;"<color=#81c3fc>Gijutsu Kenkyū Honbu <color=@commonTextColor>+</color> Tōshiba</color>
+81 Shiki Tankyori Chi Taikū Yūdōdan C Gata Shageki Tōsei Sōchi
+""Shōto Arō"""
+jp_type_81_tansam_fcs_1;81 Shiki (C) Sha Tō Sō
+jp_type_81_tansam_fcs_2;Radar
+
+jp_type_81_tansam_launcher_shop;81 Shiki (C) Kadaibu
+jp_type_81_tansam_launcher_0;"<color=#81c3fc>Gijutsu Kenkyū Honbu <color=@commonTextColor>+</color> Tōshiba</color>
+81 Shiki Tankyori Chi Taikū Yūdōdan C Gata Kadaibu ""Shōto Arō"""
+jp_type_81_tansam_launcher_1;81 Shiki (C) Kadaibu
+jp_type_81_tansam_launcher_2;SPAAM
+
+jp_icv_prototype_shop;25RCV
+jp_icv_prototype_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+25 Shiki Teisatsu Keikaisha"
+jp_icv_prototype_1;25RCV
+jp_icv_prototype_2;RCV
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+jp_type_03_chusam_fcs_shop;03 Shiki Sha Rēda Sō Kūsen-bu
+jp_type_03_chusam_fcs_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+03 Shiki Chūkyori Chi Taikū Yūdōdan Shagekiyō Rēda Sōchi
+Kūchūsen-bu"
+jp_type_03_chusam_fcs_1;03 Shiki Sha Rēda Sō Kūsen-bu
+jp_type_03_chusam_fcs_2;Radar
+
+jp_type_03_chusam_launcher_shop;03 Shiki Has Sō
+jp_type_03_chusam_launcher_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+03 Shiki Chūkyori Chi Taikū Yūdōdan Hassha Sōchi"
+jp_type_03_chusam_launcher_1;03 Shiki Has Sō
+jp_type_03_chusam_launcher_2;Radar
+
+jp_type_10_shop;10TK
+jp_type_10_0;"<color=#81c3fc>Gijutsu Kenkyū Honbu <color=@commonTextColor>+</color> Mitsubishi Jū Kōgyō</color>
+10 Shiki Sensha"
+jp_type_10_1;10TK
+jp_type_10_2;MBT
+
 jp_oplot_t_shop;Th.Hlạk 57
 jp_oplot_t_0;"<color=#81c3fc>Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O.
 Morozova</color>
@@ -1596,10 +2191,143 @@ jp_oplot_t_1;Th.Hlạk 57
 jp_oplot_t_2;MBT
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+jp_t14_class_shop;Dai 538 Gō
+jp_t14_class_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
+Dai 538 Gō"
+jp_t14_class_1;Dai 538 Gō
+jp_t14_class_2;Motor Torpedo Boat
+
+jp_t14_class_mod02_shop;Dai 1101 Gō
+jp_t14_class_mod02_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
+Dai 1101 Gō"
+jp_t14_class_mod02_1;Dai 1101 Gō
+jp_t14_class_mod02_2;Motor Torpedo Boat
+
+jp_t14_class_mod01_shop;Dai 871 Gō
+jp_t14_class_mod01_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
+Dai 871 Gō"
+jp_t14_class_mod01_1;Dai 871 Gō
+jp_t14_class_mod01_2;Motor Torpedo Boat
+
+jp_type5_escortboat_shop;Ke I Kō
+jp_type5_escortboat_0;"<color=#81c3fc>Haganesei Dai Goeikan</color>
+Ke I Kō"
+jp_type5_escortboat_1;Ke I Kō
+jp_type5_escortboat_2;Escort Boat
+
+jp_type_t1_1941_shop;Dai 1 Gō
+jp_type_t1_1941_0;"<color=#81c3fc>Yokohama Yotto</color>
+<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 1 Gō Gata Gyorai Tei (T-1)</color>
+Dai 1 Gō"
+jp_type_t1_1941_1;Dai 1 Gō
+jp_type_t1_1941_2;Motor Torpedo Boat
+
+jp_abtei_pr1_shop;Sakigake
+jp_abtei_pr1_0;"<color=#7ce68f>Sōkō Tei Dai 1 Gō</color>
+Sakigake"
+jp_abtei_pr1_1;Sakigake
+jp_abtei_pr1_2;Armored Boat
+
+jp_abtei_pr4_shop;Sōkō Tei Dai 4 Gō
+jp_abtei_pr4_0;"<color=#7ce68f>Sōkō Tei Dai 3 Gō Gata</color>
+Sōkō Tei Dai 4 Gō"
+jp_abtei_pr4_1;Sōkō Tei Dai 4 Gō
+jp_abtei_pr4_2;Armored Boat
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+jp_karotei_type2_shop;Ka Ro 2 Gata
+jp_karotei_type2_0;"<color=#81c3fc>Yokohama Yotto</color>
+<color=#7ce68f>4 Shiki 2 Gata Kuchiku Tei</color>
+Ka Ro 2 Gata"
+jp_karotei_type2_1;Ka Ro 2 Gata
+jp_karotei_type2_2;Motor Gunboat
+
+jp_karotei_type4_shop;Ka Ro 4 Gata
+jp_karotei_type4_0;"<color=#81c3fc>Yokohama Yotto</color>
+<color=#7ce68f>4 Shiki 4 Gata Kuchiku Tei</color>
+Ka Ro 4 Gata"
+jp_karotei_type4_1;Ka Ro 4 Gata
+jp_karotei_type4_2;Motor Gunboat
+
+jp_sehatei_mod1_shop;Se Ha 1 Gata
+jp_sehatei_mod1_0;"<color=#7ce68f>Shisei Ha Gō Sentō Tei 1 Gata</color>
+Se Ha 1 Gata"
+jp_sehatei_mod1_1;Se Ha 1 Gata
+jp_sehatei_mod1_2;Armored Boat
+
+jp_type38_1944_shop;Dai 241 Gō
+jp_type38_1944_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 241 Gō Gata Gyorai Tei (T-38)</color>
+Dai 241 Gō"
+jp_type38_1944_1;Dai 241 Gō
+jp_type38_1944_2;Motor Torpedo Boat
+
+jp_type1_pt2_shop;Gyorai Tei 2 Gō (PT-802)
+jp_type1_pt2_0;"<color=#81c3fc>Hitachi Zōsen</color>
+<color=#7ce68f>1 Gō Gata Gyorai Tei</color>
+Gyorai Tei 2 Gō (PT-802)"
+jp_type1_pt2_1;Gyorai Tei 2 Gō
+jp_type1_pt2_2;Motor Torpedo Boat
+
+jp_kusen_tei_13_1942_shop;Dai 18 Gō
+jp_kusen_tei_13_1942_0;"<color=#81c3fc>Tsurumi Zōsensho</color>
+<color=#7ce68f>Dai 13 Gō Gata Kusen Tei (K-8)</color>
+Dai 18 Gō"
+jp_kusen_tei_13_1942_1;Dai 18 Gō
+jp_kusen_tei_13_1942_2;Submarine Chaser
+
+jp_kusen_tei_13_1944_shop;Dai 18 Gō (1944)
+jp_kusen_tei_13_1944_0;"<color=#81c3fc>Tsurumi Zōsensho</color>
+<color=#7ce68f>Dai 13 Gō Gata Kusen Tei (K-8)</color>
+Dai 18 Gō (1944)"
+jp_kusen_tei_13_1944_1;Dai 18 Gō
+jp_kusen_tei_13_1944_2;Submarine Chaser
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+jp_t51a_shop;Dai 10 Gō
+jp_t51a_0;"<color=#81c3fc>Yokohama Yotto</color>
+<color=#7ce68f>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 10 Gō Gata Gyorai Tei (T-51A)</color>
+Dai 10 Gō"
+jp_t51a_1;Dai 10 Gō
+jp_t51a_2;Motor Torpedo Boat
+
+jp_t51b_shop;Dai 11 Gō
+jp_t51b_0;"<color=#81c3fc>Yokohama Yotto</color>
+<color=#7ce68f>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 11 Gō Gata Gyorai Tei (T-51B)</color>
+Dai 11 Gō"
+jp_t51b_1;Dai 11 Gō
+jp_t51b_2;Motor Torpedo Boat
+
+jp_pc301_kari_class_shop;Kari (PC-301)
+jp_pc301_kari_class_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
+<color=#7ce68f>Kari Gata Kusen Tei (K-101A)</color>
+Kari (PC-301)"
+jp_pc301_kari_class_1;Kari
+jp_pc301_kari_class_2;Submarine Chaser
+
+jp_no1_ch2_shop;Dai 2 Gō
+jp_no1_ch2_0;"<color=#81c3fc>Ishikawajima Zōsensho</color>
+<color=#7ce68f>Dai 1 Gō Gata Kusen Tei (K-3)</color>
+Dai 2 Gō"
+jp_no1_ch2_1;Dai 2 Gō
+jp_no1_ch2_2;Submarine Chaser
+
+jp_no4_ch8_shop;Dai 8 Gō
+jp_no4_ch8_0;"<color=#81c3fc>Tama Zōsensho</color>
+<color=#7ce68f>Dai 4 Gō Gata Kusen Tei (K-7)</color>
+Dai 8 Gō"
+jp_no4_ch8_1;Dai 8 Gō
+jp_no4_ch8_2;Submarine Chaser
+
+jp_type7_pt808_shop;Gyorai Tei 8 Gō (PT-808)
+jp_type7_pt808_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Shimonoseki Zōsensho</color>
+<color=#7ce68f>7 Gō Gata Gyorai Tei</color>
+Gyorai Tei 8 Gō (PT-808)"
+jp_type7_pt808_1;Gyorai Tei 8 Gō
+jp_type7_pt808_2;Motor Torpedo Boat
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 
@@ -2035,6 +2763,14 @@ mig-17_f5_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@common
 ▆ Chugyeokgi 《F5》"
 mig-17_f5_1;▆ F5
 mig-17_f5_2;▆ F5
+
+f_6c_pakistan_shop;☪ F6C (1976)
+f_6c_pakistan_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 SM-7/3 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè
+Chang</color>
+☪ F6C Xíng Fēijī
+<color=#adadad>(1976)</color>"
+f_6c_pakistan_1;☪ F6C
+f_6c_pakistan_2;☪ F6
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 f-5a_china_shop;☀ F-5A-25-NO
@@ -3099,7 +3835,7 @@ mig_29_9_12b_hungary_1;◔ MiG-29
 mig_29_9_12b_hungary_2;◔ MiG-29
 
 mig_29_9_12_sniper_shop;╏ MiG-29 Sniper
-mig_29_9_12_sniper_0;"<color=#81c3fc>Mikoân i Guryevič <color=@commonTextColor>/</color> Aerostar + Elbit Systems</color>
+mig_29_9_12_sniper_0;"<color=#81c3fc>Mikoân i Guryevič <color=@commonTextColor>/</color> Aerostar <color=@commonTextColor>+</color> Elbit Systems</color>
 ╏ MiG-29 Sniper"
 mig_29_9_12_sniper_1;╏ MiG-29 Sniper
 mig_29_9_12_sniper_2;╏ MiG-29

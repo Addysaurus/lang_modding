@@ -901,34 +901,709 @@ f_2a_adtw_2;XF-2
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 9
 
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+uh_1b_japan_shop;▅ UH-1B
+uh_1b_japan_0;"<color=#81c3fc>Bell Helicopter Company <color=@commonTextColor>/</color> 富士重工業</color>
+▅ UH-1B多用途ヘリコプター「ひよどり」"
+uh_1b_japan_1;▅ UH-1B
+uh_1b_japan_2;▅ UH-1
 
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+ah_1s_early_shop;▅ AH-1S (ECAS)
+ah_1s_early_0;"<color=#81c3fc>Bell Helicopter Textron <color=@commonTextColor>/</color> 富士重工業</color>
+▅ AH-1S攻撃ヘリコプター
+<color=#adadad>(Enhanced Cobra Armament System)</color>"
+ah_1s_early_1;▅ AH-1S
+ah_1s_early_2;▅ AH-1
+
+ah_1s_late_shop;▅ AH-1S (MC) (CN)
+ah_1s_late_0;"<color=#81c3fc>Bell Helicopter Textron <color=@commonTextColor>/</color> 富士重工業</color>
+▅ AH-1S攻撃ヘリコプター
+<color=#adadad>(Modernized Cobra) (Cobra Night Imaging Thermal Equipment)</color>"
+ah_1s_late_1;▅ AH-1S
+ah_1s_late_2;▅ AH-1
+
+ah_1s_shop;▅ AH-1S (MC) (CN) (4対戦ヘリ)
+ah_1s_0;"<color=#81c3fc>Bell Helicopter Textron <color=@commonTextColor>/</color> 富士重工業</color>
+▅ AH-1S攻撃ヘリコプター
+<color=#adadad>(Modernized Cobra) (Cobra Night Imaging Thermal Equipment)</color>
+<color=@currencyGoldColor>第4対戦車ヘリコプター隊</color>"
+ah_1s_1;▅ AH-1S
+ah_1s_2;▅ AH-1
 
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+ah_64d_japan_shop;▅ AH-64D
+ah_64d_japan_0;"<color=#81c3fc>Boeing Rotorcraft Systems AH-64DJP <color=@commonTextColor>/</color> 富士重工業 <color=@commonTextColor>+</color> 双日株式会社</color>
+▅ AH-64D戦闘ヘリコプター「アパッチロングボウ」"
+ah_64d_japan_1;▅ AH-64D
+ah_64d_japan_2;▅ AH-64
+
+ah_64d_lightweight_japan_shop;▅ AH-64D (3対戦ヘリ)
+ah_64d_lightweight_japan_0;"<color=#81c3fc>Boeing Rotorcraft Systems AH-64DJP <color=@commonTextColor>/</color> 富士重工業 <color=@commonTextColor>+</color> 双日株式会社</color>
+▅ AH-64D戦闘ヘリコプター「アパッチロングボウ」
+<color=@currencyGoldColor>第3対戦車ヘリコプター隊</color>"
+ah_64d_lightweight_japan_1;▅ AH-64D
+ah_64d_lightweight_japan_2;▅ AH-64
 
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 8
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+jp_type_95_ha_go_shop;ハ号 (late) (九四式)
+jp_type_95_ha_go_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>九五式軽戦車</color>
+ハ号
+<color=#adadad>(late) (九四式三十七粍戦車砲)</color>"
+jp_type_95_ha_go_1;ハ号
+jp_type_95_ha_go_2;Light Tank
+
+jp_type_95_ha_go_commander_shop;ハ号 (指揮) (九四式) (一戦連)
+jp_type_95_ha_go_commander_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>九五式軽戦車</color>
+ハ号
+<color=#adadad>(指揮) (九四式三十七粍戦車砲)</color>
+<color=@currencyGoldColor>第一戦車連隊</color>"
+jp_type_95_ha_go_commander_1;ハ号
+jp_type_95_ha_go_commander_2;Light Tank
+
+jp_type_98_ke_ni_shop;ケニA
+jp_type_98_ke_ni_0;"<color=#81c3fc>東京自動車工業</color>
+ケニA"
+jp_type_98_ke_ni_1;ケニA
+jp_type_98_ke_ni_2;Light Tank
+
+jp_type_2_ka_mi_shop;カミ
+jp_type_2_ka_mi_0;"<color=#81c3fc>呉海軍工廠 <color=@commonTextColor>+</color> 陸軍技術本部</color>
+<color=#7ce68f>特二式内火艇</color>
+カミ"
+jp_type_2_ka_mi_1;カミ
+jp_type_2_ka_mi_2;Light Tank
+
+jp_type_89b_i_go_otsu_shop;イ号甲 (late)
+jp_type_89b_i_go_otsu_0;"<color=#81c3fc>三菱航空機</color>
+<color=#7ce68f>八九式中戦車甲</color>
+イ号甲
+<color=#adadad>(late)</color>"
+jp_type_89b_i_go_otsu_1;イ号甲
+jp_type_89b_i_go_otsu_2;Light Tank
+
+jp_type_97_chi_ha_shop;チハ
+jp_type_97_chi_ha_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>九七式中戦車</color>
+チハ"
+jp_type_97_chi_ha_1;チハ
+jp_type_97_chi_ha_2;Medium Tank
+
+jp_type_97_kai_shop;チハ (一式)
+jp_type_97_kai_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>九七式中戦車</color>
+チハ
+<color=#adadad>(一式四十七粍戦車砲)</color>"
+jp_type_97_kai_1;チハ
+jp_type_97_kai_2;Medium Tank
+
+jp_type_97_kai_td_shop;⋦ チハ (一式)
+jp_type_97_kai_td_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>九七式中戦車</color>
+⋦ チハ
+<color=#adadad>(一式四十七粍戦車砲)</color>"
+jp_type_97_kai_td_1;⋦ チハ
+jp_type_97_kai_td_2;Medium Tank
+
+jp_type_2_ho_i_shop;ホイ
+jp_type_2_ho_i_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>二式砲戦車</color>
+ホイ"
+jp_type_2_ho_i_1;ホイ
+jp_type_2_ho_i_2;Medium Tank
+
+jp_type_4_ho_ro_shop;ホロ
+jp_type_4_ho_ro_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>四式十五糎自走砲</color>
+ホロ"
+jp_type_4_ho_ro_1;ホロ
+jp_type_4_ho_ro_2;SPG
+
+jp_type_2_ho_ni_2_shop;ホニII (early)
+jp_type_2_ho_ni_2_0;"<color=#81c3fc>陸軍野戦砲兵学校</color>
+<color=#7ce68f>一式十糎自走砲</color>
+ホニII
+<color=#adadad>(early)</color>"
+jp_type_2_ho_ni_2_1;ホニII
+jp_type_2_ho_ni_2_2;SPG
+
+jp_type_3_ho_ni_I_shop;ホニI
+jp_type_3_ho_ni_I_0;"<color=#81c3fc>陸軍野戦砲兵学校</color>
+<color=#7ce68f>一式七糎半自走砲</color>
+ホニI"
+jp_type_3_ho_ni_I_1;ホニI
+jp_type_3_ho_ni_I_2;SPG
+
+jp_type_3_ho_ni_III_shop;ホニIII
+jp_type_3_ho_ni_III_0;"<color=#81c3fc>陸軍野戦砲兵学校</color>
+<color=#7ce68f>三式砲戦車</color>
+ホニIII"
+jp_type_3_ho_ni_III_1;ホニIII
+jp_type_3_ho_ni_III_2;SPG
+
+jp_hiro_sha_shop;試十二糎自走
+jp_hiro_sha_0;"<color=#81c3fc>三菱重工業</color>
+試製十二糎自走砲"
+jp_hiro_sha_1;試十二糎自走
+jp_hiro_sha_2;SPG
+
+jp_type_94_shop;九四式 (九八式)
+jp_type_94_0;"<color=#81c3fc>自動車工業</color>
+九四式六輪自動貨車
+<color=#adadad>(九八式二十粍高射機関砲)</color>"
+jp_type_94_1;九四式 (九八式)
+jp_type_94_2;SPAAG
+
+jp_type_98_ta_se_shop;タセ
+jp_type_98_ta_se_0;"<color=#81c3fc>自動車工業</color>
+<color=#7ce68f>試製対空戦車</color>
+タセ"
+jp_type_98_ta_se_1;タセ
+jp_type_98_ta_se_2;SPAAG
+
+jp_type_95_heavy_shop;ロ号
+jp_type_95_heavy_0;"<color=#81c3fc>自動車工業</color>
+<color=#7ce68f>九五式重戦車</color>
+ロ号"
+jp_type_95_heavy_1;ロ号
+jp_type_95_heavy_2;Heavy Tank
+
+jp_type_3_ka_chi_shop;カチ
+jp_type_3_ka_chi_0;"<color=#81c3fc>呉海軍工廠 <color=@commonTextColor>+</color> 陸軍技術本部</color>
+<color=#7ce68f>特三式内火艇</color>
+カチ"
+jp_type_3_ka_chi_1;カチ
+jp_type_3_ka_chi_2;Light Tank
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+jp_type_1_chi_he_shop;チヘ
+jp_type_1_chi_he_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>一式中戦車</color>
+チヘ"
+jp_type_1_chi_he_1;チヘ
+jp_type_1_chi_he_2;Medium Tank
+
+jp_type_1_chi_he_5th_regiment_shop;チヘ (五戦連)
+jp_type_1_chi_he_5th_regiment_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>一式中戦車</color>
+チヘ
+<color=@currencyGoldColor>第五戦車連隊</color>"
+jp_type_1_chi_he_5th_regiment_1;チヘ
+jp_type_1_chi_he_5th_regiment_2;Medium Tank
+
+jp_navy_120mm_spg_shop;十二糎自走砲
+jp_navy_120mm_spg_0;"<color=#81c3fc>艦政本部第一部</color>
+十二糎自走砲"
+jp_navy_120mm_spg_1;十二糎自走砲
+jp_navy_120mm_spg_2;SPG
+
+jp_type_97_chi_ha_12cm_shop;十二糎砲戦
+jp_type_97_chi_ha_12cm_0;"<color=#81c3fc>艦政本部第一部</color>
+十二糎砲戦車"
+jp_type_97_chi_ha_12cm_1;十二糎砲戦
+jp_type_97_chi_ha_12cm_2;Medium Tank
+
+jp_halftrack_m16_shop;▅ M16
+jp_halftrack_m16_0;"<color=#81c3fc>White Motor Company</color>
+▅ M16自走高射機関砲"
+jp_halftrack_m16_1;▅ M16
+jp_halftrack_m16_2;SPAAG
+
+jp_type_95_so_ki_shop;ソキ
+jp_type_95_so_ki_0;"<color=#81c3fc>自動車工業</color>
+<color=#7ce68f>試製対空戦車</color>
+ソキ"
+jp_type_95_so_ki_1;ソキ
+jp_type_95_so_ki_2;SPAAG
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+jp_m24_chaffee_shop;▅ M24
+jp_m24_chaffee_0;"<color=#81c3fc>Cadillac Motor Company</color>
+▅ M24戦車「チャーフィー」"
+jp_m24_chaffee_1;▅ M24
+jp_m24_chaffee_2;Light Tank
+
+jp_type_3_chi_nu_shop;チヌ
+jp_type_3_chi_nu_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>三式中戦車</color>
+チヌ"
+jp_type_3_chi_nu_1;チヌ
+jp_type_3_chi_nu_2;Medium Tank
+
+jp_type_3_chi_nu_75cm_type_5_shop;チヌ (五式II型)
+jp_type_3_chi_nu_75cm_type_5_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>三式中戦車</color>
+チヌ
+<color=#adadad>(試製五式七糎半戦車砲 (長) II型)</color>"
+jp_type_3_chi_nu_75cm_type_5_1;チヌ
+jp_type_3_chi_nu_75cm_type_5_2;Medium Tank
+
+jp_type_4_chi_to_shop;チト (二号)
+jp_type_4_chi_to_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>試製中戦車 (甲)</color>
+チト
+<color=#adadad>(試製二号車)</color>"
+jp_type_4_chi_to_1;チト
+jp_type_4_chi_to_2;Medium Tank
+
+jp_type_4_chi_to_late_shop;チト
+jp_type_4_chi_to_late_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>試製四式中戦車</color>
+チト"
+jp_type_4_chi_to_late_1;チト
+jp_type_4_chi_to_late_2;Medium Tank
+
+jp_type_5_na_to_shop;ナト
+jp_type_5_na_to_0;"<color=#81c3fc>第四陸軍技術研究所</color>
+<color=#7ce68f>試製七糎半対戦車自走砲</color>
+ナト"
+jp_type_5_na_to_1;ナト
+jp_type_5_na_to_2;SPG
+
+jp_m44_shop;▅ M44A1
+jp_m44_0;"<color=#81c3fc>Massey-Harris</color>
+▅ M44A1 155mm自走榴弾砲"
+jp_m44_1;▅ M44A1
+jp_m44_2;SPH
+
+jp_m19_shop;▅ M19A1
+jp_m19_0;"<color=#81c3fc>Cadillac Motor Company</color>
+▅ M19A1自走高射機関砲"
+jp_m19_1;▅ M19A1
+jp_m19_2;SPAAG
+
+jp_m42_duster_shop;▅ M42
+jp_m42_duster_0;"<color=#81c3fc>GM Defense</color>
+▅ M42自走高射機関砲「ダスター」"
+jp_m42_duster_1;▅ M42
+jp_m42_duster_2;SPAAG
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+jp_m4a3e8_76w_sherman_shop;▅ M4A3E8
+jp_m4a3e8_76w_sherman_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+▅ M4A3E8戦車「シャーマン」"
+jp_m4a3e8_76w_sherman_1;▅ M4A3
+jp_m4a3e8_76w_sherman_2;Medium Tank
+
+jp_m41_walker_bulldog_shop;▅ M41A1
+jp_m41_walker_bulldog_0;"<color=#81c3fc>Cadillac Motor Company</color>
+▅ M41A1戦車「ウォーカー・ブルドッグ」"
+jp_m41_walker_bulldog_1;▅ M41A1
+jp_m41_walker_bulldog_2;Light Tank
+
+jp_type_60_sprg_shop;60SP (C)
+jp_type_60_sprg_0;"<color=#81c3fc>小松製作</color>
+60式自走106mm無反動砲C型「マメタン」"
+jp_type_60_sprg_1;60SP (C)
+jp_type_60_sprg_2;SPG
+
+jp_type_60_atm_shop;60APC (ATM-1)
+jp_type_60_atm_0;"<color=#81c3fc>三菱重工業</color>
+60式装甲車
+<color=#adadad>(ATM-1)</color>"
+jp_type_60_atm_1;60APC (ATM-1)
+jp_type_60_atm_2;SPG
+
+jp_type_5_chi_ri_shop;チリ
+jp_type_5_chi_ri_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>試製中戦車 (乙)</color>
+チリ"
+jp_type_5_chi_ri_1;チリ
+jp_type_5_chi_ri_2;Medium Tank
+
+jp_st_a1_shop;ST-A1
+jp_st_a1_0;"<color=#81c3fc>三菱重工業</color>
+ST-A1"
+jp_st_a1_1;ST-A1
+jp_st_a1_2;Medium Tank
+
+jp_st_a2_shop;ST-A2
+jp_st_a2_0;"<color=#81c3fc>三菱重工業</color>
+ST-A2"
+jp_st_a2_1;ST-A2
+jp_st_a2_2;Medium Tank
+
+jp_st_a3_shop;ST-A3
+jp_st_a3_0;"<color=#81c3fc>三菱重工業</color>
+ST-A3"
+jp_st_a3_1;ST-A3
+jp_st_a3_2;Medium Tank
+
+jp_type_61_shop;61TK (B)
+jp_type_61_0;"<color=#81c3fc>三菱重工業</color>
+61式戦車B型"
+jp_type_61_1;61TK (B)
+jp_type_61_2;Medium Tank
+
+jp_type_61_mod_shop;61TK (C) (13戦-3)
+jp_type_61_mod_0;"<color=#81c3fc>三菱重工業</color>
+61式戦車C型
+<color=@currencyGoldColor>第13戦車大隊, 第3戦車中隊</color>"
+jp_type_61_mod_1;61TK (C)
+jp_type_61_mod_2;Medium Tank
+
+jp_type_75_shop;75HSP
+jp_type_75_0;"<color=#81c3fc>三菱重工業 <color=@commonTextColor>+</color> 日本製鋼所</color>
+75式自走155mmりゅう弾砲"
+jp_type_75_1;75HSP
+jp_type_75_2;SPH
+
+jp_sub_i_ii_20mm_shop;SUB-I-2 (MK 20 DM 6 A1)
+jp_sub_i_ii_20mm_0;"<color=#81c3fc>三菱重工業</color>
+SUB-I-2
+<color=#adadad>(MK 20 DM 6 A1)</color>"
+jp_sub_i_ii_20mm_1;SUB-I-2
+jp_sub_i_ii_20mm_2;SPAAG
+
+jp_type_5_ho_ri_prototype_shop;ホリ
+jp_type_5_ho_ri_prototype_0;"<color=#81c3fc>三菱重工業</color>
+<color=#7ce68f>試製新砲戦車 (甲)</color>
+ホリ"
+jp_type_5_ho_ri_prototype_1;ナト
+jp_type_5_ho_ri_prototype_2;SPG
+
+jp_type_5_ho_ri_production_shop;ホリ (late)
+jp_type_5_ho_ri_production_0;"<color=#7ce68f>試製新砲戦車 (甲)</color>
+ホリ
+<color=#adadad>(late)</color>"
+jp_type_5_ho_ri_production_1;ホリ
+jp_type_5_ho_ri_production_2;SPG
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+jp_type_87_rcv_prot_shop;RCV (試1号)
+jp_type_87_rcv_prot_0;"<color=#81c3fc>小松製作</color>
+偵察警戒車
+<color=#adadad>(試作1号車)</color>"
+jp_type_87_rcv_prot_1;RCV
+jp_type_87_rcv_prot_2;WIFV
+
+jp_m47_patton_II_shop;▅ M47
+jp_m47_patton_II_0;"<color=#81c3fc>American Locomotive Company</color>
+<color=#5cae63>G-262</color>
+▅ Tank, Combat, Full Tracked: 90mm Gun, M47 Patton"
+jp_m47_patton_II_1;▅ M47
+jp_m47_patton_II_2;Medium Tank
+
+jp_st_b1_shop;STB-0002
+jp_st_b1_0;"<color=#81c3fc>三菱重工業</color>
+STB-0002"
+jp_st_b1_1;STB-0002
+jp_st_b1_2;Medium Tank
+
+jp_type_74_c_shop;74TK (C)
+jp_type_74_c_0;"<color=#81c3fc>三菱重工業</color>
+74式戦車C型「ナナヨン」"
+jp_type_74_c_1;74TK (C)
+jp_type_74_c_2;MBT
+
+jp_type_74_shop;74TK (E)
+jp_type_74_0;"<color=#81c3fc>三菱重工業</color>
+74式戦車E型「ナナヨン」"
+jp_type_74_1;74TK (E)
+jp_type_74_2;MBT
+
+jp_type_74_f_shop;74TK (F)
+jp_type_74_f_0;"<color=#81c3fc>三菱重工業</color>
+74式戦車G型「ナナヨン」"
+jp_type_74_f_1;74TK (F)
+jp_type_74_f_2;MBT
+
+jp_type_74_mod_g_kai_shop;74TK (G)
+jp_type_74_mod_g_kai_0;"<color=#81c3fc>三菱重工業</color>
+74式戦車G型「ナナヨン」"
+jp_type_74_mod_g_kai_1;74TK (G)
+jp_type_74_mod_g_kai_2;MBT
+
+jp_type_74_red_star_shop;74TK (C) (304戦中)
+jp_type_74_red_star_0;"<color=#81c3fc>三菱重工業</color>
+74式戦車C型「ナナヨン」
+<color=@currencyGoldColor>第304戦車中隊</color>"
+jp_type_74_red_star_1;74TK (C)
+jp_type_74_red_star_2;MBT
+
+jp_type_99_shop;99HSP
+jp_type_99_0;"<color=#81c3fc>三菱重工業 <color=@commonTextColor>+</color> 日本製鋼所</color>
+99式自走155mmりゅう弾砲「ロングノーズ」"
+jp_type_99_1;99HSP
+jp_type_99_2;SPH
+
+jp_type_75_mlrs_shop;75MSSR
+jp_type_75_mlrs_0;"<color=#81c3fc>小松製作 KA161</color>
+75式自走130mm多連装ロケット弾発射機"
+jp_type_75_mlrs_1;75MSSR
+jp_type_75_mlrs_2;MLRS
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+jp_type_87_rcv_shop;87RCV
+jp_type_87_rcv_0;"<color=#81c3fc>小松製作 KS130W</color>
+87式偵察警戒車「ブラックアイ」"
+jp_type_87_rcv_1;87RCV
+jp_type_87_rcv_2;WIFV
+
+jp_type_89_shop;89FV
+jp_type_89_0;"<color=#81c3fc>三菱重工業</color>
+89式装甲戦闘車「ライトタイガー」"
+jp_type_89_1;89FV
+jp_type_89_2;IFV
+
+jp_type_16_mcv_prot_shop;MCV (試3号)
+jp_type_16_mcv_prot_0;"<color=#81c3fc>三菱重工業</color>
+機動戦闘車
+<color=#adadad>(試作3号車)</color>"
+jp_type_16_mcv_prot_1;MCV
+jp_type_16_mcv_prot_2;Light Tank
+
+jp_type_87_shop;87AW
+jp_type_87_0;"<color=#81c3fc>三菱重工業 <color=@commonTextColor>+</color> 日本製鋼所</color>
+87式自走高射機関砲「スカイシューター」"
+jp_type_87_1;87AW
+jp_type_87_2;SPAAG
+
+jp_type_16_mod_shop;16MCV (C1) (15RDR)
+jp_type_16_mod_0;"<color=#81c3fc>三菱重工業</color>
+16式機動戦闘車
+<color=#adadad>(C1ロット)</color>
+<color=@currencyGoldColor>第15即応機動連隊</color>"
+jp_type_16_mod_1;16MCV
+jp_type_16_mod_2;Light Tank
+
+jp_type_16_shop;16MCV (C1)
+jp_type_16_0;"<color=#81c3fc>三菱重工業</color>
+16式機動戦闘車
+<color=#adadad>(C1ロット)</color>"
+jp_type_16_1;16MCV
+jp_type_16_2;Light Tank
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+jp_icv_ifv_prototype_shop;24WAFV
+jp_icv_ifv_prototype_0;"<color=#81c3fc>三菱重工業</color>
+24式装輪装甲戦闘車"
+jp_icv_ifv_prototype_1;24WAFV
+jp_icv_ifv_prototype_2;WIFV
+
+jp_type_10_prototype_shop;新TK3号 (2006)
+jp_type_10_prototype_0;"<color=#81c3fc>技術研究本部 <color=@commonTextColor>+</color> 三菱重工業</color>
+新戦車3号車
+<color=#adadad>(2006)</color>"
+jp_type_10_prototype_1;新TK3号
+jp_type_10_prototype_2;MBT
+
+jp_tkx_prot_shop;新TK3号 (2009)
+jp_tkx_prot_0;"<color=#81c3fc>技術研究本部 <color=@commonTextColor>+</color> 三菱重工業</color>
+新戦車3号車
+<color=#adadad>(2009)</color>"
+jp_tkx_prot_1;新TK3号
+jp_tkx_prot_2;MBT
+
+jp_type_90_shop;90TK
+jp_type_90_0;"<color=#81c3fc>三菱重工業</color>
+90式戦車"
+jp_type_90_1;90TK
+jp_type_90_2;MBT
+
+jp_type_90b_shop;90TK (B)
+jp_type_90b_0;"<color=#81c3fc>三菱重工業</color>
+90式戦車B型"
+jp_type_90b_1;90TK (B)
+jp_type_90b_2;MBT
+
+jp_type_90b_camo_shop;90TK (B) (富士学校)
+jp_type_90b_camo_0;"<color=#81c3fc>三菱重工業</color>
+90式戦車B型
+<color=@currencyGoldColor>陸上自衛隊富士学校、機甲教導連隊、第3戦車中隊</color>"
+jp_type_90b_camo_1;90TK (B)
+jp_type_90b_camo_2;MBT
+
+jp_type_93_shop;93式
+jp_type_93_0;"<color=#81c3fc>東芝</color>
+93式近距離地対空誘導弾"
+jp_type_93_1;93式
+jp_type_93_2;SPAAM
+
+jp_type_81_tansam_shop;81式 (C) 架台部
+jp_type_81_tansam_0;"<color=#81c3fc>技術研究本部 <color=@commonTextColor>+</color> 東芝</color>
+81式短距離地対空誘導弾C型架台部「ショートアロー」"
+jp_type_81_tansam_1;81式 (C) 架台部
+jp_type_81_tansam_2;SPAAM
+
+jp_type_81_tansam_fcs_shop;81式 (C) 射統装
+jp_type_81_tansam_fcs_0;"<color=#81c3fc>技術研究本部 <color=@commonTextColor>+</color> 東芝</color>
+81式短距離地対空誘導弾C型射撃統制装置「ショートアロー」"
+jp_type_81_tansam_fcs_1;81式 (C) 射統装
+jp_type_81_tansam_fcs_2;Radar
+
+jp_type_81_tansam_launcher_shop;81式 (C) 架台部
+jp_type_81_tansam_launcher_0;"<color=#81c3fc>技術研究本部 <color=@commonTextColor>+</color> 東芝</color>
+81式短距離地対空誘導弾C型架台部「ショートアロー」"
+jp_type_81_tansam_launcher_1;81式 (C) 架台部
+jp_type_81_tansam_launcher_2;SPAAM
+
+jp_icv_prototype_shop;25RCV
+jp_icv_prototype_0;"<color=#81c3fc>三菱重工業</color>
+25式偵察警戒車"
+jp_icv_prototype_1;25RCV
+jp_icv_prototype_2;RCV
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+jp_type_03_chusam_fcs_shop;03式射レーダ装空部
+jp_type_03_chusam_fcs_0;"<color=#81c3fc>三菱重工業</color>
+03式中距離地対空誘導弾射撃用レーダ装置空中線部"
+jp_type_03_chusam_fcs_1;03式射レーダ装空部
+jp_type_03_chusam_fcs_2;Radar
+
+jp_type_03_chusam_launcher_shop;03式発装
+jp_type_03_chusam_launcher_0;"<color=#81c3fc>三菱重工業</color>
+03式中距離地対空誘導弾発射装置"
+jp_type_03_chusam_launcher_1;03式発装
+jp_type_03_chusam_launcher_2;Radar
+
+jp_type_10_shop;10TK
+jp_type_10_0;"<color=#81c3fc>技術研究本部 <color=@commonTextColor>+</color> 三菱重工業</color>
+10式戦車"
+jp_type_10_1;10TK
+jp_type_10_2;MBT
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+jp_t14_class_shop;第五百三十八號
+jp_t14_class_0;"<color=#81c3fc>舞鶴海軍工廠</color>
+<color=#7ce68f>乙型魚雷艇 <color=@commonTextColor>|</color> 第五百三十八號型魚雷艇 (T-14)</color>
+第五百三十八號"
+jp_t14_class_1;第五百三十八號
+jp_t14_class_2;Motor Torpedo Boat
+
+jp_t14_class_mod02_shop;第千百一號
+jp_t14_class_mod02_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
+<color=#7ce68f>乙型魚雷艇 <color=@commonTextColor>|</color> 第五百三十八號型魚雷艇 (T-14)</color>
+第千百一號"
+jp_t14_class_mod02_1;第千百一號
+jp_t14_class_mod02_2;Motor Torpedo Boat
+
+jp_t14_class_mod01_shop;第八百七十一號
+jp_t14_class_mod01_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
+<color=#7ce68f>乙型魚雷艇 <color=@commonTextColor>|</color> 第五百三十八號型魚雷艇 (T-14)</color>
+第八百七十一號"
+jp_t14_class_mod01_1;第八百七十一號
+jp_t14_class_mod01_2;Motor Torpedo Boat
+
+jp_type5_escortboat_shop;ケイ甲
+jp_type5_escortboat_0;"<color=#81c3fc>鋼製大護衛艇</color>
+ケイ甲"
+jp_type5_escortboat_1;ケイ甲
+jp_type5_escortboat_2;Escort Boat
+
+jp_type_t1_1941_shop;第一號
+jp_type_t1_1941_0;"<color=#81c3fc>横浜ヨット</color>
+<color=#7ce68f>乙型魚雷艇 <color=@commonTextColor>|</color> 第一號型魚雷艇 (T-1)</color>
+第一號"
+jp_type_t1_1941_1;第一號
+jp_type_t1_1941_2;Motor Torpedo Boat
+
+jp_abtei_pr1_shop;さきがけ
+jp_abtei_pr1_0;"<color=#7ce68f>装甲艇第一號</color>
+さきがけ"
+jp_abtei_pr1_1;さきがけ
+jp_abtei_pr1_2;Armored Boat
+
+jp_abtei_pr4_shop;装甲艇第四號
+jp_abtei_pr4_0;"<color=#7ce68f>装甲艇第三號型</color>
+装甲艇第四號"
+jp_abtei_pr4_1;装甲艇第四號
+jp_abtei_pr4_2;Armored Boat
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+jp_karotei_type2_shop;カロ二型
+jp_karotei_type2_0;"<color=#81c3fc>横浜ヨット</color>
+<color=#7ce68f>四式二型驅逐艇</color>
+カロ二型"
+jp_karotei_type2_1;カロ二型
+jp_karotei_type2_2;Motor Gunboat
+
+jp_karotei_type4_shop;カロ四型
+jp_karotei_type4_0;"<color=#81c3fc>横浜ヨット</color>
+<color=#7ce68f>四式四型驅逐艇</color>
+カロ四型"
+jp_karotei_type4_1;カロ四型
+jp_karotei_type4_2;Motor Gunboat
+
+jp_sehatei_mod1_shop;せは一型
+jp_sehatei_mod1_0;"<color=#81c3fc>試製波号戦闘艇一型</color>
+せは一型"
+jp_sehatei_mod1_1;せは一型
+jp_sehatei_mod1_2;Armored Boat
+
+jp_type38_1944_shop;第二百四十一號
+jp_type38_1944_0;"<color=#81c3fc>横須賀海軍工廠</color>
+<color=#7ce68f>乙型魚雷艇 <color=@commonTextColor>|</color> 第二百四十一號型魚雷艇 (T-38)</color>
+第二百四十一號"
+jp_type38_1944_1;第二百四十一號
+jp_type38_1944_2;Motor Torpedo Boat
+
+jp_type1_pt2_shop;魚雷艇2号 (PT-802)
+jp_type1_pt2_0;"<color=#81c3fc>日立造船</color>
+<color=#7ce68f>1号型魚雷艇</color>
+魚雷艇2号 (PT-802)"
+jp_type1_pt2_1;魚雷艇2号
+jp_type1_pt2_2;Motor Torpedo Boat
+
+jp_kusen_tei_13_1942_shop;第十八號
+jp_kusen_tei_13_1942_0;"<color=#81c3fc>鶴見造船所</color>
+<color=#7ce68f>第十三號型驅潜艇 (K-8)</color>
+第十八號"
+jp_kusen_tei_13_1942_1;第十八號
+jp_kusen_tei_13_1942_2;Submarine Chaser
+
+jp_kusen_tei_13_1944_shop;第十八號 (1944)
+jp_kusen_tei_13_1944_0;"<color=#81c3fc>鶴見造船所</color>
+<color=#7ce68f>第十三號型驅潜艇 (K-8)</color>
+第十八號 (1944)"
+jp_kusen_tei_13_1944_1;第十八號
+jp_kusen_tei_13_1944_2;Submarine Chaser
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+jp_t51a_shop;第十號
+jp_t51a_0;"<color=#81c3fc>横浜ヨット</color>
+<color=#7ce68f>甲型魚雷艇 <color=@commonTextColor>|</color> 第十號型魚雷艇 (T-51A)</color>
+第十號"
+jp_t51a_1;第十號
+jp_t51a_2;Motor Torpedo Boat
+
+jp_t51b_shop;第十一號
+jp_t51b_0;"<color=#81c3fc>横浜ヨット</color>
+<color=#7ce68f>甲型魚雷艇 <color=@commonTextColor>|</color> 第十一號型魚雷艇 (T-51B)</color>
+第十一號"
+jp_t51b_1;第十一號
+jp_t51b_2;Motor Torpedo Boat
+
+jp_pc301_kari_class_shop;かり (PC-301)
+jp_pc301_kari_class_0;"<color=#81c3fc>藤永田造船所</color>
+<color=#7ce68f>カリ型駆潜艇 (K-101A)</color>
+カリ (PC-301)"
+jp_pc301_kari_class_1;かり
+jp_pc301_kari_class_2;Submarine Chaser
+
+jp_no1_ch2_shop;第二號
+jp_no1_ch2_0;"<color=#81c3fc>石川島造船所</color>
+<color=#7ce68f>第一號型驅潜艇 (K-3)</color>
+第二號"
+jp_no1_ch2_1;第二號
+jp_no1_ch2_2;Submarine Chaser
+
+jp_no4_ch8_shop;第八號
+jp_no4_ch8_0;"<color=#81c3fc>玉造船所</color>
+<color=#7ce68f>第四號型驅潜艇 (K-7)</color>
+第八號"
+jp_no4_ch8_1;第八號
+jp_no4_ch8_2;Submarine Chaser
+
+jp_type7_pt808_shop;魚雷艇8号 (PT-808)
+jp_type7_pt808_0;"<color=#81c3fc>三菱重工業下関造船所</color>
+<color=#7ce68f>7号型魚雷艇</color>
+魚雷艇8号 (PT-808)"
+jp_type7_pt808_1;魚雷艇8号
+jp_type7_pt808_2;Motor Torpedo Boat
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 

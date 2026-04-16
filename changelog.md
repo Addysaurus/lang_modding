@@ -22,9 +22,20 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - "Lion of Peshwar" additions:
+        - **F-6C** (Pakistan)
+
 - #### Changes:
 
+    - **F-6C** → **F6C (1976)**. Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / Guóyíng Sōnglíng Jīxiè Chang | F6C Xíng Fēijī (August, 1976)** (it specifies August to differentiate it from the October fit later that year).
+        - Mandarin package: Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / 国营松陵机械厂 | F6C型飞机 (August, 1976)**.
+        - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 СМ-7/3 / 国营松陵机械厂 | F6C型飞机 (August, 1976)**.
+    - **A-6E (TRAM)** → **A-6E (WCSI)**. Statcard name → **Grumman Aerospace Corporation G-128S | A-6E Intruder (Weapons Control System Improvement)**.
+    - **B-52H-140-BW (1974)** → **B-52H-140-BW (1979)**. Statcard name → **Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32)**.
     - **9K79** (AI) (event) → **9P129**. Statcard name → **Taktičyeskij rakyetnyj komplyeks 9P129 "Točka"**.
+    - **KPz Leopard 1 A1 A1 (Rh120 L44)** → **Leopard 1 (MPI)**. Statcard name → **Krauss-Maffei Wegmann / Rheinmetall Defense Engineering Main Battle Tank Leopard 1 (Maximum Product Improvement)**.
     - **Zaḥalad 20 mm (Do-Kani)** → **Zaḥalad Ṣriḥon Du-Kani**. Statcard name → **White Motor Company | Zaḥeli Lemeḥeṣah Dizel Ṣriḥon Du-Kani 20 mm**.
         - Hebrew package: **זחל״ד 20 מ״מ (דו-קני)** → **Zaḥalad Ṣriḥon Du-Kani**. Statcard name → **White Motor Company | Zaḥeli Lemeḥeṣah Dizel Ṣriḥon Du-Kani 20 mm**.
     - **Magaḥ 6B**: Statcard name → **Chrysler Defense / Merkaz Šikum ve-'Aḥzakah 7000 | Ṭank M60 A1 RISE | Ṭank Magaḥ 6 Bet**.
@@ -38,12 +49,28 @@ All dates are listed in DD-MM-YYYY format.
     - **Merkavah 4B / B "LIC"** (folder) → **Merkavah 4B / B Baṭaš**.
         - Hebrew package: **"LIC" מרכבה 4ב / 4ב** → **מרכבה 4ב / 4ב ש״טב**.
     - Corrected a missing space in the Hebrew package statcard name for the **Merkavah 4M**.
+    - **Mi-35P** (Japan / Indonesia): Statcard name → **Moskovskij vyertolëtnyj zavod im. M. L. Milâ | Mi-35P**.
+    - **UH-1B** (Japan):
+        - Japanese package: Statcard name → **Bell Helicopter Company / 富士重工業 | UH-1B多用途ヘリコプター「ひよどり」**.
+    - **12 Senchi Ji Hō** → **12 Sanchi Jisō Hō**. Statcard name → **Kaigun Kansei Honbu Dai 1 Bu | 12 Sanchi Jisō Hō**.
+        - Japanese package: **十二糎自走** → **十二糎自走砲**. Statcard name → **艦政本部第一部 | 十二糎自走砲**.
+    - **12 Senchi Hō Sen** → **12 Sanchi Hō Sen**. Statcard name → **Kaigun Kansei Honbu Dai 1 Bu | 12 Sanchi Hō Sensha**.
+        - Japanese package: Statcard name → **艦政本部第一部 | 十二糎砲戦車**.
+    - **Chi To**: Statcard name → **Mitsubishi Jū Kōgyō | Shisei 4 Shiki Chū Sensha | Chi To**.
+        - Japanese package: Statcard name → **三菱重工業 | 試製四式中戦車 | チト**.
+    - **Na To**:
+        - Japanese package: Statcard name → **第四陸軍技術研究所 | 試製七糎半対戦車自走砲 | ナト**.
+    - **M4A3E8** (Japan): Statcard name → **Detroit Arsenal Tank Plant | M4A3E8 Sensha "Shāman"**.
+        - Japanese package: Statcard name → **Detroit Arsenal Tank Plant | M4A3E8戦車「シャーマン」**.
+    - **Tiger E (mitte)** (Japan): Statcard name → **Henschel & Sohn | Sd.Kfz. 181 | Panzerkampfwagen Tiger Ausf. E (mitte)**.
+    - **60APC (ATM-1)** (Japan): Statcard name → **Mitsubishi Jū Kōgyō | 60 Shiki Sōkō Sha (ATM-1)**.
 
 ### Weaponry:
 
 - #### Changes:
 
     - Corrected the display of the statcard name of the **PL12AE** ([Report](https://github.com/Addysaurus/lang_modding/issues/146)).
+    - **AIM-9P-3** → **AIM-9P-1**.
 
 ## 1.17.01 - 07-04-2026
 

@@ -2330,22 +2330,528 @@ jp_type7_pt808_1;Gyorai Tei 8 Gō
 jp_type7_pt808_2;Motor Torpedo Boat
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+jp_type_11_pt_15_shop;Gyorai Tei 15 Gō (PT-815)
+jp_type_11_pt_15_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Shimonoseki Zōsensho</color>
+<color=#7ce68f>11 Gō Gata Gyorai Tei</color>
+Gyorai Tei 15 Gō (PT-815)"
+jp_type_11_pt_15_1;Gyorai Tei 15 Gō
+jp_type_11_pt_15_2;Motor Torpedo Boat
+
+jp_escort_ikazuchi_class_shop;Ikazuchi (DE-202)
+jp_escort_ikazuchi_class_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
+<color=#7ce68f>Otsu Gata Goeikan <color=@commonTextColor>|</color> Ikazuchi Gata Goeikan (E-102)</color>
+Ikazuchi (DE-202)"
+jp_escort_ikazuchi_class_1;Ikazuchi
+jp_escort_ikazuchi_class_2;Destroyer Escort
+
+jp_escort_chikugo_class_shop;Tokachi (DE-218)
+jp_escort_chikugo_class_0;"<color=#81c3fc>Mitsui Zōsen Enjiniaringu</color>
+<color=#7ce68f>Otsu Gata Goeikan <color=@commonTextColor>|</color> Chikugo Gata Goeikan (E-106)</color>
+Tokachi (DE-218)"
+jp_escort_chikugo_class_1;Tokachi
+jp_escort_chikugo_class_2;Destroyer Escort
+
+jp_escort_akebono_class_shop;Akebono (DE-201)
+jp_escort_akebono_class_0;"<color=#81c3fc>Ishikawajima Jūkōgyō</color>
+<color=#7ce68f>Otsu Gata Goeikan <color=@commonTextColor>|</color> Akebono Gata Goeikan (E-102)</color>
+Akebono (DE-201)"
+jp_escort_akebono_class_1;Akebono
+jp_escort_akebono_class_2;Destroyer Escort
+
+jp_pg02_shop;Misairu Tei 2 Gō (PG-822)
+jp_pg02_0;"<color=#81c3fc>Sumitomo Jū Kikai Kōgyō</color>
+<color=#7ce68f>1 Gō Gata Misairu Tei</color>
+Misairu Tei 2 Gō (PG-822)"
+jp_pg02_1;Misairutei 2 Gō
+jp_pg02_2;Missile Boat
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+jp_escort_hiburi_class_syonan_shop;Shōnan
+jp_escort_hiburi_class_syonan_0;"<color=#81c3fc>Hitachi Zōsen</color>
+<color=#7ce68f>Kō Gata Kaibōkan <color=@commonTextColor>|</color> Hiburi Gata Kaibōkan (E-20B)</color>
+Shōnan"
+jp_escort_hiburi_class_syonan_1;Shōnan
+jp_escort_hiburi_class_syonan_2;Coastal Defense Ship
+
+jp_escort_hiburi_class_shisaka_shop;Shisaka
+jp_escort_hiburi_class_shisaka_0;"<color=#81c3fc>Hitachi Zōsen</color>
+<color=#7ce68f>Kō Gata Kaibōkan <color=@commonTextColor>|</color> Hiburi Gata Kaibōkan (E-20B)</color>
+Shisaka"
+jp_escort_hiburi_class_shisaka_1;Shisaka
+jp_escort_hiburi_class_shisaka_2;Coastal Defense Ship
+
+jp_yuri_class_asagao_shop;Asagao
+jp_yuri_class_asagao_0;"<color=#81c3fc>George Lawley & Son</color>
+<color=#7ce68f>Yuri Gata Keibitei</color>
+Asagao"
+jp_yuri_class_asagao_1;Asagao
+jp_yuri_class_asagao_2;Gunboat
+
+jp_destroyer_chidori_shop;Tomozuru
+jp_destroyer_chidori_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#7ce68f>Chidori Gata Suiraitei (F-46)</color>
+Tomozuru
+<color=#adadad>(1944)</color>"
+jp_destroyer_chidori_1;Tomozuru
+jp_destroyer_chidori_2;Destroyer Escort
+
+jp_destroyer_isuzu_shop;Isuzu (DE-211)
+jp_destroyer_isuzu_0;"<color=#81c3fc>Mitsui Zōsen Enjiniaringu</color>
+<color=#7ce68f>Otsu Gata Goeikan <color=@commonTextColor>|</color> Isuzu Gata Goeikan (E-103)</color>
+Isuzu (DE-211)"
+jp_destroyer_isuzu_1;Akebono
+jp_destroyer_isuzu_2;Destroyer Escort
+
+jp_destroyer_ayanami_shop;Ayanami (DD-103)
+jp_destroyer_ayanami_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#7ce68f>Kō Gata Goeikan 1 Gata <color=@commonTextColor>|</color> Ayanami Gata Goeikan (F-102)</color>
+Ayanami (DD-103)"
+jp_destroyer_ayanami_1;Ayanami
+jp_destroyer_ayanami_2;Destroyer
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 1
+jp_destroyer_momi_shop;Momi
+jp_destroyer_momi_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#7ce68f>Nitō Kuchikukan <color=@commonTextColor>|</color> Momi Gata Kuchikukan (F-37)</color>
+Momi
+<color=#adadad>(1930)</color>"
+jp_destroyer_momi_1;Momi
+jp_destroyer_momi_2;Destroyer
+
+jp_destroyer_tade_shop;Tade
+jp_destroyer_tade_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
+<color=#7ce68f>Nitō Kuchikukan <color=@commonTextColor>|</color> Tade Gata Kuchikukan (F-37)</color>
+Tade"
+jp_destroyer_tade_1;Tade
+jp_destroyer_tade_2;Destroyer
+
+jp_destroyer_matsu_shop;Matsu
+jp_destroyer_matsu_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Matsu Gata Kuchikukan (F-55)</color>
+Matsu"
+jp_destroyer_matsu_1;Matsu
+jp_destroyer_matsu_2;Destroyer
+
+jp_destroyer_mutsuki_shop;Mutsuki
+jp_destroyer_mutsuki_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Mutsuki Gata Kuchikukan (F-41E1)</color>
+Mutsuki
+<color=#adadad>(1941)</color>"
+jp_destroyer_mutsuki_1;Mutsuki
+jp_destroyer_mutsuki_2;Destroyer
+
+jp_destroyer_mutsuki_EC_0;Ittō Kuchikukan | Mutsuki Gata Kuchikukan (F-41E1) | Mutsuki (1941)
+jp_destroyer_mutsuki_EC_1;Mutsuki
+jp_destroyer_mutsuki_EC_2;Destroyer
+
+jp_destroyer_satsuki_shop;Satsuki
+jp_destroyer_satsuki_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Mutsuki Gata Kuchikukan (F-41E1)</color>
+Satsuki 
+<color=#adadad>(1935)</color>"
+jp_destroyer_satsuki_1;Satsuki
+jp_destroyer_satsuki_2;Destroyer
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 2
+jp_minelayer_tsugaru_shop;Tsugaru
+jp_minelayer_tsugaru_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#7ce68f>Tsugaru Gata Fusetsukan (H-10)</color>
+Tsugaru
+<color=#adadad>(1943)</color>"
+jp_minelayer_tsugaru_1;Tsugaru
+jp_minelayer_tsugaru_2;Minelayer
+
+jp_destroyer_harukaze_shop;Harukaze (DD-101)
+jp_destroyer_harukaze_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#7ce68f>Kō Gata Goeikan <color=@commonTextColor>|</color> Harukaze Gata Goeikan (F-101)</color>
+Harukaze (DD-101)"
+jp_destroyer_harukaze_1;Harukaze
+jp_destroyer_harukaze_2;Destroyer
+
+jp_destroyer_murasame_shop;Murasame (DD-107)
+jp_destroyer_murasame_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#7ce68f>Kō Gata Goeikan 2 Gata <color=@commonTextColor>|</color> Murasame Gata Goeikan (F-103)</color>
+Murasame (DD-107)
+<color=#adadad>(1975)</color>"
+jp_destroyer_murasame_1;Murasame
+jp_destroyer_murasame_2;Destroyer
+
+jp_destroyer_yugumo_shop;Yūgumo
+jp_destroyer_yugumo_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
+Yūgumo"
+jp_destroyer_yugumo_1;Yūgumo
+jp_destroyer_yugumo_2;Destroyer
+
+jp_destroyer_yugumo_EC_0;Ittō Kuchikukan | Yūgumo Gata Kuchikukan (F-50) | Yūgumo
+jp_destroyer_yugumo_EC_1;Yūgumo
+jp_destroyer_yugumo_EC_2;Destroyer
+
+jp_destroyer_hayanami_shop;Hayanami
+jp_destroyer_hayanami_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
+Hayanami"
+jp_destroyer_hayanami_1;Hayanami
+jp_destroyer_hayanami_2;Destroyer
+
+jp_destroyer_kiyoshimo_shop;Kiyoshimo
+jp_destroyer_kiyoshimo_0;"<color=#81c3fc>Uraga Senkyo</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
+Kiyoshimo"
+jp_destroyer_kiyoshimo_1;Kiyoshimo
+jp_destroyer_kiyoshimo_2;Destroyer
+
+jp_destroyer_hatsuharu_shop;Hatsuharu
+jp_destroyer_hatsuharu_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Hatsuharu Gata Kuchikukan (F-50)</color>
+Hatsuharu"
+jp_destroyer_hatsuharu_1;Hatsuharu
+jp_destroyer_hatsuharu_2;Destroyer
+
+jp_destroyer_fubuki_shop;Ayanami
+jp_destroyer_fubuki_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
+<color=#7ce68f>Toku Gata Kuchikukan <color=@commonTextColor>|</color> Ayanami Gata Kuchikukan (F-43)</color>
+Ayanami
+<color=#adadad>(1936)</color>"
+jp_destroyer_fubuki_1;Ayanami
+jp_destroyer_fubuki_2;Destroyer
+
+jp_destroyer_fubuki_EC_0;Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)
+jp_destroyer_fubuki_EC_1;Ayanami
+jp_destroyer_fubuki_EC_2;Destroyer
+
+jp_destroyer_nenohi_shop;Nenohi
+jp_destroyer_nenohi_0;"<color=#81c3fc>Uraga Senkyo</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Hatsuharu Gata Kuchikukan (F-50)</color>
+Nenohi"
+jp_destroyer_nenohi_1;Nenohi
+jp_destroyer_nenohi_2;Destroyer
+
+jp_destroyer_yugure_shop;Yūgure (DD-184)
+jp_destroyer_yugure_0;"<color=#81c3fc>Boston Navy Yard <color=@commonTextColor>/</color> Ishikawajima Jū Kōgyō</color>
+<color=#7ce68f>Kō Gata Goeikan <color=@commonTextColor>|</color> Airake Gata Goeikan</color>
+Yūgure (DD-184)"
+jp_destroyer_yugure_1;Yūgure
+jp_destroyer_yugure_2;Destroyer
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 3
+jp_destroyer_akizuki_shop;Akizuki
+jp_destroyer_akizuki_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan (F-51)</color>
+Akizuki"
+jp_destroyer_akizuki_1;Akizuki
+jp_destroyer_akizuki_2;Destroyer
+
+jp_destroyer_akizuki_EC_0;Ittō Kuchikukan | Akizuki Gata Kuchikukan (F-51) | Akizuki
+jp_destroyer_akizuki_EC_1;Akizuki
+jp_destroyer_akizuki_EC_2;Destroyer
+
+jp_destroyer_hatsuzuki_shop;◓ Hatsuzuki
+jp_destroyer_hatsuzuki_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan (F-51)</color>
+◓ Hatsuzuki"
+jp_destroyer_hatsuzuki_1;◓ Hatsuzuki
+jp_destroyer_hatsuzuki_2;Destroyer
+
+jp_cruiser_kako_shop;Kako
+jp_cruiser_kako_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
+<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Furutaka Gata Junyōkan</color>
+Kako
+<color=#adadad>(1932)</color>"
+jp_cruiser_kako_1;Kako
+jp_cruiser_kako_2;Heavy Cruiser
+
+jp_cruiser_kako_EC_0;Ittō Junyōkan | Furutaka Gata Junyōkan | Kako (1932)
+jp_cruiser_kako_EC_1;Kako
+jp_cruiser_kako_EC_2;Heavy Cruiser
+
+jp_cruiser_furutaka_shop;Furutaka
+jp_cruiser_furutaka_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Furutaka Gata Junyōkan</color>
+Furutaka
+<color=#adadad>(1942)</color>"
+jp_cruiser_furutaka_1;Furutaka
+jp_cruiser_furutaka_2;Heavy Cruiser
+
+jp_cruiser_furutaka_EC_0;Ittō Junyōkan | Furutaka Gata Junyōkan | Furutaka (1942)
+jp_cruiser_furutaka_EC_1;Furutaka
+jp_cruiser_furutaka_EC_2;Heavy Cruiser
+
+jp_cruiser_isuzu_shop;Isuzu
+jp_cruiser_isuzu_0;"<color=#81c3fc>Uraga Senkyo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Nagara Gata Junyōkan (C-33)</color>
+Isuzu
+<color=#adadad>(1944)</color>"
+jp_cruiser_isuzu_1;Isuzu
+jp_cruiser_isuzu_2;Light Cruiser
+
+jp_cruiser_kuma_shop;Tama
+jp_cruiser_kuma_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Kuma Gata Junyōkan (C-33)</color>
+Tama
+<color=#adadad>(1939)</color>"
+jp_cruiser_kuma_1;Tama
+jp_cruiser_kuma_2;Light Cruiser
+
+jp_cruiser_kuma_EC_0;Nitō Junyōkan | Kuma Gata Junyōkan (C-33) | Tama (1939)
+jp_cruiser_kuma_EC_1;Tama
+jp_cruiser_kuma_EC_2;Light Cruiser
+
+jp_cruiser_sendai_shop;Sendai
+jp_cruiser_sendai_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Sendai Gata Junyōkan (C-33)</color>
+Sendai
+<color=#adadad>(1942)</color>"
+jp_cruiser_sendai_1;Sendai
+jp_cruiser_sendai_2;Light Cruiser
+
+jp_destroyer_kagero_shop;Kagerō
+jp_destroyer_kagero_0;"<color=#81c3fc>Maizuru Kaigun Kōshō <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Kagerō Gata Kuchikukan (F-49)</color>
+Kagerō
+<color=#adadad>(1943)</color>"
+jp_destroyer_kagero_1;Kagerō
+jp_destroyer_kagero_2;Destroyer
+
+jp_destroyer_yukikaze_shop;Yukikaze
+jp_destroyer_yukikaze_0;"<color=#81c3fc>Sasebo Kaigun Kōshō <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Kagerō Gata Kuchikukan (F-49)</color>
+Yukikaze
+<color=#adadad>(1943)</color>"
+jp_destroyer_yukikaze_1;Yukikaze
+jp_destroyer_yukikaze_2;Destroyer
+
+jp_cruiser_yubari_shop;Yūbari
+jp_cruiser_yubari_0;"<color=#81c3fc>Sasebo Kaigun Kōshō <color=@commonTextColor>/</color> Yokosuka Kaigun Kōshō</color>
+<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Yūbari Gata Junyōkan (F-42)</color>
+Yūbari
+<color=#adadad>(1944)</color>"
+jp_cruiser_yubari_1;Yūbari
+jp_cruiser_yubari_2;Light Cruiser
+
+jp_destroyer_shimakaze_shop;Shimakaze
+jp_destroyer_shimakaze_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Shimakaze Gata Kuchikukan (F-52)</color>
+Shimakaze
+<color=#adadad>(1944)</color>"
+jp_destroyer_shimakaze_1;Shimakaze
+jp_destroyer_shimakaze_2;Destroyer
+
+jp_destroyer_yuudachi_shop;Yūdachi
+jp_destroyer_yuudachi_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Shiratsuyu Gata Kuchikukan (F-45D)</color>
+Yūdachi"
+jp_destroyer_yuudachi_1;Yūdachi
+jp_destroyer_yuudachi_2;Destroyer
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 4
+jp_cruiser_aoba_shop;Aoba
+jp_cruiser_aoba_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Aoba Gata Junyōkan (C-41)</color>
+Aoba
+<color=#adadad>(1944)</color>"
+jp_cruiser_aoba_1;Aoba
+jp_cruiser_aoba_2;Heavy Cruiser
+
+jp_cruiser_haguro_shop;Haguro
+jp_cruiser_haguro_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Myōkō Gata Junyōkan (C-42)</color>
+Haguro
+<color=#adadad>(1944)</color>"
+jp_cruiser_haguro_1;Haguro
+jp_cruiser_haguro_2;Heavy Cruiser
+
+jp_cruiser_myoko_shop;Myōkō
+jp_cruiser_myoko_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Myōkō Gata Junyōkan (C-42)</color>
+Myōkō
+<color=#adadad>(1944)</color>"
+jp_cruiser_myoko_1;Myōkō
+jp_cruiser_myoko_2;Heavy Cruiser
+
+jp_cruiser_agano_shop;Agano
+jp_cruiser_agano_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
+<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Agano Gata Junyōkan (C-41-II)</color>
+Agano
+<color=#adadad>(1943)</color>"
+jp_cruiser_agano_1;Agano
+jp_cruiser_agano_2;Light Cruiser
+
+jp_cruiser_agano_EC_0;Nitō Junyōkan
+<color=#7ce68f>Agano Gata Junyōkan (C-41-II)</color>
+Agano (1943)
+jp_cruiser_agano_EC_1;Agano
+jp_cruiser_agano_EC_2;Light Cruiser
+
+jp_cruiser_oyodo_shop;Ōyodo
+jp_cruiser_oyodo_0;"<color=#81c3fc>Kure Kaigun Kōshō <color=@commonTextColor>/</color> Dai 101 Kaigun Shisetsubu</color>
+<color=#7ce68f>Santō Junyōkan <color=@commonTextColor>|</color> Ōyodo Gata Junyōkan (C-42)</color>
+Ōyodo
+<color=#adadad>(1945)</color>"
+jp_cruiser_oyodo_1;Ōyodo
+jp_cruiser_oyodo_2;Light Cruiser
+jp_armoredcruiser_ikoma_shop;Ikoma
+
+jp_armoredcruiser_ikoma_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Tsukuba Gata Junyōkan (B-12)</color>
+Ikoma
+<color=#adadad>(1912)</color>"
+jp_armoredcruiser_ikoma_1;Ikoma
+jp_armoredcruiser_ikoma_2;Battlecruiser
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 5
+jp_cruiser_tone_shop;Tone
+jp_cruiser_tone_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Tone Gata Junyōkan (C-38)</color>
+Tone
+<color=#adadad>(1945)</color>"
+jp_cruiser_tone_1;Tone
+jp_cruiser_tone_2;Heavy Cruiser
+
+jp_cruiser_mogami_suzuya_shop;Suzuya
+jp_cruiser_mogami_suzuya_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
+Suzuya"
+jp_cruiser_mogami_suzuya_1;Suzuya
+jp_cruiser_mogami_suzuya_2;Light Cruiser
+
+jp_cruiser_mogami_shop;Mogami
+jp_cruiser_mogami_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
+<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
+Mogami"
+jp_cruiser_mogami_1;Mogami
+jp_cruiser_mogami_2;Heavy Cruiser
+
+jp_cruiser_mogami_mikuma_shop;Mikuma
+jp_cruiser_mogami_mikuma_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
+Mikuma"
+jp_cruiser_mogami_mikuma_1;Mikuma
+jp_cruiser_mogami_mikuma_2;Light Cruiser
+
+jp_battleship_hyuga_shop;Hyūga
+jp_battleship_hyuga_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#7ce68f>Ise Gata Senkan (A-92)</color>
+Hyūga"
+jp_battleship_hyuga_1;Hyūga
+jp_battleship_hyuga_2;Battleship
+
+jp_battleship_ise_shop;Ise
+jp_battleship_ise_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
+<color=#7ce68f>Ise Gata Senkan (A-92)</color>
+Ise
+<color=#adadad>(1937)</color>"
+jp_battleship_ise_1;Ise
+jp_battleship_ise_2;Battleship
+
+jp_battleship_settsu_shop;Settsu
+jp_battleship_settsu_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
+<color=#7ce68f>Kawachi Gata Senkan (A-30)</color>
+Settsu"
+jp_battleship_settsu_1;Settsu
+jp_battleship_settsu_2;Battleship
+
+jp_battlecruiser_hiei_shop;Hiei
+jp_battlecruiser_hiei_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#7ce68f>Kongō Gata Junyōsenkan (B-46)</color>
+Hiei
+<color=#adadad>(1923)</color>"
+jp_battlecruiser_hiei_1;Hiei
+jp_battlecruiser_hiei_2;Battlecruiser
+
+jp_battlecruiser_kirishima_shop;Kirishima
+jp_battlecruiser_kirishima_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Sasebo Kaigun Kōshō</color>
+<color=#7ce68f>Kongō Gata Senkan (B-46)</color>
+Kirishima
+<color=#adadad>(1942)</color>"
+jp_battlecruiser_kirishima_1;Kirishima
+jp_battlecruiser_kirishima_2;Battleship
+
+jp_battlecruiser_haruna_shop;Haruna
+jp_battlecruiser_haruna_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
+<color=#7ce68f>Kongō Gata Senkan (B-46)</color>
+Haruna
+<color=#adadad>(1945)</color>"
+jp_battlecruiser_haruna_1;Haruna
+jp_battlecruiser_haruna_2;Battleship
+
+jp_battlecruiser_kongo_shop;Kongō
+jp_battlecruiser_kongo_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Sasebo Kaigun Kōshō</color>
+<color=#7ce68f>Kongō Gata Senkan (B-46)</color>
+Kongō
+<color=#adadad>(1944)</color>"
+jp_battlecruiser_kongo_1;Kongō
+jp_battlecruiser_kongo_2;Battleship
+
+jp_armoredcruiser_kurama_shop;Kurama
+jp_armoredcruiser_kurama_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Kurama Gata Junyōkan (B-17)</color>
+Kurama
+<color=#adadad>(1919)</color>"
+jp_armoredcruiser_kurama_1;Kurama
+jp_armoredcruiser_kurama_2;Battlecruiser
+
+jp_battleship_yamashiro_shop;Yamashiro
+jp_battleship_yamashiro_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#7ce68f>Fusō Gata Senkan (A-64)</color>
+Yamashiro"
+jp_battleship_yamashiro_1;Yamashiro
+jp_battleship_yamashiro_2;Battleship
+
+jp_battleship_fuso_shop;Fusō
+jp_battleship_fuso_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
+<color=#7ce68f>Fusō Gata Senkan (A-64)</color>
+Fusō"
+jp_battleship_fuso_1;Fusō
+jp_battleship_fuso_2;Battleship
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 6
+jp_battlecruiser_amagi_shop;Amagi
+jp_battlecruiser_amagi_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#7ce68f>Amagi Gata Junyōsenkan (B-64)</color>
+Amagi"
+jp_battlecruiser_amagi_1;Amagi
+jp_battlecruiser_amagi_2;Battlecruiser
+
+jp_battleship_mutsu_shop;Mutsu
+jp_battleship_mutsu_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#7ce68f>Nagato Gata Senkan (A-114)</color>
+Mutsu
+<color=#adadad>(1922)</color>"
+jp_battleship_mutsu_1;Mutsu
+jp_battleship_mutsu_2;Battleship
+
+jp_battleship_nagato_shop;Nagato
+jp_battleship_nagato_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
+<color=#7ce68f>Nagato Gata Senkan (A-114)</color>
+Nagato
+<color=#adadad>(1944)</color>"
+jp_battleship_nagato_1;Nagato
+jp_battleship_nagato_2;Battleship
+
+jp_battleship_tosa_shop;Tosa
+jp_battleship_tosa_0;"<color=#81c3fc>Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo</color>
+<color=#7ce68f>Kaga Gata Senkan (A-127)</color>
+Tosa"
+jp_battleship_tosa_1;Tosa
+jp_battleship_tosa_2;Battleship
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 7
+jp_battleship_yamato_shop;Yamato
+jp_battleship_yamato_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
+<color=#7ce68f>Yamato Gata Senkan (A-140F6)</color>
+Yamato
+<color=#adadad>(1945)</color>"
+jp_battleship_yamato_1;Yamato
+jp_battleship_yamato_2;Battleship
+
+jp_battleship_musashi_shop;Musashi
+jp_battleship_musashi_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#7ce68f>Yamato Gata Senkan (A-140F6)</color>
+Musashi
+<color=#adadad>(1943)</color>"
+jp_battleship_musashi_1;Musashi
+jp_battleship_musashi_2;Battleship
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 gladiator_mk1_china_shop;☀ Dòushì Mk. I

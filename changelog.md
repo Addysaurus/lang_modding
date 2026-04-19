@@ -18,7 +18,26 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.17.02 - UNRELEASED
+## 1.17.03 - 16-04-2026
+
+### Vehicles:
+
+- #### Changes:
+
+    - **Misairu Tei 2 Gō (PG-822)**: Statcard name → **Sumitomo Jū Kikai Kōgyō | 1 Gō Gata Misairu Tei | Misairu Tei 2 Gō (PG-822)**.
+    - **Tomozuru**: Statcard name → **Maizuru Kaigun Kōshō | Chidori Gata Suiraitei (F-46) | Tomozuru (1944)**.
+    - **Mutsuki** (EC): Removed manufacturer name because this is an AI unit that appears in battle.
+    - **Yūgumo** (EC): Removed manufacturer name because this is an AI unit that appears in battle.
+    - **Ayanami** (EC): Removed manufacturer name because this is an AI unit that appears in battle.
+    - **Akizuki** (EC): Removed manufacturer name because this is an AI unit that appears in battle.
+    - **Harukaze (DD-101)**: Statcard name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Kō Gata Goeikan | Harukaze Gata Goeikan (F-101) | Harukaze (DD-101)**.
+    - **Yūgure (DD-184)**: Statcard name → **Boston Navy Yard / Ishikawajima Jū Kōgyō | Kō Gata Goeikan | Airake Gata Goeikan | Yūgure (DD-184)**.
+    - **Kako** (EC): Removed manufacturer name because this is an AI unit that appears in battle.
+    - **Isuzu**: Statcard name → **Uraga Senkyo / Kure Kaigun Kōshō | Nitō Junyōkan | Nagara Gata Junyōkan (C-33) | Isuzu (1944)**.
+    - **Tama** (EC): Removed manufacturer name because this is an AI unit that appears in battle.
+    - **Agano** (EC): Removed manufacturer name because this is an AI unit that appears in battle.
+
+## 1.17.02 - 16-04-2026
 
 ### Vehicles:
 

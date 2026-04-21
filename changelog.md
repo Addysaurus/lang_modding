@@ -22,8 +22,13 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **Spitfire LF Mk IXc** (Israel / Greece)
+
 - #### Changes:
 
+    - **Spitfire LF Mk IXc** → **Smyrniotópoulos' Spitfire L.F. Mk. IX (CW)**. Statcard name → **Vickers Supermarine Type 361 | Geórgios Smyrniotópoulos' Spitfire L.F. Mk. IX (clipped wing)**.
     - **USS PT-95**: Statcard name → **Huckins Yacht Corporation | Huckins 78'-class Motor Torpedo Boat | USS PT-95**.
     - **USS PT-262**: Statcard name → **Huckins Yacht Corporation | Huckins 78'-class Motor Torpedo Boat | USS PT-262**.
     - **Misairu Tei 2 Gō (PG-822)**: Statcard name → **Sumitomo Jū Kikai Kōgyō | 1 Gō Gata Misairu Tei | Misairu Tei 2 Gō (PG-822)**.

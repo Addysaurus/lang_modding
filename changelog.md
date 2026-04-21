@@ -24,10 +24,13 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
+    - **IJN Suzutsuki**
     - **Spitfire LF Mk IXc** (Israel / Greece)
 
 - #### Changes:
 
+    - **IJN Suzutsuki** → **Suzutsuki**. Statcard name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Ittō Kuchikukan | Akizuki Gata Kuchikukan (F-51) | Suzutsuki (1944)**.
+        - Japanese package: **IJN Suzutsuki** → **涼月**. Statcard name → **三菱重工業長崎造船所 / 呉海軍工廠 | 一等驅逐艦 | 秋月型驅逐艦 (F-51) | 涼月 (1944)**.
     - **Spitfire LF Mk IXc** → **Smyrniotópoulos' Spitfire L.F. Mk. IX (CW)**. Statcard name → **Vickers Supermarine Type 361 | Geórgios Smyrniotópoulos' Spitfire L.F. Mk. IX (clipped wing)**.
     - **USS PT-95**: Statcard name → **Huckins Yacht Corporation | Huckins 78'-class Motor Torpedo Boat | USS PT-95**.
     - **USS PT-262**: Statcard name → **Huckins Yacht Corporation | Huckins 78'-class Motor Torpedo Boat | USS PT-262**.

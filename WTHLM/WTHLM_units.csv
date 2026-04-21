@@ -1522,7 +1522,7 @@ shop/group/meteor3_group;Meteor F. Mk. 3 / 3 (EE337)
 shop/group/meteor4_group;Meteor F. Mk. 3/4 / 4 / 8
 shop/group/canberra_group;Canberra B. Mk. 2 / B.(I) Mk. 6
 shop/group/hawk_200_group;Hawk 200 (ZH200) / (RDA)
-shop/group/f_111c_tornado_group;▄ F-111F / Tornado G.R. Mk. 1
+shop/group/f_111c_tornado_group;▄ F-111C / Tornado G.R. Mk. 1
 shop/group/fa_18a_raaf_group;▄ F/A-18A / A (HUG 2.4)
 shop/group/uk_destroyer_battle_group;HMS Armada / HMAS Tobruk
 shop/group/uk_destroyer_daring_group;HMS Diana / Daring
@@ -2840,11 +2840,11 @@ f_106a_1972_0;Convair Model 8-31 | F-106A-100-CO Delta Dart (Project Six Shooter
 f_106a_1972_1;F-106A
 f_106a_1972_2;F-106
 b_52h_shop;B-52H-140-BW (1979)
-b_52h_0;Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32)
+b_52h_0;Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))
 b_52h_1;B-52H
 b_52h_2;B-52
 nt_b_52h_shop;☢ B-52H-140-BW (1979)
-nt_b_52h_0;☢ Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Jolly Well) (Project Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32)
+nt_b_52h_0;☢ Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Jolly Well) (Project Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))
 nt_b_52h_1;☢ B-52H
 nt_b_52h_2;☢ B-52
 
@@ -3740,11 +3740,11 @@ us_elco_77ft_pt20_0;Elco 77 ft motor morpedo boat, USS PT-20
 us_elco_77ft_pt20_1;PT-20
 us_elco_77ft_pt20_2;Motor Torpedo Boat
 us_huckins_78ft_pt95_shop;USS PT-95
-us_huckins_78ft_pt95_0;Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-95
+us_huckins_78ft_pt95_0;Huckins Yacht Corporation | Huckins 78'-class Motor Torpedo Boat | USS PT-95
 us_huckins_78ft_pt95_1;USS PT-95
 us_huckins_78ft_pt95_2;Motor Torpedo Boat
 us_huckins_78ft_pt262_shop;USS PT-262
-us_huckins_78ft_pt262_0;Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-262
+us_huckins_78ft_pt262_0;Huckins Yacht Corporation | Huckins 78'-class Motor Torpedo Boat | USS PT-262
 us_huckins_78ft_pt262_1;USS PT-262
 us_huckins_78ft_pt262_2;Motor Torpedo Boat
 us_pt3_shop;PT-3
@@ -3803,9 +3803,9 @@ us_pgm_59_class_shop;Kim Qui (HQ 605)
 us_pgm_59_class_0;PGM-59-class motor gun boat, Kim Qui (HQ 605)
 us_pgm_59_class_1;Kim Qui (HQ 605)
 us_pgm_59_class_2;Gunboat
-us_lcm_zippo_shop;Z-2
-us_lcm_zippo_0;"Fincantieri Marinette Marine | Landing Craft, Mechanized, (Mk. 6) (Flamethrower) ""Zippo"" | Z-2"
-us_lcm_zippo_1;Z-2
+us_lcm_zippo_shop;USS Z-2
+us_lcm_zippo_0;"Fincantieri Marinette Marine | Landing Craft, Mechanized, (Mk. 6) (Flamethrower) ""Zippo"" | USS Z-2"
+us_lcm_zippo_1;USS Z-2
 us_lcm_zippo_2;Monitor
 us_elco_80ft_pt_boat_thunderbolt_shop;PT-556
 us_elco_80ft_pt_boat_thunderbolt_0;Elco 80 ft motor torpedo boat, USS PT-556
@@ -3895,18 +3895,6 @@ us_destroyer_farragut_1942_1;USS Aylwin
 us_destroyer_farragut_1942_2;Destroyer
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
-us_destroyer_sumner_shop;USS Allan M. Sumner (DD-692)
-us_destroyer_sumner_0;Federal Shipbuilding and Drydock Company | Allen M. Sumner-class Destroyer | USS Allen M. Sumner (DD-692)
-us_destroyer_sumner_1;USS Allan M. Sumner
-us_destroyer_sumner_2;Destroyer
-us_destroyer_gearing_shop;USS Gearing (DD-710)
-us_destroyer_gearing_0;Federal Shipbuilding and Drydock Company | Gearing-class Destroyer | USS Gearing (DD-710)
-us_destroyer_gearing_1;USS Gearing
-us_destroyer_gearing_2;Destroyer
-us_destroyer_gearing_frank_knox_shop;USS Frank Knox (DD-742)
-us_destroyer_gearing_frank_knox_0;Bath Iron Works | Gearing-class Destroyer | USS Frank Knox (DD-742)
-us_destroyer_gearing_frank_knox_1;USS Frank Knox
-us_destroyer_gearing_frank_knox_2;Destroyer
 us_destroyer_bagley_class_bagley_shop;USS Bagley (DD-386)
 us_destroyer_bagley_class_bagley_0;Norfolk Naval Shipyard | Bagley-class Destroyer | USS Bagley (DD-386)
 us_destroyer_bagley_class_bagley_1;USS Bagley
@@ -3973,6 +3961,18 @@ us_cruiser_omaha_class_detroit_shop;USS Detroit (CL-8)
 us_cruiser_omaha_class_detroit_0;Fore River Shipyard / Mare Island Naval Shipyard | Omaha-class Light Cruiser | USS Detroit (CL-8) (1942)
 us_cruiser_omaha_class_detroit_1;USS Detroit
 us_cruiser_omaha_class_detroit_2;Light Cruiser
+us_destroyer_sumner_shop;USS Allan M. Sumner (DD-692)
+us_destroyer_sumner_0;Federal Shipbuilding and Drydock Company | Allen M. Sumner-class Destroyer | USS Allen M. Sumner (DD-692)
+us_destroyer_sumner_1;USS Allan M. Sumner
+us_destroyer_sumner_2;Destroyer
+us_destroyer_gearing_shop;USS Gearing (DD-710)
+us_destroyer_gearing_0;Federal Shipbuilding and Drydock Company | Gearing-class Destroyer | USS Gearing (DD-710)
+us_destroyer_gearing_1;USS Gearing
+us_destroyer_gearing_2;Destroyer
+us_destroyer_gearing_frank_knox_shop;USS Frank Knox (DD-742)
+us_destroyer_gearing_frank_knox_0;Bath Iron Works | Gearing-class Destroyer | USS Frank Knox (DD-742)
+us_destroyer_gearing_frank_knox_1;USS Frank Knox
+us_destroyer_gearing_frank_knox_2;Destroyer
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 us_destroyer_cf_adams_class_cf_adams_shop;USS Charles F. Adams (DDG-2)
@@ -3987,6 +3987,14 @@ us_cruiser_atlanta_class_atlanta_shop;USS Atlanta (CL-51)
 us_cruiser_atlanta_class_atlanta_0;Federal Shipbuilding and Drydock Company | Atlanta-class Light Cruiser | USS Atlanta (CL-51)
 us_cruiser_atlanta_class_atlanta_1;USS Atlanta
 us_cruiser_atlanta_class_atlanta_2;Light Cruiser
+us_cruiser_cleveland_class_cleveland_shop;USS Cleveland (CL-55)
+us_cruiser_cleveland_class_cleveland_0;New York Shipbuilding Corporation | Cleveland-class Light Cruiser | USS Cleveland (CL-55)
+us_cruiser_cleveland_class_cleveland_1;USS Cleveland
+us_cruiser_cleveland_class_cleveland_2;Light Cruiser
+us_cruiser_fargo_class_shop;USS Fargo (CL-106)
+us_cruiser_fargo_class_0;New York Shipbuilding Corporation | Fargo-class Light Cruiser | USS Fargo (CL-106)
+us_cruiser_fargo_class_1;USS Fargo
+us_cruiser_fargo_class_2;Light Cruiser
 us_cruiser_portland_class_shop;USS Portland (CA-33)
 us_cruiser_portland_class_0;Fore River Shipyard / Mare Island Naval Shipyard | Portland-class Heavy Cruiser | USS Portland (CA-33) (1943)
 us_cruiser_portland_class_1;USS Portland
@@ -4013,18 +4021,14 @@ us_cruiser_brooklyn_class_brooklyn_1;USS Brooklyn
 us_cruiser_brooklyn_class_brooklyn_2;Light Cruiser
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
-us_cruiser_fargo_class_shop;USS Fargo (CL-106)
-us_cruiser_fargo_class_0;New York Shipbuilding Corporation | Fargo-class Light Cruiser | USS Fargo (CL-106)
-us_cruiser_fargo_class_1;USS Fargo
-us_cruiser_fargo_class_2;Light Cruiser
 us_cruiser_worcester_class_roanoke_shop;USS Roanoke (CL-145)
 us_cruiser_worcester_class_roanoke_0;New York Shipbuilding Corporation | Worcester-class Light Cruiser | USS Roanoke (CL-145)
 us_cruiser_worcester_class_roanoke_1;USS Roanoke
 us_cruiser_worcester_class_roanoke_2;Light Cruiser
-us_cruiser_cleveland_class_cleveland_shop;USS Cleveland (CL-55)
-us_cruiser_cleveland_class_cleveland_0;New York Shipbuilding Corporation | Cleveland-class Light Cruiser | USS Cleveland (CL-55)
-us_cruiser_cleveland_class_cleveland_1;USS Cleveland
-us_cruiser_cleveland_class_cleveland_2;Light Cruiser
+us_battleship_texas_shop;USS Texas (BB-35)
+us_battleship_texas_0;Newport News Shipbuilding and Dry Dock Company / Brooklyn Navy Yard | New York-class Battleship | USS Texas (BB-35) (1945)
+us_battleship_texas_1;USS Texas
+us_battleship_texas_2;Battleship
 us_battleship_north_dakota_shop;USS North Dakota (BB-29)
 us_battleship_north_dakota_0;Fore River Shipyard | Delaware-class Battleship | USS North Dakota (BB-29) (1917)
 us_battleship_north_dakota_1;USS North Dakota
@@ -4059,10 +4063,6 @@ us_cruiser_des_moines_class_1;USS Des Moines
 us_cruiser_des_moines_class_2;Heavy Cruiser
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
-us_battleship_texas_shop;USS Texas (BB-35)
-us_battleship_texas_0;Newport News Shipbuilding and Dry Dock Company / Brooklyn Navy Yard | New York-class Battleship | USS Texas (BB-35) (1945)
-us_battleship_texas_1;USS Texas
-us_battleship_texas_2;Battleship
 us_battleship_arizona_1931_shop;USS Arizona (BB-39)
 us_battleship_arizona_1931_0;Brooklyn Navy Yard / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Pennsylvania-class Battleship | USS Arizona (BB-39) (1938)
 us_battleship_arizona_1931_1;USS Arizona
@@ -9348,7 +9348,7 @@ p-51d-20-na_iaf_0; North American Aviation NA-122 | Pi-51 Degem Di Musṭang
 p-51d-20-na_iaf_1; Pi-51 Di
 p-51d-20-na_iaf_2; Pi-51
 b-17g_iaf_shop; Bi-17 Ji
-b-17g_iaf_0; Boeing Airplane Company | Bi-17 Degem Ji Mivṣar Me'ofef
+b-17g_iaf_0; Boeing Airplane Company Model 299P | Bi-17 Degem Ji Mivṣar Me'ofef
 b-17g_iaf_1; Bi-17 Ji
 b-17g_iaf_2; Bi-17
 

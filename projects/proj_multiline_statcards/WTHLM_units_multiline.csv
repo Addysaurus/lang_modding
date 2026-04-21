@@ -2,8 +2,9 @@
 <color=#81c3fc>Manufacturer & manufacturer name</color>
 <color=#ff8c80>Military project</color>
 <color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
-<color=#ff831c>Previous service name</color>
-<color=#7ce68f>Alternate current service name</color>
+<color=#fffa62>Ship class</color>
+<color=#ff831c>Previous name</color>
+<color=#7ce68f>Alternate applicable name</color>
 Vehicle name
 <color=#adadad>Modifications</color>
 <color=#ba77ba>Service years package</color>
@@ -83,7 +84,7 @@ b_52h_shop;B-52H-140-BW (1979)
 b_52h_0;"<color=#81c3fc>Boeing Airplane Company Model 464-261</color>
 B-52H-140-BW Stratofortress
 <color=#adadad>(Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151)
-(Project Quick Start) (AN/ALT-32)</color>"
+(Project Quick Start) (AN/ALT-32 (SALT II-compliant))</color>"
 b_52h_1;B-52H
 b_52h_2;B-52
 
@@ -91,7 +92,7 @@ nt_b_52h_shop;☢ B-52H-140-BW (1979)
 nt_b_52h_0;"<color=#81c3fc>Boeing Airplane Company Model 464-261</color>
 ☢ B-52H-140-BW Stratofortress
 <color=#adadad>(Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151)
-(Project Quick Start) (AN/ALT-32)</color>"
+(Project Quick Start) (AN/ALT-32 (SALT II-compliant))</color>"
 nt_b_52h_1;☢ B-52H
 nt_b_52h_2;☢ B-52
 
@@ -226,28 +227,466 @@ us_merkava_mk_3d_2;MBT
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+us_huckins_78ft_pt95_shop;USS PT-95
+us_huckins_78ft_pt95_0;"<color=#81c3fc>Huckins Yacht Corporation</color>
+<color=#fffa62>Huckins 78'-class Motor Torpedo Boat</color>
+USS PT-95"
+us_huckins_78ft_pt95_1;USS PT-95
+us_huckins_78ft_pt95_2;Motor Torpedo Boat
+
+us_huckins_78ft_pt262_shop;USS PT-262
+us_huckins_78ft_pt262_0;"<color=#81c3fc>Huckins Yacht Corporation</color>
+<color=#fffa62>Huckins 78'-class Motor Torpedo Boat</color>
+USS PT-262"
+us_huckins_78ft_pt262_1;USS PT-262
+us_huckins_78ft_pt262_2;Motor Torpedo Boat
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+us_lcm_zippo_shop;USS Z-2
+us_lcm_zippo_0;"<color=#81c3fc>Fincantieri Marinette Marine</color>
+<color=#fffa62>Landing Craft, Mechanized, (Mk. 6) (Flamethrower) ""Zippo""</color>
+USS Z-2"
+us_lcm_zippo_1;USS Z-2
+us_lcm_zippo_2;Monitor
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+us_pgm_9_class_shop;USS PGM-9
+us_pgm_9_class_0;"<color=#81c3fc>Consolidated Shipbuilding Corporation</color>
+<color=#fffa62>PGM-9-class Motor Gunboat</color>
+USS PGM-9"
+us_pgm_9_class_1;USS PGM-9
+us_pgm_9_class_2;Motor Gunboat
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+us_destroyer_clemson_litchfield_shop;USS Litchfield (DD-336)
+us_destroyer_clemson_litchfield_0;"<color=#81c3fc>Mare Island Naval Shipyard</color>
+<color=#fffa62>Clemson-class Destroyer</color>
+USS Litchfield (DD-336)
+<color=#adadad>(1922)</color>"
+us_destroyer_clemson_litchfield_1;USS Litchfield
+us_destroyer_clemson_litchfield_2;Destroyer
+
+us_destroyer_clemson_barker_shop;USS Barker (DD-213)
+us_destroyer_clemson_barker_0;"<color=#81c3fc>Cramp Shipbuilding <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Clemson-class Destroyer</color>
+USS Barker (DD-213)
+<color=#adadad>(1942)</color>"
+us_destroyer_clemson_barker_1;USS Barker
+us_destroyer_clemson_barker_2;Destroyer
+
+us_destroyer_clemson_welborn_c_wood_shop;USS Welborn C. Wood (DD-195)
+us_destroyer_clemson_welborn_c_wood_0;"<color=#81c3fc>Newport News Shipbuilding and Dry Dock Company <color=@commonTextColor>/</color> Mare Island Naval
+Shipyard</color>
+<color=#fffa62>Clemson-class Destroyer</color>
+USS Welborn C. Wood (DD-195)
+<color=#adadad>(1922)</color>"
+us_destroyer_clemson_welborn_c_wood_1;USS Welborn C. Wood
+us_destroyer_clemson_welborn_c_wood_2;Destroyer
+
+us_destroyer_farragut_1942_shop;USS Aylwin (DD-355)
+us_destroyer_farragut_1942_0;"<color=#81c3fc>Philadelphia Naval Shipyard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Farragut-class Destroyer</color>
+USS Aylwin (DD-355)
+<color=#adadad>(1942)</color>"
+us_destroyer_farragut_1942_1;USS Aylwin
+us_destroyer_farragut_1942_2;Destroyer
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+us_destroyer_bagley_class_bagley_shop;USS Bagley (DD-386)
+us_destroyer_bagley_class_bagley_0;"<color=#81c3fc>Norfolk Naval Shipyard</color>
+<color=#fffa62>Bagley-class Destroyer</color>
+USS Bagley (DD-386)"
+us_destroyer_bagley_class_bagley_1;USS Bagley
+us_destroyer_bagley_class_bagley_2;Destroyer
+
+us_destroyer_bagley_class_helm_shop;USS Helm (DD-388)
+us_destroyer_bagley_class_helm_0;"<color=#81c3fc>Norfolk Naval Shipyard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Bagley-class Destroyer</color>
+USS Helm (DD-388)
+<color=#adadad>(1944)</color>"
+us_destroyer_bagley_class_helm_1;USS Helm
+us_destroyer_bagley_class_helm_2;Destroyer
+
+us_destroyer_fletcher_shop;USS Fletcher (DD-445)
+us_destroyer_fletcher_0;"<color=#81c3fc>Federal Shipbuilding and Drydock Company</color>
+<color=#fffa62>Fletcher-class Destroyer</color>
+USS Fletcher (DD-445)"
+us_destroyer_fletcher_1;USS Fletcher
+us_destroyer_fletcher_2;Destroyer
+
+us_destroyer_fletcher_sub_event_shop;USS Fletcher (DD-445)
+us_destroyer_fletcher_sub_event_0;"<color=#81c3fc>Federal Shipbuilding and Drydock Company</color>
+<color=#fffa62>Fletcher-class Destroyer</color>
+USS Fletcher (DD-445)"
+us_destroyer_fletcher_sub_event_1;USS Fletcher
+us_destroyer_fletcher_sub_event_2;Destroyer
+
+us_destroyer_fletcher_cowell_shop;USS Cowell (DD-547)
+us_destroyer_fletcher_cowell_0;"<color=#81c3fc>Bethlehem Shipbuilding San Pedro</color>
+<color=#fffa62>Fletcher-class Destroyer</color>
+USS Cowell (DD-547)"
+us_destroyer_fletcher_cowell_1;USS Cowell
+us_destroyer_fletcher_cowell_2;Destroyer
+
+us_destroyer_fletcher_bennion_shop;USS Bennion (DD-662)
+us_destroyer_fletcher_bennion_0;"<color=#81c3fc>Boston Naval Shipyard</color>
+<color=#fffa62>Fletcher-class Destroyer</color>
+USS Bennion (DD-662)"
+us_destroyer_fletcher_bennion_1;USS Bennion
+us_destroyer_fletcher_bennion_2;Destroyer
+
+us_destroyer_mitscher_shop;USS Mitscher (DL-2)
+us_destroyer_mitscher_0;"<color=#81c3fc>Bath Iron Works</color>
+<color=#fffa62>Mitscher-class Destroyer Leader</color>
+USS Mitscher (DL-2)"
+us_destroyer_mitscher_1;USS Mitscher
+us_destroyer_mitscher_2;Destroyer
+
+us_destroyer_mitscher_wilkinson_shop;USS Wilkinson (DL-5)
+us_destroyer_mitscher_wilkinson_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Long Beach Naval Shipyard</color>
+<color=#fffa62>Mitscher-class Destroyer Leader</color>
+USS Wilkinson (DL-5)
+<color=#adadad>(1958)</color>"
+us_destroyer_mitscher_wilkinson_1;USS Wilkinson
+us_destroyer_mitscher_wilkinson_2;Destroyer
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+us_destroyer_porter_1941_shop;USS Porter (DD-356)
+us_destroyer_porter_1941_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Long Beach Naval Shipyard</color>
+<color=#fffa62>Porter-class Destroyer</color>
+USS Porter (DD-356)
+<color=#adadad>(1939)</color>"
+us_destroyer_porter_1941_1;USS Porter
+us_destroyer_porter_1941_2;Destroyer
+
+us_destroyer_porter_1942_shop;USS Moffett (DD-362)
+us_destroyer_porter_1942_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Charleston Naval Shipyard</color>
+<color=#fffa62>Porter-class Destroyer</color>
+USS Moffett (DD-362)
+<color=#adadad>(1942)</color>"
+us_destroyer_porter_1942_1;USS Moffett
+us_destroyer_porter_1942_2;Destroyer
+
+us_destroyer_porter_1944_shop;USS Phelps (DD-360)
+us_destroyer_porter_1944_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Charleston Naval Shipyard</color>
+<color=#fffa62>Porter-class Destroyer</color>
+USS Phelps (DD-360)
+<color=#adadad>(1944)</color>"
+us_destroyer_porter_1944_1;USS Phelps
+us_destroyer_porter_1944_2;Destroyer
+
+us_destroyer_somers_shop;USS Somers (DD-381)
+us_destroyer_somers_0;"<color=#81c3fc>Federal Shipbuilding and Drydock Company</color>
+<color=#fffa62>Somers-class Destroyer</color>
+USS Somers (DD-381)"
+us_destroyer_somers_1;USS Somers
+us_destroyer_somers_2;Destroyer
+
+us_destroyer_somers_davis_shop;USS Davis (DD-395)
+us_destroyer_somers_davis_0;"<color=#81c3fc>Bath Iron Works</color>
+<color=#fffa62>Somers-class Destroyer</color>
+USS Davis (DD-395)"
+us_destroyer_somers_davis_1;USS Davis
+us_destroyer_somers_davis_2;Destroyer
+
+us_cruiser_omaha_class_trenton_shop;USS Raleigh (CL-7) (1932)
+us_cruiser_omaha_class_trenton_0;"<color=#81c3fc>Fore River Shipyard</color>
+<color=#fffa62>Omaha-class Light Cruiser</color>
+USS Raleigh (CL-7)
+<color=#adadad>(1932)</color>"
+us_cruiser_omaha_class_trenton_1;USS Raleigh
+us_cruiser_omaha_class_trenton_2;Light Cruiser
+
+us_cruiser_omaha_class_raleigh_shop;USS Raleigh (CL-7) (1942)
+us_cruiser_omaha_class_raleigh_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Omaha-class Light Cruiser</color>
+USS Raleigh (CL-7)
+<color=#adadad>(1942)</color>"
+us_cruiser_omaha_class_raleigh_1;USS Raleigh
+us_cruiser_omaha_class_raleigh_2;Light Cruiser
+
+us_cruiser_omaha_class_detroit_shop;USS Detroit (CL-8)
+us_cruiser_omaha_class_detroit_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Omaha-class Light Cruiser</color>
+USS Detroit (CL-8)
+<color=#adadad>(1942)</color>"
+us_cruiser_omaha_class_detroit_1;USS Detroit
+us_cruiser_omaha_class_detroit_2;Light Cruiser
+
+us_destroyer_sumner_shop;USS Allan M. Sumner (DD-692)
+us_destroyer_sumner_0;"<color=#81c3fc>Federal Shipbuilding and Drydock Company</color>
+<color=#fffa62>Allen M. Sumner-class Destroyer</color>
+USS Allen M. Sumner (DD-692)"
+us_destroyer_sumner_1;USS Allan M. Sumner
+us_destroyer_sumner_2;Destroyer
+
+us_destroyer_gearing_shop;USS Gearing (DD-710)
+us_destroyer_gearing_0;"<color=#81c3fc>Federal Shipbuilding and Drydock Company</color>
+<color=#fffa62>Gearing-class Destroyer</color>
+USS Gearing (DD-710)"
+us_destroyer_gearing_1;USS Gearing
+us_destroyer_gearing_2;Destroyer
+
+us_destroyer_gearing_frank_knox_shop;USS Frank Knox (DD-742)
+us_destroyer_gearing_frank_knox_0;"<color=#81c3fc>Bath Iron Works</color>
+<color=#fffa62>Gearing-class Destroyer</color>
+USS Frank Knox (DD-742)"
+us_destroyer_gearing_frank_knox_1;USS Frank Knox
+us_destroyer_gearing_frank_knox_2;Destroyer
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+us_destroyer_cf_adams_class_cf_adams_shop;USS Charles F. Adams (DDG-2)
+us_destroyer_cf_adams_class_cf_adams_0;"<color=#81c3fc>Bath Iron Works</color>
+<color=#fffa62>Charles F. Adams-class Guided Missile Destroyer</color>
+USS Charles F. Adams (DDG-2)"
+us_destroyer_cf_adams_class_cf_adams_1;USS Charles F. Adams
+us_destroyer_cf_adams_class_cf_adams_2;Guided Missile Destroyer
+
+us_destroyer_forrestsherman_class_shop;USS Forrest Sherman (DD-931)
+us_destroyer_forrestsherman_class_0;"<color=#81c3fc>Bath Iron Works</color>
+<color=#fffa62>Forrest Sherman-class Destroyer</color>
+USS Forrest Sherman (DD-931)"
+us_destroyer_forrestsherman_class_1;USS Forrest Sherman
+us_destroyer_forrestsherman_class_2;Destroyer
+
+us_cruiser_atlanta_class_atlanta_shop;USS Atlanta (CL-51)
+us_cruiser_atlanta_class_atlanta_0;"<color=#81c3fc>Federal Shipbuilding and Drydock Company</color>
+<color=#fffa62>Atlanta-class Light Cruiser</color>
+USS Atlanta (CL-51)"
+us_cruiser_atlanta_class_atlanta_1;USS Atlanta
+us_cruiser_atlanta_class_atlanta_2;Light Cruiser
+
+us_cruiser_cleveland_class_cleveland_shop;USS Cleveland (CL-55)
+us_cruiser_cleveland_class_cleveland_0;"<color=#81c3fc>New York Shipbuilding Corporation</color>
+<color=#fffa62>Cleveland-class Light Cruiser</color>
+USS Cleveland (CL-55)"
+us_cruiser_cleveland_class_cleveland_1;USS Cleveland
+us_cruiser_cleveland_class_cleveland_2;Light Cruiser
+
+us_cruiser_fargo_class_shop;USS Fargo (CL-106)
+us_cruiser_fargo_class_0;"<color=#81c3fc>New York Shipbuilding Corporation</color>
+<color=#fffa62>Fargo-class Light Cruiser</color>
+USS Fargo (CL-106)"
+us_cruiser_fargo_class_1;USS Fargo
+us_cruiser_fargo_class_2;Light Cruiser
+
+us_cruiser_portland_class_shop;USS Portland (CA-33)
+us_cruiser_portland_class_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Portland-class Heavy Cruiser</color>
+USS Portland (CA-33)
+<color=#adadad>(1943)</color>"
+us_cruiser_portland_class_1;USS Portland
+us_cruiser_portland_class_2;Heavy Cruiser
+
+us_cruiser_pensacola_class_shop;USS Pensacola (CA-24)
+us_cruiser_pensacola_class_0;"<color=#81c3fc>Brooklyn Navy Yard</color>
+<color=#fffa62>Pensacola-class Heavy Cruiser</color>
+USS Pensacola (CA-24)"
+us_cruiser_pensacola_class_1;USS Pensacola
+us_cruiser_pensacola_class_2;Heavy Cruiser
+
+us_cruiser_northampton_class_shop;USS Northampton (CA-26)
+us_cruiser_northampton_class_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Pearl Harbor Naval Shipyard and Intermediate
+Maintenance Facility</color>
+<color=#fffa62>Northampton-class Heavy Cruiser</color>
+USS Northampton (CA-26)
+<color=#adadad>(1940)</color>"
+us_cruiser_northampton_class_1;USS Northampton
+us_cruiser_northampton_class_2;Heavy Cruiser
+
+us_cruiser_new_orleans_class_shop;USS New Orleans (CA-32)
+us_cruiser_new_orleans_class_0;"<color=#81c3fc>Brooklyn Navy Yard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>New Orleans-class Heavy Cruiser</color>
+USS New Orleans (CA-32)
+<color=#adadad>(1945)</color>"
+us_cruiser_new_orleans_class_1;USS New Orleans
+us_cruiser_new_orleans_class_2;Heavy Cruiser
+
+us_cruiser_brooklyn_class_helena_shop;USS Helena (CL-50)
+us_cruiser_brooklyn_class_helena_0;"<color=#81c3fc>Brooklyn Navy Yard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Brooklyn-class Light Cruiser</color>
+USS Helena (CL-50)
+<color=#adadad>(1942)</color>"
+us_cruiser_brooklyn_class_helena_1;USS Helena
+us_cruiser_brooklyn_class_helena_2;Light Cruiser
+
+us_cruiser_brooklyn_class_brooklyn_shop;USS Brooklyn (CL-40)
+us_cruiser_brooklyn_class_brooklyn_0;"<color=#81c3fc>Brooklyn Navy Yard</color>
+<color=#fffa62>Brooklyn-class Light Cruiser</color>
+USS Brooklyn (CL-40)"
+us_cruiser_brooklyn_class_brooklyn_1;USS Brooklyn
+us_cruiser_brooklyn_class_brooklyn_2;Light Cruiser
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+us_cruiser_worcester_class_roanoke_shop;USS Roanoke (CL-145)
+us_cruiser_worcester_class_roanoke_0;"<color=#81c3fc>New York Shipbuilding Corporation</color>
+<color=#fffa62>Worcester-class Light Cruiser</color>
+USS Roanoke (CL-145)"
+us_cruiser_worcester_class_roanoke_1;USS Roanoke
+us_cruiser_worcester_class_roanoke_2;Light Cruiser
+
+us_battleship_texas_shop;USS Texas (BB-35)
+us_battleship_texas_0;"<color=#81c3fc>Newport News Shipbuilding and Dry Dock Company <color=@commonTextColor>/</color> Brooklyn Navy
+Yard</color>
+<color=#fffa62>New York-class Battleship</color>
+USS Texas (BB-35)
+<color=#adadad>(1945)</color>"
+us_battleship_texas_1;USS Texas
+us_battleship_texas_2;Battleship
+
+us_battleship_north_dakota_shop;USS North Dakota (BB-29)
+us_battleship_north_dakota_0;"<color=#81c3fc>Fore River Shipyard</color>
+<color=#fffa62>Delaware-class Battleship</color>
+USS North Dakota (BB-29)
+<color=#adadad>(1917)</color>"
+us_battleship_north_dakota_1;USS North Dakota
+us_battleship_north_dakota_2;Battleship
+
+us_battleship_wyoming_class_shop;USS Wyoming (BB-32)
+us_battleship_wyoming_class_0;"<color=#81c3fc>William Cramp & Sons Ship & Engine Building Company <color=@commonTextColor>/</color> Philadelphia
+Naval Shipyard</color>
+<color=#fffa62>Wyoming-class Battleship</color>
+USS Wyoming (BB-32)
+<color=#adadad>(1927)</color>"
+us_battleship_wyoming_class_1;USS Wyoming
+us_battleship_wyoming_class_2;Battleship
+
+us_battleship_arkansas_shop;USS Arkansas (BB-33)
+us_battleship_arkansas_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Norfolk Naval Shipyard</color>
+<color=#fffa62>Wyoming-class Battleship</color>
+USS Arkansas (BB-33)
+<color=#adadad>(1942)</color>"
+us_battleship_arkansas_1;USS Arkansas
+us_battleship_arkansas_2;Battleship
+
+us_cruiser_baltimore_class_pittsburgh_shop;USS Pittsburgh (CA-72)
+us_cruiser_baltimore_class_pittsburgh_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Norfolk Naval Shipyard</color>
+<color=#fffa62>Baltimore-class Heavy Cruiser</color>
+USS Pittsburgh (CA-72)
+<color=#adadad>(1953)</color>"
+us_cruiser_baltimore_class_pittsburgh_1;USS Pittsburgh
+us_cruiser_baltimore_class_pittsburgh_2;Heavy Cruiser
+
+us_cruiser_baltimore_class_shop;USS Baltimore (CA-68)
+us_cruiser_baltimore_class_0;"<color=#81c3fc>Fore River Shipyard</color>
+<color=#fffa62>Baltimore-class Heavy Cruiser</color>
+USS Baltimore (CA-68)"
+us_cruiser_baltimore_class_1;USS Baltimore
+us_cruiser_baltimore_class_2;Heavy Cruiser
+
+us_cruiser_oregon_class_shop;USS Oregon City (CA-122)
+us_cruiser_oregon_class_0;"<color=#81c3fc>Fore River Shipyard</color>
+<color=#fffa62>Oregon City-class Heavy Cruiser</color>
+USS Oregon City (CA-122)"
+us_cruiser_oregon_class_1;USS Oregon City
+us_cruiser_oregon_class_2;Heavy Cruiser
+
+us_cruiser_des_moines_class_newport_news_shop;USS Newport News (CA-148)
+us_cruiser_des_moines_class_newport_news_0;"<color=#81c3fc>Newport News Shipbuilding and Dry Dock Company <color=@commonTextColor>/</color> Norfolk Naval
+Shipyard</color>
+<color=#fffa62>Des Moines-class Heavy Cruiser</color>
+USS Newport News (CA-148)
+<color=#adadad>(1968)</color>"
+us_cruiser_des_moines_class_newport_news_1;USS Newport News
+us_cruiser_des_moines_class_newport_news_2;Heavy Cruiser
+
+us_cruiser_des_moines_class_shop;USS Des Moines (CA-134)
+us_cruiser_des_moines_class_0;"<color=#81c3fc>Fore River Shipyard</color>
+<color=#fffa62>Des Moines-class Heavy Cruiser</color>
+USS Des Moines (CA-134)"
+us_cruiser_des_moines_class_1;USS Des Moines
+us_cruiser_des_moines_class_2;Heavy Cruiser
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+us_battleship_arizona_1931_shop;USS Arizona (BB-39)
+us_battleship_arizona_1931_0;"<color=#81c3fc>Brooklyn Navy Yard <color=@commonTextColor>/</color> Puget Sound Naval Shipyard and Intermediate
+Maintenance Facility</color>
+<color=#fffa62>Pennsylvania-class Battleship</color>
+USS Arizona (BB-39)
+<color=#adadad>(1938)</color>"
+us_battleship_arizona_1931_1;USS Arizona
+us_battleship_arizona_1931_2;Battleship
+
+us_battleship_colorado_class_colorado_shop;USS Colorado (BB-45)
+us_battleship_colorado_class_colorado_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Puget Sound Naval Shipyard and
+Intermediate Maintenance Facility</color>
+<color=#fffa62>Colorado-class</color>
+USS Colorado (BB-45)
+<color=#adadad>(1942)</color>"
+us_battleship_colorado_class_colorado_1;USS Colorado
+us_battleship_colorado_class_colorado_2;Battleship
+
+us_battleship_colorado_class_maryland_shop;USS Maryland (BB-46)
+us_battleship_colorado_class_maryland_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Puget Sound Naval Shipyard and
+Intermediate Maintenance Facility</color>
+<color=#fffa62>Colorado-class Battleship</color>
+USS Maryland (BB-46)
+<color=#adadad>(1945)</color>"
+us_battleship_colorado_class_maryland_1;USS Maryland
+us_battleship_colorado_class_maryland_2;Battleship
+
+us_battleship_nevada_shop;USS Nevada (BB-36)
+us_battleship_nevada_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Fore River Shipyard</color>
+<color=#fffa62>Nevada-class Battleship</color>
+USS Nevada (BB-36)
+<color=#adadad>(1944)</color>"
+us_battleship_nevada_1;USS Nevada
+us_battleship_nevada_2;Battleship
+
+us_battleship_oklahoma_shop;USS Oklahoma (BB-37)
+us_battleship_oklahoma_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Philadelphia Naval Shipyard</color>
+<color=#fffa62>Nevada-class Battleship</color>
+USS Oklahoma (BB-37)
+<color=#adadad>(1929)</color>"
+us_battleship_oklahoma_1;USS Oklahoma
+us_battleship_oklahoma_2;Battleship
+
+us_battleship_tennessee_shop;USS Tennessee (BB-43)
+us_battleship_tennessee_0;"<color=#81c3fc>Brooklyn Navy Yard <color=@commonTextColor>/</color> Puget Sound Naval Shipyard and Intermediate
+Maintenance Facility</color>
+<color=#fffa62>Tennessee-class Battleship</color>
+USS Tennessee (BB-43)
+<color=#adadad>(1943)</color>"
+us_battleship_tennessee_1;USS Tennessee
+us_battleship_tennessee_2;Battleship
+
+us_battlecruiser_alaska_class_shop;USS Alaska (CB-1)
+us_battlecruiser_alaska_class_0;"<color=#81c3fc>New York Shipbuilding Corporation</color>
+<color=#fffa62>Alaska-class Large Cruiser</color>
+USS Alaska (CB-1)"
+us_battlecruiser_alaska_class_1;USS Alaska
+us_battlecruiser_alaska_class_2;Battlecruiser
+
+us_battleship_mississippi_shop;USS Mississippi (BB-41)
+us_battleship_mississippi_0;"<color=#81c3fc>Newport News Shipbuilding and Dry Dock Company <color=@commonTextColor>/</color> Pearl Harbor
+Naval Shipyard and Intermediate Maintenance Facility</color>
+<color=#fffa62>New Mexico-class Battleship</color>
+USS Mississippi (BB-41)
+<color=#adadad>(1945)</color>"
+us_battleship_mississippi_1;USS Mississippi
+us_battleship_mississippi_2;Battleship
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+us_battleship_south_dakota_shop;USS South Dakota (BB-57)
+us_battleship_south_dakota_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Puget Sound Naval Shipyard and
+Intermediate Maintenance Facility</color>
+<color=#fffa62>South Dakota-class Battleship</color>
+USS South Dakota (BB-57)
+<color=#adadad>(1944)</color>"
+us_battleship_south_dakota_1;USS South Dakota
+us_battleship_south_dakota_2;Battleship
+
+us_battleship_iowa_class_iowa_shop;USS Iowa (BB-61)
+us_battleship_iowa_class_iowa_0;"<color=#81c3fc>Brooklyn Navy Yard <color=@commonTextColor>/</color> PHunters Point Naval Shipyard</color>
+<color=#fffa62>Iowa-class Battleship</color>
+USS Iowa (BB-61)
+<color=#adadad>(1945)</color>"
+us_battleship_iowa_class_iowa_1;USS Iowa
+us_battleship_iowa_class_iowa_2;Battleship
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 
@@ -328,6 +767,12 @@ germ_th_400_2;Light Tank
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
+germ_destroyer_fletcher_zerstorer4_0;"<color=#81c3fc>Consolidated Steel Corporation</color>
+<color=#fffa62>Zerstörer 1-Klasse <color=@commonTextColor>|</color> Typ 119</color>
+Z 4 (D 178)"
+germ_destroyer_fletcher_zerstorer4_1;Z 4
+germ_destroyer_fletcher_zerstorer4_2;Destroyer
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 
@@ -336,6 +781,13 @@ germ_th_400_2;Light Tank
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+germ_battlecruiser_mackensen_class_shop;Mackensen
+germ_battlecruiser_mackensen_class_0;"<color=#81c3fc>Blohm & Voss</color>
+<color=#fffa62>großer Kreuzer Mackensen-Klasse</color>
+<color=#7ce68f>Ersatz Victoria Louise</color>
+Mackensen"
+germ_battlecruiser_mackensen_class_1;Mackensen
+germ_battlecruiser_mackensen_class_2;Battlecruiser
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 
@@ -534,15 +986,6 @@ uk_centurion_shot_kal_d_2;MBT
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
-
-<color=#81c3fc>Manufacturer & manufacturer name</color>
-<color=#ff8c80>Military project</color>
-<color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
-<color=#7ce68f>Alternate currently applicable name</color>
-Vehicle name
-<color=#adadad>Modifications</color>
-<color=#ba77ba>Service years package</color>
-<color=@currencyGoldColor>Unit/Ace</color>
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
@@ -956,7 +1399,8 @@ ki_61_1a_hei_2;Ki 61
 ki_61_1a_hei_ep_shop;Tada's Ki 61-I Hei
 ki_61_1a_hei_ep_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
 <color=#7ce68f>3 Shiki Sentōki 1 Gata Hei</color>
-Takeichi Tada's Ki 61-I Hei ""Hien"""
+Ki 61-I Hei ""Hien""
+<color=@currencyGoldColor>Takeichi Tada's</color>"
 ki_61_1a_hei_ep_1;Ki 61-I
 ki_61_1a_hei_ep_2;Ki 61
 
@@ -2193,46 +2637,46 @@ jp_oplot_t_2;MBT
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 jp_t14_class_shop;Dai 538 Gō
 jp_t14_class_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
 Dai 538 Gō"
 jp_t14_class_1;Dai 538 Gō
 jp_t14_class_2;Motor Torpedo Boat
 
 jp_t14_class_mod02_shop;Dai 1101 Gō
 jp_t14_class_mod02_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
 Dai 1101 Gō"
 jp_t14_class_mod02_1;Dai 1101 Gō
 jp_t14_class_mod02_2;Motor Torpedo Boat
 
 jp_t14_class_mod01_shop;Dai 871 Gō
 jp_t14_class_mod01_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
 Dai 871 Gō"
 jp_t14_class_mod01_1;Dai 871 Gō
 jp_t14_class_mod01_2;Motor Torpedo Boat
 
 jp_type5_escortboat_shop;Ke I Kō
-jp_type5_escortboat_0;"<color=#81c3fc>Haganesei Dai Goeikan</color>
+jp_type5_escortboat_0;"<color=#fffa62>Haganesei Dai Goeikan</color>
 Ke I Kō"
 jp_type5_escortboat_1;Ke I Kō
 jp_type5_escortboat_2;Escort Boat
 
 jp_type_t1_1941_shop;Dai 1 Gō
 jp_type_t1_1941_0;"<color=#81c3fc>Yokohama Yotto</color>
-<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 1 Gō Gata Gyorai Tei (T-1)</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 1 Gō Gata Gyorai Tei (T-1)</color>
 Dai 1 Gō"
 jp_type_t1_1941_1;Dai 1 Gō
 jp_type_t1_1941_2;Motor Torpedo Boat
 
 jp_abtei_pr1_shop;Sakigake
-jp_abtei_pr1_0;"<color=#7ce68f>Sōkō Tei Dai 1 Gō</color>
+jp_abtei_pr1_0;"<color=#fffa62>Sōkō Tei Dai 1 Gō</color>
 Sakigake"
 jp_abtei_pr1_1;Sakigake
 jp_abtei_pr1_2;Armored Boat
 
 jp_abtei_pr4_shop;Sōkō Tei Dai 4 Gō
-jp_abtei_pr4_0;"<color=#7ce68f>Sōkō Tei Dai 3 Gō Gata</color>
+jp_abtei_pr4_0;"<color=#fffa62>Sōkō Tei Dai 3 Gō Gata</color>
 Sōkō Tei Dai 4 Gō"
 jp_abtei_pr4_1;Sōkō Tei Dai 4 Gō
 jp_abtei_pr4_2;Armored Boat
@@ -2240,48 +2684,48 @@ jp_abtei_pr4_2;Armored Boat
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 jp_karotei_type2_shop;Ka Ro 2 Gata
 jp_karotei_type2_0;"<color=#81c3fc>Yokohama Yotto</color>
-<color=#7ce68f>4 Shiki 2 Gata Kuchiku Tei</color>
+<color=#fffa62>4 Shiki 2 Gata Kuchiku Tei</color>
 Ka Ro 2 Gata"
 jp_karotei_type2_1;Ka Ro 2 Gata
 jp_karotei_type2_2;Motor Gunboat
 
 jp_karotei_type4_shop;Ka Ro 4 Gata
 jp_karotei_type4_0;"<color=#81c3fc>Yokohama Yotto</color>
-<color=#7ce68f>4 Shiki 4 Gata Kuchiku Tei</color>
+<color=#fffa62>4 Shiki 4 Gata Kuchiku Tei</color>
 Ka Ro 4 Gata"
 jp_karotei_type4_1;Ka Ro 4 Gata
 jp_karotei_type4_2;Motor Gunboat
 
 jp_sehatei_mod1_shop;Se Ha 1 Gata
-jp_sehatei_mod1_0;"<color=#7ce68f>Shisei Ha Gō Sentō Tei 1 Gata</color>
+jp_sehatei_mod1_0;"<color=#fffa62>Shisei Ha Gō Sentō Tei 1 Gata</color>
 Se Ha 1 Gata"
 jp_sehatei_mod1_1;Se Ha 1 Gata
 jp_sehatei_mod1_2;Armored Boat
 
 jp_type38_1944_shop;Dai 241 Gō
 jp_type38_1944_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 241 Gō Gata Gyorai Tei (T-38)</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 241 Gō Gata Gyorai Tei (T-38)</color>
 Dai 241 Gō"
 jp_type38_1944_1;Dai 241 Gō
 jp_type38_1944_2;Motor Torpedo Boat
 
 jp_type1_pt2_shop;Gyorai Tei 2 Gō (PT-802)
 jp_type1_pt2_0;"<color=#81c3fc>Hitachi Zōsen</color>
-<color=#7ce68f>1 Gō Gata Gyorai Tei</color>
+<color=#fffa62>1 Gō Gata Gyorai Tei</color>
 Gyorai Tei 2 Gō (PT-802)"
 jp_type1_pt2_1;Gyorai Tei 2 Gō
 jp_type1_pt2_2;Motor Torpedo Boat
 
 jp_kusen_tei_13_1942_shop;Dai 18 Gō
 jp_kusen_tei_13_1942_0;"<color=#81c3fc>Tsurumi Zōsensho</color>
-<color=#7ce68f>Dai 13 Gō Gata Kusen Tei (K-8)</color>
+<color=#fffa62>Dai 13 Gō Gata Kusen Tei (K-8)</color>
 Dai 18 Gō"
 jp_kusen_tei_13_1942_1;Dai 18 Gō
 jp_kusen_tei_13_1942_2;Submarine Chaser
 
 jp_kusen_tei_13_1944_shop;Dai 18 Gō (1944)
 jp_kusen_tei_13_1944_0;"<color=#81c3fc>Tsurumi Zōsensho</color>
-<color=#7ce68f>Dai 13 Gō Gata Kusen Tei (K-8)</color>
+<color=#fffa62>Dai 13 Gō Gata Kusen Tei (K-8)</color>
 Dai 18 Gō (1944)"
 jp_kusen_tei_13_1944_1;Dai 18 Gō
 jp_kusen_tei_13_1944_2;Submarine Chaser
@@ -2289,42 +2733,42 @@ jp_kusen_tei_13_1944_2;Submarine Chaser
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 jp_t51a_shop;Dai 10 Gō
 jp_t51a_0;"<color=#81c3fc>Yokohama Yotto</color>
-<color=#7ce68f>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 10 Gō Gata Gyorai Tei (T-51A)</color>
+<color=#fffa62>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 10 Gō Gata Gyorai Tei (T-51A)</color>
 Dai 10 Gō"
 jp_t51a_1;Dai 10 Gō
 jp_t51a_2;Motor Torpedo Boat
 
 jp_t51b_shop;Dai 11 Gō
 jp_t51b_0;"<color=#81c3fc>Yokohama Yotto</color>
-<color=#7ce68f>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 11 Gō Gata Gyorai Tei (T-51B)</color>
+<color=#fffa62>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 11 Gō Gata Gyorai Tei (T-51B)</color>
 Dai 11 Gō"
 jp_t51b_1;Dai 11 Gō
 jp_t51b_2;Motor Torpedo Boat
 
 jp_pc301_kari_class_shop;Kari (PC-301)
 jp_pc301_kari_class_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
-<color=#7ce68f>Kari Gata Kusen Tei (K-101A)</color>
+<color=#fffa62>Kari Gata Kusen Tei (K-101A)</color>
 Kari (PC-301)"
 jp_pc301_kari_class_1;Kari
 jp_pc301_kari_class_2;Submarine Chaser
 
 jp_no1_ch2_shop;Dai 2 Gō
 jp_no1_ch2_0;"<color=#81c3fc>Ishikawajima Zōsensho</color>
-<color=#7ce68f>Dai 1 Gō Gata Kusen Tei (K-3)</color>
+<color=#fffa62>Dai 1 Gō Gata Kusen Tei (K-3)</color>
 Dai 2 Gō"
 jp_no1_ch2_1;Dai 2 Gō
 jp_no1_ch2_2;Submarine Chaser
 
 jp_no4_ch8_shop;Dai 8 Gō
 jp_no4_ch8_0;"<color=#81c3fc>Tama Zōsensho</color>
-<color=#7ce68f>Dai 4 Gō Gata Kusen Tei (K-7)</color>
+<color=#fffa62>Dai 4 Gō Gata Kusen Tei (K-7)</color>
 Dai 8 Gō"
 jp_no4_ch8_1;Dai 8 Gō
 jp_no4_ch8_2;Submarine Chaser
 
 jp_type7_pt808_shop;Gyorai Tei 8 Gō (PT-808)
 jp_type7_pt808_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Shimonoseki Zōsensho</color>
-<color=#7ce68f>7 Gō Gata Gyorai Tei</color>
+<color=#fffa62>7 Gō Gata Gyorai Tei</color>
 Gyorai Tei 8 Gō (PT-808)"
 jp_type7_pt808_1;Gyorai Tei 8 Gō
 jp_type7_pt808_2;Motor Torpedo Boat
@@ -2332,35 +2776,35 @@ jp_type7_pt808_2;Motor Torpedo Boat
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 jp_type_11_pt_15_shop;Gyorai Tei 15 Gō (PT-815)
 jp_type_11_pt_15_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Shimonoseki Zōsensho</color>
-<color=#7ce68f>11 Gō Gata Gyorai Tei</color>
+<color=#fffa62>11 Gō Gata Gyorai Tei</color>
 Gyorai Tei 15 Gō (PT-815)"
 jp_type_11_pt_15_1;Gyorai Tei 15 Gō
 jp_type_11_pt_15_2;Motor Torpedo Boat
 
 jp_escort_ikazuchi_class_shop;Ikazuchi (DE-202)
 jp_escort_ikazuchi_class_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
-<color=#7ce68f>Otsu Gata Goeikan <color=@commonTextColor>|</color> Ikazuchi Gata Goeikan (E-102)</color>
+<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Ikazuchi Gata Goeikan (E-102)</color>
 Ikazuchi (DE-202)"
 jp_escort_ikazuchi_class_1;Ikazuchi
 jp_escort_ikazuchi_class_2;Destroyer Escort
 
 jp_escort_chikugo_class_shop;Tokachi (DE-218)
 jp_escort_chikugo_class_0;"<color=#81c3fc>Mitsui Zōsen Enjiniaringu</color>
-<color=#7ce68f>Otsu Gata Goeikan <color=@commonTextColor>|</color> Chikugo Gata Goeikan (E-106)</color>
+<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Chikugo Gata Goeikan (E-106)</color>
 Tokachi (DE-218)"
 jp_escort_chikugo_class_1;Tokachi
 jp_escort_chikugo_class_2;Destroyer Escort
 
 jp_escort_akebono_class_shop;Akebono (DE-201)
 jp_escort_akebono_class_0;"<color=#81c3fc>Ishikawajima Jūkōgyō</color>
-<color=#7ce68f>Otsu Gata Goeikan <color=@commonTextColor>|</color> Akebono Gata Goeikan (E-102)</color>
+<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Akebono Gata Goeikan (E-102)</color>
 Akebono (DE-201)"
 jp_escort_akebono_class_1;Akebono
 jp_escort_akebono_class_2;Destroyer Escort
 
 jp_pg02_shop;Misairu Tei 2 Gō (PG-822)
 jp_pg02_0;"<color=#81c3fc>Sumitomo Jū Kikai Kōgyō</color>
-<color=#7ce68f>1 Gō Gata Misairu Tei</color>
+<color=#fffa62>1 Gō Gata Misairu Tei</color>
 Misairu Tei 2 Gō (PG-822)"
 jp_pg02_1;Misairutei 2 Gō
 jp_pg02_2;Missile Boat
@@ -2368,28 +2812,28 @@ jp_pg02_2;Missile Boat
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 jp_escort_hiburi_class_syonan_shop;Shōnan
 jp_escort_hiburi_class_syonan_0;"<color=#81c3fc>Hitachi Zōsen</color>
-<color=#7ce68f>Kō Gata Kaibōkan <color=@commonTextColor>|</color> Hiburi Gata Kaibōkan (E-20B)</color>
+<color=#fffa62>Kō Gata Kaibōkan <color=@commonTextColor>|</color> Hiburi Gata Kaibōkan (E-20B)</color>
 Shōnan"
 jp_escort_hiburi_class_syonan_1;Shōnan
 jp_escort_hiburi_class_syonan_2;Coastal Defense Ship
 
 jp_escort_hiburi_class_shisaka_shop;Shisaka
 jp_escort_hiburi_class_shisaka_0;"<color=#81c3fc>Hitachi Zōsen</color>
-<color=#7ce68f>Kō Gata Kaibōkan <color=@commonTextColor>|</color> Hiburi Gata Kaibōkan (E-20B)</color>
+<color=#fffa62>Kō Gata Kaibōkan <color=@commonTextColor>|</color> Hiburi Gata Kaibōkan (E-20B)</color>
 Shisaka"
 jp_escort_hiburi_class_shisaka_1;Shisaka
 jp_escort_hiburi_class_shisaka_2;Coastal Defense Ship
 
 jp_yuri_class_asagao_shop;Asagao
 jp_yuri_class_asagao_0;"<color=#81c3fc>George Lawley & Son</color>
-<color=#7ce68f>Yuri Gata Keibitei</color>
+<color=#fffa62>Yuri Gata Keibitei</color>
 Asagao"
 jp_yuri_class_asagao_1;Asagao
 jp_yuri_class_asagao_2;Gunboat
 
 jp_destroyer_chidori_shop;Tomozuru
 jp_destroyer_chidori_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#7ce68f>Chidori Gata Suiraitei (F-46)</color>
+<color=#fffa62>Chidori Gata Suiraitei (F-46)</color>
 Tomozuru
 <color=#adadad>(1944)</color>"
 jp_destroyer_chidori_1;Tomozuru
@@ -2397,14 +2841,14 @@ jp_destroyer_chidori_2;Destroyer Escort
 
 jp_destroyer_isuzu_shop;Isuzu (DE-211)
 jp_destroyer_isuzu_0;"<color=#81c3fc>Mitsui Zōsen Enjiniaringu</color>
-<color=#7ce68f>Otsu Gata Goeikan <color=@commonTextColor>|</color> Isuzu Gata Goeikan (E-103)</color>
+<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Isuzu Gata Goeikan (E-103)</color>
 Isuzu (DE-211)"
 jp_destroyer_isuzu_1;Akebono
 jp_destroyer_isuzu_2;Destroyer Escort
 
 jp_destroyer_ayanami_shop;Ayanami (DD-103)
 jp_destroyer_ayanami_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Kō Gata Goeikan 1 Gata <color=@commonTextColor>|</color> Ayanami Gata Goeikan (F-102)</color>
+<color=#fffa62>Kō Gata Goeikan 1 Gata <color=@commonTextColor>|</color> Ayanami Gata Goeikan (F-102)</color>
 Ayanami (DD-103)"
 jp_destroyer_ayanami_1;Ayanami
 jp_destroyer_ayanami_2;Destroyer
@@ -2412,7 +2856,7 @@ jp_destroyer_ayanami_2;Destroyer
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 1
 jp_destroyer_momi_shop;Momi
 jp_destroyer_momi_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#7ce68f>Nitō Kuchikukan <color=@commonTextColor>|</color> Momi Gata Kuchikukan (F-37)</color>
+<color=#fffa62>Nitō Kuchikukan <color=@commonTextColor>|</color> Momi Gata Kuchikukan (F-37)</color>
 Momi
 <color=#adadad>(1930)</color>"
 jp_destroyer_momi_1;Momi
@@ -2420,21 +2864,21 @@ jp_destroyer_momi_2;Destroyer
 
 jp_destroyer_tade_shop;Tade
 jp_destroyer_tade_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
-<color=#7ce68f>Nitō Kuchikukan <color=@commonTextColor>|</color> Tade Gata Kuchikukan (F-37)</color>
+<color=#fffa62>Nitō Kuchikukan <color=@commonTextColor>|</color> Tade Gata Kuchikukan (F-37)</color>
 Tade"
 jp_destroyer_tade_1;Tade
 jp_destroyer_tade_2;Destroyer
 
 jp_destroyer_matsu_shop;Matsu
 jp_destroyer_matsu_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Matsu Gata Kuchikukan (F-55)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Matsu Gata Kuchikukan (F-55)</color>
 Matsu"
 jp_destroyer_matsu_1;Matsu
 jp_destroyer_matsu_2;Destroyer
 
 jp_destroyer_mutsuki_shop;Mutsuki
 jp_destroyer_mutsuki_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Mutsuki Gata Kuchikukan (F-41E1)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Mutsuki Gata Kuchikukan (F-41E1)</color>
 Mutsuki
 <color=#adadad>(1941)</color>"
 jp_destroyer_mutsuki_1;Mutsuki
@@ -2446,7 +2890,7 @@ jp_destroyer_mutsuki_EC_2;Destroyer
 
 jp_destroyer_satsuki_shop;Satsuki
 jp_destroyer_satsuki_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Mutsuki Gata Kuchikukan (F-41E1)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Mutsuki Gata Kuchikukan (F-41E1)</color>
 Satsuki 
 <color=#adadad>(1935)</color>"
 jp_destroyer_satsuki_1;Satsuki
@@ -2455,7 +2899,7 @@ jp_destroyer_satsuki_2;Destroyer
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 2
 jp_minelayer_tsugaru_shop;Tsugaru
 jp_minelayer_tsugaru_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#7ce68f>Tsugaru Gata Fusetsukan (H-10)</color>
+<color=#fffa62>Tsugaru Gata Fusetsukan (H-10)</color>
 Tsugaru
 <color=#adadad>(1943)</color>"
 jp_minelayer_tsugaru_1;Tsugaru
@@ -2463,14 +2907,14 @@ jp_minelayer_tsugaru_2;Minelayer
 
 jp_destroyer_harukaze_shop;Harukaze (DD-101)
 jp_destroyer_harukaze_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Kō Gata Goeikan <color=@commonTextColor>|</color> Harukaze Gata Goeikan (F-101)</color>
+<color=#fffa62>Kō Gata Goeikan <color=@commonTextColor>|</color> Harukaze Gata Goeikan (F-101)</color>
 Harukaze (DD-101)"
 jp_destroyer_harukaze_1;Harukaze
 jp_destroyer_harukaze_2;Destroyer
 
 jp_destroyer_murasame_shop;Murasame (DD-107)
 jp_destroyer_murasame_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Kō Gata Goeikan 2 Gata <color=@commonTextColor>|</color> Murasame Gata Goeikan (F-103)</color>
+<color=#fffa62>Kō Gata Goeikan 2 Gata <color=@commonTextColor>|</color> Murasame Gata Goeikan (F-103)</color>
 Murasame (DD-107)
 <color=#adadad>(1975)</color>"
 jp_destroyer_murasame_1;Murasame
@@ -2478,7 +2922,7 @@ jp_destroyer_murasame_2;Destroyer
 
 jp_destroyer_yugumo_shop;Yūgumo
 jp_destroyer_yugumo_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
 Yūgumo"
 jp_destroyer_yugumo_1;Yūgumo
 jp_destroyer_yugumo_2;Destroyer
@@ -2489,28 +2933,28 @@ jp_destroyer_yugumo_EC_2;Destroyer
 
 jp_destroyer_hayanami_shop;Hayanami
 jp_destroyer_hayanami_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
 Hayanami"
 jp_destroyer_hayanami_1;Hayanami
 jp_destroyer_hayanami_2;Destroyer
 
 jp_destroyer_kiyoshimo_shop;Kiyoshimo
 jp_destroyer_kiyoshimo_0;"<color=#81c3fc>Uraga Senkyo</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
 Kiyoshimo"
 jp_destroyer_kiyoshimo_1;Kiyoshimo
 jp_destroyer_kiyoshimo_2;Destroyer
 
 jp_destroyer_hatsuharu_shop;Hatsuharu
 jp_destroyer_hatsuharu_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Hatsuharu Gata Kuchikukan (F-50)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Hatsuharu Gata Kuchikukan (F-50)</color>
 Hatsuharu"
 jp_destroyer_hatsuharu_1;Hatsuharu
 jp_destroyer_hatsuharu_2;Destroyer
 
 jp_destroyer_fubuki_shop;Ayanami
 jp_destroyer_fubuki_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
-<color=#7ce68f>Toku Gata Kuchikukan <color=@commonTextColor>|</color> Ayanami Gata Kuchikukan (F-43)</color>
+<color=#fffa62>Toku Gata Kuchikukan <color=@commonTextColor>|</color> Ayanami Gata Kuchikukan (F-43)</color>
 Ayanami
 <color=#adadad>(1936)</color>"
 jp_destroyer_fubuki_1;Ayanami
@@ -2522,14 +2966,14 @@ jp_destroyer_fubuki_EC_2;Destroyer
 
 jp_destroyer_nenohi_shop;Nenohi
 jp_destroyer_nenohi_0;"<color=#81c3fc>Uraga Senkyo</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Hatsuharu Gata Kuchikukan (F-50)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Hatsuharu Gata Kuchikukan (F-50)</color>
 Nenohi"
 jp_destroyer_nenohi_1;Nenohi
 jp_destroyer_nenohi_2;Destroyer
 
 jp_destroyer_yugure_shop;Yūgure (DD-184)
 jp_destroyer_yugure_0;"<color=#81c3fc>Boston Navy Yard <color=@commonTextColor>/</color> Ishikawajima Jū Kōgyō</color>
-<color=#7ce68f>Kō Gata Goeikan <color=@commonTextColor>|</color> Airake Gata Goeikan</color>
+<color=#fffa62>Kō Gata Goeikan <color=@commonTextColor>|</color> Airake Gata Goeikan</color>
 Yūgure (DD-184)"
 jp_destroyer_yugure_1;Yūgure
 jp_destroyer_yugure_2;Destroyer
@@ -2537,7 +2981,7 @@ jp_destroyer_yugure_2;Destroyer
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 3
 jp_destroyer_akizuki_shop;Akizuki
 jp_destroyer_akizuki_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan (F-51)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan (F-51)</color>
 Akizuki"
 jp_destroyer_akizuki_1;Akizuki
 jp_destroyer_akizuki_2;Destroyer
@@ -2548,14 +2992,14 @@ jp_destroyer_akizuki_EC_2;Destroyer
 
 jp_destroyer_hatsuzuki_shop;◓ Hatsuzuki
 jp_destroyer_hatsuzuki_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan (F-51)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan (F-51)</color>
 ◓ Hatsuzuki"
 jp_destroyer_hatsuzuki_1;◓ Hatsuzuki
 jp_destroyer_hatsuzuki_2;Destroyer
 
 jp_cruiser_kako_shop;Kako
 jp_cruiser_kako_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
-<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Furutaka Gata Junyōkan</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Furutaka Gata Junyōkan</color>
 Kako
 <color=#adadad>(1932)</color>"
 jp_cruiser_kako_1;Kako
@@ -2567,7 +3011,7 @@ jp_cruiser_kako_EC_2;Heavy Cruiser
 
 jp_cruiser_furutaka_shop;Furutaka
 jp_cruiser_furutaka_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Furutaka Gata Junyōkan</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Furutaka Gata Junyōkan</color>
 Furutaka
 <color=#adadad>(1942)</color>"
 jp_cruiser_furutaka_1;Furutaka
@@ -2579,7 +3023,7 @@ jp_cruiser_furutaka_EC_2;Heavy Cruiser
 
 jp_cruiser_isuzu_shop;Isuzu
 jp_cruiser_isuzu_0;"<color=#81c3fc>Uraga Senkyo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Nagara Gata Junyōkan (C-33)</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Nagara Gata Junyōkan (C-33)</color>
 Isuzu
 <color=#adadad>(1944)</color>"
 jp_cruiser_isuzu_1;Isuzu
@@ -2587,7 +3031,7 @@ jp_cruiser_isuzu_2;Light Cruiser
 
 jp_cruiser_kuma_shop;Tama
 jp_cruiser_kuma_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Kuma Gata Junyōkan (C-33)</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Kuma Gata Junyōkan (C-33)</color>
 Tama
 <color=#adadad>(1939)</color>"
 jp_cruiser_kuma_1;Tama
@@ -2599,7 +3043,7 @@ jp_cruiser_kuma_EC_2;Light Cruiser
 
 jp_cruiser_sendai_shop;Sendai
 jp_cruiser_sendai_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Sendai Gata Junyōkan (C-33)</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Sendai Gata Junyōkan (C-33)</color>
 Sendai
 <color=#adadad>(1942)</color>"
 jp_cruiser_sendai_1;Sendai
@@ -2607,7 +3051,7 @@ jp_cruiser_sendai_2;Light Cruiser
 
 jp_destroyer_kagero_shop;Kagerō
 jp_destroyer_kagero_0;"<color=#81c3fc>Maizuru Kaigun Kōshō <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Kagerō Gata Kuchikukan (F-49)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Kagerō Gata Kuchikukan (F-49)</color>
 Kagerō
 <color=#adadad>(1943)</color>"
 jp_destroyer_kagero_1;Kagerō
@@ -2615,7 +3059,7 @@ jp_destroyer_kagero_2;Destroyer
 
 jp_destroyer_yukikaze_shop;Yukikaze
 jp_destroyer_yukikaze_0;"<color=#81c3fc>Sasebo Kaigun Kōshō <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Kagerō Gata Kuchikukan (F-49)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Kagerō Gata Kuchikukan (F-49)</color>
 Yukikaze
 <color=#adadad>(1943)</color>"
 jp_destroyer_yukikaze_1;Yukikaze
@@ -2623,7 +3067,7 @@ jp_destroyer_yukikaze_2;Destroyer
 
 jp_cruiser_yubari_shop;Yūbari
 jp_cruiser_yubari_0;"<color=#81c3fc>Sasebo Kaigun Kōshō <color=@commonTextColor>/</color> Yokosuka Kaigun Kōshō</color>
-<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Yūbari Gata Junyōkan (F-42)</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Yūbari Gata Junyōkan (F-42)</color>
 Yūbari
 <color=#adadad>(1944)</color>"
 jp_cruiser_yubari_1;Yūbari
@@ -2631,7 +3075,7 @@ jp_cruiser_yubari_2;Light Cruiser
 
 jp_destroyer_shimakaze_shop;Shimakaze
 jp_destroyer_shimakaze_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Shimakaze Gata Kuchikukan (F-52)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Shimakaze Gata Kuchikukan (F-52)</color>
 Shimakaze
 <color=#adadad>(1944)</color>"
 jp_destroyer_shimakaze_1;Shimakaze
@@ -2639,7 +3083,7 @@ jp_destroyer_shimakaze_2;Destroyer
 
 jp_destroyer_yuudachi_shop;Yūdachi
 jp_destroyer_yuudachi_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Kuchikukan <color=@commonTextColor>|</color> Shiratsuyu Gata Kuchikukan (F-45D)</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Shiratsuyu Gata Kuchikukan (F-45D)</color>
 Yūdachi"
 jp_destroyer_yuudachi_1;Yūdachi
 jp_destroyer_yuudachi_2;Destroyer
@@ -2647,7 +3091,7 @@ jp_destroyer_yuudachi_2;Destroyer
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 4
 jp_cruiser_aoba_shop;Aoba
 jp_cruiser_aoba_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Aoba Gata Junyōkan (C-41)</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Aoba Gata Junyōkan (C-41)</color>
 Aoba
 <color=#adadad>(1944)</color>"
 jp_cruiser_aoba_1;Aoba
@@ -2655,7 +3099,7 @@ jp_cruiser_aoba_2;Heavy Cruiser
 
 jp_cruiser_haguro_shop;Haguro
 jp_cruiser_haguro_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Myōkō Gata Junyōkan (C-42)</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Myōkō Gata Junyōkan (C-42)</color>
 Haguro
 <color=#adadad>(1944)</color>"
 jp_cruiser_haguro_1;Haguro
@@ -2663,7 +3107,7 @@ jp_cruiser_haguro_2;Heavy Cruiser
 
 jp_cruiser_myoko_shop;Myōkō
 jp_cruiser_myoko_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Myōkō Gata Junyōkan (C-42)</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Myōkō Gata Junyōkan (C-42)</color>
 Myōkō
 <color=#adadad>(1944)</color>"
 jp_cruiser_myoko_1;Myōkō
@@ -2671,21 +3115,21 @@ jp_cruiser_myoko_2;Heavy Cruiser
 
 jp_cruiser_agano_shop;Agano
 jp_cruiser_agano_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
-<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Agano Gata Junyōkan (C-41-II)</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Agano Gata Junyōkan (C-41-II)</color>
 Agano
 <color=#adadad>(1943)</color>"
 jp_cruiser_agano_1;Agano
 jp_cruiser_agano_2;Light Cruiser
 
 jp_cruiser_agano_EC_0;Nitō Junyōkan
-<color=#7ce68f>Agano Gata Junyōkan (C-41-II)</color>
+<color=#fffa62>Agano Gata Junyōkan (C-41-II)</color>
 Agano (1943)
 jp_cruiser_agano_EC_1;Agano
 jp_cruiser_agano_EC_2;Light Cruiser
 
 jp_cruiser_oyodo_shop;Ōyodo
 jp_cruiser_oyodo_0;"<color=#81c3fc>Kure Kaigun Kōshō <color=@commonTextColor>/</color> Dai 101 Kaigun Shisetsubu</color>
-<color=#7ce68f>Santō Junyōkan <color=@commonTextColor>|</color> Ōyodo Gata Junyōkan (C-42)</color>
+<color=#fffa62>Santō Junyōkan <color=@commonTextColor>|</color> Ōyodo Gata Junyōkan (C-42)</color>
 Ōyodo
 <color=#adadad>(1945)</color>"
 jp_cruiser_oyodo_1;Ōyodo
@@ -2693,7 +3137,7 @@ jp_cruiser_oyodo_2;Light Cruiser
 jp_armoredcruiser_ikoma_shop;Ikoma
 
 jp_armoredcruiser_ikoma_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Tsukuba Gata Junyōkan (B-12)</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Tsukuba Gata Junyōkan (B-12)</color>
 Ikoma
 <color=#adadad>(1912)</color>"
 jp_armoredcruiser_ikoma_1;Ikoma
@@ -2702,7 +3146,7 @@ jp_armoredcruiser_ikoma_2;Battlecruiser
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 5
 jp_cruiser_tone_shop;Tone
 jp_cruiser_tone_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Tone Gata Junyōkan (C-38)</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Tone Gata Junyōkan (C-38)</color>
 Tone
 <color=#adadad>(1945)</color>"
 jp_cruiser_tone_1;Tone
@@ -2710,35 +3154,35 @@ jp_cruiser_tone_2;Heavy Cruiser
 
 jp_cruiser_mogami_suzuya_shop;Suzuya
 jp_cruiser_mogami_suzuya_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
 Suzuya"
 jp_cruiser_mogami_suzuya_1;Suzuya
 jp_cruiser_mogami_suzuya_2;Light Cruiser
 
 jp_cruiser_mogami_shop;Mogami
 jp_cruiser_mogami_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
-<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
 Mogami"
 jp_cruiser_mogami_1;Mogami
 jp_cruiser_mogami_2;Heavy Cruiser
 
 jp_cruiser_mogami_mikuma_shop;Mikuma
 jp_cruiser_mogami_mikuma_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
 Mikuma"
 jp_cruiser_mogami_mikuma_1;Mikuma
 jp_cruiser_mogami_mikuma_2;Light Cruiser
 
 jp_battleship_hyuga_shop;Hyūga
 jp_battleship_hyuga_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Ise Gata Senkan (A-92)</color>
+<color=#fffa62>Ise Gata Senkan (A-92)</color>
 Hyūga"
 jp_battleship_hyuga_1;Hyūga
 jp_battleship_hyuga_2;Battleship
 
 jp_battleship_ise_shop;Ise
 jp_battleship_ise_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
-<color=#7ce68f>Ise Gata Senkan (A-92)</color>
+<color=#fffa62>Ise Gata Senkan (A-92)</color>
 Ise
 <color=#adadad>(1937)</color>"
 jp_battleship_ise_1;Ise
@@ -2746,14 +3190,14 @@ jp_battleship_ise_2;Battleship
 
 jp_battleship_settsu_shop;Settsu
 jp_battleship_settsu_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
-<color=#7ce68f>Kawachi Gata Senkan (A-30)</color>
+<color=#fffa62>Kawachi Gata Senkan (A-30)</color>
 Settsu"
 jp_battleship_settsu_1;Settsu
 jp_battleship_settsu_2;Battleship
 
 jp_battlecruiser_hiei_shop;Hiei
 jp_battlecruiser_hiei_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#7ce68f>Kongō Gata Junyōsenkan (B-46)</color>
+<color=#fffa62>Kongō Gata Junyōsenkan (B-46)</color>
 Hiei
 <color=#adadad>(1923)</color>"
 jp_battlecruiser_hiei_1;Hiei
@@ -2761,7 +3205,7 @@ jp_battlecruiser_hiei_2;Battlecruiser
 
 jp_battlecruiser_kirishima_shop;Kirishima
 jp_battlecruiser_kirishima_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Sasebo Kaigun Kōshō</color>
-<color=#7ce68f>Kongō Gata Senkan (B-46)</color>
+<color=#fffa62>Kongō Gata Senkan (B-46)</color>
 Kirishima
 <color=#adadad>(1942)</color>"
 jp_battlecruiser_kirishima_1;Kirishima
@@ -2769,7 +3213,7 @@ jp_battlecruiser_kirishima_2;Battleship
 
 jp_battlecruiser_haruna_shop;Haruna
 jp_battlecruiser_haruna_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
-<color=#7ce68f>Kongō Gata Senkan (B-46)</color>
+<color=#fffa62>Kongō Gata Senkan (B-46)</color>
 Haruna
 <color=#adadad>(1945)</color>"
 jp_battlecruiser_haruna_1;Haruna
@@ -2777,7 +3221,7 @@ jp_battlecruiser_haruna_2;Battleship
 
 jp_battlecruiser_kongo_shop;Kongō
 jp_battlecruiser_kongo_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Sasebo Kaigun Kōshō</color>
-<color=#7ce68f>Kongō Gata Senkan (B-46)</color>
+<color=#fffa62>Kongō Gata Senkan (B-46)</color>
 Kongō
 <color=#adadad>(1944)</color>"
 jp_battlecruiser_kongo_1;Kongō
@@ -2785,7 +3229,7 @@ jp_battlecruiser_kongo_2;Battleship
 
 jp_armoredcruiser_kurama_shop;Kurama
 jp_armoredcruiser_kurama_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#7ce68f>Ittō Junyōkan <color=@commonTextColor>|</color> Kurama Gata Junyōkan (B-17)</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Kurama Gata Junyōkan (B-17)</color>
 Kurama
 <color=#adadad>(1919)</color>"
 jp_armoredcruiser_kurama_1;Kurama
@@ -2793,14 +3237,14 @@ jp_armoredcruiser_kurama_2;Battlecruiser
 
 jp_battleship_yamashiro_shop;Yamashiro
 jp_battleship_yamashiro_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#7ce68f>Fusō Gata Senkan (A-64)</color>
+<color=#fffa62>Fusō Gata Senkan (A-64)</color>
 Yamashiro"
 jp_battleship_yamashiro_1;Yamashiro
 jp_battleship_yamashiro_2;Battleship
 
 jp_battleship_fuso_shop;Fusō
 jp_battleship_fuso_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
-<color=#7ce68f>Fusō Gata Senkan (A-64)</color>
+<color=#fffa62>Fusō Gata Senkan (A-64)</color>
 Fusō"
 jp_battleship_fuso_1;Fusō
 jp_battleship_fuso_2;Battleship
@@ -2808,14 +3252,14 @@ jp_battleship_fuso_2;Battleship
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 6
 jp_battlecruiser_amagi_shop;Amagi
 jp_battlecruiser_amagi_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#7ce68f>Amagi Gata Junyōsenkan (B-64)</color>
+<color=#fffa62>Amagi Gata Junyōsenkan (B-64)</color>
 Amagi"
 jp_battlecruiser_amagi_1;Amagi
 jp_battlecruiser_amagi_2;Battlecruiser
 
 jp_battleship_mutsu_shop;Mutsu
 jp_battleship_mutsu_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#7ce68f>Nagato Gata Senkan (A-114)</color>
+<color=#fffa62>Nagato Gata Senkan (A-114)</color>
 Mutsu
 <color=#adadad>(1922)</color>"
 jp_battleship_mutsu_1;Mutsu
@@ -2823,7 +3267,7 @@ jp_battleship_mutsu_2;Battleship
 
 jp_battleship_nagato_shop;Nagato
 jp_battleship_nagato_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
-<color=#7ce68f>Nagato Gata Senkan (A-114)</color>
+<color=#fffa62>Nagato Gata Senkan (A-114)</color>
 Nagato
 <color=#adadad>(1944)</color>"
 jp_battleship_nagato_1;Nagato
@@ -2831,7 +3275,7 @@ jp_battleship_nagato_2;Battleship
 
 jp_battleship_tosa_shop;Tosa
 jp_battleship_tosa_0;"<color=#81c3fc>Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo</color>
-<color=#7ce68f>Kaga Gata Senkan (A-127)</color>
+<color=#fffa62>Kaga Gata Senkan (A-127)</color>
 Tosa"
 jp_battleship_tosa_1;Tosa
 jp_battleship_tosa_2;Battleship
@@ -2839,7 +3283,7 @@ jp_battleship_tosa_2;Battleship
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 7
 jp_battleship_yamato_shop;Yamato
 jp_battleship_yamato_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
-<color=#7ce68f>Yamato Gata Senkan (A-140F6)</color>
+<color=#fffa62>Yamato Gata Senkan (A-140F6)</color>
 Yamato
 <color=#adadad>(1945)</color>"
 jp_battleship_yamato_1;Yamato
@@ -2847,7 +3291,7 @@ jp_battleship_yamato_2;Battleship
 
 jp_battleship_musashi_shop;Musashi
 jp_battleship_musashi_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#7ce68f>Yamato Gata Senkan (A-140F6)</color>
+<color=#fffa62>Yamato Gata Senkan (A-140F6)</color>
 Musashi
 <color=#adadad>(1943)</color>"
 jp_battleship_musashi_1;Musashi
@@ -4401,28 +4845,28 @@ it_m47_105_2;Medium Tank
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 it_mas_classe500_3_1944_shop;MAS 561
 it_mas_classe500_3_1944_0;"<color=#81c3fc>Cantiere Baglietto</color>
-<color=#7ce68f>Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie</color>
+<color=#fffa62>Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie</color>
 MAS 561"
 it_mas_classe500_3_1944_1;MAS 561
 it_mas_classe500_3_1944_2;Armed Torpedo Boat
 
 it_mas_classe500_3_shop;MAS 555
 it_mas_classe500_3_0;"<color=#81c3fc>Cantiere navale Picchiotti</color>
-<color=#7ce68f>Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie</color>
+<color=#fffa62>Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie</color>
 MAS 555"
 it_mas_classe500_3_1;MAS 555
 it_mas_classe500_3_2;Armed Torpedo Boat
 
 it_mas_classe500_4_shop;MAS 569
 it_mas_classe500_4_0;"<color=#81c3fc>Cantiere Baglietto</color>
-<color=#7ce68f>Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 4ª Serie</color>
+<color=#fffa62>Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 4ª Serie</color>
 MAS 569"
 it_mas_classe500_4_1;MAS 569
 it_mas_classe500_4_2;Armed Torpedo Boat
 
 it_vas_baglietto_68t_1serie_shop;VAS 201
 it_vas_baglietto_68t_1serie_0;"<color=#81c3fc>Cantiere Baglietto</color>
-<color=#7ce68f>Motovedette Antisommergibili Tipo Baglietto 68 t, 1ª Serie</color>
+<color=#fffa62>Motovedette Antisommergibili Tipo Baglietto 68 t, 1ª Serie</color>
 VAS 201"
 it_vas_baglietto_68t_1serie_1;VAS 201
 it_vas_baglietto_68t_1serie_2;Anti-Submarine Patrol Boat
@@ -4430,56 +4874,56 @@ it_vas_baglietto_68t_1serie_2;Anti-Submarine Patrol Boat
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 it_ms15_1a_shop;MS 15
 it_ms15_1a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#7ce68f>Motosiluranti Tipo CRDA 60 t, 1ª Serie</color>
+<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 1ª Serie</color>
 MS 15"
 it_ms15_1a_1;MS 15
 it_ms15_1a_2;Motor Torpedo Boat
 
 it_ms53_2a_shop;MS 53
 it_ms53_2a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#7ce68f>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
+<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
 MS 53"
 it_ms53_2a_1;MS 53
 it_ms53_2a_2;Motor Torpedo Boat
 
 it_ms74_2a_shop;MS 74
 it_ms74_2a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#7ce68f>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
+<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
 MS 74"
 it_ms74_2a_1;MS 74
 it_ms74_2a_2;Motor Torpedo Boat
 
 it_ms473_2a_shop;MS 472
 it_ms473_2a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#7ce68f>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
+<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
 MS 472"
 it_ms473_2a_1;MS 472
 it_ms473_2a_2;Motor Torpedo Boat
 
 it_ms471_1a_shop;MV 611
 it_ms471_1a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#7ce68f>Motovedette Tipo CRDA 60 t, 1ª Serie</color>
+<color=#fffa62>Motovedette Tipo CRDA 60 t, 1ª Serie</color>
 MV 611"
 it_ms471_1a_1;MV 611
 it_ms471_1a_2;Patrol Boat
 
 it_ms473_2a_art_shop;MS 473
 it_ms473_2a_art_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#7ce68f>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
+<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
 MS 473"
 it_ms473_2a_art_1;MS 473
 it_ms473_2a_art_2;Motor Torpedo Boat
 
 it_mas_stefano_turr_shop;Stefano Turr
 it_mas_stefano_turr_0;"<color=#81c3fc>Cantiere Baglietto</color>
-<color=#7ce68f>Motoscafo Armato Silurante Tipo Sperimentale Diesel</color>
+<color=#fffa62>Motoscafo Armato Silurante Tipo Sperimentale Diesel</color>
 Stefano Turr"
 it_mas_stefano_turr_1;Stefano Turr
 it_mas_stefano_turr_2;Armed Torpedo Boat
 
 it_mas441_shop;MAS 441
 it_mas441_0;"<color=#81c3fc>Cantiere Baglietto</color>
-<color=#7ce68f>Motoscafo Antisommergibili Tipo Baglietto 1934</color>
+<color=#fffa62>Motoscafo Antisommergibili Tipo Baglietto 1934</color>
 MAS 441"
 it_mas441_1;MAS 441
 it_mas441_2;Motor Torpedo Boat
@@ -4487,21 +4931,21 @@ it_mas441_2;Motor Torpedo Boat
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 it_a1_vosper_shop;MS 461
 it_a1_vosper_0;"<color=#81c3fc>Robert Jacob Shipyard</color>
-<color=#7ce68f>Motosiluranti Tipo Vosper da 72 Piedi e 6 Pollici</color>
+<color=#fffa62>Motosiluranti Tipo Vosper da 72 Piedi e 6 Pollici</color>
 MS 461"
 it_a1_vosper_1;MS 461
 it_a1_vosper_2;Motor Torpedo Boat
 
 it_ms444_shop;MS 444
 it_ms444_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#7ce68f>Motosiluranti Tipo Higgins da 78 Piedi</color>
+<color=#fffa62>Motosiluranti Tipo Higgins da 78 Piedi</color>
 MS 444"
 it_ms444_1;MS 444
 it_ms444_2;Motor Torpedo Boat
 
 it_mc_485_shop;MC 485
 it_mc_485_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12860</color>
-<color=#7ce68f>Motosiluranti Tipo Lürssen S 26</color>
+<color=#fffa62>Motosiluranti Tipo Lürssen S 26</color>
 MC 485"
 it_mc_485_1;MC 485
 it_mc_485_2;Motor Torpedo Boat
@@ -4509,28 +4953,28 @@ it_mc_485_2;Motor Torpedo Boat
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 it_mc490_folgore_shop;MC 490
 it_mc490_folgore_0;"<color=#81c3fc>Cantiere navale Triestino</color>
-<color=#7ce68f>Motocannoniera Convertibile Tipo Sperimentale CRDA</color>
+<color=#fffa62>Motocannoniera Convertibile Tipo Sperimentale CRDA</color>
 MC 490"
 it_mc490_folgore_1;MC 490
 it_mc490_folgore_2;Convertible Motor Gunboat
 
 it_mc492_baleno_shop;Baleno (MC 492)
 it_mc492_baleno_0;"<color=#81c3fc>Cantiere navale Triestino</color>
-<color=#7ce68f>Motocannoniera Convertibile Classe Lampo</color>
+<color=#fffa62>Motocannoniera Convertibile Classe Lampo</color>
 Baleno (MC 492)"
 it_mc492_baleno_1;Baleno (MC 492)
 it_mc492_baleno_2;Convertible Motor Gunboat
 
 it_gabbiano_class_shop;Gabbiano (GB)
 it_gabbiano_class_0;"<color=#81c3fc>Cantiere navale di Voltri</color>
-<color=#7ce68f>Corvetta Classe Gabbiano, 1ª Serie</color>
+<color=#fffa62>Corvetta Classe Gabbiano, 1ª Serie</color>
 Gabbiano (GB)"
 it_gabbiano_class_1;Gabbiano
 it_gabbiano_class_2;Corvette
 
 it_gabbiano_class_c16_shop;Folaga (F 576)
 it_gabbiano_class_c16_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#7ce68f>Corvetta Classe Gabbiano, 1ª Serie</color>
+<color=#fffa62>Corvetta Classe Gabbiano, 1ª Serie</color>
 Folaga (F 576)
 <color=#adadad>(1953)</color>"
 it_gabbiano_class_c16_1;Folaga
@@ -4544,14 +4988,14 @@ it_p420_sparviero_2;Missile Hydrofoil
 
 it_p493_freccia_shop;Freccia (P 493)
 it_p493_freccia_0;"<color=#81c3fc>Cantiere navali del Tirreno e Riuniti</color>
-<color=#7ce68f>Motocannoniera Convertibile Classe 590</color>
+<color=#fffa62>Motocannoniera Convertibile Classe 590</color>
 Freccia (P 493)"
 it_p493_freccia_1;Freccia
 it_p493_freccia_2;Convertible Motor Gunboat
 
 it_p494_saetta_shop;Saetta (P 494)
 it_p494_saetta_0;"<color=#81c3fc>Cantiere navale Triestino</color>
-<color=#7ce68f>Motocannoniera Convertibile Classe 590</color>
+<color=#fffa62>Motocannoniera Convertibile Classe 590</color>
 Saetta (P 494)"
 it_p494_saetta_1;Saetta
 it_p494_saetta_2;Convertible Motor Gunboat
@@ -4559,35 +5003,35 @@ it_p494_saetta_2;Convertible Motor Gunboat
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 it_alano_9851_shop;Alano (L 9851)
 it_alano_9851_0;"<color=#81c3fc>Commercial Iron Works</color>
-<color=#7ce68f>Motocannoniera Classe Alano</color>
+<color=#fffa62>Motocannoniera Classe Alano</color>
 Alano (L 9851)"
 it_alano_9851_1;Alano
 it_alano_9851_2;Motor Gunboat
 
 it_cassiopea_p401_shop;Cassiopea (P 401)
 it_cassiopea_p401_0;"<color=#81c3fc>Fincantieri del Muggiano</color>
-<color=#7ce68f>Pattugliatori Classe Cassiopea</color>
+<color=#fffa62>Pattugliatori Classe Cassiopea</color>
 Cassiopea (P 401)"
 it_cassiopea_p401_1;Cassiopea
 it_cassiopea_p401_2;Patrol Vessel
 
 it_ciclone_class_ghibli_shop;Ghibli (GH)
 it_ciclone_class_ghibli_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia</color>
-<color=#7ce68f>Torpediniera Classe Ciclone</color>
+<color=#fffa62>Torpediniera Classe Ciclone</color>
 Ghibli (GH)"
 it_ciclone_class_ghibli_1;Ghibli
 it_ciclone_class_ghibli_2;Torpedo Boat
 
 it_albatros_class_f543_shop;Albatros (F 543)
 it_albatros_class_f543_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia</color>
-<color=#7ce68f>Corvetta Classe Albatros</color>
+<color=#fffa62>Corvetta Classe Albatros</color>
 Albatros (F 543)"
 it_albatros_class_f543_1;Albatros
 it_albatros_class_f543_2;Corvette
 
 it_albatros_class_f544_shop;Alcione (F 544)
 it_albatros_class_f544_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia</color>
-<color=#7ce68f>Corvetta Classe Albatros</color>
+<color=#fffa62>Corvetta Classe Albatros</color>
 Alcione (F 544)"
 it_albatros_class_f544_1;Albatros
 it_albatros_class_f544_2;Corvette
@@ -4595,14 +5039,14 @@ it_albatros_class_f544_2;Corvette
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 it_destroyer_turbine_shop;Turbine (TB)
 it_destroyer_turbine_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#7ce68f>Cacciatorpediniere Classe Turbine</color>
+<color=#fffa62>Cacciatorpediniere Classe Turbine</color>
 Turbine (TB)"
 it_destroyer_turbine_1;Turbine
 it_destroyer_turbine_2;Destroyer
 
 it_destroyer_aquilone_shop;Aquilone (AL)
 it_destroyer_aquilone_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente <color=@commonTextColor>/</color> Cantiere navali del Quarnaro</color>
-<color=#7ce68f>Cacciatorpediniere Classe Turbine</color>
+<color=#fffa62>Cacciatorpediniere Classe Turbine</color>
 Aquilone (AL)
 <color=#adadad>(1939)</color>"
 it_destroyer_aquilone_1;Aquilone
@@ -4610,7 +5054,7 @@ it_destroyer_aquilone_2;Destroyer
 
 it_destroyer_dardo_shop;Dardo (DR)
 it_destroyer_dardo_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#7ce68f>Cacciatorpediniere Classe Freccia</color>
+<color=#fffa62>Cacciatorpediniere Classe Freccia</color>
 Dardo (DR)"
 it_destroyer_dardo_1;Dardo
 it_destroyer_dardo_2;Destroyer
@@ -4618,7 +5062,7 @@ it_destroyer_dardo_2;Destroyer
 it_destroyer_saetta_shop;Saetta (SA)
 it_destroyer_saetta_0;"<color=#81c3fc>Cantiere navale del Tirreno di Riva Trigoso <color=@commonTextColor>/</color> Cantiere navali riuniti di
 Palermo</color>
-<color=#7ce68f>Cacciatorpediniere Classe Freccia</color>
+<color=#fffa62>Cacciatorpediniere Classe Freccia</color>
 Saetta (SA)
 <color=#adadad>(1942)</color>"
 it_destroyer_saetta_1;Saetta
@@ -4627,7 +5071,7 @@ it_destroyer_saetta_2;Destroyer
 it_destroyer_oriani_class_gioberti_shop;Vincenzo Gioberti (GB)
 it_destroyer_oriani_class_gioberti_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno <color=@commonTextColor>/</color> Cantiere navale di
 Castellammare di Stabia</color>
-<color=#7ce68f>Cacciatorpediniere Classe Alfredo Oriani</color>
+<color=#fffa62>Cacciatorpediniere Classe Alfredo Oriani</color>
 Vincenzo Gioberti (GB)
 <color=#adadad>(1942)</color>"
 it_destroyer_oriani_class_gioberti_1;Vincenzo Gioberti (GB)
@@ -4635,7 +5079,7 @@ it_destroyer_oriani_class_gioberti_2;Destroyer
 
 it_destroyer_vifor_class_aquila_shop;Aquila (AQ)
 it_destroyer_vifor_class_aquila_0;"<color=#81c3fc>Cantiere navali Pattison</color>
-<color=#7ce68f>Cacciatorpediniere Classe Aquila</color>
+<color=#fffa62>Cacciatorpediniere Classe Aquila</color>
 Aquila (AQ)"
 it_destroyer_vifor_class_aquila_1;Aquila
 it_destroyer_vifor_class_aquila_2;Destroyer
@@ -4643,7 +5087,7 @@ it_destroyer_vifor_class_aquila_2;Destroyer
 it_destroyer_maestrale_class_grecale_shop;Grecale (GR)
 it_destroyer_maestrale_class_grecale_0;"<color=#81c3fc>Cantiere Navali del Tirreno e Riuniti <color=@commonTextColor>/</color> Arsenale militare marittimo della
 Spezia</color>
-<color=#7ce68f>Cacciatorpediniere Classe Maestrale</color>
+<color=#fffa62>Cacciatorpediniere Classe Maestrale</color>
 Gercale (GR)
 <color=#adadad>(1949)</color>"
 it_destroyer_maestrale_class_grecale_1;Grecale
@@ -4653,7 +5097,7 @@ it_destroyer_maestrale_class_grecale_2;Destroyer
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 it_destroyer_leone_class_shop;Leone (LE)
 it_destroyer_leone_class_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#7ce68f>Esploratore Classe Leone</color>
+<color=#fffa62>Esploratore Classe Leone</color>
 Leone (LE)
 <color=#adadad>(1936)</color>"
 it_destroyer_leone_class_1;Leone
@@ -4661,7 +5105,7 @@ it_destroyer_leone_class_2;Destroyer
 
 it_destroyer_leone_class_tigre_shop;Tigre (TI)
 it_destroyer_leone_class_tigre_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#7ce68f>Esploratore Classe Leone</color>
+<color=#fffa62>Esploratore Classe Leone</color>
 Tigre (TI)
 <color=#adadad>(1931)</color>"
 it_destroyer_leone_class_tigre_1;Tigre
@@ -4669,14 +5113,14 @@ it_destroyer_leone_class_tigre_2;Destroyer
 
 it_destroyer_soldati_serie1_camicianera_shop;Camicia Nera (CN)
 it_destroyer_soldati_serie1_camicianera_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
-<color=#7ce68f>Cacciatorpediniere Classe Soldati, 1ª Serie</color>
+<color=#fffa62>Cacciatorpediniere Classe Soldati, 1ª Serie</color>
 Camicia Nera (CN)"
 it_destroyer_soldati_serie1_camicianera_1;Camicia Nera
 it_destroyer_soldati_serie1_camicianera_2;Destroyer
 
 it_destroyer_soldati_serie1_geniere_shop;Geniere (GE)
 it_destroyer_soldati_serie1_geniere_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
-<color=#7ce68f>Cacciatorpediniere Classe Soldati, 1ª Serie</color>
+<color=#fffa62>Cacciatorpediniere Classe Soldati, 1ª Serie</color>
 Geniere (GE)
 <color=#adadad>(1942)</color>"
 it_destroyer_soldati_serie1_geniere_1;Geniere
@@ -4684,28 +5128,28 @@ it_destroyer_soldati_serie1_geniere_2;Destroyer
 
 it_destroyer_soldati_serie1_shop;Aviere (AV)
 it_destroyer_soldati_serie1_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
-<color=#7ce68f>Cacciatorpediniere Classe Soldati, 1ª Serie</color>
+<color=#fffa62>Cacciatorpediniere Classe Soldati, 1ª Serie</color>
 Aviere (AV)"
 it_destroyer_soldati_serie1_1;Aviere
 it_destroyer_soldati_serie1_2;Destroyer
 
 it_destroyer_comandanti_medaglie_doro_shop;Comandante Margottini (MA)
 it_destroyer_comandanti_medaglie_doro_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
-<color=#7ce68f>Cacciatorpediniere Classe Comandanti Medaglie d'Oro, 1ª Serie</color>
+<color=#fffa62>Cacciatorpediniere Classe Comandanti Medaglie d'Oro, 1ª Serie</color>
 Comandante Margottini (MA)"
 it_destroyer_comandanti_medaglie_doro_1;Comandante Margottini
 it_destroyer_comandanti_medaglie_doro_2;Destroyer
 
 it_destroyer_impetuoso_class_impetuoso_shop;Impetuoso (D 558)
 it_destroyer_impetuoso_class_impetuoso_0;"<color=#81c3fc>Cantiere navale di Riva Trigoso</color>
-<color=#7ce68f>Cacciatorpediniere Classe Indomito</color>
+<color=#fffa62>Cacciatorpediniere Classe Indomito</color>
 Impetuoso (D 558)"
 it_destroyer_impetuoso_class_impetuoso_1;Impetuoso
 it_destroyer_impetuoso_class_impetuoso_2;Destroyer
 
 it_destroyer_fletcher_geniere_shop;Geniere (D 555)
 it_destroyer_fletcher_geniere_0;"<color=#81c3fc>Seattle-Tacoma Shipbuilding Corporation</color>
-<color=#7ce68f>Cacciatorpediniere Classe Fante</color>
+<color=#fffa62>Cacciatorpediniere Classe Fante</color>
 Geniere (D 555)"
 it_destroyer_fletcher_geniere_1;Geniere
 it_destroyer_fletcher_geniere_2;Destroyer
@@ -4713,7 +5157,7 @@ it_destroyer_fletcher_geniere_2;Destroyer
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 it_destroyer_navigatori_class_verazzano_shop;Giovanni da Verazzano (DV)
 it_destroyer_navigatori_class_verazzano_0;"<color=#81c3fc>Cantiere navali del Quarnaro</color>
-<color=#7ce68f>Cacciatorpediniere Classe Navigatori</color>
+<color=#fffa62>Cacciatorpediniere Classe Navigatori</color>
 Giovanni da Verazzano (DV)
 <color=#adadad>(1940)</color>"
 it_destroyer_navigatori_class_verazzano_1;Giovanni da Verazzano
@@ -4721,7 +5165,7 @@ it_destroyer_navigatori_class_verazzano_2;Destroyer
 
 it_cruiser_bartolomeocolleoni_1940_shop;Bartolomeo Colleoni
 it_cruiser_bartolomeocolleoni_1940_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#7ce68f>Incrociatore Leggero Classe Condottieri Tipo Alberto di Giussano</color>
+<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Alberto di Giussano</color>
 Bartolomeo Colleoni"
 it_cruiser_bartolomeocolleoni_1940_1;Bartolomeo Colleoni
 it_cruiser_bartolomeocolleoni_1940_2;Light Cruiser
@@ -4729,14 +5173,14 @@ it_cruiser_bartolomeocolleoni_1940_2;Light Cruiser
 it_cruiser_cadorna_class_diaz_shop;Armando Diaz
 it_cruiser_cadorna_class_diaz_0;"<color=#81c3fc>Società per la Costruzione di Navi, Macchine ed Artiglierie Odero
 Terni-Orlando di Muggiano</color>
-<color=#7ce68f>Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna</color>
+<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna</color>
 Armando Diaz"
 it_cruiser_cadorna_class_diaz_1;Armando Diaz
 it_cruiser_cadorna_class_diaz_2;Light Cruiser
 
 it_cruiser_cadorna_class_cadorna_shop;Luigi Cadorna
 it_cruiser_cadorna_class_cadorna_0;"<color=#81c3fc>Cantiere riuniti dell'Adriatico</color>
-<color=#7ce68f>Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna</color>
+<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna</color>
 Luigi Cadorna
 <color=#adadad>(1944)</color>"
 it_cruiser_cadorna_class_cadorna_1;Luigi Cadorna
@@ -4744,14 +5188,14 @@ it_cruiser_cadorna_class_cadorna_2;Light Cruiser
 
 it_cruiser_etna_class_shop;Etna
 it_cruiser_etna_class_0;"<color=#81c3fc>Cantiere navale Triestino</color>
-<color=#7ce68f>Incrociatore Leggero Classe Etna</color>
+<color=#fffa62>Incrociatore Leggero Classe Etna</color>
 Etna"
 it_cruiser_etna_class_1;Etna
 it_cruiser_etna_class_2;Light Cruiser
 
 it_cruiser_capitani_romani_class_attilio_regolo_shop;Attilio Regolo
 it_cruiser_capitani_romani_class_attilio_regolo_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
-<color=#7ce68f>Incrociatore Leggero Classe Capitani Romani</color>
+<color=#fffa62>Incrociatore Leggero Classe Capitani Romani</color>
 Attilio Regolo"
 it_cruiser_capitani_romani_class_attilio_regolo_1;Attilio Regolo
 it_cruiser_capitani_romani_class_attilio_regolo_2;Light Cruiser
@@ -4765,7 +5209,7 @@ it_cruiser_capitani_romani_class_attilio_regolo_EC_2;Light Cruiser
 it_cruiser_montecuccoli_shop;Raimondo Montecuccoli
 it_cruiser_montecuccoli_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente <color=@commonTextColor>/</color> Arsenale militare marittimo della
 Spezia</color>
-<color=#7ce68f>Incrociatore Leggero Classe Condottieri Tipo Raimondo Montecuccoli</color>
+<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Raimondo Montecuccoli</color>
 Raimondo Montecuccoli
 <color=#adadad>(1943)</color>"
 it_cruiser_montecuccoli_1;Raimondo Montecuccoli
@@ -4780,7 +5224,7 @@ it_cruiser_montecuccoli_EC_2;Light Cruiser
 it_cruiser_eugenio_di_savoia_shop;Eugenio di Savoia
 it_cruiser_eugenio_di_savoia_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente <color=@commonTextColor>/</color> Cantiere navale di Castellammare di
 Stabia</color>
-<color=#7ce68f>Incrociatore Leggero Classe Condottieri Tipo Emanuele Filiberto Duca
+<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Emanuele Filiberto Duca
 d'Aosta</color>
 Eugenio di Savoia
 <color=#adadad>(1943)</color>"
@@ -4790,7 +5234,7 @@ it_cruiser_eugenio_di_savoia_2;Light Cruiser
 it_cruiser_garibaldi_class_abruzzi_shop;Luigi di Savoia Duca degli Abruzzi
 it_cruiser_garibaldi_class_abruzzi_0;"<color=#81c3fc>Società per la Costruzione di Navi, Macchine ed Artiglierie Odero
 Terni-Orlando di Muggiano <color=@commonTextColor>/</color> Port of Freetown</color>
-<color=#7ce68f>Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli
+<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli
 Abruzzi</color>
 Luigi di Savoia Duca degli Abruzzi
 <color=#adadad>(1944)</color>"
@@ -4800,7 +5244,7 @@ it_cruiser_garibaldi_class_abruzzi_2;Light Cruiser
 it_cruiser_trento_shop;Trento
 it_cruiser_trento_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno <color=@commonTextColor>/</color> Arsenale militare marittimo
 della Spezia</color>
-<color=#7ce68f>Incrociatore Pesante Trento</color>
+<color=#fffa62>Incrociatore Pesante Trento</color>
 Trento
 <color=#adadad>(1937)</color>"
 it_cruiser_trento_1;Trento
@@ -4814,7 +5258,7 @@ it_cruiser_trento_EC_2;Heavy Cruiser
 
 it_cruiser_bolzano_shop;Bolzano
 it_cruiser_bolzano_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#7ce68f>Incrociatore Pesante Bolzano</color>
+<color=#fffa62>Incrociatore Pesante Bolzano</color>
 Bolzano
 <color=#adadad>(1937)</color>"
 it_cruiser_bolzano_1;Bolzano
@@ -4822,7 +5266,7 @@ it_cruiser_bolzano_2;Heavy Cruiser
 
 it_cruiser_zara_class_pola_shop;Pola
 it_cruiser_zara_class_pola_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno <color=@commonTextColor>/</color> Cantiere navale Triestino</color>
-<color=#7ce68f>Incrociatore Pesante Zara</color>
+<color=#fffa62>Incrociatore Pesante Zara</color>
 Pola
 <color=#adadad>(1937)</color>"
 it_cruiser_zara_class_pola_1;Pola
@@ -4831,7 +5275,7 @@ it_cruiser_zara_class_pola_2;Heavy Cruiser
 it_cruiser_zara_class_shop;Zara
 it_cruiser_zara_class_0;"<color=#81c3fc>Società per la Costruzione di Navi, Macchine ed Artiglierie Odero
 Terni-Orlando di Muggiano <color=@commonTextColor>/</color> Cantiere navale Triestino</color>
-<color=#7ce68f>Incrociatore Pesante Zara</color>
+<color=#fffa62>Incrociatore Pesante Zara</color>
 Zara
 <color=#adadad>(1937)</color>"
 it_cruiser_zara_class_1;Zara
@@ -4846,7 +5290,7 @@ it_cruiser_zara_class_EC_2;Heavy Cruiser
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 it_battleship_dante_alighieri_shop;Dante Alighieri
 it_battleship_dante_alighieri_0;"<color=#81c3fc>Regio arsenale <color=@commonTextColor>/</color> Cantiere navale Triestino</color>
-<color=#7ce68f>Corazzata Dante Alighieri</color>
+<color=#fffa62>Corazzata Dante Alighieri</color>
 Dante Alighieri
 <color=#adadad>(1923)</color>"
 it_battleship_dante_alighieri_1;Dante Alighieri
@@ -4854,14 +5298,14 @@ it_battleship_dante_alighieri_2;Battleship
 
 it_battleship_francesco_caracciolo_shop;Francesco Caracciolo
 it_battleship_francesco_caracciolo_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia</color>
-<color=#7ce68f>Corazzata Classe Francesco Caracciolo</color>
+<color=#fffa62>Corazzata Classe Francesco Caracciolo</color>
 Francesco Caracciolo"
 it_battleship_francesco_caracciolo_1;Francesco Caracciolo
 it_battleship_francesco_caracciolo_2;Battleship
 
 it_battleship_andrea_doria_shop;Andrea Doria
 it_battleship_andrea_doria_0;"<color=#81c3fc>Arsenale militare marittimo della Spezia</color>
-<color=#7ce68f>Corazzata Classe Duilio</color>
+<color=#fffa62>Corazzata Classe Duilio</color>
 Andrea Doria
 <color=#adadad>(1925)</color>"
 it_battleship_andrea_doria_1;Andrea Doria
@@ -4869,14 +5313,14 @@ it_battleship_andrea_doria_2;Battleship
 
 it_battleship_leonardo_da_vinci_shop;Leonardo da Vinci
 it_battleship_leonardo_da_vinci_0;"<color=#81c3fc>Cantiere della Foce</color>
-<color=#7ce68f>Corazzata Classe Conte di Cavour</color>
+<color=#fffa62>Corazzata Classe Conte di Cavour</color>
 Leonardo da Vinci"
 it_battleship_leonardo_da_vinci_1;Leonardo da Vinci
 it_battleship_leonardo_da_vinci_2;Battleship
 
 it_battleship_conte_di_cavour_shop;Conte di Cavour
 it_battleship_conte_di_cavour_0;"<color=#81c3fc>Arsenale militare marittimo della Spezia <color=@commonTextColor>/</color> Cantiere navale Triestino</color>
-<color=#7ce68f>Corazzata Classe Conte di Cavour</color>
+<color=#fffa62>Corazzata Classe Conte di Cavour</color>
 Conte di Cavour
 <color=#adadad>(1944)</color>"
 it_battleship_conte_di_cavour_1;Conte di Cavour
@@ -4886,7 +5330,7 @@ it_battleship_conte_di_cavour_2;Battleship
 it_battleship_caio_duilio_shop;Duilio
 it_battleship_caio_duilio_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia <color=@commonTextColor>/</color> Cantiere navali del Tirreno
 e Riuniti</color>
-<color=#7ce68f>Corazzata Classe Duilio</color>
+<color=#fffa62>Corazzata Classe Duilio</color>
 Duilio
 <color=#adadad>(1942)</color>"
 it_battleship_caio_duilio_1;Duilio
@@ -4895,7 +5339,7 @@ it_battleship_caio_duilio_2;Battleship
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 it_battleship_littorio_class_roma_shop;Roma
 it_battleship_littorio_class_roma_0;"<color=#81c3fc>Cantiere riuniti dell'Adriatico</color>
-<color=#7ce68f>Corazzata Classe Littorio</color>
+<color=#fffa62>Corazzata Classe Littorio</color>
 Roma"
 it_battleship_littorio_class_roma_1;Roma
 it_battleship_littorio_class_roma_2;Battleship
@@ -4903,7 +5347,7 @@ it_battleship_littorio_class_roma_2;Battleship
 it_battleship_littorio_class_littorio_shop;Italia
 it_battleship_littorio_class_littorio_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente <color=@commonTextColor>/</color> Arsenale militare marittimo della
 Spezia</color>
-<color=#7ce68f>Corazzata Classe Littorio</color>
+<color=#fffa62>Corazzata Classe Littorio</color>
 Italia"
 it_battleship_littorio_class_littorio_1;Italia
 it_battleship_littorio_class_littorio_2;Battleship
@@ -5099,7 +5543,7 @@ p-51d-20-na_iaf_1; Pi-51 Di
 p-51d-20-na_iaf_2; Pi-51
 
 b-17g_iaf_shop; Bi-17 Ji
-b-17g_iaf_0;"<color=#81c3fc>Boeing Airplane Company</color>
+b-17g_iaf_0;"<color=#81c3fc>Boeing Airplane Company Model 299P</color>
  Bi-17 Degem Ji Mivṣar Me'ofef"
 b-17g_iaf_1; Bi-17 Ji
 b-17g_iaf_2; Bi-17

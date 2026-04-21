@@ -24,6 +24,8 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - **USS PT-95**: Statcard name → **Huckins Yacht Corporation | Huckins 78'-class Motor Torpedo Boat | USS PT-95**.
+    - **USS PT-262**: Statcard name → **Huckins Yacht Corporation | Huckins 78'-class Motor Torpedo Boat | USS PT-262**.
     - **Misairu Tei 2 Gō (PG-822)**: Statcard name → **Sumitomo Jū Kikai Kōgyō | 1 Gō Gata Misairu Tei | Misairu Tei 2 Gō (PG-822)**.
     - **Tomozuru**: Statcard name → **Maizuru Kaigun Kōshō | Chidori Gata Suiraitei (F-46) | Tomozuru (1944)**.
     - **Harukaze (DD-101)**: Statcard name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Kō Gata Goeikan | Harukaze Gata Goeikan (F-101) | Harukaze (DD-101)**.
@@ -33,6 +35,10 @@ All dates are listed in DD-MM-YYYY format.
     - Removed manufacturer names from EC vessels because their long names show in combat.
     - Reclassified the long distance names of a bunch of Italian coastal fleet vessels to match what Italy classified them as.
     - Changed every instance of "caniteri", the incorrectly used plural form, to "cantiere" for Italian naval manufacturers.
+    - **Bi-17 Ji** (Israel): Statcard name → **Boeing Airplane Company Model 299P | Bi-17 Degem Ji Mivṣar Me'ofef**.
+        - Hebrew package: Statcard name → **Boeing Airplane Company Model 299P | בי-17 דגם ג׳י מבצר מעופף**.
+    - **B-52H-140-BW (1979)**: Statcard name → **Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))**.
+    - **Z-2** → **USS Z-2**. Statcard name → **Fincantieri Marinette Marine | Landing Craft, Mechanized, (Mk. 6) (Flamethrower) "Zippo" | USS Z-2**.
 
 ## 1.17.02 - 16-04-2026
 

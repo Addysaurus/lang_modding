@@ -964,14 +964,281 @@ uk_centurion_shot_kal_d_2;MBT
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+uk_mtb_1series_shop;HMS MTB 7
+uk_mtb_1series_0;"<color=#81c3fc>British Power Boat Co.</color>
+<color=#fffa62>BPB 60 ft-class</color>
+HMS MTB 7"
+uk_mtb_1series_1;HMS MTB 7
+uk_mtb_1series_2;Motor Torpedo Boat
+
+uk_mtb_2series_shop;HMS MTB 16
+uk_mtb_2series_0;"<color=#81c3fc>British Power Boat Co.</color>
+<color=#fffa62>BPB 60 ft-class</color>
+HMS MTB 16"
+uk_mtb_2series_1;HMS MTB 16
+uk_mtb_2series_2;Motor Torpedo Boat
+
+uk_mtb35_vosper_shop;HMS MTB 35
+uk_mtb35_vosper_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Vosper 70 ft-class</color>
+HMS MTB 35"
+uk_mtb35_vosper_1;HMS MTB 35
+uk_mtb35_vosper_2;Motor Gun Boat
+
+uk_mtb_vosper_1series_shop;HMS MTB 23
+uk_mtb_vosper_1series_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Vosper 70 ft-class</color>
+HMS MTB 23"
+uk_mtb_vosper_1series_1;HMS MTB 23
+uk_mtb_vosper_1series_2;Motor Torpedo Boat
+
+uk_mtb_vosper_2series_shop;HMS MTB 234
+uk_mtb_vosper_2series_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Vosper 72 ft-class</color>
+HMS MTB 234"
+uk_mtb_vosper_2series_1;HMS MTB 234
+uk_mtb_vosper_2series_2;Motor Torpedo Boat
+
+uk_fairmile_a_ml100_shop;HMS ML 100
+uk_fairmile_a_ml100_0;"<color=#81c3fc>Woodnutt & Co. <color=@commonTextColor>/</color> Bembridge Harbour</color>
+<color=#fffa62>Fairmile Type A-class</color>
+HMS ML 100
+<color=#adadad>(1940)</color>"
+uk_fairmile_a_ml100_1;HMS ML 100
+uk_fairmile_a_ml100_2;Motor Launch
+
+uk_fairmile_b_ml345_shop;HMS ML 345
+uk_fairmile_b_ml345_0;"<color=#81c3fc>Diesel Constructors <color=@commonTextColor>/</color> U.S. Naval Base No. 18</color>
+<color=#fffa62>Fairmile Type B-class</color>
+HMS ML 345
+<color=#adadad>(1943)</color>"
+uk_fairmile_b_ml345_1;HMS ML 345
+uk_fairmile_b_ml345_2;Motor Launch
+
+uk_fairmile_c_shop;HMS MGB 312
+uk_fairmile_c_0;"<color=#81c3fc>Woodnutt & Co.</color>
+<color=#fffa62>Fairmile Type C-class</color>
+HMS MGB 312"
+uk_fairmile_c_1;HMS MGB 312
+uk_fairmile_c_2;Motor Gun Boat
+
+uk_fairmile_c_332_shop;HMS MGB 332
+uk_fairmile_c_332_0;"<color=#81c3fc>James A. Silver</color>
+<color=#fffa62>Fairmile Type C-class</color>
+HMS MGB 332"
+uk_fairmile_c_332_1;HMS MGB 332
+uk_fairmile_c_332_2;Motor Gun Boat
+
+uk_fairmile_d_697_800_shop;HMS MTB 697
+uk_fairmile_d_697_800_0;"<color=#81c3fc>Woodnutt & Co.</color>
+<color=#fffa62>Fairmile Type D-class</color>
+HMS MTB 697"
+uk_fairmile_d_697_800_1;HMS MTB 697
+uk_fairmile_d_697_800_2;Motor Torpedo Boat
+
+uk_fairmile_d_601_616_shop;HMS MGB 601
+uk_fairmile_d_601_616_0;"<color=#81c3fc>Tough Bros</color>
+<color=#fffa62>Fairmile Type D-class</color>
+HMS MGB 601"
+uk_fairmile_d_601_616_1;HMS MGB 601
+uk_fairmile_d_601_616_2;Motor Gun Boat
+
+uk_fairmile_d_617_632_shop;HMS MGB 617
+uk_fairmile_d_617_632_0;"<color=#81c3fc>William Osbourne</color>
+<color=#fffa62>Fairmile Type D-class</color>
+HMS MGB 617"
+uk_fairmile_d_617_632_1;HMS MGB 617
+uk_fairmile_d_617_632_2;Motor Torpedo Boat
+
+uk_fairmile_d_5001_5029_shop;HMS MTB 5001
+uk_fairmile_d_5001_5029_0;"<color=#81c3fc>Woodnutt & Co.</color>
+<color=#fffa62>Fairmile Type D-class</color>
+HMS MTB 5001"
+uk_fairmile_d_5001_5029_1;HMS MTB 5001
+uk_fairmile_d_5001_5029_2;Motor Torpedo Boat
+
+uk_fairmile_lcs_l_h_mk2_shop;HMS LCS(L)(2) 257
+uk_fairmile_lcs_l_h_mk2_0;"<color=#81c3fc>Austins of East Ham</color>
+<color=#fffa62>Fairmile Type H-class</color>
+HMS LCS(L)(2) 257"
+uk_fairmile_lcs_l_h_mk2_1;HMS LCS(L)(2) 257
+uk_fairmile_lcs_l_h_mk2_2;Motor Gun Boat
+
+uk_70ft_mgb_shop;HMS MGB 61
+uk_70ft_mgb_0;"<color=#81c3fc>British Power Boat Co.</color>
+<color=#fffa62>BPB 70 ft-class</color>
+HMS MGB 61"
+uk_70ft_mgb_1;HMS MGB 61
+uk_70ft_mgb_2;Motor Gun Boat
+
+uk_hdml_ml1383_shop;HMS HDML 1383
+uk_hdml_ml1383_0;"<color=#81c3fc>Anderson Rigden & Perkins</color>
+<color=#fffa62>HDML-class</color>
+HMS HDML 1383"
+uk_hdml_ml1383_1;HMS HDML 1383
+uk_hdml_ml1383_2;Harbour Defence Motor Launch
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+uk_73ft_vosper_type1_shop;HMS MTB 379
+uk_73ft_vosper_type1_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Vosper 73 ft-class</color>
+HMS MTB 379"
+uk_73ft_vosper_type1_1;HMS MTB 379
+uk_73ft_vosper_type1_2;Motor Torpedo Boat
+
+uk_dark_class_shop;HMS Dark Adventurer (P 1101)
+uk_dark_class_0;"<color=#81c3fc>Saunders-Roe</color>
+<color=#fffa62>Dark-class</color>
+HMS Dark Adventurer (P 1101)"
+uk_dark_class_1;HMS Dark Adventurer
+uk_dark_class_2;Motor Gun Boat
+
+uk_dark_class_mtb_shop;HMS Dark Aggressor (P 1102)
+uk_dark_class_mtb_0;"<color=#81c3fc>Saunders-Roe</color>
+<color=#fffa62>Dark-class</color>
+HMS Dark Aggressor (P 1102)"
+uk_dark_class_mtb_1;HMS Dark Aggressor
+uk_dark_class_mtb_2;Motor Gun Boat
+
+uk_dark_class_mtb_td_shop;⋦ HMS Dark Aggressor (P 1102)
+uk_dark_class_mtb_td_0;"<color=#81c3fc>Saunders-Roe</color>
+<color=#fffa62>Dark-class</color>
+⋦ HMS Dark Aggressor (P 1102)"
+uk_dark_class_mtb_td_1;⋦ HMS Dark Aggressor
+uk_dark_class_mtb_td_2;Motor Torpedo Boat
+
+uk_isles_class_trawler_shop;HMS Orsay (J 450)
+uk_isles_class_trawler_0;"<color=#81c3fc>Cochrane & Sons</color>
+<color=#fffa62>Isles-class</color>
+HMS Orsay (J 450)
+<color=#adadad>(Gun, Q.F., 4-inch, Mk. V)</color>"
+uk_isles_class_trawler_1;HMS Orsay
+uk_isles_class_trawler_2;Danlayer
+
+uk_flower_class_shop;HMCS Brantford (K 218)
+uk_flower_class_0;"<color=#81c3fc>Midland Shipyards <color=@commonTextColor>/</color> Cockatoo Island Dockyard</color>
+<color=#fffa62>Flower-class</color>
+HMCS Brantford (K 218)
+<color=#adadad>(1944)</color>"
+uk_flower_class_1;HMCS Brantford
+uk_flower_class_2;Corvette
+
+uk_71ft_mgb_shop;HMS MGB 75
+uk_71ft_mgb_0;"<color=#81c3fc>British Power Boat Co.</color>
+<color=#fffa62>BPB 72 ft-class</color>
+HMS MGB 75"
+uk_71ft_mgb_1;HMS MGB 75
+uk_71ft_mgb_2;Motor Gun Boat
+
+uk_71ft_mtb460_shop;HMS MTB 460
+uk_71ft_mtb460_0;"<color=#81c3fc>British Power Boat Co.</color>
+<color=#fffa62>BPB 72 ft-class</color>
+HMS MTB 460"
+uk_71ft_mtb460_1;HMS MTB 460
+uk_71ft_mtb460_2;Motor Torpedo Boat
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+uk_gay_class_archer_shop;HMS Gay Archer (P 1041)
+uk_gay_class_archer_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Gay-class</color>
+HMS Gay Archer (P 1041)"
+uk_gay_class_archer_1;HMS Gay Archer
+uk_gay_class_archer_2;Motor Torpedo Boat
+
+uk_sgb_309_shop;HMS Grey Goose (S 309)
+uk_sgb_309_0;"<color=#81c3fc>J. Samuel White & Co.</color>
+<color=#fffa62>SGB-class</color>
+HMS Grey Goose (S 309)"
+uk_sgb_309_1;HMS Grey Goose
+uk_sgb_309_2;Steam Gun Boat
+
+uk_sgb_304_shop;HMS Grey Fox (S 304)
+uk_sgb_304_0;"<color=#81c3fc>Yarrow & Co.</color>
+<color=#fffa62>SGB-class</color>
+HMS Grey Fox (S 304)"
+uk_sgb_304_1;HMS Grey Fox
+uk_sgb_304_2;Steam Gun Boat
+
+uk_higgins_78ft_mtb422_shop;HMS MTB 422
+uk_higgins_78ft_mtb422_0;"<color=#81c3fc>Higgins Industies</color>
+<color=#fffa62>Higgins 78'-class</color>
+HMS MTB 422"
+uk_higgins_78ft_mtb422_1;HMS MTB 422
+uk_higgins_78ft_mtb422_2;Motor Torpedo Boat
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+uk_attack_class_arrow_shop;HMAS Arrow (P 88)
+uk_attack_class_arrow_0;"<color=#81c3fc>John Walker & Co.</color>
+<color=#fffa62>Attack-class</color>
+HMAS Arrow (P 88)"
+uk_attack_class_arrow_1;HMAS Arrow
+uk_attack_class_arrow_2;Patrol Boat
+
+uk_fremantle_class_shop;HMAS Fremantle (FCPB 203)
+uk_fremantle_class_0;"<color=#81c3fc>Brooke Marine</color>
+<color=#fffa62>Fremantle-class</color>
+HMAS Fremantle (FCPB 203)"
+uk_fremantle_class_1;HMAS Fremantle
+uk_fremantle_class_2;Patrol Boat
+
+uk_corvette_orla_shop;L.É. Orla (P 41)
+uk_corvette_orla_0;"<color=#81c3fc>Hall, Russell & Co. <color=@commonTextColor>/</color> Cork Dockyard</color>
+<color=#fffa62>Peacock-class</color>
+L.É. Orla (P 41)
+<color=#adadad>(2008)</color>"
+uk_corvette_orla_1;L.É. Orla
+uk_corvette_orla_2;Corvette
+
+uk_corvette_peacock_shop;HMS Peacock (P 239)
+uk_corvette_peacock_0;"<color=#81c3fc>Hall, Russell & Co.</color>
+<color=#fffa62>Peacock-class</color>
+HMS Peacock (P 239)"
+uk_corvette_peacock_1;HMS Peacock
+uk_corvette_peacock_2;Corvette
+
+uk_frigate_whitby_shop;HMS Whitby (F 36)
+uk_frigate_whitby_0;"<color=#81c3fc>Cammell Laird & Co.</color>
+<color=#fffa62>Whitby-class</color>
+HMS Whitby (F 36)"
+uk_frigate_whitby_1;HMS Whitby
+uk_frigate_whitby_2;Anti-Submarine Frigate
+
+uk_frigate_whitby_blackpool_shop;HMS Blackpool (F 77)
+uk_frigate_whitby_blackpool_0;"<color=#81c3fc>Harland & Wolff Group Holdings</color>
+<color=#fffa62>Whitby-class</color>
+HMS Blackpool (F 77)"
+uk_frigate_whitby_blackpool_1;HMS Blackpool
+uk_frigate_whitby_blackpool_2;Anti-Submarine Frigate
+
+uk_frigate_river_shop;HMS Spey (K 246)
+uk_frigate_river_0;"<color=#81c3fc>Smiths Dock Co. <color=@commonTextColor>/</color> Sri Lanka Navy Dockyard</color>
+<color=#fffa62>River-class</color>
+HMS Spey (K 246)
+<color=#adadad>(1944)</color>"
+uk_frigate_river_1;HMS Spey
+uk_frigate_river_2;Frigate
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+uk_brave_borderer_shop;HMS Brave Borderer (P 1011)
+uk_brave_borderer_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Brave-class</color>
+HMS Brave Borderer (P 1011)"
+uk_brave_borderer_1;HMS Brave Borderer
+uk_brave_borderer_2;Motor Torpedo Boat
+
+uk_destroyer_restigouche_class_terranova_shop;HMCS Terra Nova (DDE 259)
+uk_destroyer_restigouche_class_terranova_0;"<color=#81c3fc>Victoria Machinery Depot</color>
+<color=#fffa62>Restigouche-class</color>
+HMCS Terra Nova (DDE 259)"
+uk_destroyer_restigouche_class_terranova_1;HMCS Terra Nova
+uk_destroyer_restigouche_class_terranova_2;Destroyer Escort
+
+uk_frigate_leopard_shop;HMS Leopard (F 14)
+uk_frigate_leopard_0;"<color=#81c3fc>Portsmouth Royal Dockyard</color>
+<color=#fffa62>Leopard-class</color>
+HMS Leopard (F 14)"
+uk_frigate_leopard_1;HMS Leopard
+uk_frigate_leopard_2;Anti-Aircraft Frigate
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 

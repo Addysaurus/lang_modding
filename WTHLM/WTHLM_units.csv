@@ -924,13 +924,6 @@ ussr_locomotive_e_1298_shop;Locomotive
 ussr_locomotive_e_1298_0;Locomotive
 ussr_locomotive_e_1298_1;Locomotive
 ussr_locomotive_e_1298_2;Locomotive
-uk_cruiser_enterprise_d52_shop;HMS Enterprise (D 52)
-uk_cruiser_enterprise_d52_0;John Brown & Co. / Devonport Royal Dockyard | Emerald-class | HMS Enterprise (D 52) (1944)
-uk_cruiser_enterprise_d52_1;HMS Enterprise
-uk_cruiser_enterprise_d52_2;Light Cruiser
-uk_cruiser_enterprise_d52_EC_0;John Brown & Co. / Devonport Royal Dockyard | Emerald-class | HMS Enterprise (D 52) (1944)
-uk_cruiser_enterprise_d52_EC_1;HMS Enterprise
-uk_cruiser_enterprise_d52_EC_2;Light Cruiser
 structures/germ_380mm_skc34_0;Battleship artillery
 structures/germ_380mm_skc34_1;Battleship artillery
 structures/germ_380mm_skc34_2;Battleship artillery
@@ -1526,7 +1519,7 @@ shop/group/f_111c_tornado_group;▄ F-111C / Tornado G.R. Mk. 1
 shop/group/fa_18a_raaf_group;▄ F/A-18A / A (HUG 2.4)
 shop/group/uk_destroyer_battle_group;HMS Armada / HMAS Tobruk
 shop/group/uk_destroyer_daring_group;HMS Diana / Daring
-shop/group/uk_cruiser_kent_norfolk_group;HMS Kent / Norfolk
+shop/group/uk_cruiser_kent_norfolk_group;HMS Kent / Norfolk / London
 
 shop/group/jp_ro_ni_group;Ho Ro / Ni II
 shop/group/jp_type_60_group;60SP / APC (ATM-1)
@@ -2136,7 +2129,7 @@ ucav_wing_loong_i_2;GJ1
 
 //SHIP-LAUNCHED FLOATPLANES
 sc_1_shop;SC-1
-sc_1_0;Curtiss-Wright Corporation | SC-1 Seahawk
+sc_1_0;Curtiss-Wright Corporation Model 97B | SC-1 Seahawk
 sc_1_1;SC-1
 sc_1_2;SC-1
 
@@ -2850,15 +2843,15 @@ nt_b_52h_2;☢ B-52
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 f-5e_shop;F-5E-3-NO
-f-5e_0;Northrop | F-5E-3-NO Tiger II
+f-5e_0;Northrop Corporation F-5-21 | F-5E-3-NO Tiger II
 f-5e_1;F-5E
 f-5e_2;F-5
 f-5c_shop;F-5C-NO
-f-5c_0;Northrop | F-5C-NO Skoshi Tiger
+f-5c_0;Northrop Corporation N-156F | F-5C-NO Skoshi Tiger
 f-5c_1;F-5C
 f-5c_2;F-5
 f-5a_shop;YF-5A-NO
-f-5a_0;Northrop | YF-5A-NO Freedom Fighter
+f-5a_0;Northrop Corporation N-156F | YF-5A-NO Freedom Fighter
 f-5a_1;YF-5A-NO
 f-5a_2;YF-5
 f-4c_shop;F-4C-24-MC
@@ -2902,7 +2895,7 @@ a_7k_0;Vought Corporation | A-7K-CV Corsair II
 a_7k_1;A-7K
 a_7k_2;A-7
 f-105d_shop;F-105D-31-RE
-f-105d_0;F-105D-31-RE Thunderchief
+f-105d_0;Republic Aviation Corporation AP-63-31 | F-105D-31-RE Thunderchief
 f-105d_1;F-105D
 f-105d_2;F-105
 f_111a_shop;F-111A
@@ -3214,13 +3207,13 @@ us_m4a2_76w_sherman_0;G-104 | Tank, Medium, M4A2 (76) W Sherman
 us_m4a2_76w_sherman_1;M4A2
 us_m4a2_76w_sherman_2;Medium Tank
 us_m4a3e8_76w_sherman_shop;M4A3E8(76)W
-us_m4a3e8_76w_sherman_0;United States Army Ordnance Department | G-104 | G-104 | Tank, Medium, M4A3E8(76)W Sherman
+us_m4a3e8_76w_sherman_0;United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman
 us_m4a3e8_76w_sherman_1;M4A3E8
 us_m4a3e8_76w_sherman_2;Medium Tank
 us_m4a3e2_sherman_jumbo_shop;M4A3E2 (75) W
 us_m4a3e2_sherman_jumbo_0;"G-104 | Tank, Medium, M4A3E2 (75)  Sherman ""Jumbo"""
 us_m4a3e2_sherman_jumbo_1;M4A3E2
-us_m4a3e2_sherman_jumbo_2;Assault tank
+us_m4a3e2_sherman_jumbo_2;Assault Tank
 us_m4a3e8_76w_sherman_kit_3rank_shop;"M4A3E8(76)W ""Hell on Wheels"""
 us_m4a3e8_76w_sherman_kit_3rank_0;"United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman ""Hell on Wheels"""
 us_m4a3e8_76w_sherman_kit_3rank_1;M4A3E8
@@ -3232,7 +3225,7 @@ us_m4_t26_2;Medium Tank
 us_m4a3e2_76w_sherman_jumbo_shop;M4A3E2 (76) W
 us_m4a3e2_76w_sherman_jumbo_0;"G-104 | Tank, Medium, M4A3E2 (76) W Sherman ""Jumbo"""
 us_m4a3e2_76w_sherman_jumbo_1;M4A3E2 (76) W
-us_m4a3e2_76w_sherman_jumbo_2;Assault tank
+us_m4a3e2_76w_sherman_jumbo_2;Assault Tank
 us_m4a5_ram_2_shop;"▃ Ram, Mk. II ""B"""
 us_m4a5_ram_2_0;"▃ Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. II ""B"""
 us_m4a5_ram_2_1;▃ Ram, Mk. II
@@ -3248,7 +3241,7 @@ us_m4_sherman_calliope_2;Medium Tank
 us_m4a3e2_sherman_jumbo_cobra_king_shop;M4A3E2 (75) W (37th T.Bat.)
 us_m4a3e2_sherman_jumbo_cobra_king_0;"G-104 | Tank, Medium, M4A3E2 (75) W Sherman (37th Tank Battalion) ""Jumbo"" ""Cobra King"""
 us_m4a3e2_sherman_jumbo_cobra_king_1;M4A3E2
-us_m4a3e2_sherman_jumbo_cobra_king_2;Assault tank
+us_m4a3e2_sherman_jumbo_cobra_king_2;Assault Tank
 us_m4a2_76w_sherman_tutorial_shop;M4A2 (76) W
 us_m4a2_76w_sherman_tutorial_0;G-104 | Tank, Medium, M4A2 (76) W Sherman
 us_m4a2_76w_sherman_tutorial_1;M4A2
@@ -3268,7 +3261,7 @@ us_t77e1_2;SPAA
 us_m10_shop;M10 GMC
 us_m10_0;G-130 | Carriage, Motor, 3-inch Gun, M10
 us_m10_1;M10
-us_m10_2;TD
+us_m10_2;Tank Destroyer
 us_t18_e2_shop;T18E2 HAC
 us_t18_e2_0;"G-133 | Car, Armored, Heavy, T18E2 ""Boarhound"""
 us_t18_e2_1;T18E2
@@ -3330,15 +3323,15 @@ us_m55_2;SPH
 us_m36_shop;M36 GMC
 us_m36_0;"G-210 | Carriage, Motor, 90mm Gun, M36 ""Jackson"""
 us_m36_1;M36
-us_m36_2;TD
+us_m36_2;Tank Destroyer
 us_m36b2_shop;M36B2 GMC
 us_m36b2_0;"G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
 us_m36b2_1;M36B2
-us_m36b2_2;TD
+us_m36b2_2;Tank Destroyer
 us_t14_shop;T14
 us_t14_0;Tank, Assault, T14
 us_t14_1;T14
-us_t14_2;Assault tank
+us_t14_2;Assault Tank
 us_skink_aa_kit_3rank_shop;"▃ Skink ""Hell on Wheels"""
 us_skink_aa_kit_3rank_0;"▃ Canadian Ministry of Munitions and Supply, Army Engineering Design Branch + Waterloo Manufacturing Company | Tank, Anti-Aircraft, 20mm, Quad, Skink ""Hell on Wheels"""
 us_skink_aa_kit_3rank_1;▃ Skink
@@ -3396,7 +3389,7 @@ us_m46_patton_73_armor_bat_2;Medium Tank
 us_t26e5_shop;T26E5
 us_t26e5_0;G-198 | Tank, Heavy, T26E5
 us_t26e5_1;T26E5
-us_t26e5_2;Assault tank
+us_t26e5_2;Assault Tank
 us_t26e4_superpershing_shop;T26E4-1
 us_t26e4_superpershing_0;"Heavy Tank T26E4-1 ""Super Pershing"""
 us_t26e4_superpershing_1;T26E4
@@ -6040,32 +6033,256 @@ uk_frigate_leopard_1;HMS Leopard
 uk_frigate_leopard_2;Anti-Aircraft Frigate
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+uk_destroyer_v_class_vega_shop;HMS Vega (L 41)
+uk_destroyer_v_class_vega_0;William Doxford & Sons / Chatham Royal Dockyard | Admiralty V-class | HMS Vega (L 41) (1939)
+uk_destroyer_v_class_vega_1;HMS Vega
+uk_destroyer_v_class_vega_2;Destroyer
+uk_destroyer_v_class_verdun_shop;HMS Verdun (L 93)
+uk_destroyer_v_class_verdun_0;R. & W. Hawthorn, Leslie & Co. / Chatham Royal Dockyard | Admiralty V-class | HMS Verdun (L 93) (1940)
+uk_destroyer_v_class_verdun_1;HMS Verdun
+uk_destroyer_v_class_verdun_2;Destroyer
+uk_destroyer_v_class_valhalla_shop;HMS Valhalla (D 44)
+uk_destroyer_v_class_valhalla_0;Cammell Laird & Co. / Port Edgar | Admiralty V-class | HMS Valhalla (D 44) (1923)
+uk_destroyer_v_class_valhalla_1;HMS Valhalla
+uk_destroyer_v_class_valhalla_2;Destroyer
+uk_destroyer_hunt_2series_shop;HMS Calpe (L 71)
+uk_destroyer_hunt_2series_0;Swan Hunter & Wigham Richardson / Malta Dockyard | Type II Hunt-class | HMS Calpe (L 71) (1945)
+uk_destroyer_hunt_2series_1;HMS Calpe
+uk_destroyer_hunt_2series_2;Destroyer
+uk_destroyer_hunt_4series_shop;HMS Brissenden (L 79)
+uk_destroyer_hunt_4series_0;John I. Thornycroft & Co. / Pembroke Dockyard | Type IV Hunt-class | HMS Brissenden (L 79) (1945)
+uk_destroyer_hunt_4series_1;HMS Brissenden
+uk_destroyer_hunt_4series_2;Destroyer
+uk_destroyer_g_grafton_shop;HMS Grafton (H 89)
+uk_destroyer_g_grafton_0;John I. Thornycroft & Co. | G-class | HMS Grafton (H 89)
+uk_destroyer_g_grafton_1;HMS Grafton
+uk_destroyer_g_grafton_2;Destroyer
+uk_destroyer_g_grafton_EC_0;G-class | HMS Grafton (H 89)
+uk_destroyer_g_grafton_EC_1;HMS Grafton
+uk_destroyer_g_grafton_EC_2;Destroyer
 uk_destroyer_st_class_saumarez_shop;HMS Saumarez (G 12)
 uk_destroyer_st_class_saumarez_0;R. & W. Hawthorn, Leslie & Co. / HMS Proserpine | S-class | HMS Saumarez (G 12) (1944)
 uk_destroyer_st_class_saumarez_1;HMS Saumarez
 uk_destroyer_st_class_saumarez_2;Destroyer
+uk_destroyer_clemson_churchill_shop;HMS Churchill (I 45)
+uk_destroyer_clemson_churchill_0;Newport News Shipbuilding and Dry Dock Co. / Charleston Naval Shipyard | Town-class | HMS Churchill (I 45) (1943)
+uk_destroyer_clemson_churchill_1;HMS Churchill
+uk_destroyer_clemson_churchill_2;Destroyer
+uk_destroyer_clemson_churchill_EC_0;Town-class | HMS Churchill (I 45) (1943)
+uk_destroyer_clemson_churchill_EC_1;HMS Churchill
+uk_destroyer_clemson_churchill_EC_2;Destroyer
+uk_destroyer_clemson_montgomery_g95_shop;HMS Montgomery (G 95)
+uk_destroyer_clemson_montgomery_g95_0;Bath Iron Works / Barrow-in-Furness | Town-class | HMS Montgomery (G 95) (1941)
+uk_destroyer_clemson_montgomery_g95_1;HMS Montgomery
+uk_destroyer_clemson_montgomery_g95_2;Destroyer
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+uk_destroyer_tribal_shop;HMS Eskimo (G 75)
+uk_destroyer_tribal_0;Vickers-Armstrongs / Barrow-in-Furness | Tribal-class | HMS Eskimo (G 75) (1940)
+uk_destroyer_tribal_1;HMS Eskimo
+uk_destroyer_tribal_2;Destroyer
+uk_destroyer_tribal_EC_0;Tribal-class | HMS Eskimo (G 75) (1940)
+uk_destroyer_tribal_EC_1;HMS Eskimo
+uk_destroyer_tribal_EC_2;Destroyer
+uk_destroyer_n_class_shop;HMAS Nepal (G 25)
+uk_destroyer_n_class_0;John I. Thornycroft & Co. / HMAS Kuttabul | N-class | HMAS Nepal (G 25) (1943)
+uk_destroyer_n_class_1;HMAS Nepal
+uk_destroyer_n_class_2;Destroyer
+uk_destroyer_n_class_EC_0;N-class | HMAS Nepal (G 25) (1943)
+uk_destroyer_n_class_EC_1;HMAS Nepal
+uk_destroyer_n_class_EC_2;Destroyer
+uk_destroyer_k_class_shop;HMS Kelvin (F 37)
+uk_destroyer_k_class_0;Fairfield Shipbuilding & Engineering Co. | K-class | HMS Kelvin (F 37)
+uk_destroyer_k_class_1;HMS Kelvin
+uk_destroyer_k_class_2;Destroyer
+uk_minelayer_abdiel_class_abdiel_shop;HMS Abdiel (M 39)
+uk_minelayer_abdiel_class_abdiel_0;J. Samuel White & Co. / Palmers Shipyard | Abdiel-class | HMS Abdiel (M 39) (1942)
+uk_minelayer_abdiel_class_abdiel_1;HMS Abdiel
+uk_minelayer_abdiel_class_abdiel_2;Minelayer
+uk_destroyer_j_class_shop;HMS Jervis (G 00)
+uk_destroyer_j_class_0;R. & W. Hawthorn, Leslie & Co. / Belfast Dry Dock | J-class | HMS Jervis (G 00) (1945)
+uk_destroyer_j_class_1;HMS Jervis
+uk_destroyer_j_class_2;Destroyer
+uk_destroyer_tribal_mohawk_shop;HMS Mohawk (L 31)
+uk_destroyer_tribal_mohawk_0;John I. Thornycroft & Co. | Tribal-class | HMS Mohawk (L 31)
+uk_destroyer_tribal_mohawk_1;HMS Mohawk
+uk_destroyer_tribal_mohawk_2;Destroyer
+uk_destroyer_g_garland_shop;ORP Garland (H 37)
+uk_destroyer_g_garland_0;Fairfield Shipbuilding & Engineering Co. / Smiths Dockyard | G-class | ORP Garland (H 37) (1942)
+uk_destroyer_g_garland_1;ORP Garland
+uk_destroyer_g_garland_2;Destroyer
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+uk_destroyer_battle_2series_shop;HMS Armada (R 14)
+uk_destroyer_battle_2series_0;R. & W. Hawthorn, Leslie & Co. | Battle-class | HMS Armada (R 14)
+uk_destroyer_battle_2series_1;HMS Armada
+uk_destroyer_battle_2series_2;Destroyer
+uk_destroyer_battle_tobruk_shop;HMAS Tobruk (D 37)
+uk_destroyer_battle_tobruk_0;Cockatoo Docks and Engineering Co. | Battle-class | HMAS Tobruk (D 37)
+uk_destroyer_battle_tobruk_1;HMAS Tobruk
+uk_destroyer_battle_tobruk_2;Destroyer
+uk_cruiser_arethusa_shop;HMS Arethusa (26)
+uk_cruiser_arethusa_0;Chatham Royal Dockyard / Charleston Naval Shipyard | Arethusa-class | HMS Arethusa (26) (1943)
+uk_cruiser_arethusa_1;HMS Arethusa (26)
+uk_cruiser_arethusa_2;Light Cruiser
+uk_cruiser_arethusa_EC_0;Arethusa-class | HMS Arethusa (26) (1943)
+uk_cruiser_arethusa_EC_1;Arethusa
+uk_cruiser_arethusa_EC_2;Light Cruiser
+uk_destroyer_daring_class_diana_shop;HMS Diana (D 126)
+uk_destroyer_daring_class_diana_0;Yarrow & Co. | Daring-class | HMS Diana (D 126) (1959)
+uk_destroyer_daring_class_diana_1;HMS Diana
+uk_destroyer_daring_class_diana_2;Destroyer
+uk_destroyer_daring_class_daring_shop;HMS Daring (D 05)
+uk_destroyer_daring_class_daring_0;Swan Hunter & Wigham Richardson | Daring-class | HMS Daring (D 05)
+uk_destroyer_daring_class_daring_1;HMS Daring
+uk_destroyer_daring_class_daring_2;Destroyer
+uk_destroyer_daring_class_diamond_shop;HMS Diamond (D 35)
+uk_destroyer_daring_class_diamond_0;John Brown & Co. | Daring-class | HMS Diamond (D 35)
+uk_destroyer_daring_class_diamond_1;HMS Diamond
+uk_destroyer_daring_class_diamond_2;Destroyer
+uk_cruiser_enterprise_d52_shop;HMS Enterprise (D 52)
+uk_cruiser_enterprise_d52_0;John Brown & Co. / Devonport Royal Dockyard | Emerald-class | HMS Enterprise (D 52) (1944)
+uk_cruiser_enterprise_d52_1;HMS Enterprise
+uk_cruiser_enterprise_d52_2;Light Cruiser
+uk_cruiser_enterprise_d52_EC_0;Emerald-class | HMS Enterprise (D 52) (1944)
+uk_cruiser_enterprise_d52_EC_1;HMS Enterprise
+uk_cruiser_enterprise_d52_EC_2;Light Cruiser
+uk_cruiser_hawkins_shop;HMS Hawkins (D 86)
+uk_cruiser_hawkins_0;Chatham Royal Dockyard / Portsmouth Royal Dockyard | Hawkins-class | HMS Hawkins (D 86) (1942)
+uk_cruiser_hawkins_1;HMS Hawkins
+uk_cruiser_hawkins_2;Heavy Cruiser
+uk_destroyer_haida_shop;HMCS Haida (G 63)
+uk_destroyer_haida_0;Vickers-Armstrongs | Tribal-class | HMCS Haida (G 63)
+uk_destroyer_haida_1;HMCS Haida
+uk_destroyer_haida_2;Destroyer
+uk_destroyer_battle_cadiz_shop;HMS Cadiz (D 79)
+uk_destroyer_battle_cadiz_0;Fairfield Shipbuilding & Engineering Co. | Battle-class | HMS Cadiz (D 79)
+uk_destroyer_battle_cadiz_1;HMS Cadiz
+uk_destroyer_battle_cadiz_2;Destroyer
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+uk_cruiser_leander_shop;HMNZS Leander (75)
+uk_cruiser_leander_0;Vickers-Armstrongs / Auckland Dockyard | Leander-class | HMNZS Leander (75) (1941)
+uk_cruiser_leander_1;HMNZS Leander
+uk_cruiser_leander_2;Light Cruiser
+uk_cruiser_leander_EC_0;Leander-class | HMNZS Leander (75) (1941)
+uk_cruiser_leander_EC_1;HMNZS Leander
+uk_cruiser_leander_EC_2;Light Cruiser
+uk_cruiser_fiji_class_fiji_shop;HMS Fiji (58)
+uk_cruiser_fiji_class_fiji_0;John Brown & Co. / Clydebank Shipyard | Colony-class | HMS Fiji (58) (1941)
+uk_cruiser_fiji_class_fiji_1;HMS Fiji
+uk_cruiser_fiji_class_fiji_2;Light Cruiser
+uk_cruiser_southampton_shop;HMS Southampton (C 83)
+uk_cruiser_southampton_0;John Brown & Co. / Tyne Shipyard | Town-class | HMS Southampton (C 83) (1940)
+uk_cruiser_southampton_1;HMS Southampton
+uk_cruiser_southampton_2;Light Cruiser
+uk_cruiser_liverpool_shop;HMS Liverpool (C 11)
+uk_cruiser_liverpool_0;Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | Town-class | HMS Liverpool (C 11) (1944)
+uk_cruiser_liverpool_1;HMS Liverpool
+uk_cruiser_liverpool_2;Light Cruiser
+uk_cruiser_belfast_shop;HMS Belfast (C 35)
+uk_cruiser_belfast_0;Harland & Wolff Group Holdings / Devonport Royal Dockyard | Town-class | HMS Belfast (C 35) (1959)
+uk_cruiser_belfast_1;HMS Belfast
+uk_cruiser_belfast_2;Light Cruiser
+uk_cruiser_dido_shop;HMS Dido (37)
+uk_cruiser_dido_0;Cammell Laird & Co. / Brooklyn Navy Yard | Dido-class | HMS Dido (37) (1941)
+uk_cruiser_dido_1;HMS Dido
+uk_cruiser_dido_2;Light Cruiser
+uk_cruiser_dido_EC_0;Dido-class | HMS Dido (37) (1941)
+uk_cruiser_dido_EC_1;HMS Dido
+uk_cruiser_dido_EC_2;Light Cruiser
+uk_cruiser_york_shop;HMS York (90)
+uk_cruiser_york_0;Palmers Shipbuilding and Iron Co. / Royal Albery Dockyard | York-class | HMS York (90) (1940)
+uk_cruiser_york_1;HMS York
+uk_cruiser_york_2;Heavy Cruiser
+uk_cruiser_kent_shop;HMS Kent (54)
+uk_cruiser_kent_0;Chatham Royal Dockyard | County-class | HMS Kent (54) (1934)
+uk_cruiser_kent_1;HMS Kent
+uk_cruiser_kent_2;Heavy Cruiser
+uk_cruiser_norfolk_shop;HMS Norfolk (78)
+uk_cruiser_norfolk_0;Fairfield Shipbuilding & Engineering Co. / Portsmouth Royal Dockyard | County-class | HMS Norfolk (78) (1943)
+uk_cruiser_norfolk_1;HMS Norfolk
+uk_cruiser_norfolk_2;Heavy Cruiser
+uk_cruiser_london_shop;HMS London (69)
+uk_cruiser_london_0;Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | County-class | HMS London (69) (1944)
+uk_cruiser_london_1;HMS London
+uk_cruiser_london_2;Heavy Cruiser
+uk_battlecruiser_invincible_shop;HMS Invincible (85)
+uk_battlecruiser_invincible_0;Sir W G Armstrong Whitworth & Co. / Devonport Royal Dockyard | Invincible-class | HMS Invincible (85) (1914)
+uk_battlecruiser_invincible_1;HMS Invincible
+uk_battlecruiser_invincible_2;Battlecruiser
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+uk_battleship_dreadnought_shop;HMS Dreadnought (00)
+uk_battleship_dreadnought_0;Portsmouth Royal Dockyard | Dreadnought-class | HMS Dreadnought (00) (1917)
+uk_battleship_dreadnought_1;HMS Dreadnought
+uk_battleship_dreadnought_2;Dreadnought
+uk_battleship_orion_shop;HMS Orion (52)
+uk_battleship_orion_0;Portsmouth Royal Dockyard | Orion-class | HMS Orion (52)
+uk_battleship_orion_1;HMS Orion
+uk_battleship_orion_2;Super Dreadnought
+uk_battleship_colossus_shop;HMS Colossus (93)
+uk_battleship_colossus_0;Scotts Shipbuilding & Engineering Co. | Colossus-class | HMS Colossus (93) (1917)
+uk_battleship_colossus_1;HMS Colossus
+uk_battleship_colossus_2;Dreadnought
+uk_battleship_centurion_shop;HMS Centurion (12)
+uk_battleship_centurion_0;Devonport Royal Dockyard | King George V-class | HMS Centurion (12)
+uk_battleship_centurion_1;HMS Centurion
+uk_battleship_centurion_2;Dreadnought
+uk_battlecruiser_glorious_shop;HMS Glorious (77)
+uk_battlecruiser_glorious_0;Harland & Wolff Group Holdings | Courageous-Class | HMS Glorious (77) (1917)
+uk_battlecruiser_glorious_1;HMS Glorious
+uk_battlecruiser_glorious_2;Battlecruiser
+uk_battlecruiser_queen_mary_shop;HMS Queen Mary (14)
+uk_battlecruiser_queen_mary_0;Palmers Shipbuilding and Iron Co. | Queen Mary-class | HMS Queen Mary (14)
+uk_battlecruiser_queen_mary_1;HMS Queen Mary
+uk_battlecruiser_queen_mary_2;Battlecruiser
+uk_battleship_iron_duke_shop;HMS Iron Duke (18)
+uk_battleship_iron_duke_0;Portsmouth Royal Dockyard | Iron Duke-class | HMS Iron Duke (18) (1929)
+uk_battleship_iron_duke_1;HMS Iron Duke
+uk_battleship_iron_duke_2;Dreadnought
+uk_battlecruiser_renown_shop;HMS Renown (72)
+uk_battlecruiser_renown_0;Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | Renown-class | HMS Renown (72) (1943)
+uk_battlecruiser_renown_1;HMS Renown
+uk_battlecruiser_renown_2;Battlecruiser
+uk_battlecruiser_repulse_shop;HMS Repulse (34)
+uk_battlecruiser_repulse_0;John Brown & Co. / Rosyth Dockyard | Renown-class | HMS Repulse (34) (1941)
+uk_battlecruiser_repulse_1;HMS Repulse
+uk_battlecruiser_repulse_2;Battlecruiser
+uk_cruiser_tiger_shop;HMS Tiger (C 20)
+uk_cruiser_tiger_0;John Brown & Co. | Tiger-class | HMS Tiger (C 20)
+uk_cruiser_tiger_1;HMS Tiger
+uk_cruiser_tiger_2;Light Cruiser
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+uk_battleship_marlborough_shop;HMS Marlborough (66)
+uk_battleship_marlborough_0;Devonport Royal Dockyard | Iron Duke-class | HMS Marlborough (66) (1929)
+uk_battleship_marlborough_1;HMS Marlborough
+uk_battleship_marlborough_2;Super Dreadnought
 uk_battleship_q_elizabet_class_warspite_shop;HMS Warspite (03)
 uk_battleship_q_elizabet_class_warspite_0;Devonport Royal Dockyard / Naval Station Durban | Queen Elizabeth-class | HMS Warspite (03) (1943)
 uk_battleship_q_elizabet_class_warspite_1;HMS Warspite
-uk_battleship_q_elizabet_class_warspite_2;Super dreadnought
+uk_battleship_q_elizabet_class_warspite_2;Super Dreadnought
+uk_battleship_q_elizabet_class_barham_shop;HMS Barham (97)
+uk_battleship_q_elizabet_class_barham_0;John Brown & Co. / Cromarty Harbour | Queen Elizabeth-class | HMS Barham (97) (1917)
+uk_battleship_q_elizabet_class_barham_1;HMS Barham
+uk_battleship_q_elizabet_class_barham_2;Super Dreadnought
 uk_battleship_rodney_shop;HMS Rodney (29)
 uk_battleship_rodney_0;Cammell Laird & Co. / Rosyth Dockyard | Nelson-class | HMS Rodney (29) (1940)
 uk_battleship_rodney_1;HMS Rodney
 uk_battleship_rodney_2;Battleship
+uk_battleship_nelson_shop;HMS Nelson (28)
+uk_battleship_nelson_0;Vickers-Armstrongs / Philadelphia Navy Yard | Nelson-class | HMS Nelson (28) (1944)
+uk_battleship_nelson_1;HMS Nelson
+uk_battleship_nelson_2;Battleship
 uk_battleship_prince_of_wales_shop;HMS Prince of Wales (53)
 uk_battleship_prince_of_wales_0;Cammell Laird & Co. / Cape Town Dockyard | King George V-class | HMS Prince of Wales (53) (1941)
 uk_battleship_prince_of_wales_1;HMS Prince of Wales
 uk_battleship_prince_of_wales_2;Battleship
+uk_battlecruiser_hood_shop;HMS Hood (51)
+uk_battlecruiser_hood_0;John Brown & Co. / Rosyth Dockyard | Admiral-class | HMS Hood (51) (1941)
+uk_battlecruiser_hood_1;HMS Hood
+uk_battlecruiser_hood_2;Battlecruiser
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 uk_battleship_vanguard_shop;HMS Vanguard (23)
@@ -11164,15 +11381,15 @@ fr_m44_2;SPH
 fr_m36b2_cefeo_shop;☨ M36B2 GMC
 fr_m36b2_cefeo_0;"☨ G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
 fr_m36b2_cefeo_1;☨ M36B2
-fr_m36b2_cefeo_2;TD
+fr_m36b2_cefeo_2;Tank Destroyer
 fr_m10_shop;☨ M10 GMC
 fr_m10_0;☨ G-130 | Carriage, Motor, 3-inch Gun, M10
 fr_m10_1;☨ M10
-fr_m10_2;TD
+fr_m10_2;Tank Destroyer
 fr_m4a3e2_sherman_jumbo_shop;☨ M4A3E2
 fr_m4a3e2_sherman_jumbo_0;☨ Char d'assaut M4A3E2 (75) W
 fr_m4a3e2_sherman_jumbo_1;☨ M4A3E2
-fr_m4a3e2_sherman_jumbo_2;Assault tank
+fr_m4a3e2_sherman_jumbo_2;Assault Tank
 fr_amd_35_shop;AMD 35
 fr_amd_35_0;Automitrailleuse de découverte AMD 35
 fr_amd_35_1;AMD 35
@@ -13458,7 +13675,7 @@ uk_centurion_action_x_2;MBT
 uk_centurion_mk_5_avre_era_shop;Centurion, Mk. 5 AVRE
 uk_centurion_mk_5_avre_era_0;Tank, Assault Vehicle, Royal Engineers, 165mm Gun, Centurion, Mk. 5
 uk_centurion_mk_5_avre_era_1;Centurion, Mk. 5 AVRE
-uk_centurion_mk_5_avre_era_2;Assault tank
+uk_centurion_mk_5_avre_era_2;Assault Tank
 uk_chieftain_marksman_shop;Chieftain Mk. 10 Marksman
 uk_chieftain_marksman_0;Chieftain Mk. 10 Marksman
 uk_chieftain_marksman_1;Chieftain Mk. 10 Marksman
@@ -14035,10 +14252,6 @@ b_48_firecrest_shop;Firecrest (RT651)
 b_48_firecrest_0;Firecrest (RT651)
 b_48_firecrest_1;Firecrest
 b_48_firecrest_2;Firecrest
-uk_destroyer_clemson_montgomery_g95_shop;HMS Montgomery (G 95)
-uk_destroyer_clemson_montgomery_g95_0;Bath Iron Works / Barrow-in-Furness | Town-class | HMS Montgomery (G 95) (1941)
-uk_destroyer_clemson_montgomery_g95_1;HMS Montgomery
-uk_destroyer_clemson_montgomery_g95_2;Destroyer
 uk_adats_m113a3_shop;▄ M113A3 (ADATS)
 uk_adats_m113a3_0;▄ M113A3 (Air Defense Anti-Tank System)
 uk_adats_m113a3_1;▄ M113 (ADATS)
@@ -15127,62 +15340,6 @@ ussr_destroyer_frunze_shop;Frunzye
 ussr_destroyer_frunze_0;Novik-class, Frunzye, 1940
 ussr_destroyer_frunze_1;Frunzye
 ussr_destroyer_frunze_2;Destroyer
-uk_destroyer_haida_shop;HMCS Haida (G 63)
-uk_destroyer_haida_0;Vickers-Armstrongs | Tribal-class | HMCS Haida (G 63)
-uk_destroyer_haida_1;HMCS Haida
-uk_destroyer_haida_2;Destroyer
-uk_destroyer_g_grafton_shop;HMS Grafton (H 89)
-uk_destroyer_g_grafton_0;John I. Thornycroft & Co. | G-class | HMS Grafton (H 89)
-uk_destroyer_g_grafton_1;HMS Grafton
-uk_destroyer_g_grafton_2;Destroyer
-uk_destroyer_g_grafton_EC_0;John I. Thornycroft & Co. | G-class | HMS Grafton (H 89)
-uk_destroyer_g_grafton_EC_1;HMS Grafton
-uk_destroyer_g_grafton_EC_2;Destroyer
-uk_destroyer_tribal_shop;HMS Eskimo (G 75)
-uk_destroyer_tribal_0;Vickers-Armstrongs / Barrow-in-Furness | Tribal-class | HMS Eskimo (G 75) (1940)
-uk_destroyer_tribal_1;HMS Eskimo
-uk_destroyer_tribal_2;Destroyer
-uk_destroyer_tribal_EC_0;Vickers-Armstrongs / Barrow-in-Furness | Tribal-class | HMS Eskimo (G 75) (1940)
-uk_destroyer_tribal_EC_1;HMS Eskimo
-uk_destroyer_tribal_EC_2;Destroyer
-uk_destroyer_clemson_churchill_shop;HMS Churchill (I 45)
-uk_destroyer_clemson_churchill_0;Newport News Shipbuilding and Dry Dock Co. / Charleston Naval Shipyard | Town-class | HMS Churchill (I 45) (1943)
-uk_destroyer_clemson_churchill_1;HMS Churchill
-uk_destroyer_clemson_churchill_2;Destroyer
-uk_destroyer_clemson_churchill_EC_0;Newport News Shipbuilding and Dry Dock Co. / Charleston Naval Shipyard | Town-class | HMS Churchill (I 45) (1943)
-uk_destroyer_clemson_churchill_EC_1;HMS Churchill
-uk_destroyer_clemson_churchill_EC_2;Destroyer
-uk_destroyer_battle_tobruk_shop;HMAS Tobruk (D 37)
-uk_destroyer_battle_tobruk_0;Cockatoo Docks and Engineering Co. | Battle-class | HMAS Tobruk (D 37)
-uk_destroyer_battle_tobruk_1;HMAS Tobruk
-uk_destroyer_battle_tobruk_2;Destroyer
-uk_destroyer_battle_2series_shop;HMS Armada (R 14)
-uk_destroyer_battle_2series_0;R. & W. Hawthorn, Leslie & Co. | Battle-class | HMS Armada (R 14)
-uk_destroyer_battle_2series_1;HMS Armada
-uk_destroyer_battle_2series_2;Destroyer
-uk_destroyer_j_class_shop;HMS Jervis (G 00)
-uk_destroyer_j_class_0;R. & W. Hawthorn, Leslie & Co. / Belfast Dry Dock | J-class | HMS Jervis (G 00) (1945)
-uk_destroyer_j_class_1;HMS Jervis
-uk_destroyer_j_class_2;Destroyer
-uk_destroyer_k_class_shop;HMS Kelvin (F 37)
-uk_destroyer_k_class_0;Fairfield Shipbuilding & Engineering Co. | K-class | HMS Kelvin (F 37)
-uk_destroyer_k_class_1;HMS Kelvin
-uk_destroyer_k_class_2;Destroyer
-uk_destroyer_n_class_shop;HMAS Nepal (G 25)
-uk_destroyer_n_class_0;John I. Thornycroft & Co. / HMAS Kuttabul | N-class | HMAS Nepal (G 25) (1943)
-uk_destroyer_n_class_1;HMAS Nepal
-uk_destroyer_n_class_2;Destroyer
-uk_destroyer_n_class_EC_0;John I. Thornycroft & Co. / HMAS Kuttabul | N-class | HMAS Nepal (G 25) (1943)
-uk_destroyer_n_class_EC_1;HMAS Nepal
-uk_destroyer_n_class_EC_2;Destroyer
-uk_destroyer_hunt_2series_shop;HMS Calpe (L 71)
-uk_destroyer_hunt_2series_0;Swan Hunter & Wigham Richardson / Malta Dockyard | Type II Hunt-class | HMS Calpe (L 71) (1945)
-uk_destroyer_hunt_2series_1;HMS Calpe
-uk_destroyer_hunt_2series_2;Destroyer
-uk_destroyer_hunt_4series_shop;HMS Brissenden (L 79)
-uk_destroyer_hunt_4series_0;John I. Thornycroft & Co. / Pembroke Dockyard | Type IV Hunt-class | HMS Brissenden (L 79) (1945)
-uk_destroyer_hunt_4series_1;HMS Brissenden
-uk_destroyer_hunt_4series_2;Destroyer
 germ_escort_typem1943_shop;M 601
 germ_escort_typem1943_0;Minensuchboot Typ 1943, M 601
 germ_escort_typem1943_1;M 601
@@ -15244,13 +15401,6 @@ germ_cruiser_koln_2;Light Cruiser
 germ_cruiser_koln_EC_0;К-class, Köln, 1940
 germ_cruiser_koln_EC_1;Köln
 germ_cruiser_koln_EC_2;Light Cruiser
-uk_cruiser_dido_shop;HMS Dido (37)
-uk_cruiser_dido_0;Cammell Laird & Co. / Brooklyn Navy Yard | Dido-class | HMS Dido (37) (1941)
-uk_cruiser_dido_1;HMS Dido
-uk_cruiser_dido_2;Light Cruiser
-uk_cruiser_dido_EC_0;Cammell Laird & Co. / Brooklyn Navy Yard | Dido-class | HMS Dido (37) (1941)
-uk_cruiser_dido_EC_1;HMS Dido
-uk_cruiser_dido_EC_2;Light Cruiser
 ussr_destroyer_pr30_ognevoy_shop;Ognyevoj
 ussr_destroyer_pr30_ognevoy_0;Pr. 30, Ognyevoj, 1944
 ussr_destroyer_pr30_ognevoy_1;Ognyevoj
@@ -15267,17 +15417,6 @@ germ_destroyer_class1936a_mob_z32_shop;Z 33
 germ_destroyer_class1936a_mob_z32_0;Zerstörer Typ 1936 A (Mob), Z 33, 1943
 germ_destroyer_class1936a_mob_z32_1;Z 33
 germ_destroyer_class1936a_mob_z32_2;Destroyer
-uk_cruiser_leander_shop;HMNZS Leander (75)
-uk_cruiser_leander_0;Vickers-Armstrongs / Auckland Dockyard | Leander-class | HMNZS Leander (75) (1941)
-uk_cruiser_leander_1;HMNZS Leander
-uk_cruiser_leander_2;Light Cruiser
-uk_cruiser_leander_EC_0;Vickers-Armstrongs / Auckland Dockyard | Leander-class | HMNZS Leander (75) (1941)
-uk_cruiser_leander_EC_1;HMNZS Leander
-uk_cruiser_leander_EC_2;Light Cruiser
-uk_cruiser_fiji_class_fiji_shop;HMS Fiji (58)
-uk_cruiser_fiji_class_fiji_0;John Brown & Co. / Clydebank Shipyard | Colony-class | HMS Fiji (58) (1941)
-uk_cruiser_fiji_class_fiji_1;HMS Fiji
-uk_cruiser_fiji_class_fiji_2;Light Cruiser
 ussr_cruiser_kirov_shop;Kirov
 ussr_cruiser_kirov_0;Pr. 26, Kirov, 1941
 ussr_cruiser_kirov_1;Kirov
@@ -15293,18 +15432,10 @@ ussr_mpk_122bis_shop;MPK-173
 ussr_mpk_122bis_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 122bis, MPK-173
 ussr_mpk_122bis_1;MPK-173
 ussr_mpk_122bis_2;Gunboat
-uk_cruiser_tiger_shop;HMS Tiger (C 20)
-uk_cruiser_tiger_0;John Brown & Co. | Tiger-class | HMS Tiger (C 20)
-uk_cruiser_tiger_1;HMS Tiger
-uk_cruiser_tiger_2;Light Cruiser
 ussr_skr_groza_1943_shop;Groza
 ussr_skr_groza_1943_0;Storozhyevyye Korabl' Proyekt 2, Tip Uragan, Syerii I , Groza (1943)
 ussr_skr_groza_1943_1;Groza
 ussr_skr_groza_1943_2;Patrol ship
-uk_cruiser_southampton_shop;HMS Southampton (C 83)
-uk_cruiser_southampton_0;John Brown & Co. / Tyne Shipyard | Town-class | HMS Southampton (C 83) (1940)
-uk_cruiser_southampton_1;HMS Southampton
-uk_cruiser_southampton_2;Light Cruiser
 germ_destroyer_class1939_t31_shop;T 28
 germ_destroyer_class1939_t31_0;Flottentorpedoboot Typ 1939, T 28, 1944
 germ_destroyer_class1939_t31_1;T 28
@@ -15313,13 +15444,6 @@ germ_cruiser_admiral_hipper_shop;Admiral Hipper
 germ_cruiser_admiral_hipper_0;Admiral Hipper-class, Admiral Hipper, 1942
 germ_cruiser_admiral_hipper_1;Admiral Hipper
 germ_cruiser_admiral_hipper_2;Heavy Cruiser
-uk_cruiser_arethusa_shop;HMS Arethusa (26)
-uk_cruiser_arethusa_0;Chatham Royal Dockyard / Charleston Naval Shipyard | Arethusa-class | HMS Arethusa (26) (1943)
-uk_cruiser_arethusa_1;HMS Arethusa (26)
-uk_cruiser_arethusa_2;Light Cruiser
-uk_cruiser_arethusa_EC_0;Chatham Royal Dockyard / Charleston Naval Shipyard | Arethusa-class | HMS Arethusa (26) (1943)
-uk_cruiser_arethusa_EC_1;Arethusa
-uk_cruiser_arethusa_EC_2;Light Cruiser
 ussr_cruiser_chapayev_shop;Čapayev
 ussr_cruiser_chapayev_0;Pr. 68-K, Čapayev, 1950
 ussr_cruiser_chapayev_1;Čapayev
@@ -15339,10 +15463,6 @@ jp_cargo_ship_kashino_2;Cargo ship
 jp_cargo_ship_kashino_EC_0;Cargo ship
 jp_cargo_ship_kashino_EC_1;Cargo ship
 jp_cargo_ship_kashino_EC_2;Cargo ship
-uk_cruiser_belfast_shop;HMS Belfast (C 35)
-uk_cruiser_belfast_0;Harland & Wolff Group Holdings / Devonport Royal Dockyard | Town-class | HMS Belfast (C 35) (1959)
-uk_cruiser_belfast_1;HMS Belfast
-uk_cruiser_belfast_2;Light Cruiser
 germ_destroyer_class1934a_1944_shop;Z 15
 germ_destroyer_class1934a_1944_0;Zerstörer Typ 1934 A, Z 15 Erich Steinbrinck, 1944
 germ_destroyer_class1934a_1944_1;Z 15
@@ -15351,10 +15471,6 @@ germ_destroyer_class1936b_shop;Z 35
 germ_destroyer_class1936b_0;Zerstörer Typ 1936 B, Z 35, 1943
 germ_destroyer_class1936b_1;Z 35
 germ_destroyer_class1936b_2;Destroyer
-uk_cruiser_hawkins_shop;HMS Hawkins (D 86)
-uk_cruiser_hawkins_0;Chatham Royal Dockyard / Portsmouth Royal Dockyard | Hawkins-class | HMS Hawkins (D 86) (1942)
-uk_cruiser_hawkins_1;HMS Hawkins
-uk_cruiser_hawkins_2;Heavy Cruiser
 germ_destroyer_class1924_jaguar1941_shop;Jaguar
 germ_destroyer_class1924_jaguar1941_0;Raubtier-class, Jaguar, 1941
 germ_destroyer_class1924_jaguar1941_1;Jaguar
@@ -15385,10 +15501,6 @@ germ_cruiser_leipzig_shop;Leipzig
 germ_cruiser_leipzig_0;Leipzig-class, Leipzig, 1944
 germ_cruiser_leipzig_1;Leipzig
 germ_cruiser_leipzig_2;Light Cruiser
-uk_cruiser_kent_shop;HMS Kent (54)
-uk_cruiser_kent_0;Chatham Royal Dockyard | County-class | HMS Kent (54) (1934)
-uk_cruiser_kent_1;HMS Kent
-uk_cruiser_kent_2;Heavy Cruiser
 ussr_destroyer_pr41_neustrashimy_shop;Nyeustrašimyj
 ussr_destroyer_pr41_neustrashimy_0;Pr. 41, Nyeustrašimyj, 1960
 ussr_destroyer_pr41_neustrashimy_1;Nyeustrašimyj
@@ -15401,14 +15513,6 @@ germ_frigate_koln_lubeck_shop;Lübeck (F 224)
 germ_frigate_koln_lubeck_0;Fregatte Köln-Klasse (Typ 120), Lübeck (F 224) (1966)
 germ_frigate_koln_lubeck_1;Lübeck (F 224)
 germ_frigate_koln_lubeck_2;Frigate
-uk_cruiser_london_shop;HMS London (69)
-uk_cruiser_london_0;Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | County-class | HMS London (69) (1944)
-uk_cruiser_london_1;HMS London
-uk_cruiser_london_2;Heavy Cruiser
-uk_cruiser_york_shop;HMS York (90)
-uk_cruiser_york_0;Palmers Shipbuilding and Iron Co. / Royal Albery Dockyard | York-class | HMS York (90) (1940)
-uk_cruiser_york_1;HMS York
-uk_cruiser_york_2;Heavy Cruiser
 ussr_g5_rct_shop;TK-412
 ussr_g5_rct_0;Torpyednyye katyera Tip G-5, syeriâ XI, TK-412
 ussr_g5_rct_1;TK-412
@@ -15433,10 +15537,6 @@ ussr_battleship_poltava_shop;Poltava
 ussr_battleship_poltava_0;Syevastopol'-class, Poltava, 1914
 ussr_battleship_poltava_1;Poltava
 ussr_battleship_poltava_2;Battleship
-uk_battleship_dreadnought_shop;HMS Dreadnought (00)
-uk_battleship_dreadnought_0;Portsmouth Royal Dockyard | Dreadnought-class | HMS Dreadnought (00) (1917)
-uk_battleship_dreadnought_1;HMS Dreadnought
-uk_battleship_dreadnought_2;Dreadnought
 germ_battleship_westfalen_shop;SMS Westfalen
 germ_battleship_westfalen_0;Nassau-class, SMS Westfalen, 1916
 germ_battleship_westfalen_1;SMS Westfalen
@@ -15461,34 +15561,14 @@ germ_destroyer_class1924_iltis_shop;Luchs
 germ_destroyer_class1924_iltis_0;Raubtier-class, Luchs, 1932
 germ_destroyer_class1924_iltis_1;Luchs
 germ_destroyer_class1924_iltis_2;Destroyer
-uk_battleship_colossus_shop;HMS Colossus (93)
-uk_battleship_colossus_0;Scotts Shipbuilding & Engineering Co. | Colossus-class | HMS Colossus (93) (1917)
-uk_battleship_colossus_1;HMS Colossus
-uk_battleship_colossus_2;Dreadnought
-uk_battleship_centurion_shop;HMS Centurion (12)
-uk_battleship_centurion_0;Devonport Royal Dockyard | King George V-class | HMS Centurion (12)
-uk_battleship_centurion_1;HMS Centurion
-uk_battleship_centurion_2;Dreadnought
-uk_battleship_nelson_shop;HMS Nelson (28)
-uk_battleship_nelson_0;Vickers-Armstrongs / Philadelphia Navy Yard | Nelson-class | HMS Nelson (28) (1944)
-uk_battleship_nelson_1;HMS Nelson
-uk_battleship_nelson_2;Battleship
 ussr_destroyer_kerch_shop;Kyerč' (1917)
 ussr_destroyer_kerch_0;Eskadrennyy minonosets Tip Novik, 3rd syeriâ, Tip Fidonisi, Kerch' (1917)
 ussr_destroyer_kerch_1;Kyerč' (1917)
 ussr_destroyer_kerch_2;Destroyer
-uk_destroyer_g_garland_shop;ORP Garland (H 37)
-uk_destroyer_g_garland_0;Fairfield Shipbuilding & Engineering Co. / Smiths Dockyard | G-class | ORP Garland (H 37) (1942)
-uk_destroyer_g_garland_1;ORP Garland
-uk_destroyer_g_garland_2;Destroyer
 germ_battlecruiser_von_der_tann_shop;SMS Von der Tann
 germ_battlecruiser_von_der_tann_0;SMS Von der Tann, 1914
 germ_battlecruiser_von_der_tann_1;SMS Von der Tann
 germ_battlecruiser_von_der_tann_2;Battlecruiser
-uk_battlecruiser_invincible_shop;HMS Invincible (85)
-uk_battlecruiser_invincible_0;Sir W G Armstrong Whitworth & Co. / Devonport Royal Dockyard | Invincible-class | HMS Invincible (85) (1914)
-uk_battlecruiser_invincible_1;HMS Invincible
-uk_battlecruiser_invincible_2;Battlecruiser
 ussr_mpk_pr12412_shop;MPK-140
 ussr_mpk_pr12412_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 12412 Molniya-2, MPK-140
 ussr_mpk_pr12412_1;MPK-140
@@ -15517,10 +15597,6 @@ dh_110_sea_vixen_shop;Sea Vixen F.A.W. Mk. 2
 dh_110_sea_vixen_0;DH.110 Sea Vixen F.A.W. Mk. 2
 dh_110_sea_vixen_1;Sea Vixen F.A.W. Mk. 2
 dh_110_sea_vixen_2;Sea Vixen
-uk_cruiser_liverpool_shop;HMS Liverpool (C 11)
-uk_cruiser_liverpool_0;Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | Town-class | HMS Liverpool (C 11) (1944)
-uk_cruiser_liverpool_1;HMS Liverpool
-uk_cruiser_liverpool_2;Light Cruiser
 ussr_destroyer_pr30bis_bezuprechnyi_shop;Byezupryečnyj
 ussr_destroyer_pr30bis_bezuprechnyi_0;Pr. 30bis, Byezupryečnyj, 1950
 ussr_destroyer_pr30bis_bezuprechnyi_1;Byezupryečnyj
@@ -15529,10 +15605,6 @@ germ_type143_bussard_shop;Bussard (S 64)
 germ_type143_bussard_0;Flugkörper-Schnellboot Albatros-Klasse (Typ 143), Bussard (S 64)
 germ_type143_bussard_1;Bussard
 germ_type143_bussard_2;Fast Attack Craft
-uk_destroyer_v_class_vega_shop;HMS Vega (L 41)
-uk_destroyer_v_class_vega_0;William Doxford & Sons / Chatham Royal Dockyard | Admiralty V-class | HMS Vega (L 41) (1939)
-uk_destroyer_v_class_vega_1;HMS Vega
-uk_destroyer_v_class_vega_2;Destroyer
 germ_cruiser_karlsruhe_shop;Karlsruhe
 germ_cruiser_karlsruhe_0;К-class, Karlsruhe, 1940
 germ_cruiser_karlsruhe_1;Karlsruhe
@@ -15541,10 +15613,6 @@ ussr_battleship_parizhskaya_kommuna_shop;Parižskaâ Kommuna
 ussr_battleship_parizhskaya_kommuna_0;Syevastopol'-class, Parižskaâ Kommuna, 1941
 ussr_battleship_parizhskaya_kommuna_1;Parižskaâ Kommuna
 ussr_battleship_parizhskaya_kommuna_2;Battleship
-uk_cruiser_norfolk_shop;HMS Norfolk (78)
-uk_cruiser_norfolk_0;Fairfield Shipbuilding & Engineering Co. / Portsmouth Royal Dockyard | County-class | HMS Norfolk (78) (1943)
-uk_cruiser_norfolk_1;HMS Norfolk
-uk_cruiser_norfolk_2;Heavy Cruiser
 ussr_destroyer_pr30bis_smelyi_shop;Smyelyj
 ussr_destroyer_pr30bis_smelyi_0;Pr. 30bis, Smyelyj, 1955
 ussr_destroyer_pr30bis_smelyi_1;Smyelyj
@@ -15585,22 +15653,10 @@ germ_marder_1a3_shop;SPz Marder 1 A3
 germ_marder_1a3_0;Schützenpanzer Marder 1 A3
 germ_marder_1a3_1;SPz Marder 1 A3
 germ_marder_1a3_2;Light Tank
-uk_destroyer_v_class_verdun_shop;HMS Verdun (L 93)
-uk_destroyer_v_class_verdun_0;R. & W. Hawthorn, Leslie & Co. / Chatham Royal Dockyard | Admiralty V-class | HMS Verdun (L 93) (1940)
-uk_destroyer_v_class_verdun_1;HMS Verdun
-uk_destroyer_v_class_verdun_2;Destroyer
-uk_destroyer_tribal_mohawk_shop;HMS Mohawk (L 31)
-uk_destroyer_tribal_mohawk_0;John I. Thornycroft & Co. | Tribal-class | HMS Mohawk (L 31)
-uk_destroyer_tribal_mohawk_1;HMS Mohawk
-uk_destroyer_tribal_mohawk_2;Destroyer
 ussr_mpk_201m_shop;PSKR-203
 ussr_mpk_201m_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 201M, PSKR-203
 ussr_mpk_201m_1;PSKR-203
 ussr_mpk_201m_2;Subchaser
-uk_battleship_marlborough_shop;HMS Marlborough (66)
-uk_battleship_marlborough_0;Devonport Royal Dockyard | Iron Duke-class | HMS Marlborough (66) (1929)
-uk_battleship_marlborough_1;HMS Marlborough
-uk_battleship_marlborough_2;Super dreadnought
 germ_rdm242_shop;Krischan der Große
 germ_rdm242_0;Flakträger Krischan der Große, 1943
 germ_rdm242_1;Krischan der Große
@@ -15613,10 +15669,6 @@ ussr_mpk_201k_shop;P-190
 ussr_mpk_201k_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 201, P-190
 ussr_mpk_201k_1;P-190
 ussr_mpk_201k_2;Subchaser
-uk_destroyer_v_class_valhalla_shop;HMS Valhalla (D 44)
-uk_destroyer_v_class_valhalla_0;Cammell Laird & Co. / Port Edgar | Admiralty V-class | HMS Valhalla (D 44) (1923)
-uk_destroyer_v_class_valhalla_1;HMS Valhalla
-uk_destroyer_v_class_valhalla_2;Destroyer
 germ_skr_pr50_karl_marx_shop;Karl Marx (122)
 germ_skr_pr50_karl_marx_0;Fregatte, Projekt 50, Karl Marx (122) (1962)
 germ_skr_pr50_karl_marx_1;Pr. 50
@@ -15625,14 +15677,6 @@ ussr_mpk_pr12412p_shop;MPK-211
 ussr_mpk_pr12412p_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 12412P, MPK-211
 ussr_mpk_pr12412p_1;MPK-211
 ussr_mpk_pr12412p_2;Patrol ship
-uk_destroyer_battle_cadiz_shop;HMS Cadiz (D 79)
-uk_destroyer_battle_cadiz_0;Fairfield Shipbuilding & Engineering Co. | Battle-class | HMS Cadiz (D 79)
-uk_destroyer_battle_cadiz_1;HMS Cadiz
-uk_destroyer_battle_cadiz_2;Destroyer
-uk_battlecruiser_hood_shop;HMS Hood (51)
-uk_battlecruiser_hood_0;John Brown & Co. / Rosyth Dockyard | Admiral-class | HMS Hood (51) (1941)
-uk_battlecruiser_hood_1;HMS Hood
-uk_battlecruiser_hood_2;Battlecruiser
 germ_battleship_bayern_shop;SMS Bayern
 germ_battleship_bayern_0;Bayern-class, SMS Bayern, 1916
 germ_battleship_bayern_1;SMS Bayern
@@ -15657,10 +15701,6 @@ ussr_destroyer_pr56_blagorodny_shop;Blagorodnyj
 ussr_destroyer_pr56_blagorodny_0;Pr. 56-PLO, Blagorodnyj, 1978
 ussr_destroyer_pr56_blagorodny_1;Blagorodnyj
 ussr_destroyer_pr56_blagorodny_2;Destroyer
-uk_battlecruiser_glorious_shop;HMS Glorious (77)
-uk_battlecruiser_glorious_0;Harland & Wolff Group Holdings | Courageous-Class | HMS Glorious (77) (1917)
-uk_battlecruiser_glorious_1;HMS Glorious
-uk_battlecruiser_glorious_2;Battlecruiser
 germ_type152_hugin_shop;Hugin (P 6191)
 germ_type152_hugin_0;Schnellboot Typ 152, Hugin (P 6191)
 germ_type152_hugin_1;Hugin
@@ -15669,10 +15709,6 @@ ussr_destroyer_7_besposhchadny_shop;Byespoŝadnyj
 ussr_destroyer_7_besposhchadny_0;Pr. 7, Byespoŝadnyj, 1942
 ussr_destroyer_7_besposhchadny_1;Byespoŝadnyj
 ussr_destroyer_7_besposhchadny_2;Destroyer
-uk_destroyer_daring_class_diana_shop;HMS Diana (D 126)
-uk_destroyer_daring_class_diana_0;Yarrow & Co. | Daring-class | HMS Diana (D 126) (1959)
-uk_destroyer_daring_class_diana_1;HMS Diana
-uk_destroyer_daring_class_diana_2;Destroyer
 ussr_mpk_pr1331m_shop;MPK-192
 ussr_mpk_pr1331m_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 1331M, MPK-192
 ussr_mpk_pr1331m_1;MPK-192
@@ -15693,10 +15729,6 @@ ussr_destroyer_regele_ferdinand_class_letuchiy_shop;Lyetučij
 ussr_destroyer_regele_ferdinand_class_letuchiy_0;Regele Ferdinand-class, Lyetučij, 1945
 ussr_destroyer_regele_ferdinand_class_letuchiy_1;Lyetučij
 ussr_destroyer_regele_ferdinand_class_letuchiy_2;Destroyer
-uk_minelayer_abdiel_class_abdiel_shop;HMS Abdiel (M 39)
-uk_minelayer_abdiel_class_abdiel_0;J. Samuel White & Co. / Palmers Shipyard | Abdiel-class | HMS Abdiel (M 39) (1942)
-uk_minelayer_abdiel_class_abdiel_1;HMS Abdiel
-uk_minelayer_abdiel_class_abdiel_2;Minelayer
 dragonfly_a_shop;TOPTER
 dragonfly_a_0;TOPTER
 dragonfly_a_1;TOPTER
@@ -15761,10 +15793,6 @@ ussr_destroyer_pr56_bravy_shop;Bravyj
 ussr_destroyer_pr56_bravy_0;Pr.56-K, Bravyj, 1967
 ussr_destroyer_pr56_bravy_1;Bravyj
 ussr_destroyer_pr56_bravy_2;Destroyer
-uk_destroyer_daring_class_daring_shop;HMS Daring (D 05)
-uk_destroyer_daring_class_daring_0;Swan Hunter & Wigham Richardson | Daring-class | HMS Daring (D 05)
-uk_destroyer_daring_class_daring_1;HMS Daring
-uk_destroyer_daring_class_daring_2;Destroyer
 fr_cruiser_dugauy_class_primaguet_shop;Primaguet
 fr_cruiser_dugauy_class_primaguet_0;Duguay-Trouin-class, Primaguet, 1940
 fr_cruiser_dugauy_class_primaguet_1;Primaguet
@@ -15813,10 +15841,6 @@ fr_destroyer_marceau_class_marceau_shop;Marceau (D 601)
 fr_destroyer_marceau_class_marceau_0;Marceau (D 601), 1950
 fr_destroyer_marceau_class_marceau_1;Marceau
 fr_destroyer_marceau_class_marceau_2;Destroyer
-uk_battlecruiser_renown_shop;HMS Renown (72)
-uk_battlecruiser_renown_0;Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | Renown-class | HMS Renown (72) (1943)
-uk_battlecruiser_renown_1;HMS Renown
-uk_battlecruiser_renown_2;Battlecruiser
 cargo_ship_norbris;Cargo ship
 tanker_nicolaos;Tanker
 germ_battleship_nassau_shop;SMS Nassau
@@ -15831,10 +15855,6 @@ germ_minelayer_drache_shop;Drache
 germ_minelayer_drache_0;R-1-class, Drache
 germ_minelayer_drache_1;Drache
 germ_minelayer_drache_2;Minesweeper
-uk_battleship_iron_duke_shop;HMS Iron Duke (18)
-uk_battleship_iron_duke_0;Portsmouth Royal Dockyard | Iron Duke-class | HMS Iron Duke (18) (1929)
-uk_battleship_iron_duke_1;HMS Iron Duke
-uk_battleship_iron_duke_2;Dreadnought
 germ_battleship_sachsen_shop;SMS Sachsen
 germ_battleship_sachsen_0;Bayern-class, SMS Sachsen
 germ_battleship_sachsen_1;SMS Sachsen
@@ -15847,10 +15867,6 @@ ussr_destroyer_pr45_shop;Opytnyj
 ussr_destroyer_pr45_0;Pr. 45, Opytnyj, 1942
 ussr_destroyer_pr45_1;Opytnyj
 ussr_destroyer_pr45_2;Destroyer
-uk_battleship_orion_shop;HMS Orion (52)
-uk_battleship_orion_0;Portsmouth Royal Dockyard | Orion-class | HMS Orion (52)
-uk_battleship_orion_1;HMS Orion
-uk_battleship_orion_2;Super dreadnought
 fr_battleship_courbet_class_courbet_shop;Courbet
 fr_battleship_courbet_class_courbet_0;Courbet-class, Courbet, 1920
 fr_battleship_courbet_class_courbet_1;Courbet
@@ -15867,10 +15883,6 @@ fr_destroyer_le_fantasque_class_le_triomphant_shop;Le Triomphant (X 83)
 fr_destroyer_le_fantasque_class_le_triomphant_0;Le Fantasque-class, Le Triomphant (X 83), 1942
 fr_destroyer_le_fantasque_class_le_triomphant_1;Le Triomphant
 fr_destroyer_le_fantasque_class_le_triomphant_2;Destroyer
-uk_destroyer_daring_class_diamond_shop;HMS Diamond (D 35)
-uk_destroyer_daring_class_diamond_0;John Brown & Co. | Daring-class | HMS Diamond (D 35)
-uk_destroyer_daring_class_diamond_1;HMS Diamond
-uk_destroyer_daring_class_diamond_2;Destroyer
 fr_destroyer_desaix_class_kleber_shop;Kléber (D 603)
 fr_destroyer_desaix_class_kleber_0;Desaix-class, Kléber (D 603), 1951
 fr_destroyer_desaix_class_kleber_1;Kléber
@@ -15899,10 +15911,6 @@ fr_cruiser_chateaurenault_class_guichen_shop;Guichen (D 607)
 fr_cruiser_chateaurenault_class_guichen_0;Chateaurenault-class, Guichen (D 607), 1957
 fr_cruiser_chateaurenault_class_guichen_1;Guichen
 fr_cruiser_chateaurenault_class_guichen_2;Destroyer
-uk_battlecruiser_queen_mary_shop;HMS Queen Mary (14)
-uk_battlecruiser_queen_mary_0;Palmers Shipbuilding and Iron Co. | Queen Mary-class | HMS Queen Mary (14)
-uk_battlecruiser_queen_mary_1;HMS Queen Mary
-uk_battlecruiser_queen_mary_2;Battlecruiser
 us_frigate_buckley_class_coolbaugh_shop;USS Coolbaugh (DE-217)
 us_frigate_buckley_class_coolbaugh_0;Buckley-class, USS Coolbaugh (DE-217)
 us_frigate_buckley_class_coolbaugh_1;USS Coolbaugh
@@ -15943,10 +15951,6 @@ fr_vtb14_shop;VTB 14
 fr_vtb14_0;Vedette Torpilleur VTB 14
 fr_vtb14_1;VTB 14
 fr_vtb14_2;MTB
-uk_battleship_q_elizabet_class_barham_shop;HMS Barham (97)
-uk_battleship_q_elizabet_class_barham_0;John Brown & Co. / Cromarty Harbour | Queen Elizabeth-class | HMS Barham (97) (1917)
-uk_battleship_q_elizabet_class_barham_1;HMS Barham
-uk_battleship_q_elizabet_class_barham_2;Super dreadnought
 ussr_battlecruiser_izmail_shop;Izmail
 ussr_battlecruiser_izmail_0;Izmail-class, Izmail
 ussr_battlecruiser_izmail_1;Izmail
@@ -15967,10 +15971,6 @@ ussr_cruiser_omaha_class_murmansk_shop;Murmansk
 ussr_cruiser_omaha_class_murmansk_0;Todd Dry Dock and Construction Company | Omakha-klass | Murmansk
 ussr_cruiser_omaha_class_murmansk_1;Murmansk
 ussr_cruiser_omaha_class_murmansk_2;Light Cruiser
-uk_battlecruiser_repulse_shop;HMS Repulse (34)
-uk_battlecruiser_repulse_0;John Brown & Co. / Rosyth Dockyard | Renown-class | HMS Repulse (34) (1941)
-uk_battlecruiser_repulse_1;HMS Repulse
-uk_battlecruiser_repulse_2;Battlecruiser
 sw_landsverk_ush_204_gk_shop;U SH 405 (204GK)
 sw_landsverk_ush_204_gk_0;Aktiebolaget Landsverk / Unimog | Landsverk Unimog SH Typ 405.110 (Oerlikon 204GK)
 sw_landsverk_ush_204_gk_2;SPAA

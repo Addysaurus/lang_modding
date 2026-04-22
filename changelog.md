@@ -50,6 +50,13 @@ All dates are listed in DD-MM-YYYY format.
     - **Z-2** → **USS Z-2**. Statcard name → **Fincantieri Marinette Marine | Landing Craft, Mechanized, (Mk. 6) (Flamethrower) "Zippo" | USS Z-2**.
     - **HMS Spey (K 246)**: Statcard name → **Smiths Dock Co. / Sri Lanka Navy Dockyard | River-class | HMS Spey (K 246) (1944)** (it accidentally said "Sir Lanka").
     - **HMS Orsay (J 450) (Q.F., 4-inch, Mk. V)** → **HMS Orsay (J 450)**. The statcard name has remained the same, this is just simplifying the short name.
+    - **HMS Kent / Norfolk** (folder) → **HMS Kent / Norfolk / London**.
+    - **M4A3E8(76)W**: Statcard name → **United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman**.
+    - **SC-1**: Statcard name → **Curtiss-Wright Corporation Model 97B | SC-1 Seahawk**.
+    - **YF-5A-NO**: Statcard name → **Northrop Corporation N-156F | YF-5A-NO Freedom Fighter**.
+    - **F-5C-NO**: Statcard name → **Northrop Corporation N-156F | F-5C-NO Skoshi Tiger**.
+    - **F-5E-3-NO**: Statcard name → **Northrop Corporation F-5-21 | F-5E-3-NO Tiger II**.
+    - **F-105D-31-RE**: Statcard name → **Republic Aviation Corporation AP-63-31 | F-105D-31-RE Thunderchief**.
 
 ## 1.17.02 - 16-04-2026
 

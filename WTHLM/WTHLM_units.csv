@@ -3617,7 +3617,7 @@ us_m10_booker_late_0;General Dynamics Land Systems | Combat Vehicle, Tracked, Li
 us_m10_booker_late_1;M10
 us_m10_booker_late_2;Light Tank
 us_hstv_l_shop;HSTV(L)
-us_hstv_l_0;High Survivability Test Vehicle (Lightweight)
+us_hstv_l_0;AAI Corperation | High Survivability Test Vehicle (Lightweight)
 us_hstv_l_1;HSTV(L)
 us_hstv_l_2;Light Tank
 us_m60_120s_shop;120S
@@ -3625,7 +3625,7 @@ us_m60_120s_0;General Dynamics Land Systems 120S Main Battle Tank
 us_m60_120s_1;120S
 us_m60_120s_2;MBT
 us_m1a1_hc_abrams_shop;M1A1HC
-us_m1a1_hc_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC
+us_m1a1_hc_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1 Abrams, Heavy Common
 us_m1a1_hc_abrams_1;M1A1
 us_m1a1_hc_abrams_2;MBT
 us_m1_abrams_shop;M1
@@ -3669,7 +3669,7 @@ us_m1a1_hc_usmc_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 12
 us_m1a1_hc_usmc_1;M1A1
 us_m1a1_hc_usmc_2;MBT
 us_m1a1_hc_usmc_sm_shop;◍ M1A1HC
-us_m1a1_hc_usmc_sm_0;◍ General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC «Kate»
+us_m1a1_hc_usmc_sm_0;◍ General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC Abrams, Heavy Common «Kate»
 us_m1a1_hc_usmc_sm_1;◍ M1A1HC
 us_m1a1_hc_usmc_sm_2;MBT
 us_lav_ad_shop;LAV-AD
@@ -3703,7 +3703,7 @@ us_adats_bradley_0;XM1069 (Air Defense Anti-Tank System)
 us_adats_bradley_1;XM1069
 us_adats_bradley_2;SPAA
 us_sl_amraam_fcs_shop;M1097A2 (AN/MPQ-64)
-us_sl_amraam_fcs_0;Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (AN/MPQ-64 Sentinel)
+us_sl_amraam_fcs_0;Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (Radar Set, AN/MPQ-64 Sentinel)
 us_sl_amraam_fcs_1;M1097A2 (AN/MPQ-64)
 us_sl_amraam_fcs_2;Radar
 us_sl_amraam_launcher_shop;M1097A2 (SLAMRAAM)
@@ -3711,7 +3711,7 @@ us_sl_amraam_launcher_0;Raytheon Technologies Corporation | Truck, Utility: Heav
 us_sl_amraam_launcher_1;M1097A2 (SLAMRAAM)
 us_sl_amraam_launcher_2;SPAAM
 us_nasams_fcs_shop;M1097A2 (AN/MPQ-64)
-us_nasams_fcs_0;Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (AN/MPQ-64 Sentinel)
+us_nasams_fcs_0;Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (Radar Set, AN/MPQ-64 Sentinel)
 us_nasams_fcs_1;M1097A2 (AN/MPQ-64)
 us_nasams_fcs_2;Radar
 us_nasams_launcher_shop;▃◢ P113H 380 (NASAMS 3)
@@ -4205,15 +4205,15 @@ he51b_2w_0;He 51 B-2
 he51b_2w_1;He 51 B
 he51b_2w_2;He 51
 he_112v_5_shop;He 112 V5
-he_112v_5_0;Heinkel | He 112 V5
+he_112v_5_0;Heinkel Flugzeugwerke | He 112 V5
 he_112v_5_1;He 112
 he_112v_5_2;He 112
 he_112a_0_shop;He 112 A-0
-he_112a_0_0;Heinkel | He 112 A-0
+he_112a_0_0;Heinkel Flugzeugwerke | He 112 A-0
 he_112a_0_1;He 112 A
 he_112a_0_2;He 112
 he_112b_0_shop;He 112 B-0
-he_112b_0_0;Heinkel | He 112 B-0
+he_112b_0_0;Heinkel Flugzeugwerke | He 112 B-0
 he_112b_0_1;He 112 B
 he_112b_0_2;He 112
 he_112b_1_shop;◐ He 112 B-1/U2
@@ -4358,6 +4358,10 @@ fw-189a-1_1;Fw 189 A
 fw-189a-1_2;Fw 189
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+c_3604_shop;Flz. C-3604
+c_3604_0;Eidgenössisches Flugzeugwerk | Flugzeug C-3604
+c_3604_1;Flz. C-3604
+c_3604_2;Flz. C-36
 fw-190a-1_shop;Fw 190 A-1
 fw-190a-1_0;Fw 190 A-1
 fw-190a-1_1;Fw 190 A
@@ -4546,10 +4550,6 @@ sm_79_1942_shop;▀ S.M.79bis/N (1942)
 sm_79_1942_0;▀ S.M.79bis/N Sparviero (1942)
 sm_79_1942_1;▀ S.M.79bis/N
 sm_79_1942_2;▀ S.M.79
-c_3604_shop;Flz. C-3604
-c_3604_0;Eidgenössisches Flugzeugwerk | Flugzeug C-3604
-c_3604_1;Flz. C-3604
-c_3604_2;Flz. C-36
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 do_335a_1_shop;Do 335 A-1
@@ -4727,7 +4727,7 @@ fiat_g91_r3_0;◄ G.91 R/3
 fiat_g91_r3_1;◄ G.91 R
 fiat_g91_r3_2;◄ G.91
 alpha_jet_a_shop;◄ Alpha Jet A
-alpha_jet_a_0;◄ Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | Alpha Jet A
+alpha_jet_a_0;◄ Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A
 alpha_jet_a_1;◄ Alpha Jet A
 alpha_jet_a_2;◄ Alpha Jet A
 alpha_jet_a_jabog41_shop;◄ Alpha Jet A (JaboG 41)
@@ -4834,14 +4834,6 @@ f-5e_switzerland_1;◌ F5 E (1999)
 f-5e_switzerland_2;◌ F5
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
-ef_2000_block_10_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement A)
-ef_2000_block_10_1;◄ Eurofighter
-ef_2000_block_10_2;◄ Eurofighter
-ef_2000_aesa_shop;◄ Eurofighter (P3Ec1)
-ef_2000_aesa_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement C Step 1)
-ef_2000_aesa_1;◄ Eurofighter
-ef_2000_aesa_2;◄ Eurofighter
 mig_29_9_12_germany_shop;◊ MiG-29 (9-12A)
 mig_29_9_12_germany_0;◊ izd. 9-12A | MiG-29
 mig_29_9_12_germany_1;◊ MiG-29
@@ -4858,6 +4850,16 @@ fa_18c_late_switzerland_shop;◌ F/A18 C (Upgrade 25)
 fa_18c_late_switzerland_0;◌ McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A18 C Hornet (Upgrade 25)
 fa_18c_late_switzerland_1;◌ F/A18 C
 fa_18c_late_switzerland_2;◌ F/A18
+
+//GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
+ef_2000_block_10_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement A)
+ef_2000_block_10_1;◄ Eurofighter
+ef_2000_block_10_2;◄ Eurofighter
+ef_2000_aesa_shop;◄ Eurofighter (P3Ec1)
+ef_2000_aesa_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement C Step 1)
+ef_2000_aesa_1;◄ Eurofighter
+ef_2000_aesa_2;◄ Eurofighter
 
 //GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 sa_313b_shop;◄ SE 313 B
@@ -5054,6 +5056,10 @@ germ_sdkfz_221_s_pz_b_41_shop;le.Pz.Spw. (s.Pz.B. 41)
 germ_sdkfz_221_s_pz_b_41_0;leichter Panzerspähwagen (s.Pz.B. 41) (Sd.Kfz. 221) (2. Serie)
 germ_sdkfz_221_s_pz_b_41_1;le.Pz.Spw. (s.Pz.B. 41)
 germ_sdkfz_221_s_pz_b_41_2;SPG
+germ_panzerjager_1_shop;Pz.Jgr. I
+germ_panzerjager_1_0;4,7cm Pa.K. 36(t) (Sfl.) auf Fahrgestell Panzerkampfwagen I (II Serie) | Panzerjäger I
+germ_panzerjager_1_1;Pz.Jgr. I
+germ_panzerjager_1_2;SPG
 germ_sdkfz_251_9_shop;m.S.P.W. D (7,5cm K.)
 germ_sdkfz_251_9_0;mittlerer Schützenpanzerwagen Ausf. D (7,5cm K.) (Sd.Kfz. 251/9)
 germ_sdkfz_251_9_1;m.S.P.W. (7,5cm K.)
@@ -5186,11 +5192,11 @@ germ_th_400_2;Light Tank
 germ_schutzenpanzer_puma_shop;SPz Puma S0
 germ_schutzenpanzer_puma_0;KNDS Deutschland | Schützenpanzer Puma S0
 germ_schutzenpanzer_puma_1;SPz Puma S0
-germ_schutzenpanzer_puma_2;Light Tank
+germ_schutzenpanzer_puma_2;IFV
 germ_schutzenpanzer_puma_vjtf_shop;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_0;KNDS Deutschland | Schützenpanzer Puma Very High Readiness Joint Task Force
 germ_schutzenpanzer_puma_vjtf_1;SPz Puma VJTF
-germ_schutzenpanzer_puma_vjtf_2;Light Tank
+germ_schutzenpanzer_puma_vjtf_2;IFV
 germ_leopard_2a4m_can_shop;Leopard 2A4M CAN
 germ_leopard_2a4m_can_0;KNDS Deutschland | Leopard 2A4M CAN
 germ_leopard_2a4m_can_1;Leopard 2A4M
@@ -5239,6 +5245,10 @@ germ_pr1331_2;Minesweeper
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
+germ_destroyer_fletcher_zerstorer4_0;Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)
+germ_destroyer_fletcher_zerstorer4_1;Z 4
+germ_destroyer_fletcher_zerstorer4_2;Destroyer
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 germ_destroyer_class1942_z51_shop;Z 51
@@ -5258,13 +5268,13 @@ germ_destroyer_lutjens_class_lutjens_2;Destroyer
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 germ_battleship_konig_shop;SMS König
-germ_battleship_konig_0;Kaiserliche Werft Wilhelmshaven | Schlachtschiff König-Klasse | SMS König (1917)
+germ_battleship_konig_0;Kaiserliche Werft Wilhelmshaven, Bau-Nr. 33 | Schlachtschiff König-Klasse | SMS König (1917)
 germ_battleship_konig_1;SMS König
 germ_battleship_konig_2;Battleship
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 germ_battlecruiser_ersatz_yorck_shop;Ersatz Yorck
-germ_battlecruiser_ersatz_yorck_0;Stettiner Maschinenbau Actien-Gesellschaft Vulcan | großer Kreuzer Ersatz Yorck-Klasse | großer Kreuzer Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_0;Stettiner Maschinenbau Actien-Gesellschaft Vulcan | großer Kreuzer Ersatz Yorck-Klasse | Ersatz Yorck
 germ_battlecruiser_ersatz_yorck_1;Ersatz Yorck
 germ_battlecruiser_ersatz_yorck_2;Battlecruiser
 germ_battleship_scharnhorst_shop;Scharnhorst
@@ -9511,7 +9521,7 @@ sw_eldenhet_98_0;BAE Systems Hägglunds | eldenhet 98 (Giraffe 1X)
 sw_eldenhet_98_1;elde 98
 sw_eldenhet_98_2;SPAAM
 sw_nasams_fcs_shop;300 GD (AN/MPQ-64)
-sw_nasams_fcs_0;Mercedes-Benz G-Class 300 GD (AN/MPQ-64 Sentinel)
+sw_nasams_fcs_0;Mercedes-Benz G-Class 300 GD (Radar Set, AN/MPQ-64 Sentinel)
 sw_nasams_fcs_1;300 GD (AN/MPQ-64)
 sw_nasams_fcs_2;Radar
 sw_nasams_launcher_shop;◢ P113H 380 (NASAMS 3)
@@ -10746,10 +10756,6 @@ germ_panzerjager_tiger_shop;Pz.Jgr. Tiger B
 germ_panzerjager_tiger_0;Panzerjäger Tiger Ausf. B (H)
 germ_panzerjager_tiger_1;Pz.Jgr. Tiger
 germ_panzerjager_tiger_2;SPG
-germ_panzerjager_1_shop;Pz.Jgr. I
-germ_panzerjager_1_0;4,7cm Pa.K. 36(t) (Sfl.) auf Fahrgestell Panzerkampfwagen I (II Serie) | Panzerjäger I
-germ_panzerjager_1_1;Pz.Jgr. I
-germ_panzerjager_1_2;SPG
 uk_3_inch_gun_carrier_shop;3-in Gun, Mk. I
 uk_3_inch_gun_carrier_0;Carrier, Churchill, A.22D, 3-in Gun, Mk. I
 uk_3_inch_gun_carrier_1;3-in Gun, Mk. I
@@ -14205,7 +14211,7 @@ jaguar_a_0;☨ SEPECAT Jaguar A | Jaguar Type A
 jaguar_a_1;☨ Jaguar A
 jaguar_a_2;☨ Jaguar
 alpha_jet_e_shop;☨ Alpha Jet E
-alpha_jet_e_0;☨ Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | Alpha Jet E
+alpha_jet_e_0;☨ Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet E
 alpha_jet_e_1;☨ Alpha Jet E
 alpha_jet_e_2;☨ Alpha Jet
 sea_hawk_fga6_shop;Sea Hawk F.G.A. Mk. 6
@@ -14633,7 +14639,7 @@ saab_b3c_0;Junkers / Saab | B 3 C-2
 saab_b3c_1;B 3 C
 saab_b3c_2;B 3
 he_115a_2_sweden_shop;T 2
-he_115a_2_sweden_0;Heinkel | T 2
+he_115a_2_sweden_0;Heinkel Flugzeugwerke | T 2
 he_115a_2_sweden_1;T 2
 he_115a_2_sweden_2;T 2
 j6b_shop;J 6 B
@@ -15974,10 +15980,6 @@ ussr_cruiser_omaha_class_murmansk_2;Light Cruiser
 sw_landsverk_ush_204_gk_shop;U SH 405 (204GK)
 sw_landsverk_ush_204_gk_0;Aktiebolaget Landsverk / Unimog | Landsverk Unimog SH Typ 405.110 (Oerlikon 204GK)
 sw_landsverk_ush_204_gk_2;SPAA
-germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
-germ_destroyer_fletcher_zerstorer4_0;Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)
-germ_destroyer_fletcher_zerstorer4_1;Z 4
-germ_destroyer_fletcher_zerstorer4_2;Destroyer
 germ_boxer_3105_shop;Boxer (Cockerill 3105)
 germ_boxer_3105_0;ARTEC Boxer (Cockerill 3105)
 germ_boxer_3105_1;Boxer (Cockerill 3105)

@@ -52,11 +52,23 @@ All dates are listed in DD-MM-YYYY format.
     - **HMS Orsay (J 450) (Q.F., 4-inch, Mk. V)** → **HMS Orsay (J 450)**. The statcard name has remained the same, this is just simplifying the short name.
     - **HMS Kent / Norfolk** (folder) → **HMS Kent / Norfolk / London**.
     - **M4A3E8(76)W**: Statcard name → **United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman**.
+    - **HSTV(L)**: Statcard name → **AAI Corperation | High Survivability Test Vehicle (Lightweight)**.
+    - **M1A1HC**: Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1 Abrams, Heavy Common**.
+    - **M1A1HC** (Senrai Maidens, *sigh*): Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC Abrams, Heavy Common «Kate»**.
+    - **M1097A2 (AN/MPQ-64)**: Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (Radar Set, AN/MPQ-64 Sentinel)**.
+    - **300 GD (AN/MPQ-64)**: Statcard name → **Mercedes-Benz G-Class 300 GD (Radar Set, AN/MPQ-64 Sentinel)**.
     - **SC-1**: Statcard name → **Curtiss-Wright Corporation Model 97B | SC-1 Seahawk**.
     - **YF-5A-NO**: Statcard name → **Northrop Corporation N-156F | YF-5A-NO Freedom Fighter**.
     - **F-5C-NO**: Statcard name → **Northrop Corporation N-156F | F-5C-NO Skoshi Tiger**.
     - **F-5E-3-NO**: Statcard name → **Northrop Corporation F-5-21 | F-5E-3-NO Tiger II**.
     - **F-105D-31-RE**: Statcard name → **Republic Aviation Corporation AP-63-31 | F-105D-31-RE Thunderchief**.
+    - **He 112 V5**: Statcard name → **Heinkel Flugzeugwerke | He 112 V5**.
+    - **He 112 A-0**: Statcard name → **Heinkel Flugzeugwerke | He 112 A-0**.
+    - **He 112 B-0**: Statcard name → **Heinkel Flugzeugwerke | He 112 B-0**.
+    - **T 2**: Statcard name → **Heinkel Flugzeugwerke | T 2**.
+    - **Alpha Jet A** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A**.
+    - **Alpha Jet E** (France): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet E**.
+    - **SMS König**: Statcard name → **Kaiserliche Werft Wilhelmshaven, Bau-Nr. 33 | Schlachtschiff König-Klasse | SMS König (1917)**.
 
 ## 1.17.02 - 16-04-2026
 

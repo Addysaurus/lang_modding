@@ -68,7 +68,13 @@ All dates are listed in DD-MM-YYYY format.
     - **T 2**: Statcard name → **Heinkel Flugzeugwerke | T 2**.
     - **Alpha Jet A** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A**.
     - **Alpha Jet E** (France): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet E**.
-    - **SMS König**: Statcard name → **Kaiserliche Werft Wilhelmshaven, Bau-Nr. 33 | Schlachtschiff König-Klasse | SMS König (1917)**.
+    - **SMS König**: Statcard name → **Kaiserliche Werft Wilhelmshaven, Bau-Nr. 33 | Linienschiff König-Klasse | SMS König (1917)**.
+    - **Mackensen**: Statcard name → **Blohm & Voss, Bau-Nr. 240 | großer Kreuzer Mackensen-Klasse | Mackensen**.
+    - **Ersatz Yorck**: Statcard name → **Stettiner Maschinenbau Actien-Gesellschaft Vulcan, Bau-Nr. 35 | großer Kreuzer Ersatz Yorck-Klasse | Ersatz Yorck**.
+    - **Scharnhorst**: Statcard name → **Kriegsmarinewerft Wilhelmshaven, Bau-Nr. 125 | Schlachtschiff Scharnhorst-Klasse | Scharnhorst (1943)**.
+    - **Gneisenau**: Statcard name → **Deutsche Werke Kiel, Bau-Nr. 235 / Deutsche Werke Gotenhafen | Schlachtschiff Scharnhorst-Klasse | Gneisenau (1943)**.
+    - **Bismarck**: Statcard name → **Blohm & Voss, Bau-Nr. 509 / Seebahnhof Pier | Schlachtschiff Bismarck-Klasse | Bismarck (1941)**.
+    - **Litvâk's Yak-1**: Statcard name → **Opytno-konstruktorskoye bûro № 115 | Lidiâ Vladimirovna Litvâk's Samolyet Yak-1**.
 
 ## 1.17.02 - 16-04-2026
 

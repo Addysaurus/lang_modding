@@ -3409,8 +3409,8 @@ germ_destroyer_lutjens_class_lutjens_2;Destroyer
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 germ_battleship_konig_shop;SMS König
 germ_battleship_konig_0;"<color=#81c3fc>Kaiserliche Werft Wilhelmshaven, Bau-Nr. 33</color>
-<color=#fffa62>Schlachtschiff König-Klasse</color>
-<color=#919191>Vermehrungsbau S</color>
+<color=#fffa62>Linienschiff König-Klasse</color>
+<color=#919191>Linienschiff S</color>
 SMS König
 <color=#adadad>(1917)</color>"
 germ_battleship_konig_1;SMS König
@@ -3418,45 +3418,108 @@ germ_battleship_konig_2;Battleship
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 germ_battlecruiser_ersatz_yorck_shop;Ersatz Yorck
-germ_battlecruiser_ersatz_yorck_0;"Stettiner Maschinenbau Actien-Gesellschaft Vulcan
-großer Kreuzer Ersatz Yorck-Klasse
-großer Kreuzer Ersatz Yorck"
+germ_battlecruiser_ersatz_yorck_0;"<color=#81c3fc>Stettiner Maschinenbau Actien-Gesellschaft Vulcan, Bau-Nr. 35</color>
+<color=#fffa62>großer Kreuzer Ersatz Yorck-Klasse</color>
+Ersatz Yorck"
 germ_battlecruiser_ersatz_yorck_1;Ersatz Yorck
 germ_battlecruiser_ersatz_yorck_2;Battlecruiser
 
 germ_battleship_scharnhorst_shop;Scharnhorst
-germ_battleship_scharnhorst_0;"Kriegsmarinewerft Wilhelmshaven
-Schlachtschiff Scharnhorst-Klasse
-Scharnhorst (1943)"
+germ_battleship_scharnhorst_0;"<color=#81c3fc>Kriegsmarinewerft Wilhelmshaven, Bau-Nr. 125</color>
+<color=#fffa62>Schlachtschiff Scharnhorst-Klasse</color>
+<color=#919191>Schlachtschiff D <color=@commonTextColor>|</color> Ersatz Elsaß</color>
+Scharnhorst
+<color=#adadad>(1943)</color>"
 germ_battleship_scharnhorst_1;Scharnhorst
 germ_battleship_scharnhorst_2;Battlecruiser
 
 germ_battleship_gneisenau_380mm_shop;Gneisenau
-germ_battleship_gneisenau_380mm_0;"Deutsche Werke Kiel / Deutsche Werke Gotenhafen
-Schlachtschiff Scharnhorst-Klasse
-Gneisenau (1943)"
+germ_battleship_gneisenau_380mm_0;"<color=#81c3fc>Deutsche Werke Kiel, Bau-Nr. 235 <color=@commonTextColor>/</color> Deutsche Werke Gotenhafen</color>
+<color=#fffa62>Schlachtschiff Scharnhorst-Klasse</color>
+<color=#919191>Schlachtschiff E <color=@commonTextColor>|</color> Ersatz Hessen</color>
+Gneisenau
+<color=#adadad>(1943)</color>"
 germ_battleship_gneisenau_380mm_1;Gneisenau
 germ_battleship_gneisenau_380mm_2;Battlecruiser
 
 germ_battlecruiser_mackensen_class_shop;Mackensen
-germ_battlecruiser_mackensen_class_0;"<color=#81c3fc>Blohm & Voss</color>
+germ_battlecruiser_mackensen_class_0;"<color=#81c3fc>Blohm & Voss, Bau-Nr. 240</color>
 <color=#fffa62>großer Kreuzer Mackensen-Klasse</color>
-<color=#7ce68f>Ersatz Victoria Louise</color>
+<color=#919191>Ersatz Victoria Louise</color>
 Mackensen"
 germ_battlecruiser_mackensen_class_1;Mackensen
 germ_battlecruiser_mackensen_class_2;Battlecruiser
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+germ_battleship_bismarck_shop;Bismarck
+germ_battleship_bismarck_0;"<color=#81c3fc>Blohm & Voss, Bau-Nr. 509 <color=@commonTextColor>/</color> Seebahnhof Pier</color>
+<color=#fffa62>Schlachtschiff Bismarck-Klasse</color>
+<color=#919191>Schlachtschiff F <color=@commonTextColor>|</color> Ersatz Hannover</color>
+Bismarck
+<color=#adadad>(1941)</color>"
+germ_battleship_bismarck_1;Bismarck
+germ_battleship_bismarck_2;Battleship
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+ar_2_shop;Ar-2
+ar_2_0;"<color=#81c3fc>Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo</color>
+Samolyet Ar-2"
+ar_2_1;Ar-2
+ar_2_2;Ar-2
+
+kor_1_shop;Bye-2
+kor_1_0;"<color=#81c3fc>Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ</color>
+Samolyet Bye-2"
+kor_1_1;Bye-2
+kor_1_2;Bye-2
+
+kor_2_shop;Bye-4
+kor_2_0;"<color=#81c3fc>Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ</color>
+Samolyet Bye-4"
+kor_2_1;Bye-4
+kor_2_2;Bye-4
+
+db_lk_shop;DB-LK
+db_lk_0;"<color=#81c3fc>Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo</color>
+Samolyet DB-LK"
+db_lk_1;DB-LK
+db_lk_2;DB-LK
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+yak_1_litvyak_shop;Litvâk's Yak-1
+yak_1_litvyak_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 115</color>
+Samolyet Yak-1
+<color=@currencyGoldColor>Lidiâ Vladimirovna Litvâk's</color>"
+yak_1_litvyak_1;Yak-1
+yak_1_litvyak_2;Yak-1
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+la_200_toriy_shop;200
+la_200_toriy_0;<color=#81c3fc>Opytno-konstruktorskoye bûro № 301 200</color>
+la_200_toriy_1;200
+la_200_toriy_2;200
+
+la-15_shop;La-15
+la-15_0;"<color=#81c3fc>Aviaczionnyj zavod № 21</color>
+<color=#5cae63>izd. 52</color>
+Samolyet La-15"
+la-15_1;La-15
+la-15_2;La-15
+
+l_39za_shop;L-39ZA
+l_39za_0;"<color=#81c3fc>Aero Vodochody</color>
+L-39ZA Albatros"
+l_39za_1;L-39ZA
+l_39za_2;L-39
+
+la_174_shop;174
+la_174_0;<color=#81c3fc>Opytno-konstruktorskoye bûro № 301 174</color>
+la_174_1;174
+la_174_2;174
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 su_25t_shop;Su-25T
@@ -3488,6 +3551,26 @@ nt_tu_95m_1;Tu-95M
 nt_tu_95m_2;Tu-95
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+mig-21_bis_shop;MiG-21bis
+mig-21_bis_0;"<color=#81c3fc>Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna</color>
+<color=#5cae63>izd. 75</color>
+Samolyet MiG-21bis"
+mig-21_bis_1;MiG-21bis
+mig-21_bis_2;MiG-21
+
+mig-21_bis_event_shop;MiG-21bis
+mig-21_bis_event_0;"<color=#81c3fc>Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna</color>
+<color=#5cae63>izd. 75</color>
+Samolyet MiG-21bis"
+mig-21_bis_event_1;MiG-21bis
+mig-21_bis_event_2;MiG-21
+
+mig_23m_shop;MiG-23M
+mig_23m_0;"<color=#5cae63>izd. 23-11M</color>
+MiG-23M"
+mig_23m_1;MiG-23M
+mig_23m_2;MiG-23
+
 mig_23mld_shop;MiG-23MLD
 mig_23mld_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye</color>
 <color=#5cae63>izd. 23-18</color>
@@ -3501,6 +3584,12 @@ nt_mig_23mld_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""
 MiG-23MLD"
 nt_mig_23mld_1;MiG-23MLD
 nt_mig_23mld_2;MiG-23
+
+mig_23ml_shop;MiG-23ML
+mig_23ml_0;"<color=#5cae63>izd. 23-12</color>
+MiG-23ML"
+mig_23ml_1;MiG-23ML
+mig_23ml_2;MiG-23
 
 su_24m_shop;Su-24M2
 su_24m_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
@@ -3516,7 +3605,77 @@ Samolyet Su-24M2"
 nt_su_24m_1;Su-24M
 nt_su_24m_2;Su-24
 
+mig_25pd_shop;MiG-25PD
+mig_25pd_0;"<color=#81c3fc>Moskovskij mašinostroityel'nyj zavod «Zyenit»</color>
+<color=#5cae63>izd. 84D</color>
+Samolyet MiG-25PD"
+mig_25pd_1;MiG-25PD
+mig_25pd_2;MiG-25
+
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+mig_29_9_12_shop;MiG-29 (9-12)
+mig_29_9_12_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye</color>
+<color=#5cae63>izd. 9-12</color>
+Samolyet MiG-29"
+mig_29_9_12_1;MiG-29
+mig_29_9_12_2;MiG-29
+
+mig_29m_9_15_shop;MiG-29M
+mig_29m_9_15_0;"<color=#81c3fc>Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol»</color>
+<color=#5cae63>izd. 9-15</color>
+Samolyet MiG-29M"
+mig_29m_9_15_1;MiG-29M
+mig_29m_9_15_2;MiG-29
+
+su_27_shop;Su-27
+su_27_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-10S</color>
+Samolyet Su-27"
+su_27_1;Su-27
+su_27_2;Su-27
+
+su_27sm_shop;Su-27SM
+su_27sm_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-10SM</color>
+Samolyet Su-27SM"
+su_27sm_1;Su-27SM
+su_27sm_2;Su-27
+
+su_30sm_shop;Su-30SM
+su_30sm_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-10PU</color>
+Samolyet Su-30SM"
+su_30sm_1;Su-30SM
+su_30sm_2;Su-30
+
+su_30sm2_shop;Su-30SM2 (2025)
+su_30sm2_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-10PU</color>
+Samolyet Su-30SM2
+<color=#adadad>(2025)</color>"
+su_30sm2_1;Su-30SM2
+su_30sm2_2;Su-30
+
+su_30mk2v_venezuela_shop;▄ Su-30MK2
+su_30mk2v_venezuela_0;"▄ <color=#81c3fc>Kompaniâ «Sukhoj»</color>
+Su-30MK2"
+su_30mk2v_venezuela_1;▄ Su-30MK2
+su_30mk2v_venezuela_2;▄ Su-30
+
+su_34_shop;Su-34NVO
+su_34_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-10V</color>
+Samolyet Su-34NVO"
+su_34_1;Su-34NVO
+su_34_2;Su-34
+
+su_33_shop;Su-33 (SVP-24-33)
+su_33_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-10K</color>
+Samolyet Su-33
+<color=#adadad>(SVP-24-33)</color>"
+su_33_1;Su-33
+su_33_2;Su-33
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 

@@ -1,0 +1,83 @@
+<ID|readonly|noverify>;<English>
+<color=#81c3fc>Manufacturer & manufacturer name</color>
+<color=#ff8c80>Military project</color>
+<color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
+<color=#fffa62>Ship class</color>
+<color=#ff831c>Previous name</color>
+<color=#7ce68f>Alternate applicable name</color>
+Vehicle name
+<color=#adadad>Modifications</color>
+<color=#ba77ba>Service years package</color>
+<color=@currencyGoldColor>Unit/Ace</color>
+
+//COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+
+//COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+
+//COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+
+//COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+
+//COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+germ_battleship_konig_shop;SMS König
+germ_battleship_konig_0;"<color=#81c3fc>Kaiserliche Werft Wilhelmshaven, Bau-Nr. 33</color>
+<color=#fffa62>Linienschiff König-Klasse</color>
+<color=#919191>Linienschiff S</color>
+SMS König
+<color=#adadad>(1917)</color>"
+germ_battleship_konig_1;S.M.S. König
+germ_battleship_konig_2;Battleship
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+germ_battlecruiser_ersatz_yorck_shop;Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_0;"<color=#81c3fc>Stettiner Maschinenbau Actien-Gesellschaft Vulcan, Bau-Nr. 35</color>
+<color=#fffa62>großer Kreuzer Ersatz Yorck-Klasse</color>
+Ersatz Yorck"
+germ_battlecruiser_ersatz_yorck_1;Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_2;Battlecruiser
+
+germ_battleship_scharnhorst_shop;Scharnhorst
+germ_battleship_scharnhorst_0;"<color=#81c3fc>Kriegsmarinewerft Wilhelmshaven, Bau-Nr. 125</color>
+<color=#fffa62>Schlachtschiff Scharnhorst-Klasse</color>
+<color=#919191>Schlachtschiff D <color=@commonTextColor>|</color> Ersatz Elsaß</color>
+Scharnhorst
+<color=#adadad>(1943)</color>"
+germ_battleship_scharnhorst_1;Scharnhorst
+germ_battleship_scharnhorst_2;Battlecruiser
+
+germ_battleship_gneisenau_380mm_shop;Gneisenau
+germ_battleship_gneisenau_380mm_0;"<color=#81c3fc>Deutsche Werke Kiel, Bau-Nr. 235 <color=@commonTextColor>/</color> Deutsche Werke Gotenhafen</color>
+<color=#fffa62>Schlachtschiff Scharnhorst-Klasse</color>
+<color=#919191>Schlachtschiff E <color=@commonTextColor>|</color> Ersatz Hessen</color>
+Gneisenau
+<color=#adadad>(1943)</color>"
+germ_battleship_gneisenau_380mm_1;Gneisenau
+germ_battleship_gneisenau_380mm_2;Battlecruiser
+
+germ_battlecruiser_mackensen_class_shop;Mackensen
+germ_battlecruiser_mackensen_class_0;"<color=#81c3fc>Blohm & Voss, Bau-Nr. 240</color>
+<color=#fffa62>großer Kreuzer Mackensen-Klasse</color>
+<color=#919191>Ersatz Victoria Louise</color>
+Mackensen"
+germ_battlecruiser_mackensen_class_1;Mackensen
+germ_battlecruiser_mackensen_class_2;Battlecruiser
+
+//BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+germ_battleship_bismarck_shop;Bismarck
+germ_battleship_bismarck_0;"<color=#81c3fc>Blohm & Voss, Bau-Nr. 509 <color=@commonTextColor>/</color> Seebahnhof Pier</color>
+<color=#fffa62>Schlachtschiff Bismarck-Klasse</color>
+<color=#919191>Schlachtschiff F <color=@commonTextColor>|</color> Ersatz Hannover</color>
+Bismarck
+<color=#adadad>(1941)</color>"
+germ_battleship_bismarck_1;Bismarck
+germ_battleship_bismarck_2;Battleship

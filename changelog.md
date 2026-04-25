@@ -76,6 +76,9 @@ All dates are listed in DD-MM-YYYY format.
     - **Gneisenau**: Statcard name → **Deutsche Werke Kiel, Bau-Nr. 235 / Deutsche Werke Gotenhafen | Schlachtschiff Scharnhorst-Klasse | Gneisenau (1943)**.
     - **Bismarck**: Statcard name → **Blohm & Voss, Bau-Nr. 509 / Seebahnhof Pier | Schlachtschiff Bismarck-Klasse | Bismarck (1941)**.
     - **Litvâk's Yak-1**: Statcard name → **Opytno-konstruktorskoye bûro № 115 | Lidiâ Vladimirovna Litvâk's Samolyet Yak-1**.
+    - **F-84F-51-GK (Ṭayeset 200)**: Statcard name → **Republic Aviation Corporation AP-23M | F-84F-51-GK Thunderstreak (Ṭayeset 200)**.
+        - Hebrew package: Statcard name → **Republic Aviation Corporation AP-23M | (טייסת 200) F-84F-51-GK Thunderstreak**.
+    - **F-84F-51-GK (EC 1/1)**: Statcard name → **Republic Aviation Corporation AP-23M | F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 "Corse")**.
 
 ## 1.17.02 - 16-04-2026
 

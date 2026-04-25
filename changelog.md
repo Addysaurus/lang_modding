@@ -18,7 +18,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.17.03 - 16-04-2026
+## 1.17.03 - 24-04-2026
 
 ### Vehicles:
 

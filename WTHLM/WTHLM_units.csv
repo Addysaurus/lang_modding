@@ -924,13 +924,6 @@ ussr_locomotive_e_1298_shop;Locomotive
 ussr_locomotive_e_1298_0;Locomotive
 ussr_locomotive_e_1298_1;Locomotive
 ussr_locomotive_e_1298_2;Locomotive
-uk_cruiser_enterprise_d52_shop;HMS Enterprise (D 52)
-uk_cruiser_enterprise_d52_0;John Brown & Co. / Devonport Royal Dockyard | Emerald-class | HMS Enterprise (D 52) (1944)
-uk_cruiser_enterprise_d52_1;HMS Enterprise
-uk_cruiser_enterprise_d52_2;Light Cruiser
-uk_cruiser_enterprise_d52_EC_0;John Brown & Co. / Devonport Royal Dockyard | Emerald-class | HMS Enterprise (D 52) (1944)
-uk_cruiser_enterprise_d52_EC_1;HMS Enterprise
-uk_cruiser_enterprise_d52_EC_2;Light Cruiser
 structures/germ_380mm_skc34_0;Battleship artillery
 structures/germ_380mm_skc34_1;Battleship artillery
 structures/germ_380mm_skc34_2;Battleship artillery
@@ -1522,11 +1515,11 @@ shop/group/meteor3_group;Meteor F. Mk. 3 / 3 (EE337)
 shop/group/meteor4_group;Meteor F. Mk. 3/4 / 4 / 8
 shop/group/canberra_group;Canberra B. Mk. 2 / B.(I) Mk. 6
 shop/group/hawk_200_group;Hawk 200 (ZH200) / (RDA)
-shop/group/f_111c_tornado_group;▄ F-111F / Tornado G.R. Mk. 1
+shop/group/f_111c_tornado_group;▄ F-111C / Tornado G.R. Mk. 1
 shop/group/fa_18a_raaf_group;▄ F/A-18A / A (HUG 2.4)
 shop/group/uk_destroyer_battle_group;HMS Armada / HMAS Tobruk
 shop/group/uk_destroyer_daring_group;HMS Diana / Daring
-shop/group/uk_cruiser_kent_norfolk_group;HMS Kent / Norfolk
+shop/group/uk_cruiser_kent_norfolk_group;HMS Kent / Norfolk / London
 
 shop/group/jp_ro_ni_group;Ho Ro / Ni II
 shop/group/jp_type_60_group;60SP / APC (ATM-1)
@@ -2136,7 +2129,7 @@ ucav_wing_loong_i_2;GJ1
 
 //SHIP-LAUNCHED FLOATPLANES
 sc_1_shop;SC-1
-sc_1_0;Curtiss-Wright Corporation | SC-1 Seahawk
+sc_1_0;Curtiss-Wright Corporation Model 97B | SC-1 Seahawk
 sc_1_1;SC-1
 sc_1_2;SC-1
 
@@ -2840,25 +2833,25 @@ f_106a_1972_0;Convair Model 8-31 | F-106A-100-CO Delta Dart (Project Six Shooter
 f_106a_1972_1;F-106A
 f_106a_1972_2;F-106
 b_52h_shop;B-52H-140-BW (1979)
-b_52h_0;Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32)
+b_52h_0;Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))
 b_52h_1;B-52H
 b_52h_2;B-52
 nt_b_52h_shop;☢ B-52H-140-BW (1979)
-nt_b_52h_0;☢ Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Jolly Well) (Project Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32)
+nt_b_52h_0;☢ Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Jolly Well) (Project Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))
 nt_b_52h_1;☢ B-52H
 nt_b_52h_2;☢ B-52
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 f-5e_shop;F-5E-3-NO
-f-5e_0;Northrop | F-5E-3-NO Tiger II
+f-5e_0;Northrop Corporation F-5-21 | F-5E-3-NO Tiger II
 f-5e_1;F-5E
 f-5e_2;F-5
 f-5c_shop;F-5C-NO
-f-5c_0;Northrop | F-5C-NO Skoshi Tiger
+f-5c_0;Northrop Corporation N-156F | F-5C-NO Skoshi Tiger
 f-5c_1;F-5C
 f-5c_2;F-5
 f-5a_shop;YF-5A-NO
-f-5a_0;Northrop | YF-5A-NO Freedom Fighter
+f-5a_0;Northrop Corporation N-156F | YF-5A-NO Freedom Fighter
 f-5a_1;YF-5A-NO
 f-5a_2;YF-5
 f-4c_shop;F-4C-24-MC
@@ -2902,7 +2895,7 @@ a_7k_0;Vought Corporation | A-7K-CV Corsair II
 a_7k_1;A-7K
 a_7k_2;A-7
 f-105d_shop;F-105D-31-RE
-f-105d_0;F-105D-31-RE Thunderchief
+f-105d_0;Republic Aviation Corporation AP-63-31 | F-105D-31-RE Thunderchief
 f-105d_1;F-105D
 f-105d_2;F-105
 f_111a_shop;F-111A
@@ -3214,13 +3207,13 @@ us_m4a2_76w_sherman_0;G-104 | Tank, Medium, M4A2 (76) W Sherman
 us_m4a2_76w_sherman_1;M4A2
 us_m4a2_76w_sherman_2;Medium Tank
 us_m4a3e8_76w_sherman_shop;M4A3E8(76)W
-us_m4a3e8_76w_sherman_0;United States Army Ordnance Department | G-104 | G-104 | Tank, Medium, M4A3E8(76)W Sherman
+us_m4a3e8_76w_sherman_0;United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman
 us_m4a3e8_76w_sherman_1;M4A3E8
 us_m4a3e8_76w_sherman_2;Medium Tank
 us_m4a3e2_sherman_jumbo_shop;M4A3E2 (75) W
 us_m4a3e2_sherman_jumbo_0;"G-104 | Tank, Medium, M4A3E2 (75)  Sherman ""Jumbo"""
 us_m4a3e2_sherman_jumbo_1;M4A3E2
-us_m4a3e2_sherman_jumbo_2;Assault tank
+us_m4a3e2_sherman_jumbo_2;Assault Tank
 us_m4a3e8_76w_sherman_kit_3rank_shop;"M4A3E8(76)W ""Hell on Wheels"""
 us_m4a3e8_76w_sherman_kit_3rank_0;"United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman ""Hell on Wheels"""
 us_m4a3e8_76w_sherman_kit_3rank_1;M4A3E8
@@ -3232,7 +3225,7 @@ us_m4_t26_2;Medium Tank
 us_m4a3e2_76w_sherman_jumbo_shop;M4A3E2 (76) W
 us_m4a3e2_76w_sherman_jumbo_0;"G-104 | Tank, Medium, M4A3E2 (76) W Sherman ""Jumbo"""
 us_m4a3e2_76w_sherman_jumbo_1;M4A3E2 (76) W
-us_m4a3e2_76w_sherman_jumbo_2;Assault tank
+us_m4a3e2_76w_sherman_jumbo_2;Assault Tank
 us_m4a5_ram_2_shop;"▃ Ram, Mk. II ""B"""
 us_m4a5_ram_2_0;"▃ Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. II ""B"""
 us_m4a5_ram_2_1;▃ Ram, Mk. II
@@ -3248,7 +3241,7 @@ us_m4_sherman_calliope_2;Medium Tank
 us_m4a3e2_sherman_jumbo_cobra_king_shop;M4A3E2 (75) W (37th T.Bat.)
 us_m4a3e2_sherman_jumbo_cobra_king_0;"G-104 | Tank, Medium, M4A3E2 (75) W Sherman (37th Tank Battalion) ""Jumbo"" ""Cobra King"""
 us_m4a3e2_sherman_jumbo_cobra_king_1;M4A3E2
-us_m4a3e2_sherman_jumbo_cobra_king_2;Assault tank
+us_m4a3e2_sherman_jumbo_cobra_king_2;Assault Tank
 us_m4a2_76w_sherman_tutorial_shop;M4A2 (76) W
 us_m4a2_76w_sherman_tutorial_0;G-104 | Tank, Medium, M4A2 (76) W Sherman
 us_m4a2_76w_sherman_tutorial_1;M4A2
@@ -3268,7 +3261,7 @@ us_t77e1_2;SPAA
 us_m10_shop;M10 GMC
 us_m10_0;G-130 | Carriage, Motor, 3-inch Gun, M10
 us_m10_1;M10
-us_m10_2;TD
+us_m10_2;Tank Destroyer
 us_t18_e2_shop;T18E2 HAC
 us_t18_e2_0;"G-133 | Car, Armored, Heavy, T18E2 ""Boarhound"""
 us_t18_e2_1;T18E2
@@ -3330,15 +3323,15 @@ us_m55_2;SPH
 us_m36_shop;M36 GMC
 us_m36_0;"G-210 | Carriage, Motor, 90mm Gun, M36 ""Jackson"""
 us_m36_1;M36
-us_m36_2;TD
+us_m36_2;Tank Destroyer
 us_m36b2_shop;M36B2 GMC
 us_m36b2_0;"G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
 us_m36b2_1;M36B2
-us_m36b2_2;TD
+us_m36b2_2;Tank Destroyer
 us_t14_shop;T14
 us_t14_0;Tank, Assault, T14
 us_t14_1;T14
-us_t14_2;Assault tank
+us_t14_2;Assault Tank
 us_skink_aa_kit_3rank_shop;"▃ Skink ""Hell on Wheels"""
 us_skink_aa_kit_3rank_0;"▃ Canadian Ministry of Munitions and Supply, Army Engineering Design Branch + Waterloo Manufacturing Company | Tank, Anti-Aircraft, 20mm, Quad, Skink ""Hell on Wheels"""
 us_skink_aa_kit_3rank_1;▃ Skink
@@ -3396,7 +3389,7 @@ us_m46_patton_73_armor_bat_2;Medium Tank
 us_t26e5_shop;T26E5
 us_t26e5_0;G-198 | Tank, Heavy, T26E5
 us_t26e5_1;T26E5
-us_t26e5_2;Assault tank
+us_t26e5_2;Assault Tank
 us_t26e4_superpershing_shop;T26E4-1
 us_t26e4_superpershing_0;"Heavy Tank T26E4-1 ""Super Pershing"""
 us_t26e4_superpershing_1;T26E4
@@ -3624,7 +3617,7 @@ us_m10_booker_late_0;General Dynamics Land Systems | Combat Vehicle, Tracked, Li
 us_m10_booker_late_1;M10
 us_m10_booker_late_2;Light Tank
 us_hstv_l_shop;HSTV(L)
-us_hstv_l_0;High Survivability Test Vehicle (Lightweight)
+us_hstv_l_0;AAI Corperation | High Survivability Test Vehicle (Lightweight)
 us_hstv_l_1;HSTV(L)
 us_hstv_l_2;Light Tank
 us_m60_120s_shop;120S
@@ -3632,7 +3625,7 @@ us_m60_120s_0;General Dynamics Land Systems 120S Main Battle Tank
 us_m60_120s_1;120S
 us_m60_120s_2;MBT
 us_m1a1_hc_abrams_shop;M1A1HC
-us_m1a1_hc_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC
+us_m1a1_hc_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1 Abrams, Heavy Common
 us_m1a1_hc_abrams_1;M1A1
 us_m1a1_hc_abrams_2;MBT
 us_m1_abrams_shop;M1
@@ -3676,7 +3669,7 @@ us_m1a1_hc_usmc_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 12
 us_m1a1_hc_usmc_1;M1A1
 us_m1a1_hc_usmc_2;MBT
 us_m1a1_hc_usmc_sm_shop;◍ M1A1HC
-us_m1a1_hc_usmc_sm_0;◍ General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC «Kate»
+us_m1a1_hc_usmc_sm_0;◍ General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC Abrams, Heavy Common «Kate»
 us_m1a1_hc_usmc_sm_1;◍ M1A1HC
 us_m1a1_hc_usmc_sm_2;MBT
 us_lav_ad_shop;LAV-AD
@@ -3710,7 +3703,7 @@ us_adats_bradley_0;XM1069 (Air Defense Anti-Tank System)
 us_adats_bradley_1;XM1069
 us_adats_bradley_2;SPAA
 us_sl_amraam_fcs_shop;M1097A2 (AN/MPQ-64)
-us_sl_amraam_fcs_0;Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (AN/MPQ-64 Sentinel)
+us_sl_amraam_fcs_0;Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (Radar Set, AN/MPQ-64 Sentinel)
 us_sl_amraam_fcs_1;M1097A2 (AN/MPQ-64)
 us_sl_amraam_fcs_2;Radar
 us_sl_amraam_launcher_shop;M1097A2 (SLAMRAAM)
@@ -3718,7 +3711,7 @@ us_sl_amraam_launcher_0;Raytheon Technologies Corporation | Truck, Utility: Heav
 us_sl_amraam_launcher_1;M1097A2 (SLAMRAAM)
 us_sl_amraam_launcher_2;SPAAM
 us_nasams_fcs_shop;M1097A2 (AN/MPQ-64)
-us_nasams_fcs_0;Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (AN/MPQ-64 Sentinel)
+us_nasams_fcs_0;Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (Radar Set, AN/MPQ-64 Sentinel)
 us_nasams_fcs_1;M1097A2 (AN/MPQ-64)
 us_nasams_fcs_2;Radar
 us_nasams_launcher_shop;▃◢ P113H 380 (NASAMS 3)
@@ -3740,11 +3733,11 @@ us_elco_77ft_pt20_0;Elco 77 ft motor morpedo boat, USS PT-20
 us_elco_77ft_pt20_1;PT-20
 us_elco_77ft_pt20_2;Motor Torpedo Boat
 us_huckins_78ft_pt95_shop;USS PT-95
-us_huckins_78ft_pt95_0;Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-95
+us_huckins_78ft_pt95_0;Huckins Yacht Corporation | Huckins 78'-class Motor Torpedo Boat | USS PT-95
 us_huckins_78ft_pt95_1;USS PT-95
 us_huckins_78ft_pt95_2;Motor Torpedo Boat
 us_huckins_78ft_pt262_shop;USS PT-262
-us_huckins_78ft_pt262_0;Huckins Yacht Corporation | Huckings 78'-class Motor Torpedo Boat | USS PT-262
+us_huckins_78ft_pt262_0;Huckins Yacht Corporation | Huckins 78'-class Motor Torpedo Boat | USS PT-262
 us_huckins_78ft_pt262_1;USS PT-262
 us_huckins_78ft_pt262_2;Motor Torpedo Boat
 us_pt3_shop;PT-3
@@ -3803,9 +3796,9 @@ us_pgm_59_class_shop;Kim Qui (HQ 605)
 us_pgm_59_class_0;PGM-59-class motor gun boat, Kim Qui (HQ 605)
 us_pgm_59_class_1;Kim Qui (HQ 605)
 us_pgm_59_class_2;Gunboat
-us_lcm_zippo_shop;Z-2
-us_lcm_zippo_0;"Fincantieri Marinette Marine | Landing Craft, Mechanized, (Mk. 6) (Flamethrower) ""Zippo"" | Z-2"
-us_lcm_zippo_1;Z-2
+us_lcm_zippo_shop;USS Z-2
+us_lcm_zippo_0;"Fincantieri Marinette Marine | Landing Craft, Mechanized, (Mk. 6) (Flamethrower) ""Zippo"" | USS Z-2"
+us_lcm_zippo_1;USS Z-2
 us_lcm_zippo_2;Monitor
 us_elco_80ft_pt_boat_thunderbolt_shop;PT-556
 us_elco_80ft_pt_boat_thunderbolt_0;Elco 80 ft motor torpedo boat, USS PT-556
@@ -3818,7 +3811,7 @@ us_higgins_78ft_pt658_2;Motor Torpedo Boat
 us_flagstaff_pgh1_shop;USS Flagstaff (PGH-1)
 us_flagstaff_pgh1_0;USS Flagstaff (PGH-1)
 us_flagstaff_pgh1_1;USS Flagstaff
-us_flagstaff_pgh1_2;Motor gun boat
+us_flagstaff_pgh1_2;Motor Gun Boat
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 us_tucumcari_pgh2_shop;USS Tucumcari (PGH-2)
@@ -3895,18 +3888,6 @@ us_destroyer_farragut_1942_1;USS Aylwin
 us_destroyer_farragut_1942_2;Destroyer
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
-us_destroyer_sumner_shop;USS Allan M. Sumner (DD-692)
-us_destroyer_sumner_0;Federal Shipbuilding and Drydock Company | Allen M. Sumner-class Destroyer | USS Allen M. Sumner (DD-692)
-us_destroyer_sumner_1;USS Allan M. Sumner
-us_destroyer_sumner_2;Destroyer
-us_destroyer_gearing_shop;USS Gearing (DD-710)
-us_destroyer_gearing_0;Federal Shipbuilding and Drydock Company | Gearing-class Destroyer | USS Gearing (DD-710)
-us_destroyer_gearing_1;USS Gearing
-us_destroyer_gearing_2;Destroyer
-us_destroyer_gearing_frank_knox_shop;USS Frank Knox (DD-742)
-us_destroyer_gearing_frank_knox_0;Bath Iron Works | Gearing-class Destroyer | USS Frank Knox (DD-742)
-us_destroyer_gearing_frank_knox_1;USS Frank Knox
-us_destroyer_gearing_frank_knox_2;Destroyer
 us_destroyer_bagley_class_bagley_shop;USS Bagley (DD-386)
 us_destroyer_bagley_class_bagley_0;Norfolk Naval Shipyard | Bagley-class Destroyer | USS Bagley (DD-386)
 us_destroyer_bagley_class_bagley_1;USS Bagley
@@ -3973,6 +3954,18 @@ us_cruiser_omaha_class_detroit_shop;USS Detroit (CL-8)
 us_cruiser_omaha_class_detroit_0;Fore River Shipyard / Mare Island Naval Shipyard | Omaha-class Light Cruiser | USS Detroit (CL-8) (1942)
 us_cruiser_omaha_class_detroit_1;USS Detroit
 us_cruiser_omaha_class_detroit_2;Light Cruiser
+us_destroyer_sumner_shop;USS Allan M. Sumner (DD-692)
+us_destroyer_sumner_0;Federal Shipbuilding and Drydock Company | Allen M. Sumner-class Destroyer | USS Allen M. Sumner (DD-692)
+us_destroyer_sumner_1;USS Allan M. Sumner
+us_destroyer_sumner_2;Destroyer
+us_destroyer_gearing_shop;USS Gearing (DD-710)
+us_destroyer_gearing_0;Federal Shipbuilding and Drydock Company | Gearing-class Destroyer | USS Gearing (DD-710)
+us_destroyer_gearing_1;USS Gearing
+us_destroyer_gearing_2;Destroyer
+us_destroyer_gearing_frank_knox_shop;USS Frank Knox (DD-742)
+us_destroyer_gearing_frank_knox_0;Bath Iron Works | Gearing-class Destroyer | USS Frank Knox (DD-742)
+us_destroyer_gearing_frank_knox_1;USS Frank Knox
+us_destroyer_gearing_frank_knox_2;Destroyer
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 us_destroyer_cf_adams_class_cf_adams_shop;USS Charles F. Adams (DDG-2)
@@ -3987,6 +3980,14 @@ us_cruiser_atlanta_class_atlanta_shop;USS Atlanta (CL-51)
 us_cruiser_atlanta_class_atlanta_0;Federal Shipbuilding and Drydock Company | Atlanta-class Light Cruiser | USS Atlanta (CL-51)
 us_cruiser_atlanta_class_atlanta_1;USS Atlanta
 us_cruiser_atlanta_class_atlanta_2;Light Cruiser
+us_cruiser_cleveland_class_cleveland_shop;USS Cleveland (CL-55)
+us_cruiser_cleveland_class_cleveland_0;New York Shipbuilding Corporation | Cleveland-class Light Cruiser | USS Cleveland (CL-55)
+us_cruiser_cleveland_class_cleveland_1;USS Cleveland
+us_cruiser_cleveland_class_cleveland_2;Light Cruiser
+us_cruiser_fargo_class_shop;USS Fargo (CL-106)
+us_cruiser_fargo_class_0;New York Shipbuilding Corporation | Fargo-class Light Cruiser | USS Fargo (CL-106)
+us_cruiser_fargo_class_1;USS Fargo
+us_cruiser_fargo_class_2;Light Cruiser
 us_cruiser_portland_class_shop;USS Portland (CA-33)
 us_cruiser_portland_class_0;Fore River Shipyard / Mare Island Naval Shipyard | Portland-class Heavy Cruiser | USS Portland (CA-33) (1943)
 us_cruiser_portland_class_1;USS Portland
@@ -4013,18 +4014,14 @@ us_cruiser_brooklyn_class_brooklyn_1;USS Brooklyn
 us_cruiser_brooklyn_class_brooklyn_2;Light Cruiser
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
-us_cruiser_fargo_class_shop;USS Fargo (CL-106)
-us_cruiser_fargo_class_0;New York Shipbuilding Corporation | Fargo-class Light Cruiser | USS Fargo (CL-106)
-us_cruiser_fargo_class_1;USS Fargo
-us_cruiser_fargo_class_2;Light Cruiser
 us_cruiser_worcester_class_roanoke_shop;USS Roanoke (CL-145)
 us_cruiser_worcester_class_roanoke_0;New York Shipbuilding Corporation | Worcester-class Light Cruiser | USS Roanoke (CL-145)
 us_cruiser_worcester_class_roanoke_1;USS Roanoke
 us_cruiser_worcester_class_roanoke_2;Light Cruiser
-us_cruiser_cleveland_class_cleveland_shop;USS Cleveland (CL-55)
-us_cruiser_cleveland_class_cleveland_0;New York Shipbuilding Corporation | Cleveland-class Light Cruiser | USS Cleveland (CL-55)
-us_cruiser_cleveland_class_cleveland_1;USS Cleveland
-us_cruiser_cleveland_class_cleveland_2;Light Cruiser
+us_battleship_texas_shop;USS Texas (BB-35)
+us_battleship_texas_0;Newport News Shipbuilding and Dry Dock Company / Brooklyn Navy Yard | New York-class Battleship | USS Texas (BB-35) (1945)
+us_battleship_texas_1;USS Texas
+us_battleship_texas_2;Battleship
 us_battleship_north_dakota_shop;USS North Dakota (BB-29)
 us_battleship_north_dakota_0;Fore River Shipyard | Delaware-class Battleship | USS North Dakota (BB-29) (1917)
 us_battleship_north_dakota_1;USS North Dakota
@@ -4059,10 +4056,6 @@ us_cruiser_des_moines_class_1;USS Des Moines
 us_cruiser_des_moines_class_2;Heavy Cruiser
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
-us_battleship_texas_shop;USS Texas (BB-35)
-us_battleship_texas_0;Newport News Shipbuilding and Dry Dock Company / Brooklyn Navy Yard | New York-class Battleship | USS Texas (BB-35) (1945)
-us_battleship_texas_1;USS Texas
-us_battleship_texas_2;Battleship
 us_battleship_arizona_1931_shop;USS Arizona (BB-39)
 us_battleship_arizona_1931_0;Brooklyn Navy Yard / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | Pennsylvania-class Battleship | USS Arizona (BB-39) (1938)
 us_battleship_arizona_1931_1;USS Arizona
@@ -4212,15 +4205,15 @@ he51b_2w_0;He 51 B-2
 he51b_2w_1;He 51 B
 he51b_2w_2;He 51
 he_112v_5_shop;He 112 V5
-he_112v_5_0;Heinkel | He 112 V5
+he_112v_5_0;Heinkel Flugzeugwerke | He 112 V5
 he_112v_5_1;He 112
 he_112v_5_2;He 112
 he_112a_0_shop;He 112 A-0
-he_112a_0_0;Heinkel | He 112 A-0
+he_112a_0_0;Heinkel Flugzeugwerke | He 112 A-0
 he_112a_0_1;He 112 A
 he_112a_0_2;He 112
 he_112b_0_shop;He 112 B-0
-he_112b_0_0;Heinkel | He 112 B-0
+he_112b_0_0;Heinkel Flugzeugwerke | He 112 B-0
 he_112b_0_1;He 112 B
 he_112b_0_2;He 112
 he_112b_1_shop;◐ He 112 B-1/U2
@@ -4365,6 +4358,10 @@ fw-189a-1_1;Fw 189 A
 fw-189a-1_2;Fw 189
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+c_3604_shop;Flz. C-3604
+c_3604_0;Eidgenössisches Flugzeugwerk | Flugzeug C-3604
+c_3604_1;Flz. C-3604
+c_3604_2;Flz. C-36
 fw-190a-1_shop;Fw 190 A-1
 fw-190a-1_0;Fw 190 A-1
 fw-190a-1_1;Fw 190 A
@@ -4553,10 +4550,6 @@ sm_79_1942_shop;▀ S.M.79bis/N (1942)
 sm_79_1942_0;▀ S.M.79bis/N Sparviero (1942)
 sm_79_1942_1;▀ S.M.79bis/N
 sm_79_1942_2;▀ S.M.79
-c_3604_shop;Flz. C-3604
-c_3604_0;Eidgenössisches Flugzeugwerk | Flugzeug C-3604
-c_3604_1;Flz. C-3604
-c_3604_2;Flz. C-36
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 do_335a_1_shop;Do 335 A-1
@@ -4734,7 +4727,7 @@ fiat_g91_r3_0;◄ G.91 R/3
 fiat_g91_r3_1;◄ G.91 R
 fiat_g91_r3_2;◄ G.91
 alpha_jet_a_shop;◄ Alpha Jet A
-alpha_jet_a_0;◄ Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | Alpha Jet A
+alpha_jet_a_0;◄ Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A
 alpha_jet_a_1;◄ Alpha Jet A
 alpha_jet_a_2;◄ Alpha Jet A
 alpha_jet_a_jabog41_shop;◄ Alpha Jet A (JaboG 41)
@@ -4841,14 +4834,6 @@ f-5e_switzerland_1;◌ F5 E (1999)
 f-5e_switzerland_2;◌ F5
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
-ef_2000_block_10_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement A)
-ef_2000_block_10_1;◄ Eurofighter
-ef_2000_block_10_2;◄ Eurofighter
-ef_2000_aesa_shop;◄ Eurofighter (P3Ec1)
-ef_2000_aesa_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement C Step 1)
-ef_2000_aesa_1;◄ Eurofighter
-ef_2000_aesa_2;◄ Eurofighter
 mig_29_9_12_germany_shop;◊ MiG-29 (9-12A)
 mig_29_9_12_germany_0;◊ izd. 9-12A | MiG-29
 mig_29_9_12_germany_1;◊ MiG-29
@@ -4865,6 +4850,16 @@ fa_18c_late_switzerland_shop;◌ F/A18 C (Upgrade 25)
 fa_18c_late_switzerland_0;◌ McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A18 C Hornet (Upgrade 25)
 fa_18c_late_switzerland_1;◌ F/A18 C
 fa_18c_late_switzerland_2;◌ F/A18
+
+//GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
+ef_2000_block_10_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement A)
+ef_2000_block_10_1;◄ Eurofighter
+ef_2000_block_10_2;◄ Eurofighter
+ef_2000_aesa_shop;◄ Eurofighter (P3Ec1)
+ef_2000_aesa_0;◄ Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10) | Eurofighter (Phase 3 Enhancement C Step 1)
+ef_2000_aesa_1;◄ Eurofighter
+ef_2000_aesa_2;◄ Eurofighter
 
 //GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 sa_313b_shop;◄ SE 313 B
@@ -5061,6 +5056,10 @@ germ_sdkfz_221_s_pz_b_41_shop;le.Pz.Spw. (s.Pz.B. 41)
 germ_sdkfz_221_s_pz_b_41_0;leichter Panzerspähwagen (s.Pz.B. 41) (Sd.Kfz. 221) (2. Serie)
 germ_sdkfz_221_s_pz_b_41_1;le.Pz.Spw. (s.Pz.B. 41)
 germ_sdkfz_221_s_pz_b_41_2;SPG
+germ_panzerjager_1_shop;Pz.Jgr. I
+germ_panzerjager_1_0;4,7cm Pa.K. 36(t) (Sfl.) auf Fahrgestell Panzerkampfwagen I (II Serie) | Panzerjäger I
+germ_panzerjager_1_1;Pz.Jgr. I
+germ_panzerjager_1_2;SPG
 germ_sdkfz_251_9_shop;m.S.P.W. D (7,5cm K.)
 germ_sdkfz_251_9_0;mittlerer Schützenpanzerwagen Ausf. D (7,5cm K.) (Sd.Kfz. 251/9)
 germ_sdkfz_251_9_1;m.S.P.W. (7,5cm K.)
@@ -5193,11 +5192,11 @@ germ_th_400_2;Light Tank
 germ_schutzenpanzer_puma_shop;SPz Puma S0
 germ_schutzenpanzer_puma_0;KNDS Deutschland | Schützenpanzer Puma S0
 germ_schutzenpanzer_puma_1;SPz Puma S0
-germ_schutzenpanzer_puma_2;Light Tank
+germ_schutzenpanzer_puma_2;IFV
 germ_schutzenpanzer_puma_vjtf_shop;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_0;KNDS Deutschland | Schützenpanzer Puma Very High Readiness Joint Task Force
 germ_schutzenpanzer_puma_vjtf_1;SPz Puma VJTF
-germ_schutzenpanzer_puma_vjtf_2;Light Tank
+germ_schutzenpanzer_puma_vjtf_2;IFV
 germ_leopard_2a4m_can_shop;Leopard 2A4M CAN
 germ_leopard_2a4m_can_0;KNDS Deutschland | Leopard 2A4M CAN
 germ_leopard_2a4m_can_1;Leopard 2A4M
@@ -5246,6 +5245,10 @@ germ_pr1331_2;Minesweeper
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
+germ_destroyer_fletcher_zerstorer4_0;Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)
+germ_destroyer_fletcher_zerstorer4_1;Z 4
+germ_destroyer_fletcher_zerstorer4_2;Destroyer
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 germ_destroyer_class1942_z51_shop;Z 51
@@ -5265,13 +5268,13 @@ germ_destroyer_lutjens_class_lutjens_2;Destroyer
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 germ_battleship_konig_shop;SMS König
-germ_battleship_konig_0;Kaiserliche Werft Wilhelmshaven | Schlachtschiff König-Klasse | SMS König (1917)
+germ_battleship_konig_0;Kaiserliche Werft Wilhelmshaven, Bau-Nr. 33 | Schlachtschiff König-Klasse | SMS König (1917)
 germ_battleship_konig_1;SMS König
 germ_battleship_konig_2;Battleship
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 germ_battlecruiser_ersatz_yorck_shop;Ersatz Yorck
-germ_battlecruiser_ersatz_yorck_0;Stettiner Maschinenbau Actien-Gesellschaft Vulcan | großer Kreuzer Ersatz Yorck-Klasse | großer Kreuzer Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_0;Stettiner Maschinenbau Actien-Gesellschaft Vulcan | großer Kreuzer Ersatz Yorck-Klasse | Ersatz Yorck
 germ_battlecruiser_ersatz_yorck_1;Ersatz Yorck
 germ_battlecruiser_ersatz_yorck_2;Battlecruiser
 germ_battleship_scharnhorst_shop;Scharnhorst
@@ -5614,9 +5617,9 @@ ussr_pr_205pe_k225_2;Artillery Boat
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
-ussr_destroyer_pr48k_erevan_shop;Yeryevan
-ussr_destroyer_pr48k_erevan_0;Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yeryevan
-ussr_destroyer_pr48k_erevan_1;Yeryevan
+ussr_destroyer_pr48k_erevan_shop;Yerevan
+ussr_destroyer_pr48k_erevan_0;Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yerevan
+ussr_destroyer_pr48k_erevan_1;Yerevan
 ussr_destroyer_pr48k_erevan_2;Destroyer
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
@@ -5889,7 +5892,7 @@ uk_mtb_2series_2;Motor Torpedo Boat
 uk_mtb35_vosper_shop;HMS MTB 35
 uk_mtb35_vosper_0;Vosper & Co. | Vosper 70 ft-class | HMS MTB 35
 uk_mtb35_vosper_1;HMS MTB 35
-uk_mtb35_vosper_2;Motor gun boat
+uk_mtb35_vosper_2;Motor Gun Boat
 uk_mtb_vosper_1series_shop;HMS MTB 23
 uk_mtb_vosper_1series_0;Vosper & Co. | Vosper 70 ft-class | HMS MTB 23
 uk_mtb_vosper_1series_1;HMS MTB 23
@@ -5960,7 +5963,7 @@ uk_dark_class_mtb_td_shop;⋦ HMS Dark Aggressor (P 1102)
 uk_dark_class_mtb_td_0;⋦ Saunders-Roe | Dark-class | HMS Dark Aggressor (P 1102)
 uk_dark_class_mtb_td_1;⋦ HMS Dark Aggressor
 uk_dark_class_mtb_td_2;Motor Torpedo Boat
-uk_isles_class_trawler_shop;HMS Orsay (J 450) (Q.F., 4-inch, Mk. V)
+uk_isles_class_trawler_shop;HMS Orsay (J 450)
 uk_isles_class_trawler_0;Cochrane & Sons | Isles-class | HMS Orsay (J 450) (Gun, Q.F., 4-inch, Mk. V)
 uk_isles_class_trawler_1;HMS Orsay
 uk_isles_class_trawler_2;Danlayer
@@ -6021,7 +6024,7 @@ uk_frigate_whitby_blackpool_0;Harland & Wolff Group Holdings | Whitby-class | HM
 uk_frigate_whitby_blackpool_1;HMS Blackpool
 uk_frigate_whitby_blackpool_2;Anti-Submarine Frigate
 uk_frigate_river_shop;HMS Spey (K 246)
-uk_frigate_river_0;Smiths Dock Co. / Sir Lanka Navy Dockyard | River-class | HMS Spey (K 246) (1944)
+uk_frigate_river_0;Smiths Dock Co. / Sri Lanka Navy Dockyard | River-class | HMS Spey (K 246) (1944)
 uk_frigate_river_1;HMS Spey
 uk_frigate_river_2;Frigate
 
@@ -6040,32 +6043,256 @@ uk_frigate_leopard_1;HMS Leopard
 uk_frigate_leopard_2;Anti-Aircraft Frigate
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+uk_destroyer_v_class_vega_shop;HMS Vega (L 41)
+uk_destroyer_v_class_vega_0;William Doxford & Sons / Chatham Royal Dockyard | Admiralty V-class | HMS Vega (L 41) (1939)
+uk_destroyer_v_class_vega_1;HMS Vega
+uk_destroyer_v_class_vega_2;Destroyer
+uk_destroyer_v_class_verdun_shop;HMS Verdun (L 93)
+uk_destroyer_v_class_verdun_0;R. & W. Hawthorn, Leslie & Co. / Chatham Royal Dockyard | Admiralty V-class | HMS Verdun (L 93) (1940)
+uk_destroyer_v_class_verdun_1;HMS Verdun
+uk_destroyer_v_class_verdun_2;Destroyer
+uk_destroyer_v_class_valhalla_shop;HMS Valhalla (D 44)
+uk_destroyer_v_class_valhalla_0;Cammell Laird & Co. / Port Edgar | Admiralty V-class | HMS Valhalla (D 44) (1923)
+uk_destroyer_v_class_valhalla_1;HMS Valhalla
+uk_destroyer_v_class_valhalla_2;Destroyer
+uk_destroyer_hunt_2series_shop;HMS Calpe (L 71)
+uk_destroyer_hunt_2series_0;Swan Hunter & Wigham Richardson / Malta Dockyard | Type II Hunt-class | HMS Calpe (L 71) (1945)
+uk_destroyer_hunt_2series_1;HMS Calpe
+uk_destroyer_hunt_2series_2;Destroyer
+uk_destroyer_hunt_4series_shop;HMS Brissenden (L 79)
+uk_destroyer_hunt_4series_0;John I. Thornycroft & Co. / Pembroke Dockyard | Type IV Hunt-class | HMS Brissenden (L 79) (1945)
+uk_destroyer_hunt_4series_1;HMS Brissenden
+uk_destroyer_hunt_4series_2;Destroyer
+uk_destroyer_g_grafton_shop;HMS Grafton (H 89)
+uk_destroyer_g_grafton_0;John I. Thornycroft & Co. | G-class | HMS Grafton (H 89)
+uk_destroyer_g_grafton_1;HMS Grafton
+uk_destroyer_g_grafton_2;Destroyer
+uk_destroyer_g_grafton_EC_0;G-class | HMS Grafton (H 89)
+uk_destroyer_g_grafton_EC_1;HMS Grafton
+uk_destroyer_g_grafton_EC_2;Destroyer
 uk_destroyer_st_class_saumarez_shop;HMS Saumarez (G 12)
 uk_destroyer_st_class_saumarez_0;R. & W. Hawthorn, Leslie & Co. / HMS Proserpine | S-class | HMS Saumarez (G 12) (1944)
 uk_destroyer_st_class_saumarez_1;HMS Saumarez
 uk_destroyer_st_class_saumarez_2;Destroyer
+uk_destroyer_clemson_churchill_shop;HMS Churchill (I 45)
+uk_destroyer_clemson_churchill_0;Newport News Shipbuilding and Dry Dock Co. / Charleston Naval Shipyard | Town-class | HMS Churchill (I 45) (1943)
+uk_destroyer_clemson_churchill_1;HMS Churchill
+uk_destroyer_clemson_churchill_2;Destroyer
+uk_destroyer_clemson_churchill_EC_0;Town-class | HMS Churchill (I 45) (1943)
+uk_destroyer_clemson_churchill_EC_1;HMS Churchill
+uk_destroyer_clemson_churchill_EC_2;Destroyer
+uk_destroyer_clemson_montgomery_g95_shop;HMS Montgomery (G 95)
+uk_destroyer_clemson_montgomery_g95_0;Bath Iron Works / Barrow-in-Furness | Town-class | HMS Montgomery (G 95) (1941)
+uk_destroyer_clemson_montgomery_g95_1;HMS Montgomery
+uk_destroyer_clemson_montgomery_g95_2;Destroyer
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+uk_destroyer_tribal_shop;HMS Eskimo (G 75)
+uk_destroyer_tribal_0;Vickers-Armstrongs / Barrow-in-Furness | Tribal-class | HMS Eskimo (G 75) (1940)
+uk_destroyer_tribal_1;HMS Eskimo
+uk_destroyer_tribal_2;Destroyer
+uk_destroyer_tribal_EC_0;Tribal-class | HMS Eskimo (G 75) (1940)
+uk_destroyer_tribal_EC_1;HMS Eskimo
+uk_destroyer_tribal_EC_2;Destroyer
+uk_destroyer_n_class_shop;HMAS Nepal (G 25)
+uk_destroyer_n_class_0;John I. Thornycroft & Co. / HMAS Kuttabul | N-class | HMAS Nepal (G 25) (1943)
+uk_destroyer_n_class_1;HMAS Nepal
+uk_destroyer_n_class_2;Destroyer
+uk_destroyer_n_class_EC_0;N-class | HMAS Nepal (G 25) (1943)
+uk_destroyer_n_class_EC_1;HMAS Nepal
+uk_destroyer_n_class_EC_2;Destroyer
+uk_destroyer_k_class_shop;HMS Kelvin (F 37)
+uk_destroyer_k_class_0;Fairfield Shipbuilding & Engineering Co. | K-class | HMS Kelvin (F 37)
+uk_destroyer_k_class_1;HMS Kelvin
+uk_destroyer_k_class_2;Destroyer
+uk_minelayer_abdiel_class_abdiel_shop;HMS Abdiel (M 39)
+uk_minelayer_abdiel_class_abdiel_0;J. Samuel White & Co. / Palmers Shipyard | Abdiel-class | HMS Abdiel (M 39) (1942)
+uk_minelayer_abdiel_class_abdiel_1;HMS Abdiel
+uk_minelayer_abdiel_class_abdiel_2;Minelayer
+uk_destroyer_j_class_shop;HMS Jervis (G 00)
+uk_destroyer_j_class_0;R. & W. Hawthorn, Leslie & Co. / Belfast Dry Dock | J-class | HMS Jervis (G 00) (1945)
+uk_destroyer_j_class_1;HMS Jervis
+uk_destroyer_j_class_2;Destroyer
+uk_destroyer_tribal_mohawk_shop;HMS Mohawk (L 31)
+uk_destroyer_tribal_mohawk_0;John I. Thornycroft & Co. | Tribal-class | HMS Mohawk (L 31)
+uk_destroyer_tribal_mohawk_1;HMS Mohawk
+uk_destroyer_tribal_mohawk_2;Destroyer
+uk_destroyer_g_garland_shop;ORP Garland (H 37)
+uk_destroyer_g_garland_0;Fairfield Shipbuilding & Engineering Co. / Smiths Dockyard | G-class | ORP Garland (H 37) (1942)
+uk_destroyer_g_garland_1;ORP Garland
+uk_destroyer_g_garland_2;Destroyer
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+uk_destroyer_battle_2series_shop;HMS Armada (R 14)
+uk_destroyer_battle_2series_0;R. & W. Hawthorn, Leslie & Co. | Battle-class | HMS Armada (R 14)
+uk_destroyer_battle_2series_1;HMS Armada
+uk_destroyer_battle_2series_2;Destroyer
+uk_destroyer_battle_tobruk_shop;HMAS Tobruk (D 37)
+uk_destroyer_battle_tobruk_0;Cockatoo Docks and Engineering Co. | Battle-class | HMAS Tobruk (D 37)
+uk_destroyer_battle_tobruk_1;HMAS Tobruk
+uk_destroyer_battle_tobruk_2;Destroyer
+uk_cruiser_arethusa_shop;HMS Arethusa (26)
+uk_cruiser_arethusa_0;Chatham Royal Dockyard / Charleston Naval Shipyard | Arethusa-class | HMS Arethusa (26) (1943)
+uk_cruiser_arethusa_1;HMS Arethusa (26)
+uk_cruiser_arethusa_2;Light Cruiser
+uk_cruiser_arethusa_EC_0;Arethusa-class | HMS Arethusa (26) (1943)
+uk_cruiser_arethusa_EC_1;Arethusa
+uk_cruiser_arethusa_EC_2;Light Cruiser
+uk_destroyer_daring_class_diana_shop;HMS Diana (D 126)
+uk_destroyer_daring_class_diana_0;Yarrow & Co. | Daring-class | HMS Diana (D 126) (1959)
+uk_destroyer_daring_class_diana_1;HMS Diana
+uk_destroyer_daring_class_diana_2;Destroyer
+uk_destroyer_daring_class_daring_shop;HMS Daring (D 05)
+uk_destroyer_daring_class_daring_0;Swan Hunter & Wigham Richardson | Daring-class | HMS Daring (D 05)
+uk_destroyer_daring_class_daring_1;HMS Daring
+uk_destroyer_daring_class_daring_2;Destroyer
+uk_destroyer_daring_class_diamond_shop;HMS Diamond (D 35)
+uk_destroyer_daring_class_diamond_0;John Brown & Co. | Daring-class | HMS Diamond (D 35)
+uk_destroyer_daring_class_diamond_1;HMS Diamond
+uk_destroyer_daring_class_diamond_2;Destroyer
+uk_cruiser_enterprise_d52_shop;HMS Enterprise (D 52)
+uk_cruiser_enterprise_d52_0;John Brown & Co. / Devonport Royal Dockyard | Emerald-class | HMS Enterprise (D 52) (1944)
+uk_cruiser_enterprise_d52_1;HMS Enterprise
+uk_cruiser_enterprise_d52_2;Light Cruiser
+uk_cruiser_enterprise_d52_EC_0;Emerald-class | HMS Enterprise (D 52) (1944)
+uk_cruiser_enterprise_d52_EC_1;HMS Enterprise
+uk_cruiser_enterprise_d52_EC_2;Light Cruiser
+uk_cruiser_hawkins_shop;HMS Hawkins (D 86)
+uk_cruiser_hawkins_0;Chatham Royal Dockyard / Portsmouth Royal Dockyard | Hawkins-class | HMS Hawkins (D 86) (1942)
+uk_cruiser_hawkins_1;HMS Hawkins
+uk_cruiser_hawkins_2;Heavy Cruiser
+uk_destroyer_haida_shop;HMCS Haida (G 63)
+uk_destroyer_haida_0;Vickers-Armstrongs | Tribal-class | HMCS Haida (G 63)
+uk_destroyer_haida_1;HMCS Haida
+uk_destroyer_haida_2;Destroyer
+uk_destroyer_battle_cadiz_shop;HMS Cadiz (D 79)
+uk_destroyer_battle_cadiz_0;Fairfield Shipbuilding & Engineering Co. | Battle-class | HMS Cadiz (D 79)
+uk_destroyer_battle_cadiz_1;HMS Cadiz
+uk_destroyer_battle_cadiz_2;Destroyer
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+uk_cruiser_leander_shop;HMNZS Leander (75)
+uk_cruiser_leander_0;Vickers-Armstrongs / Auckland Dockyard | Leander-class | HMNZS Leander (75) (1941)
+uk_cruiser_leander_1;HMNZS Leander
+uk_cruiser_leander_2;Light Cruiser
+uk_cruiser_leander_EC_0;Leander-class | HMNZS Leander (75) (1941)
+uk_cruiser_leander_EC_1;HMNZS Leander
+uk_cruiser_leander_EC_2;Light Cruiser
+uk_cruiser_fiji_class_fiji_shop;HMS Fiji (58)
+uk_cruiser_fiji_class_fiji_0;John Brown & Co. / Clydebank Shipyard | Colony-class | HMS Fiji (58) (1941)
+uk_cruiser_fiji_class_fiji_1;HMS Fiji
+uk_cruiser_fiji_class_fiji_2;Light Cruiser
+uk_cruiser_southampton_shop;HMS Southampton (C 83)
+uk_cruiser_southampton_0;John Brown & Co. / Tyne Shipyard | Town-class | HMS Southampton (C 83) (1940)
+uk_cruiser_southampton_1;HMS Southampton
+uk_cruiser_southampton_2;Light Cruiser
+uk_cruiser_liverpool_shop;HMS Liverpool (C 11)
+uk_cruiser_liverpool_0;Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | Town-class | HMS Liverpool (C 11) (1944)
+uk_cruiser_liverpool_1;HMS Liverpool
+uk_cruiser_liverpool_2;Light Cruiser
+uk_cruiser_belfast_shop;HMS Belfast (C 35)
+uk_cruiser_belfast_0;Harland & Wolff Group Holdings / Devonport Royal Dockyard | Town-class | HMS Belfast (C 35) (1959)
+uk_cruiser_belfast_1;HMS Belfast
+uk_cruiser_belfast_2;Light Cruiser
+uk_cruiser_dido_shop;HMS Dido (37)
+uk_cruiser_dido_0;Cammell Laird & Co. / Brooklyn Navy Yard | Dido-class | HMS Dido (37) (1941)
+uk_cruiser_dido_1;HMS Dido
+uk_cruiser_dido_2;Light Cruiser
+uk_cruiser_dido_EC_0;Dido-class | HMS Dido (37) (1941)
+uk_cruiser_dido_EC_1;HMS Dido
+uk_cruiser_dido_EC_2;Light Cruiser
+uk_cruiser_york_shop;HMS York (90)
+uk_cruiser_york_0;Palmers Shipbuilding and Iron Co. / Royal Albery Dockyard | York-class | HMS York (90) (1940)
+uk_cruiser_york_1;HMS York
+uk_cruiser_york_2;Heavy Cruiser
+uk_cruiser_kent_shop;HMS Kent (54)
+uk_cruiser_kent_0;Chatham Royal Dockyard | County-class | HMS Kent (54) (1934)
+uk_cruiser_kent_1;HMS Kent
+uk_cruiser_kent_2;Heavy Cruiser
+uk_cruiser_norfolk_shop;HMS Norfolk (78)
+uk_cruiser_norfolk_0;Fairfield Shipbuilding & Engineering Co. / Portsmouth Royal Dockyard | County-class | HMS Norfolk (78) (1943)
+uk_cruiser_norfolk_1;HMS Norfolk
+uk_cruiser_norfolk_2;Heavy Cruiser
+uk_cruiser_london_shop;HMS London (69)
+uk_cruiser_london_0;Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | County-class | HMS London (69) (1944)
+uk_cruiser_london_1;HMS London
+uk_cruiser_london_2;Heavy Cruiser
+uk_battlecruiser_invincible_shop;HMS Invincible (85)
+uk_battlecruiser_invincible_0;Sir W G Armstrong Whitworth & Co. / Devonport Royal Dockyard | Invincible-class | HMS Invincible (85) (1914)
+uk_battlecruiser_invincible_1;HMS Invincible
+uk_battlecruiser_invincible_2;Battlecruiser
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+uk_battleship_dreadnought_shop;HMS Dreadnought (00)
+uk_battleship_dreadnought_0;Portsmouth Royal Dockyard | Dreadnought-class | HMS Dreadnought (00) (1917)
+uk_battleship_dreadnought_1;HMS Dreadnought
+uk_battleship_dreadnought_2;Dreadnought
+uk_battleship_orion_shop;HMS Orion (52)
+uk_battleship_orion_0;Portsmouth Royal Dockyard | Orion-class | HMS Orion (52)
+uk_battleship_orion_1;HMS Orion
+uk_battleship_orion_2;Super Dreadnought
+uk_battleship_colossus_shop;HMS Colossus (93)
+uk_battleship_colossus_0;Scotts Shipbuilding & Engineering Co. | Colossus-class | HMS Colossus (93) (1917)
+uk_battleship_colossus_1;HMS Colossus
+uk_battleship_colossus_2;Dreadnought
+uk_battleship_centurion_shop;HMS Centurion (12)
+uk_battleship_centurion_0;Devonport Royal Dockyard | King George V-class | HMS Centurion (12)
+uk_battleship_centurion_1;HMS Centurion
+uk_battleship_centurion_2;Dreadnought
+uk_battlecruiser_glorious_shop;HMS Glorious (77)
+uk_battlecruiser_glorious_0;Harland & Wolff Group Holdings | Courageous-Class | HMS Glorious (77) (1917)
+uk_battlecruiser_glorious_1;HMS Glorious
+uk_battlecruiser_glorious_2;Battlecruiser
+uk_battlecruiser_queen_mary_shop;HMS Queen Mary (14)
+uk_battlecruiser_queen_mary_0;Palmers Shipbuilding and Iron Co. | Queen Mary-class | HMS Queen Mary (14)
+uk_battlecruiser_queen_mary_1;HMS Queen Mary
+uk_battlecruiser_queen_mary_2;Battlecruiser
+uk_battleship_iron_duke_shop;HMS Iron Duke (18)
+uk_battleship_iron_duke_0;Portsmouth Royal Dockyard | Iron Duke-class | HMS Iron Duke (18) (1929)
+uk_battleship_iron_duke_1;HMS Iron Duke
+uk_battleship_iron_duke_2;Dreadnought
+uk_battlecruiser_renown_shop;HMS Renown (72)
+uk_battlecruiser_renown_0;Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | Renown-class | HMS Renown (72) (1943)
+uk_battlecruiser_renown_1;HMS Renown
+uk_battlecruiser_renown_2;Battlecruiser
+uk_battlecruiser_repulse_shop;HMS Repulse (34)
+uk_battlecruiser_repulse_0;John Brown & Co. / Rosyth Dockyard | Renown-class | HMS Repulse (34) (1941)
+uk_battlecruiser_repulse_1;HMS Repulse
+uk_battlecruiser_repulse_2;Battlecruiser
+uk_cruiser_tiger_shop;HMS Tiger (C 20)
+uk_cruiser_tiger_0;John Brown & Co. | Tiger-class | HMS Tiger (C 20)
+uk_cruiser_tiger_1;HMS Tiger
+uk_cruiser_tiger_2;Light Cruiser
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+uk_battleship_marlborough_shop;HMS Marlborough (66)
+uk_battleship_marlborough_0;Devonport Royal Dockyard | Iron Duke-class | HMS Marlborough (66) (1929)
+uk_battleship_marlborough_1;HMS Marlborough
+uk_battleship_marlborough_2;Super Dreadnought
 uk_battleship_q_elizabet_class_warspite_shop;HMS Warspite (03)
 uk_battleship_q_elizabet_class_warspite_0;Devonport Royal Dockyard / Naval Station Durban | Queen Elizabeth-class | HMS Warspite (03) (1943)
 uk_battleship_q_elizabet_class_warspite_1;HMS Warspite
-uk_battleship_q_elizabet_class_warspite_2;Super dreadnought
+uk_battleship_q_elizabet_class_warspite_2;Super Dreadnought
+uk_battleship_q_elizabet_class_barham_shop;HMS Barham (97)
+uk_battleship_q_elizabet_class_barham_0;John Brown & Co. / Cromarty Harbour | Queen Elizabeth-class | HMS Barham (97) (1917)
+uk_battleship_q_elizabet_class_barham_1;HMS Barham
+uk_battleship_q_elizabet_class_barham_2;Super Dreadnought
 uk_battleship_rodney_shop;HMS Rodney (29)
 uk_battleship_rodney_0;Cammell Laird & Co. / Rosyth Dockyard | Nelson-class | HMS Rodney (29) (1940)
 uk_battleship_rodney_1;HMS Rodney
 uk_battleship_rodney_2;Battleship
+uk_battleship_nelson_shop;HMS Nelson (28)
+uk_battleship_nelson_0;Vickers-Armstrongs / Philadelphia Navy Yard | Nelson-class | HMS Nelson (28) (1944)
+uk_battleship_nelson_1;HMS Nelson
+uk_battleship_nelson_2;Battleship
 uk_battleship_prince_of_wales_shop;HMS Prince of Wales (53)
 uk_battleship_prince_of_wales_0;Cammell Laird & Co. / Cape Town Dockyard | King George V-class | HMS Prince of Wales (53) (1941)
 uk_battleship_prince_of_wales_1;HMS Prince of Wales
 uk_battleship_prince_of_wales_2;Battleship
+uk_battlecruiser_hood_shop;HMS Hood (51)
+uk_battlecruiser_hood_0;John Brown & Co. / Rosyth Dockyard | Admiral-class | HMS Hood (51) (1941)
+uk_battlecruiser_hood_1;HMS Hood
+uk_battlecruiser_hood_2;Battlecruiser
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 uk_battleship_vanguard_shop;HMS Vanguard (23)
@@ -7159,9 +7386,9 @@ jp_escort_akebono_class_0;Ishikawajima Jūkōgyō | Otsu Gata Goeikan | Akebono 
 jp_escort_akebono_class_1;Akebono
 jp_escort_akebono_class_2;Destroyer Escort
 jp_pg02_shop;Misairu Tei 2 Gō (PG-822)
-jp_pg02_0;1 Gō Gata Misairu Tei | Misairu Tei 2 Gō (PG-822)
+jp_pg02_0;Sumitomo Jū Kikai Kōgyō | 1 Gō Gata Misairu Tei | Misairu Tei 2 Gō (PG-822)
 jp_pg02_1;Misairutei 2 Gō
-jp_pg02_2;Missile boat
+jp_pg02_2;Missile Boat
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 jp_escort_hiburi_class_syonan_shop;Shōnan
@@ -7177,7 +7404,7 @@ jp_yuri_class_asagao_0;George Lawley & Son | Yuri Gata Keibitei | Asagao
 jp_yuri_class_asagao_1;Asagao
 jp_yuri_class_asagao_2;Gunboat
 jp_destroyer_chidori_shop;Tomozuru
-jp_destroyer_chidori_0;Maizuru Kaigun Kōshō | Chidori Gata Suiraitei (F-46) | Tomozuru
+jp_destroyer_chidori_0;Maizuru Kaigun Kōshō | Chidori Gata Suiraitei (F-46) | Tomozuru (1944)
 jp_destroyer_chidori_1;Tomozuru
 jp_destroyer_chidori_2;Destroyer Escort
 jp_destroyer_isuzu_shop;Isuzu (DE-211)
@@ -7206,7 +7433,7 @@ jp_destroyer_mutsuki_shop;Mutsuki
 jp_destroyer_mutsuki_0;Sasebo Kaigun Kōshō | Ittō Kuchikukan | Mutsuki Gata Kuchikukan (F-41E1) | Mutsuki (1941)
 jp_destroyer_mutsuki_1;Mutsuki
 jp_destroyer_mutsuki_2;Destroyer
-jp_destroyer_mutsuki_EC_0;Sasebo Kaigun Kōshō | Ittō Kuchikukan | Mutsuki Gata Kuchikukan (F-41E1) | Mutsuki (1941)
+jp_destroyer_mutsuki_EC_0;Ittō Kuchikukan | Mutsuki Gata Kuchikukan (F-41E1) | Mutsuki (1941)
 jp_destroyer_mutsuki_EC_1;Mutsuki
 jp_destroyer_mutsuki_EC_2;Destroyer
 jp_destroyer_satsuki_shop;Satsuki
@@ -7220,7 +7447,7 @@ jp_minelayer_tsugaru_0;Yokosuka Kaigun Kōshō | Tsugaru Gata Fusetsukan (H-10) 
 jp_minelayer_tsugaru_1;Tsugaru
 jp_minelayer_tsugaru_2;Minelayer
 jp_destroyer_harukaze_shop;Harukaze (DD-101)
-jp_destroyer_harukaze_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Kō Gata Goeikan | Harukaze Gata Goeikan (F-101) | Harukazec (DD-101)
+jp_destroyer_harukaze_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Kō Gata Goeikan | Harukaze Gata Goeikan (F-101) | Harukaze (DD-101)
 jp_destroyer_harukaze_1;Harukaze
 jp_destroyer_harukaze_2;Destroyer
 jp_destroyer_murasame_shop;Murasame (DD-107)
@@ -7231,7 +7458,7 @@ jp_destroyer_yugumo_shop;Yūgumo
 jp_destroyer_yugumo_0;Maizuru Kaigun Kōshō | Ittō Kuchikukan | Yūgumo Gata Kuchikukan (F-50) | Yūgumo
 jp_destroyer_yugumo_1;Yūgumo
 jp_destroyer_yugumo_2;Destroyer
-jp_destroyer_yugumo_EC_0;Maizuru Kaigun Kōshō | Ittō Kuchikukan | Yūgumo Gata Kuchikukan (F-50) | Yūgumo
+jp_destroyer_yugumo_EC_0;Ittō Kuchikukan | Yūgumo Gata Kuchikukan (F-50) | Yūgumo
 jp_destroyer_yugumo_EC_1;Yūgumo
 jp_destroyer_yugumo_EC_2;Destroyer
 jp_destroyer_hayanami_shop;Hayanami
@@ -7250,7 +7477,7 @@ jp_destroyer_fubuki_shop;Ayanami
 jp_destroyer_fubuki_0;Fujinagata Zōsensho | Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)
 jp_destroyer_fubuki_1;Ayanami
 jp_destroyer_fubuki_2;Destroyer
-jp_destroyer_fubuki_EC_0;Fujinagata Zōsensho | Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)
+jp_destroyer_fubuki_EC_0;Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)
 jp_destroyer_fubuki_EC_1;Ayanami
 jp_destroyer_fubuki_EC_2;Destroyer
 jp_destroyer_nenohi_shop;Nenohi
@@ -7258,7 +7485,7 @@ jp_destroyer_nenohi_0;Uraga Senkyo | Ittō Kuchikukan | Hatsuharu Gata Kuchikuka
 jp_destroyer_nenohi_1;Nenohi
 jp_destroyer_nenohi_2;Destroyer
 jp_destroyer_yugure_shop;Yūgure (DD-184)
-jp_destroyer_yugure_0;Boston Navy Yard / Ishikawajima Jūkōgyō | Kō Gata Goeikan | Airake Gata Goeikan | Yūgure (DD-184)
+jp_destroyer_yugure_0;Boston Navy Yard / Ishikawajima Jū Kōgyō | Kō Gata Goeikan | Airake Gata Goeikan | Yūgure (DD-184)
 jp_destroyer_yugure_1;Yūgure
 jp_destroyer_yugure_2;Destroyer
 
@@ -7267,36 +7494,40 @@ jp_destroyer_akizuki_shop;Akizuki
 jp_destroyer_akizuki_0;Maizuru Kaigun Kōshō | Ittō Kuchikukan | Akizuki Gata Kuchikukan (F-51) | Akizuki
 jp_destroyer_akizuki_1;Akizuki
 jp_destroyer_akizuki_2;Destroyer
-jp_destroyer_akizuki_EC_0;Maizuru Kaigun Kōshō | Ittō Kuchikukan | Akizuki Gata Kuchikukan (F-51) | Akizuki
+jp_destroyer_akizuki_EC_0;Ittō Kuchikukan | Akizuki Gata Kuchikukan (F-51) | Akizuki
 jp_destroyer_akizuki_EC_1;Akizuki
 jp_destroyer_akizuki_EC_2;Destroyer
 jp_destroyer_hatsuzuki_shop;◓ Hatsuzuki
 jp_destroyer_hatsuzuki_0;◓ Maizuru Kaigun Kōshō | Ittō Kuchikukan | Akizuki Gata Kuchikukan (F-51) | Hatsuzuki
 jp_destroyer_hatsuzuki_1;◓ Hatsuzuki
 jp_destroyer_hatsuzuki_2;Destroyer
+jp_destroyer_suzutsuki_shop;Suzutsuki
+jp_destroyer_suzutsuki_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Ittō Kuchikukan | Akizuki Gata Kuchikukan (F-51) | Suzutsuki (1944)
+jp_destroyer_suzutsuki_1;Suzutsuki
+jp_destroyer_suzutsuki_2;Destroyer
 jp_cruiser_kako_shop;Kako
 jp_cruiser_kako_0;Kawasaki Zōsensho | Ittō Junyōkan | Furutaka Gata Junyōkan | Kako (1932)
 jp_cruiser_kako_1;Kako
 jp_cruiser_kako_2;Heavy Cruiser
-jp_cruiser_kako_EC_0;Kawasaki Zōsensho | Ittō Junyōkan | Furutaka Gata Junyōkan | Kako (1932)
+jp_cruiser_kako_EC_0;Ittō Junyōkan | Furutaka Gata Junyōkan | Kako (1932)
 jp_cruiser_kako_EC_1;Kako
 jp_cruiser_kako_EC_2;Heavy Cruiser
 jp_cruiser_furutaka_shop;Furutaka
 jp_cruiser_furutaka_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Furutaka Gata Junyōkan | Furutaka (1942)
 jp_cruiser_furutaka_1;Furutaka
 jp_cruiser_furutaka_2;Heavy Cruiser
-jp_cruiser_furutaka_EC_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Ittō Junyōkan | Furutaka Gata Junyōkan | Furutaka (1942)
+jp_cruiser_furutaka_EC_0;Ittō Junyōkan | Furutaka Gata Junyōkan | Furutaka (1942)
 jp_cruiser_furutaka_EC_1;Furutaka
 jp_cruiser_furutaka_EC_2;Heavy Cruiser
 jp_cruiser_isuzu_shop;Isuzu
-jp_cruiser_isuzu_0;Uraga Senkyo / Kure Kaigun Kōshō | Nitō Junyōkan | Nagara Gata Junyōka (C-33) | Isuzu (1944)
+jp_cruiser_isuzu_0;Uraga Senkyo / Kure Kaigun Kōshō | Nitō Junyōkan | Nagara Gata Junyōkan (C-33) | Isuzu (1944)
 jp_cruiser_isuzu_1;Isuzu
 jp_cruiser_isuzu_2;Light Cruiser
 jp_cruiser_kuma_shop;Tama
 jp_cruiser_kuma_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Nitō Junyōkan | Kuma Gata Junyōkan (C-33) | Tama (1939)
 jp_cruiser_kuma_1;Tama
 jp_cruiser_kuma_2;Light Cruiser
-jp_cruiser_kuma_EC_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Nitō Junyōkan | Kuma Gata Junyōkan (C-33) | Tama (1939)
+jp_cruiser_kuma_EC_0;Nitō Junyōkan | Kuma Gata Junyōkan (C-33) | Tama (1939)
 jp_cruiser_kuma_EC_1;Tama
 jp_cruiser_kuma_EC_2;Light Cruiser
 jp_cruiser_sendai_shop;Sendai
@@ -7341,7 +7572,7 @@ jp_cruiser_agano_shop;Agano
 jp_cruiser_agano_0;Sasebo Kaigun Kōshō | Nitō Junyōkan | Agano Gata Junyōkan (C-41-II) | Agano (1943)
 jp_cruiser_agano_1;Agano
 jp_cruiser_agano_2;Light Cruiser
-jp_cruiser_agano_EC_0;Sasebo Kaigun Kōshō | Nitō Junyōkan | Agano Gata Junyōkan (C-41-II) | Agano (1943)
+jp_cruiser_agano_EC_0;Nitō Junyōkan | Agano Gata Junyōkan (C-41-II) | Agano (1943)
 jp_cruiser_agano_EC_1;Agano
 jp_cruiser_agano_EC_2;Light Cruiser
 jp_cruiser_oyodo_shop;Ōyodo
@@ -7374,6 +7605,10 @@ jp_battleship_hyuga_shop;Hyūga
 jp_battleship_hyuga_0;Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Ise Gata Senkan (A-92) | Hyūga
 jp_battleship_hyuga_1;Hyūga
 jp_battleship_hyuga_2;Battleship
+jp_battleship_ise_shop;Ise
+jp_battleship_ise_0;Kawasaki Zōsensho | Ise Gata Senkan (A-92) | Ise (1937)
+jp_battleship_ise_1;Ise
+jp_battleship_ise_2;Battleship
 jp_battleship_settsu_shop;Settsu
 jp_battleship_settsu_0;Kure Kaigun Kōshō | Kawachi Gata Senkan (A-30) | Settsu
 jp_battleship_settsu_1;Settsu
@@ -7406,16 +7641,8 @@ jp_battleship_fuso_shop;Fusō
 jp_battleship_fuso_0;Kure Kaigun Kōshō | Fusō Gata Senkan (A-64) | Fusō
 jp_battleship_fuso_1;Fusō
 jp_battleship_fuso_2;Battleship
-jp_battleship_tosa_shop;Tosa
-jp_battleship_tosa_0;Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo | Kaga Gata Senkan (A-127) | Tosa
-jp_battleship_tosa_1;Tosa
-jp_battleship_tosa_2;Battleship
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 6
-jp_battleship_ise_shop;Ise
-jp_battleship_ise_0;Kawasaki Zōsensho | Ise Gata Senkan (A-92) | Ise (1937)
-jp_battleship_ise_1;Ise
-jp_battleship_ise_2;Battleship
 jp_battlecruiser_amagi_shop;Amagi
 jp_battlecruiser_amagi_0;Yokosuka Kaigun Kōshō | Amagi Gata Junyōsenkan (B-64) | Amagi
 jp_battlecruiser_amagi_1;Amagi
@@ -7428,6 +7655,10 @@ jp_battleship_nagato_shop;Nagato
 jp_battleship_nagato_0;Kure Kaigun Kōshō | Nagato Gata Senkan (A-114) | Nagato (1944)
 jp_battleship_nagato_1;Nagato
 jp_battleship_nagato_2;Battleship
+jp_battleship_tosa_shop;Tosa
+jp_battleship_tosa_0;Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo | Kaga Gata Senkan (A-127) | Tosa
+jp_battleship_tosa_1;Tosa
+jp_battleship_tosa_2;Battleship
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 7
 jp_battleship_yamato_shop;Yamato
@@ -8572,62 +8803,285 @@ it_samp_t_fcs_1;⛨ SAMP/T (MRI)
 it_samp_t_fcs_2;Radar
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+it_mas_classe500_3_1944_shop;MAS 561
+it_mas_classe500_3_1944_0;Cantiere Baglietto | Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie | MAS 561
+it_mas_classe500_3_1944_1;MAS 561
+it_mas_classe500_3_1944_2;Armed Torpedo Boat
+it_mas_classe500_3_shop;MAS 555
+it_mas_classe500_3_0;Cantiere navale Picchiotti | Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie | MAS 555
+it_mas_classe500_3_1;MAS 555
+it_mas_classe500_3_2;Armed Torpedo Boat
+it_mas_classe500_4_shop;MAS 569
+it_mas_classe500_4_0;Cantiere Baglietto | Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 4ª Serie | MAS 569
+it_mas_classe500_4_1;MAS 569
+it_mas_classe500_4_2;Armed Torpedo Boat
+it_vas_baglietto_68t_1serie_shop;VAS 201
+it_vas_baglietto_68t_1serie_0;Cantiere Baglietto | Motovedette Antisommergibili Tipo Baglietto 68 t, 1ª Serie | VAS 201
+it_vas_baglietto_68t_1serie_1;VAS 201
+it_vas_baglietto_68t_1serie_2;Anti-Submarine Patrol Boat
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+it_ms15_1a_shop;MS 15
+it_ms15_1a_0;Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 1ª Serie | MS 15
+it_ms15_1a_1;MS 15
+it_ms15_1a_2;Motor Torpedo Boat
+it_ms53_2a_shop;MS 53
+it_ms53_2a_0;Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 2ª Serie | MS 53
+it_ms53_2a_1;MS 53
+it_ms53_2a_2;Motor Torpedo Boat
+it_ms74_2a_shop;MS 74
+it_ms74_2a_0;Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 2ª Serie | MS 74
+it_ms74_2a_1;MS 74
+it_ms74_2a_2;Motor Torpedo Boat
+it_ms473_2a_shop;MS 472
+it_ms473_2a_0;Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 2ª Serie | MS 472
+it_ms473_2a_1;MS 472
+it_ms473_2a_2;Motor Torpedo Boat
+it_ms471_1a_shop;MV 611
+it_ms471_1a_0;Cantiere navale di Monfalcone | Motovedette Tipo CRDA 60 t, 1ª Serie | MV 611
+it_ms471_1a_1;MV 611
+it_ms471_1a_2;Patrol Boat
+it_ms473_2a_art_shop;MS 473
+it_ms473_2a_art_0;Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 2ª Serie | MS 473
+it_ms473_2a_art_1;MS 473
+it_ms473_2a_art_2;Motor Torpedo Boat
+it_mas_stefano_turr_shop;Stefano Turr
+it_mas_stefano_turr_0;Cantiere Baglietto | Motoscafo Armato Silurante Tipo Sperimentale Diesel | Stefano Turr
+it_mas_stefano_turr_1;Stefano Turr
+it_mas_stefano_turr_2;Armed Torpedo Boat
+it_mas441_shop;MAS 441
+it_mas441_0;Cantiere Baglietto | Motoscafo Antisommergibili Tipo Baglietto 1934 | MAS 441
+it_mas441_1;MAS 441
+it_mas441_2;Motor Torpedo Boat
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+it_a1_vosper_shop;MS 461
+it_a1_vosper_0;Robert Jacob Shipyard | Motosiluranti Tipo Vosper da 72 Piedi e 6 Pollici | MS 461
+it_a1_vosper_1;MS 461
+it_a1_vosper_2;Motor Torpedo Boat
+it_ms444_shop;MS 444
+it_ms444_0;Cantiere navale di Monfalcone | Motosiluranti Tipo Higgins da 78 Piedi | MS 444
+it_ms444_1;MS 444
+it_ms444_2;Motor Torpedo Boat
+it_mc_485_shop;MC 485
+it_mc_485_0;Fr. Lürssen Werft, Bau-Nr. 12860 | Motosiluranti Tipo Lürssen S 26 | MC 485
+it_mc_485_1;MC 485
+it_mc_485_2;Motor Torpedo Boat
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+it_mc490_folgore_shop;MC 490
+it_mc490_folgore_0;Cantiere navale Triestino | Motocannoniera Convertibile Tipo Sperimentale CRDA | MC 490
+it_mc490_folgore_1;MC 490
+it_mc490_folgore_2;Convertible Motor Gunboat
 it_mc492_baleno_shop;Baleno (MC 492)
 it_mc492_baleno_0;Cantiere navale Triestino | Motocannoniera Convertibile Classe Lampo | Baleno (MC 492)
 it_mc492_baleno_1;Baleno (MC 492)
-it_mc492_baleno_2;Motor Torpedo Boat
+it_mc492_baleno_2;Convertible Motor Gunboat
+it_gabbiano_class_shop;Gabbiano (GB)
+it_gabbiano_class_0;Cantiere navale di Voltri | Corvetta Classe Gabbiano, 1ª Serie | Gabbiano (GB)
+it_gabbiano_class_1;Gabbiano
+it_gabbiano_class_2;Corvette
+it_gabbiano_class_c16_shop;Folaga (F 576)
+it_gabbiano_class_c16_0;Cantiere navale di Sestri Ponente | Corvetta Classe Gabbiano, 1ª Serie | Folaga (F 576) (1953)
+it_gabbiano_class_c16_1;Folaga
+it_gabbiano_class_c16_2;Corvette
+it_p420_sparviero_shop;Sparviero (P 420)
+it_p420_sparviero_0;Cantiere Navale del Muggiano | Aliscafo Missilistico Sparviero (P 420)
+it_p420_sparviero_1;Sparviero
+it_p420_sparviero_2;Missile Hydrofoil
+it_p493_freccia_shop;Freccia (P 493)
+it_p493_freccia_0;Cantiere navali del Tirreno e Riuniti | Motocannoniera Convertibile Classe 590 | Freccia (P 493)
+it_p493_freccia_1;Freccia
+it_p493_freccia_2;Convertible Motor Gunboat
+it_p494_saetta_shop;Saetta (P 494)
+it_p494_saetta_0;Cantiere navale Triestino | Motocannoniera Convertibile Classe 590 | Saetta (P 494)
+it_p494_saetta_1;Saetta
+it_p494_saetta_2;Convertible Motor Gunboat
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+it_alano_9851_shop;Alano (L 9851)
+it_alano_9851_0;Commercial Iron Works | Motocannoniera Classe Alano | Alano (L 9851)
+it_alano_9851_1;Alano
+it_alano_9851_2;Motor Gunboat
 it_cassiopea_p401_shop;Cassiopea (P 401)
 it_cassiopea_p401_0;Fincantieri del Muggiano | Pattugliatori Classe Cassiopea | Cassiopea (P 401)
 it_cassiopea_p401_1;Cassiopea
 it_cassiopea_p401_2;Patrol Vessel
+it_ciclone_class_ghibli_shop;Ghibli (GH)
+it_ciclone_class_ghibli_0;Cantiere navale di Castellammare di Stabia | Torpediniera Classe Ciclone | Ghibli (GH)
+it_ciclone_class_ghibli_1;Ghibli
+it_ciclone_class_ghibli_2;Torpedo Boat
+it_albatros_class_f543_shop;Albatros (F 543)
+it_albatros_class_f543_0;Cantiere navale di Castellammare di Stabia | Corvetta Classe Albatros | Albatros (F 543)
+it_albatros_class_f543_1;Albatros
+it_albatros_class_f543_2;Corvette
+it_albatros_class_f544_shop;Alcione (F 544)
+it_albatros_class_f544_0;Cantiere navale di Castellammare di Stabia | Corvetta Classe Albatros | Alcione (F 544)
+it_albatros_class_f544_1;Albatros
+it_albatros_class_f544_2;Corvette
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+it_destroyer_turbine_shop;Turbine (TB)
+it_destroyer_turbine_0;Cantiere navale di Sestri Ponente | Cacciatorpediniere Classe Turbine | Turbine (TB)
+it_destroyer_turbine_1;Turbine
+it_destroyer_turbine_2;Destroyer
+it_destroyer_aquilone_shop;Aquilone (AL)
+it_destroyer_aquilone_0;Cantiere navale di Sestri Ponente / Cantiere navali del Quarnaro | Cacciatorpediniere Classe Turbine | Aquilone (AL) (1939)
+it_destroyer_aquilone_1;Aquilone
+it_destroyer_aquilone_2;Destroyer
 it_destroyer_dardo_shop;Dardo (DR)
 it_destroyer_dardo_0;Cantiere navale di Sestri Ponente | Cacciatorpediniere Classe Freccia | Dardo (DR)
 it_destroyer_dardo_1;Dardo
 it_destroyer_dardo_2;Destroyer
 it_destroyer_saetta_shop;Saetta (SA)
-it_destroyer_saetta_0;Cantiere navale del Tirreno di Riva Trigoso / Cantieri navali riuniti di Palermo | Cacciatorpediniere Classe Freccia | Saetta (SA) (1942)
+it_destroyer_saetta_0;Cantiere navale del Tirreno di Riva Trigoso / Cantiere navali riuniti di Palermo | Cacciatorpediniere Classe Freccia | Saetta (SA) (1942)
 it_destroyer_saetta_1;Saetta
 it_destroyer_saetta_2;Destroyer
 it_destroyer_oriani_class_gioberti_shop;Vincenzo Gioberti (GB)
-it_destroyer_oriani_class_gioberti_0;Odero-Terni-Orlando Cantieri di Livorno / Cantiere navale di Castellammare di Stabia | Cacciatorpediniere Classe Alfredo Oriani | Vincenzo Gioberti (GB) (1942)
+it_destroyer_oriani_class_gioberti_0;Odero-Terni-Orlando Cantiere di Livorno / Cantiere navale di Castellammare di Stabia | Cacciatorpediniere Classe Alfredo Oriani | Vincenzo Gioberti (GB) (1942)
 it_destroyer_oriani_class_gioberti_1;Vincenzo Gioberti (GB)
 it_destroyer_oriani_class_gioberti_2;Destroyer
+it_destroyer_vifor_class_aquila_shop;Aquila (AQ)
+it_destroyer_vifor_class_aquila_0;Cantiere navali Pattison | Cacciatorpediniere Classe Aquila | Aquila (AQ)
+it_destroyer_vifor_class_aquila_1;Aquila
+it_destroyer_vifor_class_aquila_2;Destroyer
 it_destroyer_maestrale_class_grecale_shop;Grecale (GR)
-it_destroyer_maestrale_class_grecale_0;Cantieri Navali del Tirreno e Riuniti / Arsenale militare marittimo della Spezia | Cacciatorpediniere Classe Maestrale | Gercale (GR) (1949)
+it_destroyer_maestrale_class_grecale_0;Cantiere Navali del Tirreno e Riuniti / Arsenale militare marittimo della Spezia | Cacciatorpediniere Classe Maestrale | Gercale (GR) (1949)
 it_destroyer_maestrale_class_grecale_1;Grecale
 it_destroyer_maestrale_class_grecale_2;Destroyer
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+it_destroyer_leone_class_shop;Leone (LE)
+it_destroyer_leone_class_0;Cantiere navale di Sestri Ponente | Esploratore Classe Leone | Leone (LE) (1936)
+it_destroyer_leone_class_1;Leone
+it_destroyer_leone_class_2;Destroyer
+it_destroyer_leone_class_tigre_shop;Tigre (TI)
+it_destroyer_leone_class_tigre_0;Cantiere navale di Sestri Ponente | Esploratore Classe Leone | Tigre (TI) (1931)
+it_destroyer_leone_class_tigre_1;Tigre
+it_destroyer_leone_class_tigre_2;Destroyer
+it_destroyer_soldati_serie1_camicianera_shop;Camicia Nera (CN)
+it_destroyer_soldati_serie1_camicianera_0;Odero-Terni-Orlando Cantiere di Livorno | Cacciatorpediniere Classe Soldati, 1ª Serie | Camicia Nera (CN)
+it_destroyer_soldati_serie1_camicianera_1;Camicia Nera
+it_destroyer_soldati_serie1_camicianera_2;Destroyer
+it_destroyer_soldati_serie1_geniere_shop;Geniere (GE)
+it_destroyer_soldati_serie1_geniere_0;Odero-Terni-Orlando Cantiere di Livorno | Cacciatorpediniere Classe Soldati, 1ª Serie | Geniere (GE) (1942)
+it_destroyer_soldati_serie1_geniere_1;Geniere
+it_destroyer_soldati_serie1_geniere_2;Destroyer
+it_destroyer_soldati_serie1_shop;Aviere (AV)
+it_destroyer_soldati_serie1_0;Odero-Terni-Orlando Cantiere di Livorno | Cacciatorpediniere Classe Soldati, 1ª Serie | Aviere (AV)
+it_destroyer_soldati_serie1_1;Aviere
+it_destroyer_soldati_serie1_2;Destroyer
+it_destroyer_comandanti_medaglie_doro_shop;Comandante Margottini (MA)
+it_destroyer_comandanti_medaglie_doro_0;Odero-Terni-Orlando Cantiere di Livorno | Cacciatorpediniere Classe Comandanti Medaglie d'Oro, 1ª Serie | Comandante Margottini (MA)
+it_destroyer_comandanti_medaglie_doro_1;Comandante Margottini
+it_destroyer_comandanti_medaglie_doro_2;Destroyer
+it_destroyer_impetuoso_class_impetuoso_shop;Impetuoso (D 558)
+it_destroyer_impetuoso_class_impetuoso_0;Cantiere navale di Riva Trigoso | Cacciatorpediniere Classe Indomito | Impetuoso (D 558)
+it_destroyer_impetuoso_class_impetuoso_1;Impetuoso
+it_destroyer_impetuoso_class_impetuoso_2;Destroyer
+it_destroyer_fletcher_geniere_shop;Geniere (D 555)
+it_destroyer_fletcher_geniere_0;Seattle-Tacoma Shipbuilding Corporation | Cacciatorpediniere Classe Fante | Geniere (D 555)
+it_destroyer_fletcher_geniere_1;Geniere
+it_destroyer_fletcher_geniere_2;Destroyer
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+it_destroyer_navigatori_class_verazzano_shop;Giovanni da Verazzano (DV)
+it_destroyer_navigatori_class_verazzano_0;Cantiere navali del Quarnaro | Cacciatorpediniere Classe Navigatori | Giovanni da Verazzano (DV) (1940)
+it_destroyer_navigatori_class_verazzano_1;Giovanni da Verazzano
+it_destroyer_navigatori_class_verazzano_2;Destroyerit_cruiser_bartolomeocolleoni_1940_shop;Bartolomeo Colleoni
+it_cruiser_bartolomeocolleoni_1940_0;Cantiere navale di Sestri Ponente | Incrociatore Leggero Classe Condottieri Tipo Alberto di Giussano | Bartolomeo Colleoni
+it_cruiser_bartolomeocolleoni_1940_1;Bartolomeo Colleoni
+it_cruiser_bartolomeocolleoni_1940_2;Light Cruiser
 it_cruiser_cadorna_class_diaz_shop;Armando Diaz
 it_cruiser_cadorna_class_diaz_0;Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano | Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna | Armando Diaz
 it_cruiser_cadorna_class_diaz_1;Armando Diaz
 it_cruiser_cadorna_class_diaz_2;Light Cruiser
 it_cruiser_cadorna_class_cadorna_shop;Luigi Cadorna
-it_cruiser_cadorna_class_cadorna_0;Cantieri riuniti dell'Adriatico | Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna | Luigi Cadorna (1944)
+it_cruiser_cadorna_class_cadorna_0;Cantiere riuniti dell'Adriatico | Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna | Luigi Cadorna (1944)
 it_cruiser_cadorna_class_cadorna_1;Luigi Cadorna
 it_cruiser_cadorna_class_cadorna_2;Light Cruiser
+it_cruiser_etna_class_shop;Etna
+it_cruiser_etna_class_0;Cantiere navale Triestino | Incrociatore Leggero Classe Etna | Etna
+it_cruiser_etna_class_1;Etna
+it_cruiser_etna_class_2;Light Cruiser
+it_cruiser_capitani_romani_class_attilio_regolo_shop;Attilio Regolo
+it_cruiser_capitani_romani_class_attilio_regolo_0;Odero-Terni-Orlando Cantiere di Livorno | Incrociatore Leggero Classe Capitani Romani | Attilio Regolo
+it_cruiser_capitani_romani_class_attilio_regolo_1;Attilio Regolo
+it_cruiser_capitani_romani_class_attilio_regolo_2;Light Cruiser
+it_cruiser_capitani_romani_class_attilio_regolo_EC_0;Incrociatore Leggero Classe Capitani Romani | Attilio Regolo
+it_cruiser_capitani_romani_class_attilio_regolo_EC_1;Attilio Regolo
+it_cruiser_capitani_romani_class_attilio_regolo_EC_2;Light Cruiser
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+it_cruiser_montecuccoli_shop;Raimondo Montecuccoli
+it_cruiser_montecuccoli_0;Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Incrociatore Leggero Classe Condottieri Tipo Raimondo Montecuccoli | Raimondo Montecuccoli (1943)
+it_cruiser_montecuccoli_1;Raimondo Montecuccoli
+it_cruiser_montecuccoli_2;Light Cruiser
+it_cruiser_montecuccoli_EC_0;Incrociatore Leggero Classe Condottieri Tipo Raimondo Montecuccoli | Raimondo Montecuccoli (1943)
+it_cruiser_montecuccoli_EC_1;Raimondo Montecuccoli
+it_cruiser_montecuccoli_EC_2;Light Cruiser
+it_cruiser_eugenio_di_savoia_shop;Eugenio di Savoia
+it_cruiser_eugenio_di_savoia_0;Cantiere navale di Sestri Ponente / Cantiere navale di Castellammare di Stabia | Incrociatore Leggero Classe Condottieri Tipo Emanuele Filiberto Duca d'Aosta | Eugenio di Savoia (1943)
+it_cruiser_eugenio_di_savoia_1;Eugenio di Savoia
+it_cruiser_eugenio_di_savoia_2;Light Cruiser
+it_cruiser_garibaldi_class_abruzzi_shop;Luigi di Savoia Duca degli Abruzzi
+it_cruiser_garibaldi_class_abruzzi_0;Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano / Port of Freetown | Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli Abruzzi | Luigi di Savoia Duca degli Abruzzi (1944)
+it_cruiser_garibaldi_class_abruzzi_1;Luigi di Savoia Duca degli Abruzzi
+it_cruiser_garibaldi_class_abruzzi_2;Light Cruiser
+it_cruiser_trento_shop;Trento
+it_cruiser_trento_0;Odero-Terni-Orlando Cantiere di Livorno / Arsenale militare marittimo della Spezia | Incrociatore Pesante Trento | Trento (1937)
+it_cruiser_trento_1;Trento
+it_cruiser_trento_2;Heavy Cruiser
+it_cruiser_trento_EC_0;Incrociatore Pesante Trento | Trento (1937)
+it_cruiser_trento_EC_1;Trento
+it_cruiser_trento_EC_2;Heavy Cruiser
+it_cruiser_bolzano_shop;Bolzano
+it_cruiser_bolzano_0;Cantiere navale di Sestri Ponente | Incrociatore Pesante Bolzano | Bolzano (1937)
+it_cruiser_bolzano_1;Bolzano
+it_cruiser_bolzano_2;Heavy Cruiser
+it_cruiser_zara_class_pola_shop;Pola
+it_cruiser_zara_class_pola_0;Odero-Terni-Orlando Cantiere di Livorno / Cantiere navale Triestino | Incrociatore Pesante Zara | Pola (1937)
+it_cruiser_zara_class_pola_1;Pola
+it_cruiser_zara_class_pola_2;Heavy Cruiser
+it_cruiser_zara_class_shop;Zara
+it_cruiser_zara_class_0;Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano / Cantiere navale Triestino | Incrociatore Pesante Zara | Zara (1937)
+it_cruiser_zara_class_1;Zara
+it_cruiser_zara_class_2;Heavy Cruiser
+it_cruiser_zara_class_EC_0;Incrociatore Pesante Zara | Zara (1937)
+it_cruiser_zara_class_EC_1;Zara
+it_cruiser_zara_class_EC_2;Heavy Cruiser
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+it_battleship_dante_alighieri_shop;Dante Alighieri
+it_battleship_dante_alighieri_0;Regio arsenale / Cantiere navale Triestino | Corazzata Dante Alighieri | Dante Alighieri (1923)
+it_battleship_dante_alighieri_1;Dante Alighieri
+it_battleship_dante_alighieri_2;Battleship
+it_battleship_francesco_caracciolo_shop;Francesco Caracciolo
+it_battleship_francesco_caracciolo_0;Cantiere navale di Castellammare di Stabia | Corazzata Classe Francesco Caracciolo | Francesco Caracciolo
+it_battleship_francesco_caracciolo_1;Francesco Caracciolo
+it_battleship_francesco_caracciolo_2;Battleship
+it_battleship_andrea_doria_shop;Andrea Doria
+it_battleship_andrea_doria_0;Arsenale militare marittimo della Spezia | Corazzata Classe Duilio | Andrea Doria (1925)
+it_battleship_andrea_doria_1;Andrea Doria
+it_battleship_andrea_doria_2;Battleship
+it_battleship_leonardo_da_vinci_shop;Leonardo da Vinci
+it_battleship_leonardo_da_vinci_0;Cantiere della Foce | Corazzata Classe Conte di Cavour | Leonardo da Vinci
+it_battleship_leonardo_da_vinci_1;Leonardo da Vinci
+it_battleship_leonardo_da_vinci_2;Battleship
+it_battleship_conte_di_cavour_shop;Conte di Cavour
+it_battleship_conte_di_cavour_0;Arsenale militare marittimo della Spezia / Cantiere navale Triestino | Corazzata Classe Conte di Cavour | Conte di Cavour (1944)
+it_battleship_conte_di_cavour_1;Conte di Cavour
+it_battleship_conte_di_cavour_2;Battleship
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+it_battleship_caio_duilio_shop;Duilio
+it_battleship_caio_duilio_0;Cantiere navale di Castellammare di Stabia / Cantiere navali del Tirreno e Riuniti | Corazzata Classe Duilio | Duilio (1942)
+it_battleship_caio_duilio_1;Duilio
+it_battleship_caio_duilio_2;Battleship
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 it_battleship_littorio_class_roma_shop;Roma
-it_battleship_littorio_class_roma_0;Cantieri riuniti dell'Adriatico | Corazzata Classe Littorio | Roma
+it_battleship_littorio_class_roma_0;Cantiere riuniti dell'Adriatico | Corazzata Classe Littorio | Roma
 it_battleship_littorio_class_roma_1;Roma
 it_battleship_littorio_class_roma_2;Battleship
 it_battleship_littorio_class_littorio_shop;Italia
@@ -8667,7 +9121,7 @@ sb_25j_netherlands_2;◘ B-25
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 f-84f_iaf_shop;☨ F-84F-51-GK (EC 1/1)
-f-84f_iaf_0;"☨ Republic Aviation Corporation AP-23 | F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 ""Corse"")"
+f-84f_iaf_0;"☨ Republic Aviation Corporation AP-23M | F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 ""Corse"")"
 f-84f_iaf_1;☨ F-84F
 f-84f_iaf_2;☨ F-84
 
@@ -9067,7 +9521,7 @@ sw_eldenhet_98_0;BAE Systems Hägglunds | eldenhet 98 (Giraffe 1X)
 sw_eldenhet_98_1;elde 98
 sw_eldenhet_98_2;SPAAM
 sw_nasams_fcs_shop;300 GD (AN/MPQ-64)
-sw_nasams_fcs_0;Mercedes-Benz G-Class 300 GD (AN/MPQ-64 Sentinel)
+sw_nasams_fcs_0;Mercedes-Benz G-Class 300 GD (Radar Set, AN/MPQ-64 Sentinel)
 sw_nasams_fcs_1;300 GD (AN/MPQ-64)
 sw_nasams_fcs_2;Radar
 sw_nasams_launcher_shop;◢ P113H 380 (NASAMS 3)
@@ -9116,6 +9570,10 @@ spitfire_lf_mk9e_weisman_shop; Weiṣman's Spiṭfayer IX
 spitfire_lf_mk9e_weisman_0; Vickers Supermarine Type 361 | 'Ezer Weiṣman's Spiṭfayer Degem IX
 spitfire_lf_mk9e_weisman_1; Spiṭfayer IX
 spitfire_lf_mk9e_weisman_2; Spiṭfayer
+spitfire_lf_mk9c_cw_greece_shop;⚕ Smyrniotópoulos' Spitfire L.F. Mk. IX (CW)
+spitfire_lf_mk9c_cw_greece_0;⚕ Vickers Supermarine Type 361 | Geórgios Smyrniotópoulos' Spitfire L.F. Mk. IX (clipped wing)
+spitfire_lf_mk9c_cw_greece_1;⚕ Spitfire L.F. Mk. IX
+spitfire_lf_mk9c_cw_greece_2;⚕ Spitfire
 s_199_shop; Si.210
 s_199_0;" Avia Motors C.210 | Si.210 ""Sakin"""
 s_199_1; Si.210
@@ -9125,7 +9583,7 @@ p-51d-20-na_iaf_0; North American Aviation NA-122 | Pi-51 Degem Di Musṭang
 p-51d-20-na_iaf_1; Pi-51 Di
 p-51d-20-na_iaf_2; Pi-51
 b-17g_iaf_shop; Bi-17 Ji
-b-17g_iaf_0; Boeing Airplane Company | Bi-17 Degem Ji Mivṣar Me'ofef
+b-17g_iaf_0; Boeing Airplane Company Model 299P | Bi-17 Degem Ji Mivṣar Me'ofef
 b-17g_iaf_1; Bi-17 Ji
 b-17g_iaf_2; Bi-17
 
@@ -9193,7 +9651,7 @@ so_4050_vautour_2a_iaf_0;☨ Société nationale des constructions aéronauti
 so_4050_vautour_2a_iaf_1;☨ Vuṭur A
 so_4050_vautour_2a_iaf_2;☨ Vuṭur
 f-84f_israel_iaf_shop; F-84F-51-GK (Ṭayeset 200)
-f-84f_israel_iaf_0; Republic Aviation Corporation AP-23 | F-84F-51-GK Thunderstreak (Ṭayeset 200)
+f-84f_israel_iaf_0; Republic Aviation Corporation AP-23M | F-84F-51-GK Thunderstreak (Ṭayeset 200)
 f-84f_israel_iaf_1; F-84F
 f-84f_israel_iaf_2; F-84
 
@@ -10298,10 +10756,6 @@ germ_panzerjager_tiger_shop;Pz.Jgr. Tiger B
 germ_panzerjager_tiger_0;Panzerjäger Tiger Ausf. B (H)
 germ_panzerjager_tiger_1;Pz.Jgr. Tiger
 germ_panzerjager_tiger_2;SPG
-germ_panzerjager_1_shop;Pz.Jgr. I
-germ_panzerjager_1_0;4,7cm Pa.K. 36(t) (Sfl.) auf Fahrgestell Panzerkampfwagen I (II Serie) | Panzerjäger I
-germ_panzerjager_1_1;Pz.Jgr. I
-germ_panzerjager_1_2;SPG
 uk_3_inch_gun_carrier_shop;3-in Gun, Mk. I
 uk_3_inch_gun_carrier_0;Carrier, Churchill, A.22D, 3-in Gun, Mk. I
 uk_3_inch_gun_carrier_1;3-in Gun, Mk. I
@@ -10933,15 +11387,15 @@ fr_m44_2;SPH
 fr_m36b2_cefeo_shop;☨ M36B2 GMC
 fr_m36b2_cefeo_0;"☨ G-237 | Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
 fr_m36b2_cefeo_1;☨ M36B2
-fr_m36b2_cefeo_2;TD
+fr_m36b2_cefeo_2;Tank Destroyer
 fr_m10_shop;☨ M10 GMC
 fr_m10_0;☨ G-130 | Carriage, Motor, 3-inch Gun, M10
 fr_m10_1;☨ M10
-fr_m10_2;TD
+fr_m10_2;Tank Destroyer
 fr_m4a3e2_sherman_jumbo_shop;☨ M4A3E2
 fr_m4a3e2_sherman_jumbo_0;☨ Char d'assaut M4A3E2 (75) W
 fr_m4a3e2_sherman_jumbo_1;☨ M4A3E2
-fr_m4a3e2_sherman_jumbo_2;Assault tank
+fr_m4a3e2_sherman_jumbo_2;Assault Tank
 fr_amd_35_shop;AMD 35
 fr_amd_35_0;Automitrailleuse de découverte AMD 35
 fr_amd_35_1;AMD 35
@@ -13227,7 +13681,7 @@ uk_centurion_action_x_2;MBT
 uk_centurion_mk_5_avre_era_shop;Centurion, Mk. 5 AVRE
 uk_centurion_mk_5_avre_era_0;Tank, Assault Vehicle, Royal Engineers, 165mm Gun, Centurion, Mk. 5
 uk_centurion_mk_5_avre_era_1;Centurion, Mk. 5 AVRE
-uk_centurion_mk_5_avre_era_2;Assault tank
+uk_centurion_mk_5_avre_era_2;Assault Tank
 uk_chieftain_marksman_shop;Chieftain Mk. 10 Marksman
 uk_chieftain_marksman_0;Chieftain Mk. 10 Marksman
 uk_chieftain_marksman_1;Chieftain Mk. 10 Marksman
@@ -13757,7 +14211,7 @@ jaguar_a_0;☨ SEPECAT Jaguar A | Jaguar Type A
 jaguar_a_1;☨ Jaguar A
 jaguar_a_2;☨ Jaguar
 alpha_jet_e_shop;☨ Alpha Jet E
-alpha_jet_e_0;☨ Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | Alpha Jet E
+alpha_jet_e_0;☨ Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet E
 alpha_jet_e_1;☨ Alpha Jet E
 alpha_jet_e_2;☨ Alpha Jet
 sea_hawk_fga6_shop;Sea Hawk F.G.A. Mk. 6
@@ -13804,10 +14258,6 @@ b_48_firecrest_shop;Firecrest (RT651)
 b_48_firecrest_0;Firecrest (RT651)
 b_48_firecrest_1;Firecrest
 b_48_firecrest_2;Firecrest
-uk_destroyer_clemson_montgomery_g95_shop;HMS Montgomery (G 95)
-uk_destroyer_clemson_montgomery_g95_0;Bath Iron Works / Barrow-in-Furness | Town-class | HMS Montgomery (G 95) (1941)
-uk_destroyer_clemson_montgomery_g95_1;HMS Montgomery
-uk_destroyer_clemson_montgomery_g95_2;Destroyer
 uk_adats_m113a3_shop;▄ M113A3 (ADATS)
 uk_adats_m113a3_0;▄ M113A3 (Air Defense Anti-Tank System)
 uk_adats_m113a3_1;▄ M113 (ADATS)
@@ -14189,7 +14639,7 @@ saab_b3c_0;Junkers / Saab | B 3 C-2
 saab_b3c_1;B 3 C
 saab_b3c_2;B 3
 he_115a_2_sweden_shop;T 2
-he_115a_2_sweden_0;Heinkel | T 2
+he_115a_2_sweden_0;Heinkel Flugzeugwerke | T 2
 he_115a_2_sweden_1;T 2
 he_115a_2_sweden_2;T 2
 j6b_shop;J 6 B
@@ -14896,62 +15346,6 @@ ussr_destroyer_frunze_shop;Frunzye
 ussr_destroyer_frunze_0;Novik-class, Frunzye, 1940
 ussr_destroyer_frunze_1;Frunzye
 ussr_destroyer_frunze_2;Destroyer
-uk_destroyer_haida_shop;HMCS Haida (G 63)
-uk_destroyer_haida_0;Vickers-Armstrongs | Tribal-class | HMCS Haida (G 63)
-uk_destroyer_haida_1;HMCS Haida
-uk_destroyer_haida_2;Destroyer
-uk_destroyer_g_grafton_shop;HMS Grafton (H 89)
-uk_destroyer_g_grafton_0;John I. Thornycroft & Co. | G-class | HMS Grafton (H 89)
-uk_destroyer_g_grafton_1;HMS Grafton
-uk_destroyer_g_grafton_2;Destroyer
-uk_destroyer_g_grafton_EC_0;John I. Thornycroft & Co. | G-class | HMS Grafton (H 89)
-uk_destroyer_g_grafton_EC_1;HMS Grafton
-uk_destroyer_g_grafton_EC_2;Destroyer
-uk_destroyer_tribal_shop;HMS Eskimo (G 75)
-uk_destroyer_tribal_0;Vickers-Armstrongs / Barrow-in-Furness | Tribal-class | HMS Eskimo (G 75) (1940)
-uk_destroyer_tribal_1;HMS Eskimo
-uk_destroyer_tribal_2;Destroyer
-uk_destroyer_tribal_EC_0;Vickers-Armstrongs / Barrow-in-Furness | Tribal-class | HMS Eskimo (G 75) (1940)
-uk_destroyer_tribal_EC_1;HMS Eskimo
-uk_destroyer_tribal_EC_2;Destroyer
-uk_destroyer_clemson_churchill_shop;HMS Churchill (I 45)
-uk_destroyer_clemson_churchill_0;Newport News Shipbuilding and Dry Dock Co. / Charleston Naval Shipyard | Town-class | HMS Churchill (I 45) (1943)
-uk_destroyer_clemson_churchill_1;HMS Churchill
-uk_destroyer_clemson_churchill_2;Destroyer
-uk_destroyer_clemson_churchill_EC_0;Newport News Shipbuilding and Dry Dock Co. / Charleston Naval Shipyard | Town-class | HMS Churchill (I 45) (1943)
-uk_destroyer_clemson_churchill_EC_1;HMS Churchill
-uk_destroyer_clemson_churchill_EC_2;Destroyer
-uk_destroyer_battle_tobruk_shop;HMAS Tobruk (D 37)
-uk_destroyer_battle_tobruk_0;Cockatoo Docks and Engineering Co. | Battle-class | HMAS Tobruk (D 37)
-uk_destroyer_battle_tobruk_1;HMAS Tobruk
-uk_destroyer_battle_tobruk_2;Destroyer
-uk_destroyer_battle_2series_shop;HMS Armada (R 14)
-uk_destroyer_battle_2series_0;R. & W. Hawthorn, Leslie & Co. | Battle-class | HMS Armada (R 14)
-uk_destroyer_battle_2series_1;HMS Armada
-uk_destroyer_battle_2series_2;Destroyer
-uk_destroyer_j_class_shop;HMS Jervis (G 00)
-uk_destroyer_j_class_0;R. & W. Hawthorn, Leslie & Co. / Belfast Dry Dock | J-class | HMS Jervis (G 00) (1945)
-uk_destroyer_j_class_1;HMS Jervis
-uk_destroyer_j_class_2;Destroyer
-uk_destroyer_k_class_shop;HMS Kelvin (F 37)
-uk_destroyer_k_class_0;Fairfield Shipbuilding & Engineering Co. | K-class | HMS Kelvin (F 37)
-uk_destroyer_k_class_1;HMS Kelvin
-uk_destroyer_k_class_2;Destroyer
-uk_destroyer_n_class_shop;HMAS Nepal (G 25)
-uk_destroyer_n_class_0;John I. Thornycroft & Co. / HMAS Kuttabul | N-class | HMAS Nepal (G 25) (1943)
-uk_destroyer_n_class_1;HMAS Nepal
-uk_destroyer_n_class_2;Destroyer
-uk_destroyer_n_class_EC_0;John I. Thornycroft & Co. / HMAS Kuttabul | N-class | HMAS Nepal (G 25) (1943)
-uk_destroyer_n_class_EC_1;HMAS Nepal
-uk_destroyer_n_class_EC_2;Destroyer
-uk_destroyer_hunt_2series_shop;HMS Calpe (L 71)
-uk_destroyer_hunt_2series_0;Swan Hunter & Wigham Richardson / Malta Dockyard | Type II Hunt-class | HMS Calpe (L 71) (1945)
-uk_destroyer_hunt_2series_1;HMS Calpe
-uk_destroyer_hunt_2series_2;Destroyer
-uk_destroyer_hunt_4series_shop;HMS Brissenden (L 79)
-uk_destroyer_hunt_4series_0;John I. Thornycroft & Co. / Pembroke Dockyard | Type IV Hunt-class | HMS Brissenden (L 79) (1945)
-uk_destroyer_hunt_4series_1;HMS Brissenden
-uk_destroyer_hunt_4series_2;Destroyer
 germ_escort_typem1943_shop;M 601
 germ_escort_typem1943_0;Minensuchboot Typ 1943, M 601
 germ_escort_typem1943_1;M 601
@@ -15013,13 +15407,6 @@ germ_cruiser_koln_2;Light Cruiser
 germ_cruiser_koln_EC_0;К-class, Köln, 1940
 germ_cruiser_koln_EC_1;Köln
 germ_cruiser_koln_EC_2;Light Cruiser
-uk_cruiser_dido_shop;HMS Dido (37)
-uk_cruiser_dido_0;Cammell Laird & Co. / Brooklyn Navy Yard | Dido-class | HMS Dido (37) (1941)
-uk_cruiser_dido_1;HMS Dido
-uk_cruiser_dido_2;Light Cruiser
-uk_cruiser_dido_EC_0;Cammell Laird & Co. / Brooklyn Navy Yard | Dido-class | HMS Dido (37) (1941)
-uk_cruiser_dido_EC_1;HMS Dido
-uk_cruiser_dido_EC_2;Light Cruiser
 ussr_destroyer_pr30_ognevoy_shop;Ognyevoj
 ussr_destroyer_pr30_ognevoy_0;Pr. 30, Ognyevoj, 1944
 ussr_destroyer_pr30_ognevoy_1;Ognyevoj
@@ -15036,17 +15423,6 @@ germ_destroyer_class1936a_mob_z32_shop;Z 33
 germ_destroyer_class1936a_mob_z32_0;Zerstörer Typ 1936 A (Mob), Z 33, 1943
 germ_destroyer_class1936a_mob_z32_1;Z 33
 germ_destroyer_class1936a_mob_z32_2;Destroyer
-uk_cruiser_leander_shop;HMNZS Leander (75)
-uk_cruiser_leander_0;Vickers-Armstrongs / Auckland Dockyard | Leander-class | HMNZS Leander (75) (1941)
-uk_cruiser_leander_1;HMNZS Leander
-uk_cruiser_leander_2;Light Cruiser
-uk_cruiser_leander_EC_0;Vickers-Armstrongs / Auckland Dockyard | Leander-class | HMNZS Leander (75) (1941)
-uk_cruiser_leander_EC_1;HMNZS Leander
-uk_cruiser_leander_EC_2;Light Cruiser
-uk_cruiser_fiji_class_fiji_shop;HMS Fiji (58)
-uk_cruiser_fiji_class_fiji_0;John Brown & Co. / Clydebank Shipyard | Colony-class | HMS Fiji (58) (1941)
-uk_cruiser_fiji_class_fiji_1;HMS Fiji
-uk_cruiser_fiji_class_fiji_2;Light Cruiser
 ussr_cruiser_kirov_shop;Kirov
 ussr_cruiser_kirov_0;Pr. 26, Kirov, 1941
 ussr_cruiser_kirov_1;Kirov
@@ -15062,18 +15438,10 @@ ussr_mpk_122bis_shop;MPK-173
 ussr_mpk_122bis_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 122bis, MPK-173
 ussr_mpk_122bis_1;MPK-173
 ussr_mpk_122bis_2;Gunboat
-uk_cruiser_tiger_shop;HMS Tiger (C 20)
-uk_cruiser_tiger_0;John Brown & Co. | Tiger-class | HMS Tiger (C 20)
-uk_cruiser_tiger_1;HMS Tiger
-uk_cruiser_tiger_2;Light Cruiser
 ussr_skr_groza_1943_shop;Groza
 ussr_skr_groza_1943_0;Storozhyevyye Korabl' Proyekt 2, Tip Uragan, Syerii I , Groza (1943)
 ussr_skr_groza_1943_1;Groza
 ussr_skr_groza_1943_2;Patrol ship
-uk_cruiser_southampton_shop;HMS Southampton (C 83)
-uk_cruiser_southampton_0;John Brown & Co. / Tyne Shipyard | Town-class | HMS Southampton (C 83) (1940)
-uk_cruiser_southampton_1;HMS Southampton
-uk_cruiser_southampton_2;Light Cruiser
 germ_destroyer_class1939_t31_shop;T 28
 germ_destroyer_class1939_t31_0;Flottentorpedoboot Typ 1939, T 28, 1944
 germ_destroyer_class1939_t31_1;T 28
@@ -15082,13 +15450,6 @@ germ_cruiser_admiral_hipper_shop;Admiral Hipper
 germ_cruiser_admiral_hipper_0;Admiral Hipper-class, Admiral Hipper, 1942
 germ_cruiser_admiral_hipper_1;Admiral Hipper
 germ_cruiser_admiral_hipper_2;Heavy Cruiser
-uk_cruiser_arethusa_shop;HMS Arethusa (26)
-uk_cruiser_arethusa_0;Chatham Royal Dockyard / Charleston Naval Shipyard | Arethusa-class | HMS Arethusa (26) (1943)
-uk_cruiser_arethusa_1;HMS Arethusa (26)
-uk_cruiser_arethusa_2;Light Cruiser
-uk_cruiser_arethusa_EC_0;Chatham Royal Dockyard / Charleston Naval Shipyard | Arethusa-class | HMS Arethusa (26) (1943)
-uk_cruiser_arethusa_EC_1;Arethusa
-uk_cruiser_arethusa_EC_2;Light Cruiser
 ussr_cruiser_chapayev_shop;Čapayev
 ussr_cruiser_chapayev_0;Pr. 68-K, Čapayev, 1950
 ussr_cruiser_chapayev_1;Čapayev
@@ -15108,10 +15469,6 @@ jp_cargo_ship_kashino_2;Cargo ship
 jp_cargo_ship_kashino_EC_0;Cargo ship
 jp_cargo_ship_kashino_EC_1;Cargo ship
 jp_cargo_ship_kashino_EC_2;Cargo ship
-uk_cruiser_belfast_shop;HMS Belfast (C 35)
-uk_cruiser_belfast_0;Harland & Wolff Group Holdings / Devonport Royal Dockyard | Town-class | HMS Belfast (C 35) (1959)
-uk_cruiser_belfast_1;HMS Belfast
-uk_cruiser_belfast_2;Light Cruiser
 germ_destroyer_class1934a_1944_shop;Z 15
 germ_destroyer_class1934a_1944_0;Zerstörer Typ 1934 A, Z 15 Erich Steinbrinck, 1944
 germ_destroyer_class1934a_1944_1;Z 15
@@ -15120,10 +15477,6 @@ germ_destroyer_class1936b_shop;Z 35
 germ_destroyer_class1936b_0;Zerstörer Typ 1936 B, Z 35, 1943
 germ_destroyer_class1936b_1;Z 35
 germ_destroyer_class1936b_2;Destroyer
-uk_cruiser_hawkins_shop;HMS Hawkins (D 86)
-uk_cruiser_hawkins_0;Chatham Royal Dockyard / Portsmouth Royal Dockyard | Hawkins-class | HMS Hawkins (D 86) (1942)
-uk_cruiser_hawkins_1;HMS Hawkins
-uk_cruiser_hawkins_2;Heavy Cruiser
 germ_destroyer_class1924_jaguar1941_shop;Jaguar
 germ_destroyer_class1924_jaguar1941_0;Raubtier-class, Jaguar, 1941
 germ_destroyer_class1924_jaguar1941_1;Jaguar
@@ -15154,10 +15507,6 @@ germ_cruiser_leipzig_shop;Leipzig
 germ_cruiser_leipzig_0;Leipzig-class, Leipzig, 1944
 germ_cruiser_leipzig_1;Leipzig
 germ_cruiser_leipzig_2;Light Cruiser
-uk_cruiser_kent_shop;HMS Kent (54)
-uk_cruiser_kent_0;Chatham Royal Dockyard | County-class | HMS Kent (54) (1934)
-uk_cruiser_kent_1;HMS Kent
-uk_cruiser_kent_2;Heavy Cruiser
 ussr_destroyer_pr41_neustrashimy_shop;Nyeustrašimyj
 ussr_destroyer_pr41_neustrashimy_0;Pr. 41, Nyeustrašimyj, 1960
 ussr_destroyer_pr41_neustrashimy_1;Nyeustrašimyj
@@ -15170,104 +15519,6 @@ germ_frigate_koln_lubeck_shop;Lübeck (F 224)
 germ_frigate_koln_lubeck_0;Fregatte Köln-Klasse (Typ 120), Lübeck (F 224) (1966)
 germ_frigate_koln_lubeck_1;Lübeck (F 224)
 germ_frigate_koln_lubeck_2;Frigate
-uk_cruiser_london_shop;HMS London (69)
-uk_cruiser_london_0;Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | County-class | HMS London (69) (1944)
-uk_cruiser_london_1;HMS London
-uk_cruiser_london_2;Heavy Cruiser
-it_ms74_2a_shop;MS 74
-it_ms74_2a_0;Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 2ª Serie | MS 74
-it_ms74_2a_1;MS 74
-it_ms74_2a_2;MTB
-it_ms15_1a_shop;MS 15
-it_ms15_1a_0;Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 1ª Serie | MS 15
-it_ms15_1a_1;MS 15
-it_ms15_1a_2;MTB
-it_ms53_2a_shop;MS 53
-it_ms53_2a_0;Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 2ª Serie | MS 53
-it_ms53_2a_1;MS 53
-it_ms53_2a_2;Motor Torpedo Boat
-it_mas_stefano_turr_shop;Stefano Turr
-it_mas_stefano_turr_0;Cantieri Baglietto | Motoscafo Armato Silurante Tipo Sperimentale Diesel | Stefano Turr
-it_mas_stefano_turr_1;Stefano Turr
-it_mas_stefano_turr_2;MTB
-it_p493_freccia_shop;Freccia (P 493)
-it_p493_freccia_0;Cantieri navali del Tirreno e Riuniti | Motocannoniera Convertibile Classe 590 | Freccia (P 493)
-it_p493_freccia_1;Freccia
-it_p493_freccia_2;MGB
-it_p494_saetta_shop;Saetta (P 494)
-it_p494_saetta_0;Cantiere navale Triestino | Motocannoniera Convertibile Classe 590 | Saetta (P 494)
-it_p494_saetta_1;Saetta
-it_p494_saetta_2;MGB
-it_a1_vosper_shop;MS 461
-it_a1_vosper_0;Robert Jacob Shipyard | Motosiluranti Tipo Vosper da 72 Piedi e 6 Pollici | MS 461
-it_a1_vosper_1;MS 461
-it_a1_vosper_2;MTB
-it_mas_classe500_3_shop;MAS 555
-it_mas_classe500_3_0;Cantiere navale Picchiotti | Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie | MAS 555
-it_mas_classe500_3_1;MAS 555
-it_mas_classe500_3_2;MTB
-it_ms471_1a_shop;MV 611
-it_ms471_1a_0;Cantiere navale di Monfalcone | Motovedette Tipo CRDA 60 t, 1ª Serie | MV 611
-it_ms471_1a_1;MV 611
-it_ms471_1a_2;MGB
-it_ms473_2a_shop;MS 472
-it_ms473_2a_0;Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 2ª Serie | MS 472
-it_ms473_2a_1;MS 472
-it_ms473_2a_2;MGB
-it_ms473_2a_art_shop;MS 473
-it_ms473_2a_art_0;Cantiere navale di Monfalcone | Motosiluranti Tipo CRDA 60 t, 2ª Serie | MS 473
-it_ms473_2a_art_1;MS 473
-it_ms473_2a_art_2;MGB
-it_vas_baglietto_68t_1serie_shop;VAS 201
-it_vas_baglietto_68t_1serie_0;Cantieri Baglietto | Motovedette Antisommergibili Tipo Baglietto 68 t, 1ª Serie | VAS 201
-it_vas_baglietto_68t_1serie_1;VAS 201
-it_vas_baglietto_68t_1serie_2;MTB
-it_mc490_folgore_shop;MC 490
-it_mc490_folgore_0;Cantiere navale Triestino | Motocannoniera Convertibile Tipo Sperimentale CRDA | MC 490
-it_mc490_folgore_1;MC 490
-it_mc490_folgore_2;MGB
-it_destroyer_soldati_serie1_camicianera_shop;Camicia Nera (CN)
-it_destroyer_soldati_serie1_camicianera_0;Odero-Terni-Orlando Cantieri di Livorno | Cacciatorpediniere Classe Soldati, 1ª Serie | Camicia Nera (CN)
-it_destroyer_soldati_serie1_camicianera_1;Camicia Nera
-it_destroyer_soldati_serie1_camicianera_2;Destroyer
-it_destroyer_turbine_shop;Turbine (TB)
-it_destroyer_turbine_0;Cantiere navale di Sestri Ponente | Cacciatorpediniere Classe Turbine | Turbine (TB)
-it_destroyer_turbine_1;Turbine
-it_destroyer_turbine_2;Destroyer
-it_destroyer_soldati_serie1_shop;Aviere (AV)
-it_destroyer_soldati_serie1_0;Odero-Terni-Orlando Cantieri di Livorno | Cacciatorpediniere Classe Soldati, 1ª Serie | Aviere (AV)
-it_destroyer_soldati_serie1_1;Aviere
-it_destroyer_soldati_serie1_2;Destroyer
-it_cruiser_bartolomeocolleoni_1940_shop;Bartolomeo Colleoni
-it_cruiser_bartolomeocolleoni_1940_0;Cantiere navale di Sestri Ponente | Incrociatore Leggero Classe Condottieri Tipo Alberto di Giussano | Bartolomeo Colleoni
-it_cruiser_bartolomeocolleoni_1940_1;Bartolomeo Colleoni
-it_cruiser_bartolomeocolleoni_1940_2;Light Cruiser
-it_cruiser_trento_shop;Trento
-it_cruiser_trento_0;Odero-Terni-Orlando Cantieri di Livorno / Arsenale militare marittimo della Spezia | Incrociatore Pesante Trento | Trento (1937)
-it_cruiser_trento_1;Trento
-it_cruiser_trento_2;Heavy Cruiser
-it_cruiser_trento_EC_0;Odero-Terni-Orlando Cantieri di Livorno / Arsenale militare marittimo della Spezia | Incrociatore Pesante Trento | Trento (1937)
-it_cruiser_trento_EC_1;Trento
-it_cruiser_trento_EC_2;Heavy Cruiser
-it_p420_sparviero_shop;Sparviero (P 420)
-it_p420_sparviero_0;Cantiere Navale del Muggiano | Aliscafo Missilistico Sparviero (P 420)
-it_p420_sparviero_1;Sparviero
-it_p420_sparviero_2;Missile boat
-uk_cruiser_york_shop;HMS York (90)
-uk_cruiser_york_0;Palmers Shipbuilding and Iron Co. / Royal Albery Dockyard | York-class | HMS York (90) (1940)
-uk_cruiser_york_1;HMS York
-uk_cruiser_york_2;Heavy Cruiser
-it_cruiser_capitani_romani_class_attilio_regolo_shop;Attilio Regolo
-it_cruiser_capitani_romani_class_attilio_regolo_0;Odero-Terni-Orlando Cantieri di Livorno | Incrociatore Leggero Classe Capitani Romani | Attilio Regolo
-it_cruiser_capitani_romani_class_attilio_regolo_1;Attilio Regolo
-it_cruiser_capitani_romani_class_attilio_regolo_2;Light Cruiser
-it_cruiser_capitani_romani_class_attilio_regolo_EC_0;Odero-Terni-Orlando Cantieri di Livorno | Incrociatore Leggero Classe Capitani Romani | Attilio Regolo
-it_cruiser_capitani_romani_class_attilio_regolo_EC_1;Attilio Regolo
-it_cruiser_capitani_romani_class_attilio_regolo_EC_2;Light Cruiser
-it_mas_classe500_4_shop;MAS 569
-it_mas_classe500_4_0;Cantieri Baglietto | Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 4ª Serie | MAS 569
-it_mas_classe500_4_1;MAS 569
-it_mas_classe500_4_2;MTB
 ussr_g5_rct_shop;TK-412
 ussr_g5_rct_0;Torpyednyye katyera Tip G-5, syeriâ XI, TK-412
 ussr_g5_rct_1;TK-412
@@ -15276,17 +15527,6 @@ ussr_destroyer_pr56_spokoinyy_shop;Spokojnyj
 ussr_destroyer_pr56_spokoinyy_0;Pr. 56, Spokojnyj, 1956
 ussr_destroyer_pr56_spokoinyy_1;Spokojnyj
 ussr_destroyer_pr56_spokoinyy_2;Destroyer
-it_destroyer_soldati_serie1_geniere_shop;Geniere (GE)
-it_destroyer_soldati_serie1_geniere_0;Odero-Terni-Orlando Cantieri di Livorno | Cacciatorpediniere Classe Soldati, 1ª Serie | Geniere (GE) (1942)
-it_destroyer_soldati_serie1_geniere_1;Geniere
-it_destroyer_soldati_serie1_geniere_2;Destroyer
-it_cruiser_montecuccoli_shop;Raimondo Montecuccoli
-it_cruiser_montecuccoli_0;Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Incrociatore Leggero Classe Condottieri Tipo Raimondo Montecuccoli | Raimondo Montecuccoli (1943)
-it_cruiser_montecuccoli_1;Raimondo Montecuccoli
-it_cruiser_montecuccoli_2;Light Cruiser
-it_cruiser_montecuccoli_EC_0;Cantiere navale di Sestri Ponente / Arsenale militare marittimo della Spezia | Incrociatore Leggero Classe Condottieri Tipo Raimondo Montecuccoli | Raimondo Montecuccoli (1943)
-it_cruiser_montecuccoli_EC_1;Raimondo Montecuccoli
-it_cruiser_montecuccoli_EC_2;Light Cruiser
 ussr_cruiser_maxim_gorky_shop;Maksim Gor'kij
 ussr_cruiser_maxim_gorky_0;Pr. 26bis, Maksim Gor'kij, 1941
 ussr_cruiser_maxim_gorky_1;Maksim Gor'kij
@@ -15295,21 +15535,6 @@ ussr_skr_pr50_jenot_shop;Yenot
 ussr_skr_pr50_jenot_0;Storozhyevyye Korabl' Proyekt 50, Tip Gornostaj, Yenot
 ussr_skr_pr50_jenot_1;Yenot
 ussr_skr_pr50_jenot_2;Patrol ship
-it_mas_classe500_3_1944_shop;MAS 561
-it_mas_classe500_3_1944_0;Cantieri Baglietto | Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie | MAS 561
-it_mas_classe500_3_1944_1;MAS 561
-it_mas_classe500_3_1944_2;MTB
-it_cruiser_zara_class_shop;Zara
-it_cruiser_zara_class_0;Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano / Cantiere navale Triestino | Incrociatore Pesante Zara | Zara (1937)
-it_cruiser_zara_class_1;Zara
-it_cruiser_zara_class_2;Heavy Cruiser
-it_cruiser_zara_class_EC_0;Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano / Cantiere navale Triestino | Incrociatore Pesante Zara | Zara (1937)
-it_cruiser_zara_class_EC_1;Zara
-it_cruiser_zara_class_EC_2;Heavy Cruiser
-it_destroyer_comandanti_medaglie_doro_shop;Comandante Margottini (MA)
-it_destroyer_comandanti_medaglie_doro_0;Odero-Terni-Orlando Cantieri di Livorno | Cacciatorpediniere Classe Comandanti Medaglie d'Oro, 1ª Serie | Comandante Margottini (MA)
-it_destroyer_comandanti_medaglie_doro_1;Comandante Margottini
-it_destroyer_comandanti_medaglie_doro_2;Destroyer
 ussr_battleship_imperatritsa_mariya_shop;Impyeratricza Mariâ
 ussr_battleship_imperatritsa_mariya_0;Impyeratricza Mariâ-class, Impyeratricza Mariâ, 1916
 ussr_battleship_imperatritsa_mariya_1;Impyeratricza Mariâ
@@ -15318,10 +15543,6 @@ ussr_battleship_poltava_shop;Poltava
 ussr_battleship_poltava_0;Syevastopol'-class, Poltava, 1914
 ussr_battleship_poltava_1;Poltava
 ussr_battleship_poltava_2;Battleship
-uk_battleship_dreadnought_shop;HMS Dreadnought (00)
-uk_battleship_dreadnought_0;Portsmouth Royal Dockyard | Dreadnought-class | HMS Dreadnought (00) (1917)
-uk_battleship_dreadnought_1;HMS Dreadnought
-uk_battleship_dreadnought_2;Dreadnought
 germ_battleship_westfalen_shop;SMS Westfalen
 germ_battleship_westfalen_0;Nassau-class, SMS Westfalen, 1916
 germ_battleship_westfalen_1;SMS Westfalen
@@ -15342,46 +15563,18 @@ ussr_cruiser_zheleznyakov_shop;Žyelyeznâkov
 ussr_cruiser_zheleznyakov_0;Pr. 68-K, Žyelyeznâkov, 1951
 ussr_cruiser_zheleznyakov_1;Žyelyeznâkov
 ussr_cruiser_zheleznyakov_2;Light Cruiser
-it_destroyer_aquilone_shop;Aquilone (AL)
-it_destroyer_aquilone_0;Cantiere navale di Sestri Ponente / Cantieri navali del Quarnaro | Cacciatorpediniere Classe Turbine | Aquilone (AL) (1939)
-it_destroyer_aquilone_1;Aquilone
-it_destroyer_aquilone_2;Destroyer
 germ_destroyer_class1924_iltis_shop;Luchs
 germ_destroyer_class1924_iltis_0;Raubtier-class, Luchs, 1932
 germ_destroyer_class1924_iltis_1;Luchs
 germ_destroyer_class1924_iltis_2;Destroyer
-uk_battleship_colossus_shop;HMS Colossus (93)
-uk_battleship_colossus_0;Scotts Shipbuilding & Engineering Co. | Colossus-class | HMS Colossus (93) (1917)
-uk_battleship_colossus_1;HMS Colossus
-uk_battleship_colossus_2;Dreadnought
-uk_battleship_centurion_shop;HMS Centurion (12)
-uk_battleship_centurion_0;Devonport Royal Dockyard | King George V-class | HMS Centurion (12)
-uk_battleship_centurion_1;HMS Centurion
-uk_battleship_centurion_2;Dreadnought
-uk_battleship_nelson_shop;HMS Nelson (28)
-uk_battleship_nelson_0;Vickers-Armstrongs / Philadelphia Navy Yard | Nelson-class | HMS Nelson (28) (1944)
-uk_battleship_nelson_1;HMS Nelson
-uk_battleship_nelson_2;Battleship
 ussr_destroyer_kerch_shop;Kyerč' (1917)
 ussr_destroyer_kerch_0;Eskadrennyy minonosets Tip Novik, 3rd syeriâ, Tip Fidonisi, Kerch' (1917)
 ussr_destroyer_kerch_1;Kyerč' (1917)
 ussr_destroyer_kerch_2;Destroyer
-uk_destroyer_g_garland_shop;ORP Garland (H 37)
-uk_destroyer_g_garland_0;Fairfield Shipbuilding & Engineering Co. / Smiths Dockyard | G-class | ORP Garland (H 37) (1942)
-uk_destroyer_g_garland_1;ORP Garland
-uk_destroyer_g_garland_2;Destroyer
 germ_battlecruiser_von_der_tann_shop;SMS Von der Tann
 germ_battlecruiser_von_der_tann_0;SMS Von der Tann, 1914
 germ_battlecruiser_von_der_tann_1;SMS Von der Tann
 germ_battlecruiser_von_der_tann_2;Battlecruiser
-uk_battlecruiser_invincible_shop;HMS Invincible (85)
-uk_battlecruiser_invincible_0;Sir W G Armstrong Whitworth & Co. / Devonport Royal Dockyard | Invincible-class | HMS Invincible (85) (1914)
-uk_battlecruiser_invincible_1;HMS Invincible
-uk_battlecruiser_invincible_2;Battlecruiser
-it_cruiser_zara_class_pola_shop;Pola
-it_cruiser_zara_class_pola_0;Odero-Terni-Orlando Cantieri di Livorno / Cantiere navale Triestino | Incrociatore Pesante Zara | Pola (1937)
-it_cruiser_zara_class_pola_1;Pola
-it_cruiser_zara_class_pola_2;Heavy Cruiser
 ussr_mpk_pr12412_shop;MPK-140
 ussr_mpk_pr12412_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 12412 Molniya-2, MPK-140
 ussr_mpk_pr12412_1;MPK-140
@@ -15398,10 +15591,6 @@ ussr_skr_pr50plo_rosomacha_shop;Rosomakha
 ussr_skr_pr50plo_rosomacha_0;Storozhyevyye Korabl' Proyekt 50, Tip Gornostaj, Rosomakha
 ussr_skr_pr50plo_rosomacha_1;Rosomakha
 ussr_skr_pr50plo_rosomacha_2;Patrol ship
-it_cruiser_etna_class_shop;Etna
-it_cruiser_etna_class_0;Cantiere navale Triestino | Incrociatore Leggero Classe Etna | Etna
-it_cruiser_etna_class_1;Etna
-it_cruiser_etna_class_2;Light Cruiser
 ussr_su_76d_shop;SU-76D
 ussr_su_76d_0;GAZ-74 | SU-76D
 ussr_su_76d_1;SU-76D
@@ -15410,18 +15599,10 @@ ussr_cruiser_voroshilov_shop;Vorošilov
 ussr_cruiser_voroshilov_0;Pr. 26, Vorošilov, 1943
 ussr_cruiser_voroshilov_1;Vorošilov
 ussr_cruiser_voroshilov_2;Light Cruiser
-it_battleship_dante_alighieri_shop;Dante Alighieri
-it_battleship_dante_alighieri_0;Regio arsenale / Cantiere navale Triestino | Corazzata Dante Alighieri | Dante Alighieri (1923)
-it_battleship_dante_alighieri_1;Dante Alighieri
-it_battleship_dante_alighieri_2;Battleship
 dh_110_sea_vixen_shop;Sea Vixen F.A.W. Mk. 2
 dh_110_sea_vixen_0;DH.110 Sea Vixen F.A.W. Mk. 2
 dh_110_sea_vixen_1;Sea Vixen F.A.W. Mk. 2
 dh_110_sea_vixen_2;Sea Vixen
-uk_cruiser_liverpool_shop;HMS Liverpool (C 11)
-uk_cruiser_liverpool_0;Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | Town-class | HMS Liverpool (C 11) (1944)
-uk_cruiser_liverpool_1;HMS Liverpool
-uk_cruiser_liverpool_2;Light Cruiser
 ussr_destroyer_pr30bis_bezuprechnyi_shop;Byezupryečnyj
 ussr_destroyer_pr30bis_bezuprechnyi_0;Pr. 30bis, Byezupryečnyj, 1950
 ussr_destroyer_pr30bis_bezuprechnyi_1;Byezupryečnyj
@@ -15430,34 +15611,18 @@ germ_type143_bussard_shop;Bussard (S 64)
 germ_type143_bussard_0;Flugkörper-Schnellboot Albatros-Klasse (Typ 143), Bussard (S 64)
 germ_type143_bussard_1;Bussard
 germ_type143_bussard_2;Fast Attack Craft
-uk_destroyer_v_class_vega_shop;HMS Vega (L 41)
-uk_destroyer_v_class_vega_0;William Doxford & Sons / Chatham Royal Dockyard | Admiralty V-class | HMS Vega (L 41) (1939)
-uk_destroyer_v_class_vega_1;HMS Vega
-uk_destroyer_v_class_vega_2;Destroyer
 germ_cruiser_karlsruhe_shop;Karlsruhe
 germ_cruiser_karlsruhe_0;К-class, Karlsruhe, 1940
 germ_cruiser_karlsruhe_1;Karlsruhe
 germ_cruiser_karlsruhe_2;Light Cruiser
-it_destroyer_leone_class_shop;Leone (LE)
-it_destroyer_leone_class_0;Cantiere navale di Sestri Ponente | Esploratore Classe Leone | Leone (LE) (1936)
-it_destroyer_leone_class_1;Leone
-it_destroyer_leone_class_2;Destroyer
 ussr_battleship_parizhskaya_kommuna_shop;Parižskaâ Kommuna
 ussr_battleship_parizhskaya_kommuna_0;Syevastopol'-class, Parižskaâ Kommuna, 1941
 ussr_battleship_parizhskaya_kommuna_1;Parižskaâ Kommuna
 ussr_battleship_parizhskaya_kommuna_2;Battleship
-uk_cruiser_norfolk_shop;HMS Norfolk (78)
-uk_cruiser_norfolk_0;Fairfield Shipbuilding & Engineering Co. / Portsmouth Royal Dockyard | County-class | HMS Norfolk (78) (1943)
-uk_cruiser_norfolk_1;HMS Norfolk
-uk_cruiser_norfolk_2;Heavy Cruiser
 ussr_destroyer_pr30bis_smelyi_shop;Smyelyj
 ussr_destroyer_pr30bis_smelyi_0;Pr. 30bis, Smyelyj, 1955
 ussr_destroyer_pr30bis_smelyi_1;Smyelyj
 ussr_destroyer_pr30bis_smelyi_2;Destroyer
-it_gabbiano_class_shop;Gabbiano (GB)
-it_gabbiano_class_0;Cantiere navale di Voltri | Corvetta Classe Gabbiano, 1ª Serie | Gabbiano (GB)
-it_gabbiano_class_1;Gabbiano
-it_gabbiano_class_2;Corvette
 germ_escort_typem1935_shop;M 17
 germ_escort_typem1935_0;Minensuchboot Typ 1935, M 17
 germ_escort_typem1935_1;M 17
@@ -15494,26 +15659,10 @@ germ_marder_1a3_shop;SPz Marder 1 A3
 germ_marder_1a3_0;Schützenpanzer Marder 1 A3
 germ_marder_1a3_1;SPz Marder 1 A3
 germ_marder_1a3_2;Light Tank
-uk_destroyer_v_class_verdun_shop;HMS Verdun (L 93)
-uk_destroyer_v_class_verdun_0;R. & W. Hawthorn, Leslie & Co. / Chatham Royal Dockyard | Admiralty V-class | HMS Verdun (L 93) (1940)
-uk_destroyer_v_class_verdun_1;HMS Verdun
-uk_destroyer_v_class_verdun_2;Destroyer
-uk_destroyer_tribal_mohawk_shop;HMS Mohawk (L 31)
-uk_destroyer_tribal_mohawk_0;John I. Thornycroft & Co. | Tribal-class | HMS Mohawk (L 31)
-uk_destroyer_tribal_mohawk_1;HMS Mohawk
-uk_destroyer_tribal_mohawk_2;Destroyer
-it_destroyer_leone_class_tigre_shop;Tigre (TI)
-it_destroyer_leone_class_tigre_0;Cantiere navale di Sestri Ponente | Esploratore Classe Leone | Tigre (TI) (1931)
-it_destroyer_leone_class_tigre_1;Tigre
-it_destroyer_leone_class_tigre_2;Destroyer
 ussr_mpk_201m_shop;PSKR-203
 ussr_mpk_201m_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 201M, PSKR-203
 ussr_mpk_201m_1;PSKR-203
 ussr_mpk_201m_2;Subchaser
-uk_battleship_marlborough_shop;HMS Marlborough (66)
-uk_battleship_marlborough_0;Devonport Royal Dockyard | Iron Duke-class | HMS Marlborough (66) (1929)
-uk_battleship_marlborough_1;HMS Marlborough
-uk_battleship_marlborough_2;Super dreadnought
 germ_rdm242_shop;Krischan der Große
 germ_rdm242_0;Flakträger Krischan der Große, 1943
 germ_rdm242_1;Krischan der Große
@@ -15526,18 +15675,6 @@ ussr_mpk_201k_shop;P-190
 ussr_mpk_201k_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 201, P-190
 ussr_mpk_201k_1;P-190
 ussr_mpk_201k_2;Subchaser
-it_cruiser_eugenio_di_savoia_shop;Eugenio di Savoia
-it_cruiser_eugenio_di_savoia_0;Cantiere navale di Sestri Ponente / Cantiere navale di Castellammare di Stabia | Incrociatore Leggero Classe Condottieri Tipo Emanuele Filiberto Duca d'Aosta | Eugenio di Savoia (1943)
-it_cruiser_eugenio_di_savoia_1;Eugenio di Savoia
-it_cruiser_eugenio_di_savoia_2;Light Cruiser
-uk_destroyer_v_class_valhalla_shop;HMS Valhalla (D 44)
-uk_destroyer_v_class_valhalla_0;Cammell Laird & Co. / Port Edgar | Admiralty V-class | HMS Valhalla (D 44) (1923)
-uk_destroyer_v_class_valhalla_1;HMS Valhalla
-uk_destroyer_v_class_valhalla_2;Destroyer
-it_albatros_class_f543_shop;Albatros (F 543)
-it_albatros_class_f543_0;Cantiere navale di Castellammare di Stabia | Corvetta Classe Albatros | Albatros (F 543)
-it_albatros_class_f543_1;Albatros
-it_albatros_class_f543_2;Corvette
 germ_skr_pr50_karl_marx_shop;Karl Marx (122)
 germ_skr_pr50_karl_marx_0;Fregatte, Projekt 50, Karl Marx (122) (1962)
 germ_skr_pr50_karl_marx_1;Pr. 50
@@ -15546,22 +15683,10 @@ ussr_mpk_pr12412p_shop;MPK-211
 ussr_mpk_pr12412p_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 12412P, MPK-211
 ussr_mpk_pr12412p_1;MPK-211
 ussr_mpk_pr12412p_2;Patrol ship
-uk_destroyer_battle_cadiz_shop;HMS Cadiz (D 79)
-uk_destroyer_battle_cadiz_0;Fairfield Shipbuilding & Engineering Co. | Battle-class | HMS Cadiz (D 79)
-uk_destroyer_battle_cadiz_1;HMS Cadiz
-uk_destroyer_battle_cadiz_2;Destroyer
-uk_battlecruiser_hood_shop;HMS Hood (51)
-uk_battlecruiser_hood_0;John Brown & Co. / Rosyth Dockyard | Admiral-class | HMS Hood (51) (1941)
-uk_battlecruiser_hood_1;HMS Hood
-uk_battlecruiser_hood_2;Battlecruiser
 germ_battleship_bayern_shop;SMS Bayern
 germ_battleship_bayern_0;Bayern-class, SMS Bayern, 1916
 germ_battleship_bayern_1;SMS Bayern
 germ_battleship_bayern_2;Battleship
-it_destroyer_fletcher_geniere_shop;Geniere (D 555)
-it_destroyer_fletcher_geniere_0;Seattle-Tacoma Shipbuilding Corporation | Cacciatorpediniere Classe Fante | Geniere (D 555)
-it_destroyer_fletcher_geniere_1;Geniere
-it_destroyer_fletcher_geniere_2;Destroyer
 germ_leopard_2av_shop;KPz Leopard 2 AV (PT 19/T 19)
 germ_leopard_2av_0;Krauss-Maffei Wegmann | KPz Leopard 2 AV, PT 19 mit T 19
 germ_leopard_2av_1;KPz Leopard 2 AV
@@ -15582,46 +15707,18 @@ ussr_destroyer_pr56_blagorodny_shop;Blagorodnyj
 ussr_destroyer_pr56_blagorodny_0;Pr. 56-PLO, Blagorodnyj, 1978
 ussr_destroyer_pr56_blagorodny_1;Blagorodnyj
 ussr_destroyer_pr56_blagorodny_2;Destroyer
-it_destroyer_navigatori_class_verazzano_shop;Giovanni da Verazzano (DV)
-it_destroyer_navigatori_class_verazzano_0;Cantieri navali del Quarnaro | Cacciatorpediniere Classe Navigatori | Giovanni da Verazzano (DV) (1940)
-it_destroyer_navigatori_class_verazzano_1;Giovanni da Verazzano
-it_destroyer_navigatori_class_verazzano_2;Destroyer
-it_battleship_andrea_doria_shop;Andrea Doria
-it_battleship_andrea_doria_0;Arsenale militare marittimo della Spezia | Corazzata Classe Duilio | Andrea Doria (1925)
-it_battleship_andrea_doria_1;Andrea Doria
-it_battleship_andrea_doria_2;Battleship
-uk_battlecruiser_glorious_shop;HMS Glorious (77)
-uk_battlecruiser_glorious_0;Harland & Wolff Group Holdings | Courageous-Class | HMS Glorious (77) (1917)
-uk_battlecruiser_glorious_1;HMS Glorious
-uk_battlecruiser_glorious_2;Battlecruiser
 germ_type152_hugin_shop;Hugin (P 6191)
 germ_type152_hugin_0;Schnellboot Typ 152, Hugin (P 6191)
 germ_type152_hugin_1;Hugin
 germ_type152_hugin_2;Motor Torpedo Boat
-it_gabbiano_class_c16_shop;Folaga (F 576)
-it_gabbiano_class_c16_0;Cantiere navale di Sestri Ponente | Corvetta Classe Gabbiano, 1ª Serie | Folaga (F 576) (1953)
-it_gabbiano_class_c16_1;Folaga
-it_gabbiano_class_c16_2;Corvette
 ussr_destroyer_7_besposhchadny_shop;Byespoŝadnyj
 ussr_destroyer_7_besposhchadny_0;Pr. 7, Byespoŝadnyj, 1942
 ussr_destroyer_7_besposhchadny_1;Byespoŝadnyj
 ussr_destroyer_7_besposhchadny_2;Destroyer
-uk_destroyer_daring_class_diana_shop;HMS Diana (D 126)
-uk_destroyer_daring_class_diana_0;Yarrow & Co. | Daring-class | HMS Diana (D 126) (1959)
-uk_destroyer_daring_class_diana_1;HMS Diana
-uk_destroyer_daring_class_diana_2;Destroyer
-it_destroyer_vifor_class_aquila_shop;Aquila (AQ)
-it_destroyer_vifor_class_aquila_0;Cantieri navali Pattison | Cacciatorpediniere Classe Aquila | Aquila (AQ)
-it_destroyer_vifor_class_aquila_1;Aquila
-it_destroyer_vifor_class_aquila_2;Destroyer
 ussr_mpk_pr1331m_shop;MPK-192
 ussr_mpk_pr1331m_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 1331M, MPK-192
 ussr_mpk_pr1331m_1;MPK-192
 ussr_mpk_pr1331m_2;Patrol ship
-it_cruiser_garibaldi_class_abruzzi_shop;Luigi di Savoia Duca degli Abruzzi
-it_cruiser_garibaldi_class_abruzzi_0;Società per la Costruzione di Navi, Macchine ed Artiglierie Odero Terni-Orlando di Muggiano / Port of Freetown | Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli Abruzzi | Luigi di Savoia Duca degli Abruzzi (1944)
-it_cruiser_garibaldi_class_abruzzi_1;Luigi di Savoia Duca degli Abruzzi
-it_cruiser_garibaldi_class_abruzzi_2;Light Cruiser
 germ_destroyer_class1936c_z47_shop;Z 47
 germ_destroyer_class1936c_z47_0;Zerstörer Typ 1936 C, Z 47, 1945
 germ_destroyer_class1936c_z47_1;Z 47
@@ -15638,10 +15735,6 @@ ussr_destroyer_regele_ferdinand_class_letuchiy_shop;Lyetučij
 ussr_destroyer_regele_ferdinand_class_letuchiy_0;Regele Ferdinand-class, Lyetučij, 1945
 ussr_destroyer_regele_ferdinand_class_letuchiy_1;Lyetučij
 ussr_destroyer_regele_ferdinand_class_letuchiy_2;Destroyer
-uk_minelayer_abdiel_class_abdiel_shop;HMS Abdiel (M 39)
-uk_minelayer_abdiel_class_abdiel_0;J. Samuel White & Co. / Palmers Shipyard | Abdiel-class | HMS Abdiel (M 39) (1942)
-uk_minelayer_abdiel_class_abdiel_1;HMS Abdiel
-uk_minelayer_abdiel_class_abdiel_2;Minelayer
 dragonfly_a_shop;TOPTER
 dragonfly_a_0;TOPTER
 dragonfly_a_1;TOPTER
@@ -15661,7 +15754,7 @@ dragonfly_99_rda_2;Dragonfly (R)
 ussr_pr_183_egypt_bm_21_shop;TK-20 (A-215)
 ussr_pr_183_egypt_bm_21_0;Bol'shiye Torpyednyj Katyer Proyekt 183 Bolishyevik, TK-20 (A-215 Grad-M)
 ussr_pr_183_egypt_bm_21_1;TK-20
-ussr_pr_183_egypt_bm_21_2;Motor Gun boat
+ussr_pr_183_egypt_bm_21_2;Motor Gun Boat
 fr_destroyer_aigle_class_aigle_shop;Aigle (X 13)
 fr_destroyer_aigle_class_aigle_0;Aigle-class, Aigle (X 13), 1942
 fr_destroyer_aigle_class_aigle_1;Aigle
@@ -15678,10 +15771,6 @@ fr_cruiser_dugauy_class_dugauy_trouin_shop;Duguay-Trouin
 fr_cruiser_dugauy_class_dugauy_trouin_0;Duguay-Trouin-class, Duguay-Trouin, 1944
 fr_cruiser_dugauy_class_dugauy_trouin_1;Duguay-Trouin
 fr_cruiser_dugauy_class_dugauy_trouin_2;Light Cruiser
-it_battleship_caio_duilio_shop;Duilio
-it_battleship_caio_duilio_0;Cantiere navale di Castellammare di Stabia / Cantieri navali del Tirreno e Riuniti | Corazzata Classe Duilio | Duilio (1942)
-it_battleship_caio_duilio_1;Duilio
-it_battleship_caio_duilio_2;Battleship
 fr_amd_35_sa35_shop;AMD 35 (SA 35)
 fr_amd_35_sa35_0;AMD 35 (SA 35)
 fr_amd_35_sa35_1;AMD 35 (SA 35)
@@ -15710,10 +15799,6 @@ ussr_destroyer_pr56_bravy_shop;Bravyj
 ussr_destroyer_pr56_bravy_0;Pr.56-K, Bravyj, 1967
 ussr_destroyer_pr56_bravy_1;Bravyj
 ussr_destroyer_pr56_bravy_2;Destroyer
-uk_destroyer_daring_class_daring_shop;HMS Daring (D 05)
-uk_destroyer_daring_class_daring_0;Swan Hunter & Wigham Richardson | Daring-class | HMS Daring (D 05)
-uk_destroyer_daring_class_daring_1;HMS Daring
-uk_destroyer_daring_class_daring_2;Destroyer
 fr_cruiser_dugauy_class_primaguet_shop;Primaguet
 fr_cruiser_dugauy_class_primaguet_0;Duguay-Trouin-class, Primaguet, 1940
 fr_cruiser_dugauy_class_primaguet_1;Primaguet
@@ -15762,14 +15847,6 @@ fr_destroyer_marceau_class_marceau_shop;Marceau (D 601)
 fr_destroyer_marceau_class_marceau_0;Marceau (D 601), 1950
 fr_destroyer_marceau_class_marceau_1;Marceau
 fr_destroyer_marceau_class_marceau_2;Destroyer
-it_mc_485_shop;MC 485
-it_mc_485_0;Lürssen Werft | Motosiluranti Tipo Lürssen S 26 | MC 485
-it_mc_485_1;MC 485
-it_mc_485_2;Motor Torpedo Boat
-uk_battlecruiser_renown_shop;HMS Renown (72)
-uk_battlecruiser_renown_0;Fairfield Shipbuilding & Engineering Co. / Rosyth Dockyard | Renown-class | HMS Renown (72) (1943)
-uk_battlecruiser_renown_1;HMS Renown
-uk_battlecruiser_renown_2;Battlecruiser
 cargo_ship_norbris;Cargo ship
 tanker_nicolaos;Tanker
 germ_battleship_nassau_shop;SMS Nassau
@@ -15784,18 +15861,6 @@ germ_minelayer_drache_shop;Drache
 germ_minelayer_drache_0;R-1-class, Drache
 germ_minelayer_drache_1;Drache
 germ_minelayer_drache_2;Minesweeper
-it_destroyer_impetuoso_class_impetuoso_shop;Impetuoso (D 558)
-it_destroyer_impetuoso_class_impetuoso_0;Cantiere navale di Riva Trigoso | Cacciatorpediniere Classe Indomito | Impetuoso (D 558)
-it_destroyer_impetuoso_class_impetuoso_1;Impetuoso
-it_destroyer_impetuoso_class_impetuoso_2;Destroyer
-uk_battleship_iron_duke_shop;HMS Iron Duke (18)
-uk_battleship_iron_duke_0;Portsmouth Royal Dockyard | Iron Duke-class | HMS Iron Duke (18) (1929)
-uk_battleship_iron_duke_1;HMS Iron Duke
-uk_battleship_iron_duke_2;Dreadnought
-it_battleship_conte_di_cavour_shop;Conte di Cavour
-it_battleship_conte_di_cavour_0;Arsenale militare marittimo della Spezia / Cantiere navale Triestino | Corazzata Classe Conte di Cavour | Conte di Cavour (1944)
-it_battleship_conte_di_cavour_1;Conte di Cavour
-it_battleship_conte_di_cavour_2;Battleship
 germ_battleship_sachsen_shop;SMS Sachsen
 germ_battleship_sachsen_0;Bayern-class, SMS Sachsen
 germ_battleship_sachsen_1;SMS Sachsen
@@ -15808,18 +15873,10 @@ ussr_destroyer_pr45_shop;Opytnyj
 ussr_destroyer_pr45_0;Pr. 45, Opytnyj, 1942
 ussr_destroyer_pr45_1;Opytnyj
 ussr_destroyer_pr45_2;Destroyer
-uk_battleship_orion_shop;HMS Orion (52)
-uk_battleship_orion_0;Portsmouth Royal Dockyard | Orion-class | HMS Orion (52)
-uk_battleship_orion_1;HMS Orion
-uk_battleship_orion_2;Super dreadnought
 fr_battleship_courbet_class_courbet_shop;Courbet
 fr_battleship_courbet_class_courbet_0;Courbet-class, Courbet, 1920
 fr_battleship_courbet_class_courbet_1;Courbet
 fr_battleship_courbet_class_courbet_2;Battleship
-it_battleship_leonardo_da_vinci_shop;Leonardo da Vinci
-it_battleship_leonardo_da_vinci_0;Cantiere della Foce | Corazzata Classe Conte di Cavour | Leonardo da Vinci
-it_battleship_leonardo_da_vinci_1;Leonardo da Vinci
-it_battleship_leonardo_da_vinci_2;Battleship
 fr_destroyer_vauquelin_class_vauquelin_shop;Vauquelin (X 53)
 fr_destroyer_vauquelin_class_vauquelin_0;Vauquelin-class, Vauquelin (X 53), 1941
 fr_destroyer_vauquelin_class_vauquelin_1;Vauquelin
@@ -15832,14 +15889,6 @@ fr_destroyer_le_fantasque_class_le_triomphant_shop;Le Triomphant (X 83)
 fr_destroyer_le_fantasque_class_le_triomphant_0;Le Fantasque-class, Le Triomphant (X 83), 1942
 fr_destroyer_le_fantasque_class_le_triomphant_1;Le Triomphant
 fr_destroyer_le_fantasque_class_le_triomphant_2;Destroyer
-it_cruiser_bolzano_shop;Bolzano
-it_cruiser_bolzano_0;Cantiere navale di Sestri Ponente | Incrociatore Pesante Bolzano | Bolzano (1937)
-it_cruiser_bolzano_1;Bolzano
-it_cruiser_bolzano_2;Heavy Cruiser
-uk_destroyer_daring_class_diamond_shop;HMS Diamond (D 35)
-uk_destroyer_daring_class_diamond_0;John Brown & Co. | Daring-class | HMS Diamond (D 35)
-uk_destroyer_daring_class_diamond_1;HMS Diamond
-uk_destroyer_daring_class_diamond_2;Destroyer
 fr_destroyer_desaix_class_kleber_shop;Kléber (D 603)
 fr_destroyer_desaix_class_kleber_0;Desaix-class, Kléber (D 603), 1951
 fr_destroyer_desaix_class_kleber_1;Kléber
@@ -15856,10 +15905,6 @@ germ_kondor2_class_shop;Bernau (343)
 germ_kondor2_class_0;Projekt 89.2 UR, Bernau (343), 1985
 germ_kondor2_class_1;Bernau
 germ_kondor2_class_2;Minesweeper
-it_alano_9851_shop;Alano (L 9851)
-it_alano_9851_0;Commercial Iron Works | Motocannoniera Classe Alano | Alano (L 9851)
-it_alano_9851_1;Alano
-it_alano_9851_2;MGB
 ussr_mpk_pr11451_shop;MPK-215
 ussr_mpk_pr11451_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 11451 Sokol-2, MPK-215
 ussr_mpk_pr11451_1;MPK-215
@@ -15872,10 +15917,6 @@ fr_cruiser_chateaurenault_class_guichen_shop;Guichen (D 607)
 fr_cruiser_chateaurenault_class_guichen_0;Chateaurenault-class, Guichen (D 607), 1957
 fr_cruiser_chateaurenault_class_guichen_1;Guichen
 fr_cruiser_chateaurenault_class_guichen_2;Destroyer
-uk_battlecruiser_queen_mary_shop;HMS Queen Mary (14)
-uk_battlecruiser_queen_mary_0;Palmers Shipbuilding and Iron Co. | Queen Mary-class | HMS Queen Mary (14)
-uk_battlecruiser_queen_mary_1;HMS Queen Mary
-uk_battlecruiser_queen_mary_2;Battlecruiser
 us_frigate_buckley_class_coolbaugh_shop;USS Coolbaugh (DE-217)
 us_frigate_buckley_class_coolbaugh_0;Buckley-class, USS Coolbaugh (DE-217)
 us_frigate_buckley_class_coolbaugh_1;USS Coolbaugh
@@ -15887,7 +15928,7 @@ fr_mtb96_vosper_2;Motor Torpedo Boat
 fr_lcg_m_l9059_shop;L 9059
 fr_lcg_m_l9059_0; Landing Craft, Gun (Medium), L 9059
 fr_lcg_m_l9059_1;L 9059
-fr_lcg_m_l9059_2;Motor gun boat
+fr_lcg_m_l9059_2;Motor Gun Boat
 fr_vtb8_shop;VTB 8
 fr_vtb8_0;Vedette Torpilleur VTB 8
 fr_vtb8_1;VTB 8
@@ -15916,10 +15957,6 @@ fr_vtb14_shop;VTB 14
 fr_vtb14_0;Vedette Torpilleur VTB 14
 fr_vtb14_1;VTB 14
 fr_vtb14_2;MTB
-uk_battleship_q_elizabet_class_barham_shop;HMS Barham (97)
-uk_battleship_q_elizabet_class_barham_0;John Brown & Co. / Cromarty Harbour | Queen Elizabeth-class | HMS Barham (97) (1917)
-uk_battleship_q_elizabet_class_barham_1;HMS Barham
-uk_battleship_q_elizabet_class_barham_2;Super dreadnought
 ussr_battlecruiser_izmail_shop;Izmail
 ussr_battlecruiser_izmail_0;Izmail-class, Izmail
 ussr_battlecruiser_izmail_1;Izmail
@@ -15927,7 +15964,7 @@ ussr_battlecruiser_izmail_2;Battlecruiser
 fr_p730_combattante_shop;La Combattante (P 730)
 fr_p730_combattante_0;La Combattante (P 730)
 fr_p730_combattante_1;La Combattante
-fr_p730_combattante_2;Missile boat
+fr_p730_combattante_2;Missile Boat
 fr_destroyer_mogador_class_mogador_shop;Mogador (X 61)
 fr_destroyer_mogador_class_mogador_0;Mogador-class, Mogador (X 61), 1940
 fr_destroyer_mogador_class_mogador_1;Mogador
@@ -15936,41 +15973,13 @@ fr_frigate_croix_de_lorraine_class_la_surprise_shop;La Surprise (F 08)
 fr_frigate_croix_de_lorraine_class_la_surprise_0;Chamois-class, La Surprise (F 08)
 fr_frigate_croix_de_lorraine_class_la_surprise_1;La Surprise
 fr_frigate_croix_de_lorraine_class_la_surprise_2;Frigate
-it_mas441_shop;MAS 441
-it_mas441_0;Cantieri Baglietto | Motoscafo Antisommergibili Tipo Baglietto 1934 | MAS 441
-it_mas441_1;MAS 441
-it_mas441_2;MGB
 ussr_cruiser_omaha_class_murmansk_shop;Murmansk
 ussr_cruiser_omaha_class_murmansk_0;Todd Dry Dock and Construction Company | Omakha-klass | Murmansk
 ussr_cruiser_omaha_class_murmansk_1;Murmansk
 ussr_cruiser_omaha_class_murmansk_2;Light Cruiser
-it_ms444_shop;MS 444
-it_ms444_0;Cantiere navale di Monfalcone | Motosiluranti Tipo Higgins da 78 Piedi | MS 444
-it_ms444_1;MS 444
-it_ms444_2;MTB
-uk_battlecruiser_repulse_shop;HMS Repulse (34)
-uk_battlecruiser_repulse_0;John Brown & Co. / Rosyth Dockyard | Renown-class | HMS Repulse (34) (1941)
-uk_battlecruiser_repulse_1;HMS Repulse
-uk_battlecruiser_repulse_2;Battlecruiser
-it_battleship_francesco_caracciolo_shop;Francesco Caracciolo
-it_battleship_francesco_caracciolo_0;Cantiere navale di Castellammare di Stabia | Corazzata Classe Francesco Caracciolo | Francesco Caracciolo
-it_battleship_francesco_caracciolo_1;Francesco Caracciolo
-it_battleship_francesco_caracciolo_2;Battleship
 sw_landsverk_ush_204_gk_shop;U SH 405 (204GK)
 sw_landsverk_ush_204_gk_0;Aktiebolaget Landsverk / Unimog | Landsverk Unimog SH Typ 405.110 (Oerlikon 204GK)
 sw_landsverk_ush_204_gk_2;SPAA
-it_albatros_class_f544_shop;Alcione (F 544)
-it_albatros_class_f544_0;Cantiere navale di Castellammare di Stabia | Corvetta Classe Albatros | Alcione (F 544)
-it_albatros_class_f544_1;Albatros
-it_albatros_class_f544_2;Corvette
-germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
-germ_destroyer_fletcher_zerstorer4_0;Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)
-germ_destroyer_fletcher_zerstorer4_1;Z 4
-germ_destroyer_fletcher_zerstorer4_2;Destroyer
-it_ciclone_class_ghibli_shop;Ghibli (GH)
-it_ciclone_class_ghibli_0;Cantiere navale di Castellammare di Stabia | Torpediniera Classe Ciclone | Ghibli (GH)
-it_ciclone_class_ghibli_1;Ghibli
-it_ciclone_class_ghibli_2;Gunboat
 germ_boxer_3105_shop;Boxer (Cockerill 3105)
 germ_boxer_3105_0;ARTEC Boxer (Cockerill 3105)
 germ_boxer_3105_1;Boxer (Cockerill 3105)

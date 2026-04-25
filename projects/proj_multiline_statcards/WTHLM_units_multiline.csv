@@ -2,8 +2,9 @@
 <color=#81c3fc>Manufacturer & manufacturer name</color>
 <color=#ff8c80>Military project</color>
 <color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
-<color=#ff831c>Previous service name</color>
-<color=#7ce68f>Alternate current service name</color>
+<color=#fffa62>Ship class</color>
+<color=#ff831c>Previous name</color>
+<color=#7ce68f>Alternate applicable name</color>
 Vehicle name
 <color=#adadad>Modifications</color>
 <color=#ba77ba>Service years package</color>
@@ -39,18 +40,73 @@ ucav_wing_loong_i_killstreak_1;GJ1
 ucav_wing_loong_i_killstreak_2;GJ1
 
 //SHIP-LAUNCHED FLOATPLANES
+sc_1_shop;SC-1
+sc_1_0;"<color=#81c3fc>Curtiss-Wright Corporation Model 97B</color>
+SC-1 Seahawk"
+sc_1_1;SC-1
+sc_1_2;SC-1
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+ki_43_2_late_shop;▃ Ki 43-II (early)
+ki_43_2_late_0;"<color=#81c3fc>Nakajima Hikōki</color>
+<color=#7ce68f>1 Shiki Sentōki 2 Gata</color>
+▃ Ki 43-II ""Hayabusa""
+<color=#adadad>(early)</color>"
+ki_43_2_late_1;▃ Ki 43-II
+ki_43_2_late_2;▃ Ki 43
+
+ki_61_1a_otsu_usa_shop;▃ Ki 61-I Otsu
+ki_61_1a_otsu_usa_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
+<color=#7ce68f>3 Shiki Sentōki 1 Gata Otsu</color>
+▃ Ki 61-I Otsu ""Hien"""
+ki_61_1a_otsu_usa_1;▃ Ki 61-I
+ki_61_1a_otsu_usa_2;▃ Ki 61
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+a6m2_zero_usa_shop;▃ A6M2 (21 Gata)
+a6m2_zero_usa_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+<color=#7ce68f>0 Shiki Kanjō Sentōki 21 Gata</color>
+▃ A6M2 ""Rei Sen""
+<color=@currencyGoldColor>«Akutan Zero»</color>"
+a6m2_zero_usa_1;▃ A6M2
+a6m2_zero_usa_2;▃ A6M
+
+fr_1_fireball_shop;FR-1
+fr_1_fireball_0;"<color=#81c3fc>Ryan Aeronautical Company Model 28-1</color>
+FR-1 Fireball"
+fr_1_fireball_1;FR-1
+fr_1_fireball_2;FR-1
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+xf5u_1_shop;XF5U-1
+xf5u_1_0;"<color=#81c3fc>Vought-Sikorsky Aircraft</color>
+XF5U-1 ""Flying Flapjack"""
+xf5u_1_1;XF5U-1
+xf5u_1_2;XF5U
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+f3d_1_shop;F3D-1
+f3d_1_0;"<color=#81c3fc>Douglas Aircraft Company D-561</color>
+F3D-1 Skyknight"
+f3d_1_1;F3D-1
+f3d_1_2;F3D
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+b_66b_shop;B-66B-DL
+b_66b_0;"<color=#81c3fc>Douglas Aircraft Company D-1327A</color>
+B-66B-DL Destroyer"
+b_66b_1;B-66B
+b_66b_2;B-66
+
+f_117_shop;F-117A-1-LO (MIPS)
+f_117_0;"<color=#81c3fc>Lockheed Corporation</color>
+F-117A-1-LO Nighthawk
+<color=#adadad>(Midlife Improvement Study)</color>"
+f_117_1;F-117A
+f_117_2;F-117
+
 a_10a_early_shop;A-10A (1979)
 a_10a_early_0;"<color=#81c3fc>Fairchild Industries, Fairchild Republic Divison</color>
 A-10A Thunderbolt II ""Warthog""
@@ -79,11 +135,19 @@ A-10C Thunderbolt II ""Warthog"""
 a_10c_1;A-10C
 a_10c_2;A-10
 
+f_106a_1972_shop;F-106A-100-CO (Polhemus)
+f_106a_1972_0;"<color=#81c3fc>Convair Model 8-31</color>
+F-106A-100-CO Delta Dart
+<color=#adadad>(Project Six Shooter) (Project Speedline)
+(Polhemus Helmet-Mounted Sight)</color>"
+f_106a_1972_1;F-106A
+f_106a_1972_2;F-106
+
 b_52h_shop;B-52H-140-BW (1979)
 b_52h_0;"<color=#81c3fc>Boeing Airplane Company Model 464-261</color>
 B-52H-140-BW Stratofortress
 <color=#adadad>(Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151)
-(Project Quick Start) (AN/ALT-32)</color>"
+(Project Quick Start) (AN/ALT-32 (SALT II-compliant))</color>"
 b_52h_1;B-52H
 b_52h_2;B-52
 
@@ -91,11 +155,35 @@ nt_b_52h_shop;☢ B-52H-140-BW (1979)
 nt_b_52h_0;"<color=#81c3fc>Boeing Airplane Company Model 464-261</color>
 ☢ B-52H-140-BW Stratofortress
 <color=#adadad>(Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151)
-(Project Quick Start) (AN/ALT-32)</color>"
+(Project Quick Start) (AN/ALT-32 (SALT II-compliant))</color>"
 nt_b_52h_1;☢ B-52H
 nt_b_52h_2;☢ B-52
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+f-5e_shop;F-5E-3-NO
+f-5e_0;"<color=#81c3fc>Northrop Corporation F-5-21</color>
+F-5E-3-NO Tiger II"
+f-5e_1;F-5E
+f-5e_2;F-5
+
+f-5c_shop;F-5C-NO
+f-5c_0;"<color=#81c3fc>Northrop Corporation N-156F</color>
+F-5C-NO Skoshi Tiger"
+f-5c_1;F-5C
+f-5c_2;F-5
+
+f-5a_shop;YF-5A-NO
+f-5a_0;"<color=#81c3fc>Northrop Corporation N-156F</color>
+YF-5A-NO Freedom Fighter"
+f-5a_1;YF-5A-NO
+f-5a_2;YF-5
+
+f-4c_shop;F-4C-24-MC
+f-4c_0;"<color=#81c3fc>McDonnell Aircraft Corporation Model 98DJ</color>
+F-4C-24-MC Phantom II"
+f-4c_1;F-4C
+f-4c_2;F-4
+
 f-4e_shop;F-4E-48-MC
 f-4e_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98HO</color>
 F-4E-48-MC Phantom II"
@@ -113,6 +201,18 @@ nt_f_4e_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98HO</color>
 F-4E-48-MC Phantom II"
 nt_f_4e_1;F-4E
 nt_f_4e_2;F-4
+
+f-4j_shop;F-4J-46-MC
+f-4j_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98NC</color>
+F-4J-46-MC Phantom II"
+f-4j_1;F-4J
+f-4j_2;F-4
+
+f-4s_shop;F-4S-33-MC
+f-4s_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98</color>
+F-4S-33-MC Phantom II"
+f-4s_1;F-4S
+f-4s_2;F-4
 
 a_7d_shop;A-7D-8-CV
 a_7d_0;"<color=#81c3fc>LTV Aerospace, Vought Aeronautics Division</color>
@@ -138,6 +238,25 @@ A-7K-CV Corsair II"
 a_7k_1;A-7K
 a_7k_2;A-7
 
+f-105d_shop;F-105D-31-RE
+f-105d_0;"<color=#81c3fc>Republic Aviation Corporation AP-63-31</color>
+F-105D-31-RE Thunderchief"
+f-105d_1;F-105D
+f-105d_2;F-105
+
+f_111a_shop;F-111A
+f_111a_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>+</color> Grumman Aircraft Engineering
+Corporation</color>
+F-111A ""Aardvark"""
+f_111a_1;F-111A
+f_111a_2;F-111
+
+f_111f_shop;F-111F
+f_111f_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>+</color> Grumman Aerospace Corporation</color>
+F-111F ""Aardvark"""
+f_111f_1;F-111F
+f_111f_2;F-111
+
 a_6e_tram_shop;A-6E (WCSI)
 a_6e_tram_0;"<color=#81c3fc>Grumman Aerospace Corporation G-128S</color>
 A-6E Intruder
@@ -153,6 +272,62 @@ nt_a_6e_tram_1;A-6E
 nt_a_6e_tram_2;A-6
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16c_block_52_aesa_shop;F-16C-52Q-MC (PoBIT)
+f_16c_block_52_aesa_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
+F-16C-52Q-MC Fighting Falcon
+<color=#adadad>(Post Block Integration Team)</color>"
+f_16c_block_52_aesa_1;F-16C
+f_16c_block_52_aesa_2;F-16
+
+f_15c_golden_eagle_shop;F-15C-33-MC (RIP) (PASS)
+f_15c_golden_eagle_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
+F-15C-33-MC Eagle
+<color=#adadad>(Radar Improvement Program) (Passive Attack Sensor System)</color>"
+f_15c_golden_eagle_1;F-15C
+f_15c_golden_eagle_2;F-15
+
+f_15e_shop;F-15E-43-MC
+f_15e_0;"<color=#81c3fc>McDonnell Douglas Corporation</color>
+F-15E-43-MC Strike Eagle"
+f_15e_1;F-15E
+f_15e_2;F-15
+
+fa_18a_shop;F/A-18A-18-MC
+fa_18a_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267</color>
+F/A-18A-18-MC Hornet"
+fa_18a_1;F/A-18A
+fa_18a_2;F/A-18
+
+fa_18c_early_shop;F/A-18C-25-MC
+fa_18c_early_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267</color>
+F/A-18C-25-MC Hornet"
+fa_18c_early_1;F/A-18C
+fa_18c_early_2;F/A-18
+
+fa_18c_late_shop;F/A-18C-52-MC
+fa_18c_late_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267</color>
+F/A-18C-52-MC Hornet"
+fa_18c_late_1;F/A-18C
+fa_18c_late_2;F/A-18
+
+fa_18e_block_2_shop;F/A-18E-2-MC
+fa_18e_block_2_0;"<color=#81c3fc>McDonnell Douglas Corporation</color>
+F/A-18E-2-MC Super Hornet"
+fa_18e_block_2_1;F/A-18E
+fa_18e_block_2_2;F/A-18
+
+f_14a_early_shop;F-14A-110-GR
+f_14a_early_0;"<color=#81c3fc>Grumman Aerospace Corporation G-303</color>
+F-14A-110-GR Tomcat"
+f_14a_early_1;F-14A
+f_14a_early_2;F-14
+
+f_14b_shop;F-14B-150-GR
+f_14b_0;"<color=#81c3fc>Grumman Aerospace Corporation G-303</color>
+F-14B-150-GR Tomcat"
+f_14b_1;F-14B
+f_14b_2;F-14
+
 f_14a_iriaf_shop;☫ F14
 f_14a_iriaf_0;"<color=#81c3fc>Grumman Aerospace Corporation G-303</color>
 ☫ F14 Tāmkat"
@@ -162,25 +337,364 @@ f_14a_iriaf_2;☫ F14
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 9
 
 //USA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+ah_1f_shop;AH-1F
+ah_1f_0;"<color=#81c3fc>Bell Helicopter Textron Model 209</color>
+Helicopter, Attack, AH-1F Cobra"
+ah_1f_1;AH-1F
+ah_1f_2;AH-1
+
+ah_1f_event_shop;AH-1F
+ah_1f_event_0;"<color=#81c3fc>Bell Helicopter Textron Model 209</color>
+Helicopter, Attack, AH-1F Cobra"
+ah_1f_event_1;AH-1F
+ah_1f_event_2;AH-1
 
 //USA HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+ah_64a_shop;AH-64A
+ah_64a_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
+Helicopter, Attack, AH-64A Apache"
+ah_64a_1;AH-64A
+ah_64a_2;AH-64
+
+ah_64a_killstreak_shop;AH-64A
+ah_64a_killstreak_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
+Helicopter, Attack, AH-64A Apache"
+ah_64a_killstreak_1;AH-64A
+ah_64a_killstreak_2;AH-64
+
+ah_64d_shop;AH-64D
+ah_64d_0;"<color=#81c3fc>Boeing Rotorcraft Systems</color>
+Helicopter, Attack, AH-64D Longbow Apache"
+ah_64d_1;AH-64D
+ah_64d_2;AH-64
+
+yah_64_shop;YAH-64A
+yah_64_0;"<color=#81c3fc>Hughes Helicopters Model 77</color>
+YAH-64A"
+yah_64_1;YAH-64A
+yah_64_2;YAH-64
+
+ah_64a_greece_usa_shop;⚕ AH-64A
+ah_64a_greece_usa_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
+⚕ Helicopter, Attack, AH-64A Apache"
+ah_64a_greece_usa_1;⚕ AH-64A
+ah_64a_greece_usa_2;⚕ AH-64
+
 ah_64a_peten_shop;▃ AH-64A
 ah_64a_peten_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
 ▃ AH-64A Peten"
 ah_64a_peten_1;▃ AH-64A
 ah_64a_peten_2;▃ AH-64
 
+ah_64e_shop;AH-64E (v6)
+ah_64e_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
+Helicopter, Attack, AH-64E Guardian Apache
+<color=#adadad>(Capability Version 6)</color>"
+ah_64e_1;AH-64E
+ah_64e_2;AH-64
+
+ah_56a_shop;AH-56A
+ah_56a_0;"<color=#81c3fc>Lockheed Corporation CL-840</color>
+Helicopter, Attack, AH-56A Cheyenne"
+ah_56a_1;AH-56A
+ah_56a_2;AH-56
+
+rah_66_shop;YRAH-66A (2000)
+rah_66_0;"<color=#81c3fc>Boeing Rotorcraft Systems + Sikorsky Aircraft</color>
+Helicopter, Reconnaissance/Attack, YRAH-66A Comanche
+<color=#adadad>(2000)</color>"
+rah_66_1;YRAH-66A
+rah_66_2;YRAH-66
+
 //USA HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+us_m2a4_shop;M2A4
+us_m2a4_0;"<color=#5cae63>G-86</color>
+Tank, Light, M2A4"
+us_m2a4_1;M2A4
+us_m2a4_2;Light Tank
 
-//USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+us_m2_medium_shop;M2
+us_m2_medium_0;"<color=#5cae63>G-81</color>
+Tank, Medium, M2"
+us_m2_medium_1;M2
+us_m2_medium_2;Medium Tank
+
+us_m2a2_shop;M2A2
+us_m2a2_0;"<color=#5cae63>G-39</color>
+Tank, Light, M2A2"
+us_m2a2_1;M2A2
+us_m2a2_2;Light Tank
+
+us_m2a4_1st_armor_div_shop;M2A4 (1st Arm.Div.)
+us_m2a4_1st_armor_div_0;"<color=#5cae63>G-86</color>
+Tank, Light, M2A4
+<color=@currencyGoldColor>1st Armored Division</color>"
+us_m2a4_1st_armor_div_1;M2A4
+us_m2a4_1st_armor_div_2;Light Tank
+
+us_m3_stuart_shop;M3
+us_m3_stuart_0;"<color=#5cae63>G-103</color>
+Tank, Light, M3 Stuart"
+us_m3_stuart_1;M3
+us_m3_stuart_2;Light Tank
+
+us_m3a1_stuart_shop;M3A1
+us_m3a1_stuart_0;"<color=#5cae63>G-103</color>
+Tank, Light, M3A1 Stuart"
+us_m3a1_stuart_1;M3A1
+us_m3a1_stuart_2;Light Tank
+
+us_m3a1_stuart_usmc_shop;M3A1 (USMC)
+us_m3a1_stuart_usmc_0;"<color=#5cae63>G-103</color>
+Tank, Light, M3A1 Stuart
+<color=@currencyGoldColor>United States Marine Corps</color>"
+us_m3a1_stuart_usmc_1;M3A1
+us_m3a1_stuart_usmc_2;Light Tank
+
+us_lvt_a1_m24_shop;LVT(A)(1) (M6)
+us_lvt_a1_m24_0;"<color=#81c3fc>Food Machinery Corporation</color>
+Landing Vehicle, Tracked (Armored) (Mk. 1)
+<color=#adadad>(Gun, 75mm, M6)</color>"
+us_lvt_a1_m24_1;LVT(A)(1) (M6)
+us_lvt_a1_m24_2;Light Tank
+
 us_lvt_4_zis_2_shop;▃␗ LVT (ZiS-2)
 us_lvt_4_zis_2_0;"<color=#81c3fc>Food Machinery Corporation</color>
 ▃␗ LVT Shuilù Tankè
 <color=#adadad>(ZiS-2 obr. 1941 g.)</color>"
 us_lvt_4_zis_2_1;▃␗ LVT
 us_lvt_4_zis_2_2;SPG
+
+us_m22_locust_shop;M22
+us_m22_locust_0;"<color=#5cae63>G-148</color>
+Tank, Light, M22 Locust"
+us_m22_locust_1;M22
+us_m22_locust_2;Light Tank
+
+us_m22_locust_race_shop;M22
+us_m22_locust_race_0;"<color=#5cae63>G-148</color>
+Tank, Light, M22 Locust"
+us_m22_locust_race_1;M22
+us_m22_locust_race_2;Light Tank
+
+us_halftrack_m13_shop;M13 MGMC
+us_halftrack_m13_0;"<color=#5cae63>G-102</color>
+Carriage, Motor, Multiple Gun, M13"
+us_halftrack_m13_1;M13
+us_halftrack_m13_2;SPAA
+
+us_halftrack_m15_shop;M15 CGMC
+us_halftrack_m15_0;"<color=#5cae63>G-102</color>
+Carriage, Motor, Combination Gun, M15"
+us_halftrack_m15_1;M15
+us_halftrack_m15_2;SPAA
+
+us_m8_scott_shop;M8 HMC
+us_m8_scott_0;"<color=#5cae63>G-127</color>
+Carriage, Motor, 75mm Howitzer, M8 ""Scott"""
+us_m8_scott_1;M8 HMC
+us_m8_scott_2;SPG
+
+us_m8_greyhound_shop;M8 LAC
+us_m8_greyhound_0;"<color=#5cae63>G-136</color>
+Car, Armored, Light, M8"
+us_m8_greyhound_1;M8 LAC
+us_m8_greyhound_2;Light Tank
+
+us_m8a1_shop;M8A1 GMC
+us_m8a1_0;"<color=#5cae63>G-127</color>
+Carriage, Motor, 75mm Gun, M8A1 ""Scott"""
+us_m8a1_1;M8A1
+us_m8a1_2;Light Tank
+
+us_halftrack_m3_75mm_gmc_shop;M3 GMC
+us_halftrack_m3_75mm_gmc_0;"<color=#5cae63>G-102</color>
+Carriage, Motor, 75mm Gun, M3"
+us_halftrack_m3_75mm_gmc_1;M3 GMC
+us_halftrack_m3_75mm_gmc_2;SPG
+
+//USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+us_m5a1_stuart_shop;M5A1
+us_m5a1_stuart_0;"<color=#5cae63>G-103</color>
+Tank, Light, M5A1 Stuart"
+us_m5a1_stuart_1;M5A1
+us_m5a1_stuart_2;Light Tank
+
+us_m5a1_stuart_canadian_5st_arm_shop;▃ Stuart, Mk. VI (5th Can.Arm.Div.)
+us_m5a1_stuart_canadian_5st_arm_0;"▃ Tank, Light, Stuart, Mk. VI
+<color=@currencyGoldColor>5th Canadian Armoured Division</color>"
+us_m5a1_stuart_canadian_5st_arm_1;▃ Stuart, Mk. VI
+us_m5a1_stuart_canadian_5st_arm_2;Light Tank
+
+us_m5a1_stuart_td_shop;⋦ M5A1 (3rd T.Bat.)
+us_m5a1_stuart_td_0;"<color=#5cae63>G-103</color>
+⋦ Tank, Light, M5A1 Stuart
+<color=@currencyGoldColor>3rd Tank Battalion</color>"
+us_m5a1_stuart_td_1;⋦ M5A1
+us_m5a1_stuart_td_2;Light Tank
+
+us_m24_chaffee_shop;M24
+us_m24_chaffee_0;"<color=#5cae63>G-200</color>
+Tank, Light, M24 Chaffee"
+us_m24_chaffee_1;M24
+us_m24_chaffee_2;Light Tank
+
+us_m24_chaffee_tl_shop;╎ M24
+us_m24_chaffee_tl_0;"<color=#5cae63>G-200</color>
+╎ Tank, Light, M24 Chaffee"
+us_m24_chaffee_tl_1;╎ M24
+us_m24_chaffee_tl_2;Light Tank
+
+us_m24_chaffee_tutorial_shop;M24
+us_m24_chaffee_tutorial_0;"<color=#5cae63>G-200</color>
+Tank, Light, M24 Chaffee"
+us_m24_chaffee_tutorial_1;M24
+us_m24_chaffee_tutorial_2;Light Tank
+
+us_m3_lee_shop;M3 MT
+us_m3_lee_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M3 Lee"
+us_m3_lee_1;M3
+us_m3_lee_2;Medium Tank
+
+us_mk1_grant_shop;▃ Grant, Mk. I
+us_mk1_grant_0;"▃ Tank, Medium, Grant, Mk. I"
+us_mk1_grant_1;▃ Grant, Mk. I
+us_mk1_grant_2;▃ Cruiser tank
+
+us_m4a1_1942_sherman_shop;M4A1
+us_m4a1_1942_sherman_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M4A1 Sherman"
+us_m4a1_1942_sherman_1;M4A1
+us_m4a1_1942_sherman_2;Medium Tank
+
+us_m4_sherman_shop;M4
+us_m4_sherman_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M4 Sherman"
+us_m4_sherman_1;M4
+us_m4_sherman_2;Medium Tank
+
+us_m4a2_sherman_shop;M4A2
+us_m4a2_sherman_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M4A2 Sherman"
+us_m4a2_sherman_1;M4A2
+us_m4a2_sherman_2;Medium Tank
+
+us_m4a3_105_sherman_shop;M4A3 (105) HVSS
+us_m4a3_105_sherman_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M4A3 (105) HVSS Sherman"
+us_m4a3_105_sherman_1;M4A3 (105)
+us_m4a3_105_sherman_2;Medium Tank
+
+us_m4a1_76w_sherman_shop;M4A1 (76) W
+us_m4a1_76w_sherman_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M4A1 (76) W Sherman"
+us_m4a1_76w_sherman_1;M4A1
+us_m4a1_76w_sherman_2;Medium Tank
+
+us_m4a2_76w_sherman_shop;M4A2 (76) W
+us_m4a2_76w_sherman_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M4A2 (76) W Sherman"
+us_m4a2_76w_sherman_1;M4A2
+us_m4a2_76w_sherman_2;Medium Tank
+
+us_m4a3e8_76w_sherman_shop;M4A3E8(76)W
+us_m4a3e8_76w_sherman_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+<color=#5cae63>G-104</color>
+Tank, Medium, M4A3E8(76)W Sherman"
+us_m4a3e8_76w_sherman_1;M4A3E8
+us_m4a3e8_76w_sherman_2;Medium Tank
+
+us_m4a3e2_sherman_jumbo_shop;M4A3E2 (75) W
+us_m4a3e2_sherman_jumbo_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M4A3E2 (75)  Sherman ""Jumbo"""
+us_m4a3e2_sherman_jumbo_1;M4A3E2
+us_m4a3e2_sherman_jumbo_2;Assault Tank
+
+us_m4a3e8_76w_sherman_kit_3rank_shop;"M4A3E8(76)W ""Hell on Wheels"""
+us_m4a3e8_76w_sherman_kit_3rank_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+<color=#5cae63>G-104</color>
+Tank, Medium, M4A3E8(76)W Sherman
+<color=@currencyGoldColor>""Hell on Wheels""</color>"
+us_m4a3e8_76w_sherman_kit_3rank_1;M4A3E8
+us_m4a3e8_76w_sherman_kit_3rank_2;Medium Tank
+
+us_m4_t26_shop;M4 (M3)
+us_m4_t26_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M4 Sherman (Gun, 90mm, M3)"
+us_m4_t26_1;M4 (M3)
+us_m4_t26_2;Medium Tank
+
+us_m4a3e2_76w_sherman_jumbo_shop;M4A3E2 (76) W
+us_m4a3e2_76w_sherman_jumbo_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M4A3E2 (76) W Sherman ""Jumbo"""
+us_m4a3e2_76w_sherman_jumbo_1;M4A3E2 (76) W
+us_m4a3e2_76w_sherman_jumbo_2;Assault Tank
+
+us_m4a5_ram_2_shop;"▃ Ram, Mk. II ""B"""
+us_m4a5_ram_2_0;"<color=#81c3fc>Montreal Locomotive Works</color>
+▃ Tank, Cruiser, Ram, Mk. II ""B"""
+us_m4a5_ram_2_1;▃ Ram, Mk. II
+us_m4a5_ram_2_2;Medium Tank
+
+us_m4_sherman_promo_shop;◓ M4
+us_m4_sherman_promo_0;"<color=#5cae63>G-104</color>
+◓ Tank, Medium, M4 Sherman"
+us_m4_sherman_promo_1;◓ M4
+us_m4_sherman_promo_2;Medium Tank
+
+us_m4_sherman_calliope_shop;M4 (T34E1)
+us_m4_sherman_calliope_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M4 Sherman
+<color=#adadad>(T34E1)</color>"
+us_m4_sherman_calliope_1;M4 (T34E1)
+us_m4_sherman_calliope_2;Medium Tank
+
+us_m4a3e2_sherman_jumbo_cobra_king_shop;M4A3E2 (75) W (37th T.Bat.)
+us_m4a3e2_sherman_jumbo_cobra_king_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M4A3E2 (75) W Sherman ""Jumbo""
+<color=@currencyGoldColor>37th Tank Battalion, ""Cobra King""</color>"
+us_m4a3e2_sherman_jumbo_cobra_king_1;M4A3E2
+us_m4a3e2_sherman_jumbo_cobra_king_2;Assault Tank
+
+us_m4a2_76w_sherman_tutorial_shop;M4A2 (76) W
+us_m4a2_76w_sherman_tutorial_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M4A2 (76) W Sherman"
+us_m4a2_76w_sherman_tutorial_1;M4A2
+us_m4a2_76w_sherman_tutorial_2;Medium Tank
+
+us_m4a2_1944_shop;M4A2 (1944)
+us_m4a2_1944_0;"<color=#5cae63>G-104</color>
+Tank, Medium, M4A2 Sherman
+<color=#adadad>(1944)</color>"
+us_m4a2_1944_1;M4
+us_m4a2_1944_2;Medium Tank
+
+us_halftrack_m16_shop;M16 MGMC
+us_halftrack_m16_0;"<color=#5cae63>G-102</color>
+Carriage, Motor, Multiple Gun, M16"
+us_halftrack_m16_1;M16
+us_halftrack_m16_2;SPAA
+
+us_t77e1_shop;T77E1 MGMC
+us_t77e1_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+Carriage, Motor, Multiple Caliber .50 Gun, T77E1"
+us_t77e1_1;T77E1
+us_t77e1_2;SPAA
+
+us_m10_shop;M10 GMC
+us_m10_0;"<color=#5cae63>G-130</color>
+Carriage, Motor, 3-inch Gun, M10"
+us_m10_1;M10
+us_m10_2;Tank Destroyer
+
+us_t18_e2_shop;T18E2 HAC
+us_t18_e2_0;"<color=#5cae63>G-133</color>
+Car, Armored, Heavy, T18E2 ""Boarhound"""
+us_t18_e2_1;T18E2
+us_t18_e2_2;Armored Car
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 us_m18_hellcat_shop;M18 GMC
@@ -190,9 +704,360 @@ Carriage, Motor, 76mm Gun, M18 ""Hellcat"""
 us_m18_hellcat_1;M18 GMC
 us_m18_hellcat_2;Light Tank
 
+us_m18_hellcat_kit_3rank_shop;"M18 GMC ""Hell on Wheels"""
+us_m18_hellcat_kit_3rank_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
+<color=#5cae63>G-163</color>
+Carriage, Motor, 76mm Gun, M18 ""Hellcat""
+<color=@currencyGoldColor>""Hell on Wheels""</color>"
+us_m18_hellcat_kit_3rank_1;M18 GMC
+us_m18_hellcat_kit_3rank_2;Medium Tank
+
+us_m18_hellcat_black_cat_shop;M18 GMC (805th TD.Bat.)
+us_m18_hellcat_black_cat_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
+<color=#5cae63>G-163</color>
+Carriage, Motor, 76mm Gun, M18 ""Hellcat""
+<color=@currencyGoldColor>805th Tank Destroyer Battalion, ""Black Cat""</color>"
+us_m18_hellcat_black_cat_1;M18
+us_m18_hellcat_black_cat_2;Light Tank
+
+us_m18_super_hellcat_shop;M18 GMC (M3)
+us_m18_super_hellcat_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
+<color=#5cae63>G-163</color>
+Carriage, Motor, 90mm Gun, M18 ""Super Hellcat"""
+us_m18_super_hellcat_1;M18 GMC
+us_m18_super_hellcat_2;Light Tank
+
+us_m18_hellcat_black_cat_race_shop;"""Racing"" M18"
+us_m18_hellcat_black_cat_race_0;"""Racing"" M18"
+us_m18_hellcat_black_cat_race_1;"""Racing"" M18"
+us_m18_hellcat_black_cat_race_2;Light Tank
+
+us_m6a1_shop;M6A1
+us_m6a1_0;"<color=#5cae63>G-118</color>
+Tank, Heavy, M6A1"
+us_m6a1_1;M6A1
+us_m6a1_2;Heavy Tank
+
+us_m6a2e1_shop;M6A2E1-1
+us_m6a2e1_0;"<color=#5cae63>G-118</color>
+Tank, Heavy, M6A2E1-1"
+us_m6a2e1_1;M6A2E1
+us_m6a2e1_2;Heavy Tank
+
+us_t1e1_shop;T1E1
+us_t1e1_0;"Tank, Heavy, T1E1"
+us_t1e1_1;T1E1
+us_t1e1_2;Heavy Tank
+
+us_t1e1_90_shop;T1E1 (T7)
+us_t1e1_90_0;"Tank, Heavy, T1E1
+<color=#adadad>(Gun, 90mm, T7)</color>"
+us_t1e1_90_1;T1E1
+us_t1e1_90_2;Heavy Tank
+
+us_m19_shop;M19A1
+us_m19_0;"<color=#5cae63>G-248</color>
+Carriage, Motor, Twin 40mm Gun, M19A1"
+us_m19_1;M19A1
+us_m19_2;SPAA
+
+us_m42_duster_shop;M42
+us_m42_duster_0;"<color=#5cae63>G-253</color>
+Gun, Self-Propelled, Full Tracked: Twin 40mm, M42 ""Duster"""
+us_m42_duster_1;M42
+us_m42_duster_2;SPAA
+
+us_m44_shop;M44
+us_m44_0;"<color=#5cae63>G-279</color>
+Howitzer, Self-Propelled, Full Tracked: 155mm, M44"
+us_m44_1;M44
+us_m44_2;SPH
+
+us_m55_shop;M55
+us_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
+<color=#5cae63>G-261</color>
+Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55"
+us_m55_1;M55
+us_m55_2;SPH
+
+us_m36_shop;M36 GMC
+us_m36_0;"<color=#5cae63>G-210</color>
+Carriage, Motor, 90mm Gun, M36 ""Jackson"""
+us_m36_1;M36
+us_m36_2;Tank Destroyer
+
+us_m36b2_shop;M36B2 GMC
+us_m36b2_0;"<color=#5cae63>G-237</color>
+Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
+us_m36b2_1;M36B2
+us_m36b2_2;Tank Destroyer
+
+us_t14_shop;T14
+us_t14_0;"Tank, Assault, T14"
+us_t14_1;T14
+us_t14_2;Assault Tank
+
+us_skink_aa_kit_3rank_shop;"▃ Skink ""Hell on Wheels"""
+us_skink_aa_kit_3rank_0;"<color=#81c3fc>Canadian Ministry of Munitions and Supply, Army Engineering Design
+Branch <color=@commonTextColor>+</color> Waterloo Manufacturing Company</color>
+▃ Tank, Anti-Aircraft, 20mm, Quad, Skink
+<color=@currencyGoldColor>""Hell on Wheels""</color>"
+us_skink_aa_kit_3rank_1;▃ Skink
+us_skink_aa_kit_3rank_2;SPAA
+
+us_skink_aa_shop;▃ Skink
+us_skink_aa_0;"<color=#81c3fc>Canadian Ministry of Munitions and Supply, Army Engineering Design
+Branch <color=@commonTextColor>+</color> Waterloo Manufacturing Company</color>
+▃ Tank, Anti-Aircraft, 20mm, Quad, Skink"
+us_skink_aa_1;▃ Skink
+us_skink_aa_2;SPAA
+
+us_t55e1_shop;T55E1 GMC
+us_t55e1_0;"Carriage, Motor, 3-inch Gun, T55E1"
+us_t55e1_1;T55E1 GMC
+us_t55e1_2;SPG
+
+us_t86_shop;T86 GMC (early)
+us_t86_0;"<color=#81c3fc>Marmon-Herrington Company</color>
+Carriage, Motor, Amphibious, 76mm Gun, T86
+<color=#adadad>(early)</color>"
+us_t86_1;T86 GMC
+us_t86_2;Medium Tank
+
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+us_m41_walker_bulldog_shop;M41A1
+us_m41_walker_bulldog_0;"<color=#5cae63>G-251</color>
+Tank, Combat, Full Tracked: 76mm Gun, M41A1 Walker Bulldog"
+us_m41_walker_bulldog_1;M41A1
+us_m41_walker_bulldog_2;Light Tank
+
+us_t92_shop;T92
+us_t92_0;"Tank, Combat, Full Tracked: 76mm Gun, T92"
+us_t92_1;T92
+us_t92_2;Light Tank
+
+us_t25_shop;T25
+us_t25_0;"Tank, Medium, T25"
+us_t25_1;T25
+us_t25_2;Medium Tank
+
+us_m26_pershing_shop;M26
+us_m26_pershing_0;"<color=#5cae63>G-226</color>
+Tank, Medium, M26"
+us_m26_pershing_1;M26
+us_m26_pershing_2;Medium Tank
+
+us_m26_t99_shop;M26 (T99)
+us_m26_t99_0;"<color=#5cae63>G-226</color>
+Tank, Medium, M26
+<color=#adadad>(T99)</color>"
+us_m26_t99_1;M26
+us_m26_t99_2;Medium Tank
+
+us_m26e1_pershing_shop;M26E1
+us_m26e1_pershing_0;"<color=#5cae63>G-226</color>
+Tank, Medium, M26E1"
+us_m26e1_pershing_1;M26E1
+us_m26e1_pershing_2;Medium Tank
+
+us_m26_pershing_tutorial_shop;M26
+us_m26_pershing_tutorial_0;"<color=#5cae63>G-226</color>
+Tank, Medium, M26"
+us_m26_pershing_tutorial_1;M26
+us_m26_pershing_tutorial_2;Medium Tank
+
+us_m46_patton_shop;M46
+us_m46_patton_0;"<color=#5cae63>G-244</color>
+Tank, Medium, M46 Patton"
+us_m46_patton_1;M46
+us_m46_patton_2;Medium Tank
+
+us_m46_patton_73_armor_bat_shop;M46 (73rd T.Bat.)
+us_m46_patton_73_armor_bat_0;"<color=#5cae63>G-244</color>
+Tank, Medium, M46 Patton
+<color=@currencyGoldColor>73rd Tank Batalion</color>"
+us_m46_patton_73_armor_bat_1;M46
+us_m46_patton_73_armor_bat_2;Medium Tank
+
+us_t26e5_shop;T26E5
+us_t26e5_0;"<color=#5cae63>G-198</color>
+Tank, Heavy, T26E5"
+us_t26e5_1;T26E5
+us_t26e5_2;Assault Tank
+
+us_t26e4_superpershing_shop;T26E4-1
+us_t26e4_superpershing_0;"Heavy Tank T26E4-1 ""Super Pershing"""
+us_t26e4_superpershing_1;T26E4
+us_t26e4_superpershing_2;Heavy Tank
+
+us_t34_shop;T34
+us_t34_0;"Tank, Heavy, T34"
+us_t34_1;T34
+us_t34_2;Heavy Tank
+
+us_m109a1_shop;M109A1
+us_m109a1_0;"<color=#5cae63>G-296</color>
+Howitzer, Medium, Self-Propelled, 155mm, M109A1"
+us_m109a1_1;M109A1
+us_m109a1_2;SPG
+
+us_m56_scorpion_shop;M56
+us_m56_scorpion_0;"<color=#5cae63>G-289</color>
+Gun, Self-Propelled, Full Tracked: 90mm Gun, M56 ""Scorpion"""
+us_m56_scorpion_1;M56
+us_m56_scorpion_2;SPG
+
+us_m50_ontos_shop;M50
+us_m50_ontos_0;"<color=#5cae63>G-288</color>
+Rifle, Multiple, 106 mm, Self-Propelled, M50 ""Ontos"""
+us_m50_ontos_1;M50
+us_m50_ontos_2;SPG
+
+us_t20_shop;T20
+us_t20_0;"<color=#5cae63>G-183</color>
+Tank, Medium, T20"
+us_t20_1;T20
+us_t20_2;Medium Tank
+
+us_t28_shop;T28 (transport)
+us_t28_0;"Tank, Super Heavy, T28
+<color=#adadad>(transport)</color>"
+us_t28_1;T28 (transport)
+us_t28_2;SPG
+
+us_t95_shop;T28
+us_t95_0;"Tank, Super Heavy, T28"
+us_t95_1;T28
+us_t95_2;SPG
+
+us_t29_shop;T29
+us_t29_0;"Tank, Heavy, T29"
+us_t29_1;T29
+us_t29_2;Heavy Tank
+
+us_m551_76_shop;M551 (M32A1)
+us_m551_76_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+<color=#5cae63>G-310</color>
+Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 76mm
+Gun, M551 Sheridan"
+us_m551_76_1;M551 (M32A1)
+us_m551_76_2;Light Tank
+
+us_m551_shop;M551
+us_m551_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+<color=#5cae63>G-310</color>
+Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked:
+152mm Gun-Launcher, M551 Sheridan"
+us_m551_1;M551
+us_m551_2;Light Tank
+
+us_t30_shop;T30
+us_t30_0;"Tank, Heavy, T30"
+us_t30_1;T30
+us_t30_2;Heavy Tank
+
+us_amx_13_75_shop;AMX 13
+us_amx_13_75_0;"AMX 13"
+us_amx_13_75_1;AMX 13
+us_amx_13_75_2;Light Tank
+
+us_amx_13_90_shop;AMX 13-90
+us_amx_13_90_0;"AMX 13-90"
+us_amx_13_90_1;AMX 13-90
+us_amx_13_90_2;Light Tank
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+us_m47_patton_II_shop;M47
+us_m47_patton_II_0;"<color=#5cae63>G-262</color>
+Tank, Combat, Full Tracked: 90mm Gun, M47 Patton"
+us_m47_patton_II_1;M47
+us_m47_patton_II_2;Medium Tank
+
+us_m48a1_patton_III_shop;M48A1
+us_m48a1_patton_III_0;"<color=#5cae63>G-254</color>
+Tank, Combat, Full Tracked: 90mm Gun, M48A1"
+us_m48a1_patton_III_1;M48
+us_m48a1_patton_III_2;Medium Tank
+
+us_m60_shop;M60
+us_m60_0;"<color=#5cae63>G-292</color>
+Tank, Combat, Full Tracked: 105mm Gun, M60"
+us_m60_1;M60
+us_m60_2;MBT
+
+us_m60a1_shop;M60A1 AOS
+us_m60a1_0;"Tank, Combat, Full Tracked: 105mm Gun, M60A1 Add-On Stabilizer"
+us_m60a1_1;M60A1
+us_m60a1_2;MBT
+
+us_m60a1_rise_passive_era_shop;M60A1 R/PE
+us_m60a1_rise_passive_era_0;"Tank, Combat, Full Tracked: 105mm Gun, M60A1 Reliability
+Improvement of Selected Equipment / Passive"
+us_m60a1_rise_passive_era_1;M60A1
+us_m60a1_rise_passive_era_2;MBT
+
+us_m60a3_tts_shop;M60A3 TTS
+us_m60a3_tts_0;"Tank, Combat, Full Tracked: 105mm Gun, M60A3 Tank Thermal Sight"
+us_m60a3_tts_1;M60A3
+us_m60a3_tts_2;MBT
+
+us_m60a2_shop;M60A2
+us_m60a2_0;"Tank, Combat, Full Tracked: 152mm Gun-Launcher, M60A2"
+us_m60a2_1;M60A2
+us_m60a2_2;Medium Tank
+
+us_m60a3_slep_shop;☪ M60 AMBT
+us_m60a3_slep_0;"<color=#81c3fc>☪ StandartBio + L3 Combat Propulsion Systems M60 Affordable Main
+Battle Tank</color>"
+us_m60a3_slep_1;☪ M60 AMBT
+us_m60a3_slep_2;MBT
+
+us_t32_shop;T32
+us_t32_0;"Tank, Heavy, T32"
+us_t32_1;T32
+us_t32_2;Heavy Tank
+
+us_t32e1_shop;T32E1
+us_t32e1_0;"Tank, Heavy, T32E1"
+us_t32e1_1;T32E1
+us_t32e1_2;Heavy Tank
+
+us_t32_tutorial_shop;T32
+us_t32_tutorial_0;"Tank, Heavy, T32"
+us_t32_tutorial_1;T32
+us_t32_tutorial_2;Heavy Tank
+
+us_m103_shop;M103
+us_m103_0;"Tank, Combat, Full Tracked: 120mm Gun, M103"
+us_m103_1;M103
+us_m103_2;Heavy Tank
+
+us_m163_vulcan_shop;M163
+us_m163_vulcan_0;"Gun, Air Defence Artillery, Self-Propelled: 20 mm, M163"
+us_m163_vulcan_1;M163
+us_m163_vulcan_2;SPAA
+
+us_m728_shop;M728 CEV
+us_m728_0;"<color=#5cae63>G-303</color>
+Vehicle, Combat Engineer, Full Tracked: 165mm Gun, M728"
+us_m728_1;M728
+us_m728_2;MBT
+
+us_t54e2_shop;T54E2
+us_t54e2_0;"Tank, Combat, Full Tracked: 105mm Gun, T54E2"
+us_t54e2_1;T54E2
+us_t54e2_2;Medium Tank
+
+us_t54e1_shop;T54E1
+us_t54e1_0;"Tank, Combat, Full Tracked: 105mm Gun, T54E1"
+us_t54e1_1;T54E1
+us_t54e1_2;Medium Tank
+
+us_t114_shop;T114 BAT
+us_t114_0;"Vehicle, Armored, Full Tracked: Battalion Anti-Tank, T114"
+us_t114_1;T114
+us_t114_2;Light Tank
+
 us_magach_3_shop;▃ Magaḥ 3 (Balṭan)
 us_magach_3_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
 <color=#7ce68f>Ṭank M48 A3</color>
@@ -201,7 +1066,96 @@ us_magach_3_0;"<color=#81c3fc>Chrysler Defense <color=@commonTextColor>/</color>
 us_magach_3_1;▃ Magaḥ 3
 us_magach_3_2;MBT
 
+us_t58_shop;T58
+us_t58_0;"<color=#81c3fc>United Shoe Machinery Corporation</color>
+Tank, Combat, Full Tracked: 155mm Gun, T58"
+us_t58_1;T58
+us_t58_2;Heavy Tank
+
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+us_xm_800t_shop;XM800T
+us_xm_800t_0;"Armored Reconnaissance Scout Vehicle XM800T"
+us_xm_800t_1;XM800T
+us_xm_800t_2;Light Tank
+
+us_stingray_shop;Stingray
+us_stingray_0;<color=#81c3fc>Cadillac Gage Stingray</color>
+us_stingray_1;Stingray
+us_stingray_2;Light Tank
+
+us_m1296_dragoon_shop;M1296 ICVD
+us_m1296_dragoon_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+Combat Vehicle, Infantry, Dragoon, M1296"
+us_m1296_dragoon_1;M1296
+us_m1296_dragoon_2;ICV
+
+us_t95e1_shop;T95E1
+us_t95e1_0;"Tank, Combat, Full Tracked: 90mm Gun, T95E1"
+us_t95e1_1;T95E1
+us_t95e1_2;Medium Tank
+
+us_xm_803_shop;XM803
+us_xm_803_0;"Tank, Combat, Full Tracked: 152mm Gun-Launcher, XM803"
+us_xm_803_1;XM803
+us_xm_803_2;MBT
+
+us_mbt_70_shop;MBT70
+us_mbt_70_0;"Main Battle Tank, Armored, Full Tracked, 152mm, MBT70"
+us_mbt_70_1;MBT70
+us_mbt_70_2;MBT
+
+us_xm246_shop;XM246
+us_xm246_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+Gun, Air Defence Artillery, Self-Propelled: 35 mm, XM246"
+us_xm246_1;XM246
+us_xm246_2;SPAAG
+
+us_m247_shop;M247
+us_m247_0;"Gun, Air Defence Artillery, Self-Propelled, 40 mm, M247 Sergeant York"
+us_m247_1;M247
+us_m247_2;SPAA
+
+us_mim_72_chaparral_shop;M48A2 GMSIA
+us_mim_72_chaparral_0;"<color=#81c3fc>Ford Aerospace & Communications Corporation</color>
+Guided Missile System, Intercept-Aerial, Carrier-Mounted, M48A2"
+us_mim_72_chaparral_1;M48A2 GMSIA
+us_mim_72_chaparral_2;SPAAM
+
+us_m3_bradley_shop;M3 CFV
+us_m3_bradley_0;"Fighting Vehicle, Cavalry, Full Tracked, M3 Bradley"
+us_m3_bradley_1;M3 CFV
+us_m3_bradley_2;Light Tank
+
+us_m3a3_bradley_shop;M3A3 CFV
+us_m3a3_bradley_0;"Fighting Vehicle, Cavalry, Full Tracked, M3A3 Bradley"
+us_m3a3_bradley_1;M3A3 CFV
+us_m3a3_bradley_2;Light Tank
+
+us_m901_itv_shop;M901
+us_m901_itv_0;"Combat Vehicle, Anti-tank, Improved TOW Vehicle, M901"
+us_m901_itv_1;M901
+us_m901_itv_2;SPG
+
+us_xm1_chrysler_shop;XM1 (C)
+us_xm1_chrysler_0;"<color=#81c3fc>Chrysler Defense</color>
+Tank, Combat, Full Tracked: 105mm Gun, XM1"
+us_xm1_chrysler_1;XM1
+us_xm1_chrysler_2;MBT
+
+us_xm1_gm_shop;XM1 (GM)
+us_xm1_gm_0;"<color=#81c3fc>General Motors Defense</color>
+Tank, Combat, Full Tracked: 105mm Gun, XM1"
+us_xm1_gm_1;XM1
+us_xm1_gm_2;MBT
+
+us_efv_p1_shop;EFV-P1 (SDD-2) (M82)
+us_efv_p1_0;"<color=#81c3fc>General Dynamics Land Systems Expeditionary Fighting Vehicle
+Personnel Variant 1</color>
+<color=#adadad>(System Development and Demonstration 2)
+(Grenade, Launcher, Smoke: Simulant Screening, M82)</color>"
+us_efv_p1_1;EFV-P1
+us_efv_p1_2;IFV
+
 us_merkava_mk_1_shop;▃ Merkavah 1
 us_merkava_mk_1_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
 ▃ Ṭanḳ Merkavah Siman 1"
@@ -221,45 +1175,1503 @@ us_merkava_mk_3d_0;"<color=#81c3fc>Merkaz Šikum ve-'Aḥzakah 7000</color>
 us_merkava_mk_3d_1;▃ Merkavah 3D
 us_merkava_mk_3d_2;MBT
 
+us_xm_8_shop;XM8 AGS
+us_xm_8_0;"105mm Armored Gun System, XM8"
+us_xm_8_1;XM8
+us_xm_8_2;Light Tank
+
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+us_m1128_mgs_shop;M1128 MGS
+us_m1128_mgs_0;"Mobile Gun System, M1128 Stryker"
+us_m1128_mgs_1;M1128
+us_m1128_mgs_2;Light Tank
+
+us_m1128_wolfpack_shop;M1128 MGS (3rd Sqd. 2nd Cav.Reg.)
+us_m1128_wolfpack_0;"Mobile Gun System, M1128 Stryker
+<color=@currencyGoldColor>3rd Squadron 2nd Cavalry Regiment</color>"
+us_m1128_wolfpack_1;M1128
+us_m1128_wolfpack_2;Light Tank
+
+us_m10_booker_late_shop;M10
+us_m10_booker_late_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+Combat Vehicle, Tracked, Light Armored, M10 Booker"
+us_m10_booker_late_1;M10
+us_m10_booker_late_2;Light Tank
+
+us_hstv_l_shop;HSTV(L)
+us_hstv_l_0;"<color=#81c3fc>AAI Corperation</color>
+<color=#ff8c80>Armored Combat Vehicle Technology</color>
+High Survivability Test Vehicle (Lightweight)"
+us_hstv_l_1;HSTV(L)
+us_hstv_l_2;Light Tank
+
+us_m60_120s_shop;120S
+us_m60_120s_0;<color=#81c3fc>General Dynamics Land Systems 120S Main Battle Tank</color>
+us_m60_120s_1;120S
+us_m60_120s_2;MBT
+
+us_m1a1_hc_abrams_shop;M1A1HC
+us_m1a1_hc_abrams_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+Tank, Combat, Full Tracked, 120mm Gun, M1A1 Abrams, Heavy Common"
+us_m1a1_hc_abrams_1;M1A1
+us_m1a1_hc_abrams_2;MBT
+
+us_m1_abrams_shop;M1
+us_m1_abrams_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+Tank, Combat, Full Tracked: 105mm Gun, M1 Abrams"
+us_m1_abrams_1;M1
+us_m1_abrams_2;MBT
+
+us_m1a1_abrams_shop;M1A1
+us_m1a1_abrams_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams"
+us_m1a1_abrams_1;M1A1
+us_m1a1_abrams_2;MBT
+
+us_m1_ip_abrams_shop;M1IP
+us_m1_ip_abrams_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+Tank, Combat, Full Tracked: 105mm Gun, M1 Abrams, Improved
+Performance"
+us_m1_ip_abrams_1;M1IP
+us_m1_ip_abrams_2;MBT
+
+us_m1a2_abrams_shop;M1A2
+us_m1a2_abrams_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams"
+us_m1a2_abrams_1;M1A2
+us_m1a2_abrams_2;MBT
+
+us_m1a2_sep_abrams_shop;M1A2 SEP (TUSK 1)
+us_m1a2_sep_abrams_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System
+Enhancement Package, Tank Urban Survival Kit 1"
+us_m1a2_sep_abrams_1;M1A2
+us_m1a2_sep_abrams_2;MBT
+
+us_m1a2_sep2_abrams_shop;M1A2 SEPv2 (TUSK 2)
+us_m1a2_sep2_abrams_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System
+Enhancement Package Version 2, Tank Urban Survival Kit 2"
+us_m1a2_sep2_abrams_1;M1A2
+us_m1a2_sep2_abrams_2;MBT
+
+us_m1_abrams_kvt_shop;M1 (KVT)
+us_m1_abrams_kvt_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+Tank, Combat, Full Tracked: 105mm Gun, M1 Abrams
+<color=#adadad>(Krasnovian Variant Tank)</color>"
+us_m1_abrams_kvt_1;M1
+us_m1_abrams_kvt_2;MBT
+
+us_m1a1_abrams_yt_cup_2019_shop;␙ M1A1
+us_m1a1_abrams_yt_cup_2019_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+␙ Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams"
+us_m1a1_abrams_yt_cup_2019_1;␙ M1A1
+us_m1a1_abrams_yt_cup_2019_2;MBT
+
+us_m1a1_aim_abrams_shop;M1A1AIM SA
+us_m1a1_aim_abrams_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams
+Integrated Management, Situational Awareness"
+us_m1a1_aim_abrams_1;M1A1
+us_m1a1_aim_abrams_2;MBT
+
+us_m1a1_hc_usmc_shop;M1A1HC «Click-Bait»
+us_m1a1_hc_usmc_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Heavy Common
+<color=@currencyGoldColor>«Click-Bait»</color>"
+us_m1a1_hc_usmc_1;M1A1
+us_m1a1_hc_usmc_2;MBT
+
+us_m1a1_hc_usmc_sm_shop;◍ M1A1HC
+us_m1a1_hc_usmc_sm_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+◍ Tank, Combat, Full Tracked, 120mm Gun, M1A1 Abrams, Heavy
+Common
+<color=@currencyGoldColor>«Kate»</color>"
+us_m1a1_hc_usmc_sm_1;◍ M1A1HC
+us_m1a1_hc_usmc_sm_2;MBT
+
+us_lav_ad_shop;LAV-AD
+us_lav_ad_0;"Light Armored Vehicle - Air Defense"
+us_lav_ad_1;LAV-AD
+us_lav_ad_2;SPAA
+
+us_xm_975_roland_shop;M975 ADMS
+us_xm_975_roland_0;"Carrier, Air Defense Missile System, M975"
+us_xm_975_roland_1;M975
+us_xm_975_roland_2;SPAA
+
+us_rdf_lt_shop;14.8 Ton RDF/LT
+us_rdf_lt_0;<color=#81c3fc>AAI Corperation 14.8 Ton Rapid Deployment Force Light Tank</color>
+us_rdf_lt_1;14.8 Ton RDF/LT
+us_rdf_lt_2;Light Tank
+
+us_ccvl_shop;CCVL
+us_ccvl_0;"Close Combat Vehicle Light"
+us_ccvl_1;CCVL
+us_ccvl_2;Light Tank
+
+us_losat_ccv_shop;CCVL (LOSAT)
+us_losat_ccv_0;"Close Combat Vehicle Light
+<color=#adadad>(Line-of-Sight Anti-Tank)</color>"
+us_losat_ccv_1;CCVL (LOSAT)
+us_losat_ccv_2;SPG
+
+us_ags_teledyne_shop;ASP (late) (EX 35)
+us_ags_teledyne_0;"<color=#81c3fc>Teledyne Continental Motors Armored Support Platform</color>
+<color=#adadad>(late) (Gun, 105mm, EX 35 MOD 0)</color>"
+us_ags_teledyne_1;ASP
+us_ags_teledyne_2;Light Tank
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+us_adats_bradley_shop;XM1069 (ADATS)
+us_adats_bradley_0;"XM1069
+<color=#adadad>(Air Defense Anti-Tank System)</color>"
+us_adats_bradley_1;XM1069
+us_adats_bradley_2;SPAA
+
+us_sl_amraam_fcs_shop;M1097A2 (AN/MPQ-64)
+us_sl_amraam_fcs_0;"<color=#81c3fc>Raytheon Technologies Corporation</color>
+Truck, Utility: Heavy Variant, 4x4, M1097A2
+<color=#adadad>(Radar Set, AN/MPQ-64 Sentinel)</color>"
+us_sl_amraam_fcs_1;M1097A2 (AN/MPQ-64)
+us_sl_amraam_fcs_2;Radar
+
+us_sl_amraam_launcher_shop;M1097A2 (SLAMRAAM)
+us_sl_amraam_launcher_0;"<color=#81c3fc>Raytheon Technologies Corporation</color>
+Truck, Utility: Heavy Variant, 4x4, M1097A2
+<color=#adadad>(Surface-Launched Advanced Medium-Range Air-to-Air Missile)</color>"
+us_sl_amraam_launcher_1;M1097A2 (SLAMRAAM)
+us_sl_amraam_launcher_2;SPAAM
+
+us_nasams_fcs_shop;M1097A2 (AN/MPQ-64)
+us_nasams_fcs_0;"<color=#81c3fc>Raytheon Technologies Corporation</color>
+Truck, Utility: Heavy Variant, 4x4, M1097A2
+<color=#adadad>(Radar Set, AN/MPQ-64 Sentinel)</color>"
+us_nasams_fcs_1;M1097A2 (AN/MPQ-64)
+us_nasams_fcs_2;Radar
+
+us_nasams_launcher_shop;▃◢ P113H 380 (NASAMS 3)
+us_nasams_launcher_0;"<color=#81c3fc>▃◢ Scania 3-Series P113H 380 6x2</color>
+<color=#adadad>(Norwegian Advanced Surface-to-Air Missile System 3)</color>"
+us_nasams_launcher_1;▃◢ P113H 380 (NASAMS 3)
+us_nasams_launcher_2;SPAAM
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+us_huckins_78ft_pt95_shop;USS PT-95
+us_huckins_78ft_pt95_0;"<color=#81c3fc>Huckins Yacht Corporation</color>
+<color=#fffa62>Huckins 78'-class Motor Torpedo Boat</color>
+USS PT-95"
+us_huckins_78ft_pt95_1;USS PT-95
+us_huckins_78ft_pt95_2;Motor Torpedo Boat
+
+us_huckins_78ft_pt262_shop;USS PT-262
+us_huckins_78ft_pt262_0;"<color=#81c3fc>Huckins Yacht Corporation</color>
+<color=#fffa62>Huckins 78'-class Motor Torpedo Boat</color>
+USS PT-262"
+us_huckins_78ft_pt262_1;USS PT-262
+us_huckins_78ft_pt262_2;Motor Torpedo Boat
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+us_lcm_zippo_shop;USS Z-2
+us_lcm_zippo_0;"<color=#81c3fc>Fincantieri Marinette Marine</color>
+<color=#fffa62>Landing Craft, Mechanized, (Mk. 6) (Flamethrower) ""Zippo""</color>
+USS Z-2"
+us_lcm_zippo_1;USS Z-2
+us_lcm_zippo_2;Monitor
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+us_pgm_9_class_shop;USS PGM-9
+us_pgm_9_class_0;"<color=#81c3fc>Consolidated Shipbuilding Corporation</color>
+<color=#fffa62>PGM-9-class Motor Gunboat</color>
+USS PGM-9"
+us_pgm_9_class_1;USS PGM-9
+us_pgm_9_class_2;Motor Gunboat
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+us_destroyer_clemson_litchfield_shop;USS Litchfield (DD-336)
+us_destroyer_clemson_litchfield_0;"<color=#81c3fc>Mare Island Naval Shipyard</color>
+<color=#fffa62>Clemson-class Destroyer</color>
+USS Litchfield (DD-336)
+<color=#adadad>(1922)</color>"
+us_destroyer_clemson_litchfield_1;USS Litchfield
+us_destroyer_clemson_litchfield_2;Destroyer
+
+us_destroyer_clemson_barker_shop;USS Barker (DD-213)
+us_destroyer_clemson_barker_0;"<color=#81c3fc>Cramp Shipbuilding <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Clemson-class Destroyer</color>
+USS Barker (DD-213)
+<color=#adadad>(1942)</color>"
+us_destroyer_clemson_barker_1;USS Barker
+us_destroyer_clemson_barker_2;Destroyer
+
+us_destroyer_clemson_welborn_c_wood_shop;USS Welborn C. Wood (DD-195)
+us_destroyer_clemson_welborn_c_wood_0;"<color=#81c3fc>Newport News Shipbuilding and Dry Dock Company <color=@commonTextColor>/</color> Mare Island Naval
+Shipyard</color>
+<color=#fffa62>Clemson-class Destroyer</color>
+USS Welborn C. Wood (DD-195)
+<color=#adadad>(1922)</color>"
+us_destroyer_clemson_welborn_c_wood_1;USS Welborn C. Wood
+us_destroyer_clemson_welborn_c_wood_2;Destroyer
+
+us_destroyer_farragut_1942_shop;USS Aylwin (DD-355)
+us_destroyer_farragut_1942_0;"<color=#81c3fc>Philadelphia Naval Shipyard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Farragut-class Destroyer</color>
+USS Aylwin (DD-355)
+<color=#adadad>(1942)</color>"
+us_destroyer_farragut_1942_1;USS Aylwin
+us_destroyer_farragut_1942_2;Destroyer
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+us_destroyer_bagley_class_bagley_shop;USS Bagley (DD-386)
+us_destroyer_bagley_class_bagley_0;"<color=#81c3fc>Norfolk Naval Shipyard</color>
+<color=#fffa62>Bagley-class Destroyer</color>
+USS Bagley (DD-386)"
+us_destroyer_bagley_class_bagley_1;USS Bagley
+us_destroyer_bagley_class_bagley_2;Destroyer
+
+us_destroyer_bagley_class_helm_shop;USS Helm (DD-388)
+us_destroyer_bagley_class_helm_0;"<color=#81c3fc>Norfolk Naval Shipyard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Bagley-class Destroyer</color>
+USS Helm (DD-388)
+<color=#adadad>(1944)</color>"
+us_destroyer_bagley_class_helm_1;USS Helm
+us_destroyer_bagley_class_helm_2;Destroyer
+
+us_destroyer_fletcher_shop;USS Fletcher (DD-445)
+us_destroyer_fletcher_0;"<color=#81c3fc>Federal Shipbuilding and Drydock Company</color>
+<color=#fffa62>Fletcher-class Destroyer</color>
+USS Fletcher (DD-445)"
+us_destroyer_fletcher_1;USS Fletcher
+us_destroyer_fletcher_2;Destroyer
+
+us_destroyer_fletcher_sub_event_shop;USS Fletcher (DD-445)
+us_destroyer_fletcher_sub_event_0;"<color=#81c3fc>Federal Shipbuilding and Drydock Company</color>
+<color=#fffa62>Fletcher-class Destroyer</color>
+USS Fletcher (DD-445)"
+us_destroyer_fletcher_sub_event_1;USS Fletcher
+us_destroyer_fletcher_sub_event_2;Destroyer
+
+us_destroyer_fletcher_cowell_shop;USS Cowell (DD-547)
+us_destroyer_fletcher_cowell_0;"<color=#81c3fc>Bethlehem Shipbuilding San Pedro</color>
+<color=#fffa62>Fletcher-class Destroyer</color>
+USS Cowell (DD-547)"
+us_destroyer_fletcher_cowell_1;USS Cowell
+us_destroyer_fletcher_cowell_2;Destroyer
+
+us_destroyer_fletcher_bennion_shop;USS Bennion (DD-662)
+us_destroyer_fletcher_bennion_0;"<color=#81c3fc>Boston Naval Shipyard</color>
+<color=#fffa62>Fletcher-class Destroyer</color>
+USS Bennion (DD-662)"
+us_destroyer_fletcher_bennion_1;USS Bennion
+us_destroyer_fletcher_bennion_2;Destroyer
+
+us_destroyer_mitscher_shop;USS Mitscher (DL-2)
+us_destroyer_mitscher_0;"<color=#81c3fc>Bath Iron Works</color>
+<color=#fffa62>Mitscher-class Destroyer Leader</color>
+USS Mitscher (DL-2)"
+us_destroyer_mitscher_1;USS Mitscher
+us_destroyer_mitscher_2;Destroyer
+
+us_destroyer_mitscher_wilkinson_shop;USS Wilkinson (DL-5)
+us_destroyer_mitscher_wilkinson_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Long Beach Naval Shipyard</color>
+<color=#fffa62>Mitscher-class Destroyer Leader</color>
+USS Wilkinson (DL-5)
+<color=#adadad>(1958)</color>"
+us_destroyer_mitscher_wilkinson_1;USS Wilkinson
+us_destroyer_mitscher_wilkinson_2;Destroyer
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+us_destroyer_porter_1941_shop;USS Porter (DD-356)
+us_destroyer_porter_1941_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Long Beach Naval Shipyard</color>
+<color=#fffa62>Porter-class Destroyer</color>
+USS Porter (DD-356)
+<color=#adadad>(1939)</color>"
+us_destroyer_porter_1941_1;USS Porter
+us_destroyer_porter_1941_2;Destroyer
+
+us_destroyer_porter_1942_shop;USS Moffett (DD-362)
+us_destroyer_porter_1942_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Charleston Naval Shipyard</color>
+<color=#fffa62>Porter-class Destroyer</color>
+USS Moffett (DD-362)
+<color=#adadad>(1942)</color>"
+us_destroyer_porter_1942_1;USS Moffett
+us_destroyer_porter_1942_2;Destroyer
+
+us_destroyer_porter_1944_shop;USS Phelps (DD-360)
+us_destroyer_porter_1944_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Charleston Naval Shipyard</color>
+<color=#fffa62>Porter-class Destroyer</color>
+USS Phelps (DD-360)
+<color=#adadad>(1944)</color>"
+us_destroyer_porter_1944_1;USS Phelps
+us_destroyer_porter_1944_2;Destroyer
+
+us_destroyer_somers_shop;USS Somers (DD-381)
+us_destroyer_somers_0;"<color=#81c3fc>Federal Shipbuilding and Drydock Company</color>
+<color=#fffa62>Somers-class Destroyer</color>
+USS Somers (DD-381)"
+us_destroyer_somers_1;USS Somers
+us_destroyer_somers_2;Destroyer
+
+us_destroyer_somers_davis_shop;USS Davis (DD-395)
+us_destroyer_somers_davis_0;"<color=#81c3fc>Bath Iron Works</color>
+<color=#fffa62>Somers-class Destroyer</color>
+USS Davis (DD-395)"
+us_destroyer_somers_davis_1;USS Davis
+us_destroyer_somers_davis_2;Destroyer
+
+us_cruiser_omaha_class_trenton_shop;USS Raleigh (CL-7) (1932)
+us_cruiser_omaha_class_trenton_0;"<color=#81c3fc>Fore River Shipyard</color>
+<color=#fffa62>Omaha-class Light Cruiser</color>
+USS Raleigh (CL-7)
+<color=#adadad>(1932)</color>"
+us_cruiser_omaha_class_trenton_1;USS Raleigh
+us_cruiser_omaha_class_trenton_2;Light Cruiser
+
+us_cruiser_omaha_class_raleigh_shop;USS Raleigh (CL-7) (1942)
+us_cruiser_omaha_class_raleigh_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Omaha-class Light Cruiser</color>
+USS Raleigh (CL-7)
+<color=#adadad>(1942)</color>"
+us_cruiser_omaha_class_raleigh_1;USS Raleigh
+us_cruiser_omaha_class_raleigh_2;Light Cruiser
+
+us_cruiser_omaha_class_detroit_shop;USS Detroit (CL-8)
+us_cruiser_omaha_class_detroit_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Omaha-class Light Cruiser</color>
+USS Detroit (CL-8)
+<color=#adadad>(1942)</color>"
+us_cruiser_omaha_class_detroit_1;USS Detroit
+us_cruiser_omaha_class_detroit_2;Light Cruiser
+
+us_destroyer_sumner_shop;USS Allan M. Sumner (DD-692)
+us_destroyer_sumner_0;"<color=#81c3fc>Federal Shipbuilding and Drydock Company</color>
+<color=#fffa62>Allen M. Sumner-class Destroyer</color>
+USS Allen M. Sumner (DD-692)"
+us_destroyer_sumner_1;USS Allan M. Sumner
+us_destroyer_sumner_2;Destroyer
+
+us_destroyer_gearing_shop;USS Gearing (DD-710)
+us_destroyer_gearing_0;"<color=#81c3fc>Federal Shipbuilding and Drydock Company</color>
+<color=#fffa62>Gearing-class Destroyer</color>
+USS Gearing (DD-710)"
+us_destroyer_gearing_1;USS Gearing
+us_destroyer_gearing_2;Destroyer
+
+us_destroyer_gearing_frank_knox_shop;USS Frank Knox (DD-742)
+us_destroyer_gearing_frank_knox_0;"<color=#81c3fc>Bath Iron Works</color>
+<color=#fffa62>Gearing-class Destroyer</color>
+USS Frank Knox (DD-742)"
+us_destroyer_gearing_frank_knox_1;USS Frank Knox
+us_destroyer_gearing_frank_knox_2;Destroyer
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+us_destroyer_cf_adams_class_cf_adams_shop;USS Charles F. Adams (DDG-2)
+us_destroyer_cf_adams_class_cf_adams_0;"<color=#81c3fc>Bath Iron Works</color>
+<color=#fffa62>Charles F. Adams-class Guided Missile Destroyer</color>
+USS Charles F. Adams (DDG-2)"
+us_destroyer_cf_adams_class_cf_adams_1;USS Charles F. Adams
+us_destroyer_cf_adams_class_cf_adams_2;Guided Missile Destroyer
+
+us_destroyer_forrestsherman_class_shop;USS Forrest Sherman (DD-931)
+us_destroyer_forrestsherman_class_0;"<color=#81c3fc>Bath Iron Works</color>
+<color=#fffa62>Forrest Sherman-class Destroyer</color>
+USS Forrest Sherman (DD-931)"
+us_destroyer_forrestsherman_class_1;USS Forrest Sherman
+us_destroyer_forrestsherman_class_2;Destroyer
+
+us_cruiser_atlanta_class_atlanta_shop;USS Atlanta (CL-51)
+us_cruiser_atlanta_class_atlanta_0;"<color=#81c3fc>Federal Shipbuilding and Drydock Company</color>
+<color=#fffa62>Atlanta-class Light Cruiser</color>
+USS Atlanta (CL-51)"
+us_cruiser_atlanta_class_atlanta_1;USS Atlanta
+us_cruiser_atlanta_class_atlanta_2;Light Cruiser
+
+us_cruiser_cleveland_class_cleveland_shop;USS Cleveland (CL-55)
+us_cruiser_cleveland_class_cleveland_0;"<color=#81c3fc>New York Shipbuilding Corporation</color>
+<color=#fffa62>Cleveland-class Light Cruiser</color>
+USS Cleveland (CL-55)"
+us_cruiser_cleveland_class_cleveland_1;USS Cleveland
+us_cruiser_cleveland_class_cleveland_2;Light Cruiser
+
+us_cruiser_fargo_class_shop;USS Fargo (CL-106)
+us_cruiser_fargo_class_0;"<color=#81c3fc>New York Shipbuilding Corporation</color>
+<color=#fffa62>Fargo-class Light Cruiser</color>
+USS Fargo (CL-106)"
+us_cruiser_fargo_class_1;USS Fargo
+us_cruiser_fargo_class_2;Light Cruiser
+
+us_cruiser_portland_class_shop;USS Portland (CA-33)
+us_cruiser_portland_class_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Portland-class Heavy Cruiser</color>
+USS Portland (CA-33)
+<color=#adadad>(1943)</color>"
+us_cruiser_portland_class_1;USS Portland
+us_cruiser_portland_class_2;Heavy Cruiser
+
+us_cruiser_pensacola_class_shop;USS Pensacola (CA-24)
+us_cruiser_pensacola_class_0;"<color=#81c3fc>Brooklyn Navy Yard</color>
+<color=#fffa62>Pensacola-class Heavy Cruiser</color>
+USS Pensacola (CA-24)"
+us_cruiser_pensacola_class_1;USS Pensacola
+us_cruiser_pensacola_class_2;Heavy Cruiser
+
+us_cruiser_northampton_class_shop;USS Northampton (CA-26)
+us_cruiser_northampton_class_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Pearl Harbor Naval Shipyard and Intermediate
+Maintenance Facility</color>
+<color=#fffa62>Northampton-class Heavy Cruiser</color>
+USS Northampton (CA-26)
+<color=#adadad>(1940)</color>"
+us_cruiser_northampton_class_1;USS Northampton
+us_cruiser_northampton_class_2;Heavy Cruiser
+
+us_cruiser_new_orleans_class_shop;USS New Orleans (CA-32)
+us_cruiser_new_orleans_class_0;"<color=#81c3fc>Brooklyn Navy Yard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>New Orleans-class Heavy Cruiser</color>
+USS New Orleans (CA-32)
+<color=#adadad>(1945)</color>"
+us_cruiser_new_orleans_class_1;USS New Orleans
+us_cruiser_new_orleans_class_2;Heavy Cruiser
+
+us_cruiser_brooklyn_class_helena_shop;USS Helena (CL-50)
+us_cruiser_brooklyn_class_helena_0;"<color=#81c3fc>Brooklyn Navy Yard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+<color=#fffa62>Brooklyn-class Light Cruiser</color>
+USS Helena (CL-50)
+<color=#adadad>(1942)</color>"
+us_cruiser_brooklyn_class_helena_1;USS Helena
+us_cruiser_brooklyn_class_helena_2;Light Cruiser
+
+us_cruiser_brooklyn_class_brooklyn_shop;USS Brooklyn (CL-40)
+us_cruiser_brooklyn_class_brooklyn_0;"<color=#81c3fc>Brooklyn Navy Yard</color>
+<color=#fffa62>Brooklyn-class Light Cruiser</color>
+USS Brooklyn (CL-40)"
+us_cruiser_brooklyn_class_brooklyn_1;USS Brooklyn
+us_cruiser_brooklyn_class_brooklyn_2;Light Cruiser
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+us_cruiser_worcester_class_roanoke_shop;USS Roanoke (CL-145)
+us_cruiser_worcester_class_roanoke_0;"<color=#81c3fc>New York Shipbuilding Corporation</color>
+<color=#fffa62>Worcester-class Light Cruiser</color>
+USS Roanoke (CL-145)"
+us_cruiser_worcester_class_roanoke_1;USS Roanoke
+us_cruiser_worcester_class_roanoke_2;Light Cruiser
+
+us_battleship_texas_shop;USS Texas (BB-35)
+us_battleship_texas_0;"<color=#81c3fc>Newport News Shipbuilding and Dry Dock Company <color=@commonTextColor>/</color> Brooklyn Navy
+Yard</color>
+<color=#fffa62>New York-class Battleship</color>
+USS Texas (BB-35)
+<color=#adadad>(1945)</color>"
+us_battleship_texas_1;USS Texas
+us_battleship_texas_2;Battleship
+
+us_battleship_north_dakota_shop;USS North Dakota (BB-29)
+us_battleship_north_dakota_0;"<color=#81c3fc>Fore River Shipyard</color>
+<color=#fffa62>Delaware-class Battleship</color>
+USS North Dakota (BB-29)
+<color=#adadad>(1917)</color>"
+us_battleship_north_dakota_1;USS North Dakota
+us_battleship_north_dakota_2;Battleship
+
+us_battleship_wyoming_class_shop;USS Wyoming (BB-32)
+us_battleship_wyoming_class_0;"<color=#81c3fc>William Cramp & Sons Ship & Engine Building Company <color=@commonTextColor>/</color> Philadelphia
+Naval Shipyard</color>
+<color=#fffa62>Wyoming-class Battleship</color>
+USS Wyoming (BB-32)
+<color=#adadad>(1927)</color>"
+us_battleship_wyoming_class_1;USS Wyoming
+us_battleship_wyoming_class_2;Battleship
+
+us_battleship_arkansas_shop;USS Arkansas (BB-33)
+us_battleship_arkansas_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Norfolk Naval Shipyard</color>
+<color=#fffa62>Wyoming-class Battleship</color>
+USS Arkansas (BB-33)
+<color=#adadad>(1942)</color>"
+us_battleship_arkansas_1;USS Arkansas
+us_battleship_arkansas_2;Battleship
+
+us_cruiser_baltimore_class_pittsburgh_shop;USS Pittsburgh (CA-72)
+us_cruiser_baltimore_class_pittsburgh_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Norfolk Naval Shipyard</color>
+<color=#fffa62>Baltimore-class Heavy Cruiser</color>
+USS Pittsburgh (CA-72)
+<color=#adadad>(1953)</color>"
+us_cruiser_baltimore_class_pittsburgh_1;USS Pittsburgh
+us_cruiser_baltimore_class_pittsburgh_2;Heavy Cruiser
+
+us_cruiser_baltimore_class_shop;USS Baltimore (CA-68)
+us_cruiser_baltimore_class_0;"<color=#81c3fc>Fore River Shipyard</color>
+<color=#fffa62>Baltimore-class Heavy Cruiser</color>
+USS Baltimore (CA-68)"
+us_cruiser_baltimore_class_1;USS Baltimore
+us_cruiser_baltimore_class_2;Heavy Cruiser
+
+us_cruiser_oregon_class_shop;USS Oregon City (CA-122)
+us_cruiser_oregon_class_0;"<color=#81c3fc>Fore River Shipyard</color>
+<color=#fffa62>Oregon City-class Heavy Cruiser</color>
+USS Oregon City (CA-122)"
+us_cruiser_oregon_class_1;USS Oregon City
+us_cruiser_oregon_class_2;Heavy Cruiser
+
+us_cruiser_des_moines_class_newport_news_shop;USS Newport News (CA-148)
+us_cruiser_des_moines_class_newport_news_0;"<color=#81c3fc>Newport News Shipbuilding and Dry Dock Company <color=@commonTextColor>/</color> Norfolk Naval
+Shipyard</color>
+<color=#fffa62>Des Moines-class Heavy Cruiser</color>
+USS Newport News (CA-148)
+<color=#adadad>(1968)</color>"
+us_cruiser_des_moines_class_newport_news_1;USS Newport News
+us_cruiser_des_moines_class_newport_news_2;Heavy Cruiser
+
+us_cruiser_des_moines_class_shop;USS Des Moines (CA-134)
+us_cruiser_des_moines_class_0;"<color=#81c3fc>Fore River Shipyard</color>
+<color=#fffa62>Des Moines-class Heavy Cruiser</color>
+USS Des Moines (CA-134)"
+us_cruiser_des_moines_class_1;USS Des Moines
+us_cruiser_des_moines_class_2;Heavy Cruiser
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+us_battleship_arizona_1931_shop;USS Arizona (BB-39)
+us_battleship_arizona_1931_0;"<color=#81c3fc>Brooklyn Navy Yard <color=@commonTextColor>/</color> Puget Sound Naval Shipyard and Intermediate
+Maintenance Facility</color>
+<color=#fffa62>Pennsylvania-class Battleship</color>
+USS Arizona (BB-39)
+<color=#adadad>(1938)</color>"
+us_battleship_arizona_1931_1;USS Arizona
+us_battleship_arizona_1931_2;Battleship
+
+us_battleship_colorado_class_colorado_shop;USS Colorado (BB-45)
+us_battleship_colorado_class_colorado_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Puget Sound Naval Shipyard and
+Intermediate Maintenance Facility</color>
+<color=#fffa62>Colorado-class</color>
+USS Colorado (BB-45)
+<color=#adadad>(1942)</color>"
+us_battleship_colorado_class_colorado_1;USS Colorado
+us_battleship_colorado_class_colorado_2;Battleship
+
+us_battleship_colorado_class_maryland_shop;USS Maryland (BB-46)
+us_battleship_colorado_class_maryland_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Puget Sound Naval Shipyard and
+Intermediate Maintenance Facility</color>
+<color=#fffa62>Colorado-class Battleship</color>
+USS Maryland (BB-46)
+<color=#adadad>(1945)</color>"
+us_battleship_colorado_class_maryland_1;USS Maryland
+us_battleship_colorado_class_maryland_2;Battleship
+
+us_battleship_nevada_shop;USS Nevada (BB-36)
+us_battleship_nevada_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Fore River Shipyard</color>
+<color=#fffa62>Nevada-class Battleship</color>
+USS Nevada (BB-36)
+<color=#adadad>(1944)</color>"
+us_battleship_nevada_1;USS Nevada
+us_battleship_nevada_2;Battleship
+
+us_battleship_oklahoma_shop;USS Oklahoma (BB-37)
+us_battleship_oklahoma_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Philadelphia Naval Shipyard</color>
+<color=#fffa62>Nevada-class Battleship</color>
+USS Oklahoma (BB-37)
+<color=#adadad>(1929)</color>"
+us_battleship_oklahoma_1;USS Oklahoma
+us_battleship_oklahoma_2;Battleship
+
+us_battleship_tennessee_shop;USS Tennessee (BB-43)
+us_battleship_tennessee_0;"<color=#81c3fc>Brooklyn Navy Yard <color=@commonTextColor>/</color> Puget Sound Naval Shipyard and Intermediate
+Maintenance Facility</color>
+<color=#fffa62>Tennessee-class Battleship</color>
+USS Tennessee (BB-43)
+<color=#adadad>(1943)</color>"
+us_battleship_tennessee_1;USS Tennessee
+us_battleship_tennessee_2;Battleship
+
+us_battlecruiser_alaska_class_shop;USS Alaska (CB-1)
+us_battlecruiser_alaska_class_0;"<color=#81c3fc>New York Shipbuilding Corporation</color>
+<color=#fffa62>Alaska-class Large Cruiser</color>
+USS Alaska (CB-1)"
+us_battlecruiser_alaska_class_1;USS Alaska
+us_battlecruiser_alaska_class_2;Battlecruiser
+
+us_battleship_mississippi_shop;USS Mississippi (BB-41)
+us_battleship_mississippi_0;"<color=#81c3fc>Newport News Shipbuilding and Dry Dock Company <color=@commonTextColor>/</color> Pearl Harbor
+Naval Shipyard and Intermediate Maintenance Facility</color>
+<color=#fffa62>New Mexico-class Battleship</color>
+USS Mississippi (BB-41)
+<color=#adadad>(1945)</color>"
+us_battleship_mississippi_1;USS Mississippi
+us_battleship_mississippi_2;Battleship
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+us_battleship_south_dakota_shop;USS South Dakota (BB-57)
+us_battleship_south_dakota_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Puget Sound Naval Shipyard and
+Intermediate Maintenance Facility</color>
+<color=#fffa62>South Dakota-class Battleship</color>
+USS South Dakota (BB-57)
+<color=#adadad>(1944)</color>"
+us_battleship_south_dakota_1;USS South Dakota
+us_battleship_south_dakota_2;Battleship
+
+us_battleship_iowa_class_iowa_shop;USS Iowa (BB-61)
+us_battleship_iowa_class_iowa_0;"<color=#81c3fc>Brooklyn Navy Yard <color=@commonTextColor>/</color> Hunters Point Naval Shipyard</color>
+<color=#fffa62>Iowa-class Battleship</color>
+USS Iowa (BB-61)
+<color=#adadad>(1945)</color>"
+us_battleship_iowa_class_iowa_1;USS Iowa
+us_battleship_iowa_class_iowa_2;Battleship
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+bf-109b_2_shop;Bf 109 B-1 (spät)
+bf-109b_2_0;"<color=#81c3fc>Bayerische Flugzeugwerke</color>
+Bf 109 B-1
+<color=#adadad>(spät)</color>"
+bf-109b_2_1;Bf 109 B
+bf-109b_2_2;Bf 109 
+
+bf-109c_1_shop;Bf 109 C-1
+bf-109c_1_0;"<color=#81c3fc>Bayerische Flugzeugwerke</color>
+Bf 109 C-1"
+bf-109c_1_1;Bf 109 C
+bf-109c_1_2;Bf 109
+
+bf-109a_1_shop;Flegel's Bf 109 A-2
+bf-109a_1_0;"<color=#81c3fc>Bayerische Flugzeugwerke</color>
+Bf 109 A-2
+<color=@currencyGoldColor>Norbert Flegel's</color>"
+bf-109a_1_1;Bf 109 A
+bf-109a_1_2;Bf 109
+
+bf-109c_1_promo_shop;◓ Bf 109 C-1
+bf-109c_1_promo_0;"<color=#81c3fc>Bayerische Flugzeugwerke</color>
+◓ Bf 109 C-1"
+bf-109c_1_promo_1;◓ Bf 109 C
+bf-109c_1_promo_2;◓ Bf 109
+
+bf-109e-1_shop;Bf 109 E-1
+bf-109e-1_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 E-1"
+bf-109e-1_1;Bf 109 E
+bf-109e-1_2;Bf 109
+
+bf-109e-3_shop;Bf 109 E-3
+bf-109e-3_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 E-3"
+bf-109e-3_1;Bf 109 E
+bf-109e-3_2;Bf 109
+
+bf-109e-4_shop;Bf 109 E-4
+bf-109e-4_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 E-4"
+bf-109e-4_1;Bf 109 E
+bf-109e-4_2;Bf 109
+
+bf-109e-7_shop;Bf 109 E-7/U2
+bf-109e-7_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 E-7/U2"
+bf-109e-7_1;Bf 109 E
+bf-109e-7_2;Bf 109
+
+bf-109e-3-ace_shop;Bf 109 E-3
+bf-109e-3-ace_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 E-3"
+bf-109e-3-ace_1;Bf 109 E
+bf-109e-3-ace_2;Bf 109
+
+bf-109f-1_shop;Bf 109 F-1
+bf-109f-1_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 F-1"
+bf-109f-1_1;Bf 109 F
+bf-109f-1_2;Bf 109
+
+bf-109f-2_shop;Bf 109 F-2
+bf-109f-2_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 F-2"
+bf-109f-2_1;Bf 109 F
+bf-109f-2_2;Bf 109
+
+bf_109t_2_shop;Bf 109 T-2
+bf_109t_2_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 T-2"
+bf_109t_2_1;Bf 109 T
+bf_109t_2_2;Bf 109
+
+bf-109f-4_shop;Bf 109 F-4
+bf-109f-4_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 F-4"
+bf-109f-4_1;Bf 109 F
+bf-109f-4_2;Bf 109
+
+bf-109f-4_trop_shop;Bf 109 F-4 (Trop.)
+bf-109f-4_trop_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 F-4
+<color=#adadad>(Tropenausrüstung)</color>"
+bf-109f-4_trop_1;Bf 109 F
+bf-109f-4_trop_2;Bf 109
+
+bf-109g-2_romania_shop;╏ Bf 109 G-2
+bf-109g-2_romania_0;"╏ <color=#81c3fc>Messerschmitt</color>
+Bf 109 G-2"
+bf-109g-2_romania_1;╏ Bf 109 G
+bf-109g-2_romania_2;╏ Bf 109
+
+bf-109g-2_shop;Bf 109 G-2 (Trop.)
+bf-109g-2_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 G-2
+<color=#adadad>(Tropenausrüstung)</color>"
+bf-109g-2_1;Bf 109 G
+bf-109g-2_2;Bf 109
+
+bf-109g-6_shop;Bf 109 G-6
+bf-109g-6_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 G-6"
+bf-109g-6_1;Bf 109 G
+bf-109g-6_2;Bf 109
+
+bf-109g-14_shop;Bf 109 G-14/AM
+bf-109g-14_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 G-14/AM"
+bf-109g-14_1;Bf 109 G
+bf-109g-14_2;Bf 109
+
+bf-109g-10_shop;Bf 109 G-10
+bf-109g-10_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 G-10"
+bf-109g-10_1;Bf 109 G
+bf-109g-10_2;Bf 109
+
+bf-109k-4_shop;Bf 109 K-4
+bf-109k-4_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 K-4"
+bf-109k-4_1;Bf 109 K
+bf-109k-4_2;Bf 109
+
+bf-109z_shop;Bf 109 Z
+bf-109z_0;"<color=#81c3fc>Messerschmitt</color>
+Bf 109 Z"
+bf-109z_1;Bf 109 Z
+bf-109z_2;Bf 109
+
+he51a1_shop;He 51 A-1
+he51a1_0;"He 51 A-1"
+he51a1_1;He 51 A
+he51a1_2;He 51
+
+he51b1_shop;He 51 B-1
+he51b1_0;"He 51 B-1"
+he51b1_1;He 51 B
+he51b1_2;He 51
+
+he51c1_shop;He 51 C-1
+he51c1_0;"He 51 C-1"
+he51c1_1;He 51 C
+he51c1_2;He 51
+
+he51c1_late_shop;He 51 C-1 (spät)
+he51c1_late_0;"He 51 C-1
+<color=#adadad>(spät)</color>"
+he51c1_late_1;He 51 C
+he51c1_late_2;He 51
+
+he51b_2w_shop;He 51 B-2
+he51b_2w_0;"He 51 B-2"
+he51b_2w_1;He 51 B
+he51b_2w_2;He 51
+
+he_112v_5_shop;He 112 V5
+he_112v_5_0;"<color=#81c3fc>Heinkel Flugzeugwerke</color>
+He 112 V5"
+he_112v_5_1;He 112
+he_112v_5_2;He 112
+
+he_112a_0_shop;He 112 A-0
+he_112a_0_0;"<color=#81c3fc>Heinkel Flugzeugwerke</color>
+He 112 A-0"
+he_112a_0_1;He 112 A
+he_112a_0_2;He 112
+
+he_112b_0_shop;He 112 B-0
+he_112b_0_0;"<color=#81c3fc>Heinkel Flugzeugwerke</color>
+He 112 B-0"
+he_112b_0_1;He 112 B
+he_112b_0_2;He 112
+
+he_112b_1_shop;◐ He 112 B-1/U2
+he_112b_1_0;"<color=#81c3fc>Heinkel Flugzeugwerke</color>
+◐ He 112 B-1/U2 vadászrepülőgép"
+he_112b_1_1;◐ He 112 B
+he_112b_1_2;◐ He 112
+
+he_112b_2_shop;╏ He 112 B-2/U2
+he_112b_2_0;"<color=#81c3fc>Heinkel Flugzeugwerke</color>
+╏ He 112 B-2/U2"
+he_112b_2_1;╏ He 112 B
+he_112b_2_2;╏ He 112
+
+he_100d_1_shop;He 100 A-0
+he_100d_1_0;"<color=#81c3fc>Heinkel Flugzeugwerke</color>
+He 100 A-0"
+he_100d_1_1;He 100 A
+he_100d_1_2;He 100
+
+do_17z_7_shop;Do 17 Z-7
+do_17z_7_0;"Do 17 Z-7"
+do_17z_7_1;Do 17 Z
+do_17z_7_2;Do 17
+
+do_17z_2_shop;Do 17 Z-2
+do_17z_2_0;"Do 17 Z-2"
+do_17z_2_1;Do 17 Z
+do_17z_2_2;Do 17
+
+do_17e_1_shop;Do 17 E-1
+do_17e_1_0;"Do 17 E-1"
+do_17e_1_1;Do 17 E
+do_17e_1_2;Do 17
+
+do_217j_1_shop;Do 217 J-1
+do_217j_1_0;"Do 217 J-1"
+do_217j_1_1;Do 217 J
+do_217j_1_2;Do 217
+
+do_217j_2_shop;Do 217 J-2
+do_217j_2_0;"Do 217 J-2"
+do_217j_2_1;Do 217 J
+do_217j_2_2;Do 217
+
+do_217n_1_shop;Do 217 N-1
+do_217n_1_0;"Do 217 N-1"
+do_217n_1_1;Do 217 N
+do_217n_1_2;Do 217
+
+do_217n_2_shop;Do 217 N-2
+do_217n_2_0;"Do 217 N-2"
+do_217n_2_1;Do 217 N
+do_217n_2_2;Do 217
+
+do_217e_2_shop;Do 217 E-2
+do_217e_2_0;"Do 217 E-2"
+do_217e_2_1;Do 217 E
+do_217e_2_2;Do 217
+
+do_217e_4_shop;Do 217 E-4
+do_217e_4_0;"Do 217 E-4"
+do_217e_4_1;Do 217 E
+do_217e_4_2;Do 217
+
+hs-123a-1_shop;Hs 123 A-1
+hs-123a-1_0;"Hs 123 A-1"
+hs-123a-1_1;Hs 123 A
+hs-123a-1_2;Hs 123
+
+ju-87b-2_shop;Ju 87 B-2
+ju-87b-2_0;"Ju 87 B-2"
+ju-87b-2_1;Ju 87 B
+ju-87b-2_2;Ju 87
+
+ju-87r-2_shop;Ju 87 R-2
+ju-87r-2_0;"Ju 87 R-2"
+ju-87r-2_1;Ju 87 R
+ju-87r-2_2;Ju 87
+
+ju-87r-2_snake_shop;Ju 87 R-2 (6./StG 2)
+ju-87r-2_snake_0;"Ju 87 R-2
+<color=@currencyGoldColor>6./Sturzkampfgeschwader 2</color>"
+ju-87r-2_snake_1;Ju 87 R
+ju-87r-2_snake_2;Ju 87
+
+ju-87g_1_shop;Ju 87 G-1
+ju-87g_1_0;"Ju 87 G-1"
+ju-87g_1_1;Ju 87 G
+ju-87g_1_2;Ju 87
+
+ju-87g_2_shop;Ju 87 G-2
+ju-87g_2_0;"Ju 87 G-2"
+ju-87g_2_1;Ju 87 G
+ju-87g_2_2;Ju 87
+
+ju-87d-3_shop;Ju 87 D-3
+ju-87d-3_0;"Ju 87 D-3"
+ju-87d-3_1;Ju 87 D
+ju-87d-3_2;Ju 87
+
+ju-87d-5_shop;Ju 87 D-5
+ju-87d-5_0;"Ju 87 D-5"
+ju-87d-5_1;Ju 87 D
+ju-87d-5_2;Ju 87
+
+he_115c_1_shop;He 115 C-1
+he_115c_1_0;"He 115 C-1"
+he_115c_1_1;He 115 C
+he_115c_1_2;He 115
+
+bv-138c-1_shop;BV 138 C-1
+bv-138c-1_0;"BV 138 C-1"
+bv-138c-1_1;BV 138 C
+bv-138c-1_2;BV 138
+
+he-111h-2_shop;He 111 H-3
+he-111h-2_0;"He 111 H-3"
+he-111h-2_1;He 111 H
+he-111h-2_2;He 111
+
+he-111h-6_shop;He 111 H-6
+he-111h-6_0;"He 111 H-6"
+he-111h-6_1;He 111 H
+he-111h-6_2;He 111
+
+he-111h-16_winter_shop;He 111 H-16
+he-111h-16_winter_0;"He 111 H-16"
+he-111h-16_winter_1;He 111 H
+he-111h-16_winter_2;He 111
+
+he-111h-16_tropical_shop;He 111 H-16
+he-111h-16_tropical_0;"He 111 H-16"
+he-111h-16_tropical_1;He 111 H
+he-111h-16_tropical_2;He 111
+
+fiat_cr42_marcolin_shop;▀ Marcolin's CR.42CN
+fiat_cr42_marcolin_0;"▀ CR.42CN
+<color=@currencyGoldColor>Luciano Marcolin's</color>"
+fiat_cr42_marcolin_1;▀ CR.42CN
+fiat_cr42_marcolin_2;▀ CR.42
+
+fiat_cr42_shop;▀ CR.42
+fiat_cr42_0;"▀ CR.42 Falco"
+fiat_cr42_1;▀ CR.42
+fiat_cr42_2;▀ CR.42
+
+fiat_g50_seria2_shop;▀ G.50 II
+fiat_g50_seria2_0;"▀ G.50 serie II Freccia"
+fiat_g50_seria2_1;▀ G.50
+fiat_g50_seria2_2;▀ G.50
+
+fiat_g50_seria7as_shop;▀ G.50 AS VII
+fiat_g50_seria7as_0;"▀ G.50 AS serie VII Freccia"
+fiat_g50_seria7as_1;▀ G.50
+fiat_g50_seria7as_2;▀ G.50
+
+mc200_serie3_shop;▀ C. 200 III
+mc200_serie3_0;"▀ C. 200 serie III Saetta"
+mc200_serie3_1;▀ C. 200
+mc200_serie3_2;▀ C. 200
+
+mc200_serie7_shop;▀ C. 200 serie VII
+mc200_serie7_0;"▀ C. 200 VII Saetta"
+mc200_serie7_1;▀ C. 200
+mc200_serie7_2;▀ C. 200
+
+mc-202_shop;▀ C. 202 VII
+mc-202_0;"▀ C. 202 serie VII Folgore"
+mc-202_1;▀ C. 202 VII
+mc-202_2;▀ C. 202
+
+arado-196a-3_shop;Ar 196 A-3
+arado-196a-3_0;"Ar 196 A-3"
+arado-196a-3_1;Ar 196 A
+arado-196a-3_2;Ar 196
+
+fw-189a-1_shop;Fw 189 A-1
+fw-189a-1_0;"Fw 189 A-1 Uhu"
+fw-189a-1_1;Fw 189 A
+fw-189a-1_2;Fw 189
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+c_3604_shop;Flz. C-3604
+c_3604_0;"<color=#81c3fc>Eidgenössisches Flugzeugwerk</color>
+Flugzeug C-3604"
+c_3604_1;Flz. C-3604
+c_3604_2;Flz. C-36
+
+fw-190a-1_shop;Fw 190 A-1
+fw-190a-1_0;"Fw 190 A-1"
+fw-190a-1_1;Fw 190 A
+fw-190a-1_2;Fw 190
+
+fw-190a-4_shop;Fw 190 A-4
+fw-190a-4_0;"Fw 190 A-4"
+fw-190a-4_1;Fw 190 A
+fw-190a-4_2;Fw 190
+
+fw-190a-5_u2_shop;Fw 190 A-5/U2
+fw-190a-5_u2_0;"Fw 190 A-5/U2"
+fw-190a-5_u2_1;Fw 190 A
+fw-190a-5_u2_2;Fw 190
+
+fw-190d-9_shop;Fw 190 D-9
+fw-190d-9_0;"Fw 190 D-9"
+fw-190d-9_1;Fw 190 D
+fw-190d-9_2;Fw 190
+
+fw_190a_5_u14_shop;Fw 190 A-5/U14
+fw_190a_5_u14_0;"Fw 190 A-5/U14"
+fw_190a_5_u14_1;Fw 190 A
+fw_190a_5_u14_2;Fw 190
+
+fw-190A-5_shop;Fw 190 A-5
+fw-190A-5_0;"Fw 190 A-5"
+fw-190A-5_1;Fw 190 A
+fw-190A-5_2;Fw 190
+
+fw-190a-5_cannons_shop;Fw 190 A-5
+fw-190a-5_cannons_0;"Fw 190 A-5"
+fw-190a-5_cannons_1;Fw 190 A
+fw-190a-5_cannons_2;Fw 190
+
+fw-190a-5_cannons_tutorial_shop;Fw 190 A-5
+fw-190a-5_cannons_tutorial_0;"Fw 190 A-5"
+fw-190a-5_cannons_tutorial_1;Fw 190 A
+fw-190a-5_cannons_tutorial_2;Fw 190
+
+fw-190a-8_shop;Fw 190 A-8
+fw-190a-8_0;"Fw 190 A-8"
+fw-190a-8_1;Fw 190 A
+fw-190a-8_2;Fw 190
+
+fw-190a-5_shop;Fw 190 A-5/U12
+fw-190a-5_0;"Fw 190 A-5/U12"
+fw-190a-5_1;Fw 190 A
+fw-190a-5_2;Fw 190
+
+fw-190d-12_shop;Fw 190 D-12
+fw-190d-12_0;"Fw 190 D-12"
+fw-190d-12_1;Fw 190 D
+fw-190d-12_2;Fw 190
+
+fw-190f-8_shop;Fw 190 F-8
+fw-190f-8_0;"Fw 190 F-8"
+fw-190f-8_1;Fw 190 F
+fw-190f-8_2;Fw 190
+
+fw-190c_shop;Fw 190 C-1
+fw-190c_0;"Fw 190 C-1"
+fw-190c_1;Fw 190 C-1
+fw-190c_2;Fw 190
+
+fw-190d-13_shop;Fw 190 D-13
+fw-190d-13_0;"Fw 190 D-13"
+fw-190d-13_1;Fw 190 D
+fw-190d-13_2;Fw 190
+
+ju-88c-6_shop;Ju 88 C-6
+ju-88c-6_0;"Ju 88 C-6"
+ju-88c-6_1;Ju 88 C
+ju-88c-6_2;Ju 88
+
+ju-88a-1_shop;Ju 88 A-1
+ju-88a-1_0;"Ju 88 A-1"
+ju-88a-1_1;Ju 88 A
+ju-88a-1_2;Ju 88
+
+ju-88a-4_shop;Ju 88 A-4
+ju-88a-4_0;"Ju 88 A-4"
+ju-88a-4_1;Ju 88 A
+ju-88a-4_2;Ju 88
+
+bf-110c-4_shop;Bf 110 C-7
+bf-110c-4_0;"Bf 110 C-7"
+bf-110c-4_1;Bf 110 C
+bf-110c-4_2;Bf 110
+
+bf-110f-2_shop;Bf 110 F-2
+bf-110f-2_0;"Bf 110 F-2"
+bf-110f-2_1;Bf 110 F
+bf-110f-2_2;Bf 110
+
+bf-110g-2_shop;Bf 110 G-2
+bf-110g-2_0;"Bf 110 G-2"
+bf-110g-2_1;Bf 110 G
+bf-110g-2_2;Bf 110
+
+bf_110g_4_shop;Bf 110 G-4
+bf_110g_4_0;"Bf 110 G-4"
+bf_110g_4_1;Bf 110 G-4
+bf_110g_4_2;Bf 110
+
+bf-110c-6_shop;Bf 110 C-6
+bf-110c-6_0;"Bf 110 C-6"
+bf-110c-6_1;Bf 110 C
+bf-110c-6_2;Bf 110
+
+hs-129b-3_shop;Hs 129 B-3
+hs-129b-3_0;"Hs 129 B-3"
+hs-129b-3_1;Hs 129 B
+hs-129b-3_2;Hs 129
+
+hs-129b-2_shop;Hs 129 B-2
+hs-129b-2_0;"Hs 129 B-2"
+hs-129b-2_1;Hs 129 B
+hs-129b-2_2;Hs 129
+
+hs-129b-2_romania_shop;▀╏ Hs 129 B-2
+hs-129b-2_romania_0;"▀╏ Hs 129 B-2"
+hs-129b-2_romania_1;▀╏ Hs 129 B
+hs-129b-2_romania_2;▀╏ Hs 129
+
+me_210a_1_shop;Me 210 A-1 (lang)
+me_210a_1_0;"<color=#81c3fc>Messerschmitt</color>
+Me 210 A-1
+<color=#adadad>(lang)</color>"
+me_210a_1_1;Me 210 A
+me_210a_1_2;Me 210
+
+me-410a-1_u4_shop;Me 410 A-1/U4
+me-410a-1_u4_0;"Me 410 A-1/U4"
+me-410a-1_u4_1;Me 410 A
+me-410a-1_u4_2;Me 410
+
+me-410b-2_u4_shop;Me 410 B-2/U4
+me-410b-2_u4_0;"Me 410 B-2/U4"
+me-410b-2_u4_1;Me 410 B
+me-410b-2_u4_2;Me 410
+
+me-410a-1_u2_shop;Me 410 A-1/U2
+me-410a-1_u2_0;"Me 410 A-1/U2"
+me-410a-1_u2_1;Me 410 A
+me-410a-1_u2_2;Me 410
+
+me-410b-1_u2_shop;Me 410 B-1/U2
+me-410b-1_u2_0;"Me 410 B-1/U2"
+me-410b-1_u2_1;Me 410 B
+me-410b-1_u2_2;Me 410
+
+me-410b-6_r3_shop;Me 410 B-6/R3
+me-410b-6_r3_0;"Me 410 B-6/R3"
+me-410b-6_r3_1;Me 410 B
+me-410b-6_r3_2;Me 410
+
+me-410_shop;Me 410
+me-410_0;"Me 410"
+me-410_1;Me 410
+me-410_2;Me 410
+
+me-410a-1_shop;Me 410 A-1
+me-410a-1_0;"Me 410 A-1"
+me-410a-1_1;Me 410 A
+me-410a-1_2;Me 410
+
+me-410b-1_shop;Me 410 B-1
+me-410b-1_0;"Me 410 B-1"
+me-410b-1_1;Me 410 B
+me-410b-1_2;Me 410
+
+fw_200c_1_shop;Fw 200 C-1
+fw_200c_1_0;"Fw 200 C-1 Condor"
+fw_200c_1_1;Fw 200 C
+fw_200c_1_2;Fw 200
+
+il_2_1942_luftwaffe_shop;▀ Il-2 (1942)
+il_2_1942_luftwaffe_0;"▀ Il-2
+<color=#adadad>(1942)</color>"
+il_2_1942_luftwaffe_1;▀ Il-2
+il_2_1942_luftwaffe_2;▀ Il-2
+
+yak-1b_luftwaffe_shop;▀ Âk-1-127
+yak-1b_luftwaffe_0;"▀ Âk-1 syeriâ 127"
+yak-1b_luftwaffe_1;▀ Âk-1
+yak-1b_luftwaffe_2;▀ Âk-1
+
+bv-238_shop;BV 238 V1
+bv-238_0;"BV 238 V1"
+bv-238_1;BV 238
+bv-238_2;BV 238
+
+wellington_mk1c_luftwaffe_shop;▀ Wellington Mk. Ic
+wellington_mk1c_luftwaffe_0;"▀ Wellington Mk. Ic"
+wellington_mk1c_luftwaffe_1;▀ Wellington Mk. I
+wellington_mk1c_luftwaffe_2;▀ Wellington
+
+h-75a-2_finland_shop;▀ CUw (A-2) (early)
+h-75a-2_finland_0;"▀ CUw (A-2) ""Sussu""
+<color=#adadad>(early)</color>"
+h-75a-2_finland_1;▀ CUw
+h-75a-2_finland_2;▀ CU
+
+sm_79_1936_shop;▀ S.M.79 I (1936)
+sm_79_1936_0;"▀ S.M.79 serie I Sparviero
+<color=#adadad>(1936)</color>"
+sm_79_1936_1;▀ S.M.79 I
+sm_79_1936_2;▀ S.M.79
+
+sm_79_1939_shop;▀ S.M.79 VIII (1939)
+sm_79_1939_0;"▀ S.M.79 serie VIII Sparviero
+<color=#adadad>(1939)</color>"
+sm_79_1939_1;▀ S.M.79 VIII
+sm_79_1939_2;▀ S.M.79
+
+sm_79_1941_shop;▀ S.M.79 AS (1941)
+sm_79_1941_0;"▀ S.M.79 AS Sparviero
+<color=#adadad>(1941)</color>"
+sm_79_1941_1;▀ S.M.79 AS
+sm_79_1941_2;▀ S.M.79
+
+sm_79_1943_shop;▀ S.M.79bis/T.M (1943)
+sm_79_1943_0;"▀ S.M.79bis/T.M Sparviero
+<color=#adadad>(1943)</color>"
+sm_79_1943_1;▀ S.M.79bis/T.M
+sm_79_1943_2;▀ S.M.79
+
+sm_79_iar_shop;▀ S.79-B
+sm_79_iar_0;"<color=#81c3fc>Savoia-Marchetti <color=@commonTextColor>/</color> Industria Aeronautică Română</color>
+▀ S.79-B"
+sm_79_iar_1;▀ S.79-B
+sm_79_iar_2;▀ S.79
+
+sm_79_1937_shop;▀ S.M.79 IV
+sm_79_1937_0;"▀ S.M.79 serie IV Sparviero
+<color=#adadad>(1937)</color>"
+sm_79_1937_1;▀ S.M.79 IV
+sm_79_1937_2;▀ S.M.79
+
+sm_79_1942_shop;▀ S.M.79bis/N (1942)
+sm_79_1942_0;"▀ S.M.79bis/N Sparviero
+<color=#adadad>(1942)</color>"
+sm_79_1942_1;▀ S.M.79bis/N
+sm_79_1942_2;▀ S.M.79
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+do_335a_1_shop;Do 335 A-1
+do_335a_1_0;"Do 335 A-1"
+do_335a_1_1;Do 335 A
+do_335a_1_2;Do 335
+
+do_335a_0_shop;Do 335 A-0
+do_335a_0_0;"Do 335 A-0"
+do_335a_0_1;Do 335 A
+do_335a_0_2;Do 335
+
+do_335b_2_shop;Do 335 B-2
+do_335b_2_0;"Do 335 B-2"
+do_335b_2_1;Do 335 B
+do_335b_2_2;Do 335
+
+me_264_shop;Me 264
+me_264_0;"Me 264"
+me_264_1;Me 264
+me_264_2;Me 264
+
+p-47d_16_re_germany_shop;▀ P-47D-16-RE
+p-47d_16_re_germany_0;"▀ P-47D-16-RE Thunderbolt"
+p-47d_16_re_germany_1;▀ P-47D
+p-47d_16_re_germany_2;▀ P-47
+
+p-47d_luftwaffe_shop;▀ P-47D-27-RE
+p-47d_luftwaffe_0;"▀ P-47D-27-RE Thunderbolt"
+p-47d_luftwaffe_1;▀ P-47D
+p-47d_luftwaffe_2;▀ P-47
+
+ta_154a_1_shop;Ta 154 A-1
+ta_154a_1_0;"Ta 154 A-1"
+ta_154a_1_1;Ta 154 A
+ta_154a_1_2;Ta 154
+
+la-5fn_luftwaffe_shop;▀ La-5-41
+la-5fn_luftwaffe_0;"▀ La-5 Typ 41, serie 34"
+la-5fn_luftwaffe_1;▀ La-5
+la-5fn_luftwaffe_2;▀ La-5
+
+bv-155b-1_shop;BV 155 B-1
+bv-155b-1_0;"BV 155 B-1"
+bv-155b-1_1;BV 155 B-1
+bv-155b-1_2;BV 155
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+ta-152h-1_shop;Ta 152 H-1
+ta-152h-1_0;"Ta 152 H-1"
+ta-152h-1_1;Ta 152 H
+ta-152h-1_2;Ta 152
+
+ta-152c_shop;Ta 152 C-3
+ta-152c_0;"Ta 152 C-3"
+ta-152c_1;Ta 152 C
+ta-152c_2;Ta 152
+
+me-262a-1a_u4_shop;Me 262 A-1/U4
+me-262a-1a_u4_0;"Me 262 A-1/U4 Pulkzerstörer"
+me-262a-1a_u4_1;Me 262 A
+me-262a-1a_u4_2;Me 262
+
+me-262a-1a_shop;Me 262 A-1a
+me-262a-1a_0;"Me 262 A-1a Schwalbe"
+me-262a-1a_1;Me 262 A
+me-262a-1a_2;Me 262
+
+me-262c-1a_shop;Me 262 C-1a
+me-262c-1a_0;"Me 262 C-1a Heimatschützer I"
+me-262c-1a_1;Me 262 C
+me-262c-1a_2;Me 262
+
+me-262c-2b_shop;Me 262 C-2b
+me-262c-2b_0;"Me 262 C-2b Heimatschützer II"
+me-262c-2b_1;Me 262 C
+me-262c-2b_2;Me 262
+
+me-262a-1a_early_shop;Me 262 A-1a/R6
+me-262a-1a_early_0;"Me 262 A-1a/R6"
+me-262a-1a_early_1;Me 262 A
+me-262a-1a_early_2;Me 262
+
+me-262a1_u1_shop;Me 262 A-1a/U1
+me-262a1_u1_0;"Me 262 A-1a/U1"
+me-262a1_u1_1;Me 262 A
+me-262a1_u1_2;Me 262
+
+me-262a-2a_shop;Me 262 A-2a
+me-262a-2a_0;"Me 262 A-2a Sturmvogel"
+me-262a-2a_1;Me 262 A
+me-262a-2a_2;Me 262
+
+ju-188a-2_shop;Ju 188 A-2
+ju-188a-2_0;"Ju 188 A-2"
+ju-188a-2_1;Ju 188 A
+ju-188a-2_2;Ju 188
+
+he-177a-5_shop;He 177 A-5/R3
+he-177a-5_0;"He 177 A-5/R3 Greif"
+he-177a-5_1;He 177 A
+he-177a-5_2;He 177
+
+he-177a-3_shop;He 177 A-3/R3
+he-177a-3_0;"He 177 A-3/R3 Greif"
+he-177a-3_1;He 177 A
+he-177a-3_2;He 177
+
+he_219a_7_shop;He 219 A-7
+he_219a_7_0;"He 219 A-7"
+he_219a_7_1;He 219 A
+he_219a_7_2;He 219
+
+tempest_mkv_luftwaffe_shop;▀ Tempest Mk. V
+tempest_mkv_luftwaffe_0;"▀ Tempest Mk. V"
+tempest_mkv_luftwaffe_1;▀ Tempest Mk. V
+tempest_mkv_luftwaffe_2;▀ Tempest
+
+ju-288c_shop;Ju 288 C
+ju-288c_0;"Ju 288 C"
+ju-288c_1;Ju 288 C
+ju-288c_2;Ju 288
+
+ju-388j_shop;Ju 388 J
+ju-388j_0;"Ju 388 J"
+ju-388j_1;Ju 388 J
+ju-388j_2;Ju 388
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+me-163b_shop;Me 163 B-1
+me-163b_0;"Me 163 B-1 Komet"
+me-163b_1;Me 163 B
+me-163b_2;Me 163
+
+me-163b-0_shop;Me 163 B-0
+me-163b-0_0;"Me 163 B-0 Komet"
+me-163b-0_1;Me 163 B
+me-163b-0_2;Me 163
+
+he-162a-2_shop;He 162 A-2
+he-162a-2_0;"He 162 A-2"
+he-162a-2_1;He 162 A
+he-162a-2_2;He 162
+
+he-162a-1_shop;He 162 A-1
+he-162a-1_0;"He 162 A-1"
+he-162a-1_1;He 162 A
+he-162a-1_2;He 162 A
+
+mig-15bis_nr23_german_shop;◊ MiG-15bis
+mig-15bis_nr23_german_0;"◊ MiG-15bis"
+mig-15bis_nr23_german_1;◊ MiG-15bis
+mig-15bis_nr23_german_2;◊ MiG-15
+
+go229_v3_shop;Ho 229 V3
+go229_v3_0;"Ho 229 V3"
+go229_v3_1;Ho 229 V3
+go229_v3_2;Ho 229
+
+arado-234_shop;Ar 234 B-2
+arado-234_0;"Ar 234 B-2"
+arado-234_1;Ar 234 B
+arado-234_2;Ar 234
+
+arado-234c-3_shop;Ar 234 C-3
+arado-234c-3_0;"Ar 234 C-3"
+arado-234c-3_1;Ar 234 C
+arado-234c-3_2;Ar 234
+
+il_28_german_shop;◊ Il-28
+il_28_german_0;"◊ Il-28"
+il_28_german_1;◊ Il-28
+il_28_german_2;◊ Il-28
+
+sea_hawk_mk100_shop;◄ Sea Hawk Mk. 100
+sea_hawk_mk100_0;"◄ Sea Hawk Mk. 100"
+sea_hawk_mk100_1;◄ Sea Hawk MK. 100
+sea_hawk_mk100_2;◄ Sea Hawk
+
+fiat_g91_r4_german_shop;◄ G.91 R/4
+fiat_g91_r4_german_0;"◄ G.91 R/4"
+fiat_g91_r4_german_1;◄ G.91 R
+fiat_g91_r4_german_2;◄ G.91
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+f-86_canadair_german_shop;◄ Sabre Mk. 5
+f-86_canadair_german_0;"◄ CL-13A Sabre Mk. 5"
+f-86_canadair_german_1;◄ Sabre Mk. 5
+f-86_canadair_german_2;◄ Sabre
+
+f-86_cl_13b_mk6_shop;◄ Sabre Mk. 6
+f-86_cl_13b_mk6_0;"◄ CL-13B Sabre Mk. 6"
+f-86_cl_13b_mk6_1;◄ Sabre Mk. 6
+f-86_cl_13b_mk6_2;◄ Sabre
+
+f-86k_late_german_shop;◄ F-86K
+f-86k_late_german_0;"◄ F-86K Sabre"
+f-86k_late_german_1;◄ F-86K
+f-86k_late_german_2;◄ F-86
+
+mig-17p_lim_5p_shop;◊ Lim-5P
+mig-17p_lim_5p_0;"◊ Lim-5P"
+mig-17p_lim_5p_1;◊ Lim-5P
+mig-17p_lim_5p_2;◊ Lim-5
+
+mig-19s_shop;◊ MiG-19S
+mig-19s_0;"<color=#5cae63>izd. 26</color>
+◊ MiG-19S"
+mig-19s_1;◊ MiG-19S
+mig-19s_2;◊ MiG-19
+
+fiat_g91_r3_shop;◄ G.91 R/3
+fiat_g91_r3_0;"◄ G.91 R/3"
+fiat_g91_r3_1;◄ G.91 R
+fiat_g91_r3_2;◄ G.91
+
+alpha_jet_a_shop;◄ Alpha Jet A
+alpha_jet_a_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@commonTextColor>+</color> Dornier Flugzeugwerke</color>
+◄ Alpha Jet A"
+alpha_jet_a_1;◄ Alpha Jet A
+alpha_jet_a_2;◄ Alpha Jet A
+
+alpha_jet_a_jabog41_shop;◄ Alpha Jet A (JaboG 41)
+alpha_jet_a_jabog41_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke</color>
+◄ Alpha Jet A
+<color=@currencyGoldColor>Jagdbombergeschwader 41</color>"
+alpha_jet_a_jabog41_1;◄ Alpha Jet A
+alpha_jet_a_jabog41_2;◄ Alpha Jet
+
+f-84f_germany_shop;◄ F-84F-81-RE
+f-84f_germany_0;"◄ F-84F-81-RE Thunderstreak"
+f-84f_germany_1;◄ F-84F
+f-84f_germany_2;◄ F-84
+
+hunter_f58a_1971_switzerland_shop;◌ Hunter Mk. 58A
+hunter_f58a_1971_switzerland_0;"<color=#81c3fc>Hawker Siddeley Aviation</color>
+◌ Hunter Mk. 58A"
+hunter_f58a_1971_switzerland_1;◌ Hunter Mk. 58
+hunter_f58a_1971_switzerland_2;◌ Hunter
+
+hunter_f58_switzerland_shop;◌ Hunter Mk. 58A (80/2)
+hunter_f58_switzerland_0;"<color=#81c3fc>Hawker Siddeley Aviation</color>
+◌ Hunter Mk. 58A
+<color=#adadad>(Hunter 80/2)</color>"
+hunter_f58_switzerland_1;◌ Hunter Mk. 58
+hunter_f58_switzerland_2;◌ Hunter
+
 mig_23bn_shop;◊ MiG-23BN
 mig_23bn_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye</color>
 <color=#5cae63>Erzeugn. 32-24B</color>
@@ -267,19 +2679,581 @@ mig_23bn_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedi
 mig_23bn_1;◊ MiG-23BN
 mig_23bn_2;◊ MiG-23
 
+mig_23mla_shop;◊ MiG-23ML
+mig_23mla_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye</color>
+<color=#5cae63>Erzeugn. 23-12A</color>
+◊ MiG-23ML"
+mig_23mla_1;◊ MiG-23ML
+mig_23mla_2;◊ MiG-23
+
+mig_23mf_germany_shop;◊ MiG-23MF
+mig_23mf_germany_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye</color>
+<color=#5cae63>Erzeugn. 23-11A</color>
+◊ MiG-23MF"
+mig_23mf_germany_1;◊ MiG-23MF
+mig_23mf_germany_2;◊ MiG-23
+
+mig-21_sps_k_shop;◄ MiG-21SPSK
+mig-21_sps_k_0;"<color=#5cae63>izd. 94A</color>
+◄ MiG-21SPSK"
+mig-21_sps_k_1;◄ MiG-21SPSK
+mig-21_sps_k_2;◄ MiG-21
+
+ffa_p16_shop;P-16 Mk III
+ffa_p16_0;"<color=#81c3fc>Flug- und Fahrzeugwerke Altenrhein</color>
+P-16 Mk III"
+ffa_p16_1;P-16 Mk III
+ffa_p16_2;P-16
+
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+f-104g_shop;◄ F-104G
+f-104g_0;"◄ F-104G Starfighter"
+f-104g_1;◄ F-104G
+f-104g_2;◄ F-104
+
+f-4f_late_shop;◄ F-4F-59-MC (PR)
+f-4f_late_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98NQ</color>
+◄ F-4F-59-MC
+<color=#adadad>(Peace Rhine (Stage 2))</color>"
+f-4f_late_1;◄ F-4F
+f-4f_late_2;◄ F-4
+
+f-4f_shop;◄ F-4F-59-MC
+f-4f_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98NQ</color>
+◄ F-4F-59-MC"
+f-4f_1;◄ F-4F
+f-4f_2;◄ F-4
+
+f-4f_kws_lv_shop;◄ F-4F KWS-LV
+f-4f_kws_lv_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98NQ</color>
+◄ F-4F Kampfwertsteigerung Luftverteidigung"
+f-4f_kws_lv_1;◄ F-4F
+f-4f_kws_lv_2;◄ F-4
+
+mig-21_mf_shop;◊ MiG-21MF
+mig-21_mf_0;"<color=#5cae63>izd. 96F</color>
+◊ MiG-21MF"
+mig-21_mf_1;◊ MiG-21MF
+mig-21_mf_2;◊ MiG-21
+
+mig-21_bis_sau_shop;◊ MiG-21bis (SAU)
+mig-21_bis_sau_0;"<color=#5cae63>izd. 75B</color>
+◊ MiG-21bis
+<color=#adadad>(SAU)</color>"
+mig-21_bis_sau_1;◊ MiG-21bis
+mig-21_bis_sau_2;◊ MiG-21
+
+mig-21_bis_lazur_shop;◊ MiG-21bis (Lazur)
+mig-21_bis_lazur_0;"<color=#5cae63>izd. 75A</color>
+◊ MiG-21bis
+<color=#adadad>(Lazur)</color>"
+mig-21_bis_lazur_1;◊ MiG-21bis
+mig-21_bis_lazur_2;◊ MiG-21
+
+su_22um3k_shop;◊ Su-22UM3K
+su_22um3k_0;"<color=#81c3fc>Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina</color>
+<color=#5cae63>Erzeugn. S-52UM3K</color>
+◊ Su-22UM3K"
+su_22um3k_1;◊ Su-22UM
+su_22um3k_2;◊ Su-22
+
+su_22m4_shop;◊ Su-22M4
+su_22m4_0;"<color=#81c3fc>Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina</color>
+<color=#5cae63>Erzeugn. S-54K</color>
+◊ Su-22M4"
+su_22m4_1;◊ Su-22M
+su_22m4_2;◊ Su-22
+
+su_22m4_de_wtd61_shop;◄ Su-22M4 (WTD 61)
+su_22m4_de_wtd61_0;"<color=#81c3fc>Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina</color>
+<color=#5cae63>Erzeugn. S-54K</color>
+◄ Su-22M4 Fitter-K
+<color=@currencyGoldColor>Wehrtechnische Dienststelle 61</color>"
+su_22m4_de_wtd61_1;◄ Su-22M
+su_22m4_de_wtd61_2;◄ Su-22
+
+tornado_ids_de_wtd61_shop;◄ IDS-Tornado (WTD 61)
+tornado_ids_de_wtd61_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+◄ IDS-Tornado
+<color=#adadad>(Batch 2)</color>
+<color=@currencyGoldColor>Wehrtechnische Dienststelle 61</color>"
+tornado_ids_de_wtd61_1;◄ IDS-Tornado
+tornado_ids_de_wtd61_2;◄ IDS-Tornado
+
+tornado_ids_de_assta1_shop;◄ IDS-Tornado (ASSTA 3)
+tornado_ids_de_assta1_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+◄ IDS-Tornado
+<color=#adadad>(Avionics System Software Tornado in ADA 3)</color>"
+tornado_ids_de_assta1_1;◄ IDS-Tornado
+tornado_ids_de_assta1_2;◄ IDS-Tornado
+
+tornado_ids_de_mfg_shop;◄ IDS-Tornado (MFG)
+tornado_ids_de_mfg_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+◄ IDS-Tornado
+<color=#adadad>(Batch 2)</color>
+<color=@currencyGoldColor>Marinefliegerkommando</color>"
+tornado_ids_de_mfg_1;◄ IDS-Tornado
+tornado_ids_de_mfg_2;◄ IDS-Tornado
+
+tornado_ids_de_assta3_sle_shop;◄ IDS-Tornado (SLE)
+tornado_ids_de_assta3_sle_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+◄ IDS-Tornado
+<color=#adadad>(Service Life Enhancement Program)</color>"
+tornado_ids_de_assta3_sle_1;◄ IDS-Tornado
+tornado_ids_de_assta3_sle_2;◄ IDS-Tornado
+
+mirage_3s_c70_switzerland_shop;◌ Mirage III S C.70
+mirage_3s_c70_switzerland_0;"<color=#81c3fc>Avions Marcel Dassault <color=@commonTextColor>/</color> Eidgenössisches Flugzeugwerk</color>
+◌ Mirage III S C.70 ""MIRO"""
+mirage_3s_c70_switzerland_1;◌ Mirage III S
+mirage_3s_c70_switzerland_2;◌ Mirage III
+
+f-5e_switzerland_shop;◌ F5 E (1999)
+f-5e_switzerland_0;"<color=#81c3fc>Northrop Corporation F-5-21</color>
+◌ F5 E Tiger II
+<color=#adadad>(1999)</color>"
+f-5e_switzerland_1;◌ F5 E (1999)
+f-5e_switzerland_2;◌ F5
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+mig_29_9_12_germany_shop;◊ MiG-29 (9-12A)
+mig_29_9_12_germany_0;"<color=#5cae63>izd. 9-12A</color>
+◊ MiG-29"
+mig_29_9_12_germany_1;◊ MiG-29
+mig_29_9_12_germany_2;◊ MiG-29
+
+mig_29_9_12g_shop;◄ MiG-29G
+mig_29_9_12g_0;"◄ MiG-29G Fulcrum"
+mig_29_9_12g_1;◄ MiG-29G
+mig_29_9_12g_2;◄ MiG-29
+
+fa_18c_switzerland_shop;◌ F/A18 C
+fa_18c_switzerland_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267 <color=@commonTextColor>/</color> Schweizer Flugzeuge
+und System</color>
+◌ F/A18 C Hornet"
+fa_18c_switzerland_1;◌ F/A18 C
+fa_18c_switzerland_2;◌ F/A18
+
+fa_18c_late_switzerland_shop;◌ F/A18 C (Upgrade 25)
+fa_18c_late_switzerland_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267 <color=@commonTextColor>/</color> Schweizer Flugzeuge
+und System <color=@commonTextColor>/</color> Boeing Defense, Space & Security</color>
+◌ F/A18 C Hornet
+<color=#adadad>(Upgrade 25)</color>"
+fa_18c_late_switzerland_1;◌ F/A18 C
+fa_18c_late_switzerland_2;◌ F/A18
+
+//GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 9
+ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
+ef_2000_block_10_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10)</color>
+◄ Eurofighter
+<color=#adadad>(Phase 3 Enhancement A)</color>"
+ef_2000_block_10_1;◄ Eurofighter
+ef_2000_block_10_2;◄ Eurofighter
+
+ef_2000_aesa_shop;◄ Eurofighter (P3Ec1)
+ef_2000_aesa_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10)</color>
+◄ Eurofighter
+<color=#adadad>(Phase 3 Enhancement C Step 1)</color>"
+ef_2000_aesa_1;◄ Eurofighter
+ef_2000_aesa_2;◄ Eurofighter
 
 //GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+sa_313b_shop;◄ SE 313 B
+sa_313b_0;"◄ SE 313 B Alouette II"
+sa_313b_1;◄ SE 313 B
+sa_313b_2;◄ SE 313
+
+uh_1d_shop;◄ UH-1D
+uh_1d_0;"◄ UH-1D"
+uh_1d_1;◄ UH-1D
+uh_1d_2;◄ UH-1
+
+mi_8tb_shop;◊ Mi-8TBK
+mi_8tb_0;"◊ Mi-8TBK"
+mi_8tb_1;◊ Mi-8TBK
+mi_8tb_2;◊ Mi-8
+
+bo_105cb2_shop;BO 105 CB-2 (HeliTOW)
+bo_105cb2_0;"<color=#7ce68f>BO 105 CB-2</color>
+försökspansarvärnshelikopter med pansarvärnrobotsystemet HeliTOW"
+bo_105cb2_1;BO 105 CB
+bo_105cb2_2;BO 105
 
 //GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+bo_105pah1_shop;PAH 1
+bo_105pah1_0;"Panzerabwehrhubschrauber 1"
+bo_105pah1_1;PAH 1
+bo_105pah1_2;PAH 1
+
+bo_105pah1_a1_shop;PAH 1 A1
+bo_105pah1_a1_0;"Panzerabwehrhubschrauber 1 A1"
+bo_105pah1_a1_1;PAH 1 A1
+bo_105pah1_a1_2;PAH 1
+
+mi_24p_german_shop;◊ Mi-24P
+mi_24p_german_0;"◊ Mi-24P"
+mi_24p_german_1;◊ Mi-24P
+mi_24p_german_2;◊ Mi-24
+
+mi_24p_german_hfs80_shop;◄ Mi-24P (HFS 80)
+mi_24p_german_hfs80_0;"◄ Mi-24P
+<color=@currencyGoldColor>Heeresfliegerstaffel 80</color>"
+mi_24p_german_hfs80_1;◄ Mi-24P
+mi_24p_german_hfs80_2;◄ Mi-24P
 
 //GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+tiger_uht_shop;◄ KH Tiger
+tiger_uht_0;"<color=#81c3fc>Eurocopter EC-665</color>
+◄ Kampfhubschrauber Tiger"
+tiger_uht_1;◄ KH Tiger
+tiger_uht_2;◄ Tiger
+
+tiger_had_spain_shop;HA.28 HAD/E (Bloque 1)
+tiger_had_spain_0;"<color=#81c3fc>Eurocopter EC-665</color>
+HA.28 Tigre, Helicóptero de Ataque y Destrucción
+<color=#adadad>(Bloque 1)</color>"
+tiger_had_spain_1;HA.28 HAD
+tiger_had_spain_2;HA.28
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+germ_garford_putilov_shop;◄ Pzw. Garford (Beute)
+germ_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Putilovskij zavod</color>
+◄ Panzerwagen Garford (Beute)"
+germ_garford_putilov_1;◄ Pzw. Garford (Beute)
+germ_garford_putilov_2;Armored Car
+
+germ_pzkpfw_35t_shop;Pz.Kpfw. 35 (t)
+germ_pzkpfw_35t_0;"Panzerkampfwagen 35 (t)"
+germ_pzkpfw_35t_1;Pz.Kpfw. 35
+germ_pzkpfw_35t_2;Light Tank
+
+germ_pzkpfw_35t_romania_mare_shop;R-2
+germ_pzkpfw_35t_romania_mare_0;"Tanc ușor R-2"
+germ_pzkpfw_35t_romania_mare_1;R-2
+germ_pzkpfw_35t_romania_mare_2;Light Tank
+
+germ_pzkpfw_38t_ausf_A_shop;Pz.Kpfw. 38 (t) A
+germ_pzkpfw_38t_ausf_A_0;"Panzerkampfwagen 38 (t) Ausf. A"
+germ_pzkpfw_38t_ausf_A_1;Pz.Kpfw. 38
+germ_pzkpfw_38t_ausf_A_2;Light Tank
+
+germ_pzkpfw_38t_ausf_F_shop;Pz.Kpfw. 38 (t) F
+germ_pzkpfw_38t_ausf_F_0;"Panzerkampfwagen 38 (t) Ausf. F"
+germ_pzkpfw_38t_ausf_F_1;Pz.Kpfw. 38
+germ_pzkpfw_38t_ausf_F_2;Light Tank
+
+germ_pzkpfw_38t_na_shop;Pz.Kpfw. 38 (t) n.A.
+germ_pzkpfw_38t_na_0;"Panzerkampfwagen 38 (t) neuer Art"
+germ_pzkpfw_38t_na_1;Pz.Kpfw. 38 (t)
+germ_pzkpfw_38t_na_2;Light Tank
+
+germ_beutepanzer_mk_iv_shop;s.Kpfw. (Beute)
+germ_beutepanzer_mk_iv_0;"<color=#81c3fc>William Foster & Co.</color>
+schwerer Kampfwagen (Beute)"
+germ_beutepanzer_mk_iv_1;s.Kpfw. (Beute)
+germ_beutepanzer_mk_iv_2;Medium Tank
+
+germ_a7v_shop;s.Kpfw. A7V
+germ_a7v_0;"<color=#81c3fc>Daimler Motoren Gesellschaft</color>
+schwerer Kampfwagen A7V"
+germ_a7v_1;s.Kpfw. A7V
+germ_a7v_2;SPG
+
+germ_pzkpfw_III_ausf_E_shop;Pz.Kpfw. III E
+germ_pzkpfw_III_ausf_E_0;"Panzerkampfwagen III Ausf. E"
+germ_pzkpfw_III_ausf_E_1;Pz.Kpfw. III E
+germ_pzkpfw_III_ausf_E_2;Medium Tank
+
+germ_pzkpfw_III_ausf_B_shop;Pz.Kpfw. III B
+germ_pzkpfw_III_ausf_B_0;"Panzerkampfwagen III Ausf. B"
+germ_pzkpfw_III_ausf_B_1;Pz.Kpfw. III B
+germ_pzkpfw_III_ausf_B_2;Medium Tank
+
+germ_pzkpfw_III_ausf_F_shop;Pz.Kpfw. III F
+germ_pzkpfw_III_ausf_F_0;"Panzerkampfwagen III Ausf. F"
+germ_pzkpfw_III_ausf_F_1;Pz.Kpfw. III F
+germ_pzkpfw_III_ausf_F_2;Medium Tank
+
+germ_pzkpfw_III_ausf_J_L42_shop;Pz.Kpfw. III J
+germ_pzkpfw_III_ausf_J_L42_0;"Panzerkampfwagen III Ausf. J"
+germ_pzkpfw_III_ausf_J_L42_1;Pz.Kpfw. III J
+germ_pzkpfw_III_ausf_J_L42_2;Medium Tank
+
+germ_pzkpfw_III_ausf_J_shop;Pz.Kpfw. III J1
+germ_pzkpfw_III_ausf_J_0;"Panzerkampfwagen III Ausf. J1"
+germ_pzkpfw_III_ausf_J_1;Pz.Kpfw. III J1
+germ_pzkpfw_III_ausf_J_2;Medium Tank
+
+germ_pzkpfw_III_ausf_L_tutorial_shop;Pz.Kpfw. III L
+germ_pzkpfw_III_ausf_L_tutorial_0;"Panzerkampfwagen III Ausf. L"
+germ_pzkpfw_III_ausf_L_tutorial_1;Pz.Kpfw. III L
+germ_pzkpfw_III_ausf_L_tutorial_2;Medium Tank
+
+germ_pzkpfw_III_ausf_L_shop;Pz.Kpfw. III L
+germ_pzkpfw_III_ausf_L_0;"Panzerkampfwagen III Ausf. L"
+germ_pzkpfw_III_ausf_L_1;Pz.Kpfw. III L
+germ_pzkpfw_III_ausf_L_2;Medium Tank
+
+germ_pzkpfw_III_ausf_M_shop;Pz.Kpfw. III M
+germ_pzkpfw_III_ausf_M_0;"Panzerkampfwagen III Ausf. M"
+germ_pzkpfw_III_ausf_M_1;Pz.Kpfw. III M
+germ_pzkpfw_III_ausf_M_2;Medium Tank
+
+germ_pzkpfw_III_ausf_N_shop;Pz.Kpfw. III N
+germ_pzkpfw_III_ausf_N_0;"Panzerkampfwagen III Ausf. N"
+germ_pzkpfw_III_ausf_N_1;Pz.Kpfw. III N
+germ_pzkpfw_III_ausf_N_2;Medium Tank
+
+germ_pzkpfw_III_ausf_E_race_shop;Pz.Kpfw. III E
+germ_pzkpfw_III_ausf_E_race_0;"Panzerkampfwagen III Ausf. E"
+germ_pzkpfw_III_ausf_E_race_1;Pz.Kpfw. III E
+germ_pzkpfw_III_ausf_E_race_2;Medium Tank
+
+germ_pzkpfw_III_ausf_J_td_shop;⋦ Pz.Kpfw. III J1
+germ_pzkpfw_III_ausf_J_td_0;"⋦ Panzerkampfwagen III Ausf. J1"
+germ_pzkpfw_III_ausf_J_td_1;⋦ Pz.Kpfw. III J
+germ_pzkpfw_III_ausf_J_td_2;Light Tank
+
+germ_pzkpfw_IV_ausf_C_shop;Pz.Kpfw. IV C
+germ_pzkpfw_IV_ausf_C_0;"Panzerkampfwagen IV Ausf. C"
+germ_pzkpfw_IV_ausf_C_1;Pz.Kpfw. IV C
+germ_pzkpfw_IV_ausf_C_2;Medium Tank
+
+germ_pzkpfw_IV_ausf_E_shop;Pz.Kpfw. IV E
+germ_pzkpfw_IV_ausf_E_0;"Panzerkampfwagen IV Ausf. E"
+germ_pzkpfw_IV_ausf_E_1;Pz.Kpfw. IV E
+germ_pzkpfw_IV_ausf_E_2;Medium Tank
+
+germ_pzkpfw_IV_ausf_F_shop;Pz.Kpfw. IV F1
+germ_pzkpfw_IV_ausf_F_0;"Panzerkampfwagen IV Ausf. F1"
+germ_pzkpfw_IV_ausf_F_1;Pz.Kpfw. IV F1
+germ_pzkpfw_IV_ausf_F_2;Medium Tank
+
+germ_pzkpfw_IV_ausf_F2_shop;Pz.Kpfw. IV F2
+germ_pzkpfw_IV_ausf_F2_0;"Panzerkampfwagen IV Ausf. F2"
+germ_pzkpfw_IV_ausf_F2_1;Pz.Kpfw. IV F2
+germ_pzkpfw_IV_ausf_F2_2;Medium Tank
+
+germ_pzkpfw_IV_ausf_G_shop;Pz.Kpfw. IV G
+germ_pzkpfw_IV_ausf_G_0;"Panzerkampfwagen IV Ausf. G"
+germ_pzkpfw_IV_ausf_G_1;Pz.Kpfw. IV G
+germ_pzkpfw_IV_ausf_G_2;Medium Tank
+
+germ_pzkpfw_IV_ausf_H_shop;Pz.Kpfw. IV H
+germ_pzkpfw_IV_ausf_H_0;"Panzerkampfwagen IV Ausf. H"
+germ_pzkpfw_IV_ausf_H_1;Pz.Kpfw. IV H
+germ_pzkpfw_IV_ausf_H_2;Medium Tank
+
+germ_pzkpfw_IV_ausf_J_shop;Pz.Kpfw. IV J
+germ_pzkpfw_IV_ausf_J_0;"Panzerkampfwagen IV Ausf. J"
+germ_pzkpfw_IV_ausf_J_1;Pz.Kpfw. IV J
+germ_pzkpfw_IV_ausf_J_2;Medium Tank
+
+germ_nbfz_VI_shop;Nb.-Pz.Kpfw. IV
+germ_nbfz_VI_0;"Neubau-Panzerkampfwagen IV
+<color=#adadad>(3,7cm & 7,5cm)</color>"
+germ_nbfz_VI_1;Nb.-Pz.Kpfw. IV
+germ_nbfz_VI_2;Medium Tank
+
+germ_pzkpfw_II_ausf_C_shop;Pz.Kpfw. II C
+germ_pzkpfw_II_ausf_C_0;"Panzerkampfwagen II Ausf. C"
+germ_pzkpfw_II_ausf_C_1;Pz.Kpfw. II C
+germ_pzkpfw_II_ausf_C_2;Light Tank
+
+germ_pzkpfw_II_ausf_F_shop;Pz.Kpfw. II F
+germ_pzkpfw_II_ausf_F_0;"Panzerkampfwagen II Ausf. F"
+germ_pzkpfw_II_ausf_F_1;Pz.Kpfw. II F
+germ_pzkpfw_II_ausf_F_2;Light Tank
+
+germ_pzkpfw_II_ausf_C_td_shop;⋦ Pz.Kpfw. II C
+germ_pzkpfw_II_ausf_C_td_0;"⋦ Panzerkampfwagen II Ausf. C"
+germ_pzkpfw_II_ausf_C_td_1;⋦ Pz.Kpfw. II C
+germ_pzkpfw_II_ausf_C_td_2;Light Tank
+
+germ_pzkpfw_II_ausf_C_DAK_shop;Pz.Kpfw. II C (DAK)
+germ_pzkpfw_II_ausf_C_DAK_0;"Panzerkampfwagen II Ausf. C
+<color=#adadad>(DAK)</color>"
+germ_pzkpfw_II_ausf_C_DAK_1;Pz.Kpfw. II C (DAK)
+germ_pzkpfw_II_ausf_C_DAK_2;Light Tank
+
+germ_flakpanzer_I_ausf_A_shop;Pz.Kpfw. I A (2cm Fla.K. 38)
+germ_flakpanzer_I_ausf_A_0;"gepanzerter Munitionsschlepper auf Fahrgestell Pz.Kpfw. I Ausf. A mit
+2cm Fla.K. 38 (Sf.)"
+germ_flakpanzer_I_ausf_A_1;Pz.Kpfw. I (2cm Fla.K. 38)
+germ_flakpanzer_I_ausf_A_2;SPAA
+
+germ_flakpanzer_38t_Gepard_shop;Flak.Pz. 38
+germ_flakpanzer_38t_Gepard_0;"Flakpanzer 38 auf Selbstfahrlafette 38 Ausf. L"
+germ_flakpanzer_38t_Gepard_1;Flak.Pz. 38
+germ_flakpanzer_38t_Gepard_2;SPAA
+
+germ_sdkfz_222_shop;le.Pz.Spw. (2cm) B
+germ_sdkfz_222_0;"<color=#5cae63>Sd.Kfz. 222</color>
+leichter Panzerspähwagen (2cm) Ausf. B
+<color=#adadad>(5. Serie) (May 1942)</color>"
+germ_sdkfz_222_1;le.Pz.Spw. (2cm)
+germ_sdkfz_222_2;SPAA
+
+germ_sdkfz_6_2_flak36_shop;Zgkw. 5t (3,7cm)
+germ_sdkfz_6_2_flak36_0;"3,7cm Fla.K. 36 auf Fahrgestell Zugkraftwagen 5t"
+germ_sdkfz_6_2_flak36_1;Zgkw. 5t (3,7cm)
+germ_sdkfz_6_2_flak36_2;SPAA
+
+germ_sturmpanzer_II_shop;15cm s.I.G. 33 (Sfl) Pz.Kpfw. II B
+germ_sturmpanzer_II_0;"15cm s.I.G. 33 (Sfl.) auf Fahrgestell Panzerkampfwagen II Ausf. B"
+germ_sturmpanzer_II_1;15cm (Sfl.) Pz.Kpfw. II B
+germ_sturmpanzer_II_2;SPG
+
+germ_sdkfz_221_s_pz_b_41_shop;le.Pz.Spw. (s.Pz.B. 41)
+germ_sdkfz_221_s_pz_b_41_0;"<color=#5cae63>Sd.Kfz. 221</color>
+leichter Panzerspähwagen
+<color=#adadad>(s.Pz.B. 41) (2. Serie)</color>"
+germ_sdkfz_221_s_pz_b_41_1;le.Pz.Spw. (s.Pz.B. 41)
+germ_sdkfz_221_s_pz_b_41_2;SPG
+
+germ_panzerjager_1_shop;Pz.Jgr. I
+germ_panzerjager_1_0;"<color=#7ce68f>4,7cm Pa.K. 36(t) (Sfl.) auf Fahrgestell Panzerkampfwagen I (II Serie)</color>
+Panzerjäger I"
+germ_panzerjager_1_1;Pz.Jgr. I
+germ_panzerjager_1_2;SPG
+
+germ_sdkfz_251_9_shop;m.S.P.W. D (7,5cm K.)
+germ_sdkfz_251_9_0;"<color=#5cae63>Sd.Kfz. 251/9</color>
+mittlerer Schützenpanzerwagen Ausf. D
+<color=#adadad>(7,5cm K.)</color>"
+germ_sdkfz_251_9_1;m.S.P.W. (7,5cm K.)
+germ_sdkfz_251_9_2;SPG
+
+germ_sdkfz_251_21_shop;m.S.P.W. D (1,5cm Drilling)
+germ_sdkfz_251_21_0;"<color=#5cae63>Sd.Kfz. 251/21</color>
+mittlerer Schützenpanzerwagen Ausf. D
+<color=#adadad>(1,5cm Drilling)</color>"
+germ_sdkfz_251_21_1;m.S.P.W. (1,5cm Drilling)
+germ_sdkfz_251_21_2;SPAA
+
+germ_sdkfz_251_10_shop;m.S.P.W. D (3,7cm Pa.K.)
+germ_sdkfz_251_10_0;"<color=#5cae63>Sd.Kfz. 251/10</color>
+mittlerer Schützenpanzerwagen Ausf. D
+<color=#adadad>(3,7cm Pa.K.)</color>"
+germ_sdkfz_251_10_1;m.S.P.W. (3,7cm Pa.K.)
+germ_sdkfz_251_10_2;SPG
+
+germ_sdkfz_251_22_shop;m.S.P.W. D (7,5cm Pa.K.)
+germ_sdkfz_251_22_0;"<color=#5cae63>Sd.Kfz. 251/22</color>
+mittlerer Schützenpanzerwagen Ausf. D
+<color=#adadad>(7,5cm Pa.K.)</color>"
+germ_sdkfz_251_22_1;m.S.P.W. (7,5cm Pa.K.)
+germ_sdkfz_251_22_2;SPG
+
+germ_pzkpfw_38t_Marder_III_shop;Marder III
+germ_pzkpfw_38t_Marder_III_0;"<color=#7ce68f>Panzerjäger 38 (t) für 7,62cm Pa.K. 36 (r)</color>
+Marder III
+<color=#adadad>(2. Serie mit 1. Serie geschütz)</color>"
+germ_pzkpfw_38t_Marder_III_1;Marder III
+germ_pzkpfw_38t_Marder_III_2;SPG
+
+germ_pzkpfw_38t_Marder_III_ausf_H_shop;Marder III H
+germ_pzkpfw_38t_Marder_III_ausf_H_0;"<color=#7ce68f>Panzerjäger 38 (t) für 7,5cm Pa.K. 40/3 Ausf. H</color>
+Marder III H"
+germ_pzkpfw_38t_Marder_III_ausf_H_1;Marder III H
+germ_pzkpfw_38t_Marder_III_ausf_H_2;SPG
+
+germ_stug_III_ausf_A_shop;StuG III A
+germ_stug_III_ausf_A_0;"Sturmgeschütz III Ausf. A"
+germ_stug_III_ausf_A_1;StuG III A
+germ_stug_III_ausf_A_2;SPG
+
+germ_stug_III_ausf_F_shop;StuG III F
+germ_stug_III_ausf_F_0;"Sturmgeschütz III Ausf. F"
+germ_stug_III_ausf_F_1;StuG III F
+germ_stug_III_ausf_F_2;SPG
+
+germ_stug_III_ausf_G_shop;StuG III G
+germ_stug_III_ausf_G_0;"Sturmgeschütz III Ausf. G"
+germ_stug_III_ausf_G_1;StuG III G
+germ_stug_III_ausf_G_2;SPG
+
+germ_pzkpfw_38t_Aufklarungspanzer_shop;Aufkl.Pz.Kpfw. 38 (2cm)
+germ_pzkpfw_38t_Aufklarungspanzer_0;"<color=#5cae63>Sd.Kfz. 140/1</color>
+Aufklärungspanzer 38
+<color=#adadad>(2cm)</color>"
+germ_pzkpfw_38t_Aufklarungspanzer_1;Aufkl.Pz.Kpfw. 38
+germ_pzkpfw_38t_Aufklarungspanzer_2;Light Tank
+
+germ_sdkfz_234_2_shop;s.Pz.Spw. (Kw.K. 39/1)
+germ_sdkfz_234_2_0;"<color=#81c3fc>Büssing-NAG</color>
+<color=#5cae63>Sd.Kfz. 234/2</color>
+schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60"
+germ_sdkfz_234_2_1;s.Pz.Spw. (Kw.K. 39/1)
+germ_sdkfz_234_2_2;Light Tank
+
+germ_sdkfz_234_1_shop;s.Pz.Spw. (2cm)
+germ_sdkfz_234_1_0;"<color=#5cae63>Sd.Kfz. 234/1</color>
+schwerer Panzerspähwagen
+<color=#adadad>(2cm)</color>"
+germ_sdkfz_234_1_1;s.Pz.Spw. (2cm)
+germ_sdkfz_234_1_2;Armored Car
+
+germ_sdkfz_234_3_shop;s.Pz.Spw. (7,5cm K.)
+germ_sdkfz_234_3_0;"<color=#5cae63>Sd.Kfz. 234/3</color>
+schwerer Panzerspähwagen
+<color=#adadad>(7,5cm K.)</color>"
+germ_sdkfz_234_3_1;s.Pz.Spw. (7,5cm K.)
+germ_sdkfz_234_3_2;Armored Car
+
+germ_sdkfz_234_2_mod_shop;s.Pz.Spw. (Kw.K. 39/1) (Pz.A.A. 20)
+germ_sdkfz_234_2_mod_0;"<color=#81c3fc>Büssing-NAG</color>
+<color=#5cae63>Sd.Kfz. 234/2</color>
+schwerer Panzerspähwagen mit 5cm Kw.K. 39/1 L/60
+<color=@currencyGoldColor>20. Panzer-Division, 20. Panzer-Aufklärungs-Abteilung</color>"
+germ_sdkfz_234_2_mod_1;s.Pz.Spw. (Kw.K. 39/1)
+germ_sdkfz_234_2_mod_2;Light Tank
+
+germ_sdkfz_234_2_td_shop;⋦ s.Pz.Spw. (5cm)
+germ_sdkfz_234_2_td_0;"<color=#5cae63>Sd.Kfz. 234/2</color>
+⋦ schwerer Panzerspähwagen (5cm)"
+germ_sdkfz_234_2_td_1;⋦ s.Pz.Spw. (5cm)
+germ_sdkfz_234_2_td_2;Armored Car
+
+germ_sdkfz_234_4_shop;s.Pz.Spw. (7,5cm Pa.K.)
+germ_sdkfz_234_4_0;"<color=#5cae63>Sd.Kfz. 234/4</color>
+schwerer Panzerspähwagen
+<color=#adadad>(7,5cm Pa.K.)</color>"
+germ_sdkfz_234_4_1;s.Pz.Spw. (7,5cm Pa.K.)
+germ_sdkfz_234_4_2;Armored Car
+
+germ_amd_35_kwk_shop;le.Pz.Spw. 204 (f) (5cm)
+germ_amd_35_kwk_0;"leichter Panzerspähwagen 204 (f) m. 5cm K.w.K. 38 L/42"
+germ_amd_35_kwk_1;le.Pz.Spw. 204 (f) (5cm)
+germ_amd_35_kwk_2;Light Tank
+
+germ_amd_35_kwk39_shop;le.Pz.Spw. 204 (f) (Kw.K. 39/1)
+germ_amd_35_kwk39_0;"<color=#81c3fc>Panhard</color>
+leichter Panzerspähwagen 204 (f) m. 5cm Kw.K. 39/1 L/60"
+germ_amd_35_kwk39_1;le.Pz.Spw. 204 (f)
+germ_amd_35_kwk39_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+germ_pzsfl_IVa_dickermax_shop;Pz.Sfl. IVa
+germ_pzsfl_IVa_dickermax_0;"10,5cm K. 18 auf Panzerselbstfahrlafette IVa"
+germ_pzsfl_IVa_dickermax_1;Pz.Sfl. IV
+germ_pzsfl_IVa_dickermax_2;SPG
+
+germ_stuh_III_ausf_G_shop;StuH 42 G
+germ_stuh_III_ausf_G_0;"Sturmhaubitze 42 Ausf. G"
+germ_stuh_III_ausf_G_1;StuH 42 G
+germ_stuh_III_ausf_G_2;SPG
+
+germ_panzerwerfer_42_shop;15 cm Pz.W.42
+germ_panzerwerfer_42_0;"15 cm Pz.W.42 (15 cm Nb.W.41) auf Sf."
+germ_panzerwerfer_42_1;15 cm Pz.W.42
+germ_panzerwerfer_42_2;MLRS
+
+germ_pzkpfw_II_ausf_H_shop;Pz.Sfl. Ic
+germ_pzkpfw_II_ausf_H_0;"5cm Pa.K. 38 auf Pz.Kpfw. II Sonderfahrgestell 901
+Panzerselbstfahrlafette Ic"
+germ_pzkpfw_II_ausf_H_1;Pz.Sfl. Ic
+germ_pzkpfw_II_ausf_H_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 germ_m55_shop;◄ PzH M 55
@@ -306,48 +3280,246 @@ germ_leopard_a1a1_120_1;Leopard 1
 germ_leopard_a1a1_120_2;MBT
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+germ_jaguar_2_shop;RakJPz 4 Jaguar 2
+germ_jaguar_2_0;"<color=#81c3fc>Thyssen Henschel</color>
+Raketenjagdpanzer 4 Jaguar 2"
+germ_jaguar_2_1;Jaguar 2
+germ_jaguar_2_2;ATMC
+
+germ_th_800_bismark_shop;Class 3
+germ_th_800_bismark_0;"<color=#81c3fc>Henschel Wehrtechnik TH 800 <color=@commonTextColor>/</color> Sandock-Austral</color>
+Proto-Type, Class 3 Armored Car ""Bismarck"""
+germ_th_800_bismark_1;Class 3
+germ_th_800_bismark_2;Light Tank
+
 germ_th_400_shop;H 400
 germ_th_400_0;<color=#81c3fc>Henschel Wehrtechnik H 400</color>
 germ_th_400_1;H 400
 germ_th_400_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+germ_schutzenpanzer_puma_shop;SPz Puma S0
+germ_schutzenpanzer_puma_0;"<color=#81c3fc>KNDS Deutschland</color>
+Schützenpanzer Puma S0"
+germ_schutzenpanzer_puma_1;SPz Puma S0
+germ_schutzenpanzer_puma_2;IFV
+
+germ_schutzenpanzer_puma_vjtf_shop;SPz Puma VJTF
+germ_schutzenpanzer_puma_vjtf_0;"<color=#81c3fc>KNDS Deutschland</color>
+Schützenpanzer Puma Very High Readiness Joint Task Force"
+germ_schutzenpanzer_puma_vjtf_1;SPz Puma VJTF
+germ_schutzenpanzer_puma_vjtf_2;IFV
+
+germ_leopard_2a4m_can_shop;Leopard 2A4M CAN
+germ_leopard_2a4m_can_0;"<color=#81c3fc>KNDS Deutschland</color>
+Leopard 2A4M CAN"
+germ_leopard_2a4m_can_1;Leopard 2A4M
+germ_leopard_2a4m_can_2;MBT
+
+germ_leopard_2a4m_can_sm_shop;◍ Leopard 2A4M CAN
+germ_leopard_2a4m_can_sm_0;"<color=#81c3fc>KNDS Deutschland</color>
+◍ Leopard 2A4M CAN
+<color=@currencyGoldColor>«Elsa»</color>"
+germ_leopard_2a4m_can_sm_1;◍ Leopard 2A4M
+germ_leopard_2a4m_can_sm_2;MBT
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+germ_flarakrad_shop;FlaRakRad 1 Roland
+germ_flarakrad_0;"<color=#81c3fc>Rheinmetall MAN Military Vehicles</color>
+Flugabwehrraketenradwagen 1 Roland auf Lkw 15t mil gl Kat 1 A1"
+germ_flarakrad_1;FlaRakRad 1 Roland
+germ_flarakrad_2;SPAAM
+
+germ_iris_slm_fcs_shop;LV IRIS-T SLM (Radarfahrzeug)
+germ_iris_slm_fcs_0;"<color=#81c3fc>Diehl Defence</color>
+Luftverteidigungssystem IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1
+<color=#adadad>(Radarfahrzeug)</color>"
+germ_iris_slm_fcs_1;LV IRIS-T SLM (Radarfahrzeug)
+germ_iris_slm_fcs_2;Radar
+
+germ_iris_slm_launcher_shop;LV IRIS-T SLM (Startfahrzeug)
+germ_iris_slm_launcher_0;"<color=#81c3fc>Diehl Defence</color>
+Luftverteidigungssystem IRIS-T SLM auf Lkw 15t mil gl Kat 1 A1.1
+<color=#adadad>(Startfahrzeug)</color>"
+germ_iris_slm_launcher_1;LV IRIS-T SLM (Startfahrzeug)
+germ_iris_slm_launcher_2;SPAAM
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+germ_s30_s61_shop;S 61
+germ_s30_s61_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12854</color>
+<color=#fffa62>Schnellboot (S 54-61)</color>
+S 61"
+germ_s30_s61_1;S 61
+germ_s30_s61_2;Fast Boat
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+germ_schutze_class_shop;Schütze (M 1062)
+germ_schutze_class_0;"<color=#81c3fc>Abeking & Rasmussen</color>
+<color=#fffa62>schnelles Minensuchboot Schütze-Klasse <color=@commonTextColor>|</color> Typ 340</color>
+Schütze (M 1062)"
+germ_schutze_class_1;Schütze (M 1062)
+germ_schutze_class_2;Minesweeper
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+germ_pr1331_shop;Parchim (242)
+germ_pr1331_0;"<color=#81c3fc>Peene-Werft</color>
+<color=#fffa62>U-Boot-Abwehrschiff Projekt 133.1</color>
+Parchim (242)"
+germ_pr1331_1;Parchim (242)
+germ_pr1331_2;Minesweeper
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
+germ_destroyer_fletcher_zerstorer4_0;"<color=#81c3fc>Consolidated Steel Corporation</color>
+<color=#fffa62>Zerstörer 1-Klasse <color=@commonTextColor>|</color> Typ 119</color>
+Z 4 (D 178)"
+germ_destroyer_fletcher_zerstorer4_1;Z 4
+germ_destroyer_fletcher_zerstorer4_2;Destroyer
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+germ_destroyer_class1942_z51_shop;Z 51
+germ_destroyer_class1942_z51_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau A.G. ""Weser""</color>
+<color=#fffa62>Zerstörer Typ 1942</color>
+Z 51"
+germ_destroyer_class1942_z51_1;Z 51
+germ_destroyer_class1942_z51_2;Destroyer
+
+germ_destroyer_class1944_z52_shop;Z 52
+germ_destroyer_class1944_z52_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau A.G. ""Weser""</color>
+<color=#fffa62>Zerstörer Typ 1944</color>
+Z 52"
+germ_destroyer_class1944_z52_1;Z 52
+germ_destroyer_class1944_z52_2;Destroyer
+
+germ_destroyer_lutjens_class_lutjens_shop;Lütjens (D 185)
+germ_destroyer_lutjens_class_lutjens_0;"<color=#81c3fc>Bath Iron Works</color>
+<color=#fffa62>Zerstörer Lütjens-Klasse <color=@commonTextColor>|</color> Typ 103</color>
+Lütjens (D 185)"
+germ_destroyer_lutjens_class_lutjens_1;Lütjens
+germ_destroyer_lutjens_class_lutjens_2;Destroyer
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+germ_battleship_konig_shop;SMS König
+germ_battleship_konig_0;"<color=#81c3fc>Kaiserliche Werft Wilhelmshaven, Bau-Nr. 33</color>
+<color=#fffa62>Linienschiff König-Klasse</color>
+<color=#919191>Linienschiff S</color>
+SMS König
+<color=#adadad>(1917)</color>"
+germ_battleship_konig_1;SMS König
+germ_battleship_konig_2;Battleship
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+germ_battlecruiser_ersatz_yorck_shop;Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_0;"<color=#81c3fc>Stettiner Maschinenbau Actien-Gesellschaft Vulcan, Bau-Nr. 35</color>
+<color=#fffa62>großer Kreuzer Ersatz Yorck-Klasse</color>
+Ersatz Yorck"
+germ_battlecruiser_ersatz_yorck_1;Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_2;Battlecruiser
+
+germ_battleship_scharnhorst_shop;Scharnhorst
+germ_battleship_scharnhorst_0;"<color=#81c3fc>Kriegsmarinewerft Wilhelmshaven, Bau-Nr. 125</color>
+<color=#fffa62>Schlachtschiff Scharnhorst-Klasse</color>
+<color=#919191>Schlachtschiff D <color=@commonTextColor>|</color> Ersatz Elsaß</color>
+Scharnhorst
+<color=#adadad>(1943)</color>"
+germ_battleship_scharnhorst_1;Scharnhorst
+germ_battleship_scharnhorst_2;Battlecruiser
+
+germ_battleship_gneisenau_380mm_shop;Gneisenau
+germ_battleship_gneisenau_380mm_0;"<color=#81c3fc>Deutsche Werke Kiel, Bau-Nr. 235 <color=@commonTextColor>/</color> Deutsche Werke Gotenhafen</color>
+<color=#fffa62>Schlachtschiff Scharnhorst-Klasse</color>
+<color=#919191>Schlachtschiff E <color=@commonTextColor>|</color> Ersatz Hessen</color>
+Gneisenau
+<color=#adadad>(1943)</color>"
+germ_battleship_gneisenau_380mm_1;Gneisenau
+germ_battleship_gneisenau_380mm_2;Battlecruiser
+
+germ_battlecruiser_mackensen_class_shop;Mackensen
+germ_battlecruiser_mackensen_class_0;"<color=#81c3fc>Blohm & Voss, Bau-Nr. 240</color>
+<color=#fffa62>großer Kreuzer Mackensen-Klasse</color>
+<color=#919191>Ersatz Victoria Louise</color>
+Mackensen"
+germ_battlecruiser_mackensen_class_1;Mackensen
+germ_battlecruiser_mackensen_class_2;Battlecruiser
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+germ_battleship_bismarck_shop;Bismarck
+germ_battleship_bismarck_0;"<color=#81c3fc>Blohm & Voss, Bau-Nr. 509 <color=@commonTextColor>/</color> Seebahnhof Pier</color>
+<color=#fffa62>Schlachtschiff Bismarck-Klasse</color>
+<color=#919191>Schlachtschiff F <color=@commonTextColor>|</color> Ersatz Hannover</color>
+Bismarck
+<color=#adadad>(1941)</color>"
+germ_battleship_bismarck_1;Bismarck
+germ_battleship_bismarck_2;Battleship
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+ar_2_shop;Ar-2
+ar_2_0;"<color=#81c3fc>Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo</color>
+Samolyet Ar-2"
+ar_2_1;Ar-2
+ar_2_2;Ar-2
+
+kor_1_shop;Bye-2
+kor_1_0;"<color=#81c3fc>Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ</color>
+Samolyet Bye-2"
+kor_1_1;Bye-2
+kor_1_2;Bye-2
+
+kor_2_shop;Bye-4
+kor_2_0;"<color=#81c3fc>Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ</color>
+Samolyet Bye-4"
+kor_2_1;Bye-4
+kor_2_2;Bye-4
+
+db_lk_shop;DB-LK
+db_lk_0;"<color=#81c3fc>Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo</color>
+Samolyet DB-LK"
+db_lk_1;DB-LK
+db_lk_2;DB-LK
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+yak_1_litvyak_shop;Litvâk's Yak-1
+yak_1_litvyak_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 115</color>
+Samolyet Yak-1
+<color=@currencyGoldColor>Lidiâ Vladimirovna Litvâk's</color>"
+yak_1_litvyak_1;Yak-1
+yak_1_litvyak_2;Yak-1
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+la_200_toriy_shop;200
+la_200_toriy_0;<color=#81c3fc>Opytno-konstruktorskoye bûro № 301 200</color>
+la_200_toriy_1;200
+la_200_toriy_2;200
+
+la-15_shop;La-15
+la-15_0;"<color=#81c3fc>Aviaczionnyj zavod № 21</color>
+<color=#5cae63>izd. 52</color>
+Samolyet La-15"
+la-15_1;La-15
+la-15_2;La-15
+
+l_39za_shop;L-39ZA
+l_39za_0;"<color=#81c3fc>Aero Vodochody</color>
+L-39ZA Albatros"
+l_39za_1;L-39ZA
+l_39za_2;L-39
+
+la_174_shop;174
+la_174_0;<color=#81c3fc>Opytno-konstruktorskoye bûro № 301 174</color>
+la_174_1;174
+la_174_2;174
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 su_25t_shop;Su-25T
@@ -379,6 +3551,26 @@ nt_tu_95m_1;Tu-95M
 nt_tu_95m_2;Tu-95
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+mig-21_bis_shop;MiG-21bis
+mig-21_bis_0;"<color=#81c3fc>Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna</color>
+<color=#5cae63>izd. 75</color>
+Samolyet MiG-21bis"
+mig-21_bis_1;MiG-21bis
+mig-21_bis_2;MiG-21
+
+mig-21_bis_event_shop;MiG-21bis
+mig-21_bis_event_0;"<color=#81c3fc>Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna</color>
+<color=#5cae63>izd. 75</color>
+Samolyet MiG-21bis"
+mig-21_bis_event_1;MiG-21bis
+mig-21_bis_event_2;MiG-21
+
+mig_23m_shop;MiG-23M
+mig_23m_0;"<color=#5cae63>izd. 23-11M</color>
+MiG-23M"
+mig_23m_1;MiG-23M
+mig_23m_2;MiG-23
+
 mig_23mld_shop;MiG-23MLD
 mig_23mld_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye</color>
 <color=#5cae63>izd. 23-18</color>
@@ -392,6 +3584,12 @@ nt_mig_23mld_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""
 MiG-23MLD"
 nt_mig_23mld_1;MiG-23MLD
 nt_mig_23mld_2;MiG-23
+
+mig_23ml_shop;MiG-23ML
+mig_23ml_0;"<color=#5cae63>izd. 23-12</color>
+MiG-23ML"
+mig_23ml_1;MiG-23ML
+mig_23ml_2;MiG-23
 
 su_24m_shop;Su-24M2
 su_24m_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
@@ -407,15 +3605,114 @@ Samolyet Su-24M2"
 nt_su_24m_1;Su-24M
 nt_su_24m_2;Su-24
 
+mig_25pd_shop;MiG-25PD
+mig_25pd_0;"<color=#81c3fc>Moskovskij mašinostroityel'nyj zavod «Zyenit»</color>
+<color=#5cae63>izd. 84D</color>
+Samolyet MiG-25PD"
+mig_25pd_1;MiG-25PD
+mig_25pd_2;MiG-25
+
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+mig_29_9_12_shop;MiG-29 (9-12)
+mig_29_9_12_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye</color>
+<color=#5cae63>izd. 9-12</color>
+Samolyet MiG-29"
+mig_29_9_12_1;MiG-29
+mig_29_9_12_2;MiG-29
+
+mig_29m_9_15_shop;MiG-29M
+mig_29m_9_15_0;"<color=#81c3fc>Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol»</color>
+<color=#5cae63>izd. 9-15</color>
+Samolyet MiG-29M"
+mig_29m_9_15_1;MiG-29M
+mig_29m_9_15_2;MiG-29
+
+su_27_shop;Su-27
+su_27_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-10S</color>
+Samolyet Su-27"
+su_27_1;Su-27
+su_27_2;Su-27
+
+su_27sm_shop;Su-27SM
+su_27sm_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-10SM</color>
+Samolyet Su-27SM"
+su_27sm_1;Su-27SM
+su_27sm_2;Su-27
+
+su_30sm_shop;Su-30SM
+su_30sm_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-10PU</color>
+Samolyet Su-30SM"
+su_30sm_1;Su-30SM
+su_30sm_2;Su-30
+
+su_30sm2_shop;Su-30SM2 (2025)
+su_30sm2_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-10PU</color>
+Samolyet Su-30SM2
+<color=#adadad>(2025)</color>"
+su_30sm2_1;Su-30SM2
+su_30sm2_2;Su-30
+
+su_30mk2v_venezuela_shop;▄ Su-30MK2
+su_30mk2v_venezuela_0;"▄ <color=#81c3fc>Kompaniâ «Sukhoj»</color>
+Su-30MK2"
+su_30mk2v_venezuela_1;▄ Su-30MK2
+su_30mk2v_venezuela_2;▄ Su-30
+
+su_34_shop;Su-34NVO
+su_34_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-10V</color>
+Samolyet Su-34NVO"
+su_34_1;Su-34NVO
+su_34_2;Su-34
+
+su_33_shop;Su-33 (SVP-24-33)
+su_33_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+<color=#5cae63>izd. T-10K</color>
+Samolyet Su-33
+<color=#adadad>(SVP-24-33)</color>"
+su_33_1;Su-33
+su_33_2;Su-33
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+mi_35m_shop;Mi-24VM
+mi_35m_0;"<color=#81c3fc>Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ</color>
+Vyertolyet Mi-24VM</color>
+mi_35m_1;Mi-24VM
+mi_35m_2;Mi-24
+
+mi_35m_killstreak_shop;Mi-24VM
+mi_35m_killstreak_0;"<color=#81c3fc>Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ</color>
+Vyertolyet Mi-24VM</color>
+mi_35m_killstreak_1;Mi-24VM
+mi_35m_killstreak_2;Mi-24
+
+mi_35p_shop;Mi-35P
+mi_35p_0;"<color=#81c3fc>Moskovskij vyertolëtnyj zavod im. M. L. Milâ <color=@commonTextColor>/</color> Kholding
+«Vyertolëty Rossii» <color=@commonTextColor>+</color> Rostovskij vyertolëtnyj proizvodstvyennyj
+komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ
+Mi-35P Transportno-boyevoj Vyertolyet ""Fyeniks""</color>"
+mi_35p_1;Mi-35P
+mi_35p_2;Mi-35
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+mi_8amtsh_vn_shop;Mi-8AMTŠ-VN
+mi_8amtsh_vn_0;"<color=#81c3fc>Moskovskij vyertolëtnyj zavod im. M. L. Milâ</color>
+Vyertolyet Mi-8AMTŠ-VN ""Sapsan"""
+mi_8amtsh_vn_1;Mi-8AMTŠ
+mi_8amtsh_vn_2;Mi-8
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+ussr_garford_putilov_shop;Garford
+ussr_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Putilovskij zavod</color>
+Bronirovannyj avtomobil' ""Garford"""
+ussr_garford_putilov_1;Garford
+ussr_garford_putilov_2;Armored Car
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 
@@ -512,37 +3809,747 @@ uk_centurion_shot_kal_d_2;MBT
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+uk_mtb_1series_shop;HMS MTB 7
+uk_mtb_1series_0;"<color=#81c3fc>British Power Boat Co.</color>
+<color=#fffa62>BPB 60 ft-class</color>
+HMS MTB 7"
+uk_mtb_1series_1;HMS MTB 7
+uk_mtb_1series_2;Motor Torpedo Boat
+
+uk_mtb_2series_shop;HMS MTB 16
+uk_mtb_2series_0;"<color=#81c3fc>British Power Boat Co.</color>
+<color=#fffa62>BPB 60 ft-class</color>
+HMS MTB 16"
+uk_mtb_2series_1;HMS MTB 16
+uk_mtb_2series_2;Motor Torpedo Boat
+
+uk_mtb35_vosper_shop;HMS MTB 35
+uk_mtb35_vosper_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Vosper 70 ft-class</color>
+HMS MTB 35"
+uk_mtb35_vosper_1;HMS MTB 35
+uk_mtb35_vosper_2;Motor Gun Boat
+
+uk_mtb_vosper_1series_shop;HMS MTB 23
+uk_mtb_vosper_1series_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Vosper 70 ft-class</color>
+HMS MTB 23"
+uk_mtb_vosper_1series_1;HMS MTB 23
+uk_mtb_vosper_1series_2;Motor Torpedo Boat
+
+uk_mtb_vosper_2series_shop;HMS MTB 234
+uk_mtb_vosper_2series_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Vosper 72 ft-class</color>
+HMS MTB 234"
+uk_mtb_vosper_2series_1;HMS MTB 234
+uk_mtb_vosper_2series_2;Motor Torpedo Boat
+
+uk_fairmile_a_ml100_shop;HMS ML 100
+uk_fairmile_a_ml100_0;"<color=#81c3fc>Woodnutt & Co. <color=@commonTextColor>/</color> Bembridge Harbour</color>
+<color=#fffa62>Fairmile Type A-class</color>
+HMS ML 100
+<color=#adadad>(1940)</color>"
+uk_fairmile_a_ml100_1;HMS ML 100
+uk_fairmile_a_ml100_2;Motor Launch
+
+uk_fairmile_b_ml345_shop;HMS ML 345
+uk_fairmile_b_ml345_0;"<color=#81c3fc>Diesel Constructors <color=@commonTextColor>/</color> U.S. Naval Base No. 18</color>
+<color=#fffa62>Fairmile Type B-class</color>
+HMS ML 345
+<color=#adadad>(1943)</color>"
+uk_fairmile_b_ml345_1;HMS ML 345
+uk_fairmile_b_ml345_2;Motor Launch
+
+uk_fairmile_c_shop;HMS MGB 312
+uk_fairmile_c_0;"<color=#81c3fc>Woodnutt & Co.</color>
+<color=#fffa62>Fairmile Type C-class</color>
+HMS MGB 312"
+uk_fairmile_c_1;HMS MGB 312
+uk_fairmile_c_2;Motor Gun Boat
+
+uk_fairmile_c_332_shop;HMS MGB 332
+uk_fairmile_c_332_0;"<color=#81c3fc>James A. Silver</color>
+<color=#fffa62>Fairmile Type C-class</color>
+HMS MGB 332"
+uk_fairmile_c_332_1;HMS MGB 332
+uk_fairmile_c_332_2;Motor Gun Boat
+
+uk_fairmile_d_697_800_shop;HMS MTB 697
+uk_fairmile_d_697_800_0;"<color=#81c3fc>Woodnutt & Co.</color>
+<color=#fffa62>Fairmile Type D-class</color>
+HMS MTB 697"
+uk_fairmile_d_697_800_1;HMS MTB 697
+uk_fairmile_d_697_800_2;Motor Torpedo Boat
+
+uk_fairmile_d_601_616_shop;HMS MGB 601
+uk_fairmile_d_601_616_0;"<color=#81c3fc>Tough Bros</color>
+<color=#fffa62>Fairmile Type D-class</color>
+HMS MGB 601"
+uk_fairmile_d_601_616_1;HMS MGB 601
+uk_fairmile_d_601_616_2;Motor Gun Boat
+
+uk_fairmile_d_617_632_shop;HMS MGB 617
+uk_fairmile_d_617_632_0;"<color=#81c3fc>William Osbourne</color>
+<color=#fffa62>Fairmile Type D-class</color>
+HMS MGB 617"
+uk_fairmile_d_617_632_1;HMS MGB 617
+uk_fairmile_d_617_632_2;Motor Torpedo Boat
+
+uk_fairmile_d_5001_5029_shop;HMS MTB 5001
+uk_fairmile_d_5001_5029_0;"<color=#81c3fc>Woodnutt & Co.</color>
+<color=#fffa62>Fairmile Type D-class</color>
+HMS MTB 5001"
+uk_fairmile_d_5001_5029_1;HMS MTB 5001
+uk_fairmile_d_5001_5029_2;Motor Torpedo Boat
+
+uk_fairmile_lcs_l_h_mk2_shop;HMS LCS(L)(2) 257
+uk_fairmile_lcs_l_h_mk2_0;"<color=#81c3fc>Austins of East Ham</color>
+<color=#fffa62>Fairmile Type H-class</color>
+HMS LCS(L)(2) 257"
+uk_fairmile_lcs_l_h_mk2_1;HMS LCS(L)(2) 257
+uk_fairmile_lcs_l_h_mk2_2;Motor Gun Boat
+
+uk_70ft_mgb_shop;HMS MGB 61
+uk_70ft_mgb_0;"<color=#81c3fc>British Power Boat Co.</color>
+<color=#fffa62>BPB 70 ft-class</color>
+HMS MGB 61"
+uk_70ft_mgb_1;HMS MGB 61
+uk_70ft_mgb_2;Motor Gun Boat
+
+uk_hdml_ml1383_shop;HMS HDML 1383
+uk_hdml_ml1383_0;"<color=#81c3fc>Anderson Rigden & Perkins</color>
+<color=#fffa62>HDML-class</color>
+HMS HDML 1383"
+uk_hdml_ml1383_1;HMS HDML 1383
+uk_hdml_ml1383_2;Harbour Defence Motor Launch
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+uk_73ft_vosper_type1_shop;HMS MTB 379
+uk_73ft_vosper_type1_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Vosper 73 ft-class</color>
+HMS MTB 379"
+uk_73ft_vosper_type1_1;HMS MTB 379
+uk_73ft_vosper_type1_2;Motor Torpedo Boat
+
+uk_dark_class_shop;HMS Dark Adventurer (P 1101)
+uk_dark_class_0;"<color=#81c3fc>Saunders-Roe</color>
+<color=#fffa62>Dark-class</color>
+HMS Dark Adventurer (P 1101)"
+uk_dark_class_1;HMS Dark Adventurer
+uk_dark_class_2;Motor Gun Boat
+
+uk_dark_class_mtb_shop;HMS Dark Aggressor (P 1102)
+uk_dark_class_mtb_0;"<color=#81c3fc>Saunders-Roe</color>
+<color=#fffa62>Dark-class</color>
+HMS Dark Aggressor (P 1102)"
+uk_dark_class_mtb_1;HMS Dark Aggressor
+uk_dark_class_mtb_2;Motor Gun Boat
+
+uk_dark_class_mtb_td_shop;⋦ HMS Dark Aggressor (P 1102)
+uk_dark_class_mtb_td_0;"<color=#81c3fc>Saunders-Roe</color>
+<color=#fffa62>Dark-class</color>
+⋦ HMS Dark Aggressor (P 1102)"
+uk_dark_class_mtb_td_1;⋦ HMS Dark Aggressor
+uk_dark_class_mtb_td_2;Motor Torpedo Boat
+
+uk_isles_class_trawler_shop;HMS Orsay (J 450)
+uk_isles_class_trawler_0;"<color=#81c3fc>Cochrane & Sons</color>
+<color=#fffa62>Isles-class</color>
+HMS Orsay (J 450)
+<color=#adadad>(Gun, Q.F., 4-inch, Mk. V)</color>"
+uk_isles_class_trawler_1;HMS Orsay
+uk_isles_class_trawler_2;Danlayer
+
+uk_flower_class_shop;HMCS Brantford (K 218)
+uk_flower_class_0;"<color=#81c3fc>Midland Shipyards <color=@commonTextColor>/</color> Cockatoo Island Dockyard</color>
+<color=#fffa62>Flower-class</color>
+HMCS Brantford (K 218)
+<color=#adadad>(1944)</color>"
+uk_flower_class_1;HMCS Brantford
+uk_flower_class_2;Corvette
+
+uk_71ft_mgb_shop;HMS MGB 75
+uk_71ft_mgb_0;"<color=#81c3fc>British Power Boat Co.</color>
+<color=#fffa62>BPB 72 ft-class</color>
+HMS MGB 75"
+uk_71ft_mgb_1;HMS MGB 75
+uk_71ft_mgb_2;Motor Gun Boat
+
+uk_71ft_mtb460_shop;HMS MTB 460
+uk_71ft_mtb460_0;"<color=#81c3fc>British Power Boat Co.</color>
+<color=#fffa62>BPB 72 ft-class</color>
+HMS MTB 460"
+uk_71ft_mtb460_1;HMS MTB 460
+uk_71ft_mtb460_2;Motor Torpedo Boat
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+uk_gay_class_archer_shop;HMS Gay Archer (P 1041)
+uk_gay_class_archer_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Gay-class</color>
+HMS Gay Archer (P 1041)"
+uk_gay_class_archer_1;HMS Gay Archer
+uk_gay_class_archer_2;Motor Torpedo Boat
+
+uk_sgb_309_shop;HMS Grey Goose (S 309)
+uk_sgb_309_0;"<color=#81c3fc>J. Samuel White & Co.</color>
+<color=#fffa62>SGB-class</color>
+HMS Grey Goose (S 309)"
+uk_sgb_309_1;HMS Grey Goose
+uk_sgb_309_2;Steam Gun Boat
+
+uk_sgb_304_shop;HMS Grey Fox (S 304)
+uk_sgb_304_0;"<color=#81c3fc>Yarrow & Co.</color>
+<color=#fffa62>SGB-class</color>
+HMS Grey Fox (S 304)"
+uk_sgb_304_1;HMS Grey Fox
+uk_sgb_304_2;Steam Gun Boat
+
+uk_higgins_78ft_mtb422_shop;HMS MTB 422
+uk_higgins_78ft_mtb422_0;"<color=#81c3fc>Higgins Industies</color>
+<color=#fffa62>Higgins 78'-class</color>
+HMS MTB 422"
+uk_higgins_78ft_mtb422_1;HMS MTB 422
+uk_higgins_78ft_mtb422_2;Motor Torpedo Boat
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+uk_attack_class_arrow_shop;HMAS Arrow (P 88)
+uk_attack_class_arrow_0;"<color=#81c3fc>John Walker & Co.</color>
+<color=#fffa62>Attack-class</color>
+HMAS Arrow (P 88)"
+uk_attack_class_arrow_1;HMAS Arrow
+uk_attack_class_arrow_2;Patrol Boat
+
+uk_fremantle_class_shop;HMAS Fremantle (FCPB 203)
+uk_fremantle_class_0;"<color=#81c3fc>Brooke Marine</color>
+<color=#fffa62>Fremantle-class</color>
+HMAS Fremantle (FCPB 203)"
+uk_fremantle_class_1;HMAS Fremantle
+uk_fremantle_class_2;Patrol Boat
+
+uk_corvette_orla_shop;L.É. Orla (P 41)
+uk_corvette_orla_0;"<color=#81c3fc>Hall, Russell & Co. <color=@commonTextColor>/</color> Cork Dockyard</color>
+<color=#fffa62>Peacock-class</color>
+L.É. Orla (P 41)
+<color=#adadad>(2008)</color>"
+uk_corvette_orla_1;L.É. Orla
+uk_corvette_orla_2;Corvette
+
+uk_corvette_peacock_shop;HMS Peacock (P 239)
+uk_corvette_peacock_0;"<color=#81c3fc>Hall, Russell & Co.</color>
+<color=#fffa62>Peacock-class</color>
+HMS Peacock (P 239)"
+uk_corvette_peacock_1;HMS Peacock
+uk_corvette_peacock_2;Corvette
+
+uk_frigate_whitby_shop;HMS Whitby (F 36)
+uk_frigate_whitby_0;"<color=#81c3fc>Cammell Laird & Co.</color>
+<color=#fffa62>Whitby-class</color>
+HMS Whitby (F 36)"
+uk_frigate_whitby_1;HMS Whitby
+uk_frigate_whitby_2;Anti-Submarine Frigate
+
+uk_frigate_whitby_blackpool_shop;HMS Blackpool (F 77)
+uk_frigate_whitby_blackpool_0;"<color=#81c3fc>Harland & Wolff Group Holdings</color>
+<color=#fffa62>Whitby-class</color>
+HMS Blackpool (F 77)"
+uk_frigate_whitby_blackpool_1;HMS Blackpool
+uk_frigate_whitby_blackpool_2;Anti-Submarine Frigate
+
+uk_frigate_river_shop;HMS Spey (K 246)
+uk_frigate_river_0;"<color=#81c3fc>Smiths Dock Co. <color=@commonTextColor>/</color> Sri Lanka Navy Dockyard</color>
+<color=#fffa62>River-class</color>
+HMS Spey (K 246)
+<color=#adadad>(1944)</color>"
+uk_frigate_river_1;HMS Spey
+uk_frigate_river_2;Frigate
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+uk_brave_borderer_shop;HMS Brave Borderer (P 1011)
+uk_brave_borderer_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Brave-class</color>
+HMS Brave Borderer (P 1011)"
+uk_brave_borderer_1;HMS Brave Borderer
+uk_brave_borderer_2;Motor Torpedo Boat
+
+uk_destroyer_restigouche_class_terranova_shop;HMCS Terra Nova (DDE 259)
+uk_destroyer_restigouche_class_terranova_0;"<color=#81c3fc>Victoria Machinery Depot</color>
+<color=#fffa62>Restigouche-class</color>
+HMCS Terra Nova (DDE 259)"
+uk_destroyer_restigouche_class_terranova_1;HMCS Terra Nova
+uk_destroyer_restigouche_class_terranova_2;Destroyer Escort
+
+uk_frigate_leopard_shop;HMS Leopard (F 14)
+uk_frigate_leopard_0;"<color=#81c3fc>Portsmouth Royal Dockyard</color>
+<color=#fffa62>Leopard-class</color>
+HMS Leopard (F 14)"
+uk_frigate_leopard_1;HMS Leopard
+uk_frigate_leopard_2;Anti-Aircraft Frigate
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+uk_destroyer_v_class_vega_shop;HMS Vega (L 41)
+uk_destroyer_v_class_vega_0;"<color=#81c3fc>William Doxford & Sons <color=@commonTextColor>/</color> Chatham Royal Dockyard</color>
+<color=#fffa62>Admiralty V-class</color>
+HMS Vega (L 41)
+<color=#adadad>(1939)</color>"
+uk_destroyer_v_class_vega_1;HMS Vega
+uk_destroyer_v_class_vega_2;Destroyer
+
+uk_destroyer_v_class_verdun_shop;HMS Verdun (L 93)
+uk_destroyer_v_class_verdun_0;"<color=#81c3fc>R. & W. Hawthorn, Leslie & Co. <color=@commonTextColor>/</color> Chatham Royal Dockyard</color>
+<color=#fffa62>Admiralty V-class</color>
+HMS Verdun (L 93)
+<color=#adadad>(1940)</color>"
+uk_destroyer_v_class_verdun_1;HMS Verdun
+uk_destroyer_v_class_verdun_2;Destroyer
+
+uk_destroyer_v_class_valhalla_shop;HMS Valhalla (D 44)
+uk_destroyer_v_class_valhalla_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Port Edgar</color>
+<color=#fffa62>Admiralty V-class</color>
+HMS Valhalla (D 44)
+<color=#adadad>(1923)</color>"
+uk_destroyer_v_class_valhalla_1;HMS Valhalla
+uk_destroyer_v_class_valhalla_2;Destroyer
+
+uk_destroyer_hunt_2series_shop;HMS Calpe (L 71)
+uk_destroyer_hunt_2series_0;"<color=#81c3fc>Swan Hunter & Wigham Richardson <color=@commonTextColor>/</color> Malta Dockyard</color>
+<color=#fffa62>Type II Hunt-class</color>
+HMS Calpe (L 71)
+<color=#adadad>(1945)</color>"
+uk_destroyer_hunt_2series_1;HMS Calpe
+uk_destroyer_hunt_2series_2;Destroyer
+
+uk_destroyer_hunt_4series_shop;HMS Brissenden (L 79)
+uk_destroyer_hunt_4series_0;"<color=#81c3fc>John I. Thornycroft & Co. <color=@commonTextColor>/</color> Pembroke Dockyard</color>
+<color=#fffa62>Type IV Hunt-class</color>
+HMS Brissenden (L 79)
+<color=#adadad>(1945)</color>"
+uk_destroyer_hunt_4series_1;HMS Brissenden
+uk_destroyer_hunt_4series_2;Destroyer
+
+uk_destroyer_g_grafton_shop;HMS Grafton (H 89)
+uk_destroyer_g_grafton_0;"<color=#81c3fc>John I. Thornycroft & Co.</color>
+<color=#fffa62>G-class</color>
+HMS Grafton (H 89)"
+uk_destroyer_g_grafton_1;HMS Grafton
+uk_destroyer_g_grafton_2;Destroyer
+
+uk_destroyer_g_grafton_EC_0;G-class | HMS Grafton (H 89)
+uk_destroyer_g_grafton_EC_1;HMS Grafton
+uk_destroyer_g_grafton_EC_2;Destroyer
+
+uk_destroyer_st_class_saumarez_shop;HMS Saumarez (G 12)
+uk_destroyer_st_class_saumarez_0;"<color=#81c3fc>R. & W. Hawthorn, Leslie & Co. <color=@commonTextColor>/</color> HMS Proserpine</color>
+<color=#fffa62>S-class</color>
+HMS Saumarez (G 12)
+<color=#adadad>(1944)</color>"
+uk_destroyer_st_class_saumarez_1;HMS Saumarez
+uk_destroyer_st_class_saumarez_2;Destroyer
+
+uk_destroyer_clemson_churchill_shop;HMS Churchill (I 45)
+uk_destroyer_clemson_churchill_0;"<color=#81c3fc>Newport News Shipbuilding and Dry Dock Co. <color=@commonTextColor>/</color> Charleston Naval
+Shipyard</color>
+<color=#fffa62>Town-class</color>
+HMS Churchill (I 45)
+<color=#adadad>(1943)</color>"
+uk_destroyer_clemson_churchill_1;HMS Churchill
+uk_destroyer_clemson_churchill_2;Destroyer
+
+uk_destroyer_clemson_churchill_EC_0;Town-class | HMS Churchill (I 45) (1943)
+uk_destroyer_clemson_churchill_EC_1;HMS Churchill
+uk_destroyer_clemson_churchill_EC_2;Destroyer
+
+uk_destroyer_clemson_montgomery_g95_shop;HMS Montgomery (G 95)
+uk_destroyer_clemson_montgomery_g95_0;"<color=#81c3fc>Bath Iron Works <color=@commonTextColor>/</color> Barrow-in-Furness</color>
+<color=#fffa62>Town-class</color>
+HMS Montgomery (G 95)
+<color=#adadad>(1941)</color>"
+uk_destroyer_clemson_montgomery_g95_1;HMS Montgomery
+uk_destroyer_clemson_montgomery_g95_2;Destroyer
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+uk_destroyer_tribal_shop;HMS Eskimo (G 75)
+uk_destroyer_tribal_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Barrow-in-Furness</color>
+<color=#fffa62>Tribal-class</color>
+HMS Eskimo (G 75)
+<color=#adadad>(1940)</color>"
+uk_destroyer_tribal_1;HMS Eskimo
+uk_destroyer_tribal_2;Destroyer
+
+uk_destroyer_tribal_EC_0;Tribal-class | HMS Eskimo (G 75) (1940)
+uk_destroyer_tribal_EC_1;HMS Eskimo
+uk_destroyer_tribal_EC_2;Destroyer
+
+uk_destroyer_n_class_shop;HMAS Nepal (G 25)
+uk_destroyer_n_class_0;"<color=#81c3fc>John I. Thornycroft & Co. <color=@commonTextColor>/</color> HMAS Kuttabul</color>
+<color=#fffa62>N-class</color>
+HMAS Nepal (G 25)
+<color=#adadad>(1943)</color>"
+uk_destroyer_n_class_1;HMAS Nepal
+uk_destroyer_n_class_2;Destroyer
+
+uk_destroyer_n_class_EC_0;N-class | HMAS Nepal (G 25) (1943)
+uk_destroyer_n_class_EC_1;HMAS Nepal
+uk_destroyer_n_class_EC_2;Destroyer
+
+uk_destroyer_k_class_shop;HMS Kelvin (F 37)
+uk_destroyer_k_class_0;"<color=#81c3fc>Fairfield Shipbuilding & Engineering Co.</color>
+<color=#fffa62>K-class</color>
+HMS Kelvin (F 37)"
+uk_destroyer_k_class_1;HMS Kelvin
+uk_destroyer_k_class_2;Destroyer
+
+uk_minelayer_abdiel_class_abdiel_shop;HMS Abdiel (M 39)
+uk_minelayer_abdiel_class_abdiel_0;"<color=#81c3fc>J. Samuel White & Co. <color=@commonTextColor>/</color> Palmers Shipyard</color>
+<color=#fffa62>Abdiel-class</color>
+HMS Abdiel (M 39)
+<color=#adadad>(1942)</color>"
+uk_minelayer_abdiel_class_abdiel_1;HMS Abdiel
+uk_minelayer_abdiel_class_abdiel_2;Minelayer
+
+uk_destroyer_j_class_shop;HMS Jervis (G 00)
+uk_destroyer_j_class_0;"<color=#81c3fc>R. & W. Hawthorn, Leslie & Co. <color=@commonTextColor>/</color> Belfast Dry Dock</color>
+<color=#fffa62>J-class</color>
+HMS Jervis (G 00)
+<color=#adadad>(1945)</color>"
+uk_destroyer_j_class_1;HMS Jervis
+uk_destroyer_j_class_2;Destroyer
+
+uk_destroyer_tribal_mohawk_shop;HMS Mohawk (L 31)
+uk_destroyer_tribal_mohawk_0;"<color=#81c3fc>John I. Thornycroft & Co.</color>
+<color=#fffa62>Tribal-class</color>
+HMS Mohawk (L 31)"
+uk_destroyer_tribal_mohawk_1;HMS Mohawk
+uk_destroyer_tribal_mohawk_2;Destroyer
+
+uk_destroyer_g_garland_shop;ORP Garland (H 37)
+uk_destroyer_g_garland_0;"<color=#81c3fc>Fairfield Shipbuilding & Engineering Co. <color=@commonTextColor>/</color> Smiths Dockyard</color>
+<color=#fffa62>G-class</color>
+ORP Garland (H 37)
+<color=#adadad>(1942)</color>"
+uk_destroyer_g_garland_1;ORP Garland
+uk_destroyer_g_garland_2;Destroyer
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+uk_destroyer_battle_2series_shop;HMS Armada (R 14)
+uk_destroyer_battle_2series_0;"<color=#81c3fc>R. & W. Hawthorn, Leslie & Co.</color>
+<color=#fffa62>Battle-class</color>
+HMS Armada (R 14)"
+uk_destroyer_battle_2series_1;HMS Armada
+uk_destroyer_battle_2series_2;Destroyer
+
+uk_destroyer_battle_tobruk_shop;HMAS Tobruk (D 37)
+uk_destroyer_battle_tobruk_0;"<color=#81c3fc>Cockatoo Docks and Engineering Co.</color>
+<color=#fffa62>Battle-class</color>
+HMAS Tobruk (D 37)"
+uk_destroyer_battle_tobruk_1;HMAS Tobruk
+uk_destroyer_battle_tobruk_2;Destroyer
+
+uk_cruiser_arethusa_shop;HMS Arethusa (26)
+uk_cruiser_arethusa_0;"<color=#81c3fc>Chatham Royal Dockyard <color=@commonTextColor>/</color> Charleston Naval Shipyard</color>
+<color=#fffa62>Arethusa-class</color>
+HMS Arethusa (26)
+<color=#adadad>(1943)</color>"
+uk_cruiser_arethusa_1;HMS Arethusa (26)
+uk_cruiser_arethusa_2;Light Cruiser
+
+uk_cruiser_arethusa_EC_0;Arethusa-class | HMS Arethusa (26) (1943)
+uk_cruiser_arethusa_EC_1;Arethusa
+uk_cruiser_arethusa_EC_2;Light Cruiser
+
+uk_destroyer_daring_class_diana_shop;HMS Diana (D 126)
+uk_destroyer_daring_class_diana_0;"<color=#81c3fc>Yarrow & Co.</color>
+<color=#fffa62>Daring-class</color>
+HMS Diana (D 126)
+<color=#adadad>(1959)</color>"
+uk_destroyer_daring_class_diana_1;HMS Diana
+uk_destroyer_daring_class_diana_2;Destroyer
+
+uk_destroyer_daring_class_daring_shop;HMS Daring (D 05)
+uk_destroyer_daring_class_daring_0;"<color=#81c3fc>Swan Hunter & Wigham Richardson</color>
+<color=#fffa62>Daring-class</color>
+HMS Daring (D 05)"
+uk_destroyer_daring_class_daring_1;HMS Daring
+uk_destroyer_daring_class_daring_2;Destroyer
+
+uk_destroyer_daring_class_diamond_shop;HMS Diamond (D 35)
+uk_destroyer_daring_class_diamond_0;"<color=#81c3fc>John Brown & Co.</color>
+<color=#fffa62>Daring-class</color>
+HMS Diamond (D 35)"
+uk_destroyer_daring_class_diamond_1;HMS Diamond
+uk_destroyer_daring_class_diamond_2;Destroyer
+
+uk_cruiser_enterprise_d52_shop;HMS Enterprise (D 52)
+uk_cruiser_enterprise_d52_0;"<color=#81c3fc>John Brown & Co. <color=@commonTextColor>/</color> Devonport Royal Dockyard</color>
+<color=#fffa62>Emerald-class</color>
+HMS Enterprise (D 52)
+<color=#adadad>(1944)</color>"
+uk_cruiser_enterprise_d52_1;HMS Enterprise
+uk_cruiser_enterprise_d52_2;Light Cruiser
+
+uk_cruiser_enterprise_d52_EC_0;Emerald-class | HMS Enterprise (D 52) (1944)
+uk_cruiser_enterprise_d52_EC_1;HMS Enterprise
+uk_cruiser_enterprise_d52_EC_2;Light Cruiser
+
+uk_cruiser_hawkins_shop;HMS Hawkins (D 86)
+uk_cruiser_hawkins_0;"<color=#81c3fc>Chatham Royal Dockyard <color=@commonTextColor>/</color> Portsmouth Royal Dockyard</color>
+<color=#fffa62>Hawkins-class</color>
+HMS Hawkins (D 86)
+<color=#adadad>(1942)</color>"
+uk_cruiser_hawkins_1;HMS Hawkins
+uk_cruiser_hawkins_2;Heavy Cruiser
+
+uk_destroyer_haida_shop;HMCS Haida (G 63)
+uk_destroyer_haida_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+<color=#fffa62>Tribal-class</color>
+HMCS Haida (G 63)"
+uk_destroyer_haida_1;HMCS Haida
+uk_destroyer_haida_2;Destroyer
+
+uk_destroyer_battle_cadiz_shop;HMS Cadiz (D 79)
+uk_destroyer_battle_cadiz_0;"<color=#81c3fc>Fairfield Shipbuilding & Engineering Co.</color>
+<color=#fffa62>Battle-class</color>
+HMS Cadiz (D 79)"
+uk_destroyer_battle_cadiz_1;HMS Cadiz
+uk_destroyer_battle_cadiz_2;Destroyer
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+uk_cruiser_leander_shop;HMNZS Leander (75)
+uk_cruiser_leander_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Auckland Dockyard</color>
+<color=#fffa62>Leander-class</color>
+HMNZS Leander (75)
+<color=#adadad>(1941)</color>"
+uk_cruiser_leander_1;HMNZS Leander
+uk_cruiser_leander_2;Light Cruiser
+
+uk_cruiser_leander_EC_0;Leander-class | HMNZS Leander (75) (1941)
+uk_cruiser_leander_EC_1;HMNZS Leander
+uk_cruiser_leander_EC_2;Light Cruiser
+
+uk_cruiser_fiji_class_fiji_shop;HMS Fiji (58)
+uk_cruiser_fiji_class_fiji_0;"<color=#81c3fc>John Brown & Co. <color=@commonTextColor>/</color> Clydebank Shipyard</color>
+<color=#fffa62>Colony-class</color>
+HMS Fiji (58)
+<color=#adadad>(1941)</color>"
+uk_cruiser_fiji_class_fiji_1;HMS Fiji
+uk_cruiser_fiji_class_fiji_2;Light Cruiser
+
+uk_cruiser_southampton_shop;HMS Southampton (C 83)
+uk_cruiser_southampton_0;"<color=#81c3fc>John Brown & Co. <color=@commonTextColor>/</color> Tyne Shipyard</color>
+<color=#fffa62>Town-class</color>
+HMS Southampton (C 83)
+<color=#adadad>(1940)</color>"
+uk_cruiser_southampton_1;HMS Southampton
+uk_cruiser_southampton_2;Light Cruiser
+
+uk_cruiser_liverpool_shop;HMS Liverpool (C 11)
+uk_cruiser_liverpool_0;"<color=#81c3fc>Fairfield Shipbuilding & Engineering Co. <color=@commonTextColor>/</color> Rosyth Dockyard</color>
+<color=#fffa62>Town-class</color>
+HMS Liverpool (C 11)
+<color=#adadad>(1944)</color>"
+uk_cruiser_liverpool_1;HMS Liverpool
+uk_cruiser_liverpool_2;Light Cruiser
+
+uk_cruiser_belfast_shop;HMS Belfast (C 35)
+uk_cruiser_belfast_0;"<color=#81c3fc>Harland & Wolff Group Holdings <color=@commonTextColor>/</color> Devonport Royal Dockyard</color>
+<color=#fffa62>Town-class</color>
+HMS Belfast (C 35)
+<color=#adadad>(1959)</color>"
+uk_cruiser_belfast_1;HMS Belfast
+uk_cruiser_belfast_2;Light Cruiser
+
+uk_cruiser_dido_shop;HMS Dido (37)
+uk_cruiser_dido_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Brooklyn Navy Yard</color>
+<color=#fffa62>Dido-class</color>
+HMS Dido (37)
+<color=#adadad>(1941)</color>"
+uk_cruiser_dido_1;HMS Dido
+uk_cruiser_dido_2;Light Cruiser
+
+uk_cruiser_dido_EC_0;Dido-class | HMS Dido (37) (1941)
+uk_cruiser_dido_EC_1;HMS Dido
+uk_cruiser_dido_EC_2;Light Cruiser
+
+uk_cruiser_york_shop;HMS York (90)
+uk_cruiser_york_0;"<color=#81c3fc>Palmers Shipbuilding and Iron Co. <color=@commonTextColor>/</color> Royal Albery Dockyard</color>
+<color=#fffa62>York-class</color>
+HMS York (90)
+<color=#adadad>(1940)</color>"
+uk_cruiser_york_1;HMS York
+uk_cruiser_york_2;Heavy Cruiser
+
+uk_cruiser_kent_shop;HMS Kent (54)
+uk_cruiser_kent_0;"<color=#81c3fc>Chatham Royal Dockyard</color>
+<color=#fffa62>County-class</color>
+HMS Kent (54)
+<color=#adadad>(1934)</color>"
+uk_cruiser_kent_1;HMS Kent
+uk_cruiser_kent_2;Heavy Cruiser
+
+uk_cruiser_norfolk_shop;HMS Norfolk (78)
+uk_cruiser_norfolk_0;"<color=#81c3fc>Fairfield Shipbuilding & Engineering Co. <color=@commonTextColor>/</color> Portsmouth Royal Dockyard</color>
+<color=#fffa62>County-class</color>
+HMS Norfolk (78)
+<color=#adadad>(1943)</color>"
+uk_cruiser_norfolk_1;HMS Norfolk
+uk_cruiser_norfolk_2;Heavy Cruiser
+
+uk_cruiser_london_shop;HMS London (69)
+uk_cruiser_london_0;"<color=#81c3fc>Fairfield Shipbuilding & Engineering Co. <color=@commonTextColor>/</color> Rosyth Dockyard</color>
+<color=#fffa62>County-class</color>
+HMS London (69)
+<color=#adadad>(1944)</color>"
+uk_cruiser_london_1;HMS London
+uk_cruiser_london_2;Heavy Cruiser
+
+uk_battlecruiser_invincible_shop;HMS Invincible (85)
+uk_battlecruiser_invincible_0;"<color=#81c3fc>Sir W G Armstrong Whitworth & Co. <color=@commonTextColor>/</color> Devonport Royal Dockyard</color>
+<color=#fffa62>Invincible-class</color>
+HMS Invincible (85)
+<color=#adadad>(1914)</color>"
+uk_battlecruiser_invincible_1;HMS Invincible
+uk_battlecruiser_invincible_2;Battlecruiser
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+uk_battleship_dreadnought_shop;HMS Dreadnought (00)
+uk_battleship_dreadnought_0;"<color=#81c3fc>Portsmouth Royal Dockyard</color>
+<color=#fffa62>Dreadnought-class</color>
+HMS Dreadnought (00)
+<color=#adadad>(1917)</color>"
+uk_battleship_dreadnought_1;HMS Dreadnought
+uk_battleship_dreadnought_2;Dreadnought
+
+uk_battleship_orion_shop;HMS Orion (52)
+uk_battleship_orion_0;"<color=#81c3fc>Portsmouth Royal Dockyard</color>
+<color=#fffa62>Orion-class</color>
+HMS Orion (52)"
+uk_battleship_orion_1;HMS Orion
+uk_battleship_orion_2;Super Dreadnought
+
+uk_battleship_colossus_shop;HMS Colossus (93)
+uk_battleship_colossus_0;"<color=#81c3fc>Scotts Shipbuilding & Engineering Co.</color>
+<color=#fffa62>Colossus-class</color>
+HMS Colossus (93)
+<color=#adadad>(1917)</color>"
+uk_battleship_colossus_1;HMS Colossus
+uk_battleship_colossus_2;Dreadnought
+
+uk_battleship_centurion_shop;HMS Centurion (12)
+uk_battleship_centurion_0;"<color=#81c3fc>Devonport Royal Dockyard</color>
+<color=#fffa62>King George V-class</color>
+HMS Centurion (12)"
+uk_battleship_centurion_1;HMS Centurion
+uk_battleship_centurion_2;Dreadnought
+
+uk_battlecruiser_glorious_shop;HMS Glorious (77)
+uk_battlecruiser_glorious_0;"<color=#81c3fc>Harland & Wolff Group Holdings</color>
+<color=#fffa62>Courageous-Class</color>
+HMS Glorious (77)
+<color=#adadad>(1917)</color>"
+uk_battlecruiser_glorious_1;HMS Glorious
+uk_battlecruiser_glorious_2;Battlecruiser
+
+uk_battlecruiser_queen_mary_shop;HMS Queen Mary (14)
+uk_battlecruiser_queen_mary_0;"<color=#81c3fc>Palmers Shipbuilding and Iron Co.</color>
+<color=#fffa62>Queen Mary-class</color>
+HMS Queen Mary (14)"
+uk_battlecruiser_queen_mary_1;HMS Queen Mary
+uk_battlecruiser_queen_mary_2;Battlecruiser
+
+uk_battleship_iron_duke_shop;HMS Iron Duke (18)
+uk_battleship_iron_duke_0;"<color=#81c3fc>Portsmouth Royal Dockyard</color>
+<color=#fffa62>Iron Duke-class</color>
+HMS Iron Duke (18)
+<color=#adadad>(1929)</color>"
+uk_battleship_iron_duke_1;HMS Iron Duke
+uk_battleship_iron_duke_2;Dreadnought
+
+uk_battlecruiser_renown_shop;HMS Renown (72)
+uk_battlecruiser_renown_0;"<color=#81c3fc>Fairfield Shipbuilding & Engineering Co. <color=@commonTextColor>/</color> Rosyth Dockyard</color>
+<color=#fffa62>Renown-class</color>
+HMS Renown (72)
+<color=#adadad>(1943)</color>"
+uk_battlecruiser_renown_1;HMS Renown
+uk_battlecruiser_renown_2;Battlecruiser
+
+uk_battlecruiser_repulse_shop;HMS Repulse (34)
+uk_battlecruiser_repulse_0;"<color=#81c3fc>John Brown & Co. <color=@commonTextColor>/</color> Rosyth Dockyard</color>
+<color=#fffa62>Renown-class</color>
+HMS Repulse (34)
+<color=#adadad>(1941)</color>"
+uk_battlecruiser_repulse_1;HMS Repulse
+uk_battlecruiser_repulse_2;Battlecruiser
+
+uk_cruiser_tiger_shop;HMS Tiger (C 20)
+uk_cruiser_tiger_0;"<color=#81c3fc>John Brown & Co.</color>
+<color=#fffa62>Tiger-class</color>
+HMS Tiger (C 20)"
+uk_cruiser_tiger_1;HMS Tiger
+uk_cruiser_tiger_2;Light Cruiser
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+uk_battleship_marlborough_shop;HMS Marlborough (66)
+uk_battleship_marlborough_0;"<color=#81c3fc>Devonport Royal Dockyard</color>
+<color=#fffa62>Iron Duke-class</color>
+HMS Marlborough (66)
+<color=#adadad>(1929)</color>"
+uk_battleship_marlborough_1;HMS Marlborough
+uk_battleship_marlborough_2;Super Dreadnought
+
+uk_battleship_q_elizabet_class_warspite_shop;HMS Warspite (03)
+uk_battleship_q_elizabet_class_warspite_0;"<color=#81c3fc>Devonport Royal Dockyard <color=@commonTextColor>/</color> Naval Station Durban</color>
+<color=#fffa62>Queen Elizabeth-class</color>
+HMS Warspite (03)
+<color=#adadad>(1943)</color>"
+uk_battleship_q_elizabet_class_warspite_1;HMS Warspite
+uk_battleship_q_elizabet_class_warspite_2;Super Dreadnought
+
+uk_battleship_q_elizabet_class_barham_shop;HMS Barham (97)
+uk_battleship_q_elizabet_class_barham_0;"<color=#81c3fc>John Brown & Co. <color=@commonTextColor>/</color> Cromarty Harbour</color>
+<color=#fffa62>Queen Elizabeth-class</color>
+HMS Barham (97)
+<color=#adadad>(1917)</color>"
+uk_battleship_q_elizabet_class_barham_1;HMS Barham
+uk_battleship_q_elizabet_class_barham_2;Super Dreadnought
+
+uk_battleship_rodney_shop;HMS Rodney (29)
+uk_battleship_rodney_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Rosyth Dockyard</color>
+<color=#fffa62>Nelson-class</color>
+HMS Rodney (29)
+<color=#adadad>(1940)</color>"
+uk_battleship_rodney_1;HMS Rodney
+uk_battleship_rodney_2;Battleship
+
+uk_battleship_nelson_shop;HMS Nelson (28)
+uk_battleship_nelson_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Philadelphia Navy Yard</color>
+<color=#fffa62>Nelson-class</color>
+HMS Nelson (28)
+<color=#adadad>(1944)</color>"
+uk_battleship_nelson_1;HMS Nelson
+uk_battleship_nelson_2;Battleship
+
+uk_battleship_prince_of_wales_shop;HMS Prince of Wales (53)
+uk_battleship_prince_of_wales_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Cape Town Dockyard</color>
+<color=#fffa62>King George V-class</color>
+HMS Prince of Wales (53)
+<color=#adadad>(1941)</color>"
+uk_battleship_prince_of_wales_1;HMS Prince of Wales
+uk_battleship_prince_of_wales_2;Battleship
+
+uk_battlecruiser_hood_shop;HMS Hood (51)
+uk_battlecruiser_hood_0;"<color=#81c3fc>John Brown & Co. <color=@commonTextColor>/</color> Rosyth Dockyard</color>
+<color=#fffa62>Admiral-class</color>
+HMS Hood (51)
+<color=#adadad>(1941)</color>"
+uk_battlecruiser_hood_1;HMS Hood
+uk_battlecruiser_hood_2;Battlecruiser
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
-
-<color=#81c3fc>Manufacturer & manufacturer name</color>
-<color=#ff8c80>Military project</color>
-<color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
-<color=#7ce68f>Alternate currently applicable name</color>
-Vehicle name
-<color=#adadad>Modifications</color>
-<color=#ba77ba>Service years package</color>
-<color=@currencyGoldColor>Unit/Ace</color>
+uk_battleship_vanguard_shop;HMS Vanguard (23)
+uk_battleship_vanguard_0;"<color=#81c3fc>John Brown & Co.</color>
+<color=#fffa62>Vanguard-class</color>
+HMS Vanguard (23)"
+uk_battleship_vanguard_1;HMS Vanguard
+uk_battleship_vanguard_2;Battleship
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
@@ -625,14 +4632,6 @@ Ki 43-II ""Hayabusa""
 <color=#adadad>(late)</color>"
 ki_43_2_1;Ki 43-II
 ki_43_2_2;Ki 43
-
-ki_43_2_late_shop;▃ Ki 43-II (early)
-ki_43_2_late_0;"<color=#81c3fc>Nakajima Hikōki</color>
-<color=#7ce68f>1 Shiki Sentōki 2 Gata</color>
-▃ Ki 43-II ""Hayabusa""
-<color=#adadad>(early)</color>"
-ki_43_2_late_1;▃ Ki 43-II
-ki_43_2_late_2;▃ Ki 43
 
 ki_43_3_otsu_shop;Ki 43-III Otsu
 ki_43_3_otsu_0;"<color=#81c3fc>Nakajima Hikōki <color=@commonTextColor>/</color> Tachikawa Hikōki</color>
@@ -804,14 +4803,6 @@ A6M2 ""Rei Sen"""
 a6m2_zero_1;A6M2
 a6m2_zero_2;A6M
 
-a6m2_zero_usa_shop;▃ A6M2 (21 Gata)
-a6m2_zero_usa_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
-<color=#7ce68f>0 Shiki Kanjō Sentōki 21 Gata</color>
-▃ A6M2 ""Rei Sen""
-<color=@currencyGoldColor>«Akutan Zero»</color>"
-a6m2_zero_usa_1;▃ A6M2
-a6m2_zero_usa_2;▃ A6M
-
 a6m3_zero_shop;A6M3 (32 Gata)
 a6m3_zero_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 <color=#7ce68f>0 Shiki Kanjō Sentōki 32 Gata</color>
@@ -939,13 +4930,6 @@ Ki 61-I Otsu ""Hien"""
 ki_61_1a_otsu_1;Ki 61-I
 ki_61_1a_otsu_2;Ki 61
 
-ki_61_1a_otsu_usa_shop;▃ Ki 61-I Otsu
-ki_61_1a_otsu_usa_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
-<color=#7ce68f>3 Shiki Sentōki 1 Gata Otsu</color>
-▃ Ki 61-I Otsu ""Hien"""
-ki_61_1a_otsu_usa_1;▃ Ki 61-I
-ki_61_1a_otsu_usa_2;▃ Ki 61
-
 ki_61_1a_hei_shop;Ki 61-I Hei
 ki_61_1a_hei_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
 <color=#7ce68f>3 Shiki Sentōki 1 Gata Hei</color>
@@ -956,7 +4940,8 @@ ki_61_1a_hei_2;Ki 61
 ki_61_1a_hei_ep_shop;Tada's Ki 61-I Hei
 ki_61_1a_hei_ep_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
 <color=#7ce68f>3 Shiki Sentōki 1 Gata Hei</color>
-Takeichi Tada's Ki 61-I Hei ""Hien"""
+Ki 61-I Hei ""Hien""
+<color=@currencyGoldColor>Takeichi Tada's</color>"
 ki_61_1a_hei_ep_1;Ki 61-I
 ki_61_1a_hei_ep_2;Ki 61
 
@@ -2193,46 +6178,46 @@ jp_oplot_t_2;MBT
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 jp_t14_class_shop;Dai 538 Gō
 jp_t14_class_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
 Dai 538 Gō"
 jp_t14_class_1;Dai 538 Gō
 jp_t14_class_2;Motor Torpedo Boat
 
 jp_t14_class_mod02_shop;Dai 1101 Gō
 jp_t14_class_mod02_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
 Dai 1101 Gō"
 jp_t14_class_mod02_1;Dai 1101 Gō
 jp_t14_class_mod02_2;Motor Torpedo Boat
 
 jp_t14_class_mod01_shop;Dai 871 Gō
 jp_t14_class_mod01_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
 Dai 871 Gō"
 jp_t14_class_mod01_1;Dai 871 Gō
 jp_t14_class_mod01_2;Motor Torpedo Boat
 
 jp_type5_escortboat_shop;Ke I Kō
-jp_type5_escortboat_0;"<color=#81c3fc>Haganesei Dai Goeikan</color>
+jp_type5_escortboat_0;"<color=#fffa62>Haganesei Dai Goeikan</color>
 Ke I Kō"
 jp_type5_escortboat_1;Ke I Kō
 jp_type5_escortboat_2;Escort Boat
 
 jp_type_t1_1941_shop;Dai 1 Gō
 jp_type_t1_1941_0;"<color=#81c3fc>Yokohama Yotto</color>
-<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 1 Gō Gata Gyorai Tei (T-1)</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 1 Gō Gata Gyorai Tei (T-1)</color>
 Dai 1 Gō"
 jp_type_t1_1941_1;Dai 1 Gō
 jp_type_t1_1941_2;Motor Torpedo Boat
 
 jp_abtei_pr1_shop;Sakigake
-jp_abtei_pr1_0;"<color=#7ce68f>Sōkō Tei Dai 1 Gō</color>
+jp_abtei_pr1_0;"<color=#fffa62>Sōkō Tei Dai 1 Gō</color>
 Sakigake"
 jp_abtei_pr1_1;Sakigake
 jp_abtei_pr1_2;Armored Boat
 
 jp_abtei_pr4_shop;Sōkō Tei Dai 4 Gō
-jp_abtei_pr4_0;"<color=#7ce68f>Sōkō Tei Dai 3 Gō Gata</color>
+jp_abtei_pr4_0;"<color=#fffa62>Sōkō Tei Dai 3 Gō Gata</color>
 Sōkō Tei Dai 4 Gō"
 jp_abtei_pr4_1;Sōkō Tei Dai 4 Gō
 jp_abtei_pr4_2;Armored Boat
@@ -2240,48 +6225,48 @@ jp_abtei_pr4_2;Armored Boat
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 jp_karotei_type2_shop;Ka Ro 2 Gata
 jp_karotei_type2_0;"<color=#81c3fc>Yokohama Yotto</color>
-<color=#7ce68f>4 Shiki 2 Gata Kuchiku Tei</color>
+<color=#fffa62>4 Shiki 2 Gata Kuchiku Tei</color>
 Ka Ro 2 Gata"
 jp_karotei_type2_1;Ka Ro 2 Gata
 jp_karotei_type2_2;Motor Gunboat
 
 jp_karotei_type4_shop;Ka Ro 4 Gata
 jp_karotei_type4_0;"<color=#81c3fc>Yokohama Yotto</color>
-<color=#7ce68f>4 Shiki 4 Gata Kuchiku Tei</color>
+<color=#fffa62>4 Shiki 4 Gata Kuchiku Tei</color>
 Ka Ro 4 Gata"
 jp_karotei_type4_1;Ka Ro 4 Gata
 jp_karotei_type4_2;Motor Gunboat
 
 jp_sehatei_mod1_shop;Se Ha 1 Gata
-jp_sehatei_mod1_0;"<color=#7ce68f>Shisei Ha Gō Sentō Tei 1 Gata</color>
+jp_sehatei_mod1_0;"<color=#fffa62>Shisei Ha Gō Sentō Tei 1 Gata</color>
 Se Ha 1 Gata"
 jp_sehatei_mod1_1;Se Ha 1 Gata
 jp_sehatei_mod1_2;Armored Boat
 
 jp_type38_1944_shop;Dai 241 Gō
 jp_type38_1944_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#7ce68f>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 241 Gō Gata Gyorai Tei (T-38)</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 241 Gō Gata Gyorai Tei (T-38)</color>
 Dai 241 Gō"
 jp_type38_1944_1;Dai 241 Gō
 jp_type38_1944_2;Motor Torpedo Boat
 
 jp_type1_pt2_shop;Gyorai Tei 2 Gō (PT-802)
 jp_type1_pt2_0;"<color=#81c3fc>Hitachi Zōsen</color>
-<color=#7ce68f>1 Gō Gata Gyorai Tei</color>
+<color=#fffa62>1 Gō Gata Gyorai Tei</color>
 Gyorai Tei 2 Gō (PT-802)"
 jp_type1_pt2_1;Gyorai Tei 2 Gō
 jp_type1_pt2_2;Motor Torpedo Boat
 
 jp_kusen_tei_13_1942_shop;Dai 18 Gō
 jp_kusen_tei_13_1942_0;"<color=#81c3fc>Tsurumi Zōsensho</color>
-<color=#7ce68f>Dai 13 Gō Gata Kusen Tei (K-8)</color>
+<color=#fffa62>Dai 13 Gō Gata Kusen Tei (K-8)</color>
 Dai 18 Gō"
 jp_kusen_tei_13_1942_1;Dai 18 Gō
 jp_kusen_tei_13_1942_2;Submarine Chaser
 
 jp_kusen_tei_13_1944_shop;Dai 18 Gō (1944)
 jp_kusen_tei_13_1944_0;"<color=#81c3fc>Tsurumi Zōsensho</color>
-<color=#7ce68f>Dai 13 Gō Gata Kusen Tei (K-8)</color>
+<color=#fffa62>Dai 13 Gō Gata Kusen Tei (K-8)</color>
 Dai 18 Gō (1944)"
 jp_kusen_tei_13_1944_1;Dai 18 Gō
 jp_kusen_tei_13_1944_2;Submarine Chaser
@@ -2289,63 +6274,577 @@ jp_kusen_tei_13_1944_2;Submarine Chaser
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 jp_t51a_shop;Dai 10 Gō
 jp_t51a_0;"<color=#81c3fc>Yokohama Yotto</color>
-<color=#7ce68f>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 10 Gō Gata Gyorai Tei (T-51A)</color>
+<color=#fffa62>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 10 Gō Gata Gyorai Tei (T-51A)</color>
 Dai 10 Gō"
 jp_t51a_1;Dai 10 Gō
 jp_t51a_2;Motor Torpedo Boat
 
 jp_t51b_shop;Dai 11 Gō
 jp_t51b_0;"<color=#81c3fc>Yokohama Yotto</color>
-<color=#7ce68f>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 11 Gō Gata Gyorai Tei (T-51B)</color>
+<color=#fffa62>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 11 Gō Gata Gyorai Tei (T-51B)</color>
 Dai 11 Gō"
 jp_t51b_1;Dai 11 Gō
 jp_t51b_2;Motor Torpedo Boat
 
 jp_pc301_kari_class_shop;Kari (PC-301)
 jp_pc301_kari_class_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
-<color=#7ce68f>Kari Gata Kusen Tei (K-101A)</color>
+<color=#fffa62>Kari Gata Kusen Tei (K-101A)</color>
 Kari (PC-301)"
 jp_pc301_kari_class_1;Kari
 jp_pc301_kari_class_2;Submarine Chaser
 
 jp_no1_ch2_shop;Dai 2 Gō
 jp_no1_ch2_0;"<color=#81c3fc>Ishikawajima Zōsensho</color>
-<color=#7ce68f>Dai 1 Gō Gata Kusen Tei (K-3)</color>
+<color=#fffa62>Dai 1 Gō Gata Kusen Tei (K-3)</color>
 Dai 2 Gō"
 jp_no1_ch2_1;Dai 2 Gō
 jp_no1_ch2_2;Submarine Chaser
 
 jp_no4_ch8_shop;Dai 8 Gō
 jp_no4_ch8_0;"<color=#81c3fc>Tama Zōsensho</color>
-<color=#7ce68f>Dai 4 Gō Gata Kusen Tei (K-7)</color>
+<color=#fffa62>Dai 4 Gō Gata Kusen Tei (K-7)</color>
 Dai 8 Gō"
 jp_no4_ch8_1;Dai 8 Gō
 jp_no4_ch8_2;Submarine Chaser
 
 jp_type7_pt808_shop;Gyorai Tei 8 Gō (PT-808)
 jp_type7_pt808_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Shimonoseki Zōsensho</color>
-<color=#7ce68f>7 Gō Gata Gyorai Tei</color>
+<color=#fffa62>7 Gō Gata Gyorai Tei</color>
 Gyorai Tei 8 Gō (PT-808)"
 jp_type7_pt808_1;Gyorai Tei 8 Gō
 jp_type7_pt808_2;Motor Torpedo Boat
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+jp_type_11_pt_15_shop;Gyorai Tei 15 Gō (PT-815)
+jp_type_11_pt_15_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Shimonoseki Zōsensho</color>
+<color=#fffa62>11 Gō Gata Gyorai Tei</color>
+Gyorai Tei 15 Gō (PT-815)"
+jp_type_11_pt_15_1;Gyorai Tei 15 Gō
+jp_type_11_pt_15_2;Motor Torpedo Boat
+
+jp_escort_ikazuchi_class_shop;Ikazuchi (DE-202)
+jp_escort_ikazuchi_class_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
+<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Ikazuchi Gata Goeikan (E-102)</color>
+Ikazuchi (DE-202)"
+jp_escort_ikazuchi_class_1;Ikazuchi
+jp_escort_ikazuchi_class_2;Destroyer Escort
+
+jp_escort_chikugo_class_shop;Tokachi (DE-218)
+jp_escort_chikugo_class_0;"<color=#81c3fc>Mitsui Zōsen Enjiniaringu</color>
+<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Chikugo Gata Goeikan (E-106)</color>
+Tokachi (DE-218)"
+jp_escort_chikugo_class_1;Tokachi
+jp_escort_chikugo_class_2;Destroyer Escort
+
+jp_escort_akebono_class_shop;Akebono (DE-201)
+jp_escort_akebono_class_0;"<color=#81c3fc>Ishikawajima Jūkōgyō</color>
+<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Akebono Gata Goeikan (E-102)</color>
+Akebono (DE-201)"
+jp_escort_akebono_class_1;Akebono
+jp_escort_akebono_class_2;Destroyer Escort
+
+jp_pg02_shop;Misairu Tei 2 Gō (PG-822)
+jp_pg02_0;"<color=#81c3fc>Sumitomo Jū Kikai Kōgyō</color>
+<color=#fffa62>1 Gō Gata Misairu Tei</color>
+Misairu Tei 2 Gō (PG-822)"
+jp_pg02_1;Misairutei 2 Gō
+jp_pg02_2;Missile Boat
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+jp_escort_hiburi_class_syonan_shop;Shōnan
+jp_escort_hiburi_class_syonan_0;"<color=#81c3fc>Hitachi Zōsen</color>
+<color=#fffa62>Kō Gata Kaibōkan <color=@commonTextColor>|</color> Hiburi Gata Kaibōkan (E-20B)</color>
+Shōnan"
+jp_escort_hiburi_class_syonan_1;Shōnan
+jp_escort_hiburi_class_syonan_2;Coastal Defense Ship
+
+jp_escort_hiburi_class_shisaka_shop;Shisaka
+jp_escort_hiburi_class_shisaka_0;"<color=#81c3fc>Hitachi Zōsen</color>
+<color=#fffa62>Kō Gata Kaibōkan <color=@commonTextColor>|</color> Hiburi Gata Kaibōkan (E-20B)</color>
+Shisaka"
+jp_escort_hiburi_class_shisaka_1;Shisaka
+jp_escort_hiburi_class_shisaka_2;Coastal Defense Ship
+
+jp_yuri_class_asagao_shop;Asagao
+jp_yuri_class_asagao_0;"<color=#81c3fc>George Lawley & Son</color>
+<color=#fffa62>Yuri Gata Keibitei</color>
+Asagao"
+jp_yuri_class_asagao_1;Asagao
+jp_yuri_class_asagao_2;Gunboat
+
+jp_destroyer_chidori_shop;Tomozuru
+jp_destroyer_chidori_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#fffa62>Chidori Gata Suiraitei (F-46)</color>
+Tomozuru
+<color=#adadad>(1944)</color>"
+jp_destroyer_chidori_1;Tomozuru
+jp_destroyer_chidori_2;Destroyer Escort
+
+jp_destroyer_isuzu_shop;Isuzu (DE-211)
+jp_destroyer_isuzu_0;"<color=#81c3fc>Mitsui Zōsen Enjiniaringu</color>
+<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Isuzu Gata Goeikan (E-103)</color>
+Isuzu (DE-211)"
+jp_destroyer_isuzu_1;Akebono
+jp_destroyer_isuzu_2;Destroyer Escort
+
+jp_destroyer_ayanami_shop;Ayanami (DD-103)
+jp_destroyer_ayanami_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#fffa62>Kō Gata Goeikan 1 Gata <color=@commonTextColor>|</color> Ayanami Gata Goeikan (F-102)</color>
+Ayanami (DD-103)"
+jp_destroyer_ayanami_1;Ayanami
+jp_destroyer_ayanami_2;Destroyer
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 1
+jp_destroyer_momi_shop;Momi
+jp_destroyer_momi_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#fffa62>Nitō Kuchikukan <color=@commonTextColor>|</color> Momi Gata Kuchikukan (F-37)</color>
+Momi
+<color=#adadad>(1930)</color>"
+jp_destroyer_momi_1;Momi
+jp_destroyer_momi_2;Destroyer
+
+jp_destroyer_tade_shop;Tade
+jp_destroyer_tade_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
+<color=#fffa62>Nitō Kuchikukan <color=@commonTextColor>|</color> Tade Gata Kuchikukan (F-37)</color>
+Tade"
+jp_destroyer_tade_1;Tade
+jp_destroyer_tade_2;Destroyer
+
+jp_destroyer_matsu_shop;Matsu
+jp_destroyer_matsu_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Matsu Gata Kuchikukan (F-55)</color>
+Matsu"
+jp_destroyer_matsu_1;Matsu
+jp_destroyer_matsu_2;Destroyer
+
+jp_destroyer_mutsuki_shop;Mutsuki
+jp_destroyer_mutsuki_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Mutsuki Gata Kuchikukan (F-41E1)</color>
+Mutsuki
+<color=#adadad>(1941)</color>"
+jp_destroyer_mutsuki_1;Mutsuki
+jp_destroyer_mutsuki_2;Destroyer
+
+jp_destroyer_mutsuki_EC_0;Ittō Kuchikukan | Mutsuki Gata Kuchikukan (F-41E1) | Mutsuki (1941)
+jp_destroyer_mutsuki_EC_1;Mutsuki
+jp_destroyer_mutsuki_EC_2;Destroyer
+
+jp_destroyer_satsuki_shop;Satsuki
+jp_destroyer_satsuki_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Mutsuki Gata Kuchikukan (F-41E1)</color>
+Satsuki 
+<color=#adadad>(1935)</color>"
+jp_destroyer_satsuki_1;Satsuki
+jp_destroyer_satsuki_2;Destroyer
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 2
+jp_minelayer_tsugaru_shop;Tsugaru
+jp_minelayer_tsugaru_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#fffa62>Tsugaru Gata Fusetsukan (H-10)</color>
+Tsugaru
+<color=#adadad>(1943)</color>"
+jp_minelayer_tsugaru_1;Tsugaru
+jp_minelayer_tsugaru_2;Minelayer
+
+jp_destroyer_harukaze_shop;Harukaze (DD-101)
+jp_destroyer_harukaze_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#fffa62>Kō Gata Goeikan <color=@commonTextColor>|</color> Harukaze Gata Goeikan (F-101)</color>
+Harukaze (DD-101)"
+jp_destroyer_harukaze_1;Harukaze
+jp_destroyer_harukaze_2;Destroyer
+
+jp_destroyer_murasame_shop;Murasame (DD-107)
+jp_destroyer_murasame_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#fffa62>Kō Gata Goeikan 2 Gata <color=@commonTextColor>|</color> Murasame Gata Goeikan (F-103)</color>
+Murasame (DD-107)
+<color=#adadad>(1975)</color>"
+jp_destroyer_murasame_1;Murasame
+jp_destroyer_murasame_2;Destroyer
+
+jp_destroyer_yugumo_shop;Yūgumo
+jp_destroyer_yugumo_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
+Yūgumo"
+jp_destroyer_yugumo_1;Yūgumo
+jp_destroyer_yugumo_2;Destroyer
+
+jp_destroyer_yugumo_EC_0;Ittō Kuchikukan | Yūgumo Gata Kuchikukan (F-50) | Yūgumo
+jp_destroyer_yugumo_EC_1;Yūgumo
+jp_destroyer_yugumo_EC_2;Destroyer
+
+jp_destroyer_hayanami_shop;Hayanami
+jp_destroyer_hayanami_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
+Hayanami"
+jp_destroyer_hayanami_1;Hayanami
+jp_destroyer_hayanami_2;Destroyer
+
+jp_destroyer_kiyoshimo_shop;Kiyoshimo
+jp_destroyer_kiyoshimo_0;"<color=#81c3fc>Uraga Senkyo</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
+Kiyoshimo"
+jp_destroyer_kiyoshimo_1;Kiyoshimo
+jp_destroyer_kiyoshimo_2;Destroyer
+
+jp_destroyer_hatsuharu_shop;Hatsuharu
+jp_destroyer_hatsuharu_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Hatsuharu Gata Kuchikukan (F-50)</color>
+Hatsuharu"
+jp_destroyer_hatsuharu_1;Hatsuharu
+jp_destroyer_hatsuharu_2;Destroyer
+
+jp_destroyer_fubuki_shop;Ayanami
+jp_destroyer_fubuki_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
+<color=#fffa62>Toku Gata Kuchikukan <color=@commonTextColor>|</color> Ayanami Gata Kuchikukan (F-43)</color>
+Ayanami
+<color=#adadad>(1936)</color>"
+jp_destroyer_fubuki_1;Ayanami
+jp_destroyer_fubuki_2;Destroyer
+
+jp_destroyer_fubuki_EC_0;Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)
+jp_destroyer_fubuki_EC_1;Ayanami
+jp_destroyer_fubuki_EC_2;Destroyer
+
+jp_destroyer_nenohi_shop;Nenohi
+jp_destroyer_nenohi_0;"<color=#81c3fc>Uraga Senkyo</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Hatsuharu Gata Kuchikukan (F-50)</color>
+Nenohi"
+jp_destroyer_nenohi_1;Nenohi
+jp_destroyer_nenohi_2;Destroyer
+
+jp_destroyer_yugure_shop;Yūgure (DD-184)
+jp_destroyer_yugure_0;"<color=#81c3fc>Boston Navy Yard <color=@commonTextColor>/</color> Ishikawajima Jū Kōgyō</color>
+<color=#fffa62>Kō Gata Goeikan <color=@commonTextColor>|</color> Airake Gata Goeikan</color>
+Yūgure (DD-184)"
+jp_destroyer_yugure_1;Yūgure
+jp_destroyer_yugure_2;Destroyer
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 3
+jp_destroyer_akizuki_shop;Akizuki
+jp_destroyer_akizuki_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan (F-51)</color>
+Akizuki"
+jp_destroyer_akizuki_1;Akizuki
+jp_destroyer_akizuki_2;Destroyer
+
+jp_destroyer_akizuki_EC_0;Ittō Kuchikukan | Akizuki Gata Kuchikukan (F-51) | Akizuki
+jp_destroyer_akizuki_EC_1;Akizuki
+jp_destroyer_akizuki_EC_2;Destroyer
+
+jp_destroyer_hatsuzuki_shop;◓ Hatsuzuki
+jp_destroyer_hatsuzuki_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan (F-51)</color>
+◓ Hatsuzuki"
+jp_destroyer_hatsuzuki_1;◓ Hatsuzuki
+jp_destroyer_hatsuzuki_2;Destroyer
+
+jp_destroyer_suzutsuki_shop;Suzutsuki
+jp_destroyer_suzutsuki_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan (F-51)</color>
+Suzutsuki
+<color=#adadad>(1944)</color>"
+jp_destroyer_suzutsuki_1;Suzutsuki
+jp_destroyer_suzutsuki_2;Destroyer
+
+jp_cruiser_kako_shop;Kako
+jp_cruiser_kako_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Furutaka Gata Junyōkan</color>
+Kako
+<color=#adadad>(1932)</color>"
+jp_cruiser_kako_1;Kako
+jp_cruiser_kako_2;Heavy Cruiser
+
+jp_cruiser_kako_EC_0;Ittō Junyōkan | Furutaka Gata Junyōkan | Kako (1932)
+jp_cruiser_kako_EC_1;Kako
+jp_cruiser_kako_EC_2;Heavy Cruiser
+
+jp_cruiser_furutaka_shop;Furutaka
+jp_cruiser_furutaka_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Furutaka Gata Junyōkan</color>
+Furutaka
+<color=#adadad>(1942)</color>"
+jp_cruiser_furutaka_1;Furutaka
+jp_cruiser_furutaka_2;Heavy Cruiser
+
+jp_cruiser_furutaka_EC_0;Ittō Junyōkan | Furutaka Gata Junyōkan | Furutaka (1942)
+jp_cruiser_furutaka_EC_1;Furutaka
+jp_cruiser_furutaka_EC_2;Heavy Cruiser
+
+jp_cruiser_isuzu_shop;Isuzu
+jp_cruiser_isuzu_0;"<color=#81c3fc>Uraga Senkyo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Nagara Gata Junyōkan (C-33)</color>
+Isuzu
+<color=#adadad>(1944)</color>"
+jp_cruiser_isuzu_1;Isuzu
+jp_cruiser_isuzu_2;Light Cruiser
+
+jp_cruiser_kuma_shop;Tama
+jp_cruiser_kuma_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Kuma Gata Junyōkan (C-33)</color>
+Tama
+<color=#adadad>(1939)</color>"
+jp_cruiser_kuma_1;Tama
+jp_cruiser_kuma_2;Light Cruiser
+
+jp_cruiser_kuma_EC_0;Nitō Junyōkan | Kuma Gata Junyōkan (C-33) | Tama (1939)
+jp_cruiser_kuma_EC_1;Tama
+jp_cruiser_kuma_EC_2;Light Cruiser
+
+jp_cruiser_sendai_shop;Sendai
+jp_cruiser_sendai_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Sendai Gata Junyōkan (C-33)</color>
+Sendai
+<color=#adadad>(1942)</color>"
+jp_cruiser_sendai_1;Sendai
+jp_cruiser_sendai_2;Light Cruiser
+
+jp_destroyer_kagero_shop;Kagerō
+jp_destroyer_kagero_0;"<color=#81c3fc>Maizuru Kaigun Kōshō <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Kagerō Gata Kuchikukan (F-49)</color>
+Kagerō
+<color=#adadad>(1943)</color>"
+jp_destroyer_kagero_1;Kagerō
+jp_destroyer_kagero_2;Destroyer
+
+jp_destroyer_yukikaze_shop;Yukikaze
+jp_destroyer_yukikaze_0;"<color=#81c3fc>Sasebo Kaigun Kōshō <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Kagerō Gata Kuchikukan (F-49)</color>
+Yukikaze
+<color=#adadad>(1943)</color>"
+jp_destroyer_yukikaze_1;Yukikaze
+jp_destroyer_yukikaze_2;Destroyer
+
+jp_cruiser_yubari_shop;Yūbari
+jp_cruiser_yubari_0;"<color=#81c3fc>Sasebo Kaigun Kōshō <color=@commonTextColor>/</color> Yokosuka Kaigun Kōshō</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Yūbari Gata Junyōkan (F-42)</color>
+Yūbari
+<color=#adadad>(1944)</color>"
+jp_cruiser_yubari_1;Yūbari
+jp_cruiser_yubari_2;Light Cruiser
+
+jp_destroyer_shimakaze_shop;Shimakaze
+jp_destroyer_shimakaze_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Shimakaze Gata Kuchikukan (F-52)</color>
+Shimakaze
+<color=#adadad>(1944)</color>"
+jp_destroyer_shimakaze_1;Shimakaze
+jp_destroyer_shimakaze_2;Destroyer
+
+jp_destroyer_yuudachi_shop;Yūdachi
+jp_destroyer_yuudachi_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Shiratsuyu Gata Kuchikukan (F-45D)</color>
+Yūdachi"
+jp_destroyer_yuudachi_1;Yūdachi
+jp_destroyer_yuudachi_2;Destroyer
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 4
+jp_cruiser_aoba_shop;Aoba
+jp_cruiser_aoba_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Aoba Gata Junyōkan (C-41)</color>
+Aoba
+<color=#adadad>(1944)</color>"
+jp_cruiser_aoba_1;Aoba
+jp_cruiser_aoba_2;Heavy Cruiser
+
+jp_cruiser_haguro_shop;Haguro
+jp_cruiser_haguro_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Myōkō Gata Junyōkan (C-42)</color>
+Haguro
+<color=#adadad>(1944)</color>"
+jp_cruiser_haguro_1;Haguro
+jp_cruiser_haguro_2;Heavy Cruiser
+
+jp_cruiser_myoko_shop;Myōkō
+jp_cruiser_myoko_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Myōkō Gata Junyōkan (C-42)</color>
+Myōkō
+<color=#adadad>(1944)</color>"
+jp_cruiser_myoko_1;Myōkō
+jp_cruiser_myoko_2;Heavy Cruiser
+
+jp_cruiser_agano_shop;Agano
+jp_cruiser_agano_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Agano Gata Junyōkan (C-41-II)</color>
+Agano
+<color=#adadad>(1943)</color>"
+jp_cruiser_agano_1;Agano
+jp_cruiser_agano_2;Light Cruiser
+
+jp_cruiser_agano_EC_0;Nitō Junyōkan
+<color=#fffa62>Agano Gata Junyōkan (C-41-II)</color>
+Agano (1943)
+jp_cruiser_agano_EC_1;Agano
+jp_cruiser_agano_EC_2;Light Cruiser
+
+jp_cruiser_oyodo_shop;Ōyodo
+jp_cruiser_oyodo_0;"<color=#81c3fc>Kure Kaigun Kōshō <color=@commonTextColor>/</color> Dai 101 Kaigun Shisetsubu</color>
+<color=#fffa62>Santō Junyōkan <color=@commonTextColor>|</color> Ōyodo Gata Junyōkan (C-42)</color>
+Ōyodo
+<color=#adadad>(1945)</color>"
+jp_cruiser_oyodo_1;Ōyodo
+jp_cruiser_oyodo_2;Light Cruiser
+jp_armoredcruiser_ikoma_shop;Ikoma
+
+jp_armoredcruiser_ikoma_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Tsukuba Gata Junyōkan (B-12)</color>
+Ikoma
+<color=#adadad>(1912)</color>"
+jp_armoredcruiser_ikoma_1;Ikoma
+jp_armoredcruiser_ikoma_2;Battlecruiser
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 5
+jp_cruiser_tone_shop;Tone
+jp_cruiser_tone_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Tone Gata Junyōkan (C-38)</color>
+Tone
+<color=#adadad>(1945)</color>"
+jp_cruiser_tone_1;Tone
+jp_cruiser_tone_2;Heavy Cruiser
+
+jp_cruiser_mogami_suzuya_shop;Suzuya
+jp_cruiser_mogami_suzuya_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
+Suzuya"
+jp_cruiser_mogami_suzuya_1;Suzuya
+jp_cruiser_mogami_suzuya_2;Light Cruiser
+
+jp_cruiser_mogami_shop;Mogami
+jp_cruiser_mogami_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
+Mogami"
+jp_cruiser_mogami_1;Mogami
+jp_cruiser_mogami_2;Heavy Cruiser
+
+jp_cruiser_mogami_mikuma_shop;Mikuma
+jp_cruiser_mogami_mikuma_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
+Mikuma"
+jp_cruiser_mogami_mikuma_1;Mikuma
+jp_cruiser_mogami_mikuma_2;Light Cruiser
+
+jp_battleship_hyuga_shop;Hyūga
+jp_battleship_hyuga_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
+<color=#fffa62>Ise Gata Senkan (A-92)</color>
+Hyūga"
+jp_battleship_hyuga_1;Hyūga
+jp_battleship_hyuga_2;Battleship
+
+jp_battleship_ise_shop;Ise
+jp_battleship_ise_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
+<color=#fffa62>Ise Gata Senkan (A-92)</color>
+Ise
+<color=#adadad>(1937)</color>"
+jp_battleship_ise_1;Ise
+jp_battleship_ise_2;Battleship
+
+jp_battleship_settsu_shop;Settsu
+jp_battleship_settsu_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
+<color=#fffa62>Kawachi Gata Senkan (A-30)</color>
+Settsu"
+jp_battleship_settsu_1;Settsu
+jp_battleship_settsu_2;Battleship
+
+jp_battlecruiser_hiei_shop;Hiei
+jp_battlecruiser_hiei_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#fffa62>Kongō Gata Junyōsenkan (B-46)</color>
+Hiei
+<color=#adadad>(1923)</color>"
+jp_battlecruiser_hiei_1;Hiei
+jp_battlecruiser_hiei_2;Battlecruiser
+
+jp_battlecruiser_kirishima_shop;Kirishima
+jp_battlecruiser_kirishima_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Sasebo Kaigun Kōshō</color>
+<color=#fffa62>Kongō Gata Senkan (B-46)</color>
+Kirishima
+<color=#adadad>(1942)</color>"
+jp_battlecruiser_kirishima_1;Kirishima
+jp_battlecruiser_kirishima_2;Battleship
+
+jp_battlecruiser_haruna_shop;Haruna
+jp_battlecruiser_haruna_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
+<color=#fffa62>Kongō Gata Senkan (B-46)</color>
+Haruna
+<color=#adadad>(1945)</color>"
+jp_battlecruiser_haruna_1;Haruna
+jp_battlecruiser_haruna_2;Battleship
+
+jp_battlecruiser_kongo_shop;Kongō
+jp_battlecruiser_kongo_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Sasebo Kaigun Kōshō</color>
+<color=#fffa62>Kongō Gata Senkan (B-46)</color>
+Kongō
+<color=#adadad>(1944)</color>"
+jp_battlecruiser_kongo_1;Kongō
+jp_battlecruiser_kongo_2;Battleship
+
+jp_armoredcruiser_kurama_shop;Kurama
+jp_armoredcruiser_kurama_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Kurama Gata Junyōkan (B-17)</color>
+Kurama
+<color=#adadad>(1919)</color>"
+jp_armoredcruiser_kurama_1;Kurama
+jp_armoredcruiser_kurama_2;Battlecruiser
+
+jp_battleship_yamashiro_shop;Yamashiro
+jp_battleship_yamashiro_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#fffa62>Fusō Gata Senkan (A-64)</color>
+Yamashiro"
+jp_battleship_yamashiro_1;Yamashiro
+jp_battleship_yamashiro_2;Battleship
+
+jp_battleship_fuso_shop;Fusō
+jp_battleship_fuso_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
+<color=#fffa62>Fusō Gata Senkan (A-64)</color>
+Fusō"
+jp_battleship_fuso_1;Fusō
+jp_battleship_fuso_2;Battleship
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 6
+jp_battlecruiser_amagi_shop;Amagi
+jp_battlecruiser_amagi_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#fffa62>Amagi Gata Junyōsenkan (B-64)</color>
+Amagi"
+jp_battlecruiser_amagi_1;Amagi
+jp_battlecruiser_amagi_2;Battlecruiser
+
+jp_battleship_mutsu_shop;Mutsu
+jp_battleship_mutsu_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#fffa62>Nagato Gata Senkan (A-114)</color>
+Mutsu
+<color=#adadad>(1922)</color>"
+jp_battleship_mutsu_1;Mutsu
+jp_battleship_mutsu_2;Battleship
+
+jp_battleship_nagato_shop;Nagato
+jp_battleship_nagato_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
+<color=#fffa62>Nagato Gata Senkan (A-114)</color>
+Nagato
+<color=#adadad>(1944)</color>"
+jp_battleship_nagato_1;Nagato
+jp_battleship_nagato_2;Battleship
+
+jp_battleship_tosa_shop;Tosa
+jp_battleship_tosa_0;"<color=#81c3fc>Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo</color>
+<color=#fffa62>Kaga Gata Senkan (A-127)</color>
+Tosa"
+jp_battleship_tosa_1;Tosa
+jp_battleship_tosa_2;Battleship
 
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 7
+jp_battleship_yamato_shop;Yamato
+jp_battleship_yamato_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
+<color=#fffa62>Yamato Gata Senkan (A-140F6)</color>
+Yamato
+<color=#adadad>(1945)</color>"
+jp_battleship_yamato_1;Yamato
+jp_battleship_yamato_2;Battleship
+
+jp_battleship_musashi_shop;Musashi
+jp_battleship_musashi_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
+<color=#fffa62>Yamato Gata Senkan (A-140F6)</color>
+Musashi
+<color=#adadad>(1943)</color>"
+jp_battleship_musashi_1;Musashi
+jp_battleship_musashi_2;Battleship
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 gladiator_mk1_china_shop;☀ Dòushì Mk. I
@@ -2718,6 +7217,7 @@ f-104g_china_2;☀ F-104
 mig-19j_6a_shop;J6A
 mig-19j_6a_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 SM-7/3 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè
 Chang</color>
+<color=#919191>Dōngfēng 103 <color=@commonTextColor>|</color> 59 Shì Jiǎ Jiānjíjī <color=@commonTextColor>|</color> J6 Jiǎ Xíng Jiānjíjī</color>
 J6A Xíng Fēijī"
 mig-19j_6a_1;J6A
 mig-19j_6a_2;J6
@@ -2742,6 +7242,7 @@ j_7e_2;K/JJ7
 
 q_5_early_shop;Q5
 q_5_early_0;"<color=#81c3fc>Nánchāng Fēijī Zhìzào Gōngsī</color>
+<color=#919191>Xióngyīng 302</color>
 Q5 Xíng Fēijī"
 q_5_early_1;Q5
 q_5_early_2;Q5
@@ -3893,28 +8394,514 @@ it_m47_105_2;Medium Tank
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+it_mas_classe500_3_1944_shop;MAS 561
+it_mas_classe500_3_1944_0;"<color=#81c3fc>Cantiere Baglietto</color>
+<color=#fffa62>Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie</color>
+MAS 561"
+it_mas_classe500_3_1944_1;MAS 561
+it_mas_classe500_3_1944_2;Armed Torpedo Boat
+
+it_mas_classe500_3_shop;MAS 555
+it_mas_classe500_3_0;"<color=#81c3fc>Cantiere navale Picchiotti</color>
+<color=#fffa62>Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie</color>
+MAS 555"
+it_mas_classe500_3_1;MAS 555
+it_mas_classe500_3_2;Armed Torpedo Boat
+
+it_mas_classe500_4_shop;MAS 569
+it_mas_classe500_4_0;"<color=#81c3fc>Cantiere Baglietto</color>
+<color=#fffa62>Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 4ª Serie</color>
+MAS 569"
+it_mas_classe500_4_1;MAS 569
+it_mas_classe500_4_2;Armed Torpedo Boat
+
+it_vas_baglietto_68t_1serie_shop;VAS 201
+it_vas_baglietto_68t_1serie_0;"<color=#81c3fc>Cantiere Baglietto</color>
+<color=#fffa62>Motovedette Antisommergibili Tipo Baglietto 68 t, 1ª Serie</color>
+VAS 201"
+it_vas_baglietto_68t_1serie_1;VAS 201
+it_vas_baglietto_68t_1serie_2;Anti-Submarine Patrol Boat
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+it_ms15_1a_shop;MS 15
+it_ms15_1a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
+<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 1ª Serie</color>
+MS 15"
+it_ms15_1a_1;MS 15
+it_ms15_1a_2;Motor Torpedo Boat
+
+it_ms53_2a_shop;MS 53
+it_ms53_2a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
+<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
+MS 53"
+it_ms53_2a_1;MS 53
+it_ms53_2a_2;Motor Torpedo Boat
+
+it_ms74_2a_shop;MS 74
+it_ms74_2a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
+<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
+MS 74"
+it_ms74_2a_1;MS 74
+it_ms74_2a_2;Motor Torpedo Boat
+
+it_ms473_2a_shop;MS 472
+it_ms473_2a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
+<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
+MS 472"
+it_ms473_2a_1;MS 472
+it_ms473_2a_2;Motor Torpedo Boat
+
+it_ms471_1a_shop;MV 611
+it_ms471_1a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
+<color=#fffa62>Motovedette Tipo CRDA 60 t, 1ª Serie</color>
+MV 611"
+it_ms471_1a_1;MV 611
+it_ms471_1a_2;Patrol Boat
+
+it_ms473_2a_art_shop;MS 473
+it_ms473_2a_art_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
+<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
+MS 473"
+it_ms473_2a_art_1;MS 473
+it_ms473_2a_art_2;Motor Torpedo Boat
+
+it_mas_stefano_turr_shop;Stefano Turr
+it_mas_stefano_turr_0;"<color=#81c3fc>Cantiere Baglietto</color>
+<color=#fffa62>Motoscafo Armato Silurante Tipo Sperimentale Diesel</color>
+Stefano Turr"
+it_mas_stefano_turr_1;Stefano Turr
+it_mas_stefano_turr_2;Armed Torpedo Boat
+
+it_mas441_shop;MAS 441
+it_mas441_0;"<color=#81c3fc>Cantiere Baglietto</color>
+<color=#fffa62>Motoscafo Antisommergibili Tipo Baglietto 1934</color>
+MAS 441"
+it_mas441_1;MAS 441
+it_mas441_2;Motor Torpedo Boat
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+it_a1_vosper_shop;MS 461
+it_a1_vosper_0;"<color=#81c3fc>Robert Jacob Shipyard</color>
+<color=#fffa62>Motosiluranti Tipo Vosper da 72 Piedi e 6 Pollici</color>
+MS 461"
+it_a1_vosper_1;MS 461
+it_a1_vosper_2;Motor Torpedo Boat
+
+it_ms444_shop;MS 444
+it_ms444_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
+<color=#fffa62>Motosiluranti Tipo Higgins da 78 Piedi</color>
+MS 444"
+it_ms444_1;MS 444
+it_ms444_2;Motor Torpedo Boat
+
+it_mc_485_shop;MC 485
+it_mc_485_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12860</color>
+<color=#fffa62>Motosiluranti Tipo Lürssen S 26</color>
+MC 485"
+it_mc_485_1;MC 485
+it_mc_485_2;Motor Torpedo Boat
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+it_mc490_folgore_shop;MC 490
+it_mc490_folgore_0;"<color=#81c3fc>Cantiere navale Triestino</color>
+<color=#fffa62>Motocannoniera Convertibile Tipo Sperimentale CRDA</color>
+MC 490"
+it_mc490_folgore_1;MC 490
+it_mc490_folgore_2;Convertible Motor Gunboat
+
+it_mc492_baleno_shop;Baleno (MC 492)
+it_mc492_baleno_0;"<color=#81c3fc>Cantiere navale Triestino</color>
+<color=#fffa62>Motocannoniera Convertibile Classe Lampo</color>
+Baleno (MC 492)"
+it_mc492_baleno_1;Baleno (MC 492)
+it_mc492_baleno_2;Convertible Motor Gunboat
+
+it_gabbiano_class_shop;Gabbiano (GB)
+it_gabbiano_class_0;"<color=#81c3fc>Cantiere navale di Voltri</color>
+<color=#fffa62>Corvetta Classe Gabbiano, 1ª Serie</color>
+Gabbiano (GB)"
+it_gabbiano_class_1;Gabbiano
+it_gabbiano_class_2;Corvette
+
+it_gabbiano_class_c16_shop;Folaga (F 576)
+it_gabbiano_class_c16_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
+<color=#fffa62>Corvetta Classe Gabbiano, 1ª Serie</color>
+Folaga (F 576)
+<color=#adadad>(1953)</color>"
+it_gabbiano_class_c16_1;Folaga
+it_gabbiano_class_c16_2;Corvette
+
+it_p420_sparviero_shop;Sparviero (P 420)
+it_p420_sparviero_0;"<color=#81c3fc>Cantiere Navale del Muggiano</color>
+Aliscafo Missilistico Sparviero (P 420)"
+it_p420_sparviero_1;Sparviero
+it_p420_sparviero_2;Missile Hydrofoil
+
+it_p493_freccia_shop;Freccia (P 493)
+it_p493_freccia_0;"<color=#81c3fc>Cantiere navali del Tirreno e Riuniti</color>
+<color=#fffa62>Motocannoniera Convertibile Classe 590</color>
+Freccia (P 493)"
+it_p493_freccia_1;Freccia
+it_p493_freccia_2;Convertible Motor Gunboat
+
+it_p494_saetta_shop;Saetta (P 494)
+it_p494_saetta_0;"<color=#81c3fc>Cantiere navale Triestino</color>
+<color=#fffa62>Motocannoniera Convertibile Classe 590</color>
+Saetta (P 494)"
+it_p494_saetta_1;Saetta
+it_p494_saetta_2;Convertible Motor Gunboat
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+it_alano_9851_shop;Alano (L 9851)
+it_alano_9851_0;"<color=#81c3fc>Commercial Iron Works</color>
+<color=#fffa62>Motocannoniera Classe Alano</color>
+Alano (L 9851)"
+it_alano_9851_1;Alano
+it_alano_9851_2;Motor Gunboat
+
+it_cassiopea_p401_shop;Cassiopea (P 401)
+it_cassiopea_p401_0;"<color=#81c3fc>Fincantieri del Muggiano</color>
+<color=#fffa62>Pattugliatori Classe Cassiopea</color>
+Cassiopea (P 401)"
+it_cassiopea_p401_1;Cassiopea
+it_cassiopea_p401_2;Patrol Vessel
+
+it_ciclone_class_ghibli_shop;Ghibli (GH)
+it_ciclone_class_ghibli_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia</color>
+<color=#fffa62>Torpediniera Classe Ciclone</color>
+Ghibli (GH)"
+it_ciclone_class_ghibli_1;Ghibli
+it_ciclone_class_ghibli_2;Torpedo Boat
+
+it_albatros_class_f543_shop;Albatros (F 543)
+it_albatros_class_f543_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia</color>
+<color=#fffa62>Corvetta Classe Albatros</color>
+Albatros (F 543)"
+it_albatros_class_f543_1;Albatros
+it_albatros_class_f543_2;Corvette
+
+it_albatros_class_f544_shop;Alcione (F 544)
+it_albatros_class_f544_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia</color>
+<color=#fffa62>Corvetta Classe Albatros</color>
+Alcione (F 544)"
+it_albatros_class_f544_1;Albatros
+it_albatros_class_f544_2;Corvette
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+it_destroyer_turbine_shop;Turbine (TB)
+it_destroyer_turbine_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
+<color=#fffa62>Cacciatorpediniere Classe Turbine</color>
+Turbine (TB)"
+it_destroyer_turbine_1;Turbine
+it_destroyer_turbine_2;Destroyer
+
+it_destroyer_aquilone_shop;Aquilone (AL)
+it_destroyer_aquilone_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente <color=@commonTextColor>/</color> Cantiere navali del Quarnaro</color>
+<color=#fffa62>Cacciatorpediniere Classe Turbine</color>
+Aquilone (AL)
+<color=#adadad>(1939)</color>"
+it_destroyer_aquilone_1;Aquilone
+it_destroyer_aquilone_2;Destroyer
+
+it_destroyer_dardo_shop;Dardo (DR)
+it_destroyer_dardo_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
+<color=#fffa62>Cacciatorpediniere Classe Freccia</color>
+Dardo (DR)"
+it_destroyer_dardo_1;Dardo
+it_destroyer_dardo_2;Destroyer
+
+it_destroyer_saetta_shop;Saetta (SA)
+it_destroyer_saetta_0;"<color=#81c3fc>Cantiere navale del Tirreno di Riva Trigoso <color=@commonTextColor>/</color> Cantiere navali riuniti di
+Palermo</color>
+<color=#fffa62>Cacciatorpediniere Classe Freccia</color>
+Saetta (SA)
+<color=#adadad>(1942)</color>"
+it_destroyer_saetta_1;Saetta
+it_destroyer_saetta_2;Destroyer
+
+it_destroyer_oriani_class_gioberti_shop;Vincenzo Gioberti (GB)
+it_destroyer_oriani_class_gioberti_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno <color=@commonTextColor>/</color> Cantiere navale di
+Castellammare di Stabia</color>
+<color=#fffa62>Cacciatorpediniere Classe Alfredo Oriani</color>
+Vincenzo Gioberti (GB)
+<color=#adadad>(1942)</color>"
+it_destroyer_oriani_class_gioberti_1;Vincenzo Gioberti (GB)
+it_destroyer_oriani_class_gioberti_2;Destroyer
+
+it_destroyer_vifor_class_aquila_shop;Aquila (AQ)
+it_destroyer_vifor_class_aquila_0;"<color=#81c3fc>Cantiere navali Pattison</color>
+<color=#fffa62>Cacciatorpediniere Classe Aquila</color>
+Aquila (AQ)"
+it_destroyer_vifor_class_aquila_1;Aquila
+it_destroyer_vifor_class_aquila_2;Destroyer
+
+it_destroyer_maestrale_class_grecale_shop;Grecale (GR)
+it_destroyer_maestrale_class_grecale_0;"<color=#81c3fc>Cantiere Navali del Tirreno e Riuniti <color=@commonTextColor>/</color> Arsenale militare marittimo della
+Spezia</color>
+<color=#fffa62>Cacciatorpediniere Classe Maestrale</color>
+Gercale (GR)
+<color=#adadad>(1949)</color>"
+it_destroyer_maestrale_class_grecale_1;Grecale
+it_destroyer_maestrale_class_grecale_2;Destroyer
+
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+it_destroyer_leone_class_shop;Leone (LE)
+it_destroyer_leone_class_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
+<color=#fffa62>Esploratore Classe Leone</color>
+Leone (LE)
+<color=#adadad>(1936)</color>"
+it_destroyer_leone_class_1;Leone
+it_destroyer_leone_class_2;Destroyer
+
+it_destroyer_leone_class_tigre_shop;Tigre (TI)
+it_destroyer_leone_class_tigre_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
+<color=#fffa62>Esploratore Classe Leone</color>
+Tigre (TI)
+<color=#adadad>(1931)</color>"
+it_destroyer_leone_class_tigre_1;Tigre
+it_destroyer_leone_class_tigre_2;Destroyer
+
+it_destroyer_soldati_serie1_camicianera_shop;Camicia Nera (CN)
+it_destroyer_soldati_serie1_camicianera_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
+<color=#fffa62>Cacciatorpediniere Classe Soldati, 1ª Serie</color>
+Camicia Nera (CN)"
+it_destroyer_soldati_serie1_camicianera_1;Camicia Nera
+it_destroyer_soldati_serie1_camicianera_2;Destroyer
+
+it_destroyer_soldati_serie1_geniere_shop;Geniere (GE)
+it_destroyer_soldati_serie1_geniere_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
+<color=#fffa62>Cacciatorpediniere Classe Soldati, 1ª Serie</color>
+Geniere (GE)
+<color=#adadad>(1942)</color>"
+it_destroyer_soldati_serie1_geniere_1;Geniere
+it_destroyer_soldati_serie1_geniere_2;Destroyer
+
+it_destroyer_soldati_serie1_shop;Aviere (AV)
+it_destroyer_soldati_serie1_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
+<color=#fffa62>Cacciatorpediniere Classe Soldati, 1ª Serie</color>
+Aviere (AV)"
+it_destroyer_soldati_serie1_1;Aviere
+it_destroyer_soldati_serie1_2;Destroyer
+
+it_destroyer_comandanti_medaglie_doro_shop;Comandante Margottini (MA)
+it_destroyer_comandanti_medaglie_doro_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
+<color=#fffa62>Cacciatorpediniere Classe Comandanti Medaglie d'Oro, 1ª Serie</color>
+Comandante Margottini (MA)"
+it_destroyer_comandanti_medaglie_doro_1;Comandante Margottini
+it_destroyer_comandanti_medaglie_doro_2;Destroyer
+
+it_destroyer_impetuoso_class_impetuoso_shop;Impetuoso (D 558)
+it_destroyer_impetuoso_class_impetuoso_0;"<color=#81c3fc>Cantiere navale di Riva Trigoso</color>
+<color=#fffa62>Cacciatorpediniere Classe Indomito</color>
+Impetuoso (D 558)"
+it_destroyer_impetuoso_class_impetuoso_1;Impetuoso
+it_destroyer_impetuoso_class_impetuoso_2;Destroyer
+
+it_destroyer_fletcher_geniere_shop;Geniere (D 555)
+it_destroyer_fletcher_geniere_0;"<color=#81c3fc>Seattle-Tacoma Shipbuilding Corporation</color>
+<color=#fffa62>Cacciatorpediniere Classe Fante</color>
+Geniere (D 555)"
+it_destroyer_fletcher_geniere_1;Geniere
+it_destroyer_fletcher_geniere_2;Destroyer
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+it_destroyer_navigatori_class_verazzano_shop;Giovanni da Verazzano (DV)
+it_destroyer_navigatori_class_verazzano_0;"<color=#81c3fc>Cantiere navali del Quarnaro</color>
+<color=#fffa62>Cacciatorpediniere Classe Navigatori</color>
+Giovanni da Verazzano (DV)
+<color=#adadad>(1940)</color>"
+it_destroyer_navigatori_class_verazzano_1;Giovanni da Verazzano
+it_destroyer_navigatori_class_verazzano_2;Destroyer
+
+it_cruiser_bartolomeocolleoni_1940_shop;Bartolomeo Colleoni
+it_cruiser_bartolomeocolleoni_1940_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
+<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Alberto di Giussano</color>
+Bartolomeo Colleoni"
+it_cruiser_bartolomeocolleoni_1940_1;Bartolomeo Colleoni
+it_cruiser_bartolomeocolleoni_1940_2;Light Cruiser
+
+it_cruiser_cadorna_class_diaz_shop;Armando Diaz
+it_cruiser_cadorna_class_diaz_0;"<color=#81c3fc>Società per la Costruzione di Navi, Macchine ed Artiglierie Odero
+Terni-Orlando di Muggiano</color>
+<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna</color>
+Armando Diaz"
+it_cruiser_cadorna_class_diaz_1;Armando Diaz
+it_cruiser_cadorna_class_diaz_2;Light Cruiser
+
+it_cruiser_cadorna_class_cadorna_shop;Luigi Cadorna
+it_cruiser_cadorna_class_cadorna_0;"<color=#81c3fc>Cantiere riuniti dell'Adriatico</color>
+<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna</color>
+Luigi Cadorna
+<color=#adadad>(1944)</color>"
+it_cruiser_cadorna_class_cadorna_1;Luigi Cadorna
+it_cruiser_cadorna_class_cadorna_2;Light Cruiser
+
+it_cruiser_etna_class_shop;Etna
+it_cruiser_etna_class_0;"<color=#81c3fc>Cantiere navale Triestino</color>
+<color=#fffa62>Incrociatore Leggero Classe Etna</color>
+Etna"
+it_cruiser_etna_class_1;Etna
+it_cruiser_etna_class_2;Light Cruiser
+
+it_cruiser_capitani_romani_class_attilio_regolo_shop;Attilio Regolo
+it_cruiser_capitani_romani_class_attilio_regolo_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
+<color=#fffa62>Incrociatore Leggero Classe Capitani Romani</color>
+Attilio Regolo"
+it_cruiser_capitani_romani_class_attilio_regolo_1;Attilio Regolo
+it_cruiser_capitani_romani_class_attilio_regolo_2;Light Cruiser
+
+it_cruiser_capitani_romani_class_attilio_regolo_EC_0;Incrociatore Leggero Classe Capitani Romani
+Attilio Regolo
+it_cruiser_capitani_romani_class_attilio_regolo_EC_1;Attilio Regolo
+it_cruiser_capitani_romani_class_attilio_regolo_EC_2;Light Cruiser
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+it_cruiser_montecuccoli_shop;Raimondo Montecuccoli
+it_cruiser_montecuccoli_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente <color=@commonTextColor>/</color> Arsenale militare marittimo della
+Spezia</color>
+<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Raimondo Montecuccoli</color>
+Raimondo Montecuccoli
+<color=#adadad>(1943)</color>"
+it_cruiser_montecuccoli_1;Raimondo Montecuccoli
+it_cruiser_montecuccoli_2;Light Cruiser
+
+it_cruiser_montecuccoli_EC_0;Incrociatore Leggero Classe Condottieri Tipo Raimondo Montecuccoli
+Raimondo Montecuccoli
+<color=#adadad>(1943)</color>
+it_cruiser_montecuccoli_EC_1;Raimondo Montecuccoli
+it_cruiser_montecuccoli_EC_2;Light Cruiser
+
+it_cruiser_eugenio_di_savoia_shop;Eugenio di Savoia
+it_cruiser_eugenio_di_savoia_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente <color=@commonTextColor>/</color> Cantiere navale di Castellammare di
+Stabia</color>
+<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Emanuele Filiberto Duca
+d'Aosta</color>
+Eugenio di Savoia
+<color=#adadad>(1943)</color>"
+it_cruiser_eugenio_di_savoia_1;Eugenio di Savoia
+it_cruiser_eugenio_di_savoia_2;Light Cruiser
+
+it_cruiser_garibaldi_class_abruzzi_shop;Luigi di Savoia Duca degli Abruzzi
+it_cruiser_garibaldi_class_abruzzi_0;"<color=#81c3fc>Società per la Costruzione di Navi, Macchine ed Artiglierie Odero
+Terni-Orlando di Muggiano <color=@commonTextColor>/</color> Port of Freetown</color>
+<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli
+Abruzzi</color>
+Luigi di Savoia Duca degli Abruzzi
+<color=#adadad>(1944)</color>"
+it_cruiser_garibaldi_class_abruzzi_1;Luigi di Savoia Duca degli Abruzzi
+it_cruiser_garibaldi_class_abruzzi_2;Light Cruiser
+
+it_cruiser_trento_shop;Trento
+it_cruiser_trento_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno <color=@commonTextColor>/</color> Arsenale militare marittimo
+della Spezia</color>
+<color=#fffa62>Incrociatore Pesante Trento</color>
+Trento
+<color=#adadad>(1937)</color>"
+it_cruiser_trento_1;Trento
+it_cruiser_trento_2;Heavy Cruiser
+
+it_cruiser_trento_EC_0;Incrociatore Pesante Trento
+Trento
+<color=#adadad>(1937)</color>
+it_cruiser_trento_EC_1;Trento
+it_cruiser_trento_EC_2;Heavy Cruiser
+
+it_cruiser_bolzano_shop;Bolzano
+it_cruiser_bolzano_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
+<color=#fffa62>Incrociatore Pesante Bolzano</color>
+Bolzano
+<color=#adadad>(1937)</color>"
+it_cruiser_bolzano_1;Bolzano
+it_cruiser_bolzano_2;Heavy Cruiser
+
+it_cruiser_zara_class_pola_shop;Pola
+it_cruiser_zara_class_pola_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno <color=@commonTextColor>/</color> Cantiere navale Triestino</color>
+<color=#fffa62>Incrociatore Pesante Zara</color>
+Pola
+<color=#adadad>(1937)</color>"
+it_cruiser_zara_class_pola_1;Pola
+it_cruiser_zara_class_pola_2;Heavy Cruiser
+
+it_cruiser_zara_class_shop;Zara
+it_cruiser_zara_class_0;"<color=#81c3fc>Società per la Costruzione di Navi, Macchine ed Artiglierie Odero
+Terni-Orlando di Muggiano <color=@commonTextColor>/</color> Cantiere navale Triestino</color>
+<color=#fffa62>Incrociatore Pesante Zara</color>
+Zara
+<color=#adadad>(1937)</color>"
+it_cruiser_zara_class_1;Zara
+it_cruiser_zara_class_2;Heavy Cruiser
+
+it_cruiser_zara_class_EC_0;Incrociatore Pesante Zara
+Zara
+<color=#adadad>(1937)</color>
+it_cruiser_zara_class_EC_1;Zara
+it_cruiser_zara_class_EC_2;Heavy Cruiser
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+it_battleship_dante_alighieri_shop;Dante Alighieri
+it_battleship_dante_alighieri_0;"<color=#81c3fc>Regio arsenale <color=@commonTextColor>/</color> Cantiere navale Triestino</color>
+<color=#fffa62>Corazzata Dante Alighieri</color>
+Dante Alighieri
+<color=#adadad>(1923)</color>"
+it_battleship_dante_alighieri_1;Dante Alighieri
+it_battleship_dante_alighieri_2;Battleship
+
+it_battleship_francesco_caracciolo_shop;Francesco Caracciolo
+it_battleship_francesco_caracciolo_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia</color>
+<color=#fffa62>Corazzata Classe Francesco Caracciolo</color>
+Francesco Caracciolo"
+it_battleship_francesco_caracciolo_1;Francesco Caracciolo
+it_battleship_francesco_caracciolo_2;Battleship
+
+it_battleship_andrea_doria_shop;Andrea Doria
+it_battleship_andrea_doria_0;"<color=#81c3fc>Arsenale militare marittimo della Spezia</color>
+<color=#fffa62>Corazzata Classe Duilio</color>
+Andrea Doria
+<color=#adadad>(1925)</color>"
+it_battleship_andrea_doria_1;Andrea Doria
+it_battleship_andrea_doria_2;Battleship
+
+it_battleship_leonardo_da_vinci_shop;Leonardo da Vinci
+it_battleship_leonardo_da_vinci_0;"<color=#81c3fc>Cantiere della Foce</color>
+<color=#fffa62>Corazzata Classe Conte di Cavour</color>
+Leonardo da Vinci"
+it_battleship_leonardo_da_vinci_1;Leonardo da Vinci
+it_battleship_leonardo_da_vinci_2;Battleship
+
+it_battleship_conte_di_cavour_shop;Conte di Cavour
+it_battleship_conte_di_cavour_0;"<color=#81c3fc>Arsenale militare marittimo della Spezia <color=@commonTextColor>/</color> Cantiere navale Triestino</color>
+<color=#fffa62>Corazzata Classe Conte di Cavour</color>
+Conte di Cavour
+<color=#adadad>(1944)</color>"
+it_battleship_conte_di_cavour_1;Conte di Cavour
+it_battleship_conte_di_cavour_2;Battleship
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+it_battleship_caio_duilio_shop;Duilio
+it_battleship_caio_duilio_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia <color=@commonTextColor>/</color> Cantiere navali del Tirreno
+e Riuniti</color>
+<color=#fffa62>Corazzata Classe Duilio</color>
+Duilio
+<color=#adadad>(1942)</color>"
+it_battleship_caio_duilio_1;Duilio
+it_battleship_caio_duilio_2;Battleship
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+it_battleship_littorio_class_roma_shop;Roma
+it_battleship_littorio_class_roma_0;"<color=#81c3fc>Cantiere riuniti dell'Adriatico</color>
+<color=#fffa62>Corazzata Classe Littorio</color>
+Roma"
+it_battleship_littorio_class_roma_1;Roma
+it_battleship_littorio_class_roma_2;Battleship
+
+it_battleship_littorio_class_littorio_shop;Italia
+it_battleship_littorio_class_littorio_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente <color=@commonTextColor>/</color> Arsenale militare marittimo della
+Spezia</color>
+<color=#fffa62>Corazzata Classe Littorio</color>
+Italia"
+it_battleship_littorio_class_littorio_1;Italia
+it_battleship_littorio_class_littorio_2;Battleship
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 
@@ -3928,7 +8915,7 @@ it_m47_105_2;Medium Tank
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 f-84f_iaf_shop;☨ F-84F-51-GK (EC 1/1)
-f-84f_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23</color>
+f-84f_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23M</color>
 ☨ F-84F-51-GK Thunderstreak
 Escadron de Chasse 1/1 ""Corse"""
 f-84f_iaf_1;☨ F-84F
@@ -3956,6 +8943,17 @@ nf_5a_netherlands_2;◘ NF-5
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+fr_amx_elc_bis_shop;E.L.C. bis
+fr_amx_elc_bis_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
+Engin léger de combat bis avec tourelle-casemate de 90"
+fr_amx_elc_bis_1;E.L.C. bis
+fr_amx_elc_bis_2;Light Tank
+
+fr_amx_elc_901_shop;E.L.C. (TC.901)
+fr_amx_elc_901_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
+Engin léger de combat avec tourelle-casemate de 901"
+fr_amx_elc_901_1;E.L.C.
+fr_amx_elc_901_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
@@ -4094,6 +9092,14 @@ spitfire_lf_mk9e_weisman_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
 spitfire_lf_mk9e_weisman_1; Spiṭfayer IX
 spitfire_lf_mk9e_weisman_2; Spiṭfayer
 
+spitfire_lf_mk9c_cw_greece_shop;⚕ Smyrniotópoulos' Spitfire L.F. Mk. IX (CW)
+spitfire_lf_mk9c_cw_greece_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
+⚕ Spitfire L.F. Mk. IX
+<color=#adadad>(clipped wing)</color>
+<color=@currencyGoldColor>Geórgios Smyrniotópoulos'</color>"
+spitfire_lf_mk9c_cw_greece_1;⚕ Spitfire L.F. Mk. IX
+spitfire_lf_mk9c_cw_greece_2;⚕ Spitfire
+
 s_199_shop; Si.210
 s_199_0;"<color=#81c3fc>Avia Motors C.210</color>
  Si.210 ""Sakin"""
@@ -4107,7 +9113,7 @@ p-51d-20-na_iaf_1; Pi-51 Di
 p-51d-20-na_iaf_2; Pi-51
 
 b-17g_iaf_shop; Bi-17 Ji
-b-17g_iaf_0;"<color=#81c3fc>Boeing Airplane Company</color>
+b-17g_iaf_0;"<color=#81c3fc>Boeing Airplane Company Model 299P</color>
  Bi-17 Degem Ji Mivṣar Me'ofef"
 b-17g_iaf_1; Bi-17 Ji
 b-17g_iaf_2; Bi-17
@@ -4208,7 +9214,7 @@ so_4050_vautour_2a_iaf_1;☨ Vuṭur A
 so_4050_vautour_2a_iaf_2;☨ Vuṭur
 
 f-84f_israel_iaf_shop; F-84F-51-GK (Ṭayeset 200)
-f-84f_israel_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23</color>
+f-84f_israel_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23M</color>
  F-84F-51-GK Thunderstreak
 <color=@currencyGoldColor>Ṭayeset 200</color>"
 f-84f_israel_iaf_1; F-84F

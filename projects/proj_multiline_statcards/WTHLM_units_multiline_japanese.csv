@@ -414,7 +414,8 @@ ki_61_1a_hei_2;キ61
 ki_61_1a_hei_ep_shop;多田のキ61-I丙
 ki_61_1a_hei_ep_0;"<color=#81c3fc>川崎航空機工業</color>
 <color=#7ce68f>三式戦闘機一型丙</color>
-多田武一のキ61-I丙「飛燕」"
+キ61-I丙「飛燕」
+<color=@currencyGoldColor>多田武一の</color>"
 ki_61_1a_hei_ep_1;キ61-I
 ki_61_1a_hei_ep_2;キ61
 
@@ -1469,46 +1470,46 @@ jp_type_10_2;MBT
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 jp_t14_class_shop;第五百三十八號
 jp_t14_class_0;"<color=#81c3fc>舞鶴海軍工廠</color>
-<color=#7ce68f>乙型魚雷艇 <color=@commonTextColor>|</color> 第五百三十八號型魚雷艇 (T-14)</color>
+<color=#fffa62>乙型魚雷艇 <color=@commonTextColor>|</color> 第五百三十八號型魚雷艇 (T-14)</color>
 第五百三十八號"
 jp_t14_class_1;第五百三十八號
 jp_t14_class_2;Motor Torpedo Boat
 
 jp_t14_class_mod02_shop;第千百一號
 jp_t14_class_mod02_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
-<color=#7ce68f>乙型魚雷艇 <color=@commonTextColor>|</color> 第五百三十八號型魚雷艇 (T-14)</color>
+<color=#fffa62>乙型魚雷艇 <color=@commonTextColor>|</color> 第五百三十八號型魚雷艇 (T-14)</color>
 第千百一號"
 jp_t14_class_mod02_1;第千百一號
 jp_t14_class_mod02_2;Motor Torpedo Boat
 
 jp_t14_class_mod01_shop;第八百七十一號
 jp_t14_class_mod01_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
-<color=#7ce68f>乙型魚雷艇 <color=@commonTextColor>|</color> 第五百三十八號型魚雷艇 (T-14)</color>
+<color=#fffa62>乙型魚雷艇 <color=@commonTextColor>|</color> 第五百三十八號型魚雷艇 (T-14)</color>
 第八百七十一號"
 jp_t14_class_mod01_1;第八百七十一號
 jp_t14_class_mod01_2;Motor Torpedo Boat
 
 jp_type5_escortboat_shop;ケイ甲
-jp_type5_escortboat_0;"<color=#81c3fc>鋼製大護衛艇</color>
+jp_type5_escortboat_0;"<color=#fffa62>鋼製大護衛艇</color>
 ケイ甲"
 jp_type5_escortboat_1;ケイ甲
 jp_type5_escortboat_2;Escort Boat
 
 jp_type_t1_1941_shop;第一號
 jp_type_t1_1941_0;"<color=#81c3fc>横浜ヨット</color>
-<color=#7ce68f>乙型魚雷艇 <color=@commonTextColor>|</color> 第一號型魚雷艇 (T-1)</color>
+<color=#fffa62>乙型魚雷艇 <color=@commonTextColor>|</color> 第一號型魚雷艇 (T-1)</color>
 第一號"
 jp_type_t1_1941_1;第一號
 jp_type_t1_1941_2;Motor Torpedo Boat
 
 jp_abtei_pr1_shop;さきがけ
-jp_abtei_pr1_0;"<color=#7ce68f>装甲艇第一號</color>
+jp_abtei_pr1_0;"<color=#fffa62>装甲艇第一號</color>
 さきがけ"
 jp_abtei_pr1_1;さきがけ
 jp_abtei_pr1_2;Armored Boat
 
 jp_abtei_pr4_shop;装甲艇第四號
-jp_abtei_pr4_0;"<color=#7ce68f>装甲艇第三號型</color>
+jp_abtei_pr4_0;"<color=#fffa62>装甲艇第三號型</color>
 装甲艇第四號"
 jp_abtei_pr4_1;装甲艇第四號
 jp_abtei_pr4_2;Armored Boat
@@ -1516,14 +1517,14 @@ jp_abtei_pr4_2;Armored Boat
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 jp_karotei_type2_shop;カロ二型
 jp_karotei_type2_0;"<color=#81c3fc>横浜ヨット</color>
-<color=#7ce68f>四式二型驅逐艇</color>
+<color=#fffa62>四式二型驅逐艇</color>
 カロ二型"
 jp_karotei_type2_1;カロ二型
 jp_karotei_type2_2;Motor Gunboat
 
 jp_karotei_type4_shop;カロ四型
 jp_karotei_type4_0;"<color=#81c3fc>横浜ヨット</color>
-<color=#7ce68f>四式四型驅逐艇</color>
+<color=#fffa62>四式四型驅逐艇</color>
 カロ四型"
 jp_karotei_type4_1;カロ四型
 jp_karotei_type4_2;Motor Gunboat
@@ -1536,28 +1537,28 @@ jp_sehatei_mod1_2;Armored Boat
 
 jp_type38_1944_shop;第二百四十一號
 jp_type38_1944_0;"<color=#81c3fc>横須賀海軍工廠</color>
-<color=#7ce68f>乙型魚雷艇 <color=@commonTextColor>|</color> 第二百四十一號型魚雷艇 (T-38)</color>
+<color=#fffa62>乙型魚雷艇 <color=@commonTextColor>|</color> 第二百四十一號型魚雷艇 (T-38)</color>
 第二百四十一號"
 jp_type38_1944_1;第二百四十一號
 jp_type38_1944_2;Motor Torpedo Boat
 
 jp_type1_pt2_shop;魚雷艇2号 (PT-802)
 jp_type1_pt2_0;"<color=#81c3fc>日立造船</color>
-<color=#7ce68f>1号型魚雷艇</color>
+<color=#fffa62>1号型魚雷艇</color>
 魚雷艇2号 (PT-802)"
 jp_type1_pt2_1;魚雷艇2号
 jp_type1_pt2_2;Motor Torpedo Boat
 
 jp_kusen_tei_13_1942_shop;第十八號
 jp_kusen_tei_13_1942_0;"<color=#81c3fc>鶴見造船所</color>
-<color=#7ce68f>第十三號型驅潜艇 (K-8)</color>
+<color=#fffa62>第十三號型驅潜艇 (K-8)</color>
 第十八號"
 jp_kusen_tei_13_1942_1;第十八號
 jp_kusen_tei_13_1942_2;Submarine Chaser
 
 jp_kusen_tei_13_1944_shop;第十八號 (1944)
 jp_kusen_tei_13_1944_0;"<color=#81c3fc>鶴見造船所</color>
-<color=#7ce68f>第十三號型驅潜艇 (K-8)</color>
+<color=#fffa62>第十三號型驅潜艇 (K-8)</color>
 第十八號 (1944)"
 jp_kusen_tei_13_1944_1;第十八號
 jp_kusen_tei_13_1944_2;Submarine Chaser
@@ -1565,60 +1566,574 @@ jp_kusen_tei_13_1944_2;Submarine Chaser
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 jp_t51a_shop;第十號
 jp_t51a_0;"<color=#81c3fc>横浜ヨット</color>
-<color=#7ce68f>甲型魚雷艇 <color=@commonTextColor>|</color> 第十號型魚雷艇 (T-51A)</color>
+<color=#fffa62>甲型魚雷艇 <color=@commonTextColor>|</color> 第十號型魚雷艇 (T-51A)</color>
 第十號"
 jp_t51a_1;第十號
 jp_t51a_2;Motor Torpedo Boat
 
 jp_t51b_shop;第十一號
 jp_t51b_0;"<color=#81c3fc>横浜ヨット</color>
-<color=#7ce68f>甲型魚雷艇 <color=@commonTextColor>|</color> 第十一號型魚雷艇 (T-51B)</color>
+<color=#fffa62>甲型魚雷艇 <color=@commonTextColor>|</color> 第十一號型魚雷艇 (T-51B)</color>
 第十一號"
 jp_t51b_1;第十一號
 jp_t51b_2;Motor Torpedo Boat
 
 jp_pc301_kari_class_shop;かり (PC-301)
 jp_pc301_kari_class_0;"<color=#81c3fc>藤永田造船所</color>
-<color=#7ce68f>カリ型駆潜艇 (K-101A)</color>
+<color=#fffa62>カリ型駆潜艇 (K-101A)</color>
 カリ (PC-301)"
 jp_pc301_kari_class_1;かり
 jp_pc301_kari_class_2;Submarine Chaser
 
 jp_no1_ch2_shop;第二號
 jp_no1_ch2_0;"<color=#81c3fc>石川島造船所</color>
-<color=#7ce68f>第一號型驅潜艇 (K-3)</color>
+<color=#fffa62>第一號型驅潜艇 (K-3)</color>
 第二號"
 jp_no1_ch2_1;第二號
 jp_no1_ch2_2;Submarine Chaser
 
 jp_no4_ch8_shop;第八號
 jp_no4_ch8_0;"<color=#81c3fc>玉造船所</color>
-<color=#7ce68f>第四號型驅潜艇 (K-7)</color>
+<color=#fffa62>第四號型驅潜艇 (K-7)</color>
 第八號"
 jp_no4_ch8_1;第八號
 jp_no4_ch8_2;Submarine Chaser
 
 jp_type7_pt808_shop;魚雷艇8号 (PT-808)
 jp_type7_pt808_0;"<color=#81c3fc>三菱重工業下関造船所</color>
-<color=#7ce68f>7号型魚雷艇</color>
+<color=#fffa62>7号型魚雷艇</color>
 魚雷艇8号 (PT-808)"
 jp_type7_pt808_1;魚雷艇8号
 jp_type7_pt808_2;Motor Torpedo Boat
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+jp_type_11_pt_15_shop;魚雷艇15号 (PT-815)
+jp_type_11_pt_15_0;"<color=#81c3fc>三菱重工業下関造船所</color>
+<color=#fffa62>11号型魚雷艇</color>
+魚雷艇15号 (PT-815)"
+jp_type_11_pt_15_1;魚雷艇15号
+jp_type_11_pt_15_2;Motor Torpedo Boat
+
+jp_escort_ikazuchi_class_shop;いかづち (DE-202)
+jp_escort_ikazuchi_class_0;"<color=#81c3fc>川崎造船所</color>
+<color=#fffa62>乙型護衛艦 <color=@commonTextColor>|</color> いかづち型護衛艦 (E-102)</color>
+いかづち (DE-202)"
+jp_escort_ikazuchi_class_1;いかづち
+jp_escort_ikazuchi_class_2;Destroyer Escort
+
+jp_escort_chikugo_class_shop;とかち (DE-218)
+jp_escort_chikugo_class_0;"<color=#81c3fc>三井造船エンジニアリング</color>
+<color=#fffa62>乙型護衛艦 <color=@commonTextColor>|</color> ちくご型護衛艦 (E-106)</color>
+とかち (DE-218)"
+jp_escort_chikugo_class_1;とかち
+jp_escort_chikugo_class_2;Destroyer Escort
+
+jp_escort_akebono_class_shop;あけぼの (DE-201)
+jp_escort_akebono_class_0;"<color=#81c3fc>石川島重工業</color>
+<color=#fffa62>乙型護衛艦 <color=@commonTextColor>|</color> あけぼの型護衛艦 (E-102)</color>
+あけぼの (DE-201)"
+jp_escort_akebono_class_1;あけぼの
+jp_escort_akebono_class_2;Destroyer Escort
+
+jp_pg02_shop;ミサイル艇2号 (PG-822)
+jp_pg02_0;"<color=#81c3fc>住友重機械工業</color>
+<color=#fffa62>1号型ミサイル艇</color>
+ミサイル艇2号 (PG-822)"
+jp_pg02_1;ミサイル艇2号
+jp_pg02_2;Missile Boat
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+jp_escort_hiburi_class_syonan_shop;昭南
+jp_escort_hiburi_class_syonan_0;"<color=#81c3fc>日立造船</color>
+<color=#fffa62>甲型海防艦 <color=@commonTextColor>|</color> 日振型海防艦 (E-20B)</color>
+昭南"
+jp_escort_hiburi_class_syonan_1;昭南
+jp_escort_hiburi_class_syonan_2;Coastal Defense Ship
+
+jp_escort_hiburi_class_shisaka_shop;四阪
+jp_escort_hiburi_class_shisaka_0;"<color=#81c3fc>日立造船</color>
+<color=#fffa62>甲型海防艦 <color=@commonTextColor>|</color> 日振型海防艦 (E-20B)</color>
+四阪"
+jp_escort_hiburi_class_shisaka_1;四阪
+jp_escort_hiburi_class_shisaka_2;Coastal Defense Ship
+
+jp_yuri_class_asagao_shop;あさがお
+jp_yuri_class_asagao_0;"<color=#81c3fc>George Lawley & Son</color>
+<color=#fffa62>ゆり型警備艇</color>
+あさがお"
+jp_yuri_class_asagao_1;あさがお
+jp_yuri_class_asagao_2;Gunboat
+
+jp_destroyer_chidori_shop;友鶴
+jp_destroyer_chidori_0;"<color=#81c3fc>舞鶴海軍工廠</color>
+<color=#fffa62>千鳥型水雷艇 (F-46)</color>
+友鶴
+<color=#adadad>(1944)</color>"
+jp_destroyer_chidori_1;友鶴
+jp_destroyer_chidori_2;Destroyer Escort
+
+jp_destroyer_isuzu_shop;いすず (DE-211)
+jp_destroyer_isuzu_0;"<color=#81c3fc>三井造船エンジニアリング</color>
+<color=#fffa62>乙型護衛艦 <color=@commonTextColor>|</color> いすず型護衛艦 (E-103)</color>
+いすず (DE-211)"
+jp_destroyer_isuzu_1;いすず
+jp_destroyer_isuzu_2;Destroyer Escort
+
+jp_destroyer_ayanami_shop;あやなみ (DD-103)
+jp_destroyer_ayanami_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
+<color=#fffa62>甲型護衛艦1型 <color=@commonTextColor>|</color> あやなみ型護衛艦 (F-102)</color>
+あやなみ (DD-103)"
+jp_destroyer_ayanami_1;あやなみ
+jp_destroyer_ayanami_2;Destroyer
 
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+jp_destroyer_momi_shop;樅
+jp_destroyer_momi_0;"<color=#81c3fc>横須賀海軍工廠</color>
+<color=#fffa62>二等驅逐艦 <color=@commonTextColor>|</color> 樅型驅逐艦 (F-37)</color>
+樅
+<color=#adadad>(1930)</color>"
+jp_destroyer_momi_1;樅
+jp_destroyer_momi_2;Destroyer
+
+jp_destroyer_tade_shop;蓼
+jp_destroyer_tade_0;"<color=#81c3fc>藤永田造船所</color>
+<color=#fffa62>二等驅逐艦 <color=@commonTextColor>|</color> 樅型驅逐艦 (F-37)</color>
+蓼"
+jp_destroyer_tade_1;蓼
+jp_destroyer_tade_2;Destroyer
+
+jp_destroyer_matsu_shop;松
+jp_destroyer_matsu_0;"<color=#81c3fc>舞鶴海軍工廠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 松型驅逐艦 (F-55)</color>
+松"
+jp_destroyer_matsu_1;松
+jp_destroyer_matsu_2;Destroyer
+
+jp_destroyer_mutsuki_shop;睦月
+jp_destroyer_mutsuki_0;"<color=#81c3fc>佐世保海軍工廠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 睦月型驅逐艦 (F-41E3)</color>
+睦月
+<color=#adadad>(1941)</color>"
+jp_destroyer_mutsuki_1;睦月
+jp_destroyer_mutsuki_2;Destroyer
+
+jp_destroyer_mutsuki_EC_0;一等驅逐艦 | 睦月型驅逐艦 (F-41E3) | 睦月 (1941)
+jp_destroyer_mutsuki_EC_1;睦月
+jp_destroyer_mutsuki_EC_2;Destroyer
+
+jp_destroyer_satsuki_shop;皐月
+jp_destroyer_satsuki_0;"<color=#81c3fc>藤永田造船所</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 睦月型驅逐艦 (F-41E3)</color>
+皐月
+<color=#adadad>(1935)</color>"
+jp_destroyer_satsuki_1;皐月
+jp_destroyer_satsuki_2;Destroyer
 
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+jp_minelayer_tsugaru_shop;津輕
+jp_minelayer_tsugaru_0;"<color=#81c3fc>横須賀海軍工廠</color>
+<color=#fffa62>津輕型敷設艦 (H-10)</color>
+津輕
+<color=#adadad>(1943)</color>"
+jp_minelayer_tsugaru_1;津輕
+jp_minelayer_tsugaru_2;Minelayer
+
+jp_destroyer_harukaze_shop;はるかぜ (DD-101)
+jp_destroyer_harukaze_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
+<color=#fffa62>甲型護衛艦 <color=@commonTextColor>|</color> はるかぜ型護衛艦 (F-101)</color>
+はるかぜ (DD-101)"
+jp_destroyer_harukaze_1;はるかぜ
+jp_destroyer_harukaze_2;Destroyer
+
+jp_destroyer_murasame_shop;むらさめ (DD-107)
+jp_destroyer_murasame_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
+<color=#fffa62>甲型護衛艦2型 <color=@commonTextColor>|</color> むらさめ型護衛艦 (F-103)</color>
+むらさめ (DD-107)
+<color=#adadad>(1975)</color>"
+jp_destroyer_murasame_1;むらさめ
+jp_destroyer_murasame_2;Destroyer
+
+jp_destroyer_yugumo_shop;夕雲
+jp_destroyer_yugumo_0;"<color=#81c3fc>舞鶴海軍工廠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 夕雲型驅逐艦 (F-50)</color>
+夕雲"
+jp_destroyer_yugumo_1;夕雲
+jp_destroyer_yugumo_2;Destroyer
+
+jp_destroyer_hayanami_shop;早波
+jp_destroyer_hayanami_0;"<color=#81c3fc>舞鶴海軍工廠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 夕雲型驅逐艦 (F-50)</color>
+早波"
+jp_destroyer_hayanami_1;早波
+jp_destroyer_hayanami_2;Destroyer
+
+jp_destroyer_kiyoshimo_shop;清霜
+jp_destroyer_kiyoshimo_0;"<color=#81c3fc>浦賀船渠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 夕雲型驅逐艦 (F-50)</color>
+清霜"
+jp_destroyer_kiyoshimo_1;清霜
+jp_destroyer_kiyoshimo_2;Destroyer
+
+jp_destroyer_hatsuharu_shop;初春
+jp_destroyer_hatsuharu_0;"<color=#81c3fc>佐世保海軍工廠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 初春型驅逐艦 (F-45)</color>
+初春"
+jp_destroyer_hatsuharu_1;初春
+jp_destroyer_hatsuharu_2;Destroyer
+
+jp_destroyer_fubuki_shop;綾波
+jp_destroyer_fubuki_0;"<color=#81c3fc>藤永田造船所</color>
+<color=#fffa62>特型驅逐艦 <color=@commonTextColor>|</color> 綾波型驅逐艦 (F-43)</color>
+綾波
+<color=#adadad>(1936)</color>"
+jp_destroyer_fubuki_1;綾波
+jp_destroyer_fubuki_2;Destroyer
+
+jp_destroyer_fubuki_EC_0;特型驅逐艦 | 綾波型驅逐艦 (F-43) | 綾波 (1936)
+jp_destroyer_fubuki_EC_1;綾波
+jp_destroyer_fubuki_EC_2;Destroyer
+
+jp_destroyer_nenohi_shop;子日
+jp_destroyer_nenohi_0;"<color=#81c3fc>浦賀船渠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 初春型驅逐艦 (F-45)</color>
+子日
+<color=#adadad>(1942)</color>"
+jp_destroyer_nenohi_1;子日
+jp_destroyer_nenohi_2;Destroyer
+
+jp_destroyer_yugure_shop;ゆうぐれ (DD-184)
+jp_destroyer_yugure_0;"<color=#81c3fc>Boston Navy Yard <color=@commonTextColor>/</color> 石川島重工業</color>
+<color=#fffa62>甲型護衛艦 <color=@commonTextColor>|</color> ありあけ型護衛艦</color>
+ゆうぐれ (DD-184)"
+jp_destroyer_yugure_1;ゆうぐれ
+jp_destroyer_yugure_2;Destroyer
 
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+jp_destroyer_akizuki_shop;秋月
+jp_destroyer_akizuki_0;"<color=#81c3fc>舞鶴海軍工廠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 秋月型驅逐艦 (F-51)</color>
+秋月
+<color=#adadad>(1944)</color>"
+jp_destroyer_akizuki_1;秋月
+jp_destroyer_akizuki_2;Destroyer
+
+jp_destroyer_akizuki_EC_0;一等驅逐艦 | 秋月型驅逐艦 (F-51) | 秋月 (1944)
+jp_destroyer_akizuki_EC_1;秋月
+jp_destroyer_akizuki_EC_2;Destroyer
+
+jp_destroyer_hatsuzuki_shop;◓ 初月
+jp_destroyer_hatsuzuki_0;"<color=#81c3fc>舞鶴海軍工廠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 秋月型驅逐艦 (F-51)</color>
+◓ 初月"
+jp_destroyer_hatsuzuki_1;◓ 初月
+jp_destroyer_hatsuzuki_2;Destroyer
+
+jp_destroyer_suzutsuki_shop;涼月
+jp_destroyer_suzutsuki_0;"<color=#81c3fc>三菱重工業長崎造船所 <color=@commonTextColor>/</color> 呉海軍工廠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 秋月型驅逐艦 (F-51)</color>
+涼月
+<color=#adadad>(1944)</color>"
+jp_destroyer_suzutsuki_1;涼月
+jp_destroyer_suzutsuki_2;Destroyer
+
+jp_cruiser_kako_shop;加古
+jp_cruiser_kako_0;"<color=#81c3fc>川崎造船所</color>
+<color=#fffa62>一等巡洋艦 <color=@commonTextColor>|</color> 古鷹型巡洋艦</color>
+加古
+<color=#adadad>(1932)</color>"
+jp_cruiser_kako_1;加古
+jp_cruiser_kako_2;Heavy Cruiser
+
+jp_cruiser_kako_EC_0;一等巡洋艦 | 古鷹型巡洋艦 | 加古
+<color=#adadad>(1932)</color>
+jp_cruiser_kako_EC_1;加古
+jp_cruiser_kako_EC_2;Heavy Cruiser
+
+jp_cruiser_furutaka_shop;古鷹
+jp_cruiser_furutaka_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
+<color=#fffa62>一等巡洋艦 <color=@commonTextColor>|</color> 古鷹型巡洋艦</color>
+古鷹
+<color=#adadad>(1942)</color>"
+jp_cruiser_furutaka_1;古鷹
+jp_cruiser_furutaka_2;Heavy Cruiser
+
+jp_cruiser_furutaka_EC_0;一等巡洋艦 | 古鷹型巡洋艦 | 古鷹
+<color=#adadad>(1942)</color>
+jp_cruiser_furutaka_EC_1;古鷹
+jp_cruiser_furutaka_EC_2;Heavy Cruiser
+
+jp_cruiser_isuzu_shop;五十鈴
+jp_cruiser_isuzu_0;"<color=#81c3fc>浦賀船渠 <color=@commonTextColor>/</color> 呉海軍工廠</color>
+<color=#fffa62>二等巡洋艦 <color=@commonTextColor>|</color> 長良型巡洋艦 (C-33)</color>
+五十鈴
+<color=#adadad>(1944)</color>"
+jp_cruiser_isuzu_1;五十鈴
+jp_cruiser_isuzu_2;Light Cruiser
+
+jp_cruiser_kuma_shop;多摩
+jp_cruiser_kuma_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
+<color=#fffa62>二等巡洋艦 <color=@commonTextColor>|</color> 球磨型巡洋艦 (C-33)</color>
+多摩
+<color=#adadad>(1939)</color>"
+jp_cruiser_kuma_1;多摩
+jp_cruiser_kuma_2;Light Cruiser
+
+jp_cruiser_kuma_EC_0;二等巡洋艦 | 球磨型巡洋艦 (C-33) | 多摩
+<color=#adadad>(1939)</color>
+jp_cruiser_kuma_EC_1;多摩
+jp_cruiser_kuma_EC_2;Light Cruiser
+
+jp_cruiser_sendai_shop;川内
+jp_cruiser_sendai_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
+<color=#fffa62>二等巡洋艦 <color=@commonTextColor>|</color> 川内型巡洋艦 (C-33)</color>
+川内
+<color=#adadad>(1942)</color>"
+jp_cruiser_sendai_1;川内
+jp_cruiser_sendai_2;Light Cruiser
+
+jp_destroyer_yukikaze_shop;雪風
+jp_destroyer_yukikaze_0;"<color=#81c3fc>佐世保海軍工廠 <color=@commonTextColor>/</color> 呉海軍工廠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 陽炎型驅逐艦 (F-49)</color>
+雪風
+<color=#adadad>(1943)</color>"
+jp_destroyer_yukikaze_1;雪風
+jp_destroyer_yukikaze_2;Destroyer
+
+jp_destroyer_kagero_shop;陽炎
+jp_destroyer_kagero_0;"<color=#81c3fc>舞鶴海軍工廠 <color=@commonTextColor>/</color> 呉海軍工廠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 陽炎型驅逐艦 (F-49)</color>
+陽炎
+<color=#adadad>(1943)</color>"
+jp_destroyer_kagero_1;陽炎
+jp_destroyer_kagero_2;Destroyer
+
+jp_cruiser_yubari_shop;夕張
+jp_cruiser_yubari_0;"<color=#81c3fc>佐世保海軍工廠 <color=@commonTextColor>/</color> 横須賀海軍工廠</color>
+<color=#fffa62>二等巡洋艦 <color=@commonTextColor>|</color> 夕張型巡洋艦 (F-42)</color>
+夕張
+<color=#adadad>(1944)</color>"
+jp_cruiser_yubari_1;夕張
+jp_cruiser_yubari_2;Light Cruiser
+
+jp_destroyer_shimakaze_shop;島風
+jp_destroyer_shimakaze_0;"<color=#81c3fc>舞鶴海軍工廠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 島風型驅逐艦 (F-52)</color>
+島風
+<color=#adadad>(1944)</color>"
+jp_destroyer_shimakaze_1;島風
+jp_destroyer_shimakaze_2;Destroyer
+
+jp_destroyer_yuudachi_shop;夕立
+jp_destroyer_yuudachi_0;"<color=#81c3fc>佐世保海軍工廠</color>
+<color=#fffa62>一等驅逐艦 <color=@commonTextColor>|</color> 白露型驅逐艦 (F-45D)</color>
+夕立"
+jp_destroyer_yuudachi_1;夕立
+jp_destroyer_yuudachi_2;Destroyer
 
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+jp_cruiser_aoba_shop;青葉
+jp_cruiser_aoba_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
+<color=#fffa62>一等巡洋艦 <color=@commonTextColor>|</color> 青葉型巡洋艦 (C-41)</color>
+青葉
+<color=#adadad>(1944)</color>"
+jp_cruiser_aoba_1;青葉
+jp_cruiser_aoba_2;Heavy Cruiser
+
+jp_cruiser_haguro_shop;羽黒
+jp_cruiser_haguro_0;"<color=#81c3fc>三菱重工業長崎造船所 <color=@commonTextColor>/</color> 呉海軍工廠</color>
+<color=#fffa62>一等巡洋艦 <color=@commonTextColor>|</color> 妙高型巡洋艦 (C-42)</color>
+羽黒
+<color=#adadad>(1944)</color>"
+jp_cruiser_haguro_1;羽黒
+jp_cruiser_haguro_2;Heavy Cruiser
+
+jp_cruiser_myoko_shop;妙高
+jp_cruiser_myoko_0;"<color=#81c3fc>三菱重工業長崎造船所 <color=@commonTextColor>/</color> 呉海軍工廠</color>
+<color=#fffa62>一等巡洋艦 <color=@commonTextColor>|</color> 妙高型巡洋艦 (C-42)</color>
+妙高
+<color=#adadad>(1944)</color>"
+jp_cruiser_myoko_1;妙高
+jp_cruiser_myoko_2;Heavy Cruiser
+
+jp_cruiser_agano_shop;阿賀野
+jp_cruiser_agano_0;"<color=#81c3fc>佐世保海軍工廠</color>
+<color=#fffa62>二等巡洋艦 <color=@commonTextColor>|</color> 阿賀野型巡洋艦 (C-41-II)</color>
+阿賀野
+<color=#adadad>(1943)</color>"
+jp_cruiser_agano_1;阿賀野
+jp_cruiser_agano_2;Light Cruiser
+
+jp_cruiser_agano_EC_0;二等巡洋艦 | 阿賀野型巡洋艦 (C-41-II) | 阿賀野 (1943)
+jp_cruiser_agano_EC_1;阿賀野
+jp_cruiser_agano_EC_2;Light Cruiser
+
+jp_cruiser_oyodo_shop;大淀
+jp_cruiser_oyodo_0;"<color=#81c3fc>呉海軍工廠 <color=@commonTextColor>/</color> 第百一海軍施設部</color>
+<color=#fffa62>三等巡洋艦 <color=@commonTextColor>|</color> 大淀型巡洋艦 (C-42)</color>
+大淀
+<color=#adadad>(1945)</color>"
+jp_cruiser_oyodo_1;大淀
+jp_cruiser_oyodo_2;Light Cruiser
+
+jp_armoredcruiser_ikoma_shop;生駒
+jp_armoredcruiser_ikoma_0;"<color=#81c3fc>呉海軍工廠</color>
+<color=#fffa62>一等巡洋艦 <color=@commonTextColor>|</color> 筑波型巡洋艦 (B-12)</color>
+生駒
+<color=#adadad>(1912)</color>"
+jp_armoredcruiser_ikoma_1;生駒
+jp_armoredcruiser_ikoma_2;Battlecruiser
 
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+jp_cruiser_tone_shop;利根
+jp_cruiser_tone_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
+<color=#fffa62>一等巡洋艦 <color=@commonTextColor>|</color> 利根型巡洋艦 (C-38)</color>
+利根
+<color=#adadad>(1945)</color>"
+jp_cruiser_tone_1;利根
+jp_cruiser_tone_2;Heavy Cruiser
+
+jp_cruiser_mogami_suzuya_shop;鈴谷
+jp_cruiser_mogami_suzuya_0;"<color=#81c3fc>横須賀海軍工廠</color>
+<color=#fffa62>二等巡洋艦 <color=@commonTextColor>|</color> 最上型巡洋艦 (C-37)</color>
+鈴谷"
+jp_cruiser_mogami_suzuya_1;鈴谷
+jp_cruiser_mogami_suzuya_2;Light Cruiser
+
+jp_cruiser_mogami_shop;最上
+jp_cruiser_mogami_0;"<color=#81c3fc>呉海軍工廠</color>
+<color=#fffa62>二等巡洋艦 <color=@commonTextColor>|</color> 最上型巡洋艦 (C-37)</color>
+最上
+<color=#adadad>(1940)</color>"
+jp_cruiser_mogami_1;最上
+jp_cruiser_mogami_2;Heavy Cruiser
+
+jp_cruiser_mogami_mikuma_shop;三隈
+jp_cruiser_mogami_mikuma_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
+<color=#fffa62>二等巡洋艦 <color=@commonTextColor>|</color> 最上型巡洋艦 (C-37)</color>
+三隈"
+jp_cruiser_mogami_mikuma_1;三隈
+jp_cruiser_mogami_mikuma_2;Light Cruiser
+
+jp_battleship_hyuga_shop;日向
+jp_battleship_hyuga_0;"<color=#81c3fc>三菱重工業長崎造船所</color>
+<color=#fffa62>伊勢型戦艦 (A-92)</color>
+日向"
+jp_battleship_hyuga_1;日向
+jp_battleship_hyuga_2;Battleship
+
+jp_battleship_ise_shop;伊勢
+jp_battleship_ise_0;"<color=#81c3fc>川崎造船所</color>
+<color=#fffa62>伊勢型戦艦 (A-92)</color>
+伊勢
+<color=#adadad>(1937)</color>"
+jp_battleship_ise_1;伊勢
+jp_battleship_ise_2;Battleship
+
+jp_battleship_settsu_shop;攝津
+jp_battleship_settsu_0;"<color=#81c3fc>呉海軍工廠</color>
+<color=#fffa62>河内型戦艦 (A-30)</color>
+攝津"
+jp_battleship_settsu_1;攝津
+jp_battleship_settsu_2;Battleship
+
+jp_battlecruiser_hiei_shop;比叡
+jp_battlecruiser_hiei_0;"<color=#81c3fc>横須賀海軍工廠 <color=@commonTextColor>/</color> 呉海軍工廠</color>
+<color=#fffa62>金剛型巡洋戦艦 (B-46)</color>
+比叡
+<color=#adadad>(1923)</color>"
+jp_battlecruiser_hiei_1;比叡
+jp_battlecruiser_hiei_2;Battlecruiser
+
+jp_battlecruiser_kirishima_shop;霧島
+jp_battlecruiser_kirishima_0;"<color=#81c3fc>三菱重工業長崎造船所 <color=@commonTextColor>/</color> 佐世保海軍工廠</color>
+<color=#fffa62>金剛型戦艦 (B-46)</color>
+霧島
+<color=#adadad>(1942)</color>"
+jp_battlecruiser_kirishima_1;霧島
+jp_battlecruiser_kirishima_2;Battleship
+
+jp_battlecruiser_haruna_shop;榛名
+jp_battlecruiser_haruna_0;"<color=#81c3fc>川崎造船所</color>
+<color=#fffa62>金剛型戦艦 (B-46)</color>
+榛名
+<color=#adadad>(1945)</color>"
+jp_battlecruiser_haruna_1;榛名
+jp_battlecruiser_haruna_2;Battleship
+
+jp_battlecruiser_kongo_shop;金剛
+jp_battlecruiser_kongo_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> 佐世保海軍工廠</color>
+<color=#fffa62>金剛型戦艦 (B-46)</color>
+金剛
+<color=#adadad>(1944)</color>"
+jp_battlecruiser_kongo_1;金剛
+jp_battlecruiser_kongo_2;Battleship
+
+jp_armoredcruiser_kurama_shop;鞍馬
+jp_armoredcruiser_kurama_0;"<color=#81c3fc>横須賀海軍工廠</color>
+<color=#fffa62>一等巡洋艦 <color=@commonTextColor>|</color> 鞍馬型巡洋艦 (B-17)</color>
+鞍馬
+<color=#adadad>(1919)</color>"
+jp_armoredcruiser_kurama_1;鞍馬
+jp_armoredcruiser_kurama_2;Battlecruiser
+
+jp_battleship_yamashiro_shop;山城
+jp_battleship_yamashiro_0;"<color=#81c3fc>横須賀海軍工廠</color>
+<color=#fffa62>扶桑型戦艦 (A-64)</color>
+山城"
+jp_battleship_yamashiro_1;山城
+jp_battleship_yamashiro_2;Battleship
+
+jp_battleship_fuso_shop;扶桑
+jp_battleship_fuso_0;"<color=#81c3fc>呉海軍工廠</color>
+<color=#fffa62>扶桑型戦艦 (A-64)</color>
+扶桑"
+jp_battleship_fuso_1;扶桑
+jp_battleship_fuso_2;Battleship
 
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+jp_battlecruiser_amagi_shop;天城
+jp_battlecruiser_amagi_0;"<color=#81c3fc>横須賀海軍工廠</color>
+<color=#fffa62>天城型巡洋戦艦 (B-64)</color>
+天城"
+jp_battlecruiser_amagi_1;天城
+jp_battlecruiser_amagi_2;Battlecruiser
+
+jp_battleship_mutsu_shop;陸奥
+jp_battleship_mutsu_0;"<color=#81c3fc>横須賀海軍工廠</color>
+<color=#fffa62>長門型戦艦 (A-114)</color>
+陸奥
+<color=#adadad>(1922)</color>"
+jp_battleship_mutsu_1;陸奥
+jp_battleship_mutsu_2;Battleship
+
+jp_battleship_nagato_shop;長門
+jp_battleship_nagato_0;"<color=#81c3fc>呉海軍工廠</color>
+<color=#fffa62>長門型戦艦 (A-114)</color>
+長門
+<color=#adadad>(1944)</color>"
+jp_battleship_nagato_1;長門
+jp_battleship_nagato_2;Battleship
+
+jp_battleship_tosa_shop;土佐
+jp_battleship_tosa_0;"<color=#81c3fc>三菱造船株式会社長崎造船所</color>
+<color=#fffa62>加賀型戦艦 (A-127)</color>
+土佐"
+jp_battleship_tosa_1;土佐
+jp_battleship_tosa_2;Battleship
 
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+jp_battleship_yamato_shop;大和
+jp_battleship_yamato_0;"<color=#81c3fc>呉海軍工廠</color>
+<color=#fffa62>大和型戦艦 (A-140F6)</color>
+大和
+<color=#adadad>(1945)</color>"
+jp_battleship_yamato_1;大和
+jp_battleship_yamato_2;Battleship
+
+jp_battleship_musashi_shop;武蔵
+jp_battleship_musashi_0;"<color=#81c3fc>三菱重工業長崎造船所 <color=@commonTextColor>/</color> 呉海軍工廠</color>
+<color=#fffa62>大和型戦艦 (A-140F6)</color>
+武蔵
+<color=#adadad>(1943)</color>"
+jp_battleship_musashi_1;武蔵
+jp_battleship_musashi_2;Battleship

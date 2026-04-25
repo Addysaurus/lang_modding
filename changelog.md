@@ -18,7 +18,69 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.17.02 - UNRELEASED
+## 1.17.03 - 16-04-2026
+
+### Vehicles:
+
+- #### Additions:
+
+    - **IJN Suzutsuki**
+    - **Spitfire LF Mk IXc** (Israel / Greece)
+
+- #### Changes:
+
+    - **IJN Suzutsuki** → **Suzutsuki**. Statcard name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo / Kure Kaigun Kōshō | Ittō Kuchikukan | Akizuki Gata Kuchikukan (F-51) | Suzutsuki (1944)**.
+        - Japanese package: **IJN Suzutsuki** → **涼月**. Statcard name → **三菱重工業長崎造船所 / 呉海軍工廠 | 一等驅逐艦 | 秋月型驅逐艦 (F-51) | 涼月 (1944)**.
+    - **Spitfire LF Mk IXc** → **Smyrniotópoulos' Spitfire L.F. Mk. IX (CW)**. Statcard name → **Vickers Supermarine Type 361 | Geórgios Smyrniotópoulos' Spitfire L.F. Mk. IX (clipped wing)**.
+    - Added the missing EC **Akizuki** to the Japanese package.
+    - **USS PT-95**: Statcard name → **Huckins Yacht Corporation | Huckins 78'-class Motor Torpedo Boat | USS PT-95**.
+    - **USS PT-262**: Statcard name → **Huckins Yacht Corporation | Huckins 78'-class Motor Torpedo Boat | USS PT-262**.
+    - **Misairu Tei 2 Gō (PG-822)**: Statcard name → **Sumitomo Jū Kikai Kōgyō | 1 Gō Gata Misairu Tei | Misairu Tei 2 Gō (PG-822)**.
+    - **Tomozuru**: Statcard name → **Maizuru Kaigun Kōshō | Chidori Gata Suiraitei (F-46) | Tomozuru (1944)**.
+    - **Harukaze (DD-101)**: Statcard name → **Mitsubishi Jū Kōgyō Nagasaki Zōsenjo | Kō Gata Goeikan | Harukaze Gata Goeikan (F-101) | Harukaze (DD-101)**.
+    - **Yūgure (DD-184)**: Statcard name → **Boston Navy Yard / Ishikawajima Jū Kōgyō | Kō Gata Goeikan | Airake Gata Goeikan | Yūgure (DD-184)**.
+    - **Isuzu**: Statcard name → **Uraga Senkyo / Kure Kaigun Kōshō | Nitō Junyōkan | Nagara Gata Junyōkan (C-33) | Isuzu (1944)**.
+    - **MC 485**: Statcard name → **Fr. Lürssen Werft, Bau-Nr. 12860 | Motosiluranti Tipo Lürssen S 26 | MC 485**.
+    - Removed manufacturer names from EC vessels because their long names show in combat.
+    - Reclassified the long distance names of a bunch of Italian coastal fleet vessels to match what Italy classified them as.
+    - Changed every instance of "caniteri", the incorrectly used plural form, to "cantiere" for Italian naval manufacturers.
+    - **Bi-17 Ji** (Israel): Statcard name → **Boeing Airplane Company Model 299P | Bi-17 Degem Ji Mivṣar Me'ofef**.
+        - Hebrew package: Statcard name → **Boeing Airplane Company Model 299P | בי-17 דגם ג׳י מבצר מעופף**.
+    - **B-52H-140-BW (1979)**: Statcard name → **Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))**.
+    - **Z-2** → **USS Z-2**. Statcard name → **Fincantieri Marinette Marine | Landing Craft, Mechanized, (Mk. 6) (Flamethrower) "Zippo" | USS Z-2**.
+    - **Yeryevan** → **Yerevan**.
+    - **HMS Spey (K 246)**: Statcard name → **Smiths Dock Co. / Sri Lanka Navy Dockyard | River-class | HMS Spey (K 246) (1944)** (it accidentally said "Sir Lanka").
+    - **HMS Orsay (J 450) (Q.F., 4-inch, Mk. V)** → **HMS Orsay (J 450)**. The statcard name has remained the same, this is just simplifying the short name.
+    - **HMS Kent / Norfolk** (folder) → **HMS Kent / Norfolk / London**.
+    - **M4A3E8(76)W**: Statcard name → **United States Army Ordnance Department | G-104 | Tank, Medium, M4A3E8(76)W Sherman**.
+    - **HSTV(L)**: Statcard name → **AAI Corperation | High Survivability Test Vehicle (Lightweight)**.
+    - **M1A1HC**: Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1 Abrams, Heavy Common**.
+    - **M1A1HC** (Senrai Maidens, *sigh*): Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked, 120mm Gun, M1A1HC Abrams, Heavy Common «Kate»**.
+    - **M1097A2 (AN/MPQ-64)**: Statcard name → **Raytheon Technologies Corporation | Truck, Utility: Heavy Variant, 4x4, M1097A2 (Radar Set, AN/MPQ-64 Sentinel)**.
+    - **300 GD (AN/MPQ-64)**: Statcard name → **Mercedes-Benz G-Class 300 GD (Radar Set, AN/MPQ-64 Sentinel)**.
+    - **SC-1**: Statcard name → **Curtiss-Wright Corporation Model 97B | SC-1 Seahawk**.
+    - **YF-5A-NO**: Statcard name → **Northrop Corporation N-156F | YF-5A-NO Freedom Fighter**.
+    - **F-5C-NO**: Statcard name → **Northrop Corporation N-156F | F-5C-NO Skoshi Tiger**.
+    - **F-5E-3-NO**: Statcard name → **Northrop Corporation F-5-21 | F-5E-3-NO Tiger II**.
+    - **F-105D-31-RE**: Statcard name → **Republic Aviation Corporation AP-63-31 | F-105D-31-RE Thunderchief**.
+    - **He 112 V5**: Statcard name → **Heinkel Flugzeugwerke | He 112 V5**.
+    - **He 112 A-0**: Statcard name → **Heinkel Flugzeugwerke | He 112 A-0**.
+    - **He 112 B-0**: Statcard name → **Heinkel Flugzeugwerke | He 112 B-0**.
+    - **T 2**: Statcard name → **Heinkel Flugzeugwerke | T 2**.
+    - **Alpha Jet A** (Germany): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet A**.
+    - **Alpha Jet E** (France): Statcard name → **Avions Marcel Dassault-Breguet Aviation + Dornier Flugzeugwerke | Alpha Jet E**.
+    - **SMS König**: Statcard name → **Kaiserliche Werft Wilhelmshaven, Bau-Nr. 33 | Linienschiff König-Klasse | SMS König (1917)**.
+    - **Mackensen**: Statcard name → **Blohm & Voss, Bau-Nr. 240 | großer Kreuzer Mackensen-Klasse | Mackensen**.
+    - **Ersatz Yorck**: Statcard name → **Stettiner Maschinenbau Actien-Gesellschaft Vulcan, Bau-Nr. 35 | großer Kreuzer Ersatz Yorck-Klasse | Ersatz Yorck**.
+    - **Scharnhorst**: Statcard name → **Kriegsmarinewerft Wilhelmshaven, Bau-Nr. 125 | Schlachtschiff Scharnhorst-Klasse | Scharnhorst (1943)**.
+    - **Gneisenau**: Statcard name → **Deutsche Werke Kiel, Bau-Nr. 235 / Deutsche Werke Gotenhafen | Schlachtschiff Scharnhorst-Klasse | Gneisenau (1943)**.
+    - **Bismarck**: Statcard name → **Blohm & Voss, Bau-Nr. 509 / Seebahnhof Pier | Schlachtschiff Bismarck-Klasse | Bismarck (1941)**.
+    - **Litvâk's Yak-1**: Statcard name → **Opytno-konstruktorskoye bûro № 115 | Lidiâ Vladimirovna Litvâk's Samolyet Yak-1**.
+    - **F-84F-51-GK (Ṭayeset 200)**: Statcard name → **Republic Aviation Corporation AP-23M | F-84F-51-GK Thunderstreak (Ṭayeset 200)**.
+        - Hebrew package: Statcard name → **Republic Aviation Corporation AP-23M | (טייסת 200) F-84F-51-GK Thunderstreak**.
+    - **F-84F-51-GK (EC 1/1)**: Statcard name → **Republic Aviation Corporation AP-23M | F-84F-51-GK Thunderstreak (Escadron de Chasse 1/1 "Corse")**.
+
+## 1.17.02 - 16-04-2026
 
 ### Vehicles:
 

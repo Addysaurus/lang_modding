@@ -67,25 +67,34 @@ shop/group/ussr_cruiser_chapaev_kutuzov_group;Чапаев / Свердлов / 
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 ar_2_shop;Ар-2
-ar_2_0;Центральный аэрогидродинамический институт имени профессора Н. Е. Жуковского | Самолет Ар-2
+ar_2_0;"<color=#81c3fc>Центральный аэрогидродинамический институт имени профессора Н. Е. Жуковского</color>
+Самолет Ар-2"
 ar_2_1;Ар-2
 ar_2_2;Ар-2
+
 kor_1_shop;Бе-2
-kor_1_0;Центральное конструкторское бюро морского самолётостроения | Бе-2
+kor_1_0;"<color=#81c3fc>Центральное конструкторское бюро морского самолётостроения</color>
+Бе-2"
 kor_1_1;Бе-2
 kor_1_2;Бе-2
+
 kor_2_shop;Бе-4
-kor_2_0;Центральное конструкторское бюро морского самолётостроения | Бе-4
+kor_2_0;"<color=#81c3fc>Центральное конструкторское бюро морского самолётостроения</color>
+Бе-4"
 kor_2_1;Бе-4
 kor_2_2;Бе-4
+
 db_lk_shop;ДБ-ЛК
-db_lk_0;Центральный аэрогидродинамический институт имени профессора Н. Е. Жуковского | Самолет ДБ-ЛК
+db_lk_0;"<color=#81c3fc>Центральный аэрогидродинамический институт имени профессора Н. Е. Жуковского</color>
+Самолет ДБ-ЛК"
 db_lk_1;ДБ-ЛК
 db_lk_2;ДБ-ЛК
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 yak_1_litvyak_shop;Як-1 Литвяк
-yak_1_litvyak_0;Опытно-конструкторское бюро № 115 | Самолет Як-1 Лидии Владимировны Литвяк
+yak_1_litvyak_0;"<color=#81c3fc>Опытно-конструкторское бюро № 115</color>
+Самолет Як-1
+<color=@currencyGoldColor>Лидии Владимировны Литвяк</color>"
 yak_1_litvyak_1;Як-1
 yak_1_litvyak_2;Як-1
 
@@ -93,21 +102,27 @@ yak_1_litvyak_2;Як-1
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 quing_6_shop;Qīng 6
-quing_6_0;Государственный союзный опытный завод № 49 / Zhōngguó Tèzhǒng Fēixíngqì Yánjiū Suo | Qīng 6 Xíng Fēijī
+quing_6_0;"<color=#81c3fc>Государственный союзный опытный завод № 49 <color=@commonTextColor>/</color> Zhōngguó Tèzhǒng
+Fēixíngqì Yánjiū Suo</color>
+Qīng 6 Xíng Fēijī"
 quing_6_1;Qīng 6
 quing_6_2;Qīng 6
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 la_200_toriy_shop;200
-la_200_toriy_0;Опытно-конструкторское бюро № 301 200
+la_200_toriy_0;<color=#81c3fc>Опытно-конструкторское бюро № 301 200</color>
 la_200_toriy_1;200
 la_200_toriy_2;200
+
 la-15_shop;Ла-15
-la-15_0;Авиационный завод № 21 | изд. 52 | Самолет Ла-15
+la-15_0;"<color=#81c3fc>Авиационный завод № 21</color>
+<color=#5cae63>изд. 52</color>
+Самолет Ла-15"
 la-15_1;Ла-15
 la-15_2;Ла-15
+
 la_174_shop;174
-la_174_0;Опытно-конструкторское бюро № 301 174
+la_174_0;<color=#81c3fc>Опытно-конструкторское бюро № 301 174</color>
 la_174_1;174
 la_174_2;174
 
@@ -142,11 +157,16 @@ nt_tu_95m_2;☢ Ту-95
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 mig-21_bis_shop;МиГ-21бис
-mig-21_bis_0;Московский машиностроительный завод им. А. И. Микояна | изд. 75 | Самолет МиГ-21бис
+mig-21_bis_0;"<color=#81c3fc>Московский машиностроительный завод им. А. И. Микояна</color>
+<color=#5cae63>изд. 75</color>
+Самолет МиГ-21бис"
 mig-21_bis_1;МиГ-21бис
 mig-21_bis_2;МиГ-21
+
 mig-21_bis_event_shop;МиГ-21бис
-mig-21_bis_event_0;Московский машиностроительный завод им. А. И. Микояна | изд. 75 | Самолет МиГ-21бис
+mig-21_bis_event_0;"<color=#81c3fc>Московский машиностроительный завод им. А. И. Микояна</color>
+<color=#5cae63>изд. 75</color>
+Самолет МиГ-21бис"
 mig-21_bis_event_1;МиГ-21бис
 mig-21_bis_event_2;МиГ-21
 
@@ -179,17 +199,24 @@ nt_su_24m_1;Су-24М
 nt_su_24m_2;Су-24
 
 mig_25pd_shop;МиГ-25ПД
-mig_25pd_0;Московский машиностроительный завод «Зенит» | изд. 84Д | Самолет МиГ-25ПД
+mig_25pd_0;"<color=#81c3fc>Московский машиностроительный завод «Зенит»</color>
+<color=#5cae63>изд. 84Д</color>
+Самолет МиГ-25ПД"
 mig_25pd_1;МиГ-25ПД
 mig_25pd_2;МиГ-25
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 mig_29_9_12_shop;МиГ-29 (9-12)
-mig_29_9_12_0;Московское авиационное производственное объединение | изд. 9-12 | Самолет МиГ-29
+mig_29_9_12_0;"<color=#81c3fc>Московское авиационное производственное объединение</color>
+<color=#5cae63>изд. 9-12</color>
+Самолет МиГ-29"
 mig_29_9_12_1;МиГ-29
 mig_29_9_12_2;МиГ-29
+
 mig_29m_9_15_shop;МиГ-29М
-mig_29m_9_15_0;Нижегородский государственный авиационный завод «Сокол» | изд. 9-15 | Самолет МиГ-29М
+mig_29m_9_15_0;"<color=#81c3fc>Нижегородский государственный авиационный завод «Сокол»</color>
+<color=#5cae63>изд. 9-15</color>
+Самолет МиГ-29М"
 mig_29m_9_15_1;МиГ-29М
 mig_29m_9_15_2;МиГ-29
 
@@ -200,31 +227,52 @@ mig_29n_1;☉ MiG-29N
 mig_29n_2;☉ MiG-29
 
 su_27_shop;Су-27
-su_27_0;Компания «Сухой» | изд. Т-10С | Самолет Су-27
+su_27_0;"<color=#81c3fc>Компания «Сухой»</color>
+<color=#5cae63>изд. Т-10С</color>
+Самолет Су-27"
 su_27_1;Су-27
 su_27_2;Су-27
+
 su_27sm_shop;Су-27СМ
-su_27sm_0;Компания «Сухой» | изд. Т-10СМ | Самолет Су-27СМ
+su_27sm_0;"<color=#81c3fc>Компания «Сухой»</color>
+<color=#5cae63>изд. Т-10СМ</color>
+Самолет Су-27СМ"
 su_27sm_1;Су-27СМ
 su_27sm_2;Су-27
+
 su_34_shop;Су-34НВО
-su_34_0;Компания «Сухой» | изд. Т-10В | Самолет Су-34НВО
+su_34_0;"<color=#81c3fc>Компания «Сухой»</color>
+<color=#5cae63>изд. Т-10В</color>
+Самолет Су-34НВО"
 su_34_1;Су-34НВО
 su_34_2;Су-34
+
 su_33_shop;Су-33 (СВП-24-33)
-su_33_0;Компания «Сухой» | изд. Т-10К | Самолет Су-33 (СВП-24-33)
+su_33_0;"<color=#81c3fc>Компания «Сухой»</color>
+<color=#5cae63>изд. Т-10К</color>
+Самолет Су-33
+<color=#adadad>(СВП-24-33)</color>"
 su_33_1;Су-33
 su_33_2;Су-33
+
 su_30mk2v_venezuela_shop;▄ Su-30MK2
-su_30mk2v_venezuela_0;▄ Компания «Сухой» | Su-30MK2
+su_30mk2v_venezuela_0;"<color=#81c3fc>Компания «Сухой»</color>
+▄ Su-30MK2"
 su_30mk2v_venezuela_1;▄ Su-30MK2
 su_30mk2v_venezuela_2;▄ Su-30
+
 su_30sm_shop;Су-30СМ
-su_30sm_0;Компания «Сухой» | изд. Т-10ПУ | Самолет Су-30СМ
+su_30sm_0;"<color=#81c3fc>Компания «Сухой»</color>
+<color=#5cae63>изд. Т-10ПУ</color>
+Самолет Су-30СМ"
 su_30sm_1;Су-30СМ
 su_30sm_2;Су-30
+
 su_30sm2_shop;Су-30СМ2 (2025)
-su_30sm2_0;Компания «Сухой» | изд. Т-10ПУ | Самолет Су-30СМ2 (2025)
+su_30sm2_0;"<color=#81c3fc>Компания «Сухой»</color>
+<color=#5cae63>изд. Т-10ПУ</color>
+Самолет Су-30СМ2
+<color=#adadad>(2025)</color>"
 su_30sm2_1;Су-30СМ2
 su_30sm2_2;Су-30
 
@@ -235,7 +283,8 @@ su_30mkm_1;☉ Su-30MKM
 su_30mkm_2;☉ Su-30
 
 su_30mkk_shop;␗ Sū 30MKK
-su_30mkk_0;␗ Компания «Сухой» | Sū 30MKK Xíng Fēijī
+su_30mkk_0;"<color=#81c3fc>Компания «Сухой»</color>
+␗ Sū 30MKK Xíng Fēijī"
 su_30mkk_1;␗ Sū 30MKK
 su_30mkk_2;␗ Sū 30
 
@@ -243,17 +292,27 @@ su_30mkk_2;␗ Sū 30
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 mi_35m_shop;Ми-24ВМ
-mi_35m_0;Ростовский вертолётный производственный комплекс «Роствертол» имени Б. Н. Слюсаря | Вертолет Ми-24ВМ
+mi_35m_0;"<color=#81c3fc>Ростовский вертолётный производственный комплекс «Роствертол»
+имени Б. Н. Слюсаря</color>
+Вертолет Ми-24ВМ"
 mi_35m_1;Ми-24ВМ
 mi_35m_2;Ми-24
+
 mi_35m_killstreak_shop;Ми-24ВМ
-mi_35m_killstreak_0;Ростовский вертолётный производственный комплекс «Роствертол» имени Б. Н. Слюсаря | Вертолет Ми-24ВМ
+mi_35m_killstreak_0;"<color=#81c3fc>Ростовский вертолётный производственный комплекс «Роствертол»
+имени Б. Н. Слюсаря</color>
+Вертолет Ми-24ВМ"
 mi_35m_killstreak_1;Ми-24ВМ
 mi_35m_killstreak_2;Ми-24
+
 mi_35p_shop;Ми-35П
-mi_35p_0;Московский вертолётный завод им. М. Л. Миля / Холдинг «Вертолёты России» + Ростовский вертолётный производственный комплекс акционерное общество «Роствертол» им. Б. Н. Слюсаря Ми-35П Транспортно-боевой Вертолет «Феникс»
+mi_35p_0;"<color=#81c3fc>Московский вертолётный завод им. М. Л. Миля <color=@commonTextColor>/</color> Холдинг
+«Вертолёты России» <color=@commonTextColor>+</color> Ростовский вертолётный производственный
+комплекс акционерное общество «Роствертол» им. Б. Н. Слюсаря
+Ми-35П Транспортно-боевой Вертолет «Феникс»</color>"
 mi_35p_1;Ми-35П
 mi_35p_2;Ми-35
+
 mi_35p_indonesia_shop;◥ Mi-35P
 mi_35p_indonesia_0;"<color=#81c3fc>Московский вертолётный завод им. М. Л. Миля</color>
 ◥ Mi-35P"
@@ -264,17 +323,21 @@ mi_35p_indonesia_2;◥ Mi-35P
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 8
 mi_8amtsh_vn_shop;Ми-8АМТШ-ВН
-mi_8amtsh_vn_0;АО «Московский вертолётный завод им. М. Л. Миля» | Вертолет Ми-8АМТШ-ВН «Сапсан»
+mi_8amtsh_vn_0;"<color=#81c3fc>Московский вертолётный завод им. М. Л. Миля</color>
+Вертолет Ми-8АМТШ-ВН «Сапсан»"
 mi_8amtsh_vn_1;Ми-8АМТШ
 mi_8amtsh_vn_2;Ми-8
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 ussr_garford_putilov_shop;Гарфорд
-ussr_garford_putilov_0;Garford Motor Truck Company / Путиловский завод | Бронированный автомобиль „Гарфорд“
+ussr_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Путиловский завод</color>
+Бронированный автомобиль „Гарфорд“"
 ussr_garford_putilov_1;Гарфорд
 ussr_garford_putilov_2;Armored Car
+
 germ_garford_putilov_shop;◄ Pzw. Garford (Beute)
-germ_garford_putilov_0;◄ Garford Motor Truck Company / Путиловский завод | Panzerwagen Garford (Beute)
+germ_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Путиловский завод</color>
+◄ Panzerwagen Garford (Beute)"
 germ_garford_putilov_1;◄ Pzw. Garford (Beute)
 germ_garford_putilov_2;Armored Car
 
@@ -282,165 +345,266 @@ germ_garford_putilov_2;Armored Car
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 ussr_t_34_85_zis_53_kit_3rank_shop;"Т-34-85 (Sep, 1944) ""In May 1945"""
-ussr_t_34_85_zis_53_kit_3rank_0;"Уральский танковый завод №183 | Объект 35 | Танк Т-34-85 обр. 1944 г. (September, 1944) ""In May 1945"""
+ussr_t_34_85_zis_53_kit_3rank_0;"<color=#81c3fc>Уральский танковый завод №183</color>
+<color=#5cae63>Обект 35</color>
+Танк Т-34-85 обр. 1944 г.
+<color=#adadad>(September, 1944)</color>
+<color=@currencyGoldColor>""In May 1945""</color>"
 ussr_t_34_85_zis_53_kit_3rank_1;Т-34-85
 ussr_t_34_85_zis_53_kit_3rank_2;Medium tank
+
 ussr_t_34_85_zis_53_v80_shop;Т-34-85 (Sep, 1944) (64-я Гв.Т.Бр.)
-ussr_t_34_85_zis_53_v80_0;Уральский танковый завод №183 | Объект 35 | Танк Т-34-85 обр. 1944 г. (September, 1944) (64-я гвардейская танковая бригада)
+ussr_t_34_85_zis_53_v80_0;"<color=#81c3fc>Уральский танковый завод №183</color>
+<color=#5cae63>Обект 35</color>
+Танк Т-34-85 обр. 1944 г.
+<color=#adadad>(September, 1944)</color>
+<color=@currencyGoldColor>64-я гвардейская танковая бригада</color>"
 ussr_t_34_85_zis_53_v80_1;Т-34-85
 ussr_t_34_85_zis_53_v80_2;Medium tank
+
 ussr_t_34_85_stp_s53_shop;Т-34-85 (May, 1945) (СТП-С-53)
-ussr_t_34_85_stp_s53_0;Завод № 112 | Объект 135 | Танк Т-34-85 обр. 1945 г. (May, 1945) (Стабилизатор СТП-С-53 «Таран»)
+ussr_t_34_85_stp_s53_0;"<color=#81c3fc>Завод № 112</color>
+<color=#5cae63>Обект 135</color>
+Танк Т-34-85 обр. 1945 г.
+<color=#adadad>(May, 1945) (Стабилизатор СТП-С-53 «Таран»)</color>"
 ussr_t_34_85_stp_s53_1;Т-34-85
 ussr_t_34_85_stp_s53_2;Medium tank
+
 ussr_is_1_shop;ИС-1
-ussr_is_1_0;Кировский завод | Объект 237 | Танк ИС-1 обр. 1943 г.
+ussr_is_1_0;"<color=#81c3fc>Кировский завод</color>
+<color=#5cae63>Обект 237</color>
+Танк ИС-1 обр. 1943 г."
 ussr_is_1_1;ИС-1
 ussr_is_1_2;Heavy Tank
+
 ussr_is_1_kit_3rank_shop;"ИС-1 ""In May 1945"""
-ussr_is_1_kit_3rank_0;"Кировский завод | Объект 237 | Танк ИС-1 обр. 1943 г. ""In May 1945"""
+ussr_is_1_kit_3rank_0;"<color=#81c3fc>Кировский завод</color>
+<color=#5cae63>Обект 237</color>
+Танк ИС-1 обр. 1943 г.
+<color=@currencyGoldColor>""In May 1945""</color>"
 ussr_is_1_kit_3rank_1;ИС-1
 ussr_is_1_kit_3rank_2;Heavy Tank
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 ussr_t_44_po_shop;Т-44 (№ 1)
-ussr_t_44_po_0;Уральский танковый завод №183 имени Коминтерна | Объект 136 | Танк Т-44 (№ 1)
+ussr_t_44_po_0;"<color=#81c3fc>Уральский танковый завод №183 имени Коминтерна</color>
+<color=#5cae63>Обект 136</color>
+Танк Т-44
+<color=#adadad>(№ 1)</color>"
 ussr_t_44_po_1;Т-44
 ussr_t_44_po_2;Medium tank
+
 cn_pt_76_shop;ПТ-76
-cn_pt_76_0;Всероссийский научно-исследовательский институт транспортного машиностроения | Объект 740 | Плавающий танк ПТ-76 обр. 1953 г.
+cn_pt_76_0;"<color=#81c3fc>Всероссийский научно-исследовательский институт транспортного
+машиностроения (ВНИИ-100)</color>
+<color=#5cae63>Объект 740</color>
+␗ Плавающий танк ПТ-76 обр. 1953 г."
 cn_pt_76_1;ПТ-76
 cn_pt_76_2;Amphibious Tank
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 ussr_2s19_m1_shop;2С19М1
-ussr_2s19_m1_0;Уральский завод транспортного машиностроения им. Я.М. Свердлова | Объект 316 | 2С19М1 «Мста-С»
+ussr_2s19_m1_0;"<color=#81c3fc>Уральский завод транспортного машиностроения им. Я.М. Свердлова</color>
+<color=#5cae63>Обект 316</color>
+2С19М1 «Мста-С»"
 ussr_2s19_m1_1;2С19М1
 ussr_2s19_m1_2;SPH
+
 ussr_2s19_m2_shop;2С19М2
-ussr_2s19_m2_0;Уральский завод транспортного машиностроения им. Я.М. Свердлова | Объект 316 | 2С19М2 «Мста-С»
+ussr_2s19_m2_0;"<color=#81c3fc>Уральский завод транспортного машиностроения им. Я.М. Свердлова</color>
+<color=#5cae63>Обект 316</color>
+2С19М2 «Мста-С»"
 ussr_2s19_m2_1;2С19М2
 ussr_2s19_m2_2;SPH
+
 il_tiran_4_shop;Ṭiran 4
-il_tiran_4_0;Уральский вагоностроительный завод имени И. В. Сталина / Ḥeil ha-Ḥimuš | Ṭank Ṭiran 4
+il_tiran_4_0;"<color=#81c3fc>Уральский вагоностроительный завод имени И. В. Сталина <color=@commonTextColor>/</color> Ḥeil ha-Ḥimuš</color>
+Ṭank Ṭiran 4"
 il_tiran_4_1;Ṭiran 4
 il_tiran_4_2;MBT
+
 il_tiran_4_sh_shop;Ṭiran 4 Š
-il_tiran_4_sh_0;Уральский вагоностроительный завод имени И. В. Сталина / Ḥeil ha-Ḥimuš | Ṭank Ṭiran 4 Šrir
+il_tiran_4_sh_0;"<color=#81c3fc>Уральский вагоностроительный завод имени И. В. Сталина <color=@commonTextColor>/</color> Ḥeil ha-Ḥimuš</color>
+Ṭank Ṭiran 4 Šrir"
 il_tiran_4_sh_1;Ṭiran 4 Š
 il_tiran_4_sh_2;MBT
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 ussr_t_55a_shop;Т-55А
-ussr_t_55a_0;Харьковское конструкторское бюро по машиностроению имени А. А. Морозова | Объект 155А | Танк Т-55А
+ussr_t_55a_0;"<color=#81c3fc>Харьковское конструкторское бюро по машиностроению имени А. А.
+Морозова</color>
+<color=#5cae63>Обект 155А</color>
+Танк Т-55А"
 ussr_t_55a_1;Т-55А
 ussr_t_55a_2;Medium tank
+
 ussr_t_55_amd_1_shop;Т-55АД-1
-ussr_t_55_amd_1_0;Харьковское конструкторское бюро по машиностроению имени А. А. Морозова | Объект 155АД-1 | Танк Т-55АД-1
+ussr_t_55_amd_1_0;"<color=#81c3fc>Харьковское конструкторское бюро по машиностроению имени А. А.
+Морозова</color>
+<color=#5cae63>Обект 155АД-1</color>
+Танк Т-55АД-1"
 ussr_t_55_amd_1_1;Т-55АД-1
 ussr_t_55_amd_1_2;Medium tank
+
 ussr_t_55_am_shop;Т-55АМ-1
-ussr_t_55_am_0;Харьковское конструкторское бюро по машиностроению имени А. А. Морозова | Объект 155АМ-1 | Танк Т-55АМ-1
+ussr_t_55_am_0;"<color=#81c3fc>Харьковское конструкторское бюро по машиностроению имени А. А.
+Морозова</color>
+<color=#5cae63>Обект 155АМ-1</color>
+Танк Т-55АМ-1"
 ussr_t_55_am_1;Т-55АМ-1
 ussr_t_55_am_2;Medium tank
-cn_t_62_shop;Т-62
-cn_t_62_0;Опытно-конструкторское бюро № 520 | Объект 166 | Танк Т-62 обр. 1964 г. (57-го Погранотряда)
-cn_t_62_1;Т-62
-cn_t_62_2;MBT
+
 ussr_bmd_4m2_shop;БМД-4М (Синица)
-ussr_bmd_4m2_0;ОАО «Курганский машиностроительный завод» | Объект 960М | Боевая машина десанта БМД-4М (Боевое отделение Синица)
+ussr_bmd_4m2_0;"<color=#81c3fc>Курганский машиностроительный завод</color>
+<color=#5cae63>Обект 960М</color>
+Боевая машина десанта БМД-4М
+<color=#adadad>(Боевое отделение Синица)</color>"
 ussr_bmd_4m2_1;БМД-4М
 ussr_bmd_4m2_2;IFV
+
 ussr_bmd_4_shop;БМД-4
-ussr_bmd_4_0;ОАО «Курганский машиностроительный завод» | Объект 960 | Боевая машина десанта БМД-4 обр. 2004 г.
+ussr_bmd_4_0;"<color=#81c3fc>Курганский машиностроительный завод</color>
+<color=#5cae63>Обект 960</color>
+Боевая машина десанта БМД-4 обр. 2004 г."
 ussr_bmd_4_1;БМД-4
 ussr_bmd_4_2;IFV
+
 ussr_bmd_4m_shop;БМД-4М
-ussr_bmd_4m_0;ОАО «Курганский машиностроительный завод» | Объект 960М | Боевая машина десанта БМД-4М
+ussr_bmd_4m_0;"<color=#81c3fc>Курганский машиностроительный завод</color>
+<color=#5cae63>Обект 960М</color>
+Боевая машина десанта БМД-4М"
 ussr_bmd_4m_1;БМД-4М
 ussr_bmd_4m_2;IFV
+
 ussr_btr_82at_shop;БТР-82АТ (9П163-1)
-ussr_btr_82at_0;Арзамасский машиностроительный завод | Бронетранспортер БТР-82АТ (Пусковое устройство 9П163-1)
+ussr_btr_82at_0;"<color=#81c3fc>Арзамасский машиностроительный завод</color>
+Бронетранспортер БТР-82АТ
+<color=#adadad>(Пусковое устройство 9П163-1)</color>"
 ussr_btr_82at_1;БТР-82АТ
 ussr_btr_82at_2;IFV
+
 ussr_object_140_shop;Об. 140
-ussr_object_140_0;Уральский танковый завод № 183 имени Коминтерна | Объект 140
+ussr_object_140_0;"<color=#81c3fc>Уральский танковый завод № 183 имени Коминтерна</color>
+<color=#5cae63>Обект 140"</color>
 ussr_object_140_1;Об. 140
 ussr_object_140_2;Medium tank
+
 il_tiran_6_shop;Ṭiran 6
-il_tiran_6_0;Уральским вагоностроительным заводом имени Ф. Э. Дзержинского / Ḥeil ha-Ḥimuš | Ṭank Ṭiran 6
+il_tiran_6_0;"<color=#81c3fc>Уральским вагоностроительным заводом имени Ф. Э. Дзержинского <color=@commonTextColor>/</color> Ḥeil ha-Ḥimuš</color>
+Ṭank Ṭiran 6"
 il_tiran_6_1;Ṭiran 6
 il_tiran_6_2;MBT
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 ussr_t_80ue1_shop;Т-80У-Е1
-ussr_t_80ue1_0;Кировский завод / Омский завод транспортного машиностроения | Объект 219АС-1 | Танк Т-80У-Е1
+ussr_t_80ue1_0;"<color=#81c3fc>Кировский завод <color=@commonTextColor>/</color> Омский завод транспортного машиностроения</color>
+<color=#5cae63>Обект 219АС-1</color>
+Танк Т-80У-Е1"
 ussr_t_80ue1_1;Т-80У-Е1
 ussr_t_80ue1_2;MBT
+
 ussr_t_80ue1_sm_shop;◍ Т-80У-Е1
-ussr_t_80ue1_sm_0;◍ Кировский завод / Омский завод транспортного машиностроения | Объект 219АС-1 | Танк Т-80У-Е1 «Мария»
+ussr_t_80ue1_sm_0;"<color=#81c3fc>Кировский завод <color=@commonTextColor>/</color> Омский завод транспортного машиностроения</color>
+<color=#5cae63>Обект 219АС-1</color>
+◍ Танк Т-80У-Е1 «Мария»"
 ussr_t_80ue1_sm_1;◍ Т-80У-Е1
 ussr_t_80ue1_sm_2;MBT
+
 ussr_t_80um2_shop;Т-80У (Дрозд)
-ussr_t_80um2_0;Кировский завод | Объект 219АС | Танк Т-80У обр. 1995 г. (Дрозд)
+ussr_t_80um2_0;"<color=#81c3fc>Кировский завод</color>
+<color=#5cae63>Обект 219АС</color>
+Танк Т-80У обр. 1995 г.
+<color=#adadad>(Дрозд)</color>"
 ussr_t_80um2_1;Т-80У
 ussr_t_80um2_2;MBT
+
 ussr_bmpt_shop;БМПТ (2002)
-ussr_bmpt_0;Уральское конструкторское бюро транспортного машиностроения | Объект 199 | Боевая машина поддержки танков БМПТ обр. 2002 г. «Терминатор»
+ussr_bmpt_0;"<color=#81c3fc>Уральское конструкторское бюро транспортного машиностроения</color>
+<color=#5cae63>Обект 199</color>
+Боевая машина поддержки танков БМПТ обр. 2002 г. «Терминатор»"
 ussr_bmpt_1;БМПТ
 ussr_bmpt_2;IFV
+
 ussr_bmpt_72_shop;БМПТ-72
-ussr_bmpt_72_0;Уральское конструкторское бюро транспортного машиностроения | Объект 183 | Боевая машина поддержки танков БМПТ-72 «Терминато-2»
+ussr_bmpt_72_0;"<color=#81c3fc>Уральское конструкторское бюро транспортного машиностроения</color>
+<color=#5cae63>Обект 183</color>
+Боевая машина поддержки танков БМПТ-72 «Терминато-2»"
 ussr_bmpt_72_1;БМПТ-72
 ussr_bmpt_72_2;IFV
+
 ussr_9a33bm3_shop;9А33БМ3
-ussr_9a33bm3_0;Научно-исследовательский электромеханический институт | Боевая машина 9А33БМ3 «Оса-АКМ»
+ussr_9a33bm3_0;"<color=#81c3fc>Научно-исследовательский электромеханический институт</color>
+Боевая машина 9А33БМ3 «Оса-АКМ»"
 ussr_9a33bm3_1;9А33БМ3
 ussr_9a33bm3_2;SPAA
+
 ussr_tor_m1_shop;9А331-1
-ussr_tor_m1_0;Научно-производственное объединение Антей | Боевая машина 9А331-1
+ussr_tor_m1_0;"<color=#81c3fc>Научно-производственное объединение Антей</color>
+Боевая машина 9А331-1"
 ussr_tor_m1_1;9А331-1
 ussr_tor_m1_2;SPAAM
-cn_tor_m1_shop;␗ 9А331-1
-cn_tor_m1_0;␗ Научно-производственное объединение Антей | Боевая машина 9А331-1
-cn_tor_m1_1;␗ 9А331-1
-cn_tor_m1_2;SPAAM
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 ussr_t_72b3_arena_m_shop;Т-72Б3А
-ussr_t_72b3_arena_m_0;Уральский вагоностроительный завод им. Ф. Э. Дзержинского / Научно-производственная корпорация «Конструкторское бюро машиностроения» | Объект 184-5 | Танк Т-72Б3А обр. 2024 г.
+ussr_t_72b3_arena_m_0;"<color=#81c3fc>Уральский вагоностроительный завод им. Ф. Э. Дзержинского <color=@commonTextColor>/</color>
+Научно-производственная корпорация
+«Конструкторское бюро машиностроения»</color>
+<color=#5cae63>Обект 184-5</color>
+Танк Т-72Б3А обр. 2024 г."
 ussr_t_72b3_arena_m_1;Т-72Б3А
 ussr_t_72b3_arena_m_2;MBT
+
 ussr_t_72b3_arena_shop;Т-72Б3 (Арена-М)
-ussr_t_72b3_arena_0;Уральский вагоностроительный завод им. Ф. Э. Дзержинского / Научно-производственная корпорация «Конструкторское бюро машиностроения» | Объект 184-3М | Танк Т-72Б3 обр. 2011 г. (Комплекс активной защиты Т09-А6-1 «Арена-М»)
+ussr_t_72b3_arena_0;"<color=#81c3fc>Уральский вагоностроительный завод им. Ф. Э. Дзержинского <color=@commonTextColor>/</color>
+Научно-производственная корпорация
+«Конструкторское бюро машиностроения»</color>
+<color=#5cae63>Обект 184-3М</color>
+Танк Т-72Б3 обр. 2011 г.
+<color=#adadad>(Комплекс активной защиты Т09-А6-1 «Арена-М»)</color>"
 ussr_t_72b3_arena_1;Т-72Б3
 ussr_t_72b3_arena_2;MBT
+
 ussr_buk_m3_launcher_shop;9А317М
-ussr_buk_m3_launcher_0;Научно-исследовательский институт приборостроения им. В. В. Тихомирова (НИИП) | Самоходная огневая установка 9А317М «Бук-М3»
+ussr_buk_m3_launcher_0;"<color=#81c3fc>Научно-исследовательский институт приборостроения им. В. В.
+Тихомирова (НИИП)</color>
+Самоходная огневая установка 9А317М «Бук-М3»"
 ussr_buk_m3_launcher_1;9А317М
 ussr_buk_m3_launcher_2;SPAAM
+
 ussr_buk_m3_fcs_shop;9С18М3
-ussr_buk_m3_fcs_0;Научно-исследовательский институт приборостроения им. В. В. Тихомирова (НИИП) | Станция обнаружения и целеуказания 9С18М3 «Купол-М3»
+ussr_buk_m3_fcs_0;"<color=#81c3fc>Научно-исследовательский институт приборостроения им. В. В.
+Тихомирова (НИИП)</color>
+Станция обнаружения и целеуказания 9С18М3 «Купол-М3»"
 ussr_buk_m3_fcs_1;9С18М3
 ussr_buk_m3_fcs_2;Radar
+
 ussr_pantsyr_sm_sv_shop;Панцирь-СМ-СВ
-ussr_pantsyr_sm_sv_0;Конструкторское бюро приборостроения | Зенитный ракетно-пушечный комплекс «Панцирь-СМ-СВ»
+ussr_pantsyr_sm_sv_0;"<color=#81c3fc>Конструкторское бюро приборостроения</color>
+Зенитный ракетно-пушечный комплекс «Панцирь-СМ-СВ»"
 ussr_pantsyr_sm_sv_1;Панцирь-СМ-СВ
 ussr_pantsyr_sm_sv_2;SPAAG/M
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 ussr_pr_103_sm4_shop;ТКА № 164
-ussr_pr_103_sm4_0;Судостроительный завод № 194 им. Марти | Торпедный катер проекта 103 тип СМ-4 | ТКА № 164
+ussr_pr_103_sm4_0;"<color=#81c3fc>Судостроительный завод № 194 им. Марти</color>
+<color=#fffa62>Торпедный катер проекта 103 тип СМ-4</color>
+ТКА № 164"
 ussr_pr_103_sm4_1;ТКА № 164
 ussr_pr_103_sm4_2;Motor Torpedo Boat
+
 ussr_d3_tk126_shop;ТК-126
-ussr_d3_tk126_0;Завод № 640 | Торпедный катер проект 19-ОК | ТК-126 (1944)
+ussr_d3_tk126_0;"<color=#81c3fc>Завод № 640</color>
+<color=#fffa62>Торпедный катер проект 19-ОК</color>
+ТК-126
+<color=#adadad>(1944)</color>"
 ussr_d3_tk126_1;ТК-126
 ussr_d3_tk126_2;Motor Torpedo Boat
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 ussr_pr253l_shop;Т-380
-ussr_pr253l_0;Судостроительный завод № 189 им. С. Орджоникидзе | Рейдовые тральщики проект 253Л | Т-380
+ussr_pr253l_0;"<color=#81c3fc>Судостроительный завод № 189 им. С. Орджоникидзе</color>
+<color=#fffa62>Рейдовые тральщики проект 253Л</color>
+Т-380"
 ussr_pr253l_1;Т-380
 ussr_pr253l_2;Raid Minesweeper
 
@@ -450,11 +614,17 @@ ussr_pr253l_2;Raid Minesweeper
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 ussr_mpk_pr_1124_shop;МПК-33
-ussr_mpk_pr_1124_0;Зеленодольский судостроительный завод № 340 им. А. М. Горького | Малый противолодочный корабль проект 1124 «Альбатрос» | МПК-33
+ussr_mpk_pr_1124_0;"<color=#81c3fc>Зеленодольский судостроительный завод № 340 им. А. М. Горького</color>
+<color=#fffa62>Малый противолодочный корабль проект 1124 «Альбатрос»</color>
+МПК-33"
 ussr_mpk_pr_1124_1;МПК-33
 ussr_mpk_pr_1124_2;Anti-Submarine Ship
+
 ussr_pr_205pe_k225_shop;АК-225
-ussr_pr_205pe_k225_0;Ленинградский Приморский завод | Артиллерийский катер проект 205ПЭ | АК-225 (1975)
+ussr_pr_205pe_k225_0;"<color=#81c3fc>Ленинградский Приморский завод</color>
+<color=#fffa62>Артиллерийский катер проект 205ПЭ</color>
+АК-225
+<color=#adadad>(1975)</color>"
 ussr_pr_205pe_k225_1;АК-225
 ussr_pr_205pe_k225_2;Artillery Boat
 
@@ -464,7 +634,9 @@ ussr_pr_205pe_k225_2;Artillery Boat
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 ussr_destroyer_pr48k_erevan_shop;Ереван
-ussr_destroyer_pr48k_erevan_0;Судостроительный завод № 198 им. А. Марти | Лидер проект 48, тип Киев | Ереван
+ussr_destroyer_pr48k_erevan_0;"<color=#81c3fc>Судостроительный завод № 198 им. А. Марти</color>
+<color=#fffa62>Лидер проект 48, тип Киев</color>
+Ереван"
 ussr_destroyer_pr48k_erevan_1;Ереван
 ussr_destroyer_pr48k_erevan_2;Destroyer
 
@@ -474,49 +646,77 @@ ussr_destroyer_pr48k_erevan_2;Destroyer
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 ussr_battlecruiser_kronshtadt_shop;Кронштадт
-ussr_battlecruiser_kronshtadt_0;Завод № 194 им. Марти | Тяжёлый крейсер проект 69, тип Кронштадт | Кронштадт
+ussr_battlecruiser_kronshtadt_0;"<color=#81c3fc>Завод № 194 им. Марти</color>
+<color=#fffa62>Тяжёлый крейсер проект 69, тип Кронштадт</color>
+Кронштадт"
 ussr_battlecruiser_kronshtadt_1;Кронштадт
 ussr_battlecruiser_kronshtadt_2;Battlecruiser
+
 ussr_battlecruiser_sevastopol_shop;Севастополь
-ussr_battlecruiser_sevastopol_0;Судостроительный завод № 200 имени 61 коммунара | Тяжёлый крейсер проект 69И, тип Кронштадт | Севастополь
+ussr_battlecruiser_sevastopol_0;"<color=#81c3fc>Судостроительный завод № 200 имени 61 коммунара</color>
+<color=#fffa62>Тяжёлый крейсер проект 69И, тип Кронштадт</color>
+Севастополь"
 ussr_battlecruiser_sevastopol_1;Севастополь
 ussr_battlecruiser_sevastopol_2;Battlecruiser
+
 ussr_battlecruiser_stalingrad_shop;Сталинград
-ussr_battlecruiser_stalingrad_0;Николаевские объединённые государственные заводы им. Андре Марти | Тяжёлый крейсер проект 82, тип Сталинград | Сталинград
+ussr_battlecruiser_stalingrad_0;"<color=#81c3fc>Николаевские объединённые государственные заводы им. Андре
+Марти</color>
+<color=#fffa62>Тяжёлый крейсер проект 82, тип Сталинград</color>
+Сталинград"
 ussr_battlecruiser_stalingrad_1;Сталинград
 ussr_battlecruiser_stalingrad_2;Battlecruiser
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 ussr_battleship_pr23_sovetskij_soyuz_shop;Советский Союз
-ussr_battleship_pr23_sovetskij_soyuz_0;Судостроительный завод № 189 им. С. Орджоникидзе | Линейный корабль проект 23, тип Советский Союз | Советский Союз
+ussr_battleship_pr23_sovetskij_soyuz_0;"<color=#81c3fc>Судостроительный завод № 189 им. С. Орджоникидзе</color>
+<color=#fffa62>Линейный корабль проект 23, тип Советский Союз</color>
+Советский Союз"
 ussr_battleship_pr23_sovetskij_soyuz_1;Советский Союз
 ussr_battleship_pr23_sovetskij_soyuz_2;Battleship
 
 //GERMAN AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 mig_23bn_shop;◊ MiG-23BN
-mig_23bn_0;◊ Московское авиационное производственное объединение | Erzeugn. 32-24B | MiG-23BN
+mig_23bn_0;"<color=#81c3fc>Московское авиационное производственное объединение</color>
+<color=#5cae63>Erzeugn. 32-24B</color>
+◊ MiG-23BN"
 mig_23bn_1;◊ MiG-23BN
 mig_23bn_2;◊ MiG-23
+
 mig_23mla_shop;◊ MiG-23ML
-mig_23mla_0;◊ Московское авиационное производственное объединение | Erzeugn. 23-12A | MiG-23ML
+mig_23mla_0;"<color=#81c3fc>Московское авиационное производственное объединение</color>
+<color=#5cae63>Erzeugn. 23-12A</color>
+◊ MiG-23ML"
 mig_23mla_1;◊ MiG-23ML
 mig_23mla_2;◊ MiG-23
+
 mig_23mf_germany_shop;◊ MiG-23MF
-mig_23mf_germany_0;◊ Московское авиационное производственное объединение | Erzeugn. 23-11A | MiG-23MF
+mig_23mf_germany_0;"<color=#81c3fc>Московское авиационное производственное объединение</color>
+<color=#5cae63>Erzeugn. 23-11A</color>
+◊ MiG-23MF"
 mig_23mf_germany_1;◊ MiG-23MF
 mig_23mf_germany_2;◊ MiG-23
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 su_22um3k_shop;◊ Su-22UM3K
-su_22um3k_0;◊ Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина | Erzeugn. S-52UM3K | Su-22UM3K
+su_22um3k_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина</color>
+<color=#5cae63>Erzeugn. S-52UM3K</color>
+◊ Su-22UM3K"
 su_22um3k_1;◊ Su-22UM
 su_22um3k_2;◊ Su-22
+
 su_22m4_shop;◊ Su-22M4
-su_22m4_0;◊ Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина | Erzeugn. S-54K | Su-22M4
+su_22m4_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина</color>
+<color=#5cae63>Erzeugn. S-54K</color>
+◊ Su-22M4"
 su_22m4_1;◊ Su-22M
 su_22m4_2;◊ Su-22
+
 su_22m4_de_wtd61_shop;◄ Su-22M4 (WTD 61)
-su_22m4_de_wtd61_0;◄ Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина | Erzeugn. S-54K | Su-22M4 Fitter-K (Wehrtechnische Dienststelle 61)
+su_22m4_de_wtd61_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина</color>
+<color=#5cae63>Erzeugn. S-54K</color>
+◄ Su-22M4 Fitter-K
+Wehrtechnische Dienststelle 61"
 su_22m4_de_wtd61_1;◄ Su-22M
 su_22m4_de_wtd61_2;◄ Su-22
 
@@ -530,35 +730,64 @@ germ_kv_1B_finland_2;▀ Heavy Tank
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 i-15bis_china_shop;☀ E-15 Bisī
-i-15bis_china_0;☀ Московский авиационный завод № 39 им. В. Р. Менжинского | E-15 Bisī Xíng Qūzhú Jī
+i-15bis_china_0;"<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
+☀ E-15 Bisī Xíng Qūzhú Jī"
 i-15bis_china_1;☀ E-15 Bisī
 i-15bis_china_2;☀ E-15
+
 i-16_type5_1935_china_shop;☀ E-16-5
-i-16_type5_1935_china_0;☀ Московский авиационный завод № 39 им. В. Р. Менжинского | E-16-5 Xíng Qūzhú Jī
+i-16_type5_1935_china_0;"<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
+☀ E-16-5 Xíng Qūzhú Jī"
 i-16_type5_1935_china_1;☀ E-16-5
 i-16_type5_1935_china_2;☀ E-16
+
 i-16_type10_china_shop;☀ E-16-10
-i-16_type10_china_0;☀ Московский авиационный завод № 39 им. В. Р. Менжинского | E-16-10 Xíng Qūzhú Jī
+i-16_type10_china_0;"<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
+☀ E-16-10 Xíng Qūzhú Jī"
 i-16_type10_china_1;☀ E-16-10
 i-16_type10_china_2;☀ E-16
+
 i-16_type17_china_shop;☀ E-16-17
-i-16_type17_china_0;☀ Московский авиационный завод № 39 им. В. Р. Менжинского | E-16-17 Xíng Qūzhú Jī
+i-16_type17_china_0;"<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
+☀ E-16-17 Xíng Qūzhú Jī"
 i-16_type17_china_1;☀ E-16-17
 i-16_type17_china_2;☀ E-16
+
 i-16_chung_28_shop;Zhōng 28 Jia
-i-16_chung_28_0;Московский авиационный завод № 39 им. В. Р. Менжинского / Zhōngyāng Fēijī Zhìzào Chang | Zhōng 28 Jia Xíng Qūzhú Jī
+i-16_chung_28_0;"<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского <color=@commonTextColor>/</color>
+Zhōngyāng Fēijī Zhìzào Chang</color>
+Zhōng 28 Jia Xíng Qūzhú Jī"
 i-16_chung_28_1;Zhōng 28 Jia
 i-16_chung_28_2;Zhōng 28
+
 i-153_m62_china_shop;☀ E-153
-i-153_m62_china_0;☀ Московский авиационный завод № 39 им. В. Р. Менжинского | E-153 Qūzhú Jī
+i-153_m62_china_0;"<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
+☀ E-153 Qūzhú Jī"
 i-153_m62_china_1;☀ E-153
 i-153_m62_china_2;☀ E-153
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 sb_2m_103u_china_shop;☀ СБ
-sb_2m_103u_china_0;☀ Авиационный завод № 22 им. С. П. Горбунова | СБ Shì Qīng Hōngzhà Jī
+sb_2m_103u_china_0;"<color=#81c3fc>Авиационный завод № 22 им. С. П. Горбунова</color>
+☀ СБ Shì Qīng Hōngzhà Jī"
 sb_2m_103u_china_1;☀ СБ
 sb_2m_103u_china_2;☀ СБ
+
+//CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+cn_t_62_shop;Т-62
+cn_t_62_0;"<color=#81c3fc>Опытно-конструкторское бюро № 520</color>
+<color=#5cae63>Обект 166</color>
+Танк Т-62 обр. 1964 г.
+<color=@currencyGoldColor>57-го Погранотряда</color>"
+cn_t_62_1;Т-62
+cn_t_62_2;MBT
+
+//CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+cn_tor_m1_shop;␗ 9А331-1
+cn_tor_m1_0;"<color=#81c3fc>Научно-производственное объединение Антей</color>
+␗ Боевая машина 9А331-1"
+cn_tor_m1_1;␗ 9А331-1
+cn_tor_m1_2;SPAAM
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 il-10_1946_hungary_shop;◔ Il-10 (1947)

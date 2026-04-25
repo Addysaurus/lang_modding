@@ -1811,7 +1811,7 @@ us_battleship_south_dakota_1;USS South Dakota
 us_battleship_south_dakota_2;Battleship
 
 us_battleship_iowa_class_iowa_shop;USS Iowa (BB-61)
-us_battleship_iowa_class_iowa_0;"<color=#81c3fc>Brooklyn Navy Yard <color=@commonTextColor>/</color> PHunters Point Naval Shipyard</color>
+us_battleship_iowa_class_iowa_0;"<color=#81c3fc>Brooklyn Navy Yard <color=@commonTextColor>/</color> Hunters Point Naval Shipyard</color>
 <color=#fffa62>Iowa-class Battleship</color>
 USS Iowa (BB-61)
 <color=#adadad>(1945)</color>"
@@ -3680,10 +3680,39 @@ su_33_2;Su-33
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+mi_35m_shop;Mi-24VM
+mi_35m_0;"<color=#81c3fc>Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ</color>
+Vyertolyet Mi-24VM</color>
+mi_35m_1;Mi-24VM
+mi_35m_2;Mi-24
+
+mi_35m_killstreak_shop;Mi-24VM
+mi_35m_killstreak_0;"<color=#81c3fc>Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ</color>
+Vyertolyet Mi-24VM</color>
+mi_35m_killstreak_1;Mi-24VM
+mi_35m_killstreak_2;Mi-24
+
+mi_35p_shop;Mi-35P
+mi_35p_0;"<color=#81c3fc>Moskovskij vyertolëtnyj zavod im. M. L. Milâ <color=@commonTextColor>/</color> Kholding
+«Vyertolëty Rossii» <color=@commonTextColor>+</color> Rostovskij vyertolëtnyj proizvodstvyennyj
+komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ
+Mi-35P Transportno-boyevoj Vyertolyet ""Fyeniks""</color>"
+mi_35p_1;Mi-35P
+mi_35p_2;Mi-35
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+mi_8amtsh_vn_shop;Mi-8AMTŠ-VN
+mi_8amtsh_vn_0;"<color=#81c3fc>Moskovskij vyertolëtnyj zavod im. M. L. Milâ</color>
+Vyertolyet Mi-8AMTŠ-VN ""Sapsan"""
+mi_8amtsh_vn_1;Mi-8AMTŠ
+mi_8amtsh_vn_2;Mi-8
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+ussr_garford_putilov_shop;Garford
+ussr_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Putilovskij zavod</color>
+Bronirovannyj avtomobil' ""Garford"""
+ussr_garford_putilov_1;Garford
+ussr_garford_putilov_2;Armored Car
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 
@@ -7188,6 +7217,7 @@ f-104g_china_2;☀ F-104
 mig-19j_6a_shop;J6A
 mig-19j_6a_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 SM-7/3 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè
 Chang</color>
+<color=#919191>Dōngfēng 103 <color=@commonTextColor>|</color> 59 Shì Jiǎ Jiānjíjī <color=@commonTextColor>|</color> J6 Jiǎ Xíng Jiānjíjī</color>
 J6A Xíng Fēijī"
 mig-19j_6a_1;J6A
 mig-19j_6a_2;J6
@@ -7212,6 +7242,7 @@ j_7e_2;K/JJ7
 
 q_5_early_shop;Q5
 q_5_early_0;"<color=#81c3fc>Nánchāng Fēijī Zhìzào Gōngsī</color>
+<color=#919191>Xióngyīng 302</color>
 Q5 Xíng Fēijī"
 q_5_early_1;Q5
 q_5_early_2;Q5

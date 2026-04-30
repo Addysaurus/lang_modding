@@ -22,6 +22,34 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Changes:
+
+    - **F6C (1976)** → **F6C (Oct, 1976)**. Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / Guóyíng Sōnglíng Jīxiè Chang | F6C Xíng Fēijī (October, 1976)**.
+        - Mandarin package: Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / 国营松陵机械厂 | F6C型飞机 (October, 1976)**.
+        - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 СМ-7/3 / 国营松陵机械厂 | F6C型飞机 (October, 1976)**.
+
+### Weaponry:
+
+- #### Additions:
+
+    - **Drop tank (760 liters)** (forgot to add this for the **F6C** event)
+    - **Drop tank (1140 liters)** (forgot to add this for the **F6C** event)
+
+- #### Changes:
+
+    - **Drop tank (760 liters)** → **Drop tank (760 L)**.
+    - **Drop tank (1140 liters)** → **"Gondola"**.
+
+### Menu:
+
+- #### Additions:
+
+    - Removed the mouse click to close a statcard tip from the top of the statcard because wtf, it's a terrible and useless tip, no one asked for this and it clutters the statcard.
+
+## 1.17.03 - 24-04-2026
+
+### Vehicles:
+
 - #### Additions:
 
     - **IJN Suzutsuki**

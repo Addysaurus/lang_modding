@@ -1,4 +1,5 @@
 <ID|readonly|noverify>;<English>
+//STATCARD
 mainmenu/aviation;Aircraft
 mainmenu/army;Ground forces
 mainmenu/fleet;Fleet
@@ -87,10 +88,15 @@ airLimits/gear_destruction_ind_speed;Landing gear speed limit (IAS):
 airLimits/gear_destruction_ind_speed/tooltip;The indicated air speed (IAS) at which the landing gear can no longer withstand the speed and breaks off.
 airLimits/flaps_destruction_ind_speed;Flap speed limit (IAS):
 airLimits/flaps_destruction_ind_speed/tooltip;The indicated air speed (IAS) at which the flaps can no longer withstand the speed and break off.
+hint/mouseClick;""
+
+//CREW SKILLS
 crew/pilot/eyesight/tooltip;"This skill affects the pilot's visual range in the direction they are looking; i.e. the maximum distance at which they can detect the enemy in front of themself.
 
 The skill allows to increase the range of detection up to two times (upon identical weather conditions, position of the Sun and altitude difference between the two aircraft)."
 crew/tank_gunner/tracking/tooltip;"The skill of gun targeting affects targeting speed and accuracy. An experienced gunner targets the gun both vertically and horizontally at once; an inexperienced one does it in turns — at first they rotate the turret and then fix the angle of fire."
+
+//HANGAR MENU
 help/protectionAnalysisSelectUnit;"To check your vehicle, select the attacking enemy and their weapons from the list."
 
 //MAP UNITS

@@ -1,4 +1,119 @@
 <ID|readonly|noverify>;<English>
+//BOMBS
+modification/cn_q5_type_250;250-1型 (燃烧) / 2型 / 3型 / 4型
+modification/cn_q5_type_250/desc;"Loadout unlocked:
+• 歼6A, 强5, 强5B:
+  • Pylon:
+    • 236.92 kg <color=@userlogColoredText>250-2型</color> <color=#ff6f00>BMB</color>
+• 歼7II, 强5 (all), A5C (2003):
+  • Pylon:
+    • 135 kg <color=@userlogColoredText>250-1型 (燃烧)</color> <color=#ff6f00>BMB-NPM</color>
+• 歼7D, 歼7E, 歼8 (all), 强5B, 强5L:
+  • Pylon:
+    • 216.5 kg <color=@userlogColoredText>250-3型</color> <color=#ff6f00>BMB</color>
+• 歼7D, 歼7E, 歼8 (all), 强5B, 强5L, A5C (2003):
+  • Pylon:
+    • 240 kg <color=@userlogColoredText>250-4型</color> <color=#ff6f00>BMB</color>
+• 歼8 (all), 歼轰7:
+  • <color=@userlogColoredText>GDJ-4</color> multiple eJector rack:
+    • 216.5 kg <color=@userlogColoredText>250-3型</color> <color=#ff6f00>BMB</color> x6
+    • 240 kg <color=@userlogColoredText>250-4型</color> <color=#ff6f00>BMB-HD</color> x6
+• 歼轰7:
+  • <color=@userlogColoredText>GDJ-4</color> multiple ejector rack on <color=@userlogColoredText>GDJ-49B</color> pylon:
+    • 216.5 kg <color=@userlogColoredText>250-3型</color> <color=#ff6f00>BMB</color> x4
+    • 240 kg <color=@userlogColoredText>250-4型</color> <color=#ff6f00>BMB-HD</color> x4"
+
+modification/cn_q5_type_500;500-2型 / 3型 / 4型
+modification/cn_q5_type_500/desc;"Loadout unlocked:
+• 歼7II:
+  • Pylon:
+    • 473 kg <color=@userlogColoredText>500-2型</color> <color=#ff6f00>BMB</color>
+• 歼7D, 歼7E, 歼8 (all), 强5L:
+  • Pylon:
+    • 469 kg <color=@userlogColoredText>500-3型</color> <color=#ff6f00>BMB</color>
+    • 508.3 kg <color=@userlogColoredText>500-4型</color> <color=#ff6f00>BMB-HD</color>
+• 歼轰7:
+  • Dual ejector rack:
+    • 469 kg <color=@userlogColoredText>500-3型</color> <color=#ff6f00>BMB</color> x2
+    • 508.3 kg <color=@userlogColoredText>500-4型</color> <color=#ff6f00>BMB-HD</color> x2"
+
+modification/cn_type_250_ls_6;250-3型 / 4型 / LS-6/250
+modification/cn_type_250_ls_6/desc;"Loadout unlocked:
+• 歼10A:
+  • <color=@userlogColoredText>GDJ-6</color> pylon:
+    • 216.5 kg <color=@userlogColoredText>250-3型</color> <color=#ff6f00>BMB</color>
+    • 240 kg <color=@userlogColoredText>250-4型</color> <color=#ff6f00>BMB</color>
+    • 290 kg <color=@userlogColoredText>LS-6/250</color> <color=#ff6f00>BMB-LG/GNSS</color>
+  • Dual ejector rack:
+    • 216.5 kg <color=@userlogColoredText>250-3型</color> <color=#ff6f00>BMB</color> x2
+    • 240 kg <color=@userlogColoredText>250-4型</color> <color=#ff6f00>BMB</color> x2
+  • Pylon:
+    • 216.5 kg <color=@userlogColoredText>250-3型</color> <color=#ff6f00>BMB</color>
+    • 240 kg <color=@userlogColoredText>250-4型</color> <color=#ff6f00>BMB</color>
+• 歼11B:
+  • Pylon:
+    • 216.5 kg <color=@userlogColoredText>250-3型</color> <color=#ff6f00>BMB</color>
+    • 240 kg <color=@userlogColoredText>250-4型</color> <color=#ff6f00>BMB</color>
+    • 290 kg <color=@userlogColoredText>LS-6/250</color> <color=#ff6f00>BMB-LG/GNSS</color>
+• 歼轰7A (all):
+  • <color=@userlogColoredText>GDJ-49B</color> pylon:
+    • 290 kg <color=@userlogColoredText>LS-6/250</color> <color=#ff6f00>BMB-LG/GNSS</color>
+  • <color=@userlogColoredText>GDJ-4</color> multiple ejector rack on <color=@userlogColoredText>GDJ-49B</color> pylon:
+    • 216.5 kg <color=@userlogColoredText>250-3型</color> <color=#ff6f00>BMB</color> x6
+    • 240 kg <color=@userlogColoredText>250-4型</color> <color=#ff6f00>BMB</color> x6
+  • <color=@userlogColoredText>GDJ-4</color> multiple ejector rack:
+    • 216.5 kg <color=@userlogColoredText>250-3型</color> <color=#ff6f00>BMB</color> x6
+    • 240 kg <color=@userlogColoredText>250-4型</color> <color=#ff6f00>BMB</color> x6
+  • Pylon:
+    • 216.5 kg <color=@userlogColoredText>250-3型</color> <color=#ff6f00>BMB</color>
+    • 240 kg <color=@userlogColoredText>250-4型</color> <color=#ff6f00>BMB</color>
+    • 290 kg <color=@userlogColoredText>LS-6/250</color> <color=#ff6f00>BMB-LG/GNSS</color>"
+
+modification/cn_type_500_ls_6;500-3型 / 4型 / LS-6/500
+modification/cn_type_500_ls_6/desc;"Loadout unlocked:
+• 歼10A:
+  • <color=@userlogColoredText>GDJ-6</color> pylon:
+    • 469 kg <color=@userlogColoredText>500-3型</color> <color=#ff6f00>BMB</color>
+    • 508.3 kg <color=@userlogColoredText>500-4型</color> <color=#ff6f00>BMB</color>
+    • 630 kg <color=@userlogColoredText>LS-6/500</color> <color=#ff6f00>BMB-LG/GNSS</color>
+  • Pylon:
+    • 469 kg <color=@userlogColoredText>500-3型</color> <color=#ff6f00>BMB</color>
+    • 508.3 kg <color=@userlogColoredText>500-4型</color> <color=#ff6f00>BMB</color>
+• 歼11B:
+  • Pylon:
+    • 469 kg <color=@userlogColoredText>500-3型</color> <color=#ff6f00>BMB</color>
+    • 508.3 kg <color=@userlogColoredText>500-4型</color> <color=#ff6f00>BMB</color>
+    • 630 kg <color=@userlogColoredText>LS-6/500</color> <color=#ff6f00>BMB-LG/GNSS</color>
+• 歼轰7A (all):
+  • <color=@userlogColoredText>GDJ-49B</color> pylon:
+    • 630 kg <color=@userlogColoredText>LS-6/500</color> <color=#ff6f00>BMB-LG/GNSS</color>
+  • Pylon:
+    • 469 kg <color=@userlogColoredText>500-3型</color> <color=#ff6f00>BMB</color>
+    • 508.3 kg <color=@userlogColoredText>500-4型</color> <color=#ff6f00>BMB</color> x2
+    • 630 kg <color=@userlogColoredText>LS-6/500</color> <color=#ff6f00>BMB-LG/GNSS</color> x2"
+
+modification/cn_ls_6_250_ir;LS-6/250 (红外)
+modification/cn_ls_6_250_ir/desc;"Loadout unlocked:
+• 歼10 (all):
+  • <color=@userlogColoredText>GDJ-6</color> pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (红外)</color> <color=#ff6f00>BMB-IR/GNSS</color>
+• 歼10C:
+  • Triple ejector rack:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (红外)</color> <color=#ff6f00>BMB-IR/GNSS</color> x2
+  • Pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (红外)</color> <color=#ff6f00>BMB-IR/GNSS</color>
+• 歼11B:
+  • Pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (红外)</color> <color=#ff6f00>BMB-IR/GNSS</color>
+• 歼轰7A (all):
+  • <color=@userlogColoredText>GDJ-49B</color> pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (红外)</color> <color=#ff6f00>BMB-IR/GNSS</color>
+• JF-17 Block I:
+  • <color=@userlogColoredText>GDJ-II18A</color> pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (红外)</color> <color=#ff6f00>BMB-IR/GNSS</color>
+  • <color=@userlogColoredText>GDJ-III25A</color> pylon:
+    • 300 kg <color=@userlogColoredText>LS-6/250 (红外)</color> <color=#ff6f00>BMB-IR/GNSS</color>"
+
 //ROCKETS
 modification/cn_hf7d;火蛇70
 modification/cn_hf7d/desc;"Loadout unlocked:
@@ -7,10 +122,10 @@ modification/cn_hf7d/desc;"Loadout unlocked:
 
 modification/q_5b_type130;130-1型
 modification/q_5b_type130/desc;"Loadout unlocked:
-• 强5B, K/JQ5, A5C (2003), K/JJ7 (all), K/JJH7 (all):
+• 强5B, 强5L, A5C (2003), 歼7 (all), 歼轰7 (all):
   • <color=@userlogColoredText>HF-14</color> airborne rocket launcher:
     • <color=@userlogColoredText>130-1型</color> <color=#ff6f00>RKT</color> x4
-• K/JJ10A:
+• 歼10A:
   • <color=@userlogColoredText>HF-14</color> airborne rocket launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
     • <color=@userlogColoredText>130-1型</color> <color=#ff6f00>RKT</color> x4"
 
@@ -22,34 +137,34 @@ modification/cn_fire_snake_70a/desc;"Loadout unlocked:
 //MISSILES
 modification/j_7_pl5b;K/AKK5B
 modification/j_7_pl5b/desc;"Loadout unlocked:
-• K/JJ7D, K/JJ7E, K/JJ8 (all):
+• 歼7D, 歼7E, 歼8 (all):
   • <color=@userlogColoredText>APU-13</color> missile launcher:
     • <color=@userlogColoredText>K/AKK5B</color> <color=#ff6f00>AAM-IR</color>
-• H/JJH7, K/JJH7A (all):
+• 歼轰7, 歼轰7A (all):
   • <color=@userlogColoredText>霹发9W</color> missile launcher:
     • <color=@userlogColoredText>K/AKK5B</color> <color=#ff6f00>AAM-IR</color>
-• K/JJH7A (all):
+• 歼轰7A (all):
   • <color=@userlogColoredText>APU-13</color> missile launcher:
     • <color=@userlogColoredText>K/AKK5B</color> <color=#ff6f00>AAM-IR</color>"
 
 modification/cn_pl5c;K/AKK5C
 modification/cn_pl5c/desc;"Loadout unlocked:
-• H/JJH7, K/JJH7A (all):
+• 歼轰7, 歼轰7A (all):
   • <color=@userlogColoredText>霹发9W</color> missile launcher:
     • <color=@userlogColoredText>K/AKK5C</color> <color=#ff6f00>AAM-IR</color>
-• K/JJH7A (all):
+• 歼轰7A (all):
   • <color=@userlogColoredText>APU-13</color> missile launcher:
     • <color=@userlogColoredText>K/AKK5C</color> <color=#ff6f00>AAM-IR</color>"
 
 modification/cn_pl5e2;K/AKK5EII
 modification/cn_pl5e2/desc;"Loadout unlocked:
-• K/JJ10A:
+• 歼10A:
   • <color=@userlogColoredText>APU-13</color> missile launcher:
     • <color=@userlogColoredText>K/AKK5EII</color> <color=#ff6f00>AAM-IR</color>
-• H/JJH7, K/JJH7A (all):
+• 歼轰7, 歼轰7A (all):
   • <color=@userlogColoredText>霹发9W</color> missile launcher:
     • <color=@userlogColoredText>K/AKK5EII</color> <color=#ff6f00>AAM-IR</color>
-• K/JJH7A (all):
+• 歼轰7A (all):
   • <color=@userlogColoredText>APU-13</color> missile launcher:
     • <color=@userlogColoredText>K/AKK5EII</color> <color=#ff6f00>AAM-IR</color>
 • JF-17 Block I:
@@ -65,12 +180,12 @@ modification/j_7_pl7/desc;"Loadout unlocked:
 
 modification/cn_pl8b;K/AKK8B
 modification/cn_pl8b/desc;"Loadout unlocked:
-• K/JJ10A, 歼10CE:
+• 歼10A, 歼10CE:
   • <color=@userlogColoredText>霹发95W</color> missile launcher on <color=@userlogColoredText>GDJ-1</color> pylon:
     • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>
   • <color=@userlogColoredText>霹发95W</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
     • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>
-• K/JJ11B, ␗ 苏30MKK:
+• 歼11B, ␗ 苏30MKK:
   • <color=@userlogColoredText>霹发8KZ</color> missile launcher:
     • <color=@userlogColoredText>K/AKK8B</color> <color=#ff6f00>AAM-IR</color>
   • <color=@userlogColoredText>霹发10X</color> missile launcher:
@@ -78,18 +193,18 @@ modification/cn_pl8b/desc;"Loadout unlocked:
 
 modification/cn_pl12;SD10A
 modification/cn_pl12/desc;"Loadout unlocked:
-• K/JJ8F:
+• 歼8F:
   • <color=@userlogColoredText>霹发11</color> missile launcher:
     • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
-• K/JJ10A, 歼10CE:
+• 歼10A, 歼10CE:
   • <color=@userlogColoredText>霹发12</color> missile launcher x2 on dual rack:
     • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
   • <color=@userlogColoredText>霹发12</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
     • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-IR</color>
-• K/JJ10C:
+• 歼10C:
   • <color=@userlogColoredText>PFT15W</color> missile launcher on <color=@userlogColoredText>ZL4W</color> pylon x2 on dual rack:
     • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>
-• K/JJ11B, ␗ 苏30MKK:
+• 歼11B, ␗ 苏30MKK:
   • <color=@userlogColoredText>霹发10X</color> missile launcher:
     • <color=@userlogColoredText>SD10A</color> <color=#ff6f00>AAM-ARH</color>"
 
@@ -100,7 +215,7 @@ modification/cn_sd10/desc;"Loadout unlocked:
 
 modification/cn_pl12a;PL12AE
 modification/cn_pl12a/desc;"Loadout unlocked:
-• 歼10CE, H/JJ15T:
+• 歼10CE, 歼15T:
   • <color=@userlogColoredText>PFT125</color> missile launcher x2 on <color=@userlogColoredText>GDJ-68III</color> dual rack on <color=@userlogColoredText>GDJ-68I</color> pylon:
     • <color=@userlogColoredText>霹雳12AE</color> <color=#ff6f00>AAM-ARH</color> x2
 • 歼10CE:
@@ -108,7 +223,7 @@ modification/cn_pl12a/desc;"Loadout unlocked:
     • <color=@userlogColoredText>霹雳12AE</color> <color=#ff6f00>AAM-IR</color>
   • <color=@userlogColoredText>PFT15W</color> missile launcher on <color=@userlogColoredText>ZL4W</color> pylon x2 on dual rack:
     • <color=@userlogColoredText>霹雳12AE</color> <color=#ff6f00>AAM-ARH</color>
-• H/JJ15T:
+• 歼15T:
   • <color=@userlogColoredText>PFT125</color> missile launcher:
     • <color=@userlogColoredText>霹雳12AE</color> <color=#ff6f00>AAM-ARH</color>
   • <color=@userlogColoredText>PFT125</color> missile launcher on <color=@userlogColoredText>GDL-III7Z</color> pylon:
@@ -124,8 +239,8 @@ modification/cn_ba_11/desc;"Loadout unlocked:
 • Pylon:
   • <color=@userlogColoredText>蓝箭-11A</color> <color=#ff6f00>AGM-IR</color> x4"
 
-modification/cn_hj8_e;AFT08E
-modification/cn_hj8_e/desc;"Loadout unlocked:
+modification/cn_h歼8_e;AFT08E
+modification/cn_h歼8_e/desc;"Loadout unlocked:
 • ␗ SA 342 L, 直9W:
   • Pylon:
     • <color=@userlogColoredText>AFT08E</color> <color=#ff6f00>AGM-WG</color> x2

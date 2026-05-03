@@ -22,6 +22,44 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Changes:
+
+    - **F6C (1976)** → **F6C (Oct, 1976)**. Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / Guóyíng Sōnglíng Jīxiè Chang | F6C Xíng Fēijī (October, 1976)**.
+        - Mandarin package: Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / 国营松陵机械厂 | F6C型飞机 (October, 1976)**.
+        - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 СМ-7/3 / 国营松陵机械厂 | F6C型飞机 (October, 1976)**.
+    - **K/JJH7A (prototype)** → **JH7A (1 Hào)**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | JH7A Xíng Fēijī "Fēi Bào" (Yàngchē 1 Hào)**.
+        - Mandarin package: **K/JJH7A (prototype)** → **JH7A (1号)**. Statcard name → **西安飞机工业 (集团) | JH7A型飞机 "飞豹" (样车1号)**.
+        - Mandarin + Russian package: **K/JJH7A (prototype)** → **歼轰7A (1号)**. Statcard name → **西安飞机工业 (集团) | 歼轰7A型飞机 "飞豹" (样车1号)**.
+    - **Leopard 2A4 NL**: Statcard name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL m/kanon 120 mm**.
+    - **Leopard 2A4 NL (OTCo)**: Statcard name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL m/kanon 120 mm (Opleidings- en Trainingscommando)**.
+    - **Leopard 2A5 NL**: Statcard name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL m/kanon 120 mm**.
+    - **Leopard 2A6 NL**: Statcard name → **Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL m/kanon 120 mm**.
+    - **CV9035NL**: Statcard name → **BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, CV9035NL m/kanon 35 mm**.
+    - **Chieftain 10/900** (folder) → **Chieftain, Mk. 10 / 900**.
+    - Removed K/JJ, K/JJH, H/JJ, K/JQ, etc. from Chinese aircraft and replaced them with J, JH, J, JQ, etc. respectively. In the full Manadarin package, they have been replaced with Chinese characters.
+
+### Weaponry:
+
+- #### Additions:
+
+    - **Drop tank (760 liters)** (forgot to add this for the **F6C** event)
+    - **Drop tank (1140 liters)** (forgot to add this for the **F6C** event)
+
+- #### Changes:
+
+    - **Drop tank (760 liters)** → **Drop tank (760 L)**.
+    - **Drop tank (1140 liters)** → **"Gondola"**.
+
+### Menu:
+
+- #### Additions:
+
+    - Removed the mouse click to close a statcard tip from the top of the statcard because wtf, it's a terrible and useless tip, no one asked for this and it clutters the statcard.
+
+## 1.17.03 - 24-04-2026
+
+### Vehicles:
+
 - #### Additions:
 
     - **IJN Suzutsuki**

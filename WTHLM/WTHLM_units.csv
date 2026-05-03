@@ -1462,6 +1462,7 @@ shop/group/uk_crusader_group;Crusader, Mk. II / III
 shop/group/uk_cromwell_group;Cromwell, Mk. V / I
 shop/group/uk_valentine_group;Valentine, Mk. I / XI / IX
 shop/group/uk_chieftain_mk_3_5_group;Chieftain, Mk. 3 / 5
+shop/group/uk_chieftain_mk_10_900_group;Chieftain, Mk. 10 / 900
 shop/group/uk_challenger_comet_group;Challenger, Mk. I / Comet
 shop/group/uk_cromwell_sherman_group;Cromwell, Mk. V / I / Sherman, Mk. II
 shop/group/uk_caernarvon_conqueror_group;Caernarvon / Conqueror
@@ -1570,7 +1571,7 @@ shop/group/mig-9_china_group;␗ Migé 9 / I-307
 shop/group/mig-15_china_group;␗ Migé 15 Bisī / 17
 shop/group/mig-19_china_group;J6A / 7II
 shop/group/f_5a_china_group;☀ F-5A-25 / E
-shop/group/j_11_group;K/JJ11 / 11A
+shop/group/j_11_group;J11 / 11A
 shop/group/cn_m3_m5_stuart_group;☀ M3A3 / 5A1
 shop/group/cn_76_211_group;211 / ␗ PT-76
 shop/group/cn_t_34_m4_group;␗ Tè 34 / ☀ M4A1
@@ -5769,6 +5770,14 @@ g_lynx_shop;G-Lynx
 g_lynx_0;Westland Helicopters WG.13 G-Lynx
 g_lynx_1;G-Lynx
 g_lynx_2;G-Lynx
+super_hind_mk3_shop;Night Hawk
+super_hind_mk3_0;Paramount Group Night Hawk
+super_hind_mk3_1;Night Hawk
+super_hind_mk3_2;Night Hawk
+ah_2_rooivalk_shop;Rooivalk Mk1
+ah_2_rooivalk_0;Rooivalk Mk1
+ah_2_rooivalk_1;Rooivalk Mk1
+ah_2_rooivalk_2;Rooivalk
 
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 ah_mk1_shop;Apache A.H. Mk. 1
@@ -5825,8 +5834,8 @@ uk_a30_sp_avenger_shop;Avenger, Mk. I
 uk_a30_sp_avenger_0;Birmingham Railway Carriage and Wagon Company | 17-pdr, Self-Propelled, A.30, Avenger, Mk. I
 uk_a30_sp_avenger_1;Avenger, Mk. I
 uk_a30_sp_avenger_2;Medium Tank
-uk_a30_sp_avenger_kit_3rank_shop;Avenger, Mk. I "Echoes of Overlord"
-uk_a30_sp_avenger_kit_3rank_0;Birmingham Railway Carriage and Wagon Company | 17-pdr, Self-Propelled, A.30, Avenger, Mk. I "Echoes of Overlord"
+uk_a30_sp_avenger_kit_3rank_shop;"Avenger, Mk. I ""Echoes of Overlord"""
+uk_a30_sp_avenger_kit_3rank_0;"Birmingham Railway Carriage and Wagon Company | 17-pdr, Self-Propelled, A.30, Avenger, Mk. I ""Echoes of Overlord"""
 uk_a30_sp_avenger_kit_3rank_1;Avenger, Mk. I
 uk_a30_sp_avenger_kit_3rank_2;Medium Tank
 
@@ -7925,14 +7934,14 @@ j_7_mk2_shop;J7II
 j_7_mk2_0;Opytno-konstruktorskoye bûro № 155 / Guóyíng 132 Chang | J7II Xíng Fēijī
 j_7_mk2_1;J7II
 j_7_mk2_2;J7
-j_7d_shop;K/JJ7D
-j_7d_0;Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | K/JJ7D Xíng Fēijī
-j_7d_1;K/JJ7D
-j_7d_2;K/JJ7
-j_7e_shop;K/JJ7E
-j_7e_0;Guóyíng Sōnglíng Jīxiè Chang | K/JJ7E Xíng Fēijī
-j_7e_1;K/JJ7E
-j_7e_2;K/JJ7
+j_7d_shop;J7D
+j_7d_0;Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | J7D Xíng Fēijī
+j_7d_1;J7D
+j_7d_2;J7
+j_7e_shop;J7E
+j_7e_0;Guóyíng Sōnglíng Jīxiè Chang | J7E Xíng Fēijī
+j_7e_1;J7E
+j_7e_2;J7
 q_5_early_shop;Q5
 q_5_early_0;Nánchāng Fēijī Zhìzào Gōngsī | Q5 Xíng Fēijī
 q_5_early_1;Q5
@@ -7941,16 +7950,16 @@ q_5a_shop;Q5B
 q_5a_0;Nánchāng Fēijī Zhìzào Gōngsī | Q5B Xíng Fēijī
 q_5a_1;Q5B
 q_5a_2;Q5
-q_5l_shop;K/JQ5L
-q_5l_0;Nánchāng Fēijī Zhìzào Gōngsī | K/JQ5L Xíng Fēijī
-q_5l_1;K/JQ5L
-q_5l_2;K/JQ5
+q_5l_shop;Q5L
+q_5l_0;Nánchāng Fēijī Zhìzào Gōngsī | Q5L Xíng Fēijī
+q_5l_1;Q5L
+q_5l_2;Q5
 mig-17_f5_shop;▆ F5
 mig-17_f5_0;▆ Opytno-konstruktorskoye bûro № 155 / Guóyíng Sōnglíng Jīxiè Chang | Chugyeokgi 《F5》
 mig-17_f5_1;▆ F5
 mig-17_f5_2;▆ F5
-f_6c_pakistan_shop;☪ F6C (1976)
-f_6c_pakistan_0;☪ Opytno-konstruktorskoye bûro № 155 SM-7/3 / Guóyíng Sōnglíng Jīxiè Chang | F6C Xíng Fēijī (August, 1976)
+f_6c_pakistan_shop;☪ F6C (Oct, 1976)
+f_6c_pakistan_0;☪ Opytno-konstruktorskoye bûro № 155 SM-7/3 / Guóyíng Sōnglíng Jīxiè Chang | F6C Xíng Fēijī (October, 1976)
 f_6c_pakistan_1;☪ F6C
 f_6c_pakistan_2;☪ F6
 
@@ -7963,26 +7972,26 @@ f-5e_aidc_shop;☀ F-5E
 f-5e_aidc_0;☀ Northrop Corporation F-5-21 / Hàn Xiáng Hángkōng Gōngyè | F-5E Xíng Zhōngzhèng Hào Zhàndòu Jī
 f-5e_aidc_1;☀ F-5E
 f-5e_aidc_2;☀ F-5
-j_8b_shop;K/JJ8B
-j_8b_0;Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ8B Xíng Fēijī
-j_8b_1;K/JJ8B
-j_8b_2;K/JJ8
-j_8f_shop;K/JJ8F
-j_8f_0;Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ8F Xíng Fēijī
-j_8f_1;K/JJ8F
-j_8f_2;K/JJ8
-jh_7_shop;H/JJH7
-jh_7_0;"Xī'ān Fēijī Gōngyè (Jítuán) | H/JJH7 Xíng Fēijī ""Fēi Bào"""
-jh_7_1;H/JJH7
-jh_7_2;H/JJH7
-jh_7a_shop;K/JJH7A
-jh_7a_0;"Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī ""Fēi Bào"""
-jh_7a_1;K/JJH7A
-jh_7a_2;K/JJH7
-jh_7a_prototype_shop;K/JJH7A (prototype)
-jh_7a_prototype_0;"Xī'ān Fēijī Gōngyè (Jítuán) | K/JJH7A Xíng Fēijī ""Fēi Bào"" (prototype)"
-jh_7a_prototype_1;K/JJH7A
-jh_7a_prototype_2;K/JJH7
+j_8b_shop;J8B
+j_8b_0;Shěnyáng Fēijī Gōngyè (Jítuán) | J8B Xíng Fēijī
+j_8b_1;J8B
+j_8b_2;J8
+j_8f_shop;J8F
+j_8f_0;Shěnyáng Fēijī Gōngyè (Jítuán) | J8F Xíng Fēijī
+j_8f_1;J8F
+j_8f_2;J8
+jh_7_shop;JH7
+jh_7_0;"Xī'ān Fēijī Gōngyè (Jítuán) | JH7 Xíng Fēijī ""Fēi Bào"""
+jh_7_1;JH7
+jh_7_2;JH7
+jh_7a_shop;JH7A
+jh_7a_0;"Xī'ān Fēijī Gōngyè (Jítuán) | JH7A Xíng Fēijī ""Fēi Bào"""
+jh_7a_1;JH7A
+jh_7a_2;JH7
+jh_7a_prototype_shop;JH7A (1 Hào)
+jh_7a_prototype_0;"Xī'ān Fēijī Gōngyè (Jítuán) | JH7A Xíng Fēijī ""Fēi Bào"" (Yàngchē 1 Hào)"
+jh_7a_prototype_1;JH7A
+jh_7a_prototype_2;JH7
 a_5c_shop;☪ A5C (2003)
 a_5c_0;☪ Nánchāng Fēijī Zhìzào Gōngsī | A5C Xíng Fēijī (2003)
 a_5c_1;☪ A5C
@@ -7993,10 +8002,10 @@ f_16a_block_20_mlu_shop;☀ F-16A-20-CF
 f_16a_block_20_mlu_0;☀ Lockheed Martin Corporation | F-16A-20-CF Xíng Zhàndòu Jī
 f_16a_block_20_mlu_1;☀ F-16A
 f_16a_block_20_mlu_2;☀ F-16
-j_10a_shop;K/JJ10A
-j_10a_0;"Chéngdū Fēijī Gōngyè (Jítuán) | K/JJ10A Xíng Fēijī ""Měng Lóng"""
-j_10a_1;K/JJ10A
-j_10a_2;K/JJ10
+j_10a_shop;J10A
+j_10a_0;"Chéngdū Fēijī Gōngyè (Jítuán) | J10A Xíng Fēijī ""Měng Lóng"""
+j_10a_1;J10A
+j_10a_2;J10
 j_10c_shop;J10CE
 j_10c_0;"Chéngdū Fēijī Gōngyè (Jítuán) | J10CE Xíng Fēijī ""Měng Lóng"""
 j_10c_1;J10CE
@@ -8005,18 +8014,18 @@ mirage_2000_5ei_shop;M-2000-5
 mirage_2000_5ei_0;Dassault Aviation | M-2000-5 Xíng Zhàndòu Jī
 mirage_2000_5ei_1;M-2000-5
 mirage_2000_5ei_2;M-2000
-j_11_shop;K/JJ11
-j_11_0;"Kompaniâ «Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ11 Xíng Fēijī ""Yìng Lóng"""
-j_11_1;K/JJ11
-j_11_2;K/JJ11
-j_11a_shop;K/JJ11A (MLU)
-j_11a_0;"Kompaniâ «Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ11A Xíng Fēijī ""Yìng Lóng"" (Mid-Life Update)"
-j_11a_1;K/JJ11A
-j_11a_2;K/JJ11
-j_11b_shop;K/JJ11B
-j_11b_0;"Kompaniâ «Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | K/JJ11B Xíng Fēijī ""Yìng Lóng"""
-j_11b_1;K/JJ11B
-j_11b_2;K/JJ11
+j_11_shop;J11
+j_11_0;"Kompaniâ «Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | J11 Xíng Fēijī ""Yìng Lóng"""
+j_11_1;J11
+j_11_2;J11
+j_11a_shop;J11A (MLU)
+j_11a_0;"Kompaniâ «Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | J11A Xíng Fēijī ""Yìng Lóng"" (Mid-Life Update)"
+j_11a_1;J11A
+j_11a_2;J11
+j_11b_shop;J11B
+j_11b_0;"Kompaniâ «Sukhoj» / Shěnyáng Fēijī Gōngyè (Jítuán) | J11B Xíng Fēijī ""Yìng Lóng"""
+j_11b_1;J11B
+j_11b_2;J11
 jf_17_shop;JF-17 Block I
 jf_17_0;Chéngdū Phējī Udyoga Samūha + Pākistān Aironāṭikal Kampḷiks | JF-17 Block I Thunder
 jf_17_1;JF-17 Block I
@@ -8027,10 +8036,10 @@ su_30mkk_1;␗ Sū 30MKK
 su_30mkk_2;␗ Sū 30
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 9
-j_15t_shop;H/JJ15T
-j_15t_0;"Shěnyáng Fēijī Gōngyè (Jítuán) | H/JJ15T Xíng Fēijī ""Fēi Shā"""
-j_15t_1;H/JJ15T
-j_15t_2;H/JJ15
+j_15t_shop;J15T
+j_15t_0;"Shěnyáng Fēijī Gōngyè (Jítuán) | J15T Xíng Fēijī ""Fēi Shā"""
+j_15t_1;J15T
+j_15t_2;J15
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 z_11wa_shop;Z11WA
@@ -9253,23 +9262,23 @@ fr_msc_0;GIAT Industries | Mulet Système Complet
 fr_msc_1;MSC
 fr_msc_2;MBT
 fr_leopard_2a4nl_shop;◘ Leopard 2A4 NL
-fr_leopard_2a4nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm
+fr_leopard_2a4nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL m/kanon 120 mm
 fr_leopard_2a4nl_1;◘ Leopard 2A4 NL
 fr_leopard_2a4nl_2;MBT
 fr_leopard_2a4nl_les_shop;◘ Leopard 2A4 NL (OTCo)
-fr_leopard_2a4nl_les_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL met kanon 120 mm (Opleidings- en Trainingscommando)
+fr_leopard_2a4nl_les_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A4 NL m/kanon 120 mm (Opleidings- en Trainingscommando)
 fr_leopard_2a4nl_les_1;◘ Leopard 2A4 NL
 fr_leopard_2a4nl_les_2;MBT
 fr_leopard_2a5nl_shop;◘ Leopard 2A5 NL
-fr_leopard_2a5nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL met kanon 120 mm
+fr_leopard_2a5nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A5 NL m/kanon 120 mm
 fr_leopard_2a5nl_1;◘ Leopard 2A5 NL
 fr_leopard_2a5nl_2;MBT
 fr_leopard_2a6nl_shop;◘ Leopard 2A6 NL
-fr_leopard_2a6nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL met kanon 120 mm
+fr_leopard_2a6nl_0;◘ Krauss-Maffei Wegmann | Gevechtstank, Rups, Leopard 2A6 NL m/kanon 120 mm
 fr_leopard_2a6nl_1;◘ Leopard 2A6 NL
 fr_leopard_2a6nl_2;MBT
 fr_cv_9035_nl_shop;CV9035NL
-fr_cv_9035_nl_0;BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, CV9035NL met kanon 35 mm
+fr_cv_9035_nl_0;BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, CV9035NL m/kanon 35 mm
 fr_cv_9035_nl_1;CV9035NL
 fr_cv_9035_nl_2;IFV
 
@@ -14114,10 +14123,6 @@ mi_4av_shop;Mi-4AV
 mi_4av_0;Mi-4AV
 mi_4av_1;Mi-4AV
 mi_4av_2;Mi-4
-super_hind_mk3_shop;Night Hawk
-super_hind_mk3_0;Paramount Group Night Hawk
-super_hind_mk3_1;Night Hawk
-super_hind_mk3_2;Night Hawk
 mi_8tv_shop;Mi-8TB
 mi_8tv_0;Mi-8TB
 mi_8tv_1;Mi-8TB
@@ -14562,10 +14567,6 @@ t_129_atak_shop;T129 ATAK FAZ-1
 t_129_atak_0;T129 ATAK FAZ-1
 t_129_atak_1;T129 ATAK
 t_129_atak_2;T129
-ah_2_rooivalk_shop;Rooivalk Mk1
-ah_2_rooivalk_0;Rooivalk Mk1
-ah_2_rooivalk_1;Rooivalk Mk1
-ah_2_rooivalk_2;Rooivalk
 a_109_eoa2_shop;MRH-109A
 a_109_eoa2_0;A109EOA-2 | MRH-109A
 a_109_eoa2_1;MRH-109A

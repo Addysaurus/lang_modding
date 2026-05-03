@@ -355,12 +355,14 @@ il_28_china_2;␗ 伊尔28
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 f-100a_china_shop;☀ F-100A-16-NA
 f-100a_china_0;"<color=#81c3fc>North American Aviation NA-192</color>
+<color=#ff8c80>Project High Wire</color>
 ☀ F-100A-16-NA型戰鬥機「超級軍刀機」"
 f-100a_china_1;☀ F-100A
 f-100a_china_2;☀ F-100
 
 f_100f_china_shop;☀ F-100F-6-NA
 f_100f_china_0;"<color=#81c3fc>North American Aviation NA-243</color>
+<color=#ff8c80>Project High Wire</color>
 ☀ F-100F-6-NA型戰鬥機「超級軍刀機」"
 f_100f_china_1;☀ F-100F
 f_100f_china_2;☀ F-100
@@ -380,50 +382,46 @@ f-104g_china_2;☀ F-104
 mig-19j_6a_shop;J6A
 mig-19j_6a_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 SM-7/3 <color=@commonTextColor>/</color> 国营松陵机械厂</color>
 <color=#919191>东风103 <color=@commonTextColor>|</color> 59式甲歼击机 <color=@commonTextColor>|</color> J6甲型歼击机</color>
-<color=#7ce68f>歼6A型飞机</color>
 J6A型飞机"
 mig-19j_6a_1;J6A
 mig-19j_6a_2;J6
 
 j_7_mk2_shop;J7II
 j_7_mk2_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@commonTextColor>/</color> 国营132厂</color>
-<color=#7ce68f>歼7II型飞机</color>
 J7II型飞机"
 j_7_mk2_1;J7II
 j_7_mk2_2;J7
 
-j_7d_shop;K/JJ7D
+j_7d_shop;J7D
 j_7d_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@commonTextColor>/</color> 成都飛機制造厂</color>
-K/JJ7D型飞机"
-j_7d_1;K/JJ7D
-j_7d_2;K/JJ7
+J7D型飞机"
+j_7d_1;J7D
+j_7d_2;J7
 
-j_7e_shop;K/JJ7E
+j_7e_shop;J7E
 j_7e_0;"<color=#81c3fc>成都飛機制造厂</color>
-K/JJ7E型飞机"
-j_7e_1;K/JJ7E
-j_7e_2;K/JJ7
+J7E型飞机"
+j_7e_1;J7E
+j_7e_2;J7
 
 q_5_early_shop;Q5
 q_5_early_0;"<color=#81c3fc>南昌飞机制造公司</color>
 <color=#919191>雄鹰302</color>
-<color=#7ce68f>强5型飞机</color>
 Q5型飞机"
 q_5_early_1;Q5
 q_5_early_2;Q5
 
 q_5a_shop;Q5B
 q_5a_0;"<color=#81c3fc>昌飞机制造公司</color>
-<color=#7ce68f>强5B型飞机</color>
 Q5B型飞机"
 q_5a_1;Q5B
 q_5a_2;Q5
 
-q_5l_shop;K/JQ5L
+q_5l_shop;Q5L
 q_5l_0;"<color=#81c3fc>昌飞机制造公司</color>
-K/JQ5L型飞机"
-q_5l_1;K/JQ5L
-q_5l_2;K/JQ5
+Q5L型飞机"
+q_5l_1;Q5L
+q_5l_2;Q5
 
 mig-17_f5_shop;▆ F5
 mig-17_f5_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@commonTextColor>/</color> 国营松陵机械厂</color>
@@ -431,10 +429,10 @@ mig-17_f5_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@common
 mig-17_f5_1;▆ F5
 mig-17_f5_2;▆ F5
 
-f_6c_pakistan_shop;☪ F6C (1976)
+f_6c_pakistan_shop;☪ F6C (Oct, 1976)
 f_6c_pakistan_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 SM-7/3 <color=@commonTextColor>/</color> 国营松陵机械厂</color>
 ☪ F6C型飞机
-<color=#adadad>(August, 1976)</color>"
+<color=#adadad>(October, 1976)</color>"
 f_6c_pakistan_1;☪ F6C
 f_6c_pakistan_2;☪ F6
 
@@ -451,42 +449,42 @@ f-5e_aidc_0;"<color=#81c3fc>Northrop Corporation F-5-21 <color=@commonTextColor>
 f-5e_aidc_1;☀ F-5E
 f-5e_aidc_2;☀ F-5
 
-j_8b_shop;K/JJ8B
+j_8b_shop;J8B
 j_8b_0;"<color=#81c3fc>沈阳飞机工业 (集团)</color>
-K/JJ8B型飞机"
-j_8b_1;K/JJ8B
-j_8b_2;K/JJ8
+J8B型飞机"
+j_8b_1;J8B
+j_8b_2;J8
 
-j_8f_shop;K/JJ8F
+j_8f_shop;J8F
 j_8f_0;"<color=#81c3fc>沈阳飞机工业 (集团)</color>
-K/JJ8F型飞机"
-j_8f_1;K/JJ8F
-j_8f_2;K/JJ8
+J8F型飞机"
+j_8f_1;J8F
+j_8f_2;J8
 
-j_8f_missile_test_shop;K/JJ8F
+j_8f_missile_test_shop;J8F
 j_8f_missile_test_0;"<color=#81c3fc>沈阳飞机工业 (集团)</color>
-K/JJ8F型飞机"
-j_8f_missile_test_1;K/JJ8F
-j_8f_missile_test_2;K/JJ8
+J8F型飞机"
+j_8f_missile_test_1;J8F
+j_8f_missile_test_2;J8
 
-jh_7_shop;H/JJH7
+jh_7_shop;JH7
 jh_7_0;"<color=#81c3fc>西安飞机工业 (集团)</color>
-H/JJH7型飞机 ""飞豹"""
-jh_7_1;H/JJH7
-jh_7_2;H/JJH7
+JH7型飞机 ""飞豹"""
+jh_7_1;JH7
+jh_7_2;JH7
 
-jh_7a_shop;K/JJH7A
+jh_7a_shop;JH7A
 jh_7a_0;"<color=#81c3fc>西安飞机工业 (集团)</color>
-K/JJH7A型飞机 ""飞豹"""
-jh_7a_1;K/JJH7A
-jh_7a_2;K/JJH7
+JH7A型飞机 ""飞豹"""
+jh_7a_1;JH7A
+jh_7a_2;JH7
 
-jh_7a_prototype_shop;K/JJH7A (prototype)
+jh_7a_prototype_shop;JH7A (1号)
 jh_7a_prototype_0;"<color=#81c3fc>西安飞机工业 (集团)</color>
-K/JJH7A型飞机 ""飞豹""
-<color=#adadad>(prototype)</color>"
-jh_7a_prototype_1;K/JJH7A
-jh_7a_prototype_2;K/JJH7
+JH7A型飞机 ""飞豹""
+<color=#adadad>(样车1号)</color>"
+jh_7a_prototype_1;JH7A
+jh_7a_prototype_2;JH7
 
 a_5c_shop;A5C (2003)
 a_5c_0;"<color=#81c3fc>南昌飞机制造公司</color>
@@ -502,15 +500,14 @@ f_16a_block_20_mlu_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
 f_16a_block_20_mlu_1;☀ F-16A
 f_16a_block_20_mlu_2;☀ F-16
 
-j_10a_shop;K/JJ10A
+j_10a_shop;J10A
 j_10a_0;"<color=#81c3fc>成都飞机工业 (集团)</color>
-K/JJ10A型飞机 ""猛龙"""
-j_10a_1;K/JJ10A
-j_10a_2;K/JJ10
+J10A型飞机 ""猛龙"""
+j_10a_1;J10A
+j_10a_2;J10
 
 j_10c_shop;J10CE
 j_10c_0;"<color=#81c3fc>成都飞机工业 (集团)</color>
-<color=#7ce68f>歼10CE型飞机</color>
 J10CE型飞机 ""猛龙"""
 j_10c_1;J10CE
 j_10c_2;J10
@@ -521,24 +518,24 @@ M-2000-5型戰鬥機"
 mirage_2000_5ei_1;M-2000-5
 mirage_2000_5ei_2;M-2000
 
-j_11_shop;K/JJ11
+j_11_shop;J11
 j_11_0;"<color=#81c3fc>Kompaniâ «Sukhoj» <color=@commonTextColor>/</color> 沈阳飞机工业 (集团)</color>
-K/JJ11型飞机 ""应龙"""
-j_11_1;K/JJ11
-j_11_2;K/JJ11
+J11型飞机 ""应龙"""
+j_11_1;J11
+j_11_2;J11
 
-j_11a_shop;K/JJ11A (MLU)
+j_11a_shop;J11A (MLU)
 j_11a_0;"<color=#81c3fc>Kompaniâ «Sukhoj» <color=@commonTextColor>/</color> 沈阳飞机工业 (集团)</color>
-K/JJ11A型飞机 ""应龙""
+J11A型飞机 ""应龙""
 <color=#adadad>(Mid-Life Update)</color>"
-j_11a_1;K/JJ11A
-j_11a_2;K/JJ11
+j_11a_1;J11A
+j_11a_2;J11
 
-j_11b_shop;K/JJ11B
+j_11b_shop;J11B
 j_11b_0;"<color=#81c3fc>Kompaniâ «Sukhoj» <color=@commonTextColor>/</color> 沈阳飞机工业 (集团)</color>
-K/JJ11B型飞机 ""应龙"""
-j_11b_1;K/JJ11B
-j_11b_2;K/JJ11
+J11B型飞机 ""应龙"""
+j_11b_1;J11B
+j_11b_2;J11
 
 jf_17_shop;JF-17 Block I
 jf_17_0;"<color=#81c3fc>成都飞机工业集团 <color=@commonTextColor>+</color> Pākistān Aironāṭikal Kampḷiks</color>
@@ -553,16 +550,15 @@ su_30mkk_1;␗ 苏30MKK
 su_30mkk_2;␗ 苏30
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 9
-j_15t_shop;H/JJ15T
+j_15t_shop;J15T
 j_15t_0;"<color=#81c3fc>沈阳飞机工业 (集团)</color>
-H/JJ15T型飞机 ""飞鲨"""
-j_15t_1;H/JJ15T
-j_15t_2;H/JJ15
+J15T型飞机 ""飞鲨"""
+j_15t_1;J15T
+j_15t_2;J15
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 z_11wa_shop;Z11WA
 z_11wa_0;"<color=#81c3fc>昌河飞机工业 (集团)</color>
-<color=#7ce68f>直11WA型武装直升机</color>
 Z11WA型武装直升机"
 z_11wa_1;Z11WA
 z_11wa_2;Z11
@@ -576,28 +572,24 @@ sa_342l_china_2;␗ SA 342
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 z_9w_shop;Z9W
 z_9w_0;"<color=#81c3fc>哈尔滨飞机工业 (集团)</color>
-<color=#7ce68f>直9W型武装直升机</color>
 Z9W型武装直升机"
 z_9w_1;Z9W
 z_9w_2;Z9
 
 z_9wa_shop;Z9WA
 z_9wa_0;"<color=#81c3fc>哈尔滨飞机工业 (集团)</color>
-<color=#7ce68f>直9WA型武装直升机</color>
 Z9WA型武装直升机"
 z_9wa_1;Z9WA
 z_9wa_2;Z9
 
 z_19_shop;Z19
 z_19_0;"<color=#81c3fc>哈尔滨飞机工业 (集团)</color>
-<color=#7ce68f>直19型武装直升机</color>
 Z19型武装直升机 ""黑旋风"""
 z_19_1;Z19
 z_19_2;Z19
 
 z_19e_shop;Z19E
 z_19e_0;"<color=#81c3fc>哈尔滨飞机工业 (集团)</color>
-<color=#7ce68f>直19E型武装直升机</color>
 Z19E型武装直升机 ""鸢"""
 z_19e_1;Z19E
 z_19e_2;Z19
@@ -617,21 +609,18 @@ ah_1w_china_2;☀ AH-1
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 z_10_shop;Z10
 z_10_0;"<color=#81c3fc>昌河飞机工业 (集团)</color>
-<color=#7ce68f>直10型武装直升机</color>
 Z10型武装直升机 ""霹雳火"""
 z_10_1;Z10
 z_10_2;Z10
 
 z_10me_shop;Z10ME-02
 z_10me_0;"<color=#81c3fc>昌河飞机工业 (集团)</color>
-<color=#7ce68f>直10ME-02型武装直升机</color>
 Z10ME-02型武装直升机 ""霹雳火"""
 z_10me_1;Z10ME
 z_10me_2;Z10
 
 z_10a_shop;Z10 (2018)
 z_10a_0;"<color=#81c3fc>昌河飞机工业 (集团)</color>
-<color=#7ce68f>直10型武装直升机</color>
 Z10型武装直升机 ""霹雳火""
 <color=#adadad>(2018)</color>"
 z_10a_1;Z10

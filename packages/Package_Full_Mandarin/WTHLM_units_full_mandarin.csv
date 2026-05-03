@@ -1,6 +1,7 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
 shop/group/mig-19_china_group;歼6A / 7II
+shop/group/j_11_group;歼11 / 11A
 
 //KILLSTREAK VEHICLES
 ucav_wing_loong_i_shop;攻击1
@@ -31,6 +32,14 @@ j_7_mk2_shop;歼7II
 j_7_mk2_0;Czyentral'noye konstruktorskoye bûro № 155 / 国营132厂 | 歼7II型飞机
 j_7_mk2_1;歼7II
 j_7_mk2_2;歼7
+j_7d_shop;歼7D
+j_7d_0;Opytno-konstruktorskoye bûro № 155 / 成都飛機制造厂 | 歼7D型飞机
+j_7d_1;歼7D
+j_7d_2;歼7
+j_7e_shop;歼7E
+j_7e_0;成都飛機制造厂 | 歼7E型飞机
+j_7e_1;歼7E
+j_7e_2;歼7
 q_5_early_shop;强5
 q_5_early_0;南昌飞机制造公司 | 强5型飞机
 q_5_early_1;强5
@@ -39,14 +48,64 @@ q_5a_shop;强5B
 q_5a_0;昌飞机制造公司 | 强5B型飞机
 q_5a_1;强5B
 q_5a_2;强5
+q_5l_shop;强5L
+q_5l_0;昌飞机制造公司 | 强5L型飞机
+q_5l_1;强5L
+q_5l_2;强5
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+j_8b_shop;歼8B
+j_8b_0;沈阳飞机工业 (集团) | 歼8B型飞机
+j_8b_1;歼8B
+j_8b_2;歼8
+j_8f_shop;歼8F
+j_8f_0;沈阳飞机工业 (集团) | 歼8F型飞机
+j_8f_1;歼8F
+j_8f_2;歼8
+j_8f_missile_test_shop;歼8F
+j_8f_missile_test_0;沈阳飞机工业 (集团) | 歼8F型飞机
+j_8f_missile_test_1;歼8F
+j_8f_missile_test_2;歼8
+jh_7_shop;歼轰7
+jh_7_0;"西安飞机工业 (集团) | 歼轰7型飞机 ""飞豹"""
+jh_7_1;歼轰7
+jh_7_2;歼轰7
+jh_7a_shop;歼轰7A
+jh_7a_0;"西安飞机工业 (集团) | 歼轰7A型飞机 ""飞豹"""
+jh_7a_1;歼轰7A
+jh_7a_2;歼轰7
+jh_7a_prototype_shop;歼轰7A (1号)
+jh_7a_prototype_0;"西安飞机工业 (集团) | 歼轰7A型飞机 ""飞豹"" (样车1号)"
+jh_7a_prototype_1;歼轰7A
+jh_7a_prototype_2;歼轰7
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+j_10a_shop;歼10A
+j_10a_0;"成都飞机工业 (集团) | 歼10A型飞机 ""猛龙"""
+j_10a_1;歼10A
+j_10a_2;歼10
 j_10c_shop;歼10CE
 j_10c_0;"成都飞机工业 (集团) | 歼10CE型飞机 ""猛龙"""
 j_10c_1;歼10CE
 j_10c_2;歼10
+j_11_shop;歼11
+j_11_0;"Kompaniâ «Sukhoj» / 沈阳飞机工业 (集团) | 歼11型飞机 ""应龙"""
+j_11_1;歼11
+j_11_2;歼11
+j_11a_shop;歼11A (MLU)
+j_11a_0;"Kompaniâ «Sukhoj» / 沈阳飞机工业 (集团) | 歼11A型飞机 ""应龙"" (Mid-Life Update)"
+j_11a_1;歼11A
+j_11a_2;歼11
+j_11b_shop;歼11B
+j_11b_0;"Kompaniâ «Sukhoj» / 沈阳飞机工业 (集团) | 歼11B型飞机 ""应龙"""
+j_11b_1;歼11B
+j_11b_2;歼11
+
+//CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+j_15t_shop;歼15T
+j_15t_0;"沈阳飞机工业 (集团) | 歼15T型飞机 ""飞鲨"""
+j_15t_1;歼15T
+j_15t_2;歼15
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 z_11wa_shop;直11WA

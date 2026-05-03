@@ -4152,22 +4152,163 @@ cf_188a_canada_1;CF-188A
 cf_188a_canada_2;CF-188
 
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+scout_ah_mk1_shop;Scout A.H. Mk. 1
+scout_ah_mk1_0;"<color=#81c3fc>Westland Helicopters Sprite</color>
+Scout A.H. Mk. 1"
+scout_ah_mk1_1;Scout A.H. Mk. 1
+scout_ah_mk1_2;Scout
+
+wasp_has_mk1_shop;Wasp H.A.S. Mk. 1
+wasp_has_mk1_0;"<color=#81c3fc>Westland Helicopters Sprite</color>
+Wasp H.A.S. Mk. 1"
+wasp_has_mk1_1;Wasp H.A.S. Mk. 1
+wasp_has_mk1_2;Wasp
+
+wessex_mk5_shop;Wessex H.U. Mk. 5
+wessex_mk5_0;"<color=#81c3fc>Sikorsky Aircraft Corporation S-58 <color=@commonTextColor>/</color> Westland Helicopters</color>
+Wessex H.U. Mk. 5"
+wessex_mk5_1;Wessex H.U. Mk. 5
+wessex_mk5_2;Wessex
 
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+lynx_ah_mk1_shop;Lynx A.H. Mk. 1
+lynx_ah_mk1_0;"<color=#81c3fc>Westland Helicopters WG.13</color>
+Lynx A.H. Mk. 1"
+lynx_ah_mk1_1;Lynx A.H. Mk. 1
+lynx_ah_mk1_2;Lynx
+
+g_lynx_shop;G-Lynx
+g_lynx_0;<color=#81c3fc>Westland Helicopters WG.13 G-Lynx</color>
+g_lynx_1;G-Lynx
+g_lynx_2;G-Lynx
+
+super_hind_mk3_shop;Night Hawk
+super_hind_mk3_0;<color=#81c3fc>Paramount Group Night Hawk</color>
+super_hind_mk3_1;Night Hawk
+super_hind_mk3_2;Night Hawk
+
+ah_2_rooivalk_shop;Rooivalk Mk1
+ah_2_rooivalk_0;Rooivalk Mk1
+ah_2_rooivalk_1;Rooivalk Mk1
+ah_2_rooivalk_2;Rooivalk
 
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+ah_mk1_shop;Apache A.H. Mk. 1
+ah_mk1_0;"<color=#81c3fc>Boeing Rotorcraft Systems <color=@commonTextColor>/</color> AugustaWestland</color>
+Apache A.H. Mk. 1"
+ah_mk1_1;Apache A.H. Mk. 1
+ah_mk1_2;Apache
+
+ah_64e_britain_shop;Apache A.H. Mk. 2
+ah_64e_britain_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
+Apache A.H. Mk. 2"
+ah_64e_britain_1;Apache A.H. Mk. 2
+ah_64e_britain_2;Apache
+
+//UK HELICOPTERS - VEHICLE/FAMILY START: RANK 8
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+uk_mark_v_shop;Mk. V (Male)
+uk_mark_v_0;"<color=#81c3fc>Metropolitan Amalgamated Railway Carriage and Wagon Company</color>
+Tank, Mk. V
+<color=#adadad>(Male)</color>"
+uk_mark_v_1;Mk. V (Male)
+uk_mark_v_2;Medium Tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+uk_cruiser_ram_1_shop;Ram, Mk. I
+uk_cruiser_ram_1_0;"<color=#81c3fc>Montreal Locomotive Works</color>
+Tank, Cruiser, Ram, Mk. I"
+uk_cruiser_ram_1_1;Ram, Mk. I
+uk_cruiser_ram_1_2;Medium Tank
+
+uk_crusader_aa_mk_1_shop;Crusader, Mk. III, A.A., Mk. I
+uk_crusader_aa_mk_1_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
+Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. I"
+uk_crusader_aa_mk_1_1;Crusader, Mk. III, A.A., Mk. I
+uk_crusader_aa_mk_1_2;SPAAG
+
+uk_crusader_aa_mk_2_shop;Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
+Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II"
+uk_crusader_aa_mk_2_1;Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_2;SPAAG
+
+uk_crusader_aa_mk_2_kit_3rank_shop;"Crusader, Mk. III, A.A., Mk. II ""Echoes of Overlord"""
+uk_crusader_aa_mk_2_kit_3rank_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
+Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II
+<color=@currencyGoldColor>""Echoes of Overlord""</color>"
+uk_crusader_aa_mk_2_kit_3rank_1;Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_kit_3rank_2;SPAAG
+
+uk_crusader_aa_mk_2_tutorial_shop;Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_tutorial_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
+Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II"
+uk_crusader_aa_mk_2_tutorial_1;Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_tutorial_2;SPAAG
+
+uk_a25_mk_8_shop;Harry Hopkins, Mk. I
+uk_a25_mk_8_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I"
+uk_a25_mk_8_1;Harry Hopkins, Mk. I
+uk_a25_mk_8_2;Light Tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+uk_sherman_vc_firefly_shop;Sherman, Mk. Vc
+uk_sherman_vc_firefly_0;"<color=#81c3fc>United States Army Ordnance Department <color=@commonTextColor>+</color> Royal Ordnance Factory
+Nottingham</color>
+Tank, Medium, Sherman, Mk. Vc ""Firefly"""
+uk_sherman_vc_firefly_1;Sherman, Mk. V
+uk_sherman_vc_firefly_2;Medium Tank
+
+uk_sherman_vc_firefly_kit_3rank_shop;"Sherman, Mk. Vc ""Echoes of Overlord"""
+uk_sherman_vc_firefly_kit_3rank_0;"<color=#81c3fc>United States Army Ordnance Department <color=@commonTextColor>+</color> Royal Ordnance Factory
+Nottingham</color>
+Tank, Medium, Sherman, Mk. Vc ""Firefly""
+<color=@currencyGoldColor>""Echoes of Overlord""</color>"
+uk_sherman_vc_firefly_kit_3rank_1;Sherman, Mk. V
+uk_sherman_vc_firefly_kit_3rank_2;Medium Tank
+
+uk_a30_sp_avenger_shop;Avenger, Mk. I
+uk_a30_sp_avenger_0;"<color=#81c3fc>Birmingham Railway Carriage and Wagon Company</color>
+17-pdr, Self-Propelled, A.30, Avenger, Mk. I"
+uk_a30_sp_avenger_1;Avenger, Mk. I
+uk_a30_sp_avenger_2;Medium Tank
+
+uk_a30_sp_avenger_kit_3rank_shop;"Avenger, Mk. I ""Echoes of Overlord"""
+uk_a30_sp_avenger_kit_3rank_0;"<color=#81c3fc>Birmingham Railway Carriage and Wagon Company</color>
+17-pdr, Self-Propelled, A.30, Avenger, Mk. I
+<color=@currencyGoldColor>""Echoes of Overlord""</color>"
+uk_a30_sp_avenger_kit_3rank_1;Avenger, Mk. I
+uk_a30_sp_avenger_kit_3rank_2;Medium Tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+uk_as_90_mk_2_shop;L131
+uk_as_90_mk_2_0;"<color=#81c3fc>Vickers Shipbuilding and Engineering</color>
+Gun Equipment, 155 mm, L131"
+uk_as_90_mk_2_1;L131
+uk_as_90_mk_2_2;SPH
+
+uk_vickers_gbt_155_shop;SP 155
+uk_vickers_gbt_155_0;<color=#81c3fc>Vickers Shipbuilding and Engineering SP 155</color>
+uk_vickers_gbt_155_1;SP 155
+uk_vickers_gbt_155_2;SPH
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+uk_chieftain_900_shop;Chieftain 900
+uk_chieftain_900_0;"<color=#81c3fc>British Leyland Motor Corporation <color=@commonTextColor>/</color> Royal Ordnance Factories
+Chieftain 900</color>"
+uk_chieftain_900_1;Chieftain 900
+uk_chieftain_900_2;MBT
+
+uk_tracked_rapier_shop;RCM 748, Mk. 1B
+uk_tracked_rapier_0;"<color=#81c3fc>British Aircraft Corporation</color>
+Tracked Rapier Launcher Vehicle, RCM 748, Mk. 1B"
+uk_tracked_rapier_1;RCM 748, Mk. 1
+uk_tracked_rapier_2;SPAAM
+
 uk_badger_shop;Badger SV
 uk_badger_0;"<color=#81c3fc>Denel Land Systems</color>
 <color=#ff8c80>Project Hoefyster</color>
@@ -4182,8 +4323,33 @@ uk_centurion_shot_kal_d_1;▄ Šoṭ Kal D
 uk_centurion_shot_kal_d_2;MBT
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+uk_ajax_shop;Ajax
+uk_ajax_0;"<color=#81c3fc>General Dynamics Land Systems UK AJAX</color>
+Combat Vehicle, Reconnaissance, Full Tracked, Ajax"
+uk_ajax_1;Ajax
+uk_ajax_2;AFV
+
+uk_boxer_crv_block2_shop;▄ Boxer CRV (LAND 400)
+uk_boxer_crv_block2_0;"<color=#81c3fc>ARTEC <color=@commonTextColor>+</color> Rheinmetall Landsysteme
+▄ Boxer Combat Reconnaissance Vehicle</color>
+<color=#adadad>(LAND 400 Phase 2)</color>"
+uk_boxer_crv_block2_1;▄ Boxer CRV
+uk_boxer_crv_block2_2;CRV
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+uk_sky_sabre_launcher_shop;SV 15T (Land Ceptor)
+uk_sky_sabre_launcher_0;"<color=#81c3fc>Rafael International <color=@commonTextColor>+</color> MBDA UK</color>
+Support Vehicle 15-Tonne
+<color=#adadad>(Land Ceptor)</color>"
+uk_sky_sabre_launcher_1;SV 15T (Land Ceptor)
+uk_sky_sabre_launcher_2;SPAAM
+
+uk_sky_sabre_fcs_shop;SV 15T (Giraffe AMB)
+uk_sky_sabre_fcs_0;"<color=#81c3fc>Rafael International <color=@commonTextColor>+</color> MBDA UK</color>
+Support Vehicle 15-Tonne
+<color=#adadad>(Giraffe Agile Multi Beam)</color>"
+uk_sky_sabre_fcs_1;SV 15T (Giraffe AMB)
+uk_sky_sabre_fcs_2;Radar
 
 //UK COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 uk_mtb_1series_shop;HMS MTB 7
@@ -7607,17 +7773,17 @@ J7II Xíng Fēijī"
 j_7_mk2_1;J7II
 j_7_mk2_2;J7
 
-j_7d_shop;K/JJ7D
+j_7d_shop;J7D
 j_7d_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè Chang</color>
-K/JJ7D Xíng Fēijī"
-j_7d_1;K/JJ7D
-j_7d_2;K/JJ7
+J7D Xíng Fēijī"
+j_7d_1;J7D
+j_7d_2;J7
 
-j_7e_shop;K/JJ7E
+j_7e_shop;J7E
 j_7e_0;"<color=#81c3fc>Guóyíng Sōnglíng Jīxiè Chang</color>
-K/JJ7E Xíng Fēijī"
-j_7e_1;K/JJ7E
-j_7e_2;K/JJ7
+J7E Xíng Fēijī"
+j_7e_1;J7E
+j_7e_2;J7
 
 q_5_early_shop;Q5
 q_5_early_0;"<color=#81c3fc>Nánchāng Fēijī Zhìzào Gōngsī</color>
@@ -7632,11 +7798,11 @@ Q5B Xíng Fēijī"
 q_5a_1;Q5B
 q_5a_2;Q5
 
-q_5l_shop;K/JQ5L
+q_5l_shop;Q5L
 q_5l_0;"<color=#81c3fc>Nánchāng Fēijī Zhìzào Gōngsī</color>
-K/JQ5L Xíng Fēijī"
-q_5l_1;K/JQ5L
-q_5l_2;K/JQ5
+Q5L Xíng Fēijī"
+q_5l_1;Q5L
+q_5l_2;Q5
 
 mig-17_f5_shop;▆ F5
 mig-17_f5_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè Chang<color=#81c3fc
@@ -7665,36 +7831,36 @@ f-5e_aidc_0;"<color=#81c3fc>Northrop Corporation F-5-21 <color=@commonTextColor>
 f-5e_aidc_1;☀ F-5E
 f-5e_aidc_2;☀ F-5
 
-j_8b_shop;K/JJ8B
+j_8b_shop;J8B
 j_8b_0;"<color=#81c3fc>Shěnyáng Fēijī Gōngyè (Jítuán)</color>
-K/JJ8B Xíng Fēijī"
-j_8b_1;K/JJ8B
-j_8b_2;K/JJ8
+J8B Xíng Fēijī"
+j_8b_1;J8B
+j_8b_2;J8
 
-j_8f_shop;K/JJ8F
+j_8f_shop;J8F
 j_8f_0;"<color=#81c3fc>Shěnyáng Fēijī Gōngyè (Jítuán)</color>
-K/JJ8F Xíng Fēijī"
-j_8f_1;K/JJ8F
-j_8f_2;K/JJ8
+J8F Xíng Fēijī"
+j_8f_1;J8F
+j_8f_2;J8
 
-jh_7_shop;H/JJH7
+jh_7_shop;JH7
 jh_7_0;"<color=#81c3fc>Xī'ān Fēijī Gōngyè (Jítuán)</color>
-H/JJH7 Xíng Fēijī ""Fēi Bào"""
-jh_7_1;H/JJH7
-jh_7_2;H/JJH7
+JH7 Xíng Fēijī ""Fēi Bào"""
+jh_7_1;JH7
+jh_7_2;JH7
 
-jh_7a_shop;K/JJH7A
+jh_7a_shop;JH7A
 jh_7a_0;"<color=#81c3fc>Xī'ān Fēijī Gōngyè (Jítuán)</color>
-K/JJH7A Xíng Fēijī ""Fēi Bào"""
-jh_7a_1;K/JJH7A
-jh_7a_2;K/JJH7
+JH7A Xíng Fēijī ""Fēi Bào"""
+jh_7a_1;JH7A
+jh_7a_2;JH7
 
-jh_7a_prototype_shop;K/JJH7A (prototype)
+jh_7a_prototype_shop;JH7A (1 Hào)
 jh_7a_prototype_0;"<color=#81c3fc>Xī'ān Fēijī Gōngyè (Jítuán)</color>
-K/JJH7A Xíng Fēijī ""Fēi Bào""
-<color=#adadad>(prototype)</color>"
-jh_7a_prototype_1;K/JJH7A
-jh_7a_prototype_2;K/JJH7
+JH7A Xíng Fēijī ""Fēi Bào""
+<color=#adadad>(Yàngchē 1 Hào)</color>"
+jh_7a_prototype_1;JH7A
+jh_7a_prototype_2;JH7
 
 a_5c_shop;☪ A5C (2003)
 a_5c_0;"<color=#81c3fc>Nánchāng Fēijī Zhìzào Gōngsī</color>
@@ -7710,11 +7876,11 @@ f_16a_block_20_mlu_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
 f_16a_block_20_mlu_1;☀ F-16A
 f_16a_block_20_mlu_2;☀ F-16
 
-j_10a_shop;K/JJ10A
+j_10a_shop;J10A
 j_10a_0;"<color=#81c3fc>Chéngdū Fēijī Gōngyè (Jítuán)</color>
-K/JJ10A Xíng Fēijī ""Měng Lóng"""
-j_10a_1;K/JJ10A
-j_10a_2;K/JJ10
+J10A Xíng Fēijī ""Měng Lóng"""
+j_10a_1;J10A
+j_10a_2;J10
 
 j_10c_shop;J10CE
 j_10c_0;"<color=#81c3fc>Chéngdū Fēijī Gōngyè (Jítuán)</color>
@@ -7728,24 +7894,24 @@ M-2000-5 Xíng Zhàndòu Jī"
 mirage_2000_5ei_1;M-2000-5
 mirage_2000_5ei_2;M-2000
 
-j_11_shop;K/JJ11
+j_11_shop;J11
 j_11_0;"<color=#81c3fc>Kompaniâ «Sukhoj» <color=@commonTextColor>/</color> Shěnyáng Fēijī Gōngyè (Jítuán)</color>
-K/JJ11 Xíng Fēijī ""Yìng Lóng"""
-j_11_1;K/JJ11
-j_11_2;K/JJ11
+J11 Xíng Fēijī ""Yìng Lóng"""
+j_11_1;J11
+j_11_2;J11
 
-j_11a_shop;K/JJ11A (MLU)
+j_11a_shop;J11A (MLU)
 j_11a_0;"<color=#81c3fc>Kompaniâ «Sukhoj» <color=@commonTextColor>/</color> Shěnyáng Fēijī Gōngyè (Jítuán)</color>
-K/JJ11A Xíng Fēijī ""Yìng Lóng""
+J11A Xíng Fēijī ""Yìng Lóng""
 <color=#adadad>(Mid-Life Update)</color>"
-j_11a_1;K/JJ11A
-j_11a_2;K/JJ11
+j_11a_1;J11A
+j_11a_2;J11
 
-j_11b_shop;K/JJ11B
+j_11b_shop;J11B
 j_11b_0;"<color=#81c3fc>Kompaniâ «Sukhoj» <color=@commonTextColor>/</color> Shěnyáng Fēijī Gōngyè (Jítuán)</color>
-K/JJ11B Xíng Fēijī ""Yìng Lóng"""
-j_11b_1;K/JJ11B
-j_11b_2;K/JJ11
+J11B Xíng Fēijī ""Yìng Lóng"""
+j_11b_1;J11B
+j_11b_2;J11
 
 jf_17_shop;JF-17 Block I
 jf_17_0;"<color=#81c3fc>Chéngdū Phējī Udyoga Samūha <color=@commonTextColor>+</color> Pākistān Aironāṭikal Kampḷiks</color>
@@ -7760,11 +7926,11 @@ su_30mkk_1;␗ Sū 30MKK
 su_30mkk_2;␗ Sū 30
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 9
-j_15t_shop;H/JJ15T
+j_15t_shop;J15T
 j_15t_0;"<color=#81c3fc>Shěnyáng Fēijī Gōngyè (Jítuán)</color>
-H/JJ15T Xíng Fēijī ""Fēi Shā"""
-j_15t_1;H/JJ15T
-j_15t_2;H/JJ15
+J15T Xíng Fēijī ""Fēi Shā"""
+j_15t_1;J15T
+j_15t_2;J15
 
 //CHINA HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 z_11wa_shop;Z11WA
@@ -9296,7 +9462,7 @@ it_battleship_littorio_class_littorio_2;Battleship
 f-84f_iaf_shop;☨ F-84F-51-GK (EC 1/1)
 f-84f_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23M</color>
 ☨ F-84F-51-GK Thunderstreak
-Escadron de Chasse 1/1 ""Corse"""
+<color=@currencyGoldColor>Escadron de Chasse 1/1 ""Corse""</color>"
 f-84f_iaf_1;☨ F-84F
 f-84f_iaf_2;☨ F-84
 
@@ -9339,6 +9505,36 @@ fr_amx_elc_901_2;Light Tank
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+fr_leopard_2a4nl_shop;◘ Leopard 2A4 NL
+fr_leopard_2a4nl_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+◘ Gevechtstank, Rups, Leopard 2A4 NL m/kanon 120 mm"
+fr_leopard_2a4nl_1;◘ Leopard 2A4 NL
+fr_leopard_2a4nl_2;MBT
+
+fr_leopard_2a4nl_les_shop;◘ Leopard 2A4 NL (OTCo)
+fr_leopard_2a4nl_les_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+◘ Gevechtstank, Rups, Leopard 2A4 NL m/kanon 120 mm
+<color=@currencyGoldColor>Opleidings- en Trainingscommando</color>"
+fr_leopard_2a4nl_les_1;◘ Leopard 2A4 NL
+fr_leopard_2a4nl_les_2;MBT
+
+fr_leopard_2a5nl_shop;◘ Leopard 2A5 NL
+fr_leopard_2a5nl_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+◘ Gevechtstank, Rups, Leopard 2A5 NL m/kanon 120 mm"
+fr_leopard_2a5nl_1;◘ Leopard 2A5 NL
+fr_leopard_2a5nl_2;MBT
+
+fr_leopard_2a6nl_shop;◘ Leopard 2A6 NL
+fr_leopard_2a6nl_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+◘ Gevechtstank, Rups, Leopard 2A6 NL m/kanon 120 mm"
+fr_leopard_2a6nl_1;◘ Leopard 2A6 NL
+fr_leopard_2a6nl_2;MBT
+
+fr_cv_9035_nl_shop;CV9035NL
+fr_cv_9035_nl_0;"<color=#81c3fc>BAE Systems Hägglunds Combat Vehicle 9035NL</color>
+Infanteriegevechtsvoertuig, Pantser, Rups, CV9035NL m/kanon 35 mm"
+fr_cv_9035_nl_1;CV9035NL
+fr_cv_9035_nl_2;IFV
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 

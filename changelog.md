@@ -37,6 +37,47 @@ All dates are listed in DD-MM-YYYY format.
     - **CV9035NL**: Statcard name → **BAE Systems Hägglunds Combat Vehicle 9035NL | Infanteriegevechtsvoertuig, Pantser, Rups, CV9035NL m/kanon 35 mm**.
     - **Chieftain 10/900** (folder) → **Chieftain, Mk. 10 / 900**.
     - Removed K/JJ, K/JJH, H/JJ, K/JQ, etc. from Chinese aircraft and replaced them with J, JH, J, JQ, etc. respectively. In the full Manadarin package, they have been replaced with Chinese characters.
+    - **A-1A**: Statcard name → **AMX International AMX | A-1A**.
+    - **39 M. Csaba pc. gk.**: Statcard name → **Weiss Manfréd Acél- és Fémművek | 39 M. Csaba páncélgépkocsi**.
+    - **40/43 M. Zrínyi**: Statcard name → **Weiss Manfréd Acél- és Fémművek | 10,5 cm 40/43 M. Zrínyi roham tarack**.
+    - **44 M. Zrínyi (sorozatvető)**: Statcard name → **Weiss Manfréd Acél- és Fémművek | 7,5 cm 44 M. Zrínyi rohamágyú (43 M. rakéta sorozatvető)**.
+    - **9A35M** (Italy / Hungary): Statcard name → **Konstruktorskoye bûro točnogo mašinostroyeniâ im. A. È. Nudyel'mana | 9A35M önjáró légvédelmi rakétakomplexum "Sztrela-10M"**.
+    - **MB. 5**: Statcard name → **Martin-Baker Aircraft Company MB. 5**.
+    - **St.-Chamond mle. 1918** → **St-Chamond mle. 1918**.
+    - **I.A.R.316-B**: Statcard name → **Société Nationale Industrielle Aérospatiale / Industria Aeronautică Română | I.A.R.316-B**.
+    - **Mārut Mk I**: Statcard name → **Hindustān Ēyronōṭiks Limiṭeḍ HF-24 | Mārut Mk I**.
+    - **Jaguar IS (DARIN II)**: Statcard name → **SEPECAT Jaguar IS / Hindustān Ēyronōṭiks Limiṭeḍ | Jaguar DARIN II (Stage 3) "Shamsher"**.
+    - **Héja I**: Statcard name → **Officine Meccaniche Italiane / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja I vadászrepülőgép**.
+    - Impromptu Swedish air tree rework:
+        - **J 8 A**: Statcard name → **Gloster Aircraft Company SS.37 | J 8 A**.
+        - **Iacobi's J 8 A**: Statcard name → **Gloster Aircraft Company SS.37 | Ian Iacobi's J 8 A**.
+        - **J 11**: Statcard name → **Fiat Aviazione | J 11**.
+        - **S 17 BS**: Statcard name → **Saab 17BS | S 17 BS**.
+        - **B 17 B**: Statcard name → **Saab 17B | B 17 B**.
+        - **B 17 A**: Statcard name → **Saab 17A | B 17 A**.
+        - **B 3 C-2**: Statcard name → **Junkers Flugzeug- und Motorenwerke / Saab | B 3 C-2**.
+        - **J 20**: Statcard name → **Officine Meccaniche Italiane | J 20**.
+        - **B 18 A**: Statcard name → **Saab 18A | B 18 A**.
+        - **B 18 B**: Statcard name → **Saab 18B | B 18 B**.
+        - **T 18 B**: Statcard name → **Saab 18B | T 18 B**.
+        - **T 18 B (57 mm akan m/47)**: Statcard name → **Saab 18B | T 18 B (57 mm automatkanon m/47)**.
+        - **J 26**: Statcard name → **North American Aviation NA-122 | J 26**.
+        - **J 26 (B-7)** → **J 26 (26001)**. Statcard name → **North American Aviation NA-104 | J 26 (Upplands flygflottilj (F 16), 26001 "Vit D")**.
+        - **J 21 A-1**: Statcard name → **Saab 21A-1 | J 21 A-1**.
+        - **J 21 A-2**: Statcard name → **Saab 21A-2 | J 21 A-2**.
+        - **A 21 A-3 (1952)**: Statcard name → **Saab 21A-3 | A 21 A-3 (1952)**.
+        - **J 29 A** → **J 29 A (1951)**. Statcard name → **Saab 29A | J 29 A Tunnan**.
+        - **A 29 B**: Statcard name → **Saab 29B | A 29 B Tunnan**.
+        - **J 29 D (Alt. 2)** → **J 29 D (alt. 2)**. Statcard name → **Saab 29D | J 29 D Tunnan (alt. 2)**.
+        - **J 29 F**: Statcard name → **Saab 29F | J 29 F Tunnan**.
+        - **Saab 105 G** → **Saab 105G**.
+        - **Saab 105 Ö** (Austria) → **Saab 105Ö**.
+        - **J 28 B (1953)**: Statcard name → **de Havilland Aircraft Company D.H. 100 | J 28 B (1953)**.
+        - **VA**: Statcard name → **de Havilland Aircraft Company D.H. 100 | VA "Vamppi"**.
+        - **J 32 B**: Statcard name → **Saab 32B | J 32 B Lansen**.
+        - **J 32 A**: Statcard name → **Saab 32A | J 32 A Lansen**.
+        - **J 32 A (F 17)**: Statcard name → **Saab 32A | J 32 A Lansen (Blekinge flygflottilj (F 17))**.
+        - **J 34**: Statcard name → **Hawker Aircraft P.1067 | J 34**.
 
 ### Weaponry:
 

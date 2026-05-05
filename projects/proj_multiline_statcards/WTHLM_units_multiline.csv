@@ -3,7 +3,7 @@
 <color=#ff8c80>Military project</color>
 <color=#5cae63>Index (G-, Sd.Kfz., Ps., etc.)</color>
 <color=#fffa62>Ship class</color>
-<color=#ff831c>Previous name</color>
+<color=#919191>Previous name</color>
 <color=#7ce68f>Alternate applicable name</color>
 Vehicle name
 <color=#adadad>Modifications</color>
@@ -11,8 +11,123 @@ Vehicle name
 <color=@currencyGoldColor>Unit/Ace</color>
 
 //NON-NATIONAL VEHICLES
+germ_garford_putilov_event_shop;◄ Pzw. Garford (Beute)
+germ_garford_putilov_event_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Putilovskij zavod</color>
+◄ Panzerwagen Garford (Beute)"
+germ_garford_putilov_event_1;◄ Pzw. Garford (Beute)
+germ_garford_putilov_event_2;Armored Car
+
+germ_beutepanzer_mk_iv_event_shop;s.Kpfw. (Beute)
+germ_beutepanzer_mk_iv_event_0;"<color=#81c3fc>William Foster & Co.</color>
+schwerer Kampfwagen (Beute)"
+germ_beutepanzer_mk_iv_event_1;s.Kpfw. (Beute)
+germ_beutepanzer_mk_iv_event_2;Medium Tank
+
+germ_a7v_event_shop;s.Kpfw. A7V
+germ_a7v_event_0;"<color=#81c3fc>Daimler Motoren Gesellschaft</color>
+schwerer Kampfwagen A7V"
+germ_a7v_event_1;s.Kpfw. A7V
+germ_a7v_event_2;Medium Tank
+
+uk_garford_putilov_shop;Garford
+uk_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Putilovskij zavod</color>
+Bronirovannyj avtomobil' ""Garford"""
+uk_garford_putilov_1;Garford
+uk_garford_putilov_2;Armored Car
+
+uk_garford_putilov_event_shop;Garford
+uk_garford_putilov_event_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Putilovskij zavod</color>
+Bronirovannyj 4-tonnyj avtomobil' ""Garford"""
+uk_garford_putilov_event_1;Garford
+uk_garford_putilov_event_2;Armored Car
+
+uk_mark_v_event_shop;Mk. V (Male)
+uk_mark_v_event_0;"<color=#81c3fc>Metropolitan Amalgamated Railway Carriage and Wagon Company</color>
+Tank, Mk. V
+<color=#adadad>(Male)</color>"
+uk_mark_v_event_1;Mk. V (Male)
+uk_mark_v_event_2;Medium Tank
+
+uk_saint_chamond_shop;St-Chamond mle. 1918
+uk_saint_chamond_0;"<color=#81c3fc>Compagnie des forges et aciéries de la marine et d'Homécourt</color>
+Char d'assaut Saint-Chamond modèle 1918"
+uk_saint_chamond_1;St-Chamond
+uk_saint_chamond_2;Medium Tank
+
+uk_saint_chamond_event_shop;St-Chamond mle. 1918
+uk_saint_chamond_event_0;"<color=#81c3fc>Compagnie des forges et aciéries de la marine et d'Homécourt</color>
+Char d'assaut Saint-Chamond modèle 1918"
+uk_saint_chamond_event_1;St-Chamond
+uk_saint_chamond_event_2;Medium Tank
+
+zeppelin_shop;L 30
+zeppelin_0;"<color=#81c3fc>Luftschiffbau Zeppelin LZ 62</color>
+<color=#fffa62>Militärluftschiff Typ R</color>
+L 30"
+zeppelin_1;L 30
+zeppelin_2;L 30
+
+fokker_d7_shop;D.VII
+fokker_d7_0;"<color=#81c3fc>Fokker-Flugzeugwerke</color>
+D.VII"
+fokker_d7_1;D.VII
+fokker_d7_2;D.VII
+
+spad_13_shop;S.XIII-C1
+spad_13_0;"<color=#81c3fc>Société pour l'aviation et ses dérivés</color>
+S.XIII-C1"
+spad_13_1;S.XIII-C1
+spad_13_2;S.XIII
 
 //KILLSTREAK VEHICLES
+jaguar_a_killstreak_shop;☢☨ Jaguar A
+jaguar_a_killstreak_0;"<color=#81c3fc>SEPECAT Jaguar A</color>
+☢☨ Jaguar Type A"
+jaguar_a_killstreak_1;☢☨ Jaguar A
+jaguar_a_killstreak_2;☢☨ Jaguar
+
+jaguar_a_germany_killstreak_shop;☢◄ Jaguar A
+jaguar_a_germany_killstreak_0;"<color=#81c3fc>SEPECAT Jaguar A</color>
+☢◄ Jaguar Type A"
+jaguar_a_germany_killstreak_1;☢◄ Jaguar A
+jaguar_a_germany_killstreak_2;☢◄ Jaguar
+
+jaguar_a_italy_killstreak_shop;☢▄ Jaguar A
+jaguar_a_italy_killstreak_0;"<color=#81c3fc>SEPECAT Jaguar A</color>
+☢▄ Jaguar Type A"
+jaguar_a_italy_killstreak_1;☢▄ Jaguar A
+jaguar_a_italy_killstreak_2;☢▄ Jaguar
+
+jaguar_a_japan_killstreak_shop;☢▅ Jaguar A
+jaguar_a_japan_killstreak_0;"<color=#81c3fc>SEPECAT Jaguar A</color>
+☢▅ Jaguar Type A"
+jaguar_a_japan_killstreak_1;☢▅ Jaguar A
+jaguar_a_japan_killstreak_2;☢▅ Jaguar
+
+jaguar_a_sweden_killstreak_shop;☢♛ Jaguar A
+jaguar_a_sweden_killstreak_0;"<color=#81c3fc>SEPECAT Jaguar A</color>
+☢♛ Jaguar Type A"
+jaguar_a_sweden_killstreak_1;☢♛ Jaguar A
+jaguar_a_sweden_killstreak_2;☢♛ Jaguar
+
+jaguar_a_uk_killstreak_shop;☢▄ Jaguar A
+jaguar_a_uk_killstreak_0;"<color=#81c3fc>SEPECAT Jaguar A</color>
+☢▄ Jaguar Type A"
+jaguar_a_uk_killstreak_1;☢▄ Jaguar A
+jaguar_a_uk_killstreak_2;☢▄ Jaguar
+
+jaguar_a_usa_killstreak_shop;☢▃ Jaguar A
+jaguar_a_usa_killstreak_0;"<color=#81c3fc>SEPECAT Jaguar A</color>
+☢▃ Jaguar Type A"
+jaguar_a_usa_killstreak_1;☢▃ Jaguar A
+jaguar_a_usa_killstreak_2;☢▃ Jaguar
+
+jaguar_a_iaf_killstreak_shop;☢ Jaguar A
+jaguar_a_iaf_killstreak_0;"<color=#81c3fc>SEPECAT Jaguar A</color>
+☢ Jaguar Type A"
+jaguar_a_iaf_killstreak_1;☢ Jaguar A
+jaguar_a_iaf_killstreak_2;☢ Jaguar
+
 su_24m_killstreak_shop;☢ Su-24M2
 su_24m_killstreak_0;☢ "<color=#81c3fc>Kompaniâ «Sukhoj»</color>
 <color=#5cae63>izd. T-6M2</color>
@@ -4068,15 +4183,37 @@ mosquito_b_mk16_1;Mosquito B. Mk. XVI
 mosquito_b_mk16_2;Mosquito
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+mb_5_shop;MB. 5
+mb_5_0;<color=#81c3fc>Martin-Baker Aircraft Company MB. 5</color>
+mb_5_1;MB. 5
+mb_5_2;MB. 5
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 marut_mk1_shop;Mārut Mk I
-marut_mk1_0;"<color=#81c3fc>Hindusthān Ēyaronāṭiksa Limiṭeḍ HF-24</color>
+marut_mk1_0;"<color=#81c3fc>Hindustān Ēyronōṭiks Limiṭeḍ HF-24</color>
 Mārut Mk I"
 marut_mk1_1;Mārut Mk I
 marut_mk1_2;Mārut
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+jaguar_gr1_shop;▄ Jaguar G.R. Mk. 1
+jaguar_gr1_0;"<color=#81c3fc>SEPECAT Jaguar S</color>
+▄ Jaguar G.R. Mk. 1"
+jaguar_gr1_1;▄ Jaguar G.R. Mk. 1
+jaguar_gr1_2;▄ Jaguar
+
+jaguar_gr1a_shop;▄ Jaguar G.R. Mk. 1B
+jaguar_gr1a_0;"<color=#81c3fc>SEPECAT Jaguar S</color>
+▄ Jaguar G.R. Mk. 1B"
+jaguar_gr1a_1;▄ Jaguar G.R. Mk. 1
+jaguar_gr1a_2;▄ Jaguar
+
+jaguar_is_shop;☸ Jaguar IS (DARIN II)
+jaguar_is_0;"<color=#81c3fc>SEPECAT Jaguar IS <color=@commonTextColor>/</color> Hindustān Ēyronōṭiks Limiṭeḍ</color>
+☸ Jaguar DARIN II ""Shamsher""
+<color=#adadad>(Stage 3)</color>"
+jaguar_is_1;☸ Jaguar IS
+jaguar_is_2;☸ Jaguar
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 hawk_200_shop;Hawk 200 (ZH200)
@@ -8706,8 +8843,8 @@ wm_21_1;W.M.21
 wm_21_2;W.M.21
 
 re_2000_heja_1_shop;Héja I
-re_2000_heja_1_0;"<color=#81c3fc>Reggiane Officine Meccaniche Italiane <color=@commonTextColor>/</color> Magyar Királyi Állami Vas-, Acél-
-és Gépgyárak</color>
+re_2000_heja_1_0;"<color=#81c3fc>Officine Meccaniche Italiane <color=@commonTextColor>/</color> Magyar Királyi Állami Vas-, Acél- és
+Gépgyárak</color>
 Héja I vadászrepülőgép"
 re_2000_heja_1_1;Héja I
 re_2000_heja_1_2;Héja
@@ -8852,6 +8989,12 @@ mig_23mf_hungary_0;"<color=#81c3fc>Moskovskij mašinostroityel'nyj zavod «Znam�
 mig_23mf_hungary_1;◔ MiG-23MF
 mig_23mf_hungary_2;◔ MiG-23
 
+amx_a_1a_brazil_shop;A-1A
+amx_a_1a_brazil_0;"<color=#81c3fc>AMX International AMX</color>
+A-1A"
+amx_a_1a_brazil_1;A-1A
+amx_a_1a_brazil_2;A-1
+
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 ef_2000a_shop;⛨ F-2000A (P3Ea)
 ef_2000a_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15)</color>
@@ -8918,25 +9061,216 @@ mi_24v_hungary_2;◔ Mi-24
 //ITALY HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+it_39m_csaba_shop;39 M. Csaba pc. gk.
+it_39m_csaba_0;"<color=#81c3fc>Weiss Manfréd Acél- és Fémművek</color>
+39 M. Csaba páncélgépkocsi"
+it_39m_csaba_1;39 M. Csaba
+it_39m_csaba_2;Armored Car
+
+it_toldi_II_a_shop;38 M. Toldi B 40 k. hk.
+it_toldi_II_a_0;"<color=#81c3fc>Landsverk <color=@commonTextColor>/</color> Magyar Királyi Állami Vas-, Acél- és Gépgyárak</color>
+38 M. Toldi B 40 könnyű harckocsi"
+it_toldi_II_a_1;38 M. Toldi
+it_toldi_II_a_2;Light Tank
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+it_40m_turan_1_shop;40 M. Turán köz. hk.
+it_40m_turan_1_0;"<color=#81c3fc>Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak</color>
+40 M. Turán közepes harckocsi"
+it_40m_turan_1_1;40 M. Turán
+it_40m_turan_1_2;Medium Tank
+
+it_41m_turan_2_shop;41 M. Turán n. hk.
+it_41m_turan_2_0;"<color=#81c3fc>Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak</color>
+41 M. Turán nehéz harckocsi"
+it_41m_turan_2_1;41 M. Turán
+it_41m_turan_2_2;Medium Tank
+
+it_43m_turan_3_shop;43 M. Turán n. hk.
+it_43m_turan_3_0;"<color=#81c3fc>Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak</color>
+43 M. Turán nehéz harckocsi"
+it_43m_turan_3_1;43 M. Turán
+it_43m_turan_3_2;Medium Tank
+
+it_40_43m_zrinyi_2_shop;40/43 M. Zrínyi
+it_40_43m_zrinyi_2_0;"<color=#81c3fc>Weiss Manfréd Acél- és Fémművek</color>
+10,5 cm 40/43 M. Zrínyi roham tarack"
+it_40_43m_zrinyi_2_1;40/43 M. Zrínyi
+it_40_43m_zrinyi_2_2;SPG
+
+it_44m_zrinyi_1_shop;44 M. Zrínyi (sorozatvető)
+it_44m_zrinyi_1_0;"<color=#81c3fc>Weiss Manfréd Acél- és Fémművek</color>
+7,5 cm 44 M. Zrínyi rohamágyú
+<color=#adadad>(43 M. rakéta sorozatvető)</color>"
+it_44m_zrinyi_1_1;44 M. Zrínyi
+it_44m_zrinyi_1_2;SPG
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+it_m55_shop;⛨ 203/25 M55
+it_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
+⛨ Semovente da 203/25 M55"
+it_m55_1;⛨ 203/25 M55
+it_m55_2;SPH
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+it_fiat_6616_cockerill_shop;Fiat 6616 (90/38)
+it_fiat_6616_cockerill_0;"<color=#81c3fc>Fiat OTO Melara Tipo 6616 con torretta OTO T 90 CKL equipaggiata con
+cannone Cockerill Mk. 3 da 90/38</color>"
+it_fiat_6616_cockerill_1;Fiat 6616
+it_fiat_6616_cockerill_2;Light Tank
+
+it_aubl_74_60_70m_shop;Fiat 6616 (60/70)
+it_aubl_74_60_70m_0;<color=#81c3fc>Fiat OTO Melara Tipo 6616 con torretta OTO Breda T 60M da 60/70</color>
+it_aubl_74_60_70m_1;Fiat 6616
+it_aubl_74_60_70m_2;Light Tank
+
+it_fiat_6614_106sr_shop;Fiat 6614 (M40A1)
+it_fiat_6614_106sr_0;<color=#81c3fc>Fiat OTO Melara Tipo 6614</color>
+<color=#adadad>(M40A1)</color>
+it_fiat_6614_106sr_1;Fiat 6614
+it_fiat_6614_106sr_2;Light Tank
+
+it_2s1_shop;◔ 2SZ1
+it_2s1_0;"<color=#81c3fc>Kharkìvs'kij traktornij zavod (KhTZ)</color>
+◔ 122 mm-es 2SZ1 önjáró tarack ""Gvozgyika"""
+it_2s1_1;◔ 2SZ1
+it_2s1_2;SPH
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+it_c13_t90_shop;C 13 (T 90 CKL)
+it_c13_t90_0;"<color=#81c3fc>OTO Melara C 13 con torretta T 90 CKL equipaggiata con cannone
+Cockerill Mk. 3 da 90/38</color>"
+it_c13_t90_1;C 13 (T 90 CKL)
+it_c13_t90_2;Light Tank
+
+it_c13_tua_shop;C 13 (TUA)
+it_c13_tua_0;<color=#81c3fc>OTO Melara C 13 con sistema d'arma TUA</color>
+it_c13_tua_1;C 13 (TUA)
+it_c13_tua_2;ATMC
+
 it_m47_105_shop; M47 RKM
 it_m47_105_0;"<color=#81c3fc> Detroit Arsenal <color=@commonTextColor>/</color> ha-Ta'asiah ha-Ṣva'it <color=@commonTextColor>+</color> 'Ordan Ta'ashiyot Matekhet
 Viṣikot Pledah M47 RKM</color>"
 it_m47_105_1; M47 RKM
 it_m47_105_2;Medium Tank
 
+it_leopard_1a2_shop;⛨ Leopard 1 A2
+it_leopard_1a2_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+⛨ Carro Armato da Combattimento Leopard 1 Versione A2"
+it_leopard_1a2_1;⛨ Leopard 1 A2
+it_leopard_1a2_2;MBT
+
+it_leopard_1a5_shop;⛨ Leopard 1 A5
+it_leopard_1a5_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+⛨ Carro Armato da Combattimento Leopard 1 Versione A5"
+it_leopard_1a5_1;⛨ Leopard 1 A5
+it_leopard_1a5_2;MBT
+
+it_zsu_57_2_shop;◔ ZSZU-57-2
+it_zsu_57_2_0;"<color=#81c3fc>Omskij zavod № 174 im. Vorošilova</color>
+◔ 57 mm-es ZSZU-57-2 önjáró légvédelmi gépágyú ""Büszke"""
+it_zsu_57_2_1;◔ ZSZU-57-2
+it_zsu_57_2_2;SPAAG
+
+it_btr_80a_hungary_shop;◔ BTR-80A
+it_btr_80a_hungary_0;"<color=#81c3fc>Proizvodstvyennoye ob""yedinyeniye «Gor'kovskij avtomobil'nyj zavod»</color>
+◔ BTR-80A gyalogsági harcjármű"
+it_btr_80a_hungary_1;◔ BTR-80A
+it_btr_80a_hungary_2;IFV
+
+it_pzh_2000_hu_shop;◔ PzH 2000HU
+it_pzh_2000_hu_0;"<color=#81c3fc>KNDS</color>
+◔ 152 mm-es Panzerhaubitze 2000HU páncélos tarack"
+it_pzh_2000_hu_1;◔ PzH 2000HU
+it_pzh_2000_hu_2;SPH
+
+it_fiat_6614_firos_shop;Fiat 6614 (FIROS 6)
+it_fiat_6614_firos_0;"<color=#81c3fc>Fiat OTO Melara Tipo 6614</color>
+<color=#adadad>(FIROS 6)</color>"
+it_fiat_6614_firos_1;Fiat 6614
+it_fiat_6614_firos_2;MLRS
+
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+it_zsu_23_4_shop;◔ ZSZU-23-4V
+it_zsu_23_4_0;"<color=#81c3fc>Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni
+mašinostroityel'nyj zavod</color>
+◔ 23 mm-es ZSZU-23-4V önjáró légvédelmi gépágyú ""Silka"""
+it_zsu_23_4_1;◔ ZSZU-23-4V
+it_zsu_23_4_2;SPAAG
+
+it_t_72m1_shop;◔ T-72M1
+it_t_72m1_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 520 im. Morozova</color>
+◔ T-72M1 harckocsi"
+it_t_72m1_1;◔ T-72M1
+it_t_72m1_2;MBT
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+it_9a35_m_shop;◔ 9A35M
+it_9a35_m_0;"<color=#81c3fc>Konstruktorskoye bûro točnogo mašinostroyeniâ im. A. È. Nudyel'mana</color>
+◔ 9A35M önjáró légvédelmi rakétakomplexum ""Sztrela-10M"""
+it_9a35_m_1;◔ 9A35M
+it_9a35_m_2;SPAAM
+
+it_freccia_shop;VBM Freccia C/C
+it_freccia_0;"<color=#81c3fc>Consortium Iveco-Oto Melara</color>
+Veicolo Blindato Medio Freccia Contro Carro"
+it_freccia_1;VBM Freccia C/C
+it_freccia_2;IFV
+
+it_freccia_hitfist_ows_shop;VBM Freccia C/C (OWS 30mm)
+it_freccia_hitfist_ows_0;"<color=#81c3fc>Consortium Iveco-Oto Melara</color>
+Veicolo Blindato Medio Freccia Contro Carro
+<color=#adadad>(HITFIST Overhead Weapon Systsem 30mm)</color>"
+it_freccia_hitfist_ows_1;VBM Freccia C/C
+it_freccia_hitfist_ows_2;IFV
+
+it_leopard_2a4_shop;◔ Leopard 2A4HU
+it_leopard_2a4_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+◔ Leopard 2A4HU harckocsi"
+it_leopard_2a4_1;◔ Leopard 2A4
+it_leopard_2a4_2;MBT
+
+it_leopard_2a7_hungary_shop;◔ Leopard 2A7HU
+it_leopard_2a7_hungary_0;"<color=#81c3fc>KNDS</color>
+◔ Leopard 2A7HU harckocsi"
+it_leopard_2a7_hungary_1;◔ Leopard 2A7
+it_leopard_2a7_hungary_2;MBT
+
+it_kf_41_shop;◔ Lynx KF41
+it_kf_41_0;"<color=#81c3fc>Rheinmetall Lynx KF41</color>
+◔ Lynx KF41 gyalogsági harcjármű ""Hiúz"""
+it_kf_41_1;◔ Lynx KF41
+it_kf_41_2;IFV
+
+it_c1_ariete_certezza_shop;Ariete (WAR) (20° Corso)
+it_c1_ariete_certezza_0;"<color=#81c3fc>Consorzio Iveco Oto Melara</color>
+C1 Ariete
+<color=#adadad>(Kit WAR)</color>
+<color=@currencyGoldColor>20° Corso ""Certezza""</color>"
+it_c1_ariete_certezza_1;Ariete
+it_c1_ariete_certezza_2;MBT
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+it_centauro_2_shop;Centauro II 120
+it_centauro_2_0;"<color=#81c3fc>Consortium Iveco-Oto Melara</color>
+Centauro II 120
+<color=#adadad>(Guardian H3)</color>"
+it_centauro_2_1;Centauro II 120
+it_centauro_2_2;Light Tank
+
+it_samp_t_launcher_shop;⛨ SAMP/T (MLT)
+it_samp_t_launcher_0;"<color=#81c3fc>Eurosam</color>
+⛨ Sol-Air Moyenne Portée/Terrestre
+<color=#adadad>(Module de Lancement Terrestre)</color>"
+it_samp_t_launcher_1;⛨ SAMP/T (MLT)
+it_samp_t_launcher_2;SPAAM
+
+it_samp_t_fcs_shop;⛨ SAMP/T (MRI)
+it_samp_t_fcs_0;"<color=#81c3fc>Eurosam</color>
+⛨ Sol-Air Moyenne Portée/Terrestre
+<color=#adadad>(Module Radar et IFF)</color>"
+it_samp_t_fcs_1;⛨ SAMP/T (MRI)
+it_samp_t_fcs_2;Radar
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 it_mas_classe500_3_1944_shop;MAS 561
@@ -9449,16 +9783,97 @@ it_battleship_littorio_class_littorio_1;Italia
 it_battleship_littorio_class_littorio_2;Battleship
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+f_222_2_shop;F.222.2
+f_222_2_0;"<color=#81c3fc>Avions Farman</color>
+F.222.2"
+f_222_2_1;F.222.2
+f_222_2_2;F.222.2
+
+maryland_mk1_france_shop;Martin 167 A-3
+maryland_mk1_france_0;"<color=#81c3fc>Glenn L. Martin Company Model 167F</color>
+Martin 167 A-3 ""Glenn"""
+maryland_mk1_france_1;Martin 167 A
+maryland_mk1_france_2;Martin 167
+
+fokker_d21_netherlands_shop;D.XXI-2
+fokker_d21_netherlands_0;"<color=#81c3fc>N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 141</color>
+D.XXI-2"
+fokker_d21_netherlands_1;D.XXI-2
+fokker_d21_netherlands_2;D.XXI
+
+mb_151c1_shop;M.B.151-C1
+mb_151c1_0;"<color=#81c3fc>Société des Avions Marcel Bloch</color>
+M.B.151-C1"
+mb_151c1_1;M.B.151-C1
+mb_151c1_2;M.B.151
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+vg_33_shop;VG 33-C1
+vg_33_0;"<color=#81c3fc>Arsenal de l'Aéronautique</color>
+VG 33-C1"
+vg_33_1;VG 33-C1
+vg_33_2;VG 33
+
+a-35b_shop;☨ A-35B-1-VN
+a-35b_0;"<color=#81c3fc>Vultee Aircraft V-88</color>
+☨ A-35B-1-VN Vengeance"
+a-35b_1;☨ A-35B
+a-35b_2;☨ A-35
+
+fokker_g1a_shop;G.I (Mercury Mk. VIII)
+fokker_g1a_0;"<color=#81c3fc>N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 138</color>
+G.I
+<color=#adadad>(Mercury Mk. VIII)</color>"
+fokker_g1a_1;G.I
+fokker_g1a_2;G.I
+
+fokker_d23_shop;D.XXIII
+fokker_d23_0;"<color=#81c3fc>N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 155</color>
+D.XXIII"
+fokker_d23_1;D.XXIII
+fokker_d23_2;D.XXIII
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+vb_10_02_shop;VB 10-02
+vb_10_02_0;"<color=#81c3fc>Arsenal de l'Aéronautique</color>
+VB 10-02"
+vb_10_02_1;VB 10-02
+vb_10_02_2;VB 10
+
+vb_10c1_shop;VB 10-C1
+vb_10c1_0;"<color=#81c3fc>Arsenal de l'Aéronautique</color>
+VB 10-C1"
+vb_10c1_1;VB 10-C1
+vb_10c1_2;VB 10
+
+sb_25j_netherlands_shop;◘ B-25K
+sb_25j_netherlands_0;"<color=#81c3fc>North American Aviation NA-108</color>
+◘ B-25K Mitchell"
+sb_25j_netherlands_1;◘ B-25K
+sb_25j_netherlands_2;◘ B-25
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+meteor_fmk8_belgium_shop;▄ Meteor F. Mk. 8
+meteor_fmk8_belgium_0;"<color=#81c3fc>Gloster Aircraft Company G.41K <color=@commonTextColor>/</color> Avions Fairey</color>
+▄ Meteor F. Mk. 8"
+meteor_fmk8_belgium_1;▄ Meteor F. Mk. 8
+meteor_fmk8_belgium_2;▄ Meteor
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+alpha_jet_e_shop;☨ Alpha Jet E
+alpha_jet_e_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@commonTextColor>+</color> Dornier Flugzeugwerke</color>
+☨ Alpha Jet E"
+alpha_jet_e_1;☨ Alpha Jet E
+alpha_jet_e_2;☨ Alpha Jet
+
+mirage_milan_shop;Milan S 01
+mirage_milan_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation</color>
+Milan S 01"
+mirage_milan_1;Milan
+mirage_milan_2;Milan
+
 f-84f_iaf_shop;☨ F-84F-51-GK (EC 1/1)
 f-84f_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23M</color>
 ☨ F-84F-51-GK Thunderstreak
@@ -9467,6 +9882,61 @@ f-84f_iaf_1;☨ F-84F
 f-84f_iaf_2;☨ F-84
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+mirage_3c_shop;Mirage III C
+mirage_3c_0;"<color=#81c3fc>Avions Marcel Dassault</color>
+Mirage III C"
+mirage_3c_1;Mirage III C
+mirage_3c_2;Mirage
+
+mirage_3e_shop;Mirage III E
+mirage_3e_0;"<color=#81c3fc>Avions Marcel Dassault</color>
+Mirage III E"
+mirage_3e_1;Mirage III E
+mirage_3e_2;Mirage
+
+mirage_5f_shop;Mirage 5 F
+mirage_5f_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation</color>
+Mirage 5 F"
+mirage_5f_1;Mirage 5 F
+mirage_5f_2;Mirage
+
+mirage_5ba_shop;▄ Mirage 5 BA
+mirage_5ba_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@commonTextColor>/</color> Sociétés Anonyme Belge
+de Constructions Aéronautiques</color>
+▄ Mirage 5 BA"
+mirage_5ba_1;▄ Mirage 5 BA
+mirage_5ba_2;▄ Mirage
+
+mirage_f1c_shop;Mirage F1 C
+mirage_f1c_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation</color>
+Mirage F1 C"
+mirage_f1c_1;Mirage F1 C
+mirage_f1c_2;Mirage
+
+mirage_f1ct_shop;Mirage F1 CT
+mirage_f1ct_0;"<color=#81c3fc>Dassault Aviation</color>
+Mirage F1 CT"
+mirage_f1ct_1;Mirage F1 CT
+mirage_f1ct_2;Mirage
+
+mirage_f1c_200_shop;Mirage F1 C-200
+mirage_f1c_200_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation</color>
+Mirage F1 C-200"
+mirage_f1c_200_1;Mirage F1 C
+mirage_f1c_200_2;Mirage
+
+jaguar_a_shop;☨ Jaguar A
+jaguar_a_0;"<color=#81c3fc>SEPECAT Jaguar A</color>
+☨ Jaguar Type A"
+jaguar_a_1;☨ Jaguar A
+jaguar_a_2;☨ Jaguar
+
+jaguar_e_shop;☨ Jaguar E
+jaguar_e_0;"<color=#81c3fc>SEPECAT Jaguar E</color>
+☨ Jaguar Type E"
+jaguar_e_1;☨ Jaguar E
+jaguar_e_2;☨ Jaguar
+
 nf_5a_netherlands_shop;◘ NF-5A
 nf_5a_netherlands_0;"<color=#81c3fc>Northrop Corporation N-156 <color=@commonTextColor>/</color> Canadair CL-226-1A10</color>
 ◘ NF-5A Freedom Fighter"
@@ -9474,18 +9944,172 @@ nf_5a_netherlands_1;◘ NF-5A
 nf_5a_netherlands_2;◘ NF-5
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+mirage_2000c_s5_shop;Mirage 2000 C S5
+mirage_2000c_s5_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation</color>
+Mirage 2000 C S5"
+mirage_2000c_s5_1;Mirage 2000 C
+mirage_2000c_s5_2;Mirage 2000
+
+mirage_2000_5f_shop;Mirage 2000-5 F
+mirage_2000_5f_0;"<color=#81c3fc>Dassault Aviation</color>
+Mirage 2000-5 F"
+mirage_2000_5f_1;Mirage 2000-5
+mirage_2000_5f_2;Mirage 2000
+
+mirage_2000d_r1_shop;Mirage 2000 D R1 (ECLAIR-M)
+mirage_2000d_r1_0;"<color=#81c3fc>Dassault Aviation</color>
+Mirage 2000 D R1
+<color=#adadad>(ECLAIR-M)</color>"
+mirage_2000d_r1_1;Mirage 2000 D
+mirage_2000d_r1_2;Mirage 2000
+
+mirage_2000d_rmv_shop;Mirage 2000 D RMV
+mirage_2000d_rmv_0;"<color=#81c3fc>Dassault Aviation</color>
+Mirage 2000 D Rénovation Mi-Vie"
+mirage_2000d_rmv_1;Mirage 2000 D
+mirage_2000d_rmv_2;Mirage 2000
+
+mirage_2000c_s4_shop;Mirage 2000 C S4
+mirage_2000c_s4_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation</color>
+Mirage 2000 C S4"
+mirage_2000c_s4_1;Mirage 2000 C
+mirage_2000c_s4_2;Mirage 2000
+
+rafale_c_f3_shop;Rafale C (F3R)
+rafale_c_f3_0;"<color=#81c3fc>Dassault Aviation</color>
+Rafale C
+<color=#adadad>(F3R)</color>"
+rafale_c_f3_1;Rafale C
+rafale_c_f3_2;Rafale
+
+rafale_m_f3r_shop;Rafale M (F3R)
+rafale_m_f3r_0;"<color=#81c3fc>Dassault Aviation</color>
+Rafale M
+<color=#adadad>(F3R)</color>"
+rafale_m_f3r_1;Rafale M
+rafale_m_f3r_2;Rafale
+
+mirage_4000_shop;Mirage 4000 (1986)
+mirage_4000_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation</color>
+Mirage 4000
+<color=#adadad>(1986)</color>"
+mirage_4000_1;Mirage 4000
+mirage_4000_2;Mirage 4000
+
+f_16a_block_15_ocu_belgium_shop;▄ F-16A-15OCU-CF
+f_16a_block_15_ocu_belgium_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Sociétés Anonyme Belge de
+Constructions Aéronautiques</color>
+▄ F-16A-15OCU-CF Fighting Falcon"
+f_16a_block_15_ocu_belgium_1;▄ F-16A
+f_16a_block_15_ocu_belgium_2;▄ F-16
+
+f_16a_block_5_netherlands_shop;◘ F-16A-5-CF
+f_16a_block_5_netherlands_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> N.V. Koninklijke Nederlandse
+Vliegtuigenfabriek Fokker</color>
+◘ F-16A-5-CF Fighting Falcon"
+f_16a_block_5_netherlands_1;◘ F-16A
+f_16a_block_5_netherlands_2;◘ F-16
 
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+sa_313b_france_shop;SE 313 B
+sa_313b_france_0;"<color=#81c3fc>Sud-Aviation</color>
+SE 313 B Alouette II"
+sa_313b_france_1;SE 313 B
+sa_313b_france_2;SE 313
+
+sa_316b_shop;SA 316 B
+sa_316b_0;"<color=#81c3fc>Sud-Aviation</color>
+SA 316 B Alouette III"
+sa_316b_1;SA 316 B
+sa_316b_2;SA 316
+
+iar_316b_shop;I.A.R.316-B
+iar_316b_0;"<color=#81c3fc>Société Nationale Industrielle Aérospatiale <color=@commonTextColor>/</color> Industria Aeronautică
+Română</color>
+I.A.R.316-B"
+iar_316b_1;I.A.R.316-B
+iar_316b_2;I.A.R.316
 
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+tiger_hac_france_shop;☨ Tigre HAC
+tiger_hac_france_0;"<color=#81c3fc>Eurocopter EC-665</color>
+☨ Tigre, Hélicoptère Anti Char"
+tiger_hac_france_1;☨ Tigre HAC
+tiger_hac_france_2;☨ Tigre
+
+ah_64e_netherlands_shop;◘ AH-64E (v6)
+ah_64e_netherlands_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
+◘ Helicopter, Attack, AH-64E Guardian Apache
+<color=#adadad>(Capability Version 6)</color>"
+ah_64e_netherlands_1;◘ AH-64E
+ah_64e_netherlands_2;◘ AH-64
+
+ah_64d_netherlands_shop;◘ AH-64D
+ah_64d_netherlands_0;"<color=#81c3fc>Boeing Rotorcraft Systems</color>
+◘ Helicopter, Attack, AH-64D Longbow Apache"
+ah_64d_netherlands_1;◘ AH-64D
+ah_64d_netherlands_2;◘ AH-64
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+fr_saint_chamond_shop;St-Chamond mle. 1918
+fr_saint_chamond_0;"<color=#81c3fc>Compagnie des forges et aciéries de la marine et d'Homécourt</color>
+Char d'assaut Saint-Chamond modèle 1918"
+fr_saint_chamond_1;St-Chamond
+fr_saint_chamond_2;Assault Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+fr_amd_35_kwk39_shop;☨ le.Pz.Spw. 204 (f) (Kw.K. 39/1)
+fr_amd_35_kwk39_0;"<color=#81c3fc>Panhard</color>
+☨ leichter Panzerspähwagen 204 (f) m. 5cm Kw.K. 39/1 L/60"
+fr_amd_35_kwk39_1;☨ le.Pz.Spw. 204 (f)
+
+fr_amd_35_kwk39_2;Light Tank
+fr_char_2c_shop;2C
+fr_char_2c_0;"<color=#81c3fc>Société Nouvelle des Forges et Chantiers de la Méditerranée</color>
+Char de bataille 2C"
+fr_char_2c_1;2C
+fr_char_2c_2;Heavy Tank
+
+fr_char_2c_bis_shop;2C bis
+fr_char_2c_bis_0;"<color=#81c3fc>Société Nouvelle des Forges et Chantiers de la Méditerranée</color>
+Char de bataille 2C bis"
+fr_char_2c_bis_1;2C
+fr_char_2c_bis_2;Heavy Tank
+
+fr_m10_shop;☨ M10 GMC
+fr_m10_0;"<color=#5cae63>G-130</color>
+☨ Carriage, Motor, 3-inch Gun, M10"
+fr_m10_1;☨ M10
+fr_m10_2;Tank Destroyer
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+fr_tpk_641_vpc_shop;VLRA 6x6 (KAD)
+fr_tpk_641_vpc_0;"<color=#81c3fc>ACMAT TPK 6.41 Véhicule Protection de Convoi</color>
+Véhicule Léger de Reconnaissance et d'Appui 6x6
+<color=#adadad>(KAD)</color>"
+fr_tpk_641_vpc_1;VLRA 6x6 (KAD)
+fr_tpk_641_vpc_2;SPAA
+
+fr_m44_shop;▄ M44
+fr_m44_0;"<color=#5cae63>G-279</color>
+▄ Howitzer, Self-Propelled, Full Tracked: 155mm, M44"
+fr_m44_1;▄ M44
+fr_m44_2;SPH
+
+fr_m55_shop;▄ M55
+fr_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
+<color=#5cae63>G-261</color>
+▄ Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55"
+fr_m55_1;▄ M55
+fr_m55_2;SPH
+
+fr_m36b2_cefeo_shop;☨ M36B2 GMC
+fr_m36b2_cefeo_0;"<color=#5cae63>G-237</color>
+☨ Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
+fr_m36b2_cefeo_1;☨ M36B2
+fr_m36b2_cefeo_2;Tank Destroyer
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 fr_amx_elc_bis_shop;E.L.C. bis
@@ -9501,10 +10125,31 @@ fr_amx_elc_901_1;E.L.C.
 fr_amx_elc_901_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+fr_aml_90_shop;AML 90
+fr_aml_90_0;"<color=#81c3fc>Panhard</color>
+Automitrailleuse Légère AML 90"
+fr_aml_90_1;AML 90
+fr_aml_90_2;Light Tank
+
+fr_marder_df_105_shop;☨ DF 105
+fr_marder_df_105_0;<color=#81c3fc>☨ Thyssen Henschel DF 105</color>
+fr_marder_df_105_1;☨ DF 105
+fr_marder_df_105_2;Light Tank
+
+fr_marder_clovis_shop;☨ CLOVIS
+fr_marder_clovis_0;<color=#81c3fc>☨ Thyssen Henschel CLOVIS, FL 20, 105 mm</color>
+fr_marder_clovis_1;☨ CLOVIS
+fr_marder_clovis_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+fr_msc_shop;MSC
+fr_msc_0;"<color=#81c3fc>GIAT Industries</color>
+Mulet Système Complet"
+fr_msc_1;MSC
+fr_msc_2;MBT
+
 fr_leopard_2a4nl_shop;◘ Leopard 2A4 NL
 fr_leopard_2a4nl_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 ◘ Gevechtstank, Rups, Leopard 2A4 NL m/kanon 120 mm"
@@ -9530,6 +10175,12 @@ fr_leopard_2a6nl_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 fr_leopard_2a6nl_1;◘ Leopard 2A6 NL
 fr_leopard_2a6nl_2;MBT
 
+fr_jaguar_ebrc_shop;EBRC Jaguar
+fr_jaguar_ebrc_0;"<color=#81c3fc>Groupement Momentané d'Entreprises Engin Blindé Multi Rôles</color>
+Engin blindé de reconnaissance et de combat Jaguar"
+fr_jaguar_ebrc_1;EBRC Jaguar
+fr_jaguar_ebrc_2;CRV
+
 fr_cv_9035_nl_shop;CV9035NL
 fr_cv_9035_nl_0;"<color=#81c3fc>BAE Systems Hägglunds Combat Vehicle 9035NL</color>
 Infanteriegevechtsvoertuig, Pantser, Rups, CV9035NL m/kanon 35 mm"
@@ -9537,44 +10188,590 @@ fr_cv_9035_nl_1;CV9035NL
 fr_cv_9035_nl_2;IFV
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+fr_leclerc_s1_shop;Leclerc S1 RT5
+fr_leclerc_s1_0;"Leclerc série 1 retrofit tranche 5"
+fr_leclerc_s1_1;Leclerc S1
+fr_leclerc_s1_2;MBT
+
+fr_leclerc_s2_shop;Leclerc S2 T9
+fr_leclerc_s2_0;"Leclerc série 2 tranche 9"
+fr_leclerc_s2_1;Leclerc S2
+fr_leclerc_s2_2;MBT
+
+fr_leclerc_sxxi_shop;Leclerc SXXI T11
+fr_leclerc_sxxi_0;"Leclerc série XXI tranche 11"
+fr_leclerc_sxxi_1;Leclerc SXXI
+fr_leclerc_sxxi_2;MBT
+
+fr_leclerc_azur_shop;Leclerc S2 T9 (AZUR P1)
+fr_leclerc_azur_0;"Leclerc série 2 tranche 9
+<color=#adadad>(Action en Zone Urbaine prototype 1)</color>"
+fr_leclerc_azur_1;Leclerc S2
+fr_leclerc_azur;MBT
+
+fr_crotale_ng_shop;☨ ito 90M ohjusvaunu
+fr_crotale_ng_0;"<color=#5cae63>Ps. 477</color>
+☨ ilmatorjuntaohjus 90M ohjusvaunu XA-181"
+fr_crotale_ng_1;☨ ito 90M ohjusvaunu
+fr_crotale_ng_2;SPAA
+
+fr_samp_t_launcher_shop;☨ SAMP/T (MLT)
+fr_samp_t_launcher_0;"<color=#81c3fc>Eurosam</color>
+☨ Sol-Air Moyenne Portée/Terrestre ""Mamba""
+<color=#adadad>(Module de Lancement Terrestre)</color>"
+fr_samp_t_launcher_1;☨ SAMP/T (MLT)
+fr_samp_t_launcher_2;SPAAM
+
+fr_samp_t_fcs_shop;☨ SAMP/T (MRI)
+fr_samp_t_fcs_0;"<color=#81c3fc>Eurosam</color>
+☨ Sol-Air Moyenne Portée/Terrestre ""Mamba""
+<color=#adadad>(Module Radar et IFF)</color>"
+fr_samp_t_fcs_1;☨ SAMP/T (MRI)
+fr_samp_t_fcs_2;Radar
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+fr_vtb12_mod_shop;VTB 12
+fr_vtb12_mod_0;"<color=#81c3fc>Ateliers et Chantiers de la Loire</color>
+Vedette Torpilleur VTB 12"
+fr_vtb12_mod_1;VTB 12
+fr_vtb12_mod_2;Torpedo Boat
+
+fr_vtb18_shop;VTB 18
+fr_vtb18_0;"<color=#81c3fc>Chantiers Jouët</color>
+Vedette Torpilleur VTB 18"
+fr_vtb18_1;VTB 18
+fr_vtb18_2;Torpedo Boat
+
+fr_vtb10_shop;VTB 10
+fr_vtb10_0;"<color=#81c3fc>Ateliers et Chantiers de la Loire</color>
+Vedette Torpilleur VTB 10"
+fr_vtb10_1;VTB 10
+fr_vtb10_2;Torpedo Boat
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+fr_flower_class_aconit_shop;Aconit (K 58)
+fr_flower_class_aconit_0;"<color=#81c3fc>Ailsa Shipbuilding Company</color>
+<color=#fffa62>Corvette de la classe Flower</color>
+Aconit (K 58)"
+fr_flower_class_aconit_1;Aconit
+fr_flower_class_aconit_2;Corvette
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+fr_adroit_class_shop;L'Intrépide (P 630)
+fr_adroit_class_0;"<color=#81c3fc>Constructions mécaniques de Normandie</color>
+<color=#fffa62>Escorteur côtier de la classe L'Adroit</color>
+L'Intrépide (P 630)"
+fr_adroit_class_1;L'Intrépide
+fr_adroit_class_2;Coastal Escort
+
+fr_arras_class_arras_shop;Arras (AS)
+fr_arras_class_arras_0;"<color=#81c3fc>Arsenal de Brest</color>
+<color=#fffa62>Aviso de 1ère classe de la classe Arras</color>
+Arras (AS)"
+fr_arras_class_arras_1;Arras
+fr_arras_class_arras_2;Aviso
+
+fr_arras_class_amiens_shop;Amiens (7)
+fr_arras_class_amiens_0;"<color=#81c3fc>Société Nouvelle des Forges et Chantiers de la Méditerranée <color=@commonTextColor>/</color> Arsenal
+de Cherbourg</color>
+<color=#fffa62>Aviso de 1ère classe de la classe Arras</color>
+Amiens (7)
+<color=#adadad>(1940)</color>"
+fr_arras_class_amiens_1;Amiens
+fr_arras_class_amiens_2;Aviso
+
+fr_marne_class_marne_shop;La Marne
+fr_marne_class_marne_0;"<color=#81c3fc>Arsenal de Lorient</color>
+<color=#fffa62>Aviso de 1ère classe de la classe La Marne</color>
+La Marne
+<color=#adadad>(1925)</color>"
+fr_marne_class_marne_1;La Marne
+fr_marne_class_marne_2;Aviso
+
+fr_marne_class_aisne_shop;L'Aisne
+fr_marne_class_aisne_0;"<color=#81c3fc>Arsenal de Lorient</color>
+<color=#fffa62>Aviso de 1ère classe de la classe La Marne</color>
+L'Aisne"
+fr_marne_class_aisne_1;L'Aisne
+fr_marne_class_aisne_2;Aviso
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+fr_vlt1_shop;VLT 1
+fr_vlt1_0;"<color=#81c3fc>Société des Constructions navales de Meulan</color>
+Vedette Lance Torpille VLT 1"
+fr_vlt1_1;VLT 1
+fr_vlt1_2;Torpedo Boat
+
+fr_vlt2_shop;VLT 2
+fr_vlt2_0;"<color=#81c3fc>Société des Constructions navales de Meulan</color>
+Vedette Lance Torpille VLT 2"
+fr_vlt2_1;VLT 2
+fr_vlt2_2;Torpedo Boat
+
+fr_elan_class_commandant_domine_shop;Commandant Dominé (F 742)
+fr_elan_class_commandant_domine_0;"<color=#81c3fc>Ateliers et Chantiers Dubigeon <color=@commonTextColor>/</color> La Pallice</color>
+<color=#fffa62>Aviso dragueur de mines de la classe Élan</color>
+Commandant Dominé (F 742)
+<color=#adadad>(1948)</color>"
+fr_elan_class_commandant_domine_1;Commandant Dominé
+fr_elan_class_commandant_domine_2;Minesweeping Aviso
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+fr_frigate_corse_class_brestois_shop;Le Brestois (F 762)
+fr_frigate_corse_class_brestois_0;"<color=#81c3fc>Arsenal de Lorient <color=@commonTextColor>/</color> Arsenal de Toulon</color>
+<color=#fffa62>Escorteur rapide de type E 50</color>
+Le Brestois (F 762)
+<color=#adadad>(1958)</color>"
+fr_frigate_corse_class_brestois_1;Le Brestois
+fr_frigate_corse_class_brestois_2;Fast Escort
+
+fr_frigate_corse_class_corse_shop;Le Corse (F 761)
+fr_frigate_corse_class_corse_0;"<color=#81c3fc>Arsenal de Lorient</color>
+<color=#fffa62>Escorteur rapide de type E 50</color>
+Le Corse (F 761)"
+fr_frigate_corse_class_corse_1;Le Brestois
+fr_frigate_corse_class_corse_2;Fast Escort
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+fr_destroyer_guepard_class_verdun_shop;Verdun (X 33)
+fr_destroyer_guepard_class_verdun_0;"<color=#81c3fc>Ateliers et chantiers de la Loire <color=@commonTextColor>/</color> Arsenal de Sidi-Abdallah</color>
+<color=#fffa62>Contre-torpilleur de la classe Guépard</color>
+Verdun (X 33)
+<color=#adadad>(1941)</color>"
+fr_destroyer_guepard_class_verdun_1;Verdun
+fr_destroyer_guepard_class_verdun_2;Destroyer
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+fr_cruiser_suffren_class_colbert_shop;Colbert
+fr_cruiser_suffren_class_colbert_0;"<color=#81c3fc>Arsenal de Brest <color=@commonTextColor>/</color> Arsenal de Toulon</color>
+<color=#fffa62>Croiseur de 1ère classe de la classe Suffren</color>
+Colbert
+<color=#adadad>(1942)</color>"
+fr_cruiser_suffren_class_colbert_1;Colbert
+fr_cruiser_suffren_class_colbert_2;1st Class Cruiser
+
+fr_cruiser_suffren_class_suffren_shop;Suffren
+fr_cruiser_suffren_class_suffren_0;"<color=#81c3fc>Arsenal de Brest <color=@commonTextColor>/</color> Arsenal de Toulon</color>
+<color=#fffa62>Croiseur de 1ère classe de la classe Suffren</color>
+Suffren
+<color=#adadad>(1945)</color>"
+fr_cruiser_suffren_class_suffren_1;Suffren
+fr_cruiser_suffren_class_suffren_2;1st Class Cruiser
+
+fr_cruiser_suffren_class_dupleix_shop;Dupleix
+fr_cruiser_suffren_class_dupleix_0;"<color=#81c3fc>Arsenal de Brest <color=@commonTextColor>/</color> Arsenal de Toulon</color>
+<color=#fffa62>Croiseur de 1ère classe de la classe Suffren</color>
+Dupleix
+<color=#adadad>(1937)</color>"
+fr_cruiser_suffren_class_dupleix_1;Dupleix
+fr_cruiser_suffren_class_dupleix_2;1st Class Cruiser
+
+fr_cruiser_la_galissoniere_class_la_galissoniere_shop;La Galissonnière
+fr_cruiser_la_galissoniere_class_la_galissoniere_0;"<color=#81c3fc>Arsenal de Brest</color>
+<color=#fffa62>Croiseur léger de la classe La Galissonnière</color>
+La Galissonnière"
+fr_cruiser_la_galissoniere_class_la_galissoniere_1;La Galissonnière
+fr_cruiser_la_galissoniere_class_la_galissoniere_2;Light Cruiser
+
+fr_cruiser_la_galissoniere_class_gloire_shop;Montcalm
+fr_cruiser_la_galissoniere_class_gloire_0;"<color=#81c3fc>Société Nouvelle des Forges et Chantiers de la Méditerranée</color>
+<color=#fffa62>Croiseur léger de la classe La Galissonnière</color>
+Montcalm
+<color=#adadad>(1946)</color>"
+fr_cruiser_la_galissoniere_class_gloire_1;Montcalm
+fr_cruiser_la_galissoniere_class_gloire_2;Light Cruiser
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+fr_battleship_dunkerque_shop;Dunkerque
+fr_battleship_dunkerque_0;"<color=#81c3fc>Arsenal de Brest</color>
+<color=#fffa62>Cuirassé de la Classe Dunkerque</color>
+Dunkerque
+<color=#adadad>(1939)</color>"
+fr_battleship_dunkerque_1;Dunkerque
+fr_battleship_dunkerque_2;Battleship
 
-//FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+fr_battleship_strasbourg_shop;Strasbourg
+fr_battleship_strasbourg_0;"<color=#81c3fc>Ateliers et Chantiers de la Loire</color>
+<color=#fffa62>Cuirassé de la Classe Dunkerque</color>
+Strasbourg
+<color=#adadad>(1942)</color>"
+fr_battleship_strasbourg_1;Strasbourg
+fr_battleship_strasbourg_2;Battleship
+
+//FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+fr_battleship_richelieu_class_richelieu_shop;Richelieu
+fr_battleship_richelieu_class_richelieu_0;"<color=#81c3fc>Arsenal de Brest <color=@commonTextColor>/</color> Brooklyn Navy Yard</color>
+<color=#fffa62>Cuirassé de la Classe Richelieu</color>
+Richelieu
+<color=#adadad>(1943)</color>"
+fr_battleship_richelieu_class_richelieu_1;Richelieu
+fr_battleship_richelieu_class_richelieu_2;Battleship
+
+fr_battleship_richelieu_class_clemenceau_shop;Clemenceau
+fr_battleship_richelieu_class_clemenceau_0;"<color=#81c3fc>Arsenal de Brest</color>
+<color=#fffa62>Cuirassé de la Classe Richelieu</color>
+Clemenceau"
+fr_battleship_richelieu_class_clemenceau_1;Clemenceau
+fr_battleship_richelieu_class_clemenceau_2;Battleship
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+gladiator_j8a_shop;J 8 A
+gladiator_j8a_0;"<color=#81c3fc>Gloster Aircraft Company SS.37</color>
+J 8 A"
+gladiator_j8a_1;J 8 A
+gladiator_j8a_2;J 8 A
+
+gladiator_j8a_iacobi_shop;Iacobi's J 8 A
+gladiator_j8a_iacobi_0;"<color=#81c3fc>Gloster Aircraft Company SS.37</color>
+J 8 A
+<color=@currencyGoldColor>Ian Iacobi's</color>"
+gladiator_j8a_iacobi_1;Iacobi's J 8 A
+gladiator_j8a_iacobi_2;J 8
+
+j6b_shop;J 6 B
+j6b_0;"<color=#81c3fc>Svenska Aero Jaktfalken</color>
+J 6 B"
+j6b_1;J 6 B
+j6b_2;J 6
+
+fiat_cr42_j11_shop;J 11
+fiat_cr42_j11_0;"<color=#81c3fc>Fiat Aviazione</color>
+J 11"
+fiat_cr42_j11_1;J 11
+fiat_cr42_j11_2;J 11
+
+saab_b17bs_shop;S 17 BS
+saab_b17bs_0;"<color=#81c3fc>Saab 17BS</color>
+S 17 BS"
+saab_b17bs_1;S 17 BS
+saab_b17bs_2;S 17
+
+saab_b17b_shop;B 17 B
+saab_b17b_0;"<color=#81c3fc>Saab 17B</color>
+B 17 B"
+saab_b17b_1;B 17 B
+saab_b17b_2;B 17
+
+saab_b17a_shop;B 17 A
+saab_b17a_0;"<color=#81c3fc>Saab 17A</color>
+B 17 A"
+saab_b17a_1;B 17 A
+saab_b17a_2;B 17
+
+he_115a_2_sweden_shop;T 2
+he_115a_2_sweden_0;"<color=#81c3fc>Heinkel Flugzeugwerke</color>
+T 2"
+he_115a_2_sweden_1;T 2
+he_115a_2_sweden_2;T 2
+
+saab_b3c_shop;B 3 C-2
+saab_b3c_0;"<color=#81c3fc>Junkers Flugzeug- und Motorenwerke <color=@commonTextColor>/</color> Saab</color>
+B 3 C-2"
+saab_b3c_1;B 3 C
+saab_b3c_2;B 3
+
+fokker_d21_serie3_finland_shop;FRm sarja I
+fokker_d21_serie3_finland_0;"FRm sarja I ""Ukko-Mokkeri"""
+fokker_d21_serie3_finland_1;FRm
+fokker_d21_serie3_finland_2;FR
+
+fokker_d21_mod20_shop;FR-76 (1937)
+fokker_d21_mod20_0;"FR sarja I ""Ukko-Mokkeri""
+<color=@currencyGoldColor>FR-76</color>
+<color=#adadad>(1937)</color>"
+fokker_d21_mod20_1;FR-76
+fokker_d21_mod20_2;FR
+
+arado-196a-5_shop;AR
+arado-196a-5_0;AR
+arado-196a-5_1;AR
+arado-196a-5_2;AR
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+re_2000_j20_shop;J 20
+re_2000_j20_0;"<color=#81c3fc>Officine Meccaniche Italiane</color>
+J 20"
+re_2000_j20_1;J 20
+re_2000_j20_2;J 20
+
+ffvs_j22_a_shop;J 22-1
+ffvs_j22_a_0;"<color=#81c3fc>Kungliga Flygförvaltningens Flygverkstad i Stockholm</color>
+J 22-1"
+ffvs_j22_a_1;J 22-1
+ffvs_j22_a_2;J 22
+
+ffvs_j22_b_shop;J 22-2
+ffvs_j22_b_0;"<color=#81c3fc>Kungliga Flygförvaltningens Flygverkstad i Stockholm</color>
+J 22-2"
+ffvs_j22_b_1;J 22-2
+ffvs_j22_b_2;J 22
+
+saab_b18a_shop;B 18 A
+saab_b18a_0;"<color=#81c3fc>Saab 18A</color>
+B 18 A"
+saab_b18a_1;B 18 A
+saab_b18a_2;B 18
+
+saab_b18b_shop;B 18 B
+saab_b18b_0;"<color=#81c3fc>Saab 18B</color>
+B 18 B"
+saab_b18b_1;B 18 B
+saab_b18b_2;B 18
+
+saab_t18b_1_shop;T 18 B
+saab_t18b_1_0;"<color=#81c3fc>Saab 18B</color>
+T 18 B"
+saab_t18b_1_1;T 18 B
+saab_t18b_1_2;T 18
+
+saab_t18b_2_shop;T 18 B (57 mm akan m/47)
+saab_t18b_2_0;"<color=#81c3fc>Saab 18B</color>
+T 18 B
+<color=#adadad>(57 mm automatkanon m/47)</color>"
+saab_t18b_2_1;T 18 B
+saab_t18b_2_2;T 18
+
+ju-88a-4_finland_shop;JK (1943)
+ju-88a-4_finland_0;"JK ""Iso Stuka""
+<color=#adadad>(1943)</color>"
+ju-88a-4_finland_1;JK
+ju-88a-4_finland_2;JK
+
+b_239_finland_shop;BW (1943)
+b_239_finland_0;"BW ""Ryysteri""
+<color=#adadad>(1943)</color>"
+b_239_finland_1;BW
+b_239_finland_2;BW
+
+hurricane_mk1_late_finland_shop;HC
+hurricane_mk1_late_finland_0;"HC ""Hurricane"""
+hurricane_mk1_late_finland_1;HC
+hurricane_mk1_late_finland_2;HC
+
+morko_morane_shop;MSv
+morko_morane_0;"MSv ""Mörkö-Morane"""
+morko_morane_1;MSv
+morko_morane_2;MS
+
+j9_early_shop;S 9 C
+j9_early_0;"<color=#81c3fc>Republic Aviation Corporation EP-106</color>
+S 9 C"
+j9_early_1;S 9 C
+j9_early_2;S 9
+
+vl_myrsky_2_late_shop;MY sarja II
+vl_myrsky_2_late_0;"<color=#81c3fc>Valtion lentokonetehdas</color>
+MY sarja II"
+vl_myrsky_2_late_1;MY sarja II
+vl_myrsky_2_late_2;MY
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+mosquito_f_mk2_norway_shop;◢ Mosquito F. Mk. II
+mosquito_f_mk2_norway_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 98</color>
+◢ Mosquito F. Mk. II"
+mosquito_f_mk2_norway_1;◢ Mosquito F. Mk. II
+mosquito_f_mk2_norway_2;◢ Mosquito
+
+mosquito_fb_mk6_norway_shop;◢ Mosquito F.B. Mk. VI
+mosquito_fb_mk6_norway_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 98</color>
+◢ Mosquito F.B. Mk. VI"
+mosquito_fb_mk6_norway_1;◢ Mosquito F.B. Mk. VI
+mosquito_fb_mk6_norway_2;◢ Mosquito
+
+mosquito_fb_mk6_ash_norway_shop;◢ Mosquito F.B. Mk. VI (A.S.V. Mk. IX)
+mosquito_fb_mk6_ash_norway_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 98</color>
+◢ Mosquito F.B. Mk. VI
+<color=#adadad>(A.S.V. Mk. IX)</color>"
+mosquito_fb_mk6_ash_norway_1;◢ Mosquito F.B. Mk. VI
+mosquito_fb_mk6_ash_norway_2;◢ Mosquito
+
+p-51d-20-na_j26_shop;J 26
+p-51d-20-na_j26_0;"<color=#81c3fc>North American Aviation NA-122</color>
+J 26"
+p-51d-20-na_j26_1;J 26
+p-51d-20-na_j26_2;J 26
+
+p-51b_7_sweden_shop;J 26 (26001)
+p-51b_7_sweden_0;"<color=#81c3fc>North American Aviation NA-104</color>
+J 26
+<color=@currencyGoldColor>Upplands flygflottilj (F 16), 26001 ""Vit D""</color>"
+p-51b_7_sweden_1;J 26
+p-51b_7_sweden_2;J 26
+
+pyorremyrsky_shop;PM-1
+pyorremyrsky_0;"<color=#81c3fc>Valtion lentokonetehdas</color>
+PM ""Puu-Mersu""
+<color=@currencyGoldColor>PM-1</color>"
+pyorremyrsky_1;PM-1
+pyorremyrsky_2;PM
+
+mosquito_j30_sweden_shop;J 30
+mosquito_j30_sweden_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 98</color>
+J 30"
+mosquito_j30_sweden_1;J 30
+mosquito_j30_sweden_2;J 30
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+saab_j21a_1_shop;J 21 A-1
+saab_j21a_1_0;"<color=#81c3fc>Saab 21A-1</color>
+J 21 A-1"
+saab_j21a_1_1;J 21 A
+saab_j21a_1_2;J 21
+
+saab_j21a_2_shop;J 21 A-2
+saab_j21a_2_0;"<color=#81c3fc>Saab 21A-2</color>
+J 21 A-2"
+saab_j21a_2_1;J 21 A
+saab_j21a_2_2;J 21
+
+saab_a21a_3_shop;A 21 A-3 (1952)
+saab_a21a_3_0;"<color=#81c3fc>Saab 21A-3</color>
+A 21 A-3
+<color=#adadad>(1952)</color>"
+saab_a21a_3_1;A 21 A
+saab_a21a_3_2;A 21
+
+saab_j21ra_shop;A 21 RA
+saab_j21ra_0;"<color=#81c3fc>Saab 21R</color>
+<color=#919191>J 21 RA</color>
+A 21 RA"
+saab_j21ra_1;A 21 RA
+saab_j21ra_2;A 21
+
+saab_a21rb_shop;A 21 RB
+saab_a21rb_0;"<color=#81c3fc>Saab 21R</color>
+A 21 RB"
+saab_a21rb_1;A 21 RB
+saab_a21rb_2;A 21
+
+bf-109g-2_finland_shop;MT (G-2)
+bf-109g-2_finland_0;"<color=#81c3fc>Messerschmitt</color>
+MT ""Mersu""
+<color=#adadad>(G-2)</color>"
+bf-109g-2_finland_1;MT
+bf-109g-2_finland_2;MT
+
+bf-109g-6_erla_finland_shop;MT (G-6/R6 Erla)
+bf-109g-6_erla_finland_0;"<color=#81c3fc>Messerschmitt</color>
+MT ""Mersu""
+<color=#adadad>(G-6/R6 Erla)</color>"
+bf-109g-6_erla_finland_1;MT (G-6)
+bf-109g-6_erla_finland_2;MT
+
+bf-109g-6_finland_shop;MT (G-6/R6) (Tp)
+bf-109g-6_finland_0;"<color=#81c3fc>Messerschmitt</color>
+MT ""Mersu""
+<color=#adadad>(G-6/R6) (Tropenausrüstung)</color>"
+bf-109g-6_finland_1;MT (G-6)
+bf-109g-6_finland_2;MT
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+saab_j29a_shop;J 29 A (1951)
+saab_j29a_0;"<color=#81c3fc>Saab 29A</color>
+J 29 A Tunnan
+<color=#adadad>(1951)</color>"
+saab_j29a_1;J 29 A
+saab_j29a_2;J 29
+
+saab_j29b_shop;A 29 B
+saab_j29b_0;"<color=#81c3fc>Saab 29B</color>
+A 29 B Tunnan"
+saab_j29b_1;A 29 B
+saab_j29b_2;A 29
+
+saab_j29d_shop;J 29 D (alt. 2)
+saab_j29d_0;"<color=#81c3fc>Saab 29D</color>
+J 29 D Tunnan
+<color=#adadad>(alt. 2)</color>"
+saab_j29d_1;J 29 D
+saab_j29d_2;J 29
+
+saab_j29f_shop;J 29 F
+saab_j29f_0;"<color=#81c3fc>Saab 29F</color>
+J 29 F Tunnan"
+saab_j29f_1;J 29 F
+saab_j29f_2;J 29
+
+saab_sk60b_shop;SK 60 B
+saab_sk60b_0;"<color=#81c3fc>Saab 105</color>
+SK 60 B"
+saab_sk60b_1;SK 60 B
+saab_sk60b_2;SK 60
+
+saab_105g_shop;Saab 105G
+saab_105g_0;<color=#81c3fc>Saab 105G</color>
+saab_105g_1;Saab 105G
+saab_105g_2;Saab 105
+
+saab_105oe_shop;◗ Saab 105Ö
+saab_105oe_0;<color=#81c3fc>◗ Saab 105Ö</color>
+saab_105oe_1;◗ Saab 105Ö
+saab_105oe_2;◗ Saab 105
+
+vampire_fb5_j28b_shop;J 28 B (1953)
+vampire_fb5_j28b_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 100</color>
+J 28 B
+<color=#adadad>(1953)</color>"
+vampire_fb5_j28b_1;J 28 B
+vampire_fb5_j28b_2;J 28
+
+vampire_fb52_finland_shop;VA
+vampire_fb52_finland_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 100</color>
+VA ""Vamppi"""
+vampire_fb52_finland_1;VA
+vampire_fb52_finland_2;VA
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+saab_j32b_shop;J 32 B
+saab_j32b_0;"<color=#81c3fc>Saab 32B</color>
+J 32 B Lansen"
+saab_j32b_1;J 32 B
+saab_j32b_2;J 32
+
+saab_a32a_shop;A 32 A
+saab_a32a_0;"<color=#81c3fc>Saab 32A</color>
+A 32 A Lansen"
+saab_a32a_1;A 32 A
+saab_a32a_2;A 32
+
+saab_a32a_red_adam_shop;A 32 A (F 17)
+saab_a32a_red_adam_0;"<color=#81c3fc>Saab 32A</color>
+A 32 A Lansen
+<color=@currencyGoldColor>Blekinge flygflottilj (F 17)</color>"
+saab_a32a_red_adam_1;A 32 A
+saab_a32a_red_adam_2;A 32
+
+hunter_f50_sweden_shop;J 34
+hunter_f50_sweden_0;"<color=#81c3fc>Hawker Aircraft P.1067</color>
+J 34"
+hunter_f50_sweden_1;J 34
+hunter_f50_sweden_2;J 34
+
+saab_j35a_shop;J 35 A-1
+saab_j35a_0;"<color=#81c3fc>Saab 35</color>
+J 35 A-1 Draken ""Adam kort"""
+saab_j35a_1;J 35 A-1
+saab_j35a_2;J 35
+
+saab_j35d_shop;J 35 D
+saab_j35d_0;"<color=#81c3fc>Saab 35</color>
+J 35 D Draken"
+saab_j35d_1;J 35 D
+saab_j35d_2;J 35
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+f-5ag_norway_shop;◢ F-5A(G)-40-NO (EoT)
+f-5ag_norway_0;"<color=#81c3fc>Northrop Corperation N-156F</color>
+◢ F-5A(G)-40-NO Freedom Fighter
+<color=#adadad>(Eye of the Tiger)</color>"
+f-5ag_norway_1;◢ F-5A
+f-5ag_norway_2;◢ F-5
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 

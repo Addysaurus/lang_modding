@@ -52,32 +52,41 @@ All dates are listed in DD-MM-YYYY format.
         - **J 8 A**: Statcard name → **Gloster Aircraft Company SS.37 | J 8 A**.
         - **Iacobi's J 8 A**: Statcard name → **Gloster Aircraft Company SS.37 | Ian Iacobi's J 8 A**.
         - **J 11**: Statcard name → **Fiat Aviazione | J 11**.
-        - **S 17 BS**: Statcard name → **Saab 17BS | S 17 BS**.
-        - **B 17 B**: Statcard name → **Saab 17B | B 17 B**.
-        - **B 17 A**: Statcard name → **Saab 17A | B 17 A**.
+        - **S 17 BS**: Statcard name → **Saab 17BS | flygplan typ S 17 BS**.
+        - **B 17 B**: Statcard name → **Saab 17B | flygplan typ B 17 B**.
+        - **B 17 A**: Statcard name → **Saab 17A | flygplan typ B 17 A**.
         - **B 3 C-2**: Statcard name → **Junkers Flugzeug- und Motorenwerke / Saab | B 3 C-2**.
-        - **J 20**: Statcard name → **Officine Meccaniche Italiane | J 20**.
-        - **B 18 A**: Statcard name → **Saab 18A | B 18 A**.
-        - **B 18 B**: Statcard name → **Saab 18B | B 18 B**.
-        - **T 18 B**: Statcard name → **Saab 18B | T 18 B**.
-        - **T 18 B (57 mm akan m/47)**: Statcard name → **Saab 18B | T 18 B (57 mm automatkanon m/47)**.
-        - **J 26**: Statcard name → **North American Aviation NA-122 | J 26**.
-        - **J 26 (B-7)** → **J 26 (26001)**. Statcard name → **North American Aviation NA-104 | J 26 (Upplands flygflottilj (F 16), 26001 "Vit D")**.
-        - **J 21 A-1**: Statcard name → **Saab 21A-1 | J 21 A-1**.
-        - **J 21 A-2**: Statcard name → **Saab 21A-2 | J 21 A-2**.
-        - **A 21 A-3 (1952)**: Statcard name → **Saab 21A-3 | A 21 A-3 (1952)**.
-        - **J 29 A** → **J 29 A (1951)**. Statcard name → **Saab 29A | J 29 A Tunnan**.
-        - **A 29 B**: Statcard name → **Saab 29B | A 29 B Tunnan**.
-        - **J 29 D (Alt. 2)** → **J 29 D (alt. 2)**. Statcard name → **Saab 29D | J 29 D Tunnan (alt. 2)**.
-        - **J 29 F**: Statcard name → **Saab 29F | J 29 F Tunnan**.
+        - **J 20**: Statcard name → **Officine Meccaniche Italiane | flygplan typ J 20**.
+        - **J 22-1**: Statcard name → **Kungliga Flygförvaltningens Flygverkstad i Stockholm | flygplan typ J 22-1**.
+        - **J 22-2**: Statcard name → **Kungliga Flygförvaltningens Flygverkstad i Stockholm | flygplan typ J 22-2**.
+        - **B 18 A**: Statcard name → **Saab 18A | flygplan typ B 18 A**.
+        - **B 18 B**: Statcard name → **Saab 18B | flygplan typ B 18 B**.
+        - **T 18 B**: Statcard name → **Saab 18B | flygplan typ T 18 B**.
+        - **T 18 B (57 mm akan m/47)**: Statcard name → **Saab 18B | flygplan typ T 18 B (57 mm automatkanon m/47)**.
+        - **J 26**: Statcard name → **North American Aviation NA-122 | flygplan typ J 26**.
+        - **J 26 (B-7)** → **J 26 (26001)**. Statcard name → **North American Aviation NA-104 | flygplan typ J 26 (Upplands flygflottilj (F 16), 26001 "Vit D")**.
+        - **J 21 A-1**: Statcard name → **Saab 21A-1 | flygplan typ J 21 A-1**.
+        - **J 21 A-2**: Statcard name → **Saab 21A-2 | flygplan typ J 21 A-2**.
+        - **A 21 A-3 (1952)**: Statcard name → **Saab 21A-3 | flygplan typ A 21 A-3 (1952)**.
+        - **J 29 A** → **J 29 A (1951)**. Statcard name → **Saab 29A | flygplan typ J 29 A Tunnan**.
+        - **A 29 B**: Statcard name → **Saab 29B | flygplan typ A 29 B Tunnan**.
+        - **J 29 D (Alt. 2)** → **J 29 D (alt. 2)**. Statcard name → **Saab 29D | flygplan typ J 29 D Tunnan (alt. 2)**.
+        - **J 29 F**: Statcard name → **Saab 29F | flygplan typ J 29 F Tunnan**.
+        - **SK 60 B**: Statcard name → **Saab 105 | flygplan typ SK 60 B**.
         - **Saab 105 G** → **Saab 105G**.
         - **Saab 105 Ö** (Austria) → **Saab 105Ö**.
-        - **J 28 B (1953)**: Statcard name → **de Havilland Aircraft Company D.H. 100 | J 28 B (1953)**.
+        - **J 28 B (1953)**: Statcard name → **de Havilland Aircraft Company D.H. 100 | flygplan typ J 28 B (1953)**.
         - **VA**: Statcard name → **de Havilland Aircraft Company D.H. 100 | VA "Vamppi"**.
-        - **J 32 B**: Statcard name → **Saab 32B | J 32 B Lansen**.
-        - **J 32 A**: Statcard name → **Saab 32A | J 32 A Lansen**.
-        - **J 32 A (F 17)**: Statcard name → **Saab 32A | J 32 A Lansen (Blekinge flygflottilj (F 17))**.
-        - **J 34**: Statcard name → **Hawker Aircraft P.1067 | J 34**.
+        - **J 32 B**: Statcard name → **Saab 32B | flygplan typ J 32 B Lansen**.
+        - **J 32 A**: Statcard name → **Saab 32A | flygplan typ J 32 A Lansen**.
+        - **J 32 A (F 17)**: Statcard name → **Saab 32A | flygplan typ J 32 A Lansen (Blekinge flygflottilj (F 17))**.
+        - **J 34**: Statcard name → **Hawker Aircraft P.1067 | flygplan typ J 34**.
+        - **J 35 A-1** → **J 35 A (kort)**. Statcard name → **Saab 35A | flygplan typ J 35 A Draken "Adam kort"**.
+        - **J 35 D**: Statcard name → **Saab 35D | flygplan typ J 35 D Draken**.
+        - **JA 37 C**: Statcard name → **Saab 37C | flygplan typ JA 37 C Viggen**.
+        - **JA 37 D**: Statcard name → **Saab 37D | flygplan typ JA 37 D Viggen**.
+        - **JA 37 DI**: Statcard name → **Saab 37DI | flygplan typ JA 37 DI Viggen**.
+        - **JA 37 DI (F 21)**: Statcard name → **Saab 37DI | flygplan typ JA 37 DI Viggen (Norrbottens flygflottilj (F 21))**.
 
 ### Weaponry:
 

@@ -22,8 +22,13 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **KV-8**
+
 - #### Changes:
 
+    - **KV-8**: Statcard name → **Kirovskij zavod Narkomata tankovoj promyšlyennosti v gorodye Čyelâbinskye (Zavod № 100) | Ob"yekt 228 | Tank KV-8**.
     - **F6C (1976)** → **F6C (Oct, 1976)**. Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / Guóyíng Sōnglíng Jīxiè Chang | F6C Xíng Fēijī (October, 1976)**.
         - Mandarin package: Statcard name → **Opytno-konstruktorskoye bûro № 155 SM-7/3 / 国营松陵机械厂 | F6C型飞机 (October, 1976)**.
         - Mandarin + Russian package: Statcard name → **Опытно-конструкторское бюро № 155 СМ-7/3 / 国营松陵机械厂 | F6C型飞机 (October, 1976)**.
@@ -49,13 +54,15 @@ All dates are listed in DD-MM-YYYY format.
     - **Jaguar IS (DARIN II)**: Statcard name → **SEPECAT Jaguar IS / Hindustān Ēyronōṭiks Limiṭeḍ | Jaguar DARIN II (Stage 3) "Shamsher"**.
     - **Héja I**: Statcard name → **Officine Meccaniche Italiane / Magyar Királyi Állami Vas-, Acél- és Gépgyárak | Héja I vadászrepülőgép**.
     - Impromptu Swedish air tree rework:
-        - **J 8 A**: Statcard name → **Gloster Aircraft Company SS.37 | J 8 A**.
-        - **Iacobi's J 8 A**: Statcard name → **Gloster Aircraft Company SS.37 | Ian Iacobi's J 8 A**.
-        - **J 11**: Statcard name → **Fiat Aviazione | J 11**.
+        - **J 8 A**: Statcard name → **Gloster Aircraft Company SS.37 | flygplan typ J 8 A**.
+        - **Iacobi's J 8 A**: Statcard name → **Gloster Aircraft Company SS.37 | Ian Iacobi's flygplan typ J 8 A**.
+        - **J 6 B**: Statcard name → **Svenska Aero Jaktfalken | flygplan typ J 6 B**.
+        - **J 11**: Statcard name → **Fiat Aviazione | flygplan typ J 11**.
         - **S 17 BS**: Statcard name → **Saab 17BS | flygplan typ S 17 BS**.
         - **B 17 B**: Statcard name → **Saab 17B | flygplan typ B 17 B**.
         - **B 17 A**: Statcard name → **Saab 17A | flygplan typ B 17 A**.
-        - **B 3 C-2**: Statcard name → **Junkers Flugzeug- und Motorenwerke / Saab | B 3 C-2**.
+        - **T 2**: Statcard name → **Heinkel Flugzeugwerke | flygplan typ T 2**.
+        - **B 3 C-2**: Statcard name → **Junkers Flugzeug- und Motorenwerke / Saab | flygplan typ B 3 C-2**.
         - **J 20**: Statcard name → **Officine Meccaniche Italiane | flygplan typ J 20**.
         - **J 22-1**: Statcard name → **Kungliga Flygförvaltningens Flygverkstad i Stockholm | flygplan typ J 22-1**.
         - **J 22-2**: Statcard name → **Kungliga Flygförvaltningens Flygverkstad i Stockholm | flygplan typ J 22-2**.
@@ -87,24 +94,58 @@ All dates are listed in DD-MM-YYYY format.
         - **JA 37 D**: Statcard name → **Saab 37D | flygplan typ JA 37 D Viggen**.
         - **JA 37 DI**: Statcard name → **Saab 37DI | flygplan typ JA 37 DI Viggen**.
         - **JA 37 DI (F 21)**: Statcard name → **Saab 37DI | flygplan typ JA 37 DI Viggen (Norrbottens flygflottilj (F 21))**.
+        - **AJ 37**: Statcard name → **Saab 37 | flygplan typ AJ 37 Viggen**.
+        - **AJS 37**: Statcard name → **Saab 37 | flygplan typ AJS 37 Viggen**.
+        - **DKS (1993)**: Statcard name → **Saab 35XS / Valmet | DKS "Silitysrauta" (1993)**.
+        - **F-35 (WDNS)**: Statcard name → **Saab 35XD | F-35 Draken (Weapon Delivery and Navigation System)**.
+        - **JAS 39 A (Cobra)**: Statcard name → **Saab 39 Gripen A | flygplan typ JAS 39 A Gripen (Cobra)**.
+        - **JAS 39 C (Cobra)**: Statcard name → **Saab 39 Gripen C | flygplan typ JAS 39 C Gripen (Cobra)**.
+        - **JAS 39 D (Cobra)**: Statcard name → **Saab 39 Gripen D | flygplan typ JAS 39 D Gripen (Cobra)**.
+        - **JAS 39 E**: Statcard name → **Saab 39 Gripen E | flygplan typ JAS 39 E Gripen**.
+    - **Lago I**: Statcard name → **Landsverk Lago I**.
+    - **strv m/42 EH**: Statcard name → **Landsverk Lago IV | stridsvagn m/42 EH**.
+    - **strv m/42 TM (DT)**: Statcard name → **Landsverk Lago II | stridsvagn m/42 TM (Delat Torn)**.
+    - **U SH 405 (204GK)** → **U SH (204GK)**. Statcard name → **Landsverk + Unimog SH (20 mm Belt-Feed Gun Type 204GK)**.
+    - **U SH 405 (Typ 3Z 8DLa)** → **U SH (Typ 3Z 8DLa)**. Statcard name → **Landsverk + Unimog SH (Typ 3Z 8DLa)**.
+    - **Tiger B (Fgst.Nr. 6)** (Sweden): Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit frühem Turm (Sd.Kfz. 182) (Fgst.Nr. 280006) "Königstiger"**.
+    - **Tiger B (Fgst.Nr. 15)**: Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fgst.Nr. 280015)**.
+    - **pbv 302A (Rb 56)** → **pbv 302A (rbs 56)**. Statcard name → **Hägglund & Söner | pansarbandvagn 302A (robotsystem 56)**.
+    - **UDES 33 / pbv 302** (folder) → **UDES 33 / pbv 302A**.
 
 ### Weaponry:
 
 - #### Additions:
 
+    - **ATO-41 Flamethrower**
     - **Drop tank (760 liters)** (forgot to add this for the **F6C** event)
     - **Drop tank (1140 liters)** (forgot to add this for the **F6C** event)
+    - **AGM-22** (new default one)
 
 - #### Changes:
 
+    - **ATO-41 Flamethrower** → **Avtomatičyeskij tankovyj ognyemyet ATO-41**.
     - **Drop tank (760 liters)** → **Drop tank (760 L)**.
     - **Drop tank (1140 liters)** → **"Gondola"**.
+    - **AGM-22**: Statcard name → **Air-Launched, Surface-Attack, Guided Missile, AGM-22**.
 
 ### Menu:
 
 - #### Additions:
 
     - Removed the mouse click to close a statcard tip from the top of the statcard because wtf, it's a terrible and useless tip, no one asked for this and it clutters the statcard.
+
+### Loading screens:
+
+- #### Additions:
+
+    - **F-6C** (forgot to add this for the **F6C** event)
+    - **Spitfire LF Mk.IXc (CW)** (forgot to add this for the **Apollo's Chariot** BP)
+
+- #### Changes:
+
+    - **F-6C** → **F6C (Oct, 1976)**.
+    - **Spitfire LF Mk.IXc (CW)** → **Smyrniotópoulos' Spitfire L.F. Mk. IX (CW)**.
+    - Not a loading screen, but the "The Missile Knows Where It Is" title has been given the full text of that audio because... it was funny. Credit to... *sigh*... MiGoon Fox-3 for this idea.
 
 ## 1.17.03 - 24-04-2026
 

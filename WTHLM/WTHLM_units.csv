@@ -1650,7 +1650,7 @@ shop/group/tiger_group;☨ Tigre HAD/F / HAC
 shop/group/fr_vtb_group;VTB 8 / 11 / 14
 
 shop/group/sw_pvkv_ikv_group;pvkv m/43 / ikv 103
-shop/group/sw_udes_pbv_group;UDES 33 / pbv 302
+shop/group/sw_udes_pbv_group;UDES 33 / pbv 302A
 shop/group/sw_t_34_pz_4_group;26 psv T 34 / 25 psv PZ IV
 shop/group/sw_pt_76_comet_group;▄ PT-76 / psv Comet
 shop/group/sw_cv_90_ifv_group;rpsv CV9030 / strf 9040B
@@ -5164,6 +5164,22 @@ germ_kv_1B_finland_1;▀ 44 psv KW 1 B
 germ_kv_1B_finland_2;▀ Heavy Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger B (Fgst.Nr. 15)
+germ_pzkpfw_VI_ausf_b_tiger_IIp_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fgst.Nr. 280015)
+germ_pzkpfw_VI_ausf_b_tiger_IIp_1;Tiger B
+germ_pzkpfw_VI_ausf_b_tiger_IIp_2;Heavy Tank
+germ_pzkpfw_VI_ausf_b_tiger_IIh_shop;Tiger B (Serien-Turm)
+germ_pzkpfw_VI_ausf_b_tiger_IIh_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit Serien-Turm (Sd.Kfz. 182)
+germ_pzkpfw_VI_ausf_b_tiger_IIh_1;Tiger B
+germ_pzkpfw_VI_ausf_b_tiger_IIh_2;Heavy Tank
+germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_shop;Tiger B (Sla. 16)
+germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit SGP Sla. 16 (Sd.Kfz. 182)
+germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_1;Tiger B
+germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_2;Heavy Tank
+germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_shop;Tiger B (10,5cm Kw.K.)
+germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68 (Sd.Kfz. 182)
+germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_1;Tiger B
+germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_2;Heavy Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 germ_leopard_a1a1_120_shop;Leopard 1 (MPI)
@@ -5466,6 +5482,10 @@ ussr_garford_putilov_1;Garford
 ussr_garford_putilov_2;Armored Car
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+ussr_kv_8_shop;KV-8
+ussr_kv_8_0;"Kirovskij zavod Narkomata tankovoj promyšlyennosti v gorodye Čyelâbinskye (Zavod № 100) | Ob""yekt 228 | Tank KV-8"
+ussr_kv_8_1;KV-8
+ussr_kv_8_2;Heavy Tank
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 ussr_t_34_85_zis_53_v80_shop;T-34-85 (Sep, 1944) (64-â Gv.T.Br.)
@@ -9574,19 +9594,19 @@ fr_battleship_richelieu_class_clemenceau_2;Battleship
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 gladiator_j8a_shop;J 8 A
-gladiator_j8a_0;Gloster Aircraft Company SS.37 | J 8 A
+gladiator_j8a_0;Gloster Aircraft Company SS.37 | flygplan typ J 8 A
 gladiator_j8a_1;J 8 A
 gladiator_j8a_2;J 8 A
 gladiator_j8a_iacobi_shop;Iacobi's J 8 A
-gladiator_j8a_iacobi_0;Gloster Aircraft Company SS.37 | Ian Iacobi's J 8 A
+gladiator_j8a_iacobi_0;Gloster Aircraft Company SS.37 | Ian Iacobi's flygplan typ J 8 A
 gladiator_j8a_iacobi_1;Iacobi's J 8 A
 gladiator_j8a_iacobi_2;J 8
 j6b_shop;J 6 B
-j6b_0;Svenska Aero Jaktfalken | J 6 B
+j6b_0;Svenska Aero Jaktfalken | flygplan typ J 6 B
 j6b_1;J 6 B
 j6b_2;J 6
 fiat_cr42_j11_shop;J 11
-fiat_cr42_j11_0;Fiat Aviazione | J 11
+fiat_cr42_j11_0;Fiat Aviazione | flygplan typ J 11
 fiat_cr42_j11_1;J 11
 fiat_cr42_j11_2;J 11
 saab_b17bs_shop;S 17 BS
@@ -9602,11 +9622,11 @@ saab_b17a_0;Saab 17A | flygplan typ B 17 A
 saab_b17a_1;B 17 A
 saab_b17a_2;B 17
 he_115a_2_sweden_shop;T 2
-he_115a_2_sweden_0;Heinkel Flugzeugwerke | T 2
+he_115a_2_sweden_0;Heinkel Flugzeugwerke | flygplan typ T 2
 he_115a_2_sweden_1;T 2
 he_115a_2_sweden_2;T 2
 saab_b3c_shop;B 3 C-2
-saab_b3c_0;Junkers Flugzeug- und Motorenwerke / Saab | B 3 C-2
+saab_b3c_0;Junkers Flugzeug- und Motorenwerke / Saab | flygplan typ B 3 C-2
 saab_b3c_1;B 3 C
 saab_b3c_2;B 3
 fokker_d21_serie3_finland_shop;FRm sarja I
@@ -9668,7 +9688,7 @@ morko_morane_0;"MSv ""Mörkö-Morane"""
 morko_morane_1;MSv
 morko_morane_2;MS
 j9_early_shop;S 9 C
-j9_early_0;Republic Aviation Corporation EP-106 | S 9 C
+j9_early_0;Republic Aviation Corporation EP-106 | flygplan typ S 9 C
 j9_early_1;S 9 C
 j9_early_2;S 9
 vl_myrsky_2_late_shop;MY sarja II
@@ -9819,10 +9839,22 @@ saab_ja37di_f21_shop;JA 37 DI (F 21)
 saab_ja37di_f21_0;Saab 37DI | flygplan typ JA 37 DI Viggen (Norrbottens flygflottilj (F 21))
 saab_ja37di_f21_1;JA 37 DI
 saab_ja37di_f21_2;JA 37
+saab_aj37_shop;AJ 37
+saab_aj37_0;Saab 37 | flygplan typ AJ 37 Viggen
+saab_aj37_1;AJ 37
+saab_aj37_2;AJ 37
+saab_ajs37_shop;AJS 37
+saab_ajs37_0;Saab 37 | flygplan typ AJS 37 Viggen
+saab_ajs37_1;AJS 37
+saab_ajs37_2;AJS 37
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+saab_j35xs_shop;DKS (1993)
+saab_j35xs_0;"Saab 35XS / Valmet | DKS ""Silitysrauta"" (1993)"
+saab_j35xs_1;DKS
+saab_j35xs_2;DK
 saab_f35_wdns_shop;♔ F-35 (WDNS)
-saab_f35_wdns_0;♔ Saab 35 XD | F-35 Draken (Weapon Delivery and Navigation System)
+saab_f35_wdns_0;♔ Saab 35XD | F-35 Draken (Weapon Delivery and Navigation System)
 saab_f35_wdns_1;♔ F-35
 saab_f35_wdns_2;♔ F-35
 f-5ag_norway_shop;◢ F-5A(G)-40-NO (EoT)
@@ -9832,19 +9864,19 @@ f-5ag_norway_2;◢ F-5
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 saab_jas39a_shop;JAS 39 A (Cobra)
-saab_jas39a_0;Saab 39 Gripen A | JAS 39 A Gripen (Cobra)
+saab_jas39a_0;Saab 39 Gripen A | flygplan typ JAS 39 A Gripen (Cobra)
 saab_jas39a_1;JAS 39 A
 saab_jas39a_2;JAS 39
 saab_jas39c_shop;JAS 39 C (Cobra)
-saab_jas39c_0;Saab 39 Gripen C | JAS 39 C Gripen (Cobra)
+saab_jas39c_0;Saab 39 Gripen C | flygplan typ JAS 39 C Gripen (Cobra)
 saab_jas39c_1;JAS 39 C
 saab_jas39c_2;JAS 39
 saab_jas39d_shop;JAS 39 D (Cobra)
-saab_jas39d_0;Saab 39 Gripen D | JAS 39 D Gripen (Cobra)
+saab_jas39d_0;Saab 39 Gripen D | flygplan typ JAS 39 D Gripen (Cobra)
 saab_jas39d_1;JAS 39 D
 saab_jas39d_2;JAS 39
 saab_jas39e_shop;JAS 39 E
-saab_jas39e_0;Saab 39 Gripen E | JAS 39 E Gripen
+saab_jas39e_0;Saab 39 Gripen E | flygplan typ JAS 39 E Gripen
 saab_jas39e_1;JAS 39 E
 saab_jas39e_2;JAS 39
 f_16a_block_10_norway_shop;◢ F-16A-10-CF
@@ -9865,46 +9897,214 @@ fa_18c_mlu_2_finland_1;HN
 fa_18c_mlu_2_finland_2;HN
 
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+hkp3c_shop;hkp 3C
+hkp3c_0;Agusta 204B | helikopter 3C
+hkp3c_1;hkp 3C
+hkp3c_2;hkp 3
+hkp2_shop;hkp 2
+hkp2_0;Sud-Aviation | helikopter 2
+hkp2_1;hkp 2
+hkp2_2;hkp 2
 
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+hkp9a_cb2_shop;hkp 9A (HeliTOW)
+hkp9a_cb2_0;Messerschmitt-Bölkow-Blohm / Försökscentralen | helikopter 9A (HeliTOW)
+hkp9a_cb2_1;hkp 9A
+hkp9a_cb2_2;hkp 9
+hkp9a_cb3_fc_shop;hkp 9A
+hkp9a_cb3_fc_0;Messerschmitt-Bölkow-Blohm | helikopter 9A
+hkp9a_cb3_fc_1;hkp 9A
+hkp9a_cb3_fc_2;hkp 9
+mi_28a_sweden_shop;♛ Mi-28A
+mi_28a_sweden_0;♛ Mi-28A
+mi_28a_sweden_1;♛ Mi-28A
+mi_28a_sweden_2;♛ Mi-28
 
 //SWEDEN HELICOPTERS - VEHICLE/FAMILY START: RANK 7
+ahs_shop;♛ AH-64A
+ahs_0;♛ McDonnell Douglas Helicopter Systems | AH-64A
+ahs_1;♛ AH-64A
+ahs_2;♛ AH-64
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+sw_bt_42_shop;15 ryn.tyk.psv./BT42
+sw_bt_42_0;Ps. 511 | 15 tonnin rynnäkkötykkipanssarivaunu mallia BT42
+sw_bt_42_1;15 ryn.tyk.psv./BT42
+sw_bt_42_2;SPH
+sw_vickers_mk_e_37_shop;Vickers Mk. E (37 psv.k/36)
+sw_vickers_mk_e_37_0;Vickers Mk. E, Type B (37 psv.k/36)
+sw_vickers_mk_e_37_1;Vickers Mk. E
+sw_vickers_mk_e_37_2;Light Tank
+sw_t_28_shop;28 psv T 28 (1938)
+sw_t_28_0;Ps. 241 | 28 tonnin panssarivaunu T 28 (1938)
+sw_t_28_1;28 psv T 28
+sw_t_28_2;Medium Tank
+sw_vickers_mk_e_45_shop;9 psv T 26 E
+sw_vickers_mk_e_45_0;Ps. 161 | 9 tonnin panssarivaunu T 26 Englantilainen
+sw_vickers_mk_e_45_1;9 psv T 26 E
+sw_vickers_mk_e_45_2;Light Tank
+
+//SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+sw_lago_1_shop;Lago I
+sw_lago_1_0;Landsverk Lago I
+sw_lago_1_1;Lago I
+sw_lago_1_2;Medium Tank
+sw_strv_m42_eh_shop;strv m/42 EH
+sw_strv_m42_eh_0;Landsverk Lago IV | stridsvagn m/42 EH
+sw_strv_m42_eh_1;strv m/42
+sw_strv_m42_eh_2;Medium Tank
+sw_strv_m42_delat_torn_shop;strv m/42 TM (DT)
+sw_strv_m42_delat_torn_0;Landsverk Lago II | stridsvagn m/42 TM (Delat Torn)
+sw_strv_m42_delat_torn_1;strv m/42 (DT)
+sw_strv_m42_delat_torn_2;Medium Tank
 sw_t_50_fin_shop;15 psv T 50
 sw_t_50_fin_0;"Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova | Ps. 183-1 | 15 tonnin panssarivaunu T 50 ""Pikku-Sotka"""
 sw_t_50_fin_1;15 psv T 50
 sw_t_50_fin_2;Light Tank
-
-//SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 sw_m24_chaffee_dk_shop;♔ M24
 sw_m24_chaffee_dk_0;♔ Cadillac Motor Car Division | Tank, Light, M24 Chaffee
 sw_m24_chaffee_dk_1;♔ M24
 sw_m24_chaffee_dk_2;Light Tank
+sw_l_62_anti_II_shop;10 it.psv./Anti
+sw_l_62_anti_II_0;Ps. 455 | 10 tonnin ilmatorjuntapanssarivaunu mallia Anti
+sw_l_62_anti_II_1;10 it.psv./Anti
+sw_l_62_anti_II_2;SPAAG
+sw_t_34_1941_shop;26 psv T 34 B
+sw_t_34_1941_0;"Ps. 231 | 26 tonnin panssarivaunu T 34 B ""Sotka"""
+sw_t_34_1941_1;26 psv T 34 B
+sw_t_34_1941_2;Medium Tank
+sw_pzkpfw_IV_ausf_J_shop;25 psv PZ IV
+sw_pzkpfw_IV_ausf_J_0;Ps. 221 | 25 tonnin panssarivaunu PZ IV
+sw_pzkpfw_IV_ausf_J_1;25 psv PZ IV
+sw_pzkpfw_IV_ausf_J_2;Medium Tank
+sw_pt_76b_shop;▄ PT-76
+sw_pt_76b_0;▄ Ps. 141 | PT-76
+sw_pt_76b_1;▄ PT-76
+sw_pt_76b_2;Light Tank
+sw_a_34_comet_shop;psv Comet
+sw_a_34_comet_0;Ps. 252 | panssarivaunu Comet
+sw_a_34_comet_1;psv Comet
+sw_a_34_comet_2;Medium Tank
 sw_kv_1_1942_fin_shop;44 psv KW 1 A
 sw_kv_1_1942_fin_0;"Kirovskij zavod | Ps. 271-1 | 44 tonnin panssarivaunu KW 1 A ""Klimi"""
 sw_kv_1_1942_fin_1;44 psv KW 1 A
 sw_kv_1_1942_fin_2;Heavy Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+sw_landsverk_ush_204_gk_shop;U SH (204GK)
+sw_landsverk_ush_204_gk_0;Landsverk + Unimog SH (20 mm Belt-Feed Gun Type 204GK)
+sw_landsverk_ush_204_gk_shop;U SH (204GK)
+sw_landsverk_ush_204_gk_2;SPAA
+sw_landsverk_ush_405_shop;U SH (Typ 3Z 8DLa)
+sw_landsverk_ush_405_0;Landsverk + Unimog SH (Typ 3Z 8DLa)
+sw_landsverk_ush_405_1;U SH (Typ 3Z 8DLa)
+sw_landsverk_ush_405_2;MLRS
+sw_kungstiger_shop;♛ Tiger B (Fgst.Nr. 6)
+sw_kungstiger_0;"♛ Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit frühem Turm (Sd.Kfz. 182) (Fgst.Nr. 280006) ""Königstiger"""
+sw_kungstiger_1;♛ Tiger B
+sw_kungstiger_2;Heavy Tank
+sw_t_34_85_zis_53_shop;31 psv T 34/85
+sw_t_34_85_zis_53_0;"Ps. 245 | 31 tonnin panssarivaunu T 34/85 ""Pitkäputkinen Sotka"""
+sw_t_34_85_zis_53_1;31 psv T 34/85
+sw_t_34_85_zis_53_2;Medium Tank
+sw_charioteer_mk_7_shop;tstpsv Charioteer
+sw_charioteer_mk_7_0;Ps. 251 | taistelupanssarivaunu Charioteer
+sw_charioteer_mk_7_1;tstpsv Charioteer
+sw_charioteer_mk_7_2;Medium Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+sw_zsu_57_2_shop;itpsv SU-57-2
+sw_zsu_57_2_0;Ps. 461 | ilmatorjuntapanssarivaunu SU-57-2
+sw_zsu_57_2_1;itpsv SU-57-2
+sw_zsu_57_2_2;SPAAG
+sw_t_54_1951_shop;tstpsv T 54
+sw_t_54_1951_0;Ps. 261 | taistelupanssarivaunu T 54
+sw_t_54_1951_1;tstpsv T 54
+sw_t_54_1951_2;Medium Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 sw_cv_90105_shop;CV90105 (TML 105)
 sw_cv_90105_0;Hägglund & Söner + GIAT Industries Combat Vehicle 90105 (TML 105)
 sw_cv_90105_1;CV90105
 sw_cv_90105_2;Light Tank
+sw_cv_9030_fin_shop;rpsv CV9030
+sw_cv_9030_fin_0;Ps. 171 | rynnäkköpanssarivaunu CV9030
+sw_cv_9030_fin_1;rpsv CV9030
+sw_cv_9030_fin_2;IFV
+sw_itpsv_90_shop;itpsv 90
+sw_itpsv_90_0;Ps. 473 | ilmatorjuntapanssarivaunu 90
+sw_itpsv_90_1;itpsv 90
+sw_itpsv_90_2;SPAAG
+sw_pbv_302_bill_shop;pbv 302A (rbs 56)
+sw_pbv_302_bill_0;Hägglund & Söner | pansarbandvagn 302A (robotsystem 56)
+sw_pbv_302_bill_1;pbv 302A (rbs 56)
+sw_pbv_302_bill_2;ATMC
+sw_t_55m_shop;tstpsv T 55M
+sw_t_55m_0;Ps. 262 | taistelupanssarivaunu T 55M
+sw_t_55m_1;tstpsv T 55M
+sw_t_55m_2;Medium Tank
+sw_t_72m1_shop;tstpsv T 72M1
+sw_t_72m1_0;Ps. 264 | taistelupanssarivaunu T 72M1
+sw_t_72m1_1;tstpsv T 72M1
+sw_t_72m1_2;MBT
+sw_cv_9035_dk_shop;IKK 9035
+sw_cv_9035_dk_0;infanterikampkøretøj 9035
+sw_cv_9035_dk_1;IKK 9035
+sw_cv_9035_dk_2;Light Tank
+sw_bmp_2md_shop;rpsv BMP-2MD
+sw_bmp_2md_0;Ps. 153 | rynnäkköpanssarivaunu BMP-2MD
+sw_bmp_2md_1;rpsv BMP-2MD
+sw_bmp_2md_2;IFV
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+sw_asrad_r_shop;♛ M113A2 (ASRAD-R)
+sw_asrad_r_0;♛ M113A2 (Advanced Short Range Air Defence System - RBS)
+sw_asrad_r_1;♛ M113 (ASRAD-R)
+sw_asrad_r_2;SPAA
+sw_strf_9056_shop;strf 9040A (rbs 56)
+sw_strf_9056_0;stridsfordon 9040A (robotsystem 56)
+sw_strf_9056_1;strf 9040A
+sw_strf_9056_2;IFV
+sw_leopard_2a4_fin_shop;tstpsv Leopard 2A4
+sw_leopard_2a4_fin_0;Krauss-Maffei Wegmann | Ps. 273 | taistelupanssarivaunu Leopard 2A4
+sw_leopard_2a4_fin_1;tstpsv Leopard 2A4
+sw_leopard_2a4_fin_2;MBT
+sw_leopard_2a6nl_shop;tstpsv Leopard 2A6
+sw_leopard_2a6nl_0;Krauss-Maffei Wegmann | Ps. 274 | taistelupanssarivaunu Leopard 2A6
+sw_leopard_2a6nl_1;tstpsv Leopard 2A6
+sw_leopard_2a6nl_2;MBT
+sw_cv_90105_tml_shop;CV90105 (XC-8 105HP)
+sw_cv_90105_tml_0;Combat Vehicle 90105 (XC-8 105HP)
+sw_cv_90105_tml_1;CV90105
+sw_cv_90105_tml_2;Light Tank
+sw_patria_amv_ctcv_105_shop;AMV HWP (CT-CV 105HP)
+sw_patria_amv_ctcv_105_0;Patria Advanced Modular Vehicle Heavy Weapon Platform (Cockerill CT-CV 105HP)
+sw_patria_amv_ctcv_105_1;AMV HWP
+sw_patria_amv_ctcv_105_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 sw_cv_90120_shop;CV90120-T
 sw_cv_90120_0;BAE Systems Hägglunds Combat Vehicle 90120-T
 sw_cv_90120_1;CV90120-T
 sw_cv_90120_2;Light Tank
+sw_strv_122_shop;strv 122A
+sw_strv_122_0;stridsvagn 122A
+sw_strv_122_1;strv 122A
+sw_strv_122_2;MBT
+sw_strv_122b_plss_shop;strv 122B (PLSS)
+sw_strv_122b_plss_0;stridsvagn 122B (Panoramic Low-Signature Sight)
+sw_strv_122b_plss_1;strv 122B
+sw_strv_122b_plss_2;MBT
+sw_strv_122b_plus_shop;strv 122B+
+sw_strv_122b_plus_0;Åkers Krutbruk Protection MBT 122B Evolution | stridsvagn 122B+
+sw_strv_122b_plus_1;strv 122B
+sw_strv_122b_plus_2;MBT
+sw_crotale_ng_shop;ito 90M ohjusvaunu
+sw_crotale_ng_0;Ps. 477 | ilmatorjuntaohjus 90M ohjusvaunu XA-181
+sw_crotale_ng_1;ito 90M ohjusvaunu
+sw_crotale_ng_2;SPAAM
 sw_eldenhet_98_shop;elde 98 (Giraffe 1X)
 sw_eldenhet_98_0;BAE Systems Hägglunds | eldenhet 98 (Giraffe 1X)
 sw_eldenhet_98_1;elde 98
@@ -9917,6 +10117,14 @@ sw_nasams_launcher_shop;◢ P113H 380 (NASAMS 3)
 sw_nasams_launcher_0;◢ Scania 3-Series P113H 380 6x2 (Norwegian Advanced Surface-to-Air Missile System 3)
 sw_nasams_launcher_1;◢ P113H 380 (NASAMS 3)
 sw_nasams_launcher_2;SPAAM
+sw_cv_90_mk4_shop;CV90 MkIV (E30)
+sw_cv_90_mk4_0;BAE Systems Hägglunds Combat Vehicle 90 MkIV (E30)
+sw_cv_90_mk4_1;CV90 MkIV
+sw_cv_90_mk4_2;IFV
+sw_t_80u_shop;♛ T 80 U
+sw_t_80u_0;♛ T 80 U
+sw_t_80u_1;♛ T 80 U
+sw_t_80u_2;MBT
 
 //SWEDEN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 
@@ -10965,22 +11173,6 @@ germ_pzkpfw_Maus_shop;Maus
 germ_pzkpfw_Maus_0;Panzerkampfwagen Maus, Vs.-Fgst.Nr. 2
 germ_pzkpfw_Maus_1;Maus
 germ_pzkpfw_Maus_2;Heavy Tank
-germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger B (Fgst.Nr. 15)
-germ_pzkpfw_VI_ausf_b_tiger_IIp_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fahrgestell Nummer 280015)
-germ_pzkpfw_VI_ausf_b_tiger_IIp_1;Tiger B
-germ_pzkpfw_VI_ausf_b_tiger_IIp_2;Heavy Tank
-germ_pzkpfw_VI_ausf_b_tiger_IIh_shop;Tiger B (Serien-Turm)
-germ_pzkpfw_VI_ausf_b_tiger_IIh_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit Serien-Turm (Sd.Kfz. 182)
-germ_pzkpfw_VI_ausf_b_tiger_IIh_1;Tiger B
-germ_pzkpfw_VI_ausf_b_tiger_IIh_2;Heavy Tank
-germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_shop;Tiger B (Sla. 16)
-germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit SGP Sla. 16 (Sd.Kfz. 182)
-germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_1;Tiger B
-germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_2;Heavy Tank
-germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_shop;Tiger B (10,5cm Kw.K.)
-germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68 (Sd.Kfz. 182)
-germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_1;Tiger B
-germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_2;Heavy Tank
 germ_panzerjager_tiger_P_elefant_shop;Elefant
 germ_panzerjager_tiger_P_elefant_0;Panzerjäger Tiger (P) Elefant
 germ_panzerjager_tiger_P_elefant_1;Elefant
@@ -12361,10 +12553,6 @@ f-104g_belgium_shop;▄ F-104G
 f-104g_belgium_0;▄ F-104G Starfighter
 f-104g_belgium_1;▄ F-104G
 f-104g_belgium_2;▄ F-104
-ahs_shop;♛ AH-64A
-ahs_0;♛ McDonnell Douglas Helicopter Systems | AH-64A
-ahs_1;♛ AH-64A
-ahs_2;♛ AH-64
 saab_jas39c_south_africa_shop;▄ Gripen C (Cobra)
 saab_jas39c_south_africa_0;▄ Saab 39 Gripen C (Cobra)
 saab_jas39c_south_africa_1;▄ Gripen C
@@ -12373,14 +12561,6 @@ saab_jas39c_south_africa_missile_test_shop;▄ Gripen C (Cobra)
 saab_jas39c_south_africa_missile_test_0;▄ Saab 39 Gripen C (Cobra)
 saab_jas39c_south_africa_missile_test_1;▄ Gripen C
 saab_jas39c_south_africa__missile_test2;▄ Gripen
-saab_aj37_shop;AJ 37
-saab_aj37_0;Saab 37 | AJ 37 Viggen
-saab_aj37_1;AJ 37
-saab_aj37_2;AJ 37
-saab_ajs37_shop;AJS 37
-saab_ajs37_0;Saab 37 | AJS 37 Viggen
-saab_ajs37_1;AJS 37
-saab_ajs37_2;AJS 37
 f-8e_fn_shop;☨ F-8E(FN)
 f-8e_fn_0;☨ F-8E(FN) Crusader
 f-8e_fn_1;☨ F-8E
@@ -13946,23 +14126,19 @@ germ_mkpz_m48a2ga2_2;MBT
 ussr_bmp_2m_shop;BMP-2M
 ussr_bmp_2m_0;"Ob""yekt 675 | BMP-2M obr. 2005 g."
 ussr_bmp_2m_1;BMP-2
-ussr_bmp_2m_2;Light Tank
+ussr_bmp_2m_2;IFV
 ussr_bmp_2_shop;BMP-2D
 ussr_bmp_2_0;"Ob""yekt 675 | BMP-2D obr. 1982 g."
 ussr_bmp_2_1;BMP-2
-ussr_bmp_2_2;Light Tank
+ussr_bmp_2_2;IFV
 ussr_bmp_3_shop;BMP-3
 ussr_bmp_3_0;"Ob""yekt 688A | BMP-3 obr. 2017 g."
 ussr_bmp_3_1;BMP-3
-ussr_bmp_3_2;Light Tank
-sw_bmp_2md_shop;rpsv BMP-2MD
-sw_bmp_2md_0;Ps. 153 | rynnäkköpanssarivaunu BMP-2MD
-sw_bmp_2md_1;rpsv BMP-2MD
-sw_bmp_2md_2;IFV
+ussr_bmp_3_2;IFV
 ussr_2s38_shop;2S38
 ussr_2s38_0;"2S38 ""Dyerivacziâ-PVO"""
 ussr_2s38_1;2S38
-ussr_2s38_2;Light Tank
+ussr_2s38_2;IFV
 fr_bat_chat_25t_shop;Char 25t
 fr_bat_chat_25t_0;Batignolles-Châtillon Char de 25 tonnes
 fr_bat_chat_25t_1;Char 25t
@@ -13986,19 +14162,19 @@ germ_leopard_2_pt14_2;MBT
 it_vcc_80_hitfist_60_shop;VCC-80 Dardo (60/70)
 it_vcc_80_hitfist_60_0;Veicolo Cingolato da Combattimento 80 Dardo da 60/70
 it_vcc_80_hitfist_60_1;Dardo
-it_vcc_80_hitfist_60_2;Light Tank
+it_vcc_80_hitfist_60_2;IFV
 it_vcc_80_hitfist_30_shop;VCC-80 Dardo (HITFIST 30)
 it_vcc_80_hitfist_30_0;Veicolo Cingolato da Combattimento 80 Dardo con sistema d'arma Leonardo HITFIST 30
 it_vcc_80_hitfist_30_1;Dardo
-it_vcc_80_hitfist_30_2;Light Tank
+it_vcc_80_hitfist_30_2;IFV
 it_dardo_vcc_shop;VCC-80 Dardo
 it_dardo_vcc_0;Veicolo Cingolato da Combattimento 80 Dardo
 it_dardo_vcc_1;Dardo
-it_dardo_vcc_2;Light Tank
+it_dardo_vcc_2;IFV
 it_vbc_pt2_shop;VBC Centauro PT 2
 it_vbc_pt2_0;Veicolo Blindato da Combattimento Centauro Prototipo 2
 it_vbc_pt2_1;VBC Centauro
-it_vbc_pt2_2;Light Tank
+it_vbc_pt2_2;IFV
 it_vrcc_centauro_shop;VRCC Centauro
 it_vrcc_centauro_0;Vehículo de Reconocimiento y Combate de Caballería Centauro
 it_vrcc_centauro_1;VRCC Centauro
@@ -14331,22 +14507,6 @@ mi_35m_pakistan_shop;☪ Mi-35M3
 mi_35m_pakistan_0;☪ Mi-35M3
 mi_35m_pakistan_1;☪ Mi-35M
 mi_35m_pakistan_2;☪ Mi-35
-hkp2_shop;hkp 2
-hkp2_0;Sud-Aviation | helikopter 2
-hkp2_1;hkp 2
-hkp2_2;hkp 2
-hkp3c_shop;hkp 3C
-hkp3c_0;Agusta 204B | helikopter 3C
-hkp3c_1;hkp 3C
-hkp3c_2;hkp 3
-hkp9a_cb2_shop;hkp 9A (HeliTOW)
-hkp9a_cb2_0;Messerschmitt-Bölkow-Blohm / Försökscentralen | helikopter 9A (HeliTOW)
-hkp9a_cb2_1;hkp 9A
-hkp9a_cb2_2;hkp 9
-hkp9a_cb3_fc_shop;hkp 9A
-hkp9a_cb3_fc_0;Messerschmitt-Bölkow-Blohm | helikopter 9A
-hkp9a_cb3_fc_1;hkp 9A
-hkp9a_cb3_fc_2;hkp 9
 mb_175t_shop;M.B.175T
 mb_175t_0;M.B.175T
 mb_175t_1;M.B.175T
@@ -14691,10 +14851,6 @@ ka_52_shop;Ka-52
 ka_52_0;Ka-52 Alligator
 ka_52_1;Ka-52
 ka_52_2;Ka-52
-mi_28a_sweden_shop;♛ Mi-28A
-mi_28a_sweden_0;♛ Mi-28A
-mi_28a_sweden_1;♛ Mi-28A
-mi_28a_sweden_2;♛ Mi-28
 mi_28n_shop;Mi-28N
 mi_28n_0;Mi-28N
 mi_28n_1;Mi-28N
@@ -14727,10 +14883,6 @@ ab_205a_1_shop;UH-205A
 ab_205a_1_0;AB205A | UH-205A
 ab_205a_1_1;UH-205A
 ab_205a_1_2;UH-205
-saab_j35xs_shop;DKS (1993)
-saab_j35xs_0;"Saab 35 XS / Valmet | DKS ""Silitysrauta"" (1993)"
-saab_j35xs_1;DKS
-saab_j35xs_2;DK
 tis_ma_shop;TIS (MA)
 tis_ma_0;TIS (MA)
 tis_ma_1;TIS (MA)
@@ -14922,18 +15074,6 @@ germ_begleitpanzer_57_shop;Begleit-Pz 57 mm
 germ_begleitpanzer_57_0;Thyssen Henschel + Bofors Begleitpanzer 57 mm
 germ_begleitpanzer_57_1;Begleit-Pz 57 mm
 germ_begleitpanzer_57_2;IFV
-sw_bt_42_shop;15 ryn.tyk.psv./BT42
-sw_bt_42_0;Ps. 511 | 15 tonnin rynnäkkötykkipanssarivaunu mallia BT42
-sw_bt_42_1;15 ryn.tyk.psv./BT42
-sw_bt_42_2;SPG
-sw_vickers_mk_e_45_shop;9 psv T 26 E
-sw_vickers_mk_e_45_0;Ps. 161 | 9 tonnin panssarivaunu T 26 Englantilainen
-sw_vickers_mk_e_45_1;9 psv T 26 E
-sw_vickers_mk_e_45_2;Light Tank
-sw_vickers_mk_e_37_shop;Vickers Mk. E (37 psv.k/36)
-sw_vickers_mk_e_37_0;Vickers Mk. E, Type B (37 psv.k/36)
-sw_vickers_mk_e_37_1;Vickers Mk. E
-sw_vickers_mk_e_37_2;Light Tank
 sw_pbil_m40_shop;pbil m/40
 sw_pbil_m40_0;pansarbil m/40
 sw_pbil_m40_1;pbil m/40
@@ -14990,10 +15130,6 @@ sw_strv_103c_shop;strv 103С
 sw_strv_103c_0;stridsvagn 103C
 sw_strv_103c_1;strv 103С
 sw_strv_103c_2;MBT
-sw_landsverk_ush_405_shop;U SH 405 (Typ 3Z 8DLa)
-sw_landsverk_ush_405_0;Aktiebolaget Landsverk + Unimog SH Typ 405.110 (Typ 3Z 8DLa)
-sw_landsverk_ush_405_1;U SH 405
-sw_landsverk_ush_405_2;Light Tank
 sw_strv121b_christian2_shop;strv 121B
 sw_strv121b_christian2_0;"stridsvagn 121B ""Christian II"""
 sw_strv121b_christian2_1;strv 121B
@@ -15002,114 +15138,18 @@ sw_strv_121_shop;strv 121A
 sw_strv_121_0;stridsvagn 121A
 sw_strv_121_1;strv 121A
 sw_strv_121_2;MBT
-sw_cv_9035_dk_shop;IKK 9035
-sw_cv_9035_dk_0;infanterikampkøretøj 9035
-sw_cv_9035_dk_1;IKK 9035
-sw_cv_9035_dk_2;Light Tank
-sw_cv_9030_fin_shop;rpsv CV9030
-sw_cv_9030_fin_0;Ps. 171 | rynnäkköpanssarivaunu CV9030
-sw_cv_9030_fin_1;rpsv CV9030
-sw_cv_9030_fin_2;IFV
-sw_cv_90_mk4_shop;CV90 MkIV (E30)
-sw_cv_90_mk4_0;BAE Systems Hägglunds Combat Vehicle 90 MkIV (E30)
-sw_cv_90_mk4_1;CV90 MkIV
-sw_cv_90_mk4_2;IFV
-sw_strv_122b_plus_shop;strv 122B+
-sw_strv_122b_plus_0;Åkers Krutbruk Protection MBT 122B Evolution | stridsvagn 122B+
-sw_strv_122b_plus_1;strv 122B
-sw_strv_122b_plus_2;MBT
-sw_strv_122b_plss_shop;strv 122B (PLSS)
-sw_strv_122b_plss_0;stridsvagn 122B (Panoramic Low-Signature Sight)
-sw_strv_122b_plss_1;strv 122B
-sw_strv_122b_plss_2;MBT
-sw_strv_122_shop;strv 122A
-sw_strv_122_0;stridsvagn 122A
-sw_strv_122_1;strv 122A
-sw_strv_122_2;MBT
-sw_a_34_comet_shop;psv Comet
-sw_a_34_comet_0;Ps. 252 | panssarivaunu Comet
-sw_a_34_comet_1;psv Comet
-sw_a_34_comet_2;Medium Tank
-sw_charioteer_mk_7_shop;tstpsv Charioteer
-sw_charioteer_mk_7_0;Ps. 251 | taistelupanssarivaunu Charioteer
-sw_charioteer_mk_7_1;tstpsv Charioteer
-sw_charioteer_mk_7_2;Medium Tank
-sw_pzkpfw_IV_ausf_J_shop;25 psv PZ IV
-sw_pzkpfw_IV_ausf_J_0;Ps. 221 | 25 tonnin panssarivaunu PZ IV
-sw_pzkpfw_IV_ausf_J_1;25 psv PZ IV
-sw_pzkpfw_IV_ausf_J_2;Medium Tank
-sw_t_28_shop;28 psv T 28 (1938)
-sw_t_28_0;Ps. 241 | 28 tonnin panssarivaunu T 28 (1938)
-sw_t_28_1;28 psv T 28
-sw_t_28_2;Medium Tank
-sw_t_34_1941_shop;26 psv T 34 B
-sw_t_34_1941_0;"Ps. 231 | 26 tonnin panssarivaunu T 34 B ""Sotka"""
-sw_t_34_1941_1;26 psv T 34 B
-sw_t_34_1941_2;Medium Tank
-sw_t_34_85_zis_53_shop;31 psv T 34/85
-sw_t_34_85_zis_53_0;"Ps. 245 | 31 tonnin panssarivaunu T 34/85 ""Pitkäputkinen Sotka"""
-sw_t_34_85_zis_53_1;31 psv T 34/85
-sw_t_34_85_zis_53_2;Medium Tank
-sw_leopard_2a6nl_shop;tstpsv Leopard 2A6
-sw_leopard_2a6nl_0;Krauss-Maffei Wegmann | Ps. 274 | taistelupanssarivaunu Leopard 2A6
-sw_leopard_2a6nl_1;tstpsv Leopard 2A6
-sw_leopard_2a6nl_2;MBT
-sw_leopard_2a4_fin_shop;tstpsv Leopard 2A4
-sw_leopard_2a4_fin_0;Krauss-Maffei Wegmann | Ps. 273 | taistelupanssarivaunu Leopard 2A4
-sw_leopard_2a4_fin_1;tstpsv Leopard 2A4
-sw_leopard_2a4_fin_2;MBT
-sw_t_80u_shop;♛ T 80 U
-sw_t_80u_0;♛ T 80 U
-sw_t_80u_1;♛ T 80 U
-sw_t_80u_2;MBT
-sw_t_72m1_shop;tstpsv T 72M1
-sw_t_72m1_0;Ps. 264 | taistelupanssarivaunu T 72M1
-sw_t_72m1_1;tstpsv T 72M1
-sw_t_72m1_2;MBT
-sw_zsu_57_2_shop;itpsv SU-57-2
-sw_zsu_57_2_0;Ps. 461 | ilmatorjuntapanssarivaunu SU-57-2
-sw_zsu_57_2_1;itpsv SU-57-2
-sw_zsu_57_2_2;SPAAG
-sw_itpsv_90_shop;itpsv 90
-sw_itpsv_90_0;Ps. 473 | ilmatorjuntapanssarivaunu 90
-sw_itpsv_90_1;itpsv 90
-sw_itpsv_90_2;SPAAG
-sw_t_54_1951_shop;tstpsv T 54
-sw_t_54_1951_0;Ps. 261 | taistelupanssarivaunu T 54
-sw_t_54_1951_1;tstpsv T 54
-sw_t_54_1951_2;Medium Tank
-sw_t_55m_shop;tstpsv T 55M
-sw_t_55m_0;Ps. 262 | taistelupanssarivaunu T 55M
-sw_t_55m_1;tstpsv T 55M
-sw_t_55m_2;Medium Tank
-sw_pt_76b_shop;▄ PT-76
-sw_pt_76b_0;▄ Ps. 141 | PT-76
-sw_pt_76b_1;▄ PT-76
-sw_pt_76b_2;Light Tank
 sw_leopard_1a5no_shop;◢ KPz Leopard 1 A5 NO2
 sw_leopard_1a5no_0;◢ Kampfpanzer Leopard 1 A5 NO2
 sw_leopard_1a5no_1;◢ Leopard 1 A5
 sw_leopard_1a5no_2;MBT
-sw_patria_amv_ctcv_105_shop;AMV HWP (CT-CV 105HP)
-sw_patria_amv_ctcv_105_0;Patria Advanced Modular Vehicle Heavy Weapon Platform (Cockerill CT-CV 105HP)
-sw_patria_amv_ctcv_105_1;AMV HWP
-sw_patria_amv_ctcv_105_2;Light Tank
-sw_cv_90105_tml_shop;CV90105 (XC-8 105HP)
-sw_cv_90105_tml_0;Combat Vehicle 90105 (XC-8 105HP)
-sw_cv_90105_tml_1;CV90105
-sw_cv_90105_tml_2;Light Tank
-sw_strf_9056_shop;strf 9040A (rbs 56)
-sw_strf_9056_0;stridsfordon 9040A (robotsystem 56)
-sw_strf_9056_1;strf 9040A
-sw_strf_9056_2;Light Tank
 sw_strf_90b_shop;strf 9040B
 sw_strf_90b_0;stridsfordon 9040B
 sw_strf_90b_1;strf 9040B
-sw_strf_90b_2;Light Tank
+sw_strf_90b_2;IFV
 sw_strf_90c_shop;strf 9040C
 sw_strf_90c_0;stridsfordon 9040C
 sw_strf_90c_1;strf 9040C
-sw_strf_90c_2;Light Tank
+sw_strf_90c_2;IFV
 sw_strv_81_rb52_shop;strv 81 (C III) (rb 52A)
 sw_strv_81_rb52_0;stridsvagn 81 (C III) (robot 52A)
 sw_strv_81_rb52_1;strv 81
@@ -15146,22 +15186,10 @@ sw_strv_m41_s2_shop;strv m/41-SII
 sw_strv_m41_s2_0;stridsvagn m/41-SII
 sw_strv_m41_s2_1;strv m/41 SII
 sw_strv_m41_s2_2;Light Tank
-sw_lago_1_shop;Lago I
-sw_lago_1_0;Aktiebolaget Landsverk Lago I
-sw_lago_1_1;Lago I
-sw_lago_1_2;Medium Tank
 sw_pvrbv_551_shop;pvrbv 551
 sw_pvrbv_551_0;pansarvärnsrobotbandvagn 551
 sw_pvrbv_551_1;pvrbv 551
 sw_pvrbv_551_2;SPG
-sw_crotale_ng_shop;ito 90M ohjusvaunu
-sw_crotale_ng_0;Ps. 477 | ilmatorjuntaohjus 90M ohjusvaunu XA-181
-sw_crotale_ng_1;ito 90M ohjusvaunu
-sw_crotale_ng_2;SPAAM
-sw_asrad_r_shop;♛ M113A2 (ASRAD-R)
-sw_asrad_r_0;♛ M113A2 (Advanced Short Range Air Defence System - RBS)
-sw_asrad_r_1;♛ M113 (ASRAD-R)
-sw_asrad_r_2;SPAA
 sw_lvrbv_701_shop;lvrbv 701
 sw_lvrbv_701_0;luftvärnsrobotbandvagn 701
 sw_lvrbv_701_1;lvrbv 701
@@ -15174,10 +15202,6 @@ sw_ikv_72_shop;ikv 72
 sw_ikv_72_0;infanterikanonvagn 72
 sw_ikv_72_1;ikv 72
 sw_ikv_72_2;SPG
-sw_l_62_anti_II_shop;10 it.psv./Anti
-sw_l_62_anti_II_0;Ps. 455 | 10 tonnin ilmatorjuntapanssarivaunu mallia Anti
-sw_l_62_anti_II_1;10 it.psv./Anti
-sw_l_62_anti_II_2;SPAAG
 sw_lvkv_42_shop;lvkv 42
 sw_lvkv_42_0;luftvärnskanonvagn 42
 sw_lvkv_42_1;lvkv 42
@@ -15234,14 +15258,6 @@ sw_ikv_91_shop;ikv 91
 sw_ikv_91_0;infanterikanonvagn 91
 sw_ikv_91_1;ikv 91
 sw_ikv_91_2;Light Tank
-sw_strv_m42_eh_shop;strv m/42 EH
-sw_strv_m42_eh_0;Aktiebolaget Landsverk Lago IV | stridsvagn m/42 EH
-sw_strv_m42_eh_1;strv m/42
-sw_strv_m42_eh_2;Medium Tank
-sw_strv_m42_delat_torn_shop;strv m/42 TM (DT)
-sw_strv_m42_delat_torn_0;Aktiebolaget Landsverk Lago II | stridsvagn m/42 TM (Delat Torn)
-sw_strv_m42_delat_torn_1;strv m/42 (DT)
-sw_strv_m42_delat_torn_2;Medium Tank
 sw_pvkv_m43_1946_shop;pvkv m/43 (1946)
 sw_pvkv_m43_1946_0;pansarvärnskanonvagn m/43 (1946)
 sw_pvkv_m43_1946_1;pvkv m/43 (1946)
@@ -15652,18 +15668,10 @@ ussr_2s25_shop;2S25
 ussr_2s25_0;"2S25 ""Sprut-SD"""
 ussr_2s25_1;2S25
 ussr_2s25_2;Light Tank
-sw_kungstiger_shop;♛ Tiger B (Fgst.Nr. 6)
-sw_kungstiger_0;"♛ Panzerkampfwagen Tiger Ausf. B mit frühem Turm (Fgst.Nr. 6) ""Königstiger"""
-sw_kungstiger_1;♛ Tiger B
-sw_kungstiger_2;Heavy Tank
 sw_pbv_501_shop;pbv 501
 sw_pbv_501_0;pansarbandvagn 501
 sw_pbv_501_1;pbv 501
 sw_pbv_501_2;Light Tank
-sw_pbv_302_bill_shop;pbv 302A (Rb 56)
-sw_pbv_302_bill_0;pansarbandvagn 302A (Rb 56)
-sw_pbv_302_bill_1;pbv 302A (Rb 56)
-sw_pbv_302_bill_2;SPG
 sw_pbv_301_shop;pbv 301
 sw_pbv_301_0;pansarbandvagn 301
 sw_pbv_301_1;pbv 301
@@ -15990,9 +15998,6 @@ ussr_cruiser_omaha_class_murmansk_shop;Murmansk
 ussr_cruiser_omaha_class_murmansk_0;Todd Dry Dock and Construction Company | Omakha-klass | Murmansk
 ussr_cruiser_omaha_class_murmansk_1;Murmansk
 ussr_cruiser_omaha_class_murmansk_2;Light Cruiser
-sw_landsverk_ush_204_gk_shop;U SH 405 (204GK)
-sw_landsverk_ush_204_gk_0;Aktiebolaget Landsverk / Unimog | Landsverk Unimog SH Typ 405.110 (Oerlikon 204GK)
-sw_landsverk_ush_204_gk_2;SPAA
 germ_boxer_3105_shop;Boxer (Cockerill 3105)
 germ_boxer_3105_0;ARTEC Boxer (Cockerill 3105)
 germ_boxer_3105_1;Boxer (Cockerill 3105)

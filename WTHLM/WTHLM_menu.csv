@@ -89,6 +89,8 @@ airLimits/gear_destruction_ind_speed/tooltip;The indicated air speed (IAS) at wh
 airLimits/flaps_destruction_ind_speed;Flap speed limit (IAS):
 airLimits/flaps_destruction_ind_speed/tooltip;The indicated air speed (IAS) at which the flaps can no longer withstand the speed and break off.
 hint/mouseClick;""
+CCRPRocket;CCRP
+CCRPRocket/desc;Continuously computed release point
 
 //CREW SKILLS
 crew/pilot/eyesight/tooltip;"This skill affects the pilot's visual range in the direction they are looking; i.e. the maximum distance at which they can detect the enemy in front of themself.

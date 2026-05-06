@@ -119,6 +119,7 @@ weapons/305mm_52_obr1907_mariya_naval_user_cannon;<color=@userlogColoredText>305
 weapons/305mm_62_sm_33_obr1948_naval_user_cannon;"Artillyerijskaâ ustanovka SM-31 obr. 1948 g.
 • <color=@userlogColoredText>305 mm</color> 305-mm/62 Kačaûŝimisâ častâmi SM-33 <color=#ff6f00>CNN</color>"
 weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color> 406-mm/50 B-37 obr. 1937 g. <color=#ff6f00>CNN</color>
+weapons/ato_41_flamethrower;Avtomatičyeskij tankovyj ognyemyet ATO-41 <color=#ff6f00>FLM</color>
 
 //UK GUNS
 weapons/7_62mm_ss77_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Denel Land Systems General Purpose Machine Gun SS77 Mk1 <color=#ff6f00>MG</color>
@@ -803,6 +804,10 @@ weapons/178mm_sl_amraam_user_cannon;Surface-Launched Advanced Medium-Range Air-t
 weapons/127mm_aim_9x_user_cannon;Surface-Launched Advanced Medium-Range Air-to-Air Missile (AIM-9X-2) <color=#ff6f00>LCH</color>
 weapons/178mm_nasams_user_cannon;Norwegian Advanced Surface-to-Air Missile System 3 <color=#ff6f00>LCH</color>
 us_amraam_er;AMRAAM-ER
+weapons/us_AGM_22;Air-Launched, Surface-Attack, Guided Missile, AGM-22 <color=#ff6f00>AGM-WG</color>
+weapons/us_AGM_22/short;AGM-22
+weapons/us_AGM_22_default;Air-Launched, Surface-Attack, Guided Missile, AGM-22 <color=#ff6f00>AGM-WG</color>
+weapons/us_AGM_22_default/short;AGM-22
 weapons/us_agm_45b_10;Air-Launched, Surface-Attack, Guided Missile, AGM-45B-10 Shrike <color=#ff6f00>AGM-RG</color>
 weapons/us_agm_45b_10/short;AGM-45B-10
 weapons/us_agm_84h_slam_er;Air-Launched, Surface-Attack, Guided Missile, AGM-84H-1 Standoff Land Attack Missile Expanded Response <color=#ff6f00>AGM-IR/GNSS</color>
@@ -4614,8 +4619,6 @@ weapons/su_9M120M_laser_guided;9M120-1 Ataka missile
 weapons/su_9M120M_laser_guided/short;9M120-1 Ataka
 weapons/su_9M120M_laser_guided_default;9M120-1 Ataka missiles
 weapons/su_9M120M_laser_guided_default/short;9M120-1 Ataka
-weapons/us_AGM_22;AGM-22 <color=#ff6f00>AGM-WG</color>
-weapons/us_AGM_22/short;AGM-22
 130mm_of_482m;OF-482M
 130mm_br_482b;BR-482B
 weapons/flare_launcher;Flares

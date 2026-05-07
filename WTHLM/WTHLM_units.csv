@@ -5153,11 +5153,34 @@ germ_pzkpfw_II_ausf_H_1;Pz.Sfl. Ic
 germ_pzkpfw_II_ausf_H_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+germ_panzerjager_nashorn_shop;Nashorn
+germ_panzerjager_nashorn_0;8,8cm Pa.K. 43/1 L/71 auf Geschützwagen III/IV (Sfl.) | Nashorn
+germ_panzerjager_nashorn_1;Nashorn
+germ_panzerjager_nashorn_2;SPG
+germ_flakpanzer_IV_Ostwind_shop;Ostwind
+germ_flakpanzer_IV_Ostwind_0;"Flakpanzerkampfwagen IV (3,7cm Fla.K. 43) ""Ostwind"""
+germ_flakpanzer_IV_Ostwind_1;Ostwind
+germ_flakpanzer_IV_Ostwind_2;SPAA
+germ_flakpanzer_IV_Wirbelwind_shop;Wirbelwind
+germ_flakpanzer_IV_Wirbelwind_0;"Flakpanzerkampfwagen IV (2cm Fla.K. 38-Vierling) ""Wirbelwind"""
+germ_flakpanzer_IV_Wirbelwind_1;Wirbelwind
+germ_flakpanzer_IV_Wirbelwind_2;SPAA
+germ_flakpanzer_IV_Ostwind_2_shop;Ostwind II
+germ_flakpanzer_IV_Ostwind_2_0;Flakpanzerkampfwagen IV (3,7cm Fla.K.-Zwilling) | Ostwind II
+germ_flakpanzer_IV_Ostwind_2_1;Ostwind II
+germ_flakpanzer_IV_Ostwind_2_2;SPAA
+germ_flakpanzer_IV_Ostwind_2_net_shop;"Ostwind II ""Ostfront"""
+germ_flakpanzer_IV_Ostwind_2_net_0;"Flakpanzerkampfwagen IV (3,7cm Fla.K.-Zwilling) | Ostwind II ""Ostfront"""
+germ_flakpanzer_IV_Ostwind_2_net_1;Ostwind II
+germ_flakpanzer_IV_Ostwind_2_net_2;SPAAG
 germ_m55_shop;◄ PzH M 55
 germ_m55_0;◄ Pacific Car and Foundry Company | Panzerhaubitze M 55
 germ_m55_1;◄ PzH M 55
 germ_m55_2;SPH
-
+germ_t_34_747_shop;▀ Pz.Kpfw. 747 (r) D
+germ_t_34_747_0;▀ Panzerkampfwagen 747 (r) Ausf. D | T 34 D
+germ_t_34_747_1;▀ Pz.Kpfw. 747 (r)
+germ_t_34_747_2;Medium Tank
 germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
 germ_kv_1B_finland_0;"▀ Kirovskij zavod | Ps. 272-1 | 44 tonnin panssarivaunu KW 1 B ""Klimi"""
 germ_kv_1B_finland_1;▀ 44 psv KW 1 B
@@ -5180,6 +5203,10 @@ germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_shop;Tiger B (10,5cm Kw.K.)
 germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68 (Sd.Kfz. 182)
 germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_1;Tiger B
 germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_2;Heavy Tank
+germ_flakpanzer_zerstorer_45_shop;Flak.Pz. IV (3cm Fla.K.-V.)
+germ_flakpanzer_zerstorer_45_0;"Flakpanzerkampfwagen IV (3cm Fla.K.-Vierling) ""Zerstörer 45"""
+germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
+germ_flakpanzer_zerstorer_45_2;SPAA
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 germ_leopard_a1a1_120_shop;Leopard 1 (MPI)
@@ -5886,6 +5913,10 @@ uk_vickers_gbt_155_1;SP 155
 uk_vickers_gbt_155_2;SPH
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+uk_centurion_mk_3_ss11_shop;▄ strv 81 (C III) (rb 52A)
+uk_centurion_mk_3_ss11_0;▄ Royal Ordnance Factory, Leeds | stridsvagn 81 (C III) (robot 52A)
+uk_centurion_mk_3_ss11_1;▄ strv 81
+uk_centurion_mk_3_ss11_2;MBT
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 uk_chieftain_900_shop;Chieftain 900
@@ -10015,6 +10046,14 @@ sw_charioteer_mk_7_1;tstpsv Charioteer
 sw_charioteer_mk_7_2;Medium Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+sw_strv_81_shop;strv 81 (C III)
+sw_strv_81_0;Royal Ordnance Factory, Leeds | stridsvagn 81 (C III)
+sw_strv_81_1;strv 81
+sw_strv_81_2;MBT
+sw_strv_81_rb52_shop;strv 81 (C III) (rb 52A)
+sw_strv_81_rb52_0;Royal Ordnance Factory, Leeds | stridsvagn 81 (C III) (robot 52A)
+sw_strv_81_rb52_1;strv 81
+sw_strv_81_rb52_2;MBT
 sw_zsu_57_2_shop;itpsv SU-57-2
 sw_zsu_57_2_0;Ps. 461 | ilmatorjuntapanssarivaunu SU-57-2
 sw_zsu_57_2_1;itpsv SU-57-2
@@ -10609,10 +10648,6 @@ il_spyder_aio_2;SPAAM
 //ISRAEL BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 
 //TO BE CATEGORIZED;
-germ_t_34_747_shop;▀ Pz.Kpfw. 747 (r) D
-germ_t_34_747_0;▀ Panzerkampfwagen 747 (r) Ausf. D | T 34 D
-germ_t_34_747_1;▀ Pz.Kpfw. 747 (r)
-germ_t_34_747_2;Medium Tank
 germ_pzkpfw_VI_tiger_P_shop;VK 45.01 (P)
 germ_pzkpfw_VI_tiger_P_0;VK 45.01 (P)
 germ_pzkpfw_VI_tiger_P_1;VK 45.01
@@ -11149,18 +11184,6 @@ germ_flakpz_I_Gepard_shop;FlakPz Gepard 1
 germ_flakpz_I_Gepard_0;Flugabwehrkanonenpanzer Gepard 1
 germ_flakpz_I_Gepard_1;Gepard 1
 germ_flakpz_I_Gepard_2;SPAA
-germ_flakpanzer_IV_Wirbelwind_shop;Wirbelwind
-germ_flakpanzer_IV_Wirbelwind_0;"Flakpanzerkampfwagen IV (2cm Fla.K. 38-Vierling) ""Wirbelwind"""
-germ_flakpanzer_IV_Wirbelwind_1;Wirbelwind
-germ_flakpanzer_IV_Wirbelwind_2;SPAA
-germ_flakpanzer_zerstorer_45_shop;Flak.Pz. IV (3cm Fla.K.-V.)
-germ_flakpanzer_zerstorer_45_0;"Flakpanzerkampfwagen IV (3cm Fla.K.-Vierling) ""Zerstörer 45"""
-germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
-germ_flakpanzer_zerstorer_45_2;SPAA
-germ_flakpanzer_IV_Ostwind_shop;Ostwind
-germ_flakpanzer_IV_Ostwind_0;"Flakpanzerkampfwagen IV (3,7cm Fla.K. 43) ""Ostwind"""
-germ_flakpanzer_IV_Ostwind_1;Ostwind
-germ_flakpanzer_IV_Ostwind_2;SPAA
 germ_flakpanzer_IV_Kugelblitz_shop;Kugelblitz
 germ_flakpanzer_IV_Kugelblitz_0;leichter Flakpanzer IV mit 3cm M.K. 103 als Zwilling Waffe
 germ_flakpanzer_IV_Kugelblitz_1;Kugelblitz
@@ -11197,10 +11220,6 @@ germ_sturmpanzer_IV_brummbar_shop;Sturmhaubitze 43 II
 germ_sturmpanzer_IV_brummbar_0;Sturmgeschütz IV für 15cm Sturmhaubitze 43 Ausf. II
 germ_sturmpanzer_IV_brummbar_1;Sturmhaubitze 43
 germ_sturmpanzer_IV_brummbar_2;SPG
-germ_panzerjager_nashorn_shop;Nashorn
-germ_panzerjager_nashorn_0;8,8cm Pa.K. 43/1 L/71 auf Geschützwagen III/IV (Sfl.) | Nashorn
-germ_panzerjager_nashorn_1;Nashorn
-germ_panzerjager_nashorn_2;SPG
 germ_sdkfz_9_flak37_shop;8,8cm Fla.K. 37 (Sfl.)
 germ_sdkfz_9_flak37_0;8,8cm Fla.K. 37 (Sfl.) auf schwerer Zugkraftwagen 18t
 germ_sdkfz_9_flak37_1;8,8cm Fla.K. 37 (Sfl.)
@@ -11593,10 +11612,6 @@ uk_a_34_comet_shop;Comet, Mk. Ia
 uk_a_34_comet_0;Tank, Cruiser, Mk. VIII, A.34, Comet, Mk. Ia
 uk_a_34_comet_1;Comet, Mk. I
 uk_a_34_comet_2;Medium Tank
-uk_centurion_mk_3_ss11_shop;▄ strv 81 (C III) (rb 52A)
-uk_centurion_mk_3_ss11_0;▄ stridsvagn 81 (C III) (robot 52A)
-uk_centurion_mk_3_ss11_1;▄ strv 81
-uk_centurion_mk_3_ss11_2;Medium Tank
 uk_centurion_mk_3_shop;Centurion, Mk. 3
 uk_centurion_mk_3_0;Tank, Medium Gun, Centurion, Mk. 3
 uk_centurion_mk_3_1;Centurion, Mk. 3
@@ -14907,14 +14922,6 @@ it_otobreda_sidam_25_mistral_shop;SIDAM 25 (Mistral)
 it_otobreda_sidam_25_mistral_0;Sistema Italiano Difesa Aerea Mobile, 25mm (Mistral)
 it_otobreda_sidam_25_mistral_1;SIDAM 25
 it_otobreda_sidam_25_mistral_2;SPAA
-germ_flakpanzer_IV_Ostwind_2_shop;Ostwind II
-germ_flakpanzer_IV_Ostwind_2_0;Flakpanzerkampfwagen IV (3,7cm Fla.K.-Zwilling) | Ostwind II
-germ_flakpanzer_IV_Ostwind_2_1;Ostwind II
-germ_flakpanzer_IV_Ostwind_2_2;SPAA
-germ_flakpanzer_IV_Ostwind_2_net_shop;"Ostwind II ""Ostfront"""
-germ_flakpanzer_IV_Ostwind_2_net_0;"Flakpanzerkampfwagen IV (3,7cm Fla.K.-Zwilling) | Ostwind II ""Ostfront"""
-germ_flakpanzer_IV_Ostwind_2_net_1;Ostwind II
-germ_flakpanzer_IV_Ostwind_2_net_2;SPAAG
 germ_radpanzer_90_shop;EFz-Rad 8x8
 germ_radpanzer_90_0;Experimentalfahrzeug-Rad 8x8
 germ_radpanzer_90_1;EFz-Rad 8x8
@@ -15150,14 +15157,6 @@ sw_strf_90c_shop;strf 9040C
 sw_strf_90c_0;stridsfordon 9040C
 sw_strf_90c_1;strf 9040C
 sw_strf_90c_2;IFV
-sw_strv_81_rb52_shop;strv 81 (C III) (rb 52A)
-sw_strv_81_rb52_0;stridsvagn 81 (C III) (robot 52A)
-sw_strv_81_rb52_1;strv 81
-sw_strv_81_rb52_2;Medium Tank
-sw_strv_81_shop;strv 81 (C III)
-sw_strv_81_0;stridsvagn 81 (C III)
-sw_strv_81_1;strv 81
-sw_strv_81_2;Medium Tank
 sw_strv_m38_shop;strv m/38
 sw_strv_m38_0;stridsvagn m/38
 sw_strv_m38_1;strv m/38

@@ -3371,11 +3371,52 @@ germ_pzkpfw_II_ausf_H_1;Pz.Sfl. Ic
 germ_pzkpfw_II_ausf_H_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+germ_panzerjager_nashorn_shop;Nashorn
+germ_panzerjager_nashorn_0;"<color=#7ce68f>8,8cm Pa.K. 43/1 L/71 auf Geschützwagen III/IV (Sfl.)</color>
+Nashorn"
+germ_panzerjager_nashorn_1;Nashorn
+germ_panzerjager_nashorn_2;SPG
+
+germ_flakpanzer_IV_Ostwind_shop;Ostwind
+germ_flakpanzer_IV_Ostwind_0;"<color=#7ce68f>Flakpanzerkampfwagen IV</color>
+<color=#adadad>(3,7cm Fla.K. 43)</color>
+Ostwind"
+germ_flakpanzer_IV_Ostwind_1;Ostwind
+germ_flakpanzer_IV_Ostwind_2;SPAA
+
+germ_flakpanzer_IV_Wirbelwind_shop;Wirbelwind
+germ_flakpanzer_IV_Wirbelwind_0;"<color=#7ce68f>Flakpanzerkampfwagen IV</color>
+<color=#adadad>(2cm Fla.K. 38-Vierling)</color>
+Wirbelwind"
+germ_flakpanzer_IV_Wirbelwind_1;Wirbelwind
+germ_flakpanzer_IV_Wirbelwind_2;SPAA
+
+germ_flakpanzer_IV_Ostwind_2_shop;Ostwind II
+germ_flakpanzer_IV_Ostwind_2_0;"<color=#7ce68f>Flakpanzerkampfwagen IV</color>
+<color=#adadad>(3,7cm Fla.K.-Zwilling)</color>
+Ostwind II"
+germ_flakpanzer_IV_Ostwind_2_1;Ostwind II
+germ_flakpanzer_IV_Ostwind_2_2;SPAA
+
+germ_flakpanzer_IV_Ostwind_2_net_shop;"Ostwind II ""Ostfront"""
+germ_flakpanzer_IV_Ostwind_2_net_0;"<color=#7ce68f>Flakpanzerkampfwagen IV</color>
+<color=#adadad>(3,7cm Fla.K.-Zwilling)</color>
+Ostwind II
+<color=@currencyGoldColor>""Ostfront""</color>"
+germ_flakpanzer_IV_Ostwind_2_net_1;Ostwind II
+germ_flakpanzer_IV_Ostwind_2_net_2;SPAAG
+
 germ_m55_shop;◄ PzH M 55
 germ_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
 ◄ Panzerhaubitze M 55"
 germ_m55_1;◄ PzH M 55
 germ_m55_2;SPH
+
+germ_t_34_747_shop;▀ Pz.Kpfw. 747 (r) D
+germ_t_34_747_0;"<color=#7ce68f>T 34 D</color>
+▀ Panzerkampfwagen 747 (r) Ausf. D"
+germ_t_34_747_1;▀ Pz.Kpfw. 747 (r)
+germ_t_34_747_2;Medium Tank
 
 germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
 germ_kv_1B_finland_0;"<color=#81c3fc>Kirovskij zavod</color>
@@ -3413,6 +3454,12 @@ germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_0;"<color=#81c3fc>Henschel & Sohn</color>
 Panzerkampfwagen Tiger Ausf. B mit 10,5cm Kw.K. L/68"
 germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_1;Tiger B
 germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_2;Heavy Tank
+
+germ_flakpanzer_zerstorer_45_shop;Flak.Pz. IV (3cm Fla.K.-V.)
+germ_flakpanzer_zerstorer_45_0;"Flakpanzerkampfwagen IV ""Zerstörer 45""
+<color=#adadad>(3cm Fla.K.-Vierling)</color>"
+germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
+germ_flakpanzer_zerstorer_45_2;SPAA
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 germ_leopard_a1a1_120_shop;Leopard 1 (MPI)
@@ -4467,6 +4514,13 @@ uk_vickers_gbt_155_1;SP 155
 uk_vickers_gbt_155_2;SPH
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+uk_centurion_mk_3_ss11_shop;▄ strv 81 (C III) (rb 52A)
+uk_centurion_mk_3_ss11_0;"Royal Ordnance Factory, Leeds
+<color=#919191>stridsvagn C III</color>
+▄ stridsvagn 81
+<color=#adadad>(robot 52A)</color>"
+uk_centurion_mk_3_ss11_1;▄ strv 81
+uk_centurion_mk_3_ss11_2;MBT
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 uk_chieftain_900_shop;Chieftain 900
@@ -11083,6 +11137,21 @@ sw_charioteer_mk_7_1;tstpsv Charioteer
 sw_charioteer_mk_7_2;Medium Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+sw_strv_81_shop;strv 81 (C III)
+sw_strv_81_0;"Royal Ordnance Factory, Leeds
+<color=#919191>stridsvagn C III</color>
+stridsvagn 81"
+sw_strv_81_1;strv 81
+sw_strv_81_2;MBT
+
+sw_strv_81_rb52_shop;strv 81 (C III) (rb 52A)
+sw_strv_81_rb52_0;"Royal Ordnance Factory, Leeds
+<color=#919191>stridsvagn C III</color>
+stridsvagn 81
+<color=#adadad>(robot 52A)</color>"
+sw_strv_81_rb52_1;strv 81
+sw_strv_81_rb52_2;MBT
+
 sw_zsu_57_2_shop;itpsv SU-57-2
 sw_zsu_57_2_0;"<color=#5cae63>Ps. 461</color>
 ilmatorjuntapanssarivaunu SU-57-2"

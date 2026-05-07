@@ -111,6 +111,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Tiger B (Fgst.Nr. 15)**: Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fgst.Nr. 280015)**.
     - **pbv 302A (Rb 56)** → **pbv 302A (rbs 56)**. Statcard name → **Hägglund & Söner | pansarbandvagn 302A (robotsystem 56)**.
     - **UDES 33 / pbv 302** (folder) → **UDES 33 / pbv 302A**.
+    - **strv 81 (C III)**: Statcard name → **Royal Ordnance Factory, Leeds | stridsvagn 81 (C III)**.
+    - **strv 81 (C III) (rb 52A)** (Sweden & UK / Sweden): Statcard name → **Royal Ordnance Factory, Leeds | stridsvagn 81 (C III) (robot 52A)**.
 
 ### Weaponry:
 

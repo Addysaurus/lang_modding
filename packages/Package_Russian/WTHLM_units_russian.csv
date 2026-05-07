@@ -342,6 +342,13 @@ germ_garford_putilov_1;◄ Pzw. Garford (Beute)
 germ_garford_putilov_2;Armored Car
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+ussr_kv_8_shop;КВ-8
+ussr_kv_8_0;"<color=#81c3fc>Кировский завод Наркомата танковой промышленности в городе
+Челябинске (Завод № 100)</color>
+<color=#5cae63>Объект 228</color>
+Танк КВ-8"
+ussr_kv_8_1;КВ-8
+ussr_kv_8_2;Heavy Tank
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 ussr_t_34_85_zis_53_kit_3rank_shop;"Т-34-85 (Sep, 1944) ""In May 1945"""
@@ -885,6 +892,47 @@ mi_24v_hungary_0;"<color=#81c3fc>Авиационная производстве
 ◔ Mi-24V helikopter"
 mi_24v_hungary_1;◔ Mi-24V
 mi_24v_hungary_2;◔ Mi-24
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+it_2s1_shop;◔ 2SZ1
+it_2s1_0;"<color=#81c3fc>Харківський тракторний завод (ХТЗ)</color>
+◔ 122 mm-es 2SZ1 önjáró tarack ""Gvozgyika"""
+it_2s1_1;◔ 2SZ1
+it_2s1_2;SPH
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+it_zsu_57_2_shop;◔ ZSZU-57-2
+it_zsu_57_2_0;"<color=#81c3fc>Омский завод № 174 им. Ворошилова</color>
+◔ 57 mm-es ZSZU-57-2 önjáró légvédelmi gépágyú ""Büszke"""
+it_zsu_57_2_1;◔ ZSZU-57-2
+it_zsu_57_2_2;SPAAG
+
+it_btr_80a_hungary_shop;◔ BTR-80A
+it_btr_80a_hungary_0;"<color=#81c3fc>Производственное объединение «Горьковский автомобильный завод»</color>
+◔ BTR-80A gyalogsági harcjármű"
+it_btr_80a_hungary_1;◔ BTR-80A
+it_btr_80a_hungary_2;IFV
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+it_zsu_23_4_shop;◔ ZSZU-23-4V
+it_zsu_23_4_0;"<color=#81c3fc>Мытищинский ордена Отечественной войны 1 степени
+машиностроительный завод</color>
+◔ 23 mm-es ZSZU-23-4V önjáró légvédelmi gépágyú ""Silka"""
+it_zsu_23_4_1;◔ ZSZU-23-4V
+it_zsu_23_4_2;SPAAG
+
+it_t_72m1_shop;◔ T-72M1
+it_t_72m1_0;"<color=#81c3fc>Опытно-конструкторское бюро № 520 им. Морозова</color>
+◔ T-72M1 harckocsi"
+it_t_72m1_1;◔ T-72M1
+it_t_72m1_2;MBT
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+it_9a35_m_shop;◔ 9A35M
+it_9a35_m_0;"<color=#81c3fc>Конструкторское бюро точного машиностроения им. А. Э. Нудельмана</color>
+◔ 9A35M önjáró légvédelmi rakétakomplexum ""Sztrela-10M"""
+it_9a35_m_1;◔ 9A35M
+it_9a35_m_2;SPAAM
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 sw_t_50_fin_shop;15 psv T 50

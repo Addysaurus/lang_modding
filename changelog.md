@@ -22,6 +22,14 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Changes:
+
+    - **SAV 20.12.48**: Statcard name → **Bofors SAV 20.12.48**.
+
+## 1.17.03 - 24-04-2026
+
+### Vehicles:
+
 - #### Additions:
 
     - **KV-8**

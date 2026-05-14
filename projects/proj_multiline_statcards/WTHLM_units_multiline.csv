@@ -3377,6 +3377,44 @@ Nashorn"
 germ_panzerjager_nashorn_1;Nashorn
 germ_panzerjager_nashorn_2;SPG
 
+germ_pzkpfw_VI_ausf_e_tiger_shop;Tiger E (spät)
+germ_pzkpfw_VI_ausf_e_tiger_0;"Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(spät)</color>"
+germ_pzkpfw_VI_ausf_e_tiger_1;Tiger E
+germ_pzkpfw_VI_ausf_e_tiger_2;Heavy Tank
+
+germ_pzkpfw_VI_ausf_h1_tiger_shop;Tiger E (früh)
+germ_pzkpfw_VI_ausf_h1_tiger_0;"Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(früh)</color>"
+germ_pzkpfw_VI_ausf_h1_tiger_1;Tiger E
+germ_pzkpfw_VI_ausf_h1_tiger_2;Heavy Tank
+
+germ_pzkpfw_VI_ausf_h1_tiger_tutorial_shop;Tiger E (früh)
+germ_pzkpfw_VI_ausf_h1_tiger_tutorial_0;"Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(früh)</color>"
+germ_pzkpfw_VI_ausf_h1_tiger_tutorial_1;Tiger E
+germ_pzkpfw_VI_ausf_h1_tiger_tutorial_2;Heavy Tank
+
+germ_pzkpfw_VI_ausf_h1_tiger_east_shop;"Tiger E (früh) ""Ostfront"""
+germ_pzkpfw_VI_ausf_h1_tiger_east_0;"Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(früh)</color>
+<color=@currencyGoldColor>""Ostfront""</color>"
+germ_pzkpfw_VI_ausf_h1_tiger_east_1;Tiger E
+germ_pzkpfw_VI_ausf_h1_tiger_east_2;Heavy Tank
+
+germ_pzkpfw_VI_ausf_h1_tiger_west_shop;"Tiger E (früh) ""Westfront"""
+germ_pzkpfw_VI_ausf_h1_tiger_west_0;"Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(früh)</color>
+<color=@currencyGoldColor>""Westfront""</color>"
+germ_pzkpfw_VI_ausf_h1_tiger_west_1;Tiger E
+germ_pzkpfw_VI_ausf_h1_tiger_west_2;Heavy Tank
+
+germ_pzkpfw_VI_ausf_h1_tiger_animal_version_shop;␠ Tiger E (früh)
+germ_pzkpfw_VI_ausf_h1_tiger_animal_version_0;"␠ Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(früh)</color>"
+germ_pzkpfw_VI_ausf_h1_tiger_animal_version_1;␠ Tiger E
+germ_pzkpfw_VI_ausf_h1_tiger_animal_version_2;Heavy Tank
+
 germ_flakpanzer_IV_Ostwind_shop;Ostwind
 germ_flakpanzer_IV_Ostwind_0;"<color=#7ce68f>Flakpanzerkampfwagen IV</color>
 <color=#adadad>(3,7cm Fla.K. 43)</color>
@@ -3424,6 +3462,11 @@ germ_kv_1B_finland_0;"<color=#81c3fc>Kirovskij zavod</color>
 ▀ 44 tonnin panssarivaunu KW 1 B ""Klimi"""
 germ_kv_1B_finland_1;▀ 44 psv KW 1 B
 germ_kv_1B_finland_2;▀ Heavy Tank
+
+germ_pzkpfw_VI_tiger_P_shop;VK 45.01 (P)
+germ_pzkpfw_VI_tiger_P_0;VK 45.01 (P)
+germ_pzkpfw_VI_tiger_P_1;VK 45.01
+germ_pzkpfw_VI_tiger_P_2;Heavy Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger B (Fgst.Nr. 15)
@@ -8780,16 +8823,17 @@ cn_ztz_99_2;MBT
 
 cn_ztz_99_w_shop;ZTZ99 (2 Qí)
 cn_ztz_99_w_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
-<color=#5cae63>WZ123</color>
+<color=#5cae63>WZ123B</color>
 ZTZ1999 Shì Zhu Zhàn Tankè
 <color=#adadad>(2 Qí)</color>"
 cn_ztz_99_w_1;ZTZ99
 cn_ztz_99_w_2;MBT
 
-cn_ztz_99a_shop;ZTZ99A
+cn_ztz_99a_shop;ZTZ99A (2014)
 cn_ztz_99a_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>WZ1001</color>
-ZTZ1999A Shì Zhu Zhàn Tankè"
+ZTZ1999A Shì Zhu Zhàn Tankè
+<color=#adadad>(2014)</color>"
 cn_ztz_99a_1;ZTZ99
 cn_ztz_99a_2;MBT
 

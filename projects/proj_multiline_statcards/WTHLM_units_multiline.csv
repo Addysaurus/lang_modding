@@ -8780,16 +8780,17 @@ cn_ztz_99_2;MBT
 
 cn_ztz_99_w_shop;ZTZ99 (2 Qí)
 cn_ztz_99_w_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
-<color=#5cae63>WZ123</color>
+<color=#5cae63>WZ123B</color>
 ZTZ1999 Shì Zhu Zhàn Tankè
 <color=#adadad>(2 Qí)</color>"
 cn_ztz_99_w_1;ZTZ99
 cn_ztz_99_w_2;MBT
 
-cn_ztz_99a_shop;ZTZ99A
+cn_ztz_99a_shop;ZTZ99A (2014)
 cn_ztz_99a_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>WZ1001</color>
-ZTZ1999A Shì Zhu Zhàn Tankè"
+ZTZ1999A Shì Zhu Zhàn Tankè
+<color=#adadad>(2014)</color>"
 cn_ztz_99a_1;ZTZ99
 cn_ztz_99a_2;MBT
 
@@ -9046,6 +9047,13 @@ mig-17pf_hungary_0;"<color=#81c3fc>Gor'kovskij aviaczionnyj zavod im. S. Ordžon
 ◔ MiG-17PF repülőgép"
 mig-17pf_hungary_1;◔ MiG-17PF
 mig-17pf_hungary_2;◔ MiG-17
+
+iar_93b_shop;I.A.R.93-B
+iar_93b_0;"<color=#81c3fc>Avioane Craiova <color=@commonTextColor>+</color> Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo</color>
+<color=#ff8c80>YuRom</color>
+I.A.R.93-B Vultur"
+iar_93b_1;I.A.R.93-B
+iar_93b_2;I.A.R.93
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 amx_shop;A-11A
@@ -10383,6 +10391,14 @@ fr_marne_class_aisne_0;"<color=#81c3fc>Arsenal de Lorient</color>
 L'Aisne"
 fr_marne_class_aisne_1;L'Aisne
 fr_marne_class_aisne_2;Aviso
+
+fr_trident_class_glaive_p671_shop;Glaive (P 761)
+fr_trident_class_glaive_p671_0;"Ateliers et Chantiers C. Auroux <color=@commonTextColor>/</color> Arsenal de Cherbourg
+<color=#fffa62>Patrouilleurs rapides de la classe Trident</color>
+Glaive (P 761)
+<color=#adadad>(1987)</color>"
+fr_trident_class_glaive_p671_1;Glaive
+fr_trident_class_glaive_p671_2;Fast Patrol Boat
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 fr_vlt1_shop;VLT 1

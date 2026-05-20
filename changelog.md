@@ -22,6 +22,17 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Changes:
+
+    - **SAV 20.12.48**: Statcard name → **Bofors SAV 20.12.48**.
+    - **ZTZ99A** → **ZTZ99A (2014)**.
+    - **ZTZ99 (2 Qí)**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ123B | ZTZ1999 Shì Zhu Zhàn Tankè (2 Qí)**.
+        - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ123B | ZTZ1999式主战坦克 (二期)**.
+
+## 1.17.03 - 24-04-2026
+
+### Vehicles:
+
 - #### Additions:
 
     - **Glaive**

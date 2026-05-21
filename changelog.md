@@ -18,7 +18,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.17.03 - 24-04-2026
+## 1.17.05 - UNRELEASED
 
 ### Vehicles:
 
@@ -36,23 +36,7 @@ All dates are listed in DD-MM-YYYY format.
     - **French Sports Stripes** (horrible name jesus christ) → **Marquage de l'action de l'État en mer**.
     - **Badge of VT-3 Squadron, US Navy** → **Emblem of Torpedo Squadron VT-3**.
 
-## 1.17.03 - 24-04-2026
-
-### Vehicles:
-
-- #### Additions:
-
-    - **Glaive**
-
-- #### Changes:
-
-    - **Glaive** → **Glaive (P 761)**. Statcard name → **Ateliers et Chantiers C. Auroux / Arsenal de Cherbourg | Patrouilleurs rapides de la classe Trident | Glaive (P 761) (1983)**.
-    - **I.A.R.93-B**: Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | I.A.R.93-B Vultur**.
-    - **ZTZ99 (2 Qí)**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ123B | ZTZ1999 Shì Zhu Zhàn Tankè (2 Qí)**.
-        - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ123B | ZTZ1999式主战坦克 (二期)**.
-    - **ZTZ99A** → **ZTZ99A (2014)**.
-
-## 1.17.03 - 24-04-2026
+## 1.17.04 - 6-05-2026
 
 ### Vehicles:
 

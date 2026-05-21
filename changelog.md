@@ -29,6 +29,13 @@ All dates are listed in DD-MM-YYYY format.
     - **ZTZ99 (2 Qí)**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ123B | ZTZ1999 Shì Zhu Zhàn Tankè (2 Qí)**.
         - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ123B | ZTZ1999式主战坦克 (二期)**.
 
+### Decals:
+
+- #### Changes:
+
+    - **French Sports Stripes** (horrible name jesus christ) → **Marquage de l'action de l'État en mer**.
+    - **Badge of VT-3 Squadron, US Navy** → **Emblem of Torpedo Squadron VT-3**.
+
 ## 1.17.03 - 24-04-2026
 
 ### Vehicles:

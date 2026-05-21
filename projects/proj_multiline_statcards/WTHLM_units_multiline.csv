@@ -3948,6 +3948,71 @@ ussr_garford_putilov_1;Garford
 ussr_garford_putilov_2;Armored Car
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+ussr_t_34E_shop;T-34 (Èkran.) (№112)
+ussr_t_34E_0;"<color=#81c3fc>Zavod №112</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34 obr. 1941 g.
+<color=#adadad>(Èkranirovannyj) (February, 1943)</color>"
+ussr_t_34E_1;T-34
+ussr_t_34E_2;Medium Tank
+
+ussr_t_34_1941_cast_turret_shop;"T-34 (Jul, 1941) (1-â Gv.T.Br.)"
+ussr_t_34_1941_cast_turret_0;"<color=#81c3fc>Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34 obr. 1941 g.
+<color=#adadad>(July, 1941) (1-â Gvardyejskaâ Tankovaâ Brigada)</color>"
+ussr_t_34_1941_cast_turret_1;T-34
+ussr_t_34_1941_cast_turret_2;Medium Tank
+
+ussr_t_34_1941_shop;"T-34 (May, 1941)"
+ussr_t_34_1941_0;"<color=#81c3fc>Ural'skij Tankovyj Zavod, Zavod №183</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34 obr. 1941 g.
+<color=#adadad>(May, 1941)</color>"
+ussr_t_34_1941_1;T-34
+ussr_t_34_1941_2;Medium Tank
+
+ussr_t_34_1942_shop;"T-34 (Sep, 1942)"
+ussr_t_34_1942_0;"<color=#81c3fc>Ural'skij Tankovyj Zavod, Zavod №183</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34 obr. 1942 g.
+<color=#adadad>(September, 1942)</color>"
+ussr_t_34_1942_1;T-34
+ussr_t_34_1942_2;Medium Tank
+
+ussr_t_34_1941_l_11_shop;"T-34 (Dec, 1940)"
+ussr_t_34_1941_l_11_0;"<color=#81c3fc>Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34 obr. 1940 g.
+<color=#adadad>(December, 1940)</color>"
+ussr_t_34_1941_l_11_1;T-34
+ussr_t_34_1941_l_11_2;Medium Tank
+
+ussr_t_34_1940_l_11_shop;T-34 (pilot)
+ussr_t_34_1940_l_11_0;"<color=#81c3fc>Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34
+<color=#adadad>(pilot model) (March, 1940)</color>"
+ussr_t_34_1940_l_11_1;T-34
+ussr_t_34_1940_l_11_2;Medium Tank
+
+ussr_su_76m_1943_shop;SU-76M
+ussr_su_76m_1943_0;"SU-76M obr. 1943 g."
+ussr_su_76m_1943_1;SU-76M
+ussr_su_76m_1943_2;SPG
+
+ussr_su_76m_5st_kav_corps_shop;SU-76M (5-j Gv.Kav.Korp)
+ussr_su_76m_5st_kav_corps_0;"SU-76M obr. 1943 g.
+<color=@currencyGoldColor>5-j Gvardyejskij Kavalyerijskij Korpus</color>"
+ussr_su_76m_5st_kav_corps_1;SU-76M
+ussr_su_76m_5st_kav_corps_2;SPG
+
+ussr_su_76d_shop;SU-76D
+ussr_su_76d_0;"<color=#7ce68f>GAZ-74</color>
+SU-76D"
+ussr_su_76d_1;SU-76D
+ussr_su_76d_2;SPG
+
 ussr_kv_8_shop;KV-8
 ussr_kv_8_0;"<color=#81c3fc>Kirovskij zavod Narkomata tankovoj promyšlyennosti v gorodye
 Čyelâbinskye (Zavod № 100)</color>
@@ -10436,7 +10501,7 @@ fr_marne_class_aisne_1;L'Aisne
 fr_marne_class_aisne_2;Aviso
 
 fr_trident_class_glaive_p671_shop;Glaive (P 761)
-fr_trident_class_glaive_p671_0;"Ateliers et Chantiers C. Auroux <color=@commonTextColor>/</color> Arsenal de Cherbourg
+fr_trident_class_glaive_p671_0;"<color=#81c3fc>Ateliers et Chantiers C. Auroux <color=@commonTextColor>/</color> Arsenal de Cherbourg</color>
 <color=#fffa62>Patrouilleurs rapides de la classe Trident</color>
 Glaive (P 761)
 <color=#adadad>(1983)</color>"

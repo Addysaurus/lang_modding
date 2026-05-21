@@ -5537,6 +5537,42 @@ ussr_garford_putilov_1;Garford
 ussr_garford_putilov_2;Armored Car
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+ussr_t_34E_shop;T-34 (Èkran.) (№112)
+ussr_t_34E_0;"Zavod №112 | Ob""yekt 34 | T-34 obr. 1941 g. (Èkranirovannyj) (February, 1943)"
+ussr_t_34E_1;T-34
+ussr_t_34E_2;Medium Tank
+ussr_t_34_1941_cast_turret_shop;"T-34 (Jul, 1941) (1-â Gv.T.Br.)"
+ussr_t_34_1941_cast_turret_0;"Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1941 g. (July, 1941) (1-â Gvardyejskaâ Tankovaâ Brigada)"
+ussr_t_34_1941_cast_turret_1;T-34
+ussr_t_34_1941_cast_turret_2;Medium Tank
+ussr_t_34_1941_shop;"T-34 (May, 1941)"
+ussr_t_34_1941_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1941 g. (May, 1941)"
+ussr_t_34_1941_1;T-34
+ussr_t_34_1941_2;Medium Tank
+ussr_t_34_1942_shop;"T-34 (Sep, 1942)"
+ussr_t_34_1942_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1942 g. (September, 1942)"
+ussr_t_34_1942_1;T-34
+ussr_t_34_1942_2;Medium Tank
+ussr_t_34_1941_l_11_shop;"T-34 (Dec, 1940)"
+ussr_t_34_1941_l_11_0;"Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1940 g. (December, 1940)"
+ussr_t_34_1941_l_11_1;T-34
+ussr_t_34_1941_l_11_2;Medium Tank
+ussr_t_34_1940_l_11_shop;T-34 (pilot)
+ussr_t_34_1940_l_11_0;"Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 (pilot model) (March, 1940)"
+ussr_t_34_1940_l_11_1;T-34
+ussr_t_34_1940_l_11_2;Medium Tank
+ussr_su_76m_1943_shop;SU-76M
+ussr_su_76m_1943_0;SU-76M obr. 1943 g.
+ussr_su_76m_1943_1;SU-76M
+ussr_su_76m_1943_2;SPG
+ussr_su_76m_5st_kav_corps_shop;SU-76M (5-j Gv.Kav.Korp)
+ussr_su_76m_5st_kav_corps_0;SU-76M obr. 1943 g. (5-j Gvardyejskij Kavalyerijskij Korpus)
+ussr_su_76m_5st_kav_corps_1;SU-76M
+ussr_su_76m_5st_kav_corps_2;SPG
+ussr_su_76d_shop;SU-76D
+ussr_su_76d_0;GAZ-74 | SU-76D
+ussr_su_76d_1;SU-76D
+ussr_su_76d_2;SPG
 ussr_kv_8_shop;KV-8
 ussr_kv_8_0;"Kirovskij zavod Narkomata tankovoj promyšlyennosti v gorodye Čyelâbinskye (Zavod № 100) | Ob""yekt 228 | Tank KV-8"
 ussr_kv_8_1;KV-8
@@ -10688,30 +10724,6 @@ il_spyder_aio_2;SPAAM
 //ISRAEL BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 
 //TO BE CATEGORIZED;
-ussr_t_34E_shop;T-34 (Èkran.) (№112)
-ussr_t_34E_0;"Zavod №112 | Ob""yekt 34 | T-34 obr. 1941 g. (Èkranirovannyj) (February, 1943)"
-ussr_t_34E_1;T-34
-ussr_t_34E_2;Medium Tank
-ussr_t_34_1941_cast_turret_shop;"T-34 (Jul, 1941) (1-â Gv.T.Br.)"
-ussr_t_34_1941_cast_turret_0;"Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1941 g. (July, 1941) (1-â Gvardyejskaâ Tankovaâ Brigada)"
-ussr_t_34_1941_cast_turret_1;T-34
-ussr_t_34_1941_cast_turret_2;Medium Tank
-ussr_t_34_1941_shop;"T-34 (May, 1941)"
-ussr_t_34_1941_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1941 g. (May, 1941)"
-ussr_t_34_1941_1;T-34
-ussr_t_34_1941_2;Medium Tank
-ussr_t_34_1942_shop;"T-34 (Sep, 1942)"
-ussr_t_34_1942_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1942 g. (September, 1942)"
-ussr_t_34_1942_1;T-34
-ussr_t_34_1942_2;Medium Tank
-ussr_t_34_1941_l_11_shop;"T-34 (Dec, 1940)"
-ussr_t_34_1941_l_11_0;"Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1940 g. (December, 1940)"
-ussr_t_34_1941_l_11_1;T-34
-ussr_t_34_1941_l_11_2;Medium Tank
-ussr_t_34_1940_l_11_shop;T-34 (pilot)
-ussr_t_34_1940_l_11_0;"Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 (pilot model) (March, 1940)"
-ussr_t_34_1940_l_11_1;T-34
-ussr_t_34_1940_l_11_2;Medium Tank
 uk_fv4005_shop;Centaur
 uk_fv4005_0;F.V.4005 | Tank, Heavy Gun, Stage II, Centaur
 uk_fv4005_1;Centaur
@@ -10924,14 +10936,6 @@ ussr_su_100_1945_shop;SU-100
 ussr_su_100_1945_0;"Ob""yekt 138 | SU-100 obr. 1944 g."
 ussr_su_100_1945_1;SU-100
 ussr_su_100_1945_2;SPG
-ussr_su_76m_5st_kav_corps_shop;SU-76M (5-j Gv.Kav.Korp)
-ussr_su_76m_5st_kav_corps_0;SU-76M obr. 1943 g. (5-j Gvardyejskij Kavalyerijskij Korpus)
-ussr_su_76m_5st_kav_corps_1;SU-76M
-ussr_su_76m_5st_kav_corps_2;SPG
-ussr_su_76m_1943_shop;SU-76M
-ussr_su_76m_1943_0;SU-76M obr. 1943 g.
-ussr_su_76m_1943_1;SU-76M
-ussr_su_76m_1943_2;SPG
 ussr_su_85_1943_shop;SU-85
 ussr_su_85_1943_0;"Ob""yekt 139 | SU-85 obr. 1944 g."
 ussr_su_85_1943_1;SU-85
@@ -15623,10 +15627,6 @@ ussr_skr_pr50plo_rosomacha_shop;Rosomakha
 ussr_skr_pr50plo_rosomacha_0;Storozhyevyye Korabl' Proyekt 50, Tip Gornostaj, Rosomakha
 ussr_skr_pr50plo_rosomacha_1;Rosomakha
 ussr_skr_pr50plo_rosomacha_2;Patrol ship
-ussr_su_76d_shop;SU-76D
-ussr_su_76d_0;GAZ-74 | SU-76D
-ussr_su_76d_1;SU-76D
-ussr_su_76d_2;SPG
 ussr_cruiser_voroshilov_shop;Vorošilov
 ussr_cruiser_voroshilov_0;Pr. 26, Vorošilov, 1943
 ussr_cruiser_voroshilov_1;Vorošilov

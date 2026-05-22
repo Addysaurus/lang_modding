@@ -5543,6 +5543,34 @@ ussr_bt_7_1937_race_shop;BT-7
 ussr_bt_7_1937_race_0;A-7 | BT-7 obr. 1937 g.
 ussr_bt_7_1937_race_1;BT-7
 ussr_bt_7_1937_race_2;Light Tank
+ussr_t_26_4_shop;T-26-4
+ussr_t_26_4_0;T-26-4
+ussr_t_26_4_1;T-26-4
+ussr_t_26_4_2;Light Tank
+ussr_t_26_1940_shop;T-26-1
+ussr_t_26_1940_0;T-26-1 | T-26 obr. 1940 g.
+ussr_t_26_1940_1;T-26
+ussr_t_26_1940_2;Light Tank
+ussr_t_26_1940_1st_GvTBr_shop;T-26-1 (1-â Gv.T.Br.)
+ussr_t_26_1940_1st_GvTBr_0;T-26-1 | T-26 obr. 1940 g. (1-â Gvardyejskaâ Tankovaâ Brigada)
+ussr_t_26_1940_1st_GvTBr_1;T-26
+ussr_t_26_1940_1st_GvTBr_2;Light Tank
+ussr_t_26E_shop;T-26-1 (Èkran.)
+ussr_t_26E_0;T-26-1 | T-26 obr. 1940 g. (Èkranirovannyj)
+ussr_t_26E_1;T-26 
+ussr_t_26E_2;Light Tank
+ussr_t_28_1938_shop;T-28 (1936)
+ussr_t_28_1938_0;T-28 obr. 1936 g.
+ussr_t_28_1938_1;T-28
+ussr_t_28_1938_2;Medium Tank
+ussr_t_28_shop;T-28 (1938/39)
+ussr_t_28_0;T-28 obr. 1938/39 gg.
+ussr_t_28_1;T-28
+ussr_t_28_2;Medium Tank
+ussr_t_28E_shop;T-28 (Èkran.)
+ussr_t_28E_0;T-28 obr. 1938/39 gg. (Èkranirovannyj)
+ussr_t_28E_1;T-28
+ussr_t_28E_2;Medium Tank
 ussr_t_60_1941_shop;T-60 (1942)
 ussr_t_60_1941_0;"Ob""yekt 0-60 | T-60 obr. 1942 g."
 ussr_t_60_1941_1;T-60
@@ -5553,30 +5581,70 @@ ussr_t_70_1942_1;T-70
 ussr_t_70_1942_2;Light Tank
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
-ussr_t_34E_shop;T-34 (Èkran.) (№112)
-ussr_t_34E_0;"Zavod №112 | Ob""yekt 34 | T-34 obr. 1941 g. (Èkranirovannyj) (February, 1943)"
-ussr_t_34E_1;T-34
-ussr_t_34E_2;Medium Tank
-ussr_t_34_1941_cast_turret_shop;"T-34 (Jul, 1941) (1-â Gv.T.Br.)"
-ussr_t_34_1941_cast_turret_0;"Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1941 g. (July, 1941) (1-â Gvardyejskaâ Tankovaâ Brigada)"
-ussr_t_34_1941_cast_turret_1;T-34
-ussr_t_34_1941_cast_turret_2;Medium Tank
-ussr_t_34_1941_shop;"T-34 (May, 1941)"
-ussr_t_34_1941_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1941 g. (May, 1941)"
-ussr_t_34_1941_1;T-34
-ussr_t_34_1941_2;Medium Tank
-ussr_t_34_1942_shop;"T-34 (Sep, 1942)"
-ussr_t_34_1942_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1942 g. (September, 1942)"
-ussr_t_34_1942_1;T-34
-ussr_t_34_1942_2;Medium Tank
-ussr_t_34_1941_l_11_shop;"T-34 (Dec, 1940)"
+ussr_t_34_1941_l_11_shop;T-34 (Dec, 1940)
 ussr_t_34_1941_l_11_0;"Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1940 g. (December, 1940)"
 ussr_t_34_1941_l_11_1;T-34
 ussr_t_34_1941_l_11_2;Medium Tank
+ussr_t_34_1941_shop;T-34 (May, 1941)
+ussr_t_34_1941_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1941 g. (May, 1941)"
+ussr_t_34_1941_1;T-34
+ussr_t_34_1941_2;Medium Tank
+ussr_t_34_1942_shop;T-34 (Sep, 1942)
+ussr_t_34_1942_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1942 g. (September, 1942)"
+ussr_t_34_1942_1;T-34
+ussr_t_34_1942_2;Medium Tank
+ussr_t_34E_STZ_shop;T-34 (Èkran.) (STZ)
+ussr_t_34E_STZ_0;"Stalingradskij traktornyj zavod imyeni F.È. Dzyeržinskogo | Ob""yekt 34 | T-34 obr. 1941 g. (Èkranirovannyj) (February, 1942)"
+ussr_t_34E_STZ_1;T-34
+ussr_t_34E_STZ_2;Medium Tank
 ussr_t_34_1940_l_11_shop;T-34 (pilot)
 ussr_t_34_1940_l_11_0;"Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 (pilot model) (March, 1940)"
 ussr_t_34_1940_l_11_1;T-34
 ussr_t_34_1940_l_11_2;Medium Tank
+ussr_t_34_1941_cast_turret_shop;T-34 (Jul, 1941) (1-â Gv.T.Br.)
+ussr_t_34_1941_cast_turret_0;"Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1941 g. (July, 1941) (1-â Gvardyejskaâ Tankovaâ Brigada)"
+ussr_t_34_1941_cast_turret_1;T-34
+ussr_t_34_1941_cast_turret_2;Medium Tank
+ussr_t_34E_shop;T-34 (Èkran.) (№112)
+ussr_t_34E_0;"Zavod №112 | Ob""yekt 34 | T-34 obr. 1941 g. (Èkranirovannyj) (February, 1943)"
+ussr_t_34E_1;T-34
+ussr_t_34E_2;Medium Tank
+ussr_t_34_1941_57_shop;T-34 (May, 1941) (ZiS-4)
+ussr_t_34_1941_57_0;"Stalingradskij traktornyj zavod imyeni F.È. Dzyeržinskogo | Ob""yekt 34 | T-34 obr. 1941 g. (May, 1941) (ZiS-4)"
+ussr_t_34_1941_57_1;T-34
+ussr_t_34_1941_57_2;Medium Tank
+ussr_t_34_85_d_5t_shop;T-34-85 (Mar, 1944)
+ussr_t_34_85_d_5t_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 35 | T-34-85 obr. 1944 g. (March, 1944)"
+ussr_t_34_85_d_5t_1;T-34-85
+ussr_t_34_85_d_5t_2;Medium Tank
+ussr_t_34_85_zis_53_shop;T-34-85 (Sep, 1944)
+ussr_t_34_85_zis_53_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 35 | T-34-85 obr. 1944 g. (September, 1944)"
+ussr_t_34_85_zis_53_1;T-34-85
+ussr_t_34_85_zis_53_2;Medium Tank
+ussr_t_34_57_1943_shop;T-34 (Sep, 1942) (ZiS-4M)
+ussr_t_34_57_1943_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1942 g. (September, 1942) (ZiS-4M) (July, 1943)"
+ussr_t_34_57_1943_1;T-34
+ussr_t_34_57_1943_2;Medium Tank
+ussr_t_34_85_zis_53_kit_3rank_shop;"T-34-85 (Sep, 1944) ""In May 1945"""
+ussr_t_34_85_zis_53_kit_3rank_0;"Ural'skij tankovyj zavod №183 | Ob""yekt 35 | T-34-85 obr. 1944 g. (September, 1944) ""In May 1945"""
+ussr_t_34_85_zis_53_kit_3rank_1;T-34-85
+ussr_t_34_85_zis_53_kit_3rank_2;Medium Tank
+ussr_t_34_85_zis_53_v80_shop;T-34-85 (Sep, 1944) (64-â Gv.T.Br.)
+ussr_t_34_85_zis_53_v80_0;"Ural'skij tankovyj zavod №183 | Ob""yekt 35 | T-34-85 obr. 1944 g. (September, 1944) (64-â gvardyejskaâ tankovaâ brigada)"
+ussr_t_34_85_zis_53_v80_1;T-34-85
+ussr_t_34_85_zis_53_v80_2;Medium Tank
+ussr_t_34_85_stp_s53_shop;T-34-85 (May, 1945) (STP-S-53)
+ussr_t_34_85_stp_s53_0;"Zavod № 112 | Ob""yekt 135 | Tank T-34-85 obr. 1945 g. (May, 1945) (Stabilizator STP-S-53 ""Taran"")"
+ussr_t_34_85_stp_s53_1;T-34-85
+ussr_t_34_85_stp_s53_2;Medium Tank
+ussr_t_34_85E_shop;T-34-85 (Èkran.) (36-â T.Br.)
+ussr_t_34_85E_0;"Omskij zavod №174 imyeni Lyenina | Ob""yekt 35 | T-34-85 obr. 1944 g. (Èkranirovannyj) (September, 1944) (36-â Tankovaâ Brigada)"
+ussr_t_34_85E_1;T-34-85
+ussr_t_34_85E_2;Medium Tank
+ussr_t_34_100_shop;T-34-100 (LB-1)
+ussr_t_34_100_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 35 | T-34-100 (LB-1)"
+ussr_t_34_100_1;T-34-100
+ussr_t_34_100_2;Medium Tank
 ussr_t_50_shop;T-50
 ussr_t_50_0;135 | T-50
 ussr_t_50_1;T-50
@@ -5585,6 +5653,10 @@ ussr_t_50_for_tutorial_shop;T-50
 ussr_t_50_for_tutorial_0;135 | T-50
 ussr_t_50_for_tutorial_1;T-50
 ussr_t_50_for_tutorial_2;Light Tank
+ussr_t_80_shop;T-80
+ussr_t_80_0;"Ob""yekt 0-80 | T-80"
+ussr_t_80_1;T-80
+ussr_t_80_2;Light Tank
 ussr_t_126sp_shop;T-126SP
 ussr_t_126sp_0;126 | T-126SP
 ussr_t_126sp_1;T-126
@@ -5607,14 +5679,6 @@ ussr_kv_8_1;KV-8
 ussr_kv_8_2;Heavy Tank
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
-ussr_t_34_85_zis_53_v80_shop;T-34-85 (Sep, 1944) (64-â Gv.T.Br.)
-ussr_t_34_85_zis_53_v80_0;"Ural'skij tankovyj zavod №183 | Ob""yekt 35 | T-34-85 obr. 1944 g. (September, 1944) (64-â gvardyejskaâ tankovaâ brigada)"
-ussr_t_34_85_zis_53_v80_1;T-34-85
-ussr_t_34_85_zis_53_v80_2;Medium Tank
-ussr_t_34_85_zis_53_kit_3rank_shop;"T-34-85 (Sep, 1944) ""In May 1945"""
-ussr_t_34_85_zis_53_kit_3rank_0;"Ural'skij tankovyj zavod №183 | Ob""yekt 35 | T-34-85 obr. 1944 g. (September, 1944) ""In May 1945"""
-ussr_t_34_85_zis_53_kit_3rank_1;T-34-85
-ussr_t_34_85_zis_53_kit_3rank_2;Medium Tank
 ussr_is_1_shop;IS-1
 ussr_is_1_0;"Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g."
 ussr_is_1_1;IS-1
@@ -5631,20 +5695,36 @@ ussr_pt_76_57_shop;PT-76B (BM-57)
 ussr_pt_76_57_0;PT-76B (BM-57)
 ussr_pt_76_57_1;PT-76B (BM-57)
 ussr_pt_76_57_2;Light Tank
+ussr_su_85_1943_shop;SU-85
+ussr_su_85_1943_0;"Ob""yekt 139 | SU-85 obr. 1944 g."
+ussr_su_85_1943_1;SU-85
+ussr_su_85_1943_2;SPG
 ussr_sdkfz_251_21_kit_3rank_shop;"▂ m.S.P.W. D (M.G. 151 S) ""In May 1945"""
 ussr_sdkfz_251_21_kit_3rank_0;"▂ Hannoversche Maschinenbau | mittlerer Schützenpanzerwagen Ausf. D mit 2cm Drilling M.G. 151 S (Sd.Kfz. 251/21) ""In May 1945"""
 ussr_sdkfz_251_21_kit_3rank_1;▂ m.S.P.W. D (M.G. 151 S)
 ussr_sdkfz_251_21_kit_3rank_2;SPAAG
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
-ussr_t_34_85_stp_s53_shop;T-34-85 (May, 1945) (STP-S-53)
-ussr_t_34_85_stp_s53_0;"Zavod № 112 | Ob""yekt 135 | Tank T-34-85 obr. 1945 g. (May, 1945) (Stabilizator STP-S-53 ""Taran"")"
-ussr_t_34_85_stp_s53_1;T-34-85
-ussr_t_34_85_stp_s53_2;Medium Tank
+ussr_t_44_shop;T-44
+ussr_t_44_0;"Ob""yekt 136 | T-44"
+ussr_t_44_1;T-44
+ussr_t_44_2;Medium Tank
+ussr_t_44_122_shop;T-44-122
+ussr_t_44_122_0;"Ob""yekt 136 | T-44-122"
+ussr_t_44_122_1;T-44-122
+ussr_t_44_122_2;Medium Tank
 ussr_t_44_po_shop;T-44 (№ 1)
 ussr_t_44_po_0;"Ural'skij tankovyj zavod №183 imyeni Komintyerna | Ob""yekt 136 | T-44 (№ 1)"
 ussr_t_44_po_1;T-44
 ussr_t_44_po_2;Medium Tank
+ussr_t_44_100_shop;T-44-100
+ussr_t_44_100_0;"Ob""yekt 136 | T-44-100"
+ussr_t_44_100_1;T-44-100
+ussr_t_44_100_2;Medium Tank
+ussr_su_100_1945_shop;SU-100
+ussr_su_100_1945_0;"Ob""yekt 138 | SU-100 obr. 1944 g."
+ussr_su_100_1945_1;SU-100
+ussr_su_100_1945_2;SPG
 ussr_type_62_shop;▂ ZTQ62
 ussr_type_62_0;▂ Hā'ěrbīn Dì Yī Jīxiè Jítuán | WZ131 | ZTQ1962 Shì Qīngxíng Tankè
 ussr_type_62_1;▂ ZTQ62
@@ -5655,6 +5735,18 @@ ussr_type_65_aa_1;▂ A24
 ussr_type_65_aa_2;SPAAG
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+ussr_t_54_1947_shop;T-54-1
+ussr_t_54_1947_0;"Ob""yekt 137-I | T-54-1 | T-54 obr. 1947 g."
+ussr_t_54_1947_1;T-54
+ussr_t_54_1947_2;Medium Tank
+ussr_t_54_1949_shop;T-54-2
+ussr_t_54_1949_0;"Ob""yekt 137-II | T-54-2 | T-54 obr. 1949 g."
+ussr_t_54_1949_1;T-54
+ussr_t_54_1949_2;Medium Tank
+ussr_t_54_1951_shop;T-54-3
+ussr_t_54_1951_0;"Ob""yekt 137-III | T-54-1 | T-54 obr. 1951 g."
+ussr_t_54_1951_1;T-54
+ussr_t_54_1951_2;Medium Tank
 ussr_2s19_m1_shop;2S19M1
 ussr_2s19_m1_0;"Ural'skij zavod transportnogo mašinostroyeniâ imyeni Â.M. Svyerdlova | Ob""yekt 316 | 2S19M1 ""Msta-S"""
 ussr_2s19_m1_1;2S19M1
@@ -5669,6 +5761,10 @@ ussr_t_55_amd_1_shop;T-55AD-1
 ussr_t_55_amd_1_0;"Ob""yekt 155AD-1 | T-55AD-1"
 ussr_t_55_amd_1_1;T-55AD-1
 ussr_t_55_amd_1_2;Medium Tank
+ussr_t_62_shop;T-62
+ussr_t_62_0;"Ob""yekt 166 | T-62 obr. 1964 g."
+ussr_t_62_1;T-62
+ussr_t_62_2;Medium Tank
 ussr_bmd_4m2_shop;BMD-4M (Sinicza)
 ussr_bmd_4m2_0;"OAO «Kurganskij mašinostroityel'nyj zavod» | Ob""yekt 960M2 | Boyevaâ mašina dyesanta BMD-4M (Boyevoye otdyelyeniye Sinicza)"
 ussr_bmd_4m2_1;BMD-4M
@@ -5681,6 +5777,10 @@ ussr_bmd_4m_shop;BMD-4M
 ussr_bmd_4m_0;"OAO «Kurganskij mašinostroityel'nyj zavod» | Ob""yekt 960M | Boyevaâ mašina dyesanta BMD-4M"
 ussr_bmd_4m_1;BMD-4M
 ussr_bmd_4m_2;IFV
+ussr_it_1_shop;IT-1
+ussr_it_1_0;"Ob""yekt 150 | IT-1 ""Yaguar"""
+ussr_it_1_1;IT-1
+ussr_it_1_2;Medium Tank
 ussr_btr_82at_shop;BTR-82AT (9P163-1)
 ussr_btr_82at_0;Arzamasskij mašinostroityel'nyj zavod | Bronyetransportyer BTR-82AT (Puskovoye ustrojstvo 9P163-1)
 ussr_btr_82at_1;BTR-82AT
@@ -10836,94 +10936,6 @@ ussr_t_55a_shop;T-55A
 ussr_t_55a_0;T-55A obr. 1970 g.
 ussr_t_55a_1;T-55A
 ussr_t_55a_2;Medium Tank
-ussr_t_80_shop;T-80
-ussr_t_80_0;"Ob""yekt 0-80 | T-80"
-ussr_t_80_1;T-80
-ussr_t_80_2;Light Tank
-ussr_t_26_4_shop;T-26-4
-ussr_t_26_4_0;T-26-4
-ussr_t_26_4_1;T-26-4
-ussr_t_26_4_2;Light Tank
-ussr_t_26E_shop;T-26-1 (Èkran.)
-ussr_t_26E_0;T-26-1 | T-26 obr. 1940 g. (Èkranirovannyj)
-ussr_t_26E_1;T-26 
-ussr_t_26E_2;Light Tank
-ussr_t_26_1940_1st_GvTBr_shop;T-26-1 (1-â Gv.T.Br.)
-ussr_t_26_1940_1st_GvTBr_0;T-26-1 | T-26 obr. 1940 g. (1-â Gvardyejskaâ Tankovaâ Brigada)
-ussr_t_26_1940_1st_GvTBr_1;T-26
-ussr_t_26_1940_1st_GvTBr_2;Light Tank
-ussr_t_26_1940_shop;T-26-1
-ussr_t_26_1940_0;T-26-1 | T-26 obr. 1940 g.
-ussr_t_26_1940_1;T-26
-ussr_t_26_1940_2;Light Tank
-ussr_t_28E_shop;T-28 (Èkran.)
-ussr_t_28E_0;T-28 obr. 1938/39 gg. (Èkranirovannyj)
-ussr_t_28E_1;T-28
-ussr_t_28E_2;Medium Tank
-ussr_t_28_1938_shop;T-28 (1936)
-ussr_t_28_1938_0;T-28 obr. 1936 g.
-ussr_t_28_1938_1;T-28
-ussr_t_28_1938_2;Medium Tank
-ussr_t_28_shop;T-28 (1938/39)
-ussr_t_28_0;T-28 obr. 1938/39 gg.
-ussr_t_28_1;T-28
-ussr_t_28_2;Medium Tank
-ussr_t_44_122_shop;T-44-122
-ussr_t_44_122_0;"Ob""yekt 136 | T-44-122"
-ussr_t_44_122_1;T-44-122
-ussr_t_44_122_2;Medium Tank
-ussr_t_44_shop;T-44
-ussr_t_44_0;"Ob""yekt 136 | T-44"
-ussr_t_44_1;T-44
-ussr_t_44_2;Medium Tank
-ussr_t_44_100_shop;T-44-100
-ussr_t_44_100_0;"Ob""yekt 136 | T-44-100"
-ussr_t_44_100_1;T-44-100
-ussr_t_44_100_2;Medium Tank
-ussr_t_54_1949_shop;T-54-2
-ussr_t_54_1949_0;"Ob""yekt 137-II | T-54-2 | T-54 obr. 1949 g."
-ussr_t_54_1949_1;T-54
-ussr_t_54_1949_2;Medium Tank
-ussr_t_54_1947_shop;T-54-1
-ussr_t_54_1947_0;"Ob""yekt 137-I | T-54-1 | T-54 obr. 1947 g."
-ussr_t_54_1947_1;T-54
-ussr_t_54_1947_2;Medium Tank
-ussr_t_54_1951_shop;T-54-3
-ussr_t_54_1951_0;"Ob""yekt 137-III | T-54-1 | T-54 obr. 1951 g."
-ussr_t_54_1951_1;T-54
-ussr_t_54_1951_2;Medium Tank
-ussr_t_62_shop;T-62
-ussr_t_62_0;"Ob""yekt 166 | T-62 obr. 1964 g."
-ussr_t_62_1;T-62
-ussr_t_62_2;Medium Tank
-ussr_t_34_100_shop;T-34-100 (LB-1)
-ussr_t_34_100_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 35 | T-34-100 (LB-1)"
-ussr_t_34_100_1;T-34-100
-ussr_t_34_100_2;Medium Tank
-ussr_t_34_85_d_5t_shop;T-34-85 (Mar, 1944)
-ussr_t_34_85_d_5t_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 35 | T-34-85 obr. 1944 g. (March, 1944)"
-ussr_t_34_85_d_5t_1;T-34-85
-ussr_t_34_85_d_5t_2;Medium Tank
-ussr_t_34_85E_shop;T-34-85 (Èkran.) (36-â T.Br.)
-ussr_t_34_85E_0;"Omskij zavod №174 imyeni Lyenina | Ob""yekt 35 | T-34-85 obr. 1944 g. (Èkranirovannyj) (September, 1944) (36-â Tankovaâ Brigada)"
-ussr_t_34_85E_1;T-34-85
-ussr_t_34_85E_2;Medium Tank
-ussr_t_34_85_zis_53_shop;T-34-85 (Sep, 1944)
-ussr_t_34_85_zis_53_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 35 | T-34-85 obr. 1944 g. (September, 1944)"
-ussr_t_34_85_zis_53_1;T-34-85
-ussr_t_34_85_zis_53_2;Medium Tank
-ussr_t_34_57_1943_shop;T-34 (Sep, 1942) (ZiS-4M)
-ussr_t_34_57_1943_0;"Ural'skij Tankovyj Zavod, Zavod №183 | Ob""yekt 34 | T-34 obr. 1942 g. (September, 1942) (ZiS-4M) (July, 1943)"
-ussr_t_34_57_1943_1;T-34
-ussr_t_34_57_1943_2;Medium Tank
-ussr_t_34E_STZ_shop;T-34 (Èkran.) (STZ)
-ussr_t_34E_STZ_0;"Stalingradskij traktornyj zavod imyeni F.È. Dzyeržinskogo | Ob""yekt 34 | T-34 obr. 1941 g. (Èkranirovannyj) (February, 1942)"
-ussr_t_34E_STZ_1;T-34
-ussr_t_34E_STZ_2;Medium Tank
-ussr_t_34_1941_57_shop;T-34 (May, 1941) (ZiS-4)
-ussr_t_34_1941_57_0;"Stalingradskij traktornyj zavod imyeni F.È. Dzyeržinskogo | Ob""yekt 34 | T-34 obr. 1941 g. (May, 1941) (ZiS-4)"
-ussr_t_34_1941_57_1;T-34
-ussr_t_34_1941_57_2;Medium Tank
 ussr_su_100Y_shop;SU-100Y
 ussr_su_100Y_0;SU-100Y
 ussr_su_100Y_1;SU-100Y
@@ -10932,18 +10944,6 @@ ussr_su_122P_shop;SU-122P
 ussr_su_122P_0;SU-122P
 ussr_su_122P_1;SU-122P
 ussr_su_122P_2;SPG
-ussr_it_1_shop;IT-1
-ussr_it_1_0;"Ob""yekt 150 | IT-1 ""Yaguar"""
-ussr_it_1_1;IT-1
-ussr_it_1_2;Medium Tank
-ussr_su_100_1945_shop;SU-100
-ussr_su_100_1945_0;"Ob""yekt 138 | SU-100 obr. 1944 g."
-ussr_su_100_1945_1;SU-100
-ussr_su_100_1945_2;SPG
-ussr_su_85_1943_shop;SU-85
-ussr_su_85_1943_0;"Ob""yekt 139 | SU-85 obr. 1944 g."
-ussr_su_85_1943_1;SU-85
-ussr_su_85_1943_2;SPG
 ussr_bm_8_24_shop;BM-8-24
 ussr_bm_8_24_0;BM-8-24
 ussr_bm_8_24_1;BM-8-24

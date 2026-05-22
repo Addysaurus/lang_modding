@@ -3947,6 +3947,30 @@ Bronirovannyj avtomobil' ""Garford"""
 ussr_garford_putilov_1;Garford
 ussr_garford_putilov_2;Armored Car
 
+ussr_bt_7_1937_shop;BT-7 (1937)
+ussr_bt_7_1937_0;"<color=#5cae63>A-7</color>
+BT-7 obr. 1937 g."
+ussr_bt_7_1937_1;BT-7
+ussr_bt_7_1937_2;Light Tank
+
+ussr_bt_7_1937_race_shop;BT-7
+ussr_bt_7_1937_race_0;"<color=#5cae63>A-7</color>
+BT-7 obr. 1937 g."
+ussr_bt_7_1937_race_1;BT-7
+ussr_bt_7_1937_race_2;Light Tank
+
+ussr_t_60_1941_shop;T-60 (1942)
+ussr_t_60_1941_0;"<color=#5cae63>Ob""yekt 0-60</color>
+T-60 obr. 1942 g."
+ussr_t_60_1941_1;T-60
+ussr_t_60_1941_2;Light Tank
+
+ussr_t_70_1942_shop;T-70
+ussr_t_70_1942_0;"<color=#5cae63>Ob""yekt 0-70</color>
+T-70 obr. 1942 g."
+ussr_t_70_1942_1;T-70
+ussr_t_70_1942_2;Light Tank
+
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 ussr_t_34E_shop;T-34 (Èkran.) (№112)
 ussr_t_34E_0;"<color=#81c3fc>Zavod №112</color>
@@ -3995,6 +4019,24 @@ T-34
 <color=#adadad>(pilot model) (March, 1940)</color>"
 ussr_t_34_1940_l_11_1;T-34
 ussr_t_34_1940_l_11_2;Medium Tank
+
+ussr_t_50_shop;T-50
+ussr_t_50_0;"<color=#5cae63>135</color>
+T-50"
+ussr_t_50_1;T-50
+ussr_t_50_2;Light Tank
+
+ussr_t_50_for_tutorial_shop;T-50
+ussr_t_50_for_tutorial_0;"<color=#5cae63>135</color>
+T-50"
+ussr_t_50_for_tutorial_1;T-50
+ussr_t_50_for_tutorial_2;Light Tank
+
+ussr_t_126sp_shop;T-126SP
+ussr_t_126sp_0;"<color=#5cae63>126</color>
+T-126SP"
+ussr_t_126sp_1;T-126
+ussr_t_126sp_2;Light Tank
 
 ussr_su_76m_1943_shop;SU-76M
 ussr_su_76m_1943_0;"SU-76M obr. 1943 g."
@@ -4055,6 +4097,18 @@ IS-1 obr. 1943 g.
 ussr_is_1_kit_3rank_1;IS-1
 ussr_is_1_kit_3rank_2;Heavy Tank
 
+ussr_pt_76b_shop;PT-76B
+ussr_pt_76b_0;"<color=#5cae63>Ob""yekt 740B</color>
+PT-76B obr. 1959 g."
+ussr_pt_76b_1;PT-76B
+ussr_pt_76b_2;Light Tank
+
+ussr_pt_76_57_shop;PT-76B (BM-57)
+ussr_pt_76_57_0;"PT-76B
+<color=#adadad>(BM-57)</color>"
+ussr_pt_76_57_1;PT-76B (BM-57)
+ussr_pt_76_57_2;Light Tank
+
 ussr_sdkfz_251_21_kit_3rank_shop;"▂ m.S.P.W. D (M.G. 151 S) ""In May 1945"""
 ussr_sdkfz_251_21_kit_3rank_0;"<color=#81c3fc>Hannoversche Maschinenbau</color>
 <color=#5cae63>Sd.Kfz. 251/21</color>
@@ -4109,6 +4163,12 @@ ussr_2s19_m2_1;2S19M2
 ussr_2s19_m2_2;SPH
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+ussr_t_55_amd_1_shop;T-55AD-1
+ussr_t_55_amd_1_0;"<color=#5cae63>Ob""yekt 155AD-1</color>
+T-55AD-1"
+ussr_t_55_amd_1_1;T-55AD-1
+ussr_t_55_amd_1_2;Medium Tank
+
 ussr_bmd_4m2_shop;BMD-4M (Sinicza)
 ussr_bmd_4m2_0;"<color=#81c3fc>Kurganskij mašinostroityel'nyj zavod</color>
 <color=#5cae63>Ob""yekt 960M2</color>
@@ -4580,6 +4640,31 @@ Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I"
 uk_a25_mk_8_1;Harry Hopkins, Mk. I
 uk_a25_mk_8_2;Light Tank
 
+uk_ac1_sentinel_shop;A.C.I
+uk_ac1_sentinel_0;"<color=#81c3fc>Chullora Tank Assembly Shops</color>
+Tank, Australian Cruiser, Mk. I ""Sentinel"""
+uk_ac1_sentinel_1;A.C.I
+uk_ac1_sentinel_2;Cruiser Tank
+
+uk_ac4_thunderbolt_shop;A.C.IV
+uk_ac4_thunderbolt_0;"<color=#81c3fc>Chullora Tank Assembly Shops</color>
+Tank, Australian Cruiser, Mk. IV ""Thunderbolt"""
+uk_ac4_thunderbolt_1;A.C.IV
+uk_ac4_thunderbolt_2;Cruiser Tank
+
+uk_m4a5_ram_2_shop;"Ram, Mk. II ""B"""
+uk_m4a5_ram_2_0;"<color=#81c3fc>Montreal Locomotive Works</color>
+Tank, Cruiser, Ram, Mk. II ""B"""
+uk_m4a5_ram_2_1;Ram, Mk. II
+uk_m4a5_ram_2_2;Medium Tank
+
+uk_ram_90mm_aa_shop;Ram, Mk. II (O.Q.F., 3.7-inch, Mk. II)
+uk_ram_90mm_aa_0;"<color=#81c3fc>Montreal Locomotive Works</color>
+Tank, Cruiser, Ram, Mk. II
+<color=#adadad>(Gun, O.Q.F., 3.7-inch, Mk. II)</color>"
+uk_ram_90mm_aa_1;Ram, Mk. II (3.7-inch)
+uk_ram_90mm_aa_2;SPG
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 uk_sherman_vc_firefly_shop;Sherman, Mk. Vc
 uk_sherman_vc_firefly_0;"<color=#81c3fc>United States Army Ordnance Department <color=@commonTextColor>+</color> Royal Ordnance Factory
@@ -4596,6 +4681,12 @@ Tank, Medium, Sherman, Mk. Vc ""Firefly""
 uk_sherman_vc_firefly_kit_3rank_1;Sherman, Mk. V
 uk_sherman_vc_firefly_kit_3rank_2;Medium Tank
 
+uk_m44_shop;Cardinal
+uk_m44_0;"<color=#81c3fc>Massey-Harris</color>
+155mm, Self-Propelled, Cardinal"
+uk_m44_1;Cardinal
+uk_m44_2;SPH
+
 uk_a30_sp_avenger_shop;Avenger, Mk. I
 uk_a30_sp_avenger_0;"<color=#81c3fc>Birmingham Railway Carriage and Wagon Company</color>
 17-pdr, Self-Propelled, A.30, Avenger, Mk. I"
@@ -4610,6 +4701,18 @@ uk_a30_sp_avenger_kit_3rank_1;Avenger, Mk. I
 uk_a30_sp_avenger_kit_3rank_2;Medium Tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+uk_fv4005_shop;Centaur
+uk_fv4005_0;"<color=#5cae63>F.V.4005</color>
+Tank, Heavy Gun, Stage II, Centaur"
+uk_fv4005_1;Centaur
+uk_fv4005_2;SPG
+
+uk_m109a1_shop;▄ M109A1
+uk_m109a1_0;"<color=#5cae63>G-296</color>
+▄ Howitzer, Medium, Self-Propelled, 155mm, M109A1"
+uk_m109a1_1;▄ M109A1
+uk_m109a1_2;SPG
+
 uk_as_90_mk_2_shop;L131
 uk_as_90_mk_2_0;"<color=#81c3fc>Vickers Shipbuilding and Engineering</color>
 Gun Equipment, 155 mm, L131"

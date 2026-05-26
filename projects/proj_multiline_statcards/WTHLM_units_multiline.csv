@@ -3505,12 +3505,22 @@ germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
 germ_flakpanzer_zerstorer_45_2;SPAA
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+germ_marder_df_105_shop;◄ DF 105
+germ_marder_df_105_0;<color=#81c3fc>◄ Thyssen Henschel DF 105</color>
+germ_marder_df_105_1;◄ DF 105
+germ_marder_df_105_2;Light Tank
+
 germ_leopard_a1a1_120_shop;Leopard 1 (MPI)
 germ_leopard_a1a1_120_0;"<color=#81c3fc>Krauss-Maffei Wegmann <color=@commonTextColor>/</color> Rheinmetall Defense Engineering
 Main Battle Tank Leopard 1</color>
 <color=#adadad>(Maximum Product Improvement)</color>"
 germ_leopard_a1a1_120_1;Leopard 1
 germ_leopard_a1a1_120_2;MBT
+
+germ_marder_clovis_shop;◄ CLOVIS
+germ_marder_clovis_0;<color=#81c3fc>◄ Thyssen Henschel CLOVIS, FL 20, 105 mm</color>
+germ_marder_clovis_1;◄ CLOVIS
+germ_marder_clovis_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 germ_jaguar_2_shop;RakJPz 4 Jaguar 2
@@ -3543,6 +3553,19 @@ Schützenpanzer Puma Very High Readiness Joint Task Force"
 germ_schutzenpanzer_puma_vjtf_1;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_2;IFV
 
+germ_leopard_2k_shop;KPz Leopard 2 K (PT 14/T 11)
+germ_leopard_2k_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2 K, PT 14 mit T 11"
+germ_leopard_2k_1;Leopard 2
+germ_leopard_2k_2;MBT
+
+germ_leopard_2a4_shop;KPz Leopard 2 A4 (C)
+germ_leopard_2a4_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2 A4
+<color=#adadad>(C)</color>"
+germ_leopard_2a4_1;Leopard 2 A4
+germ_leopard_2a4_2;MBT
+
 germ_leopard_2a4m_can_shop;Leopard 2A4M CAN
 germ_leopard_2a4m_can_0;"<color=#81c3fc>KNDS Deutschland</color>
 Leopard 2A4M CAN"
@@ -3555,6 +3578,62 @@ germ_leopard_2a4m_can_sm_0;"<color=#81c3fc>KNDS Deutschland</color>
 <color=@currencyGoldColor>«Elsa»</color>"
 germ_leopard_2a4m_can_sm_1;◍ Leopard 2A4M
 germ_leopard_2a4m_can_sm_2;MBT
+
+germ_leopard_2av_shop;KPz Leopard 2 AV (PT 19/T 19)
+germ_leopard_2av_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+KPz Leopard 2 AV, PT 19 mit T 19"
+germ_leopard_2av_1;KPz Leopard 2 AV
+germ_leopard_2av_2;MBT
+
+germ_leopard_2_pt14_shop;KPz Leopard 2 (PT 16/T 14)
+germ_leopard_2_pt14_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2, PT 16 mit T 14"
+germ_leopard_2_pt14_1;Leopard 2
+germ_leopard_2_pt14_2;MBT
+
+germ_leopard_2a4_pzbtl_123_shop;KPz Leopard 2 A4 (C) (PzBtl 123)
+germ_leopard_2a4_pzbtl_123_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2 A4
+<color=#adadad>(C)</color>
+<color=@currencyGoldColor>Panzerbataillon 123</color>"
+germ_leopard_2a4_pzbtl_123_1;Leopard 2 A4
+germ_leopard_2a4_pzbtl_123_2;MBT
+
+germ_leopard_2a5_shop;KPz Leopard 2 A5
+germ_leopard_2a5_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2 A5"
+germ_leopard_2a5_1;Leopard 2
+germ_leopard_2a5_2;MBT
+
+germ_leopard_2a6_shop;KPz Leopard 2 A6
+germ_leopard_2a6_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2 A6"
+germ_leopard_2a6_1;Leopard 2
+germ_leopard_2a6_2;MBT
+
+germ_leopard_2a5_pso_shop;Leopard 2 PSO
+germ_leopard_2a5_pso_0;<color=#81c3fc>KNDS Deutschland Leopard 2 Peace Support Operations</color>
+germ_leopard_2a5_pso_1;Leopard 2 PSO
+germ_leopard_2a5_pso_2;MBT
+
+germ_leopard_2a7v_shop;KPz Leopard 2 A7V
+germ_leopard_2a7v_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2 A7V"
+germ_leopard_2a7v_1;Leopard 2 A7
+germ_leopard_2a7v_2;MBT
+
+germ_leopard_2pl_shop;⋠ KPz Leopard 2 A4 PL (AMAP)
+germ_leopard_2pl_0;"<color=#81c3fc>Krauss-Maffei Wegmann <color=@commonTextColor>/</color> Rheinmetall Landsysteme</color>
+⋠ Kampfpanzer Leopard 2 A4 PL
+<color=#adadad>(Advanced Modular Armor Protection)</color>"
+germ_leopard_2pl_1;⋠ Leopard 2
+germ_leopard_2pl_2;MBT
+
+germ_leopard_2a5_yt_cup_2019_shop;␙ KPz Leopard 2 A5
+germ_leopard_2a5_yt_cup_2019_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+␙ Kampfpanzer Leopard 2 A5"
+germ_leopard_2a5_yt_cup_2019_1;␙ Leopard 2
+germ_leopard_2a5_yt_cup_2019_2;MBT
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 germ_flarakrad_shop;FlaRakRad 1 Roland
@@ -4228,6 +4307,19 @@ SU-85 obr. 1944 g."
 ussr_su_85_1943_1;SU-85
 ussr_su_85_1943_2;SPG
 
+ussr_su_85m_shop;SU-85M
+ussr_su_85m_0;"<color=#5cae63>Ob""yekt 139</color>
+SU-85M obr. 1944 g."
+ussr_su_85m_1;SU-85M
+ussr_su_85m_2;SPG
+
+ussr_isu_122s_shop;ISU-122S
+ussr_isu_122s_0;"<color=#5cae63>Ob""yekt 249</color>
+<color=#7ce68f>ISU-122-2</color>
+ISU-122S obr. 1945 g."
+ussr_isu_122s_1;ISU-122S
+ussr_isu_122s_2;SPG
+
 ussr_sdkfz_251_21_kit_3rank_shop;"▂ m.S.P.W. D (M.G. 151 S) ""In May 1945"""
 ussr_sdkfz_251_21_kit_3rank_0;"<color=#81c3fc>Hannoversche Maschinenbau</color>
 <color=#5cae63>Sd.Kfz. 251/21</color>
@@ -4380,7 +4472,8 @@ ussr_t_80ue1_sm_shop;◍ T-80U-Ye1
 ussr_t_80ue1_sm_0;"<color=#81c3fc>Kirovskij zavod <color=@commonTextColor>/</color>
 Omskij zavod transportnogo mašinostroyeniâ</color>
 <color=#5cae63>Ob""yekt 219AS-1</color>
-◍ Tank T-80U-Ye1 «Maria»"
+◍ Tank T-80U-Ye1
+<color=@currencyGoldColor>«Maria»</color>"
 ussr_t_80ue1_sm_1;◍ T-80U-Ye1
 ussr_t_80ue1_sm_2;MBT
 
@@ -4943,6 +5036,15 @@ uk_boxer_crv_block2_1;▄ Boxer CRV
 uk_boxer_crv_block2_2;CRV
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+uk_challenger_2_megatron_sm_shop;◍ Challenger 2 TES (2H) (2011)
+uk_challenger_2_megatron_sm_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+◍ Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard
+<color=#adadad>(Dorchester Level 2H) (2011)</color>
+<color=@currencyGoldColor>«Emily»</color>"
+uk_challenger_2_megatron_sm_1;◍ Challenger 2 TES
+uk_challenger_2_megatron_sm_2;MBT
+
 uk_sky_sabre_launcher_shop;SV 15T (Land Ceptor)
 uk_sky_sabre_launcher_0;"<color=#81c3fc>Rafael International <color=@commonTextColor>+</color> MBDA UK</color>
 Support Vehicle 15-Tonne
@@ -7266,6 +7368,13 @@ jp_type_90b_camo_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 jp_type_90b_camo_1;90TK (B)
 jp_type_90b_camo_2;MBT
 
+jp_type_90b_sm_shop;◍ 90TK (B)
+jp_type_90b_sm_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+◍ 90 Shiki Sensha B Gata
+<color=@currencyGoldColor>«Usagi»</color>"
+jp_type_90b_sm_1;◍ 90TK (B)
+jp_type_90b_sm_2;MBT
+
 jp_type_93_shop;93 Shiki
 jp_type_93_0;"<color=#81c3fc>Tōshiba</color>
 93 Shiki Kinkyorichi Taikū Yūdōdan ""Kurōzudo Arō"""
@@ -9137,6 +9246,14 @@ cn_mbt2000_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōn
 MBT-2000"
 cn_mbt2000_1;MBT-2000
 cn_mbt2000_2;MBT
+
+cn_mbt2000_sm_shop;MBT-2000
+cn_mbt2000_sm_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>BW123A</color>
+MBT-2000
+<color=@currencyGoldColor>«Líng»</color>"
+cn_mbt2000_sm_1;MBT-2000
+cn_mbt2000_sm_2;MBT
 
 cn_vt_4_shop;VT4
 cn_vt_4_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>

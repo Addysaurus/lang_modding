@@ -1411,7 +1411,7 @@ shop/group/ussr_bmp_2_group;BMP-2D / Ob. 685
 shop/group/ussr_bmp_3_group;BMP-3 / 2S25
 shop/group/ussr_zis_su_group;ZiS-30 / SU-57B
 shop/group/ussr_su_isu_152_group;SU-152 (Mar 1943) / 85 / ISU-152
-shop/group/ussr_su_isu_122_group;SU-85M / ISU-122
+shop/group/ussr_su_isu_122_group;SU-85M / ISU-122 / 122S
 shop/group/ussr_kit_3rank_group;"""In May 1945"""
 shop/group/ussr_isu_su_group;ISU-122S / SU-100
 shop/group/ussr_2s_group;2S1 / 3M
@@ -5237,6 +5237,10 @@ germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
 germ_flakpanzer_zerstorer_45_2;SPAA
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+germ_marder_df_105_shop;◄ DF 105
+germ_marder_df_105_0;◄ Thyssen Henschel DF 105
+germ_marder_df_105_1;◄ DF 105
+germ_marder_df_105_2;Light Tank
 germ_leopard_a1a1_120_shop;Leopard 1 (MPI)
 germ_leopard_a1a1_120_0;Krauss-Maffei Wegmann / Rheinmetall Defense Engineering Main Battle Tank Leopard 1 (Maximum Product Improvement)
 germ_leopard_a1a1_120_1;Leopard 1
@@ -5269,6 +5273,14 @@ germ_schutzenpanzer_puma_vjtf_shop;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_0;KNDS Deutschland | Schützenpanzer Puma Very High Readiness Joint Task Force
 germ_schutzenpanzer_puma_vjtf_1;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_2;IFV
+germ_leopard_2k_shop;KPz Leopard 2 K (PT 14/T 11)
+germ_leopard_2k_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 K, PT 14 mit T 11
+germ_leopard_2k_1;Leopard 2
+germ_leopard_2k_2;MBT
+germ_leopard_2a4_shop;KPz Leopard 2 A4 (C)
+germ_leopard_2a4_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A4 (C)
+germ_leopard_2a4_1;Leopard 2 A4
+germ_leopard_2a4_2;MBT
 germ_leopard_2a4m_can_shop;Leopard 2A4M CAN
 germ_leopard_2a4m_can_0;KNDS Deutschland | Leopard 2A4M CAN
 germ_leopard_2a4m_can_1;Leopard 2A4M
@@ -5277,6 +5289,42 @@ germ_leopard_2a4m_can_sm_shop;◍ Leopard 2A4M CAN
 germ_leopard_2a4m_can_sm_0;◍ KNDS Deutschland | Leopard 2A4M CAN «Elsa»
 germ_leopard_2a4m_can_sm_1;◍ Leopard 2A4M
 germ_leopard_2a4m_can_sm_2;MBT
+germ_leopard_2av_shop;KPz Leopard 2 AV (PT 19/T 19)
+germ_leopard_2av_0;Krauss-Maffei Wegmann | KPz Leopard 2 AV, PT 19 mit T 19
+germ_leopard_2av_1;KPz Leopard 2 AV
+germ_leopard_2av_2;MBT
+germ_leopard_2_pt14_shop;KPz Leopard 2 (PT 16/T 14)
+germ_leopard_2_pt14_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2, PT 16 mit T 14
+germ_leopard_2_pt14_1;Leopard 2
+germ_leopard_2_pt14_2;MBT
+germ_leopard_2a4_pzbtl_123_shop;KPz Leopard 2 A4 (C) (PzBtl 123)
+germ_leopard_2a4_pzbtl_123_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A4 (C) (Panzerbataillon 123)
+germ_leopard_2a4_pzbtl_123_1;Leopard 2 A4
+germ_leopard_2a4_pzbtl_123_2;MBT
+germ_leopard_2a5_shop;KPz Leopard 2 A5
+germ_leopard_2a5_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A5
+germ_leopard_2a5_1;Leopard 2
+germ_leopard_2a5_2;MBT
+germ_leopard_2a6_shop;KPz Leopard 2 A6
+germ_leopard_2a6_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A6
+germ_leopard_2a6_1;Leopard 2
+germ_leopard_2a6_2;MBT
+germ_leopard_2a5_pso_shop;Leopard 2 PSO
+germ_leopard_2a5_pso_0;KNDS Deutschland Leopard 2 Peace Support Operations
+germ_leopard_2a5_pso_1;Leopard 2 PSO
+germ_leopard_2a5_pso_2;MBT
+germ_leopard_2a7v_shop;KPz Leopard 2 A7V
+germ_leopard_2a7v_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A7V
+germ_leopard_2a7v_1;Leopard 2 A7
+germ_leopard_2a7v_2;MBT
+germ_leopard_2pl_shop;⋠ KPz Leopard 2 A4 PL (AMAP)
+germ_leopard_2pl_0;⋠ Krauss-Maffei Wegmann / Rheinmetall Landsysteme | Kampfpanzer Leopard 2 A4 PL (Advanced Modular Armor Protection)
+germ_leopard_2pl_1;⋠ Leopard 2
+germ_leopard_2pl_2;MBT
+germ_leopard_2a5_yt_cup_2019_shop;␙ KPz Leopard 2 A5
+germ_leopard_2a5_yt_cup_2019_0;␙ Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A5
+germ_leopard_2a5_yt_cup_2019_1;␙ Leopard 2
+germ_leopard_2a5_yt_cup_2019_2;MBT
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 germ_flarakrad_shop;FlaRakRad 1 Roland
@@ -5699,6 +5747,14 @@ ussr_su_85_1943_shop;SU-85
 ussr_su_85_1943_0;"Ob""yekt 139 | SU-85 obr. 1944 g."
 ussr_su_85_1943_1;SU-85
 ussr_su_85_1943_2;SPG
+ussr_su_85m_shop;SU-85M
+ussr_su_85m_0;"Ob""yekt 139 | SU-85M obr. 1944 g."
+ussr_su_85m_1;SU-85M
+ussr_su_85m_2;SPG
+ussr_isu_122s_shop;ISU-122S
+ussr_isu_122s_0;"Ob""yekt 249 | ISU-122-2 | ISU-122S obr. 1945 g."
+ussr_isu_122s_1;ISU-122S
+ussr_isu_122s_2;SPG
 ussr_sdkfz_251_21_kit_3rank_shop;"▂ m.S.P.W. D (M.G. 151 S) ""In May 1945"""
 ussr_sdkfz_251_21_kit_3rank_0;"▂ Hannoversche Maschinenbau | mittlerer Schützenpanzerwagen Ausf. D mit 2cm Drilling M.G. 151 S (Sd.Kfz. 251/21) ""In May 1945"""
 ussr_sdkfz_251_21_kit_3rank_1;▂ m.S.P.W. D (M.G. 151 S)
@@ -6171,6 +6227,10 @@ uk_boxer_crv_block2_1;▄ Boxer CRV
 uk_boxer_crv_block2_2;CRV
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+uk_challenger_2_megatron_sm_shop;◍ Challenger 2 TES (2H) (2011)
+uk_challenger_2_megatron_sm_0;◍ Vickers Defence Systems | F.V.4034 | Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard (Dorchester Level 2H) (2011) «Emily»
+uk_challenger_2_megatron_sm_1;◍ Challenger 2 TES
+uk_challenger_2_megatron_sm_2;MBT
 uk_sky_sabre_launcher_shop;SV 15T (Land Ceptor)
 uk_sky_sabre_launcher_0;Rafael International + MBDA UK | Support Vehicle 15-Tonne (Land Ceptor)
 uk_sky_sabre_launcher_1;SV 15T (Land Ceptor)
@@ -7543,6 +7603,10 @@ jp_type_90b_camo_shop;90TK (B) (Fuji Gakkō)
 jp_type_90b_camo_0;Mitsubishi Jū Kōgyō | 90 Shiki Sensha B Gata (Rikujō Jieitai Fuji Gakkō, Kikō Kyōdō Rentai, Dai 3 Sensha Chūtai)
 jp_type_90b_camo_1;90TK (B)
 jp_type_90b_camo_2;MBT
+jp_type_90b_sm_shop;◍ 90TK (B)
+jp_type_90b_sm_0;◍ Mitsubishi Jū Kōgyō | 90 Shiki Sensha B Gata «Usagi»
+jp_type_90b_sm_1;◍ 90TK (B)
+jp_type_90b_sm_2;MBT
 jp_type_93_shop;93 Shiki
 jp_type_93_0;"Tōshiba | 93 Shiki Kinkyorichi Taikū Yūdōdan ""Kurōzudo Arō"""
 jp_type_93_1;93 Shiki
@@ -8703,6 +8767,10 @@ cn_mbt2000_shop;MBT-2000
 cn_mbt2000_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | BW123A | MBT-2000
 cn_mbt2000_1;MBT-2000
 cn_mbt2000_2;MBT
+cn_mbt2000_sm_shop;MBT-2000
+cn_mbt2000_sm_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | BW123A | MBT-2000 «Líng»
+cn_mbt2000_sm_1;MBT-2000
+cn_mbt2000_sm_2;MBT
 cn_vt_4_shop;VT4
 cn_vt_4_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | VT4 Zhu Zhàn Tankè
 cn_vt_4_1;VT4
@@ -10948,14 +11016,6 @@ ussr_bm_8_24_shop;BM-8-24
 ussr_bm_8_24_0;BM-8-24
 ussr_bm_8_24_1;BM-8-24
 ussr_bm_8_24_2;MLRS
-ussr_su_85m_shop;SU-85M
-ussr_su_85m_0;"Ob""yekt 139 | SU-85M obr. 1944 g."
-ussr_su_85m_1;SU-85M
-ussr_su_85m_2;SPG
-ussr_isu_122s_shop;ISU-122S
-ussr_isu_122s_0;"Ob""yekt 249 | ISU-122-2 | ISU-122S obr. 1945 g."
-ussr_isu_122s_1;ISU-122S
-ussr_isu_122s_2;SPG
 ussr_su_57b_shop;SU-57B
 ussr_su_57b_0;SU-57B
 ussr_su_57b_1;SU-57B
@@ -11684,14 +11744,6 @@ ussr_t_64_b_1984_shop;T-64BV
 ussr_t_64_b_1984_0;"Ob""yekt 447AV | T-64BV obr. 1987 g."
 ussr_t_64_b_1984_1;T-64BV
 ussr_t_64_b_1984_2;MBT
-germ_leopard_2pl_shop;⋠ KPz Leopard 2 A4 PL (AMAP)
-germ_leopard_2pl_0;⋠ Krauss-Maffei Wegmann / Rheinmetall Landsysteme | Kampfpanzer Leopard 2 A4 PL (Advanced Modular Armor Protection)
-germ_leopard_2pl_1;⋠ Leopard 2
-germ_leopard_2pl_2;MBT
-germ_leopard_2k_shop;KPz Leopard 2 K (PT 14/T 11)
-germ_leopard_2k_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 K, PT 14 mit T 11
-germ_leopard_2k_1;Leopard 2
-germ_leopard_2k_2;MBT
 germ_infanterie_kampfpanzer_churchill_shop;▀ I.Pz.Kpfw. 750 (e)
 germ_infanterie_kampfpanzer_churchill_0;▀ Infanterie-Panzerkampfwagen 750 (e) | Mk IV
 germ_infanterie_kampfpanzer_churchill_1;▀ I.Pz.Kpfw. 750
@@ -14110,22 +14162,6 @@ ussr_t_62m1_shop;T-62M-1
 ussr_t_62m1_0;"Ob""yekt 166M-1 | T-62M-1"
 ussr_t_62m1_1;T-62M
 ussr_t_62m1_2;Medium Tank
-germ_leopard_2a4_pzbtl_123_shop;KPz Leopard 2 A4 (C) (PzBtl 123)
-germ_leopard_2a4_pzbtl_123_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A4 (C) (Panzerbataillon 123)
-germ_leopard_2a4_pzbtl_123_1;Leopard 2 A4
-germ_leopard_2a4_pzbtl_123_2;MBT
-germ_leopard_2a7v_shop;KPz Leopard 2 A7V
-germ_leopard_2a7v_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A7V
-germ_leopard_2a7v_1;Leopard 2 A7
-germ_leopard_2a7v_2;MBT
-germ_leopard_2a5_pso_shop;KPz Leopard 2 PSO
-germ_leopard_2a5_pso_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 Peace Support Operations
-germ_leopard_2a5_pso_1;Leopard 2 PSO
-germ_leopard_2a5_pso_2;MBT
-germ_leopard_2a4_shop;KPz Leopard 2 A4 (C)
-germ_leopard_2a4_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A4 (C)
-germ_leopard_2a4_1;Leopard 2 A4
-germ_leopard_2a4_2;MBT
 uk_vickers_mk_6_aa_mk_1_shop;A.5, Mk. I, A.A., Mk. I
 uk_vickers_mk_6_aa_mk_1_0;Tank, Light, Mk. VIa, A.5, Mk. I, A.A., Mk. I
 uk_vickers_mk_6_aa_mk_1_1;A.5, Mk. I, A.A., Mk. I
@@ -14190,10 +14226,6 @@ germ_thyssen_henschel_tam_shop;TAM
 germ_thyssen_henschel_tam_0;Tanque Argentino Mediano
 germ_thyssen_henschel_tam_1;TAM
 germ_thyssen_henschel_tam_2;Light Tank
-germ_leopard_2_pt14_shop;KPz Leopard 2 (PT 16/T 14)
-germ_leopard_2_pt14_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2, PT 16 mit T 14
-germ_leopard_2_pt14_1;Leopard 2
-germ_leopard_2_pt14_2;MBT
 it_vcc_80_hitfist_60_shop;VCC-80 Dardo (60/70)
 it_vcc_80_hitfist_60_0;Veicolo Cingolato da Combattimento 80 Dardo da 60/70
 it_vcc_80_hitfist_60_1;Dardo
@@ -14670,14 +14702,6 @@ it_c1_ariete_preserie_shop;Ariete (preserie)
 it_c1_ariete_preserie_0;C1 Ariete (preserie)
 it_c1_ariete_preserie_1;Ariete
 it_c1_ariete_preserie_2;MBT
-germ_leopard_2a6_shop;KPz Leopard 2 A6
-germ_leopard_2a6_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A6
-germ_leopard_2a6_1;Leopard 2
-germ_leopard_2a6_2;MBT
-germ_leopard_2a5_shop;KPz Leopard 2 A5
-germ_leopard_2a5_0;Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A5
-germ_leopard_2a5_1;Leopard 2
-germ_leopard_2a5_2;MBT
 ussr_t_80u_race_shop;T-80U
 ussr_t_80u_race_0;"Ob""yekt 219AS | T-80U obr. 1993 g. isp. Shvedskiy"
 ussr_t_80u_race_1;T-80U
@@ -14694,10 +14718,6 @@ ussr_t_80u_shop;T-80U
 ussr_t_80u_0;"Ob""yekt 219AS | T-80U obr. 1993 g. isp. Shvedskiy"
 ussr_t_80u_1;T-80U
 ussr_t_80u_2;MBT
-germ_leopard_2a5_yt_cup_2019_shop;␙ KPz Leopard 2 A5
-germ_leopard_2a5_yt_cup_2019_0;␙ Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A5
-germ_leopard_2a5_yt_cup_2019_1;␙ Leopard 2
-germ_leopard_2a5_yt_cup_2019_2;MBT
 uk_challenger_II_yt_cup_2019_shop;␙ Challenger 2 (2E)
 uk_challenger_II_yt_cup_2019_0;␙ Tank, Combat, 120mm Gun, Challenger 2 (2003) (Dorchester Level 2E)
 uk_challenger_II_yt_cup_2019_1;␙ Challenger 2
@@ -15081,10 +15101,6 @@ germ_erprobungstrager_3_achs_turm_shop;EP (T III F)
 germ_erprobungstrager_3_achs_turm_0;Erprobungsträger mit dreiachsig stabilisierter Turm III F
 germ_erprobungstrager_3_achs_turm_1;EP (T III)
 germ_erprobungstrager_3_achs_turm_2;MBT
-germ_marder_df_105_shop;◄ DF 105
-germ_marder_df_105_0;◄ Thyssen Henschel DF 105
-germ_marder_df_105_1;◄ DF 105
-germ_marder_df_105_2;Light Tank
 germ_marder_1a1_shop;SPz Marder 1 A1 (-)
 germ_marder_1a1_0;Schützenpanzer Marder 1 A1 (-)
 germ_marder_1a1_1;SPz Marder 1
@@ -15711,10 +15727,6 @@ germ_battleship_bayern_shop;SMS Bayern
 germ_battleship_bayern_0;Bayern-class, SMS Bayern, 1916
 germ_battleship_bayern_1;SMS Bayern
 germ_battleship_bayern_2;Battleship
-germ_leopard_2av_shop;KPz Leopard 2 AV (PT 19/T 19)
-germ_leopard_2av_0;Krauss-Maffei Wegmann | KPz Leopard 2 AV, PT 19 mit T 19
-germ_leopard_2av_1;KPz Leopard 2 AV
-germ_leopard_2av_2;MBT
 germ_km5_shop;KS 5
 germ_km5_0;kleines Schnellboot Typ KS, KS 5
 germ_km5_1;Type KS

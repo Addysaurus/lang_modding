@@ -42,6 +42,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Ram, Mk. II (O.Q.F., 3.7-inch, Mk. II)**: Statcard name → **Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. II (Gun, O.Q.F., 3.7-inch, Mk. II)**.
     - **SU-85M / ISU-122** (folder) → **SU-85M / ISU-122 / 122S**.
     - **KPz Leopard 2 PSO** → **Leopard 2 PSO**. Statcard name → **KNDS Deutschland Leopard 2 Peace Support Operations**. PSO is a manufacturer designation so the KPz doesn't apply.
+    - **SPz Puma S0**: Statcard name → **Projekt System Management | Schützenpanzer Puma S0**.
+    - **SPz Puma VJTF**: Statcard name → **Projekt System Management | Schützenpanzer Puma Very High Readiness Joint Task Force**.
 
 ### Decals:
 

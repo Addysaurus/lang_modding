@@ -18,23 +18,41 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.17.03 - 24-04-2026
+## 1.17.05 - UNRELEASED
 
 ### Vehicles:
 
 - #### Additions:
 
-    - **Glaive**
+    - **Challenger 2 OES** (Senrai Maidens) (*sigh*)
+    - **Type 90 (B)** (Senrai Maidens) (*sigh*)
+    - **MBT-2000** (Senrai Maidens) (*sigh*)
 
 - #### Changes:
 
-    - **Glaive** → **Glaive (P 761)**. Statcard name → **Ateliers et Chantiers C. Auroux / Arsenal de Cherbourg | Patrouilleurs rapides de la classe Trident | Glaive (P 761) (1983)**.
-    - **I.A.R.93-B**: Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | I.A.R.93-B Vultur**.
+    - **Challenger 2 OES** (Senrai Maidens) → **Challenger 2 TES (2H) (2011)**. Statcard name → **Vickers Defence Systems | F.V.4034 | Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard (Dorchester Level 2H) (2011) «Emily»**. I know this name is different from the identical premium Challenger 2, this is a little bit of a sneek peak at the British rework that's WIP.
+    - **Type 90 (B)** (Senrai Maidens) → **90TK (B)**. Statcard name → **Mitsubishi Jū Kōgyō | 90 Shiki Sensha B Gata «Usagi»**.
+        - Japanese package: Statcard name → **三菱重工業 | 90式戦車B型 «うさぎ»**.
+    - **MBT-2000** (Senrai Maidens): Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | BW123A | MBT-2000 «Líng»**.
+        - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | BW123A | MBT-2000 «玲»**.
+    - **SAV 20.12.48**: Statcard name → **Bofors SAV 20.12.48**.
+    - **ZTZ99A** → **ZTZ99A (2014)**.
     - **ZTZ99 (2 Qí)**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ123B | ZTZ1999 Shì Zhu Zhàn Tankè (2 Qí)**.
         - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ123B | ZTZ1999式主战坦克 (二期)**.
-    - **ZTZ99A** → **ZTZ99A (2014)**.
+    - **Ram, Mk. II (O.Q.F., 3.7-inch, Mk. II)**: Statcard name → **Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. II (Gun, O.Q.F., 3.7-inch, Mk. II)**.
+    - **SU-85M / ISU-122** (folder) → **SU-85M / ISU-122 / 122S**.
+    - **KPz Leopard 2 PSO** → **Leopard 2 PSO**. Statcard name → **KNDS Deutschland Leopard 2 Peace Support Operations**. PSO is a manufacturer designation so the KPz doesn't apply.
+    - **SPz Puma S0**: Statcard name → **Projekt System Management | Schützenpanzer Puma S0**.
+    - **SPz Puma VJTF**: Statcard name → **Projekt System Management | Schützenpanzer Puma Very High Readiness Joint Task Force**.
 
-## 1.17.03 - 24-04-2026
+### Decals:
+
+- #### Changes:
+
+    - **French Sports Stripes** (horrible name jesus christ) → **Marquage de l'action de l'État en mer**.
+    - **Badge of VT-3 Squadron, US Navy** → **Emblem of Torpedo Squadron VT-3**.
+
+## 1.17.04 - 6-05-2026
 
 ### Vehicles:
 

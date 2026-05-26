@@ -3377,6 +3377,44 @@ Nashorn"
 germ_panzerjager_nashorn_1;Nashorn
 germ_panzerjager_nashorn_2;SPG
 
+germ_pzkpfw_VI_ausf_e_tiger_shop;Tiger E (spät)
+germ_pzkpfw_VI_ausf_e_tiger_0;"Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(spät)</color>"
+germ_pzkpfw_VI_ausf_e_tiger_1;Tiger E
+germ_pzkpfw_VI_ausf_e_tiger_2;Heavy Tank
+
+germ_pzkpfw_VI_ausf_h1_tiger_shop;Tiger E (früh)
+germ_pzkpfw_VI_ausf_h1_tiger_0;"Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(früh)</color>"
+germ_pzkpfw_VI_ausf_h1_tiger_1;Tiger E
+germ_pzkpfw_VI_ausf_h1_tiger_2;Heavy Tank
+
+germ_pzkpfw_VI_ausf_h1_tiger_tutorial_shop;Tiger E (früh)
+germ_pzkpfw_VI_ausf_h1_tiger_tutorial_0;"Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(früh)</color>"
+germ_pzkpfw_VI_ausf_h1_tiger_tutorial_1;Tiger E
+germ_pzkpfw_VI_ausf_h1_tiger_tutorial_2;Heavy Tank
+
+germ_pzkpfw_VI_ausf_h1_tiger_east_shop;"Tiger E (früh) ""Ostfront"""
+germ_pzkpfw_VI_ausf_h1_tiger_east_0;"Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(früh)</color>
+<color=@currencyGoldColor>""Ostfront""</color>"
+germ_pzkpfw_VI_ausf_h1_tiger_east_1;Tiger E
+germ_pzkpfw_VI_ausf_h1_tiger_east_2;Heavy Tank
+
+germ_pzkpfw_VI_ausf_h1_tiger_west_shop;"Tiger E (früh) ""Westfront"""
+germ_pzkpfw_VI_ausf_h1_tiger_west_0;"Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(früh)</color>
+<color=@currencyGoldColor>""Westfront""</color>"
+germ_pzkpfw_VI_ausf_h1_tiger_west_1;Tiger E
+germ_pzkpfw_VI_ausf_h1_tiger_west_2;Heavy Tank
+
+germ_pzkpfw_VI_ausf_h1_tiger_animal_version_shop;␠ Tiger E (früh)
+germ_pzkpfw_VI_ausf_h1_tiger_animal_version_0;"␠ Panzerkampfwagen Tiger Ausf. E
+<color=#adadad>(früh)</color>"
+germ_pzkpfw_VI_ausf_h1_tiger_animal_version_1;␠ Tiger E
+germ_pzkpfw_VI_ausf_h1_tiger_animal_version_2;Heavy Tank
+
 germ_flakpanzer_IV_Ostwind_shop;Ostwind
 germ_flakpanzer_IV_Ostwind_0;"<color=#7ce68f>Flakpanzerkampfwagen IV</color>
 <color=#adadad>(3,7cm Fla.K. 43)</color>
@@ -3425,6 +3463,11 @@ germ_kv_1B_finland_0;"<color=#81c3fc>Kirovskij zavod</color>
 germ_kv_1B_finland_1;▀ 44 psv KW 1 B
 germ_kv_1B_finland_2;▀ Heavy Tank
 
+germ_pzkpfw_VI_tiger_P_shop;VK 45.01 (P)
+germ_pzkpfw_VI_tiger_P_0;VK 45.01 (P)
+germ_pzkpfw_VI_tiger_P_1;VK 45.01
+germ_pzkpfw_VI_tiger_P_2;Heavy Tank
+
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger B (Fgst.Nr. 15)
 germ_pzkpfw_VI_ausf_b_tiger_IIp_0;"<color=#81c3fc>Henschel & Sohn</color>
@@ -3462,12 +3505,22 @@ germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
 germ_flakpanzer_zerstorer_45_2;SPAA
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+germ_marder_df_105_shop;◄ DF 105
+germ_marder_df_105_0;<color=#81c3fc>◄ Thyssen Henschel DF 105</color>
+germ_marder_df_105_1;◄ DF 105
+germ_marder_df_105_2;Light Tank
+
 germ_leopard_a1a1_120_shop;Leopard 1 (MPI)
 germ_leopard_a1a1_120_0;"<color=#81c3fc>Krauss-Maffei Wegmann <color=@commonTextColor>/</color> Rheinmetall Defense Engineering
 Main Battle Tank Leopard 1</color>
 <color=#adadad>(Maximum Product Improvement)</color>"
 germ_leopard_a1a1_120_1;Leopard 1
 germ_leopard_a1a1_120_2;MBT
+
+germ_marder_clovis_shop;◄ CLOVIS
+germ_marder_clovis_0;<color=#81c3fc>◄ Thyssen Henschel CLOVIS, FL 20, 105 mm</color>
+germ_marder_clovis_1;◄ CLOVIS
+germ_marder_clovis_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 germ_jaguar_2_shop;RakJPz 4 Jaguar 2
@@ -3489,16 +3542,29 @@ germ_th_400_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 germ_schutzenpanzer_puma_shop;SPz Puma S0
-germ_schutzenpanzer_puma_0;"<color=#81c3fc>KNDS Deutschland</color>
+germ_schutzenpanzer_puma_0;"<color=#81c3fc>Projekt System Management</color>
 Schützenpanzer Puma S0"
 germ_schutzenpanzer_puma_1;SPz Puma S0
 germ_schutzenpanzer_puma_2;IFV
 
 germ_schutzenpanzer_puma_vjtf_shop;SPz Puma VJTF
-germ_schutzenpanzer_puma_vjtf_0;"<color=#81c3fc>KNDS Deutschland</color>
+germ_schutzenpanzer_puma_vjtf_0;"<color=#81c3fc>Projekt System Management</color>
 Schützenpanzer Puma Very High Readiness Joint Task Force"
 germ_schutzenpanzer_puma_vjtf_1;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_2;IFV
+
+germ_leopard_2k_shop;KPz Leopard 2 K (PT 14/T 11)
+germ_leopard_2k_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2 K, PT 14 mit T 11"
+germ_leopard_2k_1;Leopard 2
+germ_leopard_2k_2;MBT
+
+germ_leopard_2a4_shop;KPz Leopard 2 A4 (C)
+germ_leopard_2a4_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2 A4
+<color=#adadad>(C)</color>"
+germ_leopard_2a4_1;Leopard 2 A4
+germ_leopard_2a4_2;MBT
 
 germ_leopard_2a4m_can_shop;Leopard 2A4M CAN
 germ_leopard_2a4m_can_0;"<color=#81c3fc>KNDS Deutschland</color>
@@ -3512,6 +3578,62 @@ germ_leopard_2a4m_can_sm_0;"<color=#81c3fc>KNDS Deutschland</color>
 <color=@currencyGoldColor>«Elsa»</color>"
 germ_leopard_2a4m_can_sm_1;◍ Leopard 2A4M
 germ_leopard_2a4m_can_sm_2;MBT
+
+germ_leopard_2av_shop;KPz Leopard 2 AV (PT 19/T 19)
+germ_leopard_2av_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+KPz Leopard 2 AV, PT 19 mit T 19"
+germ_leopard_2av_1;KPz Leopard 2 AV
+germ_leopard_2av_2;MBT
+
+germ_leopard_2_pt14_shop;KPz Leopard 2 (PT 16/T 14)
+germ_leopard_2_pt14_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2, PT 16 mit T 14"
+germ_leopard_2_pt14_1;Leopard 2
+germ_leopard_2_pt14_2;MBT
+
+germ_leopard_2a4_pzbtl_123_shop;KPz Leopard 2 A4 (C) (PzBtl 123)
+germ_leopard_2a4_pzbtl_123_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2 A4
+<color=#adadad>(C)</color>
+<color=@currencyGoldColor>Panzerbataillon 123</color>"
+germ_leopard_2a4_pzbtl_123_1;Leopard 2 A4
+germ_leopard_2a4_pzbtl_123_2;MBT
+
+germ_leopard_2a5_shop;KPz Leopard 2 A5
+germ_leopard_2a5_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2 A5"
+germ_leopard_2a5_1;Leopard 2
+germ_leopard_2a5_2;MBT
+
+germ_leopard_2a6_shop;KPz Leopard 2 A6
+germ_leopard_2a6_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2 A6"
+germ_leopard_2a6_1;Leopard 2
+germ_leopard_2a6_2;MBT
+
+germ_leopard_2a5_pso_shop;Leopard 2 PSO
+germ_leopard_2a5_pso_0;<color=#81c3fc>KNDS Deutschland Leopard 2 Peace Support Operations</color>
+germ_leopard_2a5_pso_1;Leopard 2 PSO
+germ_leopard_2a5_pso_2;MBT
+
+germ_leopard_2a7v_shop;KPz Leopard 2 A7V
+germ_leopard_2a7v_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Kampfpanzer Leopard 2 A7V"
+germ_leopard_2a7v_1;Leopard 2 A7
+germ_leopard_2a7v_2;MBT
+
+germ_leopard_2pl_shop;⋠ KPz Leopard 2 A4 PL (AMAP)
+germ_leopard_2pl_0;"<color=#81c3fc>Krauss-Maffei Wegmann <color=@commonTextColor>/</color> Rheinmetall Landsysteme</color>
+⋠ Kampfpanzer Leopard 2 A4 PL
+<color=#adadad>(Advanced Modular Armor Protection)</color>"
+germ_leopard_2pl_1;⋠ Leopard 2
+germ_leopard_2pl_2;MBT
+
+germ_leopard_2a5_yt_cup_2019_shop;␙ KPz Leopard 2 A5
+germ_leopard_2a5_yt_cup_2019_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+␙ Kampfpanzer Leopard 2 A5"
+germ_leopard_2a5_yt_cup_2019_1;␙ Leopard 2
+germ_leopard_2a5_yt_cup_2019_2;MBT
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 germ_flarakrad_shop;FlaRakRad 1 Roland
@@ -3904,24 +4026,160 @@ Bronirovannyj avtomobil' ""Garford"""
 ussr_garford_putilov_1;Garford
 ussr_garford_putilov_2;Armored Car
 
-//USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
-ussr_kv_8_shop;KV-8
-ussr_kv_8_0;"<color=#81c3fc>Kirovskij zavod Narkomata tankovoj promyšlyennosti v gorodye
-Čyelâbinskye (Zavod № 100)</color>
-<color=#5cae63>Ob""yekt 228</color>
-Tank KV-8"
-ussr_kv_8_1;KV-8
-ussr_kv_8_2;Heavy Tank
+ussr_bt_7_1937_shop;BT-7 (1937)
+ussr_bt_7_1937_0;"<color=#5cae63>A-7</color>
+BT-7 obr. 1937 g."
+ussr_bt_7_1937_1;BT-7
+ussr_bt_7_1937_2;Light Tank
 
-//USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
-ussr_t_34_85_zis_53_v80_shop;T-34-85 (Sep, 1944) (64-â Gv.T.Br.)
-ussr_t_34_85_zis_53_v80_0;"<color=#81c3fc>Ural'skij tankovyj zavod №183</color>
+ussr_bt_7_1937_race_shop;BT-7
+ussr_bt_7_1937_race_0;"<color=#5cae63>A-7</color>
+BT-7 obr. 1937 g."
+ussr_bt_7_1937_race_1;BT-7
+ussr_bt_7_1937_race_2;Light Tank
+
+ussr_t_26_4_shop;T-26-4
+ussr_t_26_4_0;"T-26-4"
+ussr_t_26_4_1;T-26-4
+ussr_t_26_4_2;Light Tank
+
+ussr_t_26_1940_shop;T-26-1
+ussr_t_26_1940_0;"<color=#7ce68f>T-26 obr. 1940 g.</color>
+T-26-1"
+ussr_t_26_1940_1;T-26
+ussr_t_26_1940_2;Light Tank
+
+ussr_t_26_1940_1st_GvTBr_shop;T-26-1 (1-â Gv.T.Br.)
+ussr_t_26_1940_1st_GvTBr_0;"<color=#7ce68f>T-26 obr. 1940 g.</color>
+T-26-1
+<color=@currencyGoldColor>1-â Gvardyejskaâ Tankovaâ Brigada</color>"
+ussr_t_26_1940_1st_GvTBr_1;T-26
+ussr_t_26_1940_1st_GvTBr_2;Light Tank
+
+ussr_t_26E_shop;T-26-1 (Èkran.)
+ussr_t_26E_0;"<color=#7ce68f>T-26 obr. 1940 g.</color>
+T-26-1
+<color=#adadad>(Èkranirovannyj)</color>"
+ussr_t_26E_1;T-26 
+ussr_t_26E_2;Light Tank
+
+ussr_t_28_1938_shop;T-28 (1936)
+ussr_t_28_1938_0;"T-28 obr. 1936 g."
+ussr_t_28_1938_1;T-28
+ussr_t_28_1938_2;Medium Tank
+
+ussr_t_28_shop;T-28 (1938/39)
+ussr_t_28_0;"T-28 obr. 1938/39 gg."
+ussr_t_28_1;T-28
+ussr_t_28_2;Medium Tank
+
+ussr_t_28E_shop;T-28 (Èkran.)
+ussr_t_28E_0;"T-28 obr. 1938/39 gg.
+<color=#adadad>(Èkranirovannyj)</color>"
+ussr_t_28E_1;T-28
+ussr_t_28E_2;Medium Tank
+
+ussr_t_60_1941_shop;T-60 (1942)
+ussr_t_60_1941_0;"<color=#5cae63>Ob""yekt 0-60</color>
+T-60 obr. 1942 g."
+ussr_t_60_1941_1;T-60
+ussr_t_60_1941_2;Light Tank
+
+ussr_t_70_1942_shop;T-70
+ussr_t_70_1942_0;"<color=#5cae63>Ob""yekt 0-70</color>
+T-70 obr. 1942 g."
+ussr_t_70_1942_1;T-70
+ussr_t_70_1942_2;Light Tank
+
+//USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+ussr_t_34_1941_l_11_shop;T-34 (Dec, 1940)
+ussr_t_34_1941_l_11_0;"<color=#81c3fc>Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34 obr. 1940 g.
+<color=#adadad>(December, 1940)</color>"
+ussr_t_34_1941_l_11_1;T-34
+ussr_t_34_1941_l_11_2;Medium Tank
+
+ussr_t_34_1941_shop;"T-34 (May, 1941)"
+ussr_t_34_1941_0;"<color=#81c3fc>Ural'skij Tankovyj Zavod, Zavod №183</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34 obr. 1941 g.
+<color=#adadad>(May, 1941)</color>"
+ussr_t_34_1941_1;T-34
+ussr_t_34_1941_2;Medium Tank
+
+ussr_t_34_1942_shop;T-34 (Sep, 1942)
+ussr_t_34_1942_0;"<color=#81c3fc>Ural'skij Tankovyj Zavod, Zavod №183</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34 obr. 1942 g.
+<color=#adadad>(September, 1942)</color>"
+ussr_t_34_1942_1;T-34
+ussr_t_34_1942_2;Medium Tank
+
+ussr_t_34E_STZ_shop;T-34 (Èkran.) (STZ)
+ussr_t_34E_STZ_0;"<color=#81c3fc>Stalingradskij traktornyj zavod imyeni F.È. Dzyeržinskogo</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34 obr. 1941 g.
+<color=#adadad>(Èkranirovannyj) (February, 1942)</color>"
+ussr_t_34E_STZ_1;T-34
+ussr_t_34E_STZ_2;Medium Tank
+
+ussr_t_34_1940_l_11_shop;T-34 (pilot)
+ussr_t_34_1940_l_11_0;"<color=#81c3fc>Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34
+<color=#adadad>(pilot model) (March, 1940)</color>"
+ussr_t_34_1940_l_11_1;T-34
+ussr_t_34_1940_l_11_2;Medium Tank
+
+ussr_t_34_1941_cast_turret_shop;"T-34 (Jul, 1941) (1-â Gv.T.Br.)"
+ussr_t_34_1941_cast_turret_0;"<color=#81c3fc>Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34 obr. 1941 g.
+<color=#adadad>(July, 1941)</color>
+<color=@currencyGoldColor>1-â Gvardyejskaâ Tankovaâ Brigada</color>"
+ussr_t_34_1941_cast_turret_1;T-34
+ussr_t_34_1941_cast_turret_2;Medium Tank
+
+ussr_t_34E_shop;T-34 (Èkran.) (№112)
+ussr_t_34E_0;"<color=#81c3fc>Zavod №112</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34 obr. 1941 g.
+<color=#adadad>(Èkranirovannyj) (February, 1943)</color>"
+ussr_t_34E_1;T-34
+ussr_t_34E_2;Medium Tank
+
+ussr_t_34_1941_57_shop;T-34 (May, 1941) (ZiS-4)
+ussr_t_34_1941_57_0;"<color=#81c3fc>Stalingradskij traktornyj zavod imyeni F.È. Dzyeržinskogo</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34 obr. 1941 g.
+<color=#adadad>(May, 1941) (ZiS-4)</color>"
+ussr_t_34_1941_57_1;T-34
+ussr_t_34_1941_57_2;Medium Tank
+
+ussr_t_34_85_d_5t_shop;T-34-85 (Mar, 1944)
+ussr_t_34_85_d_5t_0;"<color=#81c3fc>Ural'skij Tankovyj Zavod, Zavod №183</color>
 <color=#5cae63>Ob""yekt 35</color>
 T-34-85 obr. 1944 g.
-<color=#adadad>(September, 1944)</color>
-<color=@currencyGoldColor>64-â gvardyejskaâ tankovaâ brigada</color>"
-ussr_t_34_85_zis_53_v80_1;T-34-85
-ussr_t_34_85_zis_53_v80_2;Medium Tank
+<color=#adadad>((March, 1944)</color>"
+ussr_t_34_85_d_5t_1;T-34-85
+ussr_t_34_85_d_5t_2;Medium Tank
+
+ussr_t_34_85_zis_53_shop;T-34-85 (Sep, 1944)
+ussr_t_34_85_zis_53_0;"<color=#81c3fc>Ural'skij Tankovyj Zavod, Zavod №183</color>
+<color=#5cae63>Ob""yekt 35</color>
+T-34-85 obr. 1944 g.
+<color=#adadad>((September, 1944)</color>"
+ussr_t_34_85_zis_53_1;T-34-85
+ussr_t_34_85_zis_53_2;Medium Tank
+
+ussr_t_34_57_1943_shop;T-34 (Sep, 1942) (ZiS-4M)
+ussr_t_34_57_1943_0;"<color=#81c3fc>Ural'skij Tankovyj Zavod, Zavod №183</color>
+<color=#5cae63>Ob""yekt 34</color>
+T-34 obr. 1942 g.
+<color=#adadad>((September, 1942) (ZiS-4M) (July, 1943)</color>"
+ussr_t_34_57_1943_1;T-34
+ussr_t_34_57_1943_2;Medium Tank
 
 ussr_t_34_85_zis_53_kit_3rank_shop;"T-34-85 (Sep, 1944) ""In May 1945"""
 ussr_t_34_85_zis_53_kit_3rank_0;"<color=#81c3fc>Ural'skij tankovyj zavod №183</color>
@@ -3932,6 +4190,90 @@ T-34-85 obr. 1944 g.
 ussr_t_34_85_zis_53_kit_3rank_1;T-34-85
 ussr_t_34_85_zis_53_kit_3rank_2;Medium Tank
 
+ussr_t_34_85_zis_53_v80_shop;T-34-85 (Sep, 1944) (64-â Gv.T.Br.)
+ussr_t_34_85_zis_53_v80_0;"<color=#81c3fc>Ural'skij tankovyj zavod №183</color>
+<color=#5cae63>Ob""yekt 35</color>
+T-34-85 obr. 1944 g.
+<color=#adadad>(September, 1944)</color>
+<color=@currencyGoldColor>64-â gvardyejskaâ tankovaâ brigada</color>"
+ussr_t_34_85_zis_53_v80_1;T-34-85
+ussr_t_34_85_zis_53_v80_2;Medium Tank
+
+ussr_t_34_85_stp_s53_shop;T-34-85 (May, 1945) (STP-S-53)
+ussr_t_34_85_stp_s53_0;"<color=#81c3fc>Zavod № 112</color>
+<color=#5cae63>Ob""yekt 135</color>
+Tank T-34-85 obr. 1945 g.
+<color=#adadad>(May, 1945) (Stabilizator STP-S-53 ""Taran"")</color>"
+ussr_t_34_85_stp_s53_1;T-34-85
+ussr_t_34_85_stp_s53_2;Medium Tank
+
+ussr_t_34_85E_shop;T-34-85 (Èkran.) (36-â T.Br.)
+ussr_t_34_85E_0;"<color=#81c3fc>Omskij zavod №174 imyeni Lyenina</color>
+<color=#5cae63>Ob""yekt 35</color>
+T-34-85 obr. 1944 g.
+<color=#adadad>(Èkranirovannyj) (September, 1944)</color>
+<color=@currencyGoldColor>36-â Tankovaâ Brigada</color>"
+ussr_t_34_85E_1;T-34-85
+ussr_t_34_85E_2;Medium Tank
+
+ussr_t_34_100_shop;T-34-100 (LB-1)
+ussr_t_34_100_0;"<color=#81c3fc>Ural'skij Tankovyj Zavod, Zavod №183</color>
+<color=#5cae63>Ob""yekt 35</color>
+T-34-100
+<color=#adadad>(LB-1)</color>"
+ussr_t_34_100_1;T-34-100
+ussr_t_34_100_2;Medium Tank
+
+ussr_t_50_shop;T-50
+ussr_t_50_0;"<color=#5cae63>135</color>
+T-50"
+ussr_t_50_1;T-50
+ussr_t_50_2;Light Tank
+
+ussr_t_50_for_tutorial_shop;T-50
+ussr_t_50_for_tutorial_0;"<color=#5cae63>135</color>
+T-50"
+ussr_t_50_for_tutorial_1;T-50
+ussr_t_50_for_tutorial_2;Light Tank
+
+ussr_t_80_shop;T-80
+ussr_t_80_0;"<color=#5cae63>Ob""yekt 0-80</color>
+T-80"
+ussr_t_80_1;T-80
+ussr_t_80_2;Light Tank
+
+ussr_t_126sp_shop;T-126SP
+ussr_t_126sp_0;"<color=#5cae63>126</color>
+T-126SP"
+ussr_t_126sp_1;T-126
+ussr_t_126sp_2;Light Tank
+
+ussr_su_76m_1943_shop;SU-76M
+ussr_su_76m_1943_0;"SU-76M obr. 1943 g."
+ussr_su_76m_1943_1;SU-76M
+ussr_su_76m_1943_2;SPG
+
+ussr_su_76m_5st_kav_corps_shop;SU-76M (5-j Gv.Kav.Korp)
+ussr_su_76m_5st_kav_corps_0;"SU-76M obr. 1943 g.
+<color=@currencyGoldColor>5-j Gvardyejskij Kavalyerijskij Korpus</color>"
+ussr_su_76m_5st_kav_corps_1;SU-76M
+ussr_su_76m_5st_kav_corps_2;SPG
+
+ussr_su_76d_shop;SU-76D
+ussr_su_76d_0;"<color=#7ce68f>GAZ-74</color>
+SU-76D"
+ussr_su_76d_1;SU-76D
+ussr_su_76d_2;SPG
+
+ussr_kv_8_shop;KV-8
+ussr_kv_8_0;"<color=#81c3fc>Kirovskij zavod Narkomata tankovoj promyšlyennosti v gorodye
+Čyelâbinskye (Zavod № 100)</color>
+<color=#5cae63>Ob""yekt 228</color>
+Tank KV-8"
+ussr_kv_8_1;KV-8
+ussr_kv_8_2;Heavy Tank
+
+//USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 ussr_is_1_shop;IS-1
 ussr_is_1_0;"<color=#81c3fc>Kirovskij zavod</color>
 <color=#5cae63>Ob""yekt 237</color>
@@ -3947,6 +4289,37 @@ IS-1 obr. 1943 g.
 ussr_is_1_kit_3rank_1;IS-1
 ussr_is_1_kit_3rank_2;Heavy Tank
 
+ussr_pt_76b_shop;PT-76B
+ussr_pt_76b_0;"<color=#5cae63>Ob""yekt 740B</color>
+PT-76B obr. 1959 g."
+ussr_pt_76b_1;PT-76B
+ussr_pt_76b_2;Light Tank
+
+ussr_pt_76_57_shop;PT-76B (BM-57)
+ussr_pt_76_57_0;"PT-76B
+<color=#adadad>(BM-57)</color>"
+ussr_pt_76_57_1;PT-76B (BM-57)
+ussr_pt_76_57_2;Light Tank
+
+ussr_su_85_1943_shop;SU-85
+ussr_su_85_1943_0;"<color=#5cae63>Ob""yekt 139</color>
+SU-85 obr. 1944 g."
+ussr_su_85_1943_1;SU-85
+ussr_su_85_1943_2;SPG
+
+ussr_su_85m_shop;SU-85M
+ussr_su_85m_0;"<color=#5cae63>Ob""yekt 139</color>
+SU-85M obr. 1944 g."
+ussr_su_85m_1;SU-85M
+ussr_su_85m_2;SPG
+
+ussr_isu_122s_shop;ISU-122S
+ussr_isu_122s_0;"<color=#5cae63>Ob""yekt 249</color>
+<color=#7ce68f>ISU-122-2</color>
+ISU-122S obr. 1945 g."
+ussr_isu_122s_1;ISU-122S
+ussr_isu_122s_2;SPG
+
 ussr_sdkfz_251_21_kit_3rank_shop;"▂ m.S.P.W. D (M.G. 151 S) ""In May 1945"""
 ussr_sdkfz_251_21_kit_3rank_0;"<color=#81c3fc>Hannoversche Maschinenbau</color>
 <color=#5cae63>Sd.Kfz. 251/21</color>
@@ -3956,13 +4329,18 @@ ussr_sdkfz_251_21_kit_3rank_1;▂ m.S.P.W. D (M.G. 151 S)
 ussr_sdkfz_251_21_kit_3rank_2;SPAAG
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
-ussr_t_34_85_stp_s53_shop;T-34-85 (May, 1945) (STP-S-53)
-ussr_t_34_85_stp_s53_0;"<color=#81c3fc>Zavod № 112</color>
-<color=#5cae63>Ob""yekt 135</color>
-Tank T-34-85 obr. 1945 g.
-<color=#adadad>(May, 1945) (Stabilizator STP-S-53 ""Taran"")</color>"
-ussr_t_34_85_stp_s53_1;T-34-85
-ussr_t_34_85_stp_s53_2;Medium Tank
+
+ussr_t_44_shop;T-44
+ussr_t_44_0;"<color=#5cae63>Ob""yekt 136</color>
+T-44"
+ussr_t_44_1;T-44
+ussr_t_44_2;Medium Tank
+
+ussr_t_44_122_shop;T-44-122
+ussr_t_44_122_0;"<color=#5cae63>Ob""yekt 136</color>
+T-44-122"
+ussr_t_44_122_1;T-44-122
+ussr_t_44_122_2;Medium Tank
 
 ussr_t_44_po_shop;T-44 (№ 1)
 ussr_t_44_po_0;"<color=#81c3fc>Ural'skij tankovyj zavod №183 imyeni Komintyerna</color>
@@ -3971,6 +4349,18 @@ T-44
 <color=#adadad>(№ 1)</color>"
 ussr_t_44_po_1;T-44
 ussr_t_44_po_2;Medium Tank
+
+ussr_t_44_100_shop;T-44-100
+ussr_t_44_100_0;"<color=#5cae63>Ob""yekt 136</color>
+T-44-100"
+ussr_t_44_100_1;T-44-100
+ussr_t_44_100_2;Medium Tank
+
+ussr_su_100_1945_shop;SU-100
+ussr_su_100_1945_0;"<color=#5cae63>Ob""yekt 138</color>
+SU-100 obr. 1944 g."
+ussr_su_100_1945_1;SU-100
+ussr_su_100_1945_2;SPG
 
 ussr_type_62_shop;▂ ZTQ62
 ussr_type_62_0;"<color=#81c3fc>Hā'ěrbīn Dì Yī Jīxiè Jítuán</color>
@@ -3986,6 +4376,27 @@ ussr_type_65_aa_1;▂ A24
 ussr_type_65_aa_2;SPAAG
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+ussr_t_54_1947_shop;T-54-1
+ussr_t_54_1947_0;"<color=#5cae63>Ob""yekt 137-I</color>
+<color=#7ce68f>T-54 obr. 1947 g.</color>
+T-54-1"
+ussr_t_54_1947_1;T-54
+ussr_t_54_1947_2;Medium Tank
+
+ussr_t_54_1949_shop;T-54-2
+ussr_t_54_1949_0;"<color=#5cae63>Ob""yekt 137-II</color>
+<color=#7ce68f>T-54 obr. 1949 g.</color>
+T-54-2"
+ussr_t_54_1949_1;T-54
+ussr_t_54_1949_2;Medium Tank
+
+ussr_t_54_1951_shop;T-54-3
+ussr_t_54_1951_0;"<color=#5cae63>Ob""yekt 137-III</color>
+<color=#7ce68f>T-54 obr. 1951 g.</color>
+T-54-3"
+ussr_t_54_1951_1;T-54
+ussr_t_54_1951_2;Medium Tank
+
 ussr_2s19_m1_shop;2S19M1
 ussr_2s19_m1_0;"<color=#81c3fc>Ural'skij zavod transportnogo mašinostroyeniâ imyeni Â.M. Svyerdlova</color>
 <color=#5cae63>Ob""yekt 316</color>
@@ -4001,6 +4412,18 @@ ussr_2s19_m2_1;2S19M2
 ussr_2s19_m2_2;SPH
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+ussr_t_55_amd_1_shop;T-55AD-1
+ussr_t_55_amd_1_0;"<color=#5cae63>Ob""yekt 155AD-1</color>
+T-55AD-1"
+ussr_t_55_amd_1_1;T-55AD-1
+ussr_t_55_amd_1_2;Medium Tank
+
+ussr_t_62_shop;T-62
+ussr_t_62_0;"<color=#5cae63>Ob""yekt 166</color>
+T-62 obr. 1964 g."
+ussr_t_62_1;T-62
+ussr_t_62_2;Medium Tank
+
 ussr_bmd_4m2_shop;BMD-4M (Sinicza)
 ussr_bmd_4m2_0;"<color=#81c3fc>Kurganskij mašinostroityel'nyj zavod</color>
 <color=#5cae63>Ob""yekt 960M2</color>
@@ -4023,6 +4446,12 @@ Boyevaâ mašina dyesanta BMD-4M"
 ussr_bmd_4m_1;BMD-4M
 ussr_bmd_4m_2;IFV
 
+ussr_it_1_shop;IT-1
+ussr_it_1_0;"<color=#5cae63>Ob""yekt 150</color>
+IT-1 ""Yaguar"""
+ussr_it_1_1;IT-1
+ussr_it_1_2;Medium Tank
+
 ussr_btr_82at_shop;BTR-82AT (9P163-1)
 ussr_btr_82at_0;"<color=#81c3fc>Arzamasskij mašinostroityel'nyj zavod</color>
 Bronyetransportyer BTR-82AT
@@ -4043,7 +4472,8 @@ ussr_t_80ue1_sm_shop;◍ T-80U-Ye1
 ussr_t_80ue1_sm_0;"<color=#81c3fc>Kirovskij zavod <color=@commonTextColor>/</color>
 Omskij zavod transportnogo mašinostroyeniâ</color>
 <color=#5cae63>Ob""yekt 219AS-1</color>
-◍ Tank T-80U-Ye1 «Maria»"
+◍ Tank T-80U-Ye1
+<color=@currencyGoldColor>«Maria»</color>"
 ussr_t_80ue1_sm_1;◍ T-80U-Ye1
 ussr_t_80ue1_sm_2;MBT
 
@@ -4472,6 +4902,31 @@ Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I"
 uk_a25_mk_8_1;Harry Hopkins, Mk. I
 uk_a25_mk_8_2;Light Tank
 
+uk_ac1_sentinel_shop;A.C.I
+uk_ac1_sentinel_0;"<color=#81c3fc>Chullora Tank Assembly Shops</color>
+Tank, Australian Cruiser, Mk. I ""Sentinel"""
+uk_ac1_sentinel_1;A.C.I
+uk_ac1_sentinel_2;Cruiser Tank
+
+uk_ac4_thunderbolt_shop;A.C.IV
+uk_ac4_thunderbolt_0;"<color=#81c3fc>Chullora Tank Assembly Shops</color>
+Tank, Australian Cruiser, Mk. IV"
+uk_ac4_thunderbolt_1;A.C.IV
+uk_ac4_thunderbolt_2;Cruiser Tank
+
+uk_m4a5_ram_2_shop;"Ram, Mk. II ""B"""
+uk_m4a5_ram_2_0;"<color=#81c3fc>Montreal Locomotive Works</color>
+Tank, Cruiser, Ram, Mk. II ""B"""
+uk_m4a5_ram_2_1;Ram, Mk. II
+uk_m4a5_ram_2_2;Medium Tank
+
+uk_ram_90mm_aa_shop;Ram, Mk. II (O.Q.F., 3.7-inch, Mk. II)
+uk_ram_90mm_aa_0;"<color=#81c3fc>Montreal Locomotive Works</color>
+Tank, Cruiser, Ram, Mk. II
+<color=#adadad>(Gun, O.Q.F., 3.7-inch, Mk. II)</color>"
+uk_ram_90mm_aa_1;Ram, Mk. II (3.7-inch)
+uk_ram_90mm_aa_2;SPG
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 uk_sherman_vc_firefly_shop;Sherman, Mk. Vc
 uk_sherman_vc_firefly_0;"<color=#81c3fc>United States Army Ordnance Department <color=@commonTextColor>+</color> Royal Ordnance Factory
@@ -4488,6 +4943,12 @@ Tank, Medium, Sherman, Mk. Vc ""Firefly""
 uk_sherman_vc_firefly_kit_3rank_1;Sherman, Mk. V
 uk_sherman_vc_firefly_kit_3rank_2;Medium Tank
 
+uk_m44_shop;Cardinal
+uk_m44_0;"<color=#81c3fc>Massey-Harris</color>
+155mm, Self-Propelled, Cardinal"
+uk_m44_1;Cardinal
+uk_m44_2;SPH
+
 uk_a30_sp_avenger_shop;Avenger, Mk. I
 uk_a30_sp_avenger_0;"<color=#81c3fc>Birmingham Railway Carriage and Wagon Company</color>
 17-pdr, Self-Propelled, A.30, Avenger, Mk. I"
@@ -4502,6 +4963,18 @@ uk_a30_sp_avenger_kit_3rank_1;Avenger, Mk. I
 uk_a30_sp_avenger_kit_3rank_2;Medium Tank
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+uk_fv4005_shop;Centaur
+uk_fv4005_0;"<color=#5cae63>F.V.4005</color>
+Tank, Heavy Gun, Stage II, Centaur"
+uk_fv4005_1;Centaur
+uk_fv4005_2;SPG
+
+uk_m109a1_shop;▄ M109A1
+uk_m109a1_0;"<color=#5cae63>G-296</color>
+▄ Howitzer, Medium, Self-Propelled, 155mm, M109A1"
+uk_m109a1_1;▄ M109A1
+uk_m109a1_2;SPG
+
 uk_as_90_mk_2_shop;L131
 uk_as_90_mk_2_0;"<color=#81c3fc>Vickers Shipbuilding and Engineering</color>
 Gun Equipment, 155 mm, L131"
@@ -4563,6 +5036,15 @@ uk_boxer_crv_block2_1;▄ Boxer CRV
 uk_boxer_crv_block2_2;CRV
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+uk_challenger_2_megatron_sm_shop;◍ Challenger 2 TES (2H) (2011)
+uk_challenger_2_megatron_sm_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+◍ Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard
+<color=#adadad>(Dorchester Level 2H) (2011)</color>
+<color=@currencyGoldColor>«Emily»</color>"
+uk_challenger_2_megatron_sm_1;◍ Challenger 2 TES
+uk_challenger_2_megatron_sm_2;MBT
+
 uk_sky_sabre_launcher_shop;SV 15T (Land Ceptor)
 uk_sky_sabre_launcher_0;"<color=#81c3fc>Rafael International <color=@commonTextColor>+</color> MBDA UK</color>
 Support Vehicle 15-Tonne
@@ -6886,6 +7368,13 @@ jp_type_90b_camo_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 jp_type_90b_camo_1;90TK (B)
 jp_type_90b_camo_2;MBT
 
+jp_type_90b_sm_shop;◍ 90TK (B)
+jp_type_90b_sm_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+◍ 90 Shiki Sensha B Gata
+<color=@currencyGoldColor>«Usagi»</color>"
+jp_type_90b_sm_1;◍ 90TK (B)
+jp_type_90b_sm_2;MBT
+
 jp_type_93_shop;93 Shiki
 jp_type_93_0;"<color=#81c3fc>Tōshiba</color>
 93 Shiki Kinkyorichi Taikū Yūdōdan ""Kurōzudo Arō"""
@@ -8758,6 +9247,14 @@ MBT-2000"
 cn_mbt2000_1;MBT-2000
 cn_mbt2000_2;MBT
 
+cn_mbt2000_sm_shop;MBT-2000
+cn_mbt2000_sm_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>BW123A</color>
+MBT-2000
+<color=@currencyGoldColor>«Líng»</color>"
+cn_mbt2000_sm_1;MBT-2000
+cn_mbt2000_sm_2;MBT
+
 cn_vt_4_shop;VT4
 cn_vt_4_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 VT4 Zhu Zhàn Tankè"
@@ -10393,7 +10890,7 @@ fr_marne_class_aisne_1;L'Aisne
 fr_marne_class_aisne_2;Aviso
 
 fr_trident_class_glaive_p671_shop;Glaive (P 761)
-fr_trident_class_glaive_p671_0;"Ateliers et Chantiers C. Auroux <color=@commonTextColor>/</color> Arsenal de Cherbourg
+fr_trident_class_glaive_p671_0;"<color=#81c3fc>Ateliers et Chantiers C. Auroux <color=@commonTextColor>/</color> Arsenal de Cherbourg</color>
 <color=#fffa62>Patrouilleurs rapides de la classe Trident</color>
 Glaive (P 761)
 <color=#adadad>(1983)</color>"
@@ -11111,6 +11608,11 @@ sw_a_34_comet_0;"<color=#5cae63>Ps. 252</color>
 panssarivaunu Comet"
 sw_a_34_comet_1;psv Comet
 sw_a_34_comet_2;Medium Tank
+
+sw_sav_fm48_shop;SAV 20.12.48
+sw_sav_fm48_0;<color=#81c3fc>Bofors SAV 20.12.48</color>
+sw_sav_fm48_1;SAV 20.12.48
+sw_sav_fm48_2;SPG
 
 sw_kv_1_1942_fin_shop;44 psv KW 1 A
 sw_kv_1_1942_fin_0;"<color=#81c3fc>Kirovskij zavod</color>

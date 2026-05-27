@@ -5245,12 +5245,20 @@ germ_leopard_a1a1_120_shop;Leopard 1 (MPI)
 germ_leopard_a1a1_120_0;Krauss-Maffei Wegmann / Rheinmetall Defense Engineering Main Battle Tank Leopard 1 (Maximum Product Improvement)
 germ_leopard_a1a1_120_1;Leopard 1
 germ_leopard_a1a1_120_2;MBT
+germ_leopard_c2_mexas_shop;Leopard C2 (MEXAS)
+germ_leopard_c2_mexas_0;Leopard C2 (Modular Expandable Armour System)
+germ_leopard_c2_mexas_1;Leopard C2
+germ_leopard_c2_mexas_2;MBT
 germ_marder_clovis_shop;◄ CLOVIS
 germ_marder_clovis_0;◄ Thyssen Henschel CLOVIS, FL 20, 105 mm
 germ_marder_clovis_1;◄ CLOVIS
 germ_marder_clovis_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+germ_begleitpanzer_57_shop;Begleit-Pz 57 mm
+germ_begleitpanzer_57_0;Thyssen Henschel + Bofors Begleitpanzer 57 mm
+germ_begleitpanzer_57_1;Begleit-Pz 57 mm
+germ_begleitpanzer_57_2;IFV
 germ_jaguar_2_shop;RakJPz 4 Jaguar 2
 germ_jaguar_2_0;Thyssen Henschel | Raketenjagdpanzer 4 Jaguar 2
 germ_jaguar_2_1;Jaguar 2
@@ -5325,6 +5333,18 @@ germ_leopard_2a5_yt_cup_2019_shop;␙ KPz Leopard 2 A5
 germ_leopard_2a5_yt_cup_2019_0;␙ Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A5
 germ_leopard_2a5_yt_cup_2019_1;␙ Leopard 2
 germ_leopard_2a5_yt_cup_2019_2;MBT
+germ_boxer_swatrinf_shop;sWaTrgInf
+germ_boxer_swatrinf_0;ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie
+germ_boxer_swatrinf_1;sWaTrgInf
+germ_boxer_swatrinf_2;IFV
+germ_boxer_3105_shop;Boxer (Cockerill 3105)
+germ_boxer_3105_0;ARTEC Boxer (Cockerill 3105)
+germ_boxer_3105_1;Boxer (Cockerill 3105)
+germ_boxer_3105_2;Light Tank
+germ_vilkas_shop;Vilkas
+germ_vilkas_0;ARTEC Boxer Infantry Combat Vehicle Samson | Pėstininkų kovos mašina Vilkas
+germ_vilkas_1;Vilkas
+germ_vilkas_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 germ_flarakrad_shop;FlaRakRad 1 Roland
@@ -6584,7 +6604,7 @@ uk_battlecruiser_invincible_2;Battlecruiser
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 uk_battleship_dreadnought_shop;HMS Dreadnought (00)
-uk_battleship_dreadnought_0;Portsmouth Royal Dockyard | Dreadnought-class | HMS Dreadnought (00) (1917)
+uk_battleship_dreadnought_0;Portsmouth Royal Dockyard / Chatham Royal Dockyard | Dreadnought-class | HMS Dreadnought (00) (1917)
 uk_battleship_dreadnought_1;HMS Dreadnought
 uk_battleship_dreadnought_2;Dreadnought
 uk_battleship_orion_shop;HMS Orion (52)
@@ -9238,9 +9258,9 @@ it_mas_stefano_turr_0;Cantiere Baglietto | Motoscafo Armato Silurante Tipo Speri
 it_mas_stefano_turr_1;Stefano Turr
 it_mas_stefano_turr_2;Armed Torpedo Boat
 it_mas441_shop;MAS 441
-it_mas441_0;Cantiere Baglietto | Motoscafo Antisommergibili Tipo Baglietto 1934 | MAS 441
+it_mas441_0;Cantiere Baglietto / Arsenale militare marittimo di Taranto | Motoscafo Antisommergibili Tipo Baglietto 1934 | MAS 441 (1940)
 it_mas441_1;MAS 441
-it_mas441_2;Motor Torpedo Boat
+it_mas441_2;Anti-Submarine Boat
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 it_a1_vosper_shop;MS 461
@@ -11372,10 +11392,6 @@ germ_panther_II_tutorial_shop;Panther II (8,8cm)
 germ_panther_II_tutorial_0;Panzerkampfwagen Panther II mit 8,8cm Kw.K. L/71
 germ_panther_II_tutorial_1;Panther II
 germ_panther_II_tutorial_2;Medium Tank
-germ_leopard_c2_mexas_shop;Leopard C2 (MEXAS)
-germ_leopard_c2_mexas_0;Leopard C2 (Modular Expandable Armour System)
-germ_leopard_c2_mexas_1;Leopard C2
-germ_leopard_c2_mexas_2;MBT
 germ_leopard_1a5_shop;KPz Leopard 1 A5
 germ_leopard_1a5_0;Kampfpanzer Leopard 1 A5
 germ_leopard_1a5_1;Leopard 1 A5
@@ -15089,14 +15105,6 @@ germ_wiesel_1_mk20_shop;Wiesel 1 A4 MK
 germ_wiesel_1_mk20_0;Waffenträger Wiesel 1 A4 MK
 germ_wiesel_1_mk20_1;Wiesel 1 A4
 germ_wiesel_1_mk20_2;SPAA
-germ_boxer_swatrinf_shop;sWaTrgInf
-germ_boxer_swatrinf_0;ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie
-germ_boxer_swatrinf_1;sWaTrgInf
-germ_boxer_swatrinf_2;IFV
-germ_vilkas_shop;Vilkas
-germ_vilkas_0;Pėstininkų kovos mašina Vilkas
-germ_vilkas_1;Vilkas
-germ_vilkas_2;Light Tank
 germ_erprobungstrager_3_achs_turm_shop;EP (T III F)
 germ_erprobungstrager_3_achs_turm_0;Erprobungsträger mit dreiachsig stabilisierter Turm III F
 germ_erprobungstrager_3_achs_turm_1;EP (T III)
@@ -15105,10 +15113,6 @@ germ_marder_1a1_shop;SPz Marder 1 A1 (-)
 germ_marder_1a1_0;Schützenpanzer Marder 1 A1 (-)
 germ_marder_1a1_1;SPz Marder 1
 germ_marder_1a1_2;Light Tank
-germ_begleitpanzer_57_shop;Begleit-Pz 57 mm
-germ_begleitpanzer_57_0;Thyssen Henschel + Bofors Begleitpanzer 57 mm
-germ_begleitpanzer_57_1;Begleit-Pz 57 mm
-germ_begleitpanzer_57_2;IFV
 sw_pbil_m40_shop;pbil m/40
 sw_pbil_m40_0;pansarbil m/40
 sw_pbil_m40_1;pbil m/40
@@ -16013,10 +16017,6 @@ ussr_cruiser_omaha_class_murmansk_shop;Murmansk
 ussr_cruiser_omaha_class_murmansk_0;Todd Dry Dock and Construction Company | Omakha-klass | Murmansk
 ussr_cruiser_omaha_class_murmansk_1;Murmansk
 ussr_cruiser_omaha_class_murmansk_2;Light Cruiser
-germ_boxer_3105_shop;Boxer (Cockerill 3105)
-germ_boxer_3105_0;ARTEC Boxer (Cockerill 3105)
-germ_boxer_3105_1;Boxer (Cockerill 3105)
-germ_boxer_3105_2;Light Tank
 germ_sppz2_luchs_a2_shop;SpPz Luchs A2
 germ_sppz2_luchs_a2_0;Spähpanzer Luchs A2
 germ_sppz2_luchs_a2_1;Luchs A2

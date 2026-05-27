@@ -44,6 +44,9 @@ All dates are listed in DD-MM-YYYY format.
     - **KPz Leopard 2 PSO** → **Leopard 2 PSO**. Statcard name → **KNDS Deutschland Leopard 2 Peace Support Operations**. PSO is a manufacturer designation so the KPz doesn't apply.
     - **SPz Puma S0**: Statcard name → **Projekt System Management | Schützenpanzer Puma S0**.
     - **SPz Puma VJTF**: Statcard name → **Projekt System Management | Schützenpanzer Puma Very High Readiness Joint Task Force**.
+    - **Vilkas**: Statcard name → **ARTEC Boxer Infantry Combat Vehicle Samson | Pėstininkų kovos mašina Vilkas**.
+    - **HMS Dreadnought (00)**: Statcard name → **Portsmouth Royal Dockyard / Chatham Royal Dockyard | Dreadnought-class | HMS Dreadnought (00) (1917)**.
+    - **MAS 441**: Statcard name → **Cantiere Baglietto / Arsenale militare marittimo di Taranto | Motoscafo Antisommergibili Tipo Baglietto 1934 | MAS 441 (1940)**.
 
 ### Decals:
 

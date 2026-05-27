@@ -3517,12 +3517,23 @@ Main Battle Tank Leopard 1</color>
 germ_leopard_a1a1_120_1;Leopard 1
 germ_leopard_a1a1_120_2;MBT
 
+germ_leopard_c2_mexas_shop;Leopard C2 (MEXAS)
+germ_leopard_c2_mexas_0;"Leopard C2
+<color=#adadad>(Modular Expandable Armour System)</color>"
+germ_leopard_c2_mexas_1;Leopard C2
+germ_leopard_c2_mexas_2;MBT
+
 germ_marder_clovis_shop;◄ CLOVIS
 germ_marder_clovis_0;<color=#81c3fc>◄ Thyssen Henschel CLOVIS, FL 20, 105 mm</color>
 germ_marder_clovis_1;◄ CLOVIS
 germ_marder_clovis_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+germ_begleitpanzer_57_shop;Begleit-Pz 57 mm
+germ_begleitpanzer_57_0;<color=#81c3fc>Thyssen Henschel <color=@commonTextColor>+</color> Bofors Begleitpanzer 57 mm</color>
+germ_begleitpanzer_57_1;Begleit-Pz 57 mm
+germ_begleitpanzer_57_2;IFV
+
 germ_jaguar_2_shop;RakJPz 4 Jaguar 2
 germ_jaguar_2_0;"<color=#81c3fc>Thyssen Henschel</color>
 Raketenjagdpanzer 4 Jaguar 2"
@@ -3634,6 +3645,24 @@ germ_leopard_2a5_yt_cup_2019_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 ␙ Kampfpanzer Leopard 2 A5"
 germ_leopard_2a5_yt_cup_2019_1;␙ Leopard 2
 germ_leopard_2a5_yt_cup_2019_2;MBT
+
+germ_boxer_swatrinf_shop;sWaTrgInf
+germ_boxer_swatrinf_0;"<color=#81c3fc>ARTEC <color=@commonTextColor>+</color> Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle</color>
+schwerer Waffenträger Infanterie"
+germ_boxer_swatrinf_1;sWaTrgInf
+germ_boxer_swatrinf_2;IFV
+
+germ_boxer_3105_shop;Boxer (Cockerill 3105)
+germ_boxer_3105_0;"<color=#81c3fc>ARTEC Boxer</color>
+<color=#adadad>(Cockerill 3105)</color>"
+germ_boxer_3105_1;Boxer (Cockerill 3105)
+germ_boxer_3105_2;Light Tank
+
+germ_vilkas_shop;Vilkas
+germ_vilkas_0;"<color=#81c3fc>ARTEC Boxer Infantry Combat Vehicle Samson</color>
+Pėstininkų kovos mašina Vilkas"
+germ_vilkas_1;Vilkas
+germ_vilkas_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 germ_flarakrad_shop;FlaRakRad 1 Roland
@@ -5010,7 +5039,7 @@ uk_tracked_rapier_2;SPAAM
 
 uk_badger_shop;Badger SV
 uk_badger_0;"<color=#81c3fc>Denel Land Systems</color>
-<color=#ff8c80>Project Hoefyster</color>
+<color=#ff8c80>New Generation Infantry Fighting Vehicle <color=@commonTextColor>|</color> Project Hoefyster</color>
 Badger Section Variant"
 uk_badger_1;Badger SV
 uk_badger_2;IFV
@@ -5662,7 +5691,7 @@ uk_battlecruiser_invincible_2;Battlecruiser
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 uk_battleship_dreadnought_shop;HMS Dreadnought (00)
-uk_battleship_dreadnought_0;"<color=#81c3fc>Portsmouth Royal Dockyard</color>
+uk_battleship_dreadnought_0;"<color=#81c3fc>Portsmouth Royal Dockyard <color=@commonTextColor>/</color> Chatham Royal Dockyard</color>
 <color=#fffa62>Dreadnought-class</color>
 HMS Dreadnought (00)
 <color=#adadad>(1917)</color>"
@@ -9946,11 +9975,12 @@ it_mas_stefano_turr_1;Stefano Turr
 it_mas_stefano_turr_2;Armed Torpedo Boat
 
 it_mas441_shop;MAS 441
-it_mas441_0;"<color=#81c3fc>Cantiere Baglietto</color>
+it_mas441_0;"<color=#81c3fc>Cantiere Baglietto <color=@commonTextColor>/</color> Arsenale militare marittimo di Taranto</color>
 <color=#fffa62>Motoscafo Antisommergibili Tipo Baglietto 1934</color>
-MAS 441"
+MAS 441
+<color=#adadad>(1940)</color>"
 it_mas441_1;MAS 441
-it_mas441_2;Motor Torpedo Boat
+it_mas441_2;Anti-Submarine Boat
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 it_a1_vosper_shop;MS 461

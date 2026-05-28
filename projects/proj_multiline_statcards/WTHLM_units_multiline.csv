@@ -3528,6 +3528,19 @@ germ_marder_clovis_0;<color=#81c3fc>◄ Thyssen Henschel CLOVIS, FL 20, 105 mm</
 germ_marder_clovis_1;◄ CLOVIS
 germ_marder_clovis_2;Light Tank
 
+germ_spz_12_3_shop;SPz 12-3 (LGs M 40 A1)
+germ_spz_12_3_0;"<color=#81c3fc>Hispano-Suiza HS.30 <color=@commonTextColor>/</color> Hannoversche Maschinenbau</color>
+Schützenpanzer lang Typ 12-3 mit 106 mm Leichtgeschütz M 40 A1"
+germ_spz_12_3_1;SPz 12-3
+germ_spz_12_3_2;Light Tank
+
+germ_spz_oerlikon_raketenautomat_shop;SPz 12-3 (Typ 3Z 8DLa)
+germ_spz_oerlikon_raketenautomat_0;"<color=#81c3fc>Hispano-Suiza HS.30 <color=@commonTextColor>/</color> Hannoversche Maschinenbau</color>
+Erprobungs-Schützenpanzer lang Typ 12-3 mit 8 cm
+Zwillings-Raketenautomat Oerlikon Typ 3Z 8DLa"
+germ_spz_oerlikon_raketenautomat_1;SPz 12-3 (Typ 3Z 8DLa)
+germ_spz_oerlikon_raketenautomat_2;SPG
+
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 germ_begleitpanzer_57_shop;Begleit-Pz 57 mm
 germ_begleitpanzer_57_0;<color=#81c3fc>Thyssen Henschel <color=@commonTextColor>+</color> Bofors Begleitpanzer 57 mm</color>
@@ -11022,7 +11035,7 @@ fr_cruiser_la_galissoniere_class_gloire_2;Light Cruiser
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 fr_battleship_dunkerque_shop;Dunkerque
 fr_battleship_dunkerque_0;"<color=#81c3fc>Arsenal de Brest</color>
-<color=#fffa62>Cuirassé de la Classe Dunkerque</color>
+<color=#fffa62>Cuirassé de la classe Dunkerque</color>
 Dunkerque
 <color=#adadad>(1939)</color>"
 fr_battleship_dunkerque_1;Dunkerque
@@ -11030,7 +11043,7 @@ fr_battleship_dunkerque_2;Battleship
 
 fr_battleship_strasbourg_shop;Strasbourg
 fr_battleship_strasbourg_0;"<color=#81c3fc>Ateliers et Chantiers de la Loire</color>
-<color=#fffa62>Cuirassé de la Classe Dunkerque</color>
+<color=#fffa62>Cuirassé de la classe Dunkerque</color>
 Strasbourg
 <color=#adadad>(1942)</color>"
 fr_battleship_strasbourg_1;Strasbourg
@@ -11039,7 +11052,7 @@ fr_battleship_strasbourg_2;Battleship
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 fr_battleship_richelieu_class_richelieu_shop;Richelieu
 fr_battleship_richelieu_class_richelieu_0;"<color=#81c3fc>Arsenal de Brest <color=@commonTextColor>/</color> Brooklyn Navy Yard</color>
-<color=#fffa62>Cuirassé de la Classe Richelieu</color>
+<color=#fffa62>Cuirassé de la classe Richelieu</color>
 Richelieu
 <color=#adadad>(1943)</color>"
 fr_battleship_richelieu_class_richelieu_1;Richelieu
@@ -11047,7 +11060,7 @@ fr_battleship_richelieu_class_richelieu_2;Battleship
 
 fr_battleship_richelieu_class_clemenceau_shop;Clemenceau
 fr_battleship_richelieu_class_clemenceau_0;"<color=#81c3fc>Arsenal de Brest</color>
-<color=#fffa62>Cuirassé de la Classe Richelieu</color>
+<color=#fffa62>Cuirassé de la classe Richelieu</color>
 Clemenceau"
 fr_battleship_richelieu_class_clemenceau_1;Clemenceau
 fr_battleship_richelieu_class_clemenceau_2;Battleship
@@ -11660,7 +11673,7 @@ sw_landsverk_ush_204_gk_2;SPAA
 
 sw_landsverk_ush_405_shop;U SH (Typ 3Z 8DLa)
 sw_landsverk_ush_405_0;"<color=#81c3fc>Landsverk <color=@commonTextColor>+</color> Unimog SH</color>
-<color=#adadad>(Typ 3Z 8DLa)</color>"
+<color=#adadad>(8 cm Zwillings-Raketenautomat Oerlikon Typ 3Z 8DLa)</color>"
 sw_landsverk_ush_405_1;U SH (Typ 3Z 8DLa)
 sw_landsverk_ush_405_2;MLRS
 

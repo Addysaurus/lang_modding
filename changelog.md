@@ -47,6 +47,14 @@ All dates are listed in DD-MM-YYYY format.
     - **Vilkas**: Statcard name → **ARTEC Boxer Infantry Combat Vehicle Samson | Pėstininkų kovos mašina Vilkas**.
     - **HMS Dreadnought (00)**: Statcard name → **Portsmouth Royal Dockyard / Chatham Royal Dockyard | Dreadnought-class | HMS Dreadnought (00) (1917)**.
     - **MAS 441**: Statcard name → **Cantiere Baglietto / Arsenale militare marittimo di Taranto | Motoscafo Antisommergibili Tipo Baglietto 1934 | MAS 441 (1940)**.
+    - **U SH (Typ 3Z 8DLa)**: Statcard name → **Landsverk + Unimog SH (8 cm Zwillings-Raketenautomat Oerlikon Typ 3Z 8DLa)**.
+    - **SPz 12-3 (LGs M 40 A1)**: Statcard name → **Hispano-Suiza HS.30 / Hannoversche Maschinenbau | Schützenpanzer lang Typ 12-3 mit 106 mm Leichtgeschütz M 40 A1**.
+    - **SPz 12-3 (Typ 3Z 8DLA)** → **SPz 12-3 (Typ 3Z 8DLa)**. Statcard name → **Hispano-Suiza HS.30 / Hannoversche Maschinenbau | Erprobungs-Schützenpanzer lang Typ 12-3 mit 8 cm Zwillings-Raketenautomat Oerlikon Typ 3Z 8DLa**.
+    - **SPz 12-3 (Typ 3Z 8DLA) / RakJPz 2** (folder) → **SPz 12-3 (Typ 3Z 8DLa) / RakJPz 2**.
+    - **Dunkerque**: Statcard name → **Arsenal de Brest | Cuirassé de la classe Dunkerque | Dunkerque (1939)**.
+    - **Strasbourg**: Statcard name → **Ateliers et Chantiers de la Loire | Cuirassé de la classe Dunkerque | Strasbourg (1942)**.
+    - **Richelieu**: Statcard name → **Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de la classe Richelieu | Richelieu (1943)**.
+    - **Clemenceau**: Statcard name → **Arsenal de Brest | Cuirassé de la classe Richelieu | Clemenceau**.
 
 ### Decals:
 
@@ -6992,7 +7000,7 @@ You do not need to actually know how this works. I am including this in here in 
     - Update "Firebirds" changes:
         - **Superhind MK IV** renamed to **Night Hawk**.
         - **F-117** renamed to **F-117A-1-LO (OCIP II)**.
-        - **Luchs A2 and Scimitar renamed to **SpPz Luchs A2 and Scimitar**.
+        - **Luchs A2** and Scimitar renamed to **SpPz Luchs A2 and Scimitar**.
     - **RN Duca degli Abruzzi** renamed to **Luigi di Savoia Duca degli Abruzzi**.
 
 ## 1.10.00 - 19-11-2024

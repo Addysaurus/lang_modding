@@ -1347,7 +1347,7 @@ shop/group/germ_marder_stuh_group;Marder III H / StuH 42 / StuG III F
 shop/group/germ_jagdpanzer_group;Jagdpanzer IV / 38 (t)
 shop/group/germ_jagdpanther_group;Pz.Jgr. Panther G1 / JPz 4-5
 shop/group/germ_panzerjager_tiger_group;Ferdinand / Pz.Jgr. Tiger B
-shop/group/germ_raketen_group;SPz 12-3 (Typ 3Z 8DLA) / RakJPz 2
+shop/group/germ_raketen_group;SPz 12-3 (Typ 3Z 8DLa) / RakJPz 2
 shop/group/germ_puma_group;SPz Puma S0 / VJTF
 shop/group/germ_roland_osa_group;FlaRakPz 1 / ◊ 9A33BM2
 shop/group/germ_iris_slm_fcs_group;LV IRIS-T SLM (Radarfahrzeug) / (Startfahrzeug)
@@ -5253,6 +5253,14 @@ germ_marder_clovis_shop;◄ CLOVIS
 germ_marder_clovis_0;◄ Thyssen Henschel CLOVIS, FL 20, 105 mm
 germ_marder_clovis_1;◄ CLOVIS
 germ_marder_clovis_2;Light Tank
+germ_spz_12_3_shop;SPz 12-3 (LGs M 40 A1)
+germ_spz_12_3_0;Hispano-Suiza HS.30 / Hannoversche Maschinenbau | Schützenpanzer lang Typ 12-3 mit 106 mm Leichtgeschütz M 40 A1
+germ_spz_12_3_1;SPz 12-3
+germ_spz_12_3_2;Light Tank
+germ_spz_oerlikon_raketenautomat_shop;SPz 12-3 (Typ 3Z 8DLa)
+germ_spz_oerlikon_raketenautomat_0;Hispano-Suiza HS.30 / Hannoversche Maschinenbau | Erprobungs-Schützenpanzer lang Typ 12-3 mit 8 cm Zwillings-Raketenautomat Oerlikon Typ 3Z 8DLa
+germ_spz_oerlikon_raketenautomat_1;SPz 12-3 (Typ 3Z 8DLa)
+germ_spz_oerlikon_raketenautomat_2;SPG
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 germ_begleitpanzer_57_shop;Begleit-Pz 57 mm
@@ -9925,21 +9933,21 @@ fr_cruiser_la_galissoniere_class_gloire_2;Light Cruiser
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 fr_battleship_dunkerque_shop;Dunkerque
-fr_battleship_dunkerque_0;Arsenal de Brest | Cuirassé de la Classe Dunkerque | Dunkerque (1939)
+fr_battleship_dunkerque_0;Arsenal de Brest | Cuirassé de la classe Dunkerque | Dunkerque (1939)
 fr_battleship_dunkerque_1;Dunkerque
 fr_battleship_dunkerque_2;Battleship
 fr_battleship_strasbourg_shop;Strasbourg
-fr_battleship_strasbourg_0;Ateliers et Chantiers de la Loire | Cuirassé de la Classe Dunkerque | Strasbourg (1942)
+fr_battleship_strasbourg_0;Ateliers et Chantiers de la Loire | Cuirassé de la classe Dunkerque | Strasbourg (1942)
 fr_battleship_strasbourg_1;Strasbourg
 fr_battleship_strasbourg_2;Battleship
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 fr_battleship_richelieu_class_richelieu_shop;Richelieu
-fr_battleship_richelieu_class_richelieu_0;Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de la Classe Richelieu | Richelieu (1943)
+fr_battleship_richelieu_class_richelieu_0;Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de la classe Richelieu | Richelieu (1943)
 fr_battleship_richelieu_class_richelieu_1;Richelieu
 fr_battleship_richelieu_class_richelieu_2;Battleship
 fr_battleship_richelieu_class_clemenceau_shop;Clemenceau
-fr_battleship_richelieu_class_clemenceau_0;Arsenal de Brest | Cuirassé de la Classe Richelieu | Clemenceau
+fr_battleship_richelieu_class_clemenceau_0;Arsenal de Brest | Cuirassé de la classe Richelieu | Clemenceau
 fr_battleship_richelieu_class_clemenceau_1;Clemenceau
 fr_battleship_richelieu_class_clemenceau_2;Battleship
 
@@ -10353,7 +10361,7 @@ sw_landsverk_ush_204_gk_0;Landsverk + Unimog SH (20 mm Belt-Feed Gun Type 204GK)
 sw_landsverk_ush_204_gk_shop;U SH (204GK)
 sw_landsverk_ush_204_gk_2;SPAA
 sw_landsverk_ush_405_shop;U SH (Typ 3Z 8DLa)
-sw_landsverk_ush_405_0;Landsverk + Unimog SH (Typ 3Z 8DLa)
+sw_landsverk_ush_405_0;Landsverk + Unimog SH (8 cm Zwillings-Raketenautomat Oerlikon Typ 3Z 8DLa)
 sw_landsverk_ush_405_1;U SH (Typ 3Z 8DLa)
 sw_landsverk_ush_405_2;MLRS
 sw_kungstiger_shop;♛ Tiger B (Fgst.Nr. 6)
@@ -11328,14 +11336,6 @@ germ_sdkfz_9_flak37_shop;8,8cm Fla.K. 37 (Sfl.)
 germ_sdkfz_9_flak37_0;8,8cm Fla.K. 37 (Sfl.) auf schwerer Zugkraftwagen 18t
 germ_sdkfz_9_flak37_1;8,8cm Fla.K. 37 (Sfl.)
 germ_sdkfz_9_flak37_2;SPG
-germ_spz_oerlikon_raketenautomat_shop;SPz 12-3 (Typ 3Z 8DLA)
-germ_spz_oerlikon_raketenautomat_0;Erprobungs-Schützenpanzer lang Typ 12-3 mit 8,1cm Raketenwerfer Typ 3Z 8DLA
-germ_spz_oerlikon_raketenautomat_1;SPz 12-3
-germ_spz_oerlikon_raketenautomat_2;SPG
-germ_spz_12_3_shop;SPz 12-3 (LGs M 40 A1)
-germ_spz_12_3_0;Schützenpanzer lang Typ 12-3 mit 106mm Leichtgeschütz M 40 A1
-germ_spz_12_3_1;SPz 12-3
-germ_spz_12_3_2;Light Tank
 germ_raketenjagdpanzer_2_shop;RakJPz 2
 germ_raketenjagdpanzer_2_0;Raketenjagdpanzer 2
 germ_raketenjagdpanzer_2_1;Raketenjagdpanzer 2

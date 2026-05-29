@@ -55,6 +55,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Strasbourg**: Statcard name → **Ateliers et Chantiers de la Loire | Cuirassé de la classe Dunkerque | Strasbourg (1942)**.
     - **Richelieu**: Statcard name → **Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de la classe Richelieu | Richelieu (1943)**.
     - **Clemenceau**: Statcard name → **Arsenal de Brest | Cuirassé de la classe Richelieu | Clemenceau**.
+    - Replaced all instances of "samolyet" with "samolyot" and all instances of "Самолет" with "Самолёт".
 
 ### Decals:
 

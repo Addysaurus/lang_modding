@@ -2036,11 +2036,11 @@ jaguar_a_iaf_killstreak_0;☢ SEPECAT Jaguar A | Jaguar Type A
 jaguar_a_iaf_killstreak_1;☢ Jaguar A
 jaguar_a_iaf_killstreak_2;☢ Jaguar
 su_24m_killstreak_shop;☢ Su-24M2
-su_24m_killstreak_0;☢ Kompaniâ «Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
+su_24m_killstreak_0;☢ Kompaniâ «Sukhoj» | izd. T-6M2 | Samolyot Su-24M2
 su_24m_killstreak_1;☢ Su-24M
 su_24m_killstreak_2;☢ Su-24
 su_24m_china_killstreak_shop;☢␗ Su-24M2
-su_24m_china_killstreak_0;☢␗ Kompaniâ «Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
+su_24m_china_killstreak_0;☢␗ Kompaniâ «Sukhoj» | izd. T-6M2 | Samolyot Su-24M2
 su_24m_china_killstreak_1;☢␗ Su-24M
 su_24m_china_killstreak_2;☢␗ Su-24
 f_111f_killstreak_shop;☢ F-111F
@@ -5341,6 +5341,14 @@ germ_leopard_2a5_yt_cup_2019_shop;␙ KPz Leopard 2 A5
 germ_leopard_2a5_yt_cup_2019_0;␙ Krauss-Maffei Wegmann | Kampfpanzer Leopard 2 A5
 germ_leopard_2a5_yt_cup_2019_1;␙ Leopard 2
 germ_leopard_2a5_yt_cup_2019_2;MBT
+germ_9a33bm3_shop;◊ 9A33BM2
+germ_9a33bm3_0;"◊ Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM2 ""Osa-AK"""
+germ_9a33bm3_1;◊ 9A33BM2
+germ_9a33bm3_2;SPAA
+germ_9a35_m_shop;◊ 9A35M
+germ_9a35_m_0;"◊ BM 9A35M ""Strela-10M"""
+germ_9a35_m_1;◊ 9A35
+germ_9a35_m_2;◊ SPAAM
 germ_boxer_swatrinf_shop;sWaTrgInf
 germ_boxer_swatrinf_0;ARTEC + Rheinmetall Landsysteme Boxer Combat Reconnaissance Vehicle | schwerer Waffenträger Infanterie
 germ_boxer_swatrinf_1;sWaTrgInf
@@ -5446,25 +5454,25 @@ germ_battleship_bismarck_2;Battleship
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 ar_2_shop;Ar-2
-ar_2_0;Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet Ar-2
+ar_2_0;Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyot Ar-2
 ar_2_1;Ar-2
 ar_2_2;Ar-2
 kor_1_shop;Bye-2
-kor_1_0;Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Samolyet Bye-2
+kor_1_0;Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Samolyot Bye-2
 kor_1_1;Bye-2
 kor_1_2;Bye-2
 kor_2_shop;Bye-4
-kor_2_0;Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Samolyet Bye-4
+kor_2_0;Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Samolyot Bye-4
 kor_2_1;Bye-4
 kor_2_2;Bye-4
 db_lk_shop;DB-LK
-db_lk_0;Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyet DB-LK
+db_lk_0;Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyot DB-LK
 db_lk_1;DB-LK
 db_lk_2;DB-LK
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 yak_1_litvyak_shop;Litvâk's Yak-1
-yak_1_litvyak_0;Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyet Yak-1
+yak_1_litvyak_0;Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyot Yak-1
 yak_1_litvyak_1;Yak-1
 yak_1_litvyak_2;Yak-1
 
@@ -5478,7 +5486,7 @@ la_200_toriy_0;Opytno-konstruktorskoye bûro № 301 200
 la_200_toriy_1;200
 la_200_toriy_2;200
 la-15_shop;La-15
-la-15_0;Aviaczionnyj zavod № 21 | izd. 52 | Samolyet La-15
+la-15_0;Aviaczionnyj zavod № 21 | izd. 52 | Samolyot La-15
 la-15_1;La-15
 la-15_2;La-15
 l_39za_shop;L-39ZA
@@ -5500,21 +5508,21 @@ nt_su_25t_0;"Ulan-Udènskij aviaczionnyj zavod | izd. T-8M | Su-25T ""Grač"""
 nt_su_25t_1;Su-25T
 nt_su_25t_2;Su-25
 tu_95m_shop;Tu-95M
-tu_95m_0;Zavod № 18 im. Vorošilova | izd. VM | Samolyet Tu-95M
+tu_95m_0;Zavod № 18 im. Vorošilova | izd. VM | Samolyot Tu-95M
 tu_95m_1;Tu-95M
 tu_95m_2;Tu-95
 nt_tu_95m_shop;Tu-95M
-nt_tu_95m_0;Zavod № 18 im. Vorošilova | izd. VM | Samolyet Tu-95M
+nt_tu_95m_0;Zavod № 18 im. Vorošilova | izd. VM | Samolyot Tu-95M
 nt_tu_95m_1;Tu-95M
 nt_tu_95m_2;Tu-95
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 mig-21_bis_shop;MiG-21bis
-mig-21_bis_0;Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna | izd. 75 | Samolyet MiG-21bis
+mig-21_bis_0;Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna | izd. 75 | Samolyot MiG-21bis
 mig-21_bis_1;MiG-21bis
 mig-21_bis_2;MiG-21
 mig-21_bis_event_shop;MiG-21bis
-mig-21_bis_event_0;Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna | izd. 75 | Samolyet MiG-21bis
+mig-21_bis_event_0;Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna | izd. 75 | Samolyot MiG-21bis
 mig-21_bis_event_1;MiG-21bis
 mig-21_bis_event_2;MiG-21
 mig_23m_shop;MiG-23M
@@ -5534,41 +5542,41 @@ mig_23ml_0;izd. 23-12 | MiG-23ML
 mig_23ml_1;MiG-23ML
 mig_23ml_2;MiG-23
 su_24m_shop;Su-24M2
-su_24m_0;Kompaniâ «Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
+su_24m_0;Kompaniâ «Sukhoj» | izd. T-6M2 | Samolyot Su-24M2
 su_24m_1;Su-24M
 su_24m_2;Su-24
 nt_su_24m_shop;Su-24M2
-nt_su_24m_0;Kompaniâ «Sukhoj» | izd. T-6M2 | Samolyet Su-24M2
+nt_su_24m_0;Kompaniâ «Sukhoj» | izd. T-6M2 | Samolyot Su-24M2
 nt_su_24m_1;Su-24M
 nt_su_24m_2;Su-24
 mig_25pd_shop;MiG-25PD
-mig_25pd_0;Moskovskij mašinostroityel'nyj zavod «Zyenit» | izd. 84D | Samolyet MiG-25PD
+mig_25pd_0;Moskovskij mašinostroityel'nyj zavod «Zyenit» | izd. 84D | Samolyot MiG-25PD
 mig_25pd_1;MiG-25PD
 mig_25pd_2;MiG-25
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 mig_29_9_12_shop;MiG-29 (9-12)
-mig_29_9_12_0;"Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | izd. 9-12 | Samolyet MiG-29"
+mig_29_9_12_0;"Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | izd. 9-12 | Samolyot MiG-29"
 mig_29_9_12_1;MiG-29
 mig_29_9_12_2;MiG-29
 mig_29m_9_15_shop;MiG-29M
-mig_29m_9_15_0;Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol» | izd. 9-15 | Samolyet MiG-29M
+mig_29m_9_15_0;Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol» | izd. 9-15 | Samolyot MiG-29M
 mig_29m_9_15_1;MiG-29M
 mig_29m_9_15_2;MiG-29
 su_27_shop;Su-27
-su_27_0;Kompaniâ «Sukhoj» | izd. T-10S | Samolyet Su-27
+su_27_0;Kompaniâ «Sukhoj» | izd. T-10S | Samolyot Su-27
 su_27_1;Su-27
 su_27_2;Su-27
 su_27sm_shop;Su-27SM
-su_27sm_0;Kompaniâ «Sukhoj» | izd. T-10SM | Samolyet Su-27SM
+su_27sm_0;Kompaniâ «Sukhoj» | izd. T-10SM | Samolyot Su-27SM
 su_27sm_1;Su-27SM
 su_27sm_2;Su-27
 su_30sm_shop;Su-30SM
-su_30sm_0;Kompaniâ «Sukhoj» | izd. T-10PU | Samolyet Su-30SM
+su_30sm_0;Kompaniâ «Sukhoj» | izd. T-10PU | Samolyot Su-30SM
 su_30sm_1;Su-30SM
 su_30sm_2;Su-30
 su_30sm2_shop;Su-30SM2 (2025)
-su_30sm2_0;Kompaniâ «Sukhoj» | izd. T-10PU | Samolyet Su-30SM2 (2025)
+su_30sm2_0;Kompaniâ «Sukhoj» | izd. T-10PU | Samolyot Su-30SM2 (2025)
 su_30sm2_1;Su-30SM2
 su_30sm2_2;Su-30
 su_30mk2v_venezuela_shop;▄ Su-30MK2
@@ -5576,11 +5584,11 @@ su_30mk2v_venezuela_0;▄ Kompaniâ «Sukhoj» | Su-30MK2
 su_30mk2v_venezuela_1;▄ Su-30MK2
 su_30mk2v_venezuela_2;▄ Su-30
 su_34_shop;Su-34NVO
-su_34_0;Kompaniâ «Sukhoj» | izd. T-10V | Samolyet Su-34NVO
+su_34_0;Kompaniâ «Sukhoj» | izd. T-10V | Samolyot Su-34NVO
 su_34_1;Su-34NVO
 su_34_2;Su-34
 su_33_shop;Su-33 (SVP-24-33)
-su_33_0;Kompaniâ «Sukhoj» | izd. T-10K | Samolyet Su-33 (SVP-24-33)
+su_33_0;Kompaniâ «Sukhoj» | izd. T-10K | Samolyot Su-33 (SVP-24-33)
 su_33_1;Su-33
 su_33_2;Su-33
 
@@ -5655,6 +5663,26 @@ ussr_t_70_1942_shop;T-70
 ussr_t_70_1942_0;"Ob""yekt 0-70 | T-70 obr. 1942 g."
 ussr_t_70_1942_1;T-70
 ussr_t_70_1942_2;Light Tank
+ussr_gaz_4m_shop;GAZ-AAA (M-4)
+ussr_gaz_4m_0;GAZ-AAA (M-4)
+ussr_gaz_4m_1;GAZ-AAA (M-4)
+ussr_gaz_4m_2;SPAA
+ussr_gaz_dshk_shop;GAZ-AAA (DŠKT)
+ussr_gaz_dshk_0;GAZ-AAA (DŠKT)
+ussr_gaz_dshk_1;GAZ-AAA (DŠKT)
+ussr_gaz_dshk_2;SPAA
+ussr_su_76m_1943_shop;SU-76M
+ussr_su_76m_1943_0;SU-76M obr. 1943 g.
+ussr_su_76m_1943_1;SU-76M
+ussr_su_76m_1943_2;SPG
+ussr_su_76m_5st_kav_corps_shop;SU-76M (5-j Gv.Kav.Korp)
+ussr_su_76m_5st_kav_corps_0;SU-76M obr. 1943 g. (5-j Gvardyejskij Kavalyerijskij Korpus)
+ussr_su_76m_5st_kav_corps_1;SU-76M
+ussr_su_76m_5st_kav_corps_2;SPG
+ussr_su_76d_shop;SU-76D
+ussr_su_76d_0;GAZ-74 | SU-76D
+ussr_su_76d_1;SU-76D
+ussr_su_76d_2;SPG
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 ussr_t_34_1941_l_11_shop;T-34 (Dec, 1940)
@@ -5733,26 +5761,74 @@ ussr_t_80_shop;T-80
 ussr_t_80_0;"Ob""yekt 0-80 | T-80"
 ussr_t_80_1;T-80
 ussr_t_80_2;Light Tank
+ussr_gaz_mm_72k_shop;GAZ-MM (72-K)
+ussr_gaz_mm_72k_0;GAZ-MM (72-K)
+ussr_gaz_mm_72k_1;GAZ-MM (72-K)
+ussr_gaz_mm_72k_2;SPAA
+ussr_gaz_mm_72k_without_crew_shop;GAZ-MM (72-K)
+ussr_gaz_mm_72k_without_crew_0;GAZ-MM (72-K)
+ussr_gaz_mm_72k_without_crew_1;GAZ-MM (72-K)
+ussr_gaz_mm_72k_without_crew_2;SPAA
+ussr_zis_12_94KM_1945_shop;ZiS-12 (94-KM)
+ussr_zis_12_94KM_1945_0;ZiS-12 (94-KM)
+ussr_zis_12_94KM_1945_1;ZiS-12 (94-KM)
+ussr_zis_12_94KM_1945_2;SPAA
 ussr_t_126sp_shop;T-126SP
 ussr_t_126sp_0;126 | T-126SP
 ussr_t_126sp_1;T-126
 ussr_t_126sp_2;Light Tank
-ussr_su_76m_1943_shop;SU-76M
-ussr_su_76m_1943_0;SU-76M obr. 1943 g.
-ussr_su_76m_1943_1;SU-76M
-ussr_su_76m_1943_2;SPG
-ussr_su_76m_5st_kav_corps_shop;SU-76M (5-j Gv.Kav.Korp)
-ussr_su_76m_5st_kav_corps_0;SU-76M obr. 1943 g. (5-j Gvardyejskij Kavalyerijskij Korpus)
-ussr_su_76m_5st_kav_corps_1;SU-76M
-ussr_su_76m_5st_kav_corps_2;SPG
-ussr_su_76d_shop;SU-76D
-ussr_su_76d_0;GAZ-74 | SU-76D
-ussr_su_76d_1;SU-76D
-ussr_su_76d_2;SPG
+ussr_bm_13n_shop;BM-13N
+ussr_bm_13n_0;BM-13N (KS-112)
+ussr_bm_13n_1;BM-13N
+ussr_bm_13n_2;MLRS
+ussr_kv_1_L_11_shop;KV-1 (Feb, 1940)
+ussr_kv_1_L_11_0;KV-1 obr. 1940 g. (February, 1940)
+ussr_kv_1_L_11_1;KV-1
+ussr_kv_1_L_11_2;Heavy Tank
+ussr_kv_1s_shop;KV-1S
+ussr_kv_1s_0;KV-1S
+ussr_kv_1s_1;KV-1
+ussr_kv_1s_2;Heavy Tank
+ussr_kv_1_zis_5_shop;KV-1 (Jul, 1941)
+ussr_kv_1_zis_5_0;KV-1 obr. 1941 g. (July, 1941)
+ussr_kv_1_zis_5_1;KV-1
+ussr_kv_1_zis_5_2;Heavy Tank
+ussr_kv_1e_shop;KV-1 (Èkran.)
+ussr_kv_1e_0;KV-1 obr. 1941 g. (Èkranirovannyj)
+ussr_kv_1e_1;KV-1
+ussr_kv_1e_2;Heavy Tank
+ussr_kv_2_1939_shop;KV-2 (Jan, 1940)
+ussr_kv_2_1939_0;KV-2 obr. 1940 g. (January, 1940)
+ussr_kv_2_1939_1;KV-2
+ussr_kv_2_1939_2;Heavy Tank
+ussr_kv_2_1940_shop;KV-2 (late 1940)
+ussr_kv_2_1940_0;KV-2 obr. 1940 g. (late 1940)
+ussr_kv_2_1940_1;KV-2
+ussr_kv_2_1940_2;Heavy Tank
+ussr_kv_2_zis_6_shop;KV-2 (ZiS-6)
+ussr_kv_2_zis_6_0;KV-2 obr. 1941 g. (ZiS-6) (May, 1941)
+ussr_kv_2_zis_6_1;KV-2
+ussr_kv_2_zis_6_2;Heavy Tank
 ussr_kv_8_shop;KV-8
 ussr_kv_8_0;"Kirovskij zavod Narkomata tankovoj promyšlyennosti v gorodye Čyelâbinskye (Zavod № 100) | Ob""yekt 228 | Tank KV-8"
 ussr_kv_8_1;KV-8
 ussr_kv_8_2;Heavy Tank
+ussr_kv_85_shop;KV-85
+ussr_kv_85_0;"Ob""yekt 239 | KV-85"
+ussr_kv_85_1;KV-85
+ussr_kv_85_2;Heavy Tank
+ussr_kv_7_u13_shop;KV-7 (U-13)
+ussr_kv_7_u13_0;"Ob""yekt 227 | KV-7 (U-13)"
+ussr_kv_7_u13_1;KV-7 (U-13)
+ussr_kv_7_u13_2;SPG
+ussr_kv_122_shop;KV-122 (D-25T)
+ussr_kv_122_0;KV-122 (D-25T)
+ussr_kv_122_1;KV-122
+ussr_kv_122_2;Heavy Tank
+ussr_kv_220_shop;KV-220
+ussr_kv_220_0;"Ob""yekt 220 | KV-220"
+ussr_kv_220_1;KV-220
+ussr_kv_220_2;Heavy Tank
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 ussr_is_1_shop;IS-1
@@ -5763,6 +5839,46 @@ ussr_is_1_kit_3rank_shop;"IS-1 ""In May 1945"""
 ussr_is_1_kit_3rank_0;"Kirovskij zavod | Ob""yekt 237 | IS-1 obr. 1943 g. ""In May 1945"""
 ussr_is_1_kit_3rank_1;IS-1
 ussr_is_1_kit_3rank_2;Heavy Tank
+ussr_is_2_1943_shop;IS-2 (1-j)
+ussr_is_2_1943_0;"Ob""yekt 240 | IS-2 obr. 1943 g. (1-j obr.)"
+ussr_is_2_1943_1;IS-2
+ussr_is_2_1943_2;Heavy Tank
+ussr_is_2_1944_shop;IS-2 (2-j)
+ussr_is_2_1944_0;"Ob""yekt 240 | IS-2 obr. 1944 g. (2-j obr.)"
+ussr_is_2_1944_1;IS-2
+ussr_is_2_1944_2;Heavy Tank
+ussr_is_2_1944_321_shop;IS-2 (2-j) (No. 321)
+ussr_is_2_1944_321_0;"Ob""yekt 240 | IS-2 obr. 1944 g. (2-j obr.) (No. 321)"
+ussr_is_2_1944_321_1;IS-2
+ussr_is_2_1944_321_2;Heavy Tank
+ussr_is_2_1944_revenge_shop;IS-2 (2-j) (48-j Ot.Gv.T.T.P.)
+ussr_is_2_1944_revenge_0;"Ob""yekt 240 | IS-2 obr. 1944 g. (2-j obr.) (48-j Otdyel'nyj Gvardyejskij Tâžyelyj Tankovyj Polk)"
+ussr_is_2_1944_revenge_1;IS-2
+ussr_is_2_1944_revenge_2;Heavy Tank
+ussr_object_248_shop;IS-5 (1944)
+ussr_object_248_0;"Ob""yekt 248 | IS-100 | IS-5 obr. 1944 g."
+ussr_object_248_1;IS-5 (1944)
+ussr_object_248_2;Heavy Tank
+ussr_is_3_shop;IS-3
+ussr_is_3_0;"Ob""yekt 703 | IS-3 obr. 1945 g."
+ussr_is_3_1;IS-3
+ussr_is_3_2;Heavy Tank
+ussr_is_4m_shop;IS-4M
+ussr_is_4m_0;"Ob""yekt 701-6 | IS-4M obr. 1949 g."
+ussr_is_4m_1;IS-4M
+ussr_is_4m_2;Heavy Tank
+ussr_is_4m_tutorial_shop;IS-4M
+ussr_is_4m_tutorial_0;"Ob""yekt 701-6 | IS-4M obr. 1949 g."
+ussr_is_4m_tutorial_1;IS-4M
+ussr_is_4m_tutorial_2;Heavy Tank
+ussr_is_6_shop;IS-6
+ussr_is_6_0;"Ob""yekt 252 | IS-6"
+ussr_is_6_1;IS-6
+ussr_is_6_2;Heavy Tank
+ussr_is_7_shop;IS-7
+ussr_is_7_0;"Ob""yekt 260 sb.2 | IS-7 obr. 1948 g."
+ussr_is_7_1;IS-7
+ussr_is_7_2;Heavy Tank
 ussr_pt_76b_shop;PT-76B
 ussr_pt_76b_0;"Ob""yekt 740B | PT-76B obr. 1959 g."
 ussr_pt_76b_1;PT-76B
@@ -5771,6 +5887,10 @@ ussr_pt_76_57_shop;PT-76B (BM-57)
 ussr_pt_76_57_0;PT-76B (BM-57)
 ussr_pt_76_57_1;PT-76B (BM-57)
 ussr_pt_76_57_2;Light Tank
+ussr_su_152_shop;SU-152 (Mar, 1943)
+ussr_su_152_0;"Ob""yekt 236 | SU-152 (March, 1943)"
+ussr_su_152_1;SU-152
+ussr_su_152_2;SPG
 ussr_su_85_1943_shop;SU-85
 ussr_su_85_1943_0;"Ob""yekt 139 | SU-85 obr. 1944 g."
 ussr_su_85_1943_1;SU-85
@@ -5779,10 +5899,22 @@ ussr_su_85m_shop;SU-85M
 ussr_su_85m_0;"Ob""yekt 139 | SU-85M obr. 1944 g."
 ussr_su_85m_1;SU-85M
 ussr_su_85m_2;SPG
+ussr_isu_122_shop;ISU-122
+ussr_isu_122_0;"Ob""yekt 242 | ISU-122 obr. 1945 g."
+ussr_isu_122_1;ISU-122
+ussr_isu_122_2;SPG
+ussr_isu_152_shop;ISU-152
+ussr_isu_152_0;"Ob""yekt 241 | 52-GPS-545 | ISU-152 obr. 1945 g."
+ussr_isu_152_1;ISU-152
+ussr_isu_152_2;SPG
 ussr_isu_122s_shop;ISU-122S
 ussr_isu_122s_0;"Ob""yekt 249 | ISU-122-2 | ISU-122S obr. 1945 g."
 ussr_isu_122s_1;ISU-122S
 ussr_isu_122s_2;SPG
+ussr_bm_31_12_shop;BM-31-12
+ussr_bm_31_12_0;BM-31-12 (KS-77)
+ussr_bm_31_12_1;BM-31-12
+ussr_bm_31_12_2;MLRS
 ussr_sdkfz_251_21_kit_3rank_shop;"▂ m.S.P.W. D (M.G. 151 S) ""In May 1945"""
 ussr_sdkfz_251_21_kit_3rank_0;"▂ Hannoversche Maschinenbau | mittlerer Schützenpanzerwagen Ausf. D mit 2cm Drilling M.G. 151 S (Sd.Kfz. 251/21) ""In May 1945"""
 ussr_sdkfz_251_21_kit_3rank_1;▂ m.S.P.W. D (M.G. 151 S)
@@ -5831,6 +5963,14 @@ ussr_t_54_1951_shop;T-54-3
 ussr_t_54_1951_0;"Ob""yekt 137-III | T-54-1 | T-54 obr. 1951 g."
 ussr_t_54_1951_1;T-54
 ussr_t_54_1951_2;Medium Tank
+ussr_object_906_shop;PT-85 (UTD-20)
+ussr_object_906_0;"Ob""yekt 906 | PT-85 (UTD-20)"
+ussr_object_906_1;PT-85
+ussr_object_906_2;Light Tank
+ussr_su_122_54_shop;SU-122-54
+ussr_su_122_54_0;"Ob""yekt 600 | SU-122-54 obr. 1956 g."
+ussr_su_122_54_1;SU-122-54
+ussr_su_122_54_2;SPG
 ussr_2s19_m1_shop;2S19M1
 ussr_2s19_m1_0;"Ural'skij zavod transportnogo mašinostroyeniâ imyeni Â.M. Svyerdlova | Ob""yekt 316 | 2S19M1 ""Msta-S"""
 ussr_2s19_m1_1;2S19M1
@@ -5839,6 +5979,26 @@ ussr_2s19_m2_shop;2S19M2
 ussr_2s19_m2_0;"Ural'skij zavod transportnogo mašinostroyeniâ imyeni Â.M. Svyerdlova | Ob""yekt 316 | 2S19M2 ""Msta-S"""
 ussr_2s19_m2_1;2S19M2
 ussr_2s19_m2_2;SPH
+ussr_zsu_23_4m2_shop;ZSU-23-4M2
+ussr_zsu_23_4m2_0;2A6M2 | ZSU-23-4M2 Šilka-M2
+ussr_zsu_23_4m2_1;ZSU-23-4M2
+ussr_zsu_23_4m2_2;SPAA
+ussr_zsu_23_4_shop;ZSU-23-4V
+ussr_zsu_23_4_0;2A6 | ZSU-23-4V Šilka
+ussr_zsu_23_4_1;ZSU-23-4V
+ussr_zsu_23_4_2;SPAA
+ussr_zsu_23_4m4_shop;ZSU-23-4M4
+ussr_zsu_23_4m4_0;2A6M4 | ZSU-23-4M4 Šilka-M4
+ussr_zsu_23_4m4_1;ZSU-23-4M4
+ussr_zsu_23_4m4_2;SPAA
+ussr_t_10a_shop;T-10A
+ussr_t_10a_0;"Ob""yekt 731 | T-10A obr. 1956 g."
+ussr_t_10a_1;T-10A
+ussr_t_10a_2;Heavy Tank
+ussr_t_10m_shop;T-10M
+ussr_t_10m_0;"Ob""yekt 734 | T-10M obr. 1967 g."
+ussr_t_10m_1;T-10M
+ussr_t_10m_2;Heavy Tank
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 ussr_t_55_amd_1_shop;T-55AD-1
@@ -5891,6 +6051,14 @@ ussr_bmpt_72_shop;BMPT-72
 ussr_bmpt_72_0;"Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob""yekt 183 | Boyevaâ mašina poddyeržki tankov BMPT-72 ""Tyerminator-2"""
 ussr_bmpt_72_1;BMPT-72
 ussr_bmpt_72_2;IFV
+ussr_9a33bm3_shop;9A33BM3
+ussr_9a33bm3_0;"Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM3 ""Osa-AKM"""
+ussr_9a33bm3_1;9A33BM3
+ussr_9a33bm3_2;SPAA
+ussr_9a35_m2_shop;9A35M2
+ussr_9a35_m2_0;"BM 9A35M2 ""Strela-10M2"""
+ussr_9a35_m2_1;9A35
+ussr_9a35_m2_2;SPAA
 ussr_tor_m1_shop;9A331-1
 ussr_tor_m1_0;"Naučno-proizvodstvyennoye ob""yedinyeniye Antyej | Boyevaâ mašina 9A331-1"
 ussr_tor_m1_1;9A331-1
@@ -6245,6 +6413,14 @@ uk_centurion_shot_kal_d_1;▄ Šoṭ Kal D
 uk_centurion_shot_kal_d_2;MBT
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+uk_9a33bm2_shop;☸ 9A33BM2
+uk_9a33bm2_0;"☸ Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM2 ""Osa-AK"""
+uk_9a33bm2_1;☸ 9A33BM2
+uk_9a33bm2_2;SPAA
+uk_9a35_m_shop;☸ 9A35M
+uk_9a35_m_0;"☸ BM 9A35M ""Strela-10M"""
+uk_9a35_m_1;☸ 9A35M
+uk_9a35_m_2;SPAAM
 uk_ajax_shop;Ajax
 uk_ajax_0;General Dynamics Land Systems UK AJAX | Combat Vehicle, Reconnaissance, Full Tracked, Ajax
 uk_ajax_1;Ajax
@@ -9175,6 +9351,10 @@ it_t_72m1_1;◔ T-72M1
 it_t_72m1_2;MBT
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+it_9a33bm3_shop;╏ 9A33BM3
+it_9a33bm3_0;"╏ Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM3 ""Osa-AKM"""
+it_9a33bm3_1;╏ 9A33BM3
+it_9a33bm3_2;SPAA
 it_9a35_m_shop;◔ 9A35M
 it_9a35_m_0;"◔ Konstruktorskoye bûro točnogo mašinostroyeniâ im. A. È. Nudyel'mana | 9A35M önjáró légvédelmi rakétakomplexum ""Sztrela-10M"""
 it_9a35_m_1;◔ 9A35M
@@ -11052,38 +11232,10 @@ ussr_su_57_shop;SU-57
 ussr_su_57_0;SU-57
 ussr_su_57_1;SU-57
 ussr_su_57_2;SPG
-ussr_object_906_shop;PT-85 (UTD-20)
-ussr_object_906_0;"Ob""yekt 906 | PT-85 (UTD-20)"
-ussr_object_906_1;PT-85
-ussr_object_906_2;Light Tank
-ussr_bm_31_12_shop;BM-31-12
-ussr_bm_31_12_0;BM-31-12 (KS-77)
-ussr_bm_31_12_1;BM-31-12
-ussr_bm_31_12_2;MLRS
-ussr_bm_13n_shop;BM-13N
-ussr_bm_13n_0;BM-13N (KS-112)
-ussr_bm_13n_1;BM-13N
-ussr_bm_13n_2;MLRS
-ussr_su_152_shop;SU-152 (Mar, 1943)
-ussr_su_152_0;"Ob""yekt 236 | SU-152 (March, 1943)"
-ussr_su_152_1;SU-152
-ussr_su_152_2;SPG
-ussr_su_122_54_shop;SU-122-54
-ussr_su_122_54_0;"Ob""yekt 600 | SU-122-54 obr. 1956 g."
-ussr_su_122_54_1;SU-122-54
-ussr_su_122_54_2;SPG
 ussr_su_122_shop;SU-122
 ussr_su_122_0;SU-122 obr. 1942 g.
 ussr_su_122_1;SU-122
 ussr_su_122_2;SPG
-ussr_isu_122_shop;ISU-122
-ussr_isu_122_0;"Ob""yekt 242 | ISU-122 obr. 1945 g."
-ussr_isu_122_1;ISU-122
-ussr_isu_122_2;SPG
-ussr_isu_152_shop;ISU-152
-ussr_isu_152_0;"Ob""yekt 241 | 52-GPS-545 | ISU-152 obr. 1945 g."
-ussr_isu_152_1;ISU-152
-ussr_isu_152_2;SPG
 ussr_t_35_shop;T-35
 ussr_t_35_0;T-35 obr. 1935 g.
 ussr_t_35_1;T-35
@@ -11092,102 +11244,6 @@ ussr_smk_shop;SMK
 ussr_smk_0;SMK
 ussr_smk_1;SMK
 ussr_smk_2;Heavy Tank
-ussr_kv_1e_shop;KV-1 (Èkran.)
-ussr_kv_1e_0;KV-1 obr. 1941 g. (Èkranirovannyj)
-ussr_kv_1e_1;KV-1
-ussr_kv_1e_2;Heavy Tank
-ussr_kv_7_u13_shop;KV-7 (U-13)
-ussr_kv_7_u13_0;"Ob""yekt 227 | KV-7 (U-13)"
-ussr_kv_7_u13_1;KV-7 (U-13)
-ussr_kv_7_u13_2;SPG
-ussr_kv_220_shop;KV-220
-ussr_kv_220_0;"Ob""yekt 220 | KV-220"
-ussr_kv_220_1;KV-220
-ussr_kv_220_2;Heavy Tank
-ussr_kv_85_shop;KV-85
-ussr_kv_85_0;"Ob""yekt 239 | KV-85"
-ussr_kv_85_1;KV-85
-ussr_kv_85_2;Heavy Tank
-ussr_kv_1_L_11_shop;KV-1 (Feb, 1940)
-ussr_kv_1_L_11_0;"KV-1 obr. 1940 g. (February, 1940)"
-ussr_kv_1_L_11_1;KV-1
-ussr_kv_1_L_11_2;Heavy Tank
-ussr_kv_122_shop;KV-122 (D-25T)
-ussr_kv_122_0;KV-122 (D-25T)
-ussr_kv_122_1;KV-122
-ussr_kv_122_2;Heavy Tank
-ussr_kv_1_zis_5_shop;KV-1 (Jul, 1941)
-ussr_kv_1_zis_5_0;"KV-1 obr. 1941 g. (July, 1941)"
-ussr_kv_1_zis_5_1;KV-1
-ussr_kv_1_zis_5_2;Heavy Tank
-ussr_kv_1s_shop;KV-1S
-ussr_kv_1s_0;KV-1S
-ussr_kv_1s_1;KV-1
-ussr_kv_1s_2;Heavy Tank
-ussr_kv_2_1939_shop;KV-2 (Jan, 1940)
-ussr_kv_2_1939_0;"KV-2 obr. 1940 g. (January, 1940)"
-ussr_kv_2_1939_1;KV-2
-ussr_kv_2_1939_2;Heavy Tank
-ussr_kv_2_1940_shop;KV-2 (late 1940)
-ussr_kv_2_1940_0;KV-2 obr. 1940 g. (late 1940)
-ussr_kv_2_1940_1;KV-2
-ussr_kv_2_1940_2;Heavy Tank
-ussr_kv_2_zis_6_shop;KV-2 (ZiS-6)
-ussr_kv_2_zis_6_0;KV-2 obr. 1941 g. (ZiS-6) (May, 1941)
-ussr_kv_2_zis_6_1;KV-2
-ussr_kv_2_zis_6_2;Heavy Tank
-ussr_is_7_shop;IS-7
-ussr_is_7_0;"Ob""yekt 260 sb.2 | IS-7 obr. 1948 g."
-ussr_is_7_1;IS-7
-ussr_is_7_2;Heavy Tank
-ussr_object_248_shop;IS-5 (1944)
-ussr_object_248_0;"Ob""yekt 248 | IS-100 | IS-5 obr. 1944 g."
-ussr_object_248_1;IS-5 (1944)
-ussr_object_248_2;Heavy Tank
-ussr_is_1_shop;IS-1
-ussr_is_1_0;"Ob""yekt 237 | IS-1 obr. 1943 g."
-ussr_is_1_1;IS-1
-ussr_is_1_2;Heavy Tank
-ussr_is_2_1944_321_shop;IS-2 (2-j) (No. 321)
-ussr_is_2_1944_321_0;"Ob""yekt 240 | IS-2 obr. 1944 g. (2-j obr.) (No. 321)"
-ussr_is_2_1944_321_1;IS-2
-ussr_is_2_1944_321_2;Heavy Tank
-ussr_is_2_1944_revenge_shop;IS-2 (2-j) (48-j Ot.Gv.T.T.P.)
-ussr_is_2_1944_revenge_0;"Ob""yekt 240 | IS-2 obr. 1944 g. (2-j obr.) (48-j Otdyel'nyj Gvardyejskij Tâžyelyj Tankovyj Polk)"
-ussr_is_2_1944_revenge_1;IS-2
-ussr_is_2_1944_revenge_2;Heavy Tank
-ussr_is_2_1944_shop;IS-2 (2-j)
-ussr_is_2_1944_0;"Ob""yekt 240 | IS-2 obr. 1944 g. (2-j obr.)"
-ussr_is_2_1944_1;IS-2
-ussr_is_2_1944_2;Heavy Tank
-ussr_is_2_1943_shop;IS-2 (1-j)
-ussr_is_2_1943_0;"Ob""yekt 240 | IS-2 obr. 1943 g. (1-j obr.)"
-ussr_is_2_1943_1;IS-2
-ussr_is_2_1943_2;Heavy Tank
-ussr_is_3_shop;IS-3
-ussr_is_3_0;"Ob""yekt 703 | IS-3 obr. 1945 g."
-ussr_is_3_1;IS-3
-ussr_is_3_2;Heavy Tank
-ussr_is_6_shop;IS-6
-ussr_is_6_0;"Ob""yekt 252 | IS-6"
-ussr_is_6_1;IS-6
-ussr_is_6_2;Heavy Tank
-ussr_t_10a_shop;T-10A
-ussr_t_10a_0;"Ob""yekt 731 | T-10A obr. 1956 g."
-ussr_t_10a_1;T-10A
-ussr_t_10a_2;Heavy Tank
-ussr_t_10m_shop;T-10M
-ussr_t_10m_0;"Ob""yekt 734 | T-10M obr. 1967 g."
-ussr_t_10m_1;T-10M
-ussr_t_10m_2;Heavy Tank
-ussr_is_4m_shop;IS-4M
-ussr_is_4m_0;"Ob""yekt 701-6 | IS-4M obr. 1949 g."
-ussr_is_4m_1;IS-4M
-ussr_is_4m_2;Heavy Tank
-ussr_is_4m_tutorial_shop;IS-4M
-ussr_is_4m_tutorial_0;"Ob""yekt 701-6 | IS-4M obr. 1949 g."
-ussr_is_4m_tutorial_1;IS-4M
-ussr_is_4m_tutorial_2;Heavy Tank
 ussr_object_268_shop;Ob. 268
 ussr_object_268_0;"Ob""yekt 268"
 ussr_object_268_1;Ob. 268
@@ -11204,50 +11260,10 @@ ussr_zis_43_shop;ZiS-43
 ussr_zis_43_0;ZiS-43
 ussr_zis_43_1;ZiS-43
 ussr_zis_43_2;SPAA
-ussr_zsu_23_4m2_shop;ZSU-23-4M2
-ussr_zsu_23_4m2_0;2A6M2 | ZSU-23-4M2 Šilka-M2
-ussr_zsu_23_4m2_1;ZSU-23-4M2
-ussr_zsu_23_4m2_2;SPAA
-ussr_zsu_23_4m4_shop;ZSU-23-4M4
-ussr_zsu_23_4m4_0;2A6M4 | ZSU-23-4M4 Šilka-M4
-ussr_zsu_23_4m4_1;ZSU-23-4M4
-ussr_zsu_23_4m4_2;SPAA
-ussr_zsu_23_4_shop;ZSU-23-4V
-ussr_zsu_23_4_0;2A6 | ZSU-23-4V Šilka
-ussr_zsu_23_4_1;ZSU-23-4V
-ussr_zsu_23_4_2;SPAA
 ussr_zprk_2s6_shop;2S6M1
 ussr_zprk_2s6_0;ZPRK 2S6M1 Tunguska
 ussr_zprk_2s6_1;2S6
 ussr_zprk_2s6_2;SPAA
-ussr_9a35_m2_shop;9A35M2
-ussr_9a35_m2_0;"BM 9A35M2 ""Strela-10M2"""
-ussr_9a35_m2_1;9A35
-ussr_9a35_m2_2;SPAA
-germ_9a35_m_shop;◊ 9A35M
-germ_9a35_m_0;"◊ BM 9A35M ""Strela-10M"""
-germ_9a35_m_1;◊ 9A35
-germ_9a35_m_2;◊ SPAAM
-uk_9a35_m_shop;☸ 9A35M
-uk_9a35_m_0;"☸ BM 9A35M ""Strela-10M"""
-uk_9a35_m_1;☸ 9A35M
-uk_9a35_m_2;SPAAM
-ussr_9a33bm3_shop;9A33BM3
-ussr_9a33bm3_0;"Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM3 ""Osa-AKM"""
-ussr_9a33bm3_1;9A33BM3
-ussr_9a33bm3_2;SPAA
-germ_9a33bm3_shop;◊ 9A33BM2
-germ_9a33bm3_0;"◊ Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM2 ""Osa-AK"""
-germ_9a33bm3_1;◊ 9A33BM2
-germ_9a33bm3_2;SPAA
-it_9a33bm3_shop;╏ 9A33BM3
-it_9a33bm3_0;"╏ Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM3 ""Osa-AKM"""
-it_9a33bm3_1;╏ 9A33BM3
-it_9a33bm3_2;SPAA
-uk_9a33bm2_shop;☸ 9A33BM2
-uk_9a33bm2_0;"☸ Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut | Boyevaâ mašina 9A33BM2 ""Osa-AK"""
-uk_9a33bm2_1;☸ 9A33BM2
-uk_9a33bm2_2;SPAA
 ussr_pantsyr_s1_shop;72V6
 ussr_pantsyr_s1_0;"BM 72V6 ""Pantsir-S1"""
 ussr_pantsyr_s1_1;72V6
@@ -11264,26 +11280,6 @@ ussr_zut_37_shop;ZUT-37
 ussr_zut_37_0;ZSU ZUT-37
 ussr_zut_37_1;ZUT-37
 ussr_zut_37_2;SPAA
-ussr_gaz_mm_72k_shop;GAZ-MM (72-K)
-ussr_gaz_mm_72k_0;GAZ-MM (72-K)
-ussr_gaz_mm_72k_1;GAZ-MM (72-K)
-ussr_gaz_mm_72k_2;SPAA
-ussr_gaz_dshk_shop;GAZ-AAA (DŠKT)
-ussr_gaz_dshk_0;GAZ-AAA (DŠKT)
-ussr_gaz_dshk_1;GAZ-AAA (DŠKT)
-ussr_gaz_dshk_2;SPAA
-ussr_zis_12_94KM_1945_shop;ZiS-12 (94-KM)
-ussr_zis_12_94KM_1945_0;ZiS-12 (94-KM)
-ussr_zis_12_94KM_1945_1;ZiS-12 (94-KM)
-ussr_zis_12_94KM_1945_2;SPAA
-ussr_gaz_4m_shop;GAZ-AAA (M-4)
-ussr_gaz_4m_0;GAZ-AAA (M-4)
-ussr_gaz_4m_1;GAZ-AAA
-ussr_gaz_4m_2;SPAA
-ussr_gaz_mm_72k_without_crew_shop;GAZ-MM (72-K)
-ussr_gaz_mm_72k_without_crew_0;GAZ-MM (72-K)
-ussr_gaz_mm_72k_without_crew_1;GAZ-MM (72-K)
-ussr_gaz_mm_72k_without_crew_2;SPAA
 germ_flakpanzer_V_Coelian_shop;Flakpanzer 341
 germ_flakpanzer_V_Coelian_0;3,7 cm Flakzwilling auf Panther Fahrgestell, Flakpanzer 341
 germ_flakpanzer_V_Coelian_1;Flakpanzer 341

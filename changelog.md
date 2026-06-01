@@ -56,6 +56,10 @@ All dates are listed in DD-MM-YYYY format.
     - **Richelieu**: Statcard name → **Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de la classe Richelieu | Richelieu (1943)**.
     - **Clemenceau**: Statcard name → **Arsenal de Brest | Cuirassé de la classe Richelieu | Clemenceau**.
     - Replaced all instances of "samolyet" with "samolyot" and all instances of "Самолет" with "Самолёт".
+    - **Ferdinand** → **Pz.Jgr. Tiger (P)**. Statcard name → **Nibelungenwerke | Panzerjäger Tiger (P) (Sd.KFz. 184) "Ferdinand"**.
+    - **Elefant**: Statcard name → **Nibelungenwerke | Panzerjäger Tiger (P) (Sd.KFz. 184) | Elefant**.
+    - **Ferdinand / Pz.Jgr. Tiger B** (folder) → **Pz.Jgr. Tiger (P) / B**.
+    - **B-52H-140-BW (1979)**: Statcard name → **Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress "BUFF" (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))** (it's... it's so long smh, don't worry, multiline soon).
 
 ### Decals:
 

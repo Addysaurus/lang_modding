@@ -1346,7 +1346,7 @@ shop/group/germ_marder_stug_a_group;Marder III / StuG III A
 shop/group/germ_marder_stuh_group;Marder III H / StuH 42 / StuG III F
 shop/group/germ_jagdpanzer_group;Jagdpanzer IV / 38 (t)
 shop/group/germ_jagdpanther_group;Pz.Jgr. Panther G1 / JPz 4-5
-shop/group/germ_panzerjager_tiger_group;Ferdinand / Pz.Jgr. Tiger B
+shop/group/germ_panzerjager_tiger_group;Pz.Jgr. Tiger (P) / B
 shop/group/germ_raketen_group;SPz 12-3 (Typ 3Z 8DLa) / RakJPz 2
 shop/group/germ_puma_group;SPz Puma S0 / VJTF
 shop/group/germ_roland_osa_group;FlaRakPz 1 / ◊ 9A33BM2
@@ -2834,11 +2834,11 @@ f_106a_1972_0;Convair Model 8-31 | F-106A-100-CO Delta Dart (Project Six Shooter
 f_106a_1972_1;F-106A
 f_106a_1972_2;F-106
 b_52h_shop;B-52H-140-BW (1979)
-b_52h_0;Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))
+b_52h_0;"Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress ""BUFF"" (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))"
 b_52h_1;B-52H
 b_52h_2;B-52
 nt_b_52h_shop;☢ B-52H-140-BW (1979)
-nt_b_52h_0;☢ Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress (Jolly Well) (Project Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))
+nt_b_52h_0;"☢ Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress ""BUFF"" (Jolly Well) (Project Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))"
 nt_b_52h_1;☢ B-52H
 nt_b_52h_2;☢ B-52
 
@@ -5235,6 +5235,14 @@ germ_flakpanzer_zerstorer_45_shop;Flak.Pz. IV (3cm Fla.K.-V.)
 germ_flakpanzer_zerstorer_45_0;"Flakpanzerkampfwagen IV (3cm Fla.K.-Vierling) ""Zerstörer 45"""
 germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
 germ_flakpanzer_zerstorer_45_2;SPAA
+germ_panzerjager_tiger_P_ferdinand_shop;Pz.Jgr. Tiger (P)
+germ_panzerjager_tiger_P_ferdinand_0;"Nibelungenwerke | Panzerjäger Tiger (P) (Sd.KFz. 184) ""Ferdinand"""
+germ_panzerjager_tiger_P_ferdinand_1;Pz.Jgr. Tiger (P)
+germ_panzerjager_tiger_P_ferdinand_2;Tank Destroyer
+germ_panzerjager_tiger_P_elefant_shop;Elefant
+germ_panzerjager_tiger_P_elefant_0;Nibelungenwerke | Panzerjäger Tiger (P) (Sd.KFz. 184) | Elefant
+germ_panzerjager_tiger_P_elefant_1;Elefant
+germ_panzerjager_tiger_P_elefant_2;Tank Destroyer
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 germ_marder_df_105_shop;◄ DF 105
@@ -11304,14 +11312,6 @@ germ_pzkpfw_Maus_shop;Maus
 germ_pzkpfw_Maus_0;Panzerkampfwagen Maus, Vs.-Fgst.Nr. 2
 germ_pzkpfw_Maus_1;Maus
 germ_pzkpfw_Maus_2;Heavy Tank
-germ_panzerjager_tiger_P_elefant_shop;Elefant
-germ_panzerjager_tiger_P_elefant_0;Panzerjäger Tiger (P) Elefant
-germ_panzerjager_tiger_P_elefant_1;Elefant
-germ_panzerjager_tiger_P_elefant_2;SPG
-germ_panzerjager_tiger_P_ferdinand_shop;Ferdinand
-germ_panzerjager_tiger_P_ferdinand_0;Panzerjäger Tiger (P) Ferdinand
-germ_panzerjager_tiger_P_ferdinand_1;Ferdinand
-germ_panzerjager_tiger_P_ferdinand_2;SPG
 germ_leichter_ladungstrager_303a_shop;Goliath B
 germ_leichter_ladungstrager_303a_0;Leichter Ladungsträger Goliath Ausf. B
 germ_leichter_ladungstrager_303a_1;Goliath B
@@ -15161,9 +15161,9 @@ sw_strv_103a_shop;strv 103A
 sw_strv_103a_0;stridsvagn 103A
 sw_strv_103a_1;strv 103A
 sw_strv_103a_2;MBT
-sw_strv_103c_shop;strv 103С
+sw_strv_103c_shop;strv 103C
 sw_strv_103c_0;stridsvagn 103C
-sw_strv_103c_1;strv 103С
+sw_strv_103c_1;strv 103C
 sw_strv_103c_2;MBT
 sw_strv121b_christian2_shop;strv 121B
 sw_strv121b_christian2_0;"stridsvagn 121B ""Christian II"""

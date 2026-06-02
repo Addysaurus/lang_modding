@@ -174,7 +174,7 @@ Farsi is transliterated with ISO 233-3:1999.
 
 ### Thai
 
-Thai is transliterated with ISO 11940-1:1998, with modifications made only when needed to accompany the game being unable to render certain diacritics. Additionally, the character "จ" gets transliterated as "J" instead of "C" like in ISO 11940-1:1998.
+Thai is transliterated with a custom transliteration system designed for this mod called Paiboon-M2 that is an extremely deep modification of Paiboon+. The full transliteration chart for Paiboon-M2 and its sister system Paiboon-M can be found [here](https://docs.google.com/spreadsheets/d/1ZShnZNTtK1ZH1IG5m2Nm3diCefncqoFK_zaXJcM44cE/edit?usp=sharing).
 
 ### Urdu
 

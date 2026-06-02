@@ -60,13 +60,43 @@ All dates are listed in DD-MM-YYYY format.
     - **Elefant**: Statcard name → **Nibelungenwerke | Panzerjäger Tiger (P) (Sd.KFz. 184) | Elefant**.
     - **Ferdinand / Pz.Jgr. Tiger B** (folder) → **Pz.Jgr. Tiger (P) / B**.
     - **B-52H-140-BW (1979)**: Statcard name → **Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress "BUFF" (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))** (it's... it's so long smh, don't worry, multiline soon).
-
+    - Thai has received a brand new transliteration system. ISO 11940-1:1998 has been replaced with out own, [custom transliteration system called Paiboon-M2](https://docs.google.com/spreadsheets/d/1ZShnZNTtK1ZH1IG5m2Nm3diCefncqoFK_zaXJcM44cE/edit?usp=sharing).
+        - **B.Kh.11**: Statcard name → **Curtiss-Wright Corperation Hawk Model 75N | Khērūng Bin Khab Lai Bāeb Thī 11**.
+        - **B.J.3**: Statcard name → **Curtiss-Wright Corporation Model 84G | Khērūng Bin Jōmtī Bāeb Thī 3**.
+        - **B.Kh.16**: Statcard name → **Republic Aviation Corporation AP-23 | Khērūng Bin Khab Lai Bāeb Thī 16**.
+        - **B.J.7 (2004)**: Statcard name → **Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | Khērūng Bin Jōmtī Bāeb Thī 7 (2004)**.
+        - **B.JT.1K**: Statcard name → **Vought Corporation | Khērūng Bin Jōmtī Bāeb Thī 1K**.
+        - **B.KhL.1 (late)**: Statcard name → **Hawker Siddeley Aviation | Khērūng Bin Khab Lai Bāeb Thī 1K (late)**.
+            - Thai package: Statcard name → **Hawker Siddeley Aviation | เครื่องบินขับไล่แบบที่ ๑ก (late)** (missing tone marker on the first syllable added).
+        - **B.KhL.1 (early)**: Statcard name → **Hawker Siddeley Aviation | Khērūng Bin Khab Lai Bāeb Thī 1K (early)**.
+            - Thai package: Statcard name → **Hawker Siddeley Aviation | เครื่องบินขับไล่แบบที่ ๑ก (early)** (missing tone marker on the first syllable added).
+        - **B.Kh.18**: Statcard name → **Northrop Corporation N-156F | Khērūng Bin Khab Lai Bāeb Thī 18**.
+        - **B.Kh.18Kh (2003)**: Statcard name → **Northrop Corporation F-5-21 / Elbit Systems F-5T Tigris | Khērūng Bin Khab Lai Bāeb Thī 18Kh (2003)**.
+        - **B.Kh.18Kh (1988)**: Statcard name → **Northrop Corporation F-5-21 | Khērūng Bin Khab Lai Bāeb Thī 18Kh (1988)**.
+        - **B.Kh.18Kh (2014)**: Statcard name → **Northrop Corporation F-5-21 / Elbit Systems F-5TH Super Tigris | Khērūng Bin Khab Lai Bāeb Thī 18Kh (2014)**.
+        - **B.Kh.19**: Statcard name → **General Dynamics Corporation | Khērūng Bin Khab Lai Bāeb Thī 19**.
+        - **B.Kh.20**: Statcard name → **Saab 39 Gripen C | Khērūng Bin Khab Lai Bāeb Thī 20**.
+        - **Bīthīxār 3 Xī 1** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rot Kro Lo Yāng Bīthīār 3 Ī 1**.
+            - Thai package: **บีทีอาร์ ๓ อี ๑** → **รก. บีทีอาร์ ๓ อี ๑**.
+            - Ukrainian package: **Bīthīxār 3 Xī 1** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Rot Kro Lo Yāng Bīthīār 3 Ī 1**.
+            - Thai + Ukrainian package: **บีทีอาร์ ๓ อี ๑** → **รก. บีทีอาร์ ๓ อี ๑**.
+        - **Th.Hlạk Xěm 60 Xe 3** → **Th.Hlak Em 60 E 3**. Statcard name → **Chrysler Defense Engineering | Rot Thang Hlak Em 60 E 3**.
+        - **Th.Bao 32**: Statcard name → **Cadillac Gage Stingray | Rot Thang Bao 32**.
+        - **Th.Hlạk 57** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rot Thang Hlak 57**.
+            - Ukrainian package: **Th.Hlạk 57** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Rot Thang Hlak 57**.
+            
 ### Decals:
 
 - #### Changes:
 
     - **French Sports Stripes** (horrible name jesus christ) → **Marquage de l'action de l'État en mer**.
     - **Badge of VT-3 Squadron, US Navy** → **Emblem of Torpedo Squadron VT-3**.
+
+### Sensors:
+
+- #### Changes:
+
+    - **AN/APG-66(V)3** → **AN/APG-63(V)3**. This is not the actual AN/APG-66(V)3, that one stays the same, I just made a typo on the AN/APG-63(V)3.
 
 ## 1.17.04 - 6-05-2026
 

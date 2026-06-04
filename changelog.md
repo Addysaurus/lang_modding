@@ -20,21 +20,39 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.17.05 - UNRELEASED
 
+### General
+
+    - It's not worth mentioning them individually because no one cares about gooner vehicles but suffice it to say that their skins and body pillows have been renamed toop. Happy? Are you happy now with your gooner vehicles? Oh fuck this...
+    - Added 10 new loading tips:
+        - General: 1
+        - Air: 2
+        - Ground: 5
+        - Naval: 2
+
 ### Vehicles:
 
 - #### Additions:
 
+    - **Glaive**
+    - **Spitfire Mk Vb (Float)**
     - **Challenger 2 OES** (Senrai Maidens) (*sigh*)
     - **Type 90 (B)** (Senrai Maidens) (*sigh*)
     - **MBT-2000** (Senrai Maidens) (*sigh*)
 
 - #### Changes:
 
-    - **Challenger 2 OES** (Senrai Maidens) → **Challenger 2 TES (2H) (2011)**. Statcard name → **Vickers Defence Systems | F.V.4034 | Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard (Dorchester Level 2H) (2011) «Emily»**. I know this name is different from the identical premium Challenger 2, this is a little bit of a sneek peak at the British rework that's WIP.
-    - **Type 90 (B)** (Senrai Maidens) → **90TK (B)**. Statcard name → **Mitsubishi Jū Kōgyō | 90 Shiki Sensha B Gata «Usagi»**.
-        - Japanese package: Statcard name → **三菱重工業 | 90式戦車B型 «うさぎ»**.
-    - **MBT-2000** (Senrai Maidens): Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | BW123A | MBT-2000 «Líng»**.
-        - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | BW123A | MBT-2000 «玲»**.
+    - **Glaive** → **Glaive (P 761)**. Statcard name → **Ateliers et Chantiers C. Auroux / Arsenal de Cherbourg | Patrouilleurs rapides de la classe Trident | Glaive (P 761) (1983)**.
+    - **Spitfire Mk Vb (Float)** → **Spitfire F. Mk. Vb (W3760)**. Statcard name → **Vickers Supermarine Type 355 / Folland Aircraft Company | Spitfire F. Mk. Vb (W3760) (October, 1942)**.
+    - **Challenger 2 OES** (Senrai Maidens) → **Emily's Challenger 2 TES (2H) (2011)**. Statcard name → **Vickers Defence Systems | F.V.4034 | Emily's Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard (Dorchester Level 2H) (2011)**. I know this name is different from the identical premium Challenger 2, this is a little bit of a sneek peak at the British rework that's WIP.
+    - **Type 90 (B)** (Senrai Maidens) → **Usagi's 90TK (B)**. Statcard name → **Mitsubishi Jū Kōgyō | Usagi's 90 Shiki Sensha B Gata**.
+        - Japanese package: **Type 90 (B)** → **うさぎの90TK (B)**. Statcard name → **三菱重工業 | うさぎの90式戦車B型**.
+    - **MBT-2000** (Senrai Maidens) → **Ling's MBT-2000**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | BW123A | Líng's MBT-2000 Zhu Zhàn Tankè**.
+        - Mandarin package: **MBT-2000** → **玲氏MBT-2000**. Statcard name → **中国兵器工业集团有限公司 | BW123A | 玲氏MBT-2000主战坦克**.
+    - **MBT-2000**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | BW123A | MBT-2000 Zhu Zhàn Tankè**.
+        - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | BW123A | MBT-2000主战坦克**.
+    - **M1A1HC** (Senrai Maidens) → **Kate's M1A1HC**: Statcard name → **General Dynamics Land Systems | Kate's Tank, Combat, Full Tracked, 120mm Gun, M1A1HC Abrams, Heavy Common**.
+    - **Leopard 2A4M CAN** (Senrai Maidens) → **Kate's Leopard 2A4M CAN**: Statcard name → **KNDS Deutschland | Elsa's Leopard 2A4M CAN**.
+    - **T-80U-Ye1** (Senrai Maidens) → **Mariya's T-80U-Ye1**: Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob"yekt 219AS-1 | Mariya's Tank T-80U-Ye1**.
     - **SAV 20.12.48**: Statcard name → **Bofors SAV 20.12.48**.
     - **ZTZ99A** → **ZTZ99A (2014)**.
     - **ZTZ99 (2 Qí)**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ123B | ZTZ1999 Shì Zhu Zhàn Tankè (2 Qí)**.
@@ -84,7 +102,11 @@ All dates are listed in DD-MM-YYYY format.
         - **Th.Bao 32**: Statcard name → **Cadillac Gage Stingray | Rot Thang Bao 32**.
         - **Th.Hlạk 57** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rot Thang Hlak 57**.
             - Ukrainian package: **Th.Hlạk 57** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Rot Thang Hlak 57**.
-            
+    - **s.Pz.Kpfw. 754 (r)**: Statcard name → **Kirovskij zavod | schwerer Panzerkampfwagen KW II | schwerer Panzerkampfwagen 754 (r)**.
+    - **Pz.Kpfw. 747 (r) D** → **Pz.Kpfw. 747 (r)**. Statcard name → **Ural'skij tankovyj zavod (Zavod №183) | Panzerkampfwagen T 34 Ausf. D | Panzerkampfwagen 747 (r)**.
+    - **s.Pz.Kpfw. 756 (r)**: Statcard name → **Kirovskij zavod Narkomata tankovoj promyšlyennosti v gorodye Čyelâbinskye (Zavod № 100) | schwerer Panzerkampfwagen KW I Ausf. C | schwerer Panzerkampfwagen 756 (r) mit 7,5cm Kw.K. 40**.
+    - **Pz.Kpfw. 748 (a) C** → **Pz.Kpfw. 748 (a)**. Statcard name → **General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant | Panzerkampfwagen M 4 Ausf. C | Panzerkampfwagen 748 (a)**.
+
 ### Decals:
 
 - #### Changes:

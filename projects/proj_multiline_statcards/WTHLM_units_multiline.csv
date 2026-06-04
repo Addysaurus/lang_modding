@@ -1397,11 +1397,11 @@ Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Heavy Common
 us_m1a1_hc_usmc_1;M1A1
 us_m1a1_hc_usmc_2;MBT
 
-us_m1a1_hc_usmc_sm_shop;◍ M1A1HC
+us_m1a1_hc_usmc_sm_shop;◍ Kate's M1A1HC
 us_m1a1_hc_usmc_sm_0;"<color=#81c3fc>General Dynamics Land Systems</color>
 ◍ Tank, Combat, Full Tracked, 120mm Gun, M1A1 Abrams, Heavy
 Common
-<color=@currencyGoldColor>«Kate»</color>"
+<color=@currencyGoldColor>Kate's</color>"
 us_m1a1_hc_usmc_sm_1;◍ M1A1HC
 us_m1a1_hc_usmc_sm_2;MBT
 
@@ -3450,11 +3450,34 @@ germ_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
 germ_m55_1;◄ PzH M 55
 germ_m55_2;SPH
 
-germ_t_34_747_shop;▀ Pz.Kpfw. 747 (r) D
-germ_t_34_747_0;"<color=#7ce68f>T 34 D</color>
-▀ Panzerkampfwagen 747 (r) Ausf. D"
+germ_kv_2_754r_shop;▀ s.Pz.Kpfw. 754 (r)
+germ_kv_2_754r_0;"<color=#81c3fc>Kirovskij zavod</color>
+<color=#7ce68f>schwerer Panzerkampfwagen KW II</color>
+▀ schwerer Panzerkampfwagen 754 (r)"
+germ_kv_2_754r_1;▀ s.Pz.Kpfw. 754 (r)
+germ_kv_2_754r_2;Heavy Tank
+
+germ_t_34_747_shop;▀ Pz.Kpfw. 747 (r)
+germ_t_34_747_0;"<color=#81c3fc>Ural'skij tankovyj zavod (Zavod №183)</color>
+<color=#7ce68f>Panzerkampfwagen T 34 Ausf. D</color>
+▀ Panzerkampfwagen 747 (r)"
 germ_t_34_747_1;▀ Pz.Kpfw. 747 (r)
 germ_t_34_747_2;Medium Tank
+
+germ_kv_1_kwk_40_shop;▀ s.Pz.Kpfw. 756 (r)
+germ_kv_1_kwk_40_0;"<color=#81c3fc>Kirovskij zavod Narkomata tankovoj promyšlyennosti v gorodye
+Čyelâbinskye (Zavod № 100)</color>
+<color=#7ce68f>schwerer Panzerkampfwagen KW I Ausf. C</color>
+▀ schwerer Panzerkampfwagen 756 (r) mit 7,5cm Kw.K. 40"
+germ_kv_1_kwk_40_1;▀ s.Pz.Kpfw. 756 (r)
+germ_kv_1_kwk_40_2;Heavy Tank
+
+us_m4a2_1944_germ_shop;▀ Pz.Kpfw. 748 (a)
+us_m4a2_1944_germ_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant</color>
+<color=#7ce68f>Panzerkampfwagen M 4 Ausf. C</color>
+▀ Panzerkampfwagen 748 (a)"
+us_m4a2_1944_germ_1;▀ Pz.Kpfw. 748 (a)
+us_m4a2_1944_germ_2;Medium Tank
 
 germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
 germ_kv_1B_finland_0;"<color=#81c3fc>Kirovskij zavod</color>
@@ -3611,10 +3634,10 @@ Leopard 2A4M CAN"
 germ_leopard_2a4m_can_1;Leopard 2A4M
 germ_leopard_2a4m_can_2;MBT
 
-germ_leopard_2a4m_can_sm_shop;◍ Leopard 2A4M CAN
+germ_leopard_2a4m_can_sm_shop;◍ Elsa's Leopard 2A4M CAN
 germ_leopard_2a4m_can_sm_0;"<color=#81c3fc>KNDS Deutschland</color>
 ◍ Leopard 2A4M CAN
-<color=@currencyGoldColor>«Elsa»</color>"
+<color=@currencyGoldColor>Elsa's</color>"
 germ_leopard_2a4m_can_sm_1;◍ Leopard 2A4M
 germ_leopard_2a4m_can_sm_2;MBT
 
@@ -4778,12 +4801,12 @@ Tank T-80U-Ye1"
 ussr_t_80ue1_1;T-80U-Ye1
 ussr_t_80ue1_2;MBT
 
-ussr_t_80ue1_sm_shop;◍ T-80U-Ye1
+ussr_t_80ue1_sm_shop;◍ Mariya's T-80U-Ye1
 ussr_t_80ue1_sm_0;"<color=#81c3fc>Kirovskij zavod <color=@commonTextColor>/</color>
 Omskij zavod transportnogo mašinostroyeniâ</color>
 <color=#5cae63>Ob""yekt 219AS-1</color>
 ◍ Tank T-80U-Ye1
-<color=@currencyGoldColor>«Maria»</color>"
+<color=@currencyGoldColor>Mariya's</color>"
 ussr_t_80ue1_sm_1;◍ T-80U-Ye1
 ussr_t_80ue1_sm_2;MBT
 
@@ -4972,6 +4995,14 @@ wirraway_1;Wirraway Mk. I
 wirraway_2;Wirraway
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+spitfire_mk5b_float_shop;Spitfire F. Mk. Vb (W3760)
+spitfire_mk5b_float_0;"<color=#81c3fc>Vickers Supermarine Type 355 <color=@commonTextColor>/</color> Folland Aircraft Company</color>
+Spitfire F. Mk. Vb
+<color=#adadad>(October, 1942)</color>
+<color=@currencyGoldColor>W3760</color>"
+spitfire_mk5b_float_1;Spitfire F. Mk. V
+spitfire_mk5b_float_2;Spitfire
+
 boomerang_mki_shop;Boomerang Mk. I
 boomerang_mki_0;"<color=#81c3fc>Commonwealth Aircraft Corporation CA-12</color>
 Boomerang Mk. I"
@@ -5368,12 +5399,12 @@ uk_boxer_crv_block2_1;▄ Boxer CRV
 uk_boxer_crv_block2_2;CRV
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
-uk_challenger_2_megatron_sm_shop;◍ Challenger 2 TES (2H) (2011)
+uk_challenger_2_megatron_sm_shop;◍ Emily's Challenger 2 TES (2H) (2011)
 uk_challenger_2_megatron_sm_0;"<color=#81c3fc>Vickers Defence Systems</color>
 <color=#5cae63>F.V.4034</color>
 ◍ Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard
 <color=#adadad>(Dorchester Level 2H) (2011)</color>
-<color=@currencyGoldColor>«Emily»</color>"
+<color=@currencyGoldColor>Emily's</color>"
 uk_challenger_2_megatron_sm_1;◍ Challenger 2 TES
 uk_challenger_2_megatron_sm_2;MBT
 
@@ -7700,10 +7731,10 @@ jp_type_90b_camo_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 jp_type_90b_camo_1;90TK (B)
 jp_type_90b_camo_2;MBT
 
-jp_type_90b_sm_shop;◍ 90TK (B)
+jp_type_90b_sm_shop;◍ Usagi's 90TK (B)
 jp_type_90b_sm_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 ◍ 90 Shiki Sensha B Gata
-<color=@currencyGoldColor>«Usagi»</color>"
+<color=@currencyGoldColor>Usagi's</color>"
 jp_type_90b_sm_1;◍ 90TK (B)
 jp_type_90b_sm_2;MBT
 
@@ -9575,15 +9606,15 @@ cn_t_62_2;Medium Tank
 cn_mbt2000_shop;MBT-2000
 cn_mbt2000_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>BW123A</color>
-MBT-2000"
+MBT-2000 Zhu Zhàn Tankè"
 cn_mbt2000_1;MBT-2000
 cn_mbt2000_2;MBT
 
-cn_mbt2000_sm_shop;MBT-2000
+cn_mbt2000_sm_shop;Líng's MBT-2000
 cn_mbt2000_sm_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>BW123A</color>
-MBT-2000
-<color=@currencyGoldColor>«Líng»</color>"
+MBT-2000 Zhu Zhàn Tankè
+<color=@currencyGoldColor>Líng's</color>"
 cn_mbt2000_sm_1;MBT-2000
 cn_mbt2000_sm_2;MBT
 

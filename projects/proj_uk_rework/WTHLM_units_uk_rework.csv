@@ -1,5 +1,7 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
+shop/group/spitfire_mk5b_group;Spitfire F. Mk. Vb (trop.) / Vb
+shop/group/spitfire_mk5c_group;Spitfire F. Mk. Vc (trop.) / Vc
 shop/group/uk_g6_tortoise_group;GV6 Mk 1 / Tortoise
 shop/group/uk_fv510_zt3_group;Warrior / Ratel ZT3-A2
 shop/group/uk_vickers_olifant_group;Vickers Mk. 3 / Olifant Mk 1A
@@ -216,10 +218,10 @@ Spitfire F. Mk. Vb
 spitfire_mk5b_1;Spitfire F. Mk. V
 spitfire_mk5b_2;Spitfire
 
-spitfire_mk5b_notrop_shop;Spitfire Mk. Vb
+spitfire_mk5b_notrop_shop;Spitfire F. Mk. Vb
 spitfire_mk5b_notrop_0;"<color=#81c3fc>Vickers Supermarine Type 349</color>
-Spitfire Mk. Vb"
-spitfire_mk5b_notrop_1;Spitfire Mk. V
+Spitfire F. Mk. Vb"
+spitfire_mk5b_notrop_1;Spitfire F. Mk. V
 spitfire_mk5b_notrop_2;Spitfire
 
 spitfiremkiia_ep_shop;Spitfire Mk. IIa (411 Sq. RCAF)
@@ -229,6 +231,14 @@ Spitfire Mk. IIa
 ""Venture I""</color>"
 spitfiremkiia_ep_1;Spirfire Mk. II
 spitfiremkiia_ep_2;Spitfire
+
+spitfire_mk5b_float_shop;Spitfire F. Mk. Vb (W3760)
+spitfire_mk5b_float_0;"<color=#81c3fc>Vickers Supermarine Type 355 <color=@commonTextColor>/</color> Folland Aircraft Company</color>
+Spitfire F. Mk. Vb
+<color=#adadad>(October, 1942)</color>
+<color=@currencyGoldColor>W3760</color>"
+spitfire_mk5b_float_1;Spitfire F. Mk. V
+spitfire_mk5b_float_2;Spitfire
 
 spitfire_ix_early_shop;Spitfire F. Mk. IX (Aug, 1942)
 spitfire_ix_early_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
@@ -250,10 +260,10 @@ Spitfire F. Mk. Vc
 spitfire_mk5c_1;Spitfire F. Mk. V
 spitfire_mk5c_2;Spitfire
 
-spitfire_mk5c_notrop_shop;Spitfire Mk. Vc
+spitfire_mk5c_notrop_shop;Spitfire F. Mk. Vc
 spitfire_mk5c_notrop_0;"<color=#81c3fc>Vickers Supermarine Type 349</color>
-Spitfire Mk. Vc"
-spitfire_mk5c_notrop_1;Spitfire Mk. V
+Spitfire F. Mk. Vc"
+spitfire_mk5c_notrop_1;Spitfire F. Mk. V
 spitfire_mk5c_notrop_2;Spitfire
 
 spitfire_mk9c_4cannons_shop;Spitfire F. Mk. IX
@@ -995,12 +1005,12 @@ uk_boxer_crv_block2_1;▄ Boxer CRV
 uk_boxer_crv_block2_2;CRV
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
-uk_challenger_2_megatron_sm_shop;◍ Challenger 2 TES (2H) (2011)
+uk_challenger_2_megatron_sm_shop;◍ Emily's Challenger 2 TES (2H) (2011)
 uk_challenger_2_megatron_sm_0;"<color=#81c3fc>Vickers Defence Systems</color>
 <color=#5cae63>F.V.4034</color>
 ◍ Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard
 <color=#adadad>(Dorchester Level 2H) (2011)</color>
-<color=@currencyGoldColor>«Emily»</color>"
+<color=@currencyGoldColor>Emily's</color>"
 uk_challenger_2_megatron_sm_1;◍ Challenger 2 TES
 uk_challenger_2_megatron_sm_2;MBT
 

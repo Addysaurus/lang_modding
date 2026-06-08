@@ -15,20 +15,20 @@
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 spitfire_mk9c_iaf_shop;IX רייפטיפס 
-spitfire_mk9c_iaf_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
+spitfire_mk9c_iaf_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 361</color>
 IX םגד רייפטיפס "
 spitfire_mk9c_iaf_1;IX רייפטיפס 
 spitfire_mk9c_iaf_2;רייפטיפס 
 
 spitfire_lf_mk9e_iaf_shop;(ק״כ) IX רייפטיפס 
-spitfire_lf_mk9e_iaf_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
+spitfire_lf_mk9e_iaf_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 361</color>
 IX םגד רייפטיפס 
 <color=#adadad>(הצוצק ףנכ)</color>"
 spitfire_lf_mk9e_iaf_1;IX רייפטיפס 
 spitfire_lf_mk9e_iaf_2;רייפטיפס 
 
 spitfire_lf_mk9e_weisman_shop;ןמציו לש IX רייפטיפס 
-spitfire_lf_mk9e_weisman_0;"<color=#81c3fc>Vickers Supermarine Type 361</color>
+spitfire_lf_mk9e_weisman_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 361</color>
 IX םגד רייפטיפס 
 <color=@currencyGoldColor>ןמציו רזע לש</color>"
 spitfire_lf_mk9e_weisman_1;IX רייפטיפס 
@@ -201,6 +201,12 @@ nesher_0;"<color=#81c3fc>לארשיל תיריוואה היישעתה <color=@co
 A רשנ"
 nesher_1;A רשנ
 nesher_2;רשנ
+
+mig_21_2000_iaf_shop; MiG-21 2000
+mig_21_2000_iaf_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye im. 
+MiG-21 2000 Aerostar + לארשיל תיריוואה היישעתה / P. V. Dyemyent'yeva</color>"
+mig_21_2000_iaf_1; MiG-21 2000
+mig_21_2000_iaf_2; MiG-21
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_16a_block_10_iaf_shop; F-16A-15OCU-CF

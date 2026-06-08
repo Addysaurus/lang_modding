@@ -1,4 +1,159 @@
 <ID|readonly|noverify>;<English>
-weapons/us_AGM_22_default;AGM-22 missiles
-weapons/us_AGM_22_default/short;AGM-22
-weapons/ato_41_flamethrower;ATO-41 Flamethrower
+weapons/us_agm_88c;AGM-88C anti-radiation missile
+weapons/us_agm_88c/short;AGM-88C
+weapons/su_kh_31a;Kh-31A anti-ship missile
+weapons/su_kh_31a/short;Kh-31A
+weapons/su_kh_31ad;Kh-31AD anti-ship missile
+weapons/su_kh_31ad/short;Kh-31AD
+weapons/su_kh_31p_l_111;Kh-31P L-111 anti-radiation missile
+weapons/su_kh_31p_l_111/short;Kh-31P L-111
+weapons/su_kh_31p_l_112;Kh-31P L-112 anti-radiation missile
+weapons/su_kh_31p_l_112/short;Kh-31P L-112
+weapons/su_kh_31p_l_113;Kh-31P L-113 anti-radiation missile
+weapons/su_kh_31p_l_113/short;Kh-31P L-113
+weapons/su_kh_31pd;Kh-31PD anti-radiation missile
+weapons/su_kh_31pd/short;Kh-31PD
+weapons/su_l_066_viuga;"L-066 ""Viuga"" targeting pod"
+weapons/su_l_066_viuga/short;L-066
+weapons/su_l_086_viuga_17;"L-086 ""Viuga-17"" targeting pod"
+weapons/su_l_086_viuga_17/short;L-086
+weapons/su_l_080_a;"L-080 A' ""Fantasmagoria-A"" targeting pod"
+weapons/su_l_080_a/short;L-080 A'
+weapons/su_l_080_a_cw;"L-080 A ""Fantasmagoria-A"" targeting pod"
+weapons/su_l_080_a_cw/short;L-080 A
+weapons/su_l_081_b;"L-081 B ""Fantasmagoria-B"" targeting pod"
+weapons/su_l_081_b/short;L-081 B
+weapons/su_l_081_c;"L-081 C ""Fantasmagoria-B"" targeting pod"
+weapons/su_l_081_c/short;L-081 C
+weapons/su_kh_58ush;Kh-58USh anti-radiation missile
+weapons/su_kh_58ush/short;Kh-58USh
+weapons/us_agm_122;AGM-122 anti-radiation missiles
+weapons/us_agm_122/short;AGM-122
+weapons/fr_as37_l_band;AS-37 L anti-radiation missiles
+weapons/fr_as37_l_band/short;AS-37 L
+weapons/fr_as37_s_band;AS-37 S anti-radiation missiles
+weapons/fr_as37_s_band/short;AS-37 S
+weapons/fr_as37_c_band;AS-37 C anti-radiation missiles
+weapons/fr_as37_c_band/short;AS-37 C
+weapons/fr_as37_armat;AS-37 ARMAT anti-radiation missiles
+weapons/fr_as37_armat/short;AS-37 ARMAT
+weapons/cn_ld10;LD-10 anti-radiation missiles
+weapons/cn_ld10/short;LD-10
+weapons/uk_alarm;ALARM anti-radiation missiles
+weapons/uk_alarm/short;ALARM
+weapons/cn_cm_102;CM-102 anti-radiation missiles
+weapons/cn_cm_102/short;CM-102
+weapons/cn_yj91_l_111;YJ-91 L111 anti-radiation missiles
+weapons/cn_yj91_l_111/short;YJ-91 L111
+weapons/cn_yj91_l_112;YJ-91 L112 anti-radiation missiles
+weapons/cn_yj91_l_112/short;YJ-91 L112
+weapons/cn_yj91_l_113;YJ-91 L113 anti-radiation missiles
+weapons/cn_yj91_l_113/short;YJ-91 L113
+weapons/cannonHispano804;20 mm HS 804 cannon
+weapons/us_gbu_53;GBU-53 (SDB II) guided bomb
+weapons/us_gbu_53/short;GBU-53
+weapons/ar_aspid_1057;Aspid 1057 rockets
+weapons/ar_aspid_1057/short;Aspid
+weapons/ar_pampero;Pampero rockets
+weapons/ar_pampero/short;Pampero
+weapons/ar_bk_br_500kg;500 kg BK-BR 500 bomb
+weapons/ar_bk_br_500kg/short;BK-BR 500
+weapons/ar_bk_br_250kg;250 kg BK-BR 250 bomb
+weapons/ar_bk_br_250kg/short;BK-BR 250
+weapons/ar_bk_br_125kg;125 kg BK-BR 125 bomb
+weapons/ar_bk_br_125kg/short;BK-BR 125
+weapons/ar_bk_br_130kg;130 kg BK-BR 130 bomb
+weapons/ar_bk_br_130kg/short;BK-BR 130
+weapons/ar_brp_250kg;250 kg BRP 250 high-drag tail fin retarded bomb
+weapons/ar_brp_250kg/short;BRP 250
+weapons/ar_brp_500kg;500 kg BRP 500 high-drag tail fin retarded bomb
+weapons/ar_brp_500kg/short;BRP 500
+weapons/ar_inc_220;INC-220 incendiary bomb
+weapons/ar_inc_220/short;INC-220
+weapons/ar_pescador;Pescador air-to-ground missiles
+weapons/ar_pescador/short;Pescador
+weapons/rs_fab_100_m80;100 kg FAB-100 M80 bomb
+weapons/rs_fab_100_m80/short;FAB-100 M80
+weapons/rs_fab_250_m79;250 kg FAB-250 M79 bomb
+weapons/rs_fab_250_m79/short;FAB-250 M79
+weapons/rs_fab_250_pgb;FAB-250 PGB guided bomb
+weapons/rs_fab_250_pgb/short;FAB-250 PGB
+weapons/rs_grom_b;GROM-B air-to-ground missile
+weapons/rs_grom_b/short;GROM-B
+weapons/rs_vrvz_240;VRZV-240 air-to-ground missile
+weapons/rs_vrvz_240/short;VRZV-240
+weapons/rs_kosava_3_tm;KOSAVA 3 TM air-to-ground missile
+weapons/rs_kosava_3_tm/short;KOSAVA 3 TM
+weapons/rs_salgr_m_16d;SALGR M-16D missiles
+weapons/rs_salgr_m_16d/short;M-16D
+weapons/rs_br_vz_128_m15_rocket_heat;128 mm M80 rockets
+weapons/rs_br_vz_128_m15_rocket_heat/short;M80
+weapons/us_an_asq_213;AN/ASQ-213 HARM targeting pod
+weapons/us_an_asq_213/short;AN/ASQ-213 HARM
+weapons/pucara_jato_1;Start JATO rocket booster
+weapons/pucara_jato_1/short;JATO
+weapons/pucara_jato_2;Start JATO rocket booster
+weapons/pucara_jato_2/short;JATO
+weapons/pucara_jato_3;Start JATO rocket booster
+weapons/pucara_jato_3/short;JATO
+weapons/ar_318l_drop_tank_1;Drop tank (84 gal.)
+weapons/ar_318l_drop_tank_1/short;Drop tank
+weapons/ar_318l_drop_tank_2;Drop tank (84 gal.)
+weapons/ar_318l_drop_tank_2/short;Drop tank
+weapons/ar_318l_drop_tank_3;Drop tank (84 gal.)
+weapons/ar_318l_drop_tank_3/short;Drop tank
+weapons/su_800l_mig_23bn_silver_fuse;Drop tank (820 liters)
+weapons/su_800l_mig_23bn_silver_fuse/short;Drop tank
+weapons/su_500l_yak_130_drop_tank_1;Drop tank (500 liters)
+weapons/su_500l_yak_130_drop_tank_1/short;Drop tank
+weapons/su_500l_yak_130_drop_tank_2;Drop tank (500 liters)
+weapons/su_500l_yak_130_drop_tank_2/short;Drop tank
+weapons/it_630l_drop_tank_1;Drop tank (630 liters)
+weapons/it_630l_drop_tank_1/short;Drop tank
+weapons/it_630l_drop_tank_2;Drop tank (630 liters)
+weapons/it_630l_drop_tank_2/short;Drop tank
+weapons/it_630l_drop_tank_3;Drop tank (630 liters)
+weapons/it_630l_drop_tank_3/short;Drop tank
+weapons/us_agm_84d;AGM-84D anti-ship missile
+weapons/us_agm_84d/short;AGM-84D
+weapons/150mm_sfh_18_user_cannon;150 mm s.F.H.18 howitzer
+150mm_gr_19_he;Gr.19
+150mm_gr_39_hl_a_heat;Gr.39 Hl/A
+150mm_gr_19_nb;Gr.19 Nb
+150mm_gr_36_he;Gr.36
+150mm_gr_19_be_sap;Gr.19 Be
+150mm_pzgr_39_ts;Pzgr.39 TS
+weapons/37mm_type_76_user_cannon;37 mm Type 76 cannon
+weapons/12_7mm_M2_HB_user_machinegun_for_chaffee;12.7 mm M2HB machine gun
+105mm_m393a3;M393A3
+explosiveType/jhl_3;JHL-3
+explosiveType/pax_3;PAX-3
+explosiveType/destex;Destex
+weapons/127mm_aim_9x_nomads_user_cannon;SHORAD SAM
+37mm_heit_1955;HEI-T
+37mm_apit_1955;AP-T
+weapons/76mm_3_50_mk22_naval_user_cannon;3-inch Mark 22 cannon
+weapons/7_62mm_sm2_v1_user_machinegun;7.62 mm SM2 V1 machine gun
+atam_mistral_sam;Mistral
+weapons/ch_kd88_datalink_pod;Data Link pod
+weapons/ch_kd88_datalink_pod/short;Data Link pod
+weapons/120mm_M256_M1A3_user_cannon;120 mm M256 cannon
+120mm_im_he;IM HE
+120mm_xm1147;XM1147
+120mm_m829a3;M829A3
+106mm_type_64_heat;Type 64 HEAT
+106mm_type_68_hesh;Type 68 HESH
+weapons/102mm_45_4in_qf_mark16_21_aa_naval_user_cannon;4 inch/45 Mark XVI cannon
+weapons/155mm_FH70_L_39_user_cannon;155 mm/39 FH 70 cannon
+155mm_p3;P3
+155mm_p5;P5
+weapons/20mm_m61_vulcan_naval_user_cannon;20 mm M61 cannon
+weapons/20mm_m61_vulcan_naval_user_cannon/short;20 mm M61
+weapons/100mm_55_mle_1945_naval_user_cannon;100 mm/55 MLE model 45 cannon
+weapons/6_5mm_colt_mod15_naval_user_machinegun;6.5 mm Colt Model 15 machine gun
+weapons/127mm_54_mk45_naval_user_cannon;5 inch/54 Mk.45 cannon
+127mm_54_vt_hc_mk68;5 inch Mark 68 HC-VT
+weapons/su_kh_59mk;Kh-59MK missiles
+weapons/su_kh_59mk/short;Kh-59MK
+weapons/su_kh_59mke;Kh-59MKE missiles
+weapons/su_kh_59mke/short;Kh-59MKE

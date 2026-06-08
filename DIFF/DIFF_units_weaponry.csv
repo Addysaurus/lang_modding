@@ -125,11 +125,14 @@ weapons/150mm_sfh_18_user_cannon;150 mm s.F.H.18 howitzer
 150mm_pzgr_39_ts;Pzgr.39 TS
 weapons/37mm_type_76_user_cannon;37 mm Type 76 cannon
 weapons/12_7mm_M2_HB_user_machinegun_for_chaffee;12.7 mm M2HB machine gun
+missile/guidance/PRH;PRH
+missile/guidance/PRH+IOG;PRH+IOG
+missile/guidance/PRH+IOG+GNSS;PRH+IOG+GNSS
 105mm_m393a3;M393A3
 explosiveType/jhl_3;JHL-3
 explosiveType/pax_3;PAX-3
 explosiveType/destex;Destex
-weapons/127mm_aim_9x_nomads_user_cannon;SHORAD SAM
+weapons/127mm_aim_9x_nomads_user_cannon;NOMADS SAM
 37mm_heit_1955;HEI-T
 37mm_apit_1955;AP-T
 weapons/76mm_3_50_mk22_naval_user_cannon;3-inch Mark 22 cannon

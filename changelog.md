@@ -38,14 +38,18 @@ All dates are listed in DD-MM-YYYY format.
         - **F-14D**
         - **M60A1 Predator**
         - **M1A2 (Trophy-HV)**
-        - **M1A2C**
+        - **M1A2 SEPv3**
         - **Fw 189 C**
         - **IA.58A Pucara**
+        - **Hummel**
+        - **M44/M55** (folder)
         - **Puma u14**
         - **J-22M1A**
         - **Chernova Ukraina**
         - **Welkin F.Mk.I**
         - **Washington B.Mk.I**
+        - **M1A1** (UK / Australia)
+        - **M1A2** (UK / Australia)
         - **MTB-523**
         - **HMS Egret**
         - **Leopard 2RI** (Japan / Indonesia)
@@ -71,14 +75,18 @@ All dates are listed in DD-MM-YYYY format.
         - **F-14D** → **F-14D-160-GR**. Statcard name → **Grumman Aerospace Corporation G-303 | F-14D-160-GR Tomcat "Super Tomcat"**.
         - **M60A1 Predator** → **M60A1 R/PE «Predator»**. Statcard name → **Detroit Arsenal Tank Plant | Tank, Combat, Full Tracked: 105mm Gun, M60A1 Reliability Improvement of Selected Equipment Passive «Predator»**.
         - **M1A2 (Trophy-HV)** → **M1A2 SEPv2 (Trophy HV)**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package Version 2, Tank Urban Survival Kit 2 (Trophy HV)**.
-        - **M1A2C** → **M1A2 SEPv3**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package Version 3**.
+        - **M1A2 SEPv3**: Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package Version 3**.
         - **Fw 189 C** → **Fw 189 V6**. Statcard name → **Focke-Wulf Flugzeugbau | Fw 189 V6 "Uhu"**.
         - **IA.58A Pucara** → **IA. 58A**. Statcard name → **Fábrica Militar de Aviones | IA. 58A Pucará**.
+        - **Hummel** → **s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)** (I'm so sorry, but that's the real name). Statcard name → **Deutsche Eisenwerke | schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV (Sf.) (Sd.Kfz. 165)**.
         - **Puma u14** → **SPz Puma VJTF (PzGrenBtl 33)**. Statcard name → **Projekt System Management | Schützenpanzer Puma Very High Readiness Joint Task Force (Panzergrenadierbataillon 33)**.
+        - **M44/M55** (folder) → **PzH M 44 / 55**.
         - **J-22M1A**: Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | Avion J-22M1A Orao**.
         - **Chernova Ukraina** → **Čyervona Ukraina**. Statcard name → **Russkomu sudostroityel'nomu akczionyernomu obŝyestvu «Russud» | Lyegkij kryejsyer tip Admiral Nakhimov | Čyervona Ukraina**.
         - **Welkin F.Mk.I** → **Washington F. Mk. I**. Statcard name → **Westland Aircraft | Welkin F. Mk. I**.
         - **Washington B.Mk.I** → **Washington B. Mk. 1**. Statcard name → **Boeing Airplane Company Model 345 | Washington B. Mk. 1**.
+        - **M1A1** (UK / Australia) → **M1A1 AIM SA**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams Integrated Management, Situational Awareness**.
+        - **M1A2** (UK / Australia) → **M1A2 SEPv3**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2, System Enhancement Package Version 3**.
         - **MTB-523** → **HMS MTB 523**. Statcard name → **Vosper & Co. | Vosper 73 ft-class | HMS MTB 523**.
         - **HMS Egret** → **HMS Egret (L 75)**. Statcard name → **J. Samuel White & Co. Ltd. / Humber Commercial Shipyard | Egret-class | HMS Egret (L 75) (1943)**.
         - **Leopard 2RI** (Japan / Indonesia): Statcard name → **Krauss-Maffei Wegmann / Rheinmetall Landsysteme | Tank Leopard 2RI**.
@@ -108,7 +116,8 @@ All dates are listed in DD-MM-YYYY format.
         - Mandarin package: **MBT-2000** → **玲氏MBT-2000**. Statcard name → **中国兵器工业集团有限公司 | BW123A | 玲氏MBT-2000主战坦克**.
     - **MBT-2000**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | BW123A | MBT-2000 Zhu Zhàn Tankè**.
         - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | BW123A | MBT-2000主战坦克**.
-    - **M1A1HC** (Senrai Maidens) → **Kate's M1A1HC**: Statcard name → **General Dynamics Land Systems | Kate's Tank, Combat, Full Tracked: 120mm Gun, M1A1HC Abrams, Heavy Common**.
+    - **M1A1HC** (Senrai Maidens) → **Kate's M1A1HC**. Statcard name → **General Dynamics Land Systems | Kate's Tank, Combat, Full Tracked: 120mm Gun, M1A1HC Abrams, Heavy Common**.
+    - **M1A1AIM SA**→ **M1A1 AIM SA**.
     - **M60A1 R/PE**: Statcard name → **Detroit Arsenal Tank Plant | Tank, Combat, Full Tracked: 105mm Gun, M60A1 Reliability Improvement of Selected Equipment Passive**.
     - **Leopard 2A4M CAN** (Senrai Maidens) → **Kate's Leopard 2A4M CAN**: Statcard name → **KNDS Deutschland | Elsa's Leopard 2A4M CAN**.
     - **T-80U-Ye1** (Senrai Maidens) → **Mariya's T-80U-Ye1**: Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob"yekt 219AS-1 | Mariya's Tank T-80U-Ye1**.
@@ -155,6 +164,7 @@ All dates are listed in DD-MM-YYYY format.
         - **B.Kh.18Kh (2014)**: Statcard name → **Northrop Corporation F-5-21 / Elbit Systems F-5TH Super Tigris | Khērūng Bin Khab Lai Bāeb Thī 18Kh (2014)**.
         - **B.Kh.19**: Statcard name → **General Dynamics Corporation | Khērūng Bin Khab Lai Bāeb Thī 19**.
         - **B.Kh.20**: Statcard name → **Saab 39 Gripen C | Khērūng Bin Khab Lai Bāeb Thī 20**.
+        - **Ptx. Xěm 163** → **Bpdto. Em 163**. Statcard name → **General Electric Company | Bpūn Dtosū Ākāsyān 20 mm Attā Jōn Bāeb Em 163**.
         - **Bīthīxār 3 Xī 1** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rot Kro Lo Yāng Bīthīār 3 Ī 1**.
             - Thai package: **บีทีอาร์ ๓ อี ๑** → **รก. บีทีอาร์ ๓ อี ๑**.
             - Ukrainian package: **Bīthīxār 3 Xī 1** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Rot Kro Lo Yāng Bīthīār 3 Ī 1**.

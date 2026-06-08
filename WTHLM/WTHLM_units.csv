@@ -1321,6 +1321,7 @@ shop/group/germ_pzkpfw_II_early_group;Pz.Kpfw. II C / F
 shop/group/germ_sturer_flak_group;Sturer Emil / Flak 37 Sfl.
 shop/group/germ_dicker_sturer_group;Sturer Emil / Pz.Sfl. IVa
 shop/group/germ_flak_m44_group;Flak 37 Sfl. / ◄ PzH M 44
+shop/group/germ_m44_55_group;◄ PzH M 44 / 55
 shop/group/germ_waffentrager_group;Nashorn / Waffenträger
 shop/group/germ_marder_bmp_group;Marder 1 A1 (-) / BMP-1P
 shop/group/germ_marder_group;Marder 1 A3 / ◄ DF 105
@@ -3681,9 +3682,9 @@ us_m1a1_abrams_yt_cup_2019_shop;␙ M1A1
 us_m1a1_abrams_yt_cup_2019_0;␙ General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams
 us_m1a1_abrams_yt_cup_2019_1;␙ M1A1
 us_m1a1_abrams_yt_cup_2019_2;MBT
-us_m1a1_aim_abrams_shop;M1A1AIM SA
+us_m1a1_aim_abrams_shop;M1A1 AIM SA
 us_m1a1_aim_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams Integrated Management, Situational Awareness
-us_m1a1_aim_abrams_1;M1A1
+us_m1a1_aim_abrams_1;M1A1 AIM SA
 us_m1a1_aim_abrams_2;MBT
 us_m1a1_hc_usmc_shop;M1A1HC «Click-Bait»
 us_m1a1_hc_usmc_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Heavy Common «Click-Bait»
@@ -5171,6 +5172,10 @@ germ_stuh_III_ausf_G_shop;StuH 42 G
 germ_stuh_III_ausf_G_0;Sturmhaubitze 42 Ausf. G
 germ_stuh_III_ausf_G_1;StuH 42 G
 germ_stuh_III_ausf_G_2;SPG
+germ_hummel_shop;s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)
+germ_hummel_0;Deutsche Eisenwerke | schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV (Sf.) (Sd.Kfz. 165)
+germ_hummel_1;s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)
+germ_hummel_2;SPG
 germ_panzerwerfer_42_shop;15 cm Pz.W.42
 germ_panzerwerfer_42_0;15 cm Pz.W.42 (15 cm Nb.W.41) auf Sf.
 germ_panzerwerfer_42_1;15 cm Pz.W.42
@@ -6508,6 +6513,14 @@ uk_challenger_2_megatron_sm_shop;◍ Emily's Challenger 2 TES (2H) (2011)
 uk_challenger_2_megatron_sm_0;◍ Vickers Defence Systems | F.V.4034 | Emily's Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard (Dorchester Level 2H) (2011)
 uk_challenger_2_megatron_sm_1;◍ Challenger 2 TES
 uk_challenger_2_megatron_sm_2;MBT
+uk_m1a1_aim_abrams_shop;M1A1 AIM SA
+uk_m1a1_aim_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams Integrated Management, Situational Awareness
+uk_m1a1_aim_abrams_1;M1A1 AIM SA
+uk_m1a1_aim_abrams_2;MBT
+uk_m1a1_aim_abrams_shop;M1A2 SEPv3
+uk_m1a1_aim_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2, System Enhancement Package Version 3
+uk_m1a1_aim_abrams_1;M1A2 SEPv3
+uk_m1a1_aim_abrams_2;MBT
 uk_sky_sabre_launcher_shop;SV 15T (Land Ceptor)
 uk_sky_sabre_launcher_0;Rafael International + MBDA UK | Support Vehicle 15-Tonne (Land Ceptor)
 uk_sky_sabre_launcher_1;SV 15T (Land Ceptor)
@@ -7820,9 +7833,9 @@ jp_type_99_shop;99HSP
 jp_type_99_0;"Mitsubishi Jū Kōgyō + Nihon Sei Kōgyō | 99 Shiki Jisō 155mm Ryūdanhō ""Rongunōzu"""
 jp_type_99_1;99HSP
 jp_type_99_2;SPH
-jp_m163_vulcan_shop;Ptx. Xěm 163
-jp_m163_vulcan_0;General Electric Company | Pụ̄n Txsū Xākāṣyān 20 mm Xạttā Jr Bæb Xěm 163
-jp_m163_vulcan_1;Ptx. Xěm 163
+jp_m163_vulcan_shop;Bpdto. Em 163
+jp_m163_vulcan_0;General Electric Company | Bpūn Dtosū Ākāsyān 20 mm Attā Jōn Bāeb Em 163
+jp_m163_vulcan_1;Bpdto. Em 163
 jp_m163_vulcan_2;SPAAG
 jp_type_75_mlrs_shop;75MSSR
 jp_type_75_mlrs_0;Komatsu Seisaku KA161 | 75 Shiki Jisō 130mm Tarensō Rokettodan Hasshaki

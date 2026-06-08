@@ -479,6 +479,12 @@ JH7A型飞机 ""飞豹"""
 jh_7a_1;JH7A
 jh_7a_2;JH7
 
+jh_7a2_shop;JH7A2
+jh_7a2_0;"<color=#81c3fc>西安飞机工业 (集团)</color>
+JH7A2型飞机 ""飞豹"""
+jh_7a2_1;JH7A
+jh_7a2_2;JH7
+
 jh_7a_prototype_shop;JH7A (1号)
 jh_7a_prototype_0;"<color=#81c3fc>西安飞机工业 (集团)</color>
 JH7A型飞机 ""飞豹""
@@ -499,6 +505,12 @@ f_16a_block_20_mlu_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
 ☀ F-16A-20-CF型戰鬥機"
 f_16a_block_20_mlu_1;☀ F-16A
 f_16a_block_20_mlu_2;☀ F-16
+
+f_16a_block_72v_china_shop;☀ F-16V-72-CF
+f_16a_block_72v_china_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
+☀ F-16V-72-CF型戰鬥機"
+f_16a_block_72v_china_1;☀ F-16A
+f_16a_block_72v_china_2;☀ F-16
 
 j_10a_shop;J10A
 j_10a_0;"<color=#81c3fc>成都飞机工业 (集团)</color>
@@ -992,6 +1004,12 @@ cn_type_69_2a_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
 cn_type_69_2a_1;69-II
 cn_type_69_2a_2;Medium Tank
 
+cn_pgz_88_shop;PGZ88
+cn_pgz_88_0;"<color=#81c3fc>中国兵器工业集团有限公司 37 mm Twin-Barrel Self-Propelled Gun</color>
+PGZ1988式双管37毫米履带式自行高炮"
+cn_pgz_88_1;PGZ88
+cn_pgz_88_2;SPAAG
+
 cn_wz_305_shop;80式
 cn_wz_305_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
 <color=#5cae63>W305</color>
@@ -1136,15 +1154,15 @@ cn_wma_301_2;Light Tank
 cn_mbt2000_shop;MBT-2000
 cn_mbt2000_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
 <color=#5cae63>BW123A</color>
-MBT-2000"
+MBT-2000主战坦克"
 cn_mbt2000_1;MBT-2000
 cn_mbt2000_2;MBT
 
-cn_mbt2000_sm_shop;MBT-2000
+cn_mbt2000_sm_shop;翎氏MBT-2000
 cn_mbt2000_sm_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
 <color=#5cae63>BW123A</color>
-MBT-2000
-<color=@currencyGoldColor>«玲»</color>"
+MBT-2000主战坦克
+<color=@currencyGoldColor>翎氏</color>"
 cn_mbt2000_sm_1;MBT-2000
 cn_mbt2000_sm_2;MBT
 

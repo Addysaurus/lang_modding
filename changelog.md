@@ -18,32 +18,173 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.17.05 - UNRELEASED
+## 1.18.00 - UNRELEASED
+
+### General
+
+    - It's not worth mentioning them individually because no one cares about gooner vehicles but suffice it to say that their skins and body pillows have been renamed toop. Happy? Are you happy now with your gooner vehicles? Oh fuck this...
+    - Added 11 new loading tips:
+        - General: 1
+        - Air: 2
+        - Ground: 6
+        - Naval: 2
 
 ### Vehicles:
 
 - #### Additions:
 
+    - Update "Heavy Cavalry" additions:
+        - **F-101C**
+        - **F-14D**
+        - **M60A1 Predator**
+        - **M1A2 (Trophy-HV)**
+        - **M1A2C**
+        - **Fw 189 C**
+        - **IA.58A Pucara**
+        - **Puma u14**
+        - **J-22M1A**
+        - **Chernova Ukraina**
+        - **Welkin F.Mk.I**
+        - **Washington B.Mk.I**
+        - **MTB-523**
+        - **HMS Egret**
+        - **Leopard 2RI** (Japan / Indonesia)
+        - **JDS Ujishima (MSC-655)**
+        - **JH-7A2**
+        - **F-16V** (China / Taiwan)
+        - **M-346FA**
+        - **MAS 429**
+        - **Jean Bart**
+        - **NOMADS**
+        - **MiG-21 2000**
+        - **Hunter AFV**
+    - **Glaive**
+    - **Spitfire Mk Vb (Float)**
     - **Challenger 2 OES** (Senrai Maidens) (*sigh*)
     - **Type 90 (B)** (Senrai Maidens) (*sigh*)
     - **MBT-2000** (Senrai Maidens) (*sigh*)
 
 - #### Changes:
 
-    - **Challenger 2 OES** (Senrai Maidens) → **Challenger 2 TES (2H) (2011)**. Statcard name → **Vickers Defence Systems | F.V.4034 | Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard (Dorchester Level 2H) (2011) «Emily»**. I know this name is different from the identical premium Challenger 2, this is a little bit of a sneek peak at the British rework that's WIP.
-    - **Type 90 (B)** (Senrai Maidens) → **90TK (B)**. Statcard name → **Mitsubishi Jū Kōgyō | 90 Shiki Sensha B Gata «Usagi»**.
-        - Japanese package: Statcard name → **三菱重工業 | 90式戦車B型 «うさぎ»**.
-    - **MBT-2000** (Senrai Maidens): Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | BW123A | MBT-2000 «Líng»**.
-        - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | BW123A | MBT-2000 «玲»**.
+    - Update "Heavy Cavalry" changes:
+        - **F-101C** → **F-101C-55-MC**. Statcard name → **McDonnell Aircraft Corporation Model 36W | F-101C-55-MC Voodoo**.
+        - **F-14D** → **F-14D-160-GR**. Statcard name → **Grumman Aerospace Corporation G-303 | F-14D-160-GR Tomcat "Super Tomcat"**.
+        - **M60A1 Predator** → **M60A1 R/PE «Predator»**. Statcard name → **Detroit Arsenal Tank Plant | Tank, Combat, Full Tracked: 105mm Gun, M60A1 Reliability Improvement of Selected Equipment Passive «Predator»**.
+        - **M1A2 (Trophy-HV)** → **M1A2 SEPv2 (Trophy HV)**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package Version 2, Tank Urban Survival Kit 2 (Trophy HV)**.
+        - **M1A2C** → **M1A2 SEPv3**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package Version 3**.
+        - **Fw 189 C** → **Fw 189 V6**. Statcard name → **Focke-Wulf Flugzeugbau | Fw 189 V6 "Uhu"**.
+        - **IA.58A Pucara** → **IA. 58A**. Statcard name → **Fábrica Militar de Aviones | IA. 58A Pucará**.
+        - **Puma u14** → **SPz Puma VJTF (PzGrenBtl 33)**. Statcard name → **Projekt System Management | Schützenpanzer Puma Very High Readiness Joint Task Force (Panzergrenadierbataillon 33)**.
+        - **J-22M1A**: Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | Avion J-22M1A Orao**.
+        - **Chernova Ukraina** → **Čyervona Ukraina**. Statcard name → **Russkomu sudostroityel'nomu akczionyernomu obŝyestvu «Russud» | Lyegkij kryejsyer tip Admiral Nakhimov | Čyervona Ukraina**.
+        - **Welkin F.Mk.I** → **Washington F. Mk. I**. Statcard name → **Westland Aircraft | Welkin F. Mk. I**.
+        - **Washington B.Mk.I** → **Washington B. Mk. 1**. Statcard name → **Boeing Airplane Company Model 345 | Washington B. Mk. 1**.
+        - **MTB-523** → **HMS MTB 523**. Statcard name → **Vosper & Co. | Vosper 73 ft-class | HMS MTB 523**.
+        - **HMS Egret** → **HMS Egret (L 75)**. Statcard name → **J. Samuel White & Co. Ltd. / Humber Commercial Shipyard | Egret-class | HMS Egret (L 75) (1943)**.
+        - **Leopard 2RI** (Japan / Indonesia): Statcard name → **Krauss-Maffei Wegmann / Rheinmetall Landsysteme | Tank Leopard 2RI**.
+        - **JDS Ujishima (MSC-655)** → **Ujishima (MSC-655)**. Statcard name → **Greenport Basin and Construction Company | Ujishima Gata Sōkaitei | Ujishima (MSC-655)**.
+            - Japanese package: **JDS Ujishima (MSC-655)** → **うじしま (MSC-655)**. Statcard name → **Greenport Basin and Construction Company | うじしま型掃海艇 | うじしま (MSC-655)**.
+        - **JH-7A2** → **JH7A2**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | JH7A2 Xíng Fēijī ""Fēi Bào"**.
+            - Mandarin package: Statcard name → **西安飞机工业 (集团) | JH7A2型飞机 "飞豹"**.
+            - Full Mandarin package: **JH-7A2** → **歼轰7A2**. Statcard name → **西安飞机工业 (集团) | 歼轰7A2型飞机 "飞豹"**.
+        - **F-16V** (China / Taiwan) → **F-16V-72-CF**. Statcard name → **Lockheed Martin Corporation | F-16V-72-CF Xíng Zhàndòu Jī**.
+            - Mandarin package: Statcard name → **Lockheed Martin Corporation | F-16V-72-CF型戰鬥機**.
+        - **PGZ88**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī 37 mm Twin-Barrel Self-Propelled Gun | PGZ1988 Shì Shuāng Guan 37 Háomi Lüdài Shì Zì Háng Gāo Pào**.
+            - Mandarin package: Statcard name → **中国兵器工业集团有限公司 37 mm Twin-Barrel Self-Propelled Gun | PGZ1988式双管37毫米履带式自行高炮**.
+        - **M-346FA**: Statcard name → **Alenia Aermacchi M-346FA Master**.
+        - **MAS 429**: Statcard name → **Società Veneziana Automobili Navali | Motoscafo Antisommergibili Tipo Autocannionera 1919 | MAS 429**.
+        - **Jean Bart**: Statcard name → **Ateliers et Chantiers de la Loire + Port de Casablanca + Arsenal de Brest | Cuirassé de la Classe Richelieu | Jean Bart (1955)**.
+        - **NOMADS**: Statcard name → **Kongsberg Defence & Aerospace National Manoeuvre Air Defence System**.
+        - **MiG-21 2000**: Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye im. P. V. Dyemyent'yeva / ha-Ta'asiah ha-'Avirit le-Yisra'el + Aerostar MiG-21 2000**.
+            - Hebrew package: Statcard name → **MiG-21 2000 Aerostar + התעשייה האווירית לישראל / Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye im. P. V. Dyemyent'yeva**.
+            - Hebrew + Russian package: Statcard name → **MiG-21 2000 Aerostar + התעשייה האווירית לישראל / Московское авиационное производственное объединение им. П. В. Дементьева**.
+        - **Hunter AFV** → **Hunter**. Statcard name → **Defence Science and Technology Agency + ST Engineering | Hunter Armoured Fighting Vehicle**.
+    - **Glaive** → **Glaive (P 761)**. Statcard name → **Ateliers et Chantiers C. Auroux / Arsenal de Cherbourg | Patrouilleurs rapides de la classe Trident | Glaive (P 761) (1983)**.
+    - **Spitfire Mk Vb (Float)** → **Spitfire F. Mk. Vb (W3760)**. Statcard name → **Supermarine Aviation Works (Vickers) Type 355 / Folland Aircraft Company | Spitfire F. Mk. Vb (W3760) (October, 1942)**.
+    - **Challenger 2 OES** (Senrai Maidens) → **Emily's Challenger 2 TES (2H) (2011)**. Statcard name → **Vickers Defence Systems | F.V.4034 | Emily's Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard (Dorchester Level 2H) (2011)**. I know this name is different from the identical premium Challenger 2, this is a little bit of a sneek peak at the British rework that's WIP.
+    - **Type 90 (B)** (Senrai Maidens) → **Usagi's 90TK (B)**. Statcard name → **Mitsubishi Jū Kōgyō | Usagi's 90 Shiki Sensha B Gata**.
+        - Japanese package: **Type 90 (B)** → **うさぎの90TK (B)**. Statcard name → **三菱重工業 | うさぎの90式戦車B型**.
+    - **MBT-2000** (Senrai Maidens) → **Ling's MBT-2000**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | BW123A | Líng's MBT-2000 Zhu Zhàn Tankè**.
+        - Mandarin package: **MBT-2000** → **玲氏MBT-2000**. Statcard name → **中国兵器工业集团有限公司 | BW123A | 玲氏MBT-2000主战坦克**.
+    - **MBT-2000**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | BW123A | MBT-2000 Zhu Zhàn Tankè**.
+        - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | BW123A | MBT-2000主战坦克**.
+    - **M1A1HC** (Senrai Maidens) → **Kate's M1A1HC**: Statcard name → **General Dynamics Land Systems | Kate's Tank, Combat, Full Tracked: 120mm Gun, M1A1HC Abrams, Heavy Common**.
+    - **M60A1 R/PE**: Statcard name → **Detroit Arsenal Tank Plant | Tank, Combat, Full Tracked: 105mm Gun, M60A1 Reliability Improvement of Selected Equipment Passive**.
+    - **Leopard 2A4M CAN** (Senrai Maidens) → **Kate's Leopard 2A4M CAN**: Statcard name → **KNDS Deutschland | Elsa's Leopard 2A4M CAN**.
+    - **T-80U-Ye1** (Senrai Maidens) → **Mariya's T-80U-Ye1**: Statcard name → **Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob"yekt 219AS-1 | Mariya's Tank T-80U-Ye1**.
     - **SAV 20.12.48**: Statcard name → **Bofors SAV 20.12.48**.
     - **ZTZ99A** → **ZTZ99A (2014)**.
     - **ZTZ99 (2 Qí)**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ123B | ZTZ1999 Shì Zhu Zhàn Tankè (2 Qí)**.
         - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ123B | ZTZ1999式主战坦克 (二期)**.
     - **Ram, Mk. II (O.Q.F., 3.7-inch, Mk. II)**: Statcard name → **Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. II (Gun, O.Q.F., 3.7-inch, Mk. II)**.
     - **SU-85M / ISU-122** (folder) → **SU-85M / ISU-122 / 122S**.
+    - **M1A2 / A2 SEP** (folder) → **M1A2 SEPv1 / SEPv2**.
     - **KPz Leopard 2 PSO** → **Leopard 2 PSO**. Statcard name → **KNDS Deutschland Leopard 2 Peace Support Operations**. PSO is a manufacturer designation so the KPz doesn't apply.
     - **SPz Puma S0**: Statcard name → **Projekt System Management | Schützenpanzer Puma S0**.
     - **SPz Puma VJTF**: Statcard name → **Projekt System Management | Schützenpanzer Puma Very High Readiness Joint Task Force**.
+    - **Vilkas**: Statcard name → **ARTEC Boxer Infantry Combat Vehicle Samson | Pėstininkų kovos mašina Vilkas**.
+    - **HMS Dreadnought (00)**: Statcard name → **Portsmouth Royal Dockyard / Chatham Royal Dockyard | Dreadnought-class | HMS Dreadnought (00) (1917)**.
+    - **MAS 441**: Statcard name → **Cantiere Baglietto / Arsenale militare marittimo di Taranto | Motoscafo Antisommergibili Tipo Baglietto 1934 | MAS 441 (1940)**.
+    - **U SH (Typ 3Z 8DLa)**: Statcard name → **Landsverk + Unimog SH (8 cm Zwillings-Raketenautomat Oerlikon Typ 3Z 8DLa)**.
+    - **SPz 12-3 (LGs M 40 A1)**: Statcard name → **Hispano-Suiza HS.30 / Hannoversche Maschinenbau | Schützenpanzer lang Typ 12-3 mit 106 mm Leichtgeschütz M 40 A1**.
+    - **SPz 12-3 (Typ 3Z 8DLA)** → **SPz 12-3 (Typ 3Z 8DLa)**. Statcard name → **Hispano-Suiza HS.30 / Hannoversche Maschinenbau | Erprobungs-Schützenpanzer lang Typ 12-3 mit 8 cm Zwillings-Raketenautomat Oerlikon Typ 3Z 8DLa**.
+    - **SPz 12-3 (Typ 3Z 8DLA) / RakJPz 2** (folder) → **SPz 12-3 (Typ 3Z 8DLa) / RakJPz 2**.
+    - **Dunkerque**: Statcard name → **Arsenal de Brest | Cuirassé de la classe Dunkerque | Dunkerque (1939)**.
+    - **Strasbourg**: Statcard name → **Ateliers et Chantiers de la Loire | Cuirassé de la classe Dunkerque | Strasbourg (1942)**.
+    - **Richelieu**: Statcard name → **Arsenal de Brest / Brooklyn Navy Yard | Cuirassé de la classe Richelieu | Richelieu (1943)**.
+    - **Clemenceau**: Statcard name → **Arsenal de Brest | Cuirassé de la classe Richelieu | Clemenceau**.
+    - **Fw 189 A-1**: Statcard name → **"Focke-Wulf Flugzeugbau | Fw 189 A-1 "Uhu"**.
+    - Replaced all instances of "samolyet" with "samolyot" and all instances of "Самолет" with "Самолёт".
+    - **Ferdinand** → **Pz.Jgr. Tiger (P)**. Statcard name → **Nibelungenwerke | Panzerjäger Tiger (P) (Sd.KFz. 184) "Ferdinand"**.
+    - **Elefant**: Statcard name → **Nibelungenwerke | Panzerjäger Tiger (P) (Sd.KFz. 184) | Elefant**.
+    - **Ferdinand / Pz.Jgr. Tiger B** (folder) → **Pz.Jgr. Tiger (P) / B**.
+    - **B-52H-140-BW (1979)**: Statcard name → **Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress "BUFF" (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))** (it's... it's so long smh, don't worry, multiline soon).
+    - Thai has received a brand new transliteration system. ISO 11940-1:1998 has been replaced with out own, [custom transliteration system called Paiboon-M2](https://docs.google.com/spreadsheets/d/1ZShnZNTtK1ZH1IG5m2Nm3diCefncqoFK_zaXJcM44cE/edit?usp=sharing).
+        - **B.Kh.11**: Statcard name → **Curtiss-Wright Corperation Hawk Model 75N | Khērūng Bin Khab Lai Bāeb Thī 11**.
+        - **B.J.3**: Statcard name → **Curtiss-Wright Corporation Model 84G | Khērūng Bin Jōmtī Bāeb Thī 3**.
+        - **B.Kh.16**: Statcard name → **Republic Aviation Corporation AP-23 | Khērūng Bin Khab Lai Bāeb Thī 16**.
+        - **B.J.7 (2004)**: Statcard name → **Avions Marcel Dassault-Breguet Aviation / Dornier Flugzeugwerke | Khērūng Bin Jōmtī Bāeb Thī 7 (2004)**.
+        - **B.JT.1K**: Statcard name → **Vought Corporation | Khērūng Bin Jōmtī Bāeb Thī 1K**.
+        - **B.KhL.1 (late)**: Statcard name → **Hawker Siddeley Aviation | Khērūng Bin Khab Lai Bāeb Thī 1K (late)**.
+            - Thai package: Statcard name → **Hawker Siddeley Aviation | เครื่องบินขับไล่แบบที่ ๑ก (late)** (missing tone marker on the first syllable added).
+        - **B.KhL.1 (early)**: Statcard name → **Hawker Siddeley Aviation | Khērūng Bin Khab Lai Bāeb Thī 1K (early)**.
+            - Thai package: Statcard name → **Hawker Siddeley Aviation | เครื่องบินขับไล่แบบที่ ๑ก (early)** (missing tone marker on the first syllable added).
+        - **B.Kh.18**: Statcard name → **Northrop Corporation N-156F | Khērūng Bin Khab Lai Bāeb Thī 18**.
+        - **B.Kh.18Kh (2003)**: Statcard name → **Northrop Corporation F-5-21 / Elbit Systems F-5T Tigris | Khērūng Bin Khab Lai Bāeb Thī 18Kh (2003)**.
+        - **B.Kh.18Kh (1988)**: Statcard name → **Northrop Corporation F-5-21 | Khērūng Bin Khab Lai Bāeb Thī 18Kh (1988)**.
+        - **B.Kh.18Kh (2014)**: Statcard name → **Northrop Corporation F-5-21 / Elbit Systems F-5TH Super Tigris | Khērūng Bin Khab Lai Bāeb Thī 18Kh (2014)**.
+        - **B.Kh.19**: Statcard name → **General Dynamics Corporation | Khērūng Bin Khab Lai Bāeb Thī 19**.
+        - **B.Kh.20**: Statcard name → **Saab 39 Gripen C | Khērūng Bin Khab Lai Bāeb Thī 20**.
+        - **Bīthīxār 3 Xī 1** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rot Kro Lo Yāng Bīthīār 3 Ī 1**.
+            - Thai package: **บีทีอาร์ ๓ อี ๑** → **รก. บีทีอาร์ ๓ อี ๑**.
+            - Ukrainian package: **Bīthīxār 3 Xī 1** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Rot Kro Lo Yāng Bīthīār 3 Ī 1**.
+            - Thai + Ukrainian package: **บีทีอาร์ ๓ อี ๑** → **รก. บีทีอาร์ ๓ อี ๑**.
+        - **Th.Hlạk Xěm 60 Xe 3** → **Th.Hlak Em 60 E 3**. Statcard name → **Chrysler Defense Engineering | Rot Thang Hlak Em 60 E 3**.
+        - **Th.Bao 32**: Statcard name → **Cadillac Gage Stingray | Rot Thang Bao 32**.
+        - **Th.Hlạk 57** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rot Thang Hlak 57**.
+            - Ukrainian package: **Th.Hlạk 57** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Rot Thang Hlak 57**.
+    - **s.Pz.Kpfw. 754 (r)**: Statcard name → **Kirovskij zavod | schwerer Panzerkampfwagen KW II | schwerer Panzerkampfwagen 754 (r)**.
+    - **Pz.Kpfw. 747 (r) D** → **Pz.Kpfw. 747 (r)**. Statcard name → **Ural'skij tankovyj zavod (Zavod №183) | Panzerkampfwagen T 34 Ausf. D | Panzerkampfwagen 747 (r)**.
+    - **s.Pz.Kpfw. 756 (r)**: Statcard name → **Kirovskij zavod Narkomata tankovoj promyšlyennosti v gorodye Čyelâbinskye (Zavod № 100) | schwerer Panzerkampfwagen KW I Ausf. C | schwerer Panzerkampfwagen 756 (r) mit 7,5cm Kw.K. 40**.
+    - **Pz.Kpfw. 748 (a) C** → **Pz.Kpfw. 748 (a)**. Statcard name → **General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant | Panzerkampfwagen M 4 Ausf. C | Panzerkampfwagen 748 (a)**.
+    - **Spiṭfayer IX**: Statcard name → **Supermarine Aviation Works (Vickers) Type 361 | Spiṭfayer Degem IX**.
+        - Hebrew package: Statcard name → **Supermarine Aviation Works (Vickers) Type 361 | IX ספיטפייר דגם**.
+    - **Spiṭfayer IX (KK)**: Statcard name → **Supermarine Aviation Works (Vickers) Type 361 | Spiṭfayer Degem IX (Knef Kṣoṣah)**.
+        - Hebrew package: Statcard name → **Supermarine Aviation Works (Vickers) Type 361 | (כנף קצוצה) IX ספיטפייר דגם**.
+    - **Weiṣman's Spiṭfayer IX**: Statcard name → **Supermarine Aviation Works (Vickers) Type 361 | 'Ezer Weiṣman's Spiṭfayer Degem IX**.
+        - Hebrew package: Statcard name → **Supermarine Aviation Works (Vickers) Type 361 | של עזר ויצמן IX ספיטפייר דגם**.
+    - ****Smyrniotópoulos' Spitfire L.F. Mk. IX (CW)**: Statcard name → **Supermarine Aviation Works (Vickers) Type 361 | Geórgios Smyrniotópoulos' Spitfire L.F. Mk. IX (clipped wing)**.
+    - **F-86F-30-MIT** (Japan) → **F-86F-30-NA**. Statcard name → **North American Aviation NA-191 / Mitsubishi Jū Kōgyō | F-86F-30-NA "Kyokkō"**
+        - Japanese package: Statcard name → **North American Aviation NA-191 / 三菱重工業 | F-86F-30-NA「旭光」"**
+    - **F-86F-40-MIT** (Japan): Statcard name → **North American Aviation NA-256 / Mitsubishi Jū Kōgyō | F-86F-40-MIT "Kyokkō"**
+        - Japanese package: Statcard name → **North American Aviation NA-256 / Mitsubishi Jū Kōgyō | F-86F-40-MIT "Kyokkō"**
+    - **F-86F-40-MIT (6 Hitai)** (Japan): Statcard name → **North American Aviation NA-256 / Mitsubishi Jū Kōgyō | F-86F-40-MIT "Kyokkō" (Dai 6 Hikōtai)**
+        - Japanese package: Statcard name → **North American Aviation NA-256 / 三菱重工業 | F-86F-40-MIT「旭光」(第6飛行隊)**
+    - **F-104J-MIT (C2)** (Japan) → **F-104J (C2)**.
+    - **F-4EJ-MIT** (Japan) (all versions) → **F-4EJ**.
+    - **F-15J-MIT** (Japan) (all versions) → **F-15J**.
+    - **F-2A-MIT (C10)** → **F-2A (C10)**.
+    - **XF-2A-MIT (Hi Kai Ji Dan)** → **XF-2A (Hi Kai Ji Dan)**.
 
 ### Decals:
 
@@ -51,6 +192,12 @@ All dates are listed in DD-MM-YYYY format.
 
     - **French Sports Stripes** (horrible name jesus christ) → **Marquage de l'action de l'État en mer**.
     - **Badge of VT-3 Squadron, US Navy** → **Emblem of Torpedo Squadron VT-3**.
+
+### Sensors:
+
+- #### Changes:
+
+    - **AN/APG-66(V)3** → **AN/APG-63(V)3**. This is not the actual AN/APG-66(V)3, that one stays the same, I just made a typo on the AN/APG-63(V)3.
 
 ## 1.17.04 - 6-05-2026
 
@@ -6989,7 +7136,7 @@ You do not need to actually know how this works. I am including this in here in 
     - Update "Firebirds" changes:
         - **Superhind MK IV** renamed to **Night Hawk**.
         - **F-117** renamed to **F-117A-1-LO (OCIP II)**.
-        - **Luchs A2 and Scimitar renamed to **SpPz Luchs A2 and Scimitar**.
+        - **Luchs A2** and Scimitar renamed to **SpPz Luchs A2 and Scimitar**.
     - **RN Duca degli Abruzzi** renamed to **Luigi di Savoia Duca degli Abruzzi**.
 
 ## 1.10.00 - 19-11-2024

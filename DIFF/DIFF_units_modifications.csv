@@ -1,3 +1,68 @@
 <ID|readonly|noverify>;<English>
-CCRPRocket;CCRP
-CCRPRocket/desc;Continuously computed release point
+modification/su_x29td_x59m/desc;Allows the installation of Kh-29TD and Kh-59M guided missiles.
+modification/su_x29td_x59m;Kh-29TD/59M
+modification/tv_atgm/desc;Allows the installation of TV guided missiles: {unlockWeapons}
+modification/tv_atgm;TV AGM
+modification/su_kab_500s/desc;Allows the installation of KAB-500S guided bombs.
+modification/su_kab_500s;KAB-500S
+modification/su_kab_gps/desc;Allows the installation of guided bombs: {unlockWeapons}
+modification/su_kab_gps;KAB-S
+modification/cn_ls_laser/desc;Allows the installation of GB laser guided bombs: {unlockWeapons}
+modification/cn_ls_laser;GB
+modification/us_gbu_53/desc;Allows the installation of GBU-53 guided bombs.
+modification/us_gbu_53;GBU-53
+modification/us_pave_spike_pod/desc;Allows the installation of a Pave Spike laser/electro-optical targeting pod.
+modification/us_pave_spike_pod;Pave Spike
+modification/asm;ASM
+modification/asm/desc;Allows the installation of guided anti-ship missiles: {unlockWeapons}
+modification/su_s25l;S-25L
+modification/su_s25l/desc;Allows the installation of S-25L missiles.
+modification/pescador;Pescador
+modification/pescador/desc;Allows the installation of Pescador guided missiles.
+modification/pampero;Pampero
+modification/pampero/desc;Allows the installation of Yaguarete Pampero unguided rockets.
+modification/aspid;Aspid
+modification/aspid/desc;Allows the installation of Mamboreta Aspid unguided rockets.
+modification/bk_br_250;BK-BR 250
+modification/bk_br_250/desc;Allows the installation of 250 kg bombs.
+modification/bk_br_500;BK-BR 500
+modification/bk_br_500/desc;Allows the installation of 250 kg bombs.
+modification/inc_220;INC-220
+modification/inc_220/desc;Allows the installation of INC-220 fire bombs.
+sensors/cn_jl_10ag;JL-10AG
+sensors/su_wa316ld;WA316LD (Type 74)
+sensors/us_an_apq_159_v;AN/APQ-159(V)
+sensors/us_an_apg_71;AN/APG-71
+modification/us_arm/desc;Allows the installation of anty-radiation missiles: {unlockWeapons}
+modification/us_arm;ARM
+modification/su_arm/desc;Allows the installation of anty-radiation missiles: {unlockWeapons}
+modification/su_arm;ARM
+modification/anti_radiation_missile_type_b/desc;Allows the installation of anty-radiation missiles.
+modification/anti_radiation_missile_type_b;ARM
+modification/anti_radiation_missile_type_c/desc;Allows the installation of anty-radiation missiles.
+modification/anti_radiation_missile_type_c;ARM
+modification/anti_radiation_missile_agm_122/desc;Allows the installation of AGM-122 anty-radiation missiles.
+modification/anti_radiation_missile_agm_122;AGM-122
+modification/rs_fab_pgb/desc;Allows the installation of PGB guided bombs: {unlockWeapons}
+modification/rs_fab_pgb;PGB
+modification/rs_grom_b/desc;Allows the installation of GROM-B missiles.
+modification/rs_grom_b;GROM-B
+modification/rs_m16d/desc;Allows the installation of SALGR M-16D missiles.
+modification/rs_m16d;M-16D
+modification/rs_vrvz_240/desc;Allows the installation of VRVZ-240 missiles.
+modification/rs_vrvz_240;VRVZ-240
+modification/kosava_3_tm/desc;Allows the installation of KOSAVA 3 TM missiles.
+modification/kosava_3_tm;KOSAVA 3 TM
+modification/br_vz_128_m15/desc;Allows the installation of 128 mm unguided rockets: {unlockWeapons}.
+modification/br_vz_128_m15;BR-VZ-128
+modification/us_agm_65/desc;Allows the installation of AGM-65 missiles: {unlockWeapons}
+modification/us_agm_65;AGM-65
+modification/us_agm_84d/desc;Allows the installation of AGM-84D guided anti-ship missiles.
+modification/us_agm_84d;AGM-84D
+engine_model/astazou_16g;Astazou XVIG
+engine_model/rd-33mk;RD-33MK
+engine_model/ai_222_25;AI-222-25
+engine_model/f124_ga_200;F124-GA-200
+engine_model/j57_p_13;J57-P-13
+engine_model/merlin-72;Merlin-72
+engine_model/merlin-73;Merlin-73

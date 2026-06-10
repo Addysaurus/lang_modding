@@ -5446,6 +5446,10 @@ germ_iris_slm_launcher_1;LV IRIS-T SLM (Startfahrzeug)
 germ_iris_slm_launcher_2;SPAAM
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+germ_kanonenboot_k4_lorelei_shop;K 4
+germ_kanonenboot_k4_lorelei_0;Société Anonyme John Cockerill à Seraing (Belgique), Chantier Naval de Hoboken / N.V. Dok en Werf Maatschappij Wilton-Fijenoord, Bau-Nr. 686 | Kanonenboot | K 4 (1943)
+germ_kanonenboot_k4_lorelei_1;K 4
+germ_kanonenboot_k4_lorelei_2;Gunboat
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 germ_s30_s61_shop;S 61
@@ -5549,10 +5553,10 @@ db_lk_1;DB-LK
 db_lk_2;DB-LK
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 2
-yak_1_litvyak_shop;Litvâk's Yak-1
-yak_1_litvyak_0;Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyot Yak-1
-yak_1_litvyak_1;Yak-1
-yak_1_litvyak_2;Yak-1
+yak_1_litvyak_shop;Litvâk's Âk-1
+yak_1_litvyak_0;Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyot Âk-1
+yak_1_litvyak_1;Âk-1
+yak_1_litvyak_2;Âk-1
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 
@@ -5577,6 +5581,10 @@ la_174_1;174
 la_174_2;174
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+yak_130_early_shop;Âk-130
+yak_130_early_0;Irkutskij aviaczionnyj zavod | Samolyot Âk-130
+yak_130_early_1;Âk-130
+yak_130_early_2;Âk-130
 su_25t_shop;Su-25T
 su_25t_0;"Ulan-Udènskij aviaczionnyj zavod | izd. T-8M | Su-25T ""Grač"""
 su_25t_1;Su-25T
@@ -6147,12 +6155,20 @@ ussr_tor_m1_1;9A331-1
 ussr_tor_m1_2;SPAAM
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+ussr_t_90m_2020_shop;T-90M
+ussr_t_90m_2020_0;"Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob""yekt 188M | T-90M obr. 2017 g. ""Proryv-3"""
+ussr_t_90m_2020_1;T-90M
+ussr_t_90m_2020_2;MBT
+ussr_t_90m_arena_m_shop;T-90M (Aryena-M)
+ussr_t_90m_arena_m_0;"Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob""yekt 188M | T-90M obr. 2017 g. ""Proryv-3"" (Komplyeks aktivnoj zaŝity T09-A6-1 ""Aryena-M"")"
+ussr_t_90m_arena_m_1;T-90M
+ussr_t_90m_arena_m_2;MBT
 ussr_t_72b3_arena_m_shop;T-72B3A
 ussr_t_72b3_arena_m_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob""yekt 184-5 | Tank T-72B3A obr. 2024 g."
 ussr_t_72b3_arena_m_1;T-72B3
 ussr_t_72b3_arena_m_2;MBT
 ussr_t_72b3_arena_shop;T-72B3 (Aryena-M)
-ussr_t_72b3_arena_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob""yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6-1 «Aryena-M»)"
+ussr_t_72b3_arena_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob""yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6-1 ""Aryena-M"")"
 ussr_t_72b3_arena_1;T-72B3
 ussr_t_72b3_arena_2;MBT
 ussr_buk_m3_launcher_shop;9A317M
@@ -10105,6 +10121,10 @@ fr_marder_clovis_1;☨ CLOVIS
 fr_marder_clovis_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+fr_leopard_1a5be_shop;Leopard 1 A5 BE
+fr_leopard_1a5be_0;Krauss-Maffei Wegmann | Leopard 1 A5 BE
+fr_leopard_1a5be_1;Leopard 1 A5
+fr_leopard_1a5be_2;MBT
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 fr_msc_shop;MSC
@@ -14684,10 +14704,6 @@ ussr_t_90a_shop;Т-90А
 ussr_t_90a_0;"Ob""yekt 188A1 | Т-90А obr. 2006 g. Vladimir"
 ussr_t_90a_1;Т-90A
 ussr_t_90a_2;MBT
-ussr_t_90m_2020_shop;T-90M
-ussr_t_90m_2020_0;"Ob""yekt 188M | T-90M obr. 2017 g. ""Proryv-3"""
-ussr_t_90m_2020_1;T-90M
-ussr_t_90m_2020_2;MBT
 ussr_t_72av_turms_shop;▄ T-72AV (TURMS-T)
 ussr_t_72av_turms_0;"▄ Ob""yekt 176V | T-72AV obr. 2003 g. (TURMS-T)"
 ussr_t_72av_turms_1;▄ T-72AV

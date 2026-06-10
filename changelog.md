@@ -47,8 +47,11 @@ All dates are listed in DD-MM-YYYY format.
         - **Hummel**
         - **M44/M55** (folder)
         - **Puma u14**
+        - **Lorelei**
         - **Admiral Scheer**
+        - **Yak-130**
         - **J-22M1A**
+        - **T-90M (Arena-M)**
         - **Chernova Ukraina**
         - **Welkin F.Mk.I**
         - **Washington B.Mk.I**
@@ -63,6 +66,7 @@ All dates are listed in DD-MM-YYYY format.
         - **M-346FA**
         - **MAS 429**
         - **F-16AM** (France / Belgium)
+        - **Leopard 1A5BE** (France / Belgium)
         - **Jean Bart**
         - **AJS37 (Early)**
         - **NOMADS**
@@ -89,9 +93,12 @@ All dates are listed in DD-MM-YYYY format.
         - **Mi-24D** (Germany): Statcard name → **Aviaryemontnyj zavod № 116 | Erzeugn. 246 | Hubschrauber Mi-24D**.
         - **Hummel** → **s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)** (I'm so sorry, but that's the real name). Statcard name → **Deutsche Eisenwerke | schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV (Sf.) (Sd.Kfz. 165) "Hummel"**.
         - **Puma u14** → **SPz Puma VJTF (PzGrenBtl 33)**. Statcard name → **Projekt System Management | Schützenpanzer Puma Very High Readiness Joint Task Force (Panzergrenadierbataillon 33)**.
+        - **Lorelei** → **K 4**. Statcard name → **Société Anonyme John Cockerill à Seraing (Belgique), Chantier Naval de Hoboken / N.V. Dok en Werf Maatschappij Wilton-Fijenoord, Bau-Nr. 686 | Kanonenboot | K 4 (1943)**.
         - **Admiral Scheer**: Statcard name → **Reichsmarinewerft Wilhelmshaven, Bau-Nr. 123 / Marinehafen Kaseburg | Panzerschiff Deutschland-Klasse | Admiral Scheer (1943)**.
         - **M44/M55** (folder) → **PzH M 44 / 55**.
+        - **Yak-130** → **Âk-130**. Statcard name → **Irkutskij aviaczionnyj zavod | Samolyot Âk-130**.
         - **J-22M1A**: Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | Avion J-22M1A Orao**.
+        - **T-90M (Arena-M)** → **T-90M (Aryena-M)**. Statcard name → **Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob"yekt 188M | T-90M obr. 2017 g. "Proryv-3" (Komplyeks aktivnoj zaŝity T09-A6-1 "Aryena-M")**.
         - **Chernova Ukraina** → **Čyervona Ukraina**. Statcard name → **Russkomu sudostroityel'nomu akczionyernomu obŝyestvu «Russud» | Lyegkij kryejsyer tip Admiral Nakhimov | Čyervona Ukraina**.
         - **Welkin F.Mk.I** → **Washington F. Mk. I**. Statcard name → **Westland Aircraft | Welkin F. Mk. I**.
         - **Washington B.Mk.I** → **Washington B. Mk. 1**. Statcard name → **Boeing Airplane Company Model 345 | Washington B. Mk. 1**.
@@ -112,6 +119,7 @@ All dates are listed in DD-MM-YYYY format.
         - **M-346FA**: Statcard name → **Alenia Aermacchi M-346FA Master**.
         - **MAS 429**: Statcard name → **Società Veneziana Automobili Navali | Motoscafo Antisommergibili Tipo Autocannionera 1919 | MAS 429**.
         - **F-16AM** (France / Belgium) → **F-16AM-20-CF (1re Esc.)**. Statcard name → **General Dynamics Corporation / Sociétés Anonyme Belge de Constructions Aéronautiques | F-16AM-20-CF Fighting Falcon (1re Escadrille "Stingers")**.
+        - **Leopard 1A5BE** (France / Belgium) → **Leopard 1 A5 BE**. Statcard name → **Krauss-Maffei Wegmann | Leopard 1 A5 BE**.
         - **Jean Bart**: Statcard name → **Ateliers et Chantiers de la Loire + Port de Casablanca + Arsenal de Brest | Cuirassé de la Classe Richelieu | Jean Bart (1955)**.
         - **AJS37 (Early)** → **AJS 37 (F 7)**. Statcard name → **Saab 37 | flygplan typ AJS 37 Viggen (Skaraborgs flygflottilj (F 7))**.
         - **NOMADS**: Statcard name → **Kongsberg Defence & Aerospace National Manoeuvre Air Defence System**.
@@ -210,6 +218,9 @@ All dates are listed in DD-MM-YYYY format.
     - Australia now uses the British roundel. It's not good, but it's the best we got.
     - **F-16AM-15-CF** (France / Belgium) → **F-16AM-20-CF**. Statcard name → **General Dynamics Corporation / Sociétés Anonyme Belge de Constructions Aéronautiques | F-16AM-20-CF Fighting Falcon**.
     - **Admiral Graf Spee**: Statcard name → **Kriegsmarinewerft Wilhelmshaven, Bau-Nr. 125 / Deutsche Werke Kiel | Panzerschiff Deutschland-Klasse | Admiral Graf Spee (1938)**.
+    - **Litvâk's Yak-1** → **Litvâk's Âk-1**.
+    - **T-90M**: Statcard name → **Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob"yekt 188M | T-90M obr. 2017 g. "Proryv-3"**.
+    - **T-73B3 (Aryena-M)**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6-1 "Aryena-M")**.
 
 ### Decals:
 

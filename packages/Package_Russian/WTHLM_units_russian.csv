@@ -127,6 +127,12 @@ la_174_1;174
 la_174_2;174
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+yak_130_early_shop;Як-130
+yak_130_early_0;"<color=#81c3fc>Иркутский авиационный завод</color>
+Самолёт Як-130"
+yak_130_early_1;Як-130
+yak_130_early_2;Як-130
+
 su_25t_shop;Su-25T
 su_25t_0;"<color=#81c3fc>Улан-Удэнский авиационный завод</color>
 <color=#5cae63>изд. Т-8М</color>
@@ -509,6 +515,21 @@ il_tiran_6_1;Ṭiran 6
 il_tiran_6_2;MBT
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+ussr_t_90m_2020_shop;Т-90М
+ussr_t_90m_2020_0;"<color=#81c3fc>Научно-производственная корпорация «УралВагонЗавод»</color>
+<color=#5cae63>Объект 188М</color>
+Танк Т-90М обр. 2017 г. «Прорыв-3»"
+ussr_t_90m_2020_1;Т-90М
+ussr_t_90m_2020_2;MBT
+
+ussr_t_90m_arena_m_shop;Т-90М (Арена-М)
+ussr_t_90m_arena_m_0;"<color=#81c3fc>Научно-производственная корпорация «УралВагонЗавод»</color>
+<color=#5cae63>Объект 188М</color>
+Танк Т-90М обр. 2017 г. «Прорыв-3»
+<color=#adadad>(Комплекс активной защиты Т09-А6-1 «Арена-М»)</color>"
+ussr_t_90m_arena_m_1;Т-90М
+ussr_t_90m_arena_m_2;MBT
+
 ussr_t_80ue1_shop;Т-80У-Е1
 ussr_t_80ue1_0;"<color=#81c3fc>Кировский завод <color=@commonTextColor>/</color> Омский завод транспортного машиностроения</color>
 <color=#5cae63>Обект 219АС-1</color>

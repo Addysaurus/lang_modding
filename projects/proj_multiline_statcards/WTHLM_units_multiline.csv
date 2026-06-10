@@ -3835,14 +3835,22 @@ germ_iris_slm_launcher_1;LV IRIS-T SLM (Startfahrzeug)
 germ_iris_slm_launcher_2;SPAAM
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+germ_kanonenboot_k4_lorelei_shop;K 4
+germ_kanonenboot_k4_lorelei_0;"<color=#81c3fc>Société Anonyme John Cockerill à Seraing (Belgique), Chantier Naval de Hoboken <color=@commonTextColor>/</color> N.V. Dok en Werf Maatschappij Wilton-Fijenoord, Bau-Nr. 686</color>
+<color=#fffa62>Kanonenboot</color>
+<color=#919191>Lorelei</color>
+K 4
+<color=#adadad>(1943)</color>"
+germ_kanonenboot_k4_lorelei_1;K 4
+germ_kanonenboot_k4_lorelei_2;Gunboat
+
+//GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 germ_s30_s61_shop;S 61
 germ_s30_s61_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12854</color>
 <color=#fffa62>Schnellboot (S 54-61)</color>
 S 61"
 germ_s30_s61_1;S 61
 germ_s30_s61_2;Fast Boat
-
-//GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 
@@ -4029,6 +4037,12 @@ la_174_1;174
 la_174_2;174
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+yak_130_early_shop;Âk-130
+yak_130_early_0;"<color=#81c3fc>Irkutskij aviaczionnyj zavod</color>
+Samolyot Âk-130"
+yak_130_early_1;Âk-130
+yak_130_early_2;Âk-130
+
 su_25t_shop;Su-25T
 su_25t_0;"<color=#81c3fc>Ulan-Udènskij aviaczionnyj zavod</color>
 <color=#5cae63>izd. T-8M</color>
@@ -4960,6 +4974,21 @@ ussr_tor_m1_1;9A331-1
 ussr_tor_m1_2;SPAAM
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+ussr_t_90m_2020_shop;Т-90М
+ussr_t_90m_2020_0;"<color=#81c3fc>Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod»</color>
+<color=#5cae63>Ob""yekt 188M</color>
+Танк T-90M obr. 2017 g. ""Proryv-3"""
+ussr_t_90m_2020_1;Т-90М
+ussr_t_90m_2020_2;MBT
+
+ussr_t_90m_arena_m_shop;T-90M (Aryena-M)
+ussr_t_90m_arena_m_0;"<color=#81c3fc>Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod»</color>
+<color=#5cae63>Ob""yekt 188M</color>
+T-90M obr. 2017 g. ""Proryv-3""
+<color=#adadad>(Komplyeks aktivnoj zaŝity T09-A6-1 ""Aryena-M"")</color>"
+ussr_t_90m_arena_m_1;T-90M
+ussr_t_90m_arena_m_2;MBT
+
 ussr_t_72b3_arena_m_shop;T-72B3A
 ussr_t_72b3_arena_m_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo <color=@commonTextColor>/</color>
 Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro
@@ -11331,6 +11360,11 @@ fr_marder_clovis_1;☨ CLOVIS
 fr_marder_clovis_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+fr_leopard_1a5be_shop;Leopard 1 A5 BE
+fr_leopard_1a5be_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Leopard 1 A5 BE"
+fr_leopard_1a5be_1;Leopard 1 A5
+fr_leopard_1a5be_2;MBT
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 fr_msc_shop;MSC

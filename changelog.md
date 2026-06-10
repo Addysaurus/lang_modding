@@ -39,11 +39,15 @@ All dates are listed in DD-MM-YYYY format.
         - **M60A1 Predator**
         - **M1A2 (Trophy-HV)**
         - **M1A2 SEPv3**
+        - **USS Gridley**
+        - **USS North Carolina**
         - **Fw 189 C**
         - **IA.58A Pucara**
+        - **Mi-24D** (Germany)
         - **Hummel**
         - **M44/M55** (folder)
         - **Puma u14**
+        - **Admiral Scheer**
         - **J-22M1A**
         - **Chernova Ukraina**
         - **Welkin F.Mk.I**
@@ -58,7 +62,9 @@ All dates are listed in DD-MM-YYYY format.
         - **F-16V** (China / Taiwan)
         - **M-346FA**
         - **MAS 429**
+        - **F-16AM** (France / Belgium)
         - **Jean Bart**
+        - **AJS37 (Early)**
         - **NOMADS**
         - **MiG-21 2000**
         - **Hunter AFV**
@@ -76,10 +82,14 @@ All dates are listed in DD-MM-YYYY format.
         - **M60A1 Predator** → **M60A1 R/PE «Predator»**. Statcard name → **Detroit Arsenal Tank Plant | Tank, Combat, Full Tracked: 105mm Gun, M60A1 Reliability Improvement of Selected Equipment Passive «Predator»**.
         - **M1A2 (Trophy-HV)** → **M1A2 SEPv2 (Trophy HV)**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package Version 2, Tank Urban Survival Kit 2 (Trophy HV)**.
         - **M1A2 SEPv3**: Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package Version 3**.
+        - **USS Gridley** → **USS Gridley (DD-380)**. Statcard name → **Fore River Shipyard / U.S. Repair Base, San Diego | Gridley-class Destroyer | USS Gridley (DD-380) (1943)**.
+        - **USS North Carolina** → **USS Gridley (BB-55)**. Statcard name → **Brooklyn Navy Yard | North Carolina-class Battleship | USS North Carolina (BB-55) (1942)**.
         - **Fw 189 C** → **Fw 189 V6**. Statcard name → **Focke-Wulf Flugzeugbau | Fw 189 V6 "Uhu"**.
         - **IA.58A Pucara** → **IA. 58A**. Statcard name → **Fábrica Militar de Aviones | IA. 58A Pucará**.
-        - **Hummel** → **s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)** (I'm so sorry, but that's the real name). Statcard name → **Deutsche Eisenwerke | schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV (Sf.) (Sd.Kfz. 165)**.
+        - **Mi-24D** (Germany): Statcard name → **Aviaryemontnyj zavod № 116 | Erzeugn. 246 | Hubschrauber Mi-24D**.
+        - **Hummel** → **s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)** (I'm so sorry, but that's the real name). Statcard name → **Deutsche Eisenwerke | schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV (Sf.) (Sd.Kfz. 165) "Hummel"**.
         - **Puma u14** → **SPz Puma VJTF (PzGrenBtl 33)**. Statcard name → **Projekt System Management | Schützenpanzer Puma Very High Readiness Joint Task Force (Panzergrenadierbataillon 33)**.
+        - **Admiral Scheer**: Statcard name → **Reichsmarinewerft Wilhelmshaven, Bau-Nr. 123 / Marinehafen Kaseburg | Panzerschiff Deutschland-Klasse | Admiral Scheer (1943)**.
         - **M44/M55** (folder) → **PzH M 44 / 55**.
         - **J-22M1A**: Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | Avion J-22M1A Orao**.
         - **Chernova Ukraina** → **Čyervona Ukraina**. Statcard name → **Russkomu sudostroityel'nomu akczionyernomu obŝyestvu «Russud» | Lyegkij kryejsyer tip Admiral Nakhimov | Čyervona Ukraina**.
@@ -101,7 +111,9 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 37 mm Twin-Barrel Self-Propelled Gun | PGZ1988式双管37毫米履带式自行高炮**.
         - **M-346FA**: Statcard name → **Alenia Aermacchi M-346FA Master**.
         - **MAS 429**: Statcard name → **Società Veneziana Automobili Navali | Motoscafo Antisommergibili Tipo Autocannionera 1919 | MAS 429**.
+        - **F-16AM** (France / Belgium) → **F-16AM-20-CF (1re Esc.)**. Statcard name → **General Dynamics Corporation / Sociétés Anonyme Belge de Constructions Aéronautiques | F-16AM-20-CF Fighting Falcon (1re Escadrille "Stingers")**.
         - **Jean Bart**: Statcard name → **Ateliers et Chantiers de la Loire + Port de Casablanca + Arsenal de Brest | Cuirassé de la Classe Richelieu | Jean Bart (1955)**.
+        - **AJS37 (Early)** → **AJS 37 (F 7)**. Statcard name → **Saab 37 | flygplan typ AJS 37 Viggen (Skaraborgs flygflottilj (F 7))**.
         - **NOMADS**: Statcard name → **Kongsberg Defence & Aerospace National Manoeuvre Air Defence System**.
         - **MiG-21 2000**: Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye im. P. V. Dyemyent'yeva / ha-Ta'asiah ha-'Avirit le-Yisra'el + Aerostar MiG-21 2000**.
             - Hebrew package: Statcard name → **MiG-21 2000 Aerostar + התעשייה האווירית לישראל / Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye im. P. V. Dyemyent'yeva**.
@@ -169,10 +181,10 @@ All dates are listed in DD-MM-YYYY format.
             - Thai package: **บีทีอาร์ ๓ อี ๑** → **รก. บีทีอาร์ ๓ อี ๑**.
             - Ukrainian package: **Bīthīxār 3 Xī 1** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Rot Kro Lo Yāng Bīthīār 3 Ī 1**.
             - Thai + Ukrainian package: **บีทีอาร์ ๓ อี ๑** → **รก. บีทีอาร์ ๓ อี ๑**.
-        - **Th.Hlạk Xěm 60 Xe 3** → **Th.Hlak Em 60 E 3**. Statcard name → **Chrysler Defense Engineering | Rot Thang Hlak Em 60 E 3**.
+        - **Th.Hlạk Xěm 60 Xe 3** → **Th.Lak Em 60 E 3**. Statcard name → **Chrysler Defense Engineering | Rot Thang Lak Em 60 E 3**.
         - **Th.Bao 32**: Statcard name → **Cadillac Gage Stingray | Rot Thang Bao 32**.
-        - **Th.Hlạk 57** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rot Thang Hlak 57**.
-            - Ukrainian package: **Th.Hlạk 57** → **Rk. Bīthīār 3 Ī 1**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Rot Thang Hlak 57**.
+        - **Th.Hlạk 57** → **Th.Lak 57**. Statcard name → **Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rot Thang Lak 57**.
+            - Ukrainian package: **Th.Hlạk 57** → **Th.Lak 57**. Statcard name → **Харківське конструкторське бюро з машинобудування ім. О. О. Морозова | Rot Thang Lak 57**.
     - **s.Pz.Kpfw. 754 (r)**: Statcard name → **Kirovskij zavod | schwerer Panzerkampfwagen KW II | schwerer Panzerkampfwagen 754 (r)**.
     - **Pz.Kpfw. 747 (r) D** → **Pz.Kpfw. 747 (r)**. Statcard name → **Ural'skij tankovyj zavod (Zavod №183) | Panzerkampfwagen T 34 Ausf. D | Panzerkampfwagen 747 (r)**.
     - **s.Pz.Kpfw. 756 (r)**: Statcard name → **Kirovskij zavod Narkomata tankovoj promyšlyennosti v gorodye Čyelâbinskye (Zavod № 100) | schwerer Panzerkampfwagen KW I Ausf. C | schwerer Panzerkampfwagen 756 (r) mit 7,5cm Kw.K. 40**.
@@ -195,6 +207,9 @@ All dates are listed in DD-MM-YYYY format.
     - **F-15J-MIT** (Japan) (all versions) → **F-15J**.
     - **F-2A-MIT (C10)** → **F-2A (C10)**.
     - **XF-2A-MIT (Hi Kai Ji Dan)** → **XF-2A (Hi Kai Ji Dan)**.
+    - Australia now uses the British roundel. It's not good, but it's the best we got.
+    - **F-16AM-15-CF** (France / Belgium) → **F-16AM-20-CF**. Statcard name → **General Dynamics Corporation / Sociétés Anonyme Belge de Constructions Aéronautiques | F-16AM-20-CF Fighting Falcon**.
+    - **Admiral Graf Spee**: Statcard name → **Kriegsmarinewerft Wilhelmshaven, Bau-Nr. 125 / Deutsche Werke Kiel | Panzerschiff Deutschland-Klasse | Admiral Graf Spee (1938)**.
 
 ### Decals:
 

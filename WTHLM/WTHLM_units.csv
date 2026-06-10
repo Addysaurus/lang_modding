@@ -3682,9 +3682,9 @@ us_m1a1_abrams_yt_cup_2019_shop;␙ M1A1
 us_m1a1_abrams_yt_cup_2019_0;␙ General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams
 us_m1a1_abrams_yt_cup_2019_1;␙ M1A1
 us_m1a1_abrams_yt_cup_2019_2;MBT
-us_m1a1_aim_abrams_shop;M1A1 AIM SA
-us_m1a1_aim_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams Integrated Management, Situational Awareness
-us_m1a1_aim_abrams_1;M1A1 AIM SA
+us_m1a1_aim_abrams_shop;▃▄ M1A1 AIM SA
+us_m1a1_aim_abrams_0;▃▄ General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams Integrated Management, Situational Awareness
+us_m1a1_aim_abrams_1;▃▄ M1A1 AIM SA
 us_m1a1_aim_abrams_2;MBT
 us_m1a1_hc_usmc_shop;M1A1HC «Click-Bait»
 us_m1a1_hc_usmc_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Heavy Common «Click-Bait»
@@ -3910,14 +3910,6 @@ us_destroyer_farragut_1942_1;USS Aylwin
 us_destroyer_farragut_1942_2;Destroyer
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
-us_destroyer_bagley_class_bagley_shop;USS Bagley (DD-386)
-us_destroyer_bagley_class_bagley_0;Norfolk Naval Shipyard | Bagley-class Destroyer | USS Bagley (DD-386)
-us_destroyer_bagley_class_bagley_1;USS Bagley
-us_destroyer_bagley_class_bagley_2;Destroyer
-us_destroyer_bagley_class_helm_shop;USS Helm (DD-388)
-us_destroyer_bagley_class_helm_0;Norfolk Naval Shipyard / Mare Island Naval Shipyard | Bagley-class Destroyer | USS Helm (DD-388) (1944)
-us_destroyer_bagley_class_helm_1;USS Helm
-us_destroyer_bagley_class_helm_2;Destroyer
 us_destroyer_fletcher_shop;USS Fletcher (DD-445)
 us_destroyer_fletcher_0;Federal Shipbuilding and Drydock Company | Fletcher-class Destroyer | USS Fletcher (DD-445)
 us_destroyer_fletcher_1;USS Fletcher
@@ -3934,6 +3926,18 @@ us_destroyer_fletcher_bennion_shop;USS Bennion (DD-662)
 us_destroyer_fletcher_bennion_0;Boston Naval Shipyard | Fletcher-class Destroyer | USS Bennion (DD-662)
 us_destroyer_fletcher_bennion_1;USS Bennion
 us_destroyer_fletcher_bennion_2;Destroyer
+us_destroyer_gridley_shop;USS Gridley (DD-380)
+us_destroyer_gridley_0;Fore River Shipyard / U.S. Repair Base, San Diego | Gridley-class Destroyer | USS Gridley (DD-380) (1943)
+us_destroyer_gridley_1;USS Gridley
+us_destroyer_gridley_2;Destroyer
+us_destroyer_bagley_class_bagley_shop;USS Bagley (DD-386)
+us_destroyer_bagley_class_bagley_0;Norfolk Naval Shipyard | Bagley-class Destroyer | USS Bagley (DD-386)
+us_destroyer_bagley_class_bagley_1;USS Bagley
+us_destroyer_bagley_class_bagley_2;Destroyer
+us_destroyer_bagley_class_helm_shop;USS Helm (DD-388)
+us_destroyer_bagley_class_helm_0;Norfolk Naval Shipyard / Mare Island Naval Shipyard | Bagley-class Destroyer | USS Helm (DD-388) (1944)
+us_destroyer_bagley_class_helm_1;USS Helm
+us_destroyer_bagley_class_helm_2;Destroyer
 us_destroyer_mitscher_shop;USS Mitscher (DL-2)
 us_destroyer_mitscher_0;Bath Iron Works | Mitscher-class Destroyer Leader | USS Mitscher (DL-2)
 us_destroyer_mitscher_1;USS Mitscher
@@ -4116,6 +4120,10 @@ us_battleship_south_dakota_shop;USS South Dakota (BB-57)
 us_battleship_south_dakota_0;New York Shipbuilding Corporation / Puget Sound Naval Shipyard and Intermediate Maintenance Facility | South Dakota-class Battleship | USS South Dakota (BB-57) (1944)
 us_battleship_south_dakota_1;USS South Dakota
 us_battleship_south_dakota_2;Battleship
+us_battleship_north_carolina_class_shop;USS North Carolina (BB-55)
+us_battleship_north_carolina_class_0;Brooklyn Navy Yard | North Carolina-class Battleship | USS North Carolina (BB-55) (1942)
+us_battleship_north_carolina_class_1;USS North Carolina
+us_battleship_north_carolina_class_2;Battleship
 us_battleship_iowa_class_iowa_shop;USS Iowa (BB-61)
 us_battleship_iowa_class_iowa_0;Brooklyn Navy Yard / Hunters Point Naval Shipyard | Iowa-class Battleship | USS Iowa (BB-61) (1945)
 us_battleship_iowa_class_iowa_1;USS Iowa
@@ -4918,6 +4926,10 @@ bo_105pah1_a1_shop;PAH 1 A1
 bo_105pah1_a1_0;Panzerabwehrhubschrauber 1 A1
 bo_105pah1_a1_1;PAH 1 A1
 bo_105pah1_a1_2;PAH 1
+mi_24d_german_shop;◊ Mi-24D
+mi_24d_german_0;◊ Aviaryemontnyj zavod № 116 | Erzeugn. 246 | Hubschrauber Mi-24D
+mi_24d_german_1;◊ Mi-24D
+mi_24d_german_2;◊ Mi-24
 mi_24p_german_shop;◊ Mi-24P
 mi_24p_german_0;◊ Mi-24P
 mi_24p_german_1;◊ Mi-24P
@@ -5173,7 +5185,7 @@ germ_stuh_III_ausf_G_0;Sturmhaubitze 42 Ausf. G
 germ_stuh_III_ausf_G_1;StuH 42 G
 germ_stuh_III_ausf_G_2;SPG
 germ_hummel_shop;s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)
-germ_hummel_0;Deutsche Eisenwerke | schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV (Sf.) (Sd.Kfz. 165)
+germ_hummel_0;"Deutsche Eisenwerke | schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV (Sf.) (Sd.Kfz. 165) ""Hummel"""
 germ_hummel_1;s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)
 germ_hummel_2;SPG
 germ_panzerwerfer_42_shop;15 cm Pz.W.42
@@ -5472,12 +5484,21 @@ germ_destroyer_class1944_z52_shop;Z 52
 germ_destroyer_class1944_z52_0;"Deutsche Schiff- und Maschinenbau A.G. ""Weser"" | Zerstörer Typ 1944 | Z 52"
 germ_destroyer_class1944_z52_1;Z 52
 germ_destroyer_class1944_z52_2;Destroyer
+
+//GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 germ_destroyer_lutjens_class_lutjens_shop;Lütjens (D 185)
 germ_destroyer_lutjens_class_lutjens_0;Bath Iron Works | Zerstörer Lütjens-Klasse (Typ 103) | Lütjens (D 185)
 germ_destroyer_lutjens_class_lutjens_1;Lütjens
 germ_destroyer_lutjens_class_lutjens_2;Destroyer
 
-//GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+germ_cruiser_admiral_graf_spee_shop;Admiral Graf Spee
+germ_cruiser_admiral_graf_spee_0;Kriegsmarinewerft Wilhelmshaven, Bau-Nr. 125 / Deutsche Werke Kiel | Panzerschiff Deutschland-Klasse | Admiral Graf Spee (1938)
+germ_cruiser_admiral_graf_spee_1;Admiral Graf Spee
+germ_cruiser_admiral_graf_spee_2;Armored Ship
+germ_cruiser_admiral_scheer_shop;Admiral Scheer
+germ_cruiser_admiral_scheer_0;Reichsmarinewerft Wilhelmshaven, Bau-Nr. 123 / Marinehafen Kaseburg | Panzerschiff Deutschland-Klasse | Admiral Scheer (1943)
+germ_cruiser_admiral_scheer_1;Admiral Scheer
+germ_cruiser_admiral_scheer_2;Armored Ship
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 germ_battleship_konig_shop;SMS König
@@ -6513,14 +6534,14 @@ uk_challenger_2_megatron_sm_shop;◍ Emily's Challenger 2 TES (2H) (2011)
 uk_challenger_2_megatron_sm_0;◍ Vickers Defence Systems | F.V.4034 | Emily's Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard (Dorchester Level 2H) (2011)
 uk_challenger_2_megatron_sm_1;◍ Challenger 2 TES
 uk_challenger_2_megatron_sm_2;MBT
-uk_m1a1_aim_abrams_shop;M1A1 AIM SA
-uk_m1a1_aim_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams Integrated Management, Situational Awareness
-uk_m1a1_aim_abrams_1;M1A1 AIM SA
+uk_m1a1_aim_abrams_shop;▄ M1A1 AIM SA
+uk_m1a1_aim_abrams_0;▄ General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams Integrated Management, Situational Awareness
+uk_m1a1_aim_abrams_1;▄ M1A1 AIM SA
 uk_m1a1_aim_abrams_2;MBT
-uk_m1a1_aim_abrams_shop;M1A2 SEPv3
-uk_m1a1_aim_abrams_0;General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2, System Enhancement Package Version 3
-uk_m1a1_aim_abrams_1;M1A2 SEPv3
-uk_m1a1_aim_abrams_2;MBT
+uk_m1a2_sep3_abrams_shop;▄ M1A2 SEPv3
+uk_m1a2_sep3_abrams_0;▄ General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2, System Enhancement Package Version 3
+uk_m1a2_sep3_abrams_1;▄ M1A2 SEPv3
+uk_m1a2_sep3_abrams_2;MBT
 uk_sky_sabre_launcher_shop;SV 15T (Land Ceptor)
 uk_sky_sabre_launcher_0;Rafael International + MBDA UK | Support Vehicle 15-Tonne (Land Ceptor)
 uk_sky_sabre_launcher_1;SV 15T (Land Ceptor)
@@ -7871,9 +7892,9 @@ jp_btr_3e1_shop;Rk. Bīthīār 3 Ī 1
 jp_btr_3e1_0;Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rot Kro Lo Yāng Bīthīār 3 Ī 1
 jp_btr_3e1_1;Rk. Bīthīār 3 Ī 1
 jp_btr_3e1_2;IFV
-jp_m60a3_tts_shop;Th.Hlak Em 60 E 3
-jp_m60a3_tts_0;Chrysler Defense Engineering | Rot Thang Hlak Em 60 E 3
-jp_m60a3_tts_1;Th.Hlak Em 60 E 3
+jp_m60a3_tts_shop;Th.Lak Em 60 E 3
+jp_m60a3_tts_0;Chrysler Defense Engineering | Rot Thang Lak Em 60 E 3
+jp_m60a3_tts_1;Th.Lak Em 60 E 3
 jp_m60a3_tts_2;MBT
 jp_stingray_shop;Th.Bao 32
 jp_stingray_0;Cadillac Gage Stingray | Rot Thang Bao 32
@@ -7947,9 +7968,9 @@ jp_type_03_chusam_launcher_shop;03 Shiki Has Sō
 jp_type_03_chusam_launcher_0;Mitsubishi Jū Kōgyō | 03 Shiki Chūkyori Chi Taikū Yūdōdan Hassha Sōchi
 jp_type_03_chusam_launcher_1;03 Shiki Has Sō
 jp_type_03_chusam_launcher_2;Radar
-jp_oplot_t_shop;Th.Hlak 57
-jp_oplot_t_0;Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rot Thang Hlak 57
-jp_oplot_t_1;Th.Hlak 57
+jp_oplot_t_shop;Th.Lak 57
+jp_oplot_t_0;Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O. Morozova | Rot Thang Lak 57
+jp_oplot_t_1;Th.Lak 57
 jp_oplot_t_2;MBT
 
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
@@ -9948,18 +9969,14 @@ mirage_2000c_s4_shop;Mirage 2000 C S4
 mirage_2000c_s4_0;Avions Marcel Dassault-Breguet Aviation | Mirage 2000 C S4
 mirage_2000c_s4_1;Mirage 2000 C
 mirage_2000c_s4_2;Mirage 2000
-rafale_c_f3_shop;Rafale C (F3R)
-rafale_c_f3_0;Dassault Aviation | Rafale C (F3R)
-rafale_c_f3_1;Rafale C
-rafale_c_f3_2;Rafale
-rafale_m_f3r_shop;Rafale M (F3R)
-rafale_m_f3r_0;Dassault Aviation | Rafale M (F3R)
-rafale_m_f3r_1;Rafale M
-rafale_m_f3r_2;Rafale
 mirage_4000_shop;Mirage 4000 (1986)
 mirage_4000_0;Avions Marcel Dassault-Breguet Aviation | Mirage 4000 (1986)
 mirage_4000_1;Mirage 4000
 mirage_4000_2;Mirage 4000
+f_16am_block_15_mlu_belgium_shop;▄ F-16AM-20-CF
+f_16am_block_15_mlu_belgium_0;▄ General Dynamics Corporation / Sociétés Anonyme Belge de Constructions Aéronautiques | F-16AM-20-CF Fighting Falcon
+f_16am_block_15_mlu_belgium_1;▄ F-16AM
+f_16am_block_15_mlu_belgium_2;▄ F-16
 f_16a_block_15_ocu_belgium_shop;▄ F-16A-15OCU-CF
 f_16a_block_15_ocu_belgium_0;▄ General Dynamics Corporation / Sociétés Anonyme Belge de Constructions Aéronautiques | F-16A-15OCU-CF Fighting Falcon
 f_16a_block_15_ocu_belgium_1;▄ F-16A
@@ -9968,6 +9985,20 @@ f_16a_block_5_netherlands_shop;◘ F-16A-5-CF
 f_16a_block_5_netherlands_0;◘ General Dynamics Corporation / N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | F-16A-5-CF Fighting Falcon
 f_16a_block_5_netherlands_1;◘ F-16A
 f_16a_block_5_netherlands_2;◘ F-16
+f_16am_block_15_mlu_fs_belgium_shop;▄ F-16AM-20-CF (1re Esc.)
+f_16am_block_15_mlu_fs_belgium_0;"▄ General Dynamics Corporation / Sociétés Anonyme Belge de Constructions Aéronautiques | F-16AM-20-CF Fighting Falcon (1re Escadrille ""Stingers"")"
+f_16am_block_15_mlu_fs_belgium_1;▄ F-16A
+f_16am_block_15_mlu_fs_belgium_2;▄ F-16
+
+//FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 9
+rafale_c_f3_shop;Rafale C (F3R)
+rafale_c_f3_0;Dassault Aviation | Rafale C (F3R)
+rafale_c_f3_1;Rafale C
+rafale_c_f3_2;Rafale
+rafale_m_f3r_shop;Rafale M (F3R)
+rafale_m_f3r_0;Dassault Aviation | Rafale M (F3R)
+rafale_m_f3r_1;Rafale M
+rafale_m_f3r_2;Rafale
 
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 sa_313b_france_shop;SE 313 B
@@ -10518,6 +10549,10 @@ saab_ajs37_shop;AJS 37
 saab_ajs37_0;Saab 37 | flygplan typ AJS 37 Viggen
 saab_ajs37_1;AJS 37
 saab_ajs37_2;AJS 37
+saab_ajs37_early_shop;AJS 37 (F 7)
+saab_ajs37_early_0;Saab 37 | flygplan typ AJS 37 Viggen (Skaraborgs flygflottilj (F 7))
+saab_ajs37_early_1;AJS 37
+saab_ajs37_early_2;AJS 37
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 saab_j35xs_shop;DKS (1993)
@@ -14937,10 +14972,6 @@ f_16a_block_15_belgium_shop;▄ F-16A-15-CF
 f_16a_block_15_belgium_0;▄ F-16A-15-CF Fighting Falcon
 f_16a_block_15_belgium_1;▄ F-16A
 f_16a_block_15_belgium_2;▄ F-16
-f_16am_block_15_mlu_belgium_shop;▄ F-16AM-15-CF
-f_16am_block_15_mlu_belgium_0;▄ F-16AM-15-CF Fighting Falcon
-f_16am_block_15_mlu_belgium_1;▄ F-16AM
-f_16am_block_15_mlu_belgium_2;▄ F-16
 tiger_hap_france_shop;☨ Tigre HAP/F
 tiger_hap_france_0;☨ Tigre, Hélicoptère d'Appui Protection (Standard 1)
 tiger_hap_france_1;☨ Tigre HAP
@@ -15652,10 +15683,6 @@ germ_destroyer_class1924_jaguar1941_shop;Jaguar
 germ_destroyer_class1924_jaguar1941_0;Raubtier-class, Jaguar, 1941
 germ_destroyer_class1924_jaguar1941_1;Jaguar
 germ_destroyer_class1924_jaguar1941_2;Destroyer
-germ_cruiser_admiral_graf_spee_shop;Admiral Graf Spee
-germ_cruiser_admiral_graf_spee_0;Deutschland-class, Admiral Graf Spee, 1939
-germ_cruiser_admiral_graf_spee_1;Admiral Graf Spee
-germ_cruiser_admiral_graf_spee_2;Heavy Cruiser
 germ_cruiser_prinz_eugen_shop;Prinz Eugen
 germ_cruiser_prinz_eugen_0;Admiral Hipper-class, Prinz Eugen, 1945
 germ_cruiser_prinz_eugen_1;Prinz Eugen

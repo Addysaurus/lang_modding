@@ -51,6 +51,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Admiral Scheer**
         - **Yak-130**
         - **J-22M1A**
+        - **MiG-29K (9-41R)**
         - **T-90M (Arena-M)**
         - **Chernova Ukraina**
         - **Welkin F.Mk.I**
@@ -98,6 +99,7 @@ All dates are listed in DD-MM-YYYY format.
         - **M44/M55** (folder) → **PzH M 44 / 55**.
         - **Yak-130** → **Âk-130**. Statcard name → **Irkutskij aviaczionnyj zavod | Samolyot Âk-130**.
         - **J-22M1A**: Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | Avion J-22M1A Orao**.
+        - **MiG-29K (9-41R)** → **MiG-29KR**. Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye im. P. V. Dyemyent'yeva | izd. 9-41R | Samolyot MiG-29KR**.
         - **T-90M (Arena-M)** → **T-90M (Aryena-M)**. Statcard name → **Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob"yekt 188M | T-90M obr. 2017 g. "Proryv-3" (Komplyeks aktivnoj zaŝity T09-A6-1 "Aryena-M")**.
         - **Chernova Ukraina** → **Čyervona Ukraina**. Statcard name → **Russkomu sudostroityel'nomu akczionyernomu obŝyestvu «Russud» | Lyegkij kryejsyer tip Admiral Nakhimov | Čyervona Ukraina**.
         - **Welkin F.Mk.I** → **Washington F. Mk. I**. Statcard name → **Westland Aircraft | Welkin F. Mk. I**.

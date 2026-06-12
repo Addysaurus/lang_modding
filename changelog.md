@@ -65,6 +65,7 @@ All dates are listed in DD-MM-YYYY format.
         - **JH-7A2**
         - **F-16V** (China / Taiwan)
         - **M-346FA**
+        - **Palmaria**
         - **MAS 429**
         - **F-16AM** (France / Belgium)
         - **Leopard 1A5BE** (France / Belgium)
@@ -119,6 +120,7 @@ All dates are listed in DD-MM-YYYY format.
         - **PGZ88**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī 37 mm Twin-Barrel Self-Propelled Gun | PGZ1988 Shì Shuāng Guan 37 Háomi Lüdài Shì Zì Háng Gāo Pào**.
             - Mandarin package: Statcard name → **中国兵器工业集团有限公司 37 mm Twin-Barrel Self-Propelled Gun | PGZ1988式双管37毫米履带式自行高炮**.
         - **M-346FA**: Statcard name → **Alenia Aermacchi M-346FA Master**.
+        - **Palmaria**: Statcard name → **OTO Melara Obice semovente Palmaria 155/41**.
         - **MAS 429**: Statcard name → **Società Veneziana Automobili Navali | Motoscafo Antisommergibili Tipo Autocannionera 1919 | MAS 429**.
         - **F-16AM** (France / Belgium) → **F-16AM-20-CF (1re Esc.)**. Statcard name → **General Dynamics Corporation / Sociétés Anonyme Belge de Constructions Aéronautiques | F-16AM-20-CF Fighting Falcon (1re Escadrille "Stingers")**.
         - **Leopard 1A5BE** (France / Belgium) → **Leopard 1 A5 BE**. Statcard name → **Krauss-Maffei Wegmann | Leopard 1 A5 BE**.
@@ -223,6 +225,18 @@ All dates are listed in DD-MM-YYYY format.
     - **Litvâk's Yak-1** → **Litvâk's Âk-1**.
     - **T-90M**: Statcard name → **Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob"yekt 188M | T-90M obr. 2017 g. "Proryv-3"**.
     - **T-73B3 (Aryena-M)**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6-1 "Aryena-M")**.
+
+### Weaponry:
+
+- #### Additions:
+
+    - **AIM-54C+**
+    - **Pampero**
+    - **Aspid**
+
+- #### Changes:
+
+    - **AIM-54C+** → **AIM-54C (ECP-82)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix (ECP-82)**.
 
 ### Decals:
 

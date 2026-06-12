@@ -615,6 +615,10 @@ weapons/227mm_m270_rocket_launcher/short;M26A2
 227mm_m26a2;M26A2
 
 //GERMANY ROCKETS
+weapons/ar_pampero;Cohete 105 mm Pampero <color=#ff6f00>RKT</color>
+weapons/ar_pampero/short;Pampero
+weapons/ar_aspid_1057;Cohete 57 mm Áspid <color=#ff6f00>RKT</color>
+weapons/ar_aspid_1057/short;Áspid
 weapons/jato_booster_left;Flugzeug Start Rakete 69 <color=#ff6f00>RKT-JATO</color>
 weapons/jato_booster_left/short;Flz.Sta.Rak. 69
 weapons/jato_booster_right;Flugzeug Start Rakete 69 <color=#ff6f00>RKT-JATO</color>
@@ -772,9 +776,13 @@ weapons/us_aim_54a/short;AIM-54A
 weapons/us_aim_54a_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54A Phoenix <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_54a_default/short;AIM-54A
 weapons/us_aim_54c;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_54c/short;AIM-54C
 weapons/us_aim_54c_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_54c_default/short;AIM-54C
-weapons/us_aim_54c/short;AIM-54C
+weapons/us_aim_54c_plus;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix (ECP-82) <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_54c_plus/short;AIM-54C (ECP-82)
+weapons/us_aim_54c_plus_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix (ECP-82) <color=#ff6f00>AAM-ARH</color>
+weapons/us_aim_54c_plus_default/short;AIM-54C (ECP-82)
 weapons/us_aim_120a;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120A AMRAAM <color=#ff6f00>AAM-ARH</color>
 weapons/us_aim_120a/short;AIM-120A
 weapons/us_aim_120a_default;Air-Launched, Intercept-Aerial, Guided Missile, AIM-120A AMRAAM <color=#ff6f00>AAM-ARH</color>

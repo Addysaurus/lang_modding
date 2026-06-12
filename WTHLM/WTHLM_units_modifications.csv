@@ -468,10 +468,18 @@ Loadout unlocked: 987 kg <color=@userlogColoredText>GBU-64(V)1/B</color> GNSS-gu
 
 //GERMANY ROCKETS
 modification/pampero;Pampero
-modification/pampero/desc;Allows the installation of Yaguarete Pampero unguided rockets.
+modification/pampero/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Yaguareté III</color> rocket launcher on <color=@userlogColoredText>Alkan 105E</color> pylon:
+  • <color=@userlogColoredText>{unlockWeapons}</color> <color=#ff6f00>RKT</color> x6
+• <color=@userlogColoredText>Yaguareté III</color> rocket launcher on <color=@userlogColoredText>Alkan 115E</color> pylon:
+  • <color=@userlogColoredText>{unlockWeapons}</color> <color=#ff6f00>RKT</color> x6"
 
 modification/aspid;IA. C 1057 Áspid ARM AP
-modification/aspid/desc;Allows the installation of Mamboreta Aspid unguided rockets.
+modification/aspid/desc;"Loadout unlocked:
+• <color=@userlogColoredText>ARM-657A Mamboretá</color> rocket launcher on <color=@userlogColoredText>Alkan 105E</color> pylon:
+  • <color=@userlogColoredText>{unlockWeapons}</color> <color=#ff6f00>RKT</color> x6
+• <color=@userlogColoredText>ARM-657A Mamboretá</color> rocket launcher on <color=@userlogColoredText>Alkan 115E</color> pylon:
+  • <color=@userlogColoredText>{unlockWeapons}</color> <color=#ff6f00>RKT</color> x6"
 
 //USSR ROCKETS
 

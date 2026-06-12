@@ -60,6 +60,7 @@ All dates are listed in DD-MM-YYYY format.
         - **M1A2** (UK / Australia)
         - **MTB-523**
         - **HMS Egret**
+        - **L-39ZA/ART** (Japan / Thailand)
         - **Leopard 2RI** (Japan / Indonesia)
         - **JDS Ujishima (MSC-655)**
         - **JH-7A2**
@@ -91,7 +92,7 @@ All dates are listed in DD-MM-YYYY format.
         - **USS Gridley** → **USS Gridley (DD-380)**. Statcard name → **Fore River Shipyard / U.S. Repair Base, San Diego | Gridley-class Destroyer | USS Gridley (DD-380) (1943)**.
         - **USS North Carolina** → **USS Gridley (BB-55)**. Statcard name → **Brooklyn Navy Yard | North Carolina-class Battleship | USS North Carolina (BB-55) (1942)**.
         - **Fw 189 C** → **Fw 189 V6**. Statcard name → **Focke-Wulf Flugzeugbau | Fw 189 V6 "Uhu"**.
-        - **IA.58A Pucara** → **IA. 58A**. Statcard name → **Fábrica Militar de Aviones | IA. 58A Pucará**.
+        - **IA.58A Pucara** → **IA. 58A**. Statcard name → **Fábrica Militar de Aviones | Avion IA. 58A Pucará**.
         - **Mi-24D** (Germany): Statcard name → **Aviaryemontnyj zavod № 116 | Erzeugn. 246 | Hubschrauber Mi-24D**.
         - **Hummel** → **s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)** (I'm so sorry, but that's the real name). Statcard name → **Deutsche Eisenwerke | schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV (Sf.) (Sd.Kfz. 165) "Hummel"**.
         - **Puma u14** → **SPz Puma VJTF (PzGrenBtl 33)**. Statcard name → **Projekt System Management | Schützenpanzer Puma Very High Readiness Joint Task Force (Panzergrenadierbataillon 33)**.
@@ -110,6 +111,8 @@ All dates are listed in DD-MM-YYYY format.
         - **MTB-523** → **HMS MTB 523**. Statcard name → **Vosper & Co. | Vosper 73 ft-class | HMS MTB 523**.
         - **HMS Egret** → **HMS Egret (L 75)**. Statcard name → **J. Samuel White & Co. Ltd. / Humber Commercial Shipyard | Egret-class | HMS Egret (L 75) (1943)**.
         - **Leopard 2RI** (Japan / Indonesia): Statcard name → **Krauss-Maffei Wegmann / Rheinmetall Landsysteme | Tank Leopard 2RI**.
+        - **L-39ZA/ART** (Japan / Thailand) → **B.KhF.1**. Statcard name → **Aero Vodochody / Elbit Systems L-39ZA/ART | Khērūng Bin Fụk Thī 1**.
+            - Japanese package: **L-39ZA/ART** → **บ.ขฝ.๑**. Statcard name → **Aero Vodochody / Elbit Systems L-39ZA/ART | เครื่องบินฝึกที่ ๑**.
         - **JDS Ujishima (MSC-655)** → **Ujishima (MSC-655)**. Statcard name → **Greenport Basin and Construction Company | Ujishima Gata Sōkaitei | Ujishima (MSC-655)**.
             - Japanese package: **JDS Ujishima (MSC-655)** → **うじしま (MSC-655)**. Statcard name → **Greenport Basin and Construction Company | うじしま型掃海艇 | うじしま (MSC-655)**.
         - **JH-7A2** → **JH7A2**. Statcard name → **Xī'ān Fēijī Gōngyè (Jítuán) | JH7A2 Xíng Fēijī ""Fēi Bào"**.

@@ -237,6 +237,8 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **AIM-54C+** → **AIM-54C (ECP-82)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix (ECP-82)**.
+    - **Aspid** → **IA. C 1057 Áspid ARM AP**. Statcard name → **IA. Cohete 57 mm Áspid ARM Aletas Plegables**.
+    - **Pampero**: Statcard name → **Cohete 105 mm Pampero**.
 
 ### Decals:
 

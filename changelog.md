@@ -69,10 +69,12 @@ All dates are listed in DD-MM-YYYY format.
         - **Palmaria**
         - **MAS 429**
         - **F-16AM** (France / Belgium)
+        - **F-16AM** (France / Netherlands)
         - **Leopard 1A5BE** (France / Belgium)
         - **Jean Bart**
         - **AJS37 (Early)**
         - **NOMADS**
+        - **EldE 98/NOMADS** (folder)
         - **MiG-21 2000**
         - **Hunter AFV**
     - **Glaive**
@@ -126,10 +128,12 @@ All dates are listed in DD-MM-YYYY format.
         - **Palmaria**: Statcard name → **OTO Melara Obice semovente Palmaria 155/41**.
         - **MAS 429**: Statcard name → **Società Veneziana Automobili Navali | Motoscafo Antisommergibili Tipo Autocannionera 1919 | MAS 429**.
         - **F-16AM** (France / Belgium) → **F-16AM-20-CF (1re Esc.)**. Statcard name → **General Dynamics Corporation / Sociétés Anonyme Belge de Constructions Aéronautiques | F-16AM-20-CF Fighting Falcon (1re Escadrille "Stingers")**.
+        - **F-16AM** (France / Netherlabnds) → **F-16AM-20-CF**. Statcard name → **General Dynamics Corporation / N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | F-16AM-20-CF Fighting Falcon**.
         - **Leopard 1A5BE** (France / Belgium) → **Leopard 1 A5 BE**. Statcard name → **Krauss-Maffei Wegmann | Leopard 1 A5 BE**.
         - **Jean Bart**: Statcard name → **Ateliers et Chantiers de la Loire + Port de Casablanca + Arsenal de Brest | Cuirassé de la Classe Richelieu | Jean Bart (1955)**.
         - **AJS37 (Early)** → **AJS 37 (F 7)**. Statcard name → **Saab 37 | flygplan typ AJS 37 Viggen (Skaraborgs flygflottilj (F 7))**.
         - **NOMADS**: Statcard name → **Kongsberg Defence & Aerospace National Manoeuvre Air Defence System**.
+        - **EldE 98/NOMADS** (folder) → **elde 98 / NOMADS**.
         - **MiG-21 2000**: Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye im. P. V. Dyemyent'yeva / ha-Ta'asiah ha-'Avirit le-Yisra'el + Aerostar MiG-21 2000**.
             - Hebrew package: Statcard name → **MiG-21 2000 Aerostar + התעשייה האווירית לישראל / Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye im. P. V. Dyemyent'yeva**.
             - Hebrew + Russian package: Statcard name → **MiG-21 2000 Aerostar + התעשייה האווירית לישראל / Московское авиационное производственное объединение им. П. В. Дементьева**.

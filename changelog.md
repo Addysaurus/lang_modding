@@ -236,12 +236,44 @@ All dates are listed in DD-MM-YYYY format.
     - **AIM-54C+**
     - **Pampero**
     - **Aspid**
+    - **Kh-31A**
+    - **Kh-31AD**
+    - **Kh-31P L-111**
+    - **Kh-31P L-112**
+    - **Kh-31P L-113**
+    - **Kh-31PK L-111**
+    - **Kh-31PK L-112**
+    - **Kh-31PK L-113**
+    - **Kh-31PD**
+    - **YJ-91 L111**
+    - **YJ-91 L112**
+    - **YJ-91 L113**
+    - **LD-10**
+    - **CM-102**
 
 - #### Changes:
 
     - **AIM-54C+** → **AIM-54C (ECP-82)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix (ECP-82)**.
     - **Aspid** → **IA. C 1057 Áspid ARM AP**. Statcard name → **IA. Cohete 57 mm Áspid ARM Aletas Plegables**.
-    - **Pampero**: Statcard name → **Cohete 105 mm Pampero**.
+    - **Pampero** → **Pampero AS**. Statcard name → **Cohete 105 mm Pampero Aire-Superficie**.
+    - **Kh-31A**: Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+    - **Kh-31AD**: Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+    - **Kh-31P L-111** → **Kh-31P (PRGS-4VP)**. Statcard name → **izd. 77P | Upravlâyemaâ rakyeta Kh-31P (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+    - **Kh-31P L-112** → **Kh-31P (PRGS-5VP)**. Statcard name → **izd. 77P | Upravlâyemaâ rakyeta Kh-31P (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP)**.
+    - **Kh-31P L-113** → **Kh-31P (PRGS-6VP)**. Statcard name → **izd. 77P | Upravlâyemaâ rakyeta Kh-31P (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP)**.
+    - **Kh-31PK L-111** → **Kh-31PK (PRGS-4VP)**. Statcard name → **izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+    - **Kh-31PK L-112** → **Kh-31PK (PRGS-5VP)**. Statcard name → **izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP)**.
+    - **Kh-31PK L-113** → **Kh-31PK (PRGS-6VP)**. Statcard name → **izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP)**.
+    - **Kh-31PD**: Statcard name → **izd. 77PD | Upravlâyemaâ rakyeta Kh-31PD**.
+    - **YJ-91 L111** → **K/AKD91 (PRGS-4VP)**. Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+        - Mandarin package: Statcard name → **YJ91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+        - Full Mandarin package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+        - Mandarin + Russian package: Statcard name → **YJ91 | K/AKD91空地导弹 (Пассивная радиолокационная головка самонаведения ПРГС-4ВП)**.
+        - Full Mandarin + Russian package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Пассивная радиолокационная головка самонаведения ПРГС-4ВП)**.
+    - **LD-10** → **LD10**. Statcard name → **LD10 Qīngxíng Jìn Chéng Fǎn Fúshè Daodàn**.
+        - Mandarin package: Statcard name → **LD10轻型近程反辐射导弹**.
+    - **CM-102** → **CM102**. Statcard name → **CM102 Fan Fúshè Daodàn Wuqì Xìtong**.
+        - Mandarin package: Statcard name → **LD10轻型近程反辐射导弹**.
 
 ### Decals:
 

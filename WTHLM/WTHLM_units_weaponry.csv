@@ -615,8 +615,8 @@ weapons/227mm_m270_rocket_launcher/short;M26A2
 227mm_m26a2;M26A2
 
 //GERMANY ROCKETS
-weapons/ar_pampero;Cohete 105 mm Pampero <color=#ff6f00>RKT</color>
-weapons/ar_pampero/short;Pampero
+weapons/ar_pampero;Cohete 105 mm Pampero Aire-Superficie <color=#ff6f00>RKT</color>
+weapons/ar_pampero/short;Pampero AS
 weapons/ar_aspid_1057;IA. Cohete 57 mm Áspid ARM Aletas Plegables <color=#ff6f00>RKT</color>
 weapons/ar_aspid_1057/short;IA. C 1057 Áspid ARM AP
 weapons/jato_booster_left;Flugzeug Start Rakete 69 <color=#ff6f00>RKT-JATO</color>
@@ -894,22 +894,42 @@ weapons/su_rvv_sd;Aviaczionnaâ upravlâyemaâ rakyeta RVV-SD <color=#ff6f00>AAM
 weapons/su_rvv_sd/short;RVV-SD
 weapons/su_rvv_sd_default;Aviaczionnaâ upravlâyemaâ rakyeta RVV-SD <color=#ff6f00>AAM-ARH</color>
 weapons/su_rvv_sd_default/short;RVV-SD
-weapons/su_kh_25mp;izd. 711 | Upravlâyemaâ rakyeta Kh-25MP (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-1VP) <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_25mp;izd. 711 | Upravlâyemaâ rakyeta Kh-25MP (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-1VP) <color=#ff6f00>AGM-PRH</color>
 weapons/su_kh_25mp/short;Kh-25MP (PGRS-1VP)
-weapons/su_kh_25mp_cw;izd. 712 | Upravlâyemaâ rakyeta Kh-25MP (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-2VP) <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_25mp_cw;izd. 712 | Upravlâyemaâ rakyeta Kh-25MP (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-2VP) <color=#ff6f00>AGM-PRH</color>
 weapons/su_kh_25mp_cw/short;Kh-25MP (PGRS-2VP)
-weapons/su_kh_25mpu;Upravlâyemaâ rakyeta Kh-25MPU <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_25mpu;Upravlâyemaâ rakyeta Kh-25MPU <color=#ff6f00>AGM-PRH</color>
 weapons/su_kh_25mpu/short;Kh-25MPU
-weapons/su_kh_27ps;izd. 721 | Upravlâyemaâ rakyeta Kh-27PS (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-1VP) <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_27ps;izd. 721 | Upravlâyemaâ rakyeta Kh-27PS (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-1VP) <color=#ff6f00>AGM-PRH</color>
 weapons/su_kh_27ps/short;Kh-27PS (PGRS-1VP)
-weapons/su_kh_27ps_cw;izd. 722 | Upravlâyemaâ rakyeta Kh-27PS (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-2VP) <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_27ps_cw;izd. 722 | Upravlâyemaâ rakyeta Kh-27PS (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-2VP) <color=#ff6f00>AGM-PRH</color>
 weapons/su_kh_27ps_cw/short;Kh-27PS (PGRS-2VP)
+weapons/su_kh_31a;izd. 77A | Upravlâyemaâ rakyeta Kh-31A <color=#ff6f00>AShM-PRH</color>
+weapons/su_kh_31a/short;Kh-31A
+weapons/su_kh_31ad;izd. 77AD | Upravlâyemaâ rakyeta Kh-31AD <color=#ff6f00>AShM-PRH</color>
+weapons/su_kh_31ad/short;Kh-31AD
+weapons/su_kh_31p_l_111;izd. 77P | Upravlâyemaâ rakyeta Kh-31P (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31p_l_111/short;Kh-31P (PGRS-4VP)
+weapons/su_kh_31p_l_112;izd. 77P | Upravlâyemaâ rakyeta Kh-31P (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31p_l_112/short;Kh-31P (PGRS-5VP)
+weapons/su_kh_31p_l_113;izd. 77P | Upravlâyemaâ rakyeta Kh-31P (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31p_l_113/short;Kh-31P (PGRS-6VP)
+weapons/su_kh_31pk_l_111;izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31pk_l_111/short;Kh-31PK (PGRS-4VP)
+weapons/su_kh_31pk_l_112;izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31pk_l_112/short;Kh-31PK (PGRS-5VP)
+weapons/su_kh_31pk_l_113;izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31pk_l_113/short;Kh-31PK (PGRS-6VP)
+weapons/su_kh_31pd;izd. 77PD | Upravlâyemaâ rakyeta Kh-31PD <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31pd/short;Kh-31PD
 weapons/su_grom_1;"9-A-7759 | Upravlâyemaâ rakyeta Kh-36 ""Grom-È1"" <color=#ff6f00>AGM-GNSS</color>"
 weapons/su_grom_1/short;"Kh-36 ""Grom-È1"""
 weapons/su_kh_38mle;Upravlâyemaâ rakyeta Kh-38MLÈ <color=#ff6f00>AGM-LG/GNSS</color>
 weapons/su_kh_38mle/short;Kh-38MLÈ
 weapons/su_kh_38mte;Upravlâyemaâ rakyeta Kh-38MTÈ <color=#ff6f00>AGM-IR/GNSS</color>
 weapons/su_kh_38mte/short;Kh-38MTÈ
+weapons/su_lmur;9-A-7755 | izd. 305 | Lyegkaâ mnogoczyelyevaâ upravlâyemaâ rakyeta Kh-39 <color=#ff6f00>AGM-IR/GNSS</color>
+weapons/su_lmur/short;Kh-39
 weapons/su_kh_58u_a_band;izd. 112U | Upravlâyemaâ rakyeta Kh-58U <color=#ff6f00>AGM-RG</color>
 weapons/su_kh_58u_a_band/short;Kh-58U
 weapons/su_kh_58u_a_band_cw;izd. 112U | Upravlâyemaâ rakyeta Kh-58U <color=#ff6f00>AGM-RG</color>
@@ -927,8 +947,6 @@ weapons/su_kh_59m/short;Kh-59M
 weapons/su_kh_59me;"izd. D-9MÈ | Upravlâyemaâ rakyeta Kh-59MÈ ""Ovod-MÈ"" <color=#ff6f00>AGM-EO</color>"
 weapons/su_kh_59me/short;Kh-59MÈ
 weapons/152mm_9M133_btr_82at_launcher_user_cannon;Puskovoye ustrojstvo 9P163-1 <color=#ff6f00>LCH</color>
-weapons/su_lmur;9-A-7755 | izd. 305 | Lyegkaâ mnogoczyelyevaâ upravlâyemaâ rakyeta Kh-39 <color=#ff6f00>AGM-IR/GNSS</color>
-weapons/su_lmur/short;Kh-39
 209mm_9m33;9M33M
 weapons/209mm_9M33A3_launcher_user_cannon;Puskovoye ustrojstvo 9P35M2 <color=#ff6f00>LCH</color>
 weapons/rocket_9m33_naval_rocket_launcher;Puskovoye ustrojstvo ZIF-122 <color=#ff6f00>LCH</color>
@@ -1040,6 +1058,16 @@ weapons/ch_kd_88_missile_tv;K/AKD88 Kòng Dì Daodàn <color=#ff6f00>AGM-TV</col
 weapons/ch_kd_88_missile_tv/short;K/AKD88
 weapons/ch_kd_88_missile_ir;K/AKD88A Kòng Dì Daodàn <color=#ff6f00>AGM-IR</color>
 weapons/ch_kd_88_missile_ir/short;K/AKD88A
+weapons/cn_yj91_l_111;YJ91 | K/AKD91 Kòng Dì Daodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP) <color=#ff6f00>AGM-PRH</color>
+weapons/cn_yj91_l_111/short;K/AKD91 (PRGS-4VP)
+weapons/cn_yj91_l_112;YJ91 | K/AKD91 Kòng Dì Daodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP) <color=#ff6f00>AGM-PRH</color>
+weapons/cn_yj91_l_112/short;K/AKD91 (PRGS-5VP)
+weapons/cn_yj91_l_113;YJ91 | K/AKD91 Kòng Dì Daodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP) <color=#ff6f00>AGM-PRH</color>
+weapons/cn_yj91_l_113/short;K/AKD91 (PRGS-6VP)
+weapons/cn_ld10;LD10 Qīngxíng Jìn Chéng Fǎn Fúshè Daodàn <color=#ff6f00>AGM-PRH</color>
+weapons/cn_ld10/short;LD10
+weapons/cn_cm_102;CM102 Fan Fúshè Daodàn Wuqì Xìtong <color=#ff6f00>AGM-PRH</color>
+weapons/cn_cm_102/short;CM102
 weapons/cn_ba_11;BA-11A Xíng Kòng Dì Daodàn <color=#ff6f00>AGM-IR</color>
 weapons/cn_ba_11/short;BA-11A
 weapons/cn_yj_81k;YJ81 | H/AKJ08 Kōng Jiàn Daodàn <color=#ff6f00>AShM-ARH</color>

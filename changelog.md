@@ -240,6 +240,13 @@ All dates are listed in DD-MM-YYYY format.
     - **AIM-54C+**
     - **Pampero**
     - **Aspid**
+    - **BK-BR 125**
+    - **BK-BR 130**
+    - **BK-BR 250**
+    - **BK-BR 500**
+    - **BRP 250**
+    - **BRP 500**
+    - **INC-220**
     - **Kh-31A**
     - **Kh-31AD**
     - **Kh-31P L-111**
@@ -260,6 +267,13 @@ All dates are listed in DD-MM-YYYY format.
     - **AIM-54C+** → **AIM-54C (ECP-82)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix (ECP-82)**.
     - **Aspid** → **IA. C 1057 Áspid ARM AP**. Statcard name → **IA. Cohete 57 mm Áspid ARM Aletas Plegables**.
     - **Pampero** → **Pampero AS**. Statcard name → **Cohete 105 mm Pampero Aire-Superficie**.
+    - **BK-BR 125** → **PG BK-BR 125**. Statcard name → **Bomba de propósito general BK-BR de 125 kg**.
+    - **BK-BR 130** → **PG BK-BR 130**. Statcard name → **Bomba de propósito general BK-BR de 130 kg**.
+    - **BK-BR 250** → **PG BK-BR 250**. Statcard name → **Bomba de propósito general BK-BR de 250 kg**.
+    - **BK-BR 500** → **PG BK-BR 500**. Statcard name → **Bomba de propósito general BK-BR de 500 kg**.
+    - **BRP 250**: Statcard name → **Bomba retardada por paracaídas de 250 kg**.
+    - **BRP 500**: Statcard name → **Bomba retardada por paracaídas de 500 kg**.
+    - **INC-220** → **INC 220**. Statcard name → **Bomba incendiaria de 220 kg**.
     - **Kh-31A**: Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
     - **Kh-31AD**: Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
     - **Kh-31P L-111** → **Kh-31P (PRGS-4VP)**. Statcard name → **izd. 77P | Upravlâyemaâ rakyeta Kh-31P (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.

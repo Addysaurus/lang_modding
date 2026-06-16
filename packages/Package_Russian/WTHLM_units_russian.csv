@@ -127,6 +127,12 @@ la_174_1;174
 la_174_2;174
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+yak_130_early_shop;Як-130
+yak_130_early_0;"<color=#81c3fc>Иркутский авиационный завод</color>
+Самолёт Як-130"
+yak_130_early_1;Як-130
+yak_130_early_2;Як-130
+
 su_25t_shop;Su-25T
 su_25t_0;"<color=#81c3fc>Улан-Удэнский авиационный завод</color>
 <color=#5cae63>изд. Т-8М</color>
@@ -154,12 +160,6 @@ nt_tu_95m_0;"<color=#81c3fc>Завод № 18 им. Ворошилова</color>
 ☢ Самолёт Ту-95М"
 nt_tu_95m_1;☢ Ту-95М
 nt_tu_95m_2;☢ Ту-95
-
-j_22m1a_shop;Ј-22М1А
-j_22m1a_0;"<color=#81c3fc>Avioane Craiova <color=@commonTextColor>+</color> Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo</color>
-Авион Ј-22М1А Орао"
-j_22m1a_1;Ј-22М1А
-j_22m1a_2;Ј-22
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 mig-21_bis_shop;МиГ-21бис
@@ -225,6 +225,14 @@ mig_29m_9_15_0;"<color=#81c3fc>Нижегородский государстве
 Самолёт МиГ-29М"
 mig_29m_9_15_1;МиГ-29М
 mig_29m_9_15_2;МиГ-29
+
+mig_29kr_9_41r_shop;МиГ-29КР
+mig_29kr_9_41r_0;"<color=#81c3fc>Московское авиационное производственное объединение им. П. В.
+Дементьева</color>
+<color=#5cae63>изд. 9-41Р</color>
+Самолёт МиГ-29КР"
+mig_29kr_9_41r_1;МиГ-29КР
+mig_29kr_9_41r_2;МиГ-29
 
 mig_29n_shop;☉ MiG-29N
 mig_29n_0;"<color=#81c3fc>Авиационный научно-промышленный комплекс «МиГ»
@@ -509,6 +517,21 @@ il_tiran_6_1;Ṭiran 6
 il_tiran_6_2;MBT
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+ussr_t_90m_2020_shop;Т-90М
+ussr_t_90m_2020_0;"<color=#81c3fc>Научно-производственная корпорация «УралВагонЗавод»</color>
+<color=#5cae63>Объект 188М</color>
+Танк Т-90М обр. 2017 г. «Прорыв-3»"
+ussr_t_90m_2020_1;Т-90М
+ussr_t_90m_2020_2;MBT
+
+ussr_t_90m_arena_m_shop;Т-90М (Арена-М)
+ussr_t_90m_arena_m_0;"<color=#81c3fc>Научно-производственная корпорация «УралВагонЗавод»</color>
+<color=#5cae63>Объект 188М</color>
+Танк Т-90М обр. 2017 г. «Прорыв-3»
+<color=#adadad>(Комплекс активной защиты Т09-А6-1 «Арена-М»)</color>"
+ussr_t_90m_arena_m_1;Т-90М
+ussr_t_90m_arena_m_2;MBT
+
 ussr_t_80ue1_shop;Т-80У-Е1
 ussr_t_80ue1_0;"<color=#81c3fc>Кировский завод <color=@commonTextColor>/</color> Омский завод транспортного машиностроения</color>
 <color=#5cae63>Обект 219АС-1</color>
@@ -740,6 +763,14 @@ su_22m4_de_wtd61_0;"<color=#81c3fc>Комсомольский-на-Амуре а
 Wehrtechnische Dienststelle 61"
 su_22m4_de_wtd61_1;◄ Su-22M
 su_22m4_de_wtd61_2;◄ Su-22
+
+//GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+mi_24d_german_shop;◊ Mi-24D
+mi_24d_german_0;"<color=#81c3fc>Авиаремонтный завод № 116</color>
+<color=#5cae63>Erzeugn. 246</color>
+◊ Hubschrauber Mi-24D"
+mi_24d_german_1;◊ Mi-24D
+mi_24d_german_2;◊ Mi-24
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 germ_kv_2_754r_shop;▀ s.Pz.Kpfw. 754 (r)

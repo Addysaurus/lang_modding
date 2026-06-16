@@ -1,5 +1,6 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
+shop/group/beaufighter_group;Beaufighter Mk. VIc / T.F. Mk. X / ▄ 21
 shop/group/spitfire_mk5b_group;Spitfire F. Mk. Vb (trop.) / Vb
 shop/group/spitfire_mk5c_group;Spitfire F. Mk. Vc (trop.) / Vc
 shop/group/uk_g6_tortoise_group;GV6 Mk 1 / Tortoise
@@ -77,11 +78,11 @@ Blenheim Mk. IV"
 blenheim_mkiv_1;Blenheim Mk. IV
 blenheim_mkiv_2;Blenheim
 
-beaufort_mkviii_shop;Beaufort Mk. VIII
+beaufort_mkviii_shop;▄ Beaufort Mk. VIII
 beaufort_mkviii_0;"<color=#81c3fc>Bristol Aeroplane Company Type 152</color>
-Beaufort Mk. VIII"
-beaufort_mkviii_1;Beaufort Mk. VIII
-beaufort_mkviii_2;Beaufort
+▄ Beaufort Mk. VIII"
+beaufort_mkviii_1;▄ Beaufort Mk. VIII
+beaufort_mkviii_2;▄ Beaufort
 
 hp_12_shop;O/400
 hp_12_0;"<color=#81c3fc>Handley Page Aircraft Company H.P.12</color>
@@ -290,6 +291,12 @@ beaufighter_mkx_0;"<color=#81c3fc>Bristol Aeroplane Company Type 156</color>
 Beaufighter T.F. Mk. X"
 beaufighter_mkx_1;Beaufighter T.F. Mk. X
 beaufighter_mkx_2;Beaufighter
+
+beaufighter_mk21_shop;▄ Beaufighter Mk. 21
+beaufighter_mk21_0;"<color=#81c3fc>Bristol Aeroplane Company Type 156 <color=@commonTextColor>/</color> Department of Aircraft Production</color>
+▄ Beaufighter Mk. 21"
+beaufighter_mk21_1;▄ Beaufighter Mk. 21
+beaufighter_mk21_2;▄ Beaufighter
 
 beaufighter_mk1_40mm_shop;Beaufighter Mk. I (R2055)
 beaufighter_mk1_40mm_0;"<color=#81c3fc>Bristol Aeroplane Company Type 156</color>
@@ -1026,6 +1033,20 @@ uk_challenger_2_megatron_sm_0;"<color=#81c3fc>Vickers Defence Systems</color>
 <color=@currencyGoldColor>Emily's</color>"
 uk_challenger_2_megatron_sm_1;◍ Challenger 2 TES
 uk_challenger_2_megatron_sm_2;MBT
+
+uk_m1a1_aim_abrams_shop;▄ M1A1 AIM SA
+uk_m1a1_aim_abrams_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+▄ Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams
+Integrated Management, Situational Awareness"
+uk_m1a1_aim_abrams_1;▄ M1A1 AIM SA
+uk_m1a1_aim_abrams_2;MBT
+
+uk_m1a2_sep3_abrams_shop;▄ M1A2 SEPv3
+uk_m1a2_sep3_abrams_0;"<color=#81c3fc>General Dynamics Land Systems</color>
+▄ Tank, Combat, Full Tracked: 120mm Gun, M1A2, System
+Enhancement Package Version 3"
+uk_m1a2_sep3_abrams_1;▄ M1A2 SEPv3
+uk_m1a2_sep3_abrams_2;MBT
 
 uk_sky_sabre_launcher_shop;SV 15T (Land Ceptor)
 uk_sky_sabre_launcher_0;"<color=#81c3fc>Rafael International <color=@commonTextColor>+</color> MBDA UK</color>

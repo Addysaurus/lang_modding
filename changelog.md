@@ -22,12 +22,13 @@ All dates are listed in DD-MM-YYYY format.
 
 ### General
 
-    - It's not worth mentioning them individually because no one cares about gooner vehicles but suffice it to say that their skins and body pillows have been renamed toop. Happy? Are you happy now with your gooner vehicles? Oh fuck this...
     - Added 11 new loading tips:
         - General: 1
         - Air: 2
         - Ground: 6
         - Naval: 2
+    - A new Serbian package has been added
+    - It's not worth mentioning them individually because no one cares about gooner vehicles but suffice it to say that their skins and body pillows have been renamed too. Happy? Are you happy now with your gooner vehicles? Oh fuck this...
 
 ### Vehicles:
 
@@ -103,6 +104,7 @@ All dates are listed in DD-MM-YYYY format.
         - **M44/M55** (folder) → **PzH M 44 / 55**.
         - **Yak-130** → **Âk-130**. Statcard name → **Irkutskij aviaczionnyj zavod | Samolyot Âk-130**.
         - **J-22M1A**: Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | Avion J-22M1A Orao**.
+            - Serbian package: Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | Авион Ј-22М1А Орао**.
         - **MiG-29K (9-41R)** → **MiG-29KR**. Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye im. P. V. Dyemyent'yeva | izd. 9-41R | Samolyot MiG-29KR**.
         - **T-90M (Arena-M)** → **T-90M (Aryena-M)**. Statcard name → **Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob"yekt 188M | T-90M obr. 2017 g. "Proryv-3" (Komplyeks aktivnoj zaŝity T09-A6-1 "Aryena-M")**.
         - **Chernova Ukraina** → **Čyervona Ukraina**. Statcard name → **Russkomu sudostroityel'nomu akczionyernomu obŝyestvu «Russud» | Lyegkij kryejsyer tip Admiral Nakhimov | Čyervona Ukraina**.
@@ -256,6 +258,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Kh-31PK L-112**
     - **Kh-31PK L-113**
     - **Kh-31PD**
+    - **KOSAVA 3 TM**
     - **YJ-91 L111**
     - **YJ-91 L112**
     - **YJ-91 L113**
@@ -283,6 +286,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Kh-31PK L-112** → **Kh-31PK (PRGS-5VP)**. Statcard name → **izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP)**.
     - **Kh-31PK L-113** → **Kh-31PK (PRGS-6VP)**. Statcard name → **izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP)**.
     - **Kh-31PD**: Statcard name → **izd. 77PD | Upravlâyemaâ rakyeta Kh-31PD**.
+    - **KOSAVA 3 TM** → **KOŠAVA 3 TM**. Statcard name → **Vođena raketa vazduh-zemlja KOŠAVA 3 TM**.
+        - Serbian package: **KOSAVA 3 TM** → **КОШАВА 3 ТМ**. Statcard name → **Вођена ракета ваздух-земља КОШАВА 3 ТМ**.
     - **YJ-91 L111** → **K/AKD91 (PRGS-4VP)**. Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
         - Mandarin package: Statcard name → **YJ91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
         - Full Mandarin package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.

@@ -258,6 +258,10 @@ All dates are listed in DD-MM-YYYY format.
     - **Kh-31PK L-112**
     - **Kh-31PK L-113**
     - **Kh-31PD**
+    - **M80**
+    - **M-16D**
+    - **GROM**
+    - **GROM-B**
     - **KOSAVA 3 TM**
     - **YJ-91 L111**
     - **YJ-91 L112**
@@ -286,6 +290,14 @@ All dates are listed in DD-MM-YYYY format.
     - **Kh-31PK L-112** → **Kh-31PK (PRGS-5VP)**. Statcard name → **izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP)**.
     - **Kh-31PK L-113** → **Kh-31PK (PRGS-6VP)**. Statcard name → **izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP)**.
     - **Kh-31PD**: Statcard name → **izd. 77PD | Upravlâyemaâ rakyeta Kh-31PD**.
+    - **M80** → **M-80**. Statcard name → **Balistički raketa vazduh-zemlja M-80 Munja**.
+        - Serbian package: Statcard name → **Балистички ракета ваздух-земља 128 мм М-80 Муња**.
+    - **M-16D**: Statcard name → **Vođena raketa vazduh-zemlja M-16D**.
+        - Serbian package: **M-16D** → **М-16Д**. Statcard name → **Вођена ракета ваздух-земља М-16Д**.
+    - **GROM**: Statcard name → **Vođena raketa vazduh-zemlja GROM**.
+        - Serbian package: **GROM** → **ГРОМ**. Statcard name → **Вођена ракета ваздух-земља ГРОМ**.
+    - **GROM-B**: Statcard name → **Vođena raketa vazduh-zemlja GROM-B**.
+        - Serbian package: **GROM-B** → **ГРОМ-Б**. Statcard name → **Вођена ракета ваздух-земља ГРОМ-Б**.
     - **KOSAVA 3 TM** → **KOŠAVA 3 TM**. Statcard name → **Vođena raketa vazduh-zemlja KOŠAVA 3 TM**.
         - Serbian package: **KOSAVA 3 TM** → **КОШАВА 3 ТМ**. Statcard name → **Вођена ракета ваздух-земља КОШАВА 3 ТМ**.
     - **YJ-91 L111** → **K/AKD91 (PRGS-4VP)**. Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.

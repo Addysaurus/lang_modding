@@ -6,10 +6,22 @@
 //BOMBS
 
 //ROCKETS
+weapons/rs_br_vz_128_m15_rocket_heat;Балистички ракета ваздух-земља 128 мм М-80 Муња <color=#ff6f00>RKT</color>
+weapons/rs_br_vz_128_m15_rocket_heat/short;М-80
 
 //MISSILES
-weapons/rs_kosava_3_tm;Вођена ракета ваздух-земља КОШАВА 3 ТМ
+weapons/rs_salgr_m_16d;Вођена ракета ваздух-земља М-16Д <color=#ff6f00>AGM-LG</color>
+weapons/rs_salgr_m_16d/short;М-16Д
+weapons/rs_grom;Вођена ракета ваздух-земља ГРОМ <color=#ff6f00>AGM-RG</color>
+weapons/rs_grom/short;ГРОМ
+weapons/rs_grom_b;Вођена ракета ваздух-земља ГРОМ-Б <color=#ff6f00>AGM-TV</color>
+weapons/rs_grom_b/short;ГРОМ-Б
+weapons/rs_kosava_3_tm;Вођена ракета ваздух-земља КОШАВА 3 ТМ <color=#ff6f00>AGM-TV/GNSS</color>
 weapons/rs_kosava_3_tm/short;КОШАВА 3 ТМ
+weapons/rs_vrvz_240;Вођена ракета ваздух-земља ВРВЗ-240 <color=#ff6f00>AGM-TV</color>
+weapons/rs_vrvz_240/short;ВРВЗ-240
+weapons/rs_e_24_a1;Вођена ракета ваздух-земља Е-24-А1 <color=#ff6f00>AGM-RG</color>
+weapons/rs_e_24_a1/short;Е-24-А1
 
 //TORPEDOES
 

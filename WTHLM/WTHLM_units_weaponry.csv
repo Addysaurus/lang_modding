@@ -639,6 +639,8 @@ weapons/jato_booster_right;Flugzeug Start Rakete 69 <color=#ff6f00>RKT-JATO</col
 weapons/jato_booster_right/short;Flz.Sta.Rak. 69
 
 //USSR ROCKETS
+weapons/rs_br_vz_128_m15_rocket_heat;Balistički raketa vazduh-zemlja M-80 Munja <color=#ff6f00>RKT</color>
+weapons/rs_br_vz_128_m15_rocket_heat/short;M-80
 650mm_9m79;9M79
 
 //UK ROCKETS
@@ -960,8 +962,18 @@ weapons/su_kh_59m;"izd. D-9M | Upravlâyemaâ rakyeta Kh-59M ""Ovod-M"" <color=#
 weapons/su_kh_59m/short;Kh-59M
 weapons/su_kh_59me;"izd. D-9MÈ | Upravlâyemaâ rakyeta Kh-59MÈ ""Ovod-MÈ"" <color=#ff6f00>AGM-EO</color>"
 weapons/su_kh_59me/short;Kh-59MÈ
+weapons/rs_salgr_m_16d;Vođena raketa vazduh-zemlja M-16D <color=#ff6f00>AGM-LG</color>
+weapons/rs_salgr_m_16d/short;M-16D
+weapons/rs_grom;Vođena raketa vazduh-zemlja GROM <color=#ff6f00>AGM-RG</color>
+weapons/rs_grom/short;GROM
+weapons/rs_grom_b;Vođena raketa vazduh-zemlja GROM-B <color=#ff6f00>AGM-TV</color>
+weapons/rs_grom_b/short;GROM-B
 weapons/rs_kosava_3_tm;Vođena raketa vazduh-zemlja KOŠAVA 3 TM <color=#ff6f00>AGM-TV/GNSS</color>
 weapons/rs_kosava_3_tm/short;KOŠAVA 3 TM
+weapons/rs_vrvz_240;Vođena raketa vazduh-zemlja VRVZ-240 <color=#ff6f00>AGM-TV</color>
+weapons/rs_vrvz_240/short;VRVZ-240
+weapons/rs_e_24_a1;Vođena raketa vazduh-zemlja E-24-A1 <color=#ff6f00>AGM-RG</color>
+weapons/rs_e_24_a1/short;E-24-A1
 weapons/152mm_9M133_btr_82at_launcher_user_cannon;Puskovoye ustrojstvo 9P163-1 <color=#ff6f00>LCH</color>
 209mm_9m33;9M33M
 weapons/209mm_9M33A3_launcher_user_cannon;Puskovoye ustrojstvo 9P35M2 <color=#ff6f00>LCH</color>

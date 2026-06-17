@@ -300,6 +300,10 @@ All dates are listed in DD-MM-YYYY format.
         - Serbian package: **GROM-B** → **ГРОМ-Б**. Statcard name → **Вођена ракета ваздух-земља ГРОМ-Б**.
     - **KOSAVA 3 TM** → **KOŠAVA 3 TM**. Statcard name → **Vođena raketa vazduh-zemlja KOŠAVA 3 TM**.
         - Serbian package: **KOSAVA 3 TM** → **КОШАВА 3 ТМ**. Statcard name → **Вођена ракета ваздух-земља КОШАВА 3 ТМ**.
+    - **VRVZ-240**: Statcard name → **Vođena raketa vazduh-zemlja VRVZ-240**.
+        - Serbian package: **VRVZ-240** → **ВРВЗ-240**. Statcard name → **Вођена ракета ваздух-земља ВРВЗ-240**.
+    - **E-24-A1**: Statcard name → **Vođena raketa vazduh-zemlja E-24-A1**.
+        - Serbian package: Statcard name → **Вођена ракета ваздух-земља Е-24-А1**.
     - **YJ-91 L111** → **K/AKD91 (PRGS-4VP)**. Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
         - Mandarin package: Statcard name → **YJ91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
         - Full Mandarin package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.

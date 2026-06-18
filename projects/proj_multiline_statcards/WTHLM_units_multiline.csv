@@ -3431,12 +3431,12 @@ germ_stuh_III_ausf_G_0;"Sturmhaubitze 42 Ausf. G"
 germ_stuh_III_ausf_G_1;StuH 42 G
 germ_stuh_III_ausf_G_2;SPG
 
-germ_hummel_shop;s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)
+germ_hummel_shop;s.Pz.H. 18/1 a. Fgst.Pz.Kpfw. III/IV (Sf.)
 germ_hummel_0;"<color=#81c3fc>Deutsche Eisenwerke</color>
 <color=#5cae63>Sd.Kfz. 165</color>
 schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV
-(Sf.) ""Hummel"""
-germ_hummel_1;s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)
+(Selbtstfahrlafette) ""Hummel"""
+germ_hummel_1;s.Pz.H. 18/1 a. Fgst.Pz.Kpfw. III/IV (Sf.)
 germ_hummel_2;SPG
 
 germ_panzerwerfer_42_shop;15 cm Pz.W.42
@@ -3621,6 +3621,13 @@ germ_panzerjager_tiger_P_elefant_0;"<color=#81c3fc>Nibelungenwerke</color>
 Elefant"
 germ_panzerjager_tiger_P_elefant_1;Elefant
 germ_panzerjager_tiger_P_elefant_2;Tank Destroyer
+
+germ_panzerjager_tiger_shop;Pz.Jgr. Tiger B
+germ_panzerjager_tiger_0;"<color=#81c3fc>Nibelungenwerke</color>
+<color=#5cae63>Sd.Kfz. 186</color>
+Panzerjäger Tiger Ausf. B"
+germ_panzerjager_tiger_1;Pz.Jgr. Tiger
+germ_panzerjager_tiger_2;Tank Destroyer
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 germ_marder_df_105_shop;◄ DF 105

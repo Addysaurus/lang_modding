@@ -63,6 +63,10 @@ weapons/cannonXM301l;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, XM30
 weapons/30mm_Bushmaster_2_Mk_44_efv_p1_user_cannon;30 mm Bushmaster 2 Mk.44 Mod.1 cannon
 weapons/30mm_xm_813_user_cannon;<color=@userlogColoredText>30 mm</color> Cannon, 30mm, XM813 <color=#ff6f00>ACNN</color>
 weapons/105mm_m35_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, M35 <color=#ff6f00>CNN</color>
+weapons/120mm_M256_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
+weapons/120mm_M256_M1A2_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
+weapons/120mm_M256_KE_W_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
+weapons/120mm_M256_M1A3_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
 weapons/155mm_t180_user_cannon;<color=@userlogColoredText>155 mm</color> Gun, 155mm, T180 <color=#ff6f00>CNN</color>
 weapons/203mm_m47_user_cannon;<color=@userlogColoredText>203.2 mm</color> Howitzer, 8-Inch, M47 <color=#ff6f00>CNN</color>
 weapons/356mm_45_14inch_mk1_naval_user_cannon;"<color=@userlogColoredText>356 mm</color> Gun, 14""/45, Mk 1 Mod 0 <color=#ff6f00>CNN</color>"
@@ -91,6 +95,7 @@ weapons/37mm_gerat_341_user_cannon;<color=@userlogColoredText>37 mm</color> 3,7c
 weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 <color=#ff6f00>ACNN</color>
 weapons/55mm_77_gerat_58_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 5,5cm Gerät 58 <color=#ff6f00>ACNN</color>
 weapons/105mm_Rh105_30_user_cannon;<color=@userlogColoredText>105 mm</color> Rh105-30 <color=#ff6f00>CNN</color>
+weapons/128mm_PaK44_user_cannon;<color=@userlogColoredText>128 mm</color> 12,8cm Panzerjägerkanone 80 L/55 <color=#ff6f00>CNN</color>
 weapons/350mm_45_skl_45_naval_user_cannon;<color=@userlogColoredText>350 mm</color> 35cm Schnelladekanone L/45 <color=#ff6f00>CNN</color>
 
 //USSR GUNS
@@ -946,15 +951,17 @@ weapons/su_kh_38mte;Upravlâyemaâ rakyeta Kh-38MTÈ <color=#ff6f00>AGM-IR/GNSS<
 weapons/su_kh_38mte/short;Kh-38MTÈ
 weapons/su_lmur;9-A-7755 | izd. 305 | Lyegkaâ mnogoczyelyevaâ upravlâyemaâ rakyeta Kh-39 <color=#ff6f00>AGM-IR/GNSS</color>
 weapons/su_lmur/short;Kh-39
-weapons/su_kh_58u_a_band;izd. 112U | Upravlâyemaâ rakyeta Kh-58U <color=#ff6f00>AGM-RG</color>
-weapons/su_kh_58u_a_band/short;Kh-58U
-weapons/su_kh_58u_a_band_cw;izd. 112U | Upravlâyemaâ rakyeta Kh-58U <color=#ff6f00>AGM-RG</color>
-weapons/su_kh_58u_a_band_cw/short;Kh-58U
-weapons/su_kh_58u_b_band;izd. 112U | Upravlâyemaâ rakyeta Kh-58U <color=#ff6f00>AGM-RG</color>
-weapons/su_kh_58u_b_band/short;Kh-58U
-weapons/su_kh_58u_c_band;izd. 112U | Upravlâyemaâ rakyeta Kh-58U <color=#ff6f00>AGM-RG</color>
-weapons/su_kh_58u_c_band/short;Kh-58U
-weapons/su_kh_58ushk;izd. 112U | Upravlâyemaâ rakyeta Kh-58UŠK <color=#ff6f00>AGM-RG</color>
+weapons/su_kh_58u_a_band;izd. 112U | Upravlâyemaâ rakyeta Kh-58U (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-58M) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_58u_a_band/short;Kh-58U (PRGS-58M)
+weapons/su_kh_58u_a_band_cw;izd. 112U | Upravlâyemaâ rakyeta Kh-58U (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-58M) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_58u_a_band_cw/short;Kh-58U (PRGS-58M)
+weapons/su_kh_58u_b_band;izd. 112U | Upravlâyemaâ rakyeta Kh-58U (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-58M) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_58u_b_band/short;Kh-58U (PRGS-58M)
+weapons/su_kh_58u_c_band;izd. 112U | Upravlâyemaâ rakyeta Kh-58U (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-58M) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_58u_c_band/short;Kh-58U (PRGS-58M)
+weapons/su_kh_58ush;izd. 112UŠ | Upravlâyemaâ rakyeta Kh-58UŠ <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_58ush/short;Kh-58UŠ
+weapons/su_kh_58ushk;izd. 112UŠK | Upravlâyemaâ rakyeta Kh-58UŠK <color=#ff6f00>AGM-PRH</color>
 weapons/su_kh_58ushk/short;Kh-58UŠK
 weapons/su_kh_59;izd. D-9 | Upravlâyemaâ rakyeta Kh-59 <color=#ff6f00>AGM-EO</color>
 weapons/su_kh_59/short;Kh-59
@@ -962,6 +969,10 @@ weapons/su_kh_59m;"izd. D-9M | Upravlâyemaâ rakyeta Kh-59M ""Ovod-M"" <color=#
 weapons/su_kh_59m/short;Kh-59M
 weapons/su_kh_59me;"izd. D-9MÈ | Upravlâyemaâ rakyeta Kh-59MÈ ""Ovod-MÈ"" <color=#ff6f00>AGM-EO</color>"
 weapons/su_kh_59me/short;Kh-59MÈ
+weapons/su_kh_59mk;"izd. D-9MK | Upravlâyemaâ rakyeta Kh-59MK ""Ovod-MK"" <color=#ff6f00>AGM-ARH</color>"
+weapons/su_kh_59mk/short;Kh-59MK
+weapons/su_kh_59mke;"izd. D-9MKÈ | Upravlâyemaâ rakyeta Kh-59MKÈ ""Ovod-MKÈ"" <color=#ff6f00>AGM-ARH</color>"
+weapons/su_kh_59mke/short;Kh-59MKÈ
 weapons/rs_salgr_m_16d;Vođena raketa vazduh-zemlja M-16D <color=#ff6f00>AGM-LG</color>
 weapons/rs_salgr_m_16d/short;M-16D
 weapons/rs_grom;Vođena raketa vazduh-zemlja GROM <color=#ff6f00>AGM-RG</color>
@@ -2737,7 +2748,6 @@ weapons/drop_height_range_text;Drop altitude range
 weapons/88mm_Flak41_user_cannon;88 mm Flak 41 cannon
 weapons/128mm_KwK44_user_cannon;128 mm KwK44 cannon
 128mm_pzgr_ts;12,8/8,8 Pzgr.TS
-weapons/128mm_PaK44_user_cannon;128 mm PaK44 cannon
 weapons/100mm_LB1_user_cannon;<color=@userlogColoredText>100 mm</color> LB-1 <color=#ff6f00>CNN</color>
 weapons/100mm_C34_user_cannon;<color=@userlogColoredText>100 mm</color> S-34 <color=#ff6f00>CNN</color>
 weapons/100mm_D10S_user_cannon;<color=@userlogColoredText>100 mm</color> 52-PS-412 | D-10S <color=#ff6f00>CNN</color>
@@ -5250,9 +5260,6 @@ weapons/75mm_APX_user_cannon;75 mm APX cannon
 28_20mm_pzgr41;2.8/2cm Pzgr.41
 weapons/28_20mm_s_Pz_B_41_user_cannon;28/20 mm s.Pz.B.41 cannon
 weapons/105mm_XM_35_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, XM35 <color=#ff6f00>CNN</color>
-weapons/120mm_M256_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
-weapons/120mm_M256_M1A2_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
-weapons/120mm_M256_KE_W_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
 120mm_m830a1;M830A1
 120mm_m908;M908
 120mm_m830;M830

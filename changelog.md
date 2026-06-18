@@ -97,7 +97,7 @@ All dates are listed in DD-MM-YYYY format.
         - **Fw 189 C** → **Fw 189 V6**. Statcard name → **Focke-Wulf Flugzeugbau | Fw 189 V6 "Uhu"**.
         - **IA.58A Pucara** → **IA. 58A**. Statcard name → **Fábrica Militar de Aviones | Avion IA. 58A Pucará**.
         - **Mi-24D** (Germany): Statcard name → **Aviaryemontnyj zavod № 116 | Erzeugn. 246 | Hubschrauber Mi-24D**.
-        - **Hummel** → **s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)** (I'm so sorry, but that's the real name). Statcard name → **Deutsche Eisenwerke | schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV (Sf.) (Sd.Kfz. 165) "Hummel"**.
+        - **Hummel** → **s.Pz.H. 18/1 a. Fgst.Pz.Kpfw. III/IV (Sf.)** (I'm so sorry, but that's the real name). Statcard name → **Deutsche Eisenwerke | schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV (Selbtstfahrlafette) (Sd.Kfz. 165) "Hummel"**.
         - **Puma u14** → **SPz Puma VJTF (PzGrenBtl 33)**. Statcard name → **Projekt System Management | Schützenpanzer Puma Very High Readiness Joint Task Force (Panzergrenadierbataillon 33)**.
         - **Lorelei** → **K 4**. Statcard name → **Société Anonyme John Cockerill à Seraing (Belgique), Chantier Naval de Hoboken / N.V. Dok en Werf Maatschappij Wilton-Fijenoord, Bau-Nr. 686 | Kanonenboot | K 4 (1943)**.
         - **Admiral Scheer**: Statcard name → **Reichsmarinewerft Wilhelmshaven, Bau-Nr. 123 / Marinehafen Kaseburg | Panzerschiff Deutschland-Klasse | Admiral Scheer (1943)**.
@@ -234,85 +234,99 @@ All dates are listed in DD-MM-YYYY format.
     - **Litvâk's Yak-1** → **Litvâk's Âk-1**.
     - **T-90M**: Statcard name → **Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob"yekt 188M | T-90M obr. 2017 g. "Proryv-3"**.
     - **T-73B3 (Aryena-M)**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6-1 "Aryena-M")**.
+    - **Pz.Jgr. Tiger B**: Statcard name → **Nibelungenwerke | Panzerjäger Tiger Ausf. B (Sd.Kfz. 186)**.
 
 ### Weaponry:
 
 - #### Additions:
 
-    - **AIM-54C+**
-    - **Pampero**
-    - **Aspid**
-    - **BK-BR 125**
-    - **BK-BR 130**
-    - **BK-BR 250**
-    - **BK-BR 500**
-    - **BRP 250**
-    - **BRP 500**
-    - **INC-220**
-    - **Kh-31A**
-    - **Kh-31AD**
-    - **Kh-31P L-111**
-    - **Kh-31P L-112**
-    - **Kh-31P L-113**
-    - **Kh-31PK L-111**
-    - **Kh-31PK L-112**
-    - **Kh-31PK L-113**
-    - **Kh-31PD**
-    - **M80**
-    - **M-16D**
-    - **GROM**
-    - **GROM-B**
-    - **KOSAVA 3 TM**
-    - **YJ-91 L111**
-    - **YJ-91 L112**
-    - **YJ-91 L113**
-    - **LD-10**
-    - **CM-102**
+    - Update "Heavy Cavalry" additions:
+        - **AIM-54C+**
+        - **120 mm M256 cannon**
+        - **Pampero**
+        - **Aspid**
+        - **BK-BR 125**
+        - **BK-BR 130**
+        - **BK-BR 250**
+        - **BK-BR 500**
+        - **BRP 250**
+        - **BRP 500**
+        - **INC-220**
+        - **Kh-31A**
+        - **Kh-31AD**
+        - **Kh-31P L-111**
+        - **Kh-31P L-112**
+        - **Kh-31P L-113**
+        - **Kh-31PK L-111**
+        - **Kh-31PK L-112**
+        - **Kh-31PK L-113**
+        - **Kh-31PD**
+        - **Kh-58USh**
+        - **Kh-59MK**
+        - **Kh-59MKE**
+        - **M80**
+        - **M-16D**
+        - **GROM**
+        - **GROM-B**
+        - **KOSAVA 3 TM**
+        - **YJ-91 L111**
+        - **YJ-91 L112**
+        - **YJ-91 L113**
+        - **LD-10**
+        - **CM-102**
 
 - #### Changes:
 
-    - **AIM-54C+** → **AIM-54C (ECP-82)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix (ECP-82)**.
-    - **Aspid** → **IA. C 1057 Áspid ARM AP**. Statcard name → **IA. Cohete 57 mm Áspid ARM Aletas Plegables**.
-    - **Pampero** → **Pampero AS**. Statcard name → **Cohete 105 mm Pampero Aire-Superficie**.
-    - **BK-BR 125** → **PG BK-BR 125**. Statcard name → **Bomba de propósito general BK-BR de 125 kg**.
-    - **BK-BR 130** → **PG BK-BR 130**. Statcard name → **Bomba de propósito general BK-BR de 130 kg**.
-    - **BK-BR 250** → **PG BK-BR 250**. Statcard name → **Bomba de propósito general BK-BR de 250 kg**.
-    - **BK-BR 500** → **PG BK-BR 500**. Statcard name → **Bomba de propósito general BK-BR de 500 kg**.
-    - **BRP 250**: Statcard name → **Bomba retardada por paracaídas de 250 kg**.
-    - **BRP 500**: Statcard name → **Bomba retardada por paracaídas de 500 kg**.
-    - **INC-220** → **INC 220**. Statcard name → **Bomba incendiaria de 220 kg**.
-    - **Kh-31A**: Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
-    - **Kh-31AD**: Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
-    - **Kh-31P L-111** → **Kh-31P (PRGS-4VP)**. Statcard name → **izd. 77P | Upravlâyemaâ rakyeta Kh-31P (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
-    - **Kh-31P L-112** → **Kh-31P (PRGS-5VP)**. Statcard name → **izd. 77P | Upravlâyemaâ rakyeta Kh-31P (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP)**.
-    - **Kh-31P L-113** → **Kh-31P (PRGS-6VP)**. Statcard name → **izd. 77P | Upravlâyemaâ rakyeta Kh-31P (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP)**.
-    - **Kh-31PK L-111** → **Kh-31PK (PRGS-4VP)**. Statcard name → **izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
-    - **Kh-31PK L-112** → **Kh-31PK (PRGS-5VP)**. Statcard name → **izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP)**.
-    - **Kh-31PK L-113** → **Kh-31PK (PRGS-6VP)**. Statcard name → **izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP)**.
-    - **Kh-31PD**: Statcard name → **izd. 77PD | Upravlâyemaâ rakyeta Kh-31PD**.
-    - **M80** → **M-80**. Statcard name → **Balistički raketa vazduh-zemlja M-80 Munja**.
-        - Serbian package: Statcard name → **Балистички ракета ваздух-земља 128 мм М-80 Муња**.
-    - **M-16D**: Statcard name → **Vođena raketa vazduh-zemlja M-16D**.
-        - Serbian package: **M-16D** → **М-16Д**. Statcard name → **Вођена ракета ваздух-земља М-16Д**.
-    - **GROM**: Statcard name → **Vođena raketa vazduh-zemlja GROM**.
-        - Serbian package: **GROM** → **ГРОМ**. Statcard name → **Вођена ракета ваздух-земља ГРОМ**.
-    - **GROM-B**: Statcard name → **Vođena raketa vazduh-zemlja GROM-B**.
-        - Serbian package: **GROM-B** → **ГРОМ-Б**. Statcard name → **Вођена ракета ваздух-земља ГРОМ-Б**.
-    - **KOSAVA 3 TM** → **KOŠAVA 3 TM**. Statcard name → **Vođena raketa vazduh-zemlja KOŠAVA 3 TM**.
-        - Serbian package: **KOSAVA 3 TM** → **КОШАВА 3 ТМ**. Statcard name → **Вођена ракета ваздух-земља КОШАВА 3 ТМ**.
-    - **VRVZ-240**: Statcard name → **Vođena raketa vazduh-zemlja VRVZ-240**.
-        - Serbian package: **VRVZ-240** → **ВРВЗ-240**. Statcard name → **Вођена ракета ваздух-земља ВРВЗ-240**.
-    - **E-24-A1**: Statcard name → **Vođena raketa vazduh-zemlja E-24-A1**.
-        - Serbian package: Statcard name → **Вођена ракета ваздух-земља Е-24-А1**.
-    - **YJ-91 L111** → **K/AKD91 (PRGS-4VP)**. Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
-        - Mandarin package: Statcard name → **YJ91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
-        - Full Mandarin package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
-        - Mandarin + Russian package: Statcard name → **YJ91 | K/AKD91空地导弹 (Пассивная радиолокационная головка самонаведения ПРГС-4ВП)**.
-        - Full Mandarin + Russian package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Пассивная радиолокационная головка самонаведения ПРГС-4ВП)**.
-    - **LD-10** → **LD10**. Statcard name → **LD10 Qīngxíng Jìn Chéng Fǎn Fúshè Daodàn**.
-        - Mandarin package: Statcard name → **LD10轻型近程反辐射导弹**.
-    - **CM-102** → **CM102**. Statcard name → **CM102 Fan Fúshè Daodàn Wuqì Xìtong**.
-        - Mandarin package: Statcard name → **LD10轻型近程反辐射导弹**.
+    - Update "Heavy Cavalry" changes:
+        - **AIM-54C+** → **AIM-54C (ECP-82)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix (ECP-82)**.
+        - **120 mm M256 cannon** → **Gun, 120mm, M256**.
+        - **Aspid** → **IA. C 1057 Áspid ARM AP**. Statcard name → **IA. Cohete 57 mm Áspid ARM Aletas Plegables**.
+        - **Pampero** → **Pampero AS**. Statcard name → **Cohete 105 mm Pampero Aire-Superficie**.
+        - **BK-BR 125** → **PG BK-BR 125**. Statcard name → **Bomba de propósito general BK-BR de 125 kg**.
+        - **BK-BR 130** → **PG BK-BR 130**. Statcard name → **Bomba de propósito general BK-BR de 130 kg**.
+        - **BK-BR 250** → **PG BK-BR 250**. Statcard name → **Bomba de propósito general BK-BR de 250 kg**.
+        - **BK-BR 500** → **PG BK-BR 500**. Statcard name → **Bomba de propósito general BK-BR de 500 kg**.
+        - **BRP 250**: Statcard name → **Bomba retardada por paracaídas de 250 kg**.
+        - **BRP 500**: Statcard name → **Bomba retardada por paracaídas de 500 kg**.
+        - **INC-220** → **INC 220**. Statcard name → **Bomba incendiaria de 220 kg**.
+        - **Kh-31A**: Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+        - **Kh-31AD**: Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+        - **Kh-31P L-111** → **Kh-31P (PRGS-4VP)**. Statcard name → **izd. 77P | Upravlâyemaâ rakyeta Kh-31P (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+        - **Kh-31P L-112** → **Kh-31P (PRGS-5VP)**. Statcard name → **izd. 77P | Upravlâyemaâ rakyeta Kh-31P (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP)**.
+        - **Kh-31P L-113** → **Kh-31P (PRGS-6VP)**. Statcard name → **izd. 77P | Upravlâyemaâ rakyeta Kh-31P (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP)**.
+        - **Kh-31PK L-111** → **Kh-31PK (PRGS-4VP)**. Statcard name → **izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+        - **Kh-31PK L-112** → **Kh-31PK (PRGS-5VP)**. Statcard name → **izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP)**.
+        - **Kh-31PK L-113** → **Kh-31PK (PRGS-6VP)**. Statcard name → **izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP)**.
+        - **Kh-31PD**: Statcard name → **izd. 77PD | Upravlâyemaâ rakyeta Kh-31PD**.
+        - **Kh-58USh** → **Kh-58UŠ**. Statcard name → **izd. 112UŠ | Upravlâyemaâ rakyeta Kh-58UŠ**.
+        - **Kh-59MK**: Statcard name → **izd. D-9MK | Upravlâyemaâ rakyeta Kh-59MK "Ovod-MK"**.
+        - **Kh-59MKE** → **Kh-59MKÈ**. Statcard name → **izd. D-9MKÈ | Upravlâyemaâ rakyeta Kh-59MKÈ "Ovod-MKÈ"**.
+        - **M80** → **M-80**. Statcard name → **Balistički raketa vazduh-zemlja M-80 Munja**.
+            - Serbian package: Statcard name → **Балистички ракета ваздух-земља 128 мм М-80 Муња**.
+        - **M-16D**: Statcard name → **Vođena raketa vazduh-zemlja M-16D**.
+            - Serbian package: **M-16D** → **М-16Д**. Statcard name → **Вођена ракета ваздух-земља М-16Д**.
+        - **GROM**: Statcard name → **Vođena raketa vazduh-zemlja GROM**.
+            - Serbian package: **GROM** → **ГРОМ**. Statcard name → **Вођена ракета ваздух-земља ГРОМ**.
+        - **GROM-B**: Statcard name → **Vođena raketa vazduh-zemlja GROM-B**.
+            - Serbian package: **GROM-B** → **ГРОМ-Б**. Statcard name → **Вођена ракета ваздух-земља ГРОМ-Б**.
+        - **KOSAVA 3 TM** → **KOŠAVA 3 TM**. Statcard name → **Vođena raketa vazduh-zemlja KOŠAVA 3 TM**.
+            - Serbian package: **KOSAVA 3 TM** → **КОШАВА 3 ТМ**. Statcard name → **Вођена ракета ваздух-земља КОШАВА 3 ТМ**.
+        - **VRVZ-240**: Statcard name → **Vođena raketa vazduh-zemlja VRVZ-240**.
+            - Serbian package: **VRVZ-240** → **ВРВЗ-240**. Statcard name → **Вођена ракета ваздух-земља ВРВЗ-240**.
+        - **E-24-A1**: Statcard name → **Vođena raketa vazduh-zemlja E-24-A1**.
+            - Serbian package: Statcard name → **Вођена ракета ваздух-земља Е-24-А1**.
+        - **YJ-91 L111** → **K/AKD91 (PRGS-4VP)**. Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+            - Mandarin package: Statcard name → **YJ91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+            - Full Mandarin package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
+            - Mandarin + Russian package: Statcard name → **YJ91 | K/AKD91空地导弹 (Пассивная радиолокационная головка самонаведения ПРГС-4ВП)**.
+            - Full Mandarin + Russian package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Пассивная радиолокационная головка самонаведения ПРГС-4ВП)**.
+        - **LD-10** → **LD10**. Statcard name → **LD10 Qīngxíng Jìn Chéng Fǎn Fúshè Daodàn**.
+            - Mandarin package: Statcard name → **LD10轻型近程反辐射导弹**.
+        - **CM-102** → **CM102**. Statcard name → **CM102 Fan Fúshè Daodàn Wuqì Xìtong**.
+            - Mandarin package: Statcard name → **LD10轻型近程反辐射导弹**.
+    - **Kh-58U** → **Kh-58U (PRGS-58M)**. Statcard name → **izd. 112U | Upravlâyemaâ rakyeta Kh-58U (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-58M)**.
+    - **Kh-58UŠK**: Statcard name → **izd. 112UŠK | Upravlâyemaâ rakyeta Kh-58UŠK**.
+    - **128 mm PaK44 cannon** → **12,8cm Panzerjägerkanone 80 L/55**.
 
 ### Decals:
 
@@ -323,9 +337,18 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Sensors:
 
+- #### Additions:
+
+    - **L-081 A**
+    - **L-081 B**
+    - **L-081 C**
+
 - #### Changes:
 
-    - **AN/APG-66(V)3** → **AN/APG-63(V)3**. This is not the actual AN/APG-66(V)3, that one stays the same, I just made a typo on the AN/APG-63(V)3.
+    - **L-080 A** → **L-080**. Statcard name → **Kontyejnyernaâ L-080 "Fantasmagoriâ-A"**.
+    - **L-081 B** → **L-080**. Statcard name → **Kontyejnyernaâ L-081 "Fantasmagoriâ-B"**.
+    - **L-081 C** → **Fantasmagoriâ-S**. Statcard name → **Kontyejnyernaâ "Fantasmagoriâ-S"**.
+    - **AN/APG-66(V)3** → **AN/APG-63(V)3**.
 
 ## 1.17.04 - 6-05-2026
 

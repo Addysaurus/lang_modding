@@ -5185,9 +5185,9 @@ germ_stuh_III_ausf_G_shop;StuH 42 G
 germ_stuh_III_ausf_G_0;Sturmhaubitze 42 Ausf. G
 germ_stuh_III_ausf_G_1;StuH 42 G
 germ_stuh_III_ausf_G_2;SPG
-germ_hummel_shop;s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)
-germ_hummel_0;"Deutsche Eisenwerke | schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV (Sf.) (Sd.Kfz. 165) ""Hummel"""
-germ_hummel_1;s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)
+germ_hummel_shop;s.Pz.H. 18/1 a. Fgst.Pz.Kpfw. III/IV (Sf.)
+germ_hummel_0;"Deutsche Eisenwerke | schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV (Selbtstfahrlafette) (Sd.Kfz. 165) ""Hummel"""
+germ_hummel_1;s.Pz.H. 18/1 a. Fgst.Pz.Kpfw. III/IV (Sf.)
 germ_hummel_2;SPG
 germ_panzerwerfer_42_shop;15 cm Pz.W.42
 germ_panzerwerfer_42_0;15 cm Pz.W.42 (15 cm Nb.W.41) auf Sf.
@@ -5294,13 +5294,17 @@ germ_flakpanzer_zerstorer_45_0;"Flakpanzerkampfwagen IV (3cm Fla.K.-Vierling) ""
 germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
 germ_flakpanzer_zerstorer_45_2;SPAA
 germ_panzerjager_tiger_P_ferdinand_shop;Pz.Jgr. Tiger (P)
-germ_panzerjager_tiger_P_ferdinand_0;"Nibelungenwerke | Panzerjäger Tiger (P) (Sd.KFz. 184) ""Ferdinand"""
+germ_panzerjager_tiger_P_ferdinand_0;"Nibelungenwerke | Panzerjäger Tiger (P) (Sd.Kfz. 184) ""Ferdinand"""
 germ_panzerjager_tiger_P_ferdinand_1;Pz.Jgr. Tiger (P)
 germ_panzerjager_tiger_P_ferdinand_2;Tank Destroyer
 germ_panzerjager_tiger_P_elefant_shop;Elefant
-germ_panzerjager_tiger_P_elefant_0;Nibelungenwerke | Panzerjäger Tiger (P) (Sd.KFz. 184) | Elefant
+germ_panzerjager_tiger_P_elefant_0;Nibelungenwerke | Panzerjäger Tiger (P) (Sd.Kfz. 184) | Elefant
 germ_panzerjager_tiger_P_elefant_1;Elefant
 germ_panzerjager_tiger_P_elefant_2;Tank Destroyer
+germ_panzerjager_tiger_shop;Pz.Jgr. Tiger B
+germ_panzerjager_tiger_0;Nibelungenwerke | Panzerjäger Tiger Ausf. B (Sd.Kfz. 186)
+germ_panzerjager_tiger_1;Pz.Jgr. Tiger
+germ_panzerjager_tiger_2;Tank Destroyer
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 germ_marder_df_105_shop;◄ DF 105
@@ -11640,10 +11644,6 @@ germ_panzerjager_panther_shop;Pz.Jgr. Panther G1
 germ_panzerjager_panther_0;Panzerjäger Panther (8,8cm) Ausf. G1
 germ_panzerjager_panther_1;Pz.Jgr. Panther
 germ_panzerjager_panther_2;SPG
-germ_panzerjager_tiger_shop;Pz.Jgr. Tiger B
-germ_panzerjager_tiger_0;Panzerjäger Tiger Ausf. B (H)
-germ_panzerjager_tiger_1;Pz.Jgr. Tiger
-germ_panzerjager_tiger_2;SPG
 uk_3_inch_gun_carrier_shop;3-in Gun, Mk. I
 uk_3_inch_gun_carrier_0;Carrier, Churchill, A.22D, 3-in Gun, Mk. I
 uk_3_inch_gun_carrier_1;3-in Gun, Mk. I

@@ -235,6 +235,7 @@ All dates are listed in DD-MM-YYYY format.
     - **T-90M**: Statcard name → **Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob"yekt 188M | T-90M obr. 2017 g. "Proryv-3"**.
     - **T-73B3 (Aryena-M)**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6-1 "Aryena-M")**.
     - **Pz.Jgr. Tiger B**: Statcard name → **Nibelungenwerke | Panzerjäger Tiger Ausf. B (Sd.Kfz. 186)**.
+    - **LV IRIS-T SLM (Radarfahrzeug) / (Startfahrzeug)** (folder) → **LV IRIS-T SLM**.
 
 ### Weaponry:
 

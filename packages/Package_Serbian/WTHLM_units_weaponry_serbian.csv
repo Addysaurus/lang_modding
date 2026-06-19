@@ -4,10 +4,18 @@
 //GUN AMMUNITION
 
 //BOMBS
+weapons/rs_fab_100_m80;<color=@userlogColoredText>119.5 kg</color> Авио-бомба ФАБ-100 М80 <color=#ff6f00>BMB</color>
+weapons/rs_fab_100_m80/short;ФАБ-100 М80
+weapons/rs_fab_250_m79;<color=@userlogColoredText>240 kg</color> Авио-бомба ФАБ-250 М79 <color=#ff6f00>BMB</color>
+weapons/rs_fab_250_m79/short;ФАБ-250 М79
+weapons/rs_fab_250_pgb;<color=@userlogColoredText>290 kg</color> Вођена авио-бомба ФАБ-250 ПГБ <color=#ff6f00>BMB-GNSS</color>
+weapons/rs_fab_250_pgb/short;ФАБ-250 ПГБ
+weapons/rs_plab_350m_73;<color=@userlogColoredText>345 kg</color> Пламена авио-бомба ПЛАБ-350 М73 <color=#ff6f00>BMB-NPM</color>
+weapons/rs_plab_350m_73/short;ПЛАБ-350 М73
 
 //ROCKETS
-weapons/rs_br_vz_128_m15_rocket_heat;Балистички ракета ваздух-земља 128 мм М-80 Муња <color=#ff6f00>RKT</color>
-weapons/rs_br_vz_128_m15_rocket_heat/short;М-80
+weapons/rs_br_vz_128_m15_rocket_heat;Балистички ракета ваздух-земља 128 мм М80 Муња <color=#ff6f00>RKT</color>
+weapons/rs_br_vz_128_m15_rocket_heat/short;М80
 
 //MISSILES
 weapons/rs_salgr_m_16d;Вођена ракета ваздух-земља М-16Д <color=#ff6f00>AGM-LG</color>

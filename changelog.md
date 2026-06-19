@@ -265,6 +265,10 @@ All dates are listed in DD-MM-YYYY format.
         - **Kh-58USh**
         - **Kh-59MK**
         - **Kh-59MKE**
+        - **FAB-100 M80**
+        - **FAB-250 M79**
+        - **FAB-250 PGB**
+        - **PLAB-350**
         - **M80**
         - **M-16D**
         - **GROM**
@@ -302,7 +306,15 @@ All dates are listed in DD-MM-YYYY format.
         - **Kh-58USh** → **Kh-58UŠ**. Statcard name → **izd. 112UŠ | Upravlâyemaâ rakyeta Kh-58UŠ**.
         - **Kh-59MK**: Statcard name → **izd. D-9MK | Upravlâyemaâ rakyeta Kh-59MK "Ovod-MK"**.
         - **Kh-59MKE** → **Kh-59MKÈ**. Statcard name → **izd. D-9MKÈ | Upravlâyemaâ rakyeta Kh-59MKÈ "Ovod-MKÈ"**.
-        - **M80** → **M-80**. Statcard name → **Balistički raketa vazduh-zemlja M-80 Munja**.
+        - **FAB-100 M80**: Statcard name → **Avio-bomba FAB-100 M80**.
+            - Serbian package: **FAB-100 M80** → **ФАБ-100 М80**. Statcard name → **Авио-бомба ФАБ-100 М80**.
+        - **FAB-250 M79**: Statcard name → **Avio-bomba FAB-250 M79**.
+            - Serbian package: **FAB-250 M79** → **ФАБ-250 М79**. Statcard name → **Авио-бомба ФАБ-250 М79**.
+        - **FAB-250 PGB**: Statcard name → **Vođena avio-bomba FAB-250 PGB**.
+            - Serbian package: **FAB-250 PGB** → **ФАБ-250 ПГБ**. Statcard name → **Вођена авио-бомба ФАБ-250 ПГБ**.
+        - **PLAB-350** → **PLAB-350 M73**. Statcard name → **Plamena avio-bomba PLAB-350 M73**.
+            - Serbian package: **PLAB-350** → **ПЛАБ-350 М73**. Statcard name → **Пламена авио-бомба ПЛАБ-350 М73**.
+        - **M80**: Statcard name → **Balistički raketa vazduh-zemlja 128 mm M-80 Munja**.
             - Serbian package: Statcard name → **Балистички ракета ваздух-земља 128 мм М-80 Муња**.
         - **M-16D**: Statcard name → **Vođena raketa vazduh-zemlja M-16D**.
             - Serbian package: **M-16D** → **М-16Д**. Statcard name → **Вођена ракета ваздух-земља М-16Д**.

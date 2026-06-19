@@ -523,10 +523,18 @@ weapons/cz_ofab_100mb;<color=@userlogColoredText>114 kg</color> OFAB-100mB <colo
 weapons/cz_ofab_100mb/short;OFAB-100mB
 weapons/cz_ofab_100_110_tu_jupiter;"<color=@userlogColoredText>121 kg</color> OFAB-100-110TU ""Jupiter"" <color=#ff6f00>BMB</color>"
 weapons/cz_ofab_100_110_tu_jupiter/short;OFAB-100-110TU
+weapons/rs_fab_100_m80;<color=@userlogColoredText>119.5 kg</color> Avio-bomba FAB-100 M80 <color=#ff6f00>BMB</color>
+weapons/rs_fab_100_m80/short;FAB-100 M80
+weapons/rs_fab_250_m79;<color=@userlogColoredText>240 kg</color> Avio-bomba FAB-250 M79 <color=#ff6f00>BMB</color>
+weapons/rs_fab_250_m79/short;FAB-250 M79
+weapons/rs_fab_250_pgb;<color=@userlogColoredText>290 kg</color> Vođena avio-bomba FAB-250 PGB <color=#ff6f00>BMB-GNSS</color>
+weapons/rs_fab_250_pgb/short;FAB-250 PGB
 weapons/su_ofab_250_270;<color=@userlogColoredText>268 kg</color> OFAB-250-270 <color=#ff6f00>BMB</color>
 weapons/su_ofab_250_270/short;OFAB-250-270
 weapons/su_kab_250lg_e;<color=@userlogColoredText>256 kg</color> Korryektiruyemaâ aviaczionnaâ bomba KAB-250LG-È <color=#ff6f00>BMB-LG</color>
 weapons/su_kab_250lg_e/short;KAB-250LG-È
+weapons/rs_plab_350m_73;<color=@userlogColoredText>345 kg</color> Plamena avio-bomba PLAB-350 M73 <color=#ff6f00>BMB-NPM</color>
+weapons/rs_plab_350m_73/short;PLAB-350 M73
 weapons/su_kab_500lg_e;<color=@userlogColoredText>560 kg</color> Korryektiruyemaâ aviaczionnaâ bomba KAB-500LG-È <color=#ff6f00>BMB-LG</color>
 weapons/su_kab_500lg_e/short;KAB-500LG-È
 weapons/su_upab_500b_e;<color=@userlogColoredText>505 kg</color> K08BÈ | Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-500B-È <color=#ff6f00>BMB-GNSS</color>
@@ -644,8 +652,8 @@ weapons/jato_booster_right;Flugzeug Start Rakete 69 <color=#ff6f00>RKT-JATO</col
 weapons/jato_booster_right/short;Flz.Sta.Rak. 69
 
 //USSR ROCKETS
-weapons/rs_br_vz_128_m15_rocket_heat;Balistički raketa vazduh-zemlja M-80 Munja <color=#ff6f00>RKT</color>
-weapons/rs_br_vz_128_m15_rocket_heat/short;M-80
+weapons/rs_br_vz_128_m15_rocket_heat;Balistički raketa vazduh-zemlja 128 mm M80 Munja <color=#ff6f00>RKT</color>
+weapons/rs_br_vz_128_m15_rocket_heat/short;BR-VZ-128 M80
 650mm_9m79;9M79
 
 //UK ROCKETS

@@ -180,6 +180,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Ferdinand** → **Pz.Jgr. Tiger (P)**. Statcard name → **Nibelungenwerke | Panzerjäger Tiger (P) (Sd.KFz. 184) "Ferdinand"**.
     - **Elefant**: Statcard name → **Nibelungenwerke | Panzerjäger Tiger (P) (Sd.KFz. 184) | Elefant**.
     - **Ferdinand / Pz.Jgr. Tiger B** (folder) → **Pz.Jgr. Tiger (P) / B**.
+    - **Pz.Jgr. Tiger B**: Statcard name → **Nibelungenwerke | Panzerjäger Tiger Ausf. B (Sd.Kfz. 186)**.
     - **B-52H-140-BW (1979)**: Statcard name → **Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress "BUFF" (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))** (it's... it's so long smh, don't worry, multiline soon).
     - Thai has received a brand new transliteration system. ISO 11940-1:1998 has been replaced with out own, [custom transliteration system called Paiboon-M2](https://docs.google.com/spreadsheets/d/1ZShnZNTtK1ZH1IG5m2Nm3diCefncqoFK_zaXJcM44cE/edit?usp=sharing).
         - **B.Kh.11**: Statcard name → **Curtiss-Wright Corperation Hawk Model 75N | Khērūng Bin Khab Lai Bāeb Thī 11**.
@@ -234,8 +235,9 @@ All dates are listed in DD-MM-YYYY format.
     - **Litvâk's Yak-1** → **Litvâk's Âk-1**.
     - **T-90M**: Statcard name → **Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob"yekt 188M | T-90M obr. 2017 g. "Proryv-3"**.
     - **T-73B3 (Aryena-M)**: Statcard name → **Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob"yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6-1 "Aryena-M")**.
-    - **Pz.Jgr. Tiger B**: Statcard name → **Nibelungenwerke | Panzerjäger Tiger Ausf. B (Sd.Kfz. 186)**.
     - **LV IRIS-T SLM (Radarfahrzeug) / (Startfahrzeug)** (folder) → **LV IRIS-T SLM**.
+    - **P-59A-1-BE**: Statcard name → **Bell Aircraft Corporation Model 27 | P-59A-1-BE Airacomet**.
+    - **F/A18 C (Upgrade 25)** → **F/A18 C (RP 17)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A18 C Hornet (Rüstungsprogramm 2017)**.
 
 ### Weaponry:
 
@@ -352,12 +354,14 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
+    - **AN/ASQ-213 R5 HARM**
     - **L-081 A**
     - **L-081 B**
     - **L-081 C**
 
 - #### Changes:
 
+    - **AN/ASQ-213 R5 HARM** → **AN/ASQ-213 (R5)**. Statcard name → **AN/ASQ-213 HARM Targeting System (Release 5)**.
     - **L-080 A** → **L-080**. Statcard name → **Kontyejnyernaâ L-080 "Fantasmagoriâ-A"**.
     - **L-081 B** → **L-080**. Statcard name → **Kontyejnyernaâ L-081 "Fantasmagoriâ-B"**.
     - **L-081 C** → **Fantasmagoriâ-S**. Statcard name → **Kontyejnyernaâ "Fantasmagoriâ-S"**.

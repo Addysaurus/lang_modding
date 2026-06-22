@@ -3501,6 +3501,13 @@ germ_pzkpfw_VI_ausf_h1_tiger_animal_version_0;"␠ Panzerkampfwagen Tiger Ausf. 
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_1;␠ Tiger E
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_2;Heavy Tank
 
+germ_vk_3002m_shop;V.K. 30.02 (M) (Vs.-Fgst.Nr. 2)
+germ_vk_3002m_0;"<color=#81c3fc>Maschinenfabrik Augsburg-Nürnberg, Werk Nürnberg</color>
+V.K. 30.02 (M)
+<color=@currencyGoldColor>Versuchs-Fahrgestellnummer 2</color>"
+germ_vk_3002m_1;V.K. 30.02 (M)
+germ_vk_3002m_2;Medium Tank
+
 germ_flakpanzer_IV_Ostwind_shop;Ostwind
 germ_flakpanzer_IV_Ostwind_0;"<color=#7ce68f>Flakpanzerkampfwagen IV</color>
 <color=#adadad>(3,7cm Fla.K. 43)</color>
@@ -3572,9 +3579,11 @@ germ_kv_1B_finland_0;"<color=#81c3fc>Kirovskij zavod</color>
 germ_kv_1B_finland_1;▀ 44 psv KW 1 B
 germ_kv_1B_finland_2;▀ Heavy Tank
 
-germ_pzkpfw_VI_tiger_P_shop;VK 45.01 (P)
-germ_pzkpfw_VI_tiger_P_0;VK 45.01 (P)
-germ_pzkpfw_VI_tiger_P_1;VK 45.01
+germ_pzkpfw_VI_tiger_P_shop;V.K. 45.01 (P)
+germ_pzkpfw_VI_tiger_P_0;"<color=#81c3fc>Dr. Ing. h.c. F. Porsche, Konstruktion und Beratung für Motoren- und
+Fahrzeugbau Typ 101</color>
+V.K. 45.01 (P)"
+germ_pzkpfw_VI_tiger_P_1;V.K. 45.01 (P)
 germ_pzkpfw_VI_tiger_P_2;Heavy Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
@@ -3582,7 +3591,7 @@ germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger B (Fgst.Nr. 15)
 germ_pzkpfw_VI_ausf_b_tiger_IIp_0;"<color=#81c3fc>Henschel & Sohn</color>
 <color=#5cae63>Sd.Kfz. 182</color>
 Panzerkampfwagen Tiger Ausf. B
-<color=@currencyGoldColor>Fgst.Nr. 280015</color>"
+<color=@currencyGoldColor>Fahrgestellnummer 280015</color>"
 germ_pzkpfw_VI_ausf_b_tiger_IIp_1;Tiger B
 germ_pzkpfw_VI_ausf_b_tiger_IIp_2;Heavy Tank
 
@@ -3614,14 +3623,14 @@ germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
 germ_flakpanzer_zerstorer_45_2;SPAA
 
 germ_panzerjager_tiger_P_ferdinand_shop;Pz.Jgr. Tiger (P)
-germ_panzerjager_tiger_P_ferdinand_0;"<color=#81c3fc>Nibelungenwerke</color>
+germ_panzerjager_tiger_P_ferdinand_0;"<color=#81c3fc>Nibelungenwerk</color>
 <color=#5cae63>Sd.Kfz. 184</color>
 Panzerjäger Tiger (P) ""Ferdinand"""
 germ_panzerjager_tiger_P_ferdinand_1;Pz.Jgr. Tiger (P)
 germ_panzerjager_tiger_P_ferdinand_2;Tank Destroyer
 
 germ_panzerjager_tiger_P_elefant_shop;Elefant
-germ_panzerjager_tiger_P_elefant_0;"<color=#81c3fc>Nibelungenwerke</color>
+germ_panzerjager_tiger_P_elefant_0;"<color=#81c3fc>Nibelungenwerk</color>
 <color=#5cae63>Sd.Kfz. 184</color>
 <color=#7ce68f>Panzerjäger Tiger (P)</color>
 Elefant"
@@ -3629,7 +3638,7 @@ germ_panzerjager_tiger_P_elefant_1;Elefant
 germ_panzerjager_tiger_P_elefant_2;Tank Destroyer
 
 germ_panzerjager_tiger_shop;Pz.Jgr. Tiger B
-germ_panzerjager_tiger_0;"<color=#81c3fc>Nibelungenwerke</color>
+germ_panzerjager_tiger_0;"<color=#81c3fc>Nibelungenwerk</color>
 <color=#5cae63>Sd.Kfz. 186</color>
 Panzerjäger Tiger Ausf. B"
 germ_panzerjager_tiger_1;Pz.Jgr. Tiger

@@ -30,6 +30,7 @@ weapons/12_7mm_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 
 weapons/12_7mm_m2_hb_t77e1_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/12_7mm_M2_HB_user_machinegun_for_M15;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/12_7mm_exo_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
+weapons/12_7mm_M2_HB_user_machinegun_for_chaffee;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/gunBrowning50_early;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
 weapons/gunBrowning50_early_1935;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
 weapons/gunBrowning50_M2;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
@@ -84,18 +85,20 @@ weapons/cannon_fm_k_45/short;FM.-K. 45
 weapons/20mm_mg151_20_mid_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/20mm_mg151_20_out_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/20mm_FlaK38_wirbelwind_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Flugabwehrkanone-Zwilling 38 <color=#ff6f00>ACNN</color>
-weapons/cannonM61A2_switzerland;<color=@userlogColoredText>30 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
-weapons/cannonM61A2_switzerland/short;Flz.Kan. 92
+weapons/cannonHispano804;<color=@userlogColoredText>20 mm</color> Cañón de 20 mm DCA-804 <color=#ff6f00>ACNN</color>
 weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug Kanone 76 <color=#ff6f00>ACNN</color>
 weapons/cannonFlzKan_76/short;Flz.Kan. 76
 weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
 weapons/cannonDEFA552A_switzerland/short;Flz.Kan. 65
+weapons/cannonM61A2_switzerland;<color=@userlogColoredText>30 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
+weapons/cannonM61A2_switzerland/short;Flz.Kan. 92
 weapons/30mm_73_m44_naval_user_cannon;<color=@userlogColoredText>30 mm</color> 3cm Flugabwehrkanone M/44 L/73 <color=#ff6f00>ACNN</color>
 weapons/37mm_gerat_341_user_cannon;<color=@userlogColoredText>37 mm</color> 3,7cm Gerät 341 <color=#ff6f00>ACNN</color>
 weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 <color=#ff6f00>ACNN</color>
 weapons/55mm_77_gerat_58_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 5,5cm Gerät 58 <color=#ff6f00>ACNN</color>
 weapons/105mm_Rh105_30_user_cannon;<color=@userlogColoredText>105 mm</color> Rh105-30 <color=#ff6f00>CNN</color>
 weapons/128mm_PaK44_user_cannon;<color=@userlogColoredText>128 mm</color> 12,8cm Panzerjägerkanone 80 L/55 <color=#ff6f00>CNN</color>
+weapons/150mm_sfh_18_user_cannon;<color=@userlogColoredText>150 mm</color> 15cm schwere Feldhaubitze 18/1 (Selbtstfahrlafette) <color=#ff6f00>CNN-HWZ</color>
 weapons/350mm_45_skl_45_naval_user_cannon;<color=@userlogColoredText>350 mm</color> 35cm Schnelladekanone L/45 <color=#ff6f00>CNN</color>
 
 //USSR GUNS
@@ -198,6 +201,7 @@ weapons/30mm_zpt_99_user_cannon;<color=@userlogColoredText>30 mm</color> ZPZ2002
 weapons/35mm_PG_99_35_2_user_cannon;<color=@userlogColoredText>35 mm</color> PGZ2009 Shì Shuāng 35 Háomi Zì Háng Gāo Pào <color=#ff6f00>ACNN</color>
 weapons/cannonType37_1;<color=@userlogColoredText>37 mm</color> 37 Háomi 1 Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
 weapons/37mm_type_65_user_cannon;<color=@userlogColoredText>37 mm</color> 1965 Nián Shì Shuāng Guan 37 Háomi Gāoshè Jīguān Pào <color=#ff6f00>ACNN</color>
+weapons/37mm_type_76_user_cannon;<color=@userlogColoredText>37 mm</color> PGZ1988 Shì Shuāng Guan 37 Háomi Lüdài Shì Zì Háng Gāo Pào <color=#ff6f00>ACNN</color>
 weapons/57mm_WA_318_user_cannon;<color=@userlogColoredText>57 mm</color> WA318 | PG1959 Shì 57 Háomi Gāoshè Pào <color=#ff6f00>ACNN</color>
 weapons/73mm_Type_85_user_cannon;<color=@userlogColoredText>73 mm</color> 1986 Nián Shì 73 Háomi Tankè Pào <color=#ff6f00>CNN</color>
 weapons/85mm_Type_56_user_cannon;<color=@userlogColoredText>85 mm</color> 52-PT-365 | ZiS-S-53 obr. 1944 g. <color=#ff6f00>CNN</color>
@@ -457,6 +461,8 @@ type_44_ap;59 Shì 100 Háomi Chuān Jia Dàn
 30mm_he_tf;30 mm HE-TF
 
 //USA BOMBS
+weapons/us_gbu_53;<color=@userlogColoredText>92.53284 kg</color> Bomb, Guided, GBU-53/B Small Diameter Bomb II <color=#ff6f00>BMB-IR/GNSS</color>
+weapons/us_gbu_53/short;GBU-53/B
 weapons/us_500lb_gbu_62_jdam_er;<color=@userlogColoredText>289.72 kg</color> Bomb, Guided, GBU-62(V)1/B Joint Direct Attack Munition Extended Range <color=#ff6f00>BMB-GNSS</color>
 weapons/us_500lb_gbu_62_jdam_er/short;GBU-62(V)1/B
 weapons/us_500lb_gbu_62_ljdam_er;<color=@userlogColoredText>289.72 kg</color> Bomb, Guided, GBU-62(V)1/B Laser Joint Direct Attack Munition Extended Range <color=#ff6f00>BMB-GNSS/LG</color>
@@ -847,10 +853,16 @@ weapons/us_AGM_22_default;Air-Launched, Surface-Attack, Guided Missile, AGM-22 <
 weapons/us_AGM_22_default/short;AGM-22
 weapons/us_agm_45b_10;Air-Launched, Surface-Attack, Guided Missile, AGM-45B-10 Shrike <color=#ff6f00>AGM-RG</color>
 weapons/us_agm_45b_10/short;AGM-45B-10
+weapons/us_agm_84d;Air-Launched, Surface-Attack, Guided Missile, AGM-84D-1 Harpoon <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_84d/short;AGM-84D-1
 weapons/us_agm_84h_slam_er;Air-Launched, Surface-Attack, Guided Missile, AGM-84H-1 Standoff Land Attack Missile Expanded Response <color=#ff6f00>AGM-IR/GNSS</color>
 weapons/us_agm_84h_slam_er/short;AGM-84H-1
-weapons/us_agm_88a;Air-Launched, Surface-Attack, Guided Missile, AGM-88A High-Speed Anti-Radiation Missile <color=#ff6f00>AGM-RG</color>
+weapons/us_agm_88a;Air-Launched, Surface-Attack, Guided Missile, AGM-88A High-Speed Anti-Radiation Missile <color=#ff6f00>AGM-PRH</color>
 weapons/us_agm_88a/short;AGM-88A
+weapons/us_agm_88c;Air-Launched, Surface-Attack, Guided Missile, AGM-88C High-Speed Anti-Radiation Missile <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_88c/short;AGM-88C
+weapons/us_agm_122;Air-Launched, Surface-Attack, Guided Missile, AGM-122A Sidearm <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_122/short;AGM-122A
 weapons/us_hellfire_agm_114_b;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
 weapons/us_hellfire_agm_114_b/short;AGM-114B
 weapons/us_hellfire_agm_114_b_default;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
@@ -1182,6 +1194,14 @@ weapons/72mm_hn_6/short;HN-6
 //ITALY MISSILES
 
 //FRANCE MISSILES
+weapons/fr_as37_c_band;AS 37 Martel (C) <color=#ff6f00>AGM-PRH</color>
+weapons/fr_as37_c_band/short;AS 37 (C)
+weapons/fr_as37_l_band;AS 37 Martel (L) <color=#ff6f00>AGM-PRH</color>
+weapons/fr_as37_l_band/short;AS 37 (L)
+weapons/fr_as37_s_band;AS 37 Martel (S) <color=#ff6f00>AGM-PRH</color>
+weapons/fr_as37_s_band/short;AS 37 (S)
+weapons/fr_as37_armat;AS 37 ARMAT <color=#ff6f00>AGM-PRH</color>
+weapons/fr_as37_armat/short;AS 37 ARMAT
 weapons/140mm_akeron_mp_rocket_launchr_user_cannon;AKERON MP <color=#ff6f00>LCH</color>
 weapons/140mm_akeron_mp_rocket_launchr_user_cannon/short;AKERON MP
 140mm_akeron_mp;AKERON MP
@@ -1190,8 +1210,13 @@ weapons/380mm_aster_30_user_cannon/short;SYLVER A50
 380mm_aster_30;Aster 30 Block 0
 
 //SWEDEN MISSILES
+weapons/us_agm_119a_penguin;Penguin MK3 <color=#ff6f00>AGM-IR</color>
+weapons/us_agm_119a_penguin/short;Penguin MK3
+weapons/us_agm_119a_penguin_wo_radar_designation;Penguin MK3 <color=#ff6f00>AGM-IR</color>
+weapons/us_agm_119a_penguin_wo_radar_designation/short;Penguin MK3
 us_iris_t;lvrb 98
-weapons/127mm_IRIS_T_user_cannon;Diehl Defence ML-98 | luftvärnsrobotsystem 98 <color=#ff6f00>LCH</color>
+weapons/127mm_IRIS_T_user_cannon;luftvärnsrobotsystem 98 <color=#ff6f00>LCH</color>
+weapons/127mm_aim_9x_nomads_user_cannon;National Manoeuvre Air Defence System <color=#ff6f00>LCH</color>
 
 //ISRAEL MISSILES
 weapons/il_shafrir_1;Šafrir 1 <color=#ff6f00>AAM-IR</color>
@@ -1614,6 +1639,10 @@ explosiveType/nipolit;Nipolit
 explosiveType/pbxn_9;PBXN-9
 explosiveType/xp3264;XP3264
 explosiveType/pbxn_107;PBXN-107
+explosiveType/jhl_3;JHL3
+explosiveType/pax_48;PAX-48
+explosiveType/pax_3;PAX-3
+explosiveType/destex;Destex
 
 //UNCATEGORIZED
 weapons/cannonMGC30L;20 mm MG C/30L cannon
@@ -2093,8 +2122,6 @@ weapons/us_gbu_39;<color=@userlogColoredText>121.56 kg</color> Bomb, Guided, GBU
 weapons/us_gbu_39/short;GBU-39/B
 weapons/us_agm_123;Air-Launched, Surface-Attack, Guided Missile, AGM-123A Skipper II <color=#ff6f00>AGM-LG</color>
 weapons/us_agm_123/short;AGM-123A
-weapons/us_agm_119a_penguin;Penguin MK3 <color=#ff6f00>AGM-IR</color>
-weapons/us_agm_119a_penguin/short;Penguin MK3
 weapons/us_2000lb_egbu_24_paveway_3;<color=@userlogColoredText>1079.55 kg</color> Bomb, Guided, GBU-24E/B Paveway III <color=#ff6f00>BMB-LG</color>
 weapons/us_2000lb_egbu_24_paveway_3/short;GBU-24E/B
 weapons/fr_250kg_aasm_250_hammer_gps;AASM HAMMER | AASM 250 (SBU 38) <color=#ff6f00>AGM-GNSS</color>
@@ -2994,11 +3021,14 @@ missile/loadFactorLimit;Maximum overload during launch
 missile/guidance;Guidance
 missile/guidance/ir;IR
 missile/guidance/ir+IOG;IR + IOG
-missile/guidance/ir+IOG+GNSS;IR + IOG + GNSS
+missile/guidance/ir+IOG+GNSS;IR + GNSS + IOG
 missile/guidance/ir+IOG+DL;IR + IOG + DL
 missile/guidance/tv;TV
 missile/guidance/tv+IOG;TV + IOG
-missile/guidance/tv+IOG+GNSS;TV + IOG + GNSS
+missile/guidance/tv+IOG+GNSS;TV + GNSS + IOG
+missile/guidance/PRH;PRH
+missile/guidance/PRH+IOG;PRH + IOG
+missile/guidance/PRH+IOG+GNSS;PRH + GNSS + IOG
 missile/guidance/SARH;SARH
 missile/guidance/SARH+IOG;SARH + IOG
 missile/guidance/SARH+IOG+DL;SARH + IOG + DL
@@ -3007,7 +3037,7 @@ missile/guidance/ARH+IOG;ARH + IOG
 missile/guidance/ARH+IOG+DL;ARH + IOG + DL
 missile/guidance/laser;Laser
 missile/guidance/laser+IOG;Laser + IOG
-missile/guidance/laser+IOG+GNSS;Laser + IOG + GNSS
+missile/guidance/laser+IOG+GNSS;Laser + GNSS + IOG
 missile/guidance/sns;GNSS
 missile/guidance/mclos;Manual (MCLOS)
 missile/guidance/saclos;Semi-Automatic (SACLOS)

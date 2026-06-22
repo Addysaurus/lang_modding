@@ -5227,6 +5227,10 @@ germ_pzkpfw_VI_ausf_h1_tiger_animal_version_shop;␠ Tiger E (früh)
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_0;␠ Panzerkampfwagen Tiger Ausf. E (früh)
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_1;␠ Tiger E
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_2;Heavy Tank
+germ_vk_3002m_shop;V.K. 30.02 (M) (Vs.-Fgst.Nr. 2)
+germ_vk_3002m_0;Maschinenfabrik Augsburg-Nürnberg, Werk Nürnberg | V.K. 30.02 (M) (Versuchs-Fahrgestellnummer 2)
+germ_vk_3002m_1;V.K. 30.02 (M)
+germ_vk_3002m_2;Medium Tank
 germ_flakpanzer_IV_Ostwind_shop;Ostwind
 germ_flakpanzer_IV_Ostwind_0;"Flakpanzerkampfwagen IV (3,7cm Fla.K. 43) ""Ostwind"""
 germ_flakpanzer_IV_Ostwind_1;Ostwind
@@ -5267,14 +5271,14 @@ germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
 germ_kv_1B_finland_0;"▀ Kirovskij zavod | Ps. 272-1 | 44 tonnin panssarivaunu KW 1 B ""Klimi"""
 germ_kv_1B_finland_1;▀ 44 psv KW 1 B
 germ_kv_1B_finland_2;▀ Heavy Tank
-germ_pzkpfw_VI_tiger_P_shop;VK 45.01 (P)
-germ_pzkpfw_VI_tiger_P_0;VK 45.01 (P)
-germ_pzkpfw_VI_tiger_P_1;VK 45.01
+germ_pzkpfw_VI_tiger_P_shop;V.K. 45.01 (P)
+germ_pzkpfw_VI_tiger_P_0;Dr. Ing. h.c. F. Porsche, Konstruktion und Beratung für Motoren- und Fahrzeugbau Typ 101 | V.K. 45.01 (P)
+germ_pzkpfw_VI_tiger_P_1;V.K. 45.01 (P)
 germ_pzkpfw_VI_tiger_P_2;Heavy Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger B (Fgst.Nr. 15)
-germ_pzkpfw_VI_ausf_b_tiger_IIp_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fgst.Nr. 280015)
+germ_pzkpfw_VI_ausf_b_tiger_IIp_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fahrgestellnummer 280015)
 germ_pzkpfw_VI_ausf_b_tiger_IIp_1;Tiger B
 germ_pzkpfw_VI_ausf_b_tiger_IIp_2;Heavy Tank
 germ_pzkpfw_VI_ausf_b_tiger_IIh_shop;Tiger B (Serien-Turm)
@@ -5294,15 +5298,15 @@ germ_flakpanzer_zerstorer_45_0;"Flakpanzerkampfwagen IV (3cm Fla.K.-Vierling) ""
 germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
 germ_flakpanzer_zerstorer_45_2;SPAA
 germ_panzerjager_tiger_P_ferdinand_shop;Pz.Jgr. Tiger (P)
-germ_panzerjager_tiger_P_ferdinand_0;"Nibelungenwerke | Panzerjäger Tiger (P) (Sd.Kfz. 184) ""Ferdinand"""
+germ_panzerjager_tiger_P_ferdinand_0;"Nibelungenwerk | Panzerjäger Tiger (P) (Sd.Kfz. 184) ""Ferdinand"""
 germ_panzerjager_tiger_P_ferdinand_1;Pz.Jgr. Tiger (P)
 germ_panzerjager_tiger_P_ferdinand_2;Tank Destroyer
 germ_panzerjager_tiger_P_elefant_shop;Elefant
-germ_panzerjager_tiger_P_elefant_0;Nibelungenwerke | Panzerjäger Tiger (P) (Sd.Kfz. 184) | Elefant
+germ_panzerjager_tiger_P_elefant_0;Nibelungenwerk | Panzerjäger Tiger (P) (Sd.Kfz. 184) | Elefant
 germ_panzerjager_tiger_P_elefant_1;Elefant
 germ_panzerjager_tiger_P_elefant_2;Tank Destroyer
 germ_panzerjager_tiger_shop;Pz.Jgr. Tiger B
-germ_panzerjager_tiger_0;Nibelungenwerke | Panzerjäger Tiger Ausf. B (Sd.Kfz. 186)
+germ_panzerjager_tiger_0;Nibelungenwerk | Panzerjäger Tiger Ausf. B (Sd.Kfz. 186)
 germ_panzerjager_tiger_1;Pz.Jgr. Tiger
 germ_panzerjager_tiger_2;Tank Destroyer
 
@@ -11584,10 +11588,6 @@ germ_leopard_I_shop;KPz Leopard 1
 germ_leopard_I_0;Kampfpanzer Leopard 1
 germ_leopard_I_1;Leopard 1
 germ_leopard_I_2;MBT
-germ_vk_3002m_shop;VK 30.02 (M) Fgst.Nr. V2
-germ_vk_3002m_0;VK 30.02 (M) Fahrgestell-Nummer V2
-germ_vk_3002m_1;VK 30.02 (M)
-germ_vk_3002m_2;Medium Tank
 germ_panther_II_shop;Panther II (8,8cm)
 germ_panther_II_0;Panzerkampfwagen Panther II mit 8,8cm Kw.K. L/71
 germ_panther_II_1;Panther II

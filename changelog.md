@@ -177,10 +177,13 @@ All dates are listed in DD-MM-YYYY format.
     - **Clemenceau**: Statcard name → **Arsenal de Brest | Cuirassé de la classe Richelieu | Clemenceau**.
     - **Fw 189 A-1**: Statcard name → **"Focke-Wulf Flugzeugbau | Fw 189 A-1 "Uhu"**.
     - Replaced all instances of "samolyet" with "samolyot" and all instances of "Самолет" with "Самолёт".
-    - **Ferdinand** → **Pz.Jgr. Tiger (P)**. Statcard name → **Nibelungenwerke | Panzerjäger Tiger (P) (Sd.KFz. 184) "Ferdinand"**.
-    - **Elefant**: Statcard name → **Nibelungenwerke | Panzerjäger Tiger (P) (Sd.KFz. 184) | Elefant**.
+    - **Ferdinand** → **Pz.Jgr. Tiger (P)**. Statcard name → **Nibelungenwerk | Panzerjäger Tiger (P) (Sd.KFz. 184) "Ferdinand"**.
+    - **Elefant**: Statcard name → **Nibelungenwerk | Panzerjäger Tiger (P) (Sd.KFz. 184) | Elefant**.
     - **Ferdinand / Pz.Jgr. Tiger B** (folder) → **Pz.Jgr. Tiger (P) / B**.
-    - **Pz.Jgr. Tiger B**: Statcard name → **Nibelungenwerke | Panzerjäger Tiger Ausf. B (Sd.Kfz. 186)**.
+    - **Pz.Jgr. Tiger B**: Statcard name → **Nibelungenwerk | Panzerjäger Tiger Ausf. B (Sd.Kfz. 186)**.
+    - **Tiger B (Fgst.Nr. 15)**: Statcard name → **Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fahrgestellnummer 280015)**.
+    - **VK 30.02 (M) Fgst.Nr. V2** → **V.K. 30.02 (M) (Vs.-Fgst.Nr. 2)**. Statcard name → **Maschinenfabrik Augsburg-Nürnberg, Werk Nürnberg | V.K. 30.02 (M) (Versuchs-Fahrgestellnummer 2)**.
+    - **VK 45.01 (P)** → **V.K. 45.01 (P)**. Statcard name → **Dr. Ing. h.c. F. Porsche, Konstruktion und Beratung für Motoren- und Fahrzeugbau Typ 101 | V.K. 45.01 (P)**.
     - **B-52H-140-BW (1979)**: Statcard name → **Boeing Airplane Company Model 464-261 | B-52H-140-BW Stratofortress "BUFF" (Project Jolly Well) (Project Rivet Ace) (AN/ASQ-151) (Project Quick Start) (AN/ALT-32 (SALT II-compliant))** (it's... it's so long smh, don't worry, multiline soon).
     - Thai has received a brand new transliteration system. ISO 11940-1:1998 has been replaced with out own, [custom transliteration system called Paiboon-M2](https://docs.google.com/spreadsheets/d/1ZShnZNTtK1ZH1IG5m2Nm3diCefncqoFK_zaXJcM44cE/edit?usp=sharing).
         - **B.Kh.11**: Statcard name → **Curtiss-Wright Corperation Hawk Model 75N | Khērūng Bin Khab Lai Bāeb Thī 11**.
@@ -244,8 +247,15 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - Update "Heavy Cavalry" additions:
-        - **AIM-54C+**
+        - **12.7 mm M2HB machine gun**
         - **120 mm M256 cannon**
+        - **GBU-53**
+        - **AIM-54C+**
+        - **AGM-84D**
+        - **AGM-88C**
+        - **AGM-122**
+        - **20 mm HS 804 cannon** (for the **IA. 58A**)
+        - **150 mm s.F.H.18 howitzer**
         - **Pampero**
         - **Aspid**
         - **BK-BR 125**
@@ -276,17 +286,35 @@ All dates are listed in DD-MM-YYYY format.
         - **GROM**
         - **GROM-B**
         - **KOSAVA 3 TM**
+        - **37 mm Type 76 Improved version cannon**
         - **YJ-91 L111**
         - **YJ-91 L112**
         - **YJ-91 L113**
         - **LD-10**
         - **CM-102**
+        - **AS 37 C**
+        - **AS 37 L**
+        - **AS 37 S**
+        - **AS 37 ARMAT**
+        - **AGM-119A Penguin**
+        - **NOMADS SAM**
+        - **JHL-3** (explosive)
+        - **PAX-48** (explosive)
+        - **PAX-3** (explosive)
+        - **Destex** (explosive)
 
 - #### Changes:
 
     - Update "Heavy Cavalry" changes:
-        - **AIM-54C+** → **AIM-54C (ECP-82)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix (ECP-82)**.
+        - **12.7 mm M2HB machine gun** → **Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible**.
         - **120 mm M256 cannon** → **Gun, 120mm, M256**.
+        - **GBU-53** → **GBU-53/B**. Statcard name → **Bomb, Guided, GBU-53/B Small Diameter Bomb II**.
+        - **AIM-54C+** → **AIM-54C (ECP-82)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix (ECP-82)**.
+        - **AGM-84D** → **AGM-84D-1**. Statcard name → **Air-Launched, Surface-Attack, Guided Missile, AGM-84D-1 Harpoon**.
+        - **AGM-88C**: Statcard name → **Air-Launched, Surface-Attack, Guided Missile, AGM-88C High-Speed Anti-Radiation Missile**.
+        - **AGM-122** → **AGM-122A**. Statcard name → **Air-Launched, Surface-Attack, Guided Missile, AGM-122A Sidearm**.
+        - **20 mm HS 804 cannon** (for the **IA. 58A**) → **Cañón de 20 mm DCA-804**.
+        - **150 mm s.F.H. 18 howitzer** → **15cm schwere Feldhaubitze 18/1 (Selbtstfahrlafette)**.
         - **Aspid** → **IA. C 1057 Áspid ARM AP**. Statcard name → **IA. Cohete 57 mm Áspid ARM Aletas Plegables**.
         - **Pampero** → **Pampero AS**. Statcard name → **Cohete 105 mm Pampero Aire-Superficie**.
         - **BK-BR 125** → **PG BK-BR 125**. Statcard name → **Bomba de propósito general BK-BR de 125 kg**.
@@ -330,18 +358,38 @@ All dates are listed in DD-MM-YYYY format.
             - Serbian package: **VRVZ-240** → **ВРВЗ-240**. Statcard name → **Вођена ракета ваздух-земља ВРВЗ-240**.
         - **E-24-A1**: Statcard name → **Vođena raketa vazduh-zemlja E-24-A1**.
             - Serbian package: Statcard name → **Вођена ракета ваздух-земља Е-24-А1**.
+        - **37 mm Type 76 Improved version cannon** → **PGZ1988 Shì Shuāng Guan 37 Háomi Lüdài Shì Zì Háng Gāo Pào**.
+            - Mandarin package: **37 mm Type 76 Improved version cannon** → **PGZ1988式双管37毫米履带式自行高炮**.
         - **YJ-91 L111** → **K/AKD91 (PRGS-4VP)**. Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
             - Mandarin package: Statcard name → **YJ91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
             - Full Mandarin package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
             - Mandarin + Russian package: Statcard name → **YJ91 | K/AKD91空地导弹 (Пассивная радиолокационная головка самонаведения ПРГС-4ВП)**.
             - Full Mandarin + Russian package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Пассивная радиолокационная головка самонаведения ПРГС-4ВП)**.
+        - **YJ-91 L112** → **K/AKD91 (PRGS-5VP)**. Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP)**.
+            - Mandarin package: Statcard name → **YJ91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP)**.
+            - Full Mandarin package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP)**.
+            - Mandarin + Russian package: Statcard name → **YJ91 | K/AKD91空地导弹 (Пассивная радиолокационная головка самонаведения ПРГС-5ВП)**.
+            - Full Mandarin + Russian package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Пассивная радиолокационная головка самонаведения ПРГС-5ВП)**.
+        - **YJ-91 L113** → **K/AKD91 (PRGS-6VP)**. Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP)**.
+            - Mandarin package: Statcard name → **YJ91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP)**.
+            - Full Mandarin package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP)**.
+            - Mandarin + Russian package: Statcard name → **YJ91 | K/AKD91空地导弹 (Пассивная радиолокационная головка самонаведения ПРГС-6ВП)**.
+            - Full Mandarin + Russian package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Пассивная радиолокационная головка самонаведения ПРГС-6ВП)**.
         - **LD-10** → **LD10**. Statcard name → **LD10 Qīngxíng Jìn Chéng Fǎn Fúshè Daodàn**.
             - Mandarin package: Statcard name → **LD10轻型近程反辐射导弹**.
         - **CM-102** → **CM102**. Statcard name → **CM102 Fan Fúshè Daodàn Wuqì Xìtong**.
             - Mandarin package: Statcard name → **LD10轻型近程反辐射导弹**.
+        - **AS 37 C** → **AS 37 (C)**. Statcard name → **AS 37 Martel (C)**.
+        - **AS 37 L** → **AS 37 (L)**. Statcard name → **AS 37 Martel (L)**.
+        - **AS 37 S** → **AS 37 (S)**. Statcard name → **AS 37 Martel (S)**.
+        - **AS 37 ARMAT**: Statcard name → **AS 37 ARMAT**.
+        - **AGM-119A Penguin** → **Penguin MK3**. Statcard name → **Penguin MK3**.
+        - **NOMADS SAM** → **National Manoeuvre Air Defence System**.
+        - **JHL-3** (explosive) → **JHL3**.
     - **Kh-58U** → **Kh-58U (PRGS-58M)**. Statcard name → **izd. 112U | Upravlâyemaâ rakyeta Kh-58U (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-58M)**.
     - **Kh-58UŠK**: Statcard name → **izd. 112UŠK | Upravlâyemaâ rakyeta Kh-58UŠK**.
     - **128 mm PaK44 cannon** → **12,8cm Panzerjägerkanone 80 L/55**.
+    - **Diehl Defence ML-98 | luftvärnsrobotsystem 98** → **luftvärnsrobotsystem 98**.
 
 ### Decals:
 
@@ -355,16 +403,20 @@ All dates are listed in DD-MM-YYYY format.
 - #### Additions:
 
     - **AN/ASQ-213 R5 HARM**
+    - **L-066**
     - **L-081 A**
     - **L-081 B**
     - **L-081 C**
+    - **L-086**
 
 - #### Changes:
 
     - **AN/ASQ-213 R5 HARM** → **AN/ASQ-213 (R5)**. Statcard name → **AN/ASQ-213 HARM Targeting System (Release 5)**.
-    - **L-080 A** → **L-080**. Statcard name → **Kontyejnyernaâ L-080 "Fantasmagoriâ-A"**.
-    - **L-081 B** → **L-080**. Statcard name → **Kontyejnyernaâ L-081 "Fantasmagoriâ-B"**.
-    - **L-081 C** → **Fantasmagoriâ-S**. Statcard name → **Kontyejnyernaâ "Fantasmagoriâ-S"**.
+    - **L-066**: Statcard name → **Kontyejnyernaâ stancziâ radiotyekhničyeskoj razvyedki L-066 "V'ûga"**.
+    - **L-080 A** → **L-080**. Statcard name → **Kontyejnyernaâ stancziâ radiotyekhničyeskoj razvyedki L-080 "Fantasmagoriâ-A"**.
+    - **L-081 B** → **L-080**. Statcard name → **Kontyejnyernaâ stancziâ radiotyekhničyeskoj razvyedki L-081 "Fantasmagoriâ-B"**.
+    - **L-081 C** → **Fantasmagoriâ-S**. Statcard name → **Kontyejnyernaâ stancziâ radiotyekhničyeskoj razvyedki "Fantasmagoriâ-S"**.
+    - **L-086**: Statcard name → **Kontyejnyernaâ stancziâ radiotyekhničyeskoj razvyedki L-086 "V'ûga-17"**.
     - **AN/APG-66(V)3** → **AN/APG-63(V)3**.
 
 ## 1.17.04 - 6-05-2026

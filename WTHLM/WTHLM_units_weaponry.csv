@@ -58,11 +58,15 @@ weapons/cannonM61A1_pgu_28_f15;<color=@userlogColoredText>20 mm</color> Cannon, 
 weapons/cannonM61A1_pgu_28_f15/short;M61A1
 weapons/cannonM61A1_low_rpm;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 Vulcan <color=#ff6f00>RCNN</color>
 weapons/cannonM61A1_low_rpm/short;M61A1
+weapons/20mm_m61_vulcan_naval_user_cannon;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 Vulcan <color=#ff6f00>RCNN</color>
+weapons/20mm_m61_vulcan_naval_user_cannon/short;M61A1
 weapons/cannonM61A2;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A2 Vulcan <color=#ff6f00>RCNN</color>
 weapons/cannonM61A2/short;M61A2
 weapons/cannonXM301l;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, XM301 <color=#ff6f00>RCNN</color>
 weapons/30mm_Bushmaster_2_Mk_44_efv_p1_user_cannon;30 mm Bushmaster 2 Mk.44 Mod.1 cannon
 weapons/30mm_xm_813_user_cannon;<color=@userlogColoredText>30 mm</color> Cannon, 30mm, XM813 <color=#ff6f00>ACNN</color>
+weapons/75mm_XM274_Ares_user_cannon;<color=@userlogColoredText>75 mm</color> 75mm Advanced Design Mobility and Agility Gun System <color=#ff6f00>CNN</color>
+weapons/76mm_3_50_mk22_naval_user_cannon;"<color=@userlogColoredText>76 mm</color> Gun, 3""/50, Hand Rammed, Mk 22 Mod 0 <color=#ff6f00>CNN</color>"
 weapons/105mm_m35_user_cannon;<color=@userlogColoredText>105 mm</color> Gun, 105mm, M35 <color=#ff6f00>CNN</color>
 weapons/120mm_M256_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
 weapons/120mm_M256_M1A2_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
@@ -140,6 +144,7 @@ weapons/155mm_L_39_user_cannon;<color=@userlogColoredText>155 mm</color> Ordnanc
 weapons/356mm_45_14inch_mark7_naval_user_cannon;<color=@userlogColoredText>356 mm</color> Gun, B.L., 14-inch, Mk. VII <color=#ff6f00>CNN</color>
 
 //JAPAN GUNS
+weapons/7_62mm_sm2_v1_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Senapan Mesin Serbaguna SM2-V2 7,62mm <color=#ff6f00>MG</color>
 weapons/cannonJM61A2;<color=@userlogColoredText>20 mm</color> JM61A2 <color=#ff6f00>RCNN</color>
 weapons/cannonJM61A2/short;JM61A2
 weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Miri Kōsha Kikanhō <color=#ff6f00>ACNN</color>
@@ -284,6 +289,9 @@ weapons/120mm_IMI_MG253_user_cannon;<color=@userlogColoredText>120 mm</color> Tu
 37mm_AN_M4_naval_HE/name;37 mm HE
 37mm_AN_M4_naval_AP/name;37 mm AP-T
 75mm_m61_solid;M61 shot
+105mm_m393a3;M393A3
+120mm_xm1147;M1147
+120mm_m829a3;M829A3
 120mm_ke_w;KE-W
 120mm_ke_w_a2;KE-W A2
 155mm_t152;T152E5
@@ -307,6 +315,13 @@ weapons/120mm_IMI_MG253_user_cannon;<color=@userlogColoredText>120 mm</color> Tu
 40mm_bofors_mel58_navy_he_tf/name;PFHE Mk 1
 55mm_germ_heit/name;5,5cm M.Gesch.Patr.L'spur.o.Zerl.
 88mm_sprgr_dist_fuse;8,8cm Spr.Gr.Patr. L/4,5 (Kpf.Z.)
+120mm_im_he;120mm IM HE-T
+150mm_gr_19_he;15cm Gr. 19
+150mm_gr_19_nb;15cm Gr. 19 Nb.
+150mm_gr_19_be_sap;15cm Gr. 19 Be.
+150mm_gr_36_he;15cm Gr. 36
+150mm_gr_39_hl_a_heat;15cm Gr. 39 Hl./A
+150mm_pzgr_39_ts;15cm Pz.Gr. 39 T.S.
 350_psgr_l_4_2_apc;35cm Spr.Gr. L/4,2 (Bd.Z.)
 350_psgr_l_3_6_apc;35cm Pz.Spr.Gr. L/3,6
 
@@ -370,6 +385,8 @@ b_mk_1z/name/short;I
 30mm_dtc10_30;DTC10-30
 35mm_dkp_01a;DKG01A/PGZ09-35
 35mm_dkg_01a;DKP01A/PGZ09-35
+37mm_heit_1955;55 Shì 57 Háomi Yè Shā Liú Dàn
+37mm_apit_1955;55 Shì 37 Háomi Yè Chuān Jia Dàn
 type_59_he;59 Shì 57 Háomi Yè Shā Liú Dàn
 type_59_apcbc;59 Shì 57 Háomi Bèi Mào Chuān Jia Dàn
 type_59_ap;59 Shì 57 Háomi Chuān Jia Yè Dàn
@@ -1208,6 +1225,7 @@ weapons/140mm_akeron_mp_rocket_launchr_user_cannon/short;AKERON MP
 weapons/380mm_aster_30_user_cannon;Système de Lancement Vertical A50 <color=#ff6f00>LCH</color>
 weapons/380mm_aster_30_user_cannon/short;SYLVER A50
 380mm_aster_30;Aster 30 Block 0
+atam_mistral_sam;Mistral
 
 //SWEDEN MISSILES
 weapons/us_agm_119a_penguin;Penguin MK3 <color=#ff6f00>AGM-IR</color>
@@ -5376,7 +5394,6 @@ weapons/90mm_CN_90_F4_user_cannon;90 mm CN90 F4 cannon
 90mm_ofum_ph90;OFUM PH90-F2
 90mm_oe_90_f1;OE 90 F1
 90mm_occ_90_62;OCC 60-62
-weapons/75mm_XM274_Ares_user_cannon;<color=@userlogColoredText>75 mm</color> 75mm Advanced Design Mobility and Agility Gun System <color=#ff6f00>CNN</color>
 75mm_xm884;XM884
 75mm_xm885;XM885
 weapons/105mm_Modele_F2_user_cannon;105 mm Modele F2 cannon

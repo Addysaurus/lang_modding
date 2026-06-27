@@ -1,5 +1,8 @@
 <ID|readonly|noverify>;<English>
 //USA AMMUNITION
+105mm_m393a3;Cartridge, 105mm: HEP-T, M393A3
+120mm_xm1147;Cartridge, 120mm: HEMP-T, M1147 Advanced Multi Purpose
+120mm_m829a3;Cartridge, 120mm: APFSDS-T, M829A3
 155mm_t152;Cartridge, 155mm: HEP, T152E5
 155_mm_t267;Cartridge, 155mm: HEAT, T267
 203mm_m106;Projectile, 8-Inch: HE, M106
@@ -19,6 +22,13 @@
 57mm_gr_p;5,7cm Granate mit Panzerkopf
 57mm_gr;5,7cm Granate
 88mm_sprgr_dist_fuse;8,8cm Sprenggranate Patrone L/4,5 (Kopfzünder)
+120mm_im_he;120mm Insensitive Munition High Explosive - Tracer
+150mm_gr_19_he;15cm Granate 19
+150mm_gr_19_nb;15cm Granate 19 Nebel
+150mm_gr_19_be_sap;15cm Granate 19 Beton
+150mm_gr_36_he;15cm Granate 36
+150mm_gr_39_hl_a_heat;15cm Granate 39 Hohlladung/A
+150mm_pzgr_39_ts;15cm Panzergranate 39 Treibspiegel
 350_psgr_l_4_2_apc;35cm Sprenggranate L/4,2 (Bodenzünder)
 350_psgr_l_3_6_apc;35cm Panzersprenggranate L/3,6
 
@@ -46,11 +56,13 @@ Q.F., H.E.T., 6-pr. 6-cwt., Mk. I)"
 30mm_dtc10_30;DTC10 Shì 30 Háomi Chuān Jia Dàn
 35mm_dkp_01a;DKG01A/PGZ09 Shì 35 Háomi Chuān Jia Bàopò Ránshāo Dàn
 35mm_dkg_01a;DKP01A/PGZ09 Shì 35 Háomi Shāshāng Bàopò Ránshāo Dàn
+37mm_heit_1955;1955 Nián Shì 37 Háomi Gāoshè Pào Yèguāng Shāshāng Liú Dàn
+37mm_apit_1955;1955 Nián Shì 37 Háomi Gāoshè Pào Yèguāng Shíxīn Chuān Jia Dàn
 type_59_he;1959 Nián Shì 57 Háomi Gāoshè Pào Yòng Yèguāng Shāshāng Liú Dàn
-type_59_apcbc;1959 Nián Shì 57 Háomi Gāoshè Pào Yè Guāng Bèi Mào Chuān Jia Dàn
+type_59_apcbc;1959 Nián Shì 57 Háomi Gāoshè Pào Yèguāng Bèi Mào Chuān Jia Dàn
 type_59_ap;1959 Nián Shì 57 Háomi Gāoshè Pào Yòng Chuān Jia Yèguāng Dàn
 57mm_dky_1;DKY/PG59 Shì 57 Háomi Shāshāng Bàopò Ránshāo Dàn
-73mm_type_85_he;DYS73 Shì 73 Háomiǐ Gāngzhū Shāshāng Liú Dàn
+73mm_type_85_he;DYS73 Shì 73 Háomii Gāngzhū Shāshāng Liú Dàn
 73mm_type_85_heat;DYP73 Shì 73 Háomi Pò Jia Dàn
 type_56_he;1956 Nián Shì 85 Háomi Jiānóngpào Shāshāng Bàopò Liú Dàn
 85mm_type1956;1956 Nián Shì 85 Háomi Jiānóngpào Qìgāng Wēi Xuán Pò Jia Dàn

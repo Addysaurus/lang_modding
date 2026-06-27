@@ -22,11 +22,11 @@ All dates are listed in DD-MM-YYYY format.
 
 ### General
 
-    - Added 11 new loading tips:
+    - Added 13 new loading tips:
         - General: 1
         - Air: 2
-        - Ground: 6
-        - Naval: 2
+        - Ground: 7
+        - Naval: 3
     - A new Serbian package has been added
     - It's not worth mentioning them individually because no one cares about gooner vehicles but suffice it to say that their skins and body pillows have been renamed too. Happy? Are you happy now with your gooner vehicles? Oh fuck this...
 
@@ -41,6 +41,7 @@ All dates are listed in DD-MM-YYYY format.
         - **M1A2 (Trophy-HV)**
         - **M1A2 SEPv3**
         - **USS Gridley**
+        - **USS Charles F. Adams** (EC)
         - **USS North Carolina**
         - **Fw 189 C**
         - **IA.58A Pucara**
@@ -93,6 +94,7 @@ All dates are listed in DD-MM-YYYY format.
         - **M1A2 (Trophy-HV)** → **M1A2 SEPv2 (Trophy HV)**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package Version 2, Tank Urban Survival Kit 2 (Trophy HV)**.
         - **M1A2 SEPv3**: Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package Version 3**.
         - **USS Gridley** → **USS Gridley (DD-380)**. Statcard name → **Fore River Shipyard / U.S. Repair Base, San Diego | Gridley-class Destroyer | USS Gridley (DD-380) (1943)**.
+        - **USS Charles F. Adams** (EC) → **USS Charles F. Adams**. Statcard name → **Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)**.
         - **USS North Carolina** → **USS Gridley (BB-55)**. Statcard name → **Brooklyn Navy Yard | North Carolina-class Battleship | USS North Carolina (BB-55) (1942)**.
         - **Fw 189 C** → **Fw 189 V6**. Statcard name → **Focke-Wulf Flugzeugbau | Fw 189 V6 "Uhu"**.
         - **IA.58A Pucara** → **IA. 58A**. Statcard name → **Fábrica Militar de Aviones | Avion IA. 58A Pucará**.
@@ -158,6 +160,8 @@ All dates are listed in DD-MM-YYYY format.
     - **ZTZ99A** → **ZTZ99A (2014)**.
     - **ZTZ99 (2 Qí)**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ123B | ZTZ1999 Shì Zhu Zhàn Tankè (2 Qí)**.
         - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WZ123B | ZTZ1999式主战坦克 (二期)**.
+    - **ZTZ99 (2 Qí)**: Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WA3001 | PGZ2009 Shì Shuāng 35 Háomi Zì Háng Gāo Pào**.
+        - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | WA3001 | PGZ2009式双35毫米自行高炮**.
     - **Ram, Mk. II (O.Q.F., 3.7-inch, Mk. II)**: Statcard name → **Montreal Locomotive Works | Tank, Cruiser, Ram, Mk. II (Gun, O.Q.F., 3.7-inch, Mk. II)**.
     - **SU-85M / ISU-122** (folder) → **SU-85M / ISU-122 / 122S**.
     - **M1A2 / A2 SEP** (folder) → **M1A2 SEPv1 / SEPv2**.
@@ -248,7 +252,12 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Heavy Cavalry" additions:
         - **12.7 mm M2HB machine gun**
+        - **20 mm M61**
+        - **3-inch Mark 22 cannon**
         - **120 mm M256 cannon**
+        - **M393A3**
+        - **M1147**
+        - **M829A3**
         - **GBU-53**
         - **AIM-54C+**
         - **AGM-84D**
@@ -256,6 +265,13 @@ All dates are listed in DD-MM-YYYY format.
         - **AGM-122**
         - **20 mm HS 804 cannon** (for the **IA. 58A**)
         - **150 mm s.F.H.18 howitzer**
+        - **Gr.19**
+        - **Gr.19 Nb**
+        - **Gr.19 Be**
+        - **Gr.36**
+        - **Gr.39 Hl/A**
+        - **Pzgr.39 TS**
+        - **IM HE**
         - **Pampero**
         - **Aspid**
         - **BK-BR 125**
@@ -286,7 +302,10 @@ All dates are listed in DD-MM-YYYY format.
         - **GROM**
         - **GROM-B**
         - **KOSAVA 3 TM**
+        - **7.62 mm SM2 V1 machine gun**
         - **37 mm Type 76 Improved version cannon**
+        - **HEI-T** (for the **PGZ88**)
+        - **AP-T** (for the **PGZ88**)
         - **YJ-91 L111**
         - **YJ-91 L112**
         - **YJ-91 L113**
@@ -296,6 +315,7 @@ All dates are listed in DD-MM-YYYY format.
         - **AS 37 L**
         - **AS 37 S**
         - **AS 37 ARMAT**
+        - **Mistral** (another one)
         - **AGM-119A Penguin**
         - **NOMADS SAM**
         - **JHL-3** (explosive)
@@ -307,7 +327,15 @@ All dates are listed in DD-MM-YYYY format.
 
     - Update "Heavy Cavalry" changes:
         - **12.7 mm M2HB machine gun** → **Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible**.
+        - **20 mm M61** → **M61A1**. Statcard name → **Cannon, 20mm, M61A1 Vulcan**.
+        - **3-inch Mark 22 cannon** → **Gun, 3"/50, Hand Rammed, Mk 22 Mod 0**.
         - **120 mm M256 cannon** → **Gun, 120mm, M256**.
+        - **M393A3**:
+            - Full Ammunition Names package: **M393A3** → **Cartridge, 105mm: HEP-T, M393A3**.
+        - **M1147**:
+            - Full Ammunition Names package: **M1147** → **Cartridge, 120mm: HEMP-T, M1147 Advanced Multi Purpose**.
+        - **M829A3**:
+            - Full Ammunition Names package: **M829A3** → **Cartridge, 120mm: APFSDS-T, M829A3**.
         - **GBU-53** → **GBU-53/B**. Statcard name → **Bomb, Guided, GBU-53/B Small Diameter Bomb II**.
         - **AIM-54C+** → **AIM-54C (ECP-82)**. Statcard name → **Air-Launched, Intercept-Aerial, Guided Missile, AIM-54C Phoenix (ECP-82)**.
         - **AGM-84D** → **AGM-84D-1**. Statcard name → **Air-Launched, Surface-Attack, Guided Missile, AGM-84D-1 Harpoon**.
@@ -315,6 +343,20 @@ All dates are listed in DD-MM-YYYY format.
         - **AGM-122** → **AGM-122A**. Statcard name → **Air-Launched, Surface-Attack, Guided Missile, AGM-122A Sidearm**.
         - **20 mm HS 804 cannon** (for the **IA. 58A**) → **Cañón de 20 mm DCA-804**.
         - **150 mm s.F.H. 18 howitzer** → **15cm schwere Feldhaubitze 18/1 (Selbtstfahrlafette)**.
+        - **Gr.19** → **15cm Gr. 19**.
+            - Full Ammunition Names package:**Gr.19** → **15cm Granate 19**.
+        - **Gr.19 Nb** → **15cm Gr. 19 Nb.**.
+            - Full Ammunition Names package:**Gr.19 Nb** → **15cm Granate 19 Nebel**.
+        - **Gr.19 Be** → **15cm Gr. 19 Be.**.
+            - Full Ammunition Names package:**Gr.19 Be** → **15cm Granate 19 Beton**.
+        - **Gr.36** → **15cm Gr. 36**.
+            - Full Ammunition Names package:**Gr.36** → **15cm Granate 36**.
+        - **Gr.39 Hl/A** → **15cm Gr. 39 Hl./A**.
+            - Full Ammunition Names package:**Gr.39 Hl/A** → **15cm Granate 39 Hohlladung/A**.
+        - **Pzgr.39 TS** → **15cm Pz.Gr. 39 T.S.**.
+            - Full Ammunition Names package:**Pzgr.39 TS** → **15cm Panzergranate 39 Treibspiegel**.
+        - **IM HE** → **120mm IM HE-T**.
+            - Full Ammunition Names package:**IM HE** → **120mm Insensitive Munition High Explosive - Tracer**.
         - **Aspid** → **IA. C 1057 Áspid ARM AP**. Statcard name → **IA. Cohete 57 mm Áspid ARM Aletas Plegables**.
         - **Pampero** → **Pampero AS**. Statcard name → **Cohete 105 mm Pampero Aire-Superficie**.
         - **BK-BR 125** → **PG BK-BR 125**. Statcard name → **Bomba de propósito general BK-BR de 125 kg**.
@@ -358,8 +400,17 @@ All dates are listed in DD-MM-YYYY format.
             - Serbian package: **VRVZ-240** → **ВРВЗ-240**. Statcard name → **Вођена ракета ваздух-земља ВРВЗ-240**.
         - **E-24-A1**: Statcard name → **Vođena raketa vazduh-zemlja E-24-A1**.
             - Serbian package: Statcard name → **Вођена ракета ваздух-земља Е-24-А1**.
+        - **7.62 mm SM2 V1 machine gun** → **Senapan Mesin Serbaguna SM2-V2 7,62mm**.
         - **37 mm Type 76 Improved version cannon** → **PGZ1988 Shì Shuāng Guan 37 Háomi Lüdài Shì Zì Háng Gāo Pào**.
             - Mandarin package: **37 mm Type 76 Improved version cannon** → **PGZ1988式双管37毫米履带式自行高炮**.
+        - **HEI-T** (for the **PGZ88**) → **55 Shì 57 Háomi Yè Shā Liú Dàn**.
+            - Full Ammunition Names package: **HEI-T** → **1955 Nián Shì 37 Háomi Gāoshè Pào Yèguāng Shāshāng Liú Dàn**.
+            - Mandarin package: **HEI-T** → **55式37毫米曳杀榴弹**.
+            - Full Ammunition Names pMandarin package: **HEI-T** → **1955年式37毫米高射炮曳光杀伤榴弹**.
+        - **AP-T** (for the **PGZ88**) → **55 Shì 37 Háomi Yè Chuān Jia Dàn**.
+            - Full Ammunition Names package: **AP-T** → **1955 Nián Shì 37 Háomi Gāoshè Pào Yèguāng Shíxīn Chuān Jia Dàn**.
+            - Mandarin package: **AP-T** → **55式37毫米曳穿甲弹**.
+            - Full Ammunition Names pMandarin package: **AP-T** → **1955年式37毫米高射炮曳光实心穿甲弹**.
         - **YJ-91 L111** → **K/AKD91 (PRGS-4VP)**. Statcard name → **YJ91 | K/AKD91 Kòng Dì Dǎodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
             - Mandarin package: Statcard name → **YJ91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
             - Full Mandarin package: Statcard name → **鹰击91 | K/AKD91空地导弹 (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP)**.
@@ -390,6 +441,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Kh-58UŠK**: Statcard name → **izd. 112UŠK | Upravlâyemaâ rakyeta Kh-58UŠK**.
     - **128 mm PaK44 cannon** → **12,8cm Panzerjägerkanone 80 L/55**.
     - **Diehl Defence ML-98 | luftvärnsrobotsystem 98** → **luftvärnsrobotsystem 98**.
+    - **59 Shì 57 Háomi Bèi Mào Chuān Jia Dàn**:
+        - Full Ammunition Names package: **1959 Nián Shì 57 Háomi Gāoshè Pào Yè Guāng Bèi Mào Chuān Jia Dàn** → **1959 Nián Shì 57 Háomi Gāoshè Pào Yèguāng Bèi Mào Chuān Jia Dàn**.
 
 ### Decals:
 

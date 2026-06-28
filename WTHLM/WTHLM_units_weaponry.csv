@@ -6,6 +6,14 @@ missile/guidance/ir+IOG+GNSS+DL;IR + IOG + GNSS + DL
 turret_universal/name;%s mm turret ammunition belt with AP and T shells
 turret_universal/name/short;AP/T
 radar_predicted_missiles;Missiles shown
+weapons/purposeType/AIR_TO_AIR;To hit air targets
+weapons/purposeType/AIR_TO_GROUND;To hit ground targets
+weapons/purposeType/AIR_TO_SEA;To hit sea targets
+weapons/purposeType/ARMORED;To hit armored targets
+weapons/purposeType/AIR_TO_RADAR;To hit radio-emitting targets
+weapons/purposeType/UNIVERSAL;Multi-purpose weapon
+weapons/purposeType/FAVORITE;Favorite weapon
+weapons/purposeType/CUSTOM;User weapon
 
 //SHELL TYPES
 apds_sabot;APDS Sabot
@@ -72,6 +80,10 @@ weapons/120mm_M256_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 12
 weapons/120mm_M256_M1A2_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
 weapons/120mm_M256_KE_W_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
 weapons/120mm_M256_M1A3_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
+
+weapons/127mm_54_mk45_naval_user_cannon;"Mount, Gun, 5""/54, Mk 45 Mod 0
+• <color=@userlogColoredText>127 mm</color> Gun, 5""/54, Mk 19 Mod 0 <color=#ff6f00>CNN</color>"
+
 weapons/155mm_t180_user_cannon;<color=@userlogColoredText>155 mm</color> Gun, 155mm, T180 <color=#ff6f00>CNN</color>
 weapons/203mm_m47_user_cannon;<color=@userlogColoredText>203.2 mm</color> Howitzer, 8-Inch, M47 <color=#ff6f00>CNN</color>
 weapons/356mm_45_14inch_mk1_naval_user_cannon;"<color=@userlogColoredText>356 mm</color> Gun, 14""/45, Mk 1 Mod 0 <color=#ff6f00>CNN</color>"
@@ -136,6 +148,10 @@ weapons/ato_41_flamethrower;Avtomatičyeskij tankovyj ognyemyet ATO-41 <color=#f
 //UK GUNS
 weapons/7_62mm_ss77_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Denel Land Systems General Purpose Machine Gun SS77 Mk1 <color=#ff6f00>MG</color>
 weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Denel Land Systems Linkless CamGun EMAK 30 | GI-30 <color=#ff6f00>ACNN</color>
+weapons/102mm_45_4in_qf_mark16_21_aa_naval_user_cannon;"Mounting, H.A., Twin, Mk. XIX
+• <color=@userlogColoredText>102 mm</color> Gun, Q.F., 4-inch, Mk. XVI <color=#ff6f00>CNN</color>"
+weapons/102mm_45_4in_qf_mark16_21_naval_user_cannon;"Mounting, H.A., Twin, Mk. XIX
+• <color=@userlogColoredText>102 mm</color> Gun, Q.F., 4-inch, Mk. XVI <color=#ff6f00>CNN</color>"
 weapons/105mm_LRF_user_cannon;<color=@userlogColoredText>105 mm</color> Royal Ordnance Nottingham + Cadillac Gage 105 mm Low Recoil Force Tank Gun <color=#ff6f00>CNN</color>
 weapons/120mm_45_qf_mk9_single_naval_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, Q.F., 4.7-inch, Mk. IX <color=#ff6f00>CNN</color>
 weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredText>133 mm</color> Gun, Q.F., 5.25-inch, Mk. I <color=#ff6f00>CNN</color>
@@ -164,6 +180,7 @@ weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color
 weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) II Gata <color=#ff6f00>CNN</color>
 weapons/90mm_Type61_b_user_cannon;<color=@userlogColoredText>90 mm</color> 61 Shiki 90mm Sensha Hō C Gata <color=#ff6f00>CNN</color>
 weapons/105mm_type_91_user_cannon;<color=@userlogColoredText>105 mm</color> 91 Shiki 10 Senchi Ryūdanhō <color=#ff6f00>CNN-HWZ</color>
+weapons/106mm_Type_60B_user_cannon;<color=@userlogColoredText>106 mm</color> 60 Shiki Shasai 106mm Mu Handō Hō B Gata <color=#ff6f00>CNN-RCL</color>
 weapons/155mm_60_type_3_naval_user_cannon;<color=@userlogColoredText>155 mm</color> 60 Kōkei 3 Nen Shiki 15 Sanchi Han Hō <color=#ff6f00>CNN</color>
 weapons/410mm_45_type_3_mod_naval_user_cannon;<color=@userlogColoredText>410 mm</color> 45 Kōkei 3 Nen Shiki 41 Sanchi Hō <color=#ff6f00>CNN</color>
 weapons/410mm_45_type_3_mod_naval_user_cannon/short;45 Kōkei 3 Nen Shiki 41 Sanchi Hō
@@ -236,6 +253,7 @@ weapons/152mm_pl_66_gai_user_cannon;<color=@userlogColoredText>152 mm</color> PL
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ2005 Shì 155 Háomi Zìxíng Jiā Liúpào <color=#ff6f00>CNN-HWZ</color>
 
 //ITALY GUNS
+weapons/6_5mm_colt_mod15_naval_user_machinegun;<color=@userlogColoredText>6.5 mm</color> Mitragliatrice Colt da 6,5 mm modello 1915 <color=#ff6f00>MG</color>
 weapons/gun_gebauer_1939m;<color=@userlogColoredText>8.56 mm</color> 8,56 mm 39 M. géppuska <color=#ff6f00>MG</color>
 weapons/gun_gebauer_26_31m;<color=@userlogColoredText>8 mm</color> 8 mm 26/31 M. géppuska <color=#ff6f00>MG</color>
 weapons/gun_gebauer_34_37m_turret;<color=@userlogColoredText>8 mm</color> 8 mm 34/37 M. géppuska <color=#ff6f00>MG</color>
@@ -244,6 +262,7 @@ weapons/cannon_mavag_39m;<color=@userlogColoredText>40 mm</color> 4 cm 36 M. lé
 weapons/40mm_39_vickers_terni_mod15_17_modif1930_naval_user_cannon;<color=@userlogColoredText>40 mm</color> Cannone Vickers-Terni da 40/39 modello 1915/1917 <color=#ff6f00>ACNN</color>
 weapons/75mm_43M_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm 43 M. harckocsiágyú <color=#ff6f00>CNN</color>
 weapons/120mm_OTO_Leonardo_120_45_user_cannon;<color=@userlogColoredText>120 mm</color> Cannone OTO-Melara da 120/45 <color=#ff6f00>CNN</color>
+weapons/155mm_FH70_L_39_user_cannon;<color=@userlogColoredText>155 mm</color> Obice FH 70 da 155 mm/41 <color=#ff6f00>CNN-HWZ</color>
 weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredText>381 mm</color> Cannone Ansaldo-O.T.O. da 381/50 modello 1939 <color=#ff6f00>CNN</color>
 
 //FRANCE GUNS
@@ -253,6 +272,7 @@ weapons/100mm_45_mle_1930_naval_user_cannon;<color=@userlogColoredText>100 mm</c
 weapons/100mm_45_mle_1930_naval_user_cannon/short;Canon de 100 mm/45 mle. 1930
 weapons/100mm_45_mle_1933_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1933 <color=#ff6f00>CNN</color>
 weapons/100mm_45_mle_1933_naval_user_cannon/short;Canon de 100 mm/45 mle. 1933
+weapons/100mm_55_mle_1945_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1945 <color=#ff6f00>CNN</color>
 weapons/120mm_giat_cn120_26_f1_msc_user_cannon;<color=@userlogColoredText>120 mm</color> CN120-26/52 F1 <color=#ff6f00>CNN</color>
 weapons/138mm_40_model_1923_naval_user_cannon;<color=@userlogColoredText>138.6 mm</color> Canon de 138 mm/40 modèle 1923 <color=#ff6f00>CNN</color>
 weapons/138mm_40_model_1923_naval_user_cannon/short;Canon de 138 mm/40 mle. 1923
@@ -294,6 +314,7 @@ weapons/120mm_IMI_MG253_user_cannon;<color=@userlogColoredText>120 mm</color> Tu
 120mm_m829a3;M829A3
 120mm_ke_w;KE-W
 120mm_ke_w_a2;KE-W A2
+127mm_54_vt_hc_mk68;"5""/54, HE-CVT, Mk 68"
 155mm_t152;T152E5
 155_mm_t267;T267
 203mm_m106;M106
@@ -366,6 +387,8 @@ b_mk_1z/name/short;I
 37mm_type_94_he;3.7 Sanchi 94 Shiki Tsūjō Dan
 105mm_type91_he;10 Senchi 91 Shiki Ryūdan
 105mm_type91_heat;10 Senchi 3 Shiki Chuān Kō Ryūdan
+106mm_type_64_heat;64 Shiki 106mm Tai Sensha Ryūdan
+106mm_type_68_hesh;68 Shiki 106mm Nenchaku Ryūdan
 155mm_60_type0_he;15.5 Sanchi 0 Shiki Tsūjō Dan
 155mm_60_type0_he_dist_fuse;15.5 Sanchi 0 Shiki Tsūjō Dan (TF)
 155mm_60_type91_ap;15.5 Sanchi 91 Shiki Tek Kō Dan
@@ -445,6 +468,8 @@ type_44_ap;59 Shì 100 Háomi Chuān Jia Dàn
 40mm_vickers_terni_mod_1915_17_he_df/name;40 mm HE-TF
 40mm_bofors_breda_l70_he/name;40 mm HEI-T
 40mm_bofors_breda_l70_he_radio_fuse/name;40 mm HE-VT
+155mm_p3;P3 HE
+155mm_p5;P5
 381mm_50_sapcbc;Granata perforante da 381/50
 381mm_50_apcbc;Palla perforante da 381/50
 
@@ -673,6 +698,12 @@ weapons/jato_booster_left;Flugzeug Start Rakete 69 <color=#ff6f00>RKT-JATO</colo
 weapons/jato_booster_left/short;Flz.Sta.Rak. 69
 weapons/jato_booster_right;Flugzeug Start Rakete 69 <color=#ff6f00>RKT-JATO</color>
 weapons/jato_booster_right/short;Flz.Sta.Rak. 69
+weapons/pucara_jato_1;Sistema de suspensión y encendido J.A.T.O. <color=#ff6f00>RKT-JATO</color>
+weapons/pucara_jato_1/short;J.A.T.O.
+weapons/pucara_jato_2;Sistema de suspensión y encendido J.A.T.O. <color=#ff6f00>RKT-JATO</color>
+weapons/pucara_jato_2/short;J.A.T.O.
+weapons/pucara_jato_3;Sistema de suspensión y encendido J.A.T.O. <color=#ff6f00>RKT-JATO</color>
+weapons/pucara_jato_3/short;J.A.T.O.
 
 //USSR ROCKETS
 weapons/rs_br_vz_128_m15_rocket_heat;Balistički raketa vazduh-zemlja 128 mm M80 Munja <color=#ff6f00>RKT</color>
@@ -914,6 +945,8 @@ us_mim_23b;MIM-23B
 //GERMANY MISSILES
 weapons/de_x4_ruhrstahl;X 4 <color=#ff6f00>AAM-WG</color>
 weapons/de_x4_ruhrstahl/short;X 4
+weapons/ar_pescador;Misil aire-superficie Martín Pescador MP-1000 <color=#ff6f00>AGM-RG</color>
+weapons/ar_pescador/short;Martín Pescador MP-1000
 weapons/sws_flz_lwf_63;"Flugzeug Lenkwaffe Luft-Luft 63 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
 weapons/sws_flz_lwf_63/short;Flz.Lwf. LL 63
 weapons/sws_flz_lwf_63_75;"Flugzeug Lenkwaffe Luft-Luft 63/75 ""SIWA"" <color=#ff6f00>AAM-IR</color>"
@@ -1047,6 +1080,10 @@ weapons/300mm_9k58_rocket_launcher/short;9P614
 300mm_9m55f;9M55F
 
 //UK MISSILES
+weapons/uk_brimstone_dm;Brimstone <color=#ff6f00>AGM-LG</color>
+weapons/uk_brimstone_dm/short;Brimstone
+weapons/uk_alarm;Air Launched Anti-Radiation Missile <color=#ff6f00>AGM-PRH</color>
+weapons/uk_alarm/short;ALARM
 weapons/166mm_camm_user_cannon;Intelligent Launcher <color=#ff6f00>LCH</color>
 weapons/166mm_camm_user_cannon/short;iLauncher
 166mm_camm;CAMM
@@ -5023,8 +5060,6 @@ weapons/us_agm_65h;Air-Launched, Surface-Attack, Guided Missile, AGM-65H <color=
 weapons/us_agm_65h/short;AGM-65H
 weapons/us_agm_65l;Air-Launched, Surface-Attack, Guided Missile, AGM-65L <color=#ff6f00>AGM-LG</color>
 weapons/us_agm_65l/short;AGM-65L
-weapons/uk_brimstone_dm;Brimstone <color=#ff6f00>AGM-LG</color>
-weapons/uk_brimstone_dm/short;Brimstone
 weapons/su_9m133_kornet;9M133M-2 ATGM
 weapons/su_9m133_kornet/short;9M133M-2
 weapons/su_9m133fm3_kornet;9M133FM3 ATGM
@@ -5620,7 +5655,6 @@ weapons/152mm_XM150E6_user_cannon;<color=@userlogColoredText>152 mm</color> Gun-
 152mm_xm410e1;XM410E1
 152mm_mgm_61c;MGM-51C
 152mm_xm578e1;XM578E1
-weapons/106mm_Type_60B_user_cannon;106 mm Recoilless Rifle Type 60 (B)
 weapons/106mm_M40A1C_T114_user_cannon;<color=@userlogColoredText>105 mm</color> Rifle, 106mm, M40A1C <color=#ff6f00>CNN-RCL</color>
 weapons/73mm_2A28_user_cannon;<color=@userlogColoredText>73 mm</color> 2A28 Grom <color=#ff6f00>CNN</color>
 73mm_og_9;7P5, OG-15V (7G8, OG-9)
@@ -5634,7 +5668,6 @@ weapons/106mm_M40A1C_user_cannon;<color=@userlogColoredText>105 mm</color> Rifle
 120mm_mark_viia_vt;4.7 inch HE-VT Mk. VIIA
 weapons/130mm_50_b13_1936_naval_user_cannon;<color=@userlogColoredText>130 mm</color> 130-mm/50 B-13 obr. 1936 g. <color=#ff6f00>CNN</color>
 weapons/76mm_55_34k_naval_user_cannon;76 mm 34-K mounting
-weapons/102mm_45_4in_qf_mark16_21_naval_user_cannon;4 inch/45 Mark XVI cannon
 weapons/120mm_45_4_7in_mark12_cp19_mount_naval_user_cannon;4.7 inch/45 Mk. XII cannon, CPXIX mounting
 weapons/120mm_45_qf_mk12_mount_cp17_single_naval_user_cannon;4.7 inch/45 Mk. XII cannon, СPXVII mounting
 weapons/120mm_40_qf_mk12_mount_ha_single_naval_user_cannon;4.7 inch/40 Mk.XII cannon
@@ -6422,13 +6455,6 @@ weapons/jp_533mm_type89_torpedo;533 mm Type 89 torpedo
 weapons/jp_533mm_type89_torpedo/short;533 mm Type 89
 weapons/jp_533mm_type89_1929_mod1_torpedo;533 mm Type 89 torpedo
 weapons/jp_533mm_type89_1929_mod1_torpedo/short;533 mm Type 89
-weapons/purposeType/AIR_TO_AIR;To hit air targets
-weapons/purposeType/AIR_TO_GROUND;To hit ground targets
-weapons/purposeType/AIR_TO_SEA;To hit sea targets
-weapons/purposeType/ARMORED;To hit armored targets
-weapons/purposeType/UNIVERSAL;Multi-purpose weapon
-weapons/purposeType/FAVORITE;Favorite weapon
-weapons/purposeType/CUSTOM;User weapon
 weapons/203mm_50_8inch_mk8_naval_user_cannon;8 inch/50 Mark VIII cannon
 203mm_50_mk_ib_sapcbc;8 inch Mark I.B. SAPCBC
 203mm_50_mk8_he;8 inch HE

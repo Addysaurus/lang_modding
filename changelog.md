@@ -97,7 +97,7 @@ All dates are listed in DD-MM-YYYY format.
         - **USS Charles F. Adams** (EC) → **USS Charles F. Adams**. Statcard name → **Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)**.
         - **USS North Carolina** → **USS Gridley (BB-55)**. Statcard name → **Brooklyn Navy Yard | North Carolina-class Battleship | USS North Carolina (BB-55) (1942)**.
         - **Fw 189 C** → **Fw 189 V6**. Statcard name → **Focke-Wulf Flugzeugbau | Fw 189 V6 "Uhu"**.
-        - **IA.58A Pucara** → **IA. 58A**. Statcard name → **Fábrica Militar de Aviones | Avion IA. 58A Pucará**.
+        - **IA.58A Pucara** → **IA. 58A**. Statcard name → **Fábrica Militar de Aviones | Avión IA. 58A Pucará**.
         - **Mi-24D** (Germany): Statcard name → **Aviaryemontnyj zavod № 116 | Erzeugn. 246 | Hubschrauber Mi-24D**.
         - **Hummel** → **s.Pz.H. 18/1 a. Fgst.Pz.Kpfw. III/IV (Sf.)** (I'm so sorry, but that's the real name). Statcard name → **Deutsche Eisenwerke | schwere Panzerhaubitze 18/1 auf Fahrgestell Panzerkampfwagen III/IV (Selbtstfahrlafette) (Sd.Kfz. 165) "Hummel"**.
         - **Puma u14** → **SPz Puma VJTF (PzGrenBtl 33)**. Statcard name → **Projekt System Management | Schützenpanzer Puma Very High Readiness Joint Task Force (Panzergrenadierbataillon 33)**.
@@ -255,6 +255,8 @@ All dates are listed in DD-MM-YYYY format.
         - **20 mm M61**
         - **3-inch Mark 22 cannon**
         - **120 mm M256 cannon**
+        - **5 inch/54 Mk.45 cannon**
+        - **5 inch Mark 68 HC-VT**
         - **M393A3**
         - **M1147**
         - **M829A3**
@@ -274,6 +276,8 @@ All dates are listed in DD-MM-YYYY format.
         - **IM HE**
         - **Pampero**
         - **Aspid**
+        - **Pescador**
+        - **JATO** (for the **IA. 58A**)
         - **BK-BR 125**
         - **BK-BR 130**
         - **BK-BR 250**
@@ -302,7 +306,11 @@ All dates are listed in DD-MM-YYYY format.
         - **GROM**
         - **GROM-B**
         - **KOSAVA 3 TM**
+        - **4 inch/45 Mark XVI cannon**
+        - **ALARM**
         - **7.62 mm SM2 V1 machine gun**
+        - **Type 64 HEAT**
+        - **Type 68 HESH**
         - **37 mm Type 76 Improved version cannon**
         - **HEI-T** (for the **PGZ88**)
         - **AP-T** (for the **PGZ88**)
@@ -311,6 +319,11 @@ All dates are listed in DD-MM-YYYY format.
         - **YJ-91 L113**
         - **LD-10**
         - **CM-102**
+        - **6.5 mm Colt Model 15 machine gun**
+        - **155 mm/41 FH 70 cannon**
+        - **P3**
+        - **P5**
+        - **100 mm/55 MLE model 45 cannon**
         - **AS 37 C**
         - **AS 37 L**
         - **AS 37 S**
@@ -330,6 +343,9 @@ All dates are listed in DD-MM-YYYY format.
         - **20 mm M61** → **M61A1**. Statcard name → **Cannon, 20mm, M61A1 Vulcan**.
         - **3-inch Mark 22 cannon** → **Gun, 3"/50, Hand Rammed, Mk 22 Mod 0**.
         - **120 mm M256 cannon** → **Gun, 120mm, M256**.
+        - **5 inch/54 Mk.45 cannon** → **Mount, Gun, 5"/54, Mk 45 Mod 0** with **Gun, 5"/54, Mk 19 Mod 0**.
+        - **5 inch Mark 68 HC-VT** → **5"/54, HE-CVT, Mk 68**.
+            - Full Ammunition Names package:**5 inch Mark 68 HC-VT** → **Projectile, 5"/54, HE-CVT, Mk 68**.
         - **M393A3**:
             - Full Ammunition Names package: **M393A3** → **Cartridge, 105mm: HEP-T, M393A3**.
         - **M1147**:
@@ -359,6 +375,8 @@ All dates are listed in DD-MM-YYYY format.
             - Full Ammunition Names package:**IM HE** → **120mm Insensitive Munition High Explosive - Tracer**.
         - **Aspid** → **IA. C 1057 Áspid ARM AP**. Statcard name → **IA. Cohete 57 mm Áspid ARM Aletas Plegables**.
         - **Pampero** → **Pampero AS**. Statcard name → **Cohete 105 mm Pampero Aire-Superficie**.
+        - **Pescador** → **Martín Pescador MP-1000**. Statcard name → **Misil aire-superficie Martín Pescador MP-1000**.
+        - **JATO** (for the **IA. 58A**) → **J.A.T.O.**. Statcard name → **Sistema de suspensión y encendido J.A.T.O.**. This is not a standardized format for JATO rockets, the **IA. 58A**'s manual calls it this. It's probably wrong, but it's less wrong than Gaijin's.
         - **BK-BR 125** → **PG BK-BR 125**. Statcard name → **Bomba de propósito general BK-BR de 125 kg**.
         - **BK-BR 130** → **PG BK-BR 130**. Statcard name → **Bomba de propósito general BK-BR de 130 kg**.
         - **BK-BR 250** → **PG BK-BR 250**. Statcard name → **Bomba de propósito general BK-BR de 250 kg**.
@@ -400,7 +418,13 @@ All dates are listed in DD-MM-YYYY format.
             - Serbian package: **VRVZ-240** → **ВРВЗ-240**. Statcard name → **Вођена ракета ваздух-земља ВРВЗ-240**.
         - **E-24-A1**: Statcard name → **Vođena raketa vazduh-zemlja E-24-A1**.
             - Serbian package: Statcard name → **Вођена ракета ваздух-земља Е-24-А1**.
+        - **4 inch/45 Mark XVI cannon** → **Mounting, H.A., Twin, Mk. XIX** with **Gun, Q.F., 4-inch, Mk. XVI**.
+        - **ALARM**: Statcard name → **Air Launched Anti-Radiation Missile**.
         - **7.62 mm SM2 V1 machine gun** → **Senapan Mesin Serbaguna SM2-V2 7,62mm**.
+        - **Type 64 HEAT** → **64 Shiki 106mm Tai Sensha Ryūdan**.
+            - Mandarin package: **Type 64 HEAT** → **64式106mm対戦車りゅう弾**.
+        - **Type 64 HESH** → **68 Shiki 106mm Nenchaku Ryūdan**.
+            - Mandarin package: **Type 64 HESH** → **68式106mm粘着リュウ弾**.
         - **37 mm Type 76 Improved version cannon** → **PGZ1988 Shì Shuāng Guan 37 Háomi Lüdài Shì Zì Háng Gāo Pào**.
             - Mandarin package: **37 mm Type 76 Improved version cannon** → **PGZ1988式双管37毫米履带式自行高炮**.
         - **HEI-T** (for the **PGZ88**) → **55 Shì 57 Háomi Yè Shā Liú Dàn**.
@@ -430,6 +454,10 @@ All dates are listed in DD-MM-YYYY format.
             - Mandarin package: Statcard name → **LD10轻型近程反辐射导弹**.
         - **CM-102** → **CM102**. Statcard name → **CM102 Fan Fúshè Daodàn Wuqì Xìtong**.
             - Mandarin package: Statcard name → **LD10轻型近程反辐射导弹**.
+        - **6.5 mm Colt Model 15 machine gun** → **Mitragliatrice Colt da 6,5 mm modello 1915**.
+        - **155 mm/41 FH 70 cannon** → **Mitragliatrice Colt da 6,5 mm modello 1915**.
+        - **P3** → **P3 HE**.
+        - **100 mm/55 MLE model 45 cannon** → **Canon de 100 mm/45 modèle 1945**.
         - **AS 37 C** → **AS 37 (C)**. Statcard name → **AS 37 Martel (C)**.
         - **AS 37 L** → **AS 37 (L)**. Statcard name → **AS 37 Martel (L)**.
         - **AS 37 S** → **AS 37 (S)**. Statcard name → **AS 37 Martel (S)**.
@@ -443,6 +471,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Diehl Defence ML-98 | luftvärnsrobotsystem 98** → **luftvärnsrobotsystem 98**.
     - **59 Shì 57 Háomi Bèi Mào Chuān Jia Dàn**:
         - Full Ammunition Names package: **1959 Nián Shì 57 Háomi Gāoshè Pào Yè Guāng Bèi Mào Chuān Jia Dàn** → **1959 Nián Shì 57 Háomi Gāoshè Pào Yèguāng Bèi Mào Chuān Jia Dàn**.
+    - **106 mm Recoilless Rifle Type 60 (B)** → **60 Shiki Shasai 106mm Mu Handō Hō B Gata**.
+        - Japanese package: **106 mm Recoilless Rifle Type 60 (B)** → **60式車載106mm無反動砲B型**.
 
 ### Decals:
 

@@ -16,6 +16,9 @@ weapons/57mm_ak_157_naval_user_cannon;"Артиллерийская устано
 weapons/57mm_ak_157_naval_user_cannon/short;ЗиФ-71
 weapons/85mm_Type_56_user_cannon;<color=@userlogColoredText>85 mm</color> 52-ПТ-365 | ЗиС-С-53 обр. 1944 г. <color=#ff6f00>CNN</color>
 weapons/100mm_2A70_BMP_autoloader_user_cannon;<color=@userlogColoredText>100 mm</color> 2А70 <color=#ff6f00>CNN</color>
+weapons/125mm_2A46_M5_t_90m_user_cannon;<color=@userlogColoredText>125 mm</color> 125-мм танковая пушка 2А46М-5 <color=#ff6f00>CNN</color>
+weapons/125mm_2A46_M5_T_90A_user_cannon;<color=@userlogColoredText>125 mm</color> 125-мм танковая пушка 2А46М-5 <color=#ff6f00>CNN</color>
+weapons/125mm_2A46_M5_user_cannon;<color=@userlogColoredText>125 mm</color> 125-мм танковая пушка 2А46М-5-01 <color=#ff6f00>CNN</color>
 weapons/130mm_58_bl_109a_naval_user_cannon;"Артиллерийская установка БЛ-109А
 • <color=@userlogColoredText>130 mm</color> 130-мм/58 Корабельная пушка ЗиФ-68-1 <color=#ff6f00>CNN</color>"
 weapons/152mm_ML20S_user_cannon;<color=@userlogColoredText>152 mm</color> 52-ПС-544С | МЛ-20С обр. 1937/43 гг. <color=#ff6f00>CNN-HWZ</color>
@@ -31,6 +34,7 @@ weapons/ato_41_flamethrower;Автоматический танко­вый ог
 76mm_obr1915_hetf;ОФ обр. 1915 г.
 122mm_3vdcz3;3ВДЦ3
 125mm_3of_82;3ВОФ128
+125mm_3bm42_2;3ВБМ17 (3БМ42-2 + 3БМ44-2)
 305mm_sm_33_he;ПБ обр. 1948 г.
 305mm_sm_33_ap;БР обр. 1948 г.
 406mm_obr1915_28_sapcbc;ПБ обр. 1915/28 гг.
@@ -181,6 +185,88 @@ weapons/cn_yj91_l_113/short;K/AKD91 (ПРГС-6ВП)
 //TORPEDOES
 weapons/su_45_54vt_1954_torpedo;<color=@userlogColoredText>450 mm</color> Торпеда высотного торпедометания 45-54ВТ <color=#ff6f00>TRP</color>
 weapons/su_45_54vt_1954_torpedo/short;45-54ВТ
+
+//FUEL TANKS
+weapons/su_490l_mig_21;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21/short;ПТБ-500
+weapons/su_490l_mig_21_left_wing;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_left_wing/short;ПТБ-500
+weapons/su_490l_mig_21_left_wing_1;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_left_wing_1/short;ПТБ-500
+weapons/su_490l_mig_21_fuse_1;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_fuse_1/short;ПТБ-500
+weapons/su_490l_mig_21_right_wing_1;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_right_wing_1/short;ПТБ-500
+weapons/su_490l_mig_21_fuse;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_fuse/short;ПТБ-500
+weapons/su_490l_mig_21_right_wing;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_right_wing/short;ПТБ-500
+weapons/su_800l_su_7b_silver_fuse_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_fuse_1/short;ПТБ-800
+weapons/su_800l_su_7b_silver_fuse_2;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_fuse_2/short;ПТБ-800
+weapons/su_800l_su_7b_silver_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_wing_1/short;ПТБ-800
+weapons/su_800l_su_7b_silver_wing_2;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_wing_2/short;ПТБ-800
+weapons/su_800l_su_17_right_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_right_wing/short;ПТБ-800
+weapons/su_800l_su_17_right_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_right_wing_1/short;ПТБ-800
+weapons/su_800l_su_17_left_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_left_wing/short;ПТБ-800
+weapons/su_800l_su_17_left_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_left_wing_1/short;ПТБ-800
+weapons/su_800l_su_17_silver_left_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_left_wing/short;ПТБ-800
+weapons/su_800l_su_17_silver_left_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_left_wing_1/short;ПТБ-800
+weapons/su_800l_su_17_silver_right_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_right_wing/short;ПТБ-800
+weapons/su_800l_su_17_silver_right_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_right_wing_1/short;ПТБ-800
+weapons/su_800l_su_25tm_silver_right_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_right_wing/short;ПТБ-800
+weapons/su_800l_su_25tm_silver_right_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_right_wing_1/short;ПТБ-800
+weapons/su_800l_su_25tm_silver_left_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_left_wing/short;ПТБ-800
+weapons/su_800l_su_25tm_silver_left_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_left_wing_1/short;ПТБ-800
+weapons/su_800l_su_25t_left_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_left_wing/short;ПТБ-800
+weapons/su_800l_su_25t_left_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_left_wing_1/short;ПТБ-800
+weapons/su_800l_su_25t_right_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_right_wing/short;ПТБ-800
+weapons/su_800l_su_25t_right_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_right_wing_1/short;ПТБ-800
+weapons/su_800l_su_25_right_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_right_wing/short;ПТБ-800
+weapons/su_800l_su_25_right_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_right_wing_1/short;ПТБ-800
+weapons/su_800l_su_25_left_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_left_wing/short;ПТБ-800
+weapons/su_800l_su_25_left_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_left_wing_1/short;ПТБ-800
+weapons/su_800l_mig_23bn_silver_fuse;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_mig_23bn_silver_fuse/short;ПТБ-800
+weapons/su_1150l_mig_29kr_left_wing;<color=@userlogColoredText>1150 L</color> Подвесной топливный бак ПТБ-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_left_wing/short;ПТБ-1150
+weapons/su_1150l_mig_29kr_left_wing1;<color=@userlogColoredText>1150 L</color> Подвесной топливный бак ПТБ-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_left_wing1/short;ПТБ-1150
+weapons/su_1150l_mig_29kr_right_wing;<color=@userlogColoredText>1150 L</color> Подвесной топливный бак ПТБ-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_right_wing/short;ПТБ-1150
+weapons/su_1150l_mig_29kr_right_wing1;<color=@userlogColoredText>1150 L</color> Подвесной топливный бак ПТБ-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_right_wing1/short;ПТБ-1150
+weapons/su_2150_liters_fuse_mig_29kr;<color=@userlogColoredText>2150 L</color> Подвесной топливный бак ПТБ-2150 <color=#ff6f00>DPTK</color>
+weapons/su_2150_liters_fuse_mig_29kr/short;ПТБ-2150
+weapons/su_su34_3000l_drop_tank;<color=@userlogColoredText>3000 L</color> Подвесной топливный бак ПТБ-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank/short;ПТБ-3000
+weapons/su_su34_3000l_drop_tank_left;<color=@userlogColoredText>3000 L</color> Подвесной топливный бак ПТБ-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank_left/short;ПТБ-3000
+weapons/su_su34_3000l_drop_tank_right;<color=@userlogColoredText>3000 L</color> Подвесной топливный бак ПТБ-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank_right/short;ПТБ-3000
 
 //SMOKE GRENADES
 weapons/t_34_85_stp_s53_smoke_barrel_launcher;<color=@userlogColoredText>450 mm</color> Большая дымовая шашка БДШ-5 <color=#ff6f00>GRN-SMK</color>

@@ -113,6 +113,16 @@ weapons/37mm_gerat_341_user_cannon;<color=@userlogColoredText>37 mm</color> 3,7c
 weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 <color=#ff6f00>ACNN</color>
 weapons/55mm_77_gerat_58_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 5,5cm Gerät 58 <color=#ff6f00>ACNN</color>
 weapons/105mm_Rh105_30_user_cannon;<color=@userlogColoredText>105 mm</color> Rh105-30 <color=#ff6f00>CNN</color>
+weapons/120mm_Rheinmetall_L44_user_cannon;<color=@userlogColoredText>120 mm</color> Bordkanone 120 mm L44 <color=#ff6f00>CNN</color>
+weapons/120mm_Rheinmetall_L44_autoloader_user_cannon;<color=@userlogColoredText>120 mm</color> Bordkanone 120 mm L44 <color=#ff6f00>CNN</color>
+weapons/120mm_Rheinmetall_L44_VT_user_cannon;<color=@userlogColoredText>120 mm</color> Bordkanone 120 mm L44 <color=#ff6f00>CNN</color>
+weapons/120mm_rheinmetall_l44_can_user_cannon;<color=@userlogColoredText>120 mm</color> Bordkanone 120 mm L44 <color=#ff6f00>CNN</color>
+weapons/120mm_Rheinmetall_L44_2A5_user_cannon;<color=@userlogColoredText>120 mm</color> Bordkanone 120 mm L44 <color=#ff6f00>CNN</color>
+weapons/120mm_Rheinmetall_L44_2PL_user_cannon;<color=@userlogColoredText>120 mm</color> Bordkanone 120 mm L44 <color=#ff6f00>CNN</color>
+weapons/120mm_Rheinmetall_L44_2RI_user_cannon;<color=@userlogColoredText>120 mm</color> Bordkanone 120 mm L44 <color=#ff6f00>CNN</color>
+weapons/120mm_Rheinmetall_L55_user_cannon;<color=@userlogColoredText>120 mm</color> Bordkanone 120 mm L55 <color=#ff6f00>CNN</color>
+weapons/120mm_rheinmetall_l55_a1_user_cannon;<color=@userlogColoredText>120 mm</color> Bordkanone 120 mm L55 A1 <color=#ff6f00>CNN</color>
+weapons/120mm_rheinmetall_l55_a1_cr_lep_user_cannon;<color=@userlogColoredText>120 mm</color> Rh120-L55A1 <color=#ff6f00>CNN</color>
 weapons/128mm_PaK44_user_cannon;<color=@userlogColoredText>128 mm</color> 12,8cm Panzerjägerkanone 80 L/55 <color=#ff6f00>CNN</color>
 weapons/150mm_sfh_18_user_cannon;<color=@userlogColoredText>150 mm</color> 15cm schwere Feldhaubitze 18/1 (Selbtstfahrlafette) <color=#ff6f00>CNN-HWZ</color>
 weapons/350mm_45_skl_45_naval_user_cannon;<color=@userlogColoredText>350 mm</color> 35cm Schnelladekanone L/45 <color=#ff6f00>CNN</color>
@@ -135,6 +145,9 @@ weapons/57mm_ak_157_naval_user_cannon;"Artillyerijskaâ ustanovka AK-157
 • <color=@userlogColoredText>57 mm</color> 57-mm Odnoorudijnaâ palubnaâ ustanovka ZiF-71 <color=#ff6f00>ACNN</color>"
 weapons/57mm_ak_157_naval_user_cannon/short;ЗиФ-71
 weapons/100mm_2A70_BMP_autoloader_user_cannon;<color=@userlogColoredText>100 mm</color> 2A70 <color=#ff6f00>CNN</color>
+weapons/125mm_2A46_M5_t_90m_user_cannon;<color=@userlogColoredText>125 mm</color> 125-mm tankovaâ puška 2A46M-5 <color=#ff6f00>CNN</color>
+weapons/125mm_2A46_M5_T_90A_user_cannon;<color=@userlogColoredText>125 mm</color> 125-mm tankovaâ puška 2A46M-5 <color=#ff6f00>CNN</color>
+weapons/125mm_2A46_M5_user_cannon;<color=@userlogColoredText>125 mm</color> 125-mm tankovaâ puška 2A46M-5-01 <color=#ff6f00>CNN</color>
 weapons/125mm_KBA_3_user_cannon;<color=@userlogColoredText>125 mm</color> KBA-3 <color=#ff6f00>CNN-LCH</color>
 weapons/130mm_58_bl_109a_naval_user_cannon;"Artillyerijskaâ ustanovka BL-109A
 • <color=@userlogColoredText>130 mm</color> 130-mm/58 Korabyel'naâ puška ZiF-68-1 <color=#ff6f00>CNN</color>"
@@ -154,13 +167,15 @@ weapons/102mm_45_4in_qf_mark16_21_naval_user_cannon;"Mounting, H.A., Twin, Mk. X
 • <color=@userlogColoredText>102 mm</color> Gun, Q.F., 4-inch, Mk. XVI <color=#ff6f00>CNN</color>"
 weapons/105mm_LRF_user_cannon;<color=@userlogColoredText>105 mm</color> Royal Ordnance Nottingham + Cadillac Gage 105 mm Low Recoil Force Tank Gun <color=#ff6f00>CNN</color>
 weapons/120mm_45_qf_mk9_single_naval_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, Q.F., 4.7-inch, Mk. IX <color=#ff6f00>CNN</color>
+weapons/120mm_L30A1_user_cannon;<color=@userlogColoredText>120 mm</color> Ordnance, B.L., 120 mm, Tk., L30A1 <color=#ff6f00>CNN</color>
+weapons/120mm_L30A1_2e_user_cannon;<color=@userlogColoredText>120 mm</color> Ordnance, B.L., 120 mm, Tk., L30A1 <color=#ff6f00>CNN</color>
 weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredText>133 mm</color> Gun, Q.F., 5.25-inch, Mk. I <color=#ff6f00>CNN</color>
 weapons/155mm_L_31_user_cannon;<color=@userlogColoredText>155 mm</color> Ordnance, 155mm, L31A1 <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_L_39_user_cannon;<color=@userlogColoredText>155 mm</color> Ordnance, 155mm, L22 <color=#ff6f00>CNN-HWZ</color>
 weapons/356mm_45_14inch_mark7_naval_user_cannon;<color=@userlogColoredText>356 mm</color> Gun, B.L., 14-inch, Mk. VII <color=#ff6f00>CNN</color>
 
 //JAPAN GUNS
-weapons/7_62mm_sm2_v1_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Senapan Mesin Serbaguna SM2-V2 7,62mm <color=#ff6f00>MG</color>
+weapons/7_62mm_sm2_v1_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Senapan Mesin Serbaguna SM2-V2 Kaliber 7,62mm <color=#ff6f00>MG</color>
 weapons/cannonJM61A2;<color=@userlogColoredText>20 mm</color> JM61A2 <color=#ff6f00>RCNN</color>
 weapons/cannonJM61A2/short;JM61A2
 weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Miri Kōsha Kikanhō <color=#ff6f00>ACNN</color>
@@ -246,11 +261,14 @@ weapons/120mm_PTZ89_user_cannon;<color=@userlogColoredText>120 mm</color> WA371 
 weapons/120mm_m256_m1a2t_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
 weapons/125mm_Type_88C_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1988C Xíng 125 Háomi Tankè Pào <color=#ff6f00>CNN</color>
 weapons/125mm_ZPT_98_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998 Xíng 125 Háomi Tankè Pào <color=#ff6f00>CNN</color>
+weapons/125mm_ZPT_98_vt4b_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998 Xíng 125 Háomi Tankè Pào <color=#ff6f00>CNN</color>
 weapons/125mm_Type_99A_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998A Xíng 125 Háomi Tankè Pào <color=#ff6f00>CNN</color>
 weapons/125mm_l54_cn_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT Xíng 125 Háomi Tankè Pào <color=#ff6f00>CNN</color>
 weapons/130mm_pl_59a_gai_user_cannon;<color=@userlogColoredText>130 mm</color> PL1959A Shì 130 Háomi Jiānóng Pào <color=#ff6f00>CNN-HWZ</color>
 weapons/152mm_pl_66_gai_user_cannon;<color=@userlogColoredText>152 mm</color> PLZ1983 Shì 155 Háomi Zìxíng Jiā Liúpào <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ2005 Shì 155 Háomi Zìxíng Jiā Liúpào <color=#ff6f00>CNN-HWZ</color>
+weapons/76mm_modern_cn_smoke_grenade_launcher;76 mm smoke grenade launcher
+weapons/76mm_modern_cn_smoke_grenade_launcher/short;Smoke
 
 //ITALY GUNS
 weapons/6_5mm_colt_mod15_naval_user_machinegun;<color=@userlogColoredText>6.5 mm</color> Mitragliatrice Colt da 6,5 mm modello 1915 <color=#ff6f00>MG</color>
@@ -367,6 +385,7 @@ t_ball_t_38/name/short;T
 76mm_obr1915_hetf;OF obr. 1915 g.
 122mm_3vdcz3;3VDCz3
 125mm_3of_82;3VOF128
+125mm_3bm42_2;3VBM17 (3BM42-2 + 3BM44-2)
 305mm_sm_33_he;PB obr. 1948 g.
 305mm_sm_33_ap;BR obr. 1948 g.
 406mm_obr1915_28_sapcbc;PB obr. 1915/28 gg.
@@ -487,6 +506,7 @@ type_44_ap;59 Shì 100 Háomi Chuān Jia Dàn
 100mm_oea1945_he_df;100 mm OEA mle. 1945
 105mm_ofl_g2;OFL 105 G2
 120mm_f1_he;OE 120 F1
+120mm_ofl_120_f2;OFL 120 F2
 152mm_m1936_he_df;152 mm OEA mle. 1936
 203mm_opf_mle1936_apcbc;203 mm OPf(K) RC mle. 1936
 380mm_oea_mle1949_he;380 mm OEA mle. 1949
@@ -1084,6 +1104,26 @@ weapons/uk_brimstone_dm;Brimstone <color=#ff6f00>AGM-LG</color>
 weapons/uk_brimstone_dm/short;Brimstone
 weapons/uk_alarm;Air Launched Anti-Radiation Missile <color=#ff6f00>AGM-PRH</color>
 weapons/uk_alarm/short;ALARM
+weapons/uk_pgm_500_laser;PGM 500/1 <color=#ff6f00>AGM-LG</color>
+weapons/uk_pgm_500_laser/short;PGM 500/1
+weapons/uk_pgm_500;PGM 500/2 <color=#ff6f00>AGM-TV</color>
+weapons/uk_pgm_500/short;PGM 500/2
+weapons/uk_pgm_500_wo_mitl;PGM 500/2 <color=#ff6f00>AGM-TV</color>
+weapons/uk_pgm_500_wo_mitl/short;PGM 500/2
+weapons/uk_pgm_500_iir;PGM 500/3 <color=#ff6f00>AGM-IR</color>
+weapons/uk_pgm_500_iir/short;PGM 500/3
+weapons/uk_pgm_500_iir_wo_mitl;PGM 500/3 <color=#ff6f00>AGM-IR</color>
+weapons/uk_pgm_500_iir_wo_mitl/short;PGM 500/3
+weapons/uk_pgm_2000_laser;PGM 2000/1 <color=#ff6f00>AGM-LG</color>
+weapons/uk_pgm_2000_laser/short;PGM 2000/1
+weapons/uk_pgm_2000;PGM 2000/2 <color=#ff6f00>AGM-TV</color>
+weapons/uk_pgm_2000/short;PGM 2000/2
+weapons/uk_pgm_2000_wo_mitl;PGM 2000/2 <color=#ff6f00>AGM-TV</color>
+weapons/uk_pgm_2000_wo_mitl/short;PGM 2000/2
+weapons/uk_pgm_2000_iir;PGM 2000/3 <color=#ff6f00>AGM-IR</color>
+weapons/uk_pgm_2000_iir/short;PGM 2000/3
+weapons/uk_pgm_2000_iir_wo_mitl;PGM 2000/3 <color=#ff6f00>AGM-IR</color>
+weapons/uk_pgm_2000_iir_wo_mitl/short;PGM 2000/3
 weapons/166mm_camm_user_cannon;Intelligent Launcher <color=#ff6f00>LCH</color>
 weapons/166mm_camm_user_cannon/short;iLauncher
 166mm_camm;CAMM
@@ -1171,12 +1211,16 @@ weapons/ch_kd_88_missile_tv;K/AKD88 Kòng Dì Daodàn <color=#ff6f00>AGM-TV</col
 weapons/ch_kd_88_missile_tv/short;K/AKD88
 weapons/ch_kd_88_missile_ir;K/AKD88A Kòng Dì Daodàn <color=#ff6f00>AGM-IR</color>
 weapons/ch_kd_88_missile_ir/short;K/AKD88A
+weapons/cn_yj91a;YJ91 | K/AKD91 Kòng Dì Daodàn <color=#ff6f00>AGM-PRH</color>
+weapons/cn_yj91a/short;K/AKD91
 weapons/cn_yj91_l_111;YJ91 | K/AKD91 Kòng Dì Daodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-4VP) <color=#ff6f00>AGM-PRH</color>
 weapons/cn_yj91_l_111/short;K/AKD91 (PRGS-4VP)
 weapons/cn_yj91_l_112;YJ91 | K/AKD91 Kòng Dì Daodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-5VP) <color=#ff6f00>AGM-PRH</color>
 weapons/cn_yj91_l_112/short;K/AKD91 (PRGS-5VP)
 weapons/cn_yj91_l_113;YJ91 | K/AKD91 Kòng Dì Daodàn (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-6VP) <color=#ff6f00>AGM-PRH</color>
 weapons/cn_yj91_l_113/short;K/AKD91 (PRGS-6VP)
+weapons/cn_yj91as;YJ91A | H/AKJ91 Kōng Jiàn Daodàn <color=#ff6f00>AShM-ARH</color>
+weapons/cn_yj91as/short;H/AKJ91
 weapons/cn_ld10;LD10 Qīngxíng Jìn Chéng Fǎn Fúshè Daodàn <color=#ff6f00>AGM-PRH</color>
 weapons/cn_ld10/short;LD10
 weapons/cn_cm_102;CM102 Fan Fúshè Daodàn Wuqì Xìtong <color=#ff6f00>AGM-PRH</color>
@@ -1372,6 +1416,12 @@ weapons/us_340gal_irst_fa_18e_drop_tank_centr;<color=@userlogColoredText>1287 L<
 weapons/us_340gal_irst_fa_18e_drop_tank_centr/short;AN/ASG-34(V)1
 
 //GERMANY FUEL TANKS
+weapons/ar_318l_drop_tank_1;<color=@userlogColoredText>318 L</color> Tanque auxiliar de combustible de 300 litros <color=#ff6f00>DPTK</color>
+weapons/ar_318l_drop_tank_1/short;Tanque auxiliar (300 L)
+weapons/ar_318l_drop_tank_2;<color=@userlogColoredText>318 L</color> Tanque auxiliar de combustible de 300 litros <color=#ff6f00>DPTK</color>
+weapons/ar_318l_drop_tank_2/short;Tanque auxiliar (300 L)
+weapons/ar_318l_drop_tank_3;<color=@userlogColoredText>318 L</color> Tanque auxiliar de combustible de 300 litros <color=#ff6f00>DPTK</color>
+weapons/ar_318l_drop_tank_3/short;Tanque auxiliar (300 L)
 weapons/mirage_3s_fuel_tank_6;Conformal fuel tank
 weapons/mirage_3s_fuel_tank_6/short;CFT
 weapons/sw_880l_rp825_drop_tank_mirage_iiis;<color=@userlogColoredText>880 L</color> RP 825 <color=#ff6f00>DPTK</color>
@@ -1384,30 +1434,6 @@ weapons/fr_1300l_rp522_mirage_2000d_r1;<color=@userlogColoredText>1300 L</color>
 weapons/fr_1300l_rp522_mirage_2000d_r1/short;RPL 522
 
 //USSR FUEL TANKS
-weapons/su_800l_su_7b_silver_fuse_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_7b_silver_fuse_1/short;PTB-800
-weapons/su_800l_su_7b_silver_fuse_2;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_7b_silver_fuse_2/short;PTB-800
-weapons/su_800l_su_7b_silver_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_7b_silver_wing_1/short;PTB-800
-weapons/su_800l_su_7b_silver_wing_2;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_7b_silver_wing_2/short;PTB-800
-weapons/su_800l_su_17_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_right_wing/short;PTB-800
-weapons/su_800l_su_17_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_right_wing_1/short;PTB-800
-weapons/su_800l_su_17_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_left_wing/short;PTB-800
-weapons/su_800l_su_17_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_left_wing_1/short;PTB-800
-weapons/su_800l_su_17_silver_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_silver_left_wing/short;PTB-800
-weapons/su_800l_su_17_silver_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_silver_left_wing_1/short;PTB-800
-weapons/su_800l_su_17_silver_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_silver_right_wing/short;PTB-800
-weapons/su_800l_su_17_silver_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
-weapons/su_800l_su_17_silver_right_wing_1/short;PTB-800
 weapons/su_490l_mig_21;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
 weapons/su_490l_mig_21/short;PTB-500
 weapons/su_490l_mig_21_left_wing;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
@@ -1422,41 +1448,83 @@ weapons/su_490l_mig_21_fuse;<color=@userlogColoredText>490 L</color> Podvyesnoj 
 weapons/su_490l_mig_21_fuse/short;PTB-500
 weapons/su_490l_mig_21_right_wing;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
 weapons/su_490l_mig_21_right_wing/short;PTB-500
-weapons/su_800l_su_25tm_silver_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_500l_yak_130_drop_tank_1;Drop tank (500 L)
+weapons/su_500l_yak_130_drop_tank_1/short;Drop tank (500 L)
+weapons/su_500l_yak_130_drop_tank_2;Drop tank (500 L)
+weapons/su_500l_yak_130_drop_tank_2/short;Drop tank (500 L)
+weapons/rs_500l_j_22;Drop tank (500 L)
+weapons/rs_500l_j_22/short;Drop tank (500 L)
+weapons/su_800l_su_7b_silver_fuse_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_fuse_1/short;PTB-800
+weapons/su_800l_su_7b_silver_fuse_2;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_fuse_2/short;PTB-800
+weapons/su_800l_su_7b_silver_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_wing_1/short;PTB-800
+weapons/su_800l_su_7b_silver_wing_2;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_wing_2/short;PTB-800
+weapons/su_800l_su_17_right_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_right_wing/short;PTB-800
+weapons/su_800l_su_17_right_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_right_wing_1/short;PTB-800
+weapons/su_800l_su_17_left_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_left_wing/short;PTB-800
+weapons/su_800l_su_17_left_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_left_wing_1/short;PTB-800
+weapons/su_800l_su_17_silver_left_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_left_wing/short;PTB-800
+weapons/su_800l_su_17_silver_left_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_left_wing_1/short;PTB-800
+weapons/su_800l_su_17_silver_right_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_right_wing/short;PTB-800
+weapons/su_800l_su_17_silver_right_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_right_wing_1/short;PTB-800
+weapons/su_800l_su_25tm_silver_right_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25tm_silver_right_wing/short;PTB-800
-weapons/su_800l_su_25tm_silver_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_right_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25tm_silver_right_wing_1/short;PTB-800
-weapons/su_800l_su_25tm_silver_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_left_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25tm_silver_left_wing/short;PTB-800
-weapons/su_800l_su_25tm_silver_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_left_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25tm_silver_left_wing_1/short;PTB-800
-weapons/su_800l_su_25t_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_left_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25t_left_wing/short;PTB-800
-weapons/su_800l_su_25t_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_left_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25t_left_wing_1/short;PTB-800
-weapons/su_800l_su_25t_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_right_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25t_right_wing/short;PTB-800
-weapons/su_800l_su_25t_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_right_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25t_right_wing_1/short;PTB-800
-weapons/su_800l_su_25_right_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_right_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25_right_wing/short;PTB-800
-weapons/su_800l_su_25_right_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_right_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25_right_wing_1/short;PTB-800
-weapons/su_800l_su_25_left_wing;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_left_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25_left_wing/short;PTB-800
-weapons/su_800l_su_25_left_wing_1;<color=@userlogColoredText>820 L</color> PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_left_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25_left_wing_1/short;PTB-800
+weapons/su_800l_mig_23bn_silver_fuse;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_mig_23bn_silver_fuse/short;PTB-800
+weapons/su_1150l_mig_29kr_left_wing;<color=@userlogColoredText>1150 L</color> Podvyesnoj toplivnyj bak PTB-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_left_wing/short;PTB-1150
+weapons/su_1150l_mig_29kr_left_wing1;<color=@userlogColoredText>1150 L</color> Podvyesnoj toplivnyj bak PTB-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_left_wing1/short;PTB-1150
+weapons/su_1150l_mig_29kr_right_wing;<color=@userlogColoredText>1150 L</color> Podvyesnoj toplivnyj bak PTB-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_right_wing/short;PTB-1150
+weapons/su_1150l_mig_29kr_right_wing1;<color=@userlogColoredText>1150 L</color> Podvyesnoj toplivnyj bak PTB-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_right_wing1/short;PTB-1150
+weapons/su_2150_liters_fuse_mig_29kr;<color=@userlogColoredText>2150 L</color> Podvyesnoj toplivnyj bak PTB-2150 <color=#ff6f00>DPTK</color>
+weapons/su_2150_liters_fuse_mig_29kr/short;PTB-2150
 weapons/su_1500_liters_fuse_mig_29;<color=@userlogColoredText>1520 L</color> PTB-1500 <color=#ff6f00>DPTK</color>
 weapons/su_1500_liters_fuse_mig_29/short;PTB-1500
 weapons/su_1500_liters_fuse_mig_29smt;<color=@userlogColoredText>1520 L</color> PTB-1500 <color=#ff6f00>DPTK</color>
 weapons/su_1500_liters_fuse_mig_29smt/short;PTB-1500
 weapons/su_2000_liters_fuse_mig_29smt;<color=@userlogColoredText>2000 L</color> PTB-2000 <color=#ff6f00>DPTK</color>
 weapons/su_2000_liters_fuse_mig_29smt/short;PTB-2000
-weapons/su_su34_3000l_drop_tank;<color=@userlogColoredText>3000 L</color> PTB-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank;<color=@userlogColoredText>3000 L</color> Podvyesnoj toplivnyj bak PTB-3000 <color=#ff6f00>DPTK</color>
 weapons/su_su34_3000l_drop_tank/short;PTB-3000
-weapons/su_su34_3000l_drop_tank_left;<color=@userlogColoredText>3000 L</color> PTB-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank_left;<color=@userlogColoredText>3000 L</color> Podvyesnoj toplivnyj bak PTB-3000 <color=#ff6f00>DPTK</color>
 weapons/su_su34_3000l_drop_tank_left/short;PTB-3000
-weapons/su_su34_3000l_drop_tank_right;<color=@userlogColoredText>3000 L</color> PTB-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank_right;<color=@userlogColoredText>3000 L</color> Podvyesnoj toplivnyj bak PTB-3000 <color=#ff6f00>DPTK</color>
 weapons/su_su34_3000l_drop_tank_right/short;PTB-3000
 weapons/su_5280l_mig_25pd_drop_tank_central;<color=@userlogColoredText>5280 L</color> PTB-5000 <color=#ff6f00>DPTK</color>
 weapons/su_5280l_mig_25pd_drop_tank_central/short;PTB-5000
@@ -1526,6 +1594,12 @@ weapons/it_330l_drop_tank_1;Drop tank (330 L)
 weapons/it_330l_drop_tank_1/short;Drop tank (330 L)
 weapons/it_330l_drop_tank_2;Drop tank (330 L)
 weapons/it_330l_drop_tank_2/short;Drop tank (330 L)
+weapons/it_630l_drop_tank_1;Drop tank (630 L)
+weapons/it_630l_drop_tank_1/short;Drop tank (630 L)
+weapons/it_630l_drop_tank_2;Drop tank (630 L)
+weapons/it_630l_drop_tank_2/short;Drop tank (630 L)
+weapons/it_630l_drop_tank_3;Drop tank (630 L)
+weapons/it_630l_drop_tank_3/short;Drop tank (630 L)
 
 //FRANCE FUEL TANKS
 weapons/nl_50gal_wingtip_tank_1;Drop tank (50 gal)
@@ -1692,8 +1766,10 @@ explosiveType/hbx_3;HBX-3
 explosiveType/dhl_1;DHL1
 explosiveType/nipolit;Nipolit
 explosiveType/pbxn_9;PBXN-9
-explosiveType/xp3264;XP3264
+explosiveType/pbxn_104;PBXN-104
 explosiveType/pbxn_107;PBXN-107
+explosiveType/pbxn_af_108;PBX(AF)-108
+explosiveType/xp3264;XP3264
 explosiveType/jhl_3;JHL3
 explosiveType/pax_48;PAX-48
 explosiveType/pax_3;PAX-3
@@ -2139,14 +2215,6 @@ weapons/fr_bgl_1000;<color=@userlogColoredText>970 kg</color> BGL-1000 <color=#f
 weapons/fr_bgl_1000/short;BGL-1000
 weapons/fr_aj_168;AJ.168 Martel <color=#ff6f00>ASM-RG</color>
 weapons/fr_aj_168/short;AJ.168
-weapons/uk_pgm_500;<color=@userlogColoredText>404 kg</color> PGM 500 <color=#ff6f00>BMB-TV</color>
-weapons/uk_pgm_500/short;PGM 500
-weapons/uk_pgm_500_iir;<color=@userlogColoredText>404 kg</color> PGM 500/3 <color=#ff6f00>BMB-IR</color>
-weapons/uk_pgm_500_iir/short;PGM 500/3
-weapons/uk_pgm_2000;<color=@userlogColoredText>1060 kg</color> PGM 2000 <color=#ff6f00>BMB-TV</color>
-weapons/uk_pgm_2000/short;PGM 2000
-weapons/uk_pgm_2000_iir;<color=@userlogColoredText>1060 kg</color> PGM 2000/3 <color=#ff6f00>BMB-IR</color>
-weapons/uk_pgm_2000_iir/short;PGM 2000/3
 weapons/il_spice_250;<color=@userlogColoredText>130 kg</color> SPICE 250 <color=#ff6f00>BMB-EO/GNSS</color>
 weapons/il_spice_250/short;SPICE 250
 weapons/il_spice_1000;<color=@userlogColoredText>490 kg</color> SPICE 1000 <color=#ff6f00>BMB-EO/GNSS</color>
@@ -2480,18 +2548,18 @@ weapons/it_1500l_tornado_ids_mod_95_1;Drop tank (1500 L)
 weapons/it_1500l_tornado_ids_mod_95_1/short;Drop tank
 weapons/it_1500l_tornado_ids_mod_95_2;Drop tank (1500 L)
 weapons/it_1500l_tornado_ids_mod_95_2/short;Drop tank
-weapons/uk_1500l_tornado_gr1_1;Drop tank (330 gal)
+weapons/uk_1500l_tornado_gr1_1;Drop tank (1500 L)
 weapons/uk_1500l_tornado_gr1_1/short;Drop tank
-weapons/uk_1500l_tornado_gr1_2;Drop tank (330 gal)
+weapons/uk_1500l_tornado_gr1_2;Drop tank (1500 L)
 weapons/uk_1500l_tornado_gr1_2/short;Drop tank
-weapons/uk_1500l_tornado_gr4_1;Drop tank (330 gal)
+weapons/uk_1500l_tornado_gr4_1;Drop tank (1500 L)
 weapons/uk_1500l_tornado_gr4_1/short;Drop tank
-weapons/uk_1500l_tornado_gr4_2;Drop tank (330 gal)
+weapons/uk_1500l_tornado_gr4_2;Drop tank (1500 L)
 weapons/uk_1500l_tornado_gr4_2/short;Drop tank
-weapons/gr_1500l_tornado_f3_1;Drop tank (330 gal)
+weapons/gr_1500l_tornado_f3_1;Drop tank (1500 L)
 weapons/gr_1500l_tornado_f3_1/short;Drop tank
-weapons/gr_1500l_tornado_f3_2;Drop tank (330 gal)
-weapons/gr_1500l_tornado_f3_2/short;Drop tank 1500
+weapons/gr_1500l_tornado_f3_2;Drop tank (1500 L)
+weapons/gr_1500l_tornado_f3_2/short;Drop tank
 weapons/fr_2500l_m4000_drop_tank_1;Drop tank (2500 L)
 weapons/fr_2500l_m4000_drop_tank_1/short;Drop tank
 weapons/fr_2500l_m4000_drop_tank_2;Drop tank (2500 L)
@@ -5321,14 +5389,6 @@ weapons/120mm_L11A5_user_cannon;120 mm L11A5 cannon
 120mm_dm13;DM 13
 120mm_dm12;DM 12
 120mm_dm12a1;DM 12 A1
-weapons/120mm_rheinmetall_l55_a1_user_cannon;120 mm Rh120 L/55 A1 cannon
-weapons/120mm_Rheinmetall_L55_user_cannon;120 mm Rh120 L/55 cannon
-weapons/120mm_Rheinmetall_L44_VT_user_cannon;120 mm Rh120 L/44 cannon
-weapons/120mm_Rheinmetall_L44_autoloader_user_cannon;120 mm Rh120 L/44 cannon
-weapons/120mm_Rheinmetall_L44_user_cannon;120 mm Rh120 L/44 cannon
-weapons/120mm_rheinmetall_l44_can_user_cannon;120 mm Rh120 L/44 cannon
-weapons/120mm_Rheinmetall_L44_2A5_user_cannon;120 mm Rh120 L/44 cannon
-weapons/120mm_Rheinmetall_L44_2PL_user_cannon;120 mm Rh120 L/44 cannon
 weapons/12_7mm_NSV_user_cannon;<color=@userlogColoredText>12.7 mm</color> 6P17 | NSVT <color=#ff6f00>MG</color>
 weapons/12_7mm_NSV_t_80_user_cannon;<color=@userlogColoredText>12.7 mm</color> 6P17 | NSVT <color=#ff6f00>MG</color>
 weapons/12_7mm_NSV_t_72_user_cannon;<color=@userlogColoredText>12.7 mm</color> 6P17 | NSVT <color=#ff6f00>MG</color>
@@ -5602,9 +5662,7 @@ weapons/125mm_9M14_rocket_launcher;9M14 ATGM
 weapons/125mm_9M14_rocket_launcher/short;9M14
 weapons/125mm_2A26_user_cannon;<color=@userlogColoredText>125 mm</color> 2A26 | D-81 <color=#ff6f00>CNN</color>
 weapons/125mm_2A46_2_user_cannon;<color=@userlogColoredText>125 mm</color> 2A46-2 | D-81K <color=#ff6f00>CNN</color>
-weapons/125mm_2A46_M5_T_90A_user_cannon;<color=@userlogColoredText>125 mm</color> 2A46M-5 <color=#ff6f00>CNN</color>
 weapons/125mm_2A46_M5_t_90s_bheeshma_user_cannon;<color=@userlogColoredText>125 mm</color> 2A46M <color=#ff6f00>CNN</color>
-weapons/125mm_2A46_M5_user_cannon;<color=@userlogColoredText>125 mm</color> 2A46M-5-01 <color=#ff6f00>CNN</color>
 weapons/125mm_2A46_M1_user_cannon;<color=@userlogColoredText>125 mm</color> 2A46M-1 | D-81-3 Rapira-3 <color=#ff6f00>CNN</color>
 weapons/125mm_2A46_M1_T_80U_user_cannon;<color=@userlogColoredText>125 mm</color> 2A46M-1 | D-81-3 Rapira-3 <color=#ff6f00>CNN</color>
 weapons/125mm_2A46_M1_T_80UK_user_cannon;<color=@userlogColoredText>125 mm</color> 2A46M-1 | D-81-3 Rapira-3 <color=#ff6f00>CNN</color>
@@ -5907,7 +5965,6 @@ fab250_43;FAB-250 M43
 weapons/105mm_JSW_user_cannon;105 mm JSW cannon
 weapons/105mm_L7A3_Type74_user_cannon;105 mm L7A3 cannon
 weapons/105mm_L7A3_Type74kai_user_cannon;105 mm L7A3 cannon
-weapons/120mm_L30A1_user_cannon;120 mm L30A1 cannon
 weapons/183mm_QF_L4_user_cannon;183 mm QF L4A1 cannon
 weapons/90mm_BK90_Ru251_user_cannon;90 mm BK90 cannon
 weapons/75mm_M2_howitzer_user_cannon;<color=@userlogColoredText>75 mm</color> Howitzer, 75mm, M2 <color=#ff6f00>CNN-HWZ</color>

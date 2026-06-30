@@ -7,6 +7,12 @@ modification/su_kab_500s/desc;Allows the installation of KAB-500S guided bombs.
 modification/su_kab_500s;KAB-500S
 modification/su_kab_gps/desc;Allows the installation of guided bombs: {unlockWeapons}
 modification/su_kab_gps;KAB-S
+modification/fr_pgm_tv/desc;Allows the installation of guided bombs: {unlockWeapons}
+modification/fr_pgm_tv;PGM TV
+modification/fr_pgm_ir/desc;Allows the installation of guided bombs: {unlockWeapons}
+modification/fr_pgm_ir;PGM IR
+modification/fr_pgm_laser/desc;Allows the installation of guided bombs: {unlockWeapons}
+modification/fr_pgm_laser;PGM Laser
 modification/cn_ls_laser/desc;Allows the installation of GB laser guided bombs: {unlockWeapons}
 modification/cn_ls_laser;GB
 modification/us_gbu_53/desc;Allows the installation of GBU-53 guided bombs.
@@ -33,6 +39,9 @@ sensors/cn_jl_10ag;JL-10AG
 sensors/su_wa316ld;WA316LD (Type 74)
 sensors/us_an_apq_159_v;AN/APQ-159(V)
 sensors/us_an_apg_71;AN/APG-71
+avionics_sensor_esm;ESM
+avionics_sensor_esm/desc;ESM
+engine_model/r1830-43;R1830-43
 engine_model/merlin-46;Merlin-46
 modification/us_arm/desc;Allows the installation of anti-radiation missiles: {unlockWeapons}
 modification/us_arm;ARM
@@ -44,6 +53,12 @@ modification/anti_radiation_missile_type_c/desc;Allows the installation of anti-
 modification/anti_radiation_missile_type_c;ARM
 modification/anti_radiation_missile_agm_122/desc;Allows the installation of AGM-122 anti-radiation missiles.
 modification/anti_radiation_missile_agm_122;AGM-122
+modification/rs_plab_350m_73/desc;Allows the installation of PLAB fire bombs.
+modification/rs_plab_350m_73;PLAB
+modification/us_agm_114b/desc;Allows the installation of AGM-114B Hellfire missiles.
+modification/us_agm_114b;AGM-114B
+modification/us_agm_114k/desc;Allows the installation of AGM-114K Hellfire missiles.
+modification/us_agm_114k;AGM-114K
 modification/rs_fab_pgb/desc;Allows the installation of PGB guided bombs: {unlockWeapons}
 modification/rs_fab_pgb;PGB
 modification/rs_grom_b/desc;Allows the installation of GROM-B missiles.

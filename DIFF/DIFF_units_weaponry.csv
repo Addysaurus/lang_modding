@@ -5,7 +5,7 @@ weapons/cn_kb1_5kt;KB-1 thermonuclear bomb (5 kt)
 weapons/cn_kb1_5kt/short;☢KB-1
 weapons/cn_kb1_30kt;KB-1 thermonuclear bomb (30 kt)
 weapons/cn_kb1_30kt/short;☢KB-1
-weapons/us_agm_88c;AGM-88C anti-radiation missile
+weapons/us_agm_88c;AGM-88C HARM anti-radiation missile
 weapons/us_agm_88c/short;AGM-88C
 weapons/su_kh_31a;Kh-31A anti-ship missile
 weapons/su_kh_31a/short;Kh-31A
@@ -33,13 +33,13 @@ weapons/su_l_081_c;"L-081 C ""Fantasmagoria-B"" targeting pod"
 weapons/su_l_081_c/short;L-081 C
 weapons/su_kh_58ush;Kh-58USh anti-radiation missile
 weapons/su_kh_58ush/short;Kh-58USh
-weapons/us_agm_122;AGM-122 anti-radiation missiles
+weapons/us_agm_122;AGM-122 Sidearm anti-radiation missiles
 weapons/us_agm_122/short;AGM-122
-weapons/fr_as37_l_band;AS-37 L anti-radiation missiles
+weapons/fr_as37_l_band;AS-37 L Martel anti-radiation missiles
 weapons/fr_as37_l_band/short;AS-37 L
-weapons/fr_as37_s_band;AS-37 S anti-radiation missiles
+weapons/fr_as37_s_band;AS-37 S Martel anti-radiation missiles
 weapons/fr_as37_s_band/short;AS-37 S
-weapons/fr_as37_c_band;AS-37 C anti-radiation missiles
+weapons/fr_as37_c_band;AS-37 C Martel anti-radiation missiles
 weapons/fr_as37_c_band/short;AS-37 C
 weapons/fr_as37_armat;AS-37 ARMAT anti-radiation missiles
 weapons/fr_as37_armat/short;AS-37 ARMAT
@@ -55,7 +55,23 @@ weapons/cn_yj91_l_112;YJ-91 L112 anti-radiation missiles
 weapons/cn_yj91_l_112/short;YJ-91 L112
 weapons/cn_yj91_l_113;YJ-91 L113 anti-radiation missiles
 weapons/cn_yj91_l_113/short;YJ-91 L113
+weapons/cn_yj91a;YJ-91A anti-radiation missiles
+weapons/cn_yj91a/short;YJ-91A
+weapons/cn_yj91as;YJ-91 anti-ship missile
+weapons/cn_yj91as/short;YJ-91
 weapons/cannonHispano804;20 mm HS 804 cannon
+weapons/uk_pgm_500_laser;PGM 500/1 guided bomb
+weapons/uk_pgm_500_laser/short;PGM 500/1
+weapons/uk_pgm_2000_laser;PGM 2000/1 guided bomb
+weapons/uk_pgm_2000_laser/short;PGM 2000/1
+weapons/uk_pgm_500_wo_mitl;PGM 500/2 guided bomb
+weapons/uk_pgm_500_wo_mitl/short;PGM 500/2
+weapons/uk_pgm_2000_wo_mitl;PGM 2000/2 guided bomb
+weapons/uk_pgm_2000_wo_mitl/short;PGM 2000/2
+weapons/uk_pgm_500_iir_wo_mitl;PGM 500/3 guided bomb
+weapons/uk_pgm_500_iir_wo_mitl/short;PGM 500/3
+weapons/uk_pgm_2000_iir_wo_mitl;PGM 2000/3 guided bomb
+weapons/uk_pgm_2000_iir_wo_mitl/short;PGM 2000/3
 weapons/us_gbu_53;GBU-53 (SDB II) guided bomb
 weapons/us_gbu_53/short;GBU-53
 weapons/us_agm_119a_penguin_wo_radar_designation;AGM-119A Penguin missile
@@ -92,8 +108,8 @@ weapons/rs_grom;GROM air-to-ground missile
 weapons/rs_grom/short;GROM
 weapons/rs_vrvz_240;VRVZ-240 air-to-ground missile
 weapons/rs_vrvz_240/short;VRVZ-240
-weapons/rs_kosava_3_tm;KOSAVA 3 TM air-to-ground missile
-weapons/rs_kosava_3_tm/short;KOSAVA 3 TM
+weapons/rs_kosava_3_tm;Kosava 3 TM air-to-ground missile
+weapons/rs_kosava_3_tm/short;Kosava 3 TM
 weapons/rs_e_24_a1;E-24-A1 air-to-ground missile
 weapons/rs_e_24_a1/short;E-24-A1
 weapons/rs_salgr_m_16d;SALGR M-16D missiles
@@ -118,6 +134,16 @@ weapons/ar_318l_drop_tank_2;Drop tank (84 gal.)
 weapons/ar_318l_drop_tank_2/short;Drop tank
 weapons/ar_318l_drop_tank_3;Drop tank (84 gal.)
 weapons/ar_318l_drop_tank_3/short;Drop tank
+weapons/su_1150l_mig_29kr_left_wing;Drop tank (1150 liters)
+weapons/su_1150l_mig_29kr_left_wing/short;Drop tank
+weapons/su_1150l_mig_29kr_left_wing1;Drop tank (1150 liters)
+weapons/su_1150l_mig_29kr_left_wing1/short;Drop tank
+weapons/su_1150l_mig_29kr_right_wing;Drop tank (1150 liters)
+weapons/su_1150l_mig_29kr_right_wing/short;Drop tank
+weapons/su_1150l_mig_29kr_right_wing1;Drop tank (1150 liters)
+weapons/su_1150l_mig_29kr_right_wing1/short;Drop tank
+weapons/su_2150_liters_fuse_mig_29kr;Drop tank (2150 liters)
+weapons/su_2150_liters_fuse_mig_29kr/short;Drop tank
 weapons/su_800l_mig_23bn_silver_fuse;Drop tank (820 liters)
 weapons/su_800l_mig_23bn_silver_fuse/short;Drop tank
 weapons/su_500l_yak_130_drop_tank_1;Drop tank (500 liters)
@@ -130,7 +156,7 @@ weapons/it_630l_drop_tank_2;Drop tank (630 liters)
 weapons/it_630l_drop_tank_2/short;Drop tank
 weapons/it_630l_drop_tank_3;Drop tank (630 liters)
 weapons/it_630l_drop_tank_3/short;Drop tank
-weapons/us_agm_84d;AGM-84D anti-ship missile
+weapons/us_agm_84d;AGM-84D Harpoon anti-ship missile
 weapons/us_agm_84d/short;AGM-84D
 weapons/150mm_sfh_18_user_cannon;150 mm s.F.H.18 howitzer
 150mm_gr_19_he;Gr.19
@@ -147,9 +173,12 @@ missile/guidance/PRH+IOG+GNSS;PRH+IOG+GNSS
 105mm_m393a3;M393A3
 explosiveType/jhl_3;JHL-3
 explosiveType/pax_48;PAX-48
+explosiveType/pbxn_104;PBXN-104
+explosiveType/pbxn_af_108;PBX(AF)-108
 explosiveType/pax_3;PAX-3
 explosiveType/destex;Destex
 weapons/127mm_aim_9x_nomads_user_cannon;NOMADS SAM
+weapons/125mm_ZPT_98_vt4b_user_cannon;125 mm ZPT98 cannon
 37mm_heit_1955;HEI-T
 37mm_apit_1955;AP-T
 weapons/76mm_3_50_mk22_naval_user_cannon;3-inch Mark 22 cannon
@@ -161,13 +190,21 @@ weapons/us_aim_54c_plus_default/short;AIM-54C+
 atam_mistral_sam;Mistral
 weapons/ch_kd88_datalink_pod;Data Link pod
 weapons/ch_kd88_datalink_pod/short;Data Link pod
+weapons/120mm_rheinmetall_l55_a1_cr_lep_user_cannon;120 mm Rh120 L/55 A1 cannon
+weapons/120mm_Rheinmetall_L44_2RI_user_cannon;120 mm Rh120 L/44 cannon
 weapons/120mm_M256_M1A3_user_cannon;120 mm M256 cannon
 120mm_im_he;IM HE
 120mm_xm1147;M1147
 120mm_m829a3;M829A3
+120mm_ofl_120_f2;OFL 120 F2
+weapons/125mm_2A46_M5_t_90m_user_cannon;125 mm 2A46M-5 cannon
+125mm_3bm42_2;3BM42-2
 106mm_type_64_heat;Type 64 HEAT
 106mm_type_68_hesh;Type 68 HESH
 weapons/102mm_45_4in_qf_mark16_21_aa_naval_user_cannon;4 inch/45 Mark XVI cannon
+weapons/76mm_modern_cn_smoke_grenade_launcher;76 mm smoke grenade launcher
+weapons/76mm_modern_cn_smoke_grenade_launcher/short;Smoke
+weapons/120mm_L30A1_2e_user_cannon;120 mm L30A1 cannon
 weapons/155mm_FH70_L_39_user_cannon;155 mm/41 FH 70 cannon
 155mm_p3;P3
 155mm_p5;P5

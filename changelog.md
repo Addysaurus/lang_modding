@@ -521,8 +521,11 @@ All dates are listed in DD-MM-YYYY format.
     - **2A46M-5-01** → **125-mm tankovaâ puška 2A46M-5-01**.
     - **120 mm Rh120 L/55 cannon** → **Bordkanone 120 mm L55**.
     - **120 mm Rh120 L/55 A1 cannon** → **Bordkanone 120 mm L55 A1**.
-    - **PTB-500**: St-atcard name → **Podvyesnoj toplivnyj bak PTB-500**.
+    - **PTB-500**: Statcard name → **Podvyesnoj toplivnyj bak PTB-500**.
+    - **PTB-1500**: Statcard name → **Podvyesnoj toplivnyj bak PTB-1500**.
+    - **PTB-2000**: Statcard name → **Podvyesnoj toplivnyj bak PTB-2000**.
     - **PTB-3000**: Statcard name → **Podvyesnoj toplivnyj bak PTB-3000**.
+    - **PTB-5000**: Statcard name → **Podvyesnoj toplivnyj bak PTB-5000**.
 
 ### Decals:
 

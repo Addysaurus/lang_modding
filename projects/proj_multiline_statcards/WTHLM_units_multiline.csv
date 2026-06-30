@@ -201,6 +201,12 @@ XF5U-1 ""Flying Flapjack"""
 xf5u_1_1;XF5U-1
 xf5u_1_2;XF5U
 
+p-59a_shop;P-59A-1-BE
+p-59a_0;"<color=#81c3fc>Bell Aircraft Corporation Model 27</color>
+P-59A-1-BE Airacomet"
+p-59a_1;P-59A
+p-59a_2;P-59
+
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 f3d_1_shop;F3D-1
 f3d_1_0;"<color=#81c3fc>Douglas Aircraft Company D-561</color>
@@ -2724,7 +2730,7 @@ ju-288c_2;Ju 288
 
 ia_58a_pucara_shop;IA. 58A
 ia_58a_pucara_0;"<color=#81c3fc>Fábrica Militar de Aviones</color>
-Avion IA. 58A Pucará"
+Avión IA. 58A Pucará"
 ia_58a_pucara_1;IA. 58A
 ia_58a_pucara_2;IA. 58
 
@@ -3014,11 +3020,11 @@ und System</color>
 fa_18c_switzerland_1;◌ F/A18 C
 fa_18c_switzerland_2;◌ F/A18
 
-fa_18c_late_switzerland_shop;◌ F/A18 C (Upgrade 25)
+fa_18c_late_switzerland_shop;◌ F/A18 C (RP 17)
 fa_18c_late_switzerland_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267 <color=@commonTextColor>/</color> Schweizer Flugzeuge
 und System <color=@commonTextColor>/</color> Boeing Defense, Space & Security</color>
 ◌ F/A18 C Hornet
-<color=#adadad>(Upgrade 25)</color>"
+<color=#adadad>(Rüstungsprogramm 2017)</color>"
 fa_18c_late_switzerland_1;◌ F/A18 C
 fa_18c_late_switzerland_2;◌ F/A18
 
@@ -3495,6 +3501,13 @@ germ_pzkpfw_VI_ausf_h1_tiger_animal_version_0;"␠ Panzerkampfwagen Tiger Ausf. 
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_1;␠ Tiger E
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_2;Heavy Tank
 
+germ_vk_3002m_shop;V.K. 30.02 (M) (Vs.-Fgst.Nr. 2)
+germ_vk_3002m_0;"<color=#81c3fc>Maschinenfabrik Augsburg-Nürnberg, Werk Nürnberg</color>
+V.K. 30.02 (M)
+<color=@currencyGoldColor>Versuchs-Fahrgestellnummer 2</color>"
+germ_vk_3002m_1;V.K. 30.02 (M)
+germ_vk_3002m_2;Medium Tank
+
 germ_flakpanzer_IV_Ostwind_shop;Ostwind
 germ_flakpanzer_IV_Ostwind_0;"<color=#7ce68f>Flakpanzerkampfwagen IV</color>
 <color=#adadad>(3,7cm Fla.K. 43)</color>
@@ -3566,9 +3579,11 @@ germ_kv_1B_finland_0;"<color=#81c3fc>Kirovskij zavod</color>
 germ_kv_1B_finland_1;▀ 44 psv KW 1 B
 germ_kv_1B_finland_2;▀ Heavy Tank
 
-germ_pzkpfw_VI_tiger_P_shop;VK 45.01 (P)
-germ_pzkpfw_VI_tiger_P_0;VK 45.01 (P)
-germ_pzkpfw_VI_tiger_P_1;VK 45.01
+germ_pzkpfw_VI_tiger_P_shop;V.K. 45.01 (P)
+germ_pzkpfw_VI_tiger_P_0;"<color=#81c3fc>Dr. Ing. h.c. F. Porsche, Konstruktion und Beratung für Motoren- und
+Fahrzeugbau Typ 101</color>
+V.K. 45.01 (P)"
+germ_pzkpfw_VI_tiger_P_1;V.K. 45.01 (P)
 germ_pzkpfw_VI_tiger_P_2;Heavy Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
@@ -3576,7 +3591,7 @@ germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger B (Fgst.Nr. 15)
 germ_pzkpfw_VI_ausf_b_tiger_IIp_0;"<color=#81c3fc>Henschel & Sohn</color>
 <color=#5cae63>Sd.Kfz. 182</color>
 Panzerkampfwagen Tiger Ausf. B
-<color=@currencyGoldColor>Fgst.Nr. 280015</color>"
+<color=@currencyGoldColor>Fahrgestellnummer 280015</color>"
 germ_pzkpfw_VI_ausf_b_tiger_IIp_1;Tiger B
 germ_pzkpfw_VI_ausf_b_tiger_IIp_2;Heavy Tank
 
@@ -3608,14 +3623,14 @@ germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
 germ_flakpanzer_zerstorer_45_2;SPAA
 
 germ_panzerjager_tiger_P_ferdinand_shop;Pz.Jgr. Tiger (P)
-germ_panzerjager_tiger_P_ferdinand_0;"<color=#81c3fc>Nibelungenwerke</color>
+germ_panzerjager_tiger_P_ferdinand_0;"<color=#81c3fc>Nibelungenwerk</color>
 <color=#5cae63>Sd.Kfz. 184</color>
 Panzerjäger Tiger (P) ""Ferdinand"""
 germ_panzerjager_tiger_P_ferdinand_1;Pz.Jgr. Tiger (P)
 germ_panzerjager_tiger_P_ferdinand_2;Tank Destroyer
 
 germ_panzerjager_tiger_P_elefant_shop;Elefant
-germ_panzerjager_tiger_P_elefant_0;"<color=#81c3fc>Nibelungenwerke</color>
+germ_panzerjager_tiger_P_elefant_0;"<color=#81c3fc>Nibelungenwerk</color>
 <color=#5cae63>Sd.Kfz. 184</color>
 <color=#7ce68f>Panzerjäger Tiger (P)</color>
 Elefant"
@@ -3623,7 +3638,7 @@ germ_panzerjager_tiger_P_elefant_1;Elefant
 germ_panzerjager_tiger_P_elefant_2;Tank Destroyer
 
 germ_panzerjager_tiger_shop;Pz.Jgr. Tiger B
-germ_panzerjager_tiger_0;"<color=#81c3fc>Nibelungenwerke</color>
+germ_panzerjager_tiger_0;"<color=#81c3fc>Nibelungenwerk</color>
 <color=#5cae63>Sd.Kfz. 186</color>
 Panzerjäger Tiger Ausf. B"
 germ_panzerjager_tiger_1;Pz.Jgr. Tiger
@@ -9778,6 +9793,7 @@ cn_ztz_96b_2;MBT
 
 cn_pgz_09_shop;PGZ09
 cn_pgz_09_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WA3001</color>
 PGZ2009 Shì Shuāng 35 Háomi Zì Háng Gāo Pào"
 cn_pgz_09_1;PGZ09
 cn_pgz_09_2;SPAAG

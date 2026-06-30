@@ -1351,7 +1351,7 @@ shop/group/germ_panzerjager_tiger_group;Pz.Jgr. Tiger (P) / B
 shop/group/germ_raketen_group;SPz 12-3 (Typ 3Z 8DLa) / RakJPz 2
 shop/group/germ_puma_group;SPz Puma S0 / VJTF
 shop/group/germ_roland_osa_group;FlaRakPz 1 / ◊ 9A33BM2
-shop/group/germ_iris_slm_fcs_group;LV IRIS-T SLM (Radarfahrzeug) / (Startfahrzeug)
+shop/group/germ_iris_slm_fcs_group;LV IRIS-T SLM
 shop/group/he51_group;He 51 A / B / C-1 / C-1 (spät)
 shop/group/he_112_group;He 112 V-5 / A-0
 shop/group/do_17_group;Do 17 E-1 / Z-2
@@ -2647,8 +2647,12 @@ douglas_a_1h_shop;A-1H
 douglas_a_1h_0;A-1H Skyraider
 douglas_a_1h_1;A-1H
 douglas_a_1h_2;A-1H
+xf5u_1_shop;XF5U-1
+xf5u_1_0;"Vought-Sikorsky Aircraft | XF5U-1 ""Flying Flapjack"""
+xf5u_1_1;XF5U-1
+xf5u_1_2;XF5U
 p-59a_shop;P-59A-1-BE
-p-59a_0;P-59A-1-BE
+p-59a_0;Bell Aircraft Corporation Model 27 | P-59A-1-BE Airacomet
 p-59a_1;P-59A
 p-59a_2;P-59
 f4u-6_au-1_shop;AU-1
@@ -2659,10 +2663,6 @@ f2g-1_shop;F2G-1
 f2g-1_0;F2G-1 Corsair
 f2g-1_1;F2G-1
 f2g-1_2;F2G
-xf5u_1_shop;XF5U-1
-xf5u_1_0;"Vought-Sikorsky Aircraft | XF5U-1 ""Flying Flapjack"""
-xf5u_1_1;XF5U-1
-xf5u_1_2;XF5U
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 f-80a_shop;F-80A-5-LO
@@ -3999,6 +3999,9 @@ us_destroyer_cf_adams_class_cf_adams_shop;USS Charles F. Adams (DDG-2)
 us_destroyer_cf_adams_class_cf_adams_0;Bath Iron Works | Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)
 us_destroyer_cf_adams_class_cf_adams_1;USS Charles F. Adams
 us_destroyer_cf_adams_class_cf_adams_2;Guided Missile Destroyer
+us_destroyer_cf_adams_class_cf_adams_ec_0;Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)
+us_destroyer_cf_adams_class_cf_adams_ec_1;USS Charles F. Adams
+us_destroyer_cf_adams_class_cf_adams_ec_2;Guided Missile Destroyer
 us_destroyer_forrestsherman_class_shop;USS Forrest Sherman (DD-931)
 us_destroyer_forrestsherman_class_0;Bath Iron Works | Forrest Sherman-class Destroyer | USS Forrest Sherman (DD-931)
 us_destroyer_forrestsherman_class_1;USS Forrest Sherman
@@ -4686,7 +4689,7 @@ ju-288c_0;Ju 288 C
 ju-288c_1;Ju 288 C
 ju-288c_2;Ju 288
 ia_58a_pucara_shop;IA. 58A
-ia_58a_pucara_0;Fábrica Militar de Aviones | Avion IA. 58A Pucará
+ia_58a_pucara_0;Fábrica Militar de Aviones | Avión IA. 58A Pucará
 ia_58a_pucara_1;IA. 58A
 ia_58a_pucara_2;IA. 58
 ju-388j_shop;Ju 388 J
@@ -4885,8 +4888,8 @@ fa_18c_switzerland_shop;◌ F/A18 C
 fa_18c_switzerland_0;◌ McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System | F/A18 C Hornet
 fa_18c_switzerland_1;◌ F/A18 C
 fa_18c_switzerland_2;◌ F/A18
-fa_18c_late_switzerland_shop;◌ F/A18 C (Upgrade 25)
-fa_18c_late_switzerland_0;◌ McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A18 C Hornet (Upgrade 25)
+fa_18c_late_switzerland_shop;◌ F/A18 C (RP 17)
+fa_18c_late_switzerland_0;◌ McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A18 C Hornet (Rüstungsprogramm 2017)
 fa_18c_late_switzerland_1;◌ F/A18 C
 fa_18c_late_switzerland_2;◌ F/A18
 
@@ -5227,6 +5230,10 @@ germ_pzkpfw_VI_ausf_h1_tiger_animal_version_shop;␠ Tiger E (früh)
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_0;␠ Panzerkampfwagen Tiger Ausf. E (früh)
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_1;␠ Tiger E
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_2;Heavy Tank
+germ_vk_3002m_shop;V.K. 30.02 (M) (Vs.-Fgst.Nr. 2)
+germ_vk_3002m_0;Maschinenfabrik Augsburg-Nürnberg, Werk Nürnberg | V.K. 30.02 (M) (Versuchs-Fahrgestellnummer 2)
+germ_vk_3002m_1;V.K. 30.02 (M)
+germ_vk_3002m_2;Medium Tank
 germ_flakpanzer_IV_Ostwind_shop;Ostwind
 germ_flakpanzer_IV_Ostwind_0;"Flakpanzerkampfwagen IV (3,7cm Fla.K. 43) ""Ostwind"""
 germ_flakpanzer_IV_Ostwind_1;Ostwind
@@ -5267,14 +5274,14 @@ germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
 germ_kv_1B_finland_0;"▀ Kirovskij zavod | Ps. 272-1 | 44 tonnin panssarivaunu KW 1 B ""Klimi"""
 germ_kv_1B_finland_1;▀ 44 psv KW 1 B
 germ_kv_1B_finland_2;▀ Heavy Tank
-germ_pzkpfw_VI_tiger_P_shop;VK 45.01 (P)
-germ_pzkpfw_VI_tiger_P_0;VK 45.01 (P)
-germ_pzkpfw_VI_tiger_P_1;VK 45.01
+germ_pzkpfw_VI_tiger_P_shop;V.K. 45.01 (P)
+germ_pzkpfw_VI_tiger_P_0;Dr. Ing. h.c. F. Porsche, Konstruktion und Beratung für Motoren- und Fahrzeugbau Typ 101 | V.K. 45.01 (P)
+germ_pzkpfw_VI_tiger_P_1;V.K. 45.01 (P)
 germ_pzkpfw_VI_tiger_P_2;Heavy Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger B (Fgst.Nr. 15)
-germ_pzkpfw_VI_ausf_b_tiger_IIp_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fgst.Nr. 280015)
+germ_pzkpfw_VI_ausf_b_tiger_IIp_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fahrgestellnummer 280015)
 germ_pzkpfw_VI_ausf_b_tiger_IIp_1;Tiger B
 germ_pzkpfw_VI_ausf_b_tiger_IIp_2;Heavy Tank
 germ_pzkpfw_VI_ausf_b_tiger_IIh_shop;Tiger B (Serien-Turm)
@@ -5294,15 +5301,15 @@ germ_flakpanzer_zerstorer_45_0;"Flakpanzerkampfwagen IV (3cm Fla.K.-Vierling) ""
 germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
 germ_flakpanzer_zerstorer_45_2;SPAA
 germ_panzerjager_tiger_P_ferdinand_shop;Pz.Jgr. Tiger (P)
-germ_panzerjager_tiger_P_ferdinand_0;"Nibelungenwerke | Panzerjäger Tiger (P) (Sd.Kfz. 184) ""Ferdinand"""
+germ_panzerjager_tiger_P_ferdinand_0;"Nibelungenwerk | Panzerjäger Tiger (P) (Sd.Kfz. 184) ""Ferdinand"""
 germ_panzerjager_tiger_P_ferdinand_1;Pz.Jgr. Tiger (P)
 germ_panzerjager_tiger_P_ferdinand_2;Tank Destroyer
 germ_panzerjager_tiger_P_elefant_shop;Elefant
-germ_panzerjager_tiger_P_elefant_0;Nibelungenwerke | Panzerjäger Tiger (P) (Sd.Kfz. 184) | Elefant
+germ_panzerjager_tiger_P_elefant_0;Nibelungenwerk | Panzerjäger Tiger (P) (Sd.Kfz. 184) | Elefant
 germ_panzerjager_tiger_P_elefant_1;Elefant
 germ_panzerjager_tiger_P_elefant_2;Tank Destroyer
 germ_panzerjager_tiger_shop;Pz.Jgr. Tiger B
-germ_panzerjager_tiger_0;Nibelungenwerke | Panzerjäger Tiger Ausf. B (Sd.Kfz. 186)
+germ_panzerjager_tiger_0;Nibelungenwerk | Panzerjäger Tiger Ausf. B (Sd.Kfz. 186)
 germ_panzerjager_tiger_1;Pz.Jgr. Tiger
 germ_panzerjager_tiger_2;Tank Destroyer
 
@@ -9090,7 +9097,7 @@ cn_ztz_96b_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WZ122 | Z
 cn_ztz_96b_1;ZTZ96B
 cn_ztz_96b_2;MBT
 cn_pgz_09_shop;PGZ09
-cn_pgz_09_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | PGZ2009 Shì Shuāng 35 Háomi Zì Háng Gāo Pào
+cn_pgz_09_0;Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | WA3001 | PGZ2009 Shì Shuāng 35 Háomi Zì Háng Gāo Pào
 cn_pgz_09_1;PGZ09
 cn_pgz_09_2;SPAAG
 cn_pgz_04a_shop;PGZ04A
@@ -11584,10 +11591,6 @@ germ_leopard_I_shop;KPz Leopard 1
 germ_leopard_I_0;Kampfpanzer Leopard 1
 germ_leopard_I_1;Leopard 1
 germ_leopard_I_2;MBT
-germ_vk_3002m_shop;VK 30.02 (M) Fgst.Nr. V2
-germ_vk_3002m_0;VK 30.02 (M) Fahrgestell-Nummer V2
-germ_vk_3002m_1;VK 30.02 (M)
-germ_vk_3002m_2;Medium Tank
 germ_panther_II_shop;Panther II (8,8cm)
 germ_panther_II_0;Panzerkampfwagen Panther II mit 8,8cm Kw.K. L/71
 germ_panther_II_1;Panther II

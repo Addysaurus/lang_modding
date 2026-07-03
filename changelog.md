@@ -591,10 +591,10 @@ All dates are listed in DD-MM-YYYY format.
     - **R1830-43** → **R-1830-43**.
     - **AI-222-25** → **Dvigatyel' AI-222-25**.
     - **RD-33MK** → **Dvigatyel' RD-33MK**.
-    - **Merlin-46** → **R.M.6.S. | Merlin Mk. 46**.
-    - **Merlin-72** → **R.M.8.S.M. | Merlin Mk. 72**.
-    - **Merlin-73** → **R.M.8.S.M. | Merlin Mk. 73**.
-    - **Rolls-Royce R.M. 11S | Merlin Mk. 77** → **R.M.11.S. | Merlin Mk. 77**.
+    - **Merlin-46** → **R.M. 6.S. | Merlin Mk. 46**.
+    - **Merlin-72** → **R.M. 8.S.M. | Merlin Mk. 72**.
+    - **Merlin-73** → **R.M. 8.S.M. | Merlin Mk. 73**.
+    - **Rolls-Royce R.M. 11S | Merlin Mk. 77** → **R.M. 11.S. | Merlin Mk. 77**.
 
 ## 1.17.04 - 6-05-2026
 

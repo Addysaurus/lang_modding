@@ -44,6 +44,7 @@ All dates are listed in DD-MM-YYYY format.
         - **USS Gridley**
         - **USS Charles F. Adams** (EC)
         - **USS North Carolina**
+        - **USS California** (EC)
         - **Fw 189 C**
         - **IA.58A Pucara**
         - **Mi-24D** (Germany)
@@ -57,6 +58,8 @@ All dates are listed in DD-MM-YYYY format.
         - **MiG-29K (9-41R)**
         - **T-90M (Arena-M)**
         - **Chernova Ukraina**
+        - **Bravy** (EC)
+        - **Project 956** (EC)
         - **Welkin F.Mk.I**
         - **Washington B.Mk.I**
         - **M1A1** (UK / Australia)
@@ -95,8 +98,9 @@ All dates are listed in DD-MM-YYYY format.
         - **M1A2 (Trophy-HV)** → **M1A2 SEPv2 (Trophy HV)**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package Version 2, Tank Urban Survival Kit 2 (Trophy HV)**.
         - **M1A2 SEPv3**: Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A2 Abrams, System Enhancement Package Version 3**.
         - **USS Gridley** → **USS Gridley (DD-380)**. Statcard name → **Fore River Shipyard / U.S. Repair Base, San Diego | Gridley-class Destroyer | USS Gridley (DD-380) (1943)**.
-        - **USS Charles F. Adams** (EC) → **USS Charles F. Adams**. Statcard name → **Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)**.
+        - **USS Charles F. Adams** (EC): Statcard name → **Charles F. Adams-class Guided Missile Destroyer | USS Charles F. Adams (DDG-2)**.
         - **USS North Carolina** → **USS Gridley (BB-55)**. Statcard name → **Brooklyn Navy Yard | North Carolina-class Battleship | USS North Carolina (BB-55) (1942)**.
+        - **USS California** (EC): Statcard name → **California-class Nuclear Guided Missile Cruiser | USS California (CGN-36)**.
         - **Fw 189 C** → **Fw 189 V6**. Statcard name → **Focke-Wulf Flugzeugbau | Fw 189 V6 "Uhu"**.
         - **IA.58A Pucara** → **IA. 58A**. Statcard name → **Fábrica Militar de Aviones | Avión IA. 58A Pucará**.
         - **Mi-24D** (Germany): Statcard name → **Aviaryemontnyj zavod № 116 | Erzeugn. 246 | Hubschrauber Mi-24D**.
@@ -111,6 +115,8 @@ All dates are listed in DD-MM-YYYY format.
         - **MiG-29K (9-41R)** → **MiG-29KR**. Statcard name → **Moskovskoye aviaczionnoye proizvodstvyennoye ob"yedinyeniye im. P. V. Dyemyent'yeva | izd. 9-41R | Samolyot MiG-29KR**.
         - **T-90M (Arena-M)** → **T-90M (Aryena-M)**. Statcard name → **Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob"yekt 188M | T-90M obr. 2017 g. "Proryv-3" (Komplyeks aktivnoj zaŝity T09-A6-1 "Aryena-M")**.
         - **Chernova Ukraina** → **Čyervona Ukraina**. Statcard name → **Russkomu sudostroityel'nomu akczionyernomu obŝyestvu «Russud» | Lyegkij kryejsyer tip Admiral Nakhimov | Čyervona Ukraina**.
+        - **Bravy** (EC) → **Bravyj**: Statcard name → **Èskadryennyj minonosyecz proyekt 56K | Bravyj (1964)**.
+        - **Project 956** (EC) → **Sovryemyennyj**: Statcard name → **Èskadryennyj minonosyecz proyekt 956 | Sovryemyennyj**.
         - **Welkin F.Mk.I** → **Washington F. Mk. I**. Statcard name → **Westland Aircraft | Welkin F. Mk. I**.
         - **Washington B.Mk.I** → **Washington B. Mk. 1**. Statcard name → **Boeing Airplane Company Model 345 | Washington B. Mk. 1**.
         - **M1A1** (UK / Australia) → **M1A1 AIM SA**. Statcard name → **General Dynamics Land Systems | Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams Integrated Management, Situational Awareness**.
@@ -247,6 +253,7 @@ All dates are listed in DD-MM-YYYY format.
     - **P-59A-1-BE**: Statcard name → **Bell Aircraft Corporation Model 27 | P-59A-1-BE Airacomet**.
     - **F/A18 C (Upgrade 25)** → **F/A18 C (RP 17)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A18 C Hornet (Rüstungsprogramm 2017)**.
     - **Lynx KF41**: Statcard name → **Rheinmetall Lynx KF41 / Rheinmetall Hungary | Lynx KF41 gyalogsági harcjármű "Hiúz"**.
+    - **Bravyj**: Statcard name → **Sudostroityel'nyj zavod № 445 / Syevastopol'skij morskoj zavod im. Syergo Ordžonikidzye / Sudostroityel'nyj zavod № 200 im. 61 kommunara | Èskadryennyj minonosyecz proyekt 56K | Bravyj (1964)** (it's so long, multiline soon I promise).
 
 ### Weaponry:
 

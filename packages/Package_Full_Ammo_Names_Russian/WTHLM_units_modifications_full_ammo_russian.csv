@@ -54,6 +54,13 @@ modification/fab_9000;ФАБ-9000
 modification/fab_9000/desc;"Loadout unlocked:
 • 9407 kg <color=@userlogColoredText>9000-кг авиабомба ФАБ-9000</color> <color=#ff6f00>BMB</color>"
 
+//ROCKETS
+modification/su_s25l;С-25ЛД
+modification/su_s25l/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Балочный держатель БД3-25</color>:
+  • <color=@userlogColoredText>Пусковая система С-25-ОФМ-ПУ</color>:
+    • {unlockWeapons}"
+
 //MISSILES
 modification/mig_25_r_40rd;Р-40РД
 modification/mig_25_r_40rd/desc;"Loadout unlocked:
@@ -70,7 +77,7 @@ modification/su_rvv_sd/desc;"Loadout unlocked:
 • <color=@userlogColoredText>Авиационное катапультное устройство АКУ-170Е</color> pylon:
   • <color=@userlogColoredText>Авиационная управляемая ракета РВВ-СД</color> <color=#ff6f00>AAM-ARH</color>"
 
-modification/su_x29td_x59m;Kh-29TD / 59M
+modification/su_x29td_x59m;Х-29ТД / 59М
 modification/su_x29td_x59m/desc;"Loadout unlocked:
 • <color=@userlogColoredText>Авиационное катапультное устройство АКУ-58АЭ</color>:
   • {unlockWeapons}"

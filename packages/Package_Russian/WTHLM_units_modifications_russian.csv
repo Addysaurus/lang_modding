@@ -16,6 +16,19 @@ modification/su_fab_500_us_mk83;ФАБ-500М-62 / Mk 83 Mod 0
 modification/su_fab_500_us_mk83/desc;"Loadout unlocked: 508.3 kg <color=@userlogColoredText>ФАБ-500М-62</color> bomb.
 Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bomb."
 
+modification/rs_fab_pgb;ФАБ-250 ПГБ
+modification/rs_fab_pgb/desc;"Loadout unlocked:
+• {unlockWeapons}"
+
+modification/rs_plab_350m_73;ПЛАБ-350 М73
+modification/rs_plab_350m_73/desc;"Loadout unlocked:
+• {unlockWeapons}"
+
+modification/su_kab_500s;КАБ-500С-Э
+modification/su_kab_500s/desc;"Loadout unlocked:
+• <color=@userlogColoredText>БД3-УМК2-А1</color>, <color=@userlogColoredText>БД3-25</color>:
+  • {unlockWeapons}"
+
 modification/upab_500b_e;УПАБ-500Б-Э
 modification/upab_500b_e/desc;"Loadout unlocked:
 • <color=@userlogColoredText>БД3-УСК-Б</color> pylon:
@@ -25,6 +38,11 @@ modification/upab_1500_e;УПАБ-1500Б-Э
 modification/upab_1500_e/desc;"Loadout unlocked:
 • <color=@userlogColoredText>БД4-УСКМ</color> pylon:
   • 1525 kg <color=@userlogColoredText>УПАБ-1500Б-Э</color> <color=#ff6f00>BMB-GNSS</color>"
+
+modification/su_kab_gps;УПАБ-500Б / 1500Б / ФАБ-3000 (УМПК)
+modification/su_kab_gps/desc;"Loadout unlocked:
+• <color=@userlogColoredText>БД3-УМК2-А1</color>, <color=@userlogColoredText>БД4-УСКМ</color>:
+  • {unlockWeapons}"
 
 modification/su_grom;Х-36 «Гром-Э2»
 modification/su_grom/desc;"Loadout unlocked:
@@ -52,11 +70,28 @@ modification/fab_9000;ФАБ-9000
 modification/fab_9000/desc;"Loadout unlocked:
 • 9407 kg <color=@userlogColoredText>ФАБ-9000</color> <color=#ff6f00>BMB</color>"
 
+//ROCKETS
+modification/su_s25l;С-25ЛД
+modification/su_s25l/desc;"Loadout unlocked:
+• <color=@userlogColoredText>БД3-25</color>:
+  • <color=@userlogColoredText>С-25-ОФМ-ПУ</color>:
+    • {unlockWeapons}"
+
+modification/br_vz_128_m15;БР-ВЗ-128 М80
+modification/br_vz_128_m15/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Л128-04МД</color>:
+  • {unlockWeapons}"
+
 //MISSILES
 modification/su_rvv_sd;РВВ-СД
 modification/su_rvv_sd/desc;"Loadout unlocked:
 • <color=@userlogColoredText>АКУ-170Е</color> pylon:
   • <color=@userlogColoredText>РВВ-СД</color> <color=#ff6f00>AAM-ARH</color>
+
+modification/su_x29td_x59m;Kh-29TD / 59M
+modification/su_x29td_x59m/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АКУ-58АЭ</color>:
+  • {unlockWeapons}"
 
 modification/su_x29te_x59m;Х-29ТЭ / 59М
 modification/su_x29te_x59m/desc;"Loadout unlocked:
@@ -83,6 +118,42 @@ modification/su_kh_59;Х-59МЭ
 modification/su_kh_59/desc;"Loadout unlocked:
 • <color=@userlogColoredText>АКУ-58-1</color> pylon:
   • <color=@userlogColoredText>Х-59МЭ</color> <color=#ff6f00>AGM-TV</color>"
+
+modification/su_arm;ARM
+modification/su_arm/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-6</color>, <color=@userlogColoredText>GDJ-68</color>:
+  • <color=@userlogColoredText>АКУ-58АЭ</color>, <color=@userlogColoredText>АПУ-68УМ</color>, <color=@userlogColoredText>DF-4</color>, <color=@userlogColoredText>PF12</color>, <color=@userlogColoredText>PF10X</color>, <color=@userlogColoredText>GDJ-49B</color>:
+    • {unlockWeapons}"
+
+modification/rs_e_24_a1;Е-24-А1
+modification/rs_e_24_a1/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АПУ-68УМ2</color>:
+  • {unlockWeapons}"
+
+modification/rs_grom;ГРОМ
+modification/rs_grom/desc;"Loadout unlocked:
+• <color=@userlogColoredText>LAU-117/A</color>:
+  • {unlockWeapons}"
+
+modification/rs_grom_b;ГРОМ-Б
+modification/rs_grom_b/desc;"Loadout unlocked:
+• <color=@userlogColoredText>LAU-117/A</color>:
+  • {unlockWeapons}"
+
+modification/kosava_3_tm;КОШАВА 3 ТМ
+modification/kosava_3_tm/desc;"Loadout unlocked:
+• Pylon:
+  • {unlockWeapons}"
+
+modification/rs_m16d;М-16Д
+modification/rs_m16d/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Л128-04Л</color>:
+  • {unlockWeapons}"
+
+modification/rs_vrvz_240;ВРВЗ-240
+modification/rs_vrvz_240/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АПУ-68УМ2</color>:
+  • {unlockWeapons}"
 
 //CHINA ROCKETS
 modification/j_7_hf5;С-5К
@@ -143,3 +214,8 @@ modification/cn_pl8;K/AKK8
 modification/cn_pl8/desc;"Loadout unlocked:
 • <color=@userlogColoredText>АПУ-13</color> missile launcher:
   • <color=@userlogColoredText>K/AKK8</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/tv_atgm;K/AKD88 / Х-29Т
+modification/tv_atgm/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-49B</color>, <color=@userlogColoredText>АКУ-58АЭ</color>:
+  • {unlockWeapons}"

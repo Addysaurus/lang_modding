@@ -246,6 +246,7 @@ All dates are listed in DD-MM-YYYY format.
     - **LV IRIS-T SLM (Radarfahrzeug) / (Startfahrzeug)** (folder) → **LV IRIS-T SLM**.
     - **P-59A-1-BE**: Statcard name → **Bell Aircraft Corporation Model 27 | P-59A-1-BE Airacomet**.
     - **F/A18 C (Upgrade 25)** → **F/A18 C (RP 17)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System / Boeing Defense, Space & Security | F/A18 C Hornet (Rüstungsprogramm 2017)**.
+    - **Lynx KF41**: Statcard name → **Rheinmetall Lynx KF41 / Rheinmetall Hungary | Lynx KF41 gyalogsági harcjármű "Hiúz"**.
 
 ### Weaponry:
 
@@ -434,8 +435,8 @@ All dates are listed in DD-MM-YYYY format.
             - Serbian package: **FAB-250 PGB** → **ФАБ-250 ПГБ**. Statcard name → **Вођена авио-бомба ФАБ-250 ПГБ**.
         - **PLAB-350** → **PLAB-350 M73**. Statcard name → **Plamena avio-bomba PLAB-350 M73**.
             - Serbian package: **PLAB-350** → **ПЛАБ-350 М73**. Statcard name → **Пламена авио-бомба ПЛАБ-350 М73**.
-        - **M80**: Statcard name → **Balistički raketa vazduh-zemlja 128 mm M-80 Munja**.
-            - Serbian package: Statcard name → **Балистички ракета ваздух-земља 128 мм М-80 Муња**.
+        - **M80** → **BR-VZ-128 M80**. Statcard name → **Balistički raketa vazduh-zemlja 128 mm M-80 Munja**.
+            - Serbian package: **M80** → **БР-ВЗ-128 М80**. Statcard name → **Балистички ракета ваздух-земља 128 мм М-80 Муња**.
         - **M-16D**: Statcard name → **Vođena raketa vazduh-zemlja M-16D**.
             - Serbian package: **M-16D** → **М-16Д**. Statcard name → **Вођена ракета ваздух-земља М-16Д**.
         - **GROM**: Statcard name → **Vođena raketa vazduh-zemlja GROM**.
@@ -538,15 +539,21 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
+    - **AN/APG-71**
+    - **AN/APQ-159(V)**
     - **AN/ASQ-213 R5 HARM**
     - **L-066**
     - **L-081 A**
     - **L-081 B**
     - **L-081 C**
     - **L-086**
+    - **JL-10AG**
+    - **WA316LD (Type 74)**
 
 - #### Changes:
 
+    - **AN/APG-71** → **Radar Set, AN/APG-71**.
+    - **AN/APQ-159(V)** → **Radar Set, AN/APQ-159(V)**.
     - **AN/ASQ-213 R5 HARM** → **AN/ASQ-213 (R5)**. Statcard name → **AN/ASQ-213 HARM Targeting System (Release 5)**.
     - **L-066**: Statcard name → **Kontyejnyernaâ stancziâ radiotyekhničyeskoj razvyedki L-066 "V'ûga"**.
     - **L-080 A** → **L-080**. Statcard name → **Kontyejnyernaâ stancziâ radiotyekhničyeskoj razvyedki L-080 "Fantasmagoriâ-A"**.
@@ -554,6 +561,33 @@ All dates are listed in DD-MM-YYYY format.
     - **L-081 C** → **Fantasmagoriâ-S**. Statcard name → **Kontyejnyernaâ stancziâ radiotyekhničyeskoj razvyedki "Fantasmagoriâ-S"**.
     - **L-086**: Statcard name → **Kontyejnyernaâ stancziâ radiotyekhničyeskoj razvyedki L-086 "V'ûga-17"**.
     - **AN/APG-66(V)3** → **AN/APG-63(V)3**.
+    - **JL-10AG** → **JL-10AG Xìliè Shèjí Miáozhun Léidá**.
+        - Mandarin package" **JL-10AG** → **JL-10AG系列射击瞄准雷达**.
+    - **WA316LD (Type 74)** → **WA316LD**.
+
+### Engines:
+
+- #### Additions:
+
+    - **R1830-43**
+    - **J57-P-13**
+    - **F124-GA-200**
+    - **AI-222-25**
+    - **RD-33MK**
+    - **Merlin-46**
+    - **Merlin-72**
+    - **Merlin-73**
+    - **Astazou XVIG**
+
+- #### Changes:
+
+    - **R1830-43** → **R-1830-43**.
+    - **AI-222-25** → **Dvigatyel' AI-222-25**.
+    - **RD-33MK** → **Dvigatyel' RD-33MK**.
+    - **Merlin-46** → **R.M.6.S. | Merlin Mk. 46**.
+    - **Merlin-72** → **R.M.8.S.M. | Merlin Mk. 72**.
+    - **Merlin-73** → **R.M.8.S.M. | Merlin Mk. 73**.
+    - **Rolls-Royce R.M. 11S | Merlin Mk. 77** → **R.M.11.S. | Merlin Mk. 77**.
 
 ## 1.17.04 - 6-05-2026
 

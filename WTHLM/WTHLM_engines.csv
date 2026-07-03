@@ -461,8 +461,6 @@ engine_model/merlin-20;"
 Engine model: Merlin Mk. XX"
 engine_model/merlin-24;"
 Engine model: Merlin Mk. 24"
-engine_model/merlin-77;"
-Engine model: Rolls-Royce R.M. 11S | Merlin Mk. 77"
 engine_model/sabre-2a;"
 Engine model: Sabre Mk. 2a"
 engine_model/sabre-2;"
@@ -701,6 +699,8 @@ engine_model/jumo_210g;"
 Engine model: Jumo 210G"
 engine_model/r2800-10w;"
 Engine model: R-2800-10W"
+engine_model/r1830-43;"
+Engine model: R-1830-43"
 engine_model/r1830-45;"
 Engine model: R-1830-45"
 engine_model/r1830-47;"
@@ -915,10 +915,6 @@ engine_model/orenda_14;"
 Engine model: Orenda 14"
 engine_model/nene-mk103;"
 Engine model: Nene-Mk. 103"
-engine_model/astazou_14;"
-Engine model: Astazou XIV"
-engine_model/astazou_3b;"
-Engine model: Astazou IIIB"
 engine_model/r-1820-84;"
 Engine model: R-1820-84 Cyclone"
 engine_model/jumo_213e;"
@@ -1279,8 +1275,6 @@ engine_model/f100_pw_229;"
 Engine model: F100-PW-229"
 engine_model/rd-33;"
 Engine model: RD-33"
-engine_model/rd-33k;"
-Engine model: Dvigatyel' RD-33K"
 engine_model/rd-41;"
 Engine model: RD-41"
 engine_model/r79v-300;"
@@ -1466,8 +1460,14 @@ Engine model: R-1820-72W Cyclone"
 engine_model/tf33_p_3;"
 Engine model: TF33-P-3"
 
+engine_model/j57_p_13;"
+Engine model: J57-P-13"
+
 engine_model/f100_pw_200;"
 Engine model: F100-PW-200"
+
+engine_model/f124_ga_200;"Manufacturer: Honeywell + International Turbine Engine Company
+Engine model: F124-GA-200"
 
 engine_model/vta_903t_v8;"
 Engine model: VTA-903T"
@@ -1482,6 +1482,28 @@ Engine model: Motor VK-105RA"
 
 engine_model/nk-12m;"
 Engine model: Motor NK-12M"
+
+engine_model/ai_222_25;"
+Engine model: Dvigatyel' AI-222-25"
+
+engine_model/rd-33k;"
+Engine model: Dvigatyel' RD-33K"
+
+engine_model/rd-33mk;"
+Engine model: Dvigatyel' RD-33MK"
+
+//UK ENGINES
+engine_model/merlin-46;"
+Engine model: R.M. 6.S. | Merlin Mk. 46"
+
+engine_model/merlin-72;"
+Engine model: R.M.8.S.M. | Merlin Mk. 72"
+
+engine_model/merlin-73;"
+Engine model: R.M.8.S.M. | Merlin Mk. 73"
+
+engine_model/merlin-77;"
+Engine model: R.M. 11.S. | Merlin Mk. 77"
 
 //CHINA ENGINES
 engine_model/wj-6;"
@@ -1550,6 +1572,16 @@ Engine model: W.M.14 B motor"
 
 engine_model/iveco_vector_8v;"
 Engine model: Vector 8V Euro III"
+
+//FRANCE
+engine_model/astazou_3b;"
+Engine model: Astazou IIIB"
+
+engine_model/astazou_14;"
+Engine model: Astazou XIV"
+
+engine_model/astazou_16g;"
+Engine model: Astazou XVIG"
 
 //SWEDEN ENGINES
 engine_model/603_2;"

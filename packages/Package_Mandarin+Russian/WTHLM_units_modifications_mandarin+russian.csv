@@ -1,5 +1,11 @@
 <ID|readonly|noverify>;<English>
 //ROCKETS
+modification/su_s25l;С-25ЛД
+modification/su_s25l/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Балочный держатель БД3-25</color>:
+  • <color=@userlogColoredText>Пусковая система С-25-ОФМ-ПУ</color>:
+    • {unlockWeapons}"
+
 modification/j_7_hf5;С-5К
 modification/j_7_hf5/desc;"Loadout unlocked:
 • <color=@userlogColoredText>HF-5</color> airborne rocket launcher:
@@ -58,3 +64,8 @@ modification/cn_pl8;K/AKK8
 modification/cn_pl8/desc;"Loadout unlocked:
 • <color=@userlogColoredText>АПУ-13</color> missile launcher:
   • <color=@userlogColoredText>K/AKK8</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/tv_atgm;K/AKD88 / Х-29Т
+modification/tv_atgm/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-49B</color>, <color=@userlogColoredText>АКУ-58АЭ</color>:
+  • {unlockWeapons}"

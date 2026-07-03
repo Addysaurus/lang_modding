@@ -84,6 +84,16 @@ modification/upab_1500_e/desc;"Loadout unlocked:
 • <color=@userlogColoredText>Baločnyj dyeržatyel' BD4-USKM</color> pylon:
   • 1525 kg <color=@userlogColoredText>Upravlâyemaâ planiruûŝaâ aviaczionnaâ bomba UPAB-1500B-È</color> <color=#ff6f00>BMB-GNSS</color>"
 
+modification/su_kab_gps;UPAB-500B / 1500B / FAB-3000 (UMPK)
+modification/su_kab_gps/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Baločnyj dyeržatyel' BD3-UMK2-A1</color>, <color=@userlogColoredText>Baločnyj dyeržatyel' BD4-USKM</color>:
+  • {unlockWeapons}"
+
+modification/su_kab_500s;KAB-500S-È
+modification/su_kab_500s/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Baločnyj dyeržatyel' BD3-UMK2-A1</color>, <color=@userlogColoredText>Baločnyj dyeržatyel' BD3-25</color>:
+  • {unlockWeapons}"
+
 modification/su_grom;"Kh-36 ""Grom-È2"""
 modification/su_grom/desc;"Loadout unlocked:
 • <color=@userlogColoredText>Aviaczionnoye katapul'tnoye ustrojstvo AKU-58A</color> pylon:
@@ -350,6 +360,11 @@ Loadout unlocked: 987 kg <color=@userlogColoredText>Bomb, Guided, GBU-64(V)1/B J
 //GERMANY ROCKETS
 
 //USSR ROCKETS
+modification/su_s25l;S-25LD
+modification/su_s25l/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Baločnyj dyeržatyel' BD3-25</color>:
+  • <color=@userlogColoredText>Puskovaâ sistyema S-25-OFM-PU</color>:
+    • {unlockWeapons}"
 
 //UK ROCKETS
 
@@ -470,6 +485,12 @@ modification/us_agm_179/desc;Loadout unlocked: <color=@userlogColoredText>Lockhe
 modification/us_agm_179_ir;AGM-179 (IR)
 modification/us_agm_179_ir/desc;Loadout unlocked: <color=@userlogColoredText>Lockheed Martin Corporation Joint Air-to-Ground Missile-Medium Range (IR)</color> infrared-guided air-to-ground missile.
 
+modification/anti_radiation_missile_agm_122;AGM-122
+modification/anti_radiation_missile_agm_122/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Adapter, Launcher, Aircraft, ADU-299/E</color>:
+  • <color=@userlogColoredText>LAU-7/A-6</color>:
+    • {unlockWeapons}"
+
 //GERMANY MISSILES
 modification/sws_flz_lwf_63_75;Flz Lwf 63/75
 modification/sws_flz_lwf_63_75/desc;"Loadout unlocked: <color=@userlogColoredText>Flugzeug Lenkwaffe Luft-Luft 63/75 ""SIWA""</color> infrared-guided air-to-air missile."
@@ -493,6 +514,11 @@ modification/su_rvv_sd;RVV-SD
 modification/su_rvv_sd/desc;"Loadout unlocked:
 • <color=@userlogColoredText>Aviaczionnoye katapul'tnoye ustrojstvo AKU-170Ye</color> pylon:
   • <color=@userlogColoredText>Aviaczionnaâ upravlâyemaâ rakyeta RVV-SD</color> <color=#ff6f00>AAM-ARH</color>"
+
+modification/su_x29td_x59m;Kh-29TD / 59M
+modification/su_x29td_x59m/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Aviaczionnoye katapul'tnoye ustrojstvo AKU-58AÈ</color>:
+  • {unlockWeapons}"
 
 modification/su_x29te_x59m;Kh-29TÈ / 59M
 modification/su_x29te_x59m/desc;"Loadout unlocked:
@@ -519,6 +545,28 @@ modification/su_kh_59;Kh-59MÈ
 modification/su_kh_59/desc;"Loadout unlocked:
 • <color=@userlogColoredText>Aviaczionnoye katapul'tnoye ustrojstvo AKU-58-1</color> pylon:
   • <color=@userlogColoredText>Upravlâyemaâ rakyeta Kh-59MÈ</color> <color=#ff6f00>AGM-TV</color>"
+
+modification/su_arm;ARM
+modification/su_arm/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-6</color>, <color=@userlogColoredText>GDJ-68通用组合挂架</color>:
+  • <color=@userlogColoredText>Aviaczionnoye katapul'tnoye ustrojstvo AKU-58AÈ</color>, <color=@userlogColoredText>Aviaczionnoye puskovoye ustrojstvo APU-68UM</color>, <color=@userlogColoredText>DF-4</color>, <color=@userlogColoredText>PF12 Kōngkōng Daodàn Fāshè Zhuāngzhì</color>, <color=@userlogColoredText>PF10X Kōngkōng Daodàn Fāshè Zhuāngzhì</color>, <color=@userlogColoredText>GDJ-49B</color>:
+    • {unlockWeapons}"
+
+modification/asm;AShM
+modification/asm/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-6</color>:
+  • <color=@userlogColoredText>Aviaczionnoye katapul'tnoye ustrojstvo AKU-58AÈ</color>, <color=@userlogColoredText>DF-4</color>, <color=@userlogColoredText>GDJ-49B</color>:
+    • {unlockWeapons}"
+
+modification/rs_e_24_a1;E-24-A1
+modification/rs_e_24_a1/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Aviaczionnoye puskovoye ustrojstvo APU-68UM2</color>:
+  • {unlockWeapons}"
+
+modification/rs_vrvz_240;VRVZ-240
+modification/rs_vrvz_240/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Aviaczionnoye puskovoye ustrojstvo APU-68UM2</color>:
+  • {unlockWeapons}"
 
 //UK MISSILES
 
@@ -594,18 +642,18 @@ modification/cn_pl8b/desc;"Loadout unlocked:
 modification/cn_pl12;SD10A
 modification/cn_pl12/desc;"Loadout unlocked:
 • J8F:
-  • <color=@userlogColoredText>霹发11 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher:
+  • <color=@userlogColoredText>PF11 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher:
     • <color=@userlogColoredText>SD10A Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-ARH</color>
 • J10A, J10CE:
-  • <color=@userlogColoredText>霹发12 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher x2 on dual rack:
+  • <color=@userlogColoredText>PF12 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher x2 on dual rack:
     • <color=@userlogColoredText>SD10A Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-ARH</color>
-  • <color=@userlogColoredText>霹发12 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
+  • <color=@userlogColoredText>PF12 Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher on <color=@userlogColoredText>GDJ-6</color> pylon:
     • <color=@userlogColoredText>SD10A Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-IR</color>
 • J10CE:
-  • <color=@userlogColoredText>霹发T15W Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher on <color=@userlogColoredText>ZL4W</color> pylon x2 on dual rack:
+  • <color=@userlogColoredText>PFT15W Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher on <color=@userlogColoredText>ZL4W</color> pylon x2 on dual rack:
     • <color=@userlogColoredText>SD10A Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-ARH</color>
 • J11B, ␗ 苏30MKK:
-  • <color=@userlogColoredText>霹发10X Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher:
+  • <color=@userlogColoredText>PF10X Kōngkōng Daodàn Fāshè Zhuāngzhì</color> missile launcher:
     • <color=@userlogColoredText>SD10A Kōng Kōng Daodàn</color> <color=#ff6f00>AAM-ARH</color>"
 
 modification/cn_sd10;SD10A
@@ -702,6 +750,11 @@ modification/ch_kd_88a;K/AKD88A
 modification/ch_kd_88a/desc;"Loadout unlocked:
 • <color=@userlogColoredText>GDJ-49B</color> pylon:
   • <color=@userlogColoredText>K/AKD88A Kòng Dì Daodàn</color> <color=#ff6f00>AGM-IR</color>"
+
+modification/tv_atgm;K/AKD88 / Kh-29T
+modification/tv_atgm/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-49B</color>, <color=@userlogColoredText>Aviaczionnoye katapul'tnoye ustrojstvo AKU-58AÈ</color>:
+  • {unlockWeapons}"
 
 //ITALY MISSILES
 

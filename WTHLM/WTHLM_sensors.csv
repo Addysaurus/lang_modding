@@ -38,8 +38,11 @@ avionics_hmd/desc;Helmet Mounted Sight
 avionics_sensor_arm;ARM
 avionics_aim_laser_designator/desc;Laser designator
 CCIP/desc;Constantly computed impact point for the selected weapon
-sight_AUTO/desc;Ballistic computer for cannon weapons for air-to-air mod
 CCRP/desc;Continuously computed release point
+sight_AUTO;EEGS
+sight_AUTO/desc;Ballistic computer for cannon weapons for air-to-air mod
+avionics_sensor_esm;ESM
+avionics_sensor_esm/desc;Electronic support measures
 
 //RADARS
 sensors/us_sa_radar;SA
@@ -89,6 +92,7 @@ sensors/us_an_apg_68_v_7;AN/APG-68(V)7 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_68_v_9;AN/APG-68(V)9 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_70;AN/APG-70 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_70i;AN/APG-70I <color=#ff6f00>RDR-PD</color>
+sensors/us_an_apg_71;Radar Set, AN/APG-71 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_73;AN/APG-73 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_73_hms;AN/APG-73 <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_76_an_asx_1;AN/APG-76 <color=#ff6f00>RDR-PD</color>
@@ -97,6 +101,7 @@ sensors/us_an_apg_78_v6;AN/APG-78(V)6 Longbow <color=#ff6f00>RDR-PD</color>
 sensors/us_an_apg_79;AN/APG-79 <color=#ff6f00>RDR-AESA</color>
 sensors/us_an_apq_100;AN/APQ-100 <color=#ff6f00>RDR</color>
 sensors/us_an_apq_120;AN/APQ-120(V)5 <color=#ff6f00>RDR</color>
+sensors/us_an_apq_159_v;Radar Set, AN/APQ-159(V) <color=#ff6f00>RDR</color>
 sensors/us_an_mpq_64;Radar Set, AN/MPQ-64 Sentinel <color=#ff6f00>RDR-PD</color>
 sensors/us_an_mpq_61;Radar Set, High Power, AN/MPQ-61 <color=#ff6f00>RDR</color>
 sensors/us_comanche_fcr;Comanche Radar <color=#ff6f00>RDR-PD</color>
@@ -143,6 +148,7 @@ sensors/cn_type_208a;208A Léidá | SL-5A Léidá | K/LKK208A Léidá <color=#ff
 sensors/uk_marconi_type_226;226 Léidá | K/LKK226 Léidá <color=#ff6f00>RDR</color>
 sensors/cn_jl_7a;JL-7A Xìliè Shèjí Miáozhun Léidá <color=#ff6f00>RDR</color>
 sensors/cn_jl_10a;JL-10A Xìliè Shèjí Miáozhun Léidá <color=#ff6f00>RDR-PD</color>
+sensors/cn_jl_10ag;JL-10AG Xìliè Shèjí Miáozhun Léidá <color=#ff6f00>RDR-PD</color>
 sensors/cn_type_1473;1473 Léidá | KLJ-3 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá | K/LKK73 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá <color=#ff6f00>RDR-PD</color>
 sensors/cn_klj_7;1478 Léidá | KLJ-7 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá | K/LKK78 Jīzai Màichōng Duō Pu Lè Huǒ Kòng Léidá <color=#ff6f00>RDR-PD</color>
 sensors/cn_klj_10a;KLJ-10A Jīzai Màichōng Duō Pu Lè Huo Kòng Léidá <color=#ff6f00>RDR-AESA</color>
@@ -152,6 +158,7 @@ sensors/cn_z10_fcr;YH Háomi Bō Léidá <color=#ff6f00>RDR</color>
 sensors/cn_clc_1_search;CLC1 Duanchéng Dīkōng Jānshì Léidá <color=#ff6f00>RDR-PD</color>
 sensors/cn_pgz_625_search;PGZ-625 TA
 sensors/cn_pgz_625_track;PGZ-625 TT
+sensors/su_wa316ld;WA316LD
 sensors/cn_hq_11_search;HQ-11 TA
 sensors/fr_thales_rbe2;RBE2-AA <color=#ff6f00>RDR-AESA</color>
 sensors/fr_arabel;Thales Arabel <color=#ff6f00>RDR-PESA</color>

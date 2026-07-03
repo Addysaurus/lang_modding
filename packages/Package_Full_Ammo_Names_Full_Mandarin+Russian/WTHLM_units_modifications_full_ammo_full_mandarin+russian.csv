@@ -42,3 +42,14 @@ modification/cn_pl5e2/desc;"Loadout unlocked:
     • <color=@userlogColoredText>K/AKK5EII空空导弹</color> <color=#ff6f00>AAM-IR</color>
   • <color=@userlogColoredText>霹发9WA空空导弹发射装置</color> missile launcher:
     • <color=@userlogColoredText>K/AKK5EII空空导弹</color> <color=#ff6f00>AAM-IR</color>"
+
+modification/su_arm;ARM
+modification/su_arm/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-6</color>, <color=@userlogColoredText>GDJ-68通用组合挂架</color>:
+  • <color=@userlogColoredText>Авиационное катапультное устройство АКУ-58АЭ</color>, <color=@userlogColoredText>Авиационное пусковое устройство АПУ-68УМ</color>, <color=@userlogColoredText>DF-4</color>, <color=@userlogColoredText>霹发12空空导弹发射装置</color>, <color=@userlogColoredText>霹发10X空空导弹发射装置</color>, <color=@userlogColoredText>GDJ-49B</color>:
+    • {unlockWeapons}"
+
+modification/tv_atgm;K/AKD88 / Х-29Т
+modification/tv_atgm/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-49B</color>, <color=@userlogColoredText>Авиационное катапультное устройство АКУ-58АЭ</color>:
+  • {unlockWeapons}"

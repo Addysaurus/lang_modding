@@ -10,7 +10,6 @@ modification/headerForWeapon;Weapon modifications
 modification/pk3_gunpod;PK-3
 modification/pk3_gunpod/desc;Loadout unlocked: 7.62 mm <color=@userlogColoredText>PK-3</color> gunpod.
 
-
 //UK GUNS
 
 //JAPAN GUNS
@@ -136,8 +135,9 @@ modification/us_ljdam/desc;"Loadout unlocked:
 
 modification/us_gbu_53;GBU-53/B
 modification/us_gbu_53/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
+• <color=@userlogColoredText>SUU-59B/A</color>, <color=@userlogColoredText>SUU-79A/A</color>, <color=@userlogColoredText>PIDS+ FUM</color>:
+  • <color=@userlogColoredText>BRU-55A/A</color>, <color=@userlogColoredText>BRU-61/A</color>:
+    • {unlockWeapons}"
 
 //GERMANY BOMBS
 modification/de_hosbo_glide_bomb;HOSBO
@@ -145,20 +145,23 @@ modification/de_hosbo_glide_bomb/desc;"Loadout unlocked:
 • Pylon:
   • <color=@userlogColoredText>HOSBO</color> <color=#ff6f00>BMB-GNSS/IR</color>"
 
-modification/bk_br_250;PG BK-BR 250
+modification/bk_br_250;PG BK-BR 250 / BRP 250
 modification/bk_br_250/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
+• <color=@userlogColoredText>Alkan 105E</color>, <color=@userlogColoredText>Alkan 115E</color>:
+  • <color=@userlogColoredText>BRU-42/A</color>:
+    • {unlockWeapons}"
 
-modification/bk_br_500;PG BK-BR 500
+modification/bk_br_500;PG BK-BR 500 / BRP 500 / M117
 modification/bk_br_500/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
+• <color=@userlogColoredText>Alkan 105E</color>, <color=@userlogColoredText>Alkan 115E</color>:
+  • <color=@userlogColoredText>BRU-42/A</color>:
+    • {unlockWeapons}"
 
 modification/inc_220;INC-220
 modification/inc_220/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
+• <color=@userlogColoredText>Alkan 105E</color>, <color=@userlogColoredText>Alkan 115E</color>:
+  • <color=@userlogColoredText>BRU-42/A</color>:
+    • {unlockWeapons}"
 
 //USSR BOMBS
 modification/ofab_100m_mb;OFAB-100M / mB
@@ -167,8 +170,27 @@ Loadout unlocked: 114 kg <color=@userlogColoredText>OFAB-100mB</color> bomb."
 
 modification/fab_250m_54;FAB-250M-54
 modification/fab_250m_54/desc;Loadout unlocked: 236 kg <color=@userlogColoredText>FAB-250M-54</color> bomb.
+
+modification/rs_fab_pgb;FAB-250 PGB
+modification/rs_fab_pgb/desc;"Loadout unlocked:
+• {unlockWeapons}"
+
+modification/rs_plab_350m_73;PLAB-350 M73
+modification/rs_plab_350m_73/desc;"Loadout unlocked:
+• {unlockWeapons}"
+
 modification/fab_500m_54;FAB-500M-54
 modification/fab_500m_54/desc;Loadout unlocked: 478 kg <color=@userlogColoredText>FAB-500M-54</color> bomb.
+
+modification/su_kab_gps;UPAB-500B / 1500B / FAB-3000 (UMPK)
+modification/su_kab_gps/desc;"Loadout unlocked:
+• <color=@userlogColoredText>BD3-UMK2-A1</color>, <color=@userlogColoredText>BD4-USKM</color>:
+  • {unlockWeapons}"
+
+modification/su_kab_500s;KAB-500S-È
+modification/su_kab_500s/desc;"Loadout unlocked:
+• <color=@userlogColoredText>BD3-UMK2-A1</color>, <color=@userlogColoredText>BD3-25</color>:
+  • {unlockWeapons}"
 
 modification/upab_500b_e;UPAB-500B-È
 modification/upab_500b_e/desc;"Loadout unlocked:
@@ -205,31 +227,6 @@ modification/fab_5000/desc;"Loadout unlocked:
 modification/fab_9000;FAB-9000
 modification/fab_9000/desc;"Loadout unlocked:
 • 9407 kg <color=@userlogColoredText>FAB-9000</color> <color=#ff6f00>BMB</color>"
-
-modification/su_kab_500s;KAB-500S-È
-modification/su_kab_500s/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
-
-modification/su_kab_gps;KAB-S
-modification/su_kab_gps/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
-
-modification/rs_plab_350m_73;PLAB-350 M73
-modification/rs_plab_350m_73/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
-
-modification/plab_350_m73;PLAB-350 M73
-modification/plab_350_m73/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
-
-modification/rs_fab_pgb;FAB-250 PGB
-modification/rs_fab_pgb/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
 
 //UK BOMBS
 modification/uk_bomb_520lb;H.E., R.L., 520-lb, Mk. I/N
@@ -467,7 +464,7 @@ modification/cn_ls_1000j/desc;"Loadout unlocked:
 • Pylon:
   • 1090 kg <color=@userlogColoredText>GB1000</color> <color=#ff6f00>BMB-LG/GNSS</color>"
 
-modification/cn_ls_laser;GB
+modification/cn_ls_laser;GB3 / 1000 / K/YJG500
 modification/cn_ls_laser/desc;"Loadout unlocked:
 • <color=@userlogColoredText>GDJ-6</color>, <color=@userlogColoredText>GDJ-49B</color>, <color=@userlogColoredText>GDJ-II18A</color>, <color=@userlogColoredText>GDJ-III25A</color> pylons:
   • {unlockWeapons}"
@@ -482,21 +479,6 @@ modification/su_fab_500_us_mk83/desc;"Loadout unlocked: 508.3 kg <color=@userlog
 Loadout unlocked: 446.8 kg <color=@userlogColoredText>Mk 83 Mod 0</color> bomb."
 
 //FRANCE BOMBS
-modification/fr_pgm_tv;PGM TV
-modification/fr_pgm_tv/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
-
-modification/fr_pgm_ir;PGM IR
-modification/fr_pgm_ir/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
-
-modification/fr_pgm_laser;PGM LG
-modification/fr_pgm_laser/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
-
 
 //SWEDEN BOMBS
 
@@ -534,24 +516,26 @@ Loadout unlocked: 987 kg <color=@userlogColoredText>GBU-64(V)1/B</color> GNSS-gu
 //GERMANY ROCKETS
 modification/pampero;Pampero AS
 modification/pampero/desc;"Loadout unlocked:
-• <color=@userlogColoredText>Yaguareté III</color> rocket launcher on <color=@userlogColoredText>Alkan 105E</color> pylon:
-  • <color=@userlogColoredText>Pampero AS</color> <color=#ff6f00>RKT</color> x6
-• <color=@userlogColoredText>Yaguareté III</color> rocket launcher on <color=@userlogColoredText>Alkan 115E</color> pylon:
-  • <color=@userlogColoredText>Pampero AS</color> <color=#ff6f00>RKT</color> x6"
+• <color=@userlogColoredText>Alkan 105E</color>, <color=@userlogColoredText>Alkan 115E</color>:
+  • <color=@userlogColoredText>Lanzacohete Yaguareté III</color>:
+    • <color=#ffffff>Pampero AS</color>"
 
 modification/aspid;IA. C 1057 Áspid ARM AP
 modification/aspid/desc;"Loadout unlocked:
-• <color=@userlogColoredText>ARM-657A Mamboretá</color> rocket launcher on <color=@userlogColoredText>Alkan 105E</color> pylon:
-  • <color=@userlogColoredText>IA. C 1057 Áspid ARM AP</color> <color=#ff6f00>RKT</color> x6
-• <color=@userlogColoredText>ARM-657A Mamboretá</color> rocket launcher on <color=@userlogColoredText>Alkan 115E</color> pylon:
-  • <color=@userlogColoredText>IA. C 1057 Áspid ARM AP</color> <color=#ff6f00>RKT</color> x6"
+• <color=@userlogColoredText>Alkan 105E</color>, <color=@userlogColoredText>Alkan 115E</color>:
+  • <color=@userlogColoredText>Cohetera ARM-657A Mamboretá</color>:
+    • <color=#ffffff>IA. C 1057 Áspid ARM AP</color>"
+
+modification/pescador;Pescador
+modification/pescador/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Alkan 115E</color>:
+  • {unlockWeapons}"
 
 //USSR ROCKETS
 modification/br_vz_128_m15;BR-VZ-128 M80
 modification/br_vz_128_m15/desc;"Loadout unlocked:
-• Pylon:
-  • Launcher:
-    • <color=#ffffff>BR-VZ-128 M80</color>"
+• <color=@userlogColoredText>L128-04MD</color>:
+  • {unlockWeapons}"
 
 //UK ROCKETS
 modification/in_nasser_240;Naṣr 240
@@ -656,33 +640,29 @@ modification/us_aim_120d/desc;"Loadout unlocked:
   • <color=@userlogColoredText>LAU-127C/A</color> missile launcher on <color=@userlogColoredText>SUU-80/A</color> pylon:
     • <color=@userlogColoredText>AIM-120D</color> <color=#ff6f00>AGM-IR/GNSS</color>"
 
-modification/us_agm_65;AGM-65
+modification/us_agm_65;AGM-65D / G
 modification/us_agm_65/desc;"Loadout unlocked:
-• Pylon:
+• <color=@userlogColoredText>LAU-117/A</color>:
   • {unlockWeapons}"
 
 modification/us_agm_84d;AGM-84D-1
 modification/us_agm_84d/desc;"Loadout unlocked:
-• Pylon:
+• <color=@userlogColoredText>SUU-63A/A</color>, <color=@userlogColoredText>SUU-79A/A</color>:
   • {unlockWeapons}"
 
 modification/us_agm_84h;AGM-84H-1
 modification/us_agm_84h/desc;"Loadout unlocked:
-• F/A-18C-52-MC:
-  • <color=@userlogColoredText>SUU-63A/A</color> pylon:
-    • <color=@userlogColoredText>AGM-84H-1 SLAM-ER</color> <color=#ff6f00>AGM-IR/GNSS</color>
-• F/A-18E-2-MC, ▄ F/A-18F-2-MC:
-  • <color=@userlogColoredText>SUU-79A/A</color> pylon:
-    • <color=@userlogColoredText>AGM-84H-1 SLAM-ER</color> <color=#ff6f00>AGM-IR/GNSS</color>"
+• <color=@userlogColoredText>SUU-63A/A</color>, <color=@userlogColoredText>SUU-79A/A</color>:
+  • {unlockWeapons}"
 
 modification/us_agm_114b;AGM-114B
 modification/us_agm_114b/desc;"Loadout unlocked:
-• Pylon:
+• <color=@userlogColoredText>M299</color>:
   • {unlockWeapons}"
 
 modification/us_agm_114k;AGM-114K
 modification/us_agm_114k/desc;"Loadout unlocked:
-• Pylon:
+• <color=@userlogColoredText>M299</color>:
   • {unlockWeapons}"
 
 modification/anti_radiation_missile_agm_122;AGM-122A
@@ -692,10 +672,9 @@ modification/anti_radiation_missile_agm_122/desc;"Loadout unlocked:
 
 modification/us_agm154_jsow;AGM-154A-1
 modification/us_agm154_jsow/desc;"Loadout unlocked:
-• <color=@userlogColoredText>BRU-57/A</color> dual ejector rack on <color=@userlogColoredText>PIDS+ FUM</color> pylon:
-  • <color=@userlogColoredText>AGM-154A-1 JSOW</color> <color=#ff6f00>AAM-ARH</color>
-• <color=@userlogColoredText>BRU-57/A</color> dual ejector rack:
-  • <color=@userlogColoredText>AGM-154A-1 JSOW</color> <color=#ff6f00>AAM-ARH</color>"
+• <color=@userlogColoredText>SUU-79A/A</color>, <color=@userlogColoredText>PIDS+ FUM</color>
+  • <color=@userlogColoredText>BRU-57/A</color>
+    • {unlockWeapons}"
 
 modification/us_agm_179;JAGM-MR (SAL)
 modification/us_agm_179/desc;Loadout unlocked: <color=@userlogColoredText>JAGM-MR (SAL)</color> semi-active laser-homing air-to-ground missile.
@@ -704,8 +683,15 @@ modification/us_agm_179_ir/desc;Loadout unlocked: <color=@userlogColoredText>JAG
 
 modification/us_arm;ARM
 modification/us_arm/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
+• <color=@userlogColoredText>SUU-63A/A</color>, <color=@userlogColoredText>SUU-79A/A</color>, <color=@userlogColoredText>SUU-80/A</color>, <color=@userlogColoredText>LM-765</color>:
+  • <color=@userlogColoredText>LAU-118/A</color>:
+    • {unlockWeapons}"
+
+modification/anti_radiation_missile_agm_122;AGM-122
+modification/anti_radiation_missile_agm_122/desc;"Loadout unlocked:
+• <color=@userlogColoredText>ADU-299/E</color>:
+  • <color=@userlogColoredText>LAU-7/A-6</color>:
+    • {unlockWeapons}"
 
 //GERMANY MISSILES
 modification/de_x4_ruhrstahl/desc;Loadout unlocked: <color=@userlogColoredText>X 4</color> wire-guided air-to-air missile.
@@ -735,7 +721,7 @@ modification/su_rvv_sd/desc;"Loadout unlocked:
 
 modification/su_x29td_x59m;Kh-29TD / 59M
 modification/su_x29td_x59m/desc;"Loadout unlocked:
-• Pylon:
+• <color=@userlogColoredText>AKU-58AÈ</color>:
   • {unlockWeapons}"
 
 modification/su_x29te_x59m;Kh-29TÈ / 59M
@@ -766,27 +752,29 @@ modification/su_kh_59/desc;"Loadout unlocked:
 
 modification/su_s25l;S-25LD
 modification/su_s25l/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
+• <color=@userlogColoredText>BD3-25</color>:
+  • <color=@userlogColoredText>S-25-OFM-PU</color>:
+    • {unlockWeapons}"
 
 modification/su_arm;ARM
 modification/su_arm/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
+• <color=@userlogColoredText>GDJ-6</color>, <color=@userlogColoredText>GDJ-68</color>:
+  • <color=@userlogColoredText>AKU-58AÈ</color>, <color=@userlogColoredText>APU-68UM</color>, <color=@userlogColoredText>DF-4</color>, <color=@userlogColoredText>PF12</color>, <color=@userlogColoredText>PF10X</color>, <color=@userlogColoredText>GDJ-49B</color>:
+    • {unlockWeapons}"
 
 modification/rs_e_24_a1;E-24-A1
 modification/rs_e_24_a1/desc;"Loadout unlocked:
-• Pylon:
+• <color=@userlogColoredText>APU-68UM2</color>:
   • {unlockWeapons}"
 
 modification/rs_grom;GROM
 modification/rs_grom/desc;"Loadout unlocked:
-• Pylon:
+• <color=@userlogColoredText>LAU-117/A</color>:
   • {unlockWeapons}"
 
 modification/rs_grom_b;GROM-B
 modification/rs_grom_b/desc;"Loadout unlocked:
-• Pylon:
+• <color=@userlogColoredText>LAU-117/A</color>:
   • {unlockWeapons}"
 
 modification/kosava_3_tm;KOŠAVA 3 TM
@@ -796,12 +784,12 @@ modification/kosava_3_tm/desc;"Loadout unlocked:
 
 modification/rs_m16d;M-16D
 modification/rs_m16d/desc;"Loadout unlocked:
-• Pylon:
+• <color=@userlogColoredText>L128-04L</color>:
   • {unlockWeapons}"
 
 modification/rs_vrvz_240;VRVZ-240
 modification/rs_vrvz_240/desc;"Loadout unlocked:
-• Pylon:
+• <color=@userlogColoredText>APU-68UM2</color>:
   • {unlockWeapons}"
 
 //UK MISSILES
@@ -1004,9 +992,28 @@ modification/ch_kd_88a/desc;"Loadout unlocked:
 • <color=@userlogColoredText>GDJ-49B</color> pylon:
   • <color=@userlogColoredText>K/AKD88A</color> <color=#ff6f00>AGM-IR</color>"
 
+modification/tv_atgm;K/AKD88 / Kh-29T
+modification/tv_atgm/desc;"Loadout unlocked:
+• <color=@userlogColoredText>GDJ-49B</color>, <color=@userlogColoredText>AKU-58AÈ</color>:
+  • {unlockWeapons}"
+
 //ITALY MISSILES
 
 //FRANCE MISSILES
+modification/fr_pgm_tv;PGM 500/2 / 2000/2
+modification/fr_pgm_tv/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Pylon type 6075</color>, <color=@userlogColoredText>Pylon type 9012</color>:
+  • {unlockWeapons}"
+
+modification/fr_pgm_ir;PGM 500/3 / 2000/3
+modification/fr_pgm_ir/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Pylon type 6075</color>, <color=@userlogColoredText>Pylon type 9012</color>:
+  • {unlockWeapons}"
+
+modification/fr_pgm_laser;PGM 500/1 / 2000/1
+modification/fr_pgm_laser/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Pylon type 6075</color>, <color=@userlogColoredText>Pylon type 9012</color>:
+  • {unlockWeapons}"
 
 //SWEDEN MISSILES
 modification/swd_rb74;rb 74
@@ -1041,10 +1048,11 @@ modification/anti_radiation_missile_type_c/desc;"Loadout unlocked:
 • Pylon:
   • {unlockWeapons}"
 
-modification/asm;ASM
+modification/asm;AShM
 modification/asm/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
+• <color=@userlogColoredText>GDJ-6</color>:
+  • <color=@userlogColoredText>AKU-58AÈ</color>, <color=@userlogColoredText>DF-4</color>, <color=@userlogColoredText>GDJ-49B</color>:
+    • {unlockWeapons}"
 
 //USA SENSORS
 modification/us_an_aas_38b_pod;AN/AAS-38B
@@ -1056,10 +1064,9 @@ modification/sniper_atp_pod/desc;Loadout unlocked: <color=@userlogColoredText>AN
 modification/us_sniper_pod;AN/AAQ-33
 modification/us_sniper_pod/desc;Loadout unlocked: <color=@userlogColoredText>AN/AAQ-33</color> laser/electro-optical targeting pod.
 
-modification/us_pave_spike_pod;Pave Spike
+modification/us_pave_spike_pod;AN/ASQ-153
 modification/us_pave_spike_pod/desc;"Loadout unlocked:
-• Pylon:
-  • {unlockWeapons}"
+• {unlockWeapons}"
 
 modification/laser_rangefinder_lws_sep;LWS / LR
 modification/laser_rangefinder_lws_sep/desc;"System unlocked:
@@ -1137,7 +1144,6 @@ modification/jaguar_ebrc_improvement/desc;Addon slat armor for protection agains
 //SWEDEN ARMOR PACKAGES
 
 //ISRAEL ARMOR PACKAGES
-
 
 //UNCATEGORIZED
 modification/category/lth;Flight performance

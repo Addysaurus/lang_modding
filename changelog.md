@@ -231,7 +231,7 @@ All dates are listed in DD-MM-YYYY format.
         - Hebrew package: Statcard name → **Supermarine Aviation Works (Vickers) Type 361 | (כנף קצוצה) IX ספיטפייר דגם**.
     - **Weiṣman's Spiṭfayer IX**: Statcard name → **Supermarine Aviation Works (Vickers) Type 361 | 'Ezer Weiṣman's Spiṭfayer Degem IX**.
         - Hebrew package: Statcard name → **Supermarine Aviation Works (Vickers) Type 361 | של עזר ויצמן IX ספיטפייר דגם**.
-    - ****Smyrniotópoulos' Spitfire L.F. Mk. IX (CW)**: Statcard name → **Supermarine Aviation Works (Vickers) Type 361 | Geórgios Smyrniotópoulos' Spitfire L.F. Mk. IX (clipped wing)**.
+    - **Smyrniotópoulos' Spitfire L.F. Mk. IX (CW)**: Statcard name → **Supermarine Aviation Works (Vickers) Type 361 | Geórgios Smyrniotópoulos' Spitfire L.F. Mk. IX (clipped wing)**.
     - **F-86F-30-MIT** (Japan) → **F-86F-30-NA**. Statcard name → **North American Aviation NA-191 / Mitsubishi Jū Kōgyō | F-86F-30-NA "Kyokkō"**
         - Japanese package: Statcard name → **North American Aviation NA-191 / 三菱重工業 | F-86F-30-NA「旭光」"**
     - **F-86F-40-MIT** (Japan): Statcard name → **North American Aviation NA-256 / Mitsubishi Jū Kōgyō | F-86F-40-MIT "Kyokkō"**

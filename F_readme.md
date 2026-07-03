@@ -48,6 +48,8 @@ Available packages:
     - This is a package for fully Mandarin names (e.g. 歼7II instead of J7II) (needs base Mandarin to work).
   - Full Mandarin + Russian:
     - This is a combiantion package for crossover between fully chinese and Russian text (needs base Mandarin, Full Mandarin, and Mandarin + Russian to work).
+  - Serbian:
+    - This package puts Serbian vehicles and weapons into Serbian.
   - Thai:
     - This package puts Thai vehicles and weapons into Thai.
   - Ukrainian:

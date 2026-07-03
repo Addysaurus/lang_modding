@@ -22,14 +22,14 @@ All dates are listed in DD-MM-YYYY format.
 
 ### General
 
-    - Added 15 new loading tips:
-        - General: 1
-        - Air: 4
-        - Ground: 7
-        - Naval: 3
-    - A new Serbian package has been added.
-    - The process of localizing tips about specific vehicles into their respective packages has begun.
-    - It's not worth mentioning them individually because no one cares about AI slop gooner vehicles but suffice it to say that their skins and body pillows have been renamed too. Happy? Are you happy now with your gooner vehicles? Oh fuck this...
+- Added 15 new loading tips:
+    - General: 1
+    - Air: 4
+    - Ground: 7
+    - Naval: 3
+- A new Serbian package has been added.
+- The process of localizing tips about specific vehicles into their respective packages has begun.
+- It's not worth mentioning them individually because no one cares about AI slop gooner vehicles but suffice it to say that their skins and body pillows have been renamed too. Happy? Are you happy now with your gooner vehicles? Oh fuck this...
 
 ### Vehicles:
 

@@ -3,6 +3,7 @@
 shop/group/beaufighter_group;Beaufighter Mk. VIc / T.F. Mk. X / ▄ 21
 shop/group/spitfire_mk5b_group;Spitfire F. Mk. Vb (trop.) / Vb
 shop/group/spitfire_mk5c_group;Spitfire F. Mk. Vc (trop.) / Vc
+shop/group/lancaster_group;Lancaster B. Mk. I / III
 shop/group/uk_g6_tortoise_group;GV6 Mk 1 / Tortoise
 shop/group/uk_fv510_zt3_group;Warrior / Ratel ZT3-A2
 shop/group/uk_vickers_olifant_group;Vickers Mk. 3 / Olifant Mk 1A
@@ -277,6 +278,66 @@ Spitfire F. Mk. IX"
 spitfire_mk9c_4cannons_1;Spitfire F. Mk. IX
 spitfire_mk9c_4cannons_2;Spitfire
 
+spitfire_mk14e_shop;Spitfire F. Mk. XIV (e)
+spitfire_mk14e_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers)</color>
+Spitfire F. Mk. XIV (e)"
+spitfire_mk14e_1;Spitfire F. Mk. XIV
+spitfire_mk14e_2;Spitfire
+
+spitfire_mk18e_shop;Spitfire F. Mk. XVIII (e)
+spitfire_mk18e_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers)</color>
+Spitfire F. Mk. XVIII (e)"
+spitfire_mk18e_1;Spitfire F. Mk. XVIII
+spitfire_mk18e_2;Spitfire
+
+spitfire_ix_shop;Spitfire L.F. Mk. IX (e)
+spitfire_ix_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
+Aircraft Factory</color>
+Spitfire L.F. Mk. IX (e)"
+spitfire_ix_1;Spitfire L.F. Mk. IX
+spitfire_ix_2;Spitfire
+
+spitfire_ix_tutorial_shop;Spitfire L.F. Mk. IX (e)
+spitfire_ix_tutorial_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
+Aircraft Factory</color>
+Spitfire L.F. Mk. IX (e)"
+spitfire_ix_tutorial_1;Spitfire L.F. Mk. IX
+spitfire_ix_tutorial_2;Spitfire
+
+spitfire_f22_shop;Spitfire F. Mk. 22
+spitfire_f22_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
+Aircraft Factory</color>
+Spitfire F. Mk. 22"
+spitfire_f22_1;Spitfire F. Mk. 22
+spitfire_f22_2;Spitfire
+
+spitfire_f24_shop;Spitfire F. Mk. 24
+spitfire_f24_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers)</color>
+Spitfire F. Mk. 24"
+spitfire_f24_1;Spitfire F. Mk. 24
+spitfire_f24_2;Spitfire
+
+spitfire_ix_plagis_shop;Plagis' Spitfire L.F. Mk. IX
+spitfire_ix_plagis_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
+Aircraft Factory</color>
+Spitfire L.F. Mk. IX
+<color=@currencyGoldColor>Yannis Plagis'</color>"
+spitfire_ix_plagis_1;Spitfire L.F. Mk. IX
+spitfire_ix_plagis_2;Spitfire
+
+spitfire_mk14c_shop;Spitfire F. Mk. XIV
+spitfire_mk14c_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers)</color>
+Spitfire F. Mk. XIV"
+spitfire_mk14c_1;Spitfire F. Mk. XIV
+spitfire_mk14c_2;Spitfire
+
+spitfire_fr_mk14e_shop;Prendergast's Spitfire L.F. Mk. XIV (e)
+spitfire_fr_mk14e_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers)</color>
+Spitfire L.F. Mk. XIV (e)
+<color=@currencyGoldColor>James Prendergast's</color>"
+spitfire_fr_mk14e_1;Spitfire L.F. Mk. XIV
+spitfire_fr_mk14e_2;Spitfire
+
 firebrand_tf4_shop;Firebrand T.F. Mk. IV
 firebrand_tf4_0;"<color=#81c3fc>Blackburn Aircraft B.46</color>
 Firebrand T.F. Mk. IV"
@@ -444,6 +505,18 @@ Seafire L.F. Mk. III"
 seafire_mk3_1;Seafire L.F. Mk. III
 seafire_mk3_2;Seafire
 
+seafire_mk17_shop;Seafire F. Mk. XVII
+seafire_mk17_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 358</color>
+Seafire F. Mk. XVII"
+seafire_mk17_1;Seafire F. Mk. XVII
+seafire_mk17_2;Seafire
+
+seafire_fr47_shop;Seafire F.R. Mk. 47
+seafire_fr47_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 395</color>
+Seafire F.R. Mk. 47"
+seafire_fr47_1;Seafire F.R. Mk. 47
+seafire_fr47_2;Seafire
+
 mosquito_fb_mk6_shop;Mosquito F.B. Mk. VI
 mosquito_fb_mk6_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 98</color>
 Mosquito F.B. Mk. VI"
@@ -529,16 +602,70 @@ p-51b_1;Mustang Mk. Ia
 p-51b_2;Mustang
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+sea_fury_fb11_shop;Sea Fury F.B. Mk. 11
+sea_fury_fb11_0;"<color=#81c3fc>Hawker Aircraft</color>
+Sea Fury F.B. Mk. 11"
+sea_fury_fb11_1;Sea Fury F.B. Mk. 11
+sea_fury_fb11_2;Sea Fury
+
 welkin_fmk1_shop;Welkin F. Mk. I
 welkin_fmk1_0;"<color=#81c3fc>Westland Aircraft</color>
 Welkin F. Mk. I"
 welkin_fmk1_1;Welkin F. Mk. I
 welkin_fmk1_2;Welkin
 
+hornet_mk3_shop;Hornet Mk. III
+hornet_mk3_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 103</color>
+Hornet Mk. III"
+hornet_mk3_1;Hornet Mk. III
+hornet_mk3_2;Hornet
+
+hornet_mk1_shop;Hornet Mk. I
+hornet_mk1_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 103</color>
+Hornet Mk. I"
+hornet_mk1_1;Hornet Mk. I
+hornet_mk1_2;Hornet
+
+lancaster_mk1_shop;Lancaster B. Mk. I
+lancaster_mk1_0;"<color=#81c3fc>A.V. Roe and Company Type 683</color>
+Lancaster B. Mk. I"
+lancaster_mk1_1;Lancaster B. Mk. I
+lancaster_mk1_2;Lancaster
+
+lancaster_mk3_shop;Lancaster B. Mk. III
+lancaster_mk3_0;"<color=#81c3fc>A.V. Roe and Company Type 683</color>
+Lancaster B. Mk. III"
+lancaster_mk3_1;Lancaster B. Mk. III
+lancaster_mk3_2;Lancaster
+
+lincoln_b2_shop;Lincoln B. Mk. II
+lincoln_b2_0;"<color=#81c3fc>A.V. Roe and Company Type 694</color>
+Lincoln B. Mk. II"
+lincoln_b2_1;Lincoln B. Mk. II
+lincoln_b2_2;Lincoln
+
+shackleton_mr_mk_2_shop;Shackleton M.R. Mk. 2
+shackleton_mr_mk_2_0;"<color=#81c3fc>A.V. Roe and Company Type 696</color>
+Shackleton M.R. Mk. 2"
+shackleton_mr_mk_2_1;Shackleton M.R. Mk. 2
+shackleton_mr_mk_2_2;Shackleton
+
 mb_5_shop;MB. 5
 mb_5_0;<color=#81c3fc>Martin-Baker Aircraft Company MB. 5</color>
 mb_5_1;MB. 5
 mb_5_2;MB. 5
+
+strikemaster_mk88_shop;Strikemaster Mk. 88
+strikemaster_mk88_0;"<color=#81c3fc>British Aircraft Corporation BAC 167</color>
+Strikemaster Mk. 88 ""Blunty"""
+strikemaster_mk88_1;Strikemaster Mk. 88
+strikemaster_mk88_2;Strikemaster
+
+wyvern_s4_shop;Wyvern S. Mk. 4
+wyvern_s4_0;"<color=#81c3fc>Westland Aircraft W.35</color>
+Wyvern S. Mk. 4"
+wyvern_s4_1;Wyvern S. Mk. 4
+wyvern_s4_2;Wyvern
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 washington_b1_shop;Washington B. Mk. 1
@@ -1110,7 +1237,7 @@ uk_fairmile_a_ml100_1;HMS ML 100
 uk_fairmile_a_ml100_2;Motor Launch
 
 uk_fairmile_b_ml345_shop;HMS ML 345
-uk_fairmile_b_ml345_0;"<color=#81c3fc>Diesel Constructors <color=@commonTextColor>/</color> U.S. Naval Base No. 18</color>
+uk_fairmile_b_ml345_0;"<color=#81c3fc>Diesel Constructors <color=@commonTextColor>/</color> United States Naval Base No. 18</color>
 <color=#fffa62>Fairmile Type B-class</color>
 HMS ML 345
 <color=#adadad>(1943)</color>"
@@ -1529,7 +1656,7 @@ uk_cruiser_arethusa_EC_1;Arethusa
 uk_cruiser_arethusa_EC_2;Light Cruiser
 
 uk_destroyer_daring_class_diana_shop;HMS Diana (D 126)
-uk_destroyer_daring_class_diana_0;"<color=#81c3fc>Yarrow & Co.</color>
+uk_destroyer_daring_class_diana_0;"<color=#81c3fc>Yarrow & Co. <color=@commonTextColor>/</color> Chatham Royal Dockyard</color>
 <color=#fffa62>Daring-class</color>
 HMS Diana (D 126)
 <color=#adadad>(1959)</color>"
@@ -1698,7 +1825,7 @@ uk_battleship_orion_1;HMS Orion
 uk_battleship_orion_2;Super Dreadnought
 
 uk_battleship_colossus_shop;HMS Colossus (93)
-uk_battleship_colossus_0;"<color=#81c3fc>Scotts Shipbuilding & Engineering Co.</color>
+uk_battleship_colossus_0;"<color=#81c3fc>Scotts Shipbuilding & Engineering Co. <color=@commonTextColor>/</color> Rosyth Dockyard</color>
 <color=#fffa62>Colossus-class</color>
 HMS Colossus (93)
 <color=#adadad>(1917)</color>"

@@ -3013,13 +3013,6 @@ mig_29_9_12g_0;"◄ MiG-29G Fulcrum"
 mig_29_9_12g_1;◄ MiG-29G
 mig_29_9_12g_2;◄ MiG-29
 
-fa_18c_switzerland_shop;◌ F/A18 C
-fa_18c_switzerland_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267 <color=@commonTextColor>/</color> Schweizer Flugzeuge
-und System</color>
-◌ F/A18 C Hornet"
-fa_18c_switzerland_1;◌ F/A18 C
-fa_18c_switzerland_2;◌ F/A18
-
 fa_18c_late_switzerland_shop;◌ F/A18 C (RP 17)
 fa_18c_late_switzerland_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267 <color=@commonTextColor>/</color> Schweizer Flugzeuge
 und System <color=@commonTextColor>/</color> Boeing Defense, Space & Security</color>
@@ -3027,6 +3020,14 @@ und System <color=@commonTextColor>/</color> Boeing Defense, Space & Security</c
 <color=#adadad>(Rüstungsprogramm 2017)</color>"
 fa_18c_late_switzerland_1;◌ F/A18 C
 fa_18c_late_switzerland_2;◌ F/A18
+
+fa_18c_switzerland_shop;◌ F/A18 C (RP 08)
+fa_18c_switzerland_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267 <color=@commonTextColor>/</color> Schweizer Flugzeuge
+und System</color>
+◌ F/A18 C Hornet
+<color=#adadad>(Rüstungsprogramm 2008)</color>"
+fa_18c_switzerland_1;◌ F/A18 C
+fa_18c_switzerland_2;◌ F/A18
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 9
 ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
@@ -9192,7 +9193,7 @@ jh_7a2_2;JH7
 jh_7a_prototype_shop;JH7A (1 Hào)
 jh_7a_prototype_0;"<color=#81c3fc>Xī'ān Fēijī Gōngyè (Jítuán)</color>
 JH7A Xíng Fēijī ""Fēi Bào""
-<color=#adadad>(Yàngchē 1 Hào)</color>"
+<color=@currencyGoldColor>Yàngchē 1 Hào</color>"
 jh_7a_prototype_1;JH7A
 jh_7a_prototype_2;JH7
 
@@ -9791,7 +9792,7 @@ cn_ztz_96a_race_2;MBT
 cn_ztz_96a_prot_shop;WZ122R (2 Hào)
 cn_ztz_96a_prot_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>WZ122R</color>
-<color=#adadad>(Yàngchē 2 Hào)</color>"
+<color=@currencyGoldColor>Yàngchē 2 Hào</color>"
 cn_ztz_96a_prot_1;WZ122R
 cn_ztz_96a_prot_2;MBT
 

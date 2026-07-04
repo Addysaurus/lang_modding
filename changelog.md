@@ -20,6 +20,14 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.18.00 - 03-07-2026
 
+### Vehicles:
+
+- #### Changes:
+
+    - **F/A18 C** (Germany / Switzerland) → **F/A-18C (RP 08)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System | F/A18 C Hornet (Rüstungsprogramm 2008)**.
+
+## 1.18.00 - 03-07-2026
+
 ### General
 
 - Added 15 new loading tips:

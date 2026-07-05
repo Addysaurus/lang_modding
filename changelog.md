@@ -28,6 +28,12 @@ All dates are listed in DD-MM-YYYY format.
     - Corrected the spacing of the letter variants in the statcard names of the **Magaḥ**s.
     - **B-29A-45-BN** (nuke) (UK) → **Washington B. Mk. 1**. Statcard name → **Boeing Airplane Company Model 345 | Washington B. Mk. 1**.
 
+### Weaponry:
+
+- #### Changes:
+
+    - Added calibers to the short names of Swedish rockets, bombs, and torpedoes.
+
 ## 1.18.00 - 03-07-2026
 
 ### General

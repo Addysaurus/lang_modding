@@ -1145,6 +1145,79 @@ ah_64e_britain_2;Apache
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 8
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+uk_a_13_mk1_shop;A.13, Mk. I
+uk_a_13_mk1_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
+Tank, Cruiser, Mk. III, A.13, Mk. I"
+uk_a_13_mk1_1;A.13, Mk. I
+uk_a_13_mk1_2;Cruiser Tank
+
+uk_a_13_mk2_shop;A.13, Mk. II
+uk_a_13_mk2_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
+Tank, Cruiser, Mk. IV, A.13, Mk. II"
+uk_a_13_mk2_1;A.13, Mk. II
+uk_a_13_mk2_2;Cruiser Tank
+
+uk_a_13_mk1_3rd_rtr_shop;A.13, Mk. I (3rd R.T.R.)
+uk_a_13_mk1_3rd_rtr_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
+Tank, Cruiser, Mk. III, A.13, Mk. I
+<color=@currencyGoldColor>3rd Royal Tank Regiment</color>"
+uk_a_13_mk1_3rd_rtr_1;A13, Mk. I
+uk_a_13_mk1_3rd_rtr_2;Cruiser Tank
+
+uk_a_13_mk2_1939_shop;A.13, Mk. IIa
+uk_a_13_mk2_1939_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
+Tank, Cruiser, Mk. IVa, A.13, Mk. IIa"
+uk_a_13_mk2_1939_1;A.13, Mk. IIa
+uk_a_13_mk2_1939_2;Cruiser Tank
+
+uk_m3_stuart_shop;Stuart Mk. I
+uk_m3_stuart_0;"<color=#81c3fc>American Car and Foundry Company</color>
+Tank, Light, Stuart, Mk. I"
+uk_m3_stuart_1;Stuart, Mk. I
+uk_m3_stuart_2;Light Tank
+
+uk_m3a1_stuart_shop;Stuart, Mk. III
+uk_m3a1_stuart_0;"<color=#81c3fc>American Car and Foundry Company</color>
+Tank, Light, Stuart, Mk. III"
+uk_m3a1_stuart_1;Stuart, Mk. III
+uk_m3a1_stuart_2;Light Tank
+
+uk_a17_mk_1_tetrarch_shop;Tetrarch, Mk. I
+uk_a17_mk_1_tetrarch_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+Tank, Light, Mk. VII, A.17, Tetrarch, Mk. I"
+uk_a17_mk_1_tetrarch_1;Tetrarch, Mk. I
+uk_a17_mk_1_tetrarch_2;Light Tank
+
+uk_a17_mk_1_tetrarch_race_shop;Tetrarch, Mk. I
+uk_a17_mk_1_tetrarch_race_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+Tank, Light, Mk. VII, A.17, Tetrarch, Mk. I"
+uk_a17_mk_1_tetrarch_race_1;Tetrarch, Mk. I
+uk_a17_mk_1_tetrarch_race_2;Light Tank
+
+uk_daimler_mk_2_shop;Daimler, Mk. II
+uk_daimler_mk_2_0;"<color=#81c3fc>The Daimler Motor Company</color>
+Car, Armoured, Daimler, Mk. II"
+uk_daimler_mk_2_1;Daimler, Mk. II
+uk_daimler_mk_2_2;Armoured Car
+
+uk_vickers_mk_6_aa_mk_1_shop;A.5, Mk. I, A.A., Mk. I
+uk_vickers_mk_6_aa_mk_1_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+Tank, Light, Mk. VIa, A.5, Mk. I, A.A., Mk. I"
+uk_vickers_mk_6_aa_mk_1_1;A.5, Mk. I, A.A., Mk. I
+uk_vickers_mk_6_aa_mk_1_2;SPAAG
+
+uk_t17e2_race_shop;Staghound, A.A., Mk. I
+uk_t17e2_race_0;"<color=#81c3fc>Chevrolet Motor Car Company</color>
+Car, Armoured, Staghound, A.A., Mk. I"
+uk_t17e2_race_1;Staghound, A.A., Mk. I
+uk_t17e2_race_2;SPAAG
+
+uk_t17e2_shop;Staghound, A.A., Mk. I
+uk_t17e2_0;"<color=#81c3fc>Chevrolet Motor Car Company</color>
+Car, Armoured, Staghound, A.A., Mk. I"
+uk_t17e2_1;Staghound, A.A., Mk. I
+uk_t17e2_2;SPAAG
+
 uk_mark_v_shop;Mk. V (Male)
 uk_mark_v_0;"<color=#81c3fc>Metropolitan Amalgamated Railway Carriage and Wagon Company</color>
 Tank, Mk. V
@@ -1152,18 +1225,50 @@ Tank, Mk. V
 uk_mark_v_1;Mk. V (Male)
 uk_mark_v_2;Medium Tank
 
+uk_mark_v_event_shop;Mk. V (Male)
+uk_mark_v_event_0;"<color=#81c3fc>Metropolitan Amalgamated Railway Carriage and Wagon Company</color>
+Tank, Mk. V
+<color=#adadad>(Male)</color>"
+uk_mark_v_event_1;Mk. V
+uk_mark_v_event_2;Heavy Tank
+
 uk_sarc_mk4_a_shop;SARC Mk. IVA
 uk_sarc_mk4_a_0;"<color=#81c3fc>Dorman Long Company</color>
 South African Armoured Reconnaissance Car Mk. IVA"
 uk_sarc_mk4_a_1;SARC Mk. IVA
 uk_sarc_mk4_a_2;Reconnaissance Car
 
+uk_a1e1_independent_shop;A.1E1
+uk_a1e1_independent_0;"<color=#81c3fc>Vickers Limited</color>
+Tank, Heavy, A.1E1 'Independent'"
+uk_a1e1_independent_1;A.1E1
+uk_a1e1_independent_2;Heavy Tank
+
+uk_alecto_mk_1_shop;Alecto, Mk. I
+uk_alecto_mk_1_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+95mm, Self-Propelled, A.25E2, Alecto, Mk. I"
+uk_alecto_mk_1_1;Alecto, MK. I
+uk_alecto_mk_1_2;SPG
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
-uk_cruiser_ram_1_shop;Ram, Mk. I
-uk_cruiser_ram_1_0;"<color=#81c3fc>Montreal Locomotive Works</color>
-Tank, Cruiser, Ram, Mk. I"
-uk_cruiser_ram_1_1;Ram, Mk. I
-uk_cruiser_ram_1_2;Medium Tank
+uk_crusader_mk_2_shop;Crusader, Mk. II
+uk_crusader_mk_2_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
+Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. II"
+uk_crusader_mk_2_1;Crusader, Mk. II
+uk_crusader_mk_2_2;Cruiser Tank
+
+uk_crusader_mk_3_shop;Crusader, Mk. III
+uk_crusader_mk_3_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
+Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III"
+uk_crusader_mk_3_1;Crusader, Mk. III
+uk_crusader_mk_3_2;Cruiser Tank
+
+uk_crusader_mk_2_the_saint_shop;Crusader, Mk. II (1st Arm.Div.)
+uk_crusader_mk_2_the_saint_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
+Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. II
+<color=@currencyGoldColor>1st Armoured Division, ""The Saint""</color>"
+uk_crusader_mk_2_the_saint_1;Crusader, Mk. II
+uk_crusader_mk_2_the_saint_2;Cruiser Tank
 
 uk_crusader_aa_mk_1_shop;Crusader, Mk. III, A.A., Mk. I
 uk_crusader_aa_mk_1_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
@@ -1190,12 +1295,140 @@ Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II"
 uk_crusader_aa_mk_2_tutorial_1;Crusader, Mk. III, A.A., Mk. II
 uk_crusader_aa_mk_2_tutorial_2;SPAAG
 
-uk_marmon_herrington_mk_6_6pdr_shop;SARC Mk. VI (6-pdr.)
-uk_marmon_herrington_mk_6_6pdr_0;"<color=#81c3fc>Dorman Long Company</color>
-South African Armoured Reconnaissance Car Mk. VI
-<color=#adadad>(6-pdr.)</color>"
-uk_marmon_herrington_mk_6_6pdr_1;SARC Mk. VI
-uk_marmon_herrington_mk_6_6pdr_2;Reconnaissance Car
+uk_cruiser_ram_1_shop;Ram, Mk. I
+uk_cruiser_ram_1_0;"<color=#81c3fc>Montreal Locomotive Works</color>
+Tank, Cruiser, Ram, Mk. I"
+uk_cruiser_ram_1_1;Ram, Mk. I
+uk_cruiser_ram_1_2;Medium Tank
+
+uk_a27m_cromwell_1_shop;Cromwell, Mk. Ic
+uk_a27m_cromwell_1_0;"<color=#81c3fc>Birmingham Railway Carriage and Wagon Company</color>
+Tank, Cruiser, Mk. VIII, A.27M, Cromwell, Mk. Ic"
+uk_a27m_cromwell_1_1;Cromwell, Mk. Ic
+uk_a27m_cromwell_1_2;Cruiser Tank
+
+uk_a27m_cromwell_5_shop;Cromwell, Mk. Vc
+uk_a27m_cromwell_5_0;"<color=#81c3fc>Birmingham Railway Carriage and Wagon Company</color>
+Tank, Cruiser, Mk. VIII, A.27M, Cromwell, Mk. Vc"
+uk_a27m_cromwell_5_1;Cromwell, Mk. Vc
+uk_a27m_cromwell_5_2;Cruiser Tank
+
+uk_a27m_cromwell_5_rp3_shop;Cromwell, Mk. Vc (RP-3)
+uk_a27m_cromwell_5_rp3_0;"<color=#81c3fc>Birmingham Railway Carriage and Wagon Company</color>
+Tank, Cruiser, Mk. VIII, A.27M, Cromwell, Mk. Vc
+<color=#adadad>(RP-3)</color>"
+uk_a27m_cromwell_5_rp3_1;Cromwell, Mk. Vc
+uk_a27m_cromwell_5_rp3_2;Cruiser Tank
+
+uk_sherman_II_shop;Sherman, Mk. II
+uk_sherman_II_0;"<color=#81c3fc>Chrysler Corporation</color>
+Tank, Medium, Sherman, Mk. II"
+uk_sherman_II_1;Sherman, Mk. II
+uk_sherman_II_2;Medium Tank
+
+uk_valentine_mk_1_shop;Valentine, Mk. I
+uk_valentine_mk_1_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+Tank, Infantry, Mk. III, Valentine, Mk. I"
+uk_valentine_mk_1_1;Valentine, Mk. I
+uk_valentine_mk_1_2;Infantry Tank
+
+uk_valentine_mk_11_shop;Valentine, Mk. XI
+uk_valentine_mk_11_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+Tank, Infantry, Mk. III, Valentine, Mk. XI"
+uk_valentine_mk_11_1;Valentine, Mk. XI
+uk_valentine_mk_11_2;Infantry Tank
+
+uk_valentine_mk_9_shop;Valentine, Mk. IX
+uk_valentine_mk_9_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+Tank, Infantry, Mk. III, Valentine, Mk. IX"
+uk_valentine_mk_9_1;Valentine, Mk. IX
+uk_valentine_mk_9_2;Infantry Tank
+
+uk_a_12_mk_2_matilda_2_shop;Matilda, Mk. III
+uk_a_12_mk_2_matilda_2_0;"<color=#81c3fc>The Vulcan Foundry</color>
+Tank, Infantry, Mk. IIa*, A.12, Matilda, Mk. III"
+uk_a_12_mk_2_matilda_2_1;Matilda, Mk. III
+uk_a_12_mk_2_matilda_2_2;Infantry Tank
+
+uk_matilda_hedgehog_shop;Matilda, Mk. IV (Hedgehog)
+uk_matilda_hedgehog_0;"<color=#81c3fc>The Vulcan Foundry <color=@commonTextColor>/</color> The School of Armour</color>
+Tank, Infantry, Mk. II, A.12, Matilda, Mk. IV
+<color=#adadad>(Projector, Hedgehog, No. 1, Mk. 1)</color>"
+uk_matilda_hedgehog_1;Matilda, Mk. IV
+uk_matilda_hedgehog_2;Infantry Tank
+
+uk_a_22_mk_1_churchill_1941_shop;Churchill, Mk. I
+uk_a_22_mk_1_churchill_1941_0;"<color=#81c3fc>Vauxhall Motors</color>
+Tank, Infantry, Mk. IV, A.22A, Churchill, Mk. I"
+uk_a_22_mk_1_churchill_1941_1;Churchill, Mk. I
+uk_a_22_mk_1_churchill_1941_2;Infantry Tank
+
+uk_churchill_avre_shop;Churchill, Mk. III AVRE
+uk_churchill_avre_0;"<color=#81c3fc>Vauxhall Motors</color>
+Tank, Assault Vehicle, Royal Engineers, Mk. IV, A.22, Churchill, Mk. III"
+uk_churchill_avre_1;Churchill, Mk. III AVRE
+uk_churchill_avre_2;Infantry Tank
+
+uk_a_22b_mk_3_churchill_1942_shop;Churchill, Mk. III
+uk_a_22b_mk_3_churchill_1942_0;"<color=#81c3fc>Vauxhall Motors</color>
+Tank, Infantry, Mk. IV, A.22B, Churchill, Mk. III"
+uk_a_22b_mk_3_churchill_1942_1;Churchill, Mk. III
+uk_a_22b_mk_3_churchill_1942_2;Infantry Tank
+
+uk_churchill_na75_shop;Churchill, Mk. IV, N.A.75
+uk_churchill_na75_0;"<color=#81c3fc>Vauxhall Motors</color>
+Tank, Infantry, Mk. IV, A.22, Churchill, Mk. IV, N.A.75"
+uk_churchill_na75_1;Churchill, Mk. IV
+uk_churchill_na75_2;Infantry Tank
+
+uk_a_22f_mk_7_churchill_1944_shop;Churchill, Mk. VII
+uk_a_22f_mk_7_churchill_1944_0;"<color=#81c3fc>Vauxhall Motors</color>
+Tank, Infantry, Mk. IV, A.22F, Churchill, Mk. VII"
+uk_a_22f_mk_7_churchill_1944_1;Churchill, Mk. VII
+uk_a_22f_mk_7_churchill_1944_2;Infantry Tank
+
+uk_a_22f_mk_7_churchill_crocodile_shop;Churchill, Mk. VII, Crocodile
+uk_a_22f_mk_7_churchill_crocodile_0;"<color=#81c3fc>Vauxhall Motors</color>
+Tank, Infantry, Mk. IV, A.22F, Churchill, Mk. VII, Crocodile"
+uk_a_22f_mk_7_churchill_crocodile_1;Churchill, Mk. VII, Crocodile
+uk_a_22f_mk_7_churchill_crocodile_2;Infantry Tank
+
+uk_sp_17_pdr_valentine_shop;Archer, Mk. I
+uk_sp_17_pdr_valentine_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+17-pdr, Self-Propelled, Valentine, Mk. I, Archer, Mk. I"
+uk_sp_17_pdr_valentine_1;Archer, Mk. I
+uk_sp_17_pdr_valentine_2;SPG
+
+uk_3_inch_gun_carrier_shop;3-in Gun, Mk. I
+uk_3_inch_gun_carrier_0;"<color=#81c3fc>Vauxhall Motors</color>
+Carrier, Churchill, A.22D, 3-in Gun, Mk. I"
+uk_3_inch_gun_carrier_1;3-in Gun, Mk. I
+uk_3_inch_gun_carrier_2;SPG
+
+uk_17_pdr_m10_achilles_shop;Achilles, Mk. Ic
+uk_17_pdr_m10_achilles_0;"<color=#81c3fc>Grand Blanc Tank Plant <color=@commonTextColor>/</color> Royal Arsenal</color>
+17-pdr, Self-Propelled, Achilles, Mk. Ic ""Firefly"""
+uk_17_pdr_m10_achilles_1;Achilles, Mk. I
+uk_17_pdr_m10_achilles_2;SPG
+
+uk_17_pdr_m10_achilles_norfolk_yeomanry_shop;Achilles, Mk. Ic (65th AT.Reg.)
+uk_17_pdr_m10_achilles_norfolk_yeomanry_0;"<color=#81c3fc>Grand Blanc Tank Plant <color=@commonTextColor>/</color> Royal Arsenal</color>
+17-pdr, Self-Propelled, Achilles, Mk. Ic ""Firefly""
+<color=@currencyGoldColor>65th Anti-Tank Regiment Royal Artillery</color>"
+uk_17_pdr_m10_achilles_norfolk_yeomanry_1;Achilles, Mk. I
+uk_17_pdr_m10_achilles_norfolk_yeomanry_2;SPG
+
+uk_armored_car_mk_2_aa_shop;A.E.C., Mk. II, A.A.
+uk_armored_car_mk_2_aa_0;"<color=#81c3fc>Associated Equipment Company <color=@commonTextColor>/</color> Nuffield Mechanizations and Aero</color>
+Car, Armoured, A.E.C., Mk. II, A.A."
+uk_armored_car_mk_2_aa_1;A.E.C., Mk. II, A.A.
+uk_armored_car_mk_2_aa_2;SPAAG
+
+uk_armored_car_aec_mk_2_shop;A.E.C., Mk. II
+uk_armored_car_aec_mk_2_0;"<color=#81c3fc>Associated Equipment Company</color>
+Car, Armoured, A.E.C., Mk. II"
+uk_armored_car_aec_mk_2_1;A.E.C., Mk. II
+uk_armored_car_aec_mk_2_2;Armored Car
 
 uk_marmon_herrington_mk_6_2pdr_shop;SARC Mk. VI (2-pdr.)
 uk_marmon_herrington_mk_6_2pdr_0;"<color=#81c3fc>Dorman Long Company</color>
@@ -1204,11 +1437,24 @@ South African Armoured Reconnaissance Car Mk. VI
 uk_marmon_herrington_mk_6_2pdr_1;SARC Mk. VI
 uk_marmon_herrington_mk_6_2pdr_2;Reconnaissance Car
 
+uk_marmon_herrington_mk_6_6pdr_shop;SARC Mk. VI (6-pdr.)
+uk_marmon_herrington_mk_6_6pdr_0;"<color=#81c3fc>Dorman Long Company</color>
+South African Armoured Reconnaissance Car Mk. VI
+<color=#adadad>(6-pdr.)</color>"
+uk_marmon_herrington_mk_6_6pdr_1;SARC Mk. VI
+uk_marmon_herrington_mk_6_6pdr_2;Reconnaissance Car
+
 uk_a25_mk_8_shop;Harry Hopkins, Mk. I
 uk_a25_mk_8_0;"<color=#81c3fc>Vickers-Armstrongs</color>
 Tank, Light, Mk. VII, A.25, Harry Hopkins, Mk. I"
 uk_a25_mk_8_1;Harry Hopkins, Mk. I
 uk_a25_mk_8_2;Light Tank
+
+uk_mk1_grant_shop;Grant, Mk. I
+uk_mk1_grant_0;"<color=#81c3fc>Baldwin Locomotive Works</color>
+Tank, Medium, Grant Mk. I"
+uk_mk1_grant_1;Grant, Mk. I
+uk_mk1_grant_2;Medium Tank
 
 uk_ac1_sentinel_shop;A.C.I
 uk_ac1_sentinel_0;"<color=#81c3fc>Chullora Tank Assembly Shops</color>
@@ -1237,15 +1483,13 @@ uk_ram_90mm_aa_2;SPG
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 uk_sherman_vc_firefly_shop;Sherman, Mk. Vc
-uk_sherman_vc_firefly_0;"<color=#81c3fc>United States Army Ordnance Department <color=@commonTextColor>+</color> Royal Ordnance Factory
-Nottingham</color>
+uk_sherman_vc_firefly_0;"<color=#81c3fc>Chrysler Corporation <color=@commonTextColor>/</color> Royal Ordnance Factory Nottingham</color>
 Tank, Medium, Sherman, Mk. Vc ""Firefly"""
 uk_sherman_vc_firefly_1;Sherman, Mk. V
 uk_sherman_vc_firefly_2;Medium Tank
 
 uk_sherman_vc_firefly_kit_3rank_shop;"Sherman, Mk. Vc ""Echoes of Overlord"""
-uk_sherman_vc_firefly_kit_3rank_0;"<color=#81c3fc>United States Army Ordnance Department <color=@commonTextColor>+</color> Royal Ordnance Factory
-Nottingham</color>
+uk_sherman_vc_firefly_kit_3rank_0;"<color=#81c3fc>Chrysler Corporation <color=@commonTextColor>/</color> Royal Ordnance Factory Nottingham</color>
 Tank, Medium, Sherman, Mk. Vc ""Firefly""
 <color=@currencyGoldColor>""Echoes of Overlord""</color>"
 uk_sherman_vc_firefly_kit_3rank_1;Sherman, Mk. V

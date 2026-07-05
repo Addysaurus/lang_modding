@@ -28,6 +28,7 @@ All dates are listed in DD-MM-YYYY format.
     - Corrected the spacing of the letter variants in the statcard names of the **Magaḥ**s.
     - **B-29A-45-BN** (nuke) (UK) → **Washington B. Mk. 1**. Statcard name → **Boeing Airplane Company Model 345 | Washington B. Mk. 1**.
     - **Garford**: Statcard name → **Garford Motor Truck Company / Putilovskij zavod | Bronirovannyj 4-tonnyj avtomobil' "Garford"**.
+    - **Pz.Kpfw. 748 (a)**: Statcard name → **Grand Blanc Tank Plant | Panzerkampfwagen M 4 Ausf. C | Panzerkampfwagen 748 (a)**.
 
 ### Weaponry:
 

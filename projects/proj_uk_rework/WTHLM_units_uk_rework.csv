@@ -668,11 +668,164 @@ wyvern_s4_1;Wyvern S. Mk. 4
 wyvern_s4_2;Wyvern
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+vampire_fb5_shop;Vampire F.B. Mk. 5
+vampire_fb5_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 100</color>
+Vampire F.B. Mk. 5"
+vampire_fb5_1;Vampire F.B. Mk. 5
+vampire_fb5_2;Vampire
+
+venom_fb4_shop;Venom F.B. Mk. 4
+venom_fb4_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 112</color>
+Venom F.B. Mk. 4"
+venom_fb4_1;Venom F.B. Mk. 4
+venom_fb4_2;Venom
+
+sea_venom_faw20_shop;Sea Venom F.(A.W.) Mk. 20
+sea_venom_faw20_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 112</color>
+Sea Venom F.(A.W.) Mk. 20"
+sea_venom_faw20_1;Sea Venom F.(A.W.) Mk. 20
+sea_venom_faw20_2;Sea Venom
+
+meteor_fmk3_shop;Meteor F. Mk. 3
+meteor_fmk3_0;"<color=#81c3fc>Gloster Aircraft Company G.41D</color>
+Meteor F. Mk. 3"
+meteor_fmk3_1;Meteor F. Mk. 3
+meteor_fmk3_2;Meteor
+
+meteor_fmk3_navy_shop;Meteor F. Mk. 3 (EE337)
+meteor_fmk3_navy_0;"<color=#81c3fc>Gloster Aircraft Company G.41D</color>
+Meteor F. Mk. 3
+<color=#adadad>(Derwent Mk. 5)</color>
+<color=@currencyGoldColor>EE337</color>"
+meteor_fmk3_navy_1;Meteor F. Mk. 3
+meteor_fmk3_navy_2;Meteor
+
+meteor_fmk4_lw_shop;Meteor F. Mk. 3/4 (EE360)
+meteor_fmk4_lw_0;"<color=#81c3fc>Gloster Aircraft Company G.41E</color>
+Meteor F. Mk. 3/4
+<color=#adadad>(Derwent Mk. 5)</color>
+<color=@currencyGoldColor>EE360</color>"
+meteor_fmk4_lw_1;Meteor F. Mk. 3/4
+meteor_fmk4_lw_2;Meteor
+
+meteor_fmk4_sw_shop;Meteor F. Mk. 4
+meteor_fmk4_sw_0;"<color=#81c3fc>Gloster Aircraft Company G.41G</color>
+Meteor F. Mk. 4"
+meteor_fmk4_sw_1;Meteor F. Mk. 4
+meteor_fmk4_sw_2;Meteor
+
+meteor_fmk8_shop;Meteor F. Mk. 8
+meteor_fmk8_0;"<color=#81c3fc>Gloster Aircraft Company G.41K</color>
+Meteor F. Mk. 8"
+meteor_fmk8_1;Meteor F. Mk. 8
+meteor_fmk8_2;Meteor
+
+meteor_fmk8_reaper_shop;GAF
+meteor_fmk8_reaper_0;"<color=#81c3fc>Gloster Aircraft Company Ground Attack Fighter ""Reaper""</color>"
+meteor_fmk8_reaper_1;GAF
+meteor_fmk8_reaper_2;GAF
+
+attaker_fb1_shop;Attacker F.B. Mk. 1
+attaker_fb1_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 398</color>
+Attacker F.B. Mk. 1"
+attaker_fb1_1;Attacker F.B. Mk. 1
+attaker_fb1_2;Attacker
+
+attaker_fb2_shop;Attacker F.B. Mk. 2
+attaker_fb2_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 398</color>
+Attacker F.B. Mk. 2"
+attaker_fb2_1;Attacker F.B. Mk. 2
+attaker_fb2_2;Attacker
+
+sea_hawk_fga6_shop;Sea Hawk F.G.A. Mk. 6
+sea_hawk_fga6_0;"<color=#81c3fc>Hawker Aircraft</color>
+Sea Hawk F.G.A. Mk. 6"
+sea_hawk_fga6_1;Sea Hawk F.G.A. Mk. 6
+sea_hawk_fga6_2;Sea Hawk
+
+swift_f1_shop;Swift F. Mk. 1
+swift_f1_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 541</color>
+Swift F. Mk. 1"
+swift_f1_1;Swift F. Mk. 1
+swift_f1_2;Swift
+
+swift_f7_shop;Swift F. Mk. 7
+swift_f7_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 545</color>
+Swift F. Mk. 7"
+swift_f7_1;Swift F. Mk. 7
+swift_f7_2;Swift
+
 washington_b1_shop;Washington B. Mk. 1
 washington_b1_0;"<color=#81c3fc>Boeing Airplane Company Model 345</color>
 Washington B. Mk. 1"
 washington_b1_1;Washington B. Mk. 1
 washington_b1_2;Washington
+
+canberra_bmk2_shop;Canberra B. Mk. 2
+canberra_bmk2_0;"<color=#81c3fc>The English Electric Company A.1</color>
+Canberra B. Mk. 2"
+canberra_bmk2_1;Canberra B. Mk. 2
+canberra_bmk2_2;Canberra
+
+canberra_bimk6_shop;Canberra B.(I.) Mk. 6
+canberra_bimk6_0;"<color=#81c3fc>The English Electric Company A.1</color>
+Canberra B.(I.) Mk. 6"
+canberra_bimk6_1;Canberra B.(I.) Mk. 6
+canberra_bimk6_2;Canberra
+
+canberra_bimk6_killstreak_shop;☢ Canberra B.(I.) Mk. 6
+canberra_bimk6_killstreak_0;"<color=#81c3fc>The English Electric Company A.1</color>
+☢ Canberra B.(I.) Mk. 6"
+canberra_bimk6_killstreak_1;☢ Canberra B.(I.) Mk. 6
+canberra_bimk6_killstreak_2;☢ Canberra
+
+canberra_bimk6_france_killstreak_shop;☢☨ Canberra B.(I.) Mk. 6
+canberra_bimk6_france_killstreak_0;"<color=#81c3fc>The English Electric Company A.1</color>
+☢☨ Canberra B.(I.) Mk. 6"
+canberra_bimk6_france_killstreak_1;☢☨ Canberra B.(I.) Mk. 6
+canberra_bimk6_france_killstreak_2;☢☨ Canberra
+
+canberra_bimk6_germany_killstreak_shop;☢◄ Canberra B.(I.) Mk. 6
+canberra_bimk6_germany_killstreak_0;"<color=#81c3fc>The English Electric Company A.1</color>
+☢◄ Canberra B.(I.) Mk. 6"
+canberra_bimk6_germany_killstreak_1;☢◄ Canberra B.(I.) Mk. 6
+canberra_bimk6_germany_killstreak_2;☢◄ Canberra
+
+canberra_bimk6_italy_killstreak_shop;☢⛨ Canberra B.(I.) Mk. 6
+canberra_bimk6_italy_killstreak_0;"<color=#81c3fc>The English Electric Company A.1</color>
+☢⛨ Canberra B.(I.) Mk. 6"
+canberra_bimk6_italy_killstreak_1;☢⛨ Canberra B.(I.) Mk. 6
+canberra_bimk6_italy_killstreak_2;☢⛨ Canberra
+
+canberra_bimk6_japan_killstreak_shop;☢▅ Canberra B.(I.) Mk. 6
+canberra_bimk6_japan_killstreak_0;"<color=#81c3fc>The English Electric Company A.1</color>
+☢▅ Canberra B.(I.) Mk. 6"
+canberra_bimk6_japan_killstreak_1;☢▅ Canberra B.(I.) Mk. 6
+canberra_bimk6_japan_killstreak_2;☢▅ Canberra
+
+canberra_bimk6_sweden_killstreak_shop;☢♛ Canberra B.(I.) Mk. 6
+canberra_bimk6_sweden_killstreak_0;"<color=#81c3fc>The English Electric Company A.1</color>
+☢♛ Canberra B.(I.) Mk. 6"
+canberra_bimk6_sweden_killstreak_1;☢♛ Canberra B.(I.) Mk. 6
+canberra_bimk6_sweden_killstreak_2;☢♛ Canberra
+
+canberra_bimk6_usa_killstreak_shop;☢▃ Canberra B.(I.) Mk. 6
+canberra_bimk6_usa_killstreak_0;"<color=#81c3fc>The English Electric Company A.1</color>
+☢▃ Canberra B.(I.) Mk. 6"
+canberra_bimk6_usa_killstreak_1;☢▃ Canberra B.(I.) Mk. 6
+canberra_bimk6_usa_killstreak_2;☢▃ Canberra
+
+canberra_bimk6_iaf_killstreak_shop;☢ Canberra B.(I.) Mk. 6
+canberra_bimk6_iaf_killstreak_0;"<color=#81c3fc>The English Electric Company A.1</color>
+☢ Canberra B.(I.) Mk. 6"
+canberra_bimk6_iaf_killstreak_1;☢ Canberra B.(I.) Mk. 6
+canberra_bimk6_iaf_killstreak_2;☢ Canberra
+
+dh_110_sea_vixen_shop;Sea Vixen F.(A.W.) Mk. 2
+dh_110_sea_vixen_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 110</color>
+Sea Vixen F.(A.W.) Mk. 2"
+dh_110_sea_vixen_1;Sea Vixen F.(A.W.) Mk. 2
+dh_110_sea_vixen_2;Sea Vixen
 
 marut_mk1_shop;Mārut Mk I
 marut_mk1_0;"<color=#81c3fc>Hindustān Ēyronōṭiks Limiṭeḍ HF-24</color>
@@ -681,6 +834,42 @@ marut_mk1_1;Mārut Mk I
 marut_mk1_2;Mārut
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+hunter_f1_shop;Hunter F. Mk. 1
+hunter_f1_0;"<color=#81c3fc>Hawker Aircraft</color>
+Hunter F. Mk. 1"
+hunter_f1_1;Hunter F. Mk. 1
+hunter_f1_2;Hunter
+
+hunter_f6_shop;Hunter F. Mk. 6
+hunter_f6_0;"<color=#81c3fc>Hawker Aircraft</color>
+Hunter F. Mk. 6"
+hunter_f6_1;Hunter F. Mk. 6
+hunter_f6_2;Hunter
+
+hunter_f9_rhodesia_shop;Hunter F.G.A. Mk. 9
+hunter_f9_rhodesia_0;"<color=#81c3fc>Hawker Aircraft</color>
+Hunter F.G.A. Mk. 9"
+hunter_f9_rhodesia_1;Hunter F.G.A. Mk. 9
+hunter_f9_rhodesia_2;Hunter
+
+javelin_fmk9_shop;Javelin F.(A.W.) Mk. 9
+javelin_fmk9_0;"<color=#81c3fc>Gloster Aircraft Company G.A.5</color>
+Javelin F.(A.W.) Mk. 9"
+javelin_fmk9_1;Javelin F.(A.W.) Mk. 9
+javelin_fmk9_2;Javelin
+
+lightning_f6_shop;Lightning F. Mk. 6
+lightning_f6_0;"<color=#81c3fc>British Aircraft Corporation</color>
+Lightning F. Mk. 6"
+lightning_f6_1;Lightning F. Mk. 6
+lightning_f6_2;Lightning
+
+scimitar_f1_shop;Scimitar F. Mk. 1
+scimitar_f1_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 544</color>
+Scimitar F. Mk. 1"
+scimitar_f1_1;Scimitar F. Mk. 1
+scimitar_f1_2;Scimitar
+
 jaguar_gr1_shop;▄ Jaguar G.R. Mk. 1
 jaguar_gr1_0;"<color=#81c3fc>SEPECAT Jaguar S</color>
 ▄ Jaguar G.R. Mk. 1"
@@ -700,7 +889,123 @@ jaguar_is_0;"<color=#81c3fc>SEPECAT Jaguar IS <color=@commonTextColor>/</color> 
 jaguar_is_1;☸ Jaguar IS
 jaguar_is_2;☸ Jaguar
 
+harrier_gr3_shop;Harrier G.R. Mk. 3
+harrier_gr3_0;"<color=#81c3fc>Hawker Siddeley Aviation</color>
+Harrier G.R. Mk. 3"
+harrier_gr3_1;Harrier G.R. Mk. 3
+harrier_gr3_2;Harrier
+
+harrier_gr1_shop;Harrier G.R. Mk. 1
+harrier_gr1_0;"<color=#81c3fc>Hawker Siddeley Aviation</color>
+Harrier G.R. Mk. 1"
+harrier_gr1_1;Harrier G.R. Mk. 1
+harrier_gr1_2;Harrier
+
+harrier_frs1_shop;Sea Harrier F.R.S. Mk. 1 (1982)
+harrier_frs1_0;"<color=#81c3fc>British Aerospace Corporation</color>
+Sea Harrier F.R.S. Mk. 1
+<color=#adadad>(1982)</color>"
+harrier_frs1_1;Sea Harrier F.R.S. Mk. 1 (1982)
+harrier_frs1_2;Sea Harrier
+
+harrier_frs1_early_shop;Sea Harrier F.R.S. Mk. 1 (1980)
+harrier_frs1_early_0;"<color=#81c3fc>British Aerospace Corporation</color>
+Sea Harrier F.R.S. Mk. 1
+<color=#adadad>(1980)</color>"
+harrier_frs1_early_1;Sea Harrier F.R.S. Mk. 1 (1980)
+harrier_frs1_early_2;Sea Harrier
+
+harrier_t10_shop;Harrier T. Mk. 10
+harrier_t10_0;"<color=#81c3fc>British Aerospace <color=@commonTextColor>/</color> McDonnell Douglas Corporation</color>
+Harrier T. Mk. 10"
+harrier_t10_1;Harrier T. Mk. 10
+harrier_t10_2;Harrier
+
+sea_harrier_fa2_shop;Sea Harrier F.A. Mk. 2
+sea_harrier_fa2_0;"<color=#81c3fc>British Aerospace Corporation</color>
+Sea Harrier F.A. Mk. 2"
+sea_harrier_fa2_1;Sea Harrier F.A. Mk. 2
+sea_harrier_fa2_2;Sea Harrier
+
+harrier_gr7_shop;Harrier G.R. Mk. 7
+harrier_gr7_0;"<color=#81c3fc>British Aerospace <color=@commonTextColor>/</color> McDonnell Douglas Corporation</color>
+Harrier G.R. Mk. 7"
+harrier_gr7_1;Harrier G.R. Mk. 7
+harrier_gr7_2;Harrier
+
+buccaneer_s2_shop;Buccaneer S. Mk. 2
+buccaneer_s2_0;"<color=#81c3fc>Blackburn Aircraft B.111 <color=@commonTextColor>/</color> Hawker Siddeley Aviation</color>
+Buccaneer S. Mk. 2"
+buccaneer_s2_1;Buccaneer S. Mk. 2
+buccaneer_s2_2;Buccaneer
+
+buccaneer_s1_shop;Buccaneer S. Mk. 1
+buccaneer_s1_0;"<color=#81c3fc>Blackburn Aircraft B.103</color>
+Buccaneer S. Mk. 1"
+buccaneer_s1_1;Buccaneer S. Mk. 1
+buccaneer_s1_2;Buccaneer
+
+buccaneer_s2b_shop;Buccaneer S. Mk. 2B
+buccaneer_s2b_0;"<color=#81c3fc>Hawker Siddeley Aviation</color>
+Buccaneer S. Mk. 2B"
+buccaneer_s2b_1;Buccaneer S. Mk. 2B
+buccaneer_s2b_2;Buccaneer
+
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+f-4m_fgr2_shop;Phantom F.G.R. Mk. 2
+f-4m_fgr2_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98KD <color=@commonTextColor>/</color> British Aerospace
+Corporation</color>
+Phantom F.G.R. Mk. 2"
+f-4m_fgr2_1;Phantom F.G.R. Mk. 2
+f-4m_fgr2_2;Phantom
+
+f-4k_shop;Phantom F.G. Mk. 1
+f-4k_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98FB <color=@commonTextColor>/</color> British Aerospace
+Corporation</color>
+Phantom F.G. Mk. 1"
+f-4k_1;Phantom F.G. Mk. 1
+f-4k_2;Phantom
+
+f-4jk_shop;Phantom F. Mk. 3
+f-4jk_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98NC <color=@commonTextColor>/</color> Naval Air Rework Facility</color>
+Phantom F. Mk. 3"
+f-4jk_1;Phantom F. Mk. 3
+f-4jk_2;Phantom
+
+tornado_f3_shop;▄ Tornado F. Mk. 3
+tornado_f3_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+▄ Tornado F. Mk. 3
+<color=#adadad>(Batch 2)</color>"
+tornado_f3_1;▄ Tornado F. Mk. 3
+tornado_f3_2;▄ Tornado
+
+tornado_gr1_shop;▄ Tornado G.R. Mk. 1
+tornado_gr1_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+▄ Tornado G.R. Mk. 1
+<color=#adadad>(Batch 1) (February, 1991)</color>"
+tornado_gr1_1;▄ Tornado G.R. Mk. 1
+tornado_gr1_2;▄ Tornado
+
+tornado_gr4_shop;▄ Tornado G.R. Mk. 4
+tornado_gr4_0;"<color=#81c3fc>Panavia Aircraft PA-200 <color=@commonTextColor>/</color> BAE Systems</color>
+▄ Tornado G.R. Mk. 4"
+tornado_gr4_1;▄ Tornado G.R. Mk. 4
+tornado_gr4_2;▄ Tornado
+
+tornado_f3_late_shop;▄ Tornado F. Mk. 3 (AOP)
+tornado_f3_late_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+▄ Tornado F. Mk. 3
+<color=#adadad>(AMRAAM Optimisation Programme)</color>"
+tornado_f3_late_1;▄ Tornado F. Mk. 3
+tornado_f3_late_2;▄ Tornado
+
+tornado_ids_de_assta1_britain_killstreak_shop;☢▄ IDS-Tornado (ASSTA 1)
+tornado_ids_de_assta1_britain_killstreak_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+☢▄ IDS-Tornado
+<color=#adadad>(Avionics System Software Tornado in ADA 1)</color>"
+tornado_ids_de_assta1_britain_killstreak_1;☢▄ IDS-Tornado
+tornado_ids_de_assta1_britain_killstreak_2;☢▄ IDS-Tornado
+
 hawk_200_shop;Hawk 200 (ZH200)
 hawk_200_0;"<color=#81c3fc>British Aerospace Hawk 200</color>
 <color=@currencyGoldColor>ZH200</color>"
@@ -714,22 +1019,11 @@ hawk_200_rda_1;Hawk 200
 hawk_200_rda_2;Hawk
 
 f_111c_raaf_shop;▄ F-111C
-f_111c_raaf_0;"<color=#81c3fc>General Dynamics Corporation + Grumman Aerospace Corporation</color>
+f_111c_raaf_0;"<color=#81c3fc>General Dynamics Corporation Model 12 <color=@commonTextColor>+</color> Grumman Aerospace
+Corporation</color>
 ▄ F-111C ""Aardvark"""
 f_111c_raaf_1;▄ F-111C
 f_111c_raaf_2;▄ F-111
-
-harrier_t10_shop;Harrier T. Mk. 10
-harrier_t10_0;"<color=#81c3fc>British Aerospace <color=@commonTextColor>/</color> McDonnell Douglas Corporation</color>
-Harrier T. Mk. 10"
-harrier_t10_1;Harrier T. Mk. 10
-harrier_t10_2;Harrier
-
-harrier_gr7_shop;Harrier G.R. Mk. 7
-harrier_gr7_0;"<color=#81c3fc>British Aerospace <color=@commonTextColor>/</color> McDonnell Douglas Corporation</color>
-Harrier G.R. Mk. 7"
-harrier_gr7_1;Harrier G.R. Mk. 7
-harrier_gr7_2;Harrier
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 saab_jas39c_south_africa_shop;▄ Gripen C (Cobra)
@@ -743,20 +1037,6 @@ saab_jas39c_south_africa_missile_test_0;"<color=#81c3fc>▄ Saab 39 Gripen C</co
 <color=#adadad>(Cobra)</color>"
 saab_jas39c_south_africa_missile_test_1;▄ Gripen C
 saab_jas39c_south_africa__missile_test_2;▄ Gripen
-
-ef_2000_fgr4_shop;▄ Typhoon F.G.R. Mk. 4 (Centurion)
-ef_2000_fgr4_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3)</color>
-▄ Typhoon F.G.R. Mk. 4
-<color=#adadad>(Project Centurion Phase 2)</color>"
-ef_2000_fgr4_1;▄ Typhoon F.G.R. Mk. 4
-ef_2000_fgr4_2;▄ Typhoon
-
-ef_2000_typhoon_aesa_shop;▄ Typhoon F.G.R. Mk. 4 (ZK355)
-ef_2000_typhoon_aesa_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3)</color>
-▄ Typhoon F.G.R. Mk. 4
-<color=@currencyGoldColor>ZK355</color>"
-ef_2000_typhoon_aesa_1;▄ Typhoon F.G.R. Mk. 4
-ef_2000_typhoon_aesa_2;▄ Typhoon
 
 fa_18a_raaf_shop;▄ F/A-18A
 fa_18a_raaf_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267 <color=@commonTextColor>/</color> Government Aircraft
@@ -773,17 +1053,32 @@ Factories</color>
 fa_18a_hug_2_raaf_1;▄ F/A-18A
 fa_18a_hug_2_raaf_2;▄ F/A-18
 
+cf_188a_canada_shop;CF-188A
+cf_188a_canada_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267</color>
+CF-188A Hornet"
+cf_188a_canada_1;CF-188A
+cf_188a_canada_2;CF-188
+
 fa_18f_block_2_raaf_shop;▄ F/A-18F-2-MC
 fa_18f_block_2_raaf_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
 ▄ F/A-18F-2-MC Super Hornet"
 fa_18f_block_2_raaf_1;▄ F/A-18F
 fa_18f_block_2_raaf_2;▄ F/A-18
 
-cf_188a_canada_shop;CF-188A
-cf_188a_canada_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267</color>
-CF-188A Hornet"
-cf_188a_canada_1;CF-188A
-cf_188a_canada_2;CF-188
+//UK AIRCRAFT - VEHICLE/FAMILY START: RANK 9
+ef_2000_fgr4_shop;▄ Typhoon F.G.R. Mk. 4 (Centurion)
+ef_2000_fgr4_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3)</color>
+▄ Typhoon F.G.R. Mk. 4
+<color=#adadad>(Project Centurion Phase 2)</color>"
+ef_2000_fgr4_1;▄ Typhoon F.G.R. Mk. 4
+ef_2000_fgr4_2;▄ Typhoon
+
+ef_2000_typhoon_aesa_shop;▄ Typhoon F.G.R. Mk. 4 (ZK355)
+ef_2000_typhoon_aesa_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3)</color>
+▄ Typhoon F.G.R. Mk. 4
+<color=@currencyGoldColor>ZK355</color>"
+ef_2000_typhoon_aesa_1;▄ Typhoon F.G.R. Mk. 4
+ef_2000_typhoon_aesa_2;▄ Typhoon
 
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 scout_ah_mk1_shop;Scout A.H. Mk. 1

@@ -3,6 +3,7 @@
 shop/group/beaufighter_group;Beaufighter Mk. VIc / T.F. Mk. X / ▄ 21
 shop/group/spitfire_mk5b_group;Spitfire F. Mk. Vb (trop.) / Vb
 shop/group/spitfire_mk5c_group;Spitfire F. Mk. Vc (trop.) / Vc
+shop/group/spitfire_mk9e_group;Spitfire F. Mk. XIV (e) / XVIII (e) / L.F. Mk. IX
 shop/group/lancaster_group;Lancaster B. Mk. I / III
 shop/group/uk_g6_tortoise_group;GV6 Mk 1 / Tortoise
 shop/group/uk_fv510_zt3_group;Warrior / Ratel ZT3-A2
@@ -279,46 +280,46 @@ spitfire_mk9c_4cannons_1;Spitfire F. Mk. IX
 spitfire_mk9c_4cannons_2;Spitfire
 
 spitfire_mk14e_shop;Spitfire F. Mk. XIV (e)
-spitfire_mk14e_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers)</color>
+spitfire_mk14e_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 379</color>
 Spitfire F. Mk. XIV (e)"
 spitfire_mk14e_1;Spitfire F. Mk. XIV
 spitfire_mk14e_2;Spitfire
 
 spitfire_mk18e_shop;Spitfire F. Mk. XVIII (e)
-spitfire_mk18e_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers)</color>
+spitfire_mk18e_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 394</color>
 Spitfire F. Mk. XVIII (e)"
 spitfire_mk18e_1;Spitfire F. Mk. XVIII
 spitfire_mk18e_2;Spitfire
 
 spitfire_ix_shop;Spitfire L.F. Mk. IX (e)
-spitfire_ix_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
+spitfire_ix_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 361 <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
 Aircraft Factory</color>
 Spitfire L.F. Mk. IX (e)"
 spitfire_ix_1;Spitfire L.F. Mk. IX
 spitfire_ix_2;Spitfire
 
 spitfire_ix_tutorial_shop;Spitfire L.F. Mk. IX (e)
-spitfire_ix_tutorial_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
+spitfire_ix_tutorial_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 361 <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
 Aircraft Factory</color>
 Spitfire L.F. Mk. IX (e)"
 spitfire_ix_tutorial_1;Spitfire L.F. Mk. IX
 spitfire_ix_tutorial_2;Spitfire
 
 spitfire_f22_shop;Spitfire F. Mk. 22
-spitfire_f22_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
+spitfire_f22_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 356 <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
 Aircraft Factory</color>
 Spitfire F. Mk. 22"
 spitfire_f22_1;Spitfire F. Mk. 22
 spitfire_f22_2;Spitfire
 
 spitfire_f24_shop;Spitfire F. Mk. 24
-spitfire_f24_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers)</color>
+spitfire_f24_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 356</color>
 Spitfire F. Mk. 24"
 spitfire_f24_1;Spitfire F. Mk. 24
 spitfire_f24_2;Spitfire
 
 spitfire_ix_plagis_shop;Plagis' Spitfire L.F. Mk. IX
-spitfire_ix_plagis_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
+spitfire_ix_plagis_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 361 <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
 Aircraft Factory</color>
 Spitfire L.F. Mk. IX
 <color=@currencyGoldColor>Yannis Plagis'</color>"
@@ -326,13 +327,13 @@ spitfire_ix_plagis_1;Spitfire L.F. Mk. IX
 spitfire_ix_plagis_2;Spitfire
 
 spitfire_mk14c_shop;Spitfire F. Mk. XIV
-spitfire_mk14c_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers)</color>
+spitfire_mk14c_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 379</color>
 Spitfire F. Mk. XIV"
 spitfire_mk14c_1;Spitfire F. Mk. XIV
 spitfire_mk14c_2;Spitfire
 
 spitfire_fr_mk14e_shop;Prendergast's Spitfire L.F. Mk. XIV (e)
-spitfire_fr_mk14e_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers)</color>
+spitfire_fr_mk14e_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 379</color>
 Spitfire L.F. Mk. XIV (e)
 <color=@currencyGoldColor>James Prendergast's</color>"
 spitfire_fr_mk14e_1;Spitfire L.F. Mk. XIV
@@ -506,13 +507,13 @@ seafire_mk3_1;Seafire L.F. Mk. III
 seafire_mk3_2;Seafire
 
 seafire_mk17_shop;Seafire F. Mk. XVII
-seafire_mk17_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 358</color>
+seafire_mk17_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 384 <color=@commonTextColor>/</color> Westland Aircraft</color>
 Seafire F. Mk. XVII"
 seafire_mk17_1;Seafire F. Mk. XVII
 seafire_mk17_2;Seafire
 
 seafire_fr47_shop;Seafire F.R. Mk. 47
-seafire_fr47_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 395</color>
+seafire_fr47_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 388</color>
 Seafire F.R. Mk. 47"
 seafire_fr47_1;Seafire F.R. Mk. 47
 seafire_fr47_2;Seafire

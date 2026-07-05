@@ -27,6 +27,7 @@ All dates are listed in DD-MM-YYYY format.
     - **F/A18 C** (Germany / Switzerland) → **F/A-18C (RP 08)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System | F/A18 C Hornet (Rüstungsprogramm 2008)**.
     - Corrected the spacing of the letter variants in the statcard names of the **Magaḥ**s.
     - **B-29A-45-BN** (nuke) (UK) → **Washington B. Mk. 1**. Statcard name → **Boeing Airplane Company Model 345 | Washington B. Mk. 1**.
+    - **Garford**: Statcard name → **Garford Motor Truck Company / Putilovskij zavod | Bronirovannyj 4-tonnyj avtomobil' "Garford"**.
 
 ### Weaponry:
 

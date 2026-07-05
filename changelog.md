@@ -29,6 +29,12 @@ All dates are listed in DD-MM-YYYY format.
     - **B-29A-45-BN** (nuke) (UK) → **Washington B. Mk. 1**. Statcard name → **Boeing Airplane Company Model 345 | Washington B. Mk. 1**.
     - **Garford**: Statcard name → **Garford Motor Truck Company / Putilovskij zavod | Bronirovannyj 4-tonnyj avtomobil' "Garford"**.
     - **Pz.Kpfw. 748 (a)**: Statcard name → **Grand Blanc Tank Plant | Panzerkampfwagen M 4 Ausf. C | Panzerkampfwagen 748 (a)**.
+    - **Shin TK 3 Gō (2006)** → **Shin TK 3 Gō (transport)**.
+        - Japanese package: **新TK3号 (2006)** → **新TK 3号 (transport)**.
+    - **Shin TK 3 Gō (2009)** → **Shin TK 3 Gō**.
+        - Japanese package: **新TK3号 (2009)** → **新TK 3号**.
+    - **10TK / Shin TK 3 Gō (2009)** (folder) → **10TK / Shin TK 3 Gō**.
+        - Japanese package: **10TK / 新TK3号 (2009)** (folder) → **10TK / 新TK 3号**.
 
 ### Weaponry:
 

@@ -31,7 +31,7 @@ germ_a7v_event_2;Medium Tank
 
 uk_garford_putilov_shop;Garford
 uk_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Putilovskij zavod</color>
-Bronirovannyj avtomobil' ""Garford"""
+Bronirovannyj 4-tonnyj avtomobil' ""Garford"""
 uk_garford_putilov_1;Garford
 uk_garford_putilov_2;Armored Car
 
@@ -3567,7 +3567,7 @@ germ_kv_1_kwk_40_1;▀ s.Pz.Kpfw. 756 (r)
 germ_kv_1_kwk_40_2;Heavy Tank
 
 us_m4a2_1944_germ_shop;▀ Pz.Kpfw. 748 (a)
-us_m4a2_1944_germ_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant</color>
+us_m4a2_1944_germ_0;"<color=#81c3fc>Grand Blanc Tank Plant</color>
 <color=#7ce68f>Panzerkampfwagen M 4 Ausf. C</color>
 ▀ Panzerkampfwagen 748 (a)"
 us_m4a2_1944_germ_1;▀ Pz.Kpfw. 748 (a)
@@ -4269,7 +4269,7 @@ mi_8amtsh_vn_2;Mi-8
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 ussr_garford_putilov_shop;Garford
 ussr_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Putilovskij zavod</color>
-Bronirovannyj avtomobil' ""Garford"""
+Bronirovannyj 4-tonnyj avtomobil' ""Garford"""
 ussr_garford_putilov_1;Garford
 ussr_garford_putilov_2;Armored Car
 
@@ -7936,17 +7936,16 @@ jp_icv_ifv_prototype_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 jp_icv_ifv_prototype_1;24WAFV
 jp_icv_ifv_prototype_2;WIFV
 
-jp_type_10_prototype_shop;Shin TK 3 Gō (2006)
+jp_type_10_prototype_shop;Shin TK 3 Gō (transport)
 jp_type_10_prototype_0;"<color=#81c3fc>Gijutsu Kenkyū Honbu <color=@commonTextColor>+</color> Mitsubishi Jū Kōgyō</color>
 Shin Sensha 3 Gōsha
-<color=#adadad>(2006)</color>"
+<color=#adadad>(transport)</color>"
 jp_type_10_prototype_1;Shin TK 3 Gō
 jp_type_10_prototype_2;MBT
 
-jp_tkx_prot_shop;Shin TK 3 Gō (2009)
+jp_tkx_prot_shop;Shin TK 3 Gō
 jp_tkx_prot_0;"<color=#81c3fc>Gijutsu Kenkyū Honbu <color=@commonTextColor>+</color> Mitsubishi Jū Kōgyō</color>
-Shin Sensha 3 Gōsha
-<color=#adadad>(2009)</color>"
+Shin Sensha 3 Gōsha"
 jp_tkx_prot_1;Shin TK 3 Gō
 jp_tkx_prot_2;MBT
 
@@ -9853,6 +9852,7 @@ cn_cm_34_2;Light Tank
 
 cn_object_122tm_shop;1221 (302)
 cn_object_122tm_0;"<color=#81c3fc>Nèiménggu Dì Yī Jīxiè Chang</color>
+<color=#ff8c80>2 4 Huìzhàn Bàngōngshì</color>
 1221 Zhōngxíng Tankè
 <color=#adadad>(302 Fan Tankè Daodàn)</color>"
 cn_object_122tm_1;1221

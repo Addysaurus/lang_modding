@@ -697,6 +697,30 @@ weapons/br_lizard_3/short;BAFG-230 (Lizard 3)
 //FRANCE BOMBS
 
 //SWEDEN BOMBS
+weapons/swd_50kg_sb_m37a;<color=@userlogColoredText>59 kg</color> 50 kg minbomb m/37AT <color=#ff6f00>BMB</color>
+weapons/swd_50kg_sb_m37a/short;50 kg mb m/37AT
+weapons/swd_50kg_sb_m42;<color=@userlogColoredText>50 kg</color> 50 kg sprängbomb m/42 <color=#ff6f00>BMB</color>
+weapons/swd_50kg_sb_m42/short;50 kg sb m/42
+weapons/swd_50kg_sb_m47;<color=@userlogColoredText>50 kg</color> 50 kg sprängbomb m/47 <color=#ff6f00>BMB</color>
+weapons/swd_50kg_sb_m47/short;50 kg sb m/47
+weapons/swd_120kg_sb_m61;<color=@userlogColoredText>120 kg</color> 120 kg sprängbomb m/61 <color=#ff6f00>BMB</color>
+weapons/swd_120kg_sb_m61/short;120 kg sb m/61
+weapons/swd_120kg_sb_m71;"<color=@userlogColoredText>120 kg</color> 120 kg sprängbomb m/71 ""Virgo"" <color=#ff6f00>BMB</color>"
+weapons/swd_120kg_sb_m71/short;120 kg sb m/71
+weapons/swd_120kg_sb_m71_retarded;"<color=@userlogColoredText>120 kg</color> 120 kg sprängbomb m/71 ""Virgo"" (bombfallskärm m/61) <color=#ff6f00>BMB</color>"
+weapons/swd_120kg_sb_m71_retarded/short;120 kg sb m/71 (bfask m/61)
+weapons/swd_250kg_minb_m37b;<color=@userlogColoredText>252 kg</color> 250 kg minbomb m/37BT <color=#ff6f00>BMB</color>
+weapons/swd_250kg_minb_m37b/short;250 kg mb m/37BT
+weapons/swd_250kg_minb_m40;<color=@userlogColoredText>230 kg</color> 250 kg minbomb m/40 <color=#ff6f00>BMB</color>
+weapons/swd_250kg_minb_m40/short;250 kg mb m/40
+weapons/swd_250kg_minb_m50;<color=@userlogColoredText>272.4 kg</color> 250 kg minbomb m/50 <color=#ff6f00>BMB</color>
+weapons/swd_250kg_minb_m50/short;250 kg mb m/50
+weapons/swd_500kg_minb_m41;<color=@userlogColoredText>513 kg</color> 500 kg minbomb m/41 <color=#ff6f00>BMB</color>
+weapons/swd_500kg_minb_m41/short;500 kg mb m/41
+weapons/swd_500kg_minb_m56;"<color=@userlogColoredText>500 kg</color> 500 kg minbomb m/56 ""Lyra"" <color=#ff6f00>BMB</color>"
+weapons/swd_500kg_minb_m56/short;500 kg mb m/56
+weapons/swd_600kg_minb_m50;"<color=@userlogColoredText>614.4 kg</color> 600 kg minbomb m/50 ""Hercules"" <color=#ff6f00>BMB</color>"
+weapons/swd_600kg_minb_m50/short;500 kg mb m/50
 
 //ISRAEL BOMBS
 
@@ -774,6 +798,26 @@ weapons/fr_sneb_type26_TDA;SNEB F1 Type 26P <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type26_TDA/short;SNEB F1 Type 26P
 
 //SWEDEN ROCKETS
+weapons/swd_75mm_m57b;"<color=@userlogColoredText>75 mm</color> 7,5 cm sprängraket m/57B ""Gerda"" <color=#ff6f00>RKT-HE</color>"
+weapons/swd_75mm_m57b/short;7,5 cm srak m/57B
+weapons/swd_75mm_frida;"<color=@userlogColoredText>75 mm</color> 7,5 cm sprängraket m/55 ""Frida"" <color=#ff6f00>RKT-HE</color>"
+weapons/swd_75mm_frida/short;7,5 cm srak m/55
+weapons/swd_135mm_srak_m56d;<color=@userlogColoredText>135 mm</color> 13,5 cm sprängraket m/56D <color=#ff6f00>RKT-HEAT</color>
+weapons/swd_135mm_srak_m56d/short;13,5 cm srak m/56D
+weapons/swd_135mm_psrak_m70_pshu;"<color=@userlogColoredText>135 mm</color> 13,5 cm pansarsprängraket m/70 ""Moses"" (ögonblickligt högkänsligt spetsanslagsrör m/70) <color=#ff6f00>RKT-HEAT</color>"
+weapons/swd_135mm_psrak_m70_pshu/short;13,5 cm psrak m/70 (ö hk sar m/70)
+weapons/swd_145mm_psrak_m49a;<color=@userlogColoredText>145 mm</color> 14,5 cm pansarsprängraket m/49B <color=#ff6f00>RKT-HEAT</color>
+weapons/swd_145mm_psrak_m49a/short;14,5 cm psrak m/49B
+weapons/swd_145mm_psrak_m49a_mount;<color=@userlogColoredText>145 mm</color> 14,5 cm pansarsprängraket m/49B <color=#ff6f00>RKT-HEAT</color>
+weapons/swd_145mm_psrak_m49a_mount/short;14,5 cm psrak m/49B
+weapons/swd_145mm_psrak_m49_56;<color=@userlogColoredText>145 mm</color> 14,5 cm pansarsprängraket m/49/56 <color=#ff6f00>RKT-HEAT</color>
+weapons/swd_145mm_psrak_m49_56/short;14,5 cm psrak m/49/56
+weapons/swd_150mm_srak_m51;<color=@userlogColoredText>150 mm</color> 15 cm sprängraket m/51 <color=#ff6f00>RKT-SAP-HE</color>
+weapons/swd_150mm_srak_m51/short;15 cm srak m/51
+weapons/swd_150mm_srak_m51_mount;<color=@userlogColoredText>150 mm</color> 15 cm sprängraket m/51 <color=#ff6f00>RKT-SAP-HE</color>
+weapons/swd_150mm_srak_m51_mount/short;15 cm srak m/51
+weapons/swd_180mm_hpsrak_m49;<color=@userlogColoredText>180 mm</color> 18 cm halvpansarraket m/49B <color=#ff6f00>RKT-HE</color>
+weapons/swd_180mm_hpsrak_m49/short;18 cm hprak m/49B
 
 //ISRAEL ROCKETS
 
@@ -1368,6 +1412,12 @@ weapons/su_45_54vt_1954_torpedo/short;45-54VT
 //FRANCE TORPEDOES
 
 //SWEDEN TORPEDOES
+weapons/swd_m36_torpedo;<color=@userlogColoredText>853 kg</color> 45 cm torped m/36 <color=#ff6f00>TRP</color>
+weapons/swd_m36_torpedo/short;45 cm torp m/36
+weapons/swd_m38_torpedo;<color=@userlogColoredText>805 kg</color> 45 cm torped m/38 <color=#ff6f00>TRP</color>
+weapons/swd_m38_torpedo/short;45 cm torp m/38
+weapons/swd_m41_torpedo;<color=@userlogColoredText>853 kg</color> 45 cm torped m/41 <color=#ff6f00>TRP</color>
+weapons/swd_m41_torpedo/short;45 cm torp m/41
 
 //ISRAEL TORPEDOES
 
@@ -2384,24 +2434,6 @@ weapons/it_snia_bpd_50mm_type_arf8m_at_ap;ARF/8M3(AP-AT) rockets
 weapons/it_snia_bpd_50mm_type_arf8m_at_ap/short;ARF/8M3(AP-AT)
 weapons/swd_rb_05a;robot 05A <color=#ff6f00>AGM-RG</color>
 weapons/swd_rb_05a/short;rb 05A
-weapons/swd_75mm_m57b;"<color=@userlogColoredText>75 mm</color> 7,5 cm sprängraket m/57B ""Gerda"" <color=#ff6f00>RKT-HE</color>"
-weapons/swd_75mm_m57b/short;srak m/57B
-weapons/swd_75mm_frida;"<color=@userlogColoredText>75 mm</color> 7,5 cm sprängraket m/55 ""Frida"" <color=#ff6f00>RKT-HE</color>"
-weapons/swd_75mm_frida/short;srak m/55
-weapons/swd_135mm_srak_m56d;<color=@userlogColoredText>135 mm</color> 13,5 cm sprängraket m/56D <color=#ff6f00>RKT-HEAT</color>
-weapons/swd_135mm_srak_m56d/short;srak m/56D
-weapons/swd_145mm_psrak_m49a;<color=@userlogColoredText>145 mm</color> 14,5 cm pansarsprängraket m/49B <color=#ff6f00>RKT-HEAT</color>
-weapons/swd_145mm_psrak_m49a/short;psrak m/49B
-weapons/swd_145mm_psrak_m49a_mount;<color=@userlogColoredText>145 mm</color> 14,5 cm pansarsprängraket m/49B <color=#ff6f00>RKT-HEAT</color>
-weapons/swd_145mm_psrak_m49a_mount/short;psrak m/49B
-weapons/swd_145mm_psrak_m49_56;<color=@userlogColoredText>145 mm</color> 14,5 cm pansarsprängraket m/49/56 <color=#ff6f00>RKT-HEAT</color>
-weapons/swd_145mm_psrak_m49_56/short;psrak m/49/56
-weapons/swd_150mm_srak_m51;<color=@userlogColoredText>150 mm</color> 15 cm sprängraket m/51 <color=#ff6f00>RKT-SAP-HE</color>
-weapons/swd_150mm_srak_m51/short;srak m/51
-weapons/swd_150mm_srak_m51_mount;<color=@userlogColoredText>150 mm</color> 15 cm sprängraket m/51 <color=#ff6f00>RKT-SAP-HE</color>
-weapons/swd_150mm_srak_m51_mount/short;srak m/51
-weapons/swd_180mm_hpsrak_m49;<color=@userlogColoredText>180 mm</color> 18 cm halvpansarraket m/49B <color=#ff6f00>RKT-HE</color>
-weapons/swd_180mm_hpsrak_m49/short;hprak m/49
 weapons/us_2_75_in_ffar_mighty_mouse;Rocket Motor, 2.75-inch FFAR Mk 4 <color=#ff6f00>RKT</color>
 weapons/us_2_75_in_ffar_mighty_mouse/short;2.75-inch FFAR Mk 4
 weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p;Rocket Motor, 2.75-inch FFAR Mk 4 <color=#ff6f00>RKT</color>
@@ -2416,8 +2448,6 @@ weapons/us_2_75_in_ffar_mighty_mouse_default;Rocket Motor, 2.75-inch FFAR Mk 4 <
 weapons/us_2_75_in_ffar_mighty_mouse_default/short;2.75-inch FFAR Mk 4
 weapons/fr_fz49;FZ49 HEAT rocket
 weapons/fr_fz49/short;FZ49
-weapons/swd_135mm_psrak_m70_pshu;"<color=@userlogColoredText>135 mm</color> 13,5 cm pansarsprängraket m/70 ""Moses"" (ögonblickligt högkänsligt spetsanslagsrör m/70) <color=#ff6f00>RKT-HEAT</color>"
-weapons/swd_135mm_psrak_m70_pshu/short;psrak m/70 (ö hk sar m/70)
 weapons/us_agm_12b_bullpup;AGM-12B Bullpup <color=#ff6f00>AGM-RG</color>
 weapons/us_agm_12b_bullpup/short;AGM-12B
 weapons/us_agm_12b_bullpup_heli;AGM-12B Bullpup <color=#ff6f00>AGM-RG</color>
@@ -2766,12 +2796,6 @@ weapons/uk_rp3_2_late;RP-3 rocket
 weapons/uk_rp3_2_late/short;RP-3
 weapons/uk_rp3_late;RP-3 rocket
 weapons/uk_rp3_late/short;RP-3
-weapons/swd_m41_torpedo;<color=@userlogColoredText>853 kg</color> 45 cm torped m/41 <color=#ff6f00>TRP</color>
-weapons/swd_m41_torpedo/short;torp m/41
-weapons/swd_m36_torpedo;<color=@userlogColoredText>853 kg</color> 45 cm torped m/36 <color=#ff6f00>TRP</color>
-weapons/swd_m36_torpedo/short;torp m/36
-weapons/swd_m38_torpedo;<color=@userlogColoredText>805 kg</color> 45 cm torped m/38 <color=#ff6f00>TRP</color>
-weapons/swd_m38_torpedo/short;torp m/38
 weapons/il_100_50_kg_gp;100/50 kg G.P. bomb
 weapons/il_100_50_kg_gp/short;100 kg
 weapons/il_250_50_kg_gp;250/50 kg G.P. bomb
@@ -5197,30 +5221,6 @@ weapons/swd_rb24j;robot 24J <color=#ff6f00>AAM-IR</color>
 weapons/swd_rb24j/short;rb 24J
 weapons/swd_rb24j_default;robot 24J <color=#ff6f00>AAM-IR</color>
 weapons/swd_rb24j_default/short;rb 24J
-weapons/swd_120kg_sb_m71;"<color=@userlogColoredText>120 kg</color> 120 kg sprängbomb m/71 ""Virgo"" <color=#ff6f00>BMB</color>"
-weapons/swd_120kg_sb_m71/short;sb m/71
-weapons/swd_120kg_sb_m71_retarded;"<color=@userlogColoredText>120 kg</color> 120 kg sprängbomb m/71 ""Virgo"" (bombfallskärm m/61) <color=#ff6f00>BMB</color>"
-weapons/swd_120kg_sb_m71_retarded/short;sb m/71 (bfask m/61)
-weapons/swd_120kg_sb_m61;<color=@userlogColoredText>120 kg</color> 120 kg sprängbomb m/61 <color=#ff6f00>BMB</color>
-weapons/swd_120kg_sb_m61/short;sb m/61
-weapons/swd_50kg_sb_m37a;<color=@userlogColoredText>59 kg</color> 50 kg minbomb m/37AT <color=#ff6f00>BMB</color>
-weapons/swd_50kg_sb_m37a/short;mb m/37AT
-weapons/swd_50kg_sb_m42;<color=@userlogColoredText>50 kg</color> 50 kg sprängbomb m/42 <color=#ff6f00>BMB</color>
-weapons/swd_50kg_sb_m42/short;sb m/42
-weapons/swd_50kg_sb_m47;<color=@userlogColoredText>50 kg</color> 50 kg sprängbomb m/47 <color=#ff6f00>BMB</color>
-weapons/swd_50kg_sb_m47/short;sb m/47
-weapons/swd_250kg_minb_m37b;<color=@userlogColoredText>252 kg</color> 250 kg minbomb m/37BT <color=#ff6f00>BMB</color>
-weapons/swd_250kg_minb_m37b/short;mb m/37BT
-weapons/swd_250kg_minb_m40;<color=@userlogColoredText>230 kg</color> 250 kg minbomb m/40 <color=#ff6f00>BMB</color>
-weapons/swd_250kg_minb_m40/short;mb m/40
-weapons/swd_250kg_minb_m50;<color=@userlogColoredText>272.4 kg</color> 250 kg minbomb m/50 <color=#ff6f00>BMB</color>
-weapons/swd_250kg_minb_m50/short;mb m/50
-weapons/swd_500kg_minb_m41;<color=@userlogColoredText>513 kg</color> 500 kg minbomb m/41 <color=#ff6f00>BMB</color>
-weapons/swd_500kg_minb_m41/short;mb m/41
-weapons/swd_500kg_minb_m56;"<color=@userlogColoredText>500 kg</color> 500 kg minbomb m/56 ""Lyra"" <color=#ff6f00>BMB</color>"
-weapons/swd_500kg_minb_m56/short;mb m/56
-weapons/swd_600kg_minb_m50;"<color=@userlogColoredText>614.4 kg</color> 600 kg minbomb m/50 ""Hercules"" <color=#ff6f00>BMB</color>"
-weapons/swd_600kg_minb_m50/short;mb m/50
 weapons/fi_50kg_1938;50 Kg Model 1938 bomb
 weapons/fi_50kg_1938/short;50 Kg Model 1938
 weapons/fi_100kg_1938;100 Kg Model 1938 bomb

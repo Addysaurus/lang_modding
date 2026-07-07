@@ -41,6 +41,8 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Added calibers to the short names of Swedish rockets, bombs, and torpedoes.
+    - **Ki-148** → **Ki 148**. Statcard name → **I Gō 1 Gata Otsu Musen Yūdōdan | Ki 148**.
+        - Japanese package: **Ki-148** → **キ148**. Statcard name → **イ号一型乙無線誘導弾 | キ148**.
 
 ## 1.18.00 - 03-07-2026
 

@@ -1772,10 +1772,10 @@ uk_vickers_mk_11_0;"<color=#81c3fc>Vickers Defence Systems Mk. 11 Long Range Pat
 uk_vickers_mk_11_1;Vickers Mk. 11
 uk_vickers_mk_11_2;Long-Range Patrol Vehicle
 
-uk_vickers_mk7_shop;Vickers Mk. 7
-uk_vickers_mk7_0;<color=#81c3fc>Vickers Defence Systems <color=@commonTextColor>+</color> Krauss-Maffei Wegmann
-Mk. 7 Main Battle Tank</color>
-uk_vickers_mk7_1;Vickers Mk. 7
+uk_vickers_mk7_shop;Vickers Mk. 7/2
+uk_vickers_mk7_0;"<color=#81c3fc>Vickers Defence Systems <color=@commonTextColor>+</color> Krauss-Maffei Wegmann
+Mk. 7/2 Main Battle Tank</color>"
+uk_vickers_mk7_1;Vickers Mk. 7/2
 uk_vickers_mk7_2;MBT
 
 uk_fv438_swingfire_shop;Swingfire
@@ -2005,7 +2005,8 @@ uk_challenger_II_yt_cup_2019_1;␙ Challenger 2
 uk_challenger_II_yt_cup_2019_2;MBT
 
 uk_challenger_2_lep_shop;ATD Challenger 2
-uk_challenger_2_lep_0;<color=#81c3fc>Rheinmetall BAE Systems Land Advanced Technology Demonstrator Challenger 2 Platform</color>
+uk_challenger_2_lep_0;<color=#81c3fc>Rheinmetall BAE Systems Land
+Advanced Technology Demonstrator Challenger 2 Platform</color>
 uk_challenger_2_lep_1;Challenger 2
 uk_challenger_2_lep_2;MBT
 
@@ -2032,11 +2033,29 @@ Tank Technology Demonstrator</color>
 uk_ttd_1;TTD
 uk_ttd_2;MBT
 
+uk_desert_warrior_shop;Fāris
+uk_desert_warrior_0;"<color=#81c3fc>GKN</color>
+Fāris"
+uk_desert_warrior_1;Fāris
+uk_desert_warrior_2;IFV
+
+uk_stormer_air_defence_shop;Stormer Air Defense
+uk_stormer_air_defence_0;<color=#81c3fc>Alvis Stormer Air Defense</color>
+uk_stormer_air_defence_1;Stormer Air Defense
+uk_stormer_air_defence_2;SPAAG/M
+
 uk_9a33bm2_shop;☸ 9A33BM2
 uk_9a33bm2_0;"<color=#81c3fc>Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut</color>
 ☸ Boyevaâ mašina 9A33BM2 ""Osa-AK"""
 uk_9a33bm2_1;☸ 9A33BM2
 uk_9a33bm2_2;SPAA
+
+uk_stormer_hvm_shop;F.V.4333 (HVM)
+uk_stormer_hvm_0;"<color=#81c3fc>Alvis</color>
+<color=#5cae63>F.V.4333</color>
+Combat Vehicle, Carrier, Full Tracked, High Velocity Missile System"
+uk_stormer_hvm_1;F.V.4333 (HVM)
+uk_stormer_hvm_2;SPAAM
 
 uk_9a35_m_shop;☸ 9A35M
 uk_9a35_m_0;"☸ BM 9A35M ""Strela-10M"""

@@ -60,6 +60,9 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: Statcard name → **海軍航空技術廠 | 試製景雲改二二型 | R2Y2-G**.
     - **R2Y2-G (32 Gata)**: Statcard name → **Kaigun Kōkū Gijutsu Shō | Shisei Keiun Kai 32 Gata | R2Y2-G**.
         - Japanese package: Statcard name → **海軍航空技術廠 | 試製景雲改三二型 | R2Y2-G**.
+    - **Gu'ndiš**: Statcard name → **Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | Tomat Nem Z.S.U. 23X4 Gu'ndiš**.
+        - Hebrew package: Statcard name → **Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | גאנדיש 23 X4 Z.S.U. תומ״ת נ״מ**. I can't get it to appear right in the changelog but pretend that **גאנדיש** comes after **23X4 Z.S.U.**
+        - Hebrew + Russian package: Statcard name → **Мытищинский ордена Отечественной войны 1 степени машиностроительный завод | גאנדיש 23 X4 Z.S.U. תומ״ת נ״מ**.
 
 ### Weaponry:
 

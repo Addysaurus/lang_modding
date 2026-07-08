@@ -35,6 +35,31 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: **新TK3号 (2009)** → **新TK 3号**.
     - **10TK / Shin TK 3 Gō (2009)** (folder) → **10TK / Shin TK 3 Gō**.
         - Japanese package: **10TK / 新TK3号 (2009)** (folder) → **10TK / 新TK 3号**.
+    - **T-69 II G** (Bangladesh) → **Ṭi-69 II Ji**. Statcard name → **Nèiménggu Dì Yī Jīxiè Zhìzào Chang / 902 Sēnṭrāl Ōyārkśap IĒmI | Sājōyā Ṭānk Ṭi-69 II Ji**.
+        - Mandarin package: Statcard name → **内蒙古第一机械制造厂 / 902 Sēnṭrāl Ōyārkśap IĒmI | Sājōyā Ṭānk Ṭi-69 II Ji**.
+    - **VT5** (Bangladesh) → **Bhiṭi-5**. Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | Sājōyā Bhiṭi-5 Lāiṭa Ōyēṭa Mēin Bāṭēl Ṭānk**.
+        - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | Sājōyā Bhiṭi-5 Lāiṭa Ōyēṭa Mēin Bāṭēl Ṭānk**.
+    - **D3A1**: Statcard name → **Aichi Kōkūki AM-17 | 99 Shiki Kanjō Bakugekiki 11 Gata | D3A1**.
+        - Japanese package: Statcard name → **愛知航空機AM-17 | 九九式艦上爆撃機一一型 | D3A1**.
+    - **E13A1**: Statcard name → **Aichi Kōkūki AM-19 | 95 Shiki Suijō Teisatsuki 11 Gata | E13A1**.
+        - Japanese package: Statcard name → **愛知航空機AM-19 | 零式水上偵察機一一型 | E13A1**.
+    - **D4Y1**: Statcard name → **Aichi Kōkūki + Kaigun Kōkū Gijutsu Shō | Suisei 11 Gata | D4Y1**. The vehicle is named the D4**Y** for Yokosuka, but Aichi actually did most of the work so they get the primary manufacturer listing, and the Yokosuka arsenal is only now being listed as a secondary manufacturer.
+        - Japanese package: Statcard name → **愛知航空機 + 海軍航空技術廠 | 彗星一一型 | D4Y1**.
+    - **D4Y2**: Statcard name → **Aichi Kōkūki + Kaigun Kōkū Gijutsu Shō | Suisei 12 Gata | D4Y2**.
+        - Japanese package: Statcard name → **愛知航空機 + 海軍航空技術廠 | 彗星一二型 | D4Y2**.
+    - **D4Y3 Kō**: Statcard name → **Aichi Kōkūki + Kaigun Kōkū Gijutsu Shō | Suisei 33 Gata Kō | D4Y3 Kō**.
+        - Japanese package: Statcard name → **愛知航空機 + 海軍航空技術廠 | 彗星三三型甲 | D4Y3甲**.
+    - **B7A1 (NK9C)**: Statcard name → **Aichi Kōkūki AM-23 | Shisei Ryusei | B7A1 (NK9C)**.
+        - Japanese package: Statcard name → **愛知航空機AM-23 | 試製流星 | B7A1 (NK9C)**.
+    - **B7A2**: Statcard name → **Aichi Kōkūki AM-23 | Shisei Ryusei | B7A2**.
+        - Japanese package: Statcard name → **愛知航空機AM-23 | 試製流星 | B7A2**.
+    - **J7W1**: Statcard name → **Kaigun Kōkū Gijutsu Shō + Kyūshū Hikōki | 18 Shi Otsu Rikujō Sentōki | Shisei Shinden | J7W1**.
+    - **R2Y2-G (11 Gata)**: Statcard name → **Kaigun Kōkū Gijutsu Shō | Shisei Keiun Kai 11 Gata | R2Y2-G**.
+        - Japanese package: Statcard name → **海軍航空技術廠 | 試製景雲改一一型 | R2Y2-G**.
+    - **R2Y2-G (22 Gata)**: Statcard name → **Kaigun Kōkū Gijutsu Shō | Shisei Keiun Kai 22 Gata | R2Y2-G**.
+        - Japanese package: Statcard name → **海軍航空技術廠 | 試製景雲改二二型 | R2Y2-G**.
+    - **R2Y2-G (32 Gata)**: Statcard name → **Kaigun Kōkū Gijutsu Shō | Shisei Keiun Kai 32 Gata | R2Y2-G**.
+        - Japanese package: Statcard name → **海軍航空技術廠 | 試製景雲改三二型 | R2Y2-G**.
 
 ### Weaponry:
 

@@ -1877,12 +1877,12 @@ ZA-35 Self-Propelled Anti-Aircraft Gun System"
 uk_rooikat_za_35_1;ZA-35
 uk_rooikat_za_35_2;SPAAG
 
-uk_tracked_rapier_shop;RCM 748, Mk. 1B
+uk_tracked_rapier_shop;Tracked Rapier (1985)
 uk_tracked_rapier_0;"<color=#81c3fc>British Aircraft Corporation <color=@commonTextColor>/</color> FMC Corporation, Ordnance Engineering
 Division</color>
 Tracked Rapier Launcher Vehicle, RCM 748
 <color=#adadad>(1985)</color>"
-uk_tracked_rapier_1;RCM 748, Mk. 1
+uk_tracked_rapier_1;Tracked Rapier
 uk_tracked_rapier_2;SPAAM
 
 uk_rooikat_76_shop;Rooikat Mk 1D
@@ -1933,6 +1933,98 @@ uk_shir_2_1;Shir 2
 uk_shir_2_2;MBT
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+uk_challenger_1_shop;Challenger 1, Mk. 2
+uk_challenger_1_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4030/4</color>
+Tank, Combat, 120mm Gun, Challenger 1, Mk. 2"
+uk_challenger_1_1;Challenger 1
+uk_challenger_1_2;MBT
+
+uk_challenger_mk_3_shop;Challenger 1, Mk. 3
+uk_challenger_mk_3_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4030/4</color>
+Tank, Combat, 120mm Gun, Challenger 1, Mk. 3"
+uk_challenger_mk_3_1;Challenger 1
+uk_challenger_mk_3_2;MBT
+
+uk_challenger_1_mk_3_gulf_shop;Challenger 1, Mk. 3 (R.S.D.G.)
+uk_challenger_1_mk_3_gulf_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4030/4</color>
+Tank, Combat, 120mm Gun, Challenger 1, Mk. 3
+<color=@currencyGoldColor>Royal Scots Dragoon Guards</color>"
+uk_challenger_1_mk_3_gulf_1;Challenger 1
+uk_challenger_1_mk_3_gulf_2;MBT
+
+uk_challenger_II_shop;Challenger 2 (2E)
+uk_challenger_II_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+Tank, Combat, 120mm Gun, Challenger 2
+<color=#adadad>(Dorchester Level 2E) (2003)</color>"
+uk_challenger_II_1;Challenger 2
+uk_challenger_II_2;MBT
+
+uk_challenger_2_dorchester_shop;Challenger 2 (2F)
+uk_challenger_2_dorchester_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+Tank, Combat, 120mm Gun, Challenger 2
+<color=#adadad>(Dorchester Level 2F)</color>"
+uk_challenger_2_dorchester_1;Challenger 2
+uk_challenger_2_dorchester_2;MBT
+
+uk_challenger_2_tes_shop;Challenger 2 TES (2H) (2008)
+uk_challenger_2_tes_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard
+<color=#adadad>(Dorchester Level 2H) (2008)</color>"
+uk_challenger_2_tes_1;Challenger 2 TES
+uk_challenger_2_tes_2;MBT
+
+uk_challenger_2_megatron_shop;Challenger 2 TES (2H) (2011)
+uk_challenger_2_megatron_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard
+<color=#adadad>(Dorchester Level 2H) (2011)</color>"
+uk_challenger_2_megatron_1;Challenger 2 TES
+uk_challenger_2_megatron_2;MBT
+
+uk_challenger_2_megatron_sm_shop;◍ Emily's Challenger 2 TES (2H) (2011)
+uk_challenger_2_megatron_sm_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+◍ Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard
+<color=#adadad>(Dorchester Level 2H) (2011)</color>
+<color=@currencyGoldColor>Emily's</color>"
+uk_challenger_2_megatron_sm_1;◍ Challenger 2 TES
+uk_challenger_2_megatron_sm_2;MBT
+
+uk_challenger_II_yt_cup_2019_shop;␙ Challenger 2 (2E)
+uk_challenger_II_yt_cup_2019_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+␙ Tank, Combat, 120mm Gun, Challenger 2
+<color=#adadad>(Dorchester Level 2E) (2003)</color>"
+uk_challenger_II_yt_cup_2019_1;␙ Challenger 2
+uk_challenger_II_yt_cup_2019_2;MBT
+
+uk_challenger_2_lep_shop;ATD Challenger 2
+uk_challenger_2_lep_0;<color=#81c3fc>Rheinmetall BAE Systems Land Advanced Technology Demonstrator Challenger 2 Platform</color>
+uk_challenger_2_lep_1;Challenger 2
+uk_challenger_2_lep_2;MBT
+
+uk_challenger_2_bn_shop;"Challenger 2, Mk. 2 ""BN"""
+uk_challenger_2_bn_0;"<color=#81c3fc>Vickers Defence Systems <color=@commonTextColor>/</color> BAE Systems Land and Armaments</color>
+<color=#5cae63>F.V.4034</color>
+Tank, Combat, 120mm Gun, Challenger 2 ""Black Night""
+<color=#adadad>(Life Extension Program)</color>"
+uk_challenger_2_bn_1;"Challenger 2 ""BN"""
+uk_challenger_2_bn_2;MBT
+
+uk_challenger_2e_shop;Challenger 2E
+uk_challenger_2e_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+Tank, Combat, 120mm Gun, Challenger 2E
+<color=#adadad>(2003)</color>"
+uk_challenger_2e_1;Challenger 2E
+uk_challenger_2e_2;MBT
+
 uk_ttd_shop;TTD
 uk_ttd_0;"<color=#81c3fc>Reumech Olifant Manufacturing Company <color=@commonTextColor>+</color> Lyttleton Engineering Works
 Tank Technology Demonstrator</color>
@@ -1965,15 +2057,6 @@ uk_boxer_crv_block2_1;▄ Boxer CRV
 uk_boxer_crv_block2_2;CRV
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
-uk_challenger_2_megatron_sm_shop;◍ Emily's Challenger 2 TES (2H) (2011)
-uk_challenger_2_megatron_sm_0;"<color=#81c3fc>Vickers Defence Systems</color>
-<color=#5cae63>F.V.4034</color>
-◍ Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard
-<color=#adadad>(Dorchester Level 2H) (2011)</color>
-<color=@currencyGoldColor>Emily's</color>"
-uk_challenger_2_megatron_sm_1;◍ Challenger 2 TES
-uk_challenger_2_megatron_sm_2;MBT
-
 uk_m1a1_aim_abrams_shop;▄ M1A1 AIM SA
 uk_m1a1_aim_abrams_0;"<color=#81c3fc>General Dynamics Land Systems</color>
 ▄ Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams

@@ -1,18 +1,18 @@
-def translit_cyrillic(text):
-    transliteration_dict = {
+import re
+
+def translit_russian(text):
+    translit_dict = {
         'А' : "A",
         'Б' : 'B',
         'В' : 'V',
         'Г' : 'G',
         'Д' : 'D',
-        'Е' : 'Ye',
-        'Ё' : 'Ë',
-        'Є' : 'Ye',
+        'Е' : ['Ye', "'E"],
+        'Ё' : ['Yo', "'O"],
         'Ж' : 'Ž',
         'З' : 'Z',
-        'И' : 'I',
+        'И' : ['I', "'I"],
         'Й' : 'J',
-        'І' : 'Ì',
         'К' : 'K',
         'Л' : 'L',
         'М' : 'M',
@@ -23,42 +23,284 @@ def translit_cyrillic(text):
         'С' : 'S',
         'Т' : 'T',
         'У' : 'U',
-        'Ў' : 'Ŭ',
         'Ф' : 'F',
         'Х' : 'Kh',
-        'Ц' : 'Cz',
-        'Ч' : 'Č',
-        'Ш' : 'Š',
-        'Щ' : 'Ŝ',
+        'Ц' : 'Ts',
+        'Ч' : 'Ch',
+        'Ш' : 'Sh',
+        'Щ' : "Sh'",
         'Ъ' : '"',
         'Ы' : 'Y',
         'Ь' : "'",
-        'Э' : 'È',
-        'Ю' : 'Û',
-        'Я' : 'Â'
+        'Э' : 'E',
+        'Ю' : ['Yu', "'U"],
+        'Я' : ['Ya', "'A"]
     }
-    
-    text_list = list(text)
-    final_list = []
-    for i in text_list:
-        if i.isalpha():
-            if i.lower() in transliteration_dict.keys() or i.upper() in transliteration_dict.keys():
-                if i.islower():
-                    final_list.append(transliteration_dict[i.upper()].lower())
+
+    voice_pair = {
+        'П': 'Б',
+        'Ф': 'В',
+        'К': 'Г',
+        'Т': 'Д',
+        'Ш': 'Ж',
+        'С': 'З'
+    }
+
+    devoice_pair = {v : k for k, v in voice_pair.items()}
+
+    paired_voiced = set(devoice_pair.keys())  # Б В Г Д Ж З
+    paired_voiceless = set(voice_pair.keys()) # П Ф К Т Ш С
+    unpaired_voiceless = {'Х', 'Ц', 'Ч', 'Щ'}
+
+    def preserve_case(original, replacement):
+        return replacement if original.isupper() else replacement.lower()
+
+    def assimilate_clusters(text):
+        chars = list(text)
+        pattern = r'[БВГДЖЗПФКТШСХЦЧЩбвгджзпфктшсхцчщ]+'
+
+        for m in re.finditer(pattern, text):
+            start, end = m.span()
+            cluster = chars[start:end]
+
+            # Find the controlling final obstruent, ignoring В (V)
+            obstruent_final = None
+
+            for j in range(len(cluster) - 1, -1, -1):
+                c = cluster[j].upper()
+                obstruent_final = c
+                break
+
+            # If the entire cluster is just В/в
+            if obstruent_final is None:
+                continue
+
+            if obstruent_final in paired_voiced:
+                mode = "voice"
+            else:
+                mode = "devoice"
+
+            for j in range(len(cluster) - 1):
+                c = cluster[j]
+                u = c.upper()
+                
+                if mode == "voice":
+                    if u in voice_pair:
+                        chars[start + j] = preserve_case(c, voice_pair[u])
                 else:
-                    final_list.append(transliteration_dict[i])
-        else:
-            final_list.append(i)
-    for i in final_list:
-        if i.lower() == 'cz':
-            if final_list.index(i) > 0 and final_list[final_list.index(i) - 1].lower() not in ['i', 'e', 'y', 'j']:
-                if i[0].isupper():
-                    i = 'C'
-                else:
-                    i = 'c'
-    print(final_list)
-    print(''.join(final_list))
+                    if u in devoice_pair:
+                        chars[start + j] = preserve_case(c, devoice_pair[u])
+        return ''.join(chars)
+
+    def devoice_v(text):
+        # В --> Ф before a voiceless obstruent.
+        chars = list(text)
+
+        for i in range(len(chars) - 1):
+            if chars[i].upper() != 'В':
+                continue
+            nxt = chars[i + 1].upper()
+            if nxt in paired_voiceless or nxt in unpaired_voiceless:
+                chars[i] = preserve_case(chars[i], 'Ф')
+        return ''.join(chars)
+
+    def final_devoicing(text):
+        chars = list(text)
+
+        for m in re.finditer(r'[БВГДЖЗбвгджз]\b', text):
+            i = m.start()
+            c = chars[i]
+            chars[i] = preserve_case(c, devoice_pair[c.upper()])
+        return ''.join(chars)
+
+    def apply_russian_voicing(text):
+        text = assimilate_clusters(text)
+        text = devoice_v(text)
+        text = final_devoicing(text)
+        return text
     
+    def translit(text):
+        modified_voicing = list(apply_russian_voicing(text))
+        print(modified_voicing)
+        final_translit = []
+                
+        for idx, i in enumerate(modified_voicing):
+            if i.upper() not in translit_dict:
+                final_translit.append(i)
+                continue
+
+            if i.upper() in {'Е', 'Ё', 'И', 'Ю', 'Я'}:
+                if re.search(r'[БВГДЗПФКТСХЧбвгдзпфктсхч]', modified_voicing[idx - 1]):
+                    if i.isupper():
+                        final_translit.append(translit_dict[i.upper()][1].upper())
+                    else:
+                        final_translit.append(translit_dict[i.upper()][1].lower())
+                elif re.search(r'[Щщ]', modified_voicing[idx - 1]):
+                    if i.isupper():
+                        final_translit.append(translit_dict[i.upper()][1][1:].upper())
+                    else:
+                        final_translit.append(translit_dict[i.upper()][1][1:].lower())
+                elif modified_voicing[idx - 1].upper() == 'Ь':
+                    if i.isupper():
+                        final_translit.append(translit_dict[i.upper()][1][1:].upper())
+                    else:
+                        final_translit.append(translit_dict[i.upper()][1][1:].lower())
+                else:
+                    if i.isupper():
+                        final_translit.append(translit_dict[i.upper()][0])
+                    else:
+                        final_translit.append(translit_dict[i.upper()][0].lower())
+                continue
+
+            mapping = translit_dict[i.upper()]
+            final_translit.append(mapping if i.isupper() else mapping.lower())
+        
+        print(final_translit)
+        print(''.join(final_translit))
+        
+    translit(text)
+    
+def translit_ukrainian(text):
+    translit_dict = {
+        'А' : "A",
+        'Б' : 'B',
+        'В' : 'V',
+        'Г' : 'H',
+        'Ґ' : 'G',
+        'Д' : 'D',
+        'Е' : 'E',
+        'Є' : ['Ye', "'E"],
+        'Ж' : 'Ž',
+        'З' : 'Z',
+        'И' : 'Y',
+        'Й' : 'J',
+        'І' : ['I', "'I"],
+        'Ї' : 'Yi',
+        'К' : 'K',
+        'Л' : 'L',
+        'М' : 'M',
+        'Н' : 'N',
+        'О' : 'O',
+        'П' : 'P',
+        'Р' : 'R',
+        'С' : 'S',
+        'Т' : 'T',
+        'У' : 'U',
+        'Ф' : 'F',
+        'Х' : 'Kh',
+        'Ц' : 'Ts',
+        'Ч' : 'Ch',
+        'Ш' : 'Sh',
+        'Щ' : "Shch",
+        'Ь' : "'",
+        'Ю' : ['Yu', "'U"],
+        'Я' : ['Ya', "'A"]
+    }
+
+    voice_pair = {
+        'П': 'Б',
+        'Ф': 'В',
+        'Х': 'Г',
+        'К': 'Ґ',
+        'Т': 'Д',
+        'Ш': 'Ж',
+        'С': 'З',
+        'Ч': 'Дж',
+        'Ц': 'Дз'
+    }
+
+    devoice_pair = {v : k for k, v in voice_pair.items()}
+
+    paired_voiced = set(devoice_pair.keys())  # Б В Г Д Ж З
+    paired_voiceless = set(voice_pair.keys()) # П Ф К Т Ш С
+    unpaired_voiceless = {'Х', 'Ц', 'Ч', 'Щ'}
+
+    def preserve_case(original, replacement):
+        return replacement if original.isupper() else replacement.lower()
+
+    def assimilate_clusters(text):
+        chars = list(text)
+        pattern = r'[БВГДЖЗПФКТШСХЦЧЩбвгджзпфктшсхцчщ]+'
+
+        for m in re.finditer(pattern, text):
+            start, end = m.span()
+            cluster = chars[start:end]
+            obstruent_final = None
+            
+            for j in range(len(cluster) - 1, -1, -1):
+                c = cluster[j].upper()
+                if c == 'В':
+                    continue
+                obstruent_final = c
+                break
+
+            if obstruent_final is None:
+                continue
+
+            # Regressive voicing, but not regressive devoicing
+            if obstruent_final in paired_voiced:
+                for j in range(len(cluster) - 1):
+                    c = cluster[j]
+                    u = c.upper()
+
+                    if u in voice_pair:
+                        chars[start + j] = preserve_case(c, voice_pair[u])
+        return ''.join(chars)
+
+    def apply_ukrainian_voicing(text):
+        text = assimilate_clusters(text)
+        return text
+    
+    def translit(text):
+        modified_voicing = list(apply_ukrainian_voicing(text))
+        print(modified_voicing)
+        final_translit = []
+        
+        for idx, i in enumerate(modified_voicing):
+            if i.upper() not in translit_dict:
+                final_translit.append(i)
+                continue
+
+            if i.upper() in {'Є', 'І', 'Ю', 'Я'}:
+                if re.search(r'[БВГДЗПФКТСХЧЩбвгдзпфктсхчщ]', modified_voicing[idx - 1]):
+                    if i.isupper():
+                        final_translit.append(translit_dict[i.upper()][1].upper())
+                    else:
+                        final_translit.append(translit_dict[i.upper()][1].lower())
+                elif modified_voicing[idx - 1].upper() == 'Ь':
+                    if i.isupper():
+                        final_translit.append(translit_dict[i.upper()][1][1:].upper())
+                    else:
+                        final_translit.append(translit_dict[i.upper()][1][1:].lower())
+                else:
+                    if i.isupper():
+                        final_translit.append(translit_dict[i.upper()][0])
+                    else:
+                        final_translit.append(translit_dict[i.upper()][0].lower())
+                continue
+
+            # Determining whether В is pronounced as a V or a W.
+            if i.upper() == 'В':
+                if (
+                    idx == len(modified_voicing) - 1
+                    or re.search(
+                        r'[БВГДЖЗЙПФКТСХЧШЩбвгджзйпфктсхчшщ]',
+                        modified_voicing[idx + 1]
+                    )
+                ):
+                    final_translit.append('W' if i.isupper() else 'w')
+                else:
+                    final_translit.append('V' if i.isupper() else 'v')
+                continue
+
+            mapping = translit_dict[i.upper()]
+            final_translit.append(mapping if i.isupper() else mapping.lower())
+        
+        print(final_translit)
+        print(''.join(final_translit))
+        
+    translit(text)
+          
 def translit_hebrew(text):
     transliteration_dict = {
         'א' : "'",
@@ -122,161 +364,13 @@ def translit_hebrew(text):
             final_list.append(i)
     print(final_list)
     print(''.join(final_list))
-    
-# def translit_thai(text):
-#     # engine = 'iso_11940'
-#         # -*- coding: utf-8 -*-
-#     # SPDX-FileCopyrightText: 2016-2024 PyThaiNLP Project
-#     # SPDX-License-Identifier: Apache-2.0
-#     """
-#     Transliterating Thai text using ISO 11940
-
-#     :See Also:
-#         * `Wikipedia \
-#             <https://en.wikipedia.org/wiki/ISO_11940>`_
-#     """
-#     _consonants = {
-#         "ก": "k",
-#         "ข": "k̄h",
-#         "ฃ": "ḳ̄h",
-#         "ค": "kh",
-#         "ฅ": "k̛h",
-#         "ฆ": "ḳh",
-#         "ง": "ng",
-#         "จ": "j",
-#         "ฉ": "c̄h",
-#         "ช": "ch",
-#         "ซ": "s",
-#         "ฌ": "c̣h",
-#         "ญ": "ỵ",
-#         "ฎ": "ḍ",
-#         "ฏ": "ṭ",
-#         "ฐ": "ṭ̄h",
-#         "ฑ": "ṯh",
-#         "ฒ": "t̛h",
-#         "ณ": "ṇ",
-#         "ด": "d",
-#         "ต": "t",
-#         "ถ": "t̄h",
-#         "ท": "th",
-#         "ธ": "ṭh",
-#         "น": "n",
-#         "บ": "b",
-#         "ป": "p",
-#         "ผ": "p̄h",
-#         "ฝ": "f̄",
-#         "พ": "ph",
-#         "ฟ": "f",
-#         "ภ": "p̣h",
-#         "ม": "m",
-#         "ย": "y",
-#         "ร": "r",
-#         "ฤ": "v",
-#         "ล": "l",
-#         "ฦ": "ł",
-#         "ว": "w",
-#         "ศ": "ṣ̄",
-#         "ษ": "s̛̄",
-#         "ส": "s̄",
-#         "ห": "h̄",
-#         "ฬ": "ḷ",
-#         "อ": "x",
-#         "ฮ": "ḥ",
-#     }
-
-#     _vowels = {
-#         "ะ": "a",
-#         "ั": "ạ",
-#         "า": "ā",
-#         "ำ": "å",
-#         "ิ": "i",
-#         "ี": "ī",
-#         "ึ": "ụ",
-#         "ื": "ụ̄",
-#         "ุ": "u",
-#         "ู": "ū",
-#         "เ": "e",
-#         "แ": "æ",
-#         "โ": "o",
-#         "ใ": "ı",
-#         "ไ": "ị",
-#         "ฤ": "v",
-#         "ฤๅ": "vɨ",
-#         "ฦ": "ł",
-#         "ฦๅ": "łɨ",
-#         "ย": "y",
-#         "ว": "w",
-#         "อ": "x",
-#     }
-
-#     _tone_marks = {
-#         "่": "–̀".replace("–", ""),
-#         "้": "–̂".replace("–", ""),
-#         "๊": "–́".replace("–", ""),
-#         "๋": "–̌".replace("–", ""),
-#         "็": "–̆".replace("–", ""),
-#         "์": "–̒".replace("–", ""),
-#         "–๎".replace("–", ""): "~",
-#         "–ํ".replace("–", ""): "–̊".replace("–", ""),
-#         "–ฺ".replace("–", ""): "–̥".replace("–", ""),
-#     }
-
-#     _punctuation_and_digits = {
-#         # ฯ can has two meanings in ISO 11940.
-#         # If it is for abbrevation, it is paiyan noi.
-#         # If it is for sentence termination, it is angkhan diao.
-#         # Without semantic analysis, they cannot be distinguished from each other.
-#         # In this simple implementation, we decided to always treat ฯ as paiyan noi.
-#         # We commented out angkhan diao line to remove it from the dictionary
-#         # and avoid having duplicate keys.
-#         "ๆ": "«",
-#         "ฯ": "ǂ",  # paiyan noi: U+01C2 ǂ Alveolar Click; ICU uses ‡ (double dagger)
-#         "๏": "§",
-#         # "ฯ": "ǀ",  # angkhan diao: U+01C0 ǀ Dental Click; ICU uses | (vertical bar)
-#         "๚": "ǁ",  # angkhan khu: U+01C1 ǁ Lateral Click; ICU uses || (two vertical bars)
-#         "๛": "»",
-#         "๐": "0",
-#         "๑": "1",
-#         "๒": "2",
-#         "๓": "3",
-#         "๔": "4",
-#         "๕": "5",
-#         "๖": "6",
-#         "๗": "7",
-#         "๘": "8",
-#         "๙": "9",
-#     }
-
-#     _all_dict = {
-#         **_consonants,
-#         **_vowels,
-#         **_tone_marks,
-#         **_punctuation_and_digits,
-#     }
-#     _keys_set = _all_dict.keys()
-
-
-#     def transliterate(word: str) -> str:
-#         """
-#         Use ISO 11940 for transliteration
-#         :param str text: Thai text to be transliterated.
-#         :return: A string indicating how the text should be pronounced, according to ISO 11940.
-#         """
-#         _str = ""
-#         for i in word:
-#             if i in _keys_set:
-#                 _str += _all_dict[i]
-#             else:
-#                 _str += i
-#         return _str
-#     print(transliterate(text))
 
 while True:
     choice = input('''Select what operation you would like to perform:
                 
-    1. Cyrillic transliteration
-    2. Hebrew transliteration
-    3. Thai transliteration
+    1. Russian transliteration
+    2. Ukrainian transliteration
+    3. Hebrew transliteration
                    
     E. Exit
 
@@ -284,12 +378,12 @@ while True:
 
     if choice == '1':
         text = input('Enter the Russian text you would like to transliterate: ')
-        translit_cyrillic(text)
+        translit_russian(text)
     elif choice == '2':
+        text = input('Enter the Ukrainian text you would like to transliterate: ')
+        translit_ukrainian(text)
+    elif choice == '3':
         text = input('Enter the Hebrew text you would like to transliterate: ')
         translit_hebrew(text)
-    # elif choice == '3':
-    #     text = input('Enter the Thai text you would like to transliterate: ')
-    #     translit_thai(text)
     elif choice.upper() == 'E':
         break

@@ -49,7 +49,7 @@ engine_manufacturer/arsenal;Manufacturer: Arsenal
 engine_manufacturer/renault;Manufacturer: Renault
 engine_manufacturer/Renault;Manufacturer: Renault
 engine_manufacturer/tumansky;Manufacturer: Tumansky
-engine_manufacturer/IAR;Manufacturer: IAR
+engine_manufacturer/IAR;Manufacturer: Industria Aeronautică Română
 engine_manufacturer/honeywell;Manufacturer: Honeywell
 engine_manufacturer/perkins;Manufacturer: Perkins
 engine_manufacturer/mtu;Manufacturer: MTU
@@ -819,10 +819,6 @@ engine_model/ha_43_42;"
 Engine model: Ha-43-42"
 engine_model/ha9_IId;"
 Engine model: Ha-9-2B"
-engine_model/IAR-14KIVc32;"
-Engine model: IAR-14KIVc32"
-engine_model/IAR-14KIIc32;"
-Engine model: 14K II c32"
 engine_model/db_601f;"
 Engine model: DB-601F"
 engine_model/db_605b;"
@@ -1569,6 +1565,12 @@ Engine model: W.M.14 Kirs NO motor"
 
 engine_model/wm_k-14b;"
 Engine model: W.M.14 B motor"
+
+engine_model/IAR-14KIIc32;"
+Engine model: Motorul I.A.R. 14 K. II. c. 32"
+
+engine_model/IAR-14KIVc32;"
+Engine model: Motorul I.A.R. 14 K. IV. c. 32"
 
 engine_model/iveco_vector_8v;"
 Engine model: Vector 8V Euro III"

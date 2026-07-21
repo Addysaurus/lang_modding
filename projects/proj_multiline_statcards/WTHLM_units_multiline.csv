@@ -2588,11 +2588,11 @@ sm_79_1943_0;"▀ S.M.79bis/T.M Sparviero
 sm_79_1943_1;▀ S.M.79bis/T.M
 sm_79_1943_2;▀ S.M.79
 
-sm_79_iar_shop;▀ S.79-B
+sm_79_iar_shop;▀ S. 79 B
 sm_79_iar_0;"<color=#81c3fc>Savoia-Marchetti <color=@commonTextColor>/</color> Industria Aeronautică Română</color>
-▀ S.79-B"
-sm_79_iar_1;▀ S.79-B
-sm_79_iar_2;▀ S.79
+▀ Avionul S. 79 B"
+sm_79_iar_1;▀ S. 79 B
+sm_79_iar_2;▀ S. 79
 
 sm_79_1937_shop;▀ S.M.79 IV
 sm_79_1937_0;"▀ S.M.79 serie IV Sparviero
@@ -10083,11 +10083,31 @@ re_2000_heja_2_1;Héja II
 re_2000_heja_2_2;Héja
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+sm_79_iar_italy_shop;S. 79 B
+sm_79_iar_italy_0;"<color=#81c3fc>Savoia-Marchetti <color=@commonTextColor>/</color> Industria Aeronautică Română</color>
+Avionul S. 79 B"
+sm_79_iar_italy_1;S. 79 B
+sm_79_iar_italy_2;S. 79
+
 wm_23_shop;W.M.23
 wm_23_0;"<color=#81c3fc>Weiss Manfréd Acél- és Fémművek</color>
 W.M.23 Ezüst Nyíl vadászrepülőgép"
 wm_23_1;W.M.23
 wm_23_2;W.M.23
+
+iar_81c_shop;I.A.R. 81 C
+iar_81c_0;"<color=#81c3fc>Industria Aeronautică Română</color>
+Avionul I.A.R. 81 C"
+iar_81c_1;I.A.R. 81 C
+iar_81c_2;I.A.R. 81
+
+iar_81c_db_605_shop;I.A.R. 81 C (DB 605 A)
+iar_81c_db_605_0;"<color=#81c3fc>Industria Aeronautică Română</color>
+Avionul I.A.R. 81 C
+<color=#adadad>(DB 9-605 A)</color>
+<color=@currencyGoldColor>Nr. 326</color>"
+iar_81c_db_605_1;I.A.R. 81 C
+iar_81c_db_605_2;I.A.R. 81
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 me_210ca_1_hungary_shop;◐ Me 210 Ca-1
@@ -10185,12 +10205,12 @@ mig-17pf_hungary_0;"<color=#81c3fc>Gor'kovskij aviaczionnyj zavod im. S. Ordžon
 mig-17pf_hungary_1;◔ MiG-17PF
 mig-17pf_hungary_2;◔ MiG-17
 
-iar_93b_shop;I.A.R.93-B
+iar_93b_shop;I.A.R. 93 B
 iar_93b_0;"<color=#81c3fc>Avioane Craiova <color=@commonTextColor>+</color> Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo</color>
 <color=#ff8c80>YuRom</color>
-I.A.R.93-B Vultur"
-iar_93b_1;I.A.R.93-B
-iar_93b_2;I.A.R.93
+Avionul I.A.R. 93 B Vultur"
+iar_93b_1;I.A.R. 93 B
+iar_93b_2;I.A.R. 93
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 amx_shop;A-11A
@@ -10380,6 +10400,12 @@ it_2s1_0;"<color=#81c3fc>Kharkìvs'kij traktornij zavod (KhTZ)</color>
 ◔ 122 mm-es 2SZ1 önjáró tarack ""Gvozgyika"""
 it_2s1_1;◔ 2SZ1
 it_2s1_2;SPH
+
+it_fiat_6616_ub_shop;▂ Fiat 6616 (MK 20 DM 6 A1) (UB-16-57UMP)
+it_fiat_6616_ub_0;"<color=#81c3fc>▂ Fiat <color=@commonTextColor>+</color> OTO Melara Tipo 6616</color>
+<color=#adadad>(Maschinenkanone MK 20 DM 6 A1) (Univ'ersal'nyj blok UB-16-57UMP)</color>"
+it_fiat_6616_ub_1;▂ Fiat 6616
+it_fiat_6616_ub_2;Armored Car
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 it_c13_t90_shop;C 13 (T 90 CKL)
@@ -11305,12 +11331,12 @@ SA 316 B Alouette III"
 sa_316b_1;SA 316 B
 sa_316b_2;SA 316
 
-iar_316b_shop;I.A.R.316-B
+iar_316b_shop;I.A.R. 316 B
 iar_316b_0;"<color=#81c3fc>Société Nationale Industrielle Aérospatiale <color=@commonTextColor>/</color> Industria Aeronautică
 Română</color>
-I.A.R.316-B"
-iar_316b_1;I.A.R.316-B
-iar_316b_2;I.A.R.316
+Elicopterul I.A.R. 316 B"
+iar_316b_1;I.A.R. 316 B
+iar_316b_2;I.A.R. 316
 
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 
@@ -13324,6 +13350,13 @@ ak_12_0;"<color=#81c3fc>Konczyern «Kalašnikov»</color>
 <color=#adadad>(2020)</color>"
 ak_12_1;AK-12
 ak_12_2;Automatic Rifle
+
+ak_15_shop;AK-15
+ak_15_0;"<color=#81c3fc>Kontsyern «Kalashnikof»</color>
+<color=#5cae63>6P71</color>
+7,62-mm aftomat Kalashnikova AK-15"
+ak_15_1;AK-15
+ak_15_2;Automatic Rifle
 
 //UK GUNS - GUN/FAMILY START: RANK 6
 

@@ -698,6 +698,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Merlin-72** → **R.M. 8.S.M. | Merlin Mk. 72**.
     - **Merlin-73** → **R.M. 8.S.M. | Merlin Mk. 73**.
     - **Rolls-Royce R.M. 11S | Merlin Mk. 77** → **R.M. 11.S. | Merlin Mk. 77**.
+    - Reworked the format of engines so they do not have an extra newline when they really shouldn't.
 
 ## 1.17.04 - 6-05-2026
 

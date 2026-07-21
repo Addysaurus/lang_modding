@@ -29,7 +29,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **IAR-81C (DB 605)** → **I.A.R. 81 C (DB 605 A)**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C (DB 9-605 A)**.
+    - **IAR-81C (DB 605)** → **I.A.R. 81 C (DB 605 A)**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C (DB 9-605 A)**. Also omg thank you Violet for finding the site with full I.A.R. 80 technical documentation and manuals so I could finally have proper sources to lang mod Romanian stuff.
     - **FIAT 6616UB** → **Fiat 6616 (MK 20 DM 6 A1) (UB-16-57UMP)**. Statcard name → **Fiat + OTO Melara Tipo 6616 (Maschinenkanone MK 20 DM 6 A1) (Univ'ersal'nyj blok UB-16-57UMP)** (yes I know the name length is horrifying). WarTinder soapbox for a moment: this vehicle is incorrectly flagged. It is flagged with the flag of Somalia, even though it belongs to the functionally independent country of Somaliland in the northern part of what Somalia claims as its territory. Gaijin originally said it was a vehicle from Somaliland, then changed the announcement. This should be flagged with Somaliland, and shame on Gaijin for listing it as from Somalia.
     - **I.A.R.81-C** → **I.A.R. 81 C**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C**.
     - **I.A.R.93-B** → **I.A.R. 93 B**. Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | Avionul I.A.R. 93 B Vultur**.

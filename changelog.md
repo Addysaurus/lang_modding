@@ -31,15 +31,18 @@ All dates are listed in DD-MM-YYYY format.
 
     - **IAR-81C (DB 605)** → **I.A.R. 81 C (DB 605 A)**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C (DB 9-605 A)**. Also omg thank you Violet for finding the site with full I.A.R. 80 technical documentation and manuals so I could finally have proper sources to lang mod Romanian stuff.
     - **FIAT 6616UB** → **Fiat 6616 (MK 20 DM 6 A1) (UB-16-57UMP)**. Statcard name → **Fiat + OTO Melara Tipo 6616 (Maschinenkanone MK 20 DM 6 A1) (Univ'ersal'nyj blok UB-16-57UMP)** (yes I know the name length is horrifying). WarTinder soapbox for a moment: this vehicle is incorrectly flagged. It is flagged with the flag of Somalia, even though it belongs to the functionally independent country of Somaliland in the northern part of what Somalia claims as its territory. Gaijin originally said it was a vehicle from Somaliland, then changed the announcement. This should be flagged with Somaliland, and shame on Gaijin for listing it as from Somalia.
-    - **I.A.R.81-C** → **I.A.R. 81 C**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C**.
-    - **I.A.R.93-B** → **I.A.R. 93 B**. Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | Avionul I.A.R. 93 B Vultur**.
-    - **I.A.R.316-B** → **I.A.R. 316 B**. Statcard name → **Société Nationale Industrielle Aérospatiale / Industria Aeronautică Română | Elicopterul I.A.R. 316 B**.
-    - **S.79-B** (Germany / Romania & Italy / Romania) → **S. 79 B**. Statcard name → **Savoia-Marchetti / Industria Aeronautică Română | Avionul S. 79 B**.
+    - Romanian air rework (?):
+        - **I.A.R.81-C** → **I.A.R. 81 C**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C**.
+        - **I.A.R.93-B** → **I.A.R. 93 B**. Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | Avionul I.A.R. 93 B Vultur**.
+        - **I.A.R.316-B** → **I.A.R. 316 B**. Statcard name → **Société Nationale Industrielle Aérospatiale / Industria Aeronautică Română | Elicopterul I.A.R. 316 B**.
+        - **S.79-B** (Germany / Romania & Italy / Romania) → **S. 79 B**. Statcard name → **Savoia-Marchetti / Industria Aeronautică Română | Avionul S. 79 B**.
+        - **He 112 B-2/U2** (Germany / Romania): Statcard name → **Heinkel Flugzeugwerke | Avionul He 112 B-2/U2**.
+        - **He 112 B-1/U2** (Italy / Romania): Statcard name → **Heinkel Flugzeugwerke | Avionul He 112 B-1/U2**.
+        - **MiG-29 Sniper** (Italy / Romania): Statcard name → **Mikoân i Guryevič / Aerostar + Elbit Systems MiG-29 Sniper**.
     - **F/A18 C** (Germany / Switzerland) → **F/A-18C (RP 08)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System | F/A18 C Hornet (Rüstungsprogramm 2008)**.
     - Corrected the spacing of the letter variants in the statcard names of the **Magaḥ**s.
     - **B-29A-45-BN** (nuke) (UK) → **Washington B. Mk. 1**. Statcard name → **Boeing Airplane Company Model 345 | Washington B. Mk. 1**.
     - **Garford**: Statcard name → **Garford Motor Truck Company / Putilovskij zavod | Bronirovannyj 4-tonnyj avtomobil' "Garford"**.
-    - **Pz.Kpfw. 748 (a)**: Statcard name → **Grand Blanc Tank Plant | Panzerkampfwagen M 4 Ausf. C | Panzerkampfwagen 748 (a)**.
     - **Shin TK 3 Gō (2006)** → **Shin TK 3 Gō (transport)**.
         - Japanese package: **新TK3号 (2006)** → **新TK 3号 (transport)**.
     - **Shin TK 3 Gō (2009)** → **Shin TK 3 Gō**.

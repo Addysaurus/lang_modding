@@ -1467,6 +1467,7 @@ shop/group/uk_chieftain_mk_10_900_group;Chieftain, Mk. 10 / 900
 shop/group/uk_challenger_comet_group;Challenger, Mk. I / Comet
 shop/group/uk_cromwell_sherman_group;Cromwell, Mk. V / I / Sherman, Mk. II
 shop/group/uk_caernarvon_conqueror_group;Caernarvon / Conqueror
+shop/group/uk_scimitar_fox_group;Scimitar / Fox
 shop/group/uk_challenger_group;Challenger 1, Mk. 2 / 3
 shop/group/uk_challenger_2_group;Challenger 2 (2E) / (2F) / TES
 shop/group/uk_challenger_bn_e_group;"Challenger 2, Mk. 2 ""BN"" / 2E"
@@ -6534,6 +6535,10 @@ uk_vickers_gbt_155_1;SP 155
 uk_vickers_gbt_155_2;SPH
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+uk_fv107_scimitar_mk2_shop;Scimitar, Mk. 2 (TES) (ROPS)
+uk_fv107_scimitar_mk2_0;Alvis / BAE Systems Land and Armaments, Hadley Castle Works + Defence Support Group, Donnington | F.V.107 | Combat Vehicle, Reconnaissance, Full Tracked, Scimitar, Mk. 2 (Theatre Entry Standard) (Roll Over Protection System)
+uk_fv107_scimitar_mk2_1;Scimitar, Mk. 2
+uk_fv107_scimitar_mk2_2;IFV
 uk_centurion_mk_3_ss11_shop;▄ strv 81 (C III) (rb 52A)
 uk_centurion_mk_3_ss11_0;▄ Royal Ordnance Factory, Leeds | stridsvagn 81 (C III) (robot 52A)
 uk_centurion_mk_3_ss11_1;▄ strv 81
@@ -11804,7 +11809,7 @@ uk_fv721_fox_2;Light Tank
 uk_fv107_scimitar_shop;Scimitar
 uk_fv107_scimitar_0;Alvis | F.V.107 | Combat Vehicle, Reconnaissance, Tracked, 30mm Gun, Scimitar
 uk_fv107_scimitar_1;Scimitar
-uk_fv107_scimitar_2;IFV
+uk_fv107_scimitar_2;IFV\
 uk_fv438_swingfire_shop;Swingfire
 uk_fv438_swingfire_0;Launcher, Guided Missile, Carrier Mounted, Full Tracked, Swingfire
 uk_fv438_swingfire_1;Swingfire

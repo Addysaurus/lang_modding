@@ -26,11 +26,13 @@ All dates are listed in DD-MM-YYYY format.
 
     - **IAR-81C (DB 605)**
     - **FIAT 6616UB**
+    - **Scimitar Mk.2**
 
 - #### Changes:
 
     - **IAR-81C (DB 605)** → **I.A.R. 81 C (DB 605 A)**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C (DB 9-605 A)**. Also omg thank you Violet for finding the site with full I.A.R. 80 technical documentation and manuals so I could finally have proper sources to lang mod Romanian stuff.
     - **FIAT 6616UB** → **Fiat 6616 (MK 20 DM 6 A1) (UB-16-57UMP)**. Statcard name → **Fiat + OTO Melara Tipo 6616 (Maschinenkanone MK 20 DM 6 A1) (Univ'ersal'nyj blok UB-16-57UMP)** (yes I know the name length is horrifying). WarTinder soapbox for a moment: this vehicle is incorrectly flagged. It is flagged with the flag of Somalia, even though it belongs to the functionally independent country of Somaliland in the northern part of what Somalia claims as its territory. Gaijin originally said it was a vehicle from Somaliland, then changed the announcement. This should be flagged with Somaliland, and shame on Gaijin for listing it as from Somalia.
+    - **Scimitar Mk.2** → **Scimitar, Mk. 2 (TES) (ROPS)**. Statcard name → **Alvis / BAE Systems Land and Armaments, Hadley Castle Works + Defence Support Group, Donnington | F.V.107 | Combat Vehicle, Reconnaissance, Full Tracked, Scimitar, Mk. 2 (Theatre Entry Standard) (Roll Over Protection System)**. Yes I know the name is horribly long and doesn't match the format of the tech tree **Scimitar**. Multiline and the UK rework of every British thing coming very soon.
     - Romanian air rework (?):
         - **I.A.R.81-C** → **I.A.R. 81 C**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C**.
         - **I.A.R.93-B** → **I.A.R. 93 B**. Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | Avionul I.A.R. 93 B Vultur**.
@@ -77,6 +79,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Gu'ndiš**: Statcard name → **Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | Tomat Nem Z.S.U. 23X4 Gu'ndiš**.
         - Hebrew package: Statcard name → **Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | גאנדיש 23 X4 Z.S.U. תומ״ת נ״מ**. I can't get it to appear right in the changelog but pretend that **גאנדיש** comes after **23X4 Z.S.U.**
         - Hebrew + Russian package: Statcard name → **Мытищинский ордена Отечественной войны 1 степени машиностроительный завод | גאנדיש 23 X4 Z.S.U. תומ״ת נ״מ**.
+    - **Scimitar/Fox** (folder) → **Scimitar / Fox**.
 
 ### Weaponry:
 
@@ -121,6 +124,16 @@ All dates are listed in DD-MM-YYYY format.
         - Original Country Names package: **Yiśrā'ēl** → **Yisrā'ēl**.
     - **Thailand**
         - Original Country Names package: **Prathet̄hịy** → **Bprathēt Thaiy**. This is in accordance with our new Thai transliteration system. We forgot to move the country name over to it.
+
+### Skins:
+
+- #### Additions:
+
+    - **Parade camouflage** (for the **Fiat 6616 (MK 20 DM 6 A1) (UB-16-57UMP)**)
+
+- #### Changes:
+
+    - Reworked the name and description for the **Parade camouflage** for the **Fiat 6616 (MK 20 DM 6 A1) (UB-16-57UMP)** to make it clear that the vehicle and camouflage are from Somaliland, not Somalia. Here war War Tinder Incorporated, we support the right to self-determination for people across the world, so we recognize Somaliland as independent.
 
 ## 1.18.00 - 03-07-2026
 

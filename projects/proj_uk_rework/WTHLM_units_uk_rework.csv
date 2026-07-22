@@ -9,6 +9,7 @@ shop/group/uk_g6_tortoise_group;GV6 Mk 1 / Tortoise
 shop/group/uk_fv510_zt3_group;Warrior / Ratel ZT3-A2
 shop/group/uk_vickers_olifant_group;Vickers Mk. 3 / Olifant Mk 1A
 shop/group/uk_vickers_rooikat_group;Vickers Mk. 11 / Rooikat Mk 1D
+shop/group/uk_challenger_2_group;Challenger 2 (2E) / (2F) / (TES)
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 fury_mk1_shop;Fury Mk. I
@@ -1797,9 +1798,18 @@ uk_falcon_2;SPAAG
 uk_fv107_scimitar_shop;Scimitar
 uk_fv107_scimitar_0;"<color=#81c3fc>Alvis</color>
 <color=#5cae63>F.V.107</color>
-Combat Vehicle, Reconnaissance, Tracked, 30mm Gun, Scimitar"
+Combat Vehicle, Reconnaissance, Full Tracked, Scimitar"
 uk_fv107_scimitar_1;Scimitar
 uk_fv107_scimitar_2;IFV
+
+uk_fv107_scimitar_mk2_shop;Scimitar, Mk. 2 (TES) (ROPS)
+uk_fv107_scimitar_mk2_0;"<color=#81c3fc>Alvis <color=@commonTextColor>/</color> BAE Systems Land and Armaments, Hadley Castle Works <color=@commonTextColor>+</color> Defence
+Support Group, Donnington</color>
+<color=#5cae63>F.V.107</color>
+Combat Vehicle, Reconnaissance, Full Tracked, Scimitar, Mk. 2
+<color=#adadad>(Theatre Entry Standard) (Roll Over Protection System)</color>"
+uk_fv107_scimitar_mk2_1;Scimitar, Mk. 2
+uk_fv107_scimitar_mk2_2;IFV
 
 uk_fv721_fox_shop;Fox
 uk_fv721_fox_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
@@ -1979,29 +1989,29 @@ Tank, Combat, 120mm Gun, Challenger 2
 uk_challenger_2_dorchester_1;Challenger 2
 uk_challenger_2_dorchester_2;MBT
 
-uk_challenger_2_tes_shop;Challenger 2 TES (2H) (2008)
+uk_challenger_2_tes_shop;Challenger 2 (TES) (2H) (2008)
 uk_challenger_2_tes_0;"<color=#81c3fc>Vickers Defence Systems</color>
 <color=#5cae63>F.V.4034</color>
-Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard
-<color=#adadad>(Dorchester Level 2H) (2008)</color>"
-uk_challenger_2_tes_1;Challenger 2 TES
+Tank, Combat, 120mm Gun, Challenger 2
+<color=#adadad>(Theatre Entry Standard) (Dorchester Level 2H) (2008)</color>"
+uk_challenger_2_tes_1;Challenger 2 (TES)
 uk_challenger_2_tes_2;MBT
 
-uk_challenger_2_megatron_shop;Challenger 2 TES (2H) (2011)
+uk_challenger_2_megatron_shop;Challenger 2 (TES) (2H) (2011)
 uk_challenger_2_megatron_0;"<color=#81c3fc>Vickers Defence Systems</color>
 <color=#5cae63>F.V.4034</color>
-Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard
-<color=#adadad>(Dorchester Level 2H) (2011)</color>"
-uk_challenger_2_megatron_1;Challenger 2 TES
+Tank, Combat, 120mm Gun, Challenger 2
+<color=#adadad>(Theatre Entry Standard) (Dorchester Level 2H) (2011)</color>"
+uk_challenger_2_megatron_1;Challenger 2 (TES)
 uk_challenger_2_megatron_2;MBT
 
-uk_challenger_2_megatron_sm_shop;◍ Emily's Challenger 2 TES (2H) (2011)
+uk_challenger_2_megatron_sm_shop;◍ Emily's Challenger 2 (TES) (2H) (2011)
 uk_challenger_2_megatron_sm_0;"<color=#81c3fc>Vickers Defence Systems</color>
 <color=#5cae63>F.V.4034</color>
-◍ Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard
-<color=#adadad>(Dorchester Level 2H) (2011)</color>
+◍ Tank, Combat, 120mm Gun, Challenger 2
+<color=#adadad>(Theatre Entry Standard) (Dorchester Level 2H) (2011)</color>
 <color=@currencyGoldColor>Emily's</color>"
-uk_challenger_2_megatron_sm_1;◍ Challenger 2 TES
+uk_challenger_2_megatron_sm_1;◍ Challenger 2 (TES)
 uk_challenger_2_megatron_sm_2;MBT
 
 uk_challenger_II_yt_cup_2019_shop;␙ Challenger 2 (2E)

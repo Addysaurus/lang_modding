@@ -9,6 +9,7 @@ shop/group/uk_g6_tortoise_group;GV6 Mk 1 / Tortoise
 shop/group/uk_fv510_zt3_group;Warrior / Ratel ZT3-A2
 shop/group/uk_vickers_olifant_group;Vickers Mk. 3 / Olifant Mk 1A
 shop/group/uk_vickers_rooikat_group;Vickers Mk. 11 / Rooikat Mk 1D
+shop/group/uk_challenger_2_group;Challenger 2 (2E) / (2F) / (TES)
 
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 fury_mk1_shop;Fury Mk. I
@@ -169,7 +170,7 @@ Hurricane F.B. Mk. IV"
 hurricane_mk4_1;Hurricane F.B. Mk. IV
 hurricane_mk4_2;Hurricane
 
-hurricane_mk1_late_ep_shop;Hurricane Mk. I
+hurricane_mk1_late_ep_shop;Hurricane Mk. I (1940) (800 Sqn.)
 hurricane_mk1_late_ep_0;"<color=#81c3fc>Hawker Aircraft</color>
 Hurricane Mk. I
 <color=#adadad>(1940)</color>
@@ -751,7 +752,7 @@ swift_f1_1;Swift F. Mk. 1
 swift_f1_2;Swift
 
 swift_f7_shop;Swift F. Mk. 7
-swift_f7_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 545</color>
+swift_f7_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 552</color>
 Swift F. Mk. 7"
 swift_f7_1;Swift F. Mk. 7
 swift_f7_2;Swift
@@ -1326,6 +1327,27 @@ Tank, Medium, Sherman, Mk. II"
 uk_sherman_II_1;Sherman, Mk. II
 uk_sherman_II_2;Medium Tank
 
+uk_sherman_vc_firefly_shop;Sherman, Mk. Vc
+uk_sherman_vc_firefly_0;"<color=#81c3fc>Chrysler Corporation <color=@commonTextColor>/</color> Royal Ordnance Factory, Nottingham</color>
+Tank, Medium, Sherman, Mk. Vc ""Firefly"""
+uk_sherman_vc_firefly_1;Sherman, Mk. V
+uk_sherman_vc_firefly_2;Medium Tank
+
+uk_sherman_vc_firefly_kit_3rank_shop;"Sherman, Mk. Vc ""Echoes of Overlord"""
+uk_sherman_vc_firefly_kit_3rank_0;"<color=#81c3fc>Chrysler Corporation <color=@commonTextColor>/</color> Royal Ordnance Factory, Nottingham</color>
+Tank, Medium, Sherman, Mk. Vc ""Firefly""
+<color=@currencyGoldColor>""Echoes of Overlord""</color>"
+uk_sherman_vc_firefly_kit_3rank_1;Sherman, Mk. V
+uk_sherman_vc_firefly_kit_3rank_2;Medium Tank
+
+uk_sherman_ic_firefly_shop;⋠ Sherman, Mk. Ic (2. Dy.Pan.)
+uk_sherman_ic_firefly_0;"<color=#81c3fc>Chrysler Corporation <color=@commonTextColor>/</color> Royal Ordnance Factory, Nottingham</color>
+⋠ Tank, Medium, Sherman, Mk. Ic ""Firefly""
+<color=@currencyGoldColor>2. Warszawska Dywizja Pancerna, 2. Warszawska Brygada Pancerna, 4. Pułk
+Pancerny ""Skorpion"", 1. Szwadron, ""Trzyniec""</color>"
+uk_sherman_ic_firefly_1;⋠ Sherman, Mk. Ic
+uk_sherman_ic_firefly_2;Medium Tank
+
 uk_valentine_mk_1_shop;Valentine, Mk. I
 uk_valentine_mk_1_0;"<color=#81c3fc>Vickers-Armstrongs</color>
 Tank, Infantry, Mk. III, Valentine, Mk. I"
@@ -1406,13 +1428,15 @@ uk_3_inch_gun_carrier_1;3-in Gun, Mk. I
 uk_3_inch_gun_carrier_2;SPG
 
 uk_17_pdr_m10_achilles_shop;Achilles, Mk. Ic
-uk_17_pdr_m10_achilles_0;"<color=#81c3fc>Grand Blanc Tank Plant <color=@commonTextColor>/</color> Royal Arsenal</color>
+uk_17_pdr_m10_achilles_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant
+<color=@commonTextColor>/</color> Royal Arsenal</color>
 17-pdr, Self-Propelled, Achilles, Mk. Ic ""Firefly"""
 uk_17_pdr_m10_achilles_1;Achilles, Mk. I
 uk_17_pdr_m10_achilles_2;SPG
 
 uk_17_pdr_m10_achilles_norfolk_yeomanry_shop;Achilles, Mk. Ic (65th AT.Reg.)
-uk_17_pdr_m10_achilles_norfolk_yeomanry_0;"<color=#81c3fc>Grand Blanc Tank Plant <color=@commonTextColor>/</color> Royal Arsenal</color>
+uk_17_pdr_m10_achilles_norfolk_yeomanry_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant
+<color=@commonTextColor>/</color> Royal Arsenal</color>
 17-pdr, Self-Propelled, Achilles, Mk. Ic ""Firefly""
 <color=@currencyGoldColor>65th Anti-Tank Regiment Royal Artillery</color>"
 uk_17_pdr_m10_achilles_norfolk_yeomanry_1;Achilles, Mk. I
@@ -1482,18 +1506,24 @@ uk_ram_90mm_aa_1;Ram, Mk. II (3.7-inch)
 uk_ram_90mm_aa_2;SPG
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
-uk_sherman_vc_firefly_shop;Sherman, Mk. Vc
-uk_sherman_vc_firefly_0;"<color=#81c3fc>Chrysler Corporation <color=@commonTextColor>/</color> Royal Ordnance Factory Nottingham</color>
-Tank, Medium, Sherman, Mk. Vc ""Firefly"""
-uk_sherman_vc_firefly_1;Sherman, Mk. V
-uk_sherman_vc_firefly_2;Medium Tank
+uk_a30_challenger_shop;Challenger, Mk. I
+uk_a30_challenger_0;"<color=#81c3fc>Birmingham Railway Carriage and Wagon Company</color>
+Tank, Cruiser, A.30, Challenger, Mk. I"
+uk_a30_challenger_1;Challenger, Mk. I
+uk_a30_challenger_2;Cruiser Tank
 
-uk_sherman_vc_firefly_kit_3rank_shop;"Sherman, Mk. Vc ""Echoes of Overlord"""
-uk_sherman_vc_firefly_kit_3rank_0;"<color=#81c3fc>Chrysler Corporation <color=@commonTextColor>/</color> Royal Ordnance Factory Nottingham</color>
-Tank, Medium, Sherman, Mk. Vc ""Firefly""
-<color=@currencyGoldColor>""Echoes of Overlord""</color>"
-uk_sherman_vc_firefly_kit_3rank_1;Sherman, Mk. V
-uk_sherman_vc_firefly_kit_3rank_2;Medium Tank
+uk_a_34_comet_shop;Comet, Mk. Ia
+uk_a_34_comet_0;"<color=#81c3fc>Leyland Motors</color>
+Tank, Cruiser, Mk. VIII, A.34, Comet, Mk. Ia"
+uk_a_34_comet_1;Comet, Mk. Ia
+uk_a_34_comet_2;Cruiser Tank
+
+uk_a_34_comet_iron_duke_shop;Comet, Mk. Ia (7th Arm.Div.)
+uk_a_34_comet_iron_duke_0;"<color=#81c3fc>Leyland Motors</color>
+Tank, Cruiser, Mk. VIII, A.34, Comet, Mk. Ia
+<color=@currencyGoldColor>7th Armoured Division, ""Iron Duke IV""</color>"
+uk_a_34_comet_iron_duke_1;Comet, Mk. Ia
+uk_a_34_comet_iron_duke_2;Cruiser Tank
 
 uk_m44_shop;Cardinal
 uk_m44_0;"<color=#81c3fc>Massey-Harris</color>
@@ -1534,30 +1564,149 @@ Test Bed 8x8, Concept 3"
 uk_concept3_ngac_1;Concept 3
 uk_concept3_ngac_2;Light Tank
 
+uk_a_33_excelsior_shop;Commodore
+uk_a_33_excelsior_0;"<color=#81c3fc>The English Electric Company</color>
+Tank, Heavy Assault, A.33/B, Commodore"
+uk_a_33_excelsior_1;Commodore
+uk_a_33_excelsior_2;Heavy Assult Tank
+
+uk_tog_2_shop;T.O.G. 2*
+uk_tog_2_0;"<color=#81c3fc>William Foster & Co.</color>
+T.O.G. 2*"
+uk_tog_2_1;T.O.G. 2*
+uk_tog_2_2;Super Heavy Tank
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+uk_centurion_mk_1_shop;Centurion, Mk. I*
+uk_centurion_mk_1_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4007</color>
+Tank, Cruiser, A.41, Centurion, Mk. I*"
+uk_centurion_mk_1_1;Centurion, Mk. I*
+uk_centurion_mk_1_2;MBT
+
+uk_centurion_mk_3_shop;Centurion, Mk. 3
+uk_centurion_mk_3_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4007</color>
+Tank, Medium Gun, Centurion, Mk. 3"
+uk_centurion_mk_3_1;Centurion, Mk. 3
+uk_centurion_mk_3_2;MBT
+
+uk_centurion_mk_2_shop;Centurion, Mk. II
+uk_centurion_mk_2_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4007</color>
+Tank, Cruiser, A.41A, Centurion, Mk. II"
+uk_centurion_mk_2_1;Centurion, Mk. II
+uk_centurion_mk_2_2;MBT
+
+uk_centurion_mk_3_ss11_shop;▄ strv 81 (C III) (rb 52A)
+uk_centurion_mk_3_ss11_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#919191>stridsvagn C III</color>
+▄ stridsvagn 81
+<color=#adadad>(robot 52A)</color>"
+uk_centurion_mk_3_ss11_1;▄ strv 81
+uk_centurion_mk_3_ss11_2;MBT
+
+uk_centurion_action_x_shop;Centurion, Mk. 7 (CMT)
+uk_centurion_action_x_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4007</color>
+Tank, Medium Gun, Centurion, Mk. 7
+<color=#adadad>(Centurion Mantletless Turret)</color>"
+uk_centurion_action_x_1;Centurion, Mk. 7
+uk_centurion_action_x_2;MBT
+
+uk_centurion_mk_10_shop;Centurion, Mk. 10
+uk_centurion_mk_10_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4017</color>
+Tank, Medium Gun, Centurion, Mk. 10"
+uk_centurion_mk_10_1;Centurion, Mk. 10
+uk_centurion_mk_10_2;MBT
+
+uk_centurion_mk_5_raac_shop;Centurion, Mk. 5/1 (R.A.A.C.)
+uk_centurion_mk_5_raac_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4011</color>
+Tank, Medium Gun, Centurion, Mk. 5/1
+<color=@currencyGoldColor>Royal Australian Armoured Corps</color>"
+uk_centurion_mk_5_raac_1;Centurion, Mk. 5/1
+uk_centurion_mk_5_raac_2;MBT
+
+uk_centurion_mk_5_avre_era_shop;Centurion, Mk. 5 AVRE
+uk_centurion_mk_5_avre_era_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4003</color>
+Tank, Assault Vehicle, Royal Engineers, 165mm Gun, Centurion, Mk. 5"
+uk_centurion_mk_5_avre_era_1;Centurion, Mk. 5 AVRE
+uk_centurion_mk_5_avre_era_2;Combat Engineering Vehicle
+
+uk_fv4004_conway_shop;Conway
+uk_fv4004_conway_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds <color=@commonTextColor>/</color> Chubb Fire & Security</color>
+<color=#5cae63>F.V.4004</color>
+Tank, Heavy Gun, Conway"
+uk_fv4004_conway_1;Conway
+uk_fv4004_conway_2;SPG
+
+uk_charioteer_mk_7_shop;Charioteer, Mk. 7f
+uk_charioteer_mk_7_0;"<color=#81c3fc>Birmingham Railway Carriage and Wagon Company <color=@commonTextColor>/</color> Robinson and
+Kershaw</color>
+<color=#5cae63>F.V.4101</color>
+Tank, Medium Gun, Charioteer, Mk. 7f"
+uk_charioteer_mk_7_1;Charioteer, Mk. 7f
+uk_charioteer_mk_7_2;Medium Tank
+
+uk_fv4202_shop;F.V.4202
+uk_fv4202_0;"<color=#81c3fc>Leyland Motors</color>
+<color=#5cae63>F.V.4202</color>"
+uk_fv4202_1;F.V.4202
+uk_fv4202_2;Medium Tank
+
 uk_fv4005_shop;Centaur
-uk_fv4005_0;"<color=#5cae63>F.V.4005</color>
+uk_fv4005_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4005</color>
 Tank, Heavy Gun, Stage II, Centaur"
 uk_fv4005_1;Centaur
 uk_fv4005_2;SPG
 
 uk_m109a1_shop;▄ M109A1
-uk_m109a1_0;"<color=#5cae63>G-296</color>
+uk_m109a1_0;"<color=#81c3fc>General Motors Company</color>
 ▄ Howitzer, Medium, Self-Propelled, 155mm, M109A1"
 uk_m109a1_1;▄ M109A1
 uk_m109a1_2;SPG
-
-uk_as_90_mk_2_shop;L131
-uk_as_90_mk_2_0;"<color=#81c3fc>Vickers Shipbuilding and Engineering</color>
-Gun Equipment, 155 mm, L131"
-uk_as_90_mk_2_1;L131
-uk_as_90_mk_2_2;SPH
 
 uk_g6_spg_shop;GV6 Mk 1
 uk_g6_spg_0;"<color=#81c3fc>Sandock-Austral <color=@commonTextColor>+</color> Lyttelton Engineering Works G6-45</color>
 GV6 Mk 1 155 mm Self-Propelled Gun-Howitzer ""Renoster"""
 uk_g6_spg_1;GV6 Mk 1
 uk_g6_spg_2;SPH
+
+uk_a39_tortoise_shop;Tortoise
+uk_a39_tortoise_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
+Tank, Heavy Assault, A.39E1, Tortoise"
+uk_a39_tortoise_1;Tortoise
+uk_a39_tortoise_2;Heavy Assult Tank
+
+uk_as_90_mk_2_shop;L131
+uk_as_90_mk_2_0;"<color=#81c3fc>Vickers Shipbuilding and Engineering</color>
+<color=#ff8c80>Artillery System for the 1990s</color>
+Gun Equipment, 155 mm, L131"
+uk_as_90_mk_2_1;L131
+uk_as_90_mk_2_2;SPH
+
+uk_skink_aa_shop;Skink
+uk_skink_aa_0;"<color=#81c3fc>Montreal Locomotive Works <color=@commonTextColor>/</color> Dominion Foundries and Steel</color>
+Tank, Anti-Aircraft, 20mm, Quad, Skink"
+uk_skink_aa_1;Skink
+uk_skink_aa_2;SPAAG
+
+us_skink_aa_kit_3rank_shop;"▃ Skink ""Hell on Wheels"""
+us_skink_aa_kit_3rank_0;"<color=#81c3fc>Montreal Locomotive Works <color=@commonTextColor>/</color> Dominion Foundries and Steel</color>
+▃ Tank, Anti-Aircraft, 20mm, Quad, Skink
+<color=@currencyGoldColor>""Hell on Wheels""</color>"
+us_skink_aa_kit_3rank_1;▃ Skink
+us_skink_aa_kit_3rank_2;SPAA
+
+us_skink_aa_shop;▃ Skink
+us_skink_aa_0;"<color=#81c3fc>Montreal Locomotive Works <color=@commonTextColor>/</color> Dominion Foundries and Steel</color>
+▃ Tank, Anti-Aircraft, 20mm, Quad, Skink"
+us_skink_aa_1;▃ Skink
+us_skink_aa_2;SPAA
 
 uk_ratel_90_shop;Ratel 90 Mk 3
 uk_ratel_90_0;"<color=#81c3fc>Sandock-Austral <color=@commonTextColor>/</color> Lyttelton Engineering Works</color>
@@ -1590,21 +1739,118 @@ uk_vickers_gbt_155_0;<color=#81c3fc>Vickers Shipbuilding and Engineering SP 155<
 uk_vickers_gbt_155_1;SP 155
 uk_vickers_gbt_155_2;SPH
 
+uk_a_43_black_prince_shop;Black Prince
+uk_a_43_black_prince_0;"<color=#81c3fc>Vauxhall Motors</color>
+Tank, Infantry, A.43E1, Black Prince"
+uk_a_43_black_prince_1;Black Prince
+uk_a_43_black_prince_2;Infantry Tank
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
-uk_centurion_mk_3_ss11_shop;▄ strv 81 (C III) (rb 52A)
-uk_centurion_mk_3_ss11_0;"Royal Ordnance Factory, Leeds
-<color=#919191>stridsvagn C III</color>
-▄ stridsvagn 81
-<color=#adadad>(robot 52A)</color>"
-uk_centurion_mk_3_ss11_1;▄ strv 81
-uk_centurion_mk_3_ss11_2;MBT
+uk_fv221_caernarvon_shop;Caernarvon, Mk. 2
+uk_fv221_caernarvon_0;"<color=#81c3fc>Royal Ordnance Factory, Dalmuir</color>
+<color=#5cae63>F.V.221</color>
+Tank, Medium Gun, Caernarvon, Mk. 2"
+uk_fv221_caernarvon_1;Caernarvon, Mk. 2
+uk_fv221_caernarvon_2;Heavy Tank
+
+uk_conqueror_mk_2_shop;Conqueror, Mk. 2
+uk_conqueror_mk_2_0;"<color=#81c3fc>Royal Ordnance Factory, Dalmuir</color>
+<color=#5cae63>F.V.214</color>
+Tank, Heavy No. 1, 120 mm gun, Conqueror, Mk. 2"
+uk_conqueror_mk_2_1;Conqueror, Mk. 2
+uk_conqueror_mk_2_2;Heavy Tank
+
+uk_vickers_mbt_mk_1_shop;Vickers Mk. 1
+uk_vickers_mbt_mk_1_0;<color=#81c3fc>Vickers-Armstrongs Mk. 1 Main Battle Tank</color>
+uk_vickers_mbt_mk_1_1;Vickers Mk. 1
+uk_vickers_mbt_mk_1_2;MBT
+
+uk_vickers_mbt_mk_3_shop;Vickers Mk. 3
+uk_vickers_mbt_mk_3_0;<color=#81c3fc>Vickers-Armstrongs Mk. 3 Main Battle Tank</color>
+uk_vickers_mbt_mk_3_1;Vickers Mk. 3
+uk_vickers_mbt_mk_3_2;MBT
+
+uk_vickers_mk_11_shop;Vickers Mk. 11
+uk_vickers_mk_11_0;"<color=#81c3fc>Vickers Defence Systems Mk. 11 Long Range Patrol Vehicle ""Viper""</color>"
+uk_vickers_mk_11_1;Vickers Mk. 11
+uk_vickers_mk_11_2;Long-Range Patrol Vehicle
+
+uk_vickers_mk7_shop;Vickers Mk. 7/2
+uk_vickers_mk7_0;"<color=#81c3fc>Vickers Defence Systems <color=@commonTextColor>+</color> Krauss-Maffei Wegmann
+Mk. 7/2 Main Battle Tank</color>"
+uk_vickers_mk7_1;Vickers Mk. 7/2
+uk_vickers_mk7_2;MBT
+
+uk_fv438_swingfire_shop;Swingfire
+uk_fv438_swingfire_0;"<color=#81c3fc>Guest, Keen and Nettlefolds <color=@commonTextColor>/</color> Fairey Engineering <color=@commonTextColor>+</color> British Aircraft
+Corporation</color>
+<color=#5cae63>F.V.438</color>
+Launcher, Guided Missile, Carrier Mounted, Full Tracked, Swingfire"
+uk_fv438_swingfire_1;Swingfire
+uk_fv438_swingfire_2;ATMC
+
+uk_falcon_shop;Falcon
+uk_falcon_0;<color=#81c3fc>Guest, Keen and Nettlefolds <color=@commonTextColor>/</color> Vickers-Armstrongs
+Falcon Anti-Aircraft Gun System</color>
+uk_falcon_1;Falcon
+uk_falcon_2;SPAAG
+
+uk_fv107_scimitar_shop;Scimitar
+uk_fv107_scimitar_0;"<color=#81c3fc>Alvis</color>
+<color=#5cae63>F.V.107</color>
+Combat Vehicle, Reconnaissance, Full Tracked, Scimitar"
+uk_fv107_scimitar_1;Scimitar
+uk_fv107_scimitar_2;IFV
+
+uk_fv107_scimitar_mk2_shop;Scimitar, Mk. 2 (TES)
+uk_fv107_scimitar_mk2_0;"<color=#81c3fc>Alvis <color=@commonTextColor>/</color> BAE Systems Land and Armaments, Hadley Castle Works <color=@commonTextColor>+</color> Defence
+Support Group, Donnington</color>
+<color=#5cae63>F.V.107</color>
+Combat Vehicle, Reconnaissance, Full Tracked, Scimitar, Mk. 2
+<color=#adadad>(Theatre Entry Standard)</color>"
+uk_fv107_scimitar_mk2_1;Scimitar, Mk. 2
+uk_fv107_scimitar_mk2_2;IFV
+
+uk_fv721_fox_shop;Fox
+uk_fv721_fox_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.721</color>
+Combat Vehicle, Reconnaissance, Wheeled, 30mm Gun, Fox"
+uk_fv721_fox_1;Fox
+uk_fv721_fox_2;Armoured Car
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+uk_chieftain_mk_3_shop;Chieftain, Mk. 3
+uk_chieftain_mk_3_0;"<color=#81c3fc>British Leyland Motor Corporation</color>
+<color=#5cae63>F.V.4201</color>
+Tank, Combat, 120mm Gun, Chieftain, Mk. 3"
+uk_chieftain_mk_3_1;Chieftain
+uk_chieftain_mk_3_2;MBT
+
+uk_chieftain_mk_5_shop;Chieftain, Mk. 5
+uk_chieftain_mk_5_0;"<color=#81c3fc>British Leyland Motor Corporation</color>
+<color=#5cae63>F.V.4201</color>
+Tank, Combat, 120mm Gun, Chieftain, Mk. 5"
+uk_chieftain_mk_5_1;Chieftain
+uk_chieftain_mk_5_2;MBT
+
+uk_chieftain_mk_10_shop;Chieftain, Mk. 10
+uk_chieftain_mk_10_0;"<color=#81c3fc>British Leyland Motor Corporation</color>
+<color=#5cae63>F.V.4201</color>
+Tank, Combat, 120mm Gun, Chieftain, Mk. 10"
+uk_chieftain_mk_10_1;Chieftain, Mk. 10
+uk_chieftain_mk_10_2;MBT
+
 uk_chieftain_900_shop;Chieftain 900
 uk_chieftain_900_0;"<color=#81c3fc>British Leyland Motor Corporation <color=@commonTextColor>/</color> Royal Ordnance Factories
 Chieftain 900</color>"
 uk_chieftain_900_1;Chieftain 900
 uk_chieftain_900_2;MBT
+
+uk_chieftain_marksman_shop;Chieftain Mk. 10 Marksman
+uk_chieftain_marksman_0;"<color=#81c3fc>British Leyland Motor Corporation <color=@commonTextColor>/</color> Marconi Company
+Chieftain Mk. 10 Marksman</color>"
+uk_chieftain_marksman_1;Chieftain Mk. 10 Marksman
+uk_chieftain_marksman_2;SPAAG
 
 uk_olifant_mk_1a_shop;Olifant Mk 1A
 uk_olifant_mk_1a_0;"<color=#81c3fc>Olifant Manufacturing Company</color>
@@ -1620,6 +1866,21 @@ Olifant Mk 2 Main Battle Tank"
 uk_olifant_mk_2_1;Olifant Mk 2
 uk_olifant_mk_2_2;MBT
 
+uk_fv510_isv_shop;Warrior
+uk_fv510_isv_0;"<color=#81c3fc>GKN</color>
+<color=#ff8c80>Mechanised Combat Vehicle for the 1980s</color>
+<color=#5cae63>F.V.520</color>
+Combat Vehicle, Infantry Section, Tracked, Warrior"
+uk_fv510_isv_1;Warrior
+uk_fv510_isv_2;IFV
+
+uk_fv102_striker_shop;Striker
+uk_fv102_striker_0;"<color=#81c3fc>Alvis</color>
+<color=#5cae63>F.V.102</color>
+Launcher, Guided Missile, Carrier Mounted, Full Tracked, Striker"
+uk_fv102_striker_1;Striker
+uk_fv102_striker_2;ATMC
+
 uk_rooikat_za_35_shop;ZA-35
 uk_rooikat_za_35_0;"<color=#81c3fc>Sandock-Austral <color=@commonTextColor>/</color> Armaments Corporation of South Africa <color=@commonTextColor>+</color> Lyttelton
 Engineering Works <color=@commonTextColor>+</color> Kentron <color=@commonTextColor>+</color> Electronics System Development</color>
@@ -1628,10 +1889,12 @@ ZA-35 Self-Propelled Anti-Aircraft Gun System"
 uk_rooikat_za_35_1;ZA-35
 uk_rooikat_za_35_2;SPAAG
 
-uk_tracked_rapier_shop;RCM 748, Mk. 1B
-uk_tracked_rapier_0;"<color=#81c3fc>British Aircraft Corporation</color>
-Tracked Rapier Launcher Vehicle, RCM 748, Mk. 1B"
-uk_tracked_rapier_1;RCM 748, Mk. 1
+uk_tracked_rapier_shop;Tracked Rapier (1985)
+uk_tracked_rapier_0;"<color=#81c3fc>British Aircraft Corporation <color=@commonTextColor>/</color> FMC Corporation, Ordnance Engineering
+Division</color>
+Tracked Rapier Launcher Vehicle, RCM 748
+<color=#adadad>(1985)</color>"
+uk_tracked_rapier_1;Tracked Rapier
 uk_tracked_rapier_2;SPAAM
 
 uk_rooikat_76_shop;Rooikat Mk 1D
@@ -1640,6 +1903,12 @@ uk_rooikat_76_0;"<color=#81c3fc>Sandock-Austral <color=@commonTextColor>/</color
 Rooikat Mk 1D Armoured Car"
 uk_rooikat_76_1;Rooikat Mk 1D
 uk_rooikat_76_2;Armoured Car
+
+uk_rooikat_mttd_shop;MTTD
+uk_rooikat_mttd_0;"<color=#81c3fc>Sandock-Austral <color=@commonTextColor>/</color> Denel Land Systems Medium Turret Technology
+Demonstrator</color>"
+uk_rooikat_mttd_1;MTTD
+uk_rooikat_mttd_2;Armoured Car
 
 uk_rooikat_105_td_shop;Rooikat 105 (MP Mk 2)
 uk_rooikat_105_td_0;"<color=#81c3fc>Sandock-Austral <color=@commonTextColor>/</color> Lyttelton Engineering Works <color=@commonTextColor>/</color> Reumech Olifant
@@ -1656,19 +1925,125 @@ Badger Infantry Combat Vehicle Section Variant"
 uk_badger_1;Badger SV
 uk_badger_2;IFV
 
-uk_rooikat_mttd_shop;MTTD
-uk_rooikat_mttd_0;"<color=#81c3fc>Sandock-Austral <color=@commonTextColor>/</color> Denel Land Systems Medium Turret Technology
-Demonstrator</color>"
-uk_rooikat_mttd_1;MTTD
-uk_rooikat_mttd_2;Armoured Car
+uk_vfm_5_shop;VFM5
+uk_vfm_5_0;<color=#81c3fc>Vickers Defense Systems <color=@commonTextColor>+</color> FMC Corporation Mk. 5 Battle Tank</color>
+uk_vfm_5_1;VFM5
+uk_vfm_5_2;Light Tank
+
+uk_khalid_shop;Khālid
+uk_khalid_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+Dabābeh Khālid"
+uk_khalid_1;Khālid
+uk_khalid_2;MBT
 
 uk_centurion_shot_kal_d_shop;▄ Šoṭ Kal D
-uk_centurion_shot_kal_d_0;"<color=#81c3fc>Royal Ordnance Factory Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
+uk_centurion_shot_kal_d_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
 ▄ Ṭank Šoṭ Kal Dalet"
 uk_centurion_shot_kal_d_1;▄ Šoṭ Kal D
 uk_centurion_shot_kal_d_2;MBT
 
+uk_shir_2_shop;Shir 2
+uk_shir_2_0;"<color=#81c3fc>Military Vehicles and Engineering Establishment <color=@commonTextColor>+</color> Royal Ordnance
+Factory, Leeds</color>
+<color=#5cae63>F.V.4030/3</color>
+Shir 2"
+uk_shir_2_1;Shir 2
+uk_shir_2_2;MBT
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+uk_challenger_1_shop;Challenger 1, Mk. 2
+uk_challenger_1_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4030/4</color>
+Tank, Combat, 120mm Gun, Challenger 1, Mk. 2"
+uk_challenger_1_1;Challenger 1
+uk_challenger_1_2;MBT
+
+uk_challenger_mk_3_shop;Challenger 1, Mk. 3
+uk_challenger_mk_3_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4030/4</color>
+Tank, Combat, 120mm Gun, Challenger 1, Mk. 3"
+uk_challenger_mk_3_1;Challenger 1
+uk_challenger_mk_3_2;MBT
+
+uk_challenger_1_mk_3_gulf_shop;Challenger 1, Mk. 3 (R.S.D.G.)
+uk_challenger_1_mk_3_gulf_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#5cae63>F.V.4030/4</color>
+Tank, Combat, 120mm Gun, Challenger 1, Mk. 3
+<color=@currencyGoldColor>Royal Scots Dragoon Guards</color>"
+uk_challenger_1_mk_3_gulf_1;Challenger 1
+uk_challenger_1_mk_3_gulf_2;MBT
+
+uk_challenger_II_shop;Challenger 2 (2E)
+uk_challenger_II_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+Tank, Combat, 120mm Gun, Challenger 2
+<color=#adadad>(Dorchester Level 2E) (2003)</color>"
+uk_challenger_II_1;Challenger 2
+uk_challenger_II_2;MBT
+
+uk_challenger_2_dorchester_shop;Challenger 2 (2F)
+uk_challenger_2_dorchester_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+Tank, Combat, 120mm Gun, Challenger 2
+<color=#adadad>(Dorchester Level 2F)</color>"
+uk_challenger_2_dorchester_1;Challenger 2
+uk_challenger_2_dorchester_2;MBT
+
+uk_challenger_2_tes_shop;Challenger 2 (TES) (2H) (2008)
+uk_challenger_2_tes_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+Tank, Combat, 120mm Gun, Challenger 2
+<color=#adadad>(Theatre Entry Standard) (Dorchester Level 2H) (2008)</color>"
+uk_challenger_2_tes_1;Challenger 2 (TES)
+uk_challenger_2_tes_2;MBT
+
+uk_challenger_2_megatron_shop;Challenger 2 (TES) (2H) (2011)
+uk_challenger_2_megatron_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+Tank, Combat, 120mm Gun, Challenger 2
+<color=#adadad>(Theatre Entry Standard) (Dorchester Level 2H) (2011)</color>"
+uk_challenger_2_megatron_1;Challenger 2 (TES)
+uk_challenger_2_megatron_2;MBT
+
+uk_challenger_2_megatron_sm_shop;◍ Emily's Challenger 2 (TES) (2H) (2011)
+uk_challenger_2_megatron_sm_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+◍ Tank, Combat, 120mm Gun, Challenger 2
+<color=#adadad>(Theatre Entry Standard) (Dorchester Level 2H) (2011)</color>
+<color=@currencyGoldColor>Emily's</color>"
+uk_challenger_2_megatron_sm_1;◍ Challenger 2 (TES)
+uk_challenger_2_megatron_sm_2;MBT
+
+uk_challenger_II_yt_cup_2019_shop;␙ Challenger 2 (2E)
+uk_challenger_II_yt_cup_2019_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+␙ Tank, Combat, 120mm Gun, Challenger 2
+<color=#adadad>(Dorchester Level 2E) (2003)</color>"
+uk_challenger_II_yt_cup_2019_1;␙ Challenger 2
+uk_challenger_II_yt_cup_2019_2;MBT
+
+uk_challenger_2_lep_shop;ATD Challenger 2
+uk_challenger_2_lep_0;<color=#81c3fc>Rheinmetall BAE Systems Land
+Advanced Technology Demonstrator Challenger 2 Platform</color>
+uk_challenger_2_lep_1;Challenger 2
+uk_challenger_2_lep_2;MBT
+
+uk_challenger_2_bn_shop;"Challenger 2, Mk. 2 ""BN"""
+uk_challenger_2_bn_0;"<color=#81c3fc>Vickers Defence Systems <color=@commonTextColor>/</color> BAE Systems Land and Armaments</color>
+<color=#5cae63>F.V.4034</color>
+Tank, Combat, 120mm Gun, Challenger 2 ""Black Night""
+<color=#adadad>(Life Extension Program)</color>"
+uk_challenger_2_bn_1;"Challenger 2 ""BN"""
+uk_challenger_2_bn_2;MBT
+
+uk_challenger_2e_shop;Challenger 2E
+uk_challenger_2e_0;"<color=#81c3fc>Vickers Defence Systems</color>
+<color=#5cae63>F.V.4034</color>
+Tank, Combat, 120mm Gun, Challenger 2E
+<color=#adadad>(2003)</color>"
+uk_challenger_2e_1;Challenger 2E
+uk_challenger_2e_2;MBT
+
 uk_ttd_shop;TTD
 uk_ttd_0;"<color=#81c3fc>Reumech Olifant Manufacturing Company <color=@commonTextColor>+</color> Lyttleton Engineering Works
 Tank Technology Demonstrator</color>
@@ -1676,11 +2051,29 @@ Tank Technology Demonstrator</color>
 uk_ttd_1;TTD
 uk_ttd_2;MBT
 
+uk_desert_warrior_shop;Fāris
+uk_desert_warrior_0;"<color=#81c3fc>GKN</color>
+Fāris"
+uk_desert_warrior_1;Fāris
+uk_desert_warrior_2;IFV
+
+uk_stormer_air_defence_shop;Stormer Air Defense
+uk_stormer_air_defence_0;<color=#81c3fc>Alvis Stormer Air Defense</color>
+uk_stormer_air_defence_1;Stormer Air Defense
+uk_stormer_air_defence_2;SPAAG/M
+
 uk_9a33bm2_shop;☸ 9A33BM2
 uk_9a33bm2_0;"<color=#81c3fc>Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut</color>
 ☸ Boyevaâ mašina 9A33BM2 ""Osa-AK"""
 uk_9a33bm2_1;☸ 9A33BM2
 uk_9a33bm2_2;SPAA
+
+uk_stormer_hvm_shop;F.V.4333 (HVM)
+uk_stormer_hvm_0;"<color=#81c3fc>Alvis</color>
+<color=#5cae63>F.V.4333</color>
+Combat Vehicle, Carrier, Full Tracked, High Velocity Missile System"
+uk_stormer_hvm_1;F.V.4333 (HVM)
+uk_stormer_hvm_2;SPAAM
 
 uk_9a35_m_shop;☸ 9A35M
 uk_9a35_m_0;"☸ BM 9A35M ""Strela-10M"""
@@ -1701,15 +2094,6 @@ uk_boxer_crv_block2_1;▄ Boxer CRV
 uk_boxer_crv_block2_2;CRV
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
-uk_challenger_2_megatron_sm_shop;◍ Emily's Challenger 2 TES (2H) (2011)
-uk_challenger_2_megatron_sm_0;"<color=#81c3fc>Vickers Defence Systems</color>
-<color=#5cae63>F.V.4034</color>
-◍ Tank, Combat, 120mm Gun, Challenger 2 Theater Entry Standard
-<color=#adadad>(Dorchester Level 2H) (2011)</color>
-<color=@currencyGoldColor>Emily's</color>"
-uk_challenger_2_megatron_sm_1;◍ Challenger 2 TES
-uk_challenger_2_megatron_sm_2;MBT
-
 uk_m1a1_aim_abrams_shop;▄ M1A1 AIM SA
 uk_m1a1_aim_abrams_0;"<color=#81c3fc>General Dynamics Land Systems</color>
 ▄ Tank, Combat, Full Tracked: 120mm Gun, M1A1 Abrams, Abrams

@@ -399,6 +399,24 @@ nt_a_6e_tram_1;A-6E
 nt_a_6e_tram_2;A-6
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16a_block_10_shop;F-16A-15OCU-CF
+f_16a_block_10_0;"<color=#81c3fc>General Dynamics Corporation</color>
+F-16A-15OCU-CF Fighting Falcon"
+f_16a_block_10_1;F-16A
+f_16a_block_10_2;F-16
+
+f_16a_block_15_adf_shop;F-16A-15ADF-CF
+f_16a_block_15_adf_0;"<color=#81c3fc>General Dynamics Corporation</color>
+F-16A-15ADF-CF Fighting Falcon"
+f_16a_block_15_adf_1;F-16A
+f_16a_block_15_adf_2;F-16
+
+f_16a_block_15_adf_killstreak_shop;☢ F-16A-15ADF-CF
+f_16a_block_15_adf_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
+☢ F-16A-15ADF-CF Fighting Falcon"
+f_16a_block_15_adf_killstreak_1;☢ F-16A
+f_16a_block_15_adf_killstreak_2;☢ F-16
+
 f_16c_block_52_aesa_shop;F-16C-52Q-MC (PoBIT)
 f_16c_block_52_aesa_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
 F-16C-52Q-MC Fighting Falcon
@@ -1149,8 +1167,8 @@ us_m60a1_rise_mod_1;M60A1 R/PE
 us_m60a1_rise_mod_2;MBT
 
 us_m60a3_slep_shop;☪ M60 AMBT
-us_m60a3_slep_0;"<color=#81c3fc>☪ StandartBio <color=@commonTextColor>+</color> L3 Combat Propulsion Systems M60 Affordable Main
-Battle Tank</color>"
+us_m60a3_slep_0;"<color=#81c3fc>StandartBio <color=@commonTextColor>+</color> L3 Combat Propulsion Systems
+☪ M60 Affordable Main Battle Tank</color>"
 us_m60a3_slep_1;☪ M60 AMBT
 us_m60a3_slep_2;MBT
 
@@ -2174,7 +2192,7 @@ he_112b_1_2;◐ He 112
 
 he_112b_2_shop;╏ He 112 B-2/U2
 he_112b_2_0;"<color=#81c3fc>Heinkel Flugzeugwerke</color>
-╏ He 112 B-2/U2"
+╏ Avionul He 112 B-2/U2"
 he_112b_2_1;╏ He 112 B
 he_112b_2_2;╏ He 112
 
@@ -2588,11 +2606,11 @@ sm_79_1943_0;"▀ S.M.79bis/T.M Sparviero
 sm_79_1943_1;▀ S.M.79bis/T.M
 sm_79_1943_2;▀ S.M.79
 
-sm_79_iar_shop;▀ S.79-B
+sm_79_iar_shop;▀ S. 79 B
 sm_79_iar_0;"<color=#81c3fc>Savoia-Marchetti <color=@commonTextColor>/</color> Industria Aeronautică Română</color>
-▀ S.79-B"
-sm_79_iar_1;▀ S.79-B
-sm_79_iar_2;▀ S.79
+▀ Avionul S. 79 B"
+sm_79_iar_1;▀ S. 79 B
+sm_79_iar_2;▀ S. 79
 
 sm_79_1937_shop;▀ S.M.79 IV
 sm_79_1937_0;"▀ S.M.79 serie IV Sparviero
@@ -3028,6 +3046,12 @@ und System</color>
 <color=#adadad>(Rüstungsprogramm 2008)</color>"
 fa_18c_switzerland_1;◌ F/A18 C
 fa_18c_switzerland_2;◌ F/A18
+
+f_16a_block_15_adf_germany_killstreak_shop;☢◄ F-16A-15ADF-CF
+f_16a_block_15_adf_germany_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
+☢◄ F-16A-15ADF-CF Fighting Falcon"
+f_16a_block_15_adf_germany_killstreak_1;☢◄ F-16A
+f_16a_block_15_adf_germany_killstreak_2;☢◄ F-16
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 9
 ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
@@ -3567,7 +3591,7 @@ germ_kv_1_kwk_40_1;▀ s.Pz.Kpfw. 756 (r)
 germ_kv_1_kwk_40_2;Heavy Tank
 
 us_m4a2_1944_germ_shop;▀ Pz.Kpfw. 748 (a)
-us_m4a2_1944_germ_0;"<color=#81c3fc>Grand Blanc Tank Plant</color>
+us_m4a2_1944_germ_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant</color>
 <color=#7ce68f>Panzerkampfwagen M 4 Ausf. C</color>
 ▀ Panzerkampfwagen 748 (a)"
 us_m4a2_1944_germ_1;▀ Pz.Kpfw. 748 (a)
@@ -4164,20 +4188,6 @@ mig_25pd_1;MiG-25PD
 mig_25pd_2;MiG-25
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-mig_29_9_12_shop;MiG-29 (9-12)
-mig_29_9_12_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye</color>
-<color=#5cae63>izd. 9-12</color>
-Samolyot MiG-29"
-mig_29_9_12_1;MiG-29
-mig_29_9_12_2;MiG-29
-
-mig_29m_9_15_shop;MiG-29M
-mig_29m_9_15_0;"<color=#81c3fc>Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol»</color>
-<color=#5cae63>izd. 9-15</color>
-Samolyot MiG-29M"
-mig_29m_9_15_1;MiG-29M
-mig_29m_9_15_2;MiG-29
-
 mig_29kr_9_41r_shop;MiG-29KR
 mig_29kr_9_41r_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye im. P. V.
 Dyemyent'yeva</color>
@@ -4185,6 +4195,26 @@ Dyemyent'yeva</color>
 Samolyot MiG-29KR"
 mig_29kr_9_41r_1;MiG-29KR
 mig_29kr_9_41r_2;MiG-29
+
+mig_29_9_12_shop;MiG-29 (9-12)
+mig_29_9_12_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye</color>
+<color=#5cae63>izd. 9-12</color>
+Samolyot MiG-29"
+mig_29_9_12_1;MiG-29
+mig_29_9_12_2;MiG-29
+
+mig_29smt_9_19_killstreak_shop;☢ MiG-29SMT
+mig_29smt_9_19_killstreak_0;"<color=#5cae63>izd. 9-19R</color>
+☢ MiG-29SMT"
+mig_29smt_9_19_killstreak_1;☢ MiG-29SMT
+mig_29smt_9_19_killstreak_2;☢ MiG-29
+
+mig_29m_9_15_shop;MiG-29M
+mig_29m_9_15_0;"<color=#81c3fc>Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol»</color>
+<color=#5cae63>izd. 9-15</color>
+Samolyot MiG-29M"
+mig_29m_9_15_1;MiG-29M
+mig_29m_9_15_2;MiG-29
 
 su_27_shop;Su-27
 su_27_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
@@ -5355,6 +5385,12 @@ CF-188A Hornet"
 cf_188a_canada_1;CF-188A
 cf_188a_canada_2;CF-188
 
+f_16a_block_15_adf_britain_killstreak_shop;☢▄ F-16A-15ADF-CF
+f_16a_block_15_adf_britain_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
+☢▄ F-16A-15ADF-CF Fighting Falcon"
+f_16a_block_15_adf_britain_killstreak_1;☢▄ F-16A
+f_16a_block_15_adf_britain_killstreak_2;☢▄ F-16
+
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 scout_ah_mk1_shop;Scout A.H. Mk. 1
 scout_ah_mk1_0;"<color=#81c3fc>Westland Helicopters Sprite</color>
@@ -5543,7 +5579,7 @@ uk_vickers_gbt_155_2;SPH
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 uk_centurion_mk_3_ss11_shop;▄ strv 81 (C III) (rb 52A)
-uk_centurion_mk_3_ss11_0;"Royal Ordnance Factory, Leeds
+uk_centurion_mk_3_ss11_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
 <color=#919191>stridsvagn C III</color>
 ▄ stridsvagn 81
 <color=#adadad>(robot 52A)</color>"
@@ -5571,7 +5607,7 @@ uk_badger_1;Badger SV
 uk_badger_2;IFV
 
 uk_centurion_shot_kal_d_shop;▄ Šoṭ Kal D
-uk_centurion_shot_kal_d_0;"<color=#81c3fc>Royal Ordnance Factory Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
+uk_centurion_shot_kal_d_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
 ▄ Ṭank Šoṭ Kal Dalet"
 uk_centurion_shot_kal_d_1;▄ Šoṭ Kal D
 uk_centurion_shot_kal_d_2;MBT
@@ -6545,7 +6581,7 @@ b5n2_1;B5N2
 b5n2_2;B5N
 
 d3a1_shop;D3A1
-d3a1_0;"<color=#81c3fc>Aichi Kōkūki</color>
+d3a1_0;"<color=#81c3fc>Aichi Kōkūki AM-17</color>
 <color=#7ce68f>99 Shiki Kanjō Bakugekiki 11 Gata</color>
 D3A1"
 d3a1_1;D3A1
@@ -6615,7 +6651,7 @@ e8n2_1;E8N2
 e8n2_2;E8N
 
 aichi_e13a_shop;E13A1
-aichi_e13a_0;"<color=#81c3fc>Aichi Kōkūki</color>
+aichi_e13a_0;"<color=#81c3fc>Aichi Kōkūki AM-19</color>
 <color=#7ce68f>95 Shiki Suijō Teisatsuki 11 Gata</color>
 E13A1"
 aichi_e13a_1;E13A1
@@ -6623,6 +6659,7 @@ aichi_e13a_2;E13A
 
 h-75n_shop;B.Kh.11
 h-75n_0;"<color=#81c3fc>Curtiss-Wright Corperation Hawk Model 75N</color>
+<color=#919191>Tai 16</color>
 Khērūng Bin Khab Lai Bāeb Thī 11"
 h-75n_1;B.Kh.11
 h-75n_2;B.Kh.11
@@ -6820,21 +6857,21 @@ ki_102_otsu_1;Ki 102 Otsu
 ki_102_otsu_2;Ki 102
 
 d4y1_shop;D4Y1
-d4y1_0;"<color=#81c3fc>Aichi Kōkūki</color>
+d4y1_0;"<color=#81c3fc>Aichi Kōkūki <color=@commonTextColor>+</color> Kaigun Kōkū Gijutsu Shō</color>
 <color=#7ce68f>Suisei 11 Gata</color>
 D4Y1"
 d4y1_1;D4Y1
 d4y1_2;D4Y
 
 d4y2_shop;D4Y2
-d4y2_0;"<color=#81c3fc>Aichi Kōkūki</color>
+d4y2_0;"<color=#81c3fc>Aichi Kōkūki <color=@commonTextColor>+</color> Kaigun Kōkū Gijutsu Shō</color>
 <color=#7ce68f>Suisei 12 Gata</color>
 D4Y2"
 d4y2_1;D4Y2
 d4y2_2;D4Y
 
 d4y3_shop;D4Y3 Kō
-d4y3_0;"<color=#81c3fc>Aichi Kōkūki</color>
+d4y3_0;"<color=#81c3fc>Aichi Kōkūki <color=@commonTextColor>+</color> Kaigun Kōkū Gijutsu Shō</color>
 <color=#7ce68f>Suisei 33 Gata Kō</color>
 D4Y3 Kō"
 d4y3_1;D4Y3
@@ -7001,7 +7038,7 @@ p1y1_mod11_1;P1Y1
 p1y1_mod11_2;P1Y
 
 b7a2_shop;B7A1 (NK9C)
-b7a2_0;"<color=#81c3fc>Aichi Kōkūki</color>
+b7a2_0;"<color=#81c3fc>Aichi Kōkūki AM-23</color>
 <color=#7ce68f>Shisei Ryusei</color>
 B7A1
 <color=#adadad>(NK9C)</color>"
@@ -7009,7 +7046,7 @@ b7a2_1;B7A1
 b7a2_2;B7A
 
 b7a2_homare_23_shop;B7A2
-b7a2_homare_23_0;"<color=#81c3fc>Aichi Kōkūki</color>
+b7a2_homare_23_0;"<color=#81c3fc>Aichi Kōkūki AM-23</color>
 <color=#7ce68f>Shisei Ryusei Kai</color>
 B7A2"
 b7a2_homare_23_1;B7A2
@@ -7186,21 +7223,21 @@ f-84g_thailand_1;B.Kh.16
 f-84g_thailand_2;B.Kh.16
 
 r2y2_v1_shop;R2Y2-G (11 Gata)
-r2y2_v1_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+r2y2_v1_0;"<color=#81c3fc>Kaigun Kōkū Gijutsu Shō</color>
 <color=#7ce68f>Shisei Keiun Kai 11 Gata</color>
 R2Y2-G"
 r2y2_v1_1;R2Y2-G
 r2y2_v1_2;R2Y
 
 r2y2_v2_shop;R2Y2-G (22 Gata)
-r2y2_v2_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+r2y2_v2_0;"<color=#81c3fc>Kaigun Kōkū Gijutsu Shō</color>
 <color=#7ce68f>Shisei Keiun Kai 22 Gata</color>
 R2Y2-G"
 r2y2_v2_1;R2Y2-G
 r2y2_v2_2;R2Y
 
 r2y2_kai_shop;R2Y2-G (32 Gata)
-r2y2_kai_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+r2y2_kai_0;"<color=#81c3fc>Kaigun Kōkū Gijutsu Shō</color>
 <color=#7ce68f>Shisei Keiun Kai 32 Gata</color>
 R2Y2-G"
 r2y2_kai_1;R2Y2-G
@@ -7368,6 +7405,13 @@ XF-2A
 <color=@currencyGoldColor>Hikō Kaihatsu Jikken Dan</color>"
 f_2a_adtw_1;XF-2A
 f_2a_adtw_2;XF-2
+
+f_2a_killstreak_shop;☢ F-2A (C10)
+f_2a_killstreak_0;"<color=#81c3fc>General Dynamics Corporation F-16 Agile Falcon <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+☢ F-2A
+<color=#adadad>(C10 Rotto)</color>"
+f_2a_killstreak_1;☢ F-2A
+f_2a_killstreak_2;☢ F-2
 
 f_16a_block_15_ocu_thailand_shop;B.Kh.19
 f_16a_block_15_ocu_thailand_0;"<color=#81c3fc>General Dynamics Corporation</color>
@@ -9210,6 +9254,12 @@ f_16a_block_20_mlu_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
 f_16a_block_20_mlu_1;☀ F-16A
 f_16a_block_20_mlu_2;☀ F-16
 
+f_16a_block_20_mlu_killstreak_shop;☢☀ F-16A-20-CF
+f_16a_block_20_mlu_killstreak_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
+☢☀ F-16A-20-CF Xíng Zhàndòu Jī"
+f_16a_block_20_mlu_killstreak_1;☢☀ F-16A
+f_16a_block_20_mlu_killstreak_2;☢☀ F-16
+
 f_16a_block_72v_china_shop;☀ F-16V-72-CF
 f_16a_block_72v_china_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
 ☀ F-16V-72-CF Xíng Zhàndòu Jī"
@@ -9864,6 +9914,12 @@ WMA301 Xíng 105 Háomi Lún Shì Zìxíng Tújí Pào"
 cn_wma_301_1;WMA301
 cn_wma_301_2;Light Tank
 
+cn_type_69_2g_shop;Ṭi-69 II Ji
+cn_type_69_2g_0;"<color=#81c3fc>Nèiménggu Dì Yī Jīxiè Zhìzào Chang <color=@commonTextColor>/</color> 902 Sēnṭrāl Ōyārkśap IĒmI</color>
+Sājōyā Ṭānk Ṭi-69 II Ji"
+cn_type_69_2g_1;Ṭi-69 II
+cn_type_69_2g_2;Armored Tank
+
 cn_t_62_shop;␗ T-62 (57-go Po.)
 cn_t_62_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 520</color>
 <color=#5cae63>Ob""yekt 166</color>
@@ -9949,11 +10005,11 @@ QN506 Duō Wuqì Zhàn Dou Chēliàng"
 cn_qn506_1;QN506
 cn_qn506_2;IFV
 
-cn_vt_5_shop;╷ VT5
+cn_vt_5_shop;╷ Bhiṭi-5
 cn_vt_5_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
-╷ VT5 Qīngxíng Tankè"
-cn_vt_5_1;╷ VT5
-cn_vt_5_2;Light Tank
+╷ Sājōyā Bhiṭi-5 Lāiṭa Ōyēṭa Mēin Bāṭēl Ṭānk"
+cn_vt_5_1;╷ Bhiṭi-5
+cn_vt_5_2;Light MBT
 
 cn_t_80ud_478be_shop;☪ T-80UD (DU1)
 cn_t_80ud_478be_0;"<color=#81c3fc>Kharkìvs'kye konstruktors'kye bûro z mašinobuduvannâ ìm. O. O.
@@ -10076,11 +10132,37 @@ re_2000_heja_2_1;Héja II
 re_2000_heja_2_2;Héja
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+sm_79_iar_italy_shop;S. 79 B
+sm_79_iar_italy_0;"<color=#81c3fc>Savoia-Marchetti <color=@commonTextColor>/</color> Industria Aeronautică Română</color>
+Avionul S. 79 B"
+sm_79_iar_italy_1;S. 79 B
+sm_79_iar_italy_2;S. 79
+
 wm_23_shop;W.M.23
 wm_23_0;"<color=#81c3fc>Weiss Manfréd Acél- és Fémművek</color>
 W.M.23 Ezüst Nyíl vadászrepülőgép"
 wm_23_1;W.M.23
 wm_23_2;W.M.23
+
+he_112b_1_italy_shop;╏ He 112 B-1/U2
+he_112b_1_italy_0;"<color=#81c3fc>Heinkel Flugzeugwerke</color>
+╏ Avionul He 112 B-1/U2"
+he_112b_1_italy_1;╏ He 112 B
+he_112b_1_italy_2;╏ He 112
+
+iar_81c_shop;I.A.R. 81 C
+iar_81c_0;"<color=#81c3fc>Industria Aeronautică Română</color>
+Avionul I.A.R. 81 C"
+iar_81c_1;I.A.R. 81 C
+iar_81c_2;I.A.R. 81
+
+iar_81c_db_605_shop;I.A.R. 81 C (DB 605 A)
+iar_81c_db_605_0;"<color=#81c3fc>Industria Aeronautică Română</color>
+Avionul I.A.R. 81 C
+<color=#adadad>(DB 9-605 A)</color>
+<color=@currencyGoldColor>Nr. 326</color>"
+iar_81c_db_605_1;I.A.R. 81 C
+iar_81c_db_605_2;I.A.R. 81
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 me_210ca_1_hungary_shop;◐ Me 210 Ca-1
@@ -10178,12 +10260,12 @@ mig-17pf_hungary_0;"<color=#81c3fc>Gor'kovskij aviaczionnyj zavod im. S. Ordžon
 mig-17pf_hungary_1;◔ MiG-17PF
 mig-17pf_hungary_2;◔ MiG-17
 
-iar_93b_shop;I.A.R.93-B
+iar_93b_shop;I.A.R. 93 B
 iar_93b_0;"<color=#81c3fc>Avioane Craiova <color=@commonTextColor>+</color> Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo</color>
 <color=#ff8c80>YuRom</color>
-I.A.R.93-B Vultur"
-iar_93b_1;I.A.R.93-B
-iar_93b_2;I.A.R.93
+Avionul I.A.R. 93 B Vultur"
+iar_93b_1;I.A.R. 93 B
+iar_93b_2;I.A.R. 93
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 amx_shop;A-11A
@@ -10230,6 +10312,18 @@ amx_a_1a_brazil_1;A-1A
 amx_a_1a_brazil_2;A-1
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+f_16a_block_15_adf_italy_shop;⛨ F-16A-15ADF-CF
+f_16a_block_15_adf_italy_0;"<color=#81c3fc>General Dynamics Corporation</color>
+⛨ F-16A-15ADF-CF Fighting Falcon"
+f_16a_block_15_adf_italy_1;⛨ F-16A
+f_16a_block_15_adf_italy_2;⛨ F-16
+
+f_16a_block_15_adf_italy_killstreak_shop;☢⛨ F-16A-15ADF-CF
+f_16a_block_15_adf_italy_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
+☢⛨ F-16A-15ADF-CF Fighting Falcon"
+f_16a_block_15_adf_italy_killstreak_1;☢⛨ F-16A
+f_16a_block_15_adf_italy_killstreak_2;☢⛨ F-16
+
 m_346fa_shop;M-346FA
 m_346fa_0;<color=#81c3fc>Alenia Aermacchi M-346FA Master</color>
 m_346fa_1;M-346FA
@@ -10242,8 +10336,7 @@ mig_29_9_12b_hungary_1;◔ MiG-29
 mig_29_9_12b_hungary_2;◔ MiG-29
 
 mig_29_9_12_sniper_shop;╏ MiG-29 Sniper
-mig_29_9_12_sniper_0;"<color=#81c3fc>Mikoân i Guryevič <color=@commonTextColor>/</color> Aerostar <color=@commonTextColor>+</color> Elbit Systems</color>
-╏ MiG-29 Sniper"
+mig_29_9_12_sniper_0;<color=#81c3fc>╏ Mikoân i Guryevič <color=@commonTextColor>/</color> Aerostar <color=@commonTextColor>+</color> Elbit Systems MiG-29 Sniper</color>
 mig_29_9_12_sniper_1;╏ MiG-29 Sniper
 mig_29_9_12_sniper_2;╏ MiG-29
 
@@ -10373,6 +10466,12 @@ it_2s1_0;"<color=#81c3fc>Kharkìvs'kij traktornij zavod (KhTZ)</color>
 ◔ 122 mm-es 2SZ1 önjáró tarack ""Gvozgyika"""
 it_2s1_1;◔ 2SZ1
 it_2s1_2;SPH
+
+it_fiat_6616_ub_shop;▂ Fiat 6616BM (TC 20) (UB-16-57UMP)
+it_fiat_6616_ub_0;"<color=#81c3fc>▂ Fiat <color=@commonTextColor>+</color> OTO Melara 6616BM</color>
+<color=#adadad>(Torreta TC 20) (Univ'ersal'nyj blok UB-16-57UMP)</color>"
+it_fiat_6616_ub_1;▂ Fiat 6616BM
+it_fiat_6616_ub_2;Armored Car
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 it_c13_t90_shop;C 13 (T 90 CKL)
@@ -11234,6 +11333,13 @@ Mirage 4000
 mirage_4000_1;Mirage 4000
 mirage_4000_2;Mirage 4000
 
+f_16a_block_15_belgium_shop;▄ F-16A-15-CF
+f_16a_block_15_belgium_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Sociétés Anonyme Belge de
+Constructions Aéronautiques</color>
+▄ F-16A-15-CF Fighting Falcon"
+f_16a_block_15_belgium_1;▄ F-16A
+f_16a_block_15_belgium_2;▄ F-16
+
 f_16am_block_15_mlu_belgium_shop;▄ F-16AM-20-CF
 f_16am_block_15_mlu_belgium_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Sociétés Anonyme Belge de
 Constructions Aéronautiques</color>
@@ -11241,19 +11347,19 @@ Constructions Aéronautiques</color>
 f_16am_block_15_mlu_belgium_1;▄ F-16AM
 f_16am_block_15_mlu_belgium_2;▄ F-16
 
-f_16a_block_15_ocu_belgium_shop;▄ F-16A-15OCU-CF
-f_16a_block_15_ocu_belgium_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Sociétés Anonyme Belge de
-Constructions Aéronautiques</color>
-▄ F-16A-15OCU-CF Fighting Falcon"
-f_16a_block_15_ocu_belgium_1;▄ F-16A
-f_16a_block_15_ocu_belgium_2;▄ F-16
-
 f_16a_block_5_netherlands_shop;◘ F-16A-5-CF
 f_16a_block_5_netherlands_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> N.V. Koninklijke Nederlandse
 Vliegtuigenfabriek Fokker</color>
 ◘ F-16A-5-CF Fighting Falcon"
 f_16a_block_5_netherlands_1;◘ F-16A
 f_16a_block_5_netherlands_2;◘ F-16
+
+f_16a_block_15_ocu_belgium_shop;▄ F-16A-15OCU-CF
+f_16a_block_15_ocu_belgium_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Sociétés Anonyme Belge de
+Constructions Aéronautiques</color>
+▄ F-16A-15OCU-CF Fighting Falcon"
+f_16a_block_15_ocu_belgium_1;▄ F-16A
+f_16a_block_15_ocu_belgium_2;▄ F-16
 
 f_16am_block_20_mlu_netherlands_shop;◘ F-16AM-20-CF
 f_16am_block_20_mlu_netherlands_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> N.V. Koninklijke Nederlandse
@@ -11269,6 +11375,12 @@ Constructions Aéronautiques</color>
 <color=@currencyGoldColor>1re Escadrille ""Stingers""</color>"
 f_16am_block_15_mlu_fs_belgium_1;▄ F-16A
 f_16am_block_15_mlu_fs_belgium_2;▄ F-16
+
+f_16a_block_15_adf_france_killstreak_shop;☢☨ F-16A-15ADF-CF
+f_16a_block_15_adf_france_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
+☢☨ F-16A-15ADF-CF Fighting Falcon"
+f_16a_block_15_adf_france_killstreak_1;☢☨ F-16A
+f_16a_block_15_adf_france_killstreak_2;☢☨ F-16
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 rafale_c_f3_shop;Rafale C (F3R)
@@ -11298,12 +11410,12 @@ SA 316 B Alouette III"
 sa_316b_1;SA 316 B
 sa_316b_2;SA 316
 
-iar_316b_shop;I.A.R.316-B
+iar_316b_shop;I.A.R. 316 B
 iar_316b_0;"<color=#81c3fc>Société Nationale Industrielle Aérospatiale <color=@commonTextColor>/</color> Industria Aeronautică
 Română</color>
-I.A.R.316-B"
-iar_316b_1;I.A.R.316-B
-iar_316b_2;I.A.R.316
+Elicopterul I.A.R. 316 B"
+iar_316b_1;I.A.R. 316 B
+iar_316b_2;I.A.R. 316
 
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 
@@ -12169,6 +12281,12 @@ f_16am_block_20_mlu_norway_0;"<color=#81c3fc>General Dynamics Corporation</color
 f_16am_block_20_mlu_norway_1;◢ F-16A
 f_16am_block_20_mlu_norway_2;◢ F-16
 
+f_16a_block_15_adf_sweden_killstreak_shop;☢♛ F-16A-15ADF-CF
+f_16a_block_15_adf_sweden_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
+☢♛ F-16A-15ADF-CF Fighting Falcon"
+f_16a_block_15_adf_sweden_killstreak_1;☢♛ F-16A
+f_16a_block_15_adf_sweden_killstreak_2;☢♛ F-16
+
 fa_18c_finland_shop;HN
 fa_18c_finland_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267 <color=@commonTextColor>/</color> Patria</color>
 HN ""Hornet"""
@@ -12357,14 +12475,14 @@ sw_charioteer_mk_7_2;Medium Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 sw_strv_81_shop;strv 81 (C III)
-sw_strv_81_0;"Royal Ordnance Factory, Leeds
+sw_strv_81_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
 <color=#919191>stridsvagn C III</color>
 stridsvagn 81"
 sw_strv_81_1;strv 81
 sw_strv_81_2;MBT
 
 sw_strv_81_rb52_shop;strv 81 (C III) (rb 52A)
-sw_strv_81_rb52_0;"Royal Ordnance Factory, Leeds
+sw_strv_81_rb52_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
 <color=#919191>stridsvagn C III</color>
 stridsvagn 81
 <color=#adadad>(robot 52A)</color>"
@@ -12800,6 +12918,12 @@ f_16a_block_10_netz_mod_0;"<color=#81c3fc>General Dynamics Corporation</color>
 f_16a_block_10_netz_mod_1; F-16A
 f_16a_block_10_netz_mod_2; F-16
 
+f_16c_block_40_barak_2_killstreak_shop;☢ F-16C-40L-CF
+f_16c_block_40_barak_2_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
+☢ F-16C-40L-CF Barak II"
+f_16c_block_40_barak_2_killstreak_1;☢ F-16C
+f_16c_block_40_barak_2_killstreak_2;☢ F-16
+
 f_15a_iaf_shop; F-15A-18-MC (MSIP)
 f_15a_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C</color>
  F-15A-18-MC Baz
@@ -13013,15 +13137,15 @@ il_aml_90_1; 'Amal 90
 il_aml_90_2;Armored Car
 
 il_centurion_mk_5_shot_shop; Senṭuryon 5
-il_centurion_mk_5_shot_0;"<color=#81c3fc>Royal Ordnance Factory Leeds</color>
+il_centurion_mk_5_shot_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
  Ṭank Senṭuryon Siman 5 ""Šoṭ"""
 il_centurion_mk_5_shot_1; Senṭuryon 5
 il_centurion_mk_5_shot_2;MBT
 
-il_tcm_20_shop;Zaḥalad 20 mm (Do-Kani)
+il_tcm_20_shop;Zaḥalad Ṣriḥon Du-Kani
 il_tcm_20_0;"<color=#81c3fc>White Motor Company</color>
 Zaḥeli Lemeḥeṣah Dizel Ṣriḥon Du-Kani 20 mm"
-il_tcm_20_1;Zaḥalad 20 mm (Do-Kani)
+il_tcm_20_1;Zaḥalad Ṣriḥon Du-Kani
 il_tcm_20_2;SPAAG
 
 il_zsu_57_2_shop; Zi.'Es.Yu.-57-2
@@ -13078,19 +13202,19 @@ il_tiran_4_sh_1;Ṭiran 4 Š
 il_tiran_4_sh_2;MBT
 
 il_centurion_shot_kal_alef_shop;Šoṭ Kal A
-il_centurion_shot_kal_alef_0;"<color=#81c3fc>Royal Ordnance Factory Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
+il_centurion_shot_kal_alef_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
 Ṭank Šoṭ Kal Alef"
 il_centurion_shot_kal_alef_1;Šoṭ Kal A
 il_centurion_shot_kal_alef_2;MBT
 
 il_centurion_shot_kal_gimel_shop;Šoṭ Kal G
-il_centurion_shot_kal_gimel_0;"<color=#81c3fc>Royal Ordnance Factory Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
+il_centurion_shot_kal_gimel_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
 Ṭank Šoṭ Kal Gimel"
 il_centurion_shot_kal_gimel_1;Šoṭ Kal G
 il_centurion_shot_kal_gimel_2;MBT
 
 il_centurion_shot_kal_d_shop;Šoṭ Kal D
-il_centurion_shot_kal_d_0;"<color=#81c3fc>Royal Ordnance Factory Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
+il_centurion_shot_kal_d_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds <color=@commonTextColor>/</color> Ḥil ha-Ḥimuš</color>
 Ṭank Šoṭ Kal Dalet"
 il_centurion_shot_kal_d_1;Šoṭ Kal D
 il_centurion_shot_kal_d_2;MBT
@@ -13317,6 +13441,13 @@ ak_12_0;"<color=#81c3fc>Konczyern «Kalašnikov»</color>
 <color=#adadad>(2020)</color>"
 ak_12_1;AK-12
 ak_12_2;Automatic Rifle
+
+ak_15_shop;AK-15
+ak_15_0;"<color=#81c3fc>Kontsyern «Kalashnikof»</color>
+<color=#5cae63>6P71</color>
+7,62-mm aftomat Kalashnikova AK-15"
+ak_15_1;AK-15
+ak_15_2;Automatic Rifle
 
 //UK GUNS - GUN/FAMILY START: RANK 6
 

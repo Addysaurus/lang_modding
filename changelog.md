@@ -22,25 +22,141 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Vehicles:
 
+- #### Additions:
+
+    - **IAR-81C (DB 605)**
+    - **FIAT 6616UB**
+    - **Scimitar Mk.2**
+    - A bunch of nuke planes (**F-2A** (for some reason), **MiG-29SMT**, and a mountain of **F-16A**s).
+
 - #### Changes:
 
+    - **IAR-81C (DB 605)** → **I.A.R. 81 C (DB 605 A)**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C (DB 9-605 A)**. Also omg thank you Violet for finding the site with full I.A.R. 80 technical documentation and manuals so I could finally have proper sources to lang mod Romanian stuff.
+    - **FIAT 6616UB** → **Fiat 6616BM (TC 20) (UB-16-57UMP)**. Statcard name → **Fiat + OTO Melara 6616BM (Torreta TC 20) (Univ'ersal'nyj blok UB-16-57UMP)** (yes I know the name length is horrifying). WarTinder soapbox for a moment: this vehicle is incorrectly flagged. It is flagged with the flag of Somalia, even though it belongs to the functionally independent country of Somaliland in the northern part of what Somalia claims as its territory. Gaijin originally said it was a vehicle from Somaliland, then changed the announcement. This should be flagged with Somaliland, and shame on Gaijin for listing it as from Somalia.
+    - **Scimitar Mk.2** → **Scimitar, Mk. 2 (TES)**. Statcard name → **Alvis / BAE Systems Land and Armaments, Hadley Castle Works + Defence Support Group, Donnington | F.V.107 | Combat Vehicle, Reconnaissance, Full Tracked, Scimitar, Mk. 2 (Theatre Entry Standard)**. Yes I know the name is horribly long and doesn't match the format of the tech tree **Scimitar**. Multiline and the UK rework of every British thing coming very soon.
+    - All the new nuclear bomber planes have been adjusted to match their tech tree counterparts.
+    - Romanian air rework (?):
+        - **I.A.R.81-C** → **I.A.R. 81 C**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C**.
+        - **I.A.R.93-B** → **I.A.R. 93 B**. Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | Avionul I.A.R. 93 B Vultur**.
+        - **I.A.R.316-B** → **I.A.R. 316 B**. Statcard name → **Société Nationale Industrielle Aérospatiale / Industria Aeronautică Română | Elicopterul I.A.R. 316 B**.
+        - **S.79-B** (Germany / Romania & Italy / Romania) → **S. 79 B**. Statcard name → **Savoia-Marchetti / Industria Aeronautică Română | Avionul S. 79 B**.
+        - **He 112 B-2/U2** (Germany / Romania): Statcard name → **Heinkel Flugzeugwerke | Avionul He 112 B-2/U2**.
+        - **He 112 B-1/U2** (Italy / Romania): Statcard name → **Heinkel Flugzeugwerke | Avionul He 112 B-1/U2**.
+        - **MiG-29 Sniper** (Italy / Romania): Statcard name → **Mikoân i Guryevič / Aerostar + Elbit Systems MiG-29 Sniper**.
     - **F/A18 C** (Germany / Switzerland) → **F/A-18C (RP 08)**. Statcard name → **McDonnell Douglas Corporation Model 267 / Schweizer Flugzeuge und System | F/A18 C Hornet (Rüstungsprogramm 2008)**.
     - Corrected the spacing of the letter variants in the statcard names of the **Magaḥ**s.
     - **B-29A-45-BN** (nuke) (UK) → **Washington B. Mk. 1**. Statcard name → **Boeing Airplane Company Model 345 | Washington B. Mk. 1**.
     - **Garford**: Statcard name → **Garford Motor Truck Company / Putilovskij zavod | Bronirovannyj 4-tonnyj avtomobil' "Garford"**.
-    - **Pz.Kpfw. 748 (a)**: Statcard name → **Grand Blanc Tank Plant | Panzerkampfwagen M 4 Ausf. C | Panzerkampfwagen 748 (a)**.
     - **Shin TK 3 Gō (2006)** → **Shin TK 3 Gō (transport)**.
         - Japanese package: **新TK3号 (2006)** → **新TK 3号 (transport)**.
     - **Shin TK 3 Gō (2009)** → **Shin TK 3 Gō**.
         - Japanese package: **新TK3号 (2009)** → **新TK 3号**.
     - **10TK / Shin TK 3 Gō (2009)** (folder) → **10TK / Shin TK 3 Gō**.
         - Japanese package: **10TK / 新TK3号 (2009)** (folder) → **10TK / 新TK 3号**.
+    - **T-69 II G** (Bangladesh) → **Ṭi-69 II Ji**. Statcard name → **Nèiménggu Dì Yī Jīxiè Zhìzào Chang / 902 Sēnṭrāl Ōyārkśap IĒmI | Sājōyā Ṭānk Ṭi-69 II Ji**.
+        - Mandarin package: Statcard name → **内蒙古第一机械制造厂 / 902 Sēnṭrāl Ōyārkśap IĒmI | Sājōyā Ṭānk Ṭi-69 II Ji**.
+    - **VT5** (Bangladesh) → **Bhiṭi-5**. Statcard name → **Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī | Sājōyā Bhiṭi-5 Lāiṭa Ōyēṭa Mēin Bāṭēl Ṭānk**.
+        - Mandarin package: Statcard name → **中国兵器工业集团有限公司 | Sājōyā Bhiṭi-5 Lāiṭa Ōyēṭa Mēin Bāṭēl Ṭānk**.
+    - **D3A1**: Statcard name → **Aichi Kōkūki AM-17 | 99 Shiki Kanjō Bakugekiki 11 Gata | D3A1**.
+        - Japanese package: Statcard name → **愛知航空機 AM-17 | 九九式艦上爆撃機一一型 | D3A1**.
+    - **E13A1**: Statcard name → **Aichi Kōkūki AM-19 | 95 Shiki Suijō Teisatsuki 11 Gata | E13A1**.
+        - Japanese package: Statcard name → **愛知航空機 AM-19 | 零式水上偵察機一一型 | E13A1**.
+    - **D4Y1**: Statcard name → **Aichi Kōkūki + Kaigun Kōkū Gijutsu Shō | Suisei 11 Gata | D4Y1**. The vehicle is named the D4**Y** for Yokosuka, but Aichi actually did most of the work so they get the primary manufacturer listing, and the Yokosuka arsenal is only now being listed as a secondary manufacturer.
+        - Japanese package: Statcard name → **愛知航空機 + 海軍航空技術廠 | 彗星一一型 | D4Y1**.
+    - **D4Y2**: Statcard name → **Aichi Kōkūki + Kaigun Kōkū Gijutsu Shō | Suisei 12 Gata | D4Y2**.
+        - Japanese package: Statcard name → **愛知航空機 + 海軍航空技術廠 | 彗星一二型 | D4Y2**.
+    - **D4Y3 Kō**: Statcard name → **Aichi Kōkūki + Kaigun Kōkū Gijutsu Shō | Suisei 33 Gata Kō | D4Y3 Kō**.
+        - Japanese package: Statcard name → **愛知航空機 + 海軍航空技術廠 | 彗星三三型甲 | D4Y3甲**.
+    - **B7A1 (NK9C)**: Statcard name → **Aichi Kōkūki AM-23 | Shisei Ryusei | B7A1 (NK9C)**.
+        - Japanese package: Statcard name → **愛知航空機 AM-23 | 試製流星 | B7A1 (NK9C)**.
+    - **B7A2**: Statcard name → **Aichi Kōkūki AM-23 | Shisei Ryusei | B7A2**.
+        - Japanese package: Statcard name → **愛知航空機 AM-23 | 試製流星 | B7A2**.
+    - **J7W1**: Statcard name → **Kaigun Kōkū Gijutsu Shō + Kyūshū Hikōki | 18 Shi Otsu Rikujō Sentōki | Shisei Shinden | J7W1**.
+    - **R2Y2-G (11 Gata)**: Statcard name → **Kaigun Kōkū Gijutsu Shō | Shisei Keiun Kai 11 Gata | R2Y2-G**.
+        - Japanese package: Statcard name → **海軍航空技術廠 | 試製景雲改一一型 | R2Y2-G**.
+    - **R2Y2-G (22 Gata)**: Statcard name → **Kaigun Kōkū Gijutsu Shō | Shisei Keiun Kai 22 Gata | R2Y2-G**.
+        - Japanese package: Statcard name → **海軍航空技術廠 | 試製景雲改二二型 | R2Y2-G**.
+    - **R2Y2-G (32 Gata)**: Statcard name → **Kaigun Kōkū Gijutsu Shō | Shisei Keiun Kai 32 Gata | R2Y2-G**.
+        - Japanese package: Statcard name → **海軍航空技術廠 | 試製景雲改三二型 | R2Y2-G**.
+    - **Gu'ndiš**: Statcard name → **Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | Tomat Nem Z.S.U. 23X4 Gu'ndiš**.
+        - Hebrew package: Statcard name → **Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | גאנדיש 23 X4 Z.S.U. תומ״ת נ״מ**. I can't get it to appear right in the changelog but pretend that **גאנדיש** comes after **23X4 Z.S.U.**
+        - Hebrew + Russian package: Statcard name → **Мытищинский ордена Отечественной войны 1 степени машиностроительный завод | גאנדיש 23 X4 Z.S.U. תומ״ת נ״מ**.
+    - **Scimitar/Fox** (folder) → **Scimitar / Fox**.
+    - **F-16A** statcard name rework because of all the new nuclear bomb F-16As:
+        - **F-16A-15OCU-CF**: Statcard name → **General Dynamics Corporation | F-16A-15OCU-CF Fighting Falcon**.
+        - **F-16A-15ADF-CF** (USA & Italy): Statcard name → **General Dynamics Corporation | F-16A-15ADF-CF Fighting Falcon**.
+        - **F-16A-15-CF** (France / Belgium): Statcard name → **General Dynamics Corporation / Sociétés Anonyme Belge de Constructions Aéronautiques | F-16A-15-CF Fighting Falcon**.
 
 ### Weaponry:
 
+- #### Additions:
+
+    - **S-5KP**
+    - **UB-16**
+    - **20 mm Rh202 cannon**
+
 - #### Changes:
 
+    - **S-5KP**: Statcard name → **9-A-608 | Nyeupravlyayemaya av'iatsionnaya rak'eta S-5KP** (the longer version of the name is unused but it exists in the files). This is using our new Russian translit called WTR-02A. It will be implemented to the rest of the mod relatively soon, along with its Ukrainian counterpart WTR-02B.
+    - **UB-16** → **UB-16-57UMP**. Statcard name → **Univ'ersal'nyj blok UB-16-57UMP**.
+    - **20 mm Rh202 cannon** → **20 mm Automatic Cannon MK20 Rh202**.
     - Added calibers to the short names of Swedish rockets, bombs, and torpedoes.
+    - **Ki-148** → **Ki 148**. Statcard name → **I Gō 1 Gata Otsu Musen Yūdōdan | Ki 148**.
+        - Japanese package: **Ki-148** → **キ148**. Statcard name → **イ号一型乙無線誘導弾 | キ148**.
+    - Added a missing type tag to the **R-77-1** ([Report](https://github.com/Addysaurus/lang_modding/issues/171)).
+    - Corrected the caliber tag of the **Flz.Kan. 92** from 30 mm to 20 mm.
+
+### Engines:
+
+- #### Additions:
+
+    - **6BTA 5.9**
+    - **TN15E** (transmission)
+
+- #### Changes:
+
+    - **6BTA 5.9** → **6BTA**.
+    - **TN15E** (transmission) → **TN15E+**.
+    - **14K II c32** → **Motorul I.A.R. 14 K. II. c. 32**.
+    - **IAR-14KIVc32** → **Motorul I.A.R. 14 K. IV. c. 32**.
+    - **IAR** (manufacturer) → **Industria Aeronautică Română**.
+    - Reworked the format of engines so they do not have an extra newline when they really shouldn't.
+
+### Loading Screens:
+
+- #### Additions:
+
+    - **FIAT 6616UB**
+
+- #### Changes:
+
+    - **FIAT 6616UB** → **Fiat 6616BM (TC 20) (UB-16-57UMP)**.
+    - **s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)** → **s.Pz.H. 18/1 a. Fgst.Pz.Kpfw. III/IV (Sf.)**.
+
+### Menu:
+
+- #### Additions:
+
+    - **Somalia**
+
+- #### Changes:
+
+    - **Somalia**
+        - Original Country Names package: **Somalia** → **Soomaaliya**.
+    - **Israel**
+        - Original Country Names package: **Yiśrā'ēl** → **Yisrā'ēl**.
+    - **Thailand**
+        - Original Country Names package: **Prathet̄hịy** → **Bprathēt Thaiy**. This is in accordance with our new Thai transliteration system. We forgot to move the country name over to it.
+
+### Skins:
+
+- #### Additions:
+
+    - **Parade camouflage** (for the **Fiat 6616 (MK 20 DM 6 A1) (UB-16-57UMP)**)
+
+- #### Changes:
+
+    - Reworked the name and description for the **Parade camouflage** for the **Fiat 6616 (MK 20 DM 6 A1) (UB-16-57UMP)** to make it clear that the vehicle and camouflage are from Somaliland, not Somalia. Here war War Tinder Incorporated, we support the right to self-determination for people across the world, so we recognize Somaliland as independent.
 
 ## 1.18.00 - 03-07-2026
 

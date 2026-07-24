@@ -93,7 +93,8 @@ All dates are listed in DD-MM-YYYY format.
 
     - **S-5KP**
     - **UB-16**
-    - **20 mm Rh202 cannon**
+    - **20 mm Rh202 cannon** (for the new **Fiat 6616BM**)
+    - **SM-2MR Block 1**
 
 - #### Changes:
 
@@ -105,6 +106,8 @@ All dates are listed in DD-MM-YYYY format.
         - Japanese package: **Ki-148** → **キ148**. Statcard name → **イ号一型乙無線誘導弾 | キ148**.
     - Added a missing type tag to the **R-77-1** ([Report](https://github.com/Addysaurus/lang_modding/issues/171)).
     - Corrected the caliber tag of the **Flz.Kan. 92** from 30 mm to 20 mm.
+    - **SM-2MR Block 1** → **RIM-66C**.
+        - Full Ammunition Names package: **SM-2MR Block 1** → **Ship-Launched, Intercept-Aerial, Guided Missile, RIM-66C Standard MR**.
 
 ### Engines:
 

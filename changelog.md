@@ -32,8 +32,8 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **IAR-81C (DB 605)** → **I.A.R. 81 C (DB 605 A)**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C (DB 9-605 A)**. Also omg thank you Violet for finding the site with full I.A.R. 80 technical documentation and manuals so I could finally have proper sources to lang mod Romanian stuff.
-    - **FIAT 6616UB** → **Fiat 6616 (MK 20 DM 6 A1) (UB-16-57UMP)**. Statcard name → **Fiat + OTO Melara Tipo 6616 (Maschinenkanone MK 20 DM 6 A1) (Univ'ersal'nyj blok UB-16-57UMP)** (yes I know the name length is horrifying). WarTinder soapbox for a moment: this vehicle is incorrectly flagged. It is flagged with the flag of Somalia, even though it belongs to the functionally independent country of Somaliland in the northern part of what Somalia claims as its territory. Gaijin originally said it was a vehicle from Somaliland, then changed the announcement. This should be flagged with Somaliland, and shame on Gaijin for listing it as from Somalia.
-    - **Scimitar Mk.2** → **Scimitar, Mk. 2 (TES) (ROPS)**. Statcard name → **Alvis / BAE Systems Land and Armaments, Hadley Castle Works + Defence Support Group, Donnington | F.V.107 | Combat Vehicle, Reconnaissance, Full Tracked, Scimitar, Mk. 2 (Theatre Entry Standard) (Roll Over Protection System)**. Yes I know the name is horribly long and doesn't match the format of the tech tree **Scimitar**. Multiline and the UK rework of every British thing coming very soon.
+    - **FIAT 6616UB** → **Fiat 6616BM (TC 20) (UB-16-57UMP)**. Statcard name → **Fiat + OTO Melara 6616BM (Torreta TC 20) (Univ'ersal'nyj blok UB-16-57UMP)** (yes I know the name length is horrifying). WarTinder soapbox for a moment: this vehicle is incorrectly flagged. It is flagged with the flag of Somalia, even though it belongs to the functionally independent country of Somaliland in the northern part of what Somalia claims as its territory. Gaijin originally said it was a vehicle from Somaliland, then changed the announcement. This should be flagged with Somaliland, and shame on Gaijin for listing it as from Somalia.
+    - **Scimitar Mk.2** → **Scimitar, Mk. 2 (TES)**. Statcard name → **Alvis / BAE Systems Land and Armaments, Hadley Castle Works + Defence Support Group, Donnington | F.V.107 | Combat Vehicle, Reconnaissance, Full Tracked, Scimitar, Mk. 2 (Theatre Entry Standard)**. Yes I know the name is horribly long and doesn't match the format of the tech tree **Scimitar**. Multiline and the UK rework of every British thing coming very soon.
     - All the new nuclear bomber planes have been adjusted to match their tech tree counterparts.
     - Romanian air rework (?):
         - **I.A.R.81-C** → **I.A.R. 81 C**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C**.
@@ -89,17 +89,34 @@ All dates are listed in DD-MM-YYYY format.
 
 ### Weaponry:
 
+- #### Additions:
+
+    - **S-5KP**
+    - **UB-16**
+    - **20 mm Rh202 cannon**
+
 - #### Changes:
 
+    - **S-5KP**: Statcard name → **9-A-608 | Nyeupravlyayemaya av'iatsionnaya rak'eta S-5KP** (the longer version of the name is unused but it exists in the files). This is using our new Russian translit called WTR-02A. It will be implemented to the rest of the mod relatively soon, along with its Ukrainian counterpart WTR-02B.
+    - **UB-16** → **UB-16-57UMP**. Statcard name → **Univ'ersal'nyj blok UB-16-57UMP**.
+    - **20 mm Rh202 cannon** → **20 mm Automatic Cannon MK20 Rh202**.
     - Added calibers to the short names of Swedish rockets, bombs, and torpedoes.
     - **Ki-148** → **Ki 148**. Statcard name → **I Gō 1 Gata Otsu Musen Yūdōdan | Ki 148**.
         - Japanese package: **Ki-148** → **キ148**. Statcard name → **イ号一型乙無線誘導弾 | キ148**.
     - Added a missing type tag to the **R-77-1** ([Report](https://github.com/Addysaurus/lang_modding/issues/171)).
+    - Corrected the caliber tag of the **Flz.Kan. 92** from 30 mm to 20 mm.
 
 ### Engines:
 
+- #### Additions:
+
+    - **6BTA 5.9**
+    - **TN15E** (transmission)
+
 - #### Changes:
 
+    - **6BTA 5.9** → **6BTA**.
+    - **TN15E** (transmission) → **TN15E+**.
     - **14K II c32** → **Motorul I.A.R. 14 K. II. c. 32**.
     - **IAR-14KIVc32** → **Motorul I.A.R. 14 K. IV. c. 32**.
     - **IAR** (manufacturer) → **Industria Aeronautică Română**.
@@ -113,7 +130,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - **FIAT 6616UB** → **Fiat 6616 (MK 20 DM 6 A1) (UB-16-57UMP)**.
+    - **FIAT 6616UB** → **Fiat 6616BM (TC 20) (UB-16-57UMP)**.
     - **s.Pz.Haub. 18/1 auf Fgst.Pz.Kpfw. III/IV (Sf.)** → **s.Pz.H. 18/1 a. Fgst.Pz.Kpfw. III/IV (Sf.)**.
 
 ### Menu:

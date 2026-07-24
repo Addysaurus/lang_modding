@@ -104,10 +104,11 @@ weapons/20mm_FlaK38_wirbelwind_user_cannon;<color=@userlogColoredText>20 mm</col
 weapons/cannonHispano804;<color=@userlogColoredText>20 mm</color> Cañón de 20 mm DCA-804 <color=#ff6f00>ACNN</color>
 weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug Kanone 76 <color=#ff6f00>ACNN</color>
 weapons/cannonFlzKan_76/short;Flz.Kan. 76
+weapons/cannonM61A2_switzerland;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
+weapons/cannonM61A2_switzerland/short;Flz.Kan. 92
+weapons/20mm_Rh_202_6616_user_cannon;<color=@userlogColoredText>20 mm</color> 20 mm Automatic Cannon MK20 Rh202 <color=#ff6f00>ACNN</color>
 weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
 weapons/cannonDEFA552A_switzerland/short;Flz.Kan. 65
-weapons/cannonM61A2_switzerland;<color=@userlogColoredText>30 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
-weapons/cannonM61A2_switzerland/short;Flz.Kan. 92
 weapons/30mm_73_m44_naval_user_cannon;<color=@userlogColoredText>30 mm</color> 3cm Flugabwehrkanone M/44 L/73 <color=#ff6f00>ACNN</color>
 weapons/37mm_gerat_341_user_cannon;<color=@userlogColoredText>37 mm</color> 3,7cm Gerät 341 <color=#ff6f00>ACNN</color>
 weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 <color=#ff6f00>ACNN</color>
@@ -750,6 +751,10 @@ weapons/pucara_jato_3;Sistema de suspensión y encendido J.A.T.O. <color=#ff6f00
 weapons/pucara_jato_3/short;J.A.T.O.
 
 //USSR ROCKETS
+weapons/57mm_s_5kp;9-A-608 | Nyeupravlyayemaya av'iatsionnaya rak'eta S-5KP <color=#ff6f00>RKT</color>
+weapons/57mm_s_5kp/short;S-5KP
+weapons/57mm_ub_16_user_cannon;Univ'ersal'nyj blok UB-16-57UMP <color=#ff6f00>LCH</color>
+weapons/57mm_ub_16_user_cannon/short;UB-16-57UMP
 weapons/rs_br_vz_128_m15_rocket_heat;Balistički raketa vazduh-zemlja 128 mm M80 Munja <color=#ff6f00>RKT</color>
 weapons/rs_br_vz_128_m15_rocket_heat/short;BR-VZ-128 M80
 650mm_9m79;9M79

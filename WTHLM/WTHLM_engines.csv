@@ -288,781 +288,744 @@ engine_manufacturer/kuznezov;"Manufacturer: Gosudarstvyennyj Soûznyj opytnyj za
 "
 
 //ENGINES
-engine_model/jumo004d;"Jumo 004D"
-engine_model/14m4/5;"14M 4/5"
-engine_model/hl230p30;"HL230 P30"
-// engine_model/mitsubishi_10zf_22wt;"Manufacturer: Mitsubishi Jidōsha KōgyōEngine model: 10ZF 22WT"
-engine_model/mitsubishi_10zf_22wt;"10ZF 22WT"
-engine_model/vk_105p;"VK-105P"
-engine_model/vk_105pf;"VK-105PF"
-engine_model/vk_105r;"VK-105R"
-engine_model/vk_107a;"M-107A"
-engine_model/gtd_1000tf;"GTD-1000TF"
-engine_model/gtd_1250;"GTD-1250"
-engine_model/udt_23t;"UTD-23"
-engine_model/s12u;"S12U"
-engine_model/M-82;"M-82"
-engine_model/M-82-f;"M-82F"
-engine_model/M-82-fn;"M-82FN"
-engine_model/rd-10;"RD-10"
-engine_model/rd-500;"RD-500"
-engine_model/rd-20;"RD-20A-2"
-engine_model/rd-45f;"RD-45F"
-engine_model/vk-1;"VK-1"
-engine_model/tv3_117v;"TV3-117V"
-engine_model/v_2_is;"V-2-IS"
-engine_model/5tdf;"5TDF"
-engine_model/td_12;"TD-12"
-engine_model/v_44;"V-44"
-engine_model/v_54;"V-54"
-engine_model/v_55v;"V-55V"
-engine_model/v_46_2s1;"V-46-2s1"
-engine_model/v_46_5m;"V-46-5M"
-engine_model/v_46_6;"V-46-6"
-engine_model/v_84_1;"V-84-1"
-engine_model/v_92s2;"V-92S2"
-engine_model/v_92s2f;"V-92S2F"
-engine_model/8v_150;"8V150"
-engine_model/j60_no1_mk100b;"Jaguar J.60 No1 Mk100B"
-// engine_model/8va_34twk;"Manufacturer: Mitsubishi Jidōsha KōgyōEngine model: 8VA 34TWK"
-engine_model/8va_34twk;"8VA 34TWK"
-engine_model/iveco_8262_6v;"8262 6V";
-engine_model/2v_06_2;"2V-06-2"
-engine_model/2v_06_2s;"2V-06-2S"
-engine_model/238v;"238V"
-engine_model/utd_29;"UTD-29"
-engine_model/utd_20;"UTD-20"
-engine_model/zis_16;"ZiS-16"
-engine_model/2dg_8m;"2DG-8M"
-engine_model/740_632_400;"740.632-400"
+engine_model/jumo004d;Jumo 004D
+engine_model/14m4/5;14M 4/5
+engine_model/hl230p30;HL230 P30
+engine_model/mitsubishi_10zf_22wt;10ZF 22WT
+engine_model/vk_105p;VK-105P
+engine_model/vk_105pf;VK-105PF
+engine_model/vk_105r;VK-105R
+engine_model/vk_107a;M-107A
+engine_model/gtd_1000tf;GTD-1000TF
+engine_model/gtd_1250;GTD-1250
+engine_model/udt_23t;UTD-23
+engine_model/s12u;S12U
+engine_model/M-82;M-82
+engine_model/M-82-f;M-82F
+engine_model/M-82-fn;M-82FN
+engine_model/rd-10;RD-10
+engine_model/rd-500;RD-500
+engine_model/rd-20;RD-20A-2
+engine_model/rd-45f;RD-45F
+engine_model/vk-1;VK-1
+engine_model/tv3_117v;TV3-117V
+engine_model/v_2_is;V-2-IS
+engine_model/5tdf;5TDF
+engine_model/td_12;TD-12
+engine_model/v_44;V-44
+engine_model/v_54;V-54
+engine_model/v_55v;V-55V
+engine_model/v_46_2s1;V-46-2s1
+engine_model/v_46_5m;V-46-5M
+engine_model/v_46_6;V-46-6
+engine_model/v_84_1;V-84-1
+engine_model/v_92s2;V-92S2
+engine_model/v_92s2f;V-92S2F
+engine_model/8v_150;8V150
+engine_model/j60_no1_mk100b;Jaguar J.60 No1 Mk100B
+engine_model/8va_34twk;8VA 34TWK
+engine_model/iveco_8262_6v;8262 6V;
+engine_model/2v_06_2;2V-06-2
+engine_model/2v_06_2s;2V-06-2S
+engine_model/238v;238V
+engine_model/utd_29;UTD-29
+engine_model/utd_20;UTD-20
+engine_model/zis_16;ZiS-16
+engine_model/2dg_8m;2DG-8M
+engine_model/740_632_400;740.632-400
 ENGINES_CLIPPED_LANG/KEEP_IT_ALWAYS_FIRST;
-engine_model/t53_l_11;"T53-L-11"
-engine_model/t53_l_703;"T53-L-703"
-engine_model/m-11d;"M-11D"
-engine_model/m-25a;"M-25A"
-engine_model/m-22;"M-22"
-engine_model/m-25v;"M-25V"
-engine_model/m-62;"AŠ-62"
-engine_model/m-63;"M-63"
-engine_model/am-35;"AM-35A"
-engine_model/m-71;"M-71"
-engine_model/m-88;"M-88"
-engine_model/am-38;"AM-38"
-engine_model/am-38f;"AM-38F"
-engine_model/am-42;"AM-42"
-engine_model/am-71f;"M-71F"
-engine_model/m-100;"M-100"
-engine_model/m-100a;"M-100A"
-engine_model/m-103a;"M-103A"
-engine_model/ach-30;"ACh-30"
-engine_model/ash-73tk;"AŠ-73TK"
-engine_model/kotobuki_41;"Kotobuki 41"
-engine_model/sakae_12;"Sakae 12"
-engine_model/sakae_21;"Sakae 21"
-engine_model/ha_32_mod_23;"Ha-32 Mod 23"
-engine_model/ha_43_11;"Ha-43-11"
-engine_model/homare_21;"Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-21 || Homare 21 Gata | NK9H"
-engine_model/homare_23;"Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-23 || Homare 23 Gata | NK9H-S"
-engine_model/kasei_26;"Kasei 26"
-engine_model/ne_20;"Ne 20 Kai"
-engine_model/ha_43_32;"Ha-43-32"
-engine_model/ha_104;"Ha-104"
-engine_model/10zg32wt;"10ZG 32WT"
-engine_model/j47_ge_27;"J47-GE-27"
-engine_model/ha9_IIa;"Ha-9-2A"
-engine_model/type_99;"Type 99"
-engine_model/ha_115;"Ha-115"
-engine_model/ha_34_mod_01;"Ha-41"
-engine_model/ha_109;"Ha-109"
-engine_model/ha_40;"Ha-40"
-engine_model/ha_140;"Ha-140"
-engine_model/ha_112_2;"Ha-112-2"
-engine_model/ha_112;"Ha-112"
-engine_model/ro_2;"Ro.2"
-engine_model/ha_102;"Ha-102"
-engine_model/ha_211_ru;"Ha-211 Ru"
-engine_model/zuisei_13;"Zuisey 13"
-engine_model/zuisei_11;"Zuisey 11"
-engine_model/kinsei_44;"Kinsei 44"
-engine_model/sakae_11;"Sakae 11"
-engine_model/homare_12;"Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 || Homare 12 Gata"
-engine_model/ne_330;"Ne-330"
-engine_model/ha_5;"Ha-5"
-engine_model/kinsei_43;"Kinsei 43"
-engine_model/kasei_22;"Kasei 22"
-engine_model/kasei_15;"Kasei 15"
-engine_model/ha_41;"Ha-41"
-engine_model/mamoru_12;"Mamoru 12"
-engine_model/nk9k_l;"NK9K-L"
-engine_model/nk9h;"NK9H"
-engine_model/ha_219ru;"Ha-219 Ru"
-engine_model/ha_32;"Ha-32"
-engine_model/jumo210c;"Jumo 210С"
-engine_model/r1340-27;"R-1340-27"
-engine_model/r1340-33;"R-1340-33"
-engine_model/r1830-17;"R-1830-17"
-engine_model/1710-29;"V-1710-29"
-engine_model/1710-35;"V-1710-35"
-engine_model/1710-75;"V-1710-75"
-engine_model/1710-91;"V-1710-91"
-engine_model/1710-113;"V-1710-113"
-engine_model/1710-27;"V-1710-27"
-engine_model/1710-51;"V-1710-51"
-engine_model/1710-89;"V-1710-89"
-engine_model/1710-111;"V-1710-111"
-engine_model/1710-95;"V-1710-95"
-engine_model/1710-39;"V-1710-39"
-engine_model/1710-85;"V-1710-85"
-engine_model/r2800-63;"R-2800-63"
-engine_model/r2800-65;"R-2800-65"
-engine_model/1710-93;"V-1710-93"
-engine_model/1710-117;"V-1710-117"
-engine_model/1710-87;"V-1710-87"
-engine_model/1710-81;"V-1710-81"
-engine_model/r2800-73;"R-2800-73"
-engine_model/r2800-57c;"R-2800-57C"
-engine_model/1650-7;"V-1650-7"
-engine_model/1710-145;"V-1710-145"
-engine_model/1710-143;"V-1710-143"
-engine_model/j33-a-17;"J33-A-17"
-engine_model/j33-a-35;"J33-A-35"
-engine_model/j35-a-15;"J35-A-15"
-engine_model/j35-a-29;"J35-A-29"
-engine_model/j47_ge_13;"J47-GE-13"
-engine_model/r-1820_04;"R-1820-04 Cyclone"
-engine_model/r-1820g2;"R-1820-G2 Cyclone"
-engine_model/r-1820-22;"R-1820-22 Cyclone"
-engine_model/r-1820-33;"R-1820-33 Cyclone"
-engine_model/r-1820-34;"R-1820-34 Cyclone"
-engine_model/r-1820-40;"R-1820-40 Cyclone"
-engine_model/r1830-86;"R-1830-86"
-engine_model/r1830-94;"R-1830-94"
-engine_model/r2800-10;"R-2800-10"
-engine_model/r2800-8w;"R-2800-8W"
-engine_model/r2800-22w;"R-2800-22W"
-engine_model/r2800-34w;"R-2800-34W"
-engine_model/j34-we-34;"J34-WE-34"
-engine_model/j42-p-8;"J42-P-8"
-engine_model/j42-p-5;"J42-P-5"
-engine_model/j42-p-8a;"J42-P-8A"
-engine_model/r985-48;"R-985-48"
-engine_model/r-1820-52;"R-1820-52 Cyclone"
-engine_model/r-2600-23;"R-2600-23"
-engine_model/r-2600-20;"R-2600-20"
-engine_model/r-2600-8;"R-2600-8"
-engine_model/r-2600-29;"R-2600-29"
-engine_model/r-3350;"R-3350"
-engine_model/r-3350-26wd;"R-3350-26WD"
-engine_model/r-3350-26w;"R-3350-26W"
-engine_model/r-3350-26wa;"R-3350-26WA"
-engine_model/r1830-92;"R-1830-92"
-engine_model/r1830-64;"R-1830-64"
-engine_model/r-1820-53;"R-1820-53 Cyclone"
-engine_model/r-1820-65;"R-1820-65 Cyclone"
-engine_model/r-1820-97;"R-1820-97 Cyclone"
-engine_model/r1830-65;"R-1830-65"
-engine_model/r-3350-57;"R-3350-57"
-engine_model/j65-w-5;"J65-W-5"
-engine_model/j65-w-16a;"J65-W-16A"
-engine_model/r-3350-14;"R-3350-14"
-engine_model/r-1820-67;"R-1820-67 Cyclone"
-engine_model/r-1820-69;"R-1820-69 Cyclone"
-engine_model/r2800-27;"R-2800-27"
-engine_model/kestrel;"Kestrel"
-engine_model/merlin-3;"Merlin Mk. III"
-engine_model/merlin-20;"Merlin Mk. XX"
-engine_model/merlin-24;"Merlin Mk. 24"
-engine_model/sabre-2a;"Sabre Mk. 2a"
-engine_model/sabre-2;"Sabre Mk. 2"
-engine_model/centaurus-5;"Centaurus Mk. V"
-engine_model/orpheus_mk_801;"Orpheus Mk. 801"
-engine_model/orpheus_mk_803;"Orpheus Mk. 803"
-engine_model/goblin-2;"Goblin Mk. II"
-engine_model/goblin-3;"Goblin Mk. 3"
-engine_model/ghost_103;"Ghost-103"
-engine_model/avon_113;"Avon Mk. 113"
-engine_model/mercury-ix;"Mercury Mk. IX"
-engine_model/merlin-12;"Merlin Mk. XII"
-engine_model/merlin-45;"Merlin Mk. 45"
-engine_model/merlin-45m;"Merlin Mk. 45M"
-engine_model/merlin-61;"Merlin Mk. 61"
-engine_model/merlin-66;"Merlin Mk. 66"
-engine_model/merlin-68a;"Merlin Mk. 68A"
-engine_model/merlin-266;"Merlin Mk. 266"
-engine_model/griffon-65;"Griffon Mk. 65"
-engine_model/griffon-61;"Griffon Mk. 61"
-engine_model/derwent-8;"Derwent Mk. 8"
-engine_model/derwent-2;"Derwent Mk. 2"
-engine_model/derwent-5;"Derwent Mk. 5"
-engine_model/derwent;"Derwent Mk. 1"
-engine_model/griffon-2;"Griffon Mk. 2"
-engine_model/griffon-74;"Griffon Mk. 74"
-engine_model/centaurus-9;"Centaurus Mk. IX"
-engine_model/griffon-6;"Griffon Mk. VI"
-engine_model/griffon-88;"Griffon Mk. 88"
-engine_model/centaurus-18;"Centaurus Mk. XVIII"
-engine_model/nene-3;"Nene-3"
-engine_model/viper_11;"Viper Mk. 200"
-engine_model/viper-535;"Viper Mk. 535"
-engine_model/mercury-xv;"Mercury Mk. XV"
-engine_model/s3c4-g;"S3C4-G"
-engine_model/hercules-vi;"Hercules Mk. VI"
-engine_model/hercules-III;"Hercules Mk. III"
-engine_model/hercules-xvii;"Hercules Mk. XVII"
-engine_model/merlin-25;"Merlin Mk. 25"
-engine_model/centaurus-57;"Centaurus Mk. 57"
-engine_model/pegasus_iii_m3;"Pegasus Mk. IIIM3"
-engine_model/pegasus_xviii;"Pegasus Mk. XVIII"
-engine_model/hercules_xi;"Hercules Mk. XI"
-engine_model/hercules_vi;"Hercules Mk. VI"
-engine_model/hercules_xvi;"Hercules Mk. XVI"
-engine_model/merlin-28;"Merlin Mk. 28"
-engine_model/avon_101;"Avon Mk. 101"
-engine_model/avon_109;"Avon Mk. 109"
-engine_model/s1h1;"S1H1-G"
-engine_model/s3cg;"S3CG"
-engine_model/pyton_3;"Python 3"
-engine_model/12y45;"12Y-45"
-engine_model/orenda_10;"Orenda 10"
-engine_model/am_34n;"AM-34N"
-engine_model/m_17;"M-17"
-engine_model/jumo_213a;"Jumo 213А"
-engine_model/bmw_6;"VI"
-engine_model/jumo_210d;"Jumo 210D"
-engine_model/jumo_210e;"Jumo 210E"
-engine_model/db_601a;"DB-601A"
-engine_model/db_601n;"DB-601N"
-engine_model/db_601e;"DB-601E"
-engine_model/db_605a;"DB-605A"
-engine_model/db_605am;"DB-605AM"
-engine_model/db_605asm;"DB-605ASM"
-engine_model/db_605db;"DB-605DB"
-engine_model/db_605dc;"DB-605DC"
-engine_model/db_610;"DB-610"
-engine_model/hwk_109_509a-2;"HWK 109-509A-2"
-engine_model/jumo004b-1;"Jumo 004B-1"
-engine_model/bmw_003;"003"
-engine_model/bmw_003r;"003-R"
-engine_model/bmw_003e;"003-E"
-engine_model/a74;"A74"
-engine_model/bmw_801_c1;"801 С1"
-engine_model/bmw_801_d2;"801 D2"
-engine_model/jumo_213e1;"Jumo-213E1"
-engine_model/db_603la;"DB-603LA"
-engine_model/db_603u;"DB-603U"
-engine_model/mtca;"MTCA 12V"
-engine_model/ra_1000_rc_41;"R.A.1000 RC.41"
-engine_model/bramo_323;"Bramo 323P"
-engine_model/bmw_801_ml;"801 ML"
-engine_model/db_603a;"DB-603A"
-engine_model/db_603qa;"DB-603QA"
-engine_model/db_603qe;"DB-603QE"
-engine_model/db_603e;"DB-603E"
-engine_model/132a;"132A"
-engine_model/jumo_211d;"Jumo 211D"
-engine_model/jumo_211j;"Jumo 211J"
-engine_model/baumuster_14m;"Baumuster 14M"
-engine_model/iv_7_3;"IV 7.3"
-engine_model/jumo_211f;"Jumo 211F"
-engine_model/jumo_211b_1;"Jumo 211B-1"
-engine_model/126_rc_34;"126 RC 34"
-engine_model/k14_mistral;"K.14 Mistral"
-engine_model/132h;"132H"
-engine_model/bmw_801_d;"801 D"
-engine_model/as_410;"AS 410"
-engine_model/1710-77;"V-1710-77"
-engine_model/r2800-31;"R-2800-31"
-engine_model/ha_112_2ru;"Ha-112-II Ru"
-engine_model/kasei_14;"Kasei 14"
-engine_model/j48-p-8a;"J48-P-8A"
-engine_model/hwk_109_509s;"HWK 109-509s"
-engine_model/bmw_109-718;"109-718"
-engine_model/r2800-79;"R-2800-79"
-engine_model/rd-20f;"RD-20F"
-engine_model/vk_105pf2;"VK-105PF2"
-engine_model/r-1820-95;"R-1820-95 Cyclone"
-engine_model/RC.41;"A80 RC.41"
-engine_model/a-30;"A30"
-engine_model/a-30bis;"A30 Bis"
-engine_model/P_X_R;"P.X.R"
-engine_model/P_XI_RC40;"P.XI. R.C. 40"
-engine_model/P.XII RC.35;"P.XII RC.35"
-engine_model/P_XI_RC40bis;"P.XI.Bis R.C. 40"
-engine_model/isotta;"K-14fc"
-engine_model/jumo_210g;"Jumo 210G"
-engine_model/r2800-10w;"R-2800-10W"
-engine_model/r1830-43;"R-1830-43"
-engine_model/r1830-45;"R-1830-45"
-engine_model/r1830-47;"R-1830-47"
-engine_model/atsuta_31;"Atsuta 31"
-engine_model/kinsei_62;"Kinsei 62"
-engine_model/1650-9;"1650-9"
-engine_model/ash-73;"AŠ-73"
-engine_model/ash-82v;"AŠ-82V"
-engine_model/r3350_43;"R-3350-43"
-engine_model/merlin-130;"Merlin 130"
-engine_model/merlin-131;"Merlin 131"
-engine_model/r2800-18w;"R-2800-18W"
-engine_model/125_rc_35;"125 R.C.35"
-engine_model/r2800-42w;"R-2800-42W"
-engine_model/j48-p-6;"J-48-P-6"
-engine_model/bmw_801_tu;"801 TU"
-engine_model/12y31;"12Y-31"
-engine_model/12xbrs;"12Xbrs"
-engine_model/12xcrs;"12Xcrs"
-engine_model/12xgrs;"12Xgrs"
-engine_model/12ycrs;"12Ycrs"
-engine_model/14m_6;"14M-6"
-engine_model/14ab_10;"14Ab-10"
-engine_model/14ab_11;"14Ab-11"
-engine_model/14mars;"14Mars"
-engine_model/r-2600-13;"R-2600-13"
-engine_model/14r;"14R"
-engine_model/av_14_kirs;"AV 14 Kirs"
-engine_model/nene-mk104;"Nene-Mk. 104"
-engine_model/atar_101c;"Atar 101C"
-engine_model/04_c5;"04-C5"
-engine_model/04_c6;"04-C6"
-engine_model/atar_101d3;"Atar 101D3"
-engine_model/atar_101e3;"Atar 101E3"
-engine_model/12h-02;"12H-02"
-engine_model/12z;"12Z"
-engine_model/12_r_03;"12 R.03"
-engine_model/12y29;"12Y-29"
-engine_model/14n-38;"14N-38"
-engine_model/14n-39;"14N-39"
-engine_model/14kfs;"14Kfs"
-engine_model/12Zars-15;"12Zars-15"
-engine_model/12Zars-16;"12Zars-16"
-engine_model/14n-48;"14N-48"
-engine_model/atar_101e5;"Atar 101E5"
-engine_model/tay_mk250;"Tay Mk. 250"
-engine_model/r-1535-2;"R-1535-2"
-engine_model/peregrine_1;"Peregrine I"
-engine_model/atsuta_21;"Atsuta 21"
-engine_model/1710-33;"V-1710-33"
-engine_model/griffon-83;"Griffon-83"
-engine_model/r1830-s1c3-g;"R-1830-S1C3-G"
-engine_model/ha_45_type_99;"Ha-45 type 99"
-engine_model/M-87A;"M-87A"
-engine_model/M-87;"M-87"
-engine_model/kestrel_iis;"Kestrel Mk. IIS"
-engine_model/kestrel_iv;"Kestrel Mk. IV"
-engine_model/kestrel_vfp;"Kestrel Mk. VFP"
-engine_model/ha_43_42;"Ha-43-42"
-engine_model/ha9_IId;"Ha-9-2B"
-engine_model/db_601f;"DB-601F"
-engine_model/db_605b;"DB-605B"
-engine_model/1650-1;"V-1650-1"
-engine_model/agt_1500;"AGT1500"
-engine_model/cv12_6a;"CV12-6A"
-engine_model/mb_838_ca_m500;"MB 838 Ca-M500"
-engine_model/mb_873_ka_501;"MB 873 Ka-501"
-engine_model/mt_883;"MT 833"
-engine_model/v8x_1500;"V8X-1500"
-engine_model/dsi_14;"DSI14"
-engine_model/di_16;"DI16"
-engine_model/vk-2500-ii;"VK-2500-II"
-engine_model/T700-GE-401C;"T700-GE-401C"
-engine_model/am-42fb;"AM-42FB"
-engine_model/rb199_34r_mk101;"RB199-34R Mk. 101"
-engine_model/rb199_34r_mk103;"RB199-34R Mk. 103"
-engine_model/rb199_34r_mk104;"RB199-34R Mk. 104"
-engine_model/rb199_34r_mk105;"RB199-34R Mk. 105"
-engine_model/artouste_iic6;"Artouste IIC6"
-engine_model/t53l13;"T53-L-13"
-engine_model/250c20b;"250-C20B"
-engine_model/250c20r3;"250-C20R3"
-engine_model/14n-66;"14N-66"
-engine_model/14n-67;"14N-67"
-engine_model/j57_p_21;"J57-P-21"
-engine_model/rd-9b;"RD-9B"
-engine_model/sapphire_mk_205;"Sapphire Mk. 205"
-engine_model/sapphire_mk_206;"Sapphire Mk. 206"
-engine_model/14_n_25;"14 N 25"
-engine_model/sapphire_mk_209;"Sapphire Mk. 209"
-engine_model/sapphire_mk_210;"Sapphire Mk. 210"
-engine_model/sapphire_mk_assa_7;"Sapphire ASSa.7"
-engine_model/db_603s;"DB-603A(S)"
-engine_model/r_2600_6;"R-2600-6"
-engine_model/r_2600_12;"R-2600-12"
-engine_model/1710-63;"V-1710-63"
-engine_model/r_2600_22;"R-2600-22"
-engine_model/bmw801tj;"801TJ"
-engine_model/m-88p;"M-88R"
-engine_model/r2800-34;"R-2800-34"
-engine_model/atar_101g_2;"Atar 101G2"
-engine_model/TF40-801A;"TF40-IHI-801A"
-engine_model/J85-GE-13A;"J85-GE-13A"
-engine_model/db_605a1;"DB-605A1"
-engine_model/orenda_14;"Orenda 14"
-engine_model/nene-mk103;"Nene-Mk. 103"
-engine_model/r-1820-84;"R-1820-84 Cyclone"
-engine_model/jumo_213e;"Jumo 213E"
-engine_model/avon_203;"Avon Mk. 203"
-engine_model/avon_207;"Avon Mk. 207"
-engine_model/j31_ge_3;"J31-GE-3"
-engine_model/j47_ge_17b;"J47-GE-17B"
-engine_model/r4360_4w;"R-4360-4W"
-engine_model/t40_a_6;"T40-A-6"
-engine_model/p_xix_rc_45;"P.XIX. R.C. 45"
-engine_model/M-87b;"M-87B"
-engine_model/j79_ge_15;"J79-GE-15"
-engine_model/j35-a-21b;"J35-A-21B"
-engine_model/j35-a-35;"J35-A-35"
-engine_model/r-11f-300;"R-11F-300"
-engine_model/gem_60;"GEM 60"
-engine_model/gem_41-2;"GEM 41-2"
-engine_model/nimbus_mk101;"Nimbus Mk. 101"
-engine_model/nimbus_mk103;"Nimbus Mk. 103"
-engine_model/mtr390-2c;"MTR390-2C"
-engine_model/mtr390-e;"MTR390-E"
-engine_model/avon_105;"Avon Mk. 105"
-engine_model/avon_116;"Avon Mk. 116"
-engine_model/m-85;"M-85"
-engine_model/m-86;"M-86"
-engine_model/am_34nb;"AM-34NB"
-engine_model/r-1820-g5;"R-1820-G5 Cyclone"
-engine_model/r-1820-87;"R-1820-87 Cyclone"
-engine_model/spey_202;"Spey 202"
-engine_model/spey_203;"Spey 203"
-engine_model/spey_807;"Spey 807"
-engine_model/rm2b;"RM2B"
-engine_model/rm5a;"RM5A"
-engine_model/rm6a;"RM6A"
-engine_model/cts800-2;"CTS800-2"
-engine_model/tv3_117vma;"TV3-117VMA"
-engine_model/swc3;"STWC3"
-engine_model/ha_115_2;"Ha-115-II"
-engine_model/homare_42;"Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-42 || Homare 42 Gata | NK9A-O"
-engine_model/pegasus_xxiv;"Pegasus Mk. XXIV"
-engine_model/jupiter_viif;"Jupiter VIIF"
-engine_model/rm2;"RM2"
-engine_model/rm1;"RM1"
-engine_model/rm1a;"RM1A"
-engine_model/atar_8c2;"Atar 8C2"
-engine_model/T700-GE-701;"T700-GE-701"
-engine_model/T700-GE-701C;"T700-GE-701C"
-engine_model/T700-GE-700;"T700-GE-700"
-engine_model/RTM322;"RTM322"
-engine_model/r-13f-300;"R-13F-300"
-engine_model/r-13-300;"R-13-300"
-engine_model/mercury-xxiv;"Mercury Mk. XXIV"
-engine_model/j79_ge_17;"J79-GE-17"
-engine_model/rm6c;"RM 6С"
-engine_model/avon_302;"Avon Mk. 302"
-engine_model/r2800-83wa;"R2800-83WA"
-engine_model/j57_p_7;"J57-P-7"
-engine_model/j57_p_8;"J57-P-8"
-engine_model/kasei_25;"Kasei 25"
-engine_model/pegasus_30;"Pegasus Mk. 30"
-engine_model/avon_202;"Avon Mk. 202"
-engine_model/j79_ge_19;"J79-GE-19"
-engine_model/j79_ge_3;"J79-GE-3"
-engine_model/j79_ge_3b;"J79-GE-3B"
-engine_model/j79_ge_7;"J79-GE-7"
-engine_model/j79_ge_11;"J79-GE-11"
-engine_model/atar_9b;"Atar 9B"
-engine_model/al_7f_1_100;"AL-7F-1-100"
-engine_model/j71-a-2;"J71-A-2"
-engine_model/mamoru_11;"Mamoru 11"
-engine_model/j79_ge_7a;"J79-GE-7A"
-engine_model/M-82-ir;"M-82IR"
-engine_model/bmw_13k;"132K"
-engine_model/j65-w-18;"J65-W-18"
-engine_model/al_7f_1_200;"AL-7F-1-200"
-engine_model/r2800-59;"R-2800-59"
-engine_model/r2800-43;"R-2800-43"
-engine_model/adour_mk102;"Adour Mk. 102"
-engine_model/al_7f_1_250;"AL-7F-1-250"
-engine_model/d-1a;"D-1a"
-engine_model/rd-36-35fv;"RD-36-35FV"
-engine_model/r-27v-300;"R-27V-300"
-engine_model/r-25-300;"R-25-300"
-engine_model/rm9b;"RM9B"
-engine_model/pegasus_101;"Pegasus Mk. 101"
-engine_model/pegasus_103;"Pegasus Mk. 103"
-engine_model/pegasus_104;"Pegasus Mk. 104"
-engine_model/pegasus_105;"Pegasus Mk. 105"
-engine_model/pegasus_106;"Pegasus Mk. 106"
-engine_model/pegasus_107;"Pegasus Mk. 107"
-engine_model/f402-rr-401;"F402-RR-401"
-engine_model/f402-rr-402;"F402-RR-402"
-engine_model/f402-rr-408;"F402-RR-408"
-engine_model/r_4360_4_wasp_major;"R-4360-4 Wasp Major"
-engine_model/a_74_rc_38;"A.74 R.C.38"
-engine_model/rd-38;"RD-38"
-engine_model/r-28v-300;"R-28V-300"
-engine_model/j52-p-6a;"J52-P-6A"
-engine_model/j52-p-8a;"J52-P-8A"
-engine_model/j52-p-8as;"J52-P-8A"
-engine_model/j52-p-8b;"J52-P-8B"
-engine_model/j52-p-408;"J52-P-408"
-engine_model/tf_41_a_1;"TF41-A-1"
-engine_model/tf_41_a_2;"TF41-A-2"
-engine_model/gem_2_1004d;"GEM 2-1004D"
-engine_model/250c20r1;"250-C20R1"
-engine_model/spey_101;"Spey 101"
-engine_model/r-11f2s-300;"R-11F2S-300"
-engine_model/j85-ge-17b;"J85-GE-17B"
-engine_model/j65-w-7;"J65-W-7"
-engine_model/j65-w-3;"J65-W-3"
-engine_model/am-37p;"AM-37P"
-engine_model/mercury-viii;"Mercury Mk. VIII"
-engine_model/j85_ge_13;"J85-GE-13"
-engine_model/al_21f_3;"AL-21F-3"
-engine_model/tr_1;"TR-1"
-engine_model/atar_9c;"Atar 9C"
-engine_model/nene-102;"Nene-102"
-engine_model/j57_p_16;"J57-P-16"
-engine_model/merlin_225;"Merlin Mk. 225"
-engine_model/j79_mtu_17a;"J79-MTU-17A"
-engine_model/j79_mtu_j1k;"J79-MTU-J1K"
-engine_model/willy_willy_9;"Willy-Willy-9"
-engine_model/willy_willy_mini_9;"Willy-Willy-9-mini"
-engine_model/power_pull_2000;"PowerPull-2000"
-engine_model/zx-785-se;"ZX-785-se"
-engine_model/big_boss;"Big Boss"
-engine_model/dragon_6;"Dragon-6"
-engine_model/little_pony;"Little Pony"
-engine_model/zzzzoom;"Zzzzoom-Boom"
-engine_model/big_pony;"Big Pony"
-engine_model/al_61f;"AL-61F"
-engine_model/centaurus-59;"Centaurus Mk. 59"
-engine_model/avon_208;"Avon Mk. 208"
-engine_model/r-11af-300;"R-11AF-300"
-engine_model/verdon_350;"Verdon-350"
-engine_model/r-29-300;"R-29-300"
-engine_model/j85_ge_21a;"J85-GE-21A"
-engine_model/derwent-9;"Derwent Mk. 9"
-engine_model/sc3-g;"SC3-G"
-engine_model/sakae_31a;"Sakae 31a"
-engine_model/gyron_junior_dgj_2;"Gyron Junior DGJ.2 (Mk. 101)"
-engine_model/mk4b;"MK4B"
-engine_model/jumo_211n;"Jumo 211N"
-engine_model/128_rc_18;"128 RC.18"
-engine_model/sgr_1820_f_3;"SGR-1820-F3 Cyclone"
-engine_model/r-29b-300;"R-29B-300"
-engine_model/rm8a;"RM8A"
-engine_model/rm8b;"RM8B"
-engine_model/rm6b;"RM6B"
-engine_model/jumo_205d;"Jumo 205D"
-engine_model/m_43v;"M-43V"
-engine_model/griffon-57a;"Griffon Mk. 57A"
-engine_model/j57_p_20a;"J57-P-20A"
-engine_model/j57_p_20;"J57-P-20"
-engine_model/vk-2500p;"VK-2500P"
-engine_model/r-35-300;"R-35-300"
-engine_model/gr_2600-a5b;"GR-2600-A5B"
-engine_model/adour_mk104;"Adour Mk. 104"
-engine_model/merlin-55m;"Merlin Mk. 55M"
-engine_model/r-29bs-300;"R-29BS-300"
-engine_model/tf34_ge_100a;"TF34-GE-100A"
-engine_model/tf34_ge_100;"TF34-GE-100"
-engine_model/j75-p-19w;"J75-P-19W"
-engine_model/j79_ge_j1e;"J79-GE-J1E"
-engine_model/j79_ge_10;"J79-GE-10"
-engine_model/j79_ge_10b;"J79-GE-10B"
-engine_model/atar_9k_50;"Atar 9K-50"
-engine_model/tf30_p_412a;"TF30-P-412A"
-engine_model/RSr_2_Soar;"RSr.2 Soar"
-engine_model/r-95sh;"R-95SH"
-engine_model/r-195;"R-195"
-engine_model/mercury_viia;"Mercury Mk. VIIIA/AS"
-engine_model/makila_1k2;"Makila 1K2"
-engine_model/m53-5;"M53-5"
-engine_model/m53-p2;"M53-P2"
-engine_model/cts800-4a;"CTS800-4a"
-engine_model/avon_115;"Avon Mk. 115"
-engine_model/f100_pw_220;"F100-PW-220"
-engine_model/f100_pw_229;"F100-PW-229"
-engine_model/rd-33;"RD-33"
-engine_model/rd-41;"RD-41"
-engine_model/r79v-300;"R79V-300"
-engine_model/250c30;"250-C30"
-engine_model/250c30r;"250-C30R"
-engine_model/f110-ge-400;"F110-GE-400"
-engine_model/f110-ge-100;"F110-GE-100"
-engine_model/f110-ge-129;"F110-GE-129"
-engine_model/gnome_h_1200;"Gnome H.1200"
-engine_model/tv2_117a;"TV2-117A"
-engine_model/atar_8k_50;"Atar 8K-50"
-engine_model/rd-33_serie_2;"RD-33 series 2"
-engine_model/rd-33_serie_3;"RD-33 series 3"
-engine_model/rd-93;"RD-93"
-engine_model/tf30_p_3;"TF30-P-3"
-engine_model/tv3_117vm;"TV3-117VM"
-engine_model/al_31f;"AL-31F"
-engine_model/al_31f_m1;"AL-31FM1"
-engine_model/al_31fn;"AL-31FN"
-engine_model/al_31fn_series_3;"AL-31FN syeriâ 3"
-engine_model/al_41f1s;"izd. 117S | AL-41F1S"
-engine_model/f100_pw_100;"F100-PW-100"
-engine_model/f100_ihi_100;"F100-IHI-100"
-engine_model/f100_ihi_200e;"F100-IHI-200E"
-engine_model/f100_ihi_220e;"F100-IHI-220E"
-engine_model/t700_ihi_701c;"T700-IHI-701C"
-engine_model/rm12;"RM12"
-engine_model/f404_ge_100;"F404-GE-100"
-engine_model/adour_mk811;"Adour Mk. 811"
-engine_model/adour_mk871;"Adour Mk. 871"
-engine_model/avon_302c;"Avon Mk.302C"
-engine_model/j79_ihi_11;"J79-IHI-11A"
-// engine_model/AVDS-1790-5A;"Manufacturer: Continental Motors CompanyEngine model: AVDS-1790-5A"
-engine_model/AVDS-1790-5A;"AVDS-1790-5A"
-engine_model/tf30_p_103;"TF30-P-103"
-engine_model/tf30_p_100;"TF30-P-100"
-engine_model/tf30_p_109;"TF30-P-109"
-engine_model/f404_f1d2;"F404-F1D2"
-engine_model/f402-rr-406;"F402-RR-406"
-engine_model/vk-2500_03;"VK-2500-03"
-engine_model/viper_mk540;"Viper Mk. 540"
-engine_model/viper_632_43;"Viper Mk. 632-43"
-engine_model/viper_633_41;"Viper Mk. 633-41"
-engine_model/viper_633_43;"Viper Mk. 633-43"
-engine_model/viper_633_47;"Viper Mk. 633-47"
-engine_model/mt_881_ka_500;"MTU 881 Ka-500"
-engine_model/6v_53t;"6V53T"
-engine_model/ej200;"EJ200"
-engine_model/al_31f_series_3;"AL-31F3"
-engine_model/d12;"D12"
-engine_model/d13;"D13"
-engine_model/v_84_amc;"V-84AMS"
-engine_model/04_c20;"04-C20"
-engine_model/14n-35;"14N-35"
-engine_model/al_31fp;"AL-31FP"
-engine_model/f404_ge_400;"F404-GE-400"
-engine_model/f404_ge_402;"F404-GE-402 Enhanced Performance Engine"
-engine_model/eagle_viii;"Eagle Mk. VIII"
-engine_model/iii_a;"IIIa"
-engine_model/bd;"8Bd"
-engine_model/orpheus_mk_703;"Orpheus Mk. 703"
-engine_model/maxxforce_13;"MaxxForce 13"
-engine_model/isbe_285;"ISBe6.7 285"
-engine_model/ys-2;"Flugmotor YS-2"
-engine_model/vk-1f;"VK-1F"
-engine_model/j75-p-17;"J75-P-17"
-engine_model/8v92ta;"8V-92TA"
-engine_model/6td2;"6TD-2"
-engine_model/v_84_2s1;"V-84MS"
-engine_model/utd_29t_01;"UTD-29T-01"
-engine_model/dxi11;"DXi 11 Euro 4"
-engine_model/ha_25_type_99;"99 Shiki 950 Bariki Hatsudōki | Ha 25"
-engine_model/sakae_22;"Ha 35-22 | Sakae 22 Gata | NK1G"
-engine_model/derwent_1;"Rolls-Royce RB.37 | Derwent Mk. 1"
-engine_model/j71-a-13;"J71-A-13"
-engine_model/T700-GE-701D;"T700-GE-701D"
-engine_model/id38ss;"ID 38 SS"
-engine_model/740_13_300;"KAMAZ 740.13-300"
-engine_model/condor_900e;"Condor 900E"
-engine_model/t64_ge_716;"T64-GE-716(ST)"
-engine_model/r2000_7;"R-2000-7"
-engine_model/mtu_8v_199_te20;"MTU 8V 199 TE20"
-engine_model/mtu_8v_199_te21;"MTU 8V 199 TE21"
-engine_model/mtu_8v_199_te21d;"MTU 8V 199 TE21-D"
-engine_model/6m70t4;"6M70T4"
-engine_model/1710-55;"Allison Engine Company F10L | V-1710-55"
-engine_model/r-1820-f53;"GR-1820-F53 Cyclone"
-engine_model/dsc1122;"DSC1122"
-engine_model/m88_2e4;"M88-2E4"
-engine_model/f414_ge_400;"F414-GE-400"
-engine_model/f414_ge_39e_rm16;"RM16"
-engine_model/r-1820-72w;"R-1820-72W Cyclone"
+engine_model/t53_l_11;T53-L-11
+engine_model/t53_l_703;T53-L-703
+engine_model/m-11d;M-11D
+engine_model/m-25a;M-25A
+engine_model/m-22;M-22
+engine_model/m-25v;M-25V
+engine_model/m-62;AŠ-62
+engine_model/m-63;M-63
+engine_model/am-35;AM-35A
+engine_model/m-71;M-71
+engine_model/m-88;M-88
+engine_model/am-38;AM-38
+engine_model/am-38f;AM-38F
+engine_model/am-42;AM-42
+engine_model/am-71f;M-71F
+engine_model/m-100;M-100
+engine_model/m-100a;M-100A
+engine_model/m-103a;M-103A
+engine_model/ach-30;ACh-30
+engine_model/ash-73tk;AŠ-73TK
+engine_model/kotobuki_41;Kotobuki 41
+engine_model/sakae_12;Sakae 12
+engine_model/sakae_21;Sakae 21
+engine_model/ha_32_mod_23;Ha-32 Mod 23
+engine_model/ha_43_11;Ha-43-11
+engine_model/homare_21;Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-21 || Homare 21 Gata | NK9H
+engine_model/homare_23;Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-23 || Homare 23 Gata | NK9H-S
+engine_model/kasei_26;Kasei 26
+engine_model/ne_20;Ne 20 Kai
+engine_model/ha_43_32;Ha-43-32
+engine_model/ha_104;Ha-104
+engine_model/10zg32wt;10ZG 32WT
+engine_model/j47_ge_27;J47-GE-27
+engine_model/ha9_IIa;Ha-9-2A
+engine_model/type_99;Type 99
+engine_model/ha_115;Ha-115
+engine_model/ha_34_mod_01;Ha-41
+engine_model/ha_109;Ha-109
+engine_model/ha_40;Ha-40
+engine_model/ha_140;Ha-140
+engine_model/ha_112_2;Ha-112-2
+engine_model/ha_112;Ha-112
+engine_model/ro_2;Ro.2
+engine_model/ha_102;Ha-102
+engine_model/ha_211_ru;Ha-211 Ru
+engine_model/zuisei_13;Zuisey 13
+engine_model/zuisei_11;Zuisey 11
+engine_model/kinsei_44;Kinsei 44
+engine_model/sakae_11;Sakae 11
+engine_model/homare_12;Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-12 || Homare 12 Gata
+engine_model/ne_330;Ne-330
+engine_model/ha_5;Ha-5
+engine_model/kinsei_43;Kinsei 43
+engine_model/kasei_22;Kasei 22
+engine_model/kasei_15;Kasei 15
+engine_model/ha_41;Ha-41
+engine_model/mamoru_12;Mamoru 12
+engine_model/nk9k_l;NK9K-L
+engine_model/nk9h;NK9H
+engine_model/ha_219ru;Ha-219 Ru
+engine_model/ha_32;Ha-32
+engine_model/jumo210c;Jumo 210С
+engine_model/r1340-27;R-1340-27
+engine_model/r1340-33;R-1340-33
+engine_model/r1830-17;R-1830-17
+engine_model/1710-29;V-1710-29
+engine_model/1710-35;V-1710-35
+engine_model/1710-75;V-1710-75
+engine_model/1710-91;V-1710-91
+engine_model/1710-113;V-1710-113
+engine_model/1710-27;V-1710-27
+engine_model/1710-51;V-1710-51
+engine_model/1710-89;V-1710-89
+engine_model/1710-111;V-1710-111
+engine_model/1710-95;V-1710-95
+engine_model/1710-39;V-1710-39
+engine_model/1710-85;V-1710-85
+engine_model/r2800-63;R-2800-63
+engine_model/r2800-65;R-2800-65
+engine_model/1710-93;V-1710-93
+engine_model/1710-117;V-1710-117
+engine_model/1710-87;V-1710-87
+engine_model/1710-81;V-1710-81
+engine_model/r2800-73;R-2800-73
+engine_model/r2800-57c;R-2800-57C
+engine_model/1650-7;V-1650-7
+engine_model/1710-145;V-1710-145
+engine_model/1710-143;V-1710-143
+engine_model/j33-a-17;J33-A-17
+engine_model/j33-a-35;J33-A-35
+engine_model/j35-a-15;J35-A-15
+engine_model/j35-a-29;J35-A-29
+engine_model/j47_ge_13;J47-GE-13
+engine_model/r-1820_04;R-1820-04 Cyclone
+engine_model/r-1820g2;R-1820-G2 Cyclone
+engine_model/r-1820-22;R-1820-22 Cyclone
+engine_model/r-1820-33;R-1820-33 Cyclone
+engine_model/r-1820-34;R-1820-34 Cyclone
+engine_model/r-1820-40;R-1820-40 Cyclone
+engine_model/r1830-86;R-1830-86
+engine_model/r1830-94;R-1830-94
+engine_model/r2800-10;R-2800-10
+engine_model/r2800-8w;R-2800-8W
+engine_model/r2800-22w;R-2800-22W
+engine_model/r2800-34w;R-2800-34W
+engine_model/j34-we-34;J34-WE-34
+engine_model/j42-p-8;J42-P-8
+engine_model/j42-p-5;J42-P-5
+engine_model/j42-p-8a;J42-P-8A
+engine_model/r985-48;R-985-48
+engine_model/r-1820-52;R-1820-52 Cyclone
+engine_model/r-2600-23;R-2600-23
+engine_model/r-2600-20;R-2600-20
+engine_model/r-2600-8;R-2600-8
+engine_model/r-2600-29;R-2600-29
+engine_model/r-3350;R-3350
+engine_model/r-3350-26wd;R-3350-26WD
+engine_model/r-3350-26w;R-3350-26W
+engine_model/r-3350-26wa;R-3350-26WA
+engine_model/r1830-92;R-1830-92
+engine_model/r1830-64;R-1830-64
+engine_model/r-1820-53;R-1820-53 Cyclone
+engine_model/r-1820-65;R-1820-65 Cyclone
+engine_model/r-1820-97;R-1820-97 Cyclone
+engine_model/r1830-65;R-1830-65
+engine_model/r-3350-57;R-3350-57
+engine_model/j65-w-5;J65-W-5
+engine_model/j65-w-16a;J65-W-16A
+engine_model/r-3350-14;R-3350-14
+engine_model/r-1820-67;R-1820-67 Cyclone
+engine_model/r-1820-69;R-1820-69 Cyclone
+engine_model/r2800-27;R-2800-27
+engine_model/kestrel;Kestrel
+engine_model/merlin-3;Merlin Mk. III
+engine_model/merlin-20;Merlin Mk. XX
+engine_model/merlin-24;Merlin Mk. 24
+engine_model/sabre-2a;Sabre Mk. 2a
+engine_model/sabre-2;Sabre Mk. 2
+engine_model/centaurus-5;Centaurus Mk. V
+engine_model/orpheus_mk_801;Orpheus Mk. 801
+engine_model/orpheus_mk_803;Orpheus Mk. 803
+engine_model/goblin-2;Goblin Mk. II
+engine_model/goblin-3;Goblin Mk. 3
+engine_model/ghost_103;Ghost-103
+engine_model/avon_113;Avon Mk. 113
+engine_model/mercury-ix;Mercury Mk. IX
+engine_model/merlin-12;Merlin Mk. XII
+engine_model/merlin-45;Merlin Mk. 45
+engine_model/merlin-45m;Merlin Mk. 45M
+engine_model/merlin-61;Merlin Mk. 61
+engine_model/merlin-66;Merlin Mk. 66
+engine_model/merlin-68a;Merlin Mk. 68A
+engine_model/merlin-266;Merlin Mk. 266
+engine_model/griffon-65;Griffon Mk. 65
+engine_model/griffon-61;Griffon Mk. 61
+engine_model/derwent-8;Derwent Mk. 8
+engine_model/derwent-2;Derwent Mk. 2
+engine_model/derwent-5;Derwent Mk. 5
+engine_model/derwent;Derwent Mk. 1
+engine_model/griffon-2;Griffon Mk. 2
+engine_model/griffon-74;Griffon Mk. 74
+engine_model/centaurus-9;Centaurus Mk. IX
+engine_model/griffon-6;Griffon Mk. VI
+engine_model/griffon-88;Griffon Mk. 88
+engine_model/centaurus-18;Centaurus Mk. XVIII
+engine_model/nene-3;Nene-3
+engine_model/viper_11;Viper Mk. 200
+engine_model/viper-535;Viper Mk. 535
+engine_model/mercury-xv;Mercury Mk. XV
+engine_model/s3c4-g;S3C4-G
+engine_model/hercules-vi;Hercules Mk. VI
+engine_model/hercules-III;Hercules Mk. III
+engine_model/hercules-xvii;Hercules Mk. XVII
+engine_model/merlin-25;Merlin Mk. 25
+engine_model/centaurus-57;Centaurus Mk. 57
+engine_model/pegasus_iii_m3;Pegasus Mk. IIIM3
+engine_model/pegasus_xviii;Pegasus Mk. XVIII
+engine_model/hercules_xi;Hercules Mk. XI
+engine_model/hercules_vi;Hercules Mk. VI
+engine_model/hercules_xvi;Hercules Mk. XVI
+engine_model/merlin-28;Merlin Mk. 28
+engine_model/avon_101;Avon Mk. 101
+engine_model/avon_109;Avon Mk. 109
+engine_model/s1h1;S1H1-G
+engine_model/s3cg;S3CG
+engine_model/pyton_3;Python 3
+engine_model/12y45;12Y-45
+engine_model/orenda_10;Orenda 10
+engine_model/am_34n;AM-34N
+engine_model/m_17;M-17
+engine_model/jumo_213a;Jumo 213А
+engine_model/bmw_6;VI
+engine_model/jumo_210d;Jumo 210D
+engine_model/jumo_210e;Jumo 210E
+engine_model/db_601a;DB-601A
+engine_model/db_601n;DB-601N
+engine_model/db_601e;DB-601E
+engine_model/db_605a;DB-605A
+engine_model/db_605am;DB-605AM
+engine_model/db_605asm;DB-605ASM
+engine_model/db_605db;DB-605DB
+engine_model/db_605dc;DB-605DC
+engine_model/db_610;DB-610
+engine_model/hwk_109_509a-2;HWK 109-509A-2
+engine_model/jumo004b-1;Jumo 004B-1
+engine_model/bmw_003;003
+engine_model/bmw_003r;003-R
+engine_model/bmw_003e;003-E
+engine_model/a74;A74
+engine_model/bmw_801_c1;801 С1
+engine_model/bmw_801_d2;801 D2
+engine_model/jumo_213e1;Jumo-213E1
+engine_model/db_603la;DB-603LA
+engine_model/db_603u;DB-603U
+engine_model/mtca;MTCA 12V
+engine_model/ra_1000_rc_41;R.A.1000 RC.41
+engine_model/bramo_323;Bramo 323P
+engine_model/bmw_801_ml;801 ML
+engine_model/db_603a;DB-603A
+engine_model/db_603qa;DB-603QA
+engine_model/db_603qe;DB-603QE
+engine_model/db_603e;DB-603E
+engine_model/132a;132A
+engine_model/jumo_211d;Jumo 211D
+engine_model/jumo_211j;Jumo 211J
+engine_model/baumuster_14m;Baumuster 14M
+engine_model/iv_7_3;IV 7.3
+engine_model/jumo_211f;Jumo 211F
+engine_model/jumo_211b_1;Jumo 211B-1
+engine_model/126_rc_34;126 RC 34
+engine_model/k14_mistral;K.14 Mistral
+engine_model/132h;132H
+engine_model/bmw_801_d;801 D
+engine_model/as_410;AS 410
+engine_model/1710-77;V-1710-77
+engine_model/r2800-31;R-2800-31
+engine_model/ha_112_2ru;Ha-112-II Ru
+engine_model/kasei_14;Kasei 14
+engine_model/j48-p-8a;J48-P-8A
+engine_model/hwk_109_509s;HWK 109-509s
+engine_model/bmw_109-718;109-718
+engine_model/r2800-79;R-2800-79
+engine_model/rd-20f;RD-20F
+engine_model/vk_105pf2;VK-105PF2
+engine_model/r-1820-95;R-1820-95 Cyclone
+engine_model/RC.41;A80 RC.41
+engine_model/a-30;A30
+engine_model/a-30bis;A30 Bis
+engine_model/P_X_R;P.X.R
+engine_model/P_XI_RC40;P.XI. R.C. 40
+engine_model/P.XII RC.35;P.XII RC.35
+engine_model/P_XI_RC40bis;P.XI.Bis R.C. 40
+engine_model/isotta;K-14fc
+engine_model/jumo_210g;Jumo 210G
+engine_model/r2800-10w;R-2800-10W
+engine_model/r1830-43;R-1830-43
+engine_model/r1830-45;R-1830-45
+engine_model/r1830-47;R-1830-47
+engine_model/atsuta_31;Atsuta 31
+engine_model/kinsei_62;Kinsei 62
+engine_model/1650-9;1650-9
+engine_model/ash-73;AŠ-73
+engine_model/ash-82v;AŠ-82V
+engine_model/r3350_43;R-3350-43
+engine_model/merlin-130;Merlin 130
+engine_model/merlin-131;Merlin 131
+engine_model/r2800-18w;R-2800-18W
+engine_model/125_rc_35;125 R.C.35
+engine_model/r2800-42w;R-2800-42W
+engine_model/j48-p-6;J-48-P-6
+engine_model/bmw_801_tu;801 TU
+engine_model/12y31;12Y-31
+engine_model/12xbrs;12Xbrs
+engine_model/12xcrs;12Xcrs
+engine_model/12xgrs;12Xgrs
+engine_model/12ycrs;12Ycrs
+engine_model/14m_6;14M-6
+engine_model/14ab_10;14Ab-10
+engine_model/14ab_11;14Ab-11
+engine_model/14mars;14Mars
+engine_model/r-2600-13;R-2600-13
+engine_model/14r;14R
+engine_model/av_14_kirs;AV 14 Kirs
+engine_model/nene-mk104;Nene-Mk. 104
+engine_model/atar_101c;Atar 101C
+engine_model/04_c5;04-C5
+engine_model/04_c6;04-C6
+engine_model/atar_101d3;Atar 101D3
+engine_model/atar_101e3;Atar 101E3
+engine_model/12h-02;12H-02
+engine_model/12z;12Z
+engine_model/12_r_03;12 R.03
+engine_model/12y29;12Y-29
+engine_model/14n-38;14N-38
+engine_model/14n-39;14N-39
+engine_model/14kfs;14Kfs
+engine_model/12Zars-15;12Zars-15
+engine_model/12Zars-16;12Zars-16
+engine_model/14n-48;14N-48
+engine_model/atar_101e5;Atar 101E5
+engine_model/tay_mk250;Tay Mk. 250
+engine_model/r-1535-2;R-1535-2
+engine_model/peregrine_1;Peregrine I
+engine_model/atsuta_21;Atsuta 21
+engine_model/1710-33;V-1710-33
+engine_model/griffon-83;Griffon-83
+engine_model/r1830-s1c3-g;R-1830-S1C3-G
+engine_model/ha_45_type_99;Ha-45 type 99
+engine_model/M-87A;M-87A
+engine_model/M-87;M-87
+engine_model/kestrel_iis;Kestrel Mk. IIS
+engine_model/kestrel_iv;Kestrel Mk. IV
+engine_model/kestrel_vfp;Kestrel Mk. VFP
+engine_model/ha_43_42;Ha-43-42
+engine_model/ha9_IId;Ha-9-2B
+engine_model/db_601f;DB-601F
+engine_model/db_605b;DB-605B
+engine_model/1650-1;V-1650-1
+engine_model/agt_1500;AGT1500
+engine_model/cv12_6a;CV12-6A
+engine_model/mb_838_ca_m500;MB 838 Ca-M500
+engine_model/mb_873_ka_501;MB 873 Ka-501
+engine_model/mt_883;MT 833
+engine_model/v8x_1500;V8X-1500
+engine_model/dsi_14;DSI14
+engine_model/di_16;DI16
+engine_model/vk-2500-ii;VK-2500-II
+engine_model/T700-GE-401C;T700-GE-401C
+engine_model/am-42fb;AM-42FB
+engine_model/rb199_34r_mk101;RB199-34R Mk. 101
+engine_model/rb199_34r_mk103;RB199-34R Mk. 103
+engine_model/rb199_34r_mk104;RB199-34R Mk. 104
+engine_model/rb199_34r_mk105;RB199-34R Mk. 105
+engine_model/artouste_iic6;Artouste IIC6
+engine_model/t53l13;T53-L-13
+engine_model/250c20b;250-C20B
+engine_model/250c20r3;250-C20R3
+engine_model/14n-66;14N-66
+engine_model/14n-67;14N-67
+engine_model/j57_p_21;J57-P-21
+engine_model/rd-9b;RD-9B
+engine_model/sapphire_mk_205;Sapphire Mk. 205
+engine_model/sapphire_mk_206;Sapphire Mk. 206
+engine_model/14_n_25;14 N 25
+engine_model/sapphire_mk_209;Sapphire Mk. 209
+engine_model/sapphire_mk_210;Sapphire Mk. 210
+engine_model/sapphire_mk_assa_7;Sapphire ASSa.7
+engine_model/db_603s;DB-603A(S)
+engine_model/r_2600_6;R-2600-6
+engine_model/r_2600_12;R-2600-12
+engine_model/1710-63;V-1710-63
+engine_model/r_2600_22;R-2600-22
+engine_model/bmw801tj;801TJ
+engine_model/m-88p;M-88R
+engine_model/r2800-34;R-2800-34
+engine_model/atar_101g_2;Atar 101G2
+engine_model/TF40-801A;TF40-IHI-801A
+engine_model/J85-GE-13A;J85-GE-13A
+engine_model/db_605a1;DB-605A1
+engine_model/orenda_14;Orenda 14
+engine_model/nene-mk103;Nene-Mk. 103
+engine_model/r-1820-84;R-1820-84 Cyclone
+engine_model/jumo_213e;Jumo 213E
+engine_model/avon_203;Avon Mk. 203
+engine_model/avon_207;Avon Mk. 207
+engine_model/j31_ge_3;J31-GE-3
+engine_model/j47_ge_17b;J47-GE-17B
+engine_model/r4360_4w;R-4360-4W
+engine_model/t40_a_6;T40-A-6
+engine_model/p_xix_rc_45;P.XIX. R.C. 45
+engine_model/M-87b;M-87B
+engine_model/j79_ge_15;J79-GE-15
+engine_model/j35-a-21b;J35-A-21B
+engine_model/j35-a-35;J35-A-35
+engine_model/r-11f-300;R-11F-300
+engine_model/gem_60;GEM 60
+engine_model/gem_41-2;GEM 41-2
+engine_model/nimbus_mk101;Nimbus Mk. 101
+engine_model/nimbus_mk103;Nimbus Mk. 103
+engine_model/mtr390-2c;MTR390-2C
+engine_model/mtr390-e;MTR390-E
+engine_model/avon_105;Avon Mk. 105
+engine_model/avon_116;Avon Mk. 116
+engine_model/m-85;M-85
+engine_model/m-86;M-86
+engine_model/am_34nb;AM-34NB
+engine_model/r-1820-g5;R-1820-G5 Cyclone
+engine_model/r-1820-87;R-1820-87 Cyclone
+engine_model/spey_202;Spey 202
+engine_model/spey_203;Spey 203
+engine_model/spey_807;Spey 807
+engine_model/rm2b;RM2B
+engine_model/rm5a;RM5A
+engine_model/rm6a;RM6A
+engine_model/cts800-2;CTS800-2
+engine_model/tv3_117vma;TV3-117VMA
+engine_model/swc3;STWC3
+engine_model/ha_115_2;Ha-115-II
+engine_model/homare_42;Nakajima BA | 4 Shiki 1850 Bariki Hatsudōki | Ha 45-42 || Homare 42 Gata | NK9A-O
+engine_model/pegasus_xxiv;Pegasus Mk. XXIV
+engine_model/jupiter_viif;Jupiter VIIF
+engine_model/rm2;RM2
+engine_model/rm1;RM1
+engine_model/rm1a;RM1A
+engine_model/atar_8c2;Atar 8C2
+engine_model/T700-GE-701;T700-GE-701
+engine_model/T700-GE-701C;T700-GE-701C
+engine_model/T700-GE-700;T700-GE-700
+engine_model/RTM322;RTM322
+engine_model/r-13f-300;R-13F-300
+engine_model/r-13-300;R-13-300
+engine_model/mercury-xxiv;Mercury Mk. XXIV
+engine_model/j79_ge_17;J79-GE-17
+engine_model/rm6c;RM 6С
+engine_model/avon_302;Avon Mk. 302
+engine_model/r2800-83wa;R2800-83WA
+engine_model/j57_p_7;J57-P-7
+engine_model/j57_p_8;J57-P-8
+engine_model/kasei_25;Kasei 25
+engine_model/pegasus_30;Pegasus Mk. 30
+engine_model/avon_202;Avon Mk. 202
+engine_model/j79_ge_19;J79-GE-19
+engine_model/j79_ge_3;J79-GE-3
+engine_model/j79_ge_3b;J79-GE-3B
+engine_model/j79_ge_7;J79-GE-7
+engine_model/j79_ge_11;J79-GE-11
+engine_model/atar_9b;Atar 9B
+engine_model/al_7f_1_100;AL-7F-1-100
+engine_model/j71-a-2;J71-A-2
+engine_model/mamoru_11;Mamoru 11
+engine_model/j79_ge_7a;J79-GE-7A
+engine_model/M-82-ir;M-82IR
+engine_model/bmw_13k;132K
+engine_model/j65-w-18;J65-W-18
+engine_model/al_7f_1_200;AL-7F-1-200
+engine_model/r2800-59;R-2800-59
+engine_model/r2800-43;R-2800-43
+engine_model/adour_mk102;Adour Mk. 102
+engine_model/al_7f_1_250;AL-7F-1-250
+engine_model/d-1a;D-1a
+engine_model/rd-36-35fv;RD-36-35FV
+engine_model/r-27v-300;R-27V-300
+engine_model/r-25-300;R-25-300
+engine_model/rm9b;RM9B
+engine_model/pegasus_101;Pegasus Mk. 101
+engine_model/pegasus_103;Pegasus Mk. 103
+engine_model/pegasus_104;Pegasus Mk. 104
+engine_model/pegasus_105;Pegasus Mk. 105
+engine_model/pegasus_106;Pegasus Mk. 106
+engine_model/pegasus_107;Pegasus Mk. 107
+engine_model/f402-rr-401;F402-RR-401
+engine_model/f402-rr-402;F402-RR-402
+engine_model/f402-rr-408;F402-RR-408
+engine_model/r_4360_4_wasp_major;R-4360-4 Wasp Major
+engine_model/a_74_rc_38;A.74 R.C.38
+engine_model/rd-38;RD-38
+engine_model/r-28v-300;R-28V-300
+engine_model/j52-p-6a;J52-P-6A
+engine_model/j52-p-8a;J52-P-8A
+engine_model/j52-p-8as;J52-P-8A
+engine_model/j52-p-8b;J52-P-8B
+engine_model/j52-p-408;J52-P-408
+engine_model/tf_41_a_1;TF41-A-1
+engine_model/tf_41_a_2;TF41-A-2
+engine_model/gem_2_1004d;GEM 2-1004D
+engine_model/250c20r1;250-C20R1
+engine_model/spey_101;Spey 101
+engine_model/r-11f2s-300;R-11F2S-300
+engine_model/j85-ge-17b;J85-GE-17B
+engine_model/j65-w-7;J65-W-7
+engine_model/j65-w-3;J65-W-3
+engine_model/am-37p;AM-37P
+engine_model/mercury-viii;Mercury Mk. VIII
+engine_model/j85_ge_13;J85-GE-13
+engine_model/al_21f_3;AL-21F-3
+engine_model/tr_1;TR-1
+engine_model/atar_9c;Atar 9C
+engine_model/nene-102;Nene-102
+engine_model/j57_p_16;J57-P-16
+engine_model/merlin_225;Merlin Mk. 225
+engine_model/j79_mtu_17a;J79-MTU-17A
+engine_model/j79_mtu_j1k;J79-MTU-J1K
+engine_model/willy_willy_9;Willy-Willy-9
+engine_model/willy_willy_mini_9;Willy-Willy-9-mini
+engine_model/power_pull_2000;PowerPull-2000
+engine_model/zx-785-se;ZX-785-se
+engine_model/big_boss;Big Boss
+engine_model/dragon_6;Dragon-6
+engine_model/little_pony;Little Pony
+engine_model/zzzzoom;Zzzzoom-Boom
+engine_model/big_pony;Big Pony
+engine_model/al_61f;AL-61F
+engine_model/centaurus-59;Centaurus Mk. 59
+engine_model/avon_208;Avon Mk. 208
+engine_model/r-11af-300;R-11AF-300
+engine_model/verdon_350;Verdon-350
+engine_model/r-29-300;R-29-300
+engine_model/j85_ge_21a;J85-GE-21A
+engine_model/derwent-9;Derwent Mk. 9
+engine_model/sc3-g;SC3-G
+engine_model/sakae_31a;Sakae 31a
+engine_model/gyron_junior_dgj_2;Gyron Junior DGJ.2 (Mk. 101)
+engine_model/mk4b;MK4B
+engine_model/jumo_211n;Jumo 211N
+engine_model/128_rc_18;128 RC.18
+engine_model/sgr_1820_f_3;SGR-1820-F3 Cyclone
+engine_model/r-29b-300;R-29B-300
+engine_model/rm8a;RM8A
+engine_model/rm8b;RM8B
+engine_model/rm6b;RM6B
+engine_model/jumo_205d;Jumo 205D
+engine_model/m_43v;M-43V
+engine_model/griffon-57a;Griffon Mk. 57A
+engine_model/j57_p_20a;J57-P-20A
+engine_model/j57_p_20;J57-P-20
+engine_model/vk-2500p;VK-2500P
+engine_model/r-35-300;R-35-300
+engine_model/gr_2600-a5b;GR-2600-A5B
+engine_model/adour_mk104;Adour Mk. 104
+engine_model/merlin-55m;Merlin Mk. 55M
+engine_model/r-29bs-300;R-29BS-300
+engine_model/tf34_ge_100a;TF34-GE-100A
+engine_model/tf34_ge_100;TF34-GE-100
+engine_model/j75-p-19w;J75-P-19W
+engine_model/j79_ge_j1e;J79-GE-J1E
+engine_model/j79_ge_10;J79-GE-10
+engine_model/j79_ge_10b;J79-GE-10B
+engine_model/atar_9k_50;Atar 9K-50
+engine_model/tf30_p_412a;TF30-P-412A
+engine_model/RSr_2_Soar;RSr.2 Soar
+engine_model/r-95sh;R-95SH
+engine_model/r-195;R-195
+engine_model/mercury_viia;Mercury Mk. VIIIA/AS
+engine_model/makila_1k2;Makila 1K2
+engine_model/m53-5;M53-5
+engine_model/m53-p2;M53-P2
+engine_model/cts800-4a;CTS800-4a
+engine_model/avon_115;Avon Mk. 115
+engine_model/f100_pw_220;F100-PW-220
+engine_model/f100_pw_229;F100-PW-229
+engine_model/rd-33;RD-33
+engine_model/rd-41;RD-41
+engine_model/r79v-300;R79V-300
+engine_model/250c30;250-C30
+engine_model/250c30r;250-C30R
+engine_model/f110-ge-400;F110-GE-400
+engine_model/f110-ge-100;F110-GE-100
+engine_model/f110-ge-129;F110-GE-129
+engine_model/gnome_h_1200;Gnome H.1200
+engine_model/tv2_117a;TV2-117A
+engine_model/atar_8k_50;Atar 8K-50
+engine_model/rd-33_serie_2;RD-33 series 2
+engine_model/rd-33_serie_3;RD-33 series 3
+engine_model/rd-93;RD-93
+engine_model/tf30_p_3;TF30-P-3
+engine_model/tv3_117vm;TV3-117VM
+engine_model/al_31f;AL-31F
+engine_model/al_31f_m1;AL-31FM1
+engine_model/al_31fn;AL-31FN
+engine_model/al_31fn_series_3;AL-31FN syeriâ 3
+engine_model/al_41f1s;izd. 117S | AL-41F1S
+engine_model/f100_pw_100;F100-PW-100
+engine_model/f100_ihi_100;F100-IHI-100
+engine_model/f100_ihi_200e;F100-IHI-200E
+engine_model/f100_ihi_220e;F100-IHI-220E
+engine_model/t700_ihi_701c;T700-IHI-701C
+engine_model/rm12;RM12
+engine_model/f404_ge_100;F404-GE-100
+engine_model/adour_mk811;Adour Mk. 811
+engine_model/adour_mk871;Adour Mk. 871
+engine_model/avon_302c;Avon Mk.302C
+engine_model/j79_ihi_11;J79-IHI-11A
+engine_model/AVDS-1790-5A;AVDS-1790-5A
+engine_model/tf30_p_103;TF30-P-103
+engine_model/tf30_p_100;TF30-P-100
+engine_model/tf30_p_109;TF30-P-109
+engine_model/f404_f1d2;F404-F1D2
+engine_model/f402-rr-406;F402-RR-406
+engine_model/vk-2500_03;VK-2500-03
+engine_model/viper_mk540;Viper Mk. 540
+engine_model/viper_632_43;Viper Mk. 632-43
+engine_model/viper_633_41;Viper Mk. 633-41
+engine_model/viper_633_43;Viper Mk. 633-43
+engine_model/viper_633_47;Viper Mk. 633-47
+engine_model/mt_881_ka_500;MTU 881 Ka-500
+engine_model/6v_53t;6V53T
+engine_model/ej200;EJ200
+engine_model/al_31f_series_3;AL-31F3
+engine_model/d12;D12
+engine_model/d13;D13
+engine_model/v_84_amc;V-84AMS
+engine_model/04_c20;04-C20
+engine_model/14n-35;14N-35
+engine_model/al_31fp;AL-31FP
+engine_model/f404_ge_400;F404-GE-400
+engine_model/f404_ge_402;F404-GE-402 Enhanced Performance Engine
+engine_model/eagle_viii;Eagle Mk. VIII
+engine_model/iii_a;IIIa
+engine_model/bd;8Bd
+engine_model/orpheus_mk_703;Orpheus Mk. 703
+engine_model/maxxforce_13;MaxxForce 13
+engine_model/isbe_285;ISBe6.7 285
+engine_model/ys-2;Flugmotor YS-2
+engine_model/vk-1f;VK-1F
+engine_model/j75-p-17;J75-P-17
+engine_model/8v92ta;8V-92TA
+engine_model/6td2;6TD-2
+engine_model/v_84_2s1;V-84MS
+engine_model/utd_29t_01;UTD-29T-01
+engine_model/dxi11;DXi 11 Euro 4
+engine_model/ha_25_type_99;99 Shiki 950 Bariki Hatsudōki | Ha 25
+engine_model/sakae_22;Ha 35-22 | Sakae 22 Gata | NK1G
+engine_model/derwent_1;Rolls-Royce RB.37 | Derwent Mk. 1
+engine_model/j71-a-13;J71-A-13
+engine_model/T700-GE-701D;T700-GE-701D
+engine_model/id38ss;ID 38 SS
+engine_model/740_13_300;KAMAZ 740.13-300
+engine_model/condor_900e;Condor 900E
+engine_model/t64_ge_716;T64-GE-716(ST)
+engine_model/r2000_7;R-2000-7
+engine_model/mtu_8v_199_te20;MTU 8V 199 TE20
+engine_model/mtu_8v_199_te21;MTU 8V 199 TE21
+engine_model/mtu_8v_199_te21d;MTU 8V 199 TE21-D
+engine_model/6m70t4;6M70T4
+engine_model/1710-55;Allison Engine Company F10L | V-1710-55
+engine_model/r-1820-f53;GR-1820-F53 Cyclone
+engine_model/dsc1122;DSC1122
+engine_model/m88_2e4;M88-2E4
+engine_model/f414_ge_400;F414-GE-400
+engine_model/f414_ge_39e_rm16;RM16
+engine_model/r-1820-72w;R-1820-72W Cyclone
 
 //USA ENGINES
-engine_model/tf33_p_3;"TF33-P-3"
+engine_model/tf33_p_3;TF33-P-3
+engine_model/j57_p_13;J57-P-13
+engine_model/f100_pw_200;F100-PW-200
+engine_model/6B_TA;6BTA
 
-engine_model/j57_p_13;"J57-P-13"
-
-engine_model/f100_pw_200;"F100-PW-200"
-
-// engine_model/f124_ga_200;"Manufacturer: Honeywell + International Turbine Engine CompanyEngine model: F124-GA-200"
-engine_model/f124_ga_200;"F124-GA-200"
-
-engine_model/vta_903t_v8;"VTA-903T"
+engine_model/f124_ga_200;F124-GA-200
+engine_model/vta_903t_v8;VTA-903T
 
 //GERMANY ENGINES
-engine_model/6r_106_td_21;"6R 106 TD21"
+engine_model/6r_106_td_21;6R 106 TD21
 
 //USSR ENGINES
-engine_model/vk_105ra;"Motor VK-105RA"
-
-engine_model/nk-12m;"Motor NK-12M"
-
-engine_model/ai_222_25;"Dvigatyel' AI-222-25"
-
-engine_model/rd-33k;"Dvigatyel' RD-33K"
-
-engine_model/rd-33mk;"Dvigatyel' RD-33MK"
+engine_model/vk_105ra;Motor VK-105RA
+engine_model/nk-12m;Motor NK-12M
+engine_model/ai_222_25;Dvigatyel' AI-222-25
+engine_model/rd-33k;Dvigatyel' RD-33K
+engine_model/rd-33mk;Dvigatyel' RD-33MK
 
 //UK ENGINES
-engine_model/merlin-46;"R.M. 6.S. | Merlin Mk. 46"
-
-engine_model/merlin-72;"R.M.8.S.M. | Merlin Mk. 72"
-
-engine_model/merlin-73;"R.M.8.S.M. | Merlin Mk. 73"
-
-engine_model/merlin-77;"R.M. 11.S. | Merlin Mk. 77"
+engine_model/merlin-46;R.M. 6.S. | Merlin Mk. 46
+engine_model/merlin-72;R.M.8.S.M. | Merlin Mk. 72
+engine_model/merlin-73;R.M.8.S.M. | Merlin Mk. 73
+engine_model/merlin-77;R.M. 11.S. | Merlin Mk. 77
 
 //CHINA ENGINES
-engine_model/wj-6;"WJ6 Fādòngjī"
-
-engine_model/wp-5;"WP5 Fādòngjī"
-
-engine_model/wp-6;"WP6 Fādòngjī"
-
-engine_model/wp-6a;"WP6A Fādòngjī"
-
-engine_model/wp-6a-iii;"WP6AIII Fādòngjī"
-
-engine_model/wp-7b;"WP7B Fādòngjī"
-
-engine_model/wp-7f;"WP7F Fādòngjī"
-
-engine_model/wp-13a-ii;"WP13AII Fādòngjī"
-
-engine_model/wp-13b-ii;"WP13BII Fādòngjī"
-
-engine_model/wp-13f;"WP13F Fādòngjī"
-
-engine_model/wp-13f1;"WP13FI Fādòngjī"
-
+engine_model/wj-6;WJ6 Fādòngjī
+engine_model/wp-5;WP5 Fādòngjī
+engine_model/wp-6;WP6 Fādòngjī
+engine_model/wp-6a;WP6A Fādòngjī
+engine_model/wp-6a-iii;WP6AIII Fādòngjī
+engine_model/wp-7b;WP7B Fādòngjī
+engine_model/wp-7f;WP7F Fādòngjī
+engine_model/wp-13a-ii;WP13AII Fādòngjī
+engine_model/wp-13b-ii;WP13BII Fādòngjī
+engine_model/wp-13f;WP13F Fādòngjī
+engine_model/wp-13f1;WP13FI Fādòngjī
 engine_model/ws_9;"FWS9 Fādòngjī ""Qínlǐng"""
-
 engine_model/ws_10a;"FWS10A Fādòngjī ""Tàixíng"""
-
 engine_model/ws_10b;"FWS10B Fādòngjī ""Tàixíng"""
-
-engine_model/wz-8a;"WZ8A Fādòngjī"
-
-engine_model/wz-8c;"WZ8C Fādòngjī"
-
-engine_model/wz-8d;"WZ8D Fādòngjī"
-
-engine_model/wz-9;"FWZ9 Fādòngjī"
-
-engine_model/wz-9c;"FWZ9C Fādòngjī"
+engine_model/wz-8a;WZ8A Fādòngjī
+engine_model/wz-8c;WZ8C Fādòngjī
+engine_model/wz-8d;WZ8D Fādòngjī
+engine_model/wz-9;FWZ9 Fādòngjī
+engine_model/wz-9c;FWZ9C Fādòngjī
 
 //ITALY ENGINES
-engine_model/wm_k-14a;"W.M.14 Kirs NO motor"
-
-engine_model/wm_k-14b;"W.M.14 B motor"
-
-engine_model/IAR-14KIIc32;"Motorul I.A.R. 14 K. II. c. 32"
-
-engine_model/IAR-14KIVc32;"Motorul I.A.R. 14 K. IV. c. 32"
-
-engine_model/iveco_vector_8v;"Vector 8V Euro III"
+engine_model/wm_k-14a;W.M.14 Kirs NO motor
+engine_model/wm_k-14b;W.M.14 B motor
+engine_model/IAR-14KIIc32;Motorul I.A.R. 14 K. II. c. 32
+engine_model/IAR-14KIVc32;Motorul I.A.R. 14 K. IV. c. 32
+engine_model/iveco_vector_8v;Vector 8V Euro III
 
 //FRANCE
-engine_model/astazou_3b;"Astazou IIIB"
-
-engine_model/astazou_14;"Astazou XIV"
-
-engine_model/astazou_16g;"Astazou XVIG"
+engine_model/astazou_3b;Astazou IIIB
+engine_model/astazou_14;Astazou XIV
+engine_model/astazou_16g;Astazou XVIG
 
 //SWEDEN ENGINES
-engine_model/603_2;"typ 603/2"
+engine_model/603_2;typ 603/2
 
 //TRANSMISSION MANUFACTURERS
 transmission_manufacturer/allison;Manufacturer: Allison Transmission
@@ -1072,7 +1035,10 @@ transmission_manufacturer/renk;Manufacturer: Renk
 transmission_manufacturer/sesm;Manufacturer: SESM
 transmission_manufacturer/zf;Manufacturer: ZF Friedrichshafen
 
-//TRANSMISSIONS
+//UK TRANSMISSIONS
+transmission_model/tn_15e;TN15E+
+
+//UNCATEGORIZED TRANSMISSIONS
 transmission_type/auto;Automatic
 transmission_type/mech;Mechanical
 transmission_model/x_1100_3b;X-1100-3B
@@ -1083,11 +1049,11 @@ transmission_model/lsg_3000;LSG 3000
 transmission_model/mt1500;MT1500
 transmission_model/esm_500;ESM 500
 transmission_model/7hp_902;7HP902
-transmission_model/3040_mx;"Transmission model: 3040 MX"
-transmission_model/3200_sp;"Transmission model: 3200 SP"
-transmission_model/4800_sp;"Transmission model: 4800 SP"
-transmission_model/hd_4070;"Transmission model: HD4070"
-transmission_model/grs900r;"Transmission model: GRS 900R"
-transmission_model/hswl_256b;"Transmission model: HSWL 256B"
-transmission_model/friedrichshafen_lsg_2000;"Transmission model: LSG 2000"
-transmission_model/zf_7hp_902;"Transmission model: 7 HP 902"
+transmission_model/3040_mx;Transmission model: 3040 MX
+transmission_model/3200_sp;Transmission model: 3200 SP
+transmission_model/4800_sp;Transmission model: 4800 SP
+transmission_model/hd_4070;Transmission model: HD4070
+transmission_model/grs900r;Transmission model: GRS 900R
+transmission_model/hswl_256b;Transmission model: HSWL 256B
+transmission_model/friedrichshafen_lsg_2000;Transmission model: LSG 2000
+transmission_model/zf_7hp_902;Transmission model: 7 HP 902

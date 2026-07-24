@@ -155,11 +155,11 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Additions:
 
-    - **Parade camouflage** (for the **Fiat 6616 (MK 20 DM 6 A1) (UB-16-57UMP)**)
+    - **Parade camouflage** (for the **Fiat 6616 (TC 20) (UB-16-57UMP)**)
 
 - #### Changes:
 
-    - Reworked the name and description for the **Parade camouflage** for the **Fiat 6616 (MK 20 DM 6 A1) (UB-16-57UMP)** to make it clear that the vehicle and camouflage are from Somaliland, not Somalia. Here war War Tinder Incorporated, we support the right to self-determination for people across the world, so we recognize Somaliland as independent.
+    - Reworked the name and description for the **Parade camouflage** for the **Fiat 6616 (TC 20) (UB-16-57UMP)** to make it clear that the vehicle and camouflage are from Somaliland, not Somalia. Here war War Tinder Incorporated, we support the right to self-determination for people across the world, so we recognize Somaliland as independent.
 
 ## 1.18.00 - 03-07-2026
 

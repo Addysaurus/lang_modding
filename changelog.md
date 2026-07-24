@@ -27,12 +27,14 @@ All dates are listed in DD-MM-YYYY format.
     - **IAR-81C (DB 605)**
     - **FIAT 6616UB**
     - **Scimitar Mk.2**
+    - A bunch of nuke planes (**F-2A** (for some reason), **MiG-29SMT**, and a mountain of **F-16A**s).
 
 - #### Changes:
 
     - **IAR-81C (DB 605)** → **I.A.R. 81 C (DB 605 A)**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C (DB 9-605 A)**. Also omg thank you Violet for finding the site with full I.A.R. 80 technical documentation and manuals so I could finally have proper sources to lang mod Romanian stuff.
     - **FIAT 6616UB** → **Fiat 6616 (MK 20 DM 6 A1) (UB-16-57UMP)**. Statcard name → **Fiat + OTO Melara Tipo 6616 (Maschinenkanone MK 20 DM 6 A1) (Univ'ersal'nyj blok UB-16-57UMP)** (yes I know the name length is horrifying). WarTinder soapbox for a moment: this vehicle is incorrectly flagged. It is flagged with the flag of Somalia, even though it belongs to the functionally independent country of Somaliland in the northern part of what Somalia claims as its territory. Gaijin originally said it was a vehicle from Somaliland, then changed the announcement. This should be flagged with Somaliland, and shame on Gaijin for listing it as from Somalia.
     - **Scimitar Mk.2** → **Scimitar, Mk. 2 (TES) (ROPS)**. Statcard name → **Alvis / BAE Systems Land and Armaments, Hadley Castle Works + Defence Support Group, Donnington | F.V.107 | Combat Vehicle, Reconnaissance, Full Tracked, Scimitar, Mk. 2 (Theatre Entry Standard) (Roll Over Protection System)**. Yes I know the name is horribly long and doesn't match the format of the tech tree **Scimitar**. Multiline and the UK rework of every British thing coming very soon.
+    - All the new nuclear bomber planes have been adjusted to match their tech tree counterparts.
     - Romanian air rework (?):
         - **I.A.R.81-C** → **I.A.R. 81 C**. Statcard name → **Industria Aeronautică Română | Avionul I.A.R. 81 C**.
         - **I.A.R.93-B** → **I.A.R. 93 B**. Statcard name → **Avioane Craiova + Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo | Avionul I.A.R. 93 B Vultur**.
@@ -80,6 +82,10 @@ All dates are listed in DD-MM-YYYY format.
         - Hebrew package: Statcard name → **Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | גאנדיש 23 X4 Z.S.U. תומ״ת נ״מ**. I can't get it to appear right in the changelog but pretend that **גאנדיש** comes after **23X4 Z.S.U.**
         - Hebrew + Russian package: Statcard name → **Мытищинский ордена Отечественной войны 1 степени машиностроительный завод | גאנדיש 23 X4 Z.S.U. תומ״ת נ״מ**.
     - **Scimitar/Fox** (folder) → **Scimitar / Fox**.
+    - **F-16A** statcard name rework because of all the new nuclear bomb F-16As:
+        - **F-16A-15OCU-CF**: Statcard name → **General Dynamics Corporation | F-16A-15OCU-CF Fighting Falcon**.
+        - **F-16A-15ADF-CF** (USA & Italy): Statcard name → **General Dynamics Corporation | F-16A-15ADF-CF Fighting Falcon**.
+        - **F-16A-15-CF** (France / Belgium): Statcard name → **General Dynamics Corporation / Sociétés Anonyme Belge de Constructions Aéronautiques | F-16A-15-CF Fighting Falcon**.
 
 ### Weaponry:
 

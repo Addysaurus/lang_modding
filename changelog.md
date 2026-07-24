@@ -18,7 +18,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.18.01 - UNRELEASED
+## 1.18.01 - 24-07-2026
 
 ### Vehicles:
 
@@ -145,7 +145,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **Somalia**
-        - Original Country Names package: **Somalia** → **Soomaaliya**.
+        - Original Country Names & Full Original Country Names package: **Somalia** → **Soomaaliya**.
     - **Israel**
         - Original Country Names package: **Yiśrā'ēl** → **Yisrā'ēl**.
     - **Thailand**

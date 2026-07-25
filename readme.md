@@ -94,7 +94,7 @@ Available packages:
 
 ## The mod team
 
-In addition to me (WarTinder), the mod team also has 6 other members: Theren, Odican, czartraktheprotogen, ph41te, Romacotta, and Violet. All have been extremely helpful and I would like to thank them greatly.
+In addition to me (WarTinder), the mod team also has 6 other members: Theren, Odican, czartraktheprotogen, ph41te, Violet, KittyCatAjax, and Lana. All have been extremely helpful and I would like to thank them greatly.
 
 ## Additional things to know
 

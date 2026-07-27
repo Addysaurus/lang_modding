@@ -18,6 +18,16 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.18.02 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - **I.Pz.Kpfw. 750 (e)** → **I.-Pz.Kpfw. 750 (e)**. Statcard name → **Vauxhall Motors | Infanterie-Panzerkampfwagen Mk IV | Infanterie-Panzerkampfwagen 750 (e)**.
+    - Corrected the Israeli nuke killstreak **F-16C-40L-CF** to an **F-16D-40-CF** and added it to the Hebrew package.
+    - **Vautour II A / B** (folder) → **Vautour II B / A** because of the vehicle order.
+
 ## 1.18.01 - 24-07-2026
 
 ### Vehicles:

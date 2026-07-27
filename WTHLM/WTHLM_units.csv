@@ -326,10 +326,30 @@ us_cargo_ship_liberty_2;Cargo ship
 us_cargo_ship_liberty_EC_0;Cargo ship
 us_cargo_ship_liberty_EC_1;Cargo ship
 us_cargo_ship_liberty_EC_2;Cargo ship
+ussr_cargo_ship_liberty_shop;Cargo ship
+ussr_cargo_ship_liberty_0;Cargo ship
+ussr_cargo_ship_liberty_1;Cargo ship
+ussr_cargo_ship_liberty_2;Cargo ship
+uk_cargo_ship_liberty_shop;Cargo ship
+uk_cargo_ship_liberty_0;Cargo ship
+uk_cargo_ship_liberty_1;Cargo ship
+uk_cargo_ship_liberty_2;Cargo ship
+uk_cargo_ship_liberty_EC_0;Cargo ship
+uk_cargo_ship_liberty_EC_1;Cargo ship
+uk_cargo_ship_liberty_EC_2;Cargo ship
 us_cargo_ship_ss_ohio_shop;Cargo ship
 us_cargo_ship_ss_ohio_0;Cargo ship
 us_cargo_ship_ss_ohio_1;Cargo ship
 us_cargo_ship_ss_ohio_2;Cargo ship
+jp_cargo_ship_kashino_shop;Cargo ship
+jp_cargo_ship_kashino_0;Cargo ship
+jp_cargo_ship_kashino_1;Cargo ship
+jp_cargo_ship_kashino_2;Cargo ship
+jp_cargo_ship_kashino_EC_0;Cargo ship
+jp_cargo_ship_kashino_EC_1;Cargo ship
+jp_cargo_ship_kashino_EC_2;Cargo ship
+cargo_ship_norbris;Cargo ship
+tanker_nicolaos;Tanker
 air_defence/germ_20mm_flak38_0;AAA
 air_defence/germ_20mm_flak38_1;AAA
 air_defence/germ_20mm_flak38_2;AAA
@@ -1646,7 +1666,7 @@ shop/group/vg_33_group;VG 33 / D.520
 shop/group/md_450b_group;Ouragan / Barougan
 shop/group/md_452_group;Mystère II A / C
 shop/group/md_454_group;Mystère IV / Super Mystère B2
-shop/group/so_4050_vautour_group;Vautour II A / B
+shop/group/so_4050_vautour_group;Vautour II B / A
 shop/group/mirage_3_group;Mirage III C / E
 shop/group/tiger_group;☨ Tigre HAD/F / HAC
 shop/group/fr_vtb_group;VTB 8 / 11 / 14
@@ -1912,6 +1932,58 @@ spad_13_shop;S.XIII-C1
 spad_13_0;Société pour l'aviation et ses dérivés | S.XIII-C1
 spad_13_1;S.XIII-C1
 spad_13_2;S.XIII
+germ_s_100_class_us_shop;S 204
+germ_s_100_class_us_0;S 204
+germ_s_100_class_us_1;S 204
+germ_s_100_class_us_2;Motor Torpedo Boat
+germ_s_100_class_uk_shop;S 204
+germ_s_100_class_uk_0;S 204
+germ_s_100_class_uk_1;S 204
+germ_s_100_class_uk_2;Motor Torpedo Boat
+germ_s_100_class_germany_shop;S 204
+germ_s_100_class_germany_0;S 204
+germ_s_100_class_germany_1;S 204
+germ_s_100_class_germany_2;Motor Torpedo Boat
+germ_s_100_class_japan_shop;S 204
+germ_s_100_class_japan_0;S 204
+germ_s_100_class_japan_1;S 204
+germ_s_100_class_japan_2;Motor Torpedo Boat
+us_pt810_us_shop;PT-810
+us_pt810_us_0;94 ft aluminum motor torpedo boat, USS PT-810
+us_pt810_us_1;PT-810
+us_pt810_us_2;Motor Torpedo Boat
+us_pt810_uk_shop;PT-810
+us_pt810_uk_0;94 ft aluminum motor torpedo boat, USS PT-810
+us_pt810_uk_1;PT-810
+us_pt810_uk_2;Motor Torpedo Boat
+us_pt810_germany_shop;PT-810
+us_pt810_germany_0;94 ft aluminum motor torpedo boat, USS PT-810
+us_pt810_germany_1;PT-810
+us_pt810_germany_2;Motor Torpedo Boat
+us_pt810_japan_shop;PT-810
+us_pt810_japan_0;94 ft aluminum motor torpedo boat, USS PT-810
+us_pt810_japan_1;PT-810
+us_pt810_japan_2;Motor Torpedo Boat
+test_aircraft_2_engine_shop;Test Aircraft 2
+test_aircraft_2_engine_0;Test Aircraft 2
+test_aircraft_2_engine_1;Test Aircraft 2
+test_aircraft_2_engine_2;Test Aircraft 2
+dragonfly_a_shop;TOPTER
+dragonfly_a_0;TOPTER
+dragonfly_a_1;TOPTER
+dragonfly_a_2;TOPTER
+dragonfly_h_shop;TOPTER
+dragonfly_h_0;TOPTER
+dragonfly_h_1;TOPTER
+dragonfly_h_2;TOPTER
+dragonfly_99_na_shop;Dragonfly AB-99 (N)
+dragonfly_99_na_0;Dragonfly AB-99 (N)
+dragonfly_99_na_1;Dragonfly (N)
+dragonfly_99_na_2;Dragonfly (N)
+dragonfly_99_rda_shop;Dragonfly AB-99 (R)
+dragonfly_99_rda_0;Dragonfly AB-99 (R)
+dragonfly_99_rda_1;Dragonfly (R)
+dragonfly_99_rda_2;Dragonfly (R)
 
 //KILLSTREAK VEHICLES
 b-29_killstreak_shop;☢ B-29A-45-BN
@@ -5270,6 +5342,10 @@ germ_kv_2_754r_shop;▀ s.Pz.Kpfw. 754 (r)
 germ_kv_2_754r_0;▀ Kirovskij zavod | schwerer Panzerkampfwagen KW II | schwerer Panzerkampfwagen 754 (r)
 germ_kv_2_754r_1;▀ s.Pz.Kpfw. 754 (r)
 germ_kv_2_754r_2;Heavy Tank
+germ_infanterie_kampfpanzer_churchill_shop;▀ I.-Pz.Kpfw. 750 (e)
+germ_infanterie_kampfpanzer_churchill_0;▀ Vauxhall Motors | Infanterie-Panzerkampfwagen Mk IV | Infanterie-Panzerkampfwagen 750 (e)
+germ_infanterie_kampfpanzer_churchill_1;▀ I.-Pz.Kpfw. 750 (e)
+germ_infanterie_kampfpanzer_churchill_2;Infantry Tank
 germ_t_34_747_shop;▀ Pz.Kpfw. 747 (r)
 germ_t_34_747_0;▀ Ural'skij tankovyj zavod (Zavod №183) | Panzerkampfwagen T 34 Ausf. D | Panzerkampfwagen 747 (r)
 germ_t_34_747_1;▀ Pz.Kpfw. 747 (r)
@@ -5292,6 +5368,10 @@ germ_pzkpfw_VI_tiger_P_1;V.K. 45.01 (P)
 germ_pzkpfw_VI_tiger_P_2;Heavy Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+germ_le_kpz_m41_shop;◄ KPz M 41 (1965)
+germ_le_kpz_m41_0;◄ Cadillac Motor Car Division | leichter Kampfpanzer M 41 (1965)
+germ_le_kpz_m41_1;◄ M 41
+germ_le_kpz_m41_2;Light Tank
 germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger B (Fgst.Nr. 15)
 germ_pzkpfw_VI_ausf_b_tiger_IIp_0;Henschel & Sohn | Panzerkampfwagen Tiger Ausf. B (Sd.Kfz. 182) (Fahrgestellnummer 280015)
 germ_pzkpfw_VI_ausf_b_tiger_IIp_1;Tiger B
@@ -5470,34 +5550,144 @@ germ_iris_slm_launcher_1;LV IRIS-T SLM (Startfahrzeug)
 germ_iris_slm_launcher_2;SPAAM
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
-germ_kanonenboot_k4_lorelei_shop;K 4
-germ_kanonenboot_k4_lorelei_0;Société Anonyme John Cockerill à Seraing (Belgique), Chantier Naval de Hoboken / N.V. Dok en Werf Maatschappij Wilton-Fijenoord, Bau-Nr. 686 | Kanonenboot | K 4 (1943)
-germ_kanonenboot_k4_lorelei_1;K 4
-germ_kanonenboot_k4_lorelei_2;Gunboat
-
-//GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+germ_ls_class_shop;LS 3
+germ_ls_class_0;leichtes Schnellboot LS 3
+germ_ls_class_1;LS
+germ_ls_class_2;Motor Torpedo Boat
+germ_s38_shop;S 38
+germ_s38_0;Schnellboot Typ 1939/40, S 38
+germ_s38_1;S 38
+germ_s38_2;Motor Torpedo Boat
+germ_s38b_shop;S 62
+germ_s38b_0;Schnellboot Typ 1939/40, S 62
+germ_s38b_1;S 62
+germ_s38b_2;Motor Torpedo Boat
 germ_s30_s61_shop;S 61
 germ_s30_s61_0;Fr. Lürssen Werft, Bau-Nr. 12854 | Schnellboot (S 54-61) | S 61
 germ_s30_s61_1;S 61
 germ_s30_s61_2;Fast Boat
+germ_s_100_class_shop;S 100 (1945)
+germ_s_100_class_0;Schnellboot Typ 1939/40, S 100 (1945)
+germ_s_100_class_1;S 100 (1945)
+germ_s_100_class_2;Motor Torpedo Boat
+germ_s_100_s_174_class_shop;S 100 (1944)
+germ_s_100_s_174_class_0;Schnellboot Typ 1939/40, S 100 (1944)
+germ_s_100_s_174_class_1;S 100
+germ_s_100_s_174_class_2;Motor Torpedo Boat
+germ_s_100_s204_lang_shop;S 204
+germ_s_100_s204_lang_0;Schnellboot Typ 1939/40, S 204 Lang
+germ_s_100_s204_lang_1;S 204
+germ_s_100_s204_lang_2;Motor Torpedo Boat
+germ_s_700_s_701_shop;S 701
+germ_s_700_s_701_0;Schnellboot Typ 1944, S 701
+germ_s_700_s_701_1;S 701
+germ_s_700_s_701_2;Motor Torpedo Boat
+germ_rboot_r41_shop;R 41
+germ_rboot_r41_0;Räumboot R 41-class, R 41
+germ_rboot_r41_1;R 41
+germ_rboot_r41_2;Gunboat
+germ_rboot_r130_shop;R 130
+germ_rboot_r130_0;Räumboot R 130-class, R 130
+germ_rboot_r130_1;R 130
+germ_rboot_r130_2;Gunboat
+germ_rboot_r301_shop;R 301
+germ_rboot_r301_0;Räumboot R 301-class, R 301
+germ_rboot_r301_1;R 301
+germ_rboot_r301_2;Gunboat
+
+//GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+germ_sf40_schwere_flakkampffaehre_shop;SF 05
+germ_sf40_schwere_flakkampffaehre_0;Siebelfähre 40 schwerer Flakkampffähre, SF 05
+germ_sf40_schwere_flakkampffaehre_1;SF 40 Schwer
+germ_sf40_schwere_flakkampffaehre_2;Heavy AA ferry
+germ_sf40_leichte_flakkampffaehre_shop;SF 07
+germ_sf40_leichte_flakkampffaehre_0;Siebelfähre 40 leichter Flakkampffähre, SF 07
+germ_sf40_leichte_flakkampffaehre_1;SF 40 Leicht
+germ_sf40_leichte_flakkampffaehre_2;Light AA ferry
+germ_vs8_hydrofoil_shop;VS 8
+germ_vs8_hydrofoil_0;"Tragflügel-Versuchs-Schnellboot 8 ""Schell I"""
+germ_vs8_hydrofoil_1;VS 8
+germ_vs8_hydrofoil_2;Minelayer-hydrofoil
+germ_vs10_hydrofoil_shop;VS 10
+germ_vs10_hydrofoil_0;Tragflügel-Versuchs-Schnellboot 10
+germ_vs10_hydrofoil_1;VS 10
+germ_vs10_hydrofoil_2;Motor Torpedo Boat
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+germ_mz_1_shop;MZ 1
+germ_mz_1_0;Mehrzweckboot Typ 1943, MZ 1
+germ_mz_1_1;MZ 1
+germ_mz_1_2;Gunboat
+germ_artilleriefahrprahm_typ_d1_shop;AF 99
+germ_artilleriefahrprahm_typ_d1_0;Artilleriefährprahm Typ D 1 | AF 99
+germ_artilleriefahrprahm_typ_d1_1;AF 99
+germ_artilleriefahrprahm_typ_d1_2;Gunboat
+germ_artilleriefahrprahm_typ_d3_shop;AF 128
+germ_artilleriefahrprahm_typ_d3_0;Artilleriefährprahm Typ D 3 | AF 128
+germ_artilleriefahrprahm_typ_d3_1;AF 128
+germ_artilleriefahrprahm_typ_d3_2;Gunboat
 germ_schutze_class_shop;Schütze (M 1062)
 germ_schutze_class_0;Abeking & Rasmussen | schnelles Minensuchboot Schütze-Klasse (Typ 340) | Schütze (M 1062)
 germ_schutze_class_1;Schütze (M 1062)
 germ_schutze_class_2;Minesweeper
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+germ_type143_albatros_shop;Albatros (S 61)
+germ_type143_albatros_0;Flugkörper-Schnellboot Albatros-Klasse (Typ 143), Albatros (S 61)
+germ_type143_albatros_1;Albatros
+germ_type143_albatros_2;Fast Attack Craft
+germ_type143_bussard_shop;Bussard (S 64)
+germ_type143_bussard_0;Flugkörper-Schnellboot Albatros-Klasse (Typ 143), Bussard (S 64)
+germ_type143_bussard_1;Bussard
+germ_type143_bussard_2;Fast Attack Craft
+germ_pr_206_shop;Arthur Becker (841)
+germ_pr_206_0;Torpedo-Schnellboot, Projekt 206, Arthur Becker (841)
+germ_pr_206_1;Arthur Becker
+germ_pr_206_2;Motor Torpedo Boat
+germ_type140_jaguar_shop;Jaguar (S 1)
+germ_type140_jaguar_0;Torpedoschnellboot Jaguar-Klasse (Typ 140), Jaguar (S 1)
+germ_type140_jaguar_1;Jaguar
+germ_type140_jaguar_2;Motor Torpedo Boat
 germ_pr1331_shop;Parchim (242)
 germ_pr1331_0;Peene-Werft | U-Boot-Abwehrschiff Projekt 133.1 | Parchim (242)
 germ_pr1331_1;Parchim (242)
 germ_pr1331_2;Minesweeper
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+germ_destroyer_class1924_leopard1932_shop;Leopard
+germ_destroyer_class1924_leopard1932_0;Torpedoboot Typ 1924, Leopard, 1932
+germ_destroyer_class1924_leopard1932_1;Leopard
+germ_destroyer_class1924_leopard1932_2;Destroyer
+germ_destroyer_class1924_leopard1932_EC_0;Torpedoboot Typ 1924, Leopard, 1932
+germ_destroyer_class1924_leopard1932_EC_1;Leopard
+germ_destroyer_class1924_leopard1932_EC_2;Destroyer
+germ_kanonenboot_k4_lorelei_shop;K 4
+germ_kanonenboot_k4_lorelei_0;Société Anonyme John Cockerill à Seraing (Belgique), Chantier Naval de Hoboken / N.V. Dok en Werf Maatschappij Wilton-Fijenoord, Bau-Nr. 686 | Kanonenboot | K 4 (1943)
+germ_kanonenboot_k4_lorelei_1;K 4
+germ_kanonenboot_k4_lorelei_2;Gunboat
+germ_kanonenboot_k2_shop;K 2
+germ_kanonenboot_k2_0;Kanoneerboot Typ 1937, K2, 1941
+germ_kanonenboot_k2_1;K 2
+germ_kanonenboot_k2_2;Gunboat
+germ_destroyer_class1939_t22_shop;T 22
+germ_destroyer_class1939_t22_0;Flottentorpedoboot Typ 1939, T 22, 1944
+germ_destroyer_class1939_t22_1;T 22
+germ_destroyer_class1939_t22_2;Destroyer
+germ_destroyer_class1939_t22_EC_0;Flottentorpedoboot Typ 1939, T 22, 1944
+germ_destroyer_class1939_t22_EC_1;T 22
+germ_destroyer_class1939_t22_EC_2;Destroyer
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+germ_destroyer_class1936_z20_shop;Z 20 (1941)
+germ_destroyer_class1936_z20_0;Zerstörer Typ 1936, Z 20 Karl Galster, 1941
+germ_destroyer_class1936_z20_1;Z 20
+germ_destroyer_class1936_z20_2;Destroyer
+germ_destroyer_class1936_z20_karlgalster_shop;Z 20 (1945)
+germ_destroyer_class1936_z20_karlgalster_0;Zerstörer Typ 1936, Z 20 Karl Galster, 1945
+germ_destroyer_class1936_z20_karlgalster_1;Z 20
+germ_destroyer_class1936_z20_karlgalster_2;Destroyer
 germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
 germ_destroyer_fletcher_zerstorer4_0;Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)
 germ_destroyer_fletcher_zerstorer4_1;Z 4
@@ -5512,6 +5702,13 @@ germ_destroyer_class1944_z52_shop;Z 52
 germ_destroyer_class1944_z52_0;"Deutsche Schiff- und Maschinenbau A.G. ""Weser"" | Zerstörer Typ 1944 | Z 52"
 germ_destroyer_class1944_z52_1;Z 52
 germ_destroyer_class1944_z52_2;Destroyer
+germ_cruiser_emden_1944_shop;Emden
+germ_cruiser_emden_1944_0;Emden, 1944
+germ_cruiser_emden_1944_1;Emden
+germ_cruiser_emden_1944_2;Light Cruiser
+germ_cruiser_emden_1944_EC_0;Emden, 1944
+germ_cruiser_emden_1944_EC_1;Emden
+germ_cruiser_emden_1944_EC_2;Light Cruiser
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 germ_destroyer_lutjens_class_lutjens_shop;Lütjens (D 185)
@@ -5559,6 +5756,58 @@ germ_battleship_bismarck_1;Bismarck
 germ_battleship_bismarck_2;Battleship
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+i-15bis_shop;I-15bis
+i-15bis_0;I-15bis
+i-15bis_1;I-15bis
+i-15bis_2;I-15
+i-15_1934_shop;I-15 (SGR-1820 F-3)
+i-15_1934_0;I-15 (SGR-1820 F-3)
+i-15_1934_1;I-15
+i-15_1934_2;I-15
+i-15_1935_shop;I-15 (M-22)
+i-15_1935_0;I-15 (M-22)
+i-15_1935_1;I-15
+i-15_1935_2;I-15
+i-15_1935_moscow_shop;I-15 (M-25A)
+i-15_1935_moscow_0;I-15 (M-25A)
+i-15_1935_moscow_1;I-15
+i-15_1935_moscow_2;I-15
+i-15bis_krasnolutsky_shop;Krasnoluczkij's I-15bis
+i-15bis_krasnolutsky_0;Mitrofan Pyetrovič Krasnoluczkij's I-15bis
+i-15bis_krasnolutsky_1;I-15bis
+i-15bis_krasnolutsky_2;I-15
+i-153_m62_shop;I-153 (AŠ-62)
+i-153_m62_0;I-153 (AŠ-62) Chaika
+i-153_m62_1;I-153
+i-153_m62_2;I-153
+i-153_m62_zhukovskiy_shop;Žukovskij's I-153 (AŠ-62)
+i-153_m62_zhukovskiy_0;Syergyej Âkovlyevič Žukovskij's I-153 (AŠ-62)
+i-153_m62_zhukovskiy_1;I-153
+i-153_m62_zhukovskiy_2;I-153
+po-2_nw_shop;U-2 (Night Witch)
+po-2_nw_0;U-2 (Night Witch)
+po-2_nw_1;U-2
+po-2_nw_2;U-2
+su-2_m82_shop;Su-2 (M-82)
+su-2_m82_0;Su-2 (M-82)
+su-2_m82_1;Su-2
+su-2_m82_2;Su-2
+sb_2m_100a_spain_shop;SB 2M-100A (F.A.R.E.)
+sb_2m_100a_spain_0;SB 2M-100A (Fuerzas Aéreas de la República Española)
+sb_2m_100a_spain_1;SB 2M
+sb_2m_100a_spain_2;SB 2M
+tb_3_m17_32_shop;TB-3 (4M-17)
+tb_3_m17_32_0;TB-3 (4M-17)
+tb_3_m17_32_1;TB-3
+tb_3_m17_32_2;TB-3
+hp52_hampden_tbmk1_ussr_utk1_shop;▂ Khyempdyenov T.B. MK-I (UTK-1)
+hp52_hampden_tbmk1_ussr_utk1_0;▂ Khyempdyenov T.B. MK-I (UTK-1)
+hp52_hampden_tbmk1_ussr_utk1_1;▂ Khyempdyenov T.B. MK-I
+hp52_hampden_tbmk1_ussr_utk1_2;▂ Khyempdyenov
+db_lk_shop;DB-LK
+db_lk_0;Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyot DB-LK
+db_lk_1;DB-LK
+db_lk_2;DB-LK
 ar_2_shop;Ar-2
 ar_2_0;Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyot Ar-2
 ar_2_1;Ar-2
@@ -5571,22 +5820,174 @@ kor_2_shop;Bye-4
 kor_2_0;Czyentral'noye konstruktorskoye bûro morskogo samolëtostroyeniâ | Samolyot Bye-4
 kor_2_1;Bye-4
 kor_2_2;Bye-4
-db_lk_shop;DB-LK
-db_lk_0;Czyentral'nyj aèrogidrodinamičyeskij institut imyeni profyessora N. Ye. Žukovskogo | Samolyot DB-LK
-db_lk_1;DB-LK
-db_lk_2;DB-LK
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 yak_1_litvyak_shop;Litvâk's Âk-1
 yak_1_litvyak_0;Opytno-konstruktorskoye bûro № 115 | Lídiâ Vladímirovna Litvấk's Samolyot Âk-1
 yak_1_litvyak_1;Âk-1
 yak_1_litvyak_2;Âk-1
+yak-9m_shop;Galavačoŭ's Âk-9M
+yak-9m_0;Pavyel Âkaŭlyevìč Galavačoŭ's Âk-9M
+yak-9m_1;Âk-9M
+yak-9m_2;Âk-9
+mig_3_series_1_15_bk_pod_shop;MiG-3-15 (UBK)
+mig_3_series_1_15_bk_pod_0;MiG-3 syeriâ 15 (UBK)
+mig_3_series_1_15_bk_pod_1;MiG-3-15
+mig_3_series_1_15_bk_pod_2;MiG-3
+il_2_1941_shop;Il-2 (1941)
+il_2_1941_0;Il-2 (1941)
+il_2_1941_1;Il-2
+il_2_1941_2;Il-2
+il-2i_shop;Il-2 (1942)
+il-2i_0;Il-2 (1942)
+il-2i_1;Il-2
+il-2i_2;Il-2
+il_2_37_1943_shop;Il-2M (NS-37)
+il_2_37_1943_0;Il-2M (NS-37)
+il_2_37_1943_1;Il-2
+il_2_37_1943_2;Il-2
+il_2_m82_shop;Il-2 (M-82)
+il_2_m82_0;Il-2 (M-82)
+il_2_m82_1;Il-2 (M-82)
+il_2_m82_2;Il-2
+il_2m_1943_shop;Il-2M (1943)
+il_2m_1943_0;Il-2M (1943)
+il_2m_1943_1;Il-2M
+il_2m_1943_2;Il-2
+il-2m_shop;Il-2M (1944)
+il-2m_0;Il-2M (1944)
+il-2m_1;Il-2M
+il-2m_2;Il-2
+il-2m_mstitel_shop;Il-2M (1944) (567-j Š.A.P.)
+il-2m_mstitel_0;Il-2M (1944) (567-j Šturmovoj Aviaczionnyj Polk)
+il-2m_mstitel_1;Il-2
+il-2m_mstitel_2;Il-2
+hurricanemkii_ussr_shop;▂ Kharrikyejna F.B. MK-IIb (ŠVAK)
+hurricanemkii_ussr_0;▂ Kharrikyejna F.B. MK-IIb (ŠVAK)
+hurricanemkii_ussr_1;▂ Kharrikyejna F.B. MK-II
+hurricanemkii_ussr_2;▂ Kharrikyejna
+i_180_shop;I-180S
+i_180_0;I-180S
+i_180_1;I-180S
+i_180_2;I-180
+i_180_event01_shop;I-180S (defective)
+i_180_event01_0;I-180S (defective)
+i_180_event01_1;I-180S (defective)
+i_180_event01_2;I-180 (defective)
+i_180_event02_shop;I-180S (defective)
+i_180_event02_0;I-180S (defective)
+i_180_event02_1;I-180S (defective)
+i_180_event02_2;I-180 (defective)
+i_180_event03_shop;I-180S (defective)
+i_180_event03_0;I-180S (defective)
+i_180_event03_1;I-180S (defective)
+i_180_event03_2;I-180 (defective)
+i_180_event04_shop;I-180S (defective)
+i_180_event04_0;I-180S (defective)
+i_180_event04_1;I-180S (defective)
+i_180_event04_2;I-180 (defective)
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+yak-3_eremin_shop;Yerëmin's Âk-3
+yak-3_eremin_0;Boris Nikolayevič Yerëmin's Âk-3
+yak-3_eremin_1;Âk-3
+yak-3_eremin_2;Âk-3
+yak-3_vk107_shop;Âk-3 (VK-107A)
+yak-3_vk107_0;Âk-3 (VK-107A)
+yak-3_vk107_1;Âk-3
+yak-3_vk107_2;Âk-3
+i_185_m82_shop;I-185 (M-82)
+i_185_m82_0;I-185 (M-82)
+i_185_m82_1;I-185
+i_185_m82_2;I-185
+i_185_m71_standard_shop;I-185 (M-71)
+i_185_m71_standard_0;I-185 (M-71)
+i_185_m71_standard_1;I-185
+i_185_m71_standard_2;I-185
+la-7b-20_shop;La-7 (B-20S)
+la-7b-20_0;La-7 (B-20S)
+la-7b-20_1;La-7
+la-7b-20_2;La-7
+la-7_dolgushin_shop;Dolgušin's La-7
+la-7_dolgushin_0;Syergyej Fëdorovič Dolgušin's La-7
+la-7_dolgushin_1;La-7
+la-7_dolgushin_2;La-7
+su-6_m71_shop;Su-6 (M-71F)
+su-6_m71_0;Su-6 (M-71F)
+su-6_m71_1;Su-6
+su-6_m71_2;Su-6
+su-6_am42_shop;Su-6 (AM-42)
+su-6_am42_0;Su-6 (AM-42)
+su-6_am42_1;Su-6 (AM-42)
+su-6_am42_2;Su-6
+er-2_m105_mv3_shop;Yer-2 (M-105)
+er-2_m105_mv3_0;Yer-2 (M-105)
+er-2_m105_mv3_1;Yer-2
+er-2_m105_mv3_2;Yer-2
+er-2_m105r_lu2b_shop;Yer-2 (M-105R) (LU-MV-2B)
+er-2_m105r_lu2b_0;Yer-2 (M-105R) (LU-MV-2B)
+er-2_m105r_lu2b_1;Yer-2
+er-2_m105r_lu2b_2;Yer-2
+er-2_m105_tat_shop;Yer-2 (M-105) (TAT-BT)
+er-2_m105_tat_0;Yer-2 (M-105) (TAT-BT)
+er-2_m105_tat_1;Yer-2
+er-2_m105_tat_2;Yer-2
+er-2_m105r_tat_shop;Yer-2 (M-105R)
+er-2_m105r_tat_0;Yer-2 (M-105R)
+er-2_m105r_tat_1;Yer-2
+er-2_m105r_tat_2;Yer-2
+er-2_ach30b_early_shop;Yer-2-3 (ACh-30B)
+er-2_ach30b_early_0;Yer-2 (ACh-30B) syeriâ 3
+er-2_ach30b_early_1;Yer-2-3
+er-2_ach30b_early_2;Yer-2
+er-2_ach30b_late_shop;Yer-2-4 (ACh-30B)
+er-2_ach30b_late_0;Yer-2 (ACh-30B) syeriâ 4
+er-2_ach30b_late_1;Yer-2-4
+er-2_ach30b_late_2;Yer-2
+p-39n_su_shop;▂ Pokrýškin's P-39N-0-BE
+p-39n_su_0;▂ Alyeksándr Ivánovič Pokrýškin's P-39N-0-BE Aèrokobra
+p-39n_su_1;▂ P-39N
+p-39n_su_2;▂ P-39
+il_8_1944_shop;Il-8 (AM-42) (VÂ-23)
+il_8_1944_0;Il-8 (AM-42) (VÂ-23)
+il_8_1944_1;Il-8
+il_8_1944_2;Il-8
+tis_ma_shop;TIS (MA)
+tis_ma_0;TIS (MA)
+tis_ma_1;TIS (MA)
+tis_ma_2;TIS
+itp_m1_shop;ITP (M-1)
+itp_m1_0;ITP (M-1)
+itp_m1_1;ITP (M-1)
+itp_m1_2;ITP
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+il-10_1946_shop;Il-10 (1947)
+il-10_1946_0;Il-10 (1947)
+il-10_1946_1;Il-10
+il-10_1946_2;Il-10
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+yak-15_early_shop;Âk-15 (1946)
+yak-15_early_0;Âk-15 (1946)
+yak-15_early_1;Âk-15
+yak-15_early_2;Âk-15
+yak-15_shop;Âk-15 (1947)
+yak-15_0;Âk-15 (1947)
+yak-15_1;Âk-15
+yak-15_2;Âk-15
+su-9_shop;Su-9
+su-9_0;izd. K | Su-9
+su-9_1;Su-9
+su-9_2;Su-9
+mig-15bis_ish_shop;MiG-15bis (IŠ)
+mig-15bis_ish_0;MiG-15bis (IŠ)
+mig-15bis_ish_1;MiG-15bis
+mig-15bis_ish_2;MiG-15
+mig-15bis_ns23_shop;MiG-15bis (NS-23)
+mig-15bis_ns23_0;MiG-15bis (NS-23)
+mig-15bis_ns23_1;MiG-15bis
+mig-15bis_ns23_2;MiG-15
 la_200_toriy_shop;200
 la_200_toriy_0;Opytno-konstruktorskoye bûro № 301 200
 la_200_toriy_1;200
@@ -5599,12 +6000,56 @@ l_39za_shop;L-39ZA
 l_39za_0;Aero Vodochody | L-39ZA Albatros
 l_39za_1;L-39ZA
 l_39za_2;L-39
+su-11_shop;Su-11
+su-11_0;izd. LK | Su-11
+su-11_1;Su-11
+su-11_2;Su-11
 la_174_shop;174
 la_174_0;Opytno-konstruktorskoye bûro № 301 174
 la_174_1;174
 la_174_2;174
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+mig-19pt_shop;MiG-19PT
+mig-19pt_0;izd. SM-7/2T | MiG-19PT
+mig-19pt_1;MiG-19PT
+mig-19pt_2;MiG-19
+mig-21_f13_shop;MiG-21F-13
+mig-21_f13_0;izd. 74 | MiG-21F-13
+mig-21_f13_1;MiG-21F
+mig-21_f13_2;MiG-21
+mig-21_s_shop;MiG-21S (R-13-300)
+mig-21_s_0;izd. 95 | MiG-21S (R-13-300)
+mig-21_s_1;MiG-21S
+mig-21_s_2;MiG-21
+mig-21_pfm_shop;MiG-21PFM (94)
+mig-21_pfm_0;izd. 94 | MiG-21PFM
+mig-21_pfm_1;MiG-21PFM
+mig-21_pfm_2;MiG-21
+mig-21_smt_shop;MiG-21SMT
+mig-21_smt_0;izd. 50 | MiG-21SMT
+mig-21_smt_1;MiG-21SMT
+mig-21_smt_2;MiG-21
+mig-21_bis_shop;MiG-21bis
+mig-21_bis_0;Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna | izd. 75 | Samolyot MiG-21bis
+mig-21_bis_1;MiG-21bis
+mig-21_bis_2;MiG-21
+mig-21_bis_event_shop;MiG-21bis
+mig-21_bis_event_0;Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna | izd. 75 | Samolyot MiG-21bis
+mig-21_bis_event_1;MiG-21bis
+mig-21_bis_event_2;MiG-21
+su-7b_shop;Su-7B
+su-7b_0;izd. S-22 | Su-7B
+su-7b_1;Su-7B
+su-7b_2;Su-7
+su-7bkl_shop;Su-7BKL
+su-7bkl_0;izd. S-22KL | Su-7BKL
+su-7bkl_1;Su-7BKL
+su-7bkl_2;Su-7
+su-7bmk_shop;☥ Su-7BMK
+su-7bmk_0;☥ izd. S-22MK | Su-7BMK
+su-7bmk_1;☥ Su-7BMK
+su-7bmk_2;☥ Su-7
 yak_130_early_shop;Âk-130
 yak_130_early_0;Irkutskij aviaczionnyj zavod | Samolyot Âk-130
 yak_130_early_1;Âk-130
@@ -5617,6 +6062,10 @@ nt_su_25t_shop;Su-25T
 nt_su_25t_0;"Ulan-Udènskij aviaczionnyj zavod | izd. T-8M | Su-25T ""Grač"""
 nt_su_25t_1;Su-25T
 nt_su_25t_2;Su-25
+su_25_558arz_shop;▂ Su-25 (558-j ARZ)
+su_25_558arz_0;"▂ 558-j Aviaczionnyj Ryemontnyj Zavod | Su-25 ""Grač"""
+su_25_558arz_1;▂ Su-25
+su_25_558arz_2;▂ Su-25
 tu_95m_shop;Tu-95M
 tu_95m_0;Zavod № 18 im. Vorošilova | izd. VM | Samolyot Tu-95M
 tu_95m_1;Tu-95M
@@ -5631,14 +6080,6 @@ j_22m1a_1;J-22M1A
 j_22m1a_2;J-22
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
-mig-21_bis_shop;MiG-21bis
-mig-21_bis_0;Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna | izd. 75 | Samolyot MiG-21bis
-mig-21_bis_1;MiG-21bis
-mig-21_bis_2;MiG-21
-mig-21_bis_event_shop;MiG-21bis
-mig-21_bis_event_0;Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna | izd. 75 | Samolyot MiG-21bis
-mig-21_bis_event_1;MiG-21bis
-mig-21_bis_event_2;MiG-21
 mig_23m_shop;MiG-23M
 mig_23m_0;izd. 23-11M | MiG-23M
 mig_23m_1;MiG-23M
@@ -5655,6 +6096,22 @@ mig_23ml_shop;MiG-23ML
 mig_23ml_0;izd. 23-12 | MiG-23ML
 mig_23ml_1;MiG-23ML
 mig_23ml_2;MiG-23
+su_17m2_shop;Su-17M2
+su_17m2_0;izd. S-32M2 | Su-17M2
+su_17m2_1;Su-17M2
+su_17m2_2;Su-17
+su_17m4_shop;Su-17M4
+su_17m4_0;izd. S-54 | Su-17M4
+su_17m4_1;Su-17M4
+su_17m4_2;Su-17
+mig_27m_shop;MiG-27M
+mig_27m_0;izd. 32-39 | MiG-27M
+mig_27m_1;MiG-27M
+mig_27m_2;MiG-27
+mig_27k_shop;MiG-27K
+mig_27k_0;izd. 32-36 | MiG-27K
+mig_27k_1;MiG-27K
+mig_27k_2;MiG-27
 su_24m_shop;Su-24M2
 su_24m_0;Kompaniâ «Sukhoj» | izd. T-6M2 | Samolyot Su-24M2
 su_24m_1;Su-24M
@@ -5663,12 +6120,20 @@ nt_su_24m_shop;Su-24M2
 nt_su_24m_0;Kompaniâ «Sukhoj» | izd. T-6M2 | Samolyot Su-24M2
 nt_su_24m_1;Su-24M
 nt_su_24m_2;Su-24
+su_22m3_shop;▄ Su-22M3
+su_22m3_0;▄ izd. S-52M3 | Su-22M3
+su_22m3_1;▄ Su-22M3
+su_22m3_2;▄ Su-22
 mig_25pd_shop;MiG-25PD
 mig_25pd_0;Moskovskij mašinostroityel'nyj zavod «Zyenit» | izd. 84D | Samolyot MiG-25PD
 mig_25pd_1;MiG-25PD
 mig_25pd_2;MiG-25
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
+yak_141_shop;Âk-141
+yak_141_0;izd. 48M | Âk-141
+yak_141_1;Âk-141
+yak_141_2;Âk-141
 mig_29kr_9_41r_shop;MiG-29KR
 mig_29kr_9_41r_0;"Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye im. P. V. Dyemyent'yeva | izd. 9-41R | Samolyot MiG-29KR"
 mig_29kr_9_41r_1;MiG-29KR
@@ -5677,6 +6142,14 @@ mig_29_9_12_shop;MiG-29 (9-12)
 mig_29_9_12_0;"Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye | izd. 9-12 | Samolyot MiG-29"
 mig_29_9_12_1;MiG-29
 mig_29_9_12_2;MiG-29
+mig_29_9_13_shop;MiG-29 (9-13)
+mig_29_9_13_0;izd. 9-13 | MiG-29
+mig_29_9_13_1;MiG-29
+mig_29_9_13_2;MiG-29
+mig_29smt_9_19_shop;MiG-29SMT
+mig_29smt_9_19_0;izd. 9-19R | MiG-29SMT
+mig_29smt_9_19_1;MiG-29SMT
+mig_29smt_9_19_2;MiG-29
 mig_29smt_9_19_killstreak_shop;☢ MiG-29SMT
 mig_29smt_9_19_killstreak_0;☢ izd. 9-19R | MiG-29SMT
 mig_29smt_9_19_killstreak_1;☢ MiG-29SMT
@@ -5715,8 +6188,14 @@ su_33_1;Su-33
 su_33_2;Su-33
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
-
-//USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+mi_24d_shop;▂ Mi-24D
+mi_24d_0;▂ izd. 246 | Mi-24D
+mi_24d_1;▂ Mi-24D
+mi_24d_2;▂ Mi-24
+mi_24v_shop;Mi-24V
+mi_24v_0;izd. 242 | Mi-24V
+mi_24v_1;Mi-24V
+mi_24v_2;Mi-24
 mi_35m_shop;Mi-24VM
 mi_35m_0;Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ | Vyertolyet Mi-24VM
 mi_35m_1;Mi-24VM
@@ -5725,6 +6204,8 @@ mi_35m_killstreak_shop;Mi-24VM
 mi_35m_killstreak_0;Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol» imyeni B. N. Slûsarâ | Vyertolyet Mi-24VM
 mi_35m_killstreak_1;Mi-24VM
 mi_35m_killstreak_2;Mi-24
+
+//USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 mi_35p_shop;Mi-35P
 mi_35p_0;"Moskovskij vyertolëtnyj zavod im. M. L. Milâ / Kholding «Vyertolëty Rossii» + Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ Mi-35P Transportno-boyevoj Vyertolyet ""Fyeniks"""
 mi_35p_1;Mi-35P
@@ -5745,6 +6226,18 @@ ussr_bt_7_1937_shop;BT-7 (1937)
 ussr_bt_7_1937_0;A-7 | BT-7 obr. 1937 g.
 ussr_bt_7_1937_1;BT-7
 ussr_bt_7_1937_2;Light Tank
+ussr_bt_7_m_shop;BT-7M
+ussr_bt_7_m_0;A-8 | BT-7M
+ussr_bt_7_m_1;BT-7M
+ussr_bt_7_m_2;Light Tank
+ussr_bt_7_1937_td_shop;⋦ BT-7 (1937)
+ussr_bt_7_1937_td_0;⋦ A-7 | BT-7 obr. 1937 g.
+ussr_bt_7_1937_td_1;⋦ BT-7
+ussr_bt_7_1937_td_2;Light Tank
+ussr_bt_7a_f32_shop;BT-7A (F-32)
+ussr_bt_7a_f32_0;A-7 | BT-7A (F-32)
+ussr_bt_7a_f32_1;BT-7A (F-32)
+ussr_bt_7a_f32_2;Light Tank
 ussr_bt_7_1937_race_shop;BT-7
 ussr_bt_7_1937_race_0;A-7 | BT-7 obr. 1937 g.
 ussr_bt_7_1937_race_1;BT-7
@@ -5883,26 +6376,6 @@ ussr_t_80_shop;T-80
 ussr_t_80_0;"Ob""yekt 0-80 | T-80"
 ussr_t_80_1;T-80
 ussr_t_80_2;Light Tank
-ussr_gaz_mm_72k_shop;GAZ-MM (72-K)
-ussr_gaz_mm_72k_0;GAZ-MM (72-K)
-ussr_gaz_mm_72k_1;GAZ-MM (72-K)
-ussr_gaz_mm_72k_2;SPAA
-ussr_gaz_mm_72k_without_crew_shop;GAZ-MM (72-K)
-ussr_gaz_mm_72k_without_crew_0;GAZ-MM (72-K)
-ussr_gaz_mm_72k_without_crew_1;GAZ-MM (72-K)
-ussr_gaz_mm_72k_without_crew_2;SPAA
-ussr_zis_12_94KM_1945_shop;ZiS-12 (94-KM)
-ussr_zis_12_94KM_1945_0;ZiS-12 (94-KM)
-ussr_zis_12_94KM_1945_1;ZiS-12 (94-KM)
-ussr_zis_12_94KM_1945_2;SPAA
-ussr_t_126sp_shop;T-126SP
-ussr_t_126sp_0;126 | T-126SP
-ussr_t_126sp_1;T-126
-ussr_t_126sp_2;Light Tank
-ussr_bm_13n_shop;BM-13N
-ussr_bm_13n_0;BM-13N (KS-112)
-ussr_bm_13n_1;BM-13N
-ussr_bm_13n_2;MLRS
 ussr_kv_1_L_11_shop;KV-1 (Feb, 1940)
 ussr_kv_1_L_11_0;KV-1 obr. 1940 g. (February, 1940)
 ussr_kv_1_L_11_1;KV-1
@@ -5951,6 +6424,34 @@ ussr_kv_220_shop;KV-220
 ussr_kv_220_0;"Ob""yekt 220 | KV-220"
 ussr_kv_220_1;KV-220
 ussr_kv_220_2;Heavy Tank
+ussr_gaz_mm_72k_shop;GAZ-MM (72-K)
+ussr_gaz_mm_72k_0;GAZ-MM (72-K)
+ussr_gaz_mm_72k_1;GAZ-MM (72-K)
+ussr_gaz_mm_72k_2;SPAA
+ussr_gaz_mm_72k_without_crew_shop;GAZ-MM (72-K)
+ussr_gaz_mm_72k_without_crew_0;GAZ-MM (72-K)
+ussr_gaz_mm_72k_without_crew_1;GAZ-MM (72-K)
+ussr_gaz_mm_72k_without_crew_2;SPAA
+ussr_btr_152a_shop;BTR-152A (ZTPU-2)
+ussr_btr_152a_0;"Ob""yekt 140A | BTR-152A (ZTPU-2)"
+ussr_btr_152a_1;BTR-152A (ZTPU-2)
+ussr_btr_152a_2;SPAA
+ussr_zis_12_94KM_1945_shop;ZiS-12 (94-KM)
+ussr_zis_12_94KM_1945_0;ZiS-12 (94-KM)
+ussr_zis_12_94KM_1945_1;ZiS-12 (94-KM)
+ussr_zis_12_94KM_1945_2;SPAA
+ussr_t_126sp_shop;T-126SP
+ussr_t_126sp_0;126 | T-126SP
+ussr_t_126sp_1;T-126
+ussr_t_126sp_2;Light Tank
+ussr_bm_13n_shop;BM-13N
+ussr_bm_13n_0;BM-13N (KS-112)
+ussr_bm_13n_1;BM-13N
+ussr_bm_13n_2;MLRS
+ussr_a_12_mk_2_matilda_2A_F96_shop;▂ Matil'da-III (F-96)
+ussr_a_12_mk_2_matilda_2A_F96_0;▂ Mk II Matil'da-III obr. 1944 g. (F-96)
+ussr_a_12_mk_2_matilda_2A_F96_1;▂ Matil'da-III
+ussr_a_12_mk_2_matilda_2A_F96_2;Infantry tank
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 ussr_is_1_shop;IS-1
@@ -6001,6 +6502,10 @@ ussr_is_7_shop;IS-7
 ussr_is_7_0;"Ob""yekt 260 sb.2 | IS-7 obr. 1948 g."
 ussr_is_7_1;IS-7
 ussr_is_7_2;Heavy Tank
+ussr_asu_57_shop;ASU-57 (1954)
+ussr_asu_57_0;"Ob""yekt 572 | ASU-57 obr. 1954 g."
+ussr_asu_57_1;ASU-57
+ussr_asu_57_2;SPG
 ussr_pt_76b_shop;PT-76B
 ussr_pt_76b_0;"Ob""yekt 740B | PT-76B obr. 1959 g."
 ussr_pt_76b_1;PT-76B
@@ -6033,6 +6538,10 @@ ussr_isu_122s_shop;ISU-122S
 ussr_isu_122s_0;"Ob""yekt 249 | ISU-122-2 | ISU-122S obr. 1945 g."
 ussr_isu_122s_1;ISU-122S
 ussr_isu_122s_2;SPG
+ussr_btr_152d_shop;ZiS-152D (ZTPU-4)
+ussr_btr_152d_0;ZiS-152D (ZTPU-4)
+ussr_btr_152d_1;ZiS-152D (ZTPU-4)
+ussr_btr_152d_2;SPAA
 ussr_bm_31_12_shop;BM-31-12
 ussr_bm_31_12_0;BM-31-12 (KS-77)
 ussr_bm_31_12_1;BM-31-12
@@ -6059,10 +6568,22 @@ ussr_t_44_100_shop;T-44-100
 ussr_t_44_100_0;"Ob""yekt 136 | T-44-100"
 ussr_t_44_100_1;T-44-100
 ussr_t_44_100_2;Medium Tank
+ussr_asu_85_shop;ASU-85
+ussr_asu_85_0;"Ob""yekt 573 | ASU-85"
+ussr_asu_85_1;ASU-85
+ussr_asu_85_2;SPG
+ussr_su_100p_shop;SU-100P
+ussr_su_100p_0;"Ob""yekt 105 | SU-100P"
+ussr_su_100p_1;SU-100P
+ussr_su_100p_2;SPG
 ussr_su_100_1945_shop;SU-100
 ussr_su_100_1945_0;"Ob""yekt 138 | SU-100 obr. 1944 g."
 ussr_su_100_1945_1;SU-100
 ussr_su_100_1945_2;SPG
+ussr_btr_zd_shop;BTR-ZD
+ussr_btr_zd_0;"Ob""yekt 925S | BTR-ZD"
+ussr_btr_zd_1;BTR-ZD
+ussr_btr_zd_2;SPAA
 ussr_type_62_shop;▂ ZTQ62
 ussr_type_62_0;▂ Hā'ěrbīn Dì Yī Jīxiè Jítuán | WZ131 | ZTQ1962 Shì Qīngxíng Tankè
 ussr_type_62_1;▂ ZTQ62
@@ -6085,6 +6606,10 @@ ussr_t_54_1951_shop;T-54-3
 ussr_t_54_1951_0;"Ob""yekt 137-III | T-54-1 | T-54 obr. 1951 g."
 ussr_t_54_1951_1;T-54
 ussr_t_54_1951_2;Medium Tank
+ussr_bmp_1_shop;BMP-1P
+ussr_bmp_1_0;"Ob""yekt 76 sp.4 | BMP-1P obr. 1979 g."
+ussr_bmp_1_1;BMP-1P
+ussr_bmp_1_2;Light Tank
 ussr_object_906_shop;PT-85 (UTD-20)
 ussr_object_906_0;"Ob""yekt 906 | PT-85 (UTD-20)"
 ussr_object_906_1;PT-85
@@ -6131,6 +6656,74 @@ ussr_t_62_shop;T-62
 ussr_t_62_0;"Ob""yekt 166 | T-62 obr. 1964 g."
 ussr_t_62_1;T-62
 ussr_t_62_2;Medium Tank
+ussr_t_62m1_shop;T-62M-1
+ussr_t_62m1_0;"Ob""yekt 166M-1 | T-62M-1"
+ussr_t_62m1_1;T-62M
+ussr_t_62m1_2;Medium Tank
+ussr_t_72a_shop;T-72A
+ussr_t_72a_0;"Ob""yekt 176 | T-72A obr. 1983 g."
+ussr_t_72a_1;T-72A
+ussr_t_72a_2;MBT
+ussr_t_72b_shop;T-72B (Kontakt-1)
+ussr_t_72b_0;"Ob""yekt 184 | T-72B obr. 1989/85 gg."
+ussr_t_72b_1;T-72B
+ussr_t_72b_2;MBT
+ussr_t_72b_1989_shop;T-72B (Kontakt-5)
+ussr_t_72b_1989_0;"Ob""yekt 184 | T-72B obr. 1989 g."
+ussr_t_72b_1989_1;T-72B
+ussr_t_72b_1989_2;MBT
+ussr_t_72b3_2011_shop;T-72B3M (2016)
+ussr_t_72b3_2011_0;"Ob""yekt 184B | T-72B3M obr. 2016 g."
+ussr_t_72b3_2011_1;T-72B3
+ussr_t_72b3_2011_2;MBT
+ussr_t_72b3_2017_race_shop;T-72B3M (2014)
+ussr_t_72b3_2017_race_0;"Ob""yekt 184B | T-72B3M obr. 2014 g."
+ussr_t_72b3_2017_race_1;T-72B3
+ussr_t_72b3_2017_race_2;MBT
+ussr_t_72av_turms_shop;▄ T-72AV (TURMS-T)
+ussr_t_72av_turms_0;"▄ Ob""yekt 176V | T-72AV obr. 2003 g. (TURMS-T)"
+ussr_t_72av_turms_1;▄ T-72AV
+ussr_t_72av_turms_2;MBT
+ussr_t_72m2_moderna_shop;T-72M2
+ussr_t_72m2_moderna_0;T-72M2 Moderna
+ussr_t_72m2_moderna_1;T-72M2
+ussr_t_72m2_moderna_2;MBT
+ussr_t_72b3_arena_shop;T-72B3 (Aryena-M)
+ussr_t_72b3_arena_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob""yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6-1 ""Aryena-M"")"
+ussr_t_72b3_arena_1;T-72B3
+ussr_t_72b3_arena_2;MBT
+ussr_t_72b3_arena_m_shop;T-72B3A
+ussr_t_72b3_arena_m_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob""yekt 184-5 | Tank T-72B3A obr. 2024 g."
+ussr_t_72b3_arena_m_1;T-72B3
+ussr_t_72b3_arena_m_2;MBT
+ussr_object_435_shop;Ob. 435
+ussr_object_435_0;"Ob""yekt 435"
+ussr_object_435_1;Ob. 435
+ussr_object_435_2;Medium Tank
+ussr_t_64a_1971_shop;T-64A
+ussr_t_64a_1971_0;"Ob""yekt 434 | T-64A obr. 1971 g. Redut"
+ussr_t_64a_1971_1;T-64A
+ussr_t_64a_1971_2;MBT
+ussr_t_64_b_1984_shop;T-64BV
+ussr_t_64_b_1984_0;"Ob""yekt 447AV | T-64BV obr. 1987 g."
+ussr_t_64_b_1984_1;T-64BV
+ussr_t_64_b_1984_2;MBT
+ussr_bmp_2_shop;BMP-2D
+ussr_bmp_2_0;"Ob""yekt 675 | BMP-2D obr. 1982 g."
+ussr_bmp_2_1;BMP-2
+ussr_bmp_2_2;IFV
+ussr_bmp_2m_shop;BMP-2M
+ussr_bmp_2m_0;"Ob""yekt 675 | BMP-2M obr. 2005 g."
+ussr_bmp_2m_1;BMP-2
+ussr_bmp_2m_2;IFV
+ussr_bmp_3_shop;BMP-3
+ussr_bmp_3_0;"Ob""yekt 688A | BMP-3 obr. 2017 g."
+ussr_bmp_3_1;BMP-3
+ussr_bmp_3_2;IFV
+ussr_object_685_shop;Ob. 685
+ussr_object_685_0;"Ob""yekt 685"
+ussr_object_685_1;Ob. 685
+ussr_object_685_2;Light Tank
 ussr_bmd_4m2_shop;BMD-4M (Sinicza)
 ussr_bmd_4m2_0;"OAO «Kurganskij mašinostroityel'nyj zavod» | Ob""yekt 960M2 | Boyevaâ mašina dyesanta BMD-4M (Boyevoye otdyelyeniye Sinicza)"
 ussr_bmd_4m2_1;BMD-4M
@@ -6147,12 +6740,48 @@ ussr_it_1_shop;IT-1
 ussr_it_1_0;"Ob""yekt 150 | IT-1 ""Yaguar"""
 ussr_it_1_1;IT-1
 ussr_it_1_2;Medium Tank
+ussr_9p149_shop;9P149M
+ussr_9p149_0;"Ob""yekt 49 | 9P149M ""Šturm-S"""
+ussr_9p149_1;9P149M
+ussr_9p149_2;SPG
 ussr_btr_82at_shop;BTR-82AT (9P163-1)
 ussr_btr_82at_0;Arzamasskij mašinostroityel'nyj zavod | Bronyetransportyer BTR-82AT (Puskovoye ustrojstvo 9P163-1)
 ussr_btr_82at_1;BTR-82AT
 ussr_btr_82at_2;IFV
+ussr_object_775_shop;Ob. 775
+ussr_object_775_0;"Ob""yekt 775"
+ussr_object_775_1;Ob. 775
+ussr_object_775_2;SPG
+ussr_object_279_shop;Ob. 279
+ussr_object_279_0;"Ob""yekt 279 obr. 1960 g."
+ussr_object_279_1;Ob. 279
+ussr_object_279_2;Heavy Tank
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+ussr_t_90a_shop;T-90A
+ussr_t_90a_0;"Ob""yekt 188A1 | T-90A obr. 2006 g. Vladimir"
+ussr_t_90a_1;T-90A
+ussr_t_90a_2;MBT
+ussr_t_90m_2020_shop;T-90M
+ussr_t_90m_2020_0;"Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob""yekt 188M | T-90M obr. 2017 g. ""Proryv-3"""
+ussr_t_90m_2020_1;T-90M
+ussr_t_90m_2020_2;MBT
+ussr_t_90m_arena_m_shop;T-90M (Aryena-M)
+ussr_t_90m_arena_m_0;"Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob""yekt 188M | T-90M obr. 2017 g. ""Proryv-3"" (Komplyeks aktivnoj zaŝity T09-A6-1 ""Aryena-M"")"
+ussr_t_90m_arena_m_1;T-90M
+ussr_t_90m_arena_m_2;MBT
+ussr_t_80b_shop;T-80B (AGAVA)
+ussr_t_80b_0;"Ob""yekt 219R | T-80B obr. 1982 g. (AGAVA)"
+ussr_t_80b_1;T-80B
+ussr_t_80b_2;MBT
+ussr_t_80u_shop;T-80U
+ussr_t_80u_0;"Ob""yekt 219AS | T-80U obr. 1993 g. isp. Shvedskiy"
+ussr_t_80u_1;T-80U
+ussr_t_80u_2;MBT
+ussr_t_80ud_shop;T-80UD
+ussr_t_80ud_0;"Ob""yekt 478B | T-80UD obr. 1985 g. Bereza"
+ussr_t_80ud_1;T-80UD
+ussr_t_80ud_2;MBT
 ussr_t_80ue1_shop;T-80U-Ye1
 ussr_t_80ue1_0;"Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | Tank T-80U-Ye1"
 ussr_t_80ue1_1;T-80U-Ye1
@@ -6161,10 +6790,30 @@ ussr_t_80ue1_sm_shop;◍ Mariya's T-80U-Ye1
 ussr_t_80ue1_sm_0;"◍ Kirovskij zavod / Omskij zavod transportnogo mašinostroyeniâ | Ob""yekt 219AS-1 | Mariya's Tank T-80U-Ye1"
 ussr_t_80ue1_sm_1;◍ T-80U-Ye1
 ussr_t_80ue1_sm_2;MBT
+ussr_t_80u_yt_cup_2019_shop;␙ T-80U
+ussr_t_80u_yt_cup_2019_0;"␙ Ob""yekt 219AS | T-80U obr. 1993 g. isp. Shvedskiy"
+ussr_t_80u_yt_cup_2019_1;␙ T-80U
+ussr_t_80u_yt_cup_2019_2;MBT
 ussr_t_80um2_shop;T-80U (Drozd)
 ussr_t_80um2_0;"Kirovskij zavod | Ob""yekt 219AS | Tank T-80U obr. 1995 g. (Drozd)"
 ussr_t_80um2_1;T-80U
 ussr_t_80um2_2;MBT
+ussr_t_80uk_shop;T-80UK
+ussr_t_80uk_0;"Ob""yekt 630A | T-80UK obr. 1992 g."
+ussr_t_80uk_1;T-80UK
+ussr_t_80uk_2;MBT
+ussr_t_80u_race_shop;T-80U
+ussr_t_80u_race_0;"Ob""yekt 219AS | T-80U obr. 1993 g. isp. Shvedskiy"
+ussr_t_80u_race_1;T-80U
+ussr_t_80u_race_2;MBT
+ussr_t_80bvm_shop;T-80BVM
+ussr_t_80bvm_0;"Ob""yekt 219RVM | T-80BVM obr. 2017 g."
+ussr_t_80bvm_1;T-80BVM
+ussr_t_80bvm_2;MBT
+ussr_9p157_shop;9P157-2
+ussr_9p157_0;"Ob""yekt 699 sb.2 | BM 9P157-2 ""Khrizantema-S"""
+ussr_9p157_1;9P157-2
+ussr_9p157_2;SPG
 ussr_bmpt_shop;BMPT (2002)
 ussr_bmpt_0;"Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ | Ob""yekt 199 | Boyevaâ mašina poddyeržki tankov BMPT obr. 2002 g. ""Tyerminator"""
 ussr_bmpt_1;BMPT
@@ -6185,24 +6834,12 @@ ussr_tor_m1_shop;9A331-1
 ussr_tor_m1_0;"Naučno-proizvodstvyennoye ob""yedinyeniye Antyej | Boyevaâ mašina 9A331-1"
 ussr_tor_m1_1;9A331-1
 ussr_tor_m1_2;SPAAM
+ussr_object_292_shop;Ob. 292
+ussr_object_292_0;"Ob""yekt 292"
+ussr_object_292_1;Ob. 292
+ussr_object_292_2;MBT
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
-ussr_t_90m_2020_shop;T-90M
-ussr_t_90m_2020_0;"Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob""yekt 188M | T-90M obr. 2017 g. ""Proryv-3"""
-ussr_t_90m_2020_1;T-90M
-ussr_t_90m_2020_2;MBT
-ussr_t_90m_arena_m_shop;T-90M (Aryena-M)
-ussr_t_90m_arena_m_0;"Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod» | Ob""yekt 188M | T-90M obr. 2017 g. ""Proryv-3"" (Komplyeks aktivnoj zaŝity T09-A6-1 ""Aryena-M"")"
-ussr_t_90m_arena_m_1;T-90M
-ussr_t_90m_arena_m_2;MBT
-ussr_t_72b3_arena_m_shop;T-72B3A
-ussr_t_72b3_arena_m_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob""yekt 184-5 | Tank T-72B3A obr. 2024 g."
-ussr_t_72b3_arena_m_1;T-72B3
-ussr_t_72b3_arena_m_2;MBT
-ussr_t_72b3_arena_shop;T-72B3 (Aryena-M)
-ussr_t_72b3_arena_0;"Ural'skij vagonostroityel'nyj zavod im. F. È. Dzyeržinskogo / Naučno-proizvodstvyennaâ korporacziâ «Konstruktorskoye bûro mašinostroyeniâ» | Ob""yekt 184-3M | Tank T-72B3 obr. 2011 g. (Komplyeks aktivnoj zaŝity T09-A6-1 ""Aryena-M"")"
-ussr_t_72b3_arena_1;T-72B3
-ussr_t_72b3_arena_2;MBT
 ussr_buk_m3_launcher_shop;9A317M
 ussr_buk_m3_launcher_0;"Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V. Tikhomirova (NIIP) | Samokhodnaâ ognyevaâ ustanovka 9A317M ""Buk-M3"""
 ussr_buk_m3_launcher_1;9A317M
@@ -6217,40 +6854,176 @@ ussr_pantsyr_sm_sv_1;Panczir'-SM-SV
 ussr_pantsyr_sm_sv_2;SPAAG/M
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+ussr_g5_mtb_shop;TKA №12/1
+ussr_g5_mtb_0;Torpednyy kater Tip G-5, syeriâ X, TKA №12/1
+ussr_g5_mtb_1;TKA №12/1
+ussr_g5_mtb_2;Motor Torpedo Boat
+ussr_d3_shop;TKA №11
+ussr_d3_0;Torpediyj Katyer Proyekt P-19-OK, Tip D-3, Syerii I, TKA №11
+ussr_d3_1;TKA №11
+ussr_d3_2;Motor Torpedo Boat
 ussr_pr_103_sm4_shop;TKA № 164
 ussr_pr_103_sm4_0;Sudostroityel'nyj zavod № 194 im. Marti | Torpyednyj katyer proyekta 103 tip SM-4 | TKA № 164
 ussr_pr_103_sm4_1;TKA № 164
 ussr_pr_103_sm4_2;Motor Torpedo Boat
+ussr_mo_4_shop;PK-216
+ussr_mo_4_0;Pogranichnyye Storozhyevyye Korabl' Proyekt 174, Tip MO-4, PK-216
+ussr_mo_4_1;PK-216
+ussr_mo_4_2;Gunboat
+ussr_od_200_shop;MO-361
+ussr_od_200_0;Malyj Okhotnik za Podvodnymi Lodkami Proyekt 200, Tip OD-200, MO-361
+ussr_od_200_1;MO-361
+ussr_od_200_2;Gunboat
 ussr_d3_tk126_shop;TK-126
 ussr_d3_tk126_0;Zavod № 640 | Torpyednyj katyer proyekt 19-OK | TK-126 (1944)
 ussr_d3_tk126_1;TK-126
 ussr_d3_tk126_2;Motor Torpedo Boat
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+ussr_mpk_163_shop;MPK-163
+ussr_mpk_163_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 122bis, MPK-163
+ussr_mpk_163_1;MPK-163
+ussr_mpk_163_2;Gunboat
+ussr_mpk_122a_shop;MPK-143
+ussr_mpk_122a_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 122A, MPK-143
+ussr_mpk_122a_1;MPK-143
+ussr_mpk_122a_2;Subchaser
+ussr_mpk_122bis_shop;MPK-173
+ussr_mpk_122bis_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 122bis, MPK-173
+ussr_mpk_122bis_1;MPK-173
+ussr_mpk_122bis_2;Gunboat
+ussr_pr_123bis_shop;TK-687
+ussr_pr_123bis_0;Malyj Torpediyj Katyer Proyekt 123bis Komsomolyets, TK-687
+ussr_pr_123bis_1;TK-687
+ussr_pr_123bis_2;Motor Torpedo Boat
+ussr_pr_123k_hydrofoils_shop;TK-996 (A-10bis)
+ussr_pr_123k_hydrofoils_0;Malyj Torpediyj Katyer Proyekt 123K, TK-996 (A-10bis)
+ussr_pr_123k_hydrofoils_1;TK-996 (A-10bis)
+ussr_pr_123k_hydrofoils_2;Motor Torpedo Boat
+ussr_pr_123k_shop;TK-1
+ussr_pr_123k_0;Malyj Torpediyj Katyer Proyekt 123K, TK-1
+ussr_pr_123k_1;TK-1
+ussr_pr_123k_2;Motor Torpedo Boat
+ussr_1124_art_shop;BK-121
+ussr_1124_art_0;Bronyekatyer Proyekt 1124, BK-121 (1942)
+ussr_1124_art_1;BK-121
+ussr_1124_art_2;Armored Boat
+ussr_1124_rct_shop;BKA №31
+ussr_1124_rct_0;Bronyekatyer Artillyerijskiye Proyekt 1124, BKA №31 (16-M-13) (1944)
+ussr_1124_rct_1;BKA №31
+ussr_1124_rct_2;Armored Boat
+ussr_1124_ack_shop;BK-314
+ussr_1124_ack_0;Bronyekatyer Proyekt 1124, BK-314 (1945)
+ussr_1124_ack_1;BK-314
+ussr_1124_ack_2;Armored Boat
 ussr_pr253l_shop;T-380
 ussr_pr253l_0;Sudostroityel'nyj zavod № 189 im. S. Ordžonikidzye | Ryejdovyye tral'ŝiki proyekt 253L | T-380
 ussr_pr253l_1;T-380
 ussr_pr253l_2;Raid Minesweeper
+ussr_pr_1204_shop;AK-222
+ussr_pr_1204_0;Artillyerijskiye Katyer Proyekt 1204 Shmel', AK-222
+ussr_pr_1204_1;AK-222
+ussr_pr_1204_2;Armored Boat
+ussr_pr_1204_late_shop;AK-508
+ussr_pr_1204_late_0;Artillyerijskiye Katyer Proyekt 1204 Shmel', AK-508
+ussr_pr_1204_late_1;AK-508
+ussr_pr_1204_late_2;Gunboat
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+ussr_pr_183_egypt_bm_21_shop;TK-20 (A-215)
+ussr_pr_183_egypt_bm_21_0;Bol'shiye Torpyednyj Katyer Proyekt 183 Bolishyevik, TK-20 (A-215 Grad-M)
+ussr_pr_183_egypt_bm_21_1;TK-20
+ussr_pr_183_egypt_bm_21_2;Motor Gun Boat
+ussr_pr_183_shop;TK-20
+ussr_pr_183_0;Bol'shiye Torpyednyj Katyer Proyekt 183 Bolishyevik, TK-20
+ussr_pr_183_1;TK-20
+ussr_pr_183_2;Motor Torpedo Boat
+ussr_pr_191_shop;BK-166
+ussr_pr_191_0;Bronyekatyer Proyekt 191, BK-166
+ussr_pr_191_1;BK-166
+ussr_pr_191_2;Armored Boat
+ussr_pr_191m_shop;BK-167
+ussr_pr_191m_0;Bronyekatyer Proyekt 191M, BK-167
+ussr_pr_191m_1;BK-167
+ussr_pr_191m_2;Armored Boat
+ussr_mbk_161_1943_shop;BK-501
+ussr_mbk_161_1943_0;Bronyekatyer Proyekt 161, BK-501 (1943)
+ussr_mbk_161_1943_1;BK-501
+ussr_mbk_161_1943_2;Naval Armored Boat
+ussr_mbk_161_1944_shop;BK-516
+ussr_mbk_161_1944_0;Bronyekatyer Proyekt 161, BK-516 (1944)
+ussr_mbk_161_1944_1;BK-516
+ussr_mbk_161_1944_2;Naval Armored Boat
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+ussr_bmo_shop;BMO-318
+ussr_bmo_0;Bronirovannij Malyen'kij Okhotnik Proyekt 194, Tip BMO, BMO-318
+ussr_bmo_1;BMO-318
+ussr_bmo_2;Gunboat
+ussr_mkl_186_shop;BK-521
+ussr_mkl_186_0;Bronyekatyer Proyekt 186, BK-521
+ussr_mkl_186_1;BK-521
+ussr_mkl_186_2;Naval Armored Boat
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+ussr_pr_206_shop;TK-12
+ussr_pr_206_0;Bol'shiye Torpyednyj Katyer Proyekt 206, TK-12
+ussr_pr_206_1;TK-12
+ussr_pr_206_2;Motor Torpedo Boat
+ussr_pr_206_race_shop;TK-12
+ussr_pr_206_race_0;Bol'shiye Torpyednyj Katyer Proyekt 206, TK-12
+ussr_pr_206_race_1;TK-12
+ussr_pr_206_race_2;Motor Torpedo Boat
+ussr_pr_206m_shop;T-98
+ussr_pr_206m_0;Bol'shiye Torpyednyj Katyer Proyekt 206M Shtorm, T-98
+ussr_pr_206m_1;T-98
+ussr_pr_206m_2;Motor Torpedo Boat
+ussr_skr_pr159_shop;PLK-1
+ussr_skr_pr159_0;Protivolodochnyye Korabl' Proyekt 159, PLK-1
+ussr_skr_pr159_1;PLK-1
+ussr_skr_pr159_2;Patrol ship
 ussr_mpk_pr_1124_shop;MPK-33
 ussr_mpk_pr_1124_0;"Zyelyenodol'skij sudostroityel'nyj zavod № 340 im. A. M. Gor'kogo | Malyj protivolodočnyj korabl' proyekt 1124 ""Al'batros"" | MPK-33"
 ussr_mpk_pr_1124_1;MPK-33
 ussr_mpk_pr_1124_2;Anti-Submarine Ship
+ussr_skr_pr35_shop;PLK-7
+ussr_skr_pr35_0;Protivolodochnyye Korabl' Proyekt 35, PLK-7
+ussr_skr_pr35_1;PLK-7
+ussr_skr_pr35_2;Patrol ship
 ussr_pr_205pe_k225_shop;AK-225
 ussr_pr_205pe_k225_0;Lyeningradskij Primorskij zavod | Artillyerijskij katyer proyekt 205PÈ | AK-225 (1975)
 ussr_pr_205pe_k225_1;AK-225
 ussr_pr_205pe_k225_2;Artillery Boat
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+ussr_destroyer_frunze_shop;Frunzye
+ussr_destroyer_frunze_0;Novik-class, Frunzye, 1940
+ussr_destroyer_frunze_1;Frunzye
+ussr_destroyer_frunze_2;Destroyer
+ussr_destroyer_kerch_shop;Kyerč' (1917)
+ussr_destroyer_kerch_0;Eskadrennyy minonosets Tip Novik, 3rd syeriâ, Tip Fidonisi, Kerch' (1917)
+ussr_destroyer_kerch_1;Kyerč' (1917)
+ussr_destroyer_kerch_2;Destroyer
+ussr_destroyer_7y_shop;Soobrazityel'nyj
+ussr_destroyer_7y_0;Pr. 7U, Soobrazityel'nyj, 1943
+ussr_destroyer_7y_1;Soobrazityel'nyj
+ussr_destroyer_7y_2;Destroyer
+ussr_destroyer_7y_stroyny_shop;Strojnyj
+ussr_destroyer_7y_stroyny_0;Pr. 7U, Strojnyj, 1945
+ussr_destroyer_7y_stroyny_1;Strojnyj
+ussr_destroyer_7y_stroyny_2;Destroyer
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+ussr_cruiser_krasnyi_kavkaz_shop;Krasnyj Kavkaz
+ussr_cruiser_krasnyi_kavkaz_0;Svetlana-class, Krasnyj Kavkaz, 1944
+ussr_cruiser_krasnyi_kavkaz_1;Krasnyj Kavkaz
+ussr_cruiser_krasnyi_kavkaz_2;Light Cruiser
+ussr_cruiser_krasnyi_krim_shop;Krasnyj Krym
+ussr_cruiser_krasnyi_krim_0;Svetlana-class, Krasnyj Krym, 1943
+ussr_cruiser_krasnyi_krim_1;Krasnyj Krym
+ussr_cruiser_krasnyi_krim_2;Light Cruiser
 ussr_cruiser_chervona_ukraina_shop;Čyervona Ukraina
 ussr_cruiser_chervona_ukraina_0;Russkomu sudostroityel'nomu akczionyernomu obŝyestvu «Russud» | Lyegkij kryejsyer tip Admiral Nakhimov | Čyervona Ukraina
 ussr_cruiser_chervona_ukraina_1;Čyervona Ukraina
@@ -8595,6 +9368,10 @@ a6m2_zero_china_shop;☀ 0 Shì Zhàn 21 Xíng
 a6m2_zero_china_0;"☀ Mitsubishi Jū Kōgyō | 0 Shì Zhàndòujī 21 Xíng ""Líng"""
 a6m2_zero_china_1;☀ 0 Shì Zhàn 21 Xíng
 a6m2_zero_china_2;☀ 0 Shì Zhàn
+a6m5_zero_china_shop;☀ A6M5
+a6m5_zero_china_0;"☀ Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata | A6M5 ""Rei Sen"""
+a6m5_zero_china_1;☀ A6M5
+a6m5_zero_china_2;☀ A6M
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 la-11_china_shop;␗ Lā 11
@@ -8647,6 +9424,10 @@ mig-15bis_nr23_china_shop;␗ Migé 15 Bisī
 mig-15bis_nr23_china_0;␗ Opytno-konstruktorskoye bûro № 155 SD | Migé 15 Bisī Xíng Fēijī
 mig-15bis_nr23_china_1;␗ Migé 15 Bisī
 mig-15bis_nr23_china_2;␗ Migé 15
+mig-15bis_ns23_china_shop;␗ MiG-15bis (NS-23)
+mig-15bis_ns23_china_0;␗ MiG-15bis (NS-23)
+mig-15bis_ns23_china_1;␗ MiG-15bis
+mig-15bis_ns23_china_2;␗ MiG-15
 mig-17_china_shop;␗ Migé 17
 mig-17_china_0;␗ Opytno-konstruktorskoye bûro № 155 | Migé 17 Xíng Fēijī
 mig-17_china_1;␗ Migé 17
@@ -8899,6 +9680,10 @@ cn_su_76m_1943_shop;␗ SU-76
 cn_su_76m_1943_0;␗ Kirovskij mašinostroityel'nyj zavod № 38 im. 1 Maâ (NKTP) | SU-76 Zìxíng Huopào
 cn_su_76m_1943_1;␗ SU-76
 cn_su_76m_1943_2;SPG
+cn_type_95_ha_go_shop;☀ Ha-Gō (late) (94 Shiki)
+cn_type_95_ha_go_0;☀ 95 Shiki Kei Sensha Ha-Gō (late) (94 Shiki)
+cn_type_95_ha_go_1;☀ Ha-Gō
+cn_type_95_ha_go_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 cn_m3a3_stuart_shop;☀ M3A3
@@ -9255,7 +10040,7 @@ cn_m1a2t_1;☀ M1A2T
 cn_m1a2t_2;MBT
 cn_tor_m1_shop;␗ 9A331-1
 cn_tor_m1_0;"␗ Naučno-proizvodstvyennoye ob""yedinyeniye Antyej | Boyevaâ mašina 9A331-1"
-cn_tor_m1_1;␗ 9A331
+cn_tor_m1_1;␗ 9A331-1
 cn_tor_m1_2;SPAA
 cn_hq_17_shop;ADK17
 cn_hq_17_0;Zhōngguó Jīngmì Jīxiè Jìn Chūkou Zong Gōngsī | HQ-17 | ADK17 Dì Duì Kōng Daodàn Xìtong
@@ -9297,6 +10082,10 @@ cn_oplot_t_2;MBT
 //CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+re_2000_ga_ep_shop;Re.2000 GA III (377ª Sq.)
+re_2000_ga_ep_0;Re.2000 Grande Autonomia serie III Falco I (377ª Squadriglia)
+re_2000_ga_ep_1;Re.2000
+re_2000_ga_ep_2;Re.2000
 ba_65_k14_l_shop;Ba. 65 (K-14fc) (L)
 ba_65_k14_l_0;Società Italiana Ernesto Breda | Ba. 65 (K-14fc) (Torretta ad Arcone Tipo L)
 ba_65_k14_l_1;Ba. 65
@@ -9305,6 +10094,34 @@ ba_65_a80_shop;Ba. 65 (A. 80)
 ba_65_a80_0;Società Italiana Ernesto Breda | Ba. 65 (A. 80 R.C. 41)
 ba_65_a80_1;Ba. 65
 ba_65_a80_2;Ba. 65
+s_81_ar125_shop;S.81
+s_81_ar125_0;S.81 (Alfa-Romeo 125) Pipistrello
+s_81_ar125_1;S.81
+s_81_ar125_2;S.81
+sm_79_1936_italy_shop;S.M.79 I (1936)
+sm_79_1936_italy_0;S.M.79 serie I Sparviero (1936)
+sm_79_1936_italy_1;S.M.79
+sm_79_1936_italy_2;S.M.79
+sm_79_1937_italy_shop;S.M.79 IV (1937)
+sm_79_1937_italy_0;S.M.79 serie IV Sparviero (1937)
+sm_79_1937_italy_1;S.M.79
+sm_79_1937_italy_2;S.M.79
+sm_79_1939_italy_shop;S.M.79 VIII (1939)
+sm_79_1939_italy_0;S.M.79 serie VIII Sparviero (1939)
+sm_79_1939_italy_1;S.M.79
+sm_79_1939_italy_2;S.M.79
+sm_79_1941_italy_shop;S.M.79 AS (1941)
+sm_79_1941_italy_0;S.M.79 AS Sparviero (1941)
+sm_79_1941_italy_1;S.M.79
+sm_79_1941_italy_2;S.M.79
+sm_79_1942_italy_shop;S.M.79bis/N (1942)
+sm_79_1942_italy_0;S.M.79bis/N Sparviero (1942)
+sm_79_1942_italy_1;S.M.79
+sm_79_1942_italy_2;S.M.79
+sm_79_1943_italy_shop;S.M.79bis/T.M (1943)
+sm_79_1943_italy_0;S.M.79bis/T.M Sparviero (1943)
+sm_79_1943_italy_1;S.M.79
+sm_79_1943_italy_2;S.M.79
 wm_21_shop;W.M.21
 wm_21_0;Weiss Manfréd Acél- és Fémművek | W.M.21 Sólyom közelfelderítő
 wm_21_1;W.M.21
@@ -9417,6 +10234,18 @@ amx_shop;A-11A
 amx_0;AMX International AMX | A-11A Ghibli
 amx_1;A-11A
 amx_2;A-11
+tornado_adv_shop;⛨ Tornado F. Mk. 3
+tornado_adv_0;⛨ Panavia Aircraft PA-200 | Tornado F. Mk. 3 (Batch 2)
+tornado_adv_1;⛨ Tornado F. Mk. 3
+tornado_adv_2;⛨ Tornado
+tornado_ids_it_shop;A-200A
+tornado_ids_it_0;Panavia Aircraft PA-200 | A-200A Tornado
+tornado_ids_it_1;A-200A
+tornado_ids_it_2;A-200
+tornado_ids_it_mod95_shop;A-200A (1995)
+tornado_ids_it_mod95_0;Panavia Aircraft PA-200 | A-200A Tornado (Batch 2) (1995)
+tornado_ids_it_mod95_1;A-200A
+tornado_ids_it_mod95_2;A-200
 tornado_ids_it_ret8_shop;A-200C (RET8)
 tornado_ids_it_ret8_0;Panavia Aircraft PA-200 | A-200C Tornado (Retro Enabling Task 8)
 tornado_ids_it_ret8_1;A-200C
@@ -9479,6 +10308,10 @@ ef_2000a_aesa_1;⛨ F-2000A
 ef_2000a_aesa_2;⛨ F-2000
 
 //ITALY HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+ab_205a_1_shop;UH-205A
+ab_205a_1_0;AB205A | UH-205A
+ab_205a_1_1;UH-205A
+ab_205a_1_2;UH-205
 mi_24d_hungary_shop;◔ Mi-24D
 mi_24d_hungary_0;◔ Aviaryemontnyj zavod № 116 | Mi-24D helikopter
 mi_24d_hungary_1;◔ Mi-24D
@@ -9493,10 +10326,42 @@ mi_24v_hungary_1;◔ Mi-24V
 mi_24v_hungary_2;◔ Mi-24
 
 //ITALY HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+a_109_eoa2_shop;MRH-109A
+a_109_eoa2_0;A109EOA-2 | MRH-109A
+a_109_eoa2_1;MRH-109A
+a_109_eoa2_2;MRH-109
+a_129_a_shop;A129 (ATP)
+a_129_a_0;A129 International (Armament Testbead Prototype)
+a_129_a_1;A129
+a_129_a_2;A129
+a_129_cbt_shop;AH-129C
+a_129_cbt_0;A129 Combat | AH-129C Mangusta
+a_129_cbt_1;AH-129C
+a_129_cbt_2;AH-129
+a_129_d_shop;AH-129D
+a_129_d_0;A129D | AH-129D Mangusta
+a_129_d_1;AH-129D
+a_129_d_2;AH-129
 
 //ITALY HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+it_as_42_47_shop;A.S. 42 (47/32)
+it_as_42_47_0;"Autocarro Sahariano Mod. 42 Tipo II ""Metropolitana"" (47/32)"
+it_as_42_47_1;A.S. 42
+it_as_42_47_2;SPG
+it_as_42_metropolitana_shop;A.S. 42 (20/65)
+it_as_42_metropolitana_0;"Autocarro Sahariano Mod. 42 Tipo II ""Metropolitana"" (20/65)"
+it_as_42_metropolitana_1;A.S. 42
+it_as_42_metropolitana_2;SPAA
+it_l6_leone_shop;L. 40 (31 Reg.Car.)
+it_l6_leone_0;Carro Armato Leggero Mod. 40 (31º Reggimento Carri)
+it_l6_leone_1;L. 40
+it_l6_leone_2;Light Tank
+it_m14_41_47_40_shop;M. 41 (47/40)
+it_m14_41_47_40_0;Carro Armato Medio Mod. 41 (47/40)
+it_m14_41_47_40_1;M. 41
+it_m14_41_47_40_2;Medium Tank
 it_39m_csaba_shop;39 M. Csaba pc. gk.
 it_39m_csaba_0;Weiss Manfréd Acél- és Fémművek | 39 M. Csaba páncélgépkocsi
 it_39m_csaba_1;39 M. Csaba
@@ -9507,6 +10372,18 @@ it_toldi_II_a_1;38 M. Toldi
 it_toldi_II_a_2;Light Tank
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+it_p_26_40_shop;P. 40 (Grp.Cor.)
+it_p_26_40_0;"Carro Armato Pesante Mod. 40 (Gruppo Corazzato ""Leoncello"")"
+it_p_26_40_1;P. 40
+it_p_26_40_2;Medium Tank
+it_semovente_m43_75_bersaglieri_shop;75/34 M. 42 M. (III Rgt.Bers.)
+it_semovente_m43_75_bersaglieri_0;Semovente da 75/34 su Scafo M. 42 M. (III Reggimento Bersglieri di Alessandria)
+it_semovente_m43_75_bersaglieri_1;75/34 M. 42 M.
+it_semovente_m43_75_bersaglieri_2;SPG
+it_semovente_m43_105_leoncello_shop;105/25 M. 43 (Grp.Cor.)
+it_semovente_m43_105_leoncello_0;"Semovente da 105/25 su Scafo M. 43 ""Bassotto"" (Gruppo Corazzato ""Leoncello"") ""Terremoto"""
+it_semovente_m43_105_leoncello_1;105/25 M. 43
+it_semovente_m43_105_leoncello_2;SPG
 it_40m_turan_1_shop;40 M. Turán köz. hk.
 it_40m_turan_1_0;Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak | 40 M. Turán közepes harckocsi
 it_40m_turan_1_1;40 M. Turán
@@ -9533,6 +10410,10 @@ it_m55_shop;⛨ 203/25 M55
 it_m55_0;⛨ Pacific Car and Foundry Company | Semovente da 203/25 M55
 it_m55_1;⛨ 203/25 M55
 it_m55_2;SPH
+it_pzkpfw_IV_ausf_G_shop;⛨ Pz.Kpfw. IV G
+it_pzkpfw_IV_ausf_G_0;⛨ Carro Armato Medio Panzerkampfwagen IV Ausf. G (Settembre 1942)
+it_pzkpfw_IV_ausf_G_1;⛨ Pz.Kpfw. IV G
+it_pzkpfw_IV_ausf_G_2;Medium Tank
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 it_fiat_6616_cockerill_shop;Fiat 6616 (90/38)
@@ -9543,10 +10424,22 @@ it_aubl_74_60_70m_shop;Fiat 6616 (60/70)
 it_aubl_74_60_70m_0;Fiat OTO Melara Tipo 6616 con torretta OTO Breda T 60M da 60/70
 it_aubl_74_60_70m_1;Fiat 6616
 it_aubl_74_60_70m_2;Light Tank
+it_fiat_6616_ub_shop;▂ Fiat 6616BM (TC 20) (UB-16-57UMP)
+it_fiat_6616_ub_0;▂ Fiat + OTO Melara 6616BM (Torreta TC 20) (Univ'ersal'nyj blok UB-16-57UMP)
+it_fiat_6616_ub_1;▂ Fiat 6616BM
+it_fiat_6616_ub_2;Armored Car
 it_fiat_6614_106sr_shop;Fiat 6614 (M40A1)
 it_fiat_6614_106sr_0;Fiat OTO Melara Tipo 6614 (M40A1)
 it_fiat_6614_106sr_1;Fiat 6614
 it_fiat_6614_106sr_2;Light Tank
+it_fiat_6614_firos_shop;Fiat 6614 (FIROS 6)
+it_fiat_6614_firos_0;Fiat OTO Melara Tipo 6614 (FIROS 6)
+it_fiat_6614_firos_1;Fiat 6614
+it_fiat_6614_firos_2;MLRS
+it_m26_ariete_shop;⛨ M26 (132ª Div.Cor.)
+it_m26_ariete_0;"⛨ Carro Armato Medio M26 (132ª Divisione Corazzata ""Ariete"")"
+it_m26_ariete_1;⛨ M26
+it_m26_ariete_2;Medium Tank
 it_palmaria_shop;Palmaria
 it_palmaria_0;OTO Melara Obice semovente Palmaria 155/41
 it_palmaria_1;Palmaria
@@ -9555,10 +10448,10 @@ it_2s1_shop;◔ 2SZ1
 it_2s1_0;"◔ Kharkìvs'kij traktornij zavod (KhTZ) | 122 mm-es 2SZ1 önjáró tarack ""Gvozgyika"""
 it_2s1_1;◔ 2SZ1
 it_2s1_2;SPH
-it_fiat_6616_ub_shop;▂ Fiat 6616BM (TC 20) (UB-16-57UMP)
-it_fiat_6616_ub_0;▂ Fiat + OTO Melara 6616BM (Torreta TC 20) (Univ'ersal'nyj blok UB-16-57UMP)
-it_fiat_6616_ub_1;▂ Fiat 6616BM
-it_fiat_6616_ub_2;Armored Car
+it_pzkpfw_VI_ausf_e_tiger_shop;◐ Tiger E (spät)
+it_pzkpfw_VI_ausf_e_tiger_0;◐ Panzerkampfwagen Tiger Ausf. E (spät)
+it_pzkpfw_VI_ausf_e_tiger_1;◐ Tiger E
+it_pzkpfw_VI_ausf_e_tiger_2;Heavy Tank
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 it_c13_t90_shop;C 13 (T 90 CKL)
@@ -9585,24 +10478,32 @@ it_zsu_57_2_shop;◔ ZSZU-57-2
 it_zsu_57_2_0;"◔ Omskij zavod № 174 im. Vorošilova | 57 mm-es ZSZU-57-2 önjáró légvédelmi gépágyú ""Büszke"""
 it_zsu_57_2_1;◔ ZSZU-57-2
 it_zsu_57_2_2;SPAAG
-it_btr_80a_hungary_shop;◔ BTR-80A
-it_btr_80a_hungary_0;"◔ Proizvodstvyennoye ob""yedinyeniye «Gor'kovskij avtomobil'nyj zavod» | BTR-80A gyalogsági harcjármű"
-it_btr_80a_hungary_1;◔ BTR-80A
-it_btr_80a_hungary_2;IFV
-it_pzh_2000_hu_shop;◔ PzH 2000HU
-it_pzh_2000_hu_0;◔ KNDS | 152 mm-es Panzerhaubitze 2000HU páncélos tarack
-it_pzh_2000_hu_1;◔ PzH 2000HU
-it_pzh_2000_hu_2;SPH
-it_fiat_6614_firos_shop;Fiat 6614 (FIROS 6)
-it_fiat_6614_firos_0;Fiat OTO Melara Tipo 6614 (FIROS 6)
-it_fiat_6614_firos_1;Fiat 6614
-it_fiat_6614_firos_2;MLRS
-
-//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 it_zsu_23_4_shop;◔ ZSZU-23-4V
 it_zsu_23_4_0;"◔ Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni mašinostroityel'nyj zavod | 23 mm-es ZSZU-23-4V önjáró légvédelmi gépágyú ""Silka"""
 it_zsu_23_4_1;◔ ZSZU-23-4V
 it_zsu_23_4_2;SPAAG
+it_btr_80a_hungary_shop;◔ BTR-80A
+it_btr_80a_hungary_0;"◔ Proizvodstvyennoye ob""yedinyeniye «Gor'kovskij avtomobil'nyj zavod» | BTR-80A gyalogsági harcjármű"
+it_btr_80a_hungary_1;◔ BTR-80A
+it_btr_80a_hungary_2;IFV
+it_m60a1_ariete_shop;⛨ M60A1 (132ª Div.Cor.)
+it_m60a1_ariete_0;"⛨ M60A1 (132ª Divisione Corazzata ""Ariete"")"
+it_m60a1_ariete_1;⛨ M60A1
+it_m60a1_ariete_2;Medium Tank
+it_pzh_2000_hu_shop;◔ PzH 2000HU
+it_pzh_2000_hu_0;◔ KNDS | 152 mm-es Panzerhaubitze 2000HU páncélos tarack
+it_pzh_2000_hu_1;◔ PzH 2000HU
+it_pzh_2000_hu_2;SPH
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+it_otobreda_sidam_25_mistral_shop;SIDAM 25 (Mistral)
+it_otobreda_sidam_25_mistral_0;Sistema Italiano Difesa Aerea Mobile, 25mm (Mistral)
+it_otobreda_sidam_25_mistral_1;SIDAM 25
+it_otobreda_sidam_25_mistral_2;SPAA
+it_m113a1_tow_shop;⛨ M113A1 (TOW)
+it_m113a1_tow_0;⛨ VTC M113A1 con sistema d'arma TOW (modifica M233)
+it_m113a1_tow_1;⛨ M113A1 (TOW)
+it_m113a1_tow_2;SPG
 it_t_72m1_shop;◔ T-72M1
 it_t_72m1_0;◔ Opytno-konstruktorskoye bûro № 520 im. Morozova | T-72M1 harckocsi
 it_t_72m1_1;◔ T-72M1
@@ -9637,10 +10538,26 @@ it_kf_41_shop;◔ Lynx KF41
 it_kf_41_0;"◔ Rheinmetall Lynx KF41 / Rheinmetall Hungary | Lynx KF41 gyalogsági harcjármű ""Hiúz"""
 it_kf_41_1;◔ Lynx KF41
 it_kf_41_2;IFV
+it_c1_ariete_preserie_shop;Ariete (preserie)
+it_c1_ariete_preserie_0;C1 Ariete (preserie)
+it_c1_ariete_preserie_1;Ariete
+it_c1_ariete_preserie_2;MBT
+it_c1_ariete_pso_shop;Ariete (PSO)
+it_c1_ariete_pso_0;C1 Ariete (Kit PSO Tipo II)
+it_c1_ariete_pso_1;Ariete
+it_c1_ariete_pso_2;MBT
+it_c1_ariete_shop;Ariete (WAR)
+it_c1_ariete_0;C1 Ariete (Kit WAR)
+it_c1_ariete_1;Ariete
+it_c1_ariete_2;MBT
 it_c1_ariete_certezza_shop;Ariete (WAR) (20° Corso)
 it_c1_ariete_certezza_0;"Consorzio Iveco Oto Melara | C1 Ariete (Kit WAR) (20° Corso ""Certezza"")"
 it_c1_ariete_certezza_1;Ariete
 it_c1_ariete_certezza_2;MBT
+it_ariete_amv_pt1_shop;Ariete (AMV PT 1)
+it_ariete_amv_pt1_0;C1 Ariete (Ammodernamento di Mezza Vita Prototipo 1)
+it_ariete_amv_pt1_1;Ariete
+it_ariete_amv_pt1_2;MBT
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 it_centauro_2_shop;Centauro II 120
@@ -9948,6 +10865,18 @@ it_battleship_littorio_class_littorio_1;Italia
 it_battleship_littorio_class_littorio_2;Battleship
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 1
+d_371_hs9_shop;D.371 (HS.9)
+d_371_hs9_0;D.371 (HS.9)
+d_371_hs9_1;D.371
+d_371_hs9_2;D.371
+h-75a-1_france_shop;☨ H75-C1 (1ère série)
+h-75a-1_france_0;☨ H75-C1 (1ère série)
+h-75a-1_france_1;☨ H75-C1
+h-75a-1_france_2;☨ H75
+h-75a-4_france_shop;☨ H75-C1 (4ème série)
+h-75a-4_france_0;☨ H75-C1 (4ème série)
+h-75a-4_france_1;☨ H75-C1
+h-75a-4_france_2;☨ H75
 f_222_2_shop;F.222.2
 f_222_2_0;Avions Farman | F.222.2
 f_222_2_1;F.222.2
@@ -9960,6 +10889,10 @@ fokker_d21_netherlands_shop;D.XXI-2
 fokker_d21_netherlands_0;N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 141 | D.XXI-2
 fokker_d21_netherlands_1;D.XXI-2
 fokker_d21_netherlands_2;D.XXI
+pby-5a_late_france_shop;☨ PBY-5A (late)
+pby-5a_late_france_0;☨ PBY-5A Catalina (late)
+pby-5a_late_france_1;☨ PBY-5
+pby-5a_late_france_2;PBY
 mb_151c1_shop;M.B.151-C1
 mb_151c1_0;Société des Avions Marcel Bloch | M.B.151-C1
 mb_151c1_1;M.B.151-C1
@@ -9974,6 +10907,14 @@ a-35b_shop;☨ A-35B-1-VN
 a-35b_0;☨ Vultee Aircraft V-88 | A-35B-1-VN Vengeance
 a-35b_1;☨ A-35B
 a-35b_2;☨ A-35
+leo_451_early_shop;LeO 451 (early)
+leo_451_early_0;LeO 451 (early)
+leo_451_early_1;LeO 451
+leo_451_early_2;LeO 451
+leo_451_late_shop;LeO 451 (late)
+leo_451_late_0;LeO 451 (late)
+leo_451_late_1;LeO 451
+leo_451_late_2;LeO 451
 fokker_g1a_shop;G.I (Mercury Mk. VIII)
 fokker_g1a_0;N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 138 | G.I (Mercury Mk. VIII)
 fokker_g1a_1;G.I
@@ -9982,6 +10923,10 @@ fokker_d23_shop;D.XXIII
 fokker_d23_0;N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 155 | D.XXIII
 fokker_d23_1;D.XXIII
 fokker_d23_2;D.XXIII
+p-40f-5_france_ep_shop;☨ P-40F-5-CU (EC 2/4)
+p-40f-5_france_ep_0;☨ P-40F-5-CU (Escadron de Chasse 2/4)
+p-40f-5_france_ep_1;☨ P-40F
+p-40f-5_france_ep_2;☨ P-40
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 vb_10_02_shop;VB 10-02
@@ -9992,14 +10937,34 @@ vb_10c1_shop;VB 10-C1
 vb_10c1_0;Arsenal de l'Aéronautique | VB 10-C1
 vb_10c1_1;VB 10-C1
 vb_10c1_2;VB 10
+yak-9t_france_shop;☨ Challe's Âk-9T
+yak-9t_france_0;☨ René Challe's Âk-9T
+yak-9t_france_1;☨ Âk-9T
+yak-9t_france_2;☨ Âk-9
 sb_25j_netherlands_shop;◘ B-25K
 sb_25j_netherlands_0;◘ North American Aviation NA-108 | B-25K Mitchell
 sb_25j_netherlands_1;◘ B-25K
 sb_25j_netherlands_2;◘ B-25
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 4
+pb4y-2_france_shop;☨ PB4Y-2S (Désarmer)
+pb4y-2_france_0;☨ PB4Y-2S (Désarmer)
+pb4y-2_france_1;☨ PB4Y-2
+pb4y-2_france_2;☨ PB4Y
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 5
+md_452_mystere_2c_preproduction_shop;Mystère II C
+md_452_mystere_2c_preproduction_0;M.D.452 Mystère II C (pre-production)
+md_452_mystere_2c_preproduction_1;Mystère II C
+md_452_mystere_2c_preproduction_2;Mystère II C
+so_4050_vautour_2n_late_shop;Vautour II N (M)
+so_4050_vautour_2n_late_0;S.O.4050 Vautour II N (M)
+so_4050_vautour_2n_late_1;Vautour II N (M)
+so_4050_vautour_2n_late_2;Vautour II
+so_4050_vautour_2n_shop;Vautour II N (C)
+so_4050_vautour_2n_0;S.O.4050 Vautour II N (C)
+so_4050_vautour_2n_1;Vautour II N (C)
+so_4050_vautour_2n_2;Vautour II
 meteor_fmk8_belgium_shop;▄ Meteor F. Mk. 8
 meteor_fmk8_belgium_0;▄ Gloster Aircraft Company G.41K / Avions Fairey | Meteor F. Mk. 8
 meteor_fmk8_belgium_1;▄ Meteor F. Mk. 8
@@ -10048,6 +11013,10 @@ mirage_f1c_200_shop;Mirage F1 C-200
 mirage_f1c_200_0;Avions Marcel Dassault-Breguet Aviation | Mirage F1 C-200
 mirage_f1c_200_1;Mirage F1 C
 mirage_f1c_200_2;Mirage
+super_etendard_97_shop;Super Étendard M (S4)
+super_etendard_97_0;Super Étendard Modernisé (Standard 4)
+super_etendard_97_1;Super Étendard M
+super_etendard_97_2;Super Étendard
 jaguar_a_shop;☨ Jaguar A
 jaguar_a_0;☨ SEPECAT Jaguar A | Jaguar Type A
 jaguar_a_1;☨ Jaguar A
@@ -10140,6 +11109,18 @@ iar_316b_1;I.A.R. 316 B
 iar_316b_2;I.A.R. 316
 
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 6
+tiger_hap_france_shop;☨ Tigre HAP/F
+tiger_hap_france_0;☨ Tigre, Hélicoptère d'Appui Protection (Standard 1)
+tiger_hap_france_1;☨ Tigre HAP
+tiger_hap_france_2;☨ Tigre
+tiger_had_france_shop;☨ Tigre HAD/F (Bloc 1)
+tiger_had_france_0;☨ Tigre, Hélicoptère d'Appui Destruction (Bloc 1)
+tiger_had_france_1;☨ Tigre HAD
+tiger_had_france_2;☨ Tigre
+tiger_had_block2_france_shop;☨ Tigre HAD/F (Bloc 2)
+tiger_had_block2_france_0;☨ Tigre, Hélicoptère d'Appui Destruction (Bloc 2)
+tiger_had_block2_france_1;☨ Tigre HAD
+tiger_had_block2_france_2;☨ Tigre
 
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 tiger_hac_france_shop;☨ Tigre HAC
@@ -10148,7 +11129,7 @@ tiger_hac_france_1;☨ Tigre HAC
 tiger_hac_france_2;☨ Tigre
 ah_64e_netherlands_shop;◘ AH-64E (v6)
 ah_64e_netherlands_0;◘ Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache (Capability Version 6)
-ah_64e_netherlands_1;◘ AH-64E
+ah_64e_netherlands_1;◘ AH-64Efr_m4a4_cn_75_50_shop
 ah_64e_netherlands_2;◘ AH-64
 ah_64d_netherlands_shop;◘ AH-64D
 ah_64d_netherlands_0;◘ Boeing Rotorcraft Systems | Helicopter, Attack, AH-64D Longbow Apache
@@ -10156,16 +11137,36 @@ ah_64d_netherlands_1;◘ AH-64D
 ah_64d_netherlands_2;◘ AH-64
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+fr_amc_34_shop;AMC 34 (APX 1)
+fr_amc_34_0;Automitrailleuse de combat AMC 34 (APX 1)
+fr_amc_34_1;AMC 34
+fr_amc_34_2;Light Tank
 fr_saint_chamond_shop;St-Chamond mle. 1918
 fr_saint_chamond_0;Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918
 fr_saint_chamond_1;St-Chamond
 fr_saint_chamond_2;Assault Tank
+fr_hotchkiss_h39_cambronne_shop;H 39 (14e BCC)
+fr_hotchkiss_h39_cambronne_0;"Char léger Hotchkiss modèle 1935 H modifié 39 (14e BCC) ""Cambronne"""
+fr_hotchkiss_h39_cambronne_1;H 39
+fr_hotchkiss_h39_cambronne_2;Light Tank
+fr_renault_r39_shop;R 35 (SA 38)
+fr_renault_r39_0;Char léger d'accompagnement 1935 R (SA 38)
+fr_renault_r39_1;R 35 (SA 38)
+fr_renault_r39_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 fr_amd_35_kwk39_shop;☨ le.Pz.Spw. 204 (f) (Kw.K. 39/1)
 fr_amd_35_kwk39_0;☨ Panhard | leichter Panzerspähwagen 204 (f) m. 5cm Kw.K. 39/1 L/60
 fr_amd_35_kwk39_1;☨ le.Pz.Spw. 204 (f)
 fr_amd_35_kwk39_2;Light Tank
+fr_m4a4_cn_75_50_shop;M4A4T (SA 50)
+fr_m4a4_cn_75_50_0;M4A4T (SA 50)
+fr_m4a4_cn_75_50_1;M4A4T (SA 50)
+fr_m4a4_cn_75_50_2;Medium Tank
+fr_m4a1_sherman_fl_10_shop;☨ M4A1 (FL 10)
+fr_m4a1_sherman_fl_10_0;☨ Char moyen M4A1 Sherman (tourelle FL 10)
+fr_m4a1_sherman_fl_10_1;☨ M4A1
+fr_m4a1_sherman_fl_10_2;Medium Tank
 fr_b1_ter_shop;B1 ter
 fr_b1_ter_0;Char de bataille B1 ter
 fr_b1_ter_1;B1 ter
@@ -10182,12 +11183,52 @@ fr_char_2c_bis_shop;2C bis
 fr_char_2c_bis_0;Société Nouvelle des Forges et Chantiers de la Méditerranée | Char de bataille 2C bis
 fr_char_2c_bis_1;2C
 fr_char_2c_bis_2;Heavy Tank
+fr_cckw_353_bofors_shop;GMC CCKW 353 (M1)
+fr_cckw_353_bofors_0;GMC CCKW 353 (M1)
+fr_cckw_353_bofors_1;CCKW 353 (M1)
+fr_cckw_353_bofors_2;SPAA
 fr_m10_shop;☨ M10 GMC
 fr_m10_0;G-130 | ☨ Carriage, Motor, 3-inch Gun, M10
 fr_m10_1;☨ M10
 fr_m10_2;Tank Destroyer
+fr_amx_13_chaffee_shop;AMX 13 (M6)
+fr_amx_13_chaffee_0;AMX 13 (Gun, 75mm, M6)
+fr_amx_13_chaffee_1;AMX 13 (M6)
+fr_amx_13_chaffee_2;Light Tank
+fr_amx_13_fl_11_shop;AMX 13 (FL 11)
+fr_amx_13_fl_11_0;AMX 13 (FL 11)
+fr_amx_13_fl_11_1;AMX 13 (FL 11)
+fr_amx_13_fl_11_2;Light Tank
+fr_amx_13_75_ss11_shop;AMX 13 (SS.11)
+fr_amx_13_75_ss11_0;AMX 13 (SS.11)
+fr_amx_13_75_ss11_1;AMX 13 (SS.11)
+fr_amx_13_75_ss11_2;Light Tank
+fr_amx_13_hot_shop;AMX 13 (HOT)
+fr_amx_13_hot_0;AMX 13 (HOT)
+fr_amx_13_hot_1;AMX 13 (HOT)
+fr_amx_13_hot_2;Light Tank
+fr_lvt_bofors_shop;☨ LVT(A)(4) (Bofors)
+fr_lvt_bofors_0;☨ Landing Vehicle, Tracked (Armored) (Mk. 4) (Bofors)
+fr_lvt_bofors_1;☨ LVT(A)(4) (Bofors)
+fr_lvt_bofors_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+fr_panhard_ebr_1951_shop;EBR 75 (FL 11)
+fr_panhard_ebr_1951_0;Engin Blindé de Reconnaissance Panhard EBR modèle 1951 (tourelle FL 11 avec 75)
+fr_panhard_ebr_1951_1;EBR 75 (FL 11)
+fr_panhard_ebr_1951_2;Light Tank
+fr_panhard_ebr_1954_shop;EBR 75 (FL 10)
+fr_panhard_ebr_1954_0;Engin Blindé de Reconnaissance Panhard EBR modèle 1954 (tourelle FL 10 avec 75)
+fr_panhard_ebr_1954_1;EBR 75 (FL 10)
+fr_panhard_ebr_1954_2;Light Tank
+fr_panhard_ebr_1963_shop;EBR 90 (FL 11)
+fr_panhard_ebr_1963_0;Engin Blindé de Reconnaissance Panhard EBR modèle 1963 (tourelle FL 11 avec 90)
+fr_panhard_ebr_1963_1;EBR 90 (FL 11)
+fr_panhard_ebr_1963_2;Light Tank
+fr_arl_44_acl1_shop;ARL 44 (ACL 1)
+fr_arl_44_acl1_0;ARL 44 (ACL 1)
+fr_arl_44_acl1_1;ARL 44
+fr_arl_44_acl1_2;Heavy Tank
 fr_tpk_641_vpc_shop;VLRA 6x6 (KAD)
 fr_tpk_641_vpc_0;ACMAT TPK 6.41 Véhicule Protection de Convoi | Véhicule Léger de Reconnaissance et d'Appui 6x6 (KAD)
 fr_tpk_641_vpc_1;VLRA 6x6 (KAD)
@@ -10214,6 +11255,10 @@ fr_amx_elc_901_shop;E.L.C. (TC.901)
 fr_amx_elc_901_0;Atelier de construction d'Issy-les-Moulineaux | Engin léger de combat avec tourelle-casemate de 901
 fr_amx_elc_901_1;E.L.C.
 fr_amx_elc_901_2;Light Tank
+fr_pzkpfw_V_panther_dauphine_shop;☨ Panther G (Besnier)
+fr_pzkpfw_V_panther_dauphine_0;"☨ Char Panther Mle. G (Escadron Autonome de Chars Besnier) ""Dauphiné"""
+fr_pzkpfw_V_panther_dauphine_1;☨ Panther G
+fr_pzkpfw_V_panther_dauphine_2;Medium Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 fr_aml_90_shop;AML 90
@@ -10230,12 +11275,28 @@ fr_marder_clovis_1;☨ CLOVIS
 fr_marder_clovis_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+fr_vbci2_mct30_shop;VBCI MK2 (MCT-30)
+fr_vbci2_mct30_0;"Véhicule Blindé de Combat d'Infanterie MK2 (MCT-30) ""Al-Wajbah"""
+fr_vbci2_mct30_1;VBCI MK2
+fr_vbci2_mct30_2;IFV
 fr_leopard_1a5be_shop;Leopard 1 A5 BE
 fr_leopard_1a5be_0;Krauss-Maffei Wegmann | Leopard 1 A5 BE
 fr_leopard_1a5be_1;Leopard 1 A5
 fr_leopard_1a5be_2;MBT
+fr_amx_30_ACRA_shop;AMX 30 (T 142)
+fr_amx_30_ACRA_0;AMX 30 (prototype tourelle T 142)
+fr_amx_30_ACRA_1;AMX 30
+fr_amx_30_ACRA_2;MBT
+fr_vcac_mephisto_shop;VCAC MEPHISTO
+fr_vcac_mephisto_0;Véhicule de Combat Anti-Char, Module Élévateur Panoramique HOT Installé sur Tourelle Orientable
+fr_vcac_mephisto_1;VCAC MEPHISTO
+fr_vcac_mephisto_2;SPG
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+fr_vextra_105_shop;Vextra 105
+fr_vextra_105_0;GIAT Industries Vextra 105
+fr_vextra_105_1;Vextra 105
+fr_vextra_105_2;Light Tank
 fr_msc_shop;MSC
 fr_msc_0;GIAT Industries | Mulet Système Complet
 fr_msc_1;MSC
@@ -10526,6 +11587,18 @@ vl_myrsky_2_late_shop;MY sarja II
 vl_myrsky_2_late_0;Valtion lentokonetehdas | MY sarja II
 vl_myrsky_2_late_1;MY sarja II
 vl_myrsky_2_late_2;MY
+h-75a-1_finland_shop;CUw (A-1)
+h-75a-1_finland_0;"CUw (A-1) ""Sussu"""
+h-75a-1_finland_1;CUw
+h-75a-1_finland_2;CU
+h-75a-3_finland_shop;CUw (A-3)
+h-75a-3_finland_0;"CUw (A-3) ""Sussu"""
+h-75a-3_finland_1;CUw
+h-75a-3_finland_2;CU
+h-75a-6_shop;CUw (A-6)
+h-75a-6_0;"CUw (A-6) ""Sussu"""
+h-75a-6_1;CUw
+h-75a-6_2;CU
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 mosquito_f_mk2_norway_shop;◢ Mosquito F. Mk. II
@@ -10684,6 +11757,10 @@ saab_ajs37_early_1;AJS 37
 saab_ajs37_early_2;AJS 37
 
 //SWEDEN AIRCRAFT - VEHICLE/FAMILY START: RANK 7
+mig_21_bis_finland_shop;MGB (late)
+mig_21_bis_finland_0;"MGB ""Konelan putki"" (late)"
+mig_21_bis_finland_1;MGB (late)
+mig_21_bis_finland_2;MGB
 saab_j35xs_shop;DKS (1993)
 saab_j35xs_0;"Saab 35XS / Valmet | DKS ""Silitysrauta"" (1993)"
 saab_j35xs_1;DKS
@@ -10770,6 +11847,14 @@ sw_bt_42_shop;15 ryn.tyk.psv./BT42
 sw_bt_42_0;Ps. 511 | 15 tonnin rynnäkkötykkipanssarivaunu mallia BT42
 sw_bt_42_1;15 ryn.tyk.psv./BT42
 sw_bt_42_2;SPH
+sw_sav_m43_1944_shop;sav m/43 (1944)
+sw_sav_m43_1944_0;stormartillerivagn m/43 (1944)
+sw_sav_m43_1944_1;sav m/43 (1944)
+sw_sav_m43_1944_2;SPG
+sw_sav_m43_1946_shop;sav m/43 (1946)
+sw_sav_m43_1946_0;stormartillerivagn m/43 (1946)
+sw_sav_m43_1946_1;sav m/43 (1946)
+sw_sav_m43_1946_2;SPG
 sw_vickers_mk_e_37_shop;Vickers Mk. E (37 psv.k/36)
 sw_vickers_mk_e_37_0;Vickers Mk. E, Type B (37 psv.k/36)
 sw_vickers_mk_e_37_1;Vickers Mk. E
@@ -10810,6 +11895,14 @@ sw_l_62_anti_II_shop;10 it.psv./Anti
 sw_l_62_anti_II_0;Ps. 455 | 10 tonnin ilmatorjuntapanssarivaunu mallia Anti
 sw_l_62_anti_II_1;10 it.psv./Anti
 sw_l_62_anti_II_2;SPAAG
+sw_pvkv_m43_1946_shop;pvkv m/43 (1946)
+sw_pvkv_m43_1946_0;pansarvärnskanonvagn m/43 (1946)
+sw_pvkv_m43_1946_1;pvkv m/43 (1946)
+sw_pvkv_m43_1946_2;SPG
+sw_pvkv_m43_1963_shop;pvkv m/43 (1963)
+sw_pvkv_m43_1963_0;pansarvärnskanonvagn m/43 (1963)
+sw_pvkv_m43_1963_1;pvkv m/43 (1963)
+sw_pvkv_m43_1963_2;SPG
 sw_t_34_1941_shop;26 psv T 34 B
 sw_t_34_1941_0;"Ps. 231 | 26 tonnin panssarivaunu T 34 B ""Sotka"""
 sw_t_34_1941_1;26 psv T 34 B
@@ -10874,6 +11967,10 @@ sw_t_54_1951_shop;tstpsv T 54
 sw_t_54_1951_0;Ps. 261 | taistelupanssarivaunu T 54
 sw_t_54_1951_1;tstpsv T 54
 sw_t_54_1951_2;Medium Tank
+sw_k9_vidar_shop;◢ K9 (VIDAR)
+sw_k9_vidar_0;◢ Artillerivogn, K9 Thunder (Versatile Indirect Firing System)
+sw_k9_vidar_1;◢ K9
+sw_k9_vidar_2;SPG
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 sw_cv_90105_shop;CV90105 (TML 105)
@@ -11166,10 +12263,10 @@ f_16a_block_10_netz_mod_shop; F-16A-15OCU-CF (1987)
 f_16a_block_10_netz_mod_0; General Dynamics Corporation | F-16A-15OCU-CF Neṣ (1987)
 f_16a_block_10_netz_mod_1; F-16A
 f_16a_block_10_netz_mod_2; F-16
-f_16c_block_40_barak_2_killstreak_shop;☢ F-16C-40L-CF
-f_16c_block_40_barak_2_killstreak_0;☢ General Dynamics Corporation | F-16C-40L-CF Barak II
-f_16c_block_40_barak_2_killstreak_1;☢ F-16C
-f_16c_block_40_barak_2_killstreak_2;☢ F-16
+f_16d_block_40_barak_2_killstreak_shop;☢ F-16D-40-CF
+f_16d_block_40_barak_2_killstreak_0;☢ General Dynamics Corporation | F-16D-40-CF Barak II
+f_16d_block_40_barak_2_killstreak_1;☢ F-16D
+f_16d_block_40_barak_2_killstreak_2;☢ F-16
 f_15a_iaf_shop; F-15A-18-MC (MSIP)
 f_15a_iaf_0; McDonnell Douglas Corporation Model 199-1C | F-15A-18-MC Baz (Multistage Improvement Program)
 f_15a_iaf_1; F-15A
@@ -12012,10 +13109,6 @@ uk_chieftain_mk_10_shop;Chieftain, Mk. 10
 uk_chieftain_mk_10_0;Tank, Combat, 120mm Gun, Chieftain, Mk. 10
 uk_chieftain_mk_10_1;Chieftain, Mk. 10
 uk_chieftain_mk_10_2;MBT
-uk_t_90s_bheeshma_shop;☸ T-90S
-uk_t_90s_bheeshma_0;"☸ Ob""yekt 188S | T-90S Bhishma"
-uk_t_90s_bheeshma_1;☸ T-90S
-uk_t_90s_bheeshma_2;MBT
 uk_khalid_shop;Khalid
 uk_khalid_0;Khalid
 uk_khalid_1;Khalid
@@ -12040,14 +13133,6 @@ uk_shir_2_shop;Shir 2
 uk_shir_2_0;F.V.4030/3 | Shir 2
 uk_shir_2_1;Shir 2
 uk_shir_2_2;MBT
-ussr_t_64_b_1984_shop;T-64BV
-ussr_t_64_b_1984_0;"Ob""yekt 447AV | T-64BV obr. 1987 g."
-ussr_t_64_b_1984_1;T-64BV
-ussr_t_64_b_1984_2;MBT
-germ_infanterie_kampfpanzer_churchill_shop;▀ I.Pz.Kpfw. 750 (e)
-germ_infanterie_kampfpanzer_churchill_0;▀ Infanterie-Panzerkampfwagen 750 (e) | Mk IV
-germ_infanterie_kampfpanzer_churchill_1;▀ I.Pz.Kpfw. 750
-germ_infanterie_kampfpanzer_churchill_2;Infantry tank
 uk_a_22b_mk_3_churchill_1942_shop;Churchill, Mk. III
 uk_a_22b_mk_3_churchill_1942_0;Tank, Infantry, Mk. IV, A.22B, Churchill, Mk. III
 uk_a_22b_mk_3_churchill_1942_1;Churchill, Mk. III
@@ -12100,14 +13185,6 @@ uk_falcon_shop;Falcon
 uk_falcon_0;Vickers Falcon Anti-Aircraft Gun System
 uk_falcon_1;Falcon
 uk_falcon_2;SPAA
-ussr_asu_57_shop;ASU-57 (1954)
-ussr_asu_57_0;"Ob""yekt 572 | ASU-57 obr. 1954 g."
-ussr_asu_57_1;ASU-57
-ussr_asu_57_2;SPG
-ussr_asu_85_shop;ASU-85
-ussr_asu_85_0;"Ob""yekt 573 | ASU-85"
-ussr_asu_85_1;ASU-85
-ussr_asu_85_2;SPG
 germ_pzkpfw_V_ersatz_m10_shop;Ersatz M10
 germ_pzkpfw_V_ersatz_m10_0;Ersatz M10 Panther
 germ_pzkpfw_V_ersatz_m10_1;Ersatz M10
@@ -12136,10 +13213,6 @@ fr_amx_10p_shop;AMX 10P
 fr_amx_10p_0;Véhicule de combat d'infanterie AMX 10P
 fr_amx_10p_1;AMX 10P
 fr_amx_10p_2;SPAA
-fr_vextra_105_shop;Vextra 105
-fr_vextra_105_0;GIAT Industries Vextra 105
-fr_vextra_105_1;Vextra 105
-fr_vextra_105_2;Light Tank
 fr_m4a4_sherman_shop;☨ M4A4
 fr_m4a4_sherman_0;☨ Char moyen M4A4 Sherman
 fr_m4a4_sherman_1;☨ M4A4
@@ -12152,38 +13225,14 @@ fr_crusader_mk_2_shop;☨ Crusader Mk. II
 fr_crusader_mk_2_0;☨ Char de cavalerie Crusader Mk. II
 fr_crusader_mk_2_1;☨ Crusader Mk. II
 fr_crusader_mk_2_2;Cruiser tank
-fr_m4a1_sherman_fl_10_shop;☨ M4A1 (FL 10)
-fr_m4a1_sherman_fl_10_0;☨ Char moyen M4A1 Sherman (tourelle FL 10)
-fr_m4a1_sherman_fl_10_1;☨ M4A1
-fr_m4a1_sherman_fl_10_2;Medium Tank
 fr_fcm_36_shop;FCM 36
 fr_fcm_36_0;Char léger d'accompagnement FCM 36
 fr_fcm_36_1;FCM 36
 fr_fcm_36_2;Light Tank
-fr_vbci2_mct30_shop;VBCI MK2 (MCT-30)
-fr_vbci2_mct30_0;"Véhicule Blindé de Combat d'Infanterie MK2 (MCT-30) ""Al-Wajbah"""
-fr_vbci2_mct30_1;VBCI MK2
-fr_vbci2_mct30_2;IFV
 fr_vbci_shop;VBCI VCI
 fr_vbci_0;Véhicule Blindé de Combat d'Infanterie, Véhicule de Combat d'Infanterie
 fr_vbci_1;VBCI VCI
 fr_vbci_2;IFV
-fr_lvt_bofors_shop;☨ LVT(A)(4) (Bofors)
-fr_lvt_bofors_0;☨ Landing Vehicle, Tracked (Armored) (Mk. 4) (Bofors)
-fr_lvt_bofors_1;☨ LVT(A)(4) (Bofors)
-fr_lvt_bofors_2;Light Tank
-fr_panhard_ebr_1951_shop;EBR 75 (FL 11)
-fr_panhard_ebr_1951_0;Engin Blindé de Reconnaissance Panhard EBR modèle 1951 (tourelle FL 11 avec 75)
-fr_panhard_ebr_1951_1;EBR 75 (FL 11)
-fr_panhard_ebr_1951_2;Light Tank
-fr_panhard_ebr_1963_shop;EBR 90 (FL 11)
-fr_panhard_ebr_1963_0;Engin Blindé de Reconnaissance Panhard EBR modèle 1963 (tourelle FL 11 avec 90)
-fr_panhard_ebr_1963_1;EBR 90 (FL 11)
-fr_panhard_ebr_1963_2;Light Tank
-fr_panhard_ebr_1954_shop;EBR 75 (FL 10)
-fr_panhard_ebr_1954_0;Engin Blindé de Reconnaissance Panhard EBR modèle 1954 (tourelle FL 10 avec 75)
-fr_panhard_ebr_1954_1;EBR 75 (FL 10)
-fr_panhard_ebr_1954_2;Light Tank
 fr_amx_10rc_shop;AMX 10RC
 fr_amx_10rc_0;AMX 10RC
 fr_amx_10rc_1;AMX 10RC
@@ -12192,10 +13241,6 @@ fr_vab_santal_shop;VDAA SANTAL
 fr_vab_santal_0;Véhicule de Défense Anti-Aérienne, Systeme Anti-aerien Autonome Leger
 fr_vab_santal_1;SANTAL
 fr_vab_santal_2;SPAA
-fr_vcac_mephisto_shop;VCAC MEPHISTO
-fr_vcac_mephisto_0;Véhicule de Combat Anti-Char, Module Élévateur Panoramique HOT Installé sur Tourelle Orientable
-fr_vcac_mephisto_1;VCAC MEPHISTO
-fr_vcac_mephisto_2;SPG
 fr_mars_15_shop;MARS 15
 fr_mars_15_0;MARS 15
 fr_mars_15_1;MARS 15
@@ -12212,10 +13257,6 @@ fr_amx_10m_acra_shop;AMX 10M
 fr_amx_10m_acra_0;Chasseur de char AMX 10M
 fr_amx_10m_acra_1;AMX 10M
 fr_amx_10m_acra_2;SPG
-fr_amx_30_ACRA_shop;AMX 30 (T 142)
-fr_amx_30_ACRA_0;AMX 30 (prototype tourelle T 142)
-fr_amx_30_ACRA_1;AMX 30
-fr_amx_30_ACRA_2;MBT
 fr_amx_30_super_shop;Super AMX 30
 fr_amx_30_super_0;Engin principal de combat Super AMX 30
 fr_amx_30_super_1;AMX 30
@@ -12280,10 +13321,6 @@ fr_amx_50_foch_shop;AMX 50 Foch
 fr_amx_50_foch_0;Canon automoteur AMX 50 Foch
 fr_amx_50_foch_1;AMX 50 Foch
 fr_amx_50_foch_2;SPG
-fr_pzkpfw_V_panther_dauphine_shop;☨ Panther G (Besnier)
-fr_pzkpfw_V_panther_dauphine_0;"☨ Char Panther Mle. G (Escadron Autonome de Chars Besnier) ""Dauphiné"""
-fr_pzkpfw_V_panther_dauphine_1;☨ Panther G
-fr_pzkpfw_V_panther_dauphine_2;Medium Tank
 fr_lorraine_155_shop;Lorraine 155 Mle. 50
 fr_lorraine_155_0;Lorraine automoteur de 155mm modèle 1950
 fr_lorraine_155_1;Lorraine 155 Mle. 50
@@ -12304,10 +13341,6 @@ fr_amx_vtt_dca_shop;AMX VCI (M45)
 fr_amx_vtt_dca_0;AMX Véhicule de Combat d'Infanterie avec tourelle M45
 fr_amx_vtt_dca_1;AMX VCI (M45)
 fr_amx_vtt_dca_2;SPAA
-fr_cckw_353_bofors_shop;GMC CCKW 353 (M1)
-fr_cckw_353_bofors_0;GMC CCKW 353 (M1)
-fr_cckw_353_bofors_1;CCKW 353 (M1)
-fr_cckw_353_bofors_2;SPAA
 fr_somua_s35_shop;S 35
 fr_somua_s35_0;Char de cavalerie SOMUA 1935 S
 fr_somua_s35_1;S 35
@@ -12316,10 +13349,6 @@ fr_hotchkiss_h35_shop;H 35
 fr_hotchkiss_h35_0;Char léger Hotchkiss modèle 1935 H
 fr_hotchkiss_h35_1;H 35
 fr_hotchkiss_h35_2;Light Tank
-fr_hotchkiss_h39_cambronne_shop;H 39 (14e BCC)
-fr_hotchkiss_h39_cambronne_0;"Char léger Hotchkiss modèle 1935 H modifié 39 (14e BCC) ""Cambronne"""
-fr_hotchkiss_h39_cambronne_1;H 39
-fr_hotchkiss_h39_cambronne_2;Light Tank
 fr_hotchkiss_h39_shop;H 39
 fr_hotchkiss_h39_0;Char léger Hotchkiss modèle 1935 H modifié 39
 fr_hotchkiss_h39_1;H 39
@@ -12336,14 +13365,6 @@ fr_amd_35_shop;AMD 35
 fr_amd_35_0;Automitrailleuse de découverte AMD 35
 fr_amd_35_1;AMD 35
 fr_amd_35_2;Light Tank
-fr_amc_34_shop;AMC 34 (APX 1)
-fr_amc_34_0;Automitrailleuse de combat AMC 34 (APX 1)
-fr_amc_34_1;AMC 34
-fr_amc_34_2;Light Tank
-fr_arl_44_acl1_shop;ARL 44 (ACL 1)
-fr_arl_44_acl1_0;ARL 44 (ACL 1)
-fr_arl_44_acl1_1;ARL 44
-fr_arl_44_acl1_2;Heavy Tank
 fr_arl_44_shop;ARL 44
 fr_arl_44_0;ARL 44
 fr_arl_44_1;ARL 44
@@ -12356,26 +13377,10 @@ fr_amr_35_zt3_shop;AMR 35 ZT 3
 fr_amr_35_zt3_0;Automitrailleuse de Reconnaissance AMR 35 Z T3
 fr_amr_35_zt3_1;AMR 35 ZT 3
 fr_amr_35_zt3_2;SPG
-fr_renault_r39_shop;R 35 (SA 38)
-fr_renault_r39_0;Char léger d'accompagnement 1935 R (SA 38)
-fr_renault_r39_1;R 35 (SA 38)
-fr_renault_r39_2;Light Tank
 fr_renault_d2_shop;D2
 fr_renault_d2_0;Char moyen D2
 fr_renault_d2_1;D2
 fr_renault_d2_2;Medium Tank
-fr_m4a4_cn_75_50_shop;M4A4T (SA 50)
-fr_m4a4_cn_75_50_0;M4A4T (SA 50)
-fr_m4a4_cn_75_50_1;M4A4T (SA 50)
-fr_m4a4_cn_75_50_2;Medium Tank
-fr_amx_13_chaffee_shop;AMX 13 (M6)
-fr_amx_13_chaffee_0;AMX 13 (Gun, 75mm, M6)
-fr_amx_13_chaffee_1;AMX 13 (M6)
-fr_amx_13_chaffee_2;Light Tank
-fr_amx_13_fl_11_shop;AMX 13 (FL 11)
-fr_amx_13_fl_11_0;AMX 13 (FL 11)
-fr_amx_13_fl_11_1;AMX 13 (FL 11)
-fr_amx_13_fl_11_2;Light Tank
 fr_amx_13_90_shop;AMX 13-90
 fr_amx_13_90_0;AMX 13-90
 fr_amx_13_90_1;AMX 13-90
@@ -12384,14 +13389,6 @@ fr_amx_13_75_shop;AMX 13
 fr_amx_13_75_0;AMX 13
 fr_amx_13_75_1;AMX 13
 fr_amx_13_75_2;Light Tank
-fr_amx_13_75_ss11_shop;AMX 13 (SS.11)
-fr_amx_13_75_ss11_0;AMX 13 (SS.11)
-fr_amx_13_75_ss11_1;AMX 13 (SS.11)
-fr_amx_13_75_ss11_2;Light Tank
-fr_amx_13_hot_shop;AMX 13 (HOT)
-fr_amx_13_hot_0;AMX 13 (HOT)
-fr_amx_13_hot_1;AMX 13 (HOT)
-fr_amx_13_hot_2;Light Tank
 fr_amc_35_shop;AMC 35
 fr_amc_35_0;Automitrailleuse de combat Renault AMC 35
 fr_amc_35_1;AMC 35
@@ -12404,10 +13401,6 @@ be_6_shop;Bye-6
 be_6_0;Bye-6
 be_6_1;Bye-6
 be_6_2;Bye-6
-su-6_am42_shop;Su-6 (AM-42)
-su-6_am42_0;Su-6 (AM-42)
-su-6_am42_1;Su-6 (AM-42)
-su-6_am42_2;Su-6
 su_6_single_shop;Su-6
 su_6_single_0;Su-6
 su_6_single_1;Su-6
@@ -12432,26 +13425,10 @@ hurricanemkii_shop;Hurricane Mk. IIb (trop.)
 hurricanemkii_0;Hurricane Mk. IIb (tropicalised)
 hurricanemkii_1;Hurricane Mk. II
 hurricanemkii_2;Hurricane
-i-153_m62_shop;I-153 (AŠ-62)
-i-153_m62_0;I-153 (AŠ-62) Chaika
-i-153_m62_1;I-153
-i-153_m62_2;I-153
 i-153p_shop;I-153P
 i-153p_0;I-153P Chaika
 i-153p_1;I-153P
 i-153p_2;I-153
-i-15_1934_shop;I-15 (SGR-1820 F-3)
-i-15_1934_0;I-15 (SGR-1820 F-3)
-i-15_1934_1;I-15
-i-15_1934_2;I-15
-i-15_1935_shop;I-15 (M-22)
-i-15_1935_0;I-15 (M-22)
-i-15_1935_1;I-15
-i-15_1935_2;I-15
-i-15_1935_moscow_shop;I-15 (M-25A)
-i-15_1935_moscow_0;I-15 (M-25A)
-i-15_1935_moscow_1;I-15
-i-15_1935_moscow_2;I-15
 i-16_type18_shop;I-16 Tip 18
 i-16_type18_0;I-16 Tip 18 Ishak
 i-16_type18_1;I-16
@@ -12472,14 +13449,6 @@ il-10_shop;Il-10
 il-10_0;Il-10
 il-10_1;Il-10
 il-10_2;Il-10
-il-2i_shop;Il-2 (1942)
-il-2i_0;Il-2 (1942)
-il-2i_1;Il-2
-il-2i_2;Il-2
-il-2m_shop;Il-2M (1944)
-il-2m_0;Il-2M (1944)
-il-2m_1;Il-2M
-il-2m_2;Il-2
 il-4_shop;Il-4
 il-4_0;Il-4
 il-4_1;Il-4
@@ -12580,10 +13549,6 @@ yak-3_shop;Âk-3
 yak-3_0;Âk-3
 yak-3_1;Âk-3
 yak-3_2;Âk-3
-yak-3_eremin_shop;Yerëmin's Âk-3
-yak-3_eremin_0;Boris Nikolayevič Yerëmin's Âk-3
-yak-3_eremin_1;Âk-3
-yak-3_eremin_2;Âk-3
 yak-3t_shop;Âk-3T
 yak-3t_0;Âk-3T
 yak-3t_1;Âk-3T
@@ -12592,10 +13557,6 @@ yak-9t_shop;Âk-9T
 yak-9t_0;Âk-9T
 yak-9t_1;Âk-9T
 yak-9t_2;Âk-9
-yak-9t_france_shop;☨ Challe's Âk-9T
-yak-9t_france_0;☨ René Challe's Âk-9T
-yak-9t_france_1;☨ Âk-9T
-yak-9t_france_2;☨ Âk-9
 yak-9p_shop;Âk-9P
 yak-9p_0;Âk-9P
 yak-9p_1;Âk-9P
@@ -12616,10 +13577,6 @@ lagg-3-35_shop;LaGG-3-35
 lagg-3-35_0;LaGG-3 syeriâ 35
 lagg-3-35_1;LaGG-3-35
 lagg-3-35_2;LaGG-3
-p-39n_su_shop;▂ Pokrýškin's P-39N-0-BE
-p-39n_su_0;▂ Alyeksándr Ivánovič Pokrýškin's P-39N-0-BE Aèrokobra
-p-39n_su_1;▂ P-39N
-p-39n_su_2;▂ P-39
 b_24d_shop;B-24D-25-CO
 b_24d_0;B-24D-25-CO Liberator
 b_24d_1;B-24D
@@ -12744,10 +13701,6 @@ o3u_1_shop;O3U-1
 o3u_1_0;O3U-1 Corsair
 o3u_1_1;O3U-1
 o3u_1_2;O3U
-pby-5a_late_france_shop;☨ PBY-5A (late)
-pby-5a_late_france_0;☨ PBY-5A Catalina (late)
-pby-5a_late_france_1;☨ PBY-5
-pby-5a_late_france_2;PBY
 d_520_shop;▄ D.520
 d_520_0;▄ D.520
 d_520_1;▄ D.520
@@ -12776,8 +13729,8 @@ gl_832_shop;GL.832HY
 gl_832_0;GL.832HY
 gl_832_1;GL.832HY
 gl_832_2;GL.832
-loire_130_shop;Loire 130С
-loire_130_0;Loire 130С
+loire_130_shop;Loire 130C
+loire_130_0;Loire 130C
 loire_130_1;Loire 130C
 loire_130_2;Loire 130
 ro_43_shop;Ro.43
@@ -12800,10 +13753,6 @@ mig-3_shop;MiG-3
 mig-3_0;MiG-3
 mig-3_1;MiG-3
 mig-3_2;MiG-3
-itp_m1_shop;ITP (M-1)
-itp_m1_0;ITP (M-1)
-itp_m1_1;ITP (M-1)
-itp_m1_2;ITP
 mig-9_shop;MiG-9
 mig-9_0;MiG-9
 mig-9_1;MiG-9
@@ -12852,10 +13801,6 @@ bb-1_shop;BB-1
 bb-1_0;BB-1
 bb-1_1;BB-1
 bb-1_2;BB-1
-su-2_m82_shop;Su-2 (M-82)
-su-2_m82_0;Su-2 (M-82)
-su-2_m82_1;Su-2
-su-2_m82_2;Su-2
 su-2_mv5_shop;Su-2 MV-5
 su-2_mv5_0;Su-2 MV-5
 su-2_mv5_1;Su-2
@@ -12864,30 +13809,6 @@ su-2_tss1_shop;Su-2 TSS-1
 su-2_tss1_0;Su-2 TSS-1
 su-2_tss1_1;Su-2
 su-2_tss1_2;Su-2
-su-7b_shop;Su-7B
-su-7b_0;izd. S-22 | Su-7B
-su-7b_1;Su-7B
-su-7b_2;Su-7
-su-7bkl_shop;Su-7BKL
-su-7bkl_0;izd. S-22KL | Su-7BKL
-su-7bkl_1;Su-7BKL
-su-7bkl_2;Su-7
-su-7bmk_shop;☥ Su-7BMK
-su-7bmk_0;☥ izd. S-22MK | Su-7BMK
-su-7bmk_1;☥ Su-7BMK
-su-7bmk_2;☥ Su-7
-su_17m2_shop;Su-17M2
-su_17m2_0;izd. S-32M2 | Su-17M2
-su_17m2_1;Su-17M2
-su_17m2_2;Su-17
-su_17m4_shop;Su-17M4
-su_17m4_0;izd. S-54 | Su-17M4
-su_17m4_1;Su-17M4
-su_17m4_2;Su-17
-su_22m3_shop;▄ Su-22M3
-su_22m3_0;▄ izd. S-52M3 | Su-22M3
-su_22m3_1;▄ Su-22M3
-su_22m3_2;▄ Su-22
 su_25_shop;Su-25
 su_25_0;"Su-25 ""Grač"""
 su_25_1;Su-25
@@ -12900,22 +13821,10 @@ su_25tm_shop;Su-25TM
 su_25tm_0;"Su-25TM ""Grač"""
 su_25tm_1;Su-25TM
 su_25tm_2;Su-25
-su_25_558arz_shop;▂ Su-25 (558-j ARZ)
-su_25_558arz_0;"▂ 558-j Aviaczionnyj Ryemontnyj Zavod | Su-25 ""Grač"""
-su_25_558arz_1;▂ Su-25
-su_25_558arz_2;▂ Su-25
 su_25sm3_shop;Su-25SM3
 su_25sm3_0;"Su-25SM3 ""Grač"""
 su_25sm3_1;Su-25SM3
 su_25sm3_2;Su-25
-su-9_shop;Su-9
-su-9_0;izd. K | Su-9
-su-9_1;Su-9
-su-9_2;Su-9
-su-11_shop;Su-11
-su-11_0;izd. LK | Su-11
-su-11_1;Su-11
-su-11_2;Su-11
 typhoon_mk1a_shop;Typhoon F. Mk. Ia
 typhoon_mk1a_0;Typhoon F. Mk. Ia
 typhoon_mk1a_1;Typhoon F. Mk. I
@@ -12956,14 +13865,6 @@ f-8e_fn_shop;☨ F-8E(FN)
 f-8e_fn_0;☨ F-8E(FN) Crusader
 f-8e_fn_1;☨ F-8E
 f-8e_fn_2;☨ F-8
-mig_27m_shop;MiG-27M
-mig_27m_0;izd. 32-39 | MiG-27M
-mig_27m_1;MiG-27M
-mig_27m_2;MiG-27
-mig_27k_shop;MiG-27K
-mig_27k_0;izd. 32-36 | MiG-27K
-mig_27k_1;MiG-27K
-mig_27k_2;MiG-27
 pe-2-1_shop;Pye-2-1
 pe-2-1_0;Pye-2 syeriâ 1 Pyeška
 pe-2-1_1;Pye-2
@@ -12976,30 +13877,6 @@ mig-9_ussr_shop;I-307
 mig-9_ussr_0;I-307
 mig-9_ussr_1;I-307
 mig-9_ussr_2;I-307
-er-2_ach30b_late_shop;Yer-2-4 (ACh-30B)
-er-2_ach30b_late_0;Yer-2 (ACh-30B) syeriâ 4
-er-2_ach30b_late_1;Yer-2-4
-er-2_ach30b_late_2;Yer-2
-er-2_ach30b_early_shop;Yer-2-3 (ACh-30B)
-er-2_ach30b_early_0;Yer-2 (ACh-30B) syeriâ 3
-er-2_ach30b_early_1;Yer-2-3
-er-2_ach30b_early_2;Yer-2
-er-2_m105_mv3_shop;Yer-2 (M-105)
-er-2_m105_mv3_0;Yer-2 (M-105)
-er-2_m105_mv3_1;Yer-2
-er-2_m105_mv3_2;Yer-2
-er-2_m105_tat_shop;Yer-2 (M-105) (TAT-BT)
-er-2_m105_tat_0;Yer-2 (M-105) (TAT-BT)
-er-2_m105_tat_1;Yer-2
-er-2_m105_tat_2;Yer-2
-er-2_m105r_lu2b_shop;Yer-2 (M-105R) (LU-MV-2B)
-er-2_m105r_lu2b_0;Yer-2 (M-105R) (LU-MV-2B)
-er-2_m105r_lu2b_1;Yer-2
-er-2_m105r_lu2b_2;Yer-2
-er-2_m105r_tat_shop;Yer-2 (M-105R)
-er-2_m105r_tat_0;Yer-2 (M-105R)
-er-2_m105r_tat_1;Yer-2
-er-2_m105r_tat_2;Yer-2
 meteor_fmk3_shop;Meteor F. Mk. 3
 meteor_fmk3_0;Gloster Aircraft Company G.41D | Meteor F. Mk. 3
 meteor_fmk3_1;Meteor F. Mk. 3
@@ -13076,10 +13953,6 @@ sb_2m_100a_shop;SB 2M-100A
 sb_2m_100a_0;SB 2M-100A
 sb_2m_100a_1;SB 2M
 sb_2m_100a_2;SB 2M
-sb_2m_100a_spain_shop;SB 2M-100A (F.A.R.E.)
-sb_2m_100a_spain_0;SB 2M-100A (Fuerzas Aéreas de la República Española)
-sb_2m_100a_spain_1;SB 2M
-sb_2m_100a_spain_2;SB 2M
 sb_2m_103_mv3_shop;SB 2M-103 MV-3
 sb_2m_103_mv3_0;SB 2M-103 MV-3
 sb_2m_103_mv3_1;SB 2M
@@ -13200,14 +14073,6 @@ nimrod_mk2_shop;Nimrod Mk. II
 nimrod_mk2_0;Nimrod Mk. II
 nimrod_mk2_1;Nimrod Mk. II
 nimrod_mk2_2;Nimrod
-yak-15_shop;Âk-15 (1947)
-yak-15_0;Âk-15 (1947)
-yak-15_1;Âk-15
-yak-15_2;Âk-15
-yak-15_early_shop;Âk-15 (1946)
-yak-15_early_0;Âk-15 (1946)
-yak-15_early_1;Âk-15
-yak-15_early_2;Âk-15
 f-86_1;F-86A-5-NA
 f-86_0;F-86A-5-NA Sabre
 f-86_1;F-86A
@@ -13216,14 +14081,6 @@ mig-15_ns23_shop;MiG-15
 mig-15_ns23_0;MiG-15
 mig-15_ns23_1;MiG-15
 mig-15_ns23_2;MiG-15
-mig-15bis_ns23_shop;MiG-15bis (NS-23)
-mig-15bis_ns23_0;MiG-15bis (NS-23)
-mig-15bis_ns23_1;MiG-15bis
-mig-15bis_ns23_2;MiG-15
-mig-15bis_ns23_china_shop;␗ MiG-15bis (NS-23)
-mig-15bis_ns23_china_0;␗ MiG-15bis (NS-23)
-mig-15bis_ns23_china_1;␗ MiG-15bis
-mig-15bis_ns23_china_2;␗ MiG-15
 f-84g_france_shop;☨ F-84G-26-RE
 f-84g_france_0;☨ F-84G-26-RE Thunderjet
 f-84g_france_1;☨ F-84G
@@ -13232,14 +14089,6 @@ f-84f_france_shop;☨ F-84F-51-GK
 f-84f_france_0;☨ F-84F-51-GK Thunderstreak
 f-84f_france_1;☨ F-84F
 f-84f_france_2;☨ F-84
-p-40f-5_france_ep_shop;☨ P-40F-5-CU (EC 2/4)
-p-40f-5_france_ep_0;☨ P-40F-5-CU (Escadron de Chasse 2/4)
-p-40f-5_france_ep_1;☨ P-40F
-p-40f-5_france_ep_2;☨ P-40
-leo_451_late_shop;LeO 451 (late)
-leo_451_late_0;LeO 451 (late)
-leo_451_late_1;LeO 451
-leo_451_late_2;LeO 451
 f4u-7_shop;☨ F4U-7
 f4u-7_0;☨ F4U-7 Corsair
 f4u-7_1;☨ F4U-7
@@ -13248,30 +14097,10 @@ mig_3_series_1_15_shop;MiG-3-15
 mig_3_series_1_15_0;MiG-3 syeriâ 15
 mig_3_series_1_15_1;MiG-3-15
 mig_3_series_1_15_2;MiG-3
-mig_3_series_1_15_bk_pod_shop;MiG-3-15 (UBK)
-mig_3_series_1_15_bk_pod_0;MiG-3 syeriâ 15 (UBK)
-mig_3_series_1_15_bk_pod_1;MiG-3-15
-mig_3_series_1_15_bk_pod_2;MiG-3
-i-15bis_shop;I-15bis
-i-15bis_0;I-15bis
-i-15bis_1;I-15bis
-i-15bis_2;I-15
-i-15bis_krasnolutsky_shop;Krasnoluczkij's I-15bis
-i-15bis_krasnolutsky_0;Mitrofan Pyetrovič Krasnoluczkij's I-15bis
-i-15bis_krasnolutsky_1;I-15bis
-i-15bis_krasnolutsky_2;I-15
-i-153_m62_zhukovskiy_shop;Žukovskij's I-153 (AŠ-62)
-i-153_m62_zhukovskiy_0;Syergyej Âkovlyevič Žukovskij's I-153 (AŠ-62)
-i-153_m62_zhukovskiy_1;I-153
-i-153_m62_zhukovskiy_2;I-153
 gladiator_mk2_tuck_shop;Tuck's Gladiator Mk. II
 gladiator_mk2_tuck_0;Robert S. Tuck's Gladiator Mk. II
 gladiator_mk2_tuck_1;Gladiator Mk. II
 gladiator_mk2_tuck_2;Gladiator
-h-75a-1_finland_shop;CUw (A-1)
-h-75a-1_finland_0;"CUw (A-1) ""Sussu"""
-h-75a-1_finland_1;CUw
-h-75a-1_finland_2;CU
 h-75a-1_france39_shop;Curtiss H75-C1-39
 h-75a-1_france39_0;Curtiss H75-C1-39
 h-75a-1_france39_1;H75-C1
@@ -13288,10 +14117,6 @@ h-75a-2_luftwaffe_shop;Hawk H-75A-2
 h-75a-2_luftwaffe_0;Hawk H-75A-2
 h-75a-2_luftwaffe_1;H-75A
 h-75a-2_luftwaffe_2;H-75
-h-75a-3_finland_shop;CUw (A-3)
-h-75a-3_finland_0;"CUw (A-3) ""Sussu"""
-h-75a-3_finland_1;CUw
-h-75a-3_finland_2;CU
 h-75a-3_france_shop;Curtiss H75-C1-3
 h-75a-3_france_0;Curtiss H75-C1-3
 h-75a-3_france_1;H75-C1
@@ -13316,10 +14141,6 @@ h-75a-5_shop;Hawk H-75A-5
 h-75a-5_0;Hawk H-75A-5
 h-75a-5_1;H-75A
 h-75a-5_2;H-75
-h-75a-6_shop;CUw (A-6)
-h-75a-6_0;"CUw (A-6) ""Sussu"""
-h-75a-6_1;CUw
-h-75a-6_2;CU
 h-75a-7_shop;Hawk H-75A-7
 h-75a-7_0;Hawk H-75A-7
 h-75a-7_1;H-75A
@@ -13356,10 +14177,6 @@ lagg-3-8_shop;LaGG-3-8
 lagg-3-8_0;LaGG-3 syeriâ 8
 lagg-3-8_1;LaGG-3-8
 lagg-3-8_2;LaGG-3
-la-7b-20_shop;La-7 (B-20S)
-la-7b-20_0;La-7 (B-20S)
-la-7b-20_1;La-7
-la-7b-20_2;La-7
 la-5_type37_early_shop;La-5-37
 la-5_type37_early_0;La-5 Tip 37, syeriâ 8
 la-5_type37_early_1;La-5-37
@@ -13388,10 +14205,6 @@ yak-17_shop;Âk-17
 yak-17_0;Âk-17
 yak-17_1;Âk-17
 yak-17_2;Âk-17
-tb_3_m17_32_shop;TB-3 (4M-17)
-tb_3_m17_32_0;TB-3 (4M-17)
-tb_3_m17_32_1;TB-3
-tb_3_m17_32_2;TB-3
 yak-3p_shop;Âk-3P
 yak-3p_0;Âk-3P
 yak-3p_1;Âk-3P
@@ -13408,10 +14221,6 @@ fw-190d-9_ussr_shop;▂ Fw 190 D-9
 fw-190d-9_ussr_0;▂ Fw 190 D-9
 fw-190d-9_ussr_1;▂ Fw 190 D
 fw-190d-9_ussr_2;▂ Fw 190
-i_185_m82_shop;I-185 (M-82)
-i_185_m82_0;I-185 (M-82)
-i_185_m82_1;I-185
-i_185_m82_2;I-185
 i_225_shop;I-225
 i_225_0;I-225
 i_225_1;I-225
@@ -13456,14 +14265,6 @@ spitfire_ix_ussr_shop;▂ Spitfire Mk. IXc
 spitfire_ix_ussr_0;▂ Spitfire Mk. IXc
 spitfire_ix_ussr_1;▂ Spitfire Mk. IX
 spitfire_ix_ussr_2;▂ Spitfire
-i_185_m71_standard_shop;I-185 (M-71)
-i_185_m71_standard_0;I-185 (M-71)
-i_185_m71_standard_1;I-185
-i_185_m71_standard_2;I-185
-il-10_1946_shop;Il-10 (1947)
-il-10_1946_0;Il-10 (1947)
-il-10_1946_1;Il-10
-il-10_1946_2;Il-10
 mig_3_series_34_shop;MiG-3-34
 mig_3_series_34_0;MiG-3 syeriâ 34
 mig_3_series_34_1;MiG-3-34
@@ -13472,10 +14273,6 @@ hs-129b-2_romania_italy_shop;╏ Hs 129 B-2
 hs-129b-2_romania_italy_0;╏ Hs 129 B-2
 hs-129b-2_romania_italy_1;╏ Hs 129 B
 hs-129b-2_romania_italy_2;╏ Hs 129
-il-2m_mstitel_shop;Il-2M (1944) (567-j Š.A.P.)
-il-2m_mstitel_0;Il-2M (1944) (567-j Šturmovoj Aviaczionnyj Polk)
-il-2m_mstitel_1;Il-2
-il-2m_mstitel_2;Il-2
 yak-9_shop;Âk-9
 yak-9_0;Âk-9
 yak-9_1;Âk-9
@@ -13528,10 +14325,6 @@ i-16_type10_shop;I-16 Tip 10
 i-16_type10_0;I-16 Tip 10 Ishak
 i-16_type10_1;I-16
 i-16_type10_2;I-16
-il_2_1941_shop;Il-2 (1941)
-il_2_1941_0;Il-2 (1941)
-il_2_1941_1;Il-2
-il_2_1941_2;Il-2
 firefly_mk1_shop;Firefly F. Mk. I
 firefly_mk1_0;Firefly F. Mk. I
 firefly_mk1_1;Firefly F. Mk. I
@@ -13568,10 +14361,6 @@ strikemaster_mk88_shop;Strikemaster Mk. 88
 strikemaster_mk88_0;"Strikemaster Mk. 88 ""Blunty"""
 strikemaster_mk88_1;Strikemaster Mk. 88
 strikemaster_mk88_2;Strikemaster
-yak-9m_shop;Galavačoŭ's Âk-9M
-yak-9m_0;Pavyel Âkaŭlyevìč Galavačoŭ's Âk-9M
-yak-9m_1;Âk-9M
-yak-9m_2;Âk-9
 sea_fury_fb11_shop;Sea Fury F.B. Mk. 11
 sea_fury_fb11_0;Sea Fury F.B. Mk. 11
 sea_fury_fb11_1;Sea Fury F.B.
@@ -13584,26 +14373,6 @@ firefly_mk5_shop;Firefly F.R. Mk. 5
 firefly_mk5_0;Firefly F.R. Mk. 5
 firefly_mk5_1;Firefly F.R. Mk. 5
 firefly_mk5_2;Firefly
-il_2_37_1943_shop;Il-2M (NS-37)
-il_2_37_1943_0;Il-2M (NS-37)
-il_2_37_1943_1;Il-2
-il_2_37_1943_2;Il-2
-la-7_dolgushin_shop;Dolgušin's La-7
-la-7_dolgushin_0;Syergyej Fëdorovič Dolgušin's La-7
-la-7_dolgushin_1;La-7
-la-7_dolgushin_2;La-7
-il_2m_1943_shop;Il-2M (1943)
-il_2m_1943_0;Il-2M (1943)
-il_2m_1943_1;Il-2M
-il_2m_1943_2;Il-2
-il_2_m82_shop;Il-2 (M-82)
-il_2_m82_0;Il-2 (M-82)
-il_2_m82_1;Il-2 (M-82)
-il_2_m82_2;Il-2
-il_8_1944_shop;Il-8 (AM-42) (VÂ-23)
-il_8_1944_0;Il-8 (AM-42) (VÂ-23)
-il_8_1944_1;Il-8
-il_8_1944_2;Il-8
 hurricane_mk1b_shop;Sea Hurricane F. Mk. Ib
 hurricane_mk1b_0;Sea Hurricane F. Mk. Ib
 hurricane_mk1b_1;Sea Hurricane F. Mk. I
@@ -13632,14 +14401,6 @@ firebrand_tf4_shop;Firebrand T.F. Mk. IV
 firebrand_tf4_0;Firebrand T.F. Mk. IV
 firebrand_tf4_1;Firebrand T.F. Mk. IV
 firebrand_tf4_2;Firebrand
-hurricanemkii_ussr_shop;▂ Kharrikyejna F.B. MK-IIb (ŠVAK)
-hurricanemkii_ussr_0;▂ Kharrikyejna F.B. MK-IIb (ŠVAK)
-hurricanemkii_ussr_1;▂ Kharrikyejna F.B. MK-II
-hurricanemkii_ussr_2;▂ Kharrikyejna
-yak-3_vk107_shop;Âk-3 (VK-107A)
-yak-3_vk107_0;Âk-3 (VK-107A)
-yak-3_vk107_1;Âk-3
-yak-3_vk107_2;Âk-3
 yak-9b_shop;Âk-9B
 yak-9b_0;Âk-9B
 yak-9b_1;Âk-9
@@ -13672,18 +14433,10 @@ sb2c_4_shop;SB2C-4
 sb2c_4_0;SB2C-4 Helldiver
 sb2c_4_1;SB2C-4
 sb2c_4_2;SB2C
-po-2_nw_shop;U-2 (Night Witch)
-po-2_nw_0;U-2 (Night Witch)
-po-2_nw_1;U-2
-po-2_nw_2;U-2
 mig-17_shop;MiG-17
 mig-17_0;MiG-17
 mig-17_1;MiG-17
 mig-17_2;MiG-17
-mig-19pt_shop;MiG-19PT
-mig-19pt_0;izd. SM-7/2T | MiG-19PT
-mig-19pt_1;MiG-19PT
-mig-19pt_2;MiG-19
 stirling_mk1_shop;Stirling B. Mk. I
 stirling_mk1_0;Stirling B. Mk. I
 stirling_mk1_1;Stirling B. Mk. I
@@ -13692,10 +14445,6 @@ stirling_mk3_shop;Stirling B. Mk. III
 stirling_mk3_0;Stirling B. Mk. III
 stirling_mk3_1;Stirling B. Mk. III
 stirling_mk3_2;Stirling
-a6m5_zero_china_shop;☀ A6M5
-a6m5_zero_china_0;"☀ Mitsubishi Jū Kōgyō | 0 Shiki Kanjō Sentōki 52 Gata | A6M5 ""Rei Sen"""
-a6m5_zero_china_1;☀ A6M5
-a6m5_zero_china_2;☀ A6M
 sea_venom_faw20_shop;Sea Venom F.(A.W.) Mk. 20
 sea_venom_faw20_0;Sea Venom F.(A.W.) Mk. 20
 sea_venom_faw20_1;Sea Venom F.(A.W.) Mk. 20
@@ -13724,10 +14473,6 @@ yak-28b_shop;Âk-28B
 yak-28b_0;Âk-28B
 yak-28b_1;Âk-28B
 yak-28b_2;Âk-28
-yak_141_shop;Âk-141
-yak_141_0;izd. 48M | Âk-141
-yak_141_1;Âk-141
-yak_141_2;Âk-141
 halifax_mk3_shop;Halifax B. Mk. III
 halifax_mk3_0;Halifax B. Mk. III
 halifax_mk3_1;Halifax B. Mk. III
@@ -13748,10 +14493,6 @@ hudson_mk_v_shop;Hudson Mk. V
 hudson_mk_v_0;Hudson Mk. V
 hudson_mk_v_1;Hudson Mk. V
 hudson_mk_v_2;Hudson
-su-6_m71_shop;Su-6 (M-71F)
-su-6_m71_0;Su-6 (M-71F)
-su-6_m71_1;Su-6
-su-6_m71_2;Su-6
 brigand_b1_shop;Brigand B. Mk. 1
 brigand_b1_0;Brigand B. Mk. 1
 brigand_b1_1;Brigand B. Mk. 1
@@ -13776,10 +14517,6 @@ hp52_hampden_tbmk1_shop;Hampden T.B. Mk. I
 hp52_hampden_tbmk1_0;Hampden T.B. Mk. I
 hp52_hampden_tbmk1_1;Hampden T.B. Mk. I
 hp52_hampden_tbmk1_2;Hampden
-hp52_hampden_tbmk1_ussr_utk1_shop;▂ Khyempdyenov T.B. MK-I (UTK-1)
-hp52_hampden_tbmk1_ussr_utk1_0;▂ Khyempdyenov T.B. MK-I (UTK-1)
-hp52_hampden_tbmk1_ussr_utk1_1;▂ Khyempdyenov T.B. MK-I
-hp52_hampden_tbmk1_ussr_utk1_2;▂ Khyempdyenov
 lincoln_b2_shop;Lincoln B. Mk. II
 lincoln_b2_0;Lincoln B. Mk. II
 lincoln_b2_1;Lincoln B. Mk. II
@@ -13796,30 +14533,6 @@ br_20m_m1_shop;BR.20M M1
 br_20m_m1_0;BR.20M M1 Cicogna
 br_20m_m1_1;BR.20M M1
 br_20m_m1_2;BR.20
-sm_79_1936_italy_shop;S.M.79 I (1936)
-sm_79_1936_italy_0;S.M.79 serie I Sparviero (1936)
-sm_79_1936_italy_1;S.M.79
-sm_79_1936_italy_2;S.M.79
-sm_79_1937_italy_shop;S.M.79 IV (1937)
-sm_79_1937_italy_0;S.M.79 serie IV Sparviero (1937)
-sm_79_1937_italy_1;S.M.79
-sm_79_1937_italy_2;S.M.79
-sm_79_1939_italy_shop;S.M.79 VIII (1939)
-sm_79_1939_italy_0;S.M.79 serie VIII Sparviero (1939)
-sm_79_1939_italy_1;S.M.79
-sm_79_1939_italy_2;S.M.79
-sm_79_1941_italy_shop;S.M.79 AS (1941)
-sm_79_1941_italy_0;S.M.79 AS Sparviero (1941)
-sm_79_1941_italy_1;S.M.79
-sm_79_1941_italy_2;S.M.79
-sm_79_1942_italy_shop;S.M.79bis/N (1942)
-sm_79_1942_italy_0;S.M.79bis/N Sparviero (1942)
-sm_79_1942_italy_1;S.M.79
-sm_79_1942_italy_2;S.M.79
-sm_79_1943_italy_shop;S.M.79bis/T.M (1943)
-sm_79_1943_italy_0;S.M.79bis/T.M Sparviero (1943)
-sm_79_1943_italy_1;S.M.79
-sm_79_1943_italy_2;S.M.79
 mc-202_italy_shop;C. 202 VII
 mc-202_italy_0;C. 202 serie VII Folgore
 mc-202_italy_1;C. 202
@@ -13832,10 +14545,6 @@ mc-202_d_shop;C. 202 D
 mc-202_d_0;C. 202 D Folgore
 mc-202_d_1;C. 202 D
 mc-202_d_2;C. 202
-s_81_ar125_shop;S.81
-s_81_ar125_0;S.81 (Alfa-Romeo 125) Pipistrello
-s_81_ar125_1;S.81
-s_81_ar125_2;S.81
 mc200_serie3_italy_shop;C. 200 III
 mc200_serie3_italy_0;C. 200 serie III Saetta
 mc200_serie3_italy_1;C. 200
@@ -13888,10 +14597,6 @@ g_55s_shop;G.55 S
 g_55s_0;G.55 Silurante Centauro
 g_55s_1;G.55 S
 g_55s_2;G.55
-breda_88_shop;Ba.88 (P.XI)
-breda_88_0;Ba.88 (P.XI)
-breda_88_1;Ba.88
-breda_88_2;Ba.88
 fc_20_bis_shop;FC.20bis
 fc_20_bis_0;FC.20bis
 fc_20_bis_1;FC.20
@@ -13936,18 +14641,10 @@ re_2000_ga_shop;Re.2000 GA III
 re_2000_ga_0;Re.2000 Grande Autonomia serie III Falco I
 re_2000_ga_1;Re.2000
 re_2000_ga_2;Re.2000
-re_2000_ga_ep_shop;Re.2000 GA III (377ª Sq.)
-re_2000_ga_ep_0;Re.2000 Grande Autonomia serie III Falco I (377ª Squadriglia)
-re_2000_ga_ep_1;Re.2000
-re_2000_ga_ep_2;Re.2000
 re_2001_serie1_shop;Re.2001 I
 re_2001_serie1_0;Re.2001 serie I Falco II
 re_2001_serie1_1;Re.2001
 re_2001_serie1_2;Re.2001
-re_2001_serie1_ep_shop;Re.2001 I (22º Gr.)
-re_2001_serie1_ep_0;Re.2001 serie I Falco II (22º Gruppo)
-re_2001_serie1_ep_1;Re.2001
-re_2001_serie1_ep_2;Re.2001
 re_2001_cb_shop;Re.2001 CB I
 re_2001_cb_0;Re.2001 Caccia Bombardiere serie I Falco II
 re_2001_cb_1;Re.2001
@@ -14028,10 +14725,6 @@ germ_bmp_1_ddr_shop;◊ SPz BMP-1P
 germ_bmp_1_ddr_0;◊ Schützenpanzer BMP-1P SP-4
 germ_bmp_1_ddr_1;◊ SPz BMP-1P
 germ_bmp_1_ddr_2;Light Tank
-ussr_bmp_1_shop;BMP-1P
-ussr_bmp_1_0;"Ob""yekt 76 sp.4 | BMP-1P obr. 1979 g."
-ussr_bmp_1_1;BMP-1P
-ussr_bmp_1_2;Light Tank
 ussr_m53_59_shop;PLDvK vz. 53/59
 ussr_m53_59_0;"Praga PLDvK vz. 53/59 ""Ještěrka"""
 ussr_m53_59_1;vz. 53/59
@@ -14040,18 +14733,6 @@ ussr_btr_80a_shop;BTR-80A
 ussr_btr_80a_0;BTR-80A
 ussr_btr_80a_1;BTR-80
 ussr_btr_80a_2;Light Tank
-ussr_btr_zd_shop;BTR-ZD
-ussr_btr_zd_0;"Ob""yekt 925S | BTR-ZD"
-ussr_btr_zd_1;BTR-ZD
-ussr_btr_zd_2;SPAA
-ussr_btr_152d_shop;ZiS-152D (ZTPU-4)
-ussr_btr_152d_0;ZiS-152D (ZTPU-4)
-ussr_btr_152d_1;ZiS-152D (ZTPU-4)
-ussr_btr_152d_2;SPAA
-ussr_btr_152a_shop;BTR-152A (ZTPU-2)
-ussr_btr_152a_0;"Ob""yekt 140A | BTR-152A (ZTPU-2)"
-ussr_btr_152a_1;BTR-152A (ZTPU-2)
-ussr_btr_152a_2;SPAA
 uk_daimler_mk_2_shop;Daimler, Mk. II
 uk_daimler_mk_2_0;Car, Armoured, Daimler, Mk. II
 uk_daimler_mk_2_1;Daimler, Mk. II
@@ -14072,10 +14753,6 @@ germ_kpz_70_shop;KPz 70
 germ_kpz_70_0;Kampfpanzer 70
 germ_kpz_70_1;KPz 70
 germ_kpz_70_2;MBT
-ussr_t_64a_1971_shop;T-64A
-ussr_t_64a_1971_0;"Ob""yekt 434 | T-64A obr. 1971 g. Redut"
-ussr_t_64a_1971_1;T-64A
-ussr_t_64a_1971_2;MBT
 ussr_2s1_shop;2S1
 ussr_2s1_0;"2S1 ""Gvozdika"""
 ussr_2s1_1;2S1
@@ -14084,22 +14761,10 @@ ussr_2s3m_shop;2S3M
 ussr_2s3m_0;"2S3M ""Akacziâ-M"""
 ussr_2s3m_1;2S3M
 ussr_2s3m_2;SPG
-ussr_su_100p_shop;SU-100P
-ussr_su_100p_0;"Ob""yekt 105 | SU-100P"
-ussr_su_100p_1;SU-100P
-ussr_su_100p_2;SPG
 so_4050_vautour_2a_shop;Vautour II A
 so_4050_vautour_2a_0;S.O.4050 Vautour II A
 so_4050_vautour_2a_1;Vautour II A
 so_4050_vautour_2a_2;Vautour II
-so_4050_vautour_2n_shop;Vautour II N (C)
-so_4050_vautour_2n_0;S.O.4050 Vautour II N (C)
-so_4050_vautour_2n_1;Vautour II N (C)
-so_4050_vautour_2n_2;Vautour II
-so_4050_vautour_2n_late_shop;Vautour II N (M)
-so_4050_vautour_2n_late_0;S.O.4050 Vautour II N (M)
-so_4050_vautour_2n_late_1;Vautour II N (M)
-so_4050_vautour_2n_late_2;Vautour II
 so_4050_vautour_2b_shop;Vautour II B
 so_4050_vautour_2b_0;S.O.4050 Vautour II B
 so_4050_vautour_2b_1;Vautour II B
@@ -14128,10 +14793,6 @@ so_8000_narval_shop;Narval
 so_8000_narval_0;S.O.8000 Narval
 so_8000_narval_1;Narval
 so_8000_narval_2;Narval
-pb4y-2_france_shop;☨ PB4Y-2S (Désarmer)
-pb4y-2_france_0;☨ PB4Y-2S (Désarmer)
-pb4y-2_france_1;☨ PB4Y-2
-pb4y-2_france_2;☨ PB4Y
 sbd-5_france_shop;☨ SBD-5
 sbd-5_france_0;☨ SBD-5 Dauntless
 sbd-5_france_1;☨ SBD-5
@@ -14172,14 +14833,6 @@ d_373_shop;D.373
 d_373_0;D.373
 d_373_1;D.373
 d_373_2;D.373
-d_371_hs9_shop;D.371 (HS.9)
-d_371_hs9_0;D.371 (HS.9)
-d_371_hs9_1;D.371
-d_371_hs9_2;D.371
-leo_451_early_shop;LeO 451 (early)
-leo_451_early_0;LeO 451 (early)
-leo_451_early_1;LeO 451
-leo_451_early_2;LeO 451
 potez_630_shop;Potez 630.01
 potez_630_0;Potez 630.01
 potez_630_1;Potez 630.01
@@ -14216,10 +14869,6 @@ etndard_4m_shop;Étendard IV M
 etndard_4m_0;Étendard IV M
 etndard_4m_1;Étendard IV M
 etndard_4m_2;Étendard IV
-super_etendard_97_shop;Super Étendard M (S4)
-super_etendard_97_0;Super Étendard Modernisé (Standard 4)
-super_etendard_97_1;Super Étendard M
-super_etendard_97_2;Super Étendard
 md_460_shop;Super Mystère B2
 md_460_0;M.D.460 Super Mystère B2
 md_460_1;Super Mystère B2
@@ -14276,14 +14925,6 @@ tandem_mai_shop;Š-Tandyem
 tandem_mai_0;Š-Tandyem
 tandem_mai_1;Š-Tandyem
 tandem_mai_2;Š-Tandyem
-h-75a-1_france_shop;☨ H75-C1 (1ère série)
-h-75a-1_france_0;☨ H75-C1 (1ère série)
-h-75a-1_france_1;☨ H75-C1
-h-75a-1_france_2;☨ H75
-h-75a-4_france_shop;☨ H75-C1 (4ème série)
-h-75a-4_france_0;☨ H75-C1 (4ème série)
-h-75a-4_france_1;☨ H75-C1
-h-75a-4_france_2;☨ H75
 ms_405c1_shop;M.S.405-C1
 ms_405c1_0;M.S.405-C1
 ms_405c1_1;M.S.405-C1
@@ -14292,10 +14933,6 @@ ms_406c1_shop;M.S.406-C1
 ms_406c1_0;M.S.406-C1
 ms_406c1_1;M.S.406-C1
 ms_406c1_2;M.S.406
-mig_21_bis_finland_shop;MGB (late)
-mig_21_bis_finland_0;"MGB ""Konelan putki"" (late)"
-mig_21_bis_finland_1;MGB (late)
-mig_21_bis_finland_2;MGB
 mig-21_bison_shop;☸ MiG-21 Bison
 mig-21_bison_0;☸ MiG-21 Bison
 mig-21_bison_1;☸ MiG-21
@@ -14308,126 +14945,10 @@ yak-3_france_shop;☨ Âk-3
 yak-3_france_0;☨ Âk-3
 yak-3_france_1;☨ Âk-3
 yak-3_france_2;☨ Âk-3
-md_452_mystere_2c_preproduction_shop;Mystère II C
-md_452_mystere_2c_preproduction_0;M.D.452 Mystère II C (pre-production)
-md_452_mystere_2c_preproduction_1;Mystère II C
-md_452_mystere_2c_preproduction_2;Mystère II C
 md_454_mystere_4a_shop;Mystère IV A
 md_454_mystere_4a_0;M.D.454 Mystère IV A
 md_454_mystere_4a_1;Mystère IV A
 md_454_mystere_4a_2;Mystère IV
-germ_s_100_s204_lang_shop;S 204
-germ_s_100_s204_lang_0;Schnellboot Typ 1939/40, S 204 Lang
-germ_s_100_s204_lang_1;S 204
-germ_s_100_s204_lang_2;Motor Torpedo Boat
-germ_artilleriefahrprahm_typ_d3_shop;AF 128
-germ_artilleriefahrprahm_typ_d3_0;Artilleriefährprahm Typ D 3 | AF 128
-germ_artilleriefahrprahm_typ_d3_1;AF 128
-germ_artilleriefahrprahm_typ_d3_2;Gunboat
-germ_vs8_hydrofoil_shop;VS 8
-germ_vs8_hydrofoil_0;"Tragflügel-Versuchs-Schnellboot 8 ""Schell I"""
-germ_vs8_hydrofoil_1;VS 8
-germ_vs8_hydrofoil_2;Minelayer-hydrofoil
-germ_s_100_class_shop;S 100 (1945)
-germ_s_100_class_0;Schnellboot Typ 1939/40, S 100 (1945)
-germ_s_100_class_1;S 100 (1945)
-germ_s_100_class_2;Motor Torpedo Boat
-germ_s_100_class_us_shop;S 204
-germ_s_100_class_us_0;S 204
-germ_s_100_class_us_1;S 204
-germ_s_100_class_us_2;Motor Torpedo Boat
-germ_s_100_class_uk_shop;S 204
-germ_s_100_class_uk_0;S 204
-germ_s_100_class_uk_1;S 204
-germ_s_100_class_uk_2;Motor Torpedo Boat
-germ_s_100_class_germany_shop;S 204
-germ_s_100_class_germany_0;S 204
-germ_s_100_class_germany_1;S 204
-germ_s_100_class_germany_2;Motor Torpedo Boat
-germ_s_100_class_japan_shop;S 204
-germ_s_100_class_japan_0;S 204
-germ_s_100_class_japan_1;S 204
-germ_s_100_class_japan_2;Motor Torpedo Boat
-germ_rboot_r41_shop;R 41
-germ_rboot_r41_0;Räumboot R 41-class, R 41
-germ_rboot_r41_1;R 41
-germ_rboot_r41_2;Gunboat
-germ_type143_albatros_shop;Albatros (S 61)
-germ_type143_albatros_0;Flugkörper-Schnellboot Albatros-Klasse (Typ 143), Albatros (S 61)
-germ_type143_albatros_1;Albatros
-germ_type143_albatros_2;Fast Attack Craft
-germ_vs10_hydrofoil_shop;VS 10
-germ_vs10_hydrofoil_0;Tragflügel-Versuchs-Schnellboot 10
-germ_vs10_hydrofoil_1;VS 10
-germ_vs10_hydrofoil_2;Motor Torpedo Boat
-germ_rboot_r130_shop;R 130
-germ_rboot_r130_0;Räumboot R 130-class, R 130
-germ_rboot_r130_1;R 130
-germ_rboot_r130_2;Gunboat
-germ_sf40_leichte_flakkampffaehre_shop;SF 07
-germ_sf40_leichte_flakkampffaehre_0;Siebelfähre 40 leichter Flakkampffähre, SF 07
-germ_sf40_leichte_flakkampffaehre_1;SF 40 Leicht
-germ_sf40_leichte_flakkampffaehre_2;Light AA ferry
-germ_sf40_schwere_flakkampffaehre_shop;SF 05
-germ_sf40_schwere_flakkampffaehre_0;Siebelfähre 40 schwerer Flakkampffähre, SF 05
-germ_sf40_schwere_flakkampffaehre_1;SF 40 Schwer
-germ_sf40_schwere_flakkampffaehre_2;Heavy AA ferry
-germ_destroyer_class1936_z20_karlgalster_shop;Z 20 (1945)
-germ_destroyer_class1936_z20_karlgalster_0;Zerstörer Typ 1936, Z 20 Karl Galster, 1945
-germ_destroyer_class1936_z20_karlgalster_1;Z 20
-germ_destroyer_class1936_z20_karlgalster_2;Destroyer
-germ_s38b_shop;S 62
-germ_s38b_0;Schnellboot Typ 1939/40, S 62
-germ_s38b_1;S 62
-germ_s38b_2;Motor Torpedo Boat
-germ_s38_shop;S 38
-germ_s38_0;Schnellboot Typ 1939/40, S 38
-germ_s38_1;S 38
-germ_s38_2;Motor Torpedo Boat
-germ_rboot_r301_shop;R 301
-germ_rboot_r301_0;Räumboot R 301-class, R 301
-germ_rboot_r301_1;R 301
-germ_rboot_r301_2;Gunboat
-germ_type140_jaguar_shop;Jaguar (S 1)
-germ_type140_jaguar_0;Torpedoschnellboot Jaguar-Klasse (Typ 140), Jaguar (S 1)
-germ_type140_jaguar_1;Jaguar
-germ_type140_jaguar_2;Motor Torpedo Boat
-germ_s_100_s_174_class_shop;S 100 (1944)
-germ_s_100_s_174_class_0;Schnellboot Typ 1939/40, S 100 (1944)
-germ_s_100_s_174_class_1;S 100
-germ_s_100_s_174_class_2;Motor Torpedo Boat
-germ_mz_1_shop;MZ 1
-germ_mz_1_0;Mehrzweckboot Typ 1943, MZ 1
-germ_mz_1_1;MZ 1
-germ_mz_1_2;Gunboat
-germ_ls_class_shop;LS 3
-germ_ls_class_0;leichtes Schnellboot LS 3
-germ_ls_class_1;LS
-germ_ls_class_2;Motor Torpedo Boat
-germ_artilleriefahrprahm_typ_d1_shop;AF 99
-germ_artilleriefahrprahm_typ_d1_0;Artilleriefährprahm Typ D 1 | AF 99
-germ_artilleriefahrprahm_typ_d1_1;AF 99
-germ_artilleriefahrprahm_typ_d1_2;Gunboat
-germ_destroyer_class1936_z20_shop;Z 20 (1941)
-germ_destroyer_class1936_z20_0;Zerstörer Typ 1936, Z 20 Karl Galster, 1941
-germ_destroyer_class1936_z20_1;Z 20
-germ_destroyer_class1936_z20_2;Destroyer
-us_pt810_us_shop;PT-810
-us_pt810_us_0;94 ft aluminum motor torpedo boat, USS PT-810
-us_pt810_us_1;PT-810
-us_pt810_us_2;Motor Torpedo Boat
-us_pt810_uk_shop;PT-810
-us_pt810_uk_0;94 ft aluminum motor torpedo boat, USS PT-810
-us_pt810_uk_1;PT-810
-us_pt810_uk_2;Motor Torpedo Boat
-us_pt810_germany_shop;PT-810
-us_pt810_germany_0;94 ft aluminum motor torpedo boat, USS PT-810
-us_pt810_germany_1;PT-810
-us_pt810_germany_2;Motor Torpedo Boat
-us_pt810_japan_shop;PT-810
-us_pt810_japan_0;94 ft aluminum motor torpedo boat, USS PT-810
-us_pt810_japan_1;PT-810
-us_pt810_japan_2;Motor Torpedo Boat
 uk_centurion_action_x_shop;Centurion, Mk. 7 (CMT)
 uk_centurion_action_x_0;Tank, Medium Gun, Centurion, Mk. 7 (Centurion Mantletless Turret)
 uk_centurion_action_x_1;Centurion, Mk. 7
@@ -14440,10 +14961,6 @@ uk_chieftain_marksman_shop;Chieftain Mk. 10 Marksman
 uk_chieftain_marksman_0;Chieftain Mk. 10 Marksman
 uk_chieftain_marksman_1;Chieftain Mk. 10 Marksman
 uk_chieftain_marksman_2;SPAA
-ussr_t_62m1_shop;T-62M-1
-ussr_t_62m1_0;"Ob""yekt 166M-1 | T-62M-1"
-ussr_t_62m1_1;T-62M
-ussr_t_62m1_2;Medium Tank
 uk_vickers_mk_6_aa_mk_1_shop;A.5, Mk. I, A.A., Mk. I
 uk_vickers_mk_6_aa_mk_1_0;Tank, Light, Mk. VIa, A.5, Mk. I, A.A., Mk. I
 uk_vickers_mk_6_aa_mk_1_1;A.5, Mk. I, A.A., Mk. I
@@ -14476,18 +14993,6 @@ germ_mkpz_m48a2ga2_shop;◄ KPz M 48 A2 G A2
 germ_mkpz_m48a2ga2_0;◄ mittlerer Kampfpanzer M 48 A2 G A2
 germ_mkpz_m48a2ga2_1;◄ M 48 A2
 germ_mkpz_m48a2ga2_2;MBT
-ussr_bmp_2m_shop;BMP-2M
-ussr_bmp_2m_0;"Ob""yekt 675 | BMP-2M obr. 2005 g."
-ussr_bmp_2m_1;BMP-2
-ussr_bmp_2m_2;IFV
-ussr_bmp_2_shop;BMP-2D
-ussr_bmp_2_0;"Ob""yekt 675 | BMP-2D obr. 1982 g."
-ussr_bmp_2_1;BMP-2
-ussr_bmp_2_2;IFV
-ussr_bmp_3_shop;BMP-3
-ussr_bmp_3_0;"Ob""yekt 688A | BMP-3 obr. 2017 g."
-ussr_bmp_3_1;BMP-3
-ussr_bmp_3_2;IFV
 ussr_2s38_shop;2S38
 ussr_2s38_0;"2S38 ""Dyerivacziâ-PVO"""
 ussr_2s38_1;2S38
@@ -14548,14 +15053,6 @@ it_fiat_cm52_shop;CM 52 (M45C)
 it_fiat_cm52_0;Complesso da 12.7mm su Autocarro Medio CM 52
 it_fiat_cm52_1;CM 52 (M45C)
 it_fiat_cm52_2;SPAA
-it_as_42_47_shop;A.S. 42 (47/32)
-it_as_42_47_0;"Autocarro Sahariano Mod. 42 Tipo II ""Metropolitana"" (47/32)"
-it_as_42_47_1;A.S. 42
-it_as_42_47_2;SPG
-it_as_42_metropolitana_shop;A.S. 42 (20/65)
-it_as_42_metropolitana_0;"Autocarro Sahariano Mod. 42 Tipo II ""Metropolitana"" (20/65)"
-it_as_42_metropolitana_1;A.S. 42
-it_as_42_metropolitana_2;SPAA
 it_otomatic_shop;OTOMATIC
 it_otomatic_0;OTO Main Anti-aircraft Tank for Intercept and Combat
 it_otomatic_1;OTOMATIC
@@ -14588,10 +15085,6 @@ it_m26a1_pershing_shop;⛨ M26A1
 it_m26a1_pershing_0;⛨ Carro Armato Medio M26A1
 it_m26a1_pershing_1;⛨ M26A1
 it_m26a1_pershing_2;Medium Tank
-it_m60a1_ariete_shop;⛨ M60A1 (132ª Div.Cor.)
-it_m60a1_ariete_0;"⛨ M60A1 (132ª Divisione Corazzata ""Ariete"")"
-it_m60a1_ariete_1;⛨ M60A1
-it_m60a1_ariete_2;Medium Tank
 it_m109g_shop;⛨ 155/23 M109
 it_m109g_0;⛨ Obice semovente da 155/23 M109
 it_m109g_1;⛨ 155/23 M109
@@ -14608,10 +15101,6 @@ it_semovente_m41_75_18_shop;75/18 M. 41
 it_semovente_m41_75_18_0;Semovente da 75/18 su Scafo M. 41
 it_semovente_m41_75_18_1;75/18 M. 41
 it_semovente_m41_75_18_2;SPG
-it_semovente_m43_75_bersaglieri_shop;75/34 M. 42 M. (III Rgt.Bers.)
-it_semovente_m43_75_bersaglieri_0;Semovente da 75/34 su Scafo M. 42 M. (III Reggimento Bersglieri di Alessandria)
-it_semovente_m43_75_bersaglieri_1;75/34 M. 42 M.
-it_semovente_m43_75_bersaglieri_2;SPG
 it_semovente_m42_75_34_shop;75/34 M. 42 M.
 it_semovente_m42_75_34_0;Semovente da 75/34 su Scafo M. 42 M.
 it_semovente_m42_75_34_1;75/34 M. 42 M.
@@ -14652,10 +15141,6 @@ uk_challenger_mk_3_shop;Challenger 1, Mk. 3
 uk_challenger_mk_3_0;Tank, Combat, 120mm Gun, Challenger 1, Mk. 3
 uk_challenger_mk_3_1;Challenger 1, Mk. 3
 uk_challenger_mk_3_2;MBT
-it_l6_leone_shop;L. 40 (31 Reg.Car.)
-it_l6_leone_0;Carro Armato Leggero Mod. 40 (31º Reggimento Carri)
-it_l6_leone_1;L. 40
-it_l6_leone_2;Light Tank
 it_l6_shop;L. 40
 it_l6_0;Carro Armato Leggero Mod. 40
 it_l6_1;L. 40
@@ -14668,18 +15153,10 @@ it_oto_r3_t20_fa_shop;R3 T 20 FA-HS
 it_oto_r3_t20_fa_0;OTO R3 Capraia T 20 FA-HS
 it_oto_r3_t20_fa_1;R3 T 20 FA-HS
 it_oto_r3_t20_fa_2;SPAA
-it_m113a1_tow_shop;⛨ M113A1 (TOW)
-it_m113a1_tow_0;⛨ VTC M113A1 con sistema d'arma TOW (modifica M233)
-it_m113a1_tow_1;⛨ M113A1 (TOW)
-it_m113a1_tow_2;SPG
 it_otobreda_sidam_25_shop;SIDAM 25
 it_otobreda_sidam_25_0;Sistema Italiano Difesa Aerea Mobile, 25mm
 it_otobreda_sidam_25_1;SIDAM 25
 it_otobreda_sidam_25_2;SPAA
-it_semovente_m43_105_leoncello_shop;105/25 M. 43 (Grp.Cor.)
-it_semovente_m43_105_leoncello_0;"Semovente da 105/25 su Scafo M. 43 ""Bassotto"" (Gruppo Corazzato ""Leoncello"") ""Terremoto"""
-it_semovente_m43_105_leoncello_1;105/25 M. 43
-it_semovente_m43_105_leoncello_2;SPG
 it_semovente_m43_105_shop;105/25 M. 43
 it_semovente_m43_105_0;"Semovente da 105/25 su Scafo M. 43 ""Bassotto"""
 it_semovente_m43_105_1;105/25 M. 43
@@ -14704,22 +15181,10 @@ it_m11_39_shop;M. 39
 it_m11_39_0;Carro Armato Medio Mod. 39
 it_m11_39_1;M. 39
 it_m11_39_2;Medium Tank
-it_m14_41_47_40_shop;M. 41 (47/40)
-it_m14_41_47_40_0;Carro Armato Medio Mod. 41 (47/40)
-it_m14_41_47_40_1;M. 41
-it_m14_41_47_40_2;Medium Tank
 it_pzkpfw_III_ausf_N_shop;⛨ Pz.Kpfw. III N
 it_pzkpfw_III_ausf_N_0;⛨ Carro Armato Medio Panzerkampfwagen III Ausf. N
 it_pzkpfw_III_ausf_N_1;⛨ Pz.Kpfw. III N
 it_pzkpfw_III_ausf_N_2;Medium Tank
-it_pzkpfw_IV_ausf_G_shop;⛨ Pz.Kpfw. IV G
-it_pzkpfw_IV_ausf_G_0;⛨ Carro Armato Medio Panzerkampfwagen IV Ausf. G (Settembre 1942)
-it_pzkpfw_IV_ausf_G_1;⛨ Pz.Kpfw. IV G
-it_pzkpfw_IV_ausf_G_2;Medium Tank
-it_pzkpfw_VI_ausf_e_tiger_shop;◐ Tiger E (spät)
-it_pzkpfw_VI_ausf_e_tiger_0;◐ Panzerkampfwagen Tiger Ausf. E (spät)
-it_pzkpfw_VI_ausf_e_tiger_1;◐ Tiger E
-it_pzkpfw_VI_ausf_e_tiger_2;Heavy Tank
 it_stug_III_ausf_G_shop;⛨ 75/48 StuG III G
 it_stug_III_ausf_G_0;⛨ Semovente da 75/48 Sturmgeschütz III Ausf. G
 it_stug_III_ausf_G_1;⛨ 75/48 StuG III G
@@ -14776,58 +15241,10 @@ it_semovente_l40_shop;47/32 L. 40
 it_semovente_l40_0;Semovente da 47/32 su Scafo L. 40
 it_semovente_l40_1;47/32 L. 40
 it_semovente_l40_2;SPG
-ussr_t_72b3_2011_shop;T-72B3M (2016)
-ussr_t_72b3_2011_0;"Ob""yekt 184B | T-72B3M obr. 2016 g."
-ussr_t_72b3_2011_1;T-72B3
-ussr_t_72b3_2011_2;MBT
-ussr_t_72b3_2017_race_shop;T-72B3M (2014)
-ussr_t_72b3_2017_race_0;"Ob""yekt 184B | T-72B3M obr. 2014 g."
-ussr_t_72b3_2017_race_1;T-72B3
-ussr_t_72b3_2017_race_2;MBT
-ussr_t_72b_1989_shop;T-72B (Kontakt-5)
-ussr_t_72b_1989_0;"Ob""yekt 184 | T-72B obr. 1989 g."
-ussr_t_72b_1989_1;T-72B
-ussr_t_72b_1989_2;MBT
-ussr_t_72b_shop;T-72B (Kontakt-1)
-ussr_t_72b_0;"Ob""yekt 184 | T-72B obr. 1989/85 gg."
-ussr_t_72b_1;T-72B
-ussr_t_72b_2;MBT
-ussr_t_72m2_moderna_shop;T-72M2
-ussr_t_72m2_moderna_0;T-72M2 Moderna
-ussr_t_72m2_moderna_1;T-72M2
-ussr_t_72m2_moderna_2;MBT
-ussr_t_90a_shop;Т-90А
-ussr_t_90a_0;"Ob""yekt 188A1 | Т-90А obr. 2006 g. Vladimir"
-ussr_t_90a_1;Т-90A
-ussr_t_90a_2;MBT
-ussr_t_72av_turms_shop;▄ T-72AV (TURMS-T)
-ussr_t_72av_turms_0;"▄ Ob""yekt 176V | T-72AV obr. 2003 g. (TURMS-T)"
-ussr_t_72av_turms_1;▄ T-72AV
-ussr_t_72av_turms_2;MBT
-ussr_t_72a_shop;T-72A
-ussr_t_72a_0;"Ob""yekt 176 | T-72A obr. 1983 g."
-ussr_t_72a_1;T-72A
-ussr_t_72a_2;MBT
 ussr_su_85a_shop;SU-85A
 ussr_su_85a_0;SU-85A
 ussr_su_85a_1;SU-85A
 ussr_su_85a_2;SPG
-ussr_t_80b_shop;T-80B (AGAVA)
-ussr_t_80b_0;"Ob""yekt 219R | T-80B obr. 1982 g. (AGAVA)"
-ussr_t_80b_1;T-80B
-ussr_t_80b_2;MBT
-ussr_t_80bvm_shop;T-80BVM
-ussr_t_80bvm_0;"Ob""yekt 219RVM | T-80BVM obr. 2017 g."
-ussr_t_80bvm_1;T-80BVM
-ussr_t_80bvm_2;MBT
-mi_24v_shop;Mi-24V
-mi_24v_0;izd. 242 | Mi-24V
-mi_24v_1;Mi-24V
-mi_24v_2;Mi-24
-mi_24d_shop;▂ Mi-24D
-mi_24d_0;▂ izd. 246 | Mi-24D
-mi_24d_1;▂ Mi-24D
-mi_24d_2;▂ Mi-24
 mi_4av_shop;Mi-4AV
 mi_4av_0;Mi-4AV
 mi_4av_1;Mi-4AV
@@ -14856,10 +15273,6 @@ mb_175t_shop;M.B.175T
 mb_175t_0;M.B.175T
 mb_175t_1;M.B.175T
 mb_175t_2;M.B.175
-mig-15bis_ish_shop;MiG-15bis (IŠ)
-mig-15bis_ish_0;MiG-15bis (IŠ)
-mig-15bis_ish_1;MiG-15bis
-mig-15bis_ish_2;MiG-15
 f-100d_france_shop;☨ F-100D-10-NA
 f-100d_france_0;☨ F-100D-10-NA Super Sabre
 f-100d_france_1;☨ F-100D
@@ -14892,18 +15305,6 @@ sea_hawk_fga50_netherlands_shop;◘ Sea Hawk Mk. 50
 sea_hawk_fga50_netherlands_0;◘ Sea Hawk Mk. 50
 sea_hawk_fga50_netherlands_1;◘ Sea Hawk Mk. 50
 sea_hawk_fga50_netherlands_2;◘ Sea Hawk
-sa_313b_france_shop;SE 313 B
-sa_313b_france_0;Sud-Aviation | SE 313 B Alouette II
-sa_313b_france_1;SE 313 B
-sa_313b_france_2;SE 313
-sa_316b_shop;SA 316 B
-sa_316b_0;Sud-Aviation | SA 316 B Alouette III
-sa_316b_1;SA 316 B
-sa_316b_2;SA 316
-iar_316b_shop;I.A.R.316-B
-iar_316b_0;Industria Aeronautică Română | I.A.R.316-B
-iar_316b_1;I.A.R.316-B
-iar_316b_2;I.A.R.316
 sa_341f_shop;SA 341 F
 sa_341f_0;SA 341 F Gazelle
 sa_341f_1;SA 341 F
@@ -14940,14 +15341,6 @@ uk_stormer_hvm_shop;F.V.4333 (HVM)
 uk_stormer_hvm_0;Alvis Vickers | F.V.4333 | Combat Vehicle, Carrier, Full Tracked, High Velocity Missile System
 uk_stormer_hvm_1;F.V.4333 (HVM)
 uk_stormer_hvm_2;SPAA
-ussr_9p157_shop;9P157-2
-ussr_9p157_0;"Ob""yekt 699 sb.2 | BM 9P157-2 ""Khrizantema-S"""
-ussr_9p157_1;9P157-2
-ussr_9p157_2;SPG
-ussr_9p149_shop;9P149M
-ussr_9p149_0;"Ob""yekt 49 | 9P149M ""Šturm-S"""
-ussr_9p149_1;9P149M
-ussr_9p149_2;SPG
 uk_challenger_2_lep_shop;ATD Challenger 2
 uk_challenger_2_lep_0;Rheinmetall BAE Systems Land | Advanced Technology Demonstrator Challenger 2 Platform
 uk_challenger_2_lep_1;Challenger 2
@@ -14964,74 +15357,10 @@ uk_challenger_II_shop;Challenger 2 (2E)
 uk_challenger_II_0;Tank, Combat, 120mm Gun, Challenger 2 (2003) (Dorchester Level 2E)
 uk_challenger_II_1;Challenger 2
 uk_challenger_II_2;MBT
-it_ariete_amv_pt1_shop;Ariete (AMV PT 1)
-it_ariete_amv_pt1_0;C1 Ariete (Ammodernamento di Mezza Vita Prototipo 1)
-it_ariete_amv_pt1_1;Ariete
-it_ariete_amv_pt1_2;MBT
-it_c1_ariete_pso_shop;Ariete (PSO)
-it_c1_ariete_pso_0;C1 Ariete (Kit PSO Tipo II)
-it_c1_ariete_pso_1;Ariete
-it_c1_ariete_pso_2;MBT
-it_c1_ariete_shop;Ariete (WAR)
-it_c1_ariete_0;C1 Ariete (Kit WAR)
-it_c1_ariete_1;Ariete
-it_c1_ariete_2;MBT
-it_c1_ariete_preserie_shop;Ariete (preserie)
-it_c1_ariete_preserie_0;C1 Ariete (preserie)
-it_c1_ariete_preserie_1;Ariete
-it_c1_ariete_preserie_2;MBT
-ussr_t_80u_race_shop;T-80U
-ussr_t_80u_race_0;"Ob""yekt 219AS | T-80U obr. 1993 g. isp. Shvedskiy"
-ussr_t_80u_race_1;T-80U
-ussr_t_80u_race_2;MBT
-ussr_t_80ud_shop;T-80UD
-ussr_t_80ud_0;"Ob""yekt 478B | T-80UD obr. 1985 g. Bereza"
-ussr_t_80ud_1;T-80UD
-ussr_t_80ud_2;MBT
-ussr_t_80uk_shop;T-80UK
-ussr_t_80uk_0;"Ob""yekt 630A | T-80UK obr. 1992 g."
-ussr_t_80uk_1;T-80UK
-ussr_t_80uk_2;MBT
-ussr_t_80u_shop;T-80U
-ussr_t_80u_0;"Ob""yekt 219AS | T-80U obr. 1993 g. isp. Shvedskiy"
-ussr_t_80u_1;T-80U
-ussr_t_80u_2;MBT
 uk_challenger_II_yt_cup_2019_shop;␙ Challenger 2 (2E)
 uk_challenger_II_yt_cup_2019_0;␙ Tank, Combat, 120mm Gun, Challenger 2 (2003) (Dorchester Level 2E)
 uk_challenger_II_yt_cup_2019_1;␙ Challenger 2
 uk_challenger_II_yt_cup_2019_2;MBT
-ussr_t_80u_yt_cup_2019_shop;␙ T-80U
-ussr_t_80u_yt_cup_2019_0;"␙ Ob""yekt 219AS | T-80U obr. 1993 g. isp. Shvedskiy"
-ussr_t_80u_yt_cup_2019_1;␙ T-80U
-ussr_t_80u_yt_cup_2019_2;MBT
-ussr_bt_7_m_shop;BT-7M
-ussr_bt_7_m_0;A-8 | BT-7M
-ussr_bt_7_m_1;BT-7M
-ussr_bt_7_m_2;Light Tank
-ussr_bt_7a_f32_shop;BT-7A (F-32)
-ussr_bt_7a_f32_0;A-7 | BT-7A (F-32)
-ussr_bt_7a_f32_1;BT-7A (F-32)
-ussr_bt_7a_f32_2;Light Tank
-i_180_shop;I-180S
-i_180_0;I-180S
-i_180_1;I-180S
-i_180_2;I-180
-i_180_event01_shop;I-180S (defective)
-i_180_event01_0;I-180S (defective)
-i_180_event01_1;I-180S (defective)
-i_180_event01_2;I-180 (defective)
-i_180_event02_shop;I-180S (defective)
-i_180_event02_0;I-180S (defective)
-i_180_event02_1;I-180S (defective)
-i_180_event02_2;I-180 (defective)
-i_180_event03_shop;I-180S (defective)
-i_180_event03_0;I-180S (defective)
-i_180_event03_1;I-180S (defective)
-i_180_event03_2;I-180 (defective)
-i_180_event04_shop;I-180S (defective)
-i_180_event04_0;I-180S (defective)
-i_180_event04_1;I-180S (defective)
-i_180_event04_2;I-180 (defective)
 f-86k_late_shop;☨ F-86K
 f-86k_late_0;☨ F-86K Sabre
 f-86k_late_1;☨ F-86K
@@ -15040,30 +15369,6 @@ f-86k_late_italy_shop;⛨ F-86K
 f-86k_late_italy_0;⛨ F-86K Sabre
 f-86k_late_italy_1;⛨ F-86K
 f-86k_late_italy_2;⛨ F-86
-mig-21_f13_shop;MiG-21F-13
-mig-21_f13_0;izd. 74 | MiG-21F-13
-mig-21_f13_1;MiG-21F
-mig-21_f13_2;MiG-21
-mig-21_smt_shop;MiG-21SMT
-mig-21_smt_0;izd. 50 | MiG-21SMT
-mig-21_smt_1;MiG-21SMT
-mig-21_smt_2;MiG-21
-mig-21_s_shop;MiG-21S (R-13-300)
-mig-21_s_0;izd. 95 | MiG-21S (R-13-300)
-mig-21_s_1;MiG-21S
-mig-21_s_2;MiG-21
-mig-21_pfm_shop;MiG-21PFM (94)
-mig-21_pfm_0;izd. 94 | MiG-21PFM
-mig-21_pfm_1;MiG-21PFM
-mig-21_pfm_2;MiG-21
-mig_29_9_13_shop;MiG-29 (9-13)
-mig_29_9_13_0;izd. 9-13 | MiG-29
-mig_29_9_13_1;MiG-29
-mig_29_9_13_2;MiG-29
-mig_29smt_9_19_shop;MiG-29SMT
-mig_29smt_9_19_0;izd. 9-19R | MiG-29SMT
-mig_29smt_9_19_1;MiG-29SMT
-mig_29smt_9_19_2;MiG-29
 f-4m_fgr2_shop;Phantom F.G.R. Mk. 2
 f-4m_fgr2_0;McDonnell Douglas Corporation Model 98KD / British Aerospace Corporation | Phantom F.G.R. Mk. 2
 f-4m_fgr2_1;Phantom F.G.R. Mk. 2
@@ -15076,18 +15381,6 @@ f-4jk_shop;Phantom F. Mk. 3
 f-4jk_0;McDonnell Douglas Corporation Model 98NC / Naval Air Rework Facility | Phantom F. Mk. 3
 f-4jk_1;Phantom F. Mk. 3
 f-4jk_2;Phantom
-tiger_hap_france_shop;☨ Tigre HAP/F
-tiger_hap_france_0;☨ Tigre, Hélicoptère d'Appui Protection (Standard 1)
-tiger_hap_france_1;☨ Tigre HAP
-tiger_hap_france_2;☨ Tigre
-tiger_had_france_shop;☨ Tigre HAD/F (Bloc 1)
-tiger_had_france_0;☨ Tigre, Hélicoptère d'Appui Destruction (Bloc 1)
-tiger_had_france_1;☨ Tigre HAD
-tiger_had_france_2;☨ Tigre
-tiger_had_block2_france_shop;☨ Tigre HAD/F (Bloc 2)
-tiger_had_block2_france_0;☨ Tigre, Hélicoptère d'Appui Destruction (Bloc 2)
-tiger_had_block2_france_1;☨ Tigre HAD
-tiger_had_block2_france_2;☨ Tigre
 swift_f1_shop;Swift F. Mk. 1
 swift_f1_0;Swift F. Mk. 1
 swift_f1_1;Swift F. Mk. 1
@@ -15104,14 +15397,6 @@ tornado_gr4_shop;▄ Tornado G.R. Mk. 4
 tornado_gr4_0;▄ Panavia Aircraft PA-200 / BAE Systems | Tornado G.R. Mk. 4
 tornado_gr4_1;▄ Tornado G.R. Mk. 4
 tornado_gr4_2;▄ Tornado
-tornado_ids_it_shop;A-200A
-tornado_ids_it_0;Panavia Aircraft PA-200 | A-200A Tornado
-tornado_ids_it_1;A-200A
-tornado_ids_it_2;A-200
-tornado_ids_it_mod95_shop;A-200A (1995)
-tornado_ids_it_mod95_0;Panavia Aircraft PA-200 | A-200A Tornado (Batch 2) (1995)
-tornado_ids_it_mod95_1;A-200A
-tornado_ids_it_mod95_2;A-200
 tornado_f3_shop;▄ Tornado F. Mk. 3
 tornado_f3_0;▄ Panavia Aircraft PA-200 | Tornado F. Mk. 3 (Batch 2)
 tornado_f3_1;▄ Tornado F. Mk. 3
@@ -15120,10 +15405,6 @@ tornado_f3_late_shop;▄ Tornado F. Mk. 3 (AOP)
 tornado_f3_late_0;▄ Panavia Aircraft PA-200 | Tornado F. Mk. 3 (AMRAAM Optimisation Programme)
 tornado_f3_late_1;▄ Tornado F. Mk. 3
 tornado_f3_late_2;▄ Tornado
-tornado_adv_shop;⛨ Tornado F. Mk. 3
-tornado_adv_0;⛨ Panavia Aircraft PA-200 | Tornado F. Mk. 3 (Batch 2)
-tornado_adv_1;⛨ Tornado F. Mk. 3
-tornado_adv_2;⛨ Tornado
 harrier_gr1_shop;Harrier G.R. Mk. 1
 harrier_gr1_0;Harrier G.R. Mk. 1
 harrier_gr1_1;Harrier G.R. Mk. 1
@@ -15148,10 +15429,6 @@ av_8b_plus_italy_shop;⛨ AV-8B Plus
 av_8b_plus_italy_0;⛨ AV-8B Harrier II Plus
 av_8b_plus_italy_1;⛨ AV-8B
 av_8b_plus_italy_2;⛨ AV-8
-test_aircraft_2_engine_shop;Test Aircraft 2
-test_aircraft_2_engine_0;Test Aircraft 2
-test_aircraft_2_engine_1;Test Aircraft 2
-test_aircraft_2_engine_2;Test Aircraft 2
 mig-17_cuba_shop;MiG-17AS
 mig-17_cuba_0;MiG-17AS
 mig-17_cuba_1;MiG-17AS
@@ -15180,34 +15457,10 @@ mi_28nm_shop;Mi-28NM
 mi_28nm_0;Mi-28NM
 mi_28nm_1;Mi-28NM
 mi_28nm_2;Mi-28
-a_129_a_shop;A129 (ATP)
-a_129_a_0;A129 International (Armament Testbead Prototype)
-a_129_a_1;A129
-a_129_a_2;A129
-a_129_cbt_shop;AH-129C
-a_129_cbt_0;A129 Combat | AH-129C Mangusta
-a_129_cbt_1;A129CBT
-a_129_cbt_2;A129
-a_129_d_shop;AH-129D
-a_129_d_0;A129D | AH-129D Mangusta
-a_129_d_1;AH-129D
-a_129_d_2;AH-129
 t_129_atak_shop;T129 ATAK FAZ-1
 t_129_atak_0;T129 ATAK FAZ-1
 t_129_atak_1;T129 ATAK
 t_129_atak_2;T129
-a_109_eoa2_shop;MRH-109A
-a_109_eoa2_0;A109EOA-2 | MRH-109A
-a_109_eoa2_1;MRH-109A
-a_109_eoa2_2;MRH-109
-ab_205a_1_shop;UH-205A
-ab_205a_1_0;AB205A | UH-205A
-ab_205a_1_1;UH-205A
-ab_205a_1_2;UH-205
-tis_ma_shop;TIS (MA)
-tis_ma_0;TIS (MA)
-tis_ma_1;TIS (MA)
-tis_ma_2;TIS
 uk_vfm_5_shop;VFM5
 uk_vfm_5_0;Vickers Defense Systems + FMC Corperation Mk. 5
 uk_vfm_5_1;VFM5
@@ -15220,10 +15473,6 @@ uk_rooikat_105_td_shop;Rooikat 105
 uk_rooikat_105_td_0;Rooikat 105
 uk_rooikat_105_td_1;Rooikat 105
 uk_rooikat_105_td_2;Light Tank
-it_otobreda_sidam_25_mistral_shop;SIDAM 25 (Mistral)
-it_otobreda_sidam_25_mistral_0;Sistema Italiano Difesa Aerea Mobile, 25mm (Mistral)
-it_otobreda_sidam_25_mistral_1;SIDAM 25
-it_otobreda_sidam_25_mistral_2;SPAA
 germ_radpanzer_90_shop;EFz-Rad 8x8
 germ_radpanzer_90_0;Experimentalfahrzeug-Rad 8x8
 germ_radpanzer_90_1;EFz-Rad 8x8
@@ -15232,58 +15481,10 @@ germ_mkpz_m48a2c_shop;◄ KPz M 48 A2 C G
 germ_mkpz_m48a2c_0;◄ mittlerer Kampfpanzer M 48 A2 C G
 germ_mkpz_m48a2c_1;◄ M 48 A2 C
 germ_mkpz_m48a2c_2;Medium Tank
-ussr_object_775_shop;Ob. 775
-ussr_object_775_0;"Ob""yekt 775"
-ussr_object_775_1;Ob. 775
-ussr_object_775_2;SPG
-ussr_object_292_shop;Ob. 292
-ussr_object_292_0;"Ob""yekt 292"
-ussr_object_292_1;Ob. 292
-ussr_object_292_2;MBT
-ussr_object_435_shop;Ob. 435
-ussr_object_435_0;"Ob""yekt 435"
-ussr_object_435_1;Ob. 435
-ussr_object_435_2;Medium Tank
-ussr_object_279_shop;Ob. 279
-ussr_object_279_0;"Ob""yekt 279 obr. 1960 g."
-ussr_object_279_1;Ob. 279
-ussr_object_279_2;Heavy Tank
-ussr_object_685_shop;Ob. 685
-ussr_object_685_0;"Ob""yekt 685"
-ussr_object_685_1;Ob. 685
-ussr_object_685_2;Light Tank
 cn_bt_5_shop;☀ BT-5
 cn_bt_5_0;☀ BT-5 obr. 1933 g.
 cn_bt_5_1;☀ BT-5
 cn_bt_5_2;Light Tank
-cn_type_95_ha_go_shop;☀ Ha-Gō (late) (94 shiki)
-cn_type_95_ha_go_0;☀ 95 shiki kei sensha Ha-Gō (late) (94 shiki)
-cn_type_95_ha_go_1;☀ Ha-Gō
-cn_type_95_ha_go_2;Light Tank
-ussr_destroyer_7y_shop;Soobrazityel'nyj
-ussr_destroyer_7y_0;Pr. 7U, Soobrazityel'nyj, 1943
-ussr_destroyer_7y_1;Soobrazityel'nyj
-ussr_destroyer_7y_2;Destroyer
-ussr_pr_123bis_shop;TK-687
-ussr_pr_123bis_0;Malyj Torpediyj Katyer Proyekt 123bis Komsomolyets, TK-687
-ussr_pr_123bis_1;TK-687
-ussr_pr_123bis_2;Motor Torpedo Boat
-ussr_pr_123k_shop;TK-1
-ussr_pr_123k_0;Malyj Torpediyj Katyer Proyekt 123K, TK-1
-ussr_pr_123k_1;TK-1
-ussr_pr_123k_2;Motor Torpedo Boat
-ussr_cargo_ship_liberty_shop;Cargo ship
-ussr_cargo_ship_liberty_0;Cargo ship
-ussr_cargo_ship_liberty_1;Cargo ship
-ussr_cargo_ship_liberty_2;Cargo ship
-ussr_pr_183_shop;TK-20
-ussr_pr_183_0;Bol'shiye Torpyednyj Katyer Proyekt 183 Bolishyevik, TK-20
-ussr_pr_183_1;TK-20
-ussr_pr_183_2;Motor Torpedo Boat
-ussr_mkl_186_shop;BK-521
-ussr_mkl_186_0;Bronyekatyer Proyekt 186, BK-521
-ussr_mkl_186_1;BK-521
-ussr_mkl_186_2;Naval Armored Boat
 germ_mkpz_m47_shop;◄ KPz M 47 G
 germ_mkpz_m47_0;◄ mittlerer Kampfpanzer M 47 G
 germ_mkpz_m47_1;◄ M 47
@@ -15292,10 +15493,6 @@ ussr_valentine_mk_9_shop;▂ Valyentajn-IX
 ussr_valentine_mk_9_0;▂ Mk III Valyentajn-IX obr. 1943 g.
 ussr_valentine_mk_9_1;▂ Valyentajn-IX
 ussr_valentine_mk_9_2;Infantry tank
-ussr_a_12_mk_2_matilda_2A_F96_shop;▂ Matil'da-III (F-96)
-ussr_a_12_mk_2_matilda_2A_F96_0;▂ Mk II Matil'da-III obr. 1944 g. (F-96)
-ussr_a_12_mk_2_matilda_2A_F96_1;▂ Matil'da-III
-ussr_a_12_mk_2_matilda_2A_F96_2;Infantry tank
 uk_a_33_excelsior_shop;Commodore
 uk_a_33_excelsior_0;Tank, Heavy Assault, A.33/B, Commodore
 uk_a_33_excelsior_1;Commodore
@@ -15304,25 +15501,10 @@ uk_fv102_striker_shop;Striker
 uk_fv102_striker_0;F.V.102 | Striker
 uk_fv102_striker_1;Striker
 uk_fv102_striker_2;SPG
-uk_cargo_ship_liberty_shop;Cargo ship
-uk_cargo_ship_liberty_0;Cargo ship
-uk_cargo_ship_liberty_1;Cargo ship
-uk_cargo_ship_liberty_2;Cargo ship
-uk_cargo_ship_liberty_EC_0;Cargo ship
-uk_cargo_ship_liberty_EC_1;Cargo ship
-uk_cargo_ship_liberty_EC_2;Cargo ship
-it_p_26_40_shop;P. 40 (Grp.Cor.)
-it_p_26_40_0;"Carro Armato Pesante Mod. 40 (Gruppo Corazzato ""Leoncello"")"
-it_p_26_40_1;P. 40
-it_p_26_40_2;Medium Tank
 it_p_40_shop;P. 40
 it_p_40_0;Carro Armato Pesante Mod. 40
 it_p_40_1;P. 40
 it_p_40_2;Medium Tank
-it_m26_ariete_shop;⛨ M26 (132ª Div.Cor.)
-it_m26_ariete_0;"⛨ Carro Armato Medio M26 (132ª Divisione Corazzata ""Ariete"")"
-it_m26_ariete_1;⛨ M26
-it_m26_ariete_2;Medium Tank
 germ_m44_shop;◄ PzH M 44
 germ_m44_0;◄ Panzerhaubitze M 44
 germ_m44_1;◄ PzH M 44
@@ -15335,10 +15517,6 @@ germ_pzh_2000_shop;PzH 2000 A1
 germ_pzh_2000_0;Panzerhaubitze 2000 A1
 germ_pzh_2000_1;PzH 2000 A1
 germ_pzh_2000_2;SPH
-germ_le_kpz_m41_shop;◄ KPz M 41 (1965)
-germ_le_kpz_m41_0;◄ Cadillac Motor Car Division | leichter Kampfpanzer M 41 (1965)
-germ_le_kpz_m41_1;◄ M 41
-germ_le_kpz_m41_2;Light Tank
 germ_wiesel_2_adwc_shop;leFlaSys Ozelot
 germ_wiesel_2_adwc_0;leichtes Flugabwehrsystem mit Waffenträger Ozelot
 germ_wiesel_2_adwc_1;Ozelot
@@ -15363,10 +15541,6 @@ sw_pbil_m40_shop;pbil m/40
 sw_pbil_m40_0;pansarbil m/40
 sw_pbil_m40_1;pbil m/40
 sw_pbil_m40_2;Light Tank
-sw_k9_vidar_shop;◢ K9 (VIDAR)
-sw_k9_vidar_0;◢ Artillerivogn, K9 Thunder (Versatile Indirect Firing System)
-sw_k9_vidar_1;◢ K9
-sw_k9_vidar_2;SPG
 sw_bkan_1c_shop;15,5 cm bkan 1C
 sw_bkan_1c_0;15,5 cm bandkanon 1C
 sw_bkan_1c_1;bkan 1C
@@ -15375,14 +15549,6 @@ sw_strv_m31_shop;strv m/31
 sw_strv_m31_0;stridsvagn m/31
 sw_strv_m31_1;strv m/31
 sw_strv_m31_2;Light Tank
-sw_sav_m43_1944_shop;sav m/43 (1944)
-sw_sav_m43_1944_0;stormartillerivagn m/43 (1944)
-sw_sav_m43_1944_1;sav m/43 (1944)
-sw_sav_m43_1944_2;SPG
-sw_sav_m43_1946_shop;sav m/43 (1946)
-sw_sav_m43_1946_0;stormartillerivagn m/43 (1946)
-sw_sav_m43_1946_1;sav m/43 (1946)
-sw_sav_m43_1946_2;SPG
 sw_strv_105_shop;strv 105
 sw_strv_105_0;stridsvagn 105
 sw_strv_105_1;strv 105
@@ -15399,10 +15565,6 @@ sw_strv_74_shop;strv 74 V
 sw_strv_74_0;stridsvagn 74 V
 sw_strv_74_1;strv 74
 sw_strv_74_2;Medium Tank
-sw_pvkv_m43_1963_shop;pvkv m/43 (1963)
-sw_pvkv_m43_1963_0;pansarvärnskanonvagn m/43 (1963)
-sw_pvkv_m43_1963_1;pvkv m/43 (1963)
-sw_pvkv_m43_1963_2;SPG
 sw_lvkv_90c_shop;lvkv 9040C
 sw_lvkv_90c_0;luftvärnskanonvagn 9040C
 sw_lvkv_90c_1;lvkv 9040C
@@ -15439,10 +15601,6 @@ sw_strv_m38_shop;strv m/38
 sw_strv_m38_0;stridsvagn m/38
 sw_strv_m38_1;strv m/38
 sw_strv_m38_2;Light Tank
-ussr_bt_7_1937_td_shop;⋦ BT-7 (1937)
-ussr_bt_7_1937_td_0;⋦ A-7 | BT-7 obr. 1937 g.
-ussr_bt_7_1937_td_1;⋦ BT-7
-ussr_bt_7_1937_td_2;Light Tank
 sw_strv_m39_td_shop;⋦ strv m/39
 sw_strv_m39_td_0;⋦ stridsvagn m/39
 sw_strv_m39_td_1;⋦ strv m/39
@@ -15531,123 +15689,11 @@ sw_ikv_91_shop;ikv 91
 sw_ikv_91_0;infanterikanonvagn 91
 sw_ikv_91_1;ikv 91
 sw_ikv_91_2;Light Tank
-sw_pvkv_m43_1946_shop;pvkv m/43 (1946)
-sw_pvkv_m43_1946_0;pansarvärnskanonvagn m/43 (1946)
-sw_pvkv_m43_1946_1;pvkv m/43 (1946)
-sw_pvkv_m43_1946_2;SPG
 sw_strv_103_0_shop;strv 103-0
 sw_strv_103_0_0;stridsvagn 103-0
 sw_strv_103_0_1;strv 103-0
 sw_strv_103_0_2;MBT
-germ_kanonenboot_k2_shop;K 2
-germ_kanonenboot_k2_0;Kanoneerboot Typ 1937, K2, 1941
-germ_kanonenboot_k2_1;K 2
-germ_kanonenboot_k2_2;Gunboat
-germ_destroyer_class1924_leopard1932_shop;Leopard
-germ_destroyer_class1924_leopard1932_0;Torpedoboot Typ 1924, Leopard, 1932
-germ_destroyer_class1924_leopard1932_1;Leopard
-germ_destroyer_class1924_leopard1932_2;Destroyer
-germ_destroyer_class1924_leopard1932_EC_0;Torpedoboot Typ 1924, Leopard, 1932
-germ_destroyer_class1924_leopard1932_EC_1;Leopard
-germ_destroyer_class1924_leopard1932_EC_2;Destroyer
-germ_destroyer_class1939_t22_shop;T 22
-germ_destroyer_class1939_t22_0;Flottentorpedoboot Typ 1939, T 22, 1944
-germ_destroyer_class1939_t22_1;T 22
-germ_destroyer_class1939_t22_2;Destroyer
-germ_destroyer_class1939_t22_EC_0;Flottentorpedoboot Typ 1939, T 22, 1944
-germ_destroyer_class1939_t22_EC_1;T 22
-germ_destroyer_class1939_t22_EC_2;Destroyer
-germ_pr_206_shop;Arthur Becker (841)
-germ_pr_206_0;Torpedo-Schnellboot, Projekt 206, Arthur Becker (841)
-germ_pr_206_1;Arthur Becker
-germ_pr_206_2;Motor Torpedo Boat
-germ_cruiser_emden_1944_shop;Emden
-germ_cruiser_emden_1944_0;Emden, 1944
-germ_cruiser_emden_1944_1;Emden
-germ_cruiser_emden_1944_2;Light Cruiser
-germ_cruiser_emden_1944_EC_0;Emden, 1944
-germ_cruiser_emden_1944_EC_1;Emden
-germ_cruiser_emden_1944_EC_2;Light Cruiser
-ussr_pr_206_shop;TK-12
-ussr_pr_206_0;Bol'shiye Torpyednyj Katyer Proyekt 206, TK-12
-ussr_pr_206_1;TK-12
-ussr_pr_206_2;Motor Torpedo Boat
-ussr_pr_206_race_shop;TK-12
-ussr_pr_206_race_0;Bol'shiye Torpyednyj Katyer Proyekt 206, TK-12
-ussr_pr_206_race_1;TK-12
-ussr_pr_206_race_2;Motor Torpedo Boat
-ussr_destroyer_7y_stroyny_shop;Strojnyj
-ussr_destroyer_7y_stroyny_0;Pr. 7U, Strojnyj, 1945
-ussr_destroyer_7y_stroyny_1;Strojnyj
-ussr_destroyer_7y_stroyny_2;Destroyer
-ussr_1124_art_shop;BK-121
-ussr_1124_art_0;Bronyekatyer Proyekt 1124, BK-121 (1942)
-ussr_1124_art_1;BK-121
-ussr_1124_art_2;Armored Boat
-ussr_1124_rct_shop;BKA №31
-ussr_1124_rct_0;Bronyekatyer Artillyerijskiye Proyekt 1124, BKA №31 (16-M-13) (1944)
-ussr_1124_rct_1;BKA №31
-ussr_1124_rct_2;Armored Boat
-ussr_1124_ack_shop;BK-314
-ussr_1124_ack_0;Bronyekatyer Proyekt 1124, BK-314 (1945)
-ussr_1124_ack_1;BK-314
-ussr_1124_ack_2;Armored Boat
-ussr_bmo_shop;BMO-318
-ussr_bmo_0;Bronirovannij Malyen'kij Okhotnik Proyekt 194, Tip BMO, BMO-318
-ussr_bmo_1;BMO-318
-ussr_bmo_2;Gunboat
-ussr_d3_shop;TKA №11
-ussr_d3_0;Torpediyj Katyer Proyekt P-19-OK, Tip D-3, Syerii I, TKA №11
-ussr_d3_1;TKA №11
-ussr_d3_2;Motor Torpedo Boat
-ussr_g5_mtb_shop;TKA №12/1
-ussr_g5_mtb_0;Torpednyy kater Tip G-5, syeriâ X, TKA №12/1
-ussr_g5_mtb_1;TKA №12/1
-ussr_g5_mtb_2;Motor Torpedo Boat
-ussr_mo_4_shop;PK-216
-ussr_mo_4_0;Pogranichnyye Storozhyevyye Korabl' Proyekt 174, Tip MO-4, PK-216
-ussr_mo_4_1;MO-4
-ussr_mo_4_2;Gunboat
-ussr_od_200_shop;MO-361
-ussr_od_200_0;Malyj Okhotnik za Podvodnymi Lodkami Proyekt 200, Tip OD-200, MO-361
-ussr_od_200_1;OD-200
-ussr_od_200_2;Gunboat
-ussr_pr_191m_shop;BK-167
-ussr_pr_191m_0;Bronyekatyer Proyekt 191M, BK-167
-ussr_pr_191m_1;BK-167
-ussr_pr_191m_2;Armored Boat
-ussr_mbk_161_1944_shop;BK-516
-ussr_mbk_161_1944_0;Bronyekatyer Proyekt 161, BK-516 (1944)
-ussr_mbk_161_1944_1;BK-516
-ussr_mbk_161_1944_2;Naval Armored Boat
-ussr_mpk_122a_shop;MPK-143
-ussr_mpk_122a_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 122A, MPK-143
-ussr_mpk_122a_1;MPK-143
-ussr_mpk_122a_2;Subchaser
-ussr_mpk_163_shop;MPK-163
-ussr_mpk_163_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 122bis, MPK-163
-ussr_mpk_163_1;MPK-163
-ussr_mpk_163_2;Gunboat
-ussr_pr_206m_shop;T-98
-ussr_pr_206m_0;Bol'shiye Torpyednyj Katyer Proyekt 206M Shtorm, T-98
-ussr_pr_206m_1;T-98
-ussr_pr_206m_2;Motor Torpedo Boat
-ussr_pr_1204_late_shop;AK-508
-ussr_pr_1204_late_0;Artillyerijskiye Katyer Proyekt 1204 Shmel', AK-508
-ussr_pr_1204_late_1;AK-508
-ussr_pr_1204_late_2;Gunboat
-ussr_skr_pr159_shop;PLK-1
-ussr_skr_pr159_0;Protivolodochnyye Korabl' Proyekt 159, PLK-1
-ussr_skr_pr159_1;PLK-1
-ussr_skr_pr159_2;Patrol ship
-ussr_cruiser_krasnyi_kavkaz_shop;Krasnyj Kavkaz
-ussr_cruiser_krasnyi_kavkaz_0;Svetlana-class, Krasnyj Kavkaz, 1944
-ussr_cruiser_krasnyi_kavkaz_1;Krasnyj Kavkaz
-ussr_cruiser_krasnyi_kavkaz_2;Light Cruiser
-ussr_destroyer_frunze_shop;Frunzye
-ussr_destroyer_frunze_0;Novik-class, Frunzye, 1940
-ussr_destroyer_frunze_1;Frunzye
-ussr_destroyer_frunze_2;Destroyer
+//Bookmark
 germ_escort_typem1943_shop;M 601
 germ_escort_typem1943_0;Minensuchboot Typ 1943, M 601
 germ_escort_typem1943_1;M 601
@@ -15675,14 +15721,6 @@ ussr_ya_5m_shop;MK-25
 ussr_ya_5m_0;Minomyetnyj Katyer Tip Ya-5M, MK-25
 ussr_ya_5m_1;MK-25
 ussr_ya_5m_2;Motor Gun Boat
-ussr_pr_191_shop;BK-166
-ussr_pr_191_0;Bronyekatyer Proyekt 191, BK-166
-ussr_pr_191_1;BK-166
-ussr_pr_191_2;Armored Boat
-ussr_pr_123k_hydrofoils_shop;TK-996 (A-10bis)
-ussr_pr_123k_hydrofoils_0;Malyj Torpediyj Katyer Proyekt 123K, TK-996 (A-10bis)
-ussr_pr_123k_hydrofoils_1;TK-996 (A-10bis)
-ussr_pr_123k_hydrofoils_2;Motor Torpedo Boat
 germ_destroyer_class1936_z20_tutorial_shop;Destroyer
 germ_destroyer_class1936_z20_tutorial_0;Destroyer
 germ_destroyer_class1936_z20_tutorial_1;Destroyer
@@ -15694,19 +15732,15 @@ ussr_destroyer_moskva_shop;Moskvá
 ussr_destroyer_moskva_0;Lyeningrád-class, Moskvá, 1941
 ussr_destroyer_moskva_1;Moskvá
 ussr_destroyer_moskva_2;Destroyer
-ussr_cruiser_krasnyi_krim_shop;Krasnyj Krym
-ussr_cruiser_krasnyi_krim_0;Svetlana-class, Krasnyj Krym, 1943
-ussr_cruiser_krasnyi_krim_1;Krasnyj Krym
-ussr_cruiser_krasnyi_krim_2;Light Cruiser
 ussr_destroyer_pr20_tashkent_shop;Taškyent
 ussr_destroyer_pr20_tashkent_0;Pr. 20, Taškyent, 1942
 ussr_destroyer_pr20_tashkent_1;Taškyent
 ussr_destroyer_pr20_tashkent_2;Destroyer
 germ_cruiser_koln_shop;Köln
-germ_cruiser_koln_0;К-class, Köln, 1940
+germ_cruiser_koln_0;K-class, Köln, 1940
 germ_cruiser_koln_1;Köln
 germ_cruiser_koln_2;Light Cruiser
-germ_cruiser_koln_EC_0;К-class, Köln, 1940
+germ_cruiser_koln_EC_0;K-class, Köln, 1940
 germ_cruiser_koln_EC_1;Köln
 germ_cruiser_koln_EC_2;Light Cruiser
 ussr_destroyer_pr30_ognevoy_shop;Ognyevoj
@@ -15717,10 +15751,6 @@ ussr_destroyer_leningrad_shop;Lyeningrád
 ussr_destroyer_leningrad_0;Lyeningrád-class, Lyeningrád, 1944
 ussr_destroyer_leningrad_1;Lyeningrád
 ussr_destroyer_leningrad_2;Destroyer
-ussr_skr_pr35_shop;PLK-7
-ussr_skr_pr35_0;Protivolodochnyye Korabl' Proyekt 35, PLK-7
-ussr_skr_pr35_1;PLK-7
-ussr_skr_pr35_2;Patrol ship
 germ_destroyer_class1936a_mob_z32_shop;Z 33
 germ_destroyer_class1936a_mob_z32_0;Zerstörer Typ 1936 A (Mob), Z 33, 1943
 germ_destroyer_class1936a_mob_z32_1;Z 33
@@ -15736,10 +15766,6 @@ germ_cruiser_nurnberg_2;Light Cruiser
 germ_cruiser_nurnberg_EC_0;Nürnberg-class, Nürnberg, 1944
 germ_cruiser_nurnberg_EC_1;Nürnberg
 germ_cruiser_nurnberg_EC_2;Light Cruiser
-ussr_mpk_122bis_shop;MPK-173
-ussr_mpk_122bis_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 122bis, MPK-173
-ussr_mpk_122bis_1;MPK-173
-ussr_mpk_122bis_2;Gunboat
 ussr_skr_groza_1943_shop;Groza
 ussr_skr_groza_1943_0;Storozhyevyye Korabl' Proyekt 2, Tip Uragan, Syerii I , Groza (1943)
 ussr_skr_groza_1943_1;Groza
@@ -15756,21 +15782,6 @@ ussr_cruiser_chapayev_shop;Čapayev
 ussr_cruiser_chapayev_0;Pr. 68-K, Čapayev, 1950
 ussr_cruiser_chapayev_1;Čapayev
 ussr_cruiser_chapayev_2;Light Cruiser
-ussr_pr_1204_shop;AK-222
-ussr_pr_1204_0;Artillyerijskiye Katyer Proyekt 1204 Shmel', AK-222
-ussr_pr_1204_1;AK-222
-ussr_pr_1204_2;Armored Boat
-ussr_mbk_161_1943_shop;BK-501
-ussr_mbk_161_1943_0;Bronyekatyer Proyekt 161, BK-501 (1943)
-ussr_mbk_161_1943_1;BK-501
-ussr_mbk_161_1943_2;Naval Armored Boat
-jp_cargo_ship_kashino_shop;Cargo ship
-jp_cargo_ship_kashino_0;Cargo ship
-jp_cargo_ship_kashino_1;Cargo ship
-jp_cargo_ship_kashino_2;Cargo ship
-jp_cargo_ship_kashino_EC_0;Cargo ship
-jp_cargo_ship_kashino_EC_1;Cargo ship
-jp_cargo_ship_kashino_EC_2;Cargo ship
 germ_destroyer_class1934a_1944_shop;Z 15
 germ_destroyer_class1934a_1944_0;Zerstörer Typ 1934 A, Z 15 Erich Steinbrinck, 1944
 germ_destroyer_class1934a_1944_1;Z 15
@@ -15865,10 +15876,6 @@ germ_destroyer_class1924_iltis_shop;Luchs
 germ_destroyer_class1924_iltis_0;Raubtier-class, Luchs, 1932
 germ_destroyer_class1924_iltis_1;Luchs
 germ_destroyer_class1924_iltis_2;Destroyer
-ussr_destroyer_kerch_shop;Kyerč' (1917)
-ussr_destroyer_kerch_0;Eskadrennyy minonosets Tip Novik, 3rd syeriâ, Tip Fidonisi, Kerch' (1917)
-ussr_destroyer_kerch_1;Kyerč' (1917)
-ussr_destroyer_kerch_2;Destroyer
 germ_battlecruiser_von_der_tann_shop;SMS Von der Tann
 germ_battlecruiser_von_der_tann_0;SMS Von der Tann, 1914
 germ_battlecruiser_von_der_tann_1;SMS Von der Tann
@@ -15901,12 +15908,8 @@ ussr_destroyer_pr30bis_bezuprechnyi_shop;Byezupryečnyj
 ussr_destroyer_pr30bis_bezuprechnyi_0;Pr. 30bis, Byezupryečnyj, 1950
 ussr_destroyer_pr30bis_bezuprechnyi_1;Byezupryečnyj
 ussr_destroyer_pr30bis_bezuprechnyi_2;Destroyer
-germ_type143_bussard_shop;Bussard (S 64)
-germ_type143_bussard_0;Flugkörper-Schnellboot Albatros-Klasse (Typ 143), Bussard (S 64)
-germ_type143_bussard_1;Bussard
-germ_type143_bussard_2;Fast Attack Craft
 germ_cruiser_karlsruhe_shop;Karlsruhe
-germ_cruiser_karlsruhe_0;К-class, Karlsruhe, 1940
+germ_cruiser_karlsruhe_0;K-class, Karlsruhe, 1940
 germ_cruiser_karlsruhe_1;Karlsruhe
 germ_cruiser_karlsruhe_2;Light Cruiser
 ussr_battleship_parizhskaya_kommuna_shop;Parižskaâ Kommuna
@@ -16017,26 +16020,6 @@ ussr_destroyer_regele_ferdinand_class_letuchiy_shop;Lyetučij
 ussr_destroyer_regele_ferdinand_class_letuchiy_0;Regele Ferdinand-class, Lyetučij, 1945
 ussr_destroyer_regele_ferdinand_class_letuchiy_1;Lyetučij
 ussr_destroyer_regele_ferdinand_class_letuchiy_2;Destroyer
-dragonfly_a_shop;TOPTER
-dragonfly_a_0;TOPTER
-dragonfly_a_1;TOPTER
-dragonfly_a_2;TOPTER
-dragonfly_h_shop;TOPTER
-dragonfly_h_0;TOPTER
-dragonfly_h_1;TOPTER
-dragonfly_h_2;TOPTER
-dragonfly_99_na_shop;Dragonfly AB-99 (N)
-dragonfly_99_na_0;Dragonfly AB-99 (N)
-dragonfly_99_na_1;Dragonfly (N)
-dragonfly_99_na_2;Dragonfly (N)
-dragonfly_99_rda_shop;Dragonfly AB-99 (R)
-dragonfly_99_rda_0;Dragonfly AB-99 (R)
-dragonfly_99_rda_1;Dragonfly (R)
-dragonfly_99_rda_2;Dragonfly (R)
-ussr_pr_183_egypt_bm_21_shop;TK-20 (A-215)
-ussr_pr_183_egypt_bm_21_0;Bol'shiye Torpyednyj Katyer Proyekt 183 Bolishyevik, TK-20 (A-215 Grad-M)
-ussr_pr_183_egypt_bm_21_1;TK-20
-ussr_pr_183_egypt_bm_21_2;Motor Gun Boat
 fr_destroyer_aigle_class_aigle_shop;Aigle (X 13)
 fr_destroyer_aigle_class_aigle_0;Aigle-class, Aigle (X 13), 1942
 fr_destroyer_aigle_class_aigle_1;Aigle
@@ -16061,10 +16044,6 @@ ussr_cruiser_shcherbakov_shop;Ŝyerbakov
 ussr_cruiser_shcherbakov_0;Pr. 68bis-ZiF, Ŝyerbakov
 ussr_cruiser_shcherbakov_1;Ŝyerbakov
 ussr_cruiser_shcherbakov_2;Light Cruiser
-germ_s_700_s_701_shop;S 701
-germ_s_700_s_701_0;Schnellboot Typ 1944, S 701
-germ_s_700_s_701_1;S 701
-germ_s_700_s_701_2;Motor Torpedo Boat
 uk_centurion_mk_2_shop;Centurion, Mk. II
 uk_centurion_mk_2_0;Tank, Cruiser, A.41A, Centurion, Mk. II
 uk_centurion_mk_2_1;Centurion, Mk. II
@@ -16125,8 +16104,6 @@ fr_destroyer_marceau_class_marceau_shop;Marceau (D 601)
 fr_destroyer_marceau_class_marceau_0;Marceau (D 601), 1950
 fr_destroyer_marceau_class_marceau_1;Marceau
 fr_destroyer_marceau_class_marceau_2;Destroyer
-cargo_ship_norbris;Cargo ship
-tanker_nicolaos;Tanker
 germ_battleship_nassau_shop;SMS Nassau
 germ_battleship_nassau_0;Nassau-class, SMS Nassau, 1910
 germ_battleship_nassau_1;SMS Nassau

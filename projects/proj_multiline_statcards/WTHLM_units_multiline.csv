@@ -899,9 +899,10 @@ Tank, Medium, M4A3E2 (76) W Sherman ""Jumbo"""
 us_m4a3e2_76w_sherman_jumbo_1;M4A3E2 (76) W
 us_m4a3e2_76w_sherman_jumbo_2;Assault Tank
 
-us_m4a5_ram_2_shop;"▃ Ram, Mk. II ""B"""
+us_m4a5_ram_2_shop;"▃ Ram, Mk. II (CT39981)"
 us_m4a5_ram_2_0;"<color=#81c3fc>Montreal Locomotive Works</color>
-▃ Tank, Cruiser, Ram, Mk. II ""B"""
+▃ Tank, Cruiser, Ram, Mk. II
+<color=@currencyGoldColor>CT39981</color>"
 us_m4a5_ram_2_1;▃ Ram, Mk. II
 us_m4a5_ram_2_2;Medium Tank
 
@@ -3988,6 +3989,19 @@ Panzerjäger Tiger Ausf. B"
 germ_panzerjager_tiger_1;Pz.Jgr. Tiger
 germ_panzerjager_tiger_2;Tank Destroyer
 
+germ_spz_12_3_shop;SPz 12-3 (LGs M 40 A1)
+germ_spz_12_3_0;"<color=#81c3fc>Hispano-Suiza HS.30 <color=@commonTextColor>/</color> Hannoversche Maschinenbau</color>
+Schützenpanzer lang Typ 12-3 mit 106 mm Leichtgeschütz M 40 A1"
+germ_spz_12_3_1;SPz 12-3
+germ_spz_12_3_2;Light Tank
+
+germ_spz_oerlikon_raketenautomat_shop;SPz 12-3 (Typ 3Z 8DLa)
+germ_spz_oerlikon_raketenautomat_0;"<color=#81c3fc>Hispano-Suiza HS.30 <color=@commonTextColor>/</color> Hannoversche Maschinenbau</color>
+Erprobungs-Schützenpanzer lang Typ 12-3 mit 8 cm
+Zwillings-Raketenautomat Oerlikon Typ 3Z 8DLa"
+germ_spz_oerlikon_raketenautomat_1;SPz 12-3 (Typ 3Z 8DLa)
+germ_spz_oerlikon_raketenautomat_2;SPG
+
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 germ_marder_df_105_shop;◄ DF 105
 germ_marder_df_105_0;<color=#81c3fc>◄ Thyssen Henschel DF 105</color>
@@ -4011,19 +4025,6 @@ germ_marder_clovis_shop;◄ CLOVIS
 germ_marder_clovis_0;<color=#81c3fc>◄ Thyssen Henschel CLOVIS, FL 20, 105 mm</color>
 germ_marder_clovis_1;◄ CLOVIS
 germ_marder_clovis_2;Light Tank
-
-germ_spz_12_3_shop;SPz 12-3 (LGs M 40 A1)
-germ_spz_12_3_0;"<color=#81c3fc>Hispano-Suiza HS.30 <color=@commonTextColor>/</color> Hannoversche Maschinenbau</color>
-Schützenpanzer lang Typ 12-3 mit 106 mm Leichtgeschütz M 40 A1"
-germ_spz_12_3_1;SPz 12-3
-germ_spz_12_3_2;Light Tank
-
-germ_spz_oerlikon_raketenautomat_shop;SPz 12-3 (Typ 3Z 8DLa)
-germ_spz_oerlikon_raketenautomat_0;"<color=#81c3fc>Hispano-Suiza HS.30 <color=@commonTextColor>/</color> Hannoversche Maschinenbau</color>
-Erprobungs-Schützenpanzer lang Typ 12-3 mit 8 cm
-Zwillings-Raketenautomat Oerlikon Typ 3Z 8DLa"
-germ_spz_oerlikon_raketenautomat_1;SPz 12-3 (Typ 3Z 8DLa)
-germ_spz_oerlikon_raketenautomat_2;SPG
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 germ_begleitpanzer_57_shop;Begleit-Pz 57 mm
@@ -5435,8 +5436,8 @@ su_30sm2_1;Su-30SM2
 su_30sm2_2;Su-30
 
 su_30mk2v_venezuela_shop;▄ Su-30MK2
-su_30mk2v_venezuela_0;"▄ <color=#81c3fc>Kompaniâ «Sukhoj»</color>
-Su-30MK2"
+su_30mk2v_venezuela_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+▄ Su-30MK2"
 su_30mk2v_venezuela_1;▄ Su-30MK2
 su_30mk2v_venezuela_2;▄ Su-30
 
@@ -6412,16 +6413,14 @@ ussr_t_80ud_1;T-80UD
 ussr_t_80ud_2;MBT
 
 ussr_t_80ue1_shop;T-80U-Ye1
-ussr_t_80ue1_0;"<color=#81c3fc>Kirovskij zavod <color=@commonTextColor>/</color>
-Omskij zavod transportnogo mašinostroyeniâ</color>
+ussr_t_80ue1_0;"<color=#81c3fc>Kirovskij zavod <color=@commonTextColor>/</color> Omskij zavod transportnogo mašinostroyeniâ</color>
 <color=#5cae63>Ob""yekt 219AS-1</color>
 Tank T-80U-Ye1"
 ussr_t_80ue1_1;T-80U-Ye1
 ussr_t_80ue1_2;MBT
 
 ussr_t_80ue1_sm_shop;◍ Mariya's T-80U-Ye1
-ussr_t_80ue1_sm_0;"<color=#81c3fc>Kirovskij zavod <color=@commonTextColor>/</color>
-Omskij zavod transportnogo mašinostroyeniâ</color>
+ussr_t_80ue1_sm_0;"<color=#81c3fc>Kirovskij zavod <color=@commonTextColor>/</color> Omskij zavod transportnogo mašinostroyeniâ</color>
 <color=#5cae63>Ob""yekt 219AS-1</color>
 ◍ Tank T-80U-Ye1
 <color=@currencyGoldColor>Mariya's</color>"
@@ -6702,32 +6701,32 @@ ussr_mbk_161_1944_2;Naval Armored Boat
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 ussr_bmo_shop;BMO-318
-ussr_bmo_0;"<color=#81c3fc>Bronirovannij Malyen'kij Okhotnik Proyekt 194, Tip BMO</color>
+ussr_bmo_0;"<color=#fffa62>Bronirovannij Malyen'kij Okhotnik Proyekt 194, Tip BMO</color>
 BMO-318"
 ussr_bmo_1;BMO-318
 ussr_bmo_2;Gunboat
 
 ussr_skr_groza_1943_shop;Groza
-ussr_skr_groza_1943_0;"<color=#81c3fc>Storozhyevyye Korabl' Proyekt 2, Tip Uragan, Syerii I</color>
+ussr_skr_groza_1943_0;"<color=#fffa62>Storozhyevyye Korabl' Proyekt 2, Tip Uragan, Syerii I</color>
 Groza
 <color=#adadad>(1943)</color>"
 ussr_skr_groza_1943_1;Groza
 ussr_skr_groza_1943_2;Patrol ship
 
 ussr_mpk_201m_shop;PSKR-203
-ussr_mpk_201m_0;"<color=#81c3fc>Malen'kiy Protivolodochnyy Korabl' Proyekt 201M</color>
+ussr_mpk_201m_0;"<color=#fffa62>Malen'kiy Protivolodochnyy Korabl' Proyekt 201M</color>
 PSKR-203"
 ussr_mpk_201m_1;PSKR-203
 ussr_mpk_201m_2;Subchaser
 
 ussr_mpk_201k_shop;P-190
-ussr_mpk_201k_0;"<color=#81c3fc>Malen'kiy Protivolodochnyy Korabl' Proyekt 201</color>
+ussr_mpk_201k_0;"<color=#fffa62>Malen'kiy Protivolodochnyy Korabl' Proyekt 201</color>
 P-190"
 ussr_mpk_201k_1;P-190
 ussr_mpk_201k_2;Subchaser
 
 ussr_mpk_204_shop;MPK-88
-ussr_mpk_204_0;"<color=#81c3fc>Malen'kiy Protivolodochnyy Korabl' Proyekt 204</color>
+ussr_mpk_204_0;"<color=#fffa62>Malen'kiy Protivolodochnyy Korabl' Proyekt 204</color>
 MPK-88"
 ussr_mpk_204_1;MPK-88
 ussr_mpk_204_2;Subchaser

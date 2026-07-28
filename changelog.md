@@ -29,6 +29,7 @@ All dates are listed in DD-MM-YYYY format.
     - **Vautour II A / B** (folder) → **Vautour II B / A** because of the vehicle order.
     - Made the Chinese **SA 342 L** actually display its name correctly.
     - Removed "Akutan Zero" from the statcard name of the captured American **A6M2 (21 Gata)**.
+    - Corrected Russian transliteration to remove accents from letters. This is not the introduction of our new WTR-02 Cyrillic transliteration system, that will come soon but not now, but this accent issue was annoying me so I fixed it.
 
 ## 1.18.01 - 24-07-2026
 

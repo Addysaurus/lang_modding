@@ -8872,10 +8872,10 @@ A7He1"
 a7he1_1;A7He1
 a7he1_2;A7He
 
-me_210_v22_japan_shop;▅ Me 210 V22 (D.B. 601 F)
+me_210_v22_japan_shop;▅ Me 210 V22 (DB 601 F)
 me_210_v22_japan_0;"<color=#81c3fc>Messerschmitt <color=@commonTextColor>/</color> Kawasaki Kōkūki Kōgyō Akashi Kōjō</color>
 ▅ Me 210 V22
-<color=#adadad>(D.B. 601 F)</color>"
+<color=#adadad>(DB 9-601 F)</color>"
 me_210_v22_japan_1;▅ Me 210 V22
 me_210_v22_japan_2;▅ Me 210
 
@@ -9310,6 +9310,12 @@ Khērūng Bin Khab Lai Bāeb Thī 18Kh
 <color=#adadad>(2014)</color>"
 f-5th_thailand_1;B.Kh.18Kh
 f-5th_thailand_2;B.Kh.18
+
+hawk_209_indonesia_shop;◥ Hawk Mk. 209
+hawk_209_indonesia_0;"<color=#81c3fc>British Aerospace Hawk 209</color>
+◥ Hawk Mk. 209"
+hawk_209_indonesia_1;◥ Hawk Mk. 209
+hawk_209_indonesia_2;◥ Hawk
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_15j_shop;▅ F-15J (C4)
@@ -11544,6 +11550,7 @@ mašinostroyeniâ (VNII-100)</color>
 ␗ ISU-152 Zìxíng Huopào"
 cn_isu_152_1;␗ ISU-152
 cn_isu_152_2;SPG
+
 cn_m36_shop;☀ M36
 cn_m36_0;"<color=#81c3fc>United States Army Ordnance Department</color>
 ☀ M36 Qūzhú Pào Chē"
@@ -12504,7 +12511,7 @@ it_semovente_m43_75_bersaglieri_2;SPG
 
 it_semovente_m43_105_leoncello_shop;105/25 M. 43 (Grp.Cor.)
 it_semovente_m43_105_leoncello_0;"Semovente da 105/25 su Scafo M. 43 ""Bassotto""
-<color=@currencyGoldColor>Gruppo Corazzato ""Leoncello"", ""Terremoto""</color>"
+<color=@currencyGoldColor>Gruppo Corazzato ""Leoncello"", «Terremoto»</color>"
 it_semovente_m43_105_leoncello_1;105/25 M. 43
 it_semovente_m43_105_leoncello_2;SPG
 
@@ -12779,8 +12786,7 @@ it_ariete_amv_pt1_2;MBT
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 it_centauro_2_shop;Centauro II 120
-it_centauro_2_0;"<color=#81c3fc>Consortium Iveco-Oto Melara</color>
-Centauro II 120
+it_centauro_2_0;"<color=#81c3fc>Consortium Iveco-Oto Melara Centauro II 120</color>
 <color=#adadad>(Guardian H3)</color>"
 it_centauro_2_1;Centauro II 120
 it_centauro_2_2;Light Tank
@@ -13057,7 +13063,6 @@ Gercale (GR)
 <color=#adadad>(1949)</color>"
 it_destroyer_maestrale_class_grecale_1;Grecale
 it_destroyer_maestrale_class_grecale_2;Destroyer
-
 
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 it_destroyer_leone_class_shop;Leone (LE)
@@ -13697,6 +13702,12 @@ tiger_had_france_0;"☨ Tigre, Hélicoptère d'Appui Destruction
 tiger_had_france_1;☨ Tigre HAD
 tiger_had_france_2;☨ Tigre
 
+tiger_hac_france_shop;☨ Tigre HAC
+tiger_hac_france_0;"<color=#81c3fc>Eurocopter EC-665</color>
+☨ Tigre, Hélicoptère Anti Char"
+tiger_hac_france_1;☨ Tigre HAC
+tiger_hac_france_2;☨ Tigre
+
 tiger_had_block2_france_shop;☨ Tigre HAD/F (Bloc 2)
 tiger_had_block2_france_0;"☨ Tigre, Hélicoptère d'Appui Destruction
 <color=#adadad>(Bloc 2)</color>"
@@ -13704,12 +13715,6 @@ tiger_had_block2_france_1;☨ Tigre HAD
 tiger_had_block2_france_2;☨ Tigre
 
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 7
-tiger_hac_france_shop;☨ Tigre HAC
-tiger_hac_france_0;"<color=#81c3fc>Eurocopter EC-665</color>
-☨ Tigre, Hélicoptère Anti Char"
-tiger_hac_france_1;☨ Tigre HAC
-tiger_hac_france_2;☨ Tigre
-
 ah_64e_netherlands_shop;◘ AH-64E (v6)
 ah_64e_netherlands_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
 ◘ Helicopter, Attack, AH-64E Guardian Apache
@@ -13772,6 +13777,16 @@ fr_m4a1_sherman_fl_10_0;"☨ Char moyen M4A1 Sherman
 <color=#adadad>(tourelle FL 10)</color>"
 fr_m4a1_sherman_fl_10_1;☨ M4A1
 fr_m4a1_sherman_fl_10_2;Medium Tank
+
+fr_b1_ter_shop;B1 ter
+fr_b1_ter_0;Char de bataille B1 ter
+fr_b1_ter_1;B1 ter
+fr_b1_ter_2;Heavy Tank
+
+fr_b1_bis_shop;B1 bis
+fr_b1_bis_0;Char de bataille B1 bis
+fr_b1_bis_1;B1 bis
+fr_b1_bis_2;Heavy Tank
 
 fr_char_2c_shop;2C
 fr_char_2c_0;"<color=#81c3fc>Société Nouvelle des Forges et Chantiers de la Méditerranée</color>
@@ -13893,7 +13908,7 @@ fr_amx_elc_901_2;Light Tank
 
 fr_pzkpfw_V_panther_dauphine_shop;☨ Panther G (Besnier)
 fr_pzkpfw_V_panther_dauphine_0;"☨ Char Panther Mle. G
-<color=@currencyGoldColor>Escadron Autonome de Chars Besnier, ""Dauphiné""</color>"
+<color=@currencyGoldColor>Escadron Autonome de Chars Besnier, «Dauphiné»</color>"
 fr_pzkpfw_V_panther_dauphine_1;☨ Panther G
 fr_pzkpfw_V_panther_dauphine_2;Medium Tank
 
@@ -14943,7 +14958,7 @@ hkp9a_cb3_fc_1;hkp 9A
 hkp9a_cb3_fc_2;hkp 9
 
 mi_28a_sweden_shop;♛ Mi-28A
-mi_28a_sweden_0;"♛ Mi-28A"
+mi_28a_sweden_0;♛ Mi-28A
 mi_28a_sweden_1;♛ Mi-28A
 mi_28a_sweden_2;♛ Mi-28
 
@@ -15294,7 +15309,7 @@ sw_cv_90_mk4_1;CV90 MkIV
 sw_cv_90_mk4_2;IFV
 
 sw_t_80u_shop;♛ T 80 U
-sw_t_80u_0;"♛ T 80 U"
+sw_t_80u_0;♛ T 80 U
 sw_t_80u_1;♛ T 80 U
 sw_t_80u_2;MBT
 

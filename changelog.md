@@ -25,11 +25,14 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - **I.Pz.Kpfw. 750 (e)** → **I.-Pz.Kpfw. 750 (e)**. Statcard name → **Vauxhall Motors | Infanterie-Panzerkampfwagen Mk IV | Infanterie-Panzerkampfwagen 750 (e)**.
+    - **D.520** → **D.520-C1**. Statcard name → **Société nationale des constructions aéronautiques du Midi | D.520-C1**.
     - Corrected the Israeli nuke killstreak **F-16C-40L-CF** to an **F-16D-40-CF** and added it to the Hebrew package.
     - **Vautour II A / B** (folder) → **Vautour II B / A** because of the vehicle order.
     - Made the Chinese **SA 342 L** actually display its name correctly.
     - Removed "Akutan Zero" from the statcard name of the captured American **A6M2 (21 Gata)**.
     - Corrected Russian transliteration to remove accents from letters. This is not the introduction of our new WTR-02 Cyrillic transliteration system, that will come soon but not now, but this accent issue was annoying me so I fixed it.
+    - **Me 210 V22 (D.B. 601 F)** → **Me 210 V22 (DB 601 F)**. Statcard name → **Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22 (DB 9-601 F)**.
+        - Japanese package: Statcard name → **Messerschmitt / 川崎航空機工業明石工場 | Me 210 V22 (DB 9-601 F)**.
 
 ## 1.18.01 - 24-07-2026
 

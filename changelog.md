@@ -28,6 +28,7 @@ All dates are listed in DD-MM-YYYY format.
     - Corrected the Israeli nuke killstreak **F-16C-40L-CF** to an **F-16D-40-CF** and added it to the Hebrew package.
     - **Vautour II A / B** (folder) → **Vautour II B / A** because of the vehicle order.
     - Made the Chinese **SA 342 L** actually display its name correctly.
+    - Removed "Akutan Zero" from the statcard name of the captured American **A6M2 (21 Gata)**.
 
 ## 1.18.01 - 24-07-2026
 

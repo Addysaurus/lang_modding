@@ -348,6 +348,9 @@ jp_cargo_ship_kashino_2;Cargo ship
 jp_cargo_ship_kashino_EC_0;Cargo ship
 jp_cargo_ship_kashino_EC_1;Cargo ship
 jp_cargo_ship_kashino_EC_2;Cargo ship
+jp_daihatsu_landing_craft_0;Daihatsu-class landing craft
+jp_daihatsu_landing_craft_1;Landing craft
+jp_daihatsu_landing_craft_2;Landing craft
 cargo_ship_norbris;Cargo ship
 tanker_nicolaos;Tanker
 air_defence/germ_20mm_flak38_0;AAA
@@ -1166,30 +1169,6 @@ swe_152mm_for_land_battles_2;Pillbox
 us_152mm_for_land_battles_0;Pillbox
 us_152mm_for_land_battles_1;Pillbox
 us_152mm_for_land_battles_2;Pillbox
-us_aircraftcarrier_lexington_shop;USS Lexington (CV-2)
-us_aircraftcarrier_lexington_0;Lexington-class, USS Lexington (CV-2) (1942)
-us_aircraftcarrier_lexington_1;USS Lexington
-us_aircraftcarrier_lexington_2;Carrier
-us_aircraftcarrier_enterprise_shop;USS Enterprise (CV-6)
-us_aircraftcarrier_enterprise_0;Yorktown-class, USS Enterprise (CV-6) (1942)
-us_aircraftcarrier_enterprise_1;USS Enterprise
-us_aircraftcarrier_enterprise_2;Carrier
-us_aircraftcarrier_saratoga_shop;USS Saratoga (CV-3)
-us_aircraftcarrier_saratoga_0;Lexington-class, USS Saratoga (CV-3) (1942)
-us_aircraftcarrier_saratoga_1;USS Saratoga
-us_aircraftcarrier_saratoga_2;Carrier
-us_aircraftcarrier_forrestal_shop;USS Forrestal (CVA-59)
-us_aircraftcarrier_forrestal_0;USS Forrestal (CVA-59)
-us_aircraftcarrier_forrestal_1;USS Forrestal (CVA-59)
-us_aircraftcarrier_forrestal_2;Carrier
-uk_aircraftcarrier_illustrious_shop;HMS Illustrious (87)
-uk_aircraftcarrier_illustrious_0;Illustrious-class, HMS Illustrious (87)
-uk_aircraftcarrier_illustrious_1;HMS Illustrious
-uk_aircraftcarrier_illustrious_2;Carrier
-uk_aircraftcarrier_ark_royal_shop;HMS Ark Royal (R09)
-uk_aircraftcarrier_ark_royal_0;HMS Ark Royal (R09)
-uk_aircraftcarrier_ark_royal_1;HMS Ark Royal (R09)
-uk_aircraftcarrier_ark_royal_2;Carrier
 air_defence/us_ground_12mm_m2_noground_0;Machine Gun
 air_defence/us_ground_12mm_m2_noground_1;Machine Gun
 air_defence/us_ground_12mm_m2_noground_2;Machine Gun
@@ -1259,6 +1238,29 @@ ussr_ai_sam_launcher_9a310_2;SPAAM
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;KAMAZ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_1;KAMAZ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_2;Transport
+ussr_g5_mtb_landing_craft_0;G-5
+ussr_g5_mtb_landing_craft_1;G-5
+ussr_g5_mtb_landing_craft_2;Landing craft
+us_aircraftcarrier_lexington_shop;USS Lexington (CV-2)
+us_aircraftcarrier_lexington_0;Lexington-class, USS Lexington (CV-2) (1942)
+us_aircraftcarrier_lexington_1;USS Lexington
+us_aircraftcarrier_lexington_2;Carrier
+us_aircraftcarrier_enterprise_shop;USS Enterprise (CV-6)
+us_aircraftcarrier_enterprise_0;Yorktown-class, USS Enterprise (CV-6) (1942)
+us_aircraftcarrier_enterprise_1;USS Enterprise
+us_aircraftcarrier_enterprise_2;Carrier
+us_aircraftcarrier_saratoga_shop;USS Saratoga (CV-3)
+us_aircraftcarrier_saratoga_0;Lexington-class, USS Saratoga (CV-3) (1942)
+us_aircraftcarrier_saratoga_1;USS Saratoga
+us_aircraftcarrier_saratoga_2;Carrier
+us_aircraftcarrier_forrestal_shop;USS Forrestal (CVA-59)
+us_aircraftcarrier_forrestal_0;USS Forrestal (CVA-59)
+us_aircraftcarrier_forrestal_1;USS Forrestal
+us_aircraftcarrier_forrestal_2;Carrier
+ussr_aircraftcarrier_baku_shop;Baku
+ussr_aircraftcarrier_baku_0;Proyekt 11434, Baku
+ussr_aircraftcarrier_baku_1;Baku
+ussr_aircraftcarrier_baku_2;Carrier
 ships/ussr_aircraftcarrier_admiral_kuznetsov_shop;Admiral Flota Sovyetskogo Soûza Kuznyeczov
 ships/ussr_aircraftcarrier_admiral_kuznetsov_0;Čyernomorskij sudostroityel'nyj zavod | Tâžëlyj Avianyesuŝij Kryejsyer Proyekt 1143.5 Kryečyet | Admiral Flota Sovyetskogo Soûza Kuznyeczov
 ships/ussr_aircraftcarrier_admiral_kuznetsov_1;Admiral Flota Sovyetskogo Soûza Kuznyeczov
@@ -1267,6 +1269,14 @@ ussr_aircraftcarrier_admiral_kuznetsov_shop;Admiral Flota Sovyetskogo Soûza Kuz
 ussr_aircraftcarrier_admiral_kuznetsov_0;Čyernomorskij sudostroityel'nyj zavod | Tâžëlyj Avianyesuŝij Kryejsyer Proyekt 1143.5 Kryečyet | Admiral Flota Sovyetskogo Soûza Kuznyeczov
 ussr_aircraftcarrier_admiral_kuznetsov_1;Admiral Flota Sovyetskogo Soûza Kuznyeczov
 ussr_aircraftcarrier_admiral_kuznetsov_2;Destroyer
+uk_aircraftcarrier_illustrious_shop;HMS Illustrious (87)
+uk_aircraftcarrier_illustrious_0;Illustrious-class, HMS Illustrious (87)
+uk_aircraftcarrier_illustrious_1;HMS Illustrious
+uk_aircraftcarrier_illustrious_2;Carrier
+uk_aircraftcarrier_ark_royal_shop;HMS Ark Royal (R 09)
+uk_aircraftcarrier_ark_royal_0;HMS Ark Royal (R 09)
+uk_aircraftcarrier_ark_royal_1;HMS Ark Royal
+uk_aircraftcarrier_ark_royal_2;Carrier
 
 //NON-NATIONAL GROUPS
 shop/group/md_btr_80_group;Armadillo
@@ -3832,6 +3842,10 @@ us_elco_77ft_pt20_shop;PT-20
 us_elco_77ft_pt20_0;Elco 77 ft motor morpedo boat, USS PT-20
 us_elco_77ft_pt20_1;PT-20
 us_elco_77ft_pt20_2;Motor Torpedo Boat
+us_elco_77ft_pt59_shop;PT-59
+us_elco_77ft_pt59_0;Elco 77 ft motor torpedo boat, USS PT-59
+us_elco_77ft_pt59_1;PT-59
+us_elco_77ft_pt59_2;Motor Gun Boat
 us_huckins_78ft_pt95_shop;USS PT-95
 us_huckins_78ft_pt95_0;Huckins Yacht Corporation | Huckins 78'-class Motor Torpedo Boat | USS PT-95
 us_huckins_78ft_pt95_1;USS PT-95
@@ -3850,10 +3864,38 @@ us_elco_80ft_pt_boat_shop;PT-103
 us_elco_80ft_pt_boat_0;Elco 80 ft motor torpedo boat, USS PT-103
 us_elco_80ft_pt_boat_1;PT-103
 us_elco_80ft_pt_boat_2;Motor Torpedo Boat
+us_elco_80ft_pt174_shop;PT-174
+us_elco_80ft_pt174_0;Elco 80 ft motor torpedo boat, USS PT-174
+us_elco_80ft_pt174_1;PT-174
+us_elco_80ft_pt174_2;Motor Torpedo Boat
+us_elco_80ft_pt109_boat_shop;PT-109
+us_elco_80ft_pt109_boat_0;Elco 80 ft PT-109
+us_elco_80ft_pt109_boat_1;PT-109
+us_elco_80ft_pt109_boat_2;Motor Torpedo Boat
+us_elco_80ft_pt_boat_mod01_shop;PT-314
+us_elco_80ft_pt_boat_mod01_0;Elco 80 ft motor torpedo boat, USS PT-314
+us_elco_80ft_pt_boat_mod01_1;PT-314
+us_elco_80ft_pt_boat_mod01_2;Motor Torpedo Boat
+us_elco_80ft_pt_boat_mod02_shop;PT-565
+us_elco_80ft_pt_boat_mod02_0;Elco 80 ft motor torpedo boat, USS PT-565
+us_elco_80ft_pt_boat_mod02_1;PT-565
+us_elco_80ft_pt_boat_mod02_2;Motor Torpedo Boat
+us_elco_80ft_pt_boat_thunderbolt_shop;PT-556
+us_elco_80ft_pt_boat_thunderbolt_0;Elco 80 ft motor torpedo boat, USS PT-556
+us_elco_80ft_pt_boat_thunderbolt_1;PT-556
+us_elco_80ft_pt_boat_thunderbolt_2;Motor Torpedo Boat
 us_higgins_78ft_pt71_shop;PT-71
 us_higgins_78ft_pt71_0;Higgins 78 ft motor torpedo boat, USS PT-71
 us_higgins_78ft_pt71_1;PT-71
 us_higgins_78ft_pt71_2;Motor Torpedo Boat
+us_higgins_78ft_pt625_shop;PT-625
+us_higgins_78ft_pt625_0;Higgins 78 ft motor torpedo boat, USS PT-625
+us_higgins_78ft_pt625_1;PT-625
+us_higgins_78ft_pt625_2;Motor Torpedo Boat
+us_higgins_78ft_pt658_shop;PT-658
+us_higgins_78ft_pt658_0;Higgins 78 ft motor torpedo boat, USS PT-658
+us_higgins_78ft_pt658_1;PT-658
+us_higgins_78ft_pt658_2;Motor Torpedo Boat
 us_pc_451_shop;PC-497
 us_pc_451_0;Experimental PC-451-class submarine chaser, USS PC-497
 us_pc_451_1;PC-497
@@ -3866,32 +3908,8 @@ us_pc_466_carmi_shop;PC-466
 us_pc_466_carmi_0;173 ft PC-461-class submarine chaser, USS PC-466
 us_pc_466_carmi_1;PC-466
 us_pc_466_carmi_2;Gunboat
-us_elco_80ft_pt174_shop;PT-174
-us_elco_80ft_pt174_0;Elco 80 ft motor torpedo boat, USS PT-174
-us_elco_80ft_pt174_1;PT-174
-us_elco_80ft_pt174_2;Motor Torpedo Boat
-us_elco_80ft_pt109_boat_shop;PT-109
-us_elco_80ft_pt109_boat_0;Elco 80 ft PT-109
-us_elco_80ft_pt109_boat_1;PT-109
-us_elco_80ft_pt109_boat_2;Motor Torpedo Boat
 
 //USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
-us_elco_80ft_pt_boat_mod01_shop;PT-314
-us_elco_80ft_pt_boat_mod01_0;Elco 80 ft motor torpedo boat, USS PT-314
-us_elco_80ft_pt_boat_mod01_1;PT-314
-us_elco_80ft_pt_boat_mod01_2;Motor Torpedo Boat
-us_elco_80ft_pt_boat_mod02_shop;PT-565
-us_elco_80ft_pt_boat_mod02_0;Elco 80 ft motor torpedo boat, USS PT-565
-us_elco_80ft_pt_boat_mod02_1;PT-565
-us_elco_80ft_pt_boat_mod02_2;Motor Torpedo Boat
-us_higgins_78ft_pt625_shop;PT-625
-us_higgins_78ft_pt625_0;Higgins 78 ft motor torpedo boat, USS PT-625
-us_higgins_78ft_pt625_1;PT-625
-us_higgins_78ft_pt625_2;Motor Torpedo Boat
-us_elco_77ft_pt59_shop;PT-59
-us_elco_77ft_pt59_0;Elco 77 ft motor torpedo boat, USS PT-59
-us_elco_77ft_pt59_1;PT-59
-us_elco_77ft_pt59_2;Motor Gun Boat
 us_pgm_59_class_shop;Kim Qui (HQ 605)
 us_pgm_59_class_0;PGM-59-class motor gun boat, Kim Qui (HQ 605)
 us_pgm_59_class_1;Kim Qui (HQ 605)
@@ -3900,14 +3918,6 @@ us_lcm_zippo_shop;USS Z-2
 us_lcm_zippo_0;"Fincantieri Marinette Marine | Landing Craft, Mechanized, (Mk. 6) (Flamethrower) ""Zippo"" | USS Z-2"
 us_lcm_zippo_1;USS Z-2
 us_lcm_zippo_2;Monitor
-us_elco_80ft_pt_boat_thunderbolt_shop;PT-556
-us_elco_80ft_pt_boat_thunderbolt_0;Elco 80 ft motor torpedo boat, USS PT-556
-us_elco_80ft_pt_boat_thunderbolt_1;PT-556
-us_elco_80ft_pt_boat_thunderbolt_2;Motor Torpedo Boat
-us_higgins_78ft_pt658_shop;PT-658
-us_higgins_78ft_pt658_0;Higgins 78 ft motor torpedo boat, USS PT-658
-us_higgins_78ft_pt658_1;PT-658
-us_higgins_78ft_pt658_2;Motor Torpedo Boat
 us_flagstaff_pgh1_shop;USS Flagstaff (PGH-1)
 us_flagstaff_pgh1_0;USS Flagstaff (PGH-1)
 us_flagstaff_pgh1_1;USS Flagstaff
@@ -3926,6 +3936,10 @@ us_ashville_class_shop;USS Asheville (PGM-84)
 us_ashville_class_0;Asheville-class gunboat, USS Asheville (PGM-84)
 us_ashville_class_1;USS Asheville
 us_ashville_class_2;Gunboat
+us_ashville_class_douglas_shop;USS Douglas (PGM-100)
+us_ashville_class_douglas_0;Asheville-class gunboat, USS Douglas (PGM-100)
+us_ashville_class_douglas_1;USS Douglas
+us_ashville_class_douglas_2;Gunboat
 us_admirable_class_shop;USS Candid (AM-154)
 us_admirable_class_0;Admirable-class minesweeper, USS Candid (AM-154)
 us_admirable_class_1;USS Candid
@@ -3938,16 +3952,12 @@ us_pt811_shop;PT-811
 us_pt811_0;94 ft aluminum motor torpedo boat, USS PT-811
 us_pt811_1;PT-811
 us_pt811_2;Motor Torpedo Boat
-us_ashville_class_douglas_shop;USS Douglas (PGM-100)
-us_ashville_class_douglas_0;Asheville-class gunboat, USS Douglas (PGM-100)
-us_ashville_class_douglas_1;USS Douglas
-us_ashville_class_douglas_2;Gunboat
-
-//USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 us_pt810_shop;PT-810
 us_pt810_0;94 ft aluminum motor torpedo boat, USS PT-810
 us_pt810_1;PT-810
 us_pt810_2;Motor Torpedo Boat
+
+//USA COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 us_frigate_tacoma_shop;USS Hoquiam (PF-5)
 us_frigate_tacoma_0;Tacoma-class frigate, USS Hoquiam (PF-5)
 us_frigate_tacoma_1;USS Hoquiam
@@ -3964,6 +3974,10 @@ us_lcs_l_3_shop;LCS(L)(3)-1
 us_lcs_l_3_0;Landing Craft Support (Large) (Mk. 3), USS LCS(L)(3)-1
 us_lcs_l_3_1;LCS(L)(3)-1
 us_lcs_l_3_2;Gunboat
+us_frigate_buckley_class_coolbaugh_shop;USS Coolbaugh (DE-217)
+us_frigate_buckley_class_coolbaugh_0;Buckley-class, USS Coolbaugh (DE-217)
+us_frigate_buckley_class_coolbaugh_1;USS Coolbaugh
+us_frigate_buckley_class_coolbaugh_2;Frigate
 us_cyclone_class_cyclone_shop;USS Cyclone (PC-1)
 us_cyclone_class_cyclone_0;Cyclone-class patrol boat, USS Cyclone (PC-1)
 us_cyclone_class_cyclone_1;USS Cyclone (PC-1)
@@ -5554,6 +5568,10 @@ germ_ls_class_shop;LS 3
 germ_ls_class_0;leichtes Schnellboot LS 3
 germ_ls_class_1;LS
 germ_ls_class_2;Motor Torpedo Boat
+germ_ls4_class_shop;LS 4
+germ_ls4_class_0;leichtes Schnellboot LS 4
+germ_ls4_class_1;LS 4
+germ_ls4_class_2;Motor Torpedo Boat
 germ_s38_shop;S 38
 germ_s38_0;Schnellboot Typ 1939/40, S 38
 germ_s38_1;S 38
@@ -5594,10 +5612,18 @@ germ_rboot_r301_shop;R 301
 germ_rboot_r301_0;Räumboot R 301-class, R 301
 germ_rboot_r301_1;R 301
 germ_rboot_r301_2;Gunboat
+germ_km5_shop;KS 5
+germ_km5_0;kleines Schnellboot Typ KS, KS 5
+germ_km5_1;Type KS
+germ_km5_2;Motor Torpedo Boat
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+germ_pr_131_shop;Nr. 401
+germ_pr_131_0;"kleines Torpedoschnellboot Projekt 131 ""Libelle"" | Nr. 401"
+germ_pr_131_1;Nr. 401
+germ_pr_131_2;Motor Torpedo Boat
 germ_sf40_schwere_flakkampffaehre_shop;SF 05
 germ_sf40_schwere_flakkampffaehre_0;Siebelfähre 40 schwerer Flakkampffähre, SF 05
 germ_sf40_schwere_flakkampffaehre_1;SF 40 Schwer
@@ -5620,6 +5646,10 @@ germ_mz_1_shop;MZ 1
 germ_mz_1_0;Mehrzweckboot Typ 1943, MZ 1
 germ_mz_1_1;MZ 1
 germ_mz_1_2;Gunboat
+germ_minelayer_drache_shop;Drache
+germ_minelayer_drache_0;R-1-class, Drache
+germ_minelayer_drache_1;Drache
+germ_minelayer_drache_2;Minesweeper
 germ_artilleriefahrprahm_typ_d1_shop;AF 99
 germ_artilleriefahrprahm_typ_d1_0;Artilleriefährprahm Typ D 1 | AF 99
 germ_artilleriefahrprahm_typ_d1_1;AF 99
@@ -5628,10 +5658,30 @@ germ_artilleriefahrprahm_typ_d3_shop;AF 128
 germ_artilleriefahrprahm_typ_d3_0;Artilleriefährprahm Typ D 3 | AF 128
 germ_artilleriefahrprahm_typ_d3_1;AF 128
 germ_artilleriefahrprahm_typ_d3_2;Gunboat
+germ_escort_typem1935_shop;M 17
+germ_escort_typem1935_0;Minensuchboot Typ 1935, M 17
+germ_escort_typem1935_1;M 17
+germ_escort_typem1935_2;Minesweeper
+germ_escort_typem1943_shop;M 601
+germ_escort_typem1943_0;Minensuchboot Typ 1943, M 601
+germ_escort_typem1943_1;M 601
+germ_escort_typem1943_2;Minesweeper
+germ_rdm242_shop;Krischan der Große
+germ_rdm242_0;Flakträger Krischan der Große, 1943
+germ_rdm242_1;Krischan der Große
+germ_rdm242_2;Motor Gun Boat
 germ_schutze_class_shop;Schütze (M 1062)
 germ_schutze_class_0;Abeking & Rasmussen | schnelles Minensuchboot Schütze-Klasse (Typ 340) | Schütze (M 1062)
 germ_schutze_class_1;Schütze (M 1062)
 germ_schutze_class_2;Minesweeper
+germ_kondor2_class_shop;Bernau (343)
+germ_kondor2_class_0;Projekt 89.2 UR, Bernau (343), 1985
+germ_kondor2_class_1;Bernau
+germ_kondor2_class_2;Minesweeper
+germ_skr_pr50_karl_marx_shop;Karl Marx (122)
+germ_skr_pr50_karl_marx_0;Fregatte, Projekt 50, Karl Marx (122) (1962)
+germ_skr_pr50_karl_marx_1;Pr. 50
+germ_skr_pr50_karl_marx_2;Patrol ship
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 germ_type143_albatros_shop;Albatros (S 61)
@@ -5650,10 +5700,26 @@ germ_type140_jaguar_shop;Jaguar (S 1)
 germ_type140_jaguar_0;Torpedoschnellboot Jaguar-Klasse (Typ 140), Jaguar (S 1)
 germ_type140_jaguar_1;Jaguar
 germ_type140_jaguar_2;Motor Torpedo Boat
+germ_frigate_koln_shop;Köln (F 220)
+germ_frigate_koln_0;Fregatte Köln-Klasse (Typ 120), Köln (F 220)
+germ_frigate_koln_1;Köln (F 220)
+germ_frigate_koln_2;Frigate
+germ_frigate_koln_lubeck_shop;Lübeck (F 224)
+germ_frigate_koln_lubeck_0;Fregatte Köln-Klasse (Typ 120), Lübeck (F 224) (1966)
+germ_frigate_koln_lubeck_1;Lübeck (F 224)
+germ_frigate_koln_lubeck_2;Frigate
 germ_pr1331_shop;Parchim (242)
 germ_pr1331_0;Peene-Werft | U-Boot-Abwehrschiff Projekt 133.1 | Parchim (242)
 germ_pr1331_1;Parchim (242)
 germ_pr1331_2;Minesweeper
+germ_type152_hugin_shop;Hugin (P 6191)
+germ_type152_hugin_0;Schnellboot Typ 152, Hugin (P 6191)
+germ_type152_hugin_1;Hugin
+germ_type152_hugin_2;Motor Torpedo Boat
+germ_type153_pfeil_shop;Pfeil (P 6193)
+germ_type153_pfeil_0;Flugkörper-Schnellboot, Ferocity-Klasse, Pfeil (P 6193)
+germ_type153_pfeil_1;Pfeil
+germ_type153_pfeil;Motor Torpedo Boat
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 germ_destroyer_class1924_leopard1932_shop;Leopard
@@ -5663,6 +5729,17 @@ germ_destroyer_class1924_leopard1932_2;Destroyer
 germ_destroyer_class1924_leopard1932_EC_0;Torpedoboot Typ 1924, Leopard, 1932
 germ_destroyer_class1924_leopard1932_EC_1;Leopard
 germ_destroyer_class1924_leopard1932_EC_2;Destroyer
+germ_destroyer_class1934a_1944_shop;Z 15
+germ_destroyer_class1934a_1944_0;Zerstörer Typ 1934 A, Z 15 Erich Steinbrinck, 1944
+germ_destroyer_class1934a_1944_1;Z 15
+germ_destroyer_class1934a_1944_2;Destroyer
+germ_destroyer_class1934a_1940_shop;Z 5
+germ_destroyer_class1934a_1940_0;Zerstörer Typ 1934 A, Z 5 Paul Jacobi, 1940
+germ_destroyer_class1934a_1940_1;Z 5
+germ_destroyer_class1934a_1940_2;Destroyer
+germ_destroyer_class1934a_1940_EC_0;Zerstörer Typ 1934 A, Z 5 Paul Jacobi, 1940
+germ_destroyer_class1934a_1940_EC_1;Z 5
+germ_destroyer_class1934a_1940_EC_2;Destroyer
 germ_kanonenboot_k4_lorelei_shop;K 4
 germ_kanonenboot_k4_lorelei_0;Société Anonyme John Cockerill à Seraing (Belgique), Chantier Naval de Hoboken / N.V. Dok en Werf Maatschappij Wilton-Fijenoord, Bau-Nr. 686 | Kanonenboot | K 4 (1943)
 germ_kanonenboot_k4_lorelei_1;K 4
@@ -5678,6 +5755,18 @@ germ_destroyer_class1939_t22_2;Destroyer
 germ_destroyer_class1939_t22_EC_0;Flottentorpedoboot Typ 1939, T 22, 1944
 germ_destroyer_class1939_t22_EC_1;T 22
 germ_destroyer_class1939_t22_EC_2;Destroyer
+germ_destroyer_class1939_t31_shop;T 28
+germ_destroyer_class1939_t31_0;Flottentorpedoboot Typ 1939, T 28, 1944
+germ_destroyer_class1939_t31_1;T 28
+germ_destroyer_class1939_t31_2;Destroyer
+germ_destroyer_class1924_iltis_shop;Luchs
+germ_destroyer_class1924_iltis_0;Raubtier-class, Luchs, 1932
+germ_destroyer_class1924_iltis_1;Luchs
+germ_destroyer_class1924_iltis_2;Destroyer
+germ_destroyer_class1924_jaguar1941_shop;Jaguar
+germ_destroyer_class1924_jaguar1941_0;Raubtier-class, Jaguar, 1941
+germ_destroyer_class1924_jaguar1941_1;Jaguar
+germ_destroyer_class1924_jaguar1941_2;Destroyer
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 germ_destroyer_class1936_z20_shop;Z 20 (1941)
@@ -5688,6 +5777,33 @@ germ_destroyer_class1936_z20_karlgalster_shop;Z 20 (1945)
 germ_destroyer_class1936_z20_karlgalster_0;Zerstörer Typ 1936, Z 20 Karl Galster, 1945
 germ_destroyer_class1936_z20_karlgalster_1;Z 20
 germ_destroyer_class1936_z20_karlgalster_2;Destroyer
+germ_destroyer_class1936_z20_tutorial_shop;Destroyer
+germ_destroyer_class1936_z20_tutorial_0;Destroyer
+germ_destroyer_class1936_z20_tutorial_1;Destroyer
+germ_destroyer_class1936_z20_tutorial_2;Destroyer
+germ_destroyer_class1936_z20_tutorial_EC_0;Destroyer
+germ_destroyer_class1936_z20_tutorial_EC_1;Destroyer
+germ_destroyer_class1936_z20_tutorial_EC_2;Destroyer
+germ_destroyer_class1936a_mob_z32_shop;Z 33
+germ_destroyer_class1936a_mob_z32_0;Zerstörer Typ 1936 A (Mob), Z 33, 1943
+germ_destroyer_class1936a_mob_z32_1;Z 33
+germ_destroyer_class1936a_mob_z32_2;Destroyer
+germ_destroyer_class1936b_shop;Z 35
+germ_destroyer_class1936b_0;Zerstörer Typ 1936 B, Z 35, 1943
+germ_destroyer_class1936b_1;Z 35
+germ_destroyer_class1936b_2;Destroyer
+germ_destroyer_class1936c_z46_shop;Z 46
+germ_destroyer_class1936c_z46_0;Zerstörer Typ 1936 C, Z46, 1945
+germ_destroyer_class1936c_z46_1;Z 46
+germ_destroyer_class1936c_z46_2;Destroyer
+germ_destroyer_class1936c_z47_shop;Z 47
+germ_destroyer_class1936c_z47_0;Zerstörer Typ 1936 C, Z 47, 1945
+germ_destroyer_class1936c_z47_1;Z 47
+germ_destroyer_class1936c_z47_2;Destroyer
+germ_destroyer_class1936a_z25_shop;Z 25
+germ_destroyer_class1936a_z25_0;Zerstörer Typ 1936 A, Z 25, 1945
+germ_destroyer_class1936a_z25_1;Z 25
+germ_destroyer_class1936a_z25_2;Destroyer
 germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
 germ_destroyer_fletcher_zerstorer4_0;Consolidated Steel Corporation | Zerstörer 1-Klasse (Typ 119) | Z 4 (D 178)
 germ_destroyer_fletcher_zerstorer4_1;Z 4
@@ -5702,6 +5818,10 @@ germ_destroyer_class1944_z52_shop;Z 52
 germ_destroyer_class1944_z52_0;"Deutsche Schiff- und Maschinenbau A.G. ""Weser"" | Zerstörer Typ 1944 | Z 52"
 germ_destroyer_class1944_z52_1;Z 52
 germ_destroyer_class1944_z52_2;Destroyer
+germ_cruiser_elbing_shop;SMS Elbing
+germ_cruiser_elbing_0;Pillau-class, SMS Elbing, 1915
+germ_cruiser_elbing_1;SMS Elbing
+germ_cruiser_elbing_2;Light Cruiser
 germ_cruiser_emden_1944_shop;Emden
 germ_cruiser_emden_1944_0;Emden, 1944
 germ_cruiser_emden_1944_1;Emden
@@ -5715,7 +5835,36 @@ germ_destroyer_lutjens_class_lutjens_shop;Lütjens (D 185)
 germ_destroyer_lutjens_class_lutjens_0;Bath Iron Works | Zerstörer Lütjens-Klasse (Typ 103) | Lütjens (D 185)
 germ_destroyer_lutjens_class_lutjens_1;Lütjens
 germ_destroyer_lutjens_class_lutjens_2;Destroyer
-
+germ_cruiser_leipzig_shop;Leipzig
+germ_cruiser_leipzig_0;Leipzig-class, Leipzig, 1944
+germ_cruiser_leipzig_1;Leipzig
+germ_cruiser_leipzig_2;Light Cruiser
+germ_cruiser_nurnberg_shop;Nürnberg
+germ_cruiser_nurnberg_0;Leipzig-class, Nürnberg, 1944
+germ_cruiser_nurnberg_1;Nürnberg
+germ_cruiser_nurnberg_2;Light Cruiser
+germ_cruiser_nurnberg_EC_0;Nürnberg-class, Nürnberg, 1944
+germ_cruiser_nurnberg_EC_1;Nürnberg
+germ_cruiser_nurnberg_EC_2;Light Cruiser
+germ_cruiser_admiral_hipper_shop;Admiral Hipper
+germ_cruiser_admiral_hipper_0;Admiral Hipper-class, Admiral Hipper, 1942
+germ_cruiser_admiral_hipper_1;Admiral Hipper
+germ_cruiser_admiral_hipper_2;Heavy Cruiser
+germ_cruiser_prinz_eugen_shop;Prinz Eugen
+germ_cruiser_prinz_eugen_0;Admiral Hipper-class, Prinz Eugen, 1945
+germ_cruiser_prinz_eugen_1;Prinz Eugen
+germ_cruiser_prinz_eugen_2;Heavy Cruiser
+germ_cruiser_koln_shop;Köln
+germ_cruiser_koln_0;K-class, Köln, 1940
+germ_cruiser_koln_1;Köln
+germ_cruiser_koln_2;Light Cruiser
+germ_cruiser_koln_EC_0;K-class, Köln, 1940
+germ_cruiser_koln_EC_1;Köln
+germ_cruiser_koln_EC_2;Light Cruiser
+germ_cruiser_karlsruhe_shop;Karlsruhe
+germ_cruiser_karlsruhe_0;K-class, Karlsruhe, 1940
+germ_cruiser_karlsruhe_1;Karlsruhe
+germ_cruiser_karlsruhe_2;Light Cruiser
 germ_cruiser_admiral_graf_spee_shop;Admiral Graf Spee
 germ_cruiser_admiral_graf_spee_0;Kriegsmarinewerft Wilhelmshaven, Bau-Nr. 125 / Deutsche Werke Kiel | Panzerschiff Deutschland-Klasse | Admiral Graf Spee (1938)
 germ_cruiser_admiral_graf_spee_1;Admiral Graf Spee
@@ -5726,12 +5875,52 @@ germ_cruiser_admiral_scheer_1;Admiral Scheer
 germ_cruiser_admiral_scheer_2;Armored Ship
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+germ_battleship_westfalen_shop;SMS Westfalen
+germ_battleship_westfalen_0;Nassau-class, SMS Westfalen, 1916
+germ_battleship_westfalen_1;SMS Westfalen
+germ_battleship_westfalen_2;Battleship
+germ_battleship_nassau_shop;SMS Nassau
+germ_battleship_nassau_0;Nassau-class, SMS Nassau, 1910
+germ_battleship_nassau_1;SMS Nassau
+germ_battleship_nassau_2;Battleship
+germ_battleship_helgoland_shop;SMS Helgoland
+germ_battleship_helgoland_0;Helgoland-class, SMS Helgoland, 1911
+germ_battleship_helgoland_1;SMS Helgoland
+germ_battleship_helgoland_2;Battleship
+germ_battleship_ostfriesland_shop;SMS Ostfriesland
+germ_battleship_ostfriesland_0;Helgoland-class, SMS Ostfriesland, 1911
+germ_battleship_ostfriesland_1;SMS Ostfriesland
+germ_battleship_ostfriesland_2;Battleship
+germ_battleship_kaiser_shop;SMS Kaiser
+germ_battleship_kaiser_0;Kaiser-class, SMS Kaiser, 1911
+germ_battleship_kaiser_1;SMS Kaiser
+germ_battleship_kaiser_2;Battleship
 germ_battleship_konig_shop;SMS König
 germ_battleship_konig_0;Kaiserliche Werft Wilhelmshaven, Bau-Nr. 33 | Schlachtschiff König-Klasse | SMS König (1917)
 germ_battleship_konig_1;SMS König
 germ_battleship_konig_2;Battleship
+germ_battlecruiser_von_der_tann_shop;SMS Von der Tann
+germ_battlecruiser_von_der_tann_0;SMS Von der Tann, 1914
+germ_battlecruiser_von_der_tann_1;SMS Von der Tann
+germ_battlecruiser_von_der_tann_2;Battlecruiser
+germ_battlecruiser_derfflinger_shop;SMS Derfflinger
+germ_battlecruiser_derfflinger_0;Derfflinger-class, SMS Derfflinger, 1916
+germ_battlecruiser_derfflinger_1;SMS Derfflinger
+germ_battlecruiser_derfflinger_2;Battlecruiser
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+germ_battleship_bayern_shop;SMS Bayern
+germ_battleship_bayern_0;Bayern-class, SMS Bayern, 1916
+germ_battleship_bayern_1;SMS Bayern
+germ_battleship_bayern_2;Battleship
+germ_battleship_sachsen_shop;SMS Sachsen
+germ_battleship_sachsen_0;Bayern-class, SMS Sachsen
+germ_battleship_sachsen_1;SMS Sachsen
+germ_battleship_sachsen_2;Battleship
+germ_battleship_baden_shop;SMS Baden
+germ_battleship_baden_0;Bayern-class, SMS Baden, 1918
+germ_battleship_baden_1;SMS Baden
+germ_battleship_baden_2;Battleship
 germ_battlecruiser_ersatz_yorck_shop;Ersatz Yorck
 germ_battlecruiser_ersatz_yorck_0;Stettiner Maschinenbau Actien-Gesellschaft Vulcan | großer Kreuzer Ersatz Yorck-Klasse | Ersatz Yorck
 germ_battlecruiser_ersatz_yorck_1;Ersatz Yorck
@@ -6752,6 +6941,10 @@ ussr_object_775_shop;Ob. 775
 ussr_object_775_0;"Ob""yekt 775"
 ussr_object_775_1;Ob. 775
 ussr_object_775_2;SPG
+ussr_object_140_shop;Ob. 140
+ussr_object_140_0;"Ob""yekt 140"
+ussr_object_140_1;Ob. 140
+ussr_object_140_2;Medium Tank
 ussr_object_279_shop;Ob. 279
 ussr_object_279_0;"Ob""yekt 279 obr. 1960 g."
 ussr_object_279_1;Ob. 279
@@ -6858,6 +7051,14 @@ ussr_g5_mtb_shop;TKA №12/1
 ussr_g5_mtb_0;Torpednyy kater Tip G-5, syeriâ X, TKA №12/1
 ussr_g5_mtb_1;TKA №12/1
 ussr_g5_mtb_2;Motor Torpedo Boat
+ussr_g5_mtb_shvak_shop;TKA No. 12/5 (ŠVAK-20)
+ussr_g5_mtb_shvak_0;Torpednyy kater Tip G-5, TKA No. 12/5 (ŠVAK-20)
+ussr_g5_mtb_shvak_1;TKA No. 12/5
+ussr_g5_mtb_shvak_2;Motor Torpedo Boat
+ussr_g5_rct_shop;TK-412
+ussr_g5_rct_0;Torpyednyye katyera Tip G-5, syeriâ XI, TK-412
+ussr_g5_rct_1;TK-412
+ussr_g5_rct_2;Motor Gun Boat
 ussr_d3_shop;TKA №11
 ussr_d3_0;Torpediyj Katyer Proyekt P-19-OK, Tip D-3, Syerii I, TKA №11
 ussr_d3_1;TKA №11
@@ -6878,6 +7079,10 @@ ussr_d3_tk126_shop;TK-126
 ussr_d3_tk126_0;Zavod № 640 | Torpyednyj katyer proyekt 19-OK | TK-126 (1944)
 ussr_d3_tk126_1;TK-126
 ussr_d3_tk126_2;Motor Torpedo Boat
+ussr_ya_5m_shop;MK-25
+ussr_ya_5m_0;Minomyetnyj Katyer Tip Ya-5M, MK-25
+ussr_ya_5m_1;MK-25
+ussr_ya_5m_2;Motor Gun Boat
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 ussr_mpk_163_shop;MPK-163
@@ -6960,10 +7165,46 @@ ussr_bmo_shop;BMO-318
 ussr_bmo_0;Bronirovannij Malyen'kij Okhotnik Proyekt 194, Tip BMO, BMO-318
 ussr_bmo_1;BMO-318
 ussr_bmo_2;Gunboat
+ussr_skr_groza_1943_shop;Groza
+ussr_skr_groza_1943_0;Storozhyevyye Korabl' Proyekt 2, Tip Uragan, Syerii I, Groza (1943)
+ussr_skr_groza_1943_1;Groza
+ussr_skr_groza_1943_2;Patrol ship
+ussr_mpk_201m_shop;PSKR-203
+ussr_mpk_201m_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 201M, PSKR-203
+ussr_mpk_201m_1;PSKR-203
+ussr_mpk_201m_2;Subchaser
+ussr_mpk_201k_shop;P-190
+ussr_mpk_201k_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 201, P-190
+ussr_mpk_201k_1;P-190
+ussr_mpk_201k_2;Subchaser
+ussr_mpk_204_shop;MPK-88
+ussr_mpk_204_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 204, MPK-88
+ussr_mpk_204_1;MPK-88
+ussr_mpk_204_2;Subchaser
 ussr_mkl_186_shop;BK-521
 ussr_mkl_186_0;Bronyekatyer Proyekt 186, BK-521
 ussr_mkl_186_1;BK-521
 ussr_mkl_186_2;Naval Armored Boat
+ussr_mkl_186_mk85_shop;BK-558
+ussr_mkl_186_mk85_0;Bronyekatyer Proyekt 186 (MK 85), BK-558
+ussr_mkl_186_mk85_1;BK-558
+ussr_mkl_186_mk85_2;Naval Armored Boat
+ussr_skr_pr50plo_rosomacha_shop;Rosomakha
+ussr_skr_pr50plo_rosomacha_0;Storozhyevyye Korabl' Proyekt 50, Tip Gornostaj, Rosomakha
+ussr_skr_pr50plo_rosomacha_1;Rosomakha
+ussr_skr_pr50plo_rosomacha_2;Patrol ship
+ussr_skr_pr50_jenot_shop;Yenot
+ussr_skr_pr50_jenot_0;Storozhyevyye Korabl' Proyekt 50, Tip Gornostaj, Yenot
+ussr_skr_pr50_jenot_1;Yenot
+ussr_skr_pr50_jenot_2;Patrol ship
+ussr_mpk_pr12412p_shop;MPK-211
+ussr_mpk_pr12412p_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 12412P, MPK-211
+ussr_mpk_pr12412p_1;MPK-211
+ussr_mpk_pr12412p_2;Patrol ship
+ussr_mpk_pr12412_shop;MPK-140
+ussr_mpk_pr12412_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 12412 Molniya-2, MPK-140
+ussr_mpk_pr12412_1;MPK-140
+ussr_mpk_pr12412_2;Patrol ship
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 ussr_pr_206_shop;TK-12
@@ -6978,10 +7219,18 @@ ussr_pr_206m_shop;T-98
 ussr_pr_206m_0;Bol'shiye Torpyednyj Katyer Proyekt 206M Shtorm, T-98
 ussr_pr_206m_1;T-98
 ussr_pr_206m_2;Motor Torpedo Boat
+ussr_mpk_pr1331m_shop;MPK-192
+ussr_mpk_pr1331m_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 1331M, MPK-192
+ussr_mpk_pr1331m_1;MPK-192
+ussr_mpk_pr1331m_2;Patrol ship
 ussr_skr_pr159_shop;PLK-1
 ussr_skr_pr159_0;Protivolodochnyye Korabl' Proyekt 159, PLK-1
 ussr_skr_pr159_1;PLK-1
 ussr_skr_pr159_2;Patrol ship
+ussr_mpk_pr11451_shop;MPK-215
+ussr_mpk_pr11451_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 11451 Sokol-2, MPK-215
+ussr_mpk_pr11451_1;MPK-215
+ussr_mpk_pr11451_2;Subchaser
 ussr_mpk_pr_1124_shop;MPK-33
 ussr_mpk_pr_1124_0;"Zyelyenodol'skij sudostroityel'nyj zavod № 340 im. A. M. Gor'kogo | Malyj protivolodočnyj korabl' proyekt 1124 ""Al'batros"" | MPK-33"
 ussr_mpk_pr_1124_1;MPK-33
@@ -7004,6 +7253,14 @@ ussr_destroyer_kerch_shop;Kyerč' (1917)
 ussr_destroyer_kerch_0;Eskadrennyy minonosets Tip Novik, 3rd syeriâ, Tip Fidonisi, Kerch' (1917)
 ussr_destroyer_kerch_1;Kyerč' (1917)
 ussr_destroyer_kerch_2;Destroyer
+ussr_destroyer_7_besposhchadny_shop;Byespoŝadnyj
+ussr_destroyer_7_besposhchadny_0;Pr. 7, Byespoŝadnyj, 1942
+ussr_destroyer_7_besposhchadny_1;Byespoŝadnyj
+ussr_destroyer_7_besposhchadny_2;Destroyer
+ussr_destroyer_7_ryany_shop;R'ânyj
+ussr_destroyer_7_ryany_0;Pr. 7, R'ânyj, 1945
+ussr_destroyer_7_ryany_1;R'ânyj
+ussr_destroyer_7_ryany_2;Destroyer
 ussr_destroyer_7y_shop;Soobrazityel'nyj
 ussr_destroyer_7y_0;Pr. 7U, Soobrazityel'nyj, 1943
 ussr_destroyer_7y_1;Soobrazityel'nyj
@@ -7012,8 +7269,36 @@ ussr_destroyer_7y_stroyny_shop;Strojnyj
 ussr_destroyer_7y_stroyny_0;Pr. 7U, Strojnyj, 1945
 ussr_destroyer_7y_stroyny_1;Strojnyj
 ussr_destroyer_7y_stroyny_2;Destroyer
+ussr_destroyer_pr45_shop;Opytnyj
+ussr_destroyer_pr45_0;Pr. 45, Opytnyj, 1942
+ussr_destroyer_pr45_1;Opytnyj
+ussr_destroyer_pr45_2;Destroyer
+ussr_destroyer_regele_ferdinand_class_letuchiy_shop;Lyetučij
+ussr_destroyer_regele_ferdinand_class_letuchiy_0;Regele Ferdinand-class, Lyetučij, 1945
+ussr_destroyer_regele_ferdinand_class_letuchiy_1;Lyetučij
+ussr_destroyer_regele_ferdinand_class_letuchiy_2;Destroyer
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+ussr_destroyer_moskva_shop;Moskvá
+ussr_destroyer_moskva_0;Lyeningrád-class, Moskvá, 1941
+ussr_destroyer_moskva_1;Moskvá
+ussr_destroyer_moskva_2;Destroyer
+ussr_destroyer_leningrad_shop;Lyeningrád
+ussr_destroyer_leningrad_0;Lyeningrád-class, Lyeningrád, 1944
+ussr_destroyer_leningrad_1;Lyeningrád
+ussr_destroyer_leningrad_2;Destroyer
+ussr_destroyer_pr30_ognevoy_shop;Ognyevoj
+ussr_destroyer_pr30_ognevoy_0;Pr. 30, Ognyevoj, 1944
+ussr_destroyer_pr30_ognevoy_1;Ognyevoj
+ussr_destroyer_pr30_ognevoy_2;Destroyer
+ussr_destroyer_pr30bis_bezuprechnyi_shop;Byezupryečnyj
+ussr_destroyer_pr30bis_bezuprechnyi_0;Pr. 30bis, Byezupryečnyj, 1950
+ussr_destroyer_pr30bis_bezuprechnyi_1;Byezupryečnyj
+ussr_destroyer_pr30bis_bezuprechnyi_2;Destroyer
+ussr_destroyer_pr30bis_smelyi_shop;Smyelyj
+ussr_destroyer_pr30bis_smelyi_0;Pr. 30bis, Smyelyj, 1955
+ussr_destroyer_pr30bis_smelyi_1;Smyelyj
+ussr_destroyer_pr30bis_smelyi_2;Destroyer
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 ussr_cruiser_krasnyi_kavkaz_shop;Krasnyj Kavkaz
@@ -7028,25 +7313,107 @@ ussr_cruiser_chervona_ukraina_shop;Čyervona Ukraina
 ussr_cruiser_chervona_ukraina_0;Russkomu sudostroityel'nomu akczionyernomu obŝyestvu «Russud» | Lyegkij kryejsyer tip Admiral Nakhimov | Čyervona Ukraina
 ussr_cruiser_chervona_ukraina_1;Čyervona Ukraina
 ussr_cruiser_chervona_ukraina_2;Light Cruiser
-
+ussr_destroyer_pr20_tashkent_shop;Taškyent
+ussr_destroyer_pr20_tashkent_0;Pr. 20, Taškyent, 1942
+ussr_destroyer_pr20_tashkent_1;Taškyent
+ussr_destroyer_pr20_tashkent_2;Destroyer
 ussr_destroyer_pr48k_erevan_shop;Yerevan
 ussr_destroyer_pr48k_erevan_0;Sudostroityel'nyj zavod № 198 im. A. Marti | Lidyer proyekt 48, tip Kiyev | Yerevan
 ussr_destroyer_pr48k_erevan_1;Yerevan
 ussr_destroyer_pr48k_erevan_2;Destroyer
+ussr_destroyer_pr56_spokoinyy_shop;Spokojnyj
+ussr_destroyer_pr56_spokoinyy_0;Pr. 56, Spokojnyj, 1956
+ussr_destroyer_pr56_spokoinyy_1;Spokojnyj
+ussr_destroyer_pr56_spokoinyy_2;Destroyer
+ussr_destroyer_pr56_blagorodny_shop;Blagorodnyj
+ussr_destroyer_pr56_blagorodny_0;Pr. 56-PLO, Blagorodnyj, 1978
+ussr_destroyer_pr56_blagorodny_1;Blagorodnyj
+ussr_destroyer_pr56_blagorodny_2;Destroyer
+ussr_cruiser_omaha_class_murmansk_shop;Murmansk
+ussr_cruiser_omaha_class_murmansk_0;Todd Dry Dock and Construction Company | Omakha-klass | Murmansk
+ussr_cruiser_omaha_class_murmansk_1;Murmansk
+ussr_cruiser_omaha_class_murmansk_2;Light Cruiser
+ussr_destroyer_pr41_neustrashimy_shop;Nyeustrašimyj
+ussr_destroyer_pr41_neustrashimy_0;Pr. 41, Nyeustrašimyj, 1960
+ussr_destroyer_pr41_neustrashimy_1;Nyeustrašimyj
+ussr_destroyer_pr41_neustrashimy_2;Destroyer
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+ussr_cruiser_kirov_shop;Kirov
+ussr_cruiser_kirov_0;Pr. 26, Kirov, 1941
+ussr_cruiser_kirov_1;Kirov
+ussr_cruiser_kirov_2;Light Cruiser
+ussr_cruiser_voroshilov_shop;Vorošilov
+ussr_cruiser_voroshilov_0;Pr. 26, Vorošilov, 1943
+ussr_cruiser_voroshilov_1;Vorošilov
+ussr_cruiser_voroshilov_2;Light Cruiser
+ussr_cruiser_maxim_gorky_shop;Maksim Gor'kij
+ussr_cruiser_maxim_gorky_0;Pr. 26bis, Maksim Gor'kij, 1941
+ussr_cruiser_maxim_gorky_1;Maksim Gor'kij
+ussr_cruiser_maxim_gorky_2;Light Cruiser
+ussr_cruiser_chapayev_shop;Čapayev
+ussr_cruiser_chapayev_0;Pr. 68-K, Čapayev, 1950
+ussr_cruiser_chapayev_1;Čapayev
+ussr_cruiser_chapayev_2;Light Cruiser
+ussr_cruiser_sverdlov_shop;Sverdlov
+ussr_cruiser_sverdlov_0;Pr. 68bis, Sverdlov, 1952
+ussr_cruiser_sverdlov_1;Sverdlov
+ussr_cruiser_sverdlov_2;Light Cruiser
+ussr_cruiser_mikhail_kutuzov_shop;Mikhail Kutuzov
+ussr_cruiser_mikhail_kutuzov_0;Pr. 68-A, Mikhail Kutuzov, 1986
+ussr_cruiser_mikhail_kutuzov_1;Mikhail Kutuzov
+ussr_cruiser_mikhail_kutuzov_2;Light Cruiser
+ussr_cruiser_zheleznyakov_shop;Žyelyeznâkov
+ussr_cruiser_zheleznyakov_0;Pr. 68-K, Žyelyeznâkov, 1951
+ussr_cruiser_zheleznyakov_1;Žyelyeznâkov
+ussr_cruiser_zheleznyakov_2;Light Cruiser
+ussr_cruiser_shcherbakov_shop;Ŝyerbakov
+ussr_cruiser_shcherbakov_0;Pr. 68bis-ZiF, Ŝyerbakov
+ussr_cruiser_shcherbakov_1;Ŝyerbakov
+ussr_cruiser_shcherbakov_2;Light Cruiser
 ussr_destroyer_pr56_bravy_shop;Bravyj
 ussr_destroyer_pr56_bravy_0;Sudostroityel'nyj zavod № 445 / Syevastopol'skij morskoj zavod im. Syergo Ordžonikidzye / Sudostroityel'nyj zavod № 200 im. 61 kommunara | Èskadryennyj minonosyecz proyekt 56K | Bravyj (1964)
 ussr_destroyer_pr56_bravy_1;Bravyj
 ussr_destroyer_pr56_bravy_2;Destroyer
-
 ussr_destroyer_pr56_bravy_ec_0;Èskadryennyj minonosyecz proyekt 56K | Bravyj (1964)
 ussr_destroyer_pr56_bravy_ec_1;Bravyj
 ussr_destroyer_pr56_bravy_ec_2;Destroyer
+ussr_cruiser_kerch_shop;Kyerč' (1950)
+ussr_cruiser_kerch_0;Legkiy kreyser Tip Emmanuil Filibert Gertsog Aostskiy, Kyerč' (1950)
+ussr_cruiser_kerch_1;Kyerč' (1950)
+ussr_cruiser_kerch_2;Light Cruiser
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+ussr_battleship_poltava_shop;Poltava
+ussr_battleship_poltava_0;Syevastopol'-class, Poltava, 1914
+ussr_battleship_poltava_1;Poltava
+ussr_battleship_poltava_2;Battleship
+ussr_battleship_parizhskaya_kommuna_shop;Parižskaâ Kommuna
+ussr_battleship_parizhskaya_kommuna_0;Syevastopol'-class, Parižskaâ Kommuna, 1941
+ussr_battleship_parizhskaya_kommuna_1;Parižskaâ Kommuna
+ussr_battleship_parizhskaya_kommuna_2;Battleship
+ussr_battleship_marat_shop;Marat
+ussr_battleship_marat_0;Syevastopol'-class, Marat, 1941
+ussr_battleship_marat_1;Marat
+ussr_battleship_marat_2;Battleship
+ussr_battleship_imperatritsa_mariya_shop;Impyeratricza Mariâ
+ussr_battleship_imperatritsa_mariya_0;Impyeratricza Mariâ-class, Impyeratricza Mariâ, 1916
+ussr_battleship_imperatritsa_mariya_1;Impyeratricza Mariâ
+ussr_battleship_imperatritsa_mariya_2;Battleship
+ussr_battlecruiser_izmail_shop;Izmail
+ussr_battlecruiser_izmail_0;Izmail-class, Izmail
+ussr_battlecruiser_izmail_1;Izmail
+ussr_battlecruiser_izmail_2;Battlecruiser
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+ussr_battleship_novorossiysk_shop;Novorossijsk
+ussr_battleship_novorossiysk_0;Conte di Cavour-class, Novorossijsk, 1955
+ussr_battleship_novorossiysk_1;Novorossijsk
+ussr_battleship_novorossiysk_2;Battleship
+ussr_battleship_arhangelsk_shop;Arkhangyel'sk
+ussr_battleship_arhangelsk_0;Portsmouth Royal Dockyard / Philadelphia Navy Yard | Linkor Tip Rojâl Sovyeryen | Arkhangyel'sk
+ussr_battleship_arhangelsk_1;Arkhangyel'sk
+ussr_battleship_arhangelsk_2;Battleship
 ussr_battlecruiser_kronshtadt_shop;Kronštadt
 ussr_battlecruiser_kronshtadt_0;Zavod № 194 im. Marti | Tâžëlyj kryejsyer proyekt 69, tip Kronštadt | Kronštadt
 ussr_battlecruiser_kronshtadt_1;Kronštadt
@@ -10440,6 +10807,14 @@ it_m26_ariete_shop;⛨ M26 (132ª Div.Cor.)
 it_m26_ariete_0;"⛨ Carro Armato Medio M26 (132ª Divisione Corazzata ""Ariete"")"
 it_m26_ariete_1;⛨ M26
 it_m26_ariete_2;Medium Tank
+it_oto_r3_106sr_shop;R3 T 106 FA
+it_oto_r3_106sr_0;OTO R3 Capraia T 106 FA
+it_oto_r3_106sr_1;R3 T 106 FA
+it_oto_r3_106sr_2;Light Tank
+it_oto_r3_t20_fa_shop;R3 T 20 FA-HS
+it_oto_r3_t20_fa_0;OTO R3 Capraia T 20 FA-HS
+it_oto_r3_t20_fa_1;R3 T 20 FA-HS
+it_oto_r3_t20_fa_2;SPAA
 it_palmaria_shop;Palmaria
 it_palmaria_0;OTO Melara Obice semovente Palmaria 155/41
 it_palmaria_1;Palmaria
@@ -10496,6 +10871,10 @@ it_pzh_2000_hu_1;◔ PzH 2000HU
 it_pzh_2000_hu_2;SPH
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+it_b1_centauro_shop;Centauro (preserie)
+it_b1_centauro_0;Cacciacarri Blindato B1 Centauro (preserie)
+it_b1_centauro_1;Centauro
+it_b1_centauro_2;Light Tank
 it_otobreda_sidam_25_mistral_shop;SIDAM 25 (Mistral)
 it_otobreda_sidam_25_mistral_0;Sistema Italiano Difesa Aerea Mobile, 25mm (Mistral)
 it_otobreda_sidam_25_mistral_1;SIDAM 25
@@ -10889,6 +11268,10 @@ fokker_d21_netherlands_shop;D.XXI-2
 fokker_d21_netherlands_0;N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker Ontwerp 141 | D.XXI-2
 fokker_d21_netherlands_1;D.XXI-2
 fokker_d21_netherlands_2;D.XXI
+d_510_shop;Pallier's D.510
+d_510_0;Gabriel Pallier's D.510
+d_510_1;Pallier's D.510
+d_510_2;D.510
 pby-5a_late_france_shop;☨ PBY-5A (late)
 pby-5a_late_france_0;☨ PBY-5A Catalina (late)
 pby-5a_late_france_1;☨ PBY-5
@@ -11141,6 +11524,10 @@ fr_amc_34_shop;AMC 34 (APX 1)
 fr_amc_34_0;Automitrailleuse de combat AMC 34 (APX 1)
 fr_amc_34_1;AMC 34
 fr_amc_34_2;Light Tank
+fr_amd_35_sa35_shop;AMD 35 (SA 35)
+fr_amd_35_sa35_0;AMD 35 (SA 35)
+fr_amd_35_sa35_1;AMD 35 (SA 35)
+fr_amd_35_sa35_2;Light Tank
 fr_saint_chamond_shop;St-Chamond mle. 1918
 fr_saint_chamond_0;Compagnie des forges et aciéries de la marine et d'Homécourt | Char d'assaut Saint-Chamond modèle 1918
 fr_saint_chamond_1;St-Chamond
@@ -11371,6 +11758,10 @@ fr_vtb10_1;VTB 10
 fr_vtb10_2;Torpedo Boat
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
+fr_mtb96_vosper_shop;MTB 96
+fr_mtb96_vosper_0;MTB Vosper 3 series, MTB 96
+fr_mtb96_vosper_1;MTB 96
+fr_mtb96_vosper_2;Motor Torpedo Boat
 fr_flower_class_aconit_shop;Aconit (K 58)
 fr_flower_class_aconit_0;Ailsa Shipbuilding Company | Corvette de la classe Flower | Aconit (K 58)
 fr_flower_class_aconit_1;Aconit
@@ -11389,6 +11780,10 @@ fr_arras_class_amiens_shop;Amiens (7)
 fr_arras_class_amiens_0;Société Nouvelle des Forges et Chantiers de la Méditerranée / Arsenal de Cherbourg | Aviso de 1ère classe de la classe Arras | Amiens (7) (1940)
 fr_arras_class_amiens_1;Amiens
 fr_arras_class_amiens_2;Aviso
+fr_lcg_m_l9059_shop;L 9059
+fr_lcg_m_l9059_0;Landing Craft, Gun (Medium), L 9059
+fr_lcg_m_l9059_1;L 9059
+fr_lcg_m_l9059_2;Motor Gun Boat
 fr_marne_class_marne_shop;La Marne
 fr_marne_class_marne_0;Arsenal de Lorient | Aviso de 1ère classe de la classe La Marne | La Marne (1925)
 fr_marne_class_marne_1;La Marne
@@ -11415,6 +11810,10 @@ fr_elan_class_commandant_domine_shop;Commandant Dominé (F 742)
 fr_elan_class_commandant_domine_0;Ateliers et Chantiers Dubigeon / La Pallice | Aviso dragueur de mines de la classe Élan | Commandant Dominé (F 742) (1948)
 fr_elan_class_commandant_domine_1;Commandant Dominé
 fr_elan_class_commandant_domine_2;Minesweeping Aviso
+fr_frigate_croix_de_lorraine_class_la_surprise_shop;La Surprise (F 08)
+fr_frigate_croix_de_lorraine_class_la_surprise_0;Chamois-class, La Surprise (F 08)
+fr_frigate_croix_de_lorraine_class_la_surprise_1;La Surprise
+fr_frigate_croix_de_lorraine_class_la_surprise_2;Frigate
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 fr_frigate_corse_class_brestois_shop;Le Brestois (F 762)
@@ -11427,14 +11826,90 @@ fr_frigate_corse_class_corse_1;Le Brestois
 fr_frigate_corse_class_corse_2;Fast Escort
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+fr_destroyer_bourrasque_class_bourrasque_shop;Bourrasque (T 41)
+fr_destroyer_bourrasque_class_bourrasque_0;Bourrasque-class, Bourrasque (T 41), 1939
+fr_destroyer_bourrasque_class_bourrasque_1;Bourrasque
+fr_destroyer_bourrasque_class_bourrasque_2;Destroyer
+fr_destroyer_bourrasque_class_tornade_shop;Tornade (T 73)
+fr_destroyer_bourrasque_class_tornade_0;Bourrasque-class, Tornade (T 73), 1939
+fr_destroyer_bourrasque_class_tornade_1;Tornade
+fr_destroyer_bourrasque_class_tornade_2;Destroyer
+fr_destroyer_hunt_3series_shop;La Combattante (L 19)
+fr_destroyer_hunt_3series_0;Hunt-class, La Combattante (L 19), 1944
+fr_destroyer_hunt_3series_1;La Combattante
+fr_destroyer_hunt_3series_2;Destroyer
+fr_destroyer_jaguar_class_leopard_shop;Léopard (X 22)
+fr_destroyer_jaguar_class_leopard_0;Jaguar-class, Léopard (X 22), 1942
+fr_destroyer_jaguar_class_leopard_1;Leopard
+fr_destroyer_jaguar_class_leopard_2;Destroyer
+fr_destroyer_jaguar_class_chacal_shop;Chacal (X 23)
+fr_destroyer_jaguar_class_chacal_0;Jaguar-class, Chacal (X 23), 1938
+fr_destroyer_jaguar_class_chacal_1;Chacal
+fr_destroyer_jaguar_class_chacal_2;Destroyer
+fr_destroyer_jaguar_class_panthere_shop;Panthère (X 43)
+fr_destroyer_jaguar_class_panthere_0;Jaguar-class, Panthère (X 43), 1940
+fr_destroyer_jaguar_class_panthere_1;Panthere
+fr_destroyer_jaguar_class_panthere_2;Destroyer
 fr_destroyer_guepard_class_verdun_shop;Verdun (X 33)
 fr_destroyer_guepard_class_verdun_0;Ateliers et chantiers de la Loire / Arsenal de Sidi-Abdallah | Contre-torpilleur de la classe Guépard | Verdun (X 33) (1941)
 fr_destroyer_guepard_class_verdun_1;Verdun
 fr_destroyer_guepard_class_verdun_2;Destroyer
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+fr_destroyer_aigle_class_vautour_shop;Vautour (X 71)
+fr_destroyer_aigle_class_vautour_0;Aigle-class, Vautour (X 71), 1931
+fr_destroyer_aigle_class_vautour_1;Vautour
+fr_destroyer_aigle_class_vautour_2;Destroyer
+fr_destroyer_aigle_class_milan_shop;Milan (X 111)
+fr_destroyer_aigle_class_milan_0;Aigle-class, Milan (X 111), 1942
+fr_destroyer_aigle_class_milan_1;Milan
+fr_destroyer_aigle_class_milan_2;Destroyer
+fr_destroyer_aigle_class_aigle_shop;Aigle (X 13)
+fr_destroyer_aigle_class_aigle_0;Aigle-class, Aigle (X 13), 1942
+fr_destroyer_aigle_class_aigle_1;Aigle
+fr_destroyer_aigle_class_aigle_2;Destroyer
+fr_destroyer_vauquelin_class_vauquelin_shop;Vauquelin (X 53)
+fr_destroyer_vauquelin_class_vauquelin_0;Vauquelin-class, Vauquelin (X 53), 1941
+fr_destroyer_vauquelin_class_vauquelin_1;Vauquelin
+fr_destroyer_vauquelin_class_vauquelin_2;Destroyer
+fr_cruiser_chateaurenault_class_guichen_shop;Guichen (D 607)
+fr_cruiser_chateaurenault_class_guichen_0;Chateaurenault-class, Guichen (D 607), 1957
+fr_cruiser_chateaurenault_class_guichen_1;Guichen
+fr_cruiser_chateaurenault_class_guichen_2;Destroyer
+fr_destroyer_desaix_class_kleber_shop;Kléber (D 603)
+fr_destroyer_desaix_class_kleber_0;Desaix-class, Kléber (D 603), 1951
+fr_destroyer_desaix_class_kleber_1;Kléber
+fr_destroyer_desaix_class_kleber_2;Destroyer
+fr_destroyer_marceau_class_marceau_shop;Marceau (D 601)
+fr_destroyer_marceau_class_marceau_0;Marceau (D 601), 1950
+fr_destroyer_marceau_class_marceau_1;Marceau
+fr_destroyer_marceau_class_marceau_2;Destroyer
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+fr_destroyer_le_fantasque_class_le_malin_shop;Le Malin (X 82)
+fr_destroyer_le_fantasque_class_le_malin_0;Le Fantasque-class, Le Malin (X 82), 1943
+fr_destroyer_le_fantasque_class_le_malin_1;Le Malin
+fr_destroyer_le_fantasque_class_le_malin_2;Destroyer
+fr_destroyer_le_fantasque_class_le_triomphant_shop;Le Triomphant (X 83)
+fr_destroyer_le_fantasque_class_le_triomphant_0;Le Fantasque-class, Le Triomphant (X 83), 1942
+fr_destroyer_le_fantasque_class_le_triomphant_1;Le Triomphant
+fr_destroyer_le_fantasque_class_le_triomphant_2;Destroyer
+fr_destroyer_mogador_class_mogador_shop;Mogador (X 61)
+fr_destroyer_mogador_class_mogador_0;Mogador-class, Mogador (X 61), 1940
+fr_destroyer_mogador_class_mogador_1;Mogador
+fr_destroyer_mogador_class_mogador_2;Destroyer
+fr_cruiser_jeanne_darc_shop;Jeanne d'Arc
+fr_cruiser_jeanne_darc_0;Jeanne d'Arc-class, Jeanne d'Arc, 1944
+fr_cruiser_jeanne_darc_1;Jeanne d'Arc
+fr_cruiser_jeanne_darc_2;Light Cruiser
+fr_cruiser_dugauy_class_primaguet_shop;Primaguet
+fr_cruiser_dugauy_class_primaguet_0;Duguay-Trouin-class, Primaguet, 1940
+fr_cruiser_dugauy_class_primaguet_1;Primaguet
+fr_cruiser_dugauy_class_primaguet_2;Light Cruiser
+fr_cruiser_dugauy_class_dugauy_trouin_shop;Duguay-Trouin
+fr_cruiser_dugauy_class_dugauy_trouin_0;Duguay-Trouin-class, Duguay-Trouin, 1944
+fr_cruiser_dugauy_class_dugauy_trouin_1;Duguay-Trouin
+fr_cruiser_dugauy_class_dugauy_trouin_2;Light Cruiser
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 fr_cruiser_suffren_class_colbert_shop;Colbert
@@ -11449,6 +11924,10 @@ fr_cruiser_suffren_class_dupleix_shop;Dupleix
 fr_cruiser_suffren_class_dupleix_0;Arsenal de Brest / Arsenal de Toulon | Croiseur de 1ère classe de la classe Suffren | Dupleix (1937)
 fr_cruiser_suffren_class_dupleix_1;Dupleix
 fr_cruiser_suffren_class_dupleix_2;1st Class Cruiser
+fr_cruiser_emile_bertin_shop;Emile Bertin
+fr_cruiser_emile_bertin_0;Emile Bertin-class, Emile Bertin, 1942
+fr_cruiser_emile_bertin_1;Emile Bertin
+fr_cruiser_emile_bertin_2;Light Cruiser
 fr_cruiser_la_galissoniere_class_la_galissoniere_shop;La Galissonnière
 fr_cruiser_la_galissoniere_class_la_galissoniere_0;Arsenal de Brest | Croiseur léger de la classe La Galissonnière | La Galissonnière
 fr_cruiser_la_galissoniere_class_la_galissoniere_1;La Galissonnière
@@ -11459,6 +11938,22 @@ fr_cruiser_la_galissoniere_class_gloire_1;Montcalm
 fr_cruiser_la_galissoniere_class_gloire_2;Light Cruiser
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+fr_battleship_courbet_class_paris_shop;Paris
+fr_battleship_courbet_class_paris_0;Courbet-class, Paris, 1939
+fr_battleship_courbet_class_paris_1;Paris
+fr_battleship_courbet_class_paris_2;Battleship
+fr_battleship_courbet_class_courbet_shop;Courbet
+fr_battleship_courbet_class_courbet_0;Courbet-class, Courbet, 1920
+fr_battleship_courbet_class_courbet_1;Courbet
+fr_battleship_courbet_class_courbet_2;Battleship
+fr_battleship_bretagne_class_lorraine_shop;Lorraine
+fr_battleship_bretagne_class_lorraine_0;Bretagne-class, Lorraine, 1944
+fr_battleship_bretagne_class_lorraine_1;Lorraine
+fr_battleship_bretagne_class_lorraine_2;Battleship
+fr_battleship_bretagne_class_bretagne_shop;Bretagne
+fr_battleship_bretagne_class_bretagne_0;Bretagne-class, Bretagne, 1925
+fr_battleship_bretagne_class_bretagne_1;Bretagne
+fr_battleship_bretagne_class_bretagne_2;Battleship
 
 //FRANCE BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 fr_battleship_dunkerque_shop;Dunkerque
@@ -12956,7 +13451,7 @@ uk_fv721_fox_2;Light Tank
 uk_fv107_scimitar_shop;Scimitar
 uk_fv107_scimitar_0;Alvis | F.V.107 | Combat Vehicle, Reconnaissance, Tracked, 30mm Gun, Scimitar
 uk_fv107_scimitar_1;Scimitar
-uk_fv107_scimitar_2;IFV\
+uk_fv107_scimitar_2;IFV
 uk_fv438_swingfire_shop;Swingfire
 uk_fv438_swingfire_0;Launcher, Guided Missile, Carrier Mounted, Full Tracked, Swingfire
 uk_fv438_swingfire_1;Swingfire
@@ -14817,10 +15312,6 @@ d_501_shop;D.501
 d_501_0;D.501
 d_501_1;D.501
 d_501_2;D.501
-d_510_shop;Pallier's D.510
-d_510_0;Gabriel Pallier's D.510
-d_510_1;Pallier's D.510
-d_510_2;D.510
 mb_162_shop;M.B.162.01
 mb_162_0;M.B.162.01
 mb_162_1;M.B.162.01
@@ -15045,10 +15536,6 @@ it_b1_centauro_romor_shop;Centauro ROMOR
 it_b1_centauro_romor_0;Cacciacarri Blindato B1 Centauro serie II ROMOR
 it_b1_centauro_romor_1;Centauro ROMOR
 it_b1_centauro_romor_2;Light Tank
-it_b1_centauro_shop;Centauro (preserie)
-it_b1_centauro_0;Cacciacarri Blindato B1 Centauro (preserie)
-it_b1_centauro_1;Centauro
-it_b1_centauro_2;Light Tank
 it_fiat_cm52_shop;CM 52 (M45C)
 it_fiat_cm52_0;Complesso da 12.7mm su Autocarro Medio CM 52
 it_fiat_cm52_1;CM 52 (M45C)
@@ -15145,14 +15632,6 @@ it_l6_shop;L. 40
 it_l6_0;Carro Armato Leggero Mod. 40
 it_l6_1;L. 40
 it_l6_2;Light Tank
-it_oto_r3_106sr_shop;R3 T 106 FA
-it_oto_r3_106sr_0;OTO R3 Capraia T 106 FA
-it_oto_r3_106sr_1;R3 T 106 FA
-it_oto_r3_106sr_2;Light Tank
-it_oto_r3_t20_fa_shop;R3 T 20 FA-HS
-it_oto_r3_t20_fa_0;OTO R3 Capraia T 20 FA-HS
-it_oto_r3_t20_fa_1;R3 T 20 FA-HS
-it_oto_r3_t20_fa_2;SPAA
 it_otobreda_sidam_25_shop;SIDAM 25
 it_otobreda_sidam_25_0;Sistema Italiano Difesa Aerea Mobile, 25mm
 it_otobreda_sidam_25_1;SIDAM 25
@@ -15309,10 +15788,6 @@ sa_341f_shop;SA 341 F
 sa_341f_0;SA 341 F Gazelle
 sa_341f_1;SA 341 F
 sa_341f_2;SA 341
-sa_342l_china_shop;␗ SA 342 L
-sa_342l_china_0;␗ SA 342 L Gazelle
-sa_342l_china_1;␗ SA 342 L
-sa_342l_china_2;␗ SA 342
 sa_342m_shop;SA 342 M
 sa_342m_0;SA 342 M Gazelle
 sa_342m_1;SA 342 M
@@ -15693,237 +16168,14 @@ sw_strv_103_0_shop;strv 103-0
 sw_strv_103_0_0;stridsvagn 103-0
 sw_strv_103_0_1;strv 103-0
 sw_strv_103_0_2;MBT
-//Bookmark
-germ_escort_typem1943_shop;M 601
-germ_escort_typem1943_0;Minensuchboot Typ 1943, M 601
-germ_escort_typem1943_1;M 601
-germ_escort_typem1943_2;Minesweeper
-germ_ls4_class_shop;LS 4
-germ_ls4_class_0;leichtes Schnellboot LS 4
-germ_ls4_class_1;LS 4
-germ_ls4_class_2;Motor Torpedo Boat
-ussr_g5_mtb_shvak_shop;TKA No. 12/5 (ŠVAK-20)
-ussr_g5_mtb_shvak_0;Torpednyy kater Tip G-5, TKA No. 12/5 (ŠVAK-20)
-ussr_g5_mtb_shvak_1;TKA No. 12/5
-ussr_g5_mtb_shvak_2;Motor Torpedo Boat
-ussr_mkl_186_mk85_shop;BK-558
-ussr_mkl_186_mk85_0;Bronyekatyer Proyekt 186 (MK 85), BK-558
-ussr_mkl_186_mk85_1;BK-558
-ussr_mkl_186_mk85_2;Naval Armored Boat
-germ_destroyer_class1934a_1940_shop;Z 5
-germ_destroyer_class1934a_1940_0;Zerstörer Typ 1934 A, Z 5 Paul Jacobi, 1940
-germ_destroyer_class1934a_1940_1;Z 5
-germ_destroyer_class1934a_1940_2;Destroyer
-germ_destroyer_class1934a_1940_EC_0;Zerstörer Typ 1934 A, Z 5 Paul Jacobi, 1940
-germ_destroyer_class1934a_1940_EC_1;Z 5
-germ_destroyer_class1934a_1940_EC_2;Destroyer
-ussr_ya_5m_shop;MK-25
-ussr_ya_5m_0;Minomyetnyj Katyer Tip Ya-5M, MK-25
-ussr_ya_5m_1;MK-25
-ussr_ya_5m_2;Motor Gun Boat
-germ_destroyer_class1936_z20_tutorial_shop;Destroyer
-germ_destroyer_class1936_z20_tutorial_0;Destroyer
-germ_destroyer_class1936_z20_tutorial_1;Destroyer
-germ_destroyer_class1936_z20_tutorial_2;Destroyer
-germ_destroyer_class1936_z20_tutorial_EC_0;Destroyer
-germ_destroyer_class1936_z20_tutorial_EC_1;Destroyer
-germ_destroyer_class1936_z20_tutorial_EC_2;Destroyer
-ussr_destroyer_moskva_shop;Moskvá
-ussr_destroyer_moskva_0;Lyeningrád-class, Moskvá, 1941
-ussr_destroyer_moskva_1;Moskvá
-ussr_destroyer_moskva_2;Destroyer
-ussr_destroyer_pr20_tashkent_shop;Taškyent
-ussr_destroyer_pr20_tashkent_0;Pr. 20, Taškyent, 1942
-ussr_destroyer_pr20_tashkent_1;Taškyent
-ussr_destroyer_pr20_tashkent_2;Destroyer
-germ_cruiser_koln_shop;Köln
-germ_cruiser_koln_0;K-class, Köln, 1940
-germ_cruiser_koln_1;Köln
-germ_cruiser_koln_2;Light Cruiser
-germ_cruiser_koln_EC_0;K-class, Köln, 1940
-germ_cruiser_koln_EC_1;Köln
-germ_cruiser_koln_EC_2;Light Cruiser
-ussr_destroyer_pr30_ognevoy_shop;Ognyevoj
-ussr_destroyer_pr30_ognevoy_0;Pr. 30, Ognyevoj, 1944
-ussr_destroyer_pr30_ognevoy_1;Ognyevoj
-ussr_destroyer_pr30_ognevoy_2;Destroyer
-ussr_destroyer_leningrad_shop;Lyeningrád
-ussr_destroyer_leningrad_0;Lyeningrád-class, Lyeningrád, 1944
-ussr_destroyer_leningrad_1;Lyeningrád
-ussr_destroyer_leningrad_2;Destroyer
-germ_destroyer_class1936a_mob_z32_shop;Z 33
-germ_destroyer_class1936a_mob_z32_0;Zerstörer Typ 1936 A (Mob), Z 33, 1943
-germ_destroyer_class1936a_mob_z32_1;Z 33
-germ_destroyer_class1936a_mob_z32_2;Destroyer
-ussr_cruiser_kirov_shop;Kirov
-ussr_cruiser_kirov_0;Pr. 26, Kirov, 1941
-ussr_cruiser_kirov_1;Kirov
-ussr_cruiser_kirov_2;Light Cruiser
-germ_cruiser_nurnberg_shop;Nürnberg
-germ_cruiser_nurnberg_0;Leipzig-class, Nürnberg, 1944
-germ_cruiser_nurnberg_1;Nürnberg
-germ_cruiser_nurnberg_2;Light Cruiser
-germ_cruiser_nurnberg_EC_0;Nürnberg-class, Nürnberg, 1944
-germ_cruiser_nurnberg_EC_1;Nürnberg
-germ_cruiser_nurnberg_EC_2;Light Cruiser
-ussr_skr_groza_1943_shop;Groza
-ussr_skr_groza_1943_0;Storozhyevyye Korabl' Proyekt 2, Tip Uragan, Syerii I , Groza (1943)
-ussr_skr_groza_1943_1;Groza
-ussr_skr_groza_1943_2;Patrol ship
-germ_destroyer_class1939_t31_shop;T 28
-germ_destroyer_class1939_t31_0;Flottentorpedoboot Typ 1939, T 28, 1944
-germ_destroyer_class1939_t31_1;T 28
-germ_destroyer_class1939_t31_2;Destroyer
-germ_cruiser_admiral_hipper_shop;Admiral Hipper
-germ_cruiser_admiral_hipper_0;Admiral Hipper-class, Admiral Hipper, 1942
-germ_cruiser_admiral_hipper_1;Admiral Hipper
-germ_cruiser_admiral_hipper_2;Heavy Cruiser
-ussr_cruiser_chapayev_shop;Čapayev
-ussr_cruiser_chapayev_0;Pr. 68-K, Čapayev, 1950
-ussr_cruiser_chapayev_1;Čapayev
-ussr_cruiser_chapayev_2;Light Cruiser
-germ_destroyer_class1934a_1944_shop;Z 15
-germ_destroyer_class1934a_1944_0;Zerstörer Typ 1934 A, Z 15 Erich Steinbrinck, 1944
-germ_destroyer_class1934a_1944_1;Z 15
-germ_destroyer_class1934a_1944_2;Destroyer
-germ_destroyer_class1936b_shop;Z 35
-germ_destroyer_class1936b_0;Zerstörer Typ 1936 B, Z 35, 1943
-germ_destroyer_class1936b_1;Z 35
-germ_destroyer_class1936b_2;Destroyer
-germ_destroyer_class1924_jaguar1941_shop;Jaguar
-germ_destroyer_class1924_jaguar1941_0;Raubtier-class, Jaguar, 1941
-germ_destroyer_class1924_jaguar1941_1;Jaguar
-germ_destroyer_class1924_jaguar1941_2;Destroyer
-germ_cruiser_prinz_eugen_shop;Prinz Eugen
-germ_cruiser_prinz_eugen_0;Admiral Hipper-class, Prinz Eugen, 1945
-germ_cruiser_prinz_eugen_1;Prinz Eugen
-germ_cruiser_prinz_eugen_2;Heavy Cruiser
-jp_daihatsu_landing_craft_0;Daihatsu-class landing craft
-jp_daihatsu_landing_craft_1;Landing craft
-jp_daihatsu_landing_craft_2;Landing craft
-ussr_g5_mtb_landing_craft_0;G-5
-ussr_g5_mtb_landing_craft_1;G-5
-ussr_g5_mtb_landing_craft_2;Landing craft
 ussr_ba_11_shop;BA-11
 ussr_ba_11_0;BA-11
 ussr_ba_11_1;BA-11
 ussr_ba_11_2;Armored Car
-ussr_cruiser_sverdlov_shop;Sverdlov
-ussr_cruiser_sverdlov_0;Pr. 68bis, Sverdlov, 1952
-ussr_cruiser_sverdlov_1;Sverdlov
-ussr_cruiser_sverdlov_2;Light Cruiser
-germ_cruiser_leipzig_shop;Leipzig
-germ_cruiser_leipzig_0;Leipzig-class, Leipzig, 1944
-germ_cruiser_leipzig_1;Leipzig
-germ_cruiser_leipzig_2;Light Cruiser
-ussr_destroyer_pr41_neustrashimy_shop;Nyeustrašimyj
-ussr_destroyer_pr41_neustrashimy_0;Pr. 41, Nyeustrašimyj, 1960
-ussr_destroyer_pr41_neustrashimy_1;Nyeustrašimyj
-ussr_destroyer_pr41_neustrashimy_2;Destroyer
-germ_frigate_koln_shop;Köln (F 220)
-germ_frigate_koln_0;Fregatte Köln-Klasse (Typ 120), Köln (F 220)
-germ_frigate_koln_1;Köln (F 220)
-germ_frigate_koln_2;Frigate
-germ_frigate_koln_lubeck_shop;Lübeck (F 224)
-germ_frigate_koln_lubeck_0;Fregatte Köln-Klasse (Typ 120), Lübeck (F 224) (1966)
-germ_frigate_koln_lubeck_1;Lübeck (F 224)
-germ_frigate_koln_lubeck_2;Frigate
-ussr_g5_rct_shop;TK-412
-ussr_g5_rct_0;Torpyednyye katyera Tip G-5, syeriâ XI, TK-412
-ussr_g5_rct_1;TK-412
-ussr_g5_rct_2;Motor Gun Boat
-ussr_destroyer_pr56_spokoinyy_shop;Spokojnyj
-ussr_destroyer_pr56_spokoinyy_0;Pr. 56, Spokojnyj, 1956
-ussr_destroyer_pr56_spokoinyy_1;Spokojnyj
-ussr_destroyer_pr56_spokoinyy_2;Destroyer
-ussr_cruiser_maxim_gorky_shop;Maksim Gor'kij
-ussr_cruiser_maxim_gorky_0;Pr. 26bis, Maksim Gor'kij, 1941
-ussr_cruiser_maxim_gorky_1;Maksim Gor'kij
-ussr_cruiser_maxim_gorky_2;Light Cruiser
-ussr_skr_pr50_jenot_shop;Yenot
-ussr_skr_pr50_jenot_0;Storozhyevyye Korabl' Proyekt 50, Tip Gornostaj, Yenot
-ussr_skr_pr50_jenot_1;Yenot
-ussr_skr_pr50_jenot_2;Patrol ship
-ussr_battleship_imperatritsa_mariya_shop;Impyeratricza Mariâ
-ussr_battleship_imperatritsa_mariya_0;Impyeratricza Mariâ-class, Impyeratricza Mariâ, 1916
-ussr_battleship_imperatritsa_mariya_1;Impyeratricza Mariâ
-ussr_battleship_imperatritsa_mariya_2;Battleship
-ussr_battleship_poltava_shop;Poltava
-ussr_battleship_poltava_0;Syevastopol'-class, Poltava, 1914
-ussr_battleship_poltava_1;Poltava
-ussr_battleship_poltava_2;Battleship
-germ_battleship_westfalen_shop;SMS Westfalen
-germ_battleship_westfalen_0;Nassau-class, SMS Westfalen, 1916
-germ_battleship_westfalen_1;SMS Westfalen
-germ_battleship_westfalen_2;Battleship
-ussr_aircraftcarrier_baku_shop;Baku
-ussr_aircraftcarrier_baku_0;Proyekt 11434, Baku
-ussr_aircraftcarrier_baku_1;Baku
-ussr_aircraftcarrier_baku_2;Carrier
-germ_battleship_helgoland_shop;SMS Helgoland
-germ_battleship_helgoland_0;Helgoland-class, SMS Helgoland, 1911
-germ_battleship_helgoland_1;SMS Helgoland
-germ_battleship_helgoland_2;Battleship
-germ_battleship_ostfriesland_shop;SMS Ostfriesland
-germ_battleship_ostfriesland_0;Helgoland-class, SMS Ostfriesland, 1911
-germ_battleship_ostfriesland_1;SMS Ostfriesland
-germ_battleship_ostfriesland_2;Battleship
-ussr_cruiser_zheleznyakov_shop;Žyelyeznâkov
-ussr_cruiser_zheleznyakov_0;Pr. 68-K, Žyelyeznâkov, 1951
-ussr_cruiser_zheleznyakov_1;Žyelyeznâkov
-ussr_cruiser_zheleznyakov_2;Light Cruiser
-germ_destroyer_class1924_iltis_shop;Luchs
-germ_destroyer_class1924_iltis_0;Raubtier-class, Luchs, 1932
-germ_destroyer_class1924_iltis_1;Luchs
-germ_destroyer_class1924_iltis_2;Destroyer
-germ_battlecruiser_von_der_tann_shop;SMS Von der Tann
-germ_battlecruiser_von_der_tann_0;SMS Von der Tann, 1914
-germ_battlecruiser_von_der_tann_1;SMS Von der Tann
-germ_battlecruiser_von_der_tann_2;Battlecruiser
-ussr_mpk_pr12412_shop;MPK-140
-ussr_mpk_pr12412_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 12412 Molniya-2, MPK-140
-ussr_mpk_pr12412_1;MPK-140
-ussr_mpk_pr12412_2;Patrol ship
-germ_destroyer_class1936a_z25_shop;Z 25
-germ_destroyer_class1936a_z25_0;Zerstörer Typ 1936 A, Z 25, 1945
-germ_destroyer_class1936a_z25_1;Z 25
-germ_destroyer_class1936a_z25_2;Destroyer
-germ_battleship_kaiser_shop;SMS Kaiser
-germ_battleship_kaiser_0;Kaiser-class, SMS Kaiser, 1911
-germ_battleship_kaiser_1;SMS Kaiser
-germ_battleship_kaiser_2;Battleship
-ussr_skr_pr50plo_rosomacha_shop;Rosomakha
-ussr_skr_pr50plo_rosomacha_0;Storozhyevyye Korabl' Proyekt 50, Tip Gornostaj, Rosomakha
-ussr_skr_pr50plo_rosomacha_1;Rosomakha
-ussr_skr_pr50plo_rosomacha_2;Patrol ship
-ussr_cruiser_voroshilov_shop;Vorošilov
-ussr_cruiser_voroshilov_0;Pr. 26, Vorošilov, 1943
-ussr_cruiser_voroshilov_1;Vorošilov
-ussr_cruiser_voroshilov_2;Light Cruiser
 dh_110_sea_vixen_shop;Sea Vixen F.A.W. Mk. 2
 dh_110_sea_vixen_0;DH.110 Sea Vixen F.A.W. Mk. 2
 dh_110_sea_vixen_1;Sea Vixen F.A.W. Mk. 2
 dh_110_sea_vixen_2;Sea Vixen
-ussr_destroyer_pr30bis_bezuprechnyi_shop;Byezupryečnyj
-ussr_destroyer_pr30bis_bezuprechnyi_0;Pr. 30bis, Byezupryečnyj, 1950
-ussr_destroyer_pr30bis_bezuprechnyi_1;Byezupryečnyj
-ussr_destroyer_pr30bis_bezuprechnyi_2;Destroyer
-germ_cruiser_karlsruhe_shop;Karlsruhe
-germ_cruiser_karlsruhe_0;K-class, Karlsruhe, 1940
-germ_cruiser_karlsruhe_1;Karlsruhe
-germ_cruiser_karlsruhe_2;Light Cruiser
-ussr_battleship_parizhskaya_kommuna_shop;Parižskaâ Kommuna
-ussr_battleship_parizhskaya_kommuna_0;Syevastopol'-class, Parižskaâ Kommuna, 1941
-ussr_battleship_parizhskaya_kommuna_1;Parižskaâ Kommuna
-ussr_battleship_parizhskaya_kommuna_2;Battleship
-ussr_destroyer_pr30bis_smelyi_shop;Smyelyj
-ussr_destroyer_pr30bis_smelyi_0;Pr. 30bis, Smyelyj, 1955
-ussr_destroyer_pr30bis_smelyi_1;Smyelyj
-ussr_destroyer_pr30bis_smelyi_2;Destroyer
-germ_escort_typem1935_shop;M 17
-germ_escort_typem1935_0;Minensuchboot Typ 1935, M 17
-germ_escort_typem1935_1;M 17
-germ_escort_typem1935_2;Minesweeper
 uk_vickers_mbt_mk_3_shop;Vickers Mk. 3
 uk_vickers_mbt_mk_3_0;Vickers Mk. 3 Main Battle Tank
 uk_vickers_mbt_mk_3_1;Vickers Mk. 3
@@ -15948,242 +16200,10 @@ germ_marder_1a3_shop;SPz Marder 1 A3
 germ_marder_1a3_0;Schützenpanzer Marder 1 A3
 germ_marder_1a3_1;SPz Marder 1 A3
 germ_marder_1a3_2;Light Tank
-ussr_mpk_201m_shop;PSKR-203
-ussr_mpk_201m_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 201M, PSKR-203
-ussr_mpk_201m_1;PSKR-203
-ussr_mpk_201m_2;Subchaser
-germ_rdm242_shop;Krischan der Große
-germ_rdm242_0;Flakträger Krischan der Große, 1943
-germ_rdm242_1;Krischan der Große
-germ_rdm242_2;Motor Gun Boat
-ussr_cruiser_kerch_shop;Kyerč' (1950)
-ussr_cruiser_kerch_0;Legkiy kreyser Tip Emmanuil Filibert Gertsog Aostskiy, Kyerč' (1950)
-ussr_cruiser_kerch_1;Kyerč' (1950)
-ussr_cruiser_kerch_2;Light Cruiser
-ussr_mpk_201k_shop;P-190
-ussr_mpk_201k_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 201, P-190
-ussr_mpk_201k_1;P-190
-ussr_mpk_201k_2;Subchaser
-germ_skr_pr50_karl_marx_shop;Karl Marx (122)
-germ_skr_pr50_karl_marx_0;Fregatte, Projekt 50, Karl Marx (122) (1962)
-germ_skr_pr50_karl_marx_1;Pr. 50
-germ_skr_pr50_karl_marx_2;Patrol ship
-ussr_mpk_pr12412p_shop;MPK-211
-ussr_mpk_pr12412p_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 12412P, MPK-211
-ussr_mpk_pr12412p_1;MPK-211
-ussr_mpk_pr12412p_2;Patrol ship
-germ_battleship_bayern_shop;SMS Bayern
-germ_battleship_bayern_0;Bayern-class, SMS Bayern, 1916
-germ_battleship_bayern_1;SMS Bayern
-germ_battleship_bayern_2;Battleship
-germ_km5_shop;KS 5
-germ_km5_0;kleines Schnellboot Typ KS, KS 5
-germ_km5_1;Type KS
-germ_km5_2;Motor Torpedo Boat
-ussr_cruiser_mikhail_kutuzov_shop;Mikhail Kutuzov
-ussr_cruiser_mikhail_kutuzov_0;Pr. 68-A, Mikhail Kutuzov, 1986
-ussr_cruiser_mikhail_kutuzov_1;Mikhail Kutuzov
-ussr_cruiser_mikhail_kutuzov_2;Light Cruiser
-germ_cruiser_elbing_shop;SMS Elbing
-germ_cruiser_elbing_0;Pillau-class, SMS Elbing, 1915
-germ_cruiser_elbing_1;SMS Elbing
-germ_cruiser_elbing_2;Light Cruiser
-ussr_destroyer_pr56_blagorodny_shop;Blagorodnyj
-ussr_destroyer_pr56_blagorodny_0;Pr. 56-PLO, Blagorodnyj, 1978
-ussr_destroyer_pr56_blagorodny_1;Blagorodnyj
-ussr_destroyer_pr56_blagorodny_2;Destroyer
-germ_type152_hugin_shop;Hugin (P 6191)
-germ_type152_hugin_0;Schnellboot Typ 152, Hugin (P 6191)
-germ_type152_hugin_1;Hugin
-germ_type152_hugin_2;Motor Torpedo Boat
-ussr_destroyer_7_besposhchadny_shop;Byespoŝadnyj
-ussr_destroyer_7_besposhchadny_0;Pr. 7, Byespoŝadnyj, 1942
-ussr_destroyer_7_besposhchadny_1;Byespoŝadnyj
-ussr_destroyer_7_besposhchadny_2;Destroyer
-ussr_mpk_pr1331m_shop;MPK-192
-ussr_mpk_pr1331m_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 1331M, MPK-192
-ussr_mpk_pr1331m_1;MPK-192
-ussr_mpk_pr1331m_2;Patrol ship
-germ_destroyer_class1936c_z47_shop;Z 47
-germ_destroyer_class1936c_z47_0;Zerstörer Typ 1936 C, Z 47, 1945
-germ_destroyer_class1936c_z47_1;Z 47
-germ_destroyer_class1936c_z47_2;Destroyer
-ussr_destroyer_7_ryany_shop;R'ânyj
-ussr_destroyer_7_ryany_0;Pr. 7, R'ânyj, 1945
-ussr_destroyer_7_ryany_1;R'ânyj
-ussr_destroyer_7_ryany_2;Destroyer
-germ_pr_131_shop;Nr. 401
-germ_pr_131_0;"kleines Torpedoschnellboot Projekt 131 ""Libelle"" | Nr. 401"
-germ_pr_131_1;Nr. 401
-germ_pr_131_2;Motor Torpedo Boat
-ussr_destroyer_regele_ferdinand_class_letuchiy_shop;Lyetučij
-ussr_destroyer_regele_ferdinand_class_letuchiy_0;Regele Ferdinand-class, Lyetučij, 1945
-ussr_destroyer_regele_ferdinand_class_letuchiy_1;Lyetučij
-ussr_destroyer_regele_ferdinand_class_letuchiy_2;Destroyer
-fr_destroyer_aigle_class_aigle_shop;Aigle (X 13)
-fr_destroyer_aigle_class_aigle_0;Aigle-class, Aigle (X 13), 1942
-fr_destroyer_aigle_class_aigle_1;Aigle
-fr_destroyer_aigle_class_aigle_2;Destroyer
-ussr_mpk_204_shop;MPK-88
-ussr_mpk_204_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 204, MPK-88
-ussr_mpk_204_1;MPK-88
-ussr_mpk_204_2;Subchaser
-germ_type153_pfeil_shop;Pfeil (P 6193)
-germ_type153_pfeil_0;Flugkörper-Schnellboot, Ferocity-Klasse, Pfeil (P 6193)
-germ_type153_pfeil_1;Pfeil
-germ_type153_pfeil;Motor Torpedo Boat
-fr_cruiser_dugauy_class_dugauy_trouin_shop;Duguay-Trouin
-fr_cruiser_dugauy_class_dugauy_trouin_0;Duguay-Trouin-class, Duguay-Trouin, 1944
-fr_cruiser_dugauy_class_dugauy_trouin_1;Duguay-Trouin
-fr_cruiser_dugauy_class_dugauy_trouin_2;Light Cruiser
-fr_amd_35_sa35_shop;AMD 35 (SA 35)
-fr_amd_35_sa35_0;AMD 35 (SA 35)
-fr_amd_35_sa35_1;AMD 35 (SA 35)
-fr_amd_35_sa35_2;Light Tank
-ussr_cruiser_shcherbakov_shop;Ŝyerbakov
-ussr_cruiser_shcherbakov_0;Pr. 68bis-ZiF, Ŝyerbakov
-ussr_cruiser_shcherbakov_1;Ŝyerbakov
-ussr_cruiser_shcherbakov_2;Light Cruiser
 uk_centurion_mk_2_shop;Centurion, Mk. II
 uk_centurion_mk_2_0;Tank, Cruiser, A.41A, Centurion, Mk. II
 uk_centurion_mk_2_1;Centurion, Mk. II
 uk_centurion_mk_2_2;Medium Tank
-fr_destroyer_jaguar_class_chacal_shop;Chacal (X 23)
-fr_destroyer_jaguar_class_chacal_0;Jaguar-class, Chacal (X 23), 1938
-fr_destroyer_jaguar_class_chacal_1;Chacal
-fr_destroyer_jaguar_class_chacal_2;Destroyer
-germ_destroyer_class1936c_z46_shop;Z 46
-germ_destroyer_class1936c_z46_0;Zerstörer Typ 1936 C, Z46, 1945
-germ_destroyer_class1936c_z46_1;Z 46
-germ_destroyer_class1936c_z46_2;Destroyer
-fr_cruiser_dugauy_class_primaguet_shop;Primaguet
-fr_cruiser_dugauy_class_primaguet_0;Duguay-Trouin-class, Primaguet, 1940
-fr_cruiser_dugauy_class_primaguet_1;Primaguet
-fr_cruiser_dugauy_class_primaguet_2;Light Cruiser
-fr_cruiser_jeanne_darc_shop;Jeanne d'Arc
-fr_cruiser_jeanne_darc_0;Jeanne d'Arc-class, Jeanne d'Arc, 1944
-fr_cruiser_jeanne_darc_1;Jeanne d'Arc
-fr_cruiser_jeanne_darc_2;Light Cruiser
-fr_destroyer_le_fantasque_class_le_malin_shop;Le Malin (X 82)
-fr_destroyer_le_fantasque_class_le_malin_0;Fantasque-class, Le Malin (X 82), 1943
-fr_destroyer_le_fantasque_class_le_malin_1;Le Malin
-fr_destroyer_le_fantasque_class_le_malin_2;Destroyer
-fr_destroyer_jaguar_class_panthere_shop;Panthère (X 43)
-fr_destroyer_jaguar_class_panthere_0;Jaguar-class, Panthère (X 43), 1940
-fr_destroyer_jaguar_class_panthere_1;Panthere
-fr_destroyer_jaguar_class_panthere_2;Destroyer
-fr_destroyer_aigle_class_vautour_shop;Vautour (X 71)
-fr_destroyer_aigle_class_vautour_0;Aigle-class, Vautour (X 71), 1931
-fr_destroyer_aigle_class_vautour_1;Vautour
-fr_destroyer_aigle_class_vautour_2;Destroyer
-fr_destroyer_bourrasque_class_bourrasque_shop;Bourrasque (T 41)
-fr_destroyer_bourrasque_class_bourrasque_0;Bourrasque-class, Bourrasque (T 41), 1939
-fr_destroyer_bourrasque_class_bourrasque_1;Bourrasque
-fr_destroyer_bourrasque_class_bourrasque_2;Destroyer
-fr_destroyer_aigle_class_milan_shop;Milan (X 111)
-fr_destroyer_aigle_class_milan_0;Aigle-class, Milan (X 111), 1942
-fr_destroyer_aigle_class_milan_1;Milan
-fr_destroyer_aigle_class_milan_2;Destroyer
-fr_battleship_courbet_class_paris_shop;Paris
-fr_battleship_courbet_class_paris_0;Courbet-class, Paris, 1939
-fr_battleship_courbet_class_paris_1;Paris
-fr_battleship_courbet_class_paris_2;Battleship
-fr_battleship_bretagne_class_lorraine_shop;Lorraine
-fr_battleship_bretagne_class_lorraine_0;Bretagne-class, Lorraine, 1944
-fr_battleship_bretagne_class_lorraine_1;Lorraine
-fr_battleship_bretagne_class_lorraine_2;Battleship
-fr_destroyer_jaguar_class_leopard_shop;Léopard (X 22)
-fr_destroyer_jaguar_class_leopard_0;Jaguar-class, Léopard (X 22), 1942
-fr_destroyer_jaguar_class_leopard_1;Leopard
-fr_destroyer_jaguar_class_leopard_2;Destroyer
-fr_cruiser_emile_bertin_shop;Emile Bertin
-fr_cruiser_emile_bertin_0;Emile Bertin-class, Emile Bertin, 1942
-fr_cruiser_emile_bertin_1;Emile Bertin
-fr_cruiser_emile_bertin_2;Light Cruiser
-fr_destroyer_marceau_class_marceau_shop;Marceau (D 601)
-fr_destroyer_marceau_class_marceau_0;Marceau (D 601), 1950
-fr_destroyer_marceau_class_marceau_1;Marceau
-fr_destroyer_marceau_class_marceau_2;Destroyer
-germ_battleship_nassau_shop;SMS Nassau
-germ_battleship_nassau_0;Nassau-class, SMS Nassau, 1910
-germ_battleship_nassau_1;SMS Nassau
-germ_battleship_nassau_2;Battleship
-ussr_battleship_marat_shop;Marat
-ussr_battleship_marat_0;Syevastopol'-class, Marat, 1941
-ussr_battleship_marat_1;Marat
-ussr_battleship_marat_2;Battleship
-germ_minelayer_drache_shop;Drache
-germ_minelayer_drache_0;R-1-class, Drache
-germ_minelayer_drache_1;Drache
-germ_minelayer_drache_2;Minesweeper
-germ_battleship_sachsen_shop;SMS Sachsen
-germ_battleship_sachsen_0;Bayern-class, SMS Sachsen
-germ_battleship_sachsen_1;SMS Sachsen
-germ_battleship_sachsen_2;Battleship
-fr_destroyer_hunt_3series_shop;La Combattante (L 19)
-fr_destroyer_hunt_3series_0;Hunt-class, La Combattante (L 19), 1944
-fr_destroyer_hunt_3series_1;La Combattante
-fr_destroyer_hunt_3series_2;Destroyer
-ussr_destroyer_pr45_shop;Opytnyj
-ussr_destroyer_pr45_0;Pr. 45, Opytnyj, 1942
-ussr_destroyer_pr45_1;Opytnyj
-ussr_destroyer_pr45_2;Destroyer
-fr_battleship_courbet_class_courbet_shop;Courbet
-fr_battleship_courbet_class_courbet_0;Courbet-class, Courbet, 1920
-fr_battleship_courbet_class_courbet_1;Courbet
-fr_battleship_courbet_class_courbet_2;Battleship
-fr_destroyer_vauquelin_class_vauquelin_shop;Vauquelin (X 53)
-fr_destroyer_vauquelin_class_vauquelin_0;Vauquelin-class, Vauquelin (X 53), 1941
-fr_destroyer_vauquelin_class_vauquelin_1;Vauquelin
-fr_destroyer_vauquelin_class_vauquelin_2;Destroyer
-ussr_battleship_novorossiysk_shop;Novorossijsk
-ussr_battleship_novorossiysk_0;Conte di Cavour-class, Novorossijsk, 1955
-ussr_battleship_novorossiysk_1;Novorossijsk
-ussr_battleship_novorossiysk_2;Battleship
-fr_destroyer_le_fantasque_class_le_triomphant_shop;Le Triomphant (X 83)
-fr_destroyer_le_fantasque_class_le_triomphant_0;Le Fantasque-class, Le Triomphant (X 83), 1942
-fr_destroyer_le_fantasque_class_le_triomphant_1;Le Triomphant
-fr_destroyer_le_fantasque_class_le_triomphant_2;Destroyer
-fr_destroyer_desaix_class_kleber_shop;Kléber (D 603)
-fr_destroyer_desaix_class_kleber_0;Desaix-class, Kléber (D 603), 1951
-fr_destroyer_desaix_class_kleber_1;Kléber
-fr_destroyer_desaix_class_kleber_2;Destroyer
-fr_battleship_bretagne_class_bretagne_shop;Bretagne
-fr_battleship_bretagne_class_bretagne_0;Bretagne-class, Bretagne, 1925
-fr_battleship_bretagne_class_bretagne_1;Bretagne
-fr_battleship_bretagne_class_bretagne_2;Battleship
-germ_battleship_baden_shop;SMS Baden
-germ_battleship_baden_0;Bayern-class, SMS Baden, 1918
-germ_battleship_baden_1;SMS Baden
-germ_battleship_baden_2;Battleship
-germ_kondor2_class_shop;Bernau (343)
-germ_kondor2_class_0;Projekt 89.2 UR, Bernau (343), 1985
-germ_kondor2_class_1;Bernau
-germ_kondor2_class_2;Minesweeper
-ussr_mpk_pr11451_shop;MPK-215
-ussr_mpk_pr11451_0;Malen'kiy Protivolodochnyy Korabl' Proyekt 11451 Sokol-2, MPK-215
-ussr_mpk_pr11451_1;MPK-215
-ussr_mpk_pr11451_2;Subchaser
-fr_destroyer_bourrasque_class_tornade_shop;Tornade (T 73)
-fr_destroyer_bourrasque_class_tornade_0;Bourrasque-class, Tornade (T 73), 1939
-fr_destroyer_bourrasque_class_tornade_1;Tornade
-fr_destroyer_bourrasque_class_tornade_2;Destroyer
-fr_cruiser_chateaurenault_class_guichen_shop;Guichen (D 607)
-fr_cruiser_chateaurenault_class_guichen_0;Chateaurenault-class, Guichen (D 607), 1957
-fr_cruiser_chateaurenault_class_guichen_1;Guichen
-fr_cruiser_chateaurenault_class_guichen_2;Destroyer
-us_frigate_buckley_class_coolbaugh_shop;USS Coolbaugh (DE-217)
-us_frigate_buckley_class_coolbaugh_0;Buckley-class, USS Coolbaugh (DE-217)
-us_frigate_buckley_class_coolbaugh_1;USS Coolbaugh
-us_frigate_buckley_class_coolbaugh_2;Frigate
-fr_mtb96_vosper_shop;MTB 96
-fr_mtb96_vosper_0;MTB Vosper 3 series, MTB 96
-fr_mtb96_vosper_1;MTB 96
-fr_mtb96_vosper_2;Motor Torpedo Boat
-fr_lcg_m_l9059_shop;L 9059
-fr_lcg_m_l9059_0; Landing Craft, Gun (Medium), L 9059
-fr_lcg_m_l9059_1;L 9059
-fr_lcg_m_l9059_2;Motor Gun Boat
 fr_vtb8_shop;VTB 8
 fr_vtb8_0;Vedette Torpilleur VTB 8
 fr_vtb8_1;VTB 8
@@ -16196,10 +16216,6 @@ fr_type40k_vedette_shop;VTB 19
 fr_type40k_vedette_0;Vedette Torpilleur VTB 19
 fr_type40k_vedette_1;VTB 19
 fr_type40k_vedette_2;Torpedo Boat
-germ_battlecruiser_derfflinger_shop;SMS Derfflinger
-germ_battlecruiser_derfflinger_0;Derfflinger-class, SMS Derfflinger, 1916
-germ_battlecruiser_derfflinger_1;SMS Derfflinger
-germ_battlecruiser_derfflinger_2;Battlecruiser
 fr_vtb11_shop;VTB 11
 fr_vtb11_0;Vedette Torpilleur VTB 11
 fr_vtb11_1;VTB 11
@@ -16212,36 +16228,12 @@ fr_vtb14_shop;VTB 14
 fr_vtb14_0;Vedette Torpilleur VTB 14
 fr_vtb14_1;VTB 14
 fr_vtb14_2;Torpedo Boat
-ussr_battlecruiser_izmail_shop;Izmail
-ussr_battlecruiser_izmail_0;Izmail-class, Izmail
-ussr_battlecruiser_izmail_1;Izmail
-ussr_battlecruiser_izmail_2;Battlecruiser
 fr_p730_combattante_shop;La Combattante (P 730)
 fr_p730_combattante_0;La Combattante (P 730)
 fr_p730_combattante_1;La Combattante
 fr_p730_combattante_2;Missile Boat
-fr_destroyer_mogador_class_mogador_shop;Mogador (X 61)
-fr_destroyer_mogador_class_mogador_0;Mogador-class, Mogador (X 61), 1940
-fr_destroyer_mogador_class_mogador_1;Mogador
-fr_destroyer_mogador_class_mogador_2;Destroyer
-fr_frigate_croix_de_lorraine_class_la_surprise_shop;La Surprise (F 08)
-fr_frigate_croix_de_lorraine_class_la_surprise_0;Chamois-class, La Surprise (F 08)
-fr_frigate_croix_de_lorraine_class_la_surprise_1;La Surprise
-fr_frigate_croix_de_lorraine_class_la_surprise_2;Frigate
-ussr_cruiser_omaha_class_murmansk_shop;Murmansk
-ussr_cruiser_omaha_class_murmansk_0;Todd Dry Dock and Construction Company | Omakha-klass | Murmansk
-ussr_cruiser_omaha_class_murmansk_1;Murmansk
-ussr_cruiser_omaha_class_murmansk_2;Light Cruiser
 germ_sppz2_luchs_a2_shop;SpPz Luchs A2
 germ_sppz2_luchs_a2_0;Spähpanzer Luchs A2
 germ_sppz2_luchs_a2_1;Luchs A2
 germ_sppz2_luchs_a2_2;IFV
-ussr_object_140_shop;Ob. 140
-ussr_object_140_0;"Ob""yekt 140"
-ussr_object_140_1;Ob. 140
-ussr_object_140_2;Medium Tank
-ussr_battleship_arhangelsk_shop;Arkhangyel'sk
-ussr_battleship_arhangelsk_0;Portsmouth Royal Dockyard / Philadelphia Navy Yard | Linkor Tip Rojâl Sovyeryen | Arkhangyel'sk
-ussr_battleship_arhangelsk_1;Arkhangyel'sk
-ussr_battleship_arhangelsk_2;Battleship
 SHIPS_LANG_KEEP_IT_ALWAYS_FIRST;

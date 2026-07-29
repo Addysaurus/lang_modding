@@ -1,35 +1,48 @@
 <ID|readonly|noverify>;<English>
 //USA GUNS - GUN/FAMILY START: RANK 6
 m249_para_shop;M249
-m249_para_0;"FN America | Machine Gun, 5.56 mm, M249 ""Para"""
+m249_para_0;"<color=#81c3fc>FN America</color>
+Machine Gun, 5.56 mm, M249 ""Para"""
 m249_para_1;M249
-m249_para_2;Light Machine Gun
+m249_para_2;Machine Gun
+
 m4a1_shop;M4A1
-m4a1_0;Colt's Manufacturing Company Model 921 | Rifle, 5.56mm, M4A1
+m4a1_0;"<color=#81c3fc>Colt's Manufacturing Company Model 921</color>
+Rifle, 5.56mm, M4A1"
 m4a1_1;M4A1
 m4a1_2;Assault Rifle
 
 //USA GUNS - GUN/FAMILY START: RANK 7
 mac_11_shop;M11/9mm
-mac_11_0;Cobray Company M11/9mm Submachine Gun
+mac_11_0;<color=#81c3fc>Cobray Company M11/9mm Submachine Gun</color>
 mac_11_1;M11/9mm
 mac_11_2;Submachine Gun
 m110a1_sdmr_shop;M110A1 SDMR
-m110a1_sdmr_0;Heckler & Koch | Rifle, Precision Lightweight, 7.62mm, M110A1 Squad Designated Marksman Rifle
+
+m110a1_sdmr_0;"<color=#81c3fc>Heckler & Koch</color>
+<color=#ff8c80>Squad Designated Marksman Rifle</color>
+Rifle, Precision Lightweight, 7.62mm, M110A1 Squad Designated
+Marksman Rifle"
 m110a1_sdmr_1;M110A1
 m110a1_sdmr_2;Precision Lightweight Rifle
+
 m16a4_shop;M16A4
-m16a4_0;Colt's Manufacturing Company Model 945 | Rifle, 5.56mm, M16A4
+m16a4_0;"<color=#81c3fc>Colt's Manufacturing Company Model 945</color>
+Rifle, 5.56mm, M16A4"
 m16a4_1;M16A4
 m16a4_2;Assault Rifle
+
 fn_scar_shop;Mk 16 Mod 0
-fn_scar_0;FN America SCAR-L | Rifle, 5.56mm, Mk 16 Mod 0
+fn_scar_0;"<color=#81c3fc>FN America SCAR-L</color>
+Rifle, 5.56mm, Mk 16 Mod 0"
 fn_scar_1;Mk 16 Mod 0
 fn_scar_2;Assault Rifle
 
 //USA GUNS - GUN/FAMILY START: RANK 8
 sig_xm5_shop;XM5
-sig_xm5_0;Sig Sauer Next Generation Squad Weapon-Rifle | Rifle, 6.8mm, XM5
+sig_xm5_0;"<color=#81c3fc>Sig Sauer NGSW-R</color>
+<color=#ff8c80>Next Generation Squad Weapon-Rifle</color>
+Rifle, 6.8mm, XM5"
 sig_xm5_1;XM5
 sig_xm5_2;Assault Rifle
 
@@ -37,12 +50,24 @@ sig_xm5_2;Assault Rifle
 
 //USSR GUNS - GUN/FAMILY START: RANK 7
 asm_val_shop;ASM
-asm_val_0;"Czyentral'nyj naučno-isslyedovatyel'skij institut točnogo mašinostroyeniâ | 6P30M | 9-mm avtomat spyeczial'nyj ASM ""Val"""
+asm_val_0;"<color=#81c3fc>Czyentral'nyj naučno-isslyedovatyel'skij institut točnogo mašinostroyeniâ</color>
+<color=#5cae63>6P30M</color>
+9-mm avtomat spyeczial'nyj ASM ""Val"""
 asm_val_1;ASM
 asm_val_2;Automatic Rifle
 
 //USSR GUNS - GUN/FAMILY START: RANK 8
 ak_12_shop;AK-12
-ak_12_0;Konczyern «Kalašnikov» | 6P70M | 5,45-mm avtomat Kalašnikova AK-12 (2020)
+ak_12_0;"<color=#81c3fc>Konczyern «Kalašnikov»</color>
+<color=#5cae63>6P70M</color>
+5,45-mm avtomat Kalašnikova AK-12
+<color=#adadad>(2020)</color>"
 ak_12_1;AK-12
 ak_12_2;Automatic Rifle
+
+ak_15_shop;AK-15
+ak_15_0;"<color=#81c3fc>Kontsyern «Kalashnikof»</color>
+<color=#5cae63>6P71</color>
+7,62-mm aftomat Kalashnikova AK-15"
+ak_15_1;AK-15
+ak_15_2;Automatic Rifle

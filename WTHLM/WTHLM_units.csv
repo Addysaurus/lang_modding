@@ -1443,8 +1443,8 @@ shop/group/germ_westfalen_helgoland_group;SMS Westfalen / Helgoland
 shop/group/mig_21_germany_group;MiG-21MF / bis (SAU)
 shop/group/mig-21_hungary_group;◔ MiG-21MF / Bisz
 
-shop/group/ussr_t_34_40_41_group;T-34 (Dec, 1940) / (May, 1941)
-shop/group/ussr_t_34_42_group;T-34 (Sep, 1942) / (Èkran.) (STZ)
+shop/group/ussr_t_34_40_41_group;T-34 (Dec 1940) / (May 1941)
+shop/group/ussr_t_34_42_group;T-34 (Sep 1942) / (Èkran.) (STZ)
 shop/group/ussr_btr_zis_group;BTR-152A / ZiS-43
 ussr_su_85_group;SU-85 / 85M
 shop/group/ussr_is_2_1944_group;IS-2 (2-j) / (2-j) (No. 321)
@@ -1453,9 +1453,9 @@ shop/group/ussr_t_55_group;T-55A / 62
 shop/group/ussr_t_62_group;T-55AD-1 / 62M-1
 shop/group/ussr_t_72b_group;T-72B (Kontakt-1) / (5)
 shop/group/ussr_t_64_t_80_group;T-64BV / 80B
-shop/group/ussr_kv_1_2_group;KV-1 (Feb, 1940) / 2 (Jan, 1940)
-shop/group/ussr_kv_1_85_group;KV-1 (Jul, 1941) / 85
-shop/group/ussr_t_34_85_group;T-34-85 (Mar, 1944) / (Sep, 1944)
+shop/group/ussr_kv_1_2_group;KV-1 (Feb 1940) / 2 (Jan 1940)
+shop/group/ussr_kv_1_85_group;KV-1 (Jul 1941) / 85
+shop/group/ussr_t_34_85_group;T-34-85 (Mar 1944) / (Sep 1944)
 shop/group/ussr_t_64_group;T-64A / BV
 shop/group/ussr_bmp_1_group;BMP-1P / PT-85
 shop/group/ussr_su_object_group;SU-122-54 / Ob. 268
@@ -8740,27 +8740,27 @@ ussr_su_76d_1;SU-76D
 ussr_su_76d_2;SPG
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
-ussr_t_34_1941_l_11_shop;T-34 (Dec, 1940)
+ussr_t_34_1941_l_11_shop;T-34 (Dec 1940)
 ussr_t_34_1941_l_11_0;"<color=#81c3fc>Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183</color>
 <color=#5cae63>Ob""yekt 34</color>
 T-34 obr. 1940 g.
-<color=#adadad>(December, 1940)</color>"
+<color=#adadad>(December 1940)</color>"
 ussr_t_34_1941_l_11_1;T-34
 ussr_t_34_1941_l_11_2;Medium Tank
 
-ussr_t_34_1941_shop;"T-34 (May, 1941)"
+ussr_t_34_1941_shop;"T-34 (May 1941)"
 ussr_t_34_1941_0;"<color=#81c3fc>Ural'skij Tankovyj Zavod, Zavod №183</color>
 <color=#5cae63>Ob""yekt 34</color>
 T-34 obr. 1941 g.
-<color=#adadad>(May, 1941)</color>"
+<color=#adadad>(May 1941)</color>"
 ussr_t_34_1941_1;T-34
 ussr_t_34_1941_2;Medium Tank
 
-ussr_t_34_1942_shop;T-34 (Sep, 1942)
+ussr_t_34_1942_shop;T-34 (Sep 1942)
 ussr_t_34_1942_0;"<color=#81c3fc>Ural'skij Tankovyj Zavod, Zavod №183</color>
 <color=#5cae63>Ob""yekt 34</color>
 T-34 obr. 1942 g.
-<color=#adadad>(September, 1942)</color>"
+<color=#adadad>(September 1942)</color>"
 ussr_t_34_1942_1;T-34
 ussr_t_34_1942_2;Medium Tank
 
@@ -8768,7 +8768,7 @@ ussr_t_34E_STZ_shop;T-34 (Èkran.) (STZ)
 ussr_t_34E_STZ_0;"<color=#81c3fc>Stalingradskij traktornyj zavod imyeni F.È. Dzyeržinskogo</color>
 <color=#5cae63>Ob""yekt 34</color>
 T-34 obr. 1941 g.
-<color=#adadad>(Èkranirovannyj) (February, 1942)</color>"
+<color=#adadad>(Èkranirovannyj) (February 1942)</color>"
 ussr_t_34E_STZ_1;T-34
 ussr_t_34E_STZ_2;Medium Tank
 
@@ -8776,15 +8776,15 @@ ussr_t_34_1940_l_11_shop;T-34 (pilot)
 ussr_t_34_1940_l_11_0;"<color=#81c3fc>Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183</color>
 <color=#5cae63>Ob""yekt 34</color>
 T-34
-<color=#adadad>(pilot model) (March, 1940)</color>"
+<color=#adadad>(pilot model) (March 1940)</color>"
 ussr_t_34_1940_l_11_1;T-34
 ussr_t_34_1940_l_11_2;Medium Tank
 
-ussr_t_34_1941_cast_turret_shop;"T-34 (Jul, 1941) (1-â Gv.T.Br.)"
+ussr_t_34_1941_cast_turret_shop;"T-34 (Jul 1941) (1-â Gv.T.Br.)"
 ussr_t_34_1941_cast_turret_0;"<color=#81c3fc>Khar'kovskij Parovozostroityel'nyj Zavod, Zavod №183</color>
 <color=#5cae63>Ob""yekt 34</color>
 T-34 obr. 1941 g.
-<color=#adadad>(July, 1941)</color>
+<color=#adadad>(July 1941)</color>
 <color=@currencyGoldColor>1-â Gvardyejskaâ Tankovaâ Brigada</color>"
 ussr_t_34_1941_cast_turret_1;T-34
 ussr_t_34_1941_cast_turret_2;Medium Tank
@@ -8793,65 +8793,65 @@ ussr_t_34E_shop;T-34 (Èkran.) (№112)
 ussr_t_34E_0;"<color=#81c3fc>Zavod №112</color>
 <color=#5cae63>Ob""yekt 34</color>
 T-34 obr. 1941 g.
-<color=#adadad>(Èkranirovannyj) (February, 1943)</color>"
+<color=#adadad>(Èkranirovannyj) (February 1943)</color>"
 ussr_t_34E_1;T-34
 ussr_t_34E_2;Medium Tank
 
-ussr_t_34_1941_57_shop;T-34 (May, 1941) (ZiS-4)
+ussr_t_34_1941_57_shop;T-34 (May 1941) (ZiS-4)
 ussr_t_34_1941_57_0;"<color=#81c3fc>Stalingradskij traktornyj zavod imyeni F.È. Dzyeržinskogo</color>
 <color=#5cae63>Ob""yekt 34</color>
 T-34 obr. 1941 g.
-<color=#adadad>(May, 1941) (ZiS-4)</color>"
+<color=#adadad>(May 1941) (ZiS-4)</color>"
 ussr_t_34_1941_57_1;T-34
 ussr_t_34_1941_57_2;Medium Tank
 
-ussr_t_34_85_d_5t_shop;T-34-85 (Mar, 1944)
+ussr_t_34_85_d_5t_shop;T-34-85 (Mar 1944)
 ussr_t_34_85_d_5t_0;"<color=#81c3fc>Ural'skij Tankovyj Zavod, Zavod №183</color>
 <color=#5cae63>Ob""yekt 35</color>
 T-34-85 obr. 1944 g.
-<color=#adadad>((March, 1944)</color>"
+<color=#adadad>(March 1944)</color>"
 ussr_t_34_85_d_5t_1;T-34-85
 ussr_t_34_85_d_5t_2;Medium Tank
 
-ussr_t_34_85_zis_53_shop;T-34-85 (Sep, 1944)
+ussr_t_34_85_zis_53_shop;T-34-85 (Sep 1944)
 ussr_t_34_85_zis_53_0;"<color=#81c3fc>Ural'skij Tankovyj Zavod, Zavod №183</color>
 <color=#5cae63>Ob""yekt 35</color>
 T-34-85 obr. 1944 g.
-<color=#adadad>((September, 1944)</color>"
+<color=#adadad>((September 1944)</color>"
 ussr_t_34_85_zis_53_1;T-34-85
 ussr_t_34_85_zis_53_2;Medium Tank
 
-ussr_t_34_57_1943_shop;T-34 (Sep, 1942) (ZiS-4M)
+ussr_t_34_57_1943_shop;T-34 (Sep 1942) (ZiS-4M)
 ussr_t_34_57_1943_0;"<color=#81c3fc>Ural'skij Tankovyj Zavod, Zavod №183</color>
 <color=#5cae63>Ob""yekt 34</color>
 T-34 obr. 1942 g.
-<color=#adadad>((September, 1942) (ZiS-4M) (July, 1943)</color>"
+<color=#adadad>(September 1942) (ZiS-4M) (July, 1943)</color>"
 ussr_t_34_57_1943_1;T-34
 ussr_t_34_57_1943_2;Medium Tank
 
-ussr_t_34_85_zis_53_kit_3rank_shop;"T-34-85 (Sep, 1944) ""In May 1945"""
+ussr_t_34_85_zis_53_kit_3rank_shop;"T-34-85 (Sep 1944) ""In May 1945"""
 ussr_t_34_85_zis_53_kit_3rank_0;"<color=#81c3fc>Ural'skij tankovyj zavod №183</color>
 <color=#5cae63>Ob""yekt 35</color>
 T-34-85 obr. 1944 g.
-<color=#adadad>(September, 1944)</color>
+<color=#adadad>(September 1944)</color>
 <color=@currencyGoldColor>""In May 1945""</color>"
 ussr_t_34_85_zis_53_kit_3rank_1;T-34-85
 ussr_t_34_85_zis_53_kit_3rank_2;Medium Tank
 
-ussr_t_34_85_zis_53_v80_shop;T-34-85 (Sep, 1944) (64-â Gv.T.Br.)
+ussr_t_34_85_zis_53_v80_shop;T-34-85 (Sep 1944) (64-â Gv.T.Br.)
 ussr_t_34_85_zis_53_v80_0;"<color=#81c3fc>Ural'skij tankovyj zavod №183</color>
 <color=#5cae63>Ob""yekt 35</color>
 T-34-85 obr. 1944 g.
-<color=#adadad>(September, 1944)</color>
+<color=#adadad>(September 1944)</color>
 <color=@currencyGoldColor>64-â gvardyejskaâ tankovaâ brigada</color>"
 ussr_t_34_85_zis_53_v80_1;T-34-85
 ussr_t_34_85_zis_53_v80_2;Medium Tank
 
-ussr_t_34_85_stp_s53_shop;T-34-85 (May, 1945) (STP-S-53)
+ussr_t_34_85_stp_s53_shop;T-34-85 (May 1945) (STP-S-53)
 ussr_t_34_85_stp_s53_0;"<color=#81c3fc>Zavod № 112</color>
 <color=#5cae63>Ob""yekt 135</color>
 Tank T-34-85 obr. 1945 g.
-<color=#adadad>(May, 1945) (Stabilizator STP-S-53 ""Taran"")</color>"
+<color=#adadad>(May 1945) (Stabilizator STP-S-53 ""Taran"")</color>"
 ussr_t_34_85_stp_s53_1;T-34-85
 ussr_t_34_85_stp_s53_2;Medium Tank
 
@@ -8859,7 +8859,7 @@ ussr_t_34_85E_shop;T-34-85 (Èkran.) (36-â T.Br.)
 ussr_t_34_85E_0;"<color=#81c3fc>Omskij zavod №174 imyeni Lyenina</color>
 <color=#5cae63>Ob""yekt 35</color>
 T-34-85 obr. 1944 g.
-<color=#adadad>(Èkranirovannyj) (September, 1944)</color>
+<color=#adadad>(Èkranirovannyj) (September 1944)</color>
 <color=@currencyGoldColor>36-â Tankovaâ Brigada</color>"
 ussr_t_34_85E_1;T-34-85
 ussr_t_34_85E_2;Medium Tank
@@ -8890,9 +8890,9 @@ T-80"
 ussr_t_80_1;T-80
 ussr_t_80_2;Light Tank
 
-ussr_kv_1_L_11_shop;KV-1 (Feb, 1940)
+ussr_kv_1_L_11_shop;KV-1 (Feb 1940)
 ussr_kv_1_L_11_0;"KV-1 obr. 1940 g.
-<color=#adadad>(February, 1940)</color>"
+<color=#adadad>(February 1940)</color>"
 ussr_kv_1_L_11_1;KV-1
 ussr_kv_1_L_11_2;Heavy Tank
 
@@ -8901,9 +8901,9 @@ ussr_kv_1s_0;KV-1S
 ussr_kv_1s_1;KV-1
 ussr_kv_1s_2;Heavy Tank
 
-ussr_kv_1_zis_5_shop;KV-1 (Jul, 1941)
+ussr_kv_1_zis_5_shop;KV-1 (Jul 1941)
 ussr_kv_1_zis_5_0;"KV-1 obr. 1941 g.
-<color=#adadad>(July, 1941)</color>"
+<color=#adadad>(July 1941)</color>"
 ussr_kv_1_zis_5_1;KV-1
 ussr_kv_1_zis_5_2;Heavy Tank
 
@@ -8913,9 +8913,9 @@ ussr_kv_1e_0;"KV-1 obr. 1941 g.
 ussr_kv_1e_1;KV-1
 ussr_kv_1e_2;Heavy Tank
 
-ussr_kv_2_1939_shop;KV-2 (Jan, 1940)
+ussr_kv_2_1939_shop;KV-2 (Jan 1940)
 ussr_kv_2_1939_0;"KV-2 obr. 1940 g.
-<color=#adadad>(January, 1940)</color>"
+<color=#adadad>(January 1940)</color>"
 ussr_kv_2_1939_1;KV-2
 ussr_kv_2_1939_2;Heavy Tank
 
@@ -8927,7 +8927,7 @@ ussr_kv_2_1940_2;Heavy Tank
 
 ussr_kv_2_zis_6_shop;KV-2 (ZiS-6)
 ussr_kv_2_zis_6_0;"KV-2 obr. 1941 g.
-<color=#adadad>(ZiS-6) (May, 1941)</color>"
+<color=#adadad>(ZiS-6) (May 1941)</color>"
 ussr_kv_2_zis_6_1;KV-2
 ussr_kv_2_zis_6_2;Heavy Tank
 
@@ -9108,10 +9108,10 @@ ussr_pt_76_57_0;"PT-76B
 ussr_pt_76_57_1;PT-76B (BM-57)
 ussr_pt_76_57_2;Light Tank
 
-ussr_su_152_shop;SU-152 (Mar, 1943)
+ussr_su_152_shop;SU-152 (Mar 1943)
 ussr_su_152_0;"<color=#5cae63>Ob""yekt 236</color>
 SU-152
-<color=#adadad>(March, 1943)</color>"
+<color=#adadad>(March 1943)</color>"
 ussr_su_152_1;SU-152
 ussr_su_152_2;SPG
 
@@ -11101,7 +11101,7 @@ jaguar_gr1a_2;▄ Jaguar
 
 jaguar_is_shop;☸ Jaguar IS (DARIN II)
 jaguar_is_0;"<color=#81c3fc>SEPECAT Jaguar IS <color=@commonTextColor>/</color> Hindustān Ēyronōṭiks Limiṭeḍ</color>
-☸ Jaguar DARIN II ""Shamsher""
+☸ Jaguar DARIN II ""Śamśēr""
 <color=#adadad>(Stage 3)</color>"
 jaguar_is_1;☸ Jaguar IS
 jaguar_is_2;☸ Jaguar
@@ -15869,7 +15869,7 @@ q_5l_1;Q5L
 q_5l_2;Q5
 
 mig-17_f5_shop;▆ F5
-mig-17_f5_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè Chang<color=#81c3fc
+mig-17_f5_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè Chang</color>
 ▆ Chugyeokgi 《F5》"
 mig-17_f5_1;▆ F5
 mig-17_f5_2;▆ F5

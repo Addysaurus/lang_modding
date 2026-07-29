@@ -27,14 +27,20 @@ ussr_ai_sam_launcher_9a310_2;SPAAM
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;КАМАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_1;КАМАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_2;Transport
+
 ships/ussr_aircraftcarrier_admiral_kuznetsov_shop;Адмирал Флота Советского Союза Кузнецов
-ships/ussr_aircraftcarrier_admiral_kuznetsov_0;Черноморский судостроительный завод | Тяжёлый Авианесущий Крейсер Проект 1143.5 Кречет | Адмирал Флота Советского Союза Кузнецов
+ships/ussr_aircraftcarrier_admiral_kuznetsov_0;"<color=#81c3fc>Черноморский судостроительный завод</color>
+<color=#fffa62>Тяжёлый Авианесущий Крейсер Проект 1143.5 Кречет</color>
+Адмирал Флота Советского Союза Кузнецов"
 ships/ussr_aircraftcarrier_admiral_kuznetsov_1;Адмирал Флота Советского Союза Кузнецов
-ships/ussr_aircraftcarrier_admiral_kuznetsov_2;Destroyer
+ships/ussr_aircraftcarrier_admiral_kuznetsov_2;Carrier
+
 ussr_aircraftcarrier_admiral_kuznetsov_shop;Адмирал Флота Советского Союза Кузнецов
-ussr_aircraftcarrier_admiral_kuznetsov_0;Черноморский судостроительный завод | Тяжёлый Авианесущий Крейсер Проект 1143.5 Кречет | Адмирал Флота Советского Союза Кузнецов
+ussr_aircraftcarrier_admiral_kuznetsov_0;"<color=#81c3fc>Черноморский судостроительный завод</color>
+<color=#fffa62>Тяжёлый Авианесущий Крейсер Проект 1143.5 Кречет</color>
+Адмирал Флота Советского Союза Кузнецов"
 ussr_aircraftcarrier_admiral_kuznetsov_1;Адмирал Флота Советского Союза Кузнецов
-ussr_aircraftcarrier_admiral_kuznetsov_2;Destroyer
+ussr_aircraftcarrier_admiral_kuznetsov_2;Carrier
 
 //USSR KILLSTREAK UNITS
 su_24m_killstreak_shop;☢ Су-24М2
@@ -54,7 +60,7 @@ su_24m_china_killstreak_2;␗☢ Су-24
 //USSR GROUPS
 shop/group/la_200_group;200 / Ла-15
 shop/group/mig_29_group;МиГ-29 (9-12) / (9-13)
-shop/group/ussr_t_34_85_group;Т-34-85 (Mar, 1944) / (Sep, 1944)
+shop/group/ussr_t_34_85_group;Т-34-85 (Mar 1944) / (Sep 1944)
 shop/group/ussr_su_object_group;СУ-122-54 / Об. 268
 shop/group/ussr_t_55_group;Т-55А / 62
 shop/group/ussr_it_9p149_group;ИТ-1 / 9П149М
@@ -371,29 +377,29 @@ ussr_kv_8_1;КВ-8
 ussr_kv_8_2;Heavy Tank
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
-ussr_t_34_85_zis_53_kit_3rank_shop;"Т-34-85 (Sep, 1944) ""In May 1945"""
+ussr_t_34_85_zis_53_kit_3rank_shop;"Т-34-85 (Sep 1944) ""In May 1945"""
 ussr_t_34_85_zis_53_kit_3rank_0;"<color=#81c3fc>Уральский танковый завод №183</color>
 <color=#5cae63>Обект 35</color>
 Танк Т-34-85 обр. 1944 г.
-<color=#adadad>(September, 1944)</color>
+<color=#adadad>(September 1944)</color>
 <color=@currencyGoldColor>""In May 1945""</color>"
 ussr_t_34_85_zis_53_kit_3rank_1;Т-34-85
 ussr_t_34_85_zis_53_kit_3rank_2;Medium tank
 
-ussr_t_34_85_zis_53_v80_shop;Т-34-85 (Sep, 1944) (64-я Гв.Т.Бр.)
+ussr_t_34_85_zis_53_v80_shop;Т-34-85 (Sep 1944) (64-я Гв.Т.Бр.)
 ussr_t_34_85_zis_53_v80_0;"<color=#81c3fc>Уральский танковый завод №183</color>
 <color=#5cae63>Обект 35</color>
 Танк Т-34-85 обр. 1944 г.
-<color=#adadad>(September, 1944)</color>
+<color=#adadad>(September 1944)</color>
 <color=@currencyGoldColor>64-я гвардейская танковая бригада</color>"
 ussr_t_34_85_zis_53_v80_1;Т-34-85
 ussr_t_34_85_zis_53_v80_2;Medium tank
 
-ussr_t_34_85_stp_s53_shop;Т-34-85 (May, 1945) (СТП-С-53)
+ussr_t_34_85_stp_s53_shop;Т-34-85 (May 1945) (СТП-С-53)
 ussr_t_34_85_stp_s53_0;"<color=#81c3fc>Завод № 112</color>
 <color=#5cae63>Обект 135</color>
 Танк Т-34-85 обр. 1945 г.
-<color=#adadad>(May, 1945) (Стабилизатор СТП-С-53 «Таран»)</color>"
+<color=#adadad>(May 1945) (Стабилизатор СТП-С-53 «Таран»)</color>"
 ussr_t_34_85_stp_s53_1;Т-34-85
 ussr_t_34_85_stp_s53_2;Medium tank
 
@@ -445,13 +451,15 @@ ussr_2s19_m2_1;2С19М2
 ussr_2s19_m2_2;SPH
 
 il_tiran_4_shop;Ṭiran 4
-il_tiran_4_0;"<color=#81c3fc>Уральский вагоностроительный завод имени И. В. Сталина <color=@commonTextColor>/</color> Ḥeil ha-Ḥimuš</color>
+il_tiran_4_0;"<color=#81c3fc>Уральский вагоностроительный завод имени И. В. Сталина <color=@commonTextColor>/</color> Ḥeil
+ha-Ḥimuš</color>
 Ṭank Ṭiran 4"
 il_tiran_4_1;Ṭiran 4
 il_tiran_4_2;MBT
 
 il_tiran_4_sh_shop;Ṭiran 4 Š
-il_tiran_4_sh_0;"<color=#81c3fc>Уральский вагоностроительный завод имени И. В. Сталина <color=@commonTextColor>/</color> Ḥeil ha-Ḥimuš</color>
+il_tiran_4_sh_0;"<color=#81c3fc>Уральский вагоностроительный завод имени И. В. Сталина <color=@commonTextColor>/</color> Ḥeil
+ha-Ḥimuš</color>
 Ṭank Ṭiran 4 Šrir"
 il_tiran_4_sh_1;Ṭiran 4 Š
 il_tiran_4_sh_2;MBT
@@ -517,7 +525,8 @@ ussr_object_140_1;Об. 140
 ussr_object_140_2;Medium tank
 
 il_tiran_6_shop;Ṭiran 6
-il_tiran_6_0;"<color=#81c3fc>Уральским вагоностроительным заводом имени Ф. Э. Дзержинского <color=@commonTextColor>/</color> Ḥeil ha-Ḥimuš</color>
+il_tiran_6_0;"<color=#81c3fc>Уральским вагоностроительным заводом имени Ф. Э. Дзержинского <color=@commonTextColor>/</color>
+Ḥeil ha-Ḥimuš</color>
 Ṭank Ṭiran 6"
 il_tiran_6_1;Ṭiran 6
 il_tiran_6_2;MBT
@@ -824,6 +833,25 @@ germ_kv_1B_finland_0;"<color=#81c3fc>Кировский завод</color>
 ▀ 44 tonnin panssarivaunu KW 1 B ""Klimi"""
 germ_kv_1B_finland_1;▀ 44 psv KW 1 B
 germ_kv_1B_finland_2;▀ Heavy Tank
+
+//UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+uk_9a33bm2_shop;☸ Osā-Eke
+uk_9a33bm2_0;"<color=#81c3fc>Московский машиностроительный завод «Знамя»</color>
+☸ Osā-Eke Prakṣepāstra Praṇālī"
+uk_9a33bm2_1;☸ Osā-Eke
+uk_9a33bm2_2;SPAA
+
+uk_9a35_m_shop;☸ Sṭrelā-10 Em
+uk_9a35_m_0;"<color=#81c3fc>Саратовский завод тяжелого машиностроения</color>
+☸ Sṭrelā-10 Em Prakṣepāstra Praṇālī"
+uk_9a35_m_1;☸ Sṭrelā-10 Em
+uk_9a35_m_2;SPAAM
+
+uk_t_90s_bheeshma_shop;☸ T-90S
+uk_t_90s_bheeshma_0;"<color=#81c3fc>УралВагонЗавод <color=@commonTextColor>/</color> Bhārī Vāhan Nirmāṇī</color>
+☸ Ṭaink Ṭī-90 Es Bhīṣma"
+uk_t_90s_bheeshma_1;☸ T-90S
+uk_t_90s_bheeshma_2;MBT
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 i-15bis_china_shop;☀ E-15 Bisī

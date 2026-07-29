@@ -13,7 +13,8 @@
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 f-4e_shop;F-4E-48-MC
-f-4e_0;McDonald Big Mac with extra fries | The average american
+f-4e_0;"<color=#7ce68f>McDonald Big Mac with extra fries</color>
+The average american"
 f-4e_1;F-4E
 f-4e_2;F-4
 
@@ -22,8 +23,10 @@ f_16d_block_40_barak_2_shop; Baraḳ Obama
 f_16d_block_40_barak_2_0; Baraḳ Obama
 f_16d_block_40_barak_2_1; Baraḳ Obama
 f_16d_block_40_barak_2_2; Baraḳ Obama
+
 f_16c_block_40_barak_2_shop; Baraḳ Obama (4 More Years)
-f_16c_block_40_barak_2_0; Baraḳ Obama (4 More Years)
+f_16c_block_40_barak_2_0;" Baraḳ Obama
+<color=#adadad>(4 More Years)</color>"
 f_16c_block_40_barak_2_1; Baraḳ Obama (4 More Years)
 f_16c_block_40_barak_2_2; Baraḳ Obama
 
@@ -44,6 +47,7 @@ jp_type_3_chi_nu_shop;Temu Pz. IV
 jp_type_3_chi_nu_0;Temu Panzer IV
 jp_type_3_chi_nu_1;Temu Pz. IV
 jp_type_3_chi_nu_2;Medium Tank
+
 jp_type_3_chi_nu_75cm_type_5_shop;Temu Pz. V
 jp_type_3_chi_nu_75cm_type_5_0;Temu Panzer V
 jp_type_3_chi_nu_75cm_type_5_1;Temu Pz. V
@@ -55,7 +59,8 @@ jp_type_3_chi_nu_75cm_type_5_2;Medium Tank
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 us_m60a1_rise_passive_era_shop;M60A1 R*PE
-us_m60a1_rise_passive_era_0;Tank, Combat, Full Tracked: 105mm Gun, M60A1 Reliability Improvement of Selected Equipment * Passive
+us_m60a1_rise_passive_era_0;"Tank, Combat, Full Tracked: 105mm Gun, M60A1 Reliability Improvement
+of Selected Equipment * Passive"
 us_m60a1_rise_passive_era_1;M60A1
 us_m60a1_rise_passive_era_2;MBT
 

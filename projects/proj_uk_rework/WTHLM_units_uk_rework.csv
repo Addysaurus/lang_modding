@@ -1073,6 +1073,12 @@ fa_18f_block_2_raaf_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
 fa_18f_block_2_raaf_1;▄ F/A-18F
 fa_18f_block_2_raaf_2;▄ F/A-18
 
+mig-21_bison_shop;☸ Mig-21 Bāisan
+mig-21_bison_0;"<color=#81c3fc>Hindustān Ēyronōṭiks Limiṭeḍ</color>
+☸ Mig-21 Bāisan"
+mig-21_bison_1;☸ Mig-21 Bāisan
+mig-21_bison_2;☸ Mig-21
+
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 9
 ef_2000_fgr4_shop;▄ Typhoon F.G.R. Mk. 4 (Centurion)
 ef_2000_fgr4_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 3)</color>
@@ -1492,9 +1498,10 @@ Tank, Australian Cruiser, Mk. IV"
 uk_ac4_thunderbolt_1;A.C.IV
 uk_ac4_thunderbolt_2;Cruiser Tank
 
-uk_m4a5_ram_2_shop;"Ram, Mk. II ""B"""
+uk_m4a5_ram_2_shop;"Ram, Mk. II (CT39981)"
 uk_m4a5_ram_2_0;"<color=#81c3fc>Montreal Locomotive Works</color>
-Tank, Cruiser, Ram, Mk. II ""B"""
+Tank, Cruiser, Ram, Mk. II
+<color=@currencyGoldColor>CT39981</color>"
 uk_m4a5_ram_2_1;Ram, Mk. II
 uk_m4a5_ram_2_2;Medium Tank
 
@@ -1930,6 +1937,12 @@ uk_vfm_5_0;<color=#81c3fc>Vickers Defense Systems <color=@commonTextColor>+</col
 uk_vfm_5_1;VFM5
 uk_vfm_5_2;Light Tank
 
+uk_vijayanta_shop;Vijayantā Mk I
+uk_vijayanta_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Bhārī Vāhan Nirmāṇī</color>
+Ṭaink Vijayantā Mk I"
+uk_vijayanta_1;Vijayantā Mk I
+uk_vijayanta_2;MBT
+
 uk_khalid_shop;Khālid
 uk_khalid_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
 Dabābeh Khālid"
@@ -2062,10 +2075,10 @@ uk_stormer_air_defence_0;<color=#81c3fc>Alvis Stormer Air Defense</color>
 uk_stormer_air_defence_1;Stormer Air Defense
 uk_stormer_air_defence_2;SPAAG/M
 
-uk_9a33bm2_shop;☸ 9A33BM2
-uk_9a33bm2_0;"<color=#81c3fc>Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut</color>
-☸ Boyevaâ mašina 9A33BM2 ""Osa-AK"""
-uk_9a33bm2_1;☸ 9A33BM2
+uk_9a33bm2_shop;☸ Osā-Eke
+uk_9a33bm2_0;"<color=#81c3fc>Moskofsk'ij mashinostroit'el'nyj zavot «Znamya»</color>
+☸ Osā-Eke Prakṣepāstra Praṇālī"
+uk_9a33bm2_1;☸ Osā-Eke
 uk_9a33bm2_2;SPAA
 
 uk_stormer_hvm_shop;F.V.4333 (HVM)
@@ -2075,9 +2088,10 @@ Combat Vehicle, Carrier, Full Tracked, High Velocity Missile System"
 uk_stormer_hvm_1;F.V.4333 (HVM)
 uk_stormer_hvm_2;SPAAM
 
-uk_9a35_m_shop;☸ 9A35M
-uk_9a35_m_0;"☸ BM 9A35M ""Strela-10M"""
-uk_9a35_m_1;☸ 9A35M
+uk_9a35_m_shop;☸ Sṭrelā-10 Em
+uk_9a35_m_0;"<color=#81c3fc>Saratofsk'ij zavot t'ažyelogo mashinostroyeniya</color>
+☸ Sṭrelā-10 Em Prakṣepāstra Praṇālī"
+uk_9a35_m_1;☸ Sṭrelā-10 Em
 uk_9a35_m_2;SPAAM
 
 uk_ajax_shop;Ajax
@@ -2085,6 +2099,12 @@ uk_ajax_0;"<color=#81c3fc>General Dynamics Land Systems UK AJAX</color>
 Combat Vehicle, Reconnaissance, Full Tracked, Ajax"
 uk_ajax_1;Ajax
 uk_ajax_2;AFV
+
+uk_t_90s_bheeshma_shop;☸ Ṭī-90 Es Bhīṣma
+uk_t_90s_bheeshma_0;"<color=#81c3fc>UralVagonZavot <color=@commonTextColor>/</color> Bhārī Vāhan Nirmāṇī</color>
+☸ Ṭaink Ṭī-90 Es Bhīṣma"
+uk_t_90s_bheeshma_1;☸ Ṭī-90 Es
+uk_t_90s_bheeshma_2;MBT
 
 uk_boxer_crv_block2_shop;▄ Boxer CRV (LAND 400)
 uk_boxer_crv_block2_0;"<color=#81c3fc>ARTEC <color=@commonTextColor>+</color> Rheinmetall Landsysteme
@@ -2107,6 +2127,12 @@ uk_m1a2_sep3_abrams_0;"<color=#81c3fc>General Dynamics Land Systems</color>
 Enhancement Package Version 3"
 uk_m1a2_sep3_abrams_1;▄ M1A2 SEPv3
 uk_m1a2_sep3_abrams_2;MBT
+
+uk_adats_m113a3_shop;▄ ADATS
+uk_adats_m113a3_0;"<color=#81c3fc>FMC <color=@commonTextColor>/</color> OC Oerlikon Corporation <color=@commonTextColor>+</color> Martin Marietta Corporation</color>
+▄ Air Defense Anti-Tank System"
+uk_adats_m113a3_1;▄ ADATS
+uk_adats_m113a3_2;SPAAM
 
 uk_sky_sabre_launcher_shop;SV 15T (Land Ceptor)
 uk_sky_sabre_launcher_0;"<color=#81c3fc>Rafael International <color=@commonTextColor>+</color> MBDA UK</color>

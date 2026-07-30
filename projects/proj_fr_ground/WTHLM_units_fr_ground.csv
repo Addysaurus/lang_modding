@@ -1,7 +1,7 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
 shop/group/fr_hotchkiss_fcm_group;A.M.C. 34 / H. 35 / F.C.M. 36
-shop/group/fr_mars_hot_group;MARS 15 / Char 13t-75 (HOT)
+shop/group/fr_mars_hot_group;MARS 15 / A.M.X. 13t-75 (HOT)
 shop/group/fr_amx_sk_group;A.M.X. 10 RC / SK105-A2
 shop/group/fr_lorraine_bat_group;Lorraine 40t / B.C. 25t
 shop/group/fr_amx_30_group;AMX 30B2 / B2 BRENUS
@@ -13,7 +13,7 @@ shop/group/fr_auf_acra_group;AMX 30 Au F1 / 10M
 shop/group/fr_amx_32_group;AMX 32 P1 / 2
 shop/group/fr_lorraine_elc_group;C.A. 100 / E.L.C. bis
 shop/group/fr_foch_acra_group;C.A. 120 / A.M.X. 10 M
-shop/group/fr_aml_amx_group;A.M.L. 90 / Char 13t-90
+shop/group/fr_aml_amx_group;A.M.L. 90 / A.M.X. 13t-90
 shop/group/fr_samp_t_fcs_group;☨ SAMP/T (MRI) / (MLT)
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
@@ -158,47 +158,48 @@ fr_m10_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand
 fr_m10_1;☨ M10
 fr_m10_2;Tank Destroyer
 
-fr_amx_13_chaffee_shop;Char 13t (tourelle M 24)
+fr_amx_13_chaffee_shop;A.M.X. 13t (tourelle M 24)
 fr_amx_13_chaffee_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
-Char à tourelle M 24 sur châssis 13 tonnes modèle 51"
-fr_amx_13_chaffee_1;Char 13t
+Char à tourelle M 24 sur châssis 13 tonnes A.M.X. modèle 51"
+fr_amx_13_chaffee_1;A.M.X. 13t
 fr_amx_13_chaffee_2;Light Tank
 
-fr_amx_13_fl_11_shop;Char 13t-75 (F.L. 11)
+fr_amx_13_fl_11_shop;A.M.X. 13t-75 (F.L. 11)
 fr_amx_13_fl_11_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
-Char de 13 tonnes de 75 avec tourelle F.L. 11"
-fr_amx_13_fl_11_1;Char 13t-75
+Char de 13 tonnes A.M.X. de 75 avec tourelle F.L. 11"
+fr_amx_13_fl_11_1;A.M.X. 13t-75
 fr_amx_13_fl_11_2;Light Tank
 
-fr_amx_13_dca_40_shop;Char 13t D.C.A.
+fr_amx_13_dca_40_shop;A.M.X. 13t D.C.A.
 fr_amx_13_dca_40_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux <color=@commonTextColor>/</color> Société d'Applications des
 Machines Motrices</color>
-Char de 13 tonnes à tourelle D.C.A. AB-380 avec canon de 40 L. 70 Bofors"
-fr_amx_13_dca_40_1;Char 13t D.C.A.
+Char de 13 tonnes A.M.X. à tourelle D.C.A. AB 380 avec canon de 40 L. 70
+Bofors"
+fr_amx_13_dca_40_1;A.M.X. 13t D.C.A.
 fr_amx_13_dca_40_2;SPAAG
 
-fr_amx_13_75_shop;Char 13t-75 mle. 51
+fr_amx_13_75_shop;A.M.X. 13t-75 mle. 51
 fr_amx_13_75_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
-Char de 13 tonnes de 75 modèle 1951"
-fr_amx_13_75_1;Char 13t-75
+Char de 13 tonnes A.M.X. de 75 modèle 1951"
+fr_amx_13_75_1;A.M.X. 13t-75
 fr_amx_13_75_2;Light Tank
 
-fr_amx_13_75_ss11_shop;Char 13t-75 mle. 51 (SS.11)
+fr_amx_13_75_ss11_shop;A.M.X. 13t-75 mle. 51 (SS.11)
 fr_amx_13_75_ss11_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
-Char de 13 tonnes de 75 modèle 1951 porté SS.11"
-fr_amx_13_75_ss11_1;Char 13t-75
+Char de 13 tonnes A.M.X. de 75 modèle 1951 porté SS.11"
+fr_amx_13_75_ss11_1;A.M.X. 13t-75
 fr_amx_13_75_ss11_2;Light Tank
 
-fr_amx_13_90_shop;Char 13t-90
+fr_amx_13_90_shop;A.M.X. 13t-90
 fr_amx_13_90_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
-Char de 13 tonnes de 90"
-fr_amx_13_90_1;Char 13t-75
+Char de 13 tonnes A.M.X. de 90"
+fr_amx_13_90_1;A.M.X. 13t-75
 fr_amx_13_90_2;Light Tank
 
-fr_amx_13_hot_shop;Char 13t-75 mle. 51 (HOT)
+fr_amx_13_hot_shop;A.M.X. 13t-75 mle. 51 (HOT)
 fr_amx_13_hot_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
-Char de 13 tonnes de 75 modèle 1951 porté HOT"
-fr_amx_13_hot_1;Char 13t-75
+Char de 13 tonnes A.M.X. de 75 modèle 1951 porté HOT"
+fr_amx_13_hot_1;A.M.X. 13t-75
 fr_amx_13_hot_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
@@ -267,11 +268,17 @@ Engin léger de combat bis avec tourelle-casemate de 90"
 fr_amx_elc_bis_1;E.L.C. bis
 fr_amx_elc_bis_2;Light Tank
 
-fr_amx_elc_901_shop;E.L.C. (TC.901)
+fr_amx_elc_901_shop;E.L.C. (T.C. 901)
 fr_amx_elc_901_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
 Engin léger de combat avec tourelle-casemate de 901"
 fr_amx_elc_901_1;E.L.C.
 fr_amx_elc_901_2;Light Tank
+
+fr_m26_pershing_shop;☨ M26
+fr_m26_pershing_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+☨ Char moyen M26"
+fr_m26_pershing_1;☨ M26
+fr_m26_pershing_2;Medium Tank
 
 fr_amx_m4_shop;A.M.X. M. 4
 fr_amx_m4_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
@@ -302,6 +309,19 @@ fr_lorraine_100_0;"<color=#81c3fc>Direction des Etudes et Fabrication d'Armement
 Canon d'assaut de 100 Lorraine"
 fr_lorraine_100_1;C.A. 100
 fr_lorraine_100_2;SPG
+
+fr_pzkpfw_V_panther_dauphine_shop;☨ Panther mle. G (Besnier)
+fr_pzkpfw_V_panther_dauphine_0;"<color=#81c3fc>Maschinenfabrik Augsburg-Nürnberg, Werk Nürnberg</color>
+☨ Char Panther modèle G
+<color=@currencyGoldColor>Escadron Autonome de Chars Besnier, «Dauphiné»</color>"
+fr_pzkpfw_V_panther_dauphine_1;☨ Panther mle. G
+fr_pzkpfw_V_panther_dauphine_2;Medium Tank
+
+fr_m46_patton_shop;☨ M46
+fr_m46_patton_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+☨ Char moyen M46"
+fr_m46_patton_1;☨ M46
+fr_m46_patton_2;Medium Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 fr_aml_90_shop;A.M.L. 90

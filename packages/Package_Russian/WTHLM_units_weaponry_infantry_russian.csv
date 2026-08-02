@@ -1,5 +1,18 @@
 <ID|readonly|noverify>;<English>
 //GUNS - GUN/FAMILY START: RANK 6
+svd_shop;СВД
+svd_0;"<color=#81c3fc>Концерн «Калашников»</color>
+<color=#5cae63>6В1</color>
+7,62-мм снайперская винтовка Драгунова СВД"
+svd_1;СВД
+svd_2;Sniper Rifle
+
+svd_m_shop;СВДМ
+svd_m_0;"<color=#81c3fc>Концерн «Калашников»</color>
+<color=#5cae63>6В11</color>
+7,62-мм снайперская винтовка Драгунова СВДМ"
+svd_m_1;СВДМ
+svd_m_2;Sniper Rifle
 
 //GUNS - GUN/FAMILY START: RANK 7
 asm_val_shop;АСМ
@@ -29,14 +42,14 @@ ak_15_2;Automatic Rifle
 kord_6p67_shop;6П67
 kord_6p67_0;"<color=#81c3fc>Завод им. В. А. Дегтярёва</color>
 <color=#919191>А-545</color>
-5,45-мм автомат 6П67 «Корд»"
+<color=#5cae63>5,45-мм автомат 6П67 «Корд»</color>"
 kord_6p67_1;6П67
 kord_6p67_2;Automatic Rifle
 
 kord_6p68_shop;6П68
 kord_6p68_0;"<color=#81c3fc>Завод им. В. А. Дегтярёва</color>
 <color=#919191>А-762</color>
-7,62-мм автомат 6П68 «Корд»"
+<color=#5cae63>7,62-мм автомат 6П68 «Корд»</color>"
 kord_6p68_1;6П68
 kord_6p68_2;Automatic Rifle
 

@@ -53,6 +53,19 @@ sig_xm5_1;XM5
 sig_xm5_2;Assault Rifle
 
 //USSR GUNS - GUN/FAMILY START: RANK 6
+svd_shop;SVD
+svd_0;"<color=#81c3fc>Kontsyern «Kalashnikof»</color>
+<color=#5cae63>6V1</color>
+7,62-mm snajp'erskaya v'intofka Dragunova SVD"
+svd_1;SVD
+svd_2;Sniper Rifle
+
+svd_m_shop;SVDM
+svd_m_0;"<color=#81c3fc>Kontsyern «Kalashnikof»</color>
+<color=#5cae63>6V11</color>
+7,62-mm snajp'erskaya v'intofka Dragunova SVDM"
+svd_m_1;SVDM
+svd_m_2;Sniper Rifle
 
 //USSR GUNS - GUN/FAMILY START: RANK 7
 asm_val_shop;ASM
@@ -82,14 +95,14 @@ ak_15_2;Automatic Rifle
 kord_6p67_shop;6P67
 kord_6p67_0;"<color=#81c3fc>Zavot im. V. A. D'ekt'aryova</color>
 <color=#919191>A-545</color>
-5,45-mm aftomat 6P67 ""Kort"""
+<color=#5cae63>5,45-mm aftomat 6P67 ""Kort""</color>"
 kord_6p67_1;6P67
 kord_6p67_2;Automatic Rifle
 
 kord_6p68_shop;6P68
 kord_6p68_0;"<color=#81c3fc>Zavot im. V. A. D'ekt'aryova</color>
 <color=#919191>A-762</color>
-7,62-mm aftomat 6P68 ""Kort"""
+<color=#5cae63>7,62-mm aftomat 6P68 ""Kort""</color>"
 kord_6p68_1;6P68
 kord_6p68_2;Automatic Rifle
 

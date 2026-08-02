@@ -44,6 +44,12 @@ Rifle, 5.56mm, Mk 16 Mod 0"
 fn_scar_1;Mk 16 Mod 0
 fn_scar_2;Assault Rifle
 
+fn_scar_l_shop;Mk 16 Mod 0
+fn_scar_l_0;"<color=#81c3fc>FN America SCAR-L</color>
+Rifle, 5.56mm, Mk 16 Mod 0"
+fn_scar_l_1;Mk 16 Mod 0
+fn_scar_l_2;Assault Rifle
+
 //USA GUNS - GUN/FAMILY START: RANK 8
 sig_xm5_shop;XM5
 sig_xm5_0;"<color=#81c3fc>Sig Sauer NGSW-R</color>
@@ -54,7 +60,7 @@ sig_xm5_2;Assault Rifle
 
 //USSR GUNS - GUN/FAMILY START: RANK 6
 svd_shop;SVD
-svd_0;"<color=#81c3fc>Kontsyern «Kalashnikof»</color>
+svd_0;"<color=#81c3fc>Izhyefsk'ij mashinostroit'el'nyj zavot</color>
 <color=#5cae63>6V1</color>
 7,62-mm snajp'erskaya v'intofka Dragunova SVD"
 svd_1;SVD
@@ -67,6 +73,24 @@ svd_m_0;"<color=#81c3fc>Kontsyern «Kalashnikof»</color>
 svd_m_1;SVDM
 svd_m_2;Sniper Rifle
 
+pp_19_bizon_shop;PP-19
+pp_19_bizon_0;"<color=#81c3fc>Izhmash</color>
+9-mm p'istolyet-pulyemyot PP-19 «B'izon»
+pp_19_bizon_1;PP-19
+pp_19_bizon_2;Submachine Gun
+
+pp_19_vityaz_shop;PP-19-01
+pp_19_vityaz_0;"<color=#81c3fc>Izhmash</color>
+9-mm p'istolyet-pulyemyot PP-19-01 «V'it'az'»
+pp_19_vityaz_1;PP-19-01
+pp_19_vityaz_2;Submachine Gun
+
+pp_2000_shop;PP-2000
+pp_2000_0;"<color=#81c3fc>Izhmash</color>
+9-mm p'istolyet-pulyemyot PP-2000"
+pp_2000_1;PP-2000
+pp_2000_2;Submachine Gun
+
 //USSR GUNS - GUN/FAMILY START: RANK 7
 asm_val_shop;ASM
 asm_val_0;"<color=#81c3fc>Tsyentral'nyj nauchno-isslyedovat'el'sk'ij inst'itut tochnogo
@@ -75,6 +99,14 @@ mashinostroyeniya</color>
 9-mm aftomat sp'etsial'nyj ASM ""Val"""
 asm_val_1;ASM
 asm_val_2;Special Automatic Rifle
+
+vssm_vintorez_shop;VSSM
+vssm_vintorez_0;"<color=#81c3fc>Tsyentral'nyj nauchno-isslyedovat'el'sk'ij inst'itut tochnogo
+mashinostroyeniya</color>
+<color=#5cae63>6P29M</color>
+9-mm v'intofka snajp'erskaya sp'etsial'naya VSSM ""V'intoryes"""
+vssm_vintorez_1;VSSM
+vssm_vintorez_2;Special Sniper Rifle
 
 //USSR GUNS - GUN/FAMILY START: RANK 8
 ak_12_shop;AK-12

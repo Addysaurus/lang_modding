@@ -9,7 +9,7 @@ def translit_russian(text):
         'Д' : 'D',
         'Е' : ['Ye', "'E"],
         'Ё' : ['Yo', "'O"],
-        'Ж' : 'Ž',
+        'Ж' : 'Zh',
         'З' : 'Z',
         'И' : ['I', "'I"],
         'Й' : 'J',
@@ -131,7 +131,7 @@ def translit_russian(text):
                 continue
 
             if i.upper() in {'Е', 'Ё', 'И', 'Ю', 'Я'}:
-                if re.search(r'[БВГДЗПФКТСХЧбвгдзпфктсхч]', modified_voicing[idx - 1]):
+                if idx != 0 and re.search(r'[БВГДЗПФКТСХЧбвгдзпфктсхч]', modified_voicing[idx - 1]):
                     if i.isupper():
                         final_translit.append(translit_dict[i.upper()][1].upper())
                     else:

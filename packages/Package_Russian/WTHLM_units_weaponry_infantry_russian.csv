@@ -1,7 +1,7 @@
 <ID|readonly|noverify>;<English>
 //GUNS - GUN/FAMILY START: RANK 6
 svd_shop;СВД
-svd_0;"<color=#81c3fc>Концерн «Калашников»</color>
+svd_0;"<color=#81c3fc>Ижевский машиностроительный завод</color>
 <color=#5cae63>6В1</color>
 7,62-мм снайперская винтовка Драгунова СВД"
 svd_1;СВД
@@ -14,6 +14,24 @@ svd_m_0;"<color=#81c3fc>Концерн «Калашников»</color>
 svd_m_1;СВДМ
 svd_m_2;Sniper Rifle
 
+pp_19_bizon_shop;ПП-19
+pp_19_bizon_0;"<color=#81c3fc>Ижмаш</color>
+9-мм пистолет-пулемёт ПП-19 «Бизон»"
+pp_19_bizon_1;ПП-19
+pp_19_bizon_2;Submachine Gun
+
+pp_19_vityaz_shop;ПП-19-01
+pp_19_vityaz_0;"<color=#81c3fc>Ижмаш</color>
+9-мм пистолет-пулемёт ПП-19-01 «Витязь»"
+pp_19_vityaz_1;ПП-19-01
+pp_19_vityaz_2;Submachine Gun
+
+pp_2000_shop;ПП-2000
+pp_2000_0;"<color=#81c3fc>Ижмаш</color>
+9-мм пистолет-пулемёт ПП-2000 «Витязь»"
+pp_2000_1;ПП-2000
+pp_2000_2;Submachine Gun
+
 //GUNS - GUN/FAMILY START: RANK 7
 asm_val_shop;АСМ
 asm_val_0;"<color=#81c3fc>Центральный научно-исследовательский институт точного
@@ -22,6 +40,14 @@ asm_val_0;"<color=#81c3fc>Центральный научно-исследова
 9-мм автомат специальный АСМ «Вал»"
 asm_val_1;АСМ
 asm_val_2;Special Automatic Rifle
+
+vssm_vintorez_shop;ВССМ
+vssm_vintorez_0;"<color=#81c3fc>Центральный научно-исследовательский институт точного
+машиностроения</color>
+<color=#5cae63>6П29М</color>
+9-мм винтовка снайперская специальная ВССМ «Винторез»"
+vssm_vintorez_1;ВССМ
+vssm_vintorez_2;Special Sniper Rifle
 
 //GUNS - GUN/FAMILY START: RANK 8
 ak_12_shop;AK-12

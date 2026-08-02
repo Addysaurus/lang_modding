@@ -110,7 +110,8 @@ def translit_russian(text):
         for m in re.finditer(r'[БВГДЖЗбвгджз]\b', text):
             i = m.start()
             c = chars[i]
-            chars[i] = preserve_case(c, devoice_pair[c.upper()])
+            if chars[i - 1].isalpha():
+                chars[i] = preserve_case(c, devoice_pair[c.upper()])
         return ''.join(chars)
 
     def apply_russian_voicing(text):

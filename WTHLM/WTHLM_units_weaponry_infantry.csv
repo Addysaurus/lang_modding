@@ -12,6 +12,12 @@ Rifle, 5.56mm, M4A1"
 m4a1_1;M4A1
 m4a1_2;Assault Rifle
 
+mossberg_590_shop;M590
+mossberg_590_0;"<color=#81c3fc>O.F. Mossberg & Sons</color>
+Shotgun, 12-Gague, M590"
+mossberg_590_1;M590
+mossberg_590_2;Shotgun
+
 //USA GUNS - GUN/FAMILY START: RANK 7
 mac_11_shop;M11/9mm
 mac_11_0;<color=#81c3fc>Cobray Company M11/9mm Submachine Gun</color>
@@ -50,17 +56,17 @@ sig_xm5_2;Assault Rifle
 
 //USSR GUNS - GUN/FAMILY START: RANK 7
 asm_val_shop;ASM
-asm_val_0;"<color=#81c3fc>Czyentral'nyj naučno-isslyedovatyel'skij institut točnogo mašinostroyeniâ</color>
+asm_val_0;"<color=#81c3fc>Tsyentral'nyj nauchno-isslyedovat'el'sk'ij inst'itut tochnogo mashinostroyeniya</color>
 <color=#5cae63>6P30M</color>
-9-mm avtomat spyeczial'nyj ASM ""Val"""
+9-mm aftomat sp'etsial'nyj ASM ""Val"""
 asm_val_1;ASM
 asm_val_2;Automatic Rifle
 
 //USSR GUNS - GUN/FAMILY START: RANK 8
 ak_12_shop;AK-12
-ak_12_0;"<color=#81c3fc>Konczyern «Kalašnikov»</color>
+ak_12_0;"<color=#81c3fc>Kontsyern «Kalashnikof»</color>
 <color=#5cae63>6P70M</color>
-5,45-mm avtomat Kalašnikova AK-12
+5,45-mm aftomat Kalashnikova AK-12
 <color=#adadad>(2020)</color>"
 ak_12_1;AK-12
 ak_12_2;Automatic Rifle
@@ -71,3 +77,17 @@ ak_15_0;"<color=#81c3fc>Kontsyern «Kalashnikof»</color>
 7,62-mm aftomat Kalashnikova AK-15"
 ak_15_1;AK-15
 ak_15_2;Automatic Rifle
+
+kord_6p67_shop;6P67
+kord_6p67_0;"<color=#81c3fc>Zavot im. V. A. D'ekt'aryova</color>
+<color=#919191>A-545</color>
+5,45-mm aftomat 6P67 ""Kort"""
+kord_6p67_1;6P67
+kord_6p67_2;Automatic Rifle
+
+kord_6p68_shop;6P68
+kord_6p68_0;"<color=#81c3fc>Zavot im. V. A. D'ekt'aryova</color>
+<color=#919191>A-762</color>
+7,62-mm aftomat 6P68 ""Kort"""
+kord_6p68_1;6P68
+kord_6p68_2;Automatic Rifle

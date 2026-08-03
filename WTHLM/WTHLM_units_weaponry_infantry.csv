@@ -6,9 +6,14 @@ Machine Gun, 5.56 mm, M249 ""Para"""
 m249_para_1;M249
 m249_para_2;Machine Gun
 
+colt_9_mm_smg_shop;Colt Model R0635
+colt_9_mm_smg_0;<color=#81c3fcColt's Manufacturing Company Model R0635</color>
+colt_9_mm_smg_1;Colt Model R0635
+colt_9_mm_smg_2;Submachine Gun
+
 m4a1_shop;M4A1
-m4a1_0;"<color=#81c3fc>Colt's Manufacturing Company Model 921</color>
-Rifle, 5.56mm, M4A1"
+m4a1_0;"<color=#81c3fc>Colt's Manufacturing Company Model R0921</color>
+Carbine, 5.56mm, M4A1"
 m4a1_1;M4A1
 m4a1_2;Assault Rifle
 
@@ -33,7 +38,7 @@ m110a1_sdmr_1;M110A1
 m110a1_sdmr_2;Precision Lightweight Rifle
 
 m16a4_shop;M16A4
-m16a4_0;"<color=#81c3fc>Colt's Manufacturing Company Model 945</color>
+m16a4_0;"<color=#81c3fc>Colt's Manufacturing Company Model R0945</color>
 Rifle, 5.56mm, M16A4"
 m16a4_1;M16A4
 m16a4_2;Assault Rifle
@@ -91,6 +96,12 @@ pp_2000_0;"<color=#81c3fc>Izhmash</color>
 pp_2000_1;PP-2000
 pp_2000_2;Submachine Gun
 
+ks_p_18_5_shop;KS-P
+ks_p_18_5_0;"<color=#81c3fc>Izhmash</color>
+18,5-mm karab'in sp'etsial'nyj s podzdvol'nym magaz'inom KS-P"
+ks_p_18_5_1;KS-P
+ks_p_18_5_2;Special Carbine
+
 //USSR GUNS - GUN/FAMILY START: RANK 7
 asm_val_shop;ASM
 asm_val_0;"<color=#81c3fc>Tsyentral'nyj nauchno-isslyedovat'el'sk'ij inst'itut tochnogo
@@ -107,6 +118,27 @@ mashinostroyeniya</color>
 9-mm v'intofka snajp'erskaya sp'etsial'naya VSSM ""V'intoryes"""
 vssm_vintorez_1;VSSM
 vssm_vintorez_2;Special Sniper Rifle
+
+akm_47_shop;AKM
+akm_47_0;"<color=#81c3fc>Izhyefsk'ij mashinostroit'el'nyj zavot</color>
+<color=#5cae63>6P1</color>
+7,62-mm aftomat Kalashnikova AKM"
+akm_47_1;AKM
+akm_47_2;Automatic Rifle
+
+ak_74m_shop;AK-74M
+ak_74m_0;"<color=#81c3fc>Izhmash</color>
+<color=#5cae63>6P34</color>
+5,45-mm aftomat Kalashnikova AK-74M"
+ak_74m_1;AK-74M
+ak_74m_2;Automatic Rifle
+
+aksu_74_shop;AKS-74U
+aksu_74_0;"<color=#81c3fc>Izhmash</color>
+<color=#5cae63>6P26</color>
+5,45-mm aftomat Kalashnikova AKS-74U"
+aksu_74_1;AKS-74U
+aksu_74_2;Automatic Rifle
 
 //USSR GUNS - GUN/FAMILY START: RANK 8
 ak_12_shop;AK-12

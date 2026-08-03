@@ -32,6 +32,12 @@ pp_2000_0;"<color=#81c3fc>Ижмаш</color>
 pp_2000_1;ПП-2000
 pp_2000_2;Submachine Gun
 
+ks_p_18_5_shop;КС-П
+ks_p_18_5_0;"<color=#81c3fc>Ижмаш</color>
+18,5-мм карабин специальный с подствольным магазином КС-П"
+ks_p_18_5_1;КС-П
+ks_p_18_5_2;Special Carbine
+
 //GUNS - GUN/FAMILY START: RANK 7
 asm_val_shop;АСМ
 asm_val_0;"<color=#81c3fc>Центральный научно-исследовательский институт точного
@@ -48,6 +54,27 @@ vssm_vintorez_0;"<color=#81c3fc>Центральный научно-исслед
 9-мм винтовка снайперская специальная ВССМ «Винторез»"
 vssm_vintorez_1;ВССМ
 vssm_vintorez_2;Special Sniper Rifle
+
+akm_47_shop;АКМ
+akm_47_0;"<color=#81c3fc>Ижевский машиностроительный завод</color>
+<color=#5cae63>6П1</color>
+7,62-мм автомат Калашникова АКМ"
+akm_47_1;АКМ
+akm_47_2;Automatic Rifle
+
+ak_74m_shop;АК-74М
+ak_74m_0;"<color=#81c3fc>Ижмаш</color>
+<color=#5cae63>6П34</color>
+5,45-мм автомат Калашникова АК-74М"
+ak_74m_1;АК-74М
+ak_74m_2;Automatic Rifle
+
+aksu_74_shop;АКС-74У
+aksu_74_0;"<color=#81c3fc>Ижмаш</color>
+<color=#5cae63>6П26</color>
+5,45-мм автомат Калашникова АКС-74У"
+aksu_74_1;АКС-74У
+aksu_74_2;Automatic Rifle
 
 //GUNS - GUN/FAMILY START: RANK 8
 ak_12_shop;AK-12

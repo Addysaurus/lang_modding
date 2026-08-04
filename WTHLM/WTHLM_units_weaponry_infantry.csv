@@ -1,10 +1,22 @@
 <ID|readonly|noverify>;<English>
 //USA GUNS - GUN/FAMILY START: RANK 6
+beretta_m9_shop;M9
+beretta_m9_0;"<color=#81c3fc>Fabbrica d'Armi Pietro Beretta 92FS</color>
+Pistol, Semiautomatic, 9mm, M9"
+beretta_m9_1;M9
+beretta_m9_2;Semiautomatic Pistol
+
 m249_para_shop;M249
 m249_para_0;"<color=#81c3fc>FN America</color>
-Machine Gun, 5.56 mm, M249 ""Para"""
+Machine Gun, 5.56mm, M249 ""Para"""
 m249_para_1;M249
 m249_para_2;Machine Gun
+
+mk_48_shop;Mk 48 Mod 0
+mk_48_0;"<color=#81c3fc>FN America</color>
+Machine Gun, 7.62mm, Mk 48 Mod 0"
+mk_48_1;Mk 48 Mod 0
+mk_48_2;Machine Gun
 
 colt_9_mm_smg_shop;Colt Model R0635
 colt_9_mm_smg_0;<color=#81c3fc>Colt's Manufacturing Company Model R0635</color>
@@ -12,7 +24,7 @@ colt_9_mm_smg_1;Colt Model R0635
 colt_9_mm_smg_2;Submachine Gun
 
 m4a1_shop;M4A1
-m4a1_0;"<color=#81c3fc>Colt's Manufacturing Company Model R0921</color>
+m4a1_0;"<color=#81c3fc>Colt's Manufacturing Company Model 921</color>
 Carbine, 5.56mm, M4A1"
 m4a1_1;M4A1
 m4a1_2;Assault Rifle
@@ -35,13 +47,25 @@ m110a1_sdmr_0;"<color=#81c3fc>Heckler & Koch</color>
 Rifle, Precision Lightweight, 7.62mm, M110A1 Squad Designated
 Marksman Rifle"
 m110a1_sdmr_1;M110A1
-m110a1_sdmr_2;Precision Lightweight Rifle
+m110a1_sdmr_2;Designated Marksman Rifle
+
+m16a1_shop;M16A1
+m16a1_0;"<color=#81c3fc>Colt's Manufacturing Company Model 603</color>
+Rifle, 5.56mm, M16A1"
+m16a1_1;M16A1
+m16a1_2;Assault Rifle
 
 m16a4_shop;M16A4
-m16a4_0;"<color=#81c3fc>Colt's Manufacturing Company Model R0945</color>
+m16a4_0;"<color=#81c3fc>Colt's Manufacturing Company Model 945</color>
 Rifle, 5.56mm, M16A4"
 m16a4_1;M16A4
 m16a4_2;Assault Rifle
+
+mk_14_ebr_shop;Mk 14 Mod 0
+mk_14_ebr_0;"<color=#81c3fc>Naval Surface Warfare Center Crane Division</color>
+Rifle, 7.62mm, Mk 14 Mod 0 Enhanced Battle Rifle"
+mk_14_ebr_1;Mk 14 Mod 0
+mk_14_ebr_2;Designated Marksman Rifle
 
 fn_scar_shop;Mk 16 Mod 0
 fn_scar_0;"<color=#81c3fc>FN America SCAR-L</color>
@@ -57,13 +81,34 @@ fn_scar_l_2;Assault Rifle
 
 //USA GUNS - GUN/FAMILY START: RANK 8
 sig_xm5_shop;XM5
-sig_xm5_0;"<color=#81c3fc>Sig Sauer NGSW-R</color>
-<color=#ff8c80>Next Generation Squad Weapon-Rifle</color>
+sig_xm5_0;"<color=#81c3fc>Sig Sauer</color>
+<color=#ff8c80>Next Generation Squad Weapon - Rifle</color>
 Rifle, 6.8mm, XM5"
 sig_xm5_1;XM5
 sig_xm5_2;Assault Rifle
 
+sig_xm250_shop;XM250
+sig_xm250_0;"<color=#81c3fc>Sig Sauer</color>
+<color=#ff8c80>Next Generation Squad Weapon - Automatic Rifle</color>
+Machine Gun, 6.8mm, XM250"
+sig_xm250_1;XM250
+sig_xm250_2;Machine Gun
+
+mcmillan_tac_50_shop;Mk 15 Mod 0
+mcmillan_tac_50_0;"<color=#81c3fc>McMillan Firearms TAC-50 Tactical Rifle System</color>
+Rifle, Caliber .50, Mk 15 Mod 0 Special Application Sniper Rifle"
+mcmillan_tac_50_1;Mk 15 Mod 0
+mcmillan_tac_50_2;Sniper Rifle
+
 //USSR GUNS - GUN/FAMILY START: RANK 6
+mp_443_shop;PYa
+mp_443_0;"<color=#81c3fc>Izhmash</color>
+<color=#ff8c80>Opytno-konstruktorskaya rabota ""Grach""</color>
+<color=#5cae63>6P35</color>
+9-mm aftomat'ich'esk'ij p'istolyet Yaryg'ina PYa"
+mp_443_1;PYa
+mp_443_2;Automatic Pistol
+
 svd_shop;SVD
 svd_0;"<color=#81c3fc>Izhyefsk'ij mashinostroit'el'nyj zavot</color>
 <color=#5cae63>6V1</color>
@@ -80,13 +125,13 @@ svd_m_2;Sniper Rifle
 
 pp_19_bizon_shop;PP-19
 pp_19_bizon_0;"<color=#81c3fc>Izhmash</color>
-9-mm p'istolyet-pulyemyot PP-19 «B'izon»
+9-mm p'istolyet-pulyemyot PP-19 ""B'izon"""
 pp_19_bizon_1;PP-19
 pp_19_bizon_2;Submachine Gun
 
 pp_19_vityaz_shop;PP-19-01
 pp_19_vityaz_0;"<color=#81c3fc>Izhmash</color>
-9-mm p'istolyet-pulyemyot PP-19-01 «V'it'az'»
+9-mm p'istolyet-pulyemyot PP-19-01 ""V'it'az'"""
 pp_19_vityaz_1;PP-19-01
 pp_19_vityaz_2;Submachine Gun
 

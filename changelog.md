@@ -34,6 +34,28 @@ All dates are listed in DD-MM-YYYY format.
     - **Me 210 V22 (D.B. 601 F)** → **Me 210 V22 (DB 601 F)**. Statcard name → **Messerschmitt / Kawasaki Kōkūki Kōgyō Akashi Kōjō | Me 210 V22 (DB 9-601 F)**.
         - Japanese package: Statcard name → **Messerschmitt / 川崎航空機工業明石工場 | Me 210 V22 (DB 9-601 F)**.
     - Moved all Soviet and Russian infantry guns over to our new Russian transliteration system WTR-02A.
+    - **SUB-I-2 (MK 20 DM 6 A1)** → **SUB-I-2 (MK20 Rh202)**. Statcard name → **Mitsubishi Jū Kōgyō | SUB-I-2 (20 mm Automatic Cannon MK20 Rh202)**. The actual weapon for the vehicle uses the German military name because it uses the same file as the **Wiesel 1 A4 MK**, but the vehicle's name is using the gun's export name.
+        - Japanese package: Statcard name → **三菱重工業 | SUB-I-2 (20 mm Automatic Cannon MK20 Rh202)**.
+    - **Reconnaissance UAV** → **Mavic 2 Enterprise Dual**. Statcard name → **Shēnzhèn Shì Dà Jiāng Chuàngxīn Kējì Youxiàn Gōngsī Model L1DE | Mavic 2 Enterprise Dual**.
+
+### Weaponry:
+
+- #### Changes:
+
+    - **Rheinmetall Rh202 | MK 20 DM 6 A1** → **Maschinenkanone 20 mm MK 20 DM 6 A1**.
+    - **37 mm SA18 L/21 cannon** → **Canon de 37 mm semi-automatique modèle 1918**.
+    - **Canon de 37 mm SA38 L/33** → **Canon de 37 mm semi-automatique modèle 1938**.
+    - **47 mm SA37 cannon** → **Canon de 47 mm semi-automatique modèle 1937**.
+    - **Canon de 75mm SA 49** → **Canon de 75 mm semi-automatique modèle 1949**.
+    - **Canon de 75mm SA 50 L/57** → **Canon de 75 mm semi-automatique modèle 1950**.
+    - **Canon de 90mm SA 45** → **Canon de 90 mm semi-automatique modèle 1945**.
+    - **Canon de 90mm SA 47** → **Canon de 90 mm semi-automatique modèle 1947**.
+
+### Modifications:
+
+- #### Changes:
+
+    - Corrected the **AIM-9P-3** modification to **AIM-9P-1** in line with the weapon.
 
 ## 1.18.01 - 24-07-2026
 

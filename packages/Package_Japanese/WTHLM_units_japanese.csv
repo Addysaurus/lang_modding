@@ -1178,7 +1178,7 @@ jp_type_4_chi_to_shop;チト (二号)
 jp_type_4_chi_to_0;"<color=#81c3fc>三菱重工業</color>
 <color=#7ce68f>試製中戦車 (甲)</color>
 チト
-<color=#adadad>(試製二号車)</color>"
+<color=@currencyGoldColor>試製二号車</color>"
 jp_type_4_chi_to_1;チト
 jp_type_4_chi_to_2;Medium Tank
 
@@ -1284,10 +1284,10 @@ jp_type_75_0;"<color=#81c3fc>三菱重工業 <color=@commonTextColor>+</color> �
 jp_type_75_1;75HSP
 jp_type_75_2;SPH
 
-jp_sub_i_ii_20mm_shop;SUB-I-2 (MK 20 DM 6 A1)
+jp_sub_i_ii_20mm_shop;SUB-I-2 (MK20 Rh202)
 jp_sub_i_ii_20mm_0;"<color=#81c3fc>三菱重工業</color>
 SUB-I-2
-<color=#adadad>(MK 20 DM 6 A1)</color>"
+<color=#adadad>(20 mm Automatic Cannon MK20 Rh202)</color>"
 jp_sub_i_ii_20mm_1;SUB-I-2
 jp_sub_i_ii_20mm_2;SPAAG
 
@@ -1309,7 +1309,7 @@ jp_type_5_ho_ri_production_2;SPG
 jp_type_87_rcv_prot_shop;RCV (試1号)
 jp_type_87_rcv_prot_0;"<color=#81c3fc>小松製作</color>
 偵察警戒車
-<color=#adadad>(試作1号車)</color>"
+<color=@currencyGoldColor>試作1号車</color>"
 jp_type_87_rcv_prot_1;RCV
 jp_type_87_rcv_prot_2;WIFV
 
@@ -1385,7 +1385,7 @@ jp_type_89_2;IFV
 jp_type_16_mcv_prot_shop;MCV (試3号)
 jp_type_16_mcv_prot_0;"<color=#81c3fc>三菱重工業</color>
 機動戦闘車
-<color=#adadad>(試作3号車)</color>"
+<color=@currencyGoldColor>試作3号車</color>"
 jp_type_16_mcv_prot_1;MCV
 jp_type_16_mcv_prot_2;Light Tank
 

@@ -19,7 +19,7 @@ mk_48_1;Mk 48 Mod 0
 mk_48_2;Machine Gun
 
 colt_9_mm_smg_shop;Colt Model R0635
-colt_9_mm_smg_0;<color=#81c3fc>Colt's Manufacturing Company Model R0635</color>
+colt_9_mm_smg_0;<color=#81c3fc>Colt's Manufacturing Company Model R0635 <color=@commonTextColor>|</color> 9mm Sub Machine Gun</color>
 colt_9_mm_smg_1;Colt Model R0635
 colt_9_mm_smg_2;Submachine Gun
 
@@ -179,7 +179,7 @@ ak_74m_1;AK-74M
 ak_74m_2;Automatic Rifle
 
 aksu_74_shop;AKS-74U
-aksu_74_0;"<color=#81c3fc>Izhmash</color>
+aksu_74_0;"<color=#81c3fc>Tul'sk'ij oruzhyejnyj zavot</color>
 <color=#5cae63>6P26</color>
 5,45-mm aftomat Kalashnikova AKS-74U"
 aksu_74_1;AKS-74U
@@ -235,3 +235,10 @@ ksvk_12_7_0;"<color=#81c3fc>Zavot im. V. A. D'ekt'aryova</color>
 12,7-mm snajp'erskaya v'intofka ASVK ""Kort"""
 ksvk_12_7_1;ASVK
 ksvk_12_7_2;Sniper Rifle
+
+//DRONES
+uav_inf_recon_drone_shop;Mavic 2 Enterprise Dual
+uav_inf_recon_drone_0;"<color=#81c3fc>Shēnzhèn Shì Dà Jiāng Chuàngxīn Kējì Youxiàn Gōngsī Model L1DE <color=@commonTextColor>|</color>
+Mavic 2 Enterprise Dual</color>"
+uav_inf_recon_drone_1;Mavic 2 Enterprise Dual
+uav_inf_recon_drone_2;Reconnaissance Drone

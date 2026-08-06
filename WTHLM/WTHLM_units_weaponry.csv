@@ -106,6 +106,10 @@ weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug K
 weapons/cannonFlzKan_76/short;Flz.Kan. 76
 weapons/cannonM61A2_switzerland;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
 weapons/cannonM61A2_switzerland/short;Flz.Kan. 92
+weapons/20mm_Rh_202_Wiesel_user_cannon;<color=@userlogColoredText>20 mm</color> Maschinenkanone 20 mm MK 20 DM 6 A1 <color=#ff6f00>ACNN</color>
+weapons/20mm_Rh_202_Marder_user_cannon;<color=@userlogColoredText>20 mm</color> Maschinenkanone 20 mm MK 20 DM 6 A1 <color=#ff6f00>ACNN</color>
+weapons/20mm_Rh_202_user_cannon;<color=@userlogColoredText>20 mm</color> Maschinenkanone 20 mm MK 20 DM 6 A1 <color=#ff6f00>ACNN</color>
+weapons/20mm_luchs_a2_user_cannon;<color=@userlogColoredText>20 mm</color> Maschinenkanone 20 mm MK 20 DM 6 A1 <color=#ff6f00>ACNN</color>
 weapons/20mm_Rh_202_6616_user_cannon;<color=@userlogColoredText>20 mm</color> 20 mm Automatic Cannon MK20 Rh202 <color=#ff6f00>ACNN</color>
 weapons/cannonDEFA552A_switzerland;<color=@userlogColoredText>30 mm</color> 30mm Flugzeug Kanone 65 <color=#ff6f00>ACNN</color>
 weapons/cannonDEFA552A_switzerland/short;Flz.Kan. 65
@@ -286,7 +290,16 @@ weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredTe
 
 //FRANCE GUNS
 weapons/7_62mm_FN_MAG58_user_machinegun;<color=@userlogColoredText>7.62 mm</color> FN MAG 58 <color=#ff6f00>MG</color>
+weapons/37mm_SA_18_user_cannon;<color=@userlogColoredText>37 mm</color> Canon de 37 mm semi-automatique modèle 1918 <color=#ff6f00>CNN</color>
+weapons/37mm_SA_38_user_cannon;<color=@userlogColoredText>37 mm</color> Canon de 37 mm semi-automatique modèle 1938 <color=#ff6f00>CNN</color>
 weapons/40mm_CTC_user_cannon;<color=@userlogColoredText>40 mm</color> 40 mm Cased Telescoped Cannon <color=#ff6f00>ACNN</color>
+weapons/47mm_SA_37_user_cannon;<color=@userlogColoredText>47 mm</color> Canon de 47 mm semi-automatique modèle 1937 <color=#ff6f00>CNN</color>
+weapons/75mm_SA_49_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75 mm semi-automatique modèle 1949 <color=#ff6f00>CNN</color>
+weapons/75mm_SA_50_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75 mm semi-automatique modèle 1950 <color=#ff6f00>CNN</color>
+weapons/75mm_SA_50_M4A4_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75 mm semi-automatique modèle 1950 <color=#ff6f00>CNN</color>
+weapons/90mm_SA45_ARL_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90 mm semi-automatique modèle 1945 <color=#ff6f00>CNN</color>
+weapons/90mm_SA45_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90 mm semi-automatique modèle 1945 <color=#ff6f00>CNN</color>
+weapons/90mm_SA47_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90 mm semi-automatique modèle 1947 <color=#ff6f00>CNN</color>
 weapons/100mm_45_mle_1930_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1930 <color=#ff6f00>CNN</color>
 weapons/100mm_45_mle_1930_naval_user_cannon/short;Canon de 100 mm/45 mle. 1930
 weapons/100mm_45_mle_1933_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1933 <color=#ff6f00>CNN</color>
@@ -5401,7 +5414,6 @@ weapons/12_7mm_NSV_t_72_user_cannon;<color=@userlogColoredText>12.7 mm</color> 6
 weapons/12_7mm_6P50_Kord_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 6P49 | Kort-T <color=#ff6f00>MG</color>
 weapons/12_7mm_6P50_Kord_t_72_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 6P49 | Kort-T <color=#ff6f00>MG</color>
 weapons/12_7mm_6P50_Kord_t_90m_2020_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 6P49MT | Kort-MT <color=#ff6f00>MG</color>
-weapons/37mm_SA_18_user_cannon;37 mm SA18 L/21 cannon
 37mm_mle1892;Mle1892
 37mm_mle1937;Mle1937
 weapons/164mm_nord_s11_rocket_launcher;SS.11 ATGM
@@ -5411,7 +5423,6 @@ weapons/130mm_Type_75_rocket_launcher/short;130 mm Type 75
 130mm_type75;130 mm Type 75
 105mm_type75;Type 75
 105mm_type91;Type 91
-weapons/37mm_SA_38_user_cannon;37 mm SA38 L/33 cannon
 37mm_mle1938;Mle1938
 weapons/75mm_APX_user_cannon;75 mm APX cannon
 28_20mm_pzgr41;2.8/2cm Pzgr.41
@@ -5457,7 +5468,6 @@ weapons/165mm_M135_user_cannon;165 mm M135 cannon
 47mm_mle1935_he;Mle1935 HE
 75mm_mle1915;Mle1915
 75mm_mle1910m;Mle1910M
-weapons/47mm_SA_37_user_cannon;47 mm SA37 cannon
 47mm_mle1936;Mle1936
 155mm_mle15;Mle1915
 weapons/155mm_Schneider_155_C_user_cannon;155 mm Schneider 155 C howitzer
@@ -5513,9 +5523,6 @@ weapons/105mm_CN_105_F1_user_cannon;105 mm CN-105-F1 cannon
 105mm_oe_60;OE 105-60
 105mm_ofph_f1;OFPH 105 F1
 weapons/7_5mm_AAT_52_user_machinegun;7.5 mm AAT-52 machine gun
-weapons/90mm_SA45_ARL_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90mm SA 45 <color=#ff6f00>CNN</color>
-weapons/90mm_SA45_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90mm SA 45 <color=#ff6f00>CNN</color>
-weapons/90mm_SA47_user_cannon;<color=@userlogColoredText>90 mm</color> Canon de 90mm SA 47 <color=#ff6f00>CNN</color>
 90mm_sa45_apc;90 mm Obus de rupture
 90mm_sa45_he;90 mm Obus explosif
 weapons/20mm_M_693_user_cannon;20 mm 20F2 automatic cannon
@@ -5526,9 +5533,6 @@ weapons/7_62mm_AAN_F1_user_machinegun;7.62 mm A-A-F1N machine gun
 weapons/75mm_SA_46_user_cannon;75 mm SA 44 cannon
 75mm_obus_de_rupture;75 mm OR Mle.44
 75mm_obus_explosif;75 mm OE Mle.28
-weapons/75mm_SA_49_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75mm SA 49 <color=#ff6f00>CNN</color>
-weapons/75mm_SA_50_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75mm SA 50 L/57 <color=#ff6f00>CNN</color>
-weapons/75mm_SA_50_M4A4_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75mm SA 50 L/57 <color=#ff6f00>CNN</color>
 75mm_sa50_he;OE Mle 1951
 75mm_pot51a;POT-51A
 75mm_pcot51p;PCOT-51P
@@ -6060,10 +6064,6 @@ weapons/20mm_MG151_20_user_cannon;20 mm MG151/20 cannon
 20mm_brgr;2cm Brgr.L'Spur 151
 20mm_pzbrgr_ph;2cm Pzbrgr.(Ph) 151
 weapons/20mm_GAI_CO1_user_cannon;20 mm GAI C01 cannon
-weapons/20mm_Rh_202_Wiesel_user_cannon;<color=@userlogColoredText>20 mm</color> Rheinmetall Rh202 | MK 20 DM 6 A1 <color=#ff6f00>ACNN</color>
-weapons/20mm_Rh_202_Marder_user_cannon;<color=@userlogColoredText>20 mm</color> Rheinmetall Rh202 | MK 20 DM 6 A1 <color=#ff6f00>ACNN</color>
-weapons/20mm_Rh_202_user_cannon;<color=@userlogColoredText>20 mm</color> Rheinmetall Rh202 | MK 20 DM 6 A1 <color=#ff6f00>ACNN</color>
-weapons/20mm_luchs_a2_user_cannon;<color=@userlogColoredText>20 mm</color> Rheinmetall Rh202 | MK 20 DM 6 A1 <color=#ff6f00>ACNN</color>
 20mm_dm63;DM 63
 20mm_dm43;DM 43
 20mm_dm51a1;DM 51 A1

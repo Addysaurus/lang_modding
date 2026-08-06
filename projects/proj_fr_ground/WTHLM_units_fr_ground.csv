@@ -4,7 +4,7 @@ shop/group/fr_hotchkiss_fcm_group;A.M.C. 34 / H. 35 / F.C.M. 36
 shop/group/fr_mars_hot_group;MARS 15 / A.M.X. 13t-75 (HOT)
 shop/group/fr_amx_sk_group;A.M.X. 10 RC / SK105-A2
 shop/group/fr_lorraine_bat_group;Lorraine 40t / B.C. 25t
-shop/group/fr_amx_30_group;AMX 30B2 / B2 BRENUS
+shop/group/fr_amx_30_group;A.M.X. 30 B2 / B2 BRENUS
 shop/group/fr_leclerc_group;Leclerc S1 / S2
 shop/group/fr_b1_2c_group;B. 1 bis / 2 C
 shop/group/fr_arl_jumbo_group;C.D.C. 48t / ☨ M4A3E2
@@ -145,12 +145,30 @@ fr_m3a3_stuart_0;"<color=#81c3fc>American Car and Foundry Company, Berwick</colo
 fr_m3a3_stuart_1;☨ M3A3
 fr_m3a3_stuart_2;Light Tank
 
+fr_m4a1_sherman_shop;☨ M4A1
+fr_m4a1_sherman_0;"<color=#81c3fc>Pressed Steel Car Company</color>
+☨ Char moyen M4A1"
+fr_m4a1_sherman_1;☨ M4A1
+fr_m4a1_sherman_2;Medium Tank
+
+fr_m4a4_sherman_shop;☨ M4A4
+fr_m4a4_sherman_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+☨ Char moyen M4A4"
+fr_m4a4_sherman_1;☨ M4A4
+fr_m4a4_sherman_2;Medium Tank
+
 fr_m4a4_cn_75_50_shop;☨ M4A4T (75 S.A. 50)
-fr_m4a4_cn_75_50_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+fr_m4a4_cn_75_50_0;"<color=#81c3fc>Detroit Arsenal Tank Plant <color=@commonTextColor>/</color> Atelier de construction de Bourges</color>
 ☨ Char moyen M4A4T
 <color=#adadad>(Canon de 75 mm semi-automatique modèle 1950)</color>"
 fr_m4a4_cn_75_50_1;☨ M4A4T
 fr_m4a4_cn_75_50_2;Medium Tank
+
+fr_m4a1_sherman_fl_10_shop;☨ M4A1 (F.L. 10)
+fr_m4a1_sherman_fl_10_0;"<color=#81c3fc>Pressed Steel Car Company</color>
+☨ Char moyen M4A1 avec tourelle F.L. 10"
+fr_m4a1_sherman_fl_10_1;☨ M4A1
+fr_m4a1_sherman_fl_10_2;Medium Tank
 
 fr_b1_bis_shop;B. 1 bis
 fr_b1_bis_0;"<color=#81c3fc>Atelier de construction de Rueil</color>
@@ -192,7 +210,7 @@ fr_amx_13_fl_11_2;Light Tank
 fr_amx_13_dca_40_shop;A.M.X. 13t D.C.A. 40
 fr_amx_13_dca_40_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux <color=@commonTextColor>/</color> Société d'Applications des
 Machines Motrices</color>
-Char de 13 tonnes A.M.X. à tourelle D.C.A. A.B. 380 avec canon de 40 L. 70
+Char de 13 tonnes A.M.X. à tourelle D.C.A. AB 380 avec canon de 40 L 70
 Bofors"
 fr_amx_13_dca_40_1;A.M.X. 13t D.C.A. 40
 fr_amx_13_dca_40_2;SPAAG
@@ -304,9 +322,9 @@ Engin blindé léger personnel A.M.X. 10 P"
 fr_amx_10p_1;A.M.X. 10 P
 fr_amx_10p_2;IFV
 
-fr_amx_10m_acra_shop;A.M.X. 10 M (ACRA)
+fr_amx_10m_acra_shop;A.M.X. 10 M (A.C.R.A.)
 fr_amx_10m_acra_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
-Engin blindé léger missile A.M.X. 10 M avec système d'arme ACRA"
+Engin blindé léger missile A.M.X. 10 M avec système d'arme A.C.R.A."
 fr_amx_10m_acra_1;A.M.X. 10 M
 fr_amx_10m_acra_2;ATMC
 
@@ -318,7 +336,7 @@ fr_amx_10rc_2;Light Tank
 
 fr_lorraine_100_shop;C.A. 100
 fr_lorraine_100_0;"<color=#81c3fc>Direction des Etudes et Fabrication d'Armement</color>
-Canon d'assaut de 100 Lorraine"
+Canon d'assaut de 100 mm"
 fr_lorraine_100_1;C.A. 100
 fr_lorraine_100_2;SPG
 
@@ -359,6 +377,56 @@ Char de 25 tonnes B.C. avec tourelle T.O. 90/930"
 fr_bat_chat_25t_1;B.C. 25t
 fr_bat_chat_25t_2;Light Tank
 
+fr_amx_30_1972_shop;A.M.X. 30 B (1972)
+fr_amx_30_1972_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
+Char moyen de combat A.M.X. 30 B
+<color=#adadad>(1972)</color>"
+fr_amx_30_1972_1;A.M.X. 30 B
+fr_amx_30_1972_2;MBT
+
+fr_amx_30_shop;A.M.X. 30 B (1965)
+fr_amx_30_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
+Char moyen de combat A.M.X. 30 B
+<color=#adadad>(1965)</color>"
+fr_amx_30_1;A.M.X. 30 B
+fr_amx_30_2;MBT
+
+fr_amx_30_b2_shop;A.M.X. 30 B2
+fr_amx_30_b2_0;"<color=#81c3fc>Groupement industriel des armements terrestres</color>
+Char moyen de combat A.M.X. 30 B2"
+fr_amx_30_b2_1;A.M.X. 30 B2
+fr_amx_30_b2_2;MBT
+
+fr_amx_30_b2_brenus_shop;A.M.X. 30 B2 BRENUS
+fr_amx_30_b2_brenus_0;"<color=#81c3fc>GIAT Industries</color>
+Char moyen de combat A.M.X. 30 B2 BRENUS"
+fr_amx_30_b2_brenus_1;A.M.X. 30 B2
+fr_amx_30_b2_brenus_2;MBT
+
+fr_amx_30_dca_shop;A.M.X. 30 SA bitube (S 401 A)
+fr_amx_30_dca_0;"<color=#81c3fc>Groupement industriel des armements terrestres</color>
+Char A.M.X. 30 SA bitube de 30 mm
+<color=#adadad>(S 401 A)</color>"
+fr_amx_30_dca_1;A.M.X. 30 SA bitube
+fr_amx_30_dca_2;SPAAG
+
+fr_amx_30_ACRA_shop;A.M.X. 30 (T 142)
+fr_amx_30_ACRA_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux <color=@commonTextColor>/</color> Atelier de construction de
+Puteaux</color>
+<color=#ff8c80>Projet A.C.R.A.</color>
+Char moyen de combat A.M.X. 30
+<color=#adadad>(tourelle prototype T 142)</color>"
+fr_amx_30_ACRA_1;A.M.X. 30 (T 142)
+fr_amx_30_ACRA_2;MBT
+
+fr_amx_30_super_shop;Super AMX 30
+fr_amx_30_super_0;"<color=#81c3fc>Groupement industriel des armements terrestres <color=@commonTextColor>/</color> AEG <color=@commonTextColor>+</color>
+Krupp Atlas Elektronik <color=@commonTextColor>+</color> MTU Friedrichshafen <color=@commonTextColor>+</color> Wegmann & Co. <color=@commonTextColor>+</color>
+Diehl Munitionssysteme <color=@commonTextColor>+</color> ZF Friedrichshafen <color=@commonTextColor>+</color> GLS Gemeinschaftsbank
+Super AMX 30</color>"
+fr_amx_30_super_1;Super AMX 30
+fr_amx_30_super_2;MBT
+
 fr_amx_50_shop;A.M.X. 50t (T.O.A. 100)
 fr_amx_50_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
 Char moyen de 50 tonnes A.M.X. avec tourelle T.O.A. 100"
@@ -385,7 +453,7 @@ fr_amx_50_1950_2;Medium Tank
 
 fr_amx_50_foch_shop;C.A. 120
 fr_amx_50_foch_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
-Auto-canon de 120"
+Canon d'assaut de 120 mm"
 fr_amx_50_foch_1;C.A. 120
 fr_amx_50_foch_2;SPG
 
@@ -401,11 +469,36 @@ fr_marder_clovis_1;☨ CLOVIS
 fr_marder_clovis_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+fr_mars_15_shop;MARS 15 (TS 90)
+fr_mars_15_0;"<color=#81c3fc>Creusot-Loire Industrie MARS 15</color>
+<color=#ff8c80>Véhicule blindé modulaire</color>
+<color=#adadad>(tourelle TS 90)</color>"
+fr_mars_15_1;MARS 15
+fr_mars_15_2;Light Tank
+
+fr_vbci_shop;VBCI VCI
+fr_vbci_0;"<color=#81c3fc>Nexter Systems</color>
+Véhicule blindé de combat d'infanterie, véhicule de combat d'infanterie"
+fr_vbci_1;VBCI VCI
+fr_vbci_2;IFV
+
+fr_vbci2_mct30_shop;VBCI MK2 (MCT-30)
+fr_vbci2_mct30_0;"<color=#81c3fc>KNDS France Véhicule blindé de combat d'infanterie MK2 ""Al-Wajbah""</color>
+<color=#adadad>(PROTECTOR Medium Caliber Turret MCT-30)</color>"
+fr_vbci2_mct30_1;VBCI MK2
+fr_vbci2_mct30_2;IFV
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+fr_vextra_105_shop;Vextra 105 (Sep 1997)
+fr_vextra_105_0;"<color=#81c3fc>GIAT Industries Véhicule d'experimentation de transmission 105</color>
+<color=#ff8c80>Véhicule blindé modulaire</color>
+<color=#adadad>(September 1997)</color>"
+fr_vextra_105_1;Vextra 105
+fr_vextra_105_2;Light Tank
+
 fr_msc_shop;MSC
 fr_msc_0;"<color=#81c3fc>GIAT Industries</color>
-Mulet Système Complet"
+Mulet système complet"
 fr_msc_1;MSC
 fr_msc_2;MBT
 

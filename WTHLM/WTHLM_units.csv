@@ -14380,7 +14380,7 @@ jp_type_4_chi_to_shop;Chi To (2 Gō)
 jp_type_4_chi_to_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 <color=#7ce68f>Shisei Chū Sensha (Kō)</color>
 Chi To
-<color=#adadad>(Shisei 2 Gōsha)</color>"
+<color=@currencyGoldColor>Shisei 2 Gōsha</color>"
 jp_type_4_chi_to_1;Chi To
 jp_type_4_chi_to_2;Medium Tank
 
@@ -14493,10 +14493,10 @@ jp_type_75_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō <color=@commonTextColor>+</c
 jp_type_75_1;75HSP
 jp_type_75_2;SPH
 
-jp_sub_i_ii_20mm_shop;SUB-I-2 (MK 20 DM 6 A1)
+jp_sub_i_ii_20mm_shop;SUB-I-2 (MK20 Rh202)
 jp_sub_i_ii_20mm_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 SUB-I-2
-<color=#adadad>(MK 20 DM 6 A1)</color>"
+<color=#adadad>(20 mm Automatic Cannon MK20 Rh202)</color>"
 jp_sub_i_ii_20mm_1;SUB-I-2
 jp_sub_i_ii_20mm_2;SPAAG
 
@@ -14526,7 +14526,7 @@ jp_type_5_ho_ri_production_2;SPG
 jp_type_87_rcv_prot_shop;RCV (Shi 1 Gō)
 jp_type_87_rcv_prot_0;"<color=#81c3fc>Komatsu Seisaku</color>
 Teisatsu Keikaisha
-<color=#adadad>(Shisaku 1 Gōsha)</color>"
+<color=@currencyGoldColor>Shisaku 1 Gōsha</color>"
 jp_type_87_rcv_prot_1;RCV
 jp_type_87_rcv_prot_2;WIFV
 
@@ -14608,7 +14608,7 @@ jp_type_89_2;IFV
 jp_type_16_mcv_prot_shop;MCV (Shi 3 Gō)
 jp_type_16_mcv_prot_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 Kidō Sentō Sha
-<color=#adadad>(Shisaku 3 Gōsha)</color>"
+<color=@currencyGoldColor>Shisaku 3 Gōsha</color>"
 jp_type_16_mcv_prot_1;MCV
 jp_type_16_mcv_prot_2;Light Tank
 

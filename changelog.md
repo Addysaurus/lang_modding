@@ -37,6 +37,15 @@ All dates are listed in DD-MM-YYYY format.
     - **SUB-I-2 (MK 20 DM 6 A1)** → **SUB-I-2 (MK20 Rh202)**. Statcard name → **Mitsubishi Jū Kōgyō | SUB-I-2 (20 mm Automatic Cannon MK20 Rh202)**. The actual weapon for the vehicle uses the German military name because it uses the same file as the **Wiesel 1 A4 MK**, but the vehicle's name is using the gun's export name.
         - Japanese package: Statcard name → **三菱重工業 | SUB-I-2 (20 mm Automatic Cannon MK20 Rh202)**.
     - **Reconnaissance UAV** → **Mavic 2 Enterprise Dual**. Statcard name → **Shēnzhèn Shì Dà Jiāng Chuàngxīn Kējì Youxiàn Gōngsī Model L1DE | Mavic 2 Enterprise Dual**.
+    - Added a roundel to the **Leopard 1 A5 BE**.
+    - Corrected the manufacturer on the **Jì Mu Xī 10 Lún (M45C)** to **GMC Truck and Coach Division**.
+    - Added manufacturers to all **M44**s.
+    - Reworked all the **TAM**s.
+    - **SK105-A2** (Germany / Argentina) → **VC SK 105**. Statcard name → **Steyr-Werke Typ 4KH7FA-SK105 | Vehículo de Combate SK 105**.
+    - **SK105-A2** (France / Austria) → **JaPzK A2**. Statcard name → **Steyr-Werke Typ 4KH7FA-SK105 | Jagdpanzer Kürassier A2**.
+    - **TAM / SK105-A2** (folder) → **VC TAM / SK 105**.
+    - **AMX 10RC / SK105-A2** (folder) → **AMX 10RC / JaPzK A2**.
+    - **EFz-Rad 8x8 / TAM 2C** (folder) → **EFz-Rad 8x8 / VC TAM 2C**.
 
 ### Weaponry:
 
@@ -50,12 +59,20 @@ All dates are listed in DD-MM-YYYY format.
     - **Canon de 75mm SA 50 L/57** → **Canon de 75 mm semi-automatique modèle 1950**.
     - **Canon de 90mm SA 45** → **Canon de 90 mm semi-automatique modèle 1945**.
     - **Canon de 90mm SA 47** → **Canon de 90 mm semi-automatique modèle 1947**.
+    - **105 mm FMk. 4 Modelo 1L cannon** → **Cañón Cal. 105 mm FMK 4 Modelo 1L**.
+    - **SYLVER A50**: Statcard name → **Système de lancement vertical A50**.
 
 ### Modifications:
 
 - #### Changes:
 
     - Corrected the **AIM-9P-3** modification to **AIM-9P-1** in line with the weapon.
+
+### Engines:
+
+- #### Changes:
+
+    - **DXi 11 Euro 4** → **DXi 11 Euro 5**.
 
 ## 1.18.01 - 24-07-2026
 

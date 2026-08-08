@@ -118,6 +118,9 @@ weapons/37mm_gerat_341_user_cannon;<color=@userlogColoredText>37 mm</color> 3,7c
 weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 <color=#ff6f00>ACNN</color>
 weapons/55mm_77_gerat_58_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 5,5cm Gerät 58 <color=#ff6f00>ACNN</color>
 weapons/105mm_Rh105_30_user_cannon;<color=@userlogColoredText>105 mm</color> Rh105-30 <color=#ff6f00>CNN</color>
+weapons/105mm_FMK4_Modelo_1L_user_cannon;<color=@userlogColoredText>105 mm</color> Cañón Cal. 105 mm FMK 4 Modelo 1L <color=#ff6f00>CNN</color>
+weapons/105mm_FMK4_Modelo_1L_2IP_user_cannon;<color=@userlogColoredText>105 mm</color> Cañón Cal. 105 mm FMK 4 Modelo 1L <color=#ff6f00>CNN</color>
+weapons/105mm_FMK4_Modelo_1L_2C_user_cannon;<color=@userlogColoredText>105 mm</color> Cañón Cal. 105 mm FMK 4 Modelo 1L <color=#ff6f00>CNN</color>
 weapons/120mm_Rheinmetall_L44_user_cannon;<color=@userlogColoredText>120 mm</color> Bordkanone 120 mm L44 <color=#ff6f00>CNN</color>
 weapons/120mm_Rheinmetall_L44_autoloader_user_cannon;<color=@userlogColoredText>120 mm</color> Bordkanone 120 mm L44 <color=#ff6f00>CNN</color>
 weapons/120mm_Rheinmetall_L44_VT_user_cannon;<color=@userlogColoredText>120 mm</color> Bordkanone 120 mm L44 <color=#ff6f00>CNN</color>
@@ -1368,7 +1371,7 @@ weapons/fr_as37_armat/short;AS 37 ARMAT
 weapons/140mm_akeron_mp_rocket_launchr_user_cannon;AKERON MP <color=#ff6f00>LCH</color>
 weapons/140mm_akeron_mp_rocket_launchr_user_cannon/short;AKERON MP
 140mm_akeron_mp;AKERON MP
-weapons/380mm_aster_30_user_cannon;Système de Lancement Vertical A50 <color=#ff6f00>LCH</color>
+weapons/380mm_aster_30_user_cannon;Système de lancement vertical A50 <color=#ff6f00>LCH</color>
 weapons/380mm_aster_30_user_cannon/short;SYLVER A50
 380mm_aster_30;Aster 30 Block 0
 atam_mistral_sam;Mistral
@@ -4699,9 +4702,6 @@ weapons/us_450mm_mk7_torpedo/short;Mk. 7
 weapons/130mm_M65_user_cannon;<color=@userlogColoredText>130 mm</color> M-65 <color=#ff6f00>CNN</color>
 weapons/130mm_C70_user_cannon;<color=@userlogColoredText>130 mm</color> S-70 <color=#ff6f00>CNN</color>
 weapons/7_62mm_RP46_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 56-R-326 | RP obr. 1946 g. <color=#ff6f00>MG</color>
-weapons/105mm_FMK4_Modelo_1L_2IP_user_cannon;105 mm FMk. 4 Modelo 1L cannon
-weapons/105mm_FMK4_Modelo_1L_2C_user_cannon;105 mm FMk. 4 Modelo 1L cannon
-weapons/105mm_FMK4_Modelo_1L_user_cannon;105 mm FMk. 4 Modelo 1L cannon
 weapons/7_62mm_C6_user_machinegun;7.62 mm C6 machine gun
 weapons/7_62mm_FN_MAG60_40_user_machinegun;<color=@userlogColoredText>7.62 mm</color> FN MAG 60-40 <color=#ff6f00>MG</color>
 weapons/7_62mm_FN_MAG60_40_namer_user_machinegun;<color=@userlogColoredText>7.62 mm</color> FN MAG 60-40 <color=#ff6f00>MG</color>

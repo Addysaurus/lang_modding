@@ -1376,8 +1376,8 @@ shop/group/germ_m44_55_group;◄ PzH M 44 / 55
 shop/group/germ_waffentrager_group;Nashorn / Waffenträger
 shop/group/germ_marder_bmp_group;Marder 1 A1 (-) / BMP-1P
 shop/group/germ_marder_group;Marder 1 A3 / ◄ DF 105
-shop/group/germ_tam_sk_group;TAM / ⛯ SK105-A2
-shop/group/germ_radpanzer_tam_group;EFz-Rad 8x8 / TAM 2C
+shop/group/germ_tam_sk_group;VC TAM / ⛯ SK 105
+shop/group/germ_radpanzer_tam_group;EFz-Rad 8x8 / VC TAM 2C
 shop/group/germ_leopard_1_late_group;Leopard 1 A1 A1 / 1 A5
 shop/group/germ_prewar_pz_III_group;Pz.Kpfw. III E / B
 shop/group/germ_Marder_III_group;Marder III / III H
@@ -1673,7 +1673,7 @@ shop/group/tornado_ids_it_group;A-200A (1995) / C (RET8)
 
 shop/group/fr_hotchkiss_fcm_group;AMC 34 / H 35 / FCM 36
 shop/group/fr_mars_hot_group;MARS 15 / AMX 13 (HOT)
-shop/group/fr_amx_sk_group;AMX 10RC / SK105-A2
+shop/group/fr_amx_sk_group;AMX 10RC / JaPzK A2
 shop/group/fr_lorraine_bat_group;Lorraine 40t / Char 25t
 shop/group/fr_amx_30_group;AMX 30B2 / B2 BRENUS
 shop/group/fr_leclerc_group;Leclerc S1 / S2
@@ -4006,135 +4006,8 @@ us_m42_duster_1;M42
 us_m42_duster_2;SPAA
 
 us_m44_shop;M44
-us_m44_0;"<color=#5cae63>G-279</color>
-Howitzer, Self-Propelled, Full Tracked: 155mm, M44"
-us_m44_1;M44
-us_m44_2;SPH
-
-us_m55_shop;M55
-us_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
-<color=#5cae63>G-261</color>
-Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55"
-us_m55_1;M55
-us_m55_2;SPH
-
-us_m36_shop;M36 GMC
-us_m36_0;"<color=#5cae63>G-210</color>
-Carriage, Motor, 90mm Gun, M36 ""Jackson"""
-us_m36_1;M36
-us_m36_2;Tank Destroyer
-
-us_m36b2_shop;M36B2 GMC
-us_m36b2_0;"<color=#5cae63>G-237</color>
-Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
-us_m36b2_1;M36B2
-us_m36b2_2;Tank Destroyer
-
-us_t14_shop;T14
-us_t14_0;"Tank, Assault, T14"
-us_t14_1;T14
-us_t14_2;Assault Tank
-
-us_skink_aa_kit_3rank_shop;"▃ Skink ""Hell on Wheels"""
-us_skink_aa_kit_3rank_0;"<color=#81c3fc>Canadian Ministry of Munitions and Supply, Army Engineering Design
-Branch <color=@commonTextColor>+</color> Waterloo Manufacturing Company</color>
-▃ Tank, Anti-Aircraft, 20mm, Quad, Skink
-<color=@currencyGoldColor>""Hell on Wheels""</color>"
-us_skink_aa_kit_3rank_1;▃ Skink
-us_skink_aa_kit_3rank_2;SPAA
-
-us_skink_aa_shop;▃ Skink
-us_skink_aa_0;"<color=#81c3fc>Canadian Ministry of Munitions and Supply, Army Engineering Design
-Branch <color=@commonTextColor>+</color> Waterloo Manufacturing Company</color>
-▃ Tank, Anti-Aircraft, 20mm, Quad, Skink"
-us_skink_aa_1;▃ Skink
-us_skink_aa_2;SPAA
-
-us_t55e1_shop;T55E1 GMC
-us_t55e1_0;"Carriage, Motor, 3-inch Gun, T55E1"
-us_t55e1_1;T55E1 GMC
-us_t55e1_2;SPG
-
-us_t86_shop;T86 GMC (early)
-us_t86_0;"<color=#81c3fc>Marmon-Herrington Company</color>
-Carriage, Motor, Amphibious, 76mm Gun, T86
-<color=#adadad>(early)</color>"
-us_t86_1;T86 GMC
-us_t86_2;Medium Tank
-
-//USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
-us_m18_hellcat_shop;M18 GMC
-us_m18_hellcat_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
-<color=#5cae63>G-163</color>
-Carriage, Motor, 76mm Gun, M18 ""Hellcat"""
-us_m18_hellcat_1;M18 GMC
-us_m18_hellcat_2;Light Tank
-
-us_m18_hellcat_kit_3rank_shop;"M18 GMC ""Hell on Wheels"""
-us_m18_hellcat_kit_3rank_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
-<color=#5cae63>G-163</color>
-Carriage, Motor, 76mm Gun, M18 ""Hellcat""
-<color=@currencyGoldColor>""Hell on Wheels""</color>"
-us_m18_hellcat_kit_3rank_1;M18 GMC
-us_m18_hellcat_kit_3rank_2;Medium Tank
-
-us_m18_hellcat_black_cat_shop;M18 GMC (805th TD.Bat.)
-us_m18_hellcat_black_cat_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
-<color=#5cae63>G-163</color>
-Carriage, Motor, 76mm Gun, M18 ""Hellcat""
-<color=@currencyGoldColor>805th Tank Destroyer Battalion, ""Black Cat""</color>"
-us_m18_hellcat_black_cat_1;M18
-us_m18_hellcat_black_cat_2;Light Tank
-
-us_m18_super_hellcat_shop;M18 GMC (M3)
-us_m18_super_hellcat_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
-<color=#5cae63>G-163</color>
-Carriage, Motor, 90mm Gun, M18 ""Super Hellcat"""
-us_m18_super_hellcat_1;M18 GMC
-us_m18_super_hellcat_2;Light Tank
-
-us_m18_hellcat_black_cat_race_shop;"""Racing"" M18"
-us_m18_hellcat_black_cat_race_0;"""Racing"" M18"
-us_m18_hellcat_black_cat_race_1;"""Racing"" M18"
-us_m18_hellcat_black_cat_race_2;Light Tank
-
-us_m6a1_shop;M6A1
-us_m6a1_0;"<color=#5cae63>G-118</color>
-Tank, Heavy, M6A1"
-us_m6a1_1;M6A1
-us_m6a1_2;Heavy Tank
-
-us_m6a2e1_shop;M6A2E1-1
-us_m6a2e1_0;"<color=#5cae63>G-118</color>
-Tank, Heavy, M6A2E1-1"
-us_m6a2e1_1;M6A2E1
-us_m6a2e1_2;Heavy Tank
-
-us_t1e1_shop;T1E1
-us_t1e1_0;"Tank, Heavy, T1E1"
-us_t1e1_1;T1E1
-us_t1e1_2;Heavy Tank
-
-us_t1e1_90_shop;T1E1 (T7)
-us_t1e1_90_0;"Tank, Heavy, T1E1
-<color=#adadad>(Gun, 90mm, T7)</color>"
-us_t1e1_90_1;T1E1
-us_t1e1_90_2;Heavy Tank
-
-us_m19_shop;M19A1
-us_m19_0;"<color=#5cae63>G-248</color>
-Carriage, Motor, Twin 40mm Gun, M19A1"
-us_m19_1;M19A1
-us_m19_2;SPAA
-
-us_m42_duster_shop;M42
-us_m42_duster_0;"<color=#5cae63>G-253</color>
-Gun, Self-Propelled, Full Tracked: Twin 40mm, M42 ""Duster"""
-us_m42_duster_1;M42
-us_m42_duster_2;SPAA
-
-us_m44_shop;M44
-us_m44_0;"<color=#5cae63>G-279</color>
+us_m44_0;"<color=#81c3fc>Massey-Harris</color>
+<color=#5cae63>G-279</color>
 Howitzer, Self-Propelled, Full Tracked: 155mm, M44"
 us_m44_1;M44
 us_m44_2;SPH
@@ -6976,6 +6849,12 @@ Ostwind II
 germ_flakpanzer_IV_Ostwind_2_net_1;Ostwind II
 germ_flakpanzer_IV_Ostwind_2_net_2;SPAAG
 
+germ_m44_shop;◄ PzH M 44
+germ_m44_0;"<color=#81c3fc>Massey-Harris</color>
+◄ Panzerhaubitze M 44"
+germ_m44_1;◄ PzH M 44
+germ_m44_2;SPH
+
 germ_m55_shop;◄ PzH M 55
 germ_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
 ◄ Panzerhaubitze M 55"
@@ -7135,6 +7014,30 @@ germ_marder_clovis_1;◄ CLOVIS
 germ_marder_clovis_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+germ_sk105_a2_shop;⛯ VC SK 105
+germ_sk105_a2_0;"<color=#81c3fc>Steyr-Werke Typ 4KH7FA-SK105</color>
+⛯ Vehículo de Combate SK 105"
+germ_sk105_a2_1;⛯ VC SK 105
+germ_sk105_a2_2;Light Tank
+
+germ_thyssen_henschel_tam_shop;VC TAM
+germ_thyssen_henschel_tam_0;"<color=#81c3fc>Tanque Argentino Mediano Sociedad del Estado</color>
+Vehículo de Combate Tanque Argentino Mediano"
+germ_thyssen_henschel_tam_1;VC TAM
+germ_thyssen_henschel_tam_2;Medium Tank
+
+germ_thyssen_henschel_tam_2ip_shop;VC TAM 2IP
+germ_thyssen_henschel_tam_2ip_0;"<color=#81c3fc>Tanque Argentino Mediano Sociedad del Estado <color=@commonTextColor>/</color> IMI Systems</color>
+Vehículo de Combate Tanque Argentino Mediano 2 Improved Protection"
+germ_thyssen_henschel_tam_2ip_1;VC TAM 2IP
+germ_thyssen_henschel_tam_2ip_2;Medium Tank
+
+germ_thyssen_henschel_tam_2c_shop;VC TAM 2C
+germ_thyssen_henschel_tam_2c_0;"<color=#81c3fc>Tanque Argentino Mediano Sociedad del Estado <color=@commonTextColor>/</color> Elbit Systems</color>
+Vehículo de Combate Tanque Argentino Mediano 2C"
+germ_thyssen_henschel_tam_2c_1;VC TAM 2C
+germ_thyssen_henschel_tam_2c_2;Medium Tank
+
 germ_begleitpanzer_57_shop;Begleit-Pz 57 mm
 germ_begleitpanzer_57_0;<color=#81c3fc>Thyssen Henschel <color=@commonTextColor>+</color> Bofors Begleitpanzer 57 mm</color>
 germ_begleitpanzer_57_1;Begleit-Pz 57 mm
@@ -16196,7 +16099,7 @@ cn_m4a1_76w_sherman_1;☀ M4A1
 cn_m4a1_76w_sherman_2;Medium Tank
 
 cn_gmc_cckw_353_m45_quad_shop;Jì Mu Xī 10 Lún (M45C)
-cn_gmc_cckw_353_m45_quad_0;"<color=#81c3fc>GMC Truck and Coach</color>
+cn_gmc_cckw_353_m45_quad_0;"<color=#81c3fc>GMC Truck and Coach Division</color>
 Jì Mu Xī 10 Lún Dà Kachē
 <color=#adadad>(Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)</color>"
 cn_gmc_cckw_353_m45_quad_1;Jì Mu Xī 10 Lún (M45C)
@@ -17300,6 +17203,12 @@ it_44m_zrinyi_1_1;44 M. Zrínyi
 it_44m_zrinyi_1_2;SPG
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+it_m44_shop;⛨ 155/23 M44
+it_m44_0;"<color=#81c3fc>Massey-Harris</color>
+⛨ Semovente da 155/23 M44"
+it_m44_1;⛨ 155/23 M44
+it_m44_2;SPH
+
 it_m55_shop;⛨ 203/25 M55
 it_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
 ⛨ Semovente da 203/25 M55"
@@ -18687,7 +18596,7 @@ fr_tpk_641_vpc_1;VLRA 6x6 (KAD)
 fr_tpk_641_vpc_2;SPAA
 
 fr_m44_shop;▄ M44
-fr_m44_0;"<color=#5cae63>G-279</color>
+fr_m44_0;"<color=#81c3fc>Massey-Harris</color>
 ▄ Howitzer, Self-Propelled, Full Tracked: 155mm, M44"
 fr_m44_1;▄ M44
 fr_m44_2;SPH
@@ -18747,16 +18656,22 @@ fr_mars_15_0;<color=#81c3fc>MARS 15</color>
 fr_mars_15_1;MARS 15
 fr_mars_15_2;Light Tank
 
+fr_sk105_a2_shop;JaPzK A2
+fr_sk105_a2_0;"<color=#81c3fc>Steyr-Werke Typ 4KH7FA-SK105</color>
+Jagdpanzer Kürassier A2"
+fr_sk105_a2_1;JaPzK A2
+fr_sk105_a2_2;Tank Destroyer
+
 fr_vbci2_mct30_shop;VBCI MK2 (MCT-30)
 fr_vbci2_mct30_0;"Véhicule Blindé de Combat d'Infanterie MK2 ""Al-Wajbah""
 <color=#adadad>(MCT-30)</color>"
 fr_vbci2_mct30_1;VBCI MK2
 fr_vbci2_mct30_2;IFV
 
-fr_leopard_1a5be_shop;Leopard 1 A5 BE
+fr_leopard_1a5be_shop;▄ Leopard 1 A5 BE
 fr_leopard_1a5be_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
-Leopard 1 A5 BE"
-fr_leopard_1a5be_1;Leopard 1 A5
+▄ Leopard 1 A5 BE"
+fr_leopard_1a5be_1;▄ Leopard 1 A5
 fr_leopard_1a5be_2;MBT
 
 fr_amx_30_ACRA_shop;AMX 30 (T 142)
@@ -21026,10 +20941,6 @@ germ_raketenjagdpanzer_2_hot_shop;RakJPz 2 (HOT)
 germ_raketenjagdpanzer_2_hot_0;Raketenjagdpanzer 2
 germ_raketenjagdpanzer_2_hot_1;RakJPz 2 (HOT)
 germ_raketenjagdpanzer_2_hot_2;SPG
-germ_sk105_a2_shop;⛯ SK105-A2
-germ_sk105_a2_0;⛯ Cazacarros, Kürassier 4KH6FA-SK105-A2
-germ_sk105_a2_1;⛯ SK105-A2
-germ_sk105_a2_2;Light Tank
 germ_kanonenjagdpanzer_shop;JPz 4-5
 germ_kanonenjagdpanzer_0;Hanomag-Henschel JPz 4-5
 germ_kanonenjagdpanzer_1;JPz 4-5
@@ -22370,18 +22281,6 @@ fr_bat_chat_25t_shop;Char 25t
 fr_bat_chat_25t_0;Batignolles-Châtillon Char de 25 tonnes
 fr_bat_chat_25t_1;Char 25t
 fr_bat_chat_25t_2;Light Tank
-germ_thyssen_henschel_tam_2ip_shop;TAM 2IP
-germ_thyssen_henschel_tam_2ip_0;Tanque Argentino Mediano 2, Improved Protection
-germ_thyssen_henschel_tam_2ip_1;TAM 2IP
-germ_thyssen_henschel_tam_2ip_2;Light Tank
-germ_thyssen_henschel_tam_2c_shop;TAM 2C
-germ_thyssen_henschel_tam_2c_0;Tanque Argentino Mediano 2C
-germ_thyssen_henschel_tam_2c_1;TAM 2C
-germ_thyssen_henschel_tam_2c_2;Light Tank
-germ_thyssen_henschel_tam_shop;TAM
-germ_thyssen_henschel_tam_0;Tanque Argentino Mediano
-germ_thyssen_henschel_tam_1;TAM
-germ_thyssen_henschel_tam_2;Light Tank
 it_vcc_80_hitfist_60_shop;VCC-80 Dardo (60/70)
 it_vcc_80_hitfist_60_0;Veicolo Cingolato da Combattimento 80 Dardo da 60/70
 it_vcc_80_hitfist_60_1;Dardo
@@ -22470,10 +22369,6 @@ it_semovente_m43_75_34_shop;75/34 M. 43
 it_semovente_m43_75_34_0;Semovente da 75/34 su Scafo M. 43
 it_semovente_m43_75_34_1;75/34 M. 43
 it_semovente_m43_75_34_2;SPG
-it_m44_shop;⛨ 155/23 M44
-it_m44_0;⛨ Semovente da 155/23 M44
-it_m44_1;⛨ 155/23 M44
-it_m44_2;SPH
 it_m36b1_shop;⛨ 90/50 M36B1
 it_m36b1_0;⛨ Semovente da 90/50 M36B1
 it_m36b1_1;⛨ M36B1
@@ -22706,10 +22601,6 @@ it_p_40_shop;P. 40
 it_p_40_0;Carro Armato Pesante Mod. 40
 it_p_40_1;P. 40
 it_p_40_2;Medium Tank
-germ_m44_shop;◄ PzH M 44
-germ_m44_0;◄ Panzerhaubitze M 44
-germ_m44_1;◄ PzH M 44
-germ_m44_2;SPH
 germ_m109g_shop;◄ PzH M 109 G
 germ_m109g_0;◄ Panzerhaubitze M 109 G
 germ_m109g_1;◄ M 109

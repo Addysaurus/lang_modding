@@ -1413,6 +1413,7 @@ shop/group/he-111h_group;He 111 H-6 / 16
 shop/group/he_111_bv_138_group;He 115 / BV 138
 shop/group/bf_110cf_group;Bf 110 C / F
 shop/group/bf_110g_group;Bf 110 G-2 / 4
+shop/group/me_210_410_group;Me 210 A-1 / 410 A-1 / B-2
 shop/group/ju-88a_group;Ju 88 A-1 / 4
 shop/group/do_217k_group;Do 217 K / M
 shop/group/me-410a-1_group;Me 410 A-1/U4 / B-2/U4
@@ -1651,7 +1652,7 @@ shop/group/it_m13_40_group;M. 40 I / III
 shop/group/it_of_leo_group;OF 40 Mk. 1 / ⛨ Leopard 1 A2
 shop/group/it_dardo_group;VCC-80 Dardo / Dardo (HITFIST 30)
 shop/group/it_9a33_35_group;╏ 9A33BM3 / ◔ 35M
-shop/group/it_samp_t_fcs_group;⛨ SAMP/T (MRI) / (MLT)
+shop/group/it_samp_t_fcs_group;⛨ SAMP/T
 shop/group/sm_79_1941_group;S.M.79 AS / bis/T.M. / S. 79 B
 shop/group/cr_32_group;CR.32 / 32quarter
 shop/group/ba_65_group;Ba. 65 (K-14fc) (L) / ⛨ Ju 87 R-2
@@ -10103,6 +10104,15 @@ Marat
 ussr_battleship_marat_1;Marat
 ussr_battleship_marat_2;Battleship
 
+ussr_battleship_oktyabrskaya_revolutsiya_shop;Okt'abr'skaya ryevolyutsiya
+ussr_battleship_oktyabrskaya_revolutsiya_0;"<color=#81c3fc>Admiralt'ejsk'iye v'erf'i <color=@commonTextColor>/</color> Sudostroit'el'nyj zavot № 189 im. S. Ordzhonik'idz'e</color>
+<color=#fffa62>Linyejnyj korabl' t'ip S'evastopol'</color>
+<color=#919191>Gangut</color>
+Okt'abr'skaya ryevolyutsiya
+<color=#adadad>(1944)</color>"
+ussr_battleship_oktyabrskaya_revolutsiya_1;Okt'abr'skaya ryevolyutsiya
+ussr_battleship_oktyabrskaya_revolutsiya_2;Battleship
+
 ussr_battleship_imperatritsa_mariya_shop;Impyeratricza Mariâ
 ussr_battleship_imperatritsa_mariya_0;"<color=#fffa62>Impyeratricza Mariâ-class</color>
 Impyeratricza Mariâ
@@ -17464,18 +17474,20 @@ it_centauro_2_0;"<color=#81c3fc>Consortium Iveco-Oto Melara Centauro II 120</col
 it_centauro_2_1;Centauro II 120
 it_centauro_2_2;Light Tank
 
-it_samp_t_launcher_shop;⛨ SAMP/T (MLT)
-it_samp_t_launcher_0;"<color=#81c3fc>Eurosam</color>
-⛨ Sol-Air Moyenne Portée/Terrestre
-<color=#adadad>(Module de Lancement Terrestre)</color>"
-it_samp_t_launcher_1;⛨ SAMP/T (MLT)
+it_samp_t_launcher_shop;⛨ ACTL SM 88.45 BAD (SAMP/T) (MLT)
+it_samp_t_launcher_0;"<color=#81c3fc>⛨ Astra veicoli industriali Autocarro tattico logistico SM 88.45 BAD <color=@commonTextColor>/</color>
+Eurosam</color>
+<color=#adadad>(Sol-air moyenne portée/terrestre)
+(module de lancement terrestre)</color>"
+it_samp_t_launcher_1;⛨ ACTL SM 88.45 BAD (SAMP/T) (MLT)
 it_samp_t_launcher_2;SPAAM
 
-it_samp_t_fcs_shop;⛨ SAMP/T (MRI)
-it_samp_t_fcs_0;"<color=#81c3fc>Eurosam</color>
-⛨ Sol-Air Moyenne Portée/Terrestre
-<color=#adadad>(Module Radar et IFF)</color>"
-it_samp_t_fcs_1;⛨ SAMP/T (MRI)
+it_samp_t_fcs_shop;⛨ ACTL SM 88.45 BAD (SAMP/T) (MRI)
+it_samp_t_fcs_0;"<color=#81c3fc>⛨ Astra veicoli industriali Autocarro tattico logistico SM 88.45 BAD <color=@commonTextColor>/</color>
+Eurosam</color>
+<color=#adadad>(Sol-air moyenne portée/terrestre)
+(module radar et IFF)</color>"
+it_samp_t_fcs_1;⛨ ACTL SM 88.45 BAD (SAMP/T) (MRI)
 it_samp_t_fcs_2;Radar
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1

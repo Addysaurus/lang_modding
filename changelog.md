@@ -24,6 +24,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - Updated for the "Guardian of the Baltic Sea" event.
     - **I.Pz.Kpfw. 750 (e)** → **I.-Pz.Kpfw. 750 (e)**. Statcard name → **Vauxhall Motors | Infanterie-Panzerkampfwagen Mk IV | Infanterie-Panzerkampfwagen 750 (e)**.
     - **D.520** → **D.520-C1**. Statcard name → **Société nationale des constructions aéronautiques du Midi | D.520-C1**.
     - Corrected the Israeli nuke killstreak **F-16C-40L-CF** to an **F-16D-40-CF** and added it to the Hebrew package.
@@ -46,6 +47,8 @@ All dates are listed in DD-MM-YYYY format.
     - **TAM / SK105-A2** (folder) → **VC TAM / SK 105**.
     - **AMX 10RC / SK105-A2** (folder) → **AMX 10RC / JaPzK A2**.
     - **EFz-Rad 8x8 / TAM 2C** (folder) → **EFz-Rad 8x8 / VC TAM 2C**.
+    - **Me 210/Me 410** (folder) → **Me 210 A-1 / 410 A-1 / B-2**.
+    - Reworked all the **SAMP/T**s.
 
 ### Weaponry:
 

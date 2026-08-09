@@ -49,6 +49,9 @@ All dates are listed in DD-MM-YYYY format.
     - **EFz-Rad 8x8 / TAM 2C** (folder) → **EFz-Rad 8x8 / VC TAM 2C**.
     - **Me 210/Me 410** (folder) → **Me 210 A-1 / 410 A-1 / B-2**.
     - Reworked all the **SAMP/T**s.
+    - Specified **Amagi** as the 1919 plan and not the final 1921 plan.
+    - Added a manufacturer name to the **93 Shiki**.
+    - Reworked the **Ho Ri**s for the 8000000000th time smh.
 
 ### Weaponry:
 

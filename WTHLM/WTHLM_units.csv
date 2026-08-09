@@ -11792,6 +11792,7 @@ uk_m109a1_2;SPG
 
 uk_g6_spg_shop;GV6 Mk 1
 uk_g6_spg_0;"<color=#81c3fc>Sandock-Austral <color=@commonTextColor>+</color> Lyttelton Engineering Works G6-45</color>
+<color=#ff8c80>Project Sherbett III</color>
 GV6 Mk 1 155 mm Self-Propelled Gun-Howitzer ""Renoster"""
 uk_g6_spg_1;GV6 Mk 1
 uk_g6_spg_2;SPH
@@ -14421,17 +14422,19 @@ jp_pzkpfw_VI_ausf_e_tiger_0;"<color=#81c3fc>Henschel & Sohn</color>
 jp_pzkpfw_VI_ausf_e_tiger_1;▅ Tiger E
 jp_pzkpfw_VI_ausf_e_tiger_2;Heavy Tank
 
-jp_type_5_ho_ri_prototype_shop;Ho Ri
-jp_type_5_ho_ri_prototype_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+jp_type_5_ho_ri_prototype_shop;Ho Ri (mockup)
+jp_type_5_ho_ri_prototype_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Tōkyō Kiki Seisakusho</color>
 <color=#7ce68f>Shisei Shin Hō Sensha (Kō)</color>
-Ho Ri"
+Ho Ri
+<color=#adadad>(mockup)</color>"
 jp_type_5_ho_ri_prototype_1;Ho Ri
 jp_type_5_ho_ri_prototype_2;SPG
 
-jp_type_5_ho_ri_production_shop;Ho Ri (late)
-jp_type_5_ho_ri_production_0;"<color=#7ce68f>Shisei Shin Hō Sensha (Kō)</color>
+jp_type_5_ho_ri_production_shop;Ho Ri (fictional)
+jp_type_5_ho_ri_production_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Tōkyō Kiki Seisakusho</color>
+<color=#7ce68f>Shisei Shin Hō Sensha (Kō)</color>
 Ho Ri
-<color=#adadad>(late)</color>"
+<color=#adadad>(fictional)</color>"
 jp_type_5_ho_ri_production_1;Ho Ri
 jp_type_5_ho_ri_production_2;SPG
 
@@ -14612,7 +14615,7 @@ jp_type_90b_sm_1;◍ 90TK (B)
 jp_type_90b_sm_2;MBT
 
 jp_type_93_shop;93 Shiki
-jp_type_93_0;"<color=#81c3fc>Tōshiba</color>
+jp_type_93_0;"<color=#81c3fc>Toyota Ji Dōsha Kabushikigaisha BXD 10 <color=@commonTextColor>/</color> Tōshiba</color>
 93 Shiki Kinkyorichi Taikū Yūdōdan ""Kurōzudo Arō"""
 jp_type_93_1;93 Shiki
 jp_type_93_2;SPAAM
@@ -15309,7 +15312,8 @@ jp_battleship_fuso_2;Battleship
 jp_battlecruiser_amagi_shop;Amagi
 jp_battlecruiser_amagi_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
 <color=#fffa62>Amagi Gata Junyōsenkan (B-64)</color>
-Amagi"
+Amagi
+<color=#adadad>(1919 plan)</color>"
 jp_battlecruiser_amagi_1;Amagi
 jp_battlecruiser_amagi_2;Battlecruiser
 

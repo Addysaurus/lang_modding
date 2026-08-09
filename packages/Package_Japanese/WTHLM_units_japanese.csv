@@ -1291,17 +1291,19 @@ SUB-I-2
 jp_sub_i_ii_20mm_1;SUB-I-2
 jp_sub_i_ii_20mm_2;SPAAG
 
-jp_type_5_ho_ri_prototype_shop;ホリ
-jp_type_5_ho_ri_prototype_0;"<color=#81c3fc>三菱重工業</color>
+jp_type_5_ho_ri_prototype_shop;ホリ (mockup)
+jp_type_5_ho_ri_prototype_0;"<color=#81c3fc>三菱重工業東京機器製作所</color>
 <color=#7ce68f>試製新砲戦車 (甲)</color>
-ホリ"
-jp_type_5_ho_ri_prototype_1;ナト
+ホリ
+<color=#adadad>(mockup)</color>"
+jp_type_5_ho_ri_prototype_1;ホリ
 jp_type_5_ho_ri_prototype_2;SPG
 
-jp_type_5_ho_ri_production_shop;ホリ (late)
-jp_type_5_ho_ri_production_0;"<color=#7ce68f>試製新砲戦車 (甲)</color>
+jp_type_5_ho_ri_production_shop;ホリ (fictional)
+jp_type_5_ho_ri_production_0;"<color=#81c3fc>三菱重工業東京機器製作所</color>
+<color=#7ce68f>試製新砲戦車 (甲)</color>
 ホリ
-<color=#adadad>(late)</color>"
+<color=#adadad>(fictional)</color>"
 jp_type_5_ho_ri_production_1;ホリ
 jp_type_5_ho_ri_production_2;SPG
 
@@ -1457,7 +1459,7 @@ jp_type_90b_sm_1;◍ 90TK (B)
 jp_type_90b_sm_2;MBT
 
 jp_type_93_shop;93式
-jp_type_93_0;"<color=#81c3fc>東芝</color>
+jp_type_93_0;"<color=#81c3fc>トヨタ自動車株式会社 BXD10 <color=@commonTextColor>/</color> 東芝</color>
 93式近距離地対空誘導弾"
 jp_type_93_1;93式
 jp_type_93_2;SPAAM
@@ -2139,7 +2141,8 @@ jp_battleship_fuso_2;Battleship
 jp_battlecruiser_amagi_shop;天城
 jp_battlecruiser_amagi_0;"<color=#81c3fc>横須賀海軍工廠</color>
 <color=#fffa62>天城型巡洋戦艦 (B-64)</color>
-天城"
+天城
+<color=#adadad>(1919 plan)</color>"
 jp_battlecruiser_amagi_1;天城
 jp_battlecruiser_amagi_2;Battlecruiser
 

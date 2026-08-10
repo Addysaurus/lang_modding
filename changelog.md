@@ -25,6 +25,9 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Updated for the "Guardian of the Baltic Sea" event.
+    - Implemented multiline statcards. This project has been in the works since March and every vehicle has now been moved over to a new statcard format spanning multiple lines. This will make statcards much more readable and consistent, with no more scrolling or stretching.
+    - Implemented the UK tree rework. This is Odican's rework of every single British tree vehicle in the entire game. It has been in the works for nearly a year and has come out to be extremely high quality and one of the best things ever done for this mod.
+    - Implemented the French ground rework. This reworks every single French ground vehicle in the entire game.
     - **I.Pz.Kpfw. 750 (e)** → **I.-Pz.Kpfw. 750 (e)**. Statcard name → **Vauxhall Motors | Infanterie-Panzerkampfwagen Mk IV | Infanterie-Panzerkampfwagen 750 (e)**.
     - **D.520** → **D.520-C1**. Statcard name → **Société nationale des constructions aéronautiques du Midi | D.520-C1**.
     - Corrected the Israeli nuke killstreak **F-16C-40L-CF** to an **F-16D-40-CF** and added it to the Hebrew package.
@@ -42,8 +45,8 @@ All dates are listed in DD-MM-YYYY format.
     - Corrected the manufacturer on the **Jì Mu Xī 10 Lún (M45C)** to **GMC Truck and Coach Division**.
     - Added manufacturers to all **M44**s.
     - Reworked all the **TAM**s.
-    - **SK105-A2** (Germany / Argentina) → **VC SK 105**. Statcard name → **Steyr-Werke Typ 4KH7FA-SK105 | Vehículo de Combate SK 105**.
-    - **SK105-A2** (France / Austria) → **JaPzK A2**. Statcard name → **Steyr-Werke Typ 4KH7FA-SK105 | Jagdpanzer Kürassier A2**.
+    - **SK105-A2** (Germany / Argentina) → **VC SK 105**. Statcard name → **Steyr-Werke Typ 4KH-7FA1-JT1/105 | SK 105 A2 | Vehículo de Combate SK 105**.
+    - **SK105-A2** (France / Austria) → **JaPzKA2**. Statcard name → **Steyr-Werke Typ 4KH-7FA1-JT1/105 | SK 105 A2 | Jagdpanzer Kürassier A2**.
     - **TAM / SK105-A2** (folder) → **VC TAM / SK 105**.
     - **AMX 10RC / SK105-A2** (folder) → **AMX 10RC / JaPzK A2**.
     - **EFz-Rad 8x8 / TAM 2C** (folder) → **EFz-Rad 8x8 / VC TAM 2C**.
@@ -52,6 +55,9 @@ All dates are listed in DD-MM-YYYY format.
     - Specified **Amagi** as the 1919 plan and not the final 1921 plan.
     - Added a manufacturer name to the **93 Shiki**.
     - Reworked the **Ho Ri**s for the 8000000000th time smh.
+    - Reworked the statcard name of the **PLDvK vz. 53/59**.
+    - Reworked all the **LVT**s.
+    - **F6C (Oct, 1976)** → **F6C (Oct 1976)**.
 
 ### Weaponry:
 
@@ -60,25 +66,36 @@ All dates are listed in DD-MM-YYYY format.
     - **Rheinmetall Rh202 | MK 20 DM 6 A1** → **Maschinenkanone 20 mm MK 20 DM 6 A1**.
     - **37 mm SA18 L/21 cannon** → **Canon de 37 mm semi-automatique modèle 1918**.
     - **Canon de 37 mm SA38 L/33** → **Canon de 37 mm semi-automatique modèle 1938**.
+    - **40 mm Mle51 T1 cannon** → **Matériel de 40 mm antiaérien modèle 1951 T1**.
     - **47 mm SA37 cannon** → **Canon de 47 mm semi-automatique modèle 1937**.
     - **Canon de 75mm SA 49** → **Canon de 75 mm semi-automatique modèle 1949**.
     - **Canon de 75mm SA 50 L/57** → **Canon de 75 mm semi-automatique modèle 1950**.
     - **Canon de 90mm SA 45** → **Canon de 90 mm semi-automatique modèle 1945**.
     - **Canon de 90mm SA 47** → **Canon de 90 mm semi-automatique modèle 1947**.
     - **105 mm FMk. 4 Modelo 1L cannon** → **Cañón Cal. 105 mm FMK 4 Modelo 1L**.
+    - **105 mm PzK M57 cannon** → **10,5 cm Panzerkanone M 57**.
     - **SYLVER A50**: Statcard name → **Système de lancement vertical A50**.
 
 ### Modifications:
 
 - #### Changes:
 
-    - Corrected the **AIM-9P-3** modification to **AIM-9P-1** in line with the weapon.
+    - Corrected the **AIM-9P-3** modification to **AIM-9P-1** in line with the weapon ([Report](https://github.com/Addysaurus/lang_modding/issues/177)).
 
 ### Engines:
 
 - #### Changes:
 
     - **DXi 11 Euro 4** → **DXi 11 Euro 5**.
+
+### Loading screens:
+
+- #### Changes:
+
+    - Updated for the "Guardian of the Baltic Sea" event.
+    - Updated a bunch of loading screen names for the UK tree rework, French ground rework, and general vehicle names that were updated but had not had their loading screens updated.
+    - Corrected the missing **FIAT 6616UB** profile header to **Fiat 6616BM (TC 20) (UB-16-57UMP)** like the loading screen.
+    - **Steve Pisanos** (profile picture) → **Steven Nicholas Pisanos**. Also gave the profile picture a full history in its description.
 
 ## 1.18.01 - 24-07-2026
 

@@ -117,6 +117,7 @@ weapons/30mm_73_m44_naval_user_cannon;<color=@userlogColoredText>30 mm</color> 3
 weapons/37mm_gerat_341_user_cannon;<color=@userlogColoredText>37 mm</color> 3,7cm Gerät 341 <color=#ff6f00>ACNN</color>
 weapons/40mm_56_4cm_flak_28_bofors_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 4cm Flugabwehrkanone 28 <color=#ff6f00>ACNN</color>
 weapons/55mm_77_gerat_58_naval_user_cannon;<color=@userlogColoredText>40 mm</color> 5,5cm Gerät 58 <color=#ff6f00>ACNN</color>
+weapons/105mm_PzK_M57_user_cannon;<color=@userlogColoredText>105 mm</color> 10,5 cm Panzerkanone M 57 <color=#ff6f00>CNN</color>
 weapons/105mm_Rh105_30_user_cannon;<color=@userlogColoredText>105 mm</color> Rh105-30 <color=#ff6f00>CNN</color>
 weapons/105mm_FMK4_Modelo_1L_user_cannon;<color=@userlogColoredText>105 mm</color> Cañón Cal. 105 mm FMK 4 Modelo 1L <color=#ff6f00>CNN</color>
 weapons/105mm_FMK4_Modelo_1L_2IP_user_cannon;<color=@userlogColoredText>105 mm</color> Cañón Cal. 105 mm FMK 4 Modelo 1L <color=#ff6f00>CNN</color>
@@ -295,6 +296,7 @@ weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredTe
 weapons/7_62mm_FN_MAG58_user_machinegun;<color=@userlogColoredText>7.62 mm</color> FN MAG 58 <color=#ff6f00>MG</color>
 weapons/37mm_SA_18_user_cannon;<color=@userlogColoredText>37 mm</color> Canon de 37 mm semi-automatique modèle 1918 <color=#ff6f00>CNN</color>
 weapons/37mm_SA_38_user_cannon;<color=@userlogColoredText>37 mm</color> Canon de 37 mm semi-automatique modèle 1938 <color=#ff6f00>CNN</color>
+weapons/40mm_Mle51_t1_user_cannon;<color=@userlogColoredText>40 mm</color> Matériel de 40 mm antiaérien modèle 1951 T1 <color=#ff6f00>ACNN</color>
 weapons/40mm_CTC_user_cannon;<color=@userlogColoredText>40 mm</color> 40 mm Cased Telescoped Cannon <color=#ff6f00>ACNN</color>
 weapons/47mm_SA_37_user_cannon;<color=@userlogColoredText>47 mm</color> Canon de 47 mm semi-automatique modèle 1937 <color=#ff6f00>CNN</color>
 weapons/75mm_SA_49_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75 mm semi-automatique modèle 1949 <color=#ff6f00>CNN</color>
@@ -5609,7 +5611,6 @@ weapons/30mm_Bushmaster_2_Mk_44_NAMER_user_cannon;30 mm Bushmaster 2 Mk. 44 cann
 weapons/30mm_Bushmaster_2_Mk_44_MCT30_user_cannon;30 mm Bushmaster 2 Mk. 44 cannon
 weapons/30mm_Bushmaster_2_Mk_44_VILKAS_user_cannon;30 mm Bushmaster 2 Mk. 44 cannon
 weapons/35mm_bushmaster_3_user_cannon;35 mm Bushmaster 3 cannon
-weapons/105mm_PzK_M57_user_cannon;105 mm PzK M57 cannon
 weapons/127mm_ZT_3_launcher_user_cannon;ZT3
 127mm_swift;ZT3A1
 127mm_ingwe;ZT3A2
@@ -5822,7 +5823,6 @@ weapons/40mm_l60_bofors_mk3_single_naval_user_cannon;40 mm Bofors L/60 Mark 3 gu
 weapons/40mm_qf_bofors_mk7_single_naval_user_cannon;40 mm QF Mark VII gun
 weapons/40mm_qf_bofors_mk5_twin_naval_user_cannon;40 mm QF Mark V gun
 weapons/40mm_qf_bofors_staag_mk2_twin_naval_user_cannon;40 mm QF STAAG Mark II gun
-weapons/40mm_Mle51_t1_user_cannon;40 mm Mle51 T1 cannon
 weapons/81mm_mk_2_mortar_naval_user_cannon;81 mm Mk. 2 mortar
 weapons/81mm_mk_2_mortar_naval_user_cannon/short;Mk. 2 mortar
 weapons/40mm_l70_bofors_mel58_naval_user_cannon;40 mm/70 MEL58 mounting

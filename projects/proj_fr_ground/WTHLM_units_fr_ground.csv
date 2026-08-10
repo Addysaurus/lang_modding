@@ -2,14 +2,14 @@
 //GROUPS
 shop/group/fr_hotchkiss_fcm_group;A.M.C. 34 / H. 35 / F.C.M. 36
 shop/group/fr_mars_hot_group;MARS 15 / A.M.X. 13t-75 (HOT)
-shop/group/fr_amx_sk_group;A.M.X. 10 RC / JaPzK A2
+shop/group/fr_amx_sk_group;A.M.X. 10 RC / JaPzKA2
 shop/group/fr_lorraine_bat_group;Lorraine 40t / B.C. 25t
 shop/group/fr_amx_30_group;A.M.X. 30 B2 / B2 BRENUS
 shop/group/fr_leclerc_group;Leclerc S1 / S2
 shop/group/fr_b1_2c_group;B. 1 bis / 2 C
 shop/group/fr_arl_jumbo_group;C.D.C. 48t / ☨ M4A3E2
 shop/group/fr_m44_55_group;▄ M44 / 55
-shop/group/fr_auf_acra_group;AMX 30 Au F1 / 10M
+shop/group/fr_auf_acra_group;CN 155 Au F1 / A.M.X. 10M
 shop/group/fr_amx_32_group;AMX 32 (P1) / (P2)
 shop/group/fr_lorraine_elc_group;C.A. 100 / E.L.C. bis
 shop/group/fr_foch_acra_group;C.A. 120 / A.M.X. 10 M
@@ -203,10 +203,10 @@ Truck, 2½ Ton, 6x6, GMC CCKW 353
 fr_cckw_353_bofors_1;CCKW 353 (M1)
 fr_cckw_353_bofors_2;SPAAG
 
-fr_amx_vtt_dca_shop;V.T.T. mle. 56 (M45)
+fr_amx_vtt_dca_shop;V.T.T. mle. 56 (M 45)
 fr_amx_vtt_dca_0;"<color=#81c3fc>Atelier de construction de Roanne</color>
-Véhicule de transport de troupe modèle 1956 avec tourelle M45"
-fr_amx_vtt_dca_1;V.T.T. (M45)
+Véhicule de transport de troupe modèle 1956 avec affût tourelle M 45"
+fr_amx_vtt_dca_1;V.T.T. (M 45)
 fr_amx_vtt_dca_2;SPAAG
 
 fr_m10_shop;☨ M10
@@ -262,7 +262,7 @@ fr_amx_13_hot_2;Light Tank
 fr_lvt_bofors_shop;LVT (4) (Bofors)
 fr_lvt_bofors_0;"<color=#81c3fc>Food Machinery Corporation</color>
 Landing Vehicle, Tracked (Unrmored), Mk. IV
-<color=#adadad>(Canon de 40 L 70 Bofors)</color>"
+<color=#adadad>(Canon de 40 L 60 Bofors)</color>"
 fr_lvt_bofors_1;LVT (4) (Bofors)
 fr_lvt_bofors_2;Light Tank
 
@@ -279,10 +279,10 @@ Engin blindé de reconnaissance de 75 modèle 1954 avec tourelle F.L. 10"
 fr_panhard_ebr_1954_1;E.B.R. 75 mle. 54
 fr_panhard_ebr_1954_2;Light Tank
 
-fr_panhard_ebr_1963_shop;E.B.R. 75 mle. 63
+fr_panhard_ebr_1963_shop;E.B.R. 90 mle. 63
 fr_panhard_ebr_1963_0;"<color=#81c3fc>Panhard type 212</color>
-Engin blindé de reconnaissance de 75 modèle 1963 avec tourelle F.L. 11"
-fr_panhard_ebr_1963_1;E.B.R. 75 mle. 63
+Engin blindé de reconnaissance de 90 modèle 1963 avec tourelle F.L. 11"
+fr_panhard_ebr_1963_1;E.B.R. 90 mle. 63
 fr_panhard_ebr_1963_2;Light Tank
 
 fr_arl_44_acl1_shop;A.R.L. 44 (A.C.L. 1)
@@ -522,10 +522,10 @@ fr_mars_15_0;"<color=#81c3fc>Creusot-Loire Industrie MARS 15</color>
 fr_mars_15_1;MARS 15
 fr_mars_15_2;Light Tank
 
-fr_sk105_a2_shop;JaPzK A2
-fr_sk105_a2_0;"<color=#81c3fc>Steyr-Werke Typ 4KH7FA-SK105</color>
+fr_sk105_a2_shop;JaPzKA2
+fr_sk105_a2_0;"<color=#81c3fc>Steyr-Werke Typ 4KH-7FA1-JT1/105 <color=@commonTextColor>|</color> SK 105 A2</color>
 Jagdpanzer Kürassier A2"
-fr_sk105_a2_1;JaPzK A2
+fr_sk105_a2_1;JaPzKA2
 fr_sk105_a2_2;Tank Destroyer
 
 fr_vbci_shop;VBCI VCI

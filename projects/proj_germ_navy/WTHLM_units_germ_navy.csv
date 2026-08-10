@@ -11,22 +11,94 @@ Vehicle name
 <color=@currencyGoldColor>Unit/Ace</color>
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+germ_s30_s61_shop;S 61
+germ_s30_s61_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12854</color>
+<color=#fffa62>Schnellboot (S 54-61)</color>
+S 61"
+germ_s30_s61_1;S 61
+germ_s30_s61_2;Fast Boat
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+germ_rdm242_shop;Krischan der Große
+germ_rdm242_0;"<color=#81c3fc>Rotterdamsche Droogdok Mij, Bau-Nr. 242</color>
+<color=#fffa62>Flakträger</color>
+Krischan der Große
+<color=#adadad>(1943)</color>"
+germ_rdm242_1;Krischan der Große
+germ_rdm242_2;Anti-Aircraft Gun Carrier
+
+germ_schutze_class_shop;Schütze (M 1062)
+germ_schutze_class_0;"<color=#81c3fc>Abeking & Rasmussen</color>
+<color=#fffa62>schnelles Minensuchboot Schütze-Klasse <color=@commonTextColor>|</color> Typ 340</color>
+Schütze (M 1062)"
+germ_schutze_class_1;Schütze (M 1062)
+germ_schutze_class_2;Minesweeper
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+germ_kanonenboot_k4_lorelei_shop;K 4
+germ_kanonenboot_k4_lorelei_0;"<color=#81c3fc>Société Anonyme John Cockerill à Seraing (Belgique), Chantier Naval de
+Hoboken <color=@commonTextColor>/</color> N.V. Dok en Werf Maatschappij Wilton-Fijenoord, Bau-Nr. 686</color>
+<color=#fffa62>Kanonenboot</color>
+<color=#919191>Lorelei</color>
+K 4
+<color=#adadad>(1943)</color>"
+germ_kanonenboot_k4_lorelei_1;K 4
+germ_kanonenboot_k4_lorelei_2;Gunboat
 
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
+germ_destroyer_fletcher_zerstorer4_0;"<color=#81c3fc>Consolidated Steel Corporation</color>
+<color=#fffa62>Zerstörer 1-Klasse <color=@commonTextColor>|</color> Typ 119</color>
+Z 4 (D 178)"
+germ_destroyer_fletcher_zerstorer4_1;Z 4
+germ_destroyer_fletcher_zerstorer4_2;Destroyer
 
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
+germ_destroyer_class1942_z51_shop;Z 51
+germ_destroyer_class1942_z51_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau A.G. ""Weser""</color>
+<color=#fffa62>Zerstörer Typ 1942</color>
+Z 51"
+germ_destroyer_class1942_z51_1;Z 51
+germ_destroyer_class1942_z51_2;Destroyer
+
+germ_destroyer_class1944_z52_shop;Z 52
+germ_destroyer_class1944_z52_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau A.G. ""Weser""</color>
+<color=#fffa62>Zerstörer Typ 1944</color>
+Z 52"
+germ_destroyer_class1944_z52_1;Z 52
+germ_destroyer_class1944_z52_2;Destroyer
 
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
+germ_destroyer_lutjens_class_lutjens_shop;Lütjens (D 185)
+germ_destroyer_lutjens_class_lutjens_0;"<color=#81c3fc>Bath Iron Works</color>
+<color=#fffa62>Zerstörer Lütjens-Klasse <color=@commonTextColor>|</color> Typ 103</color>
+Lütjens (D 185)"
+germ_destroyer_lutjens_class_lutjens_1;Lütjens
+germ_destroyer_lutjens_class_lutjens_2;Destroyer
+
+germ_cruiser_admiral_graf_spee_shop;Admiral Graf Spee
+germ_cruiser_admiral_graf_spee_0;"<color=#81c3fc>Kriegsmarinewerft Wilhelmshaven, Bau-Nr. 125 <color=@commonTextColor>/</color> Deutsche Werke Kiel</color>
+<color=#fffa62>Panzerschiff Deutschland-Klasse</color>
+<color=#919191>Panzerschiff C <color=@commonTextColor>|</color> Ersatz Braunschweig</color>
+Admiral Graf Spee
+<color=#adadad>(1938)</color>"
+germ_cruiser_admiral_graf_spee_1;Admiral Graf Spee
+germ_cruiser_admiral_graf_spee_2;Armored Ship
+
+germ_cruiser_admiral_scheer_shop;Admiral Scheer
+germ_cruiser_admiral_scheer_0;"<color=#81c3fc>Reichsmarinewerft Wilhelmshaven, Bau-Nr. 123 <color=@commonTextColor>/</color> Marinehafen Kaseburg</color>
+<color=#fffa62>Panzerschiff Deutschland-Klasse</color>
+<color=#919191>Panzerschiff B <color=@commonTextColor>|</color> Ersatz Lothringen</color>
+Admiral Scheer
+<color=#adadad>(1943)</color>"
+germ_cruiser_admiral_scheer_1;Admiral Scheer
+germ_cruiser_admiral_scheer_2;Armored Ship
 
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 germ_battleship_konig_shop;S.M.S. König

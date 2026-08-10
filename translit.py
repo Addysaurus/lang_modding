@@ -9,7 +9,7 @@ def translit_russian(text):
         'Д' : 'D',
         'Е' : ['Ye', "'E"],
         'Ё' : ['Yo', "'O"],
-        'Ж' : 'Ž',
+        'Ж' : 'Zh',
         'З' : 'Z',
         'И' : ['I', "'I"],
         'Й' : 'J',
@@ -110,7 +110,8 @@ def translit_russian(text):
         for m in re.finditer(r'[БВГДЖЗбвгджз]\b', text):
             i = m.start()
             c = chars[i]
-            chars[i] = preserve_case(c, devoice_pair[c.upper()])
+            if chars[i - 1].isalpha():
+                chars[i] = preserve_case(c, devoice_pair[c.upper()])
         return ''.join(chars)
 
     def apply_russian_voicing(text):
@@ -130,7 +131,7 @@ def translit_russian(text):
                 continue
 
             if i.upper() in {'Е', 'Ё', 'И', 'Ю', 'Я'}:
-                if re.search(r'[БВГДЗПФКТСХЧбвгдзпфктсхч]', modified_voicing[idx - 1]):
+                if idx != 0 and re.search(r'[БВГДЗПФКТСХЧбвгдзпфктсхч]', modified_voicing[idx - 1]):
                     if i.isupper():
                         final_translit.append(translit_dict[i.upper()][1].upper())
                     else:
@@ -170,7 +171,7 @@ def translit_ukrainian(text):
         'Д' : 'D',
         'Е' : 'E',
         'Є' : ['Ye', "'E"],
-        'Ж' : 'Ž',
+        'Ж' : 'Zh',
         'З' : 'Z',
         'И' : 'Y',
         'Й' : 'J',

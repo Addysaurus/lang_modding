@@ -1376,8 +1376,8 @@ shop/group/germ_m44_55_group;◄ PzH M 44 / 55
 shop/group/germ_waffentrager_group;Nashorn / Waffenträger
 shop/group/germ_marder_bmp_group;Marder 1 A1 (-) / BMP-1P
 shop/group/germ_marder_group;Marder 1 A3 / ◄ DF 105
-shop/group/germ_tam_sk_group;TAM / ⛯ SK105-A2
-shop/group/germ_radpanzer_tam_group;EFz-Rad 8x8 / TAM 2C
+shop/group/germ_tam_sk_group;VC TAM / ⛯ SK 105
+shop/group/germ_radpanzer_tam_group;EFz-Rad 8x8 / VC TAM 2C
 shop/group/germ_leopard_1_late_group;Leopard 1 A1 A1 / 1 A5
 shop/group/germ_prewar_pz_III_group;Pz.Kpfw. III E / B
 shop/group/germ_Marder_III_group;Marder III / III H
@@ -1413,6 +1413,7 @@ shop/group/he-111h_group;He 111 H-6 / 16
 shop/group/he_111_bv_138_group;He 115 / BV 138
 shop/group/bf_110cf_group;Bf 110 C / F
 shop/group/bf_110g_group;Bf 110 G-2 / 4
+shop/group/me_210_410_group;Me 210 A-1 / 410 A-1 / B-2
 shop/group/ju-88a_group;Ju 88 A-1 / 4
 shop/group/do_217k_group;Do 217 K / M
 shop/group/me-410a-1_group;Me 410 A-1/U4 / B-2/U4
@@ -1651,7 +1652,7 @@ shop/group/it_m13_40_group;M. 40 I / III
 shop/group/it_of_leo_group;OF 40 Mk. 1 / ⛨ Leopard 1 A2
 shop/group/it_dardo_group;VCC-80 Dardo / Dardo (HITFIST 30)
 shop/group/it_9a33_35_group;╏ 9A33BM3 / ◔ 35M
-shop/group/it_samp_t_fcs_group;⛨ SAMP/T (MRI) / (MLT)
+shop/group/it_samp_t_fcs_group;⛨ SAMP/T
 shop/group/sm_79_1941_group;S.M.79 AS / bis/T.M. / S. 79 B
 shop/group/cr_32_group;CR.32 / 32quarter
 shop/group/ba_65_group;Ba. 65 (K-14fc) (L) / ⛨ Ju 87 R-2
@@ -1671,21 +1672,21 @@ shop/group/fiat_g91_group;G.91 pre-serie / R/1
 shop/group/fiat_g91y_group;G.91 Y / YS
 shop/group/tornado_ids_it_group;A-200A (1995) / C (RET8)
 
-shop/group/fr_hotchkiss_fcm_group;AMC 34 / H 35 / FCM 36
-shop/group/fr_mars_hot_group;MARS 15 / AMX 13 (HOT)
-shop/group/fr_amx_sk_group;AMX 10RC / SK105-A2
-shop/group/fr_lorraine_bat_group;Lorraine 40t / Char 25t
-shop/group/fr_amx_30_group;AMX 30B2 / B2 BRENUS
+shop/group/fr_hotchkiss_fcm_group;A.M.C. 34 / H. 35 / F.C.M. 36
+shop/group/fr_mars_hot_group;MARS 15 / A.M.X. 13t-75 (HOT)
+shop/group/fr_amx_sk_group;A.M.X. 10 RC / JaPzKA2
+shop/group/fr_lorraine_bat_group;Lorraine 40t / B.C. 25t
+shop/group/fr_amx_30_group;A.M.X. 30 B2 / B2 BRENUS
 shop/group/fr_leclerc_group;Leclerc S1 / S2
-shop/group/fr_b1_2c_group;B1 bis / 2C
-shop/group/fr_arl_jumbo_group;ARL 44 / ☨ M4A3E2
+shop/group/fr_b1_2c_group;B. 1 bis / 2 C
+shop/group/fr_arl_jumbo_group;C.D.C. 48t / ☨ M4A3E2
 shop/group/fr_m44_55_group;▄ M44 / 55
-shop/group/fr_auf_acra_group;AMX 30 Au F1 / 10M
-shop/group/fr_amx_32_group;AMX 32 P1 / 2
-shop/group/fr_lorraine_elc_group;CA Lorraine / ELC bis
-shop/group/fr_foch_acra_group;AMX 50 Foch / 10M
-shop/group/fr_aml_amx_group;AML 90 / AMX 13-90
-shop/group/fr_samp_t_fcs_group;☨ SAMP/T (MRI) / (MLT)
+shop/group/fr_auf_acra_group;CN 155 Au F1 / A.M.X. 10M
+shop/group/fr_amx_32_group;AMX 32 (P1) / (P2)
+shop/group/fr_lorraine_elc_group;C.A. 100 / E.L.C. bis
+shop/group/fr_foch_acra_group;C.A. 120 / A.M.X. 10 M
+shop/group/fr_aml_amx_group;A.M.L. 90 / A.M.X. 13t-90
+shop/group/fr_samp_t_fcs_group;☨ SAMP/T Mamba
 shop/group/d_371_group;D.371 / 373
 shop/group/d_500_group;D.500 / 501
 shop/group/ms_405_406_group;M.S.405 / 406
@@ -3675,27 +3676,30 @@ Tank, Light, M3A1 Stuart
 us_m3a1_stuart_usmc_1;M3A1
 us_m3a1_stuart_usmc_2;Light Tank
 
-us_lvt_a_1_shop;LVT(A)(1)
-us_lvt_a_1_0;Landing Vehicle, Tracked (Armored) (Mk. 1)
-us_lvt_a_1_1;LVT(A)(1)
-us_lvt_a_1_2;Light Tank
+us_lvt_a_1_shop;LVT (A) (1)
+us_lvt_a_1_0;"<color=#81c3fc>Food Machinery Corporation</color>
+Landing Vehicle, Tracked (Armored), Mk. I"
+us_lvt_a_1_1;LVT (A) (1)
+us_lvt_a_1_2;Landing Vehicle
 
-us_lvt_a_4_shop;LVT(A)(4)
-us_lvt_a_4_0;Landing Vehicle, Tracked (Armored) (Mk. 4)
-us_lvt_a_4_1;LVT(A)(4)
-us_lvt_a_4_2;Light Tank
+us_lvt_a_4_shop;LVT (A) (4)
+us_lvt_a_4_0;"<color=#81c3fc>Food Machinery Corporation</color>
+Landing Vehicle, Tracked (Armored), Mk. IV"
+us_lvt_a_4_1;LVT (A) (4)
+us_lvt_a_4_2;Landing Vehicle
 
-us_lvt_a_1_trb_shop;○ LVT(A)(1)
-us_lvt_a_1_trb_0;○ Landing Vehicle, Tracked (Armored) (Mk. 1)
-us_lvt_a_1_trb_1;○ LVT(A)(1)
-us_lvt_a_1_trb_2;Light Tank
+us_lvt_a_1_trb_shop;○ LVT (A) (1)
+us_lvt_a_1_trb_0;"<color=#81c3fc>Food Machinery Corporation</color>
+○ Landing Vehicle, Tracked (Armored), Mk. I"
+us_lvt_a_1_trb_1;○ LVT (A) (1)
+us_lvt_a_1_trb_2;Landing Vehicle
 
-us_lvt_a1_m24_shop;LVT(A)(1) (M6)
+us_lvt_a1_m24_shop;LVT (A) (1) (M6)
 us_lvt_a1_m24_0;"<color=#81c3fc>Food Machinery Corporation</color>
-Landing Vehicle, Tracked (Armored) (Mk. 1)
+Landing Vehicle, Tracked (Armored), Mk. I
 <color=#adadad>(Gun, 75mm, M6)</color>"
-us_lvt_a1_m24_1;LVT(A)(1) (M6)
-us_lvt_a1_m24_2;Light Tank
+us_lvt_a1_m24_1;LVT (A) (1) (M6)
+us_lvt_a1_m24_2;Landing Vehicle
 
 us_lvt_4_zis_2_shop;▃␗ LVT (ZiS-2)
 us_lvt_4_zis_2_0;"<color=#81c3fc>Food Machinery Corporation</color>
@@ -4006,135 +4010,8 @@ us_m42_duster_1;M42
 us_m42_duster_2;SPAA
 
 us_m44_shop;M44
-us_m44_0;"<color=#5cae63>G-279</color>
-Howitzer, Self-Propelled, Full Tracked: 155mm, M44"
-us_m44_1;M44
-us_m44_2;SPH
-
-us_m55_shop;M55
-us_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
-<color=#5cae63>G-261</color>
-Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55"
-us_m55_1;M55
-us_m55_2;SPH
-
-us_m36_shop;M36 GMC
-us_m36_0;"<color=#5cae63>G-210</color>
-Carriage, Motor, 90mm Gun, M36 ""Jackson"""
-us_m36_1;M36
-us_m36_2;Tank Destroyer
-
-us_m36b2_shop;M36B2 GMC
-us_m36b2_0;"<color=#5cae63>G-237</color>
-Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
-us_m36b2_1;M36B2
-us_m36b2_2;Tank Destroyer
-
-us_t14_shop;T14
-us_t14_0;"Tank, Assault, T14"
-us_t14_1;T14
-us_t14_2;Assault Tank
-
-us_skink_aa_kit_3rank_shop;"▃ Skink ""Hell on Wheels"""
-us_skink_aa_kit_3rank_0;"<color=#81c3fc>Canadian Ministry of Munitions and Supply, Army Engineering Design
-Branch <color=@commonTextColor>+</color> Waterloo Manufacturing Company</color>
-▃ Tank, Anti-Aircraft, 20mm, Quad, Skink
-<color=@currencyGoldColor>""Hell on Wheels""</color>"
-us_skink_aa_kit_3rank_1;▃ Skink
-us_skink_aa_kit_3rank_2;SPAA
-
-us_skink_aa_shop;▃ Skink
-us_skink_aa_0;"<color=#81c3fc>Canadian Ministry of Munitions and Supply, Army Engineering Design
-Branch <color=@commonTextColor>+</color> Waterloo Manufacturing Company</color>
-▃ Tank, Anti-Aircraft, 20mm, Quad, Skink"
-us_skink_aa_1;▃ Skink
-us_skink_aa_2;SPAA
-
-us_t55e1_shop;T55E1 GMC
-us_t55e1_0;"Carriage, Motor, 3-inch Gun, T55E1"
-us_t55e1_1;T55E1 GMC
-us_t55e1_2;SPG
-
-us_t86_shop;T86 GMC (early)
-us_t86_0;"<color=#81c3fc>Marmon-Herrington Company</color>
-Carriage, Motor, Amphibious, 76mm Gun, T86
-<color=#adadad>(early)</color>"
-us_t86_1;T86 GMC
-us_t86_2;Medium Tank
-
-//USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
-us_m18_hellcat_shop;M18 GMC
-us_m18_hellcat_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
-<color=#5cae63>G-163</color>
-Carriage, Motor, 76mm Gun, M18 ""Hellcat"""
-us_m18_hellcat_1;M18 GMC
-us_m18_hellcat_2;Light Tank
-
-us_m18_hellcat_kit_3rank_shop;"M18 GMC ""Hell on Wheels"""
-us_m18_hellcat_kit_3rank_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
-<color=#5cae63>G-163</color>
-Carriage, Motor, 76mm Gun, M18 ""Hellcat""
-<color=@currencyGoldColor>""Hell on Wheels""</color>"
-us_m18_hellcat_kit_3rank_1;M18 GMC
-us_m18_hellcat_kit_3rank_2;Medium Tank
-
-us_m18_hellcat_black_cat_shop;M18 GMC (805th TD.Bat.)
-us_m18_hellcat_black_cat_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
-<color=#5cae63>G-163</color>
-Carriage, Motor, 76mm Gun, M18 ""Hellcat""
-<color=@currencyGoldColor>805th Tank Destroyer Battalion, ""Black Cat""</color>"
-us_m18_hellcat_black_cat_1;M18
-us_m18_hellcat_black_cat_2;Light Tank
-
-us_m18_super_hellcat_shop;M18 GMC (M3)
-us_m18_super_hellcat_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
-<color=#5cae63>G-163</color>
-Carriage, Motor, 90mm Gun, M18 ""Super Hellcat"""
-us_m18_super_hellcat_1;M18 GMC
-us_m18_super_hellcat_2;Light Tank
-
-us_m18_hellcat_black_cat_race_shop;"""Racing"" M18"
-us_m18_hellcat_black_cat_race_0;"""Racing"" M18"
-us_m18_hellcat_black_cat_race_1;"""Racing"" M18"
-us_m18_hellcat_black_cat_race_2;Light Tank
-
-us_m6a1_shop;M6A1
-us_m6a1_0;"<color=#5cae63>G-118</color>
-Tank, Heavy, M6A1"
-us_m6a1_1;M6A1
-us_m6a1_2;Heavy Tank
-
-us_m6a2e1_shop;M6A2E1-1
-us_m6a2e1_0;"<color=#5cae63>G-118</color>
-Tank, Heavy, M6A2E1-1"
-us_m6a2e1_1;M6A2E1
-us_m6a2e1_2;Heavy Tank
-
-us_t1e1_shop;T1E1
-us_t1e1_0;"Tank, Heavy, T1E1"
-us_t1e1_1;T1E1
-us_t1e1_2;Heavy Tank
-
-us_t1e1_90_shop;T1E1 (T7)
-us_t1e1_90_0;"Tank, Heavy, T1E1
-<color=#adadad>(Gun, 90mm, T7)</color>"
-us_t1e1_90_1;T1E1
-us_t1e1_90_2;Heavy Tank
-
-us_m19_shop;M19A1
-us_m19_0;"<color=#5cae63>G-248</color>
-Carriage, Motor, Twin 40mm Gun, M19A1"
-us_m19_1;M19A1
-us_m19_2;SPAA
-
-us_m42_duster_shop;M42
-us_m42_duster_0;"<color=#5cae63>G-253</color>
-Gun, Self-Propelled, Full Tracked: Twin 40mm, M42 ""Duster"""
-us_m42_duster_1;M42
-us_m42_duster_2;SPAA
-
-us_m44_shop;M44
-us_m44_0;"<color=#5cae63>G-279</color>
+us_m44_0;"<color=#81c3fc>Massey-Harris</color>
+<color=#5cae63>G-279</color>
 Howitzer, Self-Propelled, Full Tracked: 155mm, M44"
 us_m44_1;M44
 us_m44_2;SPH
@@ -6976,6 +6853,12 @@ Ostwind II
 germ_flakpanzer_IV_Ostwind_2_net_1;Ostwind II
 germ_flakpanzer_IV_Ostwind_2_net_2;SPAAG
 
+germ_m44_shop;◄ PzH M 44
+germ_m44_0;"<color=#81c3fc>Massey-Harris</color>
+◄ Panzerhaubitze M 44"
+germ_m44_1;◄ PzH M 44
+germ_m44_2;SPH
+
 germ_m55_shop;◄ PzH M 55
 germ_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
 ◄ Panzerhaubitze M 55"
@@ -7135,6 +7018,30 @@ germ_marder_clovis_1;◄ CLOVIS
 germ_marder_clovis_2;Light Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+germ_sk105_a2_shop;⛯ VC SK 105
+germ_sk105_a2_0;"<color=#81c3fc>Steyr-Werke Typ 4KH-7FA1-JT1/105 <color=@commonTextColor>|</color> SK 105 A2</color>
+⛯ Vehículo de Combate SK 105"
+germ_sk105_a2_1;⛯ VC SK 105
+germ_sk105_a2_2;Light Tank
+
+germ_thyssen_henschel_tam_shop;VC TAM
+germ_thyssen_henschel_tam_0;"<color=#81c3fc>Tanque Argentino Mediano Sociedad del Estado</color>
+Vehículo de Combate Tanque Argentino Mediano"
+germ_thyssen_henschel_tam_1;VC TAM
+germ_thyssen_henschel_tam_2;Medium Tank
+
+germ_thyssen_henschel_tam_2ip_shop;VC TAM 2IP
+germ_thyssen_henschel_tam_2ip_0;"<color=#81c3fc>Tanque Argentino Mediano Sociedad del Estado <color=@commonTextColor>/</color> IMI Systems</color>
+Vehículo de Combate Tanque Argentino Mediano 2 Improved Protection"
+germ_thyssen_henschel_tam_2ip_1;VC TAM 2IP
+germ_thyssen_henschel_tam_2ip_2;Medium Tank
+
+germ_thyssen_henschel_tam_2c_shop;VC TAM 2C
+germ_thyssen_henschel_tam_2c_0;"<color=#81c3fc>Tanque Argentino Mediano Sociedad del Estado <color=@commonTextColor>/</color> Elbit Systems</color>
+Vehículo de Combate Tanque Argentino Mediano 2C"
+germ_thyssen_henschel_tam_2c_1;VC TAM 2C
+germ_thyssen_henschel_tam_2c_2;Medium Tank
+
 germ_begleitpanzer_57_shop;Begleit-Pz 57 mm
 germ_begleitpanzer_57_0;<color=#81c3fc>Thyssen Henschel <color=@commonTextColor>+</color> Bofors Begleitpanzer 57 mm</color>
 germ_begleitpanzer_57_1;Begleit-Pz 57 mm
@@ -8224,12 +8131,12 @@ il-10_1946_0;"Il-10
 il-10_1946_1;Il-10
 il-10_1946_2;Il-10
 
-spitfire_ix_ussr_shop;▂ Spitfire L.F. Mk. IX
+spitfire_ix_ussr_shop;▂ Sp'itfajr L.F. Mk. IX
 spitfire_ix_ussr_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 361 <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
 Aircraft Factory</color>
-▃ Spitfire L.F. Mk. IX"
-spitfire_ix_ussr_1;▂ Spitfire L.F. Mk. IX
-spitfire_ix_ussr_2;▂ Spitfire
+▃ Samolyot Sp'itfajr L.F. Mk. IX"
+spitfire_ix_ussr_1;▂ Sp'itfajr L.F. Mk. IX
+spitfire_ix_ussr_2;▂ Sp'itfajr
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 yak-15_early_shop;Âk-15 (1946)
@@ -9217,6 +9124,12 @@ BTR-ZD"
 ussr_btr_zd_1;BTR-ZD
 ussr_btr_zd_2;SPAA
 
+ussr_m53_59_shop;PLDvK vz. 53/59
+ussr_m53_59_0;"<color=#81c3fc>Praga V3S <color=@commonTextColor>/</color> Závody K. J. Vorošilova</color>
+30mm protiletadlový dvojkanón vz. 53/59 „Ještěrka“"
+ussr_m53_59_1;PLDvK vz. 53/59
+ussr_m53_59_2;SPAAG
+
 ussr_type_62_shop;▂ ZTQ62
 ussr_type_62_0;"<color=#81c3fc>Hā'ěrbīn Dì Yī Jīxiè Jítuán</color>
 <color=#5cae63>WZ131</color>
@@ -10200,6 +10113,15 @@ Marat
 ussr_battleship_marat_1;Marat
 ussr_battleship_marat_2;Battleship
 
+ussr_battleship_oktyabrskaya_revolutsiya_shop;Okt'abr'skaya ryevolyutsiya
+ussr_battleship_oktyabrskaya_revolutsiya_0;"<color=#81c3fc>Admiralt'ejsk'iye v'erf'i <color=@commonTextColor>/</color> Sudostroit'el'nyj zavot № 189 im. S. Ordzhonik'idz'e</color>
+<color=#fffa62>Linyejnyj korabl' t'ip S'evastopol'</color>
+<color=#919191>Gangut</color>
+Okt'abr'skaya ryevolyutsiya
+<color=#adadad>(1944)</color>"
+ussr_battleship_oktyabrskaya_revolutsiya_1;Okt'abr'skaya ryevolyutsiya
+ussr_battleship_oktyabrskaya_revolutsiya_2;Battleship
+
 ussr_battleship_imperatritsa_mariya_shop;Impyeratricza Mariâ
 ussr_battleship_imperatritsa_mariya_0;"<color=#fffa62>Impyeratricza Mariâ-class</color>
 Impyeratricza Mariâ
@@ -10381,6 +10303,18 @@ Catalina Mk. IIIa"
 pby-5a_raf_1;Catalina Mk. III
 pby-5a_raf_2;Catalina
 
+walrus_mk1_shop;Walrus Mk. I
+walrus_mk1_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 236</color>
+Walrus Mk. I"
+walrus_mk1_1;Walrus Mk. I
+walrus_mk1_2;Walrus
+
+osprey_mk4_shop;Osprey Mk. IV
+osprey_mk4_0;"<color=#81c3fc>Hawker Aircraft</color>
+Osprey Mk. IV"
+osprey_mk4_1;Osprey Mk. IV
+osprey_mk4_2;Osprey
+
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 hurricanemkii_shop;Hurricane Mk. IIb (trop.)
 hurricanemkii_0;"<color=#81c3fc>Hawker Aircraft</color>
@@ -10435,10 +10369,10 @@ Typhoon F. Mk. Ia"
 typhoon_mk1a_1;Typhoon F. Mk. I
 typhoon_mk1a_2;Typhoon
 
-typhoon_mk1b_late_shop;Typhoon F.B. Mk. Ib (Mar, 1943)
+typhoon_mk1b_late_shop;Typhoon F.B. Mk. Ib (Mar 1943)
 typhoon_mk1b_late_0;"<color=#81c3fc>Hawker Aircraft</color>
 Typhoon F.B. Mk. Ib
-<color=#adadad>(March, 1943)</color>"
+<color=#adadad>(March 1943)</color>"
 typhoon_mk1b_late_1;Typhoon F.B. Mk. I
 typhoon_mk1b_late_2;Typhoon
 
@@ -11879,6 +11813,7 @@ uk_m109a1_2;SPG
 
 uk_g6_spg_shop;GV6 Mk 1
 uk_g6_spg_0;"<color=#81c3fc>Sandock-Austral <color=@commonTextColor>+</color> Lyttelton Engineering Works G6-45</color>
+<color=#ff8c80>Project Sherbett III</color>
 GV6 Mk 1 155 mm Self-Propelled Gun-Howitzer ""Renoster"""
 uk_g6_spg_1;GV6 Mk 1
 uk_g6_spg_2;SPH
@@ -14380,7 +14315,7 @@ jp_type_4_chi_to_shop;Chi To (2 Gō)
 jp_type_4_chi_to_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 <color=#7ce68f>Shisei Chū Sensha (Kō)</color>
 Chi To
-<color=#adadad>(Shisei 2 Gōsha)</color>"
+<color=@currencyGoldColor>Shisei 2 Gōsha</color>"
 jp_type_4_chi_to_1;Chi To
 jp_type_4_chi_to_2;Medium Tank
 
@@ -14493,10 +14428,10 @@ jp_type_75_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō <color=@commonTextColor>+</c
 jp_type_75_1;75HSP
 jp_type_75_2;SPH
 
-jp_sub_i_ii_20mm_shop;SUB-I-2 (MK 20 DM 6 A1)
+jp_sub_i_ii_20mm_shop;SUB-I-2 (MK20 Rh202)
 jp_sub_i_ii_20mm_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 SUB-I-2
-<color=#adadad>(MK 20 DM 6 A1)</color>"
+<color=#adadad>(20 mm Automatic Cannon MK20 Rh202)</color>"
 jp_sub_i_ii_20mm_1;SUB-I-2
 jp_sub_i_ii_20mm_2;SPAAG
 
@@ -14508,17 +14443,19 @@ jp_pzkpfw_VI_ausf_e_tiger_0;"<color=#81c3fc>Henschel & Sohn</color>
 jp_pzkpfw_VI_ausf_e_tiger_1;▅ Tiger E
 jp_pzkpfw_VI_ausf_e_tiger_2;Heavy Tank
 
-jp_type_5_ho_ri_prototype_shop;Ho Ri
-jp_type_5_ho_ri_prototype_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
+jp_type_5_ho_ri_prototype_shop;Ho Ri (mockup)
+jp_type_5_ho_ri_prototype_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Tōkyō Kiki Seisakusho</color>
 <color=#7ce68f>Shisei Shin Hō Sensha (Kō)</color>
-Ho Ri"
+Ho Ri
+<color=#adadad>(mockup)</color>"
 jp_type_5_ho_ri_prototype_1;Ho Ri
 jp_type_5_ho_ri_prototype_2;SPG
 
-jp_type_5_ho_ri_production_shop;Ho Ri (late)
-jp_type_5_ho_ri_production_0;"<color=#7ce68f>Shisei Shin Hō Sensha (Kō)</color>
+jp_type_5_ho_ri_production_shop;Ho Ri (fictional)
+jp_type_5_ho_ri_production_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Tōkyō Kiki Seisakusho</color>
+<color=#7ce68f>Shisei Shin Hō Sensha (Kō)</color>
 Ho Ri
-<color=#adadad>(late)</color>"
+<color=#adadad>(fictional)</color>"
 jp_type_5_ho_ri_production_1;Ho Ri
 jp_type_5_ho_ri_production_2;SPG
 
@@ -14526,7 +14463,7 @@ jp_type_5_ho_ri_production_2;SPG
 jp_type_87_rcv_prot_shop;RCV (Shi 1 Gō)
 jp_type_87_rcv_prot_0;"<color=#81c3fc>Komatsu Seisaku</color>
 Teisatsu Keikaisha
-<color=#adadad>(Shisaku 1 Gōsha)</color>"
+<color=@currencyGoldColor>Shisaku 1 Gōsha</color>"
 jp_type_87_rcv_prot_1;RCV
 jp_type_87_rcv_prot_2;WIFV
 
@@ -14608,7 +14545,7 @@ jp_type_89_2;IFV
 jp_type_16_mcv_prot_shop;MCV (Shi 3 Gō)
 jp_type_16_mcv_prot_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 Kidō Sentō Sha
-<color=#adadad>(Shisaku 3 Gōsha)</color>"
+<color=@currencyGoldColor>Shisaku 3 Gōsha</color>"
 jp_type_16_mcv_prot_1;MCV
 jp_type_16_mcv_prot_2;Light Tank
 
@@ -14699,7 +14636,7 @@ jp_type_90b_sm_1;◍ 90TK (B)
 jp_type_90b_sm_2;MBT
 
 jp_type_93_shop;93 Shiki
-jp_type_93_0;"<color=#81c3fc>Tōshiba</color>
+jp_type_93_0;"<color=#81c3fc>Toyota Ji Dōsha Kabushikigaisha BXD 10 <color=@commonTextColor>/</color> Tōshiba</color>
 93 Shiki Kinkyorichi Taikū Yūdōdan ""Kurōzudo Arō"""
 jp_type_93_1;93 Shiki
 jp_type_93_2;SPAAM
@@ -15396,7 +15333,8 @@ jp_battleship_fuso_2;Battleship
 jp_battlecruiser_amagi_shop;Amagi
 jp_battlecruiser_amagi_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
 <color=#fffa62>Amagi Gata Junyōsenkan (B-64)</color>
-Amagi"
+Amagi
+<color=#adadad>(1919 plan)</color>"
 jp_battlecruiser_amagi_1;Amagi
 jp_battlecruiser_amagi_2;Battlecruiser
 
@@ -15874,11 +15812,11 @@ mig-17_f5_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@common
 mig-17_f5_1;▆ F5
 mig-17_f5_2;▆ F5
 
-f_6c_pakistan_shop;☪ F6C (Oct, 1976)
+f_6c_pakistan_shop;☪ F6C (Oct 1976)
 f_6c_pakistan_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 SM-7/3 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè
 Chang</color>
 ☪ F6C Xíng Fēijī
-<color=#adadad>(October, 1976)</color>"
+<color=#adadad>(October 1976)</color>"
 f_6c_pakistan_1;☪ F6C
 f_6c_pakistan_2;☪ F6
 
@@ -16196,7 +16134,7 @@ cn_m4a1_76w_sherman_1;☀ M4A1
 cn_m4a1_76w_sherman_2;Medium Tank
 
 cn_gmc_cckw_353_m45_quad_shop;Jì Mu Xī 10 Lún (M45C)
-cn_gmc_cckw_353_m45_quad_0;"<color=#81c3fc>GMC Truck and Coach</color>
+cn_gmc_cckw_353_m45_quad_0;"<color=#81c3fc>GMC Truck and Coach Division</color>
 Jì Mu Xī 10 Lún Dà Kachē
 <color=#adadad>(Mount, Gun: Multiple Caliber .50 Machine Gun, M45C)</color>"
 cn_gmc_cckw_353_m45_quad_1;Jì Mu Xī 10 Lún (M45C)
@@ -17300,6 +17238,12 @@ it_44m_zrinyi_1_1;44 M. Zrínyi
 it_44m_zrinyi_1_2;SPG
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+it_m44_shop;⛨ 155/23 M44
+it_m44_0;"<color=#81c3fc>Massey-Harris</color>
+⛨ Semovente da 155/23 M44"
+it_m44_1;⛨ 155/23 M44
+it_m44_2;SPH
+
 it_m55_shop;⛨ 203/25 M55
 it_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
 ⛨ Semovente da 203/25 M55"
@@ -17555,18 +17499,20 @@ it_centauro_2_0;"<color=#81c3fc>Consortium Iveco-Oto Melara Centauro II 120</col
 it_centauro_2_1;Centauro II 120
 it_centauro_2_2;Light Tank
 
-it_samp_t_launcher_shop;⛨ SAMP/T (MLT)
-it_samp_t_launcher_0;"<color=#81c3fc>Eurosam</color>
-⛨ Sol-Air Moyenne Portée/Terrestre
-<color=#adadad>(Module de Lancement Terrestre)</color>"
-it_samp_t_launcher_1;⛨ SAMP/T (MLT)
+it_samp_t_launcher_shop;⛨ ACTL SM 88.45 BAD (SAMP/T) (MLT)
+it_samp_t_launcher_0;"<color=#81c3fc>⛨ Astra veicoli industriali Autocarro tattico logistico SM 88.45 BAD <color=@commonTextColor>/</color>
+Eurosam</color>
+<color=#adadad>(Sol-air moyenne portée/terrestre)
+(module de lancement terrestre)</color>"
+it_samp_t_launcher_1;⛨ ACTL SM 88.45 BAD (SAMP/T) (MLT)
 it_samp_t_launcher_2;SPAAM
 
-it_samp_t_fcs_shop;⛨ SAMP/T (MRI)
-it_samp_t_fcs_0;"<color=#81c3fc>Eurosam</color>
-⛨ Sol-Air Moyenne Portée/Terrestre
-<color=#adadad>(Module Radar et IFF)</color>"
-it_samp_t_fcs_1;⛨ SAMP/T (MRI)
+it_samp_t_fcs_shop;⛨ ACTL SM 88.45 BAD (SAMP/T) (MRI)
+it_samp_t_fcs_0;"<color=#81c3fc>⛨ Astra veicoli industriali Autocarro tattico logistico SM 88.45 BAD <color=@commonTextColor>/</color>
+Eurosam</color>
+<color=#adadad>(Sol-air moyenne portée/terrestre)
+(module radar et IFF)</color>"
+it_samp_t_fcs_1;⛨ ACTL SM 88.45 BAD (SAMP/T) (MRI)
 it_samp_t_fcs_2;Radar
 
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
@@ -18541,167 +18487,316 @@ ah_64d_netherlands_1;◘ AH-64D
 ah_64d_netherlands_2;◘ AH-64
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
-fr_amc_34_shop;AMC 34 (APX 1)
-fr_amc_34_0;"Automitrailleuse de combat AMC 34
-<color=#adadad>(APX 1)</color>"
-fr_amc_34_1;AMC 34
-fr_amc_34_2;Light Tank
+fr_amc_34_shop;A.M.C. 34 (A.P.X. 1)
+fr_amc_34_0;"<color=#81c3fc>Société anonyme des usines Renault Y.R.</color>
+Automitrailleuse de cavalerie type combat modèle 1934 avec tourelle
+A.P.X. 1"
+fr_amc_34_1;A.M.C. 34
+fr_amc_34_2;Cavalry Armored Combat Car
 
-fr_amd_35_sa35_shop;AMD 35 (SA 35)
-fr_amd_35_sa35_0;"AMD 35
-<color=#adadad>(SA 35)</color>"
-fr_amd_35_sa35_1;AMD 35 (SA 35)
-fr_amd_35_sa35_2;Light Tank
+fr_hotchkiss_h35_shop;H. 35
+fr_hotchkiss_h35_0;"<color=#81c3fc>Société Anonyme des Anciens Etablissements Hotchkiss et Compagnie</color>
+Char léger modèle 1935 Hotchkiss"
+fr_hotchkiss_h35_1;H. 35
+fr_hotchkiss_h35_2;Light Tank
+
+fr_hotchkiss_h39_shop;H. 39
+fr_hotchkiss_h39_0;"<color=#81c3fc>Société Anonyme des Anciens Etablissements Hotchkiss et Compagnie</color>
+Char léger modèle 1935 Hotchkiss modifié 39"
+fr_hotchkiss_h39_1;H. 39
+fr_hotchkiss_h39_2;Light Tank
+
+fr_hotchkiss_h39_cambronne_shop;H. 39 (14e B.C.C.)
+fr_hotchkiss_h39_cambronne_0;"<color=#81c3fc>Société Anonyme des Anciens Etablissements Hotchkiss et Compagnie</color>
+Char léger modèle 1935 Hotchkiss modifié 39
+<color=@currencyGoldColor>14ème bataillons de chars de combat, «Cambronne»</color>"
+fr_hotchkiss_h39_cambronne_1;H. 39
+fr_hotchkiss_h39_cambronne_2;Light Tank
+
+fr_fcm_36_shop;F.C.M. 36
+fr_fcm_36_0;"<color=#81c3fc>Société nouvelle des forges et chantiers de la Méditerranée</color>
+Char léger modèle 1936 F.C.M."
+fr_fcm_36_1;F.C.M. 36
+fr_fcm_36_2;Light Tank
+
+fr_amd_35_shop;A.M.D. 35
+fr_amd_35_0;"<color=#81c3fc>Panhard et Levassor voiture spéciale type 178</color>
+Automitrailleuse de cavalerie type découverte modèle 1935"
+fr_amd_35_1;A.M.D. 35
+fr_amd_35_2;Cavalry Armored Reconnaissance Car
+
+fr_amd_35_sa35_shop;A.M.D. 35 (47 S.A. 35)
+fr_amd_35_sa35_0;"<color=#81c3fc>Panhard et Levassor voiture spéciale type 178</color>
+Automitrailleuse de cavalerie type découverte modèle 1935 avec tourelle
+Renault
+<color=#adadad>(Canon de 47 mm semi-automatique modèle 1935)</color>"
+fr_amd_35_sa35_1;A.M.D. 35
+fr_amd_35_sa35_2;Cavalry Armored Reconnaissance Car
+
+fr_amc_35_shop;A.M.C. 35
+fr_amc_35_0;"<color=#81c3fc>Société anonyme des usines Renault A.C.G. 1</color>
+Automitrailleuse de cavalerie type combat modèle 1935"
+fr_amc_35_1;A.M.C. 35
+fr_amc_35_2;Cavalry Armored Combat Car
 
 fr_saint_chamond_shop;St-Chamond mle. 1918
 fr_saint_chamond_0;"<color=#81c3fc>Compagnie des forges et aciéries de la marine et d'Homécourt</color>
 Char d'assaut Saint-Chamond modèle 1918"
-fr_saint_chamond_1;St-Chamond
+fr_saint_chamond_1;St-Chamond mle. 1918
 fr_saint_chamond_2;Assault Tank
 
-fr_hotchkiss_h39_cambronne_shop;H 39 (14e BCC)
-fr_hotchkiss_h39_cambronne_0;"Char léger Hotchkiss modèle 1935 H modifié 39
-<color=@currencyGoldColor>14e BCC, ""Cambronne""</color>"
-fr_hotchkiss_h39_cambronne_1;H 39
-fr_hotchkiss_h39_cambronne_2;Light Tank
+fr_somua_s35_shop;S. 35
+fr_somua_s35_0;"<color=#81c3fc>Société d'outillage mécanique et d'usinage d'artillerie A.C. 4</color>
+Char de cavalerie modèle 1935 S.O.M.U.A."
+fr_somua_s35_1;S. 35
+fr_somua_s35_2;Cavalry Tank
 
-fr_renault_r39_shop;R 35 (SA 38)
-fr_renault_r39_0;"Char léger d'accompagnement 1935 R
-<color=#adadad>(SA 38)</color>"
-fr_renault_r39_1;R 35 (SA 38)
+fr_renault_r39_shop;R. 35 (37 S.A. 38)
+fr_renault_r39_0;"<color=#81c3fc>Société anonyme des usines Renault Z.M.</color>
+Char léger modèle 1935 Renault
+<color=#adadad>(Canon de 37 mm semi-automatique modèle 1938)</color>"
+fr_renault_r39_1;R. 35
 fr_renault_r39_2;Light Tank
+
+fr_renault_d2_shop;D. 2 (1940)
+fr_renault_d2_0;"<color=#81c3fc>Société anonyme des usines Renault U.Z.</color>
+Char moyen D. 2
+<color=#adadad>(1940)</color>"
+fr_renault_d2_1;D. 2
+fr_renault_d2_2;Medium Tank
+
+fr_citroen_kegresse_p4t_shop;P.7.T. (C.A.Q. mle. 1929)
+fr_citroen_kegresse_p4t_0;"<color=#81c3fc>Société anonyme André Citroën Autochenille Citroën muni de propulseur
+Kégresse-Hinstin type P.7.T.</color>
+<color=#adadad>(Contre avions quadruple modèle 1929)</color>"
+fr_citroen_kegresse_p4t_1;P.7.T. (C.A.Q. mle. 1929)
+fr_citroen_kegresse_p4t_2;SPAAG
+
+fr_amr_35_zt3_shop;A.M.R. 35 (Z.T. 3)
+fr_amr_35_zt3_0;"<color=#81c3fc>Société anonyme des usines Renault Z.T. 3</color>
+Automitrailleuse de cavalerie type reconnaissance modèle 1935"
+fr_amr_35_zt3_1;A.M.R. 35 (Z.T. 3)
+fr_amr_35_zt3_2;Cavalry Armored Reconnaissance Car
+
+fr_lorraine_37l_shop;T.R.C. 37 L (47 S.A. 37)
+fr_lorraine_37l_0;"<color=#81c3fc>Lorraine</color>
+Canon de 47 S.A. modèle 1937 sur T.R.C. 37 L blindé"
+fr_lorraine_37l_1;T.R.C. 37 L (47 S.A. 37)
+fr_lorraine_37l_2;SPG
+
+fr_somua_sau40_shop;S.Au. 40
+fr_somua_sau40_0;"<color=#81c3fc>Société d'outillage mécanique et d'usinage d'artillerie CAM 2</color>
+Canon de 75 automoteur S.O.M.U.A."
+fr_somua_sau40_1;S.Au. 40
+fr_somua_sau40_2;SPG
+
+fr_char_2c_bis_shop;2 C bis
+fr_char_2c_bis_0;"<color=#81c3fc>Société nouvelle des forges et chantiers de la Méditerranée</color>
+Char de bataille 2 C bis"
+fr_char_2c_bis_1;2 C bis
+fr_char_2c_bis_2;Heavy Tank
+
+fr_char_2c_shop;2 C
+fr_char_2c_0;"<color=#81c3fc>Société nouvelle des forges et chantiers de la Méditerranée</color>
+Char de bataille 2 C"
+fr_char_2c_1;2 C
+fr_char_2c_2;Heavy Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 fr_amd_35_kwk39_shop;☨ le.Pz.Spw. 204 (f) (Kw.K. 39/1)
 fr_amd_35_kwk39_0;"<color=#81c3fc>Panhard</color>
 ☨ leichter Panzerspähwagen 204 (f) m. 5cm Kw.K. 39/1 L/60"
 fr_amd_35_kwk39_1;☨ le.Pz.Spw. 204 (f)
-fr_amd_35_kwk39_2;Light Tank
+fr_amd_35_kwk39_2;Light tank
 
-fr_m4a4_cn_75_50_shop;M4A4T (SA 50)
-fr_m4a4_cn_75_50_0;"M4A4T
-<color=#adadad>(SA 50)</color>"
-fr_m4a4_cn_75_50_1;M4A4T (SA 50)
+fr_crusader_mk_2_shop;☨ Crusader Mk. II
+fr_crusader_mk_2_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
+☨ Char léger Crusader Mk. II"
+fr_crusader_mk_2_1;☨ Crusader Mk. II
+fr_crusader_mk_2_2;Light Tank
+
+fr_m3a3_stuart_shop;☨ M3A3
+fr_m3a3_stuart_0;"<color=#81c3fc>American Car and Foundry Company, Berwick</color>
+☨ Char léger M3A3"
+fr_m3a3_stuart_1;☨ M3A3
+fr_m3a3_stuart_2;Light Tank
+
+fr_m4a1_sherman_shop;☨ M4A1
+fr_m4a1_sherman_0;"<color=#81c3fc>Pressed Steel Car Company</color>
+☨ Char moyen M4A1"
+fr_m4a1_sherman_1;☨ M4A1
+fr_m4a1_sherman_2;Medium Tank
+
+fr_m4a3_105_sherman_shop;☨ M4A3(105) HVSS
+fr_m4a3_105_sherman_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+☨ Char moyen M4A3(105) HVSS"
+fr_m4a3_105_sherman_1;☨ M4A3(105)
+fr_m4a3_105_sherman_2;Medium Tank
+
+fr_m4a4_sherman_shop;☨ M4A4
+fr_m4a4_sherman_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+☨ Char moyen M4A4"
+fr_m4a4_sherman_1;☨ M4A4
+fr_m4a4_sherman_2;Medium Tank
+
+fr_m4a4_cn_75_50_shop;☨ M4A4T (75 S.A. 50)
+fr_m4a4_cn_75_50_0;"<color=#81c3fc>Detroit Arsenal Tank Plant <color=@commonTextColor>/</color> Atelier de construction de Bourges</color>
+☨ Char moyen M4A4T
+<color=#adadad>(Canon de 75 mm semi-automatique modèle 1950)</color>"
+fr_m4a4_cn_75_50_1;☨ M4A4T
 fr_m4a4_cn_75_50_2;Medium Tank
 
-fr_m4a1_sherman_fl_10_shop;☨ M4A1 (FL 10)
-fr_m4a1_sherman_fl_10_0;"☨ Char moyen M4A1 Sherman
-<color=#adadad>(tourelle FL 10)</color>"
+fr_m4a3e2_sherman_jumbo_shop;☨ M4A3E2(75)W
+fr_m4a3e2_sherman_jumbo_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant</color>
+☨ Char d'assaut M4A3E2(75)W"
+fr_m4a3e2_sherman_jumbo_1;☨ M4A3E2(75)W
+fr_m4a3e2_sherman_jumbo_2;Heavy Tank
+
+fr_m4a1_sherman_fl_10_shop;☨ M4A1 (F.L. 10)
+fr_m4a1_sherman_fl_10_0;"<color=#81c3fc>Pressed Steel Car Company <color=@commonTextColor>/</color> Compagnie générale de construction de
+locomotives (Batignolles-Châtillon)</color>
+☨ Char moyen M4A1 avec tourelle F.L. 10"
 fr_m4a1_sherman_fl_10_1;☨ M4A1
 fr_m4a1_sherman_fl_10_2;Medium Tank
 
-fr_b1_ter_shop;B1 ter
-fr_b1_ter_0;Char de bataille B1 ter
-fr_b1_ter_1;B1 ter
-fr_b1_ter_2;Heavy Tank
-
-fr_b1_bis_shop;B1 bis
-fr_b1_bis_0;Char de bataille B1 bis
-fr_b1_bis_1;B1 bis
+fr_b1_bis_shop;B. 1 bis
+fr_b1_bis_0;"<color=#81c3fc>Atelier de construction de Rueil</color>
+Char de bataille B. 1 bis"
+fr_b1_bis_1;B. 1 bis
 fr_b1_bis_2;Heavy Tank
 
-fr_char_2c_shop;2C
-fr_char_2c_0;"<color=#81c3fc>Société Nouvelle des Forges et Chantiers de la Méditerranée</color>
-Char de bataille 2C"
-fr_char_2c_1;2C
-fr_char_2c_2;Heavy Tank
+fr_b1_ter_shop;B. 1 ter (n° 101)
+fr_b1_ter_0;"<color=#81c3fc>Atelier de construction de Rueil</color>
+Char de bataille B. 1 ter
+<color=@currencyGoldColor>Prototype n° 101</color>"
+fr_b1_ter_1;B. 1 ter
+fr_b1_ter_2;Heavy Tank
 
-fr_char_2c_bis_shop;2C bis
-fr_char_2c_bis_0;"<color=#81c3fc>Société Nouvelle des Forges et Chantiers de la Méditerranée</color>
-Char de bataille 2C bis"
-fr_char_2c_bis_1;2C
-fr_char_2c_bis_2;Heavy Tank
-
-fr_cckw_353_bofors_shop;GMC CCKW 353 (M1)
-fr_cckw_353_bofors_0;"GMC CCKW 353
-<color=#adadad>(M1)</color>"
+fr_cckw_353_bofors_shop;CCKW 353 (M1)
+fr_cckw_353_bofors_0;"<color=#81c3fc>GMC Truck and Coach Division</color>
+Truck, 2½ Ton, 6x6, GMC CCKW 353
+<color=#adadad>(Gun, Automatic, 40mm, M1)</color>"
 fr_cckw_353_bofors_1;CCKW 353 (M1)
-fr_cckw_353_bofors_2;SPAA
+fr_cckw_353_bofors_2;SPAAG
 
-fr_m10_shop;☨ M10 GMC
-fr_m10_0;"<color=#5cae63>G-130</color>
-☨ Carriage, Motor, 3-inch Gun, M10"
+fr_amx_vtt_dca_shop;V.T.T. mle. 56 (M 45)
+fr_amx_vtt_dca_0;"<color=#81c3fc>Atelier de construction de Roanne</color>
+Véhicule de transport de troupe modèle 1956 avec affût tourelle M 45"
+fr_amx_vtt_dca_1;V.T.T. (M 45)
+fr_amx_vtt_dca_2;SPAAG
+
+fr_m10_shop;☨ M10
+fr_m10_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant</color>
+☨ Affût auto-moteur M10 pour canon de 3 pouces"
 fr_m10_1;☨ M10
 fr_m10_2;Tank Destroyer
 
-fr_amx_13_chaffee_shop;AMX 13 (M6)
-fr_amx_13_chaffee_0;"AMX 13
-<color=#adadad>(Gun, 75mm, M6)</color>"
-fr_amx_13_chaffee_1;AMX 13 (M6)
+fr_amx_13_chaffee_shop;A.M.X. 13t (tourelle M 24)
+fr_amx_13_chaffee_0;"<color=#81c3fc>Atelier de construction de Roanne</color>
+Char à tourelle M 24 sur châssis 13 tonnes A.M.X. modèle 51"
+fr_amx_13_chaffee_1;A.M.X. 13t
 fr_amx_13_chaffee_2;Light Tank
 
-fr_amx_13_fl_11_shop;AMX 13 (FL 11)
-fr_amx_13_fl_11_0;"AMX 13
-<color=#adadad>(FL 11)</color>"
-fr_amx_13_fl_11_1;AMX 13 (FL 11)
+fr_amx_13_fl_11_shop;A.M.X. 13t-75 (F.L. 11)
+fr_amx_13_fl_11_0;"<color=#81c3fc>Atelier de construction de Roanne</color>
+Char de 13 tonnes A.M.X. de 75 avec tourelle F.L. 11"
+fr_amx_13_fl_11_1;A.M.X. 13t-75
 fr_amx_13_fl_11_2;Light Tank
 
-fr_amx_13_75_ss11_shop;AMX 13 (SS.11)
-fr_amx_13_75_ss11_0;"AMX 13
-<color=#adadad>(SS.11)</color>"
-fr_amx_13_75_ss11_1;AMX 13 (SS.11)
+fr_amx_13_dca_40_shop;A.M.X. 13t D.C.A. 40
+fr_amx_13_dca_40_0;"<color=#81c3fc>Atelier de construction de Roanne <color=@commonTextColor>/</color> Société d'applications des machines
+motrices</color>
+Char de 13 tonnes A.M.X. à tourelle D.C.A. AB 380 avec canon de 40 L 70
+Bofors"
+fr_amx_13_dca_40_1;A.M.X. 13t D.C.A. 40
+fr_amx_13_dca_40_2;SPAAG
+
+fr_amx_13_75_shop;A.M.X. 13t-75 mle. 51
+fr_amx_13_75_0;"<color=#81c3fc>Atelier de construction de Roanne</color>
+Char de 13 tonnes A.M.X. de 75 modèle 1951"
+fr_amx_13_75_1;A.M.X. 13t-75
+fr_amx_13_75_2;Light Tank
+
+fr_amx_13_75_ss11_shop;A.M.X. 13t-75 mle. 51 (SS.11)
+fr_amx_13_75_ss11_0;"<color=#81c3fc>Atelier de construction de Roanne</color>
+Char de 13 tonnes A.M.X. de 75 modèle 1951 lance SS.11"
+fr_amx_13_75_ss11_1;A.M.X. 13t-75
 fr_amx_13_75_ss11_2;Light Tank
 
-fr_amx_13_hot_shop;AMX 13 (HOT)
-fr_amx_13_hot_0;"AMX 13
-<color=#adadad>(HOT)</color>"
-fr_amx_13_hot_1;AMX 13 (HOT)
+fr_amx_13_90_shop;A.M.X. 13t-90
+fr_amx_13_90_0;"<color=#81c3fc>Atelier de construction de Roanne</color>
+Char de 13 tonnes A.M.X. de 90"
+fr_amx_13_90_1;A.M.X. 13t-75
+fr_amx_13_90_2;Light Tank
+
+fr_amx_13_hot_shop;A.M.X. 13t-75 mle. 51 (HOT)
+fr_amx_13_hot_0;"<color=#81c3fc>Atelier de construction de Roanne</color>
+Char de 13 tonnes A.M.X. de 75 modèle 1951 lance HOT"
+fr_amx_13_hot_1;A.M.X. 13t-75
 fr_amx_13_hot_2;Light Tank
 
-fr_lvt_bofors_shop;☨ LVT(A)(4) (Bofors)
-fr_lvt_bofors_0;"☨ Landing Vehicle, Tracked (Armored) (Mk. 4)
-<color=#adadad>(Bofors)</color>"
-fr_lvt_bofors_1;☨ LVT(A)(4) (Bofors)
+fr_lvt_bofors_shop;LVT (4) (Bofors)
+fr_lvt_bofors_0;"<color=#81c3fc>Food Machinery Corporation</color>
+Landing Vehicle, Tracked (Unrmored), Mk. IV
+<color=#adadad>(Canon de 40 L 60 Bofors)</color>"
+fr_lvt_bofors_1;LVT (4) (Bofors)
 fr_lvt_bofors_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
-fr_panhard_ebr_1951_shop;EBR 75 (FL 11)
-fr_panhard_ebr_1951_0;"Engin Blindé de Reconnaissance Panhard EBR modèle 1951
-<color=#adadad>(tourelle FL 11 avec 75)</color>"
-fr_panhard_ebr_1951_1;EBR 75 (FL 11)
+fr_panhard_ebr_1951_shop;E.B.R. 75 mle. 51
+fr_panhard_ebr_1951_0;"<color=#81c3fc>Panhard type 212</color>
+Engin blindé de reconnaissance de 75 modèle 1951 avec tourelle F.L. 11"
+fr_panhard_ebr_1951_1;E.B.R. 75 mle. 51
 fr_panhard_ebr_1951_2;Light Tank
 
-fr_panhard_ebr_1954_shop;EBR 75 (FL 10)
-fr_panhard_ebr_1954_0;"Engin Blindé de Reconnaissance Panhard EBR modèle 1954
-<color=#adadad>(tourelle FL 10 avec 75)</color>"
-fr_panhard_ebr_1954_1;EBR 75 (FL 10)
+fr_panhard_ebr_1954_shop;E.B.R. 75 mle. 54
+fr_panhard_ebr_1954_0;"<color=#81c3fc>Panhard type 212</color>
+Engin blindé de reconnaissance de 75 modèle 1954 avec tourelle F.L. 10"
+fr_panhard_ebr_1954_1;E.B.R. 75 mle. 54
 fr_panhard_ebr_1954_2;Light Tank
 
-fr_panhard_ebr_1963_shop;EBR 90 (FL 11)
-fr_panhard_ebr_1963_0;"Engin Blindé de Reconnaissance Panhard EBR modèle 1963
-<color=#adadad>(tourelle FL 11 avec 90)</color>"
-fr_panhard_ebr_1963_1;EBR 90 (FL 11)
+fr_panhard_ebr_1963_shop;E.B.R. 90 mle. 63
+fr_panhard_ebr_1963_0;"<color=#81c3fc>Panhard type 212</color>
+Engin blindé de reconnaissance de 90 modèle 1963 avec tourelle F.L. 11"
+fr_panhard_ebr_1963_1;E.B.R. 90 mle. 63
 fr_panhard_ebr_1963_2;Light Tank
 
-fr_arl_44_acl1_shop;ARL 44 (ACL 1)
-fr_arl_44_acl1_0;"ARL 44
-<color=#adadad>(ACL 1)</color>"
-fr_arl_44_acl1_1;ARL 44
+fr_arl_44_acl1_shop;A.R.L. 44 (A.C.L. 1)
+fr_arl_44_acl1_0;"<color=#81c3fc>Atelier de construction de Rueil</color>
+Char de transition A.R.L. 44 avec tourelle A.C.L. 1"
+fr_arl_44_acl1_1;A.R.L. 44
 fr_arl_44_acl1_2;Heavy Tank
 
-fr_tpk_641_vpc_shop;VLRA 6x6 (KAD)
-fr_tpk_641_vpc_0;"<color=#81c3fc>ACMAT TPK 6.41 Véhicule Protection de Convoi</color>
-Véhicule Léger de Reconnaissance et d'Appui 6x6
-<color=#adadad>(KAD)</color>"
-fr_tpk_641_vpc_1;VLRA 6x6 (KAD)
-fr_tpk_641_vpc_2;SPAA
+fr_arl_44_shop;C.D.C. 48t
+fr_arl_44_0;"<color=#81c3fc>Atelier de construction de Rueil</color>
+<color=#919191>Char de transition A.R.L. 44</color>
+Chasseur de chars de 48 tonnes"
+fr_arl_44_1;C.D.C. 48t
+fr_arl_44_2;Heavy Tank
+
+fr_tpk_641_vpc_shop;V.L.R.A. 6x6 (GAI-D01)
+fr_tpk_641_vpc_0;"<color=#81c3fc>Ateliers de construction mécanique de l'Atlantique
+TPK 6.41 Véhicule de protection de convoi</color>
+Véhicule léger de reconnaissance et d'appui 6x6
+<color=#adadad>(20 mm Twin Anti-Aircraft and Ground Support Gun Type GAI-D01)</color>"
+fr_tpk_641_vpc_1;V.L.R.A. 6x6 (GAI-D01)
+fr_tpk_641_vpc_2;SPAAG
 
 fr_m44_shop;▄ M44
-fr_m44_0;"<color=#5cae63>G-279</color>
+fr_m44_0;"<color=#81c3fc>Massey-Harris</color>
 ▄ Howitzer, Self-Propelled, Full Tracked: 155mm, M44"
 fr_m44_1;▄ M44
 fr_m44_2;SPH
 
 fr_m55_shop;▄ M55
 fr_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
-<color=#5cae63>G-261</color>
 ▄ Howitzer, Heavy, Self-Propelled, Full Tracked: 8-Inch, M55"
 fr_m55_1;▄ M55
 fr_m55_2;SPH
 
-fr_m36b2_cefeo_shop;☨ M36B2 GMC
-fr_m36b2_cefeo_0;"<color=#5cae63>G-237</color>
-☨ Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
+fr_m36b2_cefeo_shop;☨ M36B2
+fr_m36b2_cefeo_0;"<color=#81c3fc>American Locomotive Company</color>
+☨ Affût auto-moteur M36B2 pour canon de 90 mm"
 fr_m36b2_cefeo_1;☨ M36B2
 fr_m36b2_cefeo_2;Tank Destroyer
 
@@ -18712,29 +18807,183 @@ Engin léger de combat bis avec tourelle-casemate de 90"
 fr_amx_elc_bis_1;E.L.C. bis
 fr_amx_elc_bis_2;Light Tank
 
-fr_amx_elc_901_shop;E.L.C. (TC.901)
+fr_amx_elc_901_shop;E.L.C. (T.C. 901)
 fr_amx_elc_901_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
 Engin léger de combat avec tourelle-casemate de 901"
 fr_amx_elc_901_1;E.L.C.
 fr_amx_elc_901_2;Light Tank
 
-fr_pzkpfw_V_panther_dauphine_shop;☨ Panther G (Besnier)
-fr_pzkpfw_V_panther_dauphine_0;"☨ Char Panther Mle. G
+fr_m26_pershing_shop;☨ M26
+fr_m26_pershing_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+☨ Char moyen M26"
+fr_m26_pershing_1;☨ M26
+fr_m26_pershing_2;Medium Tank
+
+fr_amx_m4_shop;A.M.X. M. 4
+fr_amx_m4_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
+Char moyen M. 4 A.M.X."
+fr_amx_m4_1;A.M.X. M. 4
+fr_amx_m4_2;Medium Tank
+
+fr_amx_10p_shop;A.M.X. 10 P
+fr_amx_10p_0;"<color=#81c3fc>Groupement industriel des armements terrestres</color>
+Engin blindé léger personnel A.M.X. 10 P"
+fr_amx_10p_1;A.M.X. 10 P
+fr_amx_10p_2;IFV
+
+fr_amx_10m_acra_shop;A.M.X. 10 M (A.C.R.A.)
+fr_amx_10m_acra_0;"<color=#81c3fc>Groupement industriel des armements terrestres</color>
+<color=#ff8c80>Projet A.C.R.A.</color>
+Engin blindé léger missile A.M.X. 10 M avec système d'arme A.C.R.A."
+fr_amx_10m_acra_1;A.M.X. 10 M
+fr_amx_10m_acra_2;ATMC
+
+fr_amx_10rc_shop;A.M.X. 10 RC
+fr_amx_10rc_0;"<color=#81c3fc>Groupement industriel des armements terrestres</color>
+Vehicule à roues-canon A.M.X. 10 RC"
+fr_amx_10rc_1;A.M.X. 10 RC
+fr_amx_10rc_2;Light Tank
+
+fr_lorraine_100_shop;C.A. 100
+fr_lorraine_100_0;"<color=#81c3fc>Direction des etudes et fabrications d'armement</color>
+Canon d'assaut de 100 mm"
+fr_lorraine_100_1;C.A. 100
+fr_lorraine_100_2;SPG
+
+fr_amx_30_auf_1_shop;CN 155 Au F1
+fr_amx_30_auf_1_0;"<color=#81c3fc>Groupement industriel des armements terrestres</color>
+Canon de 155 automoteur modèle F1 sur châssis A.M.X. 30"
+fr_amx_30_auf_1_1;CN 155 Au F1
+fr_amx_30_auf_1_2;SPH
+
+fr_pzkpfw_V_panther_dauphine_shop;☨ Panther mle. G (Besnier)
+fr_pzkpfw_V_panther_dauphine_0;"<color=#81c3fc>Maschinenfabrik Augsburg-Nürnberg, Werk Nürnberg</color>
+☨ Char Panther modèle G
 <color=@currencyGoldColor>Escadron Autonome de Chars Besnier, «Dauphiné»</color>"
-fr_pzkpfw_V_panther_dauphine_1;☨ Panther G
+fr_pzkpfw_V_panther_dauphine_1;☨ Panther mle. G
 fr_pzkpfw_V_panther_dauphine_2;Medium Tank
 
+fr_m46_patton_shop;☨ M46
+fr_m46_patton_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+☨ Char moyen M46"
+fr_m46_patton_1;☨ M46
+fr_m46_patton_2;Medium Tank
+
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
-fr_aml_90_shop;AML 90
-fr_aml_90_0;"<color=#81c3fc>Panhard</color>
-Automitrailleuse Légère AML 90"
-fr_aml_90_1;AML 90
+fr_aml_90_shop;A.M.L. 90
+fr_aml_90_0;"<color=#81c3fc>Panhard type 245</color>
+Automitrailleuse légère A.M.L. 90"
+fr_aml_90_1;A.M.L. 90
 fr_aml_90_2;Light Tank
 
 fr_marder_df_105_shop;☨ DF 105
 fr_marder_df_105_0;<color=#81c3fc>☨ Thyssen Henschel DF 105</color>
 fr_marder_df_105_1;☨ DF 105
-fr_marder_df_105_2;Light Tank
+fr_marder_df_105_2;Light tank
+
+fr_lorraine_40t_shop;Lorraine 40t
+fr_lorraine_40t_0;"<color=#81c3fc>Direction des etudes et fabrications d'armement</color>
+Char moyen de 40 tonnes Lorraine avec tourelle T.O.A. 100"
+fr_lorraine_40t_1;Lorraine 40t
+fr_lorraine_40t_2;Medium Tank
+
+fr_bat_chat_25t_shop;B.C. 25t
+fr_bat_chat_25t_0;"<color=#81c3fc>Compagnie générale de construction de locomotives
+(Batignolles-Châtillon)</color>
+Char de 25 tonnes B.C. avec tourelle T.O. 90/930"
+fr_bat_chat_25t_1;B.C. 25t
+fr_bat_chat_25t_2;Light Tank
+
+fr_amx_30_1972_shop;A.M.X. 30 B (1972)
+fr_amx_30_1972_0;"<color=#81c3fc>Atelier de construction de Roanne</color>
+Char moyen de combat A.M.X. 30 B
+<color=#adadad>(1972)</color>"
+fr_amx_30_1972_1;A.M.X. 30 B
+fr_amx_30_1972_2;MBT
+
+fr_amx_30_shop;A.M.X. 30 B (1965)
+fr_amx_30_0;"<color=#81c3fc>Atelier de construction de Roanne</color>
+Char moyen de combat A.M.X. 30 B
+<color=#adadad>(1965)</color>"
+fr_amx_30_1;A.M.X. 30 B
+fr_amx_30_2;MBT
+
+fr_amx_30_b2_shop;A.M.X. 30 B2
+fr_amx_30_b2_0;"<color=#81c3fc>Groupement industriel des armements terrestres</color>
+Char moyen de combat A.M.X. 30 B2"
+fr_amx_30_b2_1;A.M.X. 30 B2
+fr_amx_30_b2_2;MBT
+
+fr_amx_30_b2_brenus_shop;A.M.X. 30 B2 BRENUS
+fr_amx_30_b2_brenus_0;"<color=#81c3fc>GIAT Industries</color>
+Char moyen de combat A.M.X. 30 B2 BRENUS"
+fr_amx_30_b2_brenus_1;A.M.X. 30 B2
+fr_amx_30_b2_brenus_2;MBT
+
+fr_amx_30_dca_shop;A.M.X. 30 SA bitube (S 401 A)
+fr_amx_30_dca_0;"<color=#81c3fc>Groupement industriel des armements terrestres</color>
+Char A.M.X. 30 SA bitube de 30 mm
+<color=#adadad>(tourelle S 401 A)</color>"
+fr_amx_30_dca_1;A.M.X. 30 SA bitube
+fr_amx_30_dca_2;SPAAG
+
+fr_amx_30_ACRA_shop;A.M.X. 30 (T 142)
+fr_amx_30_ACRA_0;"<color=#81c3fc>Atelier de construction de Roanne <color=@commonTextColor>/</color> Atelier de construction de Puteaux</color>
+<color=#ff8c80>Projet A.C.R.A.</color>
+Char moyen de combat A.M.X. 30
+<color=#adadad>(tourelle prototype T 142)</color>"
+fr_amx_30_ACRA_1;A.M.X. 30 (T 142)
+fr_amx_30_ACRA_2;MBT
+
+fr_amx_30_super_shop;Super AMX 30
+fr_amx_30_super_0;"<color=#81c3fc>Groupement industriel des armements terrestres <color=@commonTextColor>/</color> AEG <color=@commonTextColor>+</color>
+Krupp Atlas Elektronik <color=@commonTextColor>+</color> MTU Friedrichshafen <color=@commonTextColor>+</color> Wegmann & Co. <color=@commonTextColor>+</color>
+Diehl Munitionssysteme <color=@commonTextColor>+</color> ZF Friedrichshafen <color=@commonTextColor>+</color> GLS Gemeinschaftsbank
+Super AMX 30</color>"
+fr_amx_30_super_1;Super AMX 30
+fr_amx_30_super_2;MBT
+
+fr_amx_30_roland_shop;A.M.X. 30 R
+fr_amx_30_roland_0;"<color=#81c3fc>Groupement industriel des armements terrestres</color>
+Système d'arme Roland sur châssis A.M.X. 30 R"
+fr_amx_30_roland_1;A.M.X. 30 R
+fr_amx_30_roland_2;SPAAM
+
+fr_amx_50_shop;A.M.X. 50t (T.O.A. 100)
+fr_amx_50_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
+Char moyen de 50 tonnes A.M.X. avec tourelle T.O.A. 100"
+fr_amx_50_1;A.M.X. 50t
+fr_amx_50_2;Medium Tank
+
+fr_amx_50_surbaisse_shop;A.M.X. 50t Surbaissé
+fr_amx_50_surbaisse_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
+Char moyen de 50 tonnes A.M.X. Surbaissé"
+fr_amx_50_surbaisse_1;A.M.X. 50t
+fr_amx_50_surbaisse_2;Medium Tank
+
+fr_amx_50_surblinde_shop;A.M.X. 50t Surblindé
+fr_amx_50_surblinde_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
+Char moyen de 50 tonnes A.M.X. Surblindé"
+fr_amx_50_surblinde_1;A.M.X. 50t
+fr_amx_50_surblinde_2;Medium Tank
+
+fr_amx_50_1950_shop;A.M.X. 50t (T.O. 90/930)
+fr_amx_50_1950_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
+Char moyen de 50 tonnes A.M.X. avec tourelle T.O. 90/930"
+fr_amx_50_1950_1;A.M.X. 50t
+fr_amx_50_1950_2;Medium Tank
+
+fr_amx_50_foch_shop;C.A. 120
+fr_amx_50_foch_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
+Canon d'assaut de 120 mm"
+fr_amx_50_foch_1;C.A. 120
+fr_amx_50_foch_2;SPG
+
+fr_somua_sm_shop;S.O.M.U.A. 50t
+fr_somua_sm_0;"<color=#81c3fc>Société d'outillage mécanique et d'usinage d'artillerie SM</color>
+Char moyen de 50 tonnes S.O.M.U.A. avec tourelle T.O. 100"
+fr_somua_sm_1;S.O.M.U.A. 50t
+fr_somua_sm_2;Medium Tank
 
 fr_marder_clovis_shop;☨ CLOVIS
 fr_marder_clovis_0;<color=#81c3fc>☨ Thyssen Henschel CLOVIS, FL 20, 105 mm</color>
@@ -18742,46 +18991,84 @@ fr_marder_clovis_1;☨ CLOVIS
 fr_marder_clovis_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
-fr_mars_15_shop;MARS 15
-fr_mars_15_0;<color=#81c3fc>MARS 15</color>
+fr_mars_15_shop;MARS 15 (TS 90)
+fr_mars_15_0;"<color=#81c3fc>Creusot-Loire Industrie MARS 15</color>
+<color=#ff8c80>Véhicule blindé modulaire</color>
+<color=#adadad>(tourelle TS 90)</color>"
 fr_mars_15_1;MARS 15
 fr_mars_15_2;Light Tank
 
+fr_sk105_a2_shop;JaPzKA2
+fr_sk105_a2_0;"<color=#81c3fc>Steyr-Werke Typ 4KH-7FA1-JT1/105 <color=@commonTextColor>|</color> SK 105 A2</color>
+Jagdpanzer Kürassier A2"
+fr_sk105_a2_1;JaPzKA2
+fr_sk105_a2_2;Tank Destroyer
+
+fr_vbci_shop;VBCI VCI
+fr_vbci_0;"<color=#81c3fc>Nexter Systems</color>
+Véhicule blindé de combat d'infanterie, véhicule de combat d'infanterie"
+fr_vbci_1;VBCI VCI
+fr_vbci_2;IFV
+
 fr_vbci2_mct30_shop;VBCI MK2 (MCT-30)
-fr_vbci2_mct30_0;"Véhicule Blindé de Combat d'Infanterie MK2 ""Al-Wajbah""
-<color=#adadad>(MCT-30)</color>"
+fr_vbci2_mct30_0;"<color=#81c3fc>KNDS France Véhicule blindé de combat d'infanterie MK2 ""Al-Wajbah""</color>
+<color=#adadad>(PROTECTOR Medium Caliber Turret MCT-30)</color>"
 fr_vbci2_mct30_1;VBCI MK2
 fr_vbci2_mct30_2;IFV
 
-fr_leopard_1a5be_shop;Leopard 1 A5 BE
+fr_leopard_1a5be_shop;▄ Leopard 1 A5 BE
 fr_leopard_1a5be_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
-Leopard 1 A5 BE"
-fr_leopard_1a5be_1;Leopard 1 A5
+▄ Leopard 1 A5 BE"
+fr_leopard_1a5be_1;▄ Leopard 1 A5
 fr_leopard_1a5be_2;MBT
 
-fr_amx_30_ACRA_shop;AMX 30 (T 142)
-fr_amx_30_ACRA_0;"AMX 30
-<color=#adadad>(prototype tourelle T 142)</color>"
-fr_amx_30_ACRA_1;AMX 30
-fr_amx_30_ACRA_2;MBT
+fr_amx_32_105_shop;AMX 32 (P1)
+fr_amx_32_105_0;"<color=#81c3fc>Groupement industriel des armements terrestres</color>
+Engin principal de combat AMX 32
+<color=#adadad>(P1)</color>"
+fr_amx_32_105_1;AMX 32
+fr_amx_32_105_2;MBT
+
+fr_amx_32_shop;AMX 32 (P2)
+fr_amx_32_0;"<color=#81c3fc>Groupement industriel des armements terrestres</color>
+Engin principal de combat AMX 32
+<color=#adadad>(P2)</color>"
+fr_amx_32_1;AMX 32
+fr_amx_32_2;MBT
+
+fr_vab_santal_shop;VDAA SANTAL
+fr_vab_santal_0;"<color=#81c3fc>Renault Véhicules Industriels <color=@commonTextColor>/</color> Hispano-Suiza</color>
+Véhicule de défense anti-aérienne, systeme anti-aerien autonome léger"
+fr_vab_santal_1;VDAA SANTAL
+fr_vab_santal_2;SPAAM
 
 fr_vcac_mephisto_shop;VCAC MEPHISTO
-fr_vcac_mephisto_0;"Véhicule de Combat Anti-Char, Module Élévateur Panoramique HOT
-Installé sur Tourelle Orientable"
+fr_vcac_mephisto_0;"<color=#81c3fc>Renault Véhicules Industriels</color>
+Véhicule de combat anti-char, module élévateur panoramique HOT
+installé sur tourelle orientable"
 fr_vcac_mephisto_1;VCAC MEPHISTO
-fr_vcac_mephisto_2;SPG
+fr_vcac_mephisto_2;ATMC
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
-fr_vextra_105_shop;Vextra 105
-fr_vextra_105_0;<color=#81c3fc>GIAT Industries Vextra 105</color>
+fr_vextra_105_shop;Vextra 105 (Sep 1997)
+fr_vextra_105_0;"<color=#81c3fc>GIAT Industries Véhicule d'experimentation de transmission 105</color>
+<color=#ff8c80>Véhicule blindé modulaire</color>
+<color=#adadad>(September 1997)</color>"
 fr_vextra_105_1;Vextra 105
 fr_vextra_105_2;Light Tank
 
 fr_msc_shop;MSC
 fr_msc_0;"<color=#81c3fc>GIAT Industries</color>
-Mulet Système Complet"
+Mulet système complet"
 fr_msc_1;MSC
 fr_msc_2;MBT
+
+fr_amx_40_shop;AMX 40 (P4)
+fr_amx_40_0;"<color=#81c3fc>Groupement industriel des armements terrestres</color>
+Engin principal de combat AMX 40
+<color=#adadad>(P4)</color>"
+fr_amx_40_1;AMX 40
+fr_amx_40_2;MBT
 
 fr_leopard_2a4nl_shop;◘ Leopard 2A4 NL
 fr_leopard_2a4nl_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
@@ -18809,7 +19096,7 @@ fr_leopard_2a6nl_1;◘ Leopard 2A6 NL
 fr_leopard_2a6nl_2;MBT
 
 fr_jaguar_ebrc_shop;EBRC Jaguar
-fr_jaguar_ebrc_0;"<color=#81c3fc>Groupement Momentané d'Entreprises Engin Blindé Multi Rôles</color>
+fr_jaguar_ebrc_0;"<color=#81c3fc>Groupement momentané d'entreprises engin blindé multi rôles</color>
 Engin blindé de reconnaissance et de combat Jaguar"
 fr_jaguar_ebrc_1;EBRC Jaguar
 fr_jaguar_ebrc_2;CRV
@@ -18822,25 +19109,29 @@ fr_cv_9035_nl_2;IFV
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 fr_leclerc_s1_shop;Leclerc S1 RT5
-fr_leclerc_s1_0;"Leclerc série 1 retrofit tranche 5"
+fr_leclerc_s1_0;"<color=#81c3fc>GIAT Industries</color>
+Char Leclerc série 1 retrofit tranche 5"
 fr_leclerc_s1_1;Leclerc S1
 fr_leclerc_s1_2;MBT
 
 fr_leclerc_s2_shop;Leclerc S2 T9
-fr_leclerc_s2_0;"Leclerc série 2 tranche 9"
+fr_leclerc_s2_0;"<color=#81c3fc>GIAT Industries</color>
+Char Leclerc série 2 tranche 9"
 fr_leclerc_s2_1;Leclerc S2
 fr_leclerc_s2_2;MBT
 
 fr_leclerc_sxxi_shop;Leclerc SXXI T11
-fr_leclerc_sxxi_0;"Leclerc série XXI tranche 11"
+fr_leclerc_sxxi_0;"<color=#81c3fc>Nexter Systems</color>
+Char Leclerc série XXI tranche 11"
 fr_leclerc_sxxi_1;Leclerc SXXI
 fr_leclerc_sxxi_2;MBT
 
 fr_leclerc_azur_shop;Leclerc S2 T9 (AZUR P1)
-fr_leclerc_azur_0;"Leclerc série 2 tranche 9
-<color=#adadad>(Action en Zone Urbaine prototype 1)</color>"
+fr_leclerc_azur_0;"<color=#81c3fc>Nexter Systems</color>
+Char Leclerc série 2 tranche 9
+<color=#adadad>(Action en zone urbaine prototype 1)</color>"
 fr_leclerc_azur_1;Leclerc S2
-fr_leclerc_azur;MBT
+fr_leclerc_azur_2;MBT
 
 fr_crotale_ng_shop;☨ ito 90M ohjusvaunu
 fr_crotale_ng_0;"<color=#5cae63>Ps. 477</color>
@@ -18848,18 +19139,18 @@ fr_crotale_ng_0;"<color=#5cae63>Ps. 477</color>
 fr_crotale_ng_1;☨ ito 90M ohjusvaunu
 fr_crotale_ng_2;SPAA
 
-fr_samp_t_launcher_shop;☨ SAMP/T (MLT)
-fr_samp_t_launcher_0;"<color=#81c3fc>Eurosam</color>
-☨ Sol-Air Moyenne Portée/Terrestre ""Mamba""
-<color=#adadad>(Module de Lancement Terrestre)</color>"
-fr_samp_t_launcher_1;☨ SAMP/T (MLT)
+fr_samp_t_launcher_shop;☨ Kerax 460 (SAMP/T Mamba) (MLT)
+fr_samp_t_launcher_0;"<color=#81c3fc>☨ Renault Trucks, Bourg-en-Bresse Kerax 460 8x4 Euro 5 <color=@commonTextColor>/</color> Eurosam</color>
+<color=#adadad>(Sol-air moyenne portée/terrestre Mamba)
+(module de lancement terrestre)</color>"
+fr_samp_t_launcher_1;☨ Kerax 460 (SAMP/T Mamba) (MLT)
 fr_samp_t_launcher_2;SPAAM
 
-fr_samp_t_fcs_shop;☨ SAMP/T (MRI)
-fr_samp_t_fcs_0;"<color=#81c3fc>Eurosam</color>
-☨ Sol-Air Moyenne Portée/Terrestre ""Mamba""
-<color=#adadad>(Module Radar et IFF)</color>"
-fr_samp_t_fcs_1;☨ SAMP/T (MRI)
+fr_samp_t_fcs_shop;☨ Kerax 460 (SAMP/T Mamba) (MRI)
+fr_samp_t_fcs_0;"<color=#81c3fc>☨ Renault Trucks, Bourg-en-Bresse Kerax 460 8x4 Euro 5 <color=@commonTextColor>/</color> Eurosam</color>
+<color=#adadad>(Sol-air moyenne portée/terrestre Mamba)
+(module radar et IFF)</color>"
+fr_samp_t_fcs_1;☨ Kerax 460 (SAMP/T Mamba) (MRI)
 fr_samp_t_fcs_2;Radar
 
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
@@ -21026,10 +21317,6 @@ germ_raketenjagdpanzer_2_hot_shop;RakJPz 2 (HOT)
 germ_raketenjagdpanzer_2_hot_0;Raketenjagdpanzer 2
 germ_raketenjagdpanzer_2_hot_1;RakJPz 2 (HOT)
 germ_raketenjagdpanzer_2_hot_2;SPG
-germ_sk105_a2_shop;⛯ SK105-A2
-germ_sk105_a2_0;⛯ Cazacarros, Kürassier 4KH6FA-SK105-A2
-germ_sk105_a2_1;⛯ SK105-A2
-germ_sk105_a2_2;Light Tank
 germ_kanonenjagdpanzer_shop;JPz 4-5
 germ_kanonenjagdpanzer_0;Hanomag-Henschel JPz 4-5
 germ_kanonenjagdpanzer_1;JPz 4-5
@@ -21126,202 +21413,10 @@ germ_pzsflk40_sturer_emil_shop;Sturer Emil
 germ_pzsflk40_sturer_emil_0;"Pz.Sfl. für 12,8 cm K40 ""Sturer Emil"""
 germ_pzsflk40_sturer_emil_1;Sturer Emil
 germ_pzsflk40_sturer_emil_2;SPG
-fr_m4a3_105_sherman_shop;☨ M4A3 (105) HVSS
-fr_m4a3_105_sherman_0;☨ Char moyen M4A3 (105) HVSS Sherman
-fr_m4a3_105_sherman_1;☨ M4A3 (105)
-fr_m4a3_105_sherman_2;Medium Tank
-fr_m3a3_stuart_shop;☨ M3A3
-fr_m3a3_stuart_0;☨ Char léger M3A3 Stuart
-fr_m3a3_stuart_1;☨ M3A3
-fr_m3a3_stuart_2;Light Tank
-fr_m26_pershing_shop;☨ M26
-fr_m26_pershing_0;☨ Char moyen M26
-fr_m26_pershing_1;☨ M26
-fr_m26_pershing_2;Medium Tank
-fr_m46_patton_shop;☨ M46
-fr_m46_patton_0;☨ Char moyen M46
-fr_m46_patton_1;☨ M46
-fr_m46_patton_2;Medium Tank
-fr_amx_10p_shop;AMX 10P
-fr_amx_10p_0;Véhicule de combat d'infanterie AMX 10P
-fr_amx_10p_1;AMX 10P
-fr_amx_10p_2;SPAA
-fr_m4a4_sherman_shop;☨ M4A4
-fr_m4a4_sherman_0;☨ Char moyen M4A4 Sherman
-fr_m4a4_sherman_1;☨ M4A4
-fr_m4a4_sherman_2;Medium Tank
-fr_m4a1_sherman_shop;☨ M4A1
-fr_m4a1_sherman_0;☨ Char moyen M4A1 Sherman
-fr_m4a1_sherman_1;☨ M4A1
-fr_m4a1_sherman_2;Medium Tank
-fr_crusader_mk_2_shop;☨ Crusader Mk. II
-fr_crusader_mk_2_0;☨ Char de cavalerie Crusader Mk. II
-fr_crusader_mk_2_1;☨ Crusader Mk. II
-fr_crusader_mk_2_2;Cruiser tank
-fr_fcm_36_shop;FCM 36
-fr_fcm_36_0;Char léger d'accompagnement FCM 36
-fr_fcm_36_1;FCM 36
-fr_fcm_36_2;Light Tank
-fr_vbci_shop;VBCI VCI
-fr_vbci_0;Véhicule Blindé de Combat d'Infanterie, Véhicule de Combat d'Infanterie
-fr_vbci_1;VBCI VCI
-fr_vbci_2;IFV
-fr_amx_10rc_shop;AMX 10RC
-fr_amx_10rc_0;AMX 10RC
-fr_amx_10rc_1;AMX 10RC
-fr_amx_10rc_2;Light Tank
-fr_vab_santal_shop;VDAA SANTAL
-fr_vab_santal_0;Véhicule de Défense Anti-Aérienne, Systeme Anti-aerien Autonome Leger
-fr_vab_santal_1;SANTAL
-fr_vab_santal_2;SPAA
-fr_sk105_a2_shop;SK105-A2
-fr_sk105_a2_0;Cazacarros, Kürassier 4KH6FA-SK105-A2
-fr_sk105_a2_1;SK105-A2
-fr_sk105_a2_2;Light Tank
-fr_amx_30_auf_1_shop;AMX 30 Au F1 TM
-fr_amx_30_auf_1_0;Canon de 155mm Automoteur Modèle F1 TM sur châssis AMX 30
-fr_amx_30_auf_1_1;AMX 30 Au F1
-fr_amx_30_auf_1_2;SPG
-fr_amx_10m_acra_shop;AMX 10M
-fr_amx_10m_acra_0;Chasseur de char AMX 10M
-fr_amx_10m_acra_1;AMX 10M
-fr_amx_10m_acra_2;SPG
-fr_amx_30_super_shop;Super AMX 30
-fr_amx_30_super_0;Engin principal de combat Super AMX 30
-fr_amx_30_super_1;AMX 30
-fr_amx_30_super_2;MBT
 germ_flarakpz_1_shop;FlaRakPz 1 Roland
 germ_flarakpz_1_0;Flugabwehrraketenpanzer 1 Roland
 germ_flarakpz_1_1;FlaRakPz 1 Roland
 germ_flarakpz_1_2;SPAA
-fr_amx_30_roland_shop;AMX 30R
-fr_amx_30_roland_0;Engin principal de antiaérien AMX 30R
-fr_amx_30_roland_1;AMX 30R
-fr_amx_30_roland_2;SPAA
-fr_amx_30_shop;AMX 30B (1965)
-fr_amx_30_0;Engin principal de combat AMX 30B modèle 1965
-fr_amx_30_1;AMX 30B
-fr_amx_30_2;MBT
-fr_amx_30_1972_shop;AMX 30B (1972)
-fr_amx_30_1972_0;Engin principal de combat AMX 30B modèle 1972
-fr_amx_30_1972_1;AMX 30B
-fr_amx_30_1972_2;MBT
-fr_amx_30_dca_shop;AMX 30 S DCA
-fr_amx_30_dca_0;AMX 30 S DCA
-fr_amx_30_dca_1;AMX 30 S DCA
-fr_amx_30_dca_2;SPAA
-fr_amx_13_dca_40_shop;AMX 13 DCA 40
-fr_amx_13_dca_40_0;AMX 13 DCA 40
-fr_amx_13_dca_40_1;AMX 13 DCA 40
-fr_amx_13_dca_40_2;SPAA
-fr_amx_30_b2_shop;AMX 30B2
-fr_amx_30_b2_0;Engin principal de combat AMX 30B2
-fr_amx_30_b2_1;AMX 30B2
-fr_amx_30_b2_2;MBT
-fr_amx_30_b2_brenus_shop;AMX 30B2 BRENUS
-fr_amx_30_b2_brenus_0;Engin principal de combat AMX 30B2 BRENUS
-fr_amx_30_b2_brenus_1;AMX 30B2
-fr_amx_30_b2_brenus_2;MBT
-fr_amx_50_1950_shop;AMX 50 (TO 90/930)
-fr_amx_50_1950_0;Char moyen AMX 50 avec tourelle TO 90/930
-fr_amx_50_1950_1;AMX 50
-fr_amx_50_1950_2;Medium Tank
-fr_somua_sm_shop;SM
-fr_somua_sm_0;Char lourd Somua SM
-fr_somua_sm_1;SM
-fr_somua_sm_2;Heavy Tank
-fr_amx_50_shop;AMX 50 (TOA 100)
-fr_amx_50_0;Char moyen AMX 50 avec tourelle TOA 100
-fr_amx_50_1;AMX 50
-fr_amx_50_2;Medium Tank
-fr_amx_m4_shop;AMX M 4
-fr_amx_m4_0;AMX M 4
-fr_amx_m4_1;AMX M 4
-fr_amx_m4_2;Medium Tank
-fr_amx_50_surblinde_shop;AMX 50 Surblindé
-fr_amx_50_surblinde_0;AMX 50 Surblindé
-fr_amx_50_surblinde_1;AMX 50 Surblindé
-fr_amx_50_surblinde_2;Heavy Tank
-fr_amx_50_surbaisse_shop;AMX 50 Surbaissé
-fr_amx_50_surbaisse_0;AMX 50 Surbaissé
-fr_amx_50_surbaisse_1;AMX 50 Surbaissé
-fr_amx_50_surbaisse_2;Heavy Tank
-fr_amx_50_foch_shop;AMX 50 Foch
-fr_amx_50_foch_0;Canon automoteur AMX 50 Foch
-fr_amx_50_foch_1;AMX 50 Foch
-fr_amx_50_foch_2;SPG
-fr_lorraine_155_shop;Lorraine 155 Mle. 50
-fr_lorraine_155_0;Lorraine automoteur de 155mm modèle 1950
-fr_lorraine_155_1;Lorraine 155 Mle. 50
-fr_lorraine_155_2;SPG
-fr_lorraine_100_shop;CA Lorraine
-fr_lorraine_100_0;Canon d'assaut Lorraine de 100 mm
-fr_lorraine_100_1;CA Lorraine
-fr_lorraine_100_2;SPG
-fr_lorraine_40t_shop;Lorraine 40t
-fr_lorraine_40t_0;Char de bataille de 40 tonnes
-fr_lorraine_40t_1;Lorraine 40t
-fr_lorraine_40t_2;Medium Tank
-fr_citroen_kegresse_p4t_shop;P.7.T.
-fr_citroen_kegresse_p4t_0;Citroën-Kégresse-Hinstin P.7.T.
-fr_citroen_kegresse_p4t_1;P.7.T.
-fr_citroen_kegresse_p4t_2;SPAA
-fr_amx_vtt_dca_shop;AMX VCI (M45)
-fr_amx_vtt_dca_0;AMX Véhicule de Combat d'Infanterie avec tourelle M45
-fr_amx_vtt_dca_1;AMX VCI (M45)
-fr_amx_vtt_dca_2;SPAA
-fr_somua_s35_shop;S 35
-fr_somua_s35_0;Char de cavalerie SOMUA 1935 S
-fr_somua_s35_1;S 35
-fr_somua_s35_2;Medium Tank
-fr_hotchkiss_h35_shop;H 35
-fr_hotchkiss_h35_0;Char léger Hotchkiss modèle 1935 H
-fr_hotchkiss_h35_1;H 35
-fr_hotchkiss_h35_2;Light Tank
-fr_hotchkiss_h39_shop;H 39
-fr_hotchkiss_h39_0;Char léger Hotchkiss modèle 1935 H modifié 39
-fr_hotchkiss_h39_1;H 39
-fr_hotchkiss_h39_2;Light Tank
-fr_somua_sau40_shop;SAu 40
-fr_somua_sau40_0;Canon automoteur de 75 mm SAu 40
-fr_somua_sau40_1;SAu 40
-fr_somua_sau40_2;SPG
-fr_m4a3e2_sherman_jumbo_shop;☨ M4A3E2
-fr_m4a3e2_sherman_jumbo_0;☨ Char d'assaut M4A3E2 (75) W
-fr_m4a3e2_sherman_jumbo_1;☨ M4A3E2
-fr_m4a3e2_sherman_jumbo_2;Assault Tank
-fr_amd_35_shop;AMD 35
-fr_amd_35_0;Automitrailleuse de découverte AMD 35
-fr_amd_35_1;AMD 35
-fr_amd_35_2;Light Tank
-fr_arl_44_shop;ARL 44
-fr_arl_44_0;ARL 44
-fr_arl_44_1;ARL 44
-fr_arl_44_2;SPG
-fr_lorraine_37l_shop;CDC 37L
-fr_lorraine_37l_0;Chasseur de Chars Lorraine 37
-fr_lorraine_37l_1;CDC 37L
-fr_lorraine_37l_2;SPG
-fr_amr_35_zt3_shop;AMR 35 ZT 3
-fr_amr_35_zt3_0;Automitrailleuse de Reconnaissance AMR 35 Z T3
-fr_amr_35_zt3_1;AMR 35 ZT 3
-fr_amr_35_zt3_2;SPG
-fr_renault_d2_shop;D2
-fr_renault_d2_0;Char moyen D2
-fr_renault_d2_1;D2
-fr_renault_d2_2;Medium Tank
-fr_amx_13_90_shop;AMX 13-90
-fr_amx_13_90_0;AMX 13-90
-fr_amx_13_90_1;AMX 13-90
-fr_amx_13_90_2;Light Tank
-fr_amx_13_75_shop;AMX 13
-fr_amx_13_75_0;AMX 13
-fr_amx_13_75_1;AMX 13
-fr_amx_13_75_2;Light Tank
-fr_amc_35_shop;AMC 35
-fr_amc_35_0;Automitrailleuse de combat Renault AMC 35
-fr_amc_35_1;AMC 35
-fr_amc_35_2;Light Tank
 a_20g_30_ussr_shop;▂ A-20G-25-DO
 a_20g_30_ussr_0;▂ A-20G-25-DO Khevok
 a_20g_30_ussr_1;▂ A-20G
@@ -21470,14 +21565,6 @@ o3u_1_shop;O3U-1
 o3u_1_0;O3U-1 Corsair
 o3u_1_1;O3U-1
 o3u_1_2;O3U
-osprey_mk4_shop;Osprey Mk. IV
-osprey_mk4_0;Osprey Mk. IV
-osprey_mk4_1;Osprey Mk. IV
-osprey_mk4_2;Osprey
-walrus_mk1_shop;Walrus Mk. I
-walrus_mk1_0;Walrus Mk. I
-walrus_mk1_1;Walrus Mk. I
-walrus_mk1_2;Walrus
 soc_1_shop;SOC-1
 soc_1_0;SOC-1 Seagull
 soc_1_1;SOC-1
@@ -22146,10 +22233,6 @@ germ_bmp_1_ddr_shop;◊ SPz BMP-1P
 germ_bmp_1_ddr_0;◊ Schützenpanzer BMP-1P SP-4
 germ_bmp_1_ddr_1;◊ SPz BMP-1P
 germ_bmp_1_ddr_2;Light Tank
-ussr_m53_59_shop;PLDvK vz. 53/59
-ussr_m53_59_0;"Praga PLDvK vz. 53/59 ""Ještěrka"""
-ussr_m53_59_1;vz. 53/59
-ussr_m53_59_2;SPAA
 ussr_btr_80a_shop;BTR-80A
 ussr_btr_80a_0;BTR-80A
 ussr_btr_80a_1;BTR-80
@@ -22342,18 +22425,6 @@ md_454_mystere_4a_shop;Mystère IV A
 md_454_mystere_4a_0;M.D.454 Mystère IV A
 md_454_mystere_4a_1;Mystère IV A
 md_454_mystere_4a_2;Mystère IV
-fr_amx_32_shop;AMX 32 P2
-fr_amx_32_0;AMX 32 P2
-fr_amx_32_1;AMX 32
-fr_amx_32_2;MBT
-fr_amx_32_105_shop;AMX 32 P1
-fr_amx_32_105_0;AMX 32 P1
-fr_amx_32_105_1;AMX 32
-fr_amx_32_105_2;MBT
-fr_amx_40_shop;AMX 40 P4
-fr_amx_40_0;AMX 40 P4
-fr_amx_40_1;AMX 40
-fr_amx_40_2;MBT
 germ_mkpz_super_m48_shop;◄ Super M 48
 germ_mkpz_super_m48_0;◄ Super M 48
 germ_mkpz_super_m48_1;◄ M 48
@@ -22366,22 +22437,6 @@ ussr_2s38_shop;2S38
 ussr_2s38_0;"2S38 ""Dyerivacziâ-PVO"""
 ussr_2s38_1;2S38
 ussr_2s38_2;IFV
-fr_bat_chat_25t_shop;Char 25t
-fr_bat_chat_25t_0;Batignolles-Châtillon Char de 25 tonnes
-fr_bat_chat_25t_1;Char 25t
-fr_bat_chat_25t_2;Light Tank
-germ_thyssen_henschel_tam_2ip_shop;TAM 2IP
-germ_thyssen_henschel_tam_2ip_0;Tanque Argentino Mediano 2, Improved Protection
-germ_thyssen_henschel_tam_2ip_1;TAM 2IP
-germ_thyssen_henschel_tam_2ip_2;Light Tank
-germ_thyssen_henschel_tam_2c_shop;TAM 2C
-germ_thyssen_henschel_tam_2c_0;Tanque Argentino Mediano 2C
-germ_thyssen_henschel_tam_2c_1;TAM 2C
-germ_thyssen_henschel_tam_2c_2;Light Tank
-germ_thyssen_henschel_tam_shop;TAM
-germ_thyssen_henschel_tam_0;Tanque Argentino Mediano
-germ_thyssen_henschel_tam_1;TAM
-germ_thyssen_henschel_tam_2;Light Tank
 it_vcc_80_hitfist_60_shop;VCC-80 Dardo (60/70)
 it_vcc_80_hitfist_60_0;Veicolo Cingolato da Combattimento 80 Dardo da 60/70
 it_vcc_80_hitfist_60_1;Dardo
@@ -22470,10 +22525,6 @@ it_semovente_m43_75_34_shop;75/34 M. 43
 it_semovente_m43_75_34_0;Semovente da 75/34 su Scafo M. 43
 it_semovente_m43_75_34_1;75/34 M. 43
 it_semovente_m43_75_34_2;SPG
-it_m44_shop;⛨ 155/23 M44
-it_m44_0;⛨ Semovente da 155/23 M44
-it_m44_1;⛨ 155/23 M44
-it_m44_2;SPH
 it_m36b1_shop;⛨ 90/50 M36B1
 it_m36b1_0;⛨ Semovente da 90/50 M36B1
 it_m36b1_1;⛨ M36B1
@@ -22706,10 +22757,6 @@ it_p_40_shop;P. 40
 it_p_40_0;Carro Armato Pesante Mod. 40
 it_p_40_1;P. 40
 it_p_40_2;Medium Tank
-germ_m44_shop;◄ PzH M 44
-germ_m44_0;◄ Panzerhaubitze M 44
-germ_m44_1;◄ PzH M 44
-germ_m44_2;SPH
 germ_m109g_shop;◄ PzH M 109 G
 germ_m109g_0;◄ Panzerhaubitze M 109 G
 germ_m109g_1;◄ M 109

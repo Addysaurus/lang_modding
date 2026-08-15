@@ -1744,14 +1744,18 @@ shop/group/f_4e_f_15_iaf_group; F-4E Kurnas 2000 / 15A-18
 shop/group/f_16d_iaf_group; F-16D-40 / I
 
 //NON-NATIONAL VEHICLES
-ucav_recon_micro_shop;ZALA 421-16EM
-ucav_recon_micro_0;ZALA 421-16EM
-ucav_recon_micro_1;ZALA 421-16
+ucav_recon_micro_shop;ZALA 421-16EM (Z-16FM/Bk)
+ucav_recon_micro_0;"<color=#81c3fc>ZALA Aero Group 421-16EM</color>
+<color=#adadad>(Z-16FM/Bk)</color>"
+ucav_recon_micro_1;ZALA 421-16EM
 ucav_recon_micro_2;ZALA 421
-ucav_recon_micro_flir_shop;ZALA 421-16EM (Z-16IK35)
-ucav_recon_micro_flir_0;ZALA 421-16EM (Z-16IK35)
-ucav_recon_micro_flir_1;ZALA 421-16
+
+ucav_recon_micro_flir_shop;ZALA 421-16EM (Z-16FM/Bk)
+ucav_recon_micro_flir_0;"<color=#81c3fc>ZALA Aero Group 421-16EM</color>
+<color=#adadad>(Z-16FM/Bk)</color>"
+ucav_recon_micro_flir_1;ZALA 421-16EM
 ucav_recon_micro_flir_2;ZALA 421
+
 us_m551_football_shop;
 us_m551_football_0;
 us_m551_football_1;
@@ -2968,7 +2972,7 @@ a-26c_2;A-26
 a-26c-45-dt_shop;B-26C-45-DT (BN) (17th B.G.)
 a-26c-45-dt_0;"B-26C-45-DT Invader
 <color=#adadad>(Bombardier Nose)</color>
-<color=@currencyGoldColor>17th Bomb Group/color>"
+<color=@currencyGoldColor>17th Bomb Group</color>"
 a-26c-45-dt_1;B-26C
 a-26c-45-dt_2;B-26
 
@@ -8018,7 +8022,7 @@ i_180_event04_2;I-180 (defective)
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 yak-3_eremin_shop;Yerëmin's Âk-3
 yak-3_eremin_0;"Âk-3
-<color=@currencyGoldColor>Boris Nikolayevič Yerëmin's/color>"
+<color=@currencyGoldColor>Boris Nikolayevič Yerëmin's</color>"
 yak-3_eremin_1;Âk-3
 yak-3_eremin_2;Âk-3
 
@@ -8499,14 +8503,14 @@ mi_24v_2;Mi-24
 mi_35m_shop;Mi-24VM
 mi_35m_0;"<color=#81c3fc>Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol»
 imyeni B. N. Slûsarâ</color>
-Vyertolyet Mi-24VM</color>"
+Vyertolyet Mi-24VM"
 mi_35m_1;Mi-24VM
 mi_35m_2;Mi-24
 
 mi_35m_killstreak_shop;Mi-24VM
 mi_35m_killstreak_0;"<color=#81c3fc>Rostovskij vyertolëtnyj proizvodstvyennyj komplyeks «Rostvyertol»
 imyeni B. N. Slûsarâ</color>
-Vyertolyet Mi-24VM</color>"
+Vyertolyet Mi-24VM"
 mi_35m_killstreak_1;Mi-24VM
 mi_35m_killstreak_2;Mi-24
 
@@ -9131,8 +9135,9 @@ ussr_m53_59_1;PLDvK vz. 53/59
 ussr_m53_59_2;SPAAG
 
 ussr_type_62_shop;▂ ZTQ62
-ussr_type_62_0;"<color=#81c3fc>Hā'ěrbīn Dì Yī Jīxiè Jítuán</color>
+ussr_type_62_0;"<color=#81c3fc>Guóyíng Hā'ěrbīn Dì Yī Jīqì Zhìzào Chang (Guóyíng Dì 674 Chang)</color>
 <color=#5cae63>WZ131</color>
+<color=#919191>1962 Nián Shì Qīngxíng Tankè</color>
 ▂ ZTQ1962 Shì Qīngxíng Tankè"
 ussr_type_62_1;▂ ZTQ62
 ussr_type_62_2;Light Tank
@@ -10114,7 +10119,8 @@ ussr_battleship_marat_1;Marat
 ussr_battleship_marat_2;Battleship
 
 ussr_battleship_oktyabrskaya_revolutsiya_shop;Okt'abr'skaya ryevolyutsiya
-ussr_battleship_oktyabrskaya_revolutsiya_0;"<color=#81c3fc>Admiralt'ejsk'iye v'erf'i <color=@commonTextColor>/</color> Sudostroit'el'nyj zavot № 189 im. S. Ordzhonik'idz'e</color>
+ussr_battleship_oktyabrskaya_revolutsiya_0;"<color=#81c3fc>Admiralt'ejsk'iye v'erf'i <color=@commonTextColor>/</color> Sudostroit'el'nyj zavot № 189 im. S.
+Ordzhonik'idz'e</color>
 <color=#fffa62>Linyejnyj korabl' t'ip S'evastopol'</color>
 <color=#919191>Gangut</color>
 Okt'abr'skaya ryevolyutsiya
@@ -10428,15 +10434,15 @@ spitfire_mk5b_float_shop;Spitfire F. Mk. Vb (W3760)
 spitfire_mk5b_float_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 355 <color=@commonTextColor>/</color> Folland Aircraft
 Company</color>
 Spitfire F. Mk. Vb
-<color=#adadad>(October, 1942)</color>
+<color=#adadad>(October 1942)</color>
 <color=@currencyGoldColor>W3760</color>"
 spitfire_mk5b_float_1;Spitfire F. Mk. V
 spitfire_mk5b_float_2;Spitfire
 
-spitfire_ix_early_shop;Spitfire F. Mk. IX (Aug, 1942)
+spitfire_ix_early_shop;Spitfire F. Mk. IX (Aug 1942)
 spitfire_ix_early_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 361</color>
 Spitfire F. Mk. IX
-<color=#adadad>(August, 1942)</color>"
+<color=#adadad>(August 1942)</color>"
 spitfire_ix_early_1;Spitfire F. Mk. IX
 spitfire_ix_early_2;Spitfire
 
@@ -14702,21 +14708,24 @@ jp_oplot_t_2;MBT
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 jp_t14_class_shop;Dai 538 Gō
 jp_t14_class_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
+<color=#5cae63>T-14</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei</color>
 Dai 538 Gō"
 jp_t14_class_1;Dai 538 Gō
 jp_t14_class_2;Motor Torpedo Boat
 
 jp_t14_class_mod02_shop;Dai 1101 Gō
 jp_t14_class_mod02_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
+<color=#5cae63>T-14</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei</color>
 Dai 1101 Gō"
 jp_t14_class_mod02_1;Dai 1101 Gō
 jp_t14_class_mod02_2;Motor Torpedo Boat
 
 jp_t14_class_mod01_shop;Dai 871 Gō
 jp_t14_class_mod01_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei (T-14)</color>
+<color=#5cae63>T-14</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 538 Gō Gata Gyorai Tei</color>
 Dai 871 Gō"
 jp_t14_class_mod01_1;Dai 871 Gō
 jp_t14_class_mod01_2;Motor Torpedo Boat
@@ -14729,7 +14738,8 @@ jp_type5_escortboat_2;Escort Boat
 
 jp_type_t1_1941_shop;Dai 1 Gō
 jp_type_t1_1941_0;"<color=#81c3fc>Yokohama Yotto</color>
-<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 1 Gō Gata Gyorai Tei (T-1)</color>
+<color=#5cae63>T-1</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 1 Gō Gata Gyorai Tei</color>
 Dai 1 Gō"
 jp_type_t1_1941_1;Dai 1 Gō
 jp_type_t1_1941_2;Motor Torpedo Boat
@@ -14776,7 +14786,8 @@ jp_sehatei_mod1_2;Armored Boat
 
 jp_type38_1944_shop;Dai 241 Gō
 jp_type38_1944_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 241 Gō Gata Gyorai Tei (T-38)</color>
+<color=#5cae63>T-38</color>
+<color=#fffa62>Otsu Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 241 Gō Gata Gyorai Tei</color>
 Dai 241 Gō"
 jp_type38_1944_1;Dai 241 Gō
 jp_type38_1944_2;Motor Torpedo Boat
@@ -14790,14 +14801,16 @@ jp_type1_pt2_2;Motor Torpedo Boat
 
 jp_kusen_tei_13_1942_shop;Dai 18 Gō
 jp_kusen_tei_13_1942_0;"<color=#81c3fc>Tsurumi Zōsensho</color>
-<color=#fffa62>Dai 13 Gō Gata Kusen Tei (K-8)</color>
+<color=#5cae63>K-8</color>
+<color=#fffa62>Dai 13 Gō Gata Kusen Tei</color>
 Dai 18 Gō"
 jp_kusen_tei_13_1942_1;Dai 18 Gō
 jp_kusen_tei_13_1942_2;Submarine Chaser
 
 jp_kusen_tei_13_1944_shop;Dai 18 Gō (1944)
 jp_kusen_tei_13_1944_0;"<color=#81c3fc>Tsurumi Zōsensho</color>
-<color=#fffa62>Dai 13 Gō Gata Kusen Tei (K-8)</color>
+<color=#5cae63>K-8</color>
+<color=#fffa62>Dai 13 Gō Gata Kusen Tei</color>
 Dai 18 Gō (1944)"
 jp_kusen_tei_13_1944_1;Dai 18 Gō
 jp_kusen_tei_13_1944_2;Submarine Chaser
@@ -14805,35 +14818,40 @@ jp_kusen_tei_13_1944_2;Submarine Chaser
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 jp_t51a_shop;Dai 10 Gō
 jp_t51a_0;"<color=#81c3fc>Yokohama Yotto</color>
-<color=#fffa62>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 10 Gō Gata Gyorai Tei (T-51A)</color>
+<color=#5cae63>T-51A</color>
+<color=#fffa62>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 10 Gō Gata Gyorai Tei</color>
 Dai 10 Gō"
 jp_t51a_1;Dai 10 Gō
 jp_t51a_2;Motor Torpedo Boat
 
 jp_t51b_shop;Dai 11 Gō
 jp_t51b_0;"<color=#81c3fc>Yokohama Yotto</color>
-<color=#fffa62>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 11 Gō Gata Gyorai Tei (T-51B)</color>
+<color=#5cae63>T-51B</color>
+<color=#fffa62>Kō Gata Gyorai Tei <color=@commonTextColor>|</color> Dai 11 Gō Gata Gyorai Tei</color>
 Dai 11 Gō"
 jp_t51b_1;Dai 11 Gō
 jp_t51b_2;Motor Torpedo Boat
 
 jp_pc301_kari_class_shop;Kari (PC-301)
 jp_pc301_kari_class_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
-<color=#fffa62>Kari Gata Kusen Tei (K-101A)</color>
+<color=#5cae63>K-101A</color>
+<color=#fffa62>Kari Gata Kusen Tei</color>
 Kari (PC-301)"
 jp_pc301_kari_class_1;Kari
 jp_pc301_kari_class_2;Submarine Chaser
 
 jp_no1_ch2_shop;Dai 2 Gō
 jp_no1_ch2_0;"<color=#81c3fc>Ishikawajima Zōsensho</color>
-<color=#fffa62>Dai 1 Gō Gata Kusen Tei (K-3)</color>
+<color=#5cae63>K-3</color>
+<color=#fffa62>Dai 1 Gō Gata Kusen Tei</color>
 Dai 2 Gō"
 jp_no1_ch2_1;Dai 2 Gō
 jp_no1_ch2_2;Submarine Chaser
 
 jp_no4_ch8_shop;Dai 8 Gō
 jp_no4_ch8_0;"<color=#81c3fc>Tama Zōsensho</color>
-<color=#fffa62>Dai 4 Gō Gata Kusen Tei (K-7)</color>
+<color=#5cae63>K-7</color>
+<color=#fffa62>Dai 4 Gō Gata Kusen Tei</color>
 Dai 8 Gō"
 jp_no4_ch8_1;Dai 8 Gō
 jp_no4_ch8_2;Submarine Chaser
@@ -14855,21 +14873,24 @@ jp_type_11_pt_15_2;Motor Torpedo Boat
 
 jp_escort_ikazuchi_class_shop;Ikazuchi (DE-202)
 jp_escort_ikazuchi_class_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
-<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Ikazuchi Gata Goeikan (E-102)</color>
+<color=#5cae63>E-102</color>
+<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Ikazuchi Gata Goeikan</color>
 Ikazuchi (DE-202)"
 jp_escort_ikazuchi_class_1;Ikazuchi
 jp_escort_ikazuchi_class_2;Destroyer Escort
 
 jp_escort_chikugo_class_shop;Tokachi (DE-218)
 jp_escort_chikugo_class_0;"<color=#81c3fc>Mitsui Zōsen Enjiniaringu</color>
-<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Chikugo Gata Goeikan (E-106)</color>
+<color=#5cae63>E-106</color>
+<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Chikugo Gata Goeikan</color>
 Tokachi (DE-218)"
 jp_escort_chikugo_class_1;Tokachi
 jp_escort_chikugo_class_2;Destroyer Escort
 
 jp_escort_akebono_class_shop;Akebono (DE-201)
 jp_escort_akebono_class_0;"<color=#81c3fc>Ishikawajima Jūkōgyō</color>
-<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Akebono Gata Goeikan (E-102)</color>
+<color=#5cae63>E-102</color>
+<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Akebono Gata Goeikan</color>
 Akebono (DE-201)"
 jp_escort_akebono_class_1;Akebono
 jp_escort_akebono_class_2;Destroyer Escort
@@ -14884,14 +14905,16 @@ jp_pg02_2;Missile Boat
 //JAPAN COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 jp_escort_hiburi_class_syonan_shop;Shōnan
 jp_escort_hiburi_class_syonan_0;"<color=#81c3fc>Hitachi Zōsen</color>
-<color=#fffa62>Kō Gata Kaibōkan <color=@commonTextColor>|</color> Hiburi Gata Kaibōkan (E-20B)</color>
+<color=#5cae63>E-20B</color>
+<color=#fffa62>Kō Gata Kaibōkan <color=@commonTextColor>|</color> Hiburi Gata Kaibōkan</color>
 Shōnan"
 jp_escort_hiburi_class_syonan_1;Shōnan
 jp_escort_hiburi_class_syonan_2;Coastal Defense Ship
 
 jp_escort_hiburi_class_shisaka_shop;Shisaka
 jp_escort_hiburi_class_shisaka_0;"<color=#81c3fc>Hitachi Zōsen</color>
-<color=#fffa62>Kō Gata Kaibōkan <color=@commonTextColor>|</color> Hiburi Gata Kaibōkan (E-20B)</color>
+<color=#5cae63>E-20B</color>
+<color=#fffa62>Kō Gata Kaibōkan <color=@commonTextColor>|</color> Hiburi Gata Kaibōkan</color>
 Shisaka"
 jp_escort_hiburi_class_shisaka_1;Shisaka
 jp_escort_hiburi_class_shisaka_2;Coastal Defense Ship
@@ -14905,7 +14928,8 @@ jp_yuri_class_asagao_2;Gunboat
 
 jp_destroyer_chidori_shop;Tomozuru
 jp_destroyer_chidori_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#fffa62>Chidori Gata Suiraitei (F-46)</color>
+<color=#5cae63>F-46</color>
+<color=#fffa62>Chidori Gata Suiraitei</color>
 Tomozuru
 <color=#adadad>(1944)</color>"
 jp_destroyer_chidori_1;Tomozuru
@@ -14913,14 +14937,16 @@ jp_destroyer_chidori_2;Destroyer Escort
 
 jp_destroyer_isuzu_shop;Isuzu (DE-211)
 jp_destroyer_isuzu_0;"<color=#81c3fc>Mitsui Zōsen Enjiniaringu</color>
-<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Isuzu Gata Goeikan (E-103)</color>
+<color=#5cae63>E-103</color>
+<color=#fffa62>Otsu Gata Goeikan <color=@commonTextColor>|</color> Isuzu Gata Goeikan</color>
 Isuzu (DE-211)"
 jp_destroyer_isuzu_1;Akebono
 jp_destroyer_isuzu_2;Destroyer Escort
 
 jp_destroyer_ayanami_shop;Ayanami (DD-103)
 jp_destroyer_ayanami_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#fffa62>Kō Gata Goeikan 1 Gata <color=@commonTextColor>|</color> Ayanami Gata Goeikan (F-102)</color>
+<color=#5cae63>F-102</color>
+<color=#fffa62>Kō Gata Goeikan 1 Gata <color=@commonTextColor>|</color> Ayanami Gata Goeikan</color>
 Ayanami (DD-103)"
 jp_destroyer_ayanami_1;Ayanami
 jp_destroyer_ayanami_2;Destroyer
@@ -14928,7 +14954,8 @@ jp_destroyer_ayanami_2;Destroyer
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 1
 jp_destroyer_momi_shop;Momi
 jp_destroyer_momi_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#fffa62>Nitō Kuchikukan <color=@commonTextColor>|</color> Momi Gata Kuchikukan (F-37)</color>
+<color=#5cae63>F-37</color>
+<color=#fffa62>Nitō Kuchikukan <color=@commonTextColor>|</color> Momi Gata Kuchikukan</color>
 Momi
 <color=#adadad>(1930)</color>"
 jp_destroyer_momi_1;Momi
@@ -14936,21 +14963,24 @@ jp_destroyer_momi_2;Destroyer
 
 jp_destroyer_tade_shop;Tade
 jp_destroyer_tade_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
-<color=#fffa62>Nitō Kuchikukan <color=@commonTextColor>|</color> Tade Gata Kuchikukan (F-37)</color>
+<color=#5cae63>F-37</color>
+<color=#fffa62>Nitō Kuchikukan <color=@commonTextColor>|</color> Momi Gata Kuchikukan</color>
 Tade"
 jp_destroyer_tade_1;Tade
 jp_destroyer_tade_2;Destroyer
 
 jp_destroyer_matsu_shop;Matsu
 jp_destroyer_matsu_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Matsu Gata Kuchikukan (F-55)</color>
+<color=#5cae63>F-55</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Matsu Gata Kuchikukan</color>
 Matsu"
 jp_destroyer_matsu_1;Matsu
 jp_destroyer_matsu_2;Destroyer
 
 jp_destroyer_mutsuki_shop;Mutsuki
 jp_destroyer_mutsuki_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Mutsuki Gata Kuchikukan (F-41E1)</color>
+<color=#5cae63>F-41E1</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Mutsuki Gata Kuchikukan</color>
 Mutsuki
 <color=#adadad>(1941)</color>"
 jp_destroyer_mutsuki_1;Mutsuki
@@ -14962,7 +14992,8 @@ jp_destroyer_mutsuki_EC_2;Destroyer
 
 jp_destroyer_satsuki_shop;Satsuki
 jp_destroyer_satsuki_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Mutsuki Gata Kuchikukan (F-41E1)</color>
+<color=#5cae63>F-41E1</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Mutsuki Gata Kuchikukan</color>
 Satsuki 
 <color=#adadad>(1935)</color>"
 jp_destroyer_satsuki_1;Satsuki
@@ -14971,7 +15002,8 @@ jp_destroyer_satsuki_2;Destroyer
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 2
 jp_minelayer_tsugaru_shop;Tsugaru
 jp_minelayer_tsugaru_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#fffa62>Tsugaru Gata Fusetsukan (H-10)</color>
+<color=#5cae63>H-10</color>
+<color=#fffa62>Tsugaru Gata Fusetsukan</color>
 Tsugaru
 <color=#adadad>(1943)</color>"
 jp_minelayer_tsugaru_1;Tsugaru
@@ -14979,14 +15011,16 @@ jp_minelayer_tsugaru_2;Minelayer
 
 jp_destroyer_harukaze_shop;Harukaze (DD-101)
 jp_destroyer_harukaze_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#fffa62>Kō Gata Goeikan <color=@commonTextColor>|</color> Harukaze Gata Goeikan (F-101)</color>
+<color=#5cae63>F-101</color>
+<color=#fffa62>Kō Gata Goeikan <color=@commonTextColor>|</color> Harukaze Gata Goeikan</color>
 Harukaze (DD-101)"
 jp_destroyer_harukaze_1;Harukaze
 jp_destroyer_harukaze_2;Destroyer
 
 jp_destroyer_murasame_shop;Murasame (DD-107)
 jp_destroyer_murasame_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#fffa62>Kō Gata Goeikan 2 Gata <color=@commonTextColor>|</color> Murasame Gata Goeikan (F-103)</color>
+<color=#5cae63>F-103</color>
+<color=#fffa62>Kō Gata Goeikan 2 Gata <color=@commonTextColor>|</color> Murasame Gata Goeikan</color>
 Murasame (DD-107)
 <color=#adadad>(1975)</color>"
 jp_destroyer_murasame_1;Murasame
@@ -14994,7 +15028,8 @@ jp_destroyer_murasame_2;Destroyer
 
 jp_destroyer_yugumo_shop;Yūgumo
 jp_destroyer_yugumo_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
+<color=#5cae63>F-50</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan</color>
 Yūgumo"
 jp_destroyer_yugumo_1;Yūgumo
 jp_destroyer_yugumo_2;Destroyer
@@ -15005,28 +15040,40 @@ jp_destroyer_yugumo_EC_2;Destroyer
 
 jp_destroyer_hayanami_shop;Hayanami
 jp_destroyer_hayanami_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
+<color=#5cae63>F-50</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan</color>
 Hayanami"
 jp_destroyer_hayanami_1;Hayanami
 jp_destroyer_hayanami_2;Destroyer
 
 jp_destroyer_kiyoshimo_shop;Kiyoshimo
 jp_destroyer_kiyoshimo_0;"<color=#81c3fc>Uraga Senkyo</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan (F-50)</color>
+<color=#5cae63>F-50</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Yūgumo Gata Kuchikukan</color>
 Kiyoshimo"
 jp_destroyer_kiyoshimo_1;Kiyoshimo
 jp_destroyer_kiyoshimo_2;Destroyer
 
 jp_destroyer_hatsuharu_shop;Hatsuharu
 jp_destroyer_hatsuharu_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Hatsuharu Gata Kuchikukan (F-50)</color>
+<color=#5cae63>F-45</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Hatsuharu Gata Kuchikukan</color>
 Hatsuharu"
 jp_destroyer_hatsuharu_1;Hatsuharu
 jp_destroyer_hatsuharu_2;Destroyer
 
+jp_destroyer_nenohi_shop;Nenohi
+jp_destroyer_nenohi_0;"<color=#81c3fc>Uraga Senkyo</color>
+<color=#5cae63>F-45</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Hatsuharu Gata Kuchikukan</color>
+Nenohi"
+jp_destroyer_nenohi_1;Nenohi
+jp_destroyer_nenohi_2;Destroyer
+
 jp_destroyer_fubuki_shop;Ayanami
 jp_destroyer_fubuki_0;"<color=#81c3fc>Fujinagata Zōsensho</color>
-<color=#fffa62>Toku Gata Kuchikukan <color=@commonTextColor>|</color> Ayanami Gata Kuchikukan (F-43)</color>
+<color=#5cae63>F-43</color>
+<color=#fffa62>Toku Gata Kuchikukan <color=@commonTextColor>|</color> Ayanami Gata Kuchikukan</color>
 Ayanami
 <color=#adadad>(1936)</color>"
 jp_destroyer_fubuki_1;Ayanami
@@ -15035,13 +15082,6 @@ jp_destroyer_fubuki_2;Destroyer
 jp_destroyer_fubuki_EC_0;Toku Gata Kuchikukan | Ayanami Gata Kuchikukan (F-43) | Ayanami (1936)
 jp_destroyer_fubuki_EC_1;Ayanami
 jp_destroyer_fubuki_EC_2;Destroyer
-
-jp_destroyer_nenohi_shop;Nenohi
-jp_destroyer_nenohi_0;"<color=#81c3fc>Uraga Senkyo</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Hatsuharu Gata Kuchikukan (F-50)</color>
-Nenohi"
-jp_destroyer_nenohi_1;Nenohi
-jp_destroyer_nenohi_2;Destroyer
 
 jp_destroyer_yugure_shop;Yūgure (DD-184)
 jp_destroyer_yugure_0;"<color=#81c3fc>Boston Navy Yard <color=@commonTextColor>/</color> Ishikawajima Jū Kōgyō</color>
@@ -15053,7 +15093,8 @@ jp_destroyer_yugure_2;Destroyer
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 3
 jp_destroyer_akizuki_shop;Akizuki
 jp_destroyer_akizuki_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan (F-51)</color>
+<color=#5cae63>F-51</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan</color>
 Akizuki"
 jp_destroyer_akizuki_1;Akizuki
 jp_destroyer_akizuki_2;Destroyer
@@ -15064,14 +15105,16 @@ jp_destroyer_akizuki_EC_2;Destroyer
 
 jp_destroyer_hatsuzuki_shop;◓ Hatsuzuki
 jp_destroyer_hatsuzuki_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan (F-51)</color>
+<color=#5cae63>F-51</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan</color>
 ◓ Hatsuzuki"
 jp_destroyer_hatsuzuki_1;◓ Hatsuzuki
 jp_destroyer_hatsuzuki_2;Destroyer
 
 jp_destroyer_suzutsuki_shop;Suzutsuki
 jp_destroyer_suzutsuki_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan (F-51)</color>
+<color=#5cae63>F-51</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Akizuki Gata Kuchikukan</color>
 Suzutsuki
 <color=#adadad>(1944)</color>"
 jp_destroyer_suzutsuki_1;Suzutsuki
@@ -15103,7 +15146,8 @@ jp_cruiser_furutaka_EC_2;Heavy Cruiser
 
 jp_cruiser_isuzu_shop;Isuzu
 jp_cruiser_isuzu_0;"<color=#81c3fc>Uraga Senkyo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Nagara Gata Junyōkan (C-33)</color>
+<color=#5cae63>C-33</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Nagara Gata Junyōkan</color>
 Isuzu
 <color=#adadad>(1944)</color>"
 jp_cruiser_isuzu_1;Isuzu
@@ -15111,7 +15155,8 @@ jp_cruiser_isuzu_2;Light Cruiser
 
 jp_cruiser_kuma_shop;Tama
 jp_cruiser_kuma_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Kuma Gata Junyōkan (C-33)</color>
+<color=#5cae63>C-33</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Kuma Gata Junyōkan</color>
 Tama
 <color=#adadad>(1939)</color>"
 jp_cruiser_kuma_1;Tama
@@ -15123,7 +15168,8 @@ jp_cruiser_kuma_EC_2;Light Cruiser
 
 jp_cruiser_sendai_shop;Sendai
 jp_cruiser_sendai_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Sendai Gata Junyōkan (C-33)</color>
+<color=#5cae63>C-33</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Sendai Gata Junyōkan</color>
 Sendai
 <color=#adadad>(1942)</color>"
 jp_cruiser_sendai_1;Sendai
@@ -15131,7 +15177,8 @@ jp_cruiser_sendai_2;Light Cruiser
 
 jp_destroyer_kagero_shop;Kagerō
 jp_destroyer_kagero_0;"<color=#81c3fc>Maizuru Kaigun Kōshō <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Kagerō Gata Kuchikukan (F-49)</color>
+<color=#5cae63>F-49</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Kagerō Gata Kuchikukan</color>
 Kagerō
 <color=#adadad>(1943)</color>"
 jp_destroyer_kagero_1;Kagerō
@@ -15139,7 +15186,8 @@ jp_destroyer_kagero_2;Destroyer
 
 jp_destroyer_yukikaze_shop;Yukikaze
 jp_destroyer_yukikaze_0;"<color=#81c3fc>Sasebo Kaigun Kōshō <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Kagerō Gata Kuchikukan (F-49)</color>
+<color=#5cae63>F-49</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Kagerō Gata Kuchikukan</color>
 Yukikaze
 <color=#adadad>(1943)</color>"
 jp_destroyer_yukikaze_1;Yukikaze
@@ -15147,7 +15195,8 @@ jp_destroyer_yukikaze_2;Destroyer
 
 jp_cruiser_yubari_shop;Yūbari
 jp_cruiser_yubari_0;"<color=#81c3fc>Sasebo Kaigun Kōshō <color=@commonTextColor>/</color> Yokosuka Kaigun Kōshō</color>
-<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Yūbari Gata Junyōkan (F-42)</color>
+<color=#5cae63>F-42</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Yūbari Gata Junyōkan</color>
 Yūbari
 <color=#adadad>(1944)</color>"
 jp_cruiser_yubari_1;Yūbari
@@ -15155,7 +15204,8 @@ jp_cruiser_yubari_2;Light Cruiser
 
 jp_destroyer_shimakaze_shop;Shimakaze
 jp_destroyer_shimakaze_0;"<color=#81c3fc>Maizuru Kaigun Kōshō</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Shimakaze Gata Kuchikukan (F-52)</color>
+<color=#5cae63>F-52</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Shimakaze Gata Kuchikukan</color>
 Shimakaze
 <color=#adadad>(1944)</color>"
 jp_destroyer_shimakaze_1;Shimakaze
@@ -15163,7 +15213,8 @@ jp_destroyer_shimakaze_2;Destroyer
 
 jp_destroyer_yuudachi_shop;Yūdachi
 jp_destroyer_yuudachi_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
-<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Shiratsuyu Gata Kuchikukan (F-45D)</color>
+<color=#5cae63>F-45D</color>
+<color=#fffa62>Ittō Kuchikukan <color=@commonTextColor>|</color> Shiratsuyu Gata Kuchikukan</color>
 Yūdachi"
 jp_destroyer_yuudachi_1;Yūdachi
 jp_destroyer_yuudachi_2;Destroyer
@@ -15171,7 +15222,8 @@ jp_destroyer_yuudachi_2;Destroyer
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 4
 jp_cruiser_aoba_shop;Aoba
 jp_cruiser_aoba_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Aoba Gata Junyōkan (C-41)</color>
+<color=#5cae63>C-41</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Aoba Gata Junyōkan</color>
 Aoba
 <color=#adadad>(1944)</color>"
 jp_cruiser_aoba_1;Aoba
@@ -15179,7 +15231,8 @@ jp_cruiser_aoba_2;Heavy Cruiser
 
 jp_cruiser_haguro_shop;Haguro
 jp_cruiser_haguro_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Myōkō Gata Junyōkan (C-42)</color>
+<color=#5cae63>C-42</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Myōkō Gata Junyōkan</color>
 Haguro
 <color=#adadad>(1944)</color>"
 jp_cruiser_haguro_1;Haguro
@@ -15187,7 +15240,8 @@ jp_cruiser_haguro_2;Heavy Cruiser
 
 jp_cruiser_myoko_shop;Myōkō
 jp_cruiser_myoko_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Myōkō Gata Junyōkan (C-42)</color>
+<color=#5cae63>C-42</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Myōkō Gata Junyōkan</color>
 Myōkō
 <color=#adadad>(1944)</color>"
 jp_cruiser_myoko_1;Myōkō
@@ -15195,21 +15249,21 @@ jp_cruiser_myoko_2;Heavy Cruiser
 
 jp_cruiser_agano_shop;Agano
 jp_cruiser_agano_0;"<color=#81c3fc>Sasebo Kaigun Kōshō</color>
-<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Agano Gata Junyōkan (C-41-II)</color>
+<color=#5cae63>C-41-II</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Agano Gata Junyōkan</color>
 Agano
 <color=#adadad>(1943)</color>"
 jp_cruiser_agano_1;Agano
 jp_cruiser_agano_2;Light Cruiser
 
-jp_cruiser_agano_EC_0;Nitō Junyōkan
-<color=#fffa62>Agano Gata Junyōkan (C-41-II)</color>
-Agano (1943)
+jp_cruiser_agano_EC_0;Nitō Junyōkan | Agano Gata Junyōkan (C-41-II) | Agano (1943)
 jp_cruiser_agano_EC_1;Agano
 jp_cruiser_agano_EC_2;Light Cruiser
 
 jp_cruiser_oyodo_shop;Ōyodo
 jp_cruiser_oyodo_0;"<color=#81c3fc>Kure Kaigun Kōshō <color=@commonTextColor>/</color> Dai 101 Kaigun Shisetsubu</color>
-<color=#fffa62>Santō Junyōkan <color=@commonTextColor>|</color> Ōyodo Gata Junyōkan (C-42)</color>
+<color=#5cae63>C-42</color>
+<color=#fffa62>Santō Junyōkan <color=@commonTextColor>|</color> Ōyodo Gata Junyōkan</color>
 Ōyodo
 <color=#adadad>(1945)</color>"
 jp_cruiser_oyodo_1;Ōyodo
@@ -15217,7 +15271,8 @@ jp_cruiser_oyodo_2;Light Cruiser
 jp_armoredcruiser_ikoma_shop;Ikoma
 
 jp_armoredcruiser_ikoma_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
-<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Tsukuba Gata Junyōkan (B-12)</color>
+<color=#5cae63>B-12</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Tsukuba Gata Junyōkan</color>
 Ikoma
 <color=#adadad>(1912)</color>"
 jp_armoredcruiser_ikoma_1;Ikoma
@@ -15226,7 +15281,8 @@ jp_armoredcruiser_ikoma_2;Battlecruiser
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 5
 jp_cruiser_tone_shop;Tone
 jp_cruiser_tone_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Tone Gata Junyōkan (C-38)</color>
+<color=#5cae63>C-38</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Tone Gata Junyōkan</color>
 Tone
 <color=#adadad>(1945)</color>"
 jp_cruiser_tone_1;Tone
@@ -15234,35 +15290,40 @@ jp_cruiser_tone_2;Heavy Cruiser
 
 jp_cruiser_mogami_suzuya_shop;Suzuya
 jp_cruiser_mogami_suzuya_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
+<color=#5cae63>C-37</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan</color>
 Suzuya"
 jp_cruiser_mogami_suzuya_1;Suzuya
 jp_cruiser_mogami_suzuya_2;Light Cruiser
 
 jp_cruiser_mogami_shop;Mogami
 jp_cruiser_mogami_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
-<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
+<color=#5cae63>C-37</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan</color>
 Mogami"
 jp_cruiser_mogami_1;Mogami
 jp_cruiser_mogami_2;Heavy Cruiser
 
 jp_cruiser_mogami_mikuma_shop;Mikuma
 jp_cruiser_mogami_mikuma_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan (C-37)</color>
+<color=#5cae63>C-37</color>
+<color=#fffa62>Nitō Junyōkan <color=@commonTextColor>|</color> Mogami Gata Junyōkan</color>
 Mikuma"
 jp_cruiser_mogami_mikuma_1;Mikuma
 jp_cruiser_mogami_mikuma_2;Light Cruiser
 
 jp_battleship_hyuga_shop;Hyūga
 jp_battleship_hyuga_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo</color>
-<color=#fffa62>Ise Gata Senkan (A-92)</color>
+<color=#5cae63>A-92</color>
+<color=#fffa62>Ise Gata Senkan</color>
 Hyūga"
 jp_battleship_hyuga_1;Hyūga
 jp_battleship_hyuga_2;Battleship
 
 jp_battleship_ise_shop;Ise
 jp_battleship_ise_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
-<color=#fffa62>Ise Gata Senkan (A-92)</color>
+<color=#5cae63>A-92</color>
+<color=#fffa62>Ise Gata Senkan</color>
 Ise
 <color=#adadad>(1937)</color>"
 jp_battleship_ise_1;Ise
@@ -15270,14 +15331,16 @@ jp_battleship_ise_2;Battleship
 
 jp_battleship_settsu_shop;Settsu
 jp_battleship_settsu_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
-<color=#fffa62>Kawachi Gata Senkan (A-30)</color>
+<color=#5cae63>A-30</color>
+<color=#fffa62>Kawachi Gata Senkan</color>
 Settsu"
 jp_battleship_settsu_1;Settsu
 jp_battleship_settsu_2;Battleship
 
 jp_battlecruiser_hiei_shop;Hiei
 jp_battlecruiser_hiei_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#fffa62>Kongō Gata Junyōsenkan (B-46)</color>
+<color=#5cae63>B-46</color>
+<color=#fffa62>Kongō Gata Junyōsenkan</color>
 Hiei
 <color=#adadad>(1923)</color>"
 jp_battlecruiser_hiei_1;Hiei
@@ -15285,7 +15348,8 @@ jp_battlecruiser_hiei_2;Battlecruiser
 
 jp_battlecruiser_kirishima_shop;Kirishima
 jp_battlecruiser_kirishima_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Sasebo Kaigun Kōshō</color>
-<color=#fffa62>Kongō Gata Senkan (B-46)</color>
+<color=#5cae63>B-46</color>
+<color=#fffa62>Kongō Gata Senkan</color>
 Kirishima
 <color=#adadad>(1942)</color>"
 jp_battlecruiser_kirishima_1;Kirishima
@@ -15293,7 +15357,8 @@ jp_battlecruiser_kirishima_2;Battleship
 
 jp_battlecruiser_haruna_shop;Haruna
 jp_battlecruiser_haruna_0;"<color=#81c3fc>Kawasaki Zōsensho</color>
-<color=#fffa62>Kongō Gata Senkan (B-46)</color>
+<color=#5cae63>B-46</color>
+<color=#fffa62>Kongō Gata Senkan</color>
 Haruna
 <color=#adadad>(1945)</color>"
 jp_battlecruiser_haruna_1;Haruna
@@ -15301,7 +15366,8 @@ jp_battlecruiser_haruna_2;Battleship
 
 jp_battlecruiser_kongo_shop;Kongō
 jp_battlecruiser_kongo_0;"<color=#81c3fc>Vickers-Armstrongs <color=@commonTextColor>/</color> Sasebo Kaigun Kōshō</color>
-<color=#fffa62>Kongō Gata Senkan (B-46)</color>
+<color=#5cae63>B-46</color>
+<color=#fffa62>Kongō Gata Senkan</color>
 Kongō
 <color=#adadad>(1944)</color>"
 jp_battlecruiser_kongo_1;Kongō
@@ -15309,7 +15375,8 @@ jp_battlecruiser_kongo_2;Battleship
 
 jp_armoredcruiser_kurama_shop;Kurama
 jp_armoredcruiser_kurama_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Kurama Gata Junyōkan (B-17)</color>
+<color=#5cae63>B-17</color>
+<color=#fffa62>Ittō Junyōkan <color=@commonTextColor>|</color> Kurama Gata Junyōkan</color>
 Kurama
 <color=#adadad>(1919)</color>"
 jp_armoredcruiser_kurama_1;Kurama
@@ -15317,14 +15384,16 @@ jp_armoredcruiser_kurama_2;Battlecruiser
 
 jp_battleship_yamashiro_shop;Yamashiro
 jp_battleship_yamashiro_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#fffa62>Fusō Gata Senkan (A-64)</color>
+<color=#5cae63>A-64</color>
+<color=#fffa62>Fusō Gata Senkan</color>
 Yamashiro"
 jp_battleship_yamashiro_1;Yamashiro
 jp_battleship_yamashiro_2;Battleship
 
 jp_battleship_fuso_shop;Fusō
 jp_battleship_fuso_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
-<color=#fffa62>Fusō Gata Senkan (A-64)</color>
+<color=#5cae63>A-64</color>
+<color=#fffa62>Fusō Gata Senkan</color>
 Fusō"
 jp_battleship_fuso_1;Fusō
 jp_battleship_fuso_2;Battleship
@@ -15332,7 +15401,8 @@ jp_battleship_fuso_2;Battleship
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 6
 jp_battlecruiser_amagi_shop;Amagi
 jp_battlecruiser_amagi_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#fffa62>Amagi Gata Junyōsenkan (B-64)</color>
+<color=#5cae63>B-64</color>
+<color=#fffa62>Amagi Gata Junyōsenkan</color>
 Amagi
 <color=#adadad>(1919 plan)</color>"
 jp_battlecruiser_amagi_1;Amagi
@@ -15340,7 +15410,8 @@ jp_battlecruiser_amagi_2;Battlecruiser
 
 jp_battleship_mutsu_shop;Mutsu
 jp_battleship_mutsu_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
-<color=#fffa62>Nagato Gata Senkan (A-114)</color>
+<color=#5cae63>A-114</color>
+<color=#fffa62>Nagato Gata Senkan</color>
 Mutsu
 <color=#adadad>(1922)</color>"
 jp_battleship_mutsu_1;Mutsu
@@ -15348,7 +15419,8 @@ jp_battleship_mutsu_2;Battleship
 
 jp_battleship_nagato_shop;Nagato
 jp_battleship_nagato_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
-<color=#fffa62>Nagato Gata Senkan (A-114)</color>
+<color=#5cae63>A-114</color>
+<color=#fffa62>Nagato Gata Senkan</color>
 Nagato
 <color=#adadad>(1944)</color>"
 jp_battleship_nagato_1;Nagato
@@ -15356,7 +15428,8 @@ jp_battleship_nagato_2;Battleship
 
 jp_battleship_tosa_shop;Tosa
 jp_battleship_tosa_0;"<color=#81c3fc>Mitsubishi Zōsen Kabushiki Gaisha Nagasaki Zōsenjo</color>
-<color=#fffa62>Kaga Gata Senkan (A-127)</color>
+<color=#5cae63>A-127</color>
+<color=#fffa62>Kaga Gata Senkan</color>
 Tosa"
 jp_battleship_tosa_1;Tosa
 jp_battleship_tosa_2;Battleship
@@ -15364,7 +15437,8 @@ jp_battleship_tosa_2;Battleship
 //JAPAN BLUEWATER FLEET VEHICLES - VEHICLE/FAMILY START: RANK 7
 jp_battleship_yamato_shop;Yamato
 jp_battleship_yamato_0;"<color=#81c3fc>Kure Kaigun Kōshō</color>
-<color=#fffa62>Yamato Gata Senkan (A-140F6)</color>
+<color=#5cae63>A-140F6</color>
+<color=#fffa62>Yamato Gata Senkan</color>
 Yamato
 <color=#adadad>(1945)</color>"
 jp_battleship_yamato_1;Yamato
@@ -15372,7 +15446,8 @@ jp_battleship_yamato_2;Battleship
 
 jp_battleship_musashi_shop;Musashi
 jp_battleship_musashi_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Nagasaki Zōsenjo <color=@commonTextColor>/</color> Kure Kaigun Kōshō</color>
-<color=#fffa62>Yamato Gata Senkan (A-140F6)</color>
+<color=#5cae63>A-140F6</color>
+<color=#fffa62>Yamato Gata Senkan</color>
 Musashi
 <color=#adadad>(1943)</color>"
 jp_battleship_musashi_1;Musashi
@@ -15527,7 +15602,7 @@ p1y1_mod11_china_1;☀ Yínhé 11 Xíng
 p1y1_mod11_china_2;☀ Yínhé
 
 p-40c_china_shop;☀ Huòkè 81A-3
-p-40c_china_0;"<color=#81c3fc>Curtiss-Wright Corporation Hawk Model 81A-3 <color=@commonTextColor></color>/ Central Aircraft
+p-40c_china_0;"<color=#81c3fc>Curtiss-Wright Corporation Hawk Model 81A-3 <color=@commonTextColor>/</color> Central Aircraft
 Manufacturing Company</color>
 ☀ Huòkè 81A-3 Xíng Qūzhú Jī"
 p-40c_china_1;☀ Huòkè 81A
@@ -15548,7 +15623,7 @@ p-47d_23_ra_china_rocaf_1;☀ P-47D
 p-47d_23_ra_china_rocaf_2;☀ P-47
 
 p-47d_30_china_shop;☀ F-47D-30-RE
-p-47d_30_china_0;"<color=#81c3fc>Republic Aviation Corporation AP-10</cplor>
+p-47d_30_china_0;"<color=#81c3fc>Republic Aviation Corporation AP-10</color>
 ☀ F-47D-30-RE Xíng Qūzhú Jī"
 p-47d_30_china_1;☀ F-47D
 p-47d_30_china_2;☀ F-47
@@ -16155,7 +16230,7 @@ cn_m10_2;Tank Destroyer
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 cn_object_211_shop;211 (4 Hào) (63 Shì)
-cn_object_211_0;"<color=#81c3fc>Xīnán Chēliàng Zhìzào Chang<color=#81c3fc>
+cn_object_211_0;"<color=#81c3fc>Xīnán Chēliàng Zhìzào Chang</color>
 211 Shuilù Tankè
 <color=#adadad>(Yàng Chē 4 Hào) (1963 Nián Shì 85 Háomi Tankè Pào)</color>"
 cn_object_211_1;211
@@ -16184,8 +16259,8 @@ cn_t_34_85_d_5t_1;␗ Tè 34 (1944)
 cn_t_34_85_d_5t_2;Medium Tank
 
 cn_type_58_shop;␗ Tè 34 (1960)
-cn_type_58_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) <color=@commonTextColor>/</color> Hā'ěrbīn Dì Yī Jīxiè
-Jítuán</color>
+cn_type_58_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) <color=@commonTextColor>/</color> Guóyíng Hā'ěrbīn Dì Yī
+Jīqì Zhìzào Chang (Guóyíng Dì 674 Chang)</color>
 ␗ Tè 34 Zhōngxíng Tankè
 <color=#adadad>(1960)</color>"
 cn_type_58_1;␗ Tè 34 (1960)
@@ -16258,23 +16333,26 @@ cn_m18_hellcat_1;☀ M18
 cn_m18_hellcat_2;Light Tank
 
 cn_type_63_I_shop;ZTS63
-cn_type_63_I_0;"<color=#81c3fc>Xīnán Chēliàng Zhìzào Chang</color>
+cn_type_63_I_0;"<color=#81c3fc>Guóyíng Chóngqìng Kōngqì Yāsuō Jī Chang (Guóyíng Dì 256 Chang)</color>
 <color=#5cae63>WZ211</color>
+<color=#919191>1963 Nián Shì Shuilù Tankè</color>
 ZTS1963 Shì Shuilù Tankè"
 cn_type_63_I_1;ZTS63
 cn_type_63_I_2;Light Tank
 
 cn_zts_63_1980_shop;ZTS63 (1979)
-cn_zts_63_1980_0;"<color=#81c3fc>Xīnán Chēliàng Zhìzào Chang</color>
+cn_zts_63_1980_0;"<color=#81c3fc>Guóyíng Chóngqìng Kōngqì Yāsuō Jī Chang (Guóyíng Dì 256 Chang)</color>
 <color=#5cae63>WZ211</color>
+<color=#919191>1963 Nián Shì Shuilù Tankè</color>
 ZTS1963 Shì Shuilù Tankè
 <color=#adadad>(1979)</color>"
 cn_zts_63_1980_1;ZTS63
 cn_zts_63_1980_2;Light Tank
 
 cn_type_62_shop;ZTQ62
-cn_type_62_0;"<color=#81c3fc>Hā'ěrbīn Dì Yī Jīxiè Jítuán</color>
+cn_type_62_0;"<color=#81c3fc>Guóyíng Hā'ěrbīn Dì Yī Jīqì Zhìzào Chang (Guóyíng Dì 674 Chang)</color>
 <color=#5cae63>WZ131</color>
+<color=#919191>1962 Nián Shì Qīngxíng Tankè</color>
 ZTQ1962 Shì Qīngxíng Tankè"
 cn_type_62_1;ZTQ62
 cn_type_62_2;Light Tank
@@ -16304,8 +16382,9 @@ cn_is_2_1943_no402_2;Heavy Tank
 cn_zsd63_pg87_shop;ZSD63B (PG87)
 cn_zsd63_pg87_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>WZ531</color>
+<color=#919191>1963 Nián 2 Shì Lüdài Zhuāngjia Shūsòng Chē</color>
 ZSD1963B Shì Lüdài Zhuāngjia Shūsòng Chē
-<color=#adadad>(PG1987 Nián Shì Shuāng Guan 25 Háomi Gāoshè Jīguān Pào)</color>"
+<color=#adadad>(PG1987 Shì Shuāng Guan 25 Háomi Gāoshè Jīguān Pào)</color>"
 cn_zsd63_pg87_1;ZSD63B (PG87)
 cn_zsd63_pg87_2;SPAAG
 
@@ -16323,7 +16402,8 @@ cn_su_100_1945_1;␗ SU-100
 cn_su_100_1945_2;SPG
 
 cn_plz_83_shop;PLZ83
-cn_plz_83_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+cn_plz_83_0;"<color=#81c3fc>Guóyíng Hā'ěrbīn Dì Yī Jīqì Zhìzào Chang (Guóyíng Dì 674 Chang)</color>
+<color=#919191>1983 Nián Shì 155 Háomi Zìxíng Jiā Liúpào</color>
 PLZ1983 Shì 155 Háomi Zìxíng Jiā Liúpào"
 cn_plz_83_1;PLZ83
 cn_plz_83_2;SPG
@@ -16346,7 +16426,9 @@ cn_type_86_shop;ZBD86 (2020)
 cn_type_86_0;"<color=#81c3fc>Čyelâbinskij traktornyj zavod im. V. I. Lyenina <color=@commonTextColor>/</color> Zhōngguó Bīngqì Gōngyè
 Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>WZ501</color>
-ZBD1986 Shì Lüdài Bùbīng Zhàn Chē (2020)"
+<color=#919191>1986 Nián Shì Lüdài Bùbīng Zhàn Chē</color>
+ZBD1986 Shì Lüdài Bùbīng Zhàn Chē
+<color=#adadad>(2020)</color>"
 cn_type_86_1;ZBD86
 cn_type_86_2;Light Tank
 
@@ -16358,37 +16440,40 @@ cn_m48a1_patton_III_2;Medium Tank
 
 cn_type_59_shop;ZTZ59
 cn_type_59_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color> Nèiménggu Dì Yī
-Jīxiè Zhìzào Chang</color>
-<color=#5cae63>WZ120</color> 
+Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
+<color=#5cae63>WZ120</color>
+<color=#919191>1959 Nián Shì Zhōngxíng Tankè</color>
 ZTZ1959 Shì Zhōngxíng Tankè"
 cn_type_59_1;ZTZ59
 cn_type_59_2;Medium Tank
 
 cn_ztz_59a_shop;ZTZ59A
 cn_ztz_59a_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color> Nèiménggu Dì Yī
-Jīxiè Zhìzào Chang</color>
+Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
 <color=#5cae63>WZ120A</color>
+<color=#919191>1959 Nián 1 Shì Zhōngxíng Tankè</color>
 ZTZ1959A Shì Zhōngxíng Tankè"
 cn_ztz_59a_1;ZTZ59
 cn_ztz_59a_2;Medium Tank
 
 cn_type_59d_shop;ZTZ59D1
 cn_type_59d_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color> Nèiménggu Dì Yī
-Jīxiè Zhìzào Chang</color>
+Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
 <color=#5cae63>WZ120C</color>
 ZTZ1959D1 Shì Zhōngxíng Tankè"
 cn_type_59d_1;ZTZ59
 cn_type_59d_2;Medium Tank
 
 cn_type_69_shop;ZTZ69
-cn_type_69_0;"<color=#81c3fc>Nèiménggu Dì Yī Jīxiè Zhìzào Chang</color>
+cn_type_69_0;"<color=#81c3fc>Nèiménggu Dì Yī Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
 <color=#5cae63>WZ121</color>
+<color=#919191>1969 Nián Shì Zhōngxíng Tankè</color>
 ZTZ1969 Shì Zhōngxíng Tankè"
 cn_type_69_1;ZTZ69
 cn_type_69_2;Medium Tank
 
 cn_type_69_2a_shop;69-II
-cn_type_69_2a_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
+cn_type_69_2a_0;"<color=#81c3fc>Nèiménggu Dì Yī Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
 <color=#5cae63>BW121A</color>
 69-II Zhu Zhàn Tankè"
 cn_type_69_2a_1;69-II
@@ -16457,6 +16542,7 @@ cn_ztz_88a_2;MBT
 cn_ztz_96_shop;ZTZ96
 cn_ztz_96_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>WZ122H</color>
+<color=#919191>ZTZ1988C Shì Zhu Zhàn Tankè</color>
 ZTZ1996 Shì Zhu Zhàn Tankè"
 cn_ztz_96_1;ZTZ96
 cn_ztz_96_2;MBT
@@ -18679,10 +18765,10 @@ Truck, 2½ Ton, 6x6, GMC CCKW 353
 fr_cckw_353_bofors_1;CCKW 353 (M1)
 fr_cckw_353_bofors_2;SPAAG
 
-fr_amx_vtt_dca_shop;V.T.T. mle. 56 (M 45)
+fr_amx_vtt_dca_shop;V.T.T. mle. 56 (M45D)
 fr_amx_vtt_dca_0;"<color=#81c3fc>Atelier de construction de Roanne</color>
-Véhicule de transport de troupe modèle 1956 avec affût tourelle M 45"
-fr_amx_vtt_dca_1;V.T.T. (M 45)
+Véhicule de transport de troupe modèle 1956 avec affût tourelle M45D"
+fr_amx_vtt_dca_1;V.T.T. (M45D)
 fr_amx_vtt_dca_2;SPAAG
 
 fr_m10_shop;☨ M10
@@ -20276,6 +20362,12 @@ sw_cv_90105_0;"<color=#81c3fc>Hägglund & Söner <color=@commonTextColor>+</colo
 sw_cv_90105_1;CV90105
 sw_cv_90105_2;Light Tank
 
+sw_cv_90105_tml_shop;CV90105 (XC-8 105HP)
+sw_cv_90105_tml_0;"<color=#81c3fc>Combat Vehicle 90105</color>
+<color=#adadad>(XC-8 105HP)</color>"
+sw_cv_90105_tml_1;CV90105
+sw_cv_90105_tml_2;Light Tank
+
 sw_cv_9030_fin_shop;rpsv CV9030
 sw_cv_9030_fin_0;"<color=#5cae63>Ps. 171</color>
 rynnäkköpanssarivaunu CV9030"
@@ -20344,12 +20436,6 @@ sw_leopard_2a6nl_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 taistelupanssarivaunu Leopard 2A6"
 sw_leopard_2a6nl_1;tstpsv Leopard 2A6
 sw_leopard_2a6nl_2;MBT
-
-sw_cv_90105_tml_shop;CV90105 (XC-8 105HP)
-sw_cv_90105_tml_0;"Combat Vehicle 90105
-<color=#adadad>(XC-8 105HP)</color>"
-sw_cv_90105_tml_1;CV90105
-sw_cv_90105_tml_2;Light Tank
 
 sw_patria_amv_ctcv_105_shop;AMV HWP (CT-CV 105HP)
 sw_patria_amv_ctcv_105_0;"<color=#81c3fc>Patria Advanced Modular Vehicle Heavy Weapon Platform</color>

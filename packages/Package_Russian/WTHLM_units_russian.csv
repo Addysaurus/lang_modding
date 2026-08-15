@@ -715,7 +715,8 @@ ussr_destroyer_pr56_bravy_ec_1;Бравый
 ussr_destroyer_pr56_bravy_ec_2;Destroyer
 
 ussr_battleship_oktyabrskaya_revolutsiya_shop;Октябрьская революция
-ussr_battleship_oktyabrskaya_revolutsiya_0;"<color=#81c3fc>Адмиралтейские верфи <color=@commonTextColor>/</color> Судостроительный завод № 189 им. С. Орджоникидзе</color>
+ussr_battleship_oktyabrskaya_revolutsiya_0;"<color=#81c3fc>Адмиралтейские верфи <color=@commonTextColor>/</color> Судостроительный завод № 189 им. С.
+Орджоникидзе</color>
 <color=#fffa62>Линейный корабль тип Севастополь</color>
 <color=#919191>Гангут</color>
 Октябрьская революция
@@ -843,6 +844,16 @@ germ_kv_1B_finland_0;"<color=#81c3fc>Кировский завод</color>
 germ_kv_1B_finland_1;▀ 44 psv KW 1 B
 germ_kv_1B_finland_2;▀ Heavy Tank
 
+//GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+germ_skr_pr50_karl_marx_shop;Karl Marx (122)
+germ_skr_pr50_karl_marx_0;"<color=#81c3fc>Судостроительный завод № 820 <color=@commonTextColor>/</color> Кронштадтский ордена Ленина
+Морской завод</color>
+<color=#fffa62>Küstenschutzschiff Projekt 50</color>
+Karl Marx (122)
+<color=#adadad>(1962)</color>"
+germ_skr_pr50_karl_marx_1;Karl Marx
+germ_skr_pr50_karl_marx_2;Coastal Defense Ship
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 uk_9a33bm2_shop;☸ Osā-Eke
 uk_9a33bm2_0;"<color=#81c3fc>Московский машиностроительный завод «Знамя»</color>
@@ -914,6 +925,52 @@ Fēixíngqì Yánjiū Suo</color>
 Qīng 6 Xíng Fēijī"
 quing_6_1;Qīng 6
 quing_6_2;Qīng 6
+
+//CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+cn_type_58_shop;␗ 特34 (1960)
+cn_type_58_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ) <color=@commonTextColor>/</color>
+国营哈尔滨第一机器制造厂 (国营第六七四厂)</color>
+␗ 特34中型坦克
+<color=#adadad>(1960)</color>"
+cn_type_58_1;␗ 特34 (1960)
+cn_type_58_2;Medium Tank
+
+//CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+cn_type_86_shop;ZBD86 (2020)
+cn_type_86_0;"<color=#81c3fc>Челябинский тракторный завод им. В. И. Ленина <color=@commonTextColor>/</color> Zhōngguó Bīngqì Gōngyè
+Jítuán Youxiàn Gōngsī</color>
+<color=#5cae63>WZ501</color>
+<color=#919191>1986 Nián Shì Lüdài Bùbīng Zhàn Chē</color>
+ZBD1986 Shì Lüdài Bùbīng Zhàn Chē
+<color=#adadad>(2020)</color>"
+cn_type_86_1;ZBD86
+cn_type_86_2;Light Tank
+
+cn_type_59_shop;ZTZ59
+cn_type_59_0;"<color=#81c3fc>Уральский вагоностроительный завод им. И. В. Сталина <color=@commonTextColor>/</color> Nèiménggu Dì Yī
+Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
+<color=#5cae63>WZ120</color>
+<color=#919191>1959 Nián Shì Zhōngxíng Tankè</color>
+ZTZ1959 Shì Zhōngxíng Tankè"
+cn_type_59_1;ZTZ59
+cn_type_59_2;Medium Tank
+
+cn_ztz_59a_shop;ZTZ59A
+cn_ztz_59a_0;"<color=#81c3fc>Уральский вагоностроительный завод им. И. В. Сталина <color=@commonTextColor>/</color> Nèiménggu Dì Yī
+Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
+<color=#5cae63>WZ120A</color>
+<color=#919191>1959 Nián 1 Shì Zhōngxíng Tankè</color>
+ZTZ1959A Shì Zhōngxíng Tankè"
+cn_ztz_59a_1;ZTZ59
+cn_ztz_59a_2;Medium Tank
+
+cn_type_59d_shop;ZTZ59D1
+cn_type_59d_0;"<color=#81c3fc>Уральский вагоностроительный завод им. И. В. Сталина <color=@commonTextColor>/</color> Nèiménggu Dì Yī
+Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
+<color=#5cae63>WZ120C</color>
+ZTZ1959D1 Shì Zhōngxíng Tankè"
+cn_type_59d_1;ZTZ59
+cn_type_59d_2;Medium Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 cn_t_62_shop;Т-62

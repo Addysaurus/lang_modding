@@ -810,7 +810,7 @@ cn_t_34_85_d_5t_1;␗ 特34 (1944)
 cn_t_34_85_d_5t_2;Medium Tank
 
 cn_type_58_shop;␗ 特34 (1960)
-cn_type_58_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) <color=@commonTextColor>/</color> 哈尔滨第一机械集团</color>
+cn_type_58_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) <color=@commonTextColor>/</color> 国营哈尔滨第一机器制造厂 (国营第六七四厂)</color>
 ␗ 特34中型坦克
 <color=#adadad>(1960)</color>"
 cn_type_58_1;␗ 特34 (1960)
@@ -876,30 +876,34 @@ cn_m18_hellcat_1;☀ M18
 cn_m18_hellcat_2;Light Tank
 
 cn_type_63_I_shop;ZTS63
-cn_type_63_I_0;"<color=#81c3fc>西南车辆制造厂</color>
+cn_type_63_I_0;"<color=#81c3fc>国营重庆空气压缩机厂 (国营第二五六厂)</color>
 <color=#5cae63>WZ211</color>
+<color=#919191>1963年式水陆坦克</color>
 ZTS1963式水陆坦克"
 cn_type_63_I_1;ZTS63
 cn_type_63_I_2;Light Tank
 
 cn_zts_63_1980_shop;ZTS63 (1979)
-cn_zts_63_1980_0;"<color=#81c3fc>西南车辆制造厂</color>
+cn_zts_63_1980_0;"<color=#81c3fc>国营重庆空气压缩机厂 (国营第二五六厂)</color>
 <color=#5cae63>WZ211</color>
+<color=#919191>1963年式水陆坦克</color>
 ZTS1963式水陆坦克
 <color=#adadad>(1979)</color>"
 cn_zts_63_1980_1;ZTS63
 cn_zts_63_1980_2;Light Tank
 
 cn_type_62_shop;ZTQ62
-cn_type_62_0;"<color=#81c3fc>哈尔滨第一机械集团</color>
+cn_type_62_0;"<color=#81c3fc>国营哈尔滨第一机器制造厂 (国营第六七四厂)</color>
 <color=#5cae63>WZ131</color>
+<color=#919191>1962年式轻型坦克</color>
 ZTQ1962式轻型坦克"
 cn_type_62_1;ZTQ62
 cn_type_62_2;Light Tank
 
 ussr_type_62_shop;▂ ZTQ62
-ussr_type_62_0;"<color=#81c3fc>哈尔滨第一机械集团</color>
+ussr_type_62_0;"<color=#81c3fc>国营哈尔滨第一机器制造厂 (国营第六七四厂)</color>
 <color=#5cae63>WZ131</color>
+<color=#919191>1962年式轻型坦克</color>
 ▂ ZTQ1962式轻型坦克"
 ussr_type_62_1;▂ ZTQ62
 ussr_type_62_2;Light Tank
@@ -929,6 +933,7 @@ cn_is_2_1943_no402_2;Heavy Tank
 cn_zsd63_pg87_shop;ZSD63B (PG87)
 cn_zsd63_pg87_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
 <color=#5cae63>WZ531</color>
+<color=#919191>1963年2式履带装甲输送车</color>
 ZSD1963B式履带装甲输送车
 <color=#adadad>(PG1987式双管25毫米高射机关炮)</color>"
 cn_zsd63_pg87_1;ZSD63B (PG87)
@@ -948,7 +953,8 @@ cn_su_100_1945_1;␗ SU-100
 cn_su_100_1945_2;SPG
 
 cn_plz_83_shop;PLZ83
-cn_plz_83_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+cn_plz_83_0;"<color=#81c3fc>国营哈尔滨第一机器制造厂 (国营第六七四厂)</color>
+<color=#919191>1983年式152毫米自行加榴炮</color>
 PLZ1983式152毫米自行加榴炮"
 cn_plz_83_1;PLZ83
 cn_plz_83_2;SPH
@@ -971,6 +977,7 @@ cn_type_86_shop;ZBD86 (2020)
 cn_type_86_0;"<color=#81c3fc>Čyelâbinskij traktornyj zavod im. V. I. Lyenina <color=@commonTextColor>/</color>
 中国兵器工业集团有限公司</color>
 <color=#5cae63>WZ501</color>
+<color=#919191>1986年式履带步兵战车</color>
 ZBD1986式履带步兵战车
 <color=#adadad>(2020)</color>"
 cn_type_86_1;ZBD86
@@ -984,37 +991,40 @@ cn_m48a1_patton_III_2;MBT
 
 cn_type_59_shop;ZTZ59
 cn_type_59_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color>
-内蒙古第一机械制造厂</color>
+内蒙古第一机械制造厂 (国营第六一七厂)</color>
 <color=#5cae63>WZ120</color>
+<color=#919191>1959年式中型坦克</color>
 ZTZ1959式中型坦克"
 cn_type_59_1;ZTZ59
 cn_type_59_2;Medium Tank
 
 cn_ztz_59a_shop;ZTZ59A
 cn_ztz_59a_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color>
-内蒙古第一机械制造厂</color>
+内蒙古第一机械制造厂 (国营第六一七厂)</color>
 <color=#5cae63>WZ120A</color>
+<color=#919191>1959年1式中型坦克</color>
 ZTZ1959A式中型坦克"
 cn_ztz_59a_1;ZTZ59A
 cn_ztz_59a_2;Medium Tank
 
 cn_type_59d_shop;ZTZ59D1
 cn_type_59d_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color>
-内蒙古第一机械制造厂</color>
+内蒙古第一机械制造厂 (国营第六一七厂)</color>
 <color=#5cae63>WZ120C</color>
 ZTZ1959D1式中型坦克"
 cn_type_59d_1;ZTZ59D1
 cn_type_59d_2;Medium Tank
 
 cn_type_69_shop;ZTZ69
-cn_type_69_0;"<color=#81c3fc>内蒙古第一机械制造厂</color>
+cn_type_69_0;"<color=#81c3fc>内蒙古第一机械制造厂 (国营第六一七厂)</color>
 <color=#5cae63>WZ121</color>
+<color=#919191>1969年式中型坦克</color>
 ZTZ1969式中型坦克"
 cn_type_69_1;ZTZ69
 cn_type_69_2;Medium Tank
 
 cn_type_69_2a_shop;69-II
-cn_type_69_2a_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+cn_type_69_2a_0;"<color=#81c3fc>内蒙古第一机械制造厂 (国营第六一七厂)</color>
 <color=#5cae63>BW121A</color>
 69-II主战坦克"
 cn_type_69_2a_1;69-II
@@ -1081,6 +1091,7 @@ cn_ztz_88a_2;MBT
 cn_ztz_96_shop;ZTZ96
 cn_ztz_96_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
 <color=#5cae63>WZ122H</color>
+<color=#919191>ZTZ1988C式主战坦克</color>
 ZTZ1996式主战坦克"
 cn_ztz_96_1;ZTZ96
 cn_ztz_96_2;MBT

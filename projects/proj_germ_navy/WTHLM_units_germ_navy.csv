@@ -11,6 +11,34 @@ Vehicle name
 <color=@currencyGoldColor>Unit/Ace</color>
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
+germ_ls_class_shop;LS 3
+germ_ls_class_0;"<color=#81c3fc>Dornier-Werft</color>
+<color=#fffa62>leichtes Schnellboot</color>
+LS 3"
+germ_ls_class_1;LS 3
+germ_ls_class_2;Light Fast Boat
+
+germ_ls4_class_shop;LS 4
+germ_ls4_class_0;"<color=#81c3fc>Dornier-Werft</color>
+<color=#fffa62>leichtes Schnellboot</color>
+LS 4 ""Esau"""
+germ_ls4_class_1;LS 4
+germ_ls4_class_2;Light Fast Boat
+
+germ_s38_shop;S 38
+germ_s38_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12831</color>
+<color=#fffa62>Schnellboot (S 38-53)</color>
+S 38"
+germ_s38_1;S 38
+germ_s38_2;Fast Boat
+
+germ_s38b_shop;S 68
+germ_s38b_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12861</color>
+<color=#fffa62>Schnellboot (S 62-100)</color>
+S 68"
+germ_s38b_1;S 68
+germ_s38b_2;Fast Boat
+
 germ_s30_s61_shop;S 61
 germ_s30_s61_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12854</color>
 <color=#fffa62>Schnellboot (S 54-61)</color>
@@ -18,11 +46,141 @@ S 61"
 germ_s30_s61_1;S 61
 germ_s30_s61_2;Fast Boat
 
+germ_s_100_class_shop;S 130
+germ_s_100_class_0;"<color=#81c3fc>Schlichting-Werft, Bau-Nr. 1030</color>
+<color=#fffa62>Schnellboot (S 126-133)</color>
+S 130"
+germ_s_100_class_1;S 130
+germ_s_100_class_2;Fast Boat
+
+germ_s_100_s_174_class_shop;S 174
+germ_s_100_s_174_class_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12944</color>
+<color=#fffa62>Schnellboot (S 171-186)</color>
+S 174"
+germ_s_100_s_174_class_1;S 174
+germ_s_100_s_174_class_2;Fast Boat
+
+germ_s_100_s204_lang_shop;S 204
+germ_s_100_s204_lang_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12974</color>
+Schnellboot (S 195-218)
+S 204 ""Lang"""
+germ_s_100_s204_lang_1;S 204
+germ_s_100_s204_lang_2;Fast Boat
+
+germ_s_700_s_701_shop;S 701
+germ_s_700_s_701_0;"<color=#81c3fc>Danziger Waggonfabrik, Bau-Nr. 5001</color>
+<color=#fffa62>Schnellboot (S 701-709)</color>
+S 701"
+germ_s_700_s_701_1;S 701
+germ_s_700_s_701_2;Fast Boat
+
+germ_rboot_r41_shop;R 41
+germ_rboot_r41_0;"<color=#81c3fc>Schlichting-Werft, Bau-Nr. 971</color>
+<color=#fffa62>Räumboot (R 41-48)</color>
+R 41"
+germ_rboot_r41_1;R 41
+germ_rboot_r41_2;Minesweeper
+
+germ_rboot_r130_shop;R 130
+germ_rboot_r130_0;"<color=#81c3fc>Abeking & Rasmussen, Bau-Nr. 3701</color>
+<color=#fffa62>Räumboot (R 130-150)</color>
+R 130"
+germ_rboot_r130_1;R 130
+germ_rboot_r130_2;Minesweeper
+
+germ_rboot_r301_shop;R 301
+germ_rboot_r301_0;"<color=#81c3fc>Abeking & Rasmussen, Bau-Nr. 3620</color>
+<color=#fffa62>Räumboot (R 301-312)</color>
+R 301"
+germ_rboot_r301_1;R 301
+germ_rboot_r301_2;Minesweeper
+
+germ_km5_shop;KS 5
+germ_km5_0;"<color=#81c3fc>Rolandwerft</color>
+<color=#fffa62>Küsten-Schnellboot</color>
+<color=#919191>KM 5</color>
+KS 5"
+germ_km5_1;KS 5
+germ_km5_2;Coastal Fast Boat
+
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+germ_pr_131_shop;Nr. 911
+germ_pr_131_0;"<color=#81c3fc>VEB Schiffswerft Rechlin, Bau-Nr. 131.401 <color=@commonTextColor>+</color> Peene-Werft</color>
+<color=#fffa62>kleines Torpedoschnellboot Projekt 131.400 ""Libelle""</color>
+<color=#919191>Nr. 990</color>
+Nr. 911"
+germ_pr_131_1;Nr. 911
+germ_pr_131_2;Small Torpedo Boat
+
+germ_sf40_schwere_flakkampffaehre_shop;SF V01
+germ_sf40_schwere_flakkampffaehre_0;"<color=#81c3fc>Böndel Pionier-Sonderkommando</color>
+<color=#fffa62>Siebelfähre <color=@commonTextColor>|</color> schwere Flakkampffähre</color>
+SF V01"
+germ_sf40_schwere_flakkampffaehre_1;SF V01
+germ_sf40_schwere_flakkampffaehre_2;Heavy Anti-Aircraft Ferry
+
+germ_sf40_leichte_flakkampffaehre_shop;SF 154
+germ_sf40_leichte_flakkampffaehre_0;"<color=#81c3fc>Böndel Pionier-Sonderkommando</color>
+<color=#fffa62>Siebelfähre 40 <color=@commonTextColor>|</color> leichte Flakkampffähre</color>
+SF 154"
+germ_sf40_leichte_flakkampffaehre_1;SF 154
+germ_sf40_leichte_flakkampffaehre_2;Light Anti-Aircraft Ferry
+
+germ_vs10_hydrofoil_shop;VS 10
+germ_vs10_hydrofoil_0;"<color=#81c3fc>Gebrüder Sachsenberg, Bau-Nr. 1688</color>
+<color=#fffa62>Versuchsschnellboote</color>
+VS 10"
+germ_vs10_hydrofoil_1;VS 10
+germ_vs10_hydrofoil_2;Experimental Fast Boat
+
+germ_vs8_hydrofoil_shop;VS 8
+germ_vs8_hydrofoil_0;"<color=#81c3fc>Gebrüder Sachsenberg, Bau-Nr. 1689</color>
+<color=#fffa62>Versuchsschnellboote</color>
+VS 8 ""Schell I"""
+germ_vs8_hydrofoil_1;VS 8
+germ_vs8_hydrofoil_2;Experimental Fast Boat
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
+germ_mz_1_shop;MZ 1
+germ_mz_1_0;"<color=#81c3fc>H. C. Stülcken Sohn, Bau-Nr. 816</color>
+<color=#fffa62>Mehrzweckboot typ 1943</color>
+MZ 1"
+germ_mz_1_1;MZ 1
+germ_mz_1_2;Multi-Purpose Boat
+
+germ_minelayer_drache_shop;Drache
+germ_minelayer_drache_0;"<color=#81c3fc>Reiherstieg Schiffswerfte und Maschinenfabrik, Bau-Nr. 118</color>
+<color=#fffa62>Minenleger</color>
+Drache
+<color=#adadad>(1942)</color>"
+germ_minelayer_drache_1;Drache
+germ_minelayer_drache_2;Minelayer
+
+germ_artilleriefahrprahm_typ_d1_shop;AF 99
+germ_artilleriefahrprahm_typ_d1_0;"<color=#81c3fc>J. Smit Czn.</color>
+<color=#fffa62>Artilleriefährprahm typ D 1</color>
+<color=#919191>F 831</color>
+AF 99"
+germ_artilleriefahrprahm_typ_d1_1;AF 99
+germ_artilleriefahrprahm_typ_d1_2;Artillery Barge
+
+germ_artilleriefahrprahm_typ_d3_shop;AF 128
+germ_artilleriefahrprahm_typ_d3_0;"<color=#81c3fc>Schiffs- und Maschinenbau Mannheim, Bau-Nr. 3008</color>
+<color=#fffa62>Artilleriefährprahm typ D 3</color>
+<color=#919191>F 1099</color>
+AF 128"
+germ_artilleriefahrprahm_typ_d3_1;AF 128
+germ_artilleriefahrprahm_typ_d3_2;Artillery Barge
+
+germ_escort_typem1935_shop;M 17
+germ_escort_typem1935_0;"<color=#81c3fc>Oderwerke, Bau-Nr. 803</color>
+<color=#fffa62>Minensuchboot typ 1935</color>
+M 17"
+germ_escort_typem1935_1;M 17
+germ_escort_typem1935_2;Minesweeper
+
 germ_rdm242_shop;Krischan der Große
 germ_rdm242_0;"<color=#81c3fc>Rotterdamsche Droogdok Mij, Bau-Nr. 242</color>
 <color=#fffa62>Flakträger</color>
@@ -38,7 +196,36 @@ Schütze (M 1062)"
 germ_schutze_class_1;Schütze (M 1062)
 germ_schutze_class_2;Minesweeper
 
+germ_kondor2_class_shop;Bernau (343)
+germ_kondor2_class_0;"<color=#81c3fc>Peene-Werft, Bau-Nr. 89.240</color>
+<color=#fffa62>Hochsee-Minenabwehrschiff Projekt 89.2 UR2</color>
+Bernau (343)
+<color=#adadad>(1985)</color>"
+germ_kondor2_class_1;Bernau
+germ_kondor2_class_2;Deep-Sea Minesweeper
+
+germ_escort_typem1943_shop;M 601
+germ_escort_typem1943_0;"<color=#fffa62>Minensuchboot typ 1943</color>
+M 601"
+germ_escort_typem1943_1;M 601
+germ_escort_typem1943_2;Minesweeper
+
+germ_skr_pr50_karl_marx_shop;Karl Marx (122)
+germ_skr_pr50_karl_marx_0;"<color=#81c3fc>Sudostroit'el'nyj zavot № 820 <color=@commonTextColor>/</color> Kronshtattsk'ij ord'ena Lyenina Morskoj
+zavot</color>
+<color=#fffa62>Küstenschutzschiff Projekt 50</color>
+Karl Marx (122)
+<color=#adadad>(1962)</color>"
+germ_skr_pr50_karl_marx_1;Karl Marx
+germ_skr_pr50_karl_marx_2;Coastal Defense Ship
+
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+germ_pr1331_shop;Parchim (242)
+germ_pr1331_0;"<color=#81c3fc>Peene-Werft</color>
+<color=#fffa62>Küstenschutzschiff Projekt 133.1</color>
+Parchim (242)"
+germ_pr1331_1;Parchim (242)
+germ_pr1331_2;Coastal Defense Ship
 
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 germ_kanonenboot_k4_lorelei_shop;K 4

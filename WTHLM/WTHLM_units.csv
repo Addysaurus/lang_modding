@@ -14423,7 +14423,6 @@ jp_type_61_mod_2;Medium Tank
 
 jp_m36b2_jgsdf_shop;▅ M36B2 GMC
 jp_m36b2_jgsdf_0;"<color=#81c3fc>GM Defense</color>
-<color=#5cae63>G-237</color>
 ▅ Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
 jp_m36b2_jgsdf_1;▅ M36B2
 jp_m36b2_jgsdf_2;SPG
@@ -17400,7 +17399,9 @@ it_2s1_1;◔ 2SZ1
 it_2s1_2;SPH
 
 it_pzkpfw_VI_ausf_e_tiger_shop;◐ Tiger E (spät)
-it_pzkpfw_VI_ausf_e_tiger_0;"◐ Panzerkampfwagen Tiger Ausf. E
+it_pzkpfw_VI_ausf_e_tiger_0;"<color=#81c3fc>Henschel & Sohn</color>
+<color=#5cae63>Sd.Kfz. 181</color>
+◐ Panzerkampfwagen Tiger Ausf. E
 <color=#adadad>(spät)</color>"
 it_pzkpfw_VI_ausf_e_tiger_1;◐ Tiger E
 it_pzkpfw_VI_ausf_e_tiger_2;Heavy Tank
@@ -17604,35 +17605,35 @@ it_samp_t_fcs_2;Radar
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 it_mas_classe500_3_1944_shop;MAS 561
 it_mas_classe500_3_1944_0;"<color=#81c3fc>Cantiere Baglietto</color>
-<color=#fffa62>Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie</color>
+<color=#fffa62>Motoscafo armato ailurante tipo celocissimo classe 500, 3ª Serie</color>
 MAS 561"
 it_mas_classe500_3_1944_1;MAS 561
 it_mas_classe500_3_1944_2;Armed Torpedo Boat
 
 it_mas_classe500_3_shop;MAS 555
 it_mas_classe500_3_0;"<color=#81c3fc>Cantiere navale Picchiotti</color>
-<color=#fffa62>Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 3ª Serie</color>
+<color=#fffa62>Motoscafo armato ailurante tipo celocissimo classe 500, 3ª Serie</color>
 MAS 555"
 it_mas_classe500_3_1;MAS 555
 it_mas_classe500_3_2;Armed Torpedo Boat
 
 it_mas_classe500_4_shop;MAS 569
 it_mas_classe500_4_0;"<color=#81c3fc>Cantiere Baglietto</color>
-<color=#fffa62>Motoscafo Armato Silurante Tipo Velocissimo Classe 500, 4ª Serie</color>
+<color=#fffa62>Motoscafo armato ailurante tipo celocissimo classe 500, 4ª Serie</color>
 MAS 569"
 it_mas_classe500_4_1;MAS 569
 it_mas_classe500_4_2;Armed Torpedo Boat
 
 it_mas_classe429_shop;MAS 429
 it_mas_classe429_0;"<color=#81c3fc>Società Veneziana Automobili Navali</color>
-<color=#fffa62>Motoscafo Antisommergibili Tipo Autocannionera 1919</color>
+<color=#fffa62>Motoscafo antisommergibili tipo autocannionera 1919</color>
 MAS 429"
 it_mas_classe429_1;MAS 429
-it_mas_classe429_2;Anti-Submarine Gunboat
+it_mas_classe429_2;Anti-Submarine GunboatP 420
 
 it_vas_baglietto_68t_1serie_shop;VAS 201
 it_vas_baglietto_68t_1serie_0;"<color=#81c3fc>Cantiere Baglietto</color>
-<color=#fffa62>Motovedette Antisommergibili Tipo Baglietto 68 t, 1ª Serie</color>
+<color=#fffa62>Motovedette antisommergibili tipo Baglietto 68 t, 1ª Serie</color>
 VAS 201"
 it_vas_baglietto_68t_1serie_1;VAS 201
 it_vas_baglietto_68t_1serie_2;Anti-Submarine Patrol Boat
@@ -17640,56 +17641,56 @@ it_vas_baglietto_68t_1serie_2;Anti-Submarine Patrol Boat
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 it_ms15_1a_shop;MS 15
 it_ms15_1a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 1ª Serie</color>
+<color=#fffa62>Motosiluranti tipo CRDA 60 t, 1ª Serie</color>
 MS 15"
 it_ms15_1a_1;MS 15
 it_ms15_1a_2;Motor Torpedo Boat
 
 it_ms53_2a_shop;MS 53
 it_ms53_2a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
+<color=#fffa62>Motosiluranti tipo CRDA 60 t, 2ª Serie</color>
 MS 53"
 it_ms53_2a_1;MS 53
 it_ms53_2a_2;Motor Torpedo Boat
 
 it_ms74_2a_shop;MS 74
 it_ms74_2a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
+<color=#fffa62>Motosiluranti tipo CRDA 60 t, 2ª Serie</color>
 MS 74"
 it_ms74_2a_1;MS 74
 it_ms74_2a_2;Motor Torpedo Boat
 
 it_ms473_2a_shop;MS 472
 it_ms473_2a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
+<color=#fffa62>Motosiluranti tipo CRDA 60 t, 2ª Serie</color>
 MS 472"
 it_ms473_2a_1;MS 472
 it_ms473_2a_2;Motor Torpedo Boat
 
 it_ms471_1a_shop;MV 611
 it_ms471_1a_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#fffa62>Motovedette Tipo CRDA 60 t, 1ª Serie</color>
+<color=#fffa62>Motovedette tipo CRDA 60 t, 1ª Serie</color>
 MV 611"
 it_ms471_1a_1;MV 611
 it_ms471_1a_2;Patrol Boat
 
 it_ms473_2a_art_shop;MS 473
 it_ms473_2a_art_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#fffa62>Motosiluranti Tipo CRDA 60 t, 2ª Serie</color>
+<color=#fffa62>Motosiluranti tipo CRDA 60 t, 2ª Serie</color>
 MS 473"
 it_ms473_2a_art_1;MS 473
 it_ms473_2a_art_2;Motor Torpedo Boat
 
 it_mas_stefano_turr_shop;Stefano Turr
 it_mas_stefano_turr_0;"<color=#81c3fc>Cantiere Baglietto</color>
-<color=#fffa62>Motoscafo Armato Silurante Tipo Sperimentale Diesel</color>
+<color=#fffa62>Motoscafo armato ailurante tipo sperimentale diesel</color>
 Stefano Turr"
 it_mas_stefano_turr_1;Stefano Turr
 it_mas_stefano_turr_2;Armed Torpedo Boat
 
 it_mas441_shop;MAS 441
 it_mas441_0;"<color=#81c3fc>Cantiere Baglietto <color=@commonTextColor>/</color> Arsenale militare marittimo di Taranto</color>
-<color=#fffa62>Motoscafo Antisommergibili Tipo Baglietto 1934</color>
+<color=#fffa62>Motoscafo antisommergibili tipo Baglietto 1934</color>
 MAS 441
 <color=#adadad>(1940)</color>"
 it_mas441_1;MAS 441
@@ -17698,21 +17699,21 @@ it_mas441_2;Anti-Submarine Boat
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
 it_a1_vosper_shop;MS 461
 it_a1_vosper_0;"<color=#81c3fc>Robert Jacob Shipyard</color>
-<color=#fffa62>Motosiluranti Tipo Vosper da 72 Piedi e 6 Pollici</color>
+<color=#fffa62>Motosiluranti tipo Vosper da 72 piedi e 6 pollici</color>
 MS 461"
 it_a1_vosper_1;MS 461
 it_a1_vosper_2;Motor Torpedo Boat
 
 it_ms444_shop;MS 444
 it_ms444_0;"<color=#81c3fc>Cantiere navale di Monfalcone</color>
-<color=#fffa62>Motosiluranti Tipo Higgins da 78 Piedi</color>
+<color=#fffa62>Motosiluranti tipo Higgins da 78 piedi</color>
 MS 444"
 it_ms444_1;MS 444
 it_ms444_2;Motor Torpedo Boat
 
 it_mc_485_shop;MC 485
 it_mc_485_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12860</color>
-<color=#fffa62>Motosiluranti Tipo Lürssen S 26</color>
+<color=#fffa62>Motosiluranti tipo Lürssen S 26</color>
 MC 485"
 it_mc_485_1;MC 485
 it_mc_485_2;Motor Torpedo Boat
@@ -17720,28 +17721,28 @@ it_mc_485_2;Motor Torpedo Boat
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 it_mc490_folgore_shop;MC 490
 it_mc490_folgore_0;"<color=#81c3fc>Cantiere navale Triestino</color>
-<color=#fffa62>Motocannoniera Convertibile Tipo Sperimentale CRDA</color>
+<color=#fffa62>Motocannoniera convertibile tipo sperimentale CRDA</color>
 MC 490"
 it_mc490_folgore_1;MC 490
 it_mc490_folgore_2;Convertible Motor Gunboat
 
 it_mc492_baleno_shop;Baleno (MC 492)
 it_mc492_baleno_0;"<color=#81c3fc>Cantiere navale Triestino</color>
-<color=#fffa62>Motocannoniera Convertibile Classe Lampo</color>
+<color=#fffa62>Motocannoniera convertibile classe Lampo</color>
 Baleno (MC 492)"
 it_mc492_baleno_1;Baleno (MC 492)
 it_mc492_baleno_2;Convertible Motor Gunboat
 
 it_gabbiano_class_shop;Gabbiano (GB)
 it_gabbiano_class_0;"<color=#81c3fc>Cantiere navale di Voltri</color>
-<color=#fffa62>Corvetta Classe Gabbiano, 1ª Serie</color>
+<color=#fffa62>Corvetta classe Gabbiano, 1ª Serie</color>
 Gabbiano (GB)"
 it_gabbiano_class_1;Gabbiano
 it_gabbiano_class_2;Corvette
 
 it_gabbiano_class_c16_shop;Folaga (F 576)
 it_gabbiano_class_c16_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#fffa62>Corvetta Classe Gabbiano, 1ª Serie</color>
+<color=#fffa62>Corvetta classe Gabbiano, 1ª Serie</color>
 Folaga (F 576)
 <color=#adadad>(1953)</color>"
 it_gabbiano_class_c16_1;Folaga
@@ -17749,20 +17750,20 @@ it_gabbiano_class_c16_2;Corvette
 
 it_p420_sparviero_shop;Sparviero (P 420)
 it_p420_sparviero_0;"<color=#81c3fc>Cantiere Navale del Muggiano</color>
-Aliscafo Missilistico Sparviero (P 420)"
+Aliscafo missilistico Sparviero (P 420)"
 it_p420_sparviero_1;Sparviero
 it_p420_sparviero_2;Missile Hydrofoil
 
 it_p493_freccia_shop;Freccia (P 493)
 it_p493_freccia_0;"<color=#81c3fc>Cantiere navali del Tirreno e Riuniti</color>
-<color=#fffa62>Motocannoniera Convertibile Classe 590</color>
+<color=#fffa62>Motocannoniera convertibile classe 590</color>
 Freccia (P 493)"
 it_p493_freccia_1;Freccia
 it_p493_freccia_2;Convertible Motor Gunboat
 
 it_p494_saetta_shop;Saetta (P 494)
 it_p494_saetta_0;"<color=#81c3fc>Cantiere navale Triestino</color>
-<color=#fffa62>Motocannoniera Convertibile Classe 590</color>
+<color=#fffa62>Motocannoniera convertibile classe 590</color>
 Saetta (P 494)"
 it_p494_saetta_1;Saetta
 it_p494_saetta_2;Convertible Motor Gunboat
@@ -17770,35 +17771,35 @@ it_p494_saetta_2;Convertible Motor Gunboat
 //ITALY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 it_alano_9851_shop;Alano (L 9851)
 it_alano_9851_0;"<color=#81c3fc>Commercial Iron Works</color>
-<color=#fffa62>Motocannoniera Classe Alano</color>
+<color=#fffa62>Motocannoniera classe Alano</color>
 Alano (L 9851)"
 it_alano_9851_1;Alano
 it_alano_9851_2;Motor Gunboat
 
 it_cassiopea_p401_shop;Cassiopea (P 401)
 it_cassiopea_p401_0;"<color=#81c3fc>Fincantieri del Muggiano</color>
-<color=#fffa62>Pattugliatori Classe Cassiopea</color>
+<color=#fffa62>Pattugliatori classe Cassiopea</color>
 Cassiopea (P 401)"
 it_cassiopea_p401_1;Cassiopea
 it_cassiopea_p401_2;Patrol Vessel
 
 it_ciclone_class_ghibli_shop;Ghibli (GH)
 it_ciclone_class_ghibli_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia</color>
-<color=#fffa62>Torpediniera Classe Ciclone</color>
+<color=#fffa62>Torpediniera classe Ciclone</color>
 Ghibli (GH)"
 it_ciclone_class_ghibli_1;Ghibli
 it_ciclone_class_ghibli_2;Torpedo Boat
 
 it_albatros_class_f543_shop;Albatros (F 543)
 it_albatros_class_f543_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia</color>
-<color=#fffa62>Corvetta Classe Albatros</color>
+<color=#fffa62>Corvetta classe Albatros</color>
 Albatros (F 543)"
 it_albatros_class_f543_1;Albatros
 it_albatros_class_f543_2;Corvette
 
 it_albatros_class_f544_shop;Alcione (F 544)
 it_albatros_class_f544_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia</color>
-<color=#fffa62>Corvetta Classe Albatros</color>
+<color=#fffa62>Corvetta classe Albatros</color>
 Alcione (F 544)"
 it_albatros_class_f544_1;Albatros
 it_albatros_class_f544_2;Corvette
@@ -17806,14 +17807,14 @@ it_albatros_class_f544_2;Corvette
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
 it_destroyer_turbine_shop;Turbine (TB)
 it_destroyer_turbine_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#fffa62>Cacciatorpediniere Classe Turbine</color>
+<color=#fffa62>Cacciatorpediniere classe Turbine</color>
 Turbine (TB)"
 it_destroyer_turbine_1;Turbine
 it_destroyer_turbine_2;Destroyer
 
 it_destroyer_aquilone_shop;Aquilone (AL)
 it_destroyer_aquilone_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente <color=@commonTextColor>/</color> Cantiere navali del Quarnaro</color>
-<color=#fffa62>Cacciatorpediniere Classe Turbine</color>
+<color=#fffa62>Cacciatorpediniere classe Turbine</color>
 Aquilone (AL)
 <color=#adadad>(1939)</color>"
 it_destroyer_aquilone_1;Aquilone
@@ -17821,7 +17822,7 @@ it_destroyer_aquilone_2;Destroyer
 
 it_destroyer_dardo_shop;Dardo (DR)
 it_destroyer_dardo_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#fffa62>Cacciatorpediniere Classe Freccia</color>
+<color=#fffa62>Cacciatorpediniere classe Freccia</color>
 Dardo (DR)"
 it_destroyer_dardo_1;Dardo
 it_destroyer_dardo_2;Destroyer
@@ -17829,7 +17830,7 @@ it_destroyer_dardo_2;Destroyer
 it_destroyer_saetta_shop;Saetta (SA)
 it_destroyer_saetta_0;"<color=#81c3fc>Cantiere navale del Tirreno di Riva Trigoso <color=@commonTextColor>/</color> Cantiere navali riuniti di
 Palermo</color>
-<color=#fffa62>Cacciatorpediniere Classe Freccia</color>
+<color=#fffa62>Cacciatorpediniere classe Freccia</color>
 Saetta (SA)
 <color=#adadad>(1942)</color>"
 it_destroyer_saetta_1;Saetta
@@ -17838,7 +17839,7 @@ it_destroyer_saetta_2;Destroyer
 it_destroyer_oriani_class_gioberti_shop;Vincenzo Gioberti (GB)
 it_destroyer_oriani_class_gioberti_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno <color=@commonTextColor>/</color> Cantiere navale di
 Castellammare di Stabia</color>
-<color=#fffa62>Cacciatorpediniere Classe Alfredo Oriani</color>
+<color=#fffa62>Cacciatorpediniere classe Alfredo Oriani</color>
 Vincenzo Gioberti (GB)
 <color=#adadad>(1942)</color>"
 it_destroyer_oriani_class_gioberti_1;Vincenzo Gioberti (GB)
@@ -17846,7 +17847,7 @@ it_destroyer_oriani_class_gioberti_2;Destroyer
 
 it_destroyer_vifor_class_aquila_shop;Aquila (AQ)
 it_destroyer_vifor_class_aquila_0;"<color=#81c3fc>Cantiere navali Pattison</color>
-<color=#fffa62>Cacciatorpediniere Classe Aquila</color>
+<color=#fffa62>Cacciatorpediniere classe Aquila</color>
 Aquila (AQ)"
 it_destroyer_vifor_class_aquila_1;Aquila
 it_destroyer_vifor_class_aquila_2;Destroyer
@@ -17854,7 +17855,7 @@ it_destroyer_vifor_class_aquila_2;Destroyer
 it_destroyer_maestrale_class_grecale_shop;Grecale (GR)
 it_destroyer_maestrale_class_grecale_0;"<color=#81c3fc>Cantiere Navali del Tirreno e Riuniti <color=@commonTextColor>/</color> Arsenale militare marittimo della
 Spezia</color>
-<color=#fffa62>Cacciatorpediniere Classe Maestrale</color>
+<color=#fffa62>Cacciatorpediniere classe Maestrale</color>
 Gercale (GR)
 <color=#adadad>(1949)</color>"
 it_destroyer_maestrale_class_grecale_1;Grecale
@@ -17863,7 +17864,7 @@ it_destroyer_maestrale_class_grecale_2;Destroyer
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 it_destroyer_leone_class_shop;Leone (LE)
 it_destroyer_leone_class_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#fffa62>Esploratore Classe Leone</color>
+<color=#fffa62>Esploratore classe Leone</color>
 Leone (LE)
 <color=#adadad>(1936)</color>"
 it_destroyer_leone_class_1;Leone
@@ -17871,7 +17872,7 @@ it_destroyer_leone_class_2;Destroyer
 
 it_destroyer_leone_class_tigre_shop;Tigre (TI)
 it_destroyer_leone_class_tigre_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#fffa62>Esploratore Classe Leone</color>
+<color=#fffa62>Esploratore classe Leone</color>
 Tigre (TI)
 <color=#adadad>(1931)</color>"
 it_destroyer_leone_class_tigre_1;Tigre
@@ -17879,14 +17880,14 @@ it_destroyer_leone_class_tigre_2;Destroyer
 
 it_destroyer_soldati_serie1_camicianera_shop;Camicia Nera (CN)
 it_destroyer_soldati_serie1_camicianera_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
-<color=#fffa62>Cacciatorpediniere Classe Soldati, 1ª Serie</color>
+<color=#fffa62>Cacciatorpediniere classe Soldati, 1ª Serie</color>
 Camicia Nera (CN)"
 it_destroyer_soldati_serie1_camicianera_1;Camicia Nera
 it_destroyer_soldati_serie1_camicianera_2;Destroyer
 
 it_destroyer_soldati_serie1_geniere_shop;Geniere (GE)
 it_destroyer_soldati_serie1_geniere_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
-<color=#fffa62>Cacciatorpediniere Classe Soldati, 1ª Serie</color>
+<color=#fffa62>Cacciatorpediniere classe Soldati, 1ª Serie</color>
 Geniere (GE)
 <color=#adadad>(1942)</color>"
 it_destroyer_soldati_serie1_geniere_1;Geniere
@@ -17894,28 +17895,28 @@ it_destroyer_soldati_serie1_geniere_2;Destroyer
 
 it_destroyer_soldati_serie1_shop;Aviere (AV)
 it_destroyer_soldati_serie1_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
-<color=#fffa62>Cacciatorpediniere Classe Soldati, 1ª Serie</color>
+<color=#fffa62>Cacciatorpediniere classe Soldati, 1ª Serie</color>
 Aviere (AV)"
 it_destroyer_soldati_serie1_1;Aviere
 it_destroyer_soldati_serie1_2;Destroyer
 
 it_destroyer_comandanti_medaglie_doro_shop;Comandante Margottini (MA)
 it_destroyer_comandanti_medaglie_doro_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
-<color=#fffa62>Cacciatorpediniere Classe Comandanti Medaglie d'Oro, 1ª Serie</color>
+<color=#fffa62>Cacciatorpediniere classe Comandanti Medaglie d'Oro, 1ª Serie</color>
 Comandante Margottini (MA)"
 it_destroyer_comandanti_medaglie_doro_1;Comandante Margottini
 it_destroyer_comandanti_medaglie_doro_2;Destroyer
 
 it_destroyer_impetuoso_class_impetuoso_shop;Impetuoso (D 558)
 it_destroyer_impetuoso_class_impetuoso_0;"<color=#81c3fc>Cantiere navale di Riva Trigoso</color>
-<color=#fffa62>Cacciatorpediniere Classe Indomito</color>
+<color=#fffa62>Cacciatorpediniere classe Indomito</color>
 Impetuoso (D 558)"
 it_destroyer_impetuoso_class_impetuoso_1;Impetuoso
 it_destroyer_impetuoso_class_impetuoso_2;Destroyer
 
 it_destroyer_fletcher_geniere_shop;Geniere (D 555)
 it_destroyer_fletcher_geniere_0;"<color=#81c3fc>Seattle-Tacoma Shipbuilding Corporation</color>
-<color=#fffa62>Cacciatorpediniere Classe Fante</color>
+<color=#fffa62>Cacciatorpediniere classe Fante</color>
 Geniere (D 555)"
 it_destroyer_fletcher_geniere_1;Geniere
 it_destroyer_fletcher_geniere_2;Destroyer
@@ -17923,7 +17924,7 @@ it_destroyer_fletcher_geniere_2;Destroyer
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 it_destroyer_navigatori_class_verazzano_shop;Giovanni da Verazzano (DV)
 it_destroyer_navigatori_class_verazzano_0;"<color=#81c3fc>Cantiere navali del Quarnaro</color>
-<color=#fffa62>Cacciatorpediniere Classe Navigatori</color>
+<color=#fffa62>Cacciatorpediniere classe Navigatori</color>
 Giovanni da Verazzano (DV)
 <color=#adadad>(1940)</color>"
 it_destroyer_navigatori_class_verazzano_1;Giovanni da Verazzano
@@ -17931,7 +17932,7 @@ it_destroyer_navigatori_class_verazzano_2;Destroyer
 
 it_cruiser_bartolomeocolleoni_1940_shop;Bartolomeo Colleoni
 it_cruiser_bartolomeocolleoni_1940_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Alberto di Giussano</color>
+<color=#fffa62>Incrociatore leggero classe Condottieri tipo Alberto di Giussano</color>
 Bartolomeo Colleoni"
 it_cruiser_bartolomeocolleoni_1940_1;Bartolomeo Colleoni
 it_cruiser_bartolomeocolleoni_1940_2;Light Cruiser
@@ -17939,14 +17940,14 @@ it_cruiser_bartolomeocolleoni_1940_2;Light Cruiser
 it_cruiser_cadorna_class_diaz_shop;Armando Diaz
 it_cruiser_cadorna_class_diaz_0;"<color=#81c3fc>Società per la Costruzione di Navi, Macchine ed Artiglierie Odero
 Terni-Orlando di Muggiano</color>
-<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna</color>
+<color=#fffa62>Incrociatore leggero classe Condottieri tipo Luigi Cadorna</color>
 Armando Diaz"
 it_cruiser_cadorna_class_diaz_1;Armando Diaz
 it_cruiser_cadorna_class_diaz_2;Light Cruiser
 
 it_cruiser_cadorna_class_cadorna_shop;Luigi Cadorna
 it_cruiser_cadorna_class_cadorna_0;"<color=#81c3fc>Cantiere riuniti dell'Adriatico</color>
-<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Luigi Cadorna</color>
+<color=#fffa62>Incrociatore leggero classe Condottieri tipo Luigi Cadorna</color>
 Luigi Cadorna
 <color=#adadad>(1944)</color>"
 it_cruiser_cadorna_class_cadorna_1;Luigi Cadorna
@@ -17954,19 +17955,19 @@ it_cruiser_cadorna_class_cadorna_2;Light Cruiser
 
 it_cruiser_etna_class_shop;Etna
 it_cruiser_etna_class_0;"<color=#81c3fc>Cantiere navale Triestino</color>
-<color=#fffa62>Incrociatore Leggero Classe Etna</color>
+<color=#fffa62>Incrociatore leggero classe Etna</color>
 Etna"
 it_cruiser_etna_class_1;Etna
 it_cruiser_etna_class_2;Light Cruiser
 
 it_cruiser_capitani_romani_class_attilio_regolo_shop;Attilio Regolo
 it_cruiser_capitani_romani_class_attilio_regolo_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno</color>
-<color=#fffa62>Incrociatore Leggero Classe Capitani Romani</color>
+<color=#fffa62>Incrociatore leggero classe Capitani Romani</color>
 Attilio Regolo"
 it_cruiser_capitani_romani_class_attilio_regolo_1;Attilio Regolo
 it_cruiser_capitani_romani_class_attilio_regolo_2;Light Cruiser
 
-it_cruiser_capitani_romani_class_attilio_regolo_EC_0;Incrociatore Leggero Classe Capitani Romani
+it_cruiser_capitani_romani_class_attilio_regolo_EC_0;Incrociatore leggero classe Capitani Romani
 Attilio Regolo
 it_cruiser_capitani_romani_class_attilio_regolo_EC_1;Attilio Regolo
 it_cruiser_capitani_romani_class_attilio_regolo_EC_2;Light Cruiser
@@ -17975,13 +17976,13 @@ it_cruiser_capitani_romani_class_attilio_regolo_EC_2;Light Cruiser
 it_cruiser_montecuccoli_shop;Raimondo Montecuccoli
 it_cruiser_montecuccoli_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente <color=@commonTextColor>/</color> Arsenale militare marittimo della
 Spezia</color>
-<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Raimondo Montecuccoli</color>
+<color=#fffa62>Incrociatore leggero classe Condottieri tipo Raimondo Montecuccoli</color>
 Raimondo Montecuccoli
 <color=#adadad>(1943)</color>"
 it_cruiser_montecuccoli_1;Raimondo Montecuccoli
 it_cruiser_montecuccoli_2;Light Cruiser
 
-it_cruiser_montecuccoli_EC_0;Incrociatore Leggero Classe Condottieri Tipo Raimondo Montecuccoli
+it_cruiser_montecuccoli_EC_0;Incrociatore leggero classe Condottieri tipo Raimondo Montecuccoli
 Raimondo Montecuccoli
 <color=#adadad>(1943)</color>
 it_cruiser_montecuccoli_EC_1;Raimondo Montecuccoli
@@ -17990,7 +17991,7 @@ it_cruiser_montecuccoli_EC_2;Light Cruiser
 it_cruiser_eugenio_di_savoia_shop;Eugenio di Savoia
 it_cruiser_eugenio_di_savoia_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente <color=@commonTextColor>/</color> Cantiere navale di Castellammare di
 Stabia</color>
-<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Emanuele Filiberto Duca
+<color=#fffa62>Incrociatore leggero classe Condottieri tipo Emanuele Filiberto Duca
 d'Aosta</color>
 Eugenio di Savoia
 <color=#adadad>(1943)</color>"
@@ -18000,7 +18001,7 @@ it_cruiser_eugenio_di_savoia_2;Light Cruiser
 it_cruiser_garibaldi_class_abruzzi_shop;Luigi di Savoia Duca degli Abruzzi
 it_cruiser_garibaldi_class_abruzzi_0;"<color=#81c3fc>Società per la Costruzione di Navi, Macchine ed Artiglierie Odero
 Terni-Orlando di Muggiano <color=@commonTextColor>/</color> Port of Freetown</color>
-<color=#fffa62>Incrociatore Leggero Classe Condottieri Tipo Luigi di Savoia Duca degli
+<color=#fffa62>Incrociatore leggero classe Condottieri tipo Luigi di Savoia Duca degli
 Abruzzi</color>
 Luigi di Savoia Duca degli Abruzzi
 <color=#adadad>(1944)</color>"
@@ -18010,13 +18011,13 @@ it_cruiser_garibaldi_class_abruzzi_2;Light Cruiser
 it_cruiser_trento_shop;Trento
 it_cruiser_trento_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno <color=@commonTextColor>/</color> Arsenale militare marittimo
 della Spezia</color>
-<color=#fffa62>Incrociatore Pesante Trento</color>
+<color=#fffa62>Incrociatore pesante Trento</color>
 Trento
 <color=#adadad>(1937)</color>"
 it_cruiser_trento_1;Trento
 it_cruiser_trento_2;Heavy Cruiser
 
-it_cruiser_trento_EC_0;Incrociatore Pesante Trento
+it_cruiser_trento_EC_0;Incrociatore pesante Trento
 Trento
 <color=#adadad>(1937)</color>
 it_cruiser_trento_EC_1;Trento
@@ -18024,7 +18025,7 @@ it_cruiser_trento_EC_2;Heavy Cruiser
 
 it_cruiser_bolzano_shop;Bolzano
 it_cruiser_bolzano_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente</color>
-<color=#fffa62>Incrociatore Pesante Bolzano</color>
+<color=#fffa62>Incrociatore pesante Bolzano</color>
 Bolzano
 <color=#adadad>(1937)</color>"
 it_cruiser_bolzano_1;Bolzano
@@ -18032,7 +18033,7 @@ it_cruiser_bolzano_2;Heavy Cruiser
 
 it_cruiser_zara_class_pola_shop;Pola
 it_cruiser_zara_class_pola_0;"<color=#81c3fc>Odero-Terni-Orlando Cantiere di Livorno <color=@commonTextColor>/</color> Cantiere navale Triestino</color>
-<color=#fffa62>Incrociatore Pesante Zara</color>
+<color=#fffa62>Incrociatore pesante Zara</color>
 Pola
 <color=#adadad>(1937)</color>"
 it_cruiser_zara_class_pola_1;Pola
@@ -18041,13 +18042,13 @@ it_cruiser_zara_class_pola_2;Heavy Cruiser
 it_cruiser_zara_class_shop;Zara
 it_cruiser_zara_class_0;"<color=#81c3fc>Società per la Costruzione di Navi, Macchine ed Artiglierie Odero
 Terni-Orlando di Muggiano <color=@commonTextColor>/</color> Cantiere navale Triestino</color>
-<color=#fffa62>Incrociatore Pesante Zara</color>
+<color=#fffa62>Incrociatore pesante Zara</color>
 Zara
 <color=#adadad>(1937)</color>"
 it_cruiser_zara_class_1;Zara
 it_cruiser_zara_class_2;Heavy Cruiser
 
-it_cruiser_zara_class_EC_0;Incrociatore Pesante Zara
+it_cruiser_zara_class_EC_0;Incrociatore pesante Zara
 Zara
 <color=#adadad>(1937)</color>
 it_cruiser_zara_class_EC_1;Zara
@@ -18064,14 +18065,14 @@ it_battleship_dante_alighieri_2;Battleship
 
 it_battleship_francesco_caracciolo_shop;Francesco Caracciolo
 it_battleship_francesco_caracciolo_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia</color>
-<color=#fffa62>Corazzata Classe Francesco Caracciolo</color>
+<color=#fffa62>Corazzata classe Francesco Caracciolo</color>
 Francesco Caracciolo"
 it_battleship_francesco_caracciolo_1;Francesco Caracciolo
 it_battleship_francesco_caracciolo_2;Battleship
 
 it_battleship_andrea_doria_shop;Andrea Doria
 it_battleship_andrea_doria_0;"<color=#81c3fc>Arsenale militare marittimo della Spezia</color>
-<color=#fffa62>Corazzata Classe Duilio</color>
+<color=#fffa62>Corazzata classe Duilio</color>
 Andrea Doria
 <color=#adadad>(1925)</color>"
 it_battleship_andrea_doria_1;Andrea Doria
@@ -18079,14 +18080,14 @@ it_battleship_andrea_doria_2;Battleship
 
 it_battleship_leonardo_da_vinci_shop;Leonardo da Vinci
 it_battleship_leonardo_da_vinci_0;"<color=#81c3fc>Cantiere della Foce</color>
-<color=#fffa62>Corazzata Classe Conte di Cavour</color>
+<color=#fffa62>Corazzata classe Conte di Cavour</color>
 Leonardo da Vinci"
 it_battleship_leonardo_da_vinci_1;Leonardo da Vinci
 it_battleship_leonardo_da_vinci_2;Battleship
 
 it_battleship_conte_di_cavour_shop;Conte di Cavour
 it_battleship_conte_di_cavour_0;"<color=#81c3fc>Arsenale militare marittimo della Spezia <color=@commonTextColor>/</color> Cantiere navale Triestino</color>
-<color=#fffa62>Corazzata Classe Conte di Cavour</color>
+<color=#fffa62>Corazzata classe Conte di Cavour</color>
 Conte di Cavour
 <color=#adadad>(1944)</color>"
 it_battleship_conte_di_cavour_1;Conte di Cavour
@@ -18096,7 +18097,7 @@ it_battleship_conte_di_cavour_2;Battleship
 it_battleship_caio_duilio_shop;Duilio
 it_battleship_caio_duilio_0;"<color=#81c3fc>Cantiere navale di Castellammare di Stabia <color=@commonTextColor>/</color> Cantiere navali del Tirreno
 e Riuniti</color>
-<color=#fffa62>Corazzata Classe Duilio</color>
+<color=#fffa62>Corazzata classe Duilio</color>
 Duilio
 <color=#adadad>(1942)</color>"
 it_battleship_caio_duilio_1;Duilio
@@ -18105,7 +18106,7 @@ it_battleship_caio_duilio_2;Battleship
 //ITALY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 it_battleship_littorio_class_roma_shop;Roma
 it_battleship_littorio_class_roma_0;"<color=#81c3fc>Cantiere riuniti dell'Adriatico</color>
-<color=#fffa62>Corazzata Classe Littorio</color>
+<color=#fffa62>Corazzata classe Littorio</color>
 Roma"
 it_battleship_littorio_class_roma_1;Roma
 it_battleship_littorio_class_roma_2;Battleship
@@ -18113,7 +18114,7 @@ it_battleship_littorio_class_roma_2;Battleship
 it_battleship_littorio_class_littorio_shop;Italia
 it_battleship_littorio_class_littorio_0;"<color=#81c3fc>Cantiere navale di Sestri Ponente <color=@commonTextColor>/</color> Arsenale militare marittimo della
 Spezia</color>
-<color=#fffa62>Corazzata Classe Littorio</color>
+<color=#fffa62>Corazzata classe Littorio</color>
 Italia"
 it_battleship_littorio_class_littorio_1;Italia
 it_battleship_littorio_class_littorio_2;Battleship

@@ -145,7 +145,7 @@ germ_vs8_hydrofoil_2;Experimental Fast Boat
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 germ_mz_1_shop;MZ 1
 germ_mz_1_0;"<color=#81c3fc>H. C. Stülcken Sohn, Bau-Nr. 816</color>
-<color=#fffa62>Mehrzweckboot typ 1943</color>
+<color=#fffa62>Mehrzweckboot Typ 1943</color>
 MZ 1"
 germ_mz_1_1;MZ 1
 germ_mz_1_2;Multi-Purpose Boat
@@ -160,7 +160,7 @@ germ_minelayer_drache_2;Minelayer
 
 germ_artilleriefahrprahm_typ_d1_shop;AF 99
 germ_artilleriefahrprahm_typ_d1_0;"<color=#81c3fc>J. Smit Czn.</color>
-<color=#fffa62>Artilleriefährprahm typ D 1</color>
+<color=#fffa62>Artilleriefährprahm Typ D 1</color>
 <color=#919191>F 831</color>
 AF 99"
 germ_artilleriefahrprahm_typ_d1_1;AF 99
@@ -168,7 +168,7 @@ germ_artilleriefahrprahm_typ_d1_2;Artillery Barge
 
 germ_artilleriefahrprahm_typ_d3_shop;AF 128
 germ_artilleriefahrprahm_typ_d3_0;"<color=#81c3fc>Schiffs- und Maschinenbau Mannheim, Bau-Nr. 3008</color>
-<color=#fffa62>Artilleriefährprahm typ D 3</color>
+<color=#fffa62>Artilleriefährprahm Typ D 3</color>
 <color=#919191>F 1099</color>
 AF 128"
 germ_artilleriefahrprahm_typ_d3_1;AF 128
@@ -176,7 +176,7 @@ germ_artilleriefahrprahm_typ_d3_2;Artillery Barge
 
 germ_escort_typem1935_shop;M 17
 germ_escort_typem1935_0;"<color=#81c3fc>Oderwerke, Bau-Nr. 803</color>
-<color=#fffa62>Minensuchboot typ 1935</color>
+<color=#fffa62>Minensuchboot Typ 1935</color>
 M 17"
 germ_escort_typem1935_1;M 17
 germ_escort_typem1935_2;Minesweeper
@@ -191,7 +191,8 @@ germ_rdm242_2;Anti-Aircraft Gun Carrier
 
 germ_schutze_class_shop;Schütze (M 1062)
 germ_schutze_class_0;"<color=#81c3fc>Abeking & Rasmussen</color>
-<color=#fffa62>schnelles Minensuchboot Schütze-Klasse <color=@commonTextColor>|</color> Typ 340</color>
+<color=#fffa62>schnelles Minensuchboot Klasse 340 <color=@commonTextColor>|</color> schnelles Minensuchboot
+Schütze-Klasse</color>
 Schütze (M 1062)"
 germ_schutze_class_1;Schütze (M 1062)
 germ_schutze_class_2;Minesweeper
@@ -205,7 +206,8 @@ germ_kondor2_class_1;Bernau
 germ_kondor2_class_2;Deep-Sea Minesweeper
 
 germ_escort_typem1943_shop;M 601
-germ_escort_typem1943_0;"<color=#fffa62>Minensuchboot typ 1943</color>
+germ_escort_typem1943_0;"<color=#81c3fc>Neptun, Bau-Nr. 535</color>
+<color=#fffa62>Minensuchboot Typ 1943</color>
 M 601"
 germ_escort_typem1943_1;M 601
 germ_escort_typem1943_2;Minesweeper
@@ -220,14 +222,100 @@ germ_skr_pr50_karl_marx_1;Karl Marx
 germ_skr_pr50_karl_marx_2;Coastal Defense Ship
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+germ_type143_albatros_shop;Albatros (S 61)
+germ_type143_albatros_0;"<color=#81c3fc>Lürssen-Werft</color>
+<color=#fffa62>Flugkörper-Schnellboot Klasse 143 <color=@commonTextColor>|</color> Flugkörper-Schnellboot
+Albatros-Klasse</color>
+Albatros (S 61)"
+germ_type143_albatros_1;Albatros
+germ_type143_albatros_2;Missile Torpedo Boat
+
+germ_type143_bussard_shop;Bussard (S 64)
+germ_type143_bussard_0;"<color=#81c3fc>Lürssen-Werft</color>
+<color=#fffa62>Flugkörper-Schnellboot Klasse 143 <color=@commonTextColor>|</color> Flugkörper-Schnellboot
+Albatros-Klasse</color>
+Bussard (S 64)"
+germ_type143_bussard_1;Bussard
+germ_type143_bussard_2;Missile Torpedo Boat
+
+germ_pr_206_shop;Artur Becker (841)
+germ_pr_206_0;"<color=#81c3fc>Sudostroit'el'nyj zavot № 345</color>
+<color=#fffa62>Torpedoschnellboot Projekt 206 ""Shershen""</color>
+Artur Becker (841)"
+germ_pr_206_1;Artur Becker
+germ_pr_206_2;Torpedo Boat
+
+germ_type140_jaguar_shop;Jaguar (S 1)
+germ_type140_jaguar_0;"<color=#81c3fc>Lürssen-Werft Schnellboot Typ 55</color>
+<color=#fffa62>Torpedoschnellboot Klasse 140 <color=@commonTextColor>|</color> Torpedoschnellboot Jaguar-Klasse</color>
+Jaguar (S 1)"
+germ_type140_jaguar_1;Jaguar
+germ_type140_jaguar_2;Torpedo Boat
+
 germ_pr1331_shop;Parchim (242)
-germ_pr1331_0;"<color=#81c3fc>Peene-Werft</color>
+germ_pr1331_0;"<color=#81c3fc>Peene-Werft, Bau-Nr. 133.102</color>
 <color=#fffa62>Küstenschutzschiff Projekt 133.1</color>
 Parchim (242)"
 germ_pr1331_1;Parchim (242)
 germ_pr1331_2;Coastal Defense Ship
 
+germ_type152_hugin_shop;Hugin (P 6191)
+germ_type152_hugin_0;"<color=#81c3fc>Westermoen Båtbyggeri og Mek Verksted</color>
+<color=#fffa62>Schnellboot Klasse 152 <color=@commonTextColor>|</color> Schnellboot Hugin-Klasse</color>
+Hugin (P 6191)"
+germ_type152_hugin_1;Hugin
+germ_type152_hugin_2;Torpedo Boat
+
+germ_type153_pfeil_shop;Pfeil (P 6193)
+germ_type153_pfeil_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Schnellboot Klasse 153 <color=@commonTextColor>|</color> Schnellboot Ferocity-Klasse</color>
+Pfeil (P 6193)"
+germ_type153_pfeil_1;Pfeil
+germ_type153_pfeil_2;Torpedo Boat
+
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+germ_destroyer_class1924_leopard1932_shop;Leopard (LP)
+germ_destroyer_class1924_leopard1932_0;"<color=#81c3fc>Reichsmarinewerft Wilhelmshaven, Bau-Nr. 113</color>
+<color=#fffa62>Torpedoboot Typ 1924</color>
+Leopard (LP)
+<color=#adadad>(1932)</color>"
+germ_destroyer_class1924_leopard1932_1;Leopard
+germ_destroyer_class1924_leopard1932_2;Torpedo Boat
+
+germ_destroyer_class1924_leopard1932_EC_0;Torpedoboot Typ 1924 | Leopard (LP) (1932)
+germ_destroyer_class1924_leopard1932_EC_1;Leopard
+germ_destroyer_class1924_leopard1932_EC_2;Torpedo Boat
+
+germ_destroyer_class1924_iltis_shop;Luchs (LU)
+germ_destroyer_class1924_iltis_0;"<color=#81c3fc>Reichsmarinewerft Wilhelmshaven, Bau-Nr. 111</color>
+<color=#fffa62>Torpedoboot Typ 1924</color>
+Luchs (LU)
+<color=#adadad>(1932)</color>"
+germ_destroyer_class1924_iltis_1;Luchs
+germ_destroyer_class1924_iltis_2;Torpedo Boat
+
+germ_destroyer_class1934a_1944_shop;Z 15
+germ_destroyer_class1934a_1944_0;"<color=#81c3fc>Blohm & Voss</color>
+<color=#ff8c80>Projekt Barbara</color>
+<color=#fffa62>Zerstörer Typ 1934 A</color>
+Z 15 Erich Steinbrinck
+<color=#adadad>(1944)</color>"
+germ_destroyer_class1934a_1944_1;Z 15
+germ_destroyer_class1934a_1944_2;Destroyer
+
+germ_destroyer_class1934a_1940_shop;Z 5
+germ_destroyer_class1934a_1940_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau A.G. ""Weser"" <color=@commonTextColor>/</color> Kriegsmarinewerft
+Wilhelmshaven</color>
+<color=#fffa62>Zerstörer Typ 1934 A</color>
+Z 5 Paul Jacobi
+<color=#adadad>(1941)</color>"
+germ_destroyer_class1934a_1940_1;Z 5
+germ_destroyer_class1934a_1940_2;Destroyer
+
+germ_destroyer_class1934a_1940_EC_0;Zerstörer Typ 1934 A | Z 5 Paul Jacobi (1941)
+germ_destroyer_class1934a_1940_EC_1;Z 5
+germ_destroyer_class1934a_1940_EC_2;Destroyer
+
 germ_kanonenboot_k4_lorelei_shop;K 4
 germ_kanonenboot_k4_lorelei_0;"<color=#81c3fc>Société Anonyme John Cockerill à Seraing (Belgique), Chantier Naval de
 Hoboken <color=@commonTextColor>/</color> N.V. Dok en Werf Maatschappij Wilton-Fijenoord, Bau-Nr. 686</color>
@@ -241,7 +329,7 @@ germ_kanonenboot_k4_lorelei_2;Gunboat
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
 germ_destroyer_fletcher_zerstorer4_0;"<color=#81c3fc>Consolidated Steel Corporation</color>
-<color=#fffa62>Zerstörer 1-Klasse <color=@commonTextColor>|</color> Typ 119</color>
+<color=#fffa62>Zerstörer Klasse 119 <color=@commonTextColor>|</color> Fletcher-Klasse</color>
 Z 4 (D 178)"
 germ_destroyer_fletcher_zerstorer4_1;Z 4
 germ_destroyer_fletcher_zerstorer4_2;Destroyer
@@ -264,7 +352,7 @@ germ_destroyer_class1944_z52_2;Destroyer
 //BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 germ_destroyer_lutjens_class_lutjens_shop;Lütjens (D 185)
 germ_destroyer_lutjens_class_lutjens_0;"<color=#81c3fc>Bath Iron Works</color>
-<color=#fffa62>Zerstörer Lütjens-Klasse <color=@commonTextColor>|</color> Typ 103</color>
+<color=#fffa62>Zerstörer Klasse 103 <color=@commonTextColor>|</color> Zerstörer Lütjens-Klasse</color>
 Lütjens (D 185)"
 germ_destroyer_lutjens_class_lutjens_1;Lütjens
 germ_destroyer_lutjens_class_lutjens_2;Destroyer

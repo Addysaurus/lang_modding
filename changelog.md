@@ -32,6 +32,7 @@ All dates are listed in DD-MM-YYYY format.
     - Added a giant amount of previous names to vehicles with the new multiline statcards, especially to pre-1988 Chinese ground vehicles.
     - Added a lot of project names to vehicles with the new multiline statcards.
     - Implemented just a huge amount of infantry stuff. It's too many changes to list them all, but nearly every gun has been done now.
+    - Corrected the capitalization of all Italian naval vessels.
     - **I.Pz.Kpfw. 750 (e)** → **I.-Pz.Kpfw. 750 (e)**. Statcard name → **Vauxhall Motors | Infanterie-Panzerkampfwagen Mk IV | Infanterie-Panzerkampfwagen 750 (e)**.
     - **D.520** → **D.520-C1**. Statcard name → **Société nationale des constructions aéronautiques du Midi | D.520-C1**.
     - Corrected the Israeli nuke killstreak **F-16C-40L-CF** to an **F-16D-40-CF** and added it to the Hebrew package.
@@ -67,6 +68,8 @@ All dates are listed in DD-MM-YYYY format.
     - Adjusted the Hatsuharu-class destroyers to be F-45 instead of F-50 in the Japanese package (Japanese package was already correct).
     - Added the missing EC destroyer **Yugumo** to the Japanese package.
     - Reworked the ZALA scout recon drones. They're still completely screwed up because the performance does not match the model, but they're less screwed up now.
+    - Removed the US Army supply catalog from the statcard name of the Japanese **M36B2**.
+    - Corrected the Hungarian **Tiger E (spät)**.
 
 ### Weaponry:
 

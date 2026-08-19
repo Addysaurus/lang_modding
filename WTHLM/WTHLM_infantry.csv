@@ -100,6 +100,12 @@ Rifle, Caliber .50, Mk 15 Mod 0 Special Application Sniper Rifle"
 mcmillan_tac_50_1;Mk 15 Mod 0
 mcmillan_tac_50_2;Sniper Rifle
 
+m24_shop;M24 SWS
+m24_0;"<color=#81c3fc>Remington Arms Company Model 700</color>
+Rifle, 7.62mm, M24 Sniper Weapon System"
+m24_1;M24 SWS
+m24_2;Sniper Rifle
+
 //USSR GUNS - GUN/FAMILY START: RANK 6
 mp_443_shop;PYa
 mp_443_0;"<color=#81c3fc>Izhmash</color>
@@ -235,6 +241,13 @@ ksvk_12_7_0;"<color=#81c3fc>Zavot im. V. A. D'ekt'aryova</color>
 12,7-mm snajp'erskaya v'intofka ASVK ""Kort"""
 ksvk_12_7_1;ASVK
 ksvk_12_7_2;Sniper Rifle
+
+sv_98_shop;SV-98
+sv_98_0;"<color=#81c3fc>Izhmash</color>
+<color=#5cae63>6V10</color>
+7,62-mm snajp'erskaya v'intofka SV-98"
+sv_98_1;SV-98
+sv_98_2;Sniper Rifle
 
 //DRONES
 uav_inf_recon_drone_shop;Mavic 2 Enterprise Dual

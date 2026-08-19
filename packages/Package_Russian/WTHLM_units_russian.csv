@@ -934,6 +934,15 @@ Qīng 6 Xíng Fēijī"
 quing_6_1;Qīng 6
 quing_6_2;Qīng 6
 
+//CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+f_6c_pakistan_shop;☪ F6C (Oct 1976)
+f_6c_pakistan_0;"<color=#81c3fc>Опытно-конструкторское бюро № 155 СМ-7/3 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè
+Chang <color=@commonTextColor>/</color> Central Technical Development Unit</color>
+☪ F6C Xíng Fēijī
+<color=#adadad>(October 1976)</color>"
+f_6c_pakistan_1;☪ F6C
+f_6c_pakistan_2;☪ F6
+
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 cn_type_58_shop;␗ 特34 (1960)
 cn_type_58_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ) <color=@commonTextColor>/</color>
@@ -1140,10 +1149,12 @@ it_9a35_m_1;◔ 9A35M
 it_9a35_m_2;SPAAM
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
-sw_t_50_fin_shop;15 psv T 50
-sw_t_50_fin_0;"<color=#81c3fc>Ленинградский государственный завод № 174 им. К. Е. Ворошилова</color>
+sw_t_50_fin_shop;15 psv T 50 (1942)
+sw_t_50_fin_0;"<color=#81c3fc>Ленинградский государственный завод № 174 им. К. Е. Ворошилова <color=@commonTextColor>/</color>
+Panssarikeskuskorjaamo</color></color>
 <color=#5cae63>Ps. 183-1</color>
-15 tonnin panssarivaunu T 50 ""Pikku-Sotka"""
+15 tonnin panssarivaunu T 50 ""Pikku-Sotka""
+<color=#adadad>(1942)</color>"
 sw_t_50_fin_1;15 psv T 50
 sw_t_50_fin_2;Light Tank
 

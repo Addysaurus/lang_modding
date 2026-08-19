@@ -7222,28 +7222,32 @@ germ_iris_slm_launcher_2;SPAAM
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 germ_ls_class_shop;LS 3
-germ_ls_class_0;"<color=#fffa62>leichtes Schnellboot</color>
+germ_ls_class_0;"<color=#81c3fc>Dornier-Werft</color>
+<color=#fffa62>leichtes Schnellboot</color>
 LS 3"
-germ_ls_class_1;LS
-germ_ls_class_2;Motor Torpedo Boat
+germ_ls_class_1;LS 3
+germ_ls_class_2;Light Fast Boat
 
 germ_ls4_class_shop;LS 4
-germ_ls4_class_0;"<color=#fffa62>leichtes Schnellboot</color>
-LS 4"
+germ_ls4_class_0;"<color=#81c3fc>Dornier-Werft</color>
+<color=#fffa62>leichtes Schnellboot</color>
+LS 4 ""Esau"""
 germ_ls4_class_1;LS 4
-germ_ls4_class_2;Motor Torpedo Boat
+germ_ls4_class_2;Light Fast Boat
 
 germ_s38_shop;S 38
-germ_s38_0;"<color=#fffa62>Schnellboot Typ 1939/40</color>
+germ_s38_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12831</color>
+<color=#fffa62>Schnellboot (S 38-53)</color>
 S 38"
 germ_s38_1;S 38
-germ_s38_2;Motor Torpedo Boat
+germ_s38_2;Fast Boat
 
-germ_s38b_shop;S 62
-germ_s38b_0;"<color=#fffa62>Schnellboot Typ 1939/40</color>
-S 62"
-germ_s38b_1;S 62
-germ_s38b_2;Motor Torpedo Boat
+germ_s38b_shop;S 68
+germ_s38b_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12861</color>
+<color=#fffa62>Schnellboot (S 62-100)</color>
+S 68"
+germ_s38b_1;S 68
+germ_s38b_2;Fast Boat
 
 germ_s30_s61_shop;S 61
 germ_s30_s61_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12854</color>
@@ -7252,239 +7256,296 @@ S 61"
 germ_s30_s61_1;S 61
 germ_s30_s61_2;Fast Boat
 
-germ_s_100_class_shop;S 100 (1945)
-germ_s_100_class_0;"<color=#fffa62>Schnellboot Typ 1939/40</color>
-S 100
-<color=#adadad>(1945)</color>"
-germ_s_100_class_1;S 100 (1945)
-germ_s_100_class_2;Motor Torpedo Boat
+germ_s_100_class_shop;S 130
+germ_s_100_class_0;"<color=#81c3fc>Schlichting-Werft, Bau-Nr. 1030</color>
+<color=#fffa62>Schnellboot (S 126-133)</color>
+S 130"
+germ_s_100_class_1;S 130
+germ_s_100_class_2;Fast Boat
 
-germ_s_100_s_174_class_shop;S 100 (1944)
-germ_s_100_s_174_class_0;"<color=#fffa62>Schnellboot Typ 1939/40</color>
-S 100
-<color=#adadad>(1944)</color>"
-germ_s_100_s_174_class_1;S 100
-germ_s_100_s_174_class_2;Motor Torpedo Boat
+germ_s_100_s_174_class_shop;S 174
+germ_s_100_s_174_class_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12944</color>
+<color=#fffa62>Schnellboot (S 171-186)</color>
+S 174"
+germ_s_100_s_174_class_1;S 174
+germ_s_100_s_174_class_2;Fast Boat
 
 germ_s_100_s204_lang_shop;S 204
-germ_s_100_s204_lang_0;"<color=#fffa62>Schnellboot Typ 1939/40</color>
-S 204
-<color=@currencyGoldColor>""Lang""</color>"
+germ_s_100_s204_lang_0;"<color=#81c3fc>Fr. Lürssen Werft, Bau-Nr. 12974</color>
+Schnellboot (S 195-218)
+S 204 ""Lang"""
 germ_s_100_s204_lang_1;S 204
-germ_s_100_s204_lang_2;Motor Torpedo Boat
+germ_s_100_s204_lang_2;Fast Boat
 
 germ_s_700_s_701_shop;S 701
-germ_s_700_s_701_0;"<color=#fffa62>Schnellboot Typ 1944</color>
+germ_s_700_s_701_0;"<color=#81c3fc>Danziger Waggonfabrik, Bau-Nr. 5001</color>
+<color=#fffa62>Schnellboot (S 701-709)</color>
 S 701"
 germ_s_700_s_701_1;S 701
-germ_s_700_s_701_2;Motor Torpedo Boat
+germ_s_700_s_701_2;Fast Boat
 
 germ_rboot_r41_shop;R 41
-germ_rboot_r41_0;"<color=#fffa62>Räumboot R 41-class</color>
+germ_rboot_r41_0;"<color=#81c3fc>Schlichting-Werft, Bau-Nr. 971</color>
+<color=#fffa62>Räumboot (R 41-48)</color>
 R 41"
 germ_rboot_r41_1;R 41
-germ_rboot_r41_2;Gunboat
+germ_rboot_r41_2;Minesweeper
 
 germ_rboot_r130_shop;R 130
-germ_rboot_r130_0;"<color=#fffa62>Räumboot R 130-class</color>
+germ_rboot_r130_0;"<color=#81c3fc>Abeking & Rasmussen, Bau-Nr. 3701</color>
+<color=#fffa62>Räumboot (R 130-150)</color>
 R 130"
 germ_rboot_r130_1;R 130
-germ_rboot_r130_2;Gunboat
+germ_rboot_r130_2;Minesweeper
 
 germ_rboot_r301_shop;R 301
-germ_rboot_r301_0;"<color=#fffa62>Räumboot R 301-class</color>
+germ_rboot_r301_0;"<color=#81c3fc>Abeking & Rasmussen, Bau-Nr. 3620</color>
+<color=#fffa62>Räumboot (R 301-312)</color>
 R 301"
 germ_rboot_r301_1;R 301
-germ_rboot_r301_2;Gunboat
+germ_rboot_r301_2;Minesweeper
 
 germ_km5_shop;KS 5
-germ_km5_0;"<color=#fffa62>kleines Schnellboot Typ KS</color>
+germ_km5_0;"<color=#81c3fc>Rolandwerft</color>
+<color=#fffa62>Küsten-Schnellboot</color>
+<color=#919191>KM 5</color>
 KS 5"
-germ_km5_1;Type KS
-germ_km5_2;Motor Torpedo Boat
+germ_km5_1;KS 5
+germ_km5_2;Coastal Fast Boat
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
-germ_pr_131_shop;Nr. 401
-germ_pr_131_0;"<color=#fffa62>kleines Torpedoschnellboot Projekt 131 ""Libelle""</color>
-Nr. 401"
-germ_pr_131_1;Nr. 401
-germ_pr_131_2;Motor Torpedo Boat
+germ_pr_131_shop;Nr. 911
+germ_pr_131_0;"<color=#81c3fc>VEB Schiffswerft Rechlin, Bau-Nr. 131.401 <color=@commonTextColor>+</color> Peene-Werft</color>
+<color=#fffa62>kleines Torpedoschnellboot Projekt 131.400 ""Libelle""</color>
+<color=#919191>Nr. 990</color>
+Nr. 911"
+germ_pr_131_1;Nr. 911
+germ_pr_131_2;Small Torpedo Boat
 
-germ_sf40_schwere_flakkampffaehre_shop;SF 05
-germ_sf40_schwere_flakkampffaehre_0;"<color=#fffa62>Siebelfähre 40 schwerer Flakkampffähre</color>
-SF 05"
-germ_sf40_schwere_flakkampffaehre_1;SF 40 Schwer
-germ_sf40_schwere_flakkampffaehre_2;Heavy AA ferry
+germ_sf40_schwere_flakkampffaehre_shop;SF V01
+germ_sf40_schwere_flakkampffaehre_0;"<color=#81c3fc>Böndel Pionier-Sonderkommando</color>
+<color=#fffa62>Siebelfähre <color=@commonTextColor>|</color> schwere Flakkampffähre</color>
+SF V01"
+germ_sf40_schwere_flakkampffaehre_1;SF V01
+germ_sf40_schwere_flakkampffaehre_2;Heavy Anti-Aircraft Ferry
 
-germ_sf40_leichte_flakkampffaehre_shop;SF 07
-germ_sf40_leichte_flakkampffaehre_0;"<color=#fffa62>Siebelfähre 40 leichter Flakkampffähre</color>
-SF 07"
-germ_sf40_leichte_flakkampffaehre_1;SF 40 Leicht
-germ_sf40_leichte_flakkampffaehre_2;Light AA ferry
-
-germ_vs8_hydrofoil_shop;VS 8
-germ_vs8_hydrofoil_0;"<color=#fffa62>Tragflügel-Versuchs-Schnellboot</color>
-VS 8 ""Schell I"""
-germ_vs8_hydrofoil_1;VS 8
-germ_vs8_hydrofoil_2;Minelayer-hydrofoil
+germ_sf40_leichte_flakkampffaehre_shop;SF 154
+germ_sf40_leichte_flakkampffaehre_0;"<color=#81c3fc>Böndel Pionier-Sonderkommando</color>
+<color=#fffa62>Siebelfähre 40 <color=@commonTextColor>|</color> leichte Flakkampffähre</color>
+SF 154"
+germ_sf40_leichte_flakkampffaehre_1;SF 154
+germ_sf40_leichte_flakkampffaehre_2;Light Anti-Aircraft Ferry
 
 germ_vs10_hydrofoil_shop;VS 10
-germ_vs10_hydrofoil_0;"<color=#fffa62>Tragflügel-Versuchs-Schnellboot</color>
+germ_vs10_hydrofoil_0;"<color=#81c3fc>Gebrüder Sachsenberg, Bau-Nr. 1688</color>
+<color=#fffa62>Versuchsschnellboote</color>
 VS 10"
 germ_vs10_hydrofoil_1;VS 10
-germ_vs10_hydrofoil_2;Motor Torpedo Boat
+germ_vs10_hydrofoil_2;Experimental Fast Boat
+
+germ_vs8_hydrofoil_shop;VS 8
+germ_vs8_hydrofoil_0;"<color=#81c3fc>Gebrüder Sachsenberg, Bau-Nr. 1689</color>
+<color=#fffa62>Versuchsschnellboote</color>
+VS 8 ""Schell I"""
+germ_vs8_hydrofoil_1;VS 8
+germ_vs8_hydrofoil_2;Experimental Fast Boat
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 germ_mz_1_shop;MZ 1
-germ_mz_1_0;"<color=#fffa62>Mehrzweckboot Typ 1943</color>
+germ_mz_1_0;"<color=#81c3fc>H. C. Stülcken Sohn, Bau-Nr. 816</color>
+<color=#fffa62>Mehrzweckboot Typ 1943</color>
 MZ 1"
 germ_mz_1_1;MZ 1
-germ_mz_1_2;Gunboat
+germ_mz_1_2;Multi-Purpose Boat
 
 germ_minelayer_drache_shop;Drache
-germ_minelayer_drache_0;"<color=#fffa62>R-1-class</color>
-Drache"
+germ_minelayer_drache_0;"<color=#81c3fc>Reiherstieg Schiffswerfte und Maschinenfabrik, Bau-Nr. 118</color>
+<color=#fffa62>Minenleger</color>
+Drache
+<color=#adadad>(1942)</color>"
 germ_minelayer_drache_1;Drache
-germ_minelayer_drache_2;Minesweeper
+germ_minelayer_drache_2;Minelayer
 
 germ_artilleriefahrprahm_typ_d1_shop;AF 99
-germ_artilleriefahrprahm_typ_d1_0;"<color=#fffa62>Artilleriefährprahm Typ D 1</color>
+germ_artilleriefahrprahm_typ_d1_0;"<color=#81c3fc>J. Smit Czn.</color>
+<color=#fffa62>Artilleriefährprahm Typ D 1</color>
+<color=#919191>F 831</color>
 AF 99"
 germ_artilleriefahrprahm_typ_d1_1;AF 99
-germ_artilleriefahrprahm_typ_d1_2;Gunboat
+germ_artilleriefahrprahm_typ_d1_2;Artillery Barge
 
 germ_artilleriefahrprahm_typ_d3_shop;AF 128
-germ_artilleriefahrprahm_typ_d3_0;"<color=#fffa62>Artilleriefährprahm Typ D 3</color>
+germ_artilleriefahrprahm_typ_d3_0;"<color=#81c3fc>Schiffs- und Maschinenbau Mannheim, Bau-Nr. 3008</color>
+<color=#fffa62>Artilleriefährprahm Typ D 3</color>
+<color=#919191>F 1099</color>
 AF 128"
 germ_artilleriefahrprahm_typ_d3_1;AF 128
-germ_artilleriefahrprahm_typ_d3_2;Gunboat
+germ_artilleriefahrprahm_typ_d3_2;Artillery Barge
 
 germ_escort_typem1935_shop;M 17
-germ_escort_typem1935_0;"<color=#fffa62>Minensuchboot Typ 1935</color>
+germ_escort_typem1935_0;"<color=#81c3fc>Oderwerke, Bau-Nr. 803</color>
+<color=#fffa62>Minensuchboot Typ 1935</color>
 M 17"
 germ_escort_typem1935_1;M 17
 germ_escort_typem1935_2;Minesweeper
 
-germ_escort_typem1943_shop;M 601
-germ_escort_typem1943_0;"<color=#fffa62>Minensuchboot Typ 1943</color>
-M 601"
-germ_escort_typem1943_1;M 601
-germ_escort_typem1943_2;Minesweeper
-
 germ_rdm242_shop;Krischan der Große
-germ_rdm242_0;"<color=#fffa62>Flakträger</color>
+germ_rdm242_0;"<color=#81c3fc>Rotterdamsche Droogdok Maatschappij, Bau-Nr. 242</color>
+<color=#fffa62>Flakträger</color>
 Krischan der Große
 <color=#adadad>(1943)</color>"
 germ_rdm242_1;Krischan der Große
-germ_rdm242_2;Motor Gun Boat
+germ_rdm242_2;Anti-Aircraft Gun Carrier
 
 germ_schutze_class_shop;Schütze (M 1062)
 germ_schutze_class_0;"<color=#81c3fc>Abeking & Rasmussen</color>
-<color=#fffa62>schnelles Minensuchboot Schütze-Klasse <color=@commonTextColor>|</color> Typ 340</color>
+<color=#fffa62>schnelles Minensuchboot Klasse 340 <color=@commonTextColor>|</color> schnelles Minensuchboot
+Schütze-Klasse</color>
 Schütze (M 1062)"
 germ_schutze_class_1;Schütze (M 1062)
 germ_schutze_class_2;Minesweeper
 
 germ_kondor2_class_shop;Bernau (343)
-germ_kondor2_class_0;"<color=#fffa62>Projekt 89.2 UR</color>
+germ_kondor2_class_0;"<color=#81c3fc>Peene-Werft, Bau-Nr. 89.240</color>
+<color=#fffa62>Hochsee-Minenabwehrschiff Projekt 89.2 UR2</color>
 Bernau (343)
 <color=#adadad>(1985)</color>"
 germ_kondor2_class_1;Bernau
-germ_kondor2_class_2;Minesweeper
+germ_kondor2_class_2;Deep-Sea Minesweeper
+
+germ_escort_typem1943_shop;M 601
+germ_escort_typem1943_0;"<color=#81c3fc>Neptun, Bau-Nr. 535</color>
+<color=#fffa62>Minensuchboot Typ 1943</color>
+M 601"
+germ_escort_typem1943_1;M 601
+germ_escort_typem1943_2;Minesweeper
 
 germ_skr_pr50_karl_marx_shop;Karl Marx (122)
-germ_skr_pr50_karl_marx_0;"<color=#fffa62>Fregatte, Projekt 50</color>
+germ_skr_pr50_karl_marx_0;"<color=#81c3fc>Sudostroit'el'nyj zavot № 820 <color=@commonTextColor>/</color> Kronshtattsk'ij ord'ena Lyenina Morskoj
+zavot</color>
+<color=#fffa62>Küstenschutzschiff Projekt 50</color>
 Karl Marx (122)
 <color=#adadad>(1962)</color>"
-germ_skr_pr50_karl_marx_1;Pr. 50
-germ_skr_pr50_karl_marx_2;Patrol ship
+germ_skr_pr50_karl_marx_1;Karl Marx
+germ_skr_pr50_karl_marx_2;Coastal Defense Ship
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
 germ_type143_albatros_shop;Albatros (S 61)
-germ_type143_albatros_0;"<color=#fffa62>Flugkörper-Schnellboot Albatros-Klasse (Typ 143)</color>
+germ_type143_albatros_0;"<color=#81c3fc>Lürssen-Werft</color>
+<color=#fffa62>Flugkörper-Schnellboot Klasse 143 <color=@commonTextColor>|</color> Flugkörper-Schnellboot
+Albatros-Klasse</color>
 Albatros (S 61)"
 germ_type143_albatros_1;Albatros
-germ_type143_albatros_2;Fast Attack Craft
+germ_type143_albatros_2;Missile Torpedo Boat
 
 germ_type143_bussard_shop;Bussard (S 64)
-germ_type143_bussard_0;"<color=#fffa62>Flugkörper-Schnellboot Albatros-Klasse (Typ 143)</color>
+germ_type143_bussard_0;"<color=#81c3fc>Lürssen-Werft</color>
+<color=#fffa62>Flugkörper-Schnellboot Klasse 143 <color=@commonTextColor>|</color> Flugkörper-Schnellboot
+Albatros-Klasse</color>
 Bussard (S 64)"
 germ_type143_bussard_1;Bussard
-germ_type143_bussard_2;Fast Attack Craft
+germ_type143_bussard_2;Missile Torpedo Boat
 
-germ_pr_206_shop;Arthur Becker (841)
-germ_pr_206_0;"<color=#fffa62>Torpedo-Schnellboot, Projekt 206</color>
-Arthur Becker (841)"
-germ_pr_206_1;Arthur Becker
-germ_pr_206_2;Motor Torpedo Boat
+germ_pr_206_shop;Artur Becker (841)
+germ_pr_206_0;"<color=#81c3fc>Sudostroit'el'nyj zavot № 345</color>
+<color=#fffa62>Torpedoschnellboot Projekt 206 ""Shershen""</color>
+Artur Becker (841)"
+germ_pr_206_1;Artur Becker
+germ_pr_206_2;Torpedo Boat
 
 germ_type140_jaguar_shop;Jaguar (S 1)
-germ_type140_jaguar_0;"<color=#fffa62>Torpedoschnellboot Jaguar-Klasse (Typ 140)</color>
+germ_type140_jaguar_0;"<color=#81c3fc>Lürssen-Werft Schnellboot Typ 55</color>
+<color=#fffa62>Torpedoschnellboot Klasse 140 <color=@commonTextColor>|</color> Torpedoschnellboot Jaguar-Klasse</color>
 Jaguar (S 1)"
 germ_type140_jaguar_1;Jaguar
-germ_type140_jaguar_2;Motor Torpedo Boat
+germ_type140_jaguar_2;Torpedo Boat
 
 germ_frigate_koln_shop;Köln (F 220)
-germ_frigate_koln_0;"<color=#fffa62>Fregatte Köln-Klasse (Typ 120)</color>
+germ_frigate_koln_0;"<color=#81c3fc>H. C. Stülcken Sohn</color>
+<color=#fffa62>Fregatte Klasse 120 <color=@commonTextColor>|</color> Fregatte Köln-Klasse</color>
 Köln (F 220)"
-germ_frigate_koln_1;Köln (F 220)
+germ_frigate_koln_1;Köln
 germ_frigate_koln_2;Frigate
 
 germ_frigate_koln_lubeck_shop;Lübeck (F 224)
-germ_frigate_koln_lubeck_0;"<color=#fffa62>Fregatte Köln-Klasse (Typ 120)</color>
-Lübeck (F 224)
-<color=#adadad>(1966)</color>"
-germ_frigate_koln_lubeck_1;Lübeck (F 224)
+germ_frigate_koln_lubeck_0;"<color=#81c3fc>H. C. Stülcken Sohn</color>
+<color=#fffa62>Fregatte Klasse 120 <color=@commonTextColor>|</color> Fregatte Köln-Klasse</color>
+Lübeck (F 224)"
+germ_frigate_koln_lubeck_1;Lübeck
 germ_frigate_koln_lubeck_2;Frigate
 
 germ_pr1331_shop;Parchim (242)
-germ_pr1331_0;"<color=#81c3fc>Peene-Werft</color>
-<color=#fffa62>U-Boot-Abwehrschiff Projekt 133.1</color>
+germ_pr1331_0;"<color=#81c3fc>Peene-Werft, Bau-Nr. 133.102</color>
+<color=#fffa62>Küstenschutzschiff Projekt 133.1</color>
 Parchim (242)"
 germ_pr1331_1;Parchim (242)
-germ_pr1331_2;Minesweeper
+germ_pr1331_2;Coastal Defense Ship
 
 germ_type152_hugin_shop;Hugin (P 6191)
-germ_type152_hugin_0;"<color=#fffa62>Schnellboot Typ 152</color>
+germ_type152_hugin_0;"<color=#81c3fc>Westermoen Båtbyggeri og Mek Verksted</color>
+<color=#fffa62>Schnellboot Klasse 152 <color=@commonTextColor>|</color> Schnellboot Hugin-Klasse</color>
 Hugin (P 6191)"
 germ_type152_hugin_1;Hugin
-germ_type152_hugin_2;Motor Torpedo Boat
+germ_type152_hugin_2;Torpedo Boat
 
 germ_type153_pfeil_shop;Pfeil (P 6193)
-germ_type153_pfeil_0;"<color=#fffa62>Flugkörper-Schnellboot, Ferocity-Klasse</color>
+germ_type153_pfeil_0;"<color=#81c3fc>Vosper & Co.</color>
+<color=#fffa62>Schnellboot Klasse 153 <color=@commonTextColor>|</color> Schnellboot Ferocity-Klasse</color>
 Pfeil (P 6193)"
 germ_type153_pfeil_1;Pfeil
-germ_type153_pfeil;Motor Torpedo Boat
+germ_type153_pfeil_2;Torpedo Boat
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
-germ_destroyer_class1924_leopard1932_shop;Leopard
-germ_destroyer_class1924_leopard1932_0;"<color=#fffa62>Torpedoboot Typ 1924</color>
-Leopard
+germ_destroyer_class1924_leopard1932_shop;Leopard (LP)
+germ_destroyer_class1924_leopard1932_0;"<color=#81c3fc>Reichsmarinewerft Wilhelmshaven, Bau-Nr. 114</color>
+<color=#fffa62>Torpedoboot Typ 1924</color>
+Leopard (LP)
 <color=#adadad>(1932)</color>"
 germ_destroyer_class1924_leopard1932_1;Leopard
-germ_destroyer_class1924_leopard1932_2;Destroyer
+germ_destroyer_class1924_leopard1932_2;Torpedo Boat
 
-germ_destroyer_class1924_leopard1932_EC_0;Torpedoboot Typ 1924, Leopard, 1932
+germ_destroyer_class1924_leopard1932_EC_0;Torpedoboot Typ 1924 | Leopard (LP) (1932)
 germ_destroyer_class1924_leopard1932_EC_1;Leopard
-germ_destroyer_class1924_leopard1932_EC_2;Destroyer
+germ_destroyer_class1924_leopard1932_EC_2;Torpedo Boat
+        
+germ_destroyer_class1924_iltis_shop;Luchs (LU)
+germ_destroyer_class1924_iltis_0;"<color=#81c3fc>Reichsmarinewerft Wilhelmshaven, Bau-Nr. 111</color>
+<color=#fffa62>Torpedoboot Typ 1924</color>
+Luchs (LU)
+<color=#adadad>(1932)</color>"
+germ_destroyer_class1924_iltis_1;Luchs
+germ_destroyer_class1924_iltis_2;Torpedo Boat
+
+germ_destroyer_class1924_jaguar1941_shop;Jaguar (JR)
+germ_destroyer_class1924_jaguar1941_0;"<color=#81c3fc>Reichsmarinewerft Wilhelmshaven, Bau-Nr. 113 <color=@commonTextColor>/</color> Rotterdamsche
+Droogdok Maatschappij</color>
+<color=#fffa62>Torpedoboot Typ 1924</color>
+Jaguar (JR)
+<color=#adadad>(1941)</color>"
+germ_destroyer_class1924_jaguar1941_1;Jaguar
+germ_destroyer_class1924_jaguar1941_2;Torpedo Boat
 
 germ_destroyer_class1934a_1944_shop;Z 15
-germ_destroyer_class1934a_1944_0;"<color=#fffa62>Zerstörer Typ 1934 A</color>
+germ_destroyer_class1934a_1944_0;"<color=#81c3fc>Blohm & Voss, Bau-Nr. 504</color>
+<color=#ff8c80>Projekt Barbara</color>
+<color=#fffa62>Zerstörer Typ 1934 A</color>
 Z 15 Erich Steinbrinck
 <color=#adadad>(1944)</color>"
 germ_destroyer_class1934a_1944_1;Z 15
 germ_destroyer_class1934a_1944_2;Destroyer
 
 germ_destroyer_class1934a_1940_shop;Z 5
-germ_destroyer_class1934a_1940_0;"<color=#fffa62>Zerstörer Typ 1934 A</color>
+germ_destroyer_class1934a_1940_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau Werk ""Weser"", Bau-Nr. 899 <color=@commonTextColor>/</color>
+Kriegsmarinewerft Wilhelmshaven</color>
+<color=#fffa62>Zerstörer Typ 1934 A</color>
 Z 5 Paul Jacobi
-<color=#adadad>(1940)</color>"
+<color=#adadad>(1941)</color>"
 germ_destroyer_class1934a_1940_1;Z 5
 germ_destroyer_class1934a_1940_2;Destroyer
 
-germ_destroyer_class1934a_1940_EC_0;Zerstörer Typ 1934 A, Z 5 Paul Jacobi, 1940
+germ_destroyer_class1934a_1940_EC_0;Zerstörer Typ 1934 A | Z 5 Paul Jacobi (1941)
 germ_destroyer_class1934a_1940_EC_1;Z 5
 germ_destroyer_class1934a_1940_EC_2;Destroyer
 
@@ -7499,193 +7560,217 @@ germ_kanonenboot_k4_lorelei_1;K 4
 germ_kanonenboot_k4_lorelei_2;Gunboat
 
 germ_kanonenboot_k2_shop;K 2
-germ_kanonenboot_k2_0;"<color=#fffa62>Kanoneerboot Typ 1937</color>
-K2
-<color=#adadad>(1941)</color>"
+germ_kanonenboot_k2_0;"<color=#81c3fc>Gusto, Bau-Nr. 750</color>
+<color=#fffa62>Kanonenboot</color>
+K 2"
 germ_kanonenboot_k2_1;K 2
 germ_kanonenboot_k2_2;Gunboat
 
 germ_destroyer_class1939_t22_shop;T 22
-germ_destroyer_class1939_t22_0;"<color=#fffa62>Flottentorpedoboot Typ 1939</color>
-T 22
-<color=#adadad>(1944)</color>"
+germ_destroyer_class1939_t22_0;"<color=#81c3fc>F. Schichau, Maschinen- und Lokomotivfabrik, Schiffswerft und
+Eisengießerei</color>
+<color=#fffa62>Flottentorpedoboot Typ 1939</color>
+T 22"
 germ_destroyer_class1939_t22_1;T 22
-germ_destroyer_class1939_t22_2;Destroyer
+germ_destroyer_class1939_t22_2;Fleet Torpedo Boat
 
-germ_destroyer_class1939_t22_EC_0;Flottentorpedoboot Typ 1939, T 22, 1944
+germ_destroyer_class1939_t22_EC_0;Flottentorpedoboot Typ 1939 | T 22
 germ_destroyer_class1939_t22_EC_1;T 22
-germ_destroyer_class1939_t22_EC_2;Destroyer
+germ_destroyer_class1939_t22_EC_2;Fleet Torpedo Boat
 
 germ_destroyer_class1939_t31_shop;T 28
-germ_destroyer_class1939_t31_0;"<color=#fffa62>Flottentorpedoboot Typ 1939</color>
+germ_destroyer_class1939_t31_0;"<color=#81c3fc>F. Schichau, Maschinen- und Lokomotivfabrik, Schiffswerft und
+Eisengießerei <color=@commonTextColor>/</color> Deutsche Werke Kiel, Gotenhafen</color>
+<color=#fffa62>Flottentorpedoboot Typ 1939</color>
 T 28
 <color=#adadad>(1944)</color>"
 germ_destroyer_class1939_t31_1;T 28
-germ_destroyer_class1939_t31_2;Destroyer
-
-germ_destroyer_class1924_iltis_shop;Luchs
-germ_destroyer_class1924_iltis_0;"<color=#fffa62>Raubtier-class</color>
-Luchs
-<color=#adadad>(1932)</color>"
-germ_destroyer_class1924_iltis_1;Luchs
-germ_destroyer_class1924_iltis_2;Destroyer
-
-germ_destroyer_class1924_jaguar1941_shop;Jaguar
-germ_destroyer_class1924_jaguar1941_0;"<color=#fffa62>Raubtier-class</color>
-Jaguar
-<color=#adadad>(1941)</color>"
-germ_destroyer_class1924_jaguar1941_1;Jaguar
-germ_destroyer_class1924_jaguar1941_2;Destroyer
+germ_destroyer_class1939_t31_2;Fleet Torpedo Boat
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+germ_destroyer_class1936a_mob_z32_shop;Z 33
+germ_destroyer_class1936a_mob_z32_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau Werk ""Weser"", Bau-Nr. 1001</color>
+<color=#fffa62>Zerstörer Typ 1936 A (Mob)</color>
+Z 33"
+germ_destroyer_class1936a_mob_z32_1;Z 33
+germ_destroyer_class1936a_mob_z32_2;Destroyer
+
+germ_destroyer_class1936a_z25_shop;Z 25
+germ_destroyer_class1936a_z25_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau Werk ""Weser"", Bau-Nr. 959 <color=@commonTextColor>/</color> Deutsche
+Werke Kiel, Gotenhafen</color>
+<color=#ff8c80>Projekt Barbara</color>
+<color=#fffa62>Zerstörer Typ 1936 A</color>
+Z 25
+<color=#adadad>(1944)</color>"
+germ_destroyer_class1936a_z25_1;Z 25
+germ_destroyer_class1936a_z25_2;Destroyer
+
 germ_destroyer_class1936_z20_shop;Z 20 (1941)
-germ_destroyer_class1936_z20_0;"<color=#fffa62>Zerstörer Typ 1936</color>
+germ_destroyer_class1936_z20_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau Werk ""Weser"", Bau-Nr. 922 <color=@commonTextColor>/</color>
+Kriegsmarinewerft Wilhelmshaven, Westwerft</color>
+<color=#fffa62>Zerstörer Typ 1936</color>
 Z 20 Karl Galster
 <color=#adadad>(1941)</color>"
 germ_destroyer_class1936_z20_1;Z 20
 germ_destroyer_class1936_z20_2;Destroyer
 
 germ_destroyer_class1936_z20_karlgalster_shop;Z 20 (1945)
-germ_destroyer_class1936_z20_karlgalster_0;"<color=#fffa62>Zerstörer Typ 1936</color>
+germ_destroyer_class1936_z20_karlgalster_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau Werk ""Weser"", Bau-Nr. 922 <color=@commonTextColor>/</color> Deutsche
+Werke Kiel</color>
+<color=#fffa62>Zerstörer Typ 1936</color>
 Z 20 Karl Galster
 <color=#adadad>(1945)</color>"
 germ_destroyer_class1936_z20_karlgalster_1;Z 20
 germ_destroyer_class1936_z20_karlgalster_2;Destroyer
 
-germ_destroyer_class1936a_mob_z32_shop;Z 33
-germ_destroyer_class1936a_mob_z32_0;"<color=#fffa62>Zerstörer Typ 1936 A (Mob)</color>
-Z 33
-<color=#adadad>(1943)</color>"
-germ_destroyer_class1936a_mob_z32_1;Z 33
-germ_destroyer_class1936a_mob_z32_2;Destroyer
+germ_destroyer_class1936_z20_tutorial_shop;Z 20 (1941)
+germ_destroyer_class1936_z20_tutorial_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau Werk ""Weser"", Bau-Nr. 922 <color=@commonTextColor>/</color>
+Kriegsmarinewerft Wilhelmshaven, Westwerft</color>
+<color=#fffa62>Zerstörer Typ 1936</color>
+Z 20 Karl Galster
+<color=#adadad>(1941)</color>"
+germ_destroyer_class1936_z20_tutorial_1;Z 20
+germ_destroyer_class1936_z20_tutorial_2;Destroyer
 
-germ_destroyer_class1936b_shop;Z 35
-germ_destroyer_class1936b_0;"<color=#fffa62>Zerstörer Typ 1936 B</color>
-Z 35
-<color=#adadad>(1943)</color>"
-germ_destroyer_class1936b_1;Z 35
+germ_destroyer_class1936_z20_EC_0;Zerstörer Typ 1936 | Z 20 Karl Galster (1941)
+germ_destroyer_class1936_z20_EC_1;Z 20
+germ_destroyer_class1936_z20_EC_2;Destroyer
+
+germ_destroyer_class1936b_shop;Z 43
+germ_destroyer_class1936b_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau Werk ""Weser"", Bau-Nr. 1005</color>
+<color=#fffa62>Zerstörer Typ 1936 B (Mob)</color>
+Z 43"
+germ_destroyer_class1936b_1;Z 43
 germ_destroyer_class1936b_2;Destroyer
 
 germ_destroyer_class1936c_z46_shop;Z 46
-germ_destroyer_class1936c_z46_0;"<color=#fffa62>Zerstörer Typ 1936 C</color>
-Z46
-<color=#adadad>(1945)</color>"
+germ_destroyer_class1936c_z46_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau Werk ""Weser"", Bau-Nr. 1071</color>
+<color=#fffa62>Zerstörer Typ 1936 C</color>
+Z 46"
 germ_destroyer_class1936c_z46_1;Z 46
 germ_destroyer_class1936c_z46_2;Destroyer
 
 germ_destroyer_class1936c_z47_shop;Z 47
-germ_destroyer_class1936c_z47_0;"<color=#fffa62>Zerstörer Typ 1936 C</color>
-Z 47
-<color=#adadad>(1945)</color>"
+germ_destroyer_class1936c_z47_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau Werk ""Weser"", Bau-Nr. 1072</color>
+<color=#fffa62>Zerstörer Typ 1936 C</color>
+Z 47"
 germ_destroyer_class1936c_z47_1;Z 47
 germ_destroyer_class1936c_z47_2;Destroyer
 
-germ_destroyer_class1936a_z25_shop;Z 25
-germ_destroyer_class1936a_z25_0;"<color=#fffa62>Zerstörer Typ 1936 A</color>
-Z 25
-<color=#adadad>(1945)</color>"
-germ_destroyer_class1936a_z25_1;Z 25
-germ_destroyer_class1936a_z25_2;Destroyer
-
 germ_destroyer_fletcher_zerstorer4_shop;Z 4 (D 178)
 germ_destroyer_fletcher_zerstorer4_0;"<color=#81c3fc>Consolidated Steel Corporation</color>
-<color=#fffa62>Zerstörer 1-Klasse <color=@commonTextColor>|</color> Typ 119</color>
+<color=#fffa62>Zerstörer Klasse 119 <color=@commonTextColor>|</color> Zerstörer Fletcher-Klasse</color>
 Z 4 (D 178)"
 germ_destroyer_fletcher_zerstorer4_1;Z 4
 germ_destroyer_fletcher_zerstorer4_2;Destroyer
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 3
 germ_destroyer_class1942_z51_shop;Z 51
-germ_destroyer_class1942_z51_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau A.G. ""Weser""</color>
+germ_destroyer_class1942_z51_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau Werk ""Weser"", Bau-Nr. 1109</color>
 <color=#fffa62>Zerstörer Typ 1942</color>
 Z 51"
 germ_destroyer_class1942_z51_1;Z 51
 germ_destroyer_class1942_z51_2;Destroyer
 
 germ_destroyer_class1944_z52_shop;Z 52
-germ_destroyer_class1944_z52_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau A.G. ""Weser""</color>
+germ_destroyer_class1944_z52_0;"<color=#81c3fc>Deutsche Schiff- und Maschinenbau Werk ""Weser"", Bau-Nr. 1110</color>
 <color=#fffa62>Zerstörer Typ 1944</color>
 Z 52"
 germ_destroyer_class1944_z52_1;Z 52
 germ_destroyer_class1944_z52_2;Destroyer
 
-germ_cruiser_elbing_shop;SMS Elbing
-germ_cruiser_elbing_0;"<color=#fffa62>Pillau-class</color>
-SMS Elbing
-<color=#adadad>(1915)</color>"
-germ_cruiser_elbing_1;SMS Elbing
-germ_cruiser_elbing_2;Light Cruiser
+germ_cruiser_elbing_shop;S.M.S. Elbing
+germ_cruiser_elbing_0;"<color=#81c3fc>F. Schichau, Maschinen- und Lokomotivfabrik, Schiffswerft und
+Eisengießerei, Bau-Nr. 894</color>
+<color=#fffa62>kleiner Kreuzer Pillau-Klasse</color>
+S.M.S. kleiner Kreuzer Elbing"
+germ_cruiser_elbing_1;S.M.S. Elbing
+germ_cruiser_elbing_2;Small Cruiser
 
 germ_cruiser_emden_1944_shop;Emden
-germ_cruiser_emden_1944_0;"Emden
+germ_cruiser_emden_1944_0;"<color=#81c3fc>Reichsmarinewerft Wilhelmshaven, Bau-Nr. 100</color>
+<color=#919191>Kreuzer A <color=@commonTextColor>|</color> kleiner Kreuzer Ersatz Niobe</color>
+kleiner Kreuzer Emden
 <color=#adadad>(1944)</color>"
 germ_cruiser_emden_1944_1;Emden
+germ_cruiser_emden_1944_2;Small Cruiser
 
-germ_cruiser_emden_1944_2;Light Cruiser
-germ_cruiser_emden_1944_EC_0;Emden, 1944
+germ_cruiser_emden_1944_EC_0;kleiner Kreuzer Emden (1944)
 germ_cruiser_emden_1944_EC_1;Emden
-germ_cruiser_emden_1944_EC_2;Light Cruiser
+germ_cruiser_emden_1944_EC_2;Small Cruiser
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 4
 germ_destroyer_lutjens_class_lutjens_shop;Lütjens (D 185)
 germ_destroyer_lutjens_class_lutjens_0;"<color=#81c3fc>Bath Iron Works</color>
-<color=#fffa62>Zerstörer Lütjens-Klasse <color=@commonTextColor>|</color> Typ 103</color>
+<color=#fffa62>Zerstörer Klasse 103 <color=@commonTextColor>|</color> Zerstörer Lütjens-Klasse</color>
 Lütjens (D 185)"
 germ_destroyer_lutjens_class_lutjens_1;Lütjens
 germ_destroyer_lutjens_class_lutjens_2;Destroyer
 
 germ_cruiser_leipzig_shop;Leipzig
-germ_cruiser_leipzig_0;"<color=#fffa62>Leipzig-class</color>
+germ_cruiser_leipzig_0;"<color=#81c3fc>Reichsmarinewerft Wilhelmshaven <color=@commonTextColor>/</color> Deutsche Werke Kiel, Gotenhafen</color>
+<color=#fffa62>kleiner Kreuzer Leipzig-Klasse</color>
+<color=#919191>Kreuzer E <color=@commonTextColor>|</color> Ersatz Amazone</color>
 Leipzig
 <color=#adadad>(1944)</color>"
 germ_cruiser_leipzig_1;Leipzig
 germ_cruiser_leipzig_2;Light Cruiser
 
 germ_cruiser_nurnberg_shop;Nürnberg
-germ_cruiser_nurnberg_0;"<color=#fffa62>Leipzig-class</color>
+germ_cruiser_nurnberg_0;"<color=#81c3fc>Deutsche Werke Kiel</color>
+<color=#fffa62>kleiner Kreuzer Leipzig-Klasse</color>
+<color=#919191>Kreuzer F <color=@commonTextColor>|</color> Ersatz Nymphe</color>
 Nürnberg
 <color=#adadad>(1944)</color>"
 germ_cruiser_nurnberg_1;Nürnberg
 germ_cruiser_nurnberg_2;Light Cruiser
 
-germ_cruiser_nurnberg_EC_0;Nürnberg-class, Nürnberg, 1944
+germ_cruiser_nurnberg_EC_0;kleiner Kreuzer Leipzig-Klasse | Nürnberg (1944)
 germ_cruiser_nurnberg_EC_1;Nürnberg
 germ_cruiser_nurnberg_EC_2;Light Cruiser
 
 germ_cruiser_admiral_hipper_shop;Admiral Hipper
-germ_cruiser_admiral_hipper_0;"<color=#fffa62>Admiral Hipper-class</color>
+germ_cruiser_admiral_hipper_0;"<color=#81c3fc>Blohm & Voss <color=@commonTextColor>/</color> Deutsche Werke Kiel</color>
+<color=#fffa62>schwerer Kreuzer Admiral Hipper-Klasse</color>
+<color=#919191>Kreuzer G <color=@commonTextColor>|</color> Ersatz Berlin</color>
 Admiral Hipper
 <color=#adadad>(1942)</color>"
 germ_cruiser_admiral_hipper_1;Admiral Hipper
 germ_cruiser_admiral_hipper_2;Heavy Cruiser
 
 germ_cruiser_prinz_eugen_shop;Prinz Eugen
-germ_cruiser_prinz_eugen_0;"<color=#fffa62>Admiral Hipper-class</color>
+germ_cruiser_prinz_eugen_0;"<color=#81c3fc>Friedrich Krupp Germaniawerft <color=@commonTextColor>/</color> Deutsche Werke Kiel, Gotenhafen</color>
+<color=#fffa62>schwerer Kreuzer Admiral Hipper-Klasse</color>
+<color=#919191>Kreuzer J</color>
 Prinz Eugen
 <color=#adadad>(1945)</color>"
 germ_cruiser_prinz_eugen_1;Prinz Eugen
 germ_cruiser_prinz_eugen_2;Heavy Cruiser
 
 germ_cruiser_koln_shop;Köln
-germ_cruiser_koln_0;"<color=#fffa62>K-class</color>
+germ_cruiser_koln_0;"<color=#81c3fc>Reichsmarinewerft Wilhelmshaven <color=@commonTextColor>/</color> Deutsche Werke Kiel</color>
+<color=#fffa62>leichter Kreuzer Königsberg-Klasse</color>
+<color=#919191>Kreuzer D <color=@commonTextColor>|</color> Ersatz Arcona</color>
 Köln
-<color=#adadad>(1940)</color>"
+<color=#adadad>(1939)</color>"
 germ_cruiser_koln_1;Köln
 germ_cruiser_koln_2;Light Cruiser
 
-germ_cruiser_koln_EC_0;K-class, Köln, 1940
+germ_cruiser_koln_EC_0;leichter Kreuzer Königsberg-Klasse | Köln (1939)
 germ_cruiser_koln_EC_1;Köln
 germ_cruiser_koln_EC_2;Light Cruiser
 
 germ_cruiser_karlsruhe_shop;Karlsruhe
-germ_cruiser_karlsruhe_0;"<color=#fffa62>K-class</color>
+germ_cruiser_karlsruhe_0;"<color=#81c3fc>Deutsche Werke Kiel <color=@commonTextColor>/</color> Kriegsmarinewerft Wilhelmshaven</color>
+<color=#fffa62>leichter Kreuzer Königsberg-Klasse</color>
+<color=#919191>Kreuzer C <color=@commonTextColor>|</color> Ersatz Medusa</color>
 Karlsruhe
-<color=#adadad>(1940)</color>"
+<color=#adadad>(1939)</color>"
 germ_cruiser_karlsruhe_1;Karlsruhe
 germ_cruiser_karlsruhe_2;Light Cruiser
 
 germ_cruiser_admiral_graf_spee_shop;Admiral Graf Spee
-germ_cruiser_admiral_graf_spee_0;"<color=#81c3fc>Kriegsmarinewerft Wilhelmshaven, Bau-Nr. 125 <color=@commonTextColor>/</color> Deutsche Werke Kiel</color>
+germ_cruiser_admiral_graf_spee_0;"<color=#81c3fc>Kriegsmarinewerft Wilhelmshaven, Bau-Nr. 124 <color=@commonTextColor>/</color> Deutsche Werke Kiel</color>
 <color=#fffa62>Panzerschiff Deutschland-Klasse</color>
 <color=#919191>Panzerschiff C <color=@commonTextColor>|</color> Ersatz Braunschweig</color>
 Admiral Graf Spee
@@ -7695,97 +7780,115 @@ germ_cruiser_admiral_graf_spee_2;Armored Ship
 
 germ_cruiser_admiral_scheer_shop;Admiral Scheer
 germ_cruiser_admiral_scheer_0;"<color=#81c3fc>Reichsmarinewerft Wilhelmshaven, Bau-Nr. 123 <color=@commonTextColor>/</color> Marinehafen Kaseburg</color>
-<color=#fffa62>Panzerschiff Deutschland-Klasse</color>
+<color=#fffa62>schwerer Kreuzer Deutschland-Klasse</color>
 <color=#919191>Panzerschiff B <color=@commonTextColor>|</color> Ersatz Lothringen</color>
 Admiral Scheer
 <color=#adadad>(1943)</color>"
 germ_cruiser_admiral_scheer_1;Admiral Scheer
-germ_cruiser_admiral_scheer_2;Armored Ship
+germ_cruiser_admiral_scheer_2;Heavy Cruiser
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
-germ_battleship_westfalen_shop;SMS Westfalen
-germ_battleship_westfalen_0;"<color=#fffa62>Nassau-class</color>
-SMS Westfalen
-<color=#adadad>(1916)</color>"
-germ_battleship_westfalen_1;SMS Westfalen
+germ_battleship_westfalen_shop;S.M.S. Westfalen
+germ_battleship_westfalen_0;"<color=#81c3fc>Aktien-Gesellschaft ""Weser"" Bau-Nr. 163 <color=@commonTextColor>/</color> Kaiserliche Werft
+Wilhelmshaven</color>
+<color=#fffa62>Linienschiff Nassau-Klasse</color>
+<color=#919191>S.M.S. Linienschiff Ersatz Sachsen</color>
+S.M.S. Linienschiff Westfalen
+<color=#adadad>(1915)</color>"
+germ_battleship_westfalen_1;S.M.S. Westfalen
 germ_battleship_westfalen_2;Battleship
 
-germ_battleship_nassau_shop;SMS Nassau
-germ_battleship_nassau_0;"<color=#fffa62>Nassau-class</color>
-SMS Nassau
-<color=#adadad>(1910)</color>"
-germ_battleship_nassau_1;SMS Nassau
+germ_battleship_nassau_shop;S.M.S. Nassau
+germ_battleship_nassau_0;"<color=#81c3fc>Kaiserliche Werft Wilhelmshaven, Bau-Nr. 30</color>
+<color=#fffa62>Linienschiff Nassau-Klasse</color>
+<color=#919191>S.M.S. Linienschiff Ersatz Bayern</color>
+S.M.S. Linienschiff Nassau"
+germ_battleship_nassau_1;S.M.S. Nassau
 germ_battleship_nassau_2;Battleship
 
-germ_battleship_helgoland_shop;SMS Helgoland
-germ_battleship_helgoland_0;"<color=#fffa62>Helgoland-class</color>
-SMS Helgoland
-<color=#adadad>(1911)</color>"
-germ_battleship_helgoland_1;SMS Helgoland
+germ_battleship_helgoland_shop;S.M.S. Helgoland
+germ_battleship_helgoland_0;"<color=#81c3fc>Howaldtswerke, Bau-Nr. 500</color>
+<color=#fffa62>Linienschiff Helgoland-Klasse</color>
+<color=#919191>S.M.S. Linienschiff Ersatz Siegfried</color>
+S.M.S. Linienschiff Helgoland"
+germ_battleship_helgoland_1;S.M.S. Helgoland
 germ_battleship_helgoland_2;Battleship
 
-germ_battleship_ostfriesland_shop;SMS Ostfriesland
-germ_battleship_ostfriesland_0;"<color=#fffa62>Helgoland-class</color>
-SMS Ostfriesland
-<color=#adadad>(1911)</color>"
-germ_battleship_ostfriesland_1;SMS Ostfriesland
+germ_battleship_ostfriesland_shop;S.M.S. Ostfriesland
+germ_battleship_ostfriesland_0;"<color=#81c3fc>Kaiserliche Werft Wilhelmshaven, Bau-Nr. 31</color>
+<color=#fffa62>Linienschiff Helgoland-Klasse</color>
+<color=#919191>S.M.S. Linienschiff Ersatz Oldenburg</color>
+S.M.S. Linienschiff Ostfriesland
+<color=#adadad>(1916)</color>"
+germ_battleship_ostfriesland_1;S.M.S. Ostfriesland
 germ_battleship_ostfriesland_2;Battleship
 
-germ_battleship_kaiser_shop;SMS Kaiser
-germ_battleship_kaiser_0;"<color=#fffa62>Kaiser-class</color>
-SMS Kaiser
-<color=#adadad>(1911)</color>"
-germ_battleship_kaiser_1;SMS Kaiser
+germ_battleship_kaiser_shop;S.M.S. Kaiser
+germ_battleship_kaiser_0;"<color=#81c3fc>Kaiserliche Werft Wilhelmshaven, Bau-Nr. 35</color>
+<color=#fffa62>Linienschiff Kaiser-Klasse</color>
+<color=#919191>S.M.S. Linienschiff Ersatz Hildebrand</color>
+S.M.S. Linienschiff Kaiser"
+germ_battleship_kaiser_1;S.M.S. Kaiser
 germ_battleship_kaiser_2;Battleship
 
-germ_battleship_konig_shop;SMS König
+germ_battleship_konig_shop;S.M.S. König
 germ_battleship_konig_0;"<color=#81c3fc>Kaiserliche Werft Wilhelmshaven, Bau-Nr. 33</color>
 <color=#fffa62>Linienschiff König-Klasse</color>
 <color=#919191>Linienschiff S</color>
-SMS König
+S.M.S. Linienschiff König
 <color=#adadad>(1917)</color>"
-germ_battleship_konig_1;SMS König
+germ_battleship_konig_1;S.M.S. König
 germ_battleship_konig_2;Battleship
 
-germ_battlecruiser_von_der_tann_shop;SMS Von der Tann
-germ_battlecruiser_von_der_tann_0;"SMS Von der Tann
+germ_battlecruiser_von_der_tann_shop;S.M.S. Von der Tann
+germ_battlecruiser_von_der_tann_0;"<color=#81c3fc>Blohm & Voss, Bau-Nr. 198 <color=@commonTextColor>/</color> Kaiserliche Werft Wilhelmshaven</color>
+<color=#919191>großer Kreuzer F</color>
+S.M.S. großer Kreuzer Von der Tann
 <color=#adadad>(1914)</color>"
-germ_battlecruiser_von_der_tann_1;SMS Von der Tann
-germ_battlecruiser_von_der_tann_2;Battlecruiser
+germ_battlecruiser_von_der_tann_1;S.M.S. Von der Tann
+germ_battlecruiser_von_der_tann_2;Large Cruiser
 
-germ_battlecruiser_derfflinger_shop;SMS Derfflinger
-germ_battlecruiser_derfflinger_0;"<color=#fffa62>Derfflinger-class</color>
-SMS Derfflinger
+germ_battlecruiser_derfflinger_shop;S.M.S. Derfflinger
+germ_battlecruiser_derfflinger_0;"<color=#81c3fc>Blohm & Voss, Bau-Nr. 213 <color=@commonTextColor>/</color> Kaiserliche Werft Kiel</color>
+<color=#fffa62>großer Kreuzer Derfflinger-Klasse</color>
+<color=#919191>großer Kreuzer K</color>
+S.M.S. großer Kreuzer Derfflinger
 <color=#adadad>(1916)</color>"
-germ_battlecruiser_derfflinger_1;SMS Derfflinger
-germ_battlecruiser_derfflinger_2;Battlecruiser
+germ_battlecruiser_derfflinger_1;S.M.S. Derfflinger
+germ_battlecruiser_derfflinger_2;Large Cruiser
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
-germ_battleship_bayern_shop;SMS Bayern
-germ_battleship_bayern_0;"<color=#fffa62>Bayern-class</color>
-SMS Bayern
-<color=#adadad>(1916)</color>"
-germ_battleship_bayern_1;SMS Bayern
+germ_battleship_bayern_shop;S.M.S. Bayern
+germ_battleship_bayern_0;"<color=#81c3fc>Howaldtswerke, Bau-Nr. 590</color>
+<color=#fffa62>Linienschiff Bayern-Klasse</color>
+<color=#919191>Linienschiff T</color>
+S.M.S. Linienschiff Bayern"
+germ_battleship_bayern_1;S.M.S. Bayern
 germ_battleship_bayern_2;Battleship
 
-germ_battleship_sachsen_shop;SMS Sachsen
-germ_battleship_sachsen_0;"<color=#fffa62>Bayern-class</color>
-SMS Sachsen"
-germ_battleship_sachsen_1;SMS Sachsen
+germ_battleship_sachsen_shop;S.M.S. Sachsen
+germ_battleship_sachsen_0;"<color=#81c3fc>Friedrich Krupp Germaniawerft, Bau-Nr. 210</color>
+<color=#fffa62>Linienschiff Bayern-Klasse</color>
+<color=#919191>S.M.S. Linienschiff Ersatz Kaiser Friedrich III</color>
+S.M.S. Linienschiff Sachsen"
+germ_battleship_sachsen_1;S.M.S. Sachsen
 germ_battleship_sachsen_2;Battleship
 
-germ_battleship_baden_shop;SMS Baden
-germ_battleship_baden_0;"<color=#fffa62>Bayern-class</color>
-SMS Baden
+germ_battleship_baden_shop;S.M.S. Baden
+germ_battleship_baden_0;"<color=#81c3fc>F. Schichau, Maschinen- und Lokomotivfabrik, Schiffswerft und
+Eisengießerei, Bau-Nr. 913 <color=@commonTextColor>/</color> Kaiserliche Werft Wilhelmshaven</color>
+<color=#fffa62>Linienschiff Bayern-Klasse</color>
+<color=#919191>S.M.S. Linienschiff Ersatz Wörth</color>
+S.M.S. Linienschiff Baden
 <color=#adadad>(1918)</color>"
-germ_battleship_baden_1;SMS Baden
+germ_battleship_baden_1;S.M.S. Baden
 germ_battleship_baden_2;Battleship
 
-germ_battlecruiser_ersatz_yorck_shop;Ersatz Yorck
+germ_battlecruiser_ersatz_yorck_shop;S.M.S. Ers. Yorck
 germ_battlecruiser_ersatz_yorck_0;"<color=#81c3fc>Stettiner Maschinenbau Actien-Gesellschaft Vulcan, Bau-Nr. 35</color>
 <color=#fffa62>großer Kreuzer Ersatz Yorck-Klasse</color>
-Ersatz Yorck"
-germ_battlecruiser_ersatz_yorck_1;Ersatz Yorck
+S.M.S. großer Kreuzer Ersatz Yorck"
+germ_battlecruiser_ersatz_yorck_1;S.M.S. Ers. Yorck
 germ_battlecruiser_ersatz_yorck_2;Battlecruiser
 
 germ_battleship_scharnhorst_shop;Scharnhorst
@@ -7806,13 +7909,13 @@ Gneisenau
 germ_battleship_gneisenau_380mm_1;Gneisenau
 germ_battleship_gneisenau_380mm_2;Battlecruiser
 
-germ_battlecruiser_mackensen_class_shop;Mackensen
+germ_battlecruiser_mackensen_class_shop;S.M.S. Mackensen
 germ_battlecruiser_mackensen_class_0;"<color=#81c3fc>Blohm & Voss, Bau-Nr. 240</color>
 <color=#fffa62>großer Kreuzer Mackensen-Klasse</color>
-<color=#919191>Ersatz Victoria Louise</color>
-Mackensen"
-germ_battlecruiser_mackensen_class_1;Mackensen
-germ_battlecruiser_mackensen_class_2;Battlecruiser
+<color=#919191>S.M.S. großer Kreuzer Ersatz Victoria Louise</color>
+S.M.S. großer Kreuzer Mackensen"
+germ_battlecruiser_mackensen_class_1;S.M.S. Mackensen
+germ_battlecruiser_mackensen_class_2;Large Cruiser
 
 //GERMANY BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
 germ_battleship_bismarck_shop;Bismarck
@@ -15888,7 +15991,8 @@ mig-17_f5_2;▆ F5
 
 f_6c_pakistan_shop;☪ F6C (Oct 1976)
 f_6c_pakistan_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 SM-7/3 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè
-Chang</color>
+Chang <color=@commonTextColor>/</color>
+Central Technical Development Unit</color>
 ☪ F6C Xíng Fēijī
 <color=#adadad>(October 1976)</color>"
 f_6c_pakistan_1;☪ F6C
@@ -20221,10 +20325,12 @@ stridsvagn m/42 TM
 sw_strv_m42_delat_torn_1;strv m/42 (DT)
 sw_strv_m42_delat_torn_2;Medium Tank
 
-sw_t_50_fin_shop;15 psv T 50
-sw_t_50_fin_0;"<color=#81c3fc>Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova</color>
+sw_t_50_fin_shop;15 psv T 50 (1942)
+sw_t_50_fin_0;"<color=#81c3fc>Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova <color=@commonTextColor>/</color>
+Panssarikeskuskorjaamo</color>
 <color=#5cae63>Ps. 183-1</color>
-15 tonnin panssarivaunu T 50 ""Pikku-Sotka"""
+15 tonnin panssarivaunu T 50 ""Pikku-Sotka""
+<color=#adadad>(1942)</color>"
 sw_t_50_fin_1;15 psv T 50
 sw_t_50_fin_2;Light Tank
 

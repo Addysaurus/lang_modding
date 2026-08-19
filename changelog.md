@@ -70,6 +70,7 @@ All dates are listed in DD-MM-YYYY format.
     - Reworked the ZALA scout recon drones. They're still completely screwed up because the performance does not match the model, but they're less screwed up now.
     - Removed the US Army supply catalog from the statcard name of the Japanese **M36B2**.
     - Corrected the Hungarian **Tiger E (spät)**.
+    - Removed "N.V." from Dutch manufacturers.
 
 ### Weaponry:
 

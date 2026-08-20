@@ -74,6 +74,7 @@ All dates are listed in DD-MM-YYYY format.
     - Removed "N.V." from Dutch manufacturers.
     - Added the modification date and factory to the **15 psv T 50** (tysm Wiggly_Armed_Man).
     - Added the Pakistani modification factory to the **F6C (Oct 1976)**.
+    - Changed **Yūgure (DD-184)**'s manufacturer to Charlestown Navy Yard.
 
 ### Weaponry:
 

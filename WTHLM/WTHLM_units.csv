@@ -6774,7 +6774,6 @@ Panzerselbstfahrlafette Ic"
 germ_pzkpfw_II_ausf_H_1;Pz.Sfl. Ic
 germ_pzkpfw_II_ausf_H_2;Light Tank
 
-
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 germ_panzerjager_nashorn_shop;Nashorn
 germ_panzerjager_nashorn_0;"<color=#919191>Hornisse</color>
@@ -10424,6 +10423,12 @@ Osprey Mk. IV"
 osprey_mk4_1;Osprey Mk. IV
 osprey_mk4_2;Osprey
 
+fairey_3f_mk3b_shop;Fairey IIIF Mk. IIIB
+fairey_3f_mk3b_0;"<color=#81c3fc>Fairey Aviation Company</color>
+Fairey IIIF Mk. IIIB"
+fairey_3f_mk3b_1;Fairey IIIF Mk. IIIB
+fairey_3f_mk3b_2;Fairey IIIF
+
 //UK AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 hurricanemkii_shop;Hurricane Mk. IIb (trop.)
 hurricanemkii_0;"<color=#81c3fc>Hawker Aircraft</color>
@@ -13160,14 +13165,14 @@ f1m2_2;F1M
 
 a5m4_shop;A5M4
 a5m4_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
-<color=#7ce68f>96 Shiki 4 Gō Kanjō Sentōki 4 Gata</color>
+<color=#7ce68f>96 Shiki 4 Gō Kanjō Sentōki</color>
 A5M4"
 a5m4_1;A5M4
 a5m4_2;A5M
 
 a5m4_hagiri_shop;Hagiri's A5M4
 a5m4_hagiri_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
-<color=#7ce68f>96 Shiki 4 Gō Kanjō Sentōki 4 Gata</color>
+<color=#7ce68f>96 Shiki 4 Gō Kanjō Sentōki</color>
 <color=@currencyGoldColor>Matsuo Hagiri's A5M4</color>"
 a5m4_hagiri_1;A5M4
 a5m4_hagiri_2;A5M
@@ -13921,11 +13926,12 @@ M7N1-J Kō"
 kitsuka_1;M7N1
 kitsuka_2;M7N
 
-j8m1_shop;Ki 200
+j8m1_shop;J8M1
 j8m1_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
-Ki 200"
-j8m1_1;Ki 200
-j8m1_2;Ki 200
+<color=#7ce68f>Shisei Shūsui</color>
+J8M1"
+j8m1_1;J8M1
+j8m1_2;J8M
 
 l_39za_art_thailand_shop;B.KhF.1
 l_39za_art_thailand_0;"<color=#81c3fc>Aero Vodochody <color=@commonTextColor>/</color> Elbit Systems L-39ZA/ART</color>
@@ -21297,6 +21303,7 @@ il_mim_72_chaparral_2;SPAA
 
 il_hunter_afv_shop;Hunter
 il_hunter_afv_0;"<color=#81c3fc>Defence Science and Technology Agency <color=@commonTextColor>+</color> ST Engineering</color>
+<color=#ff8c80>Next Generation Armoured Fighting Vehicle</color>
 Hunter Armoured Fighting Vehicle"
 il_hunter_afv_1;Hunter
 il_hunter_afv_2;IFV

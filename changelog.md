@@ -75,6 +75,7 @@ All dates are listed in DD-MM-YYYY format.
     - Added the modification date and factory to the **15 psv T 50** (tysm Wiggly_Armed_Man).
     - Added the Pakistani modification factory to the **F6C (Oct 1976)**.
     - Changed **Yūgure (DD-184)**'s manufacturer to Charlestown Navy Yard.
+    - Corrected the **Ki 200** to the **J8M1**.
 
 ### Weaponry:
 
@@ -92,6 +93,8 @@ All dates are listed in DD-MM-YYYY format.
     - **105 mm FMk. 4 Modelo 1L cannon** → **Cañón Cal. 105 mm FMK 4 Modelo 1L**.
     - **105 mm PzK M57 cannon** → **10,5 cm Panzerkanone M 57**.
     - **SYLVER A50**: Statcard name → **Système de lancement vertical A50**.
+    - **30 mm Ho-155 cannon** → **5 Shiki 30 Miri Kotei Kijū**.
+        - Japanese package: **30 mm Ho-155 cannon** → **五式三十粍固定機銃**.
 
 ### Modifications:
 
@@ -113,6 +116,13 @@ All dates are listed in DD-MM-YYYY format.
     - Updated a bunch of loading screen names for the UK tree rework, French ground rework, and general vehicle names that were updated but had not had their loading screens updated.
     - Corrected the missing **FIAT 6616UB** profile header to **Fiat 6616BM (TC 20) (UB-16-57UMP)** like the loading screen.
     - **Steve Pisanos** (profile picture) → **Steven Nicholas Pisanos**. Also gave the profile picture a full history in its description.
+
+### Miscellaneous:
+
+- #### Changes:
+
+    - Updated the Gaza bombing statistic loading tip to specify that it is not a war, it is a genocide.
+    - Added a year to the Italian failed invasion of Ethiopia loading tip.
 
 ## 1.18.01 - 24-07-2026
 

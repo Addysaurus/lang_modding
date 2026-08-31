@@ -76,6 +76,7 @@ All dates are listed in DD-MM-YYYY format.
     - Added the Pakistani modification factory to the **F6C (Oct 1976)**.
     - Changed **Yūgure (DD-184)**'s manufacturer to Charlestown Navy Yard.
     - Corrected the **Ki 200** to the **J8M1**.
+    - Removed "4 Gata" from the **A5M4**.
 
 ### Weaponry:
 

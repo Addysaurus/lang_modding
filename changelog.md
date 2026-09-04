@@ -24,7 +24,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - Updated for the "Guardian of the Baltic Sea" event.
+    - Updated for the "Guardian of the Baltic Sea" and "Space Program" events.
     - Implemented multiline statcards. This project has been in the works since March and every vehicle has now been moved over to a new statcard format spanning multiple lines. This will make statcards much more readable and consistent, with no more scrolling or stretching.
     - Implemented the UK tree rework. This is Odican's rework of every single British tree vehicle in the entire game. It has been in the works for nearly a year and has come out to be extremely high quality and one of the best things ever done for this mod.
     - Implemented the French ground rework. This reworks every single French ground vehicle in the entire game (enjoy your S.O.M.U.A. 50t smh my head).
@@ -77,6 +77,9 @@ All dates are listed in DD-MM-YYYY format.
     - Changed **Yūgure (DD-184)**'s manufacturer to Charlestown Navy Yard.
     - Corrected the **Ki 200** to the **J8M1**.
     - Removed "4 Gata" from the **A5M4**.
+    - Corrected the statcard name of the **A7He1** to use Japanese numerals in the Japanese package.
+    - Added the modification manufacturer to the **s.Kpfw. (Beute)**.
+    - Corrected the statcard name of the **PzH 2000HU** to say 155 mm instead of 152 mm and the manufacturer to be KNDS Deutschland instead of just KNDS.
 
 ### Weaponry:
 

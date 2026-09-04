@@ -1932,13 +1932,15 @@ germ_garford_putilov_event_1;◄ Pzw. Garford (Beute)
 germ_garford_putilov_event_2;Armored Car
 
 germ_beutepanzer_mk_iv_event_shop;s.Kpfw. (Beute)
-germ_beutepanzer_mk_iv_event_0;"<color=#81c3fc>William Foster & Co.</color>
+germ_beutepanzer_mk_iv_event_0;"<color=#81c3fc>William Foster & Co. <color=@commonTextColor>/</color> Bayerischer Armee-Kraftwagen-Park Nr. 20</color>
+<color=#919191>Sturmpanzerwagen (Beute)</color>
 schwerer Kampfwagen (Beute)"
 germ_beutepanzer_mk_iv_event_1;s.Kpfw. (Beute)
 germ_beutepanzer_mk_iv_event_2;Medium Tank
 
 germ_a7v_event_shop;s.Kpfw. A7V
 germ_a7v_event_0;"<color=#81c3fc>Daimler Motoren Gesellschaft</color>
+<color=#919191>Sturmpanzerwagen A7V</color>
 schwerer Kampfwagen A7V"
 germ_a7v_event_1;s.Kpfw. A7V
 germ_a7v_event_2;Medium Tank
@@ -3441,6 +3443,13 @@ F-16C-52Q-MC Fighting Falcon
 f_16c_block_52_aesa_1;F-16C
 f_16c_block_52_aesa_2;F-16
 
+f_16xl_shop;F-16XL-1
+f_16xl_0;"<color=#81c3fc>General Dynamics Corporation F-16XL</color>
+<color=#ff8c80>Enhanced Tactical Fighter</color>
+F-16XL-1 Fighting Falcon"
+f_16xl_1;F-16XL
+f_16xl_2;F-16
+
 f_15a_shop;F-15A-18-MC (MSIP)
 f_15a_0;"F-15A-18-MC Eagle
 <color=#adadad>(Multistage Improvement Program)</color>"
@@ -3462,6 +3471,7 @@ f_15c_golden_eagle_2;F-15
 
 f_15e_shop;F-15E-43-MC
 f_15e_0;"<color=#81c3fc>McDonnell Douglas Corporation</color>
+<color=#ff8c80>Enhanced Tactical Fighter</color>
 F-15E-43-MC Strike Eagle"
 f_15e_1;F-15E
 f_15e_2;F-15
@@ -6459,13 +6469,15 @@ germ_pzkpfw_38t_na_1;Pz.Kpfw. 38 (t)
 germ_pzkpfw_38t_na_2;Light Tank
 
 germ_beutepanzer_mk_iv_shop;s.Kpfw. (Beute)
-germ_beutepanzer_mk_iv_0;"<color=#81c3fc>William Foster & Co.</color>
+germ_beutepanzer_mk_iv_0;"<color=#81c3fc>William Foster & Co. <color=@commonTextColor>/</color> Bayerischer Armee-Kraftwagen-Park Nr. 20</color>
+<color=#919191>Sturmpanzerwagen (Beute)</color>
 schwerer Kampfwagen (Beute)"
 germ_beutepanzer_mk_iv_1;s.Kpfw. (Beute)
 germ_beutepanzer_mk_iv_2;Medium Tank
 
 germ_a7v_shop;s.Kpfw. A7V
 germ_a7v_0;"<color=#81c3fc>Daimler Motoren Gesellschaft</color>
+<color=#919191>Sturmpanzerwagen A7V</color>
 schwerer Kampfwagen A7V"
 germ_a7v_1;s.Kpfw. A7V
 germ_a7v_2;SPG
@@ -17578,8 +17590,8 @@ it_m60a1_ariete_1;⛨ M60A1
 it_m60a1_ariete_2;Medium Tank
 
 it_pzh_2000_hu_shop;◔ PzH 2000HU
-it_pzh_2000_hu_0;"<color=#81c3fc>KNDS</color>
-◔ 152 mm-es Panzerhaubitze 2000HU páncélos tarack"
+it_pzh_2000_hu_0;"<color=#81c3fc>KNDS Deutschland</color>
+◔ 155 mm-es Panzerhaubitze 2000HU páncélos tarack"
 it_pzh_2000_hu_1;◔ PzH 2000HU
 it_pzh_2000_hu_2;SPH
 

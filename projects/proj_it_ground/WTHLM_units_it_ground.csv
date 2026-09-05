@@ -1,0 +1,253 @@
+<ID|readonly|noverify>;<English>
+//GROUPS
+shop/group/it_semovente_stug_group;90/53 M. 41 M. / ⛨ StuG III
+shop/group/it_semovente_m41_group;75/18 M. 41 / 75/32 M. 41 / 75/34 M. 42 M.
+
+//AI UNITS
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+it_ab_41_shop;AB. 41
+it_ab_41_0;"<color=#81c3fc>Gio. Ansaldo & C. <color=@commonTextColor>+</color> Fiat</color>
+<color=#919191>Autoblinda tipo 41</color>
+Autoblinda modello 41"
+it_ab_41_1;AB. 41
+it_ab_41_2;Armored Car
+
+it_ab_43_shop;AB. 43
+it_ab_43_0;"<color=#81c3fc>Gio. Ansaldo & C. <color=@commonTextColor>+</color> Fiat</color>
+<color=#919191>Autoblinda tipo 43</color>
+Autoblinda modello 43"
+it_ab_43_1;AB. 43
+it_ab_43_2;Armored Car
+
+it_m11_39_shop;M. 39
+it_m11_39_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 11/39</color>
+Carro armato modello M. 39"
+it_m11_39_1;M. 39
+it_m11_39_2;Medium Tank
+
+it_as_42_47_shop;A.S. 42 (47/32)
+it_as_42_47_0;"<color=#81c3fc>Società Piemontese Automobili <color=@commonTextColor>+</color> Viberti</color>
+Camionetta desertica modello 42 tipo II ""Metropolatina""
+<color=#adadad>(Cannone semiautomatico da 47/32 modello 39)</color>"
+it_as_42_47_1;A.S. 42 (47/32)
+it_as_42_47_2;Armored Car
+
+it_as_42_metropolitana_shop;A.S. 42 (20/65)
+it_as_42_metropolitana_0;"<color=#81c3fc>Società Piemontese Automobili <color=@commonTextColor>+</color> Viberti</color>
+Camionetta desertica modello 42 tipo II ""Metropolatina""
+<color=#adadad>(Cannone-mitragliera da 20/65 modello 35)</color>"
+it_as_42_metropolitana_1;A.S. 42 (20/65)
+it_as_42_metropolitana_2;Armored Car
+
+it_l3_cc_shop;L. 33/Cc
+it_l3_cc_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo L. 3/33 controcarro</color>
+Carro armato modello L. 33 controcarro"
+it_l3_cc_1;L. 33/Cc
+it_l3_cc_2;Light Tank
+
+it_l6_shop;L. 40
+it_l6_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo L. 6/40</color>
+Carro armato modello L. 40"
+it_l6_1;L. 40
+it_l6_2;Light Tank
+
+it_l6_leone_shop;L. 40 (31º Reg.Car.)
+it_l6_leone_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo L. 6/40</color>
+Carro armato modello L. 40
+<color=@currencyGoldColor>31º Reggimento Carri</color>"
+it_l6_leone_1;L. 40
+it_l6_leone_2;Light Tank
+
+it_semovente_l40_shop;47/32 L. 40
+it_semovente_l40_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 47/32 su scafo L. 40"
+it_semovente_l40_1;47/32 L. 40
+it_semovente_l40_2;SPG
+
+it_m13_40_serie_1_shop;M. 40 I
+it_m13_40_serie_1_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 13/40 serie I</color>
+Carro armato modello M. 40 serie I"
+it_m13_40_serie_1_1;M. 40 I
+it_m13_40_serie_1_2;Medium Tank
+
+it_m13_40_serie_2_shop;M. 40 II
+it_m13_40_serie_2_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 13/40 serie II</color>
+Carro armato modello M. 40 serie II"
+it_m13_40_serie_2_1;M. 40 II
+it_m13_40_serie_2_2;Medium Tank
+
+it_m13_40_serie_3_shop;M. 40 III
+it_m13_40_serie_3_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 13/40 serie III</color>
+Carro armato modello M. 40 serie III"
+it_m13_40_serie_3_1;M. 40 III
+it_m13_40_serie_3_2;Medium Tank
+
+it_m14_41_shop;M. 41
+it_m14_41_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 14/41</color>
+Carro armato modello M. 41"
+it_m14_41_1;M. 41
+it_m14_41_2;Medium Tank
+
+it_semovente_m41_75_18_shop;75/18 M. 41
+it_semovente_m41_75_18_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 75/18 su scafo M. 41"
+it_semovente_m41_75_18_1;75/18 M. 41
+it_semovente_m41_75_18_2;SPG
+
+it_semovente_m41_75_32_shop;75/32 M. 41
+it_semovente_m41_75_32_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 75/32 su scafo M. 41"
+it_semovente_m41_75_32_1;75/32 M. 41
+it_semovente_m41_75_32_2;SPG
+
+it_m14_41_47_40_shop;M. 41 (47/40)
+it_m14_41_47_40_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 14/41</color>
+Carro armato modello M. 41
+<color=#adadad>(Cannone semiautomatico da 47/40 modello 40)</color>"
+it_m14_41_47_40_1;M. 41
+it_m14_41_47_40_2;Medium Tank
+
+it_semovente_m41m_90_shop;90/53 M. 41 M.
+it_semovente_m41m_90_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 90/53 su scafo M. 41 M."
+it_semovente_m41m_90_1;90/53 M. 41 M.
+it_semovente_m41m_90_2;SPG
+
+it_lancia3ro_100_shop;100/17 3Ro
+it_lancia3ro_100_0;"<color=#81c3fc>Lancia & C. Fabbrica Automobili 3Ro <color=@commonTextColor>/</color> Autofficine del 12°
+Autoraggruppamento A.S.</color>
+Obice da 100/17 modello 1914 su autocarro militare modello 3Ro"
+it_lancia3ro_100_1;100/17 3Ro
+it_lancia3ro_100_2;SPG
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+it_m3a3_stuart_shop;⛨ M3A3
+it_m3a3_stuart_0;"<color=#81c3fc>American Car and Foundry Company, Berwick</color>
+⛨ Carro armato leggero M3A3"
+it_m3a3_stuart_1;⛨ M3A3
+it_m3a3_stuart_2;Light Tank
+
+it_m15_42_shop;M. 42
+it_m15_42_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 15/42</color>
+Carro armato modello M. 42"
+it_m15_42_1;M. 42
+it_m15_42_2;Medium Tank
+
+it_m15_42_contraereo_shop;20/70 M. 42/Ca
+it_m15_42_contraereo_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 20/70 quadruplo su scafo M. 42 controaereo"
+it_m15_42_contraereo_1;20/70 M. 42/Ca
+it_m15_42_contraereo_2;SPAAG
+
+it_semovente_m42_75_34_shop;75/34 M. 42 M.
+it_semovente_m42_75_34_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 75/34 su scafo M. 42 M."
+it_semovente_m42_75_34_1;75/34 M. 42 M.
+it_semovente_m42_75_34_2;SPG
+
+it_pzkpfw_III_ausf_N_shop;⛨ Pz.Kpfw. III N
+it_pzkpfw_III_ausf_N_0;"<color=#81c3fc>Daimler-Benz</color>
+⛨ Carro armato Panzerkampfwagen III Ausf. N"
+it_pzkpfw_III_ausf_N_1;⛨ Pz.Kpfw. III N
+it_pzkpfw_III_ausf_N_2;Medium Tank
+
+it_p_40_shop;P. 40
+it_p_40_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo P. 26/40</color>
+Carro armato modello P. 40"
+it_p_40_1;P. 40
+it_p_40_2;Heavy Tank
+
+it_p_26_40_shop;P. 40 (Grp.Cor.)
+it_p_26_40_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo P. 26/40</color>
+Carro armato modello P. 40
+<color=@currencyGoldColor>Gruppo Corazzato ""Leoncello""</color>"
+it_p_26_40_1;P. 40
+it_p_26_40_2;Heavy Tank
+
+it_fiat_cm52_shop;CM 52 (12,7)
+it_fiat_cm52_0;"<color=#81c3fc>Fiat 6601</color>
+Complesso quadruplo da 12,7 su autocarro medio CM 52"
+it_fiat_cm52_1;CM 52 (12,7)
+it_fiat_cm52_2;SPAAG
+
+it_semovente_m43_105_shop;105/25 M. 43
+it_semovente_m43_105_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 105/25 su scafo M. 43 ""Bassotto"""
+it_semovente_m43_105_1;105/25 M. 43
+it_semovente_m43_105_2;SPG
+
+it_semovente_m43_105_leoncello_shop;105/25 M. 43 (Grp.Cor.)
+it_semovente_m43_105_leoncello_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 105/25 su scafo M. 43 ""Bassotto""
+<color=@currencyGoldColor>Gruppo Corazzato ""Leoncello"", «Terremoto»</color>"
+it_semovente_m43_105_leoncello_1;105/25 M. 43
+it_semovente_m43_105_leoncello_2;SPG
+
+it_semovente_m43_75_34_shop;75/34 M. 43
+it_semovente_m43_75_34_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 75/34 su scafo M. 43"
+it_semovente_m43_75_34_1;75/34 M. 43
+it_semovente_m43_75_34_2;SPG
+
+it_semovente_m43_75_46_shop;75/46 M. 43
+it_semovente_m43_75_46_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 75/46 su scafo M. 43"
+it_semovente_m43_75_46_1;75/46 M. 43
+it_semovente_m43_75_46_2;SPG
+
+it_sahariano_shop;Sahariano
+it_sahariano_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato veloce Sahariano</color>
+Carro armato celere Sahariano"
+it_sahariano_1;Sahariano
+it_sahariano_2;Fast Tank
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+it_m24_chaffee_shop;⛨ M24
+it_m24_chaffee_0;"<color=#81c3fc>Cadillac Motor Company</color>
+⛨ Carro armato leggero M24"
+it_m24_chaffee_1;⛨ M24
+it_m24_chaffee_2;Light Tank
+
+it_semovente_breda_501_shop;90/53 Breda 501
+it_semovente_breda_501_0;"<color=#81c3fc>Società Italiana Ernesto Breda 501</color>
+Semovente da 90/53 su autocarro Breda 501"
+it_semovente_breda_501_1;90/53 Breda 501
+it_semovente_breda_501_2;SPG
+
+it_m44_shop;⛨ 155/23 M44
+it_m44_0;"<color=#81c3fc>Massey-Harris</color>
+⛨ Obice da 155/23 su semovente M44"
+it_m44_1;⛨ 155/23 M44
+it_m44_2;SPH
+
+it_m55_shop;⛨ 203/25 M55
+it_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
+⛨ Obice da 203/25 su semovente M55"
+it_m55_1;⛨ 203/25 M55
+it_m55_2;SPH
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+
+//ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 9

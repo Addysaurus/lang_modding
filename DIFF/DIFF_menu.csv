@@ -1,3 +1,63 @@
 <ID|readonly|noverify>;<English>
-battlePass/seasonName/24;"""Do It Yourself"""
-profile_header_it_fiat_6616_ub/name;FIAT 6616UB
+bullet_properties/armorPiercing/fragmentation;Fragmentation
+xray/ammo/first_stage/replenish_delay;Ready rack replenishment delay
+xray/ammo/first_stage/replenish_time;Ready rack replenishment time
+xray/ammo/first_stage/reload_time_when_empty;Reload time without ready rack
+xray/transmission/forwardGears;Forward gears:
+xray/transmission/backwardGears;Backward gears:
+xray/transmission/gearRatio;Gear ratio
+mainmenu/requiredBR;Requires BR {br} or higher
+mainmenu/requiredAircraftCountWithBR;Requires {count}+ {count=aircraft/aircraft} with BR {br} or higher
+mainmenu/requiredShipWithBR;Requires a ship with BR {br} or higher
+mainmenu/oneMainModeRequired;At least one main mode must be enabled
+mainmenu/forEachSquadMember;(of each squad member)
+slotbarPresetsTutorial/autoChangePreset;"This will automatically change your vehicles to the selected preset.
+You can always restore your current vehicles in this menu."
+xray/turnTurretSpeed/lowBattery/yaw;Horizontal guidance speed on low battery
+xray/turnTurretSpeed/lowBattery/pitch;Vertical guidance speed on low battery
+workshop/wtcs_trophy_6;WTCS Esports Trophy VI
+loading_bg/login_layer_ship_marathon_guardian_of_the_baltic_sea;Oktyabrskaya Revolutsiya
+loading_bg/login_layer_space_program;F-16XL
+gpuBenchmark/btnApply;"Apply for ""{modeText}"" mode"
+edit/secondary_weapons/old_preset_invalid_title;Change in custom weapon preset
+edit/secondary_weapons/old_preset_invalid_desc;Due to weapon stat updates, some items are no longer available and have been automatically removed from this preset. You can modify or update it right now.
+sensorsFilters/onlySelected;Only selected object markers
+userlog/drown_kill_without_offender;— (drowned without damage)
+mainmenu/shellPenetration;Shell armor penetration
+msg/bulletForCompare/noShellsAvailable;No shells available for comparison
+modifications/generation;Generation
+presets/filter/title;Display filter
+presets/filter/enable_auto_abbreviation;Enable auto-abbreviation
+presets/filter/modes_abbreviation;Game Mode abbreviation
+presets/filter/show_modes;Show Game Modes
+presets/filter/show_ratings;Show Battle Ratings
+presets/filter/show_titles;Show custom names
+presets/filter/enable_auto_abbreviation/tooltip;Automatically shortens labels of all presets except the selected one as space runs out. Overrides the manual display settings for game modes, battle ratings and custom names.
+presets/edit/add;Add new preset
+presets/edit/remove;Remove?
+mode/small_teams;Smaller team sizes
+mode/classic;Classic mode
+mode/nuclear_escalation;Nuclear Escalation
+mode/night_battles/desc;"When this option is enabled, you have a chance of getting into a night battle instead of the main mode, if there are enough players in the queue with the option enabled. Enabling the option does not replace the main mode, but allows to get into such battles.
+
+Participation requires a vehicle with a Battle Rating of {requiredBR} or higher.
+
+When participating in night battles, you can earn unique night themed rewards."
+mode/small_teams/desc;"When this option is enabled, you have a chance of getting into a mission with smaller team sizes (min - max: {smallTeamsCount}) instead of the main mode (min - max: {usualTeamsCount}), if there are enough players in the queue with the option enabled. Enabling the option does not replace the main mode, but allows to get into such battles.
+
+Participation requires an aircraft with a Battle Rating of {requiredBR} or higher."
+mode/bullet_hell/desc;"When this option is enabled, you have a chance of getting into a Bullet Hell mission instead of the main mode, if there are enough players in the queue with the option enabled. Enabling the option does not replace the main mode, but allows to get into such battles.
+
+Bullet Hell is a team air battle using only guns and cannons. All suitable aircraft from your crew slots can be used in the mission.
+
+Participation requires {requiredCount}+ {requiredCount=aircraft/aircraft} with a Battle Rating of {requiredBR} or higher."
+mode/naval_ec/desc;"A long naval battle: capture ports, destroy enemy convoys, ships and aircraft.
+
+Participation requires a ship with a Battle Rating of {requiredBR} or higher."
+mode/nuclear_escalation/desc;"A long air battle: destroy enemy vehicles to increase the escalation level. Break through defenses, strike key targets, suppress enemy air defenses and secure air superiority. Use nuclear weapons to deliver decisive strikes.
+
+Participation requires an aircraft with a Battle Rating of {requiredBR} or higher."
+login/seems_registered_help;It seems you recently bound you Guest account. Please use you email and password to login
+login/signin_help;Please Sign In when you ready
+gameMode/unique_themed_rewards;Unique themed rewards
+mainmenu/btnSpecEvents;Event Hub

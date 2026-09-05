@@ -24,14 +24,17 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
-    - Updated for the "Guardian of the Baltic Sea" event.
+    - Updated for the "Guardian of the Baltic Sea" and "Space Program" events.
     - Implemented multiline statcards. This project has been in the works since March and every vehicle has now been moved over to a new statcard format spanning multiple lines. This will make statcards much more readable and consistent, with no more scrolling or stretching.
     - Implemented the UK tree rework. This is Odican's rework of every single British tree vehicle in the entire game. It has been in the works for nearly a year and has come out to be extremely high quality and one of the best things ever done for this mod.
     - Implemented the French ground rework. This reworks every single French ground vehicle in the entire game (enjoy your S.O.M.U.A. 50t smh my head).
+    - Implemented the German naval rework. This reworks every single German naval vehicle in the coastal and bluewater fleet trees.
+    - Added new Greek and Greek + Russian packages for the new Greek vehicles.
     - Minor manufacturer pass on earlier Chinese vehicles.
     - Added a giant amount of previous names to vehicles with the new multiline statcards, especially to pre-1988 Chinese ground vehicles.
     - Added a lot of project names to vehicles with the new multiline statcards.
     - Implemented just a huge amount of infantry stuff. It's too many changes to list them all, but nearly every gun has been done now.
+    - Corrected the capitalization of all Italian naval vessels.
     - **I.Pz.Kpfw. 750 (e)** → **I.-Pz.Kpfw. 750 (e)**. Statcard name → **Vauxhall Motors | Infanterie-Panzerkampfwagen Mk IV | Infanterie-Panzerkampfwagen 750 (e)**.
     - **D.520** → **D.520-C1**. Statcard name → **Société nationale des constructions aéronautiques du Midi | D.520-C1**.
     - Corrected the Israeli nuke killstreak **F-16C-40L-CF** to an **F-16D-40-CF** and added it to the Hebrew package.
@@ -67,7 +70,19 @@ All dates are listed in DD-MM-YYYY format.
     - Adjusted the Hatsuharu-class destroyers to be F-45 instead of F-50 in the Japanese package (Japanese package was already correct).
     - Added the missing EC destroyer **Yugumo** to the Japanese package.
     - Reworked the ZALA scout recon drones. They're still completely screwed up because the performance does not match the model, but they're less screwed up now.
-
+    - Removed the US Army supply catalog from the statcard name of the Japanese **M36B2**.
+    - Corrected the Hungarian **Tiger E (spät)**.
+    - Removed "N.V." from Dutch manufacturers.
+    - Added the modification date and factory to the **15 psv T 50** (tysm Wiggly_Armed_Man).
+    - Added the Pakistani modification factory to the **F6C (Oct 1976)**.
+    - Changed **Yūgure (DD-184)**'s manufacturer to Charlestown Navy Yard.
+    - Corrected the **Ki 200** to the **J8M1**.
+    - Removed "4 Gata" from the **A5M4**.
+    - Corrected the statcard name of the **A7He1** to use Japanese numerals in the Japanese package.
+    - Added the modification manufacturer to the **s.Kpfw. (Beute)**.
+    - Corrected the statcard name of the **PzH 2000HU** to say 155 mm instead of 152 mm and the manufacturer to be KNDS Deutschland instead of just KNDS.
+    - Changed the manufacturer "Consortium Iveco Oto Melara" to "Consorzio Iveco - Oto Melara".
+    - Updated the refit manufacturer for **Commandant Dominé (F 742)**.
 ### Weaponry:
 
 - #### Changes:
@@ -84,6 +99,8 @@ All dates are listed in DD-MM-YYYY format.
     - **105 mm FMk. 4 Modelo 1L cannon** → **Cañón Cal. 105 mm FMK 4 Modelo 1L**.
     - **105 mm PzK M57 cannon** → **10,5 cm Panzerkanone M 57**.
     - **SYLVER A50**: Statcard name → **Système de lancement vertical A50**.
+    - **30 mm Ho-155 cannon** → **5 Shiki 30 Miri Kotei Kijū**.
+        - Japanese package: **30 mm Ho-155 cannon** → **五式三十粍固定機銃**.
 
 ### Modifications:
 
@@ -105,6 +122,13 @@ All dates are listed in DD-MM-YYYY format.
     - Updated a bunch of loading screen names for the UK tree rework, French ground rework, and general vehicle names that were updated but had not had their loading screens updated.
     - Corrected the missing **FIAT 6616UB** profile header to **Fiat 6616BM (TC 20) (UB-16-57UMP)** like the loading screen.
     - **Steve Pisanos** (profile picture) → **Steven Nicholas Pisanos**. Also gave the profile picture a full history in its description.
+
+### Miscellaneous:
+
+- #### Changes:
+
+    - Updated the Gaza bombing statistic loading tip to specify that it is not a war, it is a genocide.
+    - Added a year to the Italian failed invasion of Ethiopia loading tip.
 
 ## 1.18.01 - 24-07-2026
 

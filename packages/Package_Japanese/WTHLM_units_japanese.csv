@@ -43,14 +43,14 @@ f1m2_2;F1M
 
 a5m4_shop;A5M4
 a5m4_0;"<color=#81c3fc>三菱重工業</color>
-<color=#7ce68f>九六式四号艦上戦闘機四型</color>
+<color=#7ce68f>九六式四号艦上戦闘機</color>
 A5M4"
 a5m4_1;A5M4
 a5m4_2;A5M4
 
 a5m4_hagiri_shop;羽切のA5M4
 a5m4_hagiri_0;"<color=#81c3fc>三菱重工業</color>
-<color=#7ce68f>九六式四号艦上戦闘機四型</color>
+<color=#7ce68f>九六式四号艦上戦闘機</color>
 A5M4
 <color=@currencyGoldColor>羽切松雄の</color>"
 a5m4_hagiri_1;A5M4
@@ -545,7 +545,7 @@ ki-49_2b_late_2;キ49
 
 a7he1_shop;A7He1
 a7he1_0;"<color=#81c3fc>Heinkel Flugzeugwerke</color>
-<color=#7ce68f>ハインケル112型陸上戦闘機</color>
+<color=#7ce68f>ハインケル一一二型陸上戦闘機</color>
 A7He1"
 a7he1_1;A7He1
 a7he1_2;A7He
@@ -661,6 +661,12 @@ b7a2_homare_23_0;"<color=#81c3fc>愛知航空機 AM-23</color>
 B7A2"
 b7a2_homare_23_1;B7A2
 b7a2_homare_23_2;B7A
+
+ki_93_1_ko_shop;キ93
+ki_93_1_ko_0;"<color=#81c3fc>第一陸軍航空技術研究所</color>
+キ93"
+ki_93_1_ko_1;キ93
+ki_93_1_ko_2;キ93
 
 g5n1_shop;G5N1
 g5n1_0;"<color=#81c3fc>中島飛行機</color>
@@ -794,11 +800,12 @@ M7N1-J甲"
 kitsuka_1;M7N1
 kitsuka_2;M7N
 
-j8m1_shop;キ200
+j8m1_shop;J8M1
 j8m1_0;"<color=#81c3fc>三菱重工業</color>
-キ200"
-j8m1_1;キ200
-j8m1_2;キ200
+<color=#7ce68f>試製秋水</color>
+J8M1"
+j8m1_1;J8M1
+j8m1_2;J8M
 
 r2y2_v1_shop;R2Y2-G (一一型)
 r2y2_v1_0;"<color=#81c3fc>海軍航空技術廠</color>
@@ -1599,7 +1606,7 @@ jp_type1_pt2_0;"<color=#81c3fc>日立造船</color>
 <color=#fffa62>1号型魚雷艇</color>
 魚雷艇2号 (PT-802)"
 jp_type1_pt2_1;魚雷艇2号
-jp_type1_pt2_2;Motor Torpedo Boat
+jp_type1_pt2_2;Torpedo Boat
 
 jp_kusen_tei_13_1942_shop;第十八號
 jp_kusen_tei_13_1942_0;"<color=#81c3fc>鶴見造船所</color>
@@ -1663,7 +1670,14 @@ jp_type7_pt808_0;"<color=#81c3fc>三菱重工業下関造船所</color>
 <color=#fffa62>7号型魚雷艇</color>
 魚雷艇8号 (PT-808)"
 jp_type7_pt808_1;魚雷艇8号
-jp_type7_pt808_2;Motor Torpedo Boat
+jp_type7_pt808_2;Torpedo Boat
+
+jp_type9_pt809_shop;魚雷艇9号 (PT-809)
+jp_type9_pt809_0;"<color=#81c3fc>Saunders-Roe</color>
+<color=#fffa62>9号型魚雷艇</color>
+魚雷艇9号 (PT-809)"
+jp_type9_pt809_1;魚雷艇9号
+jp_type9_pt809_2;Torpedo Boat
 
 //COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 jp_type_11_pt_15_shop;魚雷艇15号 (PT-815)
@@ -1671,7 +1685,7 @@ jp_type_11_pt_15_0;"<color=#81c3fc>三菱重工業下関造船所</color>
 <color=#fffa62>11号型魚雷艇</color>
 魚雷艇15号 (PT-815)"
 jp_type_11_pt_15_1;魚雷艇15号
-jp_type_11_pt_15_2;Motor Torpedo Boat
+jp_type_11_pt_15_2;Torpedo Boat
 
 jp_escort_ikazuchi_class_shop;いかづち (DE-202)
 jp_escort_ikazuchi_class_0;"<color=#81c3fc>川崎造船所</color>
@@ -1887,7 +1901,7 @@ jp_destroyer_fubuki_EC_1;綾波
 jp_destroyer_fubuki_EC_2;Destroyer
 
 jp_destroyer_yugure_shop;ゆうぐれ (DD-184)
-jp_destroyer_yugure_0;"<color=#81c3fc>Boston Navy Yard <color=@commonTextColor>/</color> 石川島重工業</color>
+jp_destroyer_yugure_0;"<color=#81c3fc>Charlestown Navy Yard <color=@commonTextColor>/</color> 石川島重工業</color>
 <color=#fffa62>甲型護衛艦 <color=@commonTextColor>|</color> ありあけ型護衛艦</color>
 ゆうぐれ (DD-184)"
 jp_destroyer_yugure_1;ゆうぐれ

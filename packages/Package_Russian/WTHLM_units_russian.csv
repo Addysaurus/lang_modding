@@ -64,6 +64,7 @@ shop/group/ussr_t_34_85_group;Т-34-85 (Mar 1944) / (Sep 1944)
 shop/group/ussr_su_object_group;СУ-122-54 / Об. 268
 shop/group/ussr_t_55_group;Т-55А / 62
 shop/group/ussr_it_9p149_group;ИТ-1 / 9П149М
+shop/group/ussr_775_157_group;Об. 775 / 9П157-2
 shop/group/ussr_t_62_group;Т-55АД-1 / 62М-1
 shop/group/ussr_t_64_t_80_group;Т-64БВ / 80Б
 shop/group/ussr_9a33_35_group;9А33БМ3 / 35М2
@@ -661,6 +662,15 @@ ussr_pr253l_1;Т-380
 ussr_pr253l_2;Raid Minesweeper
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+ussr_fugas_t1_strela_shop;Стрела
+ussr_fugas_t1_strela_0;"<color=#81c3fc>Судостроительный завод № 190 им. А. А. Жданова <color=@commonTextColor>/</color> Судостроительный
+завод № 196</color>
+<color=#fffa62>Базовые тральщики проект 53</color>
+<color=#7ce68f>Т-1</color>
+Стрела
+<color=#adadad>(1943)</color>"
+ussr_fugas_t1_strela_1;Стрела
+ussr_fugas_t1_strela_2;Basic Minesweeper
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 
@@ -854,6 +864,14 @@ Karl Marx (122)
 germ_skr_pr50_karl_marx_1;Karl Marx
 germ_skr_pr50_karl_marx_2;Coastal Defense Ship
 
+//GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 5
+germ_pr_206_shop;Artur Becker (841)
+germ_pr_206_0;"<color=#81c3fc>Судостроительный завод № 345</color>
+<color=#fffa62>Torpedoschnellboot Projekt 206 ""Shershen""</color>
+Artur Becker (841)"
+germ_pr_206_1;Artur Becker
+germ_pr_206_2;Torpedo Boat
+
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 uk_9a33bm2_shop;☸ Osā-Eke
 uk_9a33bm2_0;"<color=#81c3fc>Московский машиностроительный завод «Знамя»</color>
@@ -925,6 +943,15 @@ Fēixíngqì Yánjiū Suo</color>
 Qīng 6 Xíng Fēijī"
 quing_6_1;Qīng 6
 quing_6_2;Qīng 6
+
+//CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+f_6c_pakistan_shop;☪ F6C (Oct 1976)
+f_6c_pakistan_0;"<color=#81c3fc>Опытно-конструкторское бюро № 155 СМ-7/3 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè
+Chang <color=@commonTextColor>/</color> Central Technical Development Unit</color>
+☪ F6C Xíng Fēijī
+<color=#adadad>(October 1976)</color>"
+f_6c_pakistan_1;☪ F6C
+f_6c_pakistan_2;☪ F6
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 cn_type_58_shop;␗ 特34 (1960)
@@ -1132,10 +1159,12 @@ it_9a35_m_1;◔ 9A35M
 it_9a35_m_2;SPAAM
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
-sw_t_50_fin_shop;15 psv T 50
-sw_t_50_fin_0;"<color=#81c3fc>Ленинградский государственный завод № 174 им. К. Е. Ворошилова</color>
+sw_t_50_fin_shop;15 psv T 50 (1942)
+sw_t_50_fin_0;"<color=#81c3fc>Ленинградский государственный завод № 174 им. К. Е. Ворошилова <color=@commonTextColor>/</color>
+Panssarikeskuskorjaamo</color></color>
 <color=#5cae63>Ps. 183-1</color>
-15 tonnin panssarivaunu T 50 ""Pikku-Sotka"""
+15 tonnin panssarivaunu T 50 ""Pikku-Sotka""
+<color=#adadad>(1942)</color>"
 sw_t_50_fin_1;15 psv T 50
 sw_t_50_fin_2;Light Tank
 
@@ -1146,3 +1175,16 @@ sw_kv_1_1942_fin_0;"<color=#81c3fc>Кировский завод</color>
 44 tonnin panssarivaunu KW 1 A ""Klimi"""
 sw_kv_1_1942_fin_1;44 psv KW 1 A
 sw_kv_1_1942_fin_2;Heavy Tank
+
+//ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+il_9a33bm3_shop;◐ OSA-AKM
+il_9a33bm3_0;"<color=#81c3fc>Московский машиностроительный завод «Знамя»</color>
+◐ Antiaeroporikó sýstima katefthynómenon vlimáton OSA-AKM"
+il_9a33bm3_1;◐ OSA-AKM
+il_9a33bm3_2;SPAAM
+
+il_tor_m1_shop;◐ TOR-M1
+il_tor_m1_0;"<color=#81c3fc>Научно-производственное объединение Антей</color>
+◐ Antiaeroporikó sýstima katefthynómenon vlimáton TOR-M1"
+il_tor_m1_1;◐ TOR-M1
+il_tor_m1_2;SPAAM

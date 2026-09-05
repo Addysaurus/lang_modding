@@ -64,6 +64,7 @@ shop/group/ussr_t_34_85_group;Т-34-85 (Mar 1944) / (Sep 1944)
 shop/group/ussr_su_object_group;СУ-122-54 / Об. 268
 shop/group/ussr_t_55_group;Т-55А / 62
 shop/group/ussr_it_9p149_group;ИТ-1 / 9П149М
+shop/group/ussr_775_157_group;Об. 775 / 9П157-2
 shop/group/ussr_t_62_group;Т-55АД-1 / 62М-1
 shop/group/ussr_t_64_t_80_group;Т-64БВ / 80Б
 shop/group/ussr_9a33_35_group;9А33БМ3 / 35М2
@@ -661,6 +662,15 @@ ussr_pr253l_1;Т-380
 ussr_pr253l_2;Raid Minesweeper
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 3
+ussr_fugas_t1_strela_shop;Стрела
+ussr_fugas_t1_strela_0;"<color=#81c3fc>Судостроительный завод № 190 им. А. А. Жданова <color=@commonTextColor>/</color> Судостроительный
+завод № 196</color>
+<color=#fffa62>Базовые тральщики проект 53</color>
+<color=#7ce68f>Т-1</color>
+Стрела
+<color=#adadad>(1943)</color>"
+ussr_fugas_t1_strela_1;Стрела
+ussr_fugas_t1_strela_2;Basic Minesweeper
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
 
@@ -1165,3 +1175,16 @@ sw_kv_1_1942_fin_0;"<color=#81c3fc>Кировский завод</color>
 44 tonnin panssarivaunu KW 1 A ""Klimi"""
 sw_kv_1_1942_fin_1;44 psv KW 1 A
 sw_kv_1_1942_fin_2;Heavy Tank
+
+//ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+il_9a33bm3_shop;◐ OSA-AKM
+il_9a33bm3_0;"<color=#81c3fc>Московский машиностроительный завод «Знамя»</color>
+◐ Antiaeroporikó sýstima katefthynómenon vlimáton OSA-AKM"
+il_9a33bm3_1;◐ OSA-AKM
+il_9a33bm3_2;SPAAM
+
+il_tor_m1_shop;◐ TOR-M1
+il_tor_m1_0;"<color=#81c3fc>Научно-производственное объединение Антей</color>
+◐ Antiaeroporikó sýstima katefthynómenon vlimáton TOR-M1"
+il_tor_m1_1;◐ TOR-M1
+il_tor_m1_2;SPAAM

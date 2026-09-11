@@ -1533,7 +1533,7 @@ shop/group/uk_vickers_olifant_group;Vickers Mk. 3 / Olifant Mk 1A
 shop/group/uk_vickers_rooikat_group;Vickers Mk. 11 / Rooikat Mk 1D
 shop/group/uk_vfm_mttd_group;VFM5 / MTTD
 shop/group/uk_ystervark_crusader_group;Ystervark / Crusader, Mk. III, A.A., Mk. II
-shop/group/uk_kit_3rank_group;Echoes of Overlord
+shop/group/uk_kit_3rank_group;"""Echoes of Overlord"""
 shop/group/uk_marksman_za_group;Chieftain Mk. 10 Marksman / ZA-35
 shop/group/uk_ratel_group;Ratel 90 / 20
 shop/group/uk_g6_eland_group;GV6 Mk 1 / Eland 90
@@ -3150,6 +3150,12 @@ a2d_1;A2D-1
 a2d_2;A2D-1
 
 //USA AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+f_102a_late_shop;F-102A-95-CO
+f_102a_late_0;"<color=#81c3fc>Convair Model 8-10</color>
+F-102A-95-CO Delta Dagger"
+f_102a_late_1;F-102A
+f_102a_late_2;F-102
+
 f_101c_shop;F-101C-55-MC
 f_101c_0;"<color=#81c3fc>McDonnell Aircraft Corporation Model 36W</color>
 F-101C-55-MC Voodoo"
@@ -3618,11 +3624,11 @@ YAH-64A"
 yah_64_1;YAH-64A
 yah_64_2;YAH-64
 
-ah_64a_greece_usa_shop;⚕ AH-64A
+ah_64a_greece_usa_shop;◐ AH-64A
 ah_64a_greece_usa_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
-⚕ Helicopter, Attack, AH-64A Apache"
-ah_64a_greece_usa_1;⚕ AH-64A
-ah_64a_greece_usa_2;⚕ AH-64
+◐ Epithetikó elikóptero AH-64A Apache"
+ah_64a_greece_usa_1;◐ AH-64A
+ah_64a_greece_usa_2;◐ AH-64
 
 ah_64a_peten_shop;▃ AH-64A
 ah_64a_peten_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
@@ -3861,11 +3867,11 @@ Tank, Medium, M4A3E2 (75)  Sherman ""Jumbo"""
 us_m4a3e2_sherman_jumbo_1;M4A3E2
 us_m4a3e2_sherman_jumbo_2;Assault Tank
 
-us_m4a3e8_76w_sherman_kit_3rank_shop;"M4A3E8(76)W ""Hell on Wheels"""
+us_m4a3e8_76w_sherman_kit_3rank_shop;"M4A3E8(76)W «Hell on Wheels»"
 us_m4a3e8_76w_sherman_kit_3rank_0;"<color=#81c3fc>United States Army Ordnance Department</color>
 <color=#5cae63>G-104</color>
 Tank, Medium, M4A3E8(76)W Sherman
-<color=@currencyGoldColor>""Hell on Wheels""</color>"
+<color=@currencyGoldColor>«Hell on Wheels»</color>"
 us_m4a3e8_76w_sherman_kit_3rank_1;M4A3E8
 us_m4a3e8_76w_sherman_kit_3rank_2;Medium Tank
 
@@ -3978,11 +3984,11 @@ Carriage, Motor, 76mm Gun, M18 ""Hellcat"""
 us_m18_hellcat_1;M18 GMC
 us_m18_hellcat_2;Light Tank
 
-us_m18_hellcat_kit_3rank_shop;"M18 GMC ""Hell on Wheels"""
+us_m18_hellcat_kit_3rank_shop;"M18 GMC «Hell on Wheels»"
 us_m18_hellcat_kit_3rank_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
 <color=#5cae63>G-163</color>
 Carriage, Motor, 76mm Gun, M18 ""Hellcat""
-<color=@currencyGoldColor>""Hell on Wheels""</color>"
+<color=@currencyGoldColor>«Hell on Wheels»</color>"
 us_m18_hellcat_kit_3rank_1;M18 GMC
 us_m18_hellcat_kit_3rank_2;Medium Tank
 
@@ -4072,11 +4078,11 @@ us_t14_0;"Tank, Assault, T14"
 us_t14_1;T14
 us_t14_2;Assault Tank
 
-us_skink_aa_kit_3rank_shop;"▃ Skink ""Hell on Wheels"""
+us_skink_aa_kit_3rank_shop;"▃ Skink «Hell on Wheels»"
 us_skink_aa_kit_3rank_0;"<color=#81c3fc>Canadian Ministry of Munitions and Supply, Army Engineering Design
 Branch <color=@commonTextColor>+</color> Waterloo Manufacturing Company</color>
 ▃ Tank, Anti-Aircraft, 20mm, Quad, Skink
-<color=@currencyGoldColor>""Hell on Wheels""</color>"
+<color=@currencyGoldColor>«Hell on Wheels»</color>"
 us_skink_aa_kit_3rank_1;▃ Skink
 us_skink_aa_kit_3rank_2;SPAA
 
@@ -4483,7 +4489,7 @@ us_m10_booker_late_1;M10
 us_m10_booker_late_2;Light Tank
 
 us_hstv_l_shop;HSTV(L)
-us_hstv_l_0;"<color=#81c3fc>AAI Corperation</color>
+us_hstv_l_0;"<color=#81c3fc>AAI Corporation</color>
 <color=#ff8c80>Armored Combat Vehicle Technology</color>
 High Survivability Test Vehicle (Lightweight)"
 us_hstv_l_1;HSTV(L)
@@ -4600,7 +4606,7 @@ us_xm_975_roland_1;M975
 us_xm_975_roland_2;SPAA
 
 us_rdf_lt_shop;14.8 Ton RDF/LT
-us_rdf_lt_0;<color=#81c3fc>AAI Corperation 14.8 Ton Rapid Deployment Force Light Tank</color>
+us_rdf_lt_0;<color=#81c3fc>AAI Corporation 14.8 Ton Rapid Deployment Force Light Tank</color>
 us_rdf_lt_1;14.8 Ton RDF/LT
 us_rdf_lt_2;Light Tank
 
@@ -4782,7 +4788,7 @@ us_pgm_59_class_1;Kim Qui (HQ 605)
 us_pgm_59_class_2;Gunboat
 
 us_lcm_zippo_shop;USS Z-2
-us_lcm_zippo_0;"<color=#81c3fc>Fincantieri Marinette Marine</color>
+us_lcm_zippo_0;"<color=#81c3fc>Marinette Marine Corporation</color>
 <color=#fffa62>Landing Craft, Mechanized, (Mk. 6) (Flamethrower) ""Zippo""</color>
 USS Z-2"
 us_lcm_zippo_1;USS Z-2
@@ -4915,6 +4921,13 @@ us_destroyer_farragut_1942_1;USS Aylwin
 us_destroyer_farragut_1942_2;Destroyer
 
 //USA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
+us_destroyer_mahan_class_shop;USS Mahan (DD-364)
+us_destroyer_mahan_class_0;"<color=#81c3fc>United Shipyards</color>
+<color=#fffa62>Mahan-class Destroyer</color>
+USS Mahan (DD-364)"
+us_destroyer_mahan_class_1;USS Mahan
+us_destroyer_mahan_class_2;Destroyer
+
 us_destroyer_fletcher_shop;USS Fletcher (DD-445)
 us_destroyer_fletcher_0;"<color=#81c3fc>Federal Shipbuilding and Drydock Company</color>
 <color=#fffa62>Fletcher-class Destroyer</color>
@@ -6116,6 +6129,13 @@ arado-234c-3_0;"Ar 234 C-3"
 arado-234c-3_1;Ar 234 C
 arado-234c-3_2;Ar 234
 
+arado_234b_2_mt_shop;Ar 234 B-2 (W.B. 151)
+arado_234b_2_mt_0;"<color=#81c3fc>Arado Flugzeugwerke</color>
+Ar 8-234 B-2
+<color=#adadad>(W.B. 151)</color>"
+arado_234b_2_mt_1;Ar 234 B
+arado_234b_2_mt_2;Ar 234
+
 il_28_german_shop;◊ Il-28
 il_28_german_0;"◊ Il-28"
 il_28_german_1;◊ Il-28
@@ -6836,17 +6856,17 @@ germ_pzkpfw_VI_ausf_h1_tiger_tutorial_0;"Panzerkampfwagen Tiger Ausf. E
 germ_pzkpfw_VI_ausf_h1_tiger_tutorial_1;Tiger E
 germ_pzkpfw_VI_ausf_h1_tiger_tutorial_2;Heavy Tank
 
-germ_pzkpfw_VI_ausf_h1_tiger_east_shop;"Tiger E (früh) ""Ostfront"""
+germ_pzkpfw_VI_ausf_h1_tiger_east_shop;"Tiger E (früh) «Ostfront»"
 germ_pzkpfw_VI_ausf_h1_tiger_east_0;"Panzerkampfwagen Tiger Ausf. E
 <color=#adadad>(früh)</color>
-<color=@currencyGoldColor>""Ostfront""</color>"
+<color=@currencyGoldColor>«Ostfront»</color>"
 germ_pzkpfw_VI_ausf_h1_tiger_east_1;Tiger E
 germ_pzkpfw_VI_ausf_h1_tiger_east_2;Heavy Tank
 
-germ_pzkpfw_VI_ausf_h1_tiger_west_shop;"Tiger E (früh) ""Westfront"""
+germ_pzkpfw_VI_ausf_h1_tiger_west_shop;"Tiger E (früh) «Westfront»"
 germ_pzkpfw_VI_ausf_h1_tiger_west_0;"Panzerkampfwagen Tiger Ausf. E
 <color=#adadad>(früh)</color>
-<color=@currencyGoldColor>""Westfront""</color>"
+<color=@currencyGoldColor>«Westfront»</color>"
 germ_pzkpfw_VI_ausf_h1_tiger_west_1;Tiger E
 germ_pzkpfw_VI_ausf_h1_tiger_west_2;Heavy Tank
 
@@ -6884,11 +6904,11 @@ Ostwind II"
 germ_flakpanzer_IV_Ostwind_2_1;Ostwind II
 germ_flakpanzer_IV_Ostwind_2_2;SPAA
 
-germ_flakpanzer_IV_Ostwind_2_net_shop;"Ostwind II ""Ostfront"""
+germ_flakpanzer_IV_Ostwind_2_net_shop;"Ostwind II «Ostfront»"
 germ_flakpanzer_IV_Ostwind_2_net_0;"<color=#7ce68f>Flakpanzerkampfwagen IV</color>
 <color=#adadad>(3,7cm Fla.K.-Zwilling)</color>
 Ostwind II
-<color=@currencyGoldColor>""Ostfront""</color>"
+<color=@currencyGoldColor>«Ostfront»</color>"
 germ_flakpanzer_IV_Ostwind_2_net_1;Ostwind II
 germ_flakpanzer_IV_Ostwind_2_net_2;SPAAG
 
@@ -8637,6 +8657,14 @@ Samolyot Su-33
 su_33_1;Su-33
 su_33_2;Su-33
 
+//USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 9
+mig_35_shop;MiG-35S
+mig_35_0;"<color=#81c3fc>Nizhyegorotsk'ij av'iastroit'el'nyj zavot «Sokol»</color>
+<color=#5cae63>izd. 9-41SR</color>
+Samolyot MiG-35S"
+mig_35_1;MiG-35S
+mig_35_2;MiG-35
+
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 mi_24d_shop;▂ Mi-24D
 mi_24d_0;"<color=#5cae63>izd. 246</color>
@@ -8666,10 +8694,10 @@ mi_35m_killstreak_2;Mi-24
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 mi_35p_shop;Mi-35P
-mi_35p_0;"<color=#81c3fc>Moskovskij vyertolëtnyj zavod im. M. L. Milâ <color=@commonTextColor>/</color> Kholding
-«Vyertolëty Rossii» <color=@commonTextColor>+</color> Rostovskij vyertolëtnyj proizvodstvyennyj
-komplyeks akczionyernoye obŝyestvo «Rostvyertol» im. B. N. Slûsarâ
-Mi-35P Transportno-boyevoj Vyertolyet ""Fyeniks""</color>"
+mi_35p_0;"<color=#81c3fc>Moskofsk'ij v'ertolyotnyj zavot im. M. L. Milya <color=@commonTextColor>/</color> Khold'ink
+«V'ertolyoty Ross'ii» <color=@commonTextColor>+</color> Rostofsk'ij v'ertolyotnyj proizvodzdv'ennyj
+komplyeks aktsionyernoye opsh'ezdvo «Rozdv'ertol» im. B. N. Slyusarya
+Transportno-boyevoj v'ertolyet Mi-35P ""F'eniks""</color>"
 mi_35p_1;Mi-35P
 mi_35p_2;Mi-35
 
@@ -8890,12 +8918,12 @@ T-34 obr. 1942 g.
 ussr_t_34_57_1943_1;T-34
 ussr_t_34_57_1943_2;Medium Tank
 
-ussr_t_34_85_zis_53_kit_3rank_shop;"T-34-85 (Sep 1944) ""In May 1945"""
+ussr_t_34_85_zis_53_kit_3rank_shop;"T-34-85 (Sep 1944) «In May 1945»"
 ussr_t_34_85_zis_53_kit_3rank_0;"<color=#81c3fc>Ural'skij tankovyj zavod №183</color>
 <color=#5cae63>Ob""yekt 35</color>
 T-34-85 obr. 1944 g.
 <color=#adadad>(September 1944)</color>
-<color=@currencyGoldColor>""In May 1945""</color>"
+<color=@currencyGoldColor>«In May 1945»</color>"
 ussr_t_34_85_zis_53_kit_3rank_1;T-34-85
 ussr_t_34_85_zis_53_kit_3rank_2;Medium Tank
 
@@ -9076,11 +9104,11 @@ IS-1 obr. 1943 g."
 ussr_is_1_1;IS-1
 ussr_is_1_2;Heavy Tank
 
-ussr_is_1_kit_3rank_shop;"IS-1 ""In May 1945"""
+ussr_is_1_kit_3rank_shop;"IS-1 «In May 1945»"
 ussr_is_1_kit_3rank_0;"<color=#81c3fc>Kirovskij zavod</color>
 <color=#5cae63>Ob""yekt 237</color>
 IS-1 obr. 1943 g.
-<color=@currencyGoldColor>""In May 1945""</color>"
+<color=@currencyGoldColor>«In May 1945»</color>"
 ussr_is_1_kit_3rank_1;IS-1
 ussr_is_1_kit_3rank_2;Heavy Tank
 
@@ -9113,6 +9141,15 @@ IS-2 obr. 1944 g.
 <color=@currencyGoldColor>48-j Otdyel'nyj Gvardyejskij Tâžyelyj Tankovyj Polk</color>"
 ussr_is_2_1944_revenge_1;IS-2
 ussr_is_2_1944_revenge_2;Heavy Tank
+
+ussr_is_2m_kit_4rank_shop;IS-2M «Be Prepared!»
+ussr_is_2m_kit_4rank_0;"<color=#81c3fc>K'irofsk'ij zavot Narkomata tankovoj promyshlyennost'i v gorod'e
+Ch'elyab'insk'e (Zavot № 100)</color>
+<color=#5cae63>Ob""yekt 240</color>
+Tank IS-2M
+<color=@currencyGoldColor>«Be Prepared!»</color>"
+ussr_is_2m_kit_4rank_1;IS-2M
+ussr_is_2m_kit_4rank_2;Heavy Tank
 
 ussr_object_248_shop;IS-5 (1944)
 ussr_object_248_0;"<color=#5cae63>Ob""yekt 248</color>
@@ -9219,11 +9256,11 @@ ussr_bm_31_12_0;"BM-31-12
 ussr_bm_31_12_1;BM-31-12
 ussr_bm_31_12_2;MLRS
 
-ussr_sdkfz_251_21_kit_3rank_shop;"▂ m.S.P.W. D (M.G. 151 S) ""In May 1945"""
+ussr_sdkfz_251_21_kit_3rank_shop;"▂ m.S.P.W. D (M.G. 151 S) «In May 1945»"
 ussr_sdkfz_251_21_kit_3rank_0;"<color=#81c3fc>Hannoversche Maschinenbau</color>
 <color=#5cae63>Sd.Kfz. 251/21</color>
 ▂ mittlerer Schützenpanzerwagen Ausf. D mit 2cm Drilling M.G. 151 S
-<color=@currencyGoldColor>""In May 1945""</color>"
+<color=@currencyGoldColor>«In May 1945»</color>"
 ussr_sdkfz_251_21_kit_3rank_1;▂ m.S.P.W. D (M.G. 151 S)
 ussr_sdkfz_251_21_kit_3rank_2;SPAAG
 
@@ -9254,6 +9291,14 @@ T-44-100"
 ussr_t_44_100_1;T-44-100
 ussr_t_44_100_2;Medium Tank
 
+ussr_t_44_kit_4rank_shop;T-44 «Be Prepared!»
+ussr_t_44_kit_4rank_0;"<color=#81c3fc>Zavot № 75</color>
+<color=#5cae63>Ob""yekt 136</color>
+Tank T-44
+<color=@currencyGoldColor>«Be Prepared!»</color>"
+ussr_t_44_kit_4rank_1;T-44
+ussr_t_44_kit_4rank_2;Medium tank
+
 ussr_asu_85_shop;ASU-85
 ussr_asu_85_0;"<color=#5cae63>Ob""yekt 573</color>
 ASU-85"
@@ -9283,6 +9328,13 @@ ussr_m53_59_0;"<color=#81c3fc>Praga V3S <color=@commonTextColor>/</color> Závod
 30mm protiletadlový dvojkanón vz. 53/59 „Ještěrka“"
 ussr_m53_59_1;PLDvK vz. 53/59
 ussr_m53_59_2;SPAAG
+
+ussr_m53_59_kit_4rank_shop;PLDvK vz. 53/59 «Be Prepared!»
+ussr_m53_59_kit_4rank_0;"<color=#81c3fc>Praga V3S <color=@commonTextColor>/</color> Závody K. J. Vorošilova</color>
+30mm protiletadlový dvojkanón vz. 53/59 „Ještěrka“
+<color=@currencyGoldColor>«Be Prepared!»</color>"
+ussr_m53_59_kit_4rank_1;PLDvK vz. 53/59
+ussr_m53_59_kit_4rank_2;SPAAG
 
 ussr_type_62_shop;▂ ZTQ62
 ussr_type_62_0;"<color=#81c3fc>Guóyíng Hā'ěrbīn Dì Yī Jīqì Zhìzào Chang (Guóyíng Dì 674 Chang)</color>
@@ -9352,6 +9404,12 @@ ussr_2s19_m2_0;"<color=#81c3fc>Ural'skij zavod transportnogo mašinostroyeniâ i
 2S19M2 ""Msta-S"""
 ussr_2s19_m2_1;2S19M2
 ussr_2s19_m2_2;SPH
+
+ussr_object_416_shop;Ob. 416
+ussr_object_416_0;"<color=#81c3fc>Zavot № 75</color>
+<color=#5cae63>Ob""yekt 416</color>"
+ussr_object_416_1;Ob. 416
+ussr_object_416_2;SPG
 
 ussr_zsu_23_4m2_shop;ZSU-23-4M2
 ussr_zsu_23_4m2_0;"<color=#5cae63>2A6M2</color>
@@ -11152,7 +11210,7 @@ dh_110_sea_vixen_2;Sea Vixen
 
 marut_mk1_shop;Mārut Mk I
 marut_mk1_0;"<color=#81c3fc>Hindustān Ēyronōṭiks Limiṭeḍ HF-24</color>
-Mārut Mk I"
+Mārut Mārk I"
 marut_mk1_1;Mārut Mk I
 marut_mk1_2;Mārut
 
@@ -11459,7 +11517,7 @@ ah_2_rooivalk_2;Rooivalk
 
 //UK HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 ah_mk1_shop;Apache A.H. Mk. 1
-ah_mk1_0;"<color=#81c3fc>Boeing Rotorcraft Systems <color=@commonTextColor>/</color> AugustaWestland</color>
+ah_mk1_0;"<color=#81c3fc>Boeing Rotorcraft Systems <color=@commonTextColor>/</color> AugustaWestland WAH-64</color>
 Apache A.H. Mk. 1"
 ah_mk1_1;Apache A.H. Mk. 1
 ah_mk1_2;Apache
@@ -11469,6 +11527,13 @@ ah_64e_britain_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
 Apache A.H. Mk. 2"
 ah_64e_britain_1;Apache A.H. Mk. 2
 ah_64e_britain_2;Apache
+
+aw_159_shop;Wildcat H.M.A. Mk. 2
+aw_159_0;"<color=#81c3fc>AugustaWestland AW159 Wildcat</color>
+<color=#ff8c80>Future Lynx</color>
+Wildcat H.M.A. Mk. 2"
+aw_159_1;Wildcat H.M.A. Mk. 2
+aw_159_2;Wildcat
 
 //UK GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 uk_a_13_mk1_shop;A.13, Mk. I
@@ -11601,10 +11666,10 @@ Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II"
 uk_crusader_aa_mk_2_1;Crusader, Mk. III, A.A., Mk. II
 uk_crusader_aa_mk_2_2;SPAAG
 
-uk_crusader_aa_mk_2_kit_3rank_shop;"Crusader, Mk. III, A.A., Mk. II ""Echoes of Overlord"""
+uk_crusader_aa_mk_2_kit_3rank_shop;"Crusader, Mk. III, A.A., Mk. II «Echoes of Overlord»"
 uk_crusader_aa_mk_2_kit_3rank_0;"<color=#81c3fc>Nuffield Mechanizations and Aero</color>
 Tank, Cruiser, Mk. VI, A.15, Crusader, Mk. III, A.A., Mk. II
-<color=@currencyGoldColor>""Echoes of Overlord""</color>"
+<color=@currencyGoldColor>«Echoes of Overlord»</color>"
 uk_crusader_aa_mk_2_kit_3rank_1;Crusader, Mk. III, A.A., Mk. II
 uk_crusader_aa_mk_2_kit_3rank_2;SPAAG
 
@@ -11651,10 +11716,10 @@ Tank, Medium, Sherman, Mk. Vc ""Firefly"""
 uk_sherman_vc_firefly_1;Sherman, Mk. V
 uk_sherman_vc_firefly_2;Medium Tank
 
-uk_sherman_vc_firefly_kit_3rank_shop;"Sherman, Mk. Vc ""Echoes of Overlord"""
+uk_sherman_vc_firefly_kit_3rank_shop;"Sherman, Mk. Vc «Echoes of Overlord»"
 uk_sherman_vc_firefly_kit_3rank_0;"<color=#81c3fc>Chrysler Corporation <color=@commonTextColor>/</color> Royal Ordnance Factory, Nottingham</color>
 Tank, Medium, Sherman, Mk. Vc ""Firefly""
-<color=@currencyGoldColor>""Echoes of Overlord""</color>"
+<color=@currencyGoldColor>«Echoes of Overlord»</color>"
 uk_sherman_vc_firefly_kit_3rank_1;Sherman, Mk. V
 uk_sherman_vc_firefly_kit_3rank_2;Medium Tank
 
@@ -11856,10 +11921,10 @@ uk_a30_sp_avenger_0;"<color=#81c3fc>Birmingham Railway Carriage and Wagon Compan
 uk_a30_sp_avenger_1;Avenger, Mk. I
 uk_a30_sp_avenger_2;Medium Tank
 
-uk_a30_sp_avenger_kit_3rank_shop;"Avenger, Mk. I ""Echoes of Overlord"""
+uk_a30_sp_avenger_kit_3rank_shop;"Avenger, Mk. I «Echoes of Overlord»"
 uk_a30_sp_avenger_kit_3rank_0;"<color=#81c3fc>Birmingham Railway Carriage and Wagon Company</color>
 17-pdr, Self-Propelled, A.30, Avenger, Mk. I
-<color=@currencyGoldColor>""Echoes of Overlord""</color>"
+<color=@currencyGoldColor>«Echoes of Overlord»</color>"
 uk_a30_sp_avenger_kit_3rank_1;Avenger, Mk. I
 uk_a30_sp_avenger_kit_3rank_2;Medium Tank
 
@@ -12015,10 +12080,10 @@ Tank, Anti-Aircraft, 20mm, Quad, Skink"
 uk_skink_aa_1;Skink
 uk_skink_aa_2;SPAAG
 
-us_skink_aa_kit_3rank_shop;"▃ Skink ""Hell on Wheels"""
+us_skink_aa_kit_3rank_shop;"▃ Skink «Hell on Wheels»"
 us_skink_aa_kit_3rank_0;"<color=#81c3fc>Montreal Locomotive Works <color=@commonTextColor>/</color> Dominion Foundries and Steel</color>
 ▃ Tank, Anti-Aircraft, 20mm, Quad, Skink
-<color=@currencyGoldColor>""Hell on Wheels""</color>"
+<color=@currencyGoldColor>«Hell on Wheels»</color>"
 us_skink_aa_kit_3rank_1;▃ Skink
 us_skink_aa_kit_3rank_2;SPAA
 
@@ -12103,7 +12168,7 @@ uk_vickers_mk7_2;MBT
 
 uk_arjun_mk1_shop;Arjun Mk I
 uk_arjun_mk1_0;"<color=#81c3fc>Laḍākū Vāhan Anusaṁdhān Ēvaṁ Vikās Saṁsthān</color>
-Ēm Bī Ṭī Arjun Mk I"
+Ēm Bī Ṭī Arjun Mārk I"
 uk_arjun_mk1_1;Arjun Mk I
 uk_arjun_mk1_2;MBT
 
@@ -13450,7 +13515,7 @@ aichi_e13a_1;E13A1
 aichi_e13a_2;E13A
 
 h-75n_shop;B.Kh.11
-h-75n_0;"<color=#81c3fc>Curtiss-Wright Corperation Hawk Model 75N</color>
+h-75n_0;"<color=#81c3fc>Curtiss-Wright Corporation Hawk Model 75N</color>
 <color=#919191>Tai 16</color>
 Khērūng Bin Khab Lai Bāeb Thī 11"
 h-75n_1;B.Kh.11
@@ -13898,6 +13963,12 @@ Ki 96
 ki-96_1;Ki 96
 ki-96_2;Ki 96
 
+b_26b_indonesia_kalong_shop;◥ B-26B-40-DL
+b_26b_indonesia_kalong_0;"<color=#81c3fc>Douglas Aircraft Company D-543</color>
+◥ B-26B-40-DL Invader"
+b_26b_indonesia_kalong_1;◥ B-26B
+b_26b_indonesia_kalong_2;◥ B-26
+
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 a7m1_shop;A7M1
 a7m1_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
@@ -14063,7 +14134,7 @@ f-86f-40_japan_blue_impulse_2;▅ F-86
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 f-104j_shop;▅ F-104J (C2)
-f-104j_0;"<color=#81c3fc>Lockheed Corporation <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+f-104j_0;"<color=#81c3fc>Lockheed Corporation Model 683-07-14 <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
 ▅ F-104J ""Eikō""
 <color=#adadad>(C2 Rotto)</color>"
 f-104j_1;▅ F-104J
@@ -14103,6 +14174,18 @@ Khērūng Bin Jōmtī Bāeb Thī 7
 alpha_jet_th_phase_1_1;B.J.7
 alpha_jet_th_phase_1_2;B.J.7
 
+ca_27_mk32_malaysia_shop;☉ Sabre Mk. 32
+ca_27_mk32_malaysia_0;"<color=#81c3fc>Commonwealth Aircraft Corporation CA-27</color>
+☉ Sabre Mk. 32"
+ca_27_mk32_malaysia_1;☉ Sabre Mk. 32
+ca_27_mk32_malaysia_2;☉ Sabre
+
+a_4ptm_malaysia_shop;☉ A-4PTM
+a_4ptm_malaysia_0;"<color=#81c3fc>McDonnell Douglas Corporation D-640</color>
+☉ A-4PTM Skyhawk"
+a_4ptm_malaysia_1;☉ A-4PTM
+a_4ptm_malaysia_2;☉ A-4
+
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 f-4ej_shop;▅ F-4EJ (C3)
 f-4ej_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98MB <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
@@ -14126,7 +14209,7 @@ f-4ej_kai_1;▅ F-4EJ
 f-4ej_kai_2;▅ F-4
 
 a_7e_thailand_shop;B.JT.1K
-a_7e_thailand_0;"<color=#81c3fc>LTV Corperation</color>
+a_7e_thailand_0;"<color=#81c3fc>LTV Corporation</color>
 Khērūng Bin Jōmtī Bāeb Thī 1K"
 a_7e_thailand_1;B.JT.1K
 a_7e_thailand_2;B.JT.1
@@ -15284,7 +15367,8 @@ jp_destroyer_fubuki_EC_2;Destroyer
 jp_destroyer_yugure_shop;Yūgure (DD-184)
 jp_destroyer_yugure_0;"<color=#81c3fc>Charlestown Navy Yard <color=@commonTextColor>/</color> Ishikawajima Jū Kōgyō</color>
 <color=#fffa62>Kō Gata Goeikan <color=@commonTextColor>|</color> Airake Gata Goeikan</color>
-Yūgure (DD-184)"
+Yūgure (DD-184)
+<color=#adadad>(1960)</color>"
 jp_destroyer_yugure_1;Yūgure
 jp_destroyer_yugure_2;Destroyer
 
@@ -16023,13 +16107,13 @@ f_100f_china_1;☀ F-100F
 f_100f_china_2;☀ F-100
 
 f-104a_china_shop;☀ F-104A-25-LO
-f-104a_china_0;"<color=#81c3fc>Lockheed Corporation Model 83</color>
+f-104a_china_0;"<color=#81c3fc>Lockheed Corporation Model 183-93-02</color>
 ☀ F-104A-25-LO Xíng Zhàndòu Jī ""Xīng Shì Zhàndòu Jī"""
 f-104a_china_1;☀ F-104A
 f-104a_china_2;☀ F-104
 
 f-104g_china_shop;☀ F-104G-10-LO
-f-104g_china_0;"<color=#81c3fc>Lockheed Corporation Model 83</color>
+f-104g_china_0;"<color=#81c3fc>Lockheed Corporation Model 683-10-19</color>
 ☀ F-104G-10-LO Xíng Zhàndòu Jī ""Xīng Shì Zhàndòu Jī"""
 f-104g_china_1;☀ F-104G
 f-104g_china_2;☀ F-104
@@ -16628,7 +16712,7 @@ cn_plz_45_2;SPH
 cn_wz_141_shop;141 (1 Hào)
 cn_wz_141_0;"<color=#81c3fc>Zhuāngjiabīng Mou Yánjiū Suo</color>
 141 Chāo Qīngxíng Fan Tankè Zhàn Chē
-<color=#adadad>(Yàngchē 1 Hào)</color>"
+<color=@currencyGoldColor>Yàngchē 1 Hào</color>"
 cn_wz_141_1;141
 cn_wz_141_2;Light Tank
 
@@ -19100,11 +19184,11 @@ Chasseur de chars de 48 tonnes"
 fr_arl_44_1;C.D.C. 48t
 fr_arl_44_2;Tank Destroyer
 
-fr_arl_44_mod_shop;"C.D.C. 48t ""Bayard"""
+fr_arl_44_mod_shop;"C.D.C. 48t «Bayard»"
 fr_arl_44_mod_0;"<color=#81c3fc>Atelier de construction de Rueil</color>
 <color=#919191>Char de transition A.R.L. 44</color>
 Chasseur de chars de 48 tonnes
-<color=@currencyGoldColor>""Bayard""</color>"
+<color=@currencyGoldColor>«Bayard»</color>"
 fr_arl_44_mod_1;C.D.C. 48t
 fr_arl_44_mod_2;Tank Destroyer
 
@@ -19184,9 +19268,10 @@ Canon d'assaut de 100 mm"
 fr_lorraine_100_1;C.A. 100
 fr_lorraine_100_2;SPG
 
-fr_amx_30_auf_1_shop;CN 155 Au F1
+fr_amx_30_auf_1_shop;CN 155 Au F1 H
 fr_amx_30_auf_1_0;"<color=#81c3fc>Groupement industriel des armements terrestres</color>
-Canon de 155 automoteur modèle F1 sur châssis A.M.X. 30"
+<color=#919191>Canon de 155 automoteur modèle F1 sur châssis A.M.X. 30</color>
+Canon de 155 automoteur modèle F1 H sur châssis A.M.X. 30"
 fr_amx_30_auf_1_1;CN 155 Au F1
 fr_amx_30_auf_1_2;SPH
 
@@ -19511,6 +19596,14 @@ Vedette Torpilleur VTB 10"
 fr_vtb10_1;VTB 10
 fr_vtb10_2;Torpedo Boat
 
+fr_lcm_monitor_shop;L.C.M. 65
+fr_lcm_monitor_0;"<color=#81c3fc>Marinette Marine Corporation <color=@commonTextColor>/</color> Arsenal de la Marine, Saïgon</color>
+<color=#fffa62>L.C.M. Monitor</color>
+L.C.M. 65
+<color=#adadad>(1951)</color>"
+fr_lcm_monitor_1;L.C.M. 65
+fr_lcm_monitor_2;River Monitor
+
 //FRANCE COASTAL FLEET - VEHICLE/FAMILY START: RANK 2
 fr_mtb96_vosper_shop;MTB 96
 fr_mtb96_vosper_0;"<color=#fffa62>MTB Vosper 3 series</color>
@@ -19825,6 +19918,14 @@ Courbet
 <color=#adadad>(1920)</color>"
 fr_battleship_courbet_class_courbet_1;Courbet
 fr_battleship_courbet_class_courbet_2;Battleship
+
+fr_cruiser_algerie_class_shop;Algérie
+fr_cruiser_algerie_class_0;"<color=#81c3fc>Arsenal de Brest <color=@commonTextColor>/</color> Arsenal de Toulon</color>
+<color=#fffa62>Croiseur de 1ère classe de la classe Algérie</color>
+Algérie
+<color=#adadad>(1941)</color>"
+fr_cruiser_algerie_class_1;Algérie
+fr_cruiser_algerie_class_2;1st Class Cruiser
 
 fr_battleship_bretagne_class_lorraine_shop;Lorraine
 fr_battleship_bretagne_class_lorraine_0;"<color=#fffa62>Bretagne-class</color>
@@ -20318,7 +20419,7 @@ saab_f35_wdns_1;♔ F-35
 saab_f35_wdns_2;♔ F-35
 
 f-5ag_norway_shop;◢ F-5A(G)-40-NO (EoT)
-f-5ag_norway_0;"<color=#81c3fc>Northrop Corperation N-156F</color>
+f-5ag_norway_0;"<color=#81c3fc>Northrop Corporation N-156F</color>
 ◢ F-5A(G)-40-NO Freedom Fighter
 <color=#adadad>(Eye of the Tiger)</color>"
 f-5ag_norway_1;◢ F-5A
@@ -20819,7 +20920,7 @@ spitfire_lf_mk9e_weisman_2; Spiṭfayer
 
 spitfire_lf_mk9c_cw_greece_shop;◐ Smyrniotópoulos' Spitfire L.F. Mk. IX (CW)
 spitfire_lf_mk9c_cw_greece_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 361</color>
-◐ Aeroskáfi Spitfire L.F. Mk. IX
+◐ Machitikó Spitfire L.F. Mk. IX
 <color=#adadad>(clipped wing)</color>
 <color=@currencyGoldColor>Geórgios Smyrniotópoulos'</color>"
 spitfire_lf_mk9c_cw_greece_1;◐ Spitfire L.F. Mk. IX
@@ -20842,6 +20943,12 @@ b-17g_iaf_0;"<color=#81c3fc>Boeing Airplane Company Model 299P</color>
  Bi-17 Degem Ji Mivṣar Me'ofef"
 b-17g_iaf_1; Bi-17 Ji
 b-17g_iaf_2; Bi-17
+
+sb2c_5_greece_shop;◐ SB2C-5
+sb2c_5_greece_0;"<color=#81c3fc>Curtiss-Wright Corporation Model 84G</color>
+◐ Vomvardistikó SB2C-5 Helldiver"
+sb2c_5_greece_1;◐ SB2C-5
+sb2c_5_greece_2;◐ SB2C
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 meteor_nfmk13_shop; Meṭe'or 13
@@ -20874,6 +20981,19 @@ md_450b_ouragan_iaf_29_0;"<color=#81c3fc>Avions Marcel Dassault</color>
 <color=@currencyGoldColor>Ṭayeset 113 ""Ṭayeset Haṣar'ah"", Mis 29</color>"
 md_450b_ouragan_iaf_29_1; 'Organ
 md_450b_ouragan_iaf_29_2; 'Organ
+
+f-84g_greece_shop;◐ F-84G-16-RE
+f-84g_greece_0;"<color=#81c3fc>Republic Aviation Corporation AP-23</color>
+◐ Machitikó F-84G-16-RE Thunderjet"
+f-84g_greece_1;◐ F-84G
+f-84g_greece_2;◐ F-84
+
+f-84f_israel_iaf_shop; F-84F-51-GK (Ṭayeset 200)
+f-84f_israel_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23M</color>
+ F-84F-51-GK Thunderstreak
+<color=@currencyGoldColor>Ṭayeset 200</color>"
+f-84f_israel_iaf_1; F-84F
+f-84f_israel_iaf_2; F-84
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 md_454_mystere_4a_iaf_shop; Misṭer IV
@@ -20938,12 +21058,17 @@ so_4050_vautour_2a_iaf_0;"<color=#81c3fc>Société nationale des constructions a
 so_4050_vautour_2a_iaf_1;☨ Vuṭur A
 so_4050_vautour_2a_iaf_2;☨ Vuṭur
 
-f-84f_israel_iaf_shop; F-84F-51-GK (Ṭayeset 200)
-f-84f_israel_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23M</color>
- F-84F-51-GK Thunderstreak
-<color=@currencyGoldColor>Ṭayeset 200</color>"
-f-84f_israel_iaf_1; F-84F
-f-84f_israel_iaf_2; F-84
+f_102a_greece_shop;◐ F-102A-65-CO
+f_102a_greece_0;"<color=#81c3fc>Convair Model 8-10</color>
+◐ Machitikó F-102A-65-CO Delta Dagger"
+f_102a_greece_1;◐ F-102A
+f_102a_greece_2;◐ F-102
+
+f_86em_greece_shop;◐ F-86E(M)
+f_86em_greece_0;"<color=#81c3fc>Canadair CL-13</color>
+◐ Machitikó F-86E(M) Sabre"
+f_86em_greece_1;◐ F-86E
+f_86em_greece_2;◐ F-86
 
 //ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 mirage_3cj_shop; Miraž III CJ
@@ -20982,7 +21107,8 @@ f-4e_iaf_1; F-4E
 f-4e_iaf_2; F-4
 
 f-4e_kurnass_2000_shop; F-4E Kurnas 2000
-f-4e_kurnass_2000_0;"<color=#81c3fc>McDonnell Douglas Corporation Model <color=@commonTextColor>/</color> ha-Ta'asiah ha-'Avirit le-Yisra'el</color>
+f-4e_kurnass_2000_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98HO <color=@commonTextColor>/</color> ha-Ta'asiah ha-'Avirit
+le-Yisra'el</color>
  F-4E Kurnas 2000"
 f-4e_kurnass_2000_1; F-4E Kurnas 2000
 f-4e_kurnass_2000_2; F-4E
@@ -20993,6 +21119,24 @@ le-Yisra'el</color>
 Nešer A"
 nesher_1;Nešer A
 nesher_2;Nešer
+
+a_7h_greece_shop;◐ A-7H
+a_7h_greece_0;"<color=#81c3fc>Vought Corporation</color>
+◐ Vomvardistikó A-7H Corsair"
+a_7h_greece_1;◐ A-7H
+a_7h_greece_2;◐ A-7
+
+a_7e_greece_shop;◐ A-7E
+a_7e_greece_0;"<color=#81c3fc>Vought Corporation</color>
+◐ Vomvardistikó A-7E Corsair"
+a_7e_greece_1;◐ A-7E
+a_7e_greece_2;◐ A-7
+
+mirage_f1cg_greece_shop;◐ Mirage F1CG
+mirage_f1cg_greece_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation</color>
+◐ Machitikó Mirage F1CG"
+mirage_f1cg_greece_1;◐ Mirage F1CG
+mirage_f1cg_greece_2;◐ Mirage F1
 
 mig_21_2000_iaf_shop; MiG-21 2000
 mig_21_2000_iaf_0;"<color=#81c3fc> Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye im.
@@ -21062,15 +21206,22 @@ f_15i_raam_2; F-15
 f_4e_aup_greece_shop;◐ F-4E PI2000
 f_4e_aup_greece_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98NS <color=@commonTextColor>/</color> Ellinikí Aeroporikí
 Viomichanía</color>
-◐ Aeroskáfi F-4E Phantom II Peace Icarus 2000"
+◐ Machitikó F-4E Phantom II Peace Icarus 2000"
 f_4e_aup_greece_1;◐ F-4E
 f_4e_aup_greece_2;◐ F-4
 
 mirage_2000_5eg_mk2_greece_shop;◐ M2000-5 EGM
 mirage_2000_5eg_mk2_greece_0;"<color=#81c3fc>Dassault Aviation</color>
-◐ Aeroskáfi Mirage 2000-5 EGM"
+◐ Machitikó Mirage 2000-5 EGM"
 mirage_2000_5eg_mk2_greece_1;◐ M2000-5 EGM
 mirage_2000_5eg_mk2_greece_2;◐ M2000
+
+//ISRAEL AIRCRAFT - VEHICLE/FAMILY START: RANK 9
+rafale_eg_greece_shop;◐ Rafale EG
+rafale_eg_greece_0;"<color=#81c3fc>Dassault Aviation</color>
+◐ Machitikó Rafale EG"
+rafale_eg_greece_1;◐ Rafale EG
+rafale_eg_greece_2;◐ Rafale
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 5
 ah_1g_iaf_shop; AH-1G
@@ -21120,7 +21271,7 @@ ah_64d_i_saraph_2; AH-64
 
 //ISRAEL HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 ah_60_iaf_shop;ABH Demonstrator
-ah_60_iaf_0;"<color=#81c3fc>Sikorsky Aircraft Corperation <color=@commonTextColor>+</color> Elbit Systems Armed Blackhawk
+ah_60_iaf_0;"<color=#81c3fc>Sikorsky Aircraft Corporation <color=@commonTextColor>+</color> Elbit Systems Armed Blackhawk
 Demonstrator ""Yanšuf Ḥamuš""</color>"
 ah_60_iaf_1;ABH Demonstrator
 ah_60_iaf_2;ABH

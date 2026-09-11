@@ -11,8 +11,8 @@ sensors/su_spo-150-30m1;L-150-30M1
 sensors/su_spo_150_esm;ESM L-150
 sensors/su_n_010m_ols_ue;N010M Zhuk-M
 sensors/su_n_010a;N010AE Zhuk-AE
-sensors/su_mig_35_lws;LWS
-sensors/su_mig_35_mlws;MLWS
+sensors/su_mig_35_lws;SOLO
+sensors/su_mig_35_mlws;SOAR
 radar/desc;The onboard radar is designed to search, track, and lock onto aerial and, depending on available modes, surface or naval targets. It enables the employment of radar-guided weaponry
 avionics_target_point;Target points
 avionics_target_point/desc;Surface points designated to mark locations of interest for the player, allowing for both single and salvo weapon deployment at selected targets
@@ -28,6 +28,7 @@ modification/atgm_spike_nlos;Spike NLOS
 modification/uk_martlet/desc;Allows the installation of LMM Martlet missiles.
 modification/uk_martlet;Martlet
 engine_model/adour_mk151;Adour Mk.151
+engine_model/ws_10b_series_3;WS-10B series 3
 engine_model/j57_p_23a;J57-P-23A
 engine_model/avon_26;Avon Mk.26
 engine_model/cts800-4n;CTS800-4N

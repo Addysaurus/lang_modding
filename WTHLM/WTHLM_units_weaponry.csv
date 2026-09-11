@@ -178,6 +178,7 @@ weapons/105mm_LRF_user_cannon;<color=@userlogColoredText>105 mm</color> Royal Or
 weapons/120mm_45_qf_mk9_single_naval_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, Q.F., 4.7-inch, Mk. IX <color=#ff6f00>CNN</color>
 weapons/120mm_L30A1_user_cannon;<color=@userlogColoredText>120 mm</color> Ordnance, B.L., 120 mm, Tk., L30A1 <color=#ff6f00>CNN</color>
 weapons/120mm_L30A1_2e_user_cannon;<color=@userlogColoredText>120 mm</color> Ordnance, B.L., 120 mm, Tk., L30A1 <color=#ff6f00>CNN</color>
+weapons/120mm_arjun_mk1_user_cannon;<color=@userlogColoredText>120 mm</color> 120 mm Ordnance TK Gun Mk III <color=#ff6f00>CNN</color>
 weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredText>133 mm</color> Gun, Q.F., 5.25-inch, Mk. I <color=#ff6f00>CNN</color>
 weapons/155mm_L_31_user_cannon;<color=@userlogColoredText>155 mm</color> Ordnance, 155mm, L31A1 <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_L_39_user_cannon;<color=@userlogColoredText>155 mm</color> Ordnance, 155mm, L22 <color=#ff6f00>CNN-HWZ</color>
@@ -233,6 +234,7 @@ weapons/cannonType_23_1_plane;<color=@userlogColoredText>23 mm</color> 23 Háomi
 weapons/cannonType_23_1_plane_turret;<color=@userlogColoredText>23 mm</color> 23 Háomi 1 Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
 weapons/cannonType_23L;<color=@userlogColoredText>23 mm</color> 23 Háomi 3L Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
 weapons/cannon_type23_2k;<color=@userlogColoredText>23 mm</color> 23 Háomi 2K Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
+weapons/cannon_type23_2k/short;23-2K Xíng
 weapons/cannonType_23_3;<color=@userlogColoredText>23 mm</color> 23 Háomi 3 Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
 weapons/25mm_PG87_PGZ_user_cannon;<color=@userlogColoredText>25 mm</color> WA717A | PGZ2004A Shì Sì Guan 25 Háomi Lüdài Zì Háng Gāo Pào <color=#ff6f00>ACNN</color>
 weapons/25mm_PG87_user_cannon;<color=@userlogColoredText>25 mm</color> WA709 | PG1987 Shì Shuāng Guan 25 Háomi Gāoshè Jīguān Pào <color=#ff6f00>ACNN</color>
@@ -276,6 +278,7 @@ weapons/125mm_l54_cn_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT X
 weapons/130mm_pl_59a_gai_user_cannon;<color=@userlogColoredText>130 mm</color> PL1959A Shì 130 Háomi Jiānóng Pào <color=#ff6f00>CNN-HWZ</color>
 weapons/152mm_pl_66_gai_user_cannon;<color=@userlogColoredText>152 mm</color> PLZ1983 Shì 155 Háomi Zìxíng Jiā Liúpào <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ2005 Shì 155 Háomi Zìxíng Jiā Liúpào <color=#ff6f00>CNN-HWZ</color>
+weapons/155mm_plz45_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ45 Shì 155 Háomi Zìxíng Jiā Liúpào <color=#ff6f00>CNN-HWZ</color>
 weapons/76mm_modern_cn_smoke_grenade_launcher;76 mm smoke grenade launcher
 weapons/76mm_modern_cn_smoke_grenade_launcher/short;Smoke
 
@@ -317,6 +320,8 @@ weapons/152mm_55_model_1930_naval_user_cannon;<color=@userlogColoredText>152 mm<
 weapons/152mm_55_model_1930_naval_user_cannon/short;Canon de 152 mm/55 mle. 1930
 weapons/152mm_55_model_1930mod_naval_user_cannon;<color=@userlogColoredText>152 mm</color> Canon de 152 mm/55 modèle 1930 <color=#ff6f00>CNN</color>
 weapons/152mm_55_model_1930mod_naval_user_cannon/short;Canon de 152 mm/55 mle. 1930
+weapons/203mm_50_mle_1931_naval_user_cannon;<color=@userlogColoredText>203 mm</color> Canon de 203 mm/50 modèle 1931 <color=#ff6f00>CNN</color>
+weapons/203mm_50_mle_1931_naval_user_cannon/short;Canon de 203 mm/50 mle. 1931
 weapons/380mm_45_mle_1935_naval_user_cannon;<color=@userlogColoredText>380 mm</color> Canon de 380 mm/45 modèle 1935 <color=#ff6f00>CNN</color>
 weapons/380mm_45_mle_1935_naval_user_cannon/short;Canon de 380 mm/45 mle. 1935
 weapons/380mm_45_mle_1935_mod_naval_user_cannon;<color=@userlogColoredText>380 mm</color> Canon de 380 mm/45 modèle 1935 <color=#ff6f00>CNN</color>
@@ -416,6 +421,10 @@ b_mk_1z/name/short;I
 57mm_qf_ap;A.P., 6-pr. 6-cwt., Mk. V
 57mm_qf_he;H.E.T., 6-pr. 6-cwt., Mk. I
 102mm_33_he;4 inch HE
+120mm_Arjun_Mk1;120 mm FSAPDS Mk I
+120mm_Arjun_Mk2;120 mm FSAPDS Mk II
+120mm_Arjun_PCB;120 mm PCB
+120mm_arjun_HESH;120 mm HESH
 152mm_45_he_dist_fuse;6 inch HE
 356mm_mark_5b_6crh_he;A.P.C., 14-inch 6-crh, Mk. Ib, N.T.
 356mm_mark_1b_6crh_apc;H.E., 14-inch 6-crh, Mk. Vb
@@ -498,6 +507,8 @@ type_44_ap;59 Shì 100 Háomi Chuān Jia Dàn
 155mm_plz_05_he;DLXA/PLZ05-155
 155mm_plz_05_he_vt;DLXA/PLZ05-155 (VTF)
 155mm_bea_1;CS/BEA1-155
+155mm_ddb01_he;DDB01/PLZ45-155
+155mm_ddb01_he_vt;DDB01/PLZ45-155 (VTF)
 
 //ITALY AMMUNITION
 20mm_perforante_m35_belt;Granata perforante da 20 mod. 35
@@ -521,12 +532,14 @@ type_44_ap;59 Shì 100 Háomi Chuān Jia Dàn
 40mm_ctc_gpr_pd_t_he;GPR-PD-T
 40mm_ctc_ke_t_apfsds;APFSDS-T
 40mm_ctc_ab_t_he;GPR-AB-T
+100mm_oea1928_he;100 mm OEA mle. 1928
 100mm_oea1928_he_df;100 mm OEA mle. 1928
 100mm_oea1945_he_df;100 mm OEA mle. 1945
 105mm_ofl_g2;OFL 105 G2
 120mm_f1_he;OE 120 F1
 120mm_ofl_120_f2;OFL 120 F2
 152mm_m1936_he_df;152 mm OEA mle. 1936
+203mm_oea_mle1931_he;203 mm OEA mle. 1931
 203mm_opf_mle1936_apcbc;203 mm OPf(K) RC mle. 1936
 380mm_oea_mle1949_he;380 mm OEA mle. 1949
 380mm_opf_mle1936_apcbc;380 mm OPf(K) RC mle. 1936
@@ -986,7 +999,37 @@ weapons/us_AGM_22;Air-Launched, Surface-Attack, Guided Missile, AGM-22 <color=#f
 weapons/us_AGM_22/short;AGM-22
 weapons/us_AGM_22_default;Air-Launched, Surface-Attack, Guided Missile, AGM-22 <color=#ff6f00>AGM-WG</color>
 weapons/us_AGM_22_default/short;AGM-22
-weapons/us_agm_45b_10;Air-Launched, Surface-Attack, Guided Missile, AGM-45B-10 Shrike <color=#ff6f00>AGM-RG</color>
+weapons/us_agm_45a_1;Air-Launched, Surface-Attack, Guided Missile, AGM-45A-1 Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45a_1/short;AGM-45A-1
+weapons/us_agm_45a_2;Air-Launched, Surface-Attack, Guided Missile, AGM-45A-2 Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45a_2/short;AGM-45A-2
+weapons/us_agm_45a_3b;Air-Launched, Surface-Attack, Guided Missile, AGM-45A-3B Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45a_3b/short;AGM-45A-3B
+weapons/us_agm_45a_4;Air-Launched, Surface-Attack, Guided Missile, AGM-45A-4 Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45a_4/short;AGM-45A-4
+weapons/us_agm_45a_6;Air-Launched, Surface-Attack, Guided Missile, AGM-45A-6 Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45a_6/short;AGM-45A-6
+weapons/us_agm_45a_7;Air-Launched, Surface-Attack, Guided Missile, AGM-45A-7 Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45a_7/short;AGM-45A-7
+weapons/us_agm_45a_9;Air-Launched, Surface-Attack, Guided Missile, AGM-45A-9 Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45a_9/short;AGM-45A-9
+weapons/us_agm_45a_10;Air-Launched, Surface-Attack, Guided Missile, AGM-45A-10 Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45a_10/short;AGM-45A-10
+weapons/us_agm_45b_1;Air-Launched, Surface-Attack, Guided Missile, AGM-45B-1 Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45b_1/short;AGM-45B-1
+weapons/us_agm_45b_2;Air-Launched, Surface-Attack, Guided Missile, AGM-45B-2 Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45b_2/short;AGM-45B-2
+weapons/us_agm_45b_3b;Air-Launched, Surface-Attack, Guided Missile, AGM-45B-3B Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45b_3b/short;AGM-45B-3B
+weapons/us_agm_45b_4;Air-Launched, Surface-Attack, Guided Missile, AGM-45B-4 Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45b_4/short;AGM-45B-4
+weapons/us_agm_45b_6;Air-Launched, Surface-Attack, Guided Missile, AGM-45B-6 Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45b_6/short;AGM-45B-6
+weapons/us_agm_45b_7;Air-Launched, Surface-Attack, Guided Missile, AGM-45B-7 Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45b_7/short;AGM-45B-7
+weapons/us_agm_45b_9;Air-Launched, Surface-Attack, Guided Missile, AGM-45B-9 Shrike <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_45b_9/short;AGM-45B-9
+weapons/us_agm_45b_10;Air-Launched, Surface-Attack, Guided Missile, AGM-45B-10 Shrike <color=#ff6f00>AGM-PRH</color>
 weapons/us_agm_45b_10/short;AGM-45B-10
 weapons/us_agm_84d;Air-Launched, Surface-Attack, Guided Missile, AGM-84D-1 Harpoon <color=#ff6f00>AGM-PRH</color>
 weapons/us_agm_84d/short;AGM-84D-1
@@ -996,6 +1039,8 @@ weapons/us_agm_88a;Air-Launched, Surface-Attack, Guided Missile, AGM-88A High-Sp
 weapons/us_agm_88a/short;AGM-88A
 weapons/us_agm_88c;Air-Launched, Surface-Attack, Guided Missile, AGM-88C High-Speed Anti-Radiation Missile <color=#ff6f00>AGM-PRH</color>
 weapons/us_agm_88c/short;AGM-88C
+weapons/us_agm_88g;Air-Launched, Surface-Attack, Guided Missile, AGM-88G Advanced Antiradiation Guided Missile Extended Range <color=#ff6f00>AGM-PRH</color>
+weapons/us_agm_88g/short;AGM-88G
 weapons/us_agm_122;Air-Launched, Surface-Attack, Guided Missile, AGM-122A Sidearm <color=#ff6f00>AGM-PRH</color>
 weapons/us_agm_122/short;AGM-122A
 weapons/us_hellfire_agm_114_b;Air-Launched, Surface-Attack, Guided Missile, AGM-114B Hellfire <color=#ff6f00>AGM-LG</color>
@@ -1101,6 +1146,10 @@ weapons/su_kh_31pk_l_113;izd. 77PK | Upravlâyemaâ rakyeta Kh-31PK (Passivnaâ 
 weapons/su_kh_31pk_l_113/short;Kh-31PK (PGRS-6VP)
 weapons/su_kh_31pd;izd. 77PD | Upravlâyemaâ rakyeta Kh-31PD <color=#ff6f00>AGM-PRH</color>
 weapons/su_kh_31pd/short;Kh-31PD
+weapons/su_kh_35u;izd. 78U | Prot'ivokorab'el'naya krylataya rak'eta Kh-35U <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_35u/short;Kh-35U
+weapons/su_kh_35ue;izd. 78UE | Prot'ivokorab'el'naya krylataya rak'eta Kh-35UE <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_35ue/short;Kh-35UE
 weapons/su_grom_1;"9-A-7759 | Upravlâyemaâ rakyeta Kh-36 ""Grom-È1"" <color=#ff6f00>AGM-GNSS</color>"
 weapons/su_grom_1/short;"Kh-36 ""Grom-È1"""
 weapons/su_kh_38mle;Upravlâyemaâ rakyeta Kh-38MLÈ <color=#ff6f00>AGM-LG/GNSS</color>
@@ -1121,6 +1170,8 @@ weapons/su_kh_58ush;izd. 112UŠ | Upravlâyemaâ rakyeta Kh-58UŠ <color=#ff6f00
 weapons/su_kh_58ush/short;Kh-58UŠ
 weapons/su_kh_58ushk;izd. 112UŠK | Upravlâyemaâ rakyeta Kh-58UŠK <color=#ff6f00>AGM-PRH</color>
 weapons/su_kh_58ushk/short;Kh-58UŠK
+weapons/su_kh_58ushke;izd. 112UShKE | Upravlyayemaya rak'eta Kh-58UShKE <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_58ushke/short;Kh-58UShKE
 weapons/su_kh_59;izd. D-9 | Upravlâyemaâ rakyeta Kh-59 <color=#ff6f00>AGM-EO</color>
 weapons/su_kh_59/short;Kh-59
 weapons/su_kh_59m;"izd. D-9M | Upravlâyemaâ rakyeta Kh-59M ""Ovod-M"" <color=#ff6f00>AGM-EO</color>"
@@ -1347,6 +1398,8 @@ weapons/151mm_qn502cdd/short;QN502C
 weapons/130mm_FB_10_rocket_launcher;FB-10 Dì Duì Kōng Daodàn Fāshè Chē <color=#ff6f00>LCH</color>
 fb10_rocket;FB-10
 fb10a_rocket;FB-10A
+weapons/180mm_FK_2000_rocket_launcher;FK-2000 Dì Duì Kōng Daodàn Fāshè Chē <color=#ff6f00>LCH</color>
+fk_2000_rocket;FK-2000
 weapons/239mm_HQ_17_user_cannon;HQ-17 | ADK17 Dì Duì Kōng Daodàn Xìtong <color=#ff6f00>LCH</color>
 239mm_hq17;ADK17
 weapons/239mm_hq17/short;ADK17
@@ -1370,6 +1423,8 @@ weapons/fr_as37_s_band;AS 37 Martel (S) <color=#ff6f00>AGM-PRH</color>
 weapons/fr_as37_s_band/short;AS 37 (S)
 weapons/fr_as37_armat;AS 37 ARMAT <color=#ff6f00>AGM-PRH</color>
 weapons/fr_as37_armat/short;AS 37 ARMAT
+weapons/fr_exocet_am39_block_2;Exocet AM 39 Block 2 Mod 2 <color=#ff6f00>AShM-ARH</color>
+weapons/fr_exocet_am39_block_2/short;AM 39 Block 2 Mod 2
 weapons/140mm_akeron_mp_rocket_launchr_user_cannon;AKERON MP <color=#ff6f00>LCH</color>
 weapons/140mm_akeron_mp_rocket_launchr_user_cannon/short;AKERON MP
 140mm_akeron_mp;AKERON MP
@@ -1379,6 +1434,10 @@ weapons/380mm_aster_30_user_cannon/short;SYLVER A50
 atam_mistral_sam;Mistral
 
 //SWEDEN MISSILES
+weapons/swd_rb_15f;robot 15F <color=#ff6f00>AShM-ARH</color>
+weapons/swd_rb_15f/short;rb 15F
+weapons/swd_rb27;robot 27 <color=#ff6f00>AAM-IR</color>
+weapons/swd_rb27/short;rb 27
 weapons/us_agm_119a_penguin;Penguin MK3 <color=#ff6f00>AGM-IR</color>
 weapons/us_agm_119a_penguin/short;Penguin MK3
 weapons/us_agm_119a_penguin_wo_radar_designation;Penguin MK3 <color=#ff6f00>AGM-IR</color>
@@ -5686,7 +5745,7 @@ weapons/125mm_2A46MS_user_cannon;<color=@userlogColoredText>125 mm</color> 2A46M
 125mm_tapna;TAPNA
 weapons/57mm_qf_6pdr_user_cannon;<color=@userlogColoredText>57 mm</color> Gun, Q.F., Hotchkiss, 6-pr. 6-cwt., Mk. I <color=#ff6f00>CNN</color>
 weapons/57mm_maxim_nordenfelt_user_cannon;<color=@userlogColoredText>57 mm</color> Belgische 5,7cm Kanone <color=#ff6f00>CNN</color>
-weapons/75mm_1897_user_cannon;<color=@userlogColoredText>75 mm</color> Matériel de 75 mm modèle 1897 <color=#ff6f00>CNN</color>
+weapons/75mm_1897_user_cannon;<color=@userlogColoredText>75 mm</color> Canon da 75 mm modèle 1897 <color=#ff6f00>CNN</color>
 weapons/76mm_1910_16_user_cannon;<color=@userlogColoredText>76.2 mm</color> 76,2-mm protivošturmovaâ puška obr. 1910 g. <color=#ff6f00>CNN</color>
 76mm_1910_shrapnel;Šrapnyeli 76-mm
 76mm_1910_he;Granaty 76-mm

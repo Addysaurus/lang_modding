@@ -19,6 +19,7 @@ weapons/cannonType_23_1_plane;<color=@userlogColoredText>23 mm</color> 23毫米1
 weapons/cannonType_23_1_plane_turret;<color=@userlogColoredText>23 mm</color> 23毫米1型航空机炮 <color=#ff6f00>ACNN</color>
 weapons/cannonType_23L;<color=@userlogColoredText>23 mm</color> 23毫米3L型航空机炮 <color=#ff6f00>ACNN</color>
 weapons/cannon_type23_2k;<color=@userlogColoredText>23 mm</color> 23毫米2K型航空机炮 <color=#ff6f00>ACNN</color>
+weapons/cannon_type23_2k/short;23-2K型
 weapons/cannonType_23_3;<color=@userlogColoredText>23 mm</color> 23毫米3型航空机炮 <color=#ff6f00>ACNN</color>
 weapons/25mm_PG87_PGZ_user_cannon;<color=@userlogColoredText>25 mm</color> WA717A | PGZ2004A式四管25毫米履带自行高炮 <color=#ff6f00>ACNN</color>
 weapons/25mm_PG87_user_cannon;<color=@userlogColoredText>25 mm</color> WA709 | PG1987式双管25毫米高射机关炮 <color=#ff6f00>ACNN</color>
@@ -60,6 +61,7 @@ weapons/125mm_l54_cn_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT�
 weapons/130mm_pl_59a_gai_user_cannon;<color=@userlogColoredText>130 mm</color> PL1959A式130毫米加农炮 <color=#ff6f00>CNN-HWZ</color>
 weapons/152mm_pl_66_gai_user_cannon;<color=@userlogColoredText>152 mm</color> PLZ1983式152毫米自行加榴炮 <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ2005式155毫米自行加榴炮 <color=#ff6f00>CNN-HWZ</color>
+weapons/155mm_plz45_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ45式155毫米加农榴弹炮 <color=#ff6f00>CNN-HWZ</color>
 
 //AMMUNITION
 37mm_heit_1955;55式37毫米曳杀榴弹
@@ -263,6 +265,7 @@ weapons/151mm_qn502cdd/short;QN502C
 weapons/130mm_FB_10_rocket_launcher;FB-10地對空导弹发射架 <color=#ff6f00>LCH</color>
 fb10_rocket;FB-10
 fb10a_rocket;FB-10A
+weapons/180mm_FK_2000_rocket_launcher;FK-2000地對空导弹发射架 <color=#ff6f00>LCH</color>
 weapons/72mm_HN_6_launcher_user_cannon;HN-6地對空导弹发射架 <color=#ff6f00>LCH</color>
 72mm_hn_6;HN-6
 weapons/72mm_hn_6/short;HN-6

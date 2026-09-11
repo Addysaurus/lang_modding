@@ -29,7 +29,7 @@ All dates are listed in DD-MM-YYYY format.
     - Implemented the UK tree rework. This is Odican's rework of every single British tree vehicle in the entire game. It has been in the works for nearly a year and has come out to be extremely high quality and one of the best things ever done for this mod.
     - Implemented the French ground rework. This reworks every single French ground vehicle in the entire game (enjoy your S.O.M.U.A. 50t smh my head).
     - Implemented the German naval rework. This reworks every single German naval vehicle in the coastal and bluewater fleet trees.
-    - Added new Greek and Greek + Russian packages for the new Greek vehicles.
+    - Added new Greek and Greek + Russian packages for the new Greek vehicles. Special thanks to Minna for helping with Greek research and correcting my mistakes since I don't speak Greek.
     - Minor manufacturer pass on earlier Chinese vehicles.
     - Added a giant amount of previous names to vehicles with the new multiline statcards, especially to pre-1988 Chinese ground vehicles.
     - Added a lot of project names to vehicles with the new multiline statcards.
@@ -54,9 +54,6 @@ All dates are listed in DD-MM-YYYY format.
     - Reworked all the **TAM**s.
     - **SK105-A2** (Germany / Argentina) → **VC SK 105**. Statcard name → **Steyr-Werke Typ 4KH-7FA1-JT1/105 | SK 105 A2 | Vehículo de Combate SK 105**.
     - **SK105-A2** (France / Austria) → **JaPzKA2**. Statcard name → **Steyr-Werke Typ 4KH-7FA1-JT1/105 | SK 105 A2 | Jagdpanzer Kürassier A2**.
-    - **TAM / SK105-A2** (folder) → **VC TAM / SK 105**.
-    - **AMX 10RC / SK105-A2** (folder) → **AMX 10RC / JaPzK A2**.
-    - **EFz-Rad 8x8 / TAM 2C** (folder) → **EFz-Rad 8x8 / VC TAM 2C**.
     - **Me 210/Me 410** (folder) → **Me 210 A-1 / 410 A-1 / B-2**.
     - Reworked all the **SAMP/T**s.
     - Specified **Amagi** as the 1919 plan and not the final 1921 plan.
@@ -83,6 +80,13 @@ All dates are listed in DD-MM-YYYY format.
     - Corrected the statcard name of the **PzH 2000HU** to say 155 mm instead of 152 mm and the manufacturer to be KNDS Deutschland instead of just KNDS.
     - Changed the manufacturer "Consortium Iveco Oto Melara" to "Consorzio Iveco - Oto Melara".
     - Updated the refit manufacturer for **Commandant Dominé (F 742)**.
+    - Added a model number to the **F-104J** and corrected the model numbers for the Chinese F-104s.
+    - Corrected the manufacturer of the Israeli **AH-1S (MC) (CN)** in the Hebrew package.
+    - Corrected the manufacturer of **USS Z-2**.
+    - Fixed several typos.
+    - Corrected the grammar and transliteration of the **Mi-35P**.
+    - Added the missing refit year to **Yūgure (DD-184)** (it had the refit location but not the year).
+
 ### Weaponry:
 
 - #### Changes:
@@ -99,8 +103,9 @@ All dates are listed in DD-MM-YYYY format.
     - **105 mm FMk. 4 Modelo 1L cannon** → **Cañón Cal. 105 mm FMK 4 Modelo 1L**.
     - **105 mm PzK M57 cannon** → **10,5 cm Panzerkanone M 57**.
     - **SYLVER A50**: Statcard name → **Système de lancement vertical A50**.
-    - **30 mm Ho-155 cannon** → **5 Shiki 30 Miri Kotei Kijū**.
         - Japanese package: **30 mm Ho-155 cannon** → **五式三十粍固定機銃**.
+    - **Matériel de 75 mm modèle 1897** → **Canon da 75 mm modèle 1897**.
+    - Corrected the capitalization of French ammunition in the Full Ammunition Names package.
 
 ### Modifications:
 

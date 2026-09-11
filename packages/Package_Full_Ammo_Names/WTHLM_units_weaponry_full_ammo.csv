@@ -43,6 +43,10 @@
 A.P., 6-pr. 6-cwt., Mk. V)"
 57mm_qf_he;"Cartridge, Q.F., 6-pr., Cordite M.D., Common Shell, Mk. III (Shell,
 Q.F., H.E.T., 6-pr. 6-cwt., Mk. I)"
+120mm_Arjun_Mk1;120 mm Fin Stabilised Armour Piercing Discarding Sabot Mk I
+120mm_Arjun_Mk2;120 mm Fin Stabilised Armour Piercing Discarding Sabot Mk II
+120mm_Arjun_PCB;120 mm Penetration Cum Blast
+120mm_arjun_HESH;120 mm High Explosive Squash Head
 356mm_mark_5b_6crh_he;Shell, B.L., A.P.C., 14-inch 6-crh., Mk. Ib, N.T.
 356mm_mark_1b_6crh_apc;Shell, B.L., H.E., 14-inch 6-crh., Mk. Vb
 381mm_mark_22b_6crh_apc;Shell, B.L., A.P.C., 15-inch 6-crh., Mk. XXIIb
@@ -109,6 +113,8 @@ type_44_ap;1959 Nián Shì 100 Háomi Tankè Pào Chuān Jia Dàn
 155mm_plz_05_he;DLXA/PLZ05 155 Háomi Shāshāng Bàopò Liú Dàn
 155mm_plz_05_he_vt;DLXA/PLZ05 155 Háomi Shāshāng Bàopò Liú Dàn (Variable Time Fuze)
 155mm_bea_1;CS/BEA1 Xíng 155 Háomi Di Pái Chuān Jia Dàn
+155mm_ddb01_he;DDB01/PLZ45 Shì 155 Háomi Shāshāng Bàopò Liú Dàn
+155mm_ddb01_he_vt;DDB01/PLZ45 Shì 155 Háomi Shāshāng Bàopò Liú Dàn (Variable Time Fuze)
 
 //ITALY AMMUNITION
 20mm_perforante_m35_belt;Cartoccio granata perforante da 20 modello 1935
@@ -116,22 +122,24 @@ type_44_ap;1959 Nián Shì 100 Háomi Tankè Pào Chuān Jia Dàn
 381mm_50_apcbc;Cartoccio palla perforante da 381/50
 
 //FRANCE AMMUNITION
-37mm_oea1935_he;37 mm Obus Explosif en Acier modèle 1935
-40mm_gpr_ke_t_apfsds;Obus Flèche Traceur
-40mm_gpr_pd_t_he;Obus Explosif Traceur
-40mm_gpr_ab_t_he;Obus Explosif Traceur Chronométrique
-40mm_ke_ab_ahead;Projectile Perforant Multiple Chronométrique
-100mm_oea1928_he_df;100 mm Obus Explosif en Acier modèle 1928
-100mm_oea1945_he_df;100 mm Obus Explosif en Acier modèle 1945
+37mm_oea1935_he;37 mm obus explosif en acier modèle 1935
+40mm_gpr_ke_t_apfsds;Obus flèche traceur
+40mm_gpr_pd_t_he;Obus explosif traceur
+40mm_gpr_ab_t_he;Obus explosif traceur chronométrique
+40mm_ke_ab_ahead;Projectile perforant multiple chronométrique
+100mm_oea1928_he;100 mm obus explosif en acier modèle 1928
+100mm_oea1928_he_df;100 mm obus explosif en acier modèle 1928
+100mm_oea1945_he_df;100 mm obus explosif en acier modèle 1945
 120mm_f1_he;Cartouche à obus explosif de 120 mm modèle F1
 120mm_ofl_120_f2;Cartouche à obus flèche de 120 mm modèle F2
-152mm_m1936_he_df;152 mm Obus Explosif en Acier modèle 1936
-203mm_opf_mle1936_apcbc;"203 mm Obus de Perforation dispositif K de Rupture Coiffé 
+152mm_m1936_he_df;152 mm obus explosif en acier modèle 1936
+203mm_oea_mle1931_he;203 mm obus explosif en acier modèle 1931
+203mm_opf_mle1936_apcbc;"203 mm obus de perforation dispositif K de rupture coiffé 
 modèle 1936"
-380mm_oea_mle1949_he;380 mm Obus Explosif en Acier modèle 1949
-380mm_opf_mle1936_apcbc;"380 mm Obus de Perforation dispositif K de Rupture Coiffé
+380mm_oea_mle1949_he;380 mm obus explosif en acier modèle 1949
+380mm_opf_mle1936_apcbc;"380 mm obus de perforation dispositif K de rupture coiffé
 modèle 1936"
-380mm_opf_mle1943_apcbc;"380 mm Obus de Perforation dispositif K de Rupture Coiffé
+380mm_opf_mle1943_apcbc;"380 mm obus de perforation dispositif K de rupture coiffé
 modèle 1943"
 
 //USA ROCKETS
@@ -183,8 +191,9 @@ atgm_302;302 Fan Tankè Daodàn
 105mm_gp_105;GP105 Xíng 105 Háomi Pào Shè Daodàn
 125mm_GP125;GP125 Xíng 125 Háomi Pào Shè Daodàn
 100mm_aps_03;APS03 Shì 100 Háomi Fan Tankè Daodàn
-fb10_rocket;FB10 Dì Duì Kōng Daodàn
-fb10a_rocket;FB10A Dì Duì Kōng Daodàn
+fb10_rocket;FB-10 Dì Duì Kōng Daodàn
+fb10a_rocket;FB-10A Dì Duì Kōng Daodàn
+fk_2000_rocket;FK-2000 Dì Duì Kōng Daodàn
 239mm_hq17;ADK17 Dì Duì Kōng Daodàn
 cn_fm_3000;ADK11 Dì Duì Kōng Daodàn
 127mm_tc_1l;Jiàn 1 Fēidàn

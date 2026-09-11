@@ -94,6 +94,13 @@ md_450b_ouragan_iaf_29_0;"<color=#81c3fc>Avions Marcel Dassault</color>
 md_450b_ouragan_iaf_29_1;ןגרוא 
 md_450b_ouragan_iaf_29_2;ןגרוא 
 
+f-84f_israel_iaf_shop;(תסייט 200) F-84F-51-GK 
+f-84f_israel_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23M</color>
+ F-84F-51-GK Thunderstreak
+<color=@currencyGoldColor>תסייט 200</color>"
+f-84f_israel_iaf_1; F-84F
+f-84f_israel_iaf_2; F-84
+
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 md_454_mystere_4a_iaf_shop;IV רטסימ 
 md_454_mystere_4a_iaf_0;"<color=#81c3fc>Avions Marcel Dassault</color>
@@ -157,13 +164,6 @@ A רוטוו ☨"
 so_4050_vautour_2a_iaf_1;A רוטוו ☨
 so_4050_vautour_2a_iaf_2;רוטוו ☨
 
-f-84f_israel_iaf_shop;(תסייט 200) F-84F-51-GK 
-f-84f_israel_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23M</color>
- F-84F-51-GK Thunderstreak
-<color=@currencyGoldColor>תסייט 200</color>"
-f-84f_israel_iaf_1; F-84F
-f-84f_israel_iaf_2; F-84
-
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 7
 mirage_3cj_shop;CJ III ׳זרימ 
 mirage_3cj_0;"<color=#81c3fc>Avions Marcel Dassault</color>
@@ -201,7 +201,8 @@ f-4e_iaf_1; F-4E
 f-4e_iaf_2; F-4
 
 f-4e_kurnass_2000_shop;2000 סנרוק F-4E 
-f-4e_kurnass_2000_0;"<color=#81c3fc>לארשיל תיריוואה היישעתה <color=@commonTextColor>/</color> McDonnell Douglas Corporation Model</color>
+f-4e_kurnass_2000_0;"<color=#81c3fc>תיריוואה היישעתה <color=@commonTextColor>/</color> McDonnell Douglas Corporation Model 98HO
+לארשיל</color>
 2000 סנרוק F-4E "
 f-4e_kurnass_2000_1; F-4E
 f-4e_kurnass_2000_2; F-4
@@ -304,7 +305,7 @@ ah_1q_iaf_1; AH-1Q
 ah_1q_iaf_2; AH-1
 
 ah_1f_iaf_shop; AH-1S (MC) (CN)
-ah_1f_iaf_0;"<color=#81c3fc>Bell Helicopter Company Model 209</color>
+ah_1f_iaf_0;"<color=#81c3fc>Bell Helicopter Textron Model 209</color>
 ב עפצ AH-1Q 
 <color=#adadad>(Cobra Night Imaging Thermal Equipment) (Modernized Cobra)</color>"
 ah_1f_iaf_1; AH-1S
@@ -338,7 +339,7 @@ ah_64d_i_saraph_2; AH-64
 
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 ah_60_iaf_shop;ABH Demonstrator
-ah_60_iaf_0;"<color=#81c3fc>Sikorsky Aircraft Corperation + Elbit Systems Armed Blackhawk
+ah_60_iaf_0;"<color=#81c3fc>Sikorsky Aircraft Corporation + Elbit Systems Armed Blackhawk
 Demonstrator ""שומח ףושני""</color>"
 ah_60_iaf_1;ABH Demonstrator
 ah_60_iaf_2;ABH Demonstrator

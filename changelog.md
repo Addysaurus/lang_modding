@@ -18,13 +18,13 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.18.02 - UNRELEASED
+## 1.19.00 - UNRELEASED
 
 ### Vehicles:
 
 - #### Changes:
 
-    - Updated for the "Guardian of the Baltic Sea" and "Space Program" events.
+    - Updated for the "Sky Odyssey" major update and the "Guardian of the Baltic Sea" and "Space Program" events.
     - Implemented multiline statcards. This project has been in the works since March and every vehicle has now been moved over to a new statcard format spanning multiple lines. This will make statcards much more readable and consistent, with no more scrolling or stretching.
     - Implemented the UK tree rework. This is Odican's rework of every single British tree vehicle in the entire game. It has been in the works for nearly a year and has come out to be extremely high quality and one of the best things ever done for this mod.
     - Implemented the French ground rework. This reworks every single French ground vehicle in the entire game (enjoy your S.O.M.U.A. 50t smh my head).
@@ -91,7 +91,11 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - Updated for the "Sky Odyssey" major update.
     - **Rheinmetall Rh202 | MK 20 DM 6 A1** → **Maschinenkanone 20 mm MK 20 DM 6 A1**.
+    - **Gun, Q.F., 4.7-inch, Mk. IX** → **Ordnance, Q.F., 4.7-inch, Mk. IX**.
+    - **Gun, Q.F., 5.25-inch, Mk. I** → **Ordnance, Q.F., 5.25-inch, Mk. I**.
+    - **Gun, B.L., 14-inch, Mk. VII** → **Ordnance, B.L., 14-inch, Mk. VII**.
     - **37 mm SA18 L/21 cannon** → **Canon de 37 mm semi-automatique modèle 1918**.
     - **Canon de 37 mm SA38 L/33** → **Canon de 37 mm semi-automatique modèle 1938**.
     - **40 mm Mle51 T1 cannon** → **Matériel de 40 mm antiaérien modèle 1951 T1**.
@@ -105,7 +109,11 @@ All dates are listed in DD-MM-YYYY format.
     - **SYLVER A50**: Statcard name → **Système de lancement vertical A50**.
         - Japanese package: **30 mm Ho-155 cannon** → **五式三十粍固定機銃**.
     - **Matériel de 75 mm modèle 1897** → **Canon da 75 mm modèle 1897**.
+    - **75 mm Type 88 cannon** → **"Ki 109" Tōsai Hō**.
+        - Japanese package: **75 mm Type 88 cannon** → **「キ109」搭載砲**.
+    - Corrected the **ZiF-71** accidentally being in Russian.
     - Corrected the capitalization of French ammunition in the Full Ammunition Names package.
+    - Reworked German torpedoes.
 
 ### Modifications:
 

@@ -6461,9 +6461,9 @@ mi_24p_german_hfs80_1;◄ Mi-24P
 mi_24p_german_hfs80_2;◄ Mi-24P
 
 //GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 7
-h145m_shop;◄ H145M LKH
-h145m_0;"<color=#81c3fc>Airbus Helicopters H145M </color>
-◄ H145M leichter Kampfhubschrauber"
+h145m_shop;◄ H145M LUH SOF
+h145m_0;"<color=#81c3fc>Airbus Helicopters Deutschland H145M </color>
+◄ H145M Light Utility Helicopter Special Operations Forces"
 h145m_1;◄ H145M
 h145m_2;◄ H145
 
@@ -11172,6 +11172,31 @@ Sea Hawk F.G.A. Mk. 6"
 sea_hawk_fga6_1;Sea Hawk F.G.A. Mk. 6
 sea_hawk_fga6_2;Sea Hawk
 
+hawk_t1a_early_shop;Hawk T. Mk. 1A
+hawk_t1a_early_0;"<color=#81c3fc>British Aerospace</color>
+Hawk T. Mk. 1A"
+hawk_t1a_early_1;Hawk T. Mk. 1
+hawk_t1a_early_2;Hawk
+
+hawk_t1a_shop;Hawk T. Mk. 1A (FRP)
+hawk_t1a_0;"<color=#81c3fc>British Aerospace <color=@commonTextColor>/</color> BAE Systems Military Air & Information</color>
+Hawk T. Mk. 1A
+<color=#adadad>(Fuselage Replacement Programme)</color>"
+hawk_t1a_1;Hawk T. Mk. 1
+hawk_t1a_2;Hawk
+
+hawk_200_shop;Hawk 200 (ZH200)
+hawk_200_0;"<color=#81c3fc>British Aerospace Hawk 200</color>
+<color=@currencyGoldColor>ZH200</color>"
+hawk_200_1;Hawk 200
+hawk_200_2;Hawk
+
+hawk_200_rda_shop;Hawk 200 (RDA)
+hawk_200_rda_0;"<color=#81c3fc>British Aerospace Hawk 200</color>
+<color=#adadad>(Radar Development Aircraft)</color>"
+hawk_200_rda_1;Hawk 200
+hawk_200_rda_2;Hawk
+
 swift_f1_shop;Swift F. Mk. 1
 swift_f1_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 541</color>
 Swift F. Mk. 1"
@@ -11392,18 +11417,6 @@ tornado_ids_de_assta1_britain_killstreak_0;"<color=#81c3fc>Panavia Aircraft PA-2
 <color=#adadad>(Avionics System Software Tornado in ADA 1)</color>"
 tornado_ids_de_assta1_britain_killstreak_1;☢▄ IDS-Tornado
 tornado_ids_de_assta1_britain_killstreak_2;☢▄ IDS-Tornado
-
-hawk_200_shop;Hawk 200 (ZH200)
-hawk_200_0;"<color=#81c3fc>British Aerospace Hawk 200</color>
-<color=@currencyGoldColor>ZH200</color>"
-hawk_200_1;Hawk 200
-hawk_200_2;Hawk
-
-hawk_200_rda_shop;Hawk 200 (RDA)
-hawk_200_rda_0;"<color=#81c3fc>British Aerospace Hawk 200</color>
-<color=#adadad>(Radar Development Aircraft)</color>"
-hawk_200_rda_1;Hawk 200
-hawk_200_rda_2;Hawk
 
 f_111c_raaf_shop;▄ F-111C
 f_111c_raaf_0;"<color=#81c3fc>General Dynamics Corporation Model 12 <color=@commonTextColor>+</color> Grumman Aerospace
@@ -13289,6 +13302,14 @@ uk_battleship_vanguard_0;"<color=#81c3fc>John Brown & Co.</color>
 HMS Vanguard (23)"
 uk_battleship_vanguard_1;HMS Vanguard
 uk_battleship_vanguard_2;Battleship
+
+uk_battleship_lion_class_shop;HMS Lion (27) (16F-38 Mod.)
+uk_battleship_lion_class_0;"<color=#81c3fc>Vickers-Armstrongs, High Walker Naval Yard</color>
+<color=#fffa62>Lion-class</color>
+HMS Lion (27)
+<color=#adadad>(Design 16F-38 Modified)</color>"
+uk_battleship_lion_class_1;HMS Lion
+uk_battleship_lion_class_2;Battleship
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2

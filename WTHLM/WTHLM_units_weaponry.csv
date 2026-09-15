@@ -184,6 +184,8 @@ weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredTex
 weapons/155mm_L_31_user_cannon;<color=@userlogColoredText>155 mm</color> Ordnance, 155mm, L31A1 <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_L_39_user_cannon;<color=@userlogColoredText>155 mm</color> Ordnance, 155mm, L22 <color=#ff6f00>CNN-HWZ</color>
 weapons/356mm_45_14inch_mark7_naval_user_cannon;<color=@userlogColoredText>356 mm</color> Ordnance, B.L., 14-inch, Mk. VII <color=#ff6f00>CNN</color>
+weapons/406mm_45_bl_mk1_r1_naval_user_cannon;<color=@userlogColoredText>406 mm</color> Ordnance, B.L., 16-inch, Mk. I <color=#ff6f00>CNN</color>
+weapons/406mm_45_bl_mk1_r2_naval_user_cannon;<color=@userlogColoredText>406 mm</color> Ordnance, B.L., 16-inch, Mk. I <color=#ff6f00>CNN</color>
 weapons/406mm_45_bl_mk2_naval_user_cannon;<color=@userlogColoredText>406 mm</color> Ordnance, B.L., 16-inch, Mk. II <color=#ff6f00>CNN</color>
 
 //JAPAN GUNS
@@ -603,6 +605,10 @@ weapons/us_b28_ang45;<color=@userlogColoredText>1.45 mt</color> ☢ B28Y5 <color
 weapons/us_b28_ang45/short;☢ B28Y5
 weapons/us_b83;<color=@userlogColoredText>1.2 mt</color> ☢ B83 <color=#ff6f00>BMB-ATM</color>
 weapons/us_b83/short;☢ B83
+weapons/us_2000lb_gbu_15v21;<color=@userlogColoredText>1093.158 kg</color> Bomb, Guided, GBU-15(V)21/B <color=#ff6f00>BMB-EO</color>
+weapons/us_2000lb_gbu_15v21/short;GBU-15(V)21/B
+weapons/us_2000lb_gbu_15v22;<color=@userlogColoredText>1110.848 kg</color> Bomb, Guided, GBU-15(V)22/B <color=#ff6f00>BMB-EO</color>
+weapons/us_2000lb_gbu_15v22/short;GBU-15(V)22/B
 weapons/us_3000lb_m118;<color=@userlogColoredText>1369.8 kg</color> Bomb, 3000lb, GP, M118 <color=#ff6f00>BMB</color>
 weapons/us_3000lb_m118/short;M118
 weapons/us_3000lb_m118_90;<color=@userlogColoredText>1369.8 kg</color> Bomb, 3000lb, GP, M118 <color=#ff6f00>BMB</color>
@@ -1273,6 +1279,10 @@ weapons/uk_sea_eagle;Sea Eagle <color=#ff6f00>AShM-ARH</color>
 weapons/uk_sea_eagle/short;Sea Eagle
 weapons/uk_sea_eagle_wo_radar_designation;Sea Eagle <color=#ff6f00>AShM-ARH</color>
 weapons/uk_sea_eagle_wo_radar_designation/short;Sea Eagle
+weapons/uk_martlet;Martlet <color=#ff6f00>AGM-LG</color>
+weapons/uk_martlet/short;Martlet
+weapons/uk_martlet_default;Martlet <color=#ff6f00>AGM-LG</color>
+weapons/uk_martlet_default/short;Martlet
 
 //JAPAN MISSILES
 weapons/jp_ki_148_i_go_1b;I Gō 1 Gata Otsu Musen Yūdōdan | Ki 148 <color=#ff6f00>AGM-RG</color>
@@ -7011,8 +7021,6 @@ weapons/381mm_42_bl_mk1_naval_user_cannon;15 inch/42 BL Mark I cannon
 381mm_mark_12a_4crh_apc;15 inch 4crh Mark XIIa APC
 381mm_mark_1a_4crh_apc;381 mm Mk.Ia APC
 381mm_mark_17b_6crh_apc;381 mm Mk.XVIIb APC
-weapons/406mm_45_bl_mk1_r1_naval_user_cannon;16 inch/45 BL Mark I cannon
-weapons/406mm_45_bl_mk1_r2_naval_user_cannon;16 inch/45 BL Mark I mod.2 cannon
 406mm_uk_he;16 inch HE
 406mm_mark_1a_apcbc;16 inch Mark Ia APCBC
 weapons/178mm_up_mk1_naval_rocket_launcher;178 mm UP Mk. 1

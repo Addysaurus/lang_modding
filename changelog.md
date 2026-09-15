@@ -96,6 +96,8 @@ All dates are listed in DD-MM-YYYY format.
     - **Gun, Q.F., 4.7-inch, Mk. IX** → **Ordnance, Q.F., 4.7-inch, Mk. IX**.
     - **Gun, Q.F., 5.25-inch, Mk. I** → **Ordnance, Q.F., 5.25-inch, Mk. I**.
     - **Gun, B.L., 14-inch, Mk. VII** → **Ordnance, B.L., 14-inch, Mk. VII**.
+    - **16 inch/45 BL Mark I cannon** → **Ordnance, B.L., 16-inch, Mk. I**.
+    - **16 inch/45 BL Mark I mod.2 cannon** → **Ordnance, B.L., 16-inch, Mk. I**.
     - **37 mm SA18 L/21 cannon** → **Canon de 37 mm semi-automatique modèle 1918**.
     - **Canon de 37 mm SA38 L/33** → **Canon de 37 mm semi-automatique modèle 1938**.
     - **40 mm Mle51 T1 cannon** → **Matériel de 40 mm antiaérien modèle 1951 T1**.

@@ -100,7 +100,7 @@ All dates are listed in DD-MM-YYYY format.
     - **16 inch/45 BL Mark I mod.2 cannon** → **Ordnance, B.L., 16-inch, Mk. I**.
     - **37 mm SA18 L/21 cannon** → **Canon de 37 mm semi-automatique modèle 1918**.
     - **Canon de 37 mm SA38 L/33** → **Canon de 37 mm semi-automatique modèle 1938**.
-    - **40 mm Mle51 T1 cannon** → **Matériel de 40 mm antiaérien modèle 1951 T1**.
+    - **40 mm Mle51 T1 cannon** → **Canon de 40 mm antiaérien modèle 1951 T1**.
     - **47 mm SA37 cannon** → **Canon de 47 mm semi-automatique modèle 1937**.
     - **Canon de 75mm SA 49** → **Canon de 75 mm semi-automatique modèle 1949**.
     - **Canon de 75mm SA 50 L/57** → **Canon de 75 mm semi-automatique modèle 1950**.

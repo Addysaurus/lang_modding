@@ -319,9 +319,11 @@ weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredTe
 
 //FRANCE GUNS
 weapons/7_62mm_FN_MAG58_user_machinegun;<color=@userlogColoredText>7.62 mm</color> FN MAG 58 <color=#ff6f00>MG</color>
+weapons/cannonDEFA553_jaguar;<color=@userlogColoredText>30 mm</color> Canon de 30 mm DEFA 553 <color=#ff6f00>ACNN</color>
+weapons/cannonDEFA553_jaguar/short;DEFA 553
 weapons/37mm_SA_18_user_cannon;<color=@userlogColoredText>37 mm</color> Canon de 37 mm semi-automatique modèle 1918 <color=#ff6f00>CNN</color>
 weapons/37mm_SA_38_user_cannon;<color=@userlogColoredText>37 mm</color> Canon de 37 mm semi-automatique modèle 1938 <color=#ff6f00>CNN</color>
-weapons/40mm_Mle51_t1_user_cannon;<color=@userlogColoredText>40 mm</color> Matériel de 40 mm antiaérien modèle 1951 T1 <color=#ff6f00>ACNN</color>
+weapons/40mm_Mle51_t1_user_cannon;<color=@userlogColoredText>40 mm</color> Canon de 40 mm antiaérien modèle 1951 T1 <color=#ff6f00>ACNN</color>
 weapons/40mm_CTC_user_cannon;<color=@userlogColoredText>40 mm</color> 40 mm Cased Telescoped Cannon <color=#ff6f00>ACNN</color>
 weapons/47mm_SA_37_user_cannon;<color=@userlogColoredText>47 mm</color> Canon de 47 mm semi-automatique modèle 1937 <color=#ff6f00>CNN</color>
 weapons/75mm_SA_49_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75 mm semi-automatique modèle 1949 <color=#ff6f00>CNN</color>
@@ -352,6 +354,8 @@ weapons/380mm_45_mle_1935_mod_naval_user_cannon/short;Canon de 380 mm/45 mle. 19
 //SWEDEN GUNS
 weapons/cannonAkan_m46a;<color=@userlogColoredText>20 mm</color> 20 mm automatkanon m/46A <color=#ff6f00>ACNN</color>
 weapons/cannonAkan_m46a/short;20 mm akan m/46A
+weapons/cannonHispano_hs825_L_53;<color=@userlogColoredText>30 mm</color> Canon de 30 mm Hispano-Suiza type 825 D <color=#ff6f00>ACNN</color>
+weapons/cannonHispano_hs825_L_53/short;HSS 825 D
 
 //ISRAEL GUNS
 weapons/60mm_hvms_user_cannon;<color=@userlogColoredText>60 mm</color> 60 mm Hyper-Velocity Medium Support Weapon System <color=#ff6f00>CNN</color>

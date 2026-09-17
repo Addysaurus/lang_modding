@@ -1276,11 +1276,20 @@ ussr_g5_mtb_landing_craft_1;G-5
 ussr_g5_mtb_landing_craft_2;Landing craft
 
 us_aircraftcarrier_lexington_shop;USS Lexington (CV-2)
-us_aircraftcarrier_lexington_0;"<color=#fffa62>Lexington-class</color>
+us_aircraftcarrier_lexington_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard <color=@commonTextColor>/</color> Naval Station Pearl Harbor</color>
+<color=#fffa62>Lexington-class Aircraft Carrier</color>
 USS Lexington (CV-2)
-<color=#adadad>(1942)</color>"
+<color=#adadad>(1941)</color>"
 us_aircraftcarrier_lexington_1;USS Lexington
-us_aircraftcarrier_lexington_2;Carrier
+us_aircraftcarrier_lexington_2;Aircraft Carrier
+
+us_aircraftcarrier_lexington_ai_shop;USS Lexington (CV-2)
+us_aircraftcarrier_lexington_ai_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard <color=@commonTextColor>/</color> Naval Station Pearl Harbor</color>
+<color=#fffa62>Lexington-class Aircraft Carrier</color>
+USS Lexington (CV-2)
+<color=#adadad>(1941)</color>"
+us_aircraftcarrier_lexington_ai_1;USS Lexington
+us_aircraftcarrier_lexington_ai_2;Aircraft Carrier
 
 us_aircraftcarrier_enterprise_shop;USS Enterprise (CV-6)
 us_aircraftcarrier_enterprise_0;"<color=#fffa62>Yorktown-class</color>
@@ -4961,11 +4970,11 @@ Kim Qui (HQ 605)"
 us_pgm_59_class_1;Kim Qui (HQ 605)
 us_pgm_59_class_2;Gunboat
 
-us_lcm_zippo_shop;USS Z-2
+us_lcm_zippo_shop;USS M-92-2
 us_lcm_zippo_0;"<color=#81c3fc>Marinette Marine Corporation</color>
 <color=#fffa62>Landing Craft, Mechanized, (Mk. 6) (Flamethrower) ""Zippo""</color>
-USS Z-2"
-us_lcm_zippo_1;USS Z-2
+USS M-92-2"
+us_lcm_zippo_1;USS M-92-2
 us_lcm_zippo_2;Monitor
 
 us_flagstaff_pgh1_shop;USS Flagstaff (PGH-1)
@@ -11137,11 +11146,11 @@ Mosquito N.F. Mk. II"
 mosquito_nf_mk2_1;Mosquito N.F. Mk. II
 mosquito_nf_mk2_2;Mosquito
 
-mosquito_tr_mk33_shop;Mosquito T.R. Mk. 33
+mosquito_tr_mk33_shop;Sea Mosquito T.R. Mk. 33
 mosquito_tr_mk33_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 98</color>
-Mosquito T.R. Mk. 33"
-mosquito_tr_mk33_1;Mosquito T.R. Mk. 33
-mosquito_tr_mk33_2;Mosquito
+Sea Mosquito T.R. Mk. 33"
+mosquito_tr_mk33_1;Sea Mosquito T.R. Mk. 33
+mosquito_tr_mk33_2;Sea Mosquito
 
 mosquito_b_mk16_shop;Mosquito B. Mk. XVI
 mosquito_b_mk16_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 98</color>

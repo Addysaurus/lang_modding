@@ -1525,6 +1525,14 @@ weapons/is_delilah_ir;Delilah (Infrared) <color=#ff6f00>AGM-IR/GNSS</color>
 weapons/is_delilah_ir/short;Delilah (IR)
 weapons/is_delilah_arm;STAR-1 <color=#ff6f00>AGM-PRH/GNSS</color>
 weapons/is_delilah_arm/short;STAR-1
+weapons/spike_er;Spike ER <color=#ff6f00>AGM-EO</color>
+weapons/spike_er/short;Spike ER
+weapons/spike_er_default;Spike ER <color=#ff6f00>AGM-EO</color>
+weapons/spike_er_default/short;Spike ER
+weapons/spike_nlos;Spike NLOS <color=#ff6f00>AGM-IR</color>
+weapons/spike_nlos/short;Spike NLOS
+weapons/spike_nlos_default;Spike NLOS <color=#ff6f00>AGM-IR</color>
+weapons/spike_nlos_default/short;Spike NLOS
 
 //UNCATEGORIZED MISSILES
 
@@ -4947,8 +4955,6 @@ weapons/us_apkws_m282;AGR-20B Advanced Precision Kill Weapon System <color=#ff6f
 weapons/us_apkws_m282/short;AGR-20B
 weapons/il_gatr;Guided Advancted Tactical Rocket <color=#ff6f00>AGM-LG</color>
 weapons/il_gatr/short;GATR
-weapons/spike_er;Spike-ER air-to-ground missiles
-weapons/spike_er/short;Spike-ER
 weapons/tr_l_umtas_missile;L-UMTAS missile
 weapons/tr_l_umtas_missile/short;L-UMTAS
 weapons/cannonGSh_23L_upk_23_250_deafult;<color=@userlogColoredText>23 mm</color> 9-A-472-01 | GŠ-23L <color=#ff6f00>ACNN</color>

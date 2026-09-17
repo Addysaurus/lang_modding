@@ -90,6 +90,7 @@ All dates are listed in DD-MM-YYYY format.
     - Reworked the **B-57**s.
     - Updated the transliteration of the **9K37** vehicles.
     - Corrected all instances of the manufacturer Fore River Shipyard to the appropriate name for it for each vehicle based on the time period.
+    - Reworked the **LCM(6)(F) "Zippo"** monitor.
 
 ### Weaponry:
 

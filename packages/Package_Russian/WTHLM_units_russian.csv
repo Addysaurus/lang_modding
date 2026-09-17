@@ -12,6 +12,9 @@ ussr_ai_sam_radar_5n63s_2;Radar
 ussr_ai_sam_radar_9s18_0;Станция обнаружения и целеуказания 9С18 «Купол»
 ussr_ai_sam_radar_9s18_1;9С18
 ussr_ai_sam_radar_9s18_2;Radar
+ussr_ai_sam_radar_9s18m1_0;Станция обнаружения и целеуказания 9С18М1 «Купол-М1»
+ussr_ai_sam_radar_9s18m1_1;9С18М1
+ussr_ai_sam_radar_9s18m1_2;Radar
 ussr_ai_mlrs_9a52_2_smerch_0;Боевая машина 9А52-2 «Смерч-М»
 ussr_ai_mlrs_9a52_2_smerch_1;9А52-2
 ussr_ai_mlrs_9a52_2_smerch_2;MLRS
@@ -24,23 +27,46 @@ ussr_ai_sam_launcher_5p85se_2;SPAAM
 ussr_ai_sam_launcher_9a310_0;Самоходная огневая установка 9А310 «Бук»
 ussr_ai_sam_launcher_9a310_1;9А310
 ussr_ai_sam_launcher_9a310_2;SPAAM
-wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;КАМАЗ-4310
+ussr_ai_sam_launcher_9a310m1_0;Самоходная огневая установка 9А310М1 «Бук-М1»
+ussr_ai_sam_launcher_9a310m1_1;9А310М1
+ussr_ai_sam_launcher_9a310m1_2;SPAAM
+wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;Автомобиль КАМАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_1;КАМАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_2;Transport
+wheeled_vehicles/ussr_zil_131_awning_0;Автомобиль ЗиС-5
+wheeled_vehicles/ussr_zil_131_awning_1;ЗиС-5
+wheeled_vehicles/ussr_zil_131_awning_2;Truck
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_0;Автомобиль ЗиС-5
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_1;ЗиС-5
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_2;Truck
+wheeled_vehicles/ussr_zil_131_fuel_carrier_0;Бензозаправщик BZ-35
+wheeled_vehicles/ussr_zil_131_fuel_carrier_1;BZ-35
+wheeled_vehicles/ussr_zil_131_fuel_carrier_2;Fuel Tanker
 
 ships/ussr_aircraftcarrier_admiral_kuznetsov_shop;Адмирал Флота Советского Союза Кузнецов
 ships/ussr_aircraftcarrier_admiral_kuznetsov_0;"<color=#81c3fc>Черноморский судостроительный завод</color>
-<color=#fffa62>Тяжёлый Авианесущий Крейсер Проект 1143.5 Кречет</color>
+<color=#fffa62>Тяжёлый авианесущий крейсер проект 1143.5 Кречет</color>
 Адмирал Флота Советского Союза Кузнецов"
 ships/ussr_aircraftcarrier_admiral_kuznetsov_1;Адмирал Флота Советского Союза Кузнецов
-ships/ussr_aircraftcarrier_admiral_kuznetsov_2;Carrier
+ships/ussr_aircraftcarrier_admiral_kuznetsov_2;Aircraft Carrier
 
 ussr_aircraftcarrier_admiral_kuznetsov_shop;Адмирал Флота Советского Союза Кузнецов
 ussr_aircraftcarrier_admiral_kuznetsov_0;"<color=#81c3fc>Черноморский судостроительный завод</color>
-<color=#fffa62>Тяжёлый Авианесущий Крейсер Проект 1143.5 Кречет</color>
+<color=#fffa62>Тяжёлый авианесущий крейсер проект 1143.5 Кречет</color>
 Адмирал Флота Советского Союза Кузнецов"
 ussr_aircraftcarrier_admiral_kuznetsov_1;Адмирал Флота Советского Союза Кузнецов
-ussr_aircraftcarrier_admiral_kuznetsov_2;Carrier
+ussr_aircraftcarrier_admiral_kuznetsov_2;Aircraft Carrier
+
+ussr_aircraftcarrier_admiral_kuznetsov_ai_shop;Адмирал Флота Советского Союза Кузнецов
+ussr_aircraftcarrier_admiral_kuznetsov_ai_0;<color=#81c3fc>Черноморский судостроительный завод</color>
+<color=#fffa62>Тяжёлый авианесущий крейсер проект 1143.5 Кречет</color>
+Адмирал Флота Советского Союза Кузнецов"
+ussr_aircraftcarrier_admiral_kuznetsov_ai_1;Адмирал Флота Советского Союза Кузнецов
+ussr_aircraftcarrier_admiral_kuznetsov_ai_2;Aircraft Carrier
+
+ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_0;Тяжёлый авианесущий крейсер проект 1143.5 Кречет | Адмирал Флота Советского Союза Кузнецов
+ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_1;Адмирал Флота Советского Союза Кузнецов
+ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_2;Aircraft Carrier
 
 //USSR KILLSTREAK UNITS
 su_24m_killstreak_shop;☢ Су-24М2
@@ -56,6 +82,20 @@ su_24m_china_killstreak_0;"<color=#81c3fc>Компания «Сухой»</color
 ␗☢ Самолёт Су-24М2"
 su_24m_china_killstreak_1;␗☢ Су-24М
 su_24m_china_killstreak_2;␗☢ Су-24
+
+su_17m4_killstreak_shop;☢ Су-17М4
+su_17m4_killstreak_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина</color>
+<color=#5cae63>изд. С-54</color>
+☢ Самолёт Су-17М4"
+su_17m4_killstreak_1;☢ Су-17М
+su_17m4_killstreak_2;☢ Су-17
+
+su_17m4_china_killstreak_shop;☢␗ Су-17М4
+su_17m4_china_killstreak_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина</color>
+<color=#5cae63>изд. С-54</color>
+☢␗ Самолёт Су-17М4"
+su_17m4_china_killstreak_1;☢␗ Су-17М
+su_17m4_china_killstreak_2;☢␗ Су-17
 
 //USSR GROUPS
 shop/group/la_200_group;200 / Ла-15
@@ -189,6 +229,20 @@ mig_23mld_0;"<color=#81c3fc>Московское авиационное прои
 Самолёт МиГ-23МЛД"
 mig_23mld_1;МиГ-23МЛД
 mig_23mld_2;МиГ-23
+
+su_17m2_shop;Су-17М2
+su_17m2_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина</color>
+<color=#5cae63>изд. С-32М2</color>
+Самолёт Су-17М2"
+su_17m2_1;Су-17М2
+su_17m2_2;Су-17
+
+su_17m4_shop;Су-17М4
+su_17m4_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина</color>
+<color=#5cae63>изд. С-54</color>
+Самолёт Су-17М4"
+su_17m4_1;Су-17М
+su_17m4_2;Су-17
 
 nt_mig_23mld_shop;МиГ-23МЛД
 nt_mig_23mld_0;"<color=#81c3fc>Московское авиационное производственное объединение</color>
@@ -994,41 +1048,6 @@ cn_type_58_1;␗ 特34 (1960)
 cn_type_58_2;Medium Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
-cn_type_86_shop;ZBD86 (2020)
-cn_type_86_0;"<color=#81c3fc>Челябинский тракторный завод им. В. И. Ленина <color=@commonTextColor>/</color> Zhōngguó Bīngqì Gōngyè
-Jítuán Youxiàn Gōngsī</color>
-<color=#5cae63>WZ501</color>
-<color=#919191>1986 Nián Shì Lüdài Bùbīng Zhàn Chē</color>
-ZBD1986 Shì Lüdài Bùbīng Zhàn Chē
-<color=#adadad>(2020)</color>"
-cn_type_86_1;ZBD86
-cn_type_86_2;Light Tank
-
-cn_type_59_shop;ZTZ59
-cn_type_59_0;"<color=#81c3fc>Уральский вагоностроительный завод им. И. В. Сталина <color=@commonTextColor>/</color> Nèiménggu Dì Yī
-Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
-<color=#5cae63>WZ120</color>
-<color=#919191>1959 Nián Shì Zhōngxíng Tankè</color>
-ZTZ1959 Shì Zhōngxíng Tankè"
-cn_type_59_1;ZTZ59
-cn_type_59_2;Medium Tank
-
-cn_ztz_59a_shop;ZTZ59A
-cn_ztz_59a_0;"<color=#81c3fc>Уральский вагоностроительный завод им. И. В. Сталина <color=@commonTextColor>/</color> Nèiménggu Dì Yī
-Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
-<color=#5cae63>WZ120A</color>
-<color=#919191>1959 Nián 1 Shì Zhōngxíng Tankè</color>
-ZTZ1959A Shì Zhōngxíng Tankè"
-cn_ztz_59a_1;ZTZ59
-cn_ztz_59a_2;Medium Tank
-
-cn_type_59d_shop;ZTZ59D1
-cn_type_59d_0;"<color=#81c3fc>Уральский вагоностроительный завод им. И. В. Сталина <color=@commonTextColor>/</color> Nèiménggu Dì Yī
-Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
-<color=#5cae63>WZ120C</color>
-ZTZ1959D1 Shì Zhōngxíng Tankè"
-cn_type_59d_1;ZTZ59
-cn_type_59d_2;Medium Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 cn_t_62_shop;Т-62

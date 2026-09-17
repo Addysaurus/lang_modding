@@ -86,6 +86,10 @@ All dates are listed in DD-MM-YYYY format.
     - Fixed several typos.
     - Corrected the grammar and transliteration of the **Mi-35P**.
     - Added the missing refit year to **Yūgure (DD-184)** (it had the refit location but not the year).
+    - Reworked the **Su-17**s.
+    - Reworked the **B-57**s.
+    - Updated the transliteration of the **9K37** vehicles.
+    - Corrected all instances of the manufacturer Fore River Shipyard to the appropriate name for it for each vehicle based on the time period.
 
 ### Weaponry:
 

@@ -169,8 +169,11 @@ weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color>
 weapons/ato_41_flamethrower;Avtomatičyeskij tankovyj ognyemyet ATO-41 <color=#ff6f00>FLM</color>
 
 //UK GUNS
-weapons/7_62mm_ss77_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Denel Land Systems General Purpose Machine Gun SS77 Mk1 <color=#ff6f00>MG</color>
-weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Denel Land Systems Linkless CamGun EMAK 30 | GI-30 <color=#ff6f00>ACNN</color>
+weapons/7_62mm_ss77_user_machinegun;<color=@userlogColoredText>7.62 mm</color> SS77 Mk 1 General Purpose Machine Gun <color=#ff6f00>MG</color>
+weapons/7_62mm_FN_MAG58_200_user_machinegun;<color=@userlogColoredText>7.62 mm</color> General Support Machine Gun, 7.62 mm, MAG 58 <color=#ff6f00>MG</color>
+weapons/7_92mm_besa_naval_user_machinegun;<color=@userlogColoredText>7.92 mm</color> Gun, Machine, Besa, 7.92-mm, Mk. III* <color=#ff6f00>MG</color>
+weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Denel Land Systems Linkless CamGun EMAK 30 | GI30 <color=#ff6f00>ACNN</color>
+weapons/40mm_50_2pdr_qf_mk9_naval_user_cannon;<color=@userlogColoredText>40 mm</color> Ordnance, Q.F., 2-pr., Mk. IX <color=#ff6f00>ACNN</color>
 weapons/102mm_45_4in_qf_mark16_21_aa_naval_user_cannon;"Mounting, H.A., Twin, Mk. XIX
 • <color=@userlogColoredText>102 mm</color> Gun, Q.F., 4-inch, Mk. XVI <color=#ff6f00>CNN</color>"
 weapons/102mm_45_4in_qf_mark16_21_naval_user_cannon;"Mounting, H.A., Twin, Mk. XIX
@@ -339,6 +342,7 @@ weapons/100mm_45_mle_1930_naval_user_cannon/short;Canon de 100 mm/45 mle. 1930
 weapons/100mm_45_mle_1933_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1933 <color=#ff6f00>CNN</color>
 weapons/100mm_45_mle_1933_naval_user_cannon/short;Canon de 100 mm/45 mle. 1933
 weapons/100mm_55_mle_1945_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1945 <color=#ff6f00>CNN</color>
+weapons/105mm_L7A3_leopard_1a5be_user_cannon;<color=@userlogColoredText>105 mm</color> Kanon 105 mm L7A3 <color=#ff6f00>CNN</color>
 weapons/120mm_giat_cn120_26_f1_msc_user_cannon;<color=@userlogColoredText>120 mm</color> CN120-26/52 F1 <color=#ff6f00>CNN</color>
 weapons/138mm_40_model_1923_naval_user_cannon;<color=@userlogColoredText>138.6 mm</color> Canon de 138 mm/40 modèle 1923 <color=#ff6f00>CNN</color>
 weapons/138mm_40_model_1923_naval_user_cannon/short;Canon de 138 mm/40 mle. 1923

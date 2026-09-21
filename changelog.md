@@ -18,7 +18,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.19.00 - UNRELEASED
+## 1.19.00 - 21-09-2026
 
 ### Vehicles:
 
@@ -30,6 +30,7 @@ All dates are listed in DD-MM-YYYY format.
     - Implemented the French ground rework. This reworks every single French ground vehicle in the entire game (enjoy your S.O.M.U.A. 50t smh my head).
     - Implemented the German naval rework. This reworks every single German naval vehicle in the coastal and bluewater fleet trees.
     - Added new Greek and Greek + Russian packages for the new Greek vehicles. Special thanks to Minna for helping with Greek research and correcting my mistakes since I don't speak Greek.
+    - All Belgian vehicles have been reworked. The default mod language is Flemish, and a Walloon addon package has been added so you can choose between Walloon and Flemish for Belgian vehicles since both are equally official.
     - Minor manufacturer pass on earlier Chinese vehicles.
     - Added a giant amount of previous names to vehicles with the new multiline statcards, especially to pre-1988 Chinese ground vehicles.
     - Added a lot of project names to vehicles with the new multiline statcards.

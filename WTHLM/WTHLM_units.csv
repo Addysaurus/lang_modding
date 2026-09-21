@@ -18693,7 +18693,7 @@ maryland_mk1_france_2;Martin 167
 
 gladiator_mk1_belgium_shop;▄ Gladiator Mk. I
 gladiator_mk1_belgium_0;"<color=#81c3fc>Gloster Aircraft Company SS.37</color>
-▄ Gladiator Mk. I"
+▄ Gladiator Mk. I-vliegtuig"
 gladiator_mk1_belgium_1;▄ Gladiator Mk. I
 gladiator_mk1_belgium_2;▄ Gladiator
 
@@ -18796,6 +18796,11 @@ yak-9t_france_0;"☨ Âk-9T
 yak-9t_france_1;☨ Âk-9T
 yak-9t_france_2;☨ Âk-9
 
+p-39q_25_france_shop;☨ P-39Q-25
+p-39q_25_france_0;☨ P-39Q-25 Airacobra
+p-39q_25_france_1;☨ P-39Q
+p-39q_25_france_2;☨ P-39
+
 sb_25j_netherlands_shop;◘ B-25K
 sb_25j_netherlands_0;"<color=#81c3fc>North American Aviation NA-108</color>
 ◘ B-25K Mitchell"
@@ -18823,7 +18828,7 @@ pb4y-2_france_2;☨ PB4Y
 
 spitfire_fr_mk14e_belgium_shop;▄ Spitfire L.F. Mk. XIV (e)
 spitfire_fr_mk14e_belgium_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 379</color>
-▄ Spitfire L.F. Mk. XIV (e)"
+▄ Spitfire L.F. Mk. XIV (e)-vliegtuig"
 spitfire_fr_mk14e_belgium_1;▄ Spitfire L.F. Mk. XIV
 spitfire_fr_mk14e_belgium_2;▄ Spitfire
 
@@ -18861,7 +18866,7 @@ se_203_2;Aquilon
 
 meteor_fmk8_belgium_shop;▄ Meteor F. Mk. 8
 meteor_fmk8_belgium_0;"<color=#81c3fc>Gloster Aircraft Company G.41K <color=@commonTextColor>/</color> Avions Fairey</color>
-▄ Meteor F. Mk. 8"
+▄ Meteor F. Mk. 8-vliegtuig"
 meteor_fmk8_belgium_1;▄ Meteor F. Mk. 8
 meteor_fmk8_belgium_2;▄ Meteor
 
@@ -18910,11 +18915,10 @@ Mirage 5 F"
 mirage_5f_1;Mirage 5 F
 mirage_5f_2;Mirage
 
-mirage_5ba_shop;▄ Mirage 5 BA
-mirage_5ba_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@commonTextColor>/</color> Sociétés Anonyme Belge
-de Constructions Aéronautiques</color>
-▄ Mirage 5 BA"
-mirage_5ba_1;▄ Mirage 5 BA
+mirage_5ba_shop;▄ Mirage M5 BA
+mirage_5ba_0;"<color=#81c3fc>Sociétés anonyme belge de constructions aéronautiques</color>
+▄ Mirage M5 BA-vliegtuig"
+mirage_5ba_1;▄ Mirage M5 BA
 mirage_5ba_2;▄ Mirage
 
 mirage_f1c_shop;Mirage F1 C
@@ -18952,6 +18956,13 @@ jaguar_e_0;"<color=#81c3fc>SEPECAT Jaguar E</color>
 ☨ Jaguar Type E"
 jaguar_e_1;☨ Jaguar E
 jaguar_e_2;☨ Jaguar
+
+f-104g_belgium_shop;▄ F-104G
+f-104g_belgium_0;"<color=#81c3fc>Lockheed Corporation Model 683-10-19 <color=@commonTextColor>/</color> Sociétés anonyme belge de
+constructions aéronautiques</color>
+▄ F-104G Starfighter-vliegtuig"
+f-104g_belgium_1;▄ F-104G
+f-104g_belgium_2;▄ F-104
 
 nf_5a_netherlands_shop;◘ NF-5A
 nf_5a_netherlands_0;"<color=#81c3fc>Northrop Corporation N-156 <color=@commonTextColor>/</color> Canadair CL-226-1A10</color>
@@ -18999,16 +19010,14 @@ mirage_4000_1;Mirage 4000
 mirage_4000_2;Mirage 4000
 
 f_16a_block_15_belgium_shop;▄ F-16A-15-CF
-f_16a_block_15_belgium_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Sociétés Anonyme Belge de
-Constructions Aéronautiques</color>
-▄ F-16A-15-CF Fighting Falcon"
+f_16a_block_15_belgium_0;"<color=#81c3fc>Sociétés anonyme belge de constructions aéronautiques</color>
+▄ F-16A-15-CF Fighting Falcon-vliegtuig"
 f_16a_block_15_belgium_1;▄ F-16A
 f_16a_block_15_belgium_2;▄ F-16
 
 f_16am_block_15_mlu_belgium_shop;▄ F-16AM-20-CF
-f_16am_block_15_mlu_belgium_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Sociétés Anonyme Belge de
-Constructions Aéronautiques</color>
-▄ F-16AM-20-CF Fighting Falcon"
+f_16am_block_15_mlu_belgium_0;"<color=#81c3fc>Sociétés anonyme belge de constructions aéronautiques</color>
+▄ F-16AM-20-CF Fighting Falcon-vliegtuig"
 f_16am_block_15_mlu_belgium_1;▄ F-16AM
 f_16am_block_15_mlu_belgium_2;▄ F-16
 
@@ -19020,9 +19029,8 @@ f_16a_block_5_netherlands_1;◘ F-16A
 f_16a_block_5_netherlands_2;◘ F-16
 
 f_16a_block_15_ocu_belgium_shop;▄ F-16A-15OCU-CF
-f_16a_block_15_ocu_belgium_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Sociétés Anonyme Belge de
-Constructions Aéronautiques</color>
-▄ F-16A-15OCU-CF Fighting Falcon"
+f_16a_block_15_ocu_belgium_0;"<color=#81c3fc>Sociétés anonyme belge de constructions aéronautiques</color>
+▄ F-16A-15OCU-CF Fighting Falcon-vliegtuig"
 f_16a_block_15_ocu_belgium_1;▄ F-16A
 f_16a_block_15_ocu_belgium_2;▄ F-16
 
@@ -19034,9 +19042,8 @@ f_16am_block_20_mlu_netherlands_1;◘ F-16A
 f_16am_block_20_mlu_netherlands_2;◘ F-16
 
 f_16am_block_15_mlu_fs_belgium_shop;▄ F-16AM-20-CF (1re Esc.)
-f_16am_block_15_mlu_fs_belgium_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Sociétés Anonyme Belge de
-Constructions Aéronautiques</color>
-▄ F-16AM-20-CF Fighting Falcon
+f_16am_block_15_mlu_fs_belgium_0;"<color=#81c3fc>Sociétés anonyme belge de constructions aéronautiques</color>
+▄ F-16AM-20-CF Fighting Falcon-vliegtuig
 <color=@currencyGoldColor>1re Escadrille ""Stingers""</color>"
 f_16am_block_15_mlu_fs_belgium_1;▄ F-16A
 f_16am_block_15_mlu_fs_belgium_2;▄ F-16
@@ -19656,7 +19663,7 @@ fr_vbci2_mct30_2;IFV
 
 fr_leopard_1a5be_shop;▄ Leopard 1 A5 BE
 fr_leopard_1a5be_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
-▄ Leopard 1 A5 BE"
+▄ Leopard 1 A5 BE-tank"
 fr_leopard_1a5be_1;▄ Leopard 1 A5
 fr_leopard_1a5be_2;MBT
 
@@ -22414,10 +22421,6 @@ f-104g_italy_shop;⛨ F-104G
 f-104g_italy_0;⛨ F-104G Starfighter
 f-104g_italy_1;⛨ F-104G
 f-104g_italy_2;⛨ F-104
-f-104g_belgium_shop;▄ F-104G
-f-104g_belgium_0;▄ F-104G Starfighter
-f-104g_belgium_1;▄ F-104G
-f-104g_belgium_2;▄ F-104
 f-8e_fn_shop;☨ F-8E(FN)
 f-8e_fn_0;☨ F-8E(FN) Crusader
 f-8e_fn_1;☨ F-8E

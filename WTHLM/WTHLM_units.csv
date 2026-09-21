@@ -1397,6 +1397,36 @@ uk_aircraftcarrier_ark_royal_0;HMS Ark Royal (R 09)
 uk_aircraftcarrier_ark_royal_1;HMS Ark Royal
 uk_aircraftcarrier_ark_royal_2;Carrier
 
+uk_aircraftcarrier_ark_royal_shop;HMS Ark Royal (R 09)
+uk_aircraftcarrier_ark_royal_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Devonport Dockyard</color>
+<color=#fffa62>Audacious-class</color>
+HMS Ark Royal (R 09)
+<color=#adadad>(1967)</color>"
+uk_aircraftcarrier_ark_royal_1;HMS Ark Royal
+uk_aircraftcarrier_ark_royal_2;Aircraft Carrier
+
+uk_aircraftcarrier_ark_royal_ai_shop;HMS Ark Royal (R 09)
+uk_aircraftcarrier_ark_royal_ai_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Devonport Dockyard</color>
+<color=#fffa62>Audacious-class</color>
+HMS Ark Royal (R 09)
+<color=#adadad>(1967)</color>"
+uk_aircraftcarrier_ark_royal_ai_1;HMS Ark Royal
+uk_aircraftcarrier_ark_royal_ai_2;Aircraft Carrier
+
+uk_aircraftcarrier_illustrious_shop;HMS Illustrious (87)
+uk_aircraftcarrier_illustrious_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+<color=#fffa62>Illustrious-class</color>
+HMS Illustrious (87)"
+uk_aircraftcarrier_illustrious_1;HMS Illustrious
+uk_aircraftcarrier_illustrious_2;Aircraft Carrier
+
+uk_aircraftcarrier_illustrious_ai_shop;HMS Illustrious (87)
+uk_aircraftcarrier_illustrious_ai_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+<color=#fffa62>Illustrious-class</color>
+HMS Illustrious (87)"
+uk_aircraftcarrier_illustrious_ai_1;HMS Illustrious
+uk_aircraftcarrier_illustrious_ai_2;Aircraft Carrier
+
 ships/jp_aircraftcarrier_shokaku_ai_0;Shōkaku Gata Kōkū Bokan (G-11) | Shōkaku 
 ships/jp_aircraftcarrier_shokaku_ai_1;Shōkaku
 ships/jp_aircraftcarrier_shokaku_ai_2;Aircraft Carrier
@@ -3667,7 +3697,7 @@ f_16c_block_52_aesa_2;F-16
 
 f_16xl_shop;F-16XL-1
 f_16xl_0;"<color=#81c3fc>General Dynamics Corporation F-16XL</color>
-<color=#ff8c80>Enhanced Tactical Fighter</color>
+<color=#ff8c80>Dual-Role Fighter</color>
 F-16XL-1 Fighting Falcon"
 f_16xl_1;F-16XL
 f_16xl_2;F-16
@@ -3693,7 +3723,7 @@ f_15c_golden_eagle_2;F-15
 
 f_15e_shop;F-15E-43-MC
 f_15e_0;"<color=#81c3fc>McDonnell Douglas Corporation</color>
-<color=#ff8c80>Enhanced Tactical Fighter</color>
+<color=#ff8c80>Dual-Role Fighter</color>
 F-15E-43-MC Strike Eagle"
 f_15e_1;F-15E
 f_15e_2;F-15
@@ -6678,9 +6708,10 @@ mi_24p_german_hfs80_1;◄ Mi-24P
 mi_24p_german_hfs80_2;◄ Mi-24P
 
 //GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 7
-h145m_shop;◄ H145M LKH
-h145m_0;"<color=#81c3fc>Airbus Helicopters Deutschland H145M </color>
-◄ H145M leichter Kampfhubschrauber"
+h145m_shop;◄ H145M LUH SOF (HForce)
+h145m_0;"<color=#81c3fc>Airbus Helicopters Deutschland H145M D2 </color>
+◄ H145M Light Utility Helicopter Special Operations Forces
+<color=#adadad>(HForce)</color>"
 h145m_1;◄ H145M
 h145m_2;◄ H145
 

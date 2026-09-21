@@ -71,7 +71,9 @@ Available packages:
   - Ukrainian:
     - This package puts Ukrainian vehicles and weapons into Ukrainian.
   - Thai + Ukrainian:
-    - This package corrects crossover between the Thai and Ukrainian packages, allowing you to have Thai and Ukrainian running together in crossover cases (e.g. the long name of the Th.Hlạk 57).
+    - This package corrects crossover between the Thai and Ukrainian packages, allowing you to have Thai and Ukrainian running together in crossover cases (e.g. the long name of the Th.Lak 57).
+  - Walloon:
+    - This package puts Belgian vehicles into Walloon as an alternative to the default Flemish.
 - Other packages:
   - Full Ammunition Names:
     - This package introduces the full names of ammunition that may be too long to be convenient for use.

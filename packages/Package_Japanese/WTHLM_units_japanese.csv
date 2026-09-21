@@ -33,6 +33,19 @@ shop/group/jp_type_81_tansam_fcs_group;81式 (C)
 shop/group/jp_type_03_chusam_fcs_group;03式
 shop/group/jp_cruiser_furutaka_aoba_group;古鷹 / 青葉
 
+//AI UNITS
+ships/jp_aircraftcarrier_shokaku_ai_0;翔鶴型航空母艦 (G-11) | 翔鶴
+ships/jp_aircraftcarrier_shokaku_ai_1;翔鶴
+ships/jp_aircraftcarrier_shokaku_ai_2;Aircraft Carrier
+
+jp_aircraftcarrier_shokaku_ai_shop;翔鶴
+jp_aircraftcarrier_shokaku_ai_0;"<color=#81c3fc>横須賀海軍工廠</color>
+<color=#5cae63>G-11</color>
+<color=#fffa62>翔鶴型航空母艦</color>
+翔鶴"
+jp_aircraftcarrier_shokaku_ai_1;翔鶴
+jp_aircraftcarrier_shokaku_ai_2;Aircraft Carrier
+
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
 f1m2_0;"<color=#81c3fc>三菱重工業</color>

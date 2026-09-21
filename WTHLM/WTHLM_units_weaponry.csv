@@ -3,6 +3,7 @@
 caliber/mm_decimals;%s mm
 missile/guidance/ARH+IOG+GNSS+DL;ARH + IOG + GNSS + DL
 missile/guidance/ir+IOG+GNSS+DL;IR + IOG + GNSS + DL
+missile/guidance/ARH+IOG+GNSS;ARH + IOG + GNSS
 turret_universal/name;%s mm turret ammunition belt with AP and T shells
 turret_universal/name/short;AP/T
 radar_predicted_missiles;Missiles shown
@@ -14,19 +15,28 @@ weapons/purposeType/AIR_TO_RADAR;To hit radio-emitting targets
 weapons/purposeType/UNIVERSAL;Multi-purpose weapon
 weapons/purposeType/FAVORITE;Favorite weapon
 weapons/purposeType/CUSTOM;User weapon
+missile/rangeGate;Range gate
+missile/speedGate;Speed gate
+light_targets/name;%s mm ammunition belt for light armor targets
+light_targets/name/short;Light armor targets
 
 //SHELL TYPES
 apds_sabot;APDS Sabot
 apfsds_sabot;APFSDS Sabot
 ahead/name;Shrapnel shell with time fuze
 ahead/name/short;AHEAD
+sap_hei_t_m_pzgr/name;Semi armor-piercing high-explosive incendiary tracers shell M-PzGr
+sap_hei_t_m_pzgr/name/short;SAPHEI-T
 
 //USA GUNS
 weapons/7_62mm_M1919A4_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, M1919A4, Heavy Barrel <color=#ff6f00>MG</color>
 weapons/7_62mm_M1919A4E1_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, M1919A4E1 <color=#ff6f00>MG</color>
 weapons/gunBrowning30_usaaf;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning30_usaaf/short;AN/M2
 weapons/gunBrowning30_usaaf_1935;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning30_usaaf_1935/short;AN/M2
 weapons/gunBrowning30_turret;<color=@userlogColoredText>7.62 mm</color> Machine Gun, Caliber .30, Browning, AN/M2, Aircraft, Flexible <color=#ff6f00>MG</color>
+weapons/gunBrowning30_turret/short;AN/M2
 weapons/gunM134_Minigun;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M134 <color=#ff6f00>MG</color>
 weapons/gunM134_Minigun/short;M134
 weapons/gunM134_Minigun_default;<color=@userlogColoredText>7.62 mm</color> Machine Gun, 7.62mm, M134 <color=#ff6f00>MG</color>
@@ -40,20 +50,35 @@ weapons/12_7mm_M2_HB_user_machinegun_for_M15;<color=@userlogColoredText>12.7 mm<
 weapons/12_7mm_exo_M2_HB_user_machinegun;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/12_7mm_M2_HB_user_machinegun_for_chaffee;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, M2, Heavy Barrel, Flexible <color=#ff6f00>MG</color>
 weapons/gunBrowning50_early;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_early/short;AN/M2
 weapons/gunBrowning50_early_1935;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_early_1935/short;AN/M2
 weapons/gunBrowning50_M2;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M2/short;AN/M2
 weapons/gunBrowning50_M2_late;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M2_late/short;AN/M2
 weapons/gunBrowning50_M2_underwing;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M2_underwing/short;AN/M2
+weapons/gunbrowning50_m2_underwing;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunbrowning50_m2_underwing/short;AN/M2
 weapons/gunBrowning50;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50/short;AN/M2
 weapons/gunBrowning50_raf;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_raf/short;AN/M2
 weapons/gunBrowning50_raf_tutorial;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
 weapons/gunBrowning50_raf_tutorial/short;AN/M2
 weapons/gunBrowning50_raf_turret;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_raf_turret/short;AN/M2
 weapons/gunBrowning50_usaaf;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_usaaf/short;AN/M2
 weapons/gunBrowning50_turret;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Flexible With Fixed Back Plate <color=#ff6f00>MG</color>
+weapons/gunBrowning50_turret/short;AN/M2
 weapons/gunBrowning50_turret_late;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Flexible With Fixed Back Plate <color=#ff6f00>MG</color>
+weapons/gunBrowning50_turret_late/short;AN/M2
 weapons/gunBrowning50_M3;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M3, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M3/short;AN/M3
 weapons/gunBrowning50_M3_underwing;<color=@userlogColoredText>12.7 mm</color> Machine Gun, Caliber .50, Browning, AN/M3, Aircraft, Fixed <color=#ff6f00>MG</color>
+weapons/gunBrowning50_M3_underwing/short;AN/M3
 weapons/cannonM61;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61 Vulcan <color=#ff6f00>RCNN</color>
 weapons/cannonM61/short;M61
 weapons/cannonM61A1;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A1 Vulcan <color=#ff6f00>RCNN</color>
@@ -71,6 +96,7 @@ weapons/20mm_m61_vulcan_naval_user_cannon/short;M61A1
 weapons/cannonM61A2;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M61A2 Vulcan <color=#ff6f00>RCNN</color>
 weapons/cannonM61A2/short;M61A2
 weapons/cannonXM301l;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, XM301 <color=#ff6f00>RCNN</color>
+weapons/cannonXM301/short;XM301
 weapons/30mm_Bushmaster_2_Mk_44_efv_p1_user_cannon;30 mm Bushmaster 2 Mk.44 Mod.1 cannon
 weapons/30mm_xm_813_user_cannon;<color=@userlogColoredText>30 mm</color> Cannon, 30mm, XM813 <color=#ff6f00>ACNN</color>
 weapons/75mm_XM274_Ares_user_cannon;<color=@userlogColoredText>75 mm</color> 75mm Advanced Design Mobility and Agility Gun System <color=#ff6f00>CNN</color>
@@ -102,6 +128,7 @@ weapons/20mm_mg151_20_mid_drilling_user_cannon;<color=@userlogColoredText>20 mm<
 weapons/20mm_mg151_20_out_drilling_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Maschinengewehr 151 Ausf. S <color=#ff6f00>ACNN</color>
 weapons/20mm_FlaK38_wirbelwind_user_cannon;<color=@userlogColoredText>20 mm</color> 2cm Flugabwehrkanone-Zwilling 38 <color=#ff6f00>ACNN</color>
 weapons/cannonHispano804;<color=@userlogColoredText>20 mm</color> Cañón de 20 mm DCA-804 <color=#ff6f00>ACNN</color>
+weapons/cannonHispano804/short;DCA-804
 weapons/cannonFlzKan_76;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug Kanone 76 <color=#ff6f00>ACNN</color>
 weapons/cannonFlzKan_76/short;Flz.Kan. 76
 weapons/cannonM61A2_switzerland;<color=@userlogColoredText>20 mm</color> 20mm Flugzeug Kanone 92 <color=#ff6f00>RCNN</color>
@@ -152,7 +179,8 @@ weapons/cannonGSh_6_23M_gun_pod_turret/short;GŠ-6-23M
 weapons/30mm_AG_30_user_cannon;<color=@userlogColoredText>30 mm</color> 30-mm Avtomatičyeskij granatomyetnyj komplyeks AGS-30M.00.000 <color=#ff6f00>LCH-GRN</color>
 weapons/57mm_ak_157_naval_user_cannon;"Artillyerijskaâ ustanovka AK-157
 • <color=@userlogColoredText>57 mm</color> 57-mm Odnoorudijnaâ palubnaâ ustanovka ZiF-71 <color=#ff6f00>ACNN</color>"
-weapons/57mm_ak_157_naval_user_cannon/short;ЗиФ-71
+weapons/57mm_ak_157_naval_user_cannon/short;ZiF-71
+weapons/100mm_D10T_416_user_cannon;<color=@userlogColoredText>100-mm prot'ivotankovaya pushka M-63 <color=#ff6f00>CNN</color>
 weapons/100mm_2A70_BMP_autoloader_user_cannon;<color=@userlogColoredText>100 mm</color> 2A70 <color=#ff6f00>CNN</color>
 weapons/125mm_2A46_M5_t_90m_user_cannon;<color=@userlogColoredText>125 mm</color> 125-mm tankovaâ puška 2A46M-5 <color=#ff6f00>CNN</color>
 weapons/125mm_2A46_M5_T_90A_user_cannon;<color=@userlogColoredText>125 mm</color> 125-mm tankovaâ puška 2A46M-5 <color=#ff6f00>CNN</color>
@@ -168,21 +196,27 @@ weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color>
 weapons/ato_41_flamethrower;Avtomatičyeskij tankovyj ognyemyet ATO-41 <color=#ff6f00>FLM</color>
 
 //UK GUNS
-weapons/7_62mm_ss77_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Denel Land Systems General Purpose Machine Gun SS77 Mk1 <color=#ff6f00>MG</color>
-weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Denel Land Systems Linkless CamGun EMAK 30 | GI-30 <color=#ff6f00>ACNN</color>
+weapons/7_62mm_ss77_user_machinegun;<color=@userlogColoredText>7.62 mm</color> SS77 Mk 1 General Purpose Machine Gun <color=#ff6f00>MG</color>
+weapons/7_62mm_FN_MAG58_200_user_machinegun;<color=@userlogColoredText>7.62 mm</color> General Support Machine Gun, 7.62 mm, MAG 58 <color=#ff6f00>MG</color>
+weapons/7_92mm_besa_naval_user_machinegun;<color=@userlogColoredText>7.92 mm</color> Gun, Machine, Besa, 7.92-mm, Mk. III* <color=#ff6f00>MG</color>
+weapons/30mm_denel_gi30_user_cannon;<color=@userlogColoredText>30 mm</color> Denel Land Systems Linkless CamGun EMAK 30 | GI30 <color=#ff6f00>ACNN</color>
+weapons/40mm_50_2pdr_qf_mk9_naval_user_cannon;<color=@userlogColoredText>40 mm</color> Ordnance, Q.F., 2-pr., Mk. IX <color=#ff6f00>ACNN</color>
 weapons/102mm_45_4in_qf_mark16_21_aa_naval_user_cannon;"Mounting, H.A., Twin, Mk. XIX
 • <color=@userlogColoredText>102 mm</color> Gun, Q.F., 4-inch, Mk. XVI <color=#ff6f00>CNN</color>"
 weapons/102mm_45_4in_qf_mark16_21_naval_user_cannon;"Mounting, H.A., Twin, Mk. XIX
 • <color=@userlogColoredText>102 mm</color> Gun, Q.F., 4-inch, Mk. XVI <color=#ff6f00>CNN</color>"
 weapons/105mm_LRF_user_cannon;<color=@userlogColoredText>105 mm</color> Royal Ordnance Nottingham + Cadillac Gage 105 mm Low Recoil Force Tank Gun <color=#ff6f00>CNN</color>
-weapons/120mm_45_qf_mk9_single_naval_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, Q.F., 4.7-inch, Mk. IX <color=#ff6f00>CNN</color>
+weapons/120mm_45_qf_mk9_single_naval_user_cannon;<color=@userlogColoredText>120 mm</color> Ordnance, Q.F., 4.7-inch, Mk. IX <color=#ff6f00>CNN</color>
 weapons/120mm_L30A1_user_cannon;<color=@userlogColoredText>120 mm</color> Ordnance, B.L., 120 mm, Tk., L30A1 <color=#ff6f00>CNN</color>
 weapons/120mm_L30A1_2e_user_cannon;<color=@userlogColoredText>120 mm</color> Ordnance, B.L., 120 mm, Tk., L30A1 <color=#ff6f00>CNN</color>
 weapons/120mm_arjun_mk1_user_cannon;<color=@userlogColoredText>120 mm</color> 120 mm Ordnance TK Gun Mk III <color=#ff6f00>CNN</color>
-weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredText>133 mm</color> Gun, Q.F., 5.25-inch, Mk. I <color=#ff6f00>CNN</color>
+weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;<color=@userlogColoredText>133 mm</color> Ordnance, Q.F., 5.25-inch, Mk. I <color=#ff6f00>CNN</color>
 weapons/155mm_L_31_user_cannon;<color=@userlogColoredText>155 mm</color> Ordnance, 155mm, L31A1 <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_L_39_user_cannon;<color=@userlogColoredText>155 mm</color> Ordnance, 155mm, L22 <color=#ff6f00>CNN-HWZ</color>
-weapons/356mm_45_14inch_mark7_naval_user_cannon;<color=@userlogColoredText>356 mm</color> Gun, B.L., 14-inch, Mk. VII <color=#ff6f00>CNN</color>
+weapons/356mm_45_14inch_mark7_naval_user_cannon;<color=@userlogColoredText>356 mm</color> Ordnance, B.L., 14-inch, Mk. VII <color=#ff6f00>CNN</color>
+weapons/406mm_45_bl_mk1_r1_naval_user_cannon;<color=@userlogColoredText>406 mm</color> Ordnance, B.L., 16-inch, Mk. I <color=#ff6f00>CNN</color>
+weapons/406mm_45_bl_mk1_r2_naval_user_cannon;<color=@userlogColoredText>406 mm</color> Ordnance, B.L., 16-inch, Mk. I <color=#ff6f00>CNN</color>
+weapons/406mm_45_bl_mk2_naval_user_cannon;<color=@userlogColoredText>406 mm</color> Ordnance, B.L., 16-inch, Mk. II <color=#ff6f00>CNN</color>
 
 //JAPAN GUNS
 weapons/7_62mm_sm2_v1_user_machinegun;<color=@userlogColoredText>7.62 mm</color> Senapan Mesin Serbaguna SM2-V2 Kaliber 7,62mm <color=#ff6f00>MG</color>
@@ -190,17 +224,37 @@ weapons/cannonJM61A2;<color=@userlogColoredText>20 mm</color> JM61A2 <color=#ff6
 weapons/cannonJM61A2/short;JM61A2
 weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Miri Kōsha Kikanhō <color=#ff6f00>ACNN</color>
 weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 98 Shiki 20 Miri Kōsha Kikanhō <color=#ff6f00>ACNN</color>
-weapons/cannonType99;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 1 Gō Kotei Kijū 3 Gata <color=#ff6f00>ACNN</color>
-weapons/cannonType99_turret;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 1 Gō Kotei Kijū 3 Gata <color=#ff6f00>ACNN</color>
-weapons/cannonType99Mk2;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 2 Gō Kotei Kijū 4 Gata <color=#ff6f00>ACNN</color>
+weapons/cannonType99;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 1 Gō Kotei Kijū 2 Gata <color=#ff6f00>ACNN</color>
+weapons/cannonType99/short;99 Shiki 1 Gō 2 Gata
+weapons/cannonType99_turret;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 1 Gō Senkai Kijū 11 Gata <color=#ff6f00>ACNN</color>
+weapons/cannonType99_turret/short;99 Shiki 1 Gō 11 Gata
+weapons/cannonType99mark3;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 1 Gō Kotei Kijū 3 Gata <color=#ff6f00>ACNN</color>
+weapons/cannonType99mark3/short;99 Shiki 1 Gō 3 Gata
+weapons/cannonType99mark4;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 1 Gō Kotei Kijū 4 Gata <color=#ff6f00>ACNN</color>
+weapons/cannonType99mark4/short;99 Shiki 1 Gō 3 Gata
 weapons/cannonType99Mod2_mark3_turret;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 2 Gō Kotei Kijū 3 Gata <color=#ff6f00>ACNN</color>
+weapons/cannonType99Mk2;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 2 Gō Kotei Kijū 4 Gata <color=#ff6f00>ACNN</color>
+weapons/cannonType99Mk2/short;99 Shiki 2 Gō 4 Gata
+weapons/cannonType99Mk2_Kai;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 2 Gō Kotei Kijū 4 Gata Kai <color=#ff6f00>ACNN</color>
+weapons/cannonType99Mk2_Kai/short;99 Shiki 2 Gō 4 Gata Kai
 weapons/cannonType99Mod2_mark5_turret;<color=@userlogColoredText>20 mm</color> 99 Shiki 20 Miri 2 Gō Kotei Kijū 5 Gata <color=#ff6f00>ACNN</color>
+weapons/cannonType99Mod2_mark5_turret/short;99 Shiki 2 Gō 5 Gata
 weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Miri Kotei Kijū <color=#ff6f00>ACNN</color>
+weapons/cannonType5/short;5 Shiki
 weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 5 Shiki 30 Miri Kotei Kijū <color=#ff6f00>ACNN</color>
+weapons/cannonType5_external/short;5 Shiki
 weapons/30mm_ztm1_BTR_user_cannon;<color=@userlogColoredText>30 mm</color> 30-mm avtomatična harmata ZTM-1 <color=#ff6f00>ACNN</color>
 weapons/30mm_AG_17_user_cannon;<color=@userlogColoredText>30 mm</color> 30-mm avtomatičnij hranatomyet KBA-117 <color=#ff6f00>LCH-GRN</color>
+weapons/cannonHo155;<color=@userlogColoredText>30 mm</color> Ho 155-I <color=#ff6f00>ACNN</color>
+weapons/cannonHo155/short;Ho 155-I
+weapons/cannonHo155-II;<color=@userlogColoredText>30 mm</color> Ho 155-II <color=#ff6f00>ACNN</color>
+weapons/cannonHo155-II/short;Ho 155-II
 weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 94 Shiki 37 Miri Sensha Hō <color=#ff6f00>CNN</color>
 weapons/47mm_Type1_user_cannon;<color=@userlogColoredText>47 mm</color> 1 Shiki 47 Miri Sensha Hō <color=#ff6f00>CNN</color>
+weapons/cannonType88;"<color=@userlogColoredText>57 mm</color> ""Ki 109"" Tōsai Hō <color=#ff6f00>ACNN</color>"
+weapons/cannonType88/short;"""Ki 109"" Tōsai Hō"
+weapons/cannonHo402;<color=@userlogColoredText>57 mm</color> Ho 402 <color=#ff6f00>ACNN</color>
+weapons/cannonHo402/short;Ho 402
 weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) I Gata <color=#ff6f00>CNN</color>
 weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) II Gata <color=#ff6f00>CNN</color>
 weapons/90mm_Type61_b_user_cannon;<color=@userlogColoredText>90 mm</color> 61 Shiki 90mm Sensha Hō C Gata <color=#ff6f00>CNN</color>
@@ -230,12 +284,17 @@ weapons/cn_12_7_additionalpod_gun;<color=@userlogColoredText>12.7 mm</color> QJK
 weapons/cn_12_7_additionalpod_gun/short;QJK99
 weapons/14_5mm_QJG02_user_machinegun;<color=@userlogColoredText>14.5 mm</color> QJG2002 Shì 14.5 Háomi Dān Guan Gāoshè Jīqiāng <color=#ff6f00>MG</color>
 weapons/cannonType_23_1;<color=@userlogColoredText>23 mm</color> 23 Háomi 1 Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
+weapons/cannonType_23_1/short;23-1 Xíng
 weapons/cannonType_23_1_plane;<color=@userlogColoredText>23 mm</color> 23 Háomi 1 Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
+weapons/cannonType_23_1_plane/short;23-1 Xíng
 weapons/cannonType_23_1_plane_turret;<color=@userlogColoredText>23 mm</color> 23 Háomi 1 Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
+weapons/cannonType_23_1_plane_turret/short;23-1 Xíng
 weapons/cannonType_23L;<color=@userlogColoredText>23 mm</color> 23 Háomi 3L Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
+weapons/cannonType_23L/short;23-3L Xíng
 weapons/cannon_type23_2k;<color=@userlogColoredText>23 mm</color> 23 Háomi 2K Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
 weapons/cannon_type23_2k/short;23-2K Xíng
 weapons/cannonType_23_3;<color=@userlogColoredText>23 mm</color> 23 Háomi 3 Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
+weapons/cannonType_23_3/short;23-3 Xíng
 weapons/25mm_PG87_PGZ_user_cannon;<color=@userlogColoredText>25 mm</color> WA717A | PGZ2004A Shì Sì Guan 25 Háomi Lüdài Zì Háng Gāo Pào <color=#ff6f00>ACNN</color>
 weapons/25mm_PG87_user_cannon;<color=@userlogColoredText>25 mm</color> WA709 | PG1987 Shì Shuāng Guan 25 Háomi Gāoshè Jīguān Pào <color=#ff6f00>ACNN</color>
 weapons/30mm_pgz_625_user_cannon;<color=@userlogColoredText>30 mm</color> 630 Xíng 30 Háomi Gāoshè Jīguān Pào <color=#ff6f00>ACNN</color>
@@ -248,6 +307,7 @@ weapons/30mm_ZPZ02_user_cannon;<color=@userlogColoredText>30 mm</color> ZPZ2002 
 weapons/30mm_zpt_99_user_cannon;<color=@userlogColoredText>30 mm</color> ZPZ2002 Xíng 30 Háomi Tankè Pào <color=#ff6f00>ACNN</color>
 weapons/35mm_PG_99_35_2_user_cannon;<color=@userlogColoredText>35 mm</color> PGZ2009 Shì Shuāng 35 Háomi Zì Háng Gāo Pào <color=#ff6f00>ACNN</color>
 weapons/cannonType37_1;<color=@userlogColoredText>37 mm</color> 37 Háomi 1 Xíng Hángkōng Jīpào <color=#ff6f00>ACNN</color>
+weapons/cannonType37_1/short;37-1 Xíng
 weapons/37mm_type_65_user_cannon;<color=@userlogColoredText>37 mm</color> 1965 Nián Shì Shuāng Guan 37 Háomi Gāoshè Jīguān Pào <color=#ff6f00>ACNN</color>
 weapons/37mm_type_76_user_cannon;<color=@userlogColoredText>37 mm</color> PGZ1988 Shì Shuāng Guan 37 Háomi Lüdài Shì Zì Háng Gāo Pào <color=#ff6f00>ACNN</color>
 weapons/57mm_WA_318_user_cannon;<color=@userlogColoredText>57 mm</color> WA318 | PG1959 Shì 57 Háomi Gāoshè Pào <color=#ff6f00>ACNN</color>
@@ -285,10 +345,15 @@ weapons/76mm_modern_cn_smoke_grenade_launcher/short;Smoke
 //ITALY GUNS
 weapons/6_5mm_colt_mod15_naval_user_machinegun;<color=@userlogColoredText>6.5 mm</color> Mitragliatrice Colt da 6,5 mm modello 1915 <color=#ff6f00>MG</color>
 weapons/gun_gebauer_1939m;<color=@userlogColoredText>8.56 mm</color> 8,56 mm 39 M. géppuska <color=#ff6f00>MG</color>
+weapons/gun_gebauer_1939m/short;39 M.
 weapons/gun_gebauer_26_31m;<color=@userlogColoredText>8 mm</color> 8 mm 26/31 M. géppuska <color=#ff6f00>MG</color>
+weapons/gun_gebauer_26_31m/short;26/31 M.
 weapons/gun_gebauer_34_37m_turret;<color=@userlogColoredText>8 mm</color> 8 mm 34/37 M. géppuska <color=#ff6f00>MG</color>
+weapons/gun_gebauer_34_37m_turret/short;34/37 M.
 weapons/gun_gebauer_1940m_gkm;<color=@userlogColoredText>12.7 mm</color> 12,7 mm 40 M. géppuska <color=#ff6f00>MG</color>
+weapons/gun_gebauer_1940m_gkm/short;40 M.
 weapons/cannon_mavag_39m;<color=@userlogColoredText>40 mm</color> 4 cm 36 M. légvédelmi gépágyú <color=#ff6f00>ACNN</color>
+weapons/cannon_mavag_39m/short;36 M.
 weapons/40mm_39_vickers_terni_mod15_17_modif1930_naval_user_cannon;<color=@userlogColoredText>40 mm</color> Cannone Vickers-Terni da 40/39 modello 1915/1917 <color=#ff6f00>ACNN</color>
 weapons/75mm_43M_user_cannon;<color=@userlogColoredText>75 mm</color> 7,5 cm 43 M. harckocsiágyú <color=#ff6f00>CNN</color>
 weapons/120mm_OTO_Leonardo_120_45_user_cannon;<color=@userlogColoredText>120 mm</color> Cannone OTO-Melara da 120/45 <color=#ff6f00>CNN</color>
@@ -297,9 +362,13 @@ weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;<color=@userlogColoredTe
 
 //FRANCE GUNS
 weapons/7_62mm_FN_MAG58_user_machinegun;<color=@userlogColoredText>7.62 mm</color> FN MAG 58 <color=#ff6f00>MG</color>
+weapons/cannon404_modele50;<color=@userlogColoredText>20 mm</color> Canon de 20 mm Hispano-Suiza type 404 modèle 1950 <color=#ff6f00>ACNN</color>
+weapons/cannon404_modele50/short;HS 404 mle. 50
+weapons/cannonDEFA553_jaguar;<color=@userlogColoredText>30 mm</color> Canon de 30 mm DEFA 553 <color=#ff6f00>ACNN</color>
+weapons/cannonDEFA553_jaguar/short;DEFA 553
 weapons/37mm_SA_18_user_cannon;<color=@userlogColoredText>37 mm</color> Canon de 37 mm semi-automatique modèle 1918 <color=#ff6f00>CNN</color>
 weapons/37mm_SA_38_user_cannon;<color=@userlogColoredText>37 mm</color> Canon de 37 mm semi-automatique modèle 1938 <color=#ff6f00>CNN</color>
-weapons/40mm_Mle51_t1_user_cannon;<color=@userlogColoredText>40 mm</color> Matériel de 40 mm antiaérien modèle 1951 T1 <color=#ff6f00>ACNN</color>
+weapons/40mm_Mle51_t1_user_cannon;<color=@userlogColoredText>40 mm</color> Canon de 40 mm antiaérien modèle 1951 T1 <color=#ff6f00>ACNN</color>
 weapons/40mm_CTC_user_cannon;<color=@userlogColoredText>40 mm</color> 40 mm Cased Telescoped Cannon <color=#ff6f00>ACNN</color>
 weapons/47mm_SA_37_user_cannon;<color=@userlogColoredText>47 mm</color> Canon de 47 mm semi-automatique modèle 1937 <color=#ff6f00>CNN</color>
 weapons/75mm_SA_49_user_cannon;<color=@userlogColoredText>75 mm</color> Canon de 75 mm semi-automatique modèle 1949 <color=#ff6f00>CNN</color>
@@ -313,6 +382,7 @@ weapons/100mm_45_mle_1930_naval_user_cannon/short;Canon de 100 mm/45 mle. 1930
 weapons/100mm_45_mle_1933_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1933 <color=#ff6f00>CNN</color>
 weapons/100mm_45_mle_1933_naval_user_cannon/short;Canon de 100 mm/45 mle. 1933
 weapons/100mm_55_mle_1945_naval_user_cannon;<color=@userlogColoredText>100 mm</color> Canon de 100 mm/45 modèle 1945 <color=#ff6f00>CNN</color>
+weapons/105mm_L7A3_leopard_1a5be_user_cannon;<color=@userlogColoredText>105 mm</color> Kanon 105 mm L7A3 <color=#ff6f00>CNN</color>
 weapons/120mm_giat_cn120_26_f1_msc_user_cannon;<color=@userlogColoredText>120 mm</color> CN120-26/52 F1 <color=#ff6f00>CNN</color>
 weapons/138mm_40_model_1923_naval_user_cannon;<color=@userlogColoredText>138.6 mm</color> Canon de 138 mm/40 modèle 1923 <color=#ff6f00>CNN</color>
 weapons/138mm_40_model_1923_naval_user_cannon/short;Canon de 138 mm/40 mle. 1923
@@ -330,6 +400,8 @@ weapons/380mm_45_mle_1935_mod_naval_user_cannon/short;Canon de 380 mm/45 mle. 19
 //SWEDEN GUNS
 weapons/cannonAkan_m46a;<color=@userlogColoredText>20 mm</color> 20 mm automatkanon m/46A <color=#ff6f00>ACNN</color>
 weapons/cannonAkan_m46a/short;20 mm akan m/46A
+weapons/cannonHispano_hs825_L_53;<color=@userlogColoredText>30 mm</color> Canon de 30 mm Hispano-Suiza type 825 D <color=#ff6f00>ACNN</color>
+weapons/cannonHispano_hs825_L_53/short;HSS 825 D
 
 //ISRAEL GUNS
 weapons/60mm_hvms_user_cannon;<color=@userlogColoredText>60 mm</color> 60 mm Hyper-Velocity Medium Support Weapon System <color=#ff6f00>CNN</color>
@@ -367,6 +439,7 @@ weapons/120mm_IMI_MG253_user_cannon;<color=@userlogColoredText>120 mm</color> Tu
 15mm_sprgr_notracer;1,5cm Spr.Gr.Patr.Üb.o.Zerl.
 20mm_mgr;2cm M.Gesch.Patr.o.Zerl.
 20mm_pzsprgr;2cm Pz.Spr.Gr.Patr.L'spur.o.Zerl.
+30mm_PzSprBrGr;3cm Pz.Br.Spr.Gr. Patr. L'spur. o. Zerl.
 35_228mm_he_i_t_belt;DM 11 A1
 35_228mm_apds_t_belt;DM 23
 37mm_sprgr_18_belt;3,7cm Spr.Gr.Patr. 18
@@ -536,6 +609,7 @@ type_44_ap;59 Shì 100 Háomi Chuān Jia Dàn
 100mm_oea1928_he_df;100 mm OEA mle. 1928
 100mm_oea1945_he_df;100 mm OEA mle. 1945
 105mm_ofl_g2;OFL 105 G2
+105mm_m_1010;105 Tk HE M1010 WPDF
 120mm_f1_he;OE 120 F1
 120mm_ofl_120_f2;OFL 120 F2
 152mm_m1936_he_df;152 mm OEA mle. 1936
@@ -547,6 +621,7 @@ type_44_ap;59 Shì 100 Háomi Chuān Jia Dàn
 
 //SWEDEN AMMUNITION
 20mm_slpprj_m42;20 mm sk ptr m/42 slpprj m/42
+20mm_akan_m45_b_he;20 mm sk ptr m/41 lng m/41B slsgr m/42 ö hk sar m/42
 
 //ISRAEL AMMUNITION
 
@@ -583,6 +658,10 @@ weapons/us_b28_ang45;<color=@userlogColoredText>1.45 mt</color> ☢ B28Y5 <color
 weapons/us_b28_ang45/short;☢ B28Y5
 weapons/us_b83;<color=@userlogColoredText>1.2 mt</color> ☢ B83 <color=#ff6f00>BMB-ATM</color>
 weapons/us_b83/short;☢ B83
+weapons/us_2000lb_gbu_15v21;<color=@userlogColoredText>1093.158 kg</color> Bomb, Guided, GBU-15(V)21/B <color=#ff6f00>BMB-EO</color>
+weapons/us_2000lb_gbu_15v21/short;GBU-15(V)21/B
+weapons/us_2000lb_gbu_15v22;<color=@userlogColoredText>1110.848 kg</color> Bomb, Guided, GBU-15(V)22/B <color=#ff6f00>BMB-EO</color>
+weapons/us_2000lb_gbu_15v22/short;GBU-15(V)22/B
 weapons/us_3000lb_m118;<color=@userlogColoredText>1369.8 kg</color> Bomb, 3000lb, GP, M118 <color=#ff6f00>BMB</color>
 weapons/us_3000lb_m118/short;M118
 weapons/us_3000lb_m118_90;<color=@userlogColoredText>1369.8 kg</color> Bomb, 3000lb, GP, M118 <color=#ff6f00>BMB</color>
@@ -597,6 +676,8 @@ weapons/de_sc1000;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindr
 weapons/de_sc1000/short;S.C. 1000 L2
 weapons/de_sc1000_default;<color=@userlogColoredText>1000 kg</color> Sprengbombe Cylindrisch 1000 L2 <color=#ff6f00>BMB</color>
 weapons/de_sc1000_default/short;S.C. 1000 L2
+weapons/de_pc1600_ap;<color=@userlogColoredText>1600 kg</color> Panzersprengbombe cylindrisch 1600 <color=#ff6f00>BMB-AP</color>
+weapons/de_pc1600_ap/short;P.C. 1600
 weapons/ar_bk_br_125kg;<color=@userlogColoredText>117.9 kg</color> Bomba de propósito general BK-BR de 125 kg <color=#ff6f00>BMB</color>
 weapons/ar_bk_br_125kg/short;PG BK-BR 125
 weapons/ar_bk_br_130kg;<color=@userlogColoredText>117.9 kg</color> Bomba de propósito general BK-BR de 130 kg <color=#ff6f00>BMB</color>
@@ -657,6 +738,10 @@ weapons/su_rn_40;<color=@userlogColoredText>30 kt</color> ☢ Spyeczial'naâ avi
 weapons/su_rn_40/short;☢ RN40
 weapons/su_rds37;<color=@userlogColoredText>1.6 mt</color> ☢ Spyeczial'naâ boyevaâ čast' RDS-37 <color=#ff6f00>BMB-ATM</color>
 weapons/su_rds37/short;☢ RDS-37
+weapons/su_rds4_5kt_nt;"<color=@userlogColoredText>5 kt</color> ☢ izd. 244N | Takt'ich'eskaya atomnaya bomba 8U69 ""Tat'ana"" (Zaryat RDS-4T) <color=#ff6f00>BMB-ATM</color>"
+weapons/su_rds4_5kt_nt/short;☢ 8U69 (RDS-4T) (5 kt)
+weapons/su_rds4_30kt_nt;"<color=@userlogColoredText>30 kt</color> ☢ izd. 244N | Takt'ich'eskaya atomnaya bomba 8U69 ""Tat'ana"" (Zaryat RDS-4T) <color=#ff6f00>BMB-ATM</color>"
+weapons/su_rds4_30kt_nt/short;☢ 8U69 (RDS-4T) (30 kt)
 
 //UK BOMBS
 weapons/uk_230lbs;<color=@userlogColoredText>90.7 kg</color> Bomb, H.E., R.F.C., 230-lb, Mk. III <color=#ff6f00>BMB</color>
@@ -727,6 +812,10 @@ weapons/br_lizard_3;<color=@userlogColoredText>277.14 kg</color> Bombas Aéreas 
 weapons/br_lizard_3/short;BAFG-230 (Lizard 3)
 
 //FRANCE BOMBS
+weapons/fr_an52_5kt_nt;<color=@userlogColoredText>5 kt</color> ☢ Arme nucléaire 52 <color=#ff6f00>BMB-ATM</color>
+weapons/fr_an52_5kt_nt/short;☢ AN 52 (5 kt)
+weapons/fr_an52_30kt_nt;<color=@userlogColoredText>30 kt</color> ☢ Arme nucléaire 52 <color=#ff6f00>BMB-ATM</color>
+weapons/fr_an52_30kt_nt/short;☢ AN 52 (30 kt)
 
 //SWEDEN BOMBS
 weapons/swd_50kg_sb_m37a;<color=@userlogColoredText>59 kg</color> 50 kg minbomb m/37AT <color=#ff6f00>BMB</color>
@@ -761,6 +850,20 @@ weapons/swd_600kg_minb_m50/short;500 kg mb m/50
 //MINES
 
 //USA ROCKETS
+weapons/us_2_75_in_ffar_mighty_mouse;Rocket Motor, 2.75-inch FFAR Mk 4 <color=#ff6f00>RKT</color>
+weapons/us_2_75_in_ffar_mighty_mouse/short;2.75-inch FFAR Mk 4
+weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p;Rocket Motor, 2.75-inch FFAR Mk 4 <color=#ff6f00>RKT</color>
+weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p/short;2.75-inch FFAR Mk 4
+weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p_cwp;Rocket Motor, 2.75-inch FFAR Mk 4 <color=#ff6f00>RKT</color>
+weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p_cwp/short;2.75-inch FFAR Mk 4
+weapons/us_2_75_in_ffar_mighty_mouse_m429;Rocket Motor, 2.75-inch FFAR Mk 4, M429 <color=#ff6f00>RKT</color>
+weapons/us_2_75_in_ffar_mighty_mouse_m429/short;2.75-inch FFAR Mk 4, M429
+weapons/us_2_75_in_ffar_mighty_mouse_m439;Rocket Motor, 2.75-inch FFAR Mk 4, M439
+weapons/us_2_75_in_ffar_mighty_mouse_m439/short;2.75-inch FFAR Mk 4, M439
+weapons/us_2_75_in_ffar_mighty_mouse_default;Rocket Motor, 2.75-inch FFAR Mk 4 <color=#ff6f00>RKT</color>
+weapons/us_2_75_in_ffar_mighty_mouse_default/short;2.75-inch FFAR Mk 4
+weapons/us_2_75_in_ffar_mighty_mouse_m151;Rocket Motor, 2.75-inch FFAR, Mk 40 Mod 0 (Warhead, 2.75 Inch Rocket, HE, M151) <color=#ff6f00>RKT</color>
+weapons/us_2_75_in_ffar_mighty_mouse_m151/short;Mk 40 Mod 0 (M151)
 weapons/227mm_m270_rocket_launcher;Rocket Pod, 298mm: M26A2 <color=#ff6f00>LCH</color>
 weapons/227mm_m270_rocket_launcher/short;M26A2
 227mm_m26a2;M26A2
@@ -832,6 +935,8 @@ weapons/fr_sneb_type23_4fin;SNEB F1 Type 23 <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type23_4fin/short;SNEB F1 Type 23
 weapons/fr_sneb_type26_TDA;SNEB F1 Type 26P <color=#ff6f00>RKT</color>
 weapons/fr_sneb_type26_TDA/short;SNEB F1 Type 26P
+weapons/fr_fz275_lgr;FZ275 Laser Guided Rocket <color=#ff6f00>RKT</color>
+weapons/fr_fz275_lgr/short;FZ275 LGR
 
 //SWEDEN ROCKETS
 weapons/swd_75mm_m57b;"<color=@userlogColoredText>75 mm</color> 7,5 cm sprängraket m/57B ""Gerda"" <color=#ff6f00>RKT-HE</color>"
@@ -1072,6 +1177,7 @@ weapons/rocket_mk13_naval_rocket_launcher/short;Mk 13 Mod 0
 rim_24b;RIM-24B
 410mm_mim104b;MIM-104B
 us_mim_23b;MIM-23B
+us_mim_23a;MIM-23A
 557mm_mgm_52;MGM-52C
 rim_66c;RIM-66C
 
@@ -1100,6 +1206,10 @@ weapons/fr_as30_switzerland;"Flugzeug Lenkwaffe Luft-Boden 66 ""NORAS"" <color=#
 weapons/fr_as30_switzerland/short;Flz.Lwf. LB 66
 weapons/sws_flz_lwf_lb_82;"Flugzeug Lenkwaffe Luft-Boden 82 ""MAVERICK"" <color=#ff6f00>AGM-EO</color>"
 weapons/sws_flz_lwf_lb_82/short;Flz.Lwf. LB 82
+weapons/gr_as34_kormoran;AS 34 Kormoran <color=#ff6f00>AShM-ARH</color>
+weapons/gr_as34_kormoran/short;AS 34
+weapons/gr_as34_kormoran_mk_2;AS 34 Kormoran 2 <color=#ff6f00>AShM-ARH</color>
+weapons/gr_as34_kormoran_mk_2/short;AS 34 Kormoran 2
 weapons/127mm_BGM_71_tow_Wiesel_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233 <color=#ff6f00>LCH</color>
 weapons/180mm_IRIS_T_SL_user_cannon;IRIS-T SLM Startgerät
 us_iris_t_sl;IRIS-T SLM
@@ -1209,6 +1319,7 @@ weapons/170mm_57E6M_launcher_user_cannon/short;95Â6M
 weapons/360mm_9m317m_user_cannon;Puskovoye ustrojstvo 9P331M <color=#ff6f00>LCH</color>
 weapons/360mm_9m317m_user_cannon/short;9P331M
 360mm_9m317ma;9M317MA
+400mm_9m38;9M38
 400mm_9m38m1;9M38M1
 508mm_5v55r;V-500R
 weapons/130mm_9M120_BMPT_launcher_user_cannon;"Komplyeksa upravlâyemogo vooružyeniâ B07S1.01.000 ""Ataka-T"" <color=#ff6f00>LCH</color>"
@@ -1251,6 +1362,18 @@ weapons/uk_sea_eagle;Sea Eagle <color=#ff6f00>AShM-ARH</color>
 weapons/uk_sea_eagle/short;Sea Eagle
 weapons/uk_sea_eagle_wo_radar_designation;Sea Eagle <color=#ff6f00>AShM-ARH</color>
 weapons/uk_sea_eagle_wo_radar_designation/short;Sea Eagle
+weapons/uk_martlet;Martlet <color=#ff6f00>AGM-LG</color>
+weapons/uk_martlet/short;Martlet
+weapons/uk_martlet_default;Martlet <color=#ff6f00>AGM-LG</color>
+weapons/uk_martlet_default/short;Martlet
+weapons/130mm_rapier_launcher_user_cannon;Tracked Rapier Launcher <color=#ff6f00>LCH</color>
+weapons/130mm_rapier_launcher_user_cannon/short;Tracked Rapier Launcher
+130mm_rapier_mk1;Rapier Mk. 1
+weapons/130mm_rapier_mk1/short;Rapier Mk. 1
+130mm_rapier_mk1e;Rapier Mk. 1E
+weapons/130mm_rapier_mk1e/short;Rapier Mk. 1E
+130mm_rapier_mk2;Rapier Mk. 2A
+weapons/130mm_rapier_mk2/short;Rapier Mk. 2A
 
 //JAPAN MISSILES
 weapons/jp_ki_148_i_go_1b;I Gō 1 Gata Otsu Musen Yūdōdan | Ki 148 <color=#ff6f00>AGM-RG</color>
@@ -1267,6 +1390,8 @@ weapons/jp_asm1;80 Shiki Kū Taikan Yūdōdan | ASM-1 <color=#ff6f00>AShM-ARH</c
 weapons/jp_asm1/short;ASM-1
 weapons/jp_asm2;93 Shiki Kū Taikan Yūdōdan | ASM-2 <color=#ff6f00>AShM-IR</color>
 weapons/jp_asm2/short;ASM-2
+weapons/jp_asm3;ASM-3A Sora Taikan Yūdōdan <color=#ff6f00>AShM-ARH/GNSS</color>
+weapons/jp_asm3/short;ASM-3A
 160mm_sam_arh_1c;SAM-1C (ARH)
 weapons/80mm_Type_91_launcher_user_cannon;"93 Shiki Kinkyorichi Taikū Yūdōdan Hassha Sōchi ""Kurōzudo Arō"" <color=#ff6f00>LCH</color>"
 weapons/160mm_sam_1c_launcher_user_cannon;"81 Shiki Tankyorichi Taikū Yūdōdan C Gata Hassha Sōchi ""Shōto Arō"" <color=#ff6f00>LCH</color>"
@@ -1436,8 +1561,10 @@ atam_mistral_sam;Mistral
 //SWEDEN MISSILES
 weapons/swd_rb_15f;robot 15F <color=#ff6f00>AShM-ARH</color>
 weapons/swd_rb_15f/short;rb 15F
-weapons/swd_rb27;robot 27 <color=#ff6f00>AAM-IR</color>
+weapons/swd_rb27;robot 27 <color=#ff6f00>AAM-SARH</color>
 weapons/swd_rb27/short;rb 27
+weapons/swd_rb28;robot 28 <color=#ff6f00>AAM-IR</color>
+weapons/swd_rb28/short;rb 28
 weapons/us_agm_119a_penguin;Penguin MK3 <color=#ff6f00>AGM-IR</color>
 weapons/us_agm_119a_penguin/short;Penguin MK3
 weapons/us_agm_119a_penguin_wo_radar_designation;Penguin MK3 <color=#ff6f00>AGM-IR</color>
@@ -1473,14 +1600,44 @@ weapons/il_derby_er_sam/short;I-Derby ER
 il_derby_sam;I-Derby SR
 il_derby_er_sam;I-Derby ER
 weapons/160mm_spyder_launcher_user_cannon;SPYDER <color=#ff6f00>LCH</color>
+weapons/is_delilah;Delilah (Electro-Optical) <color=#ff6f00>AGM-EO/GNSS</color>
+weapons/is_delilah/short;Delilah (EO)
+weapons/is_delilah_ir;Delilah (Infrared) <color=#ff6f00>AGM-IR/GNSS</color>
+weapons/is_delilah_ir/short;Delilah (IR)
+weapons/is_delilah_arm;STAR-1 <color=#ff6f00>AGM-PRH/GNSS</color>
+weapons/is_delilah_arm/short;STAR-1
+weapons/spike_er;Spike ER <color=#ff6f00>AGM-EO</color>
+weapons/spike_er/short;Spike ER
+weapons/spike_er_default;Spike ER <color=#ff6f00>AGM-EO</color>
+weapons/spike_er_default/short;Spike ER
+weapons/spike_nlos;Spike NLOS 5 <color=#ff6f00>AGM-IR</color>
+weapons/spike_nlos/short;Spike NLOS 5
+weapons/spike_nlos_default;Spike NLOS 5 <color=#ff6f00>AGM-IR</color>
+weapons/spike_nlos_default/short;Spike NLOS 5
 
 //UNCATEGORIZED MISSILES
 
 //USA TORPEDOES
 weapons/us_533mm_21in_bliss_leavitt_mk9_torpedo;<color=@userlogColoredText>533 mm</color> Torpedo, Mk 9 Mod 1 <color=#ff6f00>TRP</color>
-weapons/us_533mm_21in_bliss_leavitt_mk9_torpedo/short;Torpedo, Mk 9 Mod 1
+weapons/us_533mm_21in_bliss_leavitt_mk9_torpedo/short;Mk 9 Mod 1
+weapons/de_533mm_mk35_torpedo;<color=@userlogColoredText>533 mm</color> Torpedo, Mk 35 Mod 0 <color=#ff6f00>TRP</color>
+weapons/de_533mm_mk35_torpedo/short;Mk 35 Mod 0
+weapons/us_533mm_21in_mark35_torpedo;<color=@userlogColoredText>533 mm</color> Torpedo, Mk 35 Mod 0 <color=#ff6f00>TRP</color>
+weapons/us_533mm_21in_mark35_torpedo/short;Mk 35 Mod 0
 
 //GERMANY TORPEDOES
+weapons/de_500mm_g6c_torpedo;<color=@userlogColoredText>533 mm</color> Torpedo G 6c <color=#ff6f00>TRP</color>
+weapons/de_500mm_g6c_torpedo/short;G 6c
+weapons/de_500mm_g7_torpedo;<color=@userlogColoredText>533 mm</color> Torpedo G 7 <color=#ff6f00>TRP</color>
+weapons/de_500mm_g7_torpedo/short;G 7
+weapons/de_533mm_g7a_torpedo;<color=@userlogColoredText>533 mm</color> Torpedo G 7a (Torpedonummer I) <color=#ff6f00>TRP</color>
+weapons/de_533mm_g7a_torpedo/short;G 7a (T I)
+weapons/de_533mm_g7e_torpedo;<color=@userlogColoredText>533 mm</color> Torpedo G 7e (Torpedonummer II) <color=#ff6f00>TRP</color>
+weapons/de_533mm_g7e_torpedo/short;G 7e (T II)
+weapons/de_533_g7e_t3d_torpedo;<color=@userlogColoredText>533 mm</color> Torpedo G 7e (Torpedonummer IIIa) <color=#ff6f00>TRP</color>
+weapons/de_533_g7e_t3d_torpedo/short;G 7e (T IIIa)
+weapons/de_533_g7e_t5a_torpedo;<color=@userlogColoredText>533 mm</color> Torpedo G 7e (Torpedonummer Va) <color=#ff6f00>TRP</color>
+weapons/de_533_g7e_t5a_torpedo/short;G 7e (T Va)
 
 //USSR TORPEDOES
 weapons/su_45_54vt_1954_torpedo;<color=@userlogColoredText>450 mm</color> Torpyeda vysotnogo torpyedomyetaniâ 45-54VT <color=#ff6f00>TRP</color>
@@ -1517,8 +1674,16 @@ weapons/us_130gal_drop_tank_1;<color=@userlogColoredText>492 L</color> Tank - 13
 weapons/us_130gal_drop_tank_1/short;Tank - 130 Gallon
 weapons/us_130gal_drop_tank_2;<color=@userlogColoredText>492 L</color> Tank - 130 Gallon Droppable Fuel <color=#ff6f00>DPTK</color>
 weapons/us_130gal_drop_tank_2/short;Tank - 130 Gallon
+weapons/us_215gal_drop_tank_1;<color=@userlogColoredText>814 L</color> Drop tank <color=#ff6f00>DPTK</color>
+weapons/us_215gal_drop_tank_1/short;Drop tank (814 L)
+weapons/us_215gal_drop_tank_2;<color=@userlogColoredText>814 L</color> Drop tank <color=#ff6f00>DPTK</color>
+weapons/us_215gal_drop_tank_2/short;Drop tank (814 L)
 weapons/us_275gal_fuse_clip_drop_tank_1;Drop tank (275 gal)
 weapons/us_275gal_fuse_clip_drop_tank_1/short;Drop tank (275 gal)
+weapons/us_300gal_aero_1d_drop_tank_left;<color=@userlogColoredText>1136 L</color> Tank, Fuel, Aircraft, Auxiliary External, 300 Gallon, Aero 1D <color=#ff6f00>DPTK</color>
+weapons/us_300gal_aero_1d_drop_tank_left/short;Aero 1D
+weapons/us_300gal_aero_1d_drop_tank_right;<color=@userlogColoredText>1136 L</color> Tank, Fuel, Aircraft, Auxiliary External, 300 Gallon, Aero 1D <color=#ff6f00>DPTK</color>
+weapons/us_300gal_aero_1d_drop_tank_right/short;Aero 1D
 weapons/us_358gal_f_106_1;Drop tank (358 gal)
 weapons/us_358gal_f_106_1/short;Drop tank (358 gal)
 weapons/us_358gal_f_106_2;Drop tank (358 gal)
@@ -1537,6 +1702,10 @@ weapons/us_280gal_drop_tank_light;<color=@userlogColoredText>1060 L</color> FPU-
 weapons/us_280gal_drop_tank_light/short;FPU-1/A
 weapons/us_280gal_drop_tank_light_1;<color=@userlogColoredText>1060 L</color> FPU-1/A <color=#ff6f00>DPTK</color>
 weapons/us_280gal_drop_tank_light_1/short;FPU-1/A
+weapons/us_370_gal_wing_f_16xl_left;<color=@userlogColoredText>1564 L</color> Drop tank <color=#ff6f00>DPTK</color>
+weapons/us_370_gal_wing_f_16xl_left/short;Drop tank (1564 L)
+weapons/us_370_gal_wing_f_16xl_left;<color=@userlogColoredText>1564 L</color> Drop tank <color=#ff6f00>DPTK</color>
+weapons/us_370_gal_wing_f_16xl_left/short;Drop tank (1564 L)
 weapons/us_480gal_fa_18e_drop_tank_centr;<color=@userlogColoredText>1817 L</color> FPU-12/A <color=#ff6f00>DPTK</color>
 weapons/us_480gal_fa_18e_drop_tank_centr/short;FPU-12/A
 weapons/us_480gal_fa_18e_drop_tank_wing_left_1;<color=@userlogColoredText>1817 L</color> FPU-12/A <color=#ff6f00>DPTK</color>
@@ -1569,19 +1738,19 @@ weapons/fr_1300l_rp522_mirage_2000d_r1;<color=@userlogColoredText>1300 L</color>
 weapons/fr_1300l_rp522_mirage_2000d_r1/short;RPL 522
 
 //USSR FUEL TANKS
-weapons/su_490l_mig_21;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21;<color=@userlogColoredText>490 L</color> Podv'esnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
 weapons/su_490l_mig_21/short;PTB-500
-weapons/su_490l_mig_21_left_wing;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_left_wing;<color=@userlogColoredText>490 L</color> Podv'esnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
 weapons/su_490l_mig_21_left_wing/short;PTB-500
-weapons/su_490l_mig_21_left_wing_1;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_left_wing_1;<color=@userlogColoredText>490 L</color> Podv'esnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
 weapons/su_490l_mig_21_left_wing_1/short;PTB-500
-weapons/su_490l_mig_21_fuse_1;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_fuse_1;<color=@userlogColoredText>490 L</color> Podv'esnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
 weapons/su_490l_mig_21_fuse_1/short;PTB-500
-weapons/su_490l_mig_21_right_wing_1;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_right_wing_1;<color=@userlogColoredText>490 L</color> Podv'esnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
 weapons/su_490l_mig_21_right_wing_1/short;PTB-500
-weapons/su_490l_mig_21_fuse;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_fuse;<color=@userlogColoredText>490 L</color> Podv'esnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
 weapons/su_490l_mig_21_fuse/short;PTB-500
-weapons/su_490l_mig_21_right_wing;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_right_wing;<color=@userlogColoredText>490 L</color> Podv'esnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
 weapons/su_490l_mig_21_right_wing/short;PTB-500
 weapons/su_500l_yak_130_drop_tank_1;Drop tank (500 L)
 weapons/su_500l_yak_130_drop_tank_1/short;Drop tank (500 L)
@@ -1589,79 +1758,83 @@ weapons/su_500l_yak_130_drop_tank_2;Drop tank (500 L)
 weapons/su_500l_yak_130_drop_tank_2/short;Drop tank (500 L)
 weapons/rs_500l_j_22;Drop tank (500 L)
 weapons/rs_500l_j_22/short;Drop tank (500 L)
-weapons/su_800l_su_7b_silver_fuse_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_600l_su_15tm_right_fuse;<color=@userlogColoredText>640 L</color> Podv'esnoj toplivnyj bak PTB-640 <color=#ff6f00>DPTK</color>
+weapons/su_600l_su_15tm_right_fuse/short;PTB-640
+weapons/su_600l_su_15tm_left_fuse;<color=@userlogColoredText>640 L</color> Podv'esnoj toplivnyj bak PTB-640 <color=#ff6f00>DPTK</color>
+weapons/su_600l_su_15tm_left_fuse/short;PTB-640
+weapons/su_800l_su_7b_silver_fuse_1;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_7b_silver_fuse_1/short;PTB-800
-weapons/su_800l_su_7b_silver_fuse_2;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_fuse_2;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_7b_silver_fuse_2/short;PTB-800
-weapons/su_800l_su_7b_silver_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_wing_1;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_7b_silver_wing_1/short;PTB-800
-weapons/su_800l_su_7b_silver_wing_2;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_wing_2;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_7b_silver_wing_2/short;PTB-800
-weapons/su_800l_su_17_right_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_right_wing;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_17_right_wing/short;PTB-800
-weapons/su_800l_su_17_right_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_right_wing_1;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_17_right_wing_1/short;PTB-800
-weapons/su_800l_su_17_left_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_left_wing;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_17_left_wing/short;PTB-800
-weapons/su_800l_su_17_left_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_left_wing_1;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_17_left_wing_1/short;PTB-800
-weapons/su_800l_su_17_silver_left_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_left_wing;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_17_silver_left_wing/short;PTB-800
-weapons/su_800l_su_17_silver_left_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_left_wing_1;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_17_silver_left_wing_1/short;PTB-800
-weapons/su_800l_su_17_silver_right_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_right_wing;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_17_silver_right_wing/short;PTB-800
-weapons/su_800l_su_17_silver_right_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_right_wing_1;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_17_silver_right_wing_1/short;PTB-800
-weapons/su_800l_su_25tm_silver_right_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_right_wing;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25tm_silver_right_wing/short;PTB-800
-weapons/su_800l_su_25tm_silver_right_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_right_wing_1;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25tm_silver_right_wing_1/short;PTB-800
-weapons/su_800l_su_25tm_silver_left_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_left_wing;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25tm_silver_left_wing/short;PTB-800
-weapons/su_800l_su_25tm_silver_left_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_left_wing_1;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25tm_silver_left_wing_1/short;PTB-800
-weapons/su_800l_su_25t_left_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_left_wing;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25t_left_wing/short;PTB-800
-weapons/su_800l_su_25t_left_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_left_wing_1;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25t_left_wing_1/short;PTB-800
-weapons/su_800l_su_25t_right_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_right_wing;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25t_right_wing/short;PTB-800
-weapons/su_800l_su_25t_right_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_right_wing_1;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25t_right_wing_1/short;PTB-800
-weapons/su_800l_su_25_right_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_right_wing;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25_right_wing/short;PTB-800
-weapons/su_800l_su_25_right_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_right_wing_1;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25_right_wing_1/short;PTB-800
-weapons/su_800l_su_25_left_wing;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_left_wing;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25_left_wing/short;PTB-800
-weapons/su_800l_su_25_left_wing_1;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_left_wing_1;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_25_left_wing_1/short;PTB-800
-weapons/su_800l_mig_23bn_silver_fuse;<color=@userlogColoredText>820 L</color> Podvyesnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_mig_23bn_silver_fuse;<color=@userlogColoredText>820 L</color> Podv'esnoj toplivnyj bak PTB-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_mig_23bn_silver_fuse/short;PTB-800
-weapons/su_1150l_mig_29kr_left_wing;<color=@userlogColoredText>1150 L</color> Podvyesnoj toplivnyj bak PTB-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_left_wing;<color=@userlogColoredText>1150 L</color> Podv'esnoj toplivnyj bak PTB-1150 <color=#ff6f00>DPTK</color>
 weapons/su_1150l_mig_29kr_left_wing/short;PTB-1150
-weapons/su_1150l_mig_29kr_left_wing1;<color=@userlogColoredText>1150 L</color> Podvyesnoj toplivnyj bak PTB-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_left_wing1;<color=@userlogColoredText>1150 L</color> Podv'esnoj toplivnyj bak PTB-1150 <color=#ff6f00>DPTK</color>
 weapons/su_1150l_mig_29kr_left_wing1/short;PTB-1150
-weapons/su_1150l_mig_29kr_right_wing;<color=@userlogColoredText>1150 L</color> Podvyesnoj toplivnyj bak PTB-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_right_wing;<color=@userlogColoredText>1150 L</color> Podv'esnoj toplivnyj bak PTB-1150 <color=#ff6f00>DPTK</color>
 weapons/su_1150l_mig_29kr_right_wing/short;PTB-1150
-weapons/su_1150l_mig_29kr_right_wing1;<color=@userlogColoredText>1150 L</color> Podvyesnoj toplivnyj bak PTB-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_right_wing1;<color=@userlogColoredText>1150 L</color> Podv'esnoj toplivnyj bak PTB-1150 <color=#ff6f00>DPTK</color>
 weapons/su_1150l_mig_29kr_right_wing1/short;PTB-1150
-weapons/su_1500_liters_fuse_mig_29;<color=@userlogColoredText>1520 L</color> Podvyesnoj toplivnyj bak PTB-1500 <color=#ff6f00>DPTK</color>
+weapons/su_1500_liters_fuse_mig_29;<color=@userlogColoredText>1520 L</color> Podv'esnoj toplivnyj bak PTB-1500 <color=#ff6f00>DPTK</color>
 weapons/su_1500_liters_fuse_mig_29/short;PTB-1500
-weapons/su_1500_liters_fuse_mig_29smt;<color=@userlogColoredText>1520 L</color> Podvyesnoj toplivnyj bak PTB-1500 <color=#ff6f00>DPTK</color>
+weapons/su_1500_liters_fuse_mig_29smt;<color=@userlogColoredText>1520 L</color> Podv'esnoj toplivnyj bak PTB-1500 <color=#ff6f00>DPTK</color>
 weapons/su_1500_liters_fuse_mig_29smt/short;PTB-1500
-weapons/su_2000_liters_fuse_mig_29smt;<color=@userlogColoredText>2000 L</color> Podvyesnoj toplivnyj bak PTB-2000 <color=#ff6f00>DPTK</color>
+weapons/su_2000_liters_fuse_mig_29smt;<color=@userlogColoredText>2000 L</color> Podv'esnoj toplivnyj bak PTB-2000 <color=#ff6f00>DPTK</color>
 weapons/su_2000_liters_fuse_mig_29smt/short;PTB-2000
-weapons/su_2150_liters_fuse_mig_29kr;<color=@userlogColoredText>2150 L</color> Podvyesnoj toplivnyj bak PTB-2150 <color=#ff6f00>DPTK</color>
+weapons/su_2150_liters_fuse_mig_29kr;<color=@userlogColoredText>2150 L</color> Podv'esnoj toplivnyj bak PTB-2150 <color=#ff6f00>DPTK</color>
 weapons/su_2150_liters_fuse_mig_29kr/short;PTB-2150
-weapons/su_su34_3000l_drop_tank;<color=@userlogColoredText>3000 L</color> Podvyesnoj toplivnyj bak PTB-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank;<color=@userlogColoredText>3000 L</color> Podv'esnoj toplivnyj bak PTB-3000 <color=#ff6f00>DPTK</color>
 weapons/su_su34_3000l_drop_tank/short;PTB-3000
-weapons/su_su34_3000l_drop_tank_left;<color=@userlogColoredText>3000 L</color> Podvyesnoj toplivnyj bak PTB-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank_left;<color=@userlogColoredText>3000 L</color> Podv'esnoj toplivnyj bak PTB-3000 <color=#ff6f00>DPTK</color>
 weapons/su_su34_3000l_drop_tank_left/short;PTB-3000
-weapons/su_su34_3000l_drop_tank_right;<color=@userlogColoredText>3000 L</color> Podvyesnoj toplivnyj bak PTB-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank_right;<color=@userlogColoredText>3000 L</color> Podv'esnoj toplivnyj bak PTB-3000 <color=#ff6f00>DPTK</color>
 weapons/su_su34_3000l_drop_tank_right/short;PTB-3000
-weapons/su_5280l_mig_25pd_drop_tank_central;<color=@userlogColoredText>5280 L</color> Podvyesnoj toplivnyj bak PTB-5000 <color=#ff6f00>DPTK</color>
+weapons/su_5280l_mig_25pd_drop_tank_central;<color=@userlogColoredText>5280 L</color> Podv'esnoj toplivnyj bak PTB-5000 <color=#ff6f00>DPTK</color>
 weapons/su_5280l_mig_25pd_drop_tank_central/short;PTB-5000
 
 //UK FUEL TANKS
@@ -1673,15 +1846,23 @@ weapons/in_100gal_marut_drop_tank_r;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_r/short;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_r_2;Drop tank (100 gal)
 weapons/in_100gal_marut_drop_tank_r_2/short;Drop tank (100 gal)
+weapons/us_100gal_ca_27_drop_tank_r;<color=@userlogColoredText>455 L</color> Drop tank <color=#ff6f00>DPTK</color>
+weapons/us_100gal_ca_27_drop_tank_r/short;Drop tank (455 L)
+weapons/us_100gal_ca_27_drop_tank_l;<color=@userlogColoredText>455 L</color> Drop tank <color=#ff6f00>DPTK</color>
+weapons/us_100gal_ca_27_drop_tank_l/short;Drop tank (455 L)
+weapons/us_167gal_ca_27_drop_tank_r;<color=@userlogColoredText>759 L</color> Drop tank <color=#ff6f00>DPTK</color>
+weapons/us_167gal_ca_27_drop_tank_r/short;Drop tank (759 L)
+weapons/us_167gal_ca_27_drop_tank_l;<color=@userlogColoredText>759 L</color> Drop tank <color=#ff6f00>DPTK</color>
+weapons/us_167gal_ca_27_drop_tank_l/short;Drop tank (759 L)
 weapons/uk_130gal_hawk_drop_tank_1;Drop tank (591 L)
 weapons/uk_130gal_hawk_drop_tank_1/short;Drop tank (591 L)
 weapons/uk_130gal_hawk_drop_tank_2;Drop tank (591 L)
 weapons/uk_130gal_hawk_drop_tank_2/short;Drop tank (591 L)
-weapons/su_490l_mig_21_bison_fuse;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_bison_fuse;<color=@userlogColoredText>490 L</color> Podv'esnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
 weapons/su_490l_mig_21_bison_fuse/short;PTB-500
-weapons/su_490l_mig_21_bison_left_wing;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_bison_left_wing;<color=@userlogColoredText>490 L</color> Podv'esnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
 weapons/su_490l_mig_21_bison_left_wing/short;PTB-500
-weapons/su_490l_mig_21_bison_right_wing;<color=@userlogColoredText>490 L</color> Podvyesnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_bison_right_wing;<color=@userlogColoredText>490 L</color> Podv'esnoj toplivnyj bak PTB-500 <color=#ff6f00>DPTK</color>
 weapons/su_490l_mig_21_bison_right_wing/short;PTB-500
 
 //JAPAN FUEL TANKS
@@ -1872,8 +2053,12 @@ weapons/il_fastpack_f_16i_left/short;CFT
 //GERMANY SMOKE GRENADES
 
 //USSR SMOKE GRENADES
-weapons/t_34_85_stp_s53_smoke_barrel_launcher;<color=@userlogColoredText>450 mm</color> Bol'šaâ dymovaâ šaška BDŠ-5 <color=#ff6f00>GRN-SMK</color>
-weapons/t_34_85_stp_s53_smoke_barrel_launcher/short;BDŠ-5
+weapons/t_34_85_stp_s53_smoke_barrel_launcher;<color=@userlogColoredText>450 mm</color> Bol'shaya dymovaya shashka BDSh-5 <color=#ff6f00>GRN-SMK</color>
+weapons/t_34_85_stp_s53_smoke_barrel_launcher/short;BDSh-5
+weapons/is_2m_smoke_barrel_launcher;<color=@userlogColoredText>450 mm</color> Bol'shaya dymovaya shashka BDSh-5 <color=#ff6f00>GRN-SMK</color>
+weapons/is_2m_smoke_barrel_launcher/short;BDSh-5
+weapons/object_416_smoke_barrel_launcher;<color=@userlogColoredText>450 mm</color> Bol'shaya dymovaya shashka BDSh-5 <color=#ff6f00>GRN-SMK</color>
+weapons/object_416_smoke_barrel_launcher/short;BDSh-5
 
 //UK SMOKE GRENADES
 
@@ -1909,43 +2094,75 @@ explosiveType/jhl_3;JHL3
 explosiveType/pax_48;PAX-48
 explosiveType/pax_3;PAX-3
 explosiveType/destex;Destex
+explosiveType/hbx_1;HBX-1
+explosiveType/trinalite;Trinalite
+explosiveType/amatol_80_20;Amatol 80/20
 
 //UNCATEGORIZED
 weapons/cannonMGC30L;20 mm MG C/30L cannon
+weapons/cannonMGC30L/short;MG C/30L
 weapons/gunType97;7.7 mm Type 97 machine gun
+weapons/gunType97/short;Type 97
 weapons/gunType97_turret;7.7 mm Type 97 machine gun
+weapons/gunType97_turret/short;Type 97
 weapons/gunMAC34;7.5 mm MAC 1934 machine gun
+weapons/gunMAC34/short;MAC 1934
 weapons/gunMAC34_turret;7.5 mm MAC 1934 machine gun
+weapons/gunMAC34_turret/short;MAC 1934
 weapons/gunMAC34T_turret;7.5 mm MAC 1934T machine gun
+weapons/gunMAC34T_turret/short;MAC 1934T
 weapons/gunDarne23;7.5 mm Mle 1923 machine gun
+weapons/gunDarne23/short;Mle 1923
 weapons/gunDarne23_turret;7.5 mm Mle 1923 machine gun
+weapons/gunDarne23_turret/short;Mle 1923
 weapons/cannonHispano_hs9;20 mm Hispano HS.9 cannon
+weapons/cannonHispano_hs9/short;Hispano HS.9
 weapons/cannonHispano_hs825;30 mm Hispano HS 825 cannon
 weapons/cannonHispano_hs825/short;Hispano HS 825
 weapons/cannonHo3;20 mm Ho-3 cannon
+weapons/cannonHo3/short;Ho-3
 weapons/cannonT15E1;<color=@userlogColoredText>75 mm</color> Gun, 75mm, T15E1 <color=#ff6f00>ACNN</color>
+weapons/cannonT15E1/short;T15E1
 weapons/cannonType97;20 mm Type 97 cannon
 weapons/cannonType97_turret;20 mm Ho-1 cannon
 weapons/gunBredaSAFAT127;12.7 mm Breda-SAFAT machine gun
+weapons/gunBredaSAFAT127/short;Breda
 weapons/gunBredaSAFAT127_turret;12.7 mm Breda-SAFAT machine gun
+weapons/gunBredaSAFAT127_turret/short;Breda
 weapons/gunBredaSAFAT77;7.7 mm Breda-SAFAT machine gun
+weapons/gunBredaSAFAT77/short;Breda
 weapons/gunBredaSAFAT77_turret;7.7 mm Breda-SAFAT machine gun
+weapons/gunBredaSAFAT77_turret/short;Breda
 weapons/gunScotti127_turret;12.7 mm Scotti machine gun
+weapons/gunScotti127_turret/short;Scotti
 weapons/gunDarne33;7.5 mm Darne 1933 machine gun
+weapons/gunDarne33/short;Darne 1933
 weapons/gunMle38;7.5 mm Fabrique Nationale Mle 38 machine gun
+weapons/gunMle38/short;FN Mle 38
 weapons/gunBrowning303;<color=@userlogColoredText>7.7 mm</color> Machine Gun, .303, Browning, Mk. II <color=#ff6f00>MG</color>
+weapons/gunBrowning303/short;Browning, Mk. II
 weapons/gunBrowning303_turret;<color=@userlogColoredText>7.7 mm</color> Machine Gun, .303, Browning, Mk. II <color=#ff6f00>MG</color>
+weapons/gunBrowning303_turret/short;Browning, Mk. II
 weapons/gunBrowning303_raf;<color=@userlogColoredText>7.7 mm</color> Machine Gun, .303, Browning, Mk. II <color=#ff6f00>MG</color>
+weapons/gunBrowning303_raf/short;Browning, Mk. II
 weapons/gunFN_M3P;12.7 mm FN M3P machine gun
+weapons/gunFN_M3P/short;FN M3P
 weapons/gunfn_60_30;7.62 mm FN 60.30 machine gun
+weapons/gunfn_60_30/short;FN 60.30
 weapons/gunfn_60_30_mgp;7.62 mm FN 60.30 machine gun
+weapons/gunfn_60_30_mgp/short;FN 60.30
 weapons/gunFN_M3P_cwp;12.7 mm FN M3P machine gun
+weapons/gunFN_M3P_cwp/short;FN M3P
 weapons/gunFN_M3M;12.7 mm FN M3M machine gun
+weapons/gunFN_M3M/short;FN M3M
 weapons/gunLKk_42;<color=@userlogColoredText>12.7 mm</color> 12,70 mm lentokonekivääri mallia 1942 <color=#ff6f00>MG</color>
 weapons/gunLKk_42/short;12,70 lkk/42
 weapons/gunDA762;<color=@userlogColoredText>7.62 mm</color> 56-P-323 | DA <color=#ff6f00>MG</color>
+weapons/gunDA762/short;DA
 weapons/cannonHispanoMkI;<color=@userlogColoredText>20 mm</color> Gun, Automatic, Hispano, 20-mm, Mk. I <color=#ff6f00>ACNN</color>
+weapons/cannonHispanoMkI/short;Hispano, Mk. I
 weapons/cannonHispano404;20 mm Hispano 404 cannon
+weapons/cannonHispano404/short;HS 404
 weapons/gunBrowningM36No3;<color=@userlogColoredText>7.7 mm</color> 7,70 mm lentokonekivääri mallia 1936 <color=#ff6f00>MG</color>
 weapons/gunBrowningM36No3/short;7,70 lkk/36
 weapons/gunBrowningM36No3Holand;<color=@userlogColoredText>7.92 mm</color> FN-Browning M.36 No.3 <color=#ff6f00>MG</color>
@@ -1955,112 +2172,210 @@ weapons/gunBrowningM36No4Holand_turret/short;FN-Browning M.36 No.4
 weapons/cannonOerliconFF;20 mm Oerlikon FF cannon
 weapons/cannonOerliconFF/short;Oerlikon FF
 weapons/cannonHispano404_turret;20 mm Hispano 404 cannon
+weapons/cannonHispano404_turret/short;HS 404
 weapons/cannonHispanoMkII;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Hispano, Mk. II <color=#ff6f00>ACNN</color>
+weapons/cannonHispanoMkII/short;Hispano, Mk. II
 weapons/cannonHispanoMkII_tutorial;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Hispano, Mk. II <color=#ff6f00>ACNN</color>
 weapons/cannonHispanoMkII_tutorial/short;Hispano, Mk. II
 weapons/cannonHispanoMkV;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Hispano, Mk. V <color=#ff6f00>ACNN</color>
+weapons/cannonHispanoMkV/short;Hispano, Mk. V
 weapons/cannonHispanoMkV_turret;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Hispano, Mk. V <color=#ff6f00>ACNN</color>
+weapons/cannonHispanoMkV_turret/short;Hispano, Mk.V
 weapons/cannonSAA;102 mm 102/35 mod 14 cannon
 weapons/cannonVickers_S;40 mm Vickers S cannon
+weapons/cannonVickers_S/short;Vickers S
 weapons/cannonVickers_S_underwing;40 mm Vickers S cannon (secondary)
+weapons/cannonVickers_S_underwing/short;Vickers S
 weapons/cannonVickers_P;47 mm Vickers P cannon
+weapons/cannonVickers_P/short;Vickers P
 weapons/gunVikkersMkI;<color=@userlogColoredText>7.7 mm</color> Gun, Machine, Vickers, .303-inch, Mk. I <color=#ff6f00>MG</color>
+weapons/gunVikkersMkI/short;Vickers, Mk. I
 weapons/7_92mm_mg08_user_machinegun;<color=@userlogColoredText>7.92 mm</color> Maschinengewehr 08 <color=#ff6f00>MG</color>
 weapons/gunLMG0815;<color=@userlogColoredText>7.92 mm</color> leichter Maschinengewehr 08/15 <color=#ff6f00>MG</color>
+weapons/gunLMG0815/short;M.G. 08/15
 weapons/cannonAN_M2;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, AN/M2 <color=#ff6f00>ACNN</color>
+weapons/cannonAN_M2/short;AN/M2
 weapons/cannonRollsRoyceBH;40 mm Rolls-Royce Type BH cannon
+weapons/cannonRollsRoyceBH/short;RR Type BH
 weapons/cannonT31;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, T31 <color=#ff6f00>ACNN</color>
+weapons/cannonT31/short;T31
 weapons/cannonAN_M3;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, AN/M3 <color=#ff6f00>ACNN</color>
+weapons/cannonAN_M3/short;AN/M3
 weapons/cannonT_160;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, T160 <color=#ff6f00>ACNN</color>
+weapons/cannonT_160/short;T160
 weapons/cannonM39;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, M39 <color=#ff6f00>ACNN</color>
+weapons/cannonM39/short;M39
 weapons/cannonM24A1;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, M24A1 <color=#ff6f00>ACNN</color>
+weapons/cannonM24A1/short;M24A1
 weapons/cannonGLAT_M621;20 mm GIAT M.621 cannon
+weapons/cannonGLAT_M621/short;M.621
 weapons/cannonGLAT_M791;<color=@userlogColoredText>30 mm</color> 30M791 <color=#ff6f00>ACNN</color>
+weapons/cannonGLAT_M791/short;M791
 weapons/gunHo103;12.7 mm Ho-103 machine gun
+weapons/gunHo103/short;Ho-103
+weapons/gunHo103_turret;12.7 mm Ho-103 machine gun
+weapons/gunHo103_turret/short;Ho-103
 weapons/gunHo104_turret;12.7 mm Ho-104 machine gun
-weapons/gunHo103_turret;12.7 mm Ho-104 machine gun
+weapons/gunHo104_turret/short;Ho-104
 weapons/cannonM4;<color=@userlogColoredText>37 mm</color> Gun, 37mm, M4 <color=#ff6f00>CNN</color>
+weapons/cannonM4/short;M4
 weapons/cannonM9;<color=@userlogColoredText>37 mm</color> Gun, 37mm, M9 <color=#ff6f00>CNN</color>
+weapons/cannonM9/short;M9
 weapons/gunMG131;13 mm MG 131 machine gun
+weapons/gunMG131/short;MG 131
 weapons/gunMG131_turret;13 mm MG 131 machine gun
+weapons/gunMG131_turret/short;MG 131
 weapons/cannonMG15115;15 mm MG 151 cannon
+weapons/cannonMG15115/short;MG 151/15
 weapons/cannonMG15115_underwing;15 mm MG 151 cannon (secondary)
+weapons/cannonMG15115_underwing/short;MG 151/15
 weapons/cannonMG15120;20 mm MG 151 cannon
+weapons/cannonMG15120/short;MG 151/20
 weapons/cannonMG15120_underwing;20 mm MG 151 cannon (secondary)
+weapons/cannonMG15120_underwing/short;MG 151/20
 weapons/gunMG15;7.92 mm MG 15 machine gun
-weapons/gunMG17_turret;7.92 mm MG 17 machine gun
+weapons/gunMG15/short;MG 15
 weapons/gunMG15_turret;7.92 mm MG 15 machine gun
+weapons/gunMG15_turret/short;MG 15
+weapons/gunMG17_turret;7.92 mm MG 17 machine gun
+weapons/gunMG17_turret/short;MG 17
+weapons/gunMG17;7.92 mm MG 17 machine gun
+weapons/gunMG17/short;MG 17
 weapons/gunMG14_turret;<color=@userlogColoredText>7.92 mm</color> Maschinengewehr 14 <color=#ff6f00>MG</color>
 weapons/gunMG14_turret/short;MG 14
 weapons/gunType98_turret;7.92 mm Type 98 machine gun
+weapons/gunType98_turret/short;Type 98
 weapons/gunType98;7.92 mm Type 98 machine gun
-weapons/gunMG17;7.92 mm MG 17 machine gun
+weapons/gunType98/short;Type 98
+weapons/gun_type1_turret;7.92 mm Type 1 machine gun
+weapons/gun_type1_turret/short;Type 1
 weapons/gunMG81;7.92 mm MG 81 machine gun
+weapons/gunMG81/short;MG 81
 weapons/gunMG81_turret;7.92 mm MG 81 machine gun
+weapons/gunMG81_turret/short;MG 81
 weapons/gunMG81_underwing;7.92 mm MG 81 machine gun (secondary)
+weapons/gunMG81_underwing/short;MG 81
 weapons/cannonMGFF;20 mm MG FF cannon
+weapons/cannonMGFF/short;MG FF
 weapons/cannonMGFF_turret;20 mm MG FF/M cannon
+weapons/cannonMGFF_turret/short;MG FF/M
 weapons/cannonMGFFM;20 mm MG FF/M cannon
+weapons/cannonMGFFM/short;MG FF/M
 weapons/cannonMK103;<color=@userlogColoredText>30 mm</color> Maschinenkanone 103 <color=#ff6f00>ACNN</color>
+weapons/cannonMK103/short;MK 103
 weapons/cannonMK101;<color=@userlogColoredText>30 mm</color> Maschinenkanone 101 <color=#ff6f00>ACNN</color>
 weapons/cannonMK101/short;M.K. 101
 weapons/cannonMK108;<color=@userlogColoredText>30 mm</color> Maschinenkanone 108 <color=#ff6f00>ACNN</color>
+weapons/cannonMK108/short;MK 108
 weapons/cannonMK103_underwing;<color=@userlogColoredText>30 mm</color> Maschinenkanone 103 <color=#ff6f00>ACNN</color>
+weapons/cannonMK103_underwing/short;MK 103
 weapons/cannonMK103_underwing_go229;<color=@userlogColoredText>30 mm</color> Maschinenkanone 103 <color=#ff6f00>ACNN</color>
+weapons/cannonMK103_underwing_go229/short;MK 103
 weapons/cannonMK108_underwing;<color=@userlogColoredText>30 mm</color> Maschinenkanone 108 <color=#ff6f00>ACNN</color>
+weapons/cannonMK108_underwing/short;MK 108
 weapons/cannonNR23;<color=@userlogColoredText>23 mm</color> NR-23 <color=#ff6f00>ACNN</color>
+weapons/cannonNR23/short;NR-23
 weapons/cannonNR23_turret;<color=@userlogColoredText>23 mm</color> NR-23 <color=#ff6f00>ACNN</color>
+weapons/cannonNR23_turret/short;NR-23
 weapons/cannonNS23;<color=@userlogColoredText>23 mm</color> NS-23 <color=#ff6f00>ACNN</color>
+weapons/cannonNS23/short;NS-23
 weapons/cannonNS23k;<color=@userlogColoredText>23 mm</color> NS-23K <color=#ff6f00>ACNN</color>
+weapons/cannonNS23k/short;NS-23K
 weapons/cannonNS37;<color=@userlogColoredText>37 mm</color> 11P-37 | NS-37 <color=#ff6f00>ACNN</color>
+weapons/cannonNS37/short;NS-37
 weapons/cannonNS37_su_6;<color=@userlogColoredText>37 mm</color> 11P-37 | NS-37 <color=#ff6f00>ACNN</color>
+weapons/cannonNS37_su_6/short;NS-37
 weapons/cannonNS37_assault;<color=@userlogColoredText>37 mm</color> 11P-37 | NS-37 <color=#ff6f00>ACNN</color>
+weapons/cannonNS37_assault/short;NS-37
 weapons/cannonSH37;<color=@userlogColoredText>37 mm</color> Š-37 <color=#ff6f00>ACNN</color>
 weapons/cannonSH37/short;Š-37
 weapons/cannonNS45;<color=@userlogColoredText>45 mm</color> 111-P-45 | NS-45 <color=#ff6f00>ACNN</color>
+weapons/cannonNS45/short;NS-45
 weapons/cannonNS45_heavy_aircrafts;<color=@userlogColoredText>45 mm</color> 111-P-45 | NS-45 <color=#ff6f00>ACNN</color>
 weapons/cannonNS45_heavy_aircrafts/short;NS-45
 weapons/cannonN37D;<color=@userlogColoredText>37 mm</color> N-37D <color=#ff6f00>ACNN</color>
+weapons/cannonN37D/short;N-37D
 weapons/cannonN37;<color=@userlogColoredText>37 mm</color> N-37 <color=#ff6f00>ACNN</color>
+weapons/cannonN37/short;N-37
 weapons/cannonB20;<color=@userlogColoredText>20 mm</color> B-20 <color=#ff6f00>ACNN</color>
+weapons/cannonB20/short;B-20
 weapons/cannonB20S;<color=@userlogColoredText>20 mm</color> B-20S <color=#ff6f00>ACNN</color>
+weapons/cannonB20S/short;B-20S
 weapons/cannonB20M;<color=@userlogColoredText>20 mm</color> B-20M <color=#ff6f00>ACNN</color>
+weapons/cannonB20M/short;B-20M
 weapons/cannonB20_turret;<color=@userlogColoredText>20 mm</color> B-20E <color=#ff6f00>ACNN</color>
+weapons/cannonB20_turret/short;B-20E
 weapons/cannonBT20_turret;<color=@userlogColoredText>20 mm</color> BT-20 <color=#ff6f00>ACNN</color>
+weapons/cannonBT20_turret/short;BT-20
 weapons/gunShKAS;<color=@userlogColoredText>7.62 mm</color> 56-P-426 | ŠKAS <color=#ff6f00>MG</color>
+weapons/gunShKAS/short;ŠKAS
 weapons/gunShKAS_turret;<color=@userlogColoredText>7.62 mm</color> 56-P-426T | ŠKAS <color=#ff6f00>MG</color>
+weapons/gunShKAS_turret/short;ŠKAS
 weapons/cannonShVAK;<color=@userlogColoredText>20 mm</color> 56-P-113 | ŠVAK-20 <color=#ff6f00>ACNN</color>
+weapons/cannonShVAK/short;ŠVAK-20
 weapons/cannonShVAKS;<color=@userlogColoredText>20 mm</color> 56-P-113 | ŠVAK-20 <color=#ff6f00>ACNN</color>
+weapons/cannonShVAKS/short;ŠVAK-20
 weapons/cannonShVAK_turret;<color=@userlogColoredText>20 mm</color> 56-P-113T | ŠVAK-20 <color=#ff6f00>ACNN</color>
+weapons/cannonShVAK_turret/short;ŠVAK-20
 weapons/cannonShVAK_early;<color=@userlogColoredText>20 mm</color> 56-P-113 | ŠVAK-20 <color=#ff6f00>ACNN</color>
+weapons/cannonShVAK_early/short;ŠVAK-20
 weapons/gunUB;<color=@userlogColoredText>12.7 mm</color> UB <color=#ff6f00>MG</color>
+weapons/gunUB/short;UB
 weapons/gunUBK;<color=@userlogColoredText>12.7 mm</color> UBK <color=#ff6f00>MG</color>
+weapons/gunUBK/short;UBK
 weapons/gunUBK_turret;<color=@userlogColoredText>12.7 mm</color> UBT <color=#ff6f00>MG</color>
+weapons/gunUBK_turret/short;UBT
 weapons/gunUB_turret;<color=@userlogColoredText>12.7 mm</color> UBT <color=#ff6f00>MG</color>
+weapons/gunUB_turret/short;UBT
 weapons/gunTe-1_turret;7.7 mm Te-1 machine gun
+weapons/gunTe-1_turret/short;Te-1
 weapons/gunVikkersK;7.7 mm Vickers K machine gun
+weapons/gunVikkersK/short;Vickers K
 weapons/gunVikkersK_turret;7.7 mm Vickers K machine gun
+weapons/gunVikkersK_turret/short;Vickers K
 weapons/gunVikkersE;7.7 mm Vickers E machine gun
+weapons/gunVikkersE/short;Vickers E
 weapons/cannonVYa;<color=@userlogColoredText>23 mm</color> VÂ-23 <color=#ff6f00>ACNN</color>
+weapons/cannonVYa/short;VÂ-23
 weapons/gunUBS;<color=@userlogColoredText>12.7 mm</color> UBS <color=#ff6f00>MG</color>
+weapons/gunUBS/short;UBS
 weapons/gunType89;7.7 mm Type 89 machine gun
+weapons/gunType89/short;Type 89
 weapons/gunType89_turret;7.7 mm Type 89 machine gun
+weapons/gunType89_turret/short;Type 89
 weapons/gunType89s_turret;7.7 mm Type 89 machine gun 'special'
+weapons/gunType89s_turret/short;Type 89
+weapons/gunTe4;7.7 mm Te-4 machine gun
+weapons/gunTe4;Te-4
 weapons/gunType92;7.7 mm Type 92 machine gun
+weapons/gunType92/short;Type 92
 weapons/gunType92_turret;7.7 mm Type 92 machine gun
+weapons/gunType92_turret/short;Type 92
 weapons/gunMAC39;7.5 mm MAC 1934 machine gun
+weapons/gunMAC39/short;MAC 1934
 weapons/gunMAC39_turret;7.5 mm MAC 1934 machine gun
+weapons/gunMAC39_turret/short;MAC 1934
 weapons/cannonM10;<color=@userlogColoredText>37 mm</color> Gun, 37mm, Automatic, M10 <color=#ff6f00>CNN</color>
+weapons/cannonM10/short;M10
 weapons/cannonmk103;<color=@userlogColoredText>30 mm</color> Maschinenkanone 103 <color=#ff6f00>ACNN</color>
+weapons/cannonmk103/short;MK 103
 weapons/cannonmk108;<color=@userlogColoredText>30 mm</color> Maschinenkanone 108 <color=#ff6f00>ACNN</color>
+weapons/cannonmk108/short;MK 108
 weapons/cannonBK5;50 mm BK 5 cannon
+weapons/cannonBK5/short;BK 5
 weapons/gunPV1;<color=@userlogColoredText>7.62 mm</color> 56-P-422 | PV-1 obr. 1928 g. <color=#ff6f00>MG</color>
+weapons/gunPV1/short;PV-1
 weapons/gunBrowningFN_french;7.5 mm FN Browning machine gun
+weapons/gunBrowningFN_french/short;M.36
 weapons/gunFNBrowning_romania;7.92 mm FN Browning machine gun
+weapons/gunFNBrowning_romania/short;M.36
 weapons/gunFNBrowning303;7.92 mm FN Browning machine gun
 weapons/gunLewis;7.7 mm Lewis machine gun
+weapons/gunLewis/short;Lewis
 weapons/gunLewis_turret;7.7 mm Lewis machine gun
+weapons/gunLewis_turret/short;Lewis
 weapons/cannon_for_pony;Friend Mk. III cannon
+weapons/cannon_for_pony/short;Friend Mk. III
 weapons/pony_rocket;Cracker-4 rocket
 weapons/de_sc50;50 kg SC50JA bomb
 weapons/de_sc50_default;50 kg SC50JA bomb
@@ -2091,8 +2406,6 @@ weapons/de_pc1000_ap;1000 kg PC1000 armor-piercing bomb
 weapons/de_pc1000_ap/short;PC1000
 weapons/de_pc1000_rs_ap;1000 kg PC1000 RS armor-piercing rocket bomb
 weapons/de_pc1000_rs_ap/short;PC1000 RS
-weapons/de_pc1600_ap;1600 kg PC1600 armor-piercing bomb
-weapons/de_pc1600_ap/short;PC1600
 weapons/de_pc1800_rs_ap;1800 kg PC1800 RS armor-piercing rocket bomb
 weapons/de_pc1800_rs_ap/short;PC1800 RS
 weapons/de_250_matra_25e;250 kg Matra 25E bomb
@@ -2519,18 +2832,6 @@ weapons/it_snia_bpd_50mm_type_arf8m_at_ap;ARF/8M3(AP-AT) rockets
 weapons/it_snia_bpd_50mm_type_arf8m_at_ap/short;ARF/8M3(AP-AT)
 weapons/swd_rb_05a;robot 05A <color=#ff6f00>AGM-RG</color>
 weapons/swd_rb_05a/short;rb 05A
-weapons/us_2_75_in_ffar_mighty_mouse;Rocket Motor, 2.75-inch FFAR Mk 4 <color=#ff6f00>RKT</color>
-weapons/us_2_75_in_ffar_mighty_mouse/short;2.75-inch FFAR Mk 4
-weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p;Rocket Motor, 2.75-inch FFAR Mk 4 <color=#ff6f00>RKT</color>
-weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p/short;2.75-inch FFAR Mk 4
-weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p_cwp;Rocket Motor, 2.75-inch FFAR Mk 4 <color=#ff6f00>RKT</color>
-weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p_cwp/short;2.75-inch FFAR Mk 4
-weapons/us_2_75_in_ffar_mighty_mouse_m429;Rocket Motor, 2.75-inch FFAR Mk 4, M429 <color=#ff6f00>RKT</color>
-weapons/us_2_75_in_ffar_mighty_mouse_m429/short;2.75-inch FFAR Mk 4, M429
-weapons/us_2_75_in_ffar_mighty_mouse_m439;Rocket Motor, 2.75-inch FFAR Mk 4, M439
-weapons/us_2_75_in_ffar_mighty_mouse_m439/short;2.75-inch FFAR Mk 4, M439
-weapons/us_2_75_in_ffar_mighty_mouse_default;Rocket Motor, 2.75-inch FFAR Mk 4 <color=#ff6f00>RKT</color>
-weapons/us_2_75_in_ffar_mighty_mouse_default/short;2.75-inch FFAR Mk 4
 weapons/fr_fz49;FZ49 HEAT rocket
 weapons/fr_fz49/short;FZ49
 weapons/us_agm_12b_bullpup;AGM-12B Bullpup <color=#ff6f00>AGM-RG</color>
@@ -2804,8 +3105,6 @@ weapons/fr_as30;AS.30 Nord air-to-ground missile
 weapons/fr_as30/short;AS.30 Nord
 weapons/fr_as30l;AS.30L Nord air-to-ground missile
 weapons/fr_as30l/short;AS.30L Nord
-weapons/gr_as34_kormoran;AS.34 Kormoran <color=#ff6f00>AShM-ARH</color>
-weapons/gr_as34_kormoran/short;AS.34
 weapons/us_zuni_wafar_mk32;Rocket Motor, 5-inch FFAR, Mk 16 Mod 0 (Rocket Head, 5-inch, Mk 32 Mod 0 (ATAP)) <color=#ff6f00>RKT</color>
 weapons/us_zuni_wafar_mk32/short;5-inch FFAR, Mk 16 Mod 0 (Mk 32 Mod 0)
 weapons/us_zuni_wafar_mk32_cwp;Rocket Motor, 5-inch FFAR, Mk 16 Mod 0 (Rocket Head, 5-inch, Mk 32 Mod 0 (ATAP)) <color=#ff6f00>RKT</color>
@@ -2944,15 +3243,22 @@ weapons/us_2000lb_mk_84_ldgp/short;Mk 84 Mod 0
 weapons/us_2000lb_mk_84_ldgp_air;<color=@userlogColoredText>893.6 kg</color> Bomb, 2000lb, GP, Mk 84 Mod 1 (BSU-50/B) <color=#ff6f00>BMB-HD</color>
 weapons/us_2000lb_mk_84_ldgp_air/short;Mk 84 Mod 1 (BSU-50/B)
 weapons/cannonBK37;37 mm BK 3.7 cannon
+weapons/cannonBK37/short;BK 3.7
 weapons/cannonBK37_underwing;37 mm BK 3.7 cannon (secondary)
-weapons/cannonHo155;30 mm Ho-155 cannon
+weapons/cannonBK37_underwing/short;BK 3.7
 weapons/cannonHo203;37 mm Ho-203 cannon
+weapons/cannonHo203/short;Ho-203
 weapons/cannonHo204;37 mm Ho-204 cannon
+weapons/cannonHo204/short;Ho-204
 weapons/cannonType94;37 mm Type 94 cannon
 weapons/cannonType98;37 mm Type 98 cannon
+weapons/cannonType98/short;Type 98
 weapons/cannonHo5;20 mm Ho-5 cannon
+weapons/cannonHo5/short;Ho-5
 weapons/cannonHo5_turret;20 mm Ho-5 cannon
+weapons/cannonHo5_turret/short;Ho-5
 weapons/cannonHo401;57 mm Ho-401 cannon
+weapons/cannonHo401/short;Ho-401
 weapons/us_300lb_m_31;<color=@userlogColoredText>124.28 kg</color> Bomb, 300lb, Demolition, M31 <color=#ff6f00>BMB</color>
 weapons/us_300lb_m_31/short;M31
 weapons/us_600lb_m_32;<color=@userlogColoredText>281.68 kg</color> Bomb, 600lb, GP, M32 <color=#ff6f00>BMB</color>
@@ -3029,6 +3335,7 @@ weapons/105mm_GT3_TTD_user_cannon;105 mm GT-3 cannon
 weapons/90mm_GT_2_user_cannon;90 mm GT-2 cannon
 weapons/76mm_GT_4_user_cannon;76 mm GT-4 cannon
 weapons/20mm_GI_2_user_cannon;20 mm GI-2 cannon
+weapons/cannonGI_2/short;GI-2
 weapons/35mm_GA_35_user_cannon;35 mm GA-35 cannon
 weapons/105mm_GT3B_user_cannon;105 mm GT-3 cannon
 76mm_gt4_he;76/62 HE
@@ -3658,7 +3965,9 @@ turret_he/name/short;Air targets
 turret_apt/name;%s mm turret ammunition belt with AP shells
 turret_apt/name/short;Armored targets
 weapons/cannonHo115;30 mm Ho-115 cannon
+weapons/cannonHo115/short;Ho-115
 weapons/gunType3;13.2 mm Type 3 machine gun
+weapons/gunType3/short;Type 3
 apcr_tank/name;Armor-piercing composite rigid shell
 apcr_tank/name/short;APCR
 apbc_tank/name;Armor-piercing ballistic capped shell
@@ -4002,30 +4311,38 @@ chaff_bullet_jet/name/short;Chaff
 76mm_shell_mk1_he;Shell Mk. 1
 napalm;Incendary mixture
 weapons/cannonBK75;75 mm BK 7.5 cannon
+weapons/cannonBK75/short;BK 7.5
 40mm_shot_mk1_aphv;Shot Mk. 1 APHV/T
 40mm_shot_mk1_apcbct;Shot Mk. IXB APCBC/T
 40mm_shot_mk1_apt;Shot Mk. 1 AP/T
 40mm_shell_mk1_apt;Shell Mk. 1 AP/T
 40mm_shell_mk2;Shell Mk. 2
 weapons/gunType2_turret;13 mm Type 2 machine gun
+weapons/gunType2_turret/short;Type 2
 weapons/gunType1_turret;7.92 mm Type 1 machine gun
+weapons/gunType1_turret/short;Type 1
 weapons/de_f5w_torpedo;F5W torpedo
 weapons/de_450_torpedo_f5b;F5b torpedo
 weapons/de_450_torpedo_f5b/short;F5b
 weapons/us_m8bazooka;Rocket, 4.5-inch, HE, M8 <color=#ff6f00>RKT</color>
 weapons/cannonMolinsClassM;57 mm Molins Class M cannon
+weapons/cannonMolinsClassM/short;Class M
 weapons/de_rz65_rocket;RZ.65 rocket
 weapons/de_r4m_orkan_rocket;R4M rocket
 weapons/cannonM4_75mm;75 mm M-4 cannon
-weapons/cannonMk214a;50 mm Mk. 214a cannon
+weapons/cannonMk214a;50 mm MK 214a cannon
+weapons/cannonMk214a/short;MK 214a
 weapons/110mm_M8_rocket_launcher;Rocket, 4.5-inch, HE, M8 <color=#ff6f00>RKT</color>
 weapons/82mm_M8_rocket_launcher;82 mm M-8 rocket
 weapons/82mm_m8_launcher_user_cannon;82 mm M-8 rocket
 weapons/cannonM5;<color=@userlogColoredText>75 mm</color> Gun, 75mm, M5 <color=#ff6f00>CNN</color>
+weapons/cannonM5/short;M5
 weapons/cannonT13E1;<color=@userlogColoredText>75 mm</color> Gun, 75mm, T13E1 <color=#ff6f00>CNN</color>
+weapons/cannonT13E1/short;T13E1
 bulletAction/armor;Armor-piercing effect
 bulletAction/damage;Damaging effect
 weapons/cannonPTB23;23 mm PTB-23 cannon
+weapons/cannonPTB23/short;PTB-23
 weapons/uk_250lbs_late;G.P. 250 lb Mk. IV bomb
 weapons/uk_500lbs_43;G.P. 500 lb Mk. IV bomb
 weapons/uk_250lbs_mc_mk1_mk2_bomb;M.C. 250 lb Mk. I bomb
@@ -4035,6 +4352,7 @@ weapons/uk_250lbs_mc_mk1_mk2_bomb_default/short;M.C. 250 lb
 weapons/uk_1000lbs_mc_mk1_mk2_bomb;M.C. 1000 lb Mk. I bomb
 weapons/uk_1000lbs_mc_mk1_mk2_bomb/short;1000 lb
 weapons/cannonADEN;<color=@userlogColoredText>30 mm</color> ADEN <color=#ff6f00>ACNN</color>
+weapons/cannonADEN/short;ADEN
 weapons/cannonADEN_mk4;<color=@userlogColoredText>30 mm</color> ADEN Mk. 4 <color=#ff6f00>ACNN</color>
 weapons/cannonADEN_mk4/short;ADEN Mk. 4
 weapons/cannonADEN_25;<color=@userlogColoredText>25 mm</color> ADEN 25 <color=#ff6f00>ACNN</color>
@@ -4468,10 +4786,6 @@ weapons/163mm_roland_3_rocket_launcher/short;Roland 3
 weapons/152mm_MIM146;MIM-146A ADATS
 weapons/152mm_MIM146/short;MIM-146A
 152mm_mim146;MIM-146A
-weapons/130mm_rapier_launcher_user_cannon;Tracked Rapier Launcher <color=#ff6f00>LCH</color>
-weapons/130mm_rapier_launcher_user_cannon/short;Tracked Rapier Launcher
-130mm_rapier_mk1e;Rapier Mk. 1E
-130mm_rapier_mk2;Rapier Mk. 2A
 weapons/127mm_mim72a/short;MIM-72A
 127mm_mim72a;MIM-72A
 127mm_mim72c;MIM-72C
@@ -4715,8 +5029,7 @@ weapons/7_7mm_mg_lewis_naval_user_machinegun;<color=@userlogColoredText>7.7 mm</
 weapons/7_7mm_mg_lewis_user_machinegun;<color=@userlogColoredText>7.7 mm</color> Gun, Machine, Lewis, .303-inch, Mk. II <color=#ff6f00>MG</color>
 45mm_br_240_ap;BR-240
 weapons/127mm_5in_mk50_naval_rocket_launcher;127 mm Mk. 7 rocket
-weapons/127mm_5in_mk50_naval_rocket_launcher/short;Мk.7
-weapons/cannonType88;75 mm Type 88 cannon
+weapons/127mm_5in_mk50_naval_rocket_launcher/short;Mk.7
 weapons/76mm_40_type_88_naval_user_cannon;8 cm/40 3rd Year Type cannon
 weapons/76mm_40_type_88_aa_naval_user_cannon;8 cm/40 3rd Year Type cannon
 76mm_type0_navy_he;8 cm Type 0 HE
@@ -4725,10 +5038,15 @@ weapons/cannonBredaModel39/short;Breda Model 39 37/54
 weapons/cannonGIAT_type_30_M781;30 mm GIAT M781 cannon
 weapons/cannonGIAT_type_30_M781/short;GIAT M781
 weapons/cannonDEFA541;30 mm DEFA 541 cannon
+weapons/cannonDEFA541/short;DEFA 541
 weapons/cannonDEFA551;30 mm DEFA 551 cannon
+weapons/cannonDEFA551/short;DEFA 551
 weapons/cannonDEFA552;30 mm DEFA 552 cannon
+weapons/cannonDEFA552/short;DEFA 552
 weapons/cannonDEFA552A;30 mm DEFA 552A cannon
+weapons/cannonDEFA552A/short;DEFA 552A
 weapons/cannonDEFA553;30 mm DEFA 553 cannon
+weapons/cannonDEFA553/short;DEFA 553
 weapons/cannonDEFA553_gunpod;30 mm DEFA 553 cannon
 weapons/cannonDEFA553_gunpod/short;DEFA 553
 weapons/cannonDEFA554;30 mm DEFA 554 cannon
@@ -4736,16 +5054,17 @@ weapons/cannonDEFA554/short;DEFA 554
 weapons/cannonDEFA554_gunpod;30 mm DEFA 554 cannon
 weapons/cannonDEFA554_gunpod/short;DEFA 554
 weapons/cannonM50;20 mm M50 cannon
+weapons/cannonM50/short;M50
 weapons/gunMle33;7.5 mm Mle 33 machine gun
+weapons/gunMle33/short;Mle 33
 weapons/gunMle33_turret;7.5 mm Mle 33 machine gun
+weapons/gunMle33_turret/short;Mle 33
 weapons/depth_charge_mk_9_mortar;K-gun Mk. 9 depth charge
 weapons/depth_charge_mk_9_mortar/short;Mk. 9
 weapons/depth_charge_mk_9;Mk. 9 depth charge
 weapons/depth_charge_mk_9/short;Mk. 9
 weapons/depth_charge_de_wbf;WBF depth charge
 weapons/depth_charge_de_wbf/short;WBF
-weapons/de_533_g7e_t5a_torpedo;533 mm G7e (mod. T5a) torpedo
-weapons/de_533_g7e_t5a_torpedo/short;G7e
 weapons/88mm_56_flak36_naval_user_cannon;88 mm Flak.36 cannon
 weapons/76mm_62_oto_melara_sr_naval_user_cannon;76 mm/62 OTO-Melara SR automatic gun
 weapons/76mm_62_oto_melara_compact_naval_user_cannon;76 mm/62 OTO-Melara Compact automatic gun
@@ -4797,19 +5116,23 @@ weapons/30mm_2A72_BTR_user_cannon;<color=@userlogColoredText>30 mm</color> 2A72 
 30mm_3ubr_11;30 mm APDS-FS
 weapons/cannonGI_2;20 mm GI2 cannon
 weapons/cannonM197;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M197 <color=#ff6f00>ACNN</color>
+weapons/cannonM197/short;M197
 weapons/cannonM197_external;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M197 <color=#ff6f00>ACNN</color>
+weapons/cannonM197_external/short;M197
 weapons/cannonTM197B;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M197 <color=#ff6f00>ACNN</color>
-weapons/gunA_12_7;<color=@userlogColoredText>12.7 mm</color> 9-A-016P | A-12.7 <color=#ff6f00>MG</color>
-weapons/gunYaK_B;<color=@userlogColoredText>12.7 mm</color> ÂkB-12.7 <color=#ff6f00>MG</color>
-weapons/gunYaK_B/short;ÂkB-12.7
-weapons/gunYaK_B_guv;<color=@userlogColoredText>12.7 mm</color> ÂkB-12.7 <color=#ff6f00>MG</color>
-weapons/gunYaK_B_guv/short;ÂkB-12.7
+weapons/cannonTM197B/short;M197
+weapons/gunA_12_7;<color=@userlogColoredText>12.7 mm</color> 9-A-016P | A-12,7 <color=#ff6f00>MG</color>
+weapons/gunA_12_7/short;A-12,7
+weapons/gunYaK_B;<color=@userlogColoredText>12.7 mm</color> ÂkB-12,7 <color=#ff6f00>MG</color>
+weapons/gunYaK_B/short;ÂkB-12,7
+weapons/gunYaK_B_guv;<color=@userlogColoredText>12.7 mm</color> ÂkB-12,7 <color=#ff6f00>MG</color>
+weapons/gunYaK_B_guv/short;ÂkB-12,7
 weapons/gunKord;<color=@userlogColoredText>12.7 mm</color> 6P49V | Kord-V <color=#ff6f00>MG</color>
 weapons/gunKord/short;Kord-V
 weapons/gun_pkt;<color=@userlogColoredText>7.62 mm</color> 6P7 | PKT <color=#ff6f00>MG</color>
 weapons/gun_pkt/short;PKT
-weapons/gunTkb_481;<color=@userlogColoredText>12.7 mm</color> 9-A-016P | A-12.7 <color=#ff6f00>MG</color>
-weapons/gunTkb_481/short;A-12.7
+weapons/gunTkb_481;<color=@userlogColoredText>12.7 mm</color> 9-A-016P | A-12,7 <color=#ff6f00>MG</color>
+weapons/gunTkb_481/short;A-12,7
 weapons/su_9M17M;9М17М Falanga missile
 weapons/su_9M17M/short;9М17М Falanga
 weapons/su_9m17m_default;9М17М Falanga missile
@@ -4887,16 +5210,20 @@ weapons/us_apkws_m282;AGR-20B Advanced Precision Kill Weapon System <color=#ff6f
 weapons/us_apkws_m282/short;AGR-20B
 weapons/il_gatr;Guided Advancted Tactical Rocket <color=#ff6f00>AGM-LG</color>
 weapons/il_gatr/short;GATR
-weapons/spike_er;Spike-ER air-to-ground missiles
-weapons/spike_er/short;Spike-ER
 weapons/tr_l_umtas_missile;L-UMTAS missile
 weapons/tr_l_umtas_missile/short;L-UMTAS
 weapons/cannonGSh_23L_upk_23_250_deafult;<color=@userlogColoredText>23 mm</color> 9-A-472-01 | GŠ-23L <color=#ff6f00>ACNN</color>
+weapons/cannonGSh_23L_upk_23_250_deafult/short;GŠ-23L
 weapons/cannonGSh_23L_upk_23_250;<color=@userlogColoredText>23 mm</color> 9-A-472-01 | GŠ-23L <color=#ff6f00>ACNN</color>
+weapons/cannonGSh_23L_upk_23_250/short;GŠ-23L
 weapons/cannonGSh_23L;<color=@userlogColoredText>23 mm</color> 9-A-472-01 | GŠ-23L <color=#ff6f00>ACNN</color>
+weapons/cannonGSh_23L/short;GŠ-23L
 weapons/cannonXM140;30 mm XM140 cannon
+weapons/cannonXM140/short;XM140
 weapons/cannonGSh_30_2K;<color=@userlogColoredText>30 mm</color> 9-A-623K | GŠ-2-30K <color=#ff6f00>ACNN</color>
+weapons/cannonGSh_30_2K/short;GŠ-2-30K
 weapons/cannonGSh_30_2;<color=@userlogColoredText>30 mm</color> 9-A-623 | GŠ-2-30 <color=#ff6f00>ACNN</color>
+weapons/cannonGSh_30_2/short;GŠ-2-30
 weapons/cannonGSh_6_30;<color=@userlogColoredText>30 mm</color> 9-A-621 | GŠ-6-30A <color=#ff6f00>RCNN</color>
 weapons/cannonGSh_6_30/short;GŠ-6-30A
 weapons/cannonGSh_301;<color=@userlogColoredText>30 mm</color> 9-A-4071K | GŠ-301 <color=#ff6f00>ACNN</color>
@@ -4904,10 +5231,13 @@ weapons/cannonGSh_301/short;GŠ-301
 weapons/cannonGSh_6_23M;<color=@userlogColoredText>23 mm</color> 9-A-768 | GŠ-6-23M <color=#ff6f00>RCNN</color>
 weapons/cannonGSh_6_23M/short;GŠ-6-23M
 weapons/cannonM195;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, M195 <color=#ff6f00>RCNN</color>
+weapons/cannonM195/short;M195
 weapons/cannonOerliconKAD_B;20 mm Oerlikon KAD-B cannon
 weapons/cannonOerliconKAD_B/short;Oerlikon KAD-B
 weapons/cannonJM61A1;<color=@userlogColoredText>20 mm</color> JM61A1 <color=#ff6f00>RCNN</color>
+weapons/cannonJM61A1/short;JM61A1
 weapons/cannonJM61A1_pgu_28;<color=@userlogColoredText>20 mm</color> JM61A1 <color=#ff6f00>RCNN</color>
+weapons/cannonJM61A1_pgu_28/short;JM61A1
 weapons/cannonGAU4;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, GAU-4/A <color=#ff6f00>RCNN</color>
 weapons/cannonGAU4/short;GAU-4/A
 weapons/cannonJGAU4;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, GAU-4/A <color=#ff6f00>RCNN</color>
@@ -4929,13 +5259,15 @@ weapons/cannonHughesMk11Mod0/short;Mk 11 Mod 0
 weapons/cannonMK11_mod5;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, Mk 11 Mod 5 <color=#ff6f00>ACNN</color>
 weapons/cannonMK11_mod5/short;Mk 11 Mod 5
 weapons/cannonNR30;<color=@userlogColoredText>30 mm</color> NR-30 <color=#ff6f00>ACNN</color>
+weapons/cannonNR30/short;NR-30
 weapons/cannonNR30_early;<color=@userlogColoredText>30 mm</color> NR-30 <color=#ff6f00>ACNN</color>
 weapons/cannonNR30_early/short;NR-30
 weapons/cannon2A42;<color=@userlogColoredText>30 mm</color> 2A42 <color=#ff6f00>ACNN</color>
 weapons/cannon2A42/short;2A42
-weapons/gunGShG;<color=@userlogColoredText>7.62 mm</color> 9-A-622 | GŠG-7.62 <color=#ff6f00>MG</color>
-weapons/gunGShG_guv;<color=@userlogColoredText>7.62 mm</color> 9-A-622 | GŠG-7.62 <color=#ff6f00>MG</color>
-weapons/gunGShG_guv/short;GŠG-7.62
+weapons/gunGShG;<color=@userlogColoredText>7.62 mm</color> 9-A-622 | GŠG-7,62 <color=#ff6f00>MG</color>
+weapons/gunGShG/short;GŠG-7,62
+weapons/gunGShG_guv;<color=@userlogColoredText>7.62 mm</color> 9-A-622 | GŠG-7,62 <color=#ff6f00>MG</color>
+weapons/gunGShG_guv/short;GŠG-7,62
 weapons/grenade_launcher_M129;<color=@userlogColoredText>40 mm</color> Grenade, Launcher, 40mm, M129 <color=#ff6f00>LCH</color>
 weapons/grenade_launcher_M129/short;M129
 weapons/gunPKA762;7.62 mm PKA machine gun
@@ -5186,9 +5518,10 @@ weapons/su_r_24t/short;R-24T
 weapons/su_r_24r;R-24R <color=#ff6f00>AAM-SARH</color>
 weapons/su_r_24r/short;R-24R
 weapons/cannonM39A1;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, M39A1 <color=#ff6f00>ACNN</color>
+weapons/cannonM39A1/short;M39A1
 weapons/cannonM39A2;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, M39A2 <color=#ff6f00>ACNN</color>
-weapons/cannonM39A3;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, M39A3 <color=#ff6f00>ACNN</color>
 weapons/cannonM39A2/short;M39A2
+weapons/cannonM39A3;<color=@userlogColoredText>20 mm</color> Gun, 20mm, Automatic, M39A3 <color=#ff6f00>ACNN</color>
 weapons/cannonM39A3/short;M39A3
 weapons/bomb_mark36_srboc_launcher;130 mm Mark 36 SRBOC decoy system
 weapons/bomb_mark36_srboc_launcher/short;130 mm Mark 36 SRBOC
@@ -5972,10 +6305,6 @@ nr23_turret_apit/name/short;APIT
 weapons/20mm_65_c38_naval_user_cannon;2 cm/65 C/38 automatic cannon
 weapons/20mm_65_c38_zwilling_naval_user_cannon;2 cm/65 Flakzwilling 38 automatic cannon
 weapons/20mm_65_c30_naval_user_cannon;2 cm/65 C/30 automatic cannon
-weapons/de_500mm_g7_torpedo;500 mm G7 torpedo
-weapons/de_500mm_g7_torpedo/short;G7
-weapons/de_533mm_g7a_torpedo;533 mm G7a torpedo
-weapons/de_533mm_g7a_torpedo/short;G7a
 weapons/15mm_MG151_user_cannon;15 mm MG151/15 machine gun
 15mm_h_pzgr;H-Pzgr.
 weapons/15mm_MG151_mid_drilling_user_cannon;15 mm MG151 machine gun
@@ -6317,9 +6646,12 @@ weapons/30mm_ak_230_naval_user_cannon;30 mm AK-230 automatic twin gun
 weapons/30mm_ak_230_naval_user_cannon/short;AK-230
 weapons/ussr_533mm_53_56_torpedo;533 mm 53-56 torpedo
 weapons/ussr_533mm_53_56_torpedo/short;53-56
-weapons/cannonBrowning-Colt_Mk12_Mod3;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, Mk 12 Mod 3 <color=#ff6f00>ACNN</color>
 weapons/cannonBrowning-Colt_Mk12_Mod0;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, Mk 12 Mod 0 <color=#ff6f00>ACNN</color>
+weapons/cannonBrowning-Colt_Mk12_Mod0/short;Mk 12 Mod 0
+weapons/cannonBrowning-Colt_Mk12_Mod3;<color=@userlogColoredText>20 mm</color> Cannon, 20mm, Mk 12 Mod 3 <color=#ff6f00>ACNN</color>
+weapons/cannonBrowning-Colt_Mk12_Mod3/short;Mk 12 Mod 3
 weapons/cannonGSh_23;23 mm GSh-23-2 cannon
+weapons/cannonGSh_23/short;GSh-23-2
 football_kick;Kick
 football_kick/name/short;SF
 football_kick/name;Special football kick
@@ -6593,8 +6925,6 @@ weapons/100mm_55_mle_1953_naval_user_cannon;100 mm/55 MLE model 53 cannon
 375mm_erika;375 mm M/50 Bofors anti submarine rocket launcher
 weapons/bomb_de_375mm_erika;375 mm M/50 Bofors anti submarine rocket launcher
 weapons/bomb_de_375mm_erika/short;M/50 Bofors
-weapons/us_533mm_21in_mark35_torpedo;533 mm Mark 35 torpedo
-weapons/us_533mm_21in_mark35_torpedo/short;533 mm Mk. 35
 weapons/120mm_45_type_10_naval_user_cannon;120 mm/45 Type 10 cannon
 weapons/6_5mm_fiat_mod26_naval_user_machinegun;6.5 mm Fiat Model 26 machinegun
 weapons/13_2mm_76_breda_mod31_naval_user_machinegun;13,2 mm Breda Model 31 machinegun
@@ -6757,8 +7087,6 @@ weapons/305mm_50_skl_50_naval_user_cannon;305 mm/50 SK L/50 cannon
 305mm_spgr_l_3_3_bdz_sap;305 mm Spgr. L/3.3 SAP
 305_psgr_l_3_4_apc;305 mm Psgr. L/3.4
 305mm_spgr_l_3_3_bdz_he;305 mm Spgr. L/3.3 SAP
-weapons/de_500mm_g6c_torpedo;500 mm G6c torpedo
-weapons/de_500mm_g6c_torpedo/short;500 mm G6c
 weapons/305mm_50_12inch_mark11_naval_user_cannon;12 inch/50 Mark XI cannon
 weapons/102mm_50_4inch_bl_mk7_naval_user_cannon;4 inch/50 BL Mark VII cannon
 102mm_50_bl_he;4 inch HE
@@ -6977,8 +7305,6 @@ weapons/381mm_42_bl_mk1_naval_user_cannon;15 inch/42 BL Mark I cannon
 381mm_mark_12a_4crh_apc;15 inch 4crh Mark XIIa APC
 381mm_mark_1a_4crh_apc;381 mm Mk.Ia APC
 381mm_mark_17b_6crh_apc;381 mm Mk.XVIIb APC
-weapons/406mm_45_bl_mk1_r1_naval_user_cannon;16 inch/45 BL Mark I cannon
-weapons/406mm_45_bl_mk1_r2_naval_user_cannon;16 inch/45 BL Mark I mod.2 cannon
 406mm_uk_he;16 inch HE
 406mm_mark_1a_apcbc;16 inch Mark Ia APCBC
 weapons/178mm_up_mk1_naval_rocket_launcher;178 mm UP Mk. 1

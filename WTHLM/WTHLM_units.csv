@@ -72,37 +72,37 @@ unic_yorktown;USS Yorktown CV-5
 unic_yorktown_0;USS Yorktown CV-5
 unic_yorktown_1;USS Yorktown
 unic_yorktown_2;Carrier
-unic_soryu;IJN Sōryū
-unic_soryu_0;IJN Sōryū
-unic_soryu_1;IJN Sōryū
+unic_soryu;Sōryū
+unic_soryu_0;Sōryū
+unic_soryu_1;Sōryū
 unic_soryu_2;Carrier
-unic_hiryu;IJN Hiryū
-unic_hiryu_0;IJN Hiryū
-unic_hiryu_1;IJN Hiryū
+unic_hiryu;Hiryū
+unic_hiryu_0;Hiryū
+unic_hiryu_1;Hiryū
 unic_hiryu_2;Carrier
-unic_kaga;IJN Kaga
-unic_kaga_0;IJN Kaga
-unic_kaga_1;IJN Kaga
+unic_kaga;Kaga
+unic_kaga_0;Kaga
+unic_kaga_1;Kaga
 unic_kaga_2;Carrier
-unic_akagi;IJN Akagi
-unic_akagi_0;IJN Akagi
-unic_akagi_1;IJN Akagi
+unic_akagi;Akagi
+unic_akagi_0;Akagi
+unic_akagi_1;Akagi
 unic_akagi_2;Carrier
-unic_shokaku;IJN Shōkaku
-unic_shokaku_0;Shōkaku-class, IJN Shōkaku
-unic_shokaku_1;IJN Shōkaku
+unic_shokaku;Shōkaku
+unic_shokaku_0;Shōkaku-class, Shōkaku
+unic_shokaku_1;Shōkaku
 unic_shokaku_2;Carrier
-unic_zuikaku;IJN Zuikaku
-unic_zuikaku_0;IJN Zuikaku
-unic_zuikaku_1;IJN Zuikaku
+unic_zuikaku;Zuikaku
+unic_zuikaku_0;Zuikaku
+unic_zuikaku_1;Zuikaku
 unic_zuikaku_2;Carrier
 unic_saratoga;USS Saratoga CV-3
 unic_saratoga_0;USS Saratoga CV-3
 unic_saratoga_1;USS Saratoga
 unic_saratoga_2;Carrier
-unic_zuiho;IJN Zuiho
-unic_zuiho_0;IJN Zuiho
-unic_zuiho_1;IJN Zuiho
+unic_zuiho;Zuiho
+unic_zuiho_0;Zuiho
+unic_zuiho_1;Zuiho
 unic_zuiho_2;Carrier
 unic_wasp;USS Wasp CV-7
 unic_wasp_0;USS Wasp CV-7
@@ -112,9 +112,9 @@ unic_lexington;USS Lexington CV-2
 unic_lexington_0;USS Lexington CV-2
 unic_lexington_1;USS Lexington
 unic_lexington_2;Carrier
-unic_shoho;IJN Shoho
-unic_shoho_0;IJN Shoho
-unic_shoho_1;IJN Shoho
+unic_shoho;Shoho
+unic_shoho_0;Shoho
+unic_shoho_1;Shoho
 unic_shoho_2;Carrier
 unic_wheeler_hangar;Hangar
 unic_wheeler_hangar_0;Hangar
@@ -1175,6 +1175,12 @@ air_defence/us_ground_12mm_m2_noground_2;Machine Gun
 us_ai_aew_radar_tps_59_0;Radar Set, Lightweight, 3D, AN/TPS-59
 us_ai_aew_radar_tps_59_1;AN/TPS-59
 us_ai_aew_radar_tps_59_2;Radar
+us_ai_sam_radar_an_mpq_33_0;Radar Set, AN/MPQ-33 Low Power Illuminator
+us_ai_sam_radar_an_mpq_33_1;AN/MPQ-33
+us_ai_sam_radar_an_mpq_33_2;Radar
+us_ai_sam_radar_an_mpq_34_cwar_0;Radar Set, AN/MPQ-34 Continuous Wave Acquisition Radar
+us_ai_sam_radar_an_mpq_34_cwar_1;AN/MPQ-34
+us_ai_sam_radar_an_mpq_34_cwar_2;Radar
 us_ai_sam_radar_cwar_0;Radar Set, AN/MPQ-55 Continuous Wave Acquisition Radar
 us_ai_sam_radar_cwar_1;AN/MPQ-55
 us_ai_sam_radar_cwar_2;Radar
@@ -1196,12 +1202,24 @@ us_ai_sam_launcher_m901_2;SAM
 us_ai_sam_launcher_m192_0;Launcher, Zero Length, Guided Missile, Semitrailer Mounted: M192
 us_ai_sam_launcher_m192_1;M192
 us_ai_sam_launcher_m192_2;SAM
+us_ai_sam_launcher_m192_early_0;Launcher, Zero Length, Guided Missile, Semitrailer Mounted: M192
+us_ai_sam_launcher_m192_early_1;M192
+us_ai_sam_launcher_m192_early_2;SAM
+wheeled_vehicles/us_m35a2_awning_0;Truck, 2½-Ton, 6x6, Studebaker Model US6
+wheeled_vehicles/us_m35a2_awning_1;Studebaker US6
+wheeled_vehicles/us_m35a2_awning_2;Truck
+wheeled_vehicles/us_m35a2_awning_ammo_carrier_0;Truck, 2½-Ton, 6x6, Studebaker Model US6
+wheeled_vehicles/us_m35a2_awning_ammo_carrier_1;Studebaker US6
+wheeled_vehicles/us_m35a2_awning_ammo_carrier_2;Truck
 wheeled_vehicles/us_m939_awning_ammo_carrier_0;Truck, Chassis: 5-Ton, 6x6, M939
 wheeled_vehicles/us_m939_awning_ammo_carrier_1;M939
-wheeled_vehicles/us_m939_awning_ammo_carrier_2;Transport
-wheeled_vehicles/us_m978_fuel_carrier_0;Truck, Tank: Fuel Servicing, 8x8, 2,500 gal, HEMTT, M978
+wheeled_vehicles/us_m939_awning_ammo_carrier_2;Truck
+wheeled_vehicles/us_m978_fuel_carrier_0;Truck, Tank, Fuel: 8x8, W/O Winch, M978
 wheeled_vehicles/us_m978_fuel_carrier_1;M978
-wheeled_vehicles/us_m978_fuel_carrier_2;Transport
+wheeled_vehicles/us_m978_fuel_carrier_2;Fuel Truck
+wheeled_vehicles/us_m35a2_fuel_carrier_0;Truck, Tank, Fuel: 8x8, W/O Winch, M978
+wheeled_vehicles/us_m35a2_fuel_carrier_1;M978
+wheeled_vehicles/us_m35a2_fuel_carrier_2;Fuel Truck
 ussr_ai_sam_launcher_s_75_0;SM-90
 ussr_ai_sam_launcher_s_75_1;SM-90
 ussr_ai_sam_launcher_s_75_2;SAM
@@ -1220,53 +1238,108 @@ ussr_ai_sam_radar_5n64s_2;Radar
 ussr_ai_sam_radar_5n63s_0;Komandnyj punkt 5N63S
 ussr_ai_sam_radar_5n63s_1;5N63S
 ussr_ai_sam_radar_5n63s_2;Radar
-ussr_ai_sam_radar_9s18_0;"Stancziâ obnaružyeniâ i czyelyeukazaniâ 9S18 ""Kupol"""
+ussr_ai_sam_radar_9s18_0;"Stantsiya obnaruzhyeniya i tsyelyeukazaniya 9S18 ""Kupol"""
 ussr_ai_sam_radar_9s18_1;9S18
 ussr_ai_sam_radar_9s18_2;Radar
+ussr_ai_sam_radar_9s18m1_0;"Stantsiya obnaruzhyeniya i tsyelyeukazaniya 9S18M1 ""Kupol-M1"""
+ussr_ai_sam_radar_9s18m1_1;9S18M1
+ussr_ai_sam_radar_9s18m1_2;Radar
 ussr_ai_mlrs_9a52_2_smerch_0;"Boyevaâ mašina 9A52-2 ""Smyerč-M"""
 ussr_ai_mlrs_9a52_2_smerch_1;9A52-2
 ussr_ai_mlrs_9a52_2_smerch_2;MLRS
 ussr_ai_tbm_9k79_tochka_0;"Taktičyeskij rakyetnyj komplyeks 9P129 ""Točka"""
 ussr_ai_tbm_9k79_tochka_1;9P129
 ussr_ai_tbm_9k79_tochka_2;TBM
-ussr_ai_sam_launcher_5p85se_0;Samokhodnaâ ognyevaâ ustanovka 5P85S
+ussr_ai_sam_launcher_5p85se_0;Samokhodnaya ognyevaya ustanofka 5P85S
 ussr_ai_sam_launcher_5p85se_1;5P85S
 ussr_ai_sam_launcher_5p85se_2;SPAAM
-ussr_ai_sam_launcher_9a310_0;"Samokhodnaâ ognyevaâ ustanovka 9S18 ""Kupol"""
+ussr_ai_sam_launcher_9a310_0;"Samokhodnaya ognyevaya ustanofka 9A310 ""Buk"""
 ussr_ai_sam_launcher_9a310_1;9A310
 ussr_ai_sam_launcher_9a310_2;SPAAM
-wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;KAMAZ-4310
+ussr_ai_sam_launcher_9a310m1_0;"Samokhodnaya ognyevaya ustanofka 9A310M1 ""Buk-M1"""
+ussr_ai_sam_launcher_9a310m1_1;9A310M1
+ussr_ai_sam_launcher_9a310m1_2;SPAAM
+wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;Aftomob'il' KAMAZ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_1;KAMAZ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_2;Transport
+wheeled_vehicles/ussr_zil_131_awning_0;Aftomob'il' ZiS-5
+wheeled_vehicles/ussr_zil_131_awning_1;ZiS-5
+wheeled_vehicles/ussr_zil_131_awning_2;Truck
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_0;Aftomob'il' ZiS-5
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_1;ZiS-5
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_2;Truck
+wheeled_vehicles/ussr_zil_131_fuel_carrier_0;B'enzozaprafsh'ik BZ-35
+wheeled_vehicles/ussr_zil_131_fuel_carrier_1;BZ-35
+wheeled_vehicles/ussr_zil_131_fuel_carrier_2;Fuel Tanker
 ussr_g5_mtb_landing_craft_0;G-5
 ussr_g5_mtb_landing_craft_1;G-5
 ussr_g5_mtb_landing_craft_2;Landing craft
 
 us_aircraftcarrier_lexington_shop;USS Lexington (CV-2)
-us_aircraftcarrier_lexington_0;"<color=#fffa62>Lexington-class</color>
+us_aircraftcarrier_lexington_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard <color=@commonTextColor>/</color> Naval Station Pearl
+Harbor</color>
+<color=#fffa62>Lexington-class Aircraft Carrier</color>
 USS Lexington (CV-2)
-<color=#adadad>(1942)</color>"
+<color=#adadad>(1941)</color>"
 us_aircraftcarrier_lexington_1;USS Lexington
-us_aircraftcarrier_lexington_2;Carrier
+us_aircraftcarrier_lexington_2;Aircraft Carrier
 
-us_aircraftcarrier_enterprise_shop;USS Enterprise (CV-6)
-us_aircraftcarrier_enterprise_0;"<color=#fffa62>Yorktown-class</color>
-USS Enterprise (CV-6)
-<color=#adadad>(1942)</color>"
-us_aircraftcarrier_enterprise_1;USS Enterprise
-us_aircraftcarrier_enterprise_2;Carrier
+us_aircraftcarrier_lexington_ai_shop;USS Lexington (CV-2)
+us_aircraftcarrier_lexington_ai_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard <color=@commonTextColor>/</color> Naval Station Pearl
+Harbor</color>
+<color=#fffa62>Lexington-class Aircraft Carrier</color>
+USS Lexington (CV-2)
+<color=#adadad>(1941)</color>"
+us_aircraftcarrier_lexington_ai_1;USS Lexington
+us_aircraftcarrier_lexington_ai_2;Aircraft Carrier
 
 us_aircraftcarrier_saratoga_shop;USS Saratoga (CV-3)
-us_aircraftcarrier_saratoga_0;"<color=#fffa62>Lexington-class</color>
+us_aircraftcarrier_saratoga_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Naval Station Pearl Harbor</color>
+<color=#fffa62>Lexington-class Aircraft Carrier</color>
 USS Saratoga (CV-3)
 <color=#adadad>(1942)</color>"
 us_aircraftcarrier_saratoga_1;USS Saratoga
-us_aircraftcarrier_saratoga_2;Carrier
+us_aircraftcarrier_saratoga_2;Aircraft Carrier
+
+us_aircraftcarrier_saratoga_ai_shop;USS Saratoga (CV-3)
+us_aircraftcarrier_saratoga_ai_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Naval Station Pearl Harbor</color>
+<color=#fffa62>Lexington-class Aircraft Carrier</color>
+USS Saratoga (CV-3)
+<color=#adadad>(1942)</color>"
+us_aircraftcarrier_saratoga_ai_1;USS Saratoga
+us_aircraftcarrier_saratoga_ai_2;Aircraft Carrier
+
+us_aircraftcarrier_enterprise_shop;USS Enterprise (CV-6)
+us_aircraftcarrier_enterprise_0;"<color=#81c3fc>Newport News Shipbuilding and Dry Dock Company <color=@commonTextColor>/</color> Naval Station Pearl
+Harbor</color>
+<color=#fffa62>Yorktown-class Aircraft Carrier</color>
+USS Enterprise (CV-6)
+<color=#adadad>(1942)</color>"
+us_aircraftcarrier_enterprise_1;USS Enterprise
+us_aircraftcarrier_enterprise_2;Aircraft Carrier
+
+us_aircraftcarrier_enterprise_ai_shop;USS Enterprise (CV-6)
+us_aircraftcarrier_enterprise_ai_0;"<color=#81c3fc>Newport News Shipbuilding and Dry Dock Company <color=@commonTextColor>/</color> Naval Station Pearl
+Harbor</color>
+<color=#fffa62>Yorktown-class Aircraft Carrier</color>
+USS Enterprise (CV-6)
+<color=#adadad>(1942)</color>"
+us_aircraftcarrier_enterprise_ai_1;USS Enterprise
+us_aircraftcarrier_enterprise_ai_2;Aircraft Carrier
 
 us_aircraftcarrier_forrestal_shop;USS Forrestal (CVA-59)
-us_aircraftcarrier_forrestal_0;USS Forrestal (CVA-59)
+us_aircraftcarrier_forrestal_0;"<color=#81c3fc>Newport News Shipbuilding and Dry Dock Company</color>
+<color=#fffa62>Forrestal-class Aircraft Carrier</color>
+USS Forrestal (CVA-59)"
 us_aircraftcarrier_forrestal_1;USS Forrestal
-us_aircraftcarrier_forrestal_2;Carrier
+us_aircraftcarrier_forrestal_2;Aircraft Carrier
+
+us_aircraftcarrier_forrestal_ai_shop;USS Forrestal (CVA-59)
+us_aircraftcarrier_forrestal_ai_0;"<color=#81c3fc>Newport News Shipbuilding and Dry Dock Company</color>
+<color=#fffa62>Forrestal-class Aircraft Carrier</color>
+USS Forrestal (CVA-59)"
+us_aircraftcarrier_forrestal_ai_1;USS Forrestal
+us_aircraftcarrier_forrestal_ai_2;Aircraft Carrier
 
 ussr_aircraftcarrier_baku_shop;Baku
 ussr_aircraftcarrier_baku_0;"<color=#fffa62>Proyekt 11434</color>
@@ -1274,30 +1347,86 @@ Baku"
 ussr_aircraftcarrier_baku_1;Baku
 ussr_aircraftcarrier_baku_2;Carrier
 
-ships/ussr_aircraftcarrier_admiral_kuznetsov_shop;Admiral Flota Sovyetskogo Soûza Kuznyeczov
-ships/ussr_aircraftcarrier_admiral_kuznetsov_0;"<color=#81c3fc>Čyernomorskij sudostroityel'nyj zavod</color>
-<color=#fffa62>Tâžëlyj Avianyesuŝij Kryejsyer Proyekt 1143.5 Kryečyet</color>
-Admiral Flota Sovyetskogo Soûza Kuznyeczov"
-ships/ussr_aircraftcarrier_admiral_kuznetsov_1;Admiral Flota Sovyetskogo Soûza Kuznyeczov
-ships/ussr_aircraftcarrier_admiral_kuznetsov_2;Destroyer
+ussr_aircraftcarrier_baku_shop;Baku
+ussr_aircraftcarrier_baku_0;"<color=#81c3fc>Ch'ernomorsk'ij sudostroit'el'nyj zavot</color>
+<color=#fffa62>T'azhyolyj av'ianyesush'ij kryejs'er proyekt 1143.4 Kryech'et</color>
+Baku"
+ussr_aircraftcarrier_baku_1;Baku
+ussr_aircraftcarrier_baku_2;Aircraft Carrier
 
-ussr_aircraftcarrier_admiral_kuznetsov_shop;Admiral Flota Sovyetskogo Soûza Kuznyeczov
-ussr_aircraftcarrier_admiral_kuznetsov_0;"<color=#81c3fc>Čyernomorskij sudostroityel'nyj zavod</color>
-<color=#fffa62>Tâžëlyj Avianyesuŝij Kryejsyer Proyekt 1143.5 Kryečyet</color>
-Admiral Flota Sovyetskogo Soûza Kuznyeczov"
-ussr_aircraftcarrier_admiral_kuznetsov_1;Admiral Flota Sovyetskogo Soûza Kuznyeczov
-ussr_aircraftcarrier_admiral_kuznetsov_2;Destroyer
+ussr_aircraftcarrier_baku_ai_shop;Baku
+ussr_aircraftcarrier_baku_ai_0;"<color=#81c3fc>Ch'ernomorsk'ij sudostroit'el'nyj zavot</color>
+<color=#fffa62>T'azhyolyj av'ianyesush'ij kryejs'er proyekt 1143.4 Kryech'et</color>
+Baku"
+ussr_aircraftcarrier_baku_ai_1;Baku
+ussr_aircraftcarrier_baku_ai_2;Aircraft Carrier
 
-uk_aircraftcarrier_illustrious_shop;HMS Illustrious (87)
-uk_aircraftcarrier_illustrious_0;"<color=#fffa62>Illustrious-class</color>
-HMS Illustrious (87)"
-uk_aircraftcarrier_illustrious_1;HMS Illustrious
-uk_aircraftcarrier_illustrious_2;Carrier
+ships/ussr_aircraftcarrier_admiral_kuznetsov_shop;Admiral Flota Sov'etskogo Soyuza Kuznyetsof
+ships/ussr_aircraftcarrier_admiral_kuznetsov_0;"<color=#81c3fc>Ch'ernomorsk'ij sudostroit'el'nyj zavot</color>
+<color=#fffa62>T'azhyolyj av'ianyesush'ij kryejs'er proyekt 1143.5 Kryech'et</color>
+Admiral Flota Sov'etskogo Soyuza Kuznyetsof"
+ships/ussr_aircraftcarrier_admiral_kuznetsov_1;Admiral Flota Sov'etskogo Soyuza Kuznyetsof
+ships/ussr_aircraftcarrier_admiral_kuznetsov_2;Aircraft Carrier
+
+ussr_aircraftcarrier_admiral_kuznetsov_shop;Admiral Flota Sov'etskogo Soyuza Kuznyetsof
+ussr_aircraftcarrier_admiral_kuznetsov_0;"<color=#81c3fc>Ch'ernomorsk'ij sudostroit'el'nyj zavot</color>
+<color=#fffa62>T'azhyolyj av'ianyesush'ij kryejs'er proyekt 1143.5 Kryech'et</color>
+Admiral Flota Sov'etskogo Soyuza Kuznyetsof"
+ussr_aircraftcarrier_admiral_kuznetsov_1;Admiral Flota Sov'etskogo Soyuza Kuznyetsof
+ussr_aircraftcarrier_admiral_kuznetsov_2;Aircraft Carrier
+
+ussr_aircraftcarrier_admiral_kuznetsov_ai_shop;Admiral Flota Sov'etskogo Soyuza Kuznyetsof
+ussr_aircraftcarrier_admiral_kuznetsov_ai_0;"<color=#81c3fc>Ch'ernomorsk'ij sudostroit'el'nyj zavot</color>
+<color=#fffa62>T'azhyolyj av'ianyesush'ij kryejs'er proyekt 1143.5 Kryech'et</color>
+Admiral Flota Sov'etskogo Soyuza Kuznyetsof"
+ussr_aircraftcarrier_admiral_kuznetsov_ai_1;Admiral Flota Sov'etskogo Soyuza Kuznyetsof
+ussr_aircraftcarrier_admiral_kuznetsov_ai_2;Aircraft Carrier
+
+ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_0;T'azhyolyj av'ianyesush'ij kryejs'er proyekt 1143.5 Kryech'et | Admiral Flota Sov'etskogo Soyuza Kuznyetsof
+ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_1;Admiral Flota Sov'etskogo Soyuza Kuznyetsof
+ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_2;Aircraft Carrier
 
 uk_aircraftcarrier_ark_royal_shop;HMS Ark Royal (R 09)
-uk_aircraftcarrier_ark_royal_0;HMS Ark Royal (R 09)
+uk_aircraftcarrier_ark_royal_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Devonport Dockyard</color>
+<color=#fffa62>Audacious-class</color>
+HMS Ark Royal (R 09)
+<color=#adadad>(1967)</color>"
 uk_aircraftcarrier_ark_royal_1;HMS Ark Royal
-uk_aircraftcarrier_ark_royal_2;Carrier
+uk_aircraftcarrier_ark_royal_2;Aircraft Carrier
+
+uk_aircraftcarrier_ark_royal_ai_shop;HMS Ark Royal (R 09)
+uk_aircraftcarrier_ark_royal_ai_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Devonport Dockyard</color>
+<color=#fffa62>Audacious-class</color>
+HMS Ark Royal (R 09)
+<color=#adadad>(1967)</color>"
+uk_aircraftcarrier_ark_royal_ai_1;HMS Ark Royal
+uk_aircraftcarrier_ark_royal_ai_2;Aircraft Carrier
+
+uk_aircraftcarrier_illustrious_shop;HMS Illustrious (87)
+uk_aircraftcarrier_illustrious_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+<color=#fffa62>Illustrious-class</color>
+HMS Illustrious (87)"
+uk_aircraftcarrier_illustrious_1;HMS Illustrious
+uk_aircraftcarrier_illustrious_2;Aircraft Carrier
+
+uk_aircraftcarrier_illustrious_ai_shop;HMS Illustrious (87)
+uk_aircraftcarrier_illustrious_ai_0;"<color=#81c3fc>Vickers-Armstrongs</color>
+<color=#fffa62>Illustrious-class</color>
+HMS Illustrious (87)"
+uk_aircraftcarrier_illustrious_ai_1;HMS Illustrious
+uk_aircraftcarrier_illustrious_ai_2;Aircraft Carrier
+
+ships/jp_aircraftcarrier_shokaku_ai_0;Shōkaku Gata Kōkū Bokan (G-11) | Shōkaku 
+ships/jp_aircraftcarrier_shokaku_ai_1;Shōkaku
+ships/jp_aircraftcarrier_shokaku_ai_2;Aircraft Carrier
+
+jp_aircraftcarrier_shokaku_ai_shop;Shōkaku
+jp_aircraftcarrier_shokaku_ai_0;"<color=#81c3fc>Yokosuka Kaigun Kōshō</color>
+<color=#5cae63>G-11</color>
+<color=#fffa62>Shōkaku Gata Kōkū Bokan</color>
+Shōkaku"
+jp_aircraftcarrier_shokaku_ai_1;Shōkaku
+jp_aircraftcarrier_shokaku_ai_2;Aircraft Carrier
 
 //NON-NATIONAL GROUPS
 shop/group/md_btr_80_group;Armadillo
@@ -1523,7 +1652,7 @@ shop/group/uk_caernarvon_conqueror_group;Caernarvon / Conqueror
 shop/group/uk_scimitar_fox_group;Scimitar / Fox
 shop/group/uk_challenger_group;Challenger 1, Mk. 2 / 3
 shop/group/uk_challenger_2_group;Challenger 2 (2E) / (2F) / (TES)
-shop/group/uk_challenger_bn_e_group;"Challenger 2, Mk. 2 ""BN"" / 2E"
+shop/group/uk_challenger_bn_e_group;"Challenger 2 Mk. 2 ""BN"" / 2E"
 shop/group/uk_churchill_group;Churchill, Mk. III / IV, N.A.75
 shop/group/uk_fv_m109_group;Centaur / ▄ M109A1
 shop/group/uk_tortoise_conway_group;Tortoise / Conway
@@ -2238,18 +2367,42 @@ jaguar_a_iaf_killstreak_1;☢ Jaguar A
 jaguar_a_iaf_killstreak_2;☢ Jaguar
 
 su_24m_killstreak_shop;☢ Su-24M2
-su_24m_killstreak_0;☢ "<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+su_24m_killstreak_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
 <color=#5cae63>izd. T-6M2</color>
 ☢ Samolyot Su-24M2"
 su_24m_killstreak_1;☢ Su-24M
 su_24m_killstreak_2;☢ Su-24
 
 su_24m_china_killstreak_shop;☢␗ Su-24M2
-su_24m_china_killstreak_0;☢␗ "<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+su_24m_china_killstreak_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
 <color=#5cae63>izd. T-6M2</color>
 ☢␗ Samolyot Su-24M2"
 su_24m_china_killstreak_1;☢␗ Su-24M
 su_24m_china_killstreak_2;☢␗ Su-24
+
+b_57b_killstreak_shop;☢ B-57B-MA
+b_57b_killstreak_0;"<color=#81c3fc>Glenn L. Martin Company Plant No. 2</color>
+☢ B-57B-MA Canberra"
+b_57b_killstreak_1;☢ B-57B
+b_57b_killstreak_2;☢ B-57
+
+b_57b_japan_killstreak_shop;☢▅ B-57B-MA
+b_57b_japan_killstreak_0;"<color=#81c3fc>Glenn L. Martin Company Plant No. 2</color>
+☢▅ B-57B-MA Canberra"
+b_57b_japan_killstreak_1;☢▅ B-57B
+b_57b_japan_killstreak_2;☢▅ B-57
+
+f_105d_killstreak_shop;☢ F-105D-31-RE
+f_105d_killstreak_0;"<color=#81c3fc>Republic Aviation Corporation AP-63-31</color>
+☢ F-105D-31-RE Thunderchief"
+f_105d_killstreak_1;☢ F-105D
+f_105d_killstreak_2;☢ F-105
+
+f_105d_japan_killstreak_shop;☢▅ F-105D-31-RE
+f_105d_japan_killstreak_0;"<color=#81c3fc>Republic Aviation Corporation AP-63-31</color>
+☢▅ F-105D-31-RE Thunderchief"
+f_105d_japan_killstreak_1;☢▅ F-105D
+f_105d_japan_killstreak_2;☢▅ F-105
 
 f_111f_killstreak_shop;☢ F-111F
 f_111f_killstreak_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>+</color> Grumman Aerospace Corporation</color>
@@ -2303,6 +2456,88 @@ tornado_ids_de_assta1_sweden_killstreak_0;"<color=#81c3fc>Panavia Aircraft PA-20
 <color=#adadad>(Avionics System Software Tornado in ADA 1)</color>"
 tornado_ids_de_assta1_sweden_killstreak_1;☢♛ IDS-Tornado
 tornado_ids_de_assta1_sweden_killstreak_2;☢♛ IDS-Tornado
+
+tornado_ids_it_mod95_killstreak_shop;☢ A-200A (1995)
+tornado_ids_it_mod95_killstreak_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+☢ A-200A Tornado
+<color=#adadad>(Batch 2) (1995)</color>"
+tornado_ids_it_mod95_killstreak_1;☢ A-200A
+tornado_ids_it_mod95_killstreak_2;☢ A-200
+
+mig_29smt_9_19_killstreak_shop;☢ MiG-29SMT
+mig_29smt_9_19_killstreak_0;"<color=#5cae63>izd. 9-19R</color>
+☢ MiG-29SMT"
+mig_29smt_9_19_killstreak_1;☢ MiG-29SMT
+mig_29smt_9_19_killstreak_2;☢ MiG-29
+
+f_2a_killstreak_shop;☢ F-2A (C10)
+f_2a_killstreak_0;"<color=#81c3fc>General Dynamics Corporation F-16 Agile Falcon <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+☢ F-2A
+<color=#adadad>(C10 Rotto)</color>"
+f_2a_killstreak_1;☢ F-2A
+f_2a_killstreak_2;☢ F-2
+
+j_10a_killstreak_shop;☢ J10A
+j_10a_killstreak_0;"<color=#81c3fc>Chéngdū Fēijī Gōngyè (Jítuán)</color>
+☢ J10A Xíng Fēijī ""Měng Lóng"""
+j_10a_killstreak_1;☢ J10A
+j_10a_killstreak_2;☢ J10
+
+f_16a_block_15_adf_killstreak_shop;☢ F-16A-15ADF-CF
+f_16a_block_15_adf_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
+☢ F-16A-15ADF-CF Fighting Falcon"
+f_16a_block_15_adf_killstreak_1;☢ F-16A
+f_16a_block_15_adf_killstreak_2;☢ F-16
+
+f_16a_block_15_adf_germany_killstreak_shop;☢◄ F-16A-15ADF-CF
+f_16a_block_15_adf_germany_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
+☢◄ F-16A-15ADF-CF Fighting Falcon"
+f_16a_block_15_adf_germany_killstreak_1;☢◄ F-16A
+f_16a_block_15_adf_germany_killstreak_2;☢◄ F-16
+
+f_16a_block_20_mlu_killstreak_shop;☢☀ F-16A-20-CF
+f_16a_block_20_mlu_killstreak_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
+☢☀ F-16A-20-CF Xíng Zhàndòu Jī"
+f_16a_block_20_mlu_killstreak_1;☢☀ F-16A
+f_16a_block_20_mlu_killstreak_2;☢☀ F-16
+
+f_16a_block_15_adf_italy_killstreak_shop;☢⛨ F-16A-15ADF-CF
+f_16a_block_15_adf_italy_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
+☢⛨ F-16A-15ADF-CF Fighting Falcon"
+f_16a_block_15_adf_italy_killstreak_1;☢⛨ F-16A
+f_16a_block_15_adf_italy_killstreak_2;☢⛨ F-16
+
+f_16a_block_15_adf_france_killstreak_shop;☢☨ F-16A-15ADF-CF
+f_16a_block_15_adf_france_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
+☢☨ F-16A-15ADF-CF Fighting Falcon"
+f_16a_block_15_adf_france_killstreak_1;☢☨ F-16A
+f_16a_block_15_adf_france_killstreak_2;☢☨ F-16
+
+f_16a_block_15_adf_sweden_killstreak_shop;☢♛ F-16A-15ADF-CF
+f_16a_block_15_adf_sweden_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
+☢♛ F-16A-15ADF-CF Fighting Falcon"
+f_16a_block_15_adf_sweden_killstreak_1;☢♛ F-16A
+f_16a_block_15_adf_sweden_killstreak_2;☢♛ F-16
+
+f_16d_block_40_barak_2_killstreak_shop;☢ F-16D-40-CF
+f_16d_block_40_barak_2_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
+☢ F-16D-40-CF Barak II"
+f_16d_block_40_barak_2_killstreak_1;☢ F-16D
+f_16d_block_40_barak_2_killstreak_2;☢ F-16
+
+su_17m4_killstreak_shop;☢ Su-17M4
+su_17m4_killstreak_0;"<color=#81c3fc>Komsomol'sk'ij-na-Amurye av'iatsionnyj zavot im. Yu. A. Gagarina</color>
+<color=#5cae63>izd. S-54</color>
+☢ Samolyot Su-17M4"
+su_17m4_killstreak_1;☢ Su-17M
+su_17m4_killstreak_2;☢ Su-17
+
+su_17m4_china_killstreak_shop;☢␗ Su-17M4
+su_17m4_china_killstreak_0;"<color=#81c3fc>Komsomol'sk'ij-na-Amurye av'iatsionnyj zavot im. Yu. A. Gagarina</color>
+<color=#5cae63>izd. S-54</color>
+☢␗ Samolyot Su-17M4"
+su_17m4_china_killstreak_1;☢␗ Su-17M
+su_17m4_china_killstreak_2;☢␗ Su-17
 
 ucav_mq_1_predator_shop;MQ-1A
 ucav_mq_1_predator_0;MQ-1A
@@ -3125,12 +3360,14 @@ f3d_1_1;F3D-1
 f3d_1_2;F3D
 
 b-57_shop;B-57A-MA
-b-57_0;B-57A-MA Canberra
+b-57_0;"<color=#81c3fc>Glenn L. Martin Company Plant No. 2 Model 272</color>
+B-57A-MA Canberra"
 b-57_1;B-57A
 b-57_2;B-57
 
-b-57b_shop;B-57B-0-MA
-b-57b_0;B-57B-0-MA Canberra
+b-57b_shop;B-57B-MA
+b-57b_0;"<color=#81c3fc>Glenn L. Martin Company Plant No. 2</color>
+B-57B-MA Canberra"
 b-57b_1;B-57B
 b-57b_2;B-57
 
@@ -3434,12 +3671,6 @@ F-16A-15ADF-CF Fighting Falcon"
 f_16a_block_15_adf_1;F-16A
 f_16a_block_15_adf_2;F-16
 
-f_16a_block_15_adf_killstreak_shop;☢ F-16A-15ADF-CF
-f_16a_block_15_adf_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
-☢ F-16A-15ADF-CF Fighting Falcon"
-f_16a_block_15_adf_killstreak_1;☢ F-16A
-f_16a_block_15_adf_killstreak_2;☢ F-16
-
 f_16c_block_50_shop;F-16C-50-CF (CCIP) (2007)
 f_16c_block_50_0;"F-16C-50-CF Fighting Falcon
 <color=#adadad>(Common Configuration Implementation Program) (2007)</color>"
@@ -3455,7 +3686,7 @@ f_16c_block_52_aesa_2;F-16
 
 f_16xl_shop;F-16XL-1
 f_16xl_0;"<color=#81c3fc>General Dynamics Corporation F-16XL</color>
-<color=#ff8c80>Enhanced Tactical Fighter</color>
+<color=#ff8c80>Dual-Role Fighter</color>
 F-16XL-1 Fighting Falcon"
 f_16xl_1;F-16XL
 f_16xl_2;F-16
@@ -3481,7 +3712,7 @@ f_15c_golden_eagle_2;F-15
 
 f_15e_shop;F-15E-43-MC
 f_15e_0;"<color=#81c3fc>McDonnell Douglas Corporation</color>
-<color=#ff8c80>Enhanced Tactical Fighter</color>
+<color=#ff8c80>Dual-Role Fighter</color>
 F-15E-43-MC Strike Eagle"
 f_15e_1;F-15E
 f_15e_2;F-15
@@ -4623,13 +4854,15 @@ us_losat_ccv_2;SPG
 
 us_ags_teledyne_shop;ASP (late) (EX 35)
 us_ags_teledyne_0;"<color=#81c3fc>Teledyne Continental Motors Armored Support Platform</color>
+<color=#ff8c80>Armored Gun System</color>
 <color=#adadad>(late) (Gun, 105mm, EX 35 MOD 0)</color>"
 us_ags_teledyne_1;ASP
 us_ags_teledyne_2;Light Tank
 
 //USA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 us_adats_bradley_shop;XM1069 (ADATS)
-us_adats_bradley_0;"XM1069
+us_adats_bradley_0;"<color=#ff8c80>Forward Area Air Defense System, Line-of-Sight Forward Heavy</color>
+XM1069
 <color=#adadad>(Air Defense Anti-Tank System)</color>"
 us_adats_bradley_1;XM1069
 us_adats_bradley_2;SPAA
@@ -4787,11 +5020,11 @@ Kim Qui (HQ 605)"
 us_pgm_59_class_1;Kim Qui (HQ 605)
 us_pgm_59_class_2;Gunboat
 
-us_lcm_zippo_shop;USS Z-2
+us_lcm_zippo_shop;USS M-92-2
 us_lcm_zippo_0;"<color=#81c3fc>Marinette Marine Corporation</color>
 <color=#fffa62>Landing Craft, Mechanized, (Mk. 6) (Flamethrower) ""Zippo""</color>
-USS Z-2"
-us_lcm_zippo_1;USS Z-2
+USS M-92-2"
+us_lcm_zippo_1;USS M-92-2
 us_lcm_zippo_2;Monitor
 
 us_flagstaff_pgh1_shop;USS Flagstaff (PGH-1)
@@ -4957,7 +5190,8 @@ us_destroyer_fletcher_bennion_1;USS Bennion
 us_destroyer_fletcher_bennion_2;Destroyer
 
 us_destroyer_gridley_shop;USS Gridley (DD-380)
-us_destroyer_gridley_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> U.S. Repair Base, San Diego</color>
+us_destroyer_gridley_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard <color=@commonTextColor>/</color> U.S. Repair Base, San
+Diego</color>
 <color=#fffa62>Gridley-class Destroyer</color>
 USS Gridley (DD-380)
 <color=#adadad>(1943)</color>"
@@ -4987,7 +5221,8 @@ us_destroyer_mitscher_1;USS Mitscher
 us_destroyer_mitscher_2;Destroyer
 
 us_destroyer_mitscher_wilkinson_shop;USS Wilkinson (DL-5)
-us_destroyer_mitscher_wilkinson_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Long Beach Naval Shipyard</color>
+us_destroyer_mitscher_wilkinson_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard <color=@commonTextColor>/</color> Long Beach Naval
+Shipyard</color>
 <color=#fffa62>Mitscher-class Destroyer Leader</color>
 USS Wilkinson (DL-5)
 <color=#adadad>(1958)</color>"
@@ -5004,7 +5239,8 @@ us_destroyer_porter_1941_1;USS Porter
 us_destroyer_porter_1941_2;Destroyer
 
 us_destroyer_porter_1942_shop;USS Moffett (DD-362)
-us_destroyer_porter_1942_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Charleston Naval Shipyard</color>
+us_destroyer_porter_1942_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard <color=@commonTextColor>/</color> Charleston Naval
+Shipyard</color>
 <color=#fffa62>Porter-class Destroyer</color>
 USS Moffett (DD-362)
 <color=#adadad>(1942)</color>"
@@ -5012,7 +5248,8 @@ us_destroyer_porter_1942_1;USS Moffett
 us_destroyer_porter_1942_2;Destroyer
 
 us_destroyer_porter_1944_shop;USS Phelps (DD-360)
-us_destroyer_porter_1944_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Charleston Naval Shipyard</color>
+us_destroyer_porter_1944_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard <color=@commonTextColor>/</color> Charleston Naval
+Shipyard</color>
 <color=#fffa62>Porter-class Destroyer</color>
 USS Phelps (DD-360)
 <color=#adadad>(1944)</color>"
@@ -5034,7 +5271,7 @@ us_destroyer_somers_davis_1;USS Davis
 us_destroyer_somers_davis_2;Destroyer
 
 us_cruiser_omaha_class_trenton_shop;USS Raleigh (CL-7) (1932)
-us_cruiser_omaha_class_trenton_0;"<color=#81c3fc>Fore River Shipyard</color>
+us_cruiser_omaha_class_trenton_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard</color>
 <color=#fffa62>Omaha-class Light Cruiser</color>
 USS Raleigh (CL-7)
 <color=#adadad>(1932)</color>"
@@ -5042,7 +5279,8 @@ us_cruiser_omaha_class_trenton_1;USS Raleigh
 us_cruiser_omaha_class_trenton_2;Light Cruiser
 
 us_cruiser_omaha_class_raleigh_shop;USS Raleigh (CL-7) (1942)
-us_cruiser_omaha_class_raleigh_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+us_cruiser_omaha_class_raleigh_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard <color=@commonTextColor>/</color> Mare Island Naval
+Shipyard</color>
 <color=#fffa62>Omaha-class Light Cruiser</color>
 USS Raleigh (CL-7)
 <color=#adadad>(1942)</color>"
@@ -5050,7 +5288,8 @@ us_cruiser_omaha_class_raleigh_1;USS Raleigh
 us_cruiser_omaha_class_raleigh_2;Light Cruiser
 
 us_cruiser_omaha_class_detroit_shop;USS Detroit (CL-8)
-us_cruiser_omaha_class_detroit_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+us_cruiser_omaha_class_detroit_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard <color=@commonTextColor>/</color> Mare Island Naval
+Shipyard</color>
 <color=#fffa62>Omaha-class Light Cruiser</color>
 USS Detroit (CL-8)
 <color=#adadad>(1942)</color>"
@@ -5115,7 +5354,8 @@ us_cruiser_fargo_class_1;USS Fargo
 us_cruiser_fargo_class_2;Light Cruiser
 
 us_cruiser_portland_class_shop;USS Portland (CA-33)
-us_cruiser_portland_class_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Mare Island Naval Shipyard</color>
+us_cruiser_portland_class_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard <color=@commonTextColor>/</color> Mare Island Naval
+Shipyard</color>
 <color=#fffa62>Portland-class Heavy Cruiser</color>
 USS Portland (CA-33)
 <color=#adadad>(1943)</color>"
@@ -5130,8 +5370,8 @@ us_cruiser_pensacola_class_1;USS Pensacola
 us_cruiser_pensacola_class_2;Heavy Cruiser
 
 us_cruiser_northampton_class_shop;USS Northampton (CA-26)
-us_cruiser_northampton_class_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Pearl Harbor Naval Shipyard and Intermediate
-Maintenance Facility</color>
+us_cruiser_northampton_class_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard <color=@commonTextColor>/</color> Pearl Harbor Naval
+Shipyard and Intermediate Maintenance Facility</color>
 <color=#fffa62>Northampton-class Heavy Cruiser</color>
 USS Northampton (CA-26)
 <color=#adadad>(1940)</color>"
@@ -5179,7 +5419,7 @@ us_battleship_texas_1;USS Texas
 us_battleship_texas_2;Battleship
 
 us_battleship_north_dakota_shop;USS North Dakota (BB-29)
-us_battleship_north_dakota_0;"<color=#81c3fc>Fore River Shipyard</color>
+us_battleship_north_dakota_0;"<color=#81c3fc>Fore River Shipbuilding Company</color>
 <color=#fffa62>Delaware-class Battleship</color>
 USS North Dakota (BB-29)
 <color=#adadad>(1917)</color>"
@@ -5204,7 +5444,8 @@ us_battleship_arkansas_1;USS Arkansas
 us_battleship_arkansas_2;Battleship
 
 us_cruiser_baltimore_class_pittsburgh_shop;USS Pittsburgh (CA-72)
-us_cruiser_baltimore_class_pittsburgh_0;"<color=#81c3fc>Fore River Shipyard <color=@commonTextColor>/</color> Norfolk Naval Shipyard</color>
+us_cruiser_baltimore_class_pittsburgh_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard <color=@commonTextColor>/</color> Norfolk Naval
+Shipyard</color>
 <color=#fffa62>Baltimore-class Heavy Cruiser</color>
 USS Pittsburgh (CA-72)
 <color=#adadad>(1953)</color>"
@@ -5212,14 +5453,14 @@ us_cruiser_baltimore_class_pittsburgh_1;USS Pittsburgh
 us_cruiser_baltimore_class_pittsburgh_2;Heavy Cruiser
 
 us_cruiser_baltimore_class_shop;USS Baltimore (CA-68)
-us_cruiser_baltimore_class_0;"<color=#81c3fc>Fore River Shipyard</color>
+us_cruiser_baltimore_class_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard</color>
 <color=#fffa62>Baltimore-class Heavy Cruiser</color>
 USS Baltimore (CA-68)"
 us_cruiser_baltimore_class_1;USS Baltimore
 us_cruiser_baltimore_class_2;Heavy Cruiser
 
 us_cruiser_oregon_class_shop;USS Oregon City (CA-122)
-us_cruiser_oregon_class_0;"<color=#81c3fc>Fore River Shipyard</color>
+us_cruiser_oregon_class_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard</color>
 <color=#fffa62>Oregon City-class Heavy Cruiser</color>
 USS Oregon City (CA-122)"
 us_cruiser_oregon_class_1;USS Oregon City
@@ -5235,7 +5476,7 @@ us_cruiser_des_moines_class_newport_news_1;USS Newport News
 us_cruiser_des_moines_class_newport_news_2;Heavy Cruiser
 
 us_cruiser_des_moines_class_shop;USS Des Moines (CA-134)
-us_cruiser_des_moines_class_0;"<color=#81c3fc>Fore River Shipyard</color>
+us_cruiser_des_moines_class_0;"<color=#81c3fc>Bethlehem Steel Corporation, Fore River Shipyard</color>
 <color=#fffa62>Des Moines-class Heavy Cruiser</color>
 USS Des Moines (CA-134)"
 us_cruiser_des_moines_class_1;USS Des Moines
@@ -5270,7 +5511,8 @@ us_battleship_colorado_class_maryland_1;USS Maryland
 us_battleship_colorado_class_maryland_2;Battleship
 
 us_battleship_nevada_shop;USS Nevada (BB-36)
-us_battleship_nevada_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Fore River Shipyard</color>
+us_battleship_nevada_0;"<color=#81c3fc>New York Shipbuilding Corporation <color=@commonTextColor>/</color> Bethlehem Steel Corporation, Fore
+River Shipyard</color>
 <color=#fffa62>Nevada-class Battleship</color>
 USS Nevada (BB-36)
 <color=#adadad>(1944)</color>"
@@ -6388,12 +6630,6 @@ und System</color>
 fa_18c_switzerland_1;◌ F/A18 C
 fa_18c_switzerland_2;◌ F/A18
 
-f_16a_block_15_adf_germany_killstreak_shop;☢◄ F-16A-15ADF-CF
-f_16a_block_15_adf_germany_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
-☢◄ F-16A-15ADF-CF Fighting Falcon"
-f_16a_block_15_adf_germany_killstreak_1;☢◄ F-16A
-f_16a_block_15_adf_germany_killstreak_2;☢◄ F-16
-
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
 ef_2000_block_10_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10)</color>
@@ -6461,9 +6697,10 @@ mi_24p_german_hfs80_1;◄ Mi-24P
 mi_24p_german_hfs80_2;◄ Mi-24P
 
 //GERMANY HELICOPTERS - VEHICLE/FAMILY START: RANK 7
-h145m_shop;◄ H145M LKH
-h145m_0;"<color=#81c3fc>Airbus Helicopters H145M </color>
-◄ H145M leichter Kampfhubschrauber"
+h145m_shop;◄ H145M LUH SOF (HForce)
+h145m_0;"<color=#81c3fc>Airbus Helicopters Deutschland H145M D2 </color>
+◄ H145M Light Utility Helicopter Special Operations Forces
+<color=#adadad>(HForce)</color>"
 h145m_1;◄ H145M
 h145m_2;◄ H145
 
@@ -8510,15 +8747,17 @@ mig_23ml_1;MiG-23ML
 mig_23ml_2;MiG-23
 
 su_17m2_shop;Su-17M2
-su_17m2_0;"<color=#5cae63>izd. S-32M2</color>
-Su-17M2"
+su_17m2_0;"<color=#81c3fc>Komsomol'sk'ij-na-Amurye av'iatsionnyj zavot im. Yu. A. Gagarina</color>
+<color=#5cae63>izd. S-32M2</color>
+Samolyot Su-17M2"
 su_17m2_1;Su-17M2
 su_17m2_2;Su-17
 
 su_17m4_shop;Su-17M4
-su_17m4_0;"<color=#5cae63>izd. S-54</color>
-Su-17M4"
-su_17m4_1;Su-17M4
+su_17m4_0;"<color=#81c3fc>Komsomol'sk'ij-na-Amurye av'iatsionnyj zavot im. Yu. A. Gagarina</color>
+<color=#5cae63>izd. S-54</color>
+Samolyot Su-17M4"
+su_17m4_1;Su-17M
 su_17m4_2;Su-17
 
 mig_27m_shop;MiG-27M
@@ -8593,12 +8832,6 @@ mig_29smt_9_19_0;"<color=#5cae63>izd. 9-19R</color>
 MiG-29SMT"
 mig_29smt_9_19_1;MiG-29SMT
 mig_29smt_9_19_2;MiG-29
-
-mig_29smt_9_19_killstreak_shop;☢ MiG-29SMT
-mig_29smt_9_19_killstreak_0;"<color=#5cae63>izd. 9-19R</color>
-☢ MiG-29SMT"
-mig_29smt_9_19_killstreak_1;☢ MiG-29SMT
-mig_29smt_9_19_killstreak_2;☢ MiG-29
 
 mig_29m_9_15_shop;MiG-29M
 mig_29m_9_15_0;"<color=#81c3fc>Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol»</color>
@@ -9749,16 +9982,16 @@ ussr_object_292_2;MBT
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 ussr_buk_m3_launcher_shop;9A317M
-ussr_buk_m3_launcher_0;"<color=#81c3fc>Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V.
-Tikhomirova (NIIP)</color>
-Samokhodnaâ ognyevaâ ustanovka 9A317M ""Buk-M3"""
+ussr_buk_m3_launcher_0;"<color=#81c3fc>Nauchno-isslyedovat'el'sk'ij inst'itut priborostroyeniya im. V. V.
+T'ikhomirova (NIIP)</color>
+Samokhodnaya ognyevaya ustanofka 9A317M ""Buk-M3"""
 ussr_buk_m3_launcher_1;9A317M
 ussr_buk_m3_launcher_2;SPAAM
 
 ussr_buk_m3_fcs_shop;9S18M3
-ussr_buk_m3_fcs_0;"<color=#81c3fc>Naučno-isslyedovatyel'skij institut priborostroyeniâ im. V. V.
-Tikhomirova (NIIP)</color>
-Stancziâ obnaružyeniâ i czyelyeukazaniâ ""Kupol-M3"""
+ussr_buk_m3_fcs_0;"<color=#81c3fc>Nauchno-isslyedovat'el'sk'ij inst'itut priborostroyeniya im. V. V.
+T'ikhomirova (NIIP)</color>
+Stantsiya obnaruzhyeniya i tsyelyeukazaniya 9S18M3 ""Kupol-M3"""
 ussr_buk_m3_fcs_1;9S18M3
 ussr_buk_m3_fcs_2;Radar
 
@@ -10738,7 +10971,7 @@ spitfire_ix_plagis_shop;Plagis' Spitfire L.F. Mk. IX
 spitfire_ix_plagis_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 361 <color=@commonTextColor>/</color> M.A.P. Castle Bromwich
 Aircraft Factory</color>
 Spitfire L.F. Mk. IX
-<color=@currencyGoldColor>Yannis Plagis'</color>"
+<color=@currencyGoldColor>Ioannis Agorastos Plagis'</color>"
 spitfire_ix_plagis_1;Spitfire L.F. Mk. IX
 spitfire_ix_plagis_2;Spitfire
 
@@ -10964,11 +11197,11 @@ Mosquito N.F. Mk. II"
 mosquito_nf_mk2_1;Mosquito N.F. Mk. II
 mosquito_nf_mk2_2;Mosquito
 
-mosquito_tr_mk33_shop;Mosquito T.R. Mk. 33
+mosquito_tr_mk33_shop;Sea Mosquito T.R. Mk. 33
 mosquito_tr_mk33_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 98</color>
-Mosquito T.R. Mk. 33"
-mosquito_tr_mk33_1;Mosquito T.R. Mk. 33
-mosquito_tr_mk33_2;Mosquito
+Sea Mosquito T.R. Mk. 33"
+mosquito_tr_mk33_1;Sea Mosquito T.R. Mk. 33
+mosquito_tr_mk33_2;Sea Mosquito
 
 mosquito_b_mk16_shop;Mosquito B. Mk. XVI
 mosquito_b_mk16_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 98</color>
@@ -11172,6 +11405,31 @@ Sea Hawk F.G.A. Mk. 6"
 sea_hawk_fga6_1;Sea Hawk F.G.A. Mk. 6
 sea_hawk_fga6_2;Sea Hawk
 
+hawk_t1a_early_shop;Hawk T. Mk. 1A
+hawk_t1a_early_0;"<color=#81c3fc>British Aerospace</color>
+Hawk T. Mk. 1A"
+hawk_t1a_early_1;Hawk T. Mk. 1
+hawk_t1a_early_2;Hawk
+
+hawk_t1a_shop;Hawk T. Mk. 1A (FRP)
+hawk_t1a_0;"<color=#81c3fc>British Aerospace <color=@commonTextColor>/</color> BAE Systems Military Air & Information</color>
+Hawk T. Mk. 1A
+<color=#adadad>(Fuselage Replacement Programme)</color>"
+hawk_t1a_1;Hawk T. Mk. 1
+hawk_t1a_2;Hawk
+
+hawk_200_shop;Hawk 200 (ZH200)
+hawk_200_0;"<color=#81c3fc>British Aerospace Hawk 200</color>
+<color=@currencyGoldColor>ZH200</color>"
+hawk_200_1;Hawk 200
+hawk_200_2;Hawk
+
+hawk_200_rda_shop;Hawk 200 (RDA)
+hawk_200_rda_0;"<color=#81c3fc>British Aerospace Hawk 200</color>
+<color=#adadad>(Radar Development Aircraft)</color>"
+hawk_200_rda_1;Hawk 200
+hawk_200_rda_2;Hawk
+
 swift_f1_shop;Swift F. Mk. 1
 swift_f1_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 541</color>
 Swift F. Mk. 1"
@@ -11191,13 +11449,13 @@ washington_b1_1;Washington B. Mk. 1
 washington_b1_2;Washington
 
 canberra_bmk2_shop;Canberra B. Mk. 2
-canberra_bmk2_0;"<color=#81c3fc>The English Electric Company A.1</color>
+canberra_bmk2_0;"<color=#81c3fc>The English Electric Company</color>
 Canberra B. Mk. 2"
 canberra_bmk2_1;Canberra B. Mk. 2
 canberra_bmk2_2;Canberra
 
 canberra_bimk6_shop;Canberra B.(I.) Mk. 6
-canberra_bimk6_0;"<color=#81c3fc>The English Electric Company A.1</color>
+canberra_bimk6_0;"<color=#81c3fc>The English Electric Company</color>
 Canberra B.(I.) Mk. 6"
 canberra_bimk6_1;Canberra B.(I.) Mk. 6
 canberra_bimk6_2;Canberra
@@ -11385,25 +11643,6 @@ tornado_f3_late_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
 <color=#adadad>(AMRAAM Optimisation Programme)</color>"
 tornado_f3_late_1;▄ Tornado F. Mk. 3
 tornado_f3_late_2;▄ Tornado
-
-tornado_ids_de_assta1_britain_killstreak_shop;☢▄ IDS-Tornado (ASSTA 1)
-tornado_ids_de_assta1_britain_killstreak_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
-☢▄ IDS-Tornado
-<color=#adadad>(Avionics System Software Tornado in ADA 1)</color>"
-tornado_ids_de_assta1_britain_killstreak_1;☢▄ IDS-Tornado
-tornado_ids_de_assta1_britain_killstreak_2;☢▄ IDS-Tornado
-
-hawk_200_shop;Hawk 200 (ZH200)
-hawk_200_0;"<color=#81c3fc>British Aerospace Hawk 200</color>
-<color=@currencyGoldColor>ZH200</color>"
-hawk_200_1;Hawk 200
-hawk_200_2;Hawk
-
-hawk_200_rda_shop;Hawk 200 (RDA)
-hawk_200_rda_0;"<color=#81c3fc>British Aerospace Hawk 200</color>
-<color=#adadad>(Radar Development Aircraft)</color>"
-hawk_200_rda_1;Hawk 200
-hawk_200_rda_2;Hawk
 
 f_111c_raaf_shop;▄ F-111C
 f_111c_raaf_0;"<color=#81c3fc>General Dynamics Corporation Model 12 <color=@commonTextColor>+</color> Grumman Aerospace
@@ -12420,17 +12659,17 @@ uk_challenger_II_yt_cup_2019_1;␙ Challenger 2
 uk_challenger_II_yt_cup_2019_2;MBT
 
 uk_challenger_2_lep_shop;ATD Challenger 2
-uk_challenger_2_lep_0;<color=#81c3fc>Rheinmetall BAE Systems Land
+uk_challenger_2_lep_0;"<color=#81c3fc>Rheinmetall BAE Systems Land
 Advanced Technology Demonstrator Challenger 2 Platform</color>
+<color=#ff8c80>Challenger 2 Life Extension Programme</color>"
 uk_challenger_2_lep_1;Challenger 2
 uk_challenger_2_lep_2;MBT
 
-uk_challenger_2_bn_shop;"Challenger 2, Mk. 2 ""BN"""
-uk_challenger_2_bn_0;"<color=#81c3fc>Vickers Defence Systems <color=@commonTextColor>/</color> BAE Systems Land and Armaments</color>
-<color=#5cae63>F.V.4034</color>
-Tank, Combat, 120mm Gun, Challenger 2 ""Black Night""
-<color=#adadad>(Life Extension Program)</color>"
-uk_challenger_2_bn_1;"Challenger 2 ""BN"""
+uk_challenger_2_bn_shop;"Challenger 2 Mk. 2 ""BN"""
+uk_challenger_2_bn_0;"<color=#81c3fc>Vickers Defence Systems <color=@commonTextColor>/</color> BAE Systems Land and Armaments
+Challenger 2 Mk. 2 ""Black Night""</color>
+<color=#ff8c80>Challenger 2 Life Extension Programme</color>"
+uk_challenger_2_bn_1;"Challenger 2 Mk. 2 ""BN"""
 uk_challenger_2_bn_2;MBT
 
 uk_challenger_2e_shop;Challenger 2E
@@ -12513,7 +12752,8 @@ uk_m1a2_sep3_abrams_1;▄ M1A2 SEPv3
 uk_m1a2_sep3_abrams_2;MBT
 
 uk_adats_m113a3_shop;▄ ADATS
-uk_adats_m113a3_0;"<color=#81c3fc>FMC <color=@commonTextColor>/</color> OC Oerlikon Corporation <color=@commonTextColor>+</color> Martin Marietta Corporation</color>
+uk_adats_m113a3_0;"<color=#81c3fc>FMC Corporation Ordnance Division <color=@commonTextColor>/</color> OC Oerlikon Corporation <color=@commonTextColor>+</color> Martin
+Marietta Corporation</color>
 ▄ Air Defense Anti-Tank System"
 uk_adats_m113a3_1;▄ ADATS
 uk_adats_m113a3_2;SPAAM
@@ -13289,6 +13529,14 @@ uk_battleship_vanguard_0;"<color=#81c3fc>John Brown & Co.</color>
 HMS Vanguard (23)"
 uk_battleship_vanguard_1;HMS Vanguard
 uk_battleship_vanguard_2;Battleship
+
+uk_battleship_lion_class_shop;HMS Lion (27) (16F-38 Mod.)
+uk_battleship_lion_class_0;"<color=#81c3fc>Vickers-Armstrongs, High Walker Naval Yard</color>
+<color=#fffa62>Lion-class</color>
+HMS Lion (27)
+<color=#adadad>(Design 16F-38 Modified)</color>"
+uk_battleship_lion_class_1;HMS Lion
+uk_battleship_lion_class_2;Battleship
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 f1m2_shop;F1M2
@@ -14293,13 +14541,6 @@ XF-2A
 <color=@currencyGoldColor>Hikō Kaihatsu Jikken Dan</color>"
 f_2a_adtw_1;XF-2A
 f_2a_adtw_2;XF-2
-
-f_2a_killstreak_shop;☢ F-2A (C10)
-f_2a_killstreak_0;"<color=#81c3fc>General Dynamics Corporation F-16 Agile Falcon <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
-☢ F-2A
-<color=#adadad>(C10 Rotto)</color>"
-f_2a_killstreak_1;☢ F-2A
-f_2a_killstreak_2;☢ F-2
 
 f_16a_block_15_ocu_thailand_shop;B.Kh.19
 f_16a_block_15_ocu_thailand_0;"<color=#81c3fc>General Dynamics Corporation</color>
@@ -16242,12 +16483,6 @@ f_16a_block_20_mlu_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
 f_16a_block_20_mlu_1;☀ F-16A
 f_16a_block_20_mlu_2;☀ F-16
 
-f_16a_block_20_mlu_killstreak_shop;☢☀ F-16A-20-CF
-f_16a_block_20_mlu_killstreak_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
-☢☀ F-16A-20-CF Xíng Zhàndòu Jī"
-f_16a_block_20_mlu_killstreak_1;☢☀ F-16A
-f_16a_block_20_mlu_killstreak_2;☢☀ F-16
-
 f_16a_block_72v_china_shop;☀ F-16V-72-CF
 f_16a_block_72v_china_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
 ☀ F-16V-72-CF Xíng Zhàndòu Jī"
@@ -16718,8 +16953,7 @@ cn_wz_141_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 cn_type_86_shop;ZBD86 (2020)
-cn_type_86_0;"<color=#81c3fc>Čyelâbinskij traktornyj zavod im. V. I. Lyenina <color=@commonTextColor>/</color> Zhōngguó Bīngqì Gōngyè
-Jítuán Youxiàn Gōngsī</color>
+cn_type_86_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
 <color=#5cae63>WZ501</color>
 <color=#919191>1986 Nián Shì Lüdài Bùbīng Zhàn Chē</color>
 ZBD1986 Shì Lüdài Bùbīng Zhàn Chē
@@ -16734,8 +16968,7 @@ cn_m48a1_patton_III_1;☀ M48
 cn_m48a1_patton_III_2;Medium Tank
 
 cn_type_59_shop;ZTZ59
-cn_type_59_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color> Nèiménggu Dì Yī
-Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
+cn_type_59_0;"<color=#81c3fc>Nèiménggu Dì Yī Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
 <color=#5cae63>WZ120</color>
 <color=#919191>1959 Nián Shì Zhōngxíng Tankè</color>
 ZTZ1959 Shì Zhōngxíng Tankè"
@@ -16743,8 +16976,7 @@ cn_type_59_1;ZTZ59
 cn_type_59_2;Medium Tank
 
 cn_ztz_59a_shop;ZTZ59A
-cn_ztz_59a_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color> Nèiménggu Dì Yī
-Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
+cn_ztz_59a_0;"<color=#81c3fc>Nèiménggu Dì Yī Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
 <color=#5cae63>WZ120A</color>
 <color=#919191>1959 Nián 1 Shì Zhōngxíng Tankè</color>
 ZTZ1959A Shì Zhōngxíng Tankè"
@@ -16752,8 +16984,7 @@ cn_ztz_59a_1;ZTZ59
 cn_ztz_59a_2;Medium Tank
 
 cn_type_59d_shop;ZTZ59D1
-cn_type_59d_0;"<color=#81c3fc>Ural'skij vagonostroityel'nyj zavod im. I. V. Stalina <color=@commonTextColor>/</color> Nèiménggu Dì Yī
-Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
+cn_type_59d_0;"<color=#81c3fc>Nèiménggu Dì Yī Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
 <color=#5cae63>WZ120C</color>
 ZTZ1959D1 Shì Zhōngxíng Tankè"
 cn_type_59d_1;ZTZ59
@@ -17439,12 +17670,6 @@ f_16a_block_15_adf_italy_0;"<color=#81c3fc>General Dynamics Corporation</color>
 ⛨ F-16A-15ADF-CF Fighting Falcon"
 f_16a_block_15_adf_italy_1;⛨ F-16A
 f_16a_block_15_adf_italy_2;⛨ F-16
-
-f_16a_block_15_adf_italy_killstreak_shop;☢⛨ F-16A-15ADF-CF
-f_16a_block_15_adf_italy_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
-☢⛨ F-16A-15ADF-CF Fighting Falcon"
-f_16a_block_15_adf_italy_killstreak_1;☢⛨ F-16A
-f_16a_block_15_adf_italy_killstreak_2;☢⛨ F-16
 
 m_346fa_shop;M-346FA
 m_346fa_0;<color=#81c3fc>Alenia Aermacchi M-346FA Master</color>
@@ -18468,7 +18693,7 @@ maryland_mk1_france_2;Martin 167
 
 gladiator_mk1_belgium_shop;▄ Gladiator Mk. I
 gladiator_mk1_belgium_0;"<color=#81c3fc>Gloster Aircraft Company SS.37</color>
-▄ Gladiator Mk. I"
+▄ Gladiator Mk. I-vliegtuig"
 gladiator_mk1_belgium_1;▄ Gladiator Mk. I
 gladiator_mk1_belgium_2;▄ Gladiator
 
@@ -18571,6 +18796,11 @@ yak-9t_france_0;"☨ Âk-9T
 yak-9t_france_1;☨ Âk-9T
 yak-9t_france_2;☨ Âk-9
 
+p-39q_25_france_shop;☨ P-39Q-25
+p-39q_25_france_0;☨ P-39Q-25 Airacobra
+p-39q_25_france_1;☨ P-39Q
+p-39q_25_france_2;☨ P-39
+
 sb_25j_netherlands_shop;◘ B-25K
 sb_25j_netherlands_0;"<color=#81c3fc>North American Aviation NA-108</color>
 ◘ B-25K Mitchell"
@@ -18598,7 +18828,7 @@ pb4y-2_france_2;☨ PB4Y
 
 spitfire_fr_mk14e_belgium_shop;▄ Spitfire L.F. Mk. XIV (e)
 spitfire_fr_mk14e_belgium_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 379</color>
-▄ Spitfire L.F. Mk. XIV (e)"
+▄ Spitfire L.F. Mk. XIV (e)-vliegtuig"
 spitfire_fr_mk14e_belgium_1;▄ Spitfire L.F. Mk. XIV
 spitfire_fr_mk14e_belgium_2;▄ Spitfire
 
@@ -18636,7 +18866,7 @@ se_203_2;Aquilon
 
 meteor_fmk8_belgium_shop;▄ Meteor F. Mk. 8
 meteor_fmk8_belgium_0;"<color=#81c3fc>Gloster Aircraft Company G.41K <color=@commonTextColor>/</color> Avions Fairey</color>
-▄ Meteor F. Mk. 8"
+▄ Meteor F. Mk. 8-vliegtuig"
 meteor_fmk8_belgium_1;▄ Meteor F. Mk. 8
 meteor_fmk8_belgium_2;▄ Meteor
 
@@ -18685,11 +18915,10 @@ Mirage 5 F"
 mirage_5f_1;Mirage 5 F
 mirage_5f_2;Mirage
 
-mirage_5ba_shop;▄ Mirage 5 BA
-mirage_5ba_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@commonTextColor>/</color> Sociétés Anonyme Belge
-de Constructions Aéronautiques</color>
-▄ Mirage 5 BA"
-mirage_5ba_1;▄ Mirage 5 BA
+mirage_5ba_shop;▄ Mirage M5 BA
+mirage_5ba_0;"<color=#81c3fc>Sociétés anonyme belge de constructions aéronautiques</color>
+▄ Mirage M5 BA-vliegtuig"
+mirage_5ba_1;▄ Mirage M5 BA
 mirage_5ba_2;▄ Mirage
 
 mirage_f1c_shop;Mirage F1 C
@@ -18727,6 +18956,13 @@ jaguar_e_0;"<color=#81c3fc>SEPECAT Jaguar E</color>
 ☨ Jaguar Type E"
 jaguar_e_1;☨ Jaguar E
 jaguar_e_2;☨ Jaguar
+
+f-104g_belgium_shop;▄ F-104G
+f-104g_belgium_0;"<color=#81c3fc>Lockheed Corporation Model 683-10-19 <color=@commonTextColor>/</color> Sociétés anonyme belge de
+constructions aéronautiques</color>
+▄ F-104G Starfighter-vliegtuig"
+f-104g_belgium_1;▄ F-104G
+f-104g_belgium_2;▄ F-104
 
 nf_5a_netherlands_shop;◘ NF-5A
 nf_5a_netherlands_0;"<color=#81c3fc>Northrop Corporation N-156 <color=@commonTextColor>/</color> Canadair CL-226-1A10</color>
@@ -18774,16 +19010,14 @@ mirage_4000_1;Mirage 4000
 mirage_4000_2;Mirage 4000
 
 f_16a_block_15_belgium_shop;▄ F-16A-15-CF
-f_16a_block_15_belgium_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Sociétés Anonyme Belge de
-Constructions Aéronautiques</color>
-▄ F-16A-15-CF Fighting Falcon"
+f_16a_block_15_belgium_0;"<color=#81c3fc>Sociétés anonyme belge de constructions aéronautiques</color>
+▄ F-16A-15-CF Fighting Falcon-vliegtuig"
 f_16a_block_15_belgium_1;▄ F-16A
 f_16a_block_15_belgium_2;▄ F-16
 
 f_16am_block_15_mlu_belgium_shop;▄ F-16AM-20-CF
-f_16am_block_15_mlu_belgium_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Sociétés Anonyme Belge de
-Constructions Aéronautiques</color>
-▄ F-16AM-20-CF Fighting Falcon"
+f_16am_block_15_mlu_belgium_0;"<color=#81c3fc>Sociétés anonyme belge de constructions aéronautiques</color>
+▄ F-16AM-20-CF Fighting Falcon-vliegtuig"
 f_16am_block_15_mlu_belgium_1;▄ F-16AM
 f_16am_block_15_mlu_belgium_2;▄ F-16
 
@@ -18795,9 +19029,8 @@ f_16a_block_5_netherlands_1;◘ F-16A
 f_16a_block_5_netherlands_2;◘ F-16
 
 f_16a_block_15_ocu_belgium_shop;▄ F-16A-15OCU-CF
-f_16a_block_15_ocu_belgium_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Sociétés Anonyme Belge de
-Constructions Aéronautiques</color>
-▄ F-16A-15OCU-CF Fighting Falcon"
+f_16a_block_15_ocu_belgium_0;"<color=#81c3fc>Sociétés anonyme belge de constructions aéronautiques</color>
+▄ F-16A-15OCU-CF Fighting Falcon-vliegtuig"
 f_16a_block_15_ocu_belgium_1;▄ F-16A
 f_16a_block_15_ocu_belgium_2;▄ F-16
 
@@ -18809,18 +19042,11 @@ f_16am_block_20_mlu_netherlands_1;◘ F-16A
 f_16am_block_20_mlu_netherlands_2;◘ F-16
 
 f_16am_block_15_mlu_fs_belgium_shop;▄ F-16AM-20-CF (1re Esc.)
-f_16am_block_15_mlu_fs_belgium_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Sociétés Anonyme Belge de
-Constructions Aéronautiques</color>
-▄ F-16AM-20-CF Fighting Falcon
+f_16am_block_15_mlu_fs_belgium_0;"<color=#81c3fc>Sociétés anonyme belge de constructions aéronautiques</color>
+▄ F-16AM-20-CF Fighting Falcon-vliegtuig
 <color=@currencyGoldColor>1re Escadrille ""Stingers""</color>"
 f_16am_block_15_mlu_fs_belgium_1;▄ F-16A
 f_16am_block_15_mlu_fs_belgium_2;▄ F-16
-
-f_16a_block_15_adf_france_killstreak_shop;☢☨ F-16A-15ADF-CF
-f_16a_block_15_adf_france_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
-☢☨ F-16A-15ADF-CF Fighting Falcon"
-f_16a_block_15_adf_france_killstreak_1;☢☨ F-16A
-f_16a_block_15_adf_france_killstreak_2;☢☨ F-16
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 9
 rafale_c_f3_shop;Rafale C (F3R)
@@ -19437,7 +19663,7 @@ fr_vbci2_mct30_2;IFV
 
 fr_leopard_1a5be_shop;▄ Leopard 1 A5 BE
 fr_leopard_1a5be_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
-▄ Leopard 1 A5 BE"
+▄ Leopard 1 A5 BE-tank"
 fr_leopard_1a5be_1;▄ Leopard 1 A5
 fr_leopard_1a5be_2;MBT
 
@@ -19923,7 +20149,7 @@ fr_cruiser_algerie_class_shop;Algérie
 fr_cruiser_algerie_class_0;"<color=#81c3fc>Arsenal de Brest <color=@commonTextColor>/</color> Arsenal de Toulon</color>
 <color=#fffa62>Croiseur de 1ère classe de la classe Algérie</color>
 Algérie
-<color=#adadad>(1941)</color>"
+<color=#adadad>(1942)</color>"
 fr_cruiser_algerie_class_1;Algérie
 fr_cruiser_algerie_class_2;1st Class Cruiser
 
@@ -20464,12 +20690,6 @@ f_16am_block_20_mlu_norway_0;"<color=#81c3fc>General Dynamics Corporation</color
 ◢ F-16AM-20-CF Fighting Falcon"
 f_16am_block_20_mlu_norway_1;◢ F-16A
 f_16am_block_20_mlu_norway_2;◢ F-16
-
-f_16a_block_15_adf_sweden_killstreak_shop;☢♛ F-16A-15ADF-CF
-f_16a_block_15_adf_sweden_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
-☢♛ F-16A-15ADF-CF Fighting Falcon"
-f_16a_block_15_adf_sweden_killstreak_1;☢♛ F-16A
-f_16a_block_15_adf_sweden_killstreak_2;☢♛ F-16
 
 fa_18c_finland_shop;HN
 fa_18c_finland_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267 <color=@commonTextColor>/</color> Patria</color>
@@ -21176,12 +21396,6 @@ f_16a_block_10_netz_mod_0;"<color=#81c3fc>General Dynamics Corporation</color>
 <color=#adadad>(1987)</color>"
 f_16a_block_10_netz_mod_1; F-16A
 f_16a_block_10_netz_mod_2; F-16
-
-f_16d_block_40_barak_2_killstreak_shop;☢ F-16D-40-CF
-f_16d_block_40_barak_2_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
-☢ F-16D-40-CF Barak II"
-f_16d_block_40_barak_2_killstreak_1;☢ F-16D
-f_16d_block_40_barak_2_killstreak_2;☢ F-16
 
 f_15a_iaf_shop; F-15A-18-MC (MSIP)
 f_15a_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C</color>
@@ -22207,10 +22421,6 @@ f-104g_italy_shop;⛨ F-104G
 f-104g_italy_0;⛨ F-104G Starfighter
 f-104g_italy_1;⛨ F-104G
 f-104g_italy_2;⛨ F-104
-f-104g_belgium_shop;▄ F-104G
-f-104g_belgium_0;▄ F-104G Starfighter
-f-104g_belgium_1;▄ F-104G
-f-104g_belgium_2;▄ F-104
 f-8e_fn_shop;☨ F-8E(FN)
 f-8e_fn_0;☨ F-8E(FN) Crusader
 f-8e_fn_1;☨ F-8E

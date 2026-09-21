@@ -3,6 +3,9 @@
 modification/headerForWeapon;Weapon modifications
 
 //USA GUNS
+modification/a_26_gunpod;Gunpod
+modification/a_26_gunpod/desc;"Loadout unlocked:
+• {unlockWeapons}"
 
 //GERMANY GUNS
 
@@ -140,6 +143,11 @@ modification/us_gbu_53/desc;"Loadout unlocked:
     • {unlockWeapons}"
 
 //GERMANY BOMBS
+modification/etc1600;P.C. 1600
+modification/etc1600/desc;"Loadout unlocked:
+• <color=@userlogColoredText>E.T.C. 1600</color>:
+  • {unlockWeapons}"
+
 modification/de_hosbo_glide_bomb;HOSBO
 modification/de_hosbo_glide_bomb/desc;"Loadout unlocked:
 • Pylon:
@@ -601,6 +609,10 @@ modification/me_210ca_1_40_mm_wgr41/desc;"Loadout unlocked:
 • <color=@userlogColoredText>15 cm-es 43 M. rakétagránát</color> <color=#ff6f00>RKT</color>"
 
 //FRANCE ROCKETS
+modification/fr_fz275;FZ275
+modification/fr_fz275/desc;"Loadout unlocked:
+• <color=@userlogColoredText>FZ231</color>:
+  • {unlockWeapons}"
 
 //SWEDEN ROCKETS
 
@@ -684,7 +696,7 @@ modification/us_agm_179_ir/desc;Loadout unlocked: <color=@userlogColoredText>JAG
 modification/us_arm;ARM
 modification/us_arm/desc;"Loadout unlocked:
 • <color=@userlogColoredText>SUU-63A/A</color>, <color=@userlogColoredText>SUU-79A/A</color>, <color=@userlogColoredText>SUU-80/A</color>, <color=@userlogColoredText>LM-765</color>:
-  • <color=@userlogColoredText>LAU-118/A</color>:
+  • <color=@userlogColoredText>LAU-118/A</color>, <color=@userlogColoredText>MAU-12C/A</color>:
     • {unlockWeapons}"
 
 modification/anti_radiation_missile_agm_122;AGM-122
@@ -796,6 +808,11 @@ modification/uk_sea_eagle;Sea Eagle
 modification/uk_sea_eagle/desc;"Loadout unlocked:
 • Pylon:
   • <color=@userlogColoredText>Sea Eagle</color> <color=#ff6f00>AShM-ARH</color>"
+
+modification/uk_martlet;Martlet
+modification/uk_martlet/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Weapon Wing</color>:
+  • {unlockWeapons}"
 
 //JAPAN MISSILES
 modification/jp_asm1;ASM-1
@@ -1015,6 +1032,16 @@ modification/fr_pgm_laser/desc;"Loadout unlocked:
   • {unlockWeapons}"
 
 //SWEDEN MISSILES
+modification/swe_rb27;rb 27
+modification/swe_rb27/desc;"Loadout unlocked:
+• <color=@userlogColoredText>F5V 054</color>, <color=@userlogColoredText>F5H 054</color>:
+  • {unlockWeapons}"
+
+modification/swe_rb28;rb 28
+modification/swe_rb28/desc;"Loadout unlocked:
+• <color=@userlogColoredText>F5V 054</color>, <color=@userlogColoredText>F5H 054</color>:
+  • {unlockWeapons}"
+
 modification/swd_rb74;rb 74
 modification/swd_rb74/desc;"Loadout unlocked:
 • JA 37 D, JA 37 DI (all):
@@ -1030,6 +1057,22 @@ modification/swd_rb74m/desc;"Loadout unlocked:
   • <color=@userlogColoredText>rb 74 (REMO)</color> <color=#ff6f00>AAM-IR</color>"
 
 //ISRAEL MISSILES
+modification/is_delilah;Delilah (EO)
+modification/is_delilah/desc;"Loadout unlocked:
+• <color=@userlogColoredText>WWP</color>
+  • <color=@userlogColoredText>MAU-12C/A</color>
+    • {unlockWeapons}"
+
+modification/is_delilah_ir;Delilah (IR)
+modification/is_delilah_ir/desc;"Loadout unlocked:
+• <color=@userlogColoredText>WWP</color>
+  • <color=@userlogColoredText>MAU-12C/A</color>
+    • {unlockWeapons}"
+
+modification/atgm_spike_nlos;Spike NLOS 5
+modification/atgm_spike_nlos/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Weapon Wing</color>:
+  • {unlockWeapons}"
 
 //UNCATEGORIZED MISSILES
 modification/tv_atgm;TV AGM
@@ -1114,6 +1157,9 @@ modification/boz_false_thermal_targets/desc;Loadout unlocked: <color=@userlogCol
 //FRANCE SENSORS
 
 //SWEDEN SENSORS
+modification/saab_f35_alq_162;AN/ALQ-162
+modification/saab_f35_alq_162/desc;"Loadout unlocked:
+• <color=#ffffff>AN/ALQ-162</color>"
 
 //ISRAEL SENSORS
 

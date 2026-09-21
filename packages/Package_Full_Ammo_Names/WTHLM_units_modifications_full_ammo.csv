@@ -72,6 +72,10 @@ Loadout unlocked: 893.6 kg <color=@userlogColoredText>Bomb, Guided, GBU-31(V)1/B
 Loadout unlocked: 987 kg <color=@userlogColoredText>Bomb, Guided, GBU-64(V)1/B Joint Direct Attack Munition Extended Range</color> GNSS-guided bomb."
 
 //GERMANY BOMBS
+modification/etc1600;P.C. 1600
+modification/etc1600/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Elektrischer träger für zylindrische außenlasten 1600</color>:
+  • {unlockWeapons}"
 
 //USSR BOMBS
 modification/upab_500b_e;UPAB-500B-È
@@ -425,6 +429,10 @@ modification/uk_hvar/desc;"Loadout unlocked:
   • <color=@userlogColoredText>Rocket Motor, 5-inch HVAR</color> <color=#ff6f00>RKT</color>"
 
 //FRANCE ROCKETS
+modification/fr_fz275;FZ275
+modification/fr_fz275/desc;"Loadout unlocked:
+• <color=@userlogColoredText>FZ231 12-Tube Rocket Launcher</color>:
+  • {unlockWeapons}"
 
 //SWEDEN ROCKETS
 
@@ -745,8 +753,27 @@ modification/tv_atgm/desc;"Loadout unlocked:
 //FRANCE MISSILES
 
 //SWEDEN MISSILES
+modification/swe_rb27;rb 27
+modification/swe_rb27/desc;"Loadout unlocked:
+• <color=@userlogColoredText>robotbalk F5V 054</color>, <color=@userlogColoredText>robotbalk F5H 054</color>:
+  • {unlockWeapons}"
+
+modification/swe_rb28;rb 28
+modification/swe_rb28/desc;"Loadout unlocked:
+• <color=@userlogColoredText>robotbalk F5V 054</color>, <color=@userlogColoredText>robotbalk F5H 054</color>:
+  • {unlockWeapons}"
 
 //ISRAEL MISSILES
+//the Delilahs don't have a short name here to avoid making a Full Ammo Hebrew package unnecessarily
+modification/is_delilah/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Wing Weapon Pylon</color>
+  • <color=@userlogColoredText>MAU-12C/A</color>
+    • {unlockWeapons}"
+
+modification/is_delilah_ir/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Wing Weapon Pylon</color>
+  • <color=@userlogColoredText>MAU-12C/A</color>
+    • {unlockWeapons}"
 
 //USA SENSORS
 modification/laser_rangefinder_lws_sep;LWS / LR

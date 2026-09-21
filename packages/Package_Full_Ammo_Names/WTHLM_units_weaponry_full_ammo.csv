@@ -14,6 +14,7 @@
 15mm_sprgr_notracer;1,5cm Sprenggranate Patrone Übungs ohne Zerleger
 20mm_mgr;2cm Minengeschoß Patrone ohne Zerleger
 20mm_pzsprgr;2cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger
+30mm_PzSprBrGr;3cm Panzerbrandsprenggranate Patrone Leuchtspur ohne Zerleger
 37mm_sprgr_18_belt;3,7cm Sprenggranate Patrone 18
 37mm_pzgr_belt;3,7cm Panzergranate Patrone 18
 37mm_pzgr_341;3,7cm Panzersprenggranate Patrone Leuchtspur ohne Zerleger
@@ -130,6 +131,7 @@ type_44_ap;1959 Nián Shì 100 Háomi Tankè Pào Chuān Jia Dàn
 100mm_oea1928_he;100 mm obus explosif en acier modèle 1928
 100mm_oea1928_he_df;100 mm obus explosif en acier modèle 1928
 100mm_oea1945_he_df;100 mm obus explosif en acier modèle 1945
+105mm_m_1010;Cartridge, 105 Millimeter, HE, Comp B, M1010, w/fuze, PD, NR 2421
 120mm_f1_he;Cartouche à obus explosif de 120 mm modèle F1
 120mm_ofl_120_f2;Cartouche à obus flèche de 120 mm modèle F2
 152mm_m1936_he_df;152 mm obus explosif en acier modèle 1936
@@ -141,6 +143,10 @@ modèle 1936"
 modèle 1936"
 380mm_opf_mle1943_apcbc;"380 mm obus de perforation dispositif K de rupture coiffé
 modèle 1943"
+
+//SWEDEN AMMUNITION
+20mm_akan_m45_b_he;"20 mm skarp patron m/41 laddning m/41B spårljusspränggranat
+m/42 ögonblickligt högkänsligt spetsanslagsrör m/42"
 
 //USA ROCKETS
 227mm_m26a2;Rocket, 227mm, M26A2
@@ -154,19 +160,21 @@ us_amraam_er;AMRAAM Extended Range
 rim_24b;Ship-Launched, Intercept-Aerial, Guided Missile, RIM-24B Tartar
 410mm_mim104b;Guided Missile, Intercept-Aerial, MIM-104B
 us_mim_23b;Guided Missile, Intercept-Aerial, MIM-23B
+us_mim_23a;Guided Missile, Intercept-Aerial, MIM-23A
 557mm_mgm_52;Guided Missile, Surface Attack, MGM-52C Lance
 rim_66c;Ship-Launched, Intercept-Aerial, Guided Missile, RIM-66C Standard MR
 
 //USSR MISSILES
-209mm_9m33;Zyenitnaâ upravlâyemaâ rakyeta 9M33M
-360mm_9m317ma;Zyenitnaâ upravlâyemaâ rakyeta 9M317MA
-400mm_9m38m1;Zyenitnaâ upravlâyemaâ rakyeta 9M38M1
-508mm_5v55r;Zyenitnaâ upravlâyemaâ rakyeta V-500R
+209mm_9m33;Z'enitnaya upravlyayemaya rak'eta 9M33M
+360mm_9m317ma;Z'enitnaya upravlyayemaya rak'eta 9M317MA
+400mm_9m38;Z'enitnaya upravlyayemaya rak'eta 9M38
+400mm_9m38m1;Z'enitnaya upravlyayemaya rak'eta 9M38M1
+508mm_5v55r;Z'enitnaya upravlyayemaya rak'eta V-500R
 130mm_9m120_1;Protivotankovaâ upravlâyemaâ rakyetu 9M120-1
 130mm_9m120_1f;Protivotankovaâ upravlâyemaâ rakyetu 9M120-1F
-170mm_zur_95ya6;Zyenitnaâ upravlâyemaâ rakyeta 57È6-Ye
-170mm_57e6m;Zyenitnaâ upravlâyemaâ rakyeta 57È6M-Ye-M
-170mm_tkb_1055;Zyenitnaâ upravlâyemaâ rakyeta TKB-1055
+170mm_zur_95ya6;Z'enitnaya upravlyayemaya rak'eta 57È6-Ye
+170mm_57e6m;Z'enitnaya upravlyayemaya rak'eta 57È6M-Ye-M
+170mm_tkb_1055;Z'enitnaya upravlyayemaya rak'eta TKB-1055
 300mm_9m55f;300-mm ryeaktivnyj snarâd 9M55F
 
 //UK MISSILES

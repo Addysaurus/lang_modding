@@ -15,6 +15,7 @@ weapons/57mm_ak_157_naval_user_cannon;"Артиллерийская устано
 • <color=@userlogColoredText>57 mm</color> 57-мм Одноорудийная палубная установка ЗиФ-71 <color=#ff6f00>ACNN</color>"
 weapons/57mm_ak_157_naval_user_cannon/short;ЗиФ-71
 weapons/85mm_Type_56_user_cannon;<color=@userlogColoredText>85 mm</color> 52-ПТ-365 | ЗиС-С-53 обр. 1944 г. <color=#ff6f00>CNN</color>
+weapons/100mm_D10T_416_user_cannon;<color=@userlogColoredText>100-мм противотанковая пушка М-63 <color=#ff6f00>CNN</color>
 weapons/100mm_2A70_BMP_autoloader_user_cannon;<color=@userlogColoredText>100 mm</color> 2А70 <color=#ff6f00>CNN</color>
 weapons/125mm_2A46_M5_t_90m_user_cannon;<color=@userlogColoredText>125 mm</color> 125-мм танковая пушка 2А46М-5 <color=#ff6f00>CNN</color>
 weapons/125mm_2A46_M5_T_90A_user_cannon;<color=@userlogColoredText>125 mm</color> 125-мм танковая пушка 2А46М-5 <color=#ff6f00>CNN</color>
@@ -75,6 +76,10 @@ weapons/su_rn_40;<color=@userlogColoredText>30 kt</color> ☢ Специальн
 weapons/su_rn_40/short;☢ РН40
 weapons/su_rds37;<color=@userlogColoredText>1.6 mt</color> ☢ Специальная боевая часть РДС-37 <color=#ff6f00>BMB-ATM</color>
 weapons/su_rds37/short;☢ РДС-37
+weapons/su_rds4_5kt_nt;"<color=@userlogColoredText>5 kt</color> ☢ изд. 244Н | Тактическая атомная бомба 8У69 «Татьяна» (Заряд РДС-4Т) <color=#ff6f00>BMB-ATM</color>"
+weapons/su_rds4_5kt_nt/short;☢ 8У69 (РДС-4Т) (5 kt)
+weapons/su_rds4_30kt_nt;"<color=@userlogColoredText>30 kt</color> ☢ изд. 244Н | Тактическая атомная бомба 8У69 «Татьяна» (Заряд РДС-4Т) <color=#ff6f00>BMB-ATM</color>"
+weapons/su_rds4_30kt_nt/short;☢ 8У69 (РДС-4Т) (30 kt)
 
 //ROCKETS
 weapons/57mm_s_5kp;9-А-608 | Неуправляемая авиационная ракета С-5КП
@@ -175,6 +180,7 @@ weapons/170mm_57E6M_launcher_user_cannon/short;95Я6М
 170mm_57e6m;57Э6М-Е-М
 170mm_tkb_1055;ТКБ-1055
 360mm_9m317ma;9М317МА
+400mm_9m38;9М38
 400mm_9m38m1;9М38М1
 508mm_5v55r;В-500Р
 weapons/360mm_9m317m_user_cannon;Пусковое устройство 9П331М <color=#ff6f00>LCH</color>
@@ -211,6 +217,10 @@ weapons/su_490l_mig_21_fuse;<color=@userlogColoredText>490 L</color> Подве�
 weapons/su_490l_mig_21_fuse/short;ПТБ-500
 weapons/su_490l_mig_21_right_wing;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
 weapons/su_490l_mig_21_right_wing/short;ПТБ-500
+weapons/su_600l_su_15tm_right_fuse;<color=@userlogColoredText>640 L</color> Подвесной топливный бак ПТБ-640 <color=#ff6f00>DPTK</color>
+weapons/su_600l_su_15tm_right_fuse/short;ПТБ-640
+weapons/su_600l_su_15tm_left_fuse;<color=@userlogColoredText>640 L</color> Подвесной топливный бак ПТБ-640 <color=#ff6f00>DPTK</color>
+weapons/su_600l_su_15tm_left_fuse/short;ПТБ-640
 weapons/su_800l_su_7b_silver_fuse_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
 weapons/su_800l_su_7b_silver_fuse_1/short;ПТБ-800
 weapons/su_800l_su_7b_silver_fuse_2;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
@@ -289,3 +299,7 @@ weapons/su_5280l_mig_25pd_drop_tank_central/short;ПТБ-5000
 //SMOKE GRENADES
 weapons/t_34_85_stp_s53_smoke_barrel_launcher;<color=@userlogColoredText>450 mm</color> Большая дымовая шашка БДШ-5 <color=#ff6f00>GRN-SMK</color>
 weapons/t_34_85_stp_s53_smoke_barrel_launcher/short;БДШ-5
+weapons/is_2m_smoke_barrel_launcher;<color=@userlogColoredText>450 mm</color> Большая дымовая шашка БДШ-5 <color=#ff6f00>GRN-SMK</color>
+weapons/is_2m_smoke_barrel_launcher/short;БДШ-5
+weapons/object_416_smoke_barrel_launcher;<color=@userlogColoredText>450 mm</color> Большая дымовая шашка БДШ-5 <color=#ff6f00>GRN-SMK</color>
+weapons/object_416_smoke_barrel_launcher/short;БДШ-5

@@ -12,6 +12,9 @@ ussr_ai_sam_radar_5n63s_2;Radar
 ussr_ai_sam_radar_9s18_0;Станция обнаружения и целеуказания 9С18 «Купол»
 ussr_ai_sam_radar_9s18_1;9С18
 ussr_ai_sam_radar_9s18_2;Radar
+ussr_ai_sam_radar_9s18m1_0;Станция обнаружения и целеуказания 9С18М1 «Купол-М1»
+ussr_ai_sam_radar_9s18m1_1;9С18М1
+ussr_ai_sam_radar_9s18m1_2;Radar
 ussr_ai_mlrs_9a52_2_smerch_0;Боевая машина 9А52-2 «Смерч-М»
 ussr_ai_mlrs_9a52_2_smerch_1;9А52-2
 ussr_ai_mlrs_9a52_2_smerch_2;MLRS
@@ -24,23 +27,60 @@ ussr_ai_sam_launcher_5p85se_2;SPAAM
 ussr_ai_sam_launcher_9a310_0;Самоходная огневая установка 9А310 «Бук»
 ussr_ai_sam_launcher_9a310_1;9А310
 ussr_ai_sam_launcher_9a310_2;SPAAM
-wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;КАМАЗ-4310
+ussr_ai_sam_launcher_9a310m1_0;Самоходная огневая установка 9А310М1 «Бук-М1»
+ussr_ai_sam_launcher_9a310m1_1;9А310М1
+ussr_ai_sam_launcher_9a310m1_2;SPAAM
+wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;Автомобиль КАМАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_1;КАМАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_2;Transport
+wheeled_vehicles/ussr_zil_131_awning_0;Автомобиль ЗиС-5
+wheeled_vehicles/ussr_zil_131_awning_1;ЗиС-5
+wheeled_vehicles/ussr_zil_131_awning_2;Truck
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_0;Автомобиль ЗиС-5
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_1;ЗиС-5
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_2;Truck
+wheeled_vehicles/ussr_zil_131_fuel_carrier_0;Бензозаправщик BZ-35
+wheeled_vehicles/ussr_zil_131_fuel_carrier_1;BZ-35
+wheeled_vehicles/ussr_zil_131_fuel_carrier_2;Fuel Tanker
+
+ussr_aircraftcarrier_baku_shop;Баку
+ussr_aircraftcarrier_baku_0;"<color=#81c3fc>Черноморский судостроительный завод</color>
+<color=#fffa62>Тяжёлый авианесущий крейсер проект 1143.4 Кречет</color>
+Баку"
+ussr_aircraftcarrier_baku_1;Баку
+ussr_aircraftcarrier_baku_2;Aircraft Carrier
+
+ussr_aircraftcarrier_baku_ai_shop;Баку
+ussr_aircraftcarrier_baku_ai_0;"<color=#81c3fc>Черноморский судостроительный завод</color>
+<color=#fffa62>Тяжёлый авианесущий крейсер проект 1143.4 Кречет</color>
+Баку"
+ussr_aircraftcarrier_baku_ai_1;Баку
+ussr_aircraftcarrier_baku_ai_2;Aircraft Carrier
 
 ships/ussr_aircraftcarrier_admiral_kuznetsov_shop;Адмирал Флота Советского Союза Кузнецов
 ships/ussr_aircraftcarrier_admiral_kuznetsov_0;"<color=#81c3fc>Черноморский судостроительный завод</color>
-<color=#fffa62>Тяжёлый Авианесущий Крейсер Проект 1143.5 Кречет</color>
+<color=#fffa62>Тяжёлый авианесущий крейсер проект 1143.5 Кречет</color>
 Адмирал Флота Советского Союза Кузнецов"
 ships/ussr_aircraftcarrier_admiral_kuznetsov_1;Адмирал Флота Советского Союза Кузнецов
-ships/ussr_aircraftcarrier_admiral_kuznetsov_2;Carrier
+ships/ussr_aircraftcarrier_admiral_kuznetsov_2;Aircraft Carrier
 
 ussr_aircraftcarrier_admiral_kuznetsov_shop;Адмирал Флота Советского Союза Кузнецов
 ussr_aircraftcarrier_admiral_kuznetsov_0;"<color=#81c3fc>Черноморский судостроительный завод</color>
-<color=#fffa62>Тяжёлый Авианесущий Крейсер Проект 1143.5 Кречет</color>
+<color=#fffa62>Тяжёлый авианесущий крейсер проект 1143.5 Кречет</color>
 Адмирал Флота Советского Союза Кузнецов"
 ussr_aircraftcarrier_admiral_kuznetsov_1;Адмирал Флота Советского Союза Кузнецов
-ussr_aircraftcarrier_admiral_kuznetsov_2;Carrier
+ussr_aircraftcarrier_admiral_kuznetsov_2;Aircraft Carrier
+
+ussr_aircraftcarrier_admiral_kuznetsov_ai_shop;Адмирал Флота Советского Союза Кузнецов
+ussr_aircraftcarrier_admiral_kuznetsov_ai_0;"<color=#81c3fc>Черноморский судостроительный завод</color>
+<color=#fffa62>Тяжёлый авианесущий крейсер проект 1143.5 Кречет</color>
+Адмирал Флота Советского Союза Кузнецов"
+ussr_aircraftcarrier_admiral_kuznetsov_ai_1;Адмирал Флота Советского Союза Кузнецов
+ussr_aircraftcarrier_admiral_kuznetsov_ai_2;Aircraft Carrier
+
+ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_0;Тяжёлый авианесущий крейсер проект 1143.5 Кречет | Адмирал Флота Советского Союза Кузнецов
+ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_1;Адмирал Флота Советского Союза Кузнецов
+ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_2;Aircraft Carrier
 
 //USSR KILLSTREAK UNITS
 su_24m_killstreak_shop;☢ Су-24М2
@@ -56,6 +96,20 @@ su_24m_china_killstreak_0;"<color=#81c3fc>Компания «Сухой»</color
 ␗☢ Самолёт Су-24М2"
 su_24m_china_killstreak_1;␗☢ Су-24М
 su_24m_china_killstreak_2;␗☢ Су-24
+
+su_17m4_killstreak_shop;☢ Су-17М4
+su_17m4_killstreak_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина</color>
+<color=#5cae63>изд. С-54</color>
+☢ Самолёт Су-17М4"
+su_17m4_killstreak_1;☢ Су-17М
+su_17m4_killstreak_2;☢ Су-17
+
+su_17m4_china_killstreak_shop;☢␗ Су-17М4
+su_17m4_china_killstreak_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина</color>
+<color=#5cae63>изд. С-54</color>
+☢␗ Самолёт Су-17М4"
+su_17m4_china_killstreak_1;☢␗ Су-17М
+su_17m4_china_killstreak_2;☢␗ Су-17
 
 //USSR GROUPS
 shop/group/la_200_group;200 / Ла-15
@@ -189,6 +243,20 @@ mig_23mld_0;"<color=#81c3fc>Московское авиационное прои
 Самолёт МиГ-23МЛД"
 mig_23mld_1;МиГ-23МЛД
 mig_23mld_2;МиГ-23
+
+su_17m2_shop;Су-17М2
+su_17m2_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина</color>
+<color=#5cae63>изд. С-32М2</color>
+Самолёт Су-17М2"
+su_17m2_1;Су-17М2
+su_17m2_2;Су-17
+
+su_17m4_shop;Су-17М4
+su_17m4_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод им. Ю. А. Гагарина</color>
+<color=#5cae63>изд. С-54</color>
+Самолёт Су-17М4"
+su_17m4_1;Су-17М
+su_17m4_2;Су-17
 
 nt_mig_23mld_shop;МиГ-23МЛД
 nt_mig_23mld_0;"<color=#81c3fc>Московское авиационное производственное объединение</color>
@@ -393,7 +461,7 @@ ussr_t_34_85_zis_53_kit_3rank_0;"<color=#81c3fc>Уральский танков�
 <color=#adadad>(September 1944)</color>
 <color=@currencyGoldColor>«In May 1945»</color>"
 ussr_t_34_85_zis_53_kit_3rank_1;Т-34-85
-ussr_t_34_85_zis_53_kit_3rank_2;Medium tank
+ussr_t_34_85_zis_53_kit_3rank_2;Medium Tank
 
 ussr_t_34_85_zis_53_v80_shop;Т-34-85 (Sep 1944) (64-я Гв.Т.Бр.)
 ussr_t_34_85_zis_53_v80_0;"<color=#81c3fc>Уральский танковый завод №183</color>
@@ -402,7 +470,7 @@ ussr_t_34_85_zis_53_v80_0;"<color=#81c3fc>Уральский танковый з
 <color=#adadad>(September 1944)</color>
 <color=@currencyGoldColor>64-я гвардейская танковая бригада</color>"
 ussr_t_34_85_zis_53_v80_1;Т-34-85
-ussr_t_34_85_zis_53_v80_2;Medium tank
+ussr_t_34_85_zis_53_v80_2;Medium Tank
 
 ussr_t_34_85_stp_s53_shop;Т-34-85 (May 1945) (СТП-С-53)
 ussr_t_34_85_stp_s53_0;"<color=#81c3fc>Завод № 112</color>
@@ -410,7 +478,7 @@ ussr_t_34_85_stp_s53_0;"<color=#81c3fc>Завод № 112</color>
 Танк Т-34-85 обр. 1945 г.
 <color=#adadad>(May 1945) (Стабилизатор СТП-С-53 «Таран»)</color>"
 ussr_t_34_85_stp_s53_1;Т-34-85
-ussr_t_34_85_stp_s53_2;Medium tank
+ussr_t_34_85_stp_s53_2;Medium Tank
 
 ussr_is_1_shop;ИС-1
 ussr_is_1_0;"<color=#81c3fc>Кировский завод</color>
@@ -434,7 +502,7 @@ ussr_t_44_po_0;"<color=#81c3fc>Уральский танковый завод �
 Танк Т-44
 <color=#adadad>(№ 1)</color>"
 ussr_t_44_po_1;Т-44
-ussr_t_44_po_2;Medium tank
+ussr_t_44_po_2;Medium Tank
 
 ussr_t_44_kit_4rank_shop;Т-44 «Be Prepared!»
 ussr_t_44_kit_4rank_0;"<color=#81c3fc>Завод № 75</color>
@@ -442,7 +510,7 @@ ussr_t_44_kit_4rank_0;"<color=#81c3fc>Завод № 75</color>
 Танк Т-44
 <color=@currencyGoldColor>«Be Prepared!»</color>"
 ussr_t_44_kit_4rank_1;Т-44
-ussr_t_44_kit_4rank_2;Medium tank
+ussr_t_44_kit_4rank_2;Medium Tank
 
 ussr_is_2m_kit_4rank_shop;ИС-2М «Be Prepared!»
 ussr_is_2m_kit_4rank_0;"<color=#81c3fc>Кировский завод Наркомата танковой промышленности в городе
@@ -503,7 +571,7 @@ ussr_t_55a_0;"<color=#81c3fc>Харьковское конструкторско
 <color=#5cae63>Обект 155А</color>
 Танк Т-55А"
 ussr_t_55a_1;Т-55А
-ussr_t_55a_2;Medium tank
+ussr_t_55a_2;Medium Tank
 
 ussr_t_55_amd_1_shop;Т-55АД-1
 ussr_t_55_amd_1_0;"<color=#81c3fc>Харьковское конструкторское бюро по машиностроению имени А. А.
@@ -511,7 +579,7 @@ ussr_t_55_amd_1_0;"<color=#81c3fc>Харьковское конструктор�
 <color=#5cae63>Обект 155АД-1</color>
 Танк Т-55АД-1"
 ussr_t_55_amd_1_1;Т-55АД-1
-ussr_t_55_amd_1_2;Medium tank
+ussr_t_55_amd_1_2;Medium Tank
 
 ussr_t_55_am_shop;Т-55АМ-1
 ussr_t_55_am_0;"<color=#81c3fc>Харьковское конструкторское бюро по машиностроению имени А. А.
@@ -519,7 +587,7 @@ ussr_t_55_am_0;"<color=#81c3fc>Харьковское конструкторск
 <color=#5cae63>Обект 155АМ-1</color>
 Танк Т-55АМ-1"
 ussr_t_55_am_1;Т-55АМ-1
-ussr_t_55_am_2;Medium tank
+ussr_t_55_am_2;Medium Tank
 
 ussr_bmd_4m2_shop;БМД-4М (Синица)
 ussr_bmd_4m2_0;"<color=#81c3fc>Курганский машиностроительный завод</color>
@@ -552,9 +620,9 @@ ussr_btr_82at_2;IFV
 
 ussr_object_140_shop;Об. 140
 ussr_object_140_0;"<color=#81c3fc>Уральский танковый завод № 183 имени Коминтерна</color>
-<color=#5cae63>Обект 140"</color>
+<color=#5cae63>Обект 140</color>"
 ussr_object_140_1;Об. 140
-ussr_object_140_2;Medium tank
+ussr_object_140_2;Medium Tank
 
 il_tiran_6_shop;Ṭiran 6
 il_tiran_6_0;"<color=#81c3fc>Уральским вагоностроительным заводом имени Ф. Э. Дзержинского <color=@commonTextColor>/</color>
@@ -994,41 +1062,6 @@ cn_type_58_1;␗ 特34 (1960)
 cn_type_58_2;Medium Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
-cn_type_86_shop;ZBD86 (2020)
-cn_type_86_0;"<color=#81c3fc>Челябинский тракторный завод им. В. И. Ленина <color=@commonTextColor>/</color> Zhōngguó Bīngqì Gōngyè
-Jítuán Youxiàn Gōngsī</color>
-<color=#5cae63>WZ501</color>
-<color=#919191>1986 Nián Shì Lüdài Bùbīng Zhàn Chē</color>
-ZBD1986 Shì Lüdài Bùbīng Zhàn Chē
-<color=#adadad>(2020)</color>"
-cn_type_86_1;ZBD86
-cn_type_86_2;Light Tank
-
-cn_type_59_shop;ZTZ59
-cn_type_59_0;"<color=#81c3fc>Уральский вагоностроительный завод им. И. В. Сталина <color=@commonTextColor>/</color> Nèiménggu Dì Yī
-Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
-<color=#5cae63>WZ120</color>
-<color=#919191>1959 Nián Shì Zhōngxíng Tankè</color>
-ZTZ1959 Shì Zhōngxíng Tankè"
-cn_type_59_1;ZTZ59
-cn_type_59_2;Medium Tank
-
-cn_ztz_59a_shop;ZTZ59A
-cn_ztz_59a_0;"<color=#81c3fc>Уральский вагоностроительный завод им. И. В. Сталина <color=@commonTextColor>/</color> Nèiménggu Dì Yī
-Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
-<color=#5cae63>WZ120A</color>
-<color=#919191>1959 Nián 1 Shì Zhōngxíng Tankè</color>
-ZTZ1959A Shì Zhōngxíng Tankè"
-cn_ztz_59a_1;ZTZ59
-cn_ztz_59a_2;Medium Tank
-
-cn_type_59d_shop;ZTZ59D1
-cn_type_59d_0;"<color=#81c3fc>Уральский вагоностроительный завод им. И. В. Сталина <color=@commonTextColor>/</color> Nèiménggu Dì Yī
-Jīxiè Zhìzào Chang (Guóyíng Dì 617 Chang)</color>
-<color=#5cae63>WZ120C</color>
-ZTZ1959D1 Shì Zhōngxíng Tankè"
-cn_type_59d_1;ZTZ59
-cn_type_59d_2;Medium Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 cn_t_62_shop;Т-62
@@ -1061,8 +1094,8 @@ tu-2_postwar_late_hungary_1;◔ Tu-2Sz
 tu-2_postwar_late_hungary_2;◔ Tu-2
 
 yak-9p_hungary_shop;◔ Jak-9P
-yak-9p_hungary_0;<color=#81c3fc>Завод № 153</color>
-◔ Jak-9P repülőgép
+yak-9p_hungary_0;"<color=#81c3fc>Завод № 153</color>
+◔ Jak-9P repülőgép"
 yak-9p_hungary_1;◔ Jak-9P
 yak-9p_hungary_2;◔ Jak-9P
 

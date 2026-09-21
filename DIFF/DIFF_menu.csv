@@ -1,5 +1,7 @@
 <ID|readonly|noverify>;<English>
 bullet_properties/armorPiercing/fragmentation;Fragmentation
+weaponry/gameModeRestrictions/header;Availability in game modes
+weaponry/gameModeRestrictions/br;at BR {br} and higher
 xray/ammo/first_stage/replenish_delay;Ready rack replenishment delay
 xray/ammo/first_stage/replenish_time;Ready rack replenishment time
 xray/ammo/first_stage/reload_time_when_empty;Reload time without ready rack
@@ -13,11 +15,22 @@ mainmenu/oneMainModeRequired;At least one main mode must be enabled
 mainmenu/forEachSquadMember;(of each squad member)
 slotbarPresetsTutorial/autoChangePreset;"This will automatically change your vehicles to the selected preset.
 You can always restore your current vehicles in this menu."
+armor_class/dural_nikel0_4_tail;Kol'chugaluminium corrugated skin 0.4 mm
+armor_class/dural_nikel0_4_fuse;Kol'chugaluminium corrugated skin 0.4 mm
+armor_class/dural_nikel0_4_wing;Kol'chugaluminium corrugated skin 0.4 mm
+armor_class/dural_nikel0_4_elevator;Kol'chugaluminium corrugated skin 0.2 mm
+armor_class/dural_nikel0_4_fin;Kol'chugaluminium corrugated skin 0.4 mm
+armor_class/dural_nikel1;Kol'chugaluminium 1 mm
+armor_class/dural_nikel3;Kol'chugaluminium 3 mm
 xray/turnTurretSpeed/lowBattery/yaw;Horizontal guidance speed on low battery
 xray/turnTurretSpeed/lowBattery/pitch;Vertical guidance speed on low battery
 workshop/wtcs_trophy_6;WTCS Esports Trophy VI
 loading_bg/login_layer_ship_marathon_guardian_of_the_baltic_sea;Oktyabrskaya Revolutsiya
 loading_bg/login_layer_space_program;F-16XL
+loading_bg/login_layer_sky_odyssey;Hellenic Air Force
+loading_bg/login_layer_arjun_mk1;Arjun Mk 1
+loading_bg/login_layer_j16;J-16
+loading_bg/login_layer_aw_159;AW159 HMA.2
 gpuBenchmark/btnApply;"Apply for ""{modeText}"" mode"
 edit/secondary_weapons/old_preset_invalid_title;Change in custom weapon preset
 edit/secondary_weapons/old_preset_invalid_desc;Due to weapon stat updates, some items are no longer available and have been automatically removed from this preset. You can modify or update it right now.

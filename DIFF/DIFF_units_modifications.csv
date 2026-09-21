@@ -1,6 +1,8 @@
 <ID|readonly|noverify>;<English>
 modification/saab_f35_alq_162;Chaff
 modification/saab_f35_alq_162/desc;Allows the installation of additional block with Chaff
+modification/etc1600;PC 1600
+modification/etc1600/desc;Allows the installation of 1600 kg bombs
 modification/is_delilah/desc;Allows the installation of Delilah guided missiles.
 modification/is_delilah;Delilah
 modification/is_delilah_ir/desc;Allows the installation of Delilah (IR) guided missiles.
@@ -8,6 +10,7 @@ modification/is_delilah_ir;Delilah
 modification/a_26_gunpod;Gun Pod
 modification/a_26_gunpod/desc;Allows the installation of additional 12.7-mm gun.
 sensors/su_spo-150-30m1;L-150-30M1
+sensors/su_spo-150m_02;L-150M-02
 sensors/su_spo_150_esm;ESM L-150
 sensors/su_n_010m_ols_ue;N010M Zhuk-M
 sensors/su_n_010a;N010AE Zhuk-AE
@@ -21,6 +24,8 @@ engine_model/ha_214;Ha-214
 engine_model/j65-w-420;J65-W-420
 modification/swe_rb27/desc;Allows the installation of RB27 air-to-air missiles.
 modification/swe_rb27;RB27
+modification/swe_rb28/desc;Allows the installation of RB28 air-to-air missiles.
+modification/swe_rb28;RB28
 modification/fr_fz275/desc;Allows the installation of FZ275 missiles.
 modification/fr_fz275;FZ275
 modification/atgm_spike_nlos/desc;Allows the installation of Spike NLOS missiles.

@@ -18,18 +18,19 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.18.02 - UNRELEASED
+## 1.19.00 - 21-09-2026
 
 ### Vehicles:
 
 - #### Changes:
 
-    - Updated for the "Guardian of the Baltic Sea" and "Space Program" events.
+    - Updated for the "Sky Odyssey" major update and the "Guardian of the Baltic Sea" and "Space Program" events.
     - Implemented multiline statcards. This project has been in the works since March and every vehicle has now been moved over to a new statcard format spanning multiple lines. This will make statcards much more readable and consistent, with no more scrolling or stretching.
     - Implemented the UK tree rework. This is Odican's rework of every single British tree vehicle in the entire game. It has been in the works for nearly a year and has come out to be extremely high quality and one of the best things ever done for this mod.
     - Implemented the French ground rework. This reworks every single French ground vehicle in the entire game (enjoy your S.O.M.U.A. 50t smh my head).
     - Implemented the German naval rework. This reworks every single German naval vehicle in the coastal and bluewater fleet trees.
     - Added new Greek and Greek + Russian packages for the new Greek vehicles. Special thanks to Minna for helping with Greek research and correcting my mistakes since I don't speak Greek.
+    - All Belgian vehicles have been reworked. The default mod language is Flemish, and a Walloon addon package has been added so you can choose between Walloon and Flemish for Belgian vehicles since both are equally official.
     - Minor manufacturer pass on earlier Chinese vehicles.
     - Added a giant amount of previous names to vehicles with the new multiline statcards, especially to pre-1988 Chinese ground vehicles.
     - Added a lot of project names to vehicles with the new multiline statcards.
@@ -86,15 +87,26 @@ All dates are listed in DD-MM-YYYY format.
     - Fixed several typos.
     - Corrected the grammar and transliteration of the **Mi-35P**.
     - Added the missing refit year to **Yūgure (DD-184)** (it had the refit location but not the year).
+    - Reworked the **Su-17**s.
+    - Reworked the **B-57**s.
+    - Updated the transliteration of the **9K37** vehicles.
+    - Corrected all instances of the manufacturer Fore River Shipyard to the appropriate name for it for each vehicle based on the time period.
+    - Reworked the **LCM(6)(F) "Zippo"** monitor.
 
 ### Weaponry:
 
 - #### Changes:
 
+    - Updated for the "Sky Odyssey" major update.
     - **Rheinmetall Rh202 | MK 20 DM 6 A1** → **Maschinenkanone 20 mm MK 20 DM 6 A1**.
+    - **Gun, Q.F., 4.7-inch, Mk. IX** → **Ordnance, Q.F., 4.7-inch, Mk. IX**.
+    - **Gun, Q.F., 5.25-inch, Mk. I** → **Ordnance, Q.F., 5.25-inch, Mk. I**.
+    - **Gun, B.L., 14-inch, Mk. VII** → **Ordnance, B.L., 14-inch, Mk. VII**.
+    - **16 inch/45 BL Mark I cannon** → **Ordnance, B.L., 16-inch, Mk. I**.
+    - **16 inch/45 BL Mark I mod.2 cannon** → **Ordnance, B.L., 16-inch, Mk. I**.
     - **37 mm SA18 L/21 cannon** → **Canon de 37 mm semi-automatique modèle 1918**.
     - **Canon de 37 mm SA38 L/33** → **Canon de 37 mm semi-automatique modèle 1938**.
-    - **40 mm Mle51 T1 cannon** → **Matériel de 40 mm antiaérien modèle 1951 T1**.
+    - **40 mm Mle51 T1 cannon** → **Canon de 40 mm antiaérien modèle 1951 T1**.
     - **47 mm SA37 cannon** → **Canon de 47 mm semi-automatique modèle 1937**.
     - **Canon de 75mm SA 49** → **Canon de 75 mm semi-automatique modèle 1949**.
     - **Canon de 75mm SA 50 L/57** → **Canon de 75 mm semi-automatique modèle 1950**.
@@ -105,7 +117,11 @@ All dates are listed in DD-MM-YYYY format.
     - **SYLVER A50**: Statcard name → **Système de lancement vertical A50**.
         - Japanese package: **30 mm Ho-155 cannon** → **五式三十粍固定機銃**.
     - **Matériel de 75 mm modèle 1897** → **Canon da 75 mm modèle 1897**.
+    - **75 mm Type 88 cannon** → **"Ki 109" Tōsai Hō**.
+        - Japanese package: **75 mm Type 88 cannon** → **「キ109」搭載砲**.
+    - Corrected the **ZiF-71** accidentally being in Russian.
     - Corrected the capitalization of French ammunition in the Full Ammunition Names package.
+    - Reworked German torpedoes.
 
 ### Modifications:
 

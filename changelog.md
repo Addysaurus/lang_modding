@@ -25,6 +25,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Corrected the Australian Hornets to the **AF/A-18A** because that name sadly is real.
+    - Corrected the modification manufacturers for both **Hawk T. Mk. 1A**s and the **Tornado G.R. Mk. 4**.
  
 ## 1.19.00 - 21-09-2026
 

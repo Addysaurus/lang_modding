@@ -1674,7 +1674,7 @@ shop/group/uk_stormer_9a33_group;Stormer / ☸ Osā-Eke
 shop/group/uk_stormer_9a35_group;F.V.4333 (HVM) / ☸ Sṭrelā-10 Em
 shop/group/uk_sky_sabre_fcs_group;Sky Sabre
 shop/group/fury_group;Fury Mk. I / II
-shop/group/gladiator_mk2_group;Gladiator Mk. II / II (Silver) / II (BEF)
+shop/group/gladiator_mk2_group;Gladiator Mk. II / II (silver) / II (B.E.F.)
 shop/group/hampden_group;Hampden Mk. I / T.B. Mk. I
 shop/group/blenheim_group;Blenheim / Beaufort
 shop/group/sunderland_group;Sunderland Mk. IIIa / V
@@ -1701,7 +1701,7 @@ shop/group/meteor4_group;Meteor F. Mk. 3/4 / 4 / 8
 shop/group/canberra_group;Canberra B. Mk. 2 / B.(I) Mk. 6
 shop/group/hawk_200_group;Hawk 200 (ZH200) / (RDA)
 shop/group/f_111c_tornado_group;▄ F-111C / Tornado G.R. Mk. 1
-shop/group/fa_18a_raaf_group;▄ F/A-18A / A (HUG 2.4)
+shop/group/fa_18a_raaf_group;▄ AF/A-18A / A (HUG 2.4)
 shop/group/uk_destroyer_battle_group;HMS Armada / HMAS Tobruk
 shop/group/uk_destroyer_daring_group;HMS Diana / Daring
 shop/group/uk_cruiser_kent_norfolk_group;HMS Kent / Norfolk / London
@@ -10662,10 +10662,10 @@ Gladiator Mk. II
 gladiator_mk2_france_1;Gladiator Mk. II
 gladiator_mk2_france_2;Gladiator
 
-gladiator_mk2_silver_shop;Gladiator Mk. II (Silver)
+gladiator_mk2_silver_shop;Gladiator Mk. II (silver)
 gladiator_mk2_silver_0;"<color=#81c3fc>Gloster Aircraft Company SS.37</color>
 Gladiator Mk. II
-<color=#adadad>(Silver Finish)</color>"
+<color=#adadad>(silver finish)</color>"
 gladiator_mk2_silver_1;Gladiator Mk. II
 gladiator_mk2_silver_2;Gladiator
 
@@ -11407,13 +11407,13 @@ sea_hawk_fga6_1;Sea Hawk F.G.A. Mk. 6
 sea_hawk_fga6_2;Sea Hawk
 
 hawk_t1a_early_shop;Hawk T. Mk. 1A
-hawk_t1a_early_0;"<color=#81c3fc>British Aerospace</color>
+hawk_t1a_early_0;"<color=#81c3fc>Hawker Siddeley Aviation <color=@commonTextColor>/</color> British Aerospace, Wharton</color>
 Hawk T. Mk. 1A"
 hawk_t1a_early_1;Hawk T. Mk. 1
 hawk_t1a_early_2;Hawk
 
 hawk_t1a_shop;Hawk T. Mk. 1A (FRP)
-hawk_t1a_0;"<color=#81c3fc>British Aerospace <color=@commonTextColor>/</color> BAE Systems Military Air & Information</color>
+hawk_t1a_0;"<color=#81c3fc>British Aerospace <color=@commonTextColor>/</color> BAE Systems Military Air Solutions, Brough</color>
 Hawk T. Mk. 1A
 <color=#adadad>(Fuselage Replacement Programme)</color>"
 hawk_t1a_1;Hawk T. Mk. 1
@@ -11504,6 +11504,12 @@ Lightning F. Mk. 6"
 lightning_f6_1;Lightning F. Mk. 6
 lightning_f6_2;Lightning
 
+lightning_f53_shop;☪ Lightning F. Mk. 53
+lightning_f53_0;"<color=#81c3fc>British Aircraft Corporation</color>
+☪ Lightning F. Mk. 53"
+lightning_f53_1;☪ Lightning F. Mk. 53
+lightning_f53_2;☪ Lightning
+
 scimitar_f1_shop;Scimitar F. Mk. 1
 scimitar_f1_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 544</color>
 Scimitar F. Mk. 1"
@@ -11512,7 +11518,8 @@ scimitar_f1_2;Scimitar
 
 ca_27_mk32_raaf_shop;▄ Sabre Mk. 32
 ca_27_mk32_raaf_0;"<color=#81c3fc>Commonwealth Aircraft Corporation CA-27</color>
-▄ Sabre Mk. 32"
+▄ Sabre Mk. 32
+<color=#adadad>(Sabre Mod. No. 142)</color>"
 ca_27_mk32_raaf_1;▄ Sabre Mk. 32
 ca_27_mk32_raaf_2;▄ Sabre
 
@@ -11665,20 +11672,20 @@ saab_jas39c_south_africa_missile_test_0;"<color=#81c3fc>▄ Saab 39 Gripen C</co
 saab_jas39c_south_africa_missile_test_1;▄ Gripen C
 saab_jas39c_south_africa__missile_test_2;▄ Gripen
 
-fa_18a_raaf_shop;▄ F/A-18A
+fa_18a_raaf_shop;▄ AF/A-18A
 fa_18a_raaf_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267 <color=@commonTextColor>/</color> Government Aircraft
 Factories</color>
-▄ F/A-18A Hornet"
-fa_18a_raaf_1;▄ F/A-18A
-fa_18a_raaf_2;▄ F/A-18
+▄ AF/A-18A Hornet"
+fa_18a_raaf_1;▄ AF/A-18A
+fa_18a_raaf_2;▄ AF/A-18
 
-fa_18a_hug_2_raaf_shop;▄ F/A-18A (HUG 2.4)
+fa_18a_hug_2_raaf_shop;▄ AF/A-18A (HUG 2.4)
 fa_18a_hug_2_raaf_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267 <color=@commonTextColor>/</color> Government Aircraft
 Factories</color>
-▄ F/A-18A Hornet
+▄ AF/A-18A Hornet
 <color=#adadad>(Hornet Upgrade Program Phase 2.4)</color>"
-fa_18a_hug_2_raaf_1;▄ F/A-18A
-fa_18a_hug_2_raaf_2;▄ F/A-18
+fa_18a_hug_2_raaf_1;▄ AF/A-18A
+fa_18a_hug_2_raaf_2;▄ AF/A-18
 
 cf_188a_canada_shop;CF-188A
 cf_188a_canada_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267</color>
@@ -12421,8 +12428,8 @@ uk_fv438_swingfire_1;Swingfire
 uk_fv438_swingfire_2;ATMC
 
 uk_falcon_shop;Falcon
-uk_falcon_0;<color=#81c3fc>Guest, Keen and Nettlefolds <color=@commonTextColor>/</color> Vickers-Armstrongs
-Falcon Anti-Aircraft Gun System</color>
+uk_falcon_0;"<color=#81c3fc>Guest, Keen and Nettlefolds <color=@commonTextColor>/</color> Vickers-Armstrongs
+Falcon Anti-Aircraft Gun System</color>"
 uk_falcon_1;Falcon
 uk_falcon_2;SPAAG
 
@@ -14425,7 +14432,8 @@ alpha_jet_th_phase_1_2;B.J.7
 
 ca_27_mk32_malaysia_shop;☉ Sabre Mk. 32
 ca_27_mk32_malaysia_0;"<color=#81c3fc>Commonwealth Aircraft Corporation CA-27</color>
-☉ Sabre Mk. 32"
+☉ Sabre Mk. 32
+<color=#adadad>(Sabre Mod. No. 142)</color>"
 ca_27_mk32_malaysia_1;☉ Sabre Mk. 32
 ca_27_mk32_malaysia_2;☉ Sabre
 
@@ -22246,10 +22254,6 @@ p-47d_23_re_shop;▄ P-47D-23-RE
 p-47d_23_re_0;▄ P-47D-23-RE Thunderbolt
 p-47d_23_re_1;▄ P-47D
 p-47d_23_re_2;▄ P-47
-p-51b_shop;Mustang Mk. Ia
-p-51b_0;Mustang Mk. Ia
-p-51b_1;Mustang Mk. I
-p-51b_2;Mustang
 p-51c-10_france_shop;☨ F-6C-10-NT
 p-51c-10_france_0;☨ F-6C-10-NT Mustang
 p-51c-10_france_1;☨ F-6C

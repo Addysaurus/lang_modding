@@ -18,6 +18,14 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.19.01 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - Corrected the Australian Hornets to the **AF/A-18A** because that name sadly is real.
+ 
 ## 1.19.00 - 21-09-2026
 
 ### Vehicles:

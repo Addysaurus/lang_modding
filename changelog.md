@@ -32,7 +32,9 @@ All dates are listed in DD-MM-YYYY format.
     - Corrected the missing multiline for the **Mustang Mk. Ia**.
     - Corrected the incorrect formatting for the **Falcon**.
     - Corrected the **Vickers Mk. 7/2** to the **Vickers Mk. 7**.
- 
+    - Changed the **Ob. 416** to the **SU-100M**.
+    - Reworked the Panavia Tornados.
+
 ## 1.19.00 - 21-09-2026
 
 ### Vehicles:

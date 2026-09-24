@@ -1799,8 +1799,8 @@ shop/group/re_2000_group;Re.2000 I / GA III
 shop/group/re_2001_group;Re.2001 I / CB I
 shop/group/p_108_group;P.108B I / II
 shop/group/g_55_serie_group;G.55 I / Re.2005
-shop/group/fiat_g91_group;G.91 pre-serie / R/1
-shop/group/fiat_g91y_group;G.91 Y / YS
+shop/group/fiat_g91_group;G 91 (pre-serie) / R/1
+shop/group/fiat_g91y_group;G 91 Y / YS
 shop/group/tornado_ids_it_group;A-200A (1995) / C (RET8)
 
 shop/group/fr_hotchkiss_fcm_group;A.M.C. 34 / H. 35 / F.C.M. 36
@@ -6390,10 +6390,17 @@ sea_hawk_mk100_0;"<color=#81c3fc>Hawker Aircraft</color>
 sea_hawk_mk100_1;◄ Sea Hawk MK. 100
 sea_hawk_mk100_2;◄ Sea Hawk
 
-fiat_g91_r4_german_shop;◄ G.91 R/4
-fiat_g91_r4_german_0;"◄ G.91 R/4"
-fiat_g91_r4_german_1;◄ G.91 R
-fiat_g91_r4_german_2;◄ G.91
+fiat_g91_r4_german_shop;◄ G 91 R/4
+fiat_g91_r4_german_0;"<color=#81c3fc>Fiat Aviazione</color>
+◄ G 91 R/4"
+fiat_g91_r4_german_1;◄ G 91 R
+fiat_g91_r4_german_2;◄ G 91
+
+fiat_g91_r3_shop;◄ G 91 R/3
+fiat_g91_r3_0;"<color=#81c3fc>Flugzeug-Union Süd</color>
+◄ G 91 R/3"
+fiat_g91_r3_1;◄ G 91 R
+fiat_g91_r3_2;◄ G 91
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 f-86_canadair_german_shop;◄ Sabre Mk. 5
@@ -6423,11 +6430,6 @@ mig-19s_0;"<color=#5cae63>izd. 26</color>
 ◊ MiG-19S"
 mig-19s_1;◊ MiG-19S
 mig-19s_2;◊ MiG-19
-
-fiat_g91_r3_shop;◄ G.91 R/3
-fiat_g91_r3_0;"◄ G.91 R/3"
-fiat_g91_r3_1;◄ G.91 R
-fiat_g91_r3_2;◄ G.91
 
 alpha_jet_a_shop;◄ Alpha Jet A
 alpha_jet_a_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@commonTextColor>+</color> Dornier Flugzeugwerke</color>
@@ -6590,9 +6592,10 @@ tornado_ids_de_mfg_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 tornado_ids_de_mfg_1;◄ IDS-Tornado
 tornado_ids_de_mfg_2;◄ IDS-Tornado
 
-mirage_3s_c70_switzerland_shop;◌ Mirage III S C.70
+mirage_3s_c70_switzerland_shop;◌ Mirage III S (KAWEST 85)
 mirage_3s_c70_switzerland_0;"<color=#81c3fc>Avions Marcel Dassault <color=@commonTextColor>/</color> Eidgenössisches Flugzeugwerk</color>
-◌ Mirage III S C.70 ""MIRO"""
+◌ Mirage III S ""MIRO""
+<color=#adadad>(KAWEST 85)</color>"
 mirage_3s_c70_switzerland_1;◌ Mirage III S
 mirage_3s_c70_switzerland_2;◌ Mirage III
 
@@ -11506,11 +11509,11 @@ Lightning F. Mk. 6"
 lightning_f6_1;Lightning F. Mk. 6
 lightning_f6_2;Lightning
 
-lightning_f53_shop;☪ Lightning F. Mk. 53
+lightning_f53_shop;⚔ Lightning F. Mk. 53
 lightning_f53_0;"<color=#81c3fc>British Aircraft Corporation</color>
-☪ Lightning F. Mk. 53"
-lightning_f53_1;☪ Lightning F. Mk. 53
-lightning_f53_2;☪ Lightning
+⚔ Lightning F. Mk. 53"
+lightning_f53_1;⚔ Lightning F. Mk. 53
+lightning_f53_2;⚔ Lightning
 
 scimitar_f1_shop;Scimitar F. Mk. 1
 scimitar_f1_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 544</color>
@@ -11642,7 +11645,8 @@ tornado_gr1_1;▄ Tornado G.R. Mk. 1
 tornado_gr1_2;▄ Tornado
 
 tornado_gr4_shop;▄ Tornado G.R. Mk. 4
-tornado_gr4_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS <color=@commonTextColor>/</color> BAE Systems Military Air Solutions, Wharton</color>
+tornado_gr4_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS <color=@commonTextColor>/</color> BAE Systems Military Air Solutions,
+Wharton</color>
 ▄ Tornado G.R. Mk. 4
 <color=#adadad>(July 2009)</color>"
 tornado_gr4_1;▄ Tornado G.R. Mk. 4
@@ -12510,7 +12514,7 @@ uk_olifant_mk_2_2;MBT
 uk_fv510_isv_shop;Warrior
 uk_fv510_isv_0;"<color=#81c3fc>GKN</color>
 <color=#ff8c80>Mechanised Combat Vehicle for the 1980s</color>
-<color=#5cae63>F.V.520</color>
+<color=#5cae63>F.V.510</color>
 Combat Vehicle, Infantry Section, Tracked, Warrior"
 uk_fv510_isv_1;Warrior
 uk_fv510_isv_2;IFV
@@ -17576,6 +17580,37 @@ f-86_cl_13_mk4_italy_0;"<color=#81c3fc>CL-13A</color>
 f-86_cl_13_mk4_italy_1;⛨ Sabre Mk. 4
 f-86_cl_13_mk4_italy_2;⛨ Sabre
 
+fiat_g91_ps_shop;G 91 (pre-serie)
+fiat_g91_ps_0;"<color=#81c3fc>Fiat Aviazione</color>
+G 91
+<color=#adadad>(pre-serie)</color>"
+fiat_g91_ps_1;G 91
+fiat_g91_ps_2;G 91
+
+fiat_g91_r1_shop;G 91 R/1
+fiat_g91_r1_0;"<color=#81c3fc>Fiat Aviazione</color>
+G 91 R/1"
+fiat_g91_r1_1;G 91 R
+fiat_g91_r1_2;G 91
+
+fiat_g91_r4_shop;☩ G 91 R/4
+fiat_g91_r4_0;"<color=#81c3fc>Fiat Aviazione</color>
+☩ G 91 R/4"
+fiat_g91_r4_1;☩ G 91 R
+fiat_g91_r4_2;☩ G 91
+
+fiat_g91_y_shop;G 91 Y
+fiat_g91_y_0;"<color=#81c3fc>Fiat Aviazione</color>
+G 91 Y"
+fiat_g91_y_1;G 91 Y
+fiat_g91_y_2;G 91
+
+fiat_g91_ys_shop;G 91 YS
+fiat_g91_ys_0;"<color=#81c3fc>Aeritalia</color>
+G 91 YS"
+fiat_g91_ys_1;G 91 YS
+fiat_g91_ys_2;G 91
+
 mb_326k_shop;MB-326K
 mb_326k_0;<color=#81c3fc>Aermacchi MB-326K</color>
 mb_326k_1;MB-326K
@@ -19456,6 +19491,13 @@ fr_m36b2_cefeo_0;"<color=#81c3fc>American Locomotive Company</color>
 fr_m36b2_cefeo_1;☨ M36B2
 fr_m36b2_cefeo_2;Tank Destroyer
 
+fr_lorraine_155_shop;Automoteur de 155 Lorraine (n° 1)
+fr_lorraine_155_0;"<color=#81c3fc>Lorraine</color>
+Automoteur de 155 Lorraine
+<color=@currencyGoldColor>Prototype n° 1</color>"
+fr_lorraine_155_1;Automoteur de 155 Lorraine
+fr_lorraine_155_2;SPG
+
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 fr_amx_elc_bis_shop;E.L.C. bis
 fr_amx_elc_bis_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
@@ -19539,7 +19581,7 @@ fr_marder_df_105_1;☨ DF 105
 fr_marder_df_105_2;Light tank
 
 fr_lorraine_40t_shop;Lorraine 40t
-fr_lorraine_40t_0;"<color=#81c3fc>Direction des etudes et fabrications d'armement</color>
+fr_lorraine_40t_0;"<color=#81c3fc>Lorraine</color>
 Char moyen de 40 tonnes Lorraine avec tourelle T.O.A. 100"
 fr_lorraine_40t_1;Lorraine 40t
 fr_lorraine_40t_2;Medium Tank
@@ -22873,26 +22915,6 @@ z_1007_bis_serie3_shop;Z.1007bis III
 z_1007_bis_serie3_0;Z.1007bis serie III Alcione
 z_1007_bis_serie3_1;Z.1007
 z_1007_bis_serie3_2;Z.1007
-fiat_g91_ps_shop;G.91 pre-serie
-fiat_g91_ps_0;G.91 pre-serie
-fiat_g91_ps_1;G.91
-fiat_g91_ps_2;G.91
-fiat_g91_r1_shop;G.91 R/1
-fiat_g91_r1_0;G.91 R/1
-fiat_g91_r1_1;G.91 R
-fiat_g91_r1_2;G.91
-fiat_g91_r4_shop;☩ G.91 R/4
-fiat_g91_r4_0;☩ G.91 R/4
-fiat_g91_r4_1;☩ G.91 R
-fiat_g91_r4_2;☩ G.91
-fiat_g91_y_shop;G.91 Y
-fiat_g91_y_0;G.91 Y
-fiat_g91_y_1;G.91 Y
-fiat_g91_y_2;G.91
-fiat_g91_ys_shop;G.91 YS
-fiat_g91_ys_0;G.91 YS
-fiat_g91_ys_1;G.91 YS
-fiat_g91_ys_2;G.91
 re_2000_int_shop;Re.2000 I
 re_2000_int_0;Re.2000 serie I Falco I
 re_2000_int_1;Re.2000

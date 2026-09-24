@@ -39,6 +39,7 @@ All dates are listed in DD-MM-YYYY format.
     - Changed the manufacturer of the **Lorraine 40t** to Lorraine.
     - Changed the **Lorraine 155 Mle.50** to the **Automoteur de 155 Lorraine (n° 1)** (forgot to do this one in the French ground rework).
     - **Mirage III S C.70** → **Mirage III S (KAWEST 85)**.
+    - Corrected the manufacturer designation of the **S 9 C**.
 
 ## 1.19.00 - 21-09-2026
 

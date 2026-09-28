@@ -17,10 +17,11 @@ stridsvagn m/40 LI"
 sw_strv_m40l_1;strv m/40 LI
 sw_strv_m40l_2;Light Tank
 
-sw_pvlvv_fm42_shop;20 mm pvlvblav
-sw_pvlvv_fm42_0;"<color=#81c3fc>Landsverk</color>
-<color=#ff8c80>20 mm pansarvärnsluftvärnsbandlavettage</color>"
-sw_pvlvv_fm42_1;20 mm pvlvblav
+sw_pvlvv_fm42_shop;L-120 (akan m/40B)
+sw_pvlvv_fm42_0;"<color=#81c3fc>Landsverk L-120</color>
+<color=#ff8c80>20 mm pansarvärnsluftvärnsbandlavettage</color>
+<color=#adadad>(20 mm automatkanon m/40B)</color>"
+sw_pvlvv_fm42_1;L-120 (akan m/40B)
 sw_pvlvv_fm42_2;SPAAG
 
 sw_ikv_72_shop;ikv 72
@@ -74,7 +75,7 @@ sw_strv_m41_s2_1;strv m/41 S II
 sw_strv_m41_s2_2;Light Tank
 
 sw_pvkv_III_shop;pvkv III
-sw_pvkv_III_0;"<color=#81c3fc>Scania-Vabis</color>
+sw_pvkv_III_0;"<color=#81c3fc>Landsverk</color>
 pansarvärnskanonvagn III"
 sw_pvkv_III_1;pvkv III
 sw_pvkv_III_2;SPG
@@ -123,17 +124,175 @@ sw_ikv_73_1;ikv 73
 sw_ikv_73_2;Infantry Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+sw_pvkv_II_shop;pvkv II
+sw_pvkv_II_0;"<color=#81c3fc>Landsverk</color>
+pansarvärnskanonvagn II"
+sw_pvkv_II_1;pvkv II
+sw_pvkv_II_2;SPG
+
+sw_pvkv_iv_shop;pvkv IVA
+sw_pvkv_iv_0;"<color=#81c3fc>Landsverk</color>
+pansarvärnskanonvagn IVA ""Värjan"""
+sw_pvkv_iv_1;pvkv IVA
+sw_pvkv_iv_2;SPG
+
+sw_lvkv_42_shop;lvkv 42
+sw_lvkv_42_0;"<color=#81c3fc>Bofors VAK 40 S 49</color>
+<color=#919191>luftvärnskanonvagn fm/49</color>
+luftvärnskanonvagn 42"
+sw_lvkv_42_1;lvkv 42
+sw_lvkv_42_2;SPAAG
+
+sw_pvkv_m43_1946_shop;pvkv m/43
+sw_pvkv_m43_1946_0;"<color=#81c3fc>Landsverk</color>
+pansarvärnskanonvagn m/43"
+sw_pvkv_m43_1946_1;pvkv m/43
+sw_pvkv_m43_1946_2;SPG
+
+sw_pvkv_m43_1963_shop;pvkv m/43 (1963)
+sw_pvkv_m43_1963_0;"<color=#81c3fc>Landsverk</color>
+pansarvärnskanonvagn m/43
+<color=#adadad>(1963)</color>"
+sw_pvkv_m43_1963_1;pvkv m/43
+sw_pvkv_m43_1963_2;SPG
+
+sw_ikv_103_shop;ikv 103
+sw_ikv_103_0;"<color=#81c3fc>Landsverk <color=@commonTextColor>+</color> Bofors VH 105 S 53</color>
+infanterikanonvagn 103"
+sw_ikv_103_1;ikv 103
+sw_ikv_103_2;SPG
+
+sw_sav_fm48_shop;SAV 20.12.48
+sw_sav_fm48_0;<color=#81c3fc>Bofors SAV 20.12.48</color>
+sw_sav_fm48_1;SAV 20.12.48
+sw_sav_fm48_2;SPG
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+sw_pbv_501_shop;pbv 501
+sw_pbv_501_0;"<color=#81c3fc>Kurgansk'ij mashinostroit'el'nyj zavot <color=@commonTextColor>/</color> Vojenský opravárenský podnik 026
+Šternberk</color>
+pansarbandvagn 501"
+sw_pbv_501_1;pbv 501
+sw_pbv_501_2;IFV
+
+sw_strv_74_shop;strv 74V
+sw_strv_74_0;"<color=#81c3fc>Landsverk</color>
+stridsvagn 74V"
+sw_strv_74_1;strv 74V
+sw_strv_74_2;Light Tank
+
+sw_landsverk_ush_204_gk_shop;U SH (204GK)
+sw_landsverk_ush_204_gk_0;"<color=#81c3fc>Landsverk <color=@commonTextColor>+</color> Unimog SH</color>
+<color=#adadad>(20 mm Belt-Feed Gun Type 204GK)</color>"
+sw_landsverk_ush_204_gk_shop;U SH (204GK)
+sw_landsverk_ush_204_gk_2;SPAA
+
+sw_landsverk_ush_405_shop;U SH (Typ 3Z 8DLa)
+sw_landsverk_ush_405_0;"<color=#81c3fc>Landsverk <color=@commonTextColor>+</color> Unimog SH</color>
+<color=#adadad>(8 cm Zwillings-Raketenautomat Oerlikon Typ 3Z 8DLa)</color>"
+sw_landsverk_ush_405_1;U SH (Typ 3Z 8DLa)
+sw_landsverk_ush_405_2;MLRS
+
 sw_bkan_1c_shop;15,5 cm bkan 1C
-sw_bkan_1c_0;"<color=#81c3fc>Bofors Vagnkanon 155 mm L/50</color>
+sw_bkan_1c_0;"<color=#81c3fc>Bofors VK 155 S 62</color>
 15,5 cm bandkanon 1C"
-sw_bkan_1c_1;bkan 1C
+sw_bkan_1c_1;15,5 cm bkan 1C
 sw_bkan_1c_2;SPG
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+sw_ikv_91_shop;ikv 91
+sw_ikv_91_0;"<color=#81c3fc>Hägglund & Söner</color>
+<color=#ff8c80>Underlagsgrupp direkt eld stridsfordon 13</color>
+infanterikanonvagn 91"
+sw_ikv_91_1;ikv 91
+sw_ikv_91_2;Infantry Tank
+
+sw_strv_81_shop;strv 81A
+sw_strv_81_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#919191>stridsvagn C III</color>
+stridsvagn 81A"
+sw_strv_81_1;strv 81A
+sw_strv_81_2;MBT
+
+sw_strv_81_rb52_shop;strv 81A (rb 52A)
+sw_strv_81_rb52_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#919191>stridsvagn C III</color>
+stridsvagn 81A
+<color=#adadad>(robot 52A)</color>"
+sw_strv_81_rb52_1;strv 81A
+sw_strv_81_rb52_2;MBT
+
+uk_centurion_mk_3_ss11_shop;▄ strv 81A (rb 52A)
+uk_centurion_mk_3_ss11_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#919191>stridsvagn C III</color>
+▄ stridsvagn 81A
+<color=#adadad>(robot 52A)</color>"
+uk_centurion_mk_3_ss11_1;▄ strv 81A
+uk_centurion_mk_3_ss11_2;MBT
+
+sw_strv_101_shop;strv 101
+sw_strv_101_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+stridsvagn 101"
+sw_strv_101_1;strv 101
+sw_strv_101_2;MBT
+
+sw_strv_103a_shop;strv 103A
+sw_strv_103a_0;"<color=#81c3fc>Bofors VK 105 S 64-2 A</color>
+<color=#ff8c80>stridsvagn S</color>
+stridsvagn 103A"
+sw_strv_103a_1;strv 103A
+sw_strv_103a_2;MBT
+
+sw_strv_103_0_shop;strv 103-0
+sw_strv_103_0_0;"<color=#81c3fc>Bofors VK 105 S 60</color>
+<color=#ff8c80>stridsvagn S</color>
+stridsvagn 103-0"
+sw_strv_103_0_1;strv 103-0
+sw_strv_103_0_2;MBT
+
+sw_strv_103c_shop;strv 103C
+sw_strv_103c_0;"<color=#81c3fc>Bofors</color>
+<color=#ff8c80>stridsvagn S</color>
+stridsvagn 103C"
+sw_strv_103c_1;strv 103C
+sw_strv_103c_2;MBT
+
+sw_veak_40_shop;VEAK 40 X 62
+sw_veak_40_0;<color=#81c3fc>Bofors VEAK 40 X 62</color>
+sw_veak_40_1;VEAK 40 X 62
+sw_veak_40_2;SPAAG
+
+sw_pvrbv_551_shop;pvrbv 551
+sw_pvrbv_551_0;"<color=#81c3fc>Hägglund & Söner</color>
+pansarvärnsrobotvagn 551"
+sw_pvrbv_551_1;pvrbv 551
+sw_pvrbv_551_2;ATMC
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+sw_strf_90b_shop;strf 9040B
+sw_strf_90b_0;"<color=#81c3fc>Alvis Hägglunds Combat Vehicle 9040B</color>
+stridsfordon 9040B"
+sw_strf_90b_1;strf 9040B
+sw_strf_90b_2;IFV
+
+sw_strf_90c_shop;strf 9040C
+sw_strf_90c_0;"<color=#81c3fc>Alvis Hägglunds Combat Vehicle 9040C</color>
+stridsfordon 9040C"
+sw_strf_90c_1;strf 9040C
+sw_strf_90c_2;IFV
+
+sw_lvkv_90c_shop;lvkv 9040C
+sw_lvkv_90c_0;"<color=#81c3fc>Alvis Hägglunds Combat Vehicle 9040C</color>
+luftvärnskanonvagn 9040C"
+sw_lvkv_90c_1;lvkv 9040C
+sw_lvkv_90c_2;SPAAG
+
+sw_strf_9056_shop;strf 9040A (rbs 56)
+sw_strf_9056_0;"<color=#81c3fc>Alvis Hägglunds Combat Vehicle 9040A</color>
+stridsfordon 9040A
+<color=#adadad>(robotsystem 56)</color>"
+sw_strf_9056_1;strf 9040A
+sw_strf_9056_2;IFV
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 

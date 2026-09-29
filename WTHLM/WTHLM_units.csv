@@ -1387,7 +1387,7 @@ ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_1;Admiral Flota Sov'etskogo Soyu
 ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_2;Aircraft Carrier
 
 uk_aircraftcarrier_ark_royal_shop;HMS Ark Royal (R 09)
-uk_aircraftcarrier_ark_royal_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Devonport Dockyard</color>
+uk_aircraftcarrier_ark_royal_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Devonport Royal Dockyard</color>
 <color=#fffa62>Audacious-class</color>
 HMS Ark Royal (R 09)
 <color=#adadad>(1967)</color>"
@@ -1395,7 +1395,7 @@ uk_aircraftcarrier_ark_royal_1;HMS Ark Royal
 uk_aircraftcarrier_ark_royal_2;Aircraft Carrier
 
 uk_aircraftcarrier_ark_royal_ai_shop;HMS Ark Royal (R 09)
-uk_aircraftcarrier_ark_royal_ai_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Devonport Dockyard</color>
+uk_aircraftcarrier_ark_royal_ai_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Devonport Royal Dockyard</color>
 <color=#fffa62>Audacious-class</color>
 HMS Ark Royal (R 09)
 <color=#adadad>(1967)</color>"
@@ -13273,7 +13273,7 @@ uk_destroyer_daring_class_diamond_1;HMS Diamond
 uk_destroyer_daring_class_diamond_2;Destroyer
 
 uk_cruiser_enterprise_d52_shop;HMS Enterprise (D 52)
-uk_cruiser_enterprise_d52_0;"<color=#81c3fc>John Brown & Co. <color=@commonTextColor>/</color> Devonport Royal Dockyard</color>
+uk_cruiser_enterprise_d52_0;"<color=#81c3fc>John Brown & Co. <color=@commonTextColor>/</color> HM Dockyard, Devonport</color>
 <color=#fffa62>Emerald-class</color>
 HMS Enterprise (D 52)
 <color=#adadad>(1944)</color>"
@@ -13344,7 +13344,7 @@ uk_cruiser_liverpool_1;HMS Liverpool
 uk_cruiser_liverpool_2;Light Cruiser
 
 uk_cruiser_belfast_shop;HMS Belfast (C 35)
-uk_cruiser_belfast_0;"<color=#81c3fc>Harland & Wolff Group Holdings <color=@commonTextColor>/</color> Devonport Royal Dockyard</color>
+uk_cruiser_belfast_0;"<color=#81c3fc>Harland & Wolff Group Holdings <color=@commonTextColor>/</color> HM Dockyard, Devonport</color>
 <color=#fffa62>Town-class</color>
 HMS Belfast (C 35)
 <color=#adadad>(1959)</color>"
@@ -13396,7 +13396,7 @@ uk_cruiser_london_1;HMS London
 uk_cruiser_london_2;Heavy Cruiser
 
 uk_battlecruiser_invincible_shop;HMS Invincible (85)
-uk_battlecruiser_invincible_0;"<color=#81c3fc>Sir W. G. Armstrong Whitworth & Co. <color=@commonTextColor>/</color> Devonport Royal Dockyard</color>
+uk_battlecruiser_invincible_0;"<color=#81c3fc>Sir W. G. Armstrong Whitworth & Co. <color=@commonTextColor>/</color> HM Dockyard, Devonport</color>
 <color=#fffa62>Invincible-class</color>
 HMS Invincible (85)
 <color=#adadad>(1914)</color>"
@@ -13428,7 +13428,7 @@ uk_battleship_colossus_1;HMS Colossus
 uk_battleship_colossus_2;Dreadnought
 
 uk_battleship_centurion_shop;HMS Centurion (12)
-uk_battleship_centurion_0;"<color=#81c3fc>Devonport Royal Dockyard</color>
+uk_battleship_centurion_0;"<color=#81c3fc>HM Dockyard, Devonport</color>
 <color=#fffa62>King George V-class</color>
 HMS Centurion (12)"
 uk_battleship_centurion_1;HMS Centurion
@@ -13482,7 +13482,7 @@ uk_cruiser_tiger_2;Light Cruiser
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 uk_battleship_marlborough_shop;HMS Marlborough (66)
-uk_battleship_marlborough_0;"<color=#81c3fc>Devonport Royal Dockyard</color>
+uk_battleship_marlborough_0;"<color=#81c3fc>HM Dockyard, Devonport</color>
 <color=#fffa62>Iron Duke-class</color>
 HMS Marlborough (66)
 <color=#adadad>(1929)</color>"
@@ -13490,7 +13490,7 @@ uk_battleship_marlborough_1;HMS Marlborough
 uk_battleship_marlborough_2;Super Dreadnought
 
 uk_battleship_q_elizabet_class_warspite_shop;HMS Warspite (03)
-uk_battleship_q_elizabet_class_warspite_0;"<color=#81c3fc>Devonport Royal Dockyard <color=@commonTextColor>/</color> Naval Station Durban</color>
+uk_battleship_q_elizabet_class_warspite_0;"<color=#81c3fc>HM Dockyard, Devonport <color=@commonTextColor>/</color> Naval Station Durban</color>
 <color=#fffa62>Queen Elizabeth-class</color>
 HMS Warspite (03)
 <color=#adadad>(1943)</color>"
@@ -21052,6 +21052,12 @@ sw_patria_bmp_3_0;"<color=#81c3fc>Patria Advanced Modular Vehicle XP</color>
 sw_patria_bmp_3_1;AMV XP (2K23)
 sw_patria_bmp_3_2;IFV
 
+sw_patria_amv_ctcv_105_shop;AMV HWP (CT-CV 105HP)
+sw_patria_amv_ctcv_105_0;"<color=#81c3fc>Patria Advanced Modular Vehicle Heavy Weapon Platform</color>
+<color=#adadad>(Cockerill CT-CV 105HP)</color>"
+sw_patria_amv_ctcv_105_1;AMV HWP
+sw_patria_amv_ctcv_105_2;Light Tank
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 sw_asrad_r_shop;♛ M113A2 (ASRAD-R)
 sw_asrad_r_0;"♛ M113A2
@@ -21078,12 +21084,6 @@ sw_leopard_2a6nl_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 taistelupanssarivaunu Leopard 2A6"
 sw_leopard_2a6nl_1;tstpsv Leopard 2A6
 sw_leopard_2a6nl_2;MBT
-
-sw_patria_amv_ctcv_105_shop;AMV HWP (CT-CV 105HP)
-sw_patria_amv_ctcv_105_0;"<color=#81c3fc>Patria Advanced Modular Vehicle Heavy Weapon Platform</color>
-<color=#adadad>(Cockerill CT-CV 105HP)</color>"
-sw_patria_amv_ctcv_105_1;AMV HWP
-sw_patria_amv_ctcv_105_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 sw_cv_90120_shop;CV90120-T

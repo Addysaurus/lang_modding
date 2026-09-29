@@ -25,7 +25,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Updated for the "Desert Predator" event.
-    - Corrected the Australian Hornets to the **AF/A-18A** because that name sadly is real.
+    - Corrected the Australian Hornets to the **AF/A-18A** because that name sadly is real (thx AkizukiXen for sending me the manual cover).
     - Corrected the modification manufacturers for both **Hawk T. Mk. 1A**s.
     - Specified the Sidewinder modification for the Australian and Malaysian **Sabre Mk. 32**s.
     - Corrected the modification manufacturer and added the modification date to the **Tornado G.R. Mk. IV**.
@@ -41,6 +41,7 @@ All dates are listed in DD-MM-YYYY format.
     - Changed the **Lorraine 155 Mle.50** to the **Automoteur de 155 Lorraine (n° 1)** (forgot to do this one in the French ground rework).
     - **Mirage III S C.70** → **Mirage III S (KAWEST 85)**.
     - Corrected the manufacturer designation of the **S 9 C**.
+    - Corrected the manufacturer **Devonport Royal Dockyard** to be accurate to the time period.
 
 ## 1.19.00 - 21-09-2026
 

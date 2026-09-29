@@ -24,6 +24,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - Updated for the "Desert Predator" event.
     - Corrected the Australian Hornets to the **AF/A-18A** because that name sadly is real.
     - Corrected the modification manufacturers for both **Hawk T. Mk. 1A**s.
     - Specified the Sidewinder modification for the Australian and Malaysian **Sabre Mk. 32**s.

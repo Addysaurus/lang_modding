@@ -124,6 +124,12 @@ sw_ikv_73_1;ikv 73
 sw_ikv_73_2;Infantry Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+sw_m24_chaffee_dk_shop;♔ M24
+sw_m24_chaffee_dk_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+♔ Tank M24 Chaffee"
+sw_m24_chaffee_dk_1;♔ M24
+sw_m24_chaffee_dk_2;Light Tank
+
 sw_pvkv_II_shop;pvkv II
 sw_pvkv_II_0;"<color=#81c3fc>Landsverk</color>
 pansarvärnskanonvagn II"
@@ -167,6 +173,12 @@ sw_sav_fm48_0;<color=#81c3fc>Bofors SAV 20.12.48</color>
 sw_sav_fm48_1;SAV 20.12.48
 sw_sav_fm48_2;SPG
 
+sw_sherman_3_4_shop;Sherman, Mk. IV
+sw_sherman_3_4_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+Tank, Medium, Sherman, Mk. IV"
+sw_sherman_3_4_1;Sherman, Mk. IV
+sw_sherman_3_4_2;Medium Tank
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 sw_pbv_501_shop;pbv 501
 sw_pbv_501_0;"<color=#81c3fc>Kurgansk'ij mashinostroit'el'nyj zavot <color=@commonTextColor>/</color> Vojenský opravárenský podnik 026
@@ -206,6 +218,11 @@ sw_ikv_91_0;"<color=#81c3fc>Hägglund & Söner</color>
 infanterikanonvagn 91"
 sw_ikv_91_1;ikv 91
 sw_ikv_91_2;Infantry Tank
+
+sw_ikv_91_105_shop;IKV 91-105
+sw_ikv_91_105_0;<color=#81c3fc>Hägglund & Söner Light tank IKV 91-105</color>
+sw_ikv_91_105_1;IKV 91-105
+sw_ikv_91_105_2;Light Tank
 
 sw_strv_81_shop;strv 81A
 sw_strv_81_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
@@ -268,6 +285,12 @@ pansarvärnsrobotvagn 551"
 sw_pvrbv_551_1;pvrbv 551
 sw_pvrbv_551_2;ATMC
 
+sw_k9_vidar_shop;◢ K9
+sw_k9_vidar_0;"<color=#81c3fc>Hanhwa Eeoroseupeiseu</color>
+◢ artillerivogn K9 Versatile Indirect Artillery System"
+sw_k9_vidar_1;◢ K9
+sw_k9_vidar_2;SPH
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 sw_strf_90b_shop;strf 9040B
 sw_strf_90b_0;"<color=#81c3fc>Alvis Hägglunds Combat Vehicle 9040B</color>
@@ -300,6 +323,36 @@ stridsvagn 104"
 sw_strv_104_1;strv 104
 sw_strv_104_2;MBT
 
+sw_strv_105_shop;strv 105
+sw_strv_105_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds <color=@commonTextColor>/</color> Hägglund & Söner</color>
+stridsvagn 105"
+sw_strv_105_1;strv 105
+sw_strv_105_2;MBT
+
+sw_lvrbv_701_shop;lvrbv 701
+sw_lvrbv_701_0;"<color=#81c3fc>Hägglund & Söner</color>
+luftvärnsrobotvagn 701"
+sw_lvrbv_701_1;lvrbv 701
+sw_lvrbv_701_2;SPAAM
+
+sw_udes_33_shop;UDES 33
+sw_udes_33_0;"<color=#81c3fc>Hägglund & Söner</color>
+<color=#ff8c80>Underlagsgrupp direkt eld stridsfordon 33</color>"
+sw_udes_33_1;UDES 33
+sw_udes_33_2;ATMC
+
+sw_leopard_1a5no_shop;◢ Leopard 1 A5 NO
+sw_leopard_1a5no_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+◢ stridsvogn Leopard 1 A5 NO"
+sw_leopard_1a5no_1;◢ Leopard 1 A5 NO
+sw_leopard_1a5no_2;MBT
+
+sw_cv_9035_dk_shop;IKK 9035
+sw_cv_9035_dk_0;"<color=#81c3fc>BAE Systems Hägglunds Combat Vehicle 9035DK</color>
+infanterikampkøretøj 9035"
+sw_cv_9035_dk_1;IKK 9035
+sw_cv_9035_dk_2;IFV
+
 sw_patria_bmp_3_shop;AMV XP (2K23)
 sw_patria_bmp_3_0;"<color=#81c3fc>Patria Advanced Modular Vehicle XP</color>
 <color=#adadad>(Komplyeks vooruzhyeniya 2K23) (IDEX 2015)</color>"
@@ -307,5 +360,20 @@ sw_patria_bmp_3_1;AMV XP (2K23)
 sw_patria_bmp_3_2;IFV
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+sw_strv_121_shop;strv 121A
+sw_strv_121_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+<color=#ff8c80>Stridsvagn Ny</color>
+<color=#919191>stridsvagn 121</color>
+stridsvagn 121A"
+sw_strv_121_1;strv 121A
+sw_strv_121_2;MBT
+
+sw_strv121b_christian2_shop;strv 121B
+sw_strv121b_christian2_0;"<color=#81c3fc>Krauss-Maffei Wegmann <color=@commonTextColor>/</color> Svenska armén</color>
+<color=#919191>stridsvagn 121 Prototyp</color>
+stridsvagn 121B
+<color=@currencyGoldColor>M5230-121021 ""Christian II""</color>"
+sw_strv121b_christian2_1;strv 121B
+sw_strv121b_christian2_2;MBT
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8

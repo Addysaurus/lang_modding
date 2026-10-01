@@ -292,6 +292,18 @@ sw_k9_vidar_1;◢ K9
 sw_k9_vidar_2;SPH
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+sw_cv_90105_shop;CV90105 (TML 105)
+sw_cv_90105_0;"<color=#81c3fc>Hägglund & Söner <color=@commonTextColor>+</color> GIAT Industries Combat Vehicle 90105</color>
+<color=#adadad>(TML 105)</color>"
+sw_cv_90105_1;CV90105
+sw_cv_90105_2;Light Tank
+
+sw_cv_90105_tml_shop;CV90105 (XC-8 105HP)
+sw_cv_90105_tml_0;"<color=#81c3fc>BAE Systems Hägglunds Combat Vehicle 90105</color>
+<color=#adadad>(XC-8 105HP)</color>"
+sw_cv_90105_tml_1;CV90105
+sw_cv_90105_tml_2;Light Tank
+
 sw_strf_90b_shop;strf 9040B
 sw_strf_90b_0;"<color=#81c3fc>Alvis Hägglunds Combat Vehicle 9040B</color>
 stridsfordon 9040B"
@@ -376,4 +388,57 @@ stridsvagn 121B
 sw_strv121b_christian2_1;strv 121B
 sw_strv121b_christian2_2;MBT
 
+sw_asrad_r_shop;♛ M113 A2 GE (ASRAD-R)
+sw_asrad_r_0;"<color=#81c3fc>Saab Bofors Dynamics <color=@commonTextColor>+</color> STN Atlas Elektronik</color>
+♛ M113 A2 GE
+<color=#adadad>(Autonomous Short Range Air Defense Missile System - RBS)</color>"
+sw_asrad_r_1;♛ M113 A2 (ASRAD-R)
+sw_asrad_r_2;SPAAM
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+sw_cv_90120_shop;CV90120-T
+sw_cv_90120_0;<color=#81c3fc>BAE Systems Hägglunds Combat Vehicle 90120-T</color>
+sw_cv_90120_1;CV90120-T
+sw_cv_90120_2;Light Tank
+
+sw_strv_122_shop;strv 122A
+sw_strv_122_0;"<color=#81c3fc>Krauss-Maffei Wegmann Leopard 2 Improved <color=@commonTextColor>/</color> Åkers Krutbruk Protection
+MBT 122A</color>
+<color=#ff8c80>Stridsvagn Ny</color>
+<color=#919191>stridsvagn 122</color>
+stridsvagn 122A"
+sw_strv_122_1;strv 122A
+sw_strv_122_2;MBT
+
+sw_strv_122b_plss_shop;strv 122B (PLSS)
+sw_strv_122b_plss_0;"<color=#81c3fc>Krauss-Maffei Wegmann Leopard 2 Improved <color=@commonTextColor>/</color> Åkers Krutbruk Protection
+MBT 122B</color>
+stridsvagn 122B
+<color=#adadad>(Panoramic Low-Signature Sight)</color>"
+sw_strv_122b_plss_1;strv 122B
+sw_strv_122b_plss_2;MBT
+
+sw_strv_122b_plus_shop;strv 122B+
+sw_strv_122b_plus_0;"<color=#81c3fc>Krauss-Maffei Wegmann Leopard 2 Improved <color=@commonTextColor>/</color> Åkers Krutbruk Protection
+MBT 122B Evolution</color>
+stridsvagn 122B+"
+sw_strv_122b_plus_1;strv 122B
+sw_strv_122b_plus_2;MBT
+
+sw_eldenhet_98_shop;elde 98 (Giraffe 1X)
+sw_eldenhet_98_0;"<color=#81c3fc>BAE Systems Hägglunds</color>
+eldenhet 98
+<color=#adadad>(Giraffe 1X)</color>"
+sw_eldenhet_98_1;elde 98
+sw_eldenhet_98_2;SPAAM
+
+sw_nomads_shop;NOMADS
+sw_nomads_0;<color=#81c3fc>Kongsberg Defence & Aerospace National Manoeuvre Air Defence System</color>
+sw_nomads_1;NOMADS
+sw_nomads_2;SPAAM
+
+sw_t_80u_shop;♛ T 80 U
+sw_t_80u_0;"<color=#81c3fc>K'irofsk'ij zavot</color>
+♛ T 80 U"
+sw_t_80u_1;♛ T 80 U
+sw_t_80u_2;MBT

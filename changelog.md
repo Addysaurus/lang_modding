@@ -18,6 +18,32 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.19.01 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - Updated for the "Desert Predator" event.
+    - Updated for the new infantry CBT 3.5 test.
+    - Corrected the Australian Hornets to the **AF/A-18A** because that name sadly is real (thx AkizukiXen for sending me the manual cover).
+    - Corrected the modification manufacturers for both **Hawk T. Mk. 1A**s.
+    - Specified the Sidewinder modification for the Australian and Malaysian **Sabre Mk. 32**s.
+    - Corrected the modification manufacturer and added the modification date to the **Tornado G.R. Mk. IV**.
+    - Corrected several spelling errors and typos.
+    - Corrected the missing multiline for the **Mustang Mk. Ia**.
+    - Corrected the incorrect formatting for the **Falcon**.
+    - Corrected the **Vickers Mk. 7/2** to the **Vickers Mk. 7**.
+    - Changed the **Ob. 416** to the **SU-100M**.
+    - Reworked the Panavia Tornados.
+    - Reworked all the **G 91**s.
+    - Corrected the F.V. number of the **Warrior** from F.V.520 to F.V.510.
+    - Changed the manufacturer of the **Lorraine 40t** to Lorraine.
+    - Changed the **Lorraine 155 Mle.50** to the **Automoteur de 155 Lorraine (n° 1)** (forgot to do this one in the French ground rework).
+    - **Mirage III S C.70** → **Mirage III S (KAWEST 85)**.
+    - Corrected the manufacturer designation of the **S 9 C**.
+    - Corrected the manufacturer **Devonport Royal Dockyard** to be accurate to the time period.
+
 ## 1.19.00 - 21-09-2026
 
 ### Vehicles:

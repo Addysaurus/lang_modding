@@ -1387,7 +1387,7 @@ ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_1;Admiral Flota Sov'etskogo Soyu
 ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_2;Aircraft Carrier
 
 uk_aircraftcarrier_ark_royal_shop;HMS Ark Royal (R 09)
-uk_aircraftcarrier_ark_royal_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Devonport Dockyard</color>
+uk_aircraftcarrier_ark_royal_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Devonport Royal Dockyard</color>
 <color=#fffa62>Audacious-class</color>
 HMS Ark Royal (R 09)
 <color=#adadad>(1967)</color>"
@@ -1395,7 +1395,7 @@ uk_aircraftcarrier_ark_royal_1;HMS Ark Royal
 uk_aircraftcarrier_ark_royal_2;Aircraft Carrier
 
 uk_aircraftcarrier_ark_royal_ai_shop;HMS Ark Royal (R 09)
-uk_aircraftcarrier_ark_royal_ai_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Devonport Dockyard</color>
+uk_aircraftcarrier_ark_royal_ai_0;"<color=#81c3fc>Cammell Laird & Co. <color=@commonTextColor>/</color> Devonport Royal Dockyard</color>
 <color=#fffa62>Audacious-class</color>
 HMS Ark Royal (R 09)
 <color=#adadad>(1967)</color>"
@@ -1674,7 +1674,7 @@ shop/group/uk_stormer_9a33_group;Stormer / ☸ Osā-Eke
 shop/group/uk_stormer_9a35_group;F.V.4333 (HVM) / ☸ Sṭrelā-10 Em
 shop/group/uk_sky_sabre_fcs_group;Sky Sabre
 shop/group/fury_group;Fury Mk. I / II
-shop/group/gladiator_mk2_group;Gladiator Mk. II / II (Silver) / II (BEF)
+shop/group/gladiator_mk2_group;Gladiator Mk. II / II (silver) / II (B.E.F.)
 shop/group/hampden_group;Hampden Mk. I / T.B. Mk. I
 shop/group/blenheim_group;Blenheim / Beaufort
 shop/group/sunderland_group;Sunderland Mk. IIIa / V
@@ -1701,7 +1701,7 @@ shop/group/meteor4_group;Meteor F. Mk. 3/4 / 4 / 8
 shop/group/canberra_group;Canberra B. Mk. 2 / B.(I) Mk. 6
 shop/group/hawk_200_group;Hawk 200 (ZH200) / (RDA)
 shop/group/f_111c_tornado_group;▄ F-111C / Tornado G.R. Mk. 1
-shop/group/fa_18a_raaf_group;▄ F/A-18A / A (HUG 2.4)
+shop/group/fa_18a_raaf_group;▄ AF/A-18A / A (HUG 2.4)
 shop/group/uk_destroyer_battle_group;HMS Armada / HMAS Tobruk
 shop/group/uk_destroyer_daring_group;HMS Diana / Daring
 shop/group/uk_cruiser_kent_norfolk_group;HMS Kent / Norfolk / London
@@ -1799,8 +1799,8 @@ shop/group/re_2000_group;Re.2000 I / GA III
 shop/group/re_2001_group;Re.2001 I / CB I
 shop/group/p_108_group;P.108B I / II
 shop/group/g_55_serie_group;G.55 I / Re.2005
-shop/group/fiat_g91_group;G.91 pre-serie / R/1
-shop/group/fiat_g91y_group;G.91 Y / YS
+shop/group/fiat_g91_group;G 91 (pre-serie) / R/1
+shop/group/fiat_g91y_group;G 91 Y / YS
 shop/group/tornado_ids_it_group;A-200A (1995) / C (RET8)
 
 shop/group/fr_hotchkiss_fcm_group;A.M.C. 34 / H. 35 / F.C.M. 36
@@ -2423,42 +2423,42 @@ f_111f_iaf_killstreak_1;☢ F-111F
 f_111f_iaf_killstreak_2;☢ F-111
 
 tornado_ids_de_assta1_killstreak_shop;☢◄ IDS-Tornado (ASSTA 1)
-tornado_ids_de_assta1_killstreak_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_ids_de_assta1_killstreak_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 ☢◄ IDS-Tornado
 <color=#adadad>(Avionics System Software Tornado in ADA 1)</color>"
 tornado_ids_de_assta1_killstreak_1;☢◄ IDS-Tornado
 tornado_ids_de_assta1_killstreak_2;☢◄ IDS-Tornado
 
 tornado_ids_de_assta1_britain_killstreak_shop;☢▄ IDS-Tornado (ASSTA 1)
-tornado_ids_de_assta1_britain_killstreak_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_ids_de_assta1_britain_killstreak_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 ☢▄ IDS-Tornado
 <color=#adadad>(Avionics System Software Tornado in ADA 1)</color>"
 tornado_ids_de_assta1_britain_killstreak_1;☢▄ IDS-Tornado
 tornado_ids_de_assta1_britain_killstreak_2;☢▄ IDS-Tornado
 
 tornado_ids_de_assta1_italy_killstreak_shop;☢⛨ IDS-Tornado (ASSTA 1)
-tornado_ids_de_assta1_italy_killstreak_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_ids_de_assta1_italy_killstreak_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 ☢⛨ IDS-Tornado
 <color=#adadad>(Avionics System Software Tornado in ADA 1)</color>"
 tornado_ids_de_assta1_italy_killstreak_1;☢⛨ IDS-Tornado
 tornado_ids_de_assta1_italy_killstreak_2;☢⛨ IDS-Tornado
 
 tornado_ids_de_assta1_france_killstreak_shop;☢☨ IDS-Tornado (ASSTA 1)
-tornado_ids_de_assta1_france_killstreak_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_ids_de_assta1_france_killstreak_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 ☢☨ IDS-Tornado
 <color=#adadad>(Avionics System Software Tornado in ADA 1)</color>"
 tornado_ids_de_assta1_france_killstreak_1;☢☨ IDS-Tornado
 tornado_ids_de_assta1_france_killstreak_2;☢☨ IDS-Tornado
 
 tornado_ids_de_assta1_sweden_killstreak_shop;☢♛ IDS-Tornado (ASSTA 1)
-tornado_ids_de_assta1_sweden_killstreak_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_ids_de_assta1_sweden_killstreak_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 ☢♛ IDS-Tornado
 <color=#adadad>(Avionics System Software Tornado in ADA 1)</color>"
 tornado_ids_de_assta1_sweden_killstreak_1;☢♛ IDS-Tornado
 tornado_ids_de_assta1_sweden_killstreak_2;☢♛ IDS-Tornado
 
 tornado_ids_it_mod95_killstreak_shop;☢ A-200A (1995)
-tornado_ids_it_mod95_killstreak_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_ids_it_mod95_killstreak_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 ☢ A-200A Tornado
 <color=#adadad>(Batch 2) (1995)</color>"
 tornado_ids_it_mod95_killstreak_1;☢ A-200A
@@ -6390,10 +6390,17 @@ sea_hawk_mk100_0;"<color=#81c3fc>Hawker Aircraft</color>
 sea_hawk_mk100_1;◄ Sea Hawk MK. 100
 sea_hawk_mk100_2;◄ Sea Hawk
 
-fiat_g91_r4_german_shop;◄ G.91 R/4
-fiat_g91_r4_german_0;"◄ G.91 R/4"
-fiat_g91_r4_german_1;◄ G.91 R
-fiat_g91_r4_german_2;◄ G.91
+fiat_g91_r4_german_shop;◄ G 91 R/4
+fiat_g91_r4_german_0;"<color=#81c3fc>Fiat Aviazione</color>
+◄ G 91 R/4"
+fiat_g91_r4_german_1;◄ G 91 R
+fiat_g91_r4_german_2;◄ G 91
+
+fiat_g91_r3_shop;◄ G 91 R/3
+fiat_g91_r3_0;"<color=#81c3fc>Flugzeug-Union Süd</color>
+◄ G 91 R/3"
+fiat_g91_r3_1;◄ G 91 R
+fiat_g91_r3_2;◄ G 91
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 f-86_canadair_german_shop;◄ Sabre Mk. 5
@@ -6423,11 +6430,6 @@ mig-19s_0;"<color=#5cae63>izd. 26</color>
 ◊ MiG-19S"
 mig-19s_1;◊ MiG-19S
 mig-19s_2;◊ MiG-19
-
-fiat_g91_r3_shop;◄ G.91 R/3
-fiat_g91_r3_0;"◄ G.91 R/3"
-fiat_g91_r3_1;◄ G.91 R
-fiat_g91_r3_2;◄ G.91
 
 alpha_jet_a_shop;◄ Alpha Jet A
 alpha_jet_a_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@commonTextColor>+</color> Dornier Flugzeugwerke</color>
@@ -6560,39 +6562,40 @@ su_22m4_de_wtd61_0;"<color=#81c3fc>Komsomol'skij-na-Amurye aviaczionnyj zavod im
 su_22m4_de_wtd61_1;◄ Su-22M
 su_22m4_de_wtd61_2;◄ Su-22
 
+tornado_ids_de_assta1_shop;◄ IDS-Tornado (ASSTA 3)
+tornado_ids_de_assta1_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
+◄ IDS-Tornado
+<color=#adadad>(Avionics System Software Tornado in ADA 3)</color>"
+tornado_ids_de_assta1_1;◄ IDS-Tornado
+tornado_ids_de_assta1_2;◄ IDS-Tornado
+
 tornado_ids_de_wtd61_shop;◄ IDS-Tornado (WTD 61)
-tornado_ids_de_wtd61_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_ids_de_wtd61_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 ◄ IDS-Tornado
 <color=#adadad>(Batch 2)</color>
 <color=@currencyGoldColor>Wehrtechnische Dienststelle 61</color>"
 tornado_ids_de_wtd61_1;◄ IDS-Tornado
 tornado_ids_de_wtd61_2;◄ IDS-Tornado
 
-tornado_ids_de_assta1_shop;◄ IDS-Tornado (ASSTA 3)
-tornado_ids_de_assta1_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_ids_de_assta3_sle_shop;◄ IDS-Tornado (SLE)
+tornado_ids_de_assta3_sle_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 ◄ IDS-Tornado
-<color=#adadad>(Avionics System Software Tornado in ADA 3)</color>"
-tornado_ids_de_assta1_1;◄ IDS-Tornado
-tornado_ids_de_assta1_2;◄ IDS-Tornado
+<color=#adadad>(Service Life Enhancement Program)</color>"
+tornado_ids_de_assta3_sle_1;◄ IDS-Tornado
+tornado_ids_de_assta3_sle_2;◄ IDS-Tornado
 
 tornado_ids_de_mfg_shop;◄ IDS-Tornado (MFG)
-tornado_ids_de_mfg_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_ids_de_mfg_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 ◄ IDS-Tornado
 <color=#adadad>(Batch 2)</color>
 <color=@currencyGoldColor>Marinefliegerkommando</color>"
 tornado_ids_de_mfg_1;◄ IDS-Tornado
 tornado_ids_de_mfg_2;◄ IDS-Tornado
 
-tornado_ids_de_assta3_sle_shop;◄ IDS-Tornado (SLE)
-tornado_ids_de_assta3_sle_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
-◄ IDS-Tornado
-<color=#adadad>(Service Life Enhancement Program)</color>"
-tornado_ids_de_assta3_sle_1;◄ IDS-Tornado
-tornado_ids_de_assta3_sle_2;◄ IDS-Tornado
-
-mirage_3s_c70_switzerland_shop;◌ Mirage III S C.70
+mirage_3s_c70_switzerland_shop;◌ Mirage III S (KAWEST 85)
 mirage_3s_c70_switzerland_0;"<color=#81c3fc>Avions Marcel Dassault <color=@commonTextColor>/</color> Eidgenössisches Flugzeugwerk</color>
-◌ Mirage III S C.70 ""MIRO"""
+◌ Mirage III S ""MIRO""
+<color=#adadad>(KAWEST 85)</color>"
 mirage_3s_c70_switzerland_1;◌ Mirage III S
 mirage_3s_c70_switzerland_2;◌ Mirage III
 
@@ -9639,10 +9642,11 @@ ussr_2s19_m2_0;"<color=#81c3fc>Ural'skij zavod transportnogo mašinostroyeniâ i
 ussr_2s19_m2_1;2S19M2
 ussr_2s19_m2_2;SPH
 
-ussr_object_416_shop;Ob. 416
+ussr_object_416_shop;SU-100M
 ussr_object_416_0;"<color=#81c3fc>Zavot № 75</color>
-<color=#5cae63>Ob""yekt 416</color>"
-ussr_object_416_1;Ob. 416
+<color=#5cae63>Ob""yekt 416</color>
+Samokhodnaya ustanofka SU-100M"
+ussr_object_416_1;SU-100M
 ussr_object_416_2;SPG
 
 ussr_zsu_23_4m2_shop;ZSU-23-4M2
@@ -10662,10 +10666,10 @@ Gladiator Mk. II
 gladiator_mk2_france_1;Gladiator Mk. II
 gladiator_mk2_france_2;Gladiator
 
-gladiator_mk2_silver_shop;Gladiator Mk. II (Silver)
+gladiator_mk2_silver_shop;Gladiator Mk. II (silver)
 gladiator_mk2_silver_0;"<color=#81c3fc>Gloster Aircraft Company SS.37</color>
 Gladiator Mk. II
-<color=#adadad>(Silver Finish)</color>"
+<color=#adadad>(silver finish)</color>"
 gladiator_mk2_silver_1;Gladiator Mk. II
 gladiator_mk2_silver_2;Gladiator
 
@@ -11407,13 +11411,14 @@ sea_hawk_fga6_1;Sea Hawk F.G.A. Mk. 6
 sea_hawk_fga6_2;Sea Hawk
 
 hawk_t1a_early_shop;Hawk T. Mk. 1A
-hawk_t1a_early_0;"<color=#81c3fc>British Aerospace</color>
+hawk_t1a_early_0;"<color=#81c3fc>Hawker Siddeley Aviation <color=@commonTextColor>/</color> British Aerospace, Wharton</color>
 Hawk T. Mk. 1A"
 hawk_t1a_early_1;Hawk T. Mk. 1
 hawk_t1a_early_2;Hawk
 
 hawk_t1a_shop;Hawk T. Mk. 1A (FRP)
-hawk_t1a_0;"<color=#81c3fc>British Aerospace <color=@commonTextColor>/</color> BAE Systems Military Air & Information</color>
+hawk_t1a_0;"<color=#81c3fc>British Aerospace <color=@commonTextColor>/</color> BAE Systems Military Air Solutions, Brough <color=@commonTextColor>+</color> Defence
+Aviation Repair Agency Fast Jets</color>
 Hawk T. Mk. 1A
 <color=#adadad>(Fuselage Replacement Programme)</color>"
 hawk_t1a_1;Hawk T. Mk. 1
@@ -11504,6 +11509,12 @@ Lightning F. Mk. 6"
 lightning_f6_1;Lightning F. Mk. 6
 lightning_f6_2;Lightning
 
+lightning_f53_shop;⚔ Lightning F. Mk. 53
+lightning_f53_0;"<color=#81c3fc>British Aircraft Corporation</color>
+⚔ Lightning F. Mk. 53"
+lightning_f53_1;⚔ Lightning F. Mk. 53
+lightning_f53_2;⚔ Lightning
+
 scimitar_f1_shop;Scimitar F. Mk. 1
 scimitar_f1_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 544</color>
 Scimitar F. Mk. 1"
@@ -11512,7 +11523,8 @@ scimitar_f1_2;Scimitar
 
 ca_27_mk32_raaf_shop;▄ Sabre Mk. 32
 ca_27_mk32_raaf_0;"<color=#81c3fc>Commonwealth Aircraft Corporation CA-27</color>
-▄ Sabre Mk. 32"
+▄ Sabre Mk. 32
+<color=#adadad>(Sabre Mod. No. 142)</color>"
 ca_27_mk32_raaf_1;▄ Sabre Mk. 32
 ca_27_mk32_raaf_2;▄ Sabre
 
@@ -11619,27 +11631,29 @@ f-4jk_1;Phantom F. Mk. 3
 f-4jk_2;Phantom
 
 tornado_f3_shop;▄ Tornado F. Mk. 3
-tornado_f3_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_f3_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado ADV</color>
 ▄ Tornado F. Mk. 3
 <color=#adadad>(Batch 2)</color>"
 tornado_f3_1;▄ Tornado F. Mk. 3
 tornado_f3_2;▄ Tornado
 
 tornado_gr1_shop;▄ Tornado G.R. Mk. 1
-tornado_gr1_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_gr1_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 ▄ Tornado G.R. Mk. 1
-<color=#adadad>(Batch 1) (February, 1991)</color>"
+<color=#adadad>(Batch 1) (February 1991)</color>"
 tornado_gr1_1;▄ Tornado G.R. Mk. 1
 tornado_gr1_2;▄ Tornado
 
 tornado_gr4_shop;▄ Tornado G.R. Mk. 4
-tornado_gr4_0;"<color=#81c3fc>Panavia Aircraft PA-200 <color=@commonTextColor>/</color> BAE Systems</color>
-▄ Tornado G.R. Mk. 4"
+tornado_gr4_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS <color=@commonTextColor>/</color> BAE Systems Military Air Solutions,
+Wharton</color>
+▄ Tornado G.R. Mk. 4
+<color=#adadad>(July 2009)</color>"
 tornado_gr4_1;▄ Tornado G.R. Mk. 4
 tornado_gr4_2;▄ Tornado
 
 tornado_f3_late_shop;▄ Tornado F. Mk. 3 (AOP)
-tornado_f3_late_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_f3_late_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado ADV</color>
 ▄ Tornado F. Mk. 3
 <color=#adadad>(AMRAAM Optimisation Programme)</color>"
 tornado_f3_late_1;▄ Tornado F. Mk. 3
@@ -11665,20 +11679,20 @@ saab_jas39c_south_africa_missile_test_0;"<color=#81c3fc>▄ Saab 39 Gripen C</co
 saab_jas39c_south_africa_missile_test_1;▄ Gripen C
 saab_jas39c_south_africa__missile_test_2;▄ Gripen
 
-fa_18a_raaf_shop;▄ F/A-18A
+fa_18a_raaf_shop;▄ AF/A-18A
 fa_18a_raaf_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267 <color=@commonTextColor>/</color> Government Aircraft
 Factories</color>
-▄ F/A-18A Hornet"
-fa_18a_raaf_1;▄ F/A-18A
-fa_18a_raaf_2;▄ F/A-18
+▄ AF/A-18A Hornet"
+fa_18a_raaf_1;▄ AF/A-18A
+fa_18a_raaf_2;▄ AF/A-18
 
-fa_18a_hug_2_raaf_shop;▄ F/A-18A (HUG 2.4)
+fa_18a_hug_2_raaf_shop;▄ AF/A-18A (HUG 2.4)
 fa_18a_hug_2_raaf_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267 <color=@commonTextColor>/</color> Government Aircraft
 Factories</color>
-▄ F/A-18A Hornet
+▄ AF/A-18A Hornet
 <color=#adadad>(Hornet Upgrade Program Phase 2.4)</color>"
-fa_18a_hug_2_raaf_1;▄ F/A-18A
-fa_18a_hug_2_raaf_2;▄ F/A-18
+fa_18a_hug_2_raaf_1;▄ AF/A-18A
+fa_18a_hug_2_raaf_2;▄ AF/A-18
 
 cf_188a_canada_shop;CF-188A
 cf_188a_canada_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267</color>
@@ -12400,10 +12414,10 @@ uk_vickers_mk_11_0;"<color=#81c3fc>Vickers Defence Systems Mk. 11 Long Range Pat
 uk_vickers_mk_11_1;Vickers Mk. 11
 uk_vickers_mk_11_2;Long-Range Patrol Vehicle
 
-uk_vickers_mk7_shop;Vickers Mk. 7/2
+uk_vickers_mk7_shop;Vickers Mk. 7
 uk_vickers_mk7_0;"<color=#81c3fc>Vickers Defence Systems <color=@commonTextColor>+</color> Krauss-Maffei Wegmann
-Mk. 7/2 Main Battle Tank</color>"
-uk_vickers_mk7_1;Vickers Mk. 7/2
+Mk. 7 Main Battle Tank</color>"
+uk_vickers_mk7_1;Vickers Mk. 7
 uk_vickers_mk7_2;MBT
 
 uk_arjun_mk1_shop;Arjun Mk I
@@ -12421,8 +12435,8 @@ uk_fv438_swingfire_1;Swingfire
 uk_fv438_swingfire_2;ATMC
 
 uk_falcon_shop;Falcon
-uk_falcon_0;<color=#81c3fc>Guest, Keen and Nettlefolds <color=@commonTextColor>/</color> Vickers-Armstrongs
-Falcon Anti-Aircraft Gun System</color>
+uk_falcon_0;"<color=#81c3fc>Guest, Keen and Nettlefolds <color=@commonTextColor>/</color> Vickers-Armstrongs
+Falcon Anti-Aircraft Gun System</color>"
 uk_falcon_1;Falcon
 uk_falcon_2;SPAAG
 
@@ -12500,7 +12514,7 @@ uk_olifant_mk_2_2;MBT
 uk_fv510_isv_shop;Warrior
 uk_fv510_isv_0;"<color=#81c3fc>GKN</color>
 <color=#ff8c80>Mechanised Combat Vehicle for the 1980s</color>
-<color=#5cae63>F.V.520</color>
+<color=#5cae63>F.V.510</color>
 Combat Vehicle, Infantry Section, Tracked, Warrior"
 uk_fv510_isv_1;Warrior
 uk_fv510_isv_2;IFV
@@ -13259,7 +13273,7 @@ uk_destroyer_daring_class_diamond_1;HMS Diamond
 uk_destroyer_daring_class_diamond_2;Destroyer
 
 uk_cruiser_enterprise_d52_shop;HMS Enterprise (D 52)
-uk_cruiser_enterprise_d52_0;"<color=#81c3fc>John Brown & Co. <color=@commonTextColor>/</color> Devonport Royal Dockyard</color>
+uk_cruiser_enterprise_d52_0;"<color=#81c3fc>John Brown & Co. <color=@commonTextColor>/</color> HM Dockyard, Devonport</color>
 <color=#fffa62>Emerald-class</color>
 HMS Enterprise (D 52)
 <color=#adadad>(1944)</color>"
@@ -13330,7 +13344,7 @@ uk_cruiser_liverpool_1;HMS Liverpool
 uk_cruiser_liverpool_2;Light Cruiser
 
 uk_cruiser_belfast_shop;HMS Belfast (C 35)
-uk_cruiser_belfast_0;"<color=#81c3fc>Harland & Wolff Group Holdings <color=@commonTextColor>/</color> Devonport Royal Dockyard</color>
+uk_cruiser_belfast_0;"<color=#81c3fc>Harland & Wolff Group Holdings <color=@commonTextColor>/</color> HM Dockyard, Devonport</color>
 <color=#fffa62>Town-class</color>
 HMS Belfast (C 35)
 <color=#adadad>(1959)</color>"
@@ -13382,7 +13396,7 @@ uk_cruiser_london_1;HMS London
 uk_cruiser_london_2;Heavy Cruiser
 
 uk_battlecruiser_invincible_shop;HMS Invincible (85)
-uk_battlecruiser_invincible_0;"<color=#81c3fc>Sir W G Armstrong Whitworth & Co. <color=@commonTextColor>/</color> Devonport Royal Dockyard</color>
+uk_battlecruiser_invincible_0;"<color=#81c3fc>Sir W. G. Armstrong Whitworth & Co. <color=@commonTextColor>/</color> HM Dockyard, Devonport</color>
 <color=#fffa62>Invincible-class</color>
 HMS Invincible (85)
 <color=#adadad>(1914)</color>"
@@ -13414,7 +13428,7 @@ uk_battleship_colossus_1;HMS Colossus
 uk_battleship_colossus_2;Dreadnought
 
 uk_battleship_centurion_shop;HMS Centurion (12)
-uk_battleship_centurion_0;"<color=#81c3fc>Devonport Royal Dockyard</color>
+uk_battleship_centurion_0;"<color=#81c3fc>HM Dockyard, Devonport</color>
 <color=#fffa62>King George V-class</color>
 HMS Centurion (12)"
 uk_battleship_centurion_1;HMS Centurion
@@ -13468,7 +13482,7 @@ uk_cruiser_tiger_2;Light Cruiser
 
 //UK BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 uk_battleship_marlborough_shop;HMS Marlborough (66)
-uk_battleship_marlborough_0;"<color=#81c3fc>Devonport Royal Dockyard</color>
+uk_battleship_marlborough_0;"<color=#81c3fc>HM Dockyard, Devonport</color>
 <color=#fffa62>Iron Duke-class</color>
 HMS Marlborough (66)
 <color=#adadad>(1929)</color>"
@@ -13476,7 +13490,7 @@ uk_battleship_marlborough_1;HMS Marlborough
 uk_battleship_marlborough_2;Super Dreadnought
 
 uk_battleship_q_elizabet_class_warspite_shop;HMS Warspite (03)
-uk_battleship_q_elizabet_class_warspite_0;"<color=#81c3fc>Devonport Royal Dockyard <color=@commonTextColor>/</color> Naval Station Durban</color>
+uk_battleship_q_elizabet_class_warspite_0;"<color=#81c3fc>HM Dockyard, Devonport <color=@commonTextColor>/</color> Naval Station Durban</color>
 <color=#fffa62>Queen Elizabeth-class</color>
 HMS Warspite (03)
 <color=#adadad>(1943)</color>"
@@ -14425,7 +14439,8 @@ alpha_jet_th_phase_1_2;B.J.7
 
 ca_27_mk32_malaysia_shop;☉ Sabre Mk. 32
 ca_27_mk32_malaysia_0;"<color=#81c3fc>Commonwealth Aircraft Corporation CA-27</color>
-☉ Sabre Mk. 32"
+☉ Sabre Mk. 32
+<color=#adadad>(Sabre Mod. No. 142)</color>"
 ca_27_mk32_malaysia_1;☉ Sabre Mk. 32
 ca_27_mk32_malaysia_2;☉ Sabre
 
@@ -17565,6 +17580,37 @@ f-86_cl_13_mk4_italy_0;"<color=#81c3fc>CL-13A</color>
 f-86_cl_13_mk4_italy_1;⛨ Sabre Mk. 4
 f-86_cl_13_mk4_italy_2;⛨ Sabre
 
+fiat_g91_ps_shop;G 91 (pre-serie)
+fiat_g91_ps_0;"<color=#81c3fc>Fiat Aviazione</color>
+G 91
+<color=#adadad>(pre-serie)</color>"
+fiat_g91_ps_1;G 91
+fiat_g91_ps_2;G 91
+
+fiat_g91_r1_shop;G 91 R/1
+fiat_g91_r1_0;"<color=#81c3fc>Fiat Aviazione</color>
+G 91 R/1"
+fiat_g91_r1_1;G 91 R
+fiat_g91_r1_2;G 91
+
+fiat_g91_r4_shop;☩ G 91 R/4
+fiat_g91_r4_0;"<color=#81c3fc>Fiat Aviazione</color>
+☩ G 91 R/4"
+fiat_g91_r4_1;☩ G 91 R
+fiat_g91_r4_2;☩ G 91
+
+fiat_g91_y_shop;G 91 Y
+fiat_g91_y_0;"<color=#81c3fc>Fiat Aviazione</color>
+G 91 Y"
+fiat_g91_y_1;G 91 Y
+fiat_g91_y_2;G 91
+
+fiat_g91_ys_shop;G 91 YS
+fiat_g91_ys_0;"<color=#81c3fc>Aeritalia</color>
+G 91 YS"
+fiat_g91_ys_1;G 91 YS
+fiat_g91_ys_2;G 91
+
 mb_326k_shop;MB-326K
 mb_326k_0;<color=#81c3fc>Aermacchi MB-326K</color>
 mb_326k_1;MB-326K
@@ -17609,27 +17655,27 @@ amx_1;A-11A
 amx_2;A-11
 
 tornado_adv_shop;⛨ Tornado F. Mk. 3
-tornado_adv_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_adv_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado ADV</color>
 ⛨ Tornado F. Mk. 3
 <color=#adadad>(Batch 2)</color>"
 tornado_adv_1;⛨ Tornado F. Mk. 3
 tornado_adv_2;⛨ Tornado
 
 tornado_ids_it_shop;A-200A
-tornado_ids_it_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_ids_it_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 A-200A Tornado"
 tornado_ids_it_1;A-200A
 tornado_ids_it_2;A-200
 
 tornado_ids_it_mod95_shop;A-200A (1995)
-tornado_ids_it_mod95_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_ids_it_mod95_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 A-200A Tornado
 <color=#adadad>(Batch 2) (1995)</color>"
 tornado_ids_it_mod95_1;A-200A
 tornado_ids_it_mod95_2;A-200
 
 tornado_ids_it_ret8_shop;A-200C (RET8)
-tornado_ids_it_ret8_0;"<color=#81c3fc>Panavia Aircraft PA-200</color>
+tornado_ids_it_ret8_0;"<color=#81c3fc>Panavia Aircraft 200 Tornado IDS</color>
 A-200C Tornado
 <color=#adadad>(Retro Enabling Task 8)</color>"
 tornado_ids_it_ret8_1;A-200C
@@ -19445,6 +19491,13 @@ fr_m36b2_cefeo_0;"<color=#81c3fc>American Locomotive Company</color>
 fr_m36b2_cefeo_1;☨ M36B2
 fr_m36b2_cefeo_2;Tank Destroyer
 
+fr_lorraine_155_shop;Automoteur de 155 Lorraine (n° 1)
+fr_lorraine_155_0;"<color=#81c3fc>Lorraine</color>
+Automoteur de 155 Lorraine
+<color=@currencyGoldColor>Prototype n° 1</color>"
+fr_lorraine_155_1;Automoteur de 155 Lorraine
+fr_lorraine_155_2;SPG
+
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 fr_amx_elc_bis_shop;E.L.C. bis
 fr_amx_elc_bis_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
@@ -19528,7 +19581,7 @@ fr_marder_df_105_1;☨ DF 105
 fr_marder_df_105_2;Light tank
 
 fr_lorraine_40t_shop;Lorraine 40t
-fr_lorraine_40t_0;"<color=#81c3fc>Direction des etudes et fabrications d'armement</color>
+fr_lorraine_40t_0;"<color=#81c3fc>Lorraine</color>
 Char moyen de 40 tonnes Lorraine avec tourelle T.O.A. 100"
 fr_lorraine_40t_1;Lorraine 40t
 fr_lorraine_40t_2;Medium Tank
@@ -20351,7 +20404,7 @@ morko_morane_1;MSv
 morko_morane_2;MS
 
 j9_early_shop;S 9 C
-j9_early_0;"<color=#81c3fc>Republic Aviation Corporation EP-106</color>
+j9_early_0;"<color=#81c3fc>Republic Aviation Corporation EP-1-106</color>
 flygplan typ S 9 C"
 j9_early_1;S 9 C
 j9_early_2;S 9
@@ -20993,6 +21046,18 @@ rynnäkköpanssarivaunu BMP-2MD"
 sw_bmp_2md_1;rpsv BMP-2MD
 sw_bmp_2md_2;IFV
 
+sw_patria_bmp_3_shop;¤ AMV XP (2K23)
+sw_patria_bmp_3_0;"<color=#81c3fc>¤ Patria Advanced Modular Vehicle XP <color=@commonTextColor>/</color> Rosomak</color>
+<color=#adadad>(Komplyeks vooruzhyeniya 2K23) (IDEX 2015)</color>"
+sw_patria_bmp_3_1;¤ AMV XP (2K23)
+sw_patria_bmp_3_2;IFV
+
+sw_patria_amv_ctcv_105_shop;AMV HWP (CT-CV 105HP)
+sw_patria_amv_ctcv_105_0;"<color=#81c3fc>Patria Advanced Modular Vehicle Heavy Weapon Platform</color>
+<color=#adadad>(Cockerill CT-CV 105HP)</color>"
+sw_patria_amv_ctcv_105_1;AMV HWP
+sw_patria_amv_ctcv_105_2;Light Tank
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 sw_asrad_r_shop;♛ M113A2 (ASRAD-R)
 sw_asrad_r_0;"♛ M113A2
@@ -21019,12 +21084,6 @@ sw_leopard_2a6nl_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 taistelupanssarivaunu Leopard 2A6"
 sw_leopard_2a6nl_1;tstpsv Leopard 2A6
 sw_leopard_2a6nl_2;MBT
-
-sw_patria_amv_ctcv_105_shop;AMV HWP (CT-CV 105HP)
-sw_patria_amv_ctcv_105_0;"<color=#81c3fc>Patria Advanced Modular Vehicle Heavy Weapon Platform</color>
-<color=#adadad>(Cockerill CT-CV 105HP)</color>"
-sw_patria_amv_ctcv_105_1;AMV HWP
-sw_patria_amv_ctcv_105_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 sw_cv_90120_shop;CV90120-T
@@ -22246,10 +22305,6 @@ p-47d_23_re_shop;▄ P-47D-23-RE
 p-47d_23_re_0;▄ P-47D-23-RE Thunderbolt
 p-47d_23_re_1;▄ P-47D
 p-47d_23_re_2;▄ P-47
-p-51b_shop;Mustang Mk. Ia
-p-51b_0;Mustang Mk. Ia
-p-51b_1;Mustang Mk. I
-p-51b_2;Mustang
 p-51c-10_france_shop;☨ F-6C-10-NT
 p-51c-10_france_0;☨ F-6C-10-NT Mustang
 p-51c-10_france_1;☨ F-6C
@@ -22866,26 +22921,6 @@ z_1007_bis_serie3_shop;Z.1007bis III
 z_1007_bis_serie3_0;Z.1007bis serie III Alcione
 z_1007_bis_serie3_1;Z.1007
 z_1007_bis_serie3_2;Z.1007
-fiat_g91_ps_shop;G.91 pre-serie
-fiat_g91_ps_0;G.91 pre-serie
-fiat_g91_ps_1;G.91
-fiat_g91_ps_2;G.91
-fiat_g91_r1_shop;G.91 R/1
-fiat_g91_r1_0;G.91 R/1
-fiat_g91_r1_1;G.91 R
-fiat_g91_r1_2;G.91
-fiat_g91_r4_shop;☩ G.91 R/4
-fiat_g91_r4_0;☩ G.91 R/4
-fiat_g91_r4_1;☩ G.91 R
-fiat_g91_r4_2;☩ G.91
-fiat_g91_y_shop;G.91 Y
-fiat_g91_y_0;G.91 Y
-fiat_g91_y_1;G.91 Y
-fiat_g91_y_2;G.91
-fiat_g91_ys_shop;G.91 YS
-fiat_g91_ys_0;G.91 YS
-fiat_g91_ys_1;G.91 YS
-fiat_g91_ys_2;G.91
 re_2000_int_shop;Re.2000 I
 re_2000_int_0;Re.2000 serie I Falco I
 re_2000_int_1;Re.2000

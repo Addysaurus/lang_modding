@@ -1,4 +1,41 @@
 <ID|readonly|noverify>;<English>
+//USA GUNS - GUN/FAMILY START: RANK 4
+us_m1903a4_springfield_shop;M1903A4
+us_m1903a4_springfield_0;"<color=#81c3fc>Remington Arms Company Model 03-A4</color>
+Rifle, Caliber .30, M1903A4 ""Springfield"""
+us_m1903a4_springfield_1;M1903A4
+us_m1903a4_springfield_2;Rifle
+
+us_m1918a2_browning_lmg_shop;M1918A2
+us_m1918a2_browning_lmg_0;"<color=#81c3fc>New England Small Arms Corporation</color>
+Rifle, Caliber .30, Automatic, Browning, M1918A2"
+us_m1918a2_browning_lmg_1;M1918A2
+us_m1918a2_browning_lmg_2;Automatic Rifle
+
+us_m1_carbine_shop;M1
+us_m1_carbine_0;"<color=#81c3fc>General Motors Corporation, Saginaw Steering Gear Division</color>
+Carbine, Caliber .30, M1"
+us_m1_carbine_1;M1
+us_m1_carbine_2;Carbine
+
+us_m1_garand_shop;"M1 ""Garand"""
+us_m1_garand_0;"<color=#81c3fc>United States Armory and Arsenal at Springfield</color>
+Rifle, Caliber .30, M1 ""Garand"""
+us_m1_garand_1;M1
+us_m1_garand_2;Rifle
+
+us_m1a1_thompson_shop;"M1A1 ""Thompson"""
+us_m1a1_thompson_0;"<color=#81c3fc>Auto-Ordnance Corporation</color>
+Submachine Gun, Caliber .45, M1A1 ""Thompson"""
+us_m1a1_thompson_1;M1A1
+us_m1a1_thompson_2;Submachine Gun
+
+us_m3a1_smg_shop;M3A1
+us_m3a1_smg_0;"<color=#81c3fc>General Motors Corporation, Guide Lamp Division</color>
+Submachine Gun, Caliber .45, M3A1 ""Grease Gun"""
+us_m3a1_smg_1;M3A1
+us_m3a1_smg_2;Submachine Gun
+
 //USA GUNS - GUN/FAMILY START: RANK 6
 beretta_m9_shop;M9
 beretta_m9_0;"<color=#81c3fc>Fabbrica d'Armi Pietro Beretta 92FS</color>
@@ -18,9 +55,9 @@ Machine Gun, 7.62mm, Mk 48 Mod 0"
 mk_48_1;Mk 48 Mod 0
 mk_48_2;Machine Gun
 
-colt_9_mm_smg_shop;Colt Model R0635
-colt_9_mm_smg_0;<color=#81c3fc>Colt's Manufacturing Company Model R0635 <color=@commonTextColor>|</color> 9mm Sub Machine Gun</color>
-colt_9_mm_smg_1;Colt Model R0635
+colt_9_mm_smg_shop;Colt Model RO635
+colt_9_mm_smg_0;<color=#81c3fc>Colt's Manufacturing Company Model RO635</color>
+colt_9_mm_smg_1;Colt Model RO635
 colt_9_mm_smg_2;Submachine Gun
 
 m4a1_shop;M4A1
@@ -105,6 +142,50 @@ m24_0;"<color=#81c3fc>Remington Arms Company Model 700</color>
 Rifle, 7.62mm, M24 Sniper Weapon System"
 m24_1;M24 SWS
 m24_2;Sniper Rifle
+
+//USSR GUNS - GUN/FAMILY START: RANK 4
+ussr_sks_shop;SKS
+ussr_sks_0;"<color=#81c3fc>Zavot № 314</color>
+<color=#5cae63>56-A-231</color>
+7,62-mm samozaryadnyj karab'in S'imonova SKS
+<color=#adadad>(1950)</color>"
+ussr_sks_1;SKS
+ussr_sks_2;Carbine
+
+ussr_svt_40_shop;SVT-40
+ussr_svt_40_0;"<color=#81c3fc>Zavot № 314</color>
+<color=#5cae63>56-V-223S</color>
+7,62-mm samozaryadnaya v'intofka Tokaryeva obr. 1940 g."
+ussr_svt_40_1;SVT-40
+ussr_svt_40_2;Rifle
+
+ussr_mosin_m91_shop;SnVM obr. 1891/30 gg.
+ussr_mosin_m91_0;"<color=#81c3fc>Gosudarzdv'ennyj soyuznyj zavot № 74</color>
+<color=#5cae63>56-V-222A</color>
+7,62-mm snajp'erskaya v'intofka Mos'ina obr. 1891/30 gg.
+<color=#adadad>(1942)</color>"
+ussr_mosin_m91_1;SnVM obr. 1891/30 gg.
+ussr_mosin_m91_2;Sniper Rifle
+
+ussr_ppd_40_shop;PPD-40
+ussr_ppd_40_0;"<color=#81c3fc>Instrumyental'nyj zavot № 2 im. K. O. K'irk'izha</color>
+<color=#5cae63>56-A-133</color>
+7,62-mm p'istolyet-pulyemyot D'ekt'aryova obr. 1940 g."
+ussr_ppd_40_1;PPD-40
+ussr_ppd_40_2;Submachine Gun
+
+ussr_pps_43_shop;PPS-43
+ussr_pps_43_0;"<color=#81c3fc>S'estroryetsk'ij oruzhyejnyj zavot im. S. P. Voskova</color>
+<color=#5cae63>56-A-135</color>
+7,62-mm p'istolyet-pulyemyot Sudayeva obr. 1943 g."
+ussr_pps_43_1;PPS-43
+ussr_pps_43_2;Submachine Gun
+
+ussr_rd_44_shop;RD-44
+ussr_rd_44_0;"<color=#81c3fc>Instrumyental'nyj zavot № 2 im. K. O. K'irk'izha</color>
+7,62-mm ruchnoj D'ekt'aryova obr. 1944 g."
+ussr_rd_44_1;RD-44
+ussr_rd_44_2;Light Machine Gun
 
 //USSR GUNS - GUN/FAMILY START: RANK 6
 mp_443_shop;PYa

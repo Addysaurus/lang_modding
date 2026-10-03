@@ -544,10 +544,11 @@ ussr_2s19_m2_0;"<color=#81c3fc>Уральский завод транспорт�
 ussr_2s19_m2_1;2С19М2
 ussr_2s19_m2_2;SPH
 
-ussr_object_416_shop;Об. 416
+ussr_object_416_shop;СУ-100М
 ussr_object_416_0;"<color=#81c3fc>Завод № 75</color>
-<color=#5cae63>Объект 416</color>"
-ussr_object_416_1;Об. 416
+<color=#5cae63>Объект 416</color>
+Самоходная установка СУ-100М"
+ussr_object_416_1;СУ-100М
 ussr_object_416_2;SPG
 
 il_tiran_4_shop;Ṭiran 4
@@ -1239,6 +1240,28 @@ sw_kv_1_1942_fin_0;"<color=#81c3fc>Кировский завод</color>
 44 tonnin panssarivaunu KW 1 A ""Klimi"""
 sw_kv_1_1942_fin_1;44 psv KW 1 A
 sw_kv_1_1942_fin_2;Heavy Tank
+
+//SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+sw_pbv_501_shop;pbv 501
+sw_pbv_501_0;"<color=#81c3fc>Курганский машиностроительный завод <color=@commonTextColor>/</color> Vojenský opravárenský podnik
+026 Šternberk</color>
+pansarbandvagn 501"
+sw_pbv_501_1;pbv 501
+sw_pbv_501_2;IFV
+
+//SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+sw_patria_bmp_3_shop;¤ AMV XP (2К23)
+sw_patria_bmp_3_0;"<color=#81c3fc>¤ Patria Advanced Modular Vehicle XP <color=@commonTextColor>/</color> Rosomak</color>
+<color=#adadad>(Комплекс вооружения 2К23) (IDEX 2015)</color>"
+sw_patria_bmp_3_1;¤ AMV XP (2К23)
+sw_patria_bmp_3_2;IFV
+
+//SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+sw_t_80u_shop;♛ T 80 U
+sw_t_80u_0;"<color=#81c3fc>Кировский завод</color>
+♛ T 80 U"
+sw_t_80u_1;♛ T 80 U
+sw_t_80u_2;MBT
 
 //ISRAEL GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 il_9a33bm3_shop;◐ OSA-AKM

@@ -1,12 +1,19 @@
 <ID|readonly|noverify>;<English>
 //GUNS - GUN/FAMILY START: RANK 4
 ussr_sks_shop;СКС
-ussr_sks_0;"<color=#81c3fc>Тульский оружейный завод</color>
+ussr_sks_0;"<color=#81c3fc>Завод № 314</color>
 <color=#5cae63>56-А-231</color>
 7,62-мм самозарядный карабин Симонова СКС
 <color=#adadad>(1950)</color>"
 ussr_sks_1;СКС
 ussr_sks_2;Carbine
+
+ussr_svt_40_shop;СВТ-40
+ussr_svt_40_0;"<color=#81c3fc>Завод № 314</color>
+<color=#5cae63>56-В-223С</color>
+7,62-мм самозарядная винтовка Токарева обр. 1940 г."
+ussr_svt_40_1;СВТ-40
+ussr_svt_40_2;Rifle
 
 ussr_mosin_m91_shop;СнВМ обр. 1891/30 гг.
 ussr_mosin_m91_0;"<color=#81c3fc>Государственный союзный завод № 74</color>
@@ -15,6 +22,26 @@ ussr_mosin_m91_0;"<color=#81c3fc>Государственный союзный �
 <color=#adadad>(1942)</color>"
 ussr_mosin_m91_1;СнВМ обр. 1891/30 гг.
 ussr_mosin_m91_2;Sniper Rifle
+
+ussr_ppd_40_shop;ППД-40
+ussr_ppd_40_0;"<color=#81c3fc>Инструментальный завод № 2 им. К. О. Киркижа</color>
+<color=#5cae63>56-А-133</color>
+7,62-мм пистолет-пулемёт Дегтярёва обр. 1940 г."
+ussr_ppd_40_1;ППД-40
+ussr_ppd_40_2;Submachine Gun
+
+ussr_pps_43_shop;ППС-43
+ussr_pps_43_0;"<color=#81c3fc>Сестрорецкий оружейный завод им. С. П. Воскова</color>
+<color=#5cae63>56-А-135</color>
+7,62-мм пистолет-пулемёт Судаева обр. 1943 г."
+ussr_pps_43_1;ППС-43
+ussr_pps_43_2;Submachine Gun
+
+ussr_rd_44_shop;РД-44
+ussr_rd_44_0;"<color=#81c3fc>Инструментальный завод № 2 им. К. О. Киркижа</color>
+7,62-мм ручной Дегтярёва обр. 1944 г."
+ussr_rd_44_1;РД-44
+ussr_rd_44_2;Light Machine Gun
 
 //GUNS - GUN/FAMILY START: RANK 6
 mp_443_shop;ПЯ

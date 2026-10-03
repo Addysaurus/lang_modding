@@ -145,12 +145,19 @@ m24_2;Sniper Rifle
 
 //USSR GUNS - GUN/FAMILY START: RANK 4
 ussr_sks_shop;SKS
-ussr_sks_0;"<color=#81c3fc>Tul'sk'ij oruzhyejnyj zavot</color>
+ussr_sks_0;"<color=#81c3fc>Zavot № 314</color>
 <color=#5cae63>56-A-231</color>
 7,62-mm samozaryadnyj karab'in S'imonova SKS
 <color=#adadad>(1950)</color>"
 ussr_sks_1;SKS
 ussr_sks_2;Carbine
+
+ussr_svt_40_shop;SVT-40
+ussr_svt_40_0;"<color=#81c3fc>Zavot № 314</color>
+<color=#5cae63>56-V-223S</color>
+7,62-mm samozaryadnaya v'intofka Tokaryeva obr. 1940 g."
+ussr_svt_40_1;SVT-40
+ussr_svt_40_2;Rifle
 
 ussr_mosin_m91_shop;SnVM obr. 1891/30 gg.
 ussr_mosin_m91_0;"<color=#81c3fc>Gosudarzdv'ennyj soyuznyj zavot № 74</color>
@@ -159,6 +166,26 @@ ussr_mosin_m91_0;"<color=#81c3fc>Gosudarzdv'ennyj soyuznyj zavot № 74</color>
 <color=#adadad>(1942)</color>"
 ussr_mosin_m91_1;SnVM obr. 1891/30 gg.
 ussr_mosin_m91_2;Sniper Rifle
+
+ussr_ppd_40_shop;PPD-40
+ussr_ppd_40_0;"<color=#81c3fc>Instrumyental'nyj zavot № 2 im. K. O. K'irk'izha</color>
+<color=#5cae63>56-A-133</color>
+7,62-mm p'istolyet-pulyemyot D'ekt'aryova obr. 1940 g."
+ussr_ppd_40_1;PPD-40
+ussr_ppd_40_2;Submachine Gun
+
+ussr_pps_43_shop;PPS-43
+ussr_pps_43_0;"<color=#81c3fc>S'estroryetsk'ij oruzhyejnyj zavot im. S. P. Voskova</color>
+<color=#5cae63>56-A-135</color>
+7,62-mm p'istolyet-pulyemyot Sudayeva obr. 1943 g."
+ussr_pps_43_1;PPS-43
+ussr_pps_43_2;Submachine Gun
+
+ussr_rd_44_shop;RD-44
+ussr_rd_44_0;"<color=#81c3fc>Instrumyental'nyj zavot № 2 im. K. O. K'irk'izha</color>
+7,62-mm ruchnoj D'ekt'aryova obr. 1944 g."
+ussr_rd_44_1;RD-44
+ussr_rd_44_2;Light Machine Gun
 
 //USSR GUNS - GUN/FAMILY START: RANK 6
 mp_443_shop;PYa

@@ -1,9 +1,20 @@
+//GROUPS
+shop/group/sw_pt_76_comet_group;▄ PT-76 / psv. Comet
+shop/group/sw_cv_90_ifv_group;r.psv. CV9030 / strf 9040B
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 sw_strv_m31_shop;strv m/31
 sw_strv_m31_0;"<color=#81c3fc>Landsverk L-10</color>
 stridsvagn m/31"
 sw_strv_m31_1;strv m/31
 sw_strv_m31_2;Light Tank
+
+sw_bt_42_shop;15 ryn.tyk.psv./BT42
+sw_bt_42_0;"<color=#81c3fc>Zavot № 183 / Valtion Tykkitehdas</color>
+<color=#5cae63>Ps. 511</color>
+15 tonnin rynnäkkötykkipanssarivaunu mallia BT42"
+sw_bt_42_1;15 ryn.tyk.psv./BT42
+sw_bt_42_2;SPG
 
 sw_strv_m38_shop;strv m/38
 sw_strv_m38_0;"<color=#81c3fc>Landsverk L-60-S/I</color>
@@ -43,6 +54,13 @@ stormartillerivagn m/43
 sw_sav_m43_1946_1;sav m/43
 sw_sav_m43_1946_2;SPG
 
+sw_vickers_mk_e_37_shop;9 psv. Mk. E (37 psv.k./36)
+sw_vickers_mk_e_37_0;"<color=#81c3fc>Vickers-Armstrongs Mk. E Type B <color=@commonTextColor>/</color> Valtion Tykkitehdas</color>
+9 tonnin panssarivaunu Mk. E
+<color=#adadad>(37 mm:n panssarivaunukanuuna mallia 1936)</color>"
+sw_vickers_mk_e_37_1;9 psv. Mk. E
+sw_vickers_mk_e_37_2;Light Tank
+
 sw_strv_m39_shop;strv m/39
 sw_strv_m39_0;"<color=#81c3fc>Landsverk L-60-S/II</color>
 stridsvagn m/39"
@@ -55,6 +73,13 @@ sw_strv_m39_td_0;"<color=#81c3fc>Landsverk L-60-S/II</color>
 sw_strv_m39_td_1;⋦ strv m/39
 sw_strv_m39_td_2;Light Tank
 
+sw_vickers_mk_e_45_shop;9 psv. T 26 E
+sw_vickers_mk_e_45_0;"<color=#81c3fc>Vickers-Armstrongs Mk. E Type B <color=@commonTextColor>/</color> Panssarikeskuskorjaamo</color>
+<color=#5cae63>Ps. 161</color>
+9 tonnin panssarivaunu T 26 Englantilainen"
+sw_vickers_mk_e_45_1;9 psv. T 26 E
+sw_vickers_mk_e_45_2;Light Tank
+
 sw_pbil_m40_shop;pbil m/40
 sw_pbil_m40_0;"<color=#81c3fc>Landsverk Lynx <color=@commonTextColor>/</color> Volvo</color>
 pansarbil m/40"
@@ -64,13 +89,13 @@ sw_pbil_m40_2;Light Tank
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 sw_strv_m41_s1_shop;strv m/41 S I
 sw_strv_m41_s1_0;"<color=#81c3fc>Scania-Vabis</color>
-stridsvagn m/40 S I"
+stridsvagn m/41 S I"
 sw_strv_m41_s1_1;strv m/41 S I
 sw_strv_m41_s1_2;Light Tank
 
 sw_strv_m41_s2_shop;strv m/41 S II
 sw_strv_m41_s2_0;"<color=#81c3fc>Scania-Vabis</color>
-stridsvagn m/40 S II"
+stridsvagn m/41 S II"
 sw_strv_m41_s2_1;strv m/41 S II
 sw_strv_m41_s2_2;Light Tank
 
@@ -123,6 +148,15 @@ infanterikanonvagn 73"
 sw_ikv_73_1;ikv 73
 sw_ikv_73_2;Infantry Tank
 
+sw_t_50_fin_shop;15 psv. T 50 (1942)
+sw_t_50_fin_0;"<color=#81c3fc>Lyeningratsk'ij gosudarzdv'ennyj zavot № 174 im. K. Ye. Voroshilova <color=@commonTextColor>/</color>
+Panssarikeskuskorjaamo</color>
+<color=#5cae63>Ps. 183-1</color>
+15 tonnin panssarivaunu T 50 ""Pikku-Sotka""
+<color=#adadad>(1942)</color>"
+sw_t_50_fin_1;15 psv. T 50
+sw_t_50_fin_2;Light Tank
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 sw_m24_chaffee_dk_shop;♔ M24
 sw_m24_chaffee_dk_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
@@ -141,6 +175,14 @@ sw_pvkv_iv_0;"<color=#81c3fc>Landsverk</color>
 pansarvärnskanonvagn IVA ""Värjan"""
 sw_pvkv_iv_1;pvkv IVA
 sw_pvkv_iv_2;SPG
+
+sw_l_62_anti_II_shop;10 it.psv. 40
+sw_l_62_anti_II_0;"<color=#81c3fc>Landsverk L-62 Anti II</color>
+<color=#5cae63>Ps. 455</color>
+<color=#919191>10 tonnin ilmatorjuntapanssarivaunu mallia Anti</color>
+10 tonnin ilmatorjuntapanssarivaunu 40 mm"
+sw_l_62_anti_II_1;10 it.psv. 40
+sw_l_62_anti_II_2;SPAAG
 
 sw_lvkv_42_shop;lvkv 42
 sw_lvkv_42_0;"<color=#81c3fc>Bofors VAK 40 S 49</color>
@@ -168,6 +210,13 @@ infanterikanonvagn 103"
 sw_ikv_103_1;ikv 103
 sw_ikv_103_2;SPG
 
+sw_a_34_comet_shop;psv. Comet
+sw_a_34_comet_0;"<color=#81c3fc>Leyland Motors</color>
+<color=#5cae63>Ps. 252</color>
+panssarivaunu Comet"
+sw_a_34_comet_1;psv. Comet
+sw_a_34_comet_2;Medium Tank
+
 sw_sav_fm48_shop;SAV 20.12.48
 sw_sav_fm48_0;<color=#81c3fc>Bofors SAV 20.12.48</color>
 sw_sav_fm48_1;SAV 20.12.48
@@ -178,6 +227,20 @@ sw_sherman_3_4_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
 Tank, Medium, Sherman, Mk. IV"
 sw_sherman_3_4_1;Sherman, Mk. IV
 sw_sherman_3_4_2;Medium Tank
+
+sw_kv_1_1942_fin_shop;44 psv. KW 1 A
+sw_kv_1_1942_fin_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
+<color=#5cae63>Ps. 271-1</color>
+44 tonnin panssarivaunu KW 1 A ""Klimi"""
+sw_kv_1_1942_fin_1;44 psv. KW 1 A
+sw_kv_1_1942_fin_2;Heavy Tank
+
+germ_kv_1B_finland_shop;▀ 44 psv. KW 1 B
+germ_kv_1B_finland_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
+<color=#5cae63>Ps. 272-1</color>
+▀ 44 tonnin panssarivaunu KW 1 B ""Klimi"""
+germ_kv_1B_finland_1;▀ 44 psv. KW 1 B
+germ_kv_1B_finland_2;▀ Heavy Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 sw_pbv_501_shop;pbv 501
@@ -210,6 +273,14 @@ sw_bkan_1c_0;"<color=#81c3fc>Bofors VK 155 S 62</color>
 15,5 cm bandkanon 1C"
 sw_bkan_1c_1;15,5 cm bkan 1C
 sw_bkan_1c_2;SPG
+
+sw_charioteer_mk_7_shop;tst.psv. Charioteer
+sw_charioteer_mk_7_0;"<color=#81c3fc>Birmingham Railway Carriage and Wagon Company <color=@commonTextColor>/</color> Robinson and
+Kershaw</color>
+<color=#5cae63>Ps. 251</color>
+taistelupanssarivaunu Charioteer"
+sw_charioteer_mk_7_1;tst.psv. Charioteer
+sw_charioteer_mk_7_2;Medium Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 sw_ikv_91_shop;ikv 91
@@ -274,6 +345,13 @@ stridsvagn 103C"
 sw_strv_103c_1;strv 103C
 sw_strv_103c_2;MBT
 
+sw_zsu_57_2_shop;it.psv. SU-57-2
+sw_zsu_57_2_0;"<color=#81c3fc>Omsk'ij zavot № 174 im. Voroshilova</color>
+<color=#5cae63>Ps. 461</color>
+ilmatorjuntapanssarivaunu SU-57-2"
+sw_zsu_57_2_1;it.psv. SU-57-2
+sw_zsu_57_2_2;SPAAG
+
 sw_veak_40_shop;VEAK 40 X 62
 sw_veak_40_0;<color=#81c3fc>Bofors VEAK 40 X 62</color>
 sw_veak_40_1;VEAK 40 X 62
@@ -303,6 +381,13 @@ sw_cv_90105_tml_0;"<color=#81c3fc>BAE Systems Hägglunds Combat Vehicle 90105</c
 <color=#adadad>(XC-8 105HP)</color>"
 sw_cv_90105_tml_1;CV90105
 sw_cv_90105_tml_2;Light Tank
+
+sw_cv_9030_fin_shop;r.psv. CV9030
+sw_cv_9030_fin_0;"<color=#81c3fc>BAE Systems Hägglunds Combat Vehicle 9030FIN</color>
+<color=#5cae63>Ps. 171</color>
+rynnäkköpanssarivaunu CV9030"
+sw_cv_9030_fin_1;r.psv. CV9030
+sw_cv_9030_fin_2;IFV
 
 sw_strf_90b_shop;strf 9040B
 sw_strf_90b_0;"<color=#81c3fc>Alvis Hägglunds Combat Vehicle 9040B</color>
@@ -400,6 +485,20 @@ sw_asrad_r_0;"<color=#81c3fc>Saab Bofors Dynamics <color=@commonTextColor>+</col
 <color=#adadad>(Autonomous Short Range Air Defense Missile System - RBS)</color>"
 sw_asrad_r_1;♛ M113 A2 (ASRAD-R)
 sw_asrad_r_2;SPAAM
+
+sw_leopard_2a4_fin_shop;tst.psv. Leopard 2A4
+sw_leopard_2a4_fin_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+<color=#5cae63>Ps. 273</color>
+taistelupanssarivaunu Leopard 2A4"
+sw_leopard_2a4_fin_1;tst.psv. Leopard 2A4
+sw_leopard_2a4_fin_2;Battle Tank
+
+sw_leopard_2a6nl_shop;tst.psv. Leopard 2A6
+sw_leopard_2a6nl_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+<color=#5cae63>Ps. 274</color>
+taistelupanssarivaunu Leopard 2A6"
+sw_leopard_2a6nl_1;tst.psv. Leopard 2A6
+sw_leopard_2a6nl_2;Battle Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 sw_cv_90120_shop;CV90120-T

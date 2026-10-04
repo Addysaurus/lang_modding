@@ -947,11 +947,11 @@ germ_kv_1_kwk_40_0;"<color=#81c3fc>Кировский завод Наркома�
 germ_kv_1_kwk_40_1;▀ s.Pz.Kpfw. 756 (r)
 germ_kv_1_kwk_40_2;Heavy Tank
 
-germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
-germ_kv_1B_finland_0;"<color=#81c3fc>Кировский завод</color>
+germ_kv_1B_finland_shop;▀ 44 psv. KW 1 B
+germ_kv_1B_finland_0;"<color=#81c3fc>Кировский завод № 100</color>
 <color=#5cae63>Ps. 272-1</color>
 ▀ 44 tonnin panssarivaunu KW 1 B ""Klimi"""
-germ_kv_1B_finland_1;▀ 44 psv KW 1 B
+germ_kv_1B_finland_1;▀ 44 psv. KW 1 B
 germ_kv_1B_finland_2;▀ Heavy Tank
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
@@ -1224,21 +1224,28 @@ it_9a35_m_1;◔ 9A35M
 it_9a35_m_2;SPAAM
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
-sw_t_50_fin_shop;15 psv T 50 (1942)
+sw_bt_42_shop;15 ryn.tyk.psv./BT42
+sw_bt_42_0;"<color=#81c3fc>Завод № 183 / Valtion Tykkitehdas</color>
+<color=#5cae63>Ps. 511</color>
+15 tonnin rynnäkkötykkipanssarivaunu mallia BT42"
+sw_bt_42_1;15 ryn.tyk.psv./BT42
+sw_bt_42_2;SPG
+
+sw_t_50_fin_shop;15 psv. T 50 (1942)
 sw_t_50_fin_0;"<color=#81c3fc>Ленинградский государственный завод № 174 им. К. Е. Ворошилова <color=@commonTextColor>/</color>
 Panssarikeskuskorjaamo</color></color>
 <color=#5cae63>Ps. 183-1</color>
 15 tonnin panssarivaunu T 50 ""Pikku-Sotka""
 <color=#adadad>(1942)</color>"
-sw_t_50_fin_1;15 psv T 50
+sw_t_50_fin_1;15 psv. T 50
 sw_t_50_fin_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
-sw_kv_1_1942_fin_shop;44 psv KW 1 A
-sw_kv_1_1942_fin_0;"<color=#81c3fc>Кировский завод</color>
+sw_kv_1_1942_fin_shop;44 psv. KW 1 A
+sw_kv_1_1942_fin_0;"<color=#81c3fc>Кировский завод № 100</color>
 <color=#5cae63>Ps. 271-1</color>
 44 tonnin panssarivaunu KW 1 A ""Klimi"""
-sw_kv_1_1942_fin_1;44 psv KW 1 A
+sw_kv_1_1942_fin_1;44 psv. KW 1 A
 sw_kv_1_1942_fin_2;Heavy Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
@@ -1248,6 +1255,14 @@ sw_pbv_501_0;"<color=#81c3fc>Курганский машиностроитель
 pansarbandvagn 501"
 sw_pbv_501_1;pbv 501
 sw_pbv_501_2;IFV
+
+//SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+sw_zsu_57_2_shop;it.psv. SU-57-2
+sw_zsu_57_2_0;"<color=#81c3fc>Омский завод № 174 им. Ворошилова</color>
+<color=#5cae63>Ps. 461</color>
+ilmatorjuntapanssarivaunu SU-57-2"
+sw_zsu_57_2_1;it.psv. SU-57-2
+sw_zsu_57_2_2;SPAAG
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 sw_patria_bmp_3_shop;¤ AMV XP (2К23)

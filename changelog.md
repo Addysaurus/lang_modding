@@ -18,7 +18,15 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.19.01 - UNRELEASED
+## 1.19.02 - UNRELEASED
+
+### Weaponry:
+
+- #### Changes:
+
+    - **37 mm Psv.K/36 cannon** → **37 mm:n panssarivaunukanuuna mallia 1936**.
+
+## 1.19.01 - 03-10-2026
 
 ### Vehicles:
 

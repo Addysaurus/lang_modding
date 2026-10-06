@@ -3820,6 +3820,20 @@ uh_1c_xm_30_0;UH-1C Iroquois (XM30)
 uh_1c_xm_30_1;UH-1C
 uh_1c_xm_30_2;UH-1
 
+h_34_shop;CH-34A
+h_34_0;"<color=#81c3fc>Sikorsky Aircraft S-58</color>
+<color=#919191>H-34A Choctaw</color>
+Helicopter, Cargo Transport, CH-34A Choctaw"
+h_34_1;CH-34A
+h_34_2;CH-34
+
+h_34_killstreak_shop;CH-34A
+h_34_killstreak_0;"<color=#81c3fc>Sikorsky Aircraft S-58</color>
+<color=#919191>H-34A Choctaw</color>
+Helicopter, Cargo Transport, CH-34A Choctaw"
+h_34_killstreak_1;CH-34A
+h_34_killstreak_2;CH-34
+
 //USA HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 ah_6m_shop;AH-6M
 ah_6m_0;AH-6M
@@ -3867,10 +3881,10 @@ ah_64a_peten_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
 ah_64a_peten_1;▃ AH-64A
 ah_64a_peten_2;▃ AH-64
 
-ah_64e_shop;AH-64E (v6)
+ah_64e_shop;AH-64E (v4.5)
 ah_64e_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
 Helicopter, Attack, AH-64E Guardian Apache
-<color=#adadad>(Capability Version 6)</color>"
+<color=#adadad>(Capability Version 4.5)</color>"
 ah_64e_1;AH-64E
 ah_64e_2;AH-64
 
@@ -14632,10 +14646,10 @@ Gaisha</color>
 ah_64d_japan_1;▅ AH-64D
 ah_64d_japan_2;▅ AH-64
 
-ah_64e_indonesia_shop;◥ AH-64E (v6)
+ah_64e_indonesia_shop;◥ AH-64E (v4.5)
 ah_64e_indonesia_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
 ◥ Helicopter, Attack, AH-64E Guardian Apache
-<color=#adadad>(Capability Version 6)</color>"
+<color=#adadad>(Capability Version 4.5)</color>"
 ah_64e_indonesia_1;◥ AH-64E
 ah_64e_indonesia_2;◥ AH-64
 
@@ -16637,10 +16651,10 @@ Z10 Xíng Wuzhuāng Zhíshēngjī ""Pīlìhuǒ""
 z_10a_1;Z10
 z_10a_2;Z10
 
-ah_64e_china_shop;☀ AH-64E (v6)
+ah_64e_china_shop;☀ AH-64E (v4.5)
 ah_64e_china_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
 ☀ AH-64E Zhàndòu Zhíshēngjī
-<color=#adadad>(Capability Version 6)</color>"
+<color=#adadad>(Capability Version 4.5)</color>"
 ah_64e_china_1;☀ AH-64E
 ah_64e_china_2;☀ AH-64
 
@@ -19110,6 +19124,12 @@ rafale_m_f3r_1;Rafale M
 rafale_m_f3r_2;Rafale
 
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+h_34_france_shop;☨ H-34A
+h_34_france_0;"<color=#81c3fc>Sikorsky Aircraft S-58 <color=@commonTextColor>/</color> Société nationale de constructions aéronautiques Sud Aviation</color>
+☨ Hélicoptère H-34A"
+h_34_france_1;☨ H-34A
+h_34_france_2;☨ H-34
+
 sa_313b_france_shop;SE 313 B
 sa_313b_france_0;"<color=#81c3fc>Sud-Aviation</color>
 SE 313 B Alouette II"
@@ -23456,14 +23476,6 @@ sa_342m_shop;SA 342 M
 sa_342m_0;SA 342 M Gazelle
 sa_342m_1;SA 342 M
 sa_342m_2;SA 342
-h_34_france_shop;☨ H-34A
-h_34_france_0;☨ H-34A
-h_34_france_1;☨ H-34A
-h_34_france_2;☨ H-34
-h_34_shop;CH-34A
-h_34_0;CH-34A Choctaw
-h_34_1;CH-34A
-h_34_2;CH-34
 f-86k_late_shop;☨ F-86K
 f-86k_late_0;☨ F-86K Sabre
 f-86k_late_1;☨ F-86K

@@ -24,6 +24,8 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - Revised the **AH-64E**s.
+    - Revised the **H-34**s.
     - Corrected the manufacturer of the Chinese **PT-76**.
 
 ### Weaponry:

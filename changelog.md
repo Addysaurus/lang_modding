@@ -24,8 +24,10 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - Added the new killstreak helicopters.
     - Revised the **AH-64E**s.
     - Revised the **H-34**s.
+    - Revised the **Mi-4AV**.
     - Corrected the manufacturer of the Chinese **PT-76**.
 
 ### Weaponry:

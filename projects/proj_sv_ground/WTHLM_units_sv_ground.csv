@@ -1,4 +1,5 @@
 //GROUPS
+shop/group/sw_t_34_pz_4_group;26 psv. T 34 / 25 psv. PZ IV
 shop/group/sw_pt_76_comet_group;▄ PT-76 / psv. Comet
 shop/group/sw_cv_90_ifv_group;r.psv. CV9030 / strf 9040B
 
@@ -60,6 +61,13 @@ sw_vickers_mk_e_37_0;"<color=#81c3fc>Vickers-Armstrongs Mk. E Type B <color=@com
 <color=#adadad>(37 mm:n panssarivaunukanuuna mallia 1936)</color>"
 sw_vickers_mk_e_37_1;9 psv. Mk. E
 sw_vickers_mk_e_37_2;Light Tank
+
+sw_t_28_shop;28 psv. T 28 (1938)
+sw_t_28_0;"<color=#81c3fc>K'irofsk'ij zavot (Zavot № 100)</color>
+28 tonnin panssarivaunu T 28
+<color=#adadad>(1938)</color>"
+sw_t_28_1;28 psv. T 28 (1938)
+sw_t_28_2;Heavy Tank
 
 sw_strv_m39_shop;strv m/39
 sw_strv_m39_0;"<color=#81c3fc>Landsverk L-60-S/II</color>
@@ -210,6 +218,34 @@ infanterikanonvagn 103"
 sw_ikv_103_1;ikv 103
 sw_ikv_103_2;SPG
 
+sw_pzkpfw_IV_ausf_J_shop;25 psv. PZ IV
+sw_pzkpfw_IV_ausf_J_0;"<color=#81c3fc>Nibelungenwerk</color>
+<color=#5cae63>Ps. 221</color>
+25 tonnin panssarivaunu PZ IV ""Nelonen"""
+sw_pzkpfw_IV_ausf_J_1;25 psv. PZ IV
+sw_pzkpfw_IV_ausf_J_2;Medium Tank
+
+sw_t_34_1941_shop;26 psv. T 34 B
+sw_t_34_1941_0;"<color=#81c3fc>Khar'kofsk'ij mashinostroit'el'nyj zavot im. Komint'erna (Zavot № 183)</color>
+<color=#5cae63>Ps. 231</color>
+26 tonnin panssarivaunu T 34 B ""Sotka"""
+sw_t_34_1941_1;26 psv. T 34 B
+sw_t_34_1941_2;Medium Tank
+
+sw_t_34_85_zis_53_shop;31 psv. T 34/85
+sw_t_34_85_zis_53_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot (Zavot № 183)</color>
+<color=#5cae63>Ps. 245</color>
+31 tonnin panssarivaunu T 34/85 ""Pitkäputkinen Sotka"""
+sw_t_34_85_zis_53_1;31 psv. T 34/85
+sw_t_34_85_zis_53_2;Medium Tank
+
+sw_pt_76b_shop;▄ PT-76
+sw_pt_76b_0;"<color=#81c3fc>Stalingratsk'ij traktornyj zavot im. F. E. Dz'erzhinskogo</color>
+<color=#5cae63>Ps. 141</color>
+▄ PT-76"
+sw_pt_76b_1;▄ PT-76
+sw_pt_76b_2;Amphibious Tank
+
 sw_a_34_comet_shop;psv. Comet
 sw_a_34_comet_0;"<color=#81c3fc>Leyland Motors</color>
 <color=#5cae63>Ps. 252</color>
@@ -229,14 +265,14 @@ sw_sherman_3_4_1;Sherman, Mk. IV
 sw_sherman_3_4_2;Medium Tank
 
 sw_kv_1_1942_fin_shop;44 psv. KW 1 A
-sw_kv_1_1942_fin_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
+sw_kv_1_1942_fin_0;"<color=#81c3fc>K'irofsk'ij zavot (Zavot № 100)</color>
 <color=#5cae63>Ps. 271-1</color>
 44 tonnin panssarivaunu KW 1 A ""Klimi"""
 sw_kv_1_1942_fin_1;44 psv. KW 1 A
 sw_kv_1_1942_fin_2;Heavy Tank
 
 germ_kv_1B_finland_shop;▀ 44 psv. KW 1 B
-germ_kv_1B_finland_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
+germ_kv_1B_finland_0;"<color=#81c3fc>K'irofsk'ij zavot (Zavot № 100)</color>
 <color=#5cae63>Ps. 272-1</color>
 ▀ 44 tonnin panssarivaunu KW 1 B ""Klimi"""
 germ_kv_1B_finland_1;▀ 44 psv. KW 1 B
@@ -363,6 +399,13 @@ pansarvärnsrobotvagn 551"
 sw_pvrbv_551_1;pvrbv 551
 sw_pvrbv_551_2;ATMC
 
+sw_t_54_1951_shop;tst.psv. T 54
+sw_t_54_1951_0;"<color=#81c3fc>Ural'sk'ij vagonostroit'el'nyj zavot im. I. V. Stalina (Zavot № 183)</color>
+<color=#5cae63>Ps. 261</color>
+taistelupanssarivaunu T 54"
+sw_t_54_1951_1;tst.psv. T 54
+sw_t_54_1951_2;Battle Tank
+
 sw_k9_vidar_shop;◢ K9
 sw_k9_vidar_0;"<color=#81c3fc>Hanhwa Eeoroseupeiseu</color>
 ◢ artillerivogn K9 Versatile Indirect Artillery System"
@@ -426,6 +469,13 @@ stridsvagn 105"
 sw_strv_105_1;strv 105
 sw_strv_105_2;MBT
 
+sw_itpsv_90_shop;it.psv. 90 Leopard 2 Marksman
+sw_itpsv_90_0;"<color=#81c3fc>Krauss-Maffei Wegmann <color=@commonTextColor>/</color> Millog</color>
+<color=#5cae63>Ps. 473</color>
+ilmatorjuntapanssarivaunu 90 Leopard 2 Marksman"
+sw_itpsv_90_1;it.psv. 90 Leopard 2 Marksman
+sw_itpsv_90_2;SPAAG
+
 sw_lvrbv_701_shop;lvrbv 701
 sw_lvrbv_701_0;"<color=#81c3fc>Hägglund & Söner</color>
 luftvärnsrobotvagn 701"
@@ -438,6 +488,27 @@ sw_udes_33_0;"<color=#81c3fc>Hägglund & Söner</color>
 sw_udes_33_1;UDES 33
 sw_udes_33_2;ATMC
 
+sw_pbv_302_bill_shop;pbv 302A (rbs 56)
+sw_pbv_302_bill_0;"<color=#81c3fc>Hägglund & Söner</color>
+pansarbandvagn 302A
+<color=#adadad>(robotsystem 56)</color>"
+sw_pbv_302_bill_1;pbv 302A (rbs 56)
+sw_pbv_302_bill_2;ATMC
+
+sw_t_55m_shop;tst.psv. T 55M
+sw_t_55m_0;"<color=#81c3fc>Khar'kofsk'ij zavot transportnogo mashinostroyeniya im. V. A. Malyshyeva</color>
+<color=#5cae63>Ps. 262</color>
+taistelupanssarivaunu T 55M"
+sw_t_55m_1;tst.psv. T 55M
+sw_t_55m_2;Battle Tank
+
+sw_t_72m1_shop;tst.psv. T 72M1
+sw_t_72m1_0;"<color=#81c3fc>UralVagonZavot</color>
+<color=#5cae63>Ps. 264</color>
+taistelupanssarivaunu T 72M1"
+sw_t_72m1_1;tst.psv. T 72M1
+sw_t_72m1_2;Battle Tank
+
 sw_leopard_1a5no_shop;◢ Leopard 1 A5 NO
 sw_leopard_1a5no_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 ◢ stridsvogn Leopard 1 A5 NO"
@@ -449,6 +520,13 @@ sw_cv_9035_dk_0;"<color=#81c3fc>BAE Systems Hägglunds Combat Vehicle 9035DK</co
 infanterikampkøretøj 9035"
 sw_cv_9035_dk_1;IKK 9035
 sw_cv_9035_dk_2;IFV
+
+sw_bmp_2md_shop;r.psv. BMP-2MD
+sw_bmp_2md_0;"<color=#81c3fc>Kurgansk'ij mashinostroit'el'nyj zavot im. V. I. Lyenina <color=@commonTextColor>/</color> Conlog</color>
+<color=#5cae63>Ps. 153</color>
+rynnäkköpanssarivaunu BMP-2MD"
+sw_bmp_2md_1;r.psv. BMP-2MD
+sw_bmp_2md_2;IFV
 
 sw_patria_bmp_3_shop;¤ AMV XP (2K23)
 sw_patria_bmp_3_0;"<color=#81c3fc>¤ Patria Advanced Modular Vehicle XP <color=@commonTextColor>/</color> Rosomak</color>
@@ -529,6 +607,20 @@ MBT 122B Evolution</color>
 stridsvagn 122B+"
 sw_strv_122b_plus_1;strv 122B
 sw_strv_122b_plus_2;MBT
+
+sw_crotale_ng_shop;ito. 90M
+sw_crotale_ng_0;"<color=#81c3fc>Patria Vehicles XA-181</color>
+<color=#5cae63>Ps. 477</color>
+ilmatorjuntaohjus 90M"
+sw_crotale_ng_1;ito. 90M
+sw_crotale_ng_2;SPAAM
+
+fr_crotale_ng_shop;☨ ito. 90M
+fr_crotale_ng_0;"<color=#81c3fc>Patria Vehicles XA-181</color>
+<color=#5cae63>Ps. 477</color>
+☨ ilmatorjuntaohjus 90M"
+fr_crotale_ng_1;☨ ito. 90M
+fr_crotale_ng_2;SPAAM
 
 sw_eldenhet_98_shop;elde 98 (Giraffe 1X)
 sw_eldenhet_98_0;"<color=#81c3fc>BAE Systems Hägglunds</color>

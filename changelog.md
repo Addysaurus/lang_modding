@@ -20,6 +20,12 @@ All dates are listed in DD-MM-YYYY format.
 
 ## 1.19.02 - UNRELEASED
 
+### Vehicles:
+
+- #### Changes:
+
+    - Corrected the manufacturer of the Chinese **PT-76**.
+
 ### Weaponry:
 
 - #### Changes:

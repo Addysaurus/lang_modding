@@ -16801,41 +16801,42 @@ cn_m10_2;Tank Destroyer
 cn_object_211_shop;211 (4 Hào) (63 Shì)
 cn_object_211_0;"<color=#81c3fc>Xīnán Chēliàng Zhìzào Chang</color>
 211 Shuilù Tankè
-<color=#adadad>(Yàng Chē 4 Hào) (1963 Nián Shì 85 Háomi Tankè Pào)</color>"
+<color=#adadad>(1963 Nián Shì 85 Háomi Tankè Pào)</color>
+<color=@currencyGoldColor>Yàngchē 4 Hào</color>"
 cn_object_211_1;211
 cn_object_211_2;Light Tank
 
 cn_pt_76_shop;␗ PT-76
-cn_pt_76_0;"<color=#81c3fc>Stalingratsk'ij traktornyj zavot im. F. E. Dz'erzhinskogo</color>
+cn_pt_76_0;"<color=#81c3fc>Stalingratsk'ij traktornyj zavot im. F. E. Dz'erzhinskovo</color>
 <color=#5cae63>Ob""yekt 740</color>
 ␗ PT-76 obr. 1953 g."
 cn_pt_76_1;␗ PT-76
 cn_pt_76_2;Light Tank
 
 cn_t_34_1942_shop;␗ Tè 34 (1942)
-cn_t_34_1942_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
+cn_t_34_1942_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot № 183</color>
 ␗ Tè 34 Zhōngxíng Tankè
 <color=#adadad>(1942)</color>"
 cn_t_34_1942_1;␗ Tè 34
 cn_t_34_1942_2;Medium Tank
 
 cn_t_34_85_d_5t_shop;␗ Tè 34 (1944)
-cn_t_34_85_d_5t_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
+cn_t_34_85_d_5t_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot № 183</color>
 ␗ Tè 34 Zhōngxíng Tankè
 <color=#adadad>(1944)</color>"
 cn_t_34_85_d_5t_1;␗ Tè 34 (1944)
 cn_t_34_85_d_5t_2;Medium Tank
 
 cn_type_58_shop;␗ Tè 34 (1960)
-cn_type_58_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) <color=@commonTextColor>/</color> Guóyíng Hā'ěrbīn Dì Yī
-Jīqì Zhìzào Chang (Guóyíng Dì 674 Chang)</color>
+cn_type_58_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot № 183 <color=@commonTextColor>/</color> Guóyíng Hā'ěrbīn Dì Yī Jīqì Zhìzào Chang
+(Guóyíng Dì 674 Chang)</color>
 ␗ Tè 34 Zhōngxíng Tankè
 <color=#adadad>(1960)</color>"
 cn_type_58_1;␗ Tè 34 (1960)
 cn_type_58_2;Medium Tank
 
 cn_t_34_85_zis_53_no215_shop;␗ Tè 34 (1944) (Tankè Dì 2 Shī)
-cn_t_34_85_zis_53_no215_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
+cn_t_34_85_zis_53_no215_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot № 183</color>
 ␗ Tè 34 Zhōngxíng Tankè
 <color=#adadad>(1944)</color>
 <color=@currencyGoldColor>Tankè Dì 2 Shī</color>"
@@ -16861,8 +16862,7 @@ cn_m55_1;☀ M55
 cn_m55_2;SPH
 
 cn_isu_152_shop;␗ ISU-152
-cn_isu_152_0;"<color=#81c3fc>Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo
-mašinostroyeniâ (VNII-100)</color>
+cn_isu_152_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ ISU-152 Zìxíng Huopào"
 cn_isu_152_1;␗ ISU-152
 cn_isu_152_2;SPG
@@ -16874,8 +16874,7 @@ cn_m36_1;☀ M36
 cn_m36_2;Tank Destroyer
 
 cn_isu_122_shop;␗ ISU-122
-cn_isu_122_0;"<color=#81c3fc>Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo
-mašinostroyeniâ (VNII-100)</color>
+cn_isu_122_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ ISU-122 Zìxíng Huopào"
 cn_isu_122_1;␗ ISU-122
 cn_isu_122_2;SPG
@@ -16926,21 +16925,21 @@ cn_type_62_1;ZTQ62
 cn_type_62_2;Light Tank
 
 cn_is_2_1943_shop;␗ Sī 2 (1943)
-cn_is_2_1943_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
+cn_is_2_1943_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ Sī 2 Zhòngxíng Tankè
 <color=#adadad>(1943)</color>"
 cn_is_2_1943_1;␗ Sī 2
 cn_is_2_1943_2;Heavy Tank
 
 cn_is_2_1944_shop;␗ Sī 2 (1944)
-cn_is_2_1944_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
+cn_is_2_1944_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ Sī 2 Zhòngxíng Tankè
 <color=#adadad>(1944)</color>"
 cn_is_2_1944_1;␗ Sī 2
 cn_is_2_1944_2;Heavy Tank
 
 cn_is_2_1943_no402_shop;␗ Sī 2 (1943) (Tankè Dì 3 Shī)
-cn_is_2_1943_no402_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
+cn_is_2_1943_no402_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ Sī 2 Zhòngxíng Tankè
 <color=#adadad>(1943)</color>
 <color=@currencyGoldColor>Tankè Dì 3 Shī</color>"
@@ -16964,7 +16963,7 @@ cn_zsl_92_1;ZSL92
 cn_zsl_92_2;Light Tank
 
 cn_su_100_1945_shop;␗ SU-100
-cn_su_100_1945_0;"<color=#81c3fc>Ural'skij zavod tâžëlogo mašinostroyeniâ im. S. Ordžonikidzye (UZTM)</color>
+cn_su_100_1945_0;"<color=#81c3fc>Ural'sk'ij zavot t'azhyologo mashinostroyeniya im. S. Ordzhonik'idz'e</color>
 ␗ SU-100 Zìxíng Huopào"
 cn_su_100_1945_1;␗ SU-100
 cn_su_100_1945_2;SPG
@@ -17214,7 +17213,7 @@ cn_type_69_2g_1;Ṭi-69 II
 cn_type_69_2g_2;Armored Tank
 
 cn_t_62_shop;␗ T-62 (57-go Po.)
-cn_t_62_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 520</color>
+cn_t_62_0;"<color=#81c3fc>Ural'sk'im vagonostroit'el'nym zavodom im. F. E. Dz'erzhinskovo</color>
 <color=#5cae63>Ob""yekt 166</color>
 ␗ T-62 obr. 1964 g.
 <color=@currencyGoldColor>57-go Pogranotryada</color>"
@@ -19069,9 +19068,10 @@ constructions aéronautiques</color>
 f-104g_belgium_1;▄ F-104G
 f-104g_belgium_2;▄ F-104
 
-nf_5a_netherlands_shop;◘ NF-5A
+nf_5a_netherlands_shop;◘ NF-5A (EOV)
 nf_5a_netherlands_0;"<color=#81c3fc>Northrop Corporation N-156 <color=@commonTextColor>/</color> Canadair CL-226-1A10</color>
-◘ NF-5A Freedom Fighter"
+◘ NF-5A Freedom Fighter
+<color=#adadad>(elektronische oorlogsvoering)</color>"
 nf_5a_netherlands_1;◘ NF-5A
 nf_5a_netherlands_2;◘ NF-5
 
@@ -21100,7 +21100,7 @@ sw_t_34_85_zis_53_1;31 psv. T 34/85
 sw_t_34_85_zis_53_2;Medium Tank
 
 sw_pt_76b_shop;▄ PT-76
-sw_pt_76b_0;"<color=#81c3fc>Stalingratsk'ij traktornyj zavot im. F. E. Dz'erzhinskogo</color>
+sw_pt_76b_0;"<color=#81c3fc>Stalingratsk'ij traktornyj zavot im. F. E. Dz'erzhinskovo</color>
 <color=#5cae63>Ps. 141</color>
 ▄ PT-76"
 sw_pt_76b_1;▄ PT-76

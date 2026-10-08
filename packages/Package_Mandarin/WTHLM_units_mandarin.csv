@@ -803,33 +803,35 @@ cn_m10_2;Tank Destroyer
 cn_object_211_shop;211 (4号) (63式)
 cn_object_211_0;"<color=#81c3fc>西南车辆制造厂</color>
 211水陆坦克
-<color=#adadad>(样车4号) (1963年式85毫米坦克炮)</color>"
+<color=#adadad>(1963年式85毫米坦克炮)</color>
+<color=@currencyGoldColor>样车4号</color>"
 cn_object_211_1;211
 cn_object_211_2;Light Tank
 
 cn_t_34_1942_shop;␗ 特34 (1942)
-cn_t_34_1942_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
+cn_t_34_1942_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot № 183</color>
 ␗ 特34中型坦克
 <color=#adadad>(1942)</color>"
 cn_t_34_1942_1;␗ 特34
 cn_t_34_1942_2;Medium Tank
 
 cn_t_34_85_d_5t_shop;␗ 特34 (1944)
-cn_t_34_85_d_5t_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
+cn_t_34_85_d_5t_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot № 183</color>
 ␗ 特34中型坦克
 <color=#adadad>(1944)</color>"
 cn_t_34_85_d_5t_1;␗ 特34 (1944)
 cn_t_34_85_d_5t_2;Medium Tank
 
 cn_type_58_shop;␗ 特34 (1960)
-cn_type_58_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) <color=@commonTextColor>/</color> 国营哈尔滨第一机器制造厂 (国营第六七四厂)</color>
+cn_type_58_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot № 183 <color=@commonTextColor>/</color> 国营哈尔滨第一机器制造厂
+(国营第六七四厂)</color>
 ␗ 特34中型坦克
 <color=#adadad>(1960)</color>"
 cn_type_58_1;␗ 特34 (1960)
 cn_type_58_2;Medium Tank
 
 cn_t_34_85_zis_53_no215_shop;␗ 特34 (1944) (战车第2师)
-cn_t_34_85_zis_53_no215_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
+cn_t_34_85_zis_53_no215_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot № 183</color>
 ␗ 特34中型坦克
 <color=#adadad>(1944)</color>
 <color=@currencyGoldColor>战车第2师</color>"
@@ -849,8 +851,7 @@ cn_m55_1;☀ M55
 cn_m55_2;SPH
 
 cn_isu_152_shop;␗ ISU-152
-cn_isu_152_0;"<color=#81c3fc>Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo
-mašinostroyeniâ (VNII-100)</color>
+cn_isu_152_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ ISU-152自行火砲"
 cn_isu_152_1;␗ ISU-152
 cn_isu_152_2;SPG
@@ -862,8 +863,7 @@ cn_m36_1;☀ M36
 cn_m36_2;SPG
 
 cn_isu_122_shop;␗ ISU-122
-cn_isu_122_0;"<color=#81c3fc>Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo
-mašinostroyeniâ (VNII-100)</color>
+cn_isu_122_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ ISU-122自行火砲"
 cn_isu_122_1;␗ ISU-122
 cn_isu_122_2;SPG
@@ -921,21 +921,21 @@ ussr_type_62_1;▂ ZTQ62
 ussr_type_62_2;Light Tank
 
 cn_is_2_1943_shop;␗ 斯2 (1943)
-cn_is_2_1943_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
+cn_is_2_1943_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ 斯2重型坦克
 <color=#adadad>(1943)</color>"
 cn_is_2_1943_1;␗ 斯2
 cn_is_2_1943_2;Heavy Tank
 
 cn_is_2_1944_shop;␗ 斯2 (1944)
-cn_is_2_1944_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
+cn_is_2_1944_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ 斯2重型坦克
 <color=#adadad>(1944)</color>"
 cn_is_2_1944_1;␗ 斯2
 cn_is_2_1944_2;Heavy Tank
 
 cn_is_2_1943_no402_shop;␗ 斯2 (1943) (坦克第3师)
-cn_is_2_1943_no402_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
+cn_is_2_1943_no402_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ 斯2重型坦克
 <color=#adadad>(1943)</color>
 <color=@currencyGoldColor>坦克第3师</color>"
@@ -959,7 +959,7 @@ cn_zsl_92_1;ZSL92
 cn_zsl_92_2;SPAAG
 
 cn_su_100_1945_shop;␗ SU-100
-cn_su_100_1945_0;"<color=#81c3fc>Ural'skij zavod tâžëlogo mašinostroyeniâ im. S. Ordžonikidzye (UZTM)</color>
+cn_su_100_1945_0;"<color=#81c3fc>Ural'sk'ij zavot t'azhyologo mashinostroyeniya im. S. Ordzhonik'idz'e</color>
 ␗ SU-100自行火砲"
 cn_su_100_1945_1;␗ SU-100
 cn_su_100_1945_2;SPG

@@ -25,16 +25,18 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Implemented the Swedish ground tree rework. This reworks every Swedish, Finnish, Danish, and Norwegian ground vehicle in the entire game.
-    - Reworked several Canadian vehicles and implemented a new Québécois French package for Canadian vehicles that uses their Québécois French designations.
+    - Reworked several Canadian ground vehicles and implemented a new Québécois French package for Canadian vehicles that uses their Québécois French designations.
+    - Several more formatting corrections for multiline statcards.
     - Added the new killstreak helicopters.
     - Revised the **AH-64E**s.
     - Revised the **H-34**s.
     - Revised the **Mi-4AV**.
-    - Corrected the manufacturer of the Chinese **PT-76**.
     - Corrected the manufacturer of the **IS-2M**.
     - Corrected the manufacturer name of the **Aquilon 203**.
     - Reworked all the **Vautour**s (no reason, just felt like it).
     - Reworked the **Narval**.
+    - Specified the modification for the **NF-5A**.
+    - Large pass on Russian manufacturers of Chinese vehicles.
 
 ### Weaponry:
 

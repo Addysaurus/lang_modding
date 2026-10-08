@@ -36,6 +36,39 @@
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+uk_cruiser_ram_1_shop;Ram, Mk. I
+uk_cruiser_ram_1_0;"<color=#81c3fc>Montreal Locomotive Works</color>
+Char de croisière Ram, Mk. I"
+uk_cruiser_ram_1_1;Ram, Mk. I
+uk_cruiser_ram_1_2;Medium Tank
+
+uk_m4a5_ram_2_shop;"Ram, Mk. II (CT39981)"
+uk_m4a5_ram_2_0;"<color=#81c3fc>Montreal Locomotive Works</color>
+Char de croisière Ram, Mk. II
+<color=@currencyGoldColor>CT39981</color>"
+uk_m4a5_ram_2_1;Ram, Mk. II
+uk_m4a5_ram_2_2;Medium Tank
+
+uk_ram_90mm_aa_shop;Ram, Mk. II (O.Q.F., 3.7-inch, Mk. II)
+uk_ram_90mm_aa_0;"<color=#81c3fc>Montreal Locomotive Works</color>
+Char de croisière Ram, Mk. II
+<color=#adadad>(Gun, O.Q.F., 3.7-inch, Mk. II)</color>"
+uk_ram_90mm_aa_1;Ram, Mk. II (3.7-inch)
+uk_ram_90mm_aa_2;SPG
+
+us_m4a5_ram_2_shop;"▃ Ram, Mk. II (CT39981)"
+us_m4a5_ram_2_0;"<color=#81c3fc>Montreal Locomotive Works</color>
+▃ Char de croisière Ram, Mk. II
+<color=@currencyGoldColor>CT39981</color>"
+us_m4a5_ram_2_1;▃ Ram, Mk. II
+us_m4a5_ram_2_2;Medium Tank
+
+us_m5a1_stuart_canadian_5st_arm_shop;▃ Stuart, Mk. VI (5th CAD)
+us_m5a1_stuart_canadian_5st_arm_0;"<color=#81c3fc>American Car and Foundry Company</color>
+▃ Char léger Stuart, Mk. VI
+<color=@currencyGoldColor>5th Canadian Armoured Division</color>"
+us_m5a1_stuart_canadian_5st_arm_1;▃ Stuart, Mk. VI
+us_m5a1_stuart_canadian_5st_arm_2;Light Tank
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 

@@ -25,7 +25,7 @@ All dates are listed in DD-MM-YYYY format.
 - #### Changes:
 
     - Implemented the Swedish ground tree rework. This reworks every Swedish, Finnish, Danish, and Norwegian ground vehicle in the entire game.
-    - Reworked several Canadian ground vehicles and implemented a new Québécois French package for Canadian vehicles that uses their Québécois French designations.
+    - Reworked Canadian ground vehicles and implemented a new Québécois French package for Canadian vehicles that uses their Québécois French designations.
     - Several more formatting corrections for multiline statcards.
     - Added the new killstreak helicopters.
     - Revised the **AH-64E**s.
@@ -37,12 +37,21 @@ All dates are listed in DD-MM-YYYY format.
     - Reworked the **Narval**.
     - Specified the modification for the **NF-5A**.
     - Large pass on Russian manufacturers of Chinese vehicles.
+    - Corrected the designation of the **Hornet**s.
+    - Updated the name of the Italian **PzH 2000**.
 
 ### Weaponry:
 
 - #### Changes:
 
     - **37 mm Psv.K/36 cannon** → **37 mm:n panssarivaunukanuuna mallia 1936**.
+    - **20 mm Polsten cannon** → **Gun, Machine, Polsten, 20 mm, Mk. I**.
+
+### Sensors:
+
+- #### Changes:
+
+    - Corrected the **APK-9** to not be listed as an agricultural product lmfaooo. How this even happened is beyond me.
 
 ## 1.19.01 - 03-10-2026
 

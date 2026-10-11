@@ -35,17 +35,24 @@ All dates are listed in DD-MM-YYYY format.
     - Corrected the manufacturer name of the **Aquilon 203**.
     - Reworked all the **Vautour**s (no reason, just felt like it).
     - Reworked the **Narval**.
+    - Reworked all the **M10**s and **M36**s.
     - Specified the modification for the **NF-5A**.
     - Large pass on Russian manufacturers of Chinese vehicles.
     - Corrected the designation of the **Hornet**s.
     - Updated the name of the Italian **PzH 2000**.
+    - Updated a bunch of Sherman manufacturers.
+    - Updated a bunch of other manufacturers to be more accurate to their legal registrations.
+    - Updated a bunch of vehicle's manufacturers to be accurate to who built them, rather than designed them.
+    - Reworked the Canadair **Sabre**s.
+    - **R2Y2-G** → **R2Y2-J**.
 
 ### Weaponry:
 
 - #### Changes:
 
-    - **37 mm Psv.K/36 cannon** → **37 mm:n panssarivaunukanuuna mallia 1936**.
     - **20 mm Polsten cannon** → **Gun, Machine, Polsten, 20 mm, Mk. I**.
+    - **37 mm Psv.K/36 cannon** → **37 mm:n panssarivaunukanuuna mallia 1936**.
+    - **Rifle, 106mm, M40A1** → **Cannone da 106 s.r. M40A1**.
 
 ### Sensors:
 

@@ -49,7 +49,7 @@ All dates are listed in DD-MM-YYYY format.
     - Revised the **A.M.X. 50t Surbaissé**.
     - Changed **2SZ1** and **ZSZU** to **2Sz1** and **ZSzU** respectively for Hungarian vehicles.
     - Corrected the French **Lancaster Mk. VII (WU)** (when I was removing the old file entries for the British rework, I deleted the French Lancaster from existence accidentally, it is fixed now).
-    - Corrected the display of the **Ki 96 (3 Gō)** in the Japanese poa
+    - Corrected the display of the **Ki 96 (3 Gō)** in the Japanese package.
 
 ### Weaponry:
 

@@ -19,6 +19,7 @@ shop/group/n1k2_group;N1K1-J甲 / 2-J / 2-J甲
 shop/group/ki_84_group;キ84-I甲 / 乙
 shop/group/j2m_group;J2M3 / 5
 shop/group/r2y2_group;R2Y2-J (一一型) / (二二型) / (三二型)
+shop/group/f_15j_group;▅ F-15J (C4) / (17中期防)
 shop/group/jp_ro_ni_group;ホロ / ニII
 shop/group/jp_ho_ni_group;ホニI / III
 shop/group/jp_chi_to_group;チト (二号) / チト
@@ -709,12 +710,12 @@ ki_67_1_otsu_0;"<color=#81c3fc>三菱重工業</color>
 ki_67_1_otsu_1;キ67-I
 ki_67_1_otsu_2;キ67
 
-ki-96_otsu_shop;キ96 (三号)
-ki-96_otsu_0;"<color=#81c3fc>川崎航空機工業</color>
+ki-96_shop;キ96 (三号)
+ki-96_0;"<color=#81c3fc>川崎航空機工業</color>
 キ96
-<color=#adadad>(試製三号)</color>"
-ki-96_otsu_1;キ96
-ki-96_otsu_2;キ96
+<color=@currencyGoldColor>試製三号</color>"
+ki-96_1;キ96
+ki-96_2;キ96
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 a7m1_shop;A7M1
@@ -809,14 +810,16 @@ j6k1_2;J6K
 kitsuka_shop;M7N1-J甲
 kitsuka_0;"<color=#81c3fc>中島飛行機</color>
 <color=#7ce68f>試製橘花改二一型甲</color>
-M7N1-J甲"
+M7N1-J甲
+<color=#ff546e>(五式三十粍固定機銃)</color>"
 kitsuka_1;M7N1
 kitsuka_2;M7N
 
 j8m1_shop;J8M1
 j8m1_0;"<color=#81c3fc>三菱重工業</color>
 <color=#7ce68f>試製秋水</color>
-J8M1"
+J8M1
+<color=#ff546e>(ホ155-I)</color>"
 j8m1_1;J8M1
 j8m1_2;J8M
 
@@ -913,15 +916,17 @@ f-4ej_kai_2;▅ F-4
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_15j_shop;▅ F-15J (C4)
-f_15j_0;"<color=#81c3fc>McDonnell Douglas Corporation <color=@commonTextColor>/</color> 三菱重工業</color>
+f_15j_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C <color=@commonTextColor>/</color> 三菱重工業</color>
 ▅ F-15J「イーグル」
 <color=#adadad>(C4ロット)</color>"
 f_15j_1;▅ F-15J
 f_15j_2;▅ F-15
 
-f_15j_kai_shop;▅ F-15J(M)
-f_15j_kai_0;"<color=#81c3fc>McDonnell Douglas Corporation <color=@commonTextColor>/</color> 三菱重工業</color>
-▅ F-15J(M)「イーグル」"
+f_15j_kai_shop;▅ F-15J (17中期防)
+f_15j_kai_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C <color=@commonTextColor>/</color> 三菱重工業</color>
+▅ F-15J「イーグル」
+<color=#adadad>(C7ロット) (中期防衛力整備計画 (平成17年度~平成21年度))</color>
+<color=#ff546e>(レーダー警戒装置J/APR-4)</color>"
 f_15j_kai_1;▅ F-15J
 f_15j_kai_2;▅ F-15
 
@@ -1323,7 +1328,7 @@ jp_type_5_ho_ri_production_shop;ホリ (fictional)
 jp_type_5_ho_ri_production_0;"<color=#81c3fc>三菱重工業東京機器製作所</color>
 <color=#7ce68f>試製新砲戦車 (甲)</color>
 ホリ
-<color=#adadad>(fictional)</color>"
+<color=#ff546e>(fictional)</color>"
 jp_type_5_ho_ri_production_1;ホリ
 jp_type_5_ho_ri_production_2;SPG
 

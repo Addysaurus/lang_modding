@@ -27,12 +27,11 @@ All dates are listed in DD-MM-YYYY format.
     - Implemented the Swedish ground tree rework. This reworks every Swedish, Finnish, Danish, and Norwegian ground vehicle in the entire game.
     - Reworked Canadian ground vehicles and implemented a new Québécois French package for Canadian vehicles that uses their Québécois French designations.
     - Several more formatting corrections for multiline statcards.
+    - Added a new multiline statcard color for ahistorical modifications. A bunch of vehicles have had ahistorical modifications specified in their statcards.
     - Added the new killstreak helicopters.
     - Revised the **AH-64E**s.
     - Revised the **H-34**s.
     - Revised the **Mi-4AV**.
-    - Corrected the manufacturer of the **IS-2M**.
-    - Corrected the manufacturer name of the **Aquilon 203**.
     - Reworked all the **Vautour**s (no reason, just felt like it).
     - Reworked the **Narval**.
     - Reworked all the **M10**s and **M36**s.
@@ -42,9 +41,15 @@ All dates are listed in DD-MM-YYYY format.
     - Updated the name of the Italian **PzH 2000**.
     - Updated a bunch of Sherman manufacturers.
     - Updated a bunch of other manufacturers to be more accurate to their legal registrations.
-    - Updated a bunch of vehicle's manufacturers to be accurate to who built them, rather than designed them.
+    - Updated a bunch of vehicle's manufacturers and manufacturer names to be accurate to who built them, rather than designed them (and also just corrected some of their dates).
     - Reworked the Canadair **Sabre**s.
     - **R2Y2-G** → **R2Y2-J**.
+    - **G 91 (pre-serie)** → **G 91 (preserie)**.
+    - Reworked the **F-15J**s (I hate working on the **F-15J** more than you could ever know, hopefully this is the end of it).
+    - Revised the **A.M.X. 50t Surbaissé**.
+    - Changed **2SZ1** and **ZSZU** to **2Sz1** and **ZSzU** respectively for Hungarian vehicles.
+    - Corrected the French **Lancaster Mk. VII (WU)** (when I was removing the old file entries for the British rework, I deleted the French Lancaster from existence accidentally, it is fixed now).
+    - Corrected the display of the **Ki 96 (3 Gō)** in the Japanese poa
 
 ### Weaponry:
 
@@ -53,6 +58,12 @@ All dates are listed in DD-MM-YYYY format.
     - **20 mm Polsten cannon** → **Gun, Machine, Polsten, 20 mm, Mk. I**.
     - **37 mm Psv.K/36 cannon** → **37 mm:n panssarivaunukanuuna mallia 1936**.
     - **Rifle, 106mm, M40A1** → **Cannone da 106 s.r. M40A1**.
+
+### Engines:
+
+- #### Changes:
+
+    - Corrected the nicknames of the **FWS10** engine family from "Tàixíng" to "Tàiháng".
 
 ### Sensors:
 

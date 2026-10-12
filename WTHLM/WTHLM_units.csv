@@ -1740,7 +1740,7 @@ shop/group/ki_84_group;Ki 84-I Kō / Otsu
 shop/group/j2m_group;J2M3 / 5
 shop/group/r2y2_group;R2Y2-J (11 Gata) / (22 Gata) / (32 Gata)
 shop/group/f-86_japan_group;▅ F-86F-30 / 40
-shop/group/f_15j_group;▅ F-15J (C4) / J(M)
+shop/group/f_15j_group;▅ F-15J (C4) / (17 Chūki Bō)
 shop/group/f_5_f_16_thailand_group;B.Kh.18Kh (2014) / 19
 shop/group/jp_cruiser_furutaka_aoba_group;Furutaka / Aoba
 
@@ -1799,7 +1799,7 @@ shop/group/re_2000_group;Re.2000 I / GA III
 shop/group/re_2001_group;Re.2001 I / CB I
 shop/group/p_108_group;P.108B I / II
 shop/group/g_55_serie_group;G.55 I / Re.2005
-shop/group/fiat_g91_group;G 91 (pre-serie) / R/1
+shop/group/fiat_g91_group;G 91 (preserie) / R/1
 shop/group/fiat_g91y_group;G 91 Y / YS
 shop/group/tornado_ids_it_group;A-200A (1995) / C (RET8)
 
@@ -3267,7 +3267,8 @@ douglas_a_1h_2;A-1H
 
 xf5u_1_shop;XF5U-1
 xf5u_1_0;"<color=#81c3fc>Vought-Sikorsky Aircraft</color>
-XF5U-1 ""Flying Flapjack"""
+XF5U-1 ""Flying Flapjack""
+<color=#ff546e>(Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed)</color>"
 xf5u_1_1;XF5U-1
 xf5u_1_2;XF5U
 
@@ -4616,7 +4617,7 @@ us_xm_800t_1;XM800T
 us_xm_800t_2;Light Tank
 
 us_stingray_shop;Stingray
-us_stingray_0;<color=#81c3fc>Cadillac Gage Stingray</color>
+us_stingray_0;<color=#81c3fc>Cadillac Gage Company Commando Stingray</color>
 us_stingray_1;Stingray
 us_stingray_2;Light Tank
 
@@ -4872,7 +4873,8 @@ us_losat_ccv_2;SPG
 us_ags_teledyne_shop;ASP (late) (EX 35)
 us_ags_teledyne_0;"<color=#81c3fc>Teledyne Continental Motors Armored Support Platform</color>
 <color=#ff8c80>Armored Gun System</color>
-<color=#adadad>(late) (Gun, 105mm, EX 35 MOD 0)</color>"
+<color=#adadad>(late)</color>
+<color=#ff546e>(Gun, 105mm, EX 35 MOD 0)</color>"
 us_ags_teledyne_1;ASP
 us_ags_teledyne_2;Light Tank
 
@@ -6720,7 +6722,7 @@ mi_24p_german_hfs80_2;◄ Mi-24P
 h145m_shop;◄ H145M LUH SOF (HForce)
 h145m_0;"<color=#81c3fc>Airbus Helicopters Deutschland H145M D2 </color>
 ◄ H145M Light Utility Helicopter Special Operations Forces
-<color=#adadad>(HForce)</color>"
+<color=#ff546e>(HForce)</color>"
 h145m_1;◄ H145M
 h145m_2;◄ H145
 
@@ -12955,7 +12957,7 @@ uk_isles_class_trawler_shop;HMS Orsay (J 450)
 uk_isles_class_trawler_0;"<color=#81c3fc>Cochrane & Sons</color>
 <color=#fffa62>Isles-class</color>
 HMS Orsay (J 450)
-<color=#adadad>(Gun, Q.F., 4-inch, Mk. V)</color>"
+<color=#ff546e>(Gun, Q.F., 4-inch, Mk. V)</color>"
 uk_isles_class_trawler_1;HMS Orsay
 uk_isles_class_trawler_2;Danlayer
 
@@ -14242,7 +14244,7 @@ p-51c-11-nt_japan_2;▅ P-51
 ki-96_shop;Ki 96 (3 Gō)
 ki-96_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
 Ki 96
-<color=#adadad>(Shisei 3 Gō)</color>"
+<color=@currencyGoldColor>Shisei 3 Gō</color>"
 ki-96_1;Ki 96
 ki-96_2;Ki 96
 
@@ -14352,14 +14354,16 @@ j6k1_2;J6K
 kitsuka_shop;M7N1-J Kō
 kitsuka_0;"<color=#81c3fc>Nakajima Hikōki</color>
 <color=#7ce68f>Shisei Kikka Kai 21 Gata Kō</color>
-M7N1-J Kō"
+M7N1-J Kō
+<color=#ff546e>(5 Shiki 30 Miri Kotei Kijū)</color>"
 kitsuka_1;M7N1
 kitsuka_2;M7N
 
 j8m1_shop;J8M1
 j8m1_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 <color=#7ce68f>Shisei Shūsui</color>
-J8M1"
+J8M1
+<color=#ff546e>(Ho 155-I)</color>"
 j8m1_1;J8M1
 j8m1_2;J8M
 
@@ -14547,15 +14551,18 @@ hawk_209_indonesia_2;◥ Hawk
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_15j_shop;▅ F-15J (C4)
-f_15j_0;"<color=#81c3fc>McDonnell Douglas Corporation <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+f_15j_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
 ▅ F-15J ""Īguru""
 <color=#adadad>(C4 Rotto)</color>"
 f_15j_1;▅ F-15J
 f_15j_2;▅ F-15
 
-f_15j_kai_shop;▅ F-15J(M)
-f_15j_kai_0;"<color=#81c3fc>McDonnell Douglas Corporation <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
-▅ F-15J(M) ""Īguru"""
+f_15j_kai_shop;▅ F-15J (17 Chūki Bō)
+f_15j_kai_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+▅ F-15J ""Īguru""
+<color=#adadad>(C7 Rotto)
+(Chūki Bōeiryoku Seibi Keikaku (Heisei 17 Nendo~Heisei 21 Nendo))</color>
+<color=#ff546e>(Rēdā Keikai Sōchi J/APR-4)</color>"
 f_15j_kai_1;▅ F-15J
 f_15j_kai_2;▅ F-15
 
@@ -14655,7 +14662,7 @@ ah_64d_japan_2;▅ AH-64
 ah_64e_indonesia_shop;◥ AH-64E (v4.5)
 ah_64e_indonesia_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
 ◥ Helicopter, Attack, AH-64E Guardian Apache
-<color=#adadad>(Capability Version 4.5)</color>"
+<color=#ff546e>(Capability Version 4.5)</color>"
 ah_64e_indonesia_1;◥ AH-64E
 ah_64e_indonesia_2;◥ AH-64
 
@@ -15006,7 +15013,7 @@ jp_type_5_ho_ri_production_shop;Ho Ri (fictional)
 jp_type_5_ho_ri_production_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Tōkyō Kiki Seisakusho</color>
 <color=#7ce68f>Shisei Shin Hō Sensha (Kō)</color>
 Ho Ri
-<color=#adadad>(fictional)</color>"
+<color=#ff546e>(fictional)</color>"
 jp_type_5_ho_ri_production_1;Ho Ri
 jp_type_5_ho_ri_production_2;SPG
 
@@ -15142,7 +15149,7 @@ jp_m60a3_tts_1;Th.Lak Em 60 E 3
 jp_m60a3_tts_2;MBT
 
 jp_stingray_shop;Th.Bao 32
-jp_stingray_0;"<color=#81c3fc>Cadillac Gage Stingray</color>
+jp_stingray_0;"<color=#81c3fc>Cadillac Gage Textron Commando Stingray</color>
 Rot Thang Bao 32"
 jp_stingray_1;Th.Bao 32
 jp_stingray_2;Light Tank
@@ -16661,7 +16668,7 @@ z_10a_2;Z10
 ah_64e_china_shop;☀ AH-64E (v4.5)
 ah_64e_china_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
 ☀ AH-64E Zhàndòu Zhíshēngjī
-<color=#adadad>(Capability Version 4.5)</color>"
+<color=#ff546e>(Capability Version 4.5)</color>"
 ah_64e_china_1;☀ AH-64E
 ah_64e_china_2;☀ AH-64
 
@@ -16793,7 +16800,7 @@ cn_m10_2;Tank Destroyer
 cn_object_211_shop;211 (4 Hào) (63 Shì)
 cn_object_211_0;"<color=#81c3fc>Xīnán Chēliàng Zhìzào Chang</color>
 211 Shuilù Tankè
-<color=#adadad>(1963 Nián Shì 85 Háomi Tankè Pào)</color>
+<color=#ff546e>(1963 Nián Shì 85 Háomi Tankè Pào)</color>
 <color=@currencyGoldColor>Yàngchē 4 Hào</color>"
 cn_object_211_1;211
 cn_object_211_2;Light Tank
@@ -17188,7 +17195,7 @@ cn_object_122tm_shop;1221 (302)
 cn_object_122tm_0;"<color=#81c3fc>Nèiménggu Dì Yī Jīxiè Chang</color>
 <color=#ff8c80>2 4 Huìzhàn Bàngōngshì</color>
 1221 Zhōngxíng Tankè
-<color=#adadad>(302 Fan Tankè Daodàn)</color>"
+<color=#ff546e>(302 Fan Tankè Daodàn)</color>"
 cn_object_122tm_1;1221
 cn_object_122tm_2;Medium Tank
 
@@ -17522,13 +17529,13 @@ iar_81c_db_605_2;I.A.R. 81
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 me_210ca_1_hungary_shop;◐ Me 210 Ca-1
-me_210ca_1_hungary_0;"<color=#81c3fc>Messerschmitt <color=@commonTextColor>/</color> Dunai Repülogépgyár</color>
+me_210ca_1_hungary_0;"<color=#81c3fc>Dunai Repülogépgyár</color>
 ◐ Me 210 Ca-1 nehéz vadászrepülőgép"
 me_210ca_1_hungary_1;◐ Me 210 Ca
 me_210ca_1_hungary_2;◐ Me 210
 
 me_210ca_1_40_mm_hungary_shop;◐ Me 210 Ca-1 (36 M.)
-me_210ca_1_40_mm_hungary_0;"<color=#81c3fc>Messerschmitt <color=@commonTextColor>/</color> Dunai Repülogépgyár</color>
+me_210ca_1_40_mm_hungary_0;"<color=#81c3fc>Dunai Repülogépgyár</color>
 ◐ Me 210 Ca-1 nehéz vadászrepülőgép
 <color=#adadad>(4 cm 36 M. légvédelmi gépágyú)</color>"
 me_210ca_1_40_mm_hungary_1;◐ Me 210 Ca
@@ -17599,7 +17606,7 @@ f-86_cl_13_mk4_italy_0;"<color=#81c3fc>Canadair CL-13</color>
 f-86_cl_13_mk4_italy_1;⛨ Sabre Mk. 4
 f-86_cl_13_mk4_italy_2;⛨ Sabre
 
-fiat_g91_ps_shop;G 91 (pre-serie)
+fiat_g91_ps_shop;G 91 (preserie)
 fiat_g91_ps_0;"<color=#81c3fc>Fiat Aviazione</color>
 G 91
 <color=#adadad>(pre-serie)</color>"
@@ -17985,10 +17992,10 @@ it_palmaria_0;<color=#81c3fc>OTO Melara Obice semovente Palmaria 155/41</color>
 it_palmaria_1;Palmaria
 it_palmaria_2;SPH
 
-it_2s1_shop;◔ 2SZ1
-it_2s1_0;"<color=#81c3fc>Kharkìvs'kij traktornij zavod (KhTZ)</color>
-◔ 122 mm-es 2SZ1 önjáró tarack ""Gvozgyika"""
-it_2s1_1;◔ 2SZ1
+it_2s1_shop;◔ 2Sz1
+it_2s1_0;"<color=#81c3fc>Kharkìvs'kij traktornij zavod</color>
+◔ 122 mm-es 2Sz1 önjáró tarack ""Gvozgyika"""
+it_2s1_1;◔ 2Sz1
 it_2s1_2;SPH
 
 it_pzkpfw_VI_ausf_e_tiger_shop;◐ Tiger E (spät)
@@ -18035,17 +18042,17 @@ it_leopard_1a5_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 it_leopard_1a5_1;⛨ Leopard 1 A5
 it_leopard_1a5_2;MBT
 
-it_zsu_57_2_shop;◔ ZSZU-57-2
+it_zsu_57_2_shop;◔ ZSzU-57-2
 it_zsu_57_2_0;"<color=#81c3fc>Omskij zavod № 174 im. Vorošilova</color>
-◔ 57 mm-es ZSZU-57-2 önjáró légvédelmi gépágyú ""Büszke"""
-it_zsu_57_2_1;◔ ZSZU-57-2
+◔ 57 mm-es ZSzU-57-2 önjáró légvédelmi gépágyú ""Büszke"""
+it_zsu_57_2_1;◔ ZSzU-57-2
 it_zsu_57_2_2;SPAAG
 
-it_zsu_23_4_shop;◔ ZSZU-23-4V
+it_zsu_23_4_shop;◔ ZSzU-23-4V
 it_zsu_23_4_0;"<color=#81c3fc>Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni
 mašinostroityel'nyj zavod</color>
-◔ 23 mm-es ZSZU-23-4V önjáró légvédelmi gépágyú ""Silka"""
-it_zsu_23_4_1;◔ ZSZU-23-4V
+◔ 23 mm-es ZSzU-23-4V önjáró légvédelmi gépágyú ""Silka"""
+it_zsu_23_4_1;◔ ZSzU-23-4V
 it_zsu_23_4_2;SPAAG
 
 it_pzh_2000_shop;⛨ PzH 2000 I
@@ -18129,19 +18136,19 @@ it_freccia_hitfist_ows_1;VBM Freccia C/C
 it_freccia_hitfist_ows_2;IFV
 
 it_leopard_2a4_shop;◔ Leopard 2A4HU
-it_leopard_2a4_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+it_leopard_2a4_0;"<color=#81c3fc>Krauss-Maffei</color>
 ◔ Leopard 2A4HU harckocsi"
 it_leopard_2a4_1;◔ Leopard 2A4
 it_leopard_2a4_2;MBT
 
 it_leopard_2a7_hungary_shop;◔ Leopard 2A7HU
-it_leopard_2a7_hungary_0;"<color=#81c3fc>KNDS</color>
+it_leopard_2a7_hungary_0;"<color=#81c3fc>KNDS Deutschland</color>
 ◔ Leopard 2A7HU harckocsi"
 it_leopard_2a7_hungary_1;◔ Leopard 2A7
 it_leopard_2a7_hungary_2;MBT
 
 it_kf_41_shop;◔ Lynx KF41
-it_kf_41_0;"<color=#81c3fc>Rheinmetall Lynx KF41 <color=@commonTextColor>/</color> Rheinmetall Hungary</color>
+it_kf_41_0;"<color=#81c3fc>Rheinmetall Hungary Lynx KF41</color>
 ◔ Lynx KF41 gyalogsági harcjármű ""Hiúz"""
 it_kf_41_1;◔ Lynx KF41
 it_kf_41_2;IFV
@@ -18892,6 +18899,13 @@ pb4y-2_france_0;"☨ PB4Y-2S
 pb4y-2_france_1;☨ PB4Y-2
 pb4y-2_france_2;☨ PB4Y
 
+lancaster_mr7_france_shop;Lancaster Mk. VII (WU)
+lancaster_mr7_france_0;"<color=#81c3fc>A.V. Roe and Company Type 683</color>
+Lancaster Mk. VII
+<color=#adadad>(Western Union)</color>"
+lancaster_mr7_france_1;Lancaster Mk. VII
+lancaster_mr7_france_2;Lancaster
+
 spitfire_fr_mk14e_belgium_shop;▄ Spitfire L.F. Mk. XIV (e)
 spitfire_fr_mk14e_belgium_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 379</color>
 ▄ Spitfire L.F. Mk. XIV (e)-vliegtuig"
@@ -19080,10 +19094,10 @@ Mirage 2000-5 F"
 mirage_2000_5f_1;Mirage 2000-5
 mirage_2000_5f_2;Mirage 2000
 
-mirage_2000d_r1_shop;Mirage 2000 D R1 (ECLAIR-M)
+mirage_2000d_r1_shop;Mirage 2000 D R1
 mirage_2000d_r1_0;"<color=#81c3fc>Dassault Aviation</color>
 Mirage 2000 D R1
-<color=#adadad>(ECLAIR-M)</color>"
+<color=#ff546e>(ECLAIR-M)</color>"
 mirage_2000d_r1_1;Mirage 2000 D
 mirage_2000d_r1_2;Mirage 2000
 
@@ -19712,10 +19726,11 @@ Char moyen de 50 tonnes A.M.X. avec tourelle T.O.A. 100"
 fr_amx_50_1;A.M.X. 50t
 fr_amx_50_2;Medium Tank
 
-fr_amx_50_surbaisse_shop;A.M.X. 50t Surbaissé
+fr_amx_50_surbaisse_shop;A.M.X. 50t B
 fr_amx_50_surbaisse_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
-Char moyen de 50 tonnes A.M.X. Surbaissé"
-fr_amx_50_surbaisse_1;A.M.X. 50t
+<color=#7ce68f>Char moyen de 50 tonnes A.M.X. Surbaissé</color>
+Char moyen de 50 tonnes B A.M.X."
+fr_amx_50_surbaisse_1;A.M.X. 50t B
 fr_amx_50_surbaisse_2;Medium Tank
 
 fr_amx_50_surblinde_shop;A.M.X. 50t Surblindé
@@ -20609,7 +20624,7 @@ saab_j29b_2;A 29
 saab_j29d_shop;J 29 D (alt. 2)
 saab_j29d_0;"<color=#81c3fc>Saab 29D</color>
 flygplan typ J 29 D Tunnan
-<color=#adadad>(alt. 2)</color>"
+<color=#ff546e>(alt. 2)</color>"
 saab_j29d_1;J 29 D
 saab_j29d_2;J 29
 
@@ -20967,7 +20982,8 @@ sw_pvkv_III_1;pvkv III
 sw_pvkv_III_2;SPG
 
 sw_lago_1_shop;Lago I
-sw_lago_1_0;<color=#81c3fc>Landsverk Lago I</color>
+sw_lago_1_0;"<color=#81c3fc>Landsverk Lago I</color>
+<color=#ff546e>(37 mm kanon m/38)</color>"
 sw_lago_1_1;Lago I
 sw_lago_1_2;Medium tank
 
@@ -22064,7 +22080,8 @@ il_centurion_mk_5_shot_2;MBT
 
 il_tcm_20_shop;Zaḥalad Ṣriḥon Du-Kani
 il_tcm_20_0;"<color=#81c3fc>White Motor Company</color>
-Zaḥeli Lemeḥeṣah Dizel Ṣriḥon Du-Kani 20 mm"
+Zaḥeli Lemeḥeṣah Dizel Ṣriḥon Du-Kani 20 mm
+<color=#ff546e>(White 160AX)</color>"
 il_tcm_20_1;Zaḥalad Ṣriḥon Du-Kani
 il_tcm_20_2;SPAAG
 

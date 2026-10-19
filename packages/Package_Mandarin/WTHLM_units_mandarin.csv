@@ -41,9 +41,9 @@ ki-27_otsu_china_0;"<color=#81c3fc>中島飛行機</color>
 ki-27_otsu_china_1;☀ 九七式戰乙
 ki-27_otsu_china_2;☀ 九七式戰
 
-ki_43_3_ko_shop;☀ 一式戰三型甲
-ki_43_3_ko_0;"<color=#81c3fc>中島飛行機 <color=@commonTextColor>/</color> 立川飛行機</color>
-☀ 一式戰鬥機三型甲「隼」"
+ki_43_3_ko_shop;☀ 一式戰三型
+ki_43_3_ko_0;"<color=#81c3fc>立川飛行機</color>
+☀ 一式戰鬥機三型「隼」"
 ki_43_3_ko_1;☀ 一式戰三型
 ki_43_3_ko_2;☀ 一式戰
 
@@ -441,7 +441,7 @@ q_5l_2;Q5
 
 mig-17_f5_shop;▆ F5
 mig-17_f5_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@commonTextColor>/</color> 国营松陵机械厂</color>
-▆ Chugyŏkgi 《F5》"
+▆ Chugyeoggi 《F5》"
 mig-17_f5_1;▆ F5
 mig-17_f5_2;▆ F5
 
@@ -748,7 +748,7 @@ cn_m5a1_stuart_1;☀ M5A1
 cn_m5a1_stuart_2;Light Tank
 
 cn_m24_chaffee_shop;☀ M24
-cn_m24_chaffee_0;"<color=#81c3fc>United States Army Ordnance Department <color=@commonTextColor>+</color> Cadillac Motor Car Division</color>
+cn_m24_chaffee_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ☀ M24戰車"
 cn_m24_chaffee_1;☀ M24
 cn_m24_chaffee_2;Light Tank
@@ -869,13 +869,14 @@ cn_isu_122_1;␗ ISU-122
 cn_isu_122_2;SPG
 
 cn_m41_a3_walker_bulldog_shop;☀ M41A3
-cn_m41_a3_walker_bulldog_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+cn_m41_a3_walker_bulldog_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ☀ M41A3戰車「華克猛犬」"
 cn_m41_a3_walker_bulldog_1;☀ M41A3
 cn_m41_a3_walker_bulldog_2;Light Tank
 
 cn_m_41d_shop;☀ M41D
-cn_m_41d_0;"<color=#81c3fc>Cadillac Motor Car Division <color=@commonTextColor>/</color> 陆军兵工整备发展中心</color>
+cn_m_41d_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division <color=@commonTextColor>/</color>
+陆军兵工整备发展中心</color>
 ☀ M41D戰車「華克猛犬」"
 cn_m_41d_1;☀ M41D
 cn_m_41d_2;Light Tank
@@ -942,13 +943,13 @@ cn_is_2_1943_no402_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 cn_is_2_1943_no402_1;␗ 斯2
 cn_is_2_1943_no402_2;Heavy Tank
 
-cn_zsd63_pg87_shop;ZSD63B (PG87)
+cn_zsd63_pg87_shop;ZSD63 (PG87)
 cn_zsd63_pg87_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
-<color=#5cae63>WZ531</color>
-<color=#919191>1963年2式履带装甲输送车</color>
-ZSD1963B式履带装甲输送车
+<color=#5cae63>WZ A531</color>
+<color=#919191>1963年式履带装甲输送车</color>
+ZSD1963式履带装甲输送车
 <color=#adadad>(PG1987式双管25毫米高射机关炮)</color>"
-cn_zsd63_pg87_1;ZSD63B (PG87)
+cn_zsd63_pg87_1;ZSD63 (PG87)
 cn_zsd63_pg87_2;Light Tank
 
 cn_zsl_92_shop;ZSL92
@@ -966,6 +967,7 @@ cn_su_100_1945_2;SPG
 
 cn_plz_83_shop;PLZ83
 cn_plz_83_0;"<color=#81c3fc>国营哈尔滨第一机器制造厂 (国营第六七四厂)</color>
+<color=#5cae63>WZ321</color>
 <color=#919191>1983年式152毫米自行加榴炮</color>
 PLZ1983式152毫米自行加榴炮"
 cn_plz_83_1;PLZ83

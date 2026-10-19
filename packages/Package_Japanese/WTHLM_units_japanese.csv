@@ -138,10 +138,11 @@ ki_43_2_late_0;"<color=#81c3fc>中島飛行機</color>
 ki_43_2_late_1;▃ キ43-II
 ki_43_2_late_2;▃ キ43
 
-ki_43_3_otsu_shop;キ43-III乙
-ki_43_3_otsu_0;"<color=#81c3fc>中島飛行機 <color=@commonTextColor>/</color> 立川飛行機</color>
-<color=#7ce68f>一式戦闘機三型乙</color>
-キ43-III乙「隼」"
+ki_43_3_otsu_shop;キ43-III (ホ5)
+ki_43_3_otsu_0;"<color=#81c3fc>立川飛行機</color>
+<color=#7ce68f>一式戦闘機三型</color>
+キ43-III「隼」
+<color=#adadad>(ホ5)</color>"
 ki_43_3_otsu_1;キ43-III
 ki_43_3_otsu_2;キ43
 
@@ -381,14 +382,16 @@ n1k1_ja_2;N1K
 
 n1k2_j_shop;N1K2-J
 n1k2_j_0;"<color=#81c3fc>川西航空機</color>
-<color=#7ce68f>紫電一二型</color>
+<color=#919191>紫電改</color>
+<color=#7ce68f>紫電二一型</color>
 N1K2-J"
 n1k2_j_1;N1K2
 n1k2_j_2;N1K
 
 n1k2_jko_shop;N1K2-J甲
 n1k2_jko_0;"<color=#81c3fc>川西航空機</color>
-<color=#7ce68f>紫電一二型甲</color>
+<color=#919191>紫電改</color>
+<color=#7ce68f>紫電二一型甲</color>
 N1K2-J甲"
 n1k2_jko_1;N1K2
 n1k2_jko_2;N1K
@@ -1179,7 +1182,7 @@ jp_type_95_so_ki_2;SPAAG
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 jp_m24_chaffee_shop;▅ M24
-jp_m24_chaffee_0;"<color=#81c3fc>Cadillac Motor Company</color>
+jp_m24_chaffee_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ▅ M24戦車「チャーフィー」"
 jp_m24_chaffee_1;▅ M24
 jp_m24_chaffee_2;Light Tank
@@ -1228,7 +1231,7 @@ jp_m44_1;▅ M44A1
 jp_m44_2;SPH
 
 jp_m19_shop;▅ M19A1
-jp_m19_0;"<color=#81c3fc>Cadillac Motor Company</color>
+jp_m19_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ▅ M19A1自走高射機関砲"
 jp_m19_1;▅ M19A1
 jp_m19_2;SPAAG
@@ -1247,7 +1250,7 @@ jp_m4a3e8_76w_sherman_1;▅ M4A3
 jp_m4a3e8_76w_sherman_2;Medium Tank
 
 jp_m41_walker_bulldog_shop;▅ M41A1
-jp_m41_walker_bulldog_0;"<color=#81c3fc>Cadillac Motor Company</color>
+jp_m41_walker_bulldog_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ▅ M41A1戦車「ウォーカー・ブルドッグ」"
 jp_m41_walker_bulldog_1;▅ M41A1
 jp_m41_walker_bulldog_2;Light Tank

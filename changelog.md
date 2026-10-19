@@ -41,7 +41,8 @@ All dates are listed in DD-MM-YYYY format.
     - Updated the name of the Italian **PzH 2000**.
     - Updated a bunch of Sherman manufacturers.
     - Updated a bunch of other manufacturers to be more accurate to their legal registrations.
-    - Updated a bunch of vehicle's manufacturers and manufacturer names to be accurate to who built them, rather than designed them (and also just corrected some of their dates).
+    - Updated a bunch of vehicle's manufacturers and manufacturer names to be accurate to who built them, rather than designed them (and also just corrected some of their dates). We are slowly moving the mod over to a new, unified manufacturer standard where we only list who built them, unless the designer of that variant also has an internal designation for it.
+    - Moved all Soviet/Russian manufacturers of Hungarian vehicles over to the new Russian transliteration system.
     - Reworked the Canadair **Sabre**s.
     - **R2Y2-G** → **R2Y2-J**.
     - **G 91 (pre-serie)** → **G 91 (preserie)**.
@@ -50,6 +51,13 @@ All dates are listed in DD-MM-YYYY format.
     - Changed **2SZ1** and **ZSZU** to **2Sz1** and **ZSzU** respectively for Hungarian vehicles.
     - Corrected the French **Lancaster Mk. VII (WU)** (when I was removing the old file entries for the British rework, I deleted the French Lancaster from existence accidentally, it is fixed now).
     - Corrected the display of the **Ki 96 (3 Gō)** in the Japanese package.
+    - Corrected the transliteration of the North Korean **F5** in the Mandarin packages.
+    - Added the missing WZ index to the **PLZ83**.
+    - Revised the **ZSD63 (PG87)**.
+    - Reworked all the **Gepard**s.
+    - Updated the unit name for the **Leopard 2A4 NL (OTCo)** to the **Leopard 2A4 NL (OTCRij)**.
+    - Corrected the model numbers of the **N1K2-J**s.
+    - Removed the Jia and Otsu variant designators from the Chinese and Japanese **Ki 43-III**s and updated their manufacturers.
 
 ### Weaponry:
 
@@ -58,6 +66,7 @@ All dates are listed in DD-MM-YYYY format.
     - **20 mm Polsten cannon** → **Gun, Machine, Polsten, 20 mm, Mk. I**.
     - **37 mm Psv.K/36 cannon** → **37 mm:n panssarivaunukanuuna mallia 1936**.
     - **Rifle, 106mm, M40A1** → **Cannone da 106 s.r. M40A1**.
+    - Corrected the caliber tag color display for the **SU-100M**'s **M-63** cannon.
 
 ### Engines:
 

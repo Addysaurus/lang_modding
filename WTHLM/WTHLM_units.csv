@@ -1519,7 +1519,7 @@ shop/group/germ_leopard_2_group;KPz Leopard 2 A5 / A6
 shop/group/germ_flakpanzer_1_group;Pz.Kpfw. I A (2cm Fla.K. 38) / Flak.Pz. 38
 shop/group/germ_flakpanzer_4_group;Ostwind / Wirbelwind
 shop/group/germ_tiger_east_west_group;"""Two Fronts"""
-shop/group/germ_wiesel_gepard_group;Ozelot / Gepard 1 A2
+shop/group/germ_wiesel_gepard_group;Ozelot / FlakPz 1 A2 Gepard
 shop/group/germ_sturmpanzer_221_group;15cm s.I.G. 33 (Sfl) / Sd.Kfz. 221
 shop/group/germ_panzerjager_251_group;Pz.Jgr. I / m.S.P.W. D (7,5cm K.)
 shop/group/germ_marder_stug_a_group;Marder III / StuG III A
@@ -1666,8 +1666,8 @@ shop/group/uk_kit_3rank_group;"""Echoes of Overlord"""
 shop/group/uk_marksman_za_group;Chieftain Mk. 10 Marksman / ZA-35
 shop/group/uk_ratel_group;Ratel 90 / 20
 shop/group/uk_g6_eland_group;GV6 Mk 1 / Eland 90
-shop/group/uk_rooikat_olifant_group;Rooikat / Olifant Mk1
-shop/group/uk_mttd_olifant_group;MTTD / Olifant Mk2
+shop/group/uk_rooikat_olifant_group;Rooikat / Olifant Mk 1A
+shop/group/uk_mttd_olifant_group;MTTD / Olifant Mk 2
 shop/group/uk_stormer_group;Stormer / F.V.4333 (HVM)
 shop/group/uk_9a33_35_group;☸ 9A33BM2 / 35M
 shop/group/uk_stormer_9a33_group;Stormer / ☸ Osā-Eke
@@ -3556,13 +3556,15 @@ f-5e_2;F-5
 
 f-5c_shop;F-5C-NO
 f-5c_0;"<color=#81c3fc>Northrop Corporation N-156F</color>
-F-5C-NO Skoshi Tiger"
+F-5C-NO Skoshi Tiger
+<color=#ff546e>(Dispensing Set, Countermeasures, AN/ALE-40)</color>"
 f-5c_1;F-5C
 f-5c_2;F-5
 
 f-5a_shop;YF-5A-NO
 f-5a_0;"<color=#81c3fc>Northrop Corporation N-156F</color>
-YF-5A-NO Freedom Fighter"
+YF-5A-NO Freedom Fighter
+<color=#ff546e>(Dispensing Set, Countermeasures, AN/ALE-40)</color>"
 f-5a_1;YF-5A-NO
 f-5a_2;YF-5
 
@@ -4465,7 +4467,7 @@ us_t29_1;T29
 us_t29_2;Heavy Tank
 
 us_m551_76_shop;M551 (M32A1)
-us_m551_76_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+us_m551_76_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 <color=#5cae63>G-310</color>
 Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 76mm
 Gun, M551 Sheridan"
@@ -4473,7 +4475,7 @@ us_m551_76_1;M551 (M32A1)
 us_m551_76_2;Light Tank
 
 us_m551_shop;M551
-us_m551_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+us_m551_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 <color=#5cae63>G-310</color>
 Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked:
 152mm Gun-Launcher, M551 Sheridan"
@@ -6656,7 +6658,7 @@ fa_18c_switzerland_2;◌ F/A18
 ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
 ef_2000_block_10_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10)</color>
 ◄ Eurofighter
-<color=#adadad>(Phase 3 Enhancement A)</color>"
+<color=#ff546e>(Phase 3 Enhancement A)</color>"
 ef_2000_block_10_1;◄ Eurofighter
 ef_2000_block_10_2;◄ Eurofighter
 
@@ -7235,7 +7237,7 @@ germ_pzkpfw_VI_tiger_P_2;Heavy Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 germ_le_kpz_m41_shop;◄ KPz M 41 (1965)
-germ_le_kpz_m41_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+germ_le_kpz_m41_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ◄ leichter Kampfpanzer M 41
 <color=#adadad>(1965)</color>"
 germ_le_kpz_m41_1;◄ M 41
@@ -7365,6 +7367,20 @@ germ_begleitpanzer_57_shop;Begleit-Pz 57 mm
 germ_begleitpanzer_57_0;<color=#81c3fc>Thyssen Henschel <color=@commonTextColor>+</color> Bofors Begleitpanzer 57 mm</color>
 germ_begleitpanzer_57_1;Begleit-Pz 57 mm
 germ_begleitpanzer_57_2;IFV
+
+germ_flakpz_I_Gepard_shop;FlakPz 1 Gepard (B2)
+germ_flakpz_I_Gepard_0;"<color=#81c3fc>Oerlikon GDP-B03 <color=@commonTextColor>/</color> Krauss-Maffei <color=@commonTextColor>/</color> Krauss-Maffei Wegmann</color>
+Flugabwehrkanonenpanzer 1 Gepard
+<color=#adadad>(B2)</color>"
+germ_flakpz_I_Gepard_1;FlakPz 1 Gepard
+germ_flakpz_I_Gepard_2;SPAAG
+
+germ_flakpz_1a2_Gepard_shop;FlakPz 1 A2 Gepard (LFK Stinger)
+germ_flakpz_1a2_Gepard_0;"<color=#81c3fc>Oerlikon GDP-B03 <color=@commonTextColor>/</color> Krauss-Maffei <color=@commonTextColor>/</color> Krauss-Maffei Wegmann</color>
+Flugabwehrkanonenpanzer 1 A2 Gepard
+<color=#adadad>(Lenkflugkörper Stinger)</color>"
+germ_flakpz_1a2_Gepard_1;FlakPz 1 A2 Gepard
+germ_flakpz_1a2_Gepard_2;SPAAG
 
 germ_jaguar_2_shop;RakJPz 4 Jaguar 2
 germ_jaguar_2_0;"<color=#81c3fc>Thyssen Henschel</color>
@@ -13657,10 +13673,11 @@ Ki 43-II ""Hayabusa""
 ki_43_2_1;Ki 43-II
 ki_43_2_2;Ki 43
 
-ki_43_3_otsu_shop;Ki 43-III Otsu
-ki_43_3_otsu_0;"<color=#81c3fc>Nakajima Hikōki <color=@commonTextColor>/</color> Tachikawa Hikōki</color>
-<color=#7ce68f>1 Shiki Sentōki 3 Gata Otsu</color>
-Ki 43-III Otsu ""Hayabusa"""
+ki_43_3_otsu_shop;Ki 43-III (Ho 5)
+ki_43_3_otsu_0;"<color=#81c3fc>Tachikawa Hikōki</color>
+<color=#7ce68f>1 Shiki Sentōki 3 Gata</color>
+Ki 43-III Otsu ""Hayabusa""
+<color=#adadad>(Ho 5)</color>"
 ki_43_3_otsu_1;Ki 43-III
 ki_43_3_otsu_2;Ki 43
 
@@ -13900,14 +13917,16 @@ n1k1_ja_2;N1K
 
 n1k2_j_shop;N1K2-J
 n1k2_j_0;"<color=#81c3fc>Kawanishi Kōkūki</color>
-<color=#7ce68f>Shiden 12 Gata</color>
+<color=#919191>Shiden Kai</color>
+<color=#7ce68f>Shiden 21 Gata</color>
 N1K2-J"
 n1k2_j_1;N1K2
 n1k2_j_2;
 
 n1k2_jko_shop;N1K2-J Kō
 n1k2_jko_0;"<color=#81c3fc>Kawanishi Kōkūki</color>
-<color=#7ce68f>Shiden 12 Gata Kō</color>
+<color=#919191>Shiden Kai</color>
+<color=#7ce68f>Shiden 21 Gata Kō</color>
 N1K2-J Kō"
 n1k2_jko_1;N1K2
 n1k2_jko_2;N1K
@@ -14849,7 +14868,7 @@ jp_type_95_so_ki_2;SPAAG
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 jp_m24_chaffee_shop;▅ M24
-jp_m24_chaffee_0;"<color=#81c3fc>Cadillac Motor Company</color>
+jp_m24_chaffee_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ▅ M24 Sensha ""Chāfī"""
 jp_m24_chaffee_1;▅ M24
 jp_m24_chaffee_2;Light Tank
@@ -14898,7 +14917,7 @@ jp_m44_1;▅ M44A1
 jp_m44_2;SPH
 
 jp_m19_shop;▅ M19A1
-jp_m19_0;"<color=#81c3fc>Cadillac Motor Company</color>
+jp_m19_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ▅ M19A1 Jisō Kōsha Kikan Hō"
 jp_m19_1;▅ M19A1
 jp_m19_2;SPAA
@@ -14917,7 +14936,7 @@ jp_m4a3e8_76w_sherman_1;▅ M4A3
 jp_m4a3e8_76w_sherman_2;Medium Tank
 
 jp_m41_walker_bulldog_shop;▅ M41A1
-jp_m41_walker_bulldog_0;"<color=#81c3fc>Cadillac Motor Company</color>
+jp_m41_walker_bulldog_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ▅ M41A1 Sensha ""Wōkā Burudoggu"""
 jp_m41_walker_bulldog_1;▅ M41A1
 jp_m41_walker_bulldog_2;Light Tank
@@ -16033,9 +16052,9 @@ ki-27_otsu_china_0;"<color=#81c3fc>Nakajima Hikōki</color>
 ki-27_otsu_china_1;☀ 97 Shì Zhàn Yi
 ki-27_otsu_china_2;☀ 97 Shì Zhàn
 
-ki_43_3_ko_shop;☀ 1 Shì Zhàn 3 Xíng Jia
-ki_43_3_ko_0;"<color=#81c3fc>Nakajima Hikōki</color>
-☀ 1 Shì Zhàndòujī 3 Xíng Jia ""Sun"""
+ki_43_3_ko_shop;☀ 1 Shì Zhàn 3 Xíng
+ki_43_3_ko_0;"<color=#81c3fc>Tachikawa Hikōki</color>
+☀ 1 Shì Zhàndòujī 3 Xíng ""Sun"""
 ki_43_3_ko_1;☀ 1 Shì Zhàn 3 Xíng
 ki_43_3_ko_2;☀ 1 Shì Zhàn
 
@@ -16450,7 +16469,7 @@ q_5l_2;Q5
 
 mig-17_f5_shop;▆ F5
 mig-17_f5_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè Chang</color>
-▆ Chugyeokgi 《F5》"
+▆ Chugyeoggi 《F5》"
 mig-17_f5_1;▆ F5
 mig-17_f5_2;▆ F5
 
@@ -16752,7 +16771,7 @@ cn_m5a1_stuart_1;☀ M5A1
 cn_m5a1_stuart_2;Light Tank
 
 cn_m24_chaffee_shop;☀ M24
-cn_m24_chaffee_0;"<color=#81c3fc>United States Army Ordnance Department <color=@commonTextColor>+</color> Cadillac Motor Car Division</color>
+cn_m24_chaffee_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ☀ M24 Zhànchē"
 cn_m24_chaffee_1;☀ M24
 cn_m24_chaffee_2;Light Tank
@@ -16879,14 +16898,14 @@ cn_isu_122_1;␗ ISU-122
 cn_isu_122_2;SPG
 
 cn_m41_a3_walker_bulldog_shop;☀ M41A3
-cn_m41_a3_walker_bulldog_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+cn_m41_a3_walker_bulldog_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ☀ M41A3 Zhànchē ""Huákè Mengquan"""
 cn_m41_a3_walker_bulldog_1;☀ M41
 cn_m41_a3_walker_bulldog_2;Light Tank
 
 cn_m_41d_shop;☀ M41D
-cn_m_41d_0;"<color=#81c3fc>Cadillac Motor Car Division <color=@commonTextColor>/</color> Lùjūn Bīng Gōng Zhěngbèi Fāzhan
-Zhōngxīn</color>
+cn_m_41d_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division <color=@commonTextColor>/</color> Lùjūn Bīng
+Gōng Zhěngbèi Fāzhan Zhōngxīn</color>
 ☀ M41D Zhànchē ""Huákè Mengquan"""
 cn_m_41d_1;☀ M41D
 cn_m_41d_2;Light Tank
@@ -16945,13 +16964,13 @@ cn_is_2_1943_no402_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 cn_is_2_1943_no402_1;␗ Sī 2
 cn_is_2_1943_no402_2;Heavy Tank
 
-cn_zsd63_pg87_shop;ZSD63B (PG87)
+cn_zsd63_pg87_shop;ZSD63 (PG87)
 cn_zsd63_pg87_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
-<color=#5cae63>WZ531</color>
-<color=#919191>1963 Nián 2 Shì Lüdài Zhuāngjia Shūsòng Chē</color>
-ZSD1963B Shì Lüdài Zhuāngjia Shūsòng Chē
+<color=#5cae63>WZ A531</color>
+<color=#919191>1963 Nián Shì Lüdài Zhuāngjia Shūsòng Chē</color>
+ZSD1963 Shì Lüdài Zhuāngjia Shūsòng Chē
 <color=#adadad>(PG1987 Shì Shuāng Guan 25 Háomi Gāoshè Jīguān Pào)</color>"
-cn_zsd63_pg87_1;ZSD63B (PG87)
+cn_zsd63_pg87_1;ZSD63 (PG87)
 cn_zsd63_pg87_2;SPAAG
 
 cn_zsl_92_shop;ZSL92
@@ -16969,6 +16988,7 @@ cn_su_100_1945_2;SPG
 
 cn_plz_83_shop;PLZ83
 cn_plz_83_0;"<color=#81c3fc>Guóyíng Hā'ěrbīn Dì Yī Jīqì Zhìzào Chang (Guóyíng Dì 674 Chang)</color>
+<color=#5cae63>WZ321</color>
 <color=#919191>1983 Nián Shì 155 Háomi Zìxíng Jiā Liúpào</color>
 PLZ1983 Shì 155 Háomi Zìxíng Jiā Liúpào"
 cn_plz_83_1;PLZ83
@@ -17561,20 +17581,20 @@ bf-109g-2_hungary_2;◐ Bf 109
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 il-10_1946_hungary_shop;◔ Il-10 (1947)
-il-10_1946_hungary_0;"<color=#81c3fc>Zavod № 18</color>
+il-10_1946_hungary_0;"<color=#81c3fc>Zavot № 18</color>
 ◔Il-10 Párduc repülőgép
 <color=#adadad>(1947)</color>"
 il-10_1946_hungary_1;◔ Il-10
 il-10_1946_hungary_2;◔ Il-10
 
 tu-2_postwar_late_hungary_shop;◔ Tu-2Sz-59
-tu-2_postwar_late_hungary_0;"<color=#81c3fc>Aviaczionnyj zavod № 23</color>
+tu-2_postwar_late_hungary_0;"<color=#81c3fc>Av'iatsionnyj zavot № 23</color>
 ◔ Tu-2Sz széria 59 repülőgép"
 tu-2_postwar_late_hungary_1;◔ Tu-2Sz
 tu-2_postwar_late_hungary_2;◔ Tu-2
 
 yak-9p_hungary_shop;◔ Jak-9P
-yak-9p_hungary_0;"<color=#81c3fc>Zavod № 153</color>
+yak-9p_hungary_0;"<color=#81c3fc>Zavot № 153</color>
 ◔ Jak-9P repülőgép"
 yak-9p_hungary_1;◔ Jak-9P
 yak-9p_hungary_2;◔ Jak-9P
@@ -17648,20 +17668,20 @@ mb_326b_1;MB-326B
 mb_326b_2;MB-326
 
 il_28_hungary_shop;◔ Il-28
-il_28_hungary_0;"<color=#81c3fc>Aviaczionnyj zavod № 30</color>
+il_28_hungary_0;"<color=#81c3fc>Av'iatsionnyj zavot № 30</color>
 ◔ Il-28 repülőgép"
 il_28_hungary_1;◔ Il-28
 il_28_hungary_2;◔ Il-28
 
 mig-15bis_nr23_hungary_shop;◔ MiG-15Bisz
-mig-15bis_nr23_hungary_0;"<color=#81c3fc>Aviaczionnyj zavod № 153 SD</color>
+mig-15bis_nr23_hungary_0;"<color=#81c3fc>Av'iatsionnyj zavot № 153 SD</color>
 ◔ MiG-15Bisz repülőgép"
 mig-15bis_nr23_hungary_1;◔ MiG-15Bisz
 mig-15bis_nr23_hungary_2;◔ MiG-15
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 mig-17pf_hungary_shop;◔ MiG-17PF
-mig-17pf_hungary_0;"<color=#81c3fc>Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye</color>
+mig-17pf_hungary_0;"<color=#81c3fc>Gor'kofsk'ij av'iatsionnyj zavot im. S. Ordzhonik'idz'e</color>
 ◔ MiG-17PF repülőgép"
 mig-17pf_hungary_1;◔ MiG-17PF
 mig-17pf_hungary_2;◔ MiG-17
@@ -17708,25 +17728,25 @@ tornado_ids_it_ret8_1;A-200C
 tornado_ids_it_ret8_2;A-200
 
 su_22m3_hungary_shop;◔ Szu-22M3
-su_22m3_hungary_0;"<color=#81c3fc>Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina</color>
+su_22m3_hungary_0;"<color=#81c3fc>Komsomol'sk'ij-na-Amurye av'iatsionnyj zavot im. Yu. A. Gagarina</color>
 ◔ Szu-22M3 repülőgép"
 su_22m3_hungary_1;◔ Szu-22M
 su_22m3_hungary_2;◔ Szu-22
 
 mig-21_mf_hungary_shop;◔ MiG-21MF
-mig-21_mf_hungary_0;"<color=#81c3fc>Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye</color>
+mig-21_mf_hungary_0;"<color=#81c3fc>Gor'kofsk'ij av'iatsionnyj zavot im. S. Ordzhonik'idz'e</color>
 ◔ MiG-21MF repülőgép"
 mig-21_mf_hungary_1;◔ MiG-21MF
 mig-21_mf_hungary_2;◔ MiG-21
 
 mig-21_bis_sau_hungary_shop;◔ MiG-21Bisz
-mig-21_bis_sau_hungary_0;"<color=#81c3fc>Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye</color>
+mig-21_bis_sau_hungary_0;"<color=#81c3fc>Gor'kofsk'ij av'iatsionnyj zavot im. S. Ordzhonik'idz'e</color>
 ◔ MiG-21Bisz repülőgép"
 mig-21_bis_sau_hungary_1;◔ MiG-21Bisz
 mig-21_bis_sau_hungary_2;◔ MiG-21
 
 mig_23mf_hungary_shop;◔ MiG-23MF
-mig_23mf_hungary_0;"<color=#81c3fc>Moskovskij mašinostroityel'nyj zavod «Znamâ Truda»</color>
+mig_23mf_hungary_0;"<color=#81c3fc>Moskofsk'ij mashinostroit'el'nyj zavot «Znamya Truda»</color>
 ◔ MiG-23MF repülőgép"
 mig_23mf_hungary_1;◔ MiG-23MF
 mig_23mf_hungary_2;◔ MiG-23
@@ -17750,7 +17770,7 @@ m_346fa_1;M-346FA
 m_346fa_2;M-346
 
 mig_29_9_12b_hungary_shop;◔ MiG-29
-mig_29_9_12b_hungary_0;"<color=#81c3fc>Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol»</color>
+mig_29_9_12b_hungary_0;"<color=#81c3fc>Nizhyegorotsk'ij gosudarzdv'ennyj av'iatsionnyj zavot «Sokol»</color>
 ◔ MiG-29 Fulcrum-A repülőgép"
 mig_29_9_12b_hungary_1;◔ MiG-29
 mig_29_9_12b_hungary_2;◔ MiG-29
@@ -17770,14 +17790,14 @@ saab_jas39c_hungary_2;◔ JAS 39
 ef_2000a_shop;⛨ F-2000A (P3Ea)
 ef_2000a_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15)</color>
 ⛨ F-2000A
-<color=#adadad>(Phase 3 Enhancement A)</color>"
+<color=#ff546e>(Phase 3 Enhancement A)</color>"
 ef_2000a_1;⛨ F-2000A
 ef_2000a_2;⛨ F-2000
 
 ef_2000a_aesa_shop;⛨ F-2000A (ECRS Mk2)
 ef_2000a_aesa_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15)</color>
 ⛨ F-2000A Typhoon
-<color=#adadad>(ECRS Mk2)</color>"
+<color=#ff546e>(ECRS Mk2)</color>"
 ef_2000a_aesa_1;⛨ F-2000A
 ef_2000a_aesa_2;⛨ F-2000
 
@@ -17789,21 +17809,21 @@ ab_205a_1_1;UH-205A
 ab_205a_1_2;UH-205
 
 mi_24d_hungary_shop;◔ Mi-24D
-mi_24d_hungary_0;"<color=#81c3fc>Aviaryemontnyj zavod № 116</color>
+mi_24d_hungary_0;"<color=#81c3fc>Av'iaryemontnyj zavot № 116</color>
 ◔ Mi-24D helikopter"
 mi_24d_hungary_1;◔ Mi-24D
 mi_24d_hungary_2;◔ Mi-24
 
 mi_24p_hungary_shop;◔ Mi-24P
-mi_24p_hungary_0;"<color=#81c3fc>Aviaczionnaâ proizvodstvyennaâ ob""yedinyeniye «Progryess» im.
-N. I. Sazykina</color>
+mi_24p_hungary_0;"<color=#81c3fc>Av'iatsionnaya proizvodzdv'ennaya ob""yed'inyeniye «Progryess» im. N. I.
+Sazyk'ina</color>
 ◔ Mi-24P helikopter"
 mi_24p_hungary_1;◔ Mi-24P
 mi_24p_hungary_2;◔ Mi-24
 
 mi_24v_hungary_shop;◔ Mi-24V
-mi_24v_hungary_0;"<color=#81c3fc>Aviaczionnaâ proizvodstvyennaâ ob""yedinyeniye «Progryess» im.
-N. I. Sazykina</color>
+mi_24v_hungary_0;"<color=#81c3fc>Av'iatsionnaya proizvodzdv'ennaya ob""yed'inyeniye «Progryess» im. N. I.
+Sazyk'ina</color>
 ◔ Mi-24V helikopter"
 mi_24v_hungary_1;◔ Mi-24V
 mi_24v_hungary_2;◔ Mi-24
@@ -17867,7 +17887,7 @@ it_39m_csaba_1;39 M. Csaba
 it_39m_csaba_2;Armored Car
 
 it_toldi_II_a_shop;38 M. Toldi B 40 k. hk.
-it_toldi_II_a_0;"<color=#81c3fc>Landsverk <color=@commonTextColor>/</color> Magyar Királyi Állami Vas-, Acél- és Gépgyárak</color>
+it_toldi_II_a_0;"<color=#81c3fc>Landsverk L-60Ö <color=@commonTextColor>/</color> Magyar Királyi Állami Vas-, Acél- és Gépgyárak</color>
 38 M. Toldi B 40 könnyű harckocsi"
 it_toldi_II_a_1;38 M. Toldi
 it_toldi_II_a_2;Light Tank
@@ -17993,7 +18013,7 @@ it_palmaria_1;Palmaria
 it_palmaria_2;SPH
 
 it_2s1_shop;◔ 2Sz1
-it_2s1_0;"<color=#81c3fc>Kharkìvs'kij traktornij zavod</color>
+it_2s1_0;"<color=#81c3fc>Kharkіfs'k'ij traktornij zavot</color>
 ◔ 122 mm-es 2Sz1 önjáró tarack ""Gvozgyika"""
 it_2s1_1;◔ 2Sz1
 it_2s1_2;SPH
@@ -18043,14 +18063,14 @@ it_leopard_1a5_1;⛨ Leopard 1 A5
 it_leopard_1a5_2;MBT
 
 it_zsu_57_2_shop;◔ ZSzU-57-2
-it_zsu_57_2_0;"<color=#81c3fc>Omskij zavod № 174 im. Vorošilova</color>
+it_zsu_57_2_0;"<color=#81c3fc>Omsk'ij zavot № 174 im. Voroshilova</color>
 ◔ 57 mm-es ZSzU-57-2 önjáró légvédelmi gépágyú ""Büszke"""
 it_zsu_57_2_1;◔ ZSzU-57-2
 it_zsu_57_2_2;SPAAG
 
 it_zsu_23_4_shop;◔ ZSzU-23-4V
-it_zsu_23_4_0;"<color=#81c3fc>Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni
-mašinostroityel'nyj zavod</color>
+it_zsu_23_4_0;"<color=#81c3fc>Myt'ish'insk'ij ord'ena Ot'ech'ezdv'ennoj vojny 1 st'ep'eni
+mashinostroit'el'nyj zavot</color>
 ◔ 23 mm-es ZSzU-23-4V önjáró légvédelmi gépágyú ""Silka"""
 it_zsu_23_4_1;◔ ZSzU-23-4V
 it_zsu_23_4_2;SPAAG
@@ -18062,7 +18082,7 @@ it_pzh_2000_1;⛨ PzH 2000 I
 it_pzh_2000_2;SPH
 
 it_btr_80a_hungary_shop;◔ BTR-80A
-it_btr_80a_hungary_0;"<color=#81c3fc>Proizvodstvyennoye ob""yedinyeniye «Gor'kovskij avtomobil'nyj zavod»</color>
+it_btr_80a_hungary_0;"<color=#81c3fc>Gor'kofsk'ij aftomob'il'nyj zavot</color>
 ◔ BTR-80A gyalogsági harcjármű"
 it_btr_80a_hungary_1;◔ BTR-80A
 it_btr_80a_hungary_2;IFV
@@ -18099,7 +18119,7 @@ it_m113a1_tow_1;⛨ M113A1 (TOW)
 it_m113a1_tow_2;SPG
 
 it_t_72m1_shop;◔ T-72M1
-it_t_72m1_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 520 im. Morozova</color>
+it_t_72m1_0;"<color=#81c3fc>UralVagonZavot</color>
 ◔ T-72M1 harckocsi"
 it_t_72m1_1;◔ T-72M1
 it_t_72m1_2;MBT
@@ -18112,7 +18132,7 @@ it_9a33bm3_1;╏ 9A33BM3
 it_9a33bm3_2;SPAA
 
 it_9a35_m_shop;◔ 9A35M
-it_9a35_m_0;"<color=#81c3fc>Konstruktorskoye bûro točnogo mašinostroyeniâ im. A. È. Nudyel'mana</color>
+it_9a35_m_0;"<color=#81c3fc>Konstruktorskoye b'uro tochnogo mashinostroyeniya im. A. E. Nud'el'mana</color>
 ◔ 9A35M önjáró légvédelmi rakétakomplexum ""Sztrela-10M"""
 it_9a35_m_1;◔ 9A35M
 it_9a35_m_2;SPAAM
@@ -19133,8 +19153,7 @@ f_16am_block_15_mlu_belgium_1;▄ F-16AM
 f_16am_block_15_mlu_belgium_2;▄ F-16
 
 f_16a_block_5_netherlands_shop;◘ F-16A-5-CF
-f_16a_block_5_netherlands_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Koninklijke Nederlandse
-Vliegtuigenfabriek Fokker</color>
+f_16a_block_5_netherlands_0;"<color=#81c3fc>Koninklijke Nederlandse Vliegtuigenfabriek Fokker</color>
 ◘ F-16A-5-CF Fighting Falcon"
 f_16a_block_5_netherlands_1;◘ F-16A
 f_16a_block_5_netherlands_2;◘ F-16
@@ -19146,8 +19165,7 @@ f_16a_block_15_ocu_belgium_1;▄ F-16A
 f_16a_block_15_ocu_belgium_2;▄ F-16
 
 f_16am_block_20_mlu_netherlands_shop;◘ F-16AM-20-CF
-f_16am_block_20_mlu_netherlands_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Koninklijke Nederlandse
-Vliegtuigenfabriek Fokker</color>
+f_16am_block_20_mlu_netherlands_0;"<color=#81c3fc>Koninklijke Nederlandse Vliegtuigenfabriek Fokker</color>
 ◘ F-16AM-20-CF Fighting Falcon"
 f_16am_block_20_mlu_netherlands_1;◘ F-16A
 f_16am_block_20_mlu_netherlands_2;◘ F-16
@@ -19848,10 +19866,10 @@ fr_leopard_2a4nl_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 fr_leopard_2a4nl_1;◘ Leopard 2A4 NL
 fr_leopard_2a4nl_2;MBT
 
-fr_leopard_2a4nl_les_shop;◘ Leopard 2A4 NL (OTCo)
+fr_leopard_2a4nl_les_shop;◘ Leopard 2A4 NL (OTCRij)
 fr_leopard_2a4nl_les_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 ◘ Gevechtstank, Rups, Leopard 2A4 NL m/kanon 120 mm
-<color=@currencyGoldColor>Opleidings- en Trainingscommando</color>"
+<color=@currencyGoldColor>Opleidings- en Trainingscentrum Rijden</color>"
 fr_leopard_2a4nl_les_1;◘ Leopard 2A4 NL
 fr_leopard_2a4nl_les_2;MBT
 
@@ -21036,7 +21054,7 @@ sw_t_50_fin_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 sw_m24_chaffee_dk_shop;♔ M24
-sw_m24_chaffee_dk_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+sw_m24_chaffee_dk_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ♔ tank M24 Chaffee"
 sw_m24_chaffee_dk_1;♔ M24
 sw_m24_chaffee_dk_2;Light Tank
@@ -22099,13 +22117,14 @@ il_m163_vulcan_1;Ḥoveṭ
 il_m163_vulcan_2;SPAAG
 
 il_m109_shop; M109
-il_m109_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+il_m109_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
  Tomat M109"
 il_m109_1; M109
 il_m109_2;SPH
 
 il_m109a1_shop;Rokhev A
-il_m109a1_0;"<color=#81c3fc>Cadillac Motor Car Division <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+il_m109a1_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division <color=@commonTextColor>/</color> Merkaz Šikum
+ve-'Aḥzakah 7000</color>
 <color=#7ce68f>Tomat M109 A1</color>
 Tomat Rokhev Alef"
 il_m109a1_1;Rokhev A
@@ -22457,14 +22476,6 @@ germ_flakpanzer_V_Coelian_shop;Flakpanzer 341
 germ_flakpanzer_V_Coelian_0;3,7 cm Flakzwilling auf Panther Fahrgestell, Flakpanzer 341
 germ_flakpanzer_V_Coelian_1;Flakpanzer 341
 germ_flakpanzer_V_Coelian_2;SPAA
-germ_flakpz_1a2_Gepard_shop;FlakPz Gepard 1 A2 (LFK Stinger)
-germ_flakpz_1a2_Gepard_0;Flugabwehrkanonenpanzer Gepard 1 A2 mit LFK Stinger
-germ_flakpz_1a2_Gepard_1;Gepard 1 A2
-germ_flakpz_1a2_Gepard_2;SPAA
-germ_flakpz_I_Gepard_shop;FlakPz Gepard 1
-germ_flakpz_I_Gepard_0;Flugabwehrkanonenpanzer Gepard 1
-germ_flakpz_I_Gepard_1;Gepard 1
-germ_flakpz_I_Gepard_2;SPAA
 germ_flakpanzer_IV_Kugelblitz_shop;Kugelblitz
 germ_flakpanzer_IV_Kugelblitz_0;leichter Flakpanzer IV mit 3cm M.K. 103 als Zwilling Waffe
 germ_flakpanzer_IV_Kugelblitz_1;Kugelblitz

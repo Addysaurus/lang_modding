@@ -378,7 +378,7 @@ su_30mkm_1;☉ Su-30MKM
 su_30mkm_2;☉ Su-30
 
 su_30mkk_shop;␗ Sū 30MKK
-su_30mkk_0;"<color=#81c3fc>Компания «Сухой»</color>
+su_30mkk_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод имени Ю. А. Гагарина</color>
 ␗ Sū 30MKK Xíng Fēijī"
 su_30mkk_1;␗ Sū 30MKK
 su_30mkk_2;␗ Sū 30
@@ -456,6 +456,29 @@ germ_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commo
 ◄ Panzerwagen Garford (Beute)"
 germ_garford_putilov_1;◄ Pzw. Garford (Beute)
 germ_garford_putilov_2;Armored Car
+
+ussr_bt_7_m_shop;БТ-7М
+ussr_bt_7_m_0;"<color=#81c3fc>Харьковский танковый завод № 183 им. Коминтерна</color>
+<color=#5cae63>Объект А-8</color>
+Быстроходный танк БТ-7М"
+ussr_bt_7_m_1;БТ-7М
+ussr_bt_7_m_2;Fast Tank
+
+ussr_bt_7_m_816_shop;⋦ БТ-7М (№ 816)
+ussr_bt_7_m_816_0;"<color=#81c3fc>Харьковский танковый завод № 183 им. Коминтерна</color>
+<color=#5cae63>Объект А-8</color>
+⋦ Быстроходный танк БТ-7М
+<color=@currencyGoldColor>25-й танковый корпус, 4-я легкотанковая бригада, № 816</color>"
+ussr_bt_7_m_816_1;⋦ БТ-7М
+ussr_bt_7_m_816_2;Fast Tank
+
+ussr_bt_7a_f32_shop;БТ-7арт (Ф-32)
+ussr_bt_7a_f32_0;"<color=#81c3fc>Харьковский танковый завод № 183 им. Коминтерна</color>
+<color=#5cae63>Объект А-7</color>
+Быстроходный танк БТ-7 артиллерийский
+<color=#adadad>(76-мм танковая пушка Ф-32 обр. 1939 г.)</color>"
+ussr_bt_7a_f32_1;БТ-7арт
+ussr_bt_7a_f32_2;Fast Tank
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 ussr_kv_8_shop;КВ-8
@@ -631,13 +654,13 @@ ussr_btr_82at_1;БТР-82АТ
 ussr_btr_82at_2;IFV
 
 ussr_object_140_shop;Об. 140
-ussr_object_140_0;"<color=#81c3fc>Уральский танковый завод № 183 имени Коминтерна</color>
+ussr_object_140_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Коминтерна</color>
 <color=#5cae63>Обект 140</color>"
 ussr_object_140_1;Об. 140
 ussr_object_140_2;Medium Tank
 
 il_tiran_6_shop;Ṭiran 6
-il_tiran_6_0;"<color=#81c3fc>Уральским вагоностроительным заводом имени Ф. Э. Дзержинского <color=@commonTextColor>/</color>
+il_tiran_6_0;"<color=#81c3fc>Уральским вагоностроительным заводом им. Ф. Э. Дзержинского <color=@commonTextColor>/</color>
 Ḥeil ha-Ḥimuš</color>
 Ṭank Ṭiran 6"
 il_tiran_6_1;Ṭiran 6
@@ -645,14 +668,16 @@ il_tiran_6_2;MBT
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 ussr_t_90m_2020_shop;Т-90М
-ussr_t_90m_2020_0;"<color=#81c3fc>Научно-производственная корпорация «УралВагонЗавод»</color>
+ussr_t_90m_2020_0;"<color=#81c3fc>Научно-производственная корпорация «Уралвагонзавод» им. Ф. Э.
+Дзержинского</color>
 <color=#5cae63>Объект 188М</color>
 Танк Т-90М обр. 2017 г. «Прорыв-3»"
 ussr_t_90m_2020_1;Т-90М
 ussr_t_90m_2020_2;MBT
 
 ussr_t_90m_arena_m_shop;Т-90М (Арена-М)
-ussr_t_90m_arena_m_0;"<color=#81c3fc>Научно-производственная корпорация «УралВагонЗавод»</color>
+ussr_t_90m_arena_m_0;"<color=#81c3fc>Научно-производственная корпорация «Уралвагонзавод» им. Ф. Э.
+Дзержинского</color>
 <color=#5cae63>Объект 188М</color>
 Танк Т-90М обр. 2017 г. «Прорыв-3»
 <color=#adadad>(Комплекс активной защиты Т09-А6-1 «Арена-М»)</color>"
@@ -683,16 +708,18 @@ ussr_t_80um2_1;Т-80У
 ussr_t_80um2_2;MBT
 
 ussr_bmpt_shop;БМПТ (2002)
-ussr_bmpt_0;"<color=#81c3fc>Уральское конструкторское бюро транспортного машиностроения</color>
+ussr_bmpt_0;"<color=#81c3fc>Производственное объединение «Уралвагонзавод» им. Ф. Э.
+Дзержинского</color>
 <color=#5cae63>Обект 199</color>
 Боевая машина поддержки танков БМПТ обр. 2002 г. «Терминатор»"
 ussr_bmpt_1;БМПТ
 ussr_bmpt_2;IFV
 
 ussr_bmpt_72_shop;БМПТ-72
-ussr_bmpt_72_0;"<color=#81c3fc>Уральское конструкторское бюро транспортного машиностроения</color>
+ussr_bmpt_72_0;"<color=#81c3fc>Научно-производственная корпорация «Уралвагонзавод» им. Ф. Э.
+Дзержинского</color>
 <color=#5cae63>Обект 183</color>
-Боевая машина поддержки танков БМПТ-72 «Терминато-2»"
+Боевая машина поддержки танков БМПТ-72 «Терминатор-2»"
 ussr_bmpt_72_1;БМПТ-72
 ussr_bmpt_72_2;IFV
 
@@ -996,12 +1023,6 @@ uk_9a35_m_0;"<color=#81c3fc>Саратовский завод тяжелого �
 uk_9a35_m_1;☸ Sṭrelā-10 Em
 uk_9a35_m_2;SPAAM
 
-uk_t_90s_bheeshma_shop;☸ T-90S
-uk_t_90s_bheeshma_0;"<color=#81c3fc>УралВагонЗавод <color=@commonTextColor>/</color> Bhārī Vāhan Nirmāṇī</color>
-☸ Ṭaink Ṭī-90 Es Bhīṣma"
-uk_t_90s_bheeshma_1;☸ T-90S
-uk_t_90s_bheeshma_2;MBT
-
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 i-15bis_china_shop;☀ E-15 Bisī
 i-15bis_china_0;"<color=#81c3fc>Московский авиационный завод № 39 им. В. Р. Менжинского</color>
@@ -1224,7 +1245,7 @@ it_zsu_23_4_1;◔ ZSzU-23-4V
 it_zsu_23_4_2;SPAAG
 
 it_t_72m1_shop;◔ T-72M1
-it_t_72m1_0;"<color=#81c3fc>УралВагонЗавод</color>
+it_t_72m1_0;"<color=#81c3fc>Уральский вагоностроительный завод им. Ф. Э. Дзержинского</color>
 ◔ T-72M1 harckocsi"
 it_t_72m1_1;◔ T-72M1
 it_t_72m1_2;MBT
@@ -1322,7 +1343,7 @@ sw_t_55m_1;tst.psv. T 55M
 sw_t_55m_2;Battle Tank
 
 sw_t_72m1_shop;tst.psv. T 72M1
-sw_t_72m1_0;"<color=#81c3fc>УралВагонЗавод</color>
+sw_t_72m1_0;"<color=#81c3fc>Производственное объединение «Уралвагонзавод»</color>
 <color=#5cae63>Ps. 264</color>
 taistelupanssarivaunu T 72M1"
 sw_t_72m1_1;tst.psv. T 72M1

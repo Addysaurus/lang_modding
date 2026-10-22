@@ -24,6 +24,7 @@ All dates are listed in DD-MM-YYYY format.
 
 - #### Changes:
 
+    - Updated for the "Steel Fury" Battle Pass season and the new Twitch Drop and Thunder League vehicles.
     - Implemented the Swedish ground tree rework. This reworks every Swedish, Finnish, Danish, and Norwegian ground vehicle in the entire game.
     - Reworked Canadian ground vehicles and implemented a new Québécois French package for Canadian vehicles that uses their Québécois French designations.
     - Several more formatting corrections for multiline statcards.
@@ -32,8 +33,11 @@ All dates are listed in DD-MM-YYYY format.
     - Revised the **AH-64E**s.
     - Revised the **H-34**s.
     - Revised the **Mi-4AV**.
+    - Reworked all the **Jagdpanther**s.
+    - Reworked the **BT-7M** and **BT-7A**.
     - Reworked all the **Vautour**s (no reason, just felt like it).
     - Reworked the **Narval**.
+    - Reworked the **SpPz Luchs**.
     - Reworked all the **M10**s and **M36**s.
     - Specified the modification for the **NF-5A**.
     - Large pass on Russian manufacturers of Chinese vehicles.
@@ -67,6 +71,9 @@ All dates are listed in DD-MM-YYYY format.
     - **37 mm Psv.K/36 cannon** → **37 mm:n panssarivaunukanuuna mallia 1936**.
     - **Rifle, 106mm, M40A1** → **Cannone da 106 s.r. M40A1**.
     - Corrected the caliber tag color display for the **SU-100M**'s **M-63** cannon.
+    - Updated the Taiwanese **T74**, **T74V**, **M32K1**, and **M256** guns.
+    - Corrected the caliber tag of the **"Ki 109" Tōsai Hō** from 57 mm to 75 mm (thanks Gszabi99 for pointing this one out).
+    - Reworked the **F-32** gun.
 
 ### Engines:
 

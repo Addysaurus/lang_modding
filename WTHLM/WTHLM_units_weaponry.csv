@@ -180,6 +180,7 @@ weapons/30mm_AG_30_user_cannon;<color=@userlogColoredText>30 mm</color> 30-mm Av
 weapons/57mm_ak_157_naval_user_cannon;"Artillyerijskaâ ustanovka AK-157
 • <color=@userlogColoredText>57 mm</color> 57-mm Odnoorudijnaâ palubnaâ ustanovka ZiF-71 <color=#ff6f00>ACNN</color>"
 weapons/57mm_ak_157_naval_user_cannon/short;ZiF-71
+weapons/76mm_F32_user_cannon;<color=@userlogColoredText>76.2 mm</color> 52-PT-354A1 | 76-mm tankovaya pushka F-32 obr. 1939 g. <color=#ff6f00>CNN</color>
 weapons/100mm_D10T_416_user_cannon;<color=@userlogColoredText>100 mm</color> 100-mm prot'ivotankovaya pushka M-63 <color=#ff6f00>CNN</color>
 weapons/100mm_2A70_BMP_autoloader_user_cannon;<color=@userlogColoredText>100 mm</color> 2A70 <color=#ff6f00>CNN</color>
 weapons/125mm_2A46_M5_t_90m_user_cannon;<color=@userlogColoredText>125 mm</color> 125-mm tankovaâ puška 2A46M-5 <color=#ff6f00>CNN</color>
@@ -252,7 +253,7 @@ weapons/cannonHo155-II;<color=@userlogColoredText>30 mm</color> Ho 155-II <color
 weapons/cannonHo155-II/short;Ho 155-II
 weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 94 Shiki 37 Miri Sensha Hō <color=#ff6f00>CNN</color>
 weapons/47mm_Type1_user_cannon;<color=@userlogColoredText>47 mm</color> 1 Shiki 47 Miri Sensha Hō <color=#ff6f00>CNN</color>
-weapons/cannonType88;"<color=@userlogColoredText>57 mm</color> ""Ki 109"" Tōsai Hō <color=#ff6f00>ACNN</color>"
+weapons/cannonType88;"<color=@userlogColoredText>75 mm</color> ""Ki 109"" Tōsai Hō <color=#ff6f00>ACNN</color>"
 weapons/cannonType88/short;"""Ki 109"" Tōsai Hō"
 weapons/cannonHo402;<color=@userlogColoredText>57 mm</color> Ho 402 <color=#ff6f00>ACNN</color>
 weapons/cannonHo402/short;Ho 402
@@ -260,7 +261,7 @@ weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color
 weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> Shisei 5 Shiki 7 Senchi Han Sensha Hō (Naga) II Gata <color=#ff6f00>CNN</color>
 weapons/90mm_Type61_b_user_cannon;<color=@userlogColoredText>90 mm</color> 61 Shiki 90mm Sensha Hō C Gata <color=#ff6f00>CNN</color>
 weapons/105mm_type_91_user_cannon;<color=@userlogColoredText>105 mm</color> 91 Shiki 10 Senchi Ryūdanhō <color=#ff6f00>CNN-HWZ</color>
-weapons/106mm_Type_60B_user_cannon;<color=@userlogColoredText>106 mm</color> 60 Shiki Shasai 106mm Mu Handō Hō B Gata <color=#ff6f00>CNN-RCL</color>
+weapons/106mm_Type_60B_user_cannon;<color=@userlogColoredText>105 mm</color> 60 Shiki Shasai 106mm Mu Handō Hō B Gata <color=#ff6f00>CNN-RCL</color>
 weapons/155mm_60_type_3_naval_user_cannon;<color=@userlogColoredText>155 mm</color> 60 Kōkei 3 Nen Shiki 15 Sanchi Han Hō <color=#ff6f00>CNN</color>
 weapons/410mm_45_type_3_mod_naval_user_cannon;<color=@userlogColoredText>410 mm</color> 45 Kōkei 3 Nen Shiki 41 Sanchi Hō <color=#ff6f00>CNN</color>
 weapons/410mm_45_type_3_mod_naval_user_cannon/short;45 Kōkei 3 Nen Shiki 41 Sanchi Hō
@@ -274,8 +275,8 @@ weapons/5_8mm_QJT_user_machinegun;<color=@userlogColoredText>5.8 mm</color> QJT2
 weapons/7_62mm_Type_55_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 1955 Nián Shì 7.62 Háomi Tankè Jīqiāng <color=#ff6f00>MG</color>
 weapons/7_62mm_Type_59_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 1959 Nián Shì 7.62 Háomi Tankè Jīqiāng <color=#ff6f00>MG</color>
 weapons/7_62mm_Type86_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 1986 Nián Shì 7.62 Háomi Bìngliè Jīqiāng <color=#ff6f00>MG</color>
-weapons/7_62mm_T74_user_machinegun;<color=@userlogColoredText>7.62 mm</color> T74 7.62 Gōnglí Jīqiāng <color=#ff6f00>MG</color>
-weapons/7_62mm_T74v_user_machinegun;<color=@userlogColoredText>7.62 mm</color> T74V 7.62 Gōnglí Tóngzhóu Jīqiāng <color=#ff6f00>MG</color>
+weapons/7_62mm_T74_user_machinegun;<color=@userlogColoredText>7.62 mm</color> T74 Xíng 7.62 Gōnglí Jīqiāng <color=#ff6f00>MG</color>
+weapons/7_62mm_T74v_user_machinegun;<color=@userlogColoredText>7.62 mm</color> T74V Xíng 7.62 Gōnglí Tóngzhóu Jīqiāng <color=#ff6f00>MG</color>
 weapons/12_7mm_Type_54_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1954 Nián Shì 12.7 Háomi Gāoshè Jīqiāng <color=#ff6f00>MG</color>
 weapons/12_7mm_type_77_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1977 Nián Shì 12.7 Háomi Gāoshè Jīqiāng <color=#ff6f00>MG</color>
 weapons/12_7mm_QJC_88A_user_machinegun;<color=@userlogColoredText>12.7 mm</color> QJC1988A Shì 12.7 Háomi Chēzài Gāoshè Jīqiāng <color=#ff6f00>MG</color>
@@ -313,6 +314,7 @@ weapons/37mm_type_65_user_cannon;<color=@userlogColoredText>37 mm</color> 1965 N
 weapons/37mm_type_76_user_cannon;<color=@userlogColoredText>37 mm</color> PGZ1988 Shì Shuāng Guan 37 Háomi Lüdài Shì Zì Háng Gāo Pào <color=#ff6f00>ACNN</color>
 weapons/57mm_WA_318_user_cannon;<color=@userlogColoredText>57 mm</color> WA318 | PG1959 Shì 57 Háomi Gāoshè Pào <color=#ff6f00>ACNN</color>
 weapons/73mm_Type_85_user_cannon;<color=@userlogColoredText>73 mm</color> 1986 Nián Shì 73 Háomi Tankè Pào <color=#ff6f00>CNN</color>
+weapons/76mm_M32K1_user_cannon;<color=@userlogColoredText>76 mm</color> M32K1 Xíng 76 Gōnglí Xiàntáng Pào <color=#ff6f00>CNN</color>
 weapons/85mm_Type_56_user_cannon;<color=@userlogColoredText>85 mm</color> 52-PT-365 | ZiS-S-53 obr. 1944 g. <color=#ff6f00>CNN</color>
 weapons/85mm_Type_62_85_TC_user_cannon;<color=@userlogColoredText>85 mm</color> 1963 Nián Xíng 85 Háomi Tankè Pào <color=#ff6f00>CNN</color>
 weapons/85mm_Type_63_user_cannon;<color=@userlogColoredText>85 mm</color> 1963 Nián Xíng 85 Háomi Tankè Pào <color=#ff6f00>CNN</color>
@@ -330,7 +332,7 @@ weapons/105mm_ZPL98A_user_cannon;<color=@userlogColoredText>105 mm</color> ZPL19
 weapons/105mm_ZPL151A_user_cannon;<color=@userlogColoredText>105 mm</color> ZPL151 Xíng 105 Háomi Tankè Pào <color=#ff6f00>CNN</color>
 weapons/120mm_122TM_user_cannon;<color=@userlogColoredText>120 mm</color> 1971 Nián Shì 120 Háomi Huátáng Tankè Pào <color=#ff6f00>CNN</color>
 weapons/120mm_PTZ89_user_cannon;<color=@userlogColoredText>120 mm</color> WA371 | PGZ2009 Shì 120 Háomi Zìxíng Fan Tankè Pào <color=#ff6f00>CNN</color>
-weapons/120mm_m256_m1a2t_user_cannon;<color=@userlogColoredText>120 mm</color> Gun, 120mm, M256 <color=#ff6f00>CNN</color>
+weapons/120mm_m256_m1a2t_user_cannon;<color=@userlogColoredText>120 mm</color> M256 Xíng 120 Gōnglí Huátáng Pào <color=#ff6f00>CNN</color>
 weapons/125mm_Type_88C_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1988C Xíng 125 Háomi Tankè Pào <color=#ff6f00>CNN</color>
 weapons/125mm_ZPT_98_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998 Xíng 125 Háomi Tankè Pào <color=#ff6f00>CNN</color>
 weapons/125mm_ZPT_98_vt4b_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998 Xíng 125 Háomi Tankè Pào <color=#ff6f00>CNN</color>
@@ -3459,7 +3461,6 @@ weapons/76mm_D56_T_user_cannon;<color=@userlogColoredText>76.2 mm</color> 52-PT-
 weapons/76mm_52_d56ts_naval_user_cannon;<color=@userlogColoredText>76.2 mm</color> 52-PT-347S | 2A16 | D-56TS <color=#ff6f00>CNN</color>
 weapons/76mm_KT28_for_T26_user_cannon;<color=@userlogColoredText>76.2 mm</color> 52-PT-353 | KT-28 obr. 1927/32 gg. <color=#ff6f00>CNN-HWZ</color>
 weapons/76mm_KT28_user_cannon;<color=@userlogColoredText>76.2 mm</color> 52-PT-353 | KT-28 obr. 1927/32 gg. <color=#ff6f00>CNN-HWZ</color>
-weapons/76mm_F32_user_cannon;<color=@userlogColoredText>76.2 mm</color> 52-PT-354A1 | F-32 obr. 1939 g. <color=#ff6f00>CNN</color>
 weapons/76mm_F34_user_cannon;<color=@userlogColoredText>76.2 mm</color> 52-PT-354B | F-34 obr. 1940 g. <color=#ff6f00>CNN</color>
 weapons/76mm_L10_user_cannon;<color=@userlogColoredText>76.2 mm</color> 52-PT-354 | L-10 obr. 1938 g. <color=#ff6f00>CNN</color>
 weapons/76mm_L11_T34_early_user_cannon;<color=@userlogColoredText>76.2 mm</color> 52-PT-354A | L-11 obr. 1938/39 gg. <color=#ff6f00>CNN</color>
@@ -4936,7 +4937,6 @@ weapons/25mm_M242_HR_user_cannon;<color=@userlogColoredText>25 mm</color> Gun, A
 25mm_m792;M792
 25mm_m791;M791
 76mm_m464;M464
-weapons/76mm_M32K1_user_cannon;76 mm M32K1 cannon
 weapons/155mm_Bkan_user_cannon;<color=@userlogColoredText>155 mm</color> 15,5 cm bandkanon 1 <color=#ff6f00>CNN</color>
 155mm_sgr_m60;sgr m/60
 weapons/60mm_OTO_HVG_user_cannon;60 mm OTO HVG cannon

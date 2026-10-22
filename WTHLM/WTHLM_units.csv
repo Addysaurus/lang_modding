@@ -1525,7 +1525,7 @@ shop/group/germ_panzerjager_251_group;Pz.Jgr. I / m.S.P.W. D (7,5cm K.)
 shop/group/germ_marder_stug_a_group;Marder III / StuG III A
 shop/group/germ_marder_stuh_group;Marder III H / StuH 42 / StuG III F
 shop/group/germ_jagdpanzer_group;Jagdpanzer IV / 38 (t)
-shop/group/germ_jagdpanther_group;Pz.Jgr. Panther G1 / JPz 4-5
+shop/group/germ_jagdpanther_group;Jagdpanther G1 / JPz 4-5
 shop/group/germ_panzerjager_tiger_group;Pz.Jgr. Tiger (P) / B
 shop/group/germ_raketen_group;SPz 12-3 (Typ 3Z 8DLa) / RakJPz 2
 shop/group/germ_puma_group;SPz Puma S0 / VJTF
@@ -5674,9 +5674,16 @@ bf-109f-2_2;Bf 109
 
 bf_109t_2_shop;Bf 109 T-2
 bf_109t_2_0;"<color=#81c3fc>Messerschmitt</color>
-Bf 109 T-2"
+Bf 8-109 T-2"
 bf_109t_2_1;Bf 109 T
 bf_109t_2_2;Bf 109
+
+bf-109e-3_tl_shop;╎ Bf 109 E-3 (III./JG 51)
+bf-109e-3_tl_0;"<color=#81c3fc>Messerschmitt</color>
+╎ Bf 8-109 E-3
+<color=@currencyGoldColor>III. Gruppe, Jagdgeschwader 51 ""Mölders""</color>"
+bf-109e-3_tl_1;╎ Bf 109 E
+bf-109e-3_tl_2;╎ Bf 109
 
 bf-109f-4_shop;Bf 109 F-4
 bf-109f-4_0;"<color=#81c3fc>Messerschmitt</color>
@@ -7278,6 +7285,32 @@ germ_flakpanzer_zerstorer_45_0;"Flakpanzerkampfwagen IV ""Zerstörer 45""
 germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
 germ_flakpanzer_zerstorer_45_2;SPAA
 
+germ_panzerjager_panther_shop;Jagdpanther G1
+germ_panzerjager_panther_0;"<color=#81c3fc>Mühlenbau und Industrie Aktiengesellschaft</color>
+<color=#5cae63>Sd.Kfz. 173</color>
+<color=#7ce68f>Panzerjäger Panther (8,8cm) Ausf. G1</color>
+Jagdpanther
+<color=#adadad>(September 1944)</color>"
+germ_panzerjager_panther_1;Jagdpanther G1
+germ_panzerjager_panther_2;Tank Destroyer
+
+germ_panzerbefelhswagen_jagdpanther_shop;Bfw. Jagdpanther G1
+germ_panzerbefelhswagen_jagdpanther_0;"<color=#81c3fc>Mühlenbau und Industrie Aktiengesellschaft</color>
+<color=#5cae63>Sd.Kfz. 173</color>
+<color=#7ce68f>Panzerjäger-Befehlswagen Panther (8,8cm) Ausf. G1</color>
+Jagdpanther"
+germ_panzerbefelhswagen_jagdpanther_1;Bfw. Jagdpanther G1
+germ_panzerbefelhswagen_jagdpanther_2;Tank Destroyer
+
+germ_panzerjager_panther_g2_shop;Jagdpanther G2
+germ_panzerjager_panther_g2_0;"<color=#81c3fc>Maschinenfabrik Niedersachsen Hannover</color>
+<color=#5cae63>Sd.Kfz. 173</color>
+<color=#7ce68f>Panzerjäger Panther (8,8cm) Ausf. G2</color>
+Jagdpanther
+<color=#adadad>(February 1945)</color>"
+germ_panzerjager_panther_g2_1;Jagdpanther G2
+germ_panzerjager_panther_g2_2;Tank Destroyer
+
 germ_panzerjager_tiger_P_ferdinand_shop;Pz.Jgr. Tiger (P)
 germ_panzerjager_tiger_P_ferdinand_0;"<color=#81c3fc>Nibelungenwerk</color>
 <color=#5cae63>Sd.Kfz. 184</color>
@@ -7318,6 +7351,12 @@ germ_marder_df_105_shop;◄ DF 105
 germ_marder_df_105_0;<color=#81c3fc>◄ Thyssen Henschel DF 105</color>
 germ_marder_df_105_1;◄ DF 105
 germ_marder_df_105_2;Light Tank
+
+germ_sppz2_luchs_a2_shop;SpPz 2 A2 Luchs
+germ_sppz2_luchs_a2_0;"<color=#81c3fc>Thyssen Henschel</color>
+Spähpanzer 2 A2 Luchs"
+germ_sppz2_luchs_a2_1;SpPz 2 A2 Luchs
+germ_sppz2_luchs_a2_2;Scout Tank
 
 germ_leopard_a1a1_120_shop;Leopard 1 (MPI)
 germ_leopard_a1a1_120_0;"<color=#81c3fc>Krauss-Maffei Wegmann <color=@commonTextColor>/</color> Rheinmetall Defense Engineering
@@ -7619,6 +7658,13 @@ germ_s_700_s_701_0;"<color=#81c3fc>Danziger Waggonfabrik, Bau-Nr. 5001</color>
 S 701"
 germ_s_700_s_701_1;S 701
 germ_s_700_s_701_2;Fast Boat
+
+germ_s_700_s_706_shop;S 706
+germ_s_700_s_706_0;"<color=#81c3fc>Danziger Waggonfabrik, Bau-Nr. 5006</color>
+<color=#fffa62>Schnellboot (S 701-709)</color>
+S 706"
+germ_s_700_s_706_1;S 706
+germ_s_700_s_706_2;Fast Boat
 
 germ_rboot_r41_shop;R 41
 germ_rboot_r41_0;"<color=#81c3fc>Schlichting-Werft, Bau-Nr. 971</color>
@@ -9008,10 +9054,11 @@ ussr_bt_7_1937_1;BT-7
 ussr_bt_7_1937_2;Light Tank
 
 ussr_bt_7_m_shop;BT-7M
-ussr_bt_7_m_0;"<color=#5cae63>A-8</color>
-BT-7M"
+ussr_bt_7_m_0;"<color=#81c3fc>Khar'kofsk'ij tankovyj zavot № 183 im. Komint'erna</color>
+<color=#5cae63>Ob""yekt A-8</color>
+Bystrokhodnyj tank BT-7M"
 ussr_bt_7_m_1;BT-7M
-ussr_bt_7_m_2;Light Tank
+ussr_bt_7_m_2;Fast Tank
 
 ussr_bt_7_1937_td_shop;⋦ BT-7 (1937)
 ussr_bt_7_1937_td_0;"<color=#5cae63>A-7</color>
@@ -9019,12 +9066,21 @@ ussr_bt_7_1937_td_0;"<color=#5cae63>A-7</color>
 ussr_bt_7_1937_td_1;⋦ BT-7
 ussr_bt_7_1937_td_2;Light Tank
 
-ussr_bt_7a_f32_shop;BT-7A (F-32)
-ussr_bt_7a_f32_0;"<color=#5cae63>A-7</color>
-BT-7A
-<color=#adadad>(F-32)</color>"
-ussr_bt_7a_f32_1;BT-7A (F-32)
-ussr_bt_7a_f32_2;Light Tank
+ussr_bt_7_m_816_shop;⋦ BT-7M (№ 816)
+ussr_bt_7_m_816_0;"<color=#81c3fc>Khar'kofsk'ij tankovyj zavot № 183 im. Komint'erna</color>
+<color=#5cae63>Ob""yekt A-8</color>
+⋦ Bystrokhodnyj tank BT-7M
+<color=@currencyGoldColor>25-j tankovyj korpus, 4-ya lyekkotankovaya brigada, № 816</color>"
+ussr_bt_7_m_816_1;⋦ BT-7M
+ussr_bt_7_m_816_2;Fast Tank
+
+ussr_bt_7a_f32_shop;BT-7art (F-32)
+ussr_bt_7a_f32_0;"<color=#81c3fc>Khar'kofsk'ij tankovyj zavot № 183 im. Komint'erna</color>
+<color=#5cae63>Ob""yekt A-7</color>
+Bystrokhodnyj tank BT-7 art'illyerijsk'ij
+<color=#adadad>(76-mm tankovaya pushka F-32 obr. 1939 g.)</color>"
+ussr_bt_7a_f32_1;BT-7art
+ussr_bt_7a_f32_2;Fast Tank
 
 ussr_bt_7_1937_race_shop;BT-7
 ussr_bt_7_1937_race_0;"<color=#5cae63>A-7</color>
@@ -9911,17 +9967,19 @@ ussr_t_90a_1;T-90A
 ussr_t_90a_2;MBT
 
 ussr_t_90m_2020_shop;Т-90М
-ussr_t_90m_2020_0;"<color=#81c3fc>Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod»</color>
+ussr_t_90m_2020_0;"<color=#81c3fc>Nauchno-proizvodzdv'ennaya korporatsiya «Uralvagonzavot» im. F. E.
+Dz'erzhinskovo</color>
 <color=#5cae63>Ob""yekt 188M</color>
 Танк T-90M obr. 2017 g. ""Proryv-3"""
 ussr_t_90m_2020_1;Т-90М
 ussr_t_90m_2020_2;MBT
 
 ussr_t_90m_arena_m_shop;T-90M (Aryena-M)
-ussr_t_90m_arena_m_0;"<color=#81c3fc>Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod»</color>
+ussr_t_90m_arena_m_0;"<color=#81c3fc>Nauchno-proizvodzdv'ennaya korporatsiya «Uralvagonzavot» im. F. E.
+Dz'erzhinskovo</color>
 <color=#5cae63>Ob""yekt 188M</color>
 T-90M obr. 2017 g. ""Proryv-3""
-<color=#adadad>(Komplyeks aktivnoj zaŝity T09-A6-1 ""Aryena-M"")</color>"
+<color=#adadad>(Komplyeks akt'ivnoj zash'ity T09-A6-1 ""Aryena-M"")</color>"
 ussr_t_90m_arena_m_1;T-90M
 ussr_t_90m_arena_m_2;MBT
 
@@ -9998,16 +10056,18 @@ ussr_9p157_1;9P157-2
 ussr_9p157_2;SPG
 
 ussr_bmpt_shop;BMPT (2002)
-ussr_bmpt_0;"<color=#81c3fc>Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ</color>
+ussr_bmpt_0;"<color=#81c3fc>Proizvodzdv'ennoye ob""yed'inyeniye «Uralvagonzavot» im. F. E.
+Dz'erzhinskovo</color>
 <color=#5cae63>Ob""yekt 199</color>
-Boyevaâ mašina poddyeržki tankov BMPT obr. 2002 g. ""Tyerminator"""
+Boyevaya mashina podd'ershk'i tankof BMPT obr. 2002 g. ""Tyerminator"""
 ussr_bmpt_1;BMPT
 ussr_bmpt_2;IFV
 
 ussr_bmpt_72_shop;BMPT-72
-ussr_bmpt_72_0;"<color=#81c3fc>Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ</color>
+ussr_bmpt_72_0;"<color=#81c3fc>Nauchno-proizvodzdv'ennaya korporatsiya «Uralvagonzavot» im. F. E.
+Dz'erzhinskovo</color>
 <color=#5cae63>Ob""yekt 183</color>
-Boyevaâ mašina poddyeržki tankov BMPT-72 ""Tyerminator-2"""
+Boyevaya mashina podd'ershk'i tankof BMPT-72 ""Tyerminator-2"""
 ussr_bmpt_72_1;BMPT-72
 ussr_bmpt_72_2;IFV
 
@@ -12777,7 +12837,7 @@ uk_ajax_1;Ajax
 uk_ajax_2;AFV
 
 uk_t_90s_bheeshma_shop;☸ Ṭī-90 Es Bhīṣma
-uk_t_90s_bheeshma_0;"<color=#81c3fc>UralVagonZavot <color=@commonTextColor>/</color> Bhārī Vāhan Nirmāṇī</color>
+uk_t_90s_bheeshma_0;"<color=#81c3fc>Bhārī Vāhan Nirmāṇī</color>
 ☸ Ṭaink Ṭī-90 Es Bhīṣma"
 uk_t_90s_bheeshma_1;☸ Ṭī-90 Es
 uk_t_90s_bheeshma_2;MBT
@@ -16468,7 +16528,7 @@ q_5l_1;Q5L
 q_5l_2;Q5
 
 mig-17_f5_shop;▆ F5
-mig-17_f5_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè Chang</color>
+mig-17_f5_0;"<color=#81c3fc>Guóyíng Sōnglíng Jīxiè Chang</color>
 ▆ Chugyeoggi 《F5》"
 mig-17_f5_1;▆ F5
 mig-17_f5_2;▆ F5
@@ -16596,7 +16656,7 @@ jf_17_1;JF-17 Block I
 jf_17_2;JF-17
 
 su_30mkk_shop;␗ Sū 30MKK
-su_30mkk_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+su_30mkk_0;"<color=#81c3fc>Komsomol'sk'ij-na-Amurye av'iatsionnyj zavot imyeni Yu. A. Gagarina</color>
 ␗ Sū 30MKK Xíng Fēijī"
 su_30mkk_1;␗ Sū 30MKK
 su_30mkk_2;␗ Sū 30
@@ -18119,7 +18179,7 @@ it_m113a1_tow_1;⛨ M113A1 (TOW)
 it_m113a1_tow_2;SPG
 
 it_t_72m1_shop;◔ T-72M1
-it_t_72m1_0;"<color=#81c3fc>UralVagonZavot</color>
+it_t_72m1_0;"<color=#81c3fc>Ural'sk'ij vagonostroit'el'nyj zavot im. F. E. Dz'erzhinskovo</color>
 ◔ T-72M1 harckocsi"
 it_t_72m1_1;◔ T-72M1
 it_t_72m1_2;MBT
@@ -21398,7 +21458,7 @@ sw_t_55m_1;tst.psv. T 55M
 sw_t_55m_2;Battle Tank
 
 sw_t_72m1_shop;tst.psv. T 72M1
-sw_t_72m1_0;"<color=#81c3fc>UralVagonZavot</color>
+sw_t_72m1_0;"<color=#81c3fc>Proizvodzdv'ennoye ob""yed'inyeniye «Uralvagonzavot»</color>
 <color=#5cae63>Ps. 264</color>
 taistelupanssarivaunu T 72M1"
 sw_t_72m1_1;tst.psv. T 72M1
@@ -22596,14 +22656,6 @@ germ_jgdpz_IV_L48_shop;Jagdpanzer IV
 germ_jgdpz_IV_L48_0;Jagdpanzer IV
 germ_jgdpz_IV_L48_1;Jagdpanzer IV
 germ_jgdpz_IV_L48_2;SPG
-germ_panzerbefelhswagen_jagdpanther_shop;Pz.Jgr.-Bfw. Panther G1
-germ_panzerbefelhswagen_jagdpanther_0;Panzerjäger-Befehlswagen Panther (8,8cm) Ausf. G1
-germ_panzerbefelhswagen_jagdpanther_1;Pz.Jgr.-Bfw Panther
-germ_panzerbefelhswagen_jagdpanther_2;SPG
-germ_panzerjager_panther_shop;Pz.Jgr. Panther G1
-germ_panzerjager_panther_0;Panzerjäger Panther (8,8cm) Ausf. G1
-germ_panzerjager_panther_1;Pz.Jgr. Panther
-germ_panzerjager_panther_2;SPG
 germ_pzkpfw_V_ersatz_m10_shop;Ersatz M10
 germ_pzkpfw_V_ersatz_m10_0;Ersatz M10 Panther
 germ_pzkpfw_V_ersatz_m10_1;Ersatz M10
@@ -23976,8 +24028,4 @@ fr_p730_combattante_shop;La Combattante (P 730)
 fr_p730_combattante_0;La Combattante (P 730)
 fr_p730_combattante_1;La Combattante
 fr_p730_combattante_2;Missile Boat
-germ_sppz2_luchs_a2_shop;SpPz Luchs A2
-germ_sppz2_luchs_a2_0;Spähpanzer Luchs A2
-germ_sppz2_luchs_a2_1;Luchs A2
-germ_sppz2_luchs_a2_2;IFV
 SHIPS_LANG_KEEP_IT_ALWAYS_FIRST;

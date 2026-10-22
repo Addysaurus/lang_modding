@@ -4,8 +4,8 @@ weapons/5_8mm_QJT_user_machinegun;<color=@userlogColoredText>5.8 mm</color> QJT2
 weapons/7_62mm_Type_55_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 1955年式7.62毫米坦克机枪 <color=#ff6f00>MG</color>
 weapons/7_62mm_Type_59_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 1959年式7.62毫米坦克机枪 <color=#ff6f00>MG</color>
 weapons/7_62mm_Type86_user_machinegun;<color=@userlogColoredText>7.62 mm</color> 1986年式7.62毫米并列机枪 <color=#ff6f00>MG</color>
-weapons/7_62mm_T74_user_machinegun;<color=@userlogColoredText>7.62 mm</color> T74 7.62公厘機槍 <color=#ff6f00>MG</color>
-weapons/7_62mm_T74v_user_machinegun;<color=@userlogColoredText>7.62 mm</color> T74V 7.62公厘同軸機槍 <color=#ff6f00>MG</color>
+weapons/7_62mm_T74_user_machinegun;<color=@userlogColoredText>7.62 mm</color> T74型7.62公厘機槍 <color=#ff6f00>MG</color>
+weapons/7_62mm_T74v_user_machinegun;<color=@userlogColoredText>7.62 mm</color> T74V型7.62公厘同軸機槍 <color=#ff6f00>MG</color>
 weapons/12_7mm_Type_54_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1954年式12.7毫米高射机枪 <color=#ff6f00>MG</color>
 weapons/12_7mm_type_77_user_machinegun;<color=@userlogColoredText>12.7 mm</color> 1977年式12.7毫米高射机枪 <color=#ff6f00>MG</color>
 weapons/12_7mm_QJC_88A_user_machinegun;<color=@userlogColoredText>12.7 mm</color> QJC1988A式12.7毫米车载高射机枪 <color=#ff6f00>MG</color>
@@ -43,6 +43,7 @@ weapons/37mm_type_65_user_cannon;<color=@userlogColoredText>37 mm</color> 1965�
 weapons/37mm_type_76_user_cannon;<color=@userlogColoredText>37 mm</color> PGZ1988式双管37毫米履带式自行高炮 <color=#ff6f00>ACNN</color>
 weapons/57mm_WA_318_user_cannon;<color=@userlogColoredText>57 mm</color> WA318 | PG1959式57毫米高射炮 <color=#ff6f00>ACNN</color>
 weapons/73mm_Type_85_user_cannon;<color=@userlogColoredText>73 mm</color> 1986年式73毫米坦克炮 <color=#ff6f00>CNN</color>
+weapons/76mm_M32K1_user_cannon;<color=@userlogColoredText>76 mm</color> M32K1型76公厘線膛砲 <color=#ff6f00>CNN</color>
 weapons/85mm_Type_62_85_TC_user_cannon;<color=@userlogColoredText>85 mm</color> 1963年式85毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/85mm_Type_63_user_cannon;<color=@userlogColoredText>85 mm</color> 1963年式85毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/100mm_PTP86_user_cannon;<color=@userlogColoredText>100 mm</color> WA301 | PTL2002式100毫米轮式自行突击炮 <color=#ff6f00>CNN</color>
@@ -59,13 +60,14 @@ weapons/105mm_ZPL98A_user_cannon;<color=@userlogColoredText>105 mm</color> ZPL19
 weapons/105mm_ZPL151A_user_cannon;<color=@userlogColoredText>105 mm</color> ZPL151式105毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/120mm_122TM_user_cannon;<color=@userlogColoredText>120 mm</color> 1971年式120毫米滑膛坦克炮 <color=#ff6f00>CNN</color>
 weapons/120mm_PTZ89_user_cannon;<color=@userlogColoredText>120 mm</color> WA371 | PTZ1989式120毫米自行反坦克炮 <color=#ff6f00>CNN</color>
+weapons/120mm_m256_m1a2t_user_cannon;<color=@userlogColoredText>120 mm</color> M256型120公厘滑膛砲 <color=#ff6f00>CNN</color>
 weapons/125mm_Type_88C_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1988C式125毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/125mm_ZPT_98_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998式125毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/125mm_ZPT_98_vt4b_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998式125毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/125mm_Type_99A_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT1998A式125毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/125mm_l54_cn_user_cannon;<color=@userlogColoredText>125 mm</color> ZPT式125毫米坦克炮 <color=#ff6f00>CNN</color>
 weapons/130mm_pl_59a_gai_user_cannon;<color=@userlogColoredText>130 mm</color> PL1959A式130毫米加农炮 <color=#ff6f00>CNN-HWZ</color>
-weapons/152mm_pl_66_gai_user_cannon;<color=@userlogColoredText>152 mm</color> PLZ1983式152毫米自行加榴炮 <color=#ff6f00>CNN-HWZ</color>
+weapons/152mm_pl_66_gai_user_cannon;<color=@userlogColoredText>152 mm</color> WZ321 | PLZ1983式152毫米自行加榴炮 <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_PL05_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ2005式155毫米自行加榴炮 <color=#ff6f00>CNN-HWZ</color>
 weapons/155mm_plz45_user_cannon;<color=@userlogColoredText>155 mm</color> PLZ45式155毫米加农榴弹炮 <color=#ff6f00>CNN-HWZ</color>
 

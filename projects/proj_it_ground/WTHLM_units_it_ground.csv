@@ -1,7 +1,12 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
-shop/group/it_semovente_stug_group;90/53 M. 41 M. / ⛨ StuG III
+shop/group/it_semovente_stug_group;90/53 M. 41 M. / ⛨ Stu.G. III
 shop/group/it_semovente_m41_group;75/18 M. 41 / 75/32 M. 41 / 75/34 M. 42 M.
+shop/group/it_fiat_group;Fiat 6616BM (T 90 CKL) / 6614 (M40A1)
+shop/group/it_of_leo_group;OF 40 Mk 1 / ⛨ Leopard 1 A2
+shop/group/it_dardo_group;VCC Dardo / Dardo (HITFIST 30)
+shop/group/it_centauro_105_group;B1 Centauro (preserie) / (ROMOR)
+shop/group/it_ariete_group;C1 Ariete (PSO) / (WAR)
 
 //AI UNITS
 
@@ -217,7 +222,7 @@ it_sahariano_2;Fast Tank
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 it_m24_chaffee_shop;⛨ M24
-it_m24_chaffee_0;"<color=#81c3fc>Cadillac Motor Company</color>
+it_m24_chaffee_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ⛨ Carro armato leggero M24"
 it_m24_chaffee_1;⛨ M24
 it_m24_chaffee_2;Light Tank
@@ -227,6 +232,31 @@ it_semovente_breda_501_0;"<color=#81c3fc>Società Italiana Ernesto Breda 501</co
 Semovente da 90/53 su autocarro Breda 501"
 it_semovente_breda_501_1;90/53 Breda 501
 it_semovente_breda_501_2;SPG
+
+it_m4a4_sherman_shop;⛨ Sherman V
+it_m4a4_sherman_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
+⛨ Carro armato medio Sherman tipo V"
+it_m4a4_sherman_1;⛨ Sherman V
+it_m4a4_sherman_2;Medium Tank
+
+it_sherman_VII_shop;⛨ Sherman I C Ibrido
+it_sherman_VII_0;"<color=#81c3fc>American Locomotive Company <color=@commonTextColor>/</color> Royal Ordnance Factory, Nottingham</color>
+⛨ Carro armato medio Sherman tipo I tipo C Ibrido"
+it_sherman_VII_1;⛨ Sherman I C
+it_sherman_VII_2;Medium Tank
+
+it_sherman_75_37_shop;⛨ Sherman I Ibrido
+it_sherman_75_37_0;"<color=#81c3fc>American Locomotive Company</color>
+⛨ Carro armato medio Sherman tipo I Ibrido"
+it_sherman_75_37_1;⛨ Sherman I
+it_sherman_75_37_2;Medium Tank
+
+it_sherman_vc_firefly_shop;⛨ Sherman V C
+it_sherman_vc_firefly_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant <color=@commonTextColor>/</color> Royal Ordnance
+Factory, Nottingham</color>
+⛨ Carro armato medio Sherman tipo V tipo C"
+it_sherman_vc_firefly_1;⛨ Sherman V C
+it_sherman_vc_firefly_2;Medium Tank
 
 it_m44_shop;⛨ 155/23 M44
 it_m44_0;"<color=#81c3fc>Massey-Harris</color>
@@ -240,14 +270,309 @@ it_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
 it_m55_1;⛨ 203/25 M55
 it_m55_2;SPH
 
+it_stug_III_ausf_G_shop;⛨ 75/48 Stu.G. III G
+it_stug_III_ausf_G_0;"<color=#81c3fc>Altmärkische Kettenwerke</color>
+⛨ Semovente da 75/48 Sturmgeschütz III Ausf. G"
+it_stug_III_ausf_G_1;⛨ 75/48 Stu.G. III G
+it_stug_III_ausf_G_2;SPG
+
+it_pzkpfw_IV_ausf_G_shop;⛨ Pz.Kpfw. IV G
+it_pzkpfw_IV_ausf_G_0;"<color=#81c3fc>Nibelungenwerk</color>
+⛨ Carro armato Panzerkampfwagen IV Ausf. G
+<color=#adadad>(September 1942)</color>"
+it_pzkpfw_IV_ausf_G_1;⛨ Pz.Kpfw. IV G
+it_pzkpfw_IV_ausf_G_2;Medium Tank
+
+it_breda_52_autocannone_shop;90/53 Breda 52
+it_breda_52_autocannone_0;"<color=#81c3fc>Società Italiana Ernesto Breda 52</color>
+Semovente da 90/53 su autocarro Breda 52"
+it_breda_52_autocannone_1;90/53 Breda 52
+it_breda_52_autocannone_2;SPG
+
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+it_m18_hellcat_shop;⛨ 76/52 M18
+it_m18_hellcat_0;"<color=#81c3fc>General Motors Corporation, Buick Motor Division</color>
+⛨ Cannone da 76/52 su semovente M18"
+it_m18_hellcat_1;⛨ 76/52 M18
+it_m18_hellcat_2;SPG
+
+it_fiat_6614_106sr_shop;Fiat 6614 (M40A1)
+it_fiat_6614_106sr_0;"<color=#81c3fc>Fiat <color=@commonTextColor>+</color> OTO Melara 6614</color>
+<color=#adadad>(Cannone da 106 s.r. M40A1)</color>"
+it_fiat_6614_106sr_1;Fiat 6614
+it_fiat_6614_106sr_2;Armored Car
+
+it_fiat_6614_firos_shop;Fiat 6614 (FIROS 6)
+it_fiat_6614_firos_0;"<color=#81c3fc>Fiat <color=@commonTextColor>+</color> OTO Melara 6614</color>
+<color=#adadad>(FIROS 6)</color>"
+it_fiat_6614_firos_1;Fiat 6614
+it_fiat_6614_firos_2;MLRS
+
+it_fiat_6616_cockerill_shop;Fiat 6616BM (T 90 CKL)
+it_fiat_6616_cockerill_0;"<color=#81c3fc>Fiat <color=@commonTextColor>+</color> OTO Melara 6616BM</color>
+<color=#adadad>(Torretta T 90 CKL)</color>"
+it_fiat_6616_cockerill_1;Fiat 6616BM
+it_fiat_6616_cockerill_2;Armored Car
+
+it_aubl_74_60_70m_shop;Fiat 6616BM (T 60/70 M)
+it_aubl_74_60_70m_0;"<color=#81c3fc>Fiat <color=@commonTextColor>+</color> OTO Melara 6616BM</color>
+<color=#adadad>(Torretta T 60/70 M)</color>"
+it_aubl_74_60_70m_1;Fiat 6616BM
+it_aubl_74_60_70m_2;Armored Car
+
+it_m26a1_pershing_shop;⛨ M26A1
+it_m26a1_pershing_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant</color>
+⛨ Carro armato medio M26A1"
+it_m26a1_pershing_1;⛨ M26A1
+it_m26a1_pershing_2;Medium Tank
+
+it_m26_ariete_shop;⛨ M26 (132ª Div.Cor.)
+it_m26_ariete_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant</color>
+⛨ Carro armato medio M26
+<color=@currencyGoldColor>132ª Divisione Corazzata ""Ariete""</color>"
+it_m26_ariete_1;⛨ M26
+it_m26_ariete_2;Medium Tank
+
+it_leopard_bofors_shop;⛨ Leopard 1 A2 (40/70)
+it_leopard_bofors_0;"<color=#81c3fc>OTO Melara <color=@commonTextColor>/</color> Arsenale Esercito di Piacenza</color>
+⛨ Cannone contraereo da 40/70 Bofors su scafo Leopard 1 versione A2"
+it_leopard_bofors_1;⛨ Leopard 1 A2 (40/70)
+it_leopard_bofors_2;SPAAG
+
+it_leopard_1a2_shop;⛨ Leopard 1 A2
+it_leopard_1a2_0;"<color=#81c3fc>OTO Melara</color>
+⛨ Carro armato medio Leopard 1 versione A2"
+it_leopard_1a2_1;⛨ Leopard 1 A2
+it_leopard_1a2_2;MBT
+
+it_leopard_1a5_shop;⛨ Leopard 1 A5
+it_leopard_1a5_0;"<color=#81c3fc>Krauss-Maffei</color>
+⛨ Carro armato medio Leopard 1 versione A5"
+it_leopard_1a5_1;⛨ Leopard 1 A5
+it_leopard_1a5_2;MBT
+
+it_oto_r3_t20_fa_shop;R3 T 20 FA-HS
+it_oto_r3_t20_fa_0;<color=#81c3fc>OTO Melara R3 Capraia T 20 FA-HS</color>
+it_oto_r3_t20_fa_1;R3 T 20 FA-HS
+it_oto_r3_t20_fa_2;SPAA
+
+it_oto_r3_106sr_shop;R3 T 106 FA
+it_oto_r3_106sr_0;<color=#81c3fc>OTO Melara R3 Capraia T 106 FA</color>
+it_oto_r3_106sr_1;R3 T 106 FA
+it_oto_r3_106sr_2;Light Tank
+
+it_m36b1_shop;⛨ 90/50 M36B1
+it_m36b1_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant</color>
+⛨ Cannone da 90/50 su semovente M36B1"
+it_m36b1_1;⛨ 90/50 M36B1
+it_m36b1_2;SPG
+
+it_m109g_shop;⛨ 155/23 M109
+it_m109g_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division <color=@commonTextColor>/</color> OTO Melara</color>
+⛨ Obice da 155/23 su semovente M109"
+it_m109g_1;⛨ 155/23 M109
+it_m109g_2;SPH
+
+it_palmaria_shop;Palmaria
+it_palmaria_0;<color=#81c3fc>OTO Melara Obice semovente Palmaria 155/41</color>
+it_palmaria_1;Palmaria
+it_palmaria_2;SPH
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+it_c13_t90_shop;C 13 (T 90 CKL)
+it_c13_t90_0;"<color=#81c3fc>OTO Melara C 13</color>
+<color=#adadad>(Torretta T 90 CKL)</color>"
+it_c13_t90_1;C 13 (T 90 CKL)
+it_c13_t90_2;Light Tank
+
+it_c13_tua_shop;C 13 (TUA)
+it_c13_tua_0;"<color=#81c3fc>OTO Melara C 13</color>
+<color=#adadad>(Sistema d'arma TUA)</color>"
+it_c13_tua_1;C 13 (TUA)
+it_c13_tua_2;ATMC
+
+it_of_40_mk_1_shop;OF 40 Mk 1
+it_of_40_mk_1_0;<color=#81c3fc>OTO Melara Carro armato OF 40 Mk 1</color>
+it_of_40_mk_1_1;OF 40 Mk 1
+it_of_40_mk_1_2;MBT
+
+it_of_40_mk_2a_shop;OF 40 Mk 2
+it_of_40_mk_2a_0;<color=#81c3fc>OTO Melara Carro armato OF 40 Mk 2</color>
+it_of_40_mk_2a_1;OF 40 Mk 2
+it_of_40_mk_2a_2;MBT
+
+it_of_40_mtca_shop;OF 40 Mk 2 (MTCA)
+it_of_40_mtca_0;"<color=#81c3fc>OTO Melara Carro armato OF 40 Mk 2</color>
+<color=#adadad>(Modular Turbo-Charged Aftercooler)</color>"
+it_of_40_mtca_1;OF 40 Mk 2
+it_of_40_mtca_2;MBT
+
+it_pzh_2000_shop;⛨ PzH 2000 I
+it_pzh_2000_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+⛨ Semovente PzH 2000 I"
+it_pzh_2000_1;⛨ PzH 2000 I
+it_pzh_2000_2;SPH
+
+it_m60a1_ariete_shop;⛨ M60A1
+it_m60a1_ariete_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
+⛨ Carro armato medio M60A1
+<color=@currencyGoldColor>132ª Divisione Corazzata ""Ariete""</color>"
+it_m60a1_ariete_1;⛨ M60A1
+it_m60a1_ariete_2;MBT
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+it_vcc_80_hitfist_60_shop;VCC Dardo (T 60/70)
+it_vcc_80_hitfist_60_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+<color=#ff8c80>VCC-80</color>
+Veicolo corazzato da combattimento Dardo
+<color=#adadad>(Torretta T 60/70)</color>"
+it_vcc_80_hitfist_60_1;VCC Dardo
+it_vcc_80_hitfist_60_2;Light Tank
+
+it_dardo_vcc_shop;VCC Dardo
+it_dardo_vcc_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+<color=#ff8c80>VCC-80</color>
+Veicolo corazzato da combattimento Dardo"
+it_dardo_vcc_1;VCC Dardo
+it_dardo_vcc_2;IFV
+
+it_vcc_80_hitfist_30_shop;VCC Dardo (HITFIST 30)
+it_vcc_80_hitfist_30_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+<color=#ff8c80>VCC-80</color>
+Veicolo corazzato da combattimento Dardo
+<color=#adadad>(HITFIST 30)</color>"
+it_vcc_80_hitfist_30_1;VCC Dardo
+it_vcc_80_hitfist_30_2;IFV
+
+it_b1_centauro_shop;B1 Centauro (preserie)
+it_b1_centauro_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara Centauro I 105</color>
+Blindo armato B1 Centauro
+<color=#adadad>(preserie)</color>"
+it_b1_centauro_1;B1 Centauro
+it_b1_centauro_2;Armored Car
+
+it_b1_centauro_romor_shop;B1 Centauro (ROMOR-A)
+it_b1_centauro_romor_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara Centauro I 105</color>
+Blindo armato B1 Centauro
+<color=#adadad>(serie 2) (ROMOR-A)</color>"
+it_b1_centauro_romor_1;B1 Centauro
+it_b1_centauro_romor_2;Armored Car
+
+it_vbc_pt2_shop;VBC Centauro (PT 2)
+it_vbc_pt2_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Veicolo blindato da combattimento Centauro
+<color=#adadad>(prototipo 2)</color>"
+it_vbc_pt2_1;VBC Centauro (PT 2)
+it_vbc_pt2_2;IFV
+
+it_vrcc_centauro_shop;VRCC Centauro
+it_vrcc_centauro_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara Centauro I 105</color>
+Vehículo de Reconocimiento y Combate de Caballería Centauro"
+it_vrcc_centauro_1;VRCC Centauro
+it_vrcc_centauro_2;CRV
+
+it_centauro_mgs_120_shop;Centauro I 120
+it_centauro_mgs_120_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara Centauro I 120</color>
+<color=#adadad>(serie 2)</color>"
+it_centauro_mgs_120_1;Centauro I 120
+it_centauro_mgs_120_2;Armored Car
+
+it_centauro_rgo_120_shop;☪ Centauro I 120
+it_centauro_rgo_120_0;"<color=#81c3fc>☪ Consorzio Iveco - Oto Melara Centauro I 120</color>
+<color=#adadad>(serie 3)</color>"
+it_centauro_rgo_120_1;☪ Centauro I 120
+it_centauro_rgo_120_2;Armored Car
+
+it_otobreda_sidam_25_shop;SIDAM 25
+it_otobreda_sidam_25_0;"<color=#81c3fc>OTO Melara Sistema Italiano Difesa Aerea Mobile da 25 mm</color>
+Sistema d'arma semovente controaereo pluricanna da 25 mm SIDAM"
+it_otobreda_sidam_25_1;SIDAM 25
+it_otobreda_sidam_25_2;SPAAG
+
+it_otobreda_sidam_25_mistral_shop;SIDAM 25 (Mistral)
+it_otobreda_sidam_25_mistral_0;"<color=#81c3fc>OTO Melara Sistema Italiano Difesa Aerea Mobile da 25 mm</color>
+Sistema d'arma semovente controaereo pluricanna da 25 mm SIDAM
+<color=#adadad>(Mistral)</color>"
+it_otobreda_sidam_25_mistral_1;SIDAM 25
+it_otobreda_sidam_25_mistral_2;SPAAG/M
+
+it_m113a1_tow_shop;⛨ VTC M113A1 (M233E1)
+it_m113a1_tow_0;"<color=#81c3fc>OTO Melara</color>
+⛨ Veicolo da trasporto e da combattimento M113A1
+<color=#adadad>(Sistema d'arma TOW) (Kit M233E1)</color>"
+it_m113a1_tow_1;⛨ VTC M113A1 (M233E1)
+it_m113a1_tow_2;ATMC
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+it_c1_ariete_preserie_shop;C1 Ariete (preserie)
+it_c1_ariete_preserie_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Carro armato C1 Ariete
+<color=#adadad>(preserie)</color>"
+it_c1_ariete_preserie_1;C1 Ariete
+it_c1_ariete_preserie_2;MBT
+
+it_c1_ariete_pso_shop;C1 Ariete (PSO)
+it_c1_ariete_pso_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Carro armato C1 Ariete
+<color=#adadad>(Kit Peace Support Operation tipo 2)</color>"
+it_c1_ariete_pso_1;C1 Ariete (PSO)
+it_c1_ariete_pso_2;MBT
+
+it_c1_ariete_shop;C1 Ariete (WAR)
+it_c1_ariete_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Carro armato C1 Ariete
+<color=#adadad>(Kit WAR)</color>"
+it_c1_ariete_1;C1 Ariete (WAR)
+it_c1_ariete_2;MBT
+
+it_c1_ariete_certezza_shop;C1 Ariete (WAR) (20° Corso)
+it_c1_ariete_certezza_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Carro armato C1 Ariete
+<color=#adadad>(Kit WAR)</color>
+<color=@currencyGoldColor>20° Corso ""Certezza""</color>"
+it_c1_ariete_certezza_1;C1 Ariete (WAR)
+it_c1_ariete_certezza_2;MBT
+
+it_ariete_amv_pt1_shop;C1 Ariete (AMV PT 1)
+it_ariete_amv_pt1_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Carro armato C1 Ariete
+<color=#adadad>(Kit Aggiornamento di Mezza Vita prototipo 1)</color>"
+it_ariete_amv_pt1_1;C1 Ariete (AMV PT 1)
+it_ariete_amv_pt1_2;MBT
+
+it_otomatic_shop;OTOMATIC
+it_otomatic_0;<color=#81c3fc>OTO Melara OTO Main Anti-Aircraft Tank for Intercept and Combat</color>
+it_otomatic_1;OTOMATIC
+it_otomatic_2;SPAAG
+
+it_freccia_shop;VBM Freccia C/C
+it_freccia_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Veicolo blindato medio Freccia contro carro"
+it_freccia_1;VBM Freccia C/C
+it_freccia_2;IFV
+
+it_freccia_hitfist_ows_shop;VBM Freccia C/C (OWS 30mm)
+it_freccia_hitfist_ows_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Veicolo blindato medio Freccia contro carro
+<color=#adadad>(HITFIST Overhead Weapon Systsem 30mm)</color>"
+it_freccia_hitfist_ows_1;VBM Freccia C/C
+it_freccia_hitfist_ows_2;IFV
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
+it_samp_t_launcher_shop;⛨ ACTL SM 88.45 BAD (SAMP/T) (MLT)
+it_samp_t_launcher_0;"<color=#81c3fc>⛨ Astra veicoli industriali Autocarro tattico logistico SM 88.45 BAD <color=@commonTextColor>/</color>
+Eurosam</color>
+<color=#adadad>(Sol-air moyenne portée/terrestre)
+(module de lancement terrestre)</color>"
+it_samp_t_launcher_1;⛨ ACTL SM 88.45 BAD (SAMP/T) (MLT)
+it_samp_t_launcher_2;SPAAM
+
+it_samp_t_fcs_shop;⛨ ACTL SM 88.45 BAD (SAMP/T) (MRI)
+it_samp_t_fcs_0;"<color=#81c3fc>⛨ Astra veicoli industriali Autocarro tattico logistico SM 88.45 BAD <color=@commonTextColor>/</color>
+Eurosam</color>
+<color=#adadad>(Sol-air moyenne portée/terrestre)
+(module radar et IFF)</color>"
+it_samp_t_fcs_1;⛨ ACTL SM 88.45 BAD (SAMP/T) (MRI)
+it_samp_t_fcs_2;Radar
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 9

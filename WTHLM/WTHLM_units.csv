@@ -1519,13 +1519,13 @@ shop/group/germ_leopard_2_group;KPz Leopard 2 A5 / A6
 shop/group/germ_flakpanzer_1_group;Pz.Kpfw. I A (2cm Fla.K. 38) / Flak.Pz. 38
 shop/group/germ_flakpanzer_4_group;Ostwind / Wirbelwind
 shop/group/germ_tiger_east_west_group;"""Two Fronts"""
-shop/group/germ_wiesel_gepard_group;Ozelot / Gepard 1 A2
+shop/group/germ_wiesel_gepard_group;Ozelot / FlakPz 1 A2 Gepard
 shop/group/germ_sturmpanzer_221_group;15cm s.I.G. 33 (Sfl) / Sd.Kfz. 221
 shop/group/germ_panzerjager_251_group;Pz.Jgr. I / m.S.P.W. D (7,5cm K.)
 shop/group/germ_marder_stug_a_group;Marder III / StuG III A
 shop/group/germ_marder_stuh_group;Marder III H / StuH 42 / StuG III F
 shop/group/germ_jagdpanzer_group;Jagdpanzer IV / 38 (t)
-shop/group/germ_jagdpanther_group;Pz.Jgr. Panther G1 / JPz 4-5
+shop/group/germ_jagdpanther_group;Jagdpanther G1 / JPz 4-5
 shop/group/germ_panzerjager_tiger_group;Pz.Jgr. Tiger (P) / B
 shop/group/germ_raketen_group;SPz 12-3 (Typ 3Z 8DLa) / RakJPz 2
 shop/group/germ_puma_group;SPz Puma S0 / VJTF
@@ -1666,8 +1666,8 @@ shop/group/uk_kit_3rank_group;"""Echoes of Overlord"""
 shop/group/uk_marksman_za_group;Chieftain Mk. 10 Marksman / ZA-35
 shop/group/uk_ratel_group;Ratel 90 / 20
 shop/group/uk_g6_eland_group;GV6 Mk 1 / Eland 90
-shop/group/uk_rooikat_olifant_group;Rooikat / Olifant Mk1
-shop/group/uk_mttd_olifant_group;MTTD / Olifant Mk2
+shop/group/uk_rooikat_olifant_group;Rooikat / Olifant Mk 1A
+shop/group/uk_mttd_olifant_group;MTTD / Olifant Mk 2
 shop/group/uk_stormer_group;Stormer / F.V.4333 (HVM)
 shop/group/uk_9a33_35_group;☸ 9A33BM2 / 35M
 shop/group/uk_stormer_9a33_group;Stormer / ☸ Osā-Eke
@@ -1738,9 +1738,9 @@ shop/group/ki_61_group;Ki 44-II Hei / 61-I Otsu
 shop/group/ki_67_group;Ki 67-I Kō / Otsu
 shop/group/ki_84_group;Ki 84-I Kō / Otsu
 shop/group/j2m_group;J2M3 / 5
-shop/group/r2y2_group;R2Y2-G (11 Gata) / (22 Gata) / (32 Gata)
+shop/group/r2y2_group;R2Y2-J (11 Gata) / (22 Gata) / (32 Gata)
 shop/group/f-86_japan_group;▅ F-86F-30 / 40
-shop/group/f_15j_group;▅ F-15J (C4) / J(M)
+shop/group/f_15j_group;▅ F-15J (C4) / (17 Chūki Bō)
 shop/group/f_5_f_16_thailand_group;B.Kh.18Kh (2014) / 19
 shop/group/jp_cruiser_furutaka_aoba_group;Furutaka / Aoba
 
@@ -1799,7 +1799,7 @@ shop/group/re_2000_group;Re.2000 I / GA III
 shop/group/re_2001_group;Re.2001 I / CB I
 shop/group/p_108_group;P.108B I / II
 shop/group/g_55_serie_group;G.55 I / Re.2005
-shop/group/fiat_g91_group;G 91 (pre-serie) / R/1
+shop/group/fiat_g91_group;G 91 (preserie) / R/1
 shop/group/fiat_g91y_group;G 91 Y / YS
 shop/group/tornado_ids_it_group;A-200A (1995) / C (RET8)
 
@@ -1836,13 +1836,13 @@ shop/group/fr_vtb_group;VTB 8 / 11 / 14
 
 shop/group/sw_pvkv_ikv_group;pvkv m/43 / ikv 103
 shop/group/sw_udes_pbv_group;UDES 33 / pbv 302A
-shop/group/sw_t_34_pz_4_group;26 psv T 34 / 25 psv PZ IV
-shop/group/sw_pt_76_comet_group;▄ PT-76 / psv Comet
-shop/group/sw_cv_90_ifv_group;rpsv CV9030 / strf 9040B
+shop/group/sw_t_34_pz_4_group;26 psv. T 34 / 25 psv. PZ IV
+shop/group/sw_pt_76_comet_group;▄ PT-76 / psv. Comet
+shop/group/sw_cv_90_ifv_group;r.psv. CV9030 / strf 9040B
 shop/group/sw_strv_101_103a_group;strv 101 / 103A
 shop/group/sw_strv_104_103c_group;strv 104 / 103C
 shop/group/sw_strv_122_group;strv 122A / B (PLSS)
-shop/group/sw_lvkv_asrad_group;lvkv 9040C / ♛ M113A2 (ASRAD-R)
+shop/group/sw_lvkv_asrad_group;lvkv 9040C / ♛ M113 A2 GE (ASRAD-R)
 shop/group/sw_eldenhet_nomads_group;elde 98 / NOMADS
 shop/group/sw_nasams_fcs_group;◢ NASAMS 3
 shop/group/gladiator_j8a_group;J 8 A / 6 B
@@ -3267,7 +3267,8 @@ douglas_a_1h_2;A-1H
 
 xf5u_1_shop;XF5U-1
 xf5u_1_0;"<color=#81c3fc>Vought-Sikorsky Aircraft</color>
-XF5U-1 ""Flying Flapjack"""
+XF5U-1 ""Flying Flapjack""
+<color=#ff546e>(Machine Gun, Caliber .50, Browning, AN/M2, Aircraft, Fixed)</color>"
 xf5u_1_1;XF5U-1
 xf5u_1_2;XF5U
 
@@ -3555,13 +3556,15 @@ f-5e_2;F-5
 
 f-5c_shop;F-5C-NO
 f-5c_0;"<color=#81c3fc>Northrop Corporation N-156F</color>
-F-5C-NO Skoshi Tiger"
+F-5C-NO Skoshi Tiger
+<color=#ff546e>(Dispensing Set, Countermeasures, AN/ALE-40)</color>"
 f-5c_1;F-5C
 f-5c_2;F-5
 
 f-5a_shop;YF-5A-NO
 f-5a_0;"<color=#81c3fc>Northrop Corporation N-156F</color>
-YF-5A-NO Freedom Fighter"
+YF-5A-NO Freedom Fighter
+<color=#ff546e>(Dispensing Set, Countermeasures, AN/ALE-40)</color>"
 f-5a_1;YF-5A-NO
 f-5a_2;YF-5
 
@@ -3820,6 +3823,20 @@ uh_1c_xm_30_0;UH-1C Iroquois (XM30)
 uh_1c_xm_30_1;UH-1C
 uh_1c_xm_30_2;UH-1
 
+h_34_shop;CH-34A
+h_34_0;"<color=#81c3fc>Sikorsky Aircraft S-58</color>
+<color=#919191>H-34A Choctaw</color>
+Helicopter, Cargo Transport, CH-34A Choctaw"
+h_34_1;CH-34A
+h_34_2;CH-34
+
+h_34_killstreak_shop;CH-34A
+h_34_killstreak_0;"<color=#81c3fc>Sikorsky Aircraft S-58</color>
+<color=#919191>H-34A Choctaw</color>
+Helicopter, Cargo Transport, CH-34A Choctaw"
+h_34_killstreak_1;CH-34A
+h_34_killstreak_2;CH-34
+
 //USA HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 ah_6m_shop;AH-6M
 ah_6m_0;AH-6M
@@ -3867,10 +3884,10 @@ ah_64a_peten_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
 ah_64a_peten_1;▃ AH-64A
 ah_64a_peten_2;▃ AH-64
 
-ah_64e_shop;AH-64E (v6)
+ah_64e_shop;AH-64E (v4.5)
 ah_64e_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
 Helicopter, Attack, AH-64E Guardian Apache
-<color=#adadad>(Capability Version 6)</color>"
+<color=#adadad>(Capability Version 4.5)</color>"
 ah_64e_1;AH-64E
 ah_64e_2;AH-64
 
@@ -4025,8 +4042,9 @@ Tank, Light, M5A1 Stuart"
 us_m5a1_stuart_1;M5A1
 us_m5a1_stuart_2;Light Tank
 
-us_m5a1_stuart_canadian_5st_arm_shop;▃ Stuart, Mk. VI (5th Can.Arm.Div.)
-us_m5a1_stuart_canadian_5st_arm_0;"▃ Tank, Light, Stuart, Mk. VI
+us_m5a1_stuart_canadian_5st_arm_shop;▃ Stuart, Mk. VI (5th CAD)
+us_m5a1_stuart_canadian_5st_arm_0;"<color=#81c3fc>American Car and Foundry Company</color>
+▃ Tank, Light, Stuart, Mk. VI
 <color=@currencyGoldColor>5th Canadian Armoured Division</color>"
 us_m5a1_stuart_canadian_5st_arm_1;▃ Stuart, Mk. VI
 us_m5a1_stuart_canadian_5st_arm_2;Light Tank
@@ -4086,7 +4104,7 @@ us_m4a2_76w_sherman_1;M4A2
 us_m4a2_76w_sherman_2;Medium Tank
 
 us_m4a3e8_76w_sherman_shop;M4A3E8(76)W
-us_m4a3e8_76w_sherman_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+us_m4a3e8_76w_sherman_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
 <color=#5cae63>G-104</color>
 Tank, Medium, M4A3E8(76)W Sherman"
 us_m4a3e8_76w_sherman_1;M4A3E8
@@ -4094,12 +4112,12 @@ us_m4a3e8_76w_sherman_2;Medium Tank
 
 us_m4a3e2_sherman_jumbo_shop;M4A3E2 (75) W
 us_m4a3e2_sherman_jumbo_0;"<color=#5cae63>G-104</color>
-Tank, Medium, M4A3E2 (75)  Sherman ""Jumbo"""
+Tank, Medium, M4A3E2 (75) Sherman ""Jumbo"""
 us_m4a3e2_sherman_jumbo_1;M4A3E2
 us_m4a3e2_sherman_jumbo_2;Assault Tank
 
 us_m4a3e8_76w_sherman_kit_3rank_shop;"M4A3E8(76)W «Hell on Wheels»"
-us_m4a3e8_76w_sherman_kit_3rank_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+us_m4a3e8_76w_sherman_kit_3rank_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
 <color=#5cae63>G-104</color>
 Tank, Medium, M4A3E8(76)W Sherman
 <color=@currencyGoldColor>«Hell on Wheels»</color>"
@@ -4172,13 +4190,14 @@ us_halftrack_m16_1;M16
 us_halftrack_m16_2;SPAA
 
 us_t77e1_shop;T77E1 MGMC
-us_t77e1_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+us_t77e1_0;"<color=#81c3fc>United Shoe Machinery Corporation</color>
 Carriage, Motor, Multiple Caliber .50 Gun, T77E1"
 us_t77e1_1;T77E1
 us_t77e1_2;SPAA
 
 us_m10_shop;M10 GMC
-us_m10_0;"<color=#5cae63>G-130</color>
+us_m10_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant</color>
+<color=#5cae63>G-130</color>
 Carriage, Motor, 3-inch Gun, M10"
 us_m10_1;M10
 us_m10_2;Tank Destroyer
@@ -4209,14 +4228,14 @@ us_m24_chaffee_tutorial_1;M24
 us_m24_chaffee_tutorial_2;Light Tank
 
 us_m18_hellcat_shop;M18 GMC
-us_m18_hellcat_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
+us_m18_hellcat_0;"<color=#81c3fc>General Motors Corporation, Buick Motor Division</color>
 <color=#5cae63>G-163</color>
 Carriage, Motor, 76mm Gun, M18 ""Hellcat"""
 us_m18_hellcat_1;M18 GMC
 us_m18_hellcat_2;Light Tank
 
 us_m18_hellcat_kit_3rank_shop;"M18 GMC «Hell on Wheels»"
-us_m18_hellcat_kit_3rank_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
+us_m18_hellcat_kit_3rank_0;"<color=#81c3fc>General Motors Corporation, Buick Motor Division</color>
 <color=#5cae63>G-163</color>
 Carriage, Motor, 76mm Gun, M18 ""Hellcat""
 <color=@currencyGoldColor>«Hell on Wheels»</color>"
@@ -4224,7 +4243,7 @@ us_m18_hellcat_kit_3rank_1;M18 GMC
 us_m18_hellcat_kit_3rank_2;Medium Tank
 
 us_m18_hellcat_black_cat_shop;M18 GMC (805th TD.Bat.)
-us_m18_hellcat_black_cat_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
+us_m18_hellcat_black_cat_0;"<color=#81c3fc>General Motors Corporation, Buick Motor Division</color>
 <color=#5cae63>G-163</color>
 Carriage, Motor, 76mm Gun, M18 ""Hellcat""
 <color=@currencyGoldColor>805th Tank Destroyer Battalion, ""Black Cat""</color>"
@@ -4232,7 +4251,7 @@ us_m18_hellcat_black_cat_1;M18
 us_m18_hellcat_black_cat_2;Light Tank
 
 us_m18_super_hellcat_shop;M18 GMC (M3)
-us_m18_super_hellcat_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
+us_m18_super_hellcat_0;"<color=#81c3fc>General Motors Corporation, Buick Motor Division</color>
 <color=#5cae63>G-163</color>
 Carriage, Motor, 90mm Gun, M18 ""Super Hellcat"""
 us_m18_super_hellcat_1;M18 GMC
@@ -4293,16 +4312,18 @@ us_m55_1;M55
 us_m55_2;SPH
 
 us_m36_shop;M36 GMC
-us_m36_0;"<color=#5cae63>G-210</color>
+us_m36_0;"<color=#81c3fc>Massey-Harris</color>
+<color=#5cae63>G-210</color>
 Carriage, Motor, 90mm Gun, M36 ""Jackson"""
 us_m36_1;M36
 us_m36_2;Tank Destroyer
 
-us_m36b2_shop;M36B2 GMC
-us_m36b2_0;"<color=#5cae63>G-237</color>
+us_m36b2_shop;M36B2
+us_m36b2_0;"<color=#81c3fc>American Locomotive Company</color>
+<color=#5cae63>G-237</color>
 Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
 us_m36b2_1;M36B2
-us_m36b2_2;Tank Destroyer
+us_m36b2_2;SPG
 
 us_t14_shop;T14
 us_t14_0;"Tank, Assault, T14"
@@ -4310,17 +4331,15 @@ us_t14_1;T14
 us_t14_2;Assault Tank
 
 us_skink_aa_kit_3rank_shop;"▃ Skink «Hell on Wheels»"
-us_skink_aa_kit_3rank_0;"<color=#81c3fc>Canadian Ministry of Munitions and Supply, Army Engineering Design
-Branch <color=@commonTextColor>+</color> Waterloo Manufacturing Company</color>
-▃ Tank, Anti-Aircraft, 20mm, Quad, Skink
+us_skink_aa_kit_3rank_0;"<color=#81c3fc>Montreal Locomotive Works <color=@commonTextColor>/</color> Dominion Foundries and Steel</color>
+▃ Tank, A.A., 20mm, Quad., Skink
 <color=@currencyGoldColor>«Hell on Wheels»</color>"
 us_skink_aa_kit_3rank_1;▃ Skink
 us_skink_aa_kit_3rank_2;SPAA
 
 us_skink_aa_shop;▃ Skink
-us_skink_aa_0;"<color=#81c3fc>Canadian Ministry of Munitions and Supply, Army Engineering Design
-Branch <color=@commonTextColor>+</color> Waterloo Manufacturing Company</color>
-▃ Tank, Anti-Aircraft, 20mm, Quad, Skink"
+us_skink_aa_0;"<color=#81c3fc>Montreal Locomotive Works <color=@commonTextColor>/</color> Dominion Foundries and Steel</color>
+▃ Tank, A.A., 20mm, Quad., Skink"
 us_skink_aa_1;▃ Skink
 us_skink_aa_2;SPAA
 
@@ -4448,7 +4467,7 @@ us_t29_1;T29
 us_t29_2;Heavy Tank
 
 us_m551_76_shop;M551 (M32A1)
-us_m551_76_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+us_m551_76_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 <color=#5cae63>G-310</color>
 Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked: 76mm
 Gun, M551 Sheridan"
@@ -4456,7 +4475,7 @@ us_m551_76_1;M551 (M32A1)
 us_m551_76_2;Light Tank
 
 us_m551_shop;M551
-us_m551_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+us_m551_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 <color=#5cae63>G-310</color>
 Armored Reconnaissance / Airborne Assault Vehicle, Full Tracked:
 152mm Gun-Launcher, M551 Sheridan"
@@ -4503,7 +4522,7 @@ us_m60a1_1;M60A1
 us_m60a1_2;MBT
 
 us_m60a1_rise_passive_era_shop;M60A1 R/PE
-us_m60a1_rise_passive_era_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+us_m60a1_rise_passive_era_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
 Tank, Combat, Full Tracked: 105mm Gun, M60A1 Reliability Improvement
 of Selected Equipment Passive"
 us_m60a1_rise_passive_era_1;M60A1
@@ -4520,7 +4539,7 @@ us_m60a2_1;M60A2
 us_m60a2_2;Medium Tank
 
 us_m60a1_rise_mod_shop;M60A1 R/PE «Predator»
-us_m60a1_rise_mod_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+us_m60a1_rise_mod_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
 Tank, Combat, Full Tracked: 105mm Gun, M60A1 Reliability Improvement
 of Selected Equipment Passive
 <color=@currencyGoldColor>«Predator»</color>"
@@ -4600,7 +4619,7 @@ us_xm_800t_1;XM800T
 us_xm_800t_2;Light Tank
 
 us_stingray_shop;Stingray
-us_stingray_0;<color=#81c3fc>Cadillac Gage Stingray</color>
+us_stingray_0;<color=#81c3fc>Cadillac Gage Company Commando Stingray</color>
 us_stingray_1;Stingray
 us_stingray_2;Light Tank
 
@@ -4856,7 +4875,8 @@ us_losat_ccv_2;SPG
 us_ags_teledyne_shop;ASP (late) (EX 35)
 us_ags_teledyne_0;"<color=#81c3fc>Teledyne Continental Motors Armored Support Platform</color>
 <color=#ff8c80>Armored Gun System</color>
-<color=#adadad>(late) (Gun, 105mm, EX 35 MOD 0)</color>"
+<color=#adadad>(late)</color>
+<color=#ff546e>(Gun, 105mm, EX 35 MOD 0)</color>"
 us_ags_teledyne_1;ASP
 us_ags_teledyne_2;Light Tank
 
@@ -5654,9 +5674,16 @@ bf-109f-2_2;Bf 109
 
 bf_109t_2_shop;Bf 109 T-2
 bf_109t_2_0;"<color=#81c3fc>Messerschmitt</color>
-Bf 109 T-2"
+Bf 8-109 T-2"
 bf_109t_2_1;Bf 109 T
 bf_109t_2_2;Bf 109
+
+bf-109e-3_tl_shop;╎ Bf 109 E-3 (III./JG 51)
+bf-109e-3_tl_0;"<color=#81c3fc>Messerschmitt</color>
+╎ Bf 8-109 E-3
+<color=@currencyGoldColor>III. Gruppe, Jagdgeschwader 51 ""Mölders""</color>"
+bf-109e-3_tl_1;╎ Bf 109 E
+bf-109e-3_tl_2;╎ Bf 109
 
 bf-109f-4_shop;Bf 109 F-4
 bf-109f-4_0;"<color=#81c3fc>Messerschmitt</color>
@@ -6404,13 +6431,13 @@ fiat_g91_r3_2;◄ G 91
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 f-86_canadair_german_shop;◄ Sabre Mk. 5
-f-86_canadair_german_0;"<color=#81c3fc>CL-13A</color>
+f-86_canadair_german_0;"<color=#81c3fc>Canadair CL-13A</color>
 ◄ Sabre Mk. 5"
 f-86_canadair_german_1;◄ Sabre Mk. 5
 f-86_canadair_german_2;◄ Sabre
 
 f-86_cl_13b_mk6_shop;◄ Sabre Mk. 6
-f-86_cl_13b_mk6_0;"<color=#81c3fc>CL-13B</color>
+f-86_cl_13b_mk6_0;"<color=#81c3fc>Canadair CL-13B</color>
 ◄ Sabre Mk. 6"
 f-86_cl_13b_mk6_1;◄ Sabre Mk. 6
 f-86_cl_13b_mk6_2;◄ Sabre
@@ -6638,7 +6665,7 @@ fa_18c_switzerland_2;◌ F/A18
 ef_2000_block_10_shop;◄ Eurofighter (P3Ea)
 ef_2000_block_10_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 10)</color>
 ◄ Eurofighter
-<color=#adadad>(Phase 3 Enhancement A)</color>"
+<color=#ff546e>(Phase 3 Enhancement A)</color>"
 ef_2000_block_10_1;◄ Eurofighter
 ef_2000_block_10_2;◄ Eurofighter
 
@@ -6704,7 +6731,7 @@ mi_24p_german_hfs80_2;◄ Mi-24P
 h145m_shop;◄ H145M LUH SOF (HForce)
 h145m_0;"<color=#81c3fc>Airbus Helicopters Deutschland H145M D2 </color>
 ◄ H145M Light Utility Helicopter Special Operations Forces
-<color=#adadad>(HForce)</color>"
+<color=#ff546e>(HForce)</color>"
 h145m_1;◄ H145M
 h145m_2;◄ H145
 
@@ -7217,7 +7244,7 @@ germ_pzkpfw_VI_tiger_P_2;Heavy Tank
 
 //GERMANY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 germ_le_kpz_m41_shop;◄ KPz M 41 (1965)
-germ_le_kpz_m41_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+germ_le_kpz_m41_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ◄ leichter Kampfpanzer M 41
 <color=#adadad>(1965)</color>"
 germ_le_kpz_m41_1;◄ M 41
@@ -7257,6 +7284,32 @@ germ_flakpanzer_zerstorer_45_0;"Flakpanzerkampfwagen IV ""Zerstörer 45""
 <color=#adadad>(3cm Fla.K.-Vierling)</color>"
 germ_flakpanzer_zerstorer_45_1;Flak.Pz. IV (3cm Fla.K.-V.)
 germ_flakpanzer_zerstorer_45_2;SPAA
+
+germ_panzerjager_panther_shop;Jagdpanther G1
+germ_panzerjager_panther_0;"<color=#81c3fc>Mühlenbau und Industrie Aktiengesellschaft</color>
+<color=#5cae63>Sd.Kfz. 173</color>
+<color=#7ce68f>Panzerjäger Panther (8,8cm) Ausf. G1</color>
+Jagdpanther
+<color=#adadad>(September 1944)</color>"
+germ_panzerjager_panther_1;Jagdpanther G1
+germ_panzerjager_panther_2;Tank Destroyer
+
+germ_panzerbefelhswagen_jagdpanther_shop;Bfw. Jagdpanther G1
+germ_panzerbefelhswagen_jagdpanther_0;"<color=#81c3fc>Mühlenbau und Industrie Aktiengesellschaft</color>
+<color=#5cae63>Sd.Kfz. 173</color>
+<color=#7ce68f>Panzerjäger-Befehlswagen Panther (8,8cm) Ausf. G1</color>
+Jagdpanther"
+germ_panzerbefelhswagen_jagdpanther_1;Bfw. Jagdpanther G1
+germ_panzerbefelhswagen_jagdpanther_2;Tank Destroyer
+
+germ_panzerjager_panther_g2_shop;Jagdpanther G2
+germ_panzerjager_panther_g2_0;"<color=#81c3fc>Maschinenfabrik Niedersachsen Hannover</color>
+<color=#5cae63>Sd.Kfz. 173</color>
+<color=#7ce68f>Panzerjäger Panther (8,8cm) Ausf. G2</color>
+Jagdpanther
+<color=#adadad>(February 1945)</color>"
+germ_panzerjager_panther_g2_1;Jagdpanther G2
+germ_panzerjager_panther_g2_2;Tank Destroyer
 
 germ_panzerjager_tiger_P_ferdinand_shop;Pz.Jgr. Tiger (P)
 germ_panzerjager_tiger_P_ferdinand_0;"<color=#81c3fc>Nibelungenwerk</color>
@@ -7299,6 +7352,12 @@ germ_marder_df_105_0;<color=#81c3fc>◄ Thyssen Henschel DF 105</color>
 germ_marder_df_105_1;◄ DF 105
 germ_marder_df_105_2;Light Tank
 
+germ_sppz2_luchs_a2_shop;SpPz 2 A2 Luchs
+germ_sppz2_luchs_a2_0;"<color=#81c3fc>Thyssen Henschel</color>
+Spähpanzer 2 A2 Luchs"
+germ_sppz2_luchs_a2_1;SpPz 2 A2 Luchs
+germ_sppz2_luchs_a2_2;Scout Tank
+
 germ_leopard_a1a1_120_shop;Leopard 1 (MPI)
 germ_leopard_a1a1_120_0;"<color=#81c3fc>Krauss-Maffei Wegmann <color=@commonTextColor>/</color> Rheinmetall Defense Engineering
 Main Battle Tank Leopard 1</color>
@@ -7307,7 +7366,8 @@ germ_leopard_a1a1_120_1;Leopard 1
 germ_leopard_a1a1_120_2;MBT
 
 germ_leopard_c2_mexas_shop;Leopard C2 (MEXAS)
-germ_leopard_c2_mexas_0;"Leopard C2
+germ_leopard_c2_mexas_0;"<color=#81c3fc>Krauss-Maffei</color>
+Tank, Combat, Full-Tracked, Leopard C2
 <color=#adadad>(Modular Expandable Armour System)</color>"
 germ_leopard_c2_mexas_1;Leopard C2
 germ_leopard_c2_mexas_2;MBT
@@ -7346,6 +7406,20 @@ germ_begleitpanzer_57_shop;Begleit-Pz 57 mm
 germ_begleitpanzer_57_0;<color=#81c3fc>Thyssen Henschel <color=@commonTextColor>+</color> Bofors Begleitpanzer 57 mm</color>
 germ_begleitpanzer_57_1;Begleit-Pz 57 mm
 germ_begleitpanzer_57_2;IFV
+
+germ_flakpz_I_Gepard_shop;FlakPz 1 Gepard (B2)
+germ_flakpz_I_Gepard_0;"<color=#81c3fc>Oerlikon GDP-B03 <color=@commonTextColor>/</color> Krauss-Maffei <color=@commonTextColor>/</color> Krauss-Maffei Wegmann</color>
+Flugabwehrkanonenpanzer 1 Gepard
+<color=#adadad>(B2)</color>"
+germ_flakpz_I_Gepard_1;FlakPz 1 Gepard
+germ_flakpz_I_Gepard_2;SPAAG
+
+germ_flakpz_1a2_Gepard_shop;FlakPz 1 A2 Gepard (LFK Stinger)
+germ_flakpz_1a2_Gepard_0;"<color=#81c3fc>Oerlikon GDP-B03 <color=@commonTextColor>/</color> Krauss-Maffei <color=@commonTextColor>/</color> Krauss-Maffei Wegmann</color>
+Flugabwehrkanonenpanzer 1 A2 Gepard
+<color=#adadad>(Lenkflugkörper Stinger)</color>"
+germ_flakpz_1a2_Gepard_1;FlakPz 1 A2 Gepard
+germ_flakpz_1a2_Gepard_2;SPAAG
 
 germ_jaguar_2_shop;RakJPz 4 Jaguar 2
 germ_jaguar_2_0;"<color=#81c3fc>Thyssen Henschel</color>
@@ -7397,17 +7471,17 @@ Kampfpanzer Leopard 2 A4
 germ_leopard_2a4_1;Leopard 2 A4
 germ_leopard_2a4_2;MBT
 
-germ_leopard_2a4m_can_shop;Leopard 2A4M CAN
-germ_leopard_2a4m_can_0;"<color=#81c3fc>KNDS Deutschland</color>
-Leopard 2A4M CAN"
-germ_leopard_2a4m_can_1;Leopard 2A4M
+germ_leopard_2a4m_can_shop;Leopard 2 A4M CAN
+germ_leopard_2a4m_can_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+Tank, Combat, Full-Tracked, Leopard 2A4M CAN"
+germ_leopard_2a4m_can_1;Leopard 2 A4M
 germ_leopard_2a4m_can_2;MBT
 
-germ_leopard_2a4m_can_sm_shop;◍ Elsa's Leopard 2A4M CAN
-germ_leopard_2a4m_can_sm_0;"<color=#81c3fc>KNDS Deutschland</color>
-◍ Leopard 2A4M CAN
+germ_leopard_2a4m_can_sm_shop;◍ Elsa's Leopard 2 A4M CAN
+germ_leopard_2a4m_can_sm_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+◍ Tank, Combat, Full-Tracked, Leopard 2A4M CAN
 <color=@currencyGoldColor>Elsa's</color>"
-germ_leopard_2a4m_can_sm_1;◍ Leopard 2A4M
+germ_leopard_2a4m_can_sm_1;◍ Leopard 2 A4M
 germ_leopard_2a4m_can_sm_2;MBT
 
 germ_leopard_2av_shop;KPz Leopard 2 AV (PT 19/T 19)
@@ -7584,6 +7658,13 @@ germ_s_700_s_701_0;"<color=#81c3fc>Danziger Waggonfabrik, Bau-Nr. 5001</color>
 S 701"
 germ_s_700_s_701_1;S 701
 germ_s_700_s_701_2;Fast Boat
+
+germ_s_700_s_706_shop;S 706
+germ_s_700_s_706_0;"<color=#81c3fc>Danziger Waggonfabrik, Bau-Nr. 5006</color>
+<color=#fffa62>Schnellboot (S 701-709)</color>
+S 706"
+germ_s_700_s_706_1;S 706
+germ_s_700_s_706_2;Fast Boat
 
 germ_rboot_r41_shop;R 41
 germ_rboot_r41_0;"<color=#81c3fc>Schlichting-Werft, Bau-Nr. 971</color>
@@ -7817,7 +7898,7 @@ germ_destroyer_class1924_leopard1932_2;Torpedo Boat
 germ_destroyer_class1924_leopard1932_EC_0;Torpedoboot Typ 1924 | Leopard (LP) (1932)
 germ_destroyer_class1924_leopard1932_EC_1;Leopard
 germ_destroyer_class1924_leopard1932_EC_2;Torpedo Boat
-        
+
 germ_destroyer_class1924_iltis_shop;Luchs (LU)
 germ_destroyer_class1924_iltis_0;"<color=#81c3fc>Reichsmarinewerft Wilhelmshaven, Bau-Nr. 111</color>
 <color=#fffa62>Torpedoboot Typ 1924</color>
@@ -8903,6 +8984,20 @@ mig_35_1;MiG-35S
 mig_35_2;MiG-35
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+mi_4av_shop;Mi-4AV
+mi_4av_0;"<color=#81c3fc>Lyeningratsk'ij av'iatsionnyj zavot № 387</color>
+<color=#5cae63>izd. 56AV</color>
+V'ertolyet Mi-4AV"
+mi_4av_1;Mi-4AV
+mi_4av_2;Mi-4
+
+mi_4av_killstreak_shop;Mi-4AV
+mi_4av_killstreak_0;"<color=#81c3fc>Lyeningratsk'ij av'iatsionnyj zavot № 387</color>
+<color=#5cae63>izd. 56AV</color>
+V'ertolyet Mi-4AV"
+mi_4av_killstreak_1;Mi-4AV
+mi_4av_killstreak_2;Mi-4
+
 mi_24d_shop;▂ Mi-24D
 mi_24d_0;"<color=#5cae63>izd. 246</color>
 ▂ Mi-24D"
@@ -8959,10 +9054,11 @@ ussr_bt_7_1937_1;BT-7
 ussr_bt_7_1937_2;Light Tank
 
 ussr_bt_7_m_shop;BT-7M
-ussr_bt_7_m_0;"<color=#5cae63>A-8</color>
-BT-7M"
+ussr_bt_7_m_0;"<color=#81c3fc>Khar'kofsk'ij tankovyj zavot № 183 im. Komint'erna</color>
+<color=#5cae63>Ob""yekt A-8</color>
+Bystrokhodnyj tank BT-7M"
 ussr_bt_7_m_1;BT-7M
-ussr_bt_7_m_2;Light Tank
+ussr_bt_7_m_2;Fast Tank
 
 ussr_bt_7_1937_td_shop;⋦ BT-7 (1937)
 ussr_bt_7_1937_td_0;"<color=#5cae63>A-7</color>
@@ -8970,12 +9066,21 @@ ussr_bt_7_1937_td_0;"<color=#5cae63>A-7</color>
 ussr_bt_7_1937_td_1;⋦ BT-7
 ussr_bt_7_1937_td_2;Light Tank
 
-ussr_bt_7a_f32_shop;BT-7A (F-32)
-ussr_bt_7a_f32_0;"<color=#5cae63>A-7</color>
-BT-7A
-<color=#adadad>(F-32)</color>"
-ussr_bt_7a_f32_1;BT-7A (F-32)
-ussr_bt_7a_f32_2;Light Tank
+ussr_bt_7_m_816_shop;⋦ BT-7M (№ 816)
+ussr_bt_7_m_816_0;"<color=#81c3fc>Khar'kofsk'ij tankovyj zavot № 183 im. Komint'erna</color>
+<color=#5cae63>Ob""yekt A-8</color>
+⋦ Bystrokhodnyj tank BT-7M
+<color=@currencyGoldColor>25-j tankovyj korpus, 4-ya lyekkotankovaya brigada, № 816</color>"
+ussr_bt_7_m_816_1;⋦ BT-7M
+ussr_bt_7_m_816_2;Fast Tank
+
+ussr_bt_7a_f32_shop;BT-7art (F-32)
+ussr_bt_7a_f32_0;"<color=#81c3fc>Khar'kofsk'ij tankovyj zavot № 183 im. Komint'erna</color>
+<color=#5cae63>Ob""yekt A-7</color>
+Bystrokhodnyj tank BT-7 art'illyerijsk'ij
+<color=#adadad>(76-mm tankovaya pushka F-32 obr. 1939 g.)</color>"
+ussr_bt_7a_f32_1;BT-7art
+ussr_bt_7a_f32_2;Fast Tank
 
 ussr_bt_7_1937_race_shop;BT-7
 ussr_bt_7_1937_race_0;"<color=#5cae63>A-7</color>
@@ -9380,8 +9485,7 @@ ussr_is_2_1944_revenge_1;IS-2
 ussr_is_2_1944_revenge_2;Heavy Tank
 
 ussr_is_2m_kit_4rank_shop;IS-2M «Be Prepared!»
-ussr_is_2m_kit_4rank_0;"<color=#81c3fc>K'irofsk'ij zavot Narkomata tankovoj promyshlyennost'i v gorod'e
-Ch'elyab'insk'e (Zavot № 100)</color>
+ussr_is_2m_kit_4rank_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 <color=#5cae63>Ob""yekt 240</color>
 Tank IS-2M
 <color=@currencyGoldColor>«Be Prepared!»</color>"
@@ -9863,17 +9967,19 @@ ussr_t_90a_1;T-90A
 ussr_t_90a_2;MBT
 
 ussr_t_90m_2020_shop;Т-90М
-ussr_t_90m_2020_0;"<color=#81c3fc>Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod»</color>
+ussr_t_90m_2020_0;"<color=#81c3fc>Nauchno-proizvodzdv'ennaya korporatsiya «Uralvagonzavot» im. F. E.
+Dz'erzhinskovo</color>
 <color=#5cae63>Ob""yekt 188M</color>
 Танк T-90M obr. 2017 g. ""Proryv-3"""
 ussr_t_90m_2020_1;Т-90М
 ussr_t_90m_2020_2;MBT
 
 ussr_t_90m_arena_m_shop;T-90M (Aryena-M)
-ussr_t_90m_arena_m_0;"<color=#81c3fc>Naučno-proizvodstvyennaâ korporacziâ «UralVagonZavod»</color>
+ussr_t_90m_arena_m_0;"<color=#81c3fc>Nauchno-proizvodzdv'ennaya korporatsiya «Uralvagonzavot» im. F. E.
+Dz'erzhinskovo</color>
 <color=#5cae63>Ob""yekt 188M</color>
 T-90M obr. 2017 g. ""Proryv-3""
-<color=#adadad>(Komplyeks aktivnoj zaŝity T09-A6-1 ""Aryena-M"")</color>"
+<color=#adadad>(Komplyeks akt'ivnoj zash'ity T09-A6-1 ""Aryena-M"")</color>"
 ussr_t_90m_arena_m_1;T-90M
 ussr_t_90m_arena_m_2;MBT
 
@@ -9950,16 +10056,18 @@ ussr_9p157_1;9P157-2
 ussr_9p157_2;SPG
 
 ussr_bmpt_shop;BMPT (2002)
-ussr_bmpt_0;"<color=#81c3fc>Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ</color>
+ussr_bmpt_0;"<color=#81c3fc>Proizvodzdv'ennoye ob""yed'inyeniye «Uralvagonzavot» im. F. E.
+Dz'erzhinskovo</color>
 <color=#5cae63>Ob""yekt 199</color>
-Boyevaâ mašina poddyeržki tankov BMPT obr. 2002 g. ""Tyerminator"""
+Boyevaya mashina podd'ershk'i tankof BMPT obr. 2002 g. ""Tyerminator"""
 ussr_bmpt_1;BMPT
 ussr_bmpt_2;IFV
 
 ussr_bmpt_72_shop;BMPT-72
-ussr_bmpt_72_0;"<color=#81c3fc>Ural'skoye konstruktorskoye bûro transportnogo mašinostroyeniâ</color>
+ussr_bmpt_72_0;"<color=#81c3fc>Nauchno-proizvodzdv'ennaya korporatsiya «Uralvagonzavot» im. F. E.
+Dz'erzhinskovo</color>
 <color=#5cae63>Ob""yekt 183</color>
-Boyevaâ mašina poddyeržki tankov BMPT-72 ""Tyerminator-2"""
+Boyevaya mashina podd'ershk'i tankof BMPT-72 ""Tyerminator-2"""
 ussr_bmpt_72_1;BMPT-72
 ussr_bmpt_72_2;IFV
 
@@ -11281,16 +11389,16 @@ Welkin F. Mk. I"
 welkin_fmk1_1;Welkin F. Mk. I
 welkin_fmk1_2;Welkin
 
-hornet_mk3_shop;Hornet Mk. III
+hornet_mk3_shop;Hornet F. Mk. 3
 hornet_mk3_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 103</color>
-Hornet Mk. III"
-hornet_mk3_1;Hornet Mk. III
+Hornet F. Mk. 3"
+hornet_mk3_1;Hornet F. Mk. 3
 hornet_mk3_2;Hornet
 
-hornet_mk1_shop;Hornet Mk. I
+hornet_mk1_shop;Hornet F. Mk. 1
 hornet_mk1_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 103</color>
-Hornet Mk. I"
-hornet_mk1_1;Hornet Mk. I
+Hornet F. Mk. 1"
+hornet_mk1_1;Hornet F. Mk. 1
 hornet_mk1_2;Hornet
 
 lancaster_mk1_shop;Lancaster B. Mk. I
@@ -11959,29 +12067,32 @@ uk_a27m_cromwell_5_rp3_1;Cromwell, Mk. Vc
 uk_a27m_cromwell_5_rp3_2;Cruiser Tank
 
 uk_sherman_II_shop;Sherman, Mk. II
-uk_sherman_II_0;"<color=#81c3fc>Chrysler Corporation</color>
+uk_sherman_II_0;"<color=#81c3fc>Pressed Steel Car Company</color>
 Tank, Medium, Sherman, Mk. II"
 uk_sherman_II_1;Sherman, Mk. II
 uk_sherman_II_2;Medium Tank
 
 uk_sherman_vc_firefly_shop;Sherman, Mk. Vc
-uk_sherman_vc_firefly_0;"<color=#81c3fc>Chrysler Corporation <color=@commonTextColor>/</color> Royal Ordnance Factory, Nottingham</color>
+uk_sherman_vc_firefly_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant <color=@commonTextColor>/</color> Royal Ordnance
+Factory, Nottingham</color>
 Tank, Medium, Sherman, Mk. Vc ""Firefly"""
 uk_sherman_vc_firefly_1;Sherman, Mk. V
 uk_sherman_vc_firefly_2;Medium Tank
 
 uk_sherman_vc_firefly_kit_3rank_shop;"Sherman, Mk. Vc «Echoes of Overlord»"
-uk_sherman_vc_firefly_kit_3rank_0;"<color=#81c3fc>Chrysler Corporation <color=@commonTextColor>/</color> Royal Ordnance Factory, Nottingham</color>
+uk_sherman_vc_firefly_kit_3rank_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant <color=@commonTextColor>/</color> Royal Ordnance
+Factory, Nottingham</color>
 Tank, Medium, Sherman, Mk. Vc ""Firefly""
 <color=@currencyGoldColor>«Echoes of Overlord»</color>"
 uk_sherman_vc_firefly_kit_3rank_1;Sherman, Mk. V
 uk_sherman_vc_firefly_kit_3rank_2;Medium Tank
 
 uk_sherman_ic_firefly_shop;⋠ Sherman, Mk. Ic (2. Dy.Pan.)
-uk_sherman_ic_firefly_0;"<color=#81c3fc>Chrysler Corporation <color=@commonTextColor>/</color> Royal Ordnance Factory, Nottingham</color>
+uk_sherman_ic_firefly_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant <color=@commonTextColor>/</color> Royal Ordnance
+Factory, Nottingham</color>
 ⋠ Tank, Medium, Sherman, Mk. Ic ""Firefly""
 <color=@currencyGoldColor>2. Warszawska Dywizja Pancerna, 2. Warszawska Brygada Pancerna, 4. Pułk
-Pancerny ""Skorpion"", 1. Szwadron, ""Trzyniec""</color>"
+Pancerny ""Skorpion"", 1. Szwadron, «Trzyniec»</color>"
 uk_sherman_ic_firefly_1;⋠ Sherman, Mk. Ic
 uk_sherman_ic_firefly_2;Medium Tank
 
@@ -12324,28 +12435,15 @@ uk_a39_tortoise_2;Heavy Assult Tank
 uk_as_90_mk_2_shop;L131
 uk_as_90_mk_2_0;"<color=#81c3fc>Vickers Shipbuilding and Engineering</color>
 <color=#ff8c80>Artillery System for the 1990s</color>
-Gun Equipment, 155 mm, L131"
+Gun Equipment, 155mm, L131"
 uk_as_90_mk_2_1;L131
 uk_as_90_mk_2_2;SPH
 
 uk_skink_aa_shop;Skink
 uk_skink_aa_0;"<color=#81c3fc>Montreal Locomotive Works <color=@commonTextColor>/</color> Dominion Foundries and Steel</color>
-Tank, Anti-Aircraft, 20mm, Quad, Skink"
+Tank, A.A., 20mm, Quad., Skink"
 uk_skink_aa_1;Skink
 uk_skink_aa_2;SPAAG
-
-us_skink_aa_kit_3rank_shop;"▃ Skink «Hell on Wheels»"
-us_skink_aa_kit_3rank_0;"<color=#81c3fc>Montreal Locomotive Works <color=@commonTextColor>/</color> Dominion Foundries and Steel</color>
-▃ Tank, Anti-Aircraft, 20mm, Quad, Skink
-<color=@currencyGoldColor>«Hell on Wheels»</color>"
-us_skink_aa_kit_3rank_1;▃ Skink
-us_skink_aa_kit_3rank_2;SPAA
-
-us_skink_aa_shop;▃ Skink
-us_skink_aa_0;"<color=#81c3fc>Montreal Locomotive Works <color=@commonTextColor>/</color> Dominion Foundries and Steel</color>
-▃ Tank, Anti-Aircraft, 20mm, Quad, Skink"
-us_skink_aa_1;▃ Skink
-us_skink_aa_2;SPAA
 
 uk_ratel_90_shop;Ratel 90 Mk 3
 uk_ratel_90_0;"<color=#81c3fc>Sandock-Austral <color=@commonTextColor>/</color> Lyttelton Engineering Works</color>
@@ -12395,7 +12493,7 @@ uk_fv221_caernarvon_2;Heavy Tank
 uk_conqueror_mk_2_shop;Conqueror, Mk. 2
 uk_conqueror_mk_2_0;"<color=#81c3fc>Royal Ordnance Factory, Dalmuir</color>
 <color=#5cae63>F.V.214</color>
-Tank, Heavy No. 1, 120 mm gun, Conqueror, Mk. 2"
+Tank, Heavy No. 1, 120mm Gun, Conqueror, Mk. 2"
 uk_conqueror_mk_2_1;Conqueror, Mk. 2
 uk_conqueror_mk_2_2;Heavy Tank
 
@@ -12739,7 +12837,7 @@ uk_ajax_1;Ajax
 uk_ajax_2;AFV
 
 uk_t_90s_bheeshma_shop;☸ Ṭī-90 Es Bhīṣma
-uk_t_90s_bheeshma_0;"<color=#81c3fc>UralVagonZavot <color=@commonTextColor>/</color> Bhārī Vāhan Nirmāṇī</color>
+uk_t_90s_bheeshma_0;"<color=#81c3fc>Bhārī Vāhan Nirmāṇī</color>
 ☸ Ṭaink Ṭī-90 Es Bhīṣma"
 uk_t_90s_bheeshma_1;☸ Ṭī-90 Es
 uk_t_90s_bheeshma_2;MBT
@@ -12766,11 +12864,11 @@ Enhancement Package Version 3"
 uk_m1a2_sep3_abrams_1;▄ M1A2 SEPv3
 uk_m1a2_sep3_abrams_2;MBT
 
-uk_adats_m113a3_shop;▄ ADATS
+uk_adats_m113a3_shop;▄ ADATS M113A2CDN
 uk_adats_m113a3_0;"<color=#81c3fc>FMC Corporation Ordnance Division <color=@commonTextColor>/</color> OC Oerlikon Corporation <color=@commonTextColor>+</color> Martin
 Marietta Corporation</color>
-▄ Air Defense Anti-Tank System"
-uk_adats_m113a3_1;▄ ADATS
+▄ Carrier, Personnel, Full-Tracked, ADATS M113A2CDN"
+uk_adats_m113a3_1;▄ ADATS M113A2CDN
 uk_adats_m113a3_2;SPAAM
 
 uk_sky_sabre_launcher_shop;SV 15T (Land Ceptor)
@@ -12935,7 +13033,7 @@ uk_isles_class_trawler_shop;HMS Orsay (J 450)
 uk_isles_class_trawler_0;"<color=#81c3fc>Cochrane & Sons</color>
 <color=#fffa62>Isles-class</color>
 HMS Orsay (J 450)
-<color=#adadad>(Gun, Q.F., 4-inch, Mk. V)</color>"
+<color=#ff546e>(Gun, Q.F., 4-inch, Mk. V)</color>"
 uk_isles_class_trawler_1;HMS Orsay
 uk_isles_class_trawler_2;Danlayer
 
@@ -13635,10 +13733,11 @@ Ki 43-II ""Hayabusa""
 ki_43_2_1;Ki 43-II
 ki_43_2_2;Ki 43
 
-ki_43_3_otsu_shop;Ki 43-III Otsu
-ki_43_3_otsu_0;"<color=#81c3fc>Nakajima Hikōki <color=@commonTextColor>/</color> Tachikawa Hikōki</color>
-<color=#7ce68f>1 Shiki Sentōki 3 Gata Otsu</color>
-Ki 43-III Otsu ""Hayabusa"""
+ki_43_3_otsu_shop;Ki 43-III (Ho 5)
+ki_43_3_otsu_0;"<color=#81c3fc>Tachikawa Hikōki</color>
+<color=#7ce68f>1 Shiki Sentōki 3 Gata</color>
+Ki 43-III Otsu ""Hayabusa""
+<color=#adadad>(Ho 5)</color>"
 ki_43_3_otsu_1;Ki 43-III
 ki_43_3_otsu_2;Ki 43
 
@@ -13878,14 +13977,16 @@ n1k1_ja_2;N1K
 
 n1k2_j_shop;N1K2-J
 n1k2_j_0;"<color=#81c3fc>Kawanishi Kōkūki</color>
-<color=#7ce68f>Shiden 12 Gata</color>
+<color=#919191>Shiden Kai</color>
+<color=#7ce68f>Shiden 21 Gata</color>
 N1K2-J"
 n1k2_j_1;N1K2
 n1k2_j_2;
 
 n1k2_jko_shop;N1K2-J Kō
 n1k2_jko_0;"<color=#81c3fc>Kawanishi Kōkūki</color>
-<color=#7ce68f>Shiden 12 Gata Kō</color>
+<color=#919191>Shiden Kai</color>
+<color=#7ce68f>Shiden 21 Gata Kō</color>
 N1K2-J Kō"
 n1k2_jko_1;N1K2
 n1k2_jko_2;N1K
@@ -14222,7 +14323,7 @@ p-51c-11-nt_japan_2;▅ P-51
 ki-96_shop;Ki 96 (3 Gō)
 ki-96_0;"<color=#81c3fc>Kawasaki Kōkūki Kōgyō</color>
 Ki 96
-<color=#adadad>(Shisei 3 Gō)</color>"
+<color=@currencyGoldColor>Shisei 3 Gō</color>"
 ki-96_1;Ki 96
 ki-96_2;Ki 96
 
@@ -14332,14 +14433,16 @@ j6k1_2;J6K
 kitsuka_shop;M7N1-J Kō
 kitsuka_0;"<color=#81c3fc>Nakajima Hikōki</color>
 <color=#7ce68f>Shisei Kikka Kai 21 Gata Kō</color>
-M7N1-J Kō"
+M7N1-J Kō
+<color=#ff546e>(5 Shiki 30 Miri Kotei Kijū)</color>"
 kitsuka_1;M7N1
 kitsuka_2;M7N
 
 j8m1_shop;J8M1
 j8m1_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō</color>
 <color=#7ce68f>Shisei Shūsui</color>
-J8M1"
+J8M1
+<color=#ff546e>(Ho 155-I)</color>"
 j8m1_1;J8M1
 j8m1_2;J8M
 
@@ -14355,25 +14458,25 @@ Khērūng Bin Khab Lai Bāeb Thī 16"
 f-84g_thailand_1;B.Kh.16
 f-84g_thailand_2;B.Kh.16
 
-r2y2_v1_shop;R2Y2-G (11 Gata)
+r2y2_v1_shop;R2Y2-J (11 Gata)
 r2y2_v1_0;"<color=#81c3fc>Kaigun Kōkū Gijutsu Shō</color>
 <color=#7ce68f>Shisei Keiun Kai 11 Gata</color>
-R2Y2-G"
-r2y2_v1_1;R2Y2-G
+R2Y2-J"
+r2y2_v1_1;R2Y2-J
 r2y2_v1_2;R2Y
 
-r2y2_v2_shop;R2Y2-G (22 Gata)
+r2y2_v2_shop;R2Y2-J (22 Gata)
 r2y2_v2_0;"<color=#81c3fc>Kaigun Kōkū Gijutsu Shō</color>
 <color=#7ce68f>Shisei Keiun Kai 22 Gata</color>
-R2Y2-G"
-r2y2_v2_1;R2Y2-G
+R2Y2-J"
+r2y2_v2_1;R2Y2-J
 r2y2_v2_2;R2Y
 
-r2y2_kai_shop;R2Y2-G (32 Gata)
+r2y2_kai_shop;R2Y2-J (32 Gata)
 r2y2_kai_0;"<color=#81c3fc>Kaigun Kōkū Gijutsu Shō</color>
 <color=#7ce68f>Shisei Keiun Kai 32 Gata</color>
-R2Y2-G"
-r2y2_kai_1;R2Y2-G
+R2Y2-J"
+r2y2_kai_1;R2Y2-J
 r2y2_kai_2;R2Y
 
 f-86f-30_japan_shop;▅ F-86F-30-NA
@@ -14527,15 +14630,18 @@ hawk_209_indonesia_2;◥ Hawk
 
 //JAPAN AIRCRAFT - VEHICLE/FAMILY START: RANK 8
 f_15j_shop;▅ F-15J (C4)
-f_15j_0;"<color=#81c3fc>McDonnell Douglas Corporation <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+f_15j_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
 ▅ F-15J ""Īguru""
 <color=#adadad>(C4 Rotto)</color>"
 f_15j_1;▅ F-15J
 f_15j_2;▅ F-15
 
-f_15j_kai_shop;▅ F-15J(M)
-f_15j_kai_0;"<color=#81c3fc>McDonnell Douglas Corporation <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
-▅ F-15J(M) ""Īguru"""
+f_15j_kai_shop;▅ F-15J (17 Chūki Bō)
+f_15j_kai_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C <color=@commonTextColor>/</color> Mitsubishi Jū Kōgyō</color>
+▅ F-15J ""Īguru""
+<color=#adadad>(C7 Rotto)
+(Chūki Bōeiryoku Seibi Keikaku (Heisei 17 Nendo~Heisei 21 Nendo))</color>
+<color=#ff546e>(Rēdā Keikai Sōchi J/APR-4)</color>"
 f_15j_kai_1;▅ F-15J
 f_15j_kai_2;▅ F-15
 
@@ -14632,10 +14738,10 @@ Gaisha</color>
 ah_64d_japan_1;▅ AH-64D
 ah_64d_japan_2;▅ AH-64
 
-ah_64e_indonesia_shop;◥ AH-64E (v6)
+ah_64e_indonesia_shop;◥ AH-64E (v4.5)
 ah_64e_indonesia_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
 ◥ Helicopter, Attack, AH-64E Guardian Apache
-<color=#adadad>(Capability Version 6)</color>"
+<color=#ff546e>(Capability Version 4.5)</color>"
 ah_64e_indonesia_1;◥ AH-64E
 ah_64e_indonesia_2;◥ AH-64
 
@@ -14822,7 +14928,7 @@ jp_type_95_so_ki_2;SPAAG
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 jp_m24_chaffee_shop;▅ M24
-jp_m24_chaffee_0;"<color=#81c3fc>Cadillac Motor Company</color>
+jp_m24_chaffee_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ▅ M24 Sensha ""Chāfī"""
 jp_m24_chaffee_1;▅ M24
 jp_m24_chaffee_2;Light Tank
@@ -14871,7 +14977,7 @@ jp_m44_1;▅ M44A1
 jp_m44_2;SPH
 
 jp_m19_shop;▅ M19A1
-jp_m19_0;"<color=#81c3fc>Cadillac Motor Company</color>
+jp_m19_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ▅ M19A1 Jisō Kōsha Kikan Hō"
 jp_m19_1;▅ M19A1
 jp_m19_2;SPAA
@@ -14884,13 +14990,13 @@ jp_m42_duster_2;SPAA
 
 //JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 jp_m4a3e8_76w_sherman_shop;▅ M4A3E8
-jp_m4a3e8_76w_sherman_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+jp_m4a3e8_76w_sherman_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
 ▅ M4A3E8 Sensha ""Shāman"""
 jp_m4a3e8_76w_sherman_1;▅ M4A3
 jp_m4a3e8_76w_sherman_2;Medium Tank
 
 jp_m41_walker_bulldog_shop;▅ M41A1
-jp_m41_walker_bulldog_0;"<color=#81c3fc>Cadillac Motor Company</color>
+jp_m41_walker_bulldog_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ▅ M41A1 Sensha ""Wōkā Burudoggu"""
 jp_m41_walker_bulldog_1;▅ M41A1
 jp_m41_walker_bulldog_2;Light Tank
@@ -14947,7 +15053,8 @@ jp_type_61_mod_1;61TK (C)
 jp_type_61_mod_2;Medium Tank
 
 jp_m36b2_jgsdf_shop;▅ M36B2 GMC
-jp_m36b2_jgsdf_0;"<color=#81c3fc>GM Defense</color>
+jp_m36b2_jgsdf_0;"<color=#81c3fc>American Locomotive Company</color>
+<color=#5cae63>G-237</color>
 ▅ Carriage, Motor, 90mm Gun, M36B2 ""Jackson"""
 jp_m36b2_jgsdf_1;▅ M36B2
 jp_m36b2_jgsdf_2;SPG
@@ -14985,7 +15092,7 @@ jp_type_5_ho_ri_production_shop;Ho Ri (fictional)
 jp_type_5_ho_ri_production_0;"<color=#81c3fc>Mitsubishi Jū Kōgyō Tōkyō Kiki Seisakusho</color>
 <color=#7ce68f>Shisei Shin Hō Sensha (Kō)</color>
 Ho Ri
-<color=#adadad>(fictional)</color>"
+<color=#ff546e>(fictional)</color>"
 jp_type_5_ho_ri_production_1;Ho Ri
 jp_type_5_ho_ri_production_2;SPG
 
@@ -15121,7 +15228,7 @@ jp_m60a3_tts_1;Th.Lak Em 60 E 3
 jp_m60a3_tts_2;MBT
 
 jp_stingray_shop;Th.Bao 32
-jp_stingray_0;"<color=#81c3fc>Cadillac Gage Stingray</color>
+jp_stingray_0;"<color=#81c3fc>Cadillac Gage Textron Commando Stingray</color>
 Rot Thang Bao 32"
 jp_stingray_1;Th.Bao 32
 jp_stingray_2;Light Tank
@@ -16005,9 +16112,9 @@ ki-27_otsu_china_0;"<color=#81c3fc>Nakajima Hikōki</color>
 ki-27_otsu_china_1;☀ 97 Shì Zhàn Yi
 ki-27_otsu_china_2;☀ 97 Shì Zhàn
 
-ki_43_3_ko_shop;☀ 1 Shì Zhàn 3 Xíng Jia
-ki_43_3_ko_0;"<color=#81c3fc>Nakajima Hikōki</color>
-☀ 1 Shì Zhàndòujī 3 Xíng Jia ""Sun"""
+ki_43_3_ko_shop;☀ 1 Shì Zhàn 3 Xíng
+ki_43_3_ko_0;"<color=#81c3fc>Tachikawa Hikōki</color>
+☀ 1 Shì Zhàndòujī 3 Xíng ""Sun"""
 ki_43_3_ko_1;☀ 1 Shì Zhàn 3 Xíng
 ki_43_3_ko_2;☀ 1 Shì Zhàn
 
@@ -16421,8 +16528,8 @@ q_5l_1;Q5L
 q_5l_2;Q5
 
 mig-17_f5_shop;▆ F5
-mig-17_f5_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 155 <color=@commonTextColor>/</color> Guóyíng Sōnglíng Jīxiè Chang</color>
-▆ Chugyeokgi 《F5》"
+mig-17_f5_0;"<color=#81c3fc>Guóyíng Sōnglíng Jīxiè Chang</color>
+▆ Chugyeoggi 《F5》"
 mig-17_f5_1;▆ F5
 mig-17_f5_2;▆ F5
 
@@ -16549,7 +16656,7 @@ jf_17_1;JF-17 Block I
 jf_17_2;JF-17
 
 su_30mkk_shop;␗ Sū 30MKK
-su_30mkk_0;"<color=#81c3fc>Kompaniâ «Sukhoj»</color>
+su_30mkk_0;"<color=#81c3fc>Komsomol'sk'ij-na-Amurye av'iatsionnyj zavot imyeni Yu. A. Gagarina</color>
 ␗ Sū 30MKK Xíng Fēijī"
 su_30mkk_1;␗ Sū 30MKK
 su_30mkk_2;␗ Sū 30
@@ -16637,10 +16744,10 @@ Z10 Xíng Wuzhuāng Zhíshēngjī ""Pīlìhuǒ""
 z_10a_1;Z10
 z_10a_2;Z10
 
-ah_64e_china_shop;☀ AH-64E (v6)
+ah_64e_china_shop;☀ AH-64E (v4.5)
 ah_64e_china_0;"<color=#81c3fc>Boeing Defense, Space & Security</color>
 ☀ AH-64E Zhàndòu Zhíshēngjī
-<color=#adadad>(Capability Version 6)</color>"
+<color=#ff546e>(Capability Version 4.5)</color>"
 ah_64e_china_1;☀ AH-64E
 ah_64e_china_2;☀ AH-64
 
@@ -16724,7 +16831,7 @@ cn_m5a1_stuart_1;☀ M5A1
 cn_m5a1_stuart_2;Light Tank
 
 cn_m24_chaffee_shop;☀ M24
-cn_m24_chaffee_0;"<color=#81c3fc>United States Army Ordnance Department <color=@commonTextColor>+</color> Cadillac Motor Car Division</color>
+cn_m24_chaffee_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ☀ M24 Zhànchē"
 cn_m24_chaffee_1;☀ M24
 cn_m24_chaffee_2;Light Tank
@@ -16763,7 +16870,7 @@ cn_lvt_4_zis_2_1;␗ LVT
 cn_lvt_4_zis_2_2;SPG
 
 cn_m10_shop;☀ M10
-cn_m10_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+cn_m10_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant</color>
 ☀ M10 Qūzhú Pào Chē"
 cn_m10_1;☀ M10
 cn_m10_2;Tank Destroyer
@@ -16772,42 +16879,42 @@ cn_m10_2;Tank Destroyer
 cn_object_211_shop;211 (4 Hào) (63 Shì)
 cn_object_211_0;"<color=#81c3fc>Xīnán Chēliàng Zhìzào Chang</color>
 211 Shuilù Tankè
-<color=#adadad>(Yàng Chē 4 Hào) (1963 Nián Shì 85 Háomi Tankè Pào)</color>"
+<color=#ff546e>(1963 Nián Shì 85 Háomi Tankè Pào)</color>
+<color=@currencyGoldColor>Yàngchē 4 Hào</color>"
 cn_object_211_1;211
 cn_object_211_2;Light Tank
 
 cn_pt_76_shop;␗ PT-76
-cn_pt_76_0;"<color=#81c3fc>Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo
-mašinostroyeniâ (VNII-100)</color>
+cn_pt_76_0;"<color=#81c3fc>Stalingratsk'ij traktornyj zavot im. F. E. Dz'erzhinskovo</color>
 <color=#5cae63>Ob""yekt 740</color>
 ␗ PT-76 obr. 1953 g."
 cn_pt_76_1;␗ PT-76
 cn_pt_76_2;Light Tank
 
 cn_t_34_1942_shop;␗ Tè 34 (1942)
-cn_t_34_1942_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
+cn_t_34_1942_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot № 183</color>
 ␗ Tè 34 Zhōngxíng Tankè
 <color=#adadad>(1942)</color>"
 cn_t_34_1942_1;␗ Tè 34
 cn_t_34_1942_2;Medium Tank
 
 cn_t_34_85_d_5t_shop;␗ Tè 34 (1944)
-cn_t_34_85_d_5t_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
+cn_t_34_85_d_5t_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot № 183</color>
 ␗ Tè 34 Zhōngxíng Tankè
 <color=#adadad>(1944)</color>"
 cn_t_34_85_d_5t_1;␗ Tè 34 (1944)
 cn_t_34_85_d_5t_2;Medium Tank
 
 cn_type_58_shop;␗ Tè 34 (1960)
-cn_type_58_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ) <color=@commonTextColor>/</color> Guóyíng Hā'ěrbīn Dì Yī
-Jīqì Zhìzào Chang (Guóyíng Dì 674 Chang)</color>
+cn_type_58_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot № 183 <color=@commonTextColor>/</color> Guóyíng Hā'ěrbīn Dì Yī Jīqì Zhìzào Chang
+(Guóyíng Dì 674 Chang)</color>
 ␗ Tè 34 Zhōngxíng Tankè
 <color=#adadad>(1960)</color>"
 cn_type_58_1;␗ Tè 34 (1960)
 cn_type_58_2;Medium Tank
 
 cn_t_34_85_zis_53_no215_shop;␗ Tè 34 (1944) (Tankè Dì 2 Shī)
-cn_t_34_85_zis_53_no215_0;"<color=#81c3fc>Ural'skij tankovyj zavod № 183 im. Stalina (UTZ)</color>
+cn_t_34_85_zis_53_no215_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot № 183</color>
 ␗ Tè 34 Zhōngxíng Tankè
 <color=#adadad>(1944)</color>
 <color=@currencyGoldColor>Tankè Dì 2 Shī</color>"
@@ -16833,41 +16940,39 @@ cn_m55_1;☀ M55
 cn_m55_2;SPH
 
 cn_isu_152_shop;␗ ISU-152
-cn_isu_152_0;"<color=#81c3fc>Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo
-mašinostroyeniâ (VNII-100)</color>
+cn_isu_152_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ ISU-152 Zìxíng Huopào"
 cn_isu_152_1;␗ ISU-152
 cn_isu_152_2;SPG
 
 cn_m36_shop;☀ M36
-cn_m36_0;"<color=#81c3fc>United States Army Ordnance Department</color>
+cn_m36_0;"<color=#81c3fc>Massey-Harris</color>
 ☀ M36 Qūzhú Pào Chē"
 cn_m36_1;☀ M36
 cn_m36_2;Tank Destroyer
 
 cn_isu_122_shop;␗ ISU-122
-cn_isu_122_0;"<color=#81c3fc>Vsyerossijskij naučno-isslyedovatyel'skij institut transportnogo
-mašinostroyeniâ (VNII-100)</color>
+cn_isu_122_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ ISU-122 Zìxíng Huopào"
 cn_isu_122_1;␗ ISU-122
 cn_isu_122_2;SPG
 
 cn_m41_a3_walker_bulldog_shop;☀ M41A3
-cn_m41_a3_walker_bulldog_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+cn_m41_a3_walker_bulldog_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 ☀ M41A3 Zhànchē ""Huákè Mengquan"""
 cn_m41_a3_walker_bulldog_1;☀ M41
 cn_m41_a3_walker_bulldog_2;Light Tank
 
 cn_m_41d_shop;☀ M41D
-cn_m_41d_0;"<color=#81c3fc>Cadillac Motor Car Division <color=@commonTextColor>/</color> Lùjūn Bīng Gōng Zhěngbèi Fāzhan
-Zhōngxīn</color>
+cn_m_41d_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division <color=@commonTextColor>/</color> Lùjūn Bīng
+Gōng Zhěngbèi Fāzhan Zhōngxīn</color>
 ☀ M41D Zhànchē ""Huákè Mengquan"""
 cn_m_41d_1;☀ M41D
 cn_m_41d_2;Light Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 cn_m18_hellcat_shop;☀ M18
-cn_m18_hellcat_0;"<color=#81c3fc>General Motors' Buick Motor Division</color>
+cn_m18_hellcat_0;"<color=#81c3fc>General Motors Corporation, Buick Motor Division</color>
 ☀ M18 Qūzhú Pào Chē"
 cn_m18_hellcat_1;☀ M18
 cn_m18_hellcat_2;Light Tank
@@ -16898,34 +17003,34 @@ cn_type_62_1;ZTQ62
 cn_type_62_2;Light Tank
 
 cn_is_2_1943_shop;␗ Sī 2 (1943)
-cn_is_2_1943_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
+cn_is_2_1943_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ Sī 2 Zhòngxíng Tankè
 <color=#adadad>(1943)</color>"
 cn_is_2_1943_1;␗ Sī 2
 cn_is_2_1943_2;Heavy Tank
 
 cn_is_2_1944_shop;␗ Sī 2 (1944)
-cn_is_2_1944_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
+cn_is_2_1944_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ Sī 2 Zhòngxíng Tankè
 <color=#adadad>(1944)</color>"
 cn_is_2_1944_1;␗ Sī 2
 cn_is_2_1944_2;Heavy Tank
 
 cn_is_2_1943_no402_shop;␗ Sī 2 (1943) (Tankè Dì 3 Shī)
-cn_is_2_1943_no402_0;"<color=#81c3fc>Kirovskij zavod narkomtankoproma v g. Čyelâbinskye (ČKZ)</color>
+cn_is_2_1943_no402_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 ␗ Sī 2 Zhòngxíng Tankè
 <color=#adadad>(1943)</color>
 <color=@currencyGoldColor>Tankè Dì 3 Shī</color>"
 cn_is_2_1943_no402_1;␗ Sī 2
 cn_is_2_1943_no402_2;Heavy Tank
 
-cn_zsd63_pg87_shop;ZSD63B (PG87)
+cn_zsd63_pg87_shop;ZSD63 (PG87)
 cn_zsd63_pg87_0;"<color=#81c3fc>Zhōngguó Bīngqì Gōngyè Jítuán Youxiàn Gōngsī</color>
-<color=#5cae63>WZ531</color>
-<color=#919191>1963 Nián 2 Shì Lüdài Zhuāngjia Shūsòng Chē</color>
-ZSD1963B Shì Lüdài Zhuāngjia Shūsòng Chē
+<color=#5cae63>WZ A531</color>
+<color=#919191>1963 Nián Shì Lüdài Zhuāngjia Shūsòng Chē</color>
+ZSD1963 Shì Lüdài Zhuāngjia Shūsòng Chē
 <color=#adadad>(PG1987 Shì Shuāng Guan 25 Háomi Gāoshè Jīguān Pào)</color>"
-cn_zsd63_pg87_1;ZSD63B (PG87)
+cn_zsd63_pg87_1;ZSD63 (PG87)
 cn_zsd63_pg87_2;SPAAG
 
 cn_zsl_92_shop;ZSL92
@@ -16936,13 +17041,14 @@ cn_zsl_92_1;ZSL92
 cn_zsl_92_2;Light Tank
 
 cn_su_100_1945_shop;␗ SU-100
-cn_su_100_1945_0;"<color=#81c3fc>Ural'skij zavod tâžëlogo mašinostroyeniâ im. S. Ordžonikidzye (UZTM)</color>
+cn_su_100_1945_0;"<color=#81c3fc>Ural'sk'ij zavot t'azhyologo mashinostroyeniya im. S. Ordzhonik'idz'e</color>
 ␗ SU-100 Zìxíng Huopào"
 cn_su_100_1945_1;␗ SU-100
 cn_su_100_1945_2;SPG
 
 cn_plz_83_shop;PLZ83
 cn_plz_83_0;"<color=#81c3fc>Guóyíng Hā'ěrbīn Dì Yī Jīqì Zhìzào Chang (Guóyíng Dì 674 Chang)</color>
+<color=#5cae63>WZ321</color>
 <color=#919191>1983 Nián Shì 155 Háomi Zìxíng Jiā Liúpào</color>
 PLZ1983 Shì 155 Háomi Zìxíng Jiā Liúpào"
 cn_plz_83_1;PLZ83
@@ -17169,7 +17275,7 @@ cn_object_122tm_shop;1221 (302)
 cn_object_122tm_0;"<color=#81c3fc>Nèiménggu Dì Yī Jīxiè Chang</color>
 <color=#ff8c80>2 4 Huìzhàn Bàngōngshì</color>
 1221 Zhōngxíng Tankè
-<color=#adadad>(302 Fan Tankè Daodàn)</color>"
+<color=#ff546e>(302 Fan Tankè Daodàn)</color>"
 cn_object_122tm_1;1221
 cn_object_122tm_2;Medium Tank
 
@@ -17186,7 +17292,7 @@ cn_type_69_2g_1;Ṭi-69 II
 cn_type_69_2g_2;Armored Tank
 
 cn_t_62_shop;␗ T-62 (57-go Po.)
-cn_t_62_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 520</color>
+cn_t_62_0;"<color=#81c3fc>Ural'sk'im vagonostroit'el'nym zavodom im. F. E. Dz'erzhinskovo</color>
 <color=#5cae63>Ob""yekt 166</color>
 ␗ T-62 obr. 1964 g.
 <color=@currencyGoldColor>57-go Pogranotryada</color>"
@@ -17503,13 +17609,13 @@ iar_81c_db_605_2;I.A.R. 81
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 me_210ca_1_hungary_shop;◐ Me 210 Ca-1
-me_210ca_1_hungary_0;"<color=#81c3fc>Messerschmitt <color=@commonTextColor>/</color> Dunai Repülogépgyár</color>
+me_210ca_1_hungary_0;"<color=#81c3fc>Dunai Repülogépgyár</color>
 ◐ Me 210 Ca-1 nehéz vadászrepülőgép"
 me_210ca_1_hungary_1;◐ Me 210 Ca
 me_210ca_1_hungary_2;◐ Me 210
 
 me_210ca_1_40_mm_hungary_shop;◐ Me 210 Ca-1 (36 M.)
-me_210ca_1_40_mm_hungary_0;"<color=#81c3fc>Messerschmitt <color=@commonTextColor>/</color> Dunai Repülogépgyár</color>
+me_210ca_1_40_mm_hungary_0;"<color=#81c3fc>Dunai Repülogépgyár</color>
 ◐ Me 210 Ca-1 nehéz vadászrepülőgép
 <color=#adadad>(4 cm 36 M. légvédelmi gépágyú)</color>"
 me_210ca_1_40_mm_hungary_1;◐ Me 210 Ca
@@ -17535,20 +17641,20 @@ bf-109g-2_hungary_2;◐ Bf 109
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 il-10_1946_hungary_shop;◔ Il-10 (1947)
-il-10_1946_hungary_0;"<color=#81c3fc>Zavod № 18</color>
+il-10_1946_hungary_0;"<color=#81c3fc>Zavot № 18</color>
 ◔Il-10 Párduc repülőgép
 <color=#adadad>(1947)</color>"
 il-10_1946_hungary_1;◔ Il-10
 il-10_1946_hungary_2;◔ Il-10
 
 tu-2_postwar_late_hungary_shop;◔ Tu-2Sz-59
-tu-2_postwar_late_hungary_0;"<color=#81c3fc>Aviaczionnyj zavod № 23</color>
+tu-2_postwar_late_hungary_0;"<color=#81c3fc>Av'iatsionnyj zavot № 23</color>
 ◔ Tu-2Sz széria 59 repülőgép"
 tu-2_postwar_late_hungary_1;◔ Tu-2Sz
 tu-2_postwar_late_hungary_2;◔ Tu-2
 
 yak-9p_hungary_shop;◔ Jak-9P
-yak-9p_hungary_0;"<color=#81c3fc>Zavod № 153</color>
+yak-9p_hungary_0;"<color=#81c3fc>Zavot № 153</color>
 ◔ Jak-9P repülőgép"
 yak-9p_hungary_1;◔ Jak-9P
 yak-9p_hungary_2;◔ Jak-9P
@@ -17575,12 +17681,12 @@ vampire_fb52a_italy_1;⛨ Vampire F.B. Mk. 52A
 vampire_fb52a_italy_2;⛨ Vampire
 
 f-86_cl_13_mk4_italy_shop;⛨ Sabre Mk. 4
-f-86_cl_13_mk4_italy_0;"<color=#81c3fc>CL-13A</color>
+f-86_cl_13_mk4_italy_0;"<color=#81c3fc>Canadair CL-13</color>
 ⛨ Sabre Mk. 4"
 f-86_cl_13_mk4_italy_1;⛨ Sabre Mk. 4
 f-86_cl_13_mk4_italy_2;⛨ Sabre
 
-fiat_g91_ps_shop;G 91 (pre-serie)
+fiat_g91_ps_shop;G 91 (preserie)
 fiat_g91_ps_0;"<color=#81c3fc>Fiat Aviazione</color>
 G 91
 <color=#adadad>(pre-serie)</color>"
@@ -17622,20 +17728,20 @@ mb_326b_1;MB-326B
 mb_326b_2;MB-326
 
 il_28_hungary_shop;◔ Il-28
-il_28_hungary_0;"<color=#81c3fc>Aviaczionnyj zavod № 30</color>
+il_28_hungary_0;"<color=#81c3fc>Av'iatsionnyj zavot № 30</color>
 ◔ Il-28 repülőgép"
 il_28_hungary_1;◔ Il-28
 il_28_hungary_2;◔ Il-28
 
 mig-15bis_nr23_hungary_shop;◔ MiG-15Bisz
-mig-15bis_nr23_hungary_0;"<color=#81c3fc>Aviaczionnyj zavod № 153 SD</color>
+mig-15bis_nr23_hungary_0;"<color=#81c3fc>Av'iatsionnyj zavot № 153 SD</color>
 ◔ MiG-15Bisz repülőgép"
 mig-15bis_nr23_hungary_1;◔ MiG-15Bisz
 mig-15bis_nr23_hungary_2;◔ MiG-15
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 mig-17pf_hungary_shop;◔ MiG-17PF
-mig-17pf_hungary_0;"<color=#81c3fc>Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye</color>
+mig-17pf_hungary_0;"<color=#81c3fc>Gor'kofsk'ij av'iatsionnyj zavot im. S. Ordzhonik'idz'e</color>
 ◔ MiG-17PF repülőgép"
 mig-17pf_hungary_1;◔ MiG-17PF
 mig-17pf_hungary_2;◔ MiG-17
@@ -17682,25 +17788,25 @@ tornado_ids_it_ret8_1;A-200C
 tornado_ids_it_ret8_2;A-200
 
 su_22m3_hungary_shop;◔ Szu-22M3
-su_22m3_hungary_0;"<color=#81c3fc>Komsomol'skij-na-Amurye aviaczionnyj zavod im. Û. A. Gagarina</color>
+su_22m3_hungary_0;"<color=#81c3fc>Komsomol'sk'ij-na-Amurye av'iatsionnyj zavot im. Yu. A. Gagarina</color>
 ◔ Szu-22M3 repülőgép"
 su_22m3_hungary_1;◔ Szu-22M
 su_22m3_hungary_2;◔ Szu-22
 
 mig-21_mf_hungary_shop;◔ MiG-21MF
-mig-21_mf_hungary_0;"<color=#81c3fc>Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye</color>
+mig-21_mf_hungary_0;"<color=#81c3fc>Gor'kofsk'ij av'iatsionnyj zavot im. S. Ordzhonik'idz'e</color>
 ◔ MiG-21MF repülőgép"
 mig-21_mf_hungary_1;◔ MiG-21MF
 mig-21_mf_hungary_2;◔ MiG-21
 
 mig-21_bis_sau_hungary_shop;◔ MiG-21Bisz
-mig-21_bis_sau_hungary_0;"<color=#81c3fc>Gor'kovskij aviaczionnyj zavod im. S. Ordžonikidzye</color>
+mig-21_bis_sau_hungary_0;"<color=#81c3fc>Gor'kofsk'ij av'iatsionnyj zavot im. S. Ordzhonik'idz'e</color>
 ◔ MiG-21Bisz repülőgép"
 mig-21_bis_sau_hungary_1;◔ MiG-21Bisz
 mig-21_bis_sau_hungary_2;◔ MiG-21
 
 mig_23mf_hungary_shop;◔ MiG-23MF
-mig_23mf_hungary_0;"<color=#81c3fc>Moskovskij mašinostroityel'nyj zavod «Znamâ Truda»</color>
+mig_23mf_hungary_0;"<color=#81c3fc>Moskofsk'ij mashinostroit'el'nyj zavot «Znamya Truda»</color>
 ◔ MiG-23MF repülőgép"
 mig_23mf_hungary_1;◔ MiG-23MF
 mig_23mf_hungary_2;◔ MiG-23
@@ -17724,7 +17830,7 @@ m_346fa_1;M-346FA
 m_346fa_2;M-346
 
 mig_29_9_12b_hungary_shop;◔ MiG-29
-mig_29_9_12b_hungary_0;"<color=#81c3fc>Nižyegorodskij gosudarstvyennyj aviaczionnyj zavod «Sokol»</color>
+mig_29_9_12b_hungary_0;"<color=#81c3fc>Nizhyegorotsk'ij gosudarzdv'ennyj av'iatsionnyj zavot «Sokol»</color>
 ◔ MiG-29 Fulcrum-A repülőgép"
 mig_29_9_12b_hungary_1;◔ MiG-29
 mig_29_9_12b_hungary_2;◔ MiG-29
@@ -17744,14 +17850,14 @@ saab_jas39c_hungary_2;◔ JAS 39
 ef_2000a_shop;⛨ F-2000A (P3Ea)
 ef_2000a_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15)</color>
 ⛨ F-2000A
-<color=#adadad>(Phase 3 Enhancement A)</color>"
+<color=#ff546e>(Phase 3 Enhancement A)</color>"
 ef_2000a_1;⛨ F-2000A
 ef_2000a_2;⛨ F-2000
 
 ef_2000a_aesa_shop;⛨ F-2000A (ECRS Mk2)
 ef_2000a_aesa_0;"<color=#81c3fc>Eurofighter Jagdflugzeug EF2000 Typhoon (Tranche 2 Block 15)</color>
 ⛨ F-2000A Typhoon
-<color=#adadad>(ECRS Mk2)</color>"
+<color=#ff546e>(ECRS Mk2)</color>"
 ef_2000a_aesa_1;⛨ F-2000A
 ef_2000a_aesa_2;⛨ F-2000
 
@@ -17763,21 +17869,21 @@ ab_205a_1_1;UH-205A
 ab_205a_1_2;UH-205
 
 mi_24d_hungary_shop;◔ Mi-24D
-mi_24d_hungary_0;"<color=#81c3fc>Aviaryemontnyj zavod № 116</color>
+mi_24d_hungary_0;"<color=#81c3fc>Av'iaryemontnyj zavot № 116</color>
 ◔ Mi-24D helikopter"
 mi_24d_hungary_1;◔ Mi-24D
 mi_24d_hungary_2;◔ Mi-24
 
 mi_24p_hungary_shop;◔ Mi-24P
-mi_24p_hungary_0;"<color=#81c3fc>Aviaczionnaâ proizvodstvyennaâ ob""yedinyeniye «Progryess» im.
-N. I. Sazykina</color>
+mi_24p_hungary_0;"<color=#81c3fc>Av'iatsionnaya proizvodzdv'ennaya ob""yed'inyeniye «Progryess» im. N. I.
+Sazyk'ina</color>
 ◔ Mi-24P helikopter"
 mi_24p_hungary_1;◔ Mi-24P
 mi_24p_hungary_2;◔ Mi-24
 
 mi_24v_hungary_shop;◔ Mi-24V
-mi_24v_hungary_0;"<color=#81c3fc>Aviaczionnaâ proizvodstvyennaâ ob""yedinyeniye «Progryess» im.
-N. I. Sazykina</color>
+mi_24v_hungary_0;"<color=#81c3fc>Av'iatsionnaya proizvodzdv'ennaya ob""yed'inyeniye «Progryess» im. N. I.
+Sazyk'ina</color>
 ◔ Mi-24V helikopter"
 mi_24v_hungary_1;◔ Mi-24V
 mi_24v_hungary_2;◔ Mi-24
@@ -17841,7 +17947,7 @@ it_39m_csaba_1;39 M. Csaba
 it_39m_csaba_2;Armored Car
 
 it_toldi_II_a_shop;38 M. Toldi B 40 k. hk.
-it_toldi_II_a_0;"<color=#81c3fc>Landsverk <color=@commonTextColor>/</color> Magyar Királyi Állami Vas-, Acél- és Gépgyárak</color>
+it_toldi_II_a_0;"<color=#81c3fc>Landsverk L-60Ö <color=@commonTextColor>/</color> Magyar Királyi Állami Vas-, Acél- és Gépgyárak</color>
 38 M. Toldi B 40 könnyű harckocsi"
 it_toldi_II_a_1;38 M. Toldi
 it_toldi_II_a_2;Light Tank
@@ -17934,8 +18040,8 @@ it_fiat_6616_ub_1;▂ Fiat 6616BM
 it_fiat_6616_ub_2;Armored Car
 
 it_fiat_6614_106sr_shop;Fiat 6614 (M40A1)
-it_fiat_6614_106sr_0;<color=#81c3fc>Fiat OTO Melara Tipo 6614</color>
-<color=#adadad>(M40A1)</color>
+it_fiat_6614_106sr_0;"<color=#81c3fc>Fiat OTO Melara Tipo 6614</color>
+<color=#adadad>(M40A1)</color>"
 it_fiat_6614_106sr_1;Fiat 6614
 it_fiat_6614_106sr_2;Light Tank
 
@@ -17966,10 +18072,10 @@ it_palmaria_0;<color=#81c3fc>OTO Melara Obice semovente Palmaria 155/41</color>
 it_palmaria_1;Palmaria
 it_palmaria_2;SPH
 
-it_2s1_shop;◔ 2SZ1
-it_2s1_0;"<color=#81c3fc>Kharkìvs'kij traktornij zavod (KhTZ)</color>
-◔ 122 mm-es 2SZ1 önjáró tarack ""Gvozgyika"""
-it_2s1_1;◔ 2SZ1
+it_2s1_shop;◔ 2Sz1
+it_2s1_0;"<color=#81c3fc>Kharkіfs'k'ij traktornij zavot</color>
+◔ 122 mm-es 2Sz1 önjáró tarack ""Gvozgyika"""
+it_2s1_1;◔ 2Sz1
 it_2s1_2;SPH
 
 it_pzkpfw_VI_ausf_e_tiger_shop;◐ Tiger E (spät)
@@ -18016,27 +18122,27 @@ it_leopard_1a5_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 it_leopard_1a5_1;⛨ Leopard 1 A5
 it_leopard_1a5_2;MBT
 
-it_zsu_57_2_shop;◔ ZSZU-57-2
-it_zsu_57_2_0;"<color=#81c3fc>Omskij zavod № 174 im. Vorošilova</color>
-◔ 57 mm-es ZSZU-57-2 önjáró légvédelmi gépágyú ""Büszke"""
-it_zsu_57_2_1;◔ ZSZU-57-2
+it_zsu_57_2_shop;◔ ZSzU-57-2
+it_zsu_57_2_0;"<color=#81c3fc>Omsk'ij zavot № 174 im. Voroshilova</color>
+◔ 57 mm-es ZSzU-57-2 önjáró légvédelmi gépágyú ""Büszke"""
+it_zsu_57_2_1;◔ ZSzU-57-2
 it_zsu_57_2_2;SPAAG
 
-it_zsu_23_4_shop;◔ ZSZU-23-4V
-it_zsu_23_4_0;"<color=#81c3fc>Mytiŝinskij ordyena Otyečyestvyennoj vojny 1 styepyeni
-mašinostroityel'nyj zavod</color>
-◔ 23 mm-es ZSZU-23-4V önjáró légvédelmi gépágyú ""Silka"""
-it_zsu_23_4_1;◔ ZSZU-23-4V
+it_zsu_23_4_shop;◔ ZSzU-23-4V
+it_zsu_23_4_0;"<color=#81c3fc>Myt'ish'insk'ij ord'ena Ot'ech'ezdv'ennoj vojny 1 st'ep'eni
+mashinostroit'el'nyj zavot</color>
+◔ 23 mm-es ZSzU-23-4V önjáró légvédelmi gépágyú ""Silka"""
+it_zsu_23_4_1;◔ ZSzU-23-4V
 it_zsu_23_4_2;SPAAG
 
-it_pzh_2000_shop;⛨ PzH 2000
+it_pzh_2000_shop;⛨ PzH 2000 I
 it_pzh_2000_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
-⛨ Semovente PzH 2000"
-it_pzh_2000_1;⛨ PzH 2000
+⛨ Semovente PzH 2000 I"
+it_pzh_2000_1;⛨ PzH 2000 I
 it_pzh_2000_2;SPH
 
 it_btr_80a_hungary_shop;◔ BTR-80A
-it_btr_80a_hungary_0;"<color=#81c3fc>Proizvodstvyennoye ob""yedinyeniye «Gor'kovskij avtomobil'nyj zavod»</color>
+it_btr_80a_hungary_0;"<color=#81c3fc>Gor'kofsk'ij aftomob'il'nyj zavot</color>
 ◔ BTR-80A gyalogsági harcjármű"
 it_btr_80a_hungary_1;◔ BTR-80A
 it_btr_80a_hungary_2;IFV
@@ -18073,7 +18179,7 @@ it_m113a1_tow_1;⛨ M113A1 (TOW)
 it_m113a1_tow_2;SPG
 
 it_t_72m1_shop;◔ T-72M1
-it_t_72m1_0;"<color=#81c3fc>Opytno-konstruktorskoye bûro № 520 im. Morozova</color>
+it_t_72m1_0;"<color=#81c3fc>Ural'sk'ij vagonostroit'el'nyj zavot im. F. E. Dz'erzhinskovo</color>
 ◔ T-72M1 harckocsi"
 it_t_72m1_1;◔ T-72M1
 it_t_72m1_2;MBT
@@ -18086,7 +18192,7 @@ it_9a33bm3_1;╏ 9A33BM3
 it_9a33bm3_2;SPAA
 
 it_9a35_m_shop;◔ 9A35M
-it_9a35_m_0;"<color=#81c3fc>Konstruktorskoye bûro točnogo mašinostroyeniâ im. A. È. Nudyel'mana</color>
+it_9a35_m_0;"<color=#81c3fc>Konstruktorskoye b'uro tochnogo mashinostroyeniya im. A. E. Nud'el'mana</color>
 ◔ 9A35M önjáró légvédelmi rakétakomplexum ""Sztrela-10M"""
 it_9a35_m_1;◔ 9A35M
 it_9a35_m_2;SPAAM
@@ -18110,19 +18216,19 @@ it_freccia_hitfist_ows_1;VBM Freccia C/C
 it_freccia_hitfist_ows_2;IFV
 
 it_leopard_2a4_shop;◔ Leopard 2A4HU
-it_leopard_2a4_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+it_leopard_2a4_0;"<color=#81c3fc>Krauss-Maffei</color>
 ◔ Leopard 2A4HU harckocsi"
 it_leopard_2a4_1;◔ Leopard 2A4
 it_leopard_2a4_2;MBT
 
 it_leopard_2a7_hungary_shop;◔ Leopard 2A7HU
-it_leopard_2a7_hungary_0;"<color=#81c3fc>KNDS</color>
+it_leopard_2a7_hungary_0;"<color=#81c3fc>KNDS Deutschland</color>
 ◔ Leopard 2A7HU harckocsi"
 it_leopard_2a7_hungary_1;◔ Leopard 2A7
 it_leopard_2a7_hungary_2;MBT
 
 it_kf_41_shop;◔ Lynx KF41
-it_kf_41_0;"<color=#81c3fc>Rheinmetall Lynx KF41 <color=@commonTextColor>/</color> Rheinmetall Hungary</color>
+it_kf_41_0;"<color=#81c3fc>Rheinmetall Hungary Lynx KF41</color>
 ◔ Lynx KF41 gyalogsági harcjármű ""Hiúz"""
 it_kf_41_1;◔ Lynx KF41
 it_kf_41_2;IFV
@@ -18873,17 +18979,26 @@ pb4y-2_france_0;"☨ PB4Y-2S
 pb4y-2_france_1;☨ PB4Y-2
 pb4y-2_france_2;☨ PB4Y
 
+lancaster_mr7_france_shop;Lancaster Mk. VII (WU)
+lancaster_mr7_france_0;"<color=#81c3fc>A.V. Roe and Company Type 683</color>
+Lancaster Mk. VII
+<color=#adadad>(Western Union)</color>"
+lancaster_mr7_france_1;Lancaster Mk. VII
+lancaster_mr7_france_2;Lancaster
+
 spitfire_fr_mk14e_belgium_shop;▄ Spitfire L.F. Mk. XIV (e)
 spitfire_fr_mk14e_belgium_0;"<color=#81c3fc>Supermarine Aviation Works (Vickers) Type 379</color>
 ▄ Spitfire L.F. Mk. XIV (e)-vliegtuig"
 spitfire_fr_mk14e_belgium_1;▄ Spitfire L.F. Mk. XIV
 spitfire_fr_mk14e_belgium_2;▄ Spitfire
 
-hunter_f6_holland_shop;◘ Hunter F. Mk. 6
-hunter_f6_holland_0;"<color=#81c3fc>Hawker Aircraft</color>
-◘ Hunter F. Mk. 6"
-hunter_f6_holland_1;◘ Hunter F. Mk. 6
-hunter_f6_holland_2;◘ Hunter
+so_8000_narval_shop;Narval (n° 02)
+so_8000_narval_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest
+S.O. 8000-02</color>
+Narval
+<color=@currencyGoldColor>Prototype n° 2</color>"
+so_8000_narval_1;Narval
+so_8000_narval_2;Narval
 
 //FRANCE AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 md_452_mystere_2c_preproduction_shop;Mystère II C
@@ -18893,20 +19008,42 @@ md_452_mystere_2c_preproduction_1;Mystère II C
 md_452_mystere_2c_preproduction_2;Mystère II C
 
 so_4050_vautour_2n_late_shop;Vautour II N (M)
-so_4050_vautour_2n_late_0;"S.O.4050 Vautour II N
-<color=#adadad>(M)</color>"
-so_4050_vautour_2n_late_1;Vautour II N (M)
+so_4050_vautour_2n_late_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest
+S.O. 4050</color>
+<color=#ff8c80>Opération Jouventour</color>
+Vautour II N
+<color=#adadad>(Monobloc)</color>"
+so_4050_vautour_2n_late_1;Vautour II N
 so_4050_vautour_2n_late_2;Vautour II
 
+so_4050_vautour_2b_shop;Vautour II B
+so_4050_vautour_2b_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest
+S.O. 4050</color>
+<color=#ff8c80>Opération Jouventour</color>
+Vautour II B"
+so_4050_vautour_2b_1;Vautour II B
+so_4050_vautour_2b_2;Vautour II
+
+so_4050_vautour_2a_shop;Vautour II A
+so_4050_vautour_2a_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest
+S.O. 4050</color>
+<color=#ff8c80>Opération Jouventour</color>
+Vautour II A"
+so_4050_vautour_2a_1;Vautour II A
+so_4050_vautour_2a_2;Vautour II
+
 so_4050_vautour_2n_shop;Vautour II N (C)
-so_4050_vautour_2n_0;"S.O.4050 Vautour II N
-<color=#adadad>(C)</color>"
-so_4050_vautour_2n_1;Vautour II N (C)
+so_4050_vautour_2n_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest
+S.O. 4050</color>
+<color=#ff8c80>Opération Jouventour</color>
+Vautour II N
+<color=#adadad>(Classique)</color>"
+so_4050_vautour_2n_1;Vautour II N
 so_4050_vautour_2n_2;Vautour II
 
 se_203_shop;Aquilon 203
 se_203_0;"<color=#81c3fc>de Havilland Aircraft Company D.H. 112 <color=@commonTextColor>/</color> Société nationale des
-constructions aéronautiques du Sud-Est SE.203</color>
+constructions aéronautiques du Sud-Est S.E. 203</color>
 Aquilon 203"
 se_203_1;Aquilon 203
 se_203_2;Aquilon
@@ -18929,6 +19066,12 @@ alpha_jet_e_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation <color=@co
 ☨ Alpha Jet E"
 alpha_jet_e_1;☨ Alpha Jet E
 alpha_jet_e_2;☨ Alpha Jet
+
+hunter_f6_holland_shop;◘ Hunter F. Mk. 6
+hunter_f6_holland_0;"<color=#81c3fc>Hawker Aircraft</color>
+◘ Hunter F. Mk. 6"
+hunter_f6_holland_1;◘ Hunter F. Mk. 6
+hunter_f6_holland_2;◘ Hunter
 
 mirage_milan_shop;Milan S 01
 mirage_milan_0;"<color=#81c3fc>Avions Marcel Dassault-Breguet Aviation</color>
@@ -19011,9 +19154,10 @@ constructions aéronautiques</color>
 f-104g_belgium_1;▄ F-104G
 f-104g_belgium_2;▄ F-104
 
-nf_5a_netherlands_shop;◘ NF-5A
+nf_5a_netherlands_shop;◘ NF-5A (EOV)
 nf_5a_netherlands_0;"<color=#81c3fc>Northrop Corporation N-156 <color=@commonTextColor>/</color> Canadair CL-226-1A10</color>
-◘ NF-5A Freedom Fighter"
+◘ NF-5A Freedom Fighter
+<color=#adadad>(elektronische oorlogsvoering)</color>"
 nf_5a_netherlands_1;◘ NF-5A
 nf_5a_netherlands_2;◘ NF-5
 
@@ -19030,10 +19174,10 @@ Mirage 2000-5 F"
 mirage_2000_5f_1;Mirage 2000-5
 mirage_2000_5f_2;Mirage 2000
 
-mirage_2000d_r1_shop;Mirage 2000 D R1 (ECLAIR-M)
+mirage_2000d_r1_shop;Mirage 2000 D R1
 mirage_2000d_r1_0;"<color=#81c3fc>Dassault Aviation</color>
 Mirage 2000 D R1
-<color=#adadad>(ECLAIR-M)</color>"
+<color=#ff546e>(ECLAIR-M)</color>"
 mirage_2000d_r1_1;Mirage 2000 D
 mirage_2000d_r1_2;Mirage 2000
 
@@ -19069,8 +19213,7 @@ f_16am_block_15_mlu_belgium_1;▄ F-16AM
 f_16am_block_15_mlu_belgium_2;▄ F-16
 
 f_16a_block_5_netherlands_shop;◘ F-16A-5-CF
-f_16a_block_5_netherlands_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Koninklijke Nederlandse
-Vliegtuigenfabriek Fokker</color>
+f_16a_block_5_netherlands_0;"<color=#81c3fc>Koninklijke Nederlandse Vliegtuigenfabriek Fokker</color>
 ◘ F-16A-5-CF Fighting Falcon"
 f_16a_block_5_netherlands_1;◘ F-16A
 f_16a_block_5_netherlands_2;◘ F-16
@@ -19082,8 +19225,7 @@ f_16a_block_15_ocu_belgium_1;▄ F-16A
 f_16a_block_15_ocu_belgium_2;▄ F-16
 
 f_16am_block_20_mlu_netherlands_shop;◘ F-16AM-20-CF
-f_16am_block_20_mlu_netherlands_0;"<color=#81c3fc>General Dynamics Corporation <color=@commonTextColor>/</color> Koninklijke Nederlandse
-Vliegtuigenfabriek Fokker</color>
+f_16am_block_20_mlu_netherlands_0;"<color=#81c3fc>Koninklijke Nederlandse Vliegtuigenfabriek Fokker</color>
 ◘ F-16AM-20-CF Fighting Falcon"
 f_16am_block_20_mlu_netherlands_1;◘ F-16A
 f_16am_block_20_mlu_netherlands_2;◘ F-16
@@ -19111,6 +19253,13 @@ rafale_m_f3r_1;Rafale M
 rafale_m_f3r_2;Rafale
 
 //FRANCE HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+h_34_france_shop;☨ H-34A
+h_34_france_0;"<color=#81c3fc>Sikorsky Aircraft S-58 <color=@commonTextColor>/</color> Société nationale de constructions aéronautiques
+Sud Aviation</color>
+☨ Hélicoptère H-34A"
+h_34_france_1;☨ H-34A
+h_34_france_2;☨ H-34
+
 sa_313b_france_shop;SE 313 B
 sa_313b_france_0;"<color=#81c3fc>Sud-Aviation</color>
 SE 313 B Alouette II"
@@ -19311,19 +19460,20 @@ fr_m4a1_sherman_1;☨ M4A1
 fr_m4a1_sherman_2;Medium Tank
 
 fr_m4a3_105_sherman_shop;☨ M4A3(105) HVSS
-fr_m4a3_105_sherman_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+fr_m4a3_105_sherman_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
 ☨ Char moyen M4A3(105) HVSS"
 fr_m4a3_105_sherman_1;☨ M4A3(105)
 fr_m4a3_105_sherman_2;Medium Tank
 
 fr_m4a4_sherman_shop;☨ M4A4
-fr_m4a4_sherman_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+fr_m4a4_sherman_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
 ☨ Char moyen M4A4"
 fr_m4a4_sherman_1;☨ M4A4
 fr_m4a4_sherman_2;Medium Tank
 
 fr_m4a4_cn_75_50_shop;☨ M4A4T (75 S.A. 50)
-fr_m4a4_cn_75_50_0;"<color=#81c3fc>Detroit Arsenal Tank Plant <color=@commonTextColor>/</color> Atelier de construction de Bourges</color>
+fr_m4a4_cn_75_50_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant <color=@commonTextColor>/</color> Atelier de
+construction de Bourges</color>
 ☨ Char moyen M4A4T
 <color=#adadad>(Canon de 75 mm semi-automatique modèle 1950)</color>"
 fr_m4a4_cn_75_50_1;☨ M4A4T
@@ -19512,7 +19662,7 @@ fr_amx_elc_901_1;E.L.C.
 fr_amx_elc_901_2;Light Tank
 
 fr_m26_pershing_shop;☨ M26
-fr_m26_pershing_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+fr_m26_pershing_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
 ☨ Char moyen M26"
 fr_m26_pershing_1;☨ M26
 fr_m26_pershing_2;Medium Tank
@@ -19563,7 +19713,7 @@ fr_pzkpfw_V_panther_dauphine_1;☨ Panther mle. G
 fr_pzkpfw_V_panther_dauphine_2;Medium Tank
 
 fr_m46_patton_shop;☨ M46
-fr_m46_patton_0;"<color=#81c3fc>Detroit Arsenal Tank Plant</color>
+fr_m46_patton_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
 ☨ Char moyen M46"
 fr_m46_patton_1;☨ M46
 fr_m46_patton_2;Medium Tank
@@ -19654,10 +19804,11 @@ Char moyen de 50 tonnes A.M.X. avec tourelle T.O.A. 100"
 fr_amx_50_1;A.M.X. 50t
 fr_amx_50_2;Medium Tank
 
-fr_amx_50_surbaisse_shop;A.M.X. 50t Surbaissé
+fr_amx_50_surbaisse_shop;A.M.X. 50t B
 fr_amx_50_surbaisse_0;"<color=#81c3fc>Atelier de construction d'Issy-les-Moulineaux</color>
-Char moyen de 50 tonnes A.M.X. Surbaissé"
-fr_amx_50_surbaisse_1;A.M.X. 50t
+<color=#7ce68f>Char moyen de 50 tonnes A.M.X. Surbaissé</color>
+Char moyen de 50 tonnes B A.M.X."
+fr_amx_50_surbaisse_1;A.M.X. 50t B
 fr_amx_50_surbaisse_2;Medium Tank
 
 fr_amx_50_surblinde_shop;A.M.X. 50t Surblindé
@@ -19775,10 +19926,10 @@ fr_leopard_2a4nl_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 fr_leopard_2a4nl_1;◘ Leopard 2A4 NL
 fr_leopard_2a4nl_2;MBT
 
-fr_leopard_2a4nl_les_shop;◘ Leopard 2A4 NL (OTCo)
+fr_leopard_2a4nl_les_shop;◘ Leopard 2A4 NL (OTCRij)
 fr_leopard_2a4nl_les_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 ◘ Gevechtstank, Rups, Leopard 2A4 NL m/kanon 120 mm
-<color=@currencyGoldColor>Opleidings- en Trainingscommando</color>"
+<color=@currencyGoldColor>Opleidings- en Trainingscentrum Rijden</color>"
 fr_leopard_2a4nl_les_1;◘ Leopard 2A4 NL
 fr_leopard_2a4nl_les_2;MBT
 
@@ -19837,11 +19988,12 @@ Char Leclerc série 2 tranche 9
 fr_leclerc_azur_1;Leclerc S2
 fr_leclerc_azur_2;MBT
 
-fr_crotale_ng_shop;☨ ito 90M ohjusvaunu
-fr_crotale_ng_0;"<color=#5cae63>Ps. 477</color>
-☨ ilmatorjuntaohjus 90M ohjusvaunu XA-181"
-fr_crotale_ng_1;☨ ito 90M ohjusvaunu
-fr_crotale_ng_2;SPAA
+fr_crotale_ng_shop;☨ it.o. 90M
+fr_crotale_ng_0;"<color=#81c3fc>Patria Vehicles XA-181</color>
+<color=#5cae63>Ps. 477</color>
+☨ ilmatorjuntaohjus 90M"
+fr_crotale_ng_1;☨ it.o. 90M
+fr_crotale_ng_2;SPAAM
 
 fr_samp_t_launcher_shop;☨ Kerax 460 (SAMP/T Mamba) (MLT)
 fr_samp_t_launcher_0;"<color=#81c3fc>☨ Renault Trucks, Bourg-en-Bresse Kerax 460 8x4 Euro 5 <color=@commonTextColor>/</color> Eurosam</color>
@@ -20550,7 +20702,7 @@ saab_j29b_2;A 29
 saab_j29d_shop;J 29 D (alt. 2)
 saab_j29d_0;"<color=#81c3fc>Saab 29D</color>
 flygplan typ J 29 D Tunnan
-<color=#adadad>(alt. 2)</color>"
+<color=#ff546e>(alt. 2)</color>"
 saab_j29d_1;J 29 D
 saab_j29d_2;J 29
 
@@ -20798,118 +20950,254 @@ ahs_1;♛ AH-64A
 ahs_2;♛ AH-64
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+sw_strv_m31_shop;strv m/31
+sw_strv_m31_0;"<color=#81c3fc>Landsverk L-10</color>
+stridsvagn m/31"
+sw_strv_m31_1;strv m/31
+sw_strv_m31_2;Light Tank
+
 sw_bt_42_shop;15 ryn.tyk.psv./BT42
-sw_bt_42_0;"<color=#5cae63>Ps. 511</color>
+sw_bt_42_0;"<color=#81c3fc>Zavot № 183 / Valtion Tykkitehdas</color>
+<color=#5cae63>Ps. 511</color>
 15 tonnin rynnäkkötykkipanssarivaunu mallia BT42"
 sw_bt_42_1;15 ryn.tyk.psv./BT42
-sw_bt_42_2;SPH
+sw_bt_42_2;SPG
 
-sw_sav_m43_1944_shop;sav m/43 (1944)
-sw_sav_m43_1944_0;"stormartillerivagn m/43
-<color=#adadad>(1944)</color>"
-sw_sav_m43_1944_1;sav m/43 (1944)
+sw_strv_m38_shop;strv m/38
+sw_strv_m38_0;"<color=#81c3fc>Landsverk L-60-S/I</color>
+stridsvagn m/38"
+sw_strv_m38_1;strv m/38
+sw_strv_m38_2;Light Tank
+
+sw_strv_m40l_shop;strv m/40 LI
+sw_strv_m40l_0;"<color=#81c3fc>Landsverk L-60-S/III</color>
+stridsvagn m/40 LI"
+sw_strv_m40l_1;strv m/40 LI
+sw_strv_m40l_2;Light Tank
+
+sw_pvlvv_fm42_shop;L-120 (akan m/40B)
+sw_pvlvv_fm42_0;"<color=#81c3fc>Landsverk L-120</color>
+<color=#ff8c80>20 mm pansarvärnsluftvärnsbandlavettage</color>
+<color=#adadad>(20 mm automatkanon m/40B)</color>"
+sw_pvlvv_fm42_1;L-120 (akan m/40B)
+sw_pvlvv_fm42_2;SPAAG
+
+sw_ikv_72_shop;ikv 72
+sw_ikv_72_0;"<color=#81c3fc>Landsverk</color>
+infanterikanonvagn 72"
+sw_ikv_72_1;ikv 72
+sw_ikv_72_2;SPG
+
+sw_sav_m43_1944_shop;sav m/43
+sw_sav_m43_1944_0;"<color=#81c3fc>Scania-Vabis</color>
+stormartillerivagn m/43"
+sw_sav_m43_1944_1;sav m/43
 sw_sav_m43_1944_2;SPG
 
 sw_sav_m43_1946_shop;sav m/43 (1946)
-sw_sav_m43_1946_0;"stormartillerivagn m/43
+sw_sav_m43_1946_0;"<color=#81c3fc>Scania-Vabis</color>
+stormartillerivagn m/43
 <color=#adadad>(1946)</color>"
-sw_sav_m43_1946_1;sav m/43 (1946)
+sw_sav_m43_1946_1;sav m/43
 sw_sav_m43_1946_2;SPG
 
-sw_vickers_mk_e_37_shop;Vickers Mk. E (37 psv.k/36)
-sw_vickers_mk_e_37_0;"Vickers Mk. E, Type B
-<color=#adadad>(37 psv.k/36)</color>"
-sw_vickers_mk_e_37_1;Vickers Mk. E
+sw_vickers_mk_e_37_shop;9 psv. Mk. E (37 psv.k./36)
+sw_vickers_mk_e_37_0;"<color=#81c3fc>Vickers-Armstrongs Mk. E Type B <color=@commonTextColor>/</color> Valtion Tykkitehdas</color>
+9 tonnin panssarivaunu Mk. E
+<color=#adadad>(37 mm:n panssarivaunukanuuna mallia 1936)</color>"
+sw_vickers_mk_e_37_1;9 psv. Mk. E
 sw_vickers_mk_e_37_2;Light Tank
 
-sw_t_28_shop;28 psv T 28 (1938)
-sw_t_28_0;"<color=#5cae63>Ps. 241</color>
+sw_t_28_shop;28 psv. T 28 (1938)
+sw_t_28_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 28 tonnin panssarivaunu T 28
 <color=#adadad>(1938)</color>"
-sw_t_28_1;28 psv T 28
-sw_t_28_2;Medium Tank
+sw_t_28_1;28 psv. T 28 (1938)
+sw_t_28_2;Heavy Tank
 
-sw_vickers_mk_e_45_shop;9 psv T 26 E
-sw_vickers_mk_e_45_0;"<color=#5cae63>Ps. 161</color>
+sw_strv_m39_shop;strv m/39
+sw_strv_m39_0;"<color=#81c3fc>Landsverk L-60-S/II</color>
+stridsvagn m/39"
+sw_strv_m39_1;strv m/39
+sw_strv_m39_2;Light Tank
+
+sw_strv_m39_td_shop;⋦ strv m/39
+sw_strv_m39_td_0;"<color=#81c3fc>Landsverk L-60-S/II</color>
+⋦ stridsvagn m/39"
+sw_strv_m39_td_1;⋦ strv m/39
+sw_strv_m39_td_2;Light Tank
+
+sw_vickers_mk_e_45_shop;9 psv. T 26 E
+sw_vickers_mk_e_45_0;"<color=#81c3fc>Vickers-Armstrongs Mk. E Type B <color=@commonTextColor>/</color> Panssarikeskuskorjaamo</color>
+<color=#5cae63>Ps. 161</color>
 9 tonnin panssarivaunu T 26 Englantilainen"
-sw_vickers_mk_e_45_1;9 psv T 26 E
+sw_vickers_mk_e_45_1;9 psv. T 26 E
 sw_vickers_mk_e_45_2;Light Tank
 
+sw_pbil_m40_shop;pbil m/40
+sw_pbil_m40_0;"<color=#81c3fc>Landsverk Lynx <color=@commonTextColor>/</color> Volvo</color>
+pansarbil m/40"
+sw_pbil_m40_1;pbil m/40
+sw_pbil_m40_2;Light Tank
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+sw_strv_m41_s1_shop;strv m/41 S I
+sw_strv_m41_s1_0;"<color=#81c3fc>Scania-Vabis</color>
+stridsvagn m/41 S I"
+sw_strv_m41_s1_1;strv m/41 S I
+sw_strv_m41_s1_2;Light Tank
+
+sw_strv_m41_s2_shop;strv m/41 S II
+sw_strv_m41_s2_0;"<color=#81c3fc>Scania-Vabis</color>
+stridsvagn m/41 S II"
+sw_strv_m41_s2_1;strv m/41 S II
+sw_strv_m41_s2_2;Light Tank
+
+sw_pvkv_III_shop;pvkv III
+sw_pvkv_III_0;"<color=#81c3fc>Landsverk</color>
+pansarvärnskanonvagn III"
+sw_pvkv_III_1;pvkv III
+sw_pvkv_III_2;SPG
+
 sw_lago_1_shop;Lago I
-sw_lago_1_0;<color=#81c3fc>Landsverk Lago I</color>
+sw_lago_1_0;"<color=#81c3fc>Landsverk Lago I</color>
+<color=#ff546e>(37 mm kanon m/38)</color>"
 sw_lago_1_1;Lago I
-sw_lago_1_2;Medium Tank
+sw_lago_1_2;Medium tank
 
 sw_strv_m42_eh_shop;strv m/42 EH
 sw_strv_m42_eh_0;"<color=#81c3fc>Landsverk Lago IV</color>
 stridsvagn m/42 EH"
-sw_strv_m42_eh_1;strv m/42
-sw_strv_m42_eh_2;Medium Tank
+sw_strv_m42_eh_1;strv m/42 EH
+sw_strv_m42_eh_2;Medium tank
 
 sw_strv_m42_delat_torn_shop;strv m/42 TM (DT)
 sw_strv_m42_delat_torn_0;"<color=#81c3fc>Landsverk Lago II</color>
 stridsvagn m/42 TM
-<color=#adadad>(Delat Torn)</color>"
-sw_strv_m42_delat_torn_1;strv m/42 (DT)
-sw_strv_m42_delat_torn_2;Medium Tank
+<color=#adadad>(delat torn)</color>"
+sw_strv_m42_delat_torn_1;strv m/42 TM
+sw_strv_m42_delat_torn_2;Medium tank
 
-sw_t_50_fin_shop;15 psv T 50 (1942)
-sw_t_50_fin_0;"<color=#81c3fc>Lyeningradskij gosudarstvyennyj zavod № 174 im. K. Ye. Vorošilova <color=@commonTextColor>/</color>
+sw_pbv_301_shop;pbv 301
+sw_pbv_301_0;"<color=#81c3fc>Hägglund & Söner</color>
+pansarbandvagn 301"
+sw_pbv_301_1;pbv 301
+sw_pbv_301_2;APC
+
+sw_tgdgb_m40_lv_shop;tgdbil m/40 (lvakan m/36)
+sw_tgdgb_m40_lv_0;"<color=#81c3fc>Volvo typ TVA</color>
+terrängdragbil m/40
+<color=#adadad>(40 mm luftvärnsautomatkanon m/36)</color>"
+sw_tgdgb_m40_lv_1;tgdbil m/40 (lvakan m/36)
+sw_tgdgb_m40_lv_2;SPAAG
+
+sw_stormpjas_fm43_44_shop;spj fm/43-44
+sw_stormpjas_fm43_44_0;"<color=#81c3fc>Scania-Vabis</color>
+stormpjäs fm/43-44 ""Trätoffelvagnen"""
+sw_stormpjas_fm43_44_1;spj fm/43-44
+sw_stormpjas_fm43_44_2;SPG
+
+sw_ikv_73_shop;ikv 73
+sw_ikv_73_0;"<color=#81c3fc>Landsverk Lago IV</color>
+infanterikanonvagn 73"
+sw_ikv_73_1;ikv 73
+sw_ikv_73_2;Infantry Tank
+
+sw_t_50_fin_shop;15 psv. T 50 (1942)
+sw_t_50_fin_0;"<color=#81c3fc>Lyeningratsk'ij gosudarzdv'ennyj zavot № 174 im. K. Ye. Voroshilova <color=@commonTextColor>/</color>
 Panssarikeskuskorjaamo</color>
 <color=#5cae63>Ps. 183-1</color>
 15 tonnin panssarivaunu T 50 ""Pikku-Sotka""
 <color=#adadad>(1942)</color>"
-sw_t_50_fin_1;15 psv T 50
+sw_t_50_fin_1;15 psv. T 50
 sw_t_50_fin_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 sw_m24_chaffee_dk_shop;♔ M24
-sw_m24_chaffee_dk_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
-♔ Tank, Light, M24 Chaffee"
+sw_m24_chaffee_dk_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
+♔ tank M24 Chaffee"
 sw_m24_chaffee_dk_1;♔ M24
 sw_m24_chaffee_dk_2;Light Tank
 
-sw_l_62_anti_II_shop;10 it.psv./Anti
-sw_l_62_anti_II_0;"<color=#5cae63>Ps. 455</color>
-10 tonnin ilmatorjuntapanssarivaunu mallia Anti"
-sw_l_62_anti_II_1;10 it.psv./Anti
+sw_pvkv_II_shop;pvkv II
+sw_pvkv_II_0;"<color=#81c3fc>Landsverk</color>
+pansarvärnskanonvagn II"
+sw_pvkv_II_1;pvkv II
+sw_pvkv_II_2;SPG
+
+sw_pvkv_iv_shop;pvkv IVA
+sw_pvkv_iv_0;"<color=#81c3fc>Landsverk</color>
+pansarvärnskanonvagn IVA ""Värjan"""
+sw_pvkv_iv_1;pvkv IVA
+sw_pvkv_iv_2;SPG
+
+sw_l_62_anti_II_shop;10 it.psv. 40
+sw_l_62_anti_II_0;"<color=#81c3fc>Landsverk L-62 Anti II</color>
+<color=#5cae63>Ps. 455</color>
+<color=#919191>10 tonnin ilmatorjuntapanssarivaunu mallia Anti</color>
+10 tonnin ilmatorjuntapanssarivaunu 40 mm"
+sw_l_62_anti_II_1;10 it.psv. 40
 sw_l_62_anti_II_2;SPAAG
 
-sw_pvkv_m43_1946_shop;pvkv m/43 (1946)
-sw_pvkv_m43_1946_0;"pansarvärnskanonvagn m/43
-<color=#adadad>(1946)</color>"
-sw_pvkv_m43_1946_1;pvkv m/43 (1946)
+sw_lvkv_42_shop;lvkv 42
+sw_lvkv_42_0;"<color=#81c3fc>Bofors VAK 40 S 49</color>
+<color=#919191>luftvärnskanonvagn fm/49</color>
+luftvärnskanonvagn 42"
+sw_lvkv_42_1;lvkv 42
+sw_lvkv_42_2;SPAAG
+
+sw_pvkv_m43_1946_shop;pvkv m/43
+sw_pvkv_m43_1946_0;"<color=#81c3fc>Landsverk</color>
+pansarvärnskanonvagn m/43"
+sw_pvkv_m43_1946_1;pvkv m/43
 sw_pvkv_m43_1946_2;SPG
 
 sw_pvkv_m43_1963_shop;pvkv m/43 (1963)
-sw_pvkv_m43_1963_0;"pansarvärnskanonvagn m/43
+sw_pvkv_m43_1963_0;"<color=#81c3fc>Landsverk</color>
+pansarvärnskanonvagn m/43
 <color=#adadad>(1963)</color>"
-sw_pvkv_m43_1963_1;pvkv m/43 (1963)
+sw_pvkv_m43_1963_1;pvkv m/43
 sw_pvkv_m43_1963_2;SPG
 
-sw_t_34_1941_shop;26 psv T 34 B
-sw_t_34_1941_0;"<color=#5cae63>Ps. 231</color>
-26 tonnin panssarivaunu T 34 B ""Sotka"""
-sw_t_34_1941_1;26 psv T 34 B
-sw_t_34_1941_2;Medium Tank
+sw_ikv_103_shop;ikv 103
+sw_ikv_103_0;"<color=#81c3fc>Landsverk <color=@commonTextColor>+</color> Bofors VH 105 S 53</color>
+infanterikanonvagn 103"
+sw_ikv_103_1;ikv 103
+sw_ikv_103_2;SPG
 
-sw_pzkpfw_IV_ausf_J_shop;25 psv PZ IV
-sw_pzkpfw_IV_ausf_J_0;"<color=#5cae63>Ps. 221</color>
-25 tonnin panssarivaunu PZ IV"
-sw_pzkpfw_IV_ausf_J_1;25 psv PZ IV
+sw_pzkpfw_IV_ausf_J_shop;25 psv. PZ IV
+sw_pzkpfw_IV_ausf_J_0;"<color=#81c3fc>Nibelungenwerk</color>
+<color=#5cae63>Ps. 221</color>
+25 tonnin panssarivaunu PZ IV ""Nelonen"""
+sw_pzkpfw_IV_ausf_J_1;25 psv. PZ IV
 sw_pzkpfw_IV_ausf_J_2;Medium Tank
 
+sw_t_34_1941_shop;26 psv. T 34 B
+sw_t_34_1941_0;"<color=#81c3fc>Khar'kofsk'ij mashinostroit'el'nyj zavot № 183 im. Komint'erna</color>
+<color=#5cae63>Ps. 231</color>
+26 tonnin panssarivaunu T 34 B ""Sotka"""
+sw_t_34_1941_1;26 psv. T 34 B
+sw_t_34_1941_2;Medium Tank
+
+sw_t_34_85_zis_53_shop;31 psv. T 34/85
+sw_t_34_85_zis_53_0;"<color=#81c3fc>Ural'sk'ij tankovyj zavot № 183</color>
+<color=#5cae63>Ps. 245</color>
+31 tonnin panssarivaunu T 34/85 ""Pitkäputkinen Sotka"""
+sw_t_34_85_zis_53_1;31 psv. T 34/85
+sw_t_34_85_zis_53_2;Medium Tank
+
 sw_pt_76b_shop;▄ PT-76
-sw_pt_76b_0;"<color=#5cae63>Ps. 141</color>
+sw_pt_76b_0;"<color=#81c3fc>Stalingratsk'ij traktornyj zavot im. F. E. Dz'erzhinskovo</color>
+<color=#5cae63>Ps. 141</color>
 ▄ PT-76"
 sw_pt_76b_1;▄ PT-76
-sw_pt_76b_2;Light Tank
+sw_pt_76b_2;Amphibious Tank
 
-sw_a_34_comet_shop;psv Comet
-sw_a_34_comet_0;"<color=#5cae63>Ps. 252</color>
+sw_a_34_comet_shop;psv. Comet
+sw_a_34_comet_0;"<color=#81c3fc>Leyland Motors</color>
+<color=#5cae63>Ps. 252</color>
 panssarivaunu Comet"
-sw_a_34_comet_1;psv Comet
+sw_a_34_comet_1;psv. Comet
 sw_a_34_comet_2;Medium Tank
 
 sw_sav_fm48_shop;SAV 20.12.48
@@ -20917,14 +21205,40 @@ sw_sav_fm48_0;<color=#81c3fc>Bofors SAV 20.12.48</color>
 sw_sav_fm48_1;SAV 20.12.48
 sw_sav_fm48_2;SPG
 
-sw_kv_1_1942_fin_shop;44 psv KW 1 A
-sw_kv_1_1942_fin_0;"<color=#81c3fc>Kirovskij zavod</color>
+sw_sherman_3_4_shop;Sherman, Mk. IV
+sw_sherman_3_4_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
+Tank, Medium, Sherman, Mk. IV"
+sw_sherman_3_4_1;Sherman, Mk. IV
+sw_sherman_3_4_2;Medium Tank
+
+sw_kv_1_1942_fin_shop;44 psv. KW 1 A
+sw_kv_1_1942_fin_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
 <color=#5cae63>Ps. 271-1</color>
 44 tonnin panssarivaunu KW 1 A ""Klimi"""
-sw_kv_1_1942_fin_1;44 psv KW 1 A
+sw_kv_1_1942_fin_1;44 psv. KW 1 A
 sw_kv_1_1942_fin_2;Heavy Tank
 
+germ_kv_1B_finland_shop;▀ 44 psv. KW 1 B
+germ_kv_1B_finland_0;"<color=#81c3fc>K'irofsk'ij zavot № 100</color>
+<color=#5cae63>Ps. 272-1</color>
+▀ 44 tonnin panssarivaunu KW 1 B ""Klimi"""
+germ_kv_1B_finland_1;▀ 44 psv. KW 1 B
+germ_kv_1B_finland_2;▀ Heavy Tank
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
+sw_pbv_501_shop;pbv 501
+sw_pbv_501_0;"<color=#81c3fc>Kurgansk'ij mashinostroit'el'nyj zavot <color=@commonTextColor>/</color> Vojenský opravárenský podnik 026
+Šternberk</color>
+pansarbandvagn 501"
+sw_pbv_501_1;pbv 501
+sw_pbv_501_2;IFV
+
+sw_strv_74_shop;strv 74V
+sw_strv_74_0;"<color=#81c3fc>Landsverk</color>
+stridsvagn 74V"
+sw_strv_74_1;strv 74V
+sw_strv_74_2;Light Tank
+
 sw_landsverk_ush_204_gk_shop;U SH (204GK)
 sw_landsverk_ush_204_gk_0;"<color=#81c3fc>Landsverk <color=@commonTextColor>+</color> Unimog SH</color>
 <color=#adadad>(20 mm Belt-Feed Gun Type 204GK)</color>"
@@ -20937,6 +21251,20 @@ sw_landsverk_ush_405_0;"<color=#81c3fc>Landsverk <color=@commonTextColor>+</colo
 sw_landsverk_ush_405_1;U SH (Typ 3Z 8DLa)
 sw_landsverk_ush_405_2;MLRS
 
+sw_bkan_1c_shop;15,5 cm bkan 1C
+sw_bkan_1c_0;"<color=#81c3fc>Bofors VK 155 S 62</color>
+15,5 cm bandkanon 1C"
+sw_bkan_1c_1;15,5 cm bkan 1C
+sw_bkan_1c_2;SPG
+
+sw_charioteer_mk_7_shop;tst.psv. Charioteer
+sw_charioteer_mk_7_0;"<color=#81c3fc>Birmingham Railway Carriage and Wagon Company <color=@commonTextColor>/</color> Robinson and
+Kershaw</color>
+<color=#5cae63>Ps. 251</color>
+taistelupanssarivaunu Charioteer"
+sw_charioteer_mk_7_1;tst.psv. Charioteer
+sw_charioteer_mk_7_2;Medium Tank
+
 sw_kungstiger_shop;♛ Tiger B (Fgst.Nr. 6)
 sw_kungstiger_0;"<color=#81c3fc>Henschel & Sohn</color>
 <color=#5cae63>Sd.Kfz. 182</color>
@@ -20945,51 +21273,99 @@ sw_kungstiger_0;"<color=#81c3fc>Henschel & Sohn</color>
 sw_kungstiger_1;♛ Tiger B
 sw_kungstiger_2;Heavy Tank
 
-sw_t_34_85_zis_53_shop;31 psv T 34/85
-sw_t_34_85_zis_53_0;"<color=#5cae63>Ps. 245</color>
-31 tonnin panssarivaunu T 34/85 ""Pitkäputkinen Sotka"""
-sw_t_34_85_zis_53_1;31 psv T 34/85
-sw_t_34_85_zis_53_2;Medium Tank
-
-sw_charioteer_mk_7_shop;tstpsv Charioteer
-sw_charioteer_mk_7_0;"<color=#5cae63>Ps. 251</color>
-taistelupanssarivaunu Charioteer"
-sw_charioteer_mk_7_1;tstpsv Charioteer
-sw_charioteer_mk_7_2;Medium Tank
-
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
-sw_strv_81_shop;strv 81 (C III)
+sw_ikv_91_shop;ikv 91
+sw_ikv_91_0;"<color=#81c3fc>Hägglund & Söner</color>
+<color=#ff8c80>Underlagsgrupp direkt eld stridsfordon 13</color>
+infanterikanonvagn 91"
+sw_ikv_91_1;ikv 91
+sw_ikv_91_2;Infantry Tank
+
+sw_ikv_91_105_shop;IKV 91-105
+sw_ikv_91_105_0;<color=#81c3fc>Hägglund & Söner Light tank IKV 91-105</color>
+sw_ikv_91_105_1;IKV 91-105
+sw_ikv_91_105_2;Light Tank
+
+sw_strv_81_shop;strv 81A
 sw_strv_81_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
 <color=#919191>stridsvagn C III</color>
-stridsvagn 81"
-sw_strv_81_1;strv 81
+stridsvagn 81A"
+sw_strv_81_1;strv 81A
 sw_strv_81_2;MBT
 
-sw_strv_81_rb52_shop;strv 81 (C III) (rb 52A)
+sw_strv_81_rb52_shop;strv 81A (rb 52A)
 sw_strv_81_rb52_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
 <color=#919191>stridsvagn C III</color>
-stridsvagn 81
+stridsvagn 81A
 <color=#adadad>(robot 52A)</color>"
-sw_strv_81_rb52_1;strv 81
+sw_strv_81_rb52_1;strv 81A
 sw_strv_81_rb52_2;MBT
 
-sw_zsu_57_2_shop;itpsv SU-57-2
-sw_zsu_57_2_0;"<color=#5cae63>Ps. 461</color>
+uk_centurion_mk_3_ss11_shop;▄ strv 81A (rb 52A)
+uk_centurion_mk_3_ss11_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+<color=#919191>stridsvagn C III</color>
+▄ stridsvagn 81A
+<color=#adadad>(robot 52A)</color>"
+uk_centurion_mk_3_ss11_1;▄ strv 81A
+uk_centurion_mk_3_ss11_2;MBT
+
+sw_strv_101_shop;strv 101
+sw_strv_101_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds</color>
+stridsvagn 101"
+sw_strv_101_1;strv 101
+sw_strv_101_2;MBT
+
+sw_strv_103a_shop;strv 103A
+sw_strv_103a_0;"<color=#81c3fc>Bofors VK 105 S 64-2 A</color>
+<color=#ff8c80>stridsvagn S</color>
+stridsvagn 103A"
+sw_strv_103a_1;strv 103A
+sw_strv_103a_2;MBT
+
+sw_strv_103_0_shop;strv 103-0
+sw_strv_103_0_0;"<color=#81c3fc>Bofors VK 105 S 60</color>
+<color=#ff8c80>stridsvagn S</color>
+stridsvagn 103-0"
+sw_strv_103_0_1;strv 103-0
+sw_strv_103_0_2;MBT
+
+sw_strv_103c_shop;strv 103C
+sw_strv_103c_0;"<color=#81c3fc>Bofors</color>
+<color=#ff8c80>stridsvagn S</color>
+stridsvagn 103C"
+sw_strv_103c_1;strv 103C
+sw_strv_103c_2;MBT
+
+sw_zsu_57_2_shop;it.psv. SU-57-2
+sw_zsu_57_2_0;"<color=#81c3fc>Omsk'ij zavot № 174 im. Voroshilova</color>
+<color=#5cae63>Ps. 461</color>
 ilmatorjuntapanssarivaunu SU-57-2"
-sw_zsu_57_2_1;itpsv SU-57-2
+sw_zsu_57_2_1;it.psv. SU-57-2
 sw_zsu_57_2_2;SPAAG
 
-sw_t_54_1951_shop;tstpsv T 54
-sw_t_54_1951_0;"<color=#5cae63>Ps. 261</color>
-taistelupanssarivaunu T 54"
-sw_t_54_1951_1;tstpsv T 54
-sw_t_54_1951_2;Medium Tank
+sw_veak_40_shop;VEAK 40 X 62
+sw_veak_40_0;<color=#81c3fc>Bofors VEAK 40 X 62</color>
+sw_veak_40_1;VEAK 40 X 62
+sw_veak_40_2;SPAAG
 
-sw_k9_vidar_shop;◢ K9 (VIDAR)
-sw_k9_vidar_0;"◢ Artillerivogn, K9 Thunder
-<color=#adadad>(Versatile Indirect Firing System)</color>"
+sw_pvrbv_551_shop;pvrbv 551
+sw_pvrbv_551_0;"<color=#81c3fc>Hägglund & Söner</color>
+pansarvärnsrobotvagn 551"
+sw_pvrbv_551_1;pvrbv 551
+sw_pvrbv_551_2;ATMC
+
+sw_t_54_1951_shop;tst.psv. T 54
+sw_t_54_1951_0;"<color=#81c3fc>Ural'sk'ij vagonostroit'el'nyj zavot № 183 im. I. V. Stalina</color>
+<color=#5cae63>Ps. 261</color>
+taistelupanssarivaunu T 54"
+sw_t_54_1951_1;tst.psv. T 54
+sw_t_54_1951_2;Battle Tank
+
+sw_k9_vidar_shop;◢ K9
+sw_k9_vidar_0;"<color=#81c3fc>Hanhwa Eeoroseupeiseu</color>
+◢ artillerivogn K9 Versatile Indirect Artillery System"
 sw_k9_vidar_1;◢ K9
-sw_k9_vidar_2;SPG
+sw_k9_vidar_2;SPH
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 sw_cv_90105_shop;CV90105 (TML 105)
@@ -20999,22 +21375,73 @@ sw_cv_90105_1;CV90105
 sw_cv_90105_2;Light Tank
 
 sw_cv_90105_tml_shop;CV90105 (XC-8 105HP)
-sw_cv_90105_tml_0;"<color=#81c3fc>Combat Vehicle 90105</color>
+sw_cv_90105_tml_0;"<color=#81c3fc>BAE Systems Hägglunds Combat Vehicle 90105</color>
 <color=#adadad>(XC-8 105HP)</color>"
 sw_cv_90105_tml_1;CV90105
 sw_cv_90105_tml_2;Light Tank
 
-sw_cv_9030_fin_shop;rpsv CV9030
-sw_cv_9030_fin_0;"<color=#5cae63>Ps. 171</color>
+sw_cv_9030_fin_shop;r.psv. CV9030
+sw_cv_9030_fin_0;"<color=#81c3fc>BAE Systems Hägglunds Combat Vehicle 9030FIN</color>
+<color=#5cae63>Ps. 171</color>
 rynnäkköpanssarivaunu CV9030"
-sw_cv_9030_fin_1;rpsv CV9030
+sw_cv_9030_fin_1;r.psv. CV9030
 sw_cv_9030_fin_2;IFV
 
-sw_itpsv_90_shop;itpsv 90
-sw_itpsv_90_0;"<color=#5cae63>Ps. 473</color>
-ilmatorjuntapanssarivaunu 90"
-sw_itpsv_90_1;itpsv 90
+sw_strf_90b_shop;strf 9040B
+sw_strf_90b_0;"<color=#81c3fc>Alvis Hägglunds Combat Vehicle 9040B</color>
+stridsfordon 9040B"
+sw_strf_90b_1;strf 9040B
+sw_strf_90b_2;IFV
+
+sw_strf_90c_shop;strf 9040C
+sw_strf_90c_0;"<color=#81c3fc>Alvis Hägglunds Combat Vehicle 9040C</color>
+stridsfordon 9040C"
+sw_strf_90c_1;strf 9040C
+sw_strf_90c_2;IFV
+
+sw_lvkv_90c_shop;lvkv 9040C
+sw_lvkv_90c_0;"<color=#81c3fc>Alvis Hägglunds Combat Vehicle 9040C</color>
+luftvärnskanonvagn 9040C"
+sw_lvkv_90c_1;lvkv 9040C
+sw_lvkv_90c_2;SPAAG
+
+sw_strf_9056_shop;strf 9040A (rbs 56)
+sw_strf_9056_0;"<color=#81c3fc>Alvis Hägglunds Combat Vehicle 9040A</color>
+stridsfordon 9040A
+<color=#adadad>(robotsystem 56)</color>"
+sw_strf_9056_1;strf 9040A
+sw_strf_9056_2;IFV
+
+sw_strv_104_shop;strv 104
+sw_strv_104_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds <color=@commonTextColor>/</color> Hägglund & Söner</color>
+stridsvagn 104"
+sw_strv_104_1;strv 104
+sw_strv_104_2;MBT
+
+sw_strv_105_shop;strv 105
+sw_strv_105_0;"<color=#81c3fc>Royal Ordnance Factory, Leeds <color=@commonTextColor>/</color> Hägglund & Söner</color>
+stridsvagn 105"
+sw_strv_105_1;strv 105
+sw_strv_105_2;MBT
+
+sw_itpsv_90_shop;it.psv. 90 Leopard 2 Marksman
+sw_itpsv_90_0;"<color=#81c3fc>Krauss-Maffei Wegmann <color=@commonTextColor>/</color> Millog</color>
+<color=#5cae63>Ps. 473</color>
+ilmatorjuntapanssarivaunu 90 Leopard 2 Marksman"
+sw_itpsv_90_1;it.psv. 90 Leopard 2 Marksman
 sw_itpsv_90_2;SPAAG
+
+sw_lvrbv_701_shop;lvrbv 701
+sw_lvrbv_701_0;"<color=#81c3fc>Hägglund & Söner</color>
+luftvärnsrobotvagn 701"
+sw_lvrbv_701_1;lvrbv 701
+sw_lvrbv_701_2;SPAAM
+
+sw_udes_33_shop;UDES 33
+sw_udes_33_0;"<color=#81c3fc>Hägglund & Söner</color>
+<color=#ff8c80>Underlagsgrupp direkt eld stridsfordon 33</color>"
+sw_udes_33_1;UDES 33
+sw_udes_33_2;ATMC
 
 sw_pbv_302_bill_shop;pbv 302A (rbs 56)
 sw_pbv_302_bill_0;"<color=#81c3fc>Hägglund & Söner</color>
@@ -21023,27 +21450,37 @@ pansarbandvagn 302A
 sw_pbv_302_bill_1;pbv 302A (rbs 56)
 sw_pbv_302_bill_2;ATMC
 
-sw_t_55m_shop;tstpsv T 55M
-sw_t_55m_0;"<color=#5cae63>Ps. 262</color>
+sw_t_55m_shop;tst.psv. T 55M
+sw_t_55m_0;"<color=#81c3fc>Khar'kofsk'ij zavot transportnogo mashinostroyeniya im. V. A. Malyshyeva</color>
+<color=#5cae63>Ps. 262</color>
 taistelupanssarivaunu T 55M"
-sw_t_55m_1;tstpsv T 55M
-sw_t_55m_2;Medium Tank
+sw_t_55m_1;tst.psv. T 55M
+sw_t_55m_2;Battle Tank
 
-sw_t_72m1_shop;tstpsv T 72M1
-sw_t_72m1_0;"<color=#5cae63>Ps. 264</color>
+sw_t_72m1_shop;tst.psv. T 72M1
+sw_t_72m1_0;"<color=#81c3fc>Proizvodzdv'ennoye ob""yed'inyeniye «Uralvagonzavot»</color>
+<color=#5cae63>Ps. 264</color>
 taistelupanssarivaunu T 72M1"
-sw_t_72m1_1;tstpsv T 72M1
-sw_t_72m1_2;MBT
+sw_t_72m1_1;tst.psv. T 72M1
+sw_t_72m1_2;Battle Tank
+
+sw_leopard_1a5no_shop;◢ Leopard 1 A5 NO
+sw_leopard_1a5no_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+◢ stridsvogn Leopard 1 A5 NO"
+sw_leopard_1a5no_1;◢ Leopard 1 A5 NO
+sw_leopard_1a5no_2;MBT
 
 sw_cv_9035_dk_shop;IKK 9035
-sw_cv_9035_dk_0;"infanterikampkøretøj 9035"
+sw_cv_9035_dk_0;"<color=#81c3fc>BAE Systems Hägglunds Combat Vehicle 9035DK</color>
+infanterikampkøretøj 9035"
 sw_cv_9035_dk_1;IKK 9035
-sw_cv_9035_dk_2;Light Tank
+sw_cv_9035_dk_2;IFV
 
-sw_bmp_2md_shop;rpsv BMP-2MD
-sw_bmp_2md_0;"<color=#5cae63>Ps. 153</color>
+sw_bmp_2md_shop;r.psv. BMP-2MD
+sw_bmp_2md_0;"<color=#81c3fc>Kurgansk'ij mashinostroit'el'nyj zavot im. V. I. Lyenina <color=@commonTextColor>/</color> Conlog</color>
+<color=#5cae63>Ps. 153</color>
 rynnäkköpanssarivaunu BMP-2MD"
-sw_bmp_2md_1;rpsv BMP-2MD
+sw_bmp_2md_1;r.psv. BMP-2MD
 sw_bmp_2md_2;IFV
 
 sw_patria_bmp_3_shop;¤ AMV XP (2K23)
@@ -21054,36 +21491,47 @@ sw_patria_bmp_3_2;IFV
 
 sw_patria_amv_ctcv_105_shop;AMV HWP (CT-CV 105HP)
 sw_patria_amv_ctcv_105_0;"<color=#81c3fc>Patria Advanced Modular Vehicle Heavy Weapon Platform</color>
-<color=#adadad>(Cockerill CT-CV 105HP)</color>"
+<color=#adadad>(CT-CV 105HP)</color>"
 sw_patria_amv_ctcv_105_1;AMV HWP
 sw_patria_amv_ctcv_105_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
-sw_asrad_r_shop;♛ M113A2 (ASRAD-R)
-sw_asrad_r_0;"♛ M113A2
-<color=#adadad>(Advanced Short Range Air Defence System - RBS)</color>"
-sw_asrad_r_1;♛ M113 (ASRAD-R)
-sw_asrad_r_2;SPAA
+sw_strv_121_shop;strv 121A
+sw_strv_121_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
+<color=#ff8c80>Stridsvagn Ny</color>
+<color=#919191>stridsvagn 121</color>
+stridsvagn 121A"
+sw_strv_121_1;strv 121A
+sw_strv_121_2;MBT
 
-sw_strf_9056_shop;strf 9040A (rbs 56)
-sw_strf_9056_0;"stridsfordon 9040A
-<color=#adadad>(robotsystem 56)</color>"
-sw_strf_9056_1;strf 9040A
-sw_strf_9056_2;IFV
+sw_strv121b_christian2_shop;strv 121B
+sw_strv121b_christian2_0;"<color=#81c3fc>Krauss-Maffei Wegmann <color=@commonTextColor>/</color> Svenska armén</color>
+<color=#919191>stridsvagn 121 Prototyp</color>
+stridsvagn 121B
+<color=@currencyGoldColor>M5230-121021 ""Christian II""</color>"
+sw_strv121b_christian2_1;strv 121B
+sw_strv121b_christian2_2;MBT
 
-sw_leopard_2a4_fin_shop;tstpsv Leopard 2A4
+sw_asrad_r_shop;♛ M113 A2 GE (ASRAD-R)
+sw_asrad_r_0;"<color=#81c3fc>Saab Bofors Dynamics <color=@commonTextColor>+</color> STN Atlas Elektronik</color>
+♛ M113 A2 GE
+<color=#adadad>(Autonomous Short Range Air Defense Missile System - RBS)</color>"
+sw_asrad_r_1;♛ M113 A2 (ASRAD-R)
+sw_asrad_r_2;SPAAM
+
+sw_leopard_2a4_fin_shop;tst.psv. Leopard 2A4
 sw_leopard_2a4_fin_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 <color=#5cae63>Ps. 273</color>
 taistelupanssarivaunu Leopard 2A4"
-sw_leopard_2a4_fin_1;tstpsv Leopard 2A4
-sw_leopard_2a4_fin_2;MBT
+sw_leopard_2a4_fin_1;tst.psv. Leopard 2A4
+sw_leopard_2a4_fin_2;Battle Tank
 
-sw_leopard_2a6nl_shop;tstpsv Leopard 2A6
+sw_leopard_2a6nl_shop;tst.psv. Leopard 2A6
 sw_leopard_2a6nl_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
 <color=#5cae63>Ps. 274</color>
 taistelupanssarivaunu Leopard 2A6"
-sw_leopard_2a6nl_1;tstpsv Leopard 2A6
-sw_leopard_2a6nl_2;MBT
+sw_leopard_2a6nl_1;tst.psv. Leopard 2A6
+sw_leopard_2a6nl_2;Battle Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
 sw_cv_90120_shop;CV90120-T
@@ -21092,26 +21540,34 @@ sw_cv_90120_1;CV90120-T
 sw_cv_90120_2;Light Tank
 
 sw_strv_122_shop;strv 122A
-sw_strv_122_0;"stridsvagn 122A"
+sw_strv_122_0;"<color=#81c3fc>Krauss-Maffei Wegmann Leopard 2 Improved <color=@commonTextColor>/</color> Åkers Krutbruk Protection
+MBT 122A</color>
+<color=#ff8c80>Stridsvagn Ny</color>
+<color=#919191>stridsvagn 122</color>
+stridsvagn 122A"
 sw_strv_122_1;strv 122A
 sw_strv_122_2;MBT
 
 sw_strv_122b_plss_shop;strv 122B (PLSS)
-sw_strv_122b_plss_0;"stridsvagn 122B
+sw_strv_122b_plss_0;"<color=#81c3fc>Krauss-Maffei Wegmann Leopard 2 Improved <color=@commonTextColor>/</color> Åkers Krutbruk Protection
+MBT 122B</color>
+stridsvagn 122B
 <color=#adadad>(Panoramic Low-Signature Sight)</color>"
 sw_strv_122b_plss_1;strv 122B
 sw_strv_122b_plss_2;MBT
 
 sw_strv_122b_plus_shop;strv 122B+
-sw_strv_122b_plus_0;"<color=#81c3fc>Åkers Krutbruk Protection MBT 122B Evolution</color>
+sw_strv_122b_plus_0;"<color=#81c3fc>Krauss-Maffei Wegmann Leopard 2 Improved <color=@commonTextColor>/</color> Åkers Krutbruk Protection
+MBT 122B Evolution</color>
 stridsvagn 122B+"
 sw_strv_122b_plus_1;strv 122B
 sw_strv_122b_plus_2;MBT
 
-sw_crotale_ng_shop;ito 90M ohjusvaunu
-sw_crotale_ng_0;"<color=#5cae63>Ps. 477</color>
-ilmatorjuntaohjus 90M ohjusvaunu XA-181"
-sw_crotale_ng_1;ito 90M ohjusvaunu
+sw_crotale_ng_shop;it.o. 90M
+sw_crotale_ng_0;"<color=#81c3fc>Patria Vehicles XA-181</color>
+<color=#5cae63>Ps. 477</color>
+ilmatorjuntaohjus 90M"
+sw_crotale_ng_1;it.o. 90M
 sw_crotale_ng_2;SPAAM
 
 sw_eldenhet_98_shop;elde 98 (Giraffe 1X)
@@ -21145,7 +21601,8 @@ sw_cv_90_mk4_1;CV90 MkIV
 sw_cv_90_mk4_2;IFV
 
 sw_t_80u_shop;♛ T 80 U
-sw_t_80u_0;♛ T 80 U
+sw_t_80u_0;"<color=#81c3fc>K'irofsk'ij zavot</color>
+♛ T 80 U"
 sw_t_80u_1;♛ T 80 U
 sw_t_80u_2;MBT
 
@@ -21321,19 +21778,22 @@ a_4e_late_iaf_1; A-4E
 a_4e_late_iaf_2; A-4
 
 so_4050_vautour_2a_israel_iaf_shop; Vuṭur A
-so_4050_vautour_2a_israel_iaf_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest</color>
+so_4050_vautour_2a_israel_iaf_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest
+S.O. 4050</color>
  Vuṭur A"
 so_4050_vautour_2a_israel_iaf_1; Vuṭur A
 so_4050_vautour_2a_israel_iaf_2; Vuṭur
 
 so_4050_vautour_2n_iaf_shop; Vuṭur N
-so_4050_vautour_2n_iaf_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest</color>
+so_4050_vautour_2n_iaf_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest
+S.O. 4050</color>
  Vuṭur N"
 so_4050_vautour_2n_iaf_1; Vuṭur N
 so_4050_vautour_2n_iaf_2; Vuṭur
 
 so_4050_vautour_2a_iaf_shop;☨ Vuṭur A
-so_4050_vautour_2a_iaf_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest</color>
+so_4050_vautour_2a_iaf_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest
+S.O. 4050</color>
 ☨ Vuṭur A"
 so_4050_vautour_2a_iaf_1;☨ Vuṭur A
 so_4050_vautour_2a_iaf_2;☨ Vuṭur
@@ -21565,7 +22025,8 @@ il_m_51_1;Šerman M-51
 il_m_51_2;Medium Tank
 
 il_m_51_w_shop;Šerman M-51 (Ṣ-814794)
-il_m_51_w_0;"<color=#81c3fc>Detroit Arsenal Tank Plant <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+il_m_51_w_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant <color=@commonTextColor>/</color>
+<color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
 Ṭank Šerman M-51
 <color=@currencyGoldColor>Ṣ-814794</color>"
 il_m_51_w_1;Šerman M-51
@@ -21697,7 +22158,8 @@ il_centurion_mk_5_shot_2;MBT
 
 il_tcm_20_shop;Zaḥalad Ṣriḥon Du-Kani
 il_tcm_20_0;"<color=#81c3fc>White Motor Company</color>
-Zaḥeli Lemeḥeṣah Dizel Ṣriḥon Du-Kani 20 mm"
+Zaḥeli Lemeḥeṣah Dizel Ṣriḥon Du-Kani 20 mm
+<color=#ff546e>(White 160AX)</color>"
 il_tcm_20_1;Zaḥalad Ṣriḥon Du-Kani
 il_tcm_20_2;SPAAG
 
@@ -21715,13 +22177,14 @@ il_m163_vulcan_1;Ḥoveṭ
 il_m163_vulcan_2;SPAAG
 
 il_m109_shop; M109
-il_m109_0;"<color=#81c3fc>Cadillac Motor Car Division</color>
+il_m109_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
  Tomat M109"
 il_m109_1; M109
 il_m109_2;SPH
 
 il_m109a1_shop;Rokhev A
-il_m109a1_0;"<color=#81c3fc>Cadillac Motor Car Division <color=@commonTextColor>/</color> Merkaz Šikum ve-'Aḥzakah 7000</color>
+il_m109a1_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division <color=@commonTextColor>/</color> Merkaz Šikum
+ve-'Aḥzakah 7000</color>
 <color=#7ce68f>Tomat M109 A1</color>
 Tomat Rokhev Alef"
 il_m109a1_1;Rokhev A
@@ -22073,14 +22536,6 @@ germ_flakpanzer_V_Coelian_shop;Flakpanzer 341
 germ_flakpanzer_V_Coelian_0;3,7 cm Flakzwilling auf Panther Fahrgestell, Flakpanzer 341
 germ_flakpanzer_V_Coelian_1;Flakpanzer 341
 germ_flakpanzer_V_Coelian_2;SPAA
-germ_flakpz_1a2_Gepard_shop;FlakPz Gepard 1 A2 (LFK Stinger)
-germ_flakpz_1a2_Gepard_0;Flugabwehrkanonenpanzer Gepard 1 A2 mit LFK Stinger
-germ_flakpz_1a2_Gepard_1;Gepard 1 A2
-germ_flakpz_1a2_Gepard_2;SPAA
-germ_flakpz_I_Gepard_shop;FlakPz Gepard 1
-germ_flakpz_I_Gepard_0;Flugabwehrkanonenpanzer Gepard 1
-germ_flakpz_I_Gepard_1;Gepard 1
-germ_flakpz_I_Gepard_2;SPAA
 germ_flakpanzer_IV_Kugelblitz_shop;Kugelblitz
 germ_flakpanzer_IV_Kugelblitz_0;leichter Flakpanzer IV mit 3cm M.K. 103 als Zwilling Waffe
 germ_flakpanzer_IV_Kugelblitz_1;Kugelblitz
@@ -22201,14 +22656,6 @@ germ_jgdpz_IV_L48_shop;Jagdpanzer IV
 germ_jgdpz_IV_L48_0;Jagdpanzer IV
 germ_jgdpz_IV_L48_1;Jagdpanzer IV
 germ_jgdpz_IV_L48_2;SPG
-germ_panzerbefelhswagen_jagdpanther_shop;Pz.Jgr.-Bfw. Panther G1
-germ_panzerbefelhswagen_jagdpanther_0;Panzerjäger-Befehlswagen Panther (8,8cm) Ausf. G1
-germ_panzerbefelhswagen_jagdpanther_1;Pz.Jgr.-Bfw Panther
-germ_panzerbefelhswagen_jagdpanther_2;SPG
-germ_panzerjager_panther_shop;Pz.Jgr. Panther G1
-germ_panzerjager_panther_0;Panzerjäger Panther (8,8cm) Ausf. G1
-germ_panzerjager_panther_1;Pz.Jgr. Panther
-germ_panzerjager_panther_2;SPG
 germ_pzkpfw_V_ersatz_m10_shop;Ersatz M10
 germ_pzkpfw_V_ersatz_m10_0;Ersatz M10 Panther
 germ_pzkpfw_V_ersatz_m10_1;Ersatz M10
@@ -23037,14 +23484,6 @@ ussr_2s3m_shop;2S3M
 ussr_2s3m_0;"2S3M ""Akacziâ-M"""
 ussr_2s3m_1;2S3M
 ussr_2s3m_2;SPG
-so_4050_vautour_2a_shop;Vautour II A
-so_4050_vautour_2a_0;S.O.4050 Vautour II A
-so_4050_vautour_2a_1;Vautour II A
-so_4050_vautour_2a_2;Vautour II
-so_4050_vautour_2b_shop;Vautour II B
-so_4050_vautour_2b_0;S.O.4050 Vautour II B
-so_4050_vautour_2b_1;Vautour II B
-so_4050_vautour_2b_2;Vautour II
 p-63c-5_france_shop;☨ P-63C-5-BE
 p-63c-5_france_0;☨ P-63C-5-BE Kingcobra
 p-63c-5_france_1;☨ P-63C
@@ -23061,10 +23500,6 @@ f8f1b_france_shop;☨ F8F-1B
 f8f1b_france_0;☨ F8F-1B Bearcat
 f8f1b_france_1;☨ F8F-1
 f8f1b_france_2;☨ F8F
-so_8000_narval_shop;Narval
-so_8000_narval_0;S.O.8000 Narval
-so_8000_narval_1;Narval
-so_8000_narval_2;Narval
 sbd-5_france_shop;☨ SBD-5
 sbd-5_france_0;☨ SBD-5 Dauntless
 sbd-5_france_1;☨ SBD-5
@@ -23409,10 +23844,6 @@ ussr_su_85a_shop;SU-85A
 ussr_su_85a_0;SU-85A
 ussr_su_85a_1;SU-85A
 ussr_su_85a_2;SPG
-mi_4av_shop;Mi-4AV
-mi_4av_0;Mi-4AV
-mi_4av_1;Mi-4AV
-mi_4av_2;Mi-4
 mi_8tv_shop;Mi-8TB
 mi_8tv_0;Mi-8TB
 mi_8tv_1;Mi-8TB
@@ -23457,14 +23888,6 @@ sa_342m_shop;SA 342 M
 sa_342m_0;SA 342 M Gazelle
 sa_342m_1;SA 342 M
 sa_342m_2;SA 342
-h_34_france_shop;☨ H-34A
-h_34_france_0;☨ H-34A
-h_34_france_1;☨ H-34A
-h_34_france_2;☨ H-34
-h_34_shop;CH-34A
-h_34_0;CH-34A Choctaw
-h_34_1;CH-34A
-h_34_2;CH-34
 f-86k_late_shop;☨ F-86K
 f-86k_late_0;☨ F-86K Sabre
 f-86k_late_1;☨ F-86K
@@ -23561,162 +23984,6 @@ germ_marder_1a1_shop;SPz Marder 1 A1 (-)
 germ_marder_1a1_0;Schützenpanzer Marder 1 A1 (-)
 germ_marder_1a1_1;SPz Marder 1
 germ_marder_1a1_2;Light Tank
-sw_pbil_m40_shop;pbil m/40
-sw_pbil_m40_0;pansarbil m/40
-sw_pbil_m40_1;pbil m/40
-sw_pbil_m40_2;Light Tank
-sw_bkan_1c_shop;15,5 cm bkan 1C
-sw_bkan_1c_0;15,5 cm bandkanon 1C
-sw_bkan_1c_1;bkan 1C
-sw_bkan_1c_2;SPG
-sw_strv_m31_shop;strv m/31
-sw_strv_m31_0;stridsvagn m/31
-sw_strv_m31_1;strv m/31
-sw_strv_m31_2;Light Tank
-sw_strv_105_shop;strv 105
-sw_strv_105_0;stridsvagn 105
-sw_strv_105_1;strv 105
-sw_strv_105_2;Medium Tank
-sw_strv_104_shop;strv 104
-sw_strv_104_0;stridsvagn 104
-sw_strv_104_1;strv 104
-sw_strv_104_2;Medium Tank
-sw_strv_101_shop;strv 101
-sw_strv_101_0;stridsvagn 101
-sw_strv_101_1;strv 101
-sw_strv_101_2;Medium Tank
-sw_strv_74_shop;strv 74 V
-sw_strv_74_0;stridsvagn 74 V
-sw_strv_74_1;strv 74
-sw_strv_74_2;Medium Tank
-sw_lvkv_90c_shop;lvkv 9040C
-sw_lvkv_90c_0;luftvärnskanonvagn 9040C
-sw_lvkv_90c_1;lvkv 9040C
-sw_lvkv_90c_2;SPAA
-sw_strv_103a_shop;strv 103A
-sw_strv_103a_0;stridsvagn 103A
-sw_strv_103a_1;strv 103A
-sw_strv_103a_2;MBT
-sw_strv_103c_shop;strv 103C
-sw_strv_103c_0;stridsvagn 103C
-sw_strv_103c_1;strv 103C
-sw_strv_103c_2;MBT
-sw_strv121b_christian2_shop;strv 121B
-sw_strv121b_christian2_0;"stridsvagn 121B ""Christian II"""
-sw_strv121b_christian2_1;strv 121B
-sw_strv121b_christian2_2;MBT
-sw_strv_121_shop;strv 121A
-sw_strv_121_0;stridsvagn 121A
-sw_strv_121_1;strv 121A
-sw_strv_121_2;MBT
-sw_leopard_1a5no_shop;◢ KPz Leopard 1 A5 NO2
-sw_leopard_1a5no_0;◢ Kampfpanzer Leopard 1 A5 NO2
-sw_leopard_1a5no_1;◢ Leopard 1 A5
-sw_leopard_1a5no_2;MBT
-sw_strf_90b_shop;strf 9040B
-sw_strf_90b_0;stridsfordon 9040B
-sw_strf_90b_1;strf 9040B
-sw_strf_90b_2;IFV
-sw_strf_90c_shop;strf 9040C
-sw_strf_90c_0;stridsfordon 9040C
-sw_strf_90c_1;strf 9040C
-sw_strf_90c_2;IFV
-sw_strv_m38_shop;strv m/38
-sw_strv_m38_0;stridsvagn m/38
-sw_strv_m38_1;strv m/38
-sw_strv_m38_2;Light Tank
-sw_strv_m39_td_shop;⋦ strv m/39
-sw_strv_m39_td_0;⋦ stridsvagn m/39
-sw_strv_m39_td_1;⋦ strv m/39
-sw_strv_m39_td_2;Light Tank
-sw_strv_m39_shop;strv m/39
-sw_strv_m39_0;stridsvagn m/39
-sw_strv_m39_1;strv m/39
-sw_strv_m39_2;Light Tank
-sw_strv_m40l_shop;strv m/40-LI
-sw_strv_m40l_0;stridsvagn m/40-LI
-sw_strv_m40l_1;strv m/40
-sw_strv_m40l_2;Light Tank
-sw_strv_m41_s1_shop;strv m/41-SI
-sw_strv_m41_s1_0;stridsvagn m/41-SI
-sw_strv_m41_s1_1;strv m/41
-sw_strv_m41_s1_2;Light Tank
-sw_strv_m41_s2_shop;strv m/41-SII
-sw_strv_m41_s2_0;stridsvagn m/41-SII
-sw_strv_m41_s2_1;strv m/41 SII
-sw_strv_m41_s2_2;Light Tank
-sw_pvrbv_551_shop;pvrbv 551
-sw_pvrbv_551_0;pansarvärnsrobotbandvagn 551
-sw_pvrbv_551_1;pvrbv 551
-sw_pvrbv_551_2;SPG
-sw_lvrbv_701_shop;lvrbv 701
-sw_lvrbv_701_0;luftvärnsrobotbandvagn 701
-sw_lvrbv_701_1;lvrbv 701
-sw_lvrbv_701_2;SPAA
-sw_ikv_73_shop;ikv 73
-sw_ikv_73_0;infanterikanonvagn 73
-sw_ikv_73_1;ikv 73
-sw_ikv_73_2;Medium Tank
-sw_ikv_72_shop;ikv 72
-sw_ikv_72_0;infanterikanonvagn 72
-sw_ikv_72_1;ikv 72
-sw_ikv_72_2;SPG
-sw_lvkv_42_shop;lvkv 42
-sw_lvkv_42_0;luftvärnskanonvagn 42
-sw_lvkv_42_1;lvkv 42
-sw_lvkv_42_2;SPAA
-sw_veak_40_shop;VEAK 40
-sw_veak_40_0;Vagn Eldledning Automat-Kanon 40
-sw_veak_40_1;VEAK 40
-sw_veak_40_2;SPAA
-sw_pvlvv_fm42_shop;20 mm pvlvblav
-sw_pvlvv_fm42_0;20 mm pansarvärnsluftvärnsbandlavettage
-sw_pvlvv_fm42_1;20 mm pvlvblav
-sw_pvlvv_fm42_2;SPAA
-sw_tgdgb_m40_lv_shop;lvtdgb m/40
-sw_tgdgb_m40_lv_0;luftvärnsterrängdragbil m/40
-sw_tgdgb_m40_lv_1;lvtdgb m/40
-sw_tgdgb_m40_lv_2;SPAA
-sw_udes_33_shop;UDES 33
-sw_udes_33_0;Underlagsgrupp Direkt Eld stridsfordon 33
-sw_udes_33_1;UDES 33
-sw_udes_33_2;SPG
-sw_ikv_103_shop;ikv 103
-sw_ikv_103_0;infanterikanonvagn 103
-sw_ikv_103_1;ikv 103
-sw_ikv_103_2;SPG
-sw_sherman_3_4_shop;♛ Sherman, Mk. III
-sw_sherman_3_4_0;♛ Tank, Medium, Sherman, Mk. III
-sw_sherman_3_4_1;♛ Sherman, Mk. III
-sw_sherman_3_4_2;Medium Tank
-sw_stormpjas_fm43_44_shop;spj fm/43-44
-sw_stormpjas_fm43_44_0;"stormpjäs fm/43-44 ""Trätoffelvagnen"""
-sw_stormpjas_fm43_44_1;spj fm/43-44
-sw_stormpjas_fm43_44_2;SPG
-sw_pvkv_iv_shop;pvkv IVA
-sw_pvkv_iv_0;"pansarvärnskanonvagn IVA ""Värjan"""
-sw_pvkv_iv_1;pvkv IVA
-sw_pvkv_iv_2;Medium Tank
-sw_pvkv_III_shop;pvkv III
-sw_pvkv_III_0;pansarvärnskanonvagn III
-sw_pvkv_III_1;pvkv III
-sw_pvkv_III_2;SPG
-sw_pvkv_II_shop;pvkv II
-sw_pvkv_II_0;pansarvärnskanonvagn II
-sw_pvkv_II_1;pvkv II
-sw_pvkv_II_2;SPG
-sw_ikv_91_105_shop;ikv 91-105
-sw_ikv_91_105_0;infanterikanonvagn 91-105
-sw_ikv_91_105_1;ikv 91-105
-sw_ikv_91_105_2;Light Tank
-sw_ikv_91_shop;ikv 91
-sw_ikv_91_0;infanterikanonvagn 91
-sw_ikv_91_1;ikv 91
-sw_ikv_91_2;Light Tank
-sw_strv_103_0_shop;strv 103-0
-sw_strv_103_0_0;stridsvagn 103-0
-sw_strv_103_0_1;strv 103-0
-sw_strv_103_0_2;MBT
 ussr_ba_11_shop;BA-11
 ussr_ba_11_0;BA-11
 ussr_ba_11_1;BA-11
@@ -23729,14 +23996,6 @@ ussr_2s25_shop;2S25
 ussr_2s25_0;"2S25 ""Sprut-SD"""
 ussr_2s25_1;2S25
 ussr_2s25_2;Light Tank
-sw_pbv_501_shop;pbv 501
-sw_pbv_501_0;pansarbandvagn 501
-sw_pbv_501_1;pbv 501
-sw_pbv_501_2;Light Tank
-sw_pbv_301_shop;pbv 301
-sw_pbv_301_0;pansarbandvagn 301
-sw_pbv_301_1;pbv 301
-sw_pbv_301_2;SPAA
 germ_marder_1a3_shop;SPz Marder 1 A3
 germ_marder_1a3_0;Schützenpanzer Marder 1 A3
 germ_marder_1a3_1;SPz Marder 1 A3
@@ -23769,8 +24028,4 @@ fr_p730_combattante_shop;La Combattante (P 730)
 fr_p730_combattante_0;La Combattante (P 730)
 fr_p730_combattante_1;La Combattante
 fr_p730_combattante_2;Missile Boat
-germ_sppz2_luchs_a2_shop;SpPz Luchs A2
-germ_sppz2_luchs_a2_0;Spähpanzer Luchs A2
-germ_sppz2_luchs_a2_1;Luchs A2
-germ_sppz2_luchs_a2_2;IFV
 SHIPS_LANG_KEEP_IT_ALWAYS_FIRST;

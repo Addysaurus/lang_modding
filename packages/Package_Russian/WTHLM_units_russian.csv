@@ -378,7 +378,7 @@ su_30mkm_1;☉ Su-30MKM
 su_30mkm_2;☉ Su-30
 
 su_30mkk_shop;␗ Sū 30MKK
-su_30mkk_0;"<color=#81c3fc>Компания «Сухой»</color>
+su_30mkk_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод имени Ю. А. Гагарина</color>
 ␗ Sū 30MKK Xíng Fēijī"
 su_30mkk_1;␗ Sū 30MKK
 su_30mkk_2;␗ Sū 30
@@ -392,6 +392,19 @@ mig_35_1;МиГ-35С
 mig_35_2;МиГ-35
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 5
+mi_4av_shop;Ми-4АВ
+mi_4av_0;"<color=#81c3fc>Ленинградский авиационный завод № 387</color>
+<color=#5cae63>изд. 56АВ</color>
+Вертолет Ми-4АВ"
+mi_4av_1;Ми-4АВ
+mi_4av_2;Ми-4
+
+mi_4av_killstreak_shop;Ми-4АВ
+mi_4av_killstreak_0;"<color=#81c3fc>Ленинградский авиационный завод № 387</color>
+<color=#5cae63>изд. 56АВ</color>
+Вертолет Ми-4АВ"
+mi_4av_killstreak_1;Ми-4АВ
+mi_4av_killstreak_2;Ми-4
 
 //USSR HELICOPTERS - VEHICLE/FAMILY START: RANK 6
 mi_35m_shop;Ми-24ВМ
@@ -443,6 +456,29 @@ germ_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commo
 ◄ Panzerwagen Garford (Beute)"
 germ_garford_putilov_1;◄ Pzw. Garford (Beute)
 germ_garford_putilov_2;Armored Car
+
+ussr_bt_7_m_shop;БТ-7М
+ussr_bt_7_m_0;"<color=#81c3fc>Харьковский танковый завод № 183 им. Коминтерна</color>
+<color=#5cae63>Объект А-8</color>
+Быстроходный танк БТ-7М"
+ussr_bt_7_m_1;БТ-7М
+ussr_bt_7_m_2;Fast Tank
+
+ussr_bt_7_m_816_shop;⋦ БТ-7М (№ 816)
+ussr_bt_7_m_816_0;"<color=#81c3fc>Харьковский танковый завод № 183 им. Коминтерна</color>
+<color=#5cae63>Объект А-8</color>
+⋦ Быстроходный танк БТ-7М
+<color=@currencyGoldColor>25-й танковый корпус, 4-я легкотанковая бригада, № 816</color>"
+ussr_bt_7_m_816_1;⋦ БТ-7М
+ussr_bt_7_m_816_2;Fast Tank
+
+ussr_bt_7a_f32_shop;БТ-7арт (Ф-32)
+ussr_bt_7a_f32_0;"<color=#81c3fc>Харьковский танковый завод № 183 им. Коминтерна</color>
+<color=#5cae63>Объект А-7</color>
+Быстроходный танк БТ-7 артиллерийский
+<color=#adadad>(76-мм танковая пушка Ф-32 обр. 1939 г.)</color>"
+ussr_bt_7a_f32_1;БТ-7арт
+ussr_bt_7a_f32_2;Fast Tank
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 ussr_kv_8_shop;КВ-8
@@ -513,8 +549,7 @@ ussr_t_44_kit_4rank_1;Т-44
 ussr_t_44_kit_4rank_2;Medium Tank
 
 ussr_is_2m_kit_4rank_shop;ИС-2М «Be Prepared!»
-ussr_is_2m_kit_4rank_0;"<color=#81c3fc>Кировский завод Наркомата танковой промышленности в городе
-Челябинске (Завод № 100)</color>
+ussr_is_2m_kit_4rank_0;"<color=#81c3fc>Кировский завод № 100</color>
 <color=#5cae63>Объект 240</color>
 Танк ИС-2М
 <color=@currencyGoldColor>«Be Prepared!»</color>"
@@ -522,8 +557,7 @@ ussr_is_2m_kit_4rank_1;ИС-2М
 ussr_is_2m_kit_4rank_2;Heavy Tank
 
 cn_pt_76_shop;ПТ-76
-cn_pt_76_0;"<color=#81c3fc>Всероссийский научно-исследовательский институт транспортного
-машиностроения (ВНИИ-100)</color>
+cn_pt_76_0;"<color=#81c3fc>Сталинградский тракторный завод им. Ф. Э. Дзержинского</color>
 <color=#5cae63>Объект 740</color>
 ␗ Плавающий танк ПТ-76 обр. 1953 г."
 cn_pt_76_1;ПТ-76
@@ -620,13 +654,13 @@ ussr_btr_82at_1;БТР-82АТ
 ussr_btr_82at_2;IFV
 
 ussr_object_140_shop;Об. 140
-ussr_object_140_0;"<color=#81c3fc>Уральский танковый завод № 183 имени Коминтерна</color>
+ussr_object_140_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Коминтерна</color>
 <color=#5cae63>Обект 140</color>"
 ussr_object_140_1;Об. 140
 ussr_object_140_2;Medium Tank
 
 il_tiran_6_shop;Ṭiran 6
-il_tiran_6_0;"<color=#81c3fc>Уральским вагоностроительным заводом имени Ф. Э. Дзержинского <color=@commonTextColor>/</color>
+il_tiran_6_0;"<color=#81c3fc>Уральским вагоностроительным заводом им. Ф. Э. Дзержинского <color=@commonTextColor>/</color>
 Ḥeil ha-Ḥimuš</color>
 Ṭank Ṭiran 6"
 il_tiran_6_1;Ṭiran 6
@@ -634,14 +668,16 @@ il_tiran_6_2;MBT
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
 ussr_t_90m_2020_shop;Т-90М
-ussr_t_90m_2020_0;"<color=#81c3fc>Научно-производственная корпорация «УралВагонЗавод»</color>
+ussr_t_90m_2020_0;"<color=#81c3fc>Научно-производственная корпорация «Уралвагонзавод» им. Ф. Э.
+Дзержинского</color>
 <color=#5cae63>Объект 188М</color>
 Танк Т-90М обр. 2017 г. «Прорыв-3»"
 ussr_t_90m_2020_1;Т-90М
 ussr_t_90m_2020_2;MBT
 
 ussr_t_90m_arena_m_shop;Т-90М (Арена-М)
-ussr_t_90m_arena_m_0;"<color=#81c3fc>Научно-производственная корпорация «УралВагонЗавод»</color>
+ussr_t_90m_arena_m_0;"<color=#81c3fc>Научно-производственная корпорация «Уралвагонзавод» им. Ф. Э.
+Дзержинского</color>
 <color=#5cae63>Объект 188М</color>
 Танк Т-90М обр. 2017 г. «Прорыв-3»
 <color=#adadad>(Комплекс активной защиты Т09-А6-1 «Арена-М»)</color>"
@@ -672,16 +708,18 @@ ussr_t_80um2_1;Т-80У
 ussr_t_80um2_2;MBT
 
 ussr_bmpt_shop;БМПТ (2002)
-ussr_bmpt_0;"<color=#81c3fc>Уральское конструкторское бюро транспортного машиностроения</color>
+ussr_bmpt_0;"<color=#81c3fc>Производственное объединение «Уралвагонзавод» им. Ф. Э.
+Дзержинского</color>
 <color=#5cae63>Обект 199</color>
 Боевая машина поддержки танков БМПТ обр. 2002 г. «Терминатор»"
 ussr_bmpt_1;БМПТ
 ussr_bmpt_2;IFV
 
 ussr_bmpt_72_shop;БМПТ-72
-ussr_bmpt_72_0;"<color=#81c3fc>Уральское конструкторское бюро транспортного машиностроения</color>
+ussr_bmpt_72_0;"<color=#81c3fc>Научно-производственная корпорация «Уралвагонзавод» им. Ф. Э.
+Дзержинского</color>
 <color=#5cae63>Обект 183</color>
-Боевая машина поддержки танков БМПТ-72 «Терминато-2»"
+Боевая машина поддержки танков БМПТ-72 «Терминатор-2»"
 ussr_bmpt_72_1;БМПТ-72
 ussr_bmpt_72_2;IFV
 
@@ -947,11 +985,11 @@ germ_kv_1_kwk_40_0;"<color=#81c3fc>Кировский завод Наркома�
 germ_kv_1_kwk_40_1;▀ s.Pz.Kpfw. 756 (r)
 germ_kv_1_kwk_40_2;Heavy Tank
 
-germ_kv_1B_finland_shop;▀ 44 psv KW 1 B
-germ_kv_1B_finland_0;"<color=#81c3fc>Кировский завод</color>
+germ_kv_1B_finland_shop;▀ 44 psv. KW 1 B
+germ_kv_1B_finland_0;"<color=#81c3fc>Кировский завод № 100</color>
 <color=#5cae63>Ps. 272-1</color>
 ▀ 44 tonnin panssarivaunu KW 1 B ""Klimi"""
-germ_kv_1B_finland_1;▀ 44 psv KW 1 B
+germ_kv_1B_finland_1;▀ 44 psv. KW 1 B
 germ_kv_1B_finland_2;▀ Heavy Tank
 
 //GERMANY COASTAL FLEET - VEHICLE/FAMILY START: RANK 4
@@ -984,12 +1022,6 @@ uk_9a35_m_0;"<color=#81c3fc>Саратовский завод тяжелого �
 ☸ Sṭrelā-10 Em Prakṣepāstra Praṇālī"
 uk_9a35_m_1;☸ Sṭrelā-10 Em
 uk_9a35_m_2;SPAAM
-
-uk_t_90s_bheeshma_shop;☸ T-90S
-uk_t_90s_bheeshma_0;"<color=#81c3fc>УралВагонЗавод <color=@commonTextColor>/</color> Bhārī Vāhan Nirmāṇī</color>
-☸ Ṭaink Ṭī-90 Es Bhīṣma"
-uk_t_90s_bheeshma_1;☸ T-90S
-uk_t_90s_bheeshma_2;MBT
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 i-15bis_china_shop;☀ E-15 Bisī
@@ -1055,8 +1087,8 @@ f_6c_pakistan_2;☪ F6
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 cn_type_58_shop;␗ 特34 (1960)
-cn_type_58_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ) <color=@commonTextColor>/</color>
-国营哈尔滨第一机器制造厂 (国营第六七四厂)</color>
+cn_type_58_0;"<color=#81c3fc>Уральский танковый завод № 183 <color=@commonTextColor>/</color> 国营哈尔滨第一机器制造厂
+(国营第六七四厂)</color>
 ␗ 特34中型坦克
 <color=#adadad>(1960)</color>"
 cn_type_58_1;␗ 特34 (1960)
@@ -1066,7 +1098,7 @@ cn_type_58_2;Medium Tank
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 cn_t_62_shop;Т-62
-cn_t_62_0;"<color=#81c3fc>Опытно-конструкторское бюро № 520</color>
+cn_t_62_0;"<color=#81c3fc>Уральским вагоностроительным заводом им. Ф. Э. Дзержинского</color>
 <color=#5cae63>Обект 166</color>
 Танк Т-62 обр. 1964 г.
 <color=@currencyGoldColor>57-го Погранотряда</color>"
@@ -1165,22 +1197,24 @@ mi_24d_hungary_1;◔ Mi-24D
 mi_24d_hungary_2;◔ Mi-24
 
 mi_24p_hungary_shop;◔ Mi-24P
-mi_24p_hungary_0;"<color=#81c3fc>Авиационная производственная объединение «Прогресс» им. Н. И. Сазыкина</color>
+mi_24p_hungary_0;"<color=#81c3fc>Авиационная производственная объединение «Прогресс» им. Н. И.
+Сазыкина</color>
 ◔ Mi-24P helikopter"
 mi_24p_hungary_1;◔ Mi-24P
 mi_24p_hungary_2;◔ Mi-24
 
 mi_24v_hungary_shop;◔ Mi-24V
-mi_24v_hungary_0;"<color=#81c3fc>Авиационная производственная объединение «Прогресс» им. Н. И. Сазыкина</color>
+mi_24v_hungary_0;"<color=#81c3fc>Авиационная производственная объединение «Прогресс» им. Н. И.
+Сазыкина</color>
 ◔ Mi-24V helikopter"
 mi_24v_hungary_1;◔ Mi-24V
 mi_24v_hungary_2;◔ Mi-24
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
-it_2s1_shop;◔ 2SZ1
-it_2s1_0;"<color=#81c3fc>Харківський тракторний завод (ХТЗ)</color>
-◔ 122 mm-es 2SZ1 önjáró tarack ""Gvozgyika"""
-it_2s1_1;◔ 2SZ1
+it_2s1_shop;◔ 2Sz1
+it_2s1_0;"<color=#81c3fc>Харківський тракторний завод</color>
+◔ 122 mm-es 2Sz1 önjáró tarack ""Gvozgyika"""
+it_2s1_1;◔ 2Sz1
 it_2s1_2;SPH
 
 it_fiat_6616_ub_shop;▂ Fiat 6616BM (TC 20) (УБ-16-57УМП)
@@ -1190,28 +1224,28 @@ it_fiat_6616_ub_1;▂ Fiat 6616BM
 it_fiat_6616_ub_2;Armored Car
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
-it_zsu_57_2_shop;◔ ZSZU-57-2
+it_zsu_57_2_shop;◔ ZSzU-57-2
 it_zsu_57_2_0;"<color=#81c3fc>Омский завод № 174 им. Ворошилова</color>
-◔ 57 mm-es ZSZU-57-2 önjáró légvédelmi gépágyú ""Büszke"""
-it_zsu_57_2_1;◔ ZSZU-57-2
+◔ 57 mm-es ZSzU-57-2 önjáró légvédelmi gépágyú ""Büszke"""
+it_zsu_57_2_1;◔ ZSzU-57-2
 it_zsu_57_2_2;SPAAG
 
 it_btr_80a_hungary_shop;◔ BTR-80A
-it_btr_80a_hungary_0;"<color=#81c3fc>Производственное объединение «Горьковский автомобильный завод»</color>
+it_btr_80a_hungary_0;"<color=#81c3fc>Горьковский автомобильный завод</color>
 ◔ BTR-80A gyalogsági harcjármű"
 it_btr_80a_hungary_1;◔ BTR-80A
 it_btr_80a_hungary_2;IFV
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
-it_zsu_23_4_shop;◔ ZSZU-23-4V
+it_zsu_23_4_shop;◔ ZSzU-23-4V
 it_zsu_23_4_0;"<color=#81c3fc>Мытищинский ордена Отечественной войны 1 степени
 машиностроительный завод</color>
-◔ 23 mm-es ZSZU-23-4V önjáró légvédelmi gépágyú ""Silka"""
-it_zsu_23_4_1;◔ ZSZU-23-4V
+◔ 23 mm-es ZSzU-23-4V önjáró légvédelmi gépágyú ""Silka"""
+it_zsu_23_4_1;◔ ZSzU-23-4V
 it_zsu_23_4_2;SPAAG
 
 it_t_72m1_shop;◔ T-72M1
-it_t_72m1_0;"<color=#81c3fc>Опытно-конструкторское бюро № 520 им. Морозова</color>
+it_t_72m1_0;"<color=#81c3fc>Уральский вагоностроительный завод им. Ф. Э. Дзержинского</color>
 ◔ T-72M1 harckocsi"
 it_t_72m1_1;◔ T-72M1
 it_t_72m1_2;MBT
@@ -1224,21 +1258,56 @@ it_9a35_m_1;◔ 9A35M
 it_9a35_m_2;SPAAM
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
-sw_t_50_fin_shop;15 psv T 50 (1942)
+sw_bt_42_shop;15 ryn.tyk.psv./BT42
+sw_bt_42_0;"<color=#81c3fc>Завод № 183 / Valtion Tykkitehdas</color>
+<color=#5cae63>Ps. 511</color>
+15 tonnin rynnäkkötykkipanssarivaunu mallia BT42"
+sw_bt_42_1;15 ryn.tyk.psv./BT42
+sw_bt_42_2;SPG
+
+sw_t_28_shop;28 psv. T 28 (1938)
+sw_t_28_0;"<color=#81c3fc>Кировский завод № 100</color>
+28 tonnin panssarivaunu T 28
+<color=#adadad>(1938)</color>"
+sw_t_28_1;28 psv. T 28 (1938)
+sw_t_28_2;Heavy Tank
+
+sw_t_50_fin_shop;15 psv. T 50 (1942)
 sw_t_50_fin_0;"<color=#81c3fc>Ленинградский государственный завод № 174 им. К. Е. Ворошилова <color=@commonTextColor>/</color>
 Panssarikeskuskorjaamo</color></color>
 <color=#5cae63>Ps. 183-1</color>
 15 tonnin panssarivaunu T 50 ""Pikku-Sotka""
 <color=#adadad>(1942)</color>"
-sw_t_50_fin_1;15 psv T 50
+sw_t_50_fin_1;15 psv. T 50
 sw_t_50_fin_2;Light Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
-sw_kv_1_1942_fin_shop;44 psv KW 1 A
-sw_kv_1_1942_fin_0;"<color=#81c3fc>Кировский завод</color>
+sw_t_34_1941_shop;26 psv. T 34 B
+sw_t_34_1941_0;"<color=#81c3fc>Харьковский машиностроительный завод № 183 им. Коминтерна</color>
+<color=#5cae63>Ps. 231</color>
+26 tonnin panssarivaunu T 34 B ""Sotka"""
+sw_t_34_1941_1;26 psv. T 34 B
+sw_t_34_1941_2;Medium Tank
+
+sw_t_34_85_zis_53_shop;31 psv. T 34/85
+sw_t_34_85_zis_53_0;"<color=#81c3fc>Уральский танковый завод № 183</color>
+<color=#5cae63>Ps. 245</color>
+31 tonnin panssarivaunu T 34/85 ""Pitkäputkinen Sotka"""
+sw_t_34_85_zis_53_1;31 psv. T 34/85
+sw_t_34_85_zis_53_2;Medium Tank
+
+sw_pt_76b_shop;▄ PT-76
+sw_pt_76b_0;"<color=#81c3fc>Сталинградский тракторный завод им. Ф. Э. Дзержинского</color>
+<color=#5cae63>Ps. 141</color>
+▄ PT-76"
+sw_pt_76b_1;▄ PT-76
+sw_pt_76b_2;Amphibious Tank
+
+sw_kv_1_1942_fin_shop;44 psv. KW 1 A
+sw_kv_1_1942_fin_0;"<color=#81c3fc>Кировский завод № 100</color>
 <color=#5cae63>Ps. 271-1</color>
 44 tonnin panssarivaunu KW 1 A ""Klimi"""
-sw_kv_1_1942_fin_1;44 psv KW 1 A
+sw_kv_1_1942_fin_1;44 psv. KW 1 A
 sw_kv_1_1942_fin_2;Heavy Tank
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
@@ -1249,7 +1318,44 @@ pansarbandvagn 501"
 sw_pbv_501_1;pbv 501
 sw_pbv_501_2;IFV
 
+//SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
+sw_zsu_57_2_shop;it.psv. SU-57-2
+sw_zsu_57_2_0;"<color=#81c3fc>Омский завод № 174 им. Ворошилова</color>
+<color=#5cae63>Ps. 461</color>
+ilmatorjuntapanssarivaunu SU-57-2"
+sw_zsu_57_2_1;it.psv. SU-57-2
+sw_zsu_57_2_2;SPAAG
+
+sw_t_54_1951_shop;tst.psv. T 54
+sw_t_54_1951_0;"<color=#81c3fc>Уральский вагоностроительный завод № 183 им. И. В. Сталина</color>
+<color=#5cae63>Ps. 261</color>
+taistelupanssarivaunu T 54"
+sw_t_54_1951_1;tst.psv. T 54
+sw_t_54_1951_2;Battle Tank
+
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+sw_t_55m_shop;tst.psv. T 55M
+sw_t_55m_0;"<color=#81c3fc>Харьковский завод транспортного машиностроения им. В. А.
+Малышева</color>
+<color=#5cae63>Ps. 262</color>
+taistelupanssarivaunu T 55M"
+sw_t_55m_1;tst.psv. T 55M
+sw_t_55m_2;Battle Tank
+
+sw_t_72m1_shop;tst.psv. T 72M1
+sw_t_72m1_0;"<color=#81c3fc>Производственное объединение «Уралвагонзавод»</color>
+<color=#5cae63>Ps. 264</color>
+taistelupanssarivaunu T 72M1"
+sw_t_72m1_1;tst.psv. T 72M1
+sw_t_72m1_2;Battle Tank
+
+sw_bmp_2md_shop;r.psv. BMP-2MD
+sw_bmp_2md_0;"<color=#81c3fc>Курганский машиностроительный завод им. В. И. Ленина <color=@commonTextColor>/</color> Conlog</color>
+<color=#5cae63>Ps. 153</color>
+rynnäkköpanssarivaunu BMP-2MD"
+sw_bmp_2md_1;r.psv. BMP-2MD
+sw_bmp_2md_2;IFV
+
 sw_patria_bmp_3_shop;¤ AMV XP (2К23)
 sw_patria_bmp_3_0;"<color=#81c3fc>¤ Patria Advanced Modular Vehicle XP <color=@commonTextColor>/</color> Rosomak</color>
 <color=#adadad>(Комплекс вооружения 2К23) (IDEX 2015)</color>"

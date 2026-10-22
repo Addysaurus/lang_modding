@@ -149,12 +149,6 @@ J7D型飞机"
 j_7d_1;J7D
 j_7d_2;J7
 
-mig-17_f5_shop;▆ F5
-mig-17_f5_0;"<color=#81c3fc>Опытно-конструкторское бюро № 155 <color=@commonTextColor>/</color> 国营松陵机械厂</color>
-▆ Chugyŏkgi 《F5》"
-mig-17_f5_1;▆ F5
-mig-17_f5_2;▆ F5
-
 f_6c_pakistan_shop;☪ F6C (Oct 1976)
 f_6c_pakistan_0;"<color=#81c3fc>Опытно-конструкторское бюро № 155 СМ-7/3 <color=@commonTextColor>/</color> 国营松陵机械厂 <color=@commonTextColor>/</color>
 Central Technical Development Unit</color>
@@ -186,7 +180,7 @@ j_11b_1;J11B
 j_11b_2;J11
 
 su_30mkk_shop;␗ 苏30MKK
-su_30mkk_0;"<color=#81c3fc>Компания «Сухой»</color>
+su_30mkk_0;"<color=#81c3fc>Комсомольский-на-Амуре авиационный завод имени Ю. А. Гагарина</color>
 ␗ 苏30MKK型飞机"
 su_30mkk_1;␗ 苏30MKK
 su_30mkk_2;␗ 苏30
@@ -236,37 +230,36 @@ us_lvt_4_zis_2_2;Tank Destroyer
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
 cn_pt_76_shop;␗ ПТ-76
-cn_pt_76_0;"<color=#81c3fc>Всероссийский научно-исследовательский институт транспортного
-машиностроения (ВНИИ-100)</color>
+cn_pt_76_0;"<color=#81c3fc>Сталинградский тракторный завод им. Ф. Э. Дзержинского</color>
 <color=#5cae63>Объект 740</color>
 ␗ Плавающий танк ПТ-76 обр. 1953 г."
 cn_pt_76_1;␗ ПТ-76
 cn_pt_76_2;Amphibious Tank
 
 cn_t_34_1942_shop;␗ 特34 (1942)
-cn_t_34_1942_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ)</color>
+cn_t_34_1942_0;"<color=#81c3fc>Уральский танковый завод № 183</color>
 ␗ 特34中型坦克
 <color=#adadad>(1942)</color>"
 cn_t_34_1942_1;␗ 特34
 cn_t_34_1942_2;Medium Tank
 
 cn_t_34_85_d_5t_shop;␗ 特34 (1944)
-cn_t_34_85_d_5t_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ)</color>
+cn_t_34_85_d_5t_0;"<color=#81c3fc>Уральский танковый завод № 183</color>
 ␗ 特34中型坦克
 <color=#adadad>(1944)</color>"
 cn_t_34_85_d_5t_1;␗ 特34 (1944)
 cn_t_34_85_d_5t_2;Medium Tank
 
 cn_type_58_shop;␗ 特34 (1960)
-cn_type_58_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ) <color=@commonTextColor>/</color>
-国营哈尔滨第一机器制造厂 (国营第六七四厂)</color>
+cn_type_58_0;"<color=#81c3fc>Уральский танковый завод № 183 <color=@commonTextColor>/</color> 国营哈尔滨第一机器制造厂
+(国营第六七四厂)</color>
 ␗ 特34中型坦克
 <color=#adadad>(1960)</color>"
 cn_type_58_1;␗ 特34 (1960)
 cn_type_58_2;Medium Tank
 
 cn_t_34_85_zis_53_no215_shop;␗ 特34 (1944) (战车第2师)
-cn_t_34_85_zis_53_no215_0;"<color=#81c3fc>Уральский танковый завод № 183 им. Сталина (УТЗ)</color>
+cn_t_34_85_zis_53_no215_0;"<color=#81c3fc>Уральский танковый завод № 183</color>
 ␗ 特34中型坦克
 <color=#adadad>(1944)</color>
 <color=@currencyGoldColor>战车第2师</color>"
@@ -274,36 +267,34 @@ cn_t_34_85_zis_53_no215_1;␗ 特34 (1944)
 cn_t_34_85_zis_53_no215_2;Medium Tank
 
 cn_isu_152_shop;␗ ИСУ-152
-cn_isu_152_0;"<color=#81c3fc>Всероссийский научно-исследовательский институт транспортного
-машиностроения (ВНИИ-100)</color>
+cn_isu_152_0;"<color=#81c3fc>Кировский завод № 100</color>
 ␗ ИСУ-152自行火砲"
 cn_isu_152_1;␗ ИСУ-152
 cn_isu_152_2;SPG
 
 cn_isu_122_shop;␗ ИСУ-122
-cn_isu_122_0;"<color=#81c3fc>Всероссийский научно-исследовательский институт транспортного
-машиностроения (ВНИИ-100)</color>
+cn_isu_122_0;"<color=#81c3fc>Кировский завод № 100</color>
 ␗ ИСУ-122自行火砲"
 cn_isu_122_1;␗ ИСУ-122
 cn_isu_122_2;SPG
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
 cn_is_2_1943_shop;␗ 斯2 (1943)
-cn_is_2_1943_0;"<color=#81c3fc>Кировский завод наркомтанкопрома в г. Челябинске (ЧКЗ)</color>
+cn_is_2_1943_0;"<color=#81c3fc>Кировский завод № 100</color>
 ␗ 斯2重型坦克
 <color=#adadad>(1943)</color>"
 cn_is_2_1943_1;␗ 斯2
 cn_is_2_1943_2;Heavy Tank
 
 cn_is_2_1944_shop;␗ 斯2 (1944)
-cn_is_2_1944_0;"<color=#81c3fc>Кировский завод наркомтанкопрома в г. Челябинске (ЧКЗ)</color>
+cn_is_2_1944_0;"<color=#81c3fc>Кировский завод № 100</color>
 ␗ 斯2重型坦克
 <color=#adadad>(1944)</color>"
 cn_is_2_1944_1;␗ 斯2
 cn_is_2_1944_2;Heavy Tank
 
 cn_is_2_1943_no402_shop;␗ 斯2 (1943) (坦克第3师)
-cn_is_2_1943_no402_0;"<color=#81c3fc>Кировский завод наркомтанкопрома в г. Челябинске (ЧКЗ)</color>
+cn_is_2_1943_no402_0;"<color=#81c3fc>Кировский завод № 100</color>
 ␗ 斯2重型坦克
 <color=#adadad>(1943)</color>
 <color=@currencyGoldColor>坦克第3师</color>"
@@ -311,8 +302,7 @@ cn_is_2_1943_no402_1;␗ 斯2
 cn_is_2_1943_no402_2;Heavy Tank
 
 cn_su_100_1945_shop;␗ СУ-100
-cn_su_100_1945_0;"<color=#81c3fc>Уральский завод тяжёлого машиностроения им. С. Орджоникидзе
-(УЗТМ)</color>
+cn_su_100_1945_0;"<color=#81c3fc>Уральский завод тяжёлого машиностроения им. С. Орджоникидзе</color>
 ␗ СУ-100自行火砲"
 cn_su_100_1945_1;␗ СУ-100
 cn_su_100_1945_2;SPG
@@ -321,7 +311,7 @@ cn_su_100_1945_2;SPG
 
 //CHINA GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
 cn_t_62_shop;␗ Т-62 (57-го По.)
-cn_t_62_0;"<color=#81c3fc>Опытно-конструкторское бюро № 520</color>
+cn_t_62_0;"<color=#81c3fc>Уральским вагоностроительным заводом им. Ф. Э. Дзержинского</color>
 <color=#5cae63>Объект 166</color>
 ␗ Танк Т-62 обр. 1964 г.
 <color=@currencyGoldColor>57-го Погранотряда</color>"

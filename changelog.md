@@ -18,7 +18,76 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.19.01 - UNRELEASED
+## 1.19.02 - UNRELEASED
+
+### Vehicles:
+
+- #### Changes:
+
+    - Updated for the "Steel Fury" Battle Pass season and the new Twitch Drop and Thunder League vehicles.
+    - Implemented the Swedish ground tree rework. This reworks every Swedish, Finnish, Danish, and Norwegian ground vehicle in the entire game.
+    - Reworked Canadian ground vehicles and implemented a new Québécois French package for Canadian vehicles that uses their Québécois French designations.
+    - Several more formatting corrections for multiline statcards.
+    - Added a new multiline statcard color for ahistorical modifications. A bunch of vehicles have had ahistorical modifications specified in their statcards.
+    - Added the new killstreak helicopters.
+    - Revised the **AH-64E**s.
+    - Revised the **H-34**s.
+    - Revised the **Mi-4AV**.
+    - Reworked all the **Jagdpanther**s.
+    - Reworked the **BT-7M** and **BT-7A**.
+    - Reworked all the **Vautour**s (no reason, just felt like it).
+    - Reworked the **Narval**.
+    - Reworked the **SpPz Luchs**.
+    - Reworked all the **M10**s and **M36**s.
+    - Specified the modification for the **NF-5A**.
+    - Large pass on Russian manufacturers of Chinese vehicles.
+    - Corrected the designation of the **Hornet**s.
+    - Updated the name of the Italian **PzH 2000**.
+    - Updated a bunch of Sherman manufacturers.
+    - Updated a bunch of other manufacturers to be more accurate to their legal registrations.
+    - Updated a bunch of vehicle's manufacturers and manufacturer names to be accurate to who built them, rather than designed them (and also just corrected some of their dates). We are slowly moving the mod over to a new, unified manufacturer standard where we only list who built them, unless the designer of that variant also has an internal designation for it.
+    - Moved all Soviet/Russian manufacturers of Hungarian vehicles over to the new Russian transliteration system.
+    - Reworked the Canadair **Sabre**s.
+    - **R2Y2-G** → **R2Y2-J**.
+    - **G 91 (pre-serie)** → **G 91 (preserie)**.
+    - Reworked the **F-15J**s (I hate working on the **F-15J** more than you could ever know, hopefully this is the end of it).
+    - Revised the **A.M.X. 50t Surbaissé**.
+    - Changed **2SZ1** and **ZSZU** to **2Sz1** and **ZSzU** respectively for Hungarian vehicles.
+    - Corrected the French **Lancaster Mk. VII (WU)** (when I was removing the old file entries for the British rework, I deleted the French Lancaster from existence accidentally, it is fixed now).
+    - Corrected the display of the **Ki 96 (3 Gō)** in the Japanese package.
+    - Corrected the transliteration of the North Korean **F5** in the Mandarin packages.
+    - Added the missing WZ index to the **PLZ83**.
+    - Revised the **ZSD63 (PG87)**.
+    - Reworked all the **Gepard**s.
+    - Updated the unit name for the **Leopard 2A4 NL (OTCo)** to the **Leopard 2A4 NL (OTCRij)**.
+    - Corrected the model numbers of the **N1K2-J**s.
+    - Removed the Jia and Otsu variant designators from the Chinese and Japanese **Ki 43-III**s and updated their manufacturers.
+
+### Weaponry:
+
+- #### Changes:
+
+    - **20 mm Polsten cannon** → **Gun, Machine, Polsten, 20 mm, Mk. I**.
+    - **37 mm Psv.K/36 cannon** → **37 mm:n panssarivaunukanuuna mallia 1936**.
+    - **Rifle, 106mm, M40A1** → **Cannone da 106 s.r. M40A1**.
+    - Corrected the caliber tag color display for the **SU-100M**'s **M-63** cannon.
+    - Updated the Taiwanese **T74**, **T74V**, **M32K1**, and **M256** guns.
+    - Corrected the caliber tag of the **"Ki 109" Tōsai Hō** from 57 mm to 75 mm (thanks Gszabi99 for pointing this one out).
+    - Reworked the **F-32** gun.
+
+### Engines:
+
+- #### Changes:
+
+    - Corrected the nicknames of the **FWS10** engine family from "Tàixíng" to "Tàiháng".
+
+### Sensors:
+
+- #### Changes:
+
+    - Corrected the **APK-9** to not be listed as an agricultural product lmfaooo. How this even happened is beyond me.
+
+## 1.19.01 - 03-10-2026
 
 ### Vehicles:
 

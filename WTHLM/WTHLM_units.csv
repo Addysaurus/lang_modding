@@ -1244,7 +1244,7 @@ ussr_ai_sam_radar_9s18_2;Radar
 ussr_ai_sam_radar_9s18m1_0;"Stantsiya obnaruzhyeniya i tsyelyeukazaniya 9S18M1 ""Kupol-M1"""
 ussr_ai_sam_radar_9s18m1_1;9S18M1
 ussr_ai_sam_radar_9s18m1_2;Radar
-ussr_ai_mlrs_9a52_2_smerch_0;"Boyevaâ mašina 9A52-2 ""Smyerč-M"""
+ussr_ai_mlrs_9a52_2_smerch_0;"Boyevaya mashina 9A52-2 ""Smyerč-M"""
 ussr_ai_mlrs_9a52_2_smerch_1;9A52-2
 ussr_ai_mlrs_9a52_2_smerch_2;MLRS
 ussr_ai_tbm_9k79_tochka_0;"Taktičyeskij rakyetnyj komplyeks 9P129 ""Točka"""
@@ -1771,17 +1771,17 @@ shop/group/cn_ptl_aft_group;PTL02 / AFT09
 shop/group/cn_ztz_99_group;ZTZ99 (1 Qí) / (2 Qí)
 shop/group/cn_tor_hq_group;␗ 9A331 / ADK17
 
-shop/group/it_fiat_group;Fiat 6616 / 6614
-shop/group/it_centauro_105_group;Centauro (preserie) / ROMOR
+shop/group/it_fiat_group;Fiat 6616BM (T 90 CKL) / 6614 (M40A1)
+shop/group/it_centauro_105_group;B1 Centauro (preserie) / (ROMOR)
 shop/group/it_m15_pz_3_group;M. 42 / Pz.Kpfw. III
-shop/group/it_ariete_group;Ariete (PSO) / (WAR)
-shop/group/it_semovente_stug_group;90/53 M. 41. M / ⛨ StuG III
-shop/group/it_semovente_m41_group;75/18 M. 41 / 75/32 M. 41 / 75/34 M. 42
+shop/group/it_ariete_group;C1 Ariete (PSO) / (WAR)
+shop/group/it_semovente_stug_group;90/53 M. 41 M. / ⛨ Stu.G. III
+shop/group/it_semovente_m41_group;75/18 M. 41 / 75/32 M. 41 / 75/34 M. 42 M.
 shop/group/it_semovente_m43_105_75_group;105/25 M. 43 / 75/34 M. 43
 shop/group/it_m13_40_group;M. 40 I / III
 shop/group/it_m44_55_group;⛨ 155/23 M44 / 203/25 M55
-shop/group/it_of_leo_group;OF 40 Mk. 1 / ⛨ Leopard 1 A2
-shop/group/it_dardo_group;VCC-80 Dardo / Dardo (HITFIST 30)
+shop/group/it_of_leo_group;OF 40 Mk 1 / ⛨ Leopard 1 A2
+shop/group/it_dardo_group;VCC Dardo / Dardo (HITFIST 30)
 shop/group/it_9a33_35_group;╏ 9A33BM3 / ◔ 35M
 shop/group/it_samp_t_fcs_group;⛨ SAMP/T
 shop/group/sm_79_1941_group;S.M.79 AS / bis/T.M. / S. 79 B
@@ -2853,10 +2853,10 @@ p-51c-10-nt_0;P-51C-10-NT Mustang
 p-51c-10-nt_1;P-51C
 p-51c-10-nt_2;P-51
 
-p-51a_tl_shop;╎ P-51A-1-NA
-p-51a_tl_0;╎ P-51A-1-NA Mustang
-p-51a_tl_1;╎ P-51A
-p-51a_tl_2;╎ P-51
+p-51a_tl_shop;◆ P-51A-1-NA
+p-51a_tl_0;◆ P-51A-1-NA Mustang
+p-51a_tl_1;◆ P-51A
+p-51a_tl_2;◆ P-51
 
 p-51_mk1_shop;P-51-NA
 p-51_mk1_0;P-51-NA Mustang
@@ -4215,10 +4215,10 @@ Tank, Light, M24 Chaffee"
 us_m24_chaffee_1;M24
 us_m24_chaffee_2;Light Tank
 
-us_m24_chaffee_tl_shop;╎ M24
+us_m24_chaffee_tl_shop;◆ M24
 us_m24_chaffee_tl_0;"<color=#5cae63>G-200</color>
-╎ Tank, Light, M24 Chaffee"
-us_m24_chaffee_tl_1;╎ M24
+◆ Tank, Light, M24 Chaffee"
+us_m24_chaffee_tl_1;◆ M24
 us_m24_chaffee_tl_2;Light Tank
 
 us_m24_chaffee_tutorial_shop;M24
@@ -5678,12 +5678,12 @@ Bf 8-109 T-2"
 bf_109t_2_1;Bf 109 T
 bf_109t_2_2;Bf 109
 
-bf-109e-3_tl_shop;╎ Bf 109 E-3 (III./JG 51)
+bf-109e-3_tl_shop;◆ Bf 109 E-3 (III./JG 51)
 bf-109e-3_tl_0;"<color=#81c3fc>Messerschmitt</color>
-╎ Bf 8-109 E-3
+◆ Bf 8-109 E-3
 <color=@currencyGoldColor>III. Gruppe, Jagdgeschwader 51 ""Mölders""</color>"
-bf-109e-3_tl_1;╎ Bf 109 E
-bf-109e-3_tl_2;╎ Bf 109
+bf-109e-3_tl_1;◆ Bf 109 E
+bf-109e-3_tl_2;◆ Bf 109
 
 bf-109f-4_shop;Bf 109 F-4
 bf-109f-4_0;"<color=#81c3fc>Messerschmitt</color>
@@ -6270,6 +6270,22 @@ bv-155b-1_shop;BV 155 B-1
 bv-155b-1_0;"BV 155 B-1"
 bv-155b-1_1;BV 155 B-1
 bv-155b-1_2;BV 155
+
+fw_190a_8_mistel_shop;Fw 190 A-8 (Mistel 2)
+fw_190a_8_mistel_0;"<color=#81c3fc>Focke-Wulf Flugzeugbau</color>
+<color=#ff8c80>Beethoven-Gerät</color>
+<color=#7ce68f>Mistel 2</color>
+Fw 190 A-8"
+fw_190a_8_mistel_1;Fw 190 A (Mistel 2)
+fw_190a_8_mistel_2;Fw 190 (Mistel 2)
+
+ju_88g_1_mistel_shop;Ju 88 G-1 (Mistel 2)
+ju_88g_1_mistel_0;"<color=#81c3fc>Junkers Flugzeug- und Motorenwerke</color>
+<color=#ff8c80>Beethoven-Gerät</color>
+<color=#7ce68f>Mistel 2</color>
+Ju 88 G-1"
+ju_88g_1_mistel_1;Ju 88 G (Mistel 2)
+ju_88g_1_mistel_2;Ju 88 (Mistel 2)
 
 //GERMANY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 ta-152h-1_shop;Ta 152 H-1
@@ -7541,8 +7557,8 @@ germ_leopard_2a5_yt_cup_2019_1;␙ Leopard 2
 germ_leopard_2a5_yt_cup_2019_2;MBT
 
 germ_9a33bm3_shop;◊ 9A33BM2
-germ_9a33bm3_0;"<color=#81c3fc>Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut</color>
-◊ Boyevaâ mašina 9A33BM2 ""Osa-AK"""
+germ_9a33bm3_0;"<color=#81c3fc>Izhyefsk'ij elyektromyekhanich'esk'ij zavot «Kupol»</color>
+◊ Boyevaya mashina 9A33BM2 ""Osa-AK"""
 germ_9a33bm3_1;◊ 9A33BM2
 germ_9a33bm3_2;SPAA
 
@@ -9066,12 +9082,12 @@ ussr_bt_7_1937_td_0;"<color=#5cae63>A-7</color>
 ussr_bt_7_1937_td_1;⋦ BT-7
 ussr_bt_7_1937_td_2;Light Tank
 
-ussr_bt_7_m_816_shop;⋦ BT-7M (№ 816)
+ussr_bt_7_m_816_shop;◆ BT-7M (№ 816)
 ussr_bt_7_m_816_0;"<color=#81c3fc>Khar'kofsk'ij tankovyj zavot № 183 im. Komint'erna</color>
 <color=#5cae63>Ob""yekt A-8</color>
-⋦ Bystrokhodnyj tank BT-7M
+◆ Bystrokhodnyj tank BT-7M
 <color=@currencyGoldColor>25-j tankovyj korpus, 4-ya lyekkotankovaya brigada, № 816</color>"
-ussr_bt_7_m_816_1;⋦ BT-7M
+ussr_bt_7_m_816_1;◆ BT-7M
 ussr_bt_7_m_816_2;Fast Tank
 
 ussr_bt_7a_f32_shop;BT-7art (F-32)
@@ -9904,24 +9920,24 @@ ussr_bmp_3_1;BMP-3
 ussr_bmp_3_2;IFV
 
 ussr_bmd_4m2_shop;BMD-4M (Sinicza)
-ussr_bmd_4m2_0;"<color=#81c3fc>Kurganskij mašinostroityel'nyj zavod</color>
-<color=#5cae63>Ob""yekt 960M2</color>
-Boyevaâ mašina dyesanta BMD-4M
+ussr_bmd_4m2_0;"<color=#81c3fc>Kurgansk'ij mashinostroit'el'nyj zavot</color>
+<color=#5cae63>Ob""yekt 960M</color>
+Boyevaya mashina d'esanta BMD-4M
 <color=#adadad>(Boyevoye otdyelyeniye Sinicza)</color>"
 ussr_bmd_4m2_1;BMD-4M
 ussr_bmd_4m2_2;IFV
 
 ussr_bmd_4_shop;BMD-4
-ussr_bmd_4_0;"<color=#81c3fc>Kurganskij mašinostroityel'nyj zavod</color>
+ussr_bmd_4_0;"<color=#81c3fc>Kurgansk'ij mashinostroit'el'nyj zavot</color>
 <color=#5cae63>Ob""yekt 960</color>
-Boyevaâ mašina dyesanta BMD-4 obr. 2004 g."
+Boyevaya mashina d'esanta BMD-4 obr. 2004 g."
 ussr_bmd_4_1;BMD-4
 ussr_bmd_4_2;IFV
 
 ussr_bmd_4m_shop;BMD-4M
-ussr_bmd_4m_0;"<color=#81c3fc>Kurganskij mašinostroityel'nyj zavod</color>
+ussr_bmd_4m_0;"<color=#81c3fc>Kurgansk'ij mashinostroit'el'nyj zavot</color>
 <color=#5cae63>Ob""yekt 960M</color>
-Boyevaâ mašina dyesanta BMD-4M"
+Boyevaya mashina d'esanta BMD-4M"
 ussr_bmd_4m_1;BMD-4M
 ussr_bmd_4m_2;IFV
 
@@ -10072,8 +10088,8 @@ ussr_bmpt_72_1;BMPT-72
 ussr_bmpt_72_2;IFV
 
 ussr_9a33bm3_shop;9A33BM3
-ussr_9a33bm3_0;"<color=#81c3fc>Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut</color>
-Boyevaâ mašina 9A33BM3 ""Osa-AKM"""
+ussr_9a33bm3_0;"<color=#81c3fc>Izhyefsk'ij elyektromyekhanich'esk'ij zavot «Kupol»</color>
+Boyevaya mashina 9A33BM3 ""Osa-AKM"""
 ussr_9a33bm3_1;9A33BM3
 ussr_9a33bm3_2;SPAA
 
@@ -10084,7 +10100,7 @@ ussr_9a35_m2_2;SPAA
 
 ussr_tor_m1_shop;9A331-1
 ussr_tor_m1_0;"<color=#81c3fc>Naučno-proizvodstvyennoye ob""yedinyeniye Antyej</color>
-Boyevaâ mašina 9A331-1"
+Boyevaya mashina 9A331-1"
 ussr_tor_m1_1;9A331-1
 ussr_tor_m1_2;SPAAM
 
@@ -12812,7 +12828,7 @@ uk_stormer_air_defence_1;Stormer Air Defense
 uk_stormer_air_defence_2;SPAAG/M
 
 uk_9a33bm2_shop;☸ Osā-Eke
-uk_9a33bm2_0;"<color=#81c3fc>Moskofsk'ij mashinostroit'el'nyj zavot «Znamya»</color>
+uk_9a33bm2_0;"<color=#81c3fc>Izhyefsk'ij elyektromyekhanich'esk'ij zavot «Kupol»</color>
 ☸ Osā-Eke Prakṣepāstra Praṇālī"
 uk_9a33bm2_1;☸ Osā-Eke
 uk_9a33bm2_2;SPAA
@@ -17412,7 +17428,7 @@ cn_m1a2t_2;MBT
 
 cn_tor_m1_shop;␗ 9A331-1
 cn_tor_m1_0;"<color=#81c3fc>Naučno-proizvodstvyennoye ob""yedinyeniye Antyej</color>
-␗ Boyevaâ mašina 9A331-1"
+␗ Boyevaya mashina 9A331-1"
 cn_tor_m1_1;␗ 9A331-1
 cn_tor_m1_2;SPAA
 
@@ -17916,29 +17932,129 @@ a_129_d_2;AH-129
 //ITALY HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
+it_ab_41_shop;AB. 41
+it_ab_41_0;"<color=#81c3fc>Gio. Ansaldo & C. <color=@commonTextColor>+</color> Fiat</color>
+<color=#919191>Autoblinda tipo 41</color>
+Autoblinda modello 41"
+it_ab_41_1;AB. 41
+it_ab_41_2;Armored Car
+
+it_ab_43_shop;AB. 43
+it_ab_43_0;"<color=#81c3fc>Gio. Ansaldo & C. <color=@commonTextColor>+</color> Fiat</color>
+<color=#919191>Autoblinda tipo 43</color>
+Autoblinda modello 43"
+it_ab_43_1;AB. 43
+it_ab_43_2;Armored Car
+
+it_m11_39_shop;M. 39
+it_m11_39_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 11/39</color>
+Carro armato modello M. 39"
+it_m11_39_1;M. 39
+it_m11_39_2;Medium Tank
+
 it_as_42_47_shop;A.S. 42 (47/32)
-it_as_42_47_0;"Autocarro Sahariano Mod. 42 Tipo II ""Metropolitana""
-<color=#adadad>(47/32)</color>"
-it_as_42_47_1;A.S. 42
-it_as_42_47_2;SPG
+it_as_42_47_0;"<color=#81c3fc>Società Piemontese Automobili <color=@commonTextColor>+</color> Viberti</color>
+Camionetta desertica modello 42 tipo II ""Metropolatina""
+<color=#adadad>(Cannone semiautomatico da 47/32 modello 39)</color>"
+it_as_42_47_1;A.S. 42 (47/32)
+it_as_42_47_2;Armored Car
 
 it_as_42_metropolitana_shop;A.S. 42 (20/65)
-it_as_42_metropolitana_0;"Autocarro Sahariano Mod. 42 Tipo II ""Metropolitana""
-<color=#adadad>(20/65)</color>"
-it_as_42_metropolitana_1;A.S. 42
-it_as_42_metropolitana_2;SPAA
+it_as_42_metropolitana_0;"<color=#81c3fc>Società Piemontese Automobili <color=@commonTextColor>+</color> Viberti</color>
+Camionetta desertica modello 42 tipo II ""Metropolatina""
+<color=#adadad>(Cannone-mitragliera da 20/65 modello 35)</color>"
+it_as_42_metropolitana_1;A.S. 42 (20/65)
+it_as_42_metropolitana_2;Armored Car
 
-it_l6_leone_shop;L. 40 (31 Reg.Car.)
-it_l6_leone_0;"Carro Armato Leggero Mod. 40
+it_l3_cc_shop;L. 33/Cc
+it_l3_cc_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo L. 3/33 controcarro</color>
+Carro armato modello L. 33 controcarro"
+it_l3_cc_1;L. 33/Cc
+it_l3_cc_2;Light Tank
+
+it_l6_shop;L. 40
+it_l6_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo L. 6/40</color>
+Carro armato modello L. 40"
+it_l6_1;L. 40
+it_l6_2;Light Tank
+
+it_l6_leone_shop;L. 40 (31º Reg.Car.)
+it_l6_leone_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo L. 6/40</color>
+Carro armato modello L. 40
 <color=@currencyGoldColor>31º Reggimento Carri</color>"
 it_l6_leone_1;L. 40
 it_l6_leone_2;Light Tank
 
+it_semovente_l40_shop;47/32 L. 40
+it_semovente_l40_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 47/32 su scafo L. 40"
+it_semovente_l40_1;47/32 L. 40
+it_semovente_l40_2;SPG
+
+it_m13_40_serie_1_shop;M. 40 I
+it_m13_40_serie_1_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 13/40 serie I</color>
+Carro armato modello M. 40 serie I"
+it_m13_40_serie_1_1;M. 40 I
+it_m13_40_serie_1_2;Medium Tank
+
+it_m13_40_serie_2_shop;M. 40 II
+it_m13_40_serie_2_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 13/40 serie II</color>
+Carro armato modello M. 40 serie II"
+it_m13_40_serie_2_1;M. 40 II
+it_m13_40_serie_2_2;Medium Tank
+
+it_m13_40_serie_3_shop;M. 40 III
+it_m13_40_serie_3_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 13/40 serie III</color>
+Carro armato modello M. 40 serie III"
+it_m13_40_serie_3_1;M. 40 III
+it_m13_40_serie_3_2;Medium Tank
+
+it_m14_41_shop;M. 41
+it_m14_41_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 14/41</color>
+Carro armato modello M. 41"
+it_m14_41_1;M. 41
+it_m14_41_2;Medium Tank
+
+it_semovente_m41_75_18_shop;75/18 M. 41
+it_semovente_m41_75_18_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 75/18 su scafo M. 41"
+it_semovente_m41_75_18_1;75/18 M. 41
+it_semovente_m41_75_18_2;SPG
+
+it_semovente_m41_75_32_shop;75/32 M. 41
+it_semovente_m41_75_32_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 75/32 su scafo M. 41"
+it_semovente_m41_75_32_1;75/32 M. 41
+it_semovente_m41_75_32_2;SPG
+
 it_m14_41_47_40_shop;M. 41 (47/40)
-it_m14_41_47_40_0;"Carro Armato Medio Mod. 41
-<color=#adadad>(47/40)</color>"
+it_m14_41_47_40_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 14/41</color>
+Carro armato modello M. 41
+<color=#adadad>(Cannone semiautomatico da 47/40 modello 40)</color>"
 it_m14_41_47_40_1;M. 41
 it_m14_41_47_40_2;Medium Tank
+
+it_semovente_m41m_90_shop;90/53 M. 41 M.
+it_semovente_m41m_90_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 90/53 su scafo M. 41 M."
+it_semovente_m41m_90_1;90/53 M. 41 M.
+it_semovente_m41m_90_2;SPG
+
+it_lancia3ro_100_shop;100/17 3Ro
+it_lancia3ro_100_0;"<color=#81c3fc>Lancia & C. Fabbrica Automobili 3Ro <color=@commonTextColor>/</color> Autofficine del 12°
+Autoraggruppamento A.S.</color>
+Obice da 100/17 modello 1914 su autocarro militare modello 3Ro"
+it_lancia3ro_100_1;100/17 3Ro
+it_lancia3ro_100_2;SPG
 
 it_39m_csaba_shop;39 M. Csaba pc. gk.
 it_39m_csaba_0;"<color=#81c3fc>Weiss Manfréd Acél- és Fémművek</color>
@@ -17953,23 +18069,82 @@ it_toldi_II_a_1;38 M. Toldi
 it_toldi_II_a_2;Light Tank
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
+it_m3a3_stuart_shop;⛨ M3A3
+it_m3a3_stuart_0;"<color=#81c3fc>American Car and Foundry Company, Berwick</color>
+⛨ Carro armato leggero M3A3"
+it_m3a3_stuart_1;⛨ M3A3
+it_m3a3_stuart_2;Light Tank
+
+it_m15_42_shop;M. 42
+it_m15_42_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo M. 15/42</color>
+Carro armato modello M. 42"
+it_m15_42_1;M. 42
+it_m15_42_2;Medium Tank
+
+it_m15_42_contraereo_shop;20/70 M. 42/Ca
+it_m15_42_contraereo_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 20/70 quadruplo su scafo M. 42 controaereo"
+it_m15_42_contraereo_1;20/70 M. 42/Ca
+it_m15_42_contraereo_2;SPAAG
+
+it_semovente_m42_75_34_shop;75/34 M. 42 M.
+it_semovente_m42_75_34_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 75/34 su scafo M. 42 M."
+it_semovente_m42_75_34_1;75/34 M. 42 M.
+it_semovente_m42_75_34_2;SPG
+
+it_pzkpfw_III_ausf_N_shop;⛨ Pz.Kpfw. III N
+it_pzkpfw_III_ausf_N_0;"<color=#81c3fc>Daimler-Benz</color>
+⛨ Carro armato Panzerkampfwagen III Ausf. N"
+it_pzkpfw_III_ausf_N_1;⛨ Pz.Kpfw. III N
+it_pzkpfw_III_ausf_N_2;Medium Tank
+
+it_p_40_shop;P. 40
+it_p_40_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo P. 26/40</color>
+Carro armato modello P. 40"
+it_p_40_1;P. 40
+it_p_40_2;Heavy Tank
+
 it_p_26_40_shop;P. 40 (Grp.Cor.)
-it_p_26_40_0;"Carro Armato Pesante Mod. 40
+it_p_26_40_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato tipo P. 26/40</color>
+Carro armato modello P. 40
 <color=@currencyGoldColor>Gruppo Corazzato ""Leoncello""</color>"
 it_p_26_40_1;P. 40
-it_p_26_40_2;Medium Tank
+it_p_26_40_2;Heavy Tank
 
-it_semovente_m43_75_bersaglieri_shop;75/34 M. 42 M. (III Rgt.Bers.)
-it_semovente_m43_75_bersaglieri_0;"Semovente da 75/34 su Scafo M. 42 M.
-<color=@currencyGoldColor>III Reggimento Bersglieri di Alessandria</color>"
-it_semovente_m43_75_bersaglieri_1;75/34 M. 42 M.
-it_semovente_m43_75_bersaglieri_2;SPG
+it_fiat_cm52_shop;CM 52 (12,7)
+it_fiat_cm52_0;"<color=#81c3fc>Fiat 6601</color>
+Complesso quadruplo da 12,7 su autocarro medio CM 52"
+it_fiat_cm52_1;CM 52 (12,7)
+it_fiat_cm52_2;SPAAG
+
+it_semovente_m43_105_shop;105/25 M. 43
+it_semovente_m43_105_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 105/25 su scafo M. 43 ""Bassotto"""
+it_semovente_m43_105_1;105/25 M. 43
+it_semovente_m43_105_2;SPG
 
 it_semovente_m43_105_leoncello_shop;105/25 M. 43 (Grp.Cor.)
-it_semovente_m43_105_leoncello_0;"Semovente da 105/25 su Scafo M. 43 ""Bassotto""
+it_semovente_m43_105_leoncello_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 105/25 su scafo M. 43 ""Bassotto""
 <color=@currencyGoldColor>Gruppo Corazzato ""Leoncello"", «Terremoto»</color>"
 it_semovente_m43_105_leoncello_1;105/25 M. 43
 it_semovente_m43_105_leoncello_2;SPG
+
+it_semovente_m43_75_34_shop;75/34 M. 43
+it_semovente_m43_75_34_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 75/34 su scafo M. 43"
+it_semovente_m43_75_34_1;75/34 M. 43
+it_semovente_m43_75_34_2;SPG
+
+it_semovente_m43_75_46_shop;75/46 M. 43
+it_semovente_m43_75_46_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+Semovente da 75/46 su scafo M. 43"
+it_semovente_m43_75_46_1;75/46 M. 43
+it_semovente_m43_75_46_2;SPG
 
 it_40m_turan_1_shop;40 M. Turán köz. hk.
 it_40m_turan_1_0;"<color=#81c3fc>Diósgyőri Magyar Királyi Állami Vas-, Acél- és Gépgyárak</color>
@@ -18002,70 +18177,165 @@ it_44m_zrinyi_1_0;"<color=#81c3fc>Weiss Manfréd Acél- és Fémművek</color>
 it_44m_zrinyi_1_1;44 M. Zrínyi
 it_44m_zrinyi_1_2;SPG
 
+it_sahariano_shop;Sahariano
+it_sahariano_0;"<color=#81c3fc>Gio. Ansaldo & C.</color>
+<color=#919191>Carro armato veloce Sahariano</color>
+Carro armato celere Sahariano"
+it_sahariano_1;Sahariano
+it_sahariano_2;Fast Tank
+
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
+it_m24_chaffee_shop;⛨ M24
+it_m24_chaffee_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
+⛨ Carro armato leggero M24"
+it_m24_chaffee_1;⛨ M24
+it_m24_chaffee_2;Light Tank
+
+it_semovente_breda_501_shop;90/53 Breda 501
+it_semovente_breda_501_0;"<color=#81c3fc>Società Italiana Ernesto Breda 501</color>
+Semovente da 90/53 su autocarro Breda 501"
+it_semovente_breda_501_1;90/53 Breda 501
+it_semovente_breda_501_2;SPG
+
+it_m4a4_sherman_shop;⛨ Sherman V
+it_m4a4_sherman_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
+⛨ Carro armato medio Sherman tipo V"
+it_m4a4_sherman_1;⛨ Sherman V
+it_m4a4_sherman_2;Medium Tank
+
+it_sherman_VII_shop;⛨ Sherman I C Ibrido
+it_sherman_VII_0;"<color=#81c3fc>American Locomotive Company <color=@commonTextColor>/</color> Royal Ordnance Factory, Nottingham</color>
+⛨ Carro armato medio Sherman tipo I tipo C Ibrido"
+it_sherman_VII_1;⛨ Sherman I C
+it_sherman_VII_2;Medium Tank
+
+it_sherman_75_37_shop;⛨ Sherman I Ibrido
+it_sherman_75_37_0;"<color=#81c3fc>American Locomotive Company</color>
+⛨ Carro armato medio Sherman tipo I Ibrido"
+it_sherman_75_37_1;⛨ Sherman I
+it_sherman_75_37_2;Medium Tank
+
+it_sherman_vc_firefly_shop;⛨ Sherman V C
+it_sherman_vc_firefly_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant <color=@commonTextColor>/</color> Royal Ordnance
+Factory, Nottingham</color>
+⛨ Carro armato medio Sherman tipo V tipo C"
+it_sherman_vc_firefly_1;⛨ Sherman V C
+it_sherman_vc_firefly_2;Medium Tank
+
 it_m44_shop;⛨ 155/23 M44
 it_m44_0;"<color=#81c3fc>Massey-Harris</color>
-⛨ Semovente da 155/23 M44"
+⛨ Obice da 155/23 su semovente M44"
 it_m44_1;⛨ 155/23 M44
 it_m44_2;SPH
 
 it_m55_shop;⛨ 203/25 M55
 it_m55_0;"<color=#81c3fc>Pacific Car and Foundry Company</color>
-⛨ Semovente da 203/25 M55"
+⛨ Obice da 203/25 su semovente M55"
 it_m55_1;⛨ 203/25 M55
 it_m55_2;SPH
 
+it_stug_III_ausf_G_shop;⛨ 75/48 Stu.G. III G
+it_stug_III_ausf_G_0;"<color=#81c3fc>Altmärkische Kettenwerke</color>
+⛨ Semovente da 75/48 Sturmgeschütz III Ausf. G"
+it_stug_III_ausf_G_1;⛨ 75/48 Stu.G. III G
+it_stug_III_ausf_G_2;SPG
+
 it_pzkpfw_IV_ausf_G_shop;⛨ Pz.Kpfw. IV G
-it_pzkpfw_IV_ausf_G_0;"⛨ Carro Armato Medio Panzerkampfwagen IV Ausf. G
-<color=#adadad>(Settembre 1942)</color>"
+it_pzkpfw_IV_ausf_G_0;"<color=#81c3fc>Nibelungenwerk</color>
+⛨ Carro armato Panzerkampfwagen IV Ausf. G
+<color=#adadad>(September 1942)</color>"
 it_pzkpfw_IV_ausf_G_1;⛨ Pz.Kpfw. IV G
 it_pzkpfw_IV_ausf_G_2;Medium Tank
 
+it_breda_52_autocannone_shop;90/53 Breda 52
+it_breda_52_autocannone_0;"<color=#81c3fc>Società Italiana Ernesto Breda 52</color>
+Semovente da 90/53 su autocarro Breda 52"
+it_breda_52_autocannone_1;90/53 Breda 52
+it_breda_52_autocannone_2;SPG
+
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 4
-it_fiat_6616_cockerill_shop;Fiat 6616 (90/38)
-it_fiat_6616_cockerill_0;"<color=#81c3fc>Fiat OTO Melara Tipo 6616 con torretta OTO T 90 CKL equipaggiata con
-cannone Cockerill Mk. 3 da 90/38</color>"
-it_fiat_6616_cockerill_1;Fiat 6616
-it_fiat_6616_cockerill_2;Light Tank
-
-it_aubl_74_60_70m_shop;Fiat 6616 (60/70)
-it_aubl_74_60_70m_0;<color=#81c3fc>Fiat OTO Melara Tipo 6616 con torretta OTO Breda T 60M da 60/70</color>
-it_aubl_74_60_70m_1;Fiat 6616
-it_aubl_74_60_70m_2;Light Tank
-
-it_fiat_6616_ub_shop;▂ Fiat 6616BM (TC 20) (UB-16-57UMP)
-it_fiat_6616_ub_0;"<color=#81c3fc>▂ Fiat <color=@commonTextColor>+</color> OTO Melara 6616BM</color>
-<color=#adadad>(Torreta TC 20) (Univ'ersal'nyj blok UB-16-57UMP)</color>"
-it_fiat_6616_ub_1;▂ Fiat 6616BM
-it_fiat_6616_ub_2;Armored Car
+it_m18_hellcat_shop;⛨ 76/52 M18
+it_m18_hellcat_0;"<color=#81c3fc>General Motors Corporation, Buick Motor Division</color>
+⛨ Cannone da 76/52 su semovente M18"
+it_m18_hellcat_1;⛨ 76/52 M18
+it_m18_hellcat_2;SPG
 
 it_fiat_6614_106sr_shop;Fiat 6614 (M40A1)
-it_fiat_6614_106sr_0;"<color=#81c3fc>Fiat OTO Melara Tipo 6614</color>
-<color=#adadad>(M40A1)</color>"
+it_fiat_6614_106sr_0;"<color=#81c3fc>Fiat <color=@commonTextColor>+</color> OTO Melara 6614</color>
+<color=#adadad>(Cannone da 106 s.r. M40A1)</color>"
 it_fiat_6614_106sr_1;Fiat 6614
-it_fiat_6614_106sr_2;Light Tank
+it_fiat_6614_106sr_2;Armored Car
 
 it_fiat_6614_firos_shop;Fiat 6614 (FIROS 6)
-it_fiat_6614_firos_0;"<color=#81c3fc>Fiat OTO Melara Tipo 6614</color>
+it_fiat_6614_firos_0;"<color=#81c3fc>Fiat <color=@commonTextColor>+</color> OTO Melara 6614</color>
 <color=#adadad>(FIROS 6)</color>"
 it_fiat_6614_firos_1;Fiat 6614
 it_fiat_6614_firos_2;MLRS
 
+it_fiat_6616_cockerill_shop;Fiat 6616BM (T 90 CKL)
+it_fiat_6616_cockerill_0;"<color=#81c3fc>Fiat <color=@commonTextColor>+</color> OTO Melara 6616BM</color>
+<color=#adadad>(Torretta T 90 CKL)</color>"
+it_fiat_6616_cockerill_1;Fiat 6616BM
+it_fiat_6616_cockerill_2;Armored Car
+
+it_aubl_74_60_70m_shop;Fiat 6616BM (T 60/70 M)
+it_aubl_74_60_70m_0;"<color=#81c3fc>Fiat <color=@commonTextColor>+</color> OTO Melara 6616BM</color>
+<color=#adadad>(Torretta T 60/70 M)</color>"
+it_aubl_74_60_70m_1;Fiat 6616BM
+it_aubl_74_60_70m_2;Armored Car
+
+it_m26a1_pershing_shop;⛨ M26A1
+it_m26a1_pershing_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant</color>
+⛨ Carro armato medio M26A1"
+it_m26a1_pershing_1;⛨ M26A1
+it_m26a1_pershing_2;Medium Tank
+
 it_m26_ariete_shop;⛨ M26 (132ª Div.Cor.)
-it_m26_ariete_0;"⛨ Carro Armato Medio M26
+it_m26_ariete_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant</color>
+⛨ Carro armato medio M26
 <color=@currencyGoldColor>132ª Divisione Corazzata ""Ariete""</color>"
 it_m26_ariete_1;⛨ M26
 it_m26_ariete_2;Medium Tank
 
+it_leopard_bofors_shop;⛨ Leopard 1 A2 (40/70)
+it_leopard_bofors_0;"<color=#81c3fc>OTO Melara <color=@commonTextColor>/</color> Arsenale Esercito di Piacenza</color>
+⛨ Cannone contraereo da 40/70 Bofors su scafo Leopard 1 versione A2"
+it_leopard_bofors_1;⛨ Leopard 1 A2 (40/70)
+it_leopard_bofors_2;SPAAG
+
+it_leopard_1a2_shop;⛨ Leopard 1 A2
+it_leopard_1a2_0;"<color=#81c3fc>OTO Melara</color>
+⛨ Carro armato medio Leopard 1 versione A2"
+it_leopard_1a2_1;⛨ Leopard 1 A2
+it_leopard_1a2_2;MBT
+
+it_leopard_1a5_shop;⛨ Leopard 1 A5
+it_leopard_1a5_0;"<color=#81c3fc>Krauss-Maffei</color>
+⛨ Carro armato medio Leopard 1 versione A5"
+it_leopard_1a5_1;⛨ Leopard 1 A5
+it_leopard_1a5_2;MBT
+
+it_oto_r3_t20_fa_shop;R3 T 20 FA-HS
+it_oto_r3_t20_fa_0;<color=#81c3fc>OTO Melara R3 Capraia T 20 FA-HS</color>
+it_oto_r3_t20_fa_1;R3 T 20 FA-HS
+it_oto_r3_t20_fa_2;SPAA
+
 it_oto_r3_106sr_shop;R3 T 106 FA
-it_oto_r3_106sr_0;<color=#81c3fc>OTO R3 Capraia T 106 FA</color>
+it_oto_r3_106sr_0;<color=#81c3fc>OTO Melara R3 Capraia T 106 FA</color>
 it_oto_r3_106sr_1;R3 T 106 FA
 it_oto_r3_106sr_2;Light Tank
 
-it_oto_r3_t20_fa_shop;R3 T 20 FA-HS
-it_oto_r3_t20_fa_0;<color=#81c3fc>OTO R3 Capraia T 20 FA-HS</color>
-it_oto_r3_t20_fa_1;R3 T 20 FA-HS
-it_oto_r3_t20_fa_2;SPAA
+it_m36b1_shop;⛨ 90/50 M36B1
+it_m36b1_0;"<color=#81c3fc>General Motors Corporation, Fisher Body Division, Grand Blanc Tank Plant</color>
+⛨ Cannone da 90/50 su semovente M36B1"
+it_m36b1_1;⛨ 90/50 M36B1
+it_m36b1_2;SPG
+
+it_m109g_shop;⛨ 155/23 M109
+it_m109g_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division <color=@commonTextColor>/</color> OTO Melara</color>
+⛨ Obice da 155/23 su semovente M109"
+it_m109g_1;⛨ 155/23 M109
+it_m109g_2;SPH
 
 it_palmaria_shop;Palmaria
 it_palmaria_0;<color=#81c3fc>OTO Melara Obice semovente Palmaria 155/41</color>
@@ -18088,39 +18358,32 @@ it_pzkpfw_VI_ausf_e_tiger_2;Heavy Tank
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 5
 it_c13_t90_shop;C 13 (T 90 CKL)
-it_c13_t90_0;"<color=#81c3fc>OTO Melara C 13 con torretta T 90 CKL equipaggiata con cannone
-Cockerill Mk. 3 da 90/38</color>"
+it_c13_t90_0;"<color=#81c3fc>OTO Melara C 13</color>
+<color=#adadad>(Torretta T 90 CKL)</color>"
 it_c13_t90_1;C 13 (T 90 CKL)
 it_c13_t90_2;Light Tank
 
 it_c13_tua_shop;C 13 (TUA)
-it_c13_tua_0;<color=#81c3fc>OTO Melara C 13 con sistema d'arma TUA</color>
+it_c13_tua_0;"<color=#81c3fc>OTO Melara C 13</color>
+<color=#adadad>(Sistema d'arma TUA)</color>"
 it_c13_tua_1;C 13 (TUA)
 it_c13_tua_2;ATMC
 
-it_m47_105_shop; M47 RKM
-it_m47_105_0;"<color=#81c3fc> Detroit Arsenal <color=@commonTextColor>/</color> ha-Ta'asiah ha-Ṣva'it <color=@commonTextColor>+</color> 'Ordan Ta'ashiyot Matekhet
-Viṣikot Pledah M47 RKM</color>"
-it_m47_105_1; M47 RKM
-it_m47_105_2;Medium Tank
+it_of_40_mk_1_shop;OF 40 Mk 1
+it_of_40_mk_1_0;<color=#81c3fc>OTO Melara Carro armato OF 40 Mk 1</color>
+it_of_40_mk_1_1;OF 40 Mk 1
+it_of_40_mk_1_2;MBT
 
-it_of_40_mtca_shop;OF 40 Mk. 2 (MTCA)
-it_of_40_mtca_0;"Carro Armato OTO-Melara OF 40 Mk. 2
-<color=#adadad>(MTCA)</color>"
-it_of_40_mtca_1;OF 40 Mk. 2
+it_of_40_mk_2a_shop;OF 40 Mk 2
+it_of_40_mk_2a_0;<color=#81c3fc>OTO Melara Carro armato OF 40 Mk 2</color>
+it_of_40_mk_2a_1;OF 40 Mk 2
+it_of_40_mk_2a_2;MBT
+
+it_of_40_mtca_shop;OF 40 Mk 2 (MTCA)
+it_of_40_mtca_0;"<color=#81c3fc>OTO Melara Carro armato OF 40 Mk 2</color>
+<color=#adadad>(Modular Turbo-Charged Aftercooler)</color>"
+it_of_40_mtca_1;OF 40 Mk 2
 it_of_40_mtca_2;MBT
-
-it_leopard_1a2_shop;⛨ Leopard 1 A2
-it_leopard_1a2_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
-⛨ Carro Armato da Combattimento Leopard 1 Versione A2"
-it_leopard_1a2_1;⛨ Leopard 1 A2
-it_leopard_1a2_2;MBT
-
-it_leopard_1a5_shop;⛨ Leopard 1 A5
-it_leopard_1a5_0;"<color=#81c3fc>Krauss-Maffei Wegmann</color>
-⛨ Carro Armato da Combattimento Leopard 1 Versione A5"
-it_leopard_1a5_1;⛨ Leopard 1 A5
-it_leopard_1a5_2;MBT
 
 it_zsu_57_2_shop;◔ ZSzU-57-2
 it_zsu_57_2_0;"<color=#81c3fc>Omsk'ij zavot № 174 im. Voroshilova</color>
@@ -18141,6 +18404,12 @@ it_pzh_2000_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
 it_pzh_2000_1;⛨ PzH 2000 I
 it_pzh_2000_2;SPH
 
+it_pzh_2000_hu_shop;◔ PzH 2000HU
+it_pzh_2000_hu_0;"<color=#81c3fc>KNDS Deutschland</color>
+◔ 155 mm-es Panzerhaubitze 2000HU páncélos tarack"
+it_pzh_2000_hu_1;◔ PzH 2000HU
+it_pzh_2000_hu_2;SPH
+
 it_btr_80a_hungary_shop;◔ BTR-80A
 it_btr_80a_hungary_0;"<color=#81c3fc>Gor'kofsk'ij aftomob'il'nyj zavot</color>
 ◔ BTR-80A gyalogsági harcjármű"
@@ -18148,35 +18417,100 @@ it_btr_80a_hungary_1;◔ BTR-80A
 it_btr_80a_hungary_2;IFV
 
 it_m60a1_ariete_shop;⛨ M60A1 (132ª Div.Cor.)
-it_m60a1_ariete_0;"⛨ M60A1
+it_m60a1_ariete_0;"<color=#81c3fc>Chrysler Tank Division, Detroit Arsenal Tank Plant</color>
+⛨ Carro armato medio M60A1
 <color=@currencyGoldColor>132ª Divisione Corazzata ""Ariete""</color>"
 it_m60a1_ariete_1;⛨ M60A1
-it_m60a1_ariete_2;Medium Tank
-
-it_pzh_2000_hu_shop;◔ PzH 2000HU
-it_pzh_2000_hu_0;"<color=#81c3fc>KNDS Deutschland</color>
-◔ 155 mm-es Panzerhaubitze 2000HU páncélos tarack"
-it_pzh_2000_hu_1;◔ PzH 2000HU
-it_pzh_2000_hu_2;SPH
+it_m60a1_ariete_2;MBT
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
-it_b1_centauro_shop;Centauro (preserie)
-it_b1_centauro_0;"Cacciacarri Blindato B1 Centauro
+it_vcc_80_hitfist_60_shop;VCC Dardo (T 60/70)
+it_vcc_80_hitfist_60_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+<color=#ff8c80>VCC-80</color>
+Veicolo corazzato da combattimento Dardo
+<color=#adadad>(Torretta T 60/70)</color>"
+it_vcc_80_hitfist_60_1;VCC Dardo
+it_vcc_80_hitfist_60_2;Light Tank
+
+it_dardo_vcc_shop;VCC Dardo
+it_dardo_vcc_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+<color=#ff8c80>VCC-80</color>
+Veicolo corazzato da combattimento Dardo"
+it_dardo_vcc_1;VCC Dardo
+it_dardo_vcc_2;IFV
+
+it_vcc_80_hitfist_30_shop;VCC Dardo (HITFIST 30)
+it_vcc_80_hitfist_30_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+<color=#ff8c80>VCC-80</color>
+Veicolo corazzato da combattimento Dardo
+<color=#adadad>(HITFIST 30)</color>"
+it_vcc_80_hitfist_30_1;VCC Dardo
+it_vcc_80_hitfist_30_2;IFV
+
+it_b1_centauro_shop;B1 Centauro (preserie)
+it_b1_centauro_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara Centauro I 105</color>
+Blindo armato B1 Centauro
 <color=#adadad>(preserie)</color>"
-it_b1_centauro_1;Centauro
-it_b1_centauro_2;Light Tank
+it_b1_centauro_1;B1 Centauro
+it_b1_centauro_2;Armored Car
+
+it_b1_centauro_romor_shop;B1 Centauro (ROMOR-A)
+it_b1_centauro_romor_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara Centauro I 105</color>
+Blindo armato B1 Centauro
+<color=#adadad>(serie 2) (ROMOR-A)</color>"
+it_b1_centauro_romor_1;B1 Centauro
+it_b1_centauro_romor_2;Armored Car
+
+it_vbc_pt2_shop;VBC Centauro (PT 2)
+it_vbc_pt2_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Veicolo blindato da combattimento Centauro
+<color=#adadad>(prototipo 2)</color>"
+it_vbc_pt2_1;VBC Centauro (PT 2)
+it_vbc_pt2_2;IFV
+
+it_vrcc_centauro_shop;VRCC Centauro
+it_vrcc_centauro_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara Centauro I 105</color>
+Vehículo de Reconocimiento y Combate de Caballería Centauro"
+it_vrcc_centauro_1;VRCC Centauro
+it_vrcc_centauro_2;CRV
+
+it_centauro_mgs_120_shop;Centauro I 120
+it_centauro_mgs_120_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara Centauro I 120</color>
+<color=#adadad>(serie 2)</color>"
+it_centauro_mgs_120_1;Centauro I 120
+it_centauro_mgs_120_2;Armored Car
+
+it_centauro_rgo_120_shop;☪ Centauro I 120
+it_centauro_rgo_120_0;"<color=#81c3fc>☪ Consorzio Iveco - Oto Melara Centauro I 120</color>
+<color=#adadad>(serie 3)</color>"
+it_centauro_rgo_120_1;☪ Centauro I 120
+it_centauro_rgo_120_2;Armored Car
+
+it_centauro_2_shop;Centauro II 120
+it_centauro_2_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara Centauro II 120</color>
+<color=#adadad>(Guardian H3)</color>"
+it_centauro_2_1;Centauro II 120
+it_centauro_2_2;Light Tank
+
+it_otobreda_sidam_25_shop;SIDAM 25
+it_otobreda_sidam_25_0;"<color=#81c3fc>OTO Melara Sistema Italiano Difesa Aerea Mobile da 25 mm</color>
+Sistema d'arma semovente controaereo pluricanna da 25 mm SIDAM"
+it_otobreda_sidam_25_1;SIDAM 25
+it_otobreda_sidam_25_2;SPAAG
 
 it_otobreda_sidam_25_mistral_shop;SIDAM 25 (Mistral)
-it_otobreda_sidam_25_mistral_0;"Sistema Italiano Difesa Aerea Mobile, 25mm
+it_otobreda_sidam_25_mistral_0;"<color=#81c3fc>OTO Melara Sistema Italiano Difesa Aerea Mobile da 25 mm</color>
+Sistema d'arma semovente controaereo pluricanna da 25 mm SIDAM
 <color=#adadad>(Mistral)</color>"
 it_otobreda_sidam_25_mistral_1;SIDAM 25
-it_otobreda_sidam_25_mistral_2;SPAA
+it_otobreda_sidam_25_mistral_2;SPAAG/M
 
-it_m113a1_tow_shop;⛨ M113A1 (TOW)
-it_m113a1_tow_0;"⛨ VTC M113A1 con sistema d'arma TOW
-<color=#adadad>(modifica M233)</color>"
-it_m113a1_tow_1;⛨ M113A1 (TOW)
-it_m113a1_tow_2;SPG
+it_m113a1_tow_shop;⛨ VTC M113A1 (M233E1)
+it_m113a1_tow_0;"<color=#81c3fc>OTO Melara</color>
+⛨ Veicolo da trasporto e da combattimento M113A1
+<color=#adadad>(Sistema d'arma TOW) (Kit M233E1)</color>"
+it_m113a1_tow_1;⛨ VTC M113A1 (M233E1)
+it_m113a1_tow_2;ATMC
 
 it_t_72m1_shop;◔ T-72M1
 it_t_72m1_0;"<color=#81c3fc>Ural'sk'ij vagonostroit'el'nyj zavot im. F. E. Dz'erzhinskovo</color>
@@ -18185,9 +18519,45 @@ it_t_72m1_1;◔ T-72M1
 it_t_72m1_2;MBT
 
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 7
+it_c1_ariete_preserie_shop;C1 Ariete (preserie)
+it_c1_ariete_preserie_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Carro armato C1 Ariete
+<color=#adadad>(preserie)</color>"
+it_c1_ariete_preserie_1;C1 Ariete
+it_c1_ariete_preserie_2;MBT
+
+it_c1_ariete_pso_shop;C1 Ariete (PSO)
+it_c1_ariete_pso_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Carro armato C1 Ariete
+<color=#adadad>(Kit Peace Support Operation tipo 2)</color>"
+it_c1_ariete_pso_1;C1 Ariete (PSO)
+it_c1_ariete_pso_2;MBT
+
+it_c1_ariete_shop;C1 Ariete (WAR)
+it_c1_ariete_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Carro armato C1 Ariete
+<color=#adadad>(Kit WAR)</color>"
+it_c1_ariete_1;C1 Ariete (WAR)
+it_c1_ariete_2;MBT
+
+it_c1_ariete_certezza_shop;C1 Ariete (WAR) (20° Corso)
+it_c1_ariete_certezza_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Carro armato C1 Ariete
+<color=#adadad>(Kit WAR)</color>
+<color=@currencyGoldColor>20° Corso ""Certezza""</color>"
+it_c1_ariete_certezza_1;C1 Ariete (WAR)
+it_c1_ariete_certezza_2;MBT
+
+it_ariete_amv_pt1_shop;C1 Ariete (AMV PT 1)
+it_ariete_amv_pt1_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
+Carro armato C1 Ariete
+<color=#adadad>(Kit Aggiornamento di Mezza Vita prototipo 1)</color>"
+it_ariete_amv_pt1_1;C1 Ariete (AMV PT 1)
+it_ariete_amv_pt1_2;MBT
+
 it_9a33bm3_shop;╏ 9A33BM3
-it_9a33bm3_0;"<color=#81c3fc>Naučno-isslyedovatyel'skij èlyektromyekhaničyeskij institut</color>
-╏ Boyevaâ mašina 9A33BM3 ""Osa-AKM"""
+it_9a33bm3_0;"<color=#81c3fc>Izhyefsk'ij elyektromyekhanich'esk'ij zavot «Kupol»</color>
+╏ Complex antiaerian 9A33BM3 ""Osa-AKM"""
 it_9a33bm3_1;╏ 9A33BM3
 it_9a33bm3_2;SPAA
 
@@ -18198,19 +18568,19 @@ it_9a35_m_1;◔ 9A35M
 it_9a35_m_2;SPAAM
 
 it_otomatic_shop;OTOMATIC
-it_otomatic_0;<color=#81c3fc>OTO Main Anti-aircraft Tank for Intercept and Combat</color>
+it_otomatic_0;<color=#81c3fc>OTO Melara OTO Main Anti-Aircraft Tank for Intercept and Combat</color>
 it_otomatic_1;OTOMATIC
-it_otomatic_2;SPAA
+it_otomatic_2;SPAAG
 
 it_freccia_shop;VBM Freccia C/C
 it_freccia_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
-Veicolo Blindato Medio Freccia Contro Carro"
+Veicolo blindato medio Freccia contro carro"
 it_freccia_1;VBM Freccia C/C
 it_freccia_2;IFV
 
 it_freccia_hitfist_ows_shop;VBM Freccia C/C (OWS 30mm)
 it_freccia_hitfist_ows_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
-Veicolo Blindato Medio Freccia Contro Carro
+Veicolo blindato medio Freccia contro carro
 <color=#adadad>(HITFIST Overhead Weapon Systsem 30mm)</color>"
 it_freccia_hitfist_ows_1;VBM Freccia C/C
 it_freccia_hitfist_ows_2;IFV
@@ -18233,45 +18603,7 @@ it_kf_41_0;"<color=#81c3fc>Rheinmetall Hungary Lynx KF41</color>
 it_kf_41_1;◔ Lynx KF41
 it_kf_41_2;IFV
 
-it_c1_ariete_preserie_shop;Ariete (preserie)
-it_c1_ariete_preserie_0;"C1 Ariete
-<color=#adadad>(preserie)</color>"
-it_c1_ariete_preserie_1;Ariete
-it_c1_ariete_preserie_2;MBT
-
-it_c1_ariete_pso_shop;Ariete (PSO)
-it_c1_ariete_pso_0;"C1 Ariete
-<color=#adadad>(Kit PSO Tipo II)</color>"
-it_c1_ariete_pso_1;Ariete
-it_c1_ariete_pso_2;MBT
-
-it_c1_ariete_shop;Ariete (WAR)
-it_c1_ariete_0;"C1 Ariete
-<color=#adadad>(Kit WAR)</color>"
-it_c1_ariete_1;Ariete
-it_c1_ariete_2;MBT
-
-it_c1_ariete_certezza_shop;Ariete (WAR) (20° Corso)
-it_c1_ariete_certezza_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara</color>
-C1 Ariete
-<color=#adadad>(Kit WAR)</color>
-<color=@currencyGoldColor>20° Corso ""Certezza""</color>"
-it_c1_ariete_certezza_1;Ariete
-it_c1_ariete_certezza_2;MBT
-
-it_ariete_amv_pt1_shop;Ariete (AMV PT 1)
-it_ariete_amv_pt1_0;"C1 Ariete
-<color=#adadad>(Ammodernamento di Mezza Vita Prototipo 1)</color>"
-it_ariete_amv_pt1_1;Ariete
-it_ariete_amv_pt1_2;MBT
-
 //ITALY GROUND VEHICLES - VEHICLE/FAMILY START: RANK 8
-it_centauro_2_shop;Centauro II 120
-it_centauro_2_0;"<color=#81c3fc>Consorzio Iveco - Oto Melara Centauro II 120</color>
-<color=#adadad>(Guardian H3)</color>"
-it_centauro_2_1;Centauro II 120
-it_centauro_2_2;Light Tank
-
 it_samp_t_launcher_shop;⛨ ACTL SM 88.45 BAD (SAMP/T) (MLT)
 it_samp_t_launcher_0;"<color=#81c3fc>⛨ Astra veicoli industriali Autocarro tattico logistico SM 88.45 BAD <color=@commonTextColor>/</color>
 Eurosam</color>
@@ -21038,7 +21370,7 @@ sw_pbil_m40_shop;pbil m/40
 sw_pbil_m40_0;"<color=#81c3fc>Landsverk Lynx <color=@commonTextColor>/</color> Volvo</color>
 pansarbil m/40"
 sw_pbil_m40_1;pbil m/40
-sw_pbil_m40_2;Light Tank
+sw_pbil_m40_2;Armored Car
 
 //SWEDEN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 2
 sw_strv_m41_s1_shop;strv m/41 S I
@@ -22351,7 +22683,7 @@ il_sabra_mk1_1;Sabrah 1
 il_sabra_mk1_2;MBT
 
 il_9a33bm3_shop;◐ OSA-AKM
-il_9a33bm3_0;"<color=#81c3fc>Moskofsk'ij mashinostroit'el'nyj zavot «Znamya»</color>
+il_9a33bm3_0;"<color=#81c3fc>Izhyefsk'ij elyektromyekhanich'esk'ij zavot «Kupol»</color>
 ◐ Antiaeroporikó sýstima katefthynómenon vlimáton OSA-AKM"
 il_9a33bm3_1;◐ OSA-AKM
 il_9a33bm3_2;SPAAM
@@ -23648,198 +23980,6 @@ ussr_2s38_shop;2S38
 ussr_2s38_0;"2S38 ""Dyerivacziâ-PVO"""
 ussr_2s38_1;2S38
 ussr_2s38_2;IFV
-it_vcc_80_hitfist_60_shop;VCC-80 Dardo (60/70)
-it_vcc_80_hitfist_60_0;Veicolo Cingolato da Combattimento 80 Dardo da 60/70
-it_vcc_80_hitfist_60_1;Dardo
-it_vcc_80_hitfist_60_2;IFV
-it_vcc_80_hitfist_30_shop;VCC-80 Dardo (HITFIST 30)
-it_vcc_80_hitfist_30_0;Veicolo Cingolato da Combattimento 80 Dardo con sistema d'arma Leonardo HITFIST 30
-it_vcc_80_hitfist_30_1;Dardo
-it_vcc_80_hitfist_30_2;IFV
-it_dardo_vcc_shop;VCC-80 Dardo
-it_dardo_vcc_0;Veicolo Cingolato da Combattimento 80 Dardo
-it_dardo_vcc_1;Dardo
-it_dardo_vcc_2;IFV
-it_vbc_pt2_shop;VBC Centauro PT 2
-it_vbc_pt2_0;Veicolo Blindato da Combattimento Centauro Prototipo 2
-it_vbc_pt2_1;VBC Centauro
-it_vbc_pt2_2;IFV
-it_vrcc_centauro_shop;VRCC Centauro
-it_vrcc_centauro_0;Vehículo de Reconocimiento y Combate de Caballería Centauro
-it_vrcc_centauro_1;VRCC Centauro
-it_vrcc_centauro_2;Light Tank
-it_centauro_rgo_120_shop;☪ Centauro MGS
-it_centauro_rgo_120_0;☪ Cacciacarri Blindato B1 Centauro da 120mm MGS
-it_centauro_rgo_120_1;☪ Centauro MGS
-it_centauro_rgo_120_2;Light Tank
-it_centauro_mgs_120_shop;Centauro MGS
-it_centauro_mgs_120_0;Cacciacarri Blindato B1 Centauro da 120mm MGS
-it_centauro_mgs_120_1;Centauro MGS
-it_centauro_mgs_120_2;Light Tank
-it_b1_centauro_romor_shop;Centauro ROMOR
-it_b1_centauro_romor_0;Cacciacarri Blindato B1 Centauro serie II ROMOR
-it_b1_centauro_romor_1;Centauro ROMOR
-it_b1_centauro_romor_2;Light Tank
-it_fiat_cm52_shop;CM 52 (M45C)
-it_fiat_cm52_0;Complesso da 12.7mm su Autocarro Medio CM 52
-it_fiat_cm52_1;CM 52 (M45C)
-it_fiat_cm52_2;SPAA
-it_sherman_75_37_shop;⛨ Sherman I Ibrido
-it_sherman_75_37_0;⛨ Carro Armato Medio Sherman Tipo I Ibrido
-it_sherman_75_37_1;⛨ Sherman I
-it_sherman_75_37_2;Medium Tank
-it_sherman_vc_firefly_shop;⛨ Sherman V C
-it_sherman_vc_firefly_0;⛨ Carro Armato Medio Sherman Tipo V Tipo C
-it_sherman_vc_firefly_1;⛨ Sherman V
-it_sherman_vc_firefly_2;Medium Tank
-it_m18_hellcat_shop;⛨ 76/52 M18
-it_m18_hellcat_0;⛨ Semovente da 76/52 M18
-it_m18_hellcat_1;⛨ M18
-it_m18_hellcat_2;Light Tank
-it_m24_chaffee_shop;⛨ M24
-it_m24_chaffee_0;⛨ Carro Armato Leggero M24
-it_m24_chaffee_1;⛨ M24
-it_m24_chaffee_2;Light Tank
-it_m3a3_stuart_shop;⛨ M3A3
-it_m3a3_stuart_0;⛨ Carro Armato Leggero M3A3
-it_m3a3_stuart_1;⛨ M3A3
-it_m3a3_stuart_2;Light Tank
-it_m4a4_sherman_shop;⛨ Sherman V
-it_m4a4_sherman_0;⛨ Carro Armato Medio Sherman Tipo V
-it_m4a4_sherman_1;⛨ Sherman V
-it_m4a4_sherman_2;Medium Tank
-it_m26a1_pershing_shop;⛨ M26A1
-it_m26a1_pershing_0;⛨ Carro Armato Medio M26A1
-it_m26a1_pershing_1;⛨ M26A1
-it_m26a1_pershing_2;Medium Tank
-it_m109g_shop;⛨ 155/23 M109
-it_m109g_0;⛨ Obice semovente da 155/23 M109
-it_m109g_1;⛨ 155/23 M109
-it_m109g_2;SPG
-it_semovente_m43_75_46_shop;75/46 M. 43
-it_semovente_m43_75_46_0;Semovente da 75/46 su Scafo M. 43
-it_semovente_m43_75_46_1;75/46 M. 43
-it_semovente_m43_75_46_2;SPG
-it_semovente_m41_75_32_shop;75/32 M. 41
-it_semovente_m41_75_32_0;Semovente da 75/32 su Scafo M. 41
-it_semovente_m41_75_32_1;75/32 M. 41
-it_semovente_m41_75_32_2;SPG
-it_semovente_m41_75_18_shop;75/18 M. 41
-it_semovente_m41_75_18_0;Semovente da 75/18 su Scafo M. 41
-it_semovente_m41_75_18_1;75/18 M. 41
-it_semovente_m41_75_18_2;SPG
-it_semovente_m42_75_34_shop;75/34 M. 42 M.
-it_semovente_m42_75_34_0;Semovente da 75/34 su Scafo M. 42 M.
-it_semovente_m42_75_34_1;75/34 M. 42 M.
-it_semovente_m42_75_34_2;SPG
-it_semovente_m43_75_34_shop;75/34 M. 43
-it_semovente_m43_75_34_0;Semovente da 75/34 su Scafo M. 43
-it_semovente_m43_75_34_1;75/34 M. 43
-it_semovente_m43_75_34_2;SPG
-it_m36b1_shop;⛨ 90/50 M36B1
-it_m36b1_0;⛨ Semovente da 90/50 M36B1
-it_m36b1_1;⛨ M36B1
-it_m36b1_2;SPG
-it_of_40_mk_1_shop;OF 40 Mk. 1
-it_of_40_mk_1_0;Carro Armato OTO-Melara OF 40 Mk. 1
-it_of_40_mk_1_1;OF 40 Mk. 1
-it_of_40_mk_1_2;MBT
-it_of_40_mk_2a_shop;OF 40 Mk. 2
-it_of_40_mk_2a_0;Carro Armato OTO-Melara OF 40 Mk. 2
-it_of_40_mk_2a_1;OF 40 Mk. 2
-it_of_40_mk_2a_2;MBT
-it_l6_shop;L. 40
-it_l6_0;Carro Armato Leggero Mod. 40
-it_l6_1;L. 40
-it_l6_2;Light Tank
-it_otobreda_sidam_25_shop;SIDAM 25
-it_otobreda_sidam_25_0;Sistema Italiano Difesa Aerea Mobile, 25mm
-it_otobreda_sidam_25_1;SIDAM 25
-it_otobreda_sidam_25_2;SPAA
-it_semovente_m43_105_shop;105/25 M. 43
-it_semovente_m43_105_0;"Semovente da 105/25 su Scafo M. 43 ""Bassotto"""
-it_semovente_m43_105_1;105/25 M. 43
-it_semovente_m43_105_2;SPG
-it_semovente_m41m_90_shop;90/53 M. 41 M.
-it_semovente_m41m_90_0;Semovente da 90/53 su Scafo M. 41 M.
-it_semovente_m41m_90_1;90/53 M. 41 M.
-it_semovente_m41m_90_2;SPG
-it_m13_40_serie_1_shop;M. 40 I
-it_m13_40_serie_1_0;Carro Armato Medio Mod. 40 Serie I
-it_m13_40_serie_1_1;M. 40
-it_m13_40_serie_1_2;Medium Tank
-it_m13_40_serie_2_shop;M. 40 II
-it_m13_40_serie_2_0;Carro Armato Medio Mod. 40 Serie II
-it_m13_40_serie_2_1;M. 40
-it_m13_40_serie_2_2;Medium Tank
-it_m13_40_serie_3_shop;M. 40 III
-it_m13_40_serie_3_0;Carro Armato Medio Mod. 40 Serie III
-it_m13_40_serie_3_1;M. 40
-it_m13_40_serie_3_2;Medium Tank
-it_m11_39_shop;M. 39
-it_m11_39_0;Carro Armato Medio Mod. 39
-it_m11_39_1;M. 39
-it_m11_39_2;Medium Tank
-it_pzkpfw_III_ausf_N_shop;⛨ Pz.Kpfw. III N
-it_pzkpfw_III_ausf_N_0;⛨ Carro Armato Medio Panzerkampfwagen III Ausf. N
-it_pzkpfw_III_ausf_N_1;⛨ Pz.Kpfw. III N
-it_pzkpfw_III_ausf_N_2;Medium Tank
-it_stug_III_ausf_G_shop;⛨ 75/48 StuG III G
-it_stug_III_ausf_G_0;⛨ Semovente da 75/48 Sturmgeschütz III Ausf. G
-it_stug_III_ausf_G_1;⛨ 75/48 StuG III G
-it_stug_III_ausf_G_2;SPG
-it_m14_41_shop;M. 41
-it_m14_41_0;Carro Armato Medio Mod. 41
-it_m14_41_1;M. 41
-it_m14_41_2;Medium Tank
-it_leopard_bofors_shop;⛨ Leopard 1 A2 (40/70)
-it_leopard_bofors_0;⛨ Semovente contraereo da 40/70 Bofors su scafo Leopard 1 Versione A2
-it_leopard_bofors_1;⛨ Leopard 1 (40/70)
-it_leopard_bofors_2;SPAA
-it_m15_42_contraereo_shop;M. 42/Ca
-it_m15_42_contraereo_0;Carro Armato Medio Mod. 42 Controaereo
-it_m15_42_contraereo_1;M. 42/Ca
-it_m15_42_contraereo_2;SPAA
-it_sahariano_shop;Sahariano
-it_sahariano_0;Carro Armato Celere Sahariano
-it_sahariano_1;Sahariano
-it_sahariano_2;Medium Tank
-it_m15_42_shop;M. 42
-it_m15_42_0;Carro Armato Medio Mod. 42
-it_m15_42_1;M. 42
-it_m15_42_2;Medium Tank
-it_breda_52_autocannone_shop;90/53 Breda 52
-it_breda_52_autocannone_0;Autocannone da 90/53 su Breda 52
-it_breda_52_autocannone_1;90/53 Breda 52
-it_breda_52_autocannone_2;SPG
-it_semovente_breda_501_shop;90/53 Breda 501
-it_semovente_breda_501_0;Semovente Ruotato da 90/53 su Breda 501
-it_semovente_breda_501_1;90/53 Breda 501
-it_semovente_breda_501_2;SPG
-it_l3_cc_shop;L. 33/Cc
-it_l3_cc_0;Carro Armato Leggero Mod. 33 Controcarro
-it_l3_cc_1;L. 33/Cc
-it_l3_cc_2;SPG
-it_lancia3ro_100_shop;100/17 Lancia 3Ro
-it_lancia3ro_100_0;Autocannone da 100/17 su Lancia 3Ro
-it_lancia3ro_100_1;100/17 Lancia 3Ro
-it_lancia3ro_100_2;SPG
-it_ab_41_shop;AB. 41
-it_ab_41_0;Autoblinda Mod. 41
-it_ab_41_1;AB. 41
-it_ab_41_2;Light Tank
-it_ab_43_shop;AB. 43
-it_ab_43_0;Autoblinda Mod. 43
-it_ab_43_1;AB. 43
-it_ab_43_2;Light Tank
-it_sherman_VII_shop;⛨ Sherman I C Ibrido
-it_sherman_VII_0;⛨ Carro Armato Medio Sherman Tipo I Tipo C Ibrido
-it_sherman_VII_1;⛨ Sherman I
-it_sherman_VII_2;Medium Tank
-it_semovente_l40_shop;47/32 L. 40
-it_semovente_l40_0;Semovente da 47/32 su Scafo L. 40
-it_semovente_l40_1;47/32 L. 40
-it_semovente_l40_2;SPG
 ussr_su_85a_shop;SU-85A
 ussr_su_85a_0;SU-85A
 ussr_su_85a_1;SU-85A
@@ -23952,10 +24092,6 @@ ussr_valentine_mk_9_shop;▂ Valyentajn-IX
 ussr_valentine_mk_9_0;▂ Mk III Valyentajn-IX obr. 1943 g.
 ussr_valentine_mk_9_1;▂ Valyentajn-IX
 ussr_valentine_mk_9_2;Infantry tank
-it_p_40_shop;P. 40
-it_p_40_0;Carro Armato Pesante Mod. 40
-it_p_40_1;P. 40
-it_p_40_2;Medium Tank
 germ_m109g_shop;◄ PzH M 109 G
 germ_m109g_0;◄ Panzerhaubitze M 109 G
 germ_m109g_1;◄ M 109

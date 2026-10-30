@@ -18,12 +18,13 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.19.03 - UNRELEASED
+## 1.20.00 - UNRELEASED
 
 ### Vehicles:
 
 - #### Changes:
 
+    - Updated for the "Eagle's Shadow" major update and "Dreams Come True: Mistel 2" event.
     - Implemented the Italiang ground tree rework. This reworks every ground vehicle in the Italian tech tree, both Italian and those from other nations.
     - Updated a bunch more manufacturers.
 

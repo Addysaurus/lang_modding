@@ -1,6 +1,7 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
 shop/group/md_460_iaf_group;רעס / 2-ב רטסימ רפוס 
+shop/group/a_4_iaf_group;(AFC 418-II) E / A-4H 
 shop/group/so_4050_vautour_iaf_group;N / A רוטוו 
 shop/group/f_4e_f_15_iaf_group;15A-18-MC / 2000 סנרוק F-4E 
 shop/group/il_magach_1_2_group;2 / 1 חגמ
@@ -50,17 +51,17 @@ s_199_0;"<color=#81c3fc>Avia Motors C.210</color>
 s_199_1;210.יס 
 s_199_2;210.יס 
 
-p-51d-20-na_iaf_shop; יד 51-יפ
+p-51d-20-na_iaf_shop;יד 51-יפ 
 p-51d-20-na_iaf_0;"<color=#81c3fc>North American Aviation NA-122</color>
 גנטסומ יד םגד 51-יפ "
-p-51d-20-na_iaf_1; יד 51-יפ
-p-51d-20-na_iaf_2; 51-יפ
+p-51d-20-na_iaf_1;יד 51-יפ 
+p-51d-20-na_iaf_2;51-יפ 
 
-b-17g_iaf_shop; י׳ג 17-יב
+b-17g_iaf_shop;י׳ג 17-יב 
 b-17g_iaf_0;"<color=#81c3fc>Boeing Airplane Company Model 299P</color>
 ףפועמ רצבמ י׳ג םגד 17-יב "
-b-17g_iaf_1; י׳ג 17-יב
-b-17g_iaf_2; 17-יב
+b-17g_iaf_1;י׳ג 17-יב 
+b-17g_iaf_2;17-יב 
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 meteor_nfmk13_shop;13 רואטמ 
@@ -96,10 +97,10 @@ md_450b_ouragan_iaf_29_2;ןגרוא 
 
 f-84f_israel_iaf_shop;(תסייט 200) F-84F-51-GK 
 f-84f_israel_iaf_0;"<color=#81c3fc>Republic Aviation Corporation AP-23M</color>
- F-84F-51-GK Thunderstreak
+F-84F-51-GK Thunderstreak 
 <color=@currencyGoldColor>תסייט 200</color>"
-f-84f_israel_iaf_1; F-84F
-f-84f_israel_iaf_2; F-84
+f-84f_israel_iaf_1;F-84F 
+f-84f_israel_iaf_2;F-84 
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 6
 md_454_mystere_4a_iaf_shop;IV רטסימ 
@@ -120,31 +121,31 @@ md_460_saar_0;"<color=#81c3fc>Avions Marcel Dassault <color=@commonTextColor>/</
 md_460_saar_1;רעס
 md_460_saar_2;רעס
 
-a_4h_shop; A-4H
+a_4h_shop;A-4H 
 a_4h_0;"<color=#81c3fc>McDonnell Douglas Corporation D-640</color>
 טיע A-4H "
-a_4h_1; A-4H
-a_4h_2; A-4
+a_4h_1;A-4H 
+a_4h_2;A-4 
 
-a_4e_early_iaf_shop; A-4E (AFC 418-II)
+a_4e_early_iaf_shop;(AFC 418-II) A-4E 
 a_4e_early_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation D-640</color>
 טיע A-4E 
 <color=#adadad>(AFC 418-II)</color>"
-a_4e_early_iaf_1; A-4E
-a_4e_early_iaf_2; A-4
+a_4e_early_iaf_1;A-4E 
+a_4e_early_iaf_2;A-4 
 
-a_4e_late_iaf_shop; A-4E (AFC 482)
+a_4e_late_iaf_shop;(AFC 482) A-4E 
 a_4e_late_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation D-640</color>
 טיע A-4E 
 <color=#adadad>(AFC 482)</color>"
-a_4e_late_iaf_1; A-4E
-a_4e_late_iaf_2; A-4
+a_4e_late_iaf_1;A-4E 
+a_4e_late_iaf_2;A-4 
 
-a_4n_shop; A-4N
+a_4n_shop;A-4N 
 a_4n_0;"<color=#81c3fc>McDonnell Douglas Corporation D-640</color>
 טיע A-4N "
-a_4n_1; A-4N
-a_4n_2; A-4
+a_4n_1;A-4N 
+a_4n_2;A-4 
 
 so_4050_vautour_2a_israel_iaf_shop;A רוטוו 
 so_4050_vautour_2a_israel_iaf_0;"<color=#81c3fc>Société nationale des constructions aéronautiques du Sud-Ouest
@@ -197,18 +198,18 @@ kfir_c10_colombia_0;"<color=#81c3fc>Kfir Block 60 לארשיל תיריוואה 
 kfir_c10_colombia_1;◡ Kfir Block 60
 kfir_c10_colombia_2;◡ Kfir
 
-f-4e_iaf_shop; F-4E-48-MC
+f-4e_iaf_shop;F-4E-48-MC 
 f-4e_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 98HO</color>
 סנרוק F-4E-48-MC "
-f-4e_iaf_1; F-4E
-f-4e_iaf_2; F-4
+f-4e_iaf_1;F-4E 
+f-4e_iaf_2;F-4 
 
 f-4e_kurnass_2000_shop;2000 סנרוק F-4E 
 f-4e_kurnass_2000_0;"<color=#81c3fc>תיריוואה היישעתה <color=@commonTextColor>/</color> McDonnell Douglas Corporation Model 98HO
 לארשיל</color>
 2000 סנרוק F-4E "
-f-4e_kurnass_2000_1; F-4E
-f-4e_kurnass_2000_2; F-4
+f-4e_kurnass_2000_1;F-4E 
+f-4e_kurnass_2000_2;F-4 
 
 nesher_shop;A רשנ
 nesher_0;"<color=#81c3fc>לארשיל תיריוואה היישעתה <color=@commonTextColor>/</color> Avions Marcel Dassault-Breguet Aviation</color>
@@ -216,75 +217,81 @@ A רשנ"
 nesher_1;A רשנ
 nesher_2;רשנ
 
-mig_21_2000_iaf_shop; MiG-21 2000
+mig_21_2000_iaf_shop;MiG-21 2000 
 mig_21_2000_iaf_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye im. 
 MiG-21 2000 Aerostar + לארשיל תיריוואה היישעתה / P. V. Dyemyent'yeva</color>"
-mig_21_2000_iaf_1; MiG-21 2000
-mig_21_2000_iaf_2; MiG-21
+mig_21_2000_iaf_1;MiG-21 2000 
+mig_21_2000_iaf_2;MiG-21
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-f_16a_block_10_iaf_shop; F-16A-15OCU-CF
+f_16a_block_10_iaf_shop;F-16A-15OCU-CF 
 f_16a_block_10_iaf_0;"<color=#81c3fc>General Dynamics Corporation</color>
 ץנ F-16A-15OCU-CF "
-f_16a_block_10_iaf_1; F-16A
-f_16a_block_10_iaf_2; F-16
+f_16a_block_10_iaf_1;F-16A 
+f_16a_block_10_iaf_2;F-16 
 
-f_16a_block_10_netz_mod_shop; F-16A-15OCU-CF (1987)
+f_16a_block_10_netz_mod_shop;(1987) F-16A-15OCU-CF 
 f_16a_block_10_netz_mod_0;"<color=#81c3fc>General Dynamics Corporation</color>
 ץנ F-16A-15OCU-CF 
 <color=#adadad>(1987)</color>"
-f_16a_block_10_netz_mod_1; F-16A
-f_16a_block_10_netz_mod_2; F-16
+f_16a_block_10_netz_mod_1;F-16A 
+f_16a_block_10_netz_mod_2;F-16 
 
-f_16c_block_40_barak_2_shop; F-16C-40L-CF
+f_16c_block_40_barak_2_shop;F-16C-40L-CF 
 f_16c_block_40_barak_2_0;"<color=#81c3fc>General Dynamics Corporation</color>
 II קרב F-16C-40L-CF "
-f_16c_block_40_barak_2_1; F-16C
-f_16c_block_40_barak_2_2; F-16
+f_16c_block_40_barak_2_1;F-16C 
+f_16c_block_40_barak_2_2;F-16 
 
-f_16d_block_40_barak_2_shop; F-16D-40-CF
+f_16d_block_40_barak_2_shop;F-16D-40-CF 
 f_16d_block_40_barak_2_0;"<color=#81c3fc>General Dynamics Corporation</color>
 II קרב F-16D-40-CF "
-f_16d_block_40_barak_2_1; F-16D
-f_16d_block_40_barak_2_2; F-16
+f_16d_block_40_barak_2_1;F-16D 
+f_16d_block_40_barak_2_2;F-16 
 
-f_16d_block_40_barak_2_killstreak_shop;☢ F-16D-40-CF
+f_16d_block_40_barak_2_killstreak_shop;☢F-16D-40-CF 
 f_16d_block_40_barak_2_killstreak_0;"<color=#81c3fc>General Dynamics Corporation</color>
 II קרב F-16D-40-CF ☢"
-f_16d_block_40_barak_2_killstreak_1;☢ F-16D
-f_16d_block_40_barak_2_killstreak_2;☢ F-16
+f_16d_block_40_barak_2_killstreak_1;☢F-16D 
+f_16d_block_40_barak_2_killstreak_2;☢F-16 
 
-f_16d_block_40_barak_2_missile_test_shop; F-16D-40-CF
+f_16d_block_40_barak_2_missile_test_shop;F-16D-40-CF 
 f_16d_block_40_barak_2_missile_test_0;"<color=#81c3fc>General Dynamics Corporation</color>
 II קרב F-16D-40-CF "
-f_16d_block_40_barak_2_missile_test_1; F-16D
-f_16d_block_40_barak_2_missile_test_2; F-16
+f_16d_block_40_barak_2_missile_test_1;F-16D 
+f_16d_block_40_barak_2_missile_test_2;F-16 
 
-f_16i_sufa_shop; F-16I
+f_16i_sufa_shop;F-16I 
 f_16i_sufa_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
 הפוס F-16I "
-f_16i_sufa_1; F-16I
-f_16i_sufa_2; F-16
+f_16i_sufa_1;F-16I 
+f_16i_sufa_2;F-16 
 
-f_15a_iaf_shop; F-15A-18-MC (MSIP)
+f_15a_iaf_shop;(MSIP) F-15A-18-MC 
 f_15a_iaf_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C</color>
 זב F-15A-18-MC 
 <color=#adadad>(Multistage Improvement Program)</color>"
-f_15a_iaf_1; F-15A
-f_15a_iaf_2; F-15
+f_15a_iaf_1;F-15A 
+f_15a_iaf_2;F-15 
 
-f_15c_baz_msip_shop; F-15C-40-MC (MSIP II)
+f_15c_baz_msip_shop;(MSIP II) F-15C-40-MC 
 f_15c_baz_msip_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C</color>
 רפושמ זב F-15C-40-MC 
 <color=#adadad>(Multistage Improvement Program II)</color>"
-f_15c_baz_msip_1; F-15C
-f_15c_baz_msip_2; F-15
+f_15c_baz_msip_1;F-15C 
+f_15c_baz_msip_2;F-15 
 
-f_15i_raam_shop; F-15I
+f_15i_raam_shop;F-15I 
 f_15i_raam_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 199-1C</color>
 םער F-15I "
-f_15i_raam_1; F-15I
-f_15i_raam_2; F-15
+f_15i_raam_1;F-15I 
+f_15i_raam_2;F-15 
+
+f_15ia_shop;F-15IA 
+f_15ia_0;"<color=#81c3fc>Boeing Defense, Space & Security F-15 Advanced Eagle</color>
+II םער F-15I "
+f_15ia_1;F-15IA 
+f_15ia_2;F-15 
 
 //AIRCRAFT - VEHICLE/FAMILY START: RANK 9
 
@@ -295,50 +302,50 @@ md_500_tow_late_0;"<color=#81c3fc>Hughes Helicopters 500 MD</color>
 md_500_tow_late_1;500 MD/ברוע
 md_500_tow_late_2;500 MD
 
-ah_1g_iaf_shop; AH-1G
+ah_1g_iaf_shop;AH-1G 
 ah_1g_iaf_0;"<color=#81c3fc>Bell Helicopter Company Model 209</color>
 א עפצ AH-1G "
-ah_1g_iaf_1; AH-1G
-ah_1g_iaf_2; AH-1
+ah_1g_iaf_1;AH-1G 
+ah_1g_iaf_2;AH-1 
 
-ah_1q_iaf_shop; AH-1Q
+ah_1q_iaf_shop;AH-1Q 
 ah_1q_iaf_0;"<color=#81c3fc>Bell Helicopter Company Model 209</color>
 ב עפצ AH-1Q "
-ah_1q_iaf_1; AH-1Q
-ah_1q_iaf_2; AH-1
+ah_1q_iaf_1;AH-1Q 
+ah_1q_iaf_2;AH-1 
 
-ah_1f_iaf_shop; AH-1S (MC) (CN)
+ah_1f_iaf_shop;(CN) (MC) AH-1S 
 ah_1f_iaf_0;"<color=#81c3fc>Bell Helicopter Textron Model 209</color>
 ב עפצ AH-1Q 
 <color=#adadad>(Cobra Night Imaging Thermal Equipment) (Modernized Cobra)</color>"
-ah_1f_iaf_1; AH-1S
-ah_1f_iaf_2; AH-1
+ah_1f_iaf_1;AH-1S 
+ah_1f_iaf_2;AH-1 
 
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 6
-ah_64a_iaf_shop; AH-64A
+ah_64a_iaf_shop;AH-64A 
 ah_64a_iaf_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
 ןתפ AH-64A "
-ah_64a_iaf_1; AH-64A
-ah_64a_iaf_2; AH-64
+ah_64a_iaf_1;AH-64A 
+ah_64a_iaf_2;AH-64 
 
 ah_64a_peten_iaf_shop;(113 תסייט) AH-64A 
 ah_64a_peten_iaf_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
 ןתפ AH-64A 
 <color=@currencyGoldColor>""הערצה תסייט"" 113 תסייט</color>"
-ah_64a_peten_iaf_1; AH-64A
-ah_64a_peten_iaf_2; AH-64
+ah_64a_peten_iaf_1;AH-64A 
+ah_64a_peten_iaf_2;AH-64 
 
-ah_64a_peten_shop;▃ AH-64A
+ah_64a_peten_shop;▃AH-64A 
 ah_64a_peten_0;"<color=#81c3fc>McDonnell Douglas Helicopter Systems</color>
 ןתפ AH-64A ▃"
-ah_64a_peten_1;▃ AH-64A
-ah_64a_peten_2;▃ AH-64
+ah_64a_peten_1;▃AH-64A 
+ah_64a_peten_2;▃AH-64 
 
-ah_64d_i_saraph_shop; AH-64D
+ah_64d_i_saraph_shop;AH-64D 
 ah_64d_i_saraph_0;"<color=#81c3fc>Boeing Rotorcraft Systems</color>
 ףרש AH-64D "
-ah_64d_i_saraph_1; AH-64D
-ah_64d_i_saraph_2; AH-64
+ah_64d_i_saraph_1;AH-64D 
+ah_64d_i_saraph_2;AH-64 
 
 //HELICOPTERS - VEHICLE/FAMILY START: RANK 7
 ah_60_iaf_shop;ABH Demonstrator
@@ -523,10 +530,10 @@ il_m163_vulcan_0;"<color=#81c3fc>General Electric Company</color>
 il_m163_vulcan_1;טבוח
 il_m163_vulcan_2;SPAAG
 
-il_m109_shop; M109
+il_m109_shop;M109 
 il_m109_0;"<color=#81c3fc>General Motors Corporation, Cadillac Motor Car Division</color>
 M109 ת״מות "
-il_m109_1; M109
+il_m109_1;M109 
 il_m109_2;MBT
 
 il_m109a1_shop;א בכור
@@ -611,10 +618,10 @@ il_m113a1_tow_0;"<color=#81c3fc>FMC Corporation</color>
 il_m113a1_tow_1;(ףרי׳ג) סלדרב
 il_m113a1_tow_2;Light Tank
 
-it_m47_105_shop; M47 RKM
+it_m47_105_shop;M47 RKM 
 it_m47_105_0;"<color=#81c3fc>תוקיציו תכתמ תוישעת ןדרוא + תיאבצה היישעתה <color=@commonTextColor>/</color> Detroit Arsenal 
 M47 RKM הדלפ</color>"
-it_m47_105_1; M47 RKM
+it_m47_105_1;M47 RKM 
 it_m47_105_2;Medium Tank
 
 //GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6

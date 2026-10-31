@@ -1,1 +1,34 @@
 <ID|readonly|noverify>;<English>
+modification/il_spice/desc;Allows the installation of guided bombs: {unlockWeapons}
+modification/il_spice;SPICE
+sensors/us_an_apg_82_v_1;AN/APG-82(V)1
+engine_model/4001;4001
+engine_model/merlin_30;Merlin-30
+engine_model/merlin-23;Merlin-23
+engine_model/hs_110;HS 110
+engine_model/hs_110_2;HS 110-2
+engine_model/hs_110_s2;HS 110-S2
+engine_model/mack_e9;MACK E9
+engine_model/l60_mk_4a;L60 Mk 4a
+engine_model/l60_mk_4b;L60 Mk 4b
+engine_model/l60_mk_7;L60 Mk 7
+engine_model/l60_mk_13a;L60 Mk 13a
+transmission_model/enc_200;ENC 200
+transmission_model/bv_5_sd_200_d;BV 5 SD
+transmission_model/tn_12;TN12
+transmission_model/tn_12_mk3;TN12 Mk3
+transmission_model/tn_37;TN37
+modification/jp_gcs_1/desc;Allows the installation of GCS-1 anti-ship bombs: {unlockWeapons}
+modification/jp_gcs_1;GCS-1
+modification/us_aim_26b/desc;Allows the installation of AIM-26B air-to-air missiles.
+modification/us_aim_26b;AIM-26B
+modification/MAW_system_heli_false_thermal_targets_large_dircm/desc;Missile approach warning system, allowing false heat target shoot off, and a directional infrared countermeasure system.
+modification/MAW_system_heli_false_thermal_targets_large_dircm;MAWS/DIRCM
+counterMeasures/l_370v52;L-370V52
+modification/su_r_98mr/desc;Allows the installation of R-98MR air-to-air missiles.
+modification/su_r_98mr;R-98MR
+modification/su_r_98mt/desc;Allows the installation of R-98MT air-to-air missiles.
+modification/su_r_98mt;R-98MT
+engine_model/CT7-8E;CT7-8E
+modification/ship_sonar;Sonar
+modification/ship_sonar/desc;Sonar allows to detect submarines

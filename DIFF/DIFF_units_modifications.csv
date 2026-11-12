@@ -1,7 +1,11 @@
 <ID|readonly|noverify>;<English>
 modification/il_spice/desc;Allows the installation of guided bombs: {unlockWeapons}
 modification/il_spice;SPICE
+modification/su_hod_pod/desc;Allows the installation of a Khod optical targeting pod.
+modification/su_hod_pod;Khod
+sensors/cn_hljp_345_ai;H/LJP-345
 sensors/us_an_apg_82_v_1;AN/APG-82(V)1
+sensors/it_aw_249_lws;LWS
 engine_model/4001;4001
 engine_model/merlin_30;Merlin-30
 engine_model/merlin-23;Merlin-23
@@ -13,18 +17,37 @@ engine_model/l60_mk_4a;L60 Mk 4a
 engine_model/l60_mk_4b;L60 Mk 4b
 engine_model/l60_mk_7;L60 Mk 7
 engine_model/l60_mk_13a;L60 Mk 13a
+engine_model/sa_12200_vd;SA 12200 VD
+transmission_steer_type/side_final_drive;planetary steering mechanism
+transmission_steer_type/double_differential;double differential steering mechanism
+transmission_steer_type/twin_transmission;twin-gearbox steering mechanism
+transmission_steer_type/clutch_braking;clutch-brake steering mechanism
+transmission_steer_type/controlled_differential;controlled differential steering mechanism
 transmission_model/enc_200;ENC 200
 transmission_model/bv_5_sd_200_d;BV 5 SD
+transmission_model/xtg_411;XTG 411
+transmission_model/mt_75t;MT-75T
 transmission_model/tn_12;TN12
 transmission_model/tn_12_mk3;TN12 Mk3
 transmission_model/tn_37;TN37
+modification/cn_cm_502kg_mitl/desc;Allows the installation of CM-502KG (MITL) missiles.
+modification/cn_cm_502kg_mitl;CM-502KG (MITL)
 modification/jp_gcs_1/desc;Allows the installation of GCS-1 anti-ship bombs: {unlockWeapons}
 modification/jp_gcs_1;GCS-1
 modification/us_aim_26b/desc;Allows the installation of AIM-26B air-to-air missiles.
 modification/us_aim_26b;AIM-26B
 modification/MAW_system_heli_false_thermal_targets_large_dircm/desc;Missile approach warning system, allowing false heat target shoot off, and a directional infrared countermeasure system.
 modification/MAW_system_heli_false_thermal_targets_large_dircm;MAWS/DIRCM
+modification/atgm_spike_x4_mitl/desc;Allows the installation of additional Spike ER (MITL) missiles.
+modification/atgm_spike_x4_mitl;Spike ER /4 (MITL)
+modification/atgm_spike_nlos_mitl/desc;Allows the installation of Spike NLOS (MITL) missiles.
+modification/atgm_spike_nlos_mitl;Spike NLOS (MITL)
+modification/su_lmur_mitl/desc;Allows the installation of LMUR (MITL) missiles.
+modification/su_lmur_mitl;LMUR (MITL)
+modification/sws_flz_lwf_63_90/desc;Allows the installation of Flz Lwf 63/90 air-to-air missiles.
+modification/sws_flz_lwf_63_90;Flz Lwf 63/90
 counterMeasures/l_370v52;L-370V52
+counterMeasures/elt_577;ELT/577
 modification/su_r_98mr/desc;Allows the installation of R-98MR air-to-air missiles.
 modification/su_r_98mr;R-98MR
 modification/su_r_98mt/desc;Allows the installation of R-98MT air-to-air missiles.

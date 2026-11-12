@@ -1193,6 +1193,9 @@ us_ai_sam_radar_an_mpq_46_2;Radar
 us_ai_mlrs_m270_0;Launcher, Rocket, Armored Vehicle Mounted: M270
 us_ai_mlrs_m270_1;M270
 us_ai_mlrs_m270_2;MLRS
+us_ai_mlrs_atacms_m270_0;Launcher, Rocket, Armored Vehicle Mounted: M270
+us_ai_mlrs_atacms_m270_1;M270
+us_ai_mlrs_atacms_m270_2;MLRS
 us_ai_tbm_m752_lance_0;Carrier, Guided Missile Equipment: Self-Propelled, M752
 us_ai_tbm_m752_lance_1;M752
 us_ai_tbm_m752_lance_2;TBM
@@ -1259,6 +1262,12 @@ ussr_ai_sam_launcher_9a310_2;SPAAM
 ussr_ai_sam_launcher_9a310m1_0;"Samokhodnaya ognyevaya ustanofka 9A310M1 ""Buk-M1"""
 ussr_ai_sam_launcher_9a310m1_1;9A310M1
 ussr_ai_sam_launcher_9a310m1_2;SPAAM
+ussr_ai_tbm_9k720_m_iskander_0;Samokhodnaya puskovaya ustanofka 9P78-1
+ussr_ai_tbm_9k720_m_iskander_1;9P78-1
+ussr_ai_tbm_9k720_m_iskander_2;TBM
+ussr_ai_tbm_9k720_k_iskander_0;Samokhodnaya puskovaya ustanofka 9P78-1
+ussr_ai_tbm_9k720_k_iskander_1;9P78-1
+ussr_ai_tbm_9k720_k_iskander_2;TBM
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;Aftomob'il' KAMAZ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_1;KAMAZ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_2;Transport
@@ -1494,6 +1503,8 @@ shop/group/a_7_group;A-7D-8 / E-4
 shop/group/f_16_group;F-16A-15OCU / ADF
 shop/group/f_18_group;F/A-18A-18 / C-52
 shop/group/f_14_group;F-14A-110 / B-150 / D-165
+shop/group/us_cruiser_fargo_brooklyn_group;USS Fargo / USS Brooklyn
+shop/group/us_cruiser_northampton_pensacola_group;USS Northampton / Portland / Pensacola
 
 shop/group/germ_pzkpfw_38t_group;Pz.Kpfw. 38 (t) F / n.A.
 shop/group/germ_pzkpfw_II_early_group;Pz.Kpfw. II C / F
@@ -1615,20 +1626,20 @@ shop/group/er-2_group;Yer-2 (M-105) / (M-105R)
 shop/group/pe-3_group;Pye-3-1 / 2
 shop/group/su-2_group;BB-1 / Su-2 MV-5 / TSS-1 / (M-82)
 shop/group/mig-3_group;MiG-3-15 (UBK) / 34
-shop/group/yak-1_group;Âk-1-1 / 127
-shop/group/yak-9_group;Âk-9 / 9B
-shop/group/yak-3_group;Âk-3 / 9U
-shop/group/yak-9tk_group;Âk-9T / K
-shop/group/yak-3up_group;Âk-3U / 9UT
+shop/group/yak-1_group;Yak-1-1 / 127
+shop/group/yak-9_group;Yak-9 / 9B
+shop/group/yak-3_group;Yak-3 / 9U
+shop/group/yak-9tk_group;Yak-9T / K
+shop/group/yak-3up_group;Yak-3U / 9UT
 shop/group/il-2m_group;Il-2M (1943) / (1944)
 shop/group/er-2_late_group;Yer-2-3 / 4
 shop/group/lagg-3_late_group;LaGG-3-35 / 66
 shop/group/il-10_group;Il-10 / 10 (1947)
 shop/group/pe-2_early_group;Pye-2-1 / 31 / 83
 shop/group/pe-2_late_group;Pye-2-110 / 359
-shop/group/yak-9up_group;Âk-3P / 9P
+shop/group/yak-9up_group;Yak-3P / 9P
 shop/group/tu-2_group;Tu-2S / S-44 / S-59
-shop/group/yak-15_group;Âk-15 (1946) / 15 / 17
+shop/group/yak-15_group;Yak-15 (1946) / 15 / 17
 shop/group/mig-9_group;MiG-9 / I-307
 shop/group/il_28_group;Il-28 / 28Š
 shop/group/la_200_group;200 / La-15
@@ -2124,11 +2135,11 @@ D.VII"
 fokker_d7_1;D.VII
 fokker_d7_2;D.VII
 
-spad_13_shop;S.XIII-C1
+spad_13_shop;S. XIII
 spad_13_0;"<color=#81c3fc>Société pour l'aviation et ses dérivés</color>
-S.XIII-C1"
-spad_13_1;S.XIII-C1
-spad_13_2;S.XIII
+S. XIII"
+spad_13_1;S. XIII
+spad_13_2;S. XIII
 
 germ_s_100_class_us_shop;S 204
 germ_s_100_class_us_0;"<color=#fffa62>Schnellboot Typ 1939/40</color>
@@ -2697,6 +2708,12 @@ f2a-1_thach_0;"F2A-1 Buffalo
 <color=@currencyGoldColor>John Thach's</color>"
 f2a-1_thach_1;F2A-1
 f2a-1_thach_2;F2A
+
+f2a-1_nvidia_shop;⋦ F2A-1
+f2a-1_nvidia_0;"<color=#81c3fc>Brewster Aeronautical Corporation</color>
+⋦ F2A-1 Buffalo"
+f2a-1_nvidia_1;⋦ F2A-1
+f2a-1_nvidia_2;⋦ F2A
 
 os2u_1_shop;OS2U-1
 os2u_1_0;OS2U-1 Kingfisher
@@ -3746,6 +3763,12 @@ F/A-18C-52-MC Hornet"
 fa_18c_late_1;F/A-18C
 fa_18c_late_2;F/A-18
 
+fa_18d_late_shop;F/A-18D-52-MC
+fa_18d_late_0;"<color=#81c3fc>McDonnell Douglas Corporation Model 267</color>
+F/A-18D-52-MC Hornet"
+fa_18d_late_1;F/A-18D
+fa_18d_late_2;F/A-18
+
 fa_18e_block_2_shop;F/A-18E-2-MC
 fa_18e_block_2_0;"<color=#81c3fc>McDonnell Douglas Corporation</color>
 F/A-18E-2-MC Super Hornet"
@@ -3962,6 +3985,13 @@ Tank, Light, M3A1 Stuart
 <color=@currencyGoldColor>United States Marine Corps</color>"
 us_m3a1_stuart_usmc_1;M3A1
 us_m3a1_stuart_usmc_2;Light Tank
+
+us_m3a1_stuart_nvidia_shop;⋦ M3A1
+us_m3a1_stuart_nvidia_0;"<color=#81c3fc>American Car and Foundry Company</color>
+<color=#5cae63>G-103</color>
+⋦ Tank, Light, M3A1 Stuart"
+us_m3a1_stuart_nvidia_1;⋦ M3A1
+us_m3a1_stuart_nvidia_2;Light Tank
 
 us_lvt_a_1_shop;LVT (A) (1)
 us_lvt_a_1_0;"<color=#81c3fc>Food Machinery Corporation</color>
@@ -6183,10 +6213,10 @@ il_2_1942_luftwaffe_0;"▀ Il-2
 il_2_1942_luftwaffe_1;▀ Il-2
 il_2_1942_luftwaffe_2;▀ Il-2
 
-yak-1b_luftwaffe_shop;▀ Âk-1-127
-yak-1b_luftwaffe_0;"▀ Âk-1 syeriâ 127"
-yak-1b_luftwaffe_1;▀ Âk-1
-yak-1b_luftwaffe_2;▀ Âk-1
+yak-1b_luftwaffe_shop;▀ Yak-1-127
+yak-1b_luftwaffe_0;"▀ Yak-1 syeriya 127"
+yak-1b_luftwaffe_1;▀ Yak-1
+yak-1b_luftwaffe_2;▀ Yak-1
 
 bv-238_shop;BV 238 V1
 bv-238_0;"BV 238 V1"
@@ -8478,14 +8508,14 @@ Samolyot Yak-1
 yak_1_litvyak_1;Yak-1
 yak_1_litvyak_2;Yak-1
 
-yak-9m_shop;Galavačoŭ's Âk-9M
-yak-9m_0;"Âk-9M
+yak-9m_shop;Galavačoŭ's Yak-9M
+yak-9m_0;"Yak-9M
 <color=@currencyGoldColor>Pavyel Âkaŭlyevìč Galavačoŭ's</color>"
-yak-9m_1;Âk-9M
-yak-9m_2;Âk-9
+yak-9m_1;Yak-9M
+yak-9m_2;Yak-9
 
 mig_3_series_1_15_bk_pod_shop;MiG-3-15 (UBK)
-mig_3_series_1_15_bk_pod_0;"MiG-3 syeriâ 15
+mig_3_series_1_15_bk_pod_0;"MiG-3 syeriya 15
 <color=#adadad>(UBK)</color>"
 mig_3_series_1_15_bk_pod_1;MiG-3-15
 mig_3_series_1_15_bk_pod_2;MiG-3
@@ -8569,17 +8599,17 @@ i_180_event04_1;I-180S (defective)
 i_180_event04_2;I-180 (defective)
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 3
-yak-3_eremin_shop;Yerëmin's Âk-3
-yak-3_eremin_0;"Âk-3
+yak-3_eremin_shop;Yerëmin's Yak-3
+yak-3_eremin_0;"Yak-3
 <color=@currencyGoldColor>Boris Nikolayevič Yerëmin's</color>"
-yak-3_eremin_1;Âk-3
-yak-3_eremin_2;Âk-3
+yak-3_eremin_1;Yak-3
+yak-3_eremin_2;Yak-3
 
-yak-3_vk107_shop;Âk-3 (VK-107A)
-yak-3_vk107_0;"Âk-3
+yak-3_vk107_shop;Yak-3 (VK-107A)
+yak-3_vk107_0;"Yak-3
 <color=#adadad>(VK-107A)</color>"
-yak-3_vk107_1;Âk-3
-yak-3_vk107_2;Âk-3
+yak-3_vk107_1;Yak-3
+yak-3_vk107_2;Yak-3
 
 i_185_m82_shop;I-185 (M-82)
 i_185_m82_0;"I-185
@@ -8642,13 +8672,13 @@ er-2_m105r_tat_1;Yer-2
 er-2_m105r_tat_2;Yer-2
 
 er-2_ach30b_early_shop;Yer-2-3 (ACh-30B)
-er-2_ach30b_early_0;"Yer-2 syeriâ 3
+er-2_ach30b_early_0;"Yer-2 syeriya 3
 <color=#adadad>(ACh-30B)</color>"
 er-2_ach30b_early_1;Yer-2-3
 er-2_ach30b_early_2;Yer-2
 
 er-2_ach30b_late_shop;Yer-2-4 (ACh-30B)
-er-2_ach30b_late_0;"Yer-2 syeriâ 4
+er-2_ach30b_late_0;"Yer-2 syeriya 4
 <color=#adadad>(ACh-30B)</color>"
 er-2_ach30b_late_1;Yer-2-4
 er-2_ach30b_late_2;Yer-2
@@ -8692,17 +8722,17 @@ spitfire_ix_ussr_1;▂ Sp'itfajr L.F. Mk. IX
 spitfire_ix_ussr_2;▂ Sp'itfajr
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 5
-yak-15_early_shop;Âk-15 (1946)
-yak-15_early_0;"Âk-15
+yak-15_early_shop;Yak-15 (1946)
+yak-15_early_0;"Yak-15
 <color=#adadad>(1946)</color>"
-yak-15_early_1;Âk-15
-yak-15_early_2;Âk-15
+yak-15_early_1;Yak-15
+yak-15_early_2;Yak-15
 
-yak-15_shop;Âk-15 (1947)
-yak-15_0;"Âk-15
+yak-15_shop;Yak-15 (1947)
+yak-15_0;"Yak-15
 <color=#adadad>(1947)</color>"
-yak-15_1;Âk-15
-yak-15_2;Âk-15
+yak-15_1;Yak-15
+yak-15_2;Yak-15
 
 su-9_shop;Su-9
 su-9_0;"<color=#5cae63>izd. K</color>
@@ -8771,9 +8801,10 @@ MiG-21S
 mig-21_s_1;MiG-21S
 mig-21_s_2;MiG-21
 
-mig-21_pfm_shop;MiG-21PFM (94)
-mig-21_pfm_0;"<color=#5cae63>izd. 94</color>
-MiG-21PFM"
+mig-21_pfm_shop;MiG-21PFM
+mig-21_pfm_0;"<color=#81c3fc>Gor'kofsk'ij av'iatsionnyj zavot im. Ordzhonik'idz'e</color>
+<color=#5cae63>izd. 94</color>
+Samolyot MiG-21PFM"
 mig-21_pfm_1;MiG-21PFM
 mig-21_pfm_2;MiG-21
 
@@ -8784,14 +8815,14 @@ mig-21_smt_1;MiG-21SMT
 mig-21_smt_2;MiG-21
 
 mig-21_bis_shop;MiG-21bis
-mig-21_bis_0;"<color=#81c3fc>Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna</color>
+mig-21_bis_0;"<color=#81c3fc>Moskofsk'ij mashinostroit'el'nyj zavot im. A. I. Mikoyana</color>
 <color=#5cae63>izd. 75</color>
 Samolyot MiG-21bis"
 mig-21_bis_1;MiG-21bis
 mig-21_bis_2;MiG-21
 
 mig-21_bis_event_shop;MiG-21bis
-mig-21_bis_event_0;"<color=#81c3fc>Moskovskij mašinostroityel'nyj zavod im. A. I. Mikoâna</color>
+mig-21_bis_event_0;"<color=#81c3fc>Moskofsk'ij mashinostroit'el'nyj zavot im. A. I. Mikoyana</color>
 <color=#5cae63>izd. 75</color>
 Samolyot MiG-21bis"
 mig-21_bis_event_1;MiG-21bis
@@ -8822,11 +8853,11 @@ Samolyot Su-15TM"
 su_15tm_1;Su-15TM
 su_15tm_2;Su-15
 
-yak_130_early_shop;Âk-130
+yak_130_early_shop;Yak-130
 yak_130_early_0;"<color=#81c3fc>Irkutskij aviaczionnyj zavod</color>
-Samolyot Âk-130"
-yak_130_early_1;Âk-130
-yak_130_early_2;Âk-130
+Samolyot Yak-130"
+yak_130_early_1;Yak-130
+yak_130_early_2;Yak-130
 
 su_25t_shop;Su-25T
 su_25t_0;"<color=#81c3fc>Ulan-Udènskij aviaczionnyj zavod</color>
@@ -8949,11 +8980,11 @@ mig_25pd_1;MiG-25PD
 mig_25pd_2;MiG-25
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 8
-yak_141_shop;Âk-141
+yak_141_shop;Yak-141
 yak_141_0;"<color=#5cae63>izd. 48M</color>
-Âk-141"
-yak_141_1;Âk-141
-yak_141_2;Âk-141
+Yak-141"
+yak_141_1;Yak-141
+yak_141_2;Yak-141
 
 mig_29kr_9_41r_shop;MiG-29KR
 mig_29kr_9_41r_0;"<color=#81c3fc>Moskovskoye aviaczionnoye proizvodstvyennoye ob""yedinyeniye im. P. V.
@@ -10119,6 +10150,14 @@ BM 9P157-2 ""Khrizantema-S"""
 ussr_9p157_1;9P157-2
 ussr_9p157_2;SPG
 
+ussr_btr_90_2004_shop;BTR-90 (B05Ya01)
+ussr_btr_90_2004_0;"<color=#81c3fc>Gor'kofsk'ij aftomob'il'nyj zavot GAZ-5923 <color=@commonTextColor>/</color> Arzamassk'ij
+mashinostroit'el'nyj zavot</color>
+Bronyetransportyer BTR-90
+<color=#adadad>(Boyevoye odd'elyeniye B05Ya01 ""B'eryezhok"")</color>"
+ussr_btr_90_2004_1;BTR-90
+ussr_btr_90_2004_2;IFV
+
 ussr_bmpt_shop;BMPT (2002)
 ussr_bmpt_0;"<color=#81c3fc>Proizvodzdv'ennoye ob""yed'inyeniye «Uralvagonzavot» im. F. E.
 Dz'erzhinskovo</color>
@@ -10180,7 +10219,7 @@ ussr_pantsyr_sm_sv_2;SPAAG/M
 
 //USSR COASTAL FLEET - VEHICLE/FAMILY START: RANK 1
 ussr_g5_mtb_shop;TKA №12/1
-ussr_g5_mtb_0;"<color=#81c3fc>Torpednyy kater Tip G-5, syeriâ X</color>
+ussr_g5_mtb_0;"<color=#81c3fc>Torpednyy kater Tip G-5, syeriya X</color>
 TKA №12/1"
 ussr_g5_mtb_1;TKA №12/1
 ussr_g5_mtb_2;Motor Torpedo Boat
@@ -10193,7 +10232,7 @@ ussr_g5_mtb_shvak_1;TKA No. 12/5
 ussr_g5_mtb_shvak_2;Motor Torpedo Boat
 
 ussr_g5_rct_shop;TK-412
-ussr_g5_rct_0;"<color=#81c3fc>Torpyednyye katyera Tip G-5, syeriâ XI</color>
+ussr_g5_rct_0;"<color=#81c3fc>Torpyednyye katyera Tip G-5, syeriya XI</color>
 TK-412"
 ussr_g5_rct_1;TK-412
 ussr_g5_rct_2;Motor Gun Boat
@@ -10500,7 +10539,7 @@ ussr_destroyer_frunze_1;Frunzye
 ussr_destroyer_frunze_2;Destroyer
 
 ussr_destroyer_kerch_shop;Kyerč' (1917)
-ussr_destroyer_kerch_0;"<color=#fffa62>Eskadrennyy minonosets Tip Novik, 3rd syeriâ, Tip Fidonisi</color>
+ussr_destroyer_kerch_0;"<color=#fffa62>Eskadrennyy minonosets Tip Novik, 3rd syeriya, Tip Fidonisi</color>
 Kerch'
 <color=#adadad>(1917)</color>"
 ussr_destroyer_kerch_1;Kyerč' (1917)
@@ -10907,6 +10946,12 @@ beaufort_mkviii_0;"<color=#81c3fc>Bristol Aeroplane Company Type 152</color>
 ▄ Beaufort Mk. VIII"
 beaufort_mkviii_1;▄ Beaufort Mk. VIII
 beaufort_mkviii_2;▄ Beaufort
+
+fulmar_mk2_shop;Fulmar Mk. II
+fulmar_mk2_0;"<color=#81c3fc>Fairey Aviation Company</color>
+Fulmar Mk. II"
+fulmar_mk2_1;Fulmar Mk. II
+fulmar_mk2_2;Fulmar
 
 hp_12_shop;O/400
 hp_12_0;"<color=#81c3fc>Handley Page Aircraft Company H.P.12</color>
@@ -13711,6 +13756,14 @@ HMS Prince of Wales (53)
 <color=#adadad>(1941)</color>"
 uk_battleship_prince_of_wales_1;HMS Prince of Wales
 uk_battleship_prince_of_wales_2;Battleship
+
+uk_battleship_duke_of_york_shop;HMS Duke of York (17)
+uk_battleship_duke_of_york_0;"<color=#81c3fc>John Brown & Co. <color=@commonTextColor>/</color> Rosyth Dockyard</color>
+<color=#fffa62>King George V-class</color>
+HMS Duke of York (17)
+<color=#adadad>(1943)</color>"
+uk_battleship_duke_of_york_1;HMS Duke of York
+uk_battleship_duke_of_york_2;Battleship
 
 uk_battlecruiser_hood_shop;HMS Hood (51)
 uk_battlecruiser_hood_0;"<color=#81c3fc>John Brown & Co. <color=@commonTextColor>/</color> Rosyth Dockyard</color>
@@ -16723,9 +16776,10 @@ f_16a_block_20_mlu_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
 f_16a_block_20_mlu_1;☀ F-16A
 f_16a_block_20_mlu_2;☀ F-16
 
-f_16a_block_72v_china_shop;☀ F-16V-72-CF
+f_16a_block_72v_china_shop;☀ F-16V-20-CF
 f_16a_block_72v_china_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
-☀ F-16V-72-CF Xíng Zhàndòu Jī"
+<color=#ff8c80>Fèng Zhan Zhuān'àn</color>
+☀ F-16V-20-CF Xíng Zhàndòu Jī"
 f_16a_block_72v_china_1;☀ F-16A
 f_16a_block_72v_china_2;☀ F-16
 
@@ -18168,11 +18222,23 @@ Obice da 100/17 modello 1914 su autocarro militare modello 3Ro"
 it_lancia3ro_100_1;100/17 3Ro
 it_lancia3ro_100_2;SPG
 
+it_lancia_flak38_shop;3Ro (V.-Fla.K. C/38)
+it_lancia_flak38_0;"<color=#81c3fc>Lancia & C. Fabbrica Automobili 3Ro</color>
+Vierlings-Flugzeugabwehrkanone C/38 su autocarro militare modello 3Ro"
+it_lancia_flak38_1;3Ro (V.-Fla.K. C/38)
+it_lancia_flak38_2;SPAAG
+
 it_39m_csaba_shop;39 M. Csaba pc. gk.
 it_39m_csaba_0;"<color=#81c3fc>Weiss Manfréd Acél- és Fémművek</color>
 39 M. Csaba páncélgépkocsi"
 it_39m_csaba_1;39 M. Csaba
 it_39m_csaba_2;Armored Car
+
+it_v_4_straussler_shop;V-4 (late)
+it_v_4_straussler_0;"<color=#81c3fc>Weiss Manfréd Acél- és Fémművek V-4 könnyű harckocsi</color>
+<color=#adadad>(late)</color>"
+it_v_4_straussler_1;V-4
+it_v_4_straussler_2;Light Tank
 
 it_toldi_II_a_shop;38 M. Toldi B 40 k. hk.
 it_toldi_II_a_0;"<color=#81c3fc>Landsverk L-60Ö <color=@commonTextColor>/</color> Magyar Királyi Állami Vas-, Acél- és Gépgyárak</color>
@@ -18427,14 +18493,16 @@ it_leopard_1a5_0;"<color=#81c3fc>Krauss-Maffei</color>
 it_leopard_1a5_1;⛨ Leopard 1 A5
 it_leopard_1a5_2;MBT
 
-it_oto_r3_t20_fa_shop;R3 T 20 FA-HS
-it_oto_r3_t20_fa_0;<color=#81c3fc>OTO Melara R3 Capraia T 20 FA-HS</color>
-it_oto_r3_t20_fa_1;R3 T 20 FA-HS
+it_oto_r3_t20_fa_shop;R3 (T 20 FA-HS)
+it_oto_r3_t20_fa_0;"<color=#81c3fc>OTO Melara R3 Capraia</color>
+<color=#adadad>(Torretta T 20 FA-HS)</color>"
+it_oto_r3_t20_fa_1;R3 (T 20 FA-HS)
 it_oto_r3_t20_fa_2;SPAA
 
-it_oto_r3_106sr_shop;R3 T 106 FA
-it_oto_r3_106sr_0;<color=#81c3fc>OTO Melara R3 Capraia T 106 FA</color>
-it_oto_r3_106sr_1;R3 T 106 FA
+it_oto_r3_106sr_shop;R3 (T 106 FA)
+it_oto_r3_106sr_0;"<color=#81c3fc>OTO Melara R3 Capraia</color>
+<color=#adadad>(Torretta T 106 FA)</color>"
+it_oto_r3_106sr_1;R3 (T 106 FA)
 it_oto_r3_106sr_2;Light Tank
 
 it_m36b1_shop;⛨ 90/50 M36B1
@@ -19394,11 +19462,11 @@ firefly_mk4_netherlands_0;"<color=#81c3fc>Fairey Aviation Company</color>
 firefly_mk4_netherlands_1;◘ Firefly F.R. Mk. 4
 firefly_mk4_netherlands_2;◘ Firefly
 
-yak-9t_france_shop;☨ Challe's Âk-9T
-yak-9t_france_0;"☨ Âk-9T
+yak-9t_france_shop;☨ Challe's Yak-9T
+yak-9t_france_0;"☨ Yak-9T
 <color=@currencyGoldColor>René Challe's</color>"
-yak-9t_france_1;☨ Âk-9T
-yak-9t_france_2;☨ Âk-9
+yak-9t_france_1;☨ Yak-9T
+yak-9t_france_2;☨ Yak-9
 
 p-39q_25_france_shop;☨ P-39Q-25
 p-39q_25_france_0;☨ P-39Q-25 Airacobra
@@ -20027,16 +20095,16 @@ fr_lvt_bofors_1;LVT (4) (Bofors)
 fr_lvt_bofors_2;Light Tank
 
 //FRANCE GROUND VEHICLES - VEHICLE/FAMILY START: RANK 3
-fr_panhard_ebr_1951_shop;E.B.R. 75 mle. 51
+fr_panhard_ebr_1951_shop;E.B.R. 75 mle. 51 type 55-11
 fr_panhard_ebr_1951_0;"<color=#81c3fc>Panhard type 212</color>
-Engin blindé de reconnaissance de 75 modèle 1951 avec tourelle F.L. 11"
+Engin blindé de reconnaissance de 75 modèle 1951 type 55-11"
 fr_panhard_ebr_1951_1;E.B.R. 75 mle. 51
 fr_panhard_ebr_1951_2;Light Tank
 
-fr_panhard_ebr_1954_shop;E.B.R. 75 mle. 54
+fr_panhard_ebr_1954_shop;E.B.R. 75 mle. 51 type 55-10
 fr_panhard_ebr_1954_0;"<color=#81c3fc>Panhard type 212</color>
-Engin blindé de reconnaissance de 75 modèle 1954 avec tourelle F.L. 10"
-fr_panhard_ebr_1954_1;E.B.R. 75 mle. 54
+Engin blindé de reconnaissance de 75 modèle 1951 type 55-10"
+fr_panhard_ebr_1954_1;E.B.R. 75 mle. 51
 fr_panhard_ebr_1954_2;Light Tank
 
 fr_panhard_ebr_1963_shop;E.B.R. 90 mle. 63
@@ -21351,6 +21419,14 @@ flygplan typ JAS 39 C Gripen
 <color=#adadad>(Cobra)</color>"
 saab_jas39c_1;JAS 39 C
 saab_jas39c_2;JAS 39
+
+saab_jas39_pre_serie_shop;JAS 39 (39-5)
+saab_jas39_pre_serie_0;"<color=#81c3fc>Saab 39 Gripen</color>
+flygplan typ JAS 39
+<color=#ff546e>(Cobra)</color>
+<color=@currencyGoldColor>prototyp 39-5</color>"
+saab_jas39_pre_serie_1;JAS 39
+saab_jas39_pre_serie_2;JAS 39
 
 saab_jas39d_shop;JAS 39 D (Cobra)
 saab_jas39d_0;"<color=#81c3fc>Saab 39 Gripen D</color>
@@ -23231,7 +23307,7 @@ ju-87r-2_italy_0;⛨ Ju 87 R-2
 ju-87r-2_italy_1;⛨ Ju 87 R
 ju-87r-2_italy_2;⛨ Ju 87
 la-5fn_shop;La-5-41
-la-5fn_0;La-5 Tip 41, syeriâ 34
+la-5fn_0;La-5 Tip 41, syeriya 34
 la-5fn_1;La-5
 la-5fn_2;La-5
 la-7_shop;La-7
@@ -23266,40 +23342,40 @@ po-2m_shop;U-2M
 po-2m_0;"U-2M ""Kukuruznik"""
 po-2m_1;U-2M
 po-2m_2;U-2
-yak-1b_shop;Âk-1-127
-yak-1b_0;Âk-1 syeriâ 127
-yak-1b_1;Âk-1-127
-yak-1b_2;Âk-1
-yak-3_shop;Âk-3
-yak-3_0;Âk-3
-yak-3_1;Âk-3
-yak-3_2;Âk-3
-yak-3t_shop;Âk-3T
-yak-3t_0;Âk-3T
-yak-3t_1;Âk-3T
-yak-3t_2;Âk-3
-yak-9t_shop;Âk-9T
-yak-9t_0;Âk-9T
-yak-9t_1;Âk-9T
-yak-9t_2;Âk-9
-yak-9p_shop;Âk-9P
-yak-9p_0;Âk-9P
-yak-9p_1;Âk-9P
-yak-9p_2;Âk-9
+yak-1b_shop;Yak-1-127
+yak-1b_0;Yak-1 syeriya 127
+yak-1b_1;Yak-1-127
+yak-1b_2;Yak-1
+yak-3_shop;Yak-3
+yak-3_0;Yak-3
+yak-3_1;Yak-3
+yak-3_2;Yak-3
+yak-3t_shop;Yak-3T
+yak-3t_0;Yak-3T
+yak-3t_1;Yak-3T
+yak-3t_2;Yak-3
+yak-9t_shop;Yak-9T
+yak-9t_0;Yak-9T
+yak-9t_1;Yak-9T
+yak-9t_2;Yak-9
+yak-9p_shop;Yak-9P
+yak-9p_0;Yak-9P
+yak-9p_1;Yak-9P
+yak-9p_2;Yak-9
 p-47d_22_re_france_shop;☨ P-47D-22-RE
 p-47d_22_re_france_0;☨ P-47D-22-RE Thunderbolt
 p-47d_22_re_france_1;☨ P-47D
 p-47d_22_re_france_2;☨ P-47
-yak-3u_shop;Âk-3U
-yak-3u_0;Âk-3U
-yak-3u_1;Âk-3U
-yak-3u_2;Âk-3
-yak-7b_shop;Âk-7B
-yak-7b_0;Âk-7B
-yak-7b_1;Âk-7B
-yak-7b_2;Âk-7
+yak-3u_shop;Yak-3U
+yak-3u_0;Yak-3U
+yak-3u_1;Yak-3U
+yak-3u_2;Yak-3
+yak-7b_shop;Yak-7B
+yak-7b_0;Yak-7B
+yak-7b_1;Yak-7B
+yak-7b_2;Yak-7
 lagg-3-35_shop;LaGG-3-35
-lagg-3-35_0;LaGG-3 syeriâ 35
+lagg-3-35_0;LaGG-3 syeriya 35
 lagg-3-35_1;LaGG-3-35
 lagg-3-35_2;LaGG-3
 b_24d_shop;B-24D-25-CO
@@ -23379,11 +23455,11 @@ tu-2_early_0;Tu-2
 tu-2_early_1;Tu-2
 tu-2_early_2;Tu-2
 tu-2_postwar_shop;Tu-2S-44
-tu-2_postwar_0;Tu-2S syeriâ 44
+tu-2_postwar_0;Tu-2S syeriya 44
 tu-2_postwar_1;Tu-2S
 tu-2_postwar_2;Tu-2
 tu-2_postwar_late_shop;Tu-2S-59
-tu-2_postwar_late_0;Tu-2S syeriâ 59
+tu-2_postwar_late_0;Tu-2S syeriya 59
 tu-2_postwar_late_1;Tu-2S
 tu-2_postwar_late_2;Tu-2
 b_26c_france_shop;☨ B-26C-15-MO
@@ -23427,7 +23503,7 @@ f-8e_fn_0;☨ F-8E(FN) Crusader
 f-8e_fn_1;☨ F-8E
 f-8e_fn_2;☨ F-8
 pe-2-1_shop;Pye-2-1
-pe-2-1_0;Pye-2 syeriâ 1 Pyeška
+pe-2-1_0;Pye-2 syeriya 1 Pyeška
 pe-2-1_1;Pye-2
 pe-2-1_2;Pye-2
 mig-15_shop;MiG-15bis
@@ -23491,51 +23567,51 @@ sb_2m_105_0;SB 2M-105
 sb_2m_105_1;SB 2M
 sb_2m_105_2;SB 2M
 pe-2-31_shop;Pye-2-31
-pe-2-31_0;Pye-2 syeriâ 31 Pyeška
+pe-2-31_0;Pye-2 syeriya 31 Pyeška
 pe-2-31_1;Pye-2-31
 pe-2-31_2;Pye-2
 pe-2-83_shop;Pye-2-83
-pe-2-83_0;Pye-2 syeriâ 83 Pyeška
+pe-2-83_0;Pye-2 syeriya 83 Pyeška
 pe-2-83_1;Pye-2-83
 pe-2-83_2;Pye-2
 pe-2-110_shop;Pye-2-110
-pe-2-110_0;Pye-2 syeriâ 110 Pyeška
+pe-2-110_0;Pye-2 syeriya 110 Pyeška
 pe-2-110_1;Pye-2-110
 pe-2-110_2;Pye-2
 pe-2-205_shop;Pye-2-205
-pe-2-205_0;Pye-2 syeriâ 205 Pyeška
+pe-2-205_0;Pye-2 syeriya 205 Pyeška
 pe-2-205_1;Pye-2-205
 pe-2-205_2;Pye-2
 pe-2-359_shop;Pye-2-359
-pe-2-359_0;Pye-2 syeriâ 359 Pyeška
+pe-2-359_0;Pye-2 syeriya 359 Pyeška
 pe-2-359_1;Pye-2-359
 pe-2-359_2;Pye-2
 pe-2-359_china_shop;␗ Pye-2-359
-pe-2-359_china_0;␗ Pye-2 syeriâ 359 Pyeška
+pe-2-359_china_0;␗ Pye-2 syeriya 359 Pyeška
 pe-2-359_china_1;␗ Pye-2-359
 pe-2-359_china_2;␗ Pye-2
 pe-3_shop;Pye-3-2
-pe-3_0;Pye-3 syeriâ 2
+pe-3_0;Pye-3 syeriya 2
 pe-3_1;Pye-3-2
 pe-3_2;Pye-3
 i_29_shop;I-29
 i_29_0;I-29
 i_29_1;I-29
 i_29_2;I-29
-yak-4_shop;Âk-4
-yak-4_0;Âk-4
-yak-4_1;Âk-4
-yak-4_2;Âk-4
-yak_2_kabb_shop;Âk-2 KABB
-yak_2_kabb_0;Âk-2 KABB
-yak_2_kabb_1;Âk-2 KABB
-yak_2_kabb_2;Âk-2
+yak-4_shop;Yak-4
+yak-4_0;Yak-4
+yak-4_1;Yak-4
+yak-4_2;Yak-4
+yak_2_kabb_shop;Yak-2 KABB
+yak_2_kabb_0;Yak-2 KABB
+yak_2_kabb_1;Yak-2 KABB
+yak_2_kabb_2;Yak-2
 pe-3_bis_shop;Pye-3bis
 pe-3_bis_0;Pye-3bis
 pe-3_bis_1;Pye-3bis
 pe-3_bis_2;Pye-3
 pe-3_early_shop;Pye-3-1
-pe-3_early_0;Pye-3 syeriâ 1
+pe-3_early_0;Pye-3 syeriya 1
 pe-3_early_1;Pye-3-1
 pe-3_early_2;Pye-3
 b_25j_30_shop;☨ B-25J-30-NC
@@ -23579,7 +23655,7 @@ f4u-7_0;☨ F4U-7 Corsair
 f4u-7_1;☨ F4U-7
 f4u-7_2;☨ F4U
 mig_3_series_1_15_shop;MiG-3-15
-mig_3_series_1_15_0;MiG-3 syeriâ 15
+mig_3_series_1_15_0;MiG-3 syeriya 15
 mig_3_series_1_15_1;MiG-3-15
 mig_3_series_1_15_2;MiG-3
 h-75a-1_france39_shop;Curtiss H75-C1-39
@@ -23627,69 +23703,69 @@ h-75a-7_0;Hawk H-75A-7
 h-75a-7_1;H-75A
 h-75a-7_2;H-75
 lagg-3-1_shop;LaGG-3-1
-lagg-3-1_0;LaGG-3 syeriâ 1
+lagg-3-1_0;LaGG-3 syeriya 1
 lagg-3-1_1;LaGG-3-1
 lagg-3-1_2;LaGG-3
 lagg-3-11_shop;LaGG-3-11
-lagg-3-11_0;LaGG-3 syeriâ 11
+lagg-3-11_0;LaGG-3 syeriya 11
 lagg-3-11_1;LaGG-3-11
 lagg-3-11_2;LaGG-3
 lagg-3-23_shop;LaGG-3-23
-lagg-3-23_0;LaGG-3 syeriâ 23
+lagg-3-23_0;LaGG-3 syeriya 23
 lagg-3-23_1;LaGG-3-23
 lagg-3-23_2;LaGG-3
 lagg-3-29_shop;LaGG-3-29
-lagg-3-29_0;LaGG-3 syeriâ 29
+lagg-3-29_0;LaGG-3 syeriya 29
 lagg-3-29_1;LaGG-3-29
 lagg-3-29_2;LaGG-3
 lagg-3-34_shop;LaGG-3-34
-lagg-3-34_0;LaGG-3 syeriâ 34
+lagg-3-34_0;LaGG-3 syeriya 34
 lagg-3-34_1;LaGG-3-34
 lagg-3-34_2;LaGG-3
 lagg-3-4_shop;LaGG-3-4
-lagg-3-4_0;LaGG-3 syeriâ 4
+lagg-3-4_0;LaGG-3 syeriya 4
 lagg-3-4_1;LaGG-3
 lagg-3-4_2;LaGG-3
 lagg-3-66_shop;LaGG-3-66
-lagg-3-66_0;LaGG-3 syeriâ 66
+lagg-3-66_0;LaGG-3 syeriya 66
 lagg-3-66_1;LaGG-3-66
 lagg-3-66_2;LaGG-3
 lagg-3-8_shop;LaGG-3-8
-lagg-3-8_0;LaGG-3 syeriâ 8
+lagg-3-8_0;LaGG-3 syeriya 8
 lagg-3-8_1;LaGG-3-8
 lagg-3-8_2;LaGG-3
 la-5_type37_early_shop;La-5-37
-la-5_type37_early_0;La-5 Tip 37, syeriâ 8
+la-5_type37_early_0;La-5 Tip 37, syeriya 8
 la-5_type37_early_1;La-5-37
 la-5_type37_early_2;La-5
 la-5_type39_shop;La-5-39
 la-5_type39_0;La-5 Tip 39
 la-5_type39_1;La-5-39
 la-5_type39_2;La-5
-yak-9k_shop;Âk-9K
-yak-9k_0;Âk-9K
-yak-9k_1;Âk-9K
-yak-9k_2;Âk-9
+yak-9k_shop;Yak-9K
+yak-9k_0;Yak-9K
+yak-9k_1;Yak-9K
+yak-9k_2;Yak-9
 lagg-i-301_shop;I-301
 lagg-i-301_0;I-301
 lagg-i-301_1;I-301
 lagg-i-301_2;I-301
-yak-17_shop;Âk-17
-yak-17_0;Âk-17
-yak-17_1;Âk-17
-yak-17_2;Âk-17
-yak-3p_shop;Âk-3P
-yak-3p_0;Âk-3P
-yak-3p_1;Âk-3P
-yak-3p_2;Âk-3
-yak-9u_shop;Âk-9U
-yak-9u_0;Âk-9U
-yak-9u_1;Âk-9U
-yak-9u_2;Âk-9
-yak-9ut_shop;Âk-9UT
-yak-9ut_0;Âk-9UT
-yak-9ut_1;Âk-9UT
-yak-9ut_2;Âk-9
+yak-17_shop;Yak-17
+yak-17_0;Yak-17
+yak-17_1;Yak-17
+yak-17_2;Yak-17
+yak-3p_shop;Yak-3P
+yak-3p_0;Yak-3P
+yak-3p_1;Yak-3P
+yak-3p_2;Yak-3
+yak-9u_shop;Yak-9U
+yak-9u_0;Yak-9U
+yak-9u_1;Yak-9U
+yak-9u_2;Yak-9
+yak-9ut_shop;Yak-9UT
+yak-9ut_0;Yak-9UT
+yak-9ut_1;Yak-9UT
+yak-9ut_2;Yak-9
 fw-190d-9_ussr_shop;▂ Fw 190 D-9
 fw-190d-9_ussr_0;▂ Fw 190 D-9
 fw-190d-9_ussr_1;▂ Fw 190 D
@@ -23707,21 +23783,21 @@ i-16_type27_0;I-16 Tip 27 Ishak
 i-16_type27_1;I-16 Tip 27
 i-16_type27_2;I-16
 mig_3_series_34_shop;MiG-3-34
-mig_3_series_34_0;MiG-3 syeriâ 34
+mig_3_series_34_0;MiG-3 syeriya 34
 mig_3_series_34_1;MiG-3-34
 mig_3_series_34_2;MiG-3
 hs-129b-2_romania_italy_shop;╏ Hs 129 B-2
 hs-129b-2_romania_italy_0;╏ Hs 129 B-2
 hs-129b-2_romania_italy_1;╏ Hs 129 B
 hs-129b-2_romania_italy_2;╏ Hs 129
-yak-9_shop;Âk-9
-yak-9_0;Âk-9
-yak-9_1;Âk-9
-yak-9_2;Âk-9
-yak-1_early_shop;Âk-1-1
-yak-1_early_0;Âk-1 syeriâ 1
-yak-1_early_1;Âk-1
-yak-1_early_2;Âk-1
+yak-9_shop;Yak-9
+yak-9_0;Yak-9
+yak-9_1;Yak-9
+yak-9_2;Yak-9
+yak-1_early_shop;Yak-1-1
+yak-1_early_0;Yak-1 syeriya 1
+yak-1_early_1;Yak-1
+yak-1_early_2;Yak-1
 i-16_type5_shop;I-16 Tip 5
 i-16_type5_0;I-16 Tip 5 Ishak
 i-16_type5_1;I-16
@@ -23734,10 +23810,10 @@ i-16_type10_shop;I-16 Tip 10
 i-16_type10_0;I-16 Tip 10 Ishak
 i-16_type10_1;I-16
 i-16_type10_2;I-16
-yak-9b_shop;Âk-9B
-yak-9b_0;Âk-9B
-yak-9b_1;Âk-9
-yak-9b_2;Âk-9
+yak-9b_shop;Yak-9B
+yak-9b_0;Yak-9B
+yak-9b_1;Yak-9
+yak-9b_2;Yak-9
 pe-8_m82_shop;Pye-8
 pe-8_m82_0;Pye-8
 pe-8_m82_1;Pye-8
@@ -23750,22 +23826,22 @@ mig-17_shop;MiG-17
 mig-17_0;MiG-17
 mig-17_1;MiG-17
 mig-17_2;MiG-17
-yak-30d_shop;Âk-30D
-yak-30d_0;Âk-30D
-yak-30d_1;Âk-30D
-yak-30d_2;Âk-30
-yak-38_shop;Âk-38
-yak-38_0;Âk-38
-yak-38_1;Âk-38
-yak-38_2;Âk-38
-yak-38m_shop;Âk-38M
-yak-38m_0;Âk-38M
-yak-38m_1;Âk-38M
-yak-38m_2;Âk-38
-yak-28b_shop;Âk-28B
-yak-28b_0;Âk-28B
-yak-28b_1;Âk-28B
-yak-28b_2;Âk-28
+yak-30d_shop;Yak-30D
+yak-30d_0;Yak-30D
+yak-30d_1;Yak-30D
+yak-30d_2;Yak-30
+yak-38_shop;Yak-38
+yak-38_0;Yak-38
+yak-38_1;Yak-38
+yak-38_2;Yak-38
+yak-38m_shop;Yak-38M
+yak-38m_0;Yak-38M
+yak-38m_1;Yak-38M
+yak-38m_2;Yak-38
+yak-28b_shop;Yak-28B
+yak-28b_0;Yak-28B
+yak-28b_1;Yak-28B
+yak-28b_2;Yak-28
 tu_4_shop;Tu-4
 tu_4_0;Tu-4
 tu_4_1;Tu-4
@@ -24122,14 +24198,14 @@ ms_406c1_shop;M.S.406-C1
 ms_406c1_0;M.S.406-C1
 ms_406c1_1;M.S.406-C1
 ms_406c1_2;M.S.406
-yak-23_shop;Âk-23
-yak-23_0;Âk-23
-yak-23_1;Âk-23
-yak-23_2;Âk-23
-yak-3_france_shop;☨ Âk-3
-yak-3_france_0;☨ Âk-3
-yak-3_france_1;☨ Âk-3
-yak-3_france_2;☨ Âk-3
+yak-23_shop;Yak-23
+yak-23_0;Yak-23
+yak-23_1;Yak-23
+yak-23_2;Yak-23
+yak-3_france_shop;☨ Yak-3
+yak-3_france_0;☨ Yak-3
+yak-3_france_1;☨ Yak-3
+yak-3_france_2;☨ Yak-3
 md_454_mystere_4a_shop;Mystère IV A
 md_454_mystere_4a_0;M.D.454 Mystère IV A
 md_454_mystere_4a_1;Mystère IV A

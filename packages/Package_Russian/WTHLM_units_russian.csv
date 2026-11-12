@@ -30,6 +30,12 @@ ussr_ai_sam_launcher_9a310_2;SPAAM
 ussr_ai_sam_launcher_9a310m1_0;Самоходная огневая установка 9А310М1 «Бук-М1»
 ussr_ai_sam_launcher_9a310m1_1;9А310М1
 ussr_ai_sam_launcher_9a310m1_2;SPAAM
+ussr_ai_tbm_9k720_m_iskander_0;Самоходная пусковая установка 9П78-1
+ussr_ai_tbm_9k720_m_iskander_1;9П78-1
+ussr_ai_tbm_9k720_m_iskander_2;TBM
+ussr_ai_tbm_9k720_k_iskander_0;Самоходная пусковая установка 9П78-1
+ussr_ai_tbm_9k720_k_iskander_1;9П78-1
+ussr_ai_tbm_9k720_k_iskander_2;TBM
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;Автомобиль КАМАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_1;КАМАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_2;Transport
@@ -188,6 +194,27 @@ la_174_1;174
 la_174_2;174
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+mig-21_pfm_shop;МиГ-21ПФМ
+mig-21_pfm_0;"<color=#81c3fc>Горьковский авиационный завод им. Орджоникидзе</color>
+<color=#5cae63>изд. 94</color>
+Самолёт МиГ-21ПФМ"
+mig-21_pfm_1;МиГ-21ПФМ
+mig-21_pfm_2;МиГ-21
+
+mig-21_bis_shop;МиГ-21бис
+mig-21_bis_0;"<color=#81c3fc>Московский машиностроительный завод им. А. И. Микояна</color>
+<color=#5cae63>изд. 75</color>
+Самолёт МиГ-21бис"
+mig-21_bis_1;МиГ-21бис
+mig-21_bis_2;МиГ-21
+
+mig-21_bis_event_shop;МиГ-21бис
+mig-21_bis_event_0;"<color=#81c3fc>Московский машиностроительный завод им. А. И. Микояна</color>
+<color=#5cae63>изд. 75</color>
+Самолёт МиГ-21бис"
+mig-21_bis_event_1;МиГ-21бис
+mig-21_bis_event_2;МиГ-21
+
 su_15tm_shop;Су-15ТМ
 su_15tm_0;"<color=#81c3fc>Завод № 153 им. В. П. Чкалова</color>
 <color=#5cae63>изд. 37</color>
@@ -230,20 +257,6 @@ nt_tu_95m_1;☢ Ту-95М
 nt_tu_95m_2;☢ Ту-95
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
-mig-21_bis_shop;МиГ-21бис
-mig-21_bis_0;"<color=#81c3fc>Московский машиностроительный завод им. А. И. Микояна</color>
-<color=#5cae63>изд. 75</color>
-Самолёт МиГ-21бис"
-mig-21_bis_1;МиГ-21бис
-mig-21_bis_2;МиГ-21
-
-mig-21_bis_event_shop;МиГ-21бис
-mig-21_bis_event_0;"<color=#81c3fc>Московский машиностроительный завод им. А. И. Микояна</color>
-<color=#5cae63>изд. 75</color>
-Самолёт МиГ-21бис"
-mig-21_bis_event_1;МиГ-21бис
-mig-21_bis_event_2;МиГ-21
-
 mig_23mld_shop;МиГ-23МЛД
 mig_23mld_0;"<color=#81c3fc>Московское авиационное производственное объединение</color>
 <color=#5cae63>изд. 23-18</color>
@@ -463,6 +476,18 @@ germ_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commo
 ◄ Panzerwagen Garford (Beute)"
 germ_garford_putilov_1;◄ Pzw. Garford (Beute)
 germ_garford_putilov_2;Armored Car
+
+uk_garford_putilov_shop;Гарфорд
+uk_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Путиловский завод</color>
+Бронированный 4-тонный автомобиль «Гарфорд»"
+uk_garford_putilov_1;Гарфорд
+uk_garford_putilov_2;Armored Car
+
+uk_garford_putilov_event_shop;Гарфорд
+uk_garford_putilov_event_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Путиловский завод</color>
+Бронированный 4-тонный автомобиль «Гарфорд»"
+uk_garford_putilov_event_1;Гарфорд
+uk_garford_putilov_event_2;Armored Car
 
 ussr_bt_7_m_shop;БТ-7М
 ussr_bt_7_m_0;"<color=#81c3fc>Харьковский танковый завод № 183 им. Коминтерна</color>
@@ -713,6 +738,14 @@ ussr_t_80um2_0;"<color=#81c3fc>Кировский завод</color>
 <color=#adadad>(Дрозд)</color>"
 ussr_t_80um2_1;Т-80У
 ussr_t_80um2_2;MBT
+
+ussr_btr_90_2004_shop;БТР-90 (Б05Я01)
+ussr_btr_90_2004_0;"<color=#81c3fc>Горьковский автомобильный завод ГАЗ-5923 <color=@commonTextColor>/</color> Арзамасский
+машиностроительный завод</color>
+Бронетранспортер БТР-90
+<color=#adadad>(Боевое отделение Б05Я01 «Бережок»)</color>"
+ussr_btr_90_2004_1;БТР-90
+ussr_btr_90_2004_2;IFV
 
 ussr_bmpt_shop;БМПТ (2002)
 ussr_bmpt_0;"<color=#81c3fc>Производственное объединение «Уралвагонзавод» им. Ф. Э.

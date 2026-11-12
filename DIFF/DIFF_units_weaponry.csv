@@ -1,24 +1,54 @@
 <ID|readonly|noverify>;<English>
+weapons/us_cbu_58b;CBU-58/B Combined Effects Munition
+weapons/us_cbu_58b/short;CBU-58/B
 weapons/us_cbu_87b;CBU-87/B Combined Effects Munition
 weapons/us_cbu_87b/short;CBU-87/B
+weapons/uk_600lb_bl755;BL755 Combined Effects Munition
+weapons/uk_600lb_bl755/short;BL755
 weapons/fr_blg66_belouga;BLG66 Combined Effects Munition
 weapons/fr_blg66_belouga/short;BLG66
 weapons/su_fab_250tseka;250 kg FAB-250tseka bomb
 weapons/su_fab_250tseka/short;FAB-250tseka
+weapons/su_rbk_500_ao_2_5rtm;500 kg RBK-500 Combined Effects Munition
+weapons/su_rbk_500_ao_2_5rtm/short;RBK-500
+weapons/su_rbk_500_ptab;500 kg RBK-500-PTAB Combined Effects Munition
+weapons/su_rbk_500_ptab/short;RBK-500-PTAB
 weapons/cn_type130_he;Type 130-1A rockets
 weapons/cn_type130_he/short;Type 130-1A
+weapons/su_hod_pod;Khod targeting pod
+weapons/su_hod_pod/short;Khod
 weapons/cn_760l_q_5d_drop_tank_l;Drop tank (760 liters)
 weapons/cn_760l_q_5d_drop_tank_l/short;Drop tank
 weapons/cn_760l_q_5d_drop_tank_r;Drop tank (760 liters)
 weapons/cn_760l_q_5d_drop_tank_r/short;Drop tank
 weapons/us_500lb_anm64a1_default;500 lb AN-M64A1 bomb
+105mm_fs_mk1;FS Mk.1
+105mm_fs_mk3;FS Mk.3
+weapons/30mm_zpt_02_zbd_04_user_cannon;30 mm ZPZ02 cannon
+rocket/warhead/cluster;Cluster
+missile/guidance/ir+MITL;IR+MITL
+missile/guidance/ir+IOG+MITL;IR+IOG+MITL
+missile/guidance/ir+IOG+GNSS+MITL;IR+IOG+GNSS+MITL
+missile/guidance/tv+MITL;TV+MITL
+missile/guidance/tv+IOG+MITL;TV+IOG+MITL
+missile/guidance/tv+IOG+GNSS+MITL;TV+IOG+GNSS+MITL
 explosiveType/cyclotol_70_30;Cyclotol
 explosiveType/detonite_tnt;Detonite and TNT
 explosiveType/pbxn_10;PBXN-10
 explosiveType/pbxih_18;PBXIH-18
 explosiveType/pbxw_11;PBXW-11
 explosiveType/dpx_6;DPX-104
+weapons/cn_250_3_cluster/short;250-3
+weapons/cn_250_3_cluster;250 kg 250-3 cluster bomb
 weapons/us_500lb_anm64a1_default/short;AN-M64 500 lb
+weapons/sws_flz_lwf_63_90;Flz Lwf 63/90 air-to-air missiles
+weapons/sws_flz_lwf_63_90/short;Flz Lwf 63/90
+weapons/170mm_tkb_1055_container;AAM TKB-1055
+weapons/170mm_tkb_1055_container/short;TKB-1055
+weapons/spike_er_wo_mitl;Spike ER air-to-ground missiles
+weapons/spike_er_wo_mitl/short;Spike ER
+weapons/spike_nlos_wo_mitl;Spike NLOS air-to-ground missiles
+weapons/spike_nlos_wo_mitl/short;Spike NLOS
 weapons/us_aim_26b;AIM-26B Falcon air-to-air missiles
 weapons/us_aim_26b/short;AIM-26B
 weapons/su_r_98mr;R-98MR air-to-air missiles
@@ -29,7 +59,11 @@ weapons/su_r_98mt;R-98MT air-to-air missiles
 weapons/su_r_98mt/short;R-98MT
 weapons/su_r_98mt_default;R-98MT air-to-air missiles
 weapons/su_r_98mt_default/short;R-98MT
+weapons/cn_cm_502kg_he_wo_mitl;CM-502KG air-to-ground missiles
+weapons/cn_cm_502kg_he_wo_mitl/short;CM-502KG
 weapons/30mm_Bushmaster_2_Mk_44_cm34_user_cannon;30 mm Bushmaster 2 Mk.44 cannon
+weapons/152mm_6inch_47_mk_17_naval_user_cannon;6 inch/47 Mk.17 naval gun
+152mm_47_mk_28_common;6 inch Mk.28 Common
 weapons/406mm_52_skc_34_naval_user_cannon;41 cm/52 SK C/34 cannon
 weapons/germ_406mm_skc34;41 cm SK C/34 naval gun
 406mm_psgr_l_44_ap;406 mm Psgr. L/4.4
@@ -37,12 +71,57 @@ weapons/germ_406mm_skc34;41 cm SK C/34 naval gun
 406mm_spgr_l_48;406 mm Spgr. L/4.8 Kz
 weapons/75mm_40_m3_naval_user_cannon;75 mm/40 M3 cannon
 weapons/7_62mm_m1919_browning;7.62 mm M1919A4 machine gun
+weapons/127mm_62_mk45_mod4_naval_user_cannon;5 inch/62 Mk.45 Mod.4 cannon
+weapons/130mm_70_hpj45_naval_user_cannon;130 mm/70 H/PJ-45 cannon
+130mm_cn_he_vt;130 mm HE-VT
+weapons/30mm_hpj11_naval_user_cannon;30 mm H/PJ-11 (Type 1130)
+weapons/20mm_m61_phalanx_block1b_naval_user_cannon;20 mm Mk.15 Phalanx Block 1B
+weapons/20mm_m61_phalanx_block1b_naval_user_cannon/short;20 mm Phalanx
+weapons/su_lmur_wo_mitl;"LMUR ""Izdeliye 305"" missiles"
+weapons/su_lmur_wo_mitl/short;LMUR
 weapons/127mm_54_oto_melara_compact_naval_user_cannon;127 mm/54 OTO-Melara Compact cannon
 127mm_54_it_mk42_mod0_common;127 mm SP Mk.42 common
 127mm_54_it_hc_mk41_mod0;127 mm HC Mk.41
 127mm_54_it_vt_hc_mk41;127 mm HC-VT Mk.41
 weapons/it_533mm_a184_torpedo;533 mm A184 torpedo
 weapons/it_533mm_a184_torpedo/short;A184
+weapons/rocket_hhq10_naval_rocket_launcher;HHQ-10 missile launcher
+weapons/rocket_hhq10_naval_rocket_launcher/short;HHQ-10
+cn_hhq_10;HHQ-10
+weapons/cn_hhq_10;HHQ-10 SAM
+weapons/cn_hhq_10/short;HHQ-10
+weapons/rocket_hhq9_vls_naval_rocket_launcher;HHQ-9 missile launcher
+weapons/rocket_hhq9_vls_naval_rocket_launcher/short;HHQ-9
+cn_hhq_9;HHQ-9
+weapons/cn_hhq_9;HHQ-9 SAM
+weapons/cn_hhq_9/short;HHQ-9
+weapons/rocket_hhq16_vls_naval_rocket_launcher;HHQ-16 missile launcher
+weapons/rocket_hhq16_vls_naval_rocket_launcher/short;HHQ-16
+cn_hhq_16;HHQ-16
+weapons/cn_hhq_16;HHQ-16 SAM
+weapons/cn_hhq_16/short;HHQ-16
+weapons/rocket_rim174_sm6_vls_naval_rocket_launcher;Mk.41 missile launcher (SM-6)
+weapons/rocket_rim174_sm6_vls_naval_rocket_launcher/short;Mk.41
+us_rim_174_sm_6;SM-6
+weapons/us_rim_174_sm_6;RIM-174 SM-6 SAM
+weapons/us_rim_174_sm_6/short;SM-6
+weapons/rocket_rim162_essm_block2_naval_rocket_launcher;Mk.29 missile launcher (ESSM Block 2)
+weapons/rocket_rim162_essm_block2_naval_rocket_launcher/short;Mk.29
+us_rim_162_essm_block2;ESSM Block 2
+weapons/us_rim_162_essm_block2;RIM-162 ESSM Block 2 SAM
+weapons/us_rim_162_essm_block2/short;ESSM Block 2
+weapons/rocket_rim66m_sm2_block3b_vls_naval_rocket_launcher;Mk.41 missile launcher (SM-2MR Block IIIB)
+weapons/rocket_rim66m_sm2_block3b_vls_naval_rocket_launcher/short;Mk.41
+us_rim_66m_sm_2;SM-2MR Block IIIB
+weapons/us_rim_66m_sm_2;RIM-66M SM-2MR Block IIIB SAM
+weapons/us_rim_66m_sm_2/short;SM-2MR Block IIIB
+weapons/rocket_rim116c_ram_naval_rocket_launcher;Mk.49 RAM missile launcher
+weapons/rocket_rim116c_ram_naval_rocket_launcher/short;Mk.49
+us_rim_116c;RIM-116C RAM
+weapons/us_rim_116c;RIM-116C RAM SAM
+weapons/us_rim_116c/short;RAM
+weapons/us_rim_116b;RIM-116B RAM SAM
+weapons/us_rim_116b/short;RAM
 weapons/depth_charge_fr_guiraud_200;Guiraud 200kg depth charge
 weapons/depth_charge_fr_guiraud_200/short;Guiraud 200kg
 weapons/130mm_45_model_1935_naval_user_cannon;130 mm/45 model 1935 gun

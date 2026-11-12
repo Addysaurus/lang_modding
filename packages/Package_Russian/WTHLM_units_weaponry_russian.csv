@@ -1,34 +1,34 @@
 <ID|readonly|noverify>;<English>
 //GUNS
-weapons/gun_pk3l;<color=@userlogColoredText>7.62 mm</color> 6P6 | ПК <color=#ff6f00>MG</color>
+weapons/gun_pk3l;6P6 | ПК
 weapons/gun_pk3/shortl;ПК
-weapons/cannon_am23_tu_95_turret;<color=@userlogColoredText>23 mm</color> 9-А-037 | 23-мм система оборонительного пушечного вооружения ПВ-23-Ту-95 <color=#ff6f00>ACNN</color>
+weapons/cannon_am23_tu_95_turret;9-А-037 | 23-мм система оборонительного пушечного вооружения ПВ-23-Ту-95
 weapons/25mm_79_110pm_naval_user_cannon;"Артиллерийская установка БЛ-120-I
-• <color=@userlogColoredText>25 mm</color> 25-мм Автомата 110-ПМ <color=#ff6f00>ACNN</color>"
-weapons/cannonGSh_6_23M_gun_pod;<color=@userlogColoredText>30 mm</color> 30-мм Автоматическая пушка ГШ-6-23М <color=#ff6f00>ACNN</color>
+• 25-мм Автомата 110-ПМ"
+weapons/cannonGSh_6_23M_gun_pod;30-мм Автоматическая пушка ГШ-6-23М
 weapons/cannonGSh_6_23M_gun_pod/short;ГШ-6-23М
-weapons/cannonGSh_6_23M_gun_pod_turret;<color=@userlogColoredText>30 mm</color> 30-мм Автоматическая пушка ГШ-6-23М <color=#ff6f00>ACNN</color>
+weapons/cannonGSh_6_23M_gun_pod_turret;30-мм Автоматическая пушка ГШ-6-23М
 weapons/cannonGSh_6_23M_gun_pod_turret/short;ГШ-6-23М
-weapons/30mm_2A42_BMPT_user_cannon;<color=@userlogColoredText>30 mm</color> 30-мм Автоматическая пушка 2А42.00.000 <color=#ff6f00>ACNN</color>
-weapons/30mm_AG_30_user_cannon;<color=@userlogColoredText>30 mm</color> 30-мм Автоматический гранатометный комплекс АГС-30М.00.000 <color=#ff6f00>LCH-GRN</color>
+weapons/30mm_2A42_BMPT_user_cannon;30-мм Автоматическая пушка 2А42.00.000
+weapons/30mm_AG_30_user_cannon;30-мм Автоматический гранатометный комплекс АГС-30М.00.000
 weapons/57mm_ak_157_naval_user_cannon;"Артиллерийская установка АК-157
-• <color=@userlogColoredText>57 mm</color> 57-мм Одноорудийная палубная установка ЗиФ-71 <color=#ff6f00>ACNN</color>"
+• 57-мм Одноорудийная палубная установка ЗиФ-71"
 weapons/57mm_ak_157_naval_user_cannon/short;ЗиФ-71
-weapons/76mm_F32_user_cannon;<color=@userlogColoredText>76.2 mm</color> 52-ПТ-354А1 | 76-мм танковая пушка Ф-32 обр. 1939 г. <color=#ff6f00>CNN</color>
-weapons/85mm_Type_56_user_cannon;<color=@userlogColoredText>85 mm</color> 52-ПТ-365 | ЗиС-С-53 обр. 1944 г. <color=#ff6f00>CNN</color>
-weapons/100mm_D10T_416_user_cannon;<color=@userlogColoredText>100 mm</color> 100-мм противотанковая пушка М-63 <color=#ff6f00>CNN</color>
-weapons/100mm_2A70_BMP_autoloader_user_cannon;<color=@userlogColoredText>100 mm</color> 2А70 <color=#ff6f00>CNN</color>
-weapons/125mm_2A46_M5_t_90m_user_cannon;<color=@userlogColoredText>125 mm</color> 125-мм танковая пушка 2А46М-5 <color=#ff6f00>CNN</color>
-weapons/125mm_2A46_M5_T_90A_user_cannon;<color=@userlogColoredText>125 mm</color> 125-мм танковая пушка 2А46М-5 <color=#ff6f00>CNN</color>
-weapons/125mm_2A46_M5_user_cannon;<color=@userlogColoredText>125 mm</color> 125-мм танковая пушка 2А46М-5-01 <color=#ff6f00>CNN</color>
+weapons/76mm_F32_user_cannon;52-ПТ-354А1 | 76-мм танковая пушка Ф-32 обр. 1939 г.
+weapons/85mm_Type_56_user_cannon;52-ПТ-365 | ЗиС-С-53 обр. 1944 г.
+weapons/100mm_D10T_416_user_cannon;100-мм противотанковая пушка М-63
+weapons/100mm_2A70_BMP_autoloader_user_cannon;2А70
+weapons/125mm_2A46_M5_t_90m_user_cannon;125-мм танковая пушка 2А46М-5
+weapons/125mm_2A46_M5_T_90A_user_cannon;125-мм танковая пушка 2А46М-5
+weapons/125mm_2A46_M5_user_cannon;125-мм танковая пушка 2А46М-5-01
 weapons/130mm_58_bl_109a_naval_user_cannon;"Артиллерийская установка БЛ-109А
-• <color=@userlogColoredText>130 mm</color> 130-мм/58 Корабельная пушка ЗиФ-68-1 <color=#ff6f00>CNN</color>"
-weapons/152mm_ML20S_user_cannon;<color=@userlogColoredText>152 mm</color> 52-ПС-544С | МЛ-20С обр. 1937/43 гг. <color=#ff6f00>CNN-HWZ</color>
-weapons/305mm_52_obr1907_mariya_naval_user_cannon;<color=@userlogColoredText>305 mm</color> 305-мм/52 обр. 1907 г. <color=#ff6f00>CNN</color>
+• 130-мм/58 Корабельная пушка ЗиФ-68-1"
+weapons/152mm_ML20S_user_cannon;52-ПС-544С | МЛ-20С обр. 1937/43 гг.
+weapons/305mm_52_obr1907_mariya_naval_user_cannon;305-мм/52 обр. 1907 г.
 weapons/305mm_62_sm_33_obr1948_naval_user_cannon;"Артиллерийская установка СМ-31 обр. 1948 г.
-• <color=@userlogColoredText>305 mm</color> 305-мм/62 Качающимися частями СМ-33 <color=#ff6f00>CNN</color>"
-weapons/406mm_50_b37_naval_user_cannon;<color=@userlogColoredText>406 mm</color> 406-мм/50 Б-37 обр. 1937 г. <color=#ff6f00>CNN</color>
-weapons/ato_41_flamethrower;Автоматический танко­вый огнемет АТО-41 <color=#ff6f00>FLM</color>
+• 305-мм/62 Качающимися частями СМ-33"
+weapons/406mm_50_b37_naval_user_cannon;406-мм/50 Б-37 обр. 1937 г.
+weapons/ato_41_flamethrower;Автоматический танко­вый огнемет АТО-41
 
 //GUN AMMUNITION
 30mm_UOF23;3УОФ23
@@ -43,139 +43,153 @@ weapons/ato_41_flamethrower;Автоматический танко­вый ог
 406mm_obr1915_28_apcbc;БР обр. 1915/28 гг.
 
 //BOMBS
-weapons/su_fab100_short_fin;<color=@userlogColoredText>103.5 kg</color> ФАБ-100св <color=#ff6f00>BMB</color>
+weapons/su_fab100_short_fin;ФАБ-100св
 weapons/su_fab100_short_fin/short;ФАБ-100св
 weapons/su_ofab_100_120;ОФАБ-100-120
 weapons/su_ofab_100_120/short;ОФАБ-100-120
 weapons/su_ofab100m;ОФАБ-100М
 weapons/su_ofab100m/short;ОФАБ-100М
+weapons/su_fab_250tseka;250-кг авиабомба ФАБ-250цк
+weapons/su_fab_250tseka/short;ФАБ-250цк
 weapons/su_ofab_250_270;ОФАБ-250-270
 weapons/su_ofab_250_270/short;ОФАБ-250-270
-weapons/su_kab_250lg_e;<color=@userlogColoredText>256 kg</color> Корректируемая авиационная бомба КАБ-250ЛГ-Э <color=#ff6f00>BMB-LG</color>
+weapons/su_kab_250lg_e;Корректируемая авиационная бомба КАБ-250ЛГ-Э
 weapons/su_kab_250lg_e/short;КАБ-250ЛГ-Э
-weapons/su_kab_500lg_e;<color=@userlogColoredText>560 kg</color> Корректируемая авиационная бомба КАБ-500ЛГ-Э <color=#ff6f00>BMB-LG</color>
+weapons/su_rbk_500_ao_2_5rtm;500-кг разовая бомбовая кассета РБК-500 (2,5-кг авиабомба осколочная АО-2,5РТМ)
+weapons/su_rbk_500_ao_2_5rtm/short;РБК-500 (АО-2,5РТМ)
+weapons/su_rbk_500_ptab;500-кг разовая бомбовая кассета РБК-500 (1-кг противотанковая авиационная бомба ПТАБ-1М)
+weapons/su_rbk_500_ptab/short;РБК-500 (ПТАБ-1М)
+weapons/su_kab_500lg_e;Корректируемая авиационная бомба КАБ-500ЛГ-Э
 weapons/su_kab_500lg_e/short;КАБ-500ЛГ-Э
-weapons/su_upab_500b_e;<color=@userlogColoredText>505 kg</color> К08БЭ | Управляемая планирующая авиационная бомба УПАБ-500Б-Э <color=#ff6f00>BMB-GNSS</color>
+weapons/su_upab_500b_e;К08БЭ | Управляемая планирующая авиационная бомба УПАБ-500Б-Э
 weapons/su_upab_500b_e/short;УПАБ-500Б-Э
-weapons/su_grom_2;<color=@userlogColoredText>598 kg</color> 9-А1-7759 | Планирующий управляемый боеприпас Х-36 «Гром-Э2» <color=#ff6f00>BMB-GNSS</color>
+weapons/su_grom_2;9-А1-7759 | Планирующий управляемый боеприпас Х-36 «Гром-Э2»
 weapons/su_grom_2/short;Х-36 «Гром-Э2»
-weapons/su_grom_e2;<color=@userlogColoredText>598 kg</color> 9-А1-7759 | Планирующий управляемый боеприпас Х-36 «Гром-Э2» <color=#ff6f00>BMB-GNSS</color>
+weapons/su_grom_e2;9-А1-7759 | Планирующий управляемый боеприпас Х-36 «Гром-Э2»
 weapons/su_grom_e2/short;Х-36 «Гром-Э2»
-weapons/su_kab_1500lg_e;<color=@userlogColoredText>1525 kg</color> Корректируемая авиационная бомба КАБ-1500ЛГ-Э <color=#ff6f00>BMB-LG</color>
+weapons/su_kab_1500lg_e;Корректируемая авиационная бомба КАБ-1500ЛГ-Э
 weapons/su_kab_1500lg_e/short;КАБ-1500ЛГ-Э
-weapons/su_upab_1500b_e;<color=@userlogColoredText>1525 kg</color> К029БЭ | Управляемая планирующая авиационная бомба УПАБ-1500Б-Э <color=#ff6f00>BMB-GNSS</color>
+weapons/su_upab_1500b_e;К029БЭ | Управляемая планирующая авиационная бомба УПАБ-1500Б-Э
 weapons/su_upab_1500b_e/short;УПАБ-1500Б-Э
-weapons/su_fab5000_m54;<color=@userlogColoredText>5247 kg</color> 5000-кг авиабомба ФАБ-5000М-54 <color=#ff6f00>BMB</color>
+weapons/su_fab5000_m54;5000-кг авиабомба ФАБ-5000М-54
 weapons/su_fab5000_m54/short;ФАБ-5000М-54
-weapons/su_fab9000;<color=@userlogColoredText>9407 kg</color> 9000-кг авиабомба ФАБ-9000 <color=#ff6f00>BMB</color>
+weapons/su_fab9000;9000-кг авиабомба ФАБ-9000
 weapons/su_fab9000/short;ФАБ-9000
-weapons/su_rn_28;<color=@userlogColoredText>2983 kg</color> ☢ Специальная авиабомба РН28 <color=#ff6f00>BMB-ATM</color>
+weapons/su_rn_28;☢ Специальная авиабомба РН28
 weapons/su_rn_28/short;☢ РН28
-weapons/su_rn_28_nt;<color=@userlogColoredText>5 kt</color> ☢ Специальная авиабомба РН28 <color=#ff6f00>BMB-ATM</color>
+weapons/su_rn_28_nt;☢ Специальная авиабомба РН28
 weapons/su_rn_28_nt/short;☢ РН28
-weapons/su_rn_40;<color=@userlogColoredText>30 kt</color> ☢ Специальная авиабомба РН40 <color=#ff6f00>BMB-ATM</color>
+weapons/su_rn_40;☢ Специальная авиабомба РН40
 weapons/su_rn_40/short;☢ РН40
-weapons/su_rds37;<color=@userlogColoredText>1.6 mt</color> ☢ Специальная боевая часть РДС-37 <color=#ff6f00>BMB-ATM</color>
+weapons/su_rds37;☢ Специальная боевая часть РДС-37
 weapons/su_rds37/short;☢ РДС-37
-weapons/su_rds4_5kt_nt;"<color=@userlogColoredText>5 kt</color> ☢ изд. 244Н | Тактическая атомная бомба 8У69 «Татьяна» (Заряд РДС-4Т) <color=#ff6f00>BMB-ATM</color>"
+weapons/su_rds4_5kt_nt;"☢ изд. 244Н | Тактическая атомная бомба 8У69 «Татьяна» (Заряд РДС-4Т)"
 weapons/su_rds4_5kt_nt/short;☢ 8У69 (РДС-4Т) (5 kt)
-weapons/su_rds4_30kt_nt;"<color=@userlogColoredText>30 kt</color> ☢ изд. 244Н | Тактическая атомная бомба 8У69 «Татьяна» (Заряд РДС-4Т) <color=#ff6f00>BMB-ATM</color>"
+weapons/su_rds4_30kt_nt;"☢ изд. 244Н | Тактическая атомная бомба 8У69 «Татьяна» (Заряд РДС-4Т)"
 weapons/su_rds4_30kt_nt/short;☢ 8У69 (РДС-4Т) (30 kt)
 
 //ROCKETS
 weapons/57mm_s_5kp;9-А-608 | Неуправляемая авиационная ракета С-5КП
 weapons/57mm_s_5kp/short;С-5КП
-weapons/57mm_ub_16_user_cannon;Универсальный блок УБ-16-57УМП <color=#ff6f00>LCH</color>
+weapons/57mm_ub_16_user_cannon;Универсальный блок УБ-16-57УМП
 weapons/57mm_ub_16_user_cannon/short;УБ-16-57УМП
-weapons/cn_hf5_rocket;9-А-317 | Неуправляемая авиационная ракета С-5К <color=#ff6f00>RKT</color>
+weapons/cn_hf5_rocket;9-А-317 | Неуправляемая авиационная ракета С-5К
 weapons/cn_hf5_rocket/short;С-5К
 650mm_9m79;9М79
 
 //MISSILES
-weapons/su_r_40rd;изд. 46РД | Авиационная управляемая ракета Р-40РД <color=#ff6f00>AAM-SARH</color>
+weapons/su_r_40rd;изд. 46РД | Авиационная управляемая ракета Р-40РД
 weapons/su_r_40rd/short;Р-40РД
-weapons/su_r_40rd_default;изд. 46РД | Авиационная управляемая ракета Р-40РД <color=#ff6f00>AAM-SARH</color>
+weapons/su_r_40rd_default;изд. 46РД | Авиационная управляемая ракета Р-40РД
 weapons/su_r_40rd_default/short;Р-40РД
-weapons/su_r_40td;изд. 46ТД | Авиационная управляемая ракета Р-40ТД <color=#ff6f00>AAM-IR</color>
+weapons/su_r_40td;изд. 46ТД | Авиационная управляемая ракета Р-40ТД
 weapons/su_r_40td/short;Р-40ТД
-weapons/su_r_40td_default;изд. 46ТД | Авиационная управляемая ракета Р-40ТД <color=#ff6f00>AAM-IR</color>
+weapons/su_r_40td_default;изд. 46ТД | Авиационная управляемая ракета Р-40ТД
 weapons/su_r_40td_default/short;Р-40ТД
-weapons/su_rvv_sd;Авиационная управляемая ракета РВВ-СД <color=#ff6f00>AAM-ARH</color>
+weapons/su_rvv_sd;Авиационная управляемая ракета РВВ-СД
 weapons/su_rvv_sd/short;РВВ-СД
-weapons/su_rvv_sd_default;Авиационная управляемая ракета РВВ-СД <color=#ff6f00>AAM-ARH</color>
+weapons/su_rvv_sd_default;Авиационная управляемая ракета РВВ-СД
 weapons/su_rvv_sd_default/short;РВВ-СД
-weapons/su_grom_1;9-А-7759 | Управляемая ракета Х-36 «Гром-Э1» <color=#ff6f00>AGM-GNSS</color>
+weapons/su_r_98mr;изд. 56 | Авиационная управляемая ракета Р-98МР
+weapons/su_r_98mr/short;Р-98МР
+weapons/su_r_98mr_default;изд. 56 | Авиационная управляемая ракета Р-98МР
+weapons/su_r_98mr_default/short;Р-98МР
+weapons/su_r_98mt;изд. 57 | Авиационная управляемая ракета Р-98МТ
+weapons/su_r_98mt/short;Р-98МТ
+weapons/su_r_98mt_default;изд. 57 | Авиационная управляемая ракета Р-98МТ
+weapons/su_r_98mt_default/short;Р-98МТ
+weapons/su_grom_1;9-А-7759 | Управляемая ракета Х-36 «Гром-Э1»
 weapons/su_grom_1/short;Х-36 «Гром-Э1»
-weapons/su_kh_25mp;изд. 711 | Управляемая ракета Х-25МП (Пассивная радиолокационная головка самонаведения ПРГС-1ВП) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_25mp;изд. 711 | Управляемая ракета Х-25МП (Пассивная радиолокационная головка самонаведения ПРГС-1ВП)
 weapons/su_kh_25mp/short;Х-25МП (ПРГС-1ВП)
-weapons/su_kh_25mp_cw;изд. 712 | Управляемая ракета Х-25МП (Пассивная радиолокационная головка самонаведения ПРГС-2ВП) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_25mp_cw;изд. 712 | Управляемая ракета Х-25МП (Пассивная радиолокационная головка самонаведения ПРГС-2ВП)
 weapons/su_kh_25mp_cw/short;Х-25МП (ПРГС-2ВП)
-weapons/su_kh_25mpu;Управляемая ракета Х-25МПУ <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_25mpu;Управляемая ракета Х-25МПУ
 weapons/su_kh_25mpu/short;Х-25МПУ
-weapons/su_kh_27ps;изд. 721 | Управляемая ракета Х-27ПС (Пассивная радиолокационная головка самонаведения ПРГС-1ВП) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_27ps;изд. 721 | Управляемая ракета Х-27ПС (Пассивная радиолокационная головка самонаведения ПРГС-1ВП)
 weapons/su_kh_27ps/short;Х-27ПС (ПРГС-1ВП)
-weapons/su_kh_27ps_cw;изд. 722 | Управляемая ракета Х-27ПС (Пассивная радиолокационная головка самонаведения ПРГС-2ВП) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_27ps_cw;изд. 722 | Управляемая ракета Х-27ПС (Пассивная радиолокационная головка самонаведения ПРГС-2ВП)
 weapons/su_kh_27ps_cw/short;Х-27ПС (ПРГС-2ВП)
-weapons/su_kh_31a;изд. 77А | Управляемая ракета Х-31А <color=#ff6f00>AShM-ARH</color>
+weapons/su_kh_31a;изд. 77А | Управляемая ракета Х-31А
 weapons/su_kh_31a/short;Х-31А
-weapons/su_kh_31ad;изд. 77АД | Управляемая ракета Х-31АД <color=#ff6f00>AShM-ARH</color>
+weapons/su_kh_31ad;изд. 77АД | Управляемая ракета Х-31АД
 weapons/su_kh_31ad/short;Х-31АД
-weapons/su_kh_31p_l_111;изд. 77П | Управляемая ракета Х-31П (Пассивная радиолокационная головка самонаведения ПРГС-4ВП) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31p_l_111;изд. 77П | Управляемая ракета Х-31П (Пассивная радиолокационная головка самонаведения ПРГС-4ВП)
 weapons/su_kh_31p_l_111/short;Х-31П (ПРГС-4ВП)
-weapons/su_kh_31p_l_112;изд. 77П | Управляемая ракета Х-31П (Пассивная радиолокационная головка самонаведения ПРГС-5ВП) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31p_l_112;изд. 77П | Управляемая ракета Х-31П (Пассивная радиолокационная головка самонаведения ПРГС-5ВП)
 weapons/su_kh_31p_l_112/short;Х-31П (ПРГС-5ВП)
-weapons/su_kh_31p_l_113;изд. 77П | Управляемая ракета Х-31П (Пассивная радиолокационная головка самонаведения ПРГС-6ВП) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31p_l_113;изд. 77П | Управляемая ракета Х-31П (Пассивная радиолокационная головка самонаведения ПРГС-6ВП)
 weapons/su_kh_31p_l_113/short;Х-31П (ПРГС-6ВП)
-weapons/su_kh_31pk_l_111;изд. 77ПК | Управляемая ракета Х-31ПК (Пассивная радиолокационная головка самонаведения ПРГС-4ВП) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31pk_l_111;изд. 77ПК | Управляемая ракета Х-31ПК (Пассивная радиолокационная головка самонаведения ПРГС-4ВП)
 weapons/su_kh_31pk_l_111/short;Х-31ПК (ПРГС-4ВП)
-weapons/su_kh_31pk_l_112;изд. 77ПК | Управляемая ракета Х-31ПК (Пассивная радиолокационная головка самонаведения ПРГС-5ВП) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31pk_l_112;изд. 77ПК | Управляемая ракета Х-31ПК (Пассивная радиолокационная головка самонаведения ПРГС-5ВП)
 weapons/su_kh_31pk_l_112/short;Х-31ПК (ПРГС-5ВП)
-weapons/su_kh_31pk_l_113;изд. 77ПК | Управляемая ракета Х-31ПК (Пассивная радиолокационная головка самонаведения ПРГС-6ВП) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31pk_l_113;изд. 77ПК | Управляемая ракета Х-31ПК (Пассивная радиолокационная головка самонаведения ПРГС-6ВП)
 weapons/su_kh_31pk_l_113/short;Х-31ПК (ПРГС-6ВП)
-weapons/su_kh_31pd;изд. 77ПД | Управляемая ракета Х-31ПД <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_31pd;изд. 77ПД | Управляемая ракета Х-31ПД
 weapons/su_kh_31pd/short;Х-31ПД
-weapons/su_kh_35u;изд. 78У | Противокорабельная крылатая ракета Х-35У <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_35u;изд. 78У | Противокорабельная крылатая ракета Х-35У
 weapons/su_kh_35u/short;Х-35У
-weapons/su_kh_35ue;изд. 78УЭ | Противокорабельная крылатая ракета Х-35УЭ <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_35ue;изд. 78УЭ | Противокорабельная крылатая ракета Х-35УЭ
 weapons/su_kh_35ue/short;Х-35УЭ
-weapons/su_kh_38mle;Управляемая ракета Х-38МЛЭ <color=#ff6f00>AGM-LG/GNSS</color>
+weapons/su_kh_38mle;Управляемая ракета Х-38МЛЭ
 weapons/su_kh_38mle/short;Х-38МЛЭ
-weapons/su_kh_38mte;Управляемая ракета Х-38МТЭ <color=#ff6f00>AGM-IR/GNSS</color>
+weapons/su_kh_38mte;Управляемая ракета Х-38МТЭ
 weapons/su_kh_38mte/short;Х-38МТЭ
-weapons/su_lmur;9-А-7755 | изд. 305 | Легкая многоцелевая управляемая ракета Х-39 <color=#ff6f00>AGM-IR/GNSS</color>
+weapons/su_lmur;9-А-7755 | изд. 305 | Легкая многоцелевая управляемая ракета Х-39
 weapons/su_lmur/short;Х-39
-weapons/su_kh_58u_a_band;изд. 112У | Управляемая ракета Х-58У (Пассивная радиолокационная головка самонаведения ПРГС-58М) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_58u_a_band;изд. 112У | Управляемая ракета Х-58У (Пассивная радиолокационная головка самонаведения ПРГС-58М)
 weapons/su_kh_58u_a_band/short;Х-58У (ПРГС-58М)
-weapons/su_kh_58u_a_band_cw;изд. 112У | Управляемая ракета Х-58У (Пассивная радиолокационная головка самонаведения ПРГС-58М) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_58u_a_band_cw;изд. 112У | Управляемая ракета Х-58У (Пассивная радиолокационная головка самонаведения ПРГС-58М)
 weapons/su_kh_58u_a_band_cw/short;Х-58У (ПРГС-58М)
-weapons/su_kh_58u_b_band;изд. 112У | Управляемая ракета Х-58У (Пассивная радиолокационная головка самонаведения ПРГС-58М) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_58u_b_band;изд. 112У | Управляемая ракета Х-58У (Пассивная радиолокационная головка самонаведения ПРГС-58М)
 weapons/su_kh_58u_b_band/short;Х-58У (ПРГС-58М)
-weapons/su_kh_58u_c_band;изд. 112У | Управляемая ракета Х-58У (Пассивная радиолокационная головка самонаведения ПРГС-58М) <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_58u_c_band;изд. 112У | Управляемая ракета Х-58У (Пассивная радиолокационная головка самонаведения ПРГС-58М)
 weapons/su_kh_58u_c_band/short;Х-58У (ПРГС-58М)
-weapons/su_kh_58ush;изд. 112УШ | Управляемая ракета Х-58УШ <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_58ush;изд. 112УШ | Управляемая ракета Х-58УШ
 weapons/su_kh_58ush/short;Х-58УШ
-weapons/su_kh_58ushk;изд. 112УШК | Управляемая ракета Х-58УШК <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_58ushk;изд. 112УШК | Управляемая ракета Х-58УШК
 weapons/su_kh_58ushk/short;Х-58УШК
-weapons/su_kh_58ushke;изд. 112УШКЭ | Управляемая ракета Х-58УШКЭ <color=#ff6f00>AGM-PRH</color>
+weapons/su_kh_58ushke;изд. 112УШКЭ | Управляемая ракета Х-58УШКЭ
 weapons/su_kh_58ushke/short;Х-58УШКЭ
-weapons/su_kh_59;изд. Д-9 | Управляемая ракета Х-59 <color=#ff6f00>AGM-EO</color>
+weapons/su_kh_59;изд. Д-9 | Управляемая ракета Х-59
 weapons/su_kh_59/short;Х-59
-weapons/su_kh_59m;изд. Д-9М | Управляемая ракета Х-59М «Овод-М» <color=#ff6f00>AGM-EO</color>
+weapons/su_kh_59m;изд. Д-9М | Управляемая ракета Х-59М «Овод-М»
 weapons/su_kh_59m/short;Х-59М
-weapons/su_kh_59me;изд. Д-9МЭ | Управляемая ракета Х-59МЭ «Овод-МЭ» <color=#ff6f00>AGM-EO</color>
+weapons/su_kh_59me;изд. Д-9МЭ | Управляемая ракета Х-59МЭ «Овод-МЭ»
 weapons/su_kh_59me/short;Х-59МЭ
-weapons/su_kh_59mk;изд. Д-9МК | Управляемая ракета Х-59МК «Овод-МК» <color=#ff6f00>AGM-ARH</color>
+weapons/su_kh_59mk;изд. Д-9МК | Управляемая ракета Х-59МК «Овод-МК»
 weapons/su_kh_59mk/short;Х-59МК
-weapons/su_kh_59mke;изд. Д-9МКЭ | Управляемая ракета Х-59МКЭ «Овод-МКЭ» <color=#ff6f00>AGM-ARH</color>
+weapons/su_kh_59mke;изд. Д-9МКЭ | Управляемая ракета Х-59МКЭ «Овод-МКЭ»
 weapons/su_kh_59mke/short;Х-59МКЭ
-weapons/152mm_9M133_btr_82at_launcher_user_cannon;Пусковое устройство 9П163-1 <color=#ff6f00>LCH</color>
+weapons/152mm_9M133_btr_82at_launcher_user_cannon;Пусковое устройство 9П163-1
 209mm_9m33;9М33М
-weapons/209mm_9M33A3_launcher_user_cannon;Пусковое устройство 9П35М2 <color=#ff6f00>LCH</color>
-weapons/rocket_9m33_naval_rocket_launcher;Пусковое устройство ЗИФ-122 <color=#ff6f00>LCH</color>
+weapons/209mm_9M33A3_launcher_user_cannon;Пусковое устройство 9П35М2
+weapons/rocket_9m33_naval_rocket_launcher;Пусковое устройство ЗИФ-122
 weapons/rocket_9m33_naval_rocket_launcher/short;ЗИФ-122
-weapons/170mm_57E6_rocket_launcher;Транспортно-пусковой контейнер 95Я6 <color=#ff6f00>LCH</color>
+weapons/170mm_57E6_rocket_launcher;Транспортно-пусковой контейнер 95Я6
 weapons/170mm_57E6_rocket_launcher/short;95Я6
-weapons/170mm_57E6M_launcher_user_cannon;Транспортно-пусковой контейнер 95Я6М <color=#ff6f00>LCH</color>
+weapons/170mm_57E6M_launcher_user_cannon;Транспортно-пусковой контейнер 95Я6М
 weapons/170mm_57E6M_launcher_user_cannon/short;95Я6М
 170mm_zur_95ya6;57Э6-Е
 170mm_57e6m;57Э6М-Е-М
@@ -184,123 +198,123 @@ weapons/170mm_57E6M_launcher_user_cannon/short;95Я6М
 400mm_9m38;9М38
 400mm_9m38m1;9М38М1
 508mm_5v55r;В-500Р
-weapons/360mm_9m317m_user_cannon;Пусковое устройство 9П331М <color=#ff6f00>LCH</color>
+weapons/360mm_9m317m_user_cannon;Пусковое устройство 9П331М
 weapons/360mm_9m317m_user_cannon/short;9П331М
-weapons/130mm_9M120_BMPT_launcher_user_cannon;Комплекса управляемого вооружения Б07С1.01.000 «Атака-Т» <color=#ff6f00>LCH</color>
+weapons/130mm_9M120_BMPT_launcher_user_cannon;Комплекса управляемого вооружения Б07С1.01.000 «Атака-Т»
 130mm_9m120_1;9М120-1
 130mm_9m120_1f;9М120-1Ф
-weapons/300mm_9k58_rocket_launcher;Аппаратура пуска 9П614 <color=#ff6f00>LCH</color>
+weapons/300mm_9k58_rocket_launcher;Аппаратура пуска 9П614
 weapons/300mm_9k58_rocket_launcher/short;9П614
 300mm_9m55f;9М55Ф
-weapons/cn_yj91_l_111;YJ91 | K/AKD91 Kòng Dì Daodàn (Пассивная радиолокационная головка самонаведения ПРГС-4ВП) <color=#ff6f00>AGM-PRH</color>
+weapons/cn_yj91_l_111;YJ91 | K/AKD91 Kòng Dì Daodàn (Пассивная радиолокационная головка самонаведения ПРГС-4ВП)
 weapons/cn_yj91_l_111/short;K/AKD91 (ПРГС-4ВП)
-weapons/cn_yj91_l_112;YJ91 | K/AKD91 Kòng Dì Daodàn (Пассивная радиолокационная головка самонаведения ПРГС-5ВП) <color=#ff6f00>AGM-PRH</color>
+weapons/cn_yj91_l_112;YJ91 | K/AKD91 Kòng Dì Daodàn (Пассивная радиолокационная головка самонаведения ПРГС-5ВП)
 weapons/cn_yj91_l_112/short;K/AKD91 (ПРГС-5ВП)
-weapons/cn_yj91_l_113;YJ91 | K/AKD91 Kòng Dì Daodàn (Пассивная радиолокационная головка самонаведения ПРГС-6ВП) <color=#ff6f00>AGM-PRH</color>
+weapons/cn_yj91_l_113;YJ91 | K/AKD91 Kòng Dì Daodàn (Пассивная радиолокационная головка самонаведения ПРГС-6ВП)
 weapons/cn_yj91_l_113/short;K/AKD91 (ПРГС-6ВП)
 
 //TORPEDOES
-weapons/su_45_54vt_1954_torpedo;<color=@userlogColoredText>450 mm</color> Торпеда высотного торпедометания 45-54ВТ <color=#ff6f00>TRP</color>
+weapons/su_45_54vt_1954_torpedo;Торпеда высотного торпедометания 45-54ВТ
 weapons/su_45_54vt_1954_torpedo/short;45-54ВТ
 
 //FUEL TANKS
-weapons/su_490l_mig_21;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21;Подвесной топливный бак ПТБ-500
 weapons/su_490l_mig_21/short;ПТБ-500
-weapons/su_490l_mig_21_left_wing;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_left_wing;Подвесной топливный бак ПТБ-500
 weapons/su_490l_mig_21_left_wing/short;ПТБ-500
-weapons/su_490l_mig_21_left_wing_1;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_left_wing_1;Подвесной топливный бак ПТБ-500
 weapons/su_490l_mig_21_left_wing_1/short;ПТБ-500
-weapons/su_490l_mig_21_fuse_1;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_fuse_1;Подвесной топливный бак ПТБ-500
 weapons/su_490l_mig_21_fuse_1/short;ПТБ-500
-weapons/su_490l_mig_21_right_wing_1;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_right_wing_1;Подвесной топливный бак ПТБ-500
 weapons/su_490l_mig_21_right_wing_1/short;ПТБ-500
-weapons/su_490l_mig_21_fuse;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_fuse;Подвесной топливный бак ПТБ-500
 weapons/su_490l_mig_21_fuse/short;ПТБ-500
-weapons/su_490l_mig_21_right_wing;<color=@userlogColoredText>490 L</color> Подвесной топливный бак ПТБ-500 <color=#ff6f00>DPTK</color>
+weapons/su_490l_mig_21_right_wing;Подвесной топливный бак ПТБ-500
 weapons/su_490l_mig_21_right_wing/short;ПТБ-500
-weapons/su_600l_su_15tm_right_fuse;<color=@userlogColoredText>640 L</color> Подвесной топливный бак ПТБ-640 <color=#ff6f00>DPTK</color>
+weapons/su_600l_su_15tm_right_fuse;Подвесной топливный бак ПТБ-640
 weapons/su_600l_su_15tm_right_fuse/short;ПТБ-640
-weapons/su_600l_su_15tm_left_fuse;<color=@userlogColoredText>640 L</color> Подвесной топливный бак ПТБ-640 <color=#ff6f00>DPTK</color>
+weapons/su_600l_su_15tm_left_fuse;Подвесной топливный бак ПТБ-640
 weapons/su_600l_su_15tm_left_fuse/short;ПТБ-640
-weapons/su_800l_su_7b_silver_fuse_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_fuse_1;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_7b_silver_fuse_1/short;ПТБ-800
-weapons/su_800l_su_7b_silver_fuse_2;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_fuse_2;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_7b_silver_fuse_2/short;ПТБ-800
-weapons/su_800l_su_7b_silver_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_wing_1;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_7b_silver_wing_1/short;ПТБ-800
-weapons/su_800l_su_7b_silver_wing_2;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_7b_silver_wing_2;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_7b_silver_wing_2/short;ПТБ-800
-weapons/su_800l_su_17_right_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_right_wing;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_17_right_wing/short;ПТБ-800
-weapons/su_800l_su_17_right_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_right_wing_1;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_17_right_wing_1/short;ПТБ-800
-weapons/su_800l_su_17_left_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_left_wing;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_17_left_wing/short;ПТБ-800
-weapons/su_800l_su_17_left_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_left_wing_1;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_17_left_wing_1/short;ПТБ-800
-weapons/su_800l_su_17_silver_left_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_left_wing;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_17_silver_left_wing/short;ПТБ-800
-weapons/su_800l_su_17_silver_left_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_left_wing_1;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_17_silver_left_wing_1/short;ПТБ-800
-weapons/su_800l_su_17_silver_right_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_right_wing;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_17_silver_right_wing/short;ПТБ-800
-weapons/su_800l_su_17_silver_right_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_17_silver_right_wing_1;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_17_silver_right_wing_1/short;ПТБ-800
-weapons/su_800l_su_25tm_silver_right_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_right_wing;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_25tm_silver_right_wing/short;ПТБ-800
-weapons/su_800l_su_25tm_silver_right_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_right_wing_1;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_25tm_silver_right_wing_1/short;ПТБ-800
-weapons/su_800l_su_25tm_silver_left_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_left_wing;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_25tm_silver_left_wing/short;ПТБ-800
-weapons/su_800l_su_25tm_silver_left_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25tm_silver_left_wing_1;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_25tm_silver_left_wing_1/short;ПТБ-800
-weapons/su_800l_su_25t_left_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_left_wing;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_25t_left_wing/short;ПТБ-800
-weapons/su_800l_su_25t_left_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_left_wing_1;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_25t_left_wing_1/short;ПТБ-800
-weapons/su_800l_su_25t_right_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_right_wing;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_25t_right_wing/short;ПТБ-800
-weapons/su_800l_su_25t_right_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25t_right_wing_1;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_25t_right_wing_1/short;ПТБ-800
-weapons/su_800l_su_25_right_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_right_wing;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_25_right_wing/short;ПТБ-800
-weapons/su_800l_su_25_right_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_right_wing_1;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_25_right_wing_1/short;ПТБ-800
-weapons/su_800l_su_25_left_wing;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_left_wing;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_25_left_wing/short;ПТБ-800
-weapons/su_800l_su_25_left_wing_1;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_su_25_left_wing_1;Подвесной топливный бак ПТБ-800
 weapons/su_800l_su_25_left_wing_1/short;ПТБ-800
-weapons/su_800l_mig_23bn_silver_fuse;<color=@userlogColoredText>820 L</color> Подвесной топливный бак ПТБ-800 <color=#ff6f00>DPTK</color>
+weapons/su_800l_mig_23bn_silver_fuse;Подвесной топливный бак ПТБ-800
 weapons/su_800l_mig_23bn_silver_fuse/short;ПТБ-800
-weapons/su_1150l_mig_29kr_left_wing;<color=@userlogColoredText>1150 L</color> Подвесной топливный бак ПТБ-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_left_wing;Подвесной топливный бак ПТБ-1150
 weapons/su_1150l_mig_29kr_left_wing/short;ПТБ-1150
-weapons/su_1150l_mig_29kr_left_wing1;<color=@userlogColoredText>1150 L</color> Подвесной топливный бак ПТБ-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_left_wing1;Подвесной топливный бак ПТБ-1150
 weapons/su_1150l_mig_29kr_left_wing1/short;ПТБ-1150
-weapons/su_1150l_mig_29kr_right_wing;<color=@userlogColoredText>1150 L</color> Подвесной топливный бак ПТБ-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_right_wing;Подвесной топливный бак ПТБ-1150
 weapons/su_1150l_mig_29kr_right_wing/short;ПТБ-1150
-weapons/su_1150l_mig_29kr_right_wing1;<color=@userlogColoredText>1150 L</color> Подвесной топливный бак ПТБ-1150 <color=#ff6f00>DPTK</color>
+weapons/su_1150l_mig_29kr_right_wing1;Подвесной топливный бак ПТБ-1150
 weapons/su_1150l_mig_29kr_right_wing1/short;ПТБ-1150
-weapons/su_1500_liters_fuse_mig_29;<color=@userlogColoredText>1520 L</color> Подвесной топливный бак ПТБ-1500 <color=#ff6f00>DPTK</color>
+weapons/su_1500_liters_fuse_mig_29;Подвесной топливный бак ПТБ-1500
 weapons/su_1500_liters_fuse_mig_29/short;ПТБ-1500
-weapons/su_1500_liters_fuse_mig_29smt;<color=@userlogColoredText>1520 L</color> Подвесной топливный бак ПТБ-1500 <color=#ff6f00>DPTK</color>
+weapons/su_1500_liters_fuse_mig_29smt;Подвесной топливный бак ПТБ-1500
 weapons/su_1500_liters_fuse_mig_29smt/short;ПТБ-1500
-weapons/su_2000_liters_fuse_mig_29smt;<color=@userlogColoredText>2000 L</color> Подвесной топливный бак ПТБ-2000 <color=#ff6f00>DPTK</color>
+weapons/su_2000_liters_fuse_mig_29smt;Подвесной топливный бак ПТБ-2000
 weapons/su_2000_liters_fuse_mig_29smt/short;ПТБ-2000
-weapons/su_2150_liters_fuse_mig_29kr;<color=@userlogColoredText>2150 L</color> Подвесной топливный бак ПТБ-2150 <color=#ff6f00>DPTK</color>
+weapons/su_2150_liters_fuse_mig_29kr;Подвесной топливный бак ПТБ-2150
 weapons/su_2150_liters_fuse_mig_29kr/short;ПТБ-2150
-weapons/su_su34_3000l_drop_tank;<color=@userlogColoredText>3000 L</color> Подвесной топливный бак ПТБ-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank;Подвесной топливный бак ПТБ-3000
 weapons/su_su34_3000l_drop_tank/short;ПТБ-3000
-weapons/su_su34_3000l_drop_tank_left;<color=@userlogColoredText>3000 L</color> Подвесной топливный бак ПТБ-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank_left;Подвесной топливный бак ПТБ-3000
 weapons/su_su34_3000l_drop_tank_left/short;ПТБ-3000
-weapons/su_su34_3000l_drop_tank_right;<color=@userlogColoredText>3000 L</color> Подвесной топливный бак ПТБ-3000 <color=#ff6f00>DPTK</color>
+weapons/su_su34_3000l_drop_tank_right;Подвесной топливный бак ПТБ-3000
 weapons/su_su34_3000l_drop_tank_right/short;ПТБ-3000
-weapons/su_5280l_mig_25pd_drop_tank_central;<color=@userlogColoredText>5280 L</color> Подвесной топливный бак ПТБ-5000 <color=#ff6f00>DPTK</color>
+weapons/su_5280l_mig_25pd_drop_tank_central;Подвесной топливный бак ПТБ-5000
 weapons/su_5280l_mig_25pd_drop_tank_central/short;ПТБ-5000
 
 //SMOKE GRENADES
-weapons/t_34_85_stp_s53_smoke_barrel_launcher;<color=@userlogColoredText>450 mm</color> Большая дымовая шашка БДШ-5 <color=#ff6f00>GRN-SMK</color>
+weapons/t_34_85_stp_s53_smoke_barrel_launcher;Большая дымовая шашка БДШ-5
 weapons/t_34_85_stp_s53_smoke_barrel_launcher/short;БДШ-5
-weapons/is_2m_smoke_barrel_launcher;<color=@userlogColoredText>450 mm</color> Большая дымовая шашка БДШ-5 <color=#ff6f00>GRN-SMK</color>
+weapons/is_2m_smoke_barrel_launcher;Большая дымовая шашка БДШ-5
 weapons/is_2m_smoke_barrel_launcher/short;БДШ-5
-weapons/object_416_smoke_barrel_launcher;<color=@userlogColoredText>450 mm</color> Большая дымовая шашка БДШ-5 <color=#ff6f00>GRN-SMK</color>
+weapons/object_416_smoke_barrel_launcher;Большая дымовая шашка БДШ-5
 weapons/object_416_smoke_barrel_launcher/short;БДШ-5

@@ -21,13 +21,26 @@ All dates are listed in DD-MM-YYYY format.
 ## 1.20.00 - UNRELEASED
 
 ### Vehicles:
+- Updated for the "Eagle's Shadow" major update and the "Dreams Come True: Mistel 2" and "The Great War" events.
+- Implemented the Italiang ground tree rework. This reworks every ground vehicle in the Italian tech tree, both Italian and those from other nations.
+- Reworked the WWI planes (**D.VII** and **S. XIII**).
+- Updated a bunch more manufacturers.
+- Revised all roundels in the Hebrew package to be right-to-left.
+- Reworked the **E.B.R.**s.
+- Corrected the Taiwanese **F-16V-72** to the **F-16V-20**.
+- Finally changed "Âk" back to "Yak". This is not a full implementation of our new Russian transliteration system, but just to finally get rid of "Âk" which was disgusting.
+- Revised the **MiG-21PFM** (no particular reason, the name "MiG-21PFM (94)" was just annoying me so I fixed it).
+- Corrected some missing US naval folders.
 
-- #### Changes:
+### Weaponry:
+- Colored caliber, mass, and type tags have unfortunately been removed. I do not like this, no one does, but Gaijin broke their display in even more places to the point where it has become untenable to keep them. We have a backup of all the colored versions so if Gaijin does ever add working color tags back, we can add them back. Most guns and bombs still have mass and caliber listed in their actual names because that's how countries name things.
+- Revised the **130-1 Xíng**'s statcard name.
+- Revised the **A-91**.
+- Changed the **AIM-4** Super Falcons to just the Falcon.
+- **5"/54, HE-CVT, Mk 68** → **HE-CVT, Mk 68**.
 
-    - Updated for the "Eagle's Shadow" major update and "Dreams Come True: Mistel 2" event.
-    - Implemented the Italiang ground tree rework. This reworks every ground vehicle in the Italian tech tree, both Italian and those from other nations.
-    - Updated a bunch more manufacturers.
-    - Revised all roundels in the Hebrew package to be right-to-left.
+### UI:
+- Added a bunch of missing countries to the Original Country Names Package and Full Original Country Names Package ([report](https://github.com/Addysaurus/lang_modding/issues/191)).
 
 ## 1.19.02 - 22-10-2026
 

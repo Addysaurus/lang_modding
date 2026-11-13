@@ -13421,12 +13421,20 @@ uk_egret_class_1;HMS Egret
 uk_egret_class_2;Sloop
 
 uk_minelayer_abdiel_class_abdiel_shop;HMS Abdiel (M 39)
-uk_minelayer_abdiel_class_abdiel_0;"<color=#81c3fc>J. Samuel White & Co. <color=@commonTextColor>/</color> Palmers Shipyard</color>
+uk_minelayer_abdiel_class_abdiel_0;"<color=#81c3fc>J. Samuel White & Co. <color=@commonTextColor>/</color> Palmers Shipbuilding and Iron Co.</color>
 <color=#fffa62>Abdiel-class</color>
 HMS Abdiel (M 39)
 <color=#adadad>(1942)</color>"
 uk_minelayer_abdiel_class_abdiel_1;HMS Abdiel
 uk_minelayer_abdiel_class_abdiel_2;Minelayer
+
+uk_cruiser_danae_class_shop;HMS Danae (D 44)
+uk_cruiser_danae_class_0;"<color=#81c3fc>Sir W. G. Armstrong Whitworth & Co. <color=@commonTextColor>/</color> Palmers Shipbuilding and Iron Co.</color>
+<color=#fffa62>Danae-class</color>
+HMS Danae (D 44)
+<color=#adadad>(1943)</color>"
+uk_cruiser_danae_class_1;HMS Danae
+uk_cruiser_danae_class_2;Light Cruiser
 
 uk_destroyer_j_class_shop;HMS Jervis (G 00)
 uk_destroyer_j_class_0;"<color=#81c3fc>R. & W. Hawthorn, Leslie & Co. <color=@commonTextColor>/</color> Belfast Dry Dock</color>
@@ -17651,6 +17659,35 @@ cn_oplot_t_2;MBT
 //CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 
 //CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+
+//CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+cn_destroyer_type052d_shop;Yínchuān (175)
+cn_destroyer_type052d_0;"<color=#81c3fc>Jiāngnán Zàochuán (Jítuán) Youxiàn Zérèn Gōngsī</color>
+<color=#fffa62>052D Xíng Daodàn Qūzhújià</color>
+Yínchuān (175)"
+cn_destroyer_type052d_1;Yínchuān
+cn_destroyer_type052d_2;Missile Destroyer
+
+cn_frigate_type054a_shop;Zhōushān (529)
+cn_frigate_type054a_0;"<color=#81c3fc>Hùdōng Zhōnghuá Zàochuán (Jítuán) Youxiàn Gōngsī</color>
+<color=#fffa62>054A Xíng Daodàn Hùwèijiàn</color>
+Zhōushān (529)"
+cn_frigate_type054a_1;Zhōushān
+cn_frigate_type054a_2;Missile Frigate
+
+cn_aircraftcarrier_fujian_shop;Fújiàn (18)
+cn_aircraftcarrier_fujian_0;"<color=#81c3fc>Jiāngnán Zàochuán (Jítuán) Youxiàn Zérèn Gōngsī</color>
+<color=#fffa62>003 Xíng Hángkōng Mǔjiàn</color>
+Fújiàn (18)"
+cn_aircraftcarrier_fujian_1;Fújiàn
+cn_aircraftcarrier_fujian_2;Aircraft Carrier
+
+cn_aircraftcarrier_fujian_ai_shop;Fújiàn (18)
+cn_aircraftcarrier_fujian_ai_0;"<color=#81c3fc>Jiāngnán Zàochuán (Jítuán) Youxiàn Zérèn Gōngsī</color>
+<color=#fffa62>003 Xíng Hángkōng Mǔjiàn</color>
+Fújiàn (18)"
+cn_aircraftcarrier_fujian_ai_1;Fújiàn
+cn_aircraftcarrier_fujian_ai_2;Aircraft Carrier
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 re_2000_ga_ep_shop;Re.2000 GA III (377ª Sq.)

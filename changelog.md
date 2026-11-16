@@ -25,22 +25,35 @@ All dates are listed in DD-MM-YYYY format.
 - Implemented the Italiang ground tree rework. This reworks every ground vehicle in the Italian tech tree, both Italian and those from other nations.
 - Reworked the WWI planes (**D.VII** and **S. XIII**).
 - Updated a bunch more manufacturers.
+- Finally changed "Âk" back to "Yak". This is not a full implementation of our new Russian transliteration system, but just to finally get rid of "Âk" which was disgusting.
+- Removed hyphens from US ship pennant numbers and periods from initials in vessel names to align with SECNAVINST 5030.8. Thank you gszabi99 for sending me down this rabbit hole, and damn you for cursing me with this knowledge I did not want. If you have a problem with this change (like I do), blame gszabi (like I do).
 - Revised all roundels in the Hebrew package to be right-to-left.
 - Reworked the **E.B.R.**s.
-- Corrected the Taiwanese **F-16V-72** to the **F-16V-20**.
-- Finally changed "Âk" back to "Yak". This is not a full implementation of our new Russian transliteration system, but just to finally get rid of "Âk" which was disgusting.
+- Corrected the Taiwanese **F-16V-72** to the **F-16V-20**. Block 72 vehicles have different engines and this vehicle is an upgraded one.
 - Revised the **MiG-21PFM** (no particular reason, the name "MiG-21PFM (94)" was just annoying me so I fixed it).
 - Corrected some missing US naval folders.
+- Corrected the **Badger SV** to the **Badger FSV** to reflect the extra ammunition in the rear transport compartment where the troop complement would go.
+- Corrected the spelling of **USS Allen M Sumner (DD 692)** (it was accidentally spelled as Allan).
 
 ### Weaponry:
 - Colored caliber, mass, and type tags have unfortunately been removed. I do not like this, no one does, but Gaijin broke their display in even more places to the point where it has become untenable to keep them. We have a backup of all the colored versions so if Gaijin does ever add working color tags back, we can add them back. Most guns and bombs still have mass and caliber listed in their actual names because that's how countries name things.
 - Revised the **130-1 Xíng**'s statcard name.
-- Revised the **A-91**.
+- Expanded the **A-91**'s statcard name.
 - Changed the **AIM-4** Super Falcons to just the Falcon.
 - **5"/54, HE-CVT, Mk 68** → **HE-CVT, Mk 68**.
+- **AIM-23B** → **AIM-F90**.
+- Updated the **Guiraud 100 kg** depth charge to match the format of the new 200 kg one.
+- Updated **USS M-92-2**'s flamethrower to be the **Flame Thrower, Mechanized, Main Armament, M10-8**.
+- Corrected some spacing errors in Chinese transliteration spacing.
+- Corrected the broken display of the **ASM-1** and **ASM-2** missiles in the Japanese package.
 
 ### UI:
 - Added a bunch of missing countries to the Original Country Names Package and Full Original Country Names Package ([report](https://github.com/Addysaurus/lang_modding/issues/191)).
+
+### Miscellaneous:
+- Added a bunch of new loading tips. Many of these were suggested by RDXRooster63 ([report](https://github.com/Addysaurus/lang_modding/issues/192)).
+- Reworked the Abrams Reactive Armor Tiles.
+- Updated the transliteration of Ukrainian ERA tiles.
 
 ## 1.19.02 - 22-10-2026
 

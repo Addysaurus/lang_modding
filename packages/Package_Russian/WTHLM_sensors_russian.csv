@@ -1,28 +1,28 @@
 <ID|readonly|noverify>;<English>
 //RADARS
-sensors/su_thorium;Радиолокационная станция Торий-А <color=#ff6f00>RDR</color>
+sensors/su_thorium;Радиолокационная станция Торий-А
 sensors/su_sapphire_25;"Система управления вооружением С-25
-• Бортовой радиолокационной станции РП-25МН «Сапфир-25» <color=#ff6f00>RDR-PD</color>
+• Бортовой радиолокационной станции РП-25МН «Сапфир-25»
   • Радиолокационная станция Н005
-• Теплопеленгатор ТП-26Ш1 <color=#ff6f00>IRST</color>"
+• Теплопеленгатор ТП-26Ш1"
 
-sensors/su_n_001;РЛПК-27 Меч <color=#ff6f00>RDR-PD</color>
-sensors/su_n_001k;РЛПК-27К Меч <color=#ff6f00>RDR-PD</color>
+sensors/su_n_001;РЛПК-27 Меч
+sensors/su_n_001k;РЛПК-27К Меч
 
 sensors/su_n_001ve;"Система управления вооружением СУВ-ВЭ
-• Радиолокационный прицельный комплекс РЛПК-27ВЭ «Меч» <color=#ff6f00>RDR-PD</color>
+• Радиолокационный прицельный комплекс РЛПК-27ВЭ «Меч»
   • Радиолокационная станция Н001ВЕ
-• Оптико-электронная прицельная система ОЭПС-27 <color=#ff6f00>IRST</color>"
+• Оптико-электронная прицельная система ОЭПС-27"
 
-sensors/su_n_001vep;РЛПК-27ВЭШ Меч-М <color=#ff6f00>RDR-PD</color>
-sensors/su_n_010m;Радиолокационный прицельный комплекс Н010М «Жук-М» <color=#ff6f00>RDR-PD</color>
-sensors/su_n_010m_ols_ue;Радиолокационный прицельный комплекс Н010М «Жук-М» <color=#ff6f00>RDR-PD</color>
-sensors/su_n_010a;Радиолокационный прицельный комплекс Н010АЭ «Жук-АЭ» <color=#ff6f00>RDR-AESA</color>
-sensors/su_n_035e;Радиолокационная система управления Н035 «Ирбис» <color=#ff6f00>RDR-AESA</color>
-sensors/su_9s18m3;Радиолокационная станция 9С18М3 «Купол-М3» <color=#ff6f00>RDR-PESA</color>
-sensors/su_viking;Радиолокационная станция 9С35М3 <color=#ff6f00>RDR-PESA</color>
-sensors/su_1rs1_4;Станция обнаружения целей 1РС1-4 <color=#ff6f00>RDR-PESA</color>
-sensors/su_1rs2_3;Многофункциональная радиолокационная станция 1РС2-3 «Шлем» <color=#ff6f00>RDR-PESA</color>
+sensors/su_n_001vep;РЛПК-27ВЭШ Меч-М
+sensors/su_n_010m;Радиолокационный прицельный комплекс Н010М «Жук-М»
+sensors/su_n_010m_ols_ue;Радиолокационный прицельный комплекс Н010М «Жук-М»
+sensors/su_n_010a;Радиолокационный прицельный комплекс Н010АЭ «Жук-АЭ»
+sensors/su_n_035e;Радиолокационная система управления Н035 «Ирбис»
+sensors/su_9s18m3;Радиолокационная станция 9С18М3 «Купол-М3»
+sensors/su_viking;Радиолокационная станция 9С35М3
+sensors/su_1rs1_4;Станция обнаружения целей 1РС1-4
+sensors/su_1rs2_3;Многофункциональная радиолокационная станция 1РС2-3 «Шлем»
 
 //RWRs
 sensors/su_spo-150;Система предупреждения об облучении Л-150 Пастель
@@ -34,29 +34,31 @@ sensors/su_spo-150m_02;Система предупреждения об облу
 sensors/su_spo_150_esm;Система предупреждения об облучении Л-150 «Пастель»
 
 //TARGETING PODS
-weapons/su_apk_9;Аппаратный подвесной контейнер АПК-9 <color=#ff6f00>TGP-EO</color>
+weapons/su_apk_9;Аппаратный подвесной контейнер АПК-9
 weapons/su_apk_9/short;АПК-9
-weapons/su_l_066_viuga;Контейнерная станция радиотехнической разведки Л-066 «Вьюга» <color=#ff6f00>TGP-PRH</color>
+weapons/su_l_066_viuga;Контейнерная станция радиотехнической разведки Л-066 «Вьюга»
 weapons/su_l_066_viuga/short;Л-066
-weapons/su_phantasmagoria_a;Контейнерная станция радиотехнической разведки Л-080 «Фантасмагория-А» <color=#ff6f00>TGP-PRH</color>
+weapons/su_phantasmagoria_a;Контейнерная станция радиотехнической разведки Л-080 «Фантасмагория-А»
 weapons/su_phantasmagoria_a/short;Л-080
-weapons/su_l_080_a;Контейнерная станция радиотехнической разведки Л-080 «Фантасмагория-А» <color=#ff6f00>TGP-PRH</color>
+weapons/su_l_080_a;Контейнерная станция радиотехнической разведки Л-080 «Фантасмагория-А»
 weapons/su_l_080_a/short;Л-080
-weapons/su_l_080_a_cw;Контейнерная станция радиотехнической разведки Л-080 «Фантасмагория-А» <color=#ff6f00>TGP-PRH</color>
+weapons/su_l_080_a_cw;Контейнерная станция радиотехнической разведки Л-080 «Фантасмагория-А»
 weapons/su_l_080_a_cw/short;Л-080
-weapons/su_phantasmagoria_b_beck;Контейнерная станция радиотехнической разведки Л-081 «Фантасмагория-B» <color=#ff6f00>TGP-PRH</color>
+weapons/su_phantasmagoria_b_beck;Контейнерная станция радиотехнической разведки Л-081 «Фантасмагория-B»
 weapons/su_phantasmagoria_b_beck/short;Л-081
-weapons/su_phantasmagoria_b_front;Контейнерная станция радиотехнической разведки Л-081 «Фантасмагория-B» <color=#ff6f00>TGP-PRH</color>
+weapons/su_phantasmagoria_b_front;Контейнерная станция радиотехнической разведки Л-081 «Фантасмагория-B»
 weapons/su_phantasmagoria_b_front/short;Л-081
-weapons/su_l_081_b;Контейнерная станция радиотехнической разведки Л-081 «Фантасмагория-B» <color=#ff6f00>TGP-PRH</color>
+weapons/su_l_081_b;Контейнерная станция радиотехнической разведки Л-081 «Фантасмагория-B»
 weapons/su_l_081_b/short;Л-081
-weapons/su_l_081_c;Контейнерная станция радиотехнической разведки «Фантасмагория-С» <color=#ff6f00>TGP-PRH</color>
+weapons/su_l_081_c;Контейнерная станция радиотехнической разведки «Фантасмагория-С»
 weapons/su_l_081_c/short;Фантасмагория-С
-weapons/su_l_086_viuga_17;Контейнерная станция радиотехнической разведки Л-086 «Вьюга-17» <color=#ff6f00>TGP-PRH</color>
+weapons/su_l_086_viuga_17;Контейнерная станция радиотехнической разведки Л-086 «Вьюга-17»
 weapons/su_l_086_viuga_17/short;Л-086
+weapons/su_hod_pod;Контейнерная станция «Ход»
+weapons/su_hod_pod/short;Ход
 
 //COUNTERMEASURES
-counterMeasures/l_370v28_5l;Л-370-5Л <color=#ff6f00>CM-DIR</color>
+counterMeasures/l_370v28_5l;Л-370-5Л
 
 //ACTIVE PROTECTION SYSTEMS
 aps/drozd;Комплекс активной защиты 1030М-01 «Дрозд»

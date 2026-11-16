@@ -31,6 +31,7 @@ weapons/25mm_PG87_user_cannon;WA709 | PG1987式双管25毫米高射机关炮
 weapons/25mm_zpt90_user_cannon;ZPT1990式25毫米坦克炮
 weapons/30mm_Bushmaster_2_Mk_44_cm34_user_cannon;MK44型30公厘機砲
 weapons/30mm_pgz_625_user_cannon;630型30毫米高射机关炮
+weapons/30mm_hpj11_naval_user_cannon;1130型11管30毫米舰炮 | H/PJ11型11管30毫米舰炮
 weapons/cannonType30_1;30毫米1型航空机炮
 weapons/cannonType30_1/short;30-1型
 weapons/cannonType_30_4;30毫米4型航空机炮
@@ -69,6 +70,7 @@ weapons/125mm_ZPT_98_vt4b_user_cannon;ZPT1998式125毫米坦克炮
 weapons/125mm_Type_99A_user_cannon;ZPT1998A式125毫米坦克炮
 weapons/125mm_l54_cn_user_cannon;ZPT式125毫米坦克炮
 weapons/130mm_pl_59a_gai_user_cannon;PL1959A式130毫米加农炮
+weapons/130mm_70_hpj45_naval_user_cannon;H/PJ45A型130毫米舰炮
 weapons/152mm_pl_66_gai_user_cannon;WZ321 | PLZ1983式152毫米自行加榴炮
 weapons/155mm_PL05_user_cannon;PLZ2005式155毫米自行加榴炮
 weapons/155mm_plz45_user_cannon;PLZ45式155毫米加农榴弹炮
@@ -252,6 +254,8 @@ weapons/cn_cm_502kg_he;CM502KG轻型近程空面导弹武器系统
 weapons/cn_cm_502kg_he/short;CM502KG
 weapons/cn_cm_502kg_he_rail;CM502KG轻型近程空面导弹武器系统
 weapons/cn_cm_502kg_he_rail/short;CM502KG
+weapons/cn_cm_502kg_he_wo_mitl;CM502KG轻型近程空面导弹武器系统 (w/o Man-in-the-Loop)
+weapons/cn_cm_502kg_he_wo_mitl/short;CM502KG (w/o MITL)
 weapons/125mm_hj_73_rocket_launcher;HJ-73 | AFT07反坦克导弹
 weapons/125mm_hj_73_rocket_launcher/short;AFT07
 125mm_hj_73;AFT07
@@ -294,6 +298,21 @@ weapons/127mm_tc_1l_rocket_launcher_user_cannon/short;劍一防飛系
 105mm_gp_105;GP105
 125mm_GP125;GP125
 100mm_aps_03;APS03-100
+weapons/rocket_hhq9_vls_naval_rocket_launcher;HT1型通用垂直发射装置
+weapons/rocket_hhq9_vls_naval_rocket_launcher/short;HT1
+cn_hhq_9;H/AJK03
+weapons/cn_hhq_9;H/AJK03舰空导弹
+weapons/cn_hhq_9/short;H/AJK03
+weapons/rocket_hhq10_naval_rocket_launcher;HHQ-10 | H/AJK10舰空导弹发射架
+weapons/rocket_hhq10_naval_rocket_launcher/short;H/AJK10
+cn_hhq_10;H/AJK10
+weapons/cn_hhq_10;H/AJK10舰空导弹
+weapons/cn_hhq_10/short;H/AJK10
+weapons/rocket_hhq16_vls_naval_rocket_launcher;HHQ-16 | H/AKJ16型垂直发射装置
+weapons/rocket_hhq16_vls_naval_rocket_launcher/short;H/AKJ16
+cn_hhq_16;H/AJK16
+weapons/cn_hhq_16;H/AJK16舰空导弹
+weapons/cn_hhq_16/short;H/AJK16
 
 //FUEL TANKS
 weapons/cn_800l_fyx800_drop_tank_1;K/FYX800B副油箱

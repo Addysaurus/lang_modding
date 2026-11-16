@@ -83,6 +83,26 @@ modification/br_vz_128_m15/desc;"Loadout unlocked:
   • {unlockWeapons}"
 
 //MISSILES
+modification/mig_25_r_40rd;Р-40РД
+modification/mig_25_r_40rd/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АПУ-84-46</color>:
+  • {unlockWeapons}"
+
+modification/mig_25_r_40td;Р-40ТД
+modification/mig_25_r_40td/desc;"Loadout unlocked:
+• <color=@userlogColoredText>АПУ-84-46</color>:
+  • {unlockWeapons}"
+
+modification/su_r_98mr;Р-98МР
+modification/su_r_98mr/desc;"Loadout unlocked:
+• <color=@userlogColoredText>ПУ-2-8</color>:
+  • {unlockWeapons}"
+
+modification/su_r_98mt;Р-98МТ
+modification/su_r_98mt/desc;"Loadout unlocked:
+• <color=@userlogColoredText>ПУ-2-8</color>:
+  • {unlockWeapons}"
+
 modification/su_rvv_sd;РВВ-СД
 modification/su_rvv_sd/desc;"Loadout unlocked:
 • <color=@userlogColoredText>АКУ-170Е</color> pylon:
@@ -109,10 +129,15 @@ modification/su_x38mt_e/desc;"Loadout unlocked:
 • <color=@userlogColoredText>АКУ-58-1</color> pylon:
   • <color=@userlogColoredText>Х-38МТЭ</color> <color=#ff6f00>AGM-IR/GNSS</color>"
 
-modification/su_lmur;Х-39
+modification/su_lmur;Х-39 (w/o MITL)
 modification/su_lmur/desc;"Loadout unlocked:
-• <color=@userlogColoredText>АПУ-Л</color> pylon:
-  • <color=@userlogColoredText>Х-39</color> <color=#ff6f00>AGM-IR/GNSS</color> x2"
+• <color=@userlogColoredText>APU-L</color> pylon:
+  • {unlockWeapons}"
+
+modification/su_lmur_mitl;Х-39
+modification/su_lmur_mitl/desc;"Loadout unlocked:
+• <color=@userlogColoredText>APU-L</color> pylon:
+  • {unlockWeapons}"
 
 modification/su_kh_59;Х-59МЭ
 modification/su_kh_59/desc;"Loadout unlocked:
@@ -218,3 +243,8 @@ modification/tv_atgm;K/AKD88 / Х-29Т
 modification/tv_atgm/desc;"Loadout unlocked:
 • <color=@userlogColoredText>GDJ-49B</color>, <color=@userlogColoredText>АКУ-58АЭ</color>:
   • {unlockWeapons}"
+
+//SENSORS
+modification/su_hod_pod;Ход
+modification/su_hod_pod/desc;"Loadout unlocked:
+• {unlockWeapons}"

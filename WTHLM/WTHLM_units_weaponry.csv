@@ -105,6 +105,8 @@ weapons/cannonM61A1_low_rpm;Cannon, 20mm, M61A1 Vulcan
 weapons/cannonM61A1_low_rpm/short;M61A1
 weapons/20mm_m61_vulcan_naval_user_cannon;Cannon, 20mm, M61A1 Vulcan
 weapons/20mm_m61_vulcan_naval_user_cannon/short;M61A1
+weapons/20mm_m61_phalanx_block1b_naval_user_cannon;"Weapon System, Close-In, Mk 15 Block 1B ""Phalanx"""
+weapons/20mm_m61_phalanx_block1b_naval_user_cannon/short;Mk 15 Block 1B
 weapons/cannonM61A2;Cannon, 20mm, M61A2 Vulcan
 weapons/cannonM61A2/short;M61A2
 weapons/cannonXM301l;Cannon, 20mm, XM301
@@ -119,9 +121,13 @@ weapons/120mm_M256_user_cannon;Gun, 120mm, M256
 weapons/120mm_M256_M1A2_user_cannon;Gun, 120mm, M256
 weapons/120mm_M256_KE_W_user_cannon;Gun, 120mm, M256
 weapons/120mm_M256_M1A3_user_cannon;Gun, 120mm, M256
+weapons/zippo_flamethrower;Flame Thrower, Mechanized, Main Armament, M10-8
 
 weapons/127mm_54_mk45_naval_user_cannon;"Mount, Gun, 5""/54, Mk 45 Mod 0
 • Gun, 5""/54, Mk 19 Mod 0"
+
+weapons/127mm_62_mk45_mod4_naval_user_cannon;"Mount, Gun, 5""/62, Mk 45 Mod 4
+• Gun, 5""/62, Mk 36 Mod 0"
 
 weapons/152mm_6inch_47_mk_17_naval_user_cannon;"Gun, 6""/47, Mk 17 Mod 0"
 weapons/155mm_t180_user_cannon;Gun, 155mm, T180
@@ -318,6 +324,7 @@ weapons/25mm_PG87_user_cannon;WA709 | PG1987 Shì Shuāng Guan 25 Háomi Gāosh�
 weapons/25mm_zpt90_user_cannon;ZPT1990 Xíng 25 Háomi Tankè Pào
 weapons/30mm_Bushmaster_2_Mk_44_cm34_user_cannon;MK44 Xíng 30 Gōnglí Jīpào
 weapons/30mm_pgz_625_user_cannon;630 Xíng 30 Háomi Gāoshè Jīguān Pào
+weapons/30mm_hpj11_naval_user_cannon;1130 Xíng 11 Guan 30 Háomi Jiàn Pào | H/PJ11 Xíng 11 Guan 30 Háomi Jiàn Pào
 weapons/cannonType30_1;30 Háomi 1 Xíng Hángkōng Jīpào
 weapons/cannonType30_1/short;30-1 Xíng
 weapons/cannonType_30_4;30 Háomi 1 Xíng Hángkōng Jīpào
@@ -357,6 +364,7 @@ weapons/125mm_ZPT_98_vt4b_user_cannon;ZPT1998 Xíng 125 Háomi Tankè Pào
 weapons/125mm_Type_99A_user_cannon;ZPT1998A Xíng 125 Háomi Tankè Pào
 weapons/125mm_l54_cn_user_cannon;ZPT Xíng 125 Háomi Tankè Pào
 weapons/130mm_pl_59a_gai_user_cannon;PL1959A Shì 130 Háomi Jiānóng Pào
+weapons/130mm_70_hpj45_naval_user_cannon;H/PJ45A Xíng 130 Háomi Jiàn Pào
 weapons/152mm_pl_66_gai_user_cannon;WZ321 | PLZ1983 Shì 155 Háomi Zìxíng Jiā Liúpào
 weapons/155mm_PL05_user_cannon;PLZ2005 Shì 155 Háomi Zìxíng Jiā Liúpào
 weapons/155mm_plz45_user_cannon;PLZ45 Shì 155 Háomi Zìxíng Jiā Liúpào
@@ -455,6 +463,9 @@ weapons/120mm_IMI_MG253_user_cannon;Tutaḥ 120 mm Reti'ah 'Arukah MG253
 120mm_ke_w;KE-W
 120mm_ke_w_a2;KE-W A2
 127mm_54_vt_hc_mk68;HE-CVT, Mk 68
+127mm_54_it_mk42_mod0_common;Common, Mk 42 Mod 0
+127mm_54_it_hc_mk41_mod0;HC, Mk 41 Mod 0
+127mm_54_it_vt_hc_mk41;VT, SD, Mk 41 Mod 0
 152mm_47_mk_28_common;Common, Mk 28
 155mm_t152;T152E5
 155_mm_t267;T267
@@ -513,6 +524,7 @@ t_ball_t_38/name/short;T
 122mm_3vdcz3;3VDCz3
 125mm_3of_82;3VOF128
 125mm_3bm42_2;3VBM17 (3BM42-2 + 3BM44-2)
+130mm_cn_he_vt;A3-ZS-44R
 305mm_sm_33_he;PB obr. 1948 g.
 305mm_sm_33_ap;BR obr. 1948 g.
 406mm_obr1915_28_sapcbc;PB obr. 1915/28 gg.
@@ -812,6 +824,10 @@ weapons/uk_1650lb_sn_he/short;H.E., S.N., 1650-lb
 //JAPAN BOMBS
 weapons/kr_kggb;Han'guk-hyŏng GPS Yudo-Poktan
 weapons/kr_kggb/short;KGGB
+weapons/jp_500lb_mk82_gcs_1;Mk 82 Gata 500 Pondo Futsū Bakudan (91 Shiki Bakudanyō Yūdō Sōchi 1 Gata)
+weapons/jp_500lb_mk82_gcs_1/short;Mk 82 (GCS-1 (1 Gata))
+weapons/jp_750lb_m117_gcs_1;JM117 Gata 340kg Futsū Bakudan (91 Shiki Bakudanyō Yūdō Sōchi 2 Gata)
+weapons/jp_750lb_m117_gcs_1/short;JM117 (GCS-1 (2 Gata))
 
 //CHINA BOMBS
 weapons/cn_gp_100_2;100 Gōngjīn 2 Xíng Hángkōng Bàopò Zhàdàn
@@ -1230,16 +1246,39 @@ weapons/127mm_bgm_71c_itow_rocket_launcher;Ground-Launched, Surface-Attack, Guid
 weapons/127mm_bgm_71c_itow_rocket_launcher/short;BGM-71C
 weapons/127mm_iTOW_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233
 weapons/127mm_BGM_71_tow_launcher_user_cannon;Launcher, Tubular, Guided Missile, M233
-weapons/rocket_mk11_naval_rocket_launcher;Launcher System, Guided Missile, Mk 11 Mod 0
+weapons/rocket_mk11_naval_rocket_launcher;Guided Missile Launching System, Mk 11 Mod 0
 weapons/rocket_mk11_naval_rocket_launcher/short;Mk 11 Mod 0
-weapons/rocket_mk13_naval_rocket_launcher;Launcher System, Guided Missile, Mk 13 Mod 0
+weapons/rocket_mk13_naval_rocket_launcher;Guided Missile Launching System, Mk 13 Mod 0
 weapons/rocket_mk13_naval_rocket_launcher/short;Mk 13 Mod 0
 rim_24b;RIM-24B
 410mm_mim104b;MIM-104B
 us_mim_23b;MIM-23B
 us_mim_23a;MIM-23A
 557mm_mgm_52;MGM-52C
+610mm_mgm_140;MGM-140
 rim_66c;RIM-66C
+weapons/rocket_rim174_sm6_vls_naval_rocket_launcher;Vertical Launching System, Mk 41 Mod 0
+weapons/rocket_rim174_sm6_vls_naval_rocket_launcher/short;VLS, Mk 41 Mod 0
+weapons/rocket_rim66m_sm2_block3b_vls_naval_rocket_launcher;Vertical Launching System, Mk 41 Mod 0
+weapons/rocket_rim66m_sm2_block3b_vls_naval_rocket_launcher/short;VLS, Mk 41 Mod 0
+weapons/us_rim_174_sm_6;Ship-Launched, Intercept-Aerial, Guided Missile, RIM-174A Standard Extended Range Active Missile
+weapons/us_rim_174_sm_6/short;RIM-174A
+us_rim_174_sm_6;RIM-174A
+weapons/rocket_rim162_essm_block2_naval_rocket_launcher;Guided Missile Launching System, Mk 29 Mod 5
+weapons/rocket_rim162_essm_block2_naval_rocket_launcher/short;GMLS, Mk 29 Mod 5
+weapons/us_rim_162_essm_block2;Ship-Launched, Intercept-Aerial, Guided Missile, RIM-162H Evolved Sea Sparrow Missile Block 2
+weapons/us_rim_162_essm_block2/short;RIM-162H
+us_rim_162_essm_block2;RIM-162H
+weapons/us_rim_66m_sm_2;Ship-Launched, Intercept-Aerial, Guided Missile, RIM-66M-5 Standard Medium Range Block IIIB
+weapons/us_rim_66m_sm_2/short;RIM-66M-5
+us_rim_66m_sm_2;RIM-66M-5
+weapons/rocket_rim116c_ram_naval_rocket_launcher;Guided Missile Launching System, Mk 49 Mod 0
+weapons/rocket_rim116c_ram_naval_rocket_launcher/short;GMLS, Mk 49 Mod 0
+weapons/us_rim_116c;Ship-Launched, Intercept-Aerial, Guided Missile, RIM-116C Rolling Airframe Missile Block 2
+weapons/us_rim_116c/short;RIM-116C
+us_rim_116c;RIM-116C
+weapons/us_rim_116b;Ship-Launched, Intercept-Aerial, Guided Missile, RIM-116B Rolling Airframe Missile Block 1
+weapons/us_rim_116b/short;RIM-116B
 
 //GERMANY MISSILES
 weapons/de_x4_ruhrstahl;X 4
@@ -1336,8 +1375,10 @@ weapons/su_kh_38mle;Upravlâyemaâ rakyeta Kh-38MLÈ
 weapons/su_kh_38mle/short;Kh-38MLÈ
 weapons/su_kh_38mte;Upravlâyemaâ rakyeta Kh-38MTÈ
 weapons/su_kh_38mte/short;Kh-38MTÈ
-weapons/su_lmur;9-A-7755 | izd. 305 | Lyegkaâ mnogoczyelyevaâ upravlâyemaâ rakyeta Kh-39
+weapons/su_lmur;9-A-7755 | izd. 305 | Lyekkaya mnogotsyelyevaya upravlyayemaya rak'eta Kh-39
 weapons/su_lmur/short;Kh-39
+weapons/su_lmur_wo_mitl;9-A-7755 | izd. 305 | Lyekkaya mnogotsyelyevaya upravlyayemaya rak'eta Kh-39 (w/o Man-in-the-Loop)
+weapons/su_lmur_wo_mitl/short;Kh-39 (w/o MITL)
 weapons/su_kh_58u_a_band;izd. 112U | Upravlâyemaâ rakyeta Kh-58U (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-58M)
 weapons/su_kh_58u_a_band/short;Kh-58U (PRGS-58M)
 weapons/su_kh_58u_a_band_cw;izd. 112U | Upravlâyemaâ rakyeta Kh-58U (Passivnaâ radiolokaczionnaâ golovka samonavyedyeniâ PRGS-58M)
@@ -1386,6 +1427,8 @@ weapons/170mm_57E6M_launcher_user_cannon/short;95Â6M
 170mm_zur_95ya6;57È6-Ye
 170mm_57e6m;57È6M-Ye-M
 170mm_tkb_1055;TKB-1055
+weapons/170mm_tkb_1055_container;Z'enitnaya upravlyayemaya rak'eta TKB-1055
+weapons/170mm_tkb_1055_container/short;TKB-1055
 weapons/360mm_9m317m_user_cannon;Puskovoye ustrojstvo 9P331M
 weapons/360mm_9m317m_user_cannon/short;9P331M
 360mm_9m317ma;9M317MA
@@ -1398,6 +1441,8 @@ weapons/130mm_9M120_BMPT_launcher_user_cannon;"Komplyeksa upravlâyemogo vooruž
 weapons/300mm_9k58_rocket_launcher;Apparatura puska 9P614
 weapons/300mm_9k58_rocket_launcher/short;9P614
 300mm_9m55f;9M55F
+920mm_9m723;9M723
+500mm_9m729;9M729
 
 //UK MISSILES
 weapons/uk_brimstone_dm;Brimstone
@@ -1563,6 +1608,8 @@ weapons/cn_cm_502kg_he;CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì 
 weapons/cn_cm_502kg_he/short;CM502KG
 weapons/cn_cm_502kg_he_rail;CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong
 weapons/cn_cm_502kg_he_rail/short;CM502KG
+weapons/cn_cm_502kg_he_wo_mitl;CM502KG Qīngxíng Jìn Chéng Kōng Miàn Daodàn Wuqì Xìtong (w/o Man-in-the-Loop)
+weapons/cn_cm_502kg_he_wo_mitl/short;CM502KG (w/o MITL)
 weapons/125mm_hj_73_rocket_launcher;HJ-73 | AFT07 Fan Tankè Daodàn
 weapons/125mm_hj_73_rocket_launcher/short;AFT07
 125mm_hj_73;AFT07
@@ -1579,11 +1626,11 @@ atgm_302;302
 weapons/atgm_302/short;302
 weapons/152mm_hj_9_launcher_user_cannon;HJ-9 | AFT09 Zhòngxíng Fan Tankè Daodàn Fāshè Chē
 152mm_hj9;AFT09
-weapons/70mm_QN201DD_rocket_launcher;QN201 Jīngjì Xíng Duō Yòngtú Daodàn Fāshè Jià
+weapons/70mm_QN201DD_rocket_launcher;QN201 Jīngjì Xíng Duō Yòngtú Daodàn Fāshèjià
 weapons/70mm_QN201DD_rocket_launcher/short;QN201
 70mm_QN201DD;QN201
 weapons/70mm_QN201DD/short;QN201
-weapons/151mm_QN502CDD_rocket_launcher;QN502C Zhōng Chéng Chēzài Zì Xún Dì Zhìnéng Fan Tankè Daodàn Fāshè Jià
+weapons/151mm_QN502CDD_rocket_launcher;QN502C Zhōng Chéng Chēzài Zì Xún Dì Zhìnéng Fan Tankè Daodàn Fāshèjià
 weapons/151mm_QN502CDD_rocket_launcher/short;QN502C
 151mm_QN502CDD;QN502C
 weapons/151mm_qn502cdd/short;QN502C
@@ -1603,9 +1650,24 @@ cn_fm_3000;ADK11
 weapons/127mm_tc_1l_rocket_launcher_user_cannon;Jiàn 1 Fángkōng Fēidàn Xìtong
 weapons/127mm_tc_1l_rocket_launcher_user_cannon/short;Jiàn 1
 127mm_tc_1l;Jiàn 1
-weapons/72mm_HN_6_launcher_user_cannon;HN-6 Dì Duì Kōng Daodàn Fāshè Jià
+weapons/72mm_HN_6_launcher_user_cannon;HN-6 Dì Duì Kōng Daodàn Fāshèjià
 72mm_hn_6;HN-6
 weapons/72mm_hn_6/short;HN-6
+weapons/rocket_hhq9_vls_naval_rocket_launcher;HT1 Xíng Tōngyòng Chuízhí Fāshè Zhuāngzhì
+weapons/rocket_hhq9_vls_naval_rocket_launcher/short;HT1
+cn_hhq_9;H/AJK03
+weapons/cn_hhq_9;H/AJK03 Jiàn Kōng Dǎodàn
+weapons/cn_hhq_9/short;H/AJK03
+weapons/rocket_hhq10_naval_rocket_launcher;HHQ-10 | H/AJK10 Jiàn Kōng Dǎodàn Fāshèjià
+weapons/rocket_hhq10_naval_rocket_launcher/short;H/AJK10
+cn_hhq_10;H/AJK10
+weapons/cn_hhq_10;H/AJK10 Jiàn Kōng Dǎodàn
+weapons/cn_hhq_10/short;H/AJK10
+weapons/rocket_hhq16_vls_naval_rocket_launcher;HHQ-16 | H/AJK16 Xíng Chuízhí Fāshè Zhuāngzhì
+weapons/rocket_hhq16_vls_naval_rocket_launcher/short;H/AKJ16
+cn_hhq_16;H/AJK16
+weapons/cn_hhq_16;H/AJK16 Jiàn Kōng Dǎodàn
+weapons/cn_hhq_16/short;H/AJK16
 
 //ITALY MISSILES
 
@@ -1680,14 +1742,18 @@ weapons/spike_er;Spike ER
 weapons/spike_er/short;Spike ER
 weapons/spike_er_default;Spike ER
 weapons/spike_er_default/short;Spike ER
+weapons/spike_er_wo_mitl;Spike ER (w/o Man-in-the-Loop)
+weapons/spike_er_wo_mitl/short;Spike ER (w/o MITL)
 weapons/spike_nlos;Spike NLOS 5
 weapons/spike_nlos/short;Spike NLOS 5
 weapons/spike_nlos_default;Spike NLOS 5
 weapons/spike_nlos_default/short;Spike NLOS 5
+weapons/spike_nlos_wo_mitl;Spike NLOS 5 (w/o Man-in-the-Loop)
+weapons/spike_nlos_wo_mitl/short;Spike NLOS 5 (w/o MITL)
 
 //UNCATEGORIZED MISSILES
 
-//USA TORPEDOES
+//USA TORPEDOES & DEPTH CHARGES
 weapons/us_533mm_21in_bliss_leavitt_mk9_torpedo;Torpedo, Mk 9 Mod 1
 weapons/us_533mm_21in_bliss_leavitt_mk9_torpedo/short;Mk 9 Mod 1
 weapons/de_533mm_mk35_torpedo;Torpedo, Mk 35 Mod 0
@@ -1695,7 +1761,7 @@ weapons/de_533mm_mk35_torpedo/short;Mk 35 Mod 0
 weapons/us_533mm_21in_mark35_torpedo;Torpedo, Mk 35 Mod 0
 weapons/us_533mm_21in_mark35_torpedo/short;Mk 35 Mod 0
 
-//GERMANY TORPEDOES
+//GERMANY TORPEDOES & DEPTH CHARGES
 weapons/de_500mm_g6c_torpedo;Torpedo G 6c
 weapons/de_500mm_g6c_torpedo/short;G 6c
 weapons/de_500mm_g7_torpedo;Torpedo G 7
@@ -1709,21 +1775,27 @@ weapons/de_533_g7e_t3d_torpedo/short;G 7e (T IIIa)
 weapons/de_533_g7e_t5a_torpedo;Torpedo G 7e (Torpedonummer Va)
 weapons/de_533_g7e_t5a_torpedo/short;G 7e (T Va)
 
-//USSR TORPEDOES
+//USSR TORPEDOES & DEPTH CHARGES
 weapons/su_45_54vt_1954_torpedo;Torpyeda vysotnogo torpyedomyetaniâ 45-54VT
 weapons/su_45_54vt_1954_torpedo/short;45-54VT
 
-//UK TORPEDOES
+//UK TORPEDOES & DEPTH CHARGES
 
-//JAPAN TORPEDOES
+//JAPAN TORPEDOES & DEPTH CHARGES
 
-//CHINA TORPEDOES
+//CHINA TORPEDOES & DEPTH CHARGES
 
-//ITALY TORPEDOES
+//ITALY TORPEDOES & DEPTH CHARGES
+weapons/it_533mm_a184_torpedo;Siluro A184
+weapons/it_533mm_a184_torpedo/short;A184
 
-//FRANCE TORPEDOES
+//FRANCE TORPEDOES & DEPTH CHARGES
+weapons/depth_charge_fr_guiraud_100;Grenades sous-marines Guiraud à 100 kg d'explosif
+weapons/depth_charge_fr_guiraud_100/short;Guiraud 100 kg
+weapons/depth_charge_fr_guiraud_200;Grenades sous-marines Guiraud modèle 1922 à 200 kg d'explosif
+weapons/depth_charge_fr_guiraud_200/short;Guiraud mle. 1922
 
-//SWEDEN TORPEDOES
+//SWEDEN TORPEDOES & DEPTH CHARGES
 weapons/swd_m36_torpedo;45 cm torped m/36
 weapons/swd_m36_torpedo/short;45 cm torp m/36
 weapons/swd_m38_torpedo;45 cm torped m/38
@@ -1731,9 +1803,9 @@ weapons/swd_m38_torpedo/short;45 cm torp m/38
 weapons/swd_m41_torpedo;45 cm torped m/41
 weapons/swd_m41_torpedo/short;45 cm torp m/41
 
-//ISRAEL TORPEDOES
+//ISRAEL TORPEDOES & DEPTH CHARGES
 
-//UNCATEGORIZED TORPEDOES
+//UNCATEGORIZED TORPEDOES & DEPTH CHARGES
 
 //USA FUEL TANKS
 weapons/us_100gal_drop_tank_1;Tank - 100 Gallon Droppable Fuel
@@ -1948,6 +2020,10 @@ weapons/cn_760l_f_6c_drop_tank_l;Drop tank (760 L)
 weapons/cn_760l_f_6c_drop_tank_l/short;Drop tank (760 L)
 weapons/cn_760l_f_6c_drop_tank_r;Drop tank (760 L)
 weapons/cn_760l_f_6c_drop_tank_r/short;Drop tank (760 L)
+weapons/cn_760l_q_5d_drop_tank_l;Podv'esnoj toplivnyj bak PTB-760
+weapons/cn_760l_q_5d_drop_tank_l/short;PTB-760
+weapons/cn_760l_q_5d_drop_tank_r;Podv'esnoj toplivnyj bak PTB-760
+weapons/cn_760l_q_5d_drop_tank_r/short;PTB-760
 weapons/cn_800l_fyx800_drop_tank_1;FYX800B fùyóuxiāng
 weapons/cn_800l_fyx800_drop_tank_1/short;FYX800B
 weapons/cn_800l_central_fyx800_drop_tank;FYX800B fùyóuxiāng
@@ -2817,10 +2893,6 @@ weapons/us_agm_62a_er;Guided Weapon, MK 3 MOD 0 Walleye I ER
 weapons/us_agm_62a_er/short;Guided Weapon, MK 3 MOD 0
 weapons/us_agm_62a_2_erdl;Guided Weapon, MK 23 MOD 0 Walleye II ERDL
 weapons/us_agm_62a_2_erdl/short;Guided Weapon, MK 23 MOD 0
-weapons/jp_500lb_mk82_gcs_1;Mk. 82 GCS-1 guided bomb
-weapons/jp_500lb_mk82_gcs_1/short;Mk. 82 GCS-1
-weapons/jp_750lb_m117_gcs_1;JM117 GCS-1 guided bomb
-weapons/jp_750lb_m117_gcs_1/short;JM117 GCS-1
 weapons/uk_250lbs;G.P. 250 lb Mk. IV bomb
 weapons/uk_250lbs_43;G.P. 250 lb Mk. IV bomb
 weapons/uk_250lbs_default;G.P. 250 lb Mk.IV bomb
@@ -3584,7 +3656,6 @@ weapons/7_62mm_M240_user_machinegun;Machine Gun, 7.62mm, M240
 weapons/7_92mm_MG3_user_machinegun;7.62 mm MG3A1 machine gun
 weapons/5_56mm_MG4_user_machinegun;5.56 mm MG4 machine gun
 weapons/churchill_flamethrower;Flamethrower
-weapons/zippo_flamethrower;Flamethrower
 weapons/gunMG3;7.62 mm MG3 machine gun
 weapons/7_62mm_DT_user_machinegun;56-P-322 | DT
 weapons/120mm_M58_user_cannon;Gun, 105mm, M58
@@ -5492,8 +5563,8 @@ weapons/ir_yasser;Yāsir
 weapons/ir_yasser/short;Yāsir
 weapons/ir_sedjil;AIM-23C Sajīl
 weapons/ir_sedjil/short;AIM-23C
-weapons/ir_fakour_90;AIM-23B Fakūr-90
-weapons/ir_fakour_90/short;AIM-23B
+weapons/ir_fakour_90;AIM-F90 Fakūr-90
+weapons/ir_fakour_90/short;AIM-F90
 weapons/swd_rb74;robot 74
 weapons/swd_rb74/short;rb 74
 weapons/swd_rb74_default;robot 74
@@ -7526,8 +7597,6 @@ weapons/203mm_50_mle_1924_naval_user_cannon/short;203 mm/50 model 1924
 203mm_50_opf_mle1927_sapbc;203 mm OPF Mle 1927 SAPBC
 weapons/138mm_50_model_1929_naval_user_cannon;138.6 mm/50 model 1929 gun
 weapons/138mm_50_model_1929_naval_user_cannon/short;138.6 mm/50 model 1929
-weapons/depth_charge_fr_guiraud_100;Guiraud 100kg depth charge
-weapons/depth_charge_fr_guiraud_100/short;Guiraud 100kg
 weapons/138mm_55_model_1910_naval_user_cannon;138.6 mm/55 model 1910 gun
 weapons/138mm_55_model_1910_naval_user_cannon/short;138.6 mm/55 model 1910
 weapons/305mm_45_model_1906_10_naval_user_cannon;305 mm/45 model 1906-10 gun

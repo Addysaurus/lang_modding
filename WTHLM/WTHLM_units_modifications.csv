@@ -2,6 +2,12 @@
 //GENERAL TEXTS
 modification/headerForWeapon;Weapon modifications
 
+//GENERAL MODIFICATIONS
+modification/ship_sonar;Sonar
+modification/ship_sonar/desc;Sonar uses sound waves to detect underwater signatures such as submarines.
+modification/MAW_system_heli_false_thermal_targets_large_dircm;MAWS / DIRCM
+modification/MAW_system_heli_false_thermal_targets_large_dircm/desc;Installs a missile approach warning system to automatically deploy countermeasures and a directional infrared countermeasure system.
+
 //USA GUNS
 modification/a_26_gunpod;Gunpod
 modification/a_26_gunpod/desc;"Loadout unlocked:
@@ -120,6 +126,18 @@ modification/us_jdam/desc;"Loadout unlocked: 893.6 kg <color=@userlogColoredText
 Loadout unlocked: 253.1 kg <color=@userlogColoredText>GBU-38(V)1/B</color> GNSS-guided bomb.
 Loadout unlocked: 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> GNSS- and laser-guided bomb.
 Loadout unlocked: 987 kg <color=@userlogColoredText>GBU-64(V)1/B</color> GNSS-guided bomb."
+
+modification/us_gbu_31_62/desc;Allows the installation of GBU-31/62 JDAM guided bombs.
+modification/us_gbu_31_62;GBU-31/62 JDAM
+
+modification/us_gbu_31_62;GBU-31(V)1/B / 62(V)1/B
+modification/us_gbu_31_62/desc;"Loadout unlocked:
+• <color=@userlogColoredText>BRU-47/A</color> pyrotechnic ejector rack on <color=@userlogColoredText>LAMS-7</color> pylon:
+  • 893.6 kg <color=@userlogColoredText>GBU-31(V)1/B</color> <color=#ff6f00>BMB-GNSS</color>
+• <color=@userlogColoredText>BRU-33/A</color> triple ejector rack on <color=@userlogColoredText>BRU-47/A</color> pyrotechnic ejector rack <color=@userlogColoredText>LAMS-7</color> pylon:
+  • 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> <color=#ff6f00>BMB-GNSS</color> x3
+• <color=@userlogColoredText>BRU-33/A</color> triple ejector rack on <color=@userlogColoredText>BRU-47/A</color> pyrotechnic ejector rack <color=@userlogColoredText>LAMS-7B</color> pylon
+  • 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> <color=#ff6f00>BMB-GNSS</color> x3"
 
 modification/us_gbu31_gbu64_jdam;GBU-31(V)1/B / 64(V)1/B
 modification/us_gbu31_gbu64_jdam/desc;"Loadout unlocked: 893.6 kg <color=@userlogColoredText>GBU-31(V)1/B</color> GNSS-guided bomb.
@@ -243,20 +261,13 @@ modification/uk_bomb_1650lb;H.E., S.N., 1650-lb
 modification/uk_bomb_1650lb/desc;Loadout unlocked: 748 kg <color=@userlogColoredText>Bomb, H.E., S.N., 1650-lb</color> boms.
 
 //JAPAN BOMBS
+modification/jp_gcs_1;Mk 82 (GCS-1 (1 Gata)) / JM117 (GCS-1 (2 Gata))
+modification/jp_gcs_1/desc;"Loadout unlocked:
+•  <color=@userlogColoredText>BRU-41/A</color>, <color=@userlogColoredText>BRU-42/A</color>:
+  • {unlockWeapons}"
+
 modification/kr_kggb/desc;"Loadout unlocked: 289.72 kg <color=@userlogColoredText>Hanguk-hyeong GPS Yudo-poktan</color> GNSS-guided bomb."
 modification/kr_kggb;KGGB
-
-modification/us_gbu_31_62/desc;Allows the installation of GBU-31/62 JDAM guided bombs.
-modification/us_gbu_31_62;GBU-31/62 JDAM
-
-modification/us_gbu_31_62;GBU-31(V)1/B / 62(V)1/B
-modification/us_gbu_31_62/desc;"Loadout unlocked:
-• <color=@userlogColoredText>BRU-47/A</color> pyrotechnic ejector rack on <color=@userlogColoredText>LAMS-7</color> pylon:
-  • 893.6 kg <color=@userlogColoredText>GBU-31(V)1/B</color> <color=#ff6f00>BMB-GNSS</color>
-• <color=@userlogColoredText>BRU-33/A</color> triple ejector rack on <color=@userlogColoredText>BRU-47/A</color> pyrotechnic ejector rack <color=@userlogColoredText>LAMS-7</color> pylon:
-  • 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> <color=#ff6f00>BMB-GNSS</color> x3
-• <color=@userlogColoredText>BRU-33/A</color> triple ejector rack on <color=@userlogColoredText>BRU-47/A</color> pyrotechnic ejector rack <color=@userlogColoredText>LAMS-7B</color> pylon
-  • 289.72 kg <color=@userlogColoredText>GBU-62(V)1/B</color> <color=#ff6f00>BMB-GNSS</color> x3"
 
 //CHINA BOMBS
 modification/cn_q5_type_100;100-2 Xíng
@@ -503,7 +514,7 @@ Loadout unlocked: 490 kg <color=@userlogColoredText>SPICE 1000</color> electro-o
 modification/il_spice_1000;SPICE 1000
 modification/il_spice_1000/desc;Loadout unlocked: 490 kg <color=@userlogColoredText>SPICE 1000</color> electro-optically-guided bomb.
 
-modification/il_spice_1000_2000;SPICE 1000/2000
+modification/il_spice_1000_2000;SPICE 1000 / 2000
 modification/il_spice_1000_2000/desc;"Loadout unlocked: 490 kg <color=@userlogColoredText>SPICE 1000</color> electro-optically-guided bomb.
 Loadout unlocked: 970 kg <color=@userlogColoredText>SPICE 2000</color> electro-optically-guided bomb."
 
@@ -514,6 +525,11 @@ modification/il_spice_2000_gbu31_jdam;SPICE 2000 / GBU-31(V)1/B / 64(V)1/B
 modification/il_spice_2000_gbu31_jdam/desc;"Loadout unlocked: 970 kg <color=@userlogColoredText>SPICE 2000</color> electro-optically-guided bomb.
 Loadout unlocked: 893.6 kg <color=@userlogColoredText>GBU-31(V)1/B</color> GNSS-guided bomb.
 Loadout unlocked: 987 kg <color=@userlogColoredText>GBU-64(V)1/B</color> GNSS-guided bomb."
+
+modification/il_spice;SPICE 250 / 1000 / 2000
+modification/il_spice/desc;"Loadout unlocked:
+• <color=@userlogColoredText>SUU-59B/A</color>, <color=@userlogColoredText>BRU-61/A</color>:
+  • {unlockWeapons}"
 
 //UNCATEGORIZED BOMBS
 
@@ -622,11 +638,20 @@ modification/fr_fz275/desc;"Loadout unlocked:
 
 //USA MISSILES
 modification/us_aim_4f;AIM-4F
-modification/us_aim_4f/desc;Loadout unlocked: <color=@userlogColoredText>AIM-4F Super Falcon</color> semi-active radar-homing air-to-air missile.
+modification/us_aim_4f/desc;"Loadout unlocked:
+• {unlockWeapons}"
+
 modification/us_aim_4g;AIM-4G
-modification/us_aim_4g/desc;Loadout unlocked: <color=@userlogColoredText>AIM-4G Super Falcon</color> infrared-guided air-to-air missile.
+modification/us_aim_4g/desc;"Loadout unlocked:
+• {unlockWeapons}"
+
 modification/us_aim_9n;AIM-9N
 modification/us_aim_9n/desc;Loadout unlocked: <color=@userlogColoredText>AIM-9N Sidewinder</color> infrared-guided air-to-air missile.
+
+modification/us_aim_26b;AIM-26B
+modification/us_aim_26b/desc;"Loadout unlocked:
+• {unlockWeapons}"
+
 modification/us_aim_120c;AIM-120C-5
 modification/us_aim_120c/desc;Loadout unlocked: <color=@userlogColoredText>AIM-120C-5 AMRAAM</color> active radar-homing air-to-air missile.
 
@@ -710,6 +735,12 @@ modification/de_x4_ruhrstahl/desc;Loadout unlocked: <color=@userlogColoredText>X
 modification/de_x4_ruhrstahl;X 4
 modification/sws_flz_lwf_63_75;Flz.Lwf. 63/75
 modification/sws_flz_lwf_63_75/desc;"Loadout unlocked: <color=@userlogColoredText>Flz.Lwf. 63/75 ""SIWA""</color> infrared-guided air-to-air missile."
+
+modification/sws_flz_lwf_63_90;Flz.Lwf. LL 63/90
+modification/sws_flz_lwf_63_90/desc;"Loadout unlocked:
+• <color=@userlogColoredText>LAU-100/A</color>, <color=@userlogColoredText>LAU-101/A</color>:
+  • {unlockWeapons}"
+
 modification/sws_flz_lwf_ll_64;Flz.Lwf. LL 64/79
 modification/sws_flz_lwf_ll_64/desc;"Loadout unlocked: <color=@userlogColoredText>Flz.Lwf. LL 64/79 ""FALCO""</color> semi-active radar-homing air-to-air missile."
 modification/flz_lwf_lb_66;Flz.Lwf. LB 66
@@ -719,12 +750,22 @@ modification/flz_lwf_lb_66/desc;"Loadout unlocked: <color=@userlogColoredText>Fl
 modification/mig_25_r_40rd;R-40RD
 modification/mig_25_r_40rd/desc;"Loadout unlocked:
 • <color=@userlogColoredText>APU-84-46</color> pylon:
-  • <color=@userlogColoredText>R-40RD</color> <color=#ff6f00>AAM-SARH</color>"
+  • {unlockWeapons}"
 
 modification/mig_25_r_40td;R-40TD
 modification/mig_25_r_40td/desc;"Loadout unlocked:
 • <color=@userlogColoredText>APU-84-46</color> pylon:
-  • <color=@userlogColoredText>R-40TD</color> <color=#ff6f00>AAM-IR</color>"
+  • {unlockWeapons}"
+
+modification/su_r_98mr;R-98MR
+modification/su_r_98mr/desc;"Loadout unlocked:
+• <color=@userlogColoredText>PU-2-8</color>:
+  • {unlockWeapons}"
+
+modification/su_r_98mt;R-98MT
+modification/su_r_98mt/desc;"Loadout unlocked:
+• <color=@userlogColoredText>PU-2-8</color>:
+  • {unlockWeapons}"
 
 modification/su_rvv_sd;RVV-SD
 modification/su_rvv_sd/desc;"Loadout unlocked:
@@ -752,10 +793,15 @@ modification/su_x38mt_e/desc;"Loadout unlocked:
 • <color=@userlogColoredText>AKU-58-1</color> pylon:
   • <color=@userlogColoredText>Kh-38MTÈ</color> <color=#ff6f00>AGM-IR/GNSS</color>"
 
-modification/su_lmur;Kh-39
+modification/su_lmur;Kh-39 (w/o MITL)
 modification/su_lmur/desc;"Loadout unlocked:
 • <color=@userlogColoredText>APU-L</color> pylon:
-  • <color=@userlogColoredText>Kh-39</color> <color=#ff6f00>AGM-IR/GNSS</color> x2"
+  • {unlockWeapons}"
+
+modification/su_lmur_mitl;Kh-39
+modification/su_lmur_mitl/desc;"Loadout unlocked:
+• <color=@userlogColoredText>APU-L</color> pylon:
+  • {unlockWeapons}"
 
 modification/su_kh_59;Kh-59MÈ
 modification/su_kh_59/desc;"Loadout unlocked:
@@ -949,10 +995,13 @@ modification/ch_yj_83k/desc;"Loadout unlocked:
 • <color=@userlogColoredText>GDJ-49B</color> pylon:
   • <color=@userlogColoredText>H/AKJ83</color> <color=#ff6f00>AShM-ARH</color>"
 
-modification/cn_cm_502kg;CM502KG
+modification/cn_cm_502kg;CM502KG (w/o MITL)
 modification/cn_cm_502kg/desc;"Loadout unlocked:
-• Pylon:
-  • <color=@userlogColoredText>CM502KG</color> <color=#ff6f00>AGM-IR</color> x4"
+• {unlockWeapons}"
+
+modification/cn_cm_502kg_mitl;CM502KG
+modification/cn_cm_502kg_mitl/desc;"Loadout unlocked:
+• {unlockWeapons}"
 
 modification/cn_ba_11;BA-11A
 modification/cn_ba_11/desc;"Loadout unlocked:
@@ -1069,8 +1118,25 @@ modification/is_delilah_ir/desc;"Loadout unlocked:
   • <color=@userlogColoredText>MAU-12C/A</color>
     • {unlockWeapons}"
 
-modification/atgm_spike_nlos;Spike NLOS 5
+modification/atgm_spike_x2;Spike ER (w/o MITL) (x2)
+modification/atgm_spike_x2/desc;"Loadout unlocked:
+• <color=#ffffff>Spike ER (w/o MITL)</color>"
+
+modification/atgm_spike_x4;Spike ER (w/o MITL) (x4)
+modification/atgm_spike_x4/desc;"Loadout unlocked:
+• {unlockWeapons}"
+
+modification/atgm_spike_x4_mitl;Spike ER
+modification/atgm_spike_x4_mitl/desc;"Loadout unlocked:
+• {unlockWeapons}"
+
+modification/atgm_spike_nlos;Spike NLOS 5 (w/o MITL)
 modification/atgm_spike_nlos/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Weapon Wing</color>:
+  • {unlockWeapons}"
+
+modification/atgm_spike_nlos_mitl;Spike NLOS 5
+modification/atgm_spike_nlos_mitl/desc;"Loadout unlocked:
 • <color=@userlogColoredText>Weapon Wing</color>:
   • {unlockWeapons}"
 
@@ -1118,6 +1184,9 @@ modification/laser_rangefinder_lws_sep/desc;"System unlocked:
 //GERMANY SENSORS
 
 //USSR SENSORS
+modification/su_hod_pod;Khot
+modification/su_hod_pod/desc;"Loadout unlocked:
+• {unlockWeapons}"
 
 //UK SENSORS
 
@@ -3681,10 +3750,6 @@ modification/il_gatr;GATR
 modification/il_gatr/desc;Allows the installation of GATR laser-guided missiles.
 modification/us_apkws/desc;Allows installation of AGR-20A Advanced Precision Kill Weapon System missiles.
 modification/us_apkws;AGR-20A
-modification/atgm_spike_x2/desc;Allows installation of Spike-ER missiles.
-modification/atgm_spike_x2;Spike-ER
-modification/atgm_spike_x4/desc;Allows installation of additional Spike-ER missiles.
-modification/atgm_spike_x4;Spike-ER
 modification/tiger_tel12/desc;Allows installation additional of TDA unguided rockets.
 modification/tiger_tel12;TELSON 12
 modification/tiger_hmp400_lcc;FN HMP400 LCC

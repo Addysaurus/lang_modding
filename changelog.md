@@ -29,6 +29,7 @@ All dates are listed in DD-MM-YYYY format.
 - Removed hyphens from US ship pennant numbers and periods from initials in vessel names to align with SECNAVINST 5030.8. Thank you gszabi99 for sending me down this rabbit hole, and damn you for cursing me with this knowledge I did not want. If you have a problem with this change (like I do), blame gszabi (like I do).
 - Revised all roundels in the Hebrew package to be right-to-left.
 - Reworked the **E.B.R.**s.
+- Reworked the **Garford**.
 - Corrected the Taiwanese **F-16V-72** to the **F-16V-20**. Block 72 vehicles have different engines and this vehicle is an upgraded one.
 - Revised the **MiG-21PFM** (no particular reason, the name "MiG-21PFM (94)" was just annoying me so I fixed it).
 - Corrected some missing US naval folders.

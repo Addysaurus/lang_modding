@@ -34,7 +34,7 @@ All dates are listed in DD-MM-YYYY format.
 - Corrected some missing US naval folders.
 - Corrected the **Badger SV** to the **Badger FSV** to reflect the extra ammunition in the rear transport compartment where the troop complement would go.
 - Corrected the spelling of **USS Allen M Sumner (DD 692)** (it was accidentally spelled as Allan).
-- Updated the spacing of the Dutch Leopards.
+- Updated the spacing of the Dutch Leopards ([report](https://github.com/Addysaurus/lang_modding/issues/194)).
 
 ### Weaponry:
 - Colored caliber, mass, and type tags have unfortunately been removed. I do not like this, no one does, but Gaijin broke their display in even more places to the point where it has become untenable to keep them. We have a backup of all the colored versions so if Gaijin does ever add working color tags back, we can add them back. Most guns and bombs still have mass and caliber listed in their actual names because that's how countries name things.

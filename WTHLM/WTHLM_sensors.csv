@@ -102,6 +102,7 @@ sensors/us_an_apg_76_an_asx_1;AN/APG-76
 sensors/us_an_apg_78;AN/APG-78 Longbow
 sensors/us_an_apg_78_v6;AN/APG-78(V)6 Longbow
 sensors/us_an_apg_79;AN/APG-79
+sensors/us_an_apg_82_v_1;Radar Set, AN/APG-82(V)1
 sensors/us_an_apq_100;AN/APQ-100
 sensors/us_an_apq_120;AN/APQ-120(V)5
 sensors/us_an_apq_159_v;Radar Set, AN/APQ-159(V)
@@ -165,6 +166,7 @@ sensors/cn_clc_1_search;CLC1 Duanchéng Dīkōng Jānshì Léidá
 sensors/cn_pgz_625_search;PGZ-625 TA
 sensors/cn_pgz_625_track;PGZ-625 TT
 sensors/su_wa316ld;WA316LD
+sensors/cn_hljp_345_ai;H/LJP349A Xíng Huo Kòng Léidá
 sensors/cn_hq_11_search;HQ-11 TA
 sensors/fr_thales_rbe2;RBE2-AA
 sensors/fr_arabel;Thales Arabel
@@ -257,7 +259,9 @@ weapons/spike_nlos_targeting_pod_aw_159/short;Spike NLOS DLP
 weapons/us_ah_64_ircm;Common Infrared Countermeasures
 weapons/us_ah_64_ircm/short;CIRCM
 counterMeasures/l_370v28_5l;L-370-5L
+counterMeasures/l_370v52;"Bortovoj komplyeks oborony L-370V52 ""V'it'epsk"""
 counterMeasures/cn_z_10me;LDIRCM
+counterMeasures/elt_577;ELT/577 QUIRIS
 weapons/countermeasure_chaff_only_large_a32a;<color=@userlogColoredText>50 mm</color> Chaff
 weapons/countermeasure_chaff_only_large_a32a/short;Chaff
 weapons/countermeasure_split_launcher_am_23;<color=@userlogColoredText>23 mm</color> Countermeasures

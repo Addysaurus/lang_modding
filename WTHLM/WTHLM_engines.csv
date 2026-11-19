@@ -949,19 +949,23 @@ engine_model/dxi11;DXi 11 Euro 5
 engine_model/603_2;typ 603/2
 
 //TRANSMISSION MANUFACTURERS
-transmission_manufacturer/allison;Manufacturer: Allison Transmission
-transmission_manufacturer/perkins;Manufacturer: Perkins
-transmission_manufacturer/david_brown;Manufacturer: David Brown
-transmission_manufacturer/renk;Manufacturer: Renk
-transmission_manufacturer/sesm;Manufacturer: SESM
-transmission_manufacturer/zf;Manufacturer: ZF Friedrichshafen
+transmission_manufacturer/allison;"Manufacturer: Allison Transmission
+"
+transmission_manufacturer/perkins;"Manufacturer: Perkins
+"
+transmission_manufacturer/david_brown;"Manufacturer: David Brown
+"
+transmission_manufacturer/renk;"Manufacturer: Renk
+"
+transmission_manufacturer/sesm;"Manufacturer: SESM
+"
+transmission_manufacturer/zf;"Manufacturer: ZF Friedrichshafen
+"
 
 //UK TRANSMISSIONS
 transmission_model/tn_15e;TN15E+
 
 //UNCATEGORIZED TRANSMISSIONS
-transmission_type/auto;Automatic
-transmission_type/mech;Mechanical
 transmission_model/x_1100_3b;X-1100-3B
 transmission_model/x_300;X-300
 transmission_model/tn54e;TN54E
@@ -970,18 +974,20 @@ transmission_model/lsg_3000;LSG 3000
 transmission_model/mt1500;MT1500
 transmission_model/esm_500;ESM 500
 transmission_model/7hp_902;7HP902
-transmission_model/3040_mx;Transmission model: 3040 MX
-transmission_model/3200_sp;Transmission model: 3200 SP
-transmission_model/4800_sp;Transmission model: 4800 SP
-transmission_model/hd_4070;Transmission model: HD4070
-transmission_model/grs900r;Transmission model: GRS 900R
-transmission_model/hswl_256b;Transmission model: HSWL 256B
-transmission_model/friedrichshafen_lsg_2000;Transmission model: LSG 2000
-transmission_model/zf_7hp_902;Transmission model: 7 HP 902
+transmission_model/3040_mx;3040 MX
+transmission_model/3200_sp;3200 SP
+transmission_model/4800_sp;4800 SP
+transmission_model/hd_4070;HD4070
+transmission_model/grs900r;GRS 900R
+transmission_model/hswl_256b;HSWL 256B
+transmission_model/friedrichshafen_lsg_2000;LSG 2000
+transmission_model/zf_7hp_902;7 HP 902
 
 //ENGINE & TRANSMISSION MENU TEXTS
-transmission_steer_type/side_final_drive;planetary steering
-transmission_steer_type/double_differential;double differential steering
-transmission_steer_type/twin_transmission;twin-gearbox steering
-transmission_steer_type/clutch_braking;clutch-brake steering
-transmission_steer_type/controlled_differential;controlled differential steering
+transmission_type/auto;Automatic
+transmission_type/mech;Mechanical
+transmission_steer_type/side_final_drive;Planetary steering
+transmission_steer_type/double_differential;Double differential steering
+transmission_steer_type/twin_transmission;Twin-gearbox steering
+transmission_steer_type/clutch_braking;Clutch-brake steering
+transmission_steer_type/controlled_differential;Controlled differential steering

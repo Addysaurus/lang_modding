@@ -21,7 +21,7 @@ All dates are listed in DD-MM-YYYY format.
 ## 1.20.00 - UNRELEASED
 
 ### Vehicles:
-- Updated for the "Eagle's Shadow" major update and the "Dreams Come True: Mistel 2" and "The Great War" events.
+- Updated for the "Eagle's Shadow" major update and the "Dreams Come True: Mistel 2", "The Great War", and "Coastal Defender" events.
 - Implemented the Italiang ground tree rework. This reworks every ground vehicle in the Italian tech tree, both Italian and those from other nations.
 - Reworked the WWI planes (**D.VII** and **S. XIII**).
 - Updated a bunch more manufacturers.
@@ -30,6 +30,7 @@ All dates are listed in DD-MM-YYYY format.
 - Revised all roundels in the Hebrew package to be right-to-left.
 - Reworked the **E.B.R.**s.
 - Reworked the **Garford**.
+- Reworked the Spanish **HA-28 Tigre**.
 - Corrected the Taiwanese **F-16V-72** to the **F-16V-20**. Block 72 vehicles have different engines and this vehicle is an upgraded one.
 - Revised the **MiG-21PFM** (no particular reason, the name "MiG-21PFM (94)" was just annoying me so I fixed it).
 - Corrected some missing US naval folders.

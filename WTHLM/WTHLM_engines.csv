@@ -876,6 +876,7 @@ engine_model/j57_p_13;J57-P-13
 engine_model/j57_p_23a;J57-P-23A
 engine_model/j65-w-420;J65-W-420
 engine_model/f100_pw_200;F100-PW-200
+engine_model/CT7-8E;CT7-8E
 engine_model/cts800-4n;CTS800-4N
 engine_model/6B_TA;6BTA
 
@@ -901,9 +902,14 @@ engine_model/merlin-73;R.M.8.S.M. | Merlin Mk. 73
 engine_model/merlin-77;R.M. 11.S. | Merlin Mk. 77
 engine_model/avon_26;Avon Mk. 26
 engine_model/adour_mk151;Adour Mk. 151-01
+engine_model/l60_mk_4a;Engine, Diesel, Leyland, L60, No. 4, Mk. 4A
+engine_model/l60_mk_4b;Engine, Diesel, Leyland, L60, No. 4, Mk. 4B
+engine_model/l60_mk_7;Engine, Diesel, Leyland, L60, No. 4, Mk. 7
+engine_model/l60_mk_13a;Engine, Diesel, Leyland, L60, No. 4, Mk. 13A
 
 //JAPAN ENGINES
 engine_model/ha_214;Ha 42-31
+engine_model/sa_12200_vd;SA 12200 VD
 
 //CHINA ENGINES
 engine_model/wj-6;WJ6 Fādòngjī
@@ -962,8 +968,20 @@ transmission_manufacturer/sesm;"Manufacturer: SESM
 transmission_manufacturer/zf;"Manufacturer: ZF Friedrichshafen
 "
 
+//USA TRANSMISSIONS
+transmission_model/xtg_411;XTG 411-2A
+
 //UK TRANSMISSIONS
+transmission_model/tn_12;TN12
+transmission_model/tn_12_mk3;TN12 Mk. 3
+transmission_model/tn_37;TN37
 transmission_model/tn_15e;TN15E+
+
+//JAPAN TRANSMISSIONS
+transmission_model/mt_75t;MT75A
+
+//FRANCE TRANSMISSIONS
+transmission_model/bv_5_sd_200_d;5SD-200D
 
 //UNCATEGORIZED TRANSMISSIONS
 transmission_model/x_1100_3b;X-1100-3B

@@ -28,7 +28,7 @@ All dates are listed in DD-MM-YYYY format.
 - Finally changed "Âk" back to "Yak". This is not a full implementation of our new Russian transliteration system, but just to finally get rid of "Âk" which was disgusting.
 - Removed hyphens from US ship pennant numbers and periods from initials in vessel names to align with SECNAVINST 5030.8. Thank you gszabi99 for sending me down this rabbit hole, and damn you for cursing me with this knowledge I did not want. If you have a problem with this change (like I do), blame gszabi (like I do).
 - Revised all roundels in the Hebrew package to be right-to-left.
-- Reworked the **E.B.R.**s.
+- Reworked the Panhard **E.B.R.**.
 - Reworked the **Garford**.
 - Reworked the Spanish **HA-28 Tigre**.
 - Corrected the Taiwanese **F-16V-72** to the **F-16V-20**. Block 72 vehicles have different engines and this vehicle is an upgraded one.

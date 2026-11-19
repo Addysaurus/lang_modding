@@ -18,7 +18,7 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
-## 1.20.00 - UNRELEASED
+## 1.20.00 - 19-11-2026
 
 ### Vehicles:
 - Updated for the "Eagle's Shadow" major update and the "Dreams Come True: Mistel 2", "The Great War", and "Coastal Defender" events.

@@ -30,6 +30,12 @@ ussr_ai_sam_launcher_9a310_2;SPAAM
 ussr_ai_sam_launcher_9a310m1_0;Самоходная огневая установка 9А310М1 «Бук-М1»
 ussr_ai_sam_launcher_9a310m1_1;9А310М1
 ussr_ai_sam_launcher_9a310m1_2;SPAAM
+ussr_ai_tbm_9k720_m_iskander_0;Самоходная пусковая установка 9П78-1
+ussr_ai_tbm_9k720_m_iskander_1;9П78-1
+ussr_ai_tbm_9k720_m_iskander_2;TBM
+ussr_ai_tbm_9k720_k_iskander_0;Самоходная пусковая установка 9П78-1
+ussr_ai_tbm_9k720_k_iskander_1;9П78-1
+ussr_ai_tbm_9k720_k_iskander_2;TBM
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;Автомобиль КАМАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_1;КАМАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_2;Transport
@@ -188,6 +194,34 @@ la_174_1;174
 la_174_2;174
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 6
+mig-21_pfm_shop;МиГ-21ПФМ
+mig-21_pfm_0;"<color=#81c3fc>Горьковский авиационный завод им. Орджоникидзе</color>
+<color=#5cae63>изд. 94</color>
+Самолёт МиГ-21ПФМ"
+mig-21_pfm_1;МиГ-21ПФМ
+mig-21_pfm_2;МиГ-21
+
+mig-21_bis_shop;МиГ-21бис
+mig-21_bis_0;"<color=#81c3fc>Московский машиностроительный завод им. А. И. Микояна</color>
+<color=#5cae63>изд. 75</color>
+Самолёт МиГ-21бис"
+mig-21_bis_1;МиГ-21бис
+mig-21_bis_2;МиГ-21
+
+mig-21_bis_event_shop;МиГ-21бис
+mig-21_bis_event_0;"<color=#81c3fc>Московский машиностроительный завод им. А. И. Микояна</color>
+<color=#5cae63>изд. 75</color>
+Самолёт МиГ-21бис"
+mig-21_bis_event_1;МиГ-21бис
+mig-21_bis_event_2;МиГ-21
+
+su_15tm_shop;Су-15ТМ
+su_15tm_0;"<color=#81c3fc>Завод № 153 им. В. П. Чкалова</color>
+<color=#5cae63>изд. 37</color>
+Самолёт Су-15ТМ"
+su_15tm_1;Су-15ТМ
+su_15tm_2;Су-15
+
 yak_130_early_shop;Як-130
 yak_130_early_0;"<color=#81c3fc>Иркутский авиационный завод</color>
 Самолёт Як-130"
@@ -223,20 +257,6 @@ nt_tu_95m_1;☢ Ту-95М
 nt_tu_95m_2;☢ Ту-95
 
 //USSR AIRCRAFT - VEHICLE/FAMILY START: RANK 7
-mig-21_bis_shop;МиГ-21бис
-mig-21_bis_0;"<color=#81c3fc>Московский машиностроительный завод им. А. И. Микояна</color>
-<color=#5cae63>изд. 75</color>
-Самолёт МиГ-21бис"
-mig-21_bis_1;МиГ-21бис
-mig-21_bis_2;МиГ-21
-
-mig-21_bis_event_shop;МиГ-21бис
-mig-21_bis_event_0;"<color=#81c3fc>Московский машиностроительный завод им. А. И. Микояна</color>
-<color=#5cae63>изд. 75</color>
-Самолёт МиГ-21бис"
-mig-21_bis_event_1;МиГ-21бис
-mig-21_bis_event_2;МиГ-21
-
 mig_23mld_shop;МиГ-23МЛД
 mig_23mld_0;"<color=#81c3fc>Московское авиационное производственное объединение</color>
 <color=#5cae63>изд. 23-18</color>
@@ -445,17 +465,29 @@ mi_8amtsh_vn_1;Ми-8АМТШ
 mi_8amtsh_vn_2;Ми-8
 
 //USSR GROUND VEHICLES - VEHICLE/FAMILY START: RANK 1
-ussr_garford_putilov_shop;Гарфорд
-ussr_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Путиловский завод</color>
-Бронированный 4-тонный автомобиль «Гарфорд»"
-ussr_garford_putilov_1;Гарфорд
+ussr_garford_putilov_shop;Гарфордъ
+ussr_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Путиловскій заводъ</color>
+Броневого пушечно-пулемётнаго автомобиля «Гарфордъ»"
+ussr_garford_putilov_1;Гарфордъ
 ussr_garford_putilov_2;Armored Car
 
 germ_garford_putilov_shop;◄ Pzw. Garford (Beute)
-germ_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Путиловский завод</color>
+germ_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Путиловскій заводъ</color>
 ◄ Panzerwagen Garford (Beute)"
 germ_garford_putilov_1;◄ Pzw. Garford (Beute)
 germ_garford_putilov_2;Armored Car
+
+uk_garford_putilov_shop;Гарфордъ
+uk_garford_putilov_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Путиловскій заводъ</color>
+Броневого пушечно-пулемётнаго автомобиля «Гарфордъ»"
+uk_garford_putilov_1;Гарфордъ
+uk_garford_putilov_2;Armored Car
+
+uk_garford_putilov_event_shop;Гарфордъ
+uk_garford_putilov_event_0;"<color=#81c3fc>Garford Motor Truck Company <color=@commonTextColor>/</color> Путиловскій заводъ</color>
+Броневого пушечно-пулемётнаго автомобиля «Гарфордъ»"
+uk_garford_putilov_event_1;Гарфордъ
+uk_garford_putilov_event_2;Armored Car
 
 ussr_bt_7_m_shop;БТ-7М
 ussr_bt_7_m_0;"<color=#81c3fc>Харьковский танковый завод № 183 им. Коминтерна</color>
@@ -707,6 +739,14 @@ ussr_t_80um2_0;"<color=#81c3fc>Кировский завод</color>
 ussr_t_80um2_1;Т-80У
 ussr_t_80um2_2;MBT
 
+ussr_btr_90_2004_shop;БТР-90 (Б05Я01)
+ussr_btr_90_2004_0;"<color=#81c3fc>Горьковский автомобильный завод ГАЗ-5923 <color=@commonTextColor>/</color> Арзамасский
+машиностроительный завод</color>
+Бронетранспортер БТР-90
+<color=#adadad>(Боевое отделение Б05Я01 «Бережок»)</color>"
+ussr_btr_90_2004_1;БТР-90
+ussr_btr_90_2004_2;IFV
+
 ussr_bmpt_shop;БМПТ (2002)
 ussr_bmpt_0;"<color=#81c3fc>Производственное объединение «Уралвагонзавод» им. Ф. Э.
 Дзержинского</color>
@@ -829,6 +869,12 @@ ussr_pr_205pe_k225_1;АК-225
 ussr_pr_205pe_k225_2;Artillery Boat
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 1
+ussr_destroyer_vifor_class_lyogkiy_shop;Лёгкий
+ussr_destroyer_vifor_class_lyogkiy_0;"<color=#81c3fc>Cantiere navali Pattison <color=@commonTextColor>/</color> Șantierul Naval Galați</color>
+<color=#fffa62>Эскадренный миноносец тип Вифор</color>
+Лёгкий"
+ussr_destroyer_vifor_class_lyogkiy_1;Лёгкий
+ussr_destroyer_vifor_class_lyogkiy_2;Destroyer
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 2
 
@@ -863,16 +909,22 @@ ussr_destroyer_pr56_bravy_ec_1;Бравый
 ussr_destroyer_pr56_bravy_ec_2;Destroyer
 
 ussr_battleship_oktyabrskaya_revolutsiya_shop;Октябрьская революция
-ussr_battleship_oktyabrskaya_revolutsiya_0;"<color=#81c3fc>Адмиралтейские верфи <color=@commonTextColor>/</color> Судостроительный завод № 189 им. С.
-Орджоникидзе</color>
+ussr_battleship_oktyabrskaya_revolutsiya_0;"<color=#81c3fc>Адмиралтейскій судостроительный заводъ <color=@commonTextColor>/</color> Судостроительный завод
+№ 189 им. С. Орджоникидзе</color>
 <color=#fffa62>Линейный корабль тип Севастополь</color>
-<color=#919191>Гангут</color>
+<color=#919191>Гангутъ <color=@commonTextColor>|</color> Гангут</color>
 Октябрьская революция
 <color=#adadad>(1944)</color>"
 ussr_battleship_oktyabrskaya_revolutsiya_1;Октябрьская революция
 ussr_battleship_oktyabrskaya_revolutsiya_2;Battleship
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
+ussr_battleship_imperator_nikolai_pervyi_shop;Императоръ Николай I
+ussr_battleship_imperator_nikolai_pervyi_0;"<color=#81c3fc>Общества николаевскихъ заводовъ и верфей</color>
+<color=#fffa62>Линейный корабль типъ Императоръ Николай I</color>
+Императоръ Николай I"
+ussr_battleship_imperator_nikolai_pervyi_1;Императоръ Николай I
+ussr_battleship_imperator_nikolai_pervyi_2;Battleship
 
 //USSR BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
 ussr_battlecruiser_kronshtadt_shop;Кронштадт
@@ -1022,6 +1074,13 @@ uk_9a35_m_0;"<color=#81c3fc>Саратовский завод тяжелого �
 ☸ Sṭrelā-10 Em Prakṣepāstra Praṇālī"
 uk_9a35_m_1;☸ Sṭrelā-10 Em
 uk_9a35_m_2;SPAAM
+
+//JAPAN GROUND VEHICLES - VEHICLE/FAMILY START: RANK 6
+jp_bmp_3f_shop;◥ BMP-3F
+jp_bmp_3f_0;"<color=#81c3fc>Курганский машиностроительный завод</color>
+◥ Tank BMP-3F"
+jp_bmp_3f_1;◥ BMP-3F
+jp_bmp_3f_2;IFV
 
 //CHINA AIRCRAFT - VEHICLE/FAMILY START: RANK 1
 i-15bis_china_shop;☀ E-15 Bisī

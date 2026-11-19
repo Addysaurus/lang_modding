@@ -64,13 +64,23 @@ modification/su_s25l/desc;"Loadout unlocked:
 //MISSILES
 modification/mig_25_r_40rd;Р-40РД
 modification/mig_25_r_40rd/desc;"Loadout unlocked:
-• <color=@userlogColoredText>Авиационное пусковое устройство АПУ-84-46</color> pylon:
-  • <color=@userlogColoredText>Авиационная управляемая ракета Р-40РД</color> <color=#ff6f00>AAM-SARH</color>"
+• <color=@userlogColoredText>Авиационное пусковое устройство АПУ-84-46</color>:
+  • {unlockWeapons}"
 
 modification/mig_25_r_40td;Р-40ТД
 modification/mig_25_r_40td/desc;"Loadout unlocked:
-• <color=@userlogColoredText>Авиационное пусковое устройство АПУ-84-46</color> pylon:
-  • <color=@userlogColoredText>Авиационная управляемая ракета Р-40ТД</color> <color=#ff6f00>AAM-IR</color>"
+• <color=@userlogColoredText>Авиационное пусковое устройство АПУ-84-46</color>:
+  • {unlockWeapons}"
+
+modification/su_r_98mr;Р-98МР
+modification/su_r_98mr/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Пусковое устройство ПУ-2-8</color>:
+  • {unlockWeapons}"
+
+modification/su_r_98mt;Р-98МТ
+modification/su_r_98mt/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Пусковое устройство ПУ-2-8</color>:
+  • {unlockWeapons}"
 
 modification/su_rvv_sd;РВВ-СД
 modification/su_rvv_sd/desc;"Loadout unlocked:

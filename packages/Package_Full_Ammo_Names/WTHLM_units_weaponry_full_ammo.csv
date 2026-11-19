@@ -4,6 +4,10 @@
 120mm_xm1147;Cartridge, 120mm: HEMP-T, M1147 Advanced Multi Purpose
 120mm_m829a3;Cartridge, 120mm: APFSDS-T, M829A3
 127mm_54_vt_hc_mk68;"Projectile, 5""/54, HE-CVT, Mk 68"
+127mm_54_it_mk42_mod0_common;"Projectile, 5""/54, Common, Mk 42 Mod 0"
+127mm_54_it_hc_mk41_mod0;"Projectile, 5""/54, HC, Mk 41 Mod 0"
+127mm_54_it_vt_hc_mk41;"Projectile, 5""/54, VT, SD, Mk 41 Mod 0"
+152mm_47_mk_28_common;"Projectile, 6""/47, Common, Mk 28"
 155mm_t152;Cartridge, 155mm: HEP, T152E5
 155_mm_t267;Cartridge, 155mm: HEAT, T267
 203mm_m106;Projectile, 8-Inch: HE, M106
@@ -33,11 +37,15 @@
 150mm_pzgr_39_ts;15cm Panzergranate 39 Treibspiegel
 350_psgr_l_4_2_apc;35cm Sprenggranate L/4,2 (Bodenzünder)
 350_psgr_l_3_6_apc;35cm Panzersprenggranate L/3,6
+406mm_psgr_l_44_ap;41cm Panzersprenggranate L/4,4 mit Haube
+406mm_spgr_l_48_bzd;41cm Sprenggranate L/4,6 mit Haube (Bodenzünder)
+406mm_spgr_l_48;41cm Sprenggranate L/4,8 mit Haube (Kopfzünder)
 
 //USSR AMMUNITION
 30mm_UOF23;3UOF23 (3OF23)
 122mm_3vdcz3;3VDCz3 (3DCz3)
 125mm_3of_82;3VOF128 (3OF82)
+130mm_cn_he_vt;130-mm z'enitnyj snaryat A3-ZS-44R
 
 //UK AMMUNITION
 57mm_qf_ap;"Cartridge, Q.F., 6-pr., Cordite M.D., Steel Shell, Mk. XIV (Shell, Q.F.,
@@ -162,6 +170,7 @@ rim_24b;Ship-Launched, Intercept-Aerial, Guided Missile, RIM-24B Tartar
 us_mim_23b;Guided Missile, Intercept-Aerial, MIM-23B
 us_mim_23a;Guided Missile, Intercept-Aerial, MIM-23A
 557mm_mgm_52;Guided Missile, Surface Attack, MGM-52C Lance
+610mm_mgm_140;Guided Missile, Surface Attack, MGM-140 Army Tactical Missile System
 rim_66c;Ship-Launched, Intercept-Aerial, Guided Missile, RIM-66C Standard MR
 
 //USSR MISSILES
@@ -176,6 +185,8 @@ rim_66c;Ship-Launched, Intercept-Aerial, Guided Missile, RIM-66C Standard MR
 170mm_57e6m;Z'enitnaya upravlyayemaya rak'eta 57È6M-Ye-M
 170mm_tkb_1055;Z'enitnaya upravlyayemaya rak'eta TKB-1055
 300mm_9m55f;300-mm ryeaktivnyj snarâd 9M55F
+920mm_9m723;Z'enitnaya upravlyayemaya rak'eta 9M723
+500mm_9m729;Z'enitnaya upravlyayemaya rak'eta 9M729
 
 //UK MISSILES
 166mm_camm;Common Anti-Air Modular Missile

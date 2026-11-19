@@ -1,47 +1,47 @@
 <ID|readonly|noverify>;<English>
 //GUNS
-weapons/20mm_Type98_user_cannon;<color=@userlogColoredText>20 mm</color> 九八式二十粍高射機関砲 <color=#ff6f00>ACNN</color>
-weapons/20mm_type98_user_cannon;<color=@userlogColoredText>20 mm</color> 九八式二十粍高射機関砲 <color=#ff6f00>ACNN</color>
-weapons/cannonType99;<color=@userlogColoredText>20 mm</color> 九九式二十粍一號固定機銃二型 <color=#ff6f00>ACNN</color>
+weapons/20mm_Type98_user_cannon;九八式二十粍高射機関砲
+weapons/20mm_type98_user_cannon;九八式二十粍高射機関砲
+weapons/cannonType99;九九式二十粍一號固定機銃二型
 weapons/cannonType99/short;九九式一號二型
-weapons/cannonType99_turret;<color=@userlogColoredText>20 mm</color> 九九式二十粍一號旋回機銃一一型 <color=#ff6f00>ACNN</color>
+weapons/cannonType99_turret;九九式二十粍一號旋回機銃一一型
 weapons/cannonType99_turret/short;九九式一號一一型
-weapons/cannonType99mark3;<color=@userlogColoredText>20 mm</color> 九九式二十粍一號固定機銃三型 <color=#ff6f00>ACNN</color>
+weapons/cannonType99mark3;九九式二十粍一號固定機銃三型
 weapons/cannonType99mark3/short;九九式一號三型
-weapons/cannonType99mark4;<color=@userlogColoredText>20 mm</color> 九九式二十粍一號固定機銃四型 <color=#ff6f00>ACNN</color>
+weapons/cannonType99mark4;九九式二十粍一號固定機銃四型
 weapons/cannonType99mark4/short;九九式一號三型
-weapons/cannonType99Mod2_mark3_turret;<color=@userlogColoredText>20 mm</color> 九九式二十粍二號固定機銃三型 <color=#ff6f00>ACNN</color>
-weapons/cannonType99Mk2;<color=@userlogColoredText>20 mm</color> 九九式二十粍二號固定機銃四型 <color=#ff6f00>ACNN</color>
+weapons/cannonType99Mod2_mark3_turret;九九式二十粍二號固定機銃三型
+weapons/cannonType99Mk2;九九式二十粍二號固定機銃四型
 weapons/cannonType99Mk2/short;九九式二號四型
-weapons/cannonType99Mk2_Kai;<color=@userlogColoredText>20 mm</color> 九九式二十粍二號固定機銃四型改 <color=#ff6f00>ACNN</color>
+weapons/cannonType99Mk2_Kai;九九式二十粍二號固定機銃四型改
 weapons/cannonType99Mk2_Kai/short;九九式二號四型改
-weapons/cannonType99Mod2_mark5_turret;<color=@userlogColoredText>20 mm</color> 九九式二十粍二號固定機銃五型 <color=#ff6f00>ACNN</color>
+weapons/cannonType99Mod2_mark5_turret;九九式二十粍二號固定機銃五型
 weapons/cannonType99Mod2_mark5_turret/short;九九式二號五型
-weapons/cannonType5;<color=@userlogColoredText>30 mm</color> 五式三十粍固定機銃 <color=#ff6f00>ACNN</color>
+weapons/cannonType5;五式三十粍固定機銃
 weapons/cannonType5/short;五式
-weapons/cannonType5_external;<color=@userlogColoredText>30 mm</color> 五式三十粍固定機銃 <color=#ff6f00>ACNN</color>
+weapons/cannonType5_external;五式三十粍固定機銃
 weapons/cannonType5_external/short;五式
-weapons/cannonHo155;<color=@userlogColoredText>30 mm</color> ホ155-I <color=#ff6f00>ACNN</color>
+weapons/cannonHo155;ホ155-I
 weapons/cannonHo155/short;ホ155-I
-weapons/cannonHo155-II;<color=@userlogColoredText>30 mm</color> ホ155-II <color=#ff6f00>ACNN</color>
+weapons/cannonHo155-II;ホ155-II
 weapons/cannonHo155-II/short;ホ155-II
-weapons/37mm_type_94_user_cannon;<color=@userlogColoredText>37 mm</color> 九四式三十七粍戦車砲 <color=#ff6f00>CNN</color>
-weapons/47mm_Type1_user_cannon;<color=@userlogColoredText>47 mm</color> 一式四十七粍戦車砲 <color=#ff6f00>CNN</color>
-weapons/cannonType88;<color=@userlogColoredText>75 mm</color> 「キ109」搭載砲 <color=#ff6f00>ACNN</color>
+weapons/37mm_type_94_user_cannon;九四式三十七粍戦車砲
+weapons/47mm_Type1_user_cannon;一式四十七粍戦車砲
+weapons/cannonType88;「キ109」搭載砲
 weapons/cannonType88/short;「キ109」搭載砲
-weapons/cannonHo402;<color=@userlogColoredText>57 mm</color> ホ402 <color=#ff6f00>ACNN</color>
+weapons/cannonHo402;ホ402
 weapons/cannonHo402/short;ホ402
-weapons/75mm_Type_II_Model_I_user_cannon;<color=@userlogColoredText>75 mm</color> 試製五式七糎半戦車砲 (長) I型 <color=#ff6f00>CNN</color>
-weapons/75mm_Type_II_model_II_user_cannon;<color=@userlogColoredText>75 mm</color> 試製五式七糎半戦車砲 (長) II型 <color=#ff6f00>CNN</color>
-weapons/90mm_Type61_b_user_cannon;<color=@userlogColoredText>90 mm</color> 61式90mm戦車砲C型 <color=#ff6f00>CNN</color>
-weapons/105mm_type_91_user_cannon;<color=@userlogColoredText>105 mm</color> 九一式十糎榴弾砲 <color=#ff6f00>CNN-HWZ</color>
-weapons/106mm_Type_60B_user_cannon;<color=@userlogColoredText>105 mm</color> 60式車載106mm無反動砲B型 <color=#ff6f00>CNN-RCL</color>
-weapons/155mm_60_type_3_naval_user_cannon;<color=@userlogColoredText>155 mm</color> 六十口径三年式十五糎半砲 <color=#ff6f00>CNN</color>
-weapons/410mm_45_type_3_mod_naval_user_cannon;<color=@userlogColoredText>410 mm</color> 四五口径三年式四一糎砲 <color=#ff6f00>CNN</color>
+weapons/75mm_Type_II_Model_I_user_cannon;試製五式七糎半戦車砲 (長) I型
+weapons/75mm_Type_II_model_II_user_cannon;試製五式七糎半戦車砲 (長) II型
+weapons/90mm_Type61_b_user_cannon;61式90mm戦車砲C型
+weapons/105mm_type_91_user_cannon;九一式十糎榴弾砲
+weapons/106mm_Type_60B_user_cannon;60式車載106mm無反動砲B型
+weapons/155mm_60_type_3_naval_user_cannon;六十口径三年式十五糎半砲
+weapons/410mm_45_type_3_mod_naval_user_cannon;四五口径三年式四一糎砲
 weapons/410mm_45_type_3_mod_naval_user_cannon/short;四五口径三年式四一糎砲
-weapons/410mm_45_type_3_naval_user_cannon;<color=@userlogColoredText>410 mm</color> 四五口径三年式四一糎砲 <color=#ff6f00>CNN</color>
+weapons/410mm_45_type_3_naval_user_cannon;四五口径三年式四一糎砲
 weapons/410mm_45_type_3_naval_user_cannon/short;四五口径三年式四一糎砲
-weapons/460mm_45_type_94_naval_user_cannon;<color=@userlogColoredText>460 mm</color> 四五口径九四式四〇糎砲 <color=#ff6f00>CNN</color>
+weapons/460mm_45_type_94_naval_user_cannon;四五口径九四式四〇糎砲
 weapons/460mm_45_type_94_naval_user_cannon/short;四五口径九四式四〇糎砲
 
 //AMMUNITION
@@ -58,30 +58,36 @@ weapons/460mm_45_type_94_naval_user_cannon/short;四五口径九四式四〇糎�
 460mm_type0_common_he;四六糎零式通常弾
 460mm_type91_apc;四六糎九一式徹甲弾
 
+//BOMBS
+weapons/jp_500lb_mk82_gcs_1;Mk 82型500ポンド普通爆弾 (91式爆弾用誘導装置1型)
+weapons/jp_500lb_mk82_gcs_1/short;Mk 82 (GCS-1 (1型))
+weapons/jp_750lb_m117_gcs_1;JM117型340kg普通爆弾 (91式爆弾用誘導装置2型)
+weapons/jp_750lb_m117_gcs_1/short;JM117 (GCS-1 (2型))
+
 //MISSILES
-weapons/jp_ki_148_i_go_1b;イ号一型乙無線誘導弾 | キ148 <color=#ff6f00>AGM-RG</color>
+weapons/jp_ki_148_i_go_1b;イ号一型乙無線誘導弾 | キ148
 weapons/jp_ki_148_i_go_1b/short;キ148
-weapons/jp_aam3;90式空対空誘導弾 | AAM-3 <color=#ff6f00>AAM-IR</color>
+weapons/jp_aam3;90式空対空誘導弾 | AAM-3
 weapons/jp_aam3/short;AAM-3
-weapons/jp_aam3_default;90式空対空誘導弾 | AAM-3 <color=#ff6f00>AAM-IR</color>
+weapons/jp_aam3_default;90式空対空誘導弾 | AAM-3
 weapons/jp_aam3_default/short;AAM-3
-weapons/jp_aam4;99式空対空誘導弾 | AAM-4 <color=#ff6f00>AAM-ARH</color>
+weapons/jp_aam4;99式空対空誘導弾 | AAM-4
 weapons/jp_aam4/short;AAM-4
-weapons/jp_aam4_default;99式空対空誘導弾 | AAM-4 <color=#ff6f00>AAM-ARH</color>
+weapons/jp_aam4_default;99式空対空誘導弾 | AAM-4
 weapons/jp_aam4_default/short;AAM-4
-weapons/jp_asm1_missile;80式空対艦誘導弾 | ASM-1 <color=#ff6f00>AShM-ARH</color>
-weapons/jp_asm1_missile/short;ASM-1
-weapons/jp_asm2_missile;93式空対艦誘導弾 | ASM-2 <color=#ff6f00>AShM-IR</color>
-weapons/jp_asm2_missile/short;ASM-2
-weapons/jp_asm3;ASM-3A空対艦誘導弾 <color=#ff6f00>AShM-ARH/GNSS</color>
+weapons/jp_asm1;80式空対艦誘導弾 | ASM-1
+weapons/jp_asm1/short;ASM-1
+weapons/jp_asm2;93式空対艦誘導弾 | ASM-2
+weapons/jp_asm2/short;ASM-2
+weapons/jp_asm3;ASM-3A空対艦誘導弾
 weapons/jp_asm3/short;ASM-3A
-weapons/120mm_type_64_mat_launcher_user_cannon;64式対戦車誘導弾 <color=#ff6f00>AGM-WG</color>
+weapons/120mm_type_64_mat_launcher_user_cannon;64式対戦車誘導弾
 weapons/120mm_type_64_mat_launcher_user_cannon/short;ATM-1
-weapons/120mm_Type_64_MAT_rocket_launcher;64式対戦車誘導弾 <color=#ff6f00>AGM-WG</color>
+weapons/120mm_Type_64_MAT_rocket_launcher;64式対戦車誘導弾
 weapons/120mm_Type_64_MAT_rocket_launcher/short;ATM-1
-weapons/160mm_sam_1c_launcher_user_cannon;81式短距離地対空誘導弾C型発射装置「ショートアロー」 <color=#ff6f00>LCH</color>
-weapons/160mm_sam_1c_slave_launcher_user_cannon;81式短距離地対空誘導弾C型発射装置「ショートアロー」 <color=#ff6f00>LCH</color>
+weapons/160mm_sam_1c_launcher_user_cannon;81式短距離地対空誘導弾C型発射装置「ショートアロー」
+weapons/160mm_sam_1c_slave_launcher_user_cannon;81式短距離地対空誘導弾C型発射装置「ショートアロー」
 160mm_sam_1c;SAM-1C
-weapons/80mm_Type_91_launcher_user_cannon;93式近距離地対空誘導弾発射装置「クローズドアロー」 <color=#ff6f00>LCH</color>
+weapons/80mm_Type_91_launcher_user_cannon;93式近距離地対空誘導弾発射装置「クローズドアロー」
 80mm_type_91;SAM-3
-weapons/320mm_type_03_user_cannon;03式中距離地対空誘導弾発射装置 <color=#ff6f00>LCH</color>
+weapons/320mm_type_03_user_cannon;03式中距離地対空誘導弾発射装置

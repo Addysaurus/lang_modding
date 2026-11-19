@@ -1,76 +1,110 @@
 <ID|readonly|noverify>;<English>
-bullet_properties/armorPiercing/fragmentation;Fragmentation
-weaponry/gameModeRestrictions/header;Availability in game modes
-weaponry/gameModeRestrictions/br;at BR {br} and higher
-xray/ammo/first_stage/replenish_delay;Ready rack replenishment delay
-xray/ammo/first_stage/replenish_time;Ready rack replenishment time
-xray/ammo/first_stage/reload_time_when_empty;Reload time without ready rack
-xray/transmission/forwardGears;Forward gears:
-xray/transmission/backwardGears;Backward gears:
-xray/transmission/gearRatio;Gear ratio
-mainmenu/requiredBR;Requires BR {br} or higher
-mainmenu/requiredAircraftCountWithBR;Requires {count}+ {count=aircraft/aircraft} with BR {br} or higher
-mainmenu/requiredShipWithBR;Requires a ship with BR {br} or higher
-mainmenu/oneMainModeRequired;At least one main mode must be enabled
-mainmenu/forEachSquadMember;(of each squad member)
-slotbarPresetsTutorial/autoChangePreset;"This will automatically change your vehicles to the selected preset.
-You can always restore your current vehicles in this menu."
-armor_class/dural_nikel0_4_tail;Kol'chugaluminium corrugated skin 0.4 mm
-armor_class/dural_nikel0_4_fuse;Kol'chugaluminium corrugated skin 0.4 mm
-armor_class/dural_nikel0_4_wing;Kol'chugaluminium corrugated skin 0.4 mm
-armor_class/dural_nikel0_4_elevator;Kol'chugaluminium corrugated skin 0.2 mm
-armor_class/dural_nikel0_4_fin;Kol'chugaluminium corrugated skin 0.4 mm
-armor_class/dural_nikel1;Kol'chugaluminium 1 mm
-armor_class/dural_nikel3;Kol'chugaluminium 3 mm
-xray/turnTurretSpeed/lowBattery/yaw;Horizontal guidance speed on low battery
-xray/turnTurretSpeed/lowBattery/pitch;Vertical guidance speed on low battery
-workshop/wtcs_trophy_6;WTCS Esports Trophy VI
-loading_bg/login_layer_ship_marathon_guardian_of_the_baltic_sea;Oktyabrskaya Revolutsiya
-loading_bg/login_layer_space_program;F-16XL
-loading_bg/login_layer_sky_odyssey;Hellenic Air Force
-loading_bg/login_layer_arjun_mk1;Arjun Mk 1
-loading_bg/login_layer_j16;J-16
-loading_bg/login_layer_aw_159;AW159 HMA.2
-gpuBenchmark/btnApply;"Apply for ""{modeText}"" mode"
-edit/secondary_weapons/old_preset_invalid_title;Change in custom weapon preset
-edit/secondary_weapons/old_preset_invalid_desc;Due to weapon stat updates, some items are no longer available and have been automatically removed from this preset. You can modify or update it right now.
-sensorsFilters/onlySelected;Only selected object markers
-userlog/drown_kill_without_offender;— (drowned without damage)
-mainmenu/shellPenetration;Shell armor penetration
-msg/bulletForCompare/noShellsAvailable;No shells available for comparison
-modifications/generation;Generation
-presets/filter/title;Display filter
-presets/filter/enable_auto_abbreviation;Enable auto-abbreviation
-presets/filter/modes_abbreviation;Game Mode abbreviation
-presets/filter/show_modes;Show Game Modes
-presets/filter/show_ratings;Show Battle Ratings
-presets/filter/show_titles;Show custom names
-presets/filter/enable_auto_abbreviation/tooltip;Automatically shortens labels of all presets except the selected one as space runs out. Overrides the manual display settings for game modes, battle ratings and custom names.
-presets/edit/add;Add new preset
-presets/edit/remove;Remove?
-mode/small_teams;Smaller team sizes
-mode/classic;Classic mode
-mode/nuclear_escalation;Nuclear Escalation
-mode/night_battles/desc;"When this option is enabled, you have a chance of getting into a night battle instead of the main mode, if there are enough players in the queue with the option enabled. Enabling the option does not replace the main mode, but allows to get into such battles.
-
-Participation requires a vehicle with a Battle Rating of {requiredBR} or higher.
-
-When participating in night battles, you can earn unique night themed rewards."
-mode/small_teams/desc;"When this option is enabled, you have a chance of getting into a mission with smaller team sizes (min - max: {smallTeamsCount}) instead of the main mode (min - max: {usualTeamsCount}), if there are enough players in the queue with the option enabled. Enabling the option does not replace the main mode, but allows to get into such battles.
-
-Participation requires an aircraft with a Battle Rating of {requiredBR} or higher."
-mode/bullet_hell/desc;"When this option is enabled, you have a chance of getting into a Bullet Hell mission instead of the main mode, if there are enough players in the queue with the option enabled. Enabling the option does not replace the main mode, but allows to get into such battles.
-
-Bullet Hell is a team air battle using only guns and cannons. All suitable aircraft from your crew slots can be used in the mission.
-
-Participation requires {requiredCount}+ {requiredCount=aircraft/aircraft} with a Battle Rating of {requiredBR} or higher."
-mode/naval_ec/desc;"A long naval battle: capture ports, destroy enemy convoys, ships and aircraft.
-
-Participation requires a ship with a Battle Rating of {requiredBR} or higher."
-mode/nuclear_escalation/desc;"A long air battle: destroy enemy vehicles to increase the escalation level. Break through defenses, strike key targets, suppress enemy air defenses and secure air superiority. Use nuclear weapons to deliver decisive strikes.
-
-Participation requires an aircraft with a Battle Rating of {requiredBR} or higher."
-login/seems_registered_help;It seems you recently bound you Guest account. Please use you email and password to login
-login/signin_help;Please Sign In when you ready
-gameMode/unique_themed_rewards;Unique themed rewards
-mainmenu/btnSpecEvents;Event Hub
+credits/updateGame;The credits are missing from this copy of the game. Update the game to see them.
+xbox/mainmenu/btnUserCard;Player's personal file
+xbox/mainmenu/btnProfile;Player's personal file
+weaponry/customPresetsLimit;Custom weapon presets limit reached: {num}
+xbox/unlocks/achievement;New challenge
+xbox/mainmenu/btnUnlockAchievement;Challenges
+xbox/mainmenu/btnFavoritesUnlockAchievement;Favourite Challenges
+xbox/mainmenu/btnUnlockAchievementsAll;All Challenges
+xbox/mainmenu/UnlockAchievementsToFavorite/hint;Add the challenge to Favourites
+xbox/mainmenu/UnlockAchievementsRemoveFromFavorite/hint;Remove the challenge from Favourites
+xbox/mainmenu/noFavoriteAchievements;You have no favourite challenges. You can add challenges to Favourites on the Challenges page.
+shop/expandRankVehicles;Expand Rank {rank} vehicles
+bombProperties/submunitionCount;Number of submunitions
+bombProperties/submunitionType;Submunition type
+bombProperties/submunitionType/heat_frag;HEAT-FRAG
+bombProperties/submunitionType/heat;HEAT
+bombProperties/submunitionType/frag;Fragmentation
+bombProperties/submunitionArmorPenetration;Submunition armor penetration
+bombProperties/submunitionExplosiveMass;Submunition explosive mass
+bombProperties/submunitionExplosiveMassInTNTEquivalent;Submunition TNT equivalent
+bombProperties/releaseHeight;Opening altitude
+bombProperties/coverageWidth;Coverage area width
+bombProperties/coverageLength;Coverage area length
+xbox/msgbox/btn_onlineShop;Microsoft Store
+xbox/msgbox/btn_onlineShop_unlockEvent;Microsoft Store
+xbox/userlog/page/achivements;Challenges
+xbox/userlog/buy_unlock/achievement;You have purchased <color=@userlogColoredText>%s</color> challenge.
+sony/contacts/friends_online;Contacts online: %d
+sony/contacts/friend;Contacts
+sony/contacts/friendlist/add;Add Contact
+sony/contacts/friendlist/remove;Remove Contact
+sony/msg/added_to_friend;You have added <color=@userlogColoredText>%s</color> to your contact list
+sony/msg/ask_remove_from_friend;Remove <color=@userlogColoredText>%s</color> from your contact list?
+mainmenu/freezingCounter;{addCount}{{img=#ui/gameuiskin#icon_freezing.avif}} for {days} {days=day/days} of logins: {count}/{days}
+mainmenu/freezingAvailable;Available: {count}/{total}{{img=#ui/gameuiskin#icon_freezing.avif}}
+mainmenu/freezingAdded;Received {addCount}{{img=#ui/gameuiskin#icon_freezing.avif}}, now available: {count}/{total}{{img=#ui/gameuiskin#icon_freezing.avif}}
+mainmenu/freezingUsed;{used=Used/Used} {used}{{img=#ui/gameuiskin#icon_freezing.avif}}, remaining: {count}/{total}{{img=#ui/gameuiskin#icon_freezing.avif}}
+mainmenu/freezingReceivedUsed;Received {addCount}{{img=#ui/gameuiskin#icon_freezing.avif}}, {used=used/used} {used}{{img=#ui/gameuiskin#icon_freezing.avif}}, remaining: {count}/{total}{{img=#ui/gameuiskin#icon_freezing.avif}}
+mainmenu/freezingReceived;You have received {addCount}{{img=#ui/gameuiskin#icon_freezing.avif}} for {days} days of logging in!
+mainmenu/freezingTooltip0;"""Freeze"" preserves your daily login streak even if you can't enter the game."
+mainmenu/freezingTooltip1;{useCount}{{img=#ui/gameuiskin#icon_freezing.avif}} is automatically spent for each missed day.
+mainmenu/freezingTooltip2;Earn {addCount}{{img=#ui/gameuiskin#icon_freezing.avif}} for every {days} days of logging in. Maximum: {total}.
+xbox/mainmenu/decalNoAchievement;Not available until challenge.
+btn/check_download_status;Check download status
+mainmenu/btnShowLoadedAmmo;Ammo by current loadout
+mainmenu/btnShowLoadedAmmo/tooltip;Show only the shells that will be in the tank: as many as set on the test drive and respawn screens.
+mainmenu/btnShowLoadedAmmo/tooltip_gun;Now: {rack} in the ammo racks and {loaded} in the gun.
+mainmenu/btnAmmoLoad;Ammo loadout
+mainmenu/btnAmmoLoad/tooltip;Shell count of each type, as on the test drive screen. With Ammo by current loadout on, the x-ray shows the chosen loadout.
+xray/ammo/loaded_in_gun;Shell loaded
+xray/ammo/loaded_in_gun/desc;Sits in the gun breech: loaded from the ammo rack when you spawn.
+armor_class/desc/auxiliary_power_unit_always_on;APU operation supplies power to the vehicle's energy-intensive systems
+armor_class/desc/auxiliary_power_unit_damaged;"If it fails, systems powered by the APU cannot be used:
+{partsList}"
+armor_class/laser_rangefinder;LR
+xray/ammo/stowage_order_2;Second-stage ammo stowage
+xray/ammo/stowage_order_3;Third-stage ammo stowage
+xray/ammo/stowage_order_4;Fourth-stage ammo stowage
+xray/ammo/reload_time_stowage_2;Second-stage shell reload time
+xray/ammo/reload_time_stowage_3;Third-stage shell reload time
+xray/ammo/reload_time_stowage_4;Fourth-stage shell reload time
+xray/ammo/auto_load_with_manual;Automatic loading, with manual backup loading
+xray/transmission/steerType;Transmission type
+armor_class/charge;Warhead
+xbox/help/unitInfo;Here you can see the information about the selected vehicle, the selected crew or favorite challenges.
+xbox/trophy/unlockables_names/achievement;Challenge
+sony/items/shop/emptyTab/vehicles;"Coupons for Vehicles can be exchanged for a Vehicle.
+You have no such items at the moment."
+sony/items/shop/emptyTab/skins;"Coupons for Camouflages can be exchanged for a Camouflage.
+You have no such items at the moment."
+sony/items/shop/emptyTab/decals;"Coupons for Decals can be exchanged for a Decal.
+You have no such items at the moment."
+respawn/notEnoughSupplies;Not enough supplies
+respawn/strongpointsNotHeld;Strongpoints are not held
+armor_class/copper_liner5;Copper liner
+actionBarItem/supply_transport_cargo;Supply cargo
+actionBarItem/supply_load;Load supplies
+actionBarItem/supply_unload;Unload supplies
+sony/mainmenu/skirmish/noProgress;Attention! In this mode, there are no <color=@currencyRpColor>▉</color> and <color=@currencyWpColor>€</color> rewards, and your actions do not count towards the progress of Trophies.
+tutorials/hotas_restriction_xinput;You can play in all FLYING missions with T-Flight Hotas One. Only this tutorial must be played with Xbox One Wireless Controller. Tutorial for Flying missions playable with T-Flight Hotas One coming in next update.
+tutorials/hotas_restriction_sony;You can play in all FLYING missions with T-Flight Hotas 4. Only this tutorial must be played with DUALSHOCK®4. Tutorial for Flying missions playable with T-Flight Hotas 4 coming in next update.
+tutorials/hotas_restriction/tank_xinput;Thrustmaster® T.Flight Hotas One cannot be used for tank control. This tutorial can be played with Xbox One Wireless Controller
+tutorials/hotas_restriction/tank_sony;Thrustmaster® T.Flight Hotas 4 cannot be used for tank control. This tutorial can be played with DUALSHOCK®4
+sony/xbox/crossPlayRequired;"Enabled ""Cross-platform gameplay"" required."
+sony/xbox/crossPlayEnabled;"""Cross-platform gameplay"" is enabled. You will meet players from other platforms in battle."
+sony/queue/crossPlay;"Enabled ""Cross-platform gameplay"" allows you to join the battles quicker."
+sony/xbox/actionNotAvailableLiveCommunications;"Limited by option ""<color=@warningTextColor>Cross-platform communication</color>"" in chat options."
+sony/xbox/actionNotAvailableCrossNetworkCommunications;"Limited by option ""<color=@warningTextColor>Cross-platform communication</color>"" in chat settings."
+sony/xbox/actionNotAvailableCrossNetworkPlay;"Limited by option ""<color=@warningTextColor>Cross-platform gameplay</color>"" in main options."
+workshop/sky_odyssey;Sky Odyssey
+workshop/eagles_shadow;Eagle’s Shadow
+xbox/mainmenu/unlockAchievements/limitReached;You have more than {num} challenges in list. New favorite challenges won't be saved
+battlePass/seasonName/25;"""Steel Fury"""
+loading_bg/login_layer_patria_bmp_3;AMV (BMP-3)
+loading_bg/login_layer_germ_panzerjager_panther_g2;Jagdpanther G2
+loading_bg/login_layer_germ_panzerjager_panther_g2/desc;Reward for level 100 in the Battle Pass Season
+loading_bg/login_layer_wt_14_years;14th Anniversary of War Thunder
+loading_bg/login_layer_germ_leopard_2a8;Leopard 2A8
+loading_bg/login_layer_f_15ex;F-15EX
+loading_bg/login_layer_aw_249_pre_serie;AW249 Fenice
+loading_bg/login_layer_btr_90_2004;BTR-90
+armor_class/electric_engine;Electric motor
+armor_class/hydroplane_gear;Hydroplane
+eula/textMissing;The license agreement text is missing from this copy of the game. Update the game to read it here.
+profile_header_panzerjager_panther_g2/name;Jagdpanther G2
+anim_frame_neon_purple/name;Neon animated, purple
+anim_frame_lightning_blue/name;Animated with lightning, blue
+frame_mistel/name;Mistletoe
+frame_ghosts/name;Haunted lands

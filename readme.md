@@ -4,6 +4,8 @@
 
 This mod corrects many of the names ingame due to most of them being anywhere between mildly and horribly inaccurate, as well as adding a lot of new formatting. This mod corrects and reformats vehicle names, weapon names, modification names, engine names, nation names, loading screen names, tips, and some menu texts, with new updates coming very frequently!
 
+This mod has been made entirely by humans with no AI input of any kind. We strictly refuse to use AI in favor of human effort, research, and work. AI sucks and we commit to never using it in our work.
+
 You can get the mod by downloading the mod's `.zip` file from the release marked as "latest" here: https://github.com/Addysaurus/lang_modding/releases
 
 You can report a bug or make a suggestion for the mod here: https://github.com/Addysaurus/lang_modding/issues

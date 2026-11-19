@@ -494,13 +494,23 @@ modification/flz_lwf_lb_66/desc;"Loadout unlocked: <color=@userlogColoredText>Fl
 //USSR MISSILES
 modification/mig_25_r_40rd;R-40RD
 modification/mig_25_r_40rd/desc;"Loadout unlocked:
-• <color=@userlogColoredText>Aviaczionnoye puskovoye ustrojstvo APU-84-46</color> pylon:
-  • <color=@userlogColoredText>Aviaczionnaâ upravlâyemaâ rakyeta R-40RD</color> <color=#ff6f00>AAM-SARH</color>"
+• <color=@userlogColoredText>Av'iatsionnoye puskovoye ustrojzdvo APU-84-46</color>:
+  • {unlockWeapons}"
 
 modification/mig_25_r_40td;R-40TD
 modification/mig_25_r_40td/desc;"Loadout unlocked:
-• <color=@userlogColoredText>Aviaczionnoye puskovoye ustrojstvo APU-84-46</color> pylon:
-  • <color=@userlogColoredText>Aviaczionnaâ upravlâyemaâ rakyeta R-40TD</color> <color=#ff6f00>AAM-IR</color>"
+• <color=@userlogColoredText>Av'iatsionnoye puskovoye ustrojzdvo APU-84-46</color>:
+  • {unlockWeapons}"
+
+modification/su_r_98mr;R-98MR
+modification/su_r_98mr/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Puskovoye ustrojzdvo PU-2-8</color>:
+  • {unlockWeapons}"
+
+modification/su_r_98mt;R-98MT
+modification/su_r_98mt/desc;"Loadout unlocked:
+• <color=@userlogColoredText>Puskovoye ustrojzdvo PU-2-8</color>:
+  • {unlockWeapons}"
 
 modification/su_rvv_sd;RVV-SD
 modification/su_rvv_sd/desc;"Loadout unlocked:

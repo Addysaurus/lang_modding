@@ -433,6 +433,12 @@ Q5B型飞机"
 q_5a_1;Q5B
 q_5a_2;Q5
 
+q_5d_shop;Q5D
+q_5d_0;"<color=#81c3fc>昌飞机制造公司</color>
+Q5D型飞机"
+q_5d_1;Q5D
+q_5d_2;Q5
+
 q_5l_shop;Q5L
 q_5l_0;"<color=#81c3fc>昌飞机制造公司</color>
 Q5L型飞机"
@@ -529,9 +535,10 @@ f_16a_block_20_mlu_killstreak_0;"<color=#81c3fc>Lockheed Martin Corporation</col
 f_16a_block_20_mlu_killstreak_1;☢☀ F-16A
 f_16a_block_20_mlu_killstreak_2;☢☀ F-16
 
-f_16a_block_72v_china_shop;☀ F-16V-72-CF
+f_16a_block_72v_china_shop;☀ F-16V-20-CF
 f_16a_block_72v_china_0;"<color=#81c3fc>Lockheed Martin Corporation</color>
-☀ F-16V-72-CF型戰鬥機"
+<color=#ff8c80>鳳展專案</color>
+☀ F-16V-20-CF型戰鬥機"
 f_16a_block_72v_china_1;☀ F-16A
 f_16a_block_72v_china_2;☀ F-16
 
@@ -1181,6 +1188,20 @@ CM34輪型戰鬥車"
 cn_cm_34_1;CM34
 cn_cm_34_2;Light Tank
 
+cn_zbd_04_shop;ZBD04
+cn_zbd_04_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ502</color>
+ZBD2004式履带步兵战车"
+cn_zbd_04_1;ZBD04
+cn_zbd_04_2;IFV
+
+cn_zbd_04a_shop;ZBD04A
+cn_zbd_04a_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
+<color=#5cae63>WZ502G</color>
+ZBD2004A式履带步兵战车"
+cn_zbd_04a_1;ZBD04A
+cn_zbd_04a_2;IFV
+
 cn_object_122tm_shop;1221 (302)
 cn_object_122tm_0;"<color=#81c3fc>内蒙古第一机械厂</color>
 <color=#ff8c80>二四会战办公室</color>
@@ -1264,13 +1285,6 @@ cn_ztl_11_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
 ZLT2011式轮式装甲突击车"
 cn_ztl_11_1;ZLT11
 cn_ztl_11_2;Light Tank
-
-cn_zbd_04a_shop;ZBD04A
-cn_zbd_04a_0;"<color=#81c3fc>中国兵器工业集团有限公司</color>
-<color=#5cae63>WZ502G</color>
-ZBD2004A式履带步兵战车"
-cn_zbd_04a_1;ZBD04A
-cn_zbd_04a_2;IFV
 
 cn_qn506_shop;QN506
 cn_qn506_0;"<color=#81c3fc>武汉高德红外</color>
@@ -1357,3 +1371,32 @@ cn_hq_11_2;SPAAM
 //CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 5
 
 //CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 6
+
+//CHINA BLUEWATER FLEET - VEHICLE/FAMILY START: RANK 7
+cn_destroyer_type052d_shop;银川 (175)
+cn_destroyer_type052d_0;"<color=#81c3fc>江南造船 (集团) 有限责任公司</color>
+<color=#fffa62>052D型导弹驱逐舰</color>
+银川 (175)"
+cn_destroyer_type052d_1;银川
+cn_destroyer_type052d_2;Missile Destroyer
+
+cn_frigate_type054a_shop;舟山 (529)
+cn_frigate_type054a_0;"<color=#81c3fc>沪东中华造船 (集团) 有限公司</color>
+<color=#fffa62>054A型导弹护卫舰</color>
+舟山 (529)"
+cn_frigate_type054a_1;舟山
+cn_frigate_type054a_2;Missile Frigate
+
+cn_aircraftcarrier_fujian_shop;福建 (18)
+cn_aircraftcarrier_fujian_0;"<color=#81c3fc>江南造船 (集团) 有限责任公司</color>
+<color=#fffa62>003型航空母舰</color>
+福建 (18)"
+cn_aircraftcarrier_fujian_1;福建
+cn_aircraftcarrier_fujian_2;Aircraft Carrier
+
+cn_aircraftcarrier_fujian_ai_shop;福建 (18)
+cn_aircraftcarrier_fujian_ai_0;"<color=#81c3fc>江南造船 (集团) 有限责任公司</color>
+<color=#fffa62>003型航空母舰</color>
+福建 (18)"
+cn_aircraftcarrier_fujian_ai_1;福建
+cn_aircraftcarrier_fujian_ai_2;Aircraft Carrier

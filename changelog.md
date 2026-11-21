@@ -18,11 +18,20 @@ Some terminology for this changelog:
 
 All dates are listed in DD-MM-YYYY format.
 
+## 1.20.01 - UNRELEASED
+
+### Vehicles:
+- Added the missing pennant number to **Le Hardi**.
+- Corrected the spacing of the manufacturers of the **DB-LK**'s and **Ar-2**'s manufacturers to not go over the edge.
+
+### UI:
+- Corrected the incorrect display of Indonesia as Venezuela.
+
 ## 1.20.00 - 19-11-2026
 
 ### Vehicles:
 - Updated for the "Eagle's Shadow" major update and the "Dreams Come True: Mistel 2", "The Great War", and "Coastal Defender" events.
-- Implemented the Italiang ground tree rework. This reworks every ground vehicle in the Italian tech tree, both Italian and those from other nations.
+- Implemented the Italian ground tree rework. This reworks every ground vehicle in the Italian tech tree, both Italian and those from other nations.
 - Reworked the WWI planes (**D.VII** and **S. XIII**).
 - Updated a bunch more manufacturers.
 - Finally changed "Âk" back to "Yak". This is not a full implementation of our new Russian transliteration system, but just to finally get rid of "Âk" which was disgusting.

@@ -1,7 +1,12 @@
 <ID|readonly|noverify>;<English>
 //GROUPS
-shop/group/re_2000_group;Re. 2000 I / GA III
+shop/group/re_2000_group;Re. 2000 I / G.A. III
 shop/group/cr_32_group;C.R. 32 / 32quarter
+shop/group/fiat_g50_italy_group;G. 50 II / A.S. VII
+shop/group/ba_65_group;Ba. 65 (K-14fc) (L) / ⛨ Ju 87 R-2
+shop/group/breda_group;Ba. 88 / P. 108 A.
+shop/group/br_20_dr_group;B.R. 20 / 20 M.
+shop/group/p_108_group;P. 108 B. I / II
 
 //AI UNITS
 
@@ -27,13 +32,13 @@ re_2000_int_2;Re. 2000
 
 re_2000_ga_shop;Re. 2000 G.A. III
 re_2000_ga_0;"<color=#81c3fc>Officine Meccaniche Italiane</color>
-Velivolo da caccia Re. 2000 versione grande autonomia serie III Falco I"
+Velivolo da caccia Re. 2000 grande autonomia serie III Falco I"
 re_2000_ga_1;Re. 2000 G.A.
 re_2000_ga_2;Re. 2000
 
 re_2000_ga_ep_shop;Re. 2000 G.A. III (377ª Sq.)
 re_2000_ga_ep_0;"<color=#81c3fc>Officine Meccaniche Italiane</color>
-Velivolo da caccia Re. 2000 versione grande autonomia serie III Falco I
+Velivolo da caccia Re. 2000 grande autonomia serie III Falco I
 <color=@currencyGoldColor>377ª Squadriglia</color>"
 re_2000_ga_ep_1;Re. 2000 G.A.
 re_2000_ga_ep_2;Re. 2000
@@ -64,7 +69,7 @@ fiat_cr42_italy_2;C.R. 42
 
 fiat_cr42_marcolin_italy_shop;Marcolin's C.R. 42 C.N.
 fiat_cr42_marcolin_italy_0;"<color=#81c3fc>Fiat Aviazione</color>
-Velivolo da caccia C.R. 42 versione caccia notturno Falco
+Velivolo da caccia C.R. 42 caccia notturno Falco
 <color=@currencyGoldColor>Luciano Marcolin's</color>"
 fiat_cr42_marcolin_italy_1;C.R. 42bis
 fiat_cr42_marcolin_italy_2;C.R. 42
@@ -77,10 +82,34 @@ fiat_cr42_2;▀ C.R. 42
 
 fiat_cr42_marcolin_shop;▀ Marcolin's C.R. 42 C.N.
 fiat_cr42_marcolin_0;"<color=#81c3fc>Fiat Aviazione</color>
-▀ Velivolo da caccia C.R. 42 versione caccia notturno Falco
+▀ Velivolo da caccia C.R. 42 caccia notturno Falco
 <color=@currencyGoldColor>Luciano Marcolin's</color>"
 fiat_cr42_marcolin_1;▀ C.R. 42bis
 fiat_cr42_marcolin_2;C.R. 42
+
+fiat_g50_seria2_italy_shop;G. 50 II
+fiat_g50_seria2_italy_0;"<color=#81c3fc>Costruzioni Meccaniche Aeronautiche</color>
+Velivolo da caccia G. 50 serie II Freccia"
+fiat_g50_seria2_italy_1;G. 50 II
+fiat_g50_seria2_italy_2;G. 50
+
+fiat_g50_seria7as_italy_shop;G. 50 A.S. VII
+fiat_g50_seria7as_italy_0;"<color=#81c3fc>Costruzioni Meccaniche Aeronautiche</color>
+Velivolo da caccia G. 50 Africa sahariana serie VII Freccia"
+fiat_g50_seria7as_italy_1;G. 50 A.S. VII
+fiat_g50_seria7as_italy_2;G. 50
+
+fiat_g50_seria2_shop;▀ G. 50 II
+fiat_g50_seria2_0;"<color=#81c3fc>Costruzioni Meccaniche Aeronautiche</color>
+▀ Velivolo da caccia G. 50 serie II Freccia"
+fiat_g50_seria2_1;▀ G. 50 II
+fiat_g50_seria2_2;▀ G. 50
+
+fiat_g50_seria7as_shop;▀ G. 50 AS VII
+fiat_g50_seria7as_0;"<color=#81c3fc>Costruzioni Meccaniche Aeronautiche</color>
+▀ Velivolo da caccia G. 50 Africa sahariana serie VII Freccia"
+fiat_g50_seria7as_1;▀ G. 50 AS VII
+fiat_g50_seria7as_2;▀ G. 50
 
 ba_65_k14_l_shop;Ba. 65 (K-14fc) (L)
 ba_65_k14_l_0;"<color=#81c3fc>Società Italiana Ernesto Breda</color>
@@ -95,6 +124,54 @@ Velivolo da combattimento Ba. 65 Nibbio
 <color=#adadad>(Motore A. 80 R.C. 41)</color>"
 ba_65_a80_1;Ba. 65
 ba_65_a80_2;Ba. 65
+
+breda_88_shop;Ba. 88
+breda_88_0;"<color=#81c3fc>Società Italiana Ernesto Breda</color>
+Velivolo da bombardamento Ba. 88 Lince"
+breda_88_1;Ba. 88
+breda_88_2;Ba. 88
+
+p_108a_serie2_shop;P. 108 A. II
+p_108a_serie2_0;"<color=#81c3fc>Piaggio & C.</color>
+Velivolo da bombardamento P. 108 artigliere serie II"
+p_108a_serie2_1;P. 108 A. II
+p_108a_serie2_2;P. 108
+
+p_108b_serie1_shop;P. 108 B. I
+p_108b_serie1_0;"<color=#81c3fc>Piaggio & C.</color>
+Velivolo da bombardamento P. 108 bombardiere serie I"
+p_108b_serie1_1;P. 108 B. I
+p_108b_serie1_2;P. 108
+
+p_108b_serie2_shop;P. 108 B. II
+p_108b_serie2_0;"<color=#81c3fc>Piaggio & C.</color>
+Velivolo da bombardamento P. 108 bombardiere serie II"
+p_108b_serie2_1;P. 108 B. II
+p_108b_serie2_2;P. 108
+
+fc_20_bis_shop;F.C. 20bis
+fc_20_bis_0;"<color=#81c3fc>Costruzioni Aeronautiche Novaresi</color>
+Velivolo da bombardamento F.C. 20bis"
+fc_20_bis_1;F.C. 20bis
+fc_20_bis_2;F.C. 20
+
+s_81_ar125_shop;S. 81
+s_81_ar125_0;"<color=#81c3fc>Costruzioni Meccaniche Aeronautiche</color>
+Velivolo da bombardamento S. 81 Pipistrello"
+s_81_ar125_1;S. 81
+s_81_ar125_2;S. 81
+
+br_20_dr_shop;B.R. 20
+br_20_dr_0;"<color=#81c3fc>Fiat Aviazione</color>
+Velivolo da bombardamento B.R. 20 Cicogna"
+br_20_dr_1;B.R. 20
+br_20_dr_2;B.R. 20
+
+br_20m_m1_shop;B.R. 20 M.
+br_20m_m1_0;"<color=#81c3fc>Fiat Aviazione</color>
+Velivolo da bombardamento B.R. 20 modificato Cicogna"
+br_20m_m1_1;B.R. 20 M.
+br_20m_m1_2;B.R. 20
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
 

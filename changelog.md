@@ -25,7 +25,7 @@ All dates are listed in DD-MM-YYYY format.
 - Corrected the spacing of the manufacturers of the **DB-LK**'s and **Ar-2**'s manufacturers to not go over the edge.
 
 ### UI:
-- Corrected the incorrect display of Indonesia as Venezuela.
+- Corrected the incorrect display of Indonesia as Venezuela ([report](https://github.com/Addysaurus/lang_modding/issues/198)).
 
 ## 1.20.00 - 19-11-2026
 

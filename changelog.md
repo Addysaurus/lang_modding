@@ -23,6 +23,7 @@ All dates are listed in DD-MM-YYYY format.
 ### Vehicles:
 - All American **F/A-18**s have been adjusted to **FA-18** to match the mission design series (MDS) in accordance with AF 16-401 and DoD 4120.15-L. Yes this is absolutely gross, but this is technically official, manuals just follow a different standard. We have introduced a new package to return the F/A-18 names for those who want them.
 - Added the missing pennant number to **Le Hardi**.
+- Updated the class name of **Lyokh'k'ij** to also be **Lyokh'k'ij** instead of **V'ifor**.
 - Corrected the spacing of the manufacturers of the **DB-LK**'s and **Ar-2**'s manufacturers to not go over the edge.
 
 ### Engines:

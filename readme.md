@@ -79,6 +79,8 @@ Available packages:
   - Walloon:
     - This package puts Belgian vehicles into Walloon as an alternative to the default Flemish.
 - Other packages:
+  - Alternate F/A-18 Names:
+    - This package replaces the name FA-18 (named according to the MDS standard documents AF 16-401 and DoD 4120.15-L) with F/A-18 (common standard in manuals).
   - Full Ammunition Names:
     - This package introduces the full names of ammunition that may be too long to be convenient for use.
   - Full Ammunition Names Mandarin:

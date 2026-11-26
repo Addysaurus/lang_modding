@@ -7,6 +7,9 @@ shop/group/ba_65_group;Ba. 65 (K-14fc) (L) / ⛨ Ju 87 R-2
 shop/group/breda_group;Ba. 88 / P. 108 A.
 shop/group/br_20_dr_group;B.R. 20 / 20 M.
 shop/group/sm_79_italy_group;S.M. 79 I / VIII
+shop/group/re_2001_group;Re. 2001 I / C.B. I
+shop/group/mc_200_italy_group;C. 200 III / VII
+shop/group/mc_202_italy_group;C. 202 VII / 205 I
 shop/group/p_108_group;P. 108 B. I / II
 
 //AI UNITS
@@ -200,6 +203,84 @@ sm_79_1941_italy_1;S.M. 79 A.S. XXXVI
 sm_79_1941_italy_2;S.M. 79
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 2
+re_2002_early_shop;Re. 2002 I
+re_2002_early_0;"<color=#81c3fc>Officine Meccaniche Italiane</color>
+Velivolo da caccia Re. 2002 serie I Ariete II"
+re_2002_early_1;Re. 2002 I
+re_2002_early_2;Re. 2002
+
+re_2001_serie1_shop;Re. 2001 I
+re_2001_serie1_0;"<color=#81c3fc>Officine Meccaniche Italiane</color>
+Velivolo da caccia Re. 2001 serie I Falco II"
+re_2001_serie1_1;Re. 2001 I
+re_2001_serie1_2;Re. 2001
+
+re_2001_serie1_ep_shop;Re. 2001 I (22º Gr.)
+re_2001_serie1_ep_0;"<color=#81c3fc>Officine Meccaniche Italiane</color>
+Velivolo da caccia Re. 2001 serie I Falco II
+<color=@currencyGoldColor>22º Gruppo autonomo caccia terrestre</color>"
+re_2001_serie1_ep_1;Re. 2001 I
+re_2001_serie1_ep_2;Re. 2001
+
+re_2001_cb_shop;Re. 2001 C.B. I
+re_2001_cb_0;"<color=#81c3fc>Officine Meccaniche Italiane</color>
+Velivolo da caccia Re. 2001 caccia bombardiere serie I Falco II"
+re_2001_cb_1;Re. 2001 C.B. I
+re_2001_cb_2;Re. 2001
+
+re_2001_cn_shop;Re. 2001 C.N. III
+re_2001_cn_0;"<color=#81c3fc>Officine Meccaniche Italiane</color>
+Velivolo da caccia Re. 2001 caccia notturna serie III Falco II"
+re_2001_cn_1;Re. 2001 C.N. III
+re_2001_cn_2;Re. 2001
+
+mc200_serie3_italy_shop;C. 200 III
+mc200_serie3_italy_0;"<color=#81c3fc>Aeronautica Macchi</color>
+Velivolo da caccia C. 200 serie III Saetta"
+mc200_serie3_italy_1;C. 200 III
+mc200_serie3_italy_2;C. 200
+
+mc200_serie7_italy_shop;C. 200 VII
+mc200_serie7_italy_0;"<color=#81c3fc>Aeronautica Macchi</color>
+Velivolo da caccia C. 200 serie VII Saetta"
+mc200_serie7_italy_1;C. 200 VII
+mc200_serie7_italy_2;C. 200
+
+mc-202_italy_shop;C. 202 VII
+mc-202_italy_0;"<color=#81c3fc>Aeronautica Macchi</color>
+Velivolo da caccia C. 202 serie VII Folgore"
+mc-202_italy_1;C. 202 VII
+mc-202_italy_2;C. 202
+
+mc-202_d_shop;C. 202 D. III
+mc-202_d_0;"<color=#81c3fc>Aeronautica Macchi</color>
+Velivolo da caccia C. 202 D. serie III Folgore"
+mc-202_d_1;C. 202 D. III
+mc-202_d_2;C. 202
+
+mc-202_ec_shop;C. 202 E.C. III
+mc-202_ec_0;"<color=#81c3fc>Aeronautica Macchi</color>
+Velivolo da caccia C. 202 esperimento cannoni serie III Folgore"
+mc-202_ec_1;C. 202 E.C. III
+mc-202_ec_2;C. 202
+
+mc-205_serie1_shop;C. 205 I
+mc-205_serie1_0;"<color=#81c3fc>Aeronautica Macchi</color>
+Velivolo da caccia C. 205 serie I Veltro"
+mc-205_serie1_1;C. 205 I
+mc-205_serie1_2;C. 205
+
+mc-205_n2_shop;C. 205 N. 2
+mc-205_n2_0;"<color=#81c3fc>Aeronautica Macchi</color>
+Velivolo da caccia C. 205 N. 2 Orione"
+mc-205_n2_1;C. 205 N.
+mc-205_n2_2;C. 205
+
+mc-205_serie3_shop;C. 205 III
+mc-205_serie3_0;"<color=#81c3fc>Aeronautica Macchi</color>
+Velivolo da caccia C. 205 serie III Veltro"
+mc-205_serie3_1;C. 205 III
+mc-205_serie3_2;C. 205
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 p-47d_30_italy_shop;⛨ F-47D-30-RE
@@ -224,7 +305,7 @@ spitfire_mk5b_italy_2;⛨ Spitfire
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 4
 re_2005_vdm_shop;Re. 2005 (M.M. 495)
 re_2005_vdm_0;"<color=#81c3fc>Officine Meccaniche Italiane</color>
-Velivolo da caccia e intercettore Re. 2005 Sagittario
+Velivolo da caccia Re. 2005 Sagittario
 <color=#adadad>(DB 9-605 AM) (Luftschrauben-Gerätnummer 9-12087A)</color>
 <color=@currencyGoldColor>M.M. 495</color>"
 re_2005_vdm_1;Re. 2005

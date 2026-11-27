@@ -11,6 +11,7 @@ shop/group/re_2001_group;Re. 2001 I / C.B. I
 shop/group/mc_200_italy_group;C. 200 III / VII
 shop/group/mc_202_italy_group;C. 202 VII / 205 I
 shop/group/p_108_group;P. 108 B. I / II
+shop/group/z_1007_group;Z. 1007bis III / V
 
 //AI UNITS
 
@@ -305,6 +306,30 @@ ju-87d-3_italy_0;"<color=#81c3fc>Junkers Flugzeug- und Motorenwerke</color>
 ⛨ Velivolo da bombardamento Ju 87 D-3"
 ju-87d-3_italy_1;⛨ Ju 87 D
 ju-87d-3_italy_2;⛨ Ju 87
+
+sm_91_shop;S.M. 91
+sm_91_0;"<color=#81c3fc>Società Italiana Aeroplani Idrovolanti ""Savoia-Marchetti"" S.M. 91</color>"
+sm_91_1;S.M. 91
+sm_91_2;S.M. 91
+
+z_1007_bis_serie3_shop;Z. 1007bis III
+z_1007_bis_serie3_0;"<color=#81c3fc>Cantieri Riuniti dell'Adriatico</color>
+Velivolo trimotore da bombdardamento Z. 1007bis serie III Alcione"
+z_1007_bis_serie3_1;Z. 1007bis III
+z_1007_bis_serie3_2;Z. 1007
+
+z_1007_bis_serie5_shop;Z. 1007bis V
+z_1007_bis_serie5_0;"<color=#81c3fc>Cantieri Riuniti dell'Adriatico</color>
+Velivolo trimotore da bombdardamento Z. 1007bis serie V Alcione"
+z_1007_bis_serie5_1;Z. 1007bis V
+z_1007_bis_serie5_2;Z. 1007
+
+ro_57_quadriarma_shop;Ro. 57bis (M.M. 75315)
+ro_57_quadriarma_0;"<color=#81c3fc>Industrie Meccaniche e Aeronautiche Meridionali</color>
+Velivolo bimotore da bombardamento e tuffo Ro. 57bis
+<color=@currencyGoldColor>M.M. 75315</color>"
+ro_57_quadriarma_1;Ro. 57bis
+ro_57_quadriarma_2;Ro. 57
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
 p-47d_30_italy_shop;⛨ F-47D-30-RE

@@ -12,6 +12,7 @@ shop/group/mc_200_italy_group;C. 200 III / VII
 shop/group/mc_202_italy_group;C. 202 VII / 205 I
 shop/group/p_108_group;P. 108 B. I / II
 shop/group/z_1007_group;Z. 1007bis III / V
+shop/group/g_55_serie_group;G. 55 I / Re. 2005 0
 
 //AI UNITS
 
@@ -332,6 +333,24 @@ ro_57_quadriarma_1;Ro. 57bis
 ro_57_quadriarma_2;Ro. 57
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 3
+g_55_serie1_ss0_shop;G. 55 I 0
+g_55_serie1_ss0_0;"<color=#81c3fc>Aeronautica d'Italia</color>
+Velivolo da caccia G. 55 serie I sottoserie 0 Centauro"
+g_55_serie1_ss0_1;G. 55 I
+g_55_serie1_ss0_2;G. 55
+
+g_55_serie1_shop;G. 55 I
+g_55_serie1_0;"<color=#81c3fc>Aeronautica d'Italia</color>
+Velivolo da caccia G. 55 serie I Centauro"
+g_55_serie1_1;G. 55 I
+g_55_serie1_2;G. 55
+
+g_55s_shop;G. 55 S.
+g_55s_0;"<color=#81c3fc>Aeronautica d'Italia</color>
+Velivolo da caccia G. 55 silurante Centauro"
+g_55s_1;G. 55 S.
+g_55s_2;G. 55
+
 sm_92_shop;S.M. 92
 sm_92_0;"<color=#81c3fc>Società Italiana Aeroplani Idrovolanti ""Savoia-Marchetti"" S.M. 92</color>"
 sm_92_1;S.M. 92
@@ -370,6 +389,18 @@ Velivolo da caccia Re. 2005 serie I Sagittario
 <color=@currencyGoldColor>M.M. 495</color>"
 re_2005_vdm_1;Re. 2005 I
 re_2005_vdm_2;Re. 2005
+
+g_56_shop;G. 56
+g_56_0;"<color=#81c3fc>Aeronautica d'Italia</color>
+Velivolo da caccia G. 56"
+g_56_1;G. 56
+g_56_2;G. 56
+
+bf-109g-14as_shop;⛨ Bf 109 G-14/AS
+bf-109g-14as_0;"<color=#81c3fc>Messerschmitt</color>
+⛨ Velivolo da caccia Bf 109 G-14/AS"
+bf-109g-14as_1;⛨ Bf 109 G
+bf-109g-14as_2;⛨ Bf 109
 
 //ITALY AIRCRAFT - VEHICLE/FAMILY START: RANK 5
 vampire_fb52a_italy_shop;⛨ Vampire Mk. 52A
